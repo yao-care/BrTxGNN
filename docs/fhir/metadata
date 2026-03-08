@@ -1,0 +1,66 @@
+{
+  "resourceType": "CapabilityStatement",
+  "id": "brtxgnn-fhir-server",
+  "url": "https://brtxgnn.yao.care/fhir/metadata",
+  "version": "1.0.0",
+  "name": "BrTxGNNFHIRServer",
+  "title": "BrTxGNN FHIR Server - Reposicionamento de Medicamentos no Brasil",
+  "status": "active",
+  "date": "2026-03-07",
+  "publisher": "BrTxGNN Project",
+  "description": "Sistema de predição de reposicionamento de medicamentos da ANVISA - API FHIR",
+  "kind": "instance",
+  "fhirVersion": "4.0.1",
+  "format": [
+    "json"
+  ],
+  "rest": [
+    {
+      "mode": "server",
+      "resource": [
+        {
+          "type": "MedicationKnowledge",
+          "interaction": [
+            {
+              "code": "read"
+            },
+            {
+              "code": "search-type"
+            }
+          ],
+          "searchParam": [
+            {
+              "name": "code",
+              "type": "token"
+            },
+            {
+              "name": "status",
+              "type": "token"
+            }
+          ]
+        },
+        {
+          "type": "ClinicalUseDefinition",
+          "interaction": [
+            {
+              "code": "read"
+            },
+            {
+              "code": "search-type"
+            }
+          ],
+          "searchParam": [
+            {
+              "name": "type",
+              "type": "token"
+            },
+            {
+              "name": "subject",
+              "type": "reference"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

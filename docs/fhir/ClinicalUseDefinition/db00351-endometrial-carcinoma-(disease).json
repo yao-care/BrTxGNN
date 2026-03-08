@@ -1,0 +1,36 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "db00351-endometrial-carcinoma-(disease)",
+  "meta": {
+    "profile": [
+      "https://brtxgnn.yao.care/fhir/StructureDefinition/BrTxGNNClinicalUseDefinition"
+    ]
+  },
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/db00351"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "text": "endometrial carcinoma (disease)"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.5
+    },
+    {
+      "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/prediction-source",
+      "valueString": "TxGNN Knowledge Graph"
+    }
+  ]
+}

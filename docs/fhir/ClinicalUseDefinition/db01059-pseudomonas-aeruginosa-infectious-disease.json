@@ -1,0 +1,36 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "db01059-pseudomonas-aeruginosa-infectious-disease",
+  "meta": {
+    "profile": [
+      "https://brtxgnn.yao.care/fhir/StructureDefinition/BrTxGNNClinicalUseDefinition"
+    ]
+  },
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/db01059"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "text": "Pseudomonas aeruginosa infectious disease"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.5
+    },
+    {
+      "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/prediction-source",
+      "valueString": "TxGNN Knowledge Graph"
+    }
+  ]
+}

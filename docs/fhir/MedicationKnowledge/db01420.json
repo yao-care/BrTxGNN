@@ -1,0 +1,36 @@
+{
+  "resourceType": "MedicationKnowledge",
+  "id": "db01420",
+  "meta": {
+    "profile": [
+      "https://brtxgnn.yao.care/fhir/StructureDefinition/BrTxGNNMedicationKnowledge"
+    ]
+  },
+  "status": "active",
+  "code": {
+    "coding": [
+      {
+        "system": "https://go.drugbank.com/drugs/",
+        "code": "DB01420",
+        "display": "TESTOSTERONE PROPIONATE"
+      }
+    ]
+  },
+  "intendedJurisdiction": [
+    {
+      "coding": [
+        {
+          "system": "urn:iso:std:iso:3166",
+          "code": "BR",
+          "display": "Brazil"
+        }
+      ]
+    }
+  ],
+  "extension": [
+    {
+      "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    }
+  ]
+}

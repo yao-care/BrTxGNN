@@ -1,0 +1,36 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "db13943-premature-menopause",
+  "meta": {
+    "profile": [
+      "https://brtxgnn.yao.care/fhir/StructureDefinition/BrTxGNNClinicalUseDefinition"
+    ]
+  },
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/db13943"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "text": "premature menopause"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.5
+    },
+    {
+      "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/prediction-source",
+      "valueString": "TxGNN Knowledge Graph"
+    }
+  ]
+}

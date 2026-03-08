@@ -1,0 +1,14 @@
+{
+  "resourceType": "Bundle",
+  "id": "all-predictions",
+  "type": "collection",
+  "timestamp": "2026-03-07T23:33:06.576390",
+  "total": 0,
+  "link": [
+    {
+      "relation": "self",
+      "url": "https://brtxgnn.yao.care/fhir/Bundle/all-predictions.json"
+    }
+  ],
+  "entry": []
+}

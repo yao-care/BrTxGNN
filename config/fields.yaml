@@ -1,0 +1,56 @@
+# BrTxGNN - ANVISA Field Mapping Configuration
+# 巴西藥監局 (ANVISA) 資料欄位對應
+
+country_code: BR
+language: pt
+regulatory_agency: ANVISA
+
+# 資料來源
+data_source:
+  name: "Dados Abertos ANVISA - Medicamentos Registrados"
+  url: "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv"
+  format: CSV
+  encoding: latin-1  # ANVISA CSV uses Latin-1 encoding
+  delimiter: ";"
+
+# 欄位映射 (ANVISA 欄位 → 標準欄位)
+field_mapping:
+  license_id: "NUMERO_REGISTRO_PRODUTO"
+  brand_name_local: "NOME_PRODUTO"
+  brand_name_en: "PRINCIPIO_ATIVO"  # 使用活性成分作為英文名稱
+  ingredients: "PRINCIPIO_ATIVO"
+  indication: "CLASSE_TERAPEUTICA"  # 治療分類 (ANVISA 無適應症欄位)
+  dosage_form: null  # ANVISA 資料無劑型欄位
+  status: "SITUACAO_REGISTRO"
+  company: "EMPRESA_DETENTORA_REGISTRO"
+  category: "CATEGORIA_REGULATORIA"
+  product_type: "TIPO_PRODUTO"
+  process_number: "NUMERO_PROCESSO"
+  expiration_date: "DATA_VENCIMENTO_REGISTRO"
+  finalization_date: "DATA_FINALIZACAO_PROCESSO"
+
+# 有效狀態值
+active_statuses:
+  - "Ativo"
+
+# 已註銷/失效狀態
+withdrawn_statuses:
+  - "Inativo"
+  - "Cancelado"
+  - "Caduco"
+
+# 監管類別
+regulatory_categories:
+  - "Genérico"           # 學名藥
+  - "Similar"            # 相似藥
+  - "Novo"               # 新藥
+  - "Biológico"          # 生物製劑
+  - "Específico"         # 特定藥
+  - "Fitoterápico"       # 植物藥
+  - "Dinamizado"         # 順勢療法
+  - "Radiofármaco"       # 放射性藥物
+  - "BAIXO RISCO"        # 低風險
+
+# 篩選條件
+filters:
+  product_type: "MEDICAMENTO"  # 僅處理藥品
