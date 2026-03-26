@@ -93,7 +93,7 @@ def main():
     print()
 
     # Load prediction data
-    candidates_path = DATA_DIR / "repurposing_candidates.csv"
+    candidates_path = DATA_DIR / "repurposing_candidates.csv.gz"
 
     if not candidates_path.exists():
         print(f"Error: {candidates_path} not found")

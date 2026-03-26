@@ -1375,14 +1375,20 @@ def map_fda_drugs_to_drugbank(
         synonyms_data = get_all_synonyms(str(ingredient_str))
 
         for main_name, synonyms in synonyms_data:
+            drugbank_id = None
+            mapping_source = "failed"
+
             # 先嘗試主名稱
             drugbank_id = map_ingredient_to_drugbank(main_name, name_index)
+            if drugbank_id:
+                mapping_source = "drugbank"
 
             # 若失敗，嘗試同義詞
             if drugbank_id is None:
                 for syn in synonyms:
                     drugbank_id = map_ingredient_to_drugbank(syn, name_index)
                     if drugbank_id:
+                        mapping_source = "drugbank_synonym"
                         break
 
             results.append({
@@ -1393,6 +1399,7 @@ def map_fda_drugs_to_drugbank(
                 "synonyms": "; ".join(synonyms) if synonyms else "",
                 "drugbank_id": drugbank_id,
                 "mapping_success": drugbank_id is not None,
+                "mapping_source": mapping_source,
             })
 
     return pd.DataFrame(results)
