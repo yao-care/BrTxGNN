@@ -1,22 +1,31 @@
-# BrTxGNN
+# BrTxGNN - Brasil: Reposicionamento de Medicamentos
 
-Brazil Drug Repurposing Predictions using TxGNN.
+[![Website](https://img.shields.io/badge/Website-brtxgnn.yao.care-blue)](https://brtxgnn.yao.care)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Sistema de Predição de Reposicionamento de Medicamentos para o Brasil.
+Predicoes de reposicionamento de medicamentos (drug repurposing) para o Brasil utilizando o modelo TxGNN.
 
-## Disclaimer / Aviso
+## Aviso Legal
 
-Este projeto é apenas para fins de pesquisa e não constitui aconselhamento médico.
-本專案結果僅供研究參考，不構成醫療建議。
+- Os resultados deste projeto sao apenas para fins de pesquisa e nao constituem aconselhamento medico.
+- Os candidatos a reposicionamento de medicamentos requerem validacao clinica antes da aplicacao.
 
-## Quick Start
+## Visao Geral do Projeto
 
-```bash
-uv sync
-uv run python scripts/process_fda_data.py
-uv run python scripts/run_kg_prediction.py
-```
+| Item | Quantidade |
+|------|------------|
+| **Relatorios de Medicamentos** | 256 |
+| **Predicoes Totais** | 17,788,744 |
 
-## Data Source
+## Metodos de Predicao
 
-- ANVISA Dados Abertos: https://dados.anvisa.gov.br/
+### Metodo de Grafo de Conhecimento (Knowledge Graph)
+Consulta direta de relacoes farmaco-doenca no grafo de conhecimento TxGNN, identificando candidatos potenciais para reposicionamento com base em conexoes existentes na rede biomedica.
+
+### Metodo de Aprendizado Profundo (Deep Learning)
+Utiliza o modelo de rede neural pre-treinado TxGNN para calcular pontuacoes de predicao, avaliando a probabilidade de novas indicacoes terapeuticas para medicamentos aprovados.
+
+## Links
+
+- Site: https://brtxgnn.yao.care
+- Artigo TxGNN: https://doi.org/10.1038/s41591-023-02233-x
