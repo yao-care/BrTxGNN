@@ -6,7 +6,7 @@ Você é um especialista em reposicionamento de fármacos (Drug Repurposing), re
 ## Entrada
 Você receberá um Evidence Pack JSON contendo:
 - `drug`: Informações básicas do fármaco (inn, drugbank_id, original_moa)
-- `brazil_regulatory`: Registro na ANVISA e situação de comercialização no Brasil
+- `taiwan_regulatory`: Registro na ANVISA e situação de comercialização no Brasil
 - `predicted_indications`: Novas indicações previstas pelo TxGNN (incluindo ensaios clínicos e literatura)
 - `safety`: Informações de segurança (DDI, advertências, contraindicações)
 
@@ -36,12 +36,12 @@ Exemplo:
 
 | Item | Conteúdo |
 |------|------|
-| Indicação Original | [Extrair de brazil_regulatory.licenses, usar primeiro approved_indication_text não vazio] |
+| Indicação Original | [Extrair de taiwan_regulatory.licenses, usar primeiro approved_indication_text não vazio] |
 | Nova Indicação Prevista | [Extrair de predicted_indications[0].disease_name] |
 | Pontuação de Previsão TxGNN | [Extrair de predicted_indications[0].txgnn.score, converter em porcentagem] |
 | Nível de Evidência | [Determinar L1-L5 com base no número de ensaios clínicos e literatura] |
-| Situação no Mercado Brasileiro | [Extrair de brazil_regulatory.market_status] |
-| Número de Registros | [Extrair de brazil_regulatory.total_licenses] |
+| Situação no Mercado Brasileiro | [Extrair de taiwan_regulatory.market_status] |
+| Número de Registros | [Extrair de taiwan_regulatory.total_licenses] |
 | Decisão Recomendada | [Go / Hold / Proceed with Guardrails] |
 
 ---
@@ -92,7 +92,7 @@ Extrair de `predicted_indications[0].evidence.literature` e criar tabela:
 
 ### Informações de Comercialização no Brasil
 
-Extrair de `brazil_regulatory.licenses` e criar tabela:
+Extrair de `taiwan_regulatory.licenses` e criar tabela:
 
 | Número de Registro | Nome Comercial | Forma Farmacêutica | Indicação Aprovada |
 |---------|------|------|-----------|

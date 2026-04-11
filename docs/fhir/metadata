@@ -4,59 +4,69 @@
   "url": "https://brtxgnn.yao.care/fhir/metadata",
   "version": "1.0.0",
   "name": "BrTxGNNFHIRServer",
-  "title": "BrTxGNN FHIR Server - Reposicionamento de Medicamentos no Brasil",
+  "title": "BrTxGNN FHIR Server",
   "status": "active",
-  "date": "2026-03-07",
-  "publisher": "BrTxGNN Project",
-  "description": "Sistema de predição de reposicionamento de medicamentos da ANVISA - API FHIR",
+  "experimental": true,
+  "date": "2026-04-11",
+  "publisher": "BrTxGNN",
+  "contact": [
+    {
+      "telecom": [
+        {
+          "system": "url",
+          "value": "https://brtxgnn.yao.care"
+        }
+      ]
+    }
+  ],
+  "description": "BrTxGNN drug repurposing prediction data exposed as FHIR resources. Contains 50 drugs and 500 predicted indications.",
   "kind": "instance",
+  "software": {
+    "name": "BrTxGNN Static FHIR API",
+    "version": "1.0.0"
+  },
+  "implementation": {
+    "description": "Static FHIR resources served from GitHub Pages",
+    "url": "https://brtxgnn.yao.care/fhir"
+  },
   "fhirVersion": "4.0.1",
   "format": [
-    "json"
+    "application/fhir+json"
   ],
   "rest": [
     {
       "mode": "server",
+      "documentation": "Static FHIR API - read-only access to drug repurposing predictions",
       "resource": [
         {
           "type": "MedicationKnowledge",
+          "profile": "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge",
           "interaction": [
             {
               "code": "read"
-            },
-            {
-              "code": "search-type"
             }
           ],
           "searchParam": [
             {
-              "name": "code",
-              "type": "token"
-            },
-            {
-              "name": "status",
-              "type": "token"
+              "name": "_id",
+              "type": "token",
+              "documentation": "Drug identifier (slug)"
             }
           ]
         },
         {
           "type": "ClinicalUseDefinition",
+          "profile": "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition",
           "interaction": [
             {
               "code": "read"
-            },
-            {
-              "code": "search-type"
             }
           ],
           "searchParam": [
             {
-              "name": "type",
-              "type": "token"
-            },
-            {
               "name": "subject",
-              "type": "reference"
+              "type": "reference",
+              "documentation": "Reference to MedicationKnowledge"
             }
           ]
         }
