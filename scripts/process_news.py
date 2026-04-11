@@ -1,13 +1,12 @@
 #!/usr/bin/env python3
 """
-สคริปต์ประมวลผลข่าว ThTxGNN
+Script de processamento de notícias BrTxGNN
 
-ฟังก์ชัน:
-1. อ่านไฟล์ข่าวจาก data/news/*.json
-2. โหลด keywords.json สำหรับจับคู่คำสำคัญ
-3. **กรองข่าวให้ต้องมีทั้งยาและโรค** (ไม่ใช่ยาหรือโรคอย่างเดียว)
-4. ลบข่าวซ้ำข้ามแหล่ง
-5. สร้าง news-index.json สำหรับ frontend
+Funcionalidades:
+1. Ler arquivos de notícias de data/news/*.json
+2. Carregar keywords.json para correspondência de palavras-chave
+3. Remover notícias duplicadas entre fontes
+4. Gerar news-index.json para o frontend
 """
 
 import json
@@ -16,33 +15,33 @@ from datetime import datetime, timezone, timedelta
 from difflib import SequenceMatcher
 from pathlib import Path
 
-# โฟลเดอร์โปรเจค
+# Diretório do projeto
 PROJECT_ROOT = Path(__file__).parent.parent
 DATA_DIR = PROJECT_ROOT / "data" / "news"
 DOCS_DIR = PROJECT_ROOT / "docs"
 NEWS_INDEX_PATH = DOCS_DIR / "data" / "news-index.json"
 
-# การตั้งค่า
-SIMILARITY_THRESHOLD = 0.8  # เกณฑ์ความคล้ายคลึงของหัวข้อ
-TIME_WINDOW_HOURS = 24  # หน้าต่างเวลาสำหรับการลบซ้ำ (ชั่วโมง)
-MAX_NEWS_AGE_DAYS = 30  # จำนวนวันสูงสุดที่เก็บข่าว
+# Configurações
+SIMILARITY_THRESHOLD = 0.8  # Limiar de similaridade de título
+TIME_WINDOW_HOURS = 24  # Janela de tempo para detecção de duplicatas (horas)
+MAX_NEWS_AGE_DAYS = 30  # Número máximo de dias para manter notícias
 
 
 def load_json(path: Path) -> dict | list:
-    """โหลดไฟล์ JSON"""
+    """Carregar arquivo JSON"""
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
 
 
 def save_json(data: dict | list, path: Path):
-    """บันทึกไฟล์ JSON"""
+    """Salvar arquivo JSON"""
     path.parent.mkdir(parents=True, exist_ok=True)
     with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 
 def load_all_sources() -> list[dict]:
-    """โหลดข่าวจากทุกแหล่ง"""
+    """Carregar notícias de todas as fontes"""
     all_news = []
     excluded = {"keywords.json", "synonyms.json", "synonyms.json.template"}
 
@@ -54,22 +53,22 @@ def load_all_sources() -> list[dict]:
             data = load_json(json_file)
             source_name = data.get("source", json_file.stem)
 
-            # รองรับทั้งรูปแบบ news และ articles
+            # Suportar formatos news e articles
             news_items = data.get("news", data.get("articles", []))
-            print(f"  - {json_file.name}: {len(news_items)} ข่าว")
+            print(f"  - {json_file.name}: {len(news_items)} notícias")
 
             for item in news_items:
                 item["_source_file"] = source_name
                 all_news.append(item)
 
         except Exception as e:
-            print(f"  คำเตือน: ไม่สามารถโหลด {json_file.name} - {e}")
+            print(f"  Aviso: Não foi possível carregar {json_file.name} - {e}")
 
     return all_news
 
 
 def filter_old_news(news_items: list[dict]) -> list[dict]:
-    """กรองข่าวเก่ากว่า 30 วัน"""
+    """Filtrar notícias com mais de 30 dias"""
     cutoff = datetime.now(timezone.utc) - timedelta(days=MAX_NEWS_AGE_DAYS)
     filtered = []
 
@@ -81,27 +80,27 @@ def filter_old_news(news_items: list[dict]) -> list[dict]:
                 if published >= cutoff:
                     filtered.append(item)
             else:
-                # ไม่มีวันที่ ให้เก็บไว้
+                # Sem data, manter
                 filtered.append(item)
         except (ValueError, TypeError):
             filtered.append(item)
 
     removed = len(news_items) - len(filtered)
     if removed > 0:
-        print(f"  กรองข่าวเก่า: {removed} ข่าว")
+        print(f"  Notícias antigas filtradas: {removed}")
 
     return filtered
 
 
 def title_similarity(title1: str, title2: str) -> float:
-    """คำนวณความคล้ายคลึงของหัวข้อ"""
+    """Calcular similaridade de títulos"""
     clean1 = re.sub(r"\s*[-–—]\s*[^\s]+$", "", title1).strip()
     clean2 = re.sub(r"\s*[-–—]\s*[^\s]+$", "", title2).strip()
     return SequenceMatcher(None, clean1, clean2).ratio()
 
 
 def deduplicate_news(news_items: list[dict]) -> list[dict]:
-    """ลบข่าวซ้ำข้ามแหล่ง รวมแหล่งที่มาของข่าวคล้ายกัน"""
+    """Remover notícias duplicadas entre fontes, mesclando fontes de notícias similares"""
     sorted_news = sorted(
         news_items,
         key=lambda x: x.get("published") or "",
@@ -142,11 +141,10 @@ def deduplicate_news(news_items: list[dict]) -> list[dict]:
                 similar_items.append(other)
                 used_indices.add(j)
 
-        # รวมแหล่งข่าว
+        # Mesclar fontes de notícias
         all_sources = []
         seen_links = set()
         for sim_item in similar_items:
-            # รองรับทั้ง sources array และ single link/source
             sources = sim_item.get("sources", [])
             if not sources:
                 link = sim_item.get("link", "")
@@ -160,7 +158,7 @@ def deduplicate_news(news_items: list[dict]) -> list[dict]:
                     seen_links.add(link)
                     all_sources.append(source)
 
-        # ใช้เวลาเผยแพร่ที่เร็วที่สุด
+        # Usar a data de publicação mais antiga
         try:
             pub_times = []
             for s in similar_items:
@@ -171,7 +169,7 @@ def deduplicate_news(news_items: list[dict]) -> list[dict]:
         except (ValueError, TypeError):
             earliest_time = datetime.now(timezone.utc)
 
-        # สร้าง ID จาก title hash
+        # Criar ID a partir do hash do título
         import hashlib
         news_id = hashlib.md5(item.get("title", "").encode()).hexdigest()[:12]
 
@@ -186,123 +184,99 @@ def deduplicate_news(news_items: list[dict]) -> list[dict]:
         merged.append(merged_item)
         used_indices.add(i)
 
-    print(f"  หลังลบซ้ำ: {len(merged)} ข่าว (รวม {len(news_items) - len(merged)} ข่าว)")
+    print(f"  Após remoção de duplicatas: {len(merged)} notícias ({len(news_items) - len(merged)} mescladas)")
     return merged
 
 
 def match_keywords(news_items: list[dict], keywords: dict) -> list[dict]:
-    """
-    จับคู่คำสำคัญในข่าว
-
-    สำคัญ: ต้องมีทั้งยาและโรคในข่าวเดียวกันถึงจะนับว่าตรง
-    """
+    """Correspondência de palavras-chave em notícias"""
     drugs = keywords.get("drugs", [])
-    diseases = keywords.get("diseases", [])
+    indications = keywords.get("indications", [])
+
+    # Construir mapa slug -> name dos medicamentos
+    drug_name_map = {d["slug"]: d["name"] for d in drugs}
 
     matched_count = 0
-    both_matched_count = 0
 
     for item in news_items:
-        text_to_search = f"{item.get('title', '')} {item.get('summary', '')}".lower()
+        text_to_search = f"{item['title']} {item.get('summary', '')}".lower()
+        matches = []
 
-        drug_matches = []
-        disease_matches = []
-
-        # จับคู่ยา
+        # Correspondência de medicamentos
         for drug in drugs:
-            drug_name = drug.get("drug", "")
-            drugbank_id = drug.get("drugbank_id", "")
-            search_terms = drug.get("search_terms", [])
-            indications = drug.get("indications", [])
+            drug_name = drug["name"]
+            drug_slug = drug["slug"]
 
-            matched = False
-            matched_term = ""
+            # Palavras-chave em inglês
+            for kw in drug["keywords"].get("en", []):
+                if kw.lower() in text_to_search:
+                    matches.append({
+                        "type": "drug",
+                        "slug": drug_slug,
+                        "keyword": kw,
+                        "name": drug_name,
+                        "url": drug["url"]
+                    })
+                    break  # Registrar apenas 1 vez por medicamento
 
-            # ตรวจสอบชื่อยา
-            if drug_name.lower() in text_to_search:
-                matched = True
-                matched_term = drug_name
-
-            # ตรวจสอบคำค้นหา
-            if not matched:
-                for term in search_terms:
-                    clean_term = term.strip('"').lower()
-                    if clean_term in text_to_search:
-                        matched = True
-                        matched_term = clean_term
-                        break
-
-            if matched:
-                drug_matches.append({
-                    "type": "drug",
-                    "name": drug_name,
-                    "keyword": matched_term,
-                    "drugbank_id": drugbank_id,
-                    "slug": drug_name.lower().replace(" ", "_"),
-                    "url": f"/drugs/{drug_name.lower().replace(' ', '_')}/"
-                })
-
-        # จับคู่โรค
-        for disease in diseases:
-            disease_name = disease.get("disease", "")
-            search_terms = disease.get("search_terms", [])
-
-            matched = False
-            matched_term = ""
-
-            # ตรวจสอบชื่อโรค
-            if disease_name.lower() in text_to_search:
-                matched = True
-                matched_term = disease_name
-
-            # ตรวจสอบคำค้นหา
-            if not matched:
-                for term in search_terms:
-                    clean_term = term.strip('"').lower()
-                    if clean_term in text_to_search:
-                        matched = True
-                        matched_term = clean_term
-                        break
-
-            if matched:
-                # หายาที่เกี่ยวข้องกับโรคนี้
-                related_drugs = []
-                for drug in drugs:
-                    if disease_name in drug.get("indications", []):
-                        related_drugs.append({
-                            "slug": drug.get("drug", "").lower().replace(" ", "_"),
-                            "name": drug.get("drug", "")
+            # Palavras-chave em português
+            for kw in drug["keywords"].get("pt", []):
+                if kw.lower() in text_to_search:
+                    # Evitar duplicatas
+                    if not any(m["slug"] == drug_slug for m in matches):
+                        matches.append({
+                            "type": "drug",
+                            "slug": drug_slug,
+                            "keyword": kw,
+                            "name": drug_name,
+                            "url": drug["url"]
                         })
+                    break
 
-                disease_matches.append({
-                    "type": "indication",
-                    "name": disease_name,
-                    "keyword": matched_term,
-                    "related_drugs": related_drugs[:5]  # จำกัด 5 ยา
-                })
+        # Correspondência de indicações
+        for ind in indications:
+            ind_name = ind["name"]
 
-        # ========================================
-        # สำคัญ: ต้องมีทั้งยาและโรค
-        # ========================================
-        if drug_matches and disease_matches:
-            # มีทั้งยาและโรค - เก็บทั้งหมด
-            item["matched_keywords"] = drug_matches + disease_matches
-            both_matched_count += 1
-        elif drug_matches or disease_matches:
-            # มีเพียงอย่างเดียว - ไม่เก็บ (เป็นไปตามความต้องการ)
-            item["matched_keywords"] = []
-            matched_count += 1  # นับเพื่อสถิติ
-        else:
-            item["matched_keywords"] = []
+            # Converter related_drugs de slug para {slug, name}
+            related_drugs = [
+                {"slug": slug, "name": drug_name_map.get(slug, slug)}
+                for slug in ind.get("related_drugs", [])
+            ]
 
-    print(f"  ตรงกับยาหรือโรคอย่างเดียว: {matched_count} ข่าว (ไม่รวม)")
-    print(f"  ตรงกับทั้งยาและโรค: {both_matched_count} ข่าว (รวม)")
+            # Palavras-chave em inglês
+            for kw in ind["keywords"].get("en", []):
+                if kw.lower() in text_to_search:
+                    matches.append({
+                        "type": "indication",
+                        "name": ind_name,
+                        "keyword": kw,
+                        "related_drugs": related_drugs
+                    })
+                    break
+
+            # Palavras-chave em português
+            for kw in ind["keywords"].get("pt", []):
+                if kw.lower() in text_to_search:
+                    # Evitar duplicatas
+                    if not any(m.get("keyword") == kw and m["type"] == "indication" for m in matches):
+                        matches.append({
+                            "type": "indication",
+                            "name": ind_name,
+                            "keyword": kw,
+                            "related_drugs": related_drugs
+                        })
+                    break
+
+        item["matched_keywords"] = matches
+        if matches:
+            matched_count += 1
+
+    print(f"  Correspondência de palavras-chave: {matched_count} notícias")
     return news_items
 
 
 def generate_news_index(matched_news: list[dict]):
-    """สร้างไฟล์ news-index.json สำหรับ frontend"""
-    # เฉพาะข่าวที่มีทั้งยาและโรค
+    """Gerar arquivo news-index.json para o frontend"""
     indexed_news = [
         {
             "id": item["id"],
@@ -312,7 +286,7 @@ def generate_news_index(matched_news: list[dict]):
             "keywords": item["matched_keywords"]
         }
         for item in matched_news
-        if item.get("matched_keywords")  # จะมีเฉพาะข่าวที่มีทั้งยาและโรค
+        if item.get("matched_keywords")
     ]
 
     output = {
@@ -322,60 +296,59 @@ def generate_news_index(matched_news: list[dict]):
     }
 
     save_json(output, NEWS_INDEX_PATH)
-    print(f"  สร้างดัชนี: {NEWS_INDEX_PATH}")
-    print(f"  จำนวนข่าว: {len(indexed_news)}")
+    print(f"  Índice gerado: {NEWS_INDEX_PATH}")
+    print(f"  Total de notícias: {len(indexed_news)}")
 
 
 def main():
     print("=" * 60)
-    print("ประมวลผลข่าวสุขภาพ ThTxGNN")
+    print("Processamento de Notícias de Saúde - BrTxGNN")
     print("=" * 60)
-    print("\nหมายเหตุ: ข่าวต้องมีทั้งยาและโรคถึงจะแสดง")
 
-    # 1. โหลดข่าวจากทุกแหล่ง
-    print("\n1. โหลดไฟล์ข่าว:")
+    # 1. Carregar notícias de todas as fontes
+    print("\n1. Carregando arquivos de notícias:")
     all_news = load_all_sources()
-    print(f"  รวม: {len(all_news)} ข่าว")
+    print(f"  Total: {len(all_news)} notícias")
 
     if not all_news:
-        print("\n  ไม่พบข่าว กรุณาเรียกใช้ fetcher ก่อน")
+        print("\n  Nenhuma notícia encontrada. Execute os fetchers primeiro.")
         return
 
-    # 2. กรองข่าวเก่า
-    print("\n2. กรองข่าวเก่า:")
+    # 2. Filtrar notícias antigas
+    print("\n2. Filtrando notícias antigas:")
     all_news = filter_old_news(all_news)
 
-    # 3. ลบข่าวซ้ำ
-    print("\n3. ลบข่าวซ้ำข้ามแหล่ง:")
+    # 3. Remover duplicatas
+    print("\n3. Removendo duplicatas:")
     all_news = deduplicate_news(all_news)
 
-    # 4. โหลด keywords และจับคู่
-    print("\n4. จับคู่คำสำคัญ:")
+    # 4. Carregar keywords e fazer correspondência
+    print("\n4. Correspondência de palavras-chave:")
     keywords_path = DATA_DIR / "keywords.json"
     if not keywords_path.exists():
-        print(f"  ไม่พบ {keywords_path}")
+        print(f"  Não encontrado: {keywords_path}")
         return
 
     keywords = load_json(keywords_path)
-    print(f"  คำสำคัญ: {keywords.get('drug_count', 0)} ยา + {keywords.get('disease_count', 0)} โรค")
+    print(f"  Palavras-chave: {keywords.get('drug_count', 0)} medicamentos + {keywords.get('indication_count', 0)} indicações")
     all_news = match_keywords(all_news, keywords)
 
-    # 5. สร้าง news-index.json
-    print("\n5. สร้างดัชนีข่าว:")
+    # 5. Gerar news-index.json
+    print("\n5. Gerando índice de notícias:")
     generate_news_index(all_news)
 
-    # 6. แสดงตัวอย่าง
+    # 6. Mostrar exemplos
     matched = [n for n in all_news if n.get("matched_keywords")]
     if matched:
-        print("\n6. ตัวอย่างข่าวที่ตรง:")
+        print("\n6. Exemplos de notícias correspondentes:")
         for item in matched[:3]:
             print(f"   - {item['title'][:60]}...")
             drugs = [k["name"] for k in item["matched_keywords"] if k["type"] == "drug"]
             diseases = [k["name"] for k in item["matched_keywords"] if k["type"] == "indication"]
-            print(f"     ยา: {', '.join(drugs[:3])}")
-            print(f"     โรค: {', '.join(diseases[:3])}")
+            print(f"     Medicamentos: {', '.join(drugs[:3])}")
+            print(f"     Indicações: {', '.join(diseases[:3])}")
 
-    print("\nเสร็จสิ้น!")
+    print("\nConcluído!")
 
 
 if __name__ == "__main__":
