@@ -1,0 +1,37 @@
+{
+  "resourceType": "MedicationKnowledge",
+  "id": "ziprasidona_monohydrate_hydrochloride",
+  "meta": {
+    "profile": [
+      "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+    ]
+  },
+  "status": "active",
+  "code": {
+    "coding": [
+      {
+        "system": "https://brtxgnn.yao.care/drugs",
+        "code": "ziprasidona_monohydrate_hydrochloride",
+        "display": "ZIPRASIDONA MONOHYDRATE HYDROCHLORIDE"
+      }
+    ],
+    "text": "ZIPRASIDONA MONOHYDRATE HYDROCHLORIDE"
+  },
+  "intendedJurisdiction": [
+    {
+      "coding": [
+        {
+          "system": "urn:iso:std:iso:3166",
+          "code": "TW",
+          "display": "Taiwan"
+        }
+      ]
+    }
+  ],
+  "extension": [
+    {
+      "url": "https://brtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    }
+  ]
+}
