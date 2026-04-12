@@ -1,15 +1,75 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-04-12T13:06:33.240548+00:00",
-  "total_fetched": 65,
-  "unique_count": 63,
-  "health_related_count": 31,
+  "fetched_at": "2026-04-12T18:54:36.048067+00:00",
+  "total_fetched": 73,
+  "unique_count": 71,
+  "health_related_count": 32,
   "news": [
+    {
+      "id": "f9d8bab4d52a",
+      "title": "Adoçantes artificiais podem alterar o metabolismo de gerações futuras, indica estudo - Olhar Digital",
+      "published": "2026-04-12T13:33:00+00:00",
+      "summary": "Adoçantes artificiais podem alterar o metabolismo de gerações futuras, indica estudo&nbsp;&nbsp;Olhar Digital",
+      "sources": [
+        {
+          "name": "Olhar Digital",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPY1pRQTJhM0xLYVRkZEt4UXUtVWltbHVub1FPTGNLY2UzNFFEcGlDcU5BV0ptRzRkQkphQU15WnJxUldIZ2FYdTRjbVdsR181ai1aWm1OaklWS1pYZERNZlZVNHJFaHNyNDFCRmpNZllwS0NteWZYTUFBeVlzRTZDUjZWYmd3QWJKOHVZZzNiYzFqRDd5YmRHb25ZamdMd2lKUHZnRGxsSkk4OTkwc2twUzB0WmkxR2hYdXNZNGNxR2ZMSGNoYWRrQ00xOU4wZ1dDX0x4ZEdjbw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "75ac1a26e491",
+      "title": "Como a Embrapa pretende criar sementes brasileiras de cannabis medicinal no sul do RS - GZH",
+      "published": "2026-04-12T13:00:49+00:00",
+      "summary": "Como a Embrapa pretende criar sementes brasileiras de cannabis medicinal no sul do RS&nbsp;&nbsp;GZH",
+      "sources": [
+        {
+          "name": "GZH",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQZ2s3bUJRSEVFVWxTU2VUaEVXTEI1ZTJrLXRGdVRBNFZpaWJNeDVHSXMwYWtLMWU3alc3VFVsYmhDMmNkZ0tzM0Z6d25SRE41dVhveWVlUFh5bUFtcENwaGp4VFRQUWgyRlBXR0tyNzFQWHNhRi1vUHhmZmNuazdwaE1USTM0eFhyUmRpMHpLY2ltSkVvamVvQWxISGJwbUY0NlJkdExkT082QmMyN1dxVmNDNW41YTl1QTBNbC1oTUpvd3VlbW9SMVBPeXNJLXVrbl8yQWVSU19hcHk4cHg5OG1ManRHV1dmN0x6QmRENWprYTM1T0s5RG5qQ3ZQV1pLdUxHZWFYN3k5Ny04cEE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c6ccbe736868",
+      "title": "Epidemia \"silenciosa\" do fígado: temos um problema que escapa exames e que a ciência tenta deter - Xataka Brasil",
+      "published": "2026-04-12T12:02:12+00:00",
+      "summary": "Epidemia \"silenciosa\" do fígado: temos um problema que escapa exames e que a ciência tenta deter&nbsp;&nbsp;Xataka Brasil",
+      "sources": [
+        {
+          "name": "Xataka Brasil",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQR2dPOTZGd1FXV05ra1MwY1pKRUFPYmJMSWpBQ011dXVIYlFSRXpJTFpIWVFXOWJDMGl2Z3BvU2l1T1dKZlJHa3Azbzd2YWZfSUt3NndIa19lNXpGUFVaYWFWbzE5ZFprWGNqaWRlOHlPY243VUIycktTV3dkNG1RVXY1dHUzdXJXQmRkUEdrZGFRYzlsVEtGdG0xVHRCRlNPc0RwYXlraXZiNjJ6SzNUTEMtZjFxaDRnM3JLZXV4Sno1Y1ExUlE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "75e4d9d80644",
+      "title": "Robô da NASA detecta primeira tempestade em Marte e assusta até mesmo os cientistas - Diário do Comércio",
+      "published": "2026-04-12T11:31:00+00:00",
+      "summary": "Robô da NASA detecta primeira tempestade em Marte e assusta até mesmo os cientistas&nbsp;&nbsp;Diário do Comércio",
+      "sources": [
+        {
+          "name": "Diário do Comércio",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeU5MODRIUkN2aUFJSGRqcU52UHN4TzRNS0t6QVJqWmc4aFR4Nk9ueUtQbHlKMVgzUm9CRVZxV3NjVmdZMU9EcFExY3I0WE9MaVByVGJVV1k0WXBicUM1V0ttMDlLNDYwbVY0aHJEMXp6VVIzWm01N3g4VGZSRWk0Tll1bFVuTEpoMGpVWm91dS1jWkFfWkdtNURiWXFOU1dlVnJZVHBQN21sUm1PV3JFUzdGMzBzNW1UWDNrRg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d88dc71e33c5",
+      "title": "Medicina chinesa: beber água quente de manhã realmente faz bem à saúde? - BBC",
+      "published": "2026-04-12T10:06:35+00:00",
+      "summary": "Medicina chinesa: beber água quente de manhã realmente faz bem à saúde?&nbsp;&nbsp;BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0yNW9NTnRzblNlam1PM0gxU0Ftc0lNalQ4bnJoX1F3RGZfd29mb3lCUDAzNlpCQk1OOHBlSmlaS0N5MlF0bmM2eERqSl8yYm5HempVejRhTTFPZnBZQU5xQzdn0gFnQVVfeXFMT3BpemE5VmdFdU9pZ3VRVWw3QlNObnJuQVpOUmh4THFxbGpsWEZFS0JqaGxjdVo4UGlxZGJWRkZ4dU1weGpEWXVoRmd4Q0JXenZQeFBtM3NBVUlpNy1ObmoyX3piaEFLSQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "6109e5c1b6c6",
       "title": "Café da manhã, sono e exercício ajudam a 'destravar' a mente e lidar melhor com o estresse, aponta estudo - G1",
       "published": "2026-04-12T07:01:43+00:00",
-      "summary": "Café da manhã, sono e exercício ajudam a 'destravar' a mente e lidar melhor com o estresse, aponta estudo&nbsp;&nbsp;G15 dicas para treinar com foco em saúde&nbsp;&nbsp;GZHApós os 70 anos, o hábito simples que pode reduzir o risco de depressão em idosos&nbsp;&nbsp;Estado de MinasEste hábito pode mudar a forma como lida com o stress, diz especialista&nbsp;&nbsp;Notícias de hoje - IOLHábitos simples alteram resposta ao estresse e fortalecem mente, indica estudo inédito&nbsp;&nbsp;DIÁRIO DO ESTADO",
+      "summary": "Café da manhã, sono e exercício ajudam a 'destravar' a mente e lidar melhor com o estresse, aponta estudo&nbsp;&nbsp;G15 dicas para treinar com foco em saúde&nbsp;&nbsp;GZHApós os 70 anos, o hábito simples que pode reduzir o risco de depressão em idosos&nbsp;&nbsp;Estado de MinasEste hábito pode mudar a forma como lida com o stress, diz especialista&nbsp;&nbsp;Notícias de hoje - IOLNovos hábitos impactam diretamente flexibilidade psicológica, aponta estudo&nbsp;&nbsp;DIÁRIO DO ESTADO",
       "sources": [
         {
           "name": "G1",
@@ -30,26 +90,26 @@
       ]
     },
     {
-      "id": "6620edf8278b",
-      "title": "Especialistas alertam que vírus sincicial também oferece risco a idosos - Acorda Cidade",
-      "published": "2026-04-12T00:25:55+00:00",
-      "summary": "Especialistas alertam que vírus sincicial também oferece risco a idosos&nbsp;&nbsp;Acorda CidadeVírus sincicial respiratório é negligenciado e ameaça saúde de idosos&nbsp;&nbsp;Correio BrazilienseVírus sincicial também traz risco para idosos, alertam especialistas&nbsp;&nbsp;UOL NotíciasVSR cresce no Brasil e já rivaliza com a influenza&nbsp;&nbsp;Diário da GuanabaraRio intensifica combate à bronquiolite e reforça vacinação para proteger crianças&nbsp;&nbsp;Super Rádio Tupi",
+      "id": "46998e3bf1ba",
+      "title": "Visto do espaço, um trio de mesas negras formadas há centenas de milhões de anos e remanescentes da era Paleozoica criou dunas raras no coração do Saara e uma estranha zona sem areia que intriga até hoje os cientistas, transformando o deserto em u - CPG Click Petróleo e Gás",
+      "published": "2026-04-12T01:45:00+00:00",
+      "summary": "Visto do espaço, um trio de mesas negras formadas há centenas de milhões de anos e remanescentes da era Paleozoica criou dunas raras no coração do Saara e uma estranha zona sem areia que intriga até hoje os cientistas, transformando o deserto em u&nbsp;&nbsp;CPG Click Petróleo e Gás",
       "sources": [
         {
-          "name": "Acorda Cidade",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNXoxVTVXWlBHRkVlUlJ5X1RKVGlvSUJ2a1FSYWFaTmh5aGZ6VjBOTHFVN044TnhLYnhWd0JRclZYRW1iM1puNmk2UXZvazNoUDc4dHNsSEZ4bklJckxlejdTTWxpbGVfR3NUWVM4QU5aZzNoV1dwNUZLMVBrM3hocm03VmtNdVFuUEVkZmhnc0hBSTVhVGl4RHlMeFN0MVhvMk9BUEZqX3VTRXJhR2dz?oc=5"
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQeFR4allmenZ2NzJKYlpWQlNMQTVZSVpOV2czRXVTWlhCN2NPaDUzUkdidHdZTkw5Y3Fmb3RGZ1hVbFFYNzhZc1FMcVpCaHN2N1M0RGVxVTVlQ0tqRkcwN21scmVFS3QxV3VkVTF5ZVJ6YWZPekZLZy1RQWM4S0JCUldyVmdsMWJMdE05eGxWU0kyRjNRbTlSYlJaaVJoUEdaaUdhdFlDbVJJNjlsODZkbkJjaTlUemttVEhnUVlySjFFalliMlk4Ym1ybFFjbWdncEFLSDA2d2FMMkxqTzM4OTUzZmlSTjNORFFfLThucmY4akl6eVhMMy1TZV9MQ0Y1Z1BQN0NQQ3M1TXMxWXBTS1hfekpYRTI5eDREeHdiSDc4akxoaDBIdmRUMlY5T1VQNGI0Wi1wdVZSSnA2bnNvLXZBR3JmYVk?oc=5"
         }
       ]
     },
     {
-      "id": "e8b078b4d6ba",
-      "title": "Uso de anti-inflamatórios sem receita aumenta riscos à saúde - Poder360",
-      "published": "2026-04-11T22:01:56+00:00",
-      "summary": "Uso de anti-inflamatórios sem receita aumenta riscos à saúde&nbsp;&nbsp;Poder360Uso excessivo de analgésicos agrava enxaqueca e aumenta incapacidade&nbsp;&nbsp;CNN BrasilNa Coluna de hoje, Katianny Araújo aborda um tema relevante, em relação ao uso abusivo de analgésicos&nbsp;&nbsp;AcreNewsUso indiscriminado de remédios comuns também traz riscos à saúde&nbsp;&nbsp;Tribuna do NorteEnxaqueca x dor de cabeça: os perigos da automedicação&nbsp;&nbsp;G1",
+      "id": "6620edf8278b",
+      "title": "Especialistas alertam que vírus sincicial também oferece risco a idosos - Acorda Cidade",
+      "published": "2026-04-12T00:25:55+00:00",
+      "summary": "Especialistas alertam que vírus sincicial também oferece risco a idosos&nbsp;&nbsp;Acorda CidadeVírus sincicial respiratório é negligenciado e ameaça saúde de idosos&nbsp;&nbsp;Correio BrazilienseVírus sincicial também traz risco para idosos, alertam especialistas&nbsp;&nbsp;UOL NotíciasVSR cresce no Brasil e já rivaliza com a influenza&nbsp;&nbsp;Diário da GuanabaraRio intensifica combate à bronquiolite e reforça vacinação para proteger crianças&nbsp;&nbsp;tupi.fm",
       "sources": [
         {
-          "name": "Poder360",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTFc4c0ZWa29yajZ1TFc2bU1XWWdfR2xXd0p3OEpJWmRHS1FJNTcwN3cwMDBCLUVGaFlQSjhBYy15NWxERVBhYnloYndxMlRNVHV4dlJhbG9uWVB1cDdoYl9lYnppTFNuaUF6TkRTMGF5Z0lYYndNVFNGT2hrRVFjelZYTUJmdUtIcWpidm8xRWJvLVJKUWxqdzV2U21VcEwwUUQw?oc=5"
+          "name": "Acorda Cidade",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNXoxVTVXWlBHRkVlUlJ5X1RKVGlvSUJ2a1FSYWFaTmh5aGZ6VjBOTHFVN044TnhLYnhWd0JRclZYRW1iM1puNmk2UXZvazNoUDc4dHNsSEZ4bklJckxlejdTTWxpbGVfR3NUWVM4QU5aZzNoV1dwNUZLMVBrM3hocm03VmtNdVFuUEVkZmhnc0hBSTVhVGl4RHlMeFN0MVhvMk9BUEZqX3VTRXJhR2dz?oc=5"
         }
       ]
     },
@@ -66,13 +126,13 @@
       ]
     },
     {
-      "id": "a9a5d1d79231",
-      "title": "Você está comendo fibra o bastante? Quanto realmente deve ser consumido todo dia, segundo especialistas - Globo",
+      "id": "7251d7ff3189",
+      "title": "Você está comendo fibra o bastante? Quanto realmente deve ser consumido todo dia, segundo especialistas - Globo.com",
       "published": "2026-04-11T20:30:47+00:00",
-      "summary": "Você está comendo fibra o bastante? Quanto realmente deve ser consumido todo dia, segundo especialistas&nbsp;&nbsp;GloboFibra e proteína são queridinhas da geração Z: quanto mais, melhor?&nbsp;&nbsp;UOLA tendência ‘maxxing’: faz sentido turbinar o consumo de fibras e proteínas?&nbsp;&nbsp;EstadãoOs perigos do \"fibermaxxing\" e \"proteinmaxxing\", novas tendências da web&nbsp;&nbsp;Diário do Comércio'Fibermaxxing’ e ‘proteinmaxxing’: nova obsessão pela saúde intestinal tem um porém, alertam especial",
+      "summary": "Você está comendo fibra o bastante? Quanto realmente deve ser consumido todo dia, segundo especialistas&nbsp;&nbsp;Globo.comFibra e proteína são queridinhas da geração Z: quanto mais, melhor?&nbsp;&nbsp;UOLA tendência ‘maxxing’: faz sentido turbinar o consumo de fibras e proteínas?&nbsp;&nbsp;EstadãoOs perigos do \"fibermaxxing\" e \"proteinmaxxing\", novas tendências da web&nbsp;&nbsp;Diário do Comércio'Fibermaxxing’ e ‘proteinmaxxing’: nova obsessão pela saúde intestinal tem um porém, alertam espe",
       "sources": [
         {
-          "name": "Globo",
+          "name": "Globo.com",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcU16Q1dhQTM0WTdOSTZVcktvY0pBLTAzUmtqTUJYRlhCb3c0YUc5anpnVmdxMTdXVlhKYVpJUjJnSkJzRVU3Ui1aN3YxenRnZmRRZUhjTmVhYzFrLTIxQ1FkOWlCVEt6VDRicDJXRjdRdFBlSGI2N1VRTmRidXE1dnZqX3EtRGlwNkJzclJhMkZfYzRHY1hvVTJNM2p4WTDSAa4BQVVfeXFMT29aMlczVUlDMlphRnVqd3JTMEU4SDFBU1RTUFg4UUR1N050UTVpRElJRkdjQXBsMThGSmtxWFEzN2RjLXNxZWx4SFkzLVVyb3dIakNfQjNZNlI3SFZQazFEWmFnMEFOa3ctdk9ZWXpuZVNDTmVYX2JkOXVTN092RGlxdk9kMEk5S2wwd05lUFlXd3FpRlNYZFg4TVhVbTB5YXR0eTFxY0pnV3pCOTNB?oc=5"
         }
       ]
@@ -90,14 +150,14 @@
       ]
     },
     {
-      "id": "edce2440347b",
-      "title": "Vale do Paraíba soma 33 casos e 3 mortes por meningite no 1º trimestre de 2026; veja sintomas da doença e como se prevenir - G1",
-      "published": "2026-04-11T18:43:29+00:00",
-      "summary": "Vale do Paraíba soma 33 casos e 3 mortes por meningite no 1º trimestre de 2026; veja sintomas da doença e como se prevenir&nbsp;&nbsp;G1Secretaria de Saúde de Ubatuba lamenta óbito e garante que não há surto de meningite na cidade&nbsp;&nbsp;Tamoios NewsUbatuba confirma morte de criança por meningite e descarta surto&nbsp;&nbsp;MEONCriança morre com sintomas de meningite em Ubatuba&nbsp;&nbsp;Costa NorteDenúncias na santa casa de Ubatuba sobre pré-natal e caso de meningite chamam atenção&nbsp;&n",
+      "id": "f231cd3648b8",
+      "title": "Vitamina pode reduzir o acúmulo de proteínas de Alzheimer; saiba qual - aRede - aRede",
+      "published": "2026-04-11T17:46:07+00:00",
+      "summary": "Vitamina pode reduzir o acúmulo de proteínas de Alzheimer; saiba qual - aRede&nbsp;&nbsp;aRedeEssa vitamina pode reduzir o acúmulo de proteínas associadas ao Alzheimer&nbsp;&nbsp;O GloboVitamina D pode frear proteínas do Alzheimer&nbsp;&nbsp;SpaceMoneyA importância da vitamina D para a demência e a doença de Alzheimer&nbsp;&nbsp;Tua SaúdeO nível dessa vitamina pode revelar seu risco de Alzheimer anos antes&nbsp;&nbsp;R7",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNQnVneU9kNGtkUVhmYTRIOUdQdnBvS0dFSU1vNkVWZnZ0TTVCT3d4NVFscFNWaXNaWEdheFZyMUNkQ2lnMENDXzRnV19UZkpYeE1SVGMzT3RpQ1VOTnVlU1hjNk5OemhHOTk5QnkzNUllLVRnd2dJa3NGVTlJWTJ3NUJUcUt4dDZteW5fQlRLb2FURTVJQ2lDYXdvVjRLYlVHamhJSnZxUzlSelBIalEyQkd4UmRRLW10RXkxZmNwMERtYVZ0cTluNFZrZDJnUG5BUVJmb2E3dTdfTUlmMEpaMmtFSC1XankwWUMtR0VqdDdVOWEycXU5alhYUGYzVWZrODdUelBBdG9yRndUMlU5enZOa0t4N1VmMWxxUFpR0gGsAkFVX3lxTE9Bdy1qQWhQeHd4dXFDUEgzdW9SWGo3RzRsUl9Ocm5XTXpqYUszYmVYNC1wNGZ6eTJJa1NpRU8ySmRHTlZneW9PQk5DMUNqb3VjS2E2THJMVXFQVWZuTk5ZVmxWYXNOX09zVWdNeW5TYksyOHBPWUV1Vk53VUN1RmRnSlloQlJSeDNmcGJlYnZ6czhZM0dNcWJtdHIzNVdIazFIZTJIZ0hEVkVLZXhORXpFeGpLS3YtYVZ5eFZVZG9WR2FUYkFibVhzVmRoNmpxa0pJTlNJOEtFQWtsNERQVnZqWEhqSVdQZXlkQmNrX3dMc0tYVmo2czJFT1hma0dmWlotNU9CQlhYX2hvR2NjMGZxX2RWdHdYZjRLUG8tZk9fNFNITF9QYk5jMjZMTg?oc=5"
+          "name": "aRede",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTDg4S1VuNVNRNWUwQy1tQmU1d0xkdnFqV1RzYjZuOVI4VzRtcVpDLXJqSDNtbEJRYzB6QXU0TDlpbHBtM0hxZ0VENmxiaV9jdFFXcGREQV85ajBNR3pLVGhES1dmbktwSkNYeWtIVEpGQXVvZWExNU1WSGJaYS1qRUZHbjdScXR5WldaQTFxNUR5UUpsRnEtRnBnaUpwT0FIaUZPQnFTNNIBrwFBVV95cUxObjlxRDBrUm40cXFwMkptRlBCYWJFeUdKRzB2VjNDSHlOYmxabFhSdFlHLVQ0RGNpQnNZQ0ZJbWtUemJZSjZjbW12clVpLWtDZDEzV0w3TGtiSThQUGRCVC1ETlV5MW9aVHJlcXh3QVcwVDZtdWlwd0Jwb0thMmU5aWJyN0hUcHhUUW5MWXV0MHp5a0g0UzJPbmRacllGdVlKQVFVN0FNNUpKaUV2QzBR?oc=5"
         }
       ]
     },
@@ -126,18 +186,6 @@
       ]
     },
     {
-      "id": "cd6d55bf5764",
-      "title": "Pesquisa da Ufopa aponta presença de metais tóxicos em peixes da região do Baixo Amazonas - G1",
-      "published": "2026-04-11T15:28:47+00:00",
-      "summary": "Pesquisa da Ufopa aponta presença de metais tóxicos em peixes da região do Baixo Amazonas&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWnBIYTROYy1DNVhkd0hRWGpUa0ltUHRlZlpXMHM2UDREejZMU18yTXJfMnJ1eGxEUEdtTHpXbHZsQTVNWnFkMFdaSTRzcWQ5aGFZcEhvS29UX0ZxcEV4TFNld2RwYkdzVGdfOTMxTDVRUWY4SEJfbFAwSGtHOXJjRTdIUVVJSUNJSEtDc2pGbnlHUlM2OHRXOC1YNnRmQ2ZtcEQwNzVaVVdrUF8zWExmUGlDc3ZKOXBTTlNmX3U5RHpqQTB2UHRFMVlMbXhoWnNybjJIaHBmQ1o2bGRrZmtWUHEtV0RsYmxxZmfSAfgBQVVfeXFMTnl0U09IT3dyQWJiVEpXVG5rWmI1VEx3NVVOS1RKaFpuTHlveUtuNjlkZlZveTNzN3N5VjdDWG5iNGZwNVRBRWYwQUNzZ0haeWgwTjU3YW1qamFuYjcwald1UGtxQXVDa1ZreGhsV1RicXhzVHl1d1c3dW8wVWZYcHIwME5IbEhZY1o4Q2JYcEl1ZUVPZmhQdi05c1ZPYnV0ZEU2Qk91QURNS0pxR3lWV1JKQ003Vm5GdzU4UFhnaGpMV2lIZEgybzVmVWtnV0VzbC14eG4yVWtucDJfV0NoZHNEb2NxSmlOT2ExLVhmX3YwWFU5QnJZNEc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "72bc45a35f7b",
       "title": "Vacina contra HPV pode proteger homens contra pelo menos 3 tipos câncer - O Globo",
       "published": "2026-04-11T15:01:17+00:00",
@@ -146,6 +194,18 @@
         {
           "name": "O Globo",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVXhWRnI0UUxhZEp5dE9QNEFLUEJENXpuV3JJbHJJbkZVTmNmYXI0SXk2UUpKZzY3bkdQV3hUV3p1M0NOaE5MeGdwZ3BtRUxuTVVHaC0wTmpBcV9vd3YzaFBfcWZUaHFmMW9yY1I2TlFlcDBOcFVvM2lpSTRHczlnaEo0bUJoaTJ3UDVjOHk2a0RtdHlOTmgxcFhqaGwzWS1tbmZaSVI0SElFaXNZTXBUdTdoNVlLeFpMUGFoSGZJNmFfNkMya0HSAdQBQVVfeXFMT2pyWXNpdWNGRW1XUVNKLVFSRGVCdFF6eVhZMjFzaHU0b1RJcTR6YTBLNXR6WjRVLThPa2l0X0hoVTFlTWtLSWZxSnZwYU5IYzZwTC1FbUhqaWVvXzFvdi1TS2FZUEI2d0hRNDM1emhXdGZ3Q1JIZHVuYzF3V0U1R3U5aVZDVnBibDVRLWFqMEdfVGV0NElodlZnWFM1bkNPM2NOYTFndlkwNXBxRFZZbjVkeEhXZlBZMjdORURFY1FkNzV1NnB6Rm0yMmxmZF9Pd1BlVkM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "350fb9c2c27d",
+      "title": "Tentativas de golpes com vendas on-line de emagrecedores cresceram 14% em 2025 - Midiamax",
+      "published": "2026-04-11T14:29:00+00:00",
+      "summary": "Tentativas de golpes com vendas on-line de emagrecedores cresceram 14% em 2025&nbsp;&nbsp;MidiamaxCanetas emagrecedoras reduzem consumo em mercados, restaurantes e delivery&nbsp;&nbsp;R7Mudança de hábito&nbsp;&nbsp;CartaCapitalCanetas emagrecedoras acendem alerta para uso sem prescrição médica e a origem do medicamento&nbsp;&nbsp;A8 SergipePopularização das canetas emagrecedoras acende alerta sobre uso no tratamento do lipedema&nbsp;&nbsp;Gazeta de Pinheiros",
+      "sources": [
+        {
+          "name": "Midiamax",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSTBrQ2NGMGowcWJ4cEx0RWM5aWFBWjlFekVIUUVteGVHVGVMbm1Hc2xreXRueEwwRlAtLUtRV0NLb2JIRk1KZDcydTNoS0dHanQ5ZFRuT1NuZHFVNkFUM3Z4Qk9YMkF2Mi1Td1F2RlpZMmJ5eU5nbVZUOWVuNk92djljeDdaWWVxQWRmeENvWlNZVWdtWDM4Snp3bTd5NVZUYW5iMnM3TQ?oc=5"
         }
       ]
     },
@@ -177,7 +237,7 @@
       "id": "79125ea95b79",
       "title": "BH abre 153 postos de vacinação contra gripe - Estado de Minas",
       "published": "2026-04-11T13:24:00+00:00",
-      "summary": "BH abre 153 postos de vacinação contra gripe&nbsp;&nbsp;Estado de MinasMais de 800 cidades de MG promovem Dia D de vacinação contra a gripe neste sábado (11)&nbsp;&nbsp;CBNDia D de vacinação contra a gripe tem alta procura entre idosos em Passo Fundo&nbsp;&nbsp;GZHVacinação contra gripe em BH: veja quem pode se imunizar&nbsp;&nbsp;Estado de MinasSábado será de Passe Livre em Porto Alegre&nbsp;&nbsp;Terra",
+      "summary": "BH abre 153 postos de vacinação contra gripe&nbsp;&nbsp;Estado de MinasVacinação contra gripe teve sistema drive-thru em Jundiaí neste sábado&nbsp;&nbsp;G1Vacinação contra gripe em BH: veja quem pode se imunizar&nbsp;&nbsp;Estado de MinasDia D de vacinação contra a gripe tem alta procura entre idosos em Passo Fundo&nbsp;&nbsp;GZHParque da Uva registra grande procura por vacinação contra a gripe em ação drive-thru neste sábado (11)&nbsp;&nbsp;Prefeitura de Jundiaí",
       "sources": [
         {
           "name": "Estado de Minas",
@@ -186,14 +246,14 @@
       ]
     },
     {
-      "id": "7773375b65d9",
-      "title": "Melasma: dieta ajuda a prevenir e tratar manchas na pele - Poder360",
-      "published": "2026-04-11T11:32:39+00:00",
-      "summary": "Melasma: dieta ajuda a prevenir e tratar manchas na pele&nbsp;&nbsp;Poder360Alimentação está diretamente ligada à saúde da pele; entenda o porquê&nbsp;&nbsp;Correio BrazilienseDieta pode ajudar a prevenir e controlar melasmas, apontam estudos&nbsp;&nbsp;Piauí HojeDieta pode ajudar a prevenir e tratar manchas de melasma&nbsp;&nbsp;Portal TelaDieta pode ajudar a prevenir e tratar o melasma no rosto&nbsp;&nbsp;F5 Online",
+      "id": "c35d6cd73a27",
+      "title": "Brasileiro que descobriu nova rota para Marte tem estudo publicado; veja - CNN Brasil",
+      "published": "2026-04-11T12:40:57+00:00",
+      "summary": "Brasileiro que descobriu nova rota para Marte tem estudo publicado; veja&nbsp;&nbsp;CNN Brasil",
       "sources": [
         {
-          "name": "Poder360",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcGJfRG9Ob1d2TC11ZFhaTW9vZE14SzU2U01FVzRqRXRPWFFLZnZCVnhDUlFNTDAtcVQ5ZUxiaHdiSTVMMGthTW9BNWVLd0RJc2p4aVhaU3BFVTNqNl90RG1sN24wUmU1X2pPSlh6bE56SzRCMWJlWC12ZlkyWFdHWEdIbXk3aldkbVp0YmJ0ZDVkYzNzVWUtRk8zUDI?oc=5"
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTi1IVERuWEh6eTBGREljbzA3dlp6cGxBMjVzVm9XVWJyZkV2c285VGI4N3dCOWYyUENRWEhjLWd3enczM1gxT3N6MjVpMkJxZHVkY3o4Z0poOXhwc0htTmdGeDVZbmRCQjVWTFp1M0tYdlFJVGZtS0UzRS10ZGdBQ2gtV3VQdFhTWUFfek82akUzQmh1S0NHYkp2SlVfckJWNmlNanZPMEtKWjlWLVE?oc=5"
         }
       ]
     },
@@ -210,22 +270,10 @@
       ]
     },
     {
-      "id": "e59ca24cd8d9",
-      "title": "Marte pode ser habitável, mas há um risco: humanos podem deixar de ser Homo sapiens no planeta vermelho - Revista Fórum",
-      "published": "2026-04-11T11:00:06+00:00",
-      "summary": "Marte pode ser habitável, mas há um risco: humanos podem deixar de ser Homo sapiens no planeta vermelho&nbsp;&nbsp;Revista Fórum",
-      "sources": [
-        {
-          "name": "Revista Fórum",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5oMmZkcTNtdGlXZEdaZjZ5SzNsbHNtUERuWDFjeGtsM21hUnBIRTNMQnJfY2tacUlpSTNGaW5ReU5ObDg3QWVqdVZ2MTNDV3VhNFhmS1FGTUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7142f3213bde",
       "title": "Gripe avança no país com 1,6 mil mortes - Correio Braziliense",
       "published": "2026-04-11T07:14:00+00:00",
-      "summary": "Gripe avança no país com 1,6 mil mortes&nbsp;&nbsp;Correio BrazilienseFiocruz: internações por gripe aumentam no Centro-Sul&nbsp;&nbsp;O GloboO que é a “supergripe”, doença que está fazendo vítimas ao redor do Brasil?&nbsp;&nbsp;Diário do ComércioFiocruz mantém alerta para síndrome respiratória grave&nbsp;&nbsp;Agência BrasilCasos de síndrome respiratória aguda grave dobram; estados entram em alerta&nbsp;&nbsp;band.com.br",
+      "summary": "Gripe avança no país com 1,6 mil mortes&nbsp;&nbsp;Correio BrazilienseO que é a “supergripe”, doença que está fazendo vítimas ao redor do Brasil?&nbsp;&nbsp;Diário do ComércioFiocruz: internações por gripe aumentam no Centro-Sul&nbsp;&nbsp;O GloboCasos de síndrome respiratória aguda grave dobram; estados entram em alerta&nbsp;&nbsp;band.com.brAlerta para a gripe: vacinação é essencial para quem tem mais de 60 anos&nbsp;&nbsp;Terra",
       "sources": [
         {
           "name": "Correio Braziliense",
@@ -246,14 +294,26 @@
       ]
     },
     {
-      "id": "0d9ffdef8ba5",
-      "title": "Pela primeira vez na história descargas elétricas foram registradas na atmosfera de outro planeta e a descoberta do Perseverance em Marte agora força a NASA a repensar completamente a segurança de todos os equipamentos e habitats enviados ao solo - CPG Click Petróleo e Gás",
-      "published": "2026-04-11T01:10:00+00:00",
-      "summary": "Pela primeira vez na história descargas elétricas foram registradas na atmosfera de outro planeta e a descoberta do Perseverance em Marte agora força a NASA a repensar completamente a segurança de todos os equipamentos e habitats enviados ao solo&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "id": "81efbfa5017b",
+      "title": "Estudo da UnB em fase inicial vê ômega-3 como possível aliado no combate ao câncer de ovário - G1",
+      "published": "2026-04-11T05:00:41+00:00",
+      "summary": "Estudo da UnB em fase inicial vê ômega-3 como possível aliado no combate ao câncer de ovário&nbsp;&nbsp;G1",
       "sources": [
         {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPbUZaTWZMVURhLVpaSm80RXFhMC1LX3QtMXBnM1o3dktCMTAtZ2hsLXZLbl9xQzhGMW9SZGRTZDBESUxGR2hxVi1ackdQTjNodUctUllVc1hFejN4alFENWN4WnVZSGlfZjFJNklhc3FNQnZnWTdPUGIxTXNkX2hDRFUtWk8yekRqT1M4dDlucXlMb0VPZS1PSENxUGZ2bVZIbTN2UTJWOXZaeXRIeWdlN3BiZXF0amlqMk56dWlubFFtV1g5NmQydUZ1TGNxQXpaWVN0MHI2ZnZiOTZ5TkJQMEtKcnFjb1hLS21ERWl4MTV1MnVOenlYWHdJUmI2bDVCazBrTjJzcXk2RTluUnM0WlRaZVBGclE3bDNkdVdwQTdOb1JaME5USzBoNEM1Mld0UzU3MERRUVBYbUNEeW5Eb0poMDNxams?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZXkydmhjd0xuV3E4YU1ST0JSekE2MVJxVTlXR1gyUDFwVkVVdGJsR3lwRXNlTFlVTTFpOXZUZVctVWtfTlRpeFZNTF9feU1XdG15eXgxWE9NSVk2RkdnSkVSMEdKTDRuZW9OOW53TUhxYmsxVnJUdTNkYmp3R0s1b2gtX0ZvbEM4eU5Dd2ZfMlVaaTFjbk1CdWRmRGx4ak1MNktuMG9SZlkyUmtnQUJFTHVkdGdhZ0dXY2tuMmIyRjJkSTBJZXFzam00UXNRZnZNcDdad2lJLVVUa3dvOElNM3prN0UwZE5xVzV6Y0VjQdIB_gFBVV95cUxOcjVyaW5YUVl2bkR6Ymw4cXc0WVVHckhSM3JZRFJSR2tJU3g1QXN4RFk3QVRzVDdzUU9XeVpnUGRfMUhCMnBOY1E0SzlFTE1qM3JGbzJyUXBmQ3Bpc2ViNTNYSHRxOXVjS0d0cHQ5eUJMeEpFaFpLX2hDTUVJb3JjVTdZcjc0UTlzNGhoODJnZXd2QnFxUERKenlHellfbFl5RmtsNkczSmZndVhwRGljYjhwVEFUcnZZRUlwSTZxZEwtOGhscFh6bGt2Q1Q4bFZaOXc4WVMyVVFfWHBKZ2YyZElxbERrbm5OZDdOTVZDN1RNaURoVDNZenZ0NlJKZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7e444847bd42",
+      "title": "‘Polvo mais velho do mundo’ não é um polvo, segundo estudo - R7",
+      "published": "2026-04-11T05:00:00+00:00",
+      "summary": "‘Polvo mais velho do mundo’ não é um polvo, segundo estudo&nbsp;&nbsp;R7",
+      "sources": [
+        {
+          "name": "R7",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZFcybTQ5Z3lJZGVBdkZSNTlDTWhfdC1uWUQ3MWcyUmdULXl4QTBPVXBMR3NWRlQ3V2gwZkRYYkpySDM3YjJ1cDRRY1lSc0JfcGQ4NjVpMGttSXlTWFExTTlDTnY3bWc4OHFZaGtDaUo5ZnZQbUVBaE1xanJoRkZmcVBoRnRXdnBqWXgwUDJNM19QUzlIRm1TVzdROXpSQXc0RlluNVFB?oc=5"
         }
       ]
     },
@@ -266,18 +326,6 @@
         {
           "name": "Diário do Comércio",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSkpxeGJYNDRnT1MzTnowOHV5b1VIWm9yVlMtOUlEMW8wV0JuRFR2WkxJbEZ4R29LUVU0d0RtVnRIallyNkpXUk9EbFBBVTN3T1NoczR1RExaS0pXY2pYVWhnOEM5aWVQOUd4NHpHQjg2azFQNTNwNGxkTFEtb29iR0hKZVdkRXlXUE9BVTVDZzQ3ckFZb1FBZzB3WGtWYWEyeTdTY1VfQjQ4eHM4YUZyMA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a1c3f24d10bf",
-      "title": "Piauí tem 28 cidades em alto risco para dengue; Saúde aciona plano de emergência - CidadeVerde.com",
-      "published": "2026-04-10T22:30:00+00:00",
-      "summary": "Piauí tem 28 cidades em alto risco para dengue; Saúde aciona plano de emergência&nbsp;&nbsp;CidadeVerde.comPiauí tem 28 municípios com alto risco para dengue; estado tem mais de 4 mil casos e uma morte em 2026&nbsp;&nbsp;G1Dengue preocupa em Valença e Vigilância pede atenção redobrada da população&nbsp;&nbsp;Portal V1Piauí tem 28 municípios com alto risco para dengue, alerta Sesapi&nbsp;&nbsp;GP1Piauí registra 28 municípios em alto risco para dengue; estado tem mais de 4 mil casos e 1 morte&nbsp",
-      "sources": [
-        {
-          "name": "CidadeVerde.com",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQTNKTGFRQTBia2pEODZ6ZU9fWTZfWmpBN1V1N3hseUhLSnAxQjdRaTVDSkxpcGthNTJXanN1LXJMc19sWXJBVVpQV0xCNDZ2X0htamhHdU5JT3g3MUhxN0hLRy1OZUxFZWlWem5uWlJTemg2dVV5ZFJQV0ljLThqc3BTWFFOaWkySUZpXzl1bXJJcHNhaXVuRWI3R3poRUhfT3I0bDhJckZ2S0ZmUEVDdXNlMmFENnRWNjJN?oc=5"
         }
       ]
     },
@@ -306,6 +354,18 @@
       ]
     },
     {
+      "id": "5cd0c7a9afa2",
+      "title": "Exame com IA aponta câncer com 90% de acerto e pode substituir colonoscopia - UOL",
+      "published": "2026-04-10T20:52:25+00:00",
+      "summary": "Exame com IA aponta câncer com 90% de acerto e pode substituir colonoscopia&nbsp;&nbsp;UOLEstudos premiados pelo Icesp em edições anteriores testam biomarcadores para câncer&nbsp;&nbsp;Folha de S.PauloExame que muitos não gostam de fazer pode revelar câncer perigoso&nbsp;&nbsp;Diário do ComércioNovo exame de fezes identifica 90% dos casos de câncer colorretal&nbsp;&nbsp;MetrópolesImpressão digital do intestino: como bactérias podem ajudar a detectar o câncer colorretal&nbsp;&nbsp;Estado de Minas",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMU9KQmpTbWlpRkNVdDJZUXRpSnRZMlVzUi1UX0R3YzFZNjhlODlwdkVhQ1NPbXV5SEtHNTVjT3ZNUjN2VWpPMkNjcVpEWmt6eVEyZktYY2o1RnlabEFabERBXzlFay1RX0xTQ184YjFqLXRmaFVOOXAtSy1FNlFVQkJoVzZhTGV1ZWhKV25vbm9kTVlEQml1dzF6RERGMnJ2UkJsX1k0RkJrcEpMMXI3VmJYUUJWbjJVcDZiZjRMYTczcjI2NjF4WjJQX2JCLWkyV2NhVQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "9be6fb978eec",
       "title": "Como a saúde dos astronautas da Artemis 2 será avaliada no retorno à Terra - Globo.com",
       "published": "2026-04-10T20:11:16+00:00",
@@ -326,54 +386,6 @@
         {
           "name": "Portal Drauzio Varella",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPamRRazBQMGp5Y0Izb0VaOUU3NnZPYi10ZXBLOFhRVFFZZVdrSk5OanVPMzZnQ2t1Q0VpdHJLLUwwc1pQWnEwYVlsWTFmS1p4RHhkUkhtcmxDUXlESjY5VU9IaXNuNGRmWG5fbWhDbVpRbkR3V0pOS0VxNUNrVlVESUpnMV9jV3BlblF0eDNFaDBEUW1xVTJJTWhKdzMxY0lKdDE1eUxn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a9c0782463f4",
-      "title": "\"Lula-de-Poseidon\": a descoberta marinha de 2025 - DW.com",
-      "published": "2026-04-10T19:42:44+00:00",
-      "summary": "\"Lula-de-Poseidon\": a descoberta marinha de 2025&nbsp;&nbsp;DW.com",
-      "sources": [
-        {
-          "name": "DW.com",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbXpnRnA2YkxNRWZEZ2VJSEUwSzNqdjl1Q3JaWEtOdmtVRy1weVQ2ZWoxMEljX3FfbHh3MFh6dURfdjZwTWVYWkFoOFBxNkptV2pqR3RGNWR6bDN5TTZ6V3dPVVdsZmRzajBLdjVlRmxpemh2MFk2Wk9oeWFRVlF2TlRDd08tazAt0gGIAUFVX3lxTE13eHNoa3NzVENTU0FPSEU5eUFobjIwaVdWQ0t5TGlSeHgtLThJS2ttUEI5Q3g0enRwSTl5a0d0SjIwNUNCejZZYjNlNHVEUXgwMW4zcVBqeTdLeWlRcFFZYThKTDhCLVhZLXNUTVgzOWEwTnBITE45ZEgzc2dmMG5GbzRvMDBoZGE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1cb755ef90c1",
-      "title": "NR-1: os riscos que passam a exigir atenção do RH - Exame",
-      "published": "2026-04-10T18:02:29+00:00",
-      "summary": "NR-1: os riscos que passam a exigir atenção do RH&nbsp;&nbsp;Exame",
-      "sources": [
-        {
-          "name": "Exame",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYzJWUU14d0tMWUNVaFI3S29hODJRT01hZXJsYm1vTW0yWDJxQlNtZi0yMzBpcFZwTHYxTkR0eW9qMU8tem5XWElsWEw5YkwzSHI0bHpxS0doamRLeGZ3MDRwX3N1cHpjVTdOaVIwVFVnX3R4cTBKcm56cGRubmktOU5zc09zaHFTeWNYMFB0aS1scC1MbDdYeHlwNHdxZWJJbXJraXZtemZMZDhiZkE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3f2c970e5c7c",
-      "title": "HU alerta para aumento de 163% nos casos graves de síndrome respiratória - JR - JORNAL DA REGIÃO",
-      "published": "2026-04-10T17:29:36+00:00",
-      "summary": "HU alerta para aumento de 163% nos casos graves de síndrome respiratória&nbsp;&nbsp;JR - JORNAL DA REGIÃOJundiaí confirma 1ª morte por Síndrome Respiratória Aguda Grave em 2026&nbsp;&nbsp;G1Jundiaí registra morte por Influenza e baixa adesão à vacina: apenas 10%&nbsp;&nbsp;band.com.brJundiaí confirma primeira morte por influenza e acende alerta para vacinação&nbsp;&nbsp;TV SorocabaSíndrome Respiratória em Jundiaí: casos crescem 163%, morte é confirmada e vacinação ganha reforço&nbsp;&nbsp;Tribun",
-      "sources": [
-        {
-          "name": "JR - JORNAL DA REGIÃO",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdS1vYmpnWXRCekZzM184ODJzcHIzRkJja0haNS1TR2FvdmF6dzhHM3dRckZNZ1plNzlEOEhKOVh0Q1VHaHFHaXpMT2NVc25oYVVRWDNOM3JZdGVabUU1NEdzcUhGZ0hUdHU2U25EMFlHbWxyem5SR3NEY3Nickk0QldVeEhtWVlGclFvUF8yMFBuRmRhaG5ZYXc1R0lybnh0UW5Z?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "20b0a641f50f",
-      "title": "Novo exame de fezes identifica 90% dos casos de câncer colorretal - Metrópoles",
-      "published": "2026-04-10T14:37:34+00:00",
-      "summary": "Novo exame de fezes identifica 90% dos casos de câncer colorretal&nbsp;&nbsp;MetrópolesExame com IA aponta câncer com 90% de acerto e pode substituir colonoscopia&nbsp;&nbsp;UOLImpressão digital do intestino: como bactérias podem ajudar a detectar o câncer colorretal&nbsp;&nbsp;TerraEstudos brasileiros avançam no uso de biomarcadores para câncer&nbsp;&nbsp;CidadeVerde.comFim da colonoscopia? Novo teste detecta 90% dos casos de câncer colorretal&nbsp;&nbsp;Época Negócios",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSXo3Q0hQS05ubUJISFducWtvai0xSVBSWVZPVDBMZE1MbTlQdDFWcDlhUFNWci1Mbi1kc3hyaXRSSG41dHhrb3NyNjdnR01wamdTaHdoazU2Z0ZSSkVka1RSMFhSaFJabUt1MllkWlN1TElEM1FtSDBudEhFZGFiaGl5NlM?oc=5"
         }
       ]
     }
