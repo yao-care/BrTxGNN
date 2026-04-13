@@ -1,10 +1,22 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-04-13T02:54:26.239261+00:00",
-  "total_fetched": 77,
-  "unique_count": 76,
-  "health_related_count": 31,
+  "fetched_at": "2026-04-13T08:08:21.765446+00:00",
+  "total_fetched": 76,
+  "unique_count": 74,
+  "health_related_count": 35,
   "news": [
+    {
+      "id": "d99caa0a0b40",
+      "title": "Pesquisadores mergulham a quase 5.000 metros de profundidade no Japão, descobrem um raro “castelo de vidro” habitado por espécies desconhecidas e mostram que os oceanos ainda são um dos maiores mistérios do planeta - CPG Click Petróleo e Gás",
+      "published": "2026-04-13T01:02:00+00:00",
+      "summary": "Pesquisadores mergulham a quase 5.000 metros de profundidade no Japão, descobrem um raro “castelo de vidro” habitado por espécies desconhecidas e mostram que os oceanos ainda são um dos maiores mistérios do planeta&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVUFMc1hyb3dDV1FxVkVEQUswWjYtYjlPRThUWUNGamVBcVVNT29DQlRRbVlSYjRaNmxVYmd0ci1YUFpqMnBPWTBiQWw0R24xV1p0ZWk4cWNRbk40RTgybzVsQTN1MVZKZm81azZMR3M2SWxlRU1DTThLaEFyaWwzSzBDWWIwRllwRnNPOWlkdm5PN3Z1bGdHOFpteEFSUEhYcklDVS02dkdicXBNdkR1MklmMV9XRlA0YVR1cmxIRWttSmp4YnJIX1VYdThLMnRFQ0JFVEsyelY5ZWVDU3dOM0ZR?oc=5"
+        }
+      ]
+    },
     {
       "id": "72c7086af2ad",
       "title": "Por que monitorar o sono com relógios inteligentes está causando insônia e o que a ciência diz sobre a ortosônia - Revista Oeste",
@@ -102,6 +114,18 @@
       ]
     },
     {
+      "id": "11ebd65d6213",
+      "title": "'Chinamaxxing': moda de beber água quente de manhã realmente faz bem à saúde? - G1",
+      "published": "2026-04-12T16:28:15+00:00",
+      "summary": "'Chinamaxxing': moda de beber água quente de manhã realmente faz bem à saúde?&nbsp;&nbsp;G1Ver cobertura completa no Google Notícias",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQ1prYzlhM3FxS3FnYnhfczZoUnhCdzJ2Y0hFSkFMTkhrc3hUa1FvT2lNNGZhV3pDYXVBZG1MMkY0X05zNzNYM1ZSaXZZUVQ0SGJ6b1ZHSXhlamU3bEU2N3JSRUJhWVVZamVSM2dvUk1hMGVyOFEwOXJvdml5Mi1RcFlZRXhla2V0U1k5MjBxem8tSE9jeXdIVEtDVzRVODQxbWN4OHlLWEN6NkNsT3o5OTlvNWYtUE5ZVU9ieFpWNGNobzDSAdIBQVVfeXFMUHJmWklENW1uMko0c1owck1CeDgzaXBjNHhaajc5V3RzT0ZNWkJ3TXZKdXVNamxDa05hZUNyZmV1RGNrQlNCblNyNGJRX3Qzck55US1xNDB6Y0YtTkNHTzV6TEdJcFViLWVnTm1MWDFSRzVjZFJJU1hDdEtWRUF6TzZaTFowUTZkdFRvdG1pazFGbnN4UVNuVzVRUUtrX0kxS1FRaEdmVi1IM2V3R3ZYMU15Zll0WDRHQ3RMa1VibjhvMFZ6QXR5b05vRnBFNnMtY0p3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "55cb09eba973",
       "title": "Poeira do Saara cruza o Atlântico enquanto uma faixa de algas de 37 milhões de toneladas se espalha da África até o Caribe: o que está acontecendo no oceano e no ar pode ser visto do espaço e afeta a saúde de milhões de pessoas - CPG Click Petróleo e Gás",
       "published": "2026-04-12T16:13:00+00:00",
@@ -110,6 +134,42 @@
         {
           "name": "CPG Click Petróleo e Gás",
           "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQcXlidk9GaENZbHNuYW5xdjcxTGU2VlhORGtrT3oyem1PYkxndDdIRER1VG0wbHhyRHVsU2xyREhzWDUxdVJnS0gxWnVQankzbFBmaTVFMVAtZkpLekwzM3RfSHRvazQ3SVFKeDFWX3FIdzJQOXhCN0tWUVBwVjVscHJySU5ueVFKdEdsMGZrdGdoQlhwbTRwMExZVzNyd0cwcGRSWlBCNWc1b2RKUlgzYmtHdHJudDBSdTRwSHJpamhtSUIzOWJNV3RvaGVMMUZYaDE4Q1RIdGxId1hPYUlUMmtmZ24xQ21Rdm55cTYwcXA1YTVDc2ZmbDFpc2JwcG5lUU1nYnlNeWlFWEt6N3VjaDJ2WjlhVUJNTlppLTl0dE1DNHpVaHNwQXN6cWpFdmNqcWM3dGMycGRhR3dVdHVoYXB4R3JaZXM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "377a40be19df",
+      "title": "5 hábitos para melhorar a memória, segundo a neurociência - Tua Saúde",
+      "published": "2026-04-12T15:35:00+00:00",
+      "summary": "5 hábitos para melhorar a memória, segundo a neurociência&nbsp;&nbsp;Tua Saúde",
+      "sources": [
+        {
+          "name": "Tua Saúde",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQblgwNGVHNURVUzVEVy1tU0kwc0E3dEpNOWFxYjhsTlJUcVF0LWFDdU02UjRRdFJpTklXa2hSWW1NQ0ZHWVc3TGxQNEFqVlFhSWV0TW9lWWcyZzljYTFEd19VR3pkZ2J2azVpQ01pU2J2QmRqOExRbWhMZTA3cDlVUkNaVlVCb1ZaS0R6UURJWTAwQURnZWk5ZWhUSVg5ajQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "909a7dddf4c1",
+      "title": "Maruim: o mosquito quase invisível que está mudando a rotina no sul do Brasil - R7",
+      "published": "2026-04-12T15:05:46+00:00",
+      "summary": "Maruim: o mosquito quase invisível que está mudando a rotina no sul do Brasil&nbsp;&nbsp;R7Infestação de maruim obriga moradores a viver com portas fechadas em cidade de SC&nbsp;&nbsp;Folha de S.PauloDe enchente a plantações: o que explica infestação de mosquito que fez moradores em SC se 'trancarem' em casa?&nbsp;&nbsp;G1O que é o maruim? Surto do inseto que transmite doença sem vacina preocupa moradores em cidade de SC&nbsp;&nbsp;GZHAmeaça invisível: saiba como combater o maruim e conter infes",
+      "sources": [
+        {
+          "name": "R7",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWEZ1REtranV3cWlVMEs0a1A5TU1NWTdoZU1RNzEzLTZiaEF4MTBrODJ6RndKNWwwMGtOeWoybnY1ME5CQ29sN3o5YVlHSEVBdkc5OWtEd0Z2bmlsM0lYZDluY1pVRjVLVkFSdzhaUGdBOEFNVjVEQURRTmFSb29lZFhuaHlHWjdjMk9jX0piSlVlRDY4T1FNVlQ5ZjFEaUJrWTRBVmNGR0UtdGpTU3gxcmxJRXROTVY4MER5R2M2QWY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5bdc2d5d8acd",
+      "title": "Astrônomos encontraram sinais de um planeta escondido há décadas em dados esquecidos de telescópios, e se ele existir mesmo, será o primeiro novo mundo do sistema solar em mais de 170 anos - CPG Click Petróleo e Gás",
+      "published": "2026-04-12T13:59:00+00:00",
+      "summary": "Astrônomos encontraram sinais de um planeta escondido há décadas em dados esquecidos de telescópios, e se ele existir mesmo, será o primeiro novo mundo do sistema solar em mais de 170 anos&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUUUyeTJ3SnFYNUZ5RTdDOVN3XzRmYkNIN3VVZHdBcG5YUkRiTWdYUThVcC1NQWFfb0F6cW1DNDYxX3o0bW9ZeUdmTjl2bHJmLWpXNkZWelRLdUpzMFRtYmxxcGczVVJ6S0Y3RXJOWDdkMThDUDc1bzRUMGZWZTZHOS1zQ0NMcUV2ZmEtM29YYVZJYWhvUXE3dkNfUzYtWTByZFptRw?oc=5"
         }
       ]
     },
@@ -129,7 +189,7 @@
       "id": "1a1776f9c82f",
       "title": "Ser mais otimista pode diminuir o risco de demência, diz novo estudo - O Globo",
       "published": "2026-04-12T13:15:44+00:00",
-      "summary": "Ser mais otimista pode diminuir o risco de demência, diz novo estudo&nbsp;&nbsp;O GloboVer cobertura completa no Google Notícias",
+      "summary": "Ser mais otimista pode diminuir o risco de demência, diz novo estudo&nbsp;&nbsp;O GloboOtimismo é fundamental para um cérebro feliz, diz estudo&nbsp;&nbsp;TerraEstudo revela que pessoas otimistas têm mais chances de chegar aos 90 anos&nbsp;&nbsp;Diário do ComércioOtimismo reduz risco de demência em 15%&nbsp;&nbsp;SpaceMoneyO traço de personalidade que reduz o risco de demência: estudo&nbsp;&nbsp;jornalemdestaque.com",
       "sources": [
         {
           "name": "O Globo",
@@ -150,18 +210,6 @@
       ]
     },
     {
-      "id": "c6ccbe736868",
-      "title": "Epidemia \"silenciosa\" do fígado: temos um problema que escapa exames e que a ciência tenta deter - Xataka Brasil",
-      "published": "2026-04-12T12:02:12+00:00",
-      "summary": "Epidemia \"silenciosa\" do fígado: temos um problema que escapa exames e que a ciência tenta deter&nbsp;&nbsp;Xataka Brasil",
-      "sources": [
-        {
-          "name": "Xataka Brasil",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQR2dPOTZGd1FXV05ra1MwY1pKRUFPYmJMSWpBQ011dXVIYlFSRXpJTFpIWVFXOWJDMGl2Z3BvU2l1T1dKZlJHa3Azbzd2YWZfSUt3NndIa19lNXpGUFVaYWFWbzE5ZFprWGNqaWRlOHlPY243VUIycktTV3dkNG1RVXY1dHUzdXJXQmRkUEdrZGFRYzlsVEtGdG0xVHRCRlNPc0RwYXlraXZiNjJ6SzNUTEMtZjFxaDRnM3JLZXV4Sno1Y1ExUlE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "75e4d9d80644",
       "title": "Robô da NASA detecta primeira tempestade em Marte e assusta até mesmo os cientistas - Diário do Comércio",
       "published": "2026-04-12T11:31:00+00:00",
@@ -174,14 +222,14 @@
       ]
     },
     {
-      "id": "0247ed175332",
-      "title": "'Chinamaxxing': moda de beber água quente de manhã realmente faz bem à saúde? - Correio Braziliense",
-      "published": "2026-04-12T10:11:00+00:00",
-      "summary": "'Chinamaxxing': moda de beber água quente de manhã realmente faz bem à saúde?&nbsp;&nbsp;Correio BrazilienseVer cobertura completa no Google Notícias",
+      "id": "e8bef2713627",
+      "title": "Essa fruta que regula o intestino pode fazer seu corpo reagir melhor em poucos dias - Super Rádio Tupi",
+      "published": "2026-04-12T09:38:04+00:00",
+      "summary": "Essa fruta que regula o intestino pode fazer seu corpo reagir melhor em poucos dias&nbsp;&nbsp;Super Rádio TupiQuem não deve comer mamão? A fruta que foi apelidada de \"fruta da longevidade\" é revelada por especialistas&nbsp;&nbsp;Tua SaúdeAdeus vitamina: nutricionista indica usar mamão em um suco cheio de benefícios&nbsp;&nbsp;Estadão",
       "sources": [
         {
-          "name": "Correio Braziliense",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbzNYUlhjRlhoQ3RxWEg4czdfeG1wYlFqQUs2UVlweERaQm5VUzQ3YUd2eFlSY1BLRDQxWW00ckUwNEN5c2poLXlTLW1WX2E1bEIxSjNjXzM3NFNFbHNfY202bDdNd1IxLWtMREVmSDVSVEp6cjZQdjRNckptQlBwUVNGSzRpS3pJODdRWTM1R1ZrWkFYcWtkTnZNUU5YS09DRTVPQkxaT0ZaaTk4dGMzXzlqTUtoV1VQbjV1cVBYUlYweFBkS0w0UGxoUW5sbkU1WE1pcNIB2gFBVV95cUxNbVo2NzBRWmtlUXpKNzJtTi03c3lzZzB3Vm1QZzU1Y2dHc0RlSXV6cWU3MDZqZ3FVMTFSN0JISVgwUUpSWWtlQnlQdHZ3VElKYkRVNjMwNDJrcElLY2NiS1pJUmRwQllsaDktLUlUMTMwZk9yV0Y4Zlk1Z1Q2Q0twZWROcEpfcVZHVkxmbnRGcGR2aEd6Q0YtcHB0cGdEYTVzWFdaQ1EyckVQcTVLdVF5aFRVSUo3ZFM1QjZrejFfSUx6anpEVHJBTThJQlBFRFkwTHpMM3NpeG5XQQ?oc=5"
+          "name": "Super Rádio Tupi",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYXhwNU1oWVFpVjFnQkpRUHBNZ0ZTMEUtYjd1Z0Zpb0R0eXdBZ21oWW95Zm5WV3dTS0ZxbTdUQTdZS2ZhWXFwMDZNSEN2Nm13ZjYxY1k1MUU2QlVEdjN2Qkh2ZS1GVjlSNFN3R0lyQXllaFRYZ19McHZxdVFNejhkV2F6VWsyak5GcDZtWGlseTZtSG5BWWx2RUR5NU5TVmFqQWsyZGppTEYyRHc1R05HSTBFR29mVmRndEhz?oc=5"
         }
       ]
     },
@@ -246,18 +294,6 @@
       ]
     },
     {
-      "id": "a9a5d1d79231",
-      "title": "Você está comendo fibra o bastante? Quanto realmente deve ser consumido todo dia, segundo especialistas - Globo",
-      "published": "2026-04-11T20:30:47+00:00",
-      "summary": "Você está comendo fibra o bastante? Quanto realmente deve ser consumido todo dia, segundo especialistas&nbsp;&nbsp;GloboFibra e proteína são queridinhas da geração Z: quanto mais, melhor?&nbsp;&nbsp;UOLA tendência ‘maxxing’: faz sentido turbinar o consumo de fibras e proteínas?&nbsp;&nbsp;EstadãoOs perigos do \"fibermaxxing\" e \"proteinmaxxing\", novas tendências da web&nbsp;&nbsp;Diário do Comércio'Fibermaxxing’ e ‘proteinmaxxing’: nova obsessão pela saúde intestinal tem um porém, alertam especial",
-      "sources": [
-        {
-          "name": "Globo",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcU16Q1dhQTM0WTdOSTZVcktvY0pBLTAzUmtqTUJYRlhCb3c0YUc5anpnVmdxMTdXVlhKYVpJUjJnSkJzRVU3Ui1aN3YxenRnZmRRZUhjTmVhYzFrLTIxQ1FkOWlCVEt6VDRicDJXRjdRdFBlSGI2N1VRTmRidXE1dnZqX3EtRGlwNkJzclJhMkZfYzRHY1hvVTJNM2p4WTDSAa4BQVVfeXFMT29aMlczVUlDMlphRnVqd3JTMEU4SDFBU1RTUFg4UUR1N050UTVpRElJRkdjQXBsMThGSmtxWFEzN2RjLXNxZWx4SFkzLVVyb3dIakNfQjNZNlI3SFZQazFEWmFnMEFOa3ctdk9ZWXpuZVNDTmVYX2JkOXVTN092RGlxdk9kMEk5S2wwd05lUFlXd3FpRlNYZFg4TVhVbTB5YXR0eTFxY0pnV3pCOTNB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c0602741de59",
       "title": "Brasileira apaixonada por ciência supera desigualdades e garante aprovação em Stanford - Folha de S.Paulo",
       "published": "2026-04-11T20:00:00+00:00",
@@ -282,14 +318,38 @@
       ]
     },
     {
-      "id": "f9f9d6819082",
-      "title": "Câncer: casamento está associado à redução do risco da doença, diz novo estudo - O Globo",
-      "published": "2026-04-11T16:30:33+00:00",
-      "summary": "Câncer: casamento está associado à redução do risco da doença, diz novo estudo&nbsp;&nbsp;O GloboO estado civil tem uma ligação surpreendente com o risco de câncer, sugere estudo: ‘Sinal claro’&nbsp;&nbsp;vaiparaty.com.brCasamento reduz risco de câncer, aponta estudo&nbsp;&nbsp;SpaceMoneyIncidência de câncer é maior em quem nunca se casou, segundo pesquisa recente nos Estados Unidos&nbsp;&nbsp;Mix ValeHomens que nunca se casaram apresentaram um risco 68% maior de ter câncer&nbsp;&nbsp;DIARINHO",
+      "id": "edce2440347b",
+      "title": "Vale do Paraíba soma 33 casos e 3 mortes por meningite no 1º trimestre de 2026; veja sintomas da doença e como se prevenir - G1",
+      "published": "2026-04-11T18:43:29+00:00",
+      "summary": "Vale do Paraíba soma 33 casos e 3 mortes por meningite no 1º trimestre de 2026; veja sintomas da doença e como se prevenir&nbsp;&nbsp;G1Secretaria de Saúde de Ubatuba lamenta óbito e garante que não há surto de meningite na cidade&nbsp;&nbsp;Tamoios NewsUbatuba confirma morte de criança por meningite e descarta surto&nbsp;&nbsp;MEONCriança morre com sintomas de meningite em Ubatuba&nbsp;&nbsp;Costa NorteLaudo confirma óbito de criança em decorrência de meningite bacteriana&nbsp;&nbsp;Prefeitura ",
       "sources": [
         {
-          "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcVJ2bHAySHRscThaWDlLWThGLWxKZUNIWVhkQUgyNndaTTBTVjlIczNDUjZ1UXppcUhzTWxpbk5BVDlWZXZ6c2xKODVtRlUxVkNuQWJlZGJTOG9jajNyMF9kUmp1dUwwZ2RONWQ5MHk5VExLVWZmQm1wZE5IR290dkdWQmVuNlgxV3FZTkZxemdnY1V0TVJ2NERZcUh2MUR4S24td2dha0pzMlEwRFpnMG15OERfUHE5cjdHRHpGdGtwZXdEbHA1YWU5QkfSAdsBQVVfeXFMT1FFNUdjYzE4WW1JLXN5a2tuOXVWUWo2ZlVKZGJ6SG5mZGszNmZCdndsWFVDNjMybmJKYURfV2k2eHFybG9uUzJnYkdZZjdVOVZvanVUX2NRUkpSR2pNZ1Jtd1lrUVM3d3RkMm9tb1JSY1hkLTlBT1ZjVHdQaGtQeUdJdDhGTW4xQS1oY3JzS1h4NmdjQ0F4QXpkMG5nZm50eFlCbjlSTzFwdjlXZU5WTUxYUUN4NHRYUi1nc21pS0JMUG4zYVZHbi1RQzZqMjAzNmp0OVZRZl9Oa3lB?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNQnVneU9kNGtkUVhmYTRIOUdQdnBvS0dFSU1vNkVWZnZ0TTVCT3d4NVFscFNWaXNaWEdheFZyMUNkQ2lnMENDXzRnV19UZkpYeE1SVGMzT3RpQ1VOTnVlU1hjNk5OemhHOTk5QnkzNUllLVRnd2dJa3NGVTlJWTJ3NUJUcUt4dDZteW5fQlRLb2FURTVJQ2lDYXdvVjRLYlVHamhJSnZxUzlSelBIalEyQkd4UmRRLW10RXkxZmNwMERtYVZ0cTluNFZrZDJnUG5BUVJmb2E3dTdfTUlmMEpaMmtFSC1XankwWUMtR0VqdDdVOWEycXU5alhYUGYzVWZrODdUelBBdG9yRndUMlU5enZOa0t4N1VmMWxxUFpR0gGsAkFVX3lxTE9Bdy1qQWhQeHd4dXFDUEgzdW9SWGo3RzRsUl9Ocm5XTXpqYUszYmVYNC1wNGZ6eTJJa1NpRU8ySmRHTlZneW9PQk5DMUNqb3VjS2E2THJMVXFQVWZuTk5ZVmxWYXNOX09zVWdNeW5TYksyOHBPWUV1Vk53VUN1RmRnSlloQlJSeDNmcGJlYnZ6czhZM0dNcWJtdHIzNVdIazFIZTJIZ0hEVkVLZXhORXpFeGpLS3YtYVZ5eFZVZG9WR2FUYkFibVhzVmRoNmpxa0pJTlNJOEtFQWtsNERQVnZqWEhqSVdQZXlkQmNrX3dMc0tYVmo2czJFT1hma0dmWlotNU9CQlhYX2hvR2NjMGZxX2RWdHdYZjRLUG8tZk9fNFNITF9QYk5jMjZMTg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "aef5d687b379",
+      "title": "Fórmula de hidrogel desenvolvida no Brasil combate superbactérias - Poder360",
+      "published": "2026-04-11T14:09:34+00:00",
+      "summary": "Fórmula de hidrogel desenvolvida no Brasil combate superbactérias&nbsp;&nbsp;Poder360",
+      "sources": [
+        {
+          "name": "Poder360",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUDZQNTlSQkV2a0c3WS1oeDd6NXU3cm9tRV8wTFVSTmg2YU1keU1zdnU3c2QzbUJmQk5RUTNyVE1oS3BqaHdQRWJyUm5UcWN1RkhLMWpFcm5xeUZKQmpFQjc0c1MzMnVESnVzOWpVcjdLNTFhTG5Oc0JSQU1renpqZG5GcWdILXhrck5uWm94eWlqMG0xRjB3eGRfa1BSNUxnZGZOemVtZ2lVUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1cce034da8eb",
+      "title": "Vacinação contra gripe em BH: veja quem pode se imunizar - Estado de Minas",
+      "published": "2026-04-11T13:44:00+00:00",
+      "summary": "Vacinação contra gripe em BH: veja quem pode se imunizar&nbsp;&nbsp;Estado de MinasVacinação contra gripe teve sistema drive-thru em Jundiaí neste sábado&nbsp;&nbsp;G1GHC vacina mais de 3,5 mil pessoas no Dia D contra a gripe em Porto Alegre&nbsp;&nbsp;Sul 21Dia D de vacinação contra a gripe tem alta procura entre idosos em Passo Fundo&nbsp;&nbsp;GZHPasso Fundo registra grande procura no Dia D e retoma vacinação para grupos prioritários&nbsp;&nbsp;Rádio Uirapuru",
+      "sources": [
+        {
+          "name": "Estado de Minas",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaEwwZ3pENWJTNzRhbm93MEkyQ2cwMGpvc0xqOUowTkZjTzJiSmZQNEk4ZmIyNDJ5TTV5SzFaT2NSQWYzck44RnB1a1g3dHNaZjdOS3dMSUVjWVRURGlLYzhqZm5NU3QzWXNRVks0MXVmbzlVdWtXYW1QcGhXOFBnR2RrWng5SkI3cnRuQndGTTVJSk8xQmdOcElMR3NyWnZnSkkxR3RxRUI?oc=5"
         }
       ]
     },
@@ -306,18 +366,6 @@
       ]
     },
     {
-      "id": "79125ea95b79",
-      "title": "BH abre 153 postos de vacinação contra gripe - Estado de Minas",
-      "published": "2026-04-11T13:24:00+00:00",
-      "summary": "BH abre 153 postos de vacinação contra gripe&nbsp;&nbsp;Estado de MinasVacinação contra gripe teve sistema drive-thru em Jundiaí neste sábado&nbsp;&nbsp;G1GHC vacina mais de 3,5 mil pessoas no Dia D contra a gripe em Porto Alegre&nbsp;&nbsp;Sul 21Vacinação contra gripe em BH: veja quem pode se imunizar&nbsp;&nbsp;Estado de MinasDia D de vacinação contra a gripe tem alta procura entre idosos em Passo Fundo&nbsp;&nbsp;GZH",
-      "sources": [
-        {
-          "name": "Estado de Minas",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZzJjMHVuSW1XNnRNeWVZYVVvWHFGOUozeG14U0dXa0I2T3N3VEQ1VkhpXzFUM3hkOW9jT3pYSDQyU1h5U1cwTks2UW9uWUxCWkJyMlU0UmZWMGVOTnJ5NEg3dE4zcnFqYWFqc0JBaHYwMUo5cU5RM0lEcDU0bG5rU2hQcTVHdUZFRlJNQjg1Q3pMOF8zX1FDbkdn0gGfAUFVX3lxTFAwSDVIcjZoN2FrZ3V1cjB1R3JPYlRVMmxkSnI3bk5NbXp6TzJfR2NSN3RUY3VHN1FHU2RWNGMzZWVLdVhnZFhJOTJIUlBqVWlfZHdFRXlSODlmcDc4bm4tZEk4V0M5Tk1HNC1nLVQ5WWNidWpXTXA1UUZGSFZMNTEzZjNld213c3VkUEZqSVhkSHFYYW1aYm0wUE85cThBTQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c35d6cd73a27",
       "title": "Brasileiro que descobriu nova rota para Marte tem estudo publicado; veja - CNN Brasil",
       "published": "2026-04-11T12:40:57+00:00",
@@ -326,6 +374,18 @@
         {
           "name": "CNN Brasil",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTi1IVERuWEh6eTBGREljbzA3dlp6cGxBMjVzVm9XVWJyZkV2c285VGI4N3dCOWYyUENRWEhjLWd3enczM1gxT3N6MjVpMkJxZHVkY3o4Z0poOXhwc0htTmdGeDVZbmRCQjVWTFp1M0tYdlFJVGZtS0UzRS10ZGdBQ2gtV3VQdFhTWUFfek82akUzQmh1S0NHYkp2SlVfckJWNmlNanZPMEtKWjlWLVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7773375b65d9",
+      "title": "Melasma: dieta ajuda a prevenir e tratar manchas na pele - Poder360",
+      "published": "2026-04-11T11:32:39+00:00",
+      "summary": "Melasma: dieta ajuda a prevenir e tratar manchas na pele&nbsp;&nbsp;Poder360Alimentação está diretamente ligada à saúde da pele; entenda o porquê&nbsp;&nbsp;Correio BrazilienseDieta pode ajudar a prevenir e controlar melasmas, apontam estudos&nbsp;&nbsp;Piauí HojeDieta pode ajudar a prevenir e tratar manchas de melasma&nbsp;&nbsp;Portal TelaDieta pode ajudar a prevenir e tratar o melasma no rosto&nbsp;&nbsp;F5 Online",
+      "sources": [
+        {
+          "name": "Poder360",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcGJfRG9Ob1d2TC11ZFhaTW9vZE14SzU2U01FVzRqRXRPWFFLZnZCVnhDUlFNTDAtcVQ5ZUxiaHdiSTVMMGthTW9BNWVLd0RJc2p4aVhaU3BFVTNqNl90RG1sN24wUmU1X2pPSlh6bE56SzRCMWJlWC12ZlkyWFdHWEdIbXk3aldkbVp0YmJ0ZDVkYzNzVWUtRk8zUDI?oc=5"
         }
       ]
     },
@@ -342,6 +402,18 @@
       ]
     },
     {
+      "id": "6ebd5185ebf9",
+      "title": "O erro para não repetir no café da manhã e que está impedindo seus músculos de crescer sem você perceber - Jornal Correio",
+      "published": "2026-04-11T10:00:00+00:00",
+      "summary": "O erro para não repetir no café da manhã e que está impedindo seus músculos de crescer sem você perceber&nbsp;&nbsp;Jornal CorreioEsse é o café da manhã ideal dos fisiculturistas para ganhar mais músculos&nbsp;&nbsp;TNH1Quantas porções de proteína por dia você deve comer de acordo com a sua idade para preservar a massa muscular&nbsp;&nbsp;Tua SaúdeErro no café da manhã acelera a perda muscular, aponta estudo&nbsp;&nbsp;R7Alimentação X Hipertrofia: [o que muda no resultado]&nbsp;&nbsp;DIÁRIO DO E",
+      "sources": [
+        {
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZWF6ME13cmpmUk9HYmZic2xzaHU3SVFjeVVCc0VUNHVBNHVxaXhQQU1mS3ROam5oWjRMdElQSkJBV3dsRmZ0OEx5TWVFR0dlUWhBWXpROFltclJFenpGdGFodlVvZEJ1WHRMRmU3N2hwYXc2MTRFNjJyQ1djTmVNSVJudmxYdTNFb1ZkZUw1WUdOb3YxXzUyekY0RXZELXl5RnNwMWYyeWxMRFVsek5pb0RSUzNtRjJnYTE4NGJmLXRfNTNEbzdvelJyaGMzN3hER1doMm42WU5xY0FkUkw2SVJNaDBFUQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "7142f3213bde",
       "title": "Gripe avança no país com 1,6 mil mortes - Correio Braziliense",
       "published": "2026-04-11T07:14:00+00:00",
@@ -350,30 +422,6 @@
         {
           "name": "Correio Braziliense",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTFFyLVlqNVltdDg4TTZYUlNXNThxZ3o2ZGNidHYtelpSS2Z2emZ2dkJDN2FsbDdpYUNjMEFrN2pnS2JxUC1nbzBESF9pTDBuZzlaM3VlXzBfSWxNb3F1dHVXclNEWjFMQWltaEU0Zy1FS1BZRG45aUZ2bVFMd0U1WHJoNE1TaXRUeE4tdDYwZnk3TDVtLXMtNnJXc1FkajFFQ0ZmQWJjUdIBrAFBVV95cUxPWlh2YWhuWVNOQm50OWVDUG50bVU3T3UzZ1UzVXJtaWlZdTV0VmM3YjA4a2NLcmJXX3Nwalg3Y2ZQeWdWX2gzTnoyV2p5WHhZRFVrSEE4cE80NUVQMXR4RjZVM0xVN1dmYkczVVdQQnN2d2xEYUNkdVhrZExKeXk0NXJTbHVYZVhfZFVtWVVsUDQ3aWstLW13ZDlaMHRzY002SGdEUldaYlljaXBm?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4877b4d0a559",
-      "title": "Sem nenhum sintoma, mulher é diagnosticada com câncer de colo de útero - Metrópoles",
-      "published": "2026-04-11T05:00:46+00:00",
-      "summary": "Sem nenhum sintoma, mulher é diagnosticada com câncer de colo de útero&nbsp;&nbsp;MetrópolesMulher recorda cirurgia que a curou de um câncer sem sintomas; saiba mais&nbsp;&nbsp;Rádio ItatiaiaConscientização sobre câncer de ovário exige atenção e prevenção&nbsp;&nbsp;Folha PEDoença evitável, mas ainda letal: câncer de colo do útero preocupa&nbsp;&nbsp;RDNewsCâncer de colo do útero: prevenção disponível e acesso desigual&nbsp;&nbsp;O Diário Interativo Online",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92SGpfWmgwa2ZMVVRkakRWb3pKdlAwaVZEWGx2SGp1cjBGU25WamN1Q19tcEVwcDA3aDl4eGdrOG1Ya2ZqY1YyaVFsbUcwRHZoTmhjcVgtYUZiM1RLRXVFQzBlM2VkQXhKRmJ0bnFOeDg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7e444847bd42",
-      "title": "‘Polvo mais velho do mundo’ não é um polvo, segundo estudo - R7",
-      "published": "2026-04-11T05:00:00+00:00",
-      "summary": "‘Polvo mais velho do mundo’ não é um polvo, segundo estudo&nbsp;&nbsp;R7",
-      "sources": [
-        {
-          "name": "R7",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZFcybTQ5Z3lJZGVBdkZSNTlDTWhfdC1uWUQ3MWcyUmdULXl4QTBPVXBMR3NWRlQ3V2gwZkRYYkpySDM3YjJ1cDRRY1lSc0JfcGQ4NjVpMGttSXlTWFExTTlDTnY3bWc4OHFZaGtDaUo5ZnZQbUVBaE1xanJoRkZmcVBoRnRXdnBqWXgwUDJNM19QUzlIRm1TVzdROXpSQXc0RlluNVFB?oc=5"
         }
       ]
     }
