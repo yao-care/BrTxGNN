@@ -1,10 +1,82 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-04-13T19:17:13.180741+00:00",
-  "total_fetched": 92,
-  "unique_count": 90,
-  "health_related_count": 45,
+  "fetched_at": "2026-04-14T02:47:04.349165+00:00",
+  "total_fetched": 94,
+  "unique_count": 93,
+  "health_related_count": 46,
   "news": [
+    {
+      "id": "9e39e05f0303",
+      "title": "Adolescente de 13 anos morre por H1N1 em Sorocaba - G1",
+      "published": "2026-04-13T23:56:29+00:00",
+      "summary": "Adolescente de 13 anos morre por H1N1 em Sorocaba&nbsp;&nbsp;G1Advocacia imunizada: campanha de vacinação contra a gripe segue até o dia 29 de maio em SC&nbsp;&nbsp;ND MaisSC faz alerta contra a gripe e projeta 1 milhão de vacinas no estado&nbsp;&nbsp;4oitoVacinação contra influenza tem baixa procura e segue disponível nos postos de saúde de Lajeado&nbsp;&nbsp;IndependenteCrianças de seis meses a menores de seis anos devem ser vacinadas contra a Influenza&nbsp;&nbsp;Prefeitura de João Pessoa",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSllKMW9kd1NEc2gzYlY4SjNTVWVHX1ptRklqajh1T01PTEtKR3RUTXVYcnoxY1IzNW1nNVd3czBxOHN0S0VYaHdRR2ZGR25zWl9nX1RiOHBFb0NjYVJBaXpwdnVvX3kxN1kxdExUQ3NaNk9UMWpNTXBjTFpxWTMta3RWcFRiVUl0bDgtRGJxLWhBdVJiVU1BWXUySEZvTWhvRUhTTGJod9IBtgFBVV95cUxOUWZHVnh6TDRualhTWGVuSFhaOU0wVW5hTnd2ZE5GU0JMNWJkSGFoOUpXVDg3cW1yRVlDNUc1Y25rQkZFemJGSDFKbDF1elJMTzczem12QngyY2M1c2JCRVVrN0VUR3VhTVNwUk01X056cFQ1SGF5SkJGdWlJcmp6TXZFbjBHMUt3dExwMml2Y05waWN4cWNUbUhhUDBmcW1QMTUyVGlsckU2bGdIMnRJdW9nVTktZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f1037297d19b",
+      "title": "Danos causados por adoçantes de refrigerantes zero podem atingir até 2 gerações, alterar genes ligados à inflamação, provocar intolerância à glicose e elevar o açúcar no sangue, revela estudo com sucralose e estévia. - CPG Click Petróleo e Gás",
+      "published": "2026-04-13T17:00:00+00:00",
+      "summary": "Danos causados por adoçantes de refrigerantes zero podem atingir até 2 gerações, alterar genes ligados à inflamação, provocar intolerância à glicose e elevar o açúcar no sangue, revela estudo com sucralose e estévia.&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOTkNYd0pfM1RNR3IxQng3YWdib0JoalM2NmpiSEVKLWZsTmZaZndqeEhYaENDUWZwSzhlYTFIVno1c2FSc3djOUxSN0ZacGZLbU9Na1NRaG00eFAtVnVBS2dNelZxWnFzNUo1LUlnU3R1YXBiaTlGS3o4bC01Yl9sTHpDM3RhN2YzdE4zeUkwaHNNSTdub3g2b0xSbl9PRXllX1FEcG9LUWd1NE9ZN2NlMVNldEc1T2JBUWVhRlZsS25OdFZ2Mno4NVpJYzFtYUtXRFNCQXlLNWJac0NpRTdRVUJWNkVBOVdaU3pnUmNTS09fRW5VOGhzSEU0TVlIaVBXV1FSUVBBa2IwenZaY1I1T1BDSDhPeUdVM1Zab1NBYWxpNnNTTjVBdUwxOHJKcHVMNmk2eWNNY0JXMGhOUXJwNlNCS2Y4cHM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ff0dec66bc82",
+      "title": "Como a falta e o excesso de carboidrato podem afetar o seu coração, segundo cientistas - Globo.com",
+      "published": "2026-04-13T16:33:26+00:00",
+      "summary": "Como a falta e o excesso de carboidrato podem afetar o seu coração, segundo cientistas&nbsp;&nbsp;Globo.comCarboidrato na medida certa ajuda a preservar a saúde cardiovascular&nbsp;&nbsp;EstadãoDoce veneno: como o excesso de açúcar afeta o sistema circulatório&nbsp;&nbsp;MetrópolesExcesso e escassez de carboidrato podem prejudicar a saúde cardiovascular&nbsp;&nbsp;Portal TelaFalta ou excesso de carboidrato pode prejudicar a saúde cardiovascular, aponta estudo&nbsp;&nbsp;GP1",
+      "sources": [
+        {
+          "name": "Globo.com",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaGVzczgyMUpub1g5U2FJSXhqMXVLZTZ4aHhVZVNCWnZVQVo4aUZORWV0WXl5eUtScXRzZ0FGdlpTY0tLZ3pQeEc0U0I3cHQ1dHVYcEdvOFFNcVBFZm5Dam45dzg2dDdQZnhKLVVlbzNwMVp5amJmYUQ2czg1RG9OZVBtbnI5bHE5WFgxWEw3NVRYSDljSXZyUG1JbWpZZzl3SkVTbXRSRnl6SVA2T25JY3RHeHBCNFJLaEFwVmNZckhWeFVTR2hjbXc4X2JnLU9JRno5Skp2UFlQZXFI0gHrAUFVX3lxTE1lcUE1cHllNl84a09sNl9CemZwdXhHaGRHXzhDWGFqejhJUnVyWmF0MWU1eU9PYVdmS1hyU3pZUWphTU05RTVqek1YTm94eWpTaGo4M1A1TU1BU3pPbUxsa3FCMXF0TUIyRi1LS0RzYzVpVG9SendtTzlXWGR0c2xCRDV2YVRVcWI5cTByRmdLWExxOElwelE0V2N4NllwRmV3bUhVa2hQRnBKalA5bG50LW1qMzRnZWw0dFpMdG1JTjNwSng0TTlORG52VGlpX3ZLN1VRLTVubDJmb0RsVnJBcXF0WEpKSEJGaGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "aadf35fc50b1",
+      "title": "Excesso de vitamina D pode causar danos e intoxicação, afirma estudo - Metrópoles",
+      "published": "2026-04-13T16:17:40+00:00",
+      "summary": "Excesso de vitamina D pode causar danos e intoxicação, afirma estudo&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBUM0YxNWZiSy1iTm5fRjBEeXAzNHJYSExXVWtjUjUzX0hDbUhJU2tjY1NLcnBiTmdsNmtiQmctNXlaRTF3cXVfcDJENUNwYUlwOW5HNktGM2IwUDVTNUdOdk5sRFJLZ08ycmJTWDVyczR0QklJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9f14b6a2bf95",
+      "title": "Canetas emagrecedoras: estudo lista novos possíveis efeitos colaterais - CNN Brasil",
+      "published": "2026-04-13T16:13:13+00:00",
+      "summary": "Canetas emagrecedoras: estudo lista novos possíveis efeitos colaterais&nbsp;&nbsp;CNN BrasilOzempic: pesquisadores identificam novos efeitos colaterais dessa classe de medicamentos&nbsp;&nbsp;O GloboOs novos efeitos colaterais do Ozempic descobertos por cientistas&nbsp;&nbsp;Diário do Centro do MundoEstudo revela como canetas para diabetes podem tratar vícios em álcool e tabaco&nbsp;&nbsp;TerraCanetas antiobesidade podem ter impacto na saúde mental, sugere nova pesquisa&nbsp;&nbsp;VEJA",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVHhGYmxfbHMxejFCd0pFblh5TkFnNDZhMG9lSlNJelN6enJ2dE5wNGwtRW5tRkFfQWJfUkhvbE5RYkhoMUFPSEVGWFVDLUhvRi0xT3VITGdlTTQxdFF5eThBTkpRQW11V25wQlpTVkZDU1E2N3k3SzdDT1c5RzZNaVAySmlvQ1VZeW9ZWnpmYnFQN2F1VGdlUll4OG5IUW9DTUZiYUMtM3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1e0d55c47ec4",
+      "title": "Gastroenterologista explica o contágio da bactéria H. pylori - Metrópoles",
+      "published": "2026-04-13T15:44:00+00:00",
+      "summary": "Gastroenterologista explica o contágio da bactéria H. pylori&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUFR3akF3bjJyZDFNUWdSano2MDF2M3VhMjdTQldBMDZZZGVuNGVuSzNRdGxNQnYweUJSd2M5OUZReWhFSDkxdGp1RTJiOXhCcTE2Smh6cXJySXFxWE96djJFYVJEb3MyaVN6cVUyVmg1bzFIR25sR3IxZnlCLUNNVkJjRUx3RGszZzQzZzlNR3lqSGQ1cG5vQ3pGOEVPRTJzQU5oWElyWGRMUHFyVUxxeg?oc=5"
+        }
+      ]
+    },
     {
       "id": "934b877e98a2",
       "title": "Axolote desafia a ciência com habilidades quase inacreditáveis: animal que nunca envelhece completamente e consegue regenerar partes complexas do corpo intriga pesquisadores e pode mudar o futuro da medicina - CPG Click Petróleo e Gás",
@@ -18,14 +90,14 @@
       ]
     },
     {
-      "id": "6714e6917659",
-      "title": "Casal com filhos pequenos recebe diagnóstico de câncer ao mesmo tempo - Metrópoles",
-      "published": "2026-04-13T15:24:09+00:00",
-      "summary": "Casal com filhos pequenos recebe diagnóstico de câncer ao mesmo tempo&nbsp;&nbsp;MetrópolesCasal com três filhos enfrenta o drama de estarem ambos com cancro&nbsp;&nbsp;Notícias de hoje - IOL\"O que acontecerá às meninas se morrermos?\": casal com três filhas enfrenta cancro ao mesmo tempo&nbsp;&nbsp;SIC NotíciasCasal enfrenta dupla batalha contra o cancro enquanto cuida das 3 filhas menores&nbsp;&nbsp;cmjornal.ptCasal com 3 filhas pequenas descobre cancro ao mesmo tempo. “E se ambos morrermos?”&n",
+      "id": "8557f31aa3d7",
+      "title": "Estudo acompanha por 1 ano quem come aveia todos os dias e percebe essas mudanças no corpo - Jornal Correio",
+      "published": "2026-04-13T15:12:51+00:00",
+      "summary": "Estudo acompanha por 1 ano quem come aveia todos os dias e percebe essas mudanças no corpo&nbsp;&nbsp;Jornal CorreioO que acontece com o seu colesterol quando você come aveia em jejum todos os dias durante um mês&nbsp;&nbsp;Tua SaúdeSe você come aveia no café da manhã por seus benefícios nutricionais, a ciência sugere: melhor no jantar&nbsp;&nbsp;MINHAVIDA.com.brVocê come aveia todos os dias? Seu intestino pode deixar de ser preso com esse simples hábito&nbsp;&nbsp;Portal UaiAlimento comum pode ",
       "sources": [
         {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX3RhM1cyMjJyVEZSOERIZlBROG0ydWNidUFGRkZJQ1REc2RUeEY5dnFjRVBjaENvdTFXUmYxUVBGNTZFUXlYM3N6X1Q4Q2ZlU0NWNEJOSGlFVFB4Mk11SS1CbGU2b1I0WTlIazVxbEthT3prMExoWDV2RVpUVEhmajAzb2lDLXF4dXFkTUQ3dmdyU25UdzdicTZyLUY3cmRhd1ZtaA?oc=5"
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPR3hKVW1Fa2p1WVEwbXJDYmo0SEpaTG9FeTdVc0JYVl9aSFNYUWpncEtiZ0FZUTB5YlhrNUNsbzJIQTdZV1BBbGIzU1Nzb0JsU1luMTU2THJwOGItQThTUklya2hXQ2N5UFI0bjFLVEZtNlg2bGl1NFN5TDU0Nk4tTExSUVFNa2lpRWx1U1Z1ajRCM0x5S3RseEhVSWNfVGFnNnpVVDZGclg3czVId3d5a3B1X2tRa0pDMUhHLVhkazRMclpDTXE3S0JVNXU2T2xzeGJB?oc=5"
         }
       ]
     },
@@ -42,14 +114,38 @@
       ]
     },
     {
-      "id": "079da5fb314e",
-      "title": "Câncer de cabeça e pescoço é o terceiro mais comum no Brasil - ultimasnoticias.inf.br",
-      "published": "2026-04-13T14:03:49+00:00",
-      "summary": "Câncer de cabeça e pescoço é o terceiro mais comum no Brasil&nbsp;&nbsp;ultimasnoticias.inf.br",
+      "id": "869c6265949d",
+      "title": "Não era mpox: técnico de enfermagem colocado em ‘quarentena’ em SC tinha catapora - ND Mais",
+      "published": "2026-04-13T14:40:44+00:00",
+      "summary": "Não era mpox: técnico de enfermagem colocado em ‘quarentena’ em SC tinha catapora&nbsp;&nbsp;ND MaisHomem com suspeita de mpox está isolado no hospital Marieta em Itajaí&nbsp;&nbsp;Nos Bastidores do PierSuspeita de mpox é descartada; técnico de enfermagem recebe alta&nbsp;&nbsp;DIARINHOTécnico de enfermagem é internado com suspeita de mpox em hospital de Itajaí&nbsp;&nbsp;jornalrazao.comTécnico de enfermagem é internado com suspeita de mpox em SC&nbsp;&nbsp;ND Mais",
       "sources": [
         {
-          "name": "ultimasnoticias.inf.br",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVzg1dkRsZ2pELUJmMVBCYlJhTTJONW11RFlMTU9JY2QyZVFpX3RMN1VJeHBfWU02OWtsdWNEVUE5eVB2dzF4Q1ZiOHlLejd3ajBIMkxzSWlKTTRmbDlaMi1TWVk2Q0k5X0dISExKSTBfUmFfWjdCZzhEcGdyT2hPb0pQd2ZzVTE3anFIci12STFPRTJiYzRQWWgtVmpOZ0Vwb0E?oc=5"
+          "name": "ND Mais",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQamFJdmtxVmFxZ3lkRnRIX0JqZEtUOEJJRV9hTE10Zkh6NllJdV9qZUowa21yUFMySWt5X0UtRHF6T0R0djB5ZUNkNnlabjcwUkpTQlI2Z3VfbWhHZlN6TEw1Zm5tUkNLTUJyemY3anJMeTlPeEZuTGlFREo0dlZUMWZxVzMyUXNhVHFXR3AxV3dqTjRIYmVWU2JGWUg2YkZ1UThHbjZCUVRVQzA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "920fecf68edd",
+      "title": "Beijar transmite doenças? Dentista explica os riscos à saúde - Terra",
+      "published": "2026-04-13T13:44:00+00:00",
+      "summary": "Beijar transmite doenças? Dentista explica os riscos à saúde&nbsp;&nbsp;TerraO alerta que ninguém te deu no Dia do Beijo: risco de doença crônica&nbsp;&nbsp;Estado de MinasDia do Beijo: Sesau de Juazeiro alerta para cuidados com a saúde bucal e prevenção de doenças&nbsp;&nbsp;Preto no Branco | Com Sibelle FonsecaDia do Beijo expõe riscos do mau hálito e da transmissão de doenças pela saliva&nbsp;&nbsp;Jornal Opção",
+      "sources": [
+        {
+          "name": "Terra",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVjcyQUt0VWNMSDRhcXBxR0lCQU1lVWNaM0pnbjNlcHM4RlRhUFFpbUk5bzNNSmdCalpIRGtFQkRJdXZsMnpIU0RhVlp0eDdiSUFoRzFyb095dDFNZS12YU16aVlZTXM0dnprRTlBbUdxOEJKd2lpc3liRzh0cVJCUDJYSUUzR181aXI5NmJlNXViNlNFeUxJN21LOU5zNldTY3ZFTXVjWUk1MWxubGl2T3haZld2RmVxTmJxSVZad0FHbE1LdEY0UzdlVWt6QjJob0IyekQ0RmJZdF9HT3ozbzZYMUY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "df56931e40d7",
+      "title": "Anvisa amplia para maiores de 18 anos uso de imunizante que previne bronquiolite - GOV.BR",
+      "published": "2026-04-13T13:32:10+00:00",
+      "summary": "Anvisa amplia para maiores de 18 anos uso de imunizante que previne bronquiolite&nbsp;&nbsp;GOV.BRVacina contra vírus da bronquiolite tem faixa etária ampliada pela Anvisa&nbsp;&nbsp;VEJAAnvisa aprova ampliação do uso da vacina Arexvy para adultos&nbsp;&nbsp;Agência BrasilAnvisa libera vacina que previne bronquiolite para maiores de 18 anos&nbsp;&nbsp;O TEMPOAnvisa aprova ampliação de vacina contra bronquiolite para maiores de 18 anos&nbsp;&nbsp;Jornal de Brasília",
+      "sources": [
+        {
+          "name": "GOV.BR",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOb3U3dnM4SEVkeF9peVNPWmhFc29hZkFseVFKRTg4UGlfbkJkUVhBbkFUNlV0elJmd0oxNHBEdTBlTm0zcXlvanNoZFJEOVptamRldGlTQXA1dDItS3c2NkxIMEMydWtmQlRMbGFxa3lCXzV1TzRSZFBpR3IzcGxHSmpSbXc1VXktSDlOdHpqU3BfdDRQazJPS2VtWWhsVXB0X2N3QmJ2Z2Z1UXpJUjM1VmJWandxajlOLXRUZEUxc0FsdHlpVVdMVS1mV3pXMVp3aWlweGtrTURrUQ?oc=5"
         }
       ]
     },
@@ -114,18 +210,6 @@
       ]
     },
     {
-      "id": "16c154281a80",
-      "title": "Terra fica 16% mais iluminada à noite, revela estudo - Portal iG",
-      "published": "2026-04-13T10:21:00+00:00",
-      "summary": "Terra fica 16% mais iluminada à noite, revela estudo&nbsp;&nbsp;Portal iG",
-      "sources": [
-        {
-          "name": "Portal iG",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU212RjdKNHRzRElhVzVBRmNzR3lXV2NKX2JvbW03bUoyb1FpVVBPbk1GakdqeG1lVkNhWWtqUFZuZEdtVWtfSU9pT0UwTWVMQzNoVW9nMEZlSWIxZmhMYWQ5S2E3QUZRdWdVVGlyOVhhQk96MV9NNW5nVm5DRDl2R0ltRm04MDdUNWtzbmxYTHUxVkwzcWl4UGJMOWwtSWs3blRMZkEwSjllM0tJ0gGyAUFVX3lxTE5lZVN3SUgyS3ZYeXcxNnZGaDV2bEV0TXYzRVRtU28xNUVGUjRLSzlXTFk5STdRUUEybFpkTDhQbGd6X2lkQV9MVExCV3V4VnFOSTc1SG4tOVY0Vmg2cGlOT0tYbVFkMGhJTF81QTZiQTFIMXY0cmtrcUhXVjZZWTY3X3d1YjNhbkJ2OVRUbDV6MEpKbDJxZEl3dVZSR1hSVlEwRmd6SlpqbW1vXzE2bkJYV2c?oc=5"
-        }
-      ]
-    },
-    {
       "id": "460dc04772d9",
       "title": "Um dos principais causadores de pneumonia, VSR tem vacina desconhecida por 71% dos adultos acima de 50 anos - Correio do Povo",
       "published": "2026-04-13T10:03:19+00:00",
@@ -138,22 +222,10 @@
       ]
     },
     {
-      "id": "f5b41723de17",
-      "title": "Ozempic: pesquisadores identificam novos efeitos colaterais dessa classe de medicamentos - O Globo",
-      "published": "2026-04-13T07:30:38+00:00",
-      "summary": "Ozempic: pesquisadores identificam novos efeitos colaterais dessa classe de medicamentos&nbsp;&nbsp;O GloboOzempic apresenta novo efeito colateral surpreendente, revela amplo estudo&nbsp;&nbsp;Folha PECanetas emagrecedoras surpreendem com novo efeito colateral&nbsp;&nbsp;Guararema NewsNova descoberta sobre efeitos da semaglutida surpreende a comunidade científica&nbsp;&nbsp;Bons FluidosCanetas emagrecedoras: estudo lista novos possíveis efeitos colaterais&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZU9zZFB4bGhYY25ob0k3bG1TQzZqVy1ZRmlyM1I4a0VzLTRfV0J4YzV5SVdLdHJGOU15WlloWE9Ma0wwR3lZVU9zV25JeXh1OXZobnVvVkFrQ05oR0F4SzVMeWxPdC1XS0pPTWlNVVhqN3BDTC1LQnR2Tk15VUptT2o0M0J5V3JzdnR4TUt2cHhUdEZnRWdCbVBZSzlRVmp0b3BNSkZxd2h6c2FfQndGYkFsT3ZOS2lnOE5WWTZ6WHdoMDNBclZzRjBEaVNNZjNBS2JUbEc3OHlJUHfSAeoBQVVfeXFMTnFTS0VaLWczVTA0UE8yX0xXeGlVcHFJTWVmUm5QN0oxcEJlZVk3d3Q1Vno5aVNZWU9hSG5mSzZ0M3Bxc1U5bE9MenB4OS1HcjkyVHN6cXNBc05keUNfdUJET2lqMExKSzhGSkt1cm8yWUNCYTY3LTVNdWVuUWF4UWZZY0pvS0FMYXdFeWtDNWhRQmM1cVZZSUpxc09UcGZtNFAybGMtWm04aGV3VU9qeWJhMDU3X2IxVUk3OTV3Z2Z1TUNJMHJGZlBMRVZ5RG5YcXJFNGpTVEJFaFlGZUl2MkNZR0FLM3ktTWNR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6baecc61be27",
       "title": "Tomar a 'quantidade ideal' de café pode ajudar a saúde mental a longo prazo - O Globo",
       "published": "2026-04-13T07:30:37+00:00",
-      "summary": "Tomar a 'quantidade ideal' de café pode ajudar a saúde mental a longo prazo&nbsp;&nbsp;O GloboO que acontece com o corpo quando se para de tomar café todos os dias?&nbsp;&nbsp;MINHAVIDA.com.brO café ajuda a prevenir a doença hepática gordurosa? Especialistas explicam como consumi-lo de forma benéfica.&nbsp;&nbsp;Vietnam.vnCuriosidades sobre o café: origem, tipos, consumo e mais&nbsp;&nbsp;TerraEstudo indica que quantidade ideal de café pode ajudar na saúde mental&nbsp;&nbsp;Metrópoles",
+      "summary": "Tomar a 'quantidade ideal' de café pode ajudar a saúde mental a longo prazo&nbsp;&nbsp;O GloboO que acontece com o corpo quando se para de tomar café todos os dias?&nbsp;&nbsp;MINHAVIDA.com.brSou cardiologista e garanto: \"Pessoas que tomam café somente pela manhã têm uma expectativa de vida mais longa e têm menos probabilidade de sofrer um ataque cardíaco&nbsp;&nbsp;TerraReduzir o consumo de café no dia a dia pode melhorar significativamente a qualidade do sono e reduzir desconfortos no estômago",
       "sources": [
         {
           "name": "O Globo",
@@ -162,38 +234,14 @@
       ]
     },
     {
-      "id": "29409b20717e",
-      "title": "Material que hoje é jogado fora pode ajudar a detectar câncer de estômago, mostra estudo brasileiro - G1",
-      "published": "2026-04-13T07:01:40+00:00",
-      "summary": "Material que hoje é jogado fora pode ajudar a detectar câncer de estômago, mostra estudo brasileiro&nbsp;&nbsp;G1Líquido descartado na endoscopia pode ajudar a detectar câncer&nbsp;&nbsp;MetrópolesSuco gástrico descartado em endoscopias pode ajudar a detectar câncer de estômago&nbsp;&nbsp;Olhar DigitalLíquido de endoscopia pode ajudar a detectar câncer no estômago, diz estudo&nbsp;&nbsp;CNN BrasilNovo teste com suco gástrico pode melhorar detecção do câncer de estômago na endoscopia&nbsp;&nbsp;o",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcmEtSUZLc2I3N3NVNjBEUHlRdFA1X0UzdE1GSGlWMFI3MEN5NTh2SE9Zek55bEVKa0o4R0NEVlhwSlpuSXZGRm9BdHRJaHBvNENkXy0wSHJUUE8yZkZvaVlZalJ0cWstVXhWYU1sZElNNThPYU1YOW8xWmI5a2k5bXdEZXZZZTlGamhPZ19rWk1yWUlkRk42ZF9xV0ZVc3hkTndQUWRpeE5aQS1ZNTFfUEJxS0V5OHdrV2preURlQUo0ckZ6ZW1tV0xzbUhNTnFvMW10Szk2b0Y4STdaT1pjODllSzLSAfMBQVVfeXFMTUhDcWdvcjZpQXhfMUduSWE5cERGekFnYjhqQ3hZZ3dZYVdOLWQ5QTQtbHpWcTlvM2xBRURNM0xORDNwS3FPLWFfQ0dFdlFnNjRaWEE1ZlBIZGJ2RmhnenVqTEd5NTBhSWN5ZXNqSFByVWdEcXM1TUtudFhkNzFsLWZtY3QyYVBuZ1k1WFc1VlRLckNkcEo3WlMzeEVSQ085dHBsTnJBWUdHUGcydjM5LXBQZXlHd2JPTnB5VE1GTzFSVlg0VTNLb3Azci1fNWdSMDdOUUtDZXBrTHNrcGRka3IyY21WUnFvLW95WEhIMDV0dGpR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7af832136cd5",
       "title": "Conheça os três segredos para dormir bem à noite, segundo uma neurologista especialista em sono - O Globo",
       "published": "2026-04-13T07:01:23+00:00",
-      "summary": "Conheça os três segredos para dormir bem à noite, segundo uma neurologista especialista em sono&nbsp;&nbsp;O GloboEspecialistas revelam quantas horas pessoas acima de 65 realmente deveriam dormir&nbsp;&nbsp;TNH1Estudo sugere que um hábito de sono pode melhorar a saúde do seu coração&nbsp;&nbsp;CrusoéHábito que muitos brasileiros possuem à noite pode aumentar a chance de uma arritmia no coração&nbsp;&nbsp;Diário do ComércioUniversidade de Stanford descobriu que uma única noite de sono pode revela",
+      "summary": "Conheça os três segredos para dormir bem à noite, segundo uma neurologista especialista em sono&nbsp;&nbsp;O GloboEspecialistas revelam quantas horas pessoas acima de 65 realmente deveriam dormir&nbsp;&nbsp;TNH1Estudo sugere que um hábito de sono pode melhorar a saúde do seu coração&nbsp;&nbsp;CrusoéAs pessoas que acordam no mesmo horário, mesmo nos finais de semana, revelam padrões segundo estudos científicos&nbsp;&nbsp;Olhar DigitalUniversidade de Stanford descobriu que uma única noite de sono",
       "sources": [
         {
           "name": "O Globo",
           "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPT052dEJTVjVSQi1PMmpqanA5OHhaVEZnNWVYYlRraWxKcWl5Y19ZQjMwZ1hQMGRCZTNtRDRhdzJLQTJVeGZ6TE1KUmRmekpDZDZabXU5NTlTa0ZMbWZLVVVEQXJwNU5ucFNDZlBUS2RfSERXU2sxcWlHRjRGekV1TWRKUC1kWFB1WHVXN0xHSm9aclBOb2N5MFJ4WU1vM21ZUlViVFZmNFNhbl9xQ1hrVWx6bjZ0ajk5cWx4SEF1cDV0VTNha3R0enN5cnJWeFhrcXdDRnpsbWtCVlZ1dlZfbWpwZWvSAfMBQVVfeXFMUEFUcUtmRDVMTG1KR21BLW5adG1mWjBSYllyMHNQb2pjWnlXdDB4OFFrQTRBQTBrTEtBa0IxTUxUT2pvZy03Zk90eXA2ZnJsM05pVm8ta3JacVJiWmN5WG5jNkFrRGhnbnhlSWRDbGVYWC1KRkQ3T0diY3V4dnVIYzVsd2psUUVpUkhVLWxBTVVEV0tIS2plVEpvbmFCMV9lU194UGd3UDkyWjFSclU0SVR5dWVHazNNTWk1bkU1MmdMdGk4cU5ITjJvTFVmejlzSWpHV3M2bWZWM1IycmpwTmRpNGFNeFJabXpKZjJMc1ZXUVBV?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a6779a8126cb",
-      "title": "Nem simples, nem direta: entenda a relação entre câncer e agrotóxicos - Metrópoles",
-      "published": "2026-04-13T05:00:08+00:00",
-      "summary": "Nem simples, nem direta: entenda a relação entre câncer e agrotóxicos&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85LVlMMkowVlI2czdnU1ZfcGdxQTFmZHNHSDdDV19FU09zWFJvTGxWNEdWUUVlelpiN3lfYjRMcnk1amkyTGtWT1ppWTFNMWJBSzl4OHZIUkZMa19KYnNiZnRLMTM4SHN3UHMzeTRB?oc=5"
         }
       ]
     },
@@ -206,6 +254,30 @@
         {
           "name": "R7",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNelBsVy1kZG5FM3ljQjh6U0swR0RhYjdSU0NFRkZKVUxxdDlxcVZYc1ZBc3FWaDZCbVBaRFZ1NVZGZlRjU0VUQWV2MkVfSEhfeno5U1d2SElyT3F2ZDV3eVNsVFJ0LWpiUEprbUJzcm9CdVBZVXp2b2VMa3FHZl9NZGZFa1ZnLUZMcGJyQW0wQm1OcndSZjUzVkxvSlI5TEk5Vnh1ckNGNnZEVjNLS1BhcDhMS1pya1VIUXA4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c01e9bb75444",
+      "title": "Arqueólogos encontraram no deserto da Arábia Saudita um oásis de 5 mil anos cercado por muralhas gigantes de quase 15 km e 74 bastiões, em uma descoberta que revela uma civilização antiga muito mais complexa, organizada e poderosa do que se ima - CPG Click Petróleo e Gás",
+      "published": "2026-04-13T02:57:00+00:00",
+      "summary": "Arqueólogos encontraram no deserto da Arábia Saudita um oásis de 5 mil anos cercado por muralhas gigantes de quase 15 km e 74 bastiões, em uma descoberta que revela uma civilização antiga muito mais complexa, organizada e poderosa do que se ima&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQVjRmQ1g3TUQ5bUpyQVhyb1hqX2U3MXZVNmk0ZFdxYktHYzVkUW5jNnhzM2tURnkzWTlyZjZRWFNtZUdiQTdTUEN4M2FacDZQQkRGVTc4WVJIajR1Z3lTeFNDOVgzcG9mSEVSdm9QUEtEMWZubmdhLVM5TXlJd3ctME1RbjNrOG1DaWkwemMyQ01sZ0x4RjdlMXFaampUUUdtLU1GRkpaWlRKc0JVMmxHVmtLdlNDRDRuSDVHTzRsbE80b0JVOFVuOHF6dWNicXVibnJVRWFzM3poZVk2REF0Qkd3NUZuTUZlcGVJYWpWX3JTSGV3aWpQOHVudGwtTF9PWHZhdlJLdzlFTGNHX0NNMWwyaHV5dThETzlZcnZsVDhQdHJPN0JsNzFFYl9TX1RjcmxBbk14cXZwWEZHNjRRTGZ6WV9vRlk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "822b4d174a5f",
+      "title": "Pesquisadores suspeitam que alguns dos maiores buracos negros do universo estejam enfrentando dificuldades devido à falta de recursos - Revista Oeste",
+      "published": "2026-04-13T02:45:00+00:00",
+      "summary": "Pesquisadores suspeitam que alguns dos maiores buracos negros do universo estejam enfrentando dificuldades devido à falta de recursos&nbsp;&nbsp;Revista Oeste",
+      "sources": [
+        {
+          "name": "Revista Oeste",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNVTRUNWdlbmZVbVdpZTlYV0tlT0MxMzRocmhUb05NSUFaX3R2UnEyOUpFZGxjTWltWXpxSWF6X1ZlbWZCc052NWZBNW1XNXBUbkl4OUhVZlhxcVB0VVdKRXU1U0JKRFN2MUZoTVVxRmxxV3l1UEtXTlpKNEU0NGJYWG1ab2xRVktXU2JLY0ZCVEZjbmlUZ0tUQ0U4Z0tBYnBYdF9lTHdEbzFkZmhyYlFIMWlJSmxOSi1XeXJ3WUM2WEdSWFFQQmM0NThhV3Y0cEIyNmRPVDdGNkQxaDlURXhRbWF2UGs1cnpuSnFqSTQwbmMyeGI4RkZKTWlpbU1RRWVWdHlIVVMtdldPTzBmbmc?oc=5"
         }
       ]
     },
@@ -270,6 +342,18 @@
       ]
     },
     {
+      "id": "25ff38cb45f1",
+      "title": "Projeto gratuito acolhe mulheres com depressão e em tratamento de câncer em Campo Mourão - Tribuna do Interior",
+      "published": "2026-04-12T23:30:44+00:00",
+      "summary": "Projeto gratuito acolhe mulheres com depressão e em tratamento de câncer em Campo Mourão&nbsp;&nbsp;Tribuna do Interior",
+      "sources": [
+        {
+          "name": "Tribuna do Interior",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWTdmWEJ5djZhMkl5LURreWtmOGJmaHRaMlhpeFluOG5NYjhKN0RMa05aU3JyanFlNk5mMlpVeUFBcjF2LXVldGRPUXBPTHF2endPS1A4bHlWdWNfVEw2WkJ6R1BUbjZCOXhiekVvZDFqMmp2RXBIeGI0X202SFhrbnJzT2xyN1U3Y2JjZW1QT2dfWXhkNUJZQ0w4b3J1WTJSc2ZGVlUzZWNPRENaaDhhc2J6dGhjZHpVNEdBVjJXSkJDbUtDYWRHbkhELWhmaUpGaUtkbDZR?oc=5"
+        }
+      ]
+    },
+    {
       "id": "34ed32a4bd5e",
       "title": "Pesquisadores de Portugal e da UFJF explicam acertos de Chico Xavier - VEJA",
       "published": "2026-04-12T20:01:11+00:00",
@@ -290,30 +374,6 @@
         {
           "name": "Agência Brasil",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUmhMX050dWZfZFBQQkt3TE5USEp6WlJveS1zYUduNldneDhtQnNIOGlTeVdWTnNwVDhyOUVNUVZTX3ZnUzBZeTVaS25qTTdoejFBM2l6MVJhUVdsX0g0aHh0eUNGSWh4eGRsczBRSmdNV2xMQ2E5M1JSSVQ4NFdGQXo3R3Q1WXQtMWxteFBReTQ2ZHpNZ1gtS29JcDJMeGl5NHpZai0xQ2V1RUNGU0ZCS0J0ci1HZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f629ff81ff13",
-      "title": "Beber água quente de manhã faz bem? Entenda o novo viral das redes sociais - Olhar Digital",
-      "published": "2026-04-12T19:29:00+00:00",
-      "summary": "Beber água quente de manhã faz bem? Entenda o novo viral das redes sociais&nbsp;&nbsp;Olhar DigitalBeber água quente de manhã faz bem? Entenda o hábito chamado 'Chinamaxxing'&nbsp;&nbsp;TerraÁgua quente ou água gelada: qual é melhor para a digestão?&nbsp;&nbsp;Globo.com'Chinamaxxing': moda de beber água quente de manhã realmente faz bem à saúde?&nbsp;&nbsp;Folha de S.PauloHábito de beber água quente de manhã está viralizando nas redes sociais: especialistas explicam como hábito milenar pode infl",
-      "sources": [
-        {
-          "name": "Olhar Digital",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeXNkZVBuaHpkeXBfSVFqSlZKcXF6ZTRBLXdYMWQ1MzVSMjRSV0Z2bW1qQVpHZ20yVmFaZGhxb2VuaWN6c1ZVVXhCUUlLaUpINlFCOTJ4OWF4U1RkZnItUEItSFg0THBZSXpweFJjLU41M1RDOWxqMkplNGlVVUJJRWpLUmEyYlRsZkxSUEpQb0RDdlB3R254UEV2ZXl0bWFLRGljcnhoYmZFbW1OV0RjQmxFNndtUG16eWxiWENUSGRDQUVSNzRuZXp3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c1cee53414cb",
-      "title": "Geração que cresceu sozinha em casa nos anos 80 revela como a infância sem supervisão moldou adultos com alta adaptabilidade, resiliência e controle emocional, segundo estudos científicos que apontam aumento significativo na tolerância à incerteza - CPG Click Petróleo e Gás",
-      "published": "2026-04-12T19:10:00+00:00",
-      "summary": "Geração que cresceu sozinha em casa nos anos 80 revela como a infância sem supervisão moldou adultos com alta adaptabilidade, resiliência e controle emocional, segundo estudos científicos que apontam aumento significativo na tolerância à incerteza&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxONk9YYk9WTVI2NlBPVUdMSmtQbHR1UGlnUk40MmM1RmxhN1dhQmpOaWtjcEZvbUVnLTh6bmE4Wmpial9TMG52SjYwMkxQY1JBNWZLdWUxVmQxWXdULVNhTnFEQ3ZNdjQyUXFaM0p3WWlDWFhETkh3cE9Fc3NXMFNxS1FyZFZZV1VzOW1abGlQTjZERGxjZ2plS3dyRk5WVHBFaWVBanBWMHJBTmx3MklnZFgzWmZrNUdDSGVkWWdMbGQ4NURNMUhsRTR2WG0zcUFqN1VHdDdyRE1lNzhPc0NNeFFkNzlvdWhyYWRFaFUtajVZVnd2Y2V1N1BOSEM3N1N6NDJ4MlYwcktIYkRJS3FMMS1sdDFoZ1pBVzJLb2RPSlZOd0FlSTJsd3JTWFR2eWtUNVFkSTNhNW16X1JLNWJOY0dTWTVBZDg?oc=5"
         }
       ]
     },
@@ -342,18 +402,6 @@
       ]
     },
     {
-      "id": "815a86986ed9",
-      "title": "Nova espécie de inseto é descoberta no Paraná; veja como é - Diário dos Campos",
-      "published": "2026-04-12T18:14:00+00:00",
-      "summary": "Nova espécie de inseto é descoberta no Paraná; veja como é&nbsp;&nbsp;Diário dos Campos",
-      "sources": [
-        {
-          "name": "Diário dos Campos",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSktaeGtacnA1RklxUlc5aEVtZ1F5Rmx6RmNmY3FvazFpaENzcUgtRjdkLUtUNnJXYmVJaXRkTzI5cnJqbklyVlBXeHU1dElEWVJUTnUyYWdUR3k1YmdzWWU4UXhqOEVXR3lUMlZtVk1IaGZreUQ4T1RPNEZnZlhIMFBadzVpRHU2b1k4NkFDNGbSAZYBQVVfeXFMUFVhNTRIOU5ha0NsaXAyNFJoNHZpT0tqYUlDNFFmVkJnOFoxMVRUUFRXZVQ1aDRTWExXZmZuRE1ES1ZiUUdBV2M5RDRNcGpBcXZMRjQwMEhsOEU3bDNPUW1VbzVVT3FjT051aEhjUEhxakxoclN6Skk2SGFuZ1VlU0Q5T3dfazcyWEw0c3BXeHA0RWpQLTRB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7b4e3a4d262d",
       "title": "Mulher é diagnosticada com diabetes tipo 1 após fazer “xixi” na cama - Metrópoles",
       "published": "2026-04-12T17:19:40+00:00",
@@ -366,14 +414,14 @@
       ]
     },
     {
-      "id": "55cb09eba973",
-      "title": "Poeira do Saara cruza o Atlântico enquanto uma faixa de algas de 37 milhões de toneladas se espalha da África até o Caribe: o que está acontecendo no oceano e no ar pode ser visto do espaço e afeta a saúde de milhões de pessoas - CPG Click Petróleo e Gás",
-      "published": "2026-04-12T16:13:00+00:00",
-      "summary": "Poeira do Saara cruza o Atlântico enquanto uma faixa de algas de 37 milhões de toneladas se espalha da África até o Caribe: o que está acontecendo no oceano e no ar pode ser visto do espaço e afeta a saúde de milhões de pessoas&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "id": "2e981d427281",
+      "title": "Vacinação contra Gripe no Parque da Uva tem bom resultado - JR - JORNAL DA REGIÃO",
+      "published": "2026-04-12T16:46:45+00:00",
+      "summary": "Vacinação contra Gripe no Parque da Uva tem bom resultado&nbsp;&nbsp;JR - JORNAL DA REGIÃOBaixa procura marca Dia D de vacinação contra gripe em Araxá&nbsp;&nbsp;G1Porto Alegre aplica 35,8 mil doses de vacinas no Dia D&nbsp;&nbsp;TerraVacina contra gripe tem Drive Thru disponível em São Paulo&nbsp;&nbsp;R7Passo Fundo registra grande procura no Dia D e retoma vacinação para grupos prioritários&nbsp;&nbsp;Rádio Uirapuru",
       "sources": [
         {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQcXlidk9GaENZbHNuYW5xdjcxTGU2VlhORGtrT3oyem1PYkxndDdIRER1VG0wbHhyRHVsU2xyREhzWDUxdVJnS0gxWnVQankzbFBmaTVFMVAtZkpLekwzM3RfSHRvazQ3SVFKeDFWX3FIdzJQOXhCN0tWUVBwVjVscHJySU5ueVFKdEdsMGZrdGdoQlhwbTRwMExZVzNyd0cwcGRSWlBCNWc1b2RKUlgzYmtHdHJudDBSdTRwSHJpamhtSUIzOWJNV3RvaGVMMUZYaDE4Q1RIdGxId1hPYUlUMmtmZ24xQ21Rdm55cTYwcXA1YTVDc2ZmbDFpc2JwcG5lUU1nYnlNeWlFWEt6N3VjaDJ2WjlhVUJNTlppLTl0dE1DNHpVaHNwQXN6cWpFdmNqcWM3dGMycGRhR3dVdHVoYXB4R3JaZXM?oc=5"
+          "name": "JR - JORNAL DA REGIÃO",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcFZacVIxZnE0OVhGVzE4MkRlTm1zTHRZY00tVkRBYXpHQkRhNmZPaXFDNUFFWXRXZ0JReHQwdHF1ZktaUl81dkYzdFlQeU1LeC1RRlo3anNQckNtcjVnRlNUUGx2SjBZR2U2dXF4YXlYWWFvaUZjcnZXa3lXamtkZ2FGdmppM19oX2MwbjJCNFU?oc=5"
         }
       ]
     },
@@ -390,10 +438,22 @@
       ]
     },
     {
+      "id": "c76f3a6ac78e",
+      "title": "Ozempic: 1 em cada 10 pessoas pode apresentar resistência aos medicamentos GLP-1 - O Globo",
+      "published": "2026-04-12T14:02:25+00:00",
+      "summary": "Ozempic: 1 em cada 10 pessoas pode apresentar resistência aos medicamentos GLP-1&nbsp;&nbsp;O GloboGenética pode influenciar a eficácia de canetas emagrecedoras, diz pesquisa&nbsp;&nbsp;InfoMoneyGenes explicam por que Ozempic emagrece mais em alguns&nbsp;&nbsp;Campo Grande NewsPor que Ozempic não funciona para todos? Ciência identifica causa genética&nbsp;&nbsp;ExameSAÚDE: GENÉTICA DETERMINA EFICÁCIA DE FÁRMACOS PARA EMAGRECER&nbsp;&nbsp;jornalonline.pt",
+      "sources": [
+        {
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMkJmYVA1MFY1a0FBQkV0bVdXd0JOeWJMbk11eVdxS1dURlVxVDNhcGFpcE1LM2NMcTJUSnZCZGlqbEZtb21OWHFsT3pTdGNIdXNuOW1lZnAxRXlwZ2tMT3pDVzZHSlpOVUpmMkREdDJFcmM0NWh3aU5iUUxhYUpfRlJ4QnZJanFuRHd6TmdtRTJSODcxZTZaMkxkVUZVbG9UMW90bXoxVnlsUldfUkRMR2ZwRm1zbVNEUlJXUzkwTDdRakNoeWUxeENPbFdfWDJE0gHfAUFVX3lxTFB5VVc2TWdPVV9yWHhfdG5XSWE1STlCZzZyR1ZESTJHLVV6V2JvV0hjLTU5eENYMlN1VG5NS1EwQkZPbUhRSmdkVDYwTDB4UVdZeVYwS0hYWDdMTThfZGNYSWhqYnR0OXVzZkdDS1pKdFdKTS1JYkNuT3BjZHY0cHhOc1JKOXJ2T2RnQURsMTFheGxqWUxrRXExbjdvMDNSWnFTN2JuTWJTMFFKY1RYMzQ4T2RJY3pYazhQdnFiS0VKNHBPWEdFR204LUhUQlNlZlU3RUJoUmN1cUdjTHh5TzQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "7188dcea4693",
       "title": "Remédios para dormir podem aumentar risco de demência em até 79%, aponta estudo - Agência GBC",
       "published": "2026-04-12T14:00:52+00:00",
-      "summary": "Remédios para dormir podem aumentar risco de demência em até 79%, aponta estudo&nbsp;&nbsp;Agência GBCDormir menos de 5 horas pode causar isso no seu cérebro, segundo Harvard&nbsp;&nbsp;CrusoéDormir entre 3 e 5 horas por dia pode dobrar o seu risco de Alzheimer, alerta Harvard&nbsp;&nbsp;TNH1Dormir menos de sete horas por dia acelera o envelhecimento cerebral e leva a longo prazo à perda de memória&nbsp;&nbsp;Tua SaúdeDormir pouco pode afetar a memória e limpeza de toxinas do cérebro, diz estudo",
+      "summary": "Remédios para dormir podem aumentar risco de demência em até 79%, aponta estudo&nbsp;&nbsp;Agência GBCEsses 4 problemas de sono podem ser sinais de alerta de demência&nbsp;&nbsp;CrusoéDormir entre 3 e 5 horas por dia pode dobrar o seu risco de Alzheimer, alerta Harvard&nbsp;&nbsp;TNH1O sintoma noturno que “avisa” sobre o Alzheimer muito antes dos primeiros esquecimentos&nbsp;&nbsp;Gazeta BrasilVocê sofre com insônia? Entenda o que pode estar por trás do seu sono e como a terapeuta sistêmica Eliz",
       "sources": [
         {
           "name": "Agência GBC",
@@ -414,38 +474,14 @@
       ]
     },
     {
-      "id": "f9d8bab4d52a",
-      "title": "Adoçantes artificiais podem alterar o metabolismo de gerações futuras, indica estudo - Olhar Digital",
-      "published": "2026-04-12T13:33:00+00:00",
-      "summary": "Adoçantes artificiais podem alterar o metabolismo de gerações futuras, indica estudo&nbsp;&nbsp;Olhar DigitalDanos causados por adoçantes de refrigerantes zero podem atingir até 2 gerações, alterar genes ligados à inflamação, provocar intolerância à glicose e elevar o açúcar no sangue, revela estudo com sucralose e estévia.&nbsp;&nbsp;CPG Click Petróleo e GásEm ratos, adoçantes populares alteram a microbiota por até duas gerações&nbsp;&nbsp;Correio BrazilienseSeu cérebro pode fazer você gostar d",
-      "sources": [
-        {
-          "name": "Olhar Digital",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPY1pRQTJhM0xLYVRkZEt4UXUtVWltbHVub1FPTGNLY2UzNFFEcGlDcU5BV0ptRzRkQkphQU15WnJxUldIZ2FYdTRjbVdsR181ai1aWm1OaklWS1pYZERNZlZVNHJFaHNyNDFCRmpNZllwS0NteWZYTUFBeVlzRTZDUjZWYmd3QWJKOHVZZzNiYzFqRDd5YmRHb25ZamdMd2lKUHZnRGxsSkk4OTkwc2twUzB0WmkxR2hYdXNZNGNxR2ZMSGNoYWRrQ00xOU4wZ1dDX0x4ZEdjbw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1a1776f9c82f",
       "title": "Ser mais otimista pode diminuir o risco de demência, diz novo estudo - O Globo",
       "published": "2026-04-12T13:15:44+00:00",
-      "summary": "Ser mais otimista pode diminuir o risco de demência, diz novo estudo&nbsp;&nbsp;O GloboOtimismo é fundamental para um cérebro feliz, diz estudo&nbsp;&nbsp;TerraEstudo revela que pessoas otimistas têm mais chances de chegar aos 90 anos&nbsp;&nbsp;Diário do ComércioOtimismo reduz risco de demência em 15%&nbsp;&nbsp;SpaceMoneyO traço de personalidade que reduz o risco de demência: estudo&nbsp;&nbsp;jornalemdestaque.com",
+      "summary": "Ser mais otimista pode diminuir o risco de demência, diz novo estudo&nbsp;&nbsp;O GloboCiência revela o segredo mental por trás de quem vive além dos 90&nbsp;&nbsp;R7Otimismo é fundamental para um cérebro feliz, diz estudo&nbsp;&nbsp;TerraEstudo revela que pessoas otimistas têm mais chances de chegar aos 90 anos&nbsp;&nbsp;Diário do ComércioOtimismo reduz risco de demência em 15%&nbsp;&nbsp;SpaceMoney",
       "sources": [
         {
           "name": "O Globo",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZkVUYkpvc3BJcGtpaEFvNU12RC0wNUs4aF91R2dldzlVQkVPUk1Jaml4eGFHUzg3dWRCRG9KTVdEV1ItSFBXUllNNGhGcDRBcFNGVW5jVWJCaFlXYmlsT3VtTDFGT3N5X1M4eDJMdFI4TlgxZWE4NkxqWXhGY3JsMy1JbUJhVzlRRHNZdFV5MExsYUN0U2xTTDJPU0pBUG9saWdoaWFGVnl4UkNxNV9BS3RiNlVRQW1lUFdSRGwwVkHSAc8BQVVfeXFMUEdiZ2JBYnRTSmU0VDdSWDh5S1hnRDJrOExrTUdiYUhJQ1B2LU1lcXQwQTk0MHlDdG0zYjUzS0J1dWUxTzZRQUFiRnhqV3o1RTZGT281a0hOTUoxdkFsa1RtbFV5bjJ6M2ZITzBmekxuaUZ4MXlRd084ZjZXN1JRQTBjWUpCY05XMExvVjM1azAycVV6bGVjT1dJYzRtWFRXV3EzNHNlOUVUbU1iWHFKdWRIM3k4NUhxSUpSX1d3T3FoNXF6MVlfMlRVd0c4RzVR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "75ac1a26e491",
-      "title": "Como a Embrapa pretende criar sementes brasileiras de cannabis medicinal no sul do RS - GZH",
-      "published": "2026-04-12T13:00:49+00:00",
-      "summary": "Como a Embrapa pretende criar sementes brasileiras de cannabis medicinal no sul do RS&nbsp;&nbsp;GZH",
-      "sources": [
-        {
-          "name": "GZH",
-          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQZ2s3bUJRSEVFVWxTU2VUaEVXTEI1ZTJrLXRGdVRBNFZpaWJNeDVHSXMwYWtLMWU3alc3VFVsYmhDMmNkZ0tzM0Z6d25SRE41dVhveWVlUFh5bUFtcENwaGp4VFRQUWgyRlBXR0tyNzFQWHNhRi1vUHhmZmNuazdwaE1USTM0eFhyUmRpMHpLY2ltSkVvamVvQWxISGJwbUY0NlJkdExkT082QmMyN1dxVmNDNW41YTl1QTBNbC1oTUpvd3VlbW9SMVBPeXNJLXVrbl8yQWVSU19hcHk4cHg5OG1ManRHV1dmN0x6QmRENWprYTM1T0s5RG5qQ3ZQV1pLdUxHZWFYN3k5Ny04cEE?oc=5"
         }
       ]
     },
@@ -474,26 +510,26 @@
       ]
     },
     {
-      "id": "e8bef2713627",
-      "title": "Essa fruta que regula o intestino pode fazer seu corpo reagir melhor em poucos dias - Super Rádio Tupi",
-      "published": "2026-04-12T09:38:04+00:00",
-      "summary": "Essa fruta que regula o intestino pode fazer seu corpo reagir melhor em poucos dias&nbsp;&nbsp;Super Rádio TupiQuem não deve comer mamão? A fruta que foi apelidada de \"fruta da longevidade\" é revelada por especialistas&nbsp;&nbsp;Tua SaúdeAdeus vitamina: nutricionista indica usar mamão em um suco cheio de benefícios&nbsp;&nbsp;EstadãoQuem não deve comer mamão? Especialistas revelam a verdade sobre essa fruta apelidada de \"fruta da longevidade\"&nbsp;&nbsp;TudoGostoso",
+      "id": "a9010c42e696",
+      "title": "De volta à Lua, contemplamos uma Terra em risco - Folha de S.Paulo",
+      "published": "2026-04-12T11:30:00+00:00",
+      "summary": "De volta à Lua, contemplamos uma Terra em risco&nbsp;&nbsp;Folha de S.Paulo",
       "sources": [
         {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYXhwNU1oWVFpVjFnQkpRUHBNZ0ZTMEUtYjd1Z0Zpb0R0eXdBZ21oWW95Zm5WV3dTS0ZxbTdUQTdZS2ZhWXFwMDZNSEN2Nm13ZjYxY1k1MUU2QlVEdjN2Qkh2ZS1GVjlSNFN3R0lyQXllaFRYZ19McHZxdVFNejhkV2F6VWsyak5GcDZtWGlseTZtSG5BWWx2RUR5NU5TVmFqQWsyZGppTEYyRHc1R05HSTBFR29mVmRndEhz?oc=5"
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSHhFeWh2eVNsUFdoNGxDYVc5dlcyaDUtVm83Zl9jQk0zQzQ1NUZIVlhKcEM2NEN5dk5zdmJmT0JxcmhDMUVUUTlBSWlNYnBzNjdYSG5nTEE1VjhsMWRldzdWSVdLcS14TDUxb3BGOWR1U3VtU3dnczFldGlTaVVHLS1yOUFNMW9OSWNfemFOdzVoT1EwaTNCWWhkc2d6N1hRblFZUjZfMU1RQURJRktRM9IBtgFBVV95cUxNdmJjdVZLbThFODRqbHFmMnNXc3RieHdQQ3R4QlY4elJ3Z1NBblJheGMyNnJrb1JFMG5qZnlEdW9SVmxPT1RpM0t5ODBCSmo4b04wY09NcFRrTUM5WjdVSFI4LXRUcGRQT3A3eEJ6MlJQTk5TcHVVTEQtdFNsOThSdE92dm81V0RWMm1JUzd3Y3VCNTVVYmdwYlplWklhemE1OVhZV0Yyck5mOTdNX3RBWnpZa194Zw?oc=5"
         }
       ]
     },
     {
-      "id": "85220f780e0b",
-      "title": "Por que o corpo recupera peso após dietas? Veja dicas para evitar reganho - CNN Brasil",
-      "published": "2026-04-12T08:00:30+00:00",
-      "summary": "Por que o corpo recupera peso após dietas? Veja dicas para evitar reganho&nbsp;&nbsp;CNN BrasilOzempic: o que ninguém conta sobre a fase pós-semaglutida e o risco real de efeito rebote&nbsp;&nbsp;TerraReganho de peso: o erro que faz você voltar a engordar&nbsp;&nbsp;boaforma.abril.com.brCanetas emagrecedoras: por que o peso pode voltar depois?&nbsp;&nbsp;MetrópolesEfeito rebote: como evitar ganho de peso após medicação para emagrecer | Variedades | O Liberal&nbsp;&nbsp;O Liberal",
+      "id": "0247ed175332",
+      "title": "'Chinamaxxing': moda de beber água quente de manhã realmente faz bem à saúde? - Correio Braziliense",
+      "published": "2026-04-12T10:11:00+00:00",
+      "summary": "'Chinamaxxing': moda de beber água quente de manhã realmente faz bem à saúde?&nbsp;&nbsp;Correio BrazilienseVer cobertura completa no Google Notícias",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdU92TDFWYVBKMkNaNFR4MTJicEtmUktwY1ZpWUYzeTJ5VVgzOHllbWRvRjRjS0hjcWZUTktpYjdueEtUTlVNMUR1ZWVkYW1yaFdWLXVyaTIxVllmTGRGQmlyTlFhVC0xNWZteU5ZemxJS3lqSjF5NHE1T3FGOWhLN2IyUmRKRXVKNmN3cDVSUEFDTWVIM09nX2I3Ym0wM3Vvc2JoZTd2dm5MV2Ro?oc=5"
+          "name": "Correio Braziliense",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbzNYUlhjRlhoQ3RxWEg4czdfeG1wYlFqQUs2UVlweERaQm5VUzQ3YUd2eFlSY1BLRDQxWW00ckUwNEN5c2poLXlTLW1WX2E1bEIxSjNjXzM3NFNFbHNfY202bDdNd1IxLWtMREVmSDVSVEp6cjZQdjRNckptQlBwUVNGSzRpS3pJODdRWTM1R1ZrWkFYcWtkTnZNUU5YS09DRTVPQkxaT0ZaaTk4dGMzXzlqTUtoV1VQbjV1cVBYUlYweFBkS0w0UGxoUW5sbkU1WE1pcNIB2gFBVV95cUxNbVo2NzBRWmtlUXpKNzJtTi03c3lzZzB3Vm1QZzU1Y2dHc0RlSXV6cWU3MDZqZ3FVMTFSN0JISVgwUUpSWWtlQnlQdHZ3VElKYkRVNjMwNDJrcElLY2NiS1pJUmRwQllsaDktLUlUMTMwZk9yV0Y4Zlk1Z1Q2Q0twZWROcEpfcVZHVkxmbnRGcGR2aEd6Q0YtcHB0cGdEYTVzWFdaQ1EyckVQcTVLdVF5aFRVSUo3ZFM1QjZrejFfSUx6anpEVHJBTThJQlBFRFkwTHpMM3NpeG5XQQ?oc=5"
         }
       ]
     },
@@ -510,38 +546,14 @@
       ]
     },
     {
-      "id": "374a13d71a18",
-      "title": "Ar poluído de São Paulo eleva chances de hospitalização por doenças nos rins, aponta pesquisa - Folha de S.Paulo",
-      "published": "2026-04-12T07:00:00+00:00",
-      "summary": "Ar poluído de São Paulo eleva chances de hospitalização por doenças nos rins, aponta pesquisa&nbsp;&nbsp;Folha de S.Paulo",
+      "id": "5e0e1f55216f",
+      "title": "‘Primeiro contato’ que pode ter levado à vida complexa na Terra é finalmente observado por cientistas - O Globo",
+      "published": "2026-04-12T07:01:17+00:00",
+      "summary": "‘Primeiro contato’ que pode ter levado à vida complexa na Terra é finalmente observado por cientistas&nbsp;&nbsp;O Globo",
       "sources": [
         {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQU0hEVUFPakpSdFRsc0FlVjJzU0ZIS3pRYXBoWXI0N0ZGdHd2STkzSWcyeVJOMHVvX1RqNGRMb0EtdDA4b3NFYnEzNTdfc3lVcUlsd2tMMXQzSWpBZUNaRTdlLU1SYWNUd1dNUHRXSXNBSlRPZ3ZkQlFEMmxjVlhoTHQ2TmZBWVRiSmI1U1VGc3E4YnUyOVZnUVVuUHIwZzVSblRuNjV2WXlmTThlcHBkSzFiLWZyTFN1S18xbzl0cld4RXZicmJkNDZhNUNCWENGRUlrWDVYaVE2OTBVbjh4RXk4MFJzejQx0gHuAUFVX3lxTE9ibmlkbGg0R2UyMlBNODZvUnctQzhCQ01MUXNGcUkzcUI3YWoxSmZ4Nkt6cFpJQXVrSV80TUQ5MHd0RVRzUkFvZmlXSDNaSnNoLU1RQ2tzV25Sc1pZZVlYdElMOGFyc3BycWlDZzVUMjlZNmRpcGRCa3NZak5JaXd5ZnA4cl95RWZCWnlNMHFKeG1kTG56bklmWF9oT0JRRlpBeGVsa0E4NDlEeU8telJDcUNjRDJmYXVoQ2ktVW9aNUl1Vnh5V3J1UWNpSFVUVHk0bDRIZGhFaEhPLUd1MS0wQlozN3JUYW52U2ZXUkE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "46998e3bf1ba",
-      "title": "Visto do espaço, um trio de mesas negras formadas há centenas de milhões de anos e remanescentes da era Paleozoica criou dunas raras no coração do Saara e uma estranha zona sem areia que intriga até hoje os cientistas, transformando o deserto em u - CPG Click Petróleo e Gás",
-      "published": "2026-04-12T01:45:00+00:00",
-      "summary": "Visto do espaço, um trio de mesas negras formadas há centenas de milhões de anos e remanescentes da era Paleozoica criou dunas raras no coração do Saara e uma estranha zona sem areia que intriga até hoje os cientistas, transformando o deserto em u&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQeFR4allmenZ2NzJKYlpWQlNMQTVZSVpOV2czRXVTWlhCN2NPaDUzUkdidHdZTkw5Y3Fmb3RGZ1hVbFFYNzhZc1FMcVpCaHN2N1M0RGVxVTVlQ0tqRkcwN21scmVFS3QxV3VkVTF5ZVJ6YWZPekZLZy1RQWM4S0JCUldyVmdsMWJMdE05eGxWU0kyRjNRbTlSYlJaaVJoUEdaaUdhdFlDbVJJNjlsODZkbkJjaTlUemttVEhnUVlySjFFalliMlk4Ym1ybFFjbWdncEFLSDA2d2FMMkxqTzM4OTUzZmlSTjNORFFfLThucmY4akl6eVhMMy1TZV9MQ0Y1Z1BQN0NQQ3M1TXMxWXBTS1hfekpYRTI5eDREeHdiSDc4akxoaDBIdmRUMlY5T1VQNGI0Wi1wdVZSSnA2bnNvLXZBR3JmYVk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ff2e001f9bd5",
-      "title": "Música pode ser tão potente no cérebro quanto medicamentos, escreve neurocientista - Folha de S.Paulo",
-      "published": "2026-04-11T21:00:00+00:00",
-      "summary": "Música pode ser tão potente no cérebro quanto medicamentos, escreve neurocientista&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTE9mRFJEdUd4LTZ4UW5sOUR2dTd1RFl5OTVfSGJzTHBfWlZteE54bUtadUpkSm5yN2tfYXo4ckNYMGhSSW9Cb1RmVk5QTEdsTE9DdmRtdUpydks0cnpMT3pjTUxRazdkQnhVMm5DMU83ZmlmZmZxM1duQ1RYZFZoUzhpSGNlVmM0V2pOSEU3QjYxSktiUlVXMm1LU1FlUUhHOUhaZmxoVUJUUDJzUFkxazdHdHQtdmhTd21hbjk4YzJGNEdLdTZHa1luUGd4UXVSTkHSAdcBQVVfeXFMUExwRnJWMHM4QWMtRE9ZWmJhZ1NIbHFxVzBFN0RYc2xSNHE0ZEpNQzY0ME5wNVhNWlZsM0dWODRvWFpqcXFjaXRqUlZtaTN0dUZfbGc3QTZ4YmdwMENMc290MlFmV2dQdWN3MmtmdVQ3c19sbmtjTlJaaF84T1VkVjVnenNqelR5S3FDcVJIS2ZKLWdQYkdORXNUaEFJT2M2SkJlNm5XaGdBSXhoNzJJeGE1dmpxM2VaOFRZUFJjSlc4UDc2TEdUaFZlUXNpc3RJcnA1bDlEd00?oc=5"
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQR0ZsS0dRRUxDVExiSFVhcGFfeERvczY1YUlSM1IyNk1lbVIxTHZuME54SGRuTmhZbmk1aFRhT1phR0J1X0gzUU9rUWM5bTN0WUZBWGVrUlJncm5ILWltNWhQV3hENTlDV3lPcmxmTy1DckFiYmZMN2xUc1JnaHhnaU5mS01XYjV1V0k4aGZZTk1WX2RaeFczaWJ1Vld6OUplT05ZWmNNV2NnUGdQbnlVa2ZCN1JrTzZvcGlVQmNOc0UxNk1JU0wyMkJQbjhhZ1ZJdmpsSklKVlBjSGx6bTJWdE1mTHRyT0dib0Rz0gH6AUFVX3lxTFBMV3FBR0NqU3JMNkxPQm1BbDVSNmdyMW42dThaTDAzY3F4QjFpcHN6SDFZU1lmWnVITUYxQzJFcDdsLUlRRUFiMk8ySFVvRmRvVEpUNE5KSXpQU1l6d1NXcElLNm9Fa08yaUc3UzRrRkNfcUxVVmEwbGdzVkZLdU9FcDR6UjFRZnJoLWgwR3QxcEdoc2JZT3Zub1U4bXdhV19tSmFDd0xQdW0tTGVxTjNiQlNpdkc0eFBCcVZfR3F1cjRiMEhhRzRwZno4TUVSaWp6N1ZwZXJOOGQ1ekF6bjJGalgyQ2pEcjZvRG1acUgzSFozTUhtWmhjVnc?oc=5"
         }
       ]
     }
