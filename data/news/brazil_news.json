@@ -1,19 +1,55 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-04-14T07:50:31.626667+00:00",
-  "total_fetched": 96,
-  "unique_count": 96,
-  "health_related_count": 44,
+  "fetched_at": "2026-04-14T13:47:38.856015+00:00",
+  "total_fetched": 95,
+  "unique_count": 95,
+  "health_related_count": 39,
   "news": [
     {
-      "id": "9e39e05f0303",
-      "title": "Adolescente de 13 anos morre por H1N1 em Sorocaba - G1",
-      "published": "2026-04-13T23:56:29+00:00",
-      "summary": "Adolescente de 13 anos morre por H1N1 em Sorocaba&nbsp;&nbsp;G1Advocacia imunizada: campanha de vacinação contra a gripe segue até o dia 29 de maio em SC&nbsp;&nbsp;ND MaisSC faz alerta contra a gripe e projeta 1 milhão de vacinas no estado&nbsp;&nbsp;4oitoVacinação contra influenza tem baixa procura e segue disponível nos postos de saúde de Lajeado&nbsp;&nbsp;IndependenteCrianças de seis meses a menores de seis anos devem ser vacinadas contra a Influenza&nbsp;&nbsp;Prefeitura de João Pessoa",
+      "id": "cfbf6f36b7cd",
+      "title": "Descoberto efeito surpreendente da batata doce no corpo humano e o que isso pode mudar na sua saúde - Super Rádio Tupi",
+      "published": "2026-04-14T09:30:23+00:00",
+      "summary": "Descoberto efeito surpreendente da batata doce no corpo humano e o que isso pode mudar na sua saúde&nbsp;&nbsp;Super Rádio TupiNutritiva e funcional, batata-doce não é só um prato tradicional&nbsp;&nbsp;Correio BrazilienseComo preparar suco de batata yacon com limão? Veja os benefícios de tomar&nbsp;&nbsp;EstadãoNova batata-doce criada pela Embrapa parece ouro e é rica em vitamina A&nbsp;&nbsp;NSC TotalNem detox, nem chá: o suco de batata-doce com limão que está chamando atenção pelos benefícios",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSllKMW9kd1NEc2gzYlY4SjNTVWVHX1ptRklqajh1T01PTEtKR3RUTXVYcnoxY1IzNW1nNVd3czBxOHN0S0VYaHdRR2ZGR25zWl9nX1RiOHBFb0NjYVJBaXpwdnVvX3kxN1kxdExUQ3NaNk9UMWpNTXBjTFpxWTMta3RWcFRiVUl0bDgtRGJxLWhBdVJiVU1BWXUySEZvTWhvRUhTTGJod9IBtgFBVV95cUxOUWZHVnh6TDRualhTWGVuSFhaOU0wVW5hTnd2ZE5GU0JMNWJkSGFoOUpXVDg3cW1yRVlDNUc1Y25rQkZFemJGSDFKbDF1elJMTzczem12QngyY2M1c2JCRVVrN0VUR3VhTVNwUk01X056cFQ1SGF5SkJGdWlJcmp6TXZFbjBHMUt3dExwMml2Y05waWN4cWNUbUhhUDBmcW1QMTUyVGlsckU2bGdIMnRJdW9nVTktZw?oc=5"
+          "name": "Super Rádio Tupi",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOXVxMkR6LWx5Q2VnU2tHOUhSb2hNS0pIN0t1RUlNcUUtR01FRFRwODZiQmJHeVZCSlRybWtyaXVuRF9SSzlncDg4YVdFN0Uxbl90bEwxNUpsZlJ0UVIzcEt5MV9wcmg4UVhxeFkxNzFmZm5xaTZhZXlWZ2FCTHRHUGVVaVVUbXdIQXhTS01TdW1KMWlLbXFEdGlZMDZ0ekFaa2VUTzR0SnVjQlhFcHdzUUV1ZDhvcU5BWnFQaW1sazByZ2Y1cU9mU0FVcllQeHJk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "92aaa495895b",
+      "title": "Entre sintomas silenciosos e novos tratamentos, pacientes com Parkinson encontram caminhos para viver melhor - O Município",
+      "published": "2026-04-14T09:01:00+00:00",
+      "summary": "Entre sintomas silenciosos e novos tratamentos, pacientes com Parkinson encontram caminhos para viver melhor&nbsp;&nbsp;O Município",
+      "sources": [
+        {
+          "name": "O Município",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUWxWVzJzcTI2YnloOHJfNllGNnE0bC14enJNMS1RaUFuTHZhU3VnclRnS0theFhxSjBrVTB6VVZOOU9tSHg3Z1NoMGI5YWwxRDVqbzYtUnU2V01kcHdSeGhLZUR1X1BTY1A2QmJocDIwUHZZUG9HdElmek4xYVRDUjJDUUhCdlo2R0RBZ1dBY0FkNFV4YzZKa2dJTHFxaGpqZmlhUFVHYkp3MndxdzhYVTVHUU9QQ2dLQjVNVEtOZHJLT1JGV3ZJWUF2WUxmOUNyRWlSTTN3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "68ac963e35a2",
+      "title": "Terminou o namoro? Pesquisa de Harvard diz que o fim de um relacionamento pode deteriorar o sistema imunológico - O Globo",
+      "published": "2026-04-14T07:30:55+00:00",
+      "summary": "Terminou o namoro? Pesquisa de Harvard diz que o fim de um relacionamento pode deteriorar o sistema imunológico&nbsp;&nbsp;O Globo",
+      "sources": [
+        {
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPQ0ZPYVJtZ09QS3g1VnZtSjgtYkhEOWxkWDNDWkRLdG9lcUI1Nk96Mll1MXdyaTdBWktTaVhsRm5RSi1WT2Y3MjNLMGVBNnBLdnVURVpFQkN2eDhQNUlrS0U3ZnpFQ3h2RkpwNzJqTHAzelFtT1BaUHdDeUlDMHh6T3BjUFN6cXNSeW5lQnBleEplZmhvaHA1dHBILWF3cjRpNGtkY1JadWsxLUhpU05DbEZObWxEbUp0cWZ2QlZvdzlBT1hJNmU0a0FoREdNUzN4b2gxT1U0YTMycXcySWtJa1dYaUMyZVlRdHNUVF9XZUp2dFp0NjdwRTRB0gGIAkFVX3lxTFBJcDd5RzdKM3F1OUY4VTV0c0hWV3VaeWpLQXdkY2pMZGlwWXNpRVNXRk5oMmpzQ295MWFNSUtEOFBsZGw4Q0FsTDlCSjJtbWdoSHltS1BLNzkyZUxwenFfWHoxeXJvUGpZQ2U3d0l0dnJ1NFcxWjdqWjhTLWpYc1JySnlibkdQN09SUjE2Qk1UVGZfR21qRjFvQWRoaDA5dGtIOFVCRUJITVA0aHQyaTZ6VzVNWHB3VEU3cHByMnExUmQweHR6X0YxbUZWMWhDN0dpS3oxN2ltUk9HNHJQWTh5OVl5NVM3N2VRVElJSEt1QXZVNGJxX1VrVGR2aHJfcmJmelhaeUpYQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "458d44ee5af5",
+      "title": "Dia Mundial do Café: Veja três benefícios da bebida popular no Brasil - O Globo",
+      "published": "2026-04-14T03:00:56+00:00",
+      "summary": "Dia Mundial do Café: Veja três benefícios da bebida popular no Brasil&nbsp;&nbsp;O GloboDia Mundial do Café: nutricionista esclarece mitos e dá dicas sobre o consumo da bebida&nbsp;&nbsp;G1O que acontece com o corpo quando se para de tomar café todos os dias?&nbsp;&nbsp;MINHAVIDA.com.brTomar a ‘quantidade ideal’ de café pode ajudar a saúde mental a longo prazo&nbsp;&nbsp;InfoMoneySou cardiologista e garanto: \"Pessoas que tomam café somente pela manhã têm uma expectativa de vida mais longa e têm ",
+      "sources": [
+        {
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc3pCa1JZZW1ORU5maXhTT0RuZnlkTlg2dHl3X29uVHMxdjk5b2dRd0JCYTBTaS1nOGdjdHZXM3lnR2hUdkhnT1pYNnhXcDFCd2xjZHJlTU9WOFBnRXdTME1rYlFZM1dTQ0tfNTNUMk55bmROaWtVQmd4bTB0TVhld0JGTWsxX2sxeTI0REJTc21nMGJtdVRQWXhSM3ZwQ1Y5TGY5WFgxbVhTY0N0MUpqT3k1Q0k4LVVxZEpGMUdlc3c1QdIB0AFBVV95cUxOZHZWUXJWZ2hrRWFrQS1RUHpjUTRiVzI5SVpZSHlJbEo3V1BRNWZYb0k3aXN4S05QVEI3RjRQRjFKNk9RbzYxRVF6bGUzSkdzNFRPN3RScWlhclZGbXgyMm4xZmViWmdVeWJwRWJRYmV2c3NHYV9seFZaUm1LTGdEWlhFTmsweFA5d0d3WC1zSUFiZm1MTTBCYVBQem1nUUJEUlRXdXVWdkZoZ2JfQ0NPTkU1RkhHS1U3dGt4d2Q3UFlXZGdSaHpCdkk1NXFabGJz?oc=5"
         }
       ]
     },
@@ -30,6 +66,18 @@
       ]
     },
     {
+      "id": "c6ddac9d9988",
+      "title": "Armadilhas mostram eficácia contra mosquito da dengue - Tásabendo",
+      "published": "2026-04-13T19:44:00+00:00",
+      "summary": "Armadilhas mostram eficácia contra mosquito da dengue&nbsp;&nbsp;TásabendoVigilância Ambiental de Sumé adota “ovitrampas” para monitorar o Aedes aegypti&nbsp;&nbsp;Prefeitura de Sumé - PBLavras avança no combate ao Aedes aegypti com expansão de armadilhas de monitoramento&nbsp;&nbsp;Prefeitura de LavrasSanta Maria do Tocantins reforça combate ao mosquito com ovitrampas&nbsp;&nbsp;SurgiuCasos de Dengue Caem 93% em Itajaí, mas Vigilância deve ser Mantida&nbsp;&nbsp;jornalfolhalitoral.com.br",
+      "sources": [
+        {
+          "name": "Tásabendo",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTU9mQm5ubVo5RGduUGprcUVvc2lSRzRtVFdPWnJGT0huQ2syZlBzVnRFT3lTYmZvUVM3MmdYa1pwc0NYaENmaVhTWTdsdWE3UVVwUURrcXgyWGI1alozek0td0R1Z09GR0pYMHdGeG1od01QZnduNGtXeGhVTGx0UVduQVloWm15cnZlUzZn?oc=5"
+        }
+      ]
+    },
+    {
       "id": "3dbea6dc7545",
       "title": "Dia D de vacinação contra gripe imuniza mais de 1,5 mil pessoas em Poços - onda poços",
       "published": "2026-04-13T17:16:13+00:00",
@@ -42,13 +90,13 @@
       ]
     },
     {
-      "id": "ff0dec66bc82",
-      "title": "Como a falta e o excesso de carboidrato podem afetar o seu coração, segundo cientistas - Globo.com",
+      "id": "ea5a076121dd",
+      "title": "Como a falta e o excesso de carboidrato podem afetar o seu coração, segundo cientistas - Globo",
       "published": "2026-04-13T16:33:26+00:00",
-      "summary": "Como a falta e o excesso de carboidrato podem afetar o seu coração, segundo cientistas&nbsp;&nbsp;Globo.comCarboidrato na medida certa ajuda a preservar a saúde cardiovascular&nbsp;&nbsp;EstadãoDoce veneno: como o excesso de açúcar afeta o sistema circulatório&nbsp;&nbsp;MetrópolesExcesso e escassez de carboidrato podem prejudicar a saúde cardiovascular&nbsp;&nbsp;Portal TelaFalta ou excesso de carboidrato pode prejudicar a saúde cardiovascular, aponta estudo&nbsp;&nbsp;GP1",
+      "summary": "Como a falta e o excesso de carboidrato podem afetar o seu coração, segundo cientistas&nbsp;&nbsp;GloboConsumo moderado de carboidratos não aumenta risco cardiovascular&nbsp;&nbsp;BossaNews BrasilDoce veneno: como o excesso de açúcar afeta o sistema circulatório&nbsp;&nbsp;MetrópolesExcesso e escassez de carboidrato podem prejudicar a saúde cardiovascular&nbsp;&nbsp;Portal TelaFalta ou excesso de carboidrato pode prejudicar a saúde cardiovascular, aponta estudo&nbsp;&nbsp;GP1",
       "sources": [
         {
-          "name": "Globo.com",
+          "name": "Globo",
           "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaGVzczgyMUpub1g5U2FJSXhqMXVLZTZ4aHhVZVNCWnZVQVo4aUZORWV0WXl5eUtScXRzZ0FGdlpTY0tLZ3pQeEc0U0I3cHQ1dHVYcEdvOFFNcVBFZm5Dam45dzg2dDdQZnhKLVVlbzNwMVp5amJmYUQ2czg1RG9OZVBtbnI5bHE5WFgxWEw3NVRYSDljSXZyUG1JbWpZZzl3SkVTbXRSRnl6SVA2T25JY3RHeHBCNFJLaEFwVmNZckhWeFVTR2hjbXc4X2JnLU9JRno5Skp2UFlQZXFI0gHrAUFVX3lxTE1lcUE1cHllNl84a09sNl9CemZwdXhHaGRHXzhDWGFqejhJUnVyWmF0MWU1eU9PYVdmS1hyU3pZUWphTU05RTVqek1YTm94eWpTaGo4M1A1TU1BU3pPbUxsa3FCMXF0TUIyRi1LS0RzYzVpVG9SendtTzlXWGR0c2xCRDV2YVRVcWI5cTByRmdLWExxOElwelE0V2N4NllwRmV3bUhVa2hQRnBKalA5bG50LW1qMzRnZWw0dFpMdG1JTjNwSng0TTlORG52VGlpX3ZLN1VRLTVubDJmb0RsVnJBcXF0WEpKSEJGaGc?oc=5"
         }
       ]
@@ -57,7 +105,7 @@
       "id": "aadf35fc50b1",
       "title": "Excesso de vitamina D pode causar danos e intoxicação, afirma estudo - Metrópoles",
       "published": "2026-04-13T16:17:40+00:00",
-      "summary": "Excesso de vitamina D pode causar danos e intoxicação, afirma estudo&nbsp;&nbsp;Metrópoles",
+      "summary": "Excesso de vitamina D pode causar danos e intoxicação, afirma estudo&nbsp;&nbsp;MetrópolesVitamina D baixa? Tomar sol nem sempre resolve a vitamina D baixa e o problema pode ser interno&nbsp;&nbsp;Gazeta de São Paulo",
       "sources": [
         {
           "name": "Metrópoles",
@@ -69,7 +117,7 @@
       "id": "9f14b6a2bf95",
       "title": "Canetas emagrecedoras: estudo lista novos possíveis efeitos colaterais - CNN Brasil",
       "published": "2026-04-13T16:13:13+00:00",
-      "summary": "Canetas emagrecedoras: estudo lista novos possíveis efeitos colaterais&nbsp;&nbsp;CNN BrasilOzempic: pesquisadores identificam novos efeitos colaterais dessa classe de medicamentos&nbsp;&nbsp;O GloboOs novos efeitos colaterais do Ozempic descobertos por cientistas&nbsp;&nbsp;Diário do Centro do MundoEstudo revela como canetas para diabetes podem tratar vícios em álcool e tabaco&nbsp;&nbsp;TerraCanetas antiobesidade podem ter impacto na saúde mental, sugere nova pesquisa&nbsp;&nbsp;VEJA",
+      "summary": "Canetas emagrecedoras: estudo lista novos possíveis efeitos colaterais&nbsp;&nbsp;CNN BrasilOzempic: pesquisadores identificam novos efeitos colaterais dessa classe de medicamentos&nbsp;&nbsp;O GloboNovos efeitos colaterais do Ozempic são apontados em pesquisa; saiba quais são&nbsp;&nbsp;TerraOs novos efeitos colaterais do Ozempic descobertos por cientistas&nbsp;&nbsp;Diário do Centro do MundoOzempic apresenta novo efeito colateral surpreendente, revela amplo estudo&nbsp;&nbsp;Folha PE",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -126,13 +174,13 @@
       ]
     },
     {
-      "id": "869c6265949d",
-      "title": "Não era mpox: técnico de enfermagem colocado em ‘quarentena’ em SC tinha catapora - ND Mais",
+      "id": "4ffdc24d85d4",
+      "title": "Não era mpox: técnico de enfermagem colocado em ‘quarentena’ em SC tinha catapora - ndmais.com.br",
       "published": "2026-04-13T14:40:44+00:00",
-      "summary": "Não era mpox: técnico de enfermagem colocado em ‘quarentena’ em SC tinha catapora&nbsp;&nbsp;ND MaisHomem com suspeita de mpox está isolado no hospital Marieta em Itajaí&nbsp;&nbsp;Nos Bastidores do PierSuspeita de mpox é descartada; técnico de enfermagem recebe alta&nbsp;&nbsp;DIARINHOTécnico de enfermagem é internado com suspeita de mpox em hospital de Itajaí&nbsp;&nbsp;jornalrazao.comTécnico de enfermagem é internado com suspeita de mpox em SC&nbsp;&nbsp;ND Mais",
+      "summary": "Não era mpox: técnico de enfermagem colocado em ‘quarentena’ em SC tinha catapora&nbsp;&nbsp;ndmais.com.brHomem com suspeita de mpox está isolado no hospital Marieta em Itajaí&nbsp;&nbsp;Nos Bastidores do PierSuspeita de mpox é descartada; técnico de enfermagem recebe alta&nbsp;&nbsp;DIARINHOTécnico de enfermagem é internado com suspeita de mpox em hospital de Itajaí&nbsp;&nbsp;jornalrazao.comTécnico de enfermagem é internado com suspeita de mpox em SC&nbsp;&nbsp;ndmais.com.br",
       "sources": [
         {
-          "name": "ND Mais",
+          "name": "ndmais.com.br",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQamFJdmtxVmFxZ3lkRnRIX0JqZEtUOEJJRV9hTE10Zkh6NllJdV9qZUowa21yUFMySWt5X0UtRHF6T0R0djB5ZUNkNnlabjcwUkpTQlI2Z3VfbWhHZlN6TEw1Zm5tUkNLTUJyemY3anJMeTlPeEZuTGlFREo0dlZUMWZxVzMyUXNhVHFXR3AxV3dqTjRIYmVWU2JGWUg2YkZ1UThHbjZCUVRVQzA?oc=5"
         }
       ]
@@ -165,11 +213,23 @@
       "id": "df56931e40d7",
       "title": "Anvisa amplia para maiores de 18 anos uso de imunizante que previne bronquiolite - GOV.BR",
       "published": "2026-04-13T13:32:10+00:00",
-      "summary": "Anvisa amplia para maiores de 18 anos uso de imunizante que previne bronquiolite&nbsp;&nbsp;GOV.BRVacina contra vírus da bronquiolite tem faixa etária ampliada pela Anvisa&nbsp;&nbsp;VEJAAnvisa aprova ampliação do uso da vacina Arexvy para adultos&nbsp;&nbsp;Agência BrasilAnvisa aprova ampliação de vacina contra bronquiolite para maiores de 18 anos&nbsp;&nbsp;Jornal de BrasíliaAnvisa libera vacina que previne bronquiolite para maiores de 18 anos&nbsp;&nbsp;O TEMPO",
+      "summary": "Anvisa amplia para maiores de 18 anos uso de imunizante que previne bronquiolite&nbsp;&nbsp;GOV.BRAnvisa aprova vacina contra bronquiolite para maiores de 18 anos&nbsp;&nbsp;G1Anvisa aprova ampliação do uso da vacina Arexvy para adultos&nbsp;&nbsp;Agência BrasilVSR: Anvisa amplia faixa etária de vacina contra vírus da bronquiolite&nbsp;&nbsp;MetrópolesVacina contra vírus da bronquiolite tem faixa etária ampliada pela Anvisa&nbsp;&nbsp;VEJA",
       "sources": [
         {
           "name": "GOV.BR",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOb3U3dnM4SEVkeF9peVNPWmhFc29hZkFseVFKRTg4UGlfbkJkUVhBbkFUNlV0elJmd0oxNHBEdTBlTm0zcXlvanNoZFJEOVptamRldGlTQXA1dDItS3c2NkxIMEMydWtmQlRMbGFxa3lCXzV1TzRSZFBpR3IzcGxHSmpSbXc1VXktSDlOdHpqU3BfdDRQazJPS2VtWWhsVXB0X2N3QmJ2Z2Z1UXpJUjM1VmJWandxajlOLXRUZEUxc0FsdHlpVVdMVS1mV3pXMVp3aWlweGtrTURrUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "86ec4db620a9",
+      "title": "O peixe mais saudável do mundo (que raramente comemos) fortalece o coração e aumenta a imunidade - MINHAVIDA.com.br",
+      "published": "2026-04-13T13:20:14+00:00",
+      "summary": "O peixe mais saudável do mundo (que raramente comemos) fortalece o coração e aumenta a imunidade&nbsp;&nbsp;MINHAVIDA.com.brDe água doce ou salgada, peixes ideais para dar um gás na saúde&nbsp;&nbsp;Correio BrazilienseEstes são os peixes mais saudáveis que deve comer com frequência!&nbsp;&nbsp;MSNSugestões para incorporar o peixe em suas refeições&nbsp;&nbsp;Correio Braziliense",
+      "sources": [
+        {
+          "name": "MINHAVIDA.com.br",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92UkxydlRWanZNY0h1bG5FaXVJVnhWUnQzdnVkQkZiRERyWXlTWlFpZUw0V2tBdEVmRlJETG1EWUliVTJwcVJVV2dBb2RwbjlUcVFPbExtVUlVdkFydVFJT9IBZkFVX3lxTE96SGFLc1FLTmVoMXdjaTdHdFBIdkxKZkFuQUZzdl9xbnFPQmVERzlSMjZkNEJ3dVRUN092eFVHSW10WG1kamdwY09ndUpRM3huS1NlN1M2MlJkT2F3RnlLdTA4N0d2UQ?oc=5"
         }
       ]
     },
@@ -186,14 +246,14 @@
       ]
     },
     {
-      "id": "d2ebfe9b93b8",
-      "title": "No meio do nada? Onde fica a ‘fábrica natural de ouro’ recém-descoberta por cientistas - Money Times",
-      "published": "2026-04-13T12:46:02+00:00",
-      "summary": "No meio do nada? Onde fica a ‘fábrica natural de ouro’ recém-descoberta por cientistas&nbsp;&nbsp;Money Times",
+      "id": "23351603354e",
+      "title": "Vitamina pode reduzir o acúmulo de proteínas associadas ao Alzheimer; saiba qual - Folha PE",
+      "published": "2026-04-13T12:06:00+00:00",
+      "summary": "Vitamina pode reduzir o acúmulo de proteínas associadas ao Alzheimer; saiba qual&nbsp;&nbsp;Folha PEEssa vitamina pode reduzir o acúmulo de proteínas associadas ao Alzheimer&nbsp;&nbsp;O GloboVitamina D pode reduzir risco de Alzheimer? Veja o que diz novo estudo&nbsp;&nbsp;Veja SaúdeO nível dessa vitamina pode revelar seu risco de Alzheimer anos antes&nbsp;&nbsp;R7Estudo revela a vitamina promissora que pode ajudar a reduzir proteínas associadas ao Alzheimer&nbsp;&nbsp;Terra Brasil Notícias",
       "sources": [
         {
-          "name": "Money Times",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBSS0pJZmQ4Yi1PSmxKdk9od0x2WVBiM0czZWhPUGdCMjd1NnNUS2ZqbUFCZ1NuRjVHdjgzYjlpVlhZSGQ2RUI3Z3hGdVZWUktnRGoxTDFBbGh1UXlOcnFTS3hzdm9lbUdKUEhkTmRlOEQtN3c?oc=5"
+          "name": "Folha PE",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZFR1SnJBM1gtWFFadnhXeUh5LUNtcnNBTVR5bFRDZ0Z2OW1QMjhWVVowcnFvX1VweFNQUEkwbWt5bUVlQXg2RXhHdnRBZm1rOWwtSUpDOV9tV09FTFVHNEM2U1lNWXJJV2drN3p6eDJLUTg2UGp4WG9DN3JrQVRqWkEta2o0Rkhzb3F2OENJd2dTbXZIOEZXOWR1dU00NWwtRUZ5SkZKWTNvZnBIVTZraE5R?oc=5"
         }
       ]
     },
@@ -225,7 +285,7 @@
       "id": "460dc04772d9",
       "title": "Um dos principais causadores de pneumonia, VSR tem vacina desconhecida por 71% dos adultos acima de 50 anos - Correio do Povo",
       "published": "2026-04-13T10:03:19+00:00",
-      "summary": "Um dos principais causadores de pneumonia, VSR tem vacina desconhecida por 71% dos adultos acima de 50 anos&nbsp;&nbsp;Correio do PovoVírus sincicial respiratório é negligenciado e ameaça saúde de idosos&nbsp;&nbsp;Correio BrazilienseVírus sincicial também traz risco para idosos, alertam especialistas&nbsp;&nbsp;UOL NotíciasVírus Sincicial agrava quadros cardiovasculares e aumenta risco de morte em pacientes crônicos&nbsp;&nbsp;Jornal OpçãoCasos de vírus respiratório crescem e acendem alerta ent",
+      "summary": "Um dos principais causadores de pneumonia, VSR tem vacina desconhecida por 71% dos adultos acima de 50 anos&nbsp;&nbsp;Correio do PovoVSR não afeta só bebês: vírus comum e pouco conhecido pode agravar doenças crônicas em idosas&nbsp;&nbsp;Globo.comVírus sincicial respiratório é negligenciado e ameaça saúde de idosos&nbsp;&nbsp;Correio BrazilienseVírus sincicial também traz risco para idosos, alertam especialistas&nbsp;&nbsp;UOL NotíciasCasos de vírus respiratório crescem e acendem alerta entre i",
       "sources": [
         {
           "name": "Correio do Povo",
@@ -234,10 +294,34 @@
       ]
     },
     {
+      "id": "1ae93311ea93",
+      "title": "Fernando Maluf | O crescimento do câncer colorretal e as desigualdades no Brasil - Poder360",
+      "published": "2026-04-13T08:57:15+00:00",
+      "summary": "Fernando Maluf | O crescimento do câncer colorretal e as desigualdades no Brasil&nbsp;&nbsp;Poder360Rastreio do cancro do colón e reto por colonoscopia em adultos com 75 ou mais anos&nbsp;&nbsp;tveuropa.ptEstudo projeta aumento de mortes e de perda de produtividade por câncer de intestino&nbsp;&nbsp;Revista Pesquisa FapespCâncer antes dos 40 cresce em ritmo acelerado com alerta para jovens&nbsp;&nbsp;Sim NotíciasPoliclínica de Posse conscientiza sobre câncer colorretal&nbsp;&nbsp;Gazeta da Seman",
+      "sources": [
+        {
+          "name": "Poder360",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOckVhelhla2x5VTgwd1hPSEhuTThDVnRJdnRRcDQ4WS1UV3ZqN2VqLUo0cXpGSHBWVThYQzFMQ2ZfaXZGTzZTX3U5R0wyODRUQWM0ZF9yX0JGOTI1eExMcTkyRUFic3hQdkx6UVotVHFjTFBhc1k5NmpUN01XZ1lHbnZaUFNhMlZlRnpCOHNELXM0QkJkS3JoSF9ObDMtY25RbEE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cfc573cd57d9",
+      "title": "Veja 5 motivos para avaliar o coração antes de retomar os treinos - CNN Brasil",
+      "published": "2026-04-13T08:00:39+00:00",
+      "summary": "Veja 5 motivos para avaliar o coração antes de retomar os treinos&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQUhpdXp6d09ZVGtTZEZfbGpIMjIyZUJsV2VMal9FTF9GaGZabWNoYXpwS2luZkZQTThVQzhib3JiRGZXTVFzcmdwdU92OEEwRDVwLUxaR1o3WDB1WkZreTBiOWZIbjVsUWo4MXhSSUdfQzlBNXhPWjBXcXQxTlpFTkhaTUNiU0ZNNThXeUNYTnpLd3o2UGZJbVJDN1YzTGphN3k4?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f13167c732ec",
       "title": "Tomar a 'quantidade ideal' de café pode ajudar a saúde mental a longo prazo - O Globo",
       "published": "2026-04-13T07:30:37+00:00",
-      "summary": "Tomar a 'quantidade ideal' de café pode ajudar a saúde mental a longo prazo&nbsp;&nbsp;O GloboDia Mundial do Café: Veja três benefícios da bebida popular no Brasil&nbsp;&nbsp;O GloboDia Mundial do Café: saiba qual é o grão mais caro do mundo e outras curiosidades&nbsp;&nbsp;Globo RuralTomar a ‘quantidade ideal’ de café pode ajudar a saúde mental a longo prazo&nbsp;&nbsp;InfoMoneySou cardiologista e garanto: \"Pessoas que tomam café somente pela manhã têm uma expectativa de vida mais longa e têm m",
+      "summary": "Tomar a 'quantidade ideal' de café pode ajudar a saúde mental a longo prazo&nbsp;&nbsp;O GloboVer cobertura completa no Google Notícias",
       "sources": [
         {
           "name": "O Globo",
@@ -246,22 +330,10 @@
       ]
     },
     {
-      "id": "29409b20717e",
-      "title": "Material que hoje é jogado fora pode ajudar a detectar câncer de estômago, mostra estudo brasileiro - G1",
-      "published": "2026-04-13T07:01:40+00:00",
-      "summary": "Material que hoje é jogado fora pode ajudar a detectar câncer de estômago, mostra estudo brasileiro&nbsp;&nbsp;G1Suco gástrico descartado em endoscopias pode ajudar a diagnosticar câncer de estômago, aponta estudo&nbsp;&nbsp;TerraEstudo brasileiro encontra sinal de câncer de estômago em líquido antes ignorado&nbsp;&nbsp;R7Líquido descartado na endoscopia pode ajudar a detectar câncer&nbsp;&nbsp;MetrópolesLíquido de endoscopia pode ajudar a detectar câncer no estômago, diz estudo&nbsp;&nbsp;CNN B",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcmEtSUZLc2I3N3NVNjBEUHlRdFA1X0UzdE1GSGlWMFI3MEN5NTh2SE9Zek55bEVKa0o4R0NEVlhwSlpuSXZGRm9BdHRJaHBvNENkXy0wSHJUUE8yZkZvaVlZalJ0cWstVXhWYU1sZElNNThPYU1YOW8xWmI5a2k5bXdEZXZZZTlGamhPZ19rWk1yWUlkRk42ZF9xV0ZVc3hkTndQUWRpeE5aQS1ZNTFfUEJxS0V5OHdrV2preURlQUo0ckZ6ZW1tV0xzbUhNTnFvMW10Szk2b0Y4STdaT1pjODllSzLSAfMBQVVfeXFMTUhDcWdvcjZpQXhfMUduSWE5cERGekFnYjhqQ3hZZ3dZYVdOLWQ5QTQtbHpWcTlvM2xBRURNM0xORDNwS3FPLWFfQ0dFdlFnNjRaWEE1ZlBIZGJ2RmhnenVqTEd5NTBhSWN5ZXNqSFByVWdEcXM1TUtudFhkNzFsLWZtY3QyYVBuZ1k1WFc1VlRLckNkcEo3WlMzeEVSQ085dHBsTnJBWUdHUGcydjM5LXBQZXlHd2JPTnB5VE1GTzFSVlg0VTNLb3Azci1fNWdSMDdOUUtDZXBrTHNrcGRka3IyY21WUnFvLW95WEhIMDV0dGpR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7af832136cd5",
       "title": "Conheça os três segredos para dormir bem à noite, segundo uma neurologista especialista em sono - O Globo",
       "published": "2026-04-13T07:01:23+00:00",
-      "summary": "Conheça os três segredos para dormir bem à noite, segundo uma neurologista especialista em sono&nbsp;&nbsp;O GloboEspecialistas revelam quantas horas pessoas acima de 65 realmente deveriam dormir&nbsp;&nbsp;TNH1Estudo sugere que um hábito de sono pode melhorar a saúde do seu coração&nbsp;&nbsp;CrusoéHábito que muitos brasileiros possuem à noite pode aumentar a chance de uma arritmia no coração&nbsp;&nbsp;Diário do ComércioUniversidade de Stanford descobriu que uma única noite de sono pode revela",
+      "summary": "Conheça os três segredos para dormir bem à noite, segundo uma neurologista especialista em sono&nbsp;&nbsp;O GloboIdade ao ganhar 1º smartphone interfere na saúde das crianças, indica estudo&nbsp;&nbsp;EstadãoPesquisa associa tempo gasto nos celulares a distúrbios de sono, obesidade e depressão em jovens&nbsp;&nbsp;R7Neurocirurgiã que já avaliou 100 mil casos faz alerta direto: 'Evite o celular à noite'&nbsp;&nbsp;Diário do LitoralEspecialistas revelam que a \"luz azul dos telemóveis pode não ser",
       "sources": [
         {
           "name": "O Globo",
@@ -282,18 +354,6 @@
       ]
     },
     {
-      "id": "c01e9bb75444",
-      "title": "Arqueólogos encontraram no deserto da Arábia Saudita um oásis de 5 mil anos cercado por muralhas gigantes de quase 15 km e 74 bastiões, em uma descoberta que revela uma civilização antiga muito mais complexa, organizada e poderosa do que se ima - CPG Click Petróleo e Gás",
-      "published": "2026-04-13T02:57:00+00:00",
-      "summary": "Arqueólogos encontraram no deserto da Arábia Saudita um oásis de 5 mil anos cercado por muralhas gigantes de quase 15 km e 74 bastiões, em uma descoberta que revela uma civilização antiga muito mais complexa, organizada e poderosa do que se ima&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQVjRmQ1g3TUQ5bUpyQVhyb1hqX2U3MXZVNmk0ZFdxYktHYzVkUW5jNnhzM2tURnkzWTlyZjZRWFNtZUdiQTdTUEN4M2FacDZQQkRGVTc4WVJIajR1Z3lTeFNDOVgzcG9mSEVSdm9QUEtEMWZubmdhLVM5TXlJd3ctME1RbjNrOG1DaWkwemMyQ01sZ0x4RjdlMXFaampUUUdtLU1GRkpaWlRKc0JVMmxHVmtLdlNDRDRuSDVHTzRsbE80b0JVOFVuOHF6dWNicXVibnJVRWFzM3poZVk2REF0Qkd3NUZuTUZlcGVJYWpWX3JTSGV3aWpQOHVudGwtTF9PWHZhdlJLdzlFTGNHX0NNMWwyaHV5dThETzlZcnZsVDhQdHJPN0JsNzFFYl9TX1RjcmxBbk14cXZwWEZHNjRRTGZ6WV9vRlk?oc=5"
-        }
-      ]
-    },
-    {
       "id": "822b4d174a5f",
       "title": "Pesquisadores suspeitam que alguns dos maiores buracos negros do universo estejam enfrentando dificuldades devido à falta de recursos - Revista Oeste",
       "published": "2026-04-13T02:45:00+00:00",
@@ -306,18 +366,6 @@
       ]
     },
     {
-      "id": "445c0123eed0",
-      "title": "Exploradores encontraram uma montanha submarina colossal escondida no Pacífico, mais alta que o Monte Olimpo e quase quatro vezes o Burj Khalifa, e o que surgiu ao redor dela parecia saído de ficção científica, com lulas raras, polvos fantasma e os cha - CPG Click Petróleo e Gás",
-      "published": "2026-04-13T01:58:00+00:00",
-      "summary": "Exploradores encontraram uma montanha submarina colossal escondida no Pacífico, mais alta que o Monte Olimpo e quase quatro vezes o Burj Khalifa, e o que surgiu ao redor dela parecia saído de ficção científica, com lulas raras, polvos fantasma e os cha&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPY1ZlNDNkbXljVzNfN0R4MTBMYjFMWFNRNFN2VjVwSUdXdWEzR1hvckJQWm1xUUVxanNoOGFRMS1TejRQMjYtQnVyZFVBei1HYmNzN0Vaazh1M2wyVDRIcENxMjhIenNXYkdmdjZGeXhjV3BWWGdRZFJERHlyRHE5T0ZBcEdsdUpKWExnTy1YMUJxSlpJSXUzcXBsLU9kM3J3R0w5XzNiUU1zYmFWNjFzSGU1VVpzdmVuSDc3dF9QRWRuRG1yM1UtcGQ1TGo1REVqd1JkdXp2Wmd3M3UyM1p6cTE1ZENWU2NCcVc0RWRMd3lfWmY3YjlHeHh0X2FtRk9yTzBpNzVDa05SRmI0NzZzenRVMG40bU5tSEwyNjh2VHBNSnc2WmdQbHJ1dUg0Y08xVFNaQjJieEJwdFBid2c0cUFrRGpScjA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d99caa0a0b40",
       "title": "Pesquisadores mergulham a quase 5.000 metros de profundidade no Japão, descobrem um raro “castelo de vidro” habitado por espécies desconhecidas e mostram que os oceanos ainda são um dos maiores mistérios do planeta - CPG Click Petróleo e Gás",
       "published": "2026-04-13T01:02:00+00:00",
@@ -326,18 +374,6 @@
         {
           "name": "CPG Click Petróleo e Gás",
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVUFMc1hyb3dDV1FxVkVEQUswWjYtYjlPRThUWUNGamVBcVVNT29DQlRRbVlSYjRaNmxVYmd0ci1YUFpqMnBPWTBiQWw0R24xV1p0ZWk4cWNRbk40RTgybzVsQTN1MVZKZm81azZMR3M2SWxlRU1DTThLaEFyaWwzSzBDWWIwRllwRnNPOWlkdm5PN3Z1bGdHOFpteEFSUEhYcklDVS02dkdicXBNdkR1MklmMV9XRlA0YVR1cmxIRWttSmp4YnJIX1VYdThLMnRFQ0JFVEsyelY5ZWVDU3dOM0ZR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "23351603354e",
-      "title": "Vitamina pode reduzir o acúmulo de proteínas associadas ao Alzheimer; saiba qual - Folha PE",
-      "published": "2026-04-13T00:33:55+00:00",
-      "summary": "Vitamina pode reduzir o acúmulo de proteínas associadas ao Alzheimer; saiba qual&nbsp;&nbsp;Folha PEEssa vitamina pode reduzir o acúmulo de proteínas associadas ao Alzheimer&nbsp;&nbsp;O GloboVitamina D pode reduzir risco de Alzheimer? Veja o que diz novo estudo&nbsp;&nbsp;Veja SaúdeO nível dessa vitamina pode revelar seu risco de Alzheimer anos antes&nbsp;&nbsp;R7Estudo revela a vitamina promissora que pode ajudar a reduzir proteínas associadas ao Alzheimer&nbsp;&nbsp;Terra Brasil Notícias",
-      "sources": [
-        {
-          "name": "Folha PE",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZFR1SnJBM1gtWFFadnhXeUh5LUNtcnNBTVR5bFRDZ0Z2OW1QMjhWVVowcnFvX1VweFNQUEkwbWt5bUVlQXg2RXhHdnRBZm1rOWwtSUpDOV9tV09FTFVHNEM2U1lNWXJJV2drN3p6eDJLUTg2UGp4WG9DN3JrQVRqWkEta2o0Rkhzb3F2OENJd2dTbXZIOEZXOWR1dU00NWwtRUZ5SkZKWTNvZnBIVTZraE5R?oc=5"
         }
       ]
     },
@@ -366,18 +402,6 @@
       ]
     },
     {
-      "id": "25ff38cb45f1",
-      "title": "Projeto gratuito acolhe mulheres com depressão e em tratamento de câncer em Campo Mourão - Tribuna do Interior",
-      "published": "2026-04-12T23:30:44+00:00",
-      "summary": "Projeto gratuito acolhe mulheres com depressão e em tratamento de câncer em Campo Mourão&nbsp;&nbsp;Tribuna do Interior",
-      "sources": [
-        {
-          "name": "Tribuna do Interior",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWTdmWEJ5djZhMkl5LURreWtmOGJmaHRaMlhpeFluOG5NYjhKN0RMa05aU3JyanFlNk5mMlpVeUFBcjF2LXVldGRPUXBPTHF2endPS1A4bHlWdWNfVEw2WkJ6R1BUbjZCOXhiekVvZDFqMmp2RXBIeGI0X202SFhrbnJzT2xyN1U3Y2JjZW1QT2dfWXhkNUJZQ0w4b3J1WTJSc2ZGVlUzZWNPRENaaDhhc2J6dGhjZHpVNEdBVjJXSkJDbUtDYWRHbkhELWhmaUpGaUtkbDZR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "34ed32a4bd5e",
       "title": "Pesquisadores de Portugal e da UFJF explicam acertos de Chico Xavier - VEJA",
       "published": "2026-04-12T20:01:11+00:00",
@@ -393,7 +417,7 @@
       "id": "ce1f5d668508",
       "title": "Violência sexual aumenta riscos cardiovasculares em mulheres - Agência Brasil",
       "published": "2026-04-12T19:30:00+00:00",
-      "summary": "Violência sexual aumenta riscos cardiovasculares em mulheres&nbsp;&nbsp;Agência BrasilVer cobertura completa no Google Notícias",
+      "summary": "Violência sexual aumenta riscos cardiovasculares em mulheres&nbsp;&nbsp;Agência BrasilNotícias&nbsp;&nbsp;Jornal de BarretosEstudo revela que violência sexual aumenta risco de problemas cardíacos&nbsp;&nbsp;planetaosasco.comMulheres que sofreram violência sexual têm mais problemas cardíacos&nbsp;&nbsp;Notícias ao Minuto BrasilViolência sexual aumenta risco de doenças cardíacas em mulheres&nbsp;&nbsp;RealTime1",
       "sources": [
         {
           "name": "Agência Brasil",
@@ -414,26 +438,14 @@
       ]
     },
     {
-      "id": "06abacde72e7",
-      "title": "Mulher diz que traição do marido a levou a desenvolver três cânceres - Metrópoles",
-      "published": "2026-04-12T18:59:13+00:00",
-      "summary": "Mulher diz que traição do marido a levou a desenvolver três cânceres&nbsp;&nbsp;MetrópolesAmericana relata que traição do marido a fez desenvolver três cânceres&nbsp;&nbsp;Extra onlineMulher luta contra três tipos de câncer depois que o marido a traiu – e ela descobriu que tem uma DST que causa câncer&nbsp;&nbsp;jornalemdestaque.comMulher contrai três tipos de câncer após infidelidade do marido&nbsp;&nbsp;RedeTV!Traição leva mulher a descobrir HPV e três tipos de câncer&nbsp;&nbsp;Portal Em Temp",
+      "id": "1fde4a2cc321",
+      "title": "'Chinamaxxing': moda de beber água quente de manhã realmente faz bem à saúde? - Folha de S.Paulo",
+      "published": "2026-04-12T16:02:00+00:00",
+      "summary": "'Chinamaxxing': moda de beber água quente de manhã realmente faz bem à saúde?&nbsp;&nbsp;Folha de S.PauloÁgua quente ou água gelada: qual é melhor para a digestão?&nbsp;&nbsp;GloboHábito de beber água quente de manhã está viralizando nas redes sociais: especialistas explicam como hábito milenar pode influenciar digestão e bem-estar&nbsp;&nbsp;CPG Click Petróleo e Gás'Chinamaxxing': beber água quente ao acordar faz bem ou é mito?&nbsp;&nbsp;A TribunaBeber água quente de manhã faz bem? Entenda o h",
       "sources": [
         {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN0FYS3VZZ0Z0eGR5OUFheS16VGlaZ1d1dXVYTFJaa3FqOW4zeDIxYTJSNm5rTDBmNjZ4YnFoLVBqc0NvWHFFZ19ubVdRSzJLeVVJZU52QmNnTXV4NjU3UEFuMVp6RjA0OW5TUG1aZkJHaGdNRjduX2ZHOHYzVzNwUTdXMnlLV2FWTGxrZmlPQVZ4Z3lRSVJEb0FESTd3UjlXcFMtd21hVW1xaHRmTVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7b4e3a4d262d",
-      "title": "Mulher é diagnosticada com diabetes tipo 1 após fazer “xixi” na cama - Metrópoles",
-      "published": "2026-04-12T17:19:40+00:00",
-      "summary": "Mulher é diagnosticada com diabetes tipo 1 após fazer “xixi” na cama&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81Y3ZYbmwzbXNUbmpLOVJweTBTWkcyUWJseWd3ODdsSXBYUWdmbmpNRWg1RmRBTDc3cjl5ZjNxX0xTVWZEaHEtN1dNOGZ1WllFLTRDYU5OODZTdjd6OS16dWVqeDhFeFBfdEhoeTRR?oc=5"
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOM3ZqOVRNUWtGY2VDWnhPZnpzdTF3U2ZERWwxME9Vbk5YU1NKTmtjbW10YzBvSVE1LTJXSmxpa2w4Sy1NalNZbDJwc3pUeEF1Y0dTU2Fqd1liSHlGelRLT3I4dVNQWEJZdk5YdG5zMlhDRHZ4QjJkOFJxQmtuYm9HQV90VzhtQndrTl95c0FJam1xbXVkSFRYaWdnOWVaaGo4TGZBczZzNXVkNGZlWnNwamhhZE1GdE5GN21tcnd2dEFkbGRId1ow?oc=5"
         }
       ]
     },
@@ -458,78 +470,6 @@
         {
           "name": "O Globo",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMkJmYVA1MFY1a0FBQkV0bVdXd0JOeWJMbk11eVdxS1dURlVxVDNhcGFpcE1LM2NMcTJUSnZCZGlqbEZtb21OWHFsT3pTdGNIdXNuOW1lZnAxRXlwZ2tMT3pDVzZHSlpOVUpmMkREdDJFcmM0NWh3aU5iUUxhYUpfRlJ4QnZJanFuRHd6TmdtRTJSODcxZTZaMkxkVUZVbG9UMW90bXoxVnlsUldfUkRMR2ZwRm1zbVNEUlJXUzkwTDdRakNoeWUxeENPbFdfWDJE0gHfAUFVX3lxTFB5VVc2TWdPVV9yWHhfdG5XSWE1STlCZzZyR1ZESTJHLVV6V2JvV0hjLTU5eENYMlN1VG5NS1EwQkZPbUhRSmdkVDYwTDB4UVdZeVYwS0hYWDdMTThfZGNYSWhqYnR0OXVzZkdDS1pKdFdKTS1JYkNuT3BjZHY0cHhOc1JKOXJ2T2RnQURsMTFheGxqWUxrRXExbjdvMDNSWnFTN2JuTWJTMFFKY1RYMzQ4T2RJY3pYazhQdnFiS0VKNHBPWEdFR204LUhUQlNlZlU3RUJoUmN1cUdjTHh5TzQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5bdc2d5d8acd",
-      "title": "Astrônomos encontraram sinais de um planeta escondido há décadas em dados esquecidos de telescópios, e se ele existir mesmo, será o primeiro novo mundo do sistema solar em mais de 170 anos - CPG Click Petróleo e Gás",
-      "published": "2026-04-12T13:59:00+00:00",
-      "summary": "Astrônomos encontraram sinais de um planeta escondido há décadas em dados esquecidos de telescópios, e se ele existir mesmo, será o primeiro novo mundo do sistema solar em mais de 170 anos&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUUUyeTJ3SnFYNUZ5RTdDOVN3XzRmYkNIN3VVZHdBcG5YUkRiTWdYUThVcC1NQWFfb0F6cW1DNDYxX3o0bW9ZeUdmTjl2bHJmLWpXNkZWelRLdUpzMFRtYmxxcGczVVJ6S0Y3RXJOWDdkMThDUDc1bzRUMGZWZTZHOS1zQ0NMcUV2ZmEtM29YYVZJYWhvUXE3dkNfUzYtWTByZFptRw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1a1776f9c82f",
-      "title": "Ser mais otimista pode diminuir o risco de demência, diz novo estudo - O Globo",
-      "published": "2026-04-12T13:15:44+00:00",
-      "summary": "Ser mais otimista pode diminuir o risco de demência, diz novo estudo&nbsp;&nbsp;O GloboCiência revela o segredo mental por trás de quem vive além dos 90&nbsp;&nbsp;R7Otimismo é fundamental para um cérebro feliz, diz estudo&nbsp;&nbsp;TerraEstudo revela que pessoas otimistas têm mais chances de chegar aos 90 anos&nbsp;&nbsp;Diário do ComércioOtimismo reduz risco de demência em 15%&nbsp;&nbsp;SpaceMoney",
-      "sources": [
-        {
-          "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZkVUYkpvc3BJcGtpaEFvNU12RC0wNUs4aF91R2dldzlVQkVPUk1Jaml4eGFHUzg3dWRCRG9KTVdEV1ItSFBXUllNNGhGcDRBcFNGVW5jVWJCaFlXYmlsT3VtTDFGT3N5X1M4eDJMdFI4TlgxZWE4NkxqWXhGY3JsMy1JbUJhVzlRRHNZdFV5MExsYUN0U2xTTDJPU0pBUG9saWdoaWFGVnl4UkNxNV9BS3RiNlVRQW1lUFdSRGwwVkHSAc8BQVVfeXFMUEdiZ2JBYnRTSmU0VDdSWDh5S1hnRDJrOExrTUdiYUhJQ1B2LU1lcXQwQTk0MHlDdG0zYjUzS0J1dWUxTzZRQUFiRnhqV3o1RTZGT281a0hOTUoxdkFsa1RtbFV5bjJ6M2ZITzBmekxuaUZ4MXlRd084ZjZXN1JRQTBjWUpCY05XMExvVjM1azAycVV6bGVjT1dJYzRtWFRXV3EzNHNlOUVUbU1iWHFKdWRIM3k4NUhxSUpSX1d3T3FoNXF6MVlfMlRVd0c4RzVR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "75e4d9d80644",
-      "title": "Robô da NASA detecta primeira tempestade em Marte e assusta até mesmo os cientistas - Diário do Comércio",
-      "published": "2026-04-12T11:31:00+00:00",
-      "summary": "Robô da NASA detecta primeira tempestade em Marte e assusta até mesmo os cientistas&nbsp;&nbsp;Diário do Comércio",
-      "sources": [
-        {
-          "name": "Diário do Comércio",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeU5MODRIUkN2aUFJSGRqcU52UHN4TzRNS0t6QVJqWmc4aFR4Nk9ueUtQbHlKMVgzUm9CRVZxV3NjVmdZMU9EcFExY3I0WE9MaVByVGJVV1k0WXBicUM1V0ttMDlLNDYwbVY0aHJEMXp6VVIzWm01N3g4VGZSRWk0Tll1bFVuTEpoMGpVWm91dS1jWkFfWkdtNURiWXFOU1dlVnJZVHBQN21sUm1PV3JFUzdGMzBzNW1UWDNrRg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a9010c42e696",
-      "title": "De volta à Lua, contemplamos uma Terra em risco - Folha de S.Paulo",
-      "published": "2026-04-12T11:30:00+00:00",
-      "summary": "De volta à Lua, contemplamos uma Terra em risco&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSHhFeWh2eVNsUFdoNGxDYVc5dlcyaDUtVm83Zl9jQk0zQzQ1NUZIVlhKcEM2NEN5dk5zdmJmT0JxcmhDMUVUUTlBSWlNYnBzNjdYSG5nTEE1VjhsMWRldzdWSVdLcS14TDUxb3BGOWR1U3VtU3dnczFldGlTaVVHLS1yOUFNMW9OSWNfemFOdzVoT1EwaTNCWWhkc2d6N1hRblFZUjZfMU1RQURJRktRM9IBtgFBVV95cUxNdmJjdVZLbThFODRqbHFmMnNXc3RieHdQQ3R4QlY4elJ3Z1NBblJheGMyNnJrb1JFMG5qZnlEdW9SVmxPT1RpM0t5ODBCSmo4b04wY09NcFRrTUM5WjdVSFI4LXRUcGRQT3A3eEJ6MlJQTk5TcHVVTEQtdFNsOThSdE92dm81V0RWMm1JUzd3Y3VCNTVVYmdwYlplWklhemE1OVhZV0Yyck5mOTdNX3RBWnpZa194Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0247ed175332",
-      "title": "'Chinamaxxing': moda de beber água quente de manhã realmente faz bem à saúde? - Correio Braziliense",
-      "published": "2026-04-12T10:11:00+00:00",
-      "summary": "'Chinamaxxing': moda de beber água quente de manhã realmente faz bem à saúde?&nbsp;&nbsp;Correio BrazilienseVer cobertura completa no Google Notícias",
-      "sources": [
-        {
-          "name": "Correio Braziliense",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbzNYUlhjRlhoQ3RxWEg4czdfeG1wYlFqQUs2UVlweERaQm5VUzQ3YUd2eFlSY1BLRDQxWW00ckUwNEN5c2poLXlTLW1WX2E1bEIxSjNjXzM3NFNFbHNfY202bDdNd1IxLWtMREVmSDVSVEp6cjZQdjRNckptQlBwUVNGSzRpS3pJODdRWTM1R1ZrWkFYcWtkTnZNUU5YS09DRTVPQkxaT0ZaaTk4dGMzXzlqTUtoV1VQbjV1cVBYUlYweFBkS0w0UGxoUW5sbkU1WE1pcNIB2gFBVV95cUxNbVo2NzBRWmtlUXpKNzJtTi03c3lzZzB3Vm1QZzU1Y2dHc0RlSXV6cWU3MDZqZ3FVMTFSN0JISVgwUUpSWWtlQnlQdHZ3VElKYkRVNjMwNDJrcElLY2NiS1pJUmRwQllsaDktLUlUMTMwZk9yV0Y4Zlk1Z1Q2Q0twZWROcEpfcVZHVkxmbnRGcGR2aEd6Q0YtcHB0cGdEYTVzWFdaQ1EyckVQcTVLdVF5aFRVSUo3ZFM1QjZrejFfSUx6anpEVHJBTThJQlBFRFkwTHpMM3NpeG5XQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6109e5c1b6c6",
-      "title": "Café da manhã, sono e exercício ajudam a 'destravar' a mente e lidar melhor com o estresse, aponta estudo - G1",
-      "published": "2026-04-12T07:01:43+00:00",
-      "summary": "Café da manhã, sono e exercício ajudam a 'destravar' a mente e lidar melhor com o estresse, aponta estudo&nbsp;&nbsp;G1Atividade física é mais eficaz que remédios contra depressão&nbsp;&nbsp;Agora RN5 dicas para treinar com foco em saúde&nbsp;&nbsp;Visor NotíciasApós os 70 anos, o hábito simples que pode reduzir o risco de depressão em idosos&nbsp;&nbsp;Estado de MinasRotina equilibrada pode “organizar” o cérebro e aliviar o estresse, aponta estudo&nbsp;&nbsp;LSM Notícias",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbGJvYWJhVXFGV1RuOFVPeTZ3ZTN4UjdVTlRhWHZfd0daWGpMRUw5Nlp2akNNMFIwNlZQVklOa3JWT3poTXNPUklaVXFtengtS3RaZ0dzdFRUU3lmT0w4QXIyQ1dGRGZZVkxxQURXb2lva3EtN3FFV0dPZHN3SEc0VXlabkxlQzZhek5JVWNFLVAyZ0VCQ19vOEJEMXFzVEI4YTBOUXdtZTVIaTRHVTFkOWFHSmlUaHNhZ2wzN0dlNkgzN1FBaGRBYUh3Nm5pZm5RNEJVY1JJVDVjczlLVnVaRnJlRFU0UUlx0gH3AUFVX3lxTE5zSVowWUxsaW05Y0xudkRkYWIxYUI4WmZ0aF8xbnJKaV80enFMc0VxSk5fLTRkUTVIcUt5NXJNZWMya0VkWGItLTAwM2NUenpvb2sxSW1NMmhUSEdLcGx5blVrLUh3YzBqc0Z3aTM1VmczRzBYVjB4bklVU0ZyNzNpZmp0aEd0NHdrWkZsc1BVWWlnQWNKb0J3aUw5TDBKejNEUlpZZi0zRHBhamlDaTJUSk51TC0tbXJhZWlnMmVFRmpBbFhobzctZUwta3ZMOXNwZ21jOVotQXUycVRqSGJuMTN1VHZ3UGFxNFJxMkIwUTdGcFJ4Mlk?oc=5"
         }
       ]
     }
