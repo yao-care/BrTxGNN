@@ -1,15 +1,39 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-04-15T07:51:17.876891+00:00",
-  "total_fetched": 98,
+  "fetched_at": "2026-04-15T13:42:42.473867+00:00",
+  "total_fetched": 97,
   "unique_count": 95,
-  "health_related_count": 36,
+  "health_related_count": 38,
   "news": [
+    {
+      "id": "0bac829147ff",
+      "title": "9 coisas que comprovadamente ajudam a reduzir o risco de câncer - UOL",
+      "published": "2026-04-15T08:31:00+00:00",
+      "summary": "9 coisas que comprovadamente ajudam a reduzir o risco de câncer&nbsp;&nbsp;UOLOpinião | Checklist da prevenção: o que você precisa fazer para reduzir o risco de câncer&nbsp;&nbsp;EstadãoPraticar exercícios físicos dessa forma ajuda a reduzir o risco de câncer e diabetes.&nbsp;&nbsp;Vietnam.vnEstilo de vida pesa mais que genética no risco de câncer, aponta oncologista&nbsp;&nbsp;O Bom da NotíciaAtividade física é aliada contra o câncer&nbsp;&nbsp;Terra",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbnNGeHA0M2xyUDBpRW4xOEZ6TE9GWXc4RTg2RTB4VjQ5MGRMM0hNaHpONTVzc1Y0Qm5vUTNDb0E4SGk1MHNhN2dwR1R3U3g1TUphZGNRSUVWM3hBdUxUcFRDdzVrUWR3VXBTZEJHRlBqRmZyVTRJdzgtelNWU1J5VDg5MEtybS1mZnBYRjZsZGc4UkxEb1Y3Zk1lXzZrbzZPVXpJYmtJb3lfUFI3UzRPMWVCQ1U5LXE2Mm1zcUtFTFBxam9jTVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7ee972be50ee",
+      "title": "Novo PCI: CNPq prepara lançamento de chamada que oferece bolsas a unidades de pesquisa do MCTI - www.gov.br",
+      "published": "2026-04-15T01:52:50+00:00",
+      "summary": "Novo PCI: CNPq prepara lançamento de chamada que oferece bolsas a unidades de pesquisa do MCTI&nbsp;&nbsp;www.gov.br",
+      "sources": [
+        {
+          "name": "www.gov.br",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPV3NUa0pKUnVuMkZybnM5Wl9UVW5ZOUx4X2xVRmZmVE5pNDdmV3JFM2dPTlZzdGgxNU1meS1kd2twZGtvczlaM2QwOUc3YkhHUUxrMEZvWjIzUUd1bjQ1UndTSnRtY3VlZjdnWW1jSlJmUFRKSFN3N0YyTV9LUnVydXlmRk1wbDFfd0VNbmNzWlpJZFAyaDlDV2Z1UGcwOThoZURBQm9RMXJnZ0lyZy1DMzV4ZEJ1c0ZKdEhETWhZOW5wSXp3TmlqTFVWYmV2bWZ4a2FmTEZPRkhFUHUxSExXTnJUMnhWTklVWkE?oc=5"
+        }
+      ]
+    },
     {
       "id": "b397fa09f95d",
       "title": "Vacina contra a gripe está disponível em 162 unidades de saúde de Salvador; veja quem pode tomar - Jornal Correio",
       "published": "2026-04-14T23:54:43+00:00",
-      "summary": "Vacina contra a gripe está disponível em 162 unidades de saúde de Salvador; veja quem pode tomar&nbsp;&nbsp;Jornal CorreioVacinação contra a gripe segue para grupos prioritários em Uberaba&nbsp;&nbsp;G1Saúde de Curiitba aplica 107 mil doses da vacina contra a gripe e reforça chamamento ao público prioritário&nbsp;&nbsp;Prefeitura de CuritibaPorto Alegre aplica 35,8 mil doses de vacinas no Dia D&nbsp;&nbsp;TerraEstado vacina 597 mil pessoas contra gripe e reforça convocação de grupos prioritários",
+      "summary": "Vacina contra a gripe está disponível em 162 unidades de saúde de Salvador; veja quem pode tomar&nbsp;&nbsp;Jornal CorreioEstado vacina 597 mil pessoas contra gripe e reforça convocação de grupos prioritários&nbsp;&nbsp;Governo do ParanáVacina contra a gripe está disponível para grupos prioritários no Paraná&nbsp;&nbsp;G1Porto Alegre aplica 35,8 mil doses de vacinas no Dia D&nbsp;&nbsp;TerraSaúde de Curiitba aplica 107 mil doses da vacina contra a gripe e reforça chamamento ao público prioritári",
       "sources": [
         {
           "name": "Jornal Correio",
@@ -21,7 +45,7 @@
       "id": "4b129756e407",
       "title": "Pulsa: saúde, bem-estar e qualidade de vida - Estadão",
       "published": "2026-04-14T23:12:17+00:00",
-      "summary": "Pulsa: saúde, bem-estar e qualidade de vida&nbsp;&nbsp;Estadão",
+      "summary": "Pulsa: saúde, bem-estar e qualidade de vida&nbsp;&nbsp;EstadãoEstadão cria hub multiplataforma de saúde e bem-estar&nbsp;&nbsp;Meio e MensagemEstrelado e multidisciplinar: conheça o time de colunistas do Pulsa&nbsp;&nbsp;TerraEstadão lança Pulsa, sua nova plataforma de saúde&nbsp;&nbsp;Grandes Nomes da Propaganda",
       "sources": [
         {
           "name": "Estadão",
@@ -42,10 +66,22 @@
       ]
     },
     {
+      "id": "f2739a12be20",
+      "title": "Doomscrolling faz mal para a saúde, mas não apenas mental - Meio Bit",
+      "published": "2026-04-14T20:51:08+00:00",
+      "summary": "Doomscrolling faz mal para a saúde, mas não apenas mental&nbsp;&nbsp;Meio Bit",
+      "sources": [
+        {
+          "name": "Meio Bit",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZVFjRE1Dcm45SHM5MXdRbUxTX1U0S0tqYTZiZmRZblgyWnE3emdUOVZYVVVYVU40UWVGUTNyem1uWjhLY0lLZllRczRFbnB0UDlUYlVfLVQxNXk1T2tPeWowd3pHV1ptaVRLWk9GRTdXbGRSWkVBazRhUlF4UjZUdVFhamk0QQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b5a3028265dd",
       "title": "Anvisa amplia faixa etária de vacina contra vírus da bronquiolite; entenda - CNN Brasil",
       "published": "2026-04-14T20:13:56+00:00",
-      "summary": "Anvisa amplia faixa etária de vacina contra vírus da bronquiolite; entenda&nbsp;&nbsp;CNN BrasilAnvisa amplia uso de vacina contra bronquiolite para maiores de 18 anos&nbsp;&nbsp;Folha de S.PauloAnvisa amplia para maiores de 18 anos uso de imunizante que previne bronquiolite&nbsp;&nbsp;www.gov.brAnvisa aprova ampliação do uso da vacina Arexvy para adultos&nbsp;&nbsp;Agência BrasilVSR: Anvisa amplia faixa etária de vacina contra vírus da bronquiolite&nbsp;&nbsp;Metrópoles",
+      "summary": "Anvisa amplia faixa etária de vacina contra vírus da bronquiolite; entenda&nbsp;&nbsp;CNN BrasilVer cobertura completa no Google Notícias",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -54,10 +90,22 @@
       ]
     },
     {
+      "id": "b44ab91c7c64",
+      "title": "Médica lista 4 hábitos que ajudam a conter o avanço da pré-diabetes - Metrópoles",
+      "published": "2026-04-14T20:09:00+00:00",
+      "summary": "Médica lista 4 hábitos que ajudam a conter o avanço da pré-diabetes&nbsp;&nbsp;MetrópolesDiabetes tipo 2 pode ser revertido? Estudo analisa critérios de remissão&nbsp;&nbsp;TerraPrograma de Prevenção do Diabetes recruta voluntários para mudança de estilo de vida&nbsp;&nbsp;G1Se você recebeu um diagnóstico de pré-diabetes, faça estas 4 coisas imediatamente.&nbsp;&nbsp;Vietnam.vnPré-diabetes pode ser revertida? Dona Rosa mostra que mudança de hábitos faz diferença&nbsp;&nbsp;MT PLAY",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbUVkTmFHd2dVZ2ZZQ2FoU1MxVDBfRVAtVG5VYkVtZE5DVktsZWt5cGoxMWhndVQwT0JyX2pqQTZYTlY2ZHp1TURWTk9Nb2RaNXdNRmJLaGZOWUR4akt3UnZwWGhNOFNHU3JaNjJCdnNQVjdfWTY2WTU4SE1VbWpzdlM2TTBhSG5ReVN5ZWVlUS01b05ndDZrTC14Tkd5VWx2bjhyTnpNNGJDZXNGdjhaZ3RoVTQ4MzhVdUJ3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "8b8a56d5aee8",
       "title": "Anápolis, Caldas Novas e Itumbiara registram primeiros casos da Gripe K em Goiás - Portal 6",
       "published": "2026-04-14T19:58:58+00:00",
-      "summary": "Anápolis, Caldas Novas e Itumbiara registram primeiros casos da Gripe K em Goiás&nbsp;&nbsp;Portal 6Gripe K: Goiás registra os três primeiros casos&nbsp;&nbsp;Jornal do TocantinsGoiás confirma três casos da variante “gripe K” da influenza A&nbsp;&nbsp;Portal iGGoiás têm três casos confirmados da \"gripe K\"&nbsp;&nbsp;G1",
+      "summary": "Anápolis, Caldas Novas e Itumbiara registram primeiros casos da Gripe K em Goiás&nbsp;&nbsp;Portal 6Goiás registra 3 casos de gripe K&nbsp;&nbsp;G1Gripe K: Goiás registra os três primeiros casos&nbsp;&nbsp;Jornal do TocantinsGoiás confirma três casos da variante “gripe K” da influenza A&nbsp;&nbsp;Portal iGGoiás confirma primeiros casos de \"supergripe\" e acende alerta para vacinação&nbsp;&nbsp;G1",
       "sources": [
         {
           "name": "Portal 6",
@@ -78,26 +126,38 @@
       ]
     },
     {
-      "id": "31101c3ebb3b",
-      "title": "OMS investiga doença desconhecida que matou 5 na África - iG Saúde",
+      "id": "93634f6dbf90",
+      "title": "Diretor-presidente da ANS defende mudança estrutural na saúde suplementar - www.gov.br",
       "published": "2026-04-14T19:39:00+00:00",
-      "summary": "OMS investiga doença desconhecida que matou 5 na África&nbsp;&nbsp;iG Saúde",
+      "summary": "Diretor-presidente da ANS defende mudança estrutural na saúde suplementar&nbsp;&nbsp;www.gov.brÉ possível regular o mercado da saúde?&nbsp;&nbsp;Outras PalavrasSaúde que se constrói antes da doença&nbsp;&nbsp;Correio BrazilienseWadih Damous promete fim dos reajustes abusivos em saúde suplementar e diz que operadoras devem&nbsp;&nbsp;Ultima Hora OnlinePrevenção e promoção da saúde são parâmetros imprescindíveis, diz ANS&nbsp;&nbsp;Agência Brasil",
       "sources": [
         {
-          "name": "iG Saúde",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQTFFZGdTNmhTNTJpREJVSElaakpoNm9tZFItTDV3ZExFdGhfMklsajJqSGQ2WWhIX3JEb1RjSXZRUHU2cU5UWEIwelk4cFROY3BQOU1EYlhCUkdRbEdrSS1vd2xxWFZqLW9OZ0RuV0ZEZG5TMU16SElGSlpVMjdpMkZkNDRzZk9GbFFBU0tpQ1F1bV9mUFFXdlZmVdIBoAFBVV95cUxNYS0tNU8xR2UtMG9qdzV4eXc4Ti1DV2dJUmM5Z0ZEdE9hXzJGZThpNzlESDFfVVliN2NldjNuMzJrSmJBd0Z6MkJWdGtGRUVCdXJhMTBTZVhYLTZLU29McnBLa2FSaUdndVJwTGtWTXBLc1Y0LUhTQzBkZjJ6QUNNdGQtMzNqakpTak51cWxWUnlZU2xva1Bsd2NwdlVzT0Qz?oc=5"
+          "name": "www.gov.br",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVk5mTUZyamg1WU9DbkEwRWh6U05GcXZuZklmWktkTVMyZ3RZcDFKai0yejgxY2lzQXFsYUJIZjdVYV85bEJjZV9QcjdkeDhZOUdwbGJTSzVTVjJSU3J1eUg3T1NzXzJ3d2JOa05Cek84c0k3RnFnTmFEMHpWV0lGS2phdUNzUXBoRDlmVGZXR3hhZWRqZE1PMG9rYkVXT2Zrd3JTMXYxMUFaZlFEVWc1UlMwYzdtcmtsSExCWjVKQ05jdDQtQWx0MU1n?oc=5"
         }
       ]
     },
     {
-      "id": "cfbf6f36b7cd",
-      "title": "Descoberto efeito surpreendente da batata doce no corpo humano e o que isso pode mudar na sua saúde - Super Rádio Tupi",
-      "published": "2026-04-14T17:28:22+00:00",
-      "summary": "Descoberto efeito surpreendente da batata doce no corpo humano e o que isso pode mudar na sua saúde&nbsp;&nbsp;Super Rádio TupiVer cobertura completa no Google Notícias",
+      "id": "ccc5a1a14fe4",
+      "title": "Gastroenterologista explica os sintomas da infecção por H. pylori - Metrópoles",
+      "published": "2026-04-14T18:26:06+00:00",
+      "summary": "Gastroenterologista explica os sintomas da infecção por H. pylori&nbsp;&nbsp;Metrópoles",
       "sources": [
         {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOXVxMkR6LWx5Q2VnU2tHOUhSb2hNS0pIN0t1RUlNcUUtR01FRFRwODZiQmJHeVZCSlRybWtyaXVuRF9SSzlncDg4YVdFN0Uxbl90bEwxNUpsZlJ0UVIzcEt5MV9wcmg4UVhxeFkxNzFmZm5xaTZhZXlWZ2FCTHRHUGVVaVVUbXdIQXhTS01TdW1KMWlLbXFEdGlZMDZ0ekFaa2VUTzR0SnVjQlhFcHdzUUV1ZDhvcU5BWnFQaW1sazByZ2Y1cU9mU0FVcllQeHJk?oc=5"
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE55Q0dpWk1ySmh2cWpvMVZiRXNzVXNBX2hFMF91a09HRUtkeTlfemZCRmgzUVdTT0ZYTHg3aTBDR1NMdUNLNDQ3Z0VhMlNUc3ZSYm9ld3NsUjMxZGZ0UmtOSUJLZWxkZXloZ2xpUHVFZkl6WFk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c473810d3b6d",
+      "title": "Estudos recentes nos alertam: os computadores quânticos irão suplantar a criptografia clássica mais cedo do que o esperado - Xataka Brasil",
+      "published": "2026-04-14T18:08:32+00:00",
+      "summary": "Estudos recentes nos alertam: os computadores quânticos irão suplantar a criptografia clássica mais cedo do que o esperado&nbsp;&nbsp;Xataka Brasil",
+      "sources": [
+        {
+          "name": "Xataka Brasil",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVzZ5VlI0T2VKYjRrQk44bjBfRUFvMHZEeE00MEd0dVRfZVZzdjQzTVhtNTRIeE5uVzRqa3Z3WEFYNU9KYUhFc25GZGY0WnBTRFNRVkFYNFYzNkxRYmd2Sl9LV2VjdmRaMWR3dHkzdGc3SzhPX29FZkxCVjJrUmRTTzd1eDFpTF8tNFl5OXFsRU5faGhDZFNsLXFWVWhTOFZnb2RGOGl0bkoxSllOMnh0aG1mTWpRSXo0bDZ1bkVRbWlOWmFlcHNrQVFFSXI1WHI5Z2FYRDNpZTNCMXJLTHJUa3lBQ3F4dmxGbDRCVmdn?oc=5"
         }
       ]
     },
@@ -170,6 +230,18 @@
         {
           "name": "Agência Brasil",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOb3I5Q1pEWnk2dDJOQlBWY3d1OUpYbkVFS0pVQ2pmM1FWSXIyRUpMTEcwWlBvWmN4RVhKdmVzNVNNNy1ZclkzRk82TDk3YzhSY1dRRHpKcmVwajlrcE9jNHNKemN5bGJlRzcxOGlVVFYwZ0E3eVNhbDV5bkQ3eWJzUDFhdWptME5zb0hrR281alA5WFZuaWpxRFRsUUFTYWo2ZG5xYkdPZkRZSk9IcTA5SExsNWpPazVRQUhRam5QdVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4c37f0db2e53",
+      "title": "OMS investiga doença misteriosa que já deixou cinco mortos em Burundi - O GLOBO",
+      "published": "2026-04-14T13:13:32+00:00",
+      "summary": "OMS investiga doença misteriosa que já deixou cinco mortos em Burundi&nbsp;&nbsp;O GLOBO",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN19idFYxUnZZNndZRms4SGpoYWdHWFRmTGdNQ2xVY0h2OXowVERTTk9VcHdrRzQxenE5LUdkX041MTU5NnZxbGMzb3U4T1NfdlpocGR6dEVYU2RENndTWnR1bURpUTRWOFRNQWQ4akd0SUJRdUl2N212ajZZUHFCdDNaNFJnbS1kMDVvMkFxUGc5RWk0SnJYN3pIU2h2eU1vRTZkQkttYzNqVUpkdWdiWTVCbEVhV2lxY1hDRk9jVE9aa03SAdIBQVVfeXFMTVo5WGMwMmJ5bVdheHBSNjg2MHRXNjFSQU5oaDZwTlZXdXJiUjdubHNIMnJxXzgtLUd3ZlBOS0hRX0pFeXpMNEI3RUJKVWQ5X3pabFprRlVIZ29QaEt1STFiQW0zV0VUaXZqMDZ5RUExSkpvRUt1WUZKVzh6RVRkcVo5Y2owY2ltQ0RtQlVENG5sejM0cjVPR0ZYMGFIWGVmRm1uWS00Z1ZLSERNQzN1NXNzbU1ESFg1VXdyUktHUEM5d21XZTh5WnhBUDJXc0Q1RTBB?oc=5"
         }
       ]
     },
@@ -258,14 +330,14 @@
       ]
     },
     {
-      "id": "750d66774df2",
-      "title": "Como chatbot de IA descobriu condição rara de mulher após anos de diagnósticos errados - G1",
-      "published": "2026-04-14T05:00:39+00:00",
-      "summary": "Como chatbot de IA descobriu condição rara de mulher após anos de diagnósticos errados&nbsp;&nbsp;G1Britânica descobre doença rara após relatar sintomas ao ChatGPT&nbsp;&nbsp;Rádio ItatiaiaChatGPT ajuda jovem a descobrir condição rara após anos de diagnósticos errados&nbsp;&nbsp;Olhar DigitalApós anos de diagnósticos médicos errados, jovem descobre doença rara graças...ao ChatGPT&nbsp;&nbsp;SIC NotíciasSaiba como chatbot de IA ajudou jovem a descobrir condição rara&nbsp;&nbsp;CNN Brasil",
+      "id": "0395f307b4bc",
+      "title": "Nomeado a Conselho do Papa, Carlos Nobre destaca risco da emergência climática: 'Não temos que nos basear em visões antigas' - O GLOBO",
+      "published": "2026-04-14T06:30:40+00:00",
+      "summary": "Nomeado a Conselho do Papa, Carlos Nobre destaca risco da emergência climática: 'Não temos que nos basear em visões antigas'&nbsp;&nbsp;O GLOBO",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUVQxa2MwLV96ck80Q1E2TG9heFh4VUhnOG9fN2pWcWVhSzl2eUp3bDJLTDZFbUowbXNCcGdXdGZvNGd1dlUwM3h5MGtXOTlhRHhuOE9VWjEyS2dLZDVNN1gwd09JLW5hb2Fzdlg0Q3Z5SHZXNl9oaVgxVU9Tb1VnSmNIczlNSU5NZ29VWE1wenMxbnJsTElYcE9wMkVFaU4tYWZHQTNfMWRsdk41dEZHUDFRYmFGVjVPWUpSUmstR3dpU09ReG0yUjBHSUROQTVReFVIMHp0LWpLLWPSAeoBQVVfeXFMT1piYVhyYm4xTG5DN1I4SXRJaDBtd2RhSnZOOHJ2ZWRLWlNscW9Cc0Q1T2ZFVFo4Vk1QcEdrSFhiaGdPbVcyUFg0VnpPY1lEUWNpZllkQnJWUkRzWmNVRnU0UHh3OXpOWlBORG8tV2lpUUdGaXJtU1Y1SDZsNmR6dHBLV2JNRkJRdE5DRDdWQ2tTZ2hReXZFWEV5M2hLeVMzVDNkcEp4SmNMUE00dElnQ2gwOWhramhlUHNyZGxlWWZfTG4wYjVBS28wa1JleWJoY25JLTBiQ1htdlZMY0FETGhmTGVvUFczZXVn?oc=5"
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPR3pUMzYyNFd5WGJOdXM0ZXMyakhBR0ZqRDBqWEMtb2FucGFEdGUtVzNsS1hCYmhtSEJtbV9HelhQV1FGZ0tiNUY5Q2lSZDBjV3BqeHRiZWVTc2g1ZjNCYzhhVFVvdGJWZWNVcDk1cFFNTHhlNFZtTHR5VU45UlJ6Q2VDNzFGcWlER1BwUjk1N01aaHZnVm1iTHg2aFZpWTR0ZzhnY1VSVEl4bFhNSEVvYnRBdlFCdnRoOTlnTk9CQXE4UEZ6aTFER3N3ZHBHdUprR21DX3ppZ1RJaUs0ZVp5NnpiTzFTTjFITXJwcmdLQy10OEhpOGo1Z2ZIb3I2MjJ1aVM3VmNhblHSAZcCQVVfeXFMUHFJZ1BzTGVhZGt1cFRyM0lTQzk4SWxYVjJ2cUVFZVNhU3BaYUhPN19PWVo3Yk0ycGNrQmhhLUxDZHpOczBHcVZhNVkyMXBRNldSRlhQM3FMcUlnbGxVTFFIY2dJYzBha1RMeGZaUTlLcHV5dm50eC1jVjEzUkdtdHBCcHlqTkFPME1UVmdUdFdkRmFTbmw3M2ZiRkt2UzdIa1VVdDZRQm9KMmZuOS1XUGxRY0FleXQxWllabkVsYTF0RWV5SGtTOGdUaVNrYkZFUU02aDJKUFYyNUItYXJGeFZ5R203b19NVGsxUmpucFJtMWZfSWVWT2J3djVjOVQ5Z1lCWkFjOFlZRHJKWTlSMnJwbTlnY3NZ?oc=5"
         }
       ]
     },
@@ -282,14 +354,14 @@
       ]
     },
     {
-      "id": "43c58ab08656",
-      "title": "Vacinação antirrábica começa na zona rural de Teresina no sábado (18) - CidadeVerde.com",
-      "published": "2026-04-13T22:36:00+00:00",
-      "summary": "Vacinação antirrábica começa na zona rural de Teresina no sábado (18)&nbsp;&nbsp;CidadeVerde.comPrefeitura divulga cronograma de vacinação antirrábica animal em Teixeira de Freitas&nbsp;&nbsp;Prefeitura de Teixeira de FreitasVacinação contra a raiva para cães e gatos começa no sábado (18) em Teresina; veja calendário&nbsp;&nbsp;G1Vacinação antirrábica prossegue esta semana na Região Serrana&nbsp;&nbsp;Prefeitura de MacaéVacinação antirrábica disponível para animais&nbsp;&nbsp;Busão Curitiba",
+      "id": "b680a7d022c1",
+      "title": "Como chatbot de IA descobriu condição rara de mulher após anos de diagnósticos errados - Época Negócios",
+      "published": "2026-04-13T23:06:54+00:00",
+      "summary": "Como chatbot de IA descobriu condição rara de mulher após anos de diagnósticos errados&nbsp;&nbsp;Época NegóciosVer cobertura completa no Google Notícias",
       "sources": [
         {
-          "name": "CidadeVerde.com",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOWdxUElfZVptMkFhWUI0bXFUOUJHN2NzbVNrYl9rZ3NTRFg2d2lDWWptWGVXQ1RVMnVmc2QtX0tlcWp1SFU5OTVvOTdCNDdBVi1sTXRVQ19ZRnZxYi04RDZ2WkMzbnI1V2hncjlzMlV3NTU1dC1aeU04OG5KUVp5TzNoelRpdXlZa1lfb2VFSW5NR181aWxpM3l6dXNZNHdEbE81UlBWU29aN2c?oc=5"
+          "name": "Época Negócios",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQaGtNTHVsOTR2NjhUZ3JBS0FpSFhqWlhRUXFiSzhfZlMyREJhb1F1NXh3b0tIUW9Qa0JNdE41bFFEcEt3NTQ3eHlOTW5vb2F4Z2psaS1sZk9UblNWTlhUQUV1dmYzSldvWHhNY1ZBLXJNaUpPclV0LWRnb0k1Xy00eHd3czhxMlBMMjJ0Sng5U0dHRThVc1VBSnloTE80R3VOMFgwVkE0ZnFQcERUVUEydG9FUlBkOWt5OGliZnliS3FVMmljNTJQemhWcXR1cGtjc0I5dDBhbTBoTjNGM3doemNvNFlldEc4dTFFcWxULVdzQ2vSAYICQVVfeXFMUHhPYUxoMnZReWJiT2NwNnpFRXFuNVQxMG5uVm5YTDRIU3lwMTRnbUJkQmp4MF8wMzM3Y3UtRXRCU09pZ255Mk11NXN5dGVTZl9yblV6Nm1la1BNOGFSbWdSN1R3U2tvZGhCNUFsLW1IRlB2NDFxcVhraEJ3RW50OFhGckE4ZHYteGl2V0FKT2RJNlJWRlVIRVkyWWtTNUpuaFlWUm1RMVdDRVluamRISGJJMURnT3BKUDZ6X1RUWUxsTzNnUTFYeTFFQTJ3SzBEdzZqV3Y5U3BQcmVLNWRCWXUtYmJZZjViYkIwYi1ibS0tY0tsTHM4TVNNelkyRzRxekZ3?oc=5"
         }
       ]
     },
@@ -309,7 +381,7 @@
       "id": "c6ddac9d9988",
       "title": "Armadilhas mostram eficácia contra mosquito da dengue - Tásabendo",
       "published": "2026-04-13T19:44:00+00:00",
-      "summary": "Armadilhas mostram eficácia contra mosquito da dengue&nbsp;&nbsp;TásabendoVigilância Ambiental de Sumé adota “ovitrampas” para monitorar o Aedes aegypti&nbsp;&nbsp;Prefeitura de Sumé - PBLavras avança no combate ao Aedes aegypti com expansão de armadilhas de monitoramento&nbsp;&nbsp;Prefeitura de LavrasNovo sistema rastreia focos do mosquito da dengue e muda combate em Canarana&nbsp;&nbsp;jopioneiro.comCasos de Dengue Caem 93% em Itajaí, mas Vigilância deve ser Mantida&nbsp;&nbsp;jornalfolhalito",
+      "summary": "Armadilhas mostram eficácia contra mosquito da dengue&nbsp;&nbsp;TásabendoPrefeitura de Paraíso reforça necessidade de cuidados para o combate ao Aedes Aegypti diante do aumento de casos de dengue&nbsp;&nbsp;Agência TocantinsVigilância Ambiental de Sumé adota “ovitrampas” para monitorar o Aedes aegypti&nbsp;&nbsp;Prefeitura de Sumé - PBLavras avança no combate ao Aedes aegypti com expansão de armadilhas de monitoramento&nbsp;&nbsp;Prefeitura de LavrasCasos de Dengue Caem 93% em Itajaí, mas Vigil",
       "sources": [
         {
           "name": "Tásabendo",
@@ -330,30 +402,6 @@
       ]
     },
     {
-      "id": "ea5a076121dd",
-      "title": "Como a falta e o excesso de carboidrato podem afetar o seu coração, segundo cientistas - Globo",
-      "published": "2026-04-13T16:33:26+00:00",
-      "summary": "Como a falta e o excesso de carboidrato podem afetar o seu coração, segundo cientistas&nbsp;&nbsp;GloboPesquisa internacional mostra que cortar carboidratos pode ser tão prejudicial quanto o excesso e reforça importância do equilíbrio para o coração&nbsp;&nbsp;CPG Click Petróleo e GásConsumo moderado de carboidratos não aumenta risco cardiovascular&nbsp;&nbsp;BossaNews BrasilDoce veneno: como o excesso de açúcar afeta o sistema circulatório&nbsp;&nbsp;MetrópolesExcesso e escassez de carboidrato ",
-      "sources": [
-        {
-          "name": "Globo",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaGVzczgyMUpub1g5U2FJSXhqMXVLZTZ4aHhVZVNCWnZVQVo4aUZORWV0WXl5eUtScXRzZ0FGdlpTY0tLZ3pQeEc0U0I3cHQ1dHVYcEdvOFFNcVBFZm5Dam45dzg2dDdQZnhKLVVlbzNwMVp5amJmYUQ2czg1RG9OZVBtbnI5bHE5WFgxWEw3NVRYSDljSXZyUG1JbWpZZzl3SkVTbXRSRnl6SVA2T25JY3RHeHBCNFJLaEFwVmNZckhWeFVTR2hjbXc4X2JnLU9JRno5Skp2UFlQZXFI0gHrAUFVX3lxTE1lcUE1cHllNl84a09sNl9CemZwdXhHaGRHXzhDWGFqejhJUnVyWmF0MWU1eU9PYVdmS1hyU3pZUWphTU05RTVqek1YTm94eWpTaGo4M1A1TU1BU3pPbUxsa3FCMXF0TUIyRi1LS0RzYzVpVG9SendtTzlXWGR0c2xCRDV2YVRVcWI5cTByRmdLWExxOElwelE0V2N4NllwRmV3bUhVa2hQRnBKalA5bG50LW1qMzRnZWw0dFpMdG1JTjNwSng0TTlORG52VGlpX3ZLN1VRLTVubDJmb0RsVnJBcXF0WEpKSEJGaGc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "aadf35fc50b1",
-      "title": "Excesso de vitamina D pode causar danos e intoxicação, afirma estudo - Metrópoles",
-      "published": "2026-04-13T16:17:40+00:00",
-      "summary": "Excesso de vitamina D pode causar danos e intoxicação, afirma estudo&nbsp;&nbsp;MetrópolesA vitamina D desempenha um papel decisivo na regulação do humor e na prevenção da depressão sazonal&nbsp;&nbsp;Tua SaúdeSeu corpo pode estar pedindo vitamina D e os sinais passam despercebidos&nbsp;&nbsp;Portal UaiCuidado com o excesso de vitamina D, alertam cientistas&nbsp;&nbsp;noticiaalternativa.com.brÉ assim que o corpo sinaliza a falta de vitamina D além dos ossos fracos&nbsp;&nbsp;Tua Saúde",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBUM0YxNWZiSy1iTm5fRjBEeXAzNHJYSExXVWtjUjUzX0hDbUhJU2tjY1NLcnBiTmdsNmtiQmctNXlaRTF3cXVfcDJENUNwYUlwOW5HNktGM2IwUDVTNUdOdk5sRFJLZ08ycmJTWDVyczR0QklJ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9f14b6a2bf95",
       "title": "Canetas emagrecedoras: estudo lista novos possíveis efeitos colaterais - CNN Brasil",
       "published": "2026-04-13T16:13:13+00:00",
@@ -369,7 +417,7 @@
       "id": "8557f31aa3d7",
       "title": "Estudo acompanha por 1 ano quem come aveia todos os dias e percebe essas mudanças no corpo - Jornal Correio",
       "published": "2026-04-13T15:12:51+00:00",
-      "summary": "Estudo acompanha por 1 ano quem come aveia todos os dias e percebe essas mudanças no corpo&nbsp;&nbsp;Jornal CorreioComo melhorar o colesterol? Saiba escolhas simples no dia a dia&nbsp;&nbsp;Correio BrazilienseDois alimentos acessíveis podem ajudar a controlar o colesterol, e você pode começar a usá-los ainda hoje&nbsp;&nbsp;Estado de MinasSe você come aveia no café da manhã por seus benefícios nutricionais, a ciência sugere: melhor no jantar&nbsp;&nbsp;MINHAVIDA.com.brO que acontece com o seu c",
+      "summary": "Estudo acompanha por 1 ano quem come aveia todos os dias e percebe essas mudanças no corpo&nbsp;&nbsp;Jornal CorreioComo melhorar o colesterol? Saiba escolhas simples no dia a dia&nbsp;&nbsp;Correio BrazilienseDois alimentos acessíveis podem ajudar a controlar o colesterol, e você pode começar a usá-los ainda hoje&nbsp;&nbsp;Estado de MinasSe você come aveia no café da manhã por seus benefícios nutricionais, a ciência sugere: melhor no jantar&nbsp;&nbsp;MINHAVIDA.com.brAveia ajuda a reduzir cole",
       "sources": [
         {
           "name": "Jornal Correio",
@@ -402,38 +450,14 @@
       ]
     },
     {
-      "id": "d2a26ad8d636",
-      "title": "Injeção experimental reverte osteoartrite em semanas, mostra pesquisa com animais - Época Negócios",
-      "published": "2026-04-13T12:59:17+00:00",
-      "summary": "Injeção experimental reverte osteoartrite em semanas, mostra pesquisa com animais&nbsp;&nbsp;Época NegóciosUma injeção contra a osteoartrite: cientistas descobriram uma nova abordagem para o tratamento&nbsp;&nbsp;Tua SaúdeUma injeção que pode regenerar articulações: a aposta ambiciosa da ciência para transformar o tratamento da artrose&nbsp;&nbsp;gizmodo.com.brCientistas testam remédio que pode regenerar articulações em semanas&nbsp;&nbsp;DIARINHOMedicamento Experimental Reverte Osteoartrite em ",
+      "id": "ec539d2cf976",
+      "title": "Urologista diz se fazer xixi de madrugada é sinal de alerta do corpo - Metrópoles",
+      "published": "2026-04-13T13:12:00+00:00",
+      "summary": "Urologista diz se fazer xixi de madrugada é sinal de alerta do corpo&nbsp;&nbsp;MetrópolesNoctúria: como parar de acordar para urinar à noite&nbsp;&nbsp;Campo Grande News3 hábitos noturnos que prejudicam silenciosamente os seus rins&nbsp;&nbsp;Vietnam.vnAcordar para urinar à noite pode ser sinal de alerta, explica urologista&nbsp;&nbsp;portalviu.com.brA bebida certa à noite para proteger os rins sem acordar de madrugada para urinar&nbsp;&nbsp;Tua Saúde",
       "sources": [
         {
-          "name": "Época Negócios",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZ2xSU2JGcVlQdnF6RGVidkxOeUMzaC1kUUFoLWxMZEJHWmt6RHozT0xDcnkxdjVOS09Ic2RfQ0VuSVNWNmp5a3pOMmZPc0Z6Uk53dVh4Q0IxX3BVdXA0SEh1QkFlNC0wYzZBSFVTRmdYelZSeVR5Q2MzRXFLRDVwSlg2ODRFTVhObXk5d2lZRDk5YVJiUFV0TWd4ZVBPRUxGMVhocUV1N1ZiMUhPemZOMm1MZVpKanFGTmZBd3RKbHRCd1V6eFQyT3lxUDZMbl9lcFlwWlR6cG0wMC1zUGVIcW1RblLSAfMBQVVfeXFMTUVXdFp0czNUdWdSNGN0RWRtdjctYXFIZFZPNFZvanpwUElSNG1uQ1F3YUVyX0MxbWxCd3pObUpSVFZHam96ZS01VWlBcElZQXUwSUVtVUNkNzZjMS00dU9FY1d1ZWpWZWhlTEh5aS1nRlFaYUYxWWVsZGxuVEtLU05UXzlpY3Bid0E3VkNMaWFYWW9KR3ZCWEVaWW92OFdJSUM1TkYzYy1mN09NczFxWDdRMTNocmg4Z1hHS0xiLTN6TGdfaXpMUlN0ZUxVSHFFSEM2LUNBeGdQV3IwUlB0Vzd2UHRUQ2tESk9SR21RTzZvSzhF?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "23351603354e",
-      "title": "Vitamina pode reduzir o acúmulo de proteínas associadas ao Alzheimer; saiba qual - Folha PE",
-      "published": "2026-04-13T12:06:00+00:00",
-      "summary": "Vitamina pode reduzir o acúmulo de proteínas associadas ao Alzheimer; saiba qual&nbsp;&nbsp;Folha PEEssa vitamina pode reduzir o acúmulo de proteínas associadas ao Alzheimer&nbsp;&nbsp;O GLOBOVitamina D pode reduzir risco de Alzheimer? Veja o que diz novo estudo&nbsp;&nbsp;Veja SaúdeO nível dessa vitamina pode revelar seu risco de Alzheimer anos antes&nbsp;&nbsp;R7Estudo revela a vitamina promissora que pode ajudar a reduzir proteínas associadas ao Alzheimer&nbsp;&nbsp;Terra Brasil Notícias",
-      "sources": [
-        {
-          "name": "Folha PE",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZFR1SnJBM1gtWFFadnhXeUh5LUNtcnNBTVR5bFRDZ0Z2OW1QMjhWVVowcnFvX1VweFNQUEkwbWt5bUVlQXg2RXhHdnRBZm1rOWwtSUpDOV9tV09FTFVHNEM2U1lNWXJJV2drN3p6eDJLUTg2UGp4WG9DN3JrQVRqWkEta2o0Rkhzb3F2OENJd2dTbXZIOEZXOWR1dU00NWwtRUZ5SkZKWTNvZnBIVTZraE5R?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "87da4752e14c",
-      "title": "'Jovens têm dificuldade de pegar o telefone e marcar uma consulta', diz pesquisadora - BBC",
-      "published": "2026-04-13T11:00:47+00:00",
-      "summary": "'Jovens têm dificuldade de pegar o telefone e marcar uma consulta', diz pesquisadora&nbsp;&nbsp;BBC",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PbmlIVHZCa09vY19sUUFmdDM5QmVSMDV0VnVzdHJtS0NYQldpZ28yS21oRDQtNjB6WW5mVVVuX1V6eE1aM09WUnR3MXk4cEtiMVFGaWJSTW82X21fdVFQRW1n0gFnQVVfeXFMT0t2d0Jnb09wUWEwTVZHdjJpY3ZlOUNHZFBKX1JaQXRlUzJwTGtTSjdKSlREMzlRVnF6V21HQnRyWGRxelF4dGVjb3VWOTJTWGkzbkt0eFJJTlRqSlJDaEJTM3NJT2FTOA?oc=5"
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVlp0VXo3dnp5M21CWm1oaGJSem1JN2Z1NVhwUFVDQV9fRHg2LVNRcTBBcjJGN3MxSXZobWw5TjkzZXVwYzhlcndTNGN0REJ5ZjVmdWFDX0JXZnU0Q0phNlYzdUpuOE1vV2JSRkZ2cktuRUphalItaHpZVVIzYjc3NktKWWdlT2YwelRXZVFvV05fcG1oTkRvRDk0dHVXTUJsY1d0U1JtTkxVVjUxbU5uZ3pCVUFDeDBMT01Kag?oc=5"
         }
       ]
     }
