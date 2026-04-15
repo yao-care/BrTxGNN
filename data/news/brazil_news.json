@@ -1,10 +1,46 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-04-15T02:44:23.335362+00:00",
-  "total_fetched": 96,
-  "unique_count": 93,
-  "health_related_count": 38,
+  "fetched_at": "2026-04-15T07:51:17.876891+00:00",
+  "total_fetched": 98,
+  "unique_count": 95,
+  "health_related_count": 36,
   "news": [
+    {
+      "id": "b397fa09f95d",
+      "title": "Vacina contra a gripe está disponível em 162 unidades de saúde de Salvador; veja quem pode tomar - Jornal Correio",
+      "published": "2026-04-14T23:54:43+00:00",
+      "summary": "Vacina contra a gripe está disponível em 162 unidades de saúde de Salvador; veja quem pode tomar&nbsp;&nbsp;Jornal CorreioVacinação contra a gripe segue para grupos prioritários em Uberaba&nbsp;&nbsp;G1Saúde de Curiitba aplica 107 mil doses da vacina contra a gripe e reforça chamamento ao público prioritário&nbsp;&nbsp;Prefeitura de CuritibaPorto Alegre aplica 35,8 mil doses de vacinas no Dia D&nbsp;&nbsp;TerraEstado vacina 597 mil pessoas contra gripe e reforça convocação de grupos prioritários",
+      "sources": [
+        {
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdmZoR28xeUlYVU02LVptVFVuZEhfUVdaUHVLNUFfZUJ6cWoyR1dPODYxWFNxS2Uyb2gxUDE3MWtFcnF6MFdhT25Cei1sVV9sRG44ZlRNcVhYLWFaQ1pZbzRRU0RwMDhJRnJsUkRsQTZNRzNneFJIM1hwa25pQk51WXgzYUk1dF9CRkI3SXZablctcHg4aTJqMTd2eVpNQ1VJcU9kbkZFbmNjd0JWbm5xMUFKSGd2QU1JV3hxRUpVR2RLZkVlMnI4STljLVpscFNwVHVDS05hdVVLdW8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4b129756e407",
+      "title": "Pulsa: saúde, bem-estar e qualidade de vida - Estadão",
+      "published": "2026-04-14T23:12:17+00:00",
+      "summary": "Pulsa: saúde, bem-estar e qualidade de vida&nbsp;&nbsp;Estadão",
+      "sources": [
+        {
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5YT0NrYTRIeXJISC04Rkw3eFJoUzhSTHdtX1hYWE9ZZEhubmdCVl85SUExUDkxWGlNUW5nc2MwRmJXaE5oTlVWZQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3ed5187adfe5",
+      "title": "Após dez dias orbitando a Lua, a ciência confirma que os astronautas da missão Artemis II retornam com o coração menor e o corpo alterado - CPG Click Petróleo e Gás",
+      "published": "2026-04-14T21:33:00+00:00",
+      "summary": "Após dez dias orbitando a Lua, a ciência confirma que os astronautas da missão Artemis II retornam com o coração menor e o corpo alterado&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZjNNaERsM2tuT3lleEdyX3RnM3QyTHdMS0lOUE0xM2VUcllscTBiZF9vWFVOR0ZFNVNCdl91QkNlWVpJbFdLQnVBSHp4bEVGWXRjVEtRcGxKSFJLM3dTcDJFZy1jVWlQNlNWdENyc1lBemlETEZvWUFpTzFpdlYtOHoyTXN3ajdMcTJYeU5ibmJLZDVsUnRKSm9TVDVORlJwYWVXMFNNYjh5ZnVOeE43YkhQaWpVMFhkQTZzd2JlNm9JbGFidDE0TU93dkctbzJwQjZjSWw3XzVYT2wzeHpiekYtYXplV0R4elRwd0Ffaw?oc=5"
+        }
+      ]
+    },
     {
       "id": "b5a3028265dd",
       "title": "Anvisa amplia faixa etária de vacina contra vírus da bronquiolite; entenda - CNN Brasil",
@@ -21,23 +57,11 @@
       "id": "8b8a56d5aee8",
       "title": "Anápolis, Caldas Novas e Itumbiara registram primeiros casos da Gripe K em Goiás - Portal 6",
       "published": "2026-04-14T19:58:58+00:00",
-      "summary": "Anápolis, Caldas Novas e Itumbiara registram primeiros casos da Gripe K em Goiás&nbsp;&nbsp;Portal 6Gripe K: Goiás registra os três primeiros casos de variante da doença&nbsp;&nbsp;G1Goiás confirma três casos da variante “gripe K” da influenza A&nbsp;&nbsp;diaonline.ig.com.brGoiás confirma primeiros casos de \"supergripe\" e acende alerta para vacinação&nbsp;&nbsp;G1Gripe K: Goiás registra os três primeiros casos&nbsp;&nbsp;O Popular",
+      "summary": "Anápolis, Caldas Novas e Itumbiara registram primeiros casos da Gripe K em Goiás&nbsp;&nbsp;Portal 6Gripe K: Goiás registra os três primeiros casos&nbsp;&nbsp;Jornal do TocantinsGoiás confirma três casos da variante “gripe K” da influenza A&nbsp;&nbsp;Portal iGGoiás têm três casos confirmados da \"gripe K\"&nbsp;&nbsp;G1",
       "sources": [
         {
           "name": "Portal 6",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZGtDdlBNNEQwbWFrTVFUdTVHcWItTDZqTmdBaDBpaVlvS2c4QXB0d0Voel9yMzZodGdlR2N6ODBfc2JLcG04aW1zV1BkT3pvNzRUTWhFSzJZczc3WS1RX0tNanNNN0EwUEttQjlrMzMxY3VQOG12R0YwaDE0VWlPNG16MzktT1B1cEFQYVd6clZRV3VMcjZVd0RTS1VsZGZXcUlyc3hSRUczUERONXh5Skd1YjM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4cae1c002d83",
-      "title": "Lúcia Helena: Pesquisa acha compostos potencialmente carcinogênicos em pães e biscoitos - UOL",
-      "published": "2026-04-14T19:52:54+00:00",
-      "summary": "Lúcia Helena: Pesquisa acha compostos potencialmente carcinogênicos em pães e biscoitos&nbsp;&nbsp;UOLAlimento que brasileiros compram todos os dias pode causar câncer, revela estudo&nbsp;&nbsp;Diário do ComércioAlimentos do dia a dia podem aumentar risco de câncer; veja lista do que evitar&nbsp;&nbsp;Banda BNovo tipo de trigo pode reduzir substância potencialmente cancerígena no pão&nbsp;&nbsp;gizmodo.com.brCRISPR | Cientistas desenvolvem trigo com níveis ultrabaixos de asparagina para reforçar",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQWloRDRienlpaW9tS1hpOXlvTDVXSmhmR2x5UGpyMDJISTFtb3E2ME54NmVKVjJ2bzlWc1E0NTVfNy11Tmg4WmNoLTMzeDQzaTZKbGtjMVFrSmxhdmdsYTV6LWh0R1F3LXNuZzFEUHdqWGx4N2RiX3h3a1BmM1A5bFZGN1lQM20yRFlqZVVfOUw4N0pnNm52QjB5RFFnajhYWTBfRThvdnBNa3JJNXBybXJDbk5zZ0NFb3dVOUhDTFJESmdYVnljOXQ4VzdsMEFxSXlaUXJ0VQ?oc=5"
         }
       ]
     },
@@ -54,14 +78,14 @@
       ]
     },
     {
-      "id": "f2739a12be20",
-      "title": "Doomscrolling faz mal para a saúde, mas não apenas mental - Meio Bit",
-      "published": "2026-04-14T17:58:55+00:00",
-      "summary": "Doomscrolling faz mal para a saúde, mas não apenas mental&nbsp;&nbsp;Meio Bit",
+      "id": "31101c3ebb3b",
+      "title": "OMS investiga doença desconhecida que matou 5 na África - iG Saúde",
+      "published": "2026-04-14T19:39:00+00:00",
+      "summary": "OMS investiga doença desconhecida que matou 5 na África&nbsp;&nbsp;iG Saúde",
       "sources": [
         {
-          "name": "Meio Bit",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZVFjRE1Dcm45SHM5MXdRbUxTX1U0S0tqYTZiZmRZblgyWnE3emdUOVZYVVVYVU40UWVGUTNyem1uWjhLY0lLZllRczRFbnB0UDlUYlVfLVQxNXk1T2tPeWowd3pHV1ptaVRLWk9GRTdXbGRSWkVBazRhUlF4UjZUdVFhamk0QQ?oc=5"
+          "name": "iG Saúde",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQTFFZGdTNmhTNTJpREJVSElaakpoNm9tZFItTDV3ZExFdGhfMklsajJqSGQ2WWhIX3JEb1RjSXZRUHU2cU5UWEIwelk4cFROY3BQOU1EYlhCUkdRbEdrSS1vd2xxWFZqLW9OZ0RuV0ZEZG5TMU16SElGSlpVMjdpMkZkNDRzZk9GbFFBU0tpQ1F1bV9mUFFXdlZmVdIBoAFBVV95cUxNYS0tNU8xR2UtMG9qdzV4eXc4Ti1DV2dJUmM5Z0ZEdE9hXzJGZThpNzlESDFfVVliN2NldjNuMzJrSmJBd0Z6MkJWdGtGRUVCdXJhMTBTZVhYLTZLU29McnBLa2FSaUdndVJwTGtWTXBLc1Y0LUhTQzBkZjJ6QUNNdGQtMzNqakpTak51cWxWUnlZU2xva1Bsd2NwdlVzT0Qz?oc=5"
         }
       ]
     },
@@ -90,14 +114,14 @@
       ]
     },
     {
-      "id": "ee38f6f366bb",
-      "title": "Qualidade dos espermatozoides muda ao longo do ano, indica estudo - Metrópoles",
-      "published": "2026-04-14T16:07:00+00:00",
-      "summary": "Qualidade dos espermatozoides muda ao longo do ano, indica estudo&nbsp;&nbsp;Metrópoles",
+      "id": "2009c12681c2",
+      "title": "Médico aponta qual o pior inimigo da saúde do fígado e não é a gordura - MINHAVIDA.com.br",
+      "published": "2026-04-14T15:19:31+00:00",
+      "summary": "Médico aponta qual o pior inimigo da saúde do fígado e não é a gordura&nbsp;&nbsp;MINHAVIDA.com.br",
       "sources": [
         {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5jUWY3cFlidkJoWkV3VjhxelZqRWRkTjIyNmdFRFE4ZEU4YjJTeFdaUzFpMGZjX2NsaDhJVGtCSTdXQ2wtUExSVjdadnJhZHB5TGtkclRvNjdrYWFUdFAxeGswV1FVajdKN1RzTXY3R0M0dWN3ZTRN?oc=5"
+          "name": "MINHAVIDA.com.br",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UTk1PbGVQSkZNZkNxQUlXbG51bGp1Unhiek1KUUxjeWVabnFBQWFiZXBidndyM2o2cmVOSTVIUTFHbk5TVDdmWXdndzRJUndjeFk2d2lNTVc1cUtfbkRwSdIBZkFVX3lxTE9yMGp5eEFRWXRsVVVXbEluRXVPV3ZYdl8zWWZQV2NITmVfSmFUdGZSaVltZDlRRnFheWI4N2M2SkZFdExlWHJ0WFdSbERTbEh6SjdRWV9YdnA3ajVqdXZVMWt1cm5tdw?oc=5"
         }
       ]
     },
@@ -237,23 +261,11 @@
       "id": "750d66774df2",
       "title": "Como chatbot de IA descobriu condição rara de mulher após anos de diagnósticos errados - G1",
       "published": "2026-04-14T05:00:39+00:00",
-      "summary": "Como chatbot de IA descobriu condição rara de mulher após anos de diagnósticos errados&nbsp;&nbsp;G1Britânica descobre doença rara após relatar sintomas ao ChatGPT&nbsp;&nbsp;Rádio ItatiaiaChatGPT ajuda jovem a descobrir condição rara após anos de diagnósticos errados&nbsp;&nbsp;Olhar DigitalApós anos de diagnósticos médicos errados, jovem descobre doença rara graças...ao ChatGPT&nbsp;&nbsp;SIC NotíciasChatbot de IA ajuda jovem a descobrir condição rara&nbsp;&nbsp;Portal Tela",
+      "summary": "Como chatbot de IA descobriu condição rara de mulher após anos de diagnósticos errados&nbsp;&nbsp;G1Britânica descobre doença rara após relatar sintomas ao ChatGPT&nbsp;&nbsp;Rádio ItatiaiaChatGPT ajuda jovem a descobrir condição rara após anos de diagnósticos errados&nbsp;&nbsp;Olhar DigitalApós anos de diagnósticos médicos errados, jovem descobre doença rara graças...ao ChatGPT&nbsp;&nbsp;SIC NotíciasSaiba como chatbot de IA ajudou jovem a descobrir condição rara&nbsp;&nbsp;CNN Brasil",
       "sources": [
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUVQxa2MwLV96ck80Q1E2TG9heFh4VUhnOG9fN2pWcWVhSzl2eUp3bDJLTDZFbUowbXNCcGdXdGZvNGd1dlUwM3h5MGtXOTlhRHhuOE9VWjEyS2dLZDVNN1gwd09JLW5hb2Fzdlg0Q3Z5SHZXNl9oaVgxVU9Tb1VnSmNIczlNSU5NZ29VWE1wenMxbnJsTElYcE9wMkVFaU4tYWZHQTNfMWRsdk41dEZHUDFRYmFGVjVPWUpSUmstR3dpU09ReG0yUjBHSUROQTVReFVIMHp0LWpLLWPSAeoBQVVfeXFMT1piYVhyYm4xTG5DN1I4SXRJaDBtd2RhSnZOOHJ2ZWRLWlNscW9Cc0Q1T2ZFVFo4Vk1QcEdrSFhiaGdPbVcyUFg0VnpPY1lEUWNpZllkQnJWUkRzWmNVRnU0UHh3OXpOWlBORG8tV2lpUUdGaXJtU1Y1SDZsNmR6dHBLV2JNRkJRdE5DRDdWQ2tTZ2hReXZFWEV5M2hLeVMzVDNkcEp4SmNMUE00dElnQ2gwOWhramhlUHNyZGxlWWZfTG4wYjVBS28wa1JleWJoY25JLTBiQ1htdlZMY0FETGhmTGVvUFczZXVn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7b70561551ce",
-      "title": "Doenças que a ciência ainda não consegue curar e por que elas continuam sendo um desafio - Correio Braziliense",
-      "published": "2026-04-13T23:55:00+00:00",
-      "summary": "Doenças que a ciência ainda não consegue curar e por que elas continuam sendo um desafio&nbsp;&nbsp;Correio Braziliense",
-      "sources": [
-        {
-          "name": "Correio Braziliense",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWUZycFRxRFZ3UG1jbG5Mck5TdnNJY2ItelQwTlVmMGlaTVdES3NoYkt3MUpNQTFfTEczMDE4TGc3SDZscExrUktMbHZvTmZwYlk5bEc0cTVQZm9hZE9zOTB6SnhWM2NQQmhoS2w5bEx3bnVRdXFEYUtZazYwWVJCZHlmUkRYcWZXTVBBWjY2bW1kdTdKWWQ1MDBmVUFmRWYyc0ZsZ3NzUE44MlZET0w3SFItNVlHUHVGZ05ZTHZZN0lyZVV6MHU5SWxzN2loMlNi?oc=5"
         }
       ]
     },
@@ -306,18 +318,6 @@
       ]
     },
     {
-      "id": "3dbea6dc7545",
-      "title": "Dia D de vacinação contra gripe imuniza mais de 1,5 mil pessoas em Poços - onda poços",
-      "published": "2026-04-13T17:16:13+00:00",
-      "summary": "Dia D de vacinação contra gripe imuniza mais de 1,5 mil pessoas em Poços&nbsp;&nbsp;onda poçosVacinação contra a gripe segue para grupos prioritários em Uberaba&nbsp;&nbsp;G1Saúde de Curiitba aplica 107 mil doses da vacina contra a gripe e reforça chamamento ao público prioritário&nbsp;&nbsp;Prefeitura de CuritibaPorto Alegre aplica 35,8 mil doses de vacinas no Dia D&nbsp;&nbsp;TerraGHC vacina mais de 3,5 mil pessoas no Dia D contra a gripe em Porto Alegre&nbsp;&nbsp;Sul 21",
-      "sources": [
-        {
-          "name": "onda poços",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTEk1cjZIbHB1Vlk2eExONXhzSDJVR0VtUGpMWUlza2h1LXhWRGZSQkhjZENGbkpDSEthTmtPZzBpN1pBM185RWlNX2xkT29QQlh4UHAwVnpyclIyVWpLcWpodS1LVTBsTHBxY1B1OFFKVnEwTmRRTTU5V3NxRlgwdmloNmJWSjVUd3JMRFlUZGpOMy14dnkxYnZINWVTUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "fa2b804b8067",
       "title": "Pesquisadores descobriram um “castelo de vidro” na costa do Japão. A descoberta mostra, mais uma vez, que conhecemos apenas uma fração dos oceanos - Revista Oeste",
       "published": "2026-04-13T17:15:00+00:00",
@@ -357,7 +357,7 @@
       "id": "9f14b6a2bf95",
       "title": "Canetas emagrecedoras: estudo lista novos possíveis efeitos colaterais - CNN Brasil",
       "published": "2026-04-13T16:13:13+00:00",
-      "summary": "Canetas emagrecedoras: estudo lista novos possíveis efeitos colaterais&nbsp;&nbsp;CNN BrasilOzempic: pesquisadores identificam novos efeitos colaterais dessa classe de medicamentos&nbsp;&nbsp;O GLOBOCientistas fazem alerta sobre novos efeitos negativos no corpo de quem usa Ozempic&nbsp;&nbsp;TNH1Novos efeitos colaterais do Ozempic são apontados em pesquisa; saiba quais são&nbsp;&nbsp;TerraO que cientistas descobriram sobre o Ozempic acende um novo sinal de alerta&nbsp;&nbsp;Crusoé",
+      "summary": "Canetas emagrecedoras: estudo lista novos possíveis efeitos colaterais&nbsp;&nbsp;CNN BrasilNovos efeitos colaterais do Ozempic são apontados em pesquisa; saiba quais são&nbsp;&nbsp;TerraCientistas fazem alerta sobre novos efeitos negativos no corpo de quem usa Ozempic&nbsp;&nbsp;TNH1Ozempic: cientistas identificam novos efeitos colaterais dessa classe de medicamentos&nbsp;&nbsp;InfoMoneyO que cientistas descobriram sobre o Ozempic acende um novo sinal de alerta&nbsp;&nbsp;Crusoé",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -426,18 +426,6 @@
       ]
     },
     {
-      "id": "408234e808c0",
-      "title": "O tempo é controlado: Experimentos vão rumo ao passado ou ao futuro - Site Inovação Tecnológica",
-      "published": "2026-04-13T11:02:55+00:00",
-      "summary": "O tempo é controlado: Experimentos vão rumo ao passado ou ao futuro&nbsp;&nbsp;Site Inovação Tecnológica",
-      "sources": [
-        {
-          "name": "Site Inovação Tecnológica",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNnpfUlMtR2h2ODNSalkzVENwdDZHQlZUb1ZPWTBOZ0JmR3IyRkZXVVpxellDczZ3QlVIb3lMN0RIOEw5b0lMY1N5OUhhbE8tZWNGUjVueWNxcHJwTERwclFsazlPUXl0MFVIZ194dV9Xa0tyRTVmZGpTaGFJNkR6ZlJKa2dBQ0YtWjQyTjRYcS1zZmZLSVZTNHdsNmFqQ2YxeTRQLUo5cDFmYS1HLWRTZ01Ncw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "87da4752e14c",
       "title": "'Jovens têm dificuldade de pegar o telefone e marcar uma consulta', diz pesquisadora - BBC",
       "published": "2026-04-13T11:00:47+00:00",
@@ -446,18 +434,6 @@
         {
           "name": "BBC",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PbmlIVHZCa09vY19sUUFmdDM5QmVSMDV0VnVzdHJtS0NYQldpZ28yS21oRDQtNjB6WW5mVVVuX1V6eE1aM09WUnR3MXk4cEtiMVFGaWJSTW82X21fdVFQRW1n0gFnQVVfeXFMT0t2d0Jnb09wUWEwTVZHdjJpY3ZlOUNHZFBKX1JaQXRlUzJwTGtTSjdKSlREMzlRVnF6V21HQnRyWGRxelF4dGVjb3VWOTJTWGkzbkt0eFJJTlRqSlJDaEJTM3NJT2FTOA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cfc573cd57d9",
-      "title": "Veja 5 motivos para avaliar o coração antes de retomar os treinos - CNN Brasil",
-      "published": "2026-04-13T08:00:39+00:00",
-      "summary": "Veja 5 motivos para avaliar o coração antes de retomar os treinos&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQUhpdXp6d09ZVGtTZEZfbGpIMjIyZUJsV2VMal9FTF9GaGZabWNoYXpwS2luZkZQTThVQzhib3JiRGZXTVFzcmdwdU92OEEwRDVwLUxaR1o3WDB1WkZreTBiOWZIbjVsUWo4MXhSSUdfQzlBNXhPWjBXcXQxTlpFTkhaTUNiU0ZNNThXeUNYTnpLd3o2UGZJbVJDN1YzTGphN3k4?oc=5"
         }
       ]
     }
