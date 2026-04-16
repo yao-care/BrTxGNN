@@ -1,15 +1,75 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-04-16T13:51:29.035028+00:00",
-  "total_fetched": 108,
-  "unique_count": 107,
-  "health_related_count": 47,
+  "fetched_at": "2026-04-16T19:19:32.057110+00:00",
+  "total_fetched": 98,
+  "unique_count": 97,
+  "health_related_count": 42,
   "news": [
+    {
+      "id": "485a85253ea4",
+      "title": "A 8.336 metros de profundidade no Japão, câmeras filmaram um peixe branco e fantasmagórico que bateu o recorde mundial — e ao lado dele apareceu uma criatura que a ciência nunca viu - CPG Click Petróleo e Gás",
+      "published": "2026-04-16T15:00:00+00:00",
+      "summary": "A 8.336 metros de profundidade no Japão, câmeras filmaram um peixe branco e fantasmagórico que bateu o recorde mundial — e ao lado dele apareceu uma criatura que a ciência nunca viu&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeVBUSHN3bE1MVGVBUld4X0kzbmVqZWV6aUtfMUZ2aWtTTG14eld1LWZSSWhQMFE4YzlmMXY1M1d0YzRVaENqOWF5cDVEVEQ5cFQzLUZZZE5xNmJNNkw5VDRfY201bi0wM1RlaTVTd2lEV2lVNTBxdkJ0ai04anNoZVF6SnpUSWplamY4Y1R2cDhickpRVGdNaGdtckFHaGNmb2UxOXI5N0VMTzRyRTRqSHlRZlJPVTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6e052ed3f5db",
+      "title": "Casos de vírus sincicial respiratório acendem alerta; entenda - Agência Brasil",
+      "published": "2026-04-16T13:02:00+00:00",
+      "summary": "Casos de vírus sincicial respiratório acendem alerta; entenda&nbsp;&nbsp;Agência BrasilVer cobertura completa no Google Notícias",
+      "sources": [
+        {
+          "name": "Agência Brasil",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS0FCRUpnUWxXNThGRlBITGxSQlVKRTVSb3NrY2xiUXF0a1FFYXBPRkRyTmdhX1ZyMC1USDVZRkgwOEd3ZnNLLTEtS2pWa0lnZFhXSFlhaWpsTDE3Ti04LWowS2tFV25uX2dPM3Rpa1hKTExzaEVhQTFIYzljZlpfNW1rd29DNWd2Tjg4VHV2VF8teE9ZM1NfZUVLc1hsOExtSkdRdU53c0xRb05hT0tvNnZuaE96QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "71367ee0104e",
+      "title": "Deputado utiliza inteligência artificial para manter atuação após diagnóstico de doença neurológica - WH3",
+      "published": "2026-04-16T12:15:00+00:00",
+      "summary": "Deputado utiliza inteligência artificial para manter atuação após diagnóstico de doença neurológica&nbsp;&nbsp;WH3",
+      "sources": [
+        {
+          "name": "WH3",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPY2FjU3c0QjQ4dU9pc3Z5a0dYVWV3ZWJJdlRWZXR3eFhiNll2aEhmeUVDQkRsTVQ1RlFBNjRwbk1QRGVzZXhkWHg3amlnYVVOQnREeFB6NkdKSy1EeS0xdjYwWVNmOTRvNWtzakpNeWxYVzBKTVVGNWtDd25jcmF3VXRUVU5CY0ZEY3RPS2c5Q25LaXpIZTB5N3RGaFFkMUQ0NmVFU0tJQXJocGpyMlNzaDNDWU5nZmpqRG4zZDRpMWo4NXlYXzR2WGpJdGdxY25feDRCMw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3b70fb2498d9",
+      "title": "Mais de 70% dos municípios de MG estão em alerta ou risco por dengue, chikungunya e zika; saiba como evitar - G1",
+      "published": "2026-04-16T08:05:17+00:00",
+      "summary": "Mais de 70% dos municípios de MG estão em alerta ou risco por dengue, chikungunya e zika; saiba como evitar&nbsp;&nbsp;G1Minas Gerais tem 71% das cidades em alerta ou risco por dengue, chikungunya e zika&nbsp;&nbsp;TerraMinas divulga primeiro levantamento de infestação do Aedes aegypti em 2026&nbsp;&nbsp;Rádio ItatiaiaDengue: metade das cidades de MG em alerta para infestação do mosquito&nbsp;&nbsp;Estado de MinasCasos confirmados de dengue sobem 22% em uma semana em MG; mortes chegam a 10&nbsp;",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPRWU1VktOVjZjREg0dlBjOFJNVDhyanNDZmlpb09JS05WUHdvMGVXbkRnM1gxeDY2SmZYVER4enhicGpYV2xaU0gwazNrZnJuNkFxR0Q2dS1MQmZZWkplbkhfM0pmNVduTmVuT1h1Wm11RnZFaU5aRE93SERZc0lfYjQ5MC0wU2xRWkpycy1FdUhvc3F5SC1RaXpyNWNNN0xyWjBKLXBwMlBVOFlYVkZnMVZtcTZHeUEtZGtuRW91ZDFNem9scEhDMkltdWZnVkJqMGszb1JydHdNdHZhQUZuTVlRRDJGc21Rd2o1ZEx3YmJINVcxNlAtQ2g3NWJJbEp0UEY40gGSAkFVX3lxTE0zTTh4T1J2b2hwTFl2QWJVRmV4b3ZuWnBHYUl1SF8tR1BXN05aSXpRbFlKYVNLWGZ1TDhnOVRULWh5S0o3T3NqOE9tdG5SRlNyeDM2ME9ydlZwbHM0X1ZIcURoT2pTVlFJMXI2Q2Z5LXRyYkdEMllmYmM5RGk2dDNCNHdqM2FUdFpTQ04wVnFZUURSYzZRUWszNGZDVUJUcllydHhkWUxQaVNTMnE2TjQ1M2xkTndJMl9hUUFIUDVmMGZPYmdoVHJlWTZfcXdYakxBeW9wd1lhYUtwamluOHpkWjhrZzBBcjlyMWE5WklrcUlLYVNRY0NyaUt0NUh1MGZvX0dSb1JKN0I4UEpPWTBmWlE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4dca7e6015b4",
+      "title": "Médicos apontam os mitos e verdades sobre o uso da testosterona - Tribuna Online",
+      "published": "2026-04-16T08:00:00+00:00",
+      "summary": "Médicos apontam os mitos e verdades sobre o uso da testosterona&nbsp;&nbsp;Tribuna OnlineMenopausa e testosterona: a mentira que as clínicas estão vendendo&nbsp;&nbsp;Estado de MinasExplosão de produtos para menopausa acende alerta de médicos&nbsp;&nbsp;Fast Company BrasilMenopausa: conheça 5 suplementos “inofensivos” que podem virar problema&nbsp;&nbsp;SBT NewsProdutos para menopausa ganham destaque, mas médicos alertam para cuidados com propaganda&nbsp;&nbsp;O Cafezinho",
+      "sources": [
+        {
+          "name": "Tribuna Online",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQekhQU00yVFRmenFjb05Pa2xFeG0zNU9MREw1RGxCSTlFZDBvOU4xU2lrczhKeFI5R0tFZW1mekMtME1kcUVMa0FzY0JqMVRiOHR6N1RrWmo0cHd2QVZ6NXhmZDNSMG5QSU9YbTVQcS1zbFhRRDE5eUlfTHRPcXJVZThlVUliRW80SEpGSnIyNTFmZHR5OTMtc2x5QmE0Y21yOWE0SjFtUVDSAbABQVVfeXFMTzlTOHpreUpTWWNWc09VZnREWVJ0dHdBUWR4OVBFVGEyY0hSWXFfcUNpTXpSdGdLVzY2X2ZoTmhuY3g5dmVxN3Q2SVFra1gwYWFWWnVvbWJyVHdzRF80ZzNwd2Fia3hrVExETWEzbGJwN09ZcnlxOWh6aFd4TzhTM1VVM0FXMEotRHI5SDNPUFQtYnJYeGUtZE9OaG1Wd1pQek9ZcUYyWXdRS210QmlGVlg?oc=5"
+        }
+      ]
+    },
     {
       "id": "f4b3e86cd3e1",
       "title": "Câncer de esôfago quase não dá sinais: entenda por quê - CNN Brasil",
       "published": "2026-04-16T07:15:46+00:00",
-      "summary": "Câncer de esôfago quase não dá sinais: entenda por quê&nbsp;&nbsp;CNN BrasilMortes por câncer de esôfago são quase 4 vezes mais frequentes entre homens; conheça os sinais&nbsp;&nbsp;EstadãoDificuldade para engolir pode ser sinal de câncer de esôfago; veja quando investigar&nbsp;&nbsp;Banda BRadioterapia no câncer de esôfago pode ser curativa&nbsp;&nbsp;newslab.com.brAbril Azul Claro chama atenção para o câncer de esôfago e reforça importância do diagnóstico precoce&nbsp;&nbsp;Diário Indústria & ",
+      "summary": "Câncer de esôfago quase não dá sinais: entenda por quê&nbsp;&nbsp;CNN BrasilMortes por câncer de esôfago são quase 4 vezes mais frequentes entre homens; conheça os sinais&nbsp;&nbsp;EstadãoDificuldade para engolir pode ser sinal de câncer de esôfago; veja quando investigar&nbsp;&nbsp;Banda BCâncer de esôfago avança em silêncio e dificulta diagnóstico precoce&nbsp;&nbsp;Guararema NewsRadioterapia pode ser curativa em pacientes com câncer de esôfago inicial e localmente avançado&nbsp;&nbsp;newslab",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -18,26 +78,62 @@
       ]
     },
     {
-      "id": "27a5f136bd8a",
-      "title": "NASA anuncia a primeira espaçonave nuclear interplanetária da história com destino a Marte e tecnologia criada para abrir uma nova era na exploração do espaço profundo: conheça a SR-1 Freedom, equipada com reator de fissão e três helicópteros inspir - CPG Click Petróleo e Gás",
-      "published": "2026-04-16T06:12:00+00:00",
-      "summary": "NASA anuncia a primeira espaçonave nuclear interplanetária da história com destino a Marte e tecnologia criada para abrir uma nova era na exploração do espaço profundo: conheça a SR-1 Freedom, equipada com reator de fissão e três helicópteros inspir&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "id": "77a6f527c7c7",
+      "title": "'1,08 bilhão de anos': Estudo de pesquisadores ligados à Nasa antecipa prazo para o fim da vida na Terra - O GLOBO",
+      "published": "2026-04-16T07:02:10+00:00",
+      "summary": "'1,08 bilhão de anos': Estudo de pesquisadores ligados à Nasa antecipa prazo para o fim da vida na Terra&nbsp;&nbsp;O GLOBO",
       "sources": [
         {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPalZnT3NZb3BBZy1HSmRRdW9jLTF3VlBtQzRGelJrdFhmVDFTajd6VjdwNld0ano1SWJoWGFpcFNkM1NKR3k4SmM0US1WU3RFd0tUdnhMZ0FGX09aa3U4UmUtQVBZVW1Ecm1QbTM5b1BtWHB5OHVkWVdHQURUYzhLNmhlRFAzb1dhX3dnYnkta2tmOGJGc3FxNll3bU1kTXBNcjcwWDFLS2hiQmtadDJEaGNZbkVDZU5EVjdEajVxWGtIME1MckRsZmNTVGlXME9sV3IwaUxvdGl3WXlVWHZ6UE9nMHRNWE53SUpsRXhRWGpTMl9UVVBSamFuYVA2N3VkOXJjMG1fekFkbk1rcm1zM1JJZkM5dnJFZlRVYjh0bDBhNU5GdXk2WEpvZUFPM0RpVW1Uc0p5bEFscTVCcldXeTUwbjdDdw?oc=5"
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOamtCc25pS0l4Z29TdEtyUUpHTGdIZzZ1YWxyZW5lcDlMVFN4MkQ0dVhMX0pwb1JfaDR0Qmg0LVVKM19HN3JHQktqZzNnN01SUnRrR20xbEVDV1Rpa2ltZm5UOExCZy1Nb2RJdlJXZjNqc3NHazVyLTVzbGJVOElYalRyN2VMRGx4V3hDVEpVdnNxU1hIWmZxNy1fSDdRZmR2cW1SN1EyS1FSanU2bEhNckk2cVpwdFlpTmMweVJkWmw2b1c0ZHNYRUJjUHBTYldHNkM0WHMzWUMtaE9PMW0wVWZxRHlCZ9IB9AFBVV95cUxNSERBT0hPTnlCUmJ6cGRYV2hKMzQ0cTR3MUFsM1dwWl9MT0tQTmhncDd6em5YUmVDYVlRelpVYlM2bmZfcUIwM2pScFpWTDVpYnEzai10REhpWmY5Q29VSXlGUFViMVJPLWZuSmlPVm5VckQxN1JFaXhXU3BhQk9tYXVnT3czOTZFU3pEc2ZqSlpTT1A5MzlxRmFRMk1ITmd4UUI2R25IUUEwQ3U2TFNEaGRtTVpEZGdKTXVIX1MwSDFvZnh3UjZmeHJkMjFzQThyM09lZHFJWmlCbW03clYyT21qdFlVaWhlb2xwS3gydWFHZ3BJ?oc=5"
         }
       ]
     },
     {
-      "id": "69fc306a0b5f",
-      "title": "Fundação Hospitalar oferece consultas e exames gratuitos em ação especial pelo Dia das Mães; agendamentos já começaram - Acorda Cidade",
-      "published": "2026-04-16T00:40:00+00:00",
-      "summary": "Fundação Hospitalar oferece consultas e exames gratuitos em ação especial pelo Dia das Mães; agendamentos já começaram&nbsp;&nbsp;Acorda Cidade",
+      "id": "81ca21d2f316",
+      "title": "Corrente oceânica que regula o clima global vai enfraquecer mais do que se pensava, aponta novo estudo - G1",
+      "published": "2026-04-16T06:00:34+00:00",
+      "summary": "Corrente oceânica que regula o clima global vai enfraquecer mais do que se pensava, aponta novo estudo&nbsp;&nbsp;G1",
       "sources": [
         {
-          "name": "Acorda Cidade",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOc3hEdTA2MkdramRfV1N2VWdEV3ZKZ0xwSEEzX3FuZ1BuYXN6cGhmRHdmdGlZUG41UVBhTGl6R2RrQnBMXzBmNlBjaWM3SmhHOHFjY01Fdms1ZThHLUUxeEd4SkpaSU1MN3lnZTNzaGUtbDJyeVF2MHNqLW1vdmZ6QjRaZ2F5ZW1HZ3lLT21UUF9aQ2Y4ejBZdDMtZmk0SVNPdDVraTJ1MDU3WDIzb01GTlNHQTB5NEVRT2Q0Uml4QWZEaUw4bTI3YnlQUWkyd0ZldnNwa0xOYVU?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYWYzZklxZFUySUxpcTdUbkxHLUMzZ05jNENveVRLSVZCQmdFUDljMHRyOE9zeUdBM1R1OGlPaVZyYkF1YWdhUjF6VjVsTUZtR3R1WXhzMFBkMDR3MVl5Q1pITVRtOGo1YUV0UXgyWEZNMHE2bkFTWnI0SGN3dDZILWo0b1pxS3doX1poNmotOHU5bERRdW9GdjVuWHlkZHlUb2JXQkE0SXdIVmNNYkNLZTk3NUpYWjdFOTVSdGhmV0N5WUtwQUVxNFNrQU1GbzllVVZuR3ZaSjJSWTZzOVl5WlVDdmhMS1VyTXFmOFFMVnJIVnfSAYICQVVfeXFMTy1OaTFUOWdEX0xjMnRtWHNfdF9sVHVoOC1RNkdMYWVONjR0b2VBRFYyZHdTYU93Smp5Z2M1OGY1b2Rpa3ZkbWNKQ0d3V2pCYnBFQ0MyWmtrN05fQ0JVbVV4RkJDc2c3WWRaZFp6Q3Z3WEVrU1laOGg5UGtBUFgwZ1B4WXNaX3J5N0ZIMGJGcllHb0VWMm9UTGQxS0FnaTh3WGVrUzBLSHdKaXFIb3NZaVhuN3pJa01ISXpVNlYxS1c4SWJCd3BKSU01OU1KWF9PU3pNRTNYU0w4eVNLN0E5Z0k5eVJHUDB2d09sYWlpbTRLUWkyMXpKVXlMSWZFcGhuemhn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d970694eee99",
+      "title": "Confira 5 alimentos saudáveis que você deve evitar antes de dormir - Metrópoles",
+      "published": "2026-04-16T05:00:00+00:00",
+      "summary": "Confira 5 alimentos saudáveis que você deve evitar antes de dormir&nbsp;&nbsp;MetrópolesComer banana, uva e manga à noite pode não ser ideal e cardiologista explica o motivo&nbsp;&nbsp;Estado de MinasQue horas deve ser a última refeição do dia para manter a saúde? Veja sugestão&nbsp;&nbsp;Tribuna da BahiaA pequena mudança no dia a dia que ajuda a perder peso&nbsp;&nbsp;Notícias ao MinutoComer cedo ajuda a emagrecer? Estudo revela 2 hábitos eficazes&nbsp;&nbsp;Exame",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNmJ5akVLT2dIQ1lNWmVqUkpwQU1rOWVfM3pZaDk2RUZ1RTRoRENDZE1HTm90Y3B3QUVsMFJMU0UzSk1mRDVQcE94OUlfMEVBbU1wVkh1aGVVaElyTmhDVWMtdXIzd2EtbzNBcHhpWWZVdUo5T2o2Si1aeTFKc1NjckR0OG5rUUZCTWtIR0NnRnRtbDh6SmhrYVhoM3JEbDNvemg5SVU2MzUteERrVlMyRUR2WGVFbV9WR1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "81ace8b01eb5",
+      "title": "Alteração no olfato surge como pista precoce do Alzheimer - R7",
+      "published": "2026-04-16T03:44:09+00:00",
+      "summary": "Alteração no olfato surge como pista precoce do Alzheimer&nbsp;&nbsp;R7",
+      "sources": [
+        {
+          "name": "R7",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMXhNUTk1QXNiTGY5MGZwbWptVmgweVd5blJEME9kZ3VzYWR1U0ZUblBpeXBSZTVhdjlrZ3FkaDY2Z1diN09XY05ING9EUkR1dDkxMVhlM0lpV3FPOGdiTjlVVU5rQ254SkpGc2pkM05tT3RpT0U1dlZsYmJlQTcwWTVaai1IQThlRm5YNG5YWHJ0TEdnbXZLNkRGYmpRNmZJV0hQWHpUdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3d77ef00dcc0",
+      "title": "Secas mais longas e mudanças nas chuvas já ocorrem na Amazônia, apontam pesquisas - Agência FAPESP",
+      "published": "2026-04-16T03:04:39+00:00",
+      "summary": "Secas mais longas e mudanças nas chuvas já ocorrem na Amazônia, apontam pesquisas&nbsp;&nbsp;Agência FAPESP",
+      "sources": [
+        {
+          "name": "Agência FAPESP",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZnVvUmVKSzZFbzQwWlNZT3loTzhkRHF5UFNjVm55aUZRS3ZNaGJVNFlrUGVxMHJhVldjVjQ1MTRTT0xhQzlLZUU4cXR1akRSN1d1QUhIaWx0U0N1SjREelVqaHBuWmNiZXhzT0M3WFEzNWZiNzZLX0R3dGVpMkIxVUtaV2RES1BoVXY2Mnc5bU1jeUNYd2VTQ1NWQnppSjc4dzE1S21EaHhuU3FPWEJldDR3?oc=5"
         }
       ]
     },
@@ -45,7 +141,7 @@
       "id": "2555a7759290",
       "title": "Saiba como evitar gripes e infecções respiratórias durante período de chuva - Diário do Nordeste",
       "published": "2026-04-15T23:45:00+00:00",
-      "summary": "Saiba como evitar gripes e infecções respiratórias durante período de chuva&nbsp;&nbsp;Diário do NordesteAumento de doenças respiratórias reforça necessidade de maior adesão às vacinas&nbsp;&nbsp;Prefeitura de Campos dos GoytacazesFVS-RCP reforça vacinação contra vírus respiratórios no período de chuvas intensas&nbsp;&nbsp;jcam.com.brDia Mundial da Saúde: FVS-RCP reforça vacinação e proteção no Amazonas&nbsp;&nbsp;Portal Fato AmazônicoDia Mundial da Saúde: Amazonas alerta para atualização da cad",
+      "summary": "Saiba como evitar gripes e infecções respiratórias durante período de chuva&nbsp;&nbsp;Diário do NordesteDoenças respiratórias aumentam no outono; veja como se proteger&nbsp;&nbsp;G1Mitos e verdades: doenças respiratórias do inverno&nbsp;&nbsp;Unimed CuritibaAlergia ou gripe? Saiba como diferenciar os sintomas respiratórios no outono&nbsp;&nbsp;O TEMPOProximidade do clima mais frio acende alerta para os casos de doenças respiratórias&nbsp;&nbsp;Bem Paraná",
       "sources": [
         {
           "name": "Diário do Nordeste",
@@ -54,26 +150,14 @@
       ]
     },
     {
-      "id": "344ce5b353df",
-      "title": "O que é o VSR: vírus avança no RS, pressiona UTIs e aumenta mortes entre idosos - GZH",
-      "published": "2026-04-15T22:52:25+00:00",
-      "summary": "O que é o VSR: vírus avança no RS, pressiona UTIs e aumenta mortes entre idosos&nbsp;&nbsp;GZHCasos de VSR aumentam e colocam país em alerta; conheça os sintomas&nbsp;&nbsp;TerraVírus Sincicial Respiratório (VSR): O que é e por que a transmissão aumenta no outono&nbsp;&nbsp;O TEMPOVírus sincicial respiratório é negligenciado e ameaça saúde de idosos&nbsp;&nbsp;Correio BrazilienseVSR não afeta só bebês: vírus comum e pouco conhecido pode agravar doenças crônicas em idosas&nbsp;&nbsp;Globo",
+      "id": "4f6e7f6e58f1",
+      "title": "Os cientistas acreditam ter identificado com muito mais precisão o local de origem do Homo sapiens. A descoberta combina fósseis, clima e evolução para reconstruir a origem da nossa espécie - Revista Oeste",
+      "published": "2026-04-15T21:31:33+00:00",
+      "summary": "Os cientistas acreditam ter identificado com muito mais precisão o local de origem do Homo sapiens. A descoberta combina fósseis, clima e evolução para reconstruir a origem da nossa espécie&nbsp;&nbsp;Revista Oeste",
       "sources": [
         {
-          "name": "GZH",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeGVQdjNWcGl0elZUdkpoZ2hxc3QwZjVTd3doQy1OakFhSS1qSS1faURuaDBfUE9QZHAzMm80U0h5YkhucnlwSktvX091NE5jcTl5Z0FkRHRjN1lJblBjLWJidHBETWxoV0hnSFRSUzc2NjZoOGZYOF9TVzV0X3haSk1ZSm5raWg0MDZBN2YwUVRyVnVNcVUzVC14T0tKeUFJbXVTRzladXZUSmhybGlaRF9RcktmakNreVd4dENJbFBxb1g5MjV5WEtUbjNQeGc3TjFaMmFiS3A2QlZXYTRxNDAyaUxCeHRSTjM4Rzl1UWNVbXAz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "70995d056237",
-      "title": "Detran-MG publica novos valores para exames de saúde e avaliações psicológicas - Regionalzão",
-      "published": "2026-04-15T20:32:36+00:00",
-      "summary": "Detran-MG publica novos valores para exames de saúde e avaliações psicológicas&nbsp;&nbsp;Regionalzão",
-      "sources": [
-        {
-          "name": "Regionalzão",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVFE1Z0szNlB6VzN6NXo1Tl9TNkZlLXVWanNFcnRJdHhYZXVxVHdRSk9NemExM1Q5UXZjWV9CbGVFVWpPNWthQkp3QXJvYVdOTXA0MFljaDN6WlF1cXBnRFF4TGJXMGZQOGhERFM4QTIzeTBOTElFR0YxZW9OTl9PSzhlQm1zdHhxZFJWRmtwQTdDS21oMFk0SjUxUjJfakM0YkxRN0dENXlfdXFGUHJyRlYtY3BZUQ?oc=5"
+          "name": "Revista Oeste",
+          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQNG82cWs2V0FBc2kwVjNyN1ktZ1lQNUdDOWoxbEtDWlhTVHFoeWM1SEdTWTktNGxOVWJSUkxEa2x0T3FzVWYzaWdta0JaZ21rSFk3MER5emxGZVhEN2dtVVdIek1VYjBrNzdhSFliQVBBTTR2WlFjSllJYVVfdGliRFpCZVNWY1JibXQ1UGdYMWEwUlFWVllmUHhRaVFwT3BSMEpmcjM1OEdlbml6emUzOVpMSm5UMDRrU0h0ZllMRVhRQ0xpM2RETW1kWGxSOW1ySHZkZnVuQm5pSkRwSjFpTmVXVGw0LWllTUM3NEpCZGROdmF0STdjTmktcVdBOXhTdWxWY05PSUVaaTVteGhRekVJbk9wem5MdGlCdV9YUG95eFNWdkM5UnQyZVV1SGlEV24zYU0zRzR4clFhN1dVZGwzbzE5UlBOeUo2dmVvZHBnMnExNFE?oc=5"
         }
       ]
     },
@@ -102,14 +186,26 @@
       ]
     },
     {
-      "id": "d5637ad5938d",
-      "title": "Arroz opera em 'limite térmico' e pode enfrentar colapso produtivo em mundo mais quente, alerta estudo - Um só Planeta",
+      "id": "001c03c89be7",
+      "title": "Arroz opera em 'limite térmico' e pode enfrentar colapso produtivo em mundo mais quente, alerta estudo - umsoplaneta.globo.com",
       "published": "2026-04-15T18:41:20+00:00",
-      "summary": "Arroz opera em 'limite térmico' e pode enfrentar colapso produtivo em mundo mais quente, alerta estudo&nbsp;&nbsp;Um só Planeta",
+      "summary": "Arroz opera em 'limite térmico' e pode enfrentar colapso produtivo em mundo mais quente, alerta estudo&nbsp;&nbsp;umsoplaneta.globo.com",
       "sources": [
         {
-          "name": "Um só Planeta",
+          "name": "umsoplaneta.globo.com",
           "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNX3VlNUF4WG9HTVNsdlh6TVoyNUtrRGozeXNzczNUUG9QUFVfSjUxczJnZElxdnpkQVk1V1hyZWZ1aXR3S05WQk80OWJQa1g1RHJ0a0ZjVzJEVlg0OUZBVzdRSnp4ZmRaMW56N1RodHA2bU92RTI1LWNTVjVVRGsxOG1vY3VuZ2RlbHFaOC1hVmx3ZnZIOU5CS1BkbWYzNFJFSGVwTURPbHhMd29BUlFPQ25KVUtJN1pjdF9taS1pak9PaHp1SEI0OFJQZnFNQzRJZGV1WXFXOHJBa01sbHZHU2xGa1NBQmZuVHItMGlqT19Ld9IBgAJBVV95cUxPRlgwVmRXU1JrZFJOb1Y4aHh4SDR4ZkFTQlVCVVdxc3JzZnFLMjRQUVlvMGdLbzR3Q0NmSUxoc0VjZVp4a0liTWhvelhJQURMUEpXMEFCZ194cWVndDN5bFQwbFMzNUN3anpCemtWR2RrWi11bXh4a2dSaEJUNmc3Zm9ZeDVaYzM3bk44cGU2Zjlad2QzanAzRHRNdGxTelc2MlRRc2RtOEZ4YjJxYTN3ZVIzVS0zLWpwZElVbFZsRnBQOUIza3g3dzFDd2pZblJHbnFTcWxuUkxBMjE0N3Y2am04VzVFWGZMRjJNRW9JSDhHdElyUXNXN0JlZVlYdXFZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f965e5d43a71",
+      "title": "Dor de jovem morto por H1N1 foi diagnosticada como ‘excesso de tela’ - gmconline.com.br",
+      "published": "2026-04-15T18:33:00+00:00",
+      "summary": "Dor de jovem morto por H1N1 foi diagnosticada como ‘excesso de tela’&nbsp;&nbsp;gmconline.com.brMorte por Influenza: Família de adolescente alega negligência em hospital de Sorocaba&nbsp;&nbsp;G1Dor de jovem morto por H1N1 foi diagnosticada como \"excesso de tela\"&nbsp;&nbsp;MetrópolesGripe avança entre jovens e levanta alerta em Sorocaba&nbsp;&nbsp;G1Adolescente é diagnosticado com \"excesso de computador\" e morre por H1N1&nbsp;&nbsp;Diário do Centro do Mundo",
+      "sources": [
+        {
+          "name": "gmconline.com.br",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVy1HaktNNUhxXzFGSXBGbC1mQVhXcDE5UU9mZ3RqLVY4akxyVGtnank1S2M3RnctQ0hYSVJqNzBFYkotaW1LT0FIMVVpaWhCSTMzbUFRYlJzbExYSndSck5qQ0NaSkMxTE0wUTAtTlN1Q201a19qVVF2WlRraGZRTENzX1BZNkItNGRYMUdrZkdkMGVIa3paOURqdkhhdVRhZ0g2NUpxSGdobknSAbABQVVfeXFMTmtsd1JDS1dQMmNiaDZnWGkyU2pDb3I2akxTRW9pNElwblVKd0NaZTB2NE5EWl9tanRtR2xQRXlXd3YwMUh1OGdyZ3FBLWRTX05vTXhtOTVIUGVPTFR5X2ZoM2xJT3RvYUh4NzZFbWMtT29mX1dtWlVCYWJpejUySVYxYlBjMkFtbmRfc1EyQ2p3WGNTdTFVdGVJV3p3TzVYbFZrcGFKN25obHNRdDdRYXo?oc=5"
         }
       ]
     },
@@ -117,7 +213,7 @@
       "id": "fe8bf15dfa6d",
       "title": "Americana registra primeira morte por dengue em 2026; caso é o primeiro da RPT - liberal.com.br",
       "published": "2026-04-15T18:17:00+00:00",
-      "summary": "Americana registra primeira morte por dengue em 2026; caso é o primeiro da RPT&nbsp;&nbsp;liberal.com.brAmericana registra primeira morte por dengue em 2026 na região de Campinas&nbsp;&nbsp;ACidade ONAmericana confirma 1ª morte por dengue no município em 2026&nbsp;&nbsp;CBN Campinas 99,1 FMAmericana registra primeiro óbito por dengue de 2026&nbsp;&nbsp;Hora CampinasAmericana registra primeira morte por dengue em 2026&nbsp;&nbsp;Todo Dia",
+      "summary": "Americana registra primeira morte por dengue em 2026; caso é o primeiro da RPT&nbsp;&nbsp;liberal.com.brAmericana registra primeira morte por dengue em 2026 na região de Campinas&nbsp;&nbsp;ACidade ONAmericana registra óbito por dengue de homem de 71 anos falecido em março&nbsp;&nbsp;Jornal AmericanenseAmericana confirma 1ª morte por dengue no município em 2026&nbsp;&nbsp;CBN Campinas 99,1 FMAmericana registra primeira morte por dengue em 2026&nbsp;&nbsp;Todo Dia",
       "sources": [
         {
           "name": "liberal.com.br",
@@ -129,7 +225,7 @@
       "id": "d756ac4595d8",
       "title": "Cientistas descobrem como bloquear vírus que afeta 95% da população - Metrópoles",
       "published": "2026-04-15T18:12:05+00:00",
-      "summary": "Cientistas descobrem como bloquear vírus que afeta 95% da população&nbsp;&nbsp;MetrópolesVocê provavelmente está infectado: 95% das pessoas são portadoras deste vírus, mas cientistas descobriram como combatê-lo&nbsp;&nbsp;Terra95% das pessoas são portadoras deste vírus e os cientistas podem ter acabado de encontrar uma maneira de detê-lo&nbsp;&nbsp;segundabase.com.brCientistas identificam anticorpos capazes de bloquear vírus presente em 95% da população&nbsp;&nbsp;Francês News95% das pessoas são",
+      "summary": "Cientistas descobrem como bloquear vírus que afeta 95% da população&nbsp;&nbsp;MetrópolesVocê provavelmente está infectado: 95% das pessoas são portadoras deste vírus, mas cientistas descobriram como combatê-lo&nbsp;&nbsp;TerraCientistas avançam em estratégias para bloquear vírus Epstein-Barr&nbsp;&nbsp;band.com.br95% das pessoas são portadoras deste vírus e os cientistas podem ter acabado de encontrar uma maneira de detê-lo&nbsp;&nbsp;segundabase.com.brCientistas identificam anticorpos capazes ",
       "sources": [
         {
           "name": "Metrópoles",
@@ -153,7 +249,7 @@
       "id": "04e15107b5ad",
       "title": "Urina com muita espuma: o que significa, quais as causas e quando pode indicar problemas nos rins - O GLOBO",
       "published": "2026-04-15T17:00:02+00:00",
-      "summary": "Urina com muita espuma: o que significa, quais as causas e quando pode indicar problemas nos rins&nbsp;&nbsp;O GLOBOO que a sua urina revela sobre sua saúde?&nbsp;&nbsp;Nos Bastidores do PierUrina com espuma densa revela alterações na filtração dos rins&nbsp;&nbsp;Mix Vale",
+      "summary": "Urina com muita espuma: o que significa, quais as causas e quando pode indicar problemas nos rins&nbsp;&nbsp;O GLOBOO que a sua urina revela sobre sua saúde?&nbsp;&nbsp;Nos Bastidores do Pier",
       "sources": [
         {
           "name": "O GLOBO",
@@ -177,11 +273,23 @@
       "id": "cf5e0a200e39",
       "title": "Gripe K: Goiás confirma três casos da variante em cidades distintas - Metrópoles",
       "published": "2026-04-15T16:11:50+00:00",
-      "summary": "Gripe K: Goiás confirma três casos da variante em cidades distintas&nbsp;&nbsp;MetrópolesGoiás registra 3 casos de gripe K&nbsp;&nbsp;G1Gripe K: Goiás registra os três primeiros casos&nbsp;&nbsp;Jornal do TocantinsGoiás confirma três casos da variante “gripe K” da influenza A&nbsp;&nbsp;Portal iGAnápolis, Caldas Novas e Itumbiara registram primeiros casos da Gripe K em Goiás&nbsp;&nbsp;Portal 6",
+      "summary": "Gripe K: Goiás confirma três casos da variante em cidades distintas&nbsp;&nbsp;MetrópolesGoiás registra 3 casos de gripe K&nbsp;&nbsp;G1Gripe K: Goiás registra os três primeiros casos&nbsp;&nbsp;Jornal do TocantinsAnápolis, Caldas Novas e Itumbiara registram primeiros casos da Gripe K em Goiás&nbsp;&nbsp;Portal 6COMUNICADO OFICIAL&nbsp;&nbsp;Prefeitura Municipal de Itumbiara",
       "sources": [
         {
           "name": "Metrópoles",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeDBqa29mejdIdlplaVdJVlRJenhnZWQwRHBVOGFWaTExaGYyeF9FXzdhd1p1Ym9PNk0xNXZ3eXQ3QV9PVDdNNkFyOFBLdVp5bFF0blZlUXJjMjd3aWV3OUhvV2NlTXNuWFV2SG44cU9IeWU0Y3dTd3p6TGw1UDY1TUNQSHVjUGtxdFpqQU00ci12VmlZVU1pdnVwYzc3blNqTVJiekQtcmNoVEhka0NGU3VsWU53ZVJfOGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "83a31ea8e411",
+      "title": "Saúde reforça importância da imunização contra gripe em Poços de Caldas - onda poços",
+      "published": "2026-04-15T16:04:23+00:00",
+      "summary": "Saúde reforça importância da imunização contra gripe em Poços de Caldas&nbsp;&nbsp;onda poçosCuiabá mobiliza 72 unidades de saúde para o Dia D de vacinação contra influenza no dia 25 de abril&nbsp;&nbsp;Prefeitura de CuiabáParaná intensifica campanha da gripe e orienta grupos de risco a se vacinar&nbsp;&nbsp;G1Por que esperar o frio chegar para se vacinar é um erro grave&nbsp;&nbsp;Estado de MinasSaúde de Curitiba aplica 107 mil doses da vacina contra a gripe e reforça chamamento ao público prio",
+      "sources": [
+        {
+          "name": "onda poços",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYjhSY09LX1JLaXNfRmRNSUNIMFhiM0M1NzVKRUUtaVdDcmhLbjJyb0FzY1VELXFyN2tYLTRERVhGclBDUVdTT3hxRWwzZHBHWnJKRGM5VlMzWVlHRHZuQngzTTBfWUhiOUFiSHNIbkRRQVM5QXpJWUVSSXdid1NpNS0weTdNTDlHSTlUOTNEN2lfRXJhdWJIbEF6T3NFQQ?oc=5"
         }
       ]
     },
@@ -210,34 +318,10 @@
       ]
     },
     {
-      "id": "ab56ff1148f4",
-      "title": "Foguete “sem dono” caiu na Lua, abriu uma cratera dupla inédita e virou polêmica global: por meses, muitos apontaram Elon Musk, até um estudo revelar a verdadeira origem do impacto - CPG Click Petróleo e Gás",
-      "published": "2026-04-15T15:12:00+00:00",
-      "summary": "Foguete “sem dono” caiu na Lua, abriu uma cratera dupla inédita e virou polêmica global: por meses, muitos apontaram Elon Musk, até um estudo revelar a verdadeira origem do impacto&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQU1BVbjJXRGc1VFFTUUIwb21kbmE3Y181bTUyZGNQaUxESnpwWF9FOTdPRTA0c25xVDJtNVV6c1E3d1l1UHV6Qnh0anh0dXhrcUZLLVloU2ludk9tOGM0X1VnS0NhWWQ4RjFBY3RXUUlSeFQ3U19yV29HZ3puNmxERkhzWXlOOTJ5RjNtMU9vVEdpMG5LRTRyY0hfVnN1M1ZZS2t1RWYwMi1jZjhPZTRBQ21Bc2ZMd2U4TWk2ZTQyVk1VR2lPNmJyQWZSUzJ6SjQ3S0sxRnZVTnB0MU9JMHBaSTFXRzg4T1ZwZzN6Z2pyRXgwbmtxdVVQVjQtTnJJbFh5aXNXRTNlR0hGbHJGU2FFOGlVVF9NbGo0UWljZ0ctWmpjVUhZWTlPMHVaRFE5Y3B6MmdqMWN2MWVSVXEzRUgw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d93b2060242e",
-      "title": "Quanto tempo o álcool fica no corpo? Entenda a metabolização e os riscos para quem dirige - Diário do Centro do Mundo",
-      "published": "2026-04-15T14:06:07+00:00",
-      "summary": "Quanto tempo o álcool fica no corpo? Entenda a metabolização e os riscos para quem dirige&nbsp;&nbsp;Diário do Centro do MundoConsumo frequente de álcool pode afetar rins e desempenho sexual masculino&nbsp;&nbsp;opiniaogoias.com.brVocê sabe o que é Binge Drinking? Prática perigosa entre jovens pode matar em até 2 horas&nbsp;&nbsp;Diário do LitoralO que ninguém nunca te contou sobre a cerveja no seu corpo&nbsp;&nbsp;Correio BrazilienseO perigo silencioso que destrói o fígado de quem nunca bebeu&n",
-      "sources": [
-        {
-          "name": "Diário do Centro do Mundo",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX2I3Z0JQUmJKdy01VUdwbTlJX0F6Z2tBTEtVMmxLMEc5U2M2OUYydEhaOXRfWURkQVp2UklibVVNbDRTQkxMaFZHSUdsVE1GTVktNFcxZ0JBSWhueWo5OUF6MTFqdnAzYUZCUXpEQ1lyNFE0dHZEZmVvTWNDbEg0SDNiWGg3RFdGLW9PWFJCSzBmSEJiMXFpRlVSNXBCYllBbU94ZnB2WXZkaEdFWGx0c2x2SUVHVU5rc0YxLTc4Mkdaeld1REJHOXVqYzNDREV5aTlfZU5BWQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d1edec2c4881",
       "title": "Nutricionista aponta semente poderosa para o controle da diabetes - Metrópoles",
       "published": "2026-04-15T14:06:00+00:00",
-      "summary": "Nutricionista aponta semente poderosa para o controle da diabetes&nbsp;&nbsp;MetrópolesCombinar alimentos reduz impacto da glicose no sangue, saiba como funciona&nbsp;&nbsp;4oitoRemédios caseiros para diabetes: 10 opções naturais que ajudam a controlar a glicose no sangue&nbsp;&nbsp;BnT OnlineEsses 5 legumes baratos podem ajudar a controlar a diabetes: veja como incluí-los na rotina&nbsp;&nbsp;MSNComo evitar picos de glicose ao consumir frutas no café da manhã&nbsp;&nbsp;Metrópoles",
+      "summary": "Nutricionista aponta semente poderosa para o controle da diabetes&nbsp;&nbsp;MetrópolesNutricionista cita 3 vegetais populares que ajudam a reduzir a glicose&nbsp;&nbsp;MetrópolesControle da glicose além do açúcar: hábitos simples que impactam sua saúde&nbsp;&nbsp;Ubiratã OnlineCombinar alimentos reduz impacto da glicose no sangue, saiba como funciona&nbsp;&nbsp;4oitoEsses 5 legumes baratos podem ajudar a controlar a diabetes: veja como incluí-los na rotina&nbsp;&nbsp;MSN",
       "sources": [
         {
           "name": "Metrópoles",
@@ -270,22 +354,10 @@
       ]
     },
     {
-      "id": "54b1f9f77e0a",
-      "title": "Estudo cria 'reviravolta' sobre dois planetas e derruba teoria que aprendemos na escola; entenda - Jornal Correio",
-      "published": "2026-04-15T13:00:00+00:00",
-      "summary": "Estudo cria 'reviravolta' sobre dois planetas e derruba teoria que aprendemos na escola; entenda&nbsp;&nbsp;Jornal Correio",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWUZNNmI0eVRqZnB0NnotWExwbkFjSlhqOV9ueUJzVTNBb0xFbVh5YlpPRVdXeUNaeXo3b0NiLU5xS1pBS1VuNXBLdmJsYjNscmdvWDBfQ3EwM1hFQU9DbWdYYy1yQm8zdWhTRUhRaW1VbGs5d0NTcEtzYU9lcllUbHhhRzRLR2ZQQmdUWHJTbW95OEtweF9rV0N0M2lXNk9uSFFkdkdqRmMtQUhiVGdBM091QnJvVWFLRHlETFo2OWc4dzJ3MzN5TlQtbl9sQ2VZTDVpdTBBRQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f51ca669a57f",
       "title": "GCN: Vacina contra gripe será aplicada no Terminal 'Ayrton Senna' - sampi.net.br",
       "published": "2026-04-15T12:30:47+00:00",
-      "summary": "GCN: Vacina contra gripe será aplicada no Terminal 'Ayrton Senna'&nbsp;&nbsp;sampi.net.brCanoas já vacinou mais de 20 mil pessoas contra a gripe e mantém doses disponíveis&nbsp;&nbsp;– Prefeitura Municipal de CanoasVacinação contra a Influenza é retomada em Ipê&nbsp;&nbsp;Rádio SolarisSecretaria de Saúde de BC reforça a importância da vacinação contra a gripe&nbsp;&nbsp;Prefeitura de Balneário CamboriúSaúde de Canoinhas reforça orientação para que grupos prioritários se vacinem contra a gripe&nb",
+      "summary": "GCN: Vacina contra gripe será aplicada no Terminal 'Ayrton Senna'&nbsp;&nbsp;sampi.net.brSecretária da saúde ampliou o público alvo da vacina contra o vírus influenza&nbsp;&nbsp;R7Canoas já vacinou mais de 20 mil pessoas contra a gripe e mantém doses disponíveis&nbsp;&nbsp;– Prefeitura Municipal de CanoasCoronel Fabriciano intensifica vacinação contra Influenza com ações domiciliares, nas escolas e capacitação…&nbsp;&nbsp;Vale 24 HorasSecretaria de Saúde de BC reforça a importância da vacinação ",
       "sources": [
         {
           "name": "sampi.net.br",
@@ -321,35 +393,11 @@
       "id": "0bac829147ff",
       "title": "9 coisas que comprovadamente ajudam a reduzir o risco de câncer - UOL",
       "published": "2026-04-15T08:31:00+00:00",
-      "summary": "9 coisas que comprovadamente ajudam a reduzir o risco de câncer&nbsp;&nbsp;UOLDor, sangramento, inchaço: sinais e sintomas de câncer que passam despercebidos pelas mulheres&nbsp;&nbsp;GloboCâncer: entenda como as mortes decorrentes da doença podem ser evitadas&nbsp;&nbsp;GZHOpinião | Checklist da prevenção: o que você precisa fazer para reduzir o risco de câncer&nbsp;&nbsp;EstadãoPrefeitura de João Pessoa reforça importância do diagnóstico precoce para combate ao câncer&nbsp;&nbsp;Prefeitura de ",
+      "summary": "9 coisas que comprovadamente ajudam a reduzir o risco de câncer&nbsp;&nbsp;UOL5 hábitos essenciais que comprovadamente ajudam a prevenir o câncer&nbsp;&nbsp;TerraOpinião | Checklist da prevenção: o que você precisa fazer para reduzir o risco de câncer&nbsp;&nbsp;EstadãoOncologista desmistifica três mitos sobre o câncer&nbsp;&nbsp;Estado de MinasFalar é cuidar: quebrando o silêncio sobre o câncer&nbsp;&nbsp;Portal A12",
       "sources": [
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbnNGeHA0M2xyUDBpRW4xOEZ6TE9GWXc4RTg2RTB4VjQ5MGRMM0hNaHpONTVzc1Y0Qm5vUTNDb0E4SGk1MHNhN2dwR1R3U3g1TUphZGNRSUVWM3hBdUxUcFRDdzVrUWR3VXBTZEJHRlBqRmZyVTRJdzgtelNWU1J5VDg5MEtybS1mZnBYRjZsZGc4UkxEb1Y3Zk1lXzZrbzZPVXpJYmtJb3lfUFI3UzRPMWVCQ1U5LXE2Mm1zcUtFTFBxam9jTVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0cae8e517800",
-      "title": "Do diabetes à demência: um efeito cascata a ser considerado - Correio Braziliense",
-      "published": "2026-04-15T08:03:00+00:00",
-      "summary": "Do diabetes à demência: um efeito cascata a ser considerado&nbsp;&nbsp;Correio Braziliense",
-      "sources": [
-        {
-          "name": "Correio Braziliense",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTl9RQ1ZmNEsyekNMYXM1S2ZRNlNvRWUtTU5CUDc2Q1RGbzA5QWlERTRTZ0pmX3FSM00tbzNFTXVJdEpqUDNkSXVGdFdweWVTZ1JtWkhFRFBNdFpSa0NHTkNkQmFPWmkteEFianY0OGN1a2dMYlN0WXdqSXRGM0N1TnpXWmo4czM3bHF4NWp2UDgzUnRLbURUM2FBd1BObmhuWkdfUXp6MHFCNUVON3pWTHF1eF81dXpGN0dRblpMU0Y0MGxVT1QtYlVxdzMwQdIB0wFBVV95cUxQNkFkeGxSM2pwcVBIR1dmbVlIQUNtMExiVHRZa1pyMHhXSkNDbl9QZ2dzYXNVWTlaM3VnUTYySWNPaTFJSWx2eWN0NXNyek5kdktlR2k2UzBvX0hEV1dkN1JrdHJuVmxucEJZMkthakliMjVEazlOZzR3dTY0M2VubnR2ajEzcVNSRXNNYTg0QnBmR1lTaW03TDNSYzdJZ0J3LXhYVjRWOF9GNXBIUkhOc3gwSW90VVhaVENZcWhTN0s0aC1CMTlXeEFpaW9ZNjVaMThB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ffb3ea517abc",
-      "title": "Esteira com IA detecta sinais precoces de Alzheimer e Parkinson - G1",
-      "published": "2026-04-15T07:02:20+00:00",
-      "summary": "Esteira com IA detecta sinais precoces de Alzheimer e Parkinson&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObE01cXkwbENsZ21OV0F5N1JBbENsM1FJWEk0OGJlSzBYRjNhYzkza2dEM1UwLTJXODhIS2hDWVNiMVpPRDRvWHo3OTRwa09meEZpU183UnZfYnNJN2Z3eXZlaWdYM3ktRXpjdkduR3FQOWpEOHJ1dmlmOXdwUVJEMmZuVlVSQ2VUbjE0VGpXRVE1eERaQUUwWFBWd2tLQlBjRG1vN0ZGUjRQQ3lBUEZEZWVrYldwd9IBxAFBVV95cUxQOGFwbGVYZVc4amo0MnJlZUYtUWRfWHpfVUJuUVVMOUhkMjdYcG9kejBaLW9faUJhWkZTN3FOc204QXltTTBrcVVGZ21OVWNpQUNWZUQxeGJNTVpIQ2pPN3k3bnQ2S2hNSmhFaWJmQk9vaFFZQ1pvNXNweUg1RG5kblNnWmdhSklFY2RHSmdSWkctX1BHVHlhQ2hUQmZpNENRSHo0TGlzZ3pyZTdfNjlGa09xeFNaOFpiVnRJamNxcXpzVURB?oc=5"
         }
       ]
     },
@@ -378,26 +426,26 @@
       ]
     },
     {
-      "id": "7ee972be50ee",
-      "title": "Novo PCI: CNPq prepara lançamento de chamada que oferece bolsas a unidades de pesquisa do MCTI - www.gov.br",
-      "published": "2026-04-15T01:52:50+00:00",
-      "summary": "Novo PCI: CNPq prepara lançamento de chamada que oferece bolsas a unidades de pesquisa do MCTI&nbsp;&nbsp;www.gov.br",
+      "id": "8d25c54d3b22",
+      "title": "O experimento do tensor líquido - Folha de S.Paulo",
+      "published": "2026-04-15T02:00:00+00:00",
+      "summary": "O experimento do tensor líquido&nbsp;&nbsp;Folha de S.Paulo",
       "sources": [
         {
-          "name": "www.gov.br",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPV3NUa0pKUnVuMkZybnM5Wl9UVW5ZOUx4X2xVRmZmVE5pNDdmV3JFM2dPTlZzdGgxNU1meS1kd2twZGtvczlaM2QwOUc3YkhHUUxrMEZvWjIzUUd1bjQ1UndTSnRtY3VlZjdnWW1jSlJmUFRKSFN3N0YyTV9LUnVydXlmRk1wbDFfd0VNbmNzWlpJZFAyaDlDV2Z1UGcwOThoZURBQm9RMXJnZ0lyZy1DMzV4ZEJ1c0ZKdEhETWhZOW5wSXp3TmlqTFVWYmV2bWZ4a2FmTEZPRkhFUHUxSExXTnJUMnhWTklVWkE?oc=5"
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaXZQTzhEWUtRU19FZTA4MnI2TGo1QjZrR1Z3dkZyZl9Oa0VjWm5vNmJtTE53RkZ4b2dmb3J2b3U1OGVmTDhETndodWdGUGI1NURXQ09KenROdHFmYjkwb0l1VXpLaFRlenhnMzNiNXpBNUU2eHpFOTFleU9DOUs1LTVoNE01V09oOWNBVXozX3VFNWMzYkJSMlBwNErSAaIBQVVfeXFMUFpYRlRRcllLQThfT25XbHhUeEdJZFVHZlVIMXA0VWVqd2pMNVNTQ3BwclgxTTh6NWtqcW1QWVhLZEZvWXJwVUtnNEs3bTVHZWZIeXlyblc2RnNmM0V1d2RpLWd1N1NKWldxX3ZadmpVaG5qaWxZYlhJckM5NVR1bDdLTlgzMWZnVmMwWkZsWnZNRnRSVmxYSnNYeHpwRS1jMmlR?oc=5"
         }
       ]
     },
     {
-      "id": "b397fa09f95d",
-      "title": "Vacina contra a gripe está disponível em 162 unidades de saúde de Salvador; veja quem pode tomar - Jornal Correio",
-      "published": "2026-04-14T23:54:43+00:00",
-      "summary": "Vacina contra a gripe está disponível em 162 unidades de saúde de Salvador; veja quem pode tomar&nbsp;&nbsp;Jornal CorreioParaná intensifica campanha da gripe e orienta grupos de risco a se vacinar&nbsp;&nbsp;G1Cuiabá mobiliza 72 unidades de saúde para o Dia D de vacinação contra influenza no dia 25 de abril&nbsp;&nbsp;Prefeitura de CuiabáVacina Mais Minas: 100% dos municípios da regional de Itabira mobilizam a população no Dia D contra a gripe&nbsp;&nbsp;Secretaria de Estado de Saúde de Minas G",
+      "id": "0aac9f395eaf",
+      "title": "Novo PCI: CNPq prepara lançamento de chamada que oferece bolsas a unidades de pesquisa do MCTI - GOV.BR",
+      "published": "2026-04-15T01:52:50+00:00",
+      "summary": "Novo PCI: CNPq prepara lançamento de chamada que oferece bolsas a unidades de pesquisa do MCTI&nbsp;&nbsp;GOV.BR",
       "sources": [
         {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdmZoR28xeUlYVU02LVptVFVuZEhfUVdaUHVLNUFfZUJ6cWoyR1dPODYxWFNxS2Uyb2gxUDE3MWtFcnF6MFdhT25Cei1sVV9sRG44ZlRNcVhYLWFaQ1pZbzRRU0RwMDhJRnJsUkRsQTZNRzNneFJIM1hwa25pQk51WXgzYUk1dF9CRkI3SXZablctcHg4aTJqMTd2eVpNQ1VJcU9kbkZFbmNjd0JWbm5xMUFKSGd2QU1JV3hxRUpVR2RLZkVlMnI4STljLVpscFNwVHVDS05hdVVLdW8?oc=5"
+          "name": "GOV.BR",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPV3NUa0pKUnVuMkZybnM5Wl9UVW5ZOUx4X2xVRmZmVE5pNDdmV3JFM2dPTlZzdGgxNU1meS1kd2twZGtvczlaM2QwOUc3YkhHUUxrMEZvWjIzUUd1bjQ1UndTSnRtY3VlZjdnWW1jSlJmUFRKSFN3N0YyTV9LUnVydXlmRk1wbDFfd0VNbmNzWlpJZFAyaDlDV2Z1UGcwOThoZURBQm9RMXJnZ0lyZy1DMzV4ZEJ1c0ZKdEhETWhZOW5wSXp3TmlqTFVWYmV2bWZ4a2FmTEZPRkhFUHUxSExXTnJUMnhWTklVWkE?oc=5"
         }
       ]
     },
@@ -426,22 +474,10 @@
       ]
     },
     {
-      "id": "88f2ec3f0791",
-      "title": "Infarto silencioso: entenda os riscos e veja como se proteger - A Gazeta",
-      "published": "2026-04-14T20:40:00+00:00",
-      "summary": "Infarto silencioso: entenda os riscos e veja como se proteger&nbsp;&nbsp;A GazetaProblemas no coração se desenvolvem sem dor no peito e começam com sintomas sutis que muita gente ignora&nbsp;&nbsp;Tua SaúdeDia Mundial da Saúde alerta para prevenção de doenças cardiovasculares&nbsp;&nbsp;G1Um alívio para o coração: conheça o sinal no sangue que prevê o infarto&nbsp;&nbsp;Estado de MinasAcreditar nesses mitos sobre o coração pode custar sua vida&nbsp;&nbsp;diariodopara.com.br",
-      "sources": [
-        {
-          "name": "A Gazeta",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ3g5TnhQS3ZNQVlsMmdsalJzY1Vxc2RhWU9IZktMSk9wcDYxRmx4elBHVlAtMFVRSXJXQU9sZFJKakVLVkdzLWhHNkJMWFVZcHg0UUNaT1UxbnpEV2VSV2RVamRPN2ZZTlVUMEt3T3cyVi10WFZjV2pqY3FidWtCTy1TaTVmcldxUnpNRnRCejNPanAxN2ZQNDZUZUM3NnVqTl9V?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b5a3028265dd",
       "title": "Anvisa amplia faixa etária de vacina contra vírus da bronquiolite; entenda - CNN Brasil",
       "published": "2026-04-14T20:13:56+00:00",
-      "summary": "Anvisa amplia faixa etária de vacina contra vírus da bronquiolite; entenda&nbsp;&nbsp;CNN BrasilAnvisa amplia uso de vacina contra VSR para adultos a partir dos 18 anos&nbsp;&nbsp;UOL NotíciasAnvisa libera vacinação contra bronquiolite para pessoas a partir de 18 anos&nbsp;&nbsp;G1Vacina contra bronquiolite é ampliada para maiores de 18 anos pela Anvisa&nbsp;&nbsp;Poder360Vacina da bronquiolite para adultos: entenda quando faz sentido tomar&nbsp;&nbsp;Veja Saúde",
+      "summary": "Anvisa amplia faixa etária de vacina contra vírus da bronquiolite; entenda&nbsp;&nbsp;CNN BrasilAnvisa amplia para maiores de 18 anos uso de imunizante que previne bronquiolite&nbsp;&nbsp;GOV.BRAnvisa faz alerta para maiores de 18 anos sobre vacina no Brasil&nbsp;&nbsp;TNH1Anvisa amplia uso de vacina que previne bronquiolite&nbsp;&nbsp;G1Anvisa amplia uso de vacina contra VSR para adultos a partir dos 18 anos&nbsp;&nbsp;UOL Notícias",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -470,102 +506,6 @@
         {
           "name": "Metrópoles",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE55Q0dpWk1ySmh2cWpvMVZiRXNzVXNBX2hFMF91a09HRUtkeTlfemZCRmgzUVdTT0ZYTHg3aTBDR1NMdUNLNDQ3Z0VhMlNUc3ZSYm9ld3NsUjMxZGZ0UmtOSUJLZWxkZXloZ2xpUHVFZkl6WFk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c473810d3b6d",
-      "title": "Estudos recentes nos alertam: os computadores quânticos irão suplantar a criptografia clássica mais cedo do que o esperado - Xataka Brasil",
-      "published": "2026-04-14T18:08:32+00:00",
-      "summary": "Estudos recentes nos alertam: os computadores quânticos irão suplantar a criptografia clássica mais cedo do que o esperado&nbsp;&nbsp;Xataka Brasil",
-      "sources": [
-        {
-          "name": "Xataka Brasil",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVzZ5VlI0T2VKYjRrQk44bjBfRUFvMHZEeE00MEd0dVRfZVZzdjQzTVhtNTRIeE5uVzRqa3Z3WEFYNU9KYUhFc25GZGY0WnBTRFNRVkFYNFYzNkxRYmd2Sl9LV2VjdmRaMWR3dHkzdGc3SzhPX29FZkxCVjJrUmRTTzd1eDFpTF8tNFl5OXFsRU5faGhDZFNsLXFWVWhTOFZnb2RGOGl0bkoxSllOMnh0aG1mTWpRSXo0bDZ1bkVRbWlOWmFlcHNrQVFFSXI1WHI5Z2FYRDNpZTNCMXJLTHJUa3lBQ3F4dmxGbDRCVmdn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a354bf628df8",
-      "title": "Segundo cientistas, cabelos grisalhos não surgem só com a idade e podem ter função vital de proteção contra o câncer - Portal 6",
-      "published": "2026-04-14T16:30:23+00:00",
-      "summary": "Segundo cientistas, cabelos grisalhos não surgem só com a idade e podem ter função vital de proteção contra o câncer&nbsp;&nbsp;Portal 6",
-      "sources": [
-        {
-          "name": "Portal 6",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQWVJeV9iQ0JaOXVlSlpzQklCMjBNdmIwWEhXTkotUzB1RUVLYWV4WG9ad1JQa2MyekNRaERoWFRFa05fVlA5MTdNU2RJa3JmSHFWTjBIM2NtWmZjZG1Pb3FhWGVfeHFpdkJzeTc5RWdkdW1EY0M0RFpZT2hRTTFFYkxzSzNzY1llLV9Ba2FlczUwaGFIeUpTandqcUVtdjNEamZzRHFoaEhIdVRIV1BjYWdYeFozdEM3SjNxRFFLb2VTa0hRYUVDcDZOVmdyOU5MaFI5Wkh6NkZlajFicFNPaHFxTHE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2009c12681c2",
-      "title": "Médico aponta qual o pior inimigo da saúde do fígado e não é a gordura - MINHAVIDA.com.br",
-      "published": "2026-04-14T15:19:31+00:00",
-      "summary": "Médico aponta qual o pior inimigo da saúde do fígado e não é a gordura&nbsp;&nbsp;MINHAVIDA.com.br",
-      "sources": [
-        {
-          "name": "MINHAVIDA.com.br",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UTk1PbGVQSkZNZkNxQUlXbG51bGp1Unhiek1KUUxjeWVabnFBQWFiZXBidndyM2o2cmVOSTVIUTFHbk5TVDdmWXdndzRJUndjeFk2d2lNTVc1cUtfbkRwSdIBZkFVX3lxTE9yMGp5eEFRWXRsVVVXbEluRXVPV3ZYdl8zWWZQV2NITmVfSmFUdGZSaVltZDlRRnFheWI4N2M2SkZFdExlWHJ0WFdSbERTbEh6SjdRWV9YdnA3ajVqdXZVMWt1cm5tdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f652c19fc269",
-      "title": "Urologista explica se fazer xixi mais de 8 vezes é um alerta de saúde - Metrópoles",
-      "published": "2026-04-14T15:07:00+00:00",
-      "summary": "Urologista explica se fazer xixi mais de 8 vezes é um alerta de saúde&nbsp;&nbsp;MetrópolesNoctúria: como parar de acordar para urinar à noite&nbsp;&nbsp;Campo Grande NewsUrologista diz se fazer xixi de madrugada é sinal de alerta do corpo&nbsp;&nbsp;Metrópoles3 hábitos noturnos que prejudicam silenciosamente os seus rins&nbsp;&nbsp;Vietnam.vnAcordar para urinar à noite pode ser sinal de alerta, explica urologista&nbsp;&nbsp;portalviu.com.br",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZnY2bXVxa2VUdnNuZ0RZbkRaTjcyTmg2eVZOUnBHUEpKM1lGTU9wZzRLLXZjTDRRejBKelZfUFBwSTFwa2NCclBWbnd2TEhJdk9FUG5CUlpuTDJuejh1dklxRjVVamNCV3FPQkRrTFpHUGxMVjFfT0RIZlo2cm9iNEVSNkRQQk9FcV9RbUNobWwwSHhPVjg2MnBtVWVfMjkxZVphQUpXNlBneVp2MFYyWkJJbWFMVFpvTzNOb1hR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "76274e6c497c",
-      "title": "Como o café afeta a saúde dos nossos rins: um novo estudo deixa claro que devemos beber mais café - MINHAVIDA.com.br",
-      "published": "2026-04-14T14:34:25+00:00",
-      "summary": "Como o café afeta a saúde dos nossos rins: um novo estudo deixa claro que devemos beber mais café&nbsp;&nbsp;MINHAVIDA.com.br",
-      "sources": [
-        {
-          "name": "MINHAVIDA.com.br",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VZ01GMHBrdVc3cThUUnNUYzAtV1hlQ3loRUtDSm82Sy1kWjRBVXlGX0N5VUpZQmpnT3JDM1daSG1lN3dXQl8wXzdTb01WOEsxXzlVdUJEVEE4WnVmaVJaQtIBZkFVX3lxTE9iVXJ5NjBNdXhPdW1BSFFCLV9MWDRpSlZSSVIzSUpGc2J4OGRkLXZNb0RLb3plb09yY0l0S05QQTRud3EwdUlvcDVLQy1xSEpSOVNOTUlmakJ3WHVsWUc3c2ZKTmt2UQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9b661d07c016",
-      "title": "Experimento alemão comprovou que esferas de concreto são baterias fantásticas e Califórnia está afundando uma de 9 metros no oceano - Xataka Brasil",
-      "published": "2026-04-14T14:04:32+00:00",
-      "summary": "Experimento alemão comprovou que esferas de concreto são baterias fantásticas e Califórnia está afundando uma de 9 metros no oceano&nbsp;&nbsp;Xataka Brasil",
-      "sources": [
-        {
-          "name": "Xataka Brasil",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYllJSWJnZl8xSzRUYmczSTBiSXBZMzh0clNac0RmRElZTnFHWmZTbmRxTVM3QlpCb2cwSWZNVHZIUHBpNzU1clpmdmdhVFVJQ3l4NUhJaW9CVkFycWhkVFZuT1ZyME5zUUhydjdqREFuNDN3VDR4SFd5QmkzNnJOZW8wVnpxZUQ3SzByeEtkSDgyOGFqZHlZRGZPM3pKVV9XczNpTGtva2c1cVFDYVJSWUFUbnFTaUk0M2RzUzkxMHlFZXhfTktSVTRObVJWYTlzUWdfMHktYXZKeFFSQVdweURxRmhXdUpNcWRNS0c1N2o3QQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4c37f0db2e53",
-      "title": "OMS investiga doença misteriosa que já deixou cinco mortos em Burundi - O GLOBO",
-      "published": "2026-04-14T13:13:32+00:00",
-      "summary": "OMS investiga doença misteriosa que já deixou cinco mortos em Burundi&nbsp;&nbsp;O GLOBOOMS investiga doença desconhecida que matou 5 na África&nbsp;&nbsp;iG SaúdeBurundi: Doença misteriosa mata cinco; OMS investiga&nbsp;&nbsp;lamilano.it",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN19idFYxUnZZNndZRms4SGpoYWdHWFRmTGdNQ2xVY0h2OXowVERTTk9VcHdrRzQxenE5LUdkX041MTU5NnZxbGMzb3U4T1NfdlpocGR6dEVYU2RENndTWnR1bURpUTRWOFRNQWQ4akd0SUJRdUl2N212ajZZUHFCdDNaNFJnbS1kMDVvMkFxUGc5RWk0SnJYN3pIU2h2eU1vRTZkQkttYzNqVUpkdWdiWTVCbEVhV2lxY1hDRk9jVE9aa03SAdIBQVVfeXFMTVo5WGMwMmJ5bVdheHBSNjg2MHRXNjFSQU5oaDZwTlZXdXJiUjdubHNIMnJxXzgtLUd3ZlBOS0hRX0pFeXpMNEI3RUJKVWQ5X3pabFprRlVIZ29QaEt1STFiQW0zV0VUaXZqMDZ5RUExSkpvRUt1WUZKVzh6RVRkcVo5Y2owY2ltQ0RtQlVENG5sejM0cjVPR0ZYMGFIWGVmRm1uWS00Z1ZLSERNQzN1NXNzbU1ESFg1VXdyUktHUEM5d21XZTh5WnhBUDJXc0Q1RTBB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bc76e700f71f",
-      "title": "O hábito que consegue reconfigurar seu cérebro: não são palavras cruzadas nem fazer sudoku - O GLOBO",
-      "published": "2026-04-14T13:10:38+00:00",
-      "summary": "O hábito que consegue reconfigurar seu cérebro: não são palavras cruzadas nem fazer sudoku&nbsp;&nbsp;O GLOBOPoucos minutos de meditação já transformam o cérebro; descubra quanto tempo você precisa&nbsp;&nbsp;TerraMeditação altera o cérebro em apenas sete minutos, revela estudo inédito&nbsp;&nbsp;Perfil BrasilMeditação consegue alterar atividade cerebral de forma bem rápida, confirma estudo&nbsp;&nbsp;Jornal da FrancaNão são palavras cruzadas: este hábito pode transformar seu cérebro muito mais ",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVG1taHdjTFJ4bTJhOXpRVGtqRHhQcDl6SVdIT0V6eG85WC15aUhhRUhwV200ZjVOYXJwUk9jUGtycWg5dkZSNXNEWWpGNHlpb3VLUUVMSnU2OEc0RFF1eUZkWFJicFczRzVWNk5pTl9oejN6WkNGU3doY0tQa1RDUmRwZHdUaTQ4S19xLVR3M1I3MHNSQjVOS1dzYnhWRS1OeGQ1ZnJGVGZMM0RaNFpzOGNlekZfR2Zfbkdxelh3VHpIR2RRZVU3VGM4MzFMT29Bckd5ckpXQ0hWYUVqR0HSAewBQVVfeXFMT3pJN1d4cmIyNG85YnBSR2VkLU9PbXFySGdpRE9CaFUwNUtOeURYVlZMaHVhR0hMOV9DRTRidmhUUkdTWTRSZk9LUEEwRU92LUFOdWtfamhlNmNzb1plT1ZrU2N6ZlJfSWR2clJYWEpWaFRfbW5vTl9BUk12V2hobVdfcS1KQkx3dkNmOWlWcjYyOUF6SzMweTcxSUhicVlyRXR3VWhOSmYzZzJRUVVFN013OWlERGpaU1A4YUZ2UzJjMFpfeGN6WEpYVE1EOEgzUVkyc3RwWmxaVUt5QVEzdEVwSDRoMlVXWVpoVEI?oc=5"
         }
       ]
     }
