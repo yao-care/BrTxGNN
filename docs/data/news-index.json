@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-18T02:38:01.054014+00:00",
-  "count": 43,
+  "generated": "2026-04-18T07:12:29.752351+00:00",
+  "count": 41,
   "news": [
     {
       "id": "915a218f8059",
@@ -402,13 +402,33 @@
       ]
     },
     {
-      "id": "4a9107267200",
-      "title": "Gripe K: com um óbito registrado, DF tem outros 5 casos. Veja sintomas",
-      "published": "2026-04-17T18:53:44+00:00",
+      "id": "9ec16820b7ee",
+      "title": "Pare de escovar os dentes logo após as refeições: a ciência emite um alerta urgente sobre esse hábito muito comum - Xataka Brasil",
+      "published": "2026-04-17T20:29:16+00:00",
+      "sources": [
+        {
+          "name": "Xataka Brasil",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMmxNWExDU3hrM0FFQVJLWlY0WnpQZ1lWcFlmZmxfSG8wUkZQSUVPZ3VFU2pxTlRzbnIwSlNCWjhrdG9qTWdQOG1fLUpCOGhtVG9ibThkY29QU1NKeEVfUC1hajdwTU1XS1MwVktVZ1ZiZEtrUXN0dTQ3akxDOXljS05FNHF4N2RBQXVCTTEyM3FDckJNREoydm45UnRJdHZqdW9jSjVnWWFHaFcxZ0JuVVNsZUFmWDYyOXF1Tnh6ejZtSFg0eEZmbHhydTVRZUk?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
+      "id": "c604683ea0da",
+      "title": "Gripe K: veja quem pode se vacinar contra a doença no DF",
+      "published": "2026-04-17T18:39:01+00:00",
       "sources": [
         {
           "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUmdQWTZYeFpLYkprbGV0V1JVcVRZZkVWWDQ1dHBtbFFnTHBwLUw1dUFIR0dkRm5jTFY1WEVJT29kTHFhRTdmV1otM3lBaHQ4TDFRVGJlRXJ3YmthWjB6SW9xRFVGamtNWU9nRmNzWEhtQ0psb245OHpKYjZUdGN4WlFheEVHbS0zcmhHV2p6SHRHVmJVRHd0Q0RvbkI2QVFrRlJMUWlaSVJtQQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd1YzLXIxOGp1bXdka3JncXFobjh6ZFpWc3B5ZnEwWVNVRHo3QzE0NWZnMUlnNWZ3ZHdsSEZxeHFrRDhJYkh4REtJSEdFTTdXUzhWb2dXT1NyLWFacmljQ2hBMDdyd19FZGpWa3l5TjM1X05udXRtcFRhMGxwZl93WXNlaGs0UFE2V1F6dmp6T2dxSk5KU1hXZ0tkcHVzQUFk?oc=5"
         }
       ],
       "keywords": [
@@ -485,55 +505,6 @@
           "keyword": "SIL",
           "name": "SILODOSINA",
           "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
-      "id": "3ed5cafe699f",
-      "title": "Transtorno bipolar atinge 3% da população, explicam médicos à Dr. Kalil - CNN Brasil",
-      "published": "2026-04-17T17:08:22+00:00",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNTJPUUxqUVRSVEdyQVU1VDRfMUh3Mzlfdms5ZVFUV3l4Sks1clJQMHZqV2JxOXNLSkVSRlh5aDNzMmFZWUZOWDhId01XdUFBdGtMQVlpZUlwNHFGYjVMSnBGbzF0XzZiMWF1SDJEOUdEc204TDQ1YVJNTVRvNWpCVDVjVlRsTVAyYUhXRVZSQjlhUmEyZ1NqV0hOYk5hWC1DQWthV25QQQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "levetiracetam",
-          "keyword": "TAM",
-          "name": "LEVETIRACETAM",
-          "url": "/drugs/levetiracetam/"
-        },
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        },
-        {
-          "type": "indication",
-          "name": "bipolar disorder",
-          "keyword": "transtorno bipolar",
-          "related_drugs": [
-            {
-              "slug": "clozapine",
-              "name": "Clozapine"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "bipolar",
-          "keyword": "bipolar",
-          "related_drugs": [
-            {
-              "slug": "clozapine",
-              "name": "Clozapine"
-            }
-          ]
         }
       ]
     },
@@ -1118,26 +1089,6 @@
       ]
     },
     {
-      "id": "2affc0173094",
-      "title": "5 formas simples de perder gordura abdominal - Folha de S.Paulo",
-      "published": "2026-04-17T13:06:00+00:00",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdkZSX2NfVzhLMlBxS0o1SjNIM3RneTJHYm1RdzdVSnhwNjRnV3ZlYThDeko3a3dqX0dZV2V1Sk1nVUlXNWZPRnI0ckxYUW53QUlkQ0M3Z0NaaXlzOHJ5M1RzQjVzMUQwUU11UUhHbFY5UlVOQ0FNMHU2eE9kVkZBRGF2dUhyYjhzbFFPQ2tuX3NTaTBLb0dOYUxfUHNzdjR50gGmAUFVX3lxTFBhU3JRNTVEdzJiVGNPTmZjUzdxUU1laWtvNVVxRklCNDdMcGExMlVzaE9wOHNiejA0SmJYRHp2QzEwVF9WNEdsQkVSNzgyeDZqWkZHcXpzNjc5OXNENGx5ZGxxVUszMU04V0QwRDBmNXVkWVE4R24tbEtHWE9ydGQxZUF5UlFBdHJDdWJiTDBaM3BEQmZBczBnYUVZR0EtSm5aRGcwTWc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "levetiracetam",
-          "keyword": "TAM",
-          "name": "LEVETIRACETAM",
-          "url": "/drugs/levetiracetam/"
-        }
-      ]
-    },
-    {
       "id": "0baaaf993a42",
       "title": "Albert Einstein: 4 filmes que contam a vida e legado do cientista - Guia do Estudante",
       "published": "2026-04-17T13:00:00+00:00",
@@ -1175,26 +1126,6 @@
           "name": "TIRZEPATIDA",
           "url": "/drugs/tirzepatida/"
         },
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
-      "id": "7734bec6cc42",
-      "title": "Cientistas da USP criam sensor de alta performance que detecta ozônio no ar - CNN Brasil",
-      "published": "2026-04-17T12:45:50+00:00",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa0E2U3ExQ0RBMU8tX2JDYWZnR2wxcWR1bFlnU3dzT0g1QzI0WWhpNmhOUVd3djl2bDI1eVNOSC00NEtLd285OEtpSjQ0TDR1MGNydlNKcWoxTURIOWhzUFVrbkRIRUp1VHFwUXh6SGFaejl6RnJ3eFJ2TUhjRjRDMDJqT3lReWxIbnNKYktxYUZsTWZ6ZjRscFRwa3BZbHl3S0hkME55M0Q3OEZmQUwzeW9tOA?oc=5"
-        }
-      ],
-      "keywords": [
         {
           "type": "drug",
           "slug": "silodosina",
@@ -1408,6 +1339,13 @@
           "keyword": "TAM",
           "name": "LEVETIRACETAM",
           "url": "/drugs/levetiracetam/"
+        },
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
         }
       ]
     },
@@ -1452,22 +1390,22 @@
       ]
     },
     {
-      "id": "acacfcca8c77",
-      "title": "Extintas há mais de 150 anos, 158 tartarugas gigantes estão retornando a Floreana, e seu retorno pode revitalizar um ecossistema que vem se deteriorando silenciosamente por gerações - Catraca Livre",
-      "published": "2026-04-16T19:18:00+00:00",
+      "id": "93769c39f34b",
+      "title": "Cardiologista cita medidas da cintura que indicam risco para a saúde",
+      "published": "2026-04-16T19:59:00+00:00",
       "sources": [
         {
-          "name": "Catraca Livre",
-          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQbFFXYS1DUlJLWlJqN1VRU1B3ejVJalYtZ2I2YnRQckVXcThweWRfaDFjRFJ3UHhyOERhOHpzYVFrdG9VWUNTS3N1OHFzdUdBY3ZZaHNwdEpKb3ZURm5qbEY2VE9Zb3ZYVlU4UWt1UWN5Rkdqc1pDdWpnQURfSUJmMkxVd3ZYQVFzaEVWOGs5TWh4a2lKbkc5ZGFhVGE1M0JqTXNZUXd5aHMwYkhtSnVZMjUtSHFwSEJUdG5jOXZLQkxYZDBiSE5lb0lrTDVSbEZnN0pBcThKT3B2YXhiVnd1UldUSkp1U3hBS1FwOS1ETzFtRzlvVzZrdHNDbk9yR0lFeGlSV1lORmxHUUFUanh2N0pWZnpqM2JMMmxBSG5HZVpfdV9qY2cyMDlOYzE0YTl5ZTFMX0dTTjVqTkFuREE?oc=5"
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeEd4S3Zua2hfOWE5bTBLd05IMjdFamtnNmdpX1NrZEc1U191MDE5UlMtajV4TjQ2UmxZQWdaTHAxcm5qTmNFLThHNjZfNUp3NWNKXzJTMmtKcUhSTGQxdHRMTDBpMzYtTDd2Ul9iVWh0c1lZR3pGM2ZpSUNxVnM1c2dhcUNXa0QzVHEyMGFHQThDNTVTbm1FRjhpam55X1pvM0FXQnhmRm9saUJ1UFl4aTlYUGoxQnRPYWpLQg?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
+          "slug": "levetiracetam",
+          "keyword": "TAM",
+          "name": "LEVETIRACETAM",
+          "url": "/drugs/levetiracetam/"
         }
       ]
     },
@@ -1975,13 +1913,6 @@
         }
       ],
       "keywords": [
-        {
-          "type": "drug",
-          "slug": "levetiracetam",
-          "keyword": "TAM",
-          "name": "LEVETIRACETAM",
-          "url": "/drugs/levetiracetam/"
-        },
         {
           "type": "drug",
           "slug": "diazepam",
