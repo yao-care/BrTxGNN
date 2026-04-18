@@ -1,31 +1,103 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-04-17T19:04:29.338621+00:00",
-  "total_fetched": 94,
-  "unique_count": 90,
-  "health_related_count": 32,
+  "fetched_at": "2026-04-18T02:37:59.237193+00:00",
+  "total_fetched": 100,
+  "unique_count": 96,
+  "health_related_count": 39,
   "news": [
     {
-      "id": "ff7c57aee856",
-      "title": "Por que você continua acordando às 3 da manhã, segundo a ciência do sono - Tua Saúde",
-      "published": "2026-04-17T17:37:30+00:00",
-      "summary": "Por que você continua acordando às 3 da manhã, segundo a ciência do sono&nbsp;&nbsp;Tua Saúde",
+      "id": "915a218f8059",
+      "title": "Como é o tratamento da neoplasia, doença que afastou o narrador Luis Roberto da TV Globo - NSC Total",
+      "published": "2026-04-17T21:50:00+00:00",
+      "summary": "Como é o tratamento da neoplasia, doença que afastou o narrador Luis Roberto da TV Globo&nbsp;&nbsp;NSC TotalLuís Roberto inicia tratamento após diagnóstico de neoplasia: 'Vencemos'&nbsp;&nbsp;UOLGalvão Bueno revela conversas com Luis Roberto após diagnóstico de neoplasia: 'Amigo querido'&nbsp;&nbsp;GloboLuis Roberto atualiza estado de saúde após sair da cobertura da Copa na Globo&nbsp;&nbsp;VEJAGalvão Bueno mostra apoio a Luis Roberto e abre o jogo sobre sucessão na TV Globo: \"Mérito total dele",
       "sources": [
         {
-          "name": "Tua Saúde",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZUJOOUlYTC1qTkRxVHN6blR0OGtFTkt2VHl3SU1aakdiM3dfQllFNy1SOVk3c0gzTWpEclJ3VUNNMU1iRlkwbmhzU3VNN2QzZ2E2NlloZDk1bkJWbWpYalFwNmhoUGxDOE0wNzlOanpwbnp3N1g1d2FEQmhjQmpQRzlpWkxkc0pQSWpNeWdvSk1GeEN3QnNZTmcwVDBET0xLeHMxWm0zZDZFaVdQNVlES3AwQQ?oc=5"
+          "name": "NSC Total",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMGh0T2JkTU9CR2Fkd3ZSWjVkNVh1NmNHZkhzTUFhMWdkb2xJc3BMNVdWVzNMLWE3bDBaLWJ0elptUXpBQlpQUkI2ekRlSkpNcjYzLUtrN0t2cURPQ2dIUEtFekxsTVpwUDJ4cUJzdklQcW16QkQ4dVEtOVRXRWlaNGpqZURTQXp2S2d1OFp6b05oMU9lU1ZEeWRFZHJXczcwb0c3REZjQWZfbVhJWU1Pcmg2MnJ2TzRqM3oyTGJSZjBiUQ?oc=5"
         }
       ]
     },
     {
-      "id": "648970e1344c",
-      "title": "Adolescente de 17 anos morre no DF após contrair vírus da Gripe K - Metrópoles",
-      "published": "2026-04-17T17:26:00+00:00",
-      "summary": "Adolescente de 17 anos morre no DF após contrair vírus da Gripe K&nbsp;&nbsp;MetrópolesAdolescente morre no DF após contrair vírus da 'Gripe K'&nbsp;&nbsp;CBNGripe K: Goiás registra os três primeiros casos&nbsp;&nbsp;Jornal do TocantinsAnápolis, Caldas Novas e Itumbiara registram primeiros casos da Gripe K em Goiás&nbsp;&nbsp;Portal 6Gripe K: veja quem pode se vacinar contra a doença no DF&nbsp;&nbsp;Metrópoles",
+      "id": "fa530ff3c6a5",
+      "title": "RS confirma primeira morte por dengue em 2026 - Agora No Vale",
+      "published": "2026-04-17T18:56:59+00:00",
+      "summary": "RS confirma primeira morte por dengue em 2026&nbsp;&nbsp;Agora No ValeVer cobertura completa no Google Notícias",
+      "sources": [
+        {
+          "name": "Agora No Vale",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeG54dUZGYUYyVnBRUUtsNzF3Z0xWQlhaQjNQOFlWMDA5SkNfUXZFc1A2ZVdoZHNmeDJEMlAzYnFZNnBxWlBmajBzWVcxZ2FCbExjWUJmVnduMEZYRklhT0IzNER3Wm5PWlk2UVB1bjZXd1ZOQW56U3A3TEkwc1d4N3YwY0htMlUzV1Y0OVFiZ1kxZ2lSbXY2WEluMnJBdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4a9107267200",
+      "title": "Gripe K: com um óbito registrado, DF tem outros 5 casos. Veja sintomas - Metrópoles",
+      "published": "2026-04-17T18:53:44+00:00",
+      "summary": "Gripe K: com um óbito registrado, DF tem outros 5 casos. Veja sintomas&nbsp;&nbsp;MetrópolesAdolescente morre no DF após contrair vírus da 'Gripe K'&nbsp;&nbsp;CBNGripe K: veja quem pode se vacinar contra a doença no DF&nbsp;&nbsp;MetrópolesCOMUNICADO OFICIAL&nbsp;&nbsp;Prefeitura Municipal de ItumbiaraGripe K: Goiás confirma três casos da variante em cidades distintas&nbsp;&nbsp;GazetaWeb",
       "sources": [
         {
           "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVnZIQnhXdnNXUWdEdDVRbF9ZNDdnSzJ0WEtTLUt0SXNZSEk4NUhwejNkZlRKYklrMlVjVDRXRmYtdW5rSUotZFVBRk94UmRoaXZYcm5NSkpoWlA4WXlhNG9BNjkwN3BrVWNDNWVzc3ZDOHoyQk5FeGwtYmF5VV9kTnFHX0hKZnFFb2VoSjFNX3pGUVRqWWQtOE1vaTlsS2ZOSlNsdkszY1ZBTmJmd2c?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUmdQWTZYeFpLYkprbGV0V1JVcVRZZkVWWDQ1dHBtbFFnTHBwLUw1dUFIR0dkRm5jTFY1WEVJT29kTHFhRTdmV1otM3lBaHQ4TDFRVGJlRXJ3YmthWjB6SW9xRFVGamtNWU9nRmNzWEhtQ0psb245OHpKYjZUdGN4WlFheEVHbS0zcmhHV2p6SHRHVmJVRHd0Q0RvbkI2QVFrRlJMUWlaSVJtQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "959f33281f6c",
+      "title": "Pesquisadores passam temporada na Antártida e retornam com parte do cérebro menor e a atenção alterada - CPG Click Petróleo e Gás",
+      "published": "2026-04-17T18:11:00+00:00",
+      "summary": "Pesquisadores passam temporada na Antártida e retornam com parte do cérebro menor e a atenção alterada&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPa0NKVkpDRGw3TDZLcWh4Rl8zU2otLUJTUmNscEZvZk9GcWkxcjRialFTN3BCWXprMGFaS2N3UkEtdGdhSFpUV2dfeXJpQlVjam96dnhnR0xYT3pHNWJhcEs3LU5IMFAtV0VYTVlwNXJjQ3ZvRGhkUmtkSjl6bEdGOC0wckNDc0F6Wl9kMXBpa0tybU9xNWFHY3IxMVU0bTRhR1RxX0dVTUZPVmRhWkJ4SkF2ZzNsejhaYmFsQ25uWFhzejdkLWZ3MHNaTkVoMU1Udkpqcm1DWWI4cUVmM09pSzM4S29XZWlOUVlCWWJ2bzFvUDVnY1RDT3RwQjg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "54621f4fba2e",
+      "title": "Por que é essencial tomar a vacina da gripe? Alta de casos preocupa - CNN Brasil",
+      "published": "2026-04-17T17:31:11+00:00",
+      "summary": "Por que é essencial tomar a vacina da gripe? Alta de casos preocupa&nbsp;&nbsp;CNN BrasilDia D em Cuiabá terá vacinação ampliada com diversas doses disponíveis para público geral&nbsp;&nbsp;Prefeitura de CuiabáProcura pela vacina da gripe está baixa em Cascavel&nbsp;&nbsp;CatveVacina da gripe está disponível para grupos prioritários no SUS&nbsp;&nbsp;G1Passo Fundo amplia vacinação contra a gripe para toda a população; veja onde se vacinar&nbsp;&nbsp;GZH",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUTZWYlBTVjNkQnA0SlI2X2xJLWVJQzBfMWpnZE1OU0dKZGJHVUFXM2s4WUphVmI3QUVYZnJIOFdsYzZWcEpCV0VETVB0ZUMtMmF0X2Nqa29jQ0E4QzhZeVNsUDlwZzV3c1VnX1pFLVFEVXQ4QTFkSFV0eGhUcGwwWEN1M3VnLUlDUGg2ZGVISk83dENHQUdtLXpJN2tDY25TWXY5YQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3ed5cafe699f",
+      "title": "Transtorno bipolar atinge 3% da população, explicam médicos à Dr. Kalil - CNN Brasil",
+      "published": "2026-04-17T17:08:22+00:00",
+      "summary": "Transtorno bipolar atinge 3% da população, explicam médicos à Dr. Kalil&nbsp;&nbsp;CNN BrasilO que é o transtorno bipolar? Entenda sintomas, diagnóstico e tratamento&nbsp;&nbsp;CidadeVerde.comTranstorno bipolar exige atenção, diagnóstico precoce e acompanhamento especializado&nbsp;&nbsp;O Popular do ParanáSaúde mental: médica explica sintomas e tratamento do transtorno afetivo bipolar&nbsp;&nbsp;Tua RádioTranstorno bipolar ainda enfrenta desconhecimento e demora no diagnóstico&nbsp;&nbsp;Rádio C",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNTJPUUxqUVRSVEdyQVU1VDRfMUh3Mzlfdms5ZVFUV3l4Sks1clJQMHZqV2JxOXNLSkVSRlh5aDNzMmFZWUZOWDhId01XdUFBdGtMQVlpZUlwNHFGYjVMSnBGbzF0XzZiMWF1SDJEOUdEc204TDQ1YVJNTVRvNWpCVDVjVlRsTVAyYUhXRVZSQjlhUmEyZ1NqV0hOYk5hWC1DQWthV25QQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ca2cf5df5de9",
+      "title": "‘Não existe atividade sem risco’: brasileira no topo da governança dos oceanos faz alerta - VEJA",
+      "published": "2026-04-17T17:06:48+00:00",
+      "summary": "‘Não existe atividade sem risco’: brasileira no topo da governança dos oceanos faz alerta&nbsp;&nbsp;VEJA",
+      "sources": [
+        {
+          "name": "VEJA",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSjF6UkpaQmNoTkJlZmFkYXRFUmJJeGEzR0dXQ1BYLS1pV0Y0T1RTVGQ3Z25haUFodEtsWld1ZTVHTnZVSzdhWXdrcjhGZUdSNzhDaXNCU0ZDeXFsRmhrVjM3a2NtdjNtcWVvTGZVaWJzcHJmVldCX0hVeUVnSW5yMUF6QlFhb2N2ajVnWnpUN0g5UFhSWVBITG9GYWwtSWRaSEdPRUNTczBzYnlLcFU3WndoWmRIUW5xX2Z2c2dRUWxPYzJC?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "37056d3eb735",
+      "title": "Endocrinologista lista os 6 maiores erros no controle da glicemia - Metrópoles",
+      "published": "2026-04-17T16:39:50+00:00",
+      "summary": "Endocrinologista lista os 6 maiores erros no controle da glicemia&nbsp;&nbsp;Metrópoles6 erros comuns que dificultam o controle da glicemia&nbsp;&nbsp;Muzambinho.comCombinar alimentos reduz impacto da glicose no sangue, saiba como funciona&nbsp;&nbsp;4oitoControle da glicose além do açúcar: hábitos simples que impactam sua saúde&nbsp;&nbsp;Ubiratã OnlineEsses 5 legumes baratos podem ajudar a controlar a diabetes: veja como incluí-los na rotina&nbsp;&nbsp;MSN",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBteWVjOHdCa0hzOUVFM2xyaEltM1NrRjZob01yWmpGVWxrejA3UF9ZcERWSTduSU90VE1PZ0tGdWtpZ0E1akp2X0NNVWwtTlNzSm5INUNlWDR0NzNOWDIybUVxWEdfZFJXWHpNblRjWGw3Q0dDTGpSSQ?oc=5"
         }
       ]
     },
@@ -42,10 +114,70 @@
       ]
     },
     {
+      "id": "2fa0768c5764",
+      "title": "A doença que não dá sintomas, pode até matar e já afeta mais de 1 bilhão de pessoas - Veja Saúde",
+      "published": "2026-04-17T16:14:51+00:00",
+      "summary": "A doença que não dá sintomas, pode até matar e já afeta mais de 1 bilhão de pessoas&nbsp;&nbsp;Veja Saúde‘As notícias não são boas’, diz ‘papa’ da gordura no fígado sobre doença que virou pandemia&nbsp;&nbsp;VEJAFígado: a importância da conscientização sobre o órgão&nbsp;&nbsp;Estado de MinasOnde dói quando o fígado está sobrecarregado e os primeiros sinais silenciosos&nbsp;&nbsp;Tua SaúdeVocê pode estar prejudicando seu fígado todos os dias sem perceber: os micro-hábitos que favorecem a gordura",
+      "sources": [
+        {
+          "name": "Veja Saúde",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUWVnY3R4VHNteDNNRXR0RUNPbExCckhpRmRZd09ybkxzN0xMQjcwTkwwc2E3ZjFQa0lUeHpiTUx6b1k4aFVKdDU0TmtsMmxHZWRiRVRDV0wyYnRIaUdpaTlfOU1oRk1ZUEpBVHJoOGVZb2g3WGItRlFlVHVNTXN4UEtTeFMwWlg1ZHlWbnJ4QTlxZjVUb0F4dHFxcENYTUtReE00N05mbmJvdGFwS21XWmtNQXZNWmhadWRV?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "05f317e198e3",
+      "title": "GCN: Franca amplia vacinação contra gripe com ação especial no Centro - sampi.net.br",
+      "published": "2026-04-17T15:37:02+00:00",
+      "summary": "GCN: Franca amplia vacinação contra gripe com ação especial no Centro&nbsp;&nbsp;sampi.net.brCidades da Baixada Santista ampliam públicos de vacinação contra a gripe&nbsp;&nbsp;G1Cubatão amplia vacinação contra a gripe a partir desta quinta (16)&nbsp;&nbsp;Prefeitura de CubatãoPraia Grande amplia vacinação contra a gripe para novos grupos nesta quinta-feira (16)&nbsp;&nbsp;Prefeitura de Praia GrandeSecretaria Municipal de Saúde já iniciou vacinação contra a Influenza para grupos prioritários&nbs",
+      "sources": [
+        {
+          "name": "sampi.net.br",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNmdSNXdJb1ZCcEJOclF0WnlJLWhzTG95R1lkWWJmM04tMWY0dERvU2doX2tHQ0d1R1YwcGx3SFpLWWdNNDVKbHBjZ0VWVEhuVlk4WU9wd1kxeHJDbTZ1M21xbTZQQ28wODVsdWJsZzRTZE9nNjJtV1llWkk4TDhyQ2plVlRkbmJjQmxaTUw2RmFxRXd0cGxRSkRTRWwyb0tac2pkR1o0bFNnb2hkUU1iQ0YtUjdqTHBJNk55MzQ4c2V0NWZ3c2FfMkIxLTRBc0Fo?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "25be24bd2323",
+      "title": "Médica aponta 2 pilares que ajudam a conter o avanço da pré-diabetes - Metrópoles",
+      "published": "2026-04-17T15:02:00+00:00",
+      "summary": "Médica aponta 2 pilares que ajudam a conter o avanço da pré-diabetes&nbsp;&nbsp;MetrópolesReversão da pré-diabetes exige mudança rigorosa no estilo de vida&nbsp;&nbsp;Gazeta de São PauloPrograma de Prevenção do Diabetes recruta voluntários para mudança de estilo de vida&nbsp;&nbsp;G1Diabetes tipo 2 pode ser revertido? Estudo analisa critérios de remissão&nbsp;&nbsp;saudeemdia.com.brEstudo recruta pré-diabéticos para acompanhamento e mudança de estilo de vida&nbsp;&nbsp;Agora RN",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbGVGc2R3ZHRNM3dQYWFWQlJrUFBXUktYdjY1ZlZnVGZGMDhvTy1XN1RhSW9VaGtEN3BQRjB2YURHaC1vSmJJOGVPVm5FOGFNMkZKUllSVjJDT1Z5RHhNMWZsNDU2Qi1yVk1NMF9SN1U2ZWdtNmJnQVU3SGJDQmhWNkhaamhuY05LM2dzNGdrY2hva1lZWkJ1VGswdUtFaEM0eWlXNUZxc3Q5cDBZX0ZCMzQwMmFLbDFtTFJlOQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ff7c57aee856",
+      "title": "Por que você continua acordando às 3 da manhã, segundo a ciência do sono - Tua Saúde",
+      "published": "2026-04-17T14:37:29+00:00",
+      "summary": "Por que você continua acordando às 3 da manhã, segundo a ciência do sono&nbsp;&nbsp;Tua Saúde",
+      "sources": [
+        {
+          "name": "Tua Saúde",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZUJOOUlYTC1qTkRxVHN6blR0OGtFTkt2VHl3SU1aakdiM3dfQllFNy1SOVk3c0gzTWpEclJ3VUNNMU1iRlkwbmhzU3VNN2QzZ2E2NlloZDk1bkJWbWpYalFwNmhoUGxDOE0wNzlOanpwbnp3N1g1d2FEQmhjQmpQRzlpWkxkc0pQSWpNeWdvSk1GeEN3QnNZTmcwVDBET0xLeHMxWm0zZDZFaVdQNVlES3AwQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0172d56383f6",
+      "title": "Gastroenterologista explica se infecção pela H. pylori tem cura - Metrópoles",
+      "published": "2026-04-17T13:33:00+00:00",
+      "summary": "Gastroenterologista explica se infecção pela H. pylori tem cura&nbsp;&nbsp;MetrópolesA bactéria que pode causar milhões de casos de câncer&nbsp;&nbsp;Notícias ao Minuto BrasilGastroenterologista explica o contágio da bactéria H. pylori&nbsp;&nbsp;difusora95.com.brGastroenterologista explica o que a H. pylori provoca no organismo&nbsp;&nbsp;MetrópolesGastroenterologista explica os sintomas da infecção por H. pylori&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZHhFZ2JlMGhtN2FmZzFldU1vV1B2em1FdEZNOEJlSGtJaXRkQVQ1anp0VlRPVWgyNkVKcktZOW8wem9RbDRoaFdPdlpnTC1LRU5fR2RiU1hMbTQ2d2xpbjlZX05kOFlSTGR6Tm4zay1ETFlYa25xbVNUOWcwOXVqWGo1SHh0Y2lhNWppN0REbXRHZTlOZ2N4Ni1DR0ZKb091dHBaOGJLRVpzcmhmT3J2UXhPZWM?oc=5"
+        }
+      ]
+    },
+    {
       "id": "3cad58631126",
       "title": "Cientistas descobrem como bactérias 'explodem' para criar resistência a antibióticos - Época Negócios",
       "published": "2026-04-17T13:17:06+00:00",
-      "summary": "Cientistas descobrem como bactérias 'explodem' para criar resistência a antibióticos&nbsp;&nbsp;Época NegóciosEssas bactérias nunca viram humanos — e mesmo assim são resistentes a medicamentos&nbsp;&nbsp;gizmodo.com.brCientistas descobrem que bactérias podem ‘explodir’ para espalhar resistência a antibióticos&nbsp;&nbsp;segundabase.com.brCientistas descobrem que bactérias podem “explodir” para espalhar a resistência aos antibióticos&nbsp;&nbsp;obusilis.com.br",
+      "summary": "Cientistas descobrem como bactérias 'explodem' para criar resistência a antibióticos&nbsp;&nbsp;Época NegóciosBactérias 'Kamikaze'? estudo publicado na Nature Microbiology mostra como bactérias se sacrificam pelo grupo ao explodir e liberar fragmentos de DNA com genes de resistência a remédios&nbsp;&nbsp;CPG Click Petróleo e GásEssas bactérias nunca viram humanos — e mesmo assim são resistentes a medicamentos&nbsp;&nbsp;gizmodo.com.brCientistas descobrem que bactérias podem ‘explodir’ para espal",
       "sources": [
         {
           "name": "Época Negócios",
@@ -57,7 +189,7 @@
       "id": "c2a0baabdebe",
       "title": "Epstein-Barr: cientistas descobrem como bloquear vírus que afeta 95% da população - R7",
       "published": "2026-04-17T13:08:31+00:00",
-      "summary": "Epstein-Barr: cientistas descobrem como bloquear vírus que afeta 95% da população&nbsp;&nbsp;R7Vírus Epstein-Barr, presente em 95% das pessoas, pode ter reativação bloqueada&nbsp;&nbsp;GZHVocê provavelmente está infectado: 95% das pessoas são portadoras deste vírus, mas cientistas descobriram como combatê-lo&nbsp;&nbsp;TerraVírus que infecta a maior parte da população mundial desafia a medicina há décadas, mas novo anticorpo consegue bloquear a invasão e abre uma rota promissora de proteção&nbsp",
+      "summary": "Epstein-Barr: cientistas descobrem como bloquear vírus que afeta 95% da população&nbsp;&nbsp;R7Vírus Epstein-Barr, presente em 95% das pessoas, pode ter reativação bloqueada&nbsp;&nbsp;GZHCientistas descobrem anticorpo que bloqueia o “vírus do beijo” em testes e abre caminho para novas terapias&nbsp;&nbsp;R7Cientistas descobrem como bloquear vírus que afeta 95% da população&nbsp;&nbsp;MetrópolesUma vacina para o Epstein-Barr? Entenda em que pé está a pesquisa&nbsp;&nbsp;Correio Braziliense",
       "sources": [
         {
           "name": "R7",
@@ -66,10 +198,22 @@
       ]
     },
     {
+      "id": "2affc0173094",
+      "title": "5 formas simples de perder gordura abdominal - Folha de S.Paulo",
+      "published": "2026-04-17T13:06:00+00:00",
+      "summary": "5 formas simples de perder gordura abdominal&nbsp;&nbsp;Folha de S.PauloCardiologista cita medidas da cintura que indicam risco para a saúde&nbsp;&nbsp;MetrópolesQual é a vitamina que o nosso corpo produz que auxilia no ganho de massa magra?&nbsp;&nbsp;Assine AbrilGordura abdominal: hábitos e dieta pesam mais que alimentos isolados&nbsp;&nbsp;Rádio ItatiaiaControlar a ingestão de bebidas alcoólicas e praticar exercícios físicos não reduzem a gordura visceral! Pesquisas revelam que a suplementaçã",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdkZSX2NfVzhLMlBxS0o1SjNIM3RneTJHYm1RdzdVSnhwNjRnV3ZlYThDeko3a3dqX0dZV2V1Sk1nVUlXNWZPRnI0ckxYUW53QUlkQ0M3Z0NaaXlzOHJ5M1RzQjVzMUQwUU11UUhHbFY5UlVOQ0FNMHU2eE9kVkZBRGF2dUhyYjhzbFFPQ2tuX3NTaTBLb0dOYUxfUHNzdjR50gGmAUFVX3lxTFBhU3JRNTVEdzJiVGNPTmZjUzdxUU1laWtvNVVxRklCNDdMcGExMlVzaE9wOHNiejA0SmJYRHp2QzEwVF9WNEdsQkVSNzgyeDZqWkZHcXpzNjc5OXNENGx5ZGxxVUszMU04V0QwRDBmNXVkWVE4R24tbEtHWE9ydGQxZUF5UlFBdHJDdWJiTDBaM3BEQmZBczBnYUVZR0EtSm5aRGcwTWc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "4deb98d97981",
       "title": "O que é 'personalidade Ozempic'? Remédio pode achatar emoções em pacientes - Época Negócios",
       "published": "2026-04-17T12:53:33+00:00",
-      "summary": "O que é 'personalidade Ozempic'? Remédio pode achatar emoções em pacientes&nbsp;&nbsp;Época NegóciosCristiano Galindo propõe campanha de conscientização sobre uso indiscriminado de Mounjaro em Goiás&nbsp;&nbsp;Portal da AlegoPensávamos que suprimir a fome com Ozempic era a cura definitiva para a obesidade, até que observamos a perda de massa muscular&nbsp;&nbsp;TerraCanetas emagrecedoras: estudo lista novos possíveis efeitos colaterais&nbsp;&nbsp;CNN BrasilInjeções para emagrecer: Os efeitos sec",
+      "summary": "O que é 'personalidade Ozempic'? Remédio pode achatar emoções em pacientes&nbsp;&nbsp;Época NegóciosCanetas emagrecedoras: estudo lista novos possíveis efeitos colaterais&nbsp;&nbsp;CNN BrasilCristiano Galindo propõe campanha de conscientização sobre uso indiscriminado de Mounjaro em Goiás&nbsp;&nbsp;Portal da AlegoPensávamos que suprimir a fome com Ozempic era a cura definitiva para a obesidade, até que observamos a perda de massa muscular&nbsp;&nbsp;TerraMedicamentos injetáveis para emagrecer:",
       "sources": [
         {
           "name": "Época Negócios",
@@ -162,50 +306,50 @@
       ]
     },
     {
-      "id": "a1644877b559",
+      "id": "fe8ebcbd54ca",
+      "title": "Um filhote de dinossauro enroscado dentro de um ovo, descoberto em perfeito estado de conservação, após 21 anos de pesquisa - Revista Oeste",
+      "published": "2026-04-17T02:45:00+00:00",
+      "summary": "Um filhote de dinossauro enroscado dentro de um ovo, descoberto em perfeito estado de conservação, após 21 anos de pesquisa&nbsp;&nbsp;Revista Oeste",
+      "sources": [
+        {
+          "name": "Revista Oeste",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPMk1tZ09FY3BVZ05wQnIyd2xqRG41MnZ3ME9CSUczV21fRkNqV0pQSUR3UFJVN09TbHg3RlJ2NDF0cUF3bTNDOE92R1ZGbTFLREdFVUFkS2p0SGNZYmZrUWtMSGpycDB1TzJPeHhfenI3ZVFZMGtocU5YVWxubndGVEY1cWpJbjR1aHhiX2Rmb0paMTJOSEVoczhZV0l3UXFYOVBBRlYtYUNDZThsQVI3WWxnTlJlMGpPZjdWbXotTUM1V3BuYzdZQWhSeVpNRWUxRzF2aU1Lc1pmWEM1RnpESWM4RDk3T20zYmtsLXZVbENOb000UlBNSUNnelFoZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "baaf4b30b1eb",
       "title": "Amigo querido precisa de ajuda: Adriano “Schimitão” enfrenta cirurgia e ficará afastado do trabalho - Correio do Lago",
       "published": "2026-04-17T00:34:27+00:00",
       "summary": "Amigo querido precisa de ajuda: Adriano “Schimitão” enfrenta cirurgia e ficará afastado do trabalho&nbsp;&nbsp;Correio do Lago",
       "sources": [
         {
           "name": "Correio do Lago",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORHZpakk1YmdJdzduT2ZVR2R2djVMVG90UXFqRjdnZ3pLVWxrZWZxVlVCbENaWEJBWHNPNF9YbDhtSDRpNENFMkh0ZTNvdk43VmZDVC1yaks4Y3FLUnU0MGhtYkZIMW1majkzczN5VmdrMFNUOThpd3pXWUNqTmhQdXN6WWRvWjVEdFkzUjJFbmZWS3VTNmI0RnctNlNvZGNkUm9mb0tvRzcwbHpXbDJLLUI1c2hqYnBTbFNTTUhKXzhUaXlSdjZ4T21DRzhjeXdnc2NuVFh2S3QtNVZy?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQU21IQzBXTTllbmpzdWRteXlaMlpQMW1BUGZxS3dsTFFmYkljYXdEdHBWZVlNRjBtUXp3VWJ3T0lrY3JfNnRSbmhLdjZKOFVTYWVib3o3X3M5Vl9Bd1FwWlN6RlVFTXJ2TG0ya2MyNDdRN21maVlqYTNtbUVxX0Ixa2Z6WkVaSFNieHhRMDZadDZNbUFWZWhxUkpXYzdPemN0YmRZV1dnQTMxUTd1Y1ZIaXF1WWhCMHpGcGF3SFBTVXpmM2NfdGo1bkdGZ3lGUkVYV19Bczhzdw?oc=5"
         }
       ]
     },
     {
-      "id": "92c97a734aac",
-      "title": "A Índia está inaugurando sua primeira \"estrada vermelha\" para salvar a vida selvagem, e o truque não são cercas ou radares de velocidade, mas sim uma superfície que força os motoristas a desacelerar quase sem perceber. - Catraca Livre",
-      "published": "2026-04-16T23:36:00+00:00",
-      "summary": "A Índia está inaugurando sua primeira \"estrada vermelha\" para salvar a vida selvagem, e o truque não são cercas ou radares de velocidade, mas sim uma superfície que força os motoristas a desacelerar quase sem perceber.&nbsp;&nbsp;Catraca Livre",
+      "id": "003d2223df80",
+      "title": "Casos de vírus sincicial respiratório acendem alerta; entenda - Portal Engeplus",
+      "published": "2026-04-17T00:27:19+00:00",
+      "summary": "Casos de vírus sincicial respiratório acendem alerta; entenda&nbsp;&nbsp;Portal EngeplusParaíba registra aumento de casos de síndromes respiratórias em crianças há seis semanas consecutivas&nbsp;&nbsp;G1Hospitalizações por influenza aumentam 160% em um ano no RS&nbsp;&nbsp;GZHVSR: a faixa etária em que dispararam as internações pelo vírus respiratório&nbsp;&nbsp;VEJAAumentam internações de crianças de até 2 anos por síndrome respiratória&nbsp;&nbsp;R7",
+      "sources": [
+        {
+          "name": "Portal Engeplus",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVjhMdG5tX1VoRmgyNmdBUDJMcS0tU0ozNlFhQnY1TW11Q2VHTzhBTjlpSW41YUVIQ2FiUkNsaWRmeG5nc3gyQ09YM25DRFZ4SkVGTThQazhUdURZZWpkSmoyTlRyeURCV0s1MzhnejFsck4tN2JJOTlJcEg4NHVUZmRScVJCREZWQjdYLVZGTVEtT0VIbm5pUC1sd1Y1WS1NRFQ3Yzl5Nlg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2bd26fce43b7",
+      "title": "Um estudo abrangente identifica quatro idades em que o cérebro muda de rumo, e uma delas é muito mais surpreendente do que o esperado - Catraca Livre",
+      "published": "2026-04-16T20:06:00+00:00",
+      "summary": "Um estudo abrangente identifica quatro idades em que o cérebro muda de rumo, e uma delas é muito mais surpreendente do que o esperado&nbsp;&nbsp;Catraca Livre",
       "sources": [
         {
           "name": "Catraca Livre",
-          "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPY2VjbnBSSEtFTlB0VFRYcFBodkg1eGthajBTLThpRHQtYmJkMmVoSVczcVJIWWZ0d0JURm9wc0xOWWU4Y2Y5UmZFQnFGM1pnSUFjS0gxdm15R3NMYlQxVzlEOGVVQWJuUUpQZ01yNjF3X0gtTV96eXE2ZTdPRi1mSllwcDNIeld4Znl1d05oRF9EcWQ4RDBOeDljblhKSjdTek5kQzFKejc1aGhPWEpaR0ZCQ0NXZVpNWmEtdVZHLXBVWkFsZFFKWUw5VWt2NU40aGliVFlNUExLRWxITFgxWlRUUnZuRFNkZDkxNHlTNzZfVjlnX1FPSmRjRmFYTmxIeWlFd0szb2Z1aGNmOWxIdE5uZnNUQnJETGlUVWQxZEZVbVR4ME90X1Z3VE5xcVZDV1lSNDRqbkJtUjFVX1cxNlhLQUJPSFdwdnVnRXNqTjYxUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "93769c39f34b",
-      "title": "Cardiologista cita medidas da cintura que indicam risco para a saúde - Metrópoles",
-      "published": "2026-04-16T19:59:00+00:00",
-      "summary": "Cardiologista cita medidas da cintura que indicam risco para a saúde&nbsp;&nbsp;Metrópoles5 formas simples de perder gordura abdominal&nbsp;&nbsp;Folha de S.PauloQual é a vitamina que o nosso corpo produz que auxilia no ganho de massa magra?&nbsp;&nbsp;Assine AbrilGordura abdominal: hábitos e dieta pesam mais que alimentos isolados&nbsp;&nbsp;Rádio ItatiaiaControlar a ingestão de bebidas alcoólicas e praticar exercícios físicos não reduzem a gordura visceral! Pesquisas revelam que a suplementaçã",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeEd4S3Zua2hfOWE5bTBLd05IMjdFamtnNmdpX1NrZEc1U191MDE5UlMtajV4TjQ2UmxZQWdaTHAxcm5qTmNFLThHNjZfNUp3NWNKXzJTMmtKcUhSTGQxdHRMTDBpMzYtTDd2Ul9iVWh0c1lZR3pGM2ZpSUNxVnM1c2dhcUNXa0QzVHEyMGFHQThDNTVTbm1FRjhpam55X1pvM0FXQnhmRm9saUJ1UFl4aTlYUGoxQnRPYWpLQg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "96d515f8fb1b",
-      "title": "Narrador Luis Roberto faz primeira publicação após revelar diagnóstico de neoplasia - NSC Total",
-      "published": "2026-04-16T17:57:00+00:00",
-      "summary": "Narrador Luis Roberto faz primeira publicação após revelar diagnóstico de neoplasia&nbsp;&nbsp;NSC TotalGalvão Bueno revela conversas com Luis Roberto após diagnóstico de neoplasia: 'Amigo querido'&nbsp;&nbsp;Globo.comEveraldo Marques será o narrador da TV Globo para os jogos do Brasil na Copa do Mundo&nbsp;&nbsp;TerraGlobo escolhe Everaldo Marques para narrar jogos do Brasil na Copa do Mundo&nbsp;&nbsp;UOLLuis Roberto inicia tratamento e atualiza quadro clínico&nbsp;&nbsp;LANCE!",
-      "sources": [
-        {
-          "name": "NSC Total",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcXA4dlV1MEhkanE5OTlUbHNYemZTQ1lZLTRTUW9tLXFlX2ZDdXNCZ053TDdhUG5KY1p5ZkJ2cTZYV2lQem9jdUtXVGV4d2RIS0M2cURTcnV5WUV0UGJwU0VLTml5dHJZQjk2X3duMkhGYmxtQ256UlRXdzVQekI4eVU2TEdoSzdPZ3ExYWFkdnJfX0hQSHpvdldzZ0ZXdjR5VmZRVkp5bURXUGxTRG5vODJTOHNaV2hXYTFkTg?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQbk4tdmY3a0pQbXZ4QUJOTHk1Yk1YYmpiRm5iUHRwV1JCb0lXSDIxTU1yWlRJQU5BSGZvT2xiWUFxRVI0MFVYWXk2YmwxUHR2dW1GUjVERFpsUVZKNnJRcG5yMldSaktjcGZaRDRvTF9OeUFjNUxNZmpVZWo1aVBHczBMdUtPOHZTX1dIUlNsTTRzNGpNdExyUzNmWDVPOWVrY2tnQ1RzbFVtTUhzSFF5VHA4MDZUc214c2ZORE1Nc1JlS1N0RzU2ZlZFd2hRQjgxM0phbDBONVZEYUx4ajhqVUFheEpWcEpFS1Q4TFVFNWZYYUVvQUZpZmxGT3dXMkk?oc=5"
         }
       ]
     },
@@ -213,11 +357,23 @@
       "id": "059dfb513319",
       "title": "Câncer de testículo: os 4 sintomas do 'caroço silencioso' que mais afetam homens jovens - O GLOBO",
       "published": "2026-04-16T17:25:45+00:00",
-      "summary": "Câncer de testículo: os 4 sintomas do 'caroço silencioso' que mais afetam homens jovens&nbsp;&nbsp;O GLOBONódulo incolor, inchaço e sensação de peso podem indicar câncer no testículo; saiba mais sinais&nbsp;&nbsp;Jornal CorreioCâncer de testículo: por que é comum em homens jovens?&nbsp;&nbsp;A GazetaCampanha Abril Lilás conscientiza sobre o câncer de testículo&nbsp;&nbsp;HiperNotícias - Você bem informadoDo diagnóstico ao gramado: jovens atletas ajudam a revelar câncer raro&nbsp;&nbsp;Região Hoj",
+      "summary": "Câncer de testículo: os 4 sintomas do 'caroço silencioso' que mais afetam homens jovens&nbsp;&nbsp;O GLOBOCampanha Abril Lilás conscientiza sobre o câncer de testículo&nbsp;&nbsp;G1Nódulo incolor, inchaço e sensação de peso podem indicar câncer no testículo; saiba mais sinais&nbsp;&nbsp;Jornal CorreioCâncer de testículo: por que é comum em homens jovens?&nbsp;&nbsp;A GazetaCÂNCER DE TESTÍCULO PODE SER IDENTIFICADO PRECOCEMENTE COM SIMPLES AUTOEXAME&nbsp;&nbsp;- Bahia Economica",
       "sources": [
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcDBnNzNWU2NEQWgyTkI2b2FCdEpZb1ZXckJGRVVETG5sNU5RUjVDV2tIektCdll5TEpLMkJkRUNUWTFwSXJ1NlNPUmlUcWRpWkFHRHZTMFBXM2c2Y095bXhOYk1yeHExNmd2NE5abVYxQzBYZEc3TWlBdURIcnM3a1RKQU1Qd1RQUEJadnZaeEExNzRSU0tBWWRwWjZRZ1VqZXh6T2tJMG04Y1ZXQ3B5N3FBeG5IOHlRMkZsTEJ5TVVYNG1oSDVQLTlSdThyRUUwclN0S0dzc9IB5gFBVV95cUxONmxWZjVWSy02UElTdEYzaURaeDJiS3MwNmdfaklQZFp2aUxLZmRTTFVXT0w2cC1MeWFoTUdtWjZnSVV1MzlRS3RUb3JOOS1xdzBrT013eFJpWkJLZUdiMy1LQWZ2QzBJNGRqeEV6a05rd0pjcy1rR3RZNjY4ZGlMbmloQkh0d3pjemxxUDdXVldiV1hBRmZqbDllVTJ5TlcxdjJfRDhic3AyMFZVZnB4RkxJNVM1RkxJZ3VqaV91Vl94THVZWE43Z0J6Z08wb2owVnRKcnRBRjNWa19lNWhYM3M1bF8zdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8a174af5b497",
+      "title": "Gases da Tia Milena, do 'BBB 26', chamam atenção: o que eles podem revelar sobre um incômodo comum - Extra online",
+      "published": "2026-04-16T16:20:12+00:00",
+      "summary": "Gases da Tia Milena, do 'BBB 26', chamam atenção: o que eles podem revelar sobre um incômodo comum&nbsp;&nbsp;Extra onlineExcesso de gases não é normal e pode indicar problemas de saúde; veja quando investigar&nbsp;&nbsp;Banda BGases em reality: por que o tema viralizou e o que revela sobre a saúde&nbsp;&nbsp;TerraMilena no BBB: gases em excesso podem indicar problema de saúde?&nbsp;&nbsp;MetrópolesExcesso de gases não é normal e pode indicar problemas de saúde&nbsp;&nbsp;band.com.br",
+      "sources": [
+        {
+          "name": "Extra online",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdEI4Y2lpRGh0MnMtU3I2U25kVkVPakN0dnBiWmdnaVRlY05GQng0SDNRakVTQmFhTnBDSjhzekZwNEFRS1JNZmF6bHJkVzNmaGd3MHZUVFd5dlVnWHlfRFRpVmJuRVE4bm44ZEpGbTFpTjExMVU4eFRSRDlNMUNkZktGSnBvbDhBdUlORGFyYmw2bVVrVV9rR2xUY24zQlpXVnJBaElhMGQycGZYUENXWUJHUDg2U3V1dmN4cFZaSUVmcXZpNmpwMFZINVVjQzFNdU56ZGlIbDltOEZmTWfSAewBQVVfeXFMT1FSaUpFUWNESm1lcHJnSDRzTzc4UVVzdldWa0NSUms3OUxPQ2lTZTU1VHVOWklzRzJFaTQya1pIT2NmMTFuM3U0cnQxVW1hWTIzcENBVzQ3clRrSE5uekdGa2dDc082RmVsMTE5Njd4M2xxT09BWi1pTU03ZnE1TWdOaHJDRURnaU9fcHZ3UTE1bE5kLWRvNGRvRlkyZGx5TDRhSldqaGt0RF9MMWcxaEl0MDRUOFlDMUY1QWRzWms2em9XU3ktQzYtM0tFRG5zNUNCMWFkQ3ZHaGE0cmtiTmFfaHVEZ2ozdWdVeUo?oc=5"
         }
       ]
     },
@@ -237,7 +393,7 @@
       "id": "cd8d9f0db73a",
       "title": "Dourados confirma primeira morte por Chikungunya em área urbana - Dourados News",
       "published": "2026-04-16T15:17:00+00:00",
-      "summary": "Dourados confirma primeira morte por Chikungunya em área urbana&nbsp;&nbsp;Dourados NewsCom 5,8 mil casos e 12 mortes, três cidades de MS decretam emergência por chikungunya&nbsp;&nbsp;MidiamaxEstado reforça articulação com municípios e Defesa Civil e amplia ações contra chikungunya – Agência de Noticias do Governo de Mato Grosso do Sul&nbsp;&nbsp;agenciadenoticias.ms.gov.brForça Nacional do SUS deixa Dourados em meio à epidemia&nbsp;&nbsp;Campo Grande NewsMS representa 63% das mortes por Chikun",
+      "summary": "Dourados confirma primeira morte por Chikungunya em área urbana&nbsp;&nbsp;Dourados NewsMS recebe vacina contra chikungunya; saiba quem pode tomar&nbsp;&nbsp;Campo Grande NewsCom 5,8 mil casos e 12 mortes, três cidades de MS decretam emergência por chikungunya&nbsp;&nbsp;MidiamaxEstado reforça articulação com municípios e Defesa Civil e amplia ações contra chikungunya&nbsp;&nbsp;agenciadenoticias.ms.gov.brMS representa 63% das mortes por Chikungunya do País&nbsp;&nbsp;Correio do Estado",
       "sources": [
         {
           "name": "Dourados News",
@@ -273,47 +429,11 @@
       "id": "8ad788d19515",
       "title": "Parkinson: sinais além dos tremores e como agir cedo - aquinoticias.com",
       "published": "2026-04-16T13:40:19+00:00",
-      "summary": "Parkinson: sinais além dos tremores e como agir cedo&nbsp;&nbsp;aquinoticias.comParkinson não é só tremor: ato reforça necessidade de conscientização para diagnóstico precoce&nbsp;&nbsp;Assembleia Legislativa do Estado de São PauloMédico neurologista tira as dúvidas dos telespectadores sobre a doença de Parkinson&nbsp;&nbsp;G1Evento gratuito em hospital de Curitiba orienta sobre sintomas e tratamento do Parkinson&nbsp;&nbsp;Banda BParaná reforça assistência e conscientização contínua sobre a Doe",
+      "summary": "Parkinson: sinais além dos tremores e como agir cedo&nbsp;&nbsp;aquinoticias.comParkinson não é só tremor: ato reforça necessidade de conscientização para diagnóstico precoce&nbsp;&nbsp;Assembleia Legislativa do Estado de São PauloMédico neurologista tira as dúvidas dos telespectadores sobre a doença de Parkinson&nbsp;&nbsp;G1Conscientização do Parkinson ganha destaque em abril com alerta para diagnóstico precoce&nbsp;&nbsp;R7Paraná reforça assistência e conscientização contínua sobre a Doença d",
       "sources": [
         {
           "name": "aquinoticias.com",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQXB0S1o2WHNncTVWUUhMTFJ1WTY0cXQ5b0xOLUtpMkV4UVFySXFFRnZRYVVHdE1YNHdNRlpqbDVTMGtFMlFzelI4anF0UUJNX09QNzRacm1LeE04NXNBTk1SZXFFTnVETEZhMWxOeW1ub3dTb1QzNEctTFlFeTRxOG1EaG1nYTR2TVNIZlpUZUwyNnRYNjJ3amhZZFlzQ3l2ZE52UXk4cjZUV05zbnBoanZiMFlWLWNtakdEVw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "94a17549de8d",
-      "title": "Gastroenterologista explica o que a H. pylori provoca no organismo - Metrópoles",
-      "published": "2026-04-16T13:27:00+00:00",
-      "summary": "Gastroenterologista explica o que a H. pylori provoca no organismo&nbsp;&nbsp;MetrópolesGastroenterologista explica se infecção pela H. pylori tem cura&nbsp;&nbsp;MetrópolesA bactéria que pode causar milhões de casos de câncer&nbsp;&nbsp;Notícias ao Minuto BrasilGastroenterologista explica o contágio da bactéria H. pylori&nbsp;&nbsp;difusora95.com.brGastroenterologista explica os sintomas da infecção por H. pylori&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTjVudXBzLXNVZ0ZReHIzMmdJVElsMnRLcF9SVEhsNXlWM3JlN2ZvLUZDNkdtM2MwVVRjdjVvamlmOUcyYnZIWDkyS1FvVTlIVjRfSmtqZWZCdnl4dmIzWTlBZlRRc3NLNUxfRkRZU2JPeW1BeXlDYlN5UzVwMUtFdF9tN25oZlZleXVhclhwZzd3bmJEUkZwTE9BR3kxVnhpUFFWcExoY01MSXczay1jcUhFVXVJNDlM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6e052ed3f5db",
-      "title": "Casos de vírus sincicial respiratório acendem alerta; entenda - Agência Brasil",
-      "published": "2026-04-16T13:02:00+00:00",
-      "summary": "Casos de vírus sincicial respiratório acendem alerta; entenda&nbsp;&nbsp;Agência BrasilVer cobertura completa no Google Notícias",
-      "sources": [
-        {
-          "name": "Agência Brasil",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS0FCRUpnUWxXNThGRlBITGxSQlVKRTVSb3NrY2xiUXF0a1FFYXBPRkRyTmdhX1ZyMC1USDVZRkgwOEd3ZnNLLTEtS2pWa0lnZFhXSFlhaWpsTDE3Ti04LWowS2tFV25uX2dPM3Rpa1hKTExzaEVhQTFIYzljZlpfNW1rd29DNWd2Tjg4VHV2VF8teE9ZM1NfZUVLc1hsOExtSkdRdU53c0xRb05hT0tvNnZuaE96QQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3b70fb2498d9",
-      "title": "Mais de 70% dos municípios de MG estão em alerta ou risco por dengue, chikungunya e zika; saiba como evitar - G1",
-      "published": "2026-04-16T08:05:17+00:00",
-      "summary": "Mais de 70% dos municípios de MG estão em alerta ou risco por dengue, chikungunya e zika; saiba como evitar&nbsp;&nbsp;G1Estado divulga primeiro Levantamento Rápido de Índices para Aedes Aegypti&nbsp;&nbsp;G1Dengue: 184 cidades mineiras estão em situação de risco de epidemia&nbsp;&nbsp;Agência BrasilMinas Gerais tem 71% das cidades em alerta ou risco por dengue, chikungunya e zika&nbsp;&nbsp;TerraCasos confirmados de dengue sobem 22% em uma semana em MG; mortes chegam a 10&nbsp;&nbsp;O TEMPO",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPRWU1VktOVjZjREg0dlBjOFJNVDhyanNDZmlpb09JS05WUHdvMGVXbkRnM1gxeDY2SmZYVER4enhicGpYV2xaU0gwazNrZnJuNkFxR0Q2dS1MQmZZWkplbkhfM0pmNVduTmVuT1h1Wm11RnZFaU5aRE93SERZc0lfYjQ5MC0wU2xRWkpycy1FdUhvc3F5SC1RaXpyNWNNN0xyWjBKLXBwMlBVOFlYVkZnMVZtcTZHeUEtZGtuRW91ZDFNem9scEhDMkltdWZnVkJqMGszb1JydHdNdHZhQUZuTVlRRDJGc21Rd2o1ZEx3YmJINVcxNlAtQ2g3NWJJbEp0UEY40gGSAkFVX3lxTE0zTTh4T1J2b2hwTFl2QWJVRmV4b3ZuWnBHYUl1SF8tR1BXN05aSXpRbFlKYVNLWGZ1TDhnOVRULWh5S0o3T3NqOE9tdG5SRlNyeDM2ME9ydlZwbHM0X1ZIcURoT2pTVlFJMXI2Q2Z5LXRyYkdEMllmYmM5RGk2dDNCNHdqM2FUdFpTQ04wVnFZUURSYzZRUWszNGZDVUJUcllydHhkWUxQaVNTMnE2TjQ1M2xkTndJMl9hUUFIUDVmMGZPYmdoVHJlWTZfcXdYakxBeW9wd1lhYUtwamluOHpkWjhrZzBBcjlyMWE5WklrcUlLYVNRY0NyaUt0NUh1MGZvX0dSb1JKN0I4UEpPWTBmWlE?oc=5"
         }
       ]
     },
@@ -350,42 +470,6 @@
         {
           "name": "CPG Click Petróleo e Gás",
           "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPalZnT3NZb3BBZy1HSmRRdW9jLTF3VlBtQzRGelJrdFhmVDFTajd6VjdwNld0ano1SWJoWGFpcFNkM1NKR3k4SmM0US1WU3RFd0tUdnhMZ0FGX09aa3U4UmUtQVBZVW1Ecm1QbTM5b1BtWHB5OHVkWVdHQURUYzhLNmhlRFAzb1dhX3dnYnkta2tmOGJGc3FxNll3bU1kTXBNcjcwWDFLS2hiQmtadDJEaGNZbkVDZU5EVjdEajVxWGtIME1MckRsZmNTVGlXME9sV3IwaUxvdGl3WXlVWHZ6UE9nMHRNWE53SUpsRXhRWGpTMl9UVVBSamFuYVA2N3VkOXJjMG1fekFkbk1rcm1zM1JJZkM5dnJFZlRVYjh0bDBhNU5GdXk2WEpvZUFPM0RpVW1Uc0p5bEFscTVCcldXeTUwbjdDdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "81ca21d2f316",
-      "title": "Corrente oceânica que regula o clima global vai enfraquecer mais do que se pensava, aponta novo estudo - G1",
-      "published": "2026-04-16T06:00:34+00:00",
-      "summary": "Corrente oceânica que regula o clima global vai enfraquecer mais do que se pensava, aponta novo estudo&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYWYzZklxZFUySUxpcTdUbkxHLUMzZ05jNENveVRLSVZCQmdFUDljMHRyOE9zeUdBM1R1OGlPaVZyYkF1YWdhUjF6VjVsTUZtR3R1WXhzMFBkMDR3MVl5Q1pITVRtOGo1YUV0UXgyWEZNMHE2bkFTWnI0SGN3dDZILWo0b1pxS3doX1poNmotOHU5bERRdW9GdjVuWHlkZHlUb2JXQkE0SXdIVmNNYkNLZTk3NUpYWjdFOTVSdGhmV0N5WUtwQUVxNFNrQU1GbzllVVZuR3ZaSjJSWTZzOVl5WlVDdmhMS1VyTXFmOFFMVnJIVnfSAYICQVVfeXFMTy1OaTFUOWdEX0xjMnRtWHNfdF9sVHVoOC1RNkdMYWVONjR0b2VBRFYyZHdTYU93Smp5Z2M1OGY1b2Rpa3ZkbWNKQ0d3V2pCYnBFQ0MyWmtrN05fQ0JVbVV4RkJDc2c3WWRaZFp6Q3Z3WEVrU1laOGg5UGtBUFgwZ1B4WXNaX3J5N0ZIMGJGcllHb0VWMm9UTGQxS0FnaTh3WGVrUzBLSHdKaXFIb3NZaVhuN3pJa01ISXpVNlYxS1c4SWJCd3BKSU01OU1KWF9PU3pNRTNYU0w4eVNLN0E5Z0k5eVJHUDB2d09sYWlpbTRLUWkyMXpKVXlMSWZFcGhuemhn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d970694eee99",
-      "title": "Confira 5 alimentos saudáveis que você deve evitar antes de dormir - Metrópoles",
-      "published": "2026-04-16T05:00:00+00:00",
-      "summary": "Confira 5 alimentos saudáveis que você deve evitar antes de dormir&nbsp;&nbsp;MetrópolesComer banana, uva e manga à noite pode não ser ideal e cardiologista explica o motivo&nbsp;&nbsp;Estado de MinasQue horas deve ser a última refeição do dia para manter a saúde? Veja sugestão&nbsp;&nbsp;Tribuna da BahiaA pequena mudança no dia a dia que ajuda a perder peso&nbsp;&nbsp;Notícias ao MinutoComer tarde da noite não é apenas uma questão de hábito: esse tipo de alimentação prejudica silenciosamente o ",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNmJ5akVLT2dIQ1lNWmVqUkpwQU1rOWVfM3pZaDk2RUZ1RTRoRENDZE1HTm90Y3B3QUVsMFJMU0UzSk1mRDVQcE94OUlfMEVBbU1wVkh1aGVVaElyTmhDVWMtdXIzd2EtbzNBcHhpWWZVdUo5T2o2Si1aeTFKc1NjckR0OG5rUUZCTWtIR0NnRnRtbDh6SmhrYVhoM3JEbDNvemg5SVU2MzUteERrVlMyRUR2WGVFbV9WR1E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4f6e7f6e58f1",
-      "title": "Os cientistas acreditam ter identificado com muito mais precisão o local de origem do Homo sapiens. A descoberta combina fósseis, clima e evolução para reconstruir a origem da nossa espécie - Revista Oeste",
-      "published": "2026-04-15T21:31:33+00:00",
-      "summary": "Os cientistas acreditam ter identificado com muito mais precisão o local de origem do Homo sapiens. A descoberta combina fósseis, clima e evolução para reconstruir a origem da nossa espécie&nbsp;&nbsp;Revista Oeste",
-      "sources": [
-        {
-          "name": "Revista Oeste",
-          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQNG82cWs2V0FBc2kwVjNyN1ktZ1lQNUdDOWoxbEtDWlhTVHFoeWM1SEdTWTktNGxOVWJSUkxEa2x0T3FzVWYzaWdta0JaZ21rSFk3MER5emxGZVhEN2dtVVdIek1VYjBrNzdhSFliQVBBTTR2WlFjSllJYVVfdGliRFpCZVNWY1JibXQ1UGdYMWEwUlFWVllmUHhRaVFwT3BSMEpmcjM1OEdlbml6emUzOVpMSm5UMDRrU0h0ZllMRVhRQ0xpM2RETW1kWGxSOW1ySHZkZnVuQm5pSkRwSjFpTmVXVGw0LWllTUM3NEpCZGROdmF0STdjTmktcVdBOXhTdWxWY05PSUVaaTVteGhRekVJbk9wem5MdGlCdV9YUG95eFNWdkM5UnQyZVV1SGlEV24zYU0zRzR4clFhN1dVZGwzbzE5UlBOeUo2dmVvZHBnMnExNFE?oc=5"
         }
       ]
     }
