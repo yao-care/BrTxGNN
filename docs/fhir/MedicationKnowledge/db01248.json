@@ -3,26 +3,27 @@
   "id": "db01248",
   "meta": {
     "profile": [
-      "https://brtxgnn.yao.care/fhir/StructureDefinition/BrTxGNNMedicationKnowledge"
+      "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
     ]
   },
   "status": "active",
   "code": {
     "coding": [
       {
-        "system": "https://go.drugbank.com/drugs/",
-        "code": "DB01248",
+        "system": "https://brtxgnn.yao.care/drugs",
+        "code": "db01248",
         "display": "DOCETAXEL"
       }
-    ]
+    ],
+    "text": "DOCETAXEL"
   },
   "intendedJurisdiction": [
     {
       "coding": [
         {
           "system": "urn:iso:std:iso:3166",
-          "code": "BR",
-          "display": "Brazil"
+          "code": "TW",
+          "display": "Taiwan"
         }
       ]
     }

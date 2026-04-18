@@ -7,7 +7,7 @@
   "title": "BrTxGNN FHIR Server",
   "status": "active",
   "experimental": true,
-  "date": "2026-04-12",
+  "date": "2026-04-18",
   "publisher": "BrTxGNN",
   "contact": [
     {
@@ -19,7 +19,7 @@
       ]
     }
   ],
-  "description": "BrTxGNN drug repurposing prediction data exposed as FHIR resources. Contains 993 drugs and 3010 predicted indications.",
+  "description": "BrTxGNN drug repurposing prediction data exposed as FHIR resources. Contains 256 drugs and 7402 predicted indications.",
   "kind": "instance",
   "software": {
     "name": "BrTxGNN Static FHIR API",

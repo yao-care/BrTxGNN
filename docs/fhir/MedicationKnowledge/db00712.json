@@ -3,26 +3,27 @@
   "id": "db00712",
   "meta": {
     "profile": [
-      "https://brtxgnn.yao.care/fhir/StructureDefinition/BrTxGNNMedicationKnowledge"
+      "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
     ]
   },
   "status": "active",
   "code": {
     "coding": [
       {
-        "system": "https://go.drugbank.com/drugs/",
-        "code": "DB00712",
+        "system": "https://brtxgnn.yao.care/drugs",
+        "code": "db00712",
         "display": "FLURBIPROFEN"
       }
-    ]
+    ],
+    "text": "FLURBIPROFEN"
   },
   "intendedJurisdiction": [
     {
       "coding": [
         {
           "system": "urn:iso:std:iso:3166",
-          "code": "BR",
-          "display": "Brazil"
+          "code": "TW",
+          "display": "Taiwan"
         }
       ]
     }

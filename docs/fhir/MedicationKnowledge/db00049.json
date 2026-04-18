@@ -3,26 +3,27 @@
   "id": "db00049",
   "meta": {
     "profile": [
-      "https://brtxgnn.yao.care/fhir/StructureDefinition/BrTxGNNMedicationKnowledge"
+      "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
     ]
   },
   "status": "active",
   "code": {
     "coding": [
       {
-        "system": "https://go.drugbank.com/drugs/",
-        "code": "DB00049",
+        "system": "https://brtxgnn.yao.care/drugs",
+        "code": "db00049",
         "display": "RASBURICASE"
       }
-    ]
+    ],
+    "text": "RASBURICASE"
   },
   "intendedJurisdiction": [
     {
       "coding": [
         {
           "system": "urn:iso:std:iso:3166",
-          "code": "BR",
-          "display": "Brazil"
+          "code": "TW",
+          "display": "Taiwan"
         }
       ]
     }

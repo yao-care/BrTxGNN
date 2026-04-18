@@ -3,26 +3,27 @@
   "id": "db13956",
   "meta": {
     "profile": [
-      "https://brtxgnn.yao.care/fhir/StructureDefinition/BrTxGNNMedicationKnowledge"
+      "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
     ]
   },
   "status": "active",
   "code": {
     "coding": [
       {
-        "system": "https://go.drugbank.com/drugs/",
-        "code": "DB13956",
+        "system": "https://brtxgnn.yao.care/drugs",
+        "code": "db13956",
         "display": "ESTRADIOL VALERATE"
       }
-    ]
+    ],
+    "text": "ESTRADIOL VALERATE"
   },
   "intendedJurisdiction": [
     {
       "coding": [
         {
           "system": "urn:iso:std:iso:3166",
-          "code": "BR",
-          "display": "Brazil"
+          "code": "TW",
+          "display": "Taiwan"
         }
       ]
     }

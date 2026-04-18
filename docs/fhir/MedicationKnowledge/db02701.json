@@ -3,26 +3,27 @@
   "id": "db02701",
   "meta": {
     "profile": [
-      "https://brtxgnn.yao.care/fhir/StructureDefinition/BrTxGNNMedicationKnowledge"
+      "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
     ]
   },
   "status": "active",
   "code": {
     "coding": [
       {
-        "system": "https://go.drugbank.com/drugs/",
-        "code": "DB02701",
+        "system": "https://brtxgnn.yao.care/drugs",
+        "code": "db02701",
         "display": "NICOTINAMIDE"
       }
-    ]
+    ],
+    "text": "NICOTINAMIDE"
   },
   "intendedJurisdiction": [
     {
       "coding": [
         {
           "system": "urn:iso:std:iso:3166",
-          "code": "BR",
-          "display": "Brazil"
+          "code": "TW",
+          "display": "Taiwan"
         }
       ]
     }
