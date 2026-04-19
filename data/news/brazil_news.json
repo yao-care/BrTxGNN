@@ -1,10 +1,70 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-04-19T13:06:51.687387+00:00",
-  "total_fetched": 104,
-  "unique_count": 103,
-  "health_related_count": 47,
+  "fetched_at": "2026-04-19T18:55:34.817338+00:00",
+  "total_fetched": 100,
+  "unique_count": 98,
+  "health_related_count": 42,
   "news": [
+    {
+      "id": "a5eb64a3c0a3",
+      "title": "Laudo aponta lesões no pulmão de professora que morreu após aula de natação - Folha de S.Paulo",
+      "published": "2026-04-19T17:05:00+00:00",
+      "summary": "Laudo aponta lesões no pulmão de professora que morreu após aula de natação&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcE9sdTdjcjMzXzE4M1V2U2VhNm8xUHZ5am1JeGFxOF83X1hfaDQ5MEhrWXd4VGZqaGp5NEZQaENQRm5DRWdyRXZWWktfbjdEeDFCbzBKcDhGZnBTQXc2Z0NySExyLXNpQWFwU1RJZnpkT3hzTkNPbURxd0pXRTIyMHpSQUZuWUlwMURoMnQ4YTZtcU5ocWl1cERGa0ZCcDdzaFZqQmdPMF9LNzlLUUxJUTEzVWNVbkppRTFqY2dCU19hTzJWVUxKZNIBzgFBVV95cUxOT3J5WDd4SDVSYzJUa2pyS1Ftb2JpemZxOFJITHRQY3BYX3JEeDU1eTNXLTh2TG03ZDFOUkhHMktfdldoWC1CbGI1Z0lvWE0zaFBjVHFGUE1WTk1oV2VWc08zTFQyak5pYzVob202cFBWSV9VeWtDNTRoRXVLd1pxZGFZQnRTRkF6QmZnZnllTFVLeW04OHJCVEJFRTFBeEY0NG1RX0xsVV8xWHlza0FQaTFuS1RoaDcxTV9tcDY5cUhVenF4ejF2SWl4Z3F5dw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "54b44601e0ec",
+      "title": "Primeiro clone de suíno do Brasil nasceu no interior de São Paulo - Diário da Região",
+      "published": "2026-04-19T15:30:53+00:00",
+      "summary": "Primeiro clone de suíno do Brasil nasceu no interior de São Paulo&nbsp;&nbsp;Diário da Região",
+      "sources": [
+        {
+          "name": "Diário da Região",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ3hiSzQ5QVdpNzktTkRqejhfa2liOFRzRDB4SkhfX1BrTzdER1lBdXp5Y0ZDNFotd2YyNUdKeXBfMmRobGsxblNlMmdQTlhQZDZ2cG5MWXJNTklxRGJQbVFXLXVxWm9sQ28zb3FKMUJjYTZuSGF6Wnk3aWNFa3dydi1QVEZNWU9EQ0ltUVl2RlVQOW1aZkQzOW53aFJMczFaTGt2V3hKUDVxVXpOVlFRSG12R3lJT2JjNkMzNA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "41624c997892",
+      "title": "Da floresta à universidade: Conheça pesquisadores indígenas que produzem ciência a partir da conexão com saberes tradicionais - G1",
+      "published": "2026-04-19T14:11:11+00:00",
+      "summary": "Da floresta à universidade: Conheça pesquisadores indígenas que produzem ciência a partir da conexão com saberes tradicionais&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOS3hzOEN1MUdVSlBNZldua0dyU081S25xZk9tRUVIOFZyLXpaZ19NVF9fVEZXbjh2ckdNN3l5WVNRQ3NjMVpWd1d0VTYtWHVuNTk5VHpSM1ZPT3ZjN1BpN2RibV9KLTBpWmpITWZ5X2RqaEU4Rk90blQ5QncwSGhBTU9ycEJKWHhNUmJmVDNwckM0dlNqRlhaeVVKUlVSYnJNWFhZd2ZmMUZ5SEQ4NE5uVHpMZEw2eTRtYllsbmNHSnNUQmZmOWNETXhXSmVJMEdRZ19fanNPWUF4NTVIS1F6NExvbEtuV1FTN1dWcEZKY3JBdXJOX3N1SGh30gGIAkFVX3lxTE9qZ3dNTnA3NE1XRzZQS25USXBPcDVTTmotY0N6V1ZqRVBqc0VtdFluR1pFYW1yRVFaZi1PWGN0SC11dDdoWE5wdVNPRGh0WHducjVRTDFLYlBjSVRnR3Y2X21LTDVjS0FHMnk0WXFDUXIyU1RZQVJ3TklvMUVIVWc4emVtZHlxREJ4TS1BX1ZNT1JFTXpsRGJyM0pKbzRNZFRpaTJwWURWeVFoNjE4aUlOX0otaFVicWJHS29EZTBYS1h5R0F1NUFzV0ExYVpGcU80Rng1enBnc0hraTZKSE9Sb1BrR0ZiWGpDc2gtd0tYNmtoZThIcUZtLU9MNS1rZlByZ0xCZ0l3QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bbda3775b654",
+      "title": "'Oscar da ciência' premia terapia genética que devolveu visão a pacientes com cegueira hereditária - Época Negócios",
+      "published": "2026-04-19T13:57:05+00:00",
+      "summary": "'Oscar da ciência' premia terapia genética que devolveu visão a pacientes com cegueira hereditária&nbsp;&nbsp;Época Negócios",
+      "sources": [
+        {
+          "name": "Época Negócios",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOS1lrQm1ycnhZN2Fob2d0WHdTaHZ2RHBLN2lsUXBoV2RwZzA1bEpLSnRBdnI4bktrOWltTnJBNGZIc0dsUFFTaElwRW9QZHdnNHZBSmg0blktcWtPRXhQWnc0VWFXZEYtMVlBQUVyQ29kc0hHVmpfbWl2YmtHc1pKRGhXaHFyNTlPSGNTWUhxcjNKVVZsM21aQ09GREV2SWxJbVFmdlVzRmNEZ19qcGp5N0lLdkZsUVBuWHV6cWtUUkFIdFpvajhZLVp6R3RONndZNmVEOGdfUkVEVjR6c055RlFoRHAtbFdOMld1TkUycFc5V0VRYXdHY2lR0gGIAkFVX3lxTE44UWloSnVJN3BqdUZZb2N6YTZGY0FBRmFpaGtyMW1kYlFfRkpHTGNHUjRRYlR6dG9HUVlyckQ2cEtpOUlVV25IdXlQWUpTZmtKWFZ1MUpkZnlmdnp4T2h4aUNMOGt3bEFQcFNkMXUxNmVBU3BpZTFDMkczUWdOb1EtZ2JtcEJJQUZYbmNMUTgzbC01QjR1Q0RwNFdYdWxoMFpqQWY0bE9vSllaNzgtcWdldzFVMFhaWmo5UU5ZMU9aQkNZZ2tQdFZWVV9aUFYwZ1MzaVB1WHA0QThfQmdMaHllWU9wdXZzOVdlNEVWTGFxcEJUSnRaT0EwdlpqeVFuLVVPTTBVaHhrRg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a142fee2d4bf",
+      "title": "Sono ruim pode estar ligado ao risco de doenças neurológicas, alerta médico - Assiscity",
+      "published": "2026-04-19T13:34:59+00:00",
+      "summary": "Sono ruim pode estar ligado ao risco de doenças neurológicas, alerta médico&nbsp;&nbsp;Assiscity",
+      "sources": [
+        {
+          "name": "Assiscity",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMTNDUk5WSWZrNExsQUZIcHY1bGRJRE82SGpBcWplRnF0N0VjQmRtSmFDWV95dXUzR0JyMmI1a1hidHNTNmRCVFdHT29rdEp1ZW9ZcUZxOGw0WUV2ZTNfb0VHZkdFTXBtczQwSnZBNGZvVl9uRzBydzdoeFpsWXU5ZG0yNDk0SnlHM0VKaVpoN1lra3lnOTlxWS02MjNDNjMtYUsw?oc=5"
+        }
+      ]
+    },
     {
       "id": "8c22ecea5320",
       "title": "Opinião - Mensageiro Sideral: Estudo confirma que tensão de Hubble é real - Folha de S.Paulo",
@@ -14,6 +74,30 @@
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUFZNOENHQmM5WVFxVHVmaXhhRkZ6MjQxRHhxVEREcmdfV3NKY0FtSlN4ZU9yeFlSR095YmVZbDV0OHdBSFQzTUhIRW9XQXFPdllpenBpZEkxYmsxa1QzRHl5SnlkMGhUWWNyb1RsamFKMS1FTFUxMmZLUnR2Yl9ORktBV3FySl9TME1kbU1uVkRDY3ZVUkZZS1BicGM1bmJvQjRCdFpJT3I0S3Z4UmhnamNR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ee3ab2b3d8fc",
+      "title": "Medicamento contra progressão do Alzheimer chega ao País em junho - UOL Notícias",
+      "published": "2026-04-19T11:01:00+00:00",
+      "summary": "Medicamento contra progressão do Alzheimer chega ao País em junho&nbsp;&nbsp;UOL NotíciasRemédio para tratar doença de FHC custará de R$ 8 mil a R$ 11 mil no Brasil&nbsp;&nbsp;NSC TotalSUS não dá conta de arcar e 2 milhões de brasileiros podem ter que pagar até R$ 11 mil por remédio&nbsp;&nbsp;Diário do ComércioRemédio para tratar Alzheimer em estágio inicial custará de R$ 8.000 a R$ 11 mil&nbsp;&nbsp;ICL NotíciasRemédio para Alzheimer chega ao Brasil por até R$ 11 mil ao mês&nbsp;&nbsp;Poder360",
+      "sources": [
+        {
+          "name": "UOL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORzZCMkJEU1o3a000Y0RLbTRZMlhqcEpKVG1IU3NVRDZpcEMzUUdqXzliSlNCcWhYbE01ZFUwR29EaENyUWhVejZiLUZBMktwX1VPNVdzTXhvVGxsU3poYVlGYk0ya1NpM2p6Y3dFbndlN2xLSmg2Nkk2dTk4M1p0d0FXeUloeW9lWG45YVpVcU1HY1NPbGxkSTFPUUJOWk1HZy11X3NNTXhHRTBsU0gwamJqQ3g1T2dBYjJ2elh2TC03cXdsVVYtYnZGVUpUck9Tb0piWTJKQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "83061acaea2f",
+      "title": "Por que o câncer ainda é descoberto em estágio avançado? Veja o que não ignorar - Folha Vitória",
+      "published": "2026-04-19T11:00:00+00:00",
+      "summary": "Por que o câncer ainda é descoberto em estágio avançado? Veja o que não ignorar&nbsp;&nbsp;Folha VitóriaOpinião | Se eu tivesse câncer hoje, me trataria no Brasil&nbsp;&nbsp;Estadão9 coisas que comprovadamente ajudam a reduzir o risco de câncer&nbsp;&nbsp;UOL5 hábitos essenciais que comprovadamente ajudam a prevenir o câncer&nbsp;&nbsp;TerraBrasil tem 700 mil novos casos de câncer: 40% podem ser evitados&nbsp;&nbsp;band.com.br",
+      "sources": [
+        {
+          "name": "Folha Vitória",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSlVlVFZrdnJPbWJzdVlqSUlpUnh6Zmk1RkdBQXRsV3NBcHBLUDkxVFlmTk1lNkdlZVk2Q3J1bjRjSTRqeEVOUkJlNG1vUGgyNHdwTzVWUnR5RnhLd0hWbHlTQ3R6U1hpQmVZTGxONW8yMzFTVm5ZdVEwOTU5WFg1RHREQi1POUs1V0VjUTRkYkNadUlrU3NjYUdmSl83Tkg0ck9YR0FmMndwODQ3WmltVTZMQjdHbjYy?oc=5"
         }
       ]
     },
@@ -42,6 +126,30 @@
       ]
     },
     {
+      "id": "c8cd3769a36b",
+      "title": "Gripe: Variante K e emergência em Goiás acendem alerta sanitário no DF - Correio Braziliense",
+      "published": "2026-04-19T07:00:00+00:00",
+      "summary": "Gripe: Variante K e emergência em Goiás acendem alerta sanitário no DF&nbsp;&nbsp;Correio BrazilienseAdolescente morre no DF após contrair vírus da 'Gripe K'&nbsp;&nbsp;CBNGripe K: veja quem pode se vacinar contra a doença no DF&nbsp;&nbsp;MetrópolesGripe K: “Não há evidências de aumento da gravidade”, diz secretário&nbsp;&nbsp;F5 NewsCOMUNICADO OFICIAL&nbsp;&nbsp;Prefeitura Municipal de Itumbiara",
+      "sources": [
+        {
+          "name": "Correio Braziliense",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQUxWckg2SVNVOXdfYi1FcG9zWmk5MVBjbld3bjhNZ1hGZVN1MHV2T1FTUnQ5Sk5xcEFQTG1vbzlXTV90cUFQTTVMUUwtSmpTZGRXYll5NFM1ZmJWRmRiRUZYalRIMnRyMVVEd3N0eHhXQjBXNFV4SkNhNU8yTHhDeVZwRTkyNHkya3JkVFlVRFhEQUhqekpiSHc2TU1rcjNzRUNEVC0xNkpZZk4wNG01bVJGbWxnRmtjcnh0WjZFUzdtWmfSAcgBQVVfeXFMUHdzWFFYS1RveDZxLVZwbEVSWUZPN1loU01IdXhxejhGTkRJXzREdzFWZXI4UWVVVzBQZWNwOXdZOFlLd3ItVnF5Vm9lOG5nLTgwcU5iLWdQRVdzOXhPVVlEQTV2QzFVLWszdkphUnV0aHhCUllwekMxbUlHdWNidjZPd0ZyQVlaQ0tUYjVWaTBla3JKNHAyZS1Uand0d0x4cnVxVDJudnMybVNRLVc3UTlSY2VGc0g0R1MxN3dRZjJjb3BWVS1DTTI?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "32a2f86e23ff",
+      "title": "Epidemia em curso: infectologista alerta para alta de casos de sífilis - Metrópoles",
+      "published": "2026-04-19T05:00:00+00:00",
+      "summary": "Epidemia em curso: infectologista alerta para alta de casos de sífilis&nbsp;&nbsp;MetrópolesImip alerta para aumento das ISTs: veja maneiras de prevenção e como realizar o diagnóstico&nbsp;&nbsp;Folha PEPiauí resgistra mais de 5 mil casos de cífilis e 62% deles são em homens jovens 13 04 2026&nbsp;&nbsp;Portal O DiaPiauí registra mais de 5 mil casos de sífilis e alerta cresce em jovens&nbsp;&nbsp;Portal R10",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB3WFo0MmZzS3lMMlBDenphbnRySm9yVlJPc1BmblE2QzVJYU9jUDRxSmc2ZTJNRl9JdVhzTURkTWFab2pJTHZFbmVXUURqcG1iclh1Zm1KaENjbFo3N1NkNVdZOV9telZjbHJ3VmtNZTN0LVk?oc=5"
+        }
+      ]
+    },
+    {
       "id": "409362235250",
       "title": "Colapso de correntes do oceano Atlântico ameaça clima global, dizem novos estudos - R7",
       "published": "2026-04-19T05:00:00+00:00",
@@ -50,6 +158,18 @@
         {
           "name": "R7",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVElaSGxCcGhWaldyRHhsZU1Wd0lPb0w4cWMtSzVsVWVQaDhKMjFZdFoyVkFsZ0pTc2xESmk2bng1MnJ0YTc3aXRpVTd6YkthaUMzSkw4a05XQVRzcDVuT1NRbFFnazA2UDdYa19tYU0tVC1YSVkzR2VPX19fZ0doT1pELW9YaEwxb3ZBZzlPT1ZQQndCNkJzYlFFd2xia2pleUowa0wwSDhSaXRRVzVOX01TeDRFUXFsRVNSTlFhcEhUYWdtbHFzWnpGT0U5Z1NBdVZN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fb80fde57d53",
+      "title": "Mistério dos coágulos raros após vacinas de COVID-19 é finalmente explicado - R7",
+      "published": "2026-04-19T03:49:47+00:00",
+      "summary": "Mistério dos coágulos raros após vacinas de COVID-19 é finalmente explicado&nbsp;&nbsp;R7Cientistas decifram mecanismo de coágulos raríssimos após vacinas de vetor adenoviral para covid-19&nbsp;&nbsp;O Cafezinho",
+      "sources": [
+        {
+          "name": "R7",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcFhWME1qVlViXzNtQjFqc3pjbnMyeXZqaElSY2RHcm1tVkw2SE8tZUMtdnB0N1hfVF93VlpjdVdNZjJwMEUxRVBEYVhzTE1STmxwNGw0STN2T0w1Q1RCb0ZuYXo1TnZLOXBPZHFuMG9WQlotdklSREJKdnRXZTRycFRHZ0k3MGVVaEVaZTQwRkt4c2w2M2VCZndwbkRISlltcXRaREFqd1hucUtwYzZJZUQ1WFg4clNFbnhDcjBlRQ?oc=5"
         }
       ]
     },
@@ -66,18 +186,6 @@
       ]
     },
     {
-      "id": "c31597656b98",
-      "title": "Mounjaro pode afetar o intestino? Especialista explica erro comum que trava resultados - JC",
-      "published": "2026-04-19T00:50:00+00:00",
-      "summary": "Mounjaro pode afetar o intestino? Especialista explica erro comum que trava resultados&nbsp;&nbsp;JC8 erros alimentares que podem estar sabotando sua saúde sem você perceber&nbsp;&nbsp;Portal UaiSaiba como os conservantes afetam bactérias do sistema intestinal&nbsp;&nbsp;TV PampaOs oito erros alimentares que desequilibram a microbiota intestinal e como evitá-los&nbsp;&nbsp;MSNQuanto tempo leva para o intestino restaurar a flora após antibióticos&nbsp;&nbsp;Tua Saúde",
-      "sources": [
-        {
-          "name": "JC",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPczhUUmpVejIwZ011VXhXUFVpeENJSFNBdGdDMElJY21NaEpxSzh1MG9iUUh0LTEzdDR0RmdOMENwMll1Z1ZJUkpod21oZXV6ZXljSi1xRVllODM0eXBDNHVPOVQ5UWs2aTVPRjFId1huNkltMy0welo1TWhnZkV2SmsyZmMxV3lTZy1xbFR2QWE5dzJtbnpESGVRWnY1U05CQTVlMVRGRGM0dDB6Sm5SMHM2TV91TmtCRUlweG5CVFBwNnJxNXNjSlpRWWl1dThEcFRVTA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "219d24f969ec",
       "title": "A Argentina alcançou o impensável após 110 anos, e o “retorno” desse mamífero ao Chaco já está mudando o ecossistema desde o seu primeiro dia - Catraca Livre",
       "published": "2026-04-18T23:32:00+00:00",
@@ -90,14 +198,14 @@
       ]
     },
     {
-      "id": "01c5d74d78cc",
-      "title": "Dr. Kalil e especialistas explicam como diferenciar tipos de bipolaridade - CNN Brasil",
-      "published": "2026-04-18T22:30:45+00:00",
-      "summary": "Dr. Kalil e especialistas explicam como diferenciar tipos de bipolaridade&nbsp;&nbsp;CNN BrasilTranstorno bipolar afeta 8 milhões de brasileiros&nbsp;&nbsp;TerraSaúde mental: médica explica sintomas e tratamento do transtorno afetivo bipolar&nbsp;&nbsp;Tua RádioPerturbação bipolar é uma doença que continua marcada pelo estigma&nbsp;&nbsp;O MiranteEspecialistas explicam sintomas e tratamento do transtorno bipolar&nbsp;&nbsp;Política Piauí",
+      "id": "b4a2ae517a34",
+      "title": "Gastroenterologistas explicam se é possível desinflamar o intestino - Metrópoles",
+      "published": "2026-04-18T20:48:22+00:00",
+      "summary": "Gastroenterologistas explicam se é possível desinflamar o intestino&nbsp;&nbsp;Metrópoles\"Ouro branco\": 3 alimentos naturais ideais para regenerar a flora intestinal e fortalecer as defesas&nbsp;&nbsp;Tua SaúdeColoproctologista cita alimentos que ajudam a desinflamar o intestino&nbsp;&nbsp;MetrópolesImpactos do consumo de alimentos probióticos na microbiota intestinal e imunidade humana: uma revisão narrativa&nbsp;&nbsp;Revista Sociedade CientíficaColoproctologista aponta como desinflamar o inte",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUWw1N3RMVUNHTzF1amtWRk04bFpkcGZQb1dQT0ZEZW5DeE5zMjJXTGM0WDRQazJ2R2RIQWNjNHpQdExsMlRQam1sQ2ZjZUlGNE9pVHB3TWFlOFlrLUxUZFBYSmRWeURRM3h1MXBJS3pOSnIwM3lmOS1vckdGRVVEbzVOWnZuRFVTbEM4bTlTNHVveDR4NEJac09YYW8zZUZHakhveTFuU1lETG1V?oc=5"
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1zOGlldjNmeXo2VDJ6dmc1akNhNGlXalVPNUdsUS1BQWMxWUpTMm53azh2bkFtMTFzRE1XU211ZWdlTmU1MFNQSVNIbUM1OU5ZSTdjc0FrOXFDQWRNUzI5NENINXg5WTJ1dEZ0Q1d2dzhUZzU5WWE0SER4UQ?oc=5"
         }
       ]
     },
@@ -114,38 +222,38 @@
       ]
     },
     {
-      "id": "eacbefd944fc",
-      "title": "Descoberta arqueológica no sul do Piauí revela sociedade indígena com domínio em tecelagem após escavações iniciadas em 2019 encontrarem esqueleto com adornos, vestígios de algodão nativo e análise por carbono-14 em laboratório francês - CPG Click Petróleo e Gás",
-      "published": "2026-04-18T19:59:00+00:00",
-      "summary": "Descoberta arqueológica no sul do Piauí revela sociedade indígena com domínio em tecelagem após escavações iniciadas em 2019 encontrarem esqueleto com adornos, vestígios de algodão nativo e análise por carbono-14 em laboratório francês&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQTjVsbndLdEJJUTNueDhVVnZQaUU5VU5nSlpsRmxOdDVHUkgtRVlnYjVhSHotM05OV3V1UW1YV3ZQaHVQMXVGRDM4WWtDMjYtb1Rzb29YaHRjeDBwNDVCZGVwMGZoM25xTzQtcGljQUxzV1Y2ME1abUczX05LR3FMclVIbmxGb1g1aGNMY2xZOTB2b1Bsc0ZjRXAwNmVudWhaVVluMmtvUWd1dEttWFBZNjk2VG5rS0xpTkJOYWlYdVk5QVdDT0hFVVpIcklnX3piNHRYUXNWMW53RnJWbXk5ZzFaWXRyNmh4NkRpeDlVaHRtbXJDcWNlVnUxRENaLVFxdnY2TTJocHl4YkRoTHlLQnJTUWh2eXh1dXZna1hVdFhLNG1paVlNekxWUWhRY0ZtNnVTSXJaSWpBeXVteHMtVFg0V20xaDA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "79d35cd67d92",
-      "title": "Saúde quântica 2.0: conheça a transformação que vai redefinir o futuro da medicina - Estadão",
-      "published": "2026-04-18T19:03:00+00:00",
-      "summary": "Saúde quântica 2.0: conheça a transformação que vai redefinir o futuro da medicina&nbsp;&nbsp;Estadão",
-      "sources": [
-        {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcFV6ZjRHWDItbm5QMVFIWkVMRU56ZDFoei1kejVzcnowTzNDZHFfZ2dUbGVJV3hycjhJd1RQU3FYUkp5a1hyUnZ1SVBoUnpGMXl1ZzJ3ck1RbG5zbEtDYzlyejBYX2d0TEpQMkdQaFJRVzFQdXEyY2ktVnZHNGtPZlBDTVQ2REpSVTkwd0ZrSjFaR0RaV2VJQ1FsdXFVdldFeFlnVm54cGVJUl9RajE0d2M2cm1pRG1ETG5zcGF0Q3VKRjl6ajdNbi1jbVHSAdIBQVVfeXFMTzNOakhRWm9GaERfRkVNcy1WaWhtdnNzWUJHMEdlZTNHMm5DaDNIQlZqV0lfbTJ5R1hPc0xtNENzTUpDenZ3OWpUaC03UzR0SWhaak9Vakc5cjZZVGlMVXV1cWhGRWg1eUx6STJyWmRjdjRhY0haVlg3NExlMGphMjMzMXdob2FNTkZMYjFZOWI0d0JsNGY5WEF2T0RqMi02Qm8zdEhMQ3BXU3ZVSndRekRXT2U4YTJGc1NzcTBfN19tNzBpVWt0bXlxeVhJeXdnT1pn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2ec4e56cd949",
       "title": "Eliminar o trigo pode levar à perda de peso? Estudo descobre que a própria farinha pode causar ganho de gordura - O Globo",
       "published": "2026-04-18T17:49:18+00:00",
-      "summary": "Eliminar o trigo pode levar à perda de peso? Estudo descobre que a própria farinha pode causar ganho de gordura&nbsp;&nbsp;O GloboComer pão pode engordar mesmo sem exagerar no consumo de calorias&nbsp;&nbsp;MetrópolesComer pão engorda? Saiba o que a ciência diz&nbsp;&nbsp;O TEMPOOs cientistas descobriram por que o pão pode causar ganho de peso sem calorias extras&nbsp;&nbsp;segundabase.com.br",
+      "summary": "Eliminar o trigo pode levar à perda de peso? Estudo descobre que a própria farinha pode causar ganho de gordura&nbsp;&nbsp;O GloboComer pão pode engordar mesmo sem exagerar no consumo de calorias&nbsp;&nbsp;MetrópolesO pão engorda (mesmo que não o coma em excesso)&nbsp;&nbsp;ZAP NotíciasComer pão engorda? Saiba o que a ciência diz&nbsp;&nbsp;O TEMPOOs cientistas descobriram por que o pão pode causar ganho de peso sem calorias extras&nbsp;&nbsp;segundabase.com.br",
       "sources": [
         {
           "name": "O Globo",
           "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQS0dBbDB0cXhzems0ZjJNTzBiS3NTUzFxbW5CNjlNV3hHb0VtRFJVVHM1cEN6MU1GNnJCQ252UENHNzVCblhEX2k5OXAxSXRILUJESnJkNXd1MjBXUUlTbk1ISHBMbGRBajVGVkdaSG9rZ05nWUVzQnpXMFQ5OWpCZzhDNVZfYk9pUkhUalBaakNHUGJmX09iX0hqTF9XWEhJQzRra0Q4QW9KemZGNi1PaGU4cW9tS0otTVR2WEt0T2VPamdXZ3BGQmZGcGtnYnpZbUFKRU9fQXBoMkprSmxLNVJtSmFCMVBWVFZERFJ3WjBKcmRxUkhqZ1NR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "56bc06454222",
+      "title": "'Temi que meu filho tivesse câncer cerebral, mas ele havia sido envenenado com vitamina D' - G1",
+      "published": "2026-04-18T17:40:04+00:00",
+      "summary": "'Temi que meu filho tivesse câncer cerebral, mas ele havia sido envenenado com vitamina D'&nbsp;&nbsp;G1Por que a falta de vitamina D pode causar dor nas costas e quando investigar com um especialista&nbsp;&nbsp;Portal UaiExcesso de vitamina D pode causar danos ao organismo e afetar os rins, alerta estudo&nbsp;&nbsp;A TribunaSuor noturno excessivo não é apenas calor: o alerta do seu metabolismo para a deficiência de uma vitamina essencial&nbsp;&nbsp;Tua SaúdeA sua vitamina D não está baixa porqu",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPX1ByTFgxQmZoVEpEcHJiSjM5a2xqay15TVBtVVFCUE5SZmk3cUdjRHEzbl9OcGxheTlLN0RlTkxKd0wyR09BYjctQ1liR0JjbWpiRExRVUtOa0kxemN2aXlfaHdYVlZhQlF3SGFWRmVRSW9rUE1MUXBTa2dRaURTcFNMRjdTb0Z0bWJWRFR0ZjlmWGVxRGUyVDNfd1ZrRk1LRkQ0OHE2aUdyVWtvUEdVNFpQOTFBYzc5S3RDQXVnSnVoYnNfYk5LNkRNRjJOODg2czlrejdB0gHkAUFVX3lxTE1ETnJueUlCN2FBdFdqMWVIMmVmVTR3NWVucEhmR2xtUmNRVU12djM1bVBUak5MS0pYLUhJRWFmTVJQNXlQLUpLbm9NbzhVakF1YWR2TDMwb0Rla1paa2NublRuTTVOR0xyeXBHQlZFeDFieFliTm1KZ2l4SzlWc3p3djVDMGdHTXZGbTVDMjJUWk9xR3RkbHE0a0Y3WE9zTTBJTUM2OGlsakJEV09tWUxXa1RQMGREdDhDbXNncVIydTZiV2R3YUQxZlpSTjY5NWMzNl8tcjR5R1NtSlZicE5TQkZ1Rg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6349a2ff1708",
+      "title": "Fim da Geração Z e Alfa: nova geração surge com bebês expostos a telas desde os primeiros meses, com estímulos digitais constantes que podem impactar atenção, memória, linguagem e inteligência emocional - CPG Click Petróleo e Gás",
+      "published": "2026-04-18T17:34:00+00:00",
+      "summary": "Fim da Geração Z e Alfa: nova geração surge com bebês expostos a telas desde os primeiros meses, com estímulos digitais constantes que podem impactar atenção, memória, linguagem e inteligência emocional&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOREkxSVVhb0tJeFFKZFlibXl5TlhCYjQ0MnY4NmVOcXB3cEgtSWhOR2xRZFRLd2wyc3JvNDJZX1FacWNQNDRDX05tYU4zV1lrOWpMdWFvSzIybDQ1aEJCVEJRYnNOVlBMMEI3M1liUkVSYWlxLVVGRGRWRGExZ0dwdXhIN1VnTjFHU0ZSUkZRS0FvSVBkdE1oc1BzWmUxOFRheF9jUkhfNlFGd2liclVJajNlMmpkQUs0Q1psOGEwLTVyX2o0QWRzZEFQQkNEbGNtbWh2bmV2MmJZM1loQWZ6cHBQbm10N25jUjNxM2tiRVhJUzBtQ3F2ZWVHb3AwQTJwWTZkWXdaRlNTZ3BzV2NLRDc3ckZUbEFFNVhYN0Rxa2M2TWpJMERtZ0dqYVVGSElKVmFOcHlKZmRUWmtFSy1iZkVPMkM3YUE?oc=5"
         }
       ]
     },
@@ -186,10 +294,34 @@
       ]
     },
     {
+      "id": "2f50267ea5fe",
+      "title": "Mulher, através do Chat GPT, descobre doença rara não diagnosticada - Aventuras na História",
+      "published": "2026-04-18T17:04:56+00:00",
+      "summary": "Mulher, através do Chat GPT, descobre doença rara não diagnosticada&nbsp;&nbsp;Aventuras na HistóriaComo chatbot de IA descobriu condição rara de mulher após anos de diagnósticos errados&nbsp;&nbsp;BBCJovem descobre doença rara via ChatGPT após anos de erros médicos&nbsp;&nbsp;D24AMBritânica descobre doença rara após relatar sintomas ao ChatGPT&nbsp;&nbsp;Rádio ItatiaiaOs médicos não conseguiram diagnosticá-lo durante anos, mas o ChatGPT conseguiu diagnosticá-lo corretamente em minutos&nbsp;&nbs",
+      "sources": [
+        {
+          "name": "Aventuras na História",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYlV4TWs4LUY4elFtX21manFJNFN3d0pNaG9BVjRhQVdGbzZ0Q2lFalRVMDNVZWdsRjllUUx5UzZMd2JDb0RCbFdNWEJnTU1Jb2xERXVhbERVNWpsMWx1UkVaZUxPTno1LWdLc190bmxIU1R6VWhyWTItRTM2ZjJXb3FiVEIyaHM0cUtXUUlIQTRfN1VHT19rRDY1UW5jT2E3alBtNHJOamJYdHZIZ2tGZ3NJZ3dHbUp0OGItMjFwY0dIU2w0ZUJ3Qw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2d13486c8f35",
+      "title": "Trump assina decreto para flexibilizar pesquisas com drogas psicodélicas; entenda - ISTOÉ DINHEIRO",
+      "published": "2026-04-18T16:06:00+00:00",
+      "summary": "Trump assina decreto para flexibilizar pesquisas com drogas psicodélicas; entenda&nbsp;&nbsp;ISTOÉ DINHEIRO",
+      "sources": [
+        {
+          "name": "ISTOÉ DINHEIRO",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaXlDMVF3VUVpRFp3cGw5cGJPZDRHNmxKYy1kaWF1cnRYNjN5cUFIMW1ETC1EUXQxR2gtMXQ3ZWlTenhYdXJleXV4VzFJRVdnaUdxeHh0d0NPVlBFeEhuRExQVE42cWtRY1RDZ1RLUzFsb0pyTXIwZWtsMUFSQ3VEd1phV0ZDYWd0eWNUUzVqVG5kd0dGLXBnaWlwTmJtMzBIdzRZ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "894064a88f7a",
       "title": "Emagrecimento rápido: o colateral com canetas que mais preocupa as mulheres - Diário do Centro do Mundo",
       "published": "2026-04-18T15:54:26+00:00",
-      "summary": "Emagrecimento rápido: o colateral com canetas que mais preocupa as mulheres&nbsp;&nbsp;Diário do Centro do MundoEfeito das canetas: o que fazer com a pele que sobra após o emagrecimento?&nbsp;&nbsp;EstadãoExcesso de pele após emagrecimento pode exigir cirurgia e virar necessidade&nbsp;&nbsp;band.com.brO novo boom da cirurgia plástica pós-emagrecimento&nbsp;&nbsp;Estado de MinasDra. Bruna Schemberger atende na Goioerê Clínica de Estética com tratamentos para flacidez pós-emagrecimento&nbsp;&nbsp;",
+      "summary": "Emagrecimento rápido: o colateral com canetas que mais preocupa as mulheres&nbsp;&nbsp;Diário do Centro do MundoEfeito das canetas: o que fazer com a pele que sobra após o emagrecimento?&nbsp;&nbsp;EstadãoExcesso de pele após emagrecimento pode exigir cirurgia e virar necessidade&nbsp;&nbsp;band.com.brDra. Bruna Schemberger atende na Goioerê Clínica de Estética com tratamentos para flacidez pós-emagrecimento&nbsp;&nbsp;Tribuna da RegiãoProcedimentos estéticos reduzem a flacidez após emagreciment",
       "sources": [
         {
           "name": "Diário do Centro do Mundo",
@@ -198,62 +330,14 @@
       ]
     },
     {
-      "id": "9eb9cb1bfbea",
-      "title": "Coloproctologista cita alimentos que ajudam a desinflamar o intestino - Metrópoles",
-      "published": "2026-04-18T15:20:00+00:00",
-      "summary": "Coloproctologista cita alimentos que ajudam a desinflamar o intestino&nbsp;&nbsp;Metrópoles\"Ouro branco\": 3 alimentos naturais ideais para regenerar a flora intestinal e fortalecer as defesas&nbsp;&nbsp;Tua SaúdeImpactos do consumo de alimentos probióticos na microbiota intestinal e imunidade humana: uma revisão narrativa&nbsp;&nbsp;Revista Sociedade CientíficaGastroenterologistas explicam se é possível desinflamar o intestino&nbsp;&nbsp;MetrópolesColoproctologista aponta como desinflamar o inte",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdm8tdDVsckd5YkUwc1o2MnY1bm1TQ08xdkk1eThmaks3aFdKV1BxdjRtM2YxU1Mxby1zRTZzU2l1M2JaX1VxUlk3bUlON09tOTdvalkwb05RTURxbHFITXpQN0hKQ2hCRExFS3R2dmhZbFJiZUwtX3lvRVFJRzdnWVN0b21kWWdKX3BIMmx4S3BjcXVVbFVuZm40V1o4RkwxdVpvRGc0bm1EYVJzTFhRdDJVbDdJN2FTQTVCQjN3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "bf0bc6f7e0b3",
       "title": "Aveia nutre o intestino, mantém a glicemia saudável e faz bem ao coração - Folha de S.Paulo",
       "published": "2026-04-18T15:00:00+00:00",
-      "summary": "Aveia nutre o intestino, mantém a glicemia saudável e faz bem ao coração&nbsp;&nbsp;Folha de S.PauloPequenas mudanças no dia a dia que ajudam a controlar o colesterol&nbsp;&nbsp;Correio BrazilienseSe você come aveia no café da manhã por seus benefícios nutricionais, a ciência sugere: melhor no jantar&nbsp;&nbsp;MINHAVIDA.com.brVocê come aveia todos os dias? Seu intestino pode deixar de ser preso com esse simples hábito&nbsp;&nbsp;Portal UaiExercício físico e colesterol: o que a ciência recomenda",
+      "summary": "Aveia nutre o intestino, mantém a glicemia saudável e faz bem ao coração&nbsp;&nbsp;Folha de S.Paulo",
       "sources": [
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNelZUdDUzVl90WTJ2aEZlQmNBWUg3bG5Wdm5jXzBRQ2hMNzdJTjVTemVNVzRBQWExZFRCRjNZa1Q0cHpSVHQwMnByVnFJV0lOMmI1bWkyOUpPS3czZ0c4c1o4VjdCcTdEUEFocy01eWM5QnF6QXlJdExvQUhHSXhSRDgyYnZNLVpnaEdteG9EN0ZPWnpOcnVfcXItcEN5LVNnRzUzNzBmVUhWMno3VDBxM3FPMjBKUDd1SzRvM3VGMkE0MTY30gHKAUFVX3lxTE1KRm8wOF95d0N5WEdjMFJuTEtaR0FnakxwbmEwWGhEdWJNaUNIWi1tUDNab1pHQUNfSll2V1pYSnZXUFZFdTkxb1l6cU85TGh2UnctV0Nhc1RGLXFUYV91X0ZxeGE0NHhtVVhFNnRLOUI5U2gzY2NtRTVRRjU2RGVHeGxzeUluSEU1RDRQeUdTNVN4ajNxQ3JmalMtd0JEbjN1NHp3bFRPTnoxWDFOVE1OUlVXdXF4MFlNM3R0VFZEazNnMUhJbl8wQ0E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e166c3b2cfc3",
-      "title": "Prefeitura decreta emergência após contaminação de córrego por produtos químicos - Primeira Página",
-      "published": "2026-04-18T14:37:21+00:00",
-      "summary": "Prefeitura decreta emergência após contaminação de córrego por produtos químicos&nbsp;&nbsp;Primeira Página",
-      "sources": [
-        {
-          "name": "Primeira Página",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTXd3dG9MdDE4Snp6enNtYVkxOFY1alJMekVXWnNnOW1Kd3I4Y243a3psMURuX25PaVJOSEl2c3JBUkJBVGZDY0dnX0MtX2tTOXdWbGxILXZuT1p2QWx3LXI5OUgwYW5GT0dfNXVCcXZGQzZGSDJteUh1ejJIOW5uV0dfOGdkX0l4dFJpdmk0c2ZXMTF1Z3VnTkRoQkg2clQ5ZnVXUW9oYVZiUkVtTEp1dnB6U1REcUdvQVU1R0Vn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e6229c5bdc07",
-      "title": "95% das pessoas no mundo carregam este vírus sem saber — e cientistas acabaram de criar um anticorpo que impediu 100% das infecções em laboratório... - CPG Click Petróleo e Gás",
-      "published": "2026-04-18T14:15:00+00:00",
-      "summary": "95% das pessoas no mundo carregam este vírus sem saber — e cientistas acabaram de criar um anticorpo que impediu 100% das infecções em laboratório...&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNk16aFBSc2RKY2hFSlNVdTU4emhDWk5hVjlBeHpzaWpCd0tub1E1LVp0Z3BEM09qdEsxeXRKNmV3VVJwWV9xazI2WHg5akVmUEpZam9EUHdPU0hOLVBxcE9vTlFfdHY2anlBeTlnWXlINTQ3cmtIWnFOTXNTOEdoc20wYUo3Z1RaY21qdkh3aGhjWHRQc2JkeGgtUEZyR0hsMllvM2l3V20xMXdUZ2hWV3JoajFNQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "12b4ac33b22a",
-      "title": "Saúde: 'Temi que meu filho tivesse câncer cerebral, mas ele havia sido envenenado com vitamina D' - BBC",
-      "published": "2026-04-18T13:27:34+00:00",
-      "summary": "Saúde: 'Temi que meu filho tivesse câncer cerebral, mas ele havia sido envenenado com vitamina D'&nbsp;&nbsp;BBCPor que a falta de vitamina D pode causar dor nas costas e quando investigar com um especialista&nbsp;&nbsp;Portal UaiExcesso de vitamina D pode causar danos ao organismo e afetar os rins, alerta estudo&nbsp;&nbsp;A TribunaSuor noturno excessivo não é apenas calor: o alerta do seu metabolismo para a deficiência de uma vitamina essencial&nbsp;&nbsp;Tua SaúdeA sua vitamina D não está bai",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1TNmFhXzBHUjRLNGVoRFZ2ZHZFYjE3MVZ6dzJ4WUJqN25uV283R1ZlekQtTzFQRU52VmNGemF2cHdfSXJkMlhJOTFpa0JlaEFtdmZYendvejZQNmpLdnc0QUx30gFnQVVfeXFMTzZVejhvbXJsb243T1cwM1ZOQUt1N2cybUdmU3daSTNpaEwyUGRfaUhyeXRaWlNrZjJjV3JlVWJKVlVFaERuNi1QbXpYZE0ycFVoOUtnOEdCcW8wREJJa0trZmRHTWgtYw?oc=5"
         }
       ]
     },
@@ -273,7 +357,7 @@
       "id": "ac951d794752",
       "title": "Gordura no fígado: entenda os principais sinais silenciosos e como tratar - A Gazeta",
       "published": "2026-04-18T11:01:00+00:00",
-      "summary": "Gordura no fígado: entenda os principais sinais silenciosos e como tratar&nbsp;&nbsp;A Gazeta‘As notícias não são boas’, diz ‘papa’ da gordura no fígado sobre doença que virou pandemia&nbsp;&nbsp;VEJAFígado: a importância da conscientização sobre o órgão&nbsp;&nbsp;Estado de MinasDoenças hepáticas: silêncio, estigma e alta mortalidade&nbsp;&nbsp;O TEMPOHábitos simples, fígado mais forte&nbsp;&nbsp;A voz do Algarve",
+      "summary": "Gordura no fígado: entenda os principais sinais silenciosos e como tratar&nbsp;&nbsp;A GazetaA doença que não dá sintomas, pode até matar e já afeta mais de 1 bilhão de pessoas&nbsp;&nbsp;Veja SaúdeDoenças hepáticas: silêncio, estigma e alta mortalidade&nbsp;&nbsp;O TEMPOFígado: a importância da conscientização sobre o órgão&nbsp;&nbsp;Estado de MinasHábitos simples, fígado mais forte&nbsp;&nbsp;A voz do Algarve",
       "sources": [
         {
           "name": "A Gazeta",
@@ -297,11 +381,23 @@
       "id": "3362b8d410ee",
       "title": "Galvão Bueno pede orações para Luis Roberto após diagnóstico - iG Gente",
       "published": "2026-04-18T08:30:00+00:00",
-      "summary": "Galvão Bueno pede orações para Luis Roberto após diagnóstico&nbsp;&nbsp;iG GenteGalvão Bueno revela conversas com Luis Roberto após diagnóstico de neoplasia: 'Amigo querido'&nbsp;&nbsp;GloboLuis Roberto inicia tratamento contra tumor que o tirou das transmissões da Copa: ’Dia 01, vencemos’&nbsp;&nbsp;EstadãoLuis Roberto atualiza estado de saúde após sair da cobertura da Copa na Globo&nbsp;&nbsp;VEJAComo é o tratamento da neoplasia, doença que afastou o narrador Luis Roberto da TV Globo&nbsp;&nbs",
+      "summary": "Galvão Bueno pede orações para Luis Roberto após diagnóstico&nbsp;&nbsp;iG GenteGalvão Bueno revela conversas com Luis Roberto após diagnóstico de neoplasia: 'Amigo querido'&nbsp;&nbsp;GloboLuis Roberto inicia tratamento contra tumor que o tirou das transmissões da Copa: ’Dia 01, vencemos’&nbsp;&nbsp;EstadãoComo é o tratamento da neoplasia, doença que afastou o narrador Luis Roberto da TV Globo&nbsp;&nbsp;NSC TotalLuís Roberto anuncia início de tratamento contra neoplasia: 'Dia 01, vencemos'&nbs",
       "sources": [
         {
           "name": "iG Gente",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc1BLNFg2V1RfZjFsdTRXMHo0OXBEaWpHQXFkNHk1azB3UDVlRUZYeHplaW9uZ3dtR1JTZ1pmR0w4aXF1OU0ySjN3bjdPMmxWb1RvZmpsNGQ1WGZSUUtodk02amIzeEFWYTAwMS1WY1FjMUd0NXNFSGhpMGNLTzFXQlNELTFrd1p6UTU1XzZsaDRJd0hKdjBTMl9Fd0ZTYTRyc3lCS1laTFBLZHRoVXcxRjN0ZGVoQnRuWW1sY3lUdmZZcnZobFow0gHMAUFVX3lxTFBER091azZGZEItMDdKMmU5SEpaQjdrbmdvZFlDMHJ1aGxvSjFjSjRfLW9mdEJVTFlxZkZ4VmZ4dG44Zms5QTVqc1N4WFZQd2RkWWVpVHdXaXRzVkk0Y1NDTXU1WWpwOVB2VXlrMnFuS0ZLelR1SEZfVXBpV2RvRmZMNU9JeWJCLXo3Nm5DdXJwTnNfbXNFSDJyQVZyNC1BcXZBWGJkSUpHM1ZkblpYZTROTEJVeDdneUFKdndPS3JXUHg3RTdDaDhvQVlrWQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "97c86cd9dac3",
+      "title": "Pesquisadores fazem descoberta sobre vírus que afeta 95% das pessoas - CNN Brasil",
+      "published": "2026-04-18T07:30:34+00:00",
+      "summary": "Pesquisadores fazem descoberta sobre vírus que afeta 95% das pessoas&nbsp;&nbsp;CNN BrasilVocê provavelmente está infectado: 95% das pessoas são portadoras deste vírus, mas cientistas descobriram como combatê-lo&nbsp;&nbsp;TerraPesquisadores descobrem como controlar o vírus Epstein-Barr, causador da “doença do beijo”&nbsp;&nbsp;Brasil ParaleloUma vacina para o Epstein-Barr? Entenda em que pé está a pesquisa&nbsp;&nbsp;Correio BrazilienseVírus Epstein-Barr, presente em 95% das pessoas, pode ter r",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcHh0d3lJd2RzWTQzWncweXY3UDNwQzNpYU00MjFQOVVQMGIwRmhHNFVpZGpTdUZFTjNOTkJhaEd4dTl6QzFqUXlvOW1kaFlEdTQwMzlfZW9wdFNiWDBIeHpYTkRaZTBjQ0dJLTR6ZmxCZmFwNnR6Sy1LTnBwX1dPaE5DRndieXFxWlFvUVBWdHlJN1NzLUZ1VlhPTzJ6MHFTYlRUVnln?oc=5"
         }
       ]
     },
@@ -345,7 +441,7 @@
       "id": "d553fc141061",
       "title": "Nefrologista explica como evitar que a hipertensão afete os rins - Metrópoles",
       "published": "2026-04-18T00:06:00+00:00",
-      "summary": "Nefrologista explica como evitar que a hipertensão afete os rins&nbsp;&nbsp;Metrópoles",
+      "summary": "Nefrologista explica como evitar que a hipertensão afete os rins&nbsp;&nbsp;MetrópolesAprenda a medir a pressão arterial em casa e evite resultados errados&nbsp;&nbsp;TerraHipertensão: nova diretriz brasileira redefine pressão normal e acende alerta para 30% da população adulta&nbsp;&nbsp;Portal Lago SulMenos sal, mais consciência: pequenas escolhas que salvam vidas&nbsp;&nbsp;Sim NotíciasPressão alta pode destruir os rins e dificultar o controle da doença&nbsp;&nbsp;Novabrasil",
       "sources": [
         {
           "name": "Metrópoles",
@@ -366,13 +462,13 @@
       ]
     },
     {
-      "id": "1bba0d4278d8",
-      "title": "Brics para Ciência: duas chamadas do Programa-Quadro investem R$ 15 milhões em pesquisas; inscrições até 16/06 - GOV.BR",
+      "id": "cf99282d1d2a",
+      "title": "Brics para Ciência: duas chamadas do Programa-Quadro investem R$ 15 milhões em pesquisas; inscrições até 16/06 - www.gov.br",
       "published": "2026-04-17T21:33:00+00:00",
-      "summary": "Brics para Ciência: duas chamadas do Programa-Quadro investem R$ 15 milhões em pesquisas; inscrições até 16/06&nbsp;&nbsp;GOV.BR",
+      "summary": "Brics para Ciência: duas chamadas do Programa-Quadro investem R$ 15 milhões em pesquisas; inscrições até 16/06&nbsp;&nbsp;www.gov.br",
       "sources": [
         {
-          "name": "GOV.BR",
+          "name": "www.gov.br",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVGhFODRHeXVXTTJhY2tlVk5TT0tCWDRjd0JnaV9MVS1SVTdKMDhrNTFWRkxCN3BVRldwWm05T0Eyam9yS1NHc2lyTWVCUXMwdWFFTG95NDFYbzVUS25mV2N5MGxkTUY0Ti0tSTlNaDMzaXZmTjN0N0Z0QkEyYVNxckF3STZ0VlV2VDZZenp1emdoaUF2TTRtaVg1bERxYXlNcHhFWHluS01UVUMxOVNOQnlELWF6QW1OS0pwTHQ1V0d1WWRzOE1XbHV1d04yQQ?oc=5"
         }
       ]
@@ -402,170 +498,14 @@
       ]
     },
     {
-      "id": "b27992fc87d4",
-      "title": "Gripe K: com um óbito registrado, DF tem outros 5 casos. Veja sintomas - Metrópoles",
-      "published": "2026-04-17T18:53:44+00:00",
-      "summary": "Gripe K: com um óbito registrado, DF tem outros 5 casos. Veja sintomas&nbsp;&nbsp;MetrópolesGripe: Variante K e emergência em Goiás acendem alerta sanitário no DF&nbsp;&nbsp;Correio BrazilienseAdolescente morre no DF após contrair vírus da 'Gripe K'&nbsp;&nbsp;CBNGripe K: veja quem pode se vacinar contra a doença no DF&nbsp;&nbsp;MetrópolesGripe K: “Não há evidências de aumento da gravidade”, diz secretário&nbsp;&nbsp;F5 News",
+      "id": "a51cb9161e14",
+      "title": "Um filhote de dinossauro enroscado dentro de um ovo, descoberto em perfeito estado de conservação, após 21 anos de pesquisa - Revista Oeste",
+      "published": "2026-04-17T02:45:00+00:00",
+      "summary": "Um filhote de dinossauro enroscado dentro de um ovo, descoberto em perfeito estado de conservação, após 21 anos de pesquisa&nbsp;&nbsp;Revista Oeste",
       "sources": [
         {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUmdQWTZYeFpLYkprbGV0V1JVcVRZZkVWWDQ1dHBtbFFnTHBwLUw1dUFIR0dkRm5jTFY1WEVJT29kTHFhRTdmV1otM3lBaHQ4TDFRVGJlRXJ3YmthWjB6SW9xRFVGamtNWU9nRmNzWEhtQ0psb245OHpKYjZUdGN4WlFheEVHbS0zcmhHV2p6SHRHVmJVRHd0Q0RvbkI2QVFrRlJMUWlaSVJtQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9c55bcc75c0a",
-      "title": "Dengue pode aumentar em 17 vezes o risco de síndrome rara, diz Fiocruz - CNN Brasil",
-      "published": "2026-04-17T18:27:54+00:00",
-      "summary": "Dengue pode aumentar em 17 vezes o risco de síndrome rara, diz Fiocruz&nbsp;&nbsp;CNN BrasilDengue pode aumentar em 17 vezes o risco de síndrome de Guillain-Barré, aponta estudo da Fiocruz&nbsp;&nbsp;EstadãoEstudo brasileiro evidencia relação entre dengue e a rara Síndrome de Guillain-Barré, que afeta os nervos periféricos&nbsp;&nbsp;TerraEstudo alerta para relação da dengue com a Síndrome de Guillain-Barré&nbsp;&nbsp;Folha de Londrina17/04/2026 | Dengue e Guillain-Barré, stent para pós-trombóti",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLVNJa1hxWGpyZUNDUVpvbmVRcVN4d085RzlGR05JOE9US0gwMlpzM29PLWUwVTFteXUwXzg0ZWFDbnF5UGVEUmt5aWhGVlh2X1lnR3VZRFdQcENaX25xN0N1ZEZOQ2J2QzZuV2htanZhcFN4aG5XLXljYlNyRW43aThXUGFxVGxYMlppYndDTlpBZjBLZWwxN0wwd3pmQWR1b2FERlFrU0s?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3f863646b89a",
-      "title": "Pesquisadores passam temporada na Antártida e retornam com parte do cérebro menor e a atenção alterada - CPG Click Petróleo e Gás",
-      "published": "2026-04-17T18:11:00+00:00",
-      "summary": "Pesquisadores passam temporada na Antártida e retornam com parte do cérebro menor e a atenção alterada&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPa0NKVkpDRGw3TDZLcWh4Rl8zU2otLUJTUmNscEZvZk9GcWkxcjRialFTN3BCWXprMGFaS2N3UkEtdGdhSFpUV2dfeXJpQlVjam96dnhnR0xYT3pHNWJhcEs3LU5IMFAtV0VYTVlwNXJjQ3ZvRGhkUmtkSjl6bEdGOC0wckNDc0F6Wl9kMXBpa0tybU9xNWFHY3IxMVU0bTRhR1RxX0dVTUZPVmRhWkJ4SkF2ZzNsejhaYmFsQ25uWFhzejdkLWZ3MHNaTkVoMU1Udkpqcm1DWWI4cUVmM09pSzM4S29XZWlOUVlCWWJ2bzFvUDVnY1RDT3RwQjg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "aa39c9824fad",
-      "title": "Japão anuncia a primeira missão de ida e volta da história ao entorno de Marte com pouso em Fobos e tecnologia criada para desvendar a origem das luas marcianas: conheça a MMX, equipada com cápsula de retorno e rover europeu para explorar o solo - CPG Click Petróleo e Gás",
-      "published": "2026-04-17T17:46:00+00:00",
-      "summary": "Japão anuncia a primeira missão de ida e volta da história ao entorno de Marte com pouso em Fobos e tecnologia criada para desvendar a origem das luas marcianas: conheça a MMX, equipada com cápsula de retorno e rover europeu para explorar o solo&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPU1NyNXdad0NnRGwwUUE5MDdzS3B6VVVMR3ZUUzExanNkXzRzOTFZNTBoM3NfZm1tb21Ebjl1NGY3UVNWQW1Pd05xRW1MelRsZWczX2pWUHdTdEl4RUlETXZBX3Q0ZVlJTEZ1a2V4eGlTcVpEeHFrX0xRTXcyTk5nWi1fUWJBN2hWaDhKVkVFSUhabnZ4Nk5DZkFaemVvd1BtT01haFZNaHFNc0JsZGxVV1lTUXdxcXZLZmZibWVLdTBsallpOTFLUFlidDN3a0RuSmUzUWpwSkJOOTdQdFdQblJFVVZXMHZXQlZVaklYWkFJLTdyc21GanFGbEd1RnNuUWRPVGw2MXBqNTNWdzZRcUxWMDhLUTJ0aXBQVWwySkZtX3VVZ1BqQ0lZYUp1ZDlZbGdtaEhIZUtDWkdpT2lCV2xrMXVIS2s?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "22b61ab7c19e",
-      "title": "Ultrassom pode estourar vírus sem danificar células humanas, diz pesquisa - CNN Brasil",
-      "published": "2026-04-17T17:01:11+00:00",
-      "summary": "Ultrassom pode estourar vírus sem danificar células humanas, diz pesquisa&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObklUY1hwUGNfM0Fpa3hkMVJsOTJSNjg2MDhVelA2ZXFoSFlCZVBqczNSOXpSNkJJUlBxd0VoTjF5Y0FwM204Z3FZWF9TaU5SeWE0ZVk4b2NMVlhtRkdKTjdLeHM1MzZfNE1SYm00SEE3SFdyRi1xMHNlTE9MYXI3YkU1Uk9Nc0g1bm5IQy1mWXEzVjJyVG9MWWEzLXhLVDhNbDJLaFpfc1JPaWxs?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c227cfc85b9e",
-      "title": "Roseana Sarney detalha tratamento contra câncer de mama após histórico de 26 cirurgias: 'Não imaginei que seria tão difícil' - Terra",
-      "published": "2026-04-17T16:52:00+00:00",
-      "summary": "Roseana Sarney detalha tratamento contra câncer de mama após histórico de 26 cirurgias: 'Não imaginei que seria tão difícil'&nbsp;&nbsp;Terra",
-      "sources": [
-        {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQOW9YbFQwUktDOXplV3JLUTgwZ1B6RjhrQk5SdWZTelkzWXQzNDJtWE5UdzRTNWdfMHlWZWNFaExCWjFzcmRGczd6aVRkNmEwdzhWb0pRcnFVQzNYQk9QbzZ2MlBTZjRkbzZ3QklfRFJKeERYZXhpaFQyZ0YzNU9fUDhyQ1BiZzhKZ2lnQ2pmTGV6dFZYem1SZ3ZfbVRrU21fejFrVlJTc09STWJMVE5EM0pIUUxGSFN0NTVoTGktQXZrTmhZNkEteXhELWdBTHBYcElNOUxTQ3hROU9JMXVqbndkMjF3RlF5a3BnRWVONjJ1RWlRbDJyMG85UHRqRFdldGhpeVdYNXFFTHhvejVwSG0yRkRWSk1ZVmJOU1pMdWFSWHQyUE5xYmhBWXVsN2s?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c3c8aa9ebe72",
-      "title": "Eles estudam o cérebro humano e descobrem que todos nós temos um \"sexto sentido\" que podemos despertar - Tua Saúde",
-      "published": "2026-04-17T16:25:23+00:00",
-      "summary": "Eles estudam o cérebro humano e descobrem que todos nós temos um \"sexto sentido\" que podemos despertar&nbsp;&nbsp;Tua Saúde",
-      "sources": [
-        {
-          "name": "Tua Saúde",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOczRVVEZzYlctWHBVa2dxNThpaU1kQWgyMDdkWHpjVE1HYTlobzFSdkpMcTVtNWhyV0JrLXZvWG1QMkRfeFpobjM5eHlMczBqRjJZYW5mWThQT0hCZDQtSzZiSWJ5c0FpbWVhaWk2Yk02N19UWFcyS1hadUdMMEszRFVzWEhLMXYyem1iWHdXLTR6TlNmNlFnXzNLaEVFS01mNVppMmZ2UkR1cnpVR2x1NXNvRkFxOGJVUm81NkVzRXctZlh0UzRBalhOU1p6UVY1Y0twcVZ2YVBZZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "52467ee68cd7",
-      "title": "GCN: Franca amplia vacinação contra gripe com ação especial no Centro - sampi.net.br",
-      "published": "2026-04-17T15:37:02+00:00",
-      "summary": "GCN: Franca amplia vacinação contra gripe com ação especial no Centro&nbsp;&nbsp;sampi.net.brCidades da Baixada Santista ampliam públicos de vacinação contra a gripe&nbsp;&nbsp;G1Praia Grande amplia vacinação contra a gripe para novos grupos nesta quinta-feira (16)&nbsp;&nbsp;Município de Praia GrandeGripe: Prefeitura dá continuidade à campanha itinerante&nbsp;&nbsp;Jornal A Voz da SerraResende vacina todos os grupos prioritários elegíveis contra a influenza&nbsp;&nbsp;O Dia",
-      "sources": [
-        {
-          "name": "sampi.net.br",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNmdSNXdJb1ZCcEJOclF0WnlJLWhzTG95R1lkWWJmM04tMWY0dERvU2doX2tHQ0d1R1YwcGx3SFpLWWdNNDVKbHBjZ0VWVEhuVlk4WU9wd1kxeHJDbTZ1M21xbTZQQ28wODVsdWJsZzRTZE9nNjJtV1llWkk4TDhyQ2plVlRkbmJjQmxaTUw2RmFxRXd0cGxRSkRTRWwyb0tac2pkR1o0bFNnb2hkUU1iQ0YtUjdqTHBJNk55MzQ4c2V0NWZ3c2FfMkIxLTRBc0Fo?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "609c2a41cc70",
-      "title": "Médica aponta 2 pilares que ajudam a conter o avanço da pré-diabetes - Metrópoles",
-      "published": "2026-04-17T15:02:00+00:00",
-      "summary": "Médica aponta 2 pilares que ajudam a conter o avanço da pré-diabetes&nbsp;&nbsp;MetrópolesReversão da pré-diabetes exige mudança rigorosa no estilo de vida&nbsp;&nbsp;Gazeta de São PauloPrograma de Prevenção do Diabetes recruta voluntários para mudança de estilo de vida&nbsp;&nbsp;G1Se você recebeu um diagnóstico de pré-diabetes, faça estas 4 coisas imediatamente.&nbsp;&nbsp;Vietnam.vnEstudo recruta pré-diabéticos para acompanhamento e mudança de estilo de vida&nbsp;&nbsp;Agora RN",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbGVGc2R3ZHRNM3dQYWFWQlJrUFBXUktYdjY1ZlZnVGZGMDhvTy1XN1RhSW9VaGtEN3BQRjB2YURHaC1vSmJJOGVPVm5FOGFNMkZKUllSVjJDT1Z5RHhNMWZsNDU2Qi1yVk1NMF9SN1U2ZWdtNmJnQVU3SGJDQmhWNkhaamhuY05LM2dzNGdrY2hva1lZWkJ1VGswdUtFaEM0eWlXNUZxc3Q5cDBZX0ZCMzQwMmFLbDFtTFJlOQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dc8becef8718",
-      "title": "Gastroenterologista explica se infecção pela H. pylori tem cura - Metrópoles",
-      "published": "2026-04-17T13:33:00+00:00",
-      "summary": "Gastroenterologista explica se infecção pela H. pylori tem cura&nbsp;&nbsp;MetrópolesA infecção por H. pylori pode causar câncer de estômago; como podemos prevenir a infecção?&nbsp;&nbsp;Vietnam.vnA bactéria que pode causar milhões de casos de câncer&nbsp;&nbsp;Notícias ao Minuto BrasilGastroenterologista explica o contágio da bactéria H. pylori&nbsp;&nbsp;difusora95.com.brGastroenterologista explica o que a H. pylori provoca no organismo&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZHhFZ2JlMGhtN2FmZzFldU1vV1B2em1FdEZNOEJlSGtJaXRkQVQ1anp0VlRPVWgyNkVKcktZOW8wem9RbDRoaFdPdlpnTC1LRU5fR2RiU1hMbTQ2d2xpbjlZX05kOFlSTGR6Tm4zay1ETFlYa25xbVNUOWcwOXVqWGo1SHh0Y2lhNWppN0REbXRHZTlOZ2N4Ni1DR0ZKb091dHBaOGJLRVpzcmhmT3J2UXhPZWM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6d16bcb9d11c",
-      "title": "Cientistas descobrem como bactérias 'explodem' para criar resistência a antibióticos - Época Negócios",
-      "published": "2026-04-17T13:17:06+00:00",
-      "summary": "Cientistas descobrem como bactérias 'explodem' para criar resistência a antibióticos&nbsp;&nbsp;Época Negócios",
-      "sources": [
-        {
-          "name": "Época Negócios",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNjhiak93SThwMUNNN0JQSjBKM29tbFNmbVVqWGhvTk56aEJkOFdfR1pITHNUU0FnNzduTUpndVIyZHpvZUx5M0kydEQ4ckJLN1NJRUNROTVEckY3cXN0T3lMS09NYzlQaFBYdTlMWk1tZ0lqWDZVSDVJcHQzQUxzRV9rZmg0Rkc2VnhWNEM0X0Jvc2dOazQwMU9DMTc5YXhpTDBMOW03b1hWVmU0bVJVRVIxanlLTnpkVUx4Q3NmalE5aVpWVVB1TFZGczhlcXd6QUFjOVFhclRfVnNIOHI5OFlHNThobWI1aFZz0gH6AUFVX3lxTE5VUmwyczNaRzVXaWhCYVZ1dEJ6ZzJoMVFZdnNEY3ZjZlc4cUlsQmRPamJKU2JSTVRDa1Y3Y0UyaVJ5cjFKMEVKejlvV1pFS3BTeEZpcjJnbWxheC1Sa1ptQ2VvclZXUzRaV29LLXV4dFprTkp1clZ3enlCVC1CTG1KRGV3dkxkMnA0RkNxdEE3cVl4UXN4Ymotbm44em5IZVJVeGZVSlRBREFqOG1SU1pGODZ4OHJpRkx6WEY0T0Y0dWdiQmI3QTNiRERRelJ4YS1HMzJVY3E2YncyUVRRTEpVdmVQRW50SVlVQ3VIMlRfTW50NnpVN21qekE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ecf76b5f2747",
-      "title": "Morte provocada por febre amarela reforça importância da vacina - JR - JORNAL DA REGIÃO",
-      "published": "2026-04-17T13:05:17+00:00",
-      "summary": "Morte provocada por febre amarela reforça importância da vacina&nbsp;&nbsp;JR - JORNAL DA REGIÃOSão Paulo registra primeira morte por febre amarela&nbsp;&nbsp;R7Febre amarela: o que é e quais os principais sintomas&nbsp;&nbsp;CNN BrasilCunha tem 1ª morte por febre amarela no estado em 2026&nbsp;&nbsp;G1Estado de São Paulo confirma três casos de febre amarela; uma pessoa morreu&nbsp;&nbsp;Rádio Itatiaia",
-      "sources": [
-        {
-          "name": "JR - JORNAL DA REGIÃO",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQmlSZHpnTHg4VFhpd0ZDUWExLWlRSDlHNk55eUdEUWNDTWdRTDhhTl8zNVRXcVFXQklxWFlTQnc2d01nRVJuNlZZM1IzbTByWDFYMXFMV2Zlel9BMHJ2NTJLUk42RW5oNl83blFuQkx3V3RaNWVCdVQxNHN0ZkFLXzMtMlFFdWFOWVdzRDNWUG9NMTRVTVA2LVNR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c01b066efb30",
-      "title": "Além da proteína: 6 outros nutrientes aliados da massa muscular, segundo especialistas de Harvard - Estadão",
-      "published": "2026-04-17T13:00:00+00:00",
-      "summary": "Além da proteína: 6 outros nutrientes aliados da massa muscular, segundo especialistas de Harvard&nbsp;&nbsp;EstadãoNem whey nem creatina: eis o suplemento mais subestimado para ganhar massa muscular&nbsp;&nbsp;Tua SaúdeEsse ajuste na proteína pode proteger seus músculos com o passar dos anos&nbsp;&nbsp;R7",
-      "sources": [
-        {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNU1UbkRiYkVKMFJZck9nZS1wenJXUmMxbEZPaThaTVgwVjhqajROcmp1MDBaUzJVSkMybnV4S0N6TkphWEhrVG9EVFdFTnk2Uk1veHdmWUNpU0ZrZDBTa0R6RXE4b2dCRW85cU5PRHJjU1VfNDk4aFNuNmd3elF2dVdnQ0FNM1R6eW9kQlpyYlZWY3B3cWNSODZCdXJDVFFxMzJBbGJpc2dCRWp5eHM4bzVFNktsRHVFQ1pDSmlBb3ZnNFctM195OTdteVBiVHBTbFV1ZQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d1f0c9129b74",
-      "title": "Pensávamos que éramos 8 bilhões no planeta. Até que alguns pesquisadores começaram a analisar os números - MINHAVIDA.com.br",
-      "published": "2026-04-16T15:19:16+00:00",
-      "summary": "Pensávamos que éramos 8 bilhões no planeta. Até que alguns pesquisadores começaram a analisar os números&nbsp;&nbsp;MINHAVIDA.com.br",
-      "sources": [
-        {
-          "name": "MINHAVIDA.com.br",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zbHlwS19WSUEzaEpKZXZJMV9qYlh5cnZfbnBrUHJNTFVMek5UWUhVQW9MdHhBbHBfeUF6T2tCU0d3REt2YlFMT2RIVmdYWS1ta29yY1hXTHUwd2FpMHFaedIBZkFVX3lxTE9iU0V6NkloYjlrek1vQ0VacjZxRVdPRFlUbDdPemZlaDhEWDlva1pITTlyN1pKLU92eDg2ODhzeXJQNWtxRGd3WkdsSnBnMFZJOEs1YnBWeDlkUFozQ1hZSjhsRU5zdw?oc=5"
+          "name": "Revista Oeste",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPMk1tZ09FY3BVZ05wQnIyd2xqRG41MnZ3ME9CSUczV21fRkNqV0pQSUR3UFJVN09TbHg3RlJ2NDF0cUF3bTNDOE92R1ZGbTFLREdFVUFkS2p0SGNZYmZrUWtMSGpycDB1TzJPeHhfenI3ZVFZMGtocU5YVWxubndGVEY1cWpJbjR1aHhiX2Rmb0paMTJOSEVoczhZV0l3UXFYOVBBRlYtYUNDZThsQVI3WWxnTlJlMGpPZjdWbXotTUM1V3BuYzdZQWhSeVpNRWUxRzF2aU1Lc1pmWEM1RnpESWM4RDk3T20zYmtsLXZVbENOb000UlBNSUNnelFoZw?oc=5"
         }
       ]
     }
