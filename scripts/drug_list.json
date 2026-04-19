@@ -1,3978 +1,1030 @@
 {
-  "generated": "2026-04-18",
-  "count": 993,
+  "generated": "2026-04-19",
+  "count": 256,
   "drugs": [
     {
-      "name": "ABACAVIR SULFATE",
-      "slug": "abacavir_sulfate"
-    },
-    {
-      "name": "ABATACEPTE",
-      "slug": "abatacepte"
-    },
-    {
-      "name": "ABEMACICLIBE",
-      "slug": "abemaciclibe"
-    },
-    {
-      "name": "ABIRATERONA ACETATE",
-      "slug": "abiraterona_acetate"
-    },
-    {
-      "name": "ACALABRUTINIBE MONOHYDRATE MALEATE",
-      "slug": "acalabrutinibe_monohydrate_maleate"
-    },
-    {
       "name": "ACARBOSE",
-      "slug": "acarbose"
+      "slug": "db00284"
     },
     {
-      "name": "ACECLOFENACO",
-      "slug": "aceclofenaco"
+      "name": "ACETAMINOPHEN",
+      "slug": "db00316"
     },
     {
-      "name": "ACETAZOLAMIDA",
-      "slug": "acetazolamida"
+      "name": "ACETYLCYSTEINE",
+      "slug": "db06151"
     },
     {
-      "name": "ACETONIDA DE TRIAMCINOLONE",
-      "slug": "acetonida_de_triamcinolone"
+      "name": "ACYCLOVIR",
+      "slug": "db00787"
     },
     {
-      "name": "ACLIDÍNIO BROMIDE",
-      "slug": "aclidínio_bromide"
+      "name": "ADAPALENE",
+      "slug": "db00210"
     },
     {
-      "name": "ACYCLOVIR SODIUM",
-      "slug": "acyclovir_sodium"
-    },
-    {
-      "name": "ADALIMUMABE",
-      "slug": "adalimumabe"
-    },
-    {
-      "name": "ADENOSINA",
-      "slug": "adenosina"
-    },
-    {
-      "name": "AFLIBERCEPTE",
-      "slug": "aflibercepte"
-    },
-    {
-      "name": "AGOMELATINA",
-      "slug": "agomelatina"
-    },
-    {
-      "name": "ALANINE",
-      "slug": "alanine"
-    },
-    {
-      "name": "ALBUTEROL",
-      "slug": "albuterol"
-    },
-    {
-      "name": "ALBUTEROL SULFATE",
-      "slug": "albuterol_sulfate"
-    },
-    {
-      "name": "ALCAFTADINA",
-      "slug": "alcaftadina"
-    },
-    {
-      "name": "ALECTINIBE HYDROCHLORIDE",
-      "slug": "alectinibe_hydrochloride"
+      "name": "ALBENDAZOLE",
+      "slug": "db00518"
     },
     {
       "name": "ALFACALCIDOL",
-      "slug": "alfacalcidol"
+      "slug": "db01436"
     },
     {
-      "name": "ALOGLIPTINA BENZOATE",
-      "slug": "alogliptina_benzoate"
+      "name": "ALLOPURINOL",
+      "slug": "db00437"
     },
     {
       "name": "ALPRAZOLAM",
-      "slug": "alprazolam"
+      "slug": "db00404"
+    },
+    {
+      "name": "ALPROSTADIL",
+      "slug": "db00770"
     },
     {
       "name": "ALTEPLASE",
-      "slug": "alteplase"
+      "slug": "db00009"
     },
     {
-      "name": "AMANTADINA HYDROCHLORIDE",
-      "slug": "amantadina_hydrochloride"
+      "name": "AMOXICILLIN",
+      "slug": "db01060"
     },
     {
-      "name": "AMBROXOL HYDROCHLORIDE",
-      "slug": "ambroxol_hydrochloride"
-    },
-    {
-      "name": "AMIKACIN SULFATE",
-      "slug": "amikacin_sulfate"
-    },
-    {
-      "name": "AMILORIDA",
-      "slug": "amilorida"
-    },
-    {
-      "name": "AMILORIDA HYDROCHLORIDE",
-      "slug": "amilorida_hydrochloride"
-    },
-    {
-      "name": "AMIODARONE HYDROCHLORIDE",
-      "slug": "amiodarone_hydrochloride"
-    },
-    {
-      "name": "AMITRIPTYLINE HYDROCHLORIDE",
-      "slug": "amitriptyline_hydrochloride"
-    },
-    {
-      "name": "AMLODIPINA BESYLATE",
-      "slug": "amlodipina_besylate"
-    },
-    {
-      "name": "AMLODIPINE BESYLATE",
-      "slug": "amlodipine_besylate"
-    },
-    {
-      "name": "AMOROLFINA HYDROCHLORIDE",
-      "slug": "amorolfina_hydrochloride"
-    },
-    {
-      "name": "AMOXICILLIN SODIUM",
-      "slug": "amoxicillin_sodium"
-    },
-    {
-      "name": "AMOXICILLIN TRIHYDRATE",
-      "slug": "amoxicillin_trihydrate"
-    },
-    {
-      "name": "AMPICILLIN ANHYDROUS",
-      "slug": "ampicillin_anhydrous"
-    },
-    {
-      "name": "AMPICILLIN SODIUM",
-      "slug": "ampicillin_sodium"
-    },
-    {
-      "name": "AMPICILLIN TRIHYDRATE",
-      "slug": "ampicillin_trihydrate"
-    },
-    {
-      "name": "ANAGRELIDA HYDROCHLORIDE",
-      "slug": "anagrelida_hydrochloride"
-    },
-    {
-      "name": "APALUTAMIDA",
-      "slug": "apalutamida"
-    },
-    {
-      "name": "ARGININE",
-      "slug": "arginine"
-    },
-    {
-      "name": "ARGININE ASPARTATE",
-      "slug": "arginine_aspartate"
-    },
-    {
-      "name": "ARGININE GLUTAMATE",
-      "slug": "arginine_glutamate"
+      "name": "AMPICILLIN",
+      "slug": "db00415"
     },
     {
       "name": "ARIPIPRAZOLE",
-      "slug": "aripiprazole"
+      "slug": "db01238"
     },
     {
-      "name": "ARTESUNATO",
-      "slug": "artesunato"
-    },
-    {
-      "name": "ARTICAÍNA HYDROCHLORIDE",
-      "slug": "articaína_hydrochloride"
+      "name": "ASCORBIC ACID",
+      "slug": "db00126"
     },
     {
       "name": "ASPARTIC ACID",
-      "slug": "aspartic_acid"
-    },
-    {
-      "name": "ATAZANAVIR SULFATE",
-      "slug": "atazanavir_sulfate"
+      "slug": "db00128"
     },
     {
       "name": "ATENOLOL",
-      "slug": "atenolol"
-    },
-    {
-      "name": "ATEZOLIZUMABE",
-      "slug": "atezolizumabe"
-    },
-    {
-      "name": "ATOMOXETINA HYDROCHLORIDE",
-      "slug": "atomoxetina_hydrochloride"
-    },
-    {
-      "name": "ATORVASTATIN CALCIUM",
-      "slug": "atorvastatin_calcium"
-    },
-    {
-      "name": "ATRACÚRIO BESYLATE",
-      "slug": "atracúrio_besylate"
-    },
-    {
-      "name": "ATROPINE SULFATE",
-      "slug": "atropine_sulfate"
-    },
-    {
-      "name": "AVIBACTAM SODIUM",
-      "slug": "avibactam_sodium"
-    },
-    {
-      "name": "AXITINIBE",
-      "slug": "axitinibe"
-    },
-    {
-      "name": "AZACITIDINA",
-      "slug": "azacitidina"
+      "slug": "db00335"
     },
     {
       "name": "AZATHIOPRINE",
-      "slug": "azathioprine"
+      "slug": "db00993"
     },
     {
-      "name": "AZELASTINA HYDROCHLORIDE",
-      "slug": "azelastina_hydrochloride"
+      "name": "AZITHROMYCIN",
+      "slug": "db00207"
     },
     {
-      "name": "AZITHROMYCIN DIHYDRATE",
-      "slug": "azithromycin_dihydrate"
+      "name": "AZTREONAM",
+      "slug": "db00355"
     },
     {
-      "name": "AZITHROMYCIN MONOHYDRATE",
-      "slug": "azithromycin_monohydrate"
-    },
-    {
-      "name": "Acetaminophen",
-      "slug": "acetaminophen"
-    },
-    {
-      "name": "Acetylcysteine",
-      "slug": "acetylcysteine"
-    },
-    {
-      "name": "Acyclovir",
-      "slug": "acyclovir"
-    },
-    {
-      "name": "Adapalene",
-      "slug": "adapalene"
-    },
-    {
-      "name": "Albendazole",
-      "slug": "albendazole"
-    },
-    {
-      "name": "Allopurinol",
-      "slug": "allopurinol"
-    },
-    {
-      "name": "Alprostadil",
-      "slug": "alprostadil"
-    },
-    {
-      "name": "Ambroxol",
-      "slug": "ambroxol"
-    },
-    {
-      "name": "Amikacin",
-      "slug": "amikacin"
-    },
-    {
-      "name": "Aminophylline",
-      "slug": "aminophylline"
-    },
-    {
-      "name": "Amiodarone",
-      "slug": "amiodarone"
-    },
-    {
-      "name": "Amoxicillin",
-      "slug": "amoxicillin"
-    },
-    {
-      "name": "Ampicillin",
-      "slug": "ampicillin"
-    },
-    {
-      "name": "Anastrozole",
-      "slug": "anastrozole"
-    },
-    {
-      "name": "Apixaban",
-      "slug": "apixaban"
-    },
-    {
-      "name": "Ascorbic acid",
-      "slug": "ascorbic_acid"
-    },
-    {
-      "name": "Atropine",
-      "slug": "atropine"
-    },
-    {
-      "name": "Avibactam",
-      "slug": "avibactam"
-    },
-    {
-      "name": "Azithromycin",
-      "slug": "azithromycin"
-    },
-    {
-      "name": "Aztreonam",
-      "slug": "aztreonam"
-    },
-    {
-      "name": "BASILIXIMABE",
-      "slug": "basiliximabe"
-    },
-    {
-      "name": "BAZEDOXIFENO ACETATE",
-      "slug": "bazedoxifeno_acetate"
+      "name": "BACITRACIN",
+      "slug": "db00626"
     },
     {
       "name": "BECLOMETHASONE DIPROPIONATE",
-      "slug": "beclomethasone_dipropionate"
-    },
-    {
-      "name": "BEDAQUILINA FUMARATE",
-      "slug": "bedaquilina_fumarate"
-    },
-    {
-      "name": "BELIMUMABE",
-      "slug": "belimumabe"
-    },
-    {
-      "name": "BENAZEPRIL HYDROCHLORIDE",
-      "slug": "benazepril_hydrochloride"
-    },
-    {
-      "name": "BENDAMUSTINA HYDROCHLORIDE",
-      "slug": "bendamustina_hydrochloride"
-    },
-    {
-      "name": "BENSERAZIDA HYDROCHLORIDE",
-      "slug": "benserazida_hydrochloride"
-    },
-    {
-      "name": "BENZILA BENZOATE",
-      "slug": "benzila_benzoate"
-    },
-    {
-      "name": "BENZNIDAZOL",
-      "slug": "benznidazol"
+      "slug": "db00394"
     },
     {
       "name": "BENZOCAINE",
-      "slug": "benzocaine"
+      "slug": "db01086"
     },
     {
-      "name": "BETAHISTINE DIHYDROCHLORIDE",
-      "slug": "betahistine_dihydrochloride"
-    },
-    {
-      "name": "BETAHISTINE HYDROCHLORIDE",
-      "slug": "betahistine_hydrochloride"
+      "name": "BETAHISTINE",
+      "slug": "db06698"
     },
     {
       "name": "BETAMETHASONE",
-      "slug": "betamethasone"
+      "slug": "db00443"
     },
     {
-      "name": "BETAMETHASONE ACETATE",
-      "slug": "betamethasone_acetate"
+      "name": "BEVACIZUMAB",
+      "slug": "db00112"
     },
     {
-      "name": "BETAMETHASONE DIPROPIONATE",
-      "slug": "betamethasone_dipropionate"
+      "name": "BIMATOPROST",
+      "slug": "db00905"
     },
     {
-      "name": "BETAMETHASONE VALERATE",
-      "slug": "betamethasone_valerate"
-    },
-    {
-      "name": "BETAXOLOL HYDROCHLORIDE",
-      "slug": "betaxolol_hydrochloride"
-    },
-    {
-      "name": "BEZAFIBRATO",
-      "slug": "bezafibrato"
-    },
-    {
-      "name": "BICALUTAMIDA",
-      "slug": "bicalutamida"
-    },
-    {
-      "name": "BICTEGRAVIR SODIUM",
-      "slug": "bictegravir_sodium"
-    },
-    {
-      "name": "BILASTINA",
-      "slug": "bilastina"
-    },
-    {
-      "name": "BINIMETINIBE",
-      "slug": "binimetinibe"
-    },
-    {
-      "name": "BIPERIDEN HYDROCHLORIDE",
-      "slug": "biperiden_hydrochloride"
-    },
-    {
-      "name": "BIPERIDEN LACTATE",
-      "slug": "biperiden_lactate"
+      "name": "BIOTIN",
+      "slug": "db00121"
     },
     {
       "name": "BISACODYL",
-      "slug": "bisacodyl"
+      "slug": "db09020"
     },
     {
       "name": "BISOPROLOL",
-      "slug": "bisoprolol"
+      "slug": "db00612"
     },
     {
-      "name": "BORTEZOMIBE",
-      "slug": "bortezomibe"
-    },
-    {
-      "name": "BOSUTINIBE MONOHYDRATE",
-      "slug": "bosutinibe_monohydrate"
-    },
-    {
-      "name": "BRIGATINIBE",
-      "slug": "brigatinibe"
-    },
-    {
-      "name": "BRIMONIDINE TARTRATE",
-      "slug": "brimonidine_tartrate"
-    },
-    {
-      "name": "BROMAZEPAM",
-      "slug": "bromazepam"
-    },
-    {
-      "name": "BROMHEXINE HYDROCHLORIDE",
-      "slug": "bromhexine_hydrochloride"
-    },
-    {
-      "name": "BROMOPRIDE",
-      "slug": "bromopride"
-    },
-    {
-      "name": "BUCLIZINA DIHYDROCHLORIDE",
-      "slug": "buclizina_dihydrochloride"
+      "name": "BRINZOLAMIDE",
+      "slug": "db01194"
     },
     {
       "name": "BUDESONIDE",
-      "slug": "budesonide"
+      "slug": "db01222"
     },
     {
       "name": "BUPIVACAINE",
-      "slug": "bupivacaine"
-    },
-    {
-      "name": "BUPIVACAINE HYDROCHLORIDE",
-      "slug": "bupivacaine_hydrochloride"
-    },
-    {
-      "name": "BUPIVACAINE MONOHYDRATE HYDROCHLORIDE",
-      "slug": "bupivacaine_monohydrate_hydrochloride"
+      "slug": "db00297"
     },
     {
       "name": "BUPRENORPHINE",
-      "slug": "buprenorphine"
+      "slug": "db00921"
     },
     {
-      "name": "BUPROPION HYDROCHLORIDE",
-      "slug": "bupropion_hydrochloride"
-    },
-    {
-      "name": "Bacitracin",
-      "slug": "bacitracin"
-    },
-    {
-      "name": "Baclofen",
-      "slug": "baclofen"
-    },
-    {
-      "name": "Basiliximab",
-      "slug": "basiliximab"
-    },
-    {
-      "name": "Betahistine",
-      "slug": "betahistine"
-    },
-    {
-      "name": "Bevacizumab",
-      "slug": "bevacizumab"
-    },
-    {
-      "name": "Bimatoprost",
-      "slug": "bimatoprost"
-    },
-    {
-      "name": "Biotin",
-      "slug": "biotin"
-    },
-    {
-      "name": "Biperiden",
-      "slug": "biperiden"
-    },
-    {
-      "name": "Brimonidine",
-      "slug": "brimonidine"
-    },
-    {
-      "name": "Brinzolamide",
-      "slug": "brinzolamide"
-    },
-    {
-      "name": "CABERGOLINA",
-      "slug": "cabergolina"
-    },
-    {
-      "name": "CABOTEGRAVIR SODIUM",
-      "slug": "cabotegravir_sodium"
-    },
-    {
-      "name": "CAFFEINE ANHYDROUS",
-      "slug": "caffeine_anhydrous"
-    },
-    {
-      "name": "CAFFEINE CITRATE",
-      "slug": "caffeine_citrate"
-    },
-    {
-      "name": "CALCIPOTRIOL",
-      "slug": "calcipotriol"
-    },
-    {
-      "name": "CALCIPOTRIOL MONOHYDRATE",
-      "slug": "calcipotriol_monohydrate"
+      "name": "CAFFEINE",
+      "slug": "db00201"
     },
     {
       "name": "CALCITRIOL",
-      "slug": "calcitriol"
+      "slug": "db00136"
     },
     {
       "name": "CALCIUM CARBONATE",
-      "slug": "calcium_carbonate"
+      "slug": "db06724"
     },
     {
       "name": "CALCIUM CHLORIDE",
-      "slug": "calcium_chloride"
+      "slug": "db01164"
     },
     {
-      "name": "CALCIUM DIHYDRATE CHLORIDE",
-      "slug": "calcium_dihydrate_chloride"
-    },
-    {
-      "name": "CALCIUM PROPIONATE",
-      "slug": "calcium_propionate"
-    },
-    {
-      "name": "CANAGLIFLOZIN HEMIHYDRATE",
-      "slug": "canagliflozin_hemihydrate"
+      "name": "CAPECITABINE",
+      "slug": "db01101"
     },
     {
       "name": "CAPTOPRIL",
-      "slug": "captopril"
+      "slug": "db01197"
     },
     {
       "name": "CARBAMAZEPINE",
-      "slug": "carbamazepine"
+      "slug": "db00564"
     },
     {
       "name": "CARBIDOPA",
-      "slug": "carbidopa"
+      "slug": "db00190"
     },
     {
-      "name": "CARBIDOPA MONOHYDRATE",
-      "slug": "carbidopa_monohydrate"
-    },
-    {
-      "name": "CARBINOXAMINA MALEATE",
-      "slug": "carbinoxamina_maleate"
-    },
-    {
-      "name": "CARFILZOMIBE",
-      "slug": "carfilzomibe"
-    },
-    {
-      "name": "CARISOPRODOL",
-      "slug": "carisoprodol"
-    },
-    {
-      "name": "CARMUSTINA",
-      "slug": "carmustina"
+      "name": "CARBOPLATIN",
+      "slug": "db00958"
     },
     {
       "name": "CARVEDILOL",
-      "slug": "carvedilol"
+      "slug": "db01136"
     },
     {
-      "name": "CEFACLOR MONOHYDRATE",
-      "slug": "cefaclor_monohydrate"
+      "name": "CEFACLOR",
+      "slug": "db00833"
     },
     {
-      "name": "CEFAZOLIN SODIUM",
-      "slug": "cefazolin_sodium"
+      "name": "CEFDINIR",
+      "slug": "db00535"
     },
     {
-      "name": "CEFEPIMA HYDROCHLORIDE",
-      "slug": "cefepima_hydrochloride"
-    },
-    {
-      "name": "CEFOTAXIMA SODIUM",
-      "slug": "cefotaxima_sodium"
-    },
-    {
-      "name": "CEFTAZIDIMA",
-      "slug": "ceftazidima"
-    },
-    {
-      "name": "CEFTRIAXONE SODIUM",
-      "slug": "ceftriaxone_sodium"
-    },
-    {
-      "name": "CEFUROXIMA SODIUM",
-      "slug": "cefuroxima_sodium"
+      "name": "CEFTRIAXONE",
+      "slug": "db01212"
     },
     {
       "name": "CELECOXIB",
-      "slug": "celecoxib"
+      "slug": "db00482"
     },
     {
-      "name": "CEPHALEXIN MONOHYDRATE",
-      "slug": "cephalexin_monohydrate"
-    },
-    {
-      "name": "CETIRIZINE DIHYDROCHLORIDE",
-      "slug": "cetirizine_dihydrochloride"
-    },
-    {
-      "name": "CETOTIFENO FUMARATE",
-      "slug": "cetotifeno_fumarate"
-    },
-    {
-      "name": "CETUXIMABE",
-      "slug": "cetuximabe"
-    },
-    {
-      "name": "CHLORPHENIRAMINE MALEATE",
-      "slug": "chlorpheniramine_maleate"
+      "name": "CEPHALEXIN",
+      "slug": "db00567"
     },
     {
       "name": "CHLORTHALIDONE",
-      "slug": "chlorthalidone"
+      "slug": "db00310"
     },
     {
       "name": "CHOLECALCIFEROL",
-      "slug": "cholecalciferol"
-    },
-    {
-      "name": "CICLOPENTOLATO HYDROCHLORIDE",
-      "slug": "ciclopentolato_hydrochloride"
+      "slug": "db00169"
     },
     {
       "name": "CICLOPIROX",
-      "slug": "ciclopirox"
+      "slug": "db01188"
     },
     {
       "name": "CILOSTAZOL",
-      "slug": "cilostazol"
+      "slug": "db01166"
     },
     {
-      "name": "CIMETIDINA",
-      "slug": "cimetidina"
-    },
-    {
-      "name": "CIPROFIBRATO",
-      "slug": "ciprofibrato"
-    },
-    {
-      "name": "CIPROFLOXACIN HYDROCHLORIDE",
-      "slug": "ciprofloxacin_hydrochloride"
-    },
-    {
-      "name": "CIPROFLOXACIN MONOHYDRATE HYDROCHLORIDE",
-      "slug": "ciprofloxacin_monohydrate_hydrochloride"
-    },
-    {
-      "name": "CISATRACÚRIO BESYLATE",
-      "slug": "cisatracúrio_besylate"
+      "name": "CIPROFLOXACIN",
+      "slug": "db00537"
     },
     {
       "name": "CISPLATIN",
-      "slug": "cisplatin"
+      "slug": "db00515"
     },
     {
       "name": "CITALOPRAM",
-      "slug": "citalopram"
+      "slug": "db00215"
     },
     {
-      "name": "CITARABINA",
-      "slug": "citarabina"
+      "name": "CLARITHROMYCIN",
+      "slug": "db01211"
     },
     {
-      "name": "CLADRIBINA",
-      "slug": "cladribina"
+      "name": "CLAVULANIC ACID",
+      "slug": "db00766"
     },
     {
-      "name": "CLEMASTINA FUMARATE",
-      "slug": "clemastina_fumarate"
+      "name": "CLINDAMYCIN",
+      "slug": "db01190"
     },
     {
-      "name": "CLINDAMYCIN HYDROCHLORIDE",
-      "slug": "clindamycin_hydrochloride"
+      "name": "CLIOQUINOL",
+      "slug": "db04815"
     },
     {
-      "name": "CLINDAMYCIN MONOHYDRATE HYDROCHLORIDE",
-      "slug": "clindamycin_monohydrate_hydrochloride"
-    },
-    {
-      "name": "CLINDAMYCIN PHOSPHATE",
-      "slug": "clindamycin_phosphate"
+      "name": "CLOBAZAM",
+      "slug": "db00349"
     },
     {
       "name": "CLOBETASOL PROPIONATE",
-      "slug": "clobetasol_propionate"
-    },
-    {
-      "name": "CLOBUTINOL HYDROCHLORIDE",
-      "slug": "clobutinol_hydrochloride"
-    },
-    {
-      "name": "CLOMIPRAMINE HYDROCHLORIDE",
-      "slug": "clomipramine_hydrochloride"
+      "slug": "db01013"
     },
     {
       "name": "CLONAZEPAM",
-      "slug": "clonazepam"
+      "slug": "db01068"
     },
     {
-      "name": "CLONIDINA HYDROCHLORIDE",
-      "slug": "clonidina_hydrochloride"
-    },
-    {
-      "name": "CLOPIDOGREL BISULFATE",
-      "slug": "clopidogrel_bisulfate"
-    },
-    {
-      "name": "CLORDIAZEPÓXIDO",
-      "slug": "clordiazepóxido"
-    },
-    {
-      "name": "CLOROQUINA DIHYDROCHLORIDE",
-      "slug": "cloroquina_dihydrochloride"
-    },
-    {
-      "name": "CLORPROMAZINA HYDROCHLORIDE",
-      "slug": "clorpromazina_hydrochloride"
-    },
-    {
-      "name": "COBAMAMIDA",
-      "slug": "cobamamida"
-    },
-    {
-      "name": "CODEINE PHOSPHATE",
-      "slug": "codeine_phosphate"
-    },
-    {
-      "name": "COENZYME A",
-      "slug": "coenzyme_a"
+      "name": "CLOTRIMAZOLE",
+      "slug": "db00257"
     },
     {
       "name": "COLCHICINE",
-      "slug": "colchicine"
-    },
-    {
-      "name": "CRIZOTINIBE",
-      "slug": "crizotinibe"
+      "slug": "db01394"
     },
     {
       "name": "CYANOCOBALAMIN",
-      "slug": "cyanocobalamin"
+      "slug": "db00115"
     },
     {
-      "name": "CYCLOBENZAPRINE HYDROCHLORIDE",
-      "slug": "cyclobenzaprine_hydrochloride"
+      "name": "CYCLOSPORINE",
+      "slug": "db00091"
     },
     {
-      "name": "CYCLOPHOSPHAMIDE MONOHYDRATE",
-      "slug": "cyclophosphamide_monohydrate"
+      "name": "CYSTEINE",
+      "slug": "db00151"
     },
     {
-      "name": "Cabazitaxel",
-      "slug": "cabazitaxel"
-    },
-    {
-      "name": "Cabotegravir",
-      "slug": "cabotegravir"
-    },
-    {
-      "name": "Caffeine",
-      "slug": "caffeine"
-    },
-    {
-      "name": "Calcium",
-      "slug": "calcium"
-    },
-    {
-      "name": "Camphor",
-      "slug": "camphor"
-    },
-    {
-      "name": "Capecitabine",
-      "slug": "capecitabine"
-    },
-    {
-      "name": "Carbocisteine",
-      "slug": "carbocisteine"
-    },
-    {
-      "name": "Carboplatin",
-      "slug": "carboplatin"
-    },
-    {
-      "name": "Cefaclor",
-      "slug": "cefaclor"
-    },
-    {
-      "name": "Cefazolin",
-      "slug": "cefazolin"
-    },
-    {
-      "name": "Cefdinir",
-      "slug": "cefdinir"
-    },
-    {
-      "name": "Ceftriaxone",
-      "slug": "ceftriaxone"
-    },
-    {
-      "name": "Centella asiatica",
-      "slug": "centella_asiatica"
-    },
-    {
-      "name": "Cephalexin",
-      "slug": "cephalexin"
-    },
-    {
-      "name": "Ciprofloxacin",
-      "slug": "ciprofloxacin"
-    },
-    {
-      "name": "Clarithromycin",
-      "slug": "clarithromycin"
-    },
-    {
-      "name": "Clavulanic acid",
-      "slug": "clavulanic_acid"
-    },
-    {
-      "name": "Clindamycin",
-      "slug": "clindamycin"
-    },
-    {
-      "name": "Clioquinol",
-      "slug": "clioquinol"
-    },
-    {
-      "name": "Clobazam",
-      "slug": "clobazam"
-    },
-    {
-      "name": "Clobutinol",
-      "slug": "clobutinol"
-    },
-    {
-      "name": "Clopidogrel",
-      "slug": "clopidogrel"
-    },
-    {
-      "name": "Clotrimazole",
-      "slug": "clotrimazole"
-    },
-    {
-      "name": "Clozapine",
-      "slug": "clozapine"
-    },
-    {
-      "name": "Copper",
-      "slug": "copper"
-    },
-    {
-      "name": "Cyclobenzaprine",
-      "slug": "cyclobenzaprine"
-    },
-    {
-      "name": "Cyclosporine",
-      "slug": "cyclosporine"
-    },
-    {
-      "name": "Cyproterone acetate",
-      "slug": "cyproterone_acetate"
-    },
-    {
-      "name": "Cysteine",
-      "slug": "cysteine"
-    },
-    {
-      "name": "D-glucose",
-      "slug": "d-glucose"
-    },
-    {
-      "name": "DABRAFENIBE MESYLATE",
-      "slug": "dabrafenibe_mesylate"
-    },
-    {
-      "name": "DACARBAZINA",
-      "slug": "dacarbazina"
-    },
-    {
-      "name": "DACLATASVIR DIHYDROCHLORIDE",
-      "slug": "daclatasvir_dihydrochloride"
-    },
-    {
-      "name": "DANTROLENE SODIUM",
-      "slug": "dantrolene_sodium"
+      "name": "DANAZOL",
+      "slug": "db01406"
     },
     {
       "name": "DAPAGLIFLOZIN",
-      "slug": "dapagliflozin"
-    },
-    {
-      "name": "DAPOXETINA HYDROCHLORIDE",
-      "slug": "dapoxetina_hydrochloride"
-    },
-    {
-      "name": "DAPSONA",
-      "slug": "dapsona"
-    },
-    {
-      "name": "DAPTOMICINA",
-      "slug": "daptomicina"
-    },
-    {
-      "name": "DARATUMUMABE",
-      "slug": "daratumumabe"
-    },
-    {
-      "name": "DAROLUTAMIDA",
-      "slug": "darolutamida"
+      "slug": "db06292"
     },
     {
       "name": "DARUNAVIR",
-      "slug": "darunavir"
-    },
-    {
-      "name": "DASATINIBE",
-      "slug": "dasatinibe"
-    },
-    {
-      "name": "DASATINIBE MONOHYDRATE",
-      "slug": "dasatinibe_monohydrate"
-    },
-    {
-      "name": "DAUNORRUBICINA HYDROCHLORIDE",
-      "slug": "daunorrubicina_hydrochloride"
-    },
-    {
-      "name": "DECITABINA",
-      "slug": "decitabina"
+      "slug": "db01264"
     },
     {
       "name": "DEFERASIROX",
-      "slug": "deferasirox"
+      "slug": "db01609"
     },
     {
-      "name": "DEFERIPRONA",
-      "slug": "deferiprona"
+      "name": "DESLORATADINE",
+      "slug": "db00967"
     },
     {
-      "name": "DEFIBROTIDA",
-      "slug": "defibrotida"
-    },
-    {
-      "name": "DEGARELIX",
-      "slug": "degarelix"
-    },
-    {
-      "name": "DEGARELIX ACETATE",
-      "slug": "degarelix_acetate"
-    },
-    {
-      "name": "DENOSUMABE",
-      "slug": "denosumabe"
-    },
-    {
-      "name": "DESONIDA",
-      "slug": "desonida"
-    },
-    {
-      "name": "DESVENLAFAXINE MONOHYDRATE SUCCINATE",
-      "slug": "desvenlafaxine_monohydrate_succinate"
-    },
-    {
-      "name": "DEUTETRABENAZINA",
-      "slug": "deutetrabenazina"
+      "name": "DEXAMETHASONE",
+      "slug": "db01234"
     },
     {
       "name": "DEXAMETHASONE ACETATE",
-      "slug": "dexamethasone_acetate"
-    },
-    {
-      "name": "DEXAMETHASONE PHOSPHATE",
-      "slug": "dexamethasone_phosphate"
+      "slug": "db14649"
     },
     {
       "name": "DEXCHLORPHENIRAMINE",
-      "slug": "dexchlorpheniramine"
+      "slug": "db13679"
     },
     {
-      "name": "DEXMEDETOMIDINA HYDROCHLORIDE",
-      "slug": "dexmedetomidina_hydrochloride"
+      "name": "DIAZEPAM",
+      "slug": "db00829"
     },
     {
-      "name": "DICLOFENAC DE POTASSIUM",
-      "slug": "diclofenac_de_potassium"
-    },
-    {
-      "name": "DICLOFENAC DE SODIUM",
-      "slug": "diclofenac_de_sodium"
-    },
-    {
-      "name": "DICLOFENAC POTASSIUM",
-      "slug": "diclofenac_potassium"
-    },
-    {
-      "name": "DICLOFENAC SODIUM",
-      "slug": "diclofenac_sodium"
+      "name": "DICLOFENAC",
+      "slug": "db00586"
     },
     {
       "name": "DIGOXIN",
-      "slug": "digoxin"
-    },
-    {
-      "name": "DILTIAZEM HYDROCHLORIDE",
-      "slug": "diltiazem_hydrochloride"
+      "slug": "db00390"
     },
     {
       "name": "DIMENHYDRINATE",
-      "slug": "dimenhydrinate"
+      "slug": "db00985"
     },
     {
-      "name": "DIMETICONA",
-      "slug": "dimeticona"
-    },
-    {
-      "name": "DINITRATO DE ISOSSORBIDA",
-      "slug": "dinitrato_de_isossorbida"
-    },
-    {
-      "name": "DIPHENHYDRAMINE HYDROCHLORIDE",
-      "slug": "diphenhydramine_hydrochloride"
-    },
-    {
-      "name": "DL-METIONINA",
-      "slug": "dl-metionina"
-    },
-    {
-      "name": "DOBUTAMINE HYDROCHLORIDE",
-      "slug": "dobutamine_hydrochloride"
-    },
-    {
-      "name": "DOCETAXEL TRIHYDRATE",
-      "slug": "docetaxel_trihydrate"
-    },
-    {
-      "name": "DOLUTEGRAVIR SODIUM",
-      "slug": "dolutegravir_sodium"
-    },
-    {
-      "name": "DOMPERIDONE",
-      "slug": "domperidone"
+      "name": "DOCETAXEL",
+      "slug": "db01248"
     },
     {
       "name": "DONEPEZIL",
-      "slug": "donepezil"
+      "slug": "db00843"
     },
     {
-      "name": "DONEPEZIL HYDROCHLORIDE",
-      "slug": "donepezil_hydrochloride"
-    },
-    {
-      "name": "DONEPEZIL MONOHYDRATE HYDROCHLORIDE",
-      "slug": "donepezil_monohydrate_hydrochloride"
-    },
-    {
-      "name": "DOPAMINE HYDROCHLORIDE",
-      "slug": "dopamine_hydrochloride"
-    },
-    {
-      "name": "DORAVIRINA",
-      "slug": "doravirina"
-    },
-    {
-      "name": "DORZOLAMIDE HYDROCHLORIDE",
-      "slug": "dorzolamide_hydrochloride"
-    },
-    {
-      "name": "DOXAZOSIN MESYLATE",
-      "slug": "doxazosin_mesylate"
-    },
-    {
-      "name": "DOXILAMINA SUCCINATE",
-      "slug": "doxilamina_succinate"
-    },
-    {
-      "name": "DOXORUBICIN HYDROCHLORIDE",
-      "slug": "doxorubicin_hydrochloride"
-    },
-    {
-      "name": "DOXYCYCLINE HYDROCHLORIDE",
-      "slug": "doxycycline_hydrochloride"
-    },
-    {
-      "name": "DOXYCYCLINE MONOHYDRATE",
-      "slug": "doxycycline_monohydrate"
+      "name": "DOXYCYCLINE",
+      "slug": "db00254"
     },
     {
       "name": "DROSPIRENONE",
-      "slug": "drospirenone"
+      "slug": "db01395"
     },
     {
       "name": "DULAGLUTIDE",
-      "slug": "dulaglutide"
+      "slug": "db09045"
     },
     {
-      "name": "DULOXETINE HYDROCHLORIDE",
-      "slug": "duloxetine_hydrochloride"
-    },
-    {
-      "name": "DURVALUMABE",
-      "slug": "durvalumabe"
-    },
-    {
-      "name": "Danazol",
-      "slug": "danazol"
-    },
-    {
-      "name": "Dantrolene",
-      "slug": "dantrolene"
-    },
-    {
-      "name": "Desloratadine",
-      "slug": "desloratadine"
-    },
-    {
-      "name": "Desogestrel",
-      "slug": "desogestrel"
-    },
-    {
-      "name": "Dexamethasone",
-      "slug": "dexamethasone"
-    },
-    {
-      "name": "Dexchlorpheniramine maleate",
-      "slug": "dexchlorpheniramine_maleate"
-    },
-    {
-      "name": "Diazepam",
-      "slug": "diazepam"
-    },
-    {
-      "name": "Diclofenac",
-      "slug": "diclofenac"
-    },
-    {
-      "name": "Dienogest",
-      "slug": "dienogest"
-    },
-    {
-      "name": "Diosmin",
-      "slug": "diosmin"
-    },
-    {
-      "name": "Diphenhydramine",
-      "slug": "diphenhydramine"
-    },
-    {
-      "name": "Docetaxel",
-      "slug": "docetaxel"
-    },
-    {
-      "name": "Doxorubicin",
-      "slug": "doxorubicin"
-    },
-    {
-      "name": "Doxycycline",
-      "slug": "doxycycline"
-    },
-    {
-      "name": "Droperidol",
-      "slug": "droperidol"
-    },
-    {
-      "name": "Dutasteride",
-      "slug": "dutasteride"
-    },
-    {
-      "name": "EBASTINA",
-      "slug": "ebastina"
-    },
-    {
-      "name": "ECULIZUMABE",
-      "slug": "eculizumabe"
+      "name": "DUTASTERIDE",
+      "slug": "db01126"
     },
     {
       "name": "EFAVIRENZ",
-      "slug": "efavirenz"
+      "slug": "db00625"
     },
     {
-      "name": "EMICIZUMABE",
-      "slug": "emicizumabe"
+      "name": "ELEXACAFTOR",
+      "slug": "db15444"
     },
     {
       "name": "EMPAGLIFLOZIN",
-      "slug": "empagliflozin"
-    },
-    {
-      "name": "ENALAPRIL MALEATE",
-      "slug": "enalapril_maleate"
-    },
-    {
-      "name": "ENCORAFENIBE",
-      "slug": "encorafenibe"
-    },
-    {
-      "name": "ENFUVIRTIDA",
-      "slug": "enfuvirtida"
-    },
-    {
-      "name": "ENOXAPARIN SODIUM",
-      "slug": "enoxaparin_sodium"
+      "slug": "db09038"
     },
     {
       "name": "ENTACAPONE",
-      "slug": "entacapone"
+      "slug": "db00494"
     },
     {
-      "name": "ENTECAVIR MONOHYDRATE",
-      "slug": "entecavir_monohydrate"
-    },
-    {
-      "name": "ENZALUTAMIDA",
-      "slug": "enzalutamida"
-    },
-    {
-      "name": "EPHEDRINE SULFATE",
-      "slug": "ephedrine_sulfate"
-    },
-    {
-      "name": "EPINASTINA HYDROCHLORIDE",
-      "slug": "epinastina_hydrochloride"
-    },
-    {
-      "name": "EPIRUBICIN HYDROCHLORIDE",
-      "slug": "epirubicin_hydrochloride"
-    },
-    {
-      "name": "ERLOTINIB HYDROCHLORIDE",
-      "slug": "erlotinib_hydrochloride"
-    },
-    {
-      "name": "ESCITALOPRAM OXALATE",
-      "slug": "escitalopram_oxalate"
-    },
-    {
-      "name": "ESMOLOL HYDROCHLORIDE",
-      "slug": "esmolol_hydrochloride"
-    },
-    {
-      "name": "ESOMEPRAZOLE MAGNESIUM",
-      "slug": "esomeprazole_magnesium"
-    },
-    {
-      "name": "ESOMEPRAZOLE SODIUM",
-      "slug": "esomeprazole_sodium"
+      "name": "ERYTHROMYCIN",
+      "slug": "db00199"
     },
     {
       "name": "ESTRADIOL",
-      "slug": "estradiol"
+      "slug": "db00783"
     },
     {
-      "name": "ESTRADIOL ENANTHATE",
-      "slug": "estradiol_enanthate"
-    },
-    {
-      "name": "ESTRADIOL HEMIHYDRATE",
-      "slug": "estradiol_hemihydrate"
-    },
-    {
-      "name": "ESTRADIOL MICRONIZADO VALERATE",
-      "slug": "estradiol_micronizado_valerate"
+      "name": "ESTRADIOL CYPIONATE",
+      "slug": "db13954"
     },
     {
       "name": "ESTRADIOL VALERATE",
-      "slug": "estradiol_valerate"
+      "slug": "db13956"
     },
     {
-      "name": "ESTREPTOMICINA SULFATE",
-      "slug": "estreptomicina_sulfate"
-    },
-    {
-      "name": "ESTRIOL",
-      "slug": "estriol"
-    },
-    {
-      "name": "ESTROGÊNIOS CONJUGADOS",
-      "slug": "estrogênios_conjugados"
-    },
-    {
-      "name": "ESZOPICLONA",
-      "slug": "eszopiclona"
-    },
-    {
-      "name": "ETANERCEPTE",
-      "slug": "etanercepte"
-    },
-    {
-      "name": "ETHINYL ESTRADIOL",
-      "slug": "ethinyl_estradiol"
-    },
-    {
-      "name": "ETILEFRINA HYDROCHLORIDE",
-      "slug": "etilefrina_hydrochloride"
-    },
-    {
-      "name": "ETODOLACO",
-      "slug": "etodolaco"
-    },
-    {
-      "name": "ETOMIDATO",
-      "slug": "etomidato"
-    },
-    {
-      "name": "ETOPOSÍDEO",
-      "slug": "etoposídeo"
-    },
-    {
-      "name": "ETRAVIRINA",
-      "slug": "etravirina"
+      "name": "EVEROLIMUS",
+      "slug": "db01590"
     },
     {
       "name": "EZETIMIBE",
-      "slug": "ezetimibe"
+      "slug": "db00973"
     },
     {
-      "name": "Elafibranor",
-      "slug": "elafibranor"
+      "name": "FAMOTIDINE",
+      "slug": "db00927"
     },
     {
-      "name": "Elexacaftor",
-      "slug": "elexacaftor"
-    },
-    {
-      "name": "Erythromycin",
-      "slug": "erythromycin"
-    },
-    {
-      "name": "Esomeprazole",
-      "slug": "esomeprazole"
-    },
-    {
-      "name": "Estazolam",
-      "slug": "estazolam"
-    },
-    {
-      "name": "Estradiol cypionate",
-      "slug": "estradiol_cypionate"
-    },
-    {
-      "name": "Etonogestrel",
-      "slug": "etonogestrel"
-    },
-    {
-      "name": "Etoricoxib",
-      "slug": "etoricoxib"
-    },
-    {
-      "name": "Everolimus",
-      "slug": "everolimus"
-    },
-    {
-      "name": "Exemestane",
-      "slug": "exemestane"
-    },
-    {
-      "name": "FENOFIBRATO",
-      "slug": "fenofibrato"
-    },
-    {
-      "name": "FENTANYL",
-      "slug": "fentanyl"
-    },
-    {
-      "name": "FENTANYL CITRATE",
-      "slug": "fentanyl_citrate"
-    },
-    {
-      "name": "FEXOFENADINE HYDROCHLORIDE",
-      "slug": "fexofenadine_hydrochloride"
+      "name": "FILGRASTIM",
+      "slug": "db00099"
     },
     {
       "name": "FINASTERIDE",
-      "slug": "finasteride"
+      "slug": "db01216"
     },
     {
-      "name": "FLUDARABINA PHOSPHATE",
-      "slug": "fludarabina_phosphate"
-    },
-    {
-      "name": "FLUMAZENIL",
-      "slug": "flumazenil"
-    },
-    {
-      "name": "FLUNARIZINA DIHYDROCHLORIDE",
-      "slug": "flunarizina_dihydrochloride"
-    },
-    {
-      "name": "FLUORURACILA",
-      "slug": "fluoruracila"
-    },
-    {
-      "name": "FLUOXETINE HYDROCHLORIDE",
-      "slug": "fluoxetine_hydrochloride"
-    },
-    {
-      "name": "FLURAZEPAM HYDROCHLORIDE",
-      "slug": "flurazepam_hydrochloride"
+      "name": "FLUCONAZOLE",
+      "slug": "db00196"
     },
     {
       "name": "FLURBIPROFEN",
-      "slug": "flurbiprofen"
-    },
-    {
-      "name": "FLUTAMIDA",
-      "slug": "flutamida"
+      "slug": "db00712"
     },
     {
       "name": "FLUTICASONE FUROATE",
-      "slug": "fluticasone_furoate"
+      "slug": "db08906"
     },
     {
       "name": "FLUTICASONE PROPIONATE",
-      "slug": "fluticasone_propionate"
-    },
-    {
-      "name": "FLUVOXAMINA MALEATE",
-      "slug": "fluvoxamina_maleate"
+      "slug": "db00588"
     },
     {
       "name": "FOLIC ACID",
-      "slug": "folic_acid"
-    },
-    {
-      "name": "FONDAPARINUX SODIUM",
-      "slug": "fondaparinux_sodium"
-    },
-    {
-      "name": "FORMOTEROL DIHYDRATE FUMARATE",
-      "slug": "formoterol_dihydrate_fumarate"
-    },
-    {
-      "name": "FORMOTEROL FUMARATE",
-      "slug": "formoterol_fumarate"
-    },
-    {
-      "name": "FULVESTRANTO",
-      "slug": "fulvestranto"
+      "slug": "db00158"
     },
     {
       "name": "FUROSEMIDE",
-      "slug": "furosemide"
-    },
-    {
-      "name": "Famotidine",
-      "slug": "famotidine"
-    },
-    {
-      "name": "Fexofenadine",
-      "slug": "fexofenadine"
-    },
-    {
-      "name": "Filgrastim",
-      "slug": "filgrastim"
-    },
-    {
-      "name": "Fluconazole",
-      "slug": "fluconazole"
-    },
-    {
-      "name": "Flunitrazepam",
-      "slug": "flunitrazepam"
+      "slug": "db00695"
     },
     {
       "name": "GABAPENTIN",
-      "slug": "gabapentin"
+      "slug": "db00996"
     },
     {
-      "name": "GADODIAMIDA",
-      "slug": "gadodiamida"
+      "name": "GALSULFASE",
+      "slug": "db01279"
     },
     {
-      "name": "GANCICLOVIR SODIUM",
-      "slug": "ganciclovir_sodium"
+      "name": "GANCICLOVIR",
+      "slug": "db01004"
     },
     {
-      "name": "GEMCITABINE HYDROCHLORIDE",
-      "slug": "gemcitabine_hydrochloride"
-    },
-    {
-      "name": "GENFIBROZILA",
-      "slug": "genfibrozila"
-    },
-    {
-      "name": "GENTAMICIN",
-      "slug": "gentamicin"
-    },
-    {
-      "name": "GENTAMICIN SULFATE",
-      "slug": "gentamicin_sulfate"
-    },
-    {
-      "name": "GLECAPREVIR HIDRATADO",
-      "slug": "glecaprevir_hidratado"
-    },
-    {
-      "name": "GLICLAZIDA",
-      "slug": "gliclazida"
+      "name": "GEFITINIB",
+      "slug": "db00317"
     },
     {
       "name": "GLICLAZIDE",
-      "slug": "gliclazide"
-    },
-    {
-      "name": "GLICOPIRRÔNIO BROMIDE",
-      "slug": "glicopirrônio_bromide"
+      "slug": "db01120"
     },
     {
       "name": "GLIMEPIRIDE",
-      "slug": "glimepiride"
-    },
-    {
-      "name": "GLUCAGON",
-      "slug": "glucagon"
-    },
-    {
-      "name": "GLUCOSE",
-      "slug": "glucose"
-    },
-    {
-      "name": "GLUCOSE ANHYDROUS",
-      "slug": "glucose_anhydrous"
-    },
-    {
-      "name": "GLUCOSE MONOHYDRATE",
-      "slug": "glucose_monohydrate"
-    },
-    {
-      "name": "GLUTAMIC ACID",
-      "slug": "glutamic_acid"
+      "slug": "db00222"
     },
     {
       "name": "GLYBURIDE",
-      "slug": "glyburide"
+      "slug": "db01016"
     },
     {
       "name": "GLYCINE",
-      "slug": "glycine"
+      "slug": "db00145"
     },
     {
-      "name": "GOLIMUMABE",
-      "slug": "golimumabe"
-    },
-    {
-      "name": "GRANISETRONA HYDROCHLORIDE",
-      "slug": "granisetrona_hydrochloride"
-    },
-    {
-      "name": "GUSELCUMABE",
-      "slug": "guselcumabe"
-    },
-    {
-      "name": "Gadobutrol",
-      "slug": "gadobutrol"
-    },
-    {
-      "name": "Gadoteridol",
-      "slug": "gadoteridol"
-    },
-    {
-      "name": "Galsulfase",
-      "slug": "galsulfase"
-    },
-    {
-      "name": "Ganciclovir",
-      "slug": "ganciclovir"
-    },
-    {
-      "name": "Gefitinib",
-      "slug": "gefitinib"
-    },
-    {
-      "name": "Gemcitabine",
-      "slug": "gemcitabine"
-    },
-    {
-      "name": "Gestodene",
-      "slug": "gestodene"
-    },
-    {
-      "name": "Guaifenesin",
-      "slug": "guaifenesin"
+      "name": "GUAIFENESIN",
+      "slug": "db00874"
     },
     {
       "name": "HALOPERIDOL",
-      "slug": "haloperidol"
-    },
-    {
-      "name": "HALOPERIDOL DECANOATE",
-      "slug": "haloperidol_decanoate"
-    },
-    {
-      "name": "HIDROXICLOROQUINA SULFATE",
-      "slug": "hidroxicloroquina_sulfate"
-    },
-    {
-      "name": "HIDROXIUREIA",
-      "slug": "hidroxiureia"
-    },
-    {
-      "name": "HIDROXOCOBALAMINA ACETATE",
-      "slug": "hidroxocobalamina_acetate"
-    },
-    {
-      "name": "HIDROXOCOBALAMINA HYDROCHLORIDE",
-      "slug": "hidroxocobalamina_hydrochloride"
-    },
-    {
-      "name": "HISTIDINE MONOHYDRATE HYDROCHLORIDE",
-      "slug": "histidine_monohydrate_hydrochloride"
+      "slug": "db00502"
     },
     {
       "name": "HYDROCHLOROTHIAZIDE",
-      "slug": "hydrochlorothiazide"
+      "slug": "db00999"
     },
     {
       "name": "HYDROCORTISONE",
-      "slug": "hydrocortisone"
+      "slug": "db00741"
     },
     {
       "name": "HYDROCORTISONE ACETATE",
-      "slug": "hydrocortisone_acetate"
+      "slug": "db14539"
     },
     {
-      "name": "HYDROXYZINE DIHYDROCHLORIDE",
-      "slug": "hydroxyzine_dihydrochloride"
+      "name": "IBUPROFEN",
+      "slug": "db01050"
     },
     {
-      "name": "HYDROXYZINE HYDROCHLORIDE",
-      "slug": "hydroxyzine_hydrochloride"
+      "name": "IDURSULFASE",
+      "slug": "db01271"
     },
     {
-      "name": "Hesperidin",
-      "slug": "hesperidin"
-    },
-    {
-      "name": "Histidine",
-      "slug": "histidine"
-    },
-    {
-      "name": "IBANDRONATO DE SODIUM",
-      "slug": "ibandronato_de_sodium"
-    },
-    {
-      "name": "IBANDRONATO DE SODIUM MONOHYDRATE",
-      "slug": "ibandronato_de_sodium_monohydrate"
-    },
-    {
-      "name": "IBRUTINIBE",
-      "slug": "ibrutinibe"
-    },
-    {
-      "name": "IDARUCIZUMABE",
-      "slug": "idarucizumabe"
-    },
-    {
-      "name": "IFOSFAMIDA",
-      "slug": "ifosfamida"
-    },
-    {
-      "name": "IMATINIB MESYLATE",
-      "slug": "imatinib_mesylate"
-    },
-    {
-      "name": "IMIPRAMINE HYDROCHLORIDE",
-      "slug": "imipramine_hydrochloride"
-    },
-    {
-      "name": "IMIQUIMODE",
-      "slug": "imiquimode"
-    },
-    {
-      "name": "INDACATEROL ACETATE",
-      "slug": "indacaterol_acetate"
-    },
-    {
-      "name": "INDACATEROL MALEATE",
-      "slug": "indacaterol_maleate"
+      "name": "IMIGLUCERASE",
+      "slug": "db00053"
     },
     {
       "name": "INDAPAMIDE",
-      "slug": "indapamide"
+      "slug": "db00808"
     },
     {
-      "name": "INFLIXIMABE",
-      "slug": "infliximabe"
+      "name": "INDOMETHACIN",
+      "slug": "db00328"
     },
     {
       "name": "INOSITOL",
-      "slug": "inositol"
-    },
-    {
-      "name": "INSULINA ASPARTE",
-      "slug": "insulina_asparte"
-    },
-    {
-      "name": "INSULINA DEGLUDECA",
-      "slug": "insulina_degludeca"
-    },
-    {
-      "name": "INSULINA DETEMIR",
-      "slug": "insulina_detemir"
-    },
-    {
-      "name": "INSULINA GLARGINA",
-      "slug": "insulina_glargina"
-    },
-    {
-      "name": "INSULINA GLULISINA",
-      "slug": "insulina_glulisina"
-    },
-    {
-      "name": "INSULINA LISPRO",
-      "slug": "insulina_lispro"
-    },
-    {
-      "name": "IODINE",
-      "slug": "iodine"
-    },
-    {
-      "name": "IOPROMIDA",
-      "slug": "iopromida"
-    },
-    {
-      "name": "IPILIMUMABE",
-      "slug": "ipilimumabe"
-    },
-    {
-      "name": "IPRATROPIUM BROMIDE",
-      "slug": "ipratropium_bromide"
-    },
-    {
-      "name": "IPRATROPIUM MONOHYDRATE BROMIDE",
-      "slug": "ipratropium_monohydrate_bromide"
+      "slug": "db13178"
     },
     {
       "name": "IRBESARTAN",
-      "slug": "irbesartan"
-    },
-    {
-      "name": "IRINOTECAN HYDROCHLORIDE",
-      "slug": "irinotecan_hydrochloride"
-    },
-    {
-      "name": "IRINOTECAN TRIHYDRATE HYDROCHLORIDE",
-      "slug": "irinotecan_trihydrate_hydrochloride"
+      "slug": "db01029"
     },
     {
       "name": "IRON",
-      "slug": "iron"
-    },
-    {
-      "name": "ISOFLURANO",
-      "slug": "isoflurano"
-    },
-    {
-      "name": "ISOLEUCINE",
-      "slug": "isoleucine"
+      "slug": "db01592"
     },
     {
       "name": "ISOTRETINOIN",
-      "slug": "isotretinoin"
-    },
-    {
-      "name": "ISOXSUPRINA HYDROCHLORIDE",
-      "slug": "isoxsuprina_hydrochloride"
+      "slug": "db00982"
     },
     {
       "name": "ITRACONAZOLE",
-      "slug": "itraconazole"
+      "slug": "db01167"
     },
     {
-      "name": "IVABRADINA HYDROCHLORIDE",
-      "slug": "ivabradina_hydrochloride"
+      "name": "IVACAFTOR",
+      "slug": "db08820"
     },
     {
-      "name": "IXEQUIZUMABE",
-      "slug": "ixequizumabe"
-    },
-    {
-      "name": "Ibuprofen",
-      "slug": "ibuprofen"
-    },
-    {
-      "name": "Idursulfase",
-      "slug": "idursulfase"
-    },
-    {
-      "name": "Imatinib",
-      "slug": "imatinib"
-    },
-    {
-      "name": "Imiglucerase",
-      "slug": "imiglucerase"
-    },
-    {
-      "name": "Indacaterol",
-      "slug": "indacaterol"
-    },
-    {
-      "name": "Indomethacin",
-      "slug": "indomethacin"
-    },
-    {
-      "name": "Iodixanol",
-      "slug": "iodixanol"
-    },
-    {
-      "name": "Iopamidol",
-      "slug": "iopamidol"
-    },
-    {
-      "name": "Ioversol",
-      "slug": "ioversol"
-    },
-    {
-      "name": "Ivacaftor",
-      "slug": "ivacaftor"
-    },
-    {
-      "name": "Ivermectin",
-      "slug": "ivermectin"
+      "name": "IVERMECTIN",
+      "slug": "db00602"
     },
     {
       "name": "KETOCONAZOLE",
-      "slug": "ketoconazole"
+      "slug": "db01026"
     },
     {
       "name": "KETOPROFEN",
-      "slug": "ketoprofen"
+      "slug": "db01009"
     },
     {
-      "name": "KETOROLAC TROMETHAMINE",
-      "slug": "ketorolac_tromethamine"
-    },
-    {
-      "name": "Ketorolac",
-      "slug": "ketorolac"
-    },
-    {
-      "name": "L-ALANINA",
-      "slug": "l-alanina"
-    },
-    {
-      "name": "L-ARGININA",
-      "slug": "l-arginina"
-    },
-    {
-      "name": "L-ARGININA ASPARTATE",
-      "slug": "l-arginina_aspartate"
-    },
-    {
-      "name": "L-CARBOCISTEÍNA",
-      "slug": "l-carbocisteína"
-    },
-    {
-      "name": "L-CISTEINA HYDROCHLORIDE",
-      "slug": "l-cisteina_hydrochloride"
-    },
-    {
-      "name": "L-CISTEÍNA",
-      "slug": "l-cisteína"
-    },
-    {
-      "name": "L-FENILALANINA",
-      "slug": "l-fenilalanina"
-    },
-    {
-      "name": "L-HISTIDINA",
-      "slug": "l-histidina"
-    },
-    {
-      "name": "L-ISOLEUCINA",
-      "slug": "l-isoleucina"
-    },
-    {
-      "name": "L-LEUCINA",
-      "slug": "l-leucina"
-    },
-    {
-      "name": "L-METIONINA",
-      "slug": "l-metionina"
-    },
-    {
-      "name": "L-ORNITINA",
-      "slug": "l-ornitina"
-    },
-    {
-      "name": "L-PROLINA",
-      "slug": "l-prolina"
-    },
-    {
-      "name": "L-SERINA",
-      "slug": "l-serina"
-    },
-    {
-      "name": "L-TIROSINA",
-      "slug": "l-tirosina"
-    },
-    {
-      "name": "L-TREONINA",
-      "slug": "l-treonina"
-    },
-    {
-      "name": "L-TRIPTOFANO",
-      "slug": "l-triptofano"
-    },
-    {
-      "name": "LACOSAMIDA",
-      "slug": "lacosamida"
-    },
-    {
-      "name": "LACTITOL MONOHYDRATE",
-      "slug": "lactitol_monohydrate"
-    },
-    {
-      "name": "LACTOSE MONOHYDRATE",
-      "slug": "lactose_monohydrate"
+      "name": "LACTOSE",
+      "slug": "db04465"
     },
     {
       "name": "LACTULOSE",
-      "slug": "lactulose"
-    },
-    {
-      "name": "LAMIVUDINA",
-      "slug": "lamivudina"
+      "slug": "db00581"
     },
     {
       "name": "LAMOTRIGINE",
-      "slug": "lamotrigine"
+      "slug": "db00555"
     },
     {
-      "name": "LANREOTIDA ACETATE",
-      "slug": "lanreotida_acetate"
+      "name": "LANSOPRAZOLE",
+      "slug": "db00448"
+    },
+    {
+      "name": "LARONIDASE",
+      "slug": "db00090"
     },
     {
       "name": "LATANOPROST",
-      "slug": "latanoprost"
+      "slug": "db00654"
     },
     {
       "name": "LEDIPASVIR",
-      "slug": "ledipasvir"
+      "slug": "db09027"
     },
     {
-      "name": "LEFLUNOMIDA",
-      "slug": "leflunomida"
-    },
-    {
-      "name": "LENALIDOMIDA",
-      "slug": "lenalidomida"
-    },
-    {
-      "name": "LEUCINE",
-      "slug": "leucine"
-    },
-    {
-      "name": "LEUPRORRELINA ACETATE",
-      "slug": "leuprorrelina_acetate"
+      "name": "LETERMOVIR",
+      "slug": "db12070"
     },
     {
       "name": "LEVETIRACETAM",
-      "slug": "levetiracetam"
-    },
-    {
-      "name": "LEVOBUNOLOL HYDROCHLORIDE",
-      "slug": "levobunolol_hydrochloride"
-    },
-    {
-      "name": "LEVOBUPIVACAÍNA HYDROCHLORIDE",
-      "slug": "levobupivacaína_hydrochloride"
-    },
-    {
-      "name": "LEVOCETIRIZINE DIHYDROCHLORIDE",
-      "slug": "levocetirizine_dihydrochloride"
+      "slug": "db01202"
     },
     {
       "name": "LEVODOPA",
-      "slug": "levodopa"
+      "slug": "db01235"
     },
     {
-      "name": "LEVOFLOXACIN HEMIHYDRATE",
-      "slug": "levofloxacin_hemihydrate"
-    },
-    {
-      "name": "LEVOFLOXACINA",
-      "slug": "levofloxacina"
-    },
-    {
-      "name": "LEVOMETIONINA",
-      "slug": "levometionina"
+      "name": "LEVOFLOXACIN",
+      "slug": "db01137"
     },
     {
       "name": "LEVONORGESTREL",
-      "slug": "levonorgestrel"
+      "slug": "db00367"
     },
     {
-      "name": "LEVONORGESTREL MICRONIZADO",
-      "slug": "levonorgestrel_micronizado"
-    },
-    {
-      "name": "LEVOTHYROXINE SODIUM",
-      "slug": "levothyroxine_sodium"
-    },
-    {
-      "name": "LIDOCAINE HYDROCHLORIDE",
-      "slug": "lidocaine_hydrochloride"
-    },
-    {
-      "name": "LIDOCAINE MONOHYDRATE HYDROCHLORIDE",
-      "slug": "lidocaine_monohydrate_hydrochloride"
+      "name": "LIDOCAINE",
+      "slug": "db00281"
     },
     {
       "name": "LINAGLIPTIN",
-      "slug": "linagliptin"
-    },
-    {
-      "name": "LINDANO",
-      "slug": "lindano"
-    },
-    {
-      "name": "LINEZOLIDA",
-      "slug": "linezolida"
-    },
-    {
-      "name": "LIPEGFILGRASTIM",
-      "slug": "lipegfilgrastim"
+      "slug": "db08882"
     },
     {
       "name": "LIRAGLUTIDE",
-      "slug": "liraglutide"
+      "slug": "db06655"
     },
     {
       "name": "LISINOPRIL",
-      "slug": "lisinopril"
+      "slug": "db00722"
     },
     {
-      "name": "LISINOPRIL DIHYDRATE",
-      "slug": "lisinopril_dihydrate"
-    },
-    {
-      "name": "LIXISENATIDA",
-      "slug": "lixisenatida"
-    },
-    {
-      "name": "LOMITAPIDA MESYLATE",
-      "slug": "lomitapida_mesylate"
-    },
-    {
-      "name": "LOPERAMIDE HYDROCHLORIDE",
-      "slug": "loperamide_hydrochloride"
+      "name": "LITHIUM CARBONATE",
+      "slug": "db14509"
     },
     {
       "name": "LOPINAVIR",
-      "slug": "lopinavir"
+      "slug": "db01601"
     },
     {
       "name": "LORATADINE",
-      "slug": "loratadine"
+      "slug": "db00455"
     },
     {
       "name": "LORAZEPAM",
-      "slug": "lorazepam"
+      "slug": "db00186"
     },
     {
-      "name": "LOSARTAN POTASSIUM",
-      "slug": "losartan_potassium"
-    },
-    {
-      "name": "LUMEFANTRINA",
-      "slug": "lumefantrina"
-    },
-    {
-      "name": "Lactose",
-      "slug": "lactose"
-    },
-    {
-      "name": "Lansoprazole",
-      "slug": "lansoprazole"
-    },
-    {
-      "name": "Laronidase",
-      "slug": "laronidase"
-    },
-    {
-      "name": "Letermovir",
-      "slug": "letermovir"
-    },
-    {
-      "name": "Letrozole",
-      "slug": "letrozole"
-    },
-    {
-      "name": "Levobunolol",
-      "slug": "levobunolol"
-    },
-    {
-      "name": "Levofloxacin",
-      "slug": "levofloxacin"
-    },
-    {
-      "name": "Levothyroxine",
-      "slug": "levothyroxine"
-    },
-    {
-      "name": "Lidocaine",
-      "slug": "lidocaine"
-    },
-    {
-      "name": "Lithium carbonate",
-      "slug": "lithium_carbonate"
-    },
-    {
-      "name": "Loperamide",
-      "slug": "loperamide"
-    },
-    {
-      "name": "Lornoxicam",
-      "slug": "lornoxicam"
-    },
-    {
-      "name": "Lumacaftor",
-      "slug": "lumacaftor"
-    },
-    {
-      "name": "MAGALDRATO",
-      "slug": "magaldrato"
+      "name": "LUMACAFTOR",
+      "slug": "db09280"
     },
     {
       "name": "MAGNESIUM CARBONATE",
-      "slug": "magnesium_carbonate"
-    },
-    {
-      "name": "MAGNESIUM CHLORIDE",
-      "slug": "magnesium_chloride"
-    },
-    {
-      "name": "MAGNESIUM HEXAHYDRATE CHLORIDE",
-      "slug": "magnesium_hexahydrate_chloride"
+      "slug": "db09481"
     },
     {
       "name": "MAGNESIUM HYDROXIDE",
-      "slug": "magnesium_hydroxide"
+      "slug": "db09104"
     },
     {
       "name": "MAGNESIUM OXIDE",
-      "slug": "magnesium_oxide"
+      "slug": "db01377"
     },
     {
       "name": "MAGNESIUM SULFATE",
-      "slug": "magnesium_sulfate"
+      "slug": "db00653"
     },
     {
-      "name": "MANGANESE",
-      "slug": "manganese"
+      "name": "MANNITOL",
+      "slug": "db00742"
     },
     {
-      "name": "MANGANESE MONOHYDRATE SULFATE",
-      "slug": "manganese_monohydrate_sulfate"
+      "name": "MEBENDAZOLE",
+      "slug": "db00643"
     },
     {
-      "name": "MANGANESE SULFATE",
-      "slug": "manganese_sulfate"
+      "name": "MEDROXYPROGESTERONE ACETATE",
+      "slug": "db00603"
     },
     {
-      "name": "MARIBAVIR",
-      "slug": "maribavir"
-    },
-    {
-      "name": "MEBEVERINA HYDROCHLORIDE",
-      "slug": "mebeverina_hydrochloride"
-    },
-    {
-      "name": "MECLIZINE HYDROCHLORIDE",
-      "slug": "meclizine_hydrochloride"
-    },
-    {
-      "name": "MEFLOQUINA",
-      "slug": "mefloquina"
-    },
-    {
-      "name": "MEFLOQUINA HYDROCHLORIDE",
-      "slug": "mefloquina_hydrochloride"
+      "name": "MEGESTROL ACETATE",
+      "slug": "db00351"
     },
     {
       "name": "MELOXICAM",
-      "slug": "meloxicam"
+      "slug": "db00814"
     },
     {
-      "name": "MEMANTINE HYDROCHLORIDE",
-      "slug": "memantine_hydrochloride"
-    },
-    {
-      "name": "MEPIVACAÍNA HYDROCHLORIDE",
-      "slug": "mepivacaína_hydrochloride"
-    },
-    {
-      "name": "MERCAPTOPURINA",
-      "slug": "mercaptopurina"
-    },
-    {
-      "name": "MESALAZINA",
-      "slug": "mesalazina"
-    },
-    {
-      "name": "METAMIZOLE MONOHYDRATE",
-      "slug": "metamizole_monohydrate"
-    },
-    {
-      "name": "METARAMINOL HEMITARTRATE",
-      "slug": "metaraminol_hemitartrate"
-    },
-    {
-      "name": "METFORMIN HYDROCHLORIDE",
-      "slug": "metformin_hydrochloride"
-    },
-    {
-      "name": "METHADONE HYDROCHLORIDE",
-      "slug": "methadone_hydrochloride"
-    },
-    {
-      "name": "METHOTREXATE DE SODIUM",
-      "slug": "methotrexate_de_sodium"
-    },
-    {
-      "name": "METHYLPREDNISOLONE ACETATE",
-      "slug": "methylprednisolone_acetate"
+      "name": "METHOTREXATE",
+      "slug": "db00563"
     },
     {
       "name": "METOCLOPRAMIDE",
-      "slug": "metoclopramide"
+      "slug": "db01233"
     },
     {
-      "name": "METOCLOPRAMIDE HYDROCHLORIDE",
-      "slug": "metoclopramide_hydrochloride"
+      "name": "METRONIDAZOLE",
+      "slug": "db00916"
     },
     {
-      "name": "METOCLOPRAMIDE MONOHYDRATE HYDROCHLORIDE",
-      "slug": "metoclopramide_monohydrate_hydrochloride"
-    },
-    {
-      "name": "METOPROLOL SUCCINATE",
-      "slug": "metoprolol_succinate"
-    },
-    {
-      "name": "METOPROLOL TARTRATE",
-      "slug": "metoprolol_tartrate"
-    },
-    {
-      "name": "MICONAZOLE NITRATE",
-      "slug": "miconazole_nitrate"
+      "name": "MICONAZOLE",
+      "slug": "db01110"
     },
     {
       "name": "MIDAZOLAM",
-      "slug": "midazolam"
+      "slug": "db00683"
     },
     {
-      "name": "MIDAZOLAM HYDROCHLORIDE",
-      "slug": "midazolam_hydrochloride"
-    },
-    {
-      "name": "MIDAZOLAM MALEATE",
-      "slug": "midazolam_maleate"
-    },
-    {
-      "name": "MIFAMURTIDA",
-      "slug": "mifamurtida"
-    },
-    {
-      "name": "MIRABEGRONA",
-      "slug": "mirabegrona"
+      "name": "MINOXIDIL",
+      "slug": "db00350"
     },
     {
       "name": "MIRTAZAPINE",
-      "slug": "mirtazapine"
-    },
-    {
-      "name": "MISOPROSTOL",
-      "slug": "misoprostol"
-    },
-    {
-      "name": "MITOXANTRONA HYDROCHLORIDE",
-      "slug": "mitoxantrona_hydrochloride"
+      "slug": "db00370"
     },
     {
       "name": "MOMETASONE FUROATE",
-      "slug": "mometasone_furoate"
-    },
-    {
-      "name": "MOMETASONE MONOHYDRATE FUROATE",
-      "slug": "mometasone_monohydrate_furoate"
-    },
-    {
-      "name": "MONONITRATO DE ISOSSORBIDA",
-      "slug": "mononitrato_de_isossorbida"
-    },
-    {
-      "name": "MONTELUKAST DE SODIUM",
-      "slug": "montelukast_de_sodium"
-    },
-    {
-      "name": "MOXIFLOXACINO HYDROCHLORIDE",
-      "slug": "moxifloxacino_hydrochloride"
-    },
-    {
-      "name": "MOXIFLOXACINO MONOHYDRATE HYDROCHLORIDE",
-      "slug": "moxifloxacino_monohydrate_hydrochloride"
-    },
-    {
-      "name": "MYCOPHENOLATE DE MOFETILA",
-      "slug": "mycophenolate_de_mofetila"
-    },
-    {
-      "name": "MYCOPHENOLATE DE SODIUM",
-      "slug": "mycophenolate_de_sodium"
-    },
-    {
-      "name": "MYCOPHENOLATE SODIUM",
-      "slug": "mycophenolate_sodium"
-    },
-    {
-      "name": "Magnesium",
-      "slug": "magnesium"
-    },
-    {
-      "name": "Mannitol",
-      "slug": "mannitol"
-    },
-    {
-      "name": "Mebendazole",
-      "slug": "mebendazole"
-    },
-    {
-      "name": "Medroxyprogesterone acetate",
-      "slug": "medroxyprogesterone_acetate"
-    },
-    {
-      "name": "Megestrol acetate",
-      "slug": "megestrol_acetate"
-    },
-    {
-      "name": "Memantine",
-      "slug": "memantine"
-    },
-    {
-      "name": "Metamizole",
-      "slug": "metamizole"
-    },
-    {
-      "name": "Metaraminol",
-      "slug": "metaraminol"
-    },
-    {
-      "name": "Methadone",
-      "slug": "methadone"
-    },
-    {
-      "name": "Methionine",
-      "slug": "methionine"
-    },
-    {
-      "name": "Methotrexate",
-      "slug": "methotrexate"
-    },
-    {
-      "name": "Metronidazole",
-      "slug": "metronidazole"
-    },
-    {
-      "name": "Miconazole",
-      "slug": "miconazole"
-    },
-    {
-      "name": "Minoxidil",
-      "slug": "minoxidil"
-    },
-    {
-      "name": "Mometasone",
-      "slug": "mometasone"
+      "slug": "db14512"
     },
     {
       "name": "NALOXONE",
-      "slug": "naloxone"
-    },
-    {
-      "name": "NALOXONE HYDROCHLORIDE",
-      "slug": "naloxone_hydrochloride"
-    },
-    {
-      "name": "NALTREXONE DIHYDRATE HYDROCHLORIDE",
-      "slug": "naltrexone_dihydrate_hydrochloride"
-    },
-    {
-      "name": "NALTREXONE HYDROCHLORIDE",
-      "slug": "naltrexone_hydrochloride"
-    },
-    {
-      "name": "NANDROLONE DECANOATE",
-      "slug": "nandrolone_decanoate"
-    },
-    {
-      "name": "NAPHAZOLINE HYDROCHLORIDE",
-      "slug": "naphazoline_hydrochloride"
-    },
-    {
-      "name": "NAPHAZOLINE NITRATE",
-      "slug": "naphazoline_nitrate"
+      "slug": "db01183"
     },
     {
       "name": "NAPROXEN",
-      "slug": "naproxen"
+      "slug": "db00788"
     },
     {
-      "name": "NAPROXEN SODIUM",
-      "slug": "naproxen_sodium"
-    },
-    {
-      "name": "NATALIZUMABE",
-      "slug": "natalizumabe"
-    },
-    {
-      "name": "NEBIVOLOL HYDROCHLORIDE",
-      "slug": "nebivolol_hydrochloride"
-    },
-    {
-      "name": "NEOMYCIN",
-      "slug": "neomycin"
-    },
-    {
-      "name": "NEOMYCIN SULFATE",
-      "slug": "neomycin_sulfate"
-    },
-    {
-      "name": "NEPAFENACO",
-      "slug": "nepafenaco"
-    },
-    {
-      "name": "NEVIRAPINA",
-      "slug": "nevirapina"
-    },
-    {
-      "name": "NICERGOLINA",
-      "slug": "nicergolina"
-    },
-    {
-      "name": "NICOTINA",
-      "slug": "nicotina"
-    },
-    {
-      "name": "NICOTINAMIDE HYDROCHLORIDE",
-      "slug": "nicotinamide_hydrochloride"
-    },
-    {
-      "name": "NIFEDIPINA",
-      "slug": "nifedipina"
+      "name": "NICOTINAMIDE",
+      "slug": "db02701"
     },
     {
       "name": "NIFEDIPINE",
-      "slug": "nifedipine"
+      "slug": "db01115"
     },
     {
-      "name": "NILOTINIBE",
-      "slug": "nilotinibe"
-    },
-    {
-      "name": "NIRAPARIBE MONOHYDRATE TOSYLATE",
-      "slug": "niraparibe_monohydrate_tosylate"
+      "name": "NITAZOXANIDE",
+      "slug": "db00507"
     },
     {
       "name": "NITRAZEPAM",
-      "slug": "nitrazepam"
-    },
-    {
-      "name": "NITROFURAL",
-      "slug": "nitrofural"
-    },
-    {
-      "name": "NITROFURANTOÍNA",
-      "slug": "nitrofurantoína"
-    },
-    {
-      "name": "NITROGLICERINA",
-      "slug": "nitroglicerina"
-    },
-    {
-      "name": "NIVOLUMABE",
-      "slug": "nivolumabe"
-    },
-    {
-      "name": "NONIVAMIDA",
-      "slug": "nonivamida"
+      "slug": "db01595"
     },
     {
       "name": "NORETHISTERONE",
-      "slug": "norethisterone"
+      "slug": "db00717"
     },
     {
-      "name": "NORETHISTERONE ACETATE",
-      "slug": "norethisterone_acetate"
+      "name": "NORFLOXACIN",
+      "slug": "db01059"
     },
     {
-      "name": "NORETHISTERONE ENANTHATE",
-      "slug": "norethisterone_enanthate"
-    },
-    {
-      "name": "NORTRIPTYLINE HYDROCHLORIDE",
-      "slug": "nortriptyline_hydrochloride"
-    },
-    {
-      "name": "Nicotinamide",
-      "slug": "nicotinamide"
-    },
-    {
-      "name": "Nimesulide",
-      "slug": "nimesulide"
-    },
-    {
-      "name": "Nitazoxanide",
-      "slug": "nitazoxanide"
-    },
-    {
-      "name": "Nomegestrol acetate",
-      "slug": "nomegestrol_acetate"
-    },
-    {
-      "name": "Norfloxacin",
-      "slug": "norfloxacin"
-    },
-    {
-      "name": "Nystatin",
-      "slug": "nystatin"
-    },
-    {
-      "name": "OBINUTUZUMABE",
-      "slug": "obinutuzumabe"
-    },
-    {
-      "name": "OCTREOTIDA ACETATE",
-      "slug": "octreotida_acetate"
-    },
-    {
-      "name": "OFATUMUMABE",
-      "slug": "ofatumumabe"
+      "name": "NYSTATIN",
+      "slug": "db00646"
     },
     {
       "name": "OLANZAPINE",
-      "slug": "olanzapine"
-    },
-    {
-      "name": "OLAPARIBE",
-      "slug": "olaparibe"
-    },
-    {
-      "name": "OLMESARTAN MEDOXOMIL",
-      "slug": "olmesartan_medoxomil"
-    },
-    {
-      "name": "OLODATEROL HYDROCHLORIDE",
-      "slug": "olodaterol_hydrochloride"
-    },
-    {
-      "name": "OLOPATADINA",
-      "slug": "olopatadina"
-    },
-    {
-      "name": "OLOPATADINA HYDROCHLORIDE",
-      "slug": "olopatadina_hydrochloride"
-    },
-    {
-      "name": "OMALIZUMABE",
-      "slug": "omalizumabe"
+      "slug": "db00334"
     },
     {
       "name": "OMEPRAZOLE",
-      "slug": "omeprazole"
+      "slug": "db00338"
     },
     {
-      "name": "OMEPRAZOLE MAGNESIUM",
-      "slug": "omeprazole_magnesium"
+      "name": "OXALIPLATIN",
+      "slug": "db00526"
     },
     {
-      "name": "OMEPRAZOLE SODIUM",
-      "slug": "omeprazole_sodium"
-    },
-    {
-      "name": "ONDANSETRON",
-      "slug": "ondansetron"
-    },
-    {
-      "name": "ONDANSETRON DIHYDRATE HYDROCHLORIDE",
-      "slug": "ondansetron_dihydrate_hydrochloride"
-    },
-    {
-      "name": "ONDANSETRON HYDROCHLORIDE",
-      "slug": "ondansetron_hydrochloride"
-    },
-    {
-      "name": "ORNITINA ASPARTATE",
-      "slug": "ornitina_aspartate"
-    },
-    {
-      "name": "ORNITINA HYDROCHLORIDE",
-      "slug": "ornitina_hydrochloride"
-    },
-    {
-      "name": "ORPHENADRINE CITRATE",
-      "slug": "orphenadrine_citrate"
-    },
-    {
-      "name": "OSELTAMIVIR PHOSPHATE",
-      "slug": "oseltamivir_phosphate"
-    },
-    {
-      "name": "OSIMERTINIBE MESYLATE",
-      "slug": "osimertinibe_mesylate"
-    },
-    {
-      "name": "OTILÔNIO BROMIDE",
-      "slug": "otilônio_bromide"
-    },
-    {
-      "name": "OXCARBAZEPINE",
-      "slug": "oxcarbazepine"
-    },
-    {
-      "name": "OXOMEMAZINA HYDROCHLORIDE",
-      "slug": "oxomemazina_hydrochloride"
-    },
-    {
-      "name": "OXYBUTYNIN HYDROCHLORIDE",
-      "slug": "oxybutynin_hydrochloride"
-    },
-    {
-      "name": "OXYCODONE HYDROCHLORIDE",
-      "slug": "oxycodone_hydrochloride"
-    },
-    {
-      "name": "OXYMETAZOLINE HYDROCHLORIDE",
-      "slug": "oxymetazoline_hydrochloride"
-    },
-    {
-      "name": "Olmesartan",
-      "slug": "olmesartan"
-    },
-    {
-      "name": "Oseltamivir",
-      "slug": "oseltamivir"
-    },
-    {
-      "name": "Oxaliplatin",
-      "slug": "oxaliplatin"
-    },
-    {
-      "name": "PALBOCICLIBE",
-      "slug": "palbociclibe"
-    },
-    {
-      "name": "PALIPERIDONA",
-      "slug": "paliperidona"
-    },
-    {
-      "name": "PALIPERIDONA PALMITATE",
-      "slug": "paliperidona_palmitate"
-    },
-    {
-      "name": "PALIVIZUMABE",
-      "slug": "palivizumabe"
-    },
-    {
-      "name": "PANCURÔNIO BROMIDE",
-      "slug": "pancurônio_bromide"
-    },
-    {
-      "name": "PANITUMUMABE",
-      "slug": "panitumumabe"
+      "name": "PACLITAXEL",
+      "slug": "db01229"
     },
     {
       "name": "PANTOPRAZOLE",
-      "slug": "pantoprazole"
-    },
-    {
-      "name": "PANTOPRAZOLE SODIUM",
-      "slug": "pantoprazole_sodium"
-    },
-    {
-      "name": "PANTOPRAZOLE SÓDICO SESQUIHYDRATE",
-      "slug": "pantoprazole_sódico_sesquihydrate"
-    },
-    {
-      "name": "PAPAVERINA HYDROCHLORIDE",
-      "slug": "papaverina_hydrochloride"
-    },
-    {
-      "name": "PARICALCITOL",
-      "slug": "paricalcitol"
-    },
-    {
-      "name": "PAROXETINE HYDROCHLORIDE",
-      "slug": "paroxetine_hydrochloride"
-    },
-    {
-      "name": "PASIREOTIDA PAMOATE",
-      "slug": "pasireotida_pamoate"
-    },
-    {
-      "name": "PAZOPANIBE HYDROCHLORIDE",
-      "slug": "pazopanibe_hydrochloride"
+      "slug": "db00213"
     },
     {
       "name": "PEGASPARGASE",
-      "slug": "pegaspargase"
+      "slug": "db00059"
     },
     {
-      "name": "PEMBROLIZUMABE",
-      "slug": "pembrolizumabe"
-    },
-    {
-      "name": "PENICILAMINA",
-      "slug": "penicilamina"
+      "name": "PENCICLOVIR",
+      "slug": "db00299"
     },
     {
       "name": "PERAMPANEL",
-      "slug": "perampanel"
+      "slug": "db08883"
     },
     {
-      "name": "PERICIAZINA",
-      "slug": "periciazina"
-    },
-    {
-      "name": "PERMETRINA",
-      "slug": "permetrina"
-    },
-    {
-      "name": "PERTUZUMABE",
-      "slug": "pertuzumabe"
-    },
-    {
-      "name": "PERÓXIDO DE BENZOÍLA",
-      "slug": "peróxido_de_benzoíla"
-    },
-    {
-      "name": "PHENOBARBITAL SODIUM",
-      "slug": "phenobarbital_sodium"
-    },
-    {
-      "name": "PHENYLALANINE",
-      "slug": "phenylalanine"
-    },
-    {
-      "name": "PHENYLBUTAZONE CALCIUM",
-      "slug": "phenylbutazone_calcium"
-    },
-    {
-      "name": "PHENYLEPHRINE HYDROCHLORIDE",
-      "slug": "phenylephrine_hydrochloride"
+      "name": "PHENOBARBITAL",
+      "slug": "db01174"
     },
     {
       "name": "PHENYTOIN",
-      "slug": "phenytoin"
-    },
-    {
-      "name": "PHENYTOIN SODIUM",
-      "slug": "phenytoin_sodium"
+      "slug": "db00252"
     },
     {
       "name": "PIBRENTASVIR",
-      "slug": "pibrentasvir"
+      "slug": "db13878"
     },
     {
-      "name": "PILOCARPINE HYDROCHLORIDE",
-      "slug": "pilocarpine_hydrochloride"
-    },
-    {
-      "name": "PIMECROLIMO",
-      "slug": "pimecrolimo"
-    },
-    {
-      "name": "PINAVÉRIO BROMIDE",
-      "slug": "pinavério_bromide"
-    },
-    {
-      "name": "PIOGLITAZONE HYDROCHLORIDE",
-      "slug": "pioglitazone_hydrochloride"
-    },
-    {
-      "name": "PIPERIDOLATO HYDROCHLORIDE",
-      "slug": "piperidolato_hydrochloride"
-    },
-    {
-      "name": "PIRIDOSTIGMINA BROMIDE",
-      "slug": "piridostigmina_bromide"
-    },
-    {
-      "name": "PIRIMETAMINA",
-      "slug": "pirimetamina"
+      "name": "PIROXICAM",
+      "slug": "db00554"
     },
     {
       "name": "PLERIXAFOR",
-      "slug": "plerixafor"
+      "slug": "db06809"
     },
     {
-      "name": "POLYMYXIN B SULFATE",
-      "slug": "polymyxin_b_sulfate"
-    },
-    {
-      "name": "POMALIDOMIDA",
-      "slug": "pomalidomida"
-    },
-    {
-      "name": "PONATINIBE HYDROCHLORIDE",
-      "slug": "ponatinibe_hydrochloride"
+      "name": "POLIDOCANOL",
+      "slug": "db06811"
     },
     {
       "name": "POTASSIUM ACETATE",
-      "slug": "potassium_acetate"
+      "slug": "db14498"
     },
     {
       "name": "POTASSIUM BICARBONATE",
-      "slug": "potassium_bicarbonate"
+      "slug": "db11098"
     },
     {
       "name": "POTASSIUM CHLORIDE",
-      "slug": "potassium_chloride"
+      "slug": "db00761"
     },
     {
-      "name": "POTASSIUM MONOHYDRATE CITRATE",
-      "slug": "potassium_monohydrate_citrate"
+      "name": "POTASSIUM IODIDE",
+      "slug": "db06715"
     },
     {
-      "name": "PRAMIPEXOLE DIHYDROCHLORIDE",
-      "slug": "pramipexole_dihydrochloride"
+      "name": "PRAZIQUANTEL",
+      "slug": "db01058"
     },
     {
-      "name": "PRAMIPEXOLE MONOHYDRATE DIHYDROCHLORIDE",
-      "slug": "pramipexole_monohydrate_dihydrochloride"
-    },
-    {
-      "name": "PRASUGREL HYDROCHLORIDE",
-      "slug": "prasugrel_hydrochloride"
-    },
-    {
-      "name": "PRAVASTATIN SODIUM",
-      "slug": "pravastatin_sodium"
+      "name": "PREDNISOLONE",
+      "slug": "db00860"
     },
     {
       "name": "PREDNISOLONE ACETATE",
-      "slug": "prednisolone_acetate"
+      "slug": "db15566"
+    },
+    {
+      "name": "PREDNISONE",
+      "slug": "db00635"
     },
     {
       "name": "PREGABALIN",
-      "slug": "pregabalin"
+      "slug": "db00230"
     },
     {
-      "name": "PRILOCAINE HYDROCHLORIDE",
-      "slug": "prilocaine_hydrochloride"
+      "name": "PRILOCAINE",
+      "slug": "db00750"
     },
     {
-      "name": "PROCAINE HYDROCHLORIDE",
-      "slug": "procaine_hydrochloride"
+      "name": "PROGESTERONE",
+      "slug": "db00396"
     },
     {
-      "name": "PROLINE",
-      "slug": "proline"
-    },
-    {
-      "name": "PROMETHAZINE HYDROCHLORIDE",
-      "slug": "promethazine_hydrochloride"
-    },
-    {
-      "name": "PROPAFENONA HYDROCHLORIDE",
-      "slug": "propafenona_hydrochloride"
-    },
-    {
-      "name": "PROPILTIOURACILA",
-      "slug": "propiltiouracila"
-    },
-    {
-      "name": "PROPRANOLOL HYDROCHLORIDE",
-      "slug": "propranolol_hydrochloride"
-    },
-    {
-      "name": "PROTAMINA HYDROCHLORIDE",
-      "slug": "protamina_hydrochloride"
-    },
-    {
-      "name": "PRUCALOPRIDA",
-      "slug": "prucaloprida"
+      "name": "PROMETHAZINE",
+      "slug": "db01069"
     },
     {
       "name": "PSEUDOEPHEDRINE",
-      "slug": "pseudoephedrine"
-    },
-    {
-      "name": "PSEUDOEPHEDRINE HYDROCHLORIDE",
-      "slug": "pseudoephedrine_hydrochloride"
-    },
-    {
-      "name": "PSEUDOEPHEDRINE SULFATE",
-      "slug": "pseudoephedrine_sulfate"
-    },
-    {
-      "name": "PYRIDOXINE HYDROCHLORIDE",
-      "slug": "pyridoxine_hydrochloride"
-    },
-    {
-      "name": "Paclitaxel",
-      "slug": "paclitaxel"
-    },
-    {
-      "name": "Pegfilgrastim",
-      "slug": "pegfilgrastim"
-    },
-    {
-      "name": "Pegvaliase",
-      "slug": "pegvaliase"
-    },
-    {
-      "name": "Penciclovir",
-      "slug": "penciclovir"
-    },
-    {
-      "name": "Phenobarbital",
-      "slug": "phenobarbital"
-    },
-    {
-      "name": "Phenylbutazone",
-      "slug": "phenylbutazone"
-    },
-    {
-      "name": "Piracetam",
-      "slug": "piracetam"
-    },
-    {
-      "name": "Piroxicam",
-      "slug": "piroxicam"
-    },
-    {
-      "name": "Polidocanol",
-      "slug": "polidocanol"
-    },
-    {
-      "name": "Polymyxin B",
-      "slug": "polymyxin_b"
-    },
-    {
-      "name": "Potassium",
-      "slug": "potassium"
-    },
-    {
-      "name": "Potassium Iodide",
-      "slug": "potassium_iodide"
-    },
-    {
-      "name": "Potassium hydroxide",
-      "slug": "potassium_hydroxide"
-    },
-    {
-      "name": "Potassium sulfate",
-      "slug": "potassium_sulfate"
-    },
-    {
-      "name": "Prasugrel",
-      "slug": "prasugrel"
-    },
-    {
-      "name": "Praziquantel",
-      "slug": "praziquantel"
-    },
-    {
-      "name": "Prednisolone",
-      "slug": "prednisolone"
-    },
-    {
-      "name": "Prednisone",
-      "slug": "prednisone"
-    },
-    {
-      "name": "Prilocaine",
-      "slug": "prilocaine"
-    },
-    {
-      "name": "Procaine",
-      "slug": "procaine"
-    },
-    {
-      "name": "Progesterone",
-      "slug": "progesterone"
-    },
-    {
-      "name": "Promethazine",
-      "slug": "promethazine"
-    },
-    {
-      "name": "Propofol",
-      "slug": "propofol"
-    },
-    {
-      "name": "Pyridoxine",
-      "slug": "pyridoxine"
-    },
-    {
-      "name": "QUININA SULFATE",
-      "slug": "quinina_sulfate"
-    },
-    {
-      "name": "RABEPRAZOLE SODIUM",
-      "slug": "rabeprazole_sodium"
-    },
-    {
-      "name": "RALOXIFENO HYDROCHLORIDE",
-      "slug": "raloxifeno_hydrochloride"
+      "slug": "db00852"
     },
     {
       "name": "RAMIPRIL",
-      "slug": "ramipril"
+      "slug": "db00178"
     },
     {
-      "name": "RAMUCIRUMABE",
-      "slug": "ramucirumabe"
-    },
-    {
-      "name": "RANIBIZUMABE",
-      "slug": "ranibizumabe"
-    },
-    {
-      "name": "RANITIDINE HYDROCHLORIDE",
-      "slug": "ranitidine_hydrochloride"
-    },
-    {
-      "name": "RANOLAZINA",
-      "slug": "ranolazina"
-    },
-    {
-      "name": "RASAGILINE MESYLATE",
-      "slug": "rasagiline_mesylate"
+      "name": "RANITIDINE",
+      "slug": "db00863"
     },
     {
       "name": "RASBURICASE",
-      "slug": "rasburicase"
-    },
-    {
-      "name": "REGORAFENIBE",
-      "slug": "regorafenibe"
-    },
-    {
-      "name": "RELEBACTAM MONOHYDRATE",
-      "slug": "relebactam_monohydrate"
-    },
-    {
-      "name": "REMIMAZOLAM BESYLATE",
-      "slug": "remimazolam_besylate"
-    },
-    {
-      "name": "REPAGLINIDA",
-      "slug": "repaglinida"
-    },
-    {
-      "name": "RETINOL",
-      "slug": "retinol"
-    },
-    {
-      "name": "RETINOL ACETATE",
-      "slug": "retinol_acetate"
-    },
-    {
-      "name": "RETINOL PALMITATE",
-      "slug": "retinol_palmitate"
-    },
-    {
-      "name": "RIBAVIRINA",
-      "slug": "ribavirina"
-    },
-    {
-      "name": "RIBOCICLIBE SUCCINATE",
-      "slug": "ribociclibe_succinate"
+      "slug": "db00049"
     },
     {
       "name": "RIBOFLAVIN",
-      "slug": "riboflavin"
-    },
-    {
-      "name": "RILPIVIRINA",
-      "slug": "rilpivirina"
-    },
-    {
-      "name": "RILPIVIRINA HYDROCHLORIDE",
-      "slug": "rilpivirina_hydrochloride"
-    },
-    {
-      "name": "RISANQUIZUMABE",
-      "slug": "risanquizumabe"
+      "slug": "db00140"
     },
     {
       "name": "RISPERIDONE",
-      "slug": "risperidone"
+      "slug": "db00734"
     },
     {
       "name": "RITONAVIR",
-      "slug": "ritonavir"
+      "slug": "db00503"
     },
     {
       "name": "RITUXIMAB",
-      "slug": "rituximab"
+      "slug": "db00073"
     },
     {
       "name": "RIVASTIGMINE",
-      "slug": "rivastigmine"
-    },
-    {
-      "name": "RIVASTIGMINE HEMITARTRATE",
-      "slug": "rivastigmine_hemitartrate"
-    },
-    {
-      "name": "ROCURÔNIO BROMIDE",
-      "slug": "rocurônio_bromide"
+      "slug": "db00989"
     },
     {
       "name": "ROMIPLOSTIM",
-      "slug": "romiplostim"
-    },
-    {
-      "name": "ROMOSOZUMABE",
-      "slug": "romosozumabe"
-    },
-    {
-      "name": "ROPIVACAINE HYDROCHLORIDE",
-      "slug": "ropivacaine_hydrochloride"
-    },
-    {
-      "name": "ROPIVACAINE MONOHYDRATE HYDROCHLORIDE",
-      "slug": "ropivacaine_monohydrate_hydrochloride"
-    },
-    {
-      "name": "ROSUVASTATIN CALCIUM",
-      "slug": "rosuvastatin_calcium"
-    },
-    {
-      "name": "ROTIGOTINA",
-      "slug": "rotigotina"
-    },
-    {
-      "name": "RUFINAMIDA",
-      "slug": "rufinamida"
-    },
-    {
-      "name": "RUPATADINA FUMARATE",
-      "slug": "rupatadina_fumarate"
-    },
-    {
-      "name": "RUXOLITINIBE PHOSPHATE",
-      "slug": "ruxolitinibe_phosphate"
-    },
-    {
-      "name": "Ranitidine",
-      "slug": "ranitidine"
-    },
-    {
-      "name": "Relebactam",
-      "slug": "relebactam"
-    },
-    {
-      "name": "Risdiplam",
-      "slug": "risdiplam"
-    },
-    {
-      "name": "Rivaroxaban",
-      "slug": "rivaroxaban"
-    },
-    {
-      "name": "Ropivacaine",
-      "slug": "ropivacaine"
-    },
-    {
-      "name": "SAFINAMIDA MESYLATE",
-      "slug": "safinamida_mesylate"
-    },
-    {
-      "name": "SALMETEROL XINAFOATE",
-      "slug": "salmeterol_xinafoate"
+      "slug": "db05332"
     },
     {
       "name": "SAQUINAVIR",
-      "slug": "saquinavir"
+      "slug": "db01232"
     },
     {
       "name": "SAXAGLIPTIN",
-      "slug": "saxagliptin"
+      "slug": "db06335"
     },
     {
-      "name": "SAXAGLIPTIN MONOHYDRATE",
-      "slug": "saxagliptin_monohydrate"
-    },
-    {
-      "name": "SECUQUINUMABE",
-      "slug": "secuquinumabe"
+      "name": "SECNIDAZOLE",
+      "slug": "db12834"
     },
     {
       "name": "SEMAGLUTIDE",
-      "slug": "semaglutide"
+      "slug": "db13928"
     },
     {
-      "name": "SERTRALINE HYDROCHLORIDE",
-      "slug": "sertraline_hydrochloride"
-    },
-    {
-      "name": "SEVOFLURANO",
-      "slug": "sevoflurano"
-    },
-    {
-      "name": "SIBUTRAMINA HYDROCHLORIDE",
-      "slug": "sibutramina_hydrochloride"
-    },
-    {
-      "name": "SILDENAFIL CITRATE",
-      "slug": "sildenafil_citrate"
-    },
-    {
-      "name": "SILODOSINA",
-      "slug": "silodosina"
+      "name": "SERINE",
+      "slug": "db00133"
     },
     {
       "name": "SIMVASTATIN",
-      "slug": "simvastatin"
+      "slug": "db00641"
     },
     {
-      "name": "SITAGLIPTIN MONOHYDRATE HYDROCHLORIDE",
-      "slug": "sitagliptin_monohydrate_hydrochloride"
+      "name": "SIROLIMUS",
+      "slug": "db00877"
     },
     {
-      "name": "SITAGLIPTIN MONOHYDRATE PHOSPHATE",
-      "slug": "sitagliptin_monohydrate_phosphate"
-    },
-    {
-      "name": "SITAGLIPTIN PHOSPHATE",
-      "slug": "sitagliptin_phosphate"
-    },
-    {
-      "name": "SODIUM BENZOATE",
-      "slug": "sodium_benzoate"
-    },
-    {
-      "name": "SODIUM BICARBONATE",
-      "slug": "sodium_bicarbonate"
-    },
-    {
-      "name": "SODIUM DIHYDRATE CITRATE",
-      "slug": "sodium_dihydrate_citrate"
-    },
-    {
-      "name": "SODIUM HYDROXIDE",
-      "slug": "sodium_hydroxide"
-    },
-    {
-      "name": "SODIUM LACTATE",
-      "slug": "sodium_lactate"
-    },
-    {
-      "name": "SODIUM PROPIONATE",
-      "slug": "sodium_propionate"
-    },
-    {
-      "name": "SODIUM TRIHYDRATE ACETATE",
-      "slug": "sodium_trihydrate_acetate"
+      "name": "SODIUM CITRATE",
+      "slug": "db09154"
     },
     {
       "name": "SOFOSBUVIR",
-      "slug": "sofosbuvir"
-    },
-    {
-      "name": "SOLIFENACIN SUCCINATE",
-      "slug": "solifenacin_succinate"
-    },
-    {
-      "name": "SORAFENIB TOSYLATE",
-      "slug": "sorafenib_tosylate"
-    },
-    {
-      "name": "SOTALOL HYDROCHLORIDE",
-      "slug": "sotalol_hydrochloride"
+      "slug": "db08934"
     },
     {
       "name": "SPIRONOLACTONE",
-      "slug": "spironolactone"
+      "slug": "db00421"
     },
     {
-      "name": "SUCRALFATO",
-      "slug": "sucralfato"
-    },
-    {
-      "name": "SULBACTAM SODIUM",
-      "slug": "sulbactam_sodium"
-    },
-    {
-      "name": "SULFACETAMIDA SODIUM",
-      "slug": "sulfacetamida_sodium"
-    },
-    {
-      "name": "SULFADIAZINA",
-      "slug": "sulfadiazina"
-    },
-    {
-      "name": "SULFASSALAZINA",
-      "slug": "sulfassalazina"
-    },
-    {
-      "name": "SULFATO FERROUS",
-      "slug": "sulfato_ferrous"
-    },
-    {
-      "name": "SULPIRIDA",
-      "slug": "sulpirida"
-    },
-    {
-      "name": "Salbutamol",
-      "slug": "salbutamol"
-    },
-    {
-      "name": "Secnidazole",
-      "slug": "secnidazole"
-    },
-    {
-      "name": "Selenium",
-      "slug": "selenium"
-    },
-    {
-      "name": "Serine",
-      "slug": "serine"
-    },
-    {
-      "name": "Sirolimus",
-      "slug": "sirolimus"
-    },
-    {
-      "name": "Sodium acetate",
-      "slug": "sodium_acetate"
-    },
-    {
-      "name": "Sodium carbonate",
-      "slug": "sodium_carbonate"
-    },
-    {
-      "name": "Sodium chloride",
-      "slug": "sodium_chloride"
-    },
-    {
-      "name": "Sodium citrate",
-      "slug": "sodium_citrate"
-    },
-    {
-      "name": "Sodium lauryl sulfate",
-      "slug": "sodium_lauryl_sulfate"
-    },
-    {
-      "name": "Solifenacin",
-      "slug": "solifenacin"
-    },
-    {
-      "name": "Sorafenib",
-      "slug": "sorafenib"
-    },
-    {
-      "name": "Sorbitol",
-      "slug": "sorbitol"
-    },
-    {
-      "name": "Sulfamethoxazole",
-      "slug": "sulfamethoxazole"
+      "name": "SULFAMETHOXAZOLE",
+      "slug": "db01015"
     },
     {
       "name": "TACROLIMUS",
-      "slug": "tacrolimus"
-    },
-    {
-      "name": "TACROLIMUS MONOHYDRATE",
-      "slug": "tacrolimus_monohydrate"
+      "slug": "db00864"
     },
     {
       "name": "TADALAFIL",
-      "slug": "tadalafil"
+      "slug": "db00820"
     },
     {
-      "name": "TAFAMIDIS MEGLUMINE",
-      "slug": "tafamidis_meglumine"
+      "name": "TAFAMIDIS",
+      "slug": "db11644"
     },
     {
-      "name": "TAFENOQUINA SUCCINATE",
-      "slug": "tafenoquina_succinate"
+      "name": "TAZOBACTAM",
+      "slug": "db01606"
     },
     {
-      "name": "TALAZOPARIBE TOSYLATE",
-      "slug": "talazoparibe_tosylate"
-    },
-    {
-      "name": "TALIDOMIDA",
-      "slug": "talidomida"
-    },
-    {
-      "name": "TAMOXIFEN CITRATE",
-      "slug": "tamoxifen_citrate"
-    },
-    {
-      "name": "TAMSULOSIN HYDROCHLORIDE",
-      "slug": "tamsulosin_hydrochloride"
-    },
-    {
-      "name": "TAPENTADOL HYDROCHLORIDE",
-      "slug": "tapentadol_hydrochloride"
-    },
-    {
-      "name": "TAURINA",
-      "slug": "taurina"
-    },
-    {
-      "name": "TAZOBACTAM SODIUM",
-      "slug": "tazobactam_sodium"
-    },
-    {
-      "name": "TEDUGLUTIDA",
-      "slug": "teduglutida"
-    },
-    {
-      "name": "TEICOPLANINA",
-      "slug": "teicoplanina"
-    },
-    {
-      "name": "TEMOZOLOMIDA",
-      "slug": "temozolomida"
+      "name": "TELMISARTAN",
+      "slug": "db00966"
     },
     {
       "name": "TENECTEPLASE",
-      "slug": "tenecteplase"
+      "slug": "db00031"
     },
     {
-      "name": "TERBINAFINE HYDROCHLORIDE",
-      "slug": "terbinafine_hydrochloride"
-    },
-    {
-      "name": "TERBUTALINA SULFATE",
-      "slug": "terbutalina_sulfate"
-    },
-    {
-      "name": "TERIFLUNOMIDA",
-      "slug": "teriflunomida"
-    },
-    {
-      "name": "TERIPARATIDA",
-      "slug": "teriparatida"
+      "name": "TENOXICAM",
+      "slug": "db00469"
     },
     {
       "name": "TESTOSTERONE",
-      "slug": "testosterone"
+      "slug": "db00624"
     },
     {
       "name": "TESTOSTERONE CYPIONATE",
-      "slug": "testosterone_cypionate"
-    },
-    {
-      "name": "TESTOSTERONE DECANOATE",
-      "slug": "testosterone_decanoate"
+      "slug": "db13943"
     },
     {
       "name": "TESTOSTERONE PROPIONATE",
-      "slug": "testosterone_propionate"
+      "slug": "db01420"
     },
     {
       "name": "TETRACAINE",
-      "slug": "tetracaine"
+      "slug": "db09085"
     },
     {
-      "name": "TETRACAINE HYDROCHLORIDE",
-      "slug": "tetracaine_hydrochloride"
+      "name": "TETRACYCLINE",
+      "slug": "db00759"
     },
     {
-      "name": "TETRACYCLINE HYDROCHLORIDE",
-      "slug": "tetracycline_hydrochloride"
+      "name": "TEZACAFTOR",
+      "slug": "db11712"
     },
     {
       "name": "THEOPHYLLINE",
-      "slug": "theophylline"
-    },
-    {
-      "name": "THIAMINE HYDROCHLORIDE",
-      "slug": "thiamine_hydrochloride"
-    },
-    {
-      "name": "THIAMINE NITRATE",
-      "slug": "thiamine_nitrate"
-    },
-    {
-      "name": "THREONINE",
-      "slug": "threonine"
-    },
-    {
-      "name": "TIABENDAZOL",
-      "slug": "tiabendazol"
+      "slug": "db00277"
     },
     {
       "name": "TICAGRELOR",
-      "slug": "ticagrelor"
+      "slug": "db08816"
     },
     {
-      "name": "TICLOPIDINA HYDROCHLORIDE",
-      "slug": "ticlopidina_hydrochloride"
+      "name": "TINIDAZOLE",
+      "slug": "db00911"
     },
     {
-      "name": "TIMOLOL MALEATE",
-      "slug": "timolol_maleate"
+      "name": "TOBRAMYCIN",
+      "slug": "db00684"
     },
     {
-      "name": "TIOGUANINA",
-      "slug": "tioguanina"
-    },
-    {
-      "name": "TIOPENTAL SODIUM",
-      "slug": "tiopental_sodium"
-    },
-    {
-      "name": "TIOTROPIUM BROMIDE",
-      "slug": "tiotropium_bromide"
-    },
-    {
-      "name": "TIOTROPIUM MONOHYDRATE BROMIDE",
-      "slug": "tiotropium_monohydrate_bromide"
-    },
-    {
-      "name": "TIRZEPATIDA",
-      "slug": "tirzepatida"
-    },
-    {
-      "name": "TIZANIDINE HYDROCHLORIDE",
-      "slug": "tizanidine_hydrochloride"
-    },
-    {
-      "name": "TOBRAMYCIN SULFATE",
-      "slug": "tobramycin_sulfate"
-    },
-    {
-      "name": "TOCILIZUMABE",
-      "slug": "tocilizumabe"
-    },
-    {
-      "name": "TOCOPHEROL ACETATE",
-      "slug": "tocopherol_acetate"
-    },
-    {
-      "name": "TOLTERODINE TARTRATE",
-      "slug": "tolterodine_tartrate"
+      "name": "TOLNAFTATE",
+      "slug": "db00525"
     },
     {
       "name": "TOPIRAMATE",
-      "slug": "topiramate"
+      "slug": "db00273"
     },
     {
-      "name": "TRAMADOL HYDROCHLORIDE",
-      "slug": "tramadol_hydrochloride"
+      "name": "TRASTUZUMAB",
+      "slug": "db00072"
     },
     {
-      "name": "TRAZODONE HYDROCHLORIDE",
-      "slug": "trazodone_hydrochloride"
+      "name": "TRAVOPROST",
+      "slug": "db00287"
     },
     {
-      "name": "TRETINOÍNA",
-      "slug": "tretinoína"
-    },
-    {
-      "name": "TRIAMCINOLONE ACETONIDA",
-      "slug": "triamcinolone_acetonida"
-    },
-    {
-      "name": "TRIFLURIDINA",
-      "slug": "trifluridina"
-    },
-    {
-      "name": "TRIHEXYPHENIDYL HYDROCHLORIDE",
-      "slug": "trihexyphenidyl_hydrochloride"
-    },
-    {
-      "name": "TRIMEBUTINA MALEATE",
-      "slug": "trimebutina_maleate"
-    },
-    {
-      "name": "TRIMETAZIDINA DIHYDROCHLORIDE",
-      "slug": "trimetazidina_dihydrochloride"
-    },
-    {
-      "name": "TRIPROLIDINA HYDROCHLORIDE",
-      "slug": "triprolidina_hydrochloride"
-    },
-    {
-      "name": "TROPICAMIDA",
-      "slug": "tropicamida"
-    },
-    {
-      "name": "TYROTHRICIN",
-      "slug": "tyrothricin"
-    },
-    {
-      "name": "Tafamidis",
-      "slug": "tafamidis"
-    },
-    {
-      "name": "Tamoxifen",
-      "slug": "tamoxifen"
-    },
-    {
-      "name": "Tapentadol",
-      "slug": "tapentadol"
-    },
-    {
-      "name": "Tazobactam",
-      "slug": "tazobactam"
-    },
-    {
-      "name": "Telmisartan",
-      "slug": "telmisartan"
-    },
-    {
-      "name": "Tenoxicam",
-      "slug": "tenoxicam"
-    },
-    {
-      "name": "Terbinafine",
-      "slug": "terbinafine"
-    },
-    {
-      "name": "Tetracycline",
-      "slug": "tetracycline"
-    },
-    {
-      "name": "Tezacaftor",
-      "slug": "tezacaftor"
-    },
-    {
-      "name": "Thiamine",
-      "slug": "thiamine"
-    },
-    {
-      "name": "Tinidazole",
-      "slug": "tinidazole"
-    },
-    {
-      "name": "Tisagenlecleucel",
-      "slug": "tisagenlecleucel"
-    },
-    {
-      "name": "Tizanidine",
-      "slug": "tizanidine"
-    },
-    {
-      "name": "Tobramycin",
-      "slug": "tobramycin"
-    },
-    {
-      "name": "Tocopherol",
-      "slug": "tocopherol"
-    },
-    {
-      "name": "Tolnaftate",
-      "slug": "tolnaftate"
-    },
-    {
-      "name": "Tolterodine",
-      "slug": "tolterodine"
-    },
-    {
-      "name": "Tramadol",
-      "slug": "tramadol"
-    },
-    {
-      "name": "Trastuzumab",
-      "slug": "trastuzumab"
-    },
-    {
-      "name": "Travoprost",
-      "slug": "travoprost"
-    },
-    {
-      "name": "Trihexyphenidyl",
-      "slug": "trihexyphenidyl"
-    },
-    {
-      "name": "Trimethoprim",
-      "slug": "trimethoprim"
-    },
-    {
-      "name": "Tryptophan",
-      "slug": "tryptophan"
-    },
-    {
-      "name": "Tyrosine",
-      "slug": "tyrosine"
-    },
-    {
-      "name": "UMECLIDÍNIO BROMIDE",
-      "slug": "umeclidínio_bromide"
-    },
-    {
-      "name": "USTEQUINUMABE",
-      "slug": "ustequinumabe"
-    },
-    {
-      "name": "VACINA BCG",
-      "slug": "vacina_bcg"
-    },
-    {
-      "name": "VALACYCLOVIR HYDROCHLORIDE",
-      "slug": "valacyclovir_hydrochloride"
-    },
-    {
-      "name": "VALGANCICLOVIR HYDROCHLORIDE",
-      "slug": "valganciclovir_hydrochloride"
-    },
-    {
-      "name": "VALPROATE DE SODIUM",
-      "slug": "valproate_de_sodium"
+      "name": "TRIMETHOPRIM",
+      "slug": "db00440"
     },
     {
       "name": "VALSARTAN",
-      "slug": "valsartan"
-    },
-    {
-      "name": "VANCOMYCIN HYDROCHLORIDE",
-      "slug": "vancomycin_hydrochloride"
-    },
-    {
-      "name": "VARDENAFIL HYDROCHLORIDE",
-      "slug": "vardenafil_hydrochloride"
-    },
-    {
-      "name": "VARENICLINA TARTRATE",
-      "slug": "vareniclina_tartrate"
-    },
-    {
-      "name": "VECURÔNIO BROMIDE",
-      "slug": "vecurônio_bromide"
-    },
-    {
-      "name": "VEDOLIZUMABE",
-      "slug": "vedolizumabe"
+      "slug": "db00177"
     },
     {
       "name": "VELPATASVIR",
-      "slug": "velpatasvir"
+      "slug": "db11613"
     },
     {
-      "name": "VEMURAFENIBE",
-      "slug": "vemurafenibe"
-    },
-    {
-      "name": "VENLAFAXINE HYDROCHLORIDE",
-      "slug": "venlafaxine_hydrochloride"
-    },
-    {
-      "name": "VERAPAMIL HYDROCHLORIDE",
-      "slug": "verapamil_hydrochloride"
+      "name": "VENETOCLAX",
+      "slug": "db11581"
     },
     {
       "name": "VILDAGLIPTIN",
-      "slug": "vildagliptin"
-    },
-    {
-      "name": "VINBLASTINE SULFATE",
-      "slug": "vinblastine_sulfate"
-    },
-    {
-      "name": "VINCRISTINE SULFATE",
-      "slug": "vincristine_sulfate"
-    },
-    {
-      "name": "VINFLUNINA",
-      "slug": "vinflunina"
-    },
-    {
-      "name": "VINORELBINA",
-      "slug": "vinorelbina"
-    },
-    {
-      "name": "VINORELBINA TARTRATE",
-      "slug": "vinorelbina_tartrate"
-    },
-    {
-      "name": "VITAMINA A",
-      "slug": "vitamina_a"
-    },
-    {
-      "name": "VITAMINA B1",
-      "slug": "vitamina_b1"
-    },
-    {
-      "name": "VITAMINA B12",
-      "slug": "vitamina_b12"
-    },
-    {
-      "name": "VITAMINA B2",
-      "slug": "vitamina_b2"
-    },
-    {
-      "name": "VITAMINA B6",
-      "slug": "vitamina_b6"
-    },
-    {
-      "name": "VITAMINA C",
-      "slug": "vitamina_c"
-    },
-    {
-      "name": "VITAMINA D2",
-      "slug": "vitamina_d2"
-    },
-    {
-      "name": "VITAMINA D3",
-      "slug": "vitamina_d3"
-    },
-    {
-      "name": "VITAMINA E",
-      "slug": "vitamina_e"
+      "slug": "db04876"
     },
     {
       "name": "VOXILAPREVIR",
-      "slug": "voxilaprevir"
+      "slug": "db12026"
     },
     {
-      "name": "Valganciclovir",
-      "slug": "valganciclovir"
+      "name": "ZANAMIVIR",
+      "slug": "db00558"
     },
     {
-      "name": "Valine",
-      "slug": "valine"
+      "name": "ZINC ACETATE",
+      "slug": "db14487"
     },
     {
-      "name": "Vancomycin",
-      "slug": "vancomycin"
-    },
-    {
-      "name": "Venetoclax",
-      "slug": "venetoclax"
-    },
-    {
-      "name": "Vinblastine",
-      "slug": "vinblastine"
-    },
-    {
-      "name": "Vitamin A",
-      "slug": "vitamin_a"
-    },
-    {
-      "name": "WARFARIN SODIUM",
-      "slug": "warfarin_sodium"
-    },
-    {
-      "name": "ZIDOVUDINA",
-      "slug": "zidovudina"
-    },
-    {
-      "name": "ZINC",
-      "slug": "zinc"
-    },
-    {
-      "name": "ZINC CHLORIDE",
-      "slug": "zinc_chloride"
-    },
-    {
-      "name": "ZINC MONOHYDRATE SULFATE",
-      "slug": "zinc_monohydrate_sulfate"
-    },
-    {
-      "name": "ZINC SULFATE",
-      "slug": "zinc_sulfate"
-    },
-    {
-      "name": "ZIPRASIDONA MONOHYDRATE HYDROCHLORIDE",
-      "slug": "ziprasidona_monohydrate_hydrochloride"
-    },
-    {
-      "name": "ZOLPIDEM HEMITARTRATE",
-      "slug": "zolpidem_hemitartrate"
-    },
-    {
-      "name": "ZOPICLONA",
-      "slug": "zopiclona"
-    },
-    {
-      "name": "Zanamivir",
-      "slug": "zanamivir"
-    },
-    {
-      "name": "Zinc acetate",
-      "slug": "zinc_acetate"
-    },
-    {
-      "name": "Zinc oxide",
-      "slug": "zinc_oxide"
-    },
-    {
-      "name": "ÁCIDO AZELAICO",
-      "slug": "ácido_azelaico"
-    },
-    {
-      "name": "ÁCIDO TRANEXÂMICO",
-      "slug": "ácido_tranexâmico"
-    },
-    {
-      "name": "ÁCIDO URSODESOXICÓLICO",
-      "slug": "ácido_ursodesoxicólico"
-    },
-    {
-      "name": "ÁCIDO VALPRÓICO",
-      "slug": "ácido_valpróico"
-    },
-    {
-      "name": "ÁCIDO ZOLEDRÔNICO",
-      "slug": "ácido_zoledrônico"
-    },
-    {
-      "name": "ÁCIDO ZOLEDRÔNICO MONOHYDRATE",
-      "slug": "ácido_zoledrônico_monohydrate"
+      "name": "ZINC OXIDE",
+      "slug": "db09321"
     }
   ]
 }
