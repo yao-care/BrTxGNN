@@ -45,7 +45,7 @@ REQUEST_DELAY = 1.0  # segundos
 def generate_id(title: str, link: str) -> str:
     """Gerar ID da notícia (baseado em hash do título e link)"""
     content = f"{title}:{link}"
-    return hashlib.md5(content.encode()).hexdigest()[:12]
+    return hashlib.sha256(content.encode()).hexdigest()[:12]
 
 
 def parse_source(entry, default_source: str = "Desconhecido") -> dict:
