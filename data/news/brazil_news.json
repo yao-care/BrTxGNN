@@ -1,19 +1,67 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-04-20T08:12:26.474727+00:00",
-  "total_fetched": 99,
+  "fetched_at": "2026-04-20T13:47:35.431968+00:00",
+  "total_fetched": 100,
   "unique_count": 98,
-  "health_related_count": 45,
+  "health_related_count": 43,
   "news": [
+    {
+      "id": "dddaa15dfaea",
+      "title": "Hábito de cozinhar pode reduzir em 30% o risco de demência, aponta estudo; entenda - Estadão",
+      "published": "2026-04-20T08:30:00+00:00",
+      "summary": "Hábito de cozinhar pode reduzir em 30% o risco de demência, aponta estudo; entenda&nbsp;&nbsp;Estadão",
+      "sources": [
+        {
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSUEwUkhaVlctTmdvRnN0NldXeFZxQjUyQ1VWcFlsYTRFS2dLWjhqbEYyR1JPWGZBWFV5VlRXcnRPV1VaSjg4bGZpcUdmb2d0elplUGRkRlpJWjdlaEsyRFU5dHlkU1VMOEVGLXFYLUxuLUhUaTJmWEFOV1p1UWZIZWc0cVFNT09ISkMwR1hvaVFFR05HLVpKYy1zRW9fall0NEtwQ0dzclM1V0tCaVktSTE4enhMbDJoVGVCdExyQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6318e9042e35",
+      "title": "Falta de quimioterapia essencial leva hospitais a adaptar tratamentos e deixa pacientes sem opção ideal - G1",
+      "published": "2026-04-20T07:01:26+00:00",
+      "summary": "Falta de quimioterapia essencial leva hospitais a adaptar tratamentos e deixa pacientes sem opção ideal&nbsp;&nbsp;G1Escassez de medicamento vital contra o câncer gera adaptação em tratamentos hospitalares&nbsp;&nbsp;Folha de CuritibaRemédio de R$ 30 salva vidas há décadas; onde está a cicl...&nbsp;&nbsp;Blog do DinaCiclofosfamida: quando falta o essencial na medicina moderna&nbsp;&nbsp;Futuro da SaúdeDesabastecimento de quimioterapia obriga hospitais a mudar protocolos&nbsp;&nbsp;DIÁRIO DO ESTA",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPekJvT21jU3lHZ0V0Y3pRNG95RUp3SWt3d3lLY3d5eEdNX0QzakRhUW5GWjMtY0tCR2lvNXBIeVNiQ24xbHZqRnlTdUtoSkxPUjdoT2xjVXd4Y0hseXlJa0g2M3lsNGlyMjBqU2V4cDlpZy1QTTBuRk1fRkUyNXZDajVHV28wRDRqM281aVNSZl9jZS1lemJGLTVTQmd0ck1hOFRGYmNDSWNaX0JXVTVQRDZ1cEJQOWJaTnhoZ0lhYjVHSXBGVG1NajVmS2pJWUZJUmIxSnB4QW1zb1J6ME5qQnlOeVdQZUc1cm5V0gH6AUFVX3lxTE82MmFOOF80YXRQOWdkVHhnUzNHRHZMMENXc29tRkphbEhUMkNfalV5Y3c3Rnk2ZG1rZll6RXJzdDh6ci03TFB2WkZQbUxGaV9xRUtYSEJCX0JVY3BWNGZnbVlYUVJtUEF3N2x0dGE0dE1TTEJOdVppLVJwMmE2RzRaYTQ4WElvTmEzb3RtWkhralBacHNac1RwM3puSDR1UG9HZWV2c2lyOWctTXRkNVlEbVg2MkZRTXNxZ2gzeWlYVm9IU1QzRkRJSWdhN29aVVlnQ3BTNl95c1FxX0RHTGREazJ0dmhYbHZLMjg2WTVKelJfT0g1TENDdmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d22022ce898c",
+      "title": "Bom para corpo e mente: Conheça ingrediente que pode melhorar função cerebral ao atuar no intestino, segundo cientistas - O Globo",
+      "published": "2026-04-20T07:01:20+00:00",
+      "summary": "Bom para corpo e mente: Conheça ingrediente que pode melhorar função cerebral ao atuar no intestino, segundo cientistas&nbsp;&nbsp;O GloboTipo de azeite pode ajudar a preservar a função do cérebro. Saiba qual&nbsp;&nbsp;MetrópolesPesquisa afirma que azeite de oliva extra virgem pode melhorar a função cerebral&nbsp;&nbsp;Folha BVAzeite pode melhorar a memória? Saiba o que diz a ciência&nbsp;&nbsp;ExameEstudo mostra se realmente há benefícios em consumir azeite de oliva&nbsp;&nbsp;Tribuna de Minas",
+      "sources": [
+        {
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOZXYzVTUweC1aQ3hudy1IVUhyUDZIMGVLRW1zUVQ1OUhGVWp6UWlfbHJhTzAxeTZXSlRBbUtDVlY0dkd5VTkzblpJMzdUb1lmX3RMUkxfTDcwNzdRdk9EQVlRTkMyWGdhUnZYVmlna1RoUi1RbzNndVp2aURWaEhVQWtrOUxObkwyY3ZucE9fVnE0UGMxZFU5SUkxQmJXMDNGMjJYdXRrNTVYMnhkcXcwTUxrTThXUlZyYXBaYTNTZ2o5WjhSWHBCM2RFWVJ5LWpMMGF4bEN5bEloVHU2WVZIV2NPUS1ld0hVQU4zaHNPM2pKSldKRW1fT1JoRWJaVDVOX1Jv0gGSAkFVX3lxTE1zX0JqZTY4S0tidkdxVUJOWUMydEprbWpjZkpPUzNQRVJZelZXVG5jdF9hNTE3UWJlaDh5V3dVaFFWQnRfbXVRaVN4UTQzMnFqTzVRVEJCbWZValhPZklLX1hBdE4yNnJYMHBVQXFVYWh6Y2h2cXBFSUVNekp3ODM0ZllTQzJ6cUhfMlZhaDliTG15MHlINVVObFBCNTYycGUzbVdPbW9mTDYta0h0STNxTTA3QUFEZkxSZVFsYzZzd0Q0LVdRU0FDbm5CSGlvQm9iR0VLZGVOVmVlWjI1ai1TRlVWR2ZhajR1eDRGZjR2ZTFHNXVGUURhVmJZcW44bXhuZldjanNLNG1CMEU0d21ldXc?oc=5"
+        }
+      ]
+    },
     {
       "id": "62ff35321870",
       "title": "Gripe, Covid-19, pneumococo, VSR: como saber quais vacinas respiratórias tomar (e quando) - G1",
       "published": "2026-04-20T07:00:15+00:00",
-      "summary": "Gripe, Covid-19, pneumococo, VSR: como saber quais vacinas respiratórias tomar (e quando)&nbsp;&nbsp;G1Aumento de doenças respiratórias reforça necessidade de maior adesão às vacinas&nbsp;&nbsp;Prefeitura Municipal de Campos dos GoytacazesVacinas de até R$ 3 mil para doenças respiratórias&nbsp;&nbsp;Tribuna OnlinePlano de Enfrentamento às Síndromes Respiratórias lançado oficialmente em Campos&nbsp;&nbsp;Campos24Horas",
+      "summary": "Gripe, Covid-19, pneumococo, VSR: como saber quais vacinas respiratórias tomar (e quando)&nbsp;&nbsp;G1Aumento de doenças respiratórias reforça necessidade de maior adesão às vacinas&nbsp;&nbsp;Prefeitura Municipal de Campos dos GoytacazesPlano de Enfrentamento às Síndromes Respiratórias lançado oficialmente em Campos&nbsp;&nbsp;Campos 24 HorasVacinas de até R$ 3 mil para doenças respiratórias&nbsp;&nbsp;Tribuna Online",
       "sources": [
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSFJleXZiNEhzb3daWXppdkxPXzV4T01RZEhnZ01FX1Jra2RRaUktanRXUlplYjVwY0dBc3JPQnowcDUzSW9fWm8zS3lFWjdYTTBnNWxxWTgtN2FzSXRwQ1AxZjl0ckFRRmZjaUV6ZFpUck95bWhDd0xfazY2QkNIVEpUdWh3T0FmVG5FVkp0eHZ4cFRfNF95RlF0TzdHNW1sZ29zeVpFZm5MdmRLekItV0h0RnZLcGxlVURhZ1dMVzdNcWZ5U0ItLUhLcTdtRG5W0gHfAUFVX3lxTFBzT1ZraUpKbEtMc2tBQjE1MW1yeU1FNkdaS2c0aWMxQk53Rk1jOWFJWFVZVjMtTllSTXdNVGMyQXFZc0R2OG5TeDBra3UxUHJMdXFMZEZwODdEeDdwLUVobnVJbGg5bzZqT1VzYnBBZlNtTTNtbGZnSXRyb0t5b29ZeHZfMnpMbG1nNU5zRjZqSU0yeVlwbWtSUUpwWXoybVk2RXN1eXlqLXd3MFVHMDVCVEhNSzBFZVpkbzdDSlp5YmZ5ZS1GbjROUDNKbjVldVlZQWdpZU5KbFlJSVhibHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d931d14dd20a",
+      "title": "Nova descoberta pode transformar luz do Sol em combustível limpo do futuro - R7",
+      "published": "2026-04-20T05:09:55+00:00",
+      "summary": "Nova descoberta pode transformar luz do Sol em combustível limpo do futuro&nbsp;&nbsp;R7",
+      "sources": [
+        {
+          "name": "R7",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYmZOQUhiNkpERWZwNlBnUHZINzVSR2FYM2p4dEhjeWQ3OVlCT0hVemFpeVRTckdfenFseDM4VDZrYl96NXh0UDQxZmdzQlMxdmZReXBHRjV2V3dTdVlPQV9RbW1XV20yX05EZFlRYWxZVXpGcmtVNEd3eWJ6UE1aQ0pqeGdJX1I1WV9Tbm9nV2I4bmdqWndBWjZ1ZjRnYXA0dktpclkwWTJwMXFhNERPN3lpWEVSR3owQjlzQXFR?oc=5"
         }
       ]
     },
@@ -33,7 +81,7 @@
       "id": "4a85715025c0",
       "title": "Pesquisa no Japão usa terapia celular e apresenta resultados inéditos no tratamento do Parkinson - G1",
       "published": "2026-04-20T00:58:12+00:00",
-      "summary": "Pesquisa no Japão usa terapia celular e apresenta resultados inéditos no tratamento do Parkinson&nbsp;&nbsp;G1Notícias sobre novos tratamentos devem ser consideradas com prudência&nbsp;&nbsp;MedscapeTerapia com células-tronco para Parkinson ganha aprovação inédita no Japão&nbsp;&nbsp;VEJANovo tratamento que traz esperança para reduzir os sintomas de pacientes com Parkinson&nbsp;&nbsp;G1Japão aprova terapias com células-tronco e impulsiona corrida bilionária na saúde&nbsp;&nbsp;Times Brasil",
+      "summary": "Pesquisa no Japão usa terapia celular e apresenta resultados inéditos no tratamento do Parkinson&nbsp;&nbsp;G1Novo tratamento que traz esperança para reduzir os sintomas de pacientes com Parkinson&nbsp;&nbsp;G1Japão aprova terapias com células-tronco e impulsiona corrida bilionária na saúde&nbsp;&nbsp;Times BrasilNotícias sobre novos tratamentos devem ser consideradas com prudência&nbsp;&nbsp;MedscapeComo funciona o inovador tratamento com células-tronco para Parkinson aprovado no Japão&nbsp;&nb",
       "sources": [
         {
           "name": "G1",
@@ -102,6 +150,18 @@
       ]
     },
     {
+      "id": "199376d77c4b",
+      "title": "Anápolis entra em alerta por síndromes respiratórias e anuncia força-tarefa de vacinação - Portal 6",
+      "published": "2026-04-19T19:58:45+00:00",
+      "summary": "Anápolis entra em alerta por síndromes respiratórias e anuncia força-tarefa de vacinação&nbsp;&nbsp;Portal 6Influenza: confira oito locais de vacinação abertos neste domingo e no feriado em Goiânia&nbsp;&nbsp;G1Goiânia mantém vacinação no feriado para ampliar cobertura contra influenza&nbsp;&nbsp;Diário da ManhãCentro de Imunização com esquema especial nos feriados de Tiradentes e São Jorge&nbsp;&nbsp;Prefeitura Municipal de Campos dos GoytacazesMauá intensificará busca ativa por gestantes para ",
+      "sources": [
+        {
+          "name": "Portal 6",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV3RJMjEzenRsZGowTWVNemdmNl9YVzRqVlZUSFdZTEs4dmszbHRMWm1WRGd1c3BaWXZ2Vk9CaTdhT29LZUxVVWZ4bURIZlNxaEo5NU9LQnNkZEQtNnYxZzFuWGdmYkdITFdUTHpfSHo3cW9NdVhlSmV0M2d6dGRSaFA0OHAySndkWVZQVE1HelBLeEpUSjFySk9ZZU1PelI1VmpMeEtfVVFvTGFGaE1TNy1uQi1yQ3g3SXJnd3ZJbkI?oc=5"
+        }
+      ]
+    },
+    {
       "id": "041347c70d23",
       "title": "Endocrinologista diz como identificar a pré-diabetes e se há reversão - gmconline.com.br",
       "published": "2026-04-19T18:37:00+00:00",
@@ -126,13 +186,13 @@
       ]
     },
     {
-      "id": "f89319076e50",
-      "title": "‘Oscar da ciência’ é concedido a casal que desenvolveu terapia gênica que restaura visão perdida - O GLOBO",
+      "id": "bbc71f5e5877",
+      "title": "‘Oscar da ciência’ é concedido a casal que desenvolveu terapia gênica que restaura visão perdida - O Globo",
       "published": "2026-04-19T16:54:15+00:00",
-      "summary": "‘Oscar da ciência’ é concedido a casal que desenvolveu terapia gênica que restaura visão perdida&nbsp;&nbsp;O GLOBO",
+      "summary": "‘Oscar da ciência’ é concedido a casal que desenvolveu terapia gênica que restaura visão perdida&nbsp;&nbsp;O Globo",
       "sources": [
         {
-          "name": "O GLOBO",
+          "name": "O Globo",
           "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeFlNWGdlY3lrM09MMmF3OUhzejFNaWZERVhZRjlmV19aS1lkem9GVThwS0lYeFBCSlE4QWF2VmFMTHVmMjZFeURQZnBicjg5VnpJeGVSd3llOXZPN2oxd3JIUG5qc2pHWUtNSWdUQTNlV2gtVnhJZVBqM1BScm1VVDJIQzF0NTFLSGpzbHZMb2lLeTVYUk9FcllNV1Z6RDlWemp1OUxtT3drUGlELS05X3hxazUyblN5T2FFX192eVdUUTFqOS11V1VpSVRySktfY29VWENscEY5OXhTcElYSklRdVHSAfMBQVVfeXFMTzdURFR3QkExMEFobU9hS014bmRjYTJCdWYtLUZkRUd2OGVuT3Zob2VpYWVFODQ0Nk5sQzF5WUxxM2hsdUpWb2lhc3RaUTdpeW82VElXcHgwZzE3UUluVkd6NGhVMGJLeVZZSy1GSUY4SHZ2Skhqa0dZR3N3V1loV0RpUzFoaHQ5V1hpaTRSS2ZHbTRqWFo1elVyTHVYcnRBQmgyZnFkcHlJOVdianZNUjF4Vkg1Q2ZQZlUtZEhIOXBvdW9lY2xwWnU3QVNTUXpDZDJJQlNzVkxqb1BKN1RBWWNIc3hUU0xCNU41SUNxdFdod3lF?oc=5"
         }
       ]
@@ -158,6 +218,18 @@
         {
           "name": "Metrópoles",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qTjc3V2RyVkRTa2VBMVMzeXEtdlVHSzlZbEhia1ZUbnA0N21OTklwazRtSmhmOFdZZU1fLTc3alh1SFNxemR2VkxrZGxzbGJRQmplRkdUN2NTa2pqYkZpS1dBU3lST0s0eXo2RnBhWXo1Q1UzelRj?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ea04d80f6458",
+      "title": "Endocrinologista aponta 7 alimentos que os 60+ deveriam comer todo dia - Metrópoles",
+      "published": "2026-04-19T14:11:00+00:00",
+      "summary": "Endocrinologista aponta 7 alimentos que os 60+ deveriam comer todo dia&nbsp;&nbsp;Metrópoles5 fontes de cálcio de alta absorção para mulheres acima de 50 anos que querem preservar a densidade óssea&nbsp;&nbsp;Tua SaúdeNem só leite nem suplemento: o segredo para ter os ossos fortes pode estar na sua geladeira&nbsp;&nbsp;Portal UaiLongevidade: por que proteínas e cálcio se tornam ainda mais importantes após os 40 anos&nbsp;&nbsp;CartaCapitalSe não consomes estes alimentos, inclui-os na tua aliment",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ3BHT3Jkc3VTemZSdm9BOFplaFdQNEtGZU1iTUtCMjBBRGVaakI3eHgyX09jV1I3Q0NoSlFQTVdySW9XNzM3N0VrWk41WVVyN3pyN2pWbjNBQjZiLTFWNkdFWXRTVmx2M3dJWkdRdDRLeHgwVTJ3SmhfRVBzbmJoRTFLbUdZX1JuYVZMNVhYZlJsd2thRGN3ZDRSb3VMWFI0N2VsSGdxdXRsMGRWbGdsT0d4aDJHSjZvb3BkR25R?oc=5"
         }
       ]
     },
@@ -189,11 +261,23 @@
       "id": "a142fee2d4bf",
       "title": "Sono ruim pode estar ligado ao risco de doenças neurológicas, alerta médico - Assiscity",
       "published": "2026-04-19T13:34:59+00:00",
-      "summary": "Sono ruim pode estar ligado ao risco de doenças neurológicas, alerta médico&nbsp;&nbsp;AssiscityEspecialistas revelam quantas horas pessoas acima de 65 realmente deveriam dormir&nbsp;&nbsp;TNH1Rotina irregular de sono está ligada a infarto e AVC, diz pesquisa&nbsp;&nbsp;Universal.orgSono irregular aumenta risco cardiovascular, aponta estudo&nbsp;&nbsp;Valor EconômicoDormir em certos horários pode prejudicar o seu coração, aponta estudo&nbsp;&nbsp;Diário do Comércio",
+      "summary": "Sono ruim pode estar ligado ao risco de doenças neurológicas, alerta médico&nbsp;&nbsp;AssiscityEstudos indicam que 1 a cada 5 acidentes graves ocorrem devido ao sono&nbsp;&nbsp;G1Especialistas revelam quantas horas pessoas acima de 65 realmente deveriam dormir&nbsp;&nbsp;TNH1Por que você perde o foco após uma noite mal dormida&nbsp;&nbsp;Fast Company BrasilRotina irregular de sono está ligada a infarto e AVC, diz pesquisa&nbsp;&nbsp;Universal.org",
       "sources": [
         {
           "name": "Assiscity",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMTNDUk5WSWZrNExsQUZIcHY1bGRJRE82SGpBcWplRnF0N0VjQmRtSmFDWV95dXUzR0JyMmI1a1hidHNTNmRCVFdHT29rdEp1ZW9ZcUZxOGw0WUV2ZTNfb0VHZkdFTXBtczQwSnZBNGZvVl9uRzBydzdoeFpsWXU5ZG0yNDk0SnlHM0VKaVpoN1lra3lnOTlxWS02MjNDNjMtYUsw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1892dcd512d7",
+      "title": "Corrente atlântica vital para o clima pode enfraquecer mais do que o esperado, aponta estudo - Folha de S.Paulo",
+      "published": "2026-04-19T13:00:00+00:00",
+      "summary": "Corrente atlântica vital para o clima pode enfraquecer mais do que o esperado, aponta estudo&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUk0zLXR5YWMyNnFPQTRZeEdEZHRHWTl0OWpwZGJBTXJPRF9Da3duQkZ6TTFwUk9OcGYtUC05a19pZV9mTUt4T3JNVC1tQnJNRzQ0M29xeG5lWW5BeXBUcThXTlVjNXFDaUYwbTNKSFFNVG02cGo2aG9yUDBmU2FQZzNQX0hvRmV5MUxpcmh0Tm9IbUlvRDQ1RWw2VVFuQmdZUURvLTI2Q1NIMk8tZlgxeGV6UEhWZ2VGeGRGbHNacXFlYWt1OVY1UFdZendzS2NRbGJrRDhUSC0yXzZw0gHiAUFVX3lxTE1ISlhyYW1oaDBRVUMxdzhjN1hwQkE5NnVYc19BNEE1NTJkTElKZWtEOTZnMFhQbnpIM1RyQ1l1ZE5ReHRGa016eVhhZVZrNG1uekVVZjJUZlVzWlA4VEwzY2pPSlV4TVNRSFpvZ1dDaW9nX0thN2xBcFBmTElmVmVsSGFEV3duMWFHN3FtV2ZBQ1Q4NjBoMVpQNV9fQXhoZGFscHh3MHVzV3ZjWTd3ZEdtUHc1VWFsa0phaW9PakEzbURDZVJLWWljMEdTeFNHRE14LThpdERMcU9SUXdWd01MTUE?oc=5"
         }
       ]
     },
@@ -206,6 +290,18 @@
         {
           "name": "Exame",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdGxNUjYzdzBRb0xyMFR5NVEzemVFNjhtUzhzQzdxSWdaV0hfSWwzekNBMG1ZYWphY1dreFMwb2xpOExUc05QaVZ4ZVk5eF81NHJvdTB5Zzk0QmdhZ1lTbkRwNU9HcW94VGRtWkpGM2laeWtWcXFhNFRyVElMYXJqQWZrUDc3eFJZT2VJVlMtTHBURzJJSVB2am5nTnBkV25MVXNHWU1B?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "95b766c57f69",
+      "title": "Práticas ancestrais melhoram saúde com base científica - Revista Fórum",
+      "published": "2026-04-19T12:20:32+00:00",
+      "summary": "Práticas ancestrais melhoram saúde com base científica&nbsp;&nbsp;Revista Fórum",
+      "sources": [
+        {
+          "name": "Revista Fórum",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMkwtNkkwV1pzWTBDSy1qQm5OaUZCTmM2TzFRbGJNVlNROEFlU3pRdUNpSjFOc2hOU2NOYXd3aWstemczbzdhTERjbDZwV3FyR183QUxFN1pYU1NyNV9Zck41SDhCRHV1WUJzQkRDTUxVTk1yT0RscnhQRnRjQ1U1UVR3X05mQURtSXBxNGk3ZTBRU3E1bGc?oc=5"
         }
       ]
     },
@@ -225,7 +321,7 @@
       "id": "83061acaea2f",
       "title": "Por que o câncer ainda é descoberto em estágio avançado? Veja o que não ignorar - Folha Vitória",
       "published": "2026-04-19T11:00:00+00:00",
-      "summary": "Por que o câncer ainda é descoberto em estágio avançado? Veja o que não ignorar&nbsp;&nbsp;Folha VitóriaOpinião | Se eu tivesse câncer hoje, me trataria no Brasil&nbsp;&nbsp;Estadão9 coisas que comprovadamente ajudam a reduzir o risco de câncer&nbsp;&nbsp;UOLBrasil tem 700 mil novos casos de câncer: 40% podem ser evitados&nbsp;&nbsp;band.com.brAté 50% dos casos de câncer podem ser prevenidos, aponta OMS&nbsp;&nbsp;Visor Notícias",
+      "summary": "Por que o câncer ainda é descoberto em estágio avançado? Veja o que não ignorar&nbsp;&nbsp;Folha Vitória9 coisas que comprovadamente ajudam a reduzir o risco de câncer&nbsp;&nbsp;UOLOpinião | Se eu tivesse câncer hoje, me trataria no Brasil&nbsp;&nbsp;EstadãoAté 50% dos casos de câncer podem ser prevenidos, aponta OMS&nbsp;&nbsp;Visor NotíciasBrasil registra mais de 700 mil novos casos de câncer por ano; cerca de 40% podem ser prevenidos&nbsp;&nbsp;sb24horas",
       "sources": [
         {
           "name": "Folha Vitória",
@@ -249,7 +345,7 @@
       "id": "bce713e9e644",
       "title": "Canetas emagrecedoras podem causar desnutrição? Leite é grande aliado - CNN Brasil",
       "published": "2026-04-19T07:30:27+00:00",
-      "summary": "Canetas emagrecedoras podem causar desnutrição? Leite é grande aliado&nbsp;&nbsp;CNN BrasilOzempic: pesquisadores identificam novos efeitos colaterais dessa classe de medicamentos&nbsp;&nbsp;O GLOBOEstudo indica que a semaglutida pode preservar melhor a massa magra do que a tirzepatida&nbsp;&nbsp;Folha de S.PauloOs perigos do emagrecimento sem estratégia&nbsp;&nbsp;Diário do NordesteRedução do apetite exige ajustes nutricionais&nbsp;&nbsp;O POVO+",
+      "summary": "Canetas emagrecedoras podem causar desnutrição? Leite é grande aliado&nbsp;&nbsp;CNN BrasilOzempic: pesquisadores identificam novos efeitos colaterais dessa classe de medicamentos&nbsp;&nbsp;O GloboEstudo indica que a semaglutida pode preservar melhor a massa magra do que a tirzepatida&nbsp;&nbsp;Folha de S.PauloOs perigos do emagrecimento sem estratégia&nbsp;&nbsp;Diário do NordesteRedução do apetite exige ajustes nutricionais&nbsp;&nbsp;O POVO+",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -273,23 +369,11 @@
       "id": "c8cd3769a36b",
       "title": "Gripe: Variante K e emergência em Goiás acendem alerta sanitário no DF - Correio Braziliense",
       "published": "2026-04-19T07:00:00+00:00",
-      "summary": "Gripe: Variante K e emergência em Goiás acendem alerta sanitário no DF&nbsp;&nbsp;Correio BrazilienseAdolescente de 17 anos morre no DF após contrair vírus da gripe K&nbsp;&nbsp;MetrópolesCOMUNICADO OFICIAL&nbsp;&nbsp;Prefeitura Municipal de ItumbiaraAdolescente morre no DF após contrair vírus da 'Gripe K'&nbsp;&nbsp;CBNGripe K: “Não há evidências de aumento da gravidade”, diz secretário&nbsp;&nbsp;F5 News",
+      "summary": "Gripe: Variante K e emergência em Goiás acendem alerta sanitário no DF&nbsp;&nbsp;Correio BrazilienseAdolescente morre no DF após contrair vírus da 'Gripe K'&nbsp;&nbsp;CBNGripe K: com um óbito registrado, DF tem outros 5 casos. Veja sintomas&nbsp;&nbsp;MetrópolesGripe K: “Não há evidências de aumento da gravidade”, diz secretário&nbsp;&nbsp;F5 NewsCOMUNICADO OFICIAL&nbsp;&nbsp;Prefeitura Municipal de Itumbiara",
       "sources": [
         {
           "name": "Correio Braziliense",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQUxWckg2SVNVOXdfYi1FcG9zWmk5MVBjbld3bjhNZ1hGZVN1MHV2T1FTUnQ5Sk5xcEFQTG1vbzlXTV90cUFQTTVMUUwtSmpTZGRXYll5NFM1ZmJWRmRiRUZYalRIMnRyMVVEd3N0eHhXQjBXNFV4SkNhNU8yTHhDeVZwRTkyNHkya3JkVFlVRFhEQUhqekpiSHc2TU1rcjNzRUNEVC0xNkpZZk4wNG01bVJGbWxnRmtjcnh0WjZFUzdtWmfSAcgBQVVfeXFMUHdzWFFYS1RveDZxLVZwbEVSWUZPN1loU01IdXhxejhGTkRJXzREdzFWZXI4UWVVVzBQZWNwOXdZOFlLd3ItVnF5Vm9lOG5nLTgwcU5iLWdQRVdzOXhPVVlEQTV2QzFVLWszdkphUnV0aHhCUllwekMxbUlHdWNidjZPd0ZyQVlaQ0tUYjVWaTBla3JKNHAyZS1Uand0d0x4cnVxVDJudnMybVNRLVc3UTlSY2VGc0g0R1MxN3dRZjJjb3BWVS1DTTI?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "409362235250",
-      "title": "Colapso de correntes do oceano Atlântico ameaça clima global, dizem novos estudos - R7",
-      "published": "2026-04-19T05:00:00+00:00",
-      "summary": "Colapso de correntes do oceano Atlântico ameaça clima global, dizem novos estudos&nbsp;&nbsp;R7",
-      "sources": [
-        {
-          "name": "R7",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVElaSGxCcGhWaldyRHhsZU1Wd0lPb0w4cWMtSzVsVWVQaDhKMjFZdFoyVkFsZ0pTc2xESmk2bng1MnJ0YTc3aXRpVTd6YkthaUMzSkw4a05XQVRzcDVuT1NRbFFnazA2UDdYa19tYU0tVC1YSVkzR2VPX19fZ0doT1pELW9YaEwxb3ZBZzlPT1ZQQndCNkJzYlFFd2xia2pleUowa0wwSDhSaXRRVzVOX01TeDRFUXFsRVNSTlFhcEhUYWdtbHFzWnpGT0U5Z1NBdVZN?oc=5"
         }
       ]
     },
@@ -302,18 +386,6 @@
         {
           "name": "R7",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcFhWME1qVlViXzNtQjFqc3pjbnMyeXZqaElSY2RHcm1tVkw2SE8tZUMtdnB0N1hfVF93VlpjdVdNZjJwMEUxRVBEYVhzTE1STmxwNGw0STN2T0w1Q1RCb0ZuYXo1TnZLOXBPZHFuMG9WQlotdklSREJKdnRXZTRycFRHZ0k3MGVVaEVaZTQwRkt4c2w2M2VCZndwbkRISlltcXRaREFqd1hucUtwYzZJZUQ1WFg4clNFbnhDcjBlRQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "faf2e97b6795",
-      "title": "A decisão de plantar comida há 10 mil anos custou caro para o corpo humano e agora Harvard provou que essa escolha alterou centenas de genes e deixou marcas que ainda causam doenças modernas - CPG Click Petróleo e Gás",
-      "published": "2026-04-19T03:22:00+00:00",
-      "summary": "A decisão de plantar comida há 10 mil anos custou caro para o corpo humano e agora Harvard provou que essa escolha alterou centenas de genes e deixou marcas que ainda causam doenças modernas&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNajN3UmhzR1l3TG9oSVV0S09GZTRVaVFxaERqNlhnSzZ1VjBsVUY3SzNvUXpvQno1cWFJaWdxcmJDU2lsTDI4bGpkVGFqX0RjOUJuc1RYWjlCVmJ0YmxCVjZRMWdCSUJweTVlZXNtUnVaVjdaSHVJTkdDQ0lYV2VIdUFRbm1EaEFFaXJkeTA1UzlkUkEtRE1jNDRFQWpmelhQTkJkSl9vTFVDMmhhckp3cEo1Uml0UTFsbC14NXEzOWU5QTQ2WUF2VTBRRjBSWEJONWR4TmpOVk5yZm1TbUo2OGg2QTF5RmZoMUV2NndSYzZQVVgyR0NtVm5qXzRfR1hzaTRPU1A3dUdYRFpy?oc=5"
         }
       ]
     },
@@ -342,18 +414,6 @@
       ]
     },
     {
-      "id": "b4a2ae517a34",
-      "title": "Gastroenterologistas explicam se é possível desinflamar o intestino - Metrópoles",
-      "published": "2026-04-18T20:48:22+00:00",
-      "summary": "Gastroenterologistas explicam se é possível desinflamar o intestino&nbsp;&nbsp;Metrópoles\"Ouro branco\": 3 alimentos naturais ideais para regenerar a flora intestinal e fortalecer as defesas&nbsp;&nbsp;Tua SaúdeColoproctologista cita alimentos que ajudam a desinflamar o intestino&nbsp;&nbsp;MetrópolesColoproctologista aponta como desinflamar o intestino de forma natural&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1zOGlldjNmeXo2VDJ6dmc1akNhNGlXalVPNUdsUS1BQWMxWUpTMm53azh2bkFtMTFzRE1XU211ZWdlTmU1MFNQSVNIbUM1OU5ZSTdjc0FrOXFDQWRNUzI5NENINXg5WTJ1dEZ0Q1d2dzhUZzU5WWE0SER4UQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0d1b6e9cea73",
       "title": "A cirurgia que marcou a história dos procedimentos cardíacos no ES - A Gazeta",
       "published": "2026-04-18T20:30:00+00:00",
@@ -369,7 +429,7 @@
       "id": "acc2da8e6177",
       "title": "Médica do sono lista 9 hábitos eficazes que ajudam a dormir bem - Metrópoles",
       "published": "2026-04-18T19:45:00+00:00",
-      "summary": "Médica do sono lista 9 hábitos eficazes que ajudam a dormir bem&nbsp;&nbsp;MetrópolesConheça os três segredos para dormir bem à noite, segundo especialista&nbsp;&nbsp;ICL NotíciasDormir com luz acesa ou no escuro total: o que os especialistas recomendam para proteger o sono e evitar o ganho de peso&nbsp;&nbsp;Tua SaúdeVocê está a menos de R$ 100 de dormir melhor&nbsp;&nbsp;Revista Ana MariaComo obter um sono de qualidade, começando pela manhã&nbsp;&nbsp;obusilis.com.br",
+      "summary": "Médica do sono lista 9 hábitos eficazes que ajudam a dormir bem&nbsp;&nbsp;MetrópolesConheça os três segredos para dormir bem à noite, segundo especialista&nbsp;&nbsp;ICL NotíciasVocê está a menos de R$ 100 de dormir melhor&nbsp;&nbsp;Revista Ana MariaComo obter um sono de qualidade, começando pela manhã&nbsp;&nbsp;obusilis.com.brInsônia afeta saúde e pode indicar ansiedade, alerta médico&nbsp;&nbsp;Rádio Itatiaia",
       "sources": [
         {
           "name": "Metrópoles",
@@ -378,26 +438,14 @@
       ]
     },
     {
-      "id": "8c63bbff4c05",
-      "title": "Eliminar o trigo pode levar à perda de peso? Estudo descobre que a própria farinha pode causar ganho de gordura - O GLOBO",
+      "id": "2ec4e56cd949",
+      "title": "Eliminar o trigo pode levar à perda de peso? Estudo descobre que a própria farinha pode causar ganho de gordura - O Globo",
       "published": "2026-04-18T17:49:18+00:00",
-      "summary": "Eliminar o trigo pode levar à perda de peso? Estudo descobre que a própria farinha pode causar ganho de gordura&nbsp;&nbsp;O GLOBOComer pão pode engordar mesmo sem exagerar no consumo de calorias&nbsp;&nbsp;MetrópolesO pão engorda (mesmo que não o coma em excesso)&nbsp;&nbsp;ZAP NotíciasComer pão engorda? Saiba o que a ciência diz&nbsp;&nbsp;O TEMPOOs cientistas descobriram por que o pão pode causar ganho de peso sem calorias extras&nbsp;&nbsp;segundabase.com.br",
+      "summary": "Eliminar o trigo pode levar à perda de peso? Estudo descobre que a própria farinha pode causar ganho de gordura&nbsp;&nbsp;O GloboO pão engorda (mesmo que não o coma em excesso)&nbsp;&nbsp;ZAP NotíciasComer pão pode engordar mesmo sem exagerar no consumo de calorias&nbsp;&nbsp;MetrópolesComer pão engorda? Saiba o que a ciência diz&nbsp;&nbsp;O TEMPOOs cientistas descobriram por que o pão pode causar ganho de peso sem calorias extras&nbsp;&nbsp;segundabase.com.br",
       "sources": [
         {
-          "name": "O GLOBO",
+          "name": "O Globo",
           "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQS0dBbDB0cXhzems0ZjJNTzBiS3NTUzFxbW5CNjlNV3hHb0VtRFJVVHM1cEN6MU1GNnJCQ252UENHNzVCblhEX2k5OXAxSXRILUJESnJkNXd1MjBXUUlTbk1ISHBMbGRBajVGVkdaSG9rZ05nWUVzQnpXMFQ5OWpCZzhDNVZfYk9pUkhUalBaakNHUGJmX09iX0hqTF9XWEhJQzRra0Q4QW9KemZGNi1PaGU4cW9tS0otTVR2WEt0T2VPamdXZ3BGQmZGcGtnYnpZbUFKRU9fQXBoMkprSmxLNVJtSmFCMVBWVFZERFJ3WjBKcmRxUkhqZ1NR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "53ffbb4e5bd2",
-      "title": "Governo de SP reforça o chamado para vacinação contra gripe - Portal iG",
-      "published": "2026-04-18T17:26:00+00:00",
-      "summary": "Governo de SP reforça o chamado para vacinação contra gripe&nbsp;&nbsp;Portal iGVacinação da gripe em São Paulo vai até 30 de maio | Brasil&nbsp;&nbsp;Valor EconômicoCampanha contra a gripe em São Bernardo imuniza 48% a mais de pessoas do que em 2025&nbsp;&nbsp;Diário do Grande ABCEstratégia de Vacinação contra a Influenza 2026&nbsp;&nbsp;Prefeitura de São PauloImunização contra a gripe já aplicou 2,5 milhões de doses&nbsp;&nbsp;Portal ABC do ABC",
-      "sources": [
-        {
-          "name": "Portal iG",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaXNfMGZfQW9BQUNfaURicjl4UWZTd192UDVYU0N3LU0yLWlmTmpjS0p1NkpJTHUxY003VEhSWXlrS2ZSSERsaFM0RnJvQXc5ZWhQMElhSS01UGxSeFJtWXJlRVlpT3RldmUxLVdOMGVjMW1Db19LS25lbDk3NEFjcWRKRGRwRHlBNDZabTFEeTRMYS12aENOYkpiaDhBV1BsMzZQNXNsbWlUT03SAbABQVVfeXFMUDQzYVhrNmx1Q29BMWdqQlB5cGs3cWpaN0lHMW1LTi1RQmlGd3gxeURGdk15WHdaaTI1N3BOTGdEc3lvWXp1RDFRYy1SM0prTnpKRnNJYWFmR2dQNGhUaFJtQVdxazdoWTllbXFyb1JTUHJCYmVzaVN0QWJzTWdaVHplcUJpc0xjQ0tfNEFUR2gtU3kyLUphUmI2TktWUGRpVHlJWjRIRU9WZTBHWmtEUFQ?oc=5"
         }
       ]
     },
@@ -438,26 +486,14 @@
       ]
     },
     {
-      "id": "2d13486c8f35",
-      "title": "Trump assina decreto para flexibilizar pesquisas com drogas psicodélicas; entenda - ISTOÉ DINHEIRO",
-      "published": "2026-04-18T16:06:00+00:00",
-      "summary": "Trump assina decreto para flexibilizar pesquisas com drogas psicodélicas; entenda&nbsp;&nbsp;ISTOÉ DINHEIRO",
+      "id": "9eb9cb1bfbea",
+      "title": "Coloproctologista cita alimentos que ajudam a desinflamar o intestino - Metrópoles",
+      "published": "2026-04-18T15:20:00+00:00",
+      "summary": "Coloproctologista cita alimentos que ajudam a desinflamar o intestino&nbsp;&nbsp;MetrópolesColoproctologista aponta os alimentos que mais irritam o intestino&nbsp;&nbsp;Metrópoles\"Ouro branco\": 3 alimentos naturais ideais para regenerar a flora intestinal e fortalecer as defesas&nbsp;&nbsp;Tua SaúdeGastroenterologistas explicam se é possível desinflamar o intestino&nbsp;&nbsp;MetrópolesColoproctologista aponta como desinflamar o intestino de forma natural&nbsp;&nbsp;Metrópoles",
       "sources": [
         {
-          "name": "ISTOÉ DINHEIRO",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaXlDMVF3VUVpRFp3cGw5cGJPZDRHNmxKYy1kaWF1cnRYNjN5cUFIMW1ETC1EUXQxR2gtMXQ3ZWlTenhYdXJleXV4VzFJRVdnaUdxeHh0d0NPVlBFeEhuRExQVE42cWtRY1RDZ1RLUzFsb0pyTXIwZWtsMUFSQ3VEd1phV0ZDYWd0eWNUUzVqVG5kd0dGLXBnaWlwTmJtMzBIdzRZ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bf0bc6f7e0b3",
-      "title": "Aveia nutre o intestino, mantém a glicemia saudável e faz bem ao coração - Folha de S.Paulo",
-      "published": "2026-04-18T15:00:00+00:00",
-      "summary": "Aveia nutre o intestino, mantém a glicemia saudável e faz bem ao coração&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNelZUdDUzVl90WTJ2aEZlQmNBWUg3bG5Wdm5jXzBRQ2hMNzdJTjVTemVNVzRBQWExZFRCRjNZa1Q0cHpSVHQwMnByVnFJV0lOMmI1bWkyOUpPS3czZ0c4c1o4VjdCcTdEUEFocy01eWM5QnF6QXlJdExvQUhHSXhSRDgyYnZNLVpnaEdteG9EN0ZPWnpOcnVfcXItcEN5LVNnRzUzNzBmVUhWMno3VDBxM3FPMjBKUDd1SzRvM3VGMkE0MTY30gHKAUFVX3lxTE1KRm8wOF95d0N5WEdjMFJuTEtaR0FnakxwbmEwWGhEdWJNaUNIWi1tUDNab1pHQUNfSll2V1pYSnZXUFZFdTkxb1l6cU85TGh2UnctV0Nhc1RGLXFUYV91X0ZxeGE0NHhtVVhFNnRLOUI5U2gzY2NtRTVRRjU2RGVHeGxzeUluSEU1RDRQeUdTNVN4ajNxQ3JmalMtd0JEbjN1NHp3bFRPTnoxWDFOVE1OUlVXdXF4MFlNM3R0VFZEazNnMUhJbl8wQ0E?oc=5"
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdm8tdDVsckd5YkUwc1o2MnY1bm1TQ08xdkk1eThmaks3aFdKV1BxdjRtM2YxU1Mxby1zRTZzU2l1M2JaX1VxUlk3bUlON09tOTdvalkwb05RTURxbHFITXpQN0hKQ2hCRExFS3R2dmhZbFJiZUwtX3lvRVFJRzdnWVN0b21kWWdKX3BIMmx4S3BjcXVVbFVuZm40V1o4RkwxdVpvRGc0bm1EYVJzTFhRdDJVbDdJN2FTQTVCQjN3?oc=5"
         }
       ]
     },
@@ -482,66 +518,6 @@
         {
           "name": "BBC",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1TNmFhXzBHUjRLNGVoRFZ2ZHZFYjE3MVZ6dzJ4WUJqN25uV283R1ZlekQtTzFQRU52VmNGemF2cHdfSXJkMlhJOTFpa0JlaEFtdmZYendvejZQNmpLdnc0QUx30gFnQVVfeXFMTzZVejhvbXJsb243T1cwM1ZOQUt1N2cybUdmU3daSTNpaEwyUGRfaUhyeXRaWlNrZjJjV3JlVWJKVlVFaERuNi1QbXpYZE0ycFVoOUtnOEdCcW8wREJJa0trZmRHTWgtYw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bcbe1c102ecd",
-      "title": "Pesquisas em reator nuclear da USP serão feitas temporariamente em BH - Hoje em Dia",
-      "published": "2026-04-18T12:21:00+00:00",
-      "summary": "Pesquisas em reator nuclear da USP serão feitas temporariamente em BH&nbsp;&nbsp;Hoje em Dia",
-      "sources": [
-        {
-          "name": "Hoje em Dia",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVEJTbG9QVVFFWkVjSEZhMWtJZnQ4Nk4zVmx5VlZZWXlucTZBV3VCLUFBQ2xTc2V5dmFUbkdiTm12YVMzOVk3WTV5bFpFTTBFeDlwZmJwR0lKM0FnOE5WYl9hYnBRRVVjNXdWWV9PSXRINXAteFhrMWFLOVBVc2VPU0FpQ19LeENtdWJOSmt0aVNsUXAzeUNfVmpPZmlNbk9qZWV6clBpRkFjMG1rQzZfQ3pNMFI?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4721c4e77bc9",
-      "title": "Estudo mostra que crescimento dos neandertais era diferente do nosso: corpo primeiro, cérebro depois - Xataka Brasil",
-      "published": "2026-04-18T12:16:54+00:00",
-      "summary": "Estudo mostra que crescimento dos neandertais era diferente do nosso: corpo primeiro, cérebro depois&nbsp;&nbsp;Xataka Brasil",
-      "sources": [
-        {
-          "name": "Xataka Brasil",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVU1BT3k1RTQzYjY1TFd5QlhVb3pCNm1RTVYyUFBtMDhtUHYxOWRUOGM5OXpQdzhNcWQzbXA2dUJzeDVwRWM2anYtQ2FwYmROZjNRQUtpbWZveTNiOWFFZ1NaM09fcEJudUhoYmhLaXl1cVNFemNJdEFBNXZvUGVOaHJuZEttTDEySzh5RlNIc05ZeHZhclEtY2lVQ0RLbk1UN1VDaTdVQlBOa2lVSC1NUzZVRWxOcm5zTDh0bEd6NzIzVEw5RXBFNEN5LWo?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ac951d794752",
-      "title": "Gordura no fígado: entenda os principais sinais silenciosos e como tratar - A Gazeta",
-      "published": "2026-04-18T11:01:00+00:00",
-      "summary": "Gordura no fígado: entenda os principais sinais silenciosos e como tratar&nbsp;&nbsp;A GazetaA doença que não dá sintomas, pode até matar e já afeta mais de 1 bilhão de pessoas&nbsp;&nbsp;Veja SaúdeDoenças hepáticas: silêncio, estigma e alta mortalidade&nbsp;&nbsp;O TEMPOFígado: a importância da conscientização sobre o órgão&nbsp;&nbsp;Estado de MinasHábitos simples, fígado mais forte&nbsp;&nbsp;A voz do Algarve",
-      "sources": [
-        {
-          "name": "A Gazeta",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQVp2bFhHSkhjbUUyLVdieGFlUnAycVJWMG1QN0puV3Z3dkRxTFk1aWsyU2NqYUJZSEp6djBUNl9IUU96YWFBQlhLV0tPRnFUQXE0OE9YVGRnRUNhNUh3TnNKV04xUGZheU8wbGRhQlNNeHhOeFJiQmRISVpuUG9tOWt4SnhhWGtmWHZYVjFuQzVNenQwLUc3a042NW9CMjN2RG1SVDlFT1ZBTi1ZcjdaeXlISQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5ad841e6eb7b",
-      "title": "Uma minhoca siberiana ficou congelada desde a era dos neandertais e, ao ser descongelada em laboratório, simplesmente voltou à vida - Revista Oeste",
-      "published": "2026-04-18T10:55:00+00:00",
-      "summary": "Uma minhoca siberiana ficou congelada desde a era dos neandertais e, ao ser descongelada em laboratório, simplesmente voltou à vida&nbsp;&nbsp;Revista Oeste",
-      "sources": [
-        {
-          "name": "Revista Oeste",
-          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNeUVYQ2lwTFhMSVJIaFhyUG9ScnlJYk1fZXRFWjVXX0g2VEF2TzMxUWJQNkQ0VVExSk44TnNqMU5lU3dBUEJJSXFHR1JyYWtURmJzWlk5T1d2YWlHWlN5bmxMWDBoMlQ2Y0FpR2NkM3ZQcHNJLVVEUU9fN01FLTVKb1pSZE01NXh5NlBSc0hVMVZlN3c0c3pXOXQ1VC1KM2hZZ0t3ckVMd2hDMWpQc21uQUFIbVJyeDBWRWZPR3J2bElxX05jak1pbDd3enJXMzMxOGtGX25weEN3MHNyR0tMQmVZVWd6WDY0UEo3d2dnU1ZhTlhCQk1vX1o0SkdEWENmT0gzZ2duWlI?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3362b8d410ee",
-      "title": "Galvão Bueno pede orações para Luis Roberto após diagnóstico - iG Gente",
-      "published": "2026-04-18T08:30:00+00:00",
-      "summary": "Galvão Bueno pede orações para Luis Roberto após diagnóstico&nbsp;&nbsp;iG GenteGalvão Bueno mostra apoio a Luis Roberto e abre o jogo sobre sucessão na TV Globo: \"Mérito total dele\"&nbsp;&nbsp;GZHLuís Roberto inicia tratamento após diagnóstico de neoplasia: 'Vencemos'&nbsp;&nbsp;UOLLuis Roberto inicia tratamento contra tumor que o tirou das transmissões da Copa: ’Dia 01, vencemos’&nbsp;&nbsp;EstadãoComo é o tratamento da neoplasia, doença que afastou o narrador Luis Roberto da TV Globo&nbsp;&nb",
-      "sources": [
-        {
-          "name": "iG Gente",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc1BLNFg2V1RfZjFsdTRXMHo0OXBEaWpHQXFkNHk1azB3UDVlRUZYeHplaW9uZ3dtR1JTZ1pmR0w4aXF1OU0ySjN3bjdPMmxWb1RvZmpsNGQ1WGZSUUtodk02amIzeEFWYTAwMS1WY1FjMUd0NXNFSGhpMGNLTzFXQlNELTFrd1p6UTU1XzZsaDRJd0hKdjBTMl9Fd0ZTYTRyc3lCS1laTFBLZHRoVXcxRjN0ZGVoQnRuWW1sY3lUdmZZcnZobFow0gHMAUFVX3lxTFBER091azZGZEItMDdKMmU5SEpaQjdrbmdvZFlDMHJ1aGxvSjFjSjRfLW9mdEJVTFlxZkZ4VmZ4dG44Zms5QTVqc1N4WFZQd2RkWWVpVHdXaXRzVkk0Y1NDTXU1WWpwOVB2VXlrMnFuS0ZLelR1SEZfVXBpV2RvRmZMNU9JeWJCLXo3Nm5DdXJwTnNfbXNFSDJyQVZyNC1BcXZBWGJkSUpHM1ZkblpYZTROTEJVeDdneUFKdndPS3JXUHg3RTdDaDhvQVlrWQ?oc=5"
         }
       ]
     }
