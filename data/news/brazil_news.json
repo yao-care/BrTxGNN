@@ -1,10 +1,22 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-04-22T02:46:58.677294+00:00",
-  "total_fetched": 91,
-  "unique_count": 90,
-  "health_related_count": 37,
+  "fetched_at": "2026-04-22T07:52:19.192564+00:00",
+  "total_fetched": 89,
+  "unique_count": 88,
+  "health_related_count": 39,
   "news": [
+    {
+      "id": "e562b1ccdd6f",
+      "title": "Faz bem comer ovo todos os dias? O que a ciência diz sobre o colesterol alimentar e os efeitos no sistema cardiovascular - Tua Saúde",
+      "published": "2026-04-22T05:30:00+00:00",
+      "summary": "Faz bem comer ovo todos os dias? O que a ciência diz sobre o colesterol alimentar e os efeitos no sistema cardiovascular&nbsp;&nbsp;Tua Saúde",
+      "sources": [
+        {
+          "name": "Tua Saúde",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQm15YjQxZDA2d3ljVUtyR0JkeE5DYjJpR2ZPYmJhcUlmem53T2NzU2d4SGVWdWs0c0phWlVFU2pySmJDWlZNWThDMFpCY1VsRmNyamJ3VmE4bDVIYnBjdFdjRW5XRi1Pb0RENUhMTnlaY2R6dlY2cjFxTlZZamFQcV9QbGZZT3ppMzRxSzVUMEsyeVp1SnlPcFFwd2ZmanVuZUZLV2t1UnE5bzNIdzFZaUNTQzdzZ0Zab3NhWlhEazB3bjdiNjNsaWFJRkFqX1hyU1REU0hrQmNMeFBVa3JPN0pFRllKZXllLXdPTXpFSWxwdWM?oc=5"
+        }
+      ]
+    },
     {
       "id": "cebb94290ef0",
       "title": "Caranguejo: estudo inédito revela origem da caminhada lateral do animal - CNN Brasil",
@@ -42,18 +54,6 @@
       ]
     },
     {
-      "id": "783007676263",
-      "title": "OMS acende alerta global para ameaça invisível que pode se acumular dentro de casas e escolas sem cheiro, sem cor e sem qualquer sinal de perigo, já associada a até 14% dos casos de câncer de pulmão em alguns países, e que poucos sabem que se tr - CPG Click Petróleo e Gás",
-      "published": "2026-04-21T20:12:00+00:00",
-      "summary": "OMS acende alerta global para ameaça invisível que pode se acumular dentro de casas e escolas sem cheiro, sem cor e sem qualquer sinal de perigo, já associada a até 14% dos casos de câncer de pulmão em alguns países, e que poucos sabem que se tr&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQNWFmMFFoWW44cHU5YlZwNi0ydzZPNXZsYkltb0NKcERzT2l3R25sbG9vTTR1Xy1QLWgwVWExdy1hYkdWR2RMbEMtcm14aUZfeU9sNFNZb2NlQkdjSnZtaUZpcDg1QmRaaG9WVVkxWUhzY0FzOXdmbVUxd2w1YXk5eEVMR3J0SC11S1pTeWprbVpUUExHdFVQUGZPejBsMmNkZU9kUnBieEF6WDVKcEF3T1dYTjE2RldUYVdwLUhVay1VaUNtTUV2ZnBacnFERWNlNmVvSjFiWmxHWlpuLWExcXpreWRVZjYzU0RmMjFILVljT2pzRGxQTVJMVEExWnBtekJmYkZNcGNKbTNIMkxvUA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "51e0e1c87fb8",
       "title": "A NASA observa a Argentina a partir da Estação Espacial Internacional e detecta um enorme coração rosa com quase 10 quilômetros de largura, cuja cor não tem uma origem tão romântica quanto parece - Catraca Livre",
       "published": "2026-04-21T19:18:00+00:00",
@@ -78,6 +78,18 @@
       ]
     },
     {
+      "id": "db0bfc332317",
+      "title": "Infarto em jovens: caso da Miss Paraná reacende alerta - Correio do Povo",
+      "published": "2026-04-21T18:38:35+00:00",
+      "summary": "Infarto em jovens: caso da Miss Paraná reacende alerta&nbsp;&nbsp;Correio do PovoEstilo de vida pode aumentar risco cardíaco em jovens; veja como prevenir&nbsp;&nbsp;D24AMOs risco de infarto em jovens&nbsp;&nbsp;Votuporanga TudoPor que vemos cada vez mais jovens morrendo por problemas cardíacos?&nbsp;&nbsp;Novo MomentoCardiologista explica sobre o infarto precoce em jovens&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "Correio do Povo",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONEZ3MF9aNzl2ZzBZWjltSFVjS29vaWlzNFFHa2lqV1FlcjhXdjlHT3FkWW92THlJTGE0Y0dYekhheDZZTUtBbXdiYnZ1T1hWWHJQNzdRMFdNRFhhd1dpUnBKZDVyQk96SzZNNnd1MmludjNRbGhqOFA5TmJwM0p6aHpiVGhwZ3U1SUVWeWR6Z0J3Y25ObUUtU1ktWXNldHFOTmhnT1dUbHExNE55anJTTl9JSE1HOHdlbjl3LQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "5412b551ca08",
       "title": "Estudo pode revolucionar a maneira como humanos regeneram partes do corpo - Globo.com",
       "published": "2026-04-21T18:18:10+00:00",
@@ -90,13 +102,13 @@
       ]
     },
     {
-      "id": "00b151811185",
-      "title": "Cozinhar é ligado a um risco 30% menor de demência em novo estudo - O Globo",
+      "id": "2a461d5ad22e",
+      "title": "Cozinhar é ligado a um risco 30% menor de demência em novo estudo - O GLOBO",
       "published": "2026-04-21T14:56:38+00:00",
-      "summary": "Cozinhar é ligado a um risco 30% menor de demência em novo estudo&nbsp;&nbsp;O Globo",
+      "summary": "Cozinhar é ligado a um risco 30% menor de demência em novo estudo&nbsp;&nbsp;O GLOBO",
       "sources": [
         {
-          "name": "O Globo",
+          "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOM2VkX1Rqdk9FWlFLYzEzZzh3RmJKc2xZWEhyVlNXRkZJZHdJNDNuQUNzZ1dESjZpbER6bnB5aHFjeFZ2MWFlZTJZeUhlRUk4Unh0MnRmb2JuNUwySUdiMmMyQWh6MHRCZjU3QjZhdlZscW9kUzFZbFQ0WGw5bEtSMGxiZlZYQTBFNHhTdjJYRVdKamhzTm1MeG95cUM5ZGVxTWZHQWQybFEyWTBJOHlVLUxtQ1FGUEIzTHUyWUNKRjlvNE9oVEHSAdQBQVVfeXFMTXI5RnUzNkZKbnd2QmR5UV9YekpGcGtLWl96STRyTjE2TGtuMUV0YTc1dVYyU2g2NG44ZmRqeGQ1WXZ6TlRabVBsOE5jX1N6MHY4UDV4MXpCaTk2SnJ1ZnNFZi1QWjBadzlrT1FEZXUtSE9sQWVhQnZDb1cyeHRUQWZxbHBsZFp1RWZ1N3A2dUJEZ1VkWFJLanFsWms4MDdGWUtQbEs5VVR3M2FuSDduSE5JM2x0dlJhXy1wemRJV2dzeVdUZzNfdDVYVDZZeGZwOVJ2RmU?oc=5"
         }
       ]
@@ -110,6 +122,18 @@
         {
           "name": "TudoCelular.com",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdHk1ZTh5Z3lSUGx5czFkUUI0LVIzZ2hXbmtReDZiRWo0RnVIWERKTkZaU1NvMC1vMWpUSHY3LVB1eElpLTlBd21ZVEFYaGNZRy1wejN3eW5vRkNiS3lneFBRc3ZENl9xU0E1OUFuRlNZNVhKZXZVWDN3RWhqNFotZ0huTTc0ZWo1aFlHNlgwUFVJdTJIeU9KQUlwMUE2NzRI?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d5b8f9152427",
+      "title": "Cientistas reconstruíram pela primeira vez o esqueleto completo do maior crocodilo que já existiu — ele tinha quase 10 metros, pesava como um elefante e era capaz de arrastar dinossauros para dentro da água - CPG Click Petróleo e Gás",
+      "published": "2026-04-21T14:15:00+00:00",
+      "summary": "Cientistas reconstruíram pela primeira vez o esqueleto completo do maior crocodilo que já existiu — ele tinha quase 10 metros, pesava como um elefante e era capaz de arrastar dinossauros para dentro da água&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSnlIS1g4ZmxGVHoxdFFXRVVSREc2Z0diLWhNVWwzNktobFBkVlM5NHpmYTlybkMzdUdjT18xZFY4WGtFQU9NbFdlZkZNYkJhX3JNUFNzR2RJbGR5MnFsQjJZMnotOV9MamxtUnlpbVVsUW12VnFxMmZ5V1hHUDNfeFM0RWk0SVNxeW1aTGdxOWZ3SDh3UHIxMFM2em40WW1OOWd3NjB5R0VHRXREUTRzSVFKblctM3J0bVE?oc=5"
         }
       ]
     },
@@ -138,26 +162,26 @@
       ]
     },
     {
-      "id": "85d18852d614",
-      "title": "Infarto em jovens: caso do Miss Paraná reacende alerta - Correio do Povo",
-      "published": "2026-04-21T12:28:20+00:00",
-      "summary": "Infarto em jovens: caso do Miss Paraná reacende alerta&nbsp;&nbsp;Correio do PovoEstilo de vida pode aumentar risco cardíaco em jovens; veja como prevenir&nbsp;&nbsp;D24AMOs risco de infarto em jovens&nbsp;&nbsp;Votuporanga TudoCardiologista explica sobre o infarto precoce em jovens&nbsp;&nbsp;G1Por que vemos cada vez mais jovens morrendo por problemas cardíacos?&nbsp;&nbsp;Novo Momento",
+      "id": "2824464bacb8",
+      "title": "Muitas dores e nenhum diagnóstico? Pode ser poliqueixa; entenda - O TEMPO",
+      "published": "2026-04-21T12:04:49+00:00",
+      "summary": "Muitas dores e nenhum diagnóstico? Pode ser poliqueixa; entenda&nbsp;&nbsp;O TEMPO",
       "sources": [
         {
-          "name": "Correio do Povo",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWDkzb3gtTkpqSzE4a1k4Sno1NXVkRTBHaFRlbXROVHJ5LWxTR3B1aWZXNHk2Qi14bTIwR29NV29OUkJQZWlwTjZRMXpXb0wwZmZTdklBOGhOdzNTc3I0bjJmbUktTVhGQTRwT3hOZGtqenJKNUt3My03ZzhwcnYyOWtKYXRCMGNvamROZ2JVazRDMkJqcGwzQnFpcFU3MlFwWUk2Ti03c0xmSnRIenFkRWVLeGdXS0JtcXZJYw?oc=5"
+          "name": "O TEMPO",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWEwwbG92WkhDd3k1a1VoUnp6d2pEbk0yRlUzUUFncDNpdXBVMlptSlVlNmRiSDNQYnhSR1pEMzg2bEF4WTRLMWt4Z3dlRGVFY2liX254QW9wQjlqVWZNTmxaWFduN3VDODg3Ulh0cFNMTGM0UzRPcV9BNE5KU1FsWTZNVWJIbTd3Z09NWU1xSFY1RVNjWGc5NXhfcE9TWnJpM0FHdHpGaEFjVVU?oc=5"
         }
       ]
     },
     {
-      "id": "6ecf803c477c",
-      "title": "Prefeitura confirma morte de menina em MT - FOLHAMAX",
-      "published": "2026-04-21T10:17:00+00:00",
-      "summary": "Prefeitura confirma morte de menina em MT&nbsp;&nbsp;FOLHAMAXMorte de menina por meningite B em Sinop reacende alerta para vacina de até R$ 800 fora do SUS&nbsp;&nbsp;G1Prefeitura de Sinop confirma dois casos de meningite bacteriana no município&nbsp;&nbsp;RdnewsMenina morre de meningite e Prefeitura suspende aulas em MT&nbsp;&nbsp;MidiaNewsApós morte de criança por meningite, Prefeitura suspende aulas em escola; 2 casos confirmados&nbsp;&nbsp;Olhar Direto",
+      "id": "2c0d735931bf",
+      "title": "Prefeitura confirma morte de menina por meningite e suspende aulas em escola de Sinop - Nortão Online",
+      "published": "2026-04-21T11:37:08+00:00",
+      "summary": "Prefeitura confirma morte de menina por meningite e suspende aulas em escola de Sinop&nbsp;&nbsp;Nortão OnlineMorte de menina por meningite B em Sinop reacende alerta para vacina de até R$ 800 fora do SUS&nbsp;&nbsp;G1Prefeitura de Sinop confirma dois casos de meningite bacteriana no município&nbsp;&nbsp;RdnewsMenina morre de meningite e Prefeitura suspende aulas em MT&nbsp;&nbsp;MidiaNewsApós morte de criança por meningite, Prefeitura suspende aulas em escola; 2 casos confirmados&nbsp;&nbsp;Olh",
       "sources": [
         {
-          "name": "FOLHAMAX",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQTFkWUV4cW1nLVhtMnJDeExFZXZTZE9CUF8yOURzbVA0Q1ViVG9hQ25Vck9QTUxiT1ZGWklKdVFFYkZwUHB0Ni0yLVlGSWxmaklEd0l6SExfdUpCTllRaVJ2T05wQ2k4LWJUMjY5ZEZLQmxIMWlZdFh4aVBuNkhoRnltZ1ZQaEYz?oc=5"
+          "name": "Nortão Online",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN0NRM0tNcEdfUU5iNU1MZ3JIWHBucmpROFMtcXJraEhTdmlFUjFKWTZMdU4yOTNHRk1kcHV6Z1kzS09KU29PV3JjRGhkQVZKVjZCY0FaQ0cxVGFmTl82bXdlajZDakJMa1dQc1EyTzRxNTZlT0Y2NXFnbjVpNnRWT1BEdzA2MFZydVB5QmFVMUg1d2piNVRNSGlhQWlZVWYxb2duTnNLZl9VZVlVNUFHa1lWaldBdGdmY1ZGRnlfakFhVlJIYXhGVw?oc=5"
         }
       ]
     },
@@ -258,18 +282,6 @@
       ]
     },
     {
-      "id": "a42884159725",
-      "title": "Pôr da Terra é capturado em vídeo pela primeira vez; veja - Folha de S.Paulo",
-      "published": "2026-04-21T01:25:00+00:00",
-      "summary": "Pôr da Terra é capturado em vídeo pela primeira vez; veja&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdElXUmhYWWdsbjltcE1UYmlLRVJTY2JidWRyR2RJZ2o3dnpIbDN1WUZ1bXFkZTNyVi1JbWtvbEVJRG1NaXFGaUF2UWNVVnhqaGdsNW5MWkJpQzlpQU5sMmtrQkNGdFVtbjVWdFF1X3ZnOEt0VGRoeGJqLXo3VDhFRkI1ZUtJX2U0WEp1MFhOVWpyVjI4c3JmQjd1Qm56eWpjOTAzTDlCMkhaeGI10gGyAUFVX3lxTFBRNGpYN1UzREEtaklhdF8zWjdmY2tsZjltSGdFWWVkR3VMaWlranBkNVBHQ2s4U2ZLZGdPaUl6eGU0OG1tb09FTXJ6Njl5VDNwcmJYbUh6UnZIRUN6cFRJRVJtTzcxeTc3Z2l2RXZpN3FCcDkyQVZMZ09JZ2k5NUZMSDVfRzJnc2tnUWtwV2xLNThUNlpIUTZmS3dYc3Z5RmlRUGJ5ajZTdzREb0JSSWhNeXc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f3a2520dfce9",
       "title": "Adeus ao T. rex de \"Jurassic Park\": um novo estudo argumenta que ele não corria como um réptil gigante, mas com uma marcha muito mais parecida com a de um avestruz - Catraca Livre",
       "published": "2026-04-20T23:07:00+00:00",
@@ -285,7 +297,7 @@
       "id": "85cde9b9d1d4",
       "title": "Gripe K no DF: saiba em quais situações o uso de máscara é indicado - Metrópoles",
       "published": "2026-04-20T22:30:00+00:00",
-      "summary": "Gripe K no DF: saiba em quais situações o uso de máscara é indicado&nbsp;&nbsp;MetrópolesGripe K: veja quem pode se vacinar contra a doença no DF&nbsp;&nbsp;MetrópolesGripe: Variante K e emergência em Goiás acendem alerta sanitário no DF&nbsp;&nbsp;Correio BrazilienseEntenda o aumento de casos de Influenza A e a importância da vacinação&nbsp;&nbsp;band.com.brAdolescente morre no DF após contrair vírus da 'Gripe K'&nbsp;&nbsp;CBN",
+      "summary": "Gripe K no DF: saiba em quais situações o uso de máscara é indicado&nbsp;&nbsp;MetrópolesGripe K: veja quem pode se vacinar contra a doença no DF&nbsp;&nbsp;MetrópolesGripe: Variante K e emergência em Goiás acendem alerta sanitário no DF&nbsp;&nbsp;Correio BrazilienseEntenda o aumento de casos de Influenza A e a importância da vacinação&nbsp;&nbsp;band.com.brGripe K: sete em cada dez casos sequenciados são H3N2; Saúde reforça importância da vacina&nbsp;&nbsp;R7",
       "sources": [
         {
           "name": "Metrópoles",
@@ -302,18 +314,6 @@
         {
           "name": "Metrópoles",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUGlGeDdxdEhQM3JmNkh6ZU4xTFEzckdZejlVQWprcFRXcWJFNEZiLUMwSnFKREpfN0lTZjl0SmNGYVNTbVh5TWF4Szc3RnlVSjN4V0FsQkR3REcxLXJnc1BfWG5KS2plelgxd2h3NG55YzJtNHhpb0pWMFA3U3Vmb296SW82bWtNcEkxOWpOc1pjbTdXaGdkZEcwTWdNcC1QNUNiZlpPX24wQk5XYThCMEhmeEh5c2M?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b0d6e2882a50",
-      "title": "Os 9 vegetais que ajudam a reduzir a pressão arterial - Diário do Centro do Mundo",
-      "published": "2026-04-20T21:27:58+00:00",
-      "summary": "Os 9 vegetais que ajudam a reduzir a pressão arterial&nbsp;&nbsp;Diário do Centro do MundoPressão arterial: Estes são os nove vegetais que ajudam a reduzi-la e os motivos para consumi-los&nbsp;&nbsp;O GloboCiência confirma: inclua hortaliças na dieta para proteger o coração&nbsp;&nbsp;TerraVerdura popular ajuda no controle da pressão alta; confira qual&nbsp;&nbsp;Metrópoles17 melhores alimentos para pessoas com pressão alta&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "Diário do Centro do Mundo",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN0VrTHMzc19TOWR3YnM1dmdmcGpORnUyWlFQSnRyZ19MeG12NmlEdFpTaXlHZ2pCZm9sTFI2RGo5VTFjQlVMaWxPMFdiUm1jM01ZRW8zaFIzSl9SMmtvZkJFeXlzQ3dwNkYyX0ZuaW83Wm85aWpqSUQ4cFpkOUt2THdwTzRsa0laaUxYVUNDYVVyNUpKMDkxWlRKRFhlMkQxbUFGc3VXZDM?oc=5"
         }
       ]
     },
@@ -378,6 +378,30 @@
       ]
     },
     {
+      "id": "134d6744f8ea",
+      "title": "Verdura popular ajuda no controle da pressão alta; confira qual - Metrópoles",
+      "published": "2026-04-20T18:24:00+00:00",
+      "summary": "Verdura popular ajuda no controle da pressão alta; confira qual&nbsp;&nbsp;MetrópolesPressão arterial: Estes são os nove vegetais que ajudam a reduzi-la e os motivos para consumi-los&nbsp;&nbsp;O GLOBOCiência confirma: inclua hortaliças na dieta para proteger o coração&nbsp;&nbsp;Terra17 melhores alimentos para pessoas com pressão alta&nbsp;&nbsp;Vietnam.vnOs 9 vegetais que ajudam a reduzir a pressão arterial&nbsp;&nbsp;Diário do Centro do Mundo",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeHBtT2FDUEtoMW1MSUpMaFp0VUFmOWZobVlEVVdHY2dKN0R1OE1TbjRQUFRCZ1dSeWdBN3NRd3pqbk5ZRktwSVJFNEJBYTRxWWZBZ1hNTjhMUzNuU2pfTFVlaVJtemtsNG96c2tLZVFOMkpCN0NMUG9zMXlJUG5Zbjk5QkhwY0xKajdIZnIwdEIxRktERUFLRkpCNUFsbDY2Tk03U2JvdW5kS1d2VWhVQTVRT0g?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "10ff931d306a",
+      "title": "Mutação genética rara que afeta desenvolvimento do cérebro pode explicar epilepsia infantil - Correio Braziliense",
+      "published": "2026-04-20T17:28:00+00:00",
+      "summary": "Mutação genética rara que afeta desenvolvimento do cérebro pode explicar epilepsia infantil&nbsp;&nbsp;Correio Braziliense",
+      "sources": [
+        {
+          "name": "Correio Braziliense",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPX0hnUDBLTVBvWlZLV2pKYmtOdjZlTWdVNWZDVUJFbUtYOTdkX2x5VlA3SUxsVDZnaHFieTVHV0Q2M2NuNUpoMWpLREc1WlY5Z1NQYk9oTXlWLVJsMEhqaWk1LUpWcVc2RXZwZUpnX0hEaDNHVjFLUUpnSjFWb1J0aGR1MGlVRlBuVlZkeVJjTWRnLTZKWVJpXzJEMy1qRENPZXdtSlRGTDFic0g4QU84TWpaTDhtRUlfUWVTbTlRVXo1bWRJNVY5b0xSTEdXaUJvaWF1TDhVLUEwUk00dDZUTEpJdVJuNGxBYjFvOHZZdkp0ZTg5RmJ6VXdn0gH_AUFVX3lxTE9xb0o4UTRadnRZTG9jVFNueGtXZ044ZFhGX3pjZUV3akNWZFA4dlZwdTliYkNPSDdmQlRTd3BHVi1vRXFUSmp3SXBIbldPVDBjbC1veFRZaDFvVE13aklqNDAyZ3luVzZtZHVVdHpkOXBIZDFibUJlcF90aV9wQnlUd0IzRm9VMTNNd1pES0hhaklRSlQxZ0RpeUhrYnlpcmtrRG1YSmpZLU0tbS1DSWx0cVpYcU9WSXgzVUEyLVpfTndlU3Y5d2NnYVFEZnVtbTFUV0NPNnlPSEF0MkFTaWY1amQyVmpyV21VMmJQd21zMVdKdHJTYkVpSVllSFR2UQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "21c7beac734d",
       "title": "Amigos organizam vaquinha para ajudar moradora após amputação por diabetes - Assiscity",
       "published": "2026-04-20T16:22:27+00:00",
@@ -390,13 +414,13 @@
       ]
     },
     {
-      "id": "9d6bb3df4c9b",
-      "title": "SIBO: o que é a condição de saúde que tem circulado nas redes? - O Globo",
+      "id": "0253068fb3b6",
+      "title": "SIBO: o que é a condição de saúde que tem circulado nas redes? - O GLOBO",
       "published": "2026-04-20T14:38:31+00:00",
-      "summary": "SIBO: o que é a condição de saúde que tem circulado nas redes?&nbsp;&nbsp;O Globo",
+      "summary": "SIBO: o que é a condição de saúde que tem circulado nas redes?&nbsp;&nbsp;O GLOBO",
       "sources": [
         {
-          "name": "O Globo",
+          "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcXZBRmlrcFFaT1JhaHlqRExrNG5RZktaeDktZDg4X3ZCUjIyVVdNNFc5eFFEakF3eFdmMmhHTXZSQW5ub2RfS0hqbGNVUmlCM3JkMnA0Q1owYTZPcEFWdlczWnhvYUVqQlVvUG5GYzlHRDE3RTh2S04wcC1Sa3hfdlczUENBelFVZmZHQ1VFZjdpaHFzakJ2ZE5zMElvMHNxemtKY0s2c2dFTFYtLWVQRVZQUmJsWEdJ0gHHAUFVX3lxTE9VMWJoMVpFcnJpZVVCVl9KUGZaZlpPZDZmV05INUJGUmdZY3QwN21ZQTE3eGtJakpLd0JCWGdEOUFQbkpQMlYwYkN1bGlidDZkYng0WEhZYktBQ1VSc3VBblBZUVBjbE9BNE82eGFseXhUbU1SbUJPR09DQU5jQjJPQWF4aDFYaF9fcGh2TldJMmJUbXlMOUpZTzQ3dFRnbkFscVlncHl6MGR5dFhNMm5kcjZfc2w1OWZDMExpN2ZOd3dpSjBEVjA?oc=5"
         }
       ]
@@ -405,7 +429,7 @@
       "id": "a5421361e09b",
       "title": "Gastroenterologista explica o que fazer para eliminar a H. pylori - Metrópoles",
       "published": "2026-04-20T13:02:00+00:00",
-      "summary": "Gastroenterologista explica o que fazer para eliminar a H. pylori&nbsp;&nbsp;MetrópolesA infecção por H. pylori pode causar câncer de estômago; como podemos prevenir a infecção?&nbsp;&nbsp;Vietnam.vnA bactéria que pode causar milhões de casos de câncer&nbsp;&nbsp;Notícias ao Minuto BrasilGastroenterologista explica o contágio da bactéria H. pylori&nbsp;&nbsp;difusora95.com.brGastroenterologista cita sinais que uma pessoa está com H. pylori&nbsp;&nbsp;Metrópoles",
+      "summary": "Gastroenterologista explica o que fazer para eliminar a H. pylori&nbsp;&nbsp;MetrópolesA infecção por H. pylori pode causar câncer de estômago; como podemos prevenir a infecção?&nbsp;&nbsp;Vietnam.vnGastroenterologista explica o contágio da bactéria H. pylori&nbsp;&nbsp;difusora95.com.brGastroenterologista cita sinais que uma pessoa está com H. pylori&nbsp;&nbsp;MetrópolesGastroenterologista explica o que a H. pylori provoca no organismo&nbsp;&nbsp;Metrópoles",
       "sources": [
         {
           "name": "Metrópoles",
@@ -426,13 +450,13 @@
       ]
     },
     {
-      "id": "d22022ce898c",
-      "title": "Bom para corpo e mente: Conheça ingrediente que pode melhorar função cerebral ao atuar no intestino, segundo cientistas - O Globo",
+      "id": "c45e33cae883",
+      "title": "Bom para corpo e mente: Conheça ingrediente que pode melhorar função cerebral ao atuar no intestino, segundo cientistas - O GLOBO",
       "published": "2026-04-20T07:01:20+00:00",
-      "summary": "Bom para corpo e mente: Conheça ingrediente que pode melhorar função cerebral ao atuar no intestino, segundo cientistas&nbsp;&nbsp;O GloboSegundo estudo, este tipo de óleo protege o cérebro e o intestino; descubra&nbsp;&nbsp;TerraTipo de azeite pode ajudar a preservar a função do cérebro. Saiba qual&nbsp;&nbsp;MetrópolesPesquisa afirma que azeite de oliva extra virgem pode melhorar a função cerebral&nbsp;&nbsp;Folha BVIntestino e cérebro: a conexão silenciosa que está mudando a medicina&nbsp;&nb",
+      "summary": "Bom para corpo e mente: Conheça ingrediente que pode melhorar função cerebral ao atuar no intestino, segundo cientistas&nbsp;&nbsp;O GLOBOColoproctologista explica como o intestino pode influenciar o humor&nbsp;&nbsp;MetrópolesSegundo estudo, este tipo de óleo protege o cérebro e o intestino; descubra&nbsp;&nbsp;TerraPesquisa afirma que azeite de oliva extra virgem pode melhorar a função cerebral&nbsp;&nbsp;Folha BVO que acontece no seu intestino pode estar moldando sua memória&nbsp;&nbsp;gizmod",
       "sources": [
         {
-          "name": "O Globo",
+          "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOZXYzVTUweC1aQ3hudy1IVUhyUDZIMGVLRW1zUVQ1OUhGVWp6UWlfbHJhTzAxeTZXSlRBbUtDVlY0dkd5VTkzblpJMzdUb1lmX3RMUkxfTDcwNzdRdk9EQVlRTkMyWGdhUnZYVmlna1RoUi1RbzNndVp2aURWaEhVQWtrOUxObkwyY3ZucE9fVnE0UGMxZFU5SUkxQmJXMDNGMjJYdXRrNTVYMnhkcXcwTUxrTThXUlZyYXBaYTNTZ2o5WjhSWHBCM2RFWVJ5LWpMMGF4bEN5bEloVHU2WVZIV2NPUS1ld0hVQU4zaHNPM2pKSldKRW1fT1JoRWJaVDVOX1Jv0gGSAkFVX3lxTE1zX0JqZTY4S0tidkdxVUJOWUMydEprbWpjZkpPUzNQRVJZelZXVG5jdF9hNTE3UWJlaDh5V3dVaFFWQnRfbXVRaVN4UTQzMnFqTzVRVEJCbWZValhPZklLX1hBdE4yNnJYMHBVQXFVYWh6Y2h2cXBFSUVNekp3ODM0ZllTQzJ6cUhfMlZhaDliTG15MHlINVVObFBCNTYycGUzbVdPbW9mTDYta0h0STNxTTA3QUFEZkxSZVFsYzZzd0Q0LVdRU0FDbm5CSGlvQm9iR0VLZGVOVmVlWjI1ai1TRlVWR2ZhajR1eDRGZjR2ZTFHNXVGUURhVmJZcW44bXhuZldjanNLNG1CMEU0d21ldXc?oc=5"
         }
       ]
