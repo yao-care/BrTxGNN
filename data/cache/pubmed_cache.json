@@ -1,5 +1,5 @@
 {
-  "last_check": "2026-04-23T02:45:54.978859",
+  "last_check": "2026-04-23T13:49:54.947716",
   "seen_pmids": {
     "Carboplatin": [
       "41801587"
@@ -136,7 +136,8 @@
       "41995909"
     ],
     "CYSTEINE": [
-      "41518923"
+      "41518923",
+      "42022777"
     ],
     "DEXAMETHASONE": [
       "41996735"
@@ -155,6 +156,12 @@
     ],
     "MEDROXYPROGESTERONE ACETATE": [
       "42015465"
+    ],
+    "FINASTERIDE": [
+      "42020366"
+    ],
+    "TESTOSTERONE": [
+      "42020366"
     ]
   }
 }
