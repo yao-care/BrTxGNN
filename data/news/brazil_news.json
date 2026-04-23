@@ -1,10 +1,22 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-04-23T02:49:45.568270+00:00",
-  "total_fetched": 92,
-  "unique_count": 91,
-  "health_related_count": 38,
+  "fetched_at": "2026-04-23T07:58:49.028652+00:00",
+  "total_fetched": 88,
+  "unique_count": 88,
+  "health_related_count": 36,
   "news": [
+    {
+      "id": "4e7a9a41cb29",
+      "title": "Estudo cria produto que combate fungos em frutas sem agrotóxicos - Maricá Info",
+      "published": "2026-04-22T23:50:00+00:00",
+      "summary": "Estudo cria produto que combate fungos em frutas sem agrotóxicos&nbsp;&nbsp;Maricá Info",
+      "sources": [
+        {
+          "name": "Maricá Info",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeFhFZTRmTXdrcXpqM0R4dmhfM3huWXZtQnZNZmhycU1UcHdlSEI3cFdXNDVRbFZnYXFPeGxNSUwyVVJjRkpxNlNXS2RJTTFoMkRfQUVOTEZDSFp2T2ZrQkRYdXNvQXB0aklPUVlFamxjLWJreEJmLTRmYzh3ejB3Y0k1VWJWU05XUm53UGZBVHdxUE1Wb1pSOVVxSFhNUVNueDBkSXln?oc=5"
+        }
+      ]
+    },
     {
       "id": "3f353c09116b",
       "title": "Defesa de Vorcaro aciona Mendonça e pede exames médicos em hospital - O GLOBO",
@@ -33,7 +45,7 @@
       "id": "5bff13432a0b",
       "title": "Como aspirina pode se tornar uma arma contra o câncer - G1",
       "published": "2026-04-22T21:22:39+00:00",
-      "summary": "Como aspirina pode se tornar uma arma contra o câncer&nbsp;&nbsp;G1Ver cobertura completa no Google Notícias",
+      "summary": "Como aspirina pode se tornar uma arma contra o câncer&nbsp;&nbsp;G1Aspirina: a nova esperança no combate ao câncer no Brasil?&nbsp;&nbsp;DIÁRIO DO ESTADO",
       "sources": [
         {
           "name": "G1",
@@ -50,6 +62,30 @@
         {
           "name": "Tua Saúde",
           "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQaGNIQXVkODhHM2pWRHBfbFFrVzRkR0hJS2t3enJvN19mY3ZvZDl0azNONDRXWWVPV0NXTFR5NldIQlJnaGN3OU9qaHNWYkEwQjVPeDZxSnRGNTEtUmRzYTFrbXJTOFV0UEE3OUg0U1gxMnFGODUwb2pJdUZtbmc4ZG9SZERvWi1kTkVjZ0VWWEp0bmQxNWNnODIyRHQzYzhrejFucFh1bFh4VndUS25xbVNOOXAtbEZzQzhBdEpjOURDdXlaMGVaZmNYb2k1OFlVSUYzay10RzVxUnZNbktxZDJfYWtlMHd5Y2xHcVNyUHZKRHdtZmtYTE5R?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c539df32a32f",
+      "title": "Estudo descobre pista de proteção natural do cérebro contra Alzheimer - Metrópoles",
+      "published": "2026-04-22T20:12:00+00:00",
+      "summary": "Estudo descobre pista de proteção natural do cérebro contra Alzheimer&nbsp;&nbsp;MetrópolesPor que alguns cérebros com Alzheimer permanecem preservados, segundo um novo estudo&nbsp;&nbsp;O GLOBOPor que alguns pacientes com Alzheimer seguem lúcidos&nbsp;&nbsp;Agora RNCientistas descobrem nova forma de 'limpar' o cérebro - e pode ajudar no Alzheimer&nbsp;&nbsp;sic.pt",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xOXpDaU5HRFk5LXAwWG5VQ05QSHR6MkRCczU4UERQaWNoNDZicDl6MEZhcC0yei1rM1VCUC1hUXRKcGNsMUNXWE1iNDhyT2dZcXgtdTEyaEo1WUlreXZyYTB3N3BvTDlteTkzMzY0MTZoLWRw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2bb662462de9",
+      "title": "Cocaína em rios altera comportamento de salmões e faz peixes nadarem até 60% mais, aponta estudo - Um só Planeta",
+      "published": "2026-04-22T20:01:40+00:00",
+      "summary": "Cocaína em rios altera comportamento de salmões e faz peixes nadarem até 60% mais, aponta estudo&nbsp;&nbsp;Um só Planeta",
+      "sources": [
+        {
+          "name": "Um só Planeta",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNVWdlQi1yWUlobE0zZVM1Z2hFS0sxZE5uX1AxV2RkdUNiSE14RUI1XzFZdWR0azc4dTU3Q1NndVRnNVpHWkFteGV0MmctdTZ2dmdscmJ1VWRBRUFGNGtLZ0hPNmJ5VE8wUEdMdllFYzIyYW1yQ0pmYi1VejF6RHhGdm9PU1ZYMUszQ0VSOWVwd0dpSGJVU3UyZHhBbWF6dVFMTzVRQWhsWTNUazgxNlZoNWFuRGZ0a2ttYTVOb3U3eGtaRUZLNUxOR2s2a04ydUVxSGVRZkhVVDVZdVp5SnMweDFBSVpIN2RmZ2ZHVzVJbDRGcldUZjdKY2tKZmhyVXMt0gGPAkFVX3lxTE1qN1B2RUJvTm42SmtlRzg2U01Uak5yZ1B3LTl1LUYyOWdGTGVZdTBYdU52RkI4LWhscTBCalBqYlNNOGRzb3E4SzVlaWkwUllvaTdhb2NLUGFqOWRPTTZGRHk3U2Vud25EQkNtSE9qV0hnVWZ2TDVsUXkyM2lWSFoxOVhfUXlWdWJEdHdDZnBVXzc0a1dmV1A0ZVI5WkZpaTRfbkQ5a0c1MXYyZ1ZJSG82bkNjb09NTHlOazd0S0FTTzl6WFloQ3JDZUpBYXIydGZsZk1YMDBERFA5Yzg5WDJpVWh3ay1EakJaQzVaeFRRaU9EcUhuZ29fVHFrcjJONzFYQkJjVUtnWExjdzJYWms?oc=5"
         }
       ]
     },
@@ -138,6 +174,18 @@
       ]
     },
     {
+      "id": "101745e817bf",
+      "title": "Neandertais cresciam mais rápido do que bebês de hoje, diz estudo - Portal iG",
+      "published": "2026-04-22T16:16:00+00:00",
+      "summary": "Neandertais cresciam mais rápido do que bebês de hoje, diz estudo&nbsp;&nbsp;Portal iG",
+      "sources": [
+        {
+          "name": "Portal iG",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVVRiM2pvSDJZMXVSTlA5SGl2QjV5czJaamdEakc1RnRjLV9YcUdCOWpGZms0XzdhSThwZllFYVpremVZQW5RNVVOOUxuRVpWb3p4TURGT1NCYzQtRlZJWS05QkRfdGZ5WlZabE54Q19BSUpkSkx1bE9QX2ZVamtFekVhLXpyMFZSb1Fad1E5cXFPM05hc24tZXBBV3pUWmJUZGxXMDNuMnJHNGZ1dkF5cFJqONIBuAFBVV95cUxOdnBndUtmUU9KYTVyczQ5WG9NdzY1RFdSdjB6a0Y0ZGJXWUczNmJrZjVNQUtOWElmY0lkdmRsMUpsS2poYXBpSXV3VTNwQlNibVJYWk5hZVhmTjh5ZUh0REZQckp6eTZfeDhlREVYdGVMdGs5ZEpqUE1aVVF0MUJ1M0puQWJETmlCRnlIMktkNU5CRlA4a2FSU1JhMDVhR3ZOYnhCZGp0TEVyWUtGRzlsTEhfX1BjOVlC?oc=5"
+        }
+      ]
+    },
+    {
       "id": "0822f8c0317f",
       "title": "A um mês do fim da campanha, Campinas vacina só 7% das crianças contra gripe; meta é 90% - G1",
       "published": "2026-04-22T14:48:40+00:00",
@@ -162,14 +210,14 @@
       ]
     },
     {
-      "id": "bb4429fc8a74",
-      "title": "Salmões expostos à cocaína nadam distâncias mais longas, aponta estudo - O Dia",
-      "published": "2026-04-22T12:29:15+00:00",
-      "summary": "Salmões expostos à cocaína nadam distâncias mais longas, aponta estudo&nbsp;&nbsp;O Dia",
+      "id": "1f394c910a8a",
+      "title": "Menina de 8 anos morre após complicações da dengue em MT - G1",
+      "published": "2026-04-22T14:17:32+00:00",
+      "summary": "Menina de 8 anos morre após complicações da dengue em MT&nbsp;&nbsp;G1Menina de 8 anos morre após complicações da dengue em Barra do Garças&nbsp;&nbsp;vgnoticias.com.brMenina de 8 anos morre por complicações da dengue no interior de MT&nbsp;&nbsp;RdnewsCriança de 8 anos morre após complicações de dengue em Barra do Garças&nbsp;&nbsp;SEMANA 7Menina morre quatro dias depois de ser internada com sintomas de dengue&nbsp;&nbsp;Primeira Página",
       "sources": [
         {
-          "name": "O Dia",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdVk4TmdZZXE4NzNjVmUtT2J3SXhuNm9GOWVTSEM2ZGxYbkRKZlNscV9qRjUxemVhR2hpOGRKQWlERnhfbGY5MHBINlBZeGdjRFVhLWdHRGlYWFJSclV3WXR4YWUyTnhRT0lNejRhWmJ2NmhaMmZMcjlDMGs4YTFjN1BuZU5LeXpsMngzOGFUa2hNQzJaM2F5eHFhWDlMUHNZdVFsNmNYUi1hbEZIODlaNUo1TjBubzhjRG83TDI1WGZFTk5DUjg1cNIBzgFBVV95cUxObi0xVnc2ZElhaEFrblBiMVRfVVE4aUUyVmlnRDAzRGdSYlFCWUduYndVVnBISHAtaTlUU3h3ZTEzTlpQZ2l4ckZveUc4Ym9XNFVpTTlELW92VWE4VGt3TmN2R0tfYWZPUFI1UE9XMGV3MzNFdXZ2S3JyQm4tUFBfYWJqclMtRjNVRzRyNlRGNmozYU5SQ19hb2twLVRJalhQSjBteFl3Y1BJM1p0elJyb2lfdUJCVWduTkgweHFDTWdWUVByYVQ0WUlDUXk4Zw?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVGFQdjF3ZFVHS2JCWmxJUlJYdlp2U3RCTFNNdVQ4ZkVhc1ZDaXFYdXo5bU5Pd0dpMFdzYmtJSlduZ3NGSG83WGhFb0dweUpMelluVDRlMndaY0w2ekNxQnBqSWw4NUNrdnI2RzZsQmJYdDJEMDdKVk8zcFF6WDh3WFNFSmpLaGFoMFp4WUhRV0syQVZqUWZheVhUS1dCSVh2WjZzcTRWMF9fbUlSbFZaVmF0UkZaMS1T0gHHAUFVX3lxTE5HbkFXdW9WbXVpVWR2S1l1QlZfSkN6eWRfcTUwZC0zTjZPaU80THRlTEtLZEJsdlRveDJhR0FYWjdxQlFyVGcyNWo1S2xhRWtCdUFWVF9tVGMtYl9zUU16cmZDcW80aC1KeVd6b2tCSDVBSkJ0OHlpRUpzSTVvOXpHLXhiVWtXSXhIcFFOd2tYajh1X29yWWMzV0gzMVZkbjl3QU1kTy1iNU0yODIwR0sxLXZrU2VtcEdWUE1TOUd4WHRMenR0M2s?oc=5"
         }
       ]
     },
@@ -186,14 +234,14 @@
       ]
     },
     {
-      "id": "6a3901a37586",
-      "title": "A espécie que inspirou o Homem-Aranha é uma das seis novas descobertas no Alentejo - Catraca Livre",
-      "published": "2026-04-22T11:24:00+00:00",
-      "summary": "A espécie que inspirou o Homem-Aranha é uma das seis novas descobertas no Alentejo&nbsp;&nbsp;Catraca Livre",
+      "id": "dfe60178953f",
+      "title": "Atividade física na hora ‘certa’ pode turbinar benefícios à saúde, diz estudo - VEJA",
+      "published": "2026-04-22T10:30:46+00:00",
+      "summary": "Atividade física na hora ‘certa’ pode turbinar benefícios à saúde, diz estudo&nbsp;&nbsp;VEJA",
       "sources": [
         {
-          "name": "Catraca Livre",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeGZwQ09QTGQ1dnFfMnk4Qi1CdkpidmtXOU1JSGlvdURNRXIxVkx4TGg0a21VQXRLSkk3eTJLYU41QXdNQ1hZbTRmQkFPV1dpMEVkZ2FiNFpCc2dfZXM0eENqQzA1OGVmV2lKS3FlR2lxRE9UMTZzcVVfUENwWjlGZmJzY1B4Q21YT3NKd2VVVUZycTMtYm1iY29EejRkUmFTM21scHU5MmVhNnlja0VuZ1V6V0xuNExSYUR4YQ?oc=5"
+          "name": "VEJA",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSzcyLW51ZHRqY0J1M3BjQzNRTkVkR1hIVkRDU3l0eUZqbkdsNlFybkpDbGxVbGF1Tkotd20tUE9tNVBPQnM5dmlXeGNEZm9UeWRNQ3paaTl0THpObVFJX094ZW9GcDYycENNN0xEaFZncHBGa2hwVEI5Y21DVmhydHVTMHdRNEgyR0NtUUVnVG5idGVGOXVlbE1UR19XVkNXN1VYOXNHa19YUHc?oc=5"
         }
       ]
     },
@@ -230,18 +278,6 @@
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYkZLYjhkejBTcS1qNlM5SzFhMEI5NW14Skg3dnRBSXJQcGhhbDFobFdzUVBHTWRwb1dLUVpIQ2hyUTU3d3hPdEtKUm9HNEJBVzhPRnhsdUZMNFdiUGF2Nlp6NFZYRTU2OWx3ajZ2QXNsMWhONnRQS0h1MEI5Nmk4RHNhcTYwbV9UYzhzdGdFWkxCZ3VybF9GTUM4OHBxbEVKX3hUYWhMWVhqZ2VLU3RjMzBMV3VLX0ZMTXlhRHZRODlCRWExeFFtZ0R3bHFnZFJwUGtILUlR0gHbAUFVX3lxTE9TVTBHSC0wejRKbUROdXZlblBXanB4dFpzRUh5TEc2Q1dMTW9yTnFCc0Z6cE1iM1FpR296M2l1SDJwVV9USmQwRjhncnR6SkwzMld3bjJ5TTUtZFZsWUYzaG05QUh4T2NFQ3ZqRVU4djY1TUJUS2RUMkVlYlR6Q1YwRzFxak8wdk0xSEZlc1A2bXdmQVZTc1lvMnd4OXJDYkRtMWI4RG5BU3NXVnpJTGlKM3ZWZUxvTkk5T21ta1FVdEQyOFUzdV9xY3dtaWdSSmpFVDJhd1l2TWNNcw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "644bde321ef7",
-      "title": "Por que alguns cérebros com Alzheimer permanecem preservados, segundo um novo estudo - O GLOBO",
-      "published": "2026-04-22T07:30:41+00:00",
-      "summary": "Por que alguns cérebros com Alzheimer permanecem preservados, segundo um novo estudo&nbsp;&nbsp;O GLOBOEstudo descobre pista de proteção natural do cérebro contra Alzheimer&nbsp;&nbsp;MetrópolesPor que alguns pacientes com Alzheimer seguem lúcidos&nbsp;&nbsp;Agora RNCientistas descobrem nova forma de 'limpar' o cérebro - e pode ajudar no Alzheimer&nbsp;&nbsp;sic.pt",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbGw4VWNQd1FFVXM2MElpak13YjVvS2J4aF9EU1Vhb3RhRXoyb210NlVlZkE1d0NqMTU4ZHBVdWdobG04aFlqVk9lRnlnR210dWJIdkozUWxNQ29sX1FTVS1zRkZGX0NkRVB2cXpyNmZmWGRTcFQtMTNjY0lRdC1ZRnVwcVhNa05uUnFobFpibUFtT3puelB2Q0lNWWs4cXVSa0hRZV9VT3N4U3lrdU9PUUNoQlFHQnVESmtTX3R4UWplb0FoNndCRTJnNFBsX3BEUW04Nm9R0gHkAUFVX3lxTE15RzV6MzV0bkJhdlhwRElYZG1wRm1Tc3RBTmRoR2ZCNjdJOGVVRkloeVRSYmJvN0N5SXNrNjktYkx2bFBMcU1sT0Q2MGh4aFZMQ21fUTY2N2dEYUhTMmliUk5XRDZTWWljX0VXXzdHU09UamZvbFd2R2QxZ1VjbjcxeGltaXNiNFlwN1dTZnpmRmFuYVp0ZUlpODdyc0dEeGhIaHhzTUprRE1UcDZVY04tWnQ2bnFFNmZHYXY5OXBDcWRfam40YnJWcEdjM29BREJQS3lXc0NEUzZINnJVazFERFAzUQ?oc=5"
         }
       ]
     },
@@ -294,18 +330,6 @@
       ]
     },
     {
-      "id": "cebb94290ef0",
-      "title": "Caranguejo: estudo inédito revela origem da caminhada lateral do animal - CNN Brasil",
-      "published": "2026-04-21T23:33:44+00:00",
-      "summary": "Caranguejo: estudo inédito revela origem da caminhada lateral do animal&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUE1jU3BvcXk4VHBZdi1mS3RtNlM0eVB2Tmlnb1hSZUxOc1dTVE5mQWU4OF9WSHpTNUJGQUNhcGRpQTgtbFhqSWYzVjFWUmE1aTFNVnppSnZocG81XzF0NHUzZ1lfVzF1QThZSmhXeF9CaFduX2JCVHFsekxqdjY4Mi00Q0tVaHY2X1RxY2hZcW9BNU96ZzI1YmMwbXByLWdENnM1V1VTNmszOTBm?oc=5"
-        }
-      ]
-    },
-    {
       "id": "baae7c2eba63",
       "title": "Novo método com ultrassom “explode” vírus da gripe. Entenda - Metrópoles",
       "published": "2026-04-21T21:00:37+00:00",
@@ -345,7 +369,7 @@
       "id": "2a461d5ad22e",
       "title": "Cozinhar é ligado a um risco 30% menor de demência em novo estudo - O GLOBO",
       "published": "2026-04-21T14:56:38+00:00",
-      "summary": "Cozinhar é ligado a um risco 30% menor de demência em novo estudo&nbsp;&nbsp;O GLOBO",
+      "summary": "Cozinhar é ligado a um risco 30% menor de demência em novo estudo&nbsp;&nbsp;O GLOBOHábito de cozinhar pode reduzir em 30% o risco de demência, aponta estudo; entenda&nbsp;&nbsp;EstadãoCozinhar reduz em 30% o risco de demência&nbsp;&nbsp;Agora RNGosta de cozinhar? Ato pode reduzir o risco de demência, diz estudo; entenda&nbsp;&nbsp;Diário do Centro do Mundo",
       "sources": [
         {
           "name": "O GLOBO",
@@ -378,18 +402,6 @@
       ]
     },
     {
-      "id": "b8531ad51dfb",
-      "title": "Cabelo branco não é velhice: estudo aponta que fios grisalhos podem indicar proteção natural contra o câncer - Assiscity",
-      "published": "2026-04-21T13:14:34+00:00",
-      "summary": "Cabelo branco não é velhice: estudo aponta que fios grisalhos podem indicar proteção natural contra o câncer&nbsp;&nbsp;Assiscity",
-      "sources": [
-        {
-          "name": "Assiscity",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaXNmQ1k0U3lkWHJTWmZjNUNUVXJwZFRDMWFHQ1NjdjJOMkxYX1I5SWQtUWF2SHpKQjdCVEtvVHhSR0I2TkFpMzcxV2RIajNhMVY4dHhxSXExSFN2OG04WGVxSjZSLTBmc3NaenpXc293VGVzX0E2WmJSLURsWGxVZk5VV0N0X2EyMXJqX2czNHh0NTRUdHk4SEZTR2dBTXA1bVpXT0JiYU1UNk9JQ2RlVFpGYWtKMnhUR0lrdWg2V0l6bm11cE8yV2xJam5VMnc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "85d18852d614",
       "title": "Infarto em jovens: caso do Miss Paraná reacende alerta - Correio do Povo",
       "published": "2026-04-21T12:28:20+00:00",
@@ -398,18 +410,6 @@
         {
           "name": "Correio do Povo",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWDkzb3gtTkpqSzE4a1k4Sno1NXVkRTBHaFRlbXROVHJ5LWxTR3B1aWZXNHk2Qi14bTIwR29NV29OUkJQZWlwTjZRMXpXb0wwZmZTdklBOGhOdzNTc3I0bjJmbUktTVhGQTRwT3hOZGtqenJKNUt3My03ZzhwcnYyOWtKYXRCMGNvamROZ2JVazRDMkJqcGwzQnFpcFU3MlFwWUk2Ti03c0xmSnRIenFkRWVLeGdXS0JtcXZJYw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "15437f7cb875",
-      "title": "RS emite alerta sanitário para raiva herbívora - Agora No Vale",
-      "published": "2026-04-21T09:23:04+00:00",
-      "summary": "RS emite alerta sanitário para raiva herbívora&nbsp;&nbsp;Agora No ValeRS emite alerta sanitário para raiva herbívora na fronteira; entenda o que significa&nbsp;&nbsp;GZHSecretaria da Agricultura emite alerta sanitário para raiva dos herbívoros no Noroeste do RS&nbsp;&nbsp;Correio do PovoRS emite alerta após focos de raiva dos herbívoros em duas cidades&nbsp;&nbsp;Rádio ItatiaiaAlerta sobre raiva herbívora nas regiões Missões e Celeiro ascende importância da vacinação&nbsp;&nbsp;Rádio Progresso ",
-      "sources": [
-        {
-          "name": "Agora No Vale",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeGZXRm5XMjdxbWJqQmVkdEVYT3o2dXN0MGlmQW5nZGQxRm1zdzJGM2JCYVQ4MEFUa1Fvb0x2RmlFOTVsM05SLWxyRlMyZ3k5TlBaRm8wWkY1M202ZDlibkE3alZmeTNYVzVyUWt4cFNfVVNFX0F3d1BCS2IzSWdQdDNRS2NON00yVVVDZFBqWlFuSnN0Vm9Ed1hHN1J0cjQ?oc=5"
         }
       ]
     },
@@ -429,35 +429,11 @@
       "id": "31a569ae253f",
       "title": "O que acontece com a sua saúde se você tomar uma xícara de café todas as manhãs? Os 4 efeitos que ajudam a prolongar a vida - O GLOBO",
       "published": "2026-04-21T07:01:41+00:00",
-      "summary": "O que acontece com a sua saúde se você tomar uma xícara de café todas as manhãs? Os 4 efeitos que ajudam a prolongar a vida&nbsp;&nbsp;O GLOBOPesquisa com 36 mil pessoas mostra que beber café pode reduzir em 30% o risco de diabetes&nbsp;&nbsp;Gazeta de São PauloCafé pode ajudar a reduzir risco de demência, aponta estudo&nbsp;&nbsp;liberal.com.brCafé que bebe de manhã poderá ajudar (e muito) a sua memória, diz estudo&nbsp;&nbsp;Notícias ao MinutoBeber café todos os dias ou não beber café de jeito",
+      "summary": "O que acontece com a sua saúde se você tomar uma xícara de café todas as manhãs? Os 4 efeitos que ajudam a prolongar a vida&nbsp;&nbsp;O GLOBOPesquisa com 36 mil pessoas mostra que beber café pode reduzir em 30% o risco de diabetes&nbsp;&nbsp;Gazeta de São PauloCafé, demência e sono: o que dizem os últimos estudos&nbsp;&nbsp;A GazetaCafé pode ajudar a reduzir risco de demência, aponta estudo&nbsp;&nbsp;liberal.com.brBeber café todos os dias ou não beber café de jeito nenhum: quem se mantém mais ",
       "sources": [
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQVE5aNVRMbUNoajlmZzFSck9XRVl3endoYmZXSlFMLUtnTUhxMl9YdWFGTWU5WExiNTJXcHAtNHViYmk3cE1OYm56MWZtMVhkNkh5aUdCajBEdml0Y182dVNVRFNtZ1FOdHlzdWpFT0VMUHdGeWtMckZMU0NYRjBYdW9fSEp6VDlFb2JaY3U0YnhvZ2JjeFFxUnNVUUd2SVZ2SUR0c2xCdkNLdzlTdy1kYk5DSUpjbTNYb2RqbFBteUVjazFTempreVMtNlh4ei1jaEpPcmVubVIzUnJkVzI0WnpNMUJxLTJCaFBPWUNaMk8wYTdwOWlhYm1MOGFQODUwR3AzRzJQem1Yd9IBmAJBVV95cUxPOWMwWGwxN09ZMmhVSXpkaHI0enNEZFFqUHZBQkxDclE0T2dyakZTdlZlUmRvd2ZXWUdDd3FfbkllOEplNE9OQm5RdDhpc1dvUWlSZU5uTDl2cXpuaW9WcXFQUnVpUVpwNWtONnV1cnd2ak9PS3Q5Mkd4SjM3eDFtZGRXdktCMy1TNUVvbGFxMlhmV1V0c2ItdFE3OTlaVHF1d3VGdXNBR3ptUXJESml1Wnl3U1lNZ1dMOVFad1dpTmFlbWV0M2Mxd3NvN3FKdG0zdmNYY2Z1MFd6eVEtUUtFc19aMVJjRlRDd2RTZDUxSzlxWFpuLTlreDM2cXJCN0M2TGVBNHJldWhmSDJTV0xpTU9vNDBMTjFD?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5655d0b60a98",
-      "title": "Fauna silvestre pode indicar avanço de superbactérias fora de hospitais, diz pesquisa - G1",
-      "published": "2026-04-21T07:01:01+00:00",
-      "summary": "Fauna silvestre pode indicar avanço de superbactérias fora de hospitais, diz pesquisa&nbsp;&nbsp;G1Animais silvestres podem indicar avanço de bactérias resistentes a antibióticos&nbsp;&nbsp;R7Cientistas desativam escudo de superbactérias e restauram poder de antibióticos&nbsp;&nbsp;O CafezinhoBactérias 'Kamikaze'? estudo publicado na Nature Microbiology mostra como bactérias se sacrificam pelo grupo ao explodir e liberar fragmentos de DNA com genes de resistência a remédios&nbsp;&nbsp;CPG Click ",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZ2xCMWF4ZVZTRk9INlFpeFVqU1BzLTJ3SHp2SzBSRTlHcjdUeWVyTW9FTXYydGtMbk9KT1NDOXpyTFIxTXROS0p3cmdhRFZjVE80NVNpb1NLdGlwUTNSYXZILWdlU0k4ZEEzbl9iQkVrdTl2MVRDb3NrTU9lbmJoLUQwZy1JSUNScWZ6VV9sUHV1b1V3Tk5WMmFGel9ia3FqSnhuNnVaSmNUa1lrLTFmVzZsTl8tWlpzNzNzR3U2S2p3SkhLRkFVZ1M1SDFTMWZWV3RjZFhYUEpmTmpZ0gHrAUFVX3lxTE9lV1dEQ0NNRnE5d3hfSERVOXdDOEhNN1ZIbjZjOTZTaVFtblJYdmxQclBVbVJGUDhST21vd0VCbXJBcjNRSGFpQkxWZG5NazVEWkVTcmpJbnRIZEEzNGpQNGlDUHVJOElLb2ZhaG5hZ3g5V3VkUTk3QzBnVGU2MF9zczFzOFNQZUlTZTBhUWJUVkhfamN5S2stRTgyRUlXaUdDaWswZmhFN0xydlFWMUJBVVpCZDcyaGxOWTBMRW5acnFHemxqSnpNUzdYblcwcWh4WkFCQVFsMjdVaVhBODlzOFdXX0hPa0NXZ1U?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d4e17fdab4d0",
-      "title": "Cardiologistas orientam cuidados com o coração em cada fase da vida - Metrópoles",
-      "published": "2026-04-21T05:00:28+00:00",
-      "summary": "Cardiologistas orientam cuidados com o coração em cada fase da vida&nbsp;&nbsp;MetrópolesAtaque cardíaco: 4 sinais prévios que você não deve ignorar&nbsp;&nbsp;Veja SaúdeDoenças cardiovasculares não começam no coração - Jornal O Sul&nbsp;&nbsp;Jornal O Sul",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jakQ2X1hRQW56VTFCckFMSlhzYjdPWUtna3JyUWdUWHRBbkh1V05mYlBaaEx0R3cyeVU2cE0tZWthaS1KRXhIeUxvQm1ja3VoUzU1UTVBZDVtN2xqZTMzSjJ6ZVRoVU9rcko4cG44S3NPVk5GVkx4QTZB?oc=5"
         }
       ]
     }
