@@ -1,15 +1,27 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-04-24T02:51:02.018075+00:00",
-  "total_fetched": 106,
-  "unique_count": 105,
-  "health_related_count": 50,
+  "fetched_at": "2026-04-24T08:08:12.271612+00:00",
+  "total_fetched": 97,
+  "unique_count": 96,
+  "health_related_count": 46,
   "news": [
+    {
+      "id": "ba8dad1011a6",
+      "title": "Estudo com 200 anos de dados alerta que a Terra já opera além do limite, com população atual de 8,3 bilhões e pico previsto de 11,7 a 12,4 bilhões em 2060 e 2070, quando o sustentável seria perto de 2,5 bilhões - CPG Click Petróleo e Gás",
+      "published": "2026-04-24T01:53:00+00:00",
+      "summary": "Estudo com 200 anos de dados alerta que a Terra já opera além do limite, com população atual de 8,3 bilhões e pico previsto de 11,7 a 12,4 bilhões em 2060 e 2070, quando o sustentável seria perto de 2,5 bilhões&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQSzhCUEdTNUZ2RDB6QVFDSFpieGFWRUFlOHo2QlBuSUpTSS11bWVQbGhMZkFPdmNVMk1MdHFIcHI3SHBibERDZ211ZlBLb2lVUll3a0g1dTl0bEV0VmhreDhHWk9NQXBJQTdNYTdjVHZxRVA5QmljT2pPemM3WmdpZURZalc3Y3llWHVUODhyUWhvblJyVWpWeDdfNnhkUmU1QmxDOEw0OFpwbW5kX2F0OExDXzRfRUNJb2d5Sm4tSVNxa2FZQi11eFlXc3M1SHFjSzJaLXUwR0tuTURoS2JqMHBvdGtpSUFkbkZ2VnJpY05hN3o1OVowMFBGemsxVXRjaEpHblFqa3QyWkE0c21ldzRtYnN6LWR5UzYxSmFlVy1PeDA?oc=5"
+        }
+      ]
+    },
     {
       "id": "80fa846f7ab8",
       "title": "Dourados, em Mato Grosso do Sul, concentra 42% das mortes por chikungunya do país - Folha de S.Paulo",
       "published": "2026-04-23T23:34:00+00:00",
-      "summary": "Dourados, em Mato Grosso do Sul, concentra 42% das mortes por chikungunya do país&nbsp;&nbsp;Folha de S.PauloCalamidade pública em Dourados&nbsp;&nbsp;G1Dourados Intensifica Mutirão contra Chikungunya em Aldeias&nbsp;&nbsp;Campo Grande NewsProfissionais da saúde passam por treinamento para aplicar vacina contra Chikungunya em Dourados&nbsp;&nbsp;MidiamaxChikungunya dispara e lota hospitais em Dourados, MS&nbsp;&nbsp;R7",
+      "summary": "Dourados, em Mato Grosso do Sul, concentra 42% das mortes por chikungunya do país&nbsp;&nbsp;Folha de S.PauloCalamidade pública em Dourados&nbsp;&nbsp;G1Profissionais da saúde passam por treinamento para aplicar vacina contra Chikungunya em Dourados&nbsp;&nbsp;MidiamaxDefesa Civil apoia limpeza contra chikungunya em aldeias de Dourados (MS)&nbsp;&nbsp;Jornal de BrasíliaChikungunya: Dourados decreta calamidade; vacinação começa segunda&nbsp;&nbsp;Agência Brasil",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -66,18 +78,6 @@
       ]
     },
     {
-      "id": "b98fa7f9e5a0",
-      "title": "Obras de R$ 23 milhões no prédio de Medicina da UFSC serão retomadas após paralisação - ND Mais",
-      "published": "2026-04-23T20:47:50+00:00",
-      "summary": "Obras de R$ 23 milhões no prédio de Medicina da UFSC serão retomadas após paralisação&nbsp;&nbsp;ND Mais",
-      "sources": [
-        {
-          "name": "ND Mais",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdXV2d2hDNmtXUDBJV3REZ0wzYjlHdmg0MzF1bVNwSEtOS05RQmRWS25hWjZVTXFyN3pBOFNEcGVFRWduUVNyeEJCUXd1Vzg0TXNZLV9fS3lLMHJTTnF6bTZkc3g1UUh2VmVLaGhud3NEUmhLcWNuN3IwcXRnRmh1TVd6Y2dGWGZIaEgw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "df93fcd992bf",
       "title": "Uma minhoca congelada por impressionantes 46 mil anos na Sibéria retorna à vida em laboratório, se reproduz após a era dos neandertais e revela um fenômeno científico inacreditável que pode mudar tudo o que sabemos sobre a sobrevivência na Terra e - CPG Click Petróleo e Gás",
       "published": "2026-04-23T20:22:00+00:00",
@@ -114,14 +114,26 @@
       ]
     },
     {
-      "id": "244cbb5cce5f",
-      "title": "O animal imortal que pode ser a chave para tratar câncer em humanos - BM&C News",
-      "published": "2026-04-23T16:11:35+00:00",
-      "summary": "O animal imortal que pode ser a chave para tratar câncer em humanos&nbsp;&nbsp;BM&amp;C News",
+      "id": "416daea64f93",
+      "title": "Resumo da novela Coração de Mãe de 24 de abril de 2026 - O TEMPO",
+      "published": "2026-04-23T17:01:52+00:00",
+      "summary": "Resumo da novela Coração de Mãe de 24 de abril de 2026&nbsp;&nbsp;O TEMPO",
       "sources": [
         {
-          "name": "BM&C News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYWo0U3FndHBNMGNpZUdQWTlrOVkzWjNCamJrOGI0WlV4bktUTnowMnlSaE9kWHJENkRTYk5yVjBJNnV2ekZFTWZhQWtDZXJyV3BPWFQ0emdvUDd1UTlDaEpiWFRCaXFWNFY4ZTNQUFhNMW82SUQxQ3I5eFY0dnZyZEFsN053S21OM3VTdEExVGRVcnNzbUEzaEQzaWM2eXNMbk9pT3BhTQ?oc=5"
+          "name": "O TEMPO",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZVRSdlg5T0ZWRnlzNVF6U1RaeUZITFBkS25wQ2xfaE12dkhpOWRMVmYtY1lCc2dFU3BJYTdzQUFfdGNBT2gzV3JndHBxWWJMNzJaMm5oQkRfVmVKN3FrUnRoRUlId0JHMHpJRnA4RFFWS1FmdUVvd1Q1bWNOVnpKLVF2Z19Hdy1xODJiUFo0UGJoa2d5ZWVWNzktYlp2bEdSNXhIUGhLdkdNaUw4a1hhaw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1f413a736b8a",
+      "title": "Seis meses no espaço fazem o cérebro subir dentro do crânio, ampliam cavidades cerebrais em até 25% e deixam sequelas estruturais por até três anos, criando um risco silencioso para astronautas que embarcam em uma segunda missão antes da recuper - CPG Click Petróleo e Gás",
+      "published": "2026-04-23T16:38:00+00:00",
+      "summary": "Seis meses no espaço fazem o cérebro subir dentro do crânio, ampliam cavidades cerebrais em até 25% e deixam sequelas estruturais por até três anos, criando um risco silencioso para astronautas que embarcam em uma segunda missão antes da recuper&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTVZvMnFwMjI2NkU0VUEzS3FlWDh3NnFHUjI0VFc5dmluZlRMd3pXRTFleElUZmx4UkdOZWtHaENubk5HOU5STk5hSDFyWjBtSWhMaWJpS0RIRjFFclR5WmlLVE9Oc0RMMkNxazA1MHVudGxJM052QjdtMDNBNmUyb1FfM3E4cW9zMVgzQ0xZRnRVemFGZjVadThyQnNmMVcyWnFHYngyc19fOVpKY0pydHljcVRCWENiajJDQVI2RkxnaVVyN21VLVhkV1k4MkNibTA2T1A3X3JGRzhQaHdPcGhuSXNGbkpzYWRz?oc=5"
         }
       ]
     },
@@ -258,6 +270,18 @@
       ]
     },
     {
+      "id": "9bdafbe2420a",
+      "title": "Como age e quanto custa o novo remédio contra Alzheimer que chega ao Brasil - UOL",
+      "published": "2026-04-23T12:43:49+00:00",
+      "summary": "Como age e quanto custa o novo remédio contra Alzheimer que chega ao Brasil&nbsp;&nbsp;UOLNovo medicamento para Alzheimer já tem data para chegar ao mercado e preço definido&nbsp;&nbsp;VEJASUS não dá conta de arcar e 2 milhões de brasileiros podem ter que pagar até R$ 11 mil por remédio&nbsp;&nbsp;Diário do ComércioRemédio para tratar doença de FHC custará de R$ 8 mil a R$ 11 mil no Brasil&nbsp;&nbsp;NSC TotalRemédio para Alzheimer chega ao Brasil por até R$ 11 mil ao mês&nbsp;&nbsp;Poder360",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPN19BQmliM0k4QmFSZEJOSzQxME1IVkZkV2xfdUh5QmI0VU1URWlWbUVFTU1Bb25jWlI1VmVVa2RoeHBHejBFVkVKMndob3JJTGJ3RzhXcFFscDdXUkxBRzRHdTBVaHNZeVZNTHUxQlhiQU5zcUswb0YwUlhfaG9iZmR0STRBbk1pSUN4TnRTbGhfRHBiSkNyNkc2MF9Ec2w3SUxUM01mMUxUdlBFdVBub2NkNlR1SkI2alo5aG5LWG5LbkxtbmVtbEg2V2JnejZUX2IzU2N3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "4fb10ffbc700",
       "title": "Conheça nove vegetais que ajudam a reduzir a pressão arterial - ICL Notícias",
       "published": "2026-04-23T12:33:26+00:00",
@@ -273,7 +297,7 @@
       "id": "0c8c76d6c79d",
       "title": "RN registra três novos casos de Mpox; pacientes estão em isolamento domiciliar - Tribuna do Norte",
       "published": "2026-04-23T12:26:22+00:00",
-      "summary": "RN registra três novos casos de Mpox; pacientes estão em isolamento domiciliar&nbsp;&nbsp;Tribuna do NorteSecretaria de Saúde confirma três novos casos de mpox no RN&nbsp;&nbsp;G1RN confirma novos casos de monkeypox&nbsp;&nbsp;Agora RNMpox: o que é a doença, como ocorre a transmissão e quais são os principais sintomas&nbsp;&nbsp;Tribuna do NorteMulher testa positivo para mpox na Zona Norte de Natal e entra em isolamento domiciliar&nbsp;&nbsp;Portal 96FM",
+      "summary": "RN registra três novos casos de Mpox; pacientes estão em isolamento domiciliar&nbsp;&nbsp;Tribuna do NorteSecretaria de Saúde confirma três novos casos de mpox no RN&nbsp;&nbsp;G1Sesap confirma 12 casos de Mpox em 2026&nbsp;&nbsp;Tribuna do NorteRN confirma novos casos de monkeypox&nbsp;&nbsp;Agora RNMulher testa positivo para mpox na Zona Norte de Natal e entra em isolamento domiciliar&nbsp;&nbsp;Portal 96FM",
       "sources": [
         {
           "name": "Tribuna do Norte",
@@ -306,14 +330,14 @@
       ]
     },
     {
-      "id": "0d188f04a3ea",
-      "title": "Estudo revela que a malária moldou a distribuição dos primeiros humanos na África - G1",
-      "published": "2026-04-23T08:04:58+00:00",
-      "summary": "Estudo revela que a malária moldou a distribuição dos primeiros humanos na África&nbsp;&nbsp;G1",
+      "id": "96676315d368",
+      "title": "Nova espécie descoberta na Caatinga ganha nome de arqueóloga brasileira - Casa e Jardim",
+      "published": "2026-04-23T09:05:33+00:00",
+      "summary": "Nova espécie descoberta na Caatinga ganha nome de arqueóloga brasileira&nbsp;&nbsp;Casa e Jardim",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQmNJX3VLcXBqRl9mMG1LOU03REJSanRqTlZvaFdQWGUzTm4zYWxDRTctQUIxSEVkRG1lUk5GdUZfcm9LdldROGRITW5GU2RkVDhmNG52S25oNkJ0T1ZVNERtZFpOb0N3aXFpQkZYMjYyTVlmTTJnUWRkWDRLeE1CXzc1LVFORk1vR2dLOWpsVXBVVG5TTzNITUxfTS1zQ0YyRHYydWRzbG5DZWU2Z1FiTXFmX1dwRDhaaUx6ejN4a3Jsb1FPS3dOR1JuT3NjX2pTakE2MTdISmfSAecBQVVfeXFMUFlSVWhlOEpjcEF1d0NKLTFTM3hEZXoxaHRCN3NxUXdGYzFneTV0QWFiTnQtcVdxYzJ1WVNYcnRjQmtOLUVPNzBtOENqWlZHRlpsRDl1ODR4Z2tWdzhUeUJLclRvdGJRbGRKeURwUGZOUGFuTUpYNDZYS3dScmhBT0dHX0hPOVp2bU51dU14R1J2RWpReS03cC1NZWxMSXVpVWpUQmpLNTN5TTJxSl92RkZ3QzNtMjVSOC0yV3ByTEtqd0NIYTRHY0trMUdXa1gtVU9RYVZPUmZYTERRMEFxdjQ4amRVQTF3?oc=5"
+          "name": "Casa e Jardim",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMWdWcG85czJqQ0JDRlhLQlR0MlY3clp3dnVhM0p4UVY1N2UwbGZNSnktdTdGWl9LQ0FuVnBnbGFuSW9xWkRvVXFGWS12WlgtRDVnS2NWUHBYd29vbHptTThvaWZ2RjFEYnpmeURsOGt4ZFFyaHY4YXRmT2U4NzJTVDNGeVo5S1ZfMG4zYjdJQmtRZENFQVpIdUJsdThzcExhLW50LURwTE41aXZpUUNfSHo1Z1hremx3cVRyc3d0RHAteFY2M1h0N0NkektKVFZoREFPQVNCVGjSAecBQVVfeXFMT3VMUlNOYW1wUkN6S3E0Sk44dlVVVFpldVZlRzd2SE9VU0pPWFVrZGpLTmRoenZtdFk4ZHN0cXMwcXFYN1RVY1ZjR2g3WDVFY3BwQ21zY1JIZ3lHQUdXeVJRRmdVanhYWFZFOUJqZ1NyTGl2YzkwM2NUTHQybG5INkFZbUhVLVN5TWt3Y1o4M0hyUXB3QV9sSTF5NGxQNW5tUS1ycVZyRjNmd2NFckRPbmxXeHBnbHFtN0xJTmhHMmJFX3loTFE1N3JZRlpDM3dJMmhNdGRRQUxoZEUtUXdxTFpjTmZkOE5n?oc=5"
         }
       ]
     },
@@ -321,7 +345,7 @@
       "id": "138e119aab93",
       "title": "Hipertensão: mortes crescem quase 80% na Bahia e preocupam especialistas - Jornal Correio",
       "published": "2026-04-23T08:00:00+00:00",
-      "summary": "Hipertensão: mortes crescem quase 80% na Bahia e preocupam especialistas&nbsp;&nbsp;Jornal CorreioCuidado com a hipertensão arterial: AVC e infarto estão entre as principais consequências&nbsp;&nbsp;G1Hipertensão e diabetes exigem controle rigoroso para evitar complicações silenciosas&nbsp;&nbsp;Rádio UirapuruPressão alta atinge mais de 2,1 milhões no Paraná e mudança de hábitos é principal forma de prevenção&nbsp;&nbsp;Banda BHipertensão: por que ela é silenciosa e como pode desencadear um infa",
+      "summary": "Hipertensão: mortes crescem quase 80% na Bahia e preocupam especialistas&nbsp;&nbsp;Jornal CorreioCuidado com a hipertensão arterial: AVC e infarto estão entre as principais consequências&nbsp;&nbsp;G1Hipertensão e diabetes exigem controle rigoroso para evitar complicações silenciosas&nbsp;&nbsp;Rádio UirapuruPressão alta atinge mais de 2,1 milhões no Paraná e mudança de hábitos é principal forma de prevenção&nbsp;&nbsp;bandab.com.brHipertensão: por que ela é silenciosa e como pode desencadear u",
       "sources": [
         {
           "name": "Jornal Correio",
@@ -330,14 +354,14 @@
       ]
     },
     {
-      "id": "f44631377e2d",
-      "title": "Sete dias de meditação pode reprogramar seu cérebro, afirma estudo - Terra",
-      "published": "2026-04-23T08:00:00+00:00",
-      "summary": "Sete dias de meditação pode reprogramar seu cérebro, afirma estudo&nbsp;&nbsp;TerraSe você é uma pessoa que ora, busca a Deus e medita, seu cérebro está ativando essa região emocional&nbsp;&nbsp;Estado de MinasA meditação mindfulness pode reprogramar seu cérebro para um foco mais apurado&nbsp;&nbsp;Revista OesteA meditação pode reprogramar todo o seu corpo em apenas sete dias&nbsp;&nbsp;Revista Oeste",
+      "id": "113c86da0c55",
+      "title": "Pela primeira vez, cientistas fazem 'tomografia' em múmias egípcias e descobrem sinais de doenças de mais de 2.300 anos - O GLOBO",
+      "published": "2026-04-23T07:02:15+00:00",
+      "summary": "Pela primeira vez, cientistas fazem 'tomografia' em múmias egípcias e descobrem sinais de doenças de mais de 2.300 anos&nbsp;&nbsp;O GLOBO",
       "sources": [
         {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNX2pHQ0pvdGxLb0R2WUE1bTVOdlIyNHpmLXpHUDhLMEthTXpXMnVIaHlfUzFPWXg0YVp0ZVllYXBuTUgxMDZEcGoxYWdTTUR0alRnQ0NYLVVQaUp6R3Y2MlZFUldGTlU4QVRmLXJDZXo2UGRrTUxqc1JRdGViOTlaZ3U2a0RLeEJVeFNuX0pSTjdOaGlFNkFjaVNnRXZIN3FjX1E1RFExZEhuNmFBNkVGUkV5empwbGV1VGo0aWVqS1lRUXViN0Z0a3hubjRpcnNjcnpTYlJTWWRManJWTUduYWp2OU0?oc=5"
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQUXpqRVJqblZ4SlRkZE8zY0pMVmJBUThvYTBBY2NIb0JWdWRhN21QelJrQlFCYWdSWkY1OTlpdWVtNVUtaU1SeVhOTXRkYzMwTDI4UEY3NXFLWVVjUU5VT1E4QmhqVlp0VnQ0R0g2WFk0SXVZQTVXNWxHSUxmTmNBYlRVc0VFUTFoNTRYV0xJVXB2SzBsVl9zRXlyYnpOQzJTemx4aDZqODRsS2NEVVhReXhiekx1dFVPYzM4dUVGc1BENmFHVGxmYzNZN3I0ZXZkUWZPbUl3Y3Z1Nkh0dTZhVFVTUEV2a2ZYUnNLbF9SSFRabmo3QTZxbWlGbTlMeUoxMUJtNnk0cnVDUzjSAZoCQVVfeXFMTU13Si1NYlJVWEN0Q205M0NNaE9vdFdlWHprTUtxSkdmWm9yeGFoZkhYdWQ1ZHYteFh6VjVRV3pKbFp4ODlBOTZTRlJIUGM5Zl9jMXY2SW1IT3FIcDlqcDBULXBEUjZ5NE1XWUFMenp6cXUwM3hrckdhTjd2dWN6YlJod0lXMkI0cFVsaGYwcDF5WDJQWkdpZXlNNEpsTVR0Z3l5TTc5M1cwSkJIQnNZRGJfdjhxWkFmRWVYN3ExalhLdExtSHZSUnU3WGlSY0oxN2l5dmpfRVdJOVB3OHJPTVFqWkIwYXVnNUhNTWlFTnJWdWRsaTNCNkx4RjZCQVhBT0F3ZFNVSTRFNFZybW93RFpCT0JOQ3g1SWtB?oc=5"
         }
       ]
     },
@@ -378,14 +402,14 @@
       ]
     },
     {
-      "id": "1814cd56be57",
-      "title": "A variabilidade da frequência cardíaca está ganhando relevância na saúde do sistema nervoso autônomo e na gestão do estresse - Tua Saúde",
-      "published": "2026-04-22T20:55:00+00:00",
-      "summary": "A variabilidade da frequência cardíaca está ganhando relevância na saúde do sistema nervoso autônomo e na gestão do estresse&nbsp;&nbsp;Tua Saúde",
+      "id": "35ea06314f7b",
+      "title": "Mulher que teve sintomas tratados como estresse descobre tumor cerebral - CNN Brasil",
+      "published": "2026-04-22T22:13:03+00:00",
+      "summary": "Mulher que teve sintomas tratados como estresse descobre tumor cerebral&nbsp;&nbsp;CNN BrasilVer cobertura completa no Google Notícias",
       "sources": [
         {
-          "name": "Tua Saúde",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQaGNIQXVkODhHM2pWRHBfbFFrVzRkR0hJS2t3enJvN19mY3ZvZDl0azNONDRXWWVPV0NXTFR5NldIQlJnaGN3OU9qaHNWYkEwQjVPeDZxSnRGNTEtUmRzYTFrbXJTOFV0UEE3OUg0U1gxMnFGODUwb2pJdUZtbmc4ZG9SZERvWi1kTkVjZ0VWWEp0bmQxNWNnODIyRHQzYzhrejFucFh1bFh4VndUS25xbVNOOXAtbEZzQzhBdEpjOURDdXlaMGVaZmNYb2k1OFlVSUYzay10RzVxUnZNbktxZDJfYWtlMHd5Y2xHcVNyUHZKRHdtZmtYTE5R?oc=5"
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNazNKZ3g5UVdRSTVHUDFMbEl0YUUwR3ZObVV3TVRHQ184QlhEMTdfVlNwOXRzZ2JOOVpvaE45MGlJTlRJeFZZdWhMWjdJenB1UE5mSlpva2VncExPeDlRSWliREhtNXBFSXFGeFJJbERPMjc3d25IbDc4Vnhyc3ZmYl9YbHNFcVg1X0o4NWdzMm1ia2paRHp3SlZXNlJWcFNpSmdjVHdXNkwxM2c?oc=5"
         }
       ]
     },
@@ -398,18 +422,6 @@
         {
           "name": "Época Negócios",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNR1M3UEdtWjhjUHhkU1NLTV9jY0xwRmc5NEdwMnlQMWd3TDFiNVNIbENicUNiMEpjTHJ2TWV4VzBOUTlpSkp2UVA2ZnY2MlJyLXpTMmFheldzWG42N0hib0JvYllFRm5HTTVCUTZiS3Y2U0RfTDJLeEkxWXZJeXRPNDBVY3Boc1dySE1mZ1NZU0NZZHlCU2dfWlFkZWtPZlo1Skg1bUV4bDNLVVBMMFdrZG1jaDlFeGdINW9ab0NhZnE4b2w2UUJn0gHWAUFVX3lxTE50dEsxb2J6c3dhOG1QRldGMWFKTnRSQUc4bmpEMXlnd3F4b2U2XzJZZm9OdEY0cmp3UXVudFFkZXpCUjlBcnE1QlRpQzM4X0dtRXFuV3NGdGhianI4bFJnNFp6R0M0bnVaRjJrdXliSmZxT0JXaGV5SE8tMGpsTXFDVmlCUHZBSHdNSmo3b1dPcWtfUTg2OERBMU9IbXczV2FKRWkyMUN0ekVzN2VQMXhJbEtveVp4OEM1SG9CUkQwNThZLTZwSUpLSE1QTlR0VHN0MmlCN0E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f56811c97e25",
-      "title": "O que acontece com o corpo ao caminhar? Benefícios para mente, energia e metabolismo - Terra",
-      "published": "2026-04-22T20:22:00+00:00",
-      "summary": "O que acontece com o corpo ao caminhar? Benefícios para mente, energia e metabolismo&nbsp;&nbsp;TerraCaminhar, sempre&nbsp;&nbsp;CartaCapitalQuantos passos são suficientes para melhorar a saúde do coração? Um novo estudo indica que, para mulheres com mais de 60 anos, não são 10.000&nbsp;&nbsp;TerraEspecialista revela uma maneira simples de reduzir os riscos à saúde causados por ficar sentado por longos períodos&nbsp;&nbsp;CPG Click Petróleo e GásO fim do \"terrorismo postural\": por que ficar sent",
-      "sources": [
-        {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQc3JvYjZ4T0NKZF9LVWVRZHRoZ3ltT1FzSW04Mk1Wb1RiQjg3cXpNaUV3ek82bGFsUk1HUXN1emRtUG10Wnc2bEVaTnd3cll2b2h1SmNRLURzNVBuYURQR2JCNU1Ya2FteUZSUWRsYUlSNDMxTGNMUjQydnJzdmxhT1FRVFVEYTdrWUpyeUlad1ZrTk1RSW5oeWM0am1RNm1zdno2ZFhhSnRzT2VEVTAtRmJHVmRDb1l1QjF4eWNTbnYxbkViMkY0UGtRYUhqbFQ2Qmw4S1FFdGk3YTZMU29KV3Y5Ml95M0QyajU2cjN6UU9BMEJHcWMzTGFSM0V4TVd1VnE0?oc=5"
         }
       ]
     },
@@ -438,13 +450,13 @@
       ]
     },
     {
-      "id": "2180f15b439c",
-      "title": "Governo do Brasil intensifica vacinação nas escolas públicas e busca alcançar 27 milhões de estudantes - www.gov.br",
+      "id": "54cb86500e64",
+      "title": "Governo do Brasil intensifica vacinação nas escolas públicas e busca alcançar 27 milhões de estudantes - GOV.BR",
       "published": "2026-04-22T19:29:00+00:00",
-      "summary": "Governo do Brasil intensifica vacinação nas escolas públicas e busca alcançar 27 milhões de estudantes&nbsp;&nbsp;www.gov.brGoverno inicia vacinação nas escolas: confira calendário, público e vacinas disponíveis&nbsp;&nbsp;O GLOBOGoverno lança campanha de vacinação em mais de 100 mil escolas públicas&nbsp;&nbsp;R7Governo federal lança semana de vacinação em mais de 100 mil escolas&nbsp;&nbsp;UOL NotíciasGoverno lança campanha de vacinação escolar e alerta pais por Whatsapp&nbsp;&nbsp;CNN Brasil",
+      "summary": "Governo do Brasil intensifica vacinação nas escolas públicas e busca alcançar 27 milhões de estudantes&nbsp;&nbsp;GOV.BRGoverno do Brasil inicia vacinação nas escolas para atualizar caderneta de 27 milhões de estudantes&nbsp;&nbsp;GOV.BRGoverno inicia vacinação nas escolas: confira calendário, público e vacinas disponíveis&nbsp;&nbsp;O GLOBOGoverno lança campanha de vacinação em mais de 100 mil escolas públicas&nbsp;&nbsp;R7Governo federal lança semana de vacinação em mais de 100 mil escolas&nbs",
       "sources": [
         {
-          "name": "www.gov.br",
+          "name": "GOV.BR",
           "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcUNnenEyTDd1cEg0aVdJbjQtaTUySF9tZGFieUdhTE9kMk5iSmxVZEVVVWtXX2Mzd3lKa3Z4dV9Lc2J5NHFHWU5TVTdFTV8zMWVxZWNtNlR2OWR0NEk2RVRUd0hPQ2lINzA3em1HSXVqRC1xclVENGhXY2sxNnIwSWt3ZmFEcW8yeG5ieUF1NFJuY3JUMnRzV1pERXAyVndybUVoWURGQS05Zy1uYUNGeW13ckRqMXNWZ0xOaTRFdEoxNGxiQ1Y3Z1NCYU5jRkFDX0ozbUZPTmxCaUJDRDREbzZ2QXcyRHBjY2VpdTJNZUQxVXFV?oc=5"
         }
       ]
@@ -510,50 +522,14 @@
       ]
     },
     {
-      "id": "0822f8c0317f",
-      "title": "A um mês do fim da campanha, Campinas vacina só 7% das crianças contra gripe; meta é 90% - G1",
-      "published": "2026-04-22T14:48:40+00:00",
-      "summary": "A um mês do fim da campanha, Campinas vacina só 7% das crianças contra gripe; meta é 90%&nbsp;&nbsp;G1Internações por gripe mais que dobram em Piracicaba neste ano&nbsp;&nbsp;G1SBC monta pontos de vacinação em praças neste sábado (25)&nbsp;&nbsp;Portal ABC do ABCCom aumento de casos de Influenza, Saúde reforça vacinação com horário estendido em cinco unidades&nbsp;&nbsp;Portal do Município de PiracicabaHorários da Casa da Vacina são ampliados para elevar cobertura vacinal contra a gripe&nbsp;&nb",
+      "id": "b68b89ab7cc0",
+      "title": "A quase 8.000 metros de profundidade, cientistas descobrem um predador branco e minúsculo na Fossa do Atacama, o primeiro anfípode caçador ativo desse porte encontrado em uma das regiões mais extremas da Terra - CPG Click Petróleo e Gás",
+      "published": "2026-04-22T14:44:00+00:00",
+      "summary": "A quase 8.000 metros de profundidade, cientistas descobrem um predador branco e minúsculo na Fossa do Atacama, o primeiro anfípode caçador ativo desse porte encontrado em uma das regiões mais extremas da Terra&nbsp;&nbsp;CPG Click Petróleo e Gás",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPS0xFc1pDaVU1YnNZSWRrQ2FJdXc3OWg2YnpGRjdUcUo3QVZMT2ZYenZMSGFmbG1ZZURaZVAzajZsdnFqVENDTk83al9pTVB4VTNoN2puYy1jbS1GbHlfT1A1MHRLRldkV212ZW9VQ1B3VDVidTBEWXd0YWV5YUlNb0lGekNiRDcwUE9fdzd6d3BYMUZ6LWRENGJkbklRN2c1RUhXb1NURkdHSU1xV0h1M25USFhKb1ZHWndBZDVha19oaHBTSl9TMEdYWTM2bGpZRng1RU9udnRTWGVSdEt3Y2ludnhMV2lrOEM2Um95c3VJQ29WOEHSAYQCQVVfeXFMTURmbDJ6YkVldG1OYzFUaDYydFZtbXVJZDJ3UUtBZ28yVmF3SVFqQ01pbHZ0djV3a2lqSUsxcjZUSWROR0o1bzlHelpBbVZKMGNtOC1VVUJ3UmV2bjBmN2gzVFpieE5wT0RzbE96US1WTlo4akJvTmcyVVcyTVJ4WUhSQUN2OHhfUndUTTgtNzV5bG1vQ01iMU9qbTJYSGI5ZXFkX2ZmSlZKWllJUHl0X0tzcWd4TGFNQThwWjJIREdOTkpvcFJjblp5VWt3WTBrek1IREVtUEU0a2tPUElWTmk3ZjlzalF4Nk00THloYVZzbjdDdU4zRHlpZno2cmViY0RhVko?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7b28758a4fda",
-      "title": "Prefeitura de Lagoinha confirma mortes de duas pessoas por febre amarela - G1",
-      "published": "2026-04-22T14:33:41+00:00",
-      "summary": "Prefeitura de Lagoinha confirma mortes de duas pessoas por febre amarela&nbsp;&nbsp;G1Três pessoas morreram de Febre Amarela no estado&nbsp;&nbsp;G1Com seis casos confirmados, Saúde SP convoca população para vacinação contra a febre amarela&nbsp;&nbsp;Agência SPSP confirma 6 casos de febre amarela, com 3 mortes; vacinação é incentivada&nbsp;&nbsp;EstadãoGoverno de SP convoca vacinação após 3° morte por febre amarela no ano&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaHFYUFFSbHBCck10QmRaSWx2S0FjY2VqZnc0c2R1NktMSzc1elc3dFVyOUZGRElLVTFJWjFPd2xhdjdvSGxjWURmNUVjaDBRUUhSSXFKT3NaQ2IyNXE1RXpNU3JaZDVrVUwzU1FUa3cwb3g4T2I2cGdhV01UUERPUjhnT3FaWi1JNnFUMUZ5V3hZSE9ibWRrSVVCUGtxc2U4OW4tUjN0aW94R2J3RW5PdkRMamhDbkRrZTlmMUhibW5ZNEZ3OXZfUWpjOFRsR2ZKR042U1hndWVqNEhO0gHrAUFVX3lxTE9lTFVYR19xemg3NnYybERibjd2OTZSWXl4bGtZNlB1MHYyT3ZlM096ZHkzaTZFbVB0emNWdjRaYzMtNUhfLWRNYlpjNUszeWJTVVJRazZ2ZVhQUEswbjhfM2FiUmtQQ1FHQVd1TWNQUmdkOVc4N2Y5U1hhTUM5bFo1Y3Njay1fT0lFZDc2WmdaSDlQdjBWMWxjYnBwRHBicXZoMzdjTlNJaGcxUXpQOWZwc3hlTXlXMWhTUWJSdURCR2JOZFdrdWQyRjU5R3ZHZ3kwb09yRm5MTWk4ei1NbXoxaXRkalZrR0RKc0U?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8fa79022c2da",
-      "title": "Estudo sugere que cochilar muito pode ser sinal de alerta de saúde em idosos - Extra online",
-      "published": "2026-04-22T14:25:09+00:00",
-      "summary": "Estudo sugere que cochilar muito pode ser sinal de alerta de saúde em idosos&nbsp;&nbsp;Extra onlineCada hora extra de cochilo aumenta risco de mortalidade em 13%, diz estudo&nbsp;&nbsp;UOLCochilos longos e frequentes podem aumentar risco de mortalidade; entenda relação&nbsp;&nbsp;G1Excesso de cochilos pode indicar problemas de saúde em idosos, diz estudo&nbsp;&nbsp;TerraQuando o cochilo é sinal de perigo&nbsp;&nbsp;Correio Braziliense",
-      "sources": [
-        {
-          "name": "Extra online",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPejRKaVZUdUFRNjBzWEVYam1mM09UTG1ZZjVYeGlyejJQdGs0ekM2RHNTOURDMWcyTUNmWWJTOTd5aFlmY041QWhlaGlOR3lRWllPTlVjOUNSaEd2b2plQklFVlFlb2p3Xy1UUkVSd2pOSmp2Z0hybWJubU0tcTNYQWMzTFFXTjViMDhqYTVGN0RkNnBPSkFaZUVfbkFoVHcyRDZjLXZEZ0ZhdGZyY05ZQVM1WEgxZk14bHFLY1V1WWhkcTVkdmRj0gHWAUFVX3lxTE5heW5Dd0xYbnNVRUQ0MW5TenVIWmhTdGFxU2lBNkpYbmM4dE9fZk5WaklBaUlYdmpjRTRRb21kOElLTkV6bHNkd1RtWEt0VHh4NzlpNXZvQzZBVmFZaG9xR290bXJxUGJjcW5CbTJTY1UwczNRZ2pGbVNmcTh1UFd6a2hGNGREdE9YVDh5Q2UzTFVYb1lhOVo1eDJyTDVrNnh2ZlFic3B2MkFQVVI2UTMyUHpyRUs0MUY4amk1c0hDdnh0MGFEc3Q4d2xQWkJkRTdueDZQLXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "66ea03a01885",
-      "title": "Medicina capilar avança e amplia possibilidade de tratamento - Terra",
-      "published": "2026-04-22T14:06:00+00:00",
-      "summary": "Medicina capilar avança e amplia possibilidade de tratamento&nbsp;&nbsp;TerraVer cobertura completa no Google Notícias",
-      "sources": [
-        {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcEhoWEJjV3htczZxam1kNzRBbFNvQTdQZUdMVUU5aEd6OU1oMnp2SDYwYnU3RU5EUHltbkNOZ0JLa0U3aDdCNkJGWl9WeGhaX0pfU0pBR3FqR0hyWlBublQ2d1FVdXFYZlppVGRpUWh6YV83NzhpTjR6QlhXOWt6MUNNMUtua3lDTUJHbXlpMkJaTGE4R3NqTFpBcEl2bkZMRVhqNDFCM251TWJrbWp2YXNYOEQ1cm9wY1RqRTRsc2lIMjcxcm5QV01BbndaeWpCRy1tY2ZQVQ?oc=5"
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQMmNEdV9GNFI0NjhNS3hHZ2lLaGVFMlhXVzZIb2RodHRDQ2draXd0cURmQmpFLUdFYjRpR0dJRVEwd09nSUNLaDNvUkZWdUZ3Z0Z4YmhicmdCaUd0enJwMmpETHpoRVc1YURCTjBwSFFmSy1uV01VVEMxQ0JndFBmbGo1LXhXQkt0MERqQUJwaFhSUHNNeVk2My00UVNYVFlTdktvQkU4eUpJbHNxQkxNMTVza1djM1doZEJqaVlxTGZoQk1jeGJOWUlXTjB5RUpmbFhWZFRCaFlCamhsUWxselE4ZHJvTy0tVTEyYUVqZWg0UjZJdEFrUjc4ZURaTng1ZURWSHZqeU9PMlFaeWVPOXFOX3RodFNyVFk5eEF2bFpvQXJOMVBEdndUdk42QTVfaWt2RDZlU1pmM1ZhMVRKY0E2eWlSb0U?oc=5"
         }
       ]
     },
@@ -570,18 +546,6 @@
       ]
     },
     {
-      "id": "b3fab8e9b100",
-      "title": "Saiba como manter a saúde bucal durante episódios de gripe - R7",
-      "published": "2026-04-22T12:41:44+00:00",
-      "summary": "Saiba como manter a saúde bucal durante episódios de gripe&nbsp;&nbsp;R7",
-      "sources": [
-        {
-          "name": "R7",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQR1RTM2pnX1NINXFKNFNleDNOMVFDNlNKLUxBVGQ3bVM1ZW1JTHVNNXhqOUxnTlN4YXVxQzZ6ekJQZnp0SzYxVzJ3eWE2RnhMYUdLbnNyNF92Qm1WTkY4NUZUSjUxYWZnMUlLV0wycXJtNzlySnVRVW5TV0h0TlV3bTVTOGRKaTl6NWFQN1pLUmlCSUl6MHFPWDktZ3Q1UWZuSkJyb3Q0TzFqOV9VdkVsZmUzZ2loS1F3Q0NSQnZmcw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5fa91b8b16c4",
       "title": "Ciência mostra como a dieta ajuda a prevenir e a tratar o melasma - Folha de S.Paulo",
       "published": "2026-04-22T10:00:00+00:00",
@@ -590,18 +554,6 @@
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQN0dFQ2hNeTZMSGN4TGJIX3FZRzlMR09aQU9zbUJkUzJjMkxPYjUzb2ZjQTM4Wko1ZE1FZENKWENFS2laVmtXdlNzc1JVSTZNYVdSSk5SRDFKa2t3V1hTeFN5SHA5UlV4OU93R1pyMXNDOEoyNzBEbEVSVURidUJsVjhNWUE5QmxIQ3kyYlhzMU1sX1hxTXJLSGowUi1PaDlLWDlDU3FVbTZNOFhJb0Q5M19xbEhtYllrZDRVRNIBwgFBVV95cUxOZnpHWURLNlVnSF9fc1I5bnBjZGdCNnRmd0NMUFJFcXZEVG1KbS05aHNqM3NaZjdJUHotanVuZUQybzZkX2ZQUFZ1VlJIbkVGaHFWTHA4eTBvUXNiREZqdkV5OExtT2NqelZxVW1nak5kRFA3ZnBUUjJ3YUFEdUNIbTBwU3Q1N3lOcDhWNDN4QmpoQkphT0FES2FZbWxLdThvR05ack5kV2VKWFU5Rk0zR2xrTEp0MFJqZkh0em9vRFItZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0eb3d9d5874e",
-      "title": "O que a falta de fio dental tem a ver com infarto - Estadão",
-      "published": "2026-04-22T08:30:00+00:00",
-      "summary": "O que a falta de fio dental tem a ver com infarto&nbsp;&nbsp;EstadãoMuito Além do Sorriso&nbsp;&nbsp;A TribunaFalta de cuidado com os dentes pode levar a doenças graves e afetar todo o organismo&nbsp;&nbsp;Âncora 1Boca revela saúde&nbsp;&nbsp;Jornal do BrásSangramento na gengiva pode ser sinal de alerta para doenças do coração e não deve ser ignorado, diz dentista&nbsp;&nbsp;Cadaminuto",
-      "sources": [
-        {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR1dXbTlGV21oSHBQNXJqTURrVmc5SDdCcmtrVnZqcU1CNC1FZFdnNEZZaXRERkxEMkVFSkhSQXh6dWhaLTNEWTJmX1RiUF9PaVFWSHN3aXluVW9ETjliYkYwSE1ITnRfV0Q3cHZiS3M4VzM1MTNRY2VyV3Npd2xTVXM4MVkyZXlmUEJKdnBzS1lQZHVHXzgtZkk3Q29oM2JjOEJZdg?oc=5"
         }
       ]
     }
