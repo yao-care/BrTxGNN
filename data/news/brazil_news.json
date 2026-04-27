@@ -1,10 +1,58 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-04-27T08:29:53.849465+00:00",
-  "total_fetched": 95,
-  "unique_count": 93,
-  "health_related_count": 36,
+  "fetched_at": "2026-04-27T13:59:41.065083+00:00",
+  "total_fetched": 98,
+  "unique_count": 94,
+  "health_related_count": 33,
   "news": [
+    {
+      "id": "10d02ffeef25",
+      "title": "Terapia inédita alivia dor crônica sem opioides nem risco de dependência - CNN Brasil",
+      "published": "2026-04-27T08:30:45+00:00",
+      "summary": "Terapia inédita alivia dor crônica sem opioides nem risco de dependência&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTWF2eVJGRU1PeW9zbnhQZ0lwOVNRUzFXNkIta2R2RmE4M2FBY05mb3diRklwUzhmanJHUUxzWjBwZTF6SlZkdFFPWFFIdDV2ZDJNeFU1RGgydVZ5ODBwWDVnRy1EMHdQanBsMjZvb1RuM05WUzI4QVExRVZCQWVuOVhycGxDU1p6bzRCdEpBZklpVThhS1FWbXRpR2RKSkFWcVp2bE1OQVZRdkJM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a1f0cb3afbf8",
+      "title": "Médicos alertam: raspar partes íntimas com lâmina pode ser arriscado - Metrópoles",
+      "published": "2026-04-27T05:00:41+00:00",
+      "summary": "Médicos alertam: raspar partes íntimas com lâmina pode ser arriscado&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91U2NGTW81ZGRJZmhzWnlBanR2NlBGR3FtS2Fid2ZJbjJDd1Frb3A3NmNIWTZ2OGRkd216MFRjQTBVM0NfbzRleGVOekFPWVlZQXNkajlQOEN6SmZ3WHYyV0JMSVJ4VHhHS3Y3ag?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2dc722f03289",
+      "title": "Depois de mapear mais de 200 milhões de proteínas, inteligência artificial entra na corrida para acelerar medicamentos, vacinas e enzimas contra plástico e CO₂, abrindo uma era em que moléculas podem ser desenhadas sob demanda - CPG Click Petróleo e Gás",
+      "published": "2026-04-27T04:15:00+00:00",
+      "summary": "Depois de mapear mais de 200 milhões de proteínas, inteligência artificial entra na corrida para acelerar medicamentos, vacinas e enzimas contra plástico e CO₂, abrindo uma era em que moléculas podem ser desenhadas sob demanda&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPN29Fd25aZ0RMZ25hazVfcng5Ny10OG9STkNfZVprUWpZcUd0aTVJckx2Q3Y4bl9wREJPZjJObld2dkVJOE93SkF4ODVyNXRXTXFhYjdNbjE5LUdRc1p5VUhTZmZZN3I0S2p0X09TckJ3cnQta043RDJoS1JsUXdYS0dmX0Npbl9GYVRURzNMTE43OUxwZmtsc25hNVcxQm4zVWc2cjFieEItMUJ4ZExYSFVyV2xuMWFrU2dfMzd2cURTenU2SllHa3FqdnVlQXhVS21NQ1BzaUVodm5MUHBPU2hPbWRGV1NXUTJtbUtpQmV1dWdGcy1WVWZqLWZGcU8ydVpPVE0zeFVhUkk1VFM2eUM0bUhtYjhSbXBvdHQ2elU2ZERVT3Jabkg1WEMtZ29wbi01RE5QSjBkWDU1OTJXOUtaWkh6LTg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c752451bd799",
+      "title": "Descoberta na África assusta até cientistas: estudo publicado em 23 de abril revela que a crosta ficou tão fina que pode abrir caminho para a divisão do continente e o surgimento de um oceano no futuro, em uma transformação geológica gigantesca - CPG Click Petróleo e Gás",
+      "published": "2026-04-27T00:22:00+00:00",
+      "summary": "Descoberta na África assusta até cientistas: estudo publicado em 23 de abril revela que a crosta ficou tão fina que pode abrir caminho para a divisão do continente e o surgimento de um oceano no futuro, em uma transformação geológica gigantesca&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOTlBqdUlTclR6VERnRlJ1Y2RNdGRidGdzeTR0SGJueUN5STNYVW0wNENEQTY2akNCLTRnMjhoeUcyWGZ3bEZ0WHJoekVybUIwaXRyeHRxWVN2TlJOczFRelZuRTRqdGZzM01hUkY1VkF5bGdBNDlMai1LYmpIRmxVOHhKMlV3YUd2ZTJjNTlRZG5tSHZpanRYUlZJU2wzOWlXTHdXWnhKd2c0b0xIR2RhVkxFSGNRdlFFS2dheVp2TmQzNktXazJrVGx1cDlEUXpJTWd5RE5BeUVOWmV0Z1I5M2hoMEZpNWJweWQ3UVJLdnJuYjRlQnBpcnFlV1NIS053S1M4SEt1ZEl6dk1rUllvY3BkVWllTS1kOWhtS2dsNV9NYzBPVlJ6OU5sbw?oc=5"
+        }
+      ]
+    },
     {
       "id": "45638d890376",
       "title": "Estudo alerta que atraso na ação climática pode enterrar o cenário mais otimista, elevar o nível do mar em mais de meio metro até 2100 e ampliar o risco de impactos severos, deslocamentos e perdas em cidades costeiras do mundo - CPG Click Petróleo e Gás",
@@ -42,14 +90,38 @@
       ]
     },
     {
-      "id": "a7df36cff14a",
-      "title": "Astronautas que voltaram do espaço reativaram vírus adormecidos, passaram a eliminar partículas virais na saliva e expõem um risco silencioso que pode complicar missões humanas a Marte - CPG Click Petróleo e Gás",
-      "published": "2026-04-26T20:40:00+00:00",
-      "summary": "Astronautas que voltaram do espaço reativaram vírus adormecidos, passaram a eliminar partículas virais na saliva e expõem um risco silencioso que pode complicar missões humanas a Marte&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "id": "3a9193f9b9be",
+      "title": "Secretário alerta para crescimento da dengue e reforça prevenção no Piauí - CidadeVerde.com",
+      "published": "2026-04-26T20:56:00+00:00",
+      "summary": "Secretário alerta para crescimento da dengue e reforça prevenção no Piauí&nbsp;&nbsp;CidadeVerde.comSesapi orienta profissionais de saúde sobre manejo da dengue em capacitação online&nbsp;&nbsp;pi.gov.brESPECIALIDADES: HMB – Hospital Marques Basto em Parnaíba&nbsp;&nbsp;Blog do B.SilvaPiauí registra 5.454 casos de dengue em 2026 e secretário pede ação da população&nbsp;&nbsp;Portal IntegraçãoDengue sobe 470% em Parnaíba e vacinação segue abaixo do ideal&nbsp;&nbsp;CidadeVerde.com",
       "sources": [
         {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPSUk3UUFGbWNxNHBHLTZCVXpFbldPYVFmNlJkbXNZTlBNUHJZdTVZbGlHU1pLYW9zcDdBZzgyZkF6T3B0VHVRQ3BpYVViN0FvSHlhclhkejQzdDZqWWRvczNPcFp4RzViMi0wRUdETDJuRVlKeXdMN0g5MTBsUTVqb3h1MkFWSUNPSldxaWFtaDJKNnBGWkNNRkd2RENtU1JfNl9XZEhVQUdkM2FvNGJScTZLZmV4WFYtUW9UVW4wN2JDb2NJWG5CRDB0a2xueFJSckktTjY5aXQtQTZUdkxWSlgxOVpOVW15TFQtUVFkaEQ5TnQzcC1QM1g4cV8wSGJNTS1zZUszaExpZ0Z3NVJIM0I0VHRVQmdlUG5VSWtnb2ZzLW9LekNLVzN2TlA2aWI4eERzbkoyZXhDV2FMbU9Ta0VkTnA?oc=5"
+          "name": "CidadeVerde.com",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaWxhNmozeGE3Q25URF9ScHpzaG52NXNHZ0xvQ1hJbWtzVGswR1ZSVFB4aXBONnhDSVZxZG5TTGg2a2tBWHR6TlBPWnhQTTZpM3RNV0xQbl9tOFNNeFd6X0c3c1Fkd21xYXNCdTNLemVLamtoN0E5Q1lvVFNLdl95eWFtR3lwYm1BZlBtd1BXd2JDX2VjRHRmUm44bm9xZkl2OUVnODRmUUtXWTVMSFN6Tm16NA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "956b6492ef94",
+      "title": "Adolescente morre com suspeita de meningite em MT - Araguaia Notícia",
+      "published": "2026-04-26T20:14:52+00:00",
+      "summary": "Adolescente morre com suspeita de meningite em MT&nbsp;&nbsp;Araguaia NotíciaAdolescente morre após mais de 9 dias internada com suspeita de meningite em MT&nbsp;&nbsp;G1Adolescente morre com suspeita de meningite; 2ª morte na família&nbsp;&nbsp;vgnoticias.com.brMortes por meningite no MT: saiba quais vacinas estão disponíveis no SUS&nbsp;&nbsp;Rádio ItatiaiaCidade suspende aulas após morte de aluna por meningite&nbsp;&nbsp;FOLHAMAX",
+      "sources": [
+        {
+          "name": "Araguaia Notícia",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU19uVndSSS1RenRJSUEzOHRxT2NiVHJuNjZZR1BFdDBmMXMzUVRnbnhPTE40alVkb0w1T3ZzdGwxcFJLRXJnc1hxSkx1Q29FZm5uTjZBcldIMGtGOWZhMTRxaWp2NXlQUzRwUnZPeFo5UWNEVU9xM1dTdXpSaXlKRWRXVGVMeG9vTzlRdlpGVUFMMTBVUDFMVFZB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e3c96688eaa1",
+      "title": "Hipertensão: silenciosa e hereditária, doença pede mudança de hábitos - ICL Notícias",
+      "published": "2026-04-26T20:06:16+00:00",
+      "summary": "Hipertensão: silenciosa e hereditária, doença pede mudança de hábitos&nbsp;&nbsp;ICL NotíciasPressão alta exige atenção e cuidados&nbsp;&nbsp;G1De olho na hipertensão&nbsp;&nbsp;Portal da AlegoPressão alta em animais: 6 sinais de alerta da doença&nbsp;&nbsp;GZHHipertensão: doença silenciosa atinge 1 em cada 3 brasileiros&nbsp;&nbsp;Terra",
+      "sources": [
+        {
+          "name": "ICL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4yWHdkakJrck9QQnlPRkotbnFWUnhlMzFyYVFqNGRaYlFHRmxJV2I1ckRlTXJEM1VEZmRPUlhLU2Y1NHVYQmZFdlQ3bXpKZHNqMHFsMjRJQ0toTlNVLVVKWU9LNWhSTnVmR3IzSGtQdk9jcmVPZW5SbTN6cmJZUQ?oc=5"
         }
       ]
     },
@@ -81,23 +153,11 @@
       "id": "9675a8cee690",
       "title": "Seis medicamentos comuns podem reduzir o risco de demência, dizem estudos - Folha de S.Paulo",
       "published": "2026-04-26T18:30:00+00:00",
-      "summary": "Seis medicamentos comuns podem reduzir o risco de demência, dizem estudos&nbsp;&nbsp;Folha de S.Paulo",
+      "summary": "Seis medicamentos comuns podem reduzir o risco de demência, dizem estudos&nbsp;&nbsp;Folha de S.PauloOzempic: canetas emagrecedoras podem combater o Alzheimer, sugere novo estudo&nbsp;&nbsp;O GloboAAN 2026: Papel dos agonistas do receptor GLP-1 em doenças neurodegenerativas&nbsp;&nbsp;Afya | HomeOs 6 medicamentos que podem reduzir o risco de desenvolver demência&nbsp;&nbsp;Diário do Centro do MundoCanetas emagrecedoras podem combater o Alzheimer, aponta estudo&nbsp;&nbsp;A TARDE",
       "sources": [
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbE5FRWh0V2lSZTlnTXNRNVM5MGJqMHRfZnZKUDV4ekNDNHVVRlVrOWliQVhpcloxTFRsVEVtRm1rQk9CLTRQWVRmZWhYd1VDU19TQkRUOU9FbFhsT2pKekdCd0tWd2twblBFLXZybzdtS0xUTWptb2p1ek5SNkh0WTdBdkh2ZlA0QzZabmVLZlBmTnFGUTVkM3lSdTlKWC1qankwSjY4dndRTXEyTTladEl0QXpCNFo1ZWlEakRuWElXWXp2WkxXOHV6d29Rd9IB0wFBVV95cUxPdWFJeXFxRlV4Q3h3dTZoamV0ZW5VbnM3cjdlMi03OG1rMDNNR2tiTjVWYUN2UFdfRjhLbWhxa2djSTZGcUl6eHQwbjU1amJQUnpSbmxCeEpVV2dLbU54R21wZzhnVExTcEtJaTREdk1aT3FYeHI0bFI4RkQ0Y0JQS1NNaV9DRkRYQk1EQlBkaC1jZUY5R2ZCSjVWMVFJRlF3U0JPNWpmNndaZGFlRy0wZXJQdVRITG8xaGJlTHl6akNzak1UcGt4RVFwR0J3c3FnYWVR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "182954c00ac2",
-      "title": "Pesquisadores apontam que estamos falando menos uns com os outros - Época Negócios",
-      "published": "2026-04-26T17:38:02+00:00",
-      "summary": "Pesquisadores apontam que estamos falando menos uns com os outros&nbsp;&nbsp;Época Negócios",
-      "sources": [
-        {
-          "name": "Época Negócios",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONDIzMFplRFYxUjZfR1hhOTl3cTNzNllBQ0l4enhzNk05dTRkWTRvWnVOWjFOYkZmZm5TYkxwX3BkblBuRzc3YUVNcG95OGVJOF9kNzcxZUlISmFXaW52RWtvcU9hZnlFWkxHQ1NmLXhuRnhLeHlySU1ZZHNpX21EOFpLUDVldC1qei1JQjRzTjgtNE15TWg0a09zVWt5V0ZGZE9kWXJPT1hGRVhJRkp6bEFKVElUZy1TOUE2eEFMUnJRV3ZCZmpta2tPUVB2WF810gHfAUFVX3lxTFBrNTdtcmVVRExJalZ3cGtXcHEzdFVPVzVqbF9DQjlDZW8yUlNyUnU2MFBxWGRWTlBwU2tSb3daNERUNE03LWhWLWdPNElDVjdQVl9XZUZCSGQxZTRYMFhScHk5aHczOXYwMmM1UVRCYkhlekU4bElrWU00MXBnb2lKY05EV1R2b0hmbUU5dUE4dWZsTzdmTjM0OGkwUDMwVHo0U2VmM2xJcUR2RWpXUGdrWWg1blMwZ1g0ZFhvcGYxZkFtRDZFOFBwN2ZjeFN4ZUxvQVJIMjVjaDJMdkwxMU0?oc=5"
         }
       ]
     },
@@ -114,30 +174,6 @@
       ]
     },
     {
-      "id": "82abd4160045",
-      "title": "Hipertensão: silenciosa e hereditária, doença pede mudança de hábitos - Agência Brasil",
-      "published": "2026-04-26T15:15:00+00:00",
-      "summary": "Hipertensão: silenciosa e hereditária, doença pede mudança de hábitos&nbsp;&nbsp;Agência BrasilDoença silenciosa, hipertensão está ligada a milhares de mortes em MT e no Brasil&nbsp;&nbsp;G1Pressão alta em animais: 6 sinais de alerta da doença&nbsp;&nbsp;tnh1.com.brCorrida praticada em MS pode ajudar a atingir novos parâmetros da hipertensão?&nbsp;&nbsp;MidiamaxAlém do sal: entenda o que aumenta o risco de hipertensão&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Agência Brasil",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSVZJRVI1RW4zaTBTbzBGLVVCLVY2aTlqOG5mUXBFMDU0YnJVTG9uM3pTcUxRZ3BLdFVfeW15cVB2ZWJjRTRQVjdQQVl1QktBd2tKc1poOUJUX1Z1bEptcXFVT01tOENfdjRxOGNKQXAxNURTQ3BQdXlxbHpEbDVka0s5VE1CT2g5VE45ejFPZlI3S25HWFVRbEtrZER0dFBBeHY0OUg2c1UyS2RkOFBBLWFBS3R6c1FZT1pkbWZERQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5a12f97f607f",
-      "title": "Adolescente morre após mais de 9 dias internada com suspeita de meningite em MT - G1",
-      "published": "2026-04-26T15:13:40+00:00",
-      "summary": "Adolescente morre após mais de 9 dias internada com suspeita de meningite em MT&nbsp;&nbsp;G1Mulher de 40 anos morre por meningite; Sorriso confirma óbito pela doença&nbsp;&nbsp;Gazeta DigitalTerceira morte por meningite é confirmada na região norte do estado :: Notícias de MT&nbsp;&nbsp;Olhar DiretoPrefeitura de Sinop suspende aulas para limpeza de escola e monitora alunos após morte de criança&nbsp;&nbsp;RdnewsMortes por meningite no MT: saiba quais vacinas estão disponíveis no SUS&nbsp;&nbsp;",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRzBHVkxhdlJmR2NFMjFyTE14MUxETzJoZHF3eFpJLVFCZEpucmxYUVA5Q1JxbUlnOFQwd1NGeG4zMGtNRkVDWFdUdmw0Mkd0VFlqMGd3VkJ6cVY0NzNPZHN4RHhxVldMbFJLMW43U2pydUxlMURZWGplOVppTHNaNXFORXc2VzFRR1JlU0hWQUstaXplYk9McF9DakczOFEzemlpdFVQS2NqV21XZk5SaEJZUkw0UGJvT1NnR2pMRm84MExNUEYyVkZDNzg4LUpPS296Z2YzRdIB5gFBVV95cUxORjFVa0RIZWttRzRPcXh1N0NJQkRYQzAwckJpRGl2TFNHVWdQeGtGYXV0RG9YeVpJNGQwMGk5NjRTLWYzWUlQWFFtMy1PYnJNR3c3ckwxWUlJVEwxa2dIek1QQ3daWmIxYWhpODNiTkZPYWdBLWwzVnYyR2xqTkZvdmNHWU45N1I5Rkdpd0ZRa1p4QkpOeVZfZDNYbUVNNHJkVUR5Q3ZNV0EteGh6MTVzNTFYRHQwMTBkaG1UWHBBc0c4QW8xWERMR1M5UHM0SzhtM3dxQTBuVzN1OFNzNFAwR09kWXlDZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9ca1fa4045fa",
       "title": "'Verme zumbi' de 24 mil anos é reanimado por cientistas e volta a se reproduzir em laboratório - O Globo",
       "published": "2026-04-26T15:07:34+00:00",
@@ -146,18 +182,6 @@
         {
           "name": "O Globo",
           "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONHAzRGttQkFXX0dKXzZRT0dlRV9lRE1VY0pILTZBRW1TbEdncFY1UHVqOFlBbU44LTlZZk15Z0s2UU5ERVVQcTZiOV9VaGR1VnVrMW9hSUVxRG5QSkJxMWpCeDhLSDNCcGNhRDQ4Nzg5OEJQTVFoR0JWY1MzamlMdDdZOWxnN2JTZEFuVGNDZmJfa3AtREtWM0lSZTRzMTZVQy1LZzd3a1VQT19FNE1OQUYwbzkwS3BwMFBLYzdERlVsazl5b2daVkZvR1VabUZBYmUxdGgxRXQyRzZhbzR5dW83ZFRDUlI5eVR0Y9IB-wFBVV95cUxNb2JxRjVNOGJQeWc1akM5NEtzM0wtOWwwTjA1NllNXzhra1FhUXpRYWppdVZqNE14a0xhX1NwcS1FR0ZMdW8xbDB3bmUyNWEyQUFBbkczdGhFUDZfRVRKOE9jV2tBMHRFVUFuaGMzbFJwVmY4RG9mWEJsWHE4bFdIaEk0eW9aVS13N25mQ1VCbHZLTzNORjZGY3dEQ01FcGppWFlLb3l6ajZ1bUE4UXhVcGppc05vWjVRdW9KNS1teG10QVczQVh3MTlYNlVRT0dWVnl0RzQwNVNCeG1tTWh2UGZxVzR6Umx3RXJXMjFVbVdSNUd4N2Q2MVZQcw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "662fdc64f27a",
-      "title": "Pandemia que devastou cidade há 1.500 anos é descoberta na Croácia - Metrópoles",
-      "published": "2026-04-26T14:22:00+00:00",
-      "summary": "Pandemia que devastou cidade há 1.500 anos é descoberta na Croácia&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBiWlRJU3dxaHE3ZVZJNHZZY3piamxfTC1wS2ttSHZRak1PZGdEWTZlVHVNdWxlNjlZOG83dWxkODY0LW9kSXB4X0d4VDNSWDVrcjV4YUdSTTV2SGlnMjZzZE1VYl95eDlwWHRLRnNwT3ppMWs?oc=5"
         }
       ]
     },
@@ -177,7 +201,7 @@
       "id": "67851969325e",
       "title": "Cerveja: estudo revela benefício surpreendente ligado ao consumo da bebida - Rádio Itatiaia",
       "published": "2026-04-26T13:26:40+00:00",
-      "summary": "Cerveja: estudo revela benefício surpreendente ligado ao consumo da bebida&nbsp;&nbsp;Rádio ItatiaiaO surpreendente benefício da cerveja para a saúde&nbsp;&nbsp;Folha de S.PauloBeber cerveja ocasionalmente pode ajudar o cérebro? Entenda o que diz a ciência&nbsp;&nbsp;TerraCerveja é fonte maior de vitamina B6 do que se pensava&nbsp;&nbsp;Euronews.comPesquisa aponta cerveja, mesmo sem álcool, como fornecedora de vitamina B6 essencial para a saúde cerebral&nbsp;&nbsp;Mix Vale",
+      "summary": "Cerveja: estudo revela benefício surpreendente ligado ao consumo da bebida&nbsp;&nbsp;Rádio ItatiaiaO surpreendente benefício da cerveja para a saúde&nbsp;&nbsp;Folha de S.PauloBeber cerveja ocasionalmente pode ajudar o cérebro? Entenda o que diz a ciência&nbsp;&nbsp;TerraA cerveja (especialmente a bock) tem uma vitamina essencial para a saúde&nbsp;&nbsp;ZAP NotíciasPesquisa aponta cerveja, mesmo sem álcool, como fornecedora de vitamina B6 essencial para a saúde cerebral&nbsp;&nbsp;Mix Vale",
       "sources": [
         {
           "name": "Rádio Itatiaia",
@@ -186,22 +210,10 @@
       ]
     },
     {
-      "id": "16cbcf796ef2",
-      "title": "Dor após lesão nervosa pode indicar causalgia; entenda sintomas e tratamento - GAZ",
-      "published": "2026-04-26T12:04:00+00:00",
-      "summary": "Dor após lesão nervosa pode indicar causalgia; entenda sintomas e tratamento&nbsp;&nbsp;GAZ",
-      "sources": [
-        {
-          "name": "GAZ",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcVNCbjEwQ2VFaDBydzl2SlZJWTBvcDlmcXVwdktQZlBpOEwyVENjeWZBQVYyOG02QmZnLUpjS20tSEIxSzMycXdxRXVGaW9sTUdxNFlZdHp4dGxaQzlCcU1VcnNHb3R3SHNQSWRhWTZVRHBtc3BERm9UX1pJemZyNzRBcFR5WEwtMDZWeGdjX05Sd3VqOEx2cjdmMmVVNEgx0gGmAUFVX3lxTE5vMGRweWRvRVJmSGZROXRxNk5RLVFpU09lQ0JaUUpOV0RfWllVT19ha0JKVlhCdjFUczJkUDl2X0NlZE8tWVRhSVJtYWNWWTZqczRwRWFaaGxWZlRYeURiSEtlUjF3Uk56dGtwRE5XRVhySDdEM012cWp3ZXd5UlV6cGRZVlJBWHRCckc5QjFEMFFDdkFybXlacms3WktYSDBHNm1ZS0E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ea1b2d84d1ea",
       "title": "Canetas emagrecedoras: entenda quando o uso pode fazer mal à saúde - Agência Brasil",
       "published": "2026-04-26T11:50:00+00:00",
-      "summary": "Canetas emagrecedoras: entenda quando o uso pode fazer mal à saúde&nbsp;&nbsp;Agência BrasilAnvisa determina apreensão de medicamento Lipoland — Agência Nacional de Vigilância Sanitária - Anvisa&nbsp;&nbsp;GOV.BREfeito Ozempic: 61% dos bares e restaurantes identificam redução no consumo&nbsp;&nbsp;blogs.correiobraziliense.com.brCanetas ‘fake’ e uso sem receita aumentam perigo de complicações graves&nbsp;&nbsp;Gazeta DigitalNovas marcas de canetas emagrecedoras devem ser liberadas neste semestre,",
+      "summary": "Canetas emagrecedoras: entenda quando o uso pode fazer mal à saúde&nbsp;&nbsp;Agência BrasilVer cobertura completa no Google Notícias",
       "sources": [
         {
           "name": "Agência Brasil",
@@ -230,6 +242,18 @@
         {
           "name": "CPG Click Petróleo e Gás",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQUNydVd3TE5NcGpFT08wbWQ2ZjdacHB2emtkc09Ob3JNazlCSGJEaGVGQ0IwYnZhZnd6WG5IdlNNRUduNkpHVEVyOU9jTFQ5ZWdOUkVjbVZWQk0tNDNOcmFRRjAtOVVCWW5aX2tJYnpEYnpCNWY4UlJqUlhGSVd2ZldCUEpFZ3ZkeEtQNmoxYVItVDF5eGx0Wk9nSjh0dkQzQzdXNjVnVS1YdkZ4RWNaT2pqWGExLUs0a2N5em5xbjg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "473b57435a34",
+      "title": "Jejum noturno maior pode melhorar saúde metabólica - Correio Braziliense",
+      "published": "2026-04-26T08:01:00+00:00",
+      "summary": "Jejum noturno maior pode melhorar saúde metabólica&nbsp;&nbsp;Correio BrazilienseA regularidade do sono importa mais do que dormir muitas horas para proteger o coração, segundo novos estudos&nbsp;&nbsp;Tua SaúdeDormir em certos horários pode prejudicar o seu coração, aponta estudo&nbsp;&nbsp;Diário do ComércioRotina irregular de sono está ligada a infarto e AVC, diz pesquisa&nbsp;&nbsp;Universal.org",
+      "sources": [
+        {
+          "name": "Correio Braziliense",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX2ZZcm9zb3piWkFnTDhxT1dLRXJvbjROU0ZzU28tOU5ud3ZoNWxFQ2t6NVhjV1lEV1FYWkR3a3kwaThZWk1acnViYXYwT0JhU05CWUw4V181RXJLWEhWWkMxZDlpNTQ0NTVPZU1NX3BnRi1DNjY1b2tDN0JPWHBJalpvLTYwMDcwN2tMYzh3bkVnZHI5UXBMMFl5aTBFMnJXVERtVU1XRlBJSnd6bVhiaWZVODNqd3BYTXNLUUZzVWdfcW_SAcgBQVVfeXFMTzJNTnFZcmxSSmJrdlV6ZElnZVRYNVljVnJCT3l2dllXcTgwMFpJWG9RLUM0WUttVFc4RnpiQnY1ZUR4Sm1QUjFVUDZud25mRHR3UTZrQ1hfRTJvaVBtOWRic3ZhYTdjTnN3aGlac0s0U1gyQ0FBOEpnNDJQeEdNaU91RmkzNDExT3Z3MTBsYndzTF9PcjFKTmVadUt6ajU5NnVqTmNjb3hJTmNqQjByZlJSMFZfV3R0TE94NFEtQ3BxTDZZdS1zZGU?oc=5"
         }
       ]
     },
@@ -294,18 +318,6 @@
       ]
     },
     {
-      "id": "a5cb8a126bcc",
-      "title": "Não é o carboidrato: estudo aponta o verdadeiro motivo de o pão engordar - Diário do Centro do Mundo",
-      "published": "2026-04-25T22:34:51+00:00",
-      "summary": "Não é o carboidrato: estudo aponta o verdadeiro motivo de o pão engordar&nbsp;&nbsp;Diário do Centro do MundoVer cobertura completa no Google Notícias",
-      "sources": [
-        {
-          "name": "Diário do Centro do Mundo",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYzJuVl9NSGc1UXl6YVZoVHJVSzBZV2haZDhfYmVPR0pYM24xZzFBWW5NakVXdjJSaDB5dTlZYnFUaHc3aU9vUWVTWEZNUmRfZTNweUVZa0w5eUx3UzVzT29pOEpqMDdwZ05kdVlpSjBvVGh0QTZNbV9YclVyZ0tENG9WZ1VqRFlIdHN3OW81ZmtIeUM3RVYwQ1VIM1pveGJfYWp6Mnp0ZnlPVUlBTk5weTd5bllUX2drOC1tbnVabnY?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5c6f73310ef3",
       "title": "Cientistas acendem alerta máximo ao confirmar que 7 dos 9 limites planetários da Terra já foram ultrapassados, enquanto a acidificação dos oceanos entra pela primeira vez na zona de risco e empurra a química do mar para uma mudança sem paralelo em - CPG Click Petróleo e Gás",
       "published": "2026-04-25T20:13:00+00:00",
@@ -314,18 +326,6 @@
         {
           "name": "CPG Click Petróleo e Gás",
           "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaXVUYkVpc1duZU8yeDAzemh5RWNUNm9EUnNIZGxOZnU3OGp1akRQVUFOUjV0ZnZtZUc5UjZjRXhQQlRqYkFsdzdwMmdReHdPTElBUTRPVm9ITW1XcFd5UmlmbEtLRFpYUm5OcEJkLThwdVc2XzZXOWFuS2hHRTQtZXFRTTBYTHg4d3A4TjRZcl8weDNLSHJvUUEwN2hVWUVDZTVWUC1GUFBleElyRHdRaEJpTE42Zi1RZTNsX3g3cGRxWFFxbWd6S1hwQXFaUmdpQmpuc2RhSXJ2cklGOWZLVTZuWExTR1Nz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "69e1505bc398",
-      "title": "Formado na UFV, pesquisador está entre os 100 mais influentes da revista ‘Time’; conheça trajetória - G1",
-      "published": "2026-04-25T18:54:20+00:00",
-      "summary": "Formado na UFV, pesquisador está entre os 100 mais influentes da revista ‘Time’; conheça trajetória&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdkF0Xzgwbnl2Q2NvaWpxMnNySHNPc05MZnVhblhuWDZ4ZTJPSzFmVUtWUlFZUldEU0Fyb25Dc1Rsak8tNENobzI0OXoyeUhUQkJiOTBIbUFoVXB2dHJNU1NXVUkxN01NZWl0TUZmWGxYZEpDMXJrVnFYS1c4LVlKSldHTi0wcUtlMjdKV2F5Rm9USm5hLXdVZEZDcFhmSmFSWkZDU1BacG1aaW11WC0yWVNRY1k0VDJyVjBfZkJKbHEwRnF3Z1FzSDdvb1hMdGw4a0hDaFl3V29BeE8wcnV2ZzdfZlFfSUdVUjJydkpR0gH8AUFVX3lxTFB3OUlKaGExM1VQZV9OZDVObjA5SEdCLXh1UnZpQUNXaGNIektrcFhZMFV2YmRiX0NiLW1XQ0lZUW1BQ1lZVUtmT3VobUQzNHQ2WTFTLV9NNXhOaEpUeE16RU54M0ltTzFNY1ZkTFVIX0tTU3M5TmZxcHFuZlJlWTJBWVZveGV2MDc3aExwbDNhdEV5NEpvS1NTZWJSckk3R0E5NGliTzc0VkNNaU95d0hNeHV3dU54WktKWUtaVXpmRGFFUWQwemliTVFUb1VrVkdjWWk5ZDlOYTdRcEVzVS04dExycUNxNjlGaDFtRk1CT1VYVGtpMWxVMEN2dA?oc=5"
         }
       ]
     },
@@ -345,7 +345,7 @@
       "id": "91ad7cc9862f",
       "title": "Vacinação nas escolas segue até dia 30 e meta é imunizar 27 milhões - Agência Brasil",
       "published": "2026-04-25T16:07:00+00:00",
-      "summary": "Vacinação nas escolas segue até dia 30 e meta é imunizar 27 milhões&nbsp;&nbsp;Agência BrasilVer cobertura completa no Google Notícias",
+      "summary": "Vacinação nas escolas segue até dia 30 e meta é imunizar 27 milhões&nbsp;&nbsp;Agência BrasilEscolas terão vacinas para estudantes a partir de 5 de maio em MS&nbsp;&nbsp;Campo Grande NewsCampanha de vacinação nas escolas vai até 30 de abril; saiba quais doses são aplicadas&nbsp;&nbsp;G1Governo inicia vacinação em escolas para 27 milhões de alunos&nbsp;&nbsp;Jornal de BrasíliaSeu filho está na lista? Saiba quais vacinas o Governo vai aplicar nas escolas&nbsp;&nbsp;A TARDE",
       "sources": [
         {
           "name": "Agência Brasil",
@@ -357,7 +357,7 @@
       "id": "499be12aaf07",
       "title": "Coloproctologista cita alimentos com potencial de inflamar o intestino - Metrópoles",
       "published": "2026-04-25T15:51:00+00:00",
-      "summary": "Coloproctologista cita alimentos com potencial de inflamar o intestino&nbsp;&nbsp;MetrópolesSinais de alerta e como evitar o problema&nbsp;&nbsp;correio do arO que o seu cocô diz sobre a sua saúde? Nem todo mundo presta atenção, mas esses podem ser alguns sinais de alerta&nbsp;&nbsp;MSN5 sinais de inflamação no intestino e quando buscar ajuda médica&nbsp;&nbsp;setelagoasnoticias.com.brDor crônica nas articulações: como a inflamação no intestino destrói a sua proteína de acordo com a ciência&nbsp",
+      "summary": "Coloproctologista cita alimentos com potencial de inflamar o intestino&nbsp;&nbsp;Metrópoles5 sinais de inflamação no intestino e quando buscar ajuda médica&nbsp;&nbsp;setelagoasnoticias.com.brUnhas fracas e queda de cabelo: como a inflamação no intestino bloqueia os nutrientes&nbsp;&nbsp;Tua SaúdeIntestino inflamado: sinais de alerta e como evitar o problema&nbsp;&nbsp;Diário da AmazôniaO que o seu cocô diz sobre a sua saúde? Nem todo mundo presta atenção, mas esses podem ser alguns sinais de a",
       "sources": [
         {
           "name": "Metrópoles",
@@ -390,50 +390,14 @@
       ]
     },
     {
-      "id": "d5a2706c1347",
-      "title": "Santa Casa de Marília realiza procedimento inédito contra Parkinson - Marília Notícia",
-      "published": "2026-04-25T13:14:36+00:00",
-      "summary": "Santa Casa de Marília realiza procedimento inédito contra Parkinson&nbsp;&nbsp;Marília NotíciaTecnologia de estimulação cerebral profunda de última geração – um avanço no tratamento da doença de Parkinson.&nbsp;&nbsp;Vietnam.vnTecnologia inédita no ES trata Parkinson com precisão&nbsp;&nbsp;Folha VitóriaSanta Casa de Marília realiza procedimento inédito para tratamento da Doença de Parkinson&nbsp;&nbsp;Conexão MaríliaMarília tem procedimento inédito para tratamento de Parkinson&nbsp;&nbsp;Giro M",
+      "id": "68dc18f2a062",
+      "title": "Qual a pior fase da vida para ganhar peso, segundo este estudo - Globo",
+      "published": "2026-04-24T16:36:55+00:00",
+      "summary": "Qual a pior fase da vida para ganhar peso, segundo este estudo&nbsp;&nbsp;Globo",
       "sources": [
         {
-          "name": "Marília Notícia",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVFMwR21DWEhZSTBxM2QwVjloaVBaNWVNTVZUUEhHZ2xxZHU5aF80MzFjRk5JMHpmWmJpZGVyNXJBSXV5WHVpS2I0UzV4c01uMldUSjFFc1V3WGVXOXA1UGFaMm5JSS1fWkpTck5FNWZzYVhhZzJzWjNtMHNYb1AzSHdUVUI3TXNoT0pMQXhnTDhwVURBRzlhYW4wc0JjR2fSAaQBQVVfeXFMTlEzNTdYeEt0aFEySEVqenhMMlBjajlQZDk2b1c0bENhYm9WeGkzWUk0R2FISG5fSTNwSHlxbk1TNkhyWEMyVFVRelZTNGVvZ1JKczctVHNkcGhwZnVMWFAyTHRUTHNXZEoyRnNBamY5VmZPUG4xWV9oY19oMWJEZDdlN0ZTRFI2c0Z3X3hzYjFqN2tJTXFBb3pYQ2hRRlQ2SUVrWDA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b6ca1c526592",
-      "title": "Spray nasal reverte perda de memória em estudo e surpreende cientistas - R7",
-      "published": "2026-04-25T12:16:53+00:00",
-      "summary": "Spray nasal reverte perda de memória em estudo e surpreende cientistas&nbsp;&nbsp;R7",
-      "sources": [
-        {
-          "name": "R7",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcS03Nm1JNDBqcmhMdzZFaGFUNW9Ba3V2NEg3TnZYblhkZldaYkF4bURTSzRud2ZTUnZ5ZjlXWlhyeGVEbDM4cXU4bmlzZ29qR3NFWGFxOGhhd3dWNEMxUTljV09iV2JPZzZ6ajdDNlFvMGVhcVhuN2dqc0cySW1Ya0tSVTBIRGF5NHJJbGZKYk1JU3JkNGdEUjBZWFljdDU1ZXFrMkdEVlRoVDFURnNlRjA2b3c0VE10?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "46cb67a62710",
-      "title": "Café: consumir essa bebida pela manhã pode ter mais aspectos positivos do que se pensava; entenda - O Globo",
-      "published": "2026-04-25T12:07:27+00:00",
-      "summary": "Café: consumir essa bebida pela manhã pode ter mais aspectos positivos do que se pensava; entenda&nbsp;&nbsp;O GloboConsumo moderado de café pode reduzir risco de AVC; entenda&nbsp;&nbsp;TerraCafeína e cálcio: entenda como o consumo elevado de café afeta seus ossos&nbsp;&nbsp;Folha BVCientistas irlandeses confirmam: o principal efeito positivo de beber café tradicional todas as manhãs é o seguinte&nbsp;&nbsp;Super Rádio TupiO amado cafezinho tem muitos benefícios, mas sem exageros&nbsp;&nbsp;Pov",
-      "sources": [
-        {
-          "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPaF95WW9uc0ZpV3JWSkxZMEtVb3JqREUybF9pMDM0ZFd1ckZicXlQdklCal9DVnY0Y18zdXlZdWl3QUFVNlNZcDFZOHVZS3A1U1BleEpIZVkzTFY4WnMzbEJKZzJSUXNUbjRLdlRJNFBENGJqMTVKeXlBa245b0JKSWpnaEZ5SlFJdF8yb2QzUVJ6cTFaNHlaYnJEOVNHZ3M2SE5kZ19QNWNPOUhQdjl6RUR4ZHM5TjdlS2VUQXB5dm1vb2lPTm5uMWFpMGVqTlNfVm9fYkI2Ri1ONjVXM2NUdzIxRWU5UdIB9AFBVV95cUxPTVFuaE82WHY1ODg1eDAzWkJwdWVGTjRBajZfdTFPampvdjZfYUt2ZVprcWJLY25qR1QybzhuWlRFUTlUUTBkdWhmMlRLTjhzTnMtQ2otbjVQbEM1dzJPZFJrZWFIQU1CYkpNNEU2SHZ1OTk2aTdnUVV5b2xRczgwXzJTbXJJQmprSkdoRkZPY0R4WHJUSHM2a1ctQjV0a3NyVUxSd3NPSDdjdllJdEloSHJERGlMRG1NMjRJSVFtZjh2LWM2d0lvNkVrdzR4NEZIRXBCcnlPa2dOUW90SUN6YnZPVjR2bHR5TXNpU3dKVTNtTDhK?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "80c6a390b565",
-      "title": "Qual é a pior fase da vida para engordar? Ganhar peso nesse período pode aumentar o risco de morte - Jornal Correio",
-      "published": "2026-04-25T10:36:33+00:00",
-      "summary": "Qual é a pior fase da vida para engordar? Ganhar peso nesse período pode aumentar o risco de morte&nbsp;&nbsp;Jornal CorreioQual a pior fase da vida para ganhar peso, segundo este estudo&nbsp;&nbsp;GloboA pior fase da vida para ganhar peso, segundo novo estudo&nbsp;&nbsp;TV PampaEngordar no início da vida adulta eleva risco de morte, aponta estudo com mais de 600 mil pessoas&nbsp;&nbsp;Fala RegionalEstudo aponta fase crítica para ganho de peso e riscos à saúde&nbsp;&nbsp;brasilemfolhas.com.br",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQWM3Yktld2tHT2dUUVpYelFyNDQ1MHFBdEc4ZmxVeWZUejNMNU5NLWRSeGw2bjZ1Q2plRHpidk9aMWVzWXhnQUJJU1Q2MzJzMnQ2RG9LNVVkazlmNDNTOHRUUk1GeTFlUUVNZHd3bkxLamMxVEpkTkNZOXlpX3hPU3l6NUNKbTdNdFhJUFZQNjdKbjlEbDQ5RHNNa3g4cXRuR1VCQXRRMlVwbHJWbHJ5QkVteVhKajlCaGk5ZG1hQ0NLQTR6V3lndE9oYWhRTnhTU01scWd4LUVyWEFu?oc=5"
+          "name": "Globo",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd294cFd6R0JSVnpDa3liVHVMX0lnenZmNGJwcF95b0ZIdmF6eld4ZGp4eXJfZnZ2QUpkSGNvT1ctUm9ncUNYLW9oYy1nZjQxYU53QlR5aFBuSERLZmZJYTVycDJxaFRKeXgtbXFCN01DQjNxWXowR1FKeE9nalI0T0NlZV9HbU85NDBwak94aXk5ZUFsdkZjcExGbjFib1lyMWU3bXpldk9KSWZDN2dXWERlN1JPNndWOHRSaTdhd9IBzgFBVV95cUxQR0ZiODJCWTlwQWUzRVRuWTVYczZWVEJXZUV3OGhwbVJqOW9mOWQyZzZwQmtub29uRm5JS3dKU3R6V1QyRVI2bVBMOVhiRGl2R2NzVlZWMlVfUE00YjZTSlBJZVA1Skk2MGwySVNKOUJNSl8wSEYyVF96QVpkMGZXRk5pU2Uzb3NveEFIX05iZXNrdHZ4NTRBZk5ZbTE3UHVwLTloYWhfbUtMRkMySXd4WnFsZWgwR0VzbjhtN1UxZTVjOF9zZnRqSlBTS3pJZw?oc=5"
         }
       ]
     }
