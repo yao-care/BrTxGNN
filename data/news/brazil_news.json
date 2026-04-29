@@ -1,10 +1,34 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-04-29T03:26:37.848330+00:00",
-  "total_fetched": 105,
-  "unique_count": 105,
-  "health_related_count": 52,
+  "fetched_at": "2026-04-29T08:22:42.832181+00:00",
+  "total_fetched": 106,
+  "unique_count": 106,
+  "health_related_count": 51,
   "news": [
+    {
+      "id": "0782077fdbba",
+      "title": "Palestra foca riscos PSICOSSOCIAIS nos locais de TRABALHO - NPDiário",
+      "published": "2026-04-29T02:19:08+00:00",
+      "summary": "Palestra foca riscos PSICOSSOCIAIS nos locais de TRABALHO&nbsp;&nbsp;NPDiário",
+      "sources": [
+        {
+          "name": "NPDiário",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVnJ1RldRZkE1XzYwYURkU1pSNG1DRFlrdnZLbE9nUlpZLUpMRUp4dHVMcmhncHFiSWlkc3B0Z2JSQ1ZZNXBzcE5NaEtCcGZ6NTB6SFNtNFZsR01OOVhpZkZtLTc2bkRvMEozTS1jLWxpeDZ0Y3F5amlFWURIOUFyakQ1OW1hUGs?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "31ac207c5080",
+      "title": "Após 100 anos, ave rara e belíssima dada como extinta é redescoberta - Portal 6",
+      "published": "2026-04-29T00:38:47+00:00",
+      "summary": "Após 100 anos, ave rara e belíssima dada como extinta é redescoberta&nbsp;&nbsp;Portal 6",
+      "sources": [
+        {
+          "name": "Portal 6",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUk5vcFFHY185UHdzUEtjODg1MmF0V1JTUkNkMDVVbXhhRFAyNTl0ZHBWTWlHWGt0QzE2cDZIaU5GNFZQVDMxcS1PMjd0NzYtVk92cFRvaDBTdy1QbXY2NWZUMG1sRE5KYTlsTmxkSkgybWtJa3o3WGhaSWxrRE9FTUY1UHpaS0xQSTFGS2JzdmFHcDNxTHQ5VUt5RTI2aTVnWHRpUg?oc=5"
+        }
+      ]
+    },
     {
       "id": "7e62e9da57ef",
       "title": "Pesquisadores analisaram 136 armas usando datação por carbono-14 e conseguiram identificar exatamente quando a era do arco e flecha começou na América do Norte - Catraca Livre",
@@ -33,7 +57,7 @@
       "id": "44c5166d383f",
       "title": "Parkinson ganha novo alerta após casos de famosos virem à tona - Metrópoles",
       "published": "2026-04-28T22:05:00+00:00",
-      "summary": "Parkinson ganha novo alerta após casos de famosos virem à tona&nbsp;&nbsp;MetrópolesMG Responde: conscientização sobre a doença de Parkinson&nbsp;&nbsp;G1Abril do Parkinson: especialista fala sobre sintomas e cuidados&nbsp;&nbsp;R7Avanços oferecem qualidade de vida para pacientes com Parkinson&nbsp;&nbsp;Tribuna do Norte11 de Abril: celebrar o Dia Internacional da Doença de Parkinson, para que Parkinson volte a ser apenas um apelido&nbsp;&nbsp;Diário de Notícias",
+      "summary": "Parkinson ganha novo alerta após casos de famosos virem à tona&nbsp;&nbsp;MetrópolesMG Responde: conscientização sobre a doença de Parkinson&nbsp;&nbsp;G1Abril do Parkinson: especialista fala sobre sintomas e cuidados&nbsp;&nbsp;R7Avanços oferecem qualidade de vida para pacientes com Parkinson&nbsp;&nbsp;Tribuna do NorteNeurologista da Sesau explica os principais sinais do Parkinson, como diagnosticar e tratar no SUS&nbsp;&nbsp;Secretaria de Estado da Saúde de Alagoas",
       "sources": [
         {
           "name": "Metrópoles",
@@ -54,18 +78,6 @@
       ]
     },
     {
-      "id": "bef4b5690307",
-      "title": "Mortes por meningite chegam a seis em MT; outros 28 casos são confirmados - midiajur.com.br",
-      "published": "2026-04-28T19:15:00+00:00",
-      "summary": "Mortes por meningite chegam a seis em MT; outros 28 casos são confirmados&nbsp;&nbsp;midiajur.com.brSES: MT tem 6 mortes e 28 casos confirmados de meningite em 2026&nbsp;&nbsp;RdnewsAdolescente morre após mais de 9 dias internada com suspeita de meningite em MT&nbsp;&nbsp;G1Sinop descarta surto de meningite&nbsp;&nbsp;vgnoticias.com.brMeningite gera dúvidas na região: entenda a diferença entre o surto de Sinop e a doença do caramujo africano&nbsp;&nbsp;mtagora.com.br",
-      "sources": [
-        {
-          "name": "midiajur.com.br",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTXlVak1CUmVFT3d2czFyTjI3LWdKMmJ6VUFseU9ZOW1rQkZOWUMwQ254YUhvVlltY0lmMXhjaW1WN2dZakM5dkhNMVEzMVVGU2YzWGZlNndqTE50cFlJYUQ2MU85Q2hNSWtjVUZQU0xUZ3h6bWMyUEZlcms5OFhHTGZpTVFtek1PWmpqUnBzTTNKdHkyUUp3bDBtSE1seE85YVJYT1hmVjI3QzJmaUpGMlFB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "989573c8eca3",
       "title": "6 alimentos probióticos que ajudam a regular o intestino naturalmente - Metrópoles",
       "published": "2026-04-28T18:47:00+00:00",
@@ -78,22 +90,10 @@
       ]
     },
     {
-      "id": "37bd1f4c4c61",
-      "title": "Cientistas descobrem que procrastinação não é preguiça: estudo de 2026 revela circuito EV-PV que bloqueia motivação, expõe conflito entre sistema límbico e córtex pré-frontal e aponta relação direta com ansiedade e medo do fracasso - CPG Click Petróleo e Gás",
-      "published": "2026-04-28T17:51:00+00:00",
-      "summary": "Cientistas descobrem que procrastinação não é preguiça: estudo de 2026 revela circuito EV-PV que bloqueia motivação, expõe conflito entre sistema límbico e córtex pré-frontal e aponta relação direta com ansiedade e medo do fracasso&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQZDdFcFZTc29ZX00xN1FqbWxPZ3h5YjVkdW43RmxkOFQ1eWkxVzdIalNiYi1SaFlDY2dKVE56SmRCRnJiZjZmclBIdUltamtadmUyRHpVSFNJdFRVeG5GWGpJWmVaSFE3VVZJTHQ0bFhCal9ENWVubVlFN3ZCa2dobHNQcVJWMkp5d0FxTFpiUFZVVVBNbDJJaXlpQUVETTdCZHdoT29IVE05RFlwbVgtVW9HSzBXREREZ0dmX0dRVHEzUWYwczljeTRhYlRFejdld2RVYzRpS3lRLXkwXzhMWEJRaWttQUJCb2kxWEFiTjIzcmlnUFZQU08wS3VpcU5Nc25rUzFmMkVJLXhqcjMyN2NXMUpLaFR0SGprWXpiXzFXcVZITGZfQ0dyQWRfcnJ0QjBfX3p6M0FQXzQzcVdCM1VRMnpQSVk?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6ad2e7f6c8cd",
       "title": "Saúde alerta para início do período de “risco alto” para doenças respiratórias; veja as orientações - Prefeitura de Curitiba",
       "published": "2026-04-28T17:30:00+00:00",
-      "summary": "Saúde alerta para início do período de “risco alto” para doenças respiratórias; veja as orientações&nbsp;&nbsp;Prefeitura de CuritibaQueda das temperaturas: Saúde reforça necessidade da vacinação para evitar síndromes respiratórias&nbsp;&nbsp;Governo do Estado do ParanáCasos de doenças respiratórias aumentam no estado&nbsp;&nbsp;G1Resfriado ou bronquiolite? Veja como identificar as doenças em crianças&nbsp;&nbsp;Correio BrazilienseMudança no tempo traz alerta: influenza dispara e período crítico",
+      "summary": "Saúde alerta para início do período de “risco alto” para doenças respiratórias; veja as orientações&nbsp;&nbsp;Prefeitura de CuritibaDoenças respiratórias: período mais crítico das infecções começa nesta semana&nbsp;&nbsp;G1Resfriado ou bronquiolite? Veja como identificar as doenças em crianças&nbsp;&nbsp;Correio BrazilienseMudança no tempo traz alerta: influenza dispara e período crítico de vírus respiratórios começa no Paraná&nbsp;&nbsp;bandab.com.brCom chegada do frio, Curitiba aciona plano p",
       "sources": [
         {
           "name": "Prefeitura de Curitiba",
@@ -150,6 +150,18 @@
       ]
     },
     {
+      "id": "ca0d87e7f7f7",
+      "title": "SES: MT tem 6 mortes e 28 casos confirmados de meningite em 2026 - Rdnews",
+      "published": "2026-04-28T14:23:00+00:00",
+      "summary": "SES: MT tem 6 mortes e 28 casos confirmados de meningite em 2026&nbsp;&nbsp;RdnewsAdolescente morre após mais de 9 dias internada com suspeita de meningite em MT&nbsp;&nbsp;G1Sinop descarta surto de meningite&nbsp;&nbsp;vgnoticias.com.brMeningite gera dúvidas na região: entenda a diferença entre o surto de Sinop e a doença do caramujo africano&nbsp;&nbsp;mtagora.com.brDIÁLOGO E PONTES – Casos de meningite fazem buscas por vacinas aumentarem em Tangará&nbsp;&nbsp;Diário da Serra Notícias",
+      "sources": [
+        {
+          "name": "Rdnews",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT1dqTjE0bmxkWnVRZ05yMTdQc2dfUUNfNXI5UWRLMndveWZ3UGVoMVlaUmx0LU5objlNT0ZzdzFOQ2x3bHQwU1I0R1ZIU0QxR2FmRkpnSS1odmF3b0RPalBqM2JFZ3VVOVVwZVhZMm85WU1PM0J1WU1YR1A0NnpIVkw5Y2IwbmZSUVBKRmpoWUxjYkR3TjM0TUJmaWZKTVZVZjlzRWVmOA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a8e4facee676",
       "title": "Pesquisa sobre câncer de pâncreas é despublicada após omissão de autores - UOL Notícias",
       "published": "2026-04-28T14:15:29+00:00",
@@ -182,6 +194,30 @@
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPVndYN2dFdVRHQUFDeE95OUtTSTFmTURRRWtnS1p2TUhpZWdaeWZGaUVDZERoRHZaRGUtTVhfSHhFVWpLMTMtcUJ2X01hOG9Xek11SkU4cURCX0VmU3h4VTRvM2FBUTZ5WnhraUFJY05VWVJwbDhtZ0hNcEcyemVKTnR5MXZTQ3hhR1gyMndVNWtLSGdKT25TREYydkt3RFBsWWRRYllEbHNUZTU2RXllQURwel85VVB2bkxvOERyWTVkcTJzOURzTGlwMFJzN1duUjdfN2xrZDQ3ODJGNXBNT1pSODhfcnFyQURZLTY4NVRaX08zNTlEZHhWV2bSAYsCQVVfeXFMTVhNaEdZbkpmQVhVSmNoUTlTQ0dOcVhuY2xMVDU5ZUNaZDhibV9JUl85Wm1feW9IU0dsYk5URGFubDlrcXpwUzg2dkkwWndhemJHTGV6NG9PRnBoSVpLQXhid1V4Wmx0N1ExNURld3F0UlBzWjV1V0NoYzJ3bDdGZVNuWWRuRmVqeURCWVU2VDNBMGxHWmZIODBYQkZPakFYM2htSC1JcG1zRVlwTEE1SXcybmZVQ0lEeG1QWUljM20zWEUxTGZwZndaekR3eWdBZEttWUZZaGdwUWhDMkd4YW9RcjFlbWdmblp5YVFqREF0bHZRQVlLczlpNlBKWlBWaDctUHlWT05KeVUw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8324f3bb4565",
+      "title": "Por que um remédio de 1950 ainda é considerado essencial em 2026 - iG Saúde",
+      "published": "2026-04-28T13:22:00+00:00",
+      "summary": "Por que um remédio de 1950 ainda é considerado essencial em 2026&nbsp;&nbsp;iG Saúde",
+      "sources": [
+        {
+          "name": "iG Saúde",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOajlTX2dRVmJQYm1iZ0hEeFlqQm1pSzZ3am5aWHFockxlRVJ4MWk4WmY0b1dlUWRZSk1xS2JHMUtwaHdEX25ObGtjRUFLcDBnd0pRS1FDQUlaOFJ4YzBXUGd1T1JrWGR3emljaGw2MWRvbmMxc21uTGRfT19TWXp3cmJ3SmZWd0lPWjhhU1paU1h0MjJia0lGZklJSWkyWEdmUXZEaVptWdIBrAFBVV95cUxPZDhHZm1ydkE0V09WOFJZU2pyRFFQX1YzWS1iU21xcElKVmpYT2VOWmN3ZzduY2tNeXkzVUxKVTRUTGNtSEdLaUJkcTgxY3VtMllRSko0LU9xMzBXMXI3Um1zSk1RcUdhYk1fTXppRWhxZ21ka0RoZVhlVjhfd1JETGJodFBIRHY0N0p4VVBFZ2V1azhuOGZnbURBOVhFdDdnN2FpU2VYWDJzek9p?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fc5dcd186ba5",
+      "title": "Cérebro do neandertal não foi o culpado por seu desaparecimento, aponta estudo - Aventuras na História",
+      "published": "2026-04-28T12:29:34+00:00",
+      "summary": "Cérebro do neandertal não foi o culpado por seu desaparecimento, aponta estudo&nbsp;&nbsp;Aventuras na História",
+      "sources": [
+        {
+          "name": "Aventuras na História",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdGVObVo1QkF0TzZmd3Y2bVAtNzFuVUJGY1lUZ2h4Ym9hWGpjUlM0VFdhQ3lNU3pFalZDWF9NY3d1RGNkTHMwQXVveVMxbGlHc1pLUXROTXVJSE8wOEg4X1A2S0I1TmVqMzl4dE1RT0hqZ1B1clpYb2RzM3JXVll1WHN5YURRbG9aOWMzNUE4S1hPdDBBcl9YY3owQ1VkQnpYVkZEam9DOGR2NE1rYUpaWUlzOTBFTkszS2hBeExKMS00aUdyYlN4RWFiUWFBc0dzZ3Q2LVhPVmo?oc=5"
         }
       ]
     },
@@ -261,7 +297,7 @@
       "id": "2fee7874e611",
       "title": "O que é a leitura profunda e por que ela faz bem para o cérebro - G1",
       "published": "2026-04-28T08:03:37+00:00",
-      "summary": "O que é a leitura profunda e por que ela faz bem para o cérebro&nbsp;&nbsp;G1Estudos apontam que crianças que liam livros físicos com frequência estavam fortalecendo o que hoje é conhecido como foco profundo&nbsp;&nbsp;Correio BrazilienseA leitura e o cérebro: um hábito que fortalece a saúde mental, cognitiva e social&nbsp;&nbsp;Diário do NordesteLer: um remédio sem efeitos colaterais para a longevidade&nbsp;&nbsp;AfubespJP1: Por que ler rápido demais pode prejudicar o cérebro; VEJA&nbsp;&nbsp;s",
+      "summary": "O que é a leitura profunda e por que ela faz bem para o cérebro&nbsp;&nbsp;G1A leitura e o cérebro: um hábito que fortalece a saúde mental, cognitiva e social&nbsp;&nbsp;Diário do NordesteEstudos apontam que crianças que liam livros físicos com frequência estavam fortalecendo o que hoje é conhecido como foco profundo&nbsp;&nbsp;Correio BrazilienseLer: um remédio sem efeitos colaterais para a longevidade&nbsp;&nbsp;AfubespJP1: Por que ler rápido demais pode prejudicar o cérebro; VEJA&nbsp;&nbsp;s",
       "sources": [
         {
           "name": "G1",
@@ -342,18 +378,6 @@
       ]
     },
     {
-      "id": "4f316f96a38b",
-      "title": "Família de Bruce Willis planeja doar cérebro do ator para pesquisas - Rede Atlântida",
-      "published": "2026-04-27T21:28:47+00:00",
-      "summary": "Família de Bruce Willis planeja doar cérebro do ator para pesquisas&nbsp;&nbsp;Rede Atlântida",
-      "sources": [
-        {
-          "name": "Rede Atlântida",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQjZvYkJvYno2Tkx0dXA1Yy0tUzE3THRNSTF6UmVla0RienR3dWV3RWZvWXdjTXd5azFVY2IxZFRLdUpGenZXdzFYNnJFNkJpcEVFWEVtVEJXNXg5X3EzZTlMc0RIT1NKX25LVlBCcU5peVNrbzc1akVQRkEzejY4RndOQzVhNHlDUHdJZFhldXdzeGgxVHY1WWg2ckJ4a2pOSVhSM0QwaE5ZLTk3OTJQT2lSeXZTekxrTlVLSVdrQnlrVU5kYTM4SG9TQk5ub0ROWkxaTDdIN2tFNHlLRGluQ2UtSXJsczgxcjln?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e6326965d656",
       "title": "Vacina contra a gripe estará à disposição em 16 unidades de saúde a partir desta terça-feira - Prefeitura de Porto Alegre",
       "published": "2026-04-27T21:03:15+00:00",
@@ -374,18 +398,6 @@
         {
           "name": "iG Gente",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUWV4ZkVjOHNoS0VPakM4dkRMNGVESGNGTE4xZmtMeHVuY29FcW5qT3ZZa1lNUjFHa0Q4ZjRSTVBxQVVJb3lIcXZ3RS1JVmVEblVNQmxQVjBNOE4yY3pSMHpkNnBTZGVibVlwV21XdTdpMzg1a1ZwaG0zbHRka2dkUE1hQVNGcGFpanpEMUlTME81UURZNHBwZ05LRThZTnJhZlBj0gGoAUFVX3lxTE9NSzU3UEVDUW1WN2tUVUJJUHZBeFFqMUoxckJlaGQzck9LREdRV1hVTFB3VHpvMHR5V2lPVmNZclVCMGZWMkhSOTdadWN1XzRfS3JaeTZRaXFhZC01NkFVQVFEcHV5Tnpfb3FEZnRMNndHdFE5OXpRcnVpZG5oRVgtX1d1U25nUndIUC13WV9iTVRxZEJvelhoeTBWOVRUdVRiYWp6d0lXcg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d192b76b3160",
-      "title": "O animal quase imortal, sem cérebro e sem coração, que pode rejuvenescer indefinidamente - Revista Oeste",
-      "published": "2026-04-27T20:55:00+00:00",
-      "summary": "O animal quase imortal, sem cérebro e sem coração, que pode rejuvenescer indefinidamente&nbsp;&nbsp;Revista Oeste",
-      "sources": [
-        {
-          "name": "Revista Oeste",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZ3gwY002cnpoMFRfNlM5OXZ2UXc2VlhTUU52WnVsanhVeEdRTmJmY1g4YXg2VDByaDRaN1pjUlMwNlNEM2d2eEFpM0YtbVpEaTJTQkVTQUFva05JbGRuNWJVZ2l1eFl1NVBCTnZDbmlad3FfbDB5VW1yTUNmbmZTaUxLaHFiWEs1VW9xV2ZnTEFkLUQ1SkdLQkE0Y3Q3QlpIZlhJaHVWUGw5amJYZ3J0akl2LWY0MTFNblYyV1JjMFVoZXpTNFBhcG95YkVyYWs?oc=5"
         }
       ]
     },
@@ -422,18 +434,6 @@
         {
           "name": "Catraca Livre",
           "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPc1c1S29ES1NXcFlDMU9iM3VwMlNBMUY5ZVg2NlR5bmt3YlduMExwUFZTTXBTQnU4VlJ3dGRGdmdWQmQzbWZtTDAwNkRNNDZsclVlcXA2ZHdmNHRrd2hVX3I5c2tBNjl1WDM1eW9teDY1X2F4SHdXT09LcVgzWS0ySXNvMVFiemM3a1VxTG5jd05yRHJVUzRwblhMd2NxSzBuWUVSQ2pHOVVSLUd5SVFvYkxKT1FSeE1jRjhfRHo0UFc3cGlxMmFFNnFhNWxWWnRvX2g2NXZvaTNZd2FRTnVQN0JvOVNnU1g4YjQ4QWQ4QnBSUWFKZmRBV29WaEVnU2FWVDF6bnJBWTZESkwzS1k0T3J3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5cafaff1d9cb",
-      "title": "Estudantes da UFPR denunciam grupo criminoso para \"apostas sobre estupro\" - CNN Brasil",
-      "published": "2026-04-27T18:39:28+00:00",
-      "summary": "Estudantes da UFPR denunciam grupo criminoso para \"apostas sobre estupro\"&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWVMwdVY3RDNyZ0xNT3JJQWFZVDBYY3VzSUd3ZHFHT2VLQkJSa3Z0aHdaUkc4bWV0N3BDZENhODdibG9VcUE4VUFLMlR4ZEFOakJDR3RnSDJFRkRycUpSeGxBSHkwRlA2YlVXektsM24xRXlQQ1laUWJVSFFYbzhNZUFFUXZQU1B4TnVNVDBFZWJiX1RIZk9lbkI5cG9pVjNtZkhzVURBbDNRb3hmSUg2R25CdlZ3TFlp?oc=5"
         }
       ]
     },
@@ -558,14 +558,14 @@
       ]
     },
     {
-      "id": "68d0f74d3c34",
-      "title": "Quer viver mais? O segredo pode estar em uma simples mudança nos exercícios - UOL",
-      "published": "2026-04-27T14:35:29+00:00",
-      "summary": "Quer viver mais? O segredo pode estar em uma simples mudança nos exercícios&nbsp;&nbsp;UOLMais treino, menos risco? Sim, mas nem sempre depois dos 35 anos | Letra de Médico&nbsp;&nbsp;VEJAVariar exercícios reduz risco de morte em até 19%, indica estudo de 30 anos&nbsp;&nbsp;Extra onlineNem só quantidade: variedade de exercícios é associada a mais longevidade, diz estudo&nbsp;&nbsp;ExameVocê ainda faz sempre o mesmo treino na academia? Estudo revela mudança simples que pode reduzir risco de morte",
+      "id": "eb06616d7d6e",
+      "title": "Óleo de peixe faz mal ao cérebro? Novo estudo revela risco inesperado - Exame",
+      "published": "2026-04-27T14:41:17+00:00",
+      "summary": "Óleo de peixe faz mal ao cérebro? Novo estudo revela risco inesperado&nbsp;&nbsp;Exame",
       "sources": [
         {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOGhZTVJaWlJOaTUxQzFfMU5uM1huZjNlVTJIc0xEelhjQU5ycHNXaVNpMGlqSDJwaDZSaVJkbk1ORjhQMUxNYUwtMVNWcG5HQUVMbVJONW9LSzNSOEEwVHpnWFJBSjItQVFFU2dzdEZfWkVGSU9kQ2JYMjgtdEFhdmE1MXZIM1FCaThQZHdOcTBiVFRWaDBpUU9Kd05CdjZTRkdud0JqR08yaWJQZnJKSU5kakxvWmx5QjRIcHVTam4ySDBLZTU0V3BtbmRhVzRld2M1RA?oc=5"
+          "name": "Exame",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX3BleXhJU1RuZ3Vtd2NwNHNYVFBZMURxcTYzYm9iU0c0c09OLS03OUJXZTd5OEl5RjMwanJVeWplTlFUMWZEWlVXM0pWQzZaM2FybFhRSTFRRmxsc1o0RmdwUUNuXzA2R3owbHRJRGtEWVZTOW0yei1XQ19LbDZZclF2bURoLXlISkt1ZnRGVkJ3Sklja1pkZDF3UQ?oc=5"
         }
       ]
     },
@@ -609,23 +609,11 @@
       "id": "29dc364af255",
       "title": "Vacinação contra gripe será liberada para toda a população mineira em maio, diz secretário de Saúde - Hoje em Dia",
       "published": "2026-04-27T11:26:00+00:00",
-      "summary": "Vacinação contra gripe será liberada para toda a população mineira em maio, diz secretário de Saúde&nbsp;&nbsp;Hoje em DiaBH tem baixa adesão à vacina contra a gripe&nbsp;&nbsp;G1Vacinação contra a gripe avança em Poços de Caldas e Saúde alerta para baixa cobertura entre crianças&nbsp;&nbsp;Prefeitura de Poços de CaldasPrefeitura amplia horário de vacinação nas unidades do Zaniboni II e do Ypê II - Mogi Guaçu Acontece&nbsp;&nbsp;Mogi Guaçu AconteceOuro Preto ainda não prevê ampliar vacinação con",
+      "summary": "Vacinação contra gripe será liberada para toda a população mineira em maio, diz secretário de Saúde&nbsp;&nbsp;Hoje em DiaBH tem baixa adesão à vacina contra a gripe&nbsp;&nbsp;G1Menos de 20% do público-alvo se vacinou contra a gripe em JF; Estado prevê ampliação à toda população em maio&nbsp;&nbsp;Tribuna de MinasVacinação contra gripe é ampliada em Uberaba com ações em empresas e atendimento domiciliar&nbsp;&nbsp;JM OnlineOuro Preto ainda não prevê ampliar vacinação contra gripe para toda a po",
       "sources": [
         {
           "name": "Hoje em Dia",
           "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdEVPWmROUHBkcTdWNzd3VmZKYm1vY0lGRW0yQldyYUJqQzFnS2tWaTRZcmxKMXctUEFhSXB5WHR3VEFSZWtqU0hJTU5kZ3l5cG1zUmRxZVhYM0twc3RpbmU3OXpZemJCcVhrT3NOM2VVbWJYNXVSUkZaZlJYSkZ0M1RFWXg1YlJlR3ZWcXFCVUI1RVNael8xWjVUTVY5U1J4aGQ4UW9Ub1hYRW5LUF9zQUlMUTNveU1lZWVZdktxUFRHQ2U2R2ZIZU52QVVNMUV0Y2ZpSV8zYm40UzRoQWRwSHZIVWdYSzA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e6b3ded3cfda",
-      "title": "Humanos têm capacidade biológica de fazer e apreciar música, sugere estudo - Folha de S.Paulo",
-      "published": "2026-04-27T09:00:00+00:00",
-      "summary": "Humanos têm capacidade biológica de fazer e apreciar música, sugere estudo&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYUZwSlgzZHdicXV2U1RqeHFELUxwMVVtZnNla2lfUmNaVExaRWd5dE90ZE1ERk9ILWNwb1hJOXE4SmFoRkQ3MnFnVHljWHRPOUZSNS1UakY5bm12dVQzdmdOSDFOVGdobmE0RURxZnVlVjlER3Fya2pLQTZVV3Etd3E3ZVBrajd5emkzNjZkdmFPOWNSSy1QVVRMUVpmYWJFMlQ5YVNyajV4TGxSUzF5cURScjNsTWNxcFlCMnhINmowS03SAcgBQVVfeXFMTmhPWU12YmhyVE9TQnlWNGFPYUJNLVFNNXZnZHEtOUgzbFhhQmJUekFEOTViTExTcGdkRlVUX2JkOUpiZTFoQzB3TGQyWFhUVjlvVS1vVWhwVnNFdXdfWVQxOU1rZy1Tem94V1FWbGdvbTVBamZfMnBDSkt0Smtob1hCX1hvSUlxcU1pZGhXQWE3MFp2d09qeE43VUhyZFAyeXd0QlppWTA4b2VNeWJiY1FteHd1TmhQSWFFX0JjdVdya0w3RFdCekQ?oc=5"
         }
       ]
     }
