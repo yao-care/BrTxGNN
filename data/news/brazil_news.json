@@ -1,10 +1,22 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-04-30T03:27:48.068464+00:00",
+  "fetched_at": "2026-04-30T08:25:20.413211+00:00",
   "total_fetched": 108,
   "unique_count": 107,
   "health_related_count": 46,
   "news": [
+    {
+      "id": "7e1557ae874d",
+      "title": "Especialistas revelam maneiras de como a espermidina age nas células envelhecidas para manter o corpo protegido contra inflamações - Tua Saúde",
+      "published": "2026-04-29T23:45:00+00:00",
+      "summary": "Especialistas revelam maneiras de como a espermidina age nas células envelhecidas para manter o corpo protegido contra inflamações&nbsp;&nbsp;Tua Saúde",
+      "sources": [
+        {
+          "name": "Tua Saúde",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQRWpfWjlBY085TE9TS2xFVVFlODJxamFnZ1pBcmRKZTExZWpvRmVwb3QxVnVzaHlmMFlXU0NYSGdHOTVac1pndnJlWXNOcjlQRF9GRVJJa0gwRE9uRzctZjRqTXBiRm1SbkhUcTZKcGxnLWtYeVpDMGZiZ181c3pyejkyTUNhdWVoR1doT0poNlR0MThoU2RiTExyRzFwS25wM2JkOFlsejNmbjctbTdhMGVTaHpOSHd5MncyeEJmTkMyNE44SFNGMzlxWVAxaHNueGZuOFNya1dUNk9ha3BuaWRNYk5PNDhkREx0NGJLaU5fWUJ1ekhOWDdXaVJaQTd3Y3c?oc=5"
+        }
+      ]
+    },
     {
       "id": "58590ab6bf9f",
       "title": "Rio suspende temporariamente vacinação contra gripe a partir desta quinta por falta de doses - O Dia",
@@ -20,12 +32,36 @@
     {
       "id": "0796c3082773",
       "title": "Entomologia Forense: como insetos ajudam a desvendar crimes em Santa Catarina - portaleducadora.com",
-      "published": "2026-04-29T21:33:43+00:00",
+      "published": "2026-04-29T21:35:56+00:00",
       "summary": "Entomologia Forense: como insetos ajudam a desvendar crimes em Santa Catarina&nbsp;&nbsp;portaleducadora.com",
       "sources": [
         {
           "name": "portaleducadora.com",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObXlOTkQyOGcwLWJ0TnoyMHE1dWJrTDdWVXNsOHpPTXNBOHhLblR6dWZPRERGa1UtckVaWXlzUkU0WEFSeTMzWlJyN1ZpTHBSQ2VrVXg4VVFPTlIyT3QyRzN0UVVlcFU0QWxSZDNhNWZfUEUzNEx5dUxhSmRDQXNqQTdTeFYxMzktaFdaeUo2Unpnc3dqeC1ZNWVrc2xmSXZTVEdhUl9FbXFZZko5VUcweGZ4Z3pVWDdQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c6da521da228",
+      "title": "Ribeirão Preto registra primeira morte por Influenza em 2026 - ACidade ON",
+      "published": "2026-04-29T20:53:11+00:00",
+      "summary": "Ribeirão Preto registra primeira morte por Influenza em 2026&nbsp;&nbsp;ACidade ON",
+      "sources": [
+        {
+          "name": "ACidade ON",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRkNuRmpYYlk1SjJ0R0VzZDBhbmdYbHVwQ0EzZWNmUUJlQkxTUGdYNXNNdnB0QUF4cEpqTXNOOXpCQkxBN0tIam04dG1DRTIzN1UzME1GUVdiaHR3VFN4RmhIaFJBZFNZeHhDREVHbkN1RlJmSTM3X1hkbXFVUWxpWnlvQnh5UlRYSnBHZ1lVU2NoOWNMNkw0WWtrR1d4RXZlLWRwaF8zdUxIYk5GNlZBeQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dd51cde21d55",
+      "title": "Segundo estudo, a frequência com que você vai ao banheiro pode dizer muito sobre sua saúde e o funcionamento do corpo - Portal 6",
+      "published": "2026-04-29T19:06:18+00:00",
+      "summary": "Segundo estudo, a frequência com que você vai ao banheiro pode dizer muito sobre sua saúde e o funcionamento do corpo&nbsp;&nbsp;Portal 6Xixi 'por garantia'? Entenda como esse hábito pode prejudicar sua saúde&nbsp;&nbsp;TerraQuantas vezes é realmente normal evacuar por dia para manter uma boa saúde intestinal&nbsp;&nbsp;Tua SaúdeVocê pode estar fazendo xixi errado e prejudicando sua saúde sem saber&nbsp;&nbsp;CaprichoIr ao banheiro 'por via das dúvidas' pode afetar a saúde dos rins? Especialista",
+      "sources": [
+        {
+          "name": "Portal 6",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdnBvUDdOTGR2OEVjNU9nVXp3NWFRSWJaT2JEeHB2TGswdG94NHFpVUlNeGJaMXc2dGVCUVlXUTF3UlFDbUZxVGV4MTh4SGowYUF5U0JvOW03ZXBaRWZHeWw5MFVpUUs0VERfcGFXRGdSbVBMVDBOQ0RrQ0R3Vl9KQThTbEh4d1hBMHQtWUpZYlQxa2E5LU1HR29SN0VsZUtKUTRxeGdEeXdGMmJ2NE9WdVQzclhLZkpVZ0pGNTh6czJ2bHZXaDR1NXZWRlByOHlrc2ZLVUtXeU5BMnJ3VC10bVctU0FGQQ?oc=5"
         }
       ]
     },
@@ -81,7 +117,7 @@
       "id": "3354de0b2f4e",
       "title": "O que explica os casos em que as canetas antiobesidade não funcionam - UOL",
       "published": "2026-04-29T14:14:17+00:00",
-      "summary": "O que explica os casos em que as canetas antiobesidade não funcionam&nbsp;&nbsp;UOLO que explica os casos em que as canetas “emagrecedoras” não funcionam&nbsp;&nbsp;CNN BrasilUso de caneta emagrecedora pode elevar risco de pancreatite&nbsp;&nbsp;Valor EconômicoConsumo de bebidas sem álcool aumenta em bares por uso de canetas para emagrecer, segundo Abrasel&nbsp;&nbsp;R7“Canetas emagrecedoras”: por que a musculação precisa fazer parte do tratamento – DrauzioCast #257&nbsp;&nbsp;Portal Drauzio Var",
+      "summary": "O que explica os casos em que as canetas antiobesidade não funcionam&nbsp;&nbsp;UOLO que explica os casos em que as canetas “emagrecedoras” não funcionam&nbsp;&nbsp;CNN BrasilUso de caneta emagrecedora pode elevar risco de pancreatite&nbsp;&nbsp;Valor EconômicoConsumo de bebidas sem álcool aumenta em bares por uso de canetas para emagrecer, segundo Abrasel&nbsp;&nbsp;R7Agonorexia: 6 riscos de ter perda total de apetite com o uso de canetas emagrecedoras&nbsp;&nbsp;Jornal Correio",
       "sources": [
         {
           "name": "UOL",
@@ -105,7 +141,7 @@
       "id": "8dbf0529ed25",
       "title": "Estado confirma 8 mortes por meningite em MT, descarta surto e reforça sobre vacina - Só Notícias",
       "published": "2026-04-29T13:41:00+00:00",
-      "summary": "Estado confirma 8 mortes por meningite em MT, descarta surto e reforça sobre vacina&nbsp;&nbsp;Só NotíciasMato Grosso registra 8 mortes por meningite e o maior número de casos dos últimos dois anos&nbsp;&nbsp;G1SES monitora casos de meningite e reforça importância da vacinação&nbsp;&nbsp;Secretaria de Estado de Saúde - MTSES: MT tem 6 mortes e 28 casos confirmados de meningite em 2026&nbsp;&nbsp;RdnewsJanaina cobra reforço imediato na vacinação após aumento de casos&nbsp;&nbsp;FOLHAMAX",
+      "summary": "Estado confirma 8 mortes por meningite em MT, descarta surto e reforça sobre vacina&nbsp;&nbsp;Só NotíciasMato Grosso registra 8 mortes por meningite e o maior número de casos dos últimos dois anos&nbsp;&nbsp;G1SES monitora casos de meningite e reforça importância da vacinação&nbsp;&nbsp;Secretaria de Estado de Saúde - MTSES: MT tem 6 mortes e 28 casos confirmados de meningite em 2026&nbsp;&nbsp;RdnewsJanaina cobra reforço imediato na vacinação após aumento de casos&nbsp;&nbsp;folhamax.com",
       "sources": [
         {
           "name": "Só Notícias",
@@ -150,14 +186,14 @@
       ]
     },
     {
-      "id": "24b10f1571b7",
-      "title": "Como a proteção das majestosas aves de rapina funciona como o principal termômetro para a saúde da biodiversidade amazônica - Revista Amazônia",
-      "published": "2026-04-29T13:10:26+00:00",
-      "summary": "Como a proteção das majestosas aves de rapina funciona como o principal termômetro para a saúde da biodiversidade amazônica&nbsp;&nbsp;Revista Amazônia",
+      "id": "816c4b775a25",
+      "title": "IA americana consegue detectar câncer de pâncreas 475 dias antes do diagnóstico - O GLOBO",
+      "published": "2026-04-29T13:06:59+00:00",
+      "summary": "IA americana consegue detectar câncer de pâncreas 475 dias antes do diagnóstico&nbsp;&nbsp;O GLOBOBiossensor identifica câncer de pâncreas em estágios iniciais&nbsp;&nbsp;Estado de MinasIA já encontra o câncer antes do médico — e antecipa diganóstico em quase um ano e meio&nbsp;&nbsp;ExameCientistas brasileiros desenvolvem sensor para diagnóstico precoce de câncer&nbsp;&nbsp;Correio BrazilienseBiossensor brasileiro detecta câncer de pâncreas em fase inicial&nbsp;&nbsp;Metrópoles",
       "sources": [
         {
-          "name": "Revista Amazônia",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcm1DYWQ0cm9uN3dYYnlaR3ZzRXpid0pOeGVjaW85SHFRbDM1RHF3SFlxdzNLNFUtRFpGeFFKZFRlOThaTVR5X280ajhCc1I2eGF6TjBIVjlzTWszRFczeHJLS0xuNVNUeGZmRnM4ZVVmbUFnNXFQaVB3OWN1LWl6dGRsMVBpek9FS3RBWEw5bGpJcEgzMXdQekpHZThHUWRvU1FGUW1rU0F0UUUybDAzLW1GOUNNMktMY1djOUFRYlNETkgzd19fZFVlV2hMOXNDdzhfemljTlFYWUVGb001RVRPTkZ2eTlrVTVj?oc=5"
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTlplRVRtRGxDUDZqM05KbTh6U25nTVNmLU1sZy1hM3c0SEpDa1ZtNGo0MnphaUtXVXhUeVlzZm53RFlFellsNHViWU5Wakl2d3hZT3hFeVBUMVZVVGtXNkVZTUVVeF9lRklOcnV6RlFWQnlxd1RZMmFTVmtZYmhxTi1mSXBhUk9oeklpVTMyYk0yRXVoUEdZYWJfdTl6eHpZd1V0VnByREk4MTBWRGhDaW5DYmNpbHo1Wk8zYlhRZlpIaVVVWWFUZEtnelMzblhwYVpz0gHiAUFVX3lxTE5YUjYyQmdQRUZWTjBvRFhLdzlOOTdHUG5zQTR4anNoMVY3VHRzd0hYOXo1N0pibW8xZ0l2b1B6Qk5Cdmp5Z0JVZzR3TVU1dHo2WEFxQTFLNGY3SFdVY0lNWlFyVjd3NC1ENFEwUzlDSTV1MHAzTUlseTBtX0RqTHRfTjhqV2ZSc0JlbUNwc0M2aEExVjZqRGU1LUg3bG9OQ0ZDcW41Tlh3bVhESVhqREVVWnZHdDhJQVo1SDJwbUEzcTFQT0JzZGhkWWtockk2RnJHalNadFNJSzJqLXd0eWFOUlE?oc=5"
         }
       ]
     },
@@ -258,6 +294,18 @@
       ]
     },
     {
+      "id": "cd5d315e9016",
+      "title": "Marte pode ser contaminado por fungo enviado da Terra? Estudo traz novas evidências - R7",
+      "published": "2026-04-29T05:00:01+00:00",
+      "summary": "Marte pode ser contaminado por fungo enviado da Terra? Estudo traz novas evidências&nbsp;&nbsp;R7",
+      "sources": [
+        {
+          "name": "R7",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQW03Y2xTeno1a1JjZGwzMEtieHNGUmhYblZBOGlNVzd3OTJ4NHZTVWRFVkRkTWczNkJubk9aUjM0RndkVVVWMjU0QzZRRWd1NUVpc1hIVUNvYy15elV6TnN5d3piR0RtaUx4UWotN3RtY1V4UzlRZGNSQXN5S2Uxam9CWkNjaWptenNiMUpaQTBJUF9WODU0RXZLY1M2T2VmOEtJSThlZEZhcGxUbWFSM1VwTQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c9160543f0ab",
       "title": "Médica explica o que provoca supercrescimento bacteriano no intestino - Metrópoles",
       "published": "2026-04-29T05:00:00+00:00",
@@ -266,6 +314,18 @@
         {
           "name": "Metrópoles",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdVNoQXVHd3ZSSFQ1NFZXSUprSndhX1ZYbDNNem00UXhtZkJaVWFJVE9NeUZiTGVoczRQQWhrR1dPZnpWUmI1LUxkV2E4Wk9Kc0JFQnpkcE95cWNRZS1sTUJwMWpWS08tTXVPXzB0eVdnLTdYb0F3TUcyZjZfVVVYanJkNVRubVVfdXZESVBhOU4tUnRJV2JXekgwS3RWbFNfdTB4TldmNG1mYlZVcUE4d1RzUTVhd3NuWkZRMzZ3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "63612b358d92",
+      "title": "Ômega-3 mostra efeito inédito ao atingir células cancerígenas mais difíceis - R7",
+      "published": "2026-04-29T03:32:41+00:00",
+      "summary": "Ômega-3 mostra efeito inédito ao atingir células cancerígenas mais difíceis&nbsp;&nbsp;R7",
+      "sources": [
+        {
+          "name": "R7",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbEo5amFBRDV5RmhsdHlNYVVTX0VOOXZ3T3BRRG5KSlVYTHRfUW0yNi1fLURnX0gxMlU2bHhMUmhubGtkTUVKdHZQV0RPWnBuMm1jaFRJLXdfQjBhRXhGS2RhbUtzbENYLUl0cS1xdlhsOExPNE1naXV4cWxRYnI1ejhtRGFQVG5LTDhsRm5VRVRKbVh1OUMxTW56NUlJeWM5bVFLUHFTUm5uYm5idTVwTko1RmJtXzdodDZLdVBrcw?oc=5"
         }
       ]
     },
@@ -357,7 +417,7 @@
       "id": "15bbb7f88316",
       "title": "SP confirma segundo caso importado de sarampo - Agência Brasil",
       "published": "2026-04-28T18:32:00+00:00",
-      "summary": "SP confirma segundo caso importado de sarampo&nbsp;&nbsp;Agência BrasilCopa do Mundo: Ministério da Saúde lança no Rio campanha de vacinação contra o sarampo para quem vai viajar para ver os jogos&nbsp;&nbsp;G1Ministério da Saúde lança campanha de vacinação para brasileiros que vão à Copa do Mundo&nbsp;&nbsp;UOL NotíciasPMM alerta viajantes da Copa do Mundo para atualização vacinal&nbsp;&nbsp;Prefeitura de ManausCapital paulista registra o 2º caso importado de sarampo&nbsp;&nbsp;Estadão",
+      "summary": "SP confirma segundo caso importado de sarampo&nbsp;&nbsp;Agência BrasilCopa do Mundo: Ministério da Saúde lança no Rio campanha de vacinação contra o sarampo para quem vai viajar para ver os jogos&nbsp;&nbsp;G1Ministério da Saúde lança campanha de vacinação para brasileiros que vão à Copa do Mundo&nbsp;&nbsp;UOL NotíciasPMM alerta viajantes da Copa do Mundo para atualização vacinal&nbsp;&nbsp;Prefeitura de ManausCampanha contra o sarampo visa evitar casos importados durante a Copa&nbsp;&nbsp;O P",
       "sources": [
         {
           "name": "Agência Brasil",
@@ -398,18 +458,6 @@
         {
           "name": "Catraca Livre",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbnB3OVo1bHpwZWg2dVp1R3FHSmFldU9uS1UxOVE5MGZYVzV4RjgtRDFjQ0htb0dpQVg3ZjdoXy1MdGZrNEJDblJTRjU4SVpnZE91TFZzRC01R3pYc1pjc0M4cGFzdkVFTXpRRnBjSkI1Nk5qdW10TXAtNW5yemdhTEdIcXd6eUpzUUR4LTdEYUQ0Y0xwU0RiZ2NWMWRFX3lxSUVWaWhjWEhFZjJNdm91SkFXRXk4RzVpeF9ybXB3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a8e4facee676",
-      "title": "Pesquisa sobre câncer de pâncreas é despublicada após omissão de autores - UOL Notícias",
-      "published": "2026-04-28T14:15:29+00:00",
-      "summary": "Pesquisa sobre câncer de pâncreas é despublicada após omissão de autores&nbsp;&nbsp;UOL Notícias",
-      "sources": [
-        {
-          "name": "UOL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSHFGVldOSWd1ZXM4dTdFaHJjZnRRb2JvNWlnRFRpdEtuektnckRXeVFZbWFjZGhhVy1tUzA3S1B5d1hERzEzbFhCSFp5RjZFX2p1R3pHSFVmRDdPTm9wSm1iVHdIZlB2MUo2ZVZSaWJtVURZdURCNmtfVy15VUtQalVrZTg1OHJkSkZ0ekhzS1lTR0tpY0dJdlFNeU8xVjJDaDMzS1hueDBtaGhtcnM1dUVINldST2xKckloVHd4WkpYMkQwVzJPbFl3Wm85N24yRkdGd3RKM2FkY1BoM2ZHazJ2aDB4NlF2Vi1ZVQ?oc=5"
         }
       ]
     },
@@ -500,60 +548,12 @@
     {
       "id": "cb35e6cd625b",
       "title": "Filme plástico com nanotecnologia destrói vírus por contato - Inovação Tecnológica",
-      "published": "2026-04-28T09:53:06+00:00",
+      "published": "2026-04-28T09:50:38+00:00",
       "summary": "Filme plástico com nanotecnologia destrói vírus por contato&nbsp;&nbsp;Inovação Tecnológica",
       "sources": [
         {
           "name": "Inovação Tecnológica",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcTdmR28xbGdSb09YVUhCa3kxbW5OYlNHeElkcExXRjQxTDQtQ2dTNDgzeHM0dTloUTBpWC02ZXdlbGxEUGk3RWozM2RNbDc2ZVNTQUwzOTl4cURIejFkWWVKMG4zUFhiZFBtY0dtR3pCUUcxYlFTME1qcWQ5T1FlSE1SeF9FZU5hdjhDM09lMWsycEhUUExwUUZTMGJzODMwUnNGbTNRYmhvc2FhOW1qZg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4fe1d8950199",
-      "title": "Cientistas descobrem primeiro ovo fossilizado de ancestral de mamíferos - Folha de S.Paulo",
-      "published": "2026-04-28T09:00:00+00:00",
-      "summary": "Cientistas descobrem primeiro ovo fossilizado de ancestral de mamíferos&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWE9JWTVzNlBGX1hXWE04S0thU0swZE83VVdIX3Jsa0dwMUlmS0k2QW1nMW1HM1NuLVRUQk4tZ2RiX2J2X1haMGl5Y2p0YW93OXl1bXBqUy1yOHhqZzFmaVRRRFYtYy1rU29HQWpEQnlKUU5TdnJnVlU0c0U5bjh6c3JSYVI1YTdCYlJXZFpyVVhPRTMxN0Myc2tycjJHS0EtZmdZMVJWcEZ1X0dieE5fT1lZMkwwZFVYUU4wdDNhdkTSAcYBQVVfeXFMTkVmNV9vMWtwQ3FmV0xTYS1lUmkyWUctdnVFVk40M1VyczJqWkRSZkZvYkJXbHhZVkdoQmpCcFBLNkhNWGc3Mzg3UWI3RHF6U0QxYTNZeDA4d0NpM1ZBVERyVVVfUnJWOC11NWVBczBaS09WaFd0OGZUdWNUQ3ZmM0Q0c19hRlEyWjlfajJ1bnJBMTBrQVlHT1k5MjhuWkx3ODJtd3JnYkVobXBUVVllZEM3alNxT3VSWGZGcHRRTllWZ1ZmT0Fn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2fee7874e611",
-      "title": "O que é a leitura profunda e por que ela faz bem para o cérebro - G1",
-      "published": "2026-04-28T08:03:37+00:00",
-      "summary": "O que é a leitura profunda e por que ela faz bem para o cérebro&nbsp;&nbsp;G1Estudos apontam que crianças que liam livros físicos com frequência estavam fortalecendo o que hoje é conhecido como foco profundo&nbsp;&nbsp;Correio BrazilienseA leitura e o cérebro: um hábito que fortalece a saúde mental, cognitiva e social&nbsp;&nbsp;Diário do NordesteLer: um remédio sem efeitos colaterais para a longevidade&nbsp;&nbsp;AfubespLeitura profunda pode salvar seu cérebro? Especialistas alertam sobre o per",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ3NpWXJhZzJ3SGtERk8zNE5Id3NOamVwVW9HVkxrbDhiRTFSRThxTFV5d0trRlcwRHVXVkdXS0JHWFZPVU5YVS0xWW45dEZyV1RJc19Xcm1CX1c3ZzkzQzlHSi0xTTVqY0VZVmpIdGhIWml5UkZONlEwV19iVmpXWkh5TTF0TU1uZXdEZjQwQWUyQ243dXZwOXpQTFRFRFVHdUtuVFN2Sk02ZGhiVjZJSm9oN3dhNERYN0HSAcgBQVVfeXFMTUc5N1UwR3hDY2k0Nkx5R2RDUHRDSm1rb0gweW5kNlVwa1dVS0ZYRjRmNzV2UWtlOTZCc1FPSC1YT0JFSXlUaUVKb1RRZmFzM0NRMzhJZk5XWjNUWEl5NmpOS0xySF9zeGlacko2YkNuZXRsLXRUb3Y1b3FFNjR4cVJvSVp3Q3RNX2hvaHFydzAtTVhYOUl6Z0NjQ2UtbjBVNUpXdG1zQ1JBRXlYd1I2R3JMUjNmWUxCUlVvb29tSVhvZnJfQW1ZMnM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "38f33bbf8bc2",
-      "title": "Médico lista sinais que o corpo dá quando o cortisol está elevado - Metrópoles",
-      "published": "2026-04-28T05:00:00+00:00",
-      "summary": "Médico lista sinais que o corpo dá quando o cortisol está elevado&nbsp;&nbsp;MetrópolesVer cobertura completa no Google Notícias",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbTAtOU9KVGdZeFpvMGNObDVJRGdYdW00aVNpQ0FsVjl1cWNxRWRjdEhVbDZtbmFwT2w3M1ZuVF96Ylp0VVNaRnFpREg1OUQ0SFlXM2w4QUloQ0N1Y21DSjN0UnRqdmdCMUdMRkdvWjhrUGdrZlZwcHlMQWcxcVhTS2ZHWXRtNGM3Rk91MGhJcnUwYzVmcUV0UUVqYkpha0RRSXN0NlNpaUZaX0g4WjlIYnN4M1ZCY0Nh?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6c5c6462bfbf",
-      "title": "Xixi 'por garantia'? Entenda como esse hábito pode prejudicar sua saúde - Terra",
-      "published": "2026-04-27T16:36:00+00:00",
-      "summary": "Xixi 'por garantia'? Entenda como esse hábito pode prejudicar sua saúde&nbsp;&nbsp;TerraQuantas vezes é realmente normal evacuar por dia para manter uma boa saúde intestinal&nbsp;&nbsp;Tua SaúdeVocê pode estar fazendo xixi errado e prejudicando sua saúde sem saber&nbsp;&nbsp;CaprichoIr ao banheiro 'por via das dúvidas' pode afetar a saúde dos rins? Especialistas dizem que sim; saiba como&nbsp;&nbsp;O GLOBOIr ao banheiro por precaução pode prejudicar a bexiga, aponta estudo&nbsp;&nbsp;Portal Tela",
-      "sources": [
-        {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWFBtOElCSXh0VkF2ZWtEdm8zcjdvYTU2aGdHWWdvVTV2S2ZObHN5NkptSEhTQ3ZTdW5MMnRoa2V5U19vQ1U1UHJoenpHZm4zeF85SlVXTXZjYTBmSW4xdHNSYlRtek5xRlEwNkNCSlNCNVFuazk1VzZmUmFLa3VMNzhfTEl2dDdUVS1PaWRMaEJNX1RVRXNMMmdVNlVZS3NwNm9LOFJVNXRneWcwMUk2Zm5CcmFKN1lKQWpxa01qRDU1M29nMkJTN0ZRVEJPamVJdmJJekZRVTZ3clJCWktGVk9lcTRyaXk3SEtjLWh5Mko?oc=5"
         }
       ]
     }
