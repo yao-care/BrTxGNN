@@ -1,19 +1,55 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-05-01T13:23:12.970393+00:00",
-  "total_fetched": 108,
-  "unique_count": 107,
-  "health_related_count": 49,
+  "fetched_at": "2026-05-01T19:15:47.895412+00:00",
+  "total_fetched": 105,
+  "unique_count": 105,
+  "health_related_count": 43,
   "news": [
     {
-      "id": "efe4be3e8f4b",
-      "title": "O que a perda de peso rápida pode fazer no rosto? Entenda a queixa estética com canetas emagrecedoras - O GLOBO",
-      "published": "2026-05-01T10:16:16+00:00",
-      "summary": "O que a perda de peso rápida pode fazer no rosto? Entenda a queixa estética com canetas emagrecedoras&nbsp;&nbsp;O GLOBOCanetas emagrecedoras: o efeito colateral na pele que ninguém te conta&nbsp;&nbsp;Estado de Minas'Rosto mais velho': queixa cresce após emagrecimento muito acelerado&nbsp;&nbsp;Terra\"Rosto mais velho\": queixa cresce após emagrecimento muito acelerado&nbsp;&nbsp;MetrópolesÉ HOJE: BEAT.co promove evento com Anderson Quinderé e palestra sobre queda capilar&nbsp;&nbsp;Conexao 085",
+      "id": "3bc604eb18c3",
+      "title": "É essencial manter conexões sociais ativas a partir dos 60 anos para retardar o declínio cognitivo e o envelhecimento cerebral - Tua Saúde",
+      "published": "2026-05-01T17:35:00+00:00",
+      "summary": "É essencial manter conexões sociais ativas a partir dos 60 anos para retardar o declínio cognitivo e o envelhecimento cerebral&nbsp;&nbsp;Tua Saúde",
       "sources": [
         {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYWZRcW9JNlBKTFFCUXVscG9lZVl1SjNQWGliWVF6b0lKX1RLZnpSdGdVU0FNNFJoLUZpejBZai05SUtxSDJjMXhOazZ5ZGpuVW4tYlBIcnBfV1ZlVkNySzAyRk43ZDF6aDNpWGtfZUlfdXlOZThrWUtEd1NuaTN2cEVpRHk5T3N1bktpMkVUNEw2VU51WEw5Xy1KS2dOX3hiVVppX0x0ZmlsVTRENzJGYjdCZDBLU3g2VXl5dEhDOUQyVTB5ak5mWkNlRmxFbmNHc0F3RzRNZUJZYWNuQTFSX3h6QURZTFdSQkHSAfgBQVVfeXFMTzRZZnZEaUtJR1NBbVVFTVROckJNWmVSU01Gcjl6VW5NbjRzVkY4RTdzWkJydzZjcUpwMWZTbktVTmp0TG1ESFRCTExjYVZkZjNTQ1lIMU5vSGVtcF9fMUhmV3lxMTYwVWF5Q3RIMzQ2UlNuVnd5N3dQMGk5XzB4YjhNZk9CSjBYN3l5bEp4TWc5UTRld1hJb2xYRjFHbDRaV0pqZjh0V3NiRjc3MUVkRTAySXpCV1NmSjhGVldiUVN2SGhMaV9Pd3VzcDdTMEYtMUhRam80ZVphT2RQa3JFNWs5bEhuZDJYajEtenZVNVFUQmpZUzNMRnM?oc=5"
+          "name": "Tua Saúde",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNa1ViT1RUT1E4SGxwdW5GZURTT1ZkS2JkU2xYUGVQZ2ltaktsWGo1REVVaU40a0hVS0x1b1RKaDJCbE1XZjl2d2lVcVU4VTI0Ym4tdldtdm9YdDZMN1d2cDQ5bUsxakc3TWFvQVRvLUxwSWRQRnZDTHRrbVdQdzdZTkdIdVpXbFhJNHVhODZaby1HRUdTOXJodjVVZWNEeXhOeEhaTWpUT0l5RDlLNlB1cjVnTzcwUzgyS0JKZVJiR3dlcVJIeXhjWklWS0ZDRnkwWWR4MWs2X3piYVdGS2RXaVFWX1dqcGFEdW1KX2ZLM0UyOEMyc3ByS241NU0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "860c255c3835",
+      "title": "Pela primeira vez, cientistas gravaram em 3D o momento exato em que células do sistema imunológico \"matam\" células de câncer - CPG Click Petróleo e Gás",
+      "published": "2026-05-01T14:42:00+00:00",
+      "summary": "Pela primeira vez, cientistas gravaram em 3D o momento exato em que células do sistema imunológico \"matam\" células de câncer&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQQVBWeUJwOWpSWkt5dldqX3ctd2M5NHZqQUwwdGozRUNsQ1BtRE5FN09KVU95bDRzeXZ0eG9PVTA4WUZjSC1yQmJkenFvd1JxTlloaDJJQXRUMW9GcnJyMW5MTy05dGpzVmh6c21IamlxMDZaZ0t0R2l0eVhRNFcwUXJBNVFOQXp3NEM4RndBQnVfVVM3V2N3SWRUdE40ZkJZRGctSzZqY0lVY1g1WnNEaXJMS25NUklBQlRNNUZNemVkZHhpUS02VHhWRGxTcXV5bU16VDdMY1dRamF6N2ZadTFPZ0ZKeDRMbGl5bGZJV25WZUtW?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "879cbecc7159",
+      "title": "Astrônomos confirmam pela primeira vez na história a existência de uma enorme caverna vulcânica em Vênus - Catraca Livre",
+      "published": "2026-05-01T13:34:00+00:00",
+      "summary": "Astrônomos confirmam pela primeira vez na história a existência de uma enorme caverna vulcânica em Vênus&nbsp;&nbsp;Catraca Livre",
+      "sources": [
+        {
+          "name": "Catraca Livre",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcmJfaU1RSDVSZG5GZFVFZ2pLU2c1cVhjNmdiczFWbDFHT3FQTFFlZ05rcm4yWl8zVUFkaXJDWGctdlBNbW9fU01WbmhhSVkxV3BMSUJTQ2xIcFgwUlZQd2wwM3JvMDg3ZExSa0UtQUFLZTdtczdkOW1YMW9ZQnBHZ3RzVnBiN3I2Y1Q5TDRUcHo1c1J0cHpsWXdsUEVVZGtEZTZuMExBa0IzZGQxelhvcHZyMkhKdXFqWVdIbnpxQV9pTTVnemF0bHpPVlJYbHVxRWgwb0pSUkVhQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fcd48e117c00",
+      "title": "Um asteroide localizado a cerca de 300 milhões de quilômetros continha as cinco letras básicas de DNA e RNA, e a descoberta mais uma vez questiona a ideia de que a vida começou apenas na Terra - Catraca Livre",
+      "published": "2026-05-01T11:07:00+00:00",
+      "summary": "Um asteroide localizado a cerca de 300 milhões de quilômetros continha as cinco letras básicas de DNA e RNA, e a descoberta mais uma vez questiona a ideia de que a vida começou apenas na Terra&nbsp;&nbsp;Catraca Livre",
+      "sources": [
+        {
+          "name": "Catraca Livre",
+          "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQZ3FIc0VqWXpjaUotYWNxQk03VlpzZlgxTUUzN09WMTVSYWNVV1dsTHVaVjVXRGtRMHprN3RpNEJQa292WUxXQWg5NW5jUnphT1o0WVZjWEVLLUF0NGt5YTJwZGxiaGo5Z1REa1ItaUlicjJyVUxmUElQN0tleVpDWW1ZakRpZ1Rzc3M2MDlvR3JfX041RmNHZ3V4VXVEQTlaekJtLTZUc0p2WUhiVjZxbnNpQ2VETjE5MnR2a2pUMXFyRUVoekxNbVBucjU4SkNETXRpSTlyZ3V4WTU1eWlTdm1RXzBhSmotZUdvMkNQQWFtUks5VHg5b1lOSGw4SkQzOExRcmZoTjNOczJuTHljVXVORFI0U3pEZGZYam01MzRYSUJqV0pvV0JOWU1mMmt1aDBfY2s5RWJjUGk5WnJad1dwcllSVlZkeHBvdzJn?oc=5"
         }
       ]
     },
@@ -30,10 +66,22 @@
       ]
     },
     {
+      "id": "2d44d5bd3dba",
+      "title": "Exportações de chá verde do Japão disparam com boom global do matcha - Portal Mie",
+      "published": "2026-05-01T09:04:54+00:00",
+      "summary": "Exportações de chá verde do Japão disparam com boom global do matcha&nbsp;&nbsp;Portal MieMatcha Bio Continente Equilíbrio: descobrimos no supermercado o superalimento favorito dos famosos&nbsp;&nbsp;Jornal de NotíciasNem café nem mate: a bebida quente que está ganhando espaço para começar o dia com energia&nbsp;&nbsp;Super Rádio TupiNutricionistas revelam a bebida ideal para começar o dia e envelhecer bem&nbsp;&nbsp;Notícias ao MinutoNem café, nem mate: bebida japonesa vira febre e promete mais",
+      "sources": [
+        {
+          "name": "Portal Mie",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaWFySHdXM2I3RDFobWQwNnNTbU5ma3EyQWx2Y043V2lBNGdlUkc3ek4xajF3eFhMZWJjWEh3MEo2aEZWNHBzTkN5YjRwaHVSeE45dnprbE9SMklUSE84UldVQjE4OHlrUnRWQUJnWVoyWGZETjk1dm15QzMwTTN2QnVyQ1lIRklQakROTjFzS0l2czZwSU1LMTJaX0tnVDhvZnBQVTRUVzR2VW52eUFv?oc=5"
+        }
+      ]
+    },
+    {
       "id": "7834928d01a1",
       "title": "Quebra de patente pode baratear em até 30% ‘caneta emagrecedora’; em MG, 3 em cada 10 estão obesos - O TEMPO",
       "published": "2026-05-01T09:00:01+00:00",
-      "summary": "Quebra de patente pode baratear em até 30% ‘caneta emagrecedora’; em MG, 3 em cada 10 estão obesos&nbsp;&nbsp;O TEMPOPor que o tratamento com as canetas emagrecedoras geralmente tem de ser contínuo&nbsp;&nbsp;SuperinteressanteUso de caneta emagrecedora pode elevar risco de pancreatite&nbsp;&nbsp;Valor EconômicoCanetas emagrecedoras: confira os preços atualizados de Ozempic, Wegovy e Mounjaro em 2026&nbsp;&nbsp;ND MaisEntenda os casos em que as canetas “emagrecedoras” não funcionam&nbsp;&nbsp;Met",
+      "summary": "Quebra de patente pode baratear em até 30% ‘caneta emagrecedora’; em MG, 3 em cada 10 estão obesos&nbsp;&nbsp;O TEMPOO que explica os casos em que as canetas emagrecedoras não funcionam?&nbsp;&nbsp;TerraAgonorexia: 6 riscos de \"perder a fome\" com canetas para emagrecer&nbsp;&nbsp;CidadeVerde.comCanetas emagrecedoras: confira os preços atualizados de Ozempic, Wegovy e Mounjaro em 2026&nbsp;&nbsp;ND MaisPor que o tratamento com as canetas emagrecedoras geralmente tem de ser contínuo&nbsp;&nbsp;Sup",
       "sources": [
         {
           "name": "O TEMPO",
@@ -45,7 +93,7 @@
       "id": "09d202c84d3f",
       "title": "Chinamaxxing: beber água quente de manhã faz bem? - CNN Brasil",
       "published": "2026-05-01T08:00:16+00:00",
-      "summary": "Chinamaxxing: beber água quente de manhã faz bem?&nbsp;&nbsp;CNN BrasilBeber água morna ao acordar faz diferença? Especialista explica o que realmente importa&nbsp;&nbsp;TerraO que beber em jejum para tratar a inflamação intestinal e garantir a absorção de proteína de acordo com a ciência&nbsp;&nbsp;Tua SaúdeBeber água em jejum: como aderir ao hábito que desincha o rosto e ‘ativa’ o metabolismo&nbsp;&nbsp;ND MaisDeve-se beber água ao acordar para facilitar o funcionamento do metabolismo durante ",
+      "summary": "Chinamaxxing: beber água quente de manhã faz bem?&nbsp;&nbsp;CNN BrasilBeber água morna ao acordar faz diferença? Especialista explica o que realmente importa&nbsp;&nbsp;TerraO que beber em jejum para tratar a inflamação intestinal e garantir a absorção de proteína de acordo com a ciência&nbsp;&nbsp;Tua SaúdeBeber água em jejum: como aderir ao hábito que desincha o rosto e ‘ativa’ o metabolismo&nbsp;&nbsp;ND MaisMuitos têm o hábito de beber água ao acordar, ainda em jejum, mas especialistas reve",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -66,26 +114,38 @@
       ]
     },
     {
-      "id": "829d9869906f",
-      "title": "Eu adoro musculação. Eu realmente preciso fazer cardio também? - O GLOBO",
+      "id": "0e6a0a835dca",
+      "title": "Eu adoro musculação. Eu realmente preciso fazer cardio também? - O Globo",
       "published": "2026-05-01T07:30:40+00:00",
-      "summary": "Eu adoro musculação. Eu realmente preciso fazer cardio também?&nbsp;&nbsp;O GLOBOEstudo com 15 mil brasileiros comprova que atividade física é o melhor investimento para o envelhecimento&nbsp;&nbsp;TerraQuer viver mais? O segredo pode estar em uma simples mudança nos exercícios&nbsp;&nbsp;UOLMais treino, menos risco? Sim, mas nem sempre depois dos 35 anos | Letra de Médico&nbsp;&nbsp;VEJA5 benefícios de atividades físicas para idosos acima de 80 anos&nbsp;&nbsp;Correio do Estado",
+      "summary": "Eu adoro musculação. Eu realmente preciso fazer cardio também?&nbsp;&nbsp;O GloboQuer viver mais? O segredo pode estar em uma simples mudança nos exercícios&nbsp;&nbsp;UOLMais treino, menos risco? Sim, mas nem sempre depois dos 35 anos | Letra de Médico&nbsp;&nbsp;VEJA5 benefícios de atividades físicas para idosos acima de 80 anos&nbsp;&nbsp;Correio do EstadoEstudo com 15 mil brasileiros comprova que atividade física é o melhor investimento para o envelhecimento&nbsp;&nbsp;The Conversation",
       "sources": [
         {
-          "name": "O GLOBO",
+          "name": "O Globo",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRTFFM2xkc2pPOWwzVjlxZFZwRkEtMGFNaTJtTUJ5OGlNQUxjejc2Ul95ZndFN08zSno5cnE1a01sTWpCRWJRRTF5UUY0SkZGeFhJWDlVODFtcHFRR1hzakQzN0hmeW1iT0ZGaXhfUzV1OElWMmpnMmtoeE1WanVzZmxMeFgzM1V1NUdJRFhNd2ZmdmQycVozV2pUZVJncThFWUtkNzB6cEk5OFUycUREWlA2WF9lX0HSAcYBQVVfeXFMUHpEY1VLZXhMS2I5M0ZkZ1h1T0ZfVGZMX1N4Y3M0M1ZzYWlPV2otMzBBdXdNVWVHbXNCTlJoeEVTV1Foc1lYYy1nZFpVVUp3TGhZbGY3LXF0TE1Edlhyd19MaXM0eEt5ejlVYTQ2VzJxWEdJVV9NQnY4YUdJbmQ1VFZ4WUg4YzhkR0wwdG9CZVhCV1RTS1JReXA0TzJmVWo3SFR1QzBlOVJ1eEVSbzNjSmxGYVRkaHZwYURobXpKbFEtb0RTV013?oc=5"
         }
       ]
     },
     {
-      "id": "e1626e077882",
-      "title": "Aves urbanas fogem mais de mulheres do que de homens, aponta estudo - O GLOBO",
+      "id": "0e920491cfee",
+      "title": "Aves urbanas fogem mais de mulheres do que de homens, aponta estudo - O Globo",
       "published": "2026-05-01T07:02:13+00:00",
-      "summary": "Aves urbanas fogem mais de mulheres do que de homens, aponta estudo&nbsp;&nbsp;O GLOBO",
+      "summary": "Aves urbanas fogem mais de mulheres do que de homens, aponta estudo&nbsp;&nbsp;O Globo",
       "sources": [
         {
-          "name": "O GLOBO",
+          "name": "O Globo",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORnFZSlFRYUcwSEJJZjljUzREZEtlQTZaeXVFY2lURV92UHhkRUFkX3doSFNmUlNna0NTT0NZeXppT0VJeUpvdGVWUGJLc2dzeWtzYjFmWTlyTG8taDA0aVdjangzUTF1bDdaNlpWOEExUWpSbmZjYVJqMmd6cldlaHpxb3M2bGY1aF9URDVtS2ROWndPV2RoMUkyRnlkU2NxdkxOXzhDQlZORGVsUlEtWUhNX0FoTWdNa3lfeGdOSUhXNlA1cmszOEJR0gHYAUFVX3lxTE02U1BGOWE3MWtKdjY5ekJua2Zwc0poTHFKY0FGZEdNY3QwYUYyak1sdWVxbERvdnhMRUhsVWdQZ3V6bDl6cEpGWUhfUWFvTVB4dDFKWTRHSjJLZHNDVjhrNFV6LW5BV1AtbUlzbnVBVGJ4WkptSkZsNkdXLU9rSktiNmtPdk1odFB5N2lHaEUtU0VMZlJNRUtGSWVETkRXYW9NSWp2WTUydER5SWtQVTdaTnhfbllRNENJYXNZWmRycWdHTFpoWC1CcXh5N1U1QmRqeTZPaFJLcw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a49dbc0079af",
+      "title": "Malária pode ter moldado evolução humana, aponta estudo - G1",
+      "published": "2026-05-01T07:02:06+00:00",
+      "summary": "Malária pode ter moldado evolução humana, aponta estudo&nbsp;&nbsp;G1Humanidade tenta fugir de áreas com mosquitos há 74 mil anos, mostra estudo&nbsp;&nbsp;SuperinteressanteEstudo diz que Malária pode ter moldado evolução humana&nbsp;&nbsp;Olhar DigitalLocais que primeiros humanos viveram na África foram moldados pela malária&nbsp;&nbsp;CNN BrasilEste assassino ancestral ditou onde humanos poderiam sobreviver, ou não, na África durante 74 mil anos: o mosquito&nbsp;&nbsp;Xataka Brasil",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR0JlSzY5NUk5YWN2ZTZ6RmFVeDhBWk1wdjhNWGFwbTU1MUlubldZZkdfdXBobnprVnlWTlFPZkdfWjliRmtLeTlGdExWVHQxLWVsQUNlU2d4WkZkVDZMZzE1VTJLeWtVX2g1cjJ1WUZ0WEM5bnh4ZmJPOGw1azJzd2dxcTNjUURJaGZLMmFQVVZUdi1LTGduWjM1WlJVZ1Jkb2JlTzc1NE1Nd9IBuAFBVV95cUxNRTQwMmNGT0dvOXduVTNlcndOdkxuU3E0RkJGM25VZ0tPellIT1hBNGpOa25VVDlpa3hnU1M5VVJXVnFXUy1BOWwxbWU3VEdGTzQ0dzZob0wyQWRZbTNXZVJhMS12MXJHRFRYWVAtbFJSM3dQaGRBbHdrY1NVQXdfSUJLTVRKQ3VRamdkR2R2cUM4RHhRbEVGVjJEdndIajNSX1ZtRTY2eEVNYlpQRWRNQk9RVXJXQmhz?oc=5"
         }
       ]
     },
@@ -117,23 +177,11 @@
       "id": "b274edf68a24",
       "title": "Um estudo revelou quantas xícaras de café por dia são recomendadas para reduzir os níveis de estresse - Super Rádio Tupi",
       "published": "2026-04-30T23:31:57+00:00",
-      "summary": "Um estudo revelou quantas xícaras de café por dia são recomendadas para reduzir os níveis de estresse&nbsp;&nbsp;Super Rádio TupiCafé com ou sem cafeína muda intestino e melhora humor, diz estudo&nbsp;&nbsp;Época NegóciosBeber café todos os dias ou não beber café de jeito nenhum: quem se mantém mais saudável na velhice?&nbsp;&nbsp;MSNEsqueça o que você ouviu: a ciência revela um novo lado positivo do café matinal&nbsp;&nbsp;TudoGostosoCafeína e cálcio: entenda como o consumo elevado de café afet",
+      "summary": "Um estudo revelou quantas xícaras de café por dia são recomendadas para reduzir os níveis de estresse&nbsp;&nbsp;Super Rádio TupiBeber café todos os dias faz mal à saúde? O que dizem os estudos&nbsp;&nbsp;Rádio ItatiaiaCafé: nova pesquisa revela os efeitos positivos da bebida no eixo intestino-cérebro, explicando como ela age no humor e bem-estar&nbsp;&nbsp;O GloboEsqueça o que você ouviu: a ciência revela um novo lado positivo do café matinal&nbsp;&nbsp;TudoGostosoConsumo matinal de café reduz ",
       "sources": [
         {
           "name": "Super Rádio Tupi",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbFVDRERhQzRlZ3JMZ01tZ21tNUl4MXdyeHFuMmV5bWtJRTE0OGtNUWVJQ0lXaVg3OGh1Z2xNbWhhczU3LVlUbk1VRFc1WjBTYy1Bdkp4UkdjalhrV2FBeVRIREN6S1ZBTEZEQ00tOTdWM1J4NTVXSHVIRmh1S2lzeE5kdXpCdTl1QnloWjdVOUZXeDRBS2FKaTB3dlNuUi0weTBycmxsd0ZLY2Q4eHFHTjdLRDM0XzlUM01hSDJSYl9iV3hNdVB3Tm0ydmZveE1jWFE4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9c7d28766d57",
-      "title": "FAPERJ divulga resultado preliminar do edital Pesquisador na Empresa - FAPERJ",
-      "published": "2026-04-30T21:23:50+00:00",
-      "summary": "FAPERJ divulga resultado preliminar do edital Pesquisador na Empresa&nbsp;&nbsp;FAPERJ",
-      "sources": [
-        {
-          "name": "FAPERJ",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1UdkRiRkNvOUprOFlXN1E4UnBqZXlsM0dPZWVjUV9KVjFvaExrSWlUMVN0RFZDSGZPaUx1TC1DeldSTlVocG5OeEpB?oc=5"
         }
       ]
     },
@@ -153,7 +201,7 @@
       "id": "777aa4869f5b",
       "title": "Ômega-3 pode afetar negativamente cérebros lesionados, aponta estudo - Metrópoles",
       "published": "2026-04-30T20:33:59+00:00",
-      "summary": "Ômega-3 pode afetar negativamente cérebros lesionados, aponta estudo&nbsp;&nbsp;MetrópolesÔmega 3 pode ter um efeito colateral no cérebro ruim, revela novo estudo&nbsp;&nbsp;O GLOBOO que o consumo do ômega 3 faz no cérebro e na memória&nbsp;&nbsp;Correio BrazilienseEstudo associa suplemento de óleo de peixe a recuperação cerebral mais lenta&nbsp;&nbsp;Mix ValeSuplemento popular entra em debate após estudo apontar risco inesperado&nbsp;&nbsp;DIARINHO",
+      "summary": "Ômega-3 pode afetar negativamente cérebros lesionados, aponta estudo&nbsp;&nbsp;MetrópolesÔmega 3 pode ter um efeito colateral no cérebro ruim, revela novo estudo&nbsp;&nbsp;O GloboO que o consumo do ômega 3 faz no cérebro e na memória&nbsp;&nbsp;Correio BrazilienseEstudo associa suplemento de óleo de peixe a recuperação cerebral mais lenta&nbsp;&nbsp;Mix ValeSuplemento popular entra em debate após estudo apontar risco inesperado&nbsp;&nbsp;DIARINHO",
       "sources": [
         {
           "name": "Metrópoles",
@@ -165,7 +213,7 @@
       "id": "7d56537d7f08",
       "title": "Aliado da saúde: kiwi faz bem para intestino, imunidade e coração - UOL",
       "published": "2026-04-30T19:34:36+00:00",
-      "summary": "Aliado da saúde: kiwi faz bem para intestino, imunidade e coração&nbsp;&nbsp;UOLVer cobertura completa no Google Notícias",
+      "summary": "Aliado da saúde: kiwi faz bem para intestino, imunidade e coração&nbsp;&nbsp;UOLKiwi é aliado natural da saúde e do bem-estar&nbsp;&nbsp;Correio Braziliense",
       "sources": [
         {
           "name": "UOL",
@@ -177,7 +225,7 @@
       "id": "88d8b767a533",
       "title": "Após caso de febre Oropouche em Goiás, DF reforça vigilância de saúde - Metrópoles",
       "published": "2026-04-30T18:20:26+00:00",
-      "summary": "Após caso de febre Oropouche em Goiás, DF reforça vigilância de saúde&nbsp;&nbsp;MetrópolesVer cobertura completa no Google Notícias",
+      "summary": "Após caso de febre Oropouche em Goiás, DF reforça vigilância de saúde&nbsp;&nbsp;MetrópolesGoiás tem o primeiro caso confirmado de febre oropouche&nbsp;&nbsp;G1Febre Oropouche: saiba como se prevenir da doença após caso em Goiás&nbsp;&nbsp;MetrópolesDF monitora casos suspeitos de febre Oropouche após confirmação da doença em Goiás&nbsp;&nbsp;R7Febre Oropouche: Goiás confirma primeiro caso da doença&nbsp;&nbsp;O Popular",
       "sources": [
         {
           "name": "Metrópoles",
@@ -201,7 +249,7 @@
       "id": "cb1ed4861501",
       "title": "Vacinação contra dengue é ampliada para novos públicos - Jornal Bragança Em Pauta",
       "published": "2026-04-30T17:06:58+00:00",
-      "summary": "Vacinação contra dengue é ampliada para novos públicos&nbsp;&nbsp;Jornal Bragança Em PautaSP anuncia vacinação contra dengue para pessoas com 59 anos a partir de segunda (4)&nbsp;&nbsp;Folha de S.PauloAdamantina amplia vacinação contra a dengue para novos grupos&nbsp;&nbsp;G1Estado libera vacina contra a dengue para pessoas com 59 anos&nbsp;&nbsp;Hojemais.com.brCampinas amplia o público-alvo da vacina da dengue do Butantan a partir da próxima segunda, dia 4&nbsp;&nbsp;Prefeitura de Campinas",
+      "summary": "Vacinação contra dengue é ampliada para novos públicos&nbsp;&nbsp;Jornal Bragança Em PautaSP anuncia vacinação contra dengue para pessoas com 59 anos a partir de segunda (4)&nbsp;&nbsp;Folha de S.PauloAdamantina amplia vacinação contra a dengue para novos grupos&nbsp;&nbsp;G1Campinas amplia o público-alvo da vacina da dengue do Butantan a partir da próxima segunda, dia 4&nbsp;&nbsp;Prefeitura de CampinasVacina da dengue chega a adultos de 59 anos em São Bernardo&nbsp;&nbsp;Portal ABC do ABC",
       "sources": [
         {
           "name": "Jornal Bragança Em Pauta",
@@ -218,30 +266,6 @@
         {
           "name": "Globo.com",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQc01hdnpHU3hkOWt4anB1YkpCd2FaNDBPSzB3MWtsU0ZGUTJLNi1LblFkVUFuMjNLME5mTEp0ZGZLeHdVUTJrT0lobktab2hYRlhLMG04NDRSSElKcGw5T3V3YnhJV1JEbDZZTGR0QTh5RzRaS1JBbU5TdzVPN2VGRW1ZUV9kOFdFUjBBVmNEc05vZm9Gel9RbXNscGI2U191VGxvVXV0R1IxLXhtMlQ4RHhNR3FOeGdUcHVEZVBuRGNRY3NjWnVEMEVsdE_SAdsBQVVfeXFMUENBREMwV3kzeVYtZGNlLVl3cHNNUFBkUUVBYzFOYmc1cTF2M2V6a1NESWZKNzlNNzE2dm56empLM3U1WXRqaUxRNmpLLUcxMl9LM041Zk1UdWN2OUN3UjNLbWpLZ0lQa3h6OHFUSjBKNWtvZ2JhaWRNQnA4QVQzTU5fQUtzVlZ2SlZMdUV4RmQzOWRWc05oNmlvdVAyR001aXZkTVdqZ2dKemdNUWJLbDgzYmxLZFNLMnhXNGM3SjZUakEyUVFKaEpuX0ZPb0dZa2VFTzRRczM1SDlv?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8345fbc706bf",
-      "title": "Estudo revela que fim do Universo pode acontecer do nada por um motivo sombrio - CPG Click Petróleo e Gás",
-      "published": "2026-04-30T15:36:00+00:00",
-      "summary": "Estudo revela que fim do Universo pode acontecer do nada por um motivo sombrio&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdnZlUlVNcHl2eFJJRXdoUGV4UFlUOVNsc1VVZGRUSllfOFVQal9PbUxZcHc4LTh0WGQySU9MZEVLQ1ZhbnFqWUNUZzQ5OEhkQ3NQejhNQ2ttRFg5VnNhWkhONjJPTkhncE15Mk9pOUN1Ti0xRjk0bGJXSDZReUlBc1diMkhtcU9RVUtXbGp5ZjFiTWFKMWFYRm5JdWJ1bjd5blpvemJfOWkwWU5BVzAxeVBkMXZ0S0dt?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "44207af899ac",
-      "title": "Descubra como a presença do gambá nos centros urbanos ajuda no controle de pragas e previne doenças graves naturalmente - Revista Amazônia",
-      "published": "2026-04-30T15:15:52+00:00",
-      "summary": "Descubra como a presença do gambá nos centros urbanos ajuda no controle de pragas e previne doenças graves naturalmente&nbsp;&nbsp;Revista Amazônia",
-      "sources": [
-        {
-          "name": "Revista Amazônia",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcVd5SjhFV214a2JuWW1iWVdUVWdabXk1ZDlzUE9wUUdhdHZBVkU4YVpncGlWVHhuelpTMjRlRl9lLXlOeWxTcnZfc1JPZXhmYjh5TmRYT2VxU3hFUU9KNTA2dUtQVWRTVEJkYXdFQTRCaW9QYXEtbjVYWWowRUlLQW1TUjNTYVAtVERvVEY2RC1oNjZyUTJVSHVHZEswc25NOG1XcjVPRFl5RXY3RUZYMDhXS1pPbTJhTGZyY0RaVU93NFp5aG1hdGdkajBDRlYyZ0FxRmpEZVJ1eG9VRDFzdndpZ09SZw?oc=5"
         }
       ]
     },
@@ -297,7 +321,7 @@
       "id": "263729936e4f",
       "title": "Cardiologista diz o que pode reduzir a eficácia do remédio de pressão - Metrópoles",
       "published": "2026-04-30T13:26:00+00:00",
-      "summary": "Cardiologista diz o que pode reduzir a eficácia do remédio de pressão&nbsp;&nbsp;MetrópolesVer cobertura completa no Google Notícias",
+      "summary": "Cardiologista diz o que pode reduzir a eficácia do remédio de pressão&nbsp;&nbsp;MetrópolesConheça o sal que pode reduzir risco de infarto e AVC em até 15%&nbsp;&nbsp;Veja SaúdeNutricionista explica como a má alimentação alimenta a pressão alta&nbsp;&nbsp;R7Sal com potássio pode reduzir em até 15% o risco cardiovascular&nbsp;&nbsp;CNN BrasilO problema na pressão alta não se deve apenas ao excesso de sal, mas sim ao baixo consumo de potássio&nbsp;&nbsp;Estado de Minas",
       "sources": [
         {
           "name": "Metrópoles",
@@ -321,7 +345,7 @@
       "id": "2d31b58357a4",
       "title": "Variante da gripe K ganha força e preocupa autoridades de saúde - Metrópoles",
       "published": "2026-04-30T12:24:06+00:00",
-      "summary": "Variante da gripe K ganha força e preocupa autoridades de saúde&nbsp;&nbsp;MetrópolesDados mostram alta de casos de gripe K e VSR no Hemisfério Sul&nbsp;&nbsp;UOL NotíciasOpas alerta para alta de casos de gripe K e VSR no Hemisfério Sul&nbsp;&nbsp;Agência BrasilCom taxa acima da média histórica, influenza mantém circulação elevada no Brasil&nbsp;&nbsp;MidiamaxCasos de gripe disparam e acendem sinal para vacinação&nbsp;&nbsp;Poder360",
+      "summary": "Variante da gripe K ganha força e preocupa autoridades de saúde&nbsp;&nbsp;MetrópolesDados mostram alta de casos de gripe K e VSR no Hemisfério Sul&nbsp;&nbsp;UOL NotíciasInfluenza: vírus segue forte no país e fica três vezes acima do histórico&nbsp;&nbsp;TerraOpas alerta para alta de casos de gripe K e VSR no Hemisfério Sul&nbsp;&nbsp;Agência BrasilCasos de gripe disparam e acendem sinal para vacinação&nbsp;&nbsp;Poder360",
       "sources": [
         {
           "name": "Metrópoles",
@@ -345,47 +369,11 @@
       "id": "4d12546ca306",
       "title": "Obesidade e Longevidade: O Impacto da Tirzepatida - Campo Grande News",
       "published": "2026-04-30T10:30:00+00:00",
-      "summary": "Obesidade e Longevidade: O Impacto da Tirzepatida&nbsp;&nbsp;Campo Grande NewsNutrição: especialista explica por que crianças não devem fazer dieta&nbsp;&nbsp;Extra onlinePraticidade e rotina levam famílias a consumir ultraprocessados, diz estudo&nbsp;&nbsp;diariodopara.com.brEspecialista de Marabá alerta sobre os riscos da obesidade infantil&nbsp;&nbsp;Correio de CarajásObesidade infantil avança com a pressa da vida moderna e o consumo de ultraprocessados&nbsp;&nbsp;Guarany Junior",
+      "summary": "Obesidade e Longevidade: O Impacto da Tirzepatida&nbsp;&nbsp;Campo Grande NewsNutrição: especialista explica por que crianças não devem fazer dieta&nbsp;&nbsp;Extra onlinePraticidade e rotina levam famílias a consumir ultraprocessados, diz estudo&nbsp;&nbsp;diariodopara.com.brEspecialista de Marabá alerta sobre os riscos da obesidade infantil&nbsp;&nbsp;Correio de CarajásObesidade infantil cresce no Brasil impulsionada por ultraprocessados e rotina acelerada&nbsp;&nbsp;A Província do Pará",
       "sources": [
         {
           "name": "Campo Grande News",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVTJwWlF6X2JJb2RVTW9Xc2lPNzhsQ3hlUlpTOHlaY2lxOE0yY0JUVUtVWWpqM2oyRXVHcnJhMDdZZ2FTMXl5cHVVNFBpQ0hINGstSG9OZjN6T0xMLU9zRkNGMktoLWRFOU9NV1FVU3NPemxRRkxWTEJYR0lzcklKN2ZycXVqQXAtVE5md2VORUpRUTlpTXNZOVEyWnl4UENtZXFySUxR0gGmAUFVX3lxTE1QV3JhUEdmR1BoNTJlVTJxZTJYamxNWnpiNjFXS3kxOEhFSThSNXpYNVo5U0lybnFZQm1HVWpPQ01kS25YY05rMkZSbnpLaFNON010VXhZRUJoU2stWnp4ajFHQmtJZ2JreFZIZVdPN0tJZUJ2ZW42dksyaGdHVk5WWFFyOWNkZTdKdFAtQmlwN0JrTkxOUTVjZ1k5VUpwbUg3UzBVUFE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cd4f1d116556",
-      "title": "O fenômeno natural que cria um “coração rosa” gigante visível do espaço e intriga cientistas - Revista Oeste",
-      "published": "2026-04-30T10:05:00+00:00",
-      "summary": "O fenômeno natural que cria um “coração rosa” gigante visível do espaço e intriga cientistas&nbsp;&nbsp;Revista Oeste",
-      "sources": [
-        {
-          "name": "Revista Oeste",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRFI0TDVHZlo0OGlpNTBVal96YVZETEdQdl95c0ptNXBjd0lsU2NkUDFjaFgtVTBqUDEzcnBXeDJ6ZGVOYy1tek5IVG8tY0JjUlFYbWlJcU92SG5RZ29nbjYyYi1HUmppVW9UZm9PUTgwZ2xFeE9QU05wNVdhOVV2OEM3X28zR0pKZVZfTXhDYUZOSktRYXJXTGpJMkkxVThxelVmc3VnQ19vOXZsM05GZ3NaOFpIdDFpWTFrUmY3UWR3a3pvRmMwLVd0WjRRWmdCNEhzVg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9275a271c562",
-      "title": "Benefícios do jatobá que estão chamando atenção pelo uso natural na saúde - Super Rádio Tupi",
-      "published": "2026-04-30T09:30:08+00:00",
-      "summary": "Benefícios do jatobá que estão chamando atenção pelo uso natural na saúde&nbsp;&nbsp;Super Rádio Tupi",
-      "sources": [
-        {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ1BNUzc1T0hwOEF5bDk4M0tvN0RiY2xCV1k2c2duMjRzUDVKUlRhQVF0NHlGMFVNYjZGQ05ldjRxZnJIRzFKVDRVeUdfU2lWZUhBTVJZZE13eHRleVJHUUdJTWxRb0RMUFJvZE1oWk44d1piQkI5ZWFlb0NqcEtSZC1uNGZQWXdEQ3BnVG1LRk0wZ0kwRHZZT1dheUYxaGt3a0FoRXktcmx3ODJqWFE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "db3e9fe8fee0",
-      "title": "Fortaleza usa nova tecnologia que ‘envenena’ mosquito da dengue; saiba como funciona - Diário do Nordeste",
-      "published": "2026-04-30T09:00:13+00:00",
-      "summary": "Fortaleza usa nova tecnologia que ‘envenena’ mosquito da dengue; saiba como funciona&nbsp;&nbsp;Diário do NordesteNova tecnologia para eliminar mosquitos da dengue começa a ser usada no Brasil&nbsp;&nbsp;A CríticaChuva aumenta risco de arboviroses e Capital intensifica vigilância contra contágio&nbsp;&nbsp;Ceará AgoraPlano de contingência identifica áreas críticas para dengue em Fortaleza&nbsp;&nbsp;A Notícia do CearáFortaleza soma quase 1.800 pontos vulneráveis à proliferação do mosquito da den",
-      "sources": [
-        {
-          "name": "Diário do Nordeste",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPODNQREdsVXJwTUxleF9hUlBrSWtleGJHQVlQM3hYV1EtaU5zazBGSnR6R1MzQ0Z3VGlqeXg3b0p2aVBMOThOWjN0ZjA4OWhRWUtjekJRTng0NGExZ3hfS3ZQc2NKTV9GMVJxZl9pQi1vS1ZYTkk0OW00eFN0ZzRiclIzLVNZMnAyejhrWVM3MGtrM3Z6YWp1ajVmSU0zSUpUeFRGcUhCOFV0dlZ2VUhiNnQzYnk0SlpJaHlpT0paaHdjajA3Vm1SaURaRHJqNDZHSXJvUElKV1Y?oc=5"
         }
       ]
     },
@@ -402,26 +390,26 @@
       ]
     },
     {
-      "id": "557b0e476ba5",
-      "title": "Quer começar a se exercitar sem tanto sofrimento? Veja 5 dicas práticas de especialistas - O GLOBO",
+      "id": "ff371e00711a",
+      "title": "Quer começar a se exercitar sem tanto sofrimento? Veja 5 dicas práticas de especialistas - O Globo",
       "published": "2026-04-30T07:30:57+00:00",
-      "summary": "Quer começar a se exercitar sem tanto sofrimento? Veja 5 dicas práticas de especialistas&nbsp;&nbsp;O GLOBO",
+      "summary": "Quer começar a se exercitar sem tanto sofrimento? Veja 5 dicas práticas de especialistas&nbsp;&nbsp;O Globo",
       "sources": [
         {
-          "name": "O GLOBO",
+          "name": "O Globo",
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTVBFQzdBTVBVZWFTN0dIaXg5TTNBZFpmdU1UWDhxVUpWV0xjdy1yWnRORXhpM3M2VXZyak5RZWRwNFIxb0lfNTQzOW5pVmJkZkF5YUh4TUFRYjNLeWpvRFE1Ujd0dUdjRjF2dXctcG1HVFJJa0tJdkgySFRuMGZuUnFBTmRVYS1Wa2xzNGg4VE5CRlFuTmYwYmJxUWhFUURiZURzZkxKclZNbTh6N09zM2wyUUhIaVozZ28xVnN3RTBQb18wSDA2cFVUeGJ1Z2NNR29COE9wWnZaak3SAeoBQVVfeXFMT2I0NkQyY0xRMlp3MW14SmN4ZEd6ZWo1bFY2eDBPUzRIQlBiVjEyNnpta2czazZBSjM5cEd5elhSVFMwZWRiai15RVpUd3l1UDZETmJnSFFwbU51SWd4enFjc3JOTkQzZjRyY2l2RURfYkVjQjdVRlJtOGhpUG11TjBZRDgySXNwa0FuS01UUkJMUjFGZ3B3NXlQREkzYThITzk4eVRNMERmMU1hZDBua3V2YW40ZjFjeU5YNVhBbnFrMXJBUEZHcmpYZnJEVjVUUHhVeFA5ZThLbWtXNlpYNkt4WDlsMEJUNHdR?oc=5"
         }
       ]
     },
     {
-      "id": "baac65de3a02",
-      "title": "Pesquisa Genial/Quaest: mais de 50% dos brasileiros não fazem nenhuma atividade física (o índice entre as mulheres é pior) - O GLOBO",
-      "published": "2026-04-30T06:30:33+00:00",
-      "summary": "Pesquisa Genial/Quaest: mais de 50% dos brasileiros não fazem nenhuma atividade física (o índice entre as mulheres é pior)&nbsp;&nbsp;O GLOBOA geração sedentária: pesquisa exclusiva mostra a dimensão do problema no Brasil&nbsp;&nbsp;VEJASedentarismo: Risco de Trombose e AVC no Brasil&nbsp;&nbsp;Campo Grande News57% das mulheres são sedentárias no Brasil&nbsp;&nbsp;Meio e MensagemSedentarismo atinge mais da metade dos brasileiros&nbsp;&nbsp;Agora RN",
+      "id": "0af6471fd3c8",
+      "title": "Virginia, Carol Castro e outros famosos têm rosácea, mas o que é? Especialista explica! - Gshow",
+      "published": "2026-04-30T07:02:08+00:00",
+      "summary": "Virginia, Carol Castro e outros famosos têm rosácea, mas o que é? Especialista explica!&nbsp;&nbsp;GshowRosácea: a inflamação que vai além da pele.&nbsp;&nbsp;iG GenteRosácea. Uma estranha no espelho: quando a pele afeta a autoestima e a saúde mental&nbsp;&nbsp;maxima.ptMês de abril tem foco na rosácea, que pede abordagem personalizada para evitar impactos na qualidade de vida&nbsp;&nbsp;Portal Opinião PúblicaRosácea: como é a condição crônica que vai além da \"vermelhidão passageira\"&nbsp;&nbsp;",
       "sources": [
         {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPVVJpMGQtM1pHOVl2ZGpnRlEzd3JTa1NuakFvU0Vsbl9SZ2V1VWpoOEFGdWZQZVp6aUtnMGhWRGpqSU82alFBSmNsVXc5dFZzRW9fbzdySVdTQ1BldVNrZ0Z1dC0zR0lEV2hmU0lQMDFjZWFwUFhmc093WEpRSC04cmgyMnZRcS1JSm1JbmlIR1VIeEhIWlA3V2lnd2kySFctSWhtamEwNmh1NlkzcW1XMk1PYXlSNmZwZENqVFNlUENKSExJc2ZlUDQwR0VrUm1hUHlhVmFSNHNLV0U3RHgyV215WGVZZjY0SmFlc2lVckdrZGxsS05pUVhHTzhOYVIzTk9hV21VTVhfSlYz0gGbAkFVX3lxTE1yT3NGcVBxNy02bUdWZVNFRmZZRTZrekstVXMzSi1XVjhoMzV3enhSdHNqZTNSVld6d21ISl9DWjJCUzhSQTVFM1FhMDhKTm1aVTRZa1R5elRCYm9jRGlmZGZhZTA1RlZ4bEdwMnc3TG82c0FxNkpvUFRiRXc0ME5UcFlEMDB5dkI3ZXVWUlR1WmR3TFV1czg0RXpIZzBjeE15TVI4Q0Fhb3Q1bkRpbUQxNk9uZVhfdE5xM3R2VmRRM0dIYmZONXJXRlJ3YzFRV0V2dVA1Sl9vamk3czJyUFc2eTEyZnloVk1TX2FGcFVlV1puTmRzby1hak96R0tHbjZwWnhGeTVwT0o1NkRwbHE0ZE82Z2hGcnZYeDA?oc=5"
+          "name": "Gshow",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWWtfN01QX2R5d2ZMOWJuZTVJcGQ5T0MtQ3FPMjA2c19acUZsZlhENk9ubFpXVnRXTEMtdU1Hbjk1TVdWeDJacmdjUmtlZnRjanltNzk2TXNsa3A1OE0ySk9McVV3Si1PTkZZQTJGUEpoN1VYbDAxaTBfOV84XzU4dXpfcVBGTWJGUjVON0VIZmFlMWowaFpRV2oxcEVoc0J2RkdXRVl6ZkhJSG9WTUVybmdzemxodFRFM3Q3MVBzWi1TdjF0WkZ4MjRNVkFSc2ZkY21HcnJwUWXSAecBQVVfeXFMTmJKMmhRMUJHNFgxRnlBYkZpcF9kQ1VMYjkyWGt5dlhZSmpGMUtBR0JLX3lidnFncFFHNkNMeTJHVFMwRUNxREFjVC10R2hDRlFsTFJYNGk5a0tSTjRfeDMyVlRaR2ZGd0phNGdyYmc3b0Y4TW1qVTlMRXViTHBXYlVtVGZYMW1CWVlwM0F3LXVSbVd5cVJzU1Z0QnBwV0l5R2s3cG5OT3JRZFhFYTV3TmNXYlpQejNvMXg1c2dqYUpkZXh2RXJ2NmctLURNZ3BUcjEwSGJ5czVvWlZJRGc0MzJfVnJSZkkw?oc=5"
         }
       ]
     },
@@ -441,7 +429,7 @@
       "id": "70fce0009e8c",
       "title": "Mato Grosso registra 8 mortes por meningite e o maior número de casos dos últimos dois anos - G1",
       "published": "2026-04-29T23:32:29+00:00",
-      "summary": "Mato Grosso registra 8 mortes por meningite e o maior número de casos dos últimos dois anos&nbsp;&nbsp;G1Rondonópolis recomenda imunização preventiva contra a meningite&nbsp;&nbsp;Primeira HoraJanaina cobra reforço imediato na vacinação após aumento de casos&nbsp;&nbsp;FOLHAMAXSES monitora casos de meningite e reforça importância da vacinação&nbsp;&nbsp;MidiaNewsSeis mortes por meningite e 28 casos são registrados em Mato Grosso&nbsp;&nbsp;Midiamax",
+      "summary": "Mato Grosso registra 8 mortes por meningite e o maior número de casos dos últimos dois anos&nbsp;&nbsp;G1Rondonópolis recomenda imunização preventiva contra a meningite&nbsp;&nbsp;Primeira HoraSES monitora casos de meningite e reforça importância da vacinação&nbsp;&nbsp;MidiaNewsBarranco culpa negacionismo e onda antivacina por aumento de casos de meningite em MT; 8 mortes em 2026&nbsp;&nbsp;Olhar DiretoSeis mortes por meningite e 28 casos são registrados em Mato Grosso&nbsp;&nbsp;Midiamax",
       "sources": [
         {
           "name": "G1",
@@ -462,22 +450,10 @@
       ]
     },
     {
-      "id": "87810477c985",
-      "title": "Alagoas segue em alerta para doenças respiratórias; Maceió tem alta de casos graves, aponta Fiocruz - TNH1",
-      "published": "2026-04-29T22:07:51+00:00",
-      "summary": "Alagoas segue em alerta para doenças respiratórias; Maceió tem alta de casos graves, aponta Fiocruz&nbsp;&nbsp;TNH1VSR e gripe puxam crescimento dos casos de síndrome respiratória grave na maior parte do Brasil&nbsp;&nbsp;EstadãoDoenças respiratórias graves avançam nos estados do Brasil&nbsp;&nbsp;Correio BrazilienseMaioria dos estados está em alerta para casos graves de gripe, aponta Fiocruz&nbsp;&nbsp;Folha de S.PauloMaior parte do país tem incidência de SRAG em nível de alerta ou risco&nbsp;&",
-      "sources": [
-        {
-          "name": "TNH1",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMVhySXYyRnA5Q0VNVjVabnJ5N0FTeG4xa1J6OG0wVlg5b0FsTVl1UlhvdzFpYTVsd3hrbGFUc2xiR0FGdE0xcHJvMTlMMVExdGNEOHozdWFZd2xvTjFJTnhiOFl6d2YtR1J3bDBTSE5fQmtyc2tPUmlobFJZT3R2eE83RUlOV2dUQ1d4eEVvTElaYVpaUkxVMnVlNm9yUjJvY2d1Skl5LW1EZEZCaXQzUGstMGktZHBYNmlIMERvY2tCb0xSRmFvZk1vV1dPU2_SAcoBQVVfeXFMTmIxZzZaR255VlhHUjhPcG1DaGdvLV84Z09vUnVyTHdVRjZvYzliNkVkcGY5c1htak5CczBUbnRhZVB2WVVFdk9KWnJfXzJvYWh2U2gwT3lJNm1aZWFyem9KYUduWXZMdEwwRXpLVHF6SzNKSHRmaHp6V3Z4NUxVOUtiNFRZM0N6YXVHSTI3TVJuWEdwYjcyNkdzZm9oZmU0bjFJbnRzbmFvdjBjTXdMcDdVMjN5MDM1ZFVkZFhoVy1CN0c3ZDFnOXh6UQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "58590ab6bf9f",
       "title": "Rio suspende temporariamente vacinação contra gripe a partir desta quinta por falta de doses - O Dia",
       "published": "2026-04-29T21:43:00+00:00",
-      "summary": "Rio suspende temporariamente vacinação contra gripe a partir desta quinta por falta de doses&nbsp;&nbsp;O DiaVacinação contra gripe é suspensa temporariamente no Rio por falta de doses&nbsp;&nbsp;Diário do RioRio suspende temporariamente vacinação contra a gripe até chegada de novas remessas do imunizante&nbsp;&nbsp;G1Vacinação contra a influenza no Rio de Janeiro é suspensa temporariamente, com doses reservadas às escolas&nbsp;&nbsp;rio pressFalta de vacina e estoque zerado leva a suspensão de ",
+      "summary": "Rio suspende temporariamente vacinação contra gripe a partir desta quinta por falta de doses&nbsp;&nbsp;O DiaVacinação contra gripe é suspensa temporariamente no Rio por falta de doses&nbsp;&nbsp;Diário do RioFalta de vacina e estoque zerado leva a suspensão de vacinação da gripe e traz preocupação e risco à população do Rio&nbsp;&nbsp;Jornal O FluminenseSecretaria de Saúde do Rio retoma vacinação contra a gripe&nbsp;&nbsp;radio93.com.brVacinação contra gripe é retomada no Rio com novas doses di",
       "sources": [
         {
           "name": "O Dia",
@@ -486,13 +462,13 @@
       ]
     },
     {
-      "id": "299309fc13b4",
-      "title": "CNPq lança edital de bolsas com R$ 120 milhões e foco em projetos de pesquisa - GOV.BR",
+      "id": "64b6c9ce0363",
+      "title": "CNPq lança edital de bolsas com R$ 120 milhões e foco em projetos de pesquisa - www.gov.br",
       "published": "2026-04-29T21:10:32+00:00",
-      "summary": "CNPq lança edital de bolsas com R$ 120 milhões e foco em projetos de pesquisa&nbsp;&nbsp;GOV.BR",
+      "summary": "CNPq lança edital de bolsas com R$ 120 milhões e foco em projetos de pesquisa&nbsp;&nbsp;www.gov.br",
       "sources": [
         {
-          "name": "GOV.BR",
+          "name": "www.gov.br",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZEdrekRtWlY0clZXVlNhRDBweUExNy1Ha0ZnQ1p4YXVyRkxyVlBFVlI2SjBrNFZsSTJ0eDZDN0pESmhRSXVxeTNxZnNIMGZ2ejl3R0dLYURvVWxHMDQ4alNGV3ZkZ2dVQl8yQ2pkVXRrUTZsNUNwckkyN0txUkRiM3RQRG1OX2lxU3A3VzFWTGlpTnhxLWtkajdjRlE0dFFJZ3NCeVBoRUk0MU9YS1hCN1FHUjdBNDk4c0MyeEl5dVZiYXlRU0xMMG1qNlpHNXowXzBLdDZjOA?oc=5"
         }
       ]
@@ -510,66 +486,6 @@
       ]
     },
     {
-      "id": "134f4a0f9c82",
-      "title": "Campanha contra o sarampo visa evitar casos importados durante a Copa - Agência Brasil",
-      "published": "2026-04-29T18:57:00+00:00",
-      "summary": "Campanha contra o sarampo visa evitar casos importados durante a Copa&nbsp;&nbsp;Agência BrasilBrasil lança campanha de vacinação contra sarampo para proteção dos torcedores que vão para Copa do Mundo de 2026 — Ministério da Saúde&nbsp;&nbsp;GOV.BRCopa do Mundo: Ministério da Saúde lança no Rio campanha de vacinação contra o sarampo para quem vai viajar para ver os jogos&nbsp;&nbsp;G1Ministério da Saúde lança campanha de vacinação para brasileiros que vão à Copa do Mundo&nbsp;&nbsp;UOL NotíciasS",
-      "sources": [
-        {
-          "name": "Agência Brasil",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVTZHT1ZGMnZ6ZXpWWjNUR0RPNTdCZjJESUFrVTdybXRrbnVxWHFIQ096V3g2bGZvX1l6R1NDcTZiVWFPdUpUSjNueDRZRjdKOWwyVFhFUnVHVmZjX2twX3c5bU5XeHBHRXBsUVBpNnJvVGd0ZDdRSmJJejV2WEk1cHNOazJHcDZTLXljZlZfaTR4SHlNUzhrX0dIX3Z0UEJSb3h5aVVIUWRGOFZGQ3F0dEFPaGppNU9Yd3J1VmFHZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "86e8b0e44c32",
-      "title": "Você dorme a noite toda e acorda cansado? Entenda o que pode estar por trás disso - Agência GBC",
-      "published": "2026-04-29T17:43:33+00:00",
-      "summary": "Você dorme a noite toda e acorda cansado? Entenda o que pode estar por trás disso&nbsp;&nbsp;Agência GBCDormir mal faz ganhar peso?&nbsp;&nbsp;Assine AbrilAcordar cansado mesmo após várias horas de sono expõe falhas na qualidade do descanso&nbsp;&nbsp;Muita InformaçãoDormir emagrece? Descubra a relação entre sono e fome&nbsp;&nbsp;Revista Ana MariaDormir bem pode ser essencial para o emagrecimento, aponta estudo&nbsp;&nbsp;Bacana News",
-      "sources": [
-        {
-          "name": "Agência GBC",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZUEE2YmUweEg3QktYaEdOZGFSY2JaUXJzSTJjTm1abGxmdE44OHp5S2lpaXpmNWh0REE2NENSQ08wM0dPWGlvSEZmWDRnM1ZnT014TVY4cWJncFUtU0FuNVN6a0tMUnljQng3bkFrcHFLb3M?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c9239dca7b39",
-      "title": "Homem descobre câncer de intestino após confundir sinal com hemorroida - Metrópoles",
-      "published": "2026-04-29T16:46:05+00:00",
-      "summary": "Homem descobre câncer de intestino após confundir sinal com hemorroida&nbsp;&nbsp;MetrópolesPoucos dão atenção, mas esse sintoma pode indicar câncer de intestino&nbsp;&nbsp;Correio BrazilienseHomem descobre câncer avançado após confundir sintomas com hemorroidas&nbsp;&nbsp;SCC10",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PSW16TjJFNm9xU0thWlNDX3JNZHlQekhiTkY1eWxTX3JKSEhBVnJkYmF3YmtNM05lVzdNVDZfdFhtSEM1bjhuVUxPOGNQNVpfbktGTUt2VjdUR3NXN0R3SzNtUjR2SDRlekY1aXItWGtUQXdaNmJIa21fcDlrZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "799426ad1bca",
-      "title": "Estudo cria sistemas farmacêuticos inovadores a partir da biodiversidade amazônica — CAPES - GOV.BR",
-      "published": "2026-04-29T16:33:27+00:00",
-      "summary": "Estudo cria sistemas farmacêuticos inovadores a partir da biodiversidade amazônica — CAPES&nbsp;&nbsp;GOV.BR",
-      "sources": [
-        {
-          "name": "GOV.BR",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUWJNQUljRHNCaXM3OWMzcGN0LTIwdHp6aXZ3bjlyaVgzeVFCN1ZtRjlOZ1J5SkpRekpsWTl0a2dwWUg3dTloeWEwMkxYbUZwMHpCel8tTktsZjVKbUxHTUtWV09FX3ZqNkc2a093THVWYUNRWXctNU1hZU93LVBzWUNFLUhTcmlpR3lLd0w2TzFLcWg1REx2UXlQRjI1Y3ZHZzRveVQxVlc3YXlZWmJyUUg1N0RiMFBkQUItbXlkNC1pSWc1UzZOQU1Bbw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "78dc0af83fea",
-      "title": "Estudo flagra células de defesa destruindo tumores com detalhamento inédito - Globo.com",
-      "published": "2026-04-29T15:55:16+00:00",
-      "summary": "Estudo flagra células de defesa destruindo tumores com detalhamento inédito&nbsp;&nbsp;Globo.com",
-      "sources": [
-        {
-          "name": "Globo.com",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMXIzQ1FOaVBPcHBXUTV1RHRiSUpjMU9Ed09FWVhFaDg0empLYVI5eTVzdFRWMWNMR0VCMGhBaDBUbHVvNy14Rnp6cUJHbWhKQnp6dmx6ekJLcnRNVTZoNlVtT2cwZGJWM0h1aHo1VXZMdldibFFsd2w1UktQQ05iRzJXeDRBb0Q4Sm81VXVOWC1xTHVpcHhhNGtjaW0za3VvdXBZbC1ENVF0cC0zNGdKM3ZvWjNlY2FJU05XbXU4Zk1kS0NHU1J6eVREa250YnRCeExJTdIB4wFBVV95cUxNWXYzc200QzVOaWU1ZlYtQ3kwdUhCUDUzSlQ4WjlleHk0RVFZb3c3bWlva0s3T2s1T2ZBWjNSZXd6ZHBfWmh5WGxzdUtocXdpVEVqNUhYVXN1Y0g2M1Jkbk4xNklTQjZlYnE2dWtieTZVajZQTE0xS2VzaW0xZlFOM0lGOGlyelFmRDdSTEtzbU9Xek5kek5TSmJjd1JyVU54ZTFRbXdSTGZQRTRtU0NqUTd6RDdWYlE2U29lSGhmQUkxUzR2eEwzQVBHeE1pUm90bUtEdkpCXzBDd1ZOelRnbVU0VQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c925a6383032",
       "title": "Planta brasileira mostra potencial contra o vírus da covid-19, aponta estudo - Revista Planeta",
       "published": "2026-04-29T13:31:21+00:00",
@@ -582,14 +498,26 @@
       ]
     },
     {
-      "id": "ab8ce5231be5",
-      "title": "Humanidade não nasceu de um único grupo: estudo sugere múltiplas origens para os primeiros humanos na África - O GLOBO",
+      "id": "27efa67aedf2",
+      "title": "Humanidade não nasceu de um único grupo: estudo sugere múltiplas origens para os primeiros humanos na África - O Globo",
       "published": "2026-04-29T07:02:11+00:00",
-      "summary": "Humanidade não nasceu de um único grupo: estudo sugere múltiplas origens para os primeiros humanos na África&nbsp;&nbsp;O GLOBO",
+      "summary": "Humanidade não nasceu de um único grupo: estudo sugere múltiplas origens para os primeiros humanos na África&nbsp;&nbsp;O Globo",
       "sources": [
         {
-          "name": "O GLOBO",
+          "name": "O Globo",
           "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPcnJ0a01NR202c2NWSm1udC04dkhJcEZwVy1odUVpalh3LXQxdVpyVnI1TWZNN1VmTFB5S3dQYVVaLWpVcHhORFltQmtiZzY5Y21tY1FtLUZWazZTQTFKaXUwVjg0TS1Jbm0tTWdFMTJTTHFPcnVTYzlkQTRZd3ZsejNsUHhfUDJIRk5ZNm9rVU5mcW5pMXFadHA1UXFEX1FxdEsyRnBqVG9qWjhNbVVaWlgyRkx2MjRickdaeGc5Rk9jcGtOVUVTRUN5UUxSVXhPVnFOZ0tQcGNCb3lwQzQyMS02VXhrd0NZTllNOVFqcGVIeVBBMmRZUU1MbGZNU3VW0gGPAkFVX3lxTE9Wak53UTdVSTlWZGNLNlFQeWdCVlo3dVA1VFR2VWVkaDBLaEJLWHVldmVqOXBJaS05SXdnQzJuTzRJREVOaThqYzROYy1iSW5nVlZmN1dwNmstcVlZblhIY2YyNTgtLTRyVnZKaVNmRWxMZkhWaXBRZEpoMTJZVUd5LXduOGRiU3hORm0zc3RWSng1d2w4TS1zblUwSU5tSE1SVmlYTmhKZ3dNeEtjZDRsUTdDM0l1bXFvZlp6TjhIOUJsMTVLQVo1bUVsdk9NMkt5cWJzanM5QW0xRHZJOVFfSEZBaXFrdkZtYXNWNVN4RE9ob0pZQXVYZHRVTU9WdGlQRWJfanl6cF85V2RQMnc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5d32716ca9d2",
+      "title": "Entenda por que cientistas deram cocaína a salmões — e os riscos da poluição para a vida aquática - O Globo",
+      "published": "2026-04-29T07:01:26+00:00",
+      "summary": "Entenda por que cientistas deram cocaína a salmões — e os riscos da poluição para a vida aquática&nbsp;&nbsp;O Globo",
+      "sources": [
+        {
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPMU9wTEJGLXFkM0ZzS0U1T09nMXNRdGtOemhyQ2hVbVRReFRZZmk4QWxka3gtX25qYWEzaVByUk9FQUpuNzB3a1lYQk9YX1lKWXlDTmg4YVR2NWJudWdTZk1yUGF2amtUQm9rcXE3MERCbUEzeEQ0YVlzLXJHLUkxMzVsRmZkUjFVWGlzMHBWV0JDSEo3TE1aUFVLQjF6TDUzMktXMkN3M3JkU3lKbTdULWtBTjdiRHlMOVlHQ3JGdUU0WDEydFpNdmxjV3k0MXFULTUwT0FPUW5LMmwtWTJERVhRU3N3a3RVbzc2LUZHZTJnaWJHSHdsQXhGSdIBigJBVV95cUxNdHc3LWtqYWpLX0RwQ2dtUTZNWU14NDJlaGd1LTQxTjVqQkF5U3Q5aW00Y3dibFdpbWhkUXdidlg4NFhXdmRGeXJuZXYzOEo4TXlLaWhnVE90RjVUakNGejc4NWU1Y1FpMjFDemhYNUttSDA4YXY2VDVYekJUaTkwS1FWT1QtWDJVNDZmdUZyTDNocWV0QjJNVmk5RUJYSkJhYWhvRGFOeTR5UEdMNW5ONWNkREFMY2JxejZqQUxscDFOalVIUTVCTjNMR0tLSGUtdnVFblJENG1vNUE3ZF9hWS1GTWdRWjFXVVdWUS1sUXVfY0tQUmExcXZoWHVtMjFOM3hJZkdDelp2UQ?oc=5"
         }
       ]
     }
