@@ -2,7 +2,7 @@
 layout: default
 title: Testosterone Decanoate
 parent: 僅模型預測 (L5)
-nav_order: 428
+nav_order: 468
 evidence_level: L5
 indication_count: 0
 ---

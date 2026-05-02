@@ -2,7 +2,7 @@
 layout: default
 title: Terbinafine
 parent: 僅模型預測 (L5)
-nav_order: 421
+nav_order: 461
 evidence_level: L5
 indication_count: 10
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: Ticagrelor
 parent: 僅模型預測 (L5)
-nav_order: 441
+nav_order: 481
 evidence_level: L5
 indication_count: 10
 ---

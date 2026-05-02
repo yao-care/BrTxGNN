@@ -2,7 +2,7 @@
 layout: default
 title: Teriflunomida
 parent: 僅模型預測 (L5)
-nav_order: 424
+nav_order: 464
 evidence_level: L5
 indication_count: 0
 ---
