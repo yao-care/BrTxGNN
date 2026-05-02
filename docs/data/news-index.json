@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-02T13:17:26.406042+00:00",
-  "count": 39,
+  "generated": "2026-05-02T19:02:57.927978+00:00",
+  "count": 34,
   "news": [
     {
       "id": "945e26a3f5b8",
@@ -43,30 +43,22 @@
       ]
     },
     {
-      "id": "297a00986b30",
-      "title": "Café: saiba como a cafeína afeta o corpo e quando o consumo vira problema",
-      "published": "2026-05-02T08:00:00+00:00",
+      "id": "ff1d40603b63",
+      "title": "Segundo a psicologia, as pessoas que sempre chegam cedo apresentam um padrão adquirido desde a infância",
+      "published": "2026-05-02T09:06:00+00:00",
       "sources": [
         {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQNFFQbGZKSlR1MjBxa1JfUVIxSDN3YlliWnVnTFhJVmQzbTNLTlJNcWVYd3FRRlhsTC1tQ241X2dtTG9kSE53R2czSkF3ci1sNm9naEhXY3lKQ3RSdkN6RTcweVBZa19wSklURW8yNDdyR0dkRTJFTE9aWEVnWXJwd1BrTVFOdEpqT2MxdXVkUHpDR0hBeTA5ZnhyaFBKTVVLYXF0UTJmWE8xcHZmRzFkbC11VnR0OGFkNFBqZG1XMUVXNnpydXJGRkpraDYxSkIwWWV2dWU3cUtTMEY2OFk2TnlpdGxmNzB0SGxpUUtn?oc=5"
+          "name": "purepeople.com.br",
+          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNUGJvazZGdFZEQ2hnVTJCN3diYUhtekxxY29WeThhd0p4OGoyejlWLV9DSUhnb3Z5bTdiTXJGVTVPYVBwZ2V6Nm85RGpISHlFMjFZSF9QUURnQXpnQ2hfN1I5Q2pIR2tWSmRZa3dPSFcxUkREOXJaYmZzQUdPV25pZVhWd3owNVVwLWVUSThHQWJQTDJqcndPMU1IWThMbVBoa3FvWjBEV3ptRFBGVjBxRi1nSzd1MS03SkxyRW9LUjZ5LWVkWkExYmdHbmR1V0FpWGowVDlRekFzMlNXZXNWQUlCYUwtYWMyYTJsay1IcnhVNFk0cXBjWlRqWF9QYTl6MU5mVFNyRV9LUW9sWGtxemFtUjd2R1XSAZwCQVVfeXFMTWxOSENqQlRFemVZTVdKZGtJSmJXTkdxTVZuUDZTSnd3cmlYaS1jZ2JtaGFrd0VQYUtGdFdpa0RLUzRLY0hLU3lqQUJWSnc4TlpfclRDQURTRmxOQjYyZUphTFdSUUdOYVdRT291WmdKWjRweDlldlhvRUZBaXBkb0EyellDcTlkSkh1SUw2em1zeUl4Y21tR0RQbWpoTEtzRHFFVFNVSkphbVI3dEpwOGJZeDA5ckRxczJ0cEh4bTJjZGNiWU5YWHBOb3NKQ3p0ME9aZ05hOHBZZnBrVjRzbGJuQjRFNUw3dnF0QTNhSk5BMVlJOTRELWVXSFNFNTFzVUJTczNWdWVIYUFDUHJQMk5ReGJZSHNCRHpVdlo?oc=5"
         }
       ],
       "keywords": [
         {
-          "type": "indication",
-          "name": "anxiety disorder",
-          "keyword": "ansiedade",
-          "related_drugs": [
-            {
-              "slug": "flunitrazepam",
-              "name": "Flunitrazepam"
-            },
-            {
-              "slug": "centella_asiatica",
-              "name": "Centella asiatica"
-            }
-          ]
+          "type": "drug",
+          "slug": "levetiracetam",
+          "keyword": "TAM",
+          "name": "LEVETIRACETAM",
+          "url": "/drugs/levetiracetam/"
         }
       ]
     },
@@ -87,40 +79,6 @@
           "keyword": "SIL",
           "name": "SILODOSINA",
           "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
-      "id": "18b38cc0d08d",
-      "title": "Síndrome respiratória grave já matou 438 pessoas em MG; vacinação contra gripe atingiu só 24% do público-alvo",
-      "published": "2026-05-01T22:25:46+00:00",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPVndzVlNReTFRWEV0REs5YTlra25HdzF3bWMxNDNQWnpHNHBsbmZTTUFjcWVLb0pOSmlrTkIySHZQQU5xVG5CWEg5Zmd0QkxBOWVaRmdtX0lKblhsdmlNd3VpdUlTS1ZCTkctVm55ZmQxQVV6SURiMHVLTnBRZW1IRjlwMWJtZWF2RkZkeVR2ZF94dlJ5Qi1ObXdhMHNRdjdOdVJrX2M3UG9KVjV2UFFfZ1pRVVMxVDhqYlREVU9aZFlhTGJ2TjJSbUM3dk9tZFc5U1N6VjRUbEtSR3NsbFAxeGlvX1lMZ0xncV9OTFJVVTdOd091bmtidi0zZ0otd1lHdXVDaE9lMNIBlgJBVV95cUxPdVNCQ1d0bk9iTEhIQk9lRmp5UUgzSEZvRUNrcTllTE1VZmlXS2I0R095T3FaLTRKOWZkbjg1bjA0YjJCX2VrbUp4a3h4RFVyWmVTbjJOR3YzZmJZM1RKclhXbDA1S1d3cVQ4OWpBOTFXc0xUOUd0dERJSnRQSGxKam1qTTdxOTVrTktGT01MSC1vTXdCekdqb3Z3NndwWndLOFNPN05QVEpwRUNMSEcwUkthUS13SFRveFFlX3docWxBQlR3eFlnSG11cC1CS0VCcFJtOUJ0Y1psdjRPSXhxOTM1cG9KbEljRWdZSE9xQy0wOG9TaDFUZ1djTWd4YzRnMVBfSmJuMFhORzhFS0NMSTFybllldw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "levetiracetam",
-          "keyword": "TAM",
-          "name": "LEVETIRACETAM",
-          "url": "/drugs/levetiracetam/"
-        },
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        },
-        {
-          "type": "drug",
-          "slug": "tadalafil",
-          "keyword": "TADA",
-          "name": "TADALAFIL",
-          "url": "/drugs/tadalafil/"
         }
       ]
     },
@@ -246,13 +204,13 @@
       ]
     },
     {
-      "id": "03c9bc2bc344",
-      "title": "Estudo aponta ação de planta medicinal contra vírus da covid-19 - ACidade ON",
-      "published": "2026-05-01T17:13:37+00:00",
+      "id": "d8c007fb5b4b",
+      "title": "China já sabe como manter uma frota de drones no ar indefinidamente, o problema é que existem muitos desafios - Xataka Brasil",
+      "published": "2026-05-01T18:00:26+00:00",
       "sources": [
         {
-          "name": "ACidade ON",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR0dxaDJfc0Z0dkpPZldNc3BncFE5RllRaEcyUldDS053UWVsSWk5MTRaSFo3NWZGdkZYVGNPRUFCU1ZrZnFWdzVUUGRzWXVTVlRoSDc2clotTnpKb05CWGlUSENTS0N3aFNKbDZEZnEwalR5ZmtnUm5pRXQzZVZ6b0dIQmp4RWZQbGtGVEFFMEE2V3AteWNJV1ZwZWhQcWowUjRNUDY0d2RoWXhVTlMzNno2cUQ?oc=5"
+          "name": "Xataka Brasil",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcDFyUm03al9scTJUZ2VGOGs1azJ6SGJZZGlXdUtGaU5selR5Q1VFcjhpSVMteDBjYVZWNjAyRGc2N1R1TDZESmN3eDFLbHZCTl8yUVFNb19URXF6VHkyZnl2NUwwWUdEWlkwVWdJMjNCbTdhRHBtSjFhS1NiWWlvaGdtTWFHSXpUbHdMVkNwMEh0OG9LSG5tWTVSSC1WRzdSb3NxUm9sZlRCaldEa19pODVnZ1ZZb0Vxam4tdDFyZ0V1bGdvZVRzZjk0RlotNXBDQ1lNVA?oc=5"
         }
       ],
       "keywords": [
@@ -1612,29 +1570,30 @@
       ]
     },
     {
-      "id": "2d44d5bd3dba",
-      "title": "Exportações de chá verde do Japão disparam com boom global do matcha - Portal Mie",
-      "published": "2026-05-01T09:04:54+00:00",
+      "id": "73ad91b2467c",
+      "title": "Não é 1, nem 4: quantas xícaras de café uma pessoa deve beber por dia para reduzir o estresse, segundo estudo - Portal 6",
+      "published": "2026-05-01T09:43:52+00:00",
       "sources": [
         {
-          "name": "Portal Mie",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaWFySHdXM2I3RDFobWQwNnNTbU5ma3EyQWx2Y043V2lBNGdlUkc3ek4xajF3eFhMZWJjWEh3MEo2aEZWNHBzTkN5YjRwaHVSeE45dnprbE9SMklUSE84UldVQjE4OHlrUnRWQUJnWVoyWGZETjk1dm15QzMwTTN2QnVyQ1lIRklQakROTjFzS0l2czZwSU1LMTJaX0tnVDhvZnBQVTRUVzR2VW52eUFv?oc=5"
+          "name": "Portal 6",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPR1JtaURFUkJRZ01RMkR1T2R5VjduUWJIRVkydWlpVEdxclJpeVpiLUtfNjBxTl90Z1JpWFVUbWp2Q29ySS15andBTS1xbEpNR3dUNlQ5VVFYbjZxZnNYYVpTTTBtV0g1ZVpQMFByTHpaRFNQN1NTWVJ0OERVLTM1a1p0REdjX2NJUFhna0Q0OWJXZXphY2hRNjh4aU5qSnhCTklnY1hTOXdMSFJrU1NaR2RxUWVhbm1NVlpjSm9SUjhwWVg3VzhKUk12UXZ6eTkwQ0FzUTVsV0c?oc=5"
         }
       ],
       "keywords": [
         {
-          "type": "drug",
-          "slug": "golimumabe",
-          "keyword": "BIO",
-          "name": "GOLIMUMABE",
-          "url": "/drugs/golimumabe/"
-        },
-        {
-          "type": "drug",
-          "slug": "etanercepte",
-          "keyword": "BIO",
-          "name": "ETANERCEPTE",
-          "url": "/drugs/etanercepte/"
+          "type": "indication",
+          "name": "anxiety disorder",
+          "keyword": "ansiedade",
+          "related_drugs": [
+            {
+              "slug": "flunitrazepam",
+              "name": "Flunitrazepam"
+            },
+            {
+              "slug": "centella_asiatica",
+              "name": "Centella asiatica"
+            }
+          ]
         }
       ]
     },
@@ -1686,16 +1645,23 @@
       ]
     },
     {
-      "id": "a49dbc0079af",
-      "title": "Malária pode ter moldado evolução humana, aponta estudo",
-      "published": "2026-05-01T07:02:06+00:00",
+      "id": "752781071731",
+      "title": "Medicamentos GLP-1 dão golpe duplo contra obesidade e alcoolismo - Correio Braziliense",
+      "published": "2026-05-01T08:00:00+00:00",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR0JlSzY5NUk5YWN2ZTZ6RmFVeDhBWk1wdjhNWGFwbTU1MUlubldZZkdfdXBobnprVnlWTlFPZkdfWjliRmtLeTlGdExWVHQxLWVsQUNlU2d4WkZkVDZMZzE1VTJLeWtVX2g1cjJ1WUZ0WEM5bnh4ZmJPOGw1azJzd2dxcTNjUURJaGZLMmFQVVZUdi1LTGduWjM1WlJVZ1Jkb2JlTzc1NE1Nd9IBuAFBVV95cUxNRTQwMmNGT0dvOXduVTNlcndOdkxuU3E0RkJGM25VZ0tPellIT1hBNGpOa25VVDlpa3hnU1M5VVJXVnFXUy1BOWwxbWU3VEdGTzQ0dzZob0wyQWRZbTNXZVJhMS12MXJHRFRYWVAtbFJSM3dQaGRBbHdrY1NVQXdfSUJLTVRKQ3VRamdkR2R2cUM4RHhRbEVGVjJEdndIajNSX1ZtRTY2eEVNYlpQRWRNQk9RVXJXQmhz?oc=5"
+          "name": "Correio Braziliense",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWGZoSU9ra1RZamtmRlFIZVg0QXIxdEE0SUVVVWlwZjYxNXBHejc1NTZLU1JkQ3hCTmUtN0xTeDNFQl9xNWhwbEdPVGdrMU02akUyOFN3NXo3bGNVVFlwcUREcXFvS1dHQ28xN1lKUGx1M1hKbE9nd1Z3T3p1VTlfclpvNUw2ZzJnUmpreEhCR1hPN0ljeWVQR3BsbnpRZFFTVDY0MVVtSUFNVmUzR21pT25YOW92X2pwZ0hqdHJMcHdkZDN5QTdLNmdSeUtucTRDcHJvNHZ3?oc=5"
         }
       ],
       "keywords": [
+        {
+          "type": "drug",
+          "slug": "levetiracetam",
+          "keyword": "TAM",
+          "name": "LEVETIRACETAM",
+          "url": "/drugs/levetiracetam/"
+        },
         {
           "type": "drug",
           "slug": "silodosina",
@@ -1725,10 +1691,31 @@
         },
         {
           "type": "drug",
+          "slug": "golimumabe",
+          "keyword": "BIO",
+          "name": "GOLIMUMABE",
+          "url": "/drugs/golimumabe/"
+        },
+        {
+          "type": "drug",
           "slug": "diazepam",
           "keyword": "UNI",
           "name": "Diazepam",
           "url": "/drugs/diazepam/"
+        },
+        {
+          "type": "drug",
+          "slug": "bisoprolol",
+          "keyword": "CONCOR",
+          "name": "BISOPROLOL",
+          "url": "/drugs/bisoprolol/"
+        },
+        {
+          "type": "drug",
+          "slug": "etanercepte",
+          "keyword": "BIO",
+          "name": "ETANERCEPTE",
+          "url": "/drugs/etanercepte/"
         },
         {
           "type": "drug",
@@ -2236,26 +2223,6 @@
       ]
     },
     {
-      "id": "ed042c8133e8",
-      "title": "Chuvas, ventos e quedas de temperatura: como os fenômenos climáticos afetam o campo - Notícias Agrícolas",
-      "published": "2026-04-30T20:12:55+00:00",
-      "sources": [
-        {
-          "name": "Notícias Agrícolas",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMGc1aVVhRU12bTFMcHRtUTdpdm8tSG5TeGIyVEpqbjJIUkNMMlJrWlhnNW4zNGhrY3ViV1hmU3BSOTdXRGJFQUt2ZEN2aDVvWUlyV1hMTEpmWUtTcXBBRDhvR0FrWU4yb1lWNzI0TUdUNVRid3AyQVFfbzFuY1hfa2x5T241eUNESDVwcFdrNWpzZXJXcDkwSkxaRUFXMmdwMjlsTzZfckl4cUVScnRuY041Z0lmWHBTWmdSb3VIallZS2Q2UFd0amtnS0kwT05xd2FzRkpJaGQzUGNkSVHSAeMBQVVfeXFMTW81WUJuTmM4VGE3d0VMS09uV1NiLU9SQ3lwTHNIZlFnb3ZCQXpvTE01WXJjZDF3R2NaaW1sR1lmdmpDRmZyOEszRTNSUERjbG1OcHRIbkRyamgzcDJfUlN5cHpDVHNFSGFLcVpNWk55ZGJCNklFUUwzVjVSaGNDYjBQeklzM0JiUEdsUWUzUU1XMDBlX1pGeXpkS0hIN1hrajRkaFJITTY2VE5uUllETTk2YnRDWEFKUnIwcFYyWlIyOFByOXN5RzlHbFpPMlNPb095c0FpVjI1RUtLQ0NXWFphWTA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "levetiracetam",
-          "keyword": "TAM",
-          "name": "LEVETIRACETAM",
-          "url": "/drugs/levetiracetam/"
-        }
-      ]
-    },
-    {
       "id": "7d56537d7f08",
       "title": "Aliado da saúde: kiwi faz bem para intestino, imunidade e coração",
       "published": "2026-04-30T19:34:36+00:00",
@@ -2283,40 +2250,6 @@
       ]
     },
     {
-      "id": "6da739e07cf7",
-      "title": "Vírus que lota hospitais no outono não é só de criança: idosos correm risco",
-      "published": "2026-04-30T17:36:49+00:00",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfQlE3RmtNUXhxTUFMWFhhcC1JYWRKNzVvXzA5dEx0R3hiMXpGOHc5cFFtSWIzRkdMbzgzWXlhVnFVazRYbUxlLVg2SzV2TExWaHl1RHlnM29zblF5WHNjNnFqLXpCNk5zNTR5U0RsX3NLOTN1TDhrTlNHcXpZbjQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "diazepam",
-          "keyword": "UNI",
-          "name": "Diazepam",
-          "url": "/drugs/diazepam/"
-        },
-        {
-          "type": "drug",
-          "slug": "zinc",
-          "keyword": "UNI",
-          "name": "ZINC",
-          "url": "/drugs/zinc/"
-        },
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
       "id": "3e9adee4420f",
       "title": "Cientistas brasileiros descobrem um ecossistema vivo de microrganismos flutuando na névoa a 325 metros de altura na Amazônia - Revista Amazônia",
       "published": "2026-04-30T15:30:45+00:00",
@@ -2333,53 +2266,6 @@
           "keyword": "SIL",
           "name": "SILODOSINA",
           "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
-      "id": "17b23f3cac0b",
-      "title": "Suplementos oculares retardam perda de visão e são indicados por especialistas - Extra online",
-      "published": "2026-04-30T14:56:52+00:00",
-      "sources": [
-        {
-          "name": "Extra online",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNR0hhT2prbFBHT1M2VkRhazZ4T0lHMk1tQnBwUTk0TEZVc3pZTWNUVzF6QUdlQ0lxQ3JjLU5jZ2NNbVF4REJXcENzRUozZU4wdlgzandtZDVDc0tmbGhObl9BdXphaUVPRE1LXy1yaVNwREFxMk84YkFRUzlRUHFoQVA5YkloSUNVdUF1NnNGTUVnRFEyU0Zybjh5dWszOVNTVVh4SzZRZWhvcFN2T0RZS0VnblBGbElMVGZ2S1Nfby1JV1dpVVdONG930gHYAUFVX3lxTFA2UWJmUG13ZXA0MEtqaHBrNzFfQ0MxeEt6dFlVSklkUTUzT2hmcGxuSkpEVUpRbVA4dnNXVVNhMWhpdWZqYmNEV0F0OXdRYmVEVzdaOHhjUEFvZ0lhWWpvT0ZZSUxoR0RLVDdxSVZoU0NzU240c0dTeVNNTDRTRWJWVWt0RDh3SXRNWnBpUEx5cHNHS1hsdlBUUFl3VGtJWXFHREVubzZDdnBRZU1MblJLVmQtODFFWjFsVGllM3hyeHVDck4wcDkxVndvV3RCWVhCajZhS1BITg?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "tadalafil",
-          "keyword": "CIALIS",
-          "name": "TADALAFIL",
-          "url": "/drugs/tadalafil/"
-        }
-      ]
-    },
-    {
-      "id": "a9bd5b6be7de",
-      "title": "Orientações sobre casos suspeitos de varicela (catapora) no Campus de Porto Velho - UNIR - Universidade Federal de Rondônia",
-      "published": "2026-04-30T14:11:52+00:00",
-      "sources": [
-        {
-          "name": "UNIR - Universidade Federal de Rondônia",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8weVpudTVLT2Z2UDVFcE9JVkxmbno3LUFNbnRVdTY4SW1zVXNLZ1pIeXhjMEZRQWRqSGV0QXNadFZuM2JHUGw4QWtFWXRBbGJVV3c?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "diazepam",
-          "keyword": "UNI",
-          "name": "Diazepam",
-          "url": "/drugs/diazepam/"
-        },
-        {
-          "type": "drug",
-          "slug": "zinc",
-          "keyword": "UNI",
-          "name": "ZINC",
-          "url": "/drugs/zinc/"
         }
       ]
     },
@@ -2404,82 +2290,29 @@
       ]
     },
     {
-      "id": "263729936e4f",
-      "title": "Cardiologista diz o que pode reduzir a eficácia do remédio de pressão",
-      "published": "2026-04-30T13:26:00+00:00",
+      "id": "2a663ce91018",
+      "title": "Serpente 'enigmática' descoberta em Mianmar desafia a lógica da biologia",
+      "published": "2026-04-30T08:39:03+00:00",
       "sources": [
         {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbHJkaGhqQnJXLVZGN1F3TFlCYjMwSE1tZnpTWjBBQnQ4Y1U2N2UtaDdXLThaVDMtRW1WQXhNQl9tUmw5RWNKaExhVnpyOTl1SGRYV1VkQV96M2YzSDBVb012NWdCNjdmenI4TTdRa3lNbG42LWZGbHRUZlRzNDB3b3J3X3k3dThyTkZ0anpGRU5aMlVtZGhXSkhaaXZ2R3k5a0w2TG9pQmZVeWVfZnVEM2txVGtGREluY1JjMWh3?oc=5"
+          "name": "Exame",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaWVYQ3BUYlM4eHFRRHRKWnhwVUNWT3ktOVRYZlNWRUhCdUVBaEp1UmctdWNrUE0zWGE5SldEM2JJSjI1UXE3SFp4QTh5T0h5bXczanNPY2l0NGR0VWs5aGpfTWhfQkU1YS0xZFNMaFkwY25pV1hoVW0za1JNRThhcHpHSm1fVTFWVDlWTUlpa1FoZjlhbDFPcVQzQVRxdw?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "drug",
-          "slug": "praziquantel",
-          "keyword": "FAR",
-          "name": "Praziquantel",
-          "url": "/drugs/praziquantel/"
+          "slug": "golimumabe",
+          "keyword": "BIO",
+          "name": "GOLIMUMABE",
+          "url": "/drugs/golimumabe/"
         },
         {
           "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        },
-        {
-          "type": "drug",
-          "slug": "zidovudina",
-          "keyword": "FAR",
-          "name": "ZIDOVUDINA",
-          "url": "/drugs/zidovudina/"
-        },
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "cardiovascular",
-          "related_drugs": [
-            {
-              "slug": "travoprost",
-              "name": "Travoprost"
-            },
-            {
-              "slug": "thiamine",
-              "name": "Thiamine"
-            },
-            {
-              "slug": "tenecteplase",
-              "name": "TENECTEPLASE"
-            },
-            {
-              "slug": "alteplase",
-              "name": "ALTEPLASE"
-            },
-            {
-              "slug": "ticagrelor",
-              "name": "TICAGRELOR"
-            },
-            {
-              "slug": "tocopherol",
-              "name": "Tocopherol"
-            },
-            {
-              "slug": "gadobutrol",
-              "name": "Gadobutrol"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "AVC",
-          "related_drugs": [
-            {
-              "slug": "digoxin",
-              "name": "DIGOXIN"
-            }
-          ]
+          "slug": "etanercepte",
+          "keyword": "BIO",
+          "name": "ETANERCEPTE",
+          "url": "/drugs/etanercepte/"
         }
       ]
     },
@@ -2504,47 +2337,33 @@
       ]
     },
     {
-      "id": "334293743576",
-      "title": "'Sou psicopata': mulheres contam como é viver com o distúrbio",
-      "published": "2026-04-29T18:19:00+00:00",
+      "id": "9ca8007eebc5",
+      "title": "A Amazônia começa a falhar em silêncio: áreas da maior floresta tropical do planeta emitem mais carbono do que absorvem, perdem resiliência após secas extremas e transformam o verde que ainda parece intacto em um alerta climático antes do colapso vi - CPG Click Petróleo e Gás",
+      "published": "2026-04-30T02:58:00+00:00",
       "sources": [
         {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5DRi01eHFNaDJ5T1R0WlZWNU9wYlNxamZ0UTl0VUprdVZwVHNBa1M4Y3JvLVhhd2hObTNCU1Jsa04zSjlWZjZXVEJ2N1BkSDZaUEpLZlUxQ2I2dnZYUklEZDVB0gFnQVVfeXFMTlREU19qWnBvUDFodHNmZ1A3ZHRpc2pqWkx4ZFd1OUI1TG5oNlJBckdDZUExU0FyWWdlR2V0QllQZ1BtU2tiUU9aZVpuQjlZd0k4eWJ2QndRcTRxU0EwamRlWk90QXlMRQ?oc=5"
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNeGRGVVZ4Mkt5QUZpVGM3aVBrQ0twcWE2MnB5aVl4bWRKTXlCWS1YMmpZSXpWTURvM2U2ckJDZDBDZ3h5Tjg4WmkzU21XVDg5cUNXTi02N1RTN2VzZDVwZmJHM01MQXJEclFQYkxzTU9RVjE3S203RDNpRThraGtrcGhieWszU0Y1OE1VbVJZMXpibHlnY0lscWo4WVp5bEZ0Q1ZIbDBFRFZfQndaekZSUXhiYUZoVUVRLVc3eERKWjJ1ZEdubE5Gc2ZKNFdGZGlWcFJlREQ5alJ3SUFXQkw0TzBQal9rVkVad1dpVExaTDhxX3hTZ0t3YW1ia3kyY0JQQkliU0RaY1haUjVMT2pRNGZJTDJLS1E?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "drug",
-          "slug": "levetiracetam",
-          "keyword": "TAM",
-          "name": "LEVETIRACETAM",
-          "url": "/drugs/levetiracetam/"
-        },
-        {
-          "type": "drug",
-          "slug": "golimumabe",
-          "keyword": "BIO",
-          "name": "GOLIMUMABE",
-          "url": "/drugs/golimumabe/"
-        },
-        {
-          "type": "drug",
-          "slug": "etanercepte",
-          "keyword": "BIO",
-          "name": "ETANERCEPTE",
-          "url": "/drugs/etanercepte/"
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
         }
       ]
     },
     {
-      "id": "34c3d1935d5e",
-      "title": "Exercício prepara militares para cenários de crise biológica, nuclear, química e radiológica",
-      "published": "2026-04-29T14:53:47+00:00",
+      "id": "e96ca4073417",
+      "title": "A ciência do monitoramento da fauna selvagem como investimento estratégico para a preservação global da biodiversidade e a sustentabilidade do planeta Terra - Revista Amazônia",
+      "published": "2026-04-29T19:47:57+00:00",
       "sources": [
         {
-          "name": "fab.mil.br",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSzludTFSOEJ1ZlV6U1BQYm5KMDZjLUpLd0U4UTQ2YWtzcVl2LXhqZnBYUUxTMzhfbEVSLTUtaW51ak1kdGFDUERLREZFZ0RfYjIyYmt6M0JyUGtPZnR4QjMtTXhhRUZjSkNrNG41Q01kQzBHN3p1TklDamhLUnpLbV9VOV9aSWxRLVJLTXo4VU9UMVg5NENWQWFITkp4T2tmUTRWUm1JVTRnVElSbFNnS3FFLXZHcE11bDI5V0xEQ3RqWktTYmJucC11UHpaWTh0aWt2dVR6WlF6U1A2R2NZOWY2OA?oc=5"
+          "name": "Revista Amazônia",
+          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOWDR6YnVrQzNPZU0zRUw5Ujk2YW50b0QyckhxaVRiREo5MjJlWkxEdzhzTlpFUmExaTh3a2ZNWWNIMkpQM19RMjFoNER4SXFWUEVreXVGaFhlRjRnMDVDNVZVbEJ4ZHZaR01TNG9wM0E3Zlk5SWFoNXZ3RTFRaDZ0MXVIRzBiV3MzMG9hY0x0VXhkNTAycmhwQmhVV0w4bVcxVFNBdjR2blpzaFBrY1loemVsZHNUbVJxRW93cVMwVUgwaFY0RkduZUtXc0U0VmhsOG9uQXk1ZEpSM2tKdnVJdUxoNGE3d091QUg1aEoxczFlSXZaTUN6QTNWX1hIbnJhTVk1UE9rRy1CTGlEVDhSWWNtSFI5SXc?oc=5"
         }
       ],
       "keywords": [

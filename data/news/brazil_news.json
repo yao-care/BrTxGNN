@@ -1,15 +1,27 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-05-02T13:17:24.598877+00:00",
-  "total_fetched": 105,
-  "unique_count": 102,
-  "health_related_count": 36,
+  "fetched_at": "2026-05-02T19:02:56.401741+00:00",
+  "total_fetched": 96,
+  "unique_count": 92,
+  "health_related_count": 35,
   "news": [
+    {
+      "id": "23cc280eb69a",
+      "title": "JCNET: SP amplia vacinação contra a dengue e libera Butantan-DV para 59+ - sampi.net.br",
+      "published": "2026-05-02T15:43:09+00:00",
+      "summary": "JCNET: SP amplia vacinação contra a dengue e libera Butantan-DV para 59+&nbsp;&nbsp;sampi.net.brJundiaí amplia vacinação contra a dengue a partir de 6 de maio&nbsp;&nbsp;Prefeitura de JundiaíProfissionais da saúde devem ser vacinar contra a dengue a partir de segunda-feira&nbsp;&nbsp;G1Campinas amplia o público-alvo da vacina da dengue do Butantan a partir da próxima segunda, dia 4&nbsp;&nbsp;Prefeitura de CampinasVacina da dengue chega a adultos de 59 anos em São Bernardo&nbsp;&nbsp;Portal ABC ",
+      "sources": [
+        {
+          "name": "sampi.net.br",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUlZzUWxkMUVVel80dHh3d0FhVmxZd1pQSFI5UXpXUk9KaG0wb0Z2QUdUNHRjV2p3TGNTZ3FXVlQtTzZTYjkweWVfbUczRmhGRWsxLUZwMFFVMEVBRTBnamV4dUJhNVNiMVlsZnMtN1A0d3ZlR20ta0hCNE8tYmo4OGJ4Zlp0LS1pbHNCUmlUUDRkWGtOX01Xblh2VXMtNzIwTzhPUDNJZ0w4aW5pa0g5cGJRLVVSMTctRFl6ajNHSlo4dkhnSy1YZkFn?oc=5"
+        }
+      ]
+    },
     {
       "id": "728065b5bab0",
       "title": "Apresentadora da Globo faz alerta sobre canetas emagrecedoras falsas: 'Fuja!' - Notícias da TV",
       "published": "2026-05-02T12:22:00+00:00",
-      "summary": "Apresentadora da Globo faz alerta sobre canetas emagrecedoras falsas: 'Fuja!'&nbsp;&nbsp;Notícias da TVTabela de preços das canetas emagrecedoras em 2026: Ozempic, Mounjaro e genéricos&nbsp;&nbsp;Veja SaúdeQuebra de patente pode baratear em até 30% ‘caneta emagrecedora’; em MG, 3 em cada 10 estão obesos&nbsp;&nbsp;O TEMPOO que explica os casos em que as canetas emagrecedoras não funcionam?&nbsp;&nbsp;TerraAgonorexia: 6 riscos de \"perder a fome\" com canetas para emagrecer&nbsp;&nbsp;CidadeVerde.c",
+      "summary": "Apresentadora da Globo faz alerta sobre canetas emagrecedoras falsas: 'Fuja!'&nbsp;&nbsp;Notícias da TVQuebra de patente pode baratear em até 30% ‘caneta emagrecedora’; em MG, 3 em cada 10 estão obesos&nbsp;&nbsp;O TEMPOTabela de preços das canetas emagrecedoras em 2026: Ozempic, Mounjaro e genéricos&nbsp;&nbsp;Veja SaúdeO que explica os casos em que as canetas emagrecedoras não funcionam?&nbsp;&nbsp;TerraAgonorexia: 6 riscos de \"perder a fome\" com canetas para emagrecer&nbsp;&nbsp;CidadeVerde.c",
       "sources": [
         {
           "name": "Notícias da TV",
@@ -18,14 +30,14 @@
       ]
     },
     {
-      "id": "297a00986b30",
-      "title": "Café: saiba como a cafeína afeta o corpo e quando o consumo vira problema - Terra",
-      "published": "2026-05-02T08:00:00+00:00",
-      "summary": "Café: saiba como a cafeína afeta o corpo e quando o consumo vira problema&nbsp;&nbsp;TerraEstudo aponta quantas xícaras de café por dia ajudam a reduzir o estresse&nbsp;&nbsp;TerraBeber café todos os dias faz mal à saúde? O que dizem os estudos&nbsp;&nbsp;Rádio ItatiaiaO alimento comum que pode aumentar a ansiedade se consumido em excesso sem você perceber&nbsp;&nbsp;Correio BrazilienseConsumo matinal de café reduz risco de morte prematura em até 31%&nbsp;&nbsp;Mix Vale",
+      "id": "ea31adeaf1b0",
+      "title": "O que o limão em jejum realmente faz ao fígado e à digestão segundo a ciência - Tua Saúde",
+      "published": "2026-05-02T11:30:00+00:00",
+      "summary": "O que o limão em jejum realmente faz ao fígado e à digestão segundo a ciência&nbsp;&nbsp;Tua Saúde",
       "sources": [
         {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQNFFQbGZKSlR1MjBxa1JfUVIxSDN3YlliWnVnTFhJVmQzbTNLTlJNcWVYd3FRRlhsTC1tQ241X2dtTG9kSE53R2czSkF3ci1sNm9naEhXY3lKQ3RSdkN6RTcweVBZa19wSklURW8yNDdyR0dkRTJFTE9aWEVnWXJwd1BrTVFOdEpqT2MxdXVkUHpDR0hBeTA5ZnhyaFBKTVVLYXF0UTJmWE8xcHZmRzFkbC11VnR0OGFkNFBqZG1XMUVXNnpydXJGRkpraDYxSkIwWWV2dWU3cUtTMEY2OFk2TnlpdGxmNzB0SGxpUUtn?oc=5"
+          "name": "Tua Saúde",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMGp6RFA0WnlxT0pQbmQ0ak9yM09ieXdHRTl2VzkxQXR3YlBQVlJZYjVhM2ZPZjd5V1RLY0ttS1VxbjF1UXJCVUUxaGNHQkJ6RXVGcnRfcEJFcWZFTlplaE42OWRZYUR1VHdnZEpHVVBHUG5LcVJuakxmQmk5aDc5dnd3NGp3TWY5Snl3M0N5REJvcG5VdHhkcEZRWDI0NlB0ZTJsVGNDU1RWUWY4Y0hUYkpUMlZvQkpYOEVJ?oc=5"
         }
       ]
     },
@@ -38,6 +50,18 @@
         {
           "name": "O Globo",
           "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOdEZXMHFXT2lQaGpMSTlabjh6ZFM0eWtpN1ZuX3cyZnhKV1hGdXFuU0FCYmtpOXhlQm5pam5FS3Q0SkJ6YkI2eXctX21zdnB3ZjFQMEcwVTNNSW1ueDlrTG4tUENReUIydTBVekx5UjN6dkI2ckR5WGpfWV9wc3dVaGFFdHBZX0RhYUk2R3dmOWE3ZWtPTG9DVW1qbHBtOFg2TWM3VmxtWG41dUlia2lHQ19BeFlyTjBWLXlucFpkOXFGVHBhMnlfdHVSUk1pNUdBcWI4ZTFPSXotQjlTY0E4eURpNy1GeUE5QVJsdDJkNG11ajl3VElDcGhoLU14aFp20gGPAkFVX3lxTE9MbV8xYU8tUGxTMElHOGV1Ri11SzVTSFFjSDdJRG9KRVR4cndoM09nbXdYREYySDF3bTZwQWo3NnlmeGtBVlNubjhtLUdqSjFkNlBLOC0xQWxTQkI3X0h6WERwdVQ4VDVaMnNsc252MXB3RndyMEtHMXQxeXhsOXhzNy0tdlozRHJ5cnNnaGU4RzRLTnRQaEthWFl6T3hjRzNvNFE5bDR3SGRoeDNPMkdiY3E5QTdXdXFfaGJTVlR5WEZiVjVlYjJxUnVaeW9lZEJWeXdDX3ZGM2pSQnQ5V0pwUF92aFpvVF9NNUNwOEw3TVhvVmNNWHkzbk5nZTZxblJvblFpaWJFbVRhcEJHTW8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "aa0cd263297a",
+      "title": "Pesquisa revela que velocidade da escuridão é maior que a da luz; entenda - O Globo",
+      "published": "2026-05-02T07:01:43+00:00",
+      "summary": "Pesquisa revela que velocidade da escuridão é maior que a da luz; entenda&nbsp;&nbsp;O Globo",
+      "sources": [
+        {
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPa2d6YzRUNW1fdkdmcGZhV1VYZTgwMWhUUzBER0hpcE1WSXFfanNRYi1SbTJmbE94WFJtc0cyOVhfS1MzX0V6cUVITWwtTFhhMmZJNndmaTFfNlp6eEtRTGlVYjhDbFJQWlhlTC1FcmtvSGVOT2RGNFA5bks5cFJpdG1weFRNRzNUNGluNWtObnhZMURDT0pXLUQ4Z3N3MXJCdTdFOEtsSlNHYXVxZDNLVDYwS1pnejk4RXRIbl92Nms4WXlHcXZveDRBWF9telBUdmduRkxJTW1CSXp50gHrAUFVX3lxTFB3cFRrbE9ZXzljTkg1VW1tM0JseUVhTURfREJwRjZLNjhjU3RLQUpsZzJqcWhVdWtQTVBGbE40cEZpQmwzZllIMm1EeTNEMHpzajE2UEh3azFiLXYwZE4xSm1sZDM4bEc0MUttTjhzQktwaUhOZUNkQXMxV1FrRjF2b1NFZXpUaWJ6TlJKUWZpWG13clBXRHdIeEdFWGRKSmJETzBFNnVRS2xqX0dYS0p3NGY3YTdDbVRmREFtbTZxZkowWkFkX2hxYTBEZGFtSUp2WmlBSXlXMVdTaWFicm9oRFNDLVRJX2wzRFk?oc=5"
         }
       ]
     },
@@ -57,23 +81,11 @@
       "id": "f10dd07d15db",
       "title": "Café e envelhecimento: estudo revela mecanismo que pode explicar ligação com longevidade - Super Rádio Tupi",
       "published": "2026-05-02T03:56:37+00:00",
-      "summary": "Café e envelhecimento: estudo revela mecanismo que pode explicar ligação com longevidade&nbsp;&nbsp;Super Rádio Tupi",
+      "summary": "Café e envelhecimento: estudo revela mecanismo que pode explicar ligação com longevidade&nbsp;&nbsp;Super Rádio TupiEstudo aponta que café pode proteger o corpo do envelhecimento&nbsp;&nbsp;Euronews.comBeber café todos os dias ou não beber café de jeito nenhum: quem se mantém mais saudável na velhice?&nbsp;&nbsp;MSN",
       "sources": [
         {
           "name": "Super Rádio Tupi",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcHdBV0llRklGM0tIUTdIVDVWNEhpUFlrYXlEN1JhRS04Vkt0THRMNG4yMmc5ZVpOTTNHSVRGblpQUnJDVkpDT1ZZU21RemtlU2tzTktRTmZvRFRwUWh6REkya2hoNDl1OVZHR2Z6UHZuZjFCcjQ3aS05dUFCME9KdVBGbHd1ZWlyMXNNd3hobkpZbmlRS1RCM3lHRmk2MW1PSXg1SFhNb1oyZVlfc2o0Vng5TWRseFhFUEl2V1BFQTU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "18b38cc0d08d",
-      "title": "Síndrome respiratória grave já matou 438 pessoas em MG; vacinação contra gripe atingiu só 24% do público-alvo - G1",
-      "published": "2026-05-01T22:25:46+00:00",
-      "summary": "Síndrome respiratória grave já matou 438 pessoas em MG; vacinação contra gripe atingiu só 24% do público-alvo&nbsp;&nbsp;G1Diretora de epidemiologia de BH é a entrevistada do Em Minas deste sábado&nbsp;&nbsp;Estado de MinasBaixa vacinação infantil preocupa BH: cobertura é de 14%; veja como se vacinar&nbsp;&nbsp;Brasil de FatoIdosos representam 75% das 106 mortes por síndrome respiratória em BH&nbsp;&nbsp;Rádio ItatiaiaGRIPE - Adesão à vacina segue baixa na cidade&nbsp;&nbsp;Folha do Povo Itatiai",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPVndzVlNReTFRWEV0REs5YTlra25HdzF3bWMxNDNQWnpHNHBsbmZTTUFjcWVLb0pOSmlrTkIySHZQQU5xVG5CWEg5Zmd0QkxBOWVaRmdtX0lKblhsdmlNd3VpdUlTS1ZCTkctVm55ZmQxQVV6SURiMHVLTnBRZW1IRjlwMWJtZWF2RkZkeVR2ZF94dlJ5Qi1ObXdhMHNRdjdOdVJrX2M3UG9KVjV2UFFfZ1pRVVMxVDhqYlREVU9aZFlhTGJ2TjJSbUM3dk9tZFc5U1N6VjRUbEtSR3NsbFAxeGlvX1lMZ0xncV9OTFJVVTdOd091bmtidi0zZ0otd1lHdXVDaE9lMNIBlgJBVV95cUxPdVNCQ1d0bk9iTEhIQk9lRmp5UUgzSEZvRUNrcTllTE1VZmlXS2I0R095T3FaLTRKOWZkbjg1bjA0YjJCX2VrbUp4a3h4RFVyWmVTbjJOR3YzZmJZM1RKclhXbDA1S1d3cVQ4OWpBOTFXc0xUOUd0dERJSnRQSGxKam1qTTdxOTVrTktGT01MSC1vTXdCekdqb3Z3NndwWndLOFNPN05QVEpwRUNMSEcwUkthUS13SFRveFFlX3docWxBQlR3eFlnSG11cC1CS0VCcFJtOUJ0Y1psdjRPSXhxOTM1cG9KbEljRWdZSE9xQy0wOG9TaDFUZ1djTWd4YzRnMVBfSmJuMFhORzhFS0NMSTFybllldw?oc=5"
         }
       ]
     },
@@ -105,7 +117,7 @@
       "id": "b3c9668b2fad",
       "title": "Voluntários com mais de 60 anos são recrutados em Salvador para teste de nova vacina contra gripe - Jornal Correio",
       "published": "2026-05-01T18:30:00+00:00",
-      "summary": "Voluntários com mais de 60 anos são recrutados em Salvador para teste de nova vacina contra gripe&nbsp;&nbsp;Jornal CorreioUFMS testa nova vacina contra a gripe e convida idosos para projeto de pesquisa&nbsp;&nbsp;MidiamaxButantan convoca voluntários para testagem de vacina em SE&nbsp;&nbsp;G1Hospitais de Porto Alegre buscam voluntários idosos para estudo de nova vacina contra a gripe&nbsp;&nbsp;GZHUSP de Ribeirão Preto busca voluntários para estudo sobre eficácia da vacina contra a gripe&nbsp;&",
+      "summary": "Voluntários com mais de 60 anos são recrutados em Salvador para teste de nova vacina contra gripe&nbsp;&nbsp;Jornal CorreioUFMS testa nova vacina contra a gripe e convida idosos para projeto de pesquisa&nbsp;&nbsp;MidiamaxButantan convoca voluntários para testagem de vacina em SE&nbsp;&nbsp;G1Salvador: Instituto Butantan recruta voluntários idosos para ensaio clínico de vacina contra gripe&nbsp;&nbsp;Metro 1USP de Ribeirão Preto busca voluntários para estudo sobre eficácia da vacina contra a gri",
       "sources": [
         {
           "name": "Jornal Correio",
@@ -126,22 +138,10 @@
       ]
     },
     {
-      "id": "03c9bc2bc344",
-      "title": "Estudo aponta ação de planta medicinal contra vírus da covid-19 - ACidade ON",
-      "published": "2026-05-01T17:13:37+00:00",
-      "summary": "Estudo aponta ação de planta medicinal contra vírus da covid-19&nbsp;&nbsp;ACidade ONComposto de planta brasileira combate vírus da Covid, revela estudo&nbsp;&nbsp;Poder360Copaíba supera antivirais comuns em teste contra a covid-19&nbsp;&nbsp;Correio BrazilienseUSP: estudo encontra extrato de folha que combate covid-19&nbsp;&nbsp;Revista OestePlanta brasileira mostra potencial contra o vírus da covid-19, aponta estudo&nbsp;&nbsp;Revista Planeta",
-      "sources": [
-        {
-          "name": "ACidade ON",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR0dxaDJfc0Z0dkpPZldNc3BncFE5RllRaEcyUldDS053UWVsSWk5MTRaSFo3NWZGdkZYVGNPRUFCU1ZrZnFWdzVUUGRzWXVTVlRoSDc2clotTnpKb05CWGlUSENTS0N3aFNKbDZEZnEwalR5ZmtnUm5pRXQzZVZ6b0dIQmp4RWZQbGtGVEFFMEE2V3AteWNJV1ZwZWhQcWowUjRNUDY0d2RoWXhVTlMzNno2cUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8af81d9f9aea",
       "title": "Casos de caxumba crescem quase 50% no Rio e autoridades reforçam a importância da vacinação; saiba como se imunizar - Extra online",
       "published": "2026-05-01T17:06:17+00:00",
-      "summary": "Casos de caxumba crescem quase 50% no Rio e autoridades reforçam a importância da vacinação; saiba como se imunizar&nbsp;&nbsp;Extra onlineRJ alerta aumento de quase 50% nos casos de caxumba no estado&nbsp;&nbsp;R7Casos de caxumba aumentam cerca de 50% no Rio e autoridades reforçam a importância da vacinação&nbsp;&nbsp;Tribuna do SertãoCasos de caxumba aumentam quase 50% no Rio e autoridades reforçam importância da vacinação&nbsp;&nbsp;Tribuna do Sertão",
+      "summary": "Casos de caxumba crescem quase 50% no Rio e autoridades reforçam a importância da vacinação; saiba como se imunizar&nbsp;&nbsp;Extra onlineCasos de caxumba aumentam quase 50% no Rio de Janeiro&nbsp;&nbsp;R7Aumentam os casos de caxumba no estado do Rio de Janeiro&nbsp;&nbsp;gazeta24horasrio.com.brCasos de caxumba aumentam cerca de 50% no Rio e autoridades reforçam a importância da vacinação&nbsp;&nbsp;Tribuna do SertãoRJ alerta aumento de quase 50% nos casos de caxumba no estado&nbsp;&nbsp;R7",
       "sources": [
         {
           "name": "Extra online",
@@ -153,7 +153,7 @@
       "id": "3fbc21e4d5fb",
       "title": "Câncer de pâncreas: por que a taxa de sobrevivência permanece em apenas 13% após 5 anos? Estudo explica - O Globo",
       "published": "2026-05-01T16:16:55+00:00",
-      "summary": "Câncer de pâncreas: por que a taxa de sobrevivência permanece em apenas 13% após 5 anos? Estudo explica&nbsp;&nbsp;O GloboObesidade na adolescência acende alerta para câncer colorretal precoce&nbsp;&nbsp;R7Casos de câncer de pâncreas crescem entre jovens, aponta estudo&nbsp;&nbsp;TerraCientistas descobrem a primeira pista para explicar porque é que 11 tipos de cancro estão a aumentar entre os jovens&nbsp;&nbsp;ExpressoIncidência de câncer entre jovens cresce 79% em três décadas&nbsp;&nbsp;Tribun",
+      "summary": "Câncer de pâncreas: por que a taxa de sobrevivência permanece em apenas 13% após 5 anos? Estudo explica&nbsp;&nbsp;O GloboManual explica por que câncer de pâncreas é desafiador&nbsp;&nbsp;MetrópolesObesidade na adolescência acende alerta para câncer colorretal precoce&nbsp;&nbsp;R7Casos de câncer de pâncreas crescem entre jovens, aponta estudo&nbsp;&nbsp;TerraIncidência de câncer entre jovens cresce 79% em três décadas&nbsp;&nbsp;Tribuna do Planalto",
       "sources": [
         {
           "name": "O Globo",
@@ -189,7 +189,7 @@
       "id": "5473ee9a35c3",
       "title": "Piauí intensifica vacinação contra dengue e HPV; veja grupos prioritários - CidadeVerde.com",
       "published": "2026-05-01T15:02:00+00:00",
-      "summary": "Piauí intensifica vacinação contra dengue e HPV; veja grupos prioritários&nbsp;&nbsp;CidadeVerde.comCampanha contra HPV busca ampliar cobertura e prevenir tipos de câncer&nbsp;&nbsp;G1HPV: ginecologista alerta para prevenção, vacinação e diagnóstico precoce&nbsp;&nbsp;Tribuna do NorteVacina contra HPV registra baixa adesão entre crianças no ABC e em SP&nbsp;&nbsp;Portal ABC do ABCSUS amplia vacinação contra HPV para mulheres tratadas por lesões do colo do útero&nbsp;&nbsp;Folha do Oeste",
+      "summary": "Piauí intensifica vacinação contra dengue e HPV; veja grupos prioritários&nbsp;&nbsp;CidadeVerde.comCampanha contra HPV busca ampliar cobertura e prevenir tipos de câncer&nbsp;&nbsp;G1Vacina contra HPV registra baixa adesão entre crianças no ABC e em SP&nbsp;&nbsp;Portal ABC do ABCHPV: ginecologista alerta para prevenção, vacinação e diagnóstico precoce&nbsp;&nbsp;Tribuna do NorteSUS amplia vacinação contra HPV para mulheres tratadas por lesões do colo do útero&nbsp;&nbsp;Folha do Oeste",
       "sources": [
         {
           "name": "CidadeVerde.com",
@@ -270,14 +270,14 @@
       ]
     },
     {
-      "id": "2d44d5bd3dba",
-      "title": "Exportações de chá verde do Japão disparam com boom global do matcha - Portal Mie",
-      "published": "2026-05-01T09:04:54+00:00",
-      "summary": "Exportações de chá verde do Japão disparam com boom global do matcha&nbsp;&nbsp;Portal MieMatcha Bio Continente Equilíbrio: descobrimos no supermercado o superalimento favorito dos famosos&nbsp;&nbsp;Jornal de NotíciasNem café nem mate: a bebida quente que está ganhando espaço para começar o dia com energia&nbsp;&nbsp;Super Rádio TupiNutricionistas revelam a bebida ideal para começar o dia e envelhecer bem&nbsp;&nbsp;Notícias ao MinutoNem café, nem mate: bebida japonesa vira febre e promete mais",
+      "id": "73ad91b2467c",
+      "title": "Não é 1, nem 4: quantas xícaras de café uma pessoa deve beber por dia para reduzir o estresse, segundo estudo - Portal 6",
+      "published": "2026-05-01T09:43:52+00:00",
+      "summary": "Não é 1, nem 4: quantas xícaras de café uma pessoa deve beber por dia para reduzir o estresse, segundo estudo&nbsp;&nbsp;Portal 6Estudo aponta quantas xícaras de café por dia ajudam a reduzir o estresse&nbsp;&nbsp;TerraBeber café todos os dias faz mal à saúde? O que dizem os estudos&nbsp;&nbsp;Rádio ItatiaiaO alimento comum que pode aumentar a ansiedade se consumido em excesso sem você perceber&nbsp;&nbsp;Correio BrazilienseConsumo matinal de café reduz risco de morte prematura em até 31%&nbsp;&",
       "sources": [
         {
-          "name": "Portal Mie",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaWFySHdXM2I3RDFobWQwNnNTbU5ma3EyQWx2Y043V2lBNGdlUkc3ek4xajF3eFhMZWJjWEh3MEo2aEZWNHBzTkN5YjRwaHVSeE45dnprbE9SMklUSE84UldVQjE4OHlrUnRWQUJnWVoyWGZETjk1dm15QzMwTTN2QnVyQ1lIRklQakROTjFzS0l2czZwSU1LMTJaX0tnVDhvZnBQVTRUVzR2VW52eUFv?oc=5"
+          "name": "Portal 6",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPR1JtaURFUkJRZ01RMkR1T2R5VjduUWJIRVkydWlpVEdxclJpeVpiLUtfNjBxTl90Z1JpWFVUbWp2Q29ySS15andBTS1xbEpNR3dUNlQ5VVFYbjZxZnNYYVpTTTBtV0g1ZVpQMFByTHpaRFNQN1NTWVJ0OERVLTM1a1p0REdjX2NJUFhna0Q0OWJXZXphY2hRNjh4aU5qSnhCTklnY1hTOXdMSFJrU1NaR2RxUWVhbm1NVlpjSm9SUjhwWVg3VzhKUk12UXZ6eTkwQ0FzUTVsV0c?oc=5"
         }
       ]
     },
@@ -285,7 +285,7 @@
       "id": "09d202c84d3f",
       "title": "Chinamaxxing: beber água quente de manhã faz bem? - CNN Brasil",
       "published": "2026-05-01T08:00:16+00:00",
-      "summary": "Chinamaxxing: beber água quente de manhã faz bem?&nbsp;&nbsp;CNN BrasilBeber água quente ao acordar faz bem? Veja o que diz a tendência \"chinamaxxing\"&nbsp;&nbsp;TerraO que beber em jejum para tratar a inflamação intestinal e garantir a absorção de proteína de acordo com a ciência&nbsp;&nbsp;Tua SaúdeBeber água em jejum: como aderir ao hábito que desincha o rosto e ‘ativa’ o metabolismo&nbsp;&nbsp;ND MaisMuitos têm o hábito de beber água ao acordar, ainda em jejum, mas especialistas revelam o qu",
+      "summary": "Chinamaxxing: beber água quente de manhã faz bem?&nbsp;&nbsp;CNN BrasilO que beber em jejum para reduzir o cortisol matinal e melhorar a energia segundo estudos recentes&nbsp;&nbsp;Tua SaúdeBeber água quente ao acordar faz bem? Veja o que diz a tendência \"chinamaxxing\"&nbsp;&nbsp;TerraBeber água em jejum: como aderir ao hábito que desincha o rosto e ‘ativa’ o metabolismo&nbsp;&nbsp;ND MaisMuitos têm o hábito de beber água ao acordar, ainda em jejum, mas especialistas revelam o que isso faz com o",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -297,7 +297,7 @@
       "id": "752781071731",
       "title": "Medicamentos GLP-1 dão golpe duplo contra obesidade e alcoolismo - Correio Braziliense",
       "published": "2026-05-01T08:00:00+00:00",
-      "summary": "Medicamentos GLP-1 dão golpe duplo contra obesidade e alcoolismo&nbsp;&nbsp;Correio BrazilienseSemaglutida reduz consumo excessivo de álcool em pacientes com obesidade, diz estudo&nbsp;&nbsp;Folha de S.Paulo",
+      "summary": "Medicamentos GLP-1 dão golpe duplo contra obesidade e alcoolismo&nbsp;&nbsp;Correio BrazilienseSemaglutida reduz consumo excessivo de álcool em pacientes com obesidade, diz estudo&nbsp;&nbsp;Folha de S.PauloMedicamento para obesidade avança no tratamento do alcoolismo, revela estudo&nbsp;&nbsp;Bloomberg Línea Brasil",
       "sources": [
         {
           "name": "Correio Braziliense",
@@ -318,26 +318,26 @@
       ]
     },
     {
-      "id": "a49dbc0079af",
-      "title": "Malária pode ter moldado evolução humana, aponta estudo - G1",
-      "published": "2026-05-01T07:02:06+00:00",
-      "summary": "Malária pode ter moldado evolução humana, aponta estudo&nbsp;&nbsp;G1Humanidade tenta fugir de áreas com mosquitos há 74 mil anos, mostra estudo&nbsp;&nbsp;SuperinteressanteEstudo diz que Malária pode ter moldado evolução humana&nbsp;&nbsp;Olhar DigitalLocais que primeiros humanos viveram na África foram moldados pela malária&nbsp;&nbsp;CNN BrasilEste assassino ancestral ditou onde humanos poderiam sobreviver, ou não, na África durante 74 mil anos: o mosquito&nbsp;&nbsp;Xataka Brasil",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR0JlSzY5NUk5YWN2ZTZ6RmFVeDhBWk1wdjhNWGFwbTU1MUlubldZZkdfdXBobnprVnlWTlFPZkdfWjliRmtLeTlGdExWVHQxLWVsQUNlU2d4WkZkVDZMZzE1VTJLeWtVX2g1cjJ1WUZ0WEM5bnh4ZmJPOGw1azJzd2dxcTNjUURJaGZLMmFQVVZUdi1LTGduWjM1WlJVZ1Jkb2JlTzc1NE1Nd9IBuAFBVV95cUxNRTQwMmNGT0dvOXduVTNlcndOdkxuU3E0RkJGM25VZ0tPellIT1hBNGpOa25VVDlpa3hnU1M5VVJXVnFXUy1BOWwxbWU3VEdGTzQ0dzZob0wyQWRZbTNXZVJhMS12MXJHRFRYWVAtbFJSM3dQaGRBbHdrY1NVQXdfSUJLTVRKQ3VRamdkR2R2cUM4RHhRbEVGVjJEdndIajNSX1ZtRTY2eEVNYlpQRWRNQk9RVXJXQmhz?oc=5"
-        }
-      ]
-    },
-    {
       "id": "503d68296877",
       "title": "Estudo alerta que pequena porção de ultraprocessados pode levar a demência - CNN Brasil",
       "published": "2026-05-01T07:00:42+00:00",
-      "summary": "Estudo alerta que pequena porção de ultraprocessados pode levar a demência&nbsp;&nbsp;CNN BrasilComo ultraprocessados afetam intestino, imunidade e saúde mental&nbsp;&nbsp;MetrópolesPouca quantidade de ultraprocessados já é suficiente para elevar risco de demência, indica pesquisa&nbsp;&nbsp;TerraOs alimentos ultraprocessados mais consumidos no frio que podem prejudicar a imunidade&nbsp;&nbsp;Correio Braziliense“A indústria de ultraprocessados criou a ideia de que cozinhar é complicado”, afirma ",
+      "summary": "Estudo alerta que pequena porção de ultraprocessados pode levar a demência&nbsp;&nbsp;CNN BrasilOs cientistas concordam: \"O consumo regular de ultraprocessados reduz a diversidade da microbiota intestinal em poucas semanas&nbsp;&nbsp;Tua SaúdeComo ultraprocessados afetam intestino, imunidade e saúde mental&nbsp;&nbsp;MetrópolesPouca quantidade de ultraprocessados já é suficiente para elevar risco de demência, indica pesquisa&nbsp;&nbsp;TerraOs alimentos ultraprocessados mais consumidos no frio q",
       "sources": [
         {
           "name": "CNN Brasil",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRzdrdmRPWnZJZEU1ams1MU9Da2JKTnJNbzJGRC1XdjBObElDOEt2VEdVNk5FeXNxdGM3OGV6aHVPRWlvbmluX1ZPWU1aSEw5d3JrN0RPcGtBLVp1ZjBRUGtPTFF0dVd6LVdsNTZISS1uc2Myc0JuUHlnTGgtV1Y4V2hxU09RZUFuMG5iN3liNjdiZmU2dVFfaVNRVVJaTnNRSmlsQVNHWExPRVNiVmZR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2d301524395f",
+      "title": "O que a perda de peso rápida pode fazer no rosto? Entenda a queixa estética com canetas emagrecedoras - O Globo",
+      "published": "2026-05-01T05:00:57+00:00",
+      "summary": "O que a perda de peso rápida pode fazer no rosto? Entenda a queixa estética com canetas emagrecedoras&nbsp;&nbsp;O GloboCanetas emagrecedoras: o efeito colateral na pele que ninguém te conta&nbsp;&nbsp;Estado de Minas\"Rosto mais velho\": queixa cresce após emagrecimento muito acelerado&nbsp;&nbsp;Metrópoles'Rosto mais velho': queixa cresce após emagrecimento muito acelerado&nbsp;&nbsp;TerraO custo invisível do emagrecimento rápido: O aumento dos casos de queda capilar severa associados ao uso de…",
+      "sources": [
+        {
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYWZRcW9JNlBKTFFCUXVscG9lZVl1SjNQWGliWVF6b0lKX1RLZnpSdGdVU0FNNFJoLUZpejBZai05SUtxSDJjMXhOazZ5ZGpuVW4tYlBIcnBfV1ZlVkNySzAyRk43ZDF6aDNpWGtfZUlfdXlOZThrWUtEd1NuaTN2cEVpRHk5T3N1bktpMkVUNEw2VU51WEw5Xy1KS2dOX3hiVVppX0x0ZmlsVTRENzJGYjdCZDBLU3g2VXl5dEhDOUQyVTB5ak5mWkNlRmxFbmNHc0F3RzRNZUJZYWNuQTFSX3h6QURZTFdSQkHSAfgBQVVfeXFMTzRZZnZEaUtJR1NBbVVFTVROckJNWmVSU01Gcjl6VW5NbjRzVkY4RTdzWkJydzZjcUpwMWZTbktVTmp0TG1ESFRCTExjYVZkZjNTQ1lIMU5vSGVtcF9fMUhmV3lxMTYwVWF5Q3RIMzQ2UlNuVnd5N3dQMGk5XzB4YjhNZk9CSjBYN3l5bEp4TWc5UTRld1hJb2xYRjFHbDRaV0pqZjh0V3NiRjc3MUVkRTAySXpCV1NmSjhGVldiUVN2SGhMaV9Pd3VzcDdTMEYtMUhRam80ZVphT2RQa3JFNWs5bEhuZDJYajEtenZVNVFUQmpZUzNMRnM?oc=5"
         }
       ]
     },
@@ -354,6 +354,18 @@
       ]
     },
     {
+      "id": "9c7d28766d57",
+      "title": "FAPERJ divulga resultado preliminar do edital Pesquisador na Empresa - FAPERJ",
+      "published": "2026-04-30T21:23:50+00:00",
+      "summary": "FAPERJ divulga resultado preliminar do edital Pesquisador na Empresa&nbsp;&nbsp;FAPERJ",
+      "sources": [
+        {
+          "name": "FAPERJ",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1UdkRiRkNvOUprOFlXN1E4UnBqZXlsM0dPZWVjUV9KVjFvaExrSWlUMVN0RFZDSGZPaUx1TC1DeldSTlVocG5OeEpB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c9813638f0bc",
       "title": "Não há vantagem em ser calvo, barbudo ou deprimido - Folha de S.Paulo",
       "published": "2026-04-30T21:00:00+00:00",
@@ -362,18 +374,6 @@
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONlVNQ2Etei1VZEE2aThvQVlFY19jYzdNaHR6RC1SRnBLeHpGelVWUUU1dEhLVXNSZ1RUaV9qT3M5U0VGN1FobV9PODNBTlI0YUNlT1ZMUzFmYzVURXdHRkhObml6aTliamc1SlQ1eW01eWV4WFBaS0o1ZjNLUEQ4OVFvOXQ2c3J4MjkwUXdNcWVJVUMzNDRCUXdUUXRMS2NnZTdKdmpKZW15MF81VUNRdHhkb2pWQUk0TTNteFlCeEfSAcYBQVVfeXFMT3Q3NDlXNXBHcW5vN3dUaXV2MjlBam51U1BTSGJFdHdiOGkzWkV6TTd3T3JrN0w3dXI4NGdKY3BYM2pOSmZZTkRlV2NYMU54LWo0ekxvX1lnOFh6aG9HTzdnZURpZDlDNjJuaUNmSWVyTDBTQ0g2VFd3OU9aTExiNkZJS20tNURFLWRYS0Y3TDE4c2FSUlVMVzRPanRfc1R1Z3FlTjNQUDZybnBnRzF4blItMU0xY1lBeGZUNlJHR0JXQ0VBbFNn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "777aa4869f5b",
-      "title": "Ômega-3 pode afetar negativamente cérebros lesionados, aponta estudo - Metrópoles",
-      "published": "2026-04-30T20:33:59+00:00",
-      "summary": "Ômega-3 pode afetar negativamente cérebros lesionados, aponta estudo&nbsp;&nbsp;MetrópolesÔmega 3 pode ter um efeito colateral no cérebro ruim, revela novo estudo&nbsp;&nbsp;O GloboO que o consumo do ômega 3 faz no cérebro e na memória&nbsp;&nbsp;Correio BrazilienseSuplemento popular entra em debate após estudo apontar risco inesperado&nbsp;&nbsp;DIARINHOSuplementos de óleo de peixe ômega-3: O que acontece com o corpo se você tomar em excesso?&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sdTZkUWZqMUVKUmVNemVTbzdHam5SQUwzTE1EWE1WQXIzMV9vVFczUk92Z3FnemdWeVJMR1REZVZYRlZXdXAwY0QyYVNEYm53VzhOb0YtdjdZclZ2RWE2czBRbnVPUQ?oc=5"
         }
       ]
     },
@@ -390,18 +390,6 @@
       ]
     },
     {
-      "id": "6da739e07cf7",
-      "title": "Vírus que lota hospitais no outono não é só de criança: idosos correm risco - UOL",
-      "published": "2026-04-30T17:36:49+00:00",
-      "summary": "Vírus que lota hospitais no outono não é só de criança: idosos correm risco&nbsp;&nbsp;UOLEntenda o que é bronquiolite, seus perigos e sintomas&nbsp;&nbsp;MetrópolesVilão da vez: associado aos resfriados comuns, rinovírus dispara na Bahia&nbsp;&nbsp;Metro 1Aumento de doenças respiratórias em crianças preocupa hospitais em Caruaru&nbsp;&nbsp;G1SBIm realiza webinário sobre prevenção de VSR em menores de 2 anos&nbsp;&nbsp;SBIm - Sociedade Brasileira de Imunizações",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfQlE3RmtNUXhxTUFMWFhhcC1JYWRKNzVvXzA5dEx0R3hiMXpGOHc5cFFtSWIzRkdMbzgzWXlhVnFVazRYbUxlLVg2SzV2TExWaHl1RHlnM29zblF5WHNjNnFqLXpCNk5zNTR5U0RsX3NLOTN1TDhrTlNHcXpZbjQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "03d93d66a40e",
       "title": "3 mil moedas vikings são descobertas no mesmo local; fotos - Globo",
       "published": "2026-04-30T16:01:19+00:00",
@@ -414,25 +402,25 @@
       ]
     },
     {
-      "id": "263729936e4f",
-      "title": "Cardiologista diz o que pode reduzir a eficácia do remédio de pressão - Metrópoles",
-      "published": "2026-04-30T13:26:00+00:00",
-      "summary": "Cardiologista diz o que pode reduzir a eficácia do remédio de pressão&nbsp;&nbsp;MetrópolesA retenção de líquido não se deve apenas ao excesso de sal, mas sim à deficiência de potássio e à circulação linfática lenta&nbsp;&nbsp;Tua SaúdeConheça o sal que pode reduzir risco de infarto e AVC em até 15%&nbsp;&nbsp;Veja SaúdeSal com potássio pode reduzir em até 15% o risco cardiovascular&nbsp;&nbsp;CNN BrasilO problema na pressão alta não se deve apenas ao excesso de sal, mas sim ao baixo consumo de ",
+      "id": "2a663ce91018",
+      "title": "Serpente 'enigmática' descoberta em Mianmar desafia a lógica da biologia - Exame",
+      "published": "2026-04-30T08:39:03+00:00",
+      "summary": "Serpente 'enigmática' descoberta em Mianmar desafia a lógica da biologia&nbsp;&nbsp;Exame",
       "sources": [
         {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbHJkaGhqQnJXLVZGN1F3TFlCYjMwSE1tZnpTWjBBQnQ4Y1U2N2UtaDdXLThaVDMtRW1WQXhNQl9tUmw5RWNKaExhVnpyOTl1SGRYV1VkQV96M2YzSDBVb012NWdCNjdmenI4TTdRa3lNbG42LWZGbHRUZlRzNDB3b3J3X3k3dThyTkZ0anpGRU5aMlVtZGhXSkhaaXZ2R3k5a0w2TG9pQmZVeWVfZnVEM2txVGtGREluY1JjMWh3?oc=5"
+          "name": "Exame",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaWVYQ3BUYlM4eHFRRHRKWnhwVUNWT3ktOVRYZlNWRUhCdUVBaEp1UmctdWNrUE0zWGE5SldEM2JJSjI1UXE3SFp4QTh5T0h5bXczanNPY2l0NGR0VWs5aGpfTWhfQkU1YS0xZFNMaFkwY25pV1hoVW0za1JNRThhcHpHSm1fVTFWVDlWTUlpa1FoZjlhbDFPcVQzQVRxdw?oc=5"
         }
       ]
     },
     {
-      "id": "299309fc13b4",
-      "title": "CNPq lança edital de bolsas com R$ 120 milhões e foco em projetos de pesquisa - GOV.BR",
+      "id": "64b6c9ce0363",
+      "title": "CNPq lança edital de bolsas com R$ 120 milhões e foco em projetos de pesquisa - www.gov.br",
       "published": "2026-04-29T21:10:32+00:00",
-      "summary": "CNPq lança edital de bolsas com R$ 120 milhões e foco em projetos de pesquisa&nbsp;&nbsp;GOV.BR",
+      "summary": "CNPq lança edital de bolsas com R$ 120 milhões e foco em projetos de pesquisa&nbsp;&nbsp;www.gov.br",
       "sources": [
         {
-          "name": "GOV.BR",
+          "name": "www.gov.br",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZEdrekRtWlY0clZXVlNhRDBweUExNy1Ha0ZnQ1p4YXVyRkxyVlBFVlI2SjBrNFZsSTJ0eDZDN0pESmhRSXVxeTNxZnNIMGZ2ejl3R0dLYURvVWxHMDQ4alNGV3ZkZ2dVQl8yQ2pkVXRrUTZsNUNwckkyN0txUkRiM3RQRG1OX2lxU3A3VzFWTGlpTnhxLWtkajdjRlE0dFFJZ3NCeVBoRUk0MU9YS1hCN1FHUjdBNDk4c0MyeEl5dVZiYXlRU0xMMG1qNlpHNXowXzBLdDZjOA?oc=5"
         }
       ]
