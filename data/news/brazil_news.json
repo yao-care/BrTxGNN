@@ -1,10 +1,22 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-05-02T02:53:31.318987+00:00",
+  "fetched_at": "2026-05-02T07:47:43.570393+00:00",
   "total_fetched": 102,
   "unique_count": 102,
-  "health_related_count": 35,
+  "health_related_count": 37,
   "news": [
+    {
+      "id": "f10dd07d15db",
+      "title": "Café e envelhecimento: estudo revela mecanismo que pode explicar ligação com longevidade - Super Rádio Tupi",
+      "published": "2026-05-02T03:56:37+00:00",
+      "summary": "Café e envelhecimento: estudo revela mecanismo que pode explicar ligação com longevidade&nbsp;&nbsp;Super Rádio Tupi",
+      "sources": [
+        {
+          "name": "Super Rádio Tupi",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcHdBV0llRklGM0tIUTdIVDVWNEhpUFlrYXlEN1JhRS04Vkt0THRMNG4yMmc5ZVpOTTNHSVRGblpQUnJDVkpDT1ZZU21RemtlU2tzTktRTmZvRFRwUWh6REkya2hoNDl1OVZHR2Z6UHZuZjFCcjQ3aS05dUFCME9KdVBGbHd1ZWlyMXNNd3hobkpZbmlRS1RCM3lHRmk2MW1PSXg1SFhNb1oyZVlfc2o0Vng5TWRseFhFUEl2V1BFQTU?oc=5"
+        }
+      ]
+    },
     {
       "id": "60e7b296f780",
       "title": "Pressão alta ao nascer eleva risco de hipertensão na infância - Folha de S.Paulo",
@@ -26,18 +38,6 @@
         {
           "name": "Correio Braziliense",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZXRGMXR5QWNpOTJNWWhpZUZya2FPa3lJMG1SVmxZR0NPRXhJdnNFbm5Jb3ZCRzU0eVFGMUhNcWJsLW01ZEZJOUNMZ2JxcE5JQWJQcFpCUHRnTmI0MjNadl9xSjM0UFZWbmFWR0JFcURUR0x5eGpOS01VdjFoUzVRSUx3NmVkNUxmT1ZVWDZLWG4yTXMtbXBsSkc4OHpNbzhDLVpxNW11c2J1Y0pkZXl6cWdsQlo3Z2tPR2w0c3ZpQ2NpLTl0QXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bb258c21d3b0",
-      "title": "Fundação Edson Queiroz recebe homenagem pela criação do Centro de Neurodesenvolvimento em Doenças Raras - Diário do Nordeste",
-      "published": "2026-05-01T18:40:45+00:00",
-      "summary": "Fundação Edson Queiroz recebe homenagem pela criação do Centro de Neurodesenvolvimento em Doenças Raras&nbsp;&nbsp;Diário do Nordeste",
-      "sources": [
-        {
-          "name": "Diário do Nordeste",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQaW14SlJFUGpLUHo0WjZPUHprMk5JMkhDcEdjQWpuWHRDeE1XdUU5NzVHRFJVSF9KOHZWQWpiZDFFWHI5QmsycWV5UlRtYWJ2Qy1KZXNBbS1QODZVdGdDREZFeGtIaFJjY1pJd3NPRUdUU3JrcFZ3Z2ZQTzJZODZMTERyTzdEOVhjaW9zZUNIX3ZCN2dmbHE3SGlZRkJuZE5nLWxlRy1GMnlfVE5YV2trVXQzWXpjN215ZXpkdFJHWm5QWHloRm5pMWJSY2oyeTFYZWpwa0N2S2VhX1UwLWhtWE1ja2F5aGJmcGhRaEZGTld5dUFxV2c?oc=5"
         }
       ]
     },
@@ -81,11 +81,47 @@
       "id": "8af81d9f9aea",
       "title": "Casos de caxumba crescem quase 50% no Rio e autoridades reforçam a importância da vacinação; saiba como se imunizar - Extra online",
       "published": "2026-05-01T17:06:17+00:00",
-      "summary": "Casos de caxumba crescem quase 50% no Rio e autoridades reforçam a importância da vacinação; saiba como se imunizar&nbsp;&nbsp;Extra onlineCasos de caxumba aumentam cerca de 50% no Rio e autoridades reforçam a importância da vacinação&nbsp;&nbsp;Tribuna do SertãoCasos de caxumba aumentam quase 50% no Rio e autoridades reforçam importância da vacinação&nbsp;&nbsp;Tribuna do Sertão",
+      "summary": "Casos de caxumba crescem quase 50% no Rio e autoridades reforçam a importância da vacinação; saiba como se imunizar&nbsp;&nbsp;Extra onlineRJ alerta aumento de quase 50% nos casos de caxumba no estado&nbsp;&nbsp;R7Casos de caxumba aumentam cerca de 50% no Rio e autoridades reforçam a importância da vacinação&nbsp;&nbsp;Tribuna do SertãoCasos de caxumba aumentam quase 50% no Rio e autoridades reforçam importância da vacinação&nbsp;&nbsp;Tribuna do Sertão",
       "sources": [
         {
           "name": "Extra online",
           "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOc2s2ckFaVlh0eEp3eE1kSF9KM1lkWE5vVVRzNmFWR0otY1JlTVFaSFpqWlh2RlFEclNtQi1memdoTWFGNEVxOHhKdUdRX2M1QVZucHlFM3BLbF9pd2J6bzBpRFBMVGtWMXNaYWZHN2dDT0ZLZHRRNEZCcm5EU0FsMU1DcEItNnZEQXc5WVV5anNUc2k5dy1XekZYQWlxOUJGQ0phdTVNOTFsVTJmcjQ3VU4zaklwLWF3YThpNDJrcmoxOXhWQldmSGVRdkRCSXM0T3k5ZTloYTUzQVRiTjI3dFZvV2JTak5TNEZmS011TWVYazVjVGhxdlpuUmk4NXPSAY4CQVVfeXFMUG01aEhQQ3BRLVRVd3lwZlFoak5SaXhfbVB5c19JTV9xQUs2aWxiVjlSaWxiVzJ6THljREJxQmx6WUtmbzlEeWFzQkJ3TFZfaG80ZENTZFFPVUJSdmM2TnFOUVk5cS1tVUZwMl84X3JBS0V3RFVZaXhxcTFuNHM0a21Yc0pZemxCQldBSF9KZzFnMUJGTWhZVkpEcV9PUWl4ZmRHaGNyMmhkM0g1LUFVZnpZbGdBQkhCb2JPanMtQ09lOXRrMnRfYkxWTFk4eDZMeG9MX1hpaGxUaEJwLWVxX0x1X2YzTDdEcm5POHVMY0JnaUt6RmtMMVJscTVMN1F1NTBXNW5kRXoxWHV2Y2Jn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3fbc21e4d5fb",
+      "title": "Câncer de pâncreas: por que a taxa de sobrevivência permanece em apenas 13% após 5 anos? Estudo explica - O Globo",
+      "published": "2026-05-01T16:16:55+00:00",
+      "summary": "Câncer de pâncreas: por que a taxa de sobrevivência permanece em apenas 13% após 5 anos? Estudo explica&nbsp;&nbsp;O GloboObesidade na adolescência acende alerta para câncer colorretal precoce&nbsp;&nbsp;R7Casos de câncer de pâncreas crescem entre jovens, aponta estudo&nbsp;&nbsp;TerraCientistas descobrem a primeira pista para explicar porque é que 11 tipos de cancro estão a aumentar entre os jovens&nbsp;&nbsp;ExpressoIncidência de câncer entre jovens cresce 79% em três décadas&nbsp;&nbsp;Tribun",
+      "sources": [
+        {
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPV2FJa3FobjFNN25wWk1zUmdSUzI5Q2lONVBNQnozZjVFM3BEeWlUaElXVC1WWDlSY2tIRFdhRnd6VVNJZVVoV1RNUVdkS2RnZDRXNjJmQjFVUHR3dWtTMFlSLV9xTGZUckRNTVZBS3RUUG84TEN3RTNLY0NiMHhlWFBxb083RGctdFROSUZPTHhLWkRxa29GN2dQaWhiQXYyQzB1M3Y3c0FXOXJUS19JZC0zWU9jd1ZsbXFfR25QSWNhbURjT2EyaGhQQ2tVTW5qby1nY2FSWTRBNThfOTZFeEtpa3hEbFVYcWhnS0hxc3RNX1hia2lmQWpGMnVEQdIBjAJBVV95cUxNZ2h4ZTBuZ1lPNmEyVUpmaVBCZ1lFME02c3hwM1IwYnBfbHgtRnRQYjktb1RtYWtESU1KT3I4eGdMRFpsTUJBNXc0OFE5UDhOS2ZpN2pEVi1ZMVhiNGJqbjRPOG9SanoxaFI3ZHp6N01taTdCZGxGNVZEdmN4UGFCNVF0QXZFU1RuTm8wYU8zcWk0TWtXYk5rRDFJLWM2Sm9aY2NnTWRzMlpPM2xDQ1lReFh6RmZoU0NKN3VPZm4zaFVtSUVXZF8xVVgwX0JFbWpuWTdmbUQxSTVLc0djMHk1RF9ybjY0VHVjTm5NbDdINnRzRVRNblk3UE5VRVQzR3kxUXJsQ0tadl9RbjhL?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "917c00af4353",
+      "title": "África está se partindo mais rápido do que o esperado, afirma estudo - Metrópoles",
+      "published": "2026-05-01T15:56:23+00:00",
+      "summary": "África está se partindo mais rápido do que o esperado, afirma estudo&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80QURBb0pjTlVRWTlHZmd0b1VUcjhITjkzOVNsQ3R4UTBVOUdXcHViVGVlUU5hMERBV1pHcl9maGljRGNhajVDaFEtWFYxR2pDS2hybHppOE0xSGV2TlNrQUJkWk9Jam1qSFJaMGw2SXhqLU05OXk1NEVyOA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "eb2a17ec5f2d",
+      "title": "Cientistas encontraram vasos sanguíneos preservados dentro dos ossos de um T. Rex de 66 milhões de anos, e a descoberta abre a possibilidade de extrair proteínas originais do dinossauro pela primeira vez na história - CPG Click Petróleo e Gás",
+      "published": "2026-05-01T15:18:00+00:00",
+      "summary": "Cientistas encontraram vasos sanguíneos preservados dentro dos ossos de um T. Rex de 66 milhões de anos, e a descoberta abre a possibilidade de extrair proteínas originais do dinossauro pela primeira vez na história&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOdV9vd2Y0dWRfdmlpYnhlM1RjOWdQcUtEWmlCeWUyQjBKQS1ZTVJkcmpOdVlsWlJfbEF2Mi1YNVhJWmxsLTNkYTBDYktReXo5dDZuMXBrYVYzZjMxUllnQi1nclZ2OTF2VWwwUS1xdjUwaWhJMUlKTVhVSHF1YXM1ZG00WWxMeDlhNW5uOTRFTWtCSFRXWkE3VG10TUJNMFIwZWpkM01yVm53eXJrOVIxdHM5eVoxLUFuQTd2NUlyVWZPcTBaRFZOWHVnbTFoRkVEVUpVb2kyMWctbENFOGtsaUZ4VHBrbmw3eHVabE5BNURZb2hQUVJrWVBLMXZrZEJqZDJhNjM4dnRXMXQzVEdjSU9jOGZkYUk5R3g0Ml9YWmxOeTkwVTV6ZFR0ZmtkbTVUbUZjMDgzUEZDdXFqVWM0a3I4MlJGQQ?oc=5"
         }
       ]
     },
@@ -138,6 +174,18 @@
       ]
     },
     {
+      "id": "98135ab8c9ff",
+      "title": "Estudos recentes mostram que crianças que brincavam livremente na rua sem regras estruturadas com frequência estavam construindo o que hoje é conhecido como resiliência emocional - Correio Braziliense",
+      "published": "2026-05-01T11:35:00+00:00",
+      "summary": "Estudos recentes mostram que crianças que brincavam livremente na rua sem regras estruturadas com frequência estavam construindo o que hoje é conhecido como resiliência emocional&nbsp;&nbsp;Correio Braziliense",
+      "sources": [
+        {
+          "name": "Correio Braziliense",
+          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOZmpzSE5faVliN3RrR3hqcDhGR0JFZ0hNRmdfdVNmaXU5Y3hETlBLOC1xUkpMU1VlQ0VQOGRGcWFjb0x5RFJqZERraTJDeFM2VWNRbUdBRVFJU2JBVURZeTR1T0JsV2R3REZPOVZZY21lam9OTDgzTUZkb29fYWd3Snlacl9ZcFItREg3Rm54U2R0ZGZMY21MWFNyZlZoNWJsLV94TFhRM3V5eVl4TFhoT3dzbVFJZEZWcVQ1WFNCZ0VuUjNHeXhzaUZwazk4LUxDNUR4UTJSbkhtN0hGM21ka3lxRGhzVHdjUGtfa1FUc0NmOWJVRmNOQV9HdkQ0dFpKTS1RMnZ6dGsySnJxQ0RfSU1pbmxQVFdZZV9BUTYtd1JPTm5kcTlOQUtIUEZhVWwtNGVzZVM0eFdweTVpS0I5M1hVTU5CX2RX?oc=5"
+        }
+      ]
+    },
+    {
       "id": "fcd48e117c00",
       "title": "Um asteroide localizado a cerca de 300 milhões de quilômetros continha as cinco letras básicas de DNA e RNA, e a descoberta mais uma vez questiona a ideia de que a vida começou apenas na Terra - Catraca Livre",
       "published": "2026-05-01T11:07:00+00:00",
@@ -162,6 +210,18 @@
       ]
     },
     {
+      "id": "73ad91b2467c",
+      "title": "Não é 1, nem 4: quantas xícaras de café uma pessoa deve beber por dia para reduzir o estresse, segundo estudo - Portal 6",
+      "published": "2026-05-01T09:43:52+00:00",
+      "summary": "Não é 1, nem 4: quantas xícaras de café uma pessoa deve beber por dia para reduzir o estresse, segundo estudo&nbsp;&nbsp;Portal 6Estudo aponta quantas xícaras de café por dia ajudam a reduzir o estresse&nbsp;&nbsp;TerraBeber café todos os dias faz mal à saúde? O que dizem os estudos&nbsp;&nbsp;Rádio ItatiaiaCafé: nova pesquisa revela os efeitos positivos da bebida no eixo intestino-cérebro, explicando como ela age no humor e bem-estar&nbsp;&nbsp;O GloboO alimento comum que pode aumentar a ansied",
+      "sources": [
+        {
+          "name": "Portal 6",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPR1JtaURFUkJRZ01RMkR1T2R5VjduUWJIRVkydWlpVEdxclJpeVpiLUtfNjBxTl90Z1JpWFVUbWp2Q29ySS15andBTS1xbEpNR3dUNlQ5VVFYbjZxZnNYYVpTTTBtV0g1ZVpQMFByTHpaRFNQN1NTWVJ0OERVLTM1a1p0REdjX2NJUFhna0Q0OWJXZXphY2hRNjh4aU5qSnhCTklnY1hTOXdMSFJrU1NaR2RxUWVhbm1NVlpjSm9SUjhwWVg3VzhKUk12UXZ6eTkwQ0FzUTVsV0c?oc=5"
+        }
+      ]
+    },
+    {
       "id": "7834928d01a1",
       "title": "Quebra de patente pode baratear em até 30% ‘caneta emagrecedora’; em MG, 3 em cada 10 estão obesos - O TEMPO",
       "published": "2026-05-01T09:00:01+00:00",
@@ -177,7 +237,7 @@
       "id": "09d202c84d3f",
       "title": "Chinamaxxing: beber água quente de manhã faz bem? - CNN Brasil",
       "published": "2026-05-01T08:00:16+00:00",
-      "summary": "Chinamaxxing: beber água quente de manhã faz bem?&nbsp;&nbsp;CNN BrasilBeber água quente ao acordar faz bem? Veja o que diz a tendência \"chinamaxxing\"&nbsp;&nbsp;TerraO que beber em jejum para tratar a inflamação intestinal e garantir a absorção de proteína de acordo com a ciência&nbsp;&nbsp;Tua SaúdeBeber água em jejum: como aderir ao hábito que desincha o rosto e ‘ativa’ o metabolismo&nbsp;&nbsp;ND MaisMuitos têm o hábito de beber água ao acordar, ainda em jejum, mas especialistas revelam o qu",
+      "summary": "Chinamaxxing: beber água quente de manhã faz bem?&nbsp;&nbsp;CNN BrasilO que beber em jejum para tratar a inflamação intestinal e garantir a absorção de proteína de acordo com a ciência&nbsp;&nbsp;Tua SaúdeBeber água em jejum: como aderir ao hábito que desincha o rosto e ‘ativa’ o metabolismo&nbsp;&nbsp;ND MaisMuitos têm o hábito de beber água ao acordar, ainda em jejum, mas especialistas revelam o que isso faz com o corpo&nbsp;&nbsp;MSNBeber água morna ao acordar faz diferença? Especialista exp",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -201,7 +261,7 @@
       "id": "0e6a0a835dca",
       "title": "Eu adoro musculação. Eu realmente preciso fazer cardio também? - O Globo",
       "published": "2026-05-01T07:30:40+00:00",
-      "summary": "Eu adoro musculação. Eu realmente preciso fazer cardio também?&nbsp;&nbsp;O GloboQuer viver mais? O segredo pode estar em uma simples mudança nos exercícios&nbsp;&nbsp;UOLMais treino, menos risco? Sim, mas nem sempre depois dos 35 anos | Letra de Médico&nbsp;&nbsp;VEJA5 benefícios de atividades físicas para idosos acima de 80 anos&nbsp;&nbsp;Correio do EstadoEstudo com 15 mil brasileiros comprova que atividade física é o melhor investimento para o envelhecimento&nbsp;&nbsp;The Conversation",
+      "summary": "Eu adoro musculação. Eu realmente preciso fazer cardio também?&nbsp;&nbsp;O GloboEstudo com 15 mil brasileiros comprova que atividade física é o melhor investimento para o envelhecimento&nbsp;&nbsp;TerraQuer viver mais? O segredo pode estar em uma simples mudança nos exercícios&nbsp;&nbsp;UOLAtividade física e saúde mental: os benefícios do exercício aumentam com a idade&nbsp;&nbsp;Tua SaúdeCardio ou musculação? Ciência revela o melhor treino para viver mais&nbsp;&nbsp;Exame",
       "sources": [
         {
           "name": "O Globo",
@@ -225,7 +285,7 @@
       "id": "503d68296877",
       "title": "Estudo alerta que pequena porção de ultraprocessados pode levar a demência - CNN Brasil",
       "published": "2026-05-01T07:00:42+00:00",
-      "summary": "Estudo alerta que pequena porção de ultraprocessados pode levar a demência&nbsp;&nbsp;CNN BrasilPouca quantidade de ultraprocessados já é suficiente para elevar risco de demência, indica pesquisa&nbsp;&nbsp;TerraComo ultraprocessados afetam intestino, imunidade e saúde mental&nbsp;&nbsp;MetrópolesOs alimentos ultraprocessados mais consumidos no frio que podem prejudicar a imunidade&nbsp;&nbsp;Correio Braziliense“A indústria de ultraprocessados criou a ideia de que cozinhar é complicado”, afirma ",
+      "summary": "Estudo alerta que pequena porção de ultraprocessados pode levar a demência&nbsp;&nbsp;CNN BrasilComo ultraprocessados afetam intestino, imunidade e saúde mental&nbsp;&nbsp;MetrópolesPouca quantidade de ultraprocessados já é suficiente para elevar risco de demência, indica pesquisa&nbsp;&nbsp;TerraOs alimentos ultraprocessados mais consumidos no frio que podem prejudicar a imunidade&nbsp;&nbsp;Correio Braziliense“A indústria de ultraprocessados criou a ideia de que cozinhar é complicado”, afirma ",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -246,14 +306,14 @@
       ]
     },
     {
-      "id": "b274edf68a24",
-      "title": "Um estudo revelou quantas xícaras de café por dia são recomendadas para reduzir os níveis de estresse - Super Rádio Tupi",
-      "published": "2026-04-30T23:31:57+00:00",
-      "summary": "Um estudo revelou quantas xícaras de café por dia são recomendadas para reduzir os níveis de estresse&nbsp;&nbsp;Super Rádio TupiEstudo aponta quantas xícaras de café por dia ajudam a reduzir o estresse&nbsp;&nbsp;TerraBeber café todos os dias faz mal à saúde? O que dizem os estudos&nbsp;&nbsp;Rádio ItatiaiaCafé: nova pesquisa revela os efeitos positivos da bebida no eixo intestino-cérebro, explicando como ela age no humor e bem-estar&nbsp;&nbsp;O GloboO alimento comum que pode aumentar a ansied",
+      "id": "9c7d28766d57",
+      "title": "FAPERJ divulga resultado preliminar do edital Pesquisador na Empresa - FAPERJ",
+      "published": "2026-04-30T21:23:50+00:00",
+      "summary": "FAPERJ divulga resultado preliminar do edital Pesquisador na Empresa&nbsp;&nbsp;FAPERJ",
       "sources": [
         {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbFVDRERhQzRlZ3JMZ01tZ21tNUl4MXdyeHFuMmV5bWtJRTE0OGtNUWVJQ0lXaVg3OGh1Z2xNbWhhczU3LVlUbk1VRFc1WjBTYy1Bdkp4UkdjalhrV2FBeVRIREN6S1ZBTEZEQ00tOTdWM1J4NTVXSHVIRmh1S2lzeE5kdXpCdTl1QnloWjdVOUZXeDRBS2FKaTB3dlNuUi0weTBycmxsd0ZLY2Q4eHFHTjdLRDM0XzlUM01hSDJSYl9iV3hNdVB3Tm0ydmZveE1jWFE4?oc=5"
+          "name": "FAPERJ",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1UdkRiRkNvOUprOFlXN1E4UnBqZXlsM0dPZWVjUV9KVjFvaExrSWlUMVN0RFZDSGZPaUx1TC1DeldSTlVocG5OeEpB?oc=5"
         }
       ]
     },
@@ -366,22 +426,10 @@
       ]
     },
     {
-      "id": "37c0a87be48a",
-      "title": "Bebê de seis meses morre após diagnóstico de meningite no Norte de SC - OCP News",
-      "published": "2026-04-30T12:32:12+00:00",
-      "summary": "Bebê de seis meses morre após diagnóstico de meningite no Norte de SC&nbsp;&nbsp;OCP NewsMorre bebê de Papanduva internado em Joinville com meningite&nbsp;&nbsp;G1Bebê de 6 meses morre após dias internado com meningite em SC&nbsp;&nbsp;ND MaisBebê morre após complicações por meningite bacteriana em SC&nbsp;&nbsp;PortalRBVBebê de seis meses morre por meningite em Papanduva e saúde reforça importância da vacina&nbsp;&nbsp;gazetasbs.com.br",
-      "sources": [
-        {
-          "name": "OCP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZEpGUThRMlVGQXpHTk53Rl9OSVNiZ2E5Z0Yta0JzbTgxMEtjS0p3UmloOVNwVC1kdlR0NlF1cUFlMjlqWUE3M0drYWpScEMweVc1T3VLM2V5MzZVbkRMYlJNYmxLRElpWFVIT1BLdVFNMzF2MUt3TV9SRF8xUkVFTnNSbV9YUTNvVW9UWFBIZjVXeVZjUVBJbzY3dFE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6d0954ced0e4",
       "title": "Não são 6 horas, nem 8 horas exatas: quantas horas devemos dormir para acordar revigorados e reduzir risco de demência - Portal 6",
       "published": "2026-04-30T12:14:37+00:00",
-      "summary": "Não são 6 horas, nem 8 horas exatas: quantas horas devemos dormir para acordar revigorados e reduzir risco de demência&nbsp;&nbsp;Portal 6Sono revela ‘idade cerebral’ e pode indicar risco de demência, sugere estudo&nbsp;&nbsp;VEJACientistas dizem qual é a quantidade ideal de sono para reduzir o risco de demência&nbsp;&nbsp;Época NegóciosSaiba como fazer a higiene do sono para melhorar a recuperação do cérebro&nbsp;&nbsp;Portal ZummDormir pouco é a decisão mais cara que tomas todos os dias&nbsp;&",
+      "summary": "Não são 6 horas, nem 8 horas exatas: quantas horas devemos dormir para acordar revigorados e reduzir risco de demência&nbsp;&nbsp;Portal 6Sono revela ‘idade cerebral’ e pode indicar risco de demência, sugere estudo&nbsp;&nbsp;VEJAEntenda por que dormir 7 horas por noite ajuda a retardar o envelhecimento&nbsp;&nbsp;CartaCapitalFalta de sono pode prejudicar a saúde&nbsp;&nbsp;G1Saiba como fazer a higiene do sono para melhorar a recuperação do cérebro&nbsp;&nbsp;Portal Zumm",
       "sources": [
         {
           "name": "Portal 6",
@@ -398,30 +446,6 @@
         {
           "name": "CNN Brasil",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY2VITWE5Rjc5dmxXamlCUlRuVHFsc2VWd05xSEwtWG5rSEhTVFdSN0FHT2w1Mm1HbVVGLVJIYnE2Q0RKVTloa3VqZmdJMXY5c3lVNkwzQzhXWldycHlqQzJIcmhadUdITWhUWXhXck10NU5EU0FfVDQwazJuc2RFVWgwY2g3YzRyWVIzVE5lQnJsOTdm?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ff371e00711a",
-      "title": "Quer começar a se exercitar sem tanto sofrimento? Veja 5 dicas práticas de especialistas - O Globo",
-      "published": "2026-04-30T07:30:57+00:00",
-      "summary": "Quer começar a se exercitar sem tanto sofrimento? Veja 5 dicas práticas de especialistas&nbsp;&nbsp;O Globo",
-      "sources": [
-        {
-          "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTVBFQzdBTVBVZWFTN0dIaXg5TTNBZFpmdU1UWDhxVUpWV0xjdy1yWnRORXhpM3M2VXZyak5RZWRwNFIxb0lfNTQzOW5pVmJkZkF5YUh4TUFRYjNLeWpvRFE1Ujd0dUdjRjF2dXctcG1HVFJJa0tJdkgySFRuMGZuUnFBTmRVYS1Wa2xzNGg4VE5CRlFuTmYwYmJxUWhFUURiZURzZkxKclZNbTh6N09zM2wyUUhIaVozZ28xVnN3RTBQb18wSDA2cFVUeGJ1Z2NNR29COE9wWnZaak3SAeoBQVVfeXFMT2I0NkQyY0xRMlp3MW14SmN4ZEd6ZWo1bFY2eDBPUzRIQlBiVjEyNnpta2czazZBSjM5cEd5elhSVFMwZWRiai15RVpUd3l1UDZETmJnSFFwbU51SWd4enFjc3JOTkQzZjRyY2l2RURfYkVjQjdVRlJtOGhpUG11TjBZRDgySXNwa0FuS01UUkJMUjFGZ3B3NXlQREkzYThITzk4eVRNMERmMU1hZDBua3V2YW40ZjFjeU5YNVhBbnFrMXJBUEZHcmpYZnJEVjVUUHhVeFA5ZThLbWtXNlpYNkt4WDlsMEJUNHdR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "760a89fe22fd",
-      "title": "Saiba qual fruta popular pode ajudar a combater a gordura no fígado - Metrópoles",
-      "published": "2026-04-30T05:00:00+00:00",
-      "summary": "Saiba qual fruta popular pode ajudar a combater a gordura no fígado&nbsp;&nbsp;MetrópolesA nova doença que arruína o fígado e gera preocupação global&nbsp;&nbsp;Veja SaúdeHábitos simples, fígado mais forte&nbsp;&nbsp;Jornal de Cá – CartaxoBrasília (DF): Laranja é aliada para evitar gordura no fígado, diz especialista&nbsp;&nbsp;diário do estadoSaúde do fígado: musculação pode reduzir riscos de doenças hepáticas&nbsp;&nbsp;Super Rádio Tupi",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83ZVNzNlVLUWlCdXVFczNaTnk5Q19LOFdVTkZqMW5YMlIyck5vaWdIYlZWYmJHb25Da3FCanYweDBKS1dJdW53NnJDNW9lc3hYMnhmNjBWcnVqSGtiMEk3NS1NN2p4eUVlY0dIQlgxejQxVGVnalRsQ29MUmY?oc=5"
         }
       ]
     }
