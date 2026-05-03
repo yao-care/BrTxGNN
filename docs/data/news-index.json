@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-03T03:29:28.478641+00:00",
+  "generated": "2026-05-03T08:03:47.772690+00:00",
   "count": 31,
   "news": [
     {
@@ -39,6 +39,13 @@
           "keyword": "MOUNJARO",
           "name": "TIRZEPATIDA",
           "url": "/drugs/tirzepatida/"
+        },
+        {
+          "type": "drug",
+          "slug": "etodolaco",
+          "keyword": "DORE",
+          "name": "ETODOLACO",
+          "url": "/drugs/etodolaco/"
         }
       ]
     },
@@ -246,6 +253,33 @@
       ]
     },
     {
+      "id": "189f876a0831",
+      "title": "Pi, uma autobiografia infinita - Folha de S.Paulo",
+      "published": "2026-05-02T14:00:00+00:00",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLXlSazlvYVNPdE45dFFLLVFnWEQ0a0N5WGZsRTgyaVBtT3VTWFhlQ1VnSzd1UW5lZXluVkY0SjNpQ0JNWExtM2kxdnB1Y0VNTnB4NHVXZjBtRklTYnZvUU9RcWJLdjI4S2s4ME05VUkwc0EyMEktaFNXNWtZWGNxNFdmWVN5MkdhQkpBVFJGYVo4eS1YRW5FTDZaOWJfbzjSAaQBQVVfeXFMUHByN2p3em5kUW1hZW9aY0dXQTdtU3pBaG15dVpWNFA1US1FUG1RdkRuSFVwNnJWc2l5UndYNFB6SlR3cGlvNVZRb3F3cmFOSXJaSVlhamhXdUQ0elo3cTNSWTlOcnk0cVp4NnV6MGxyd3Bta0hIazQzZV91STBLVTd4LWhhc0sxMm5QdXFTMXNNbUlnS2RFZzZmRUp6V2tyRlFzSXY?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "golimumabe",
+          "keyword": "BIO",
+          "name": "GOLIMUMABE",
+          "url": "/drugs/golimumabe/"
+        },
+        {
+          "type": "drug",
+          "slug": "etanercepte",
+          "keyword": "BIO",
+          "name": "ETANERCEPTE",
+          "url": "/drugs/etanercepte/"
+        }
+      ]
+    },
+    {
       "id": "945e26a3f5b8",
       "title": "Stephen Hawking, físico teórico e cosmólogo: “Pessoas quietas e silenciosas costumam ter as mentes mais fortes e eloquentes.” - Super Rádio Tupi",
       "published": "2026-05-02T12:50:16+00:00",
@@ -380,6 +414,26 @@
       ]
     },
     {
+      "id": "7d6444ba7d8a",
+      "title": "Um estudo científico demonstra que o Etna é um vulcão com características únicas no mundo - Meteored Brasil",
+      "published": "2026-05-01T23:12:00+00:00",
+      "sources": [
+        {
+          "name": "Meteored Brasil",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORDQ5eHJPbW9TQ0swZ2U1QnpId0tQNlNFZkZnSzFiLXctTTJzMjdabmpQWFJ2TGQyVm1qWmVlMFJjU1czVVBISXBQWU83czNZbXhRQWc5NnF1bEJLQzRqXzgya3FiVm9ZNHRma1dxR0lSaHlIWFFwQUJMSE4xWHJjVzZUd0pnT0dVNl9kWnZDeEd0SmtrWHFfckVxSkhVN2VXVVdjZnR1cHVZX1BUUHJYcmgxSWhYUVV1dHlyRnhGUlhRS3AtSjZKaUp3Tmo0UQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
       "id": "1bc9aefcdf68",
       "title": "Paleontólogos encontram no Brasil um animal bizarro de 275 milhões de anos com mandíbula torcida, dentes virados para os lados e uma linhagem tão antiga que já parecia um fóssil vivo em sua própria época - CPG Click Petróleo e Gás",
       "published": "2026-05-01T22:14:00+00:00",
@@ -461,6 +515,26 @@
       ]
     },
     {
+      "id": "aea6dfed236d",
+      "title": "Metajatos, o luminoso \"Wingardium Leviosa\" que promete levar naves espaciais ao espaço sem a necessidade de combustível - Xataka Brasil",
+      "published": "2026-05-01T19:30:26+00:00",
+      "sources": [
+        {
+          "name": "Xataka Brasil",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVk44alJWeU9LSjRiaW81TkRyQTk3bURaYWhCZFQzWVpucE5KanB3VWlZNlBHRE1TSmtmQTNpaUtjQUVNdUxZSnlxUENNbFRTbGh1N0FRU0hqcFFsai1haU1YVmhzUnE2SWFkWDFBOWNZNWZUUkJrc3E2WHduNzQtYks5TFJuenpVdDNLVDZubWtCQlZmUm50X3JFNkhSa212QjdlcC1kUUJEVlUwV3JBZlBTN0tIaDNUZFpOazViMXpQRk1SRHdVbFZpX1JaS1E1M3ROdDhDS1kxRUhWTXc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
       "id": "4fe06faed21e",
       "title": "Alguns meteorologistas já estão comparando o El Niño de 2027 com o de 1877, um evento catastrófico que dizimou 4% da população - Xataka Brasil",
       "published": "2026-05-01T18:30:25+00:00",
@@ -468,46 +542,6 @@
         {
           "name": "Xataka Brasil",
           "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRUZ0RV9jT1lwMUd0VEpmTFNaTFVmZ1o2b3A3Z283RmdZTmRGRTdtLXREUVpxNEtNc2M0UXlqWlhvX1VqNkxaRXo2MUFuVnlLQlZ5NFlZa2NDUnpBcTlOQ2d3TTlaQ0J6Y3lTWG5vaGhqNjB1dGdRbGY3YkFaRS0xaUZrQlJkdmNFVEdjX2p6V3JVRVYtNVVYTHZYTTMzWDBEa1ZhZkhtNGRuUG9mYTBzYTc4RHdOdy1xY0YxeGc0dkdWYXRLaHYwY2lYYUhtWWw5OUtvN2t1cVc2ZE1fbGVXSDhiNzU2Zw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
-      "id": "d8c007fb5b4b",
-      "title": "China já sabe como manter uma frota de drones no ar indefinidamente, o problema é que existem muitos desafios - Xataka Brasil",
-      "published": "2026-05-01T18:00:26+00:00",
-      "sources": [
-        {
-          "name": "Xataka Brasil",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcDFyUm03al9scTJUZ2VGOGs1azJ6SGJZZGlXdUtGaU5selR5Q1VFcjhpSVMteDBjYVZWNjAyRGc2N1R1TDZESmN3eDFLbHZCTl8yUVFNb19URXF6VHkyZnl2NUwwWUdEWlkwVWdJMjNCbTdhRHBtSjFhS1NiWWlvaGdtTWFHSXpUbHdMVkNwMEh0OG9LSG5tWTVSSC1WRzdSb3NxUm9sZlRCaldEa19pODVnZ1ZZb0Vxam4tdDFyZ0V1bGdvZVRzZjk0RlotNXBDQ1lNVA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
-      "id": "0c8599568848",
-      "title": "A China prova que é capaz de cortar cabos de internet até mesmo a 3.500 metros de profundidade - Xataka Brasil",
-      "published": "2026-05-01T17:10:26+00:00",
-      "sources": [
-        {
-          "name": "Xataka Brasil",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMDZhYXZtZWFXdFBmUl91S3N2OWdNaEVLMHAtaWxtc3VoamxKNlU4UHdRMDZLdUVveHBNc0I3X19ab3h5UXY4QndMZnlMQUJoTVo5RzVlNkxuYWljdWplb3dBOWZwREFFa0J2MHZYc2g2YThKT0EwdEowNkxVM3E4emVUQTZfQzlzc0d3RWZoMEkzSWZ4MU9sZ2h6ODVET0lOa0hDMUh0ejRFNFl2WDFPZVZFeERpNlJHQ2QxbA?oc=5"
         }
       ],
       "keywords": [
@@ -923,6 +957,13 @@
         }
       ],
       "keywords": [
+        {
+          "type": "drug",
+          "slug": "tadalafil",
+          "keyword": "TADA",
+          "name": "TADALAFIL",
+          "url": "/drugs/tadalafil/"
+        },
         {
           "type": "indication",
           "name": "generic_cancer",
@@ -1879,26 +1920,6 @@
               "name": "Albendazole"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "7661ca9f804b",
-      "title": "Cientistas descobrem espécies de moscas nunca encontradas no Brasil - CNN Brasil",
-      "published": "2026-05-01T06:37:09+00:00",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTFRBWlY5eDBKaGpWUnk0dUFRMVNJS2RadmVkbzZpOEl1WFVPTWhfWUxCejZpODlRVTh3dXozRFJ6ZHVpMEEwb1ZaV3VETnFud1RKQ0hVa1dmdHFRdW1GelBPQmVmVDBiRHU3WjlVUGQ4WW5PczkwYzhmYWV1eVJUOGFKNlBaSkZTYWRXYlR5RUIxTnNBOUlDQ0VxVkZRQTM0dkdGRlBzOWo?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
         }
       ]
     }
