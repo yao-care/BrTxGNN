@@ -94,5 +94,10 @@ O TxGNN não gerou previsões de reposicionamento para Abacavir Sulfate neste ci
 - Baixar e analisar a bula (PDF) junto à ANVISA para verificar advertências e contraindicações (remediação DG001)
 - Verificar e atualizar o **status regulatório atual** na ANVISA para confirmar ausência ou presença de registros ativos
 - Com os dados completos, re-executar o ciclo de Evidence Pack para gerar um relatório de reposicionamento completo
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

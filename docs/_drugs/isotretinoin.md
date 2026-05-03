@@ -107,5 +107,10 @@ A previsão do TxGNN é sustentada apenas pelo modelo computacional (nível L5),
 - Conduzir estudos pré-clínicos in vivo em modelos de hipertensão renovascular antes de qualquer consideração de ensaio clínico
 - Recuperar detalhes completos dos 3 registros para confirmar formas farmacêuticas disponíveis (oral vs. tópica)
 - Considerar se a segunda indicação prevista (nefropatia hipertensiva maligna) compartilha o mesmo perfil de risco/benefício antes de priorizar qualquer uma das duas
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

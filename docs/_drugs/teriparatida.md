@@ -97,5 +97,10 @@ O Evidence Pack está estruturalmente incompleto — sem previsões TxGNN e sem 
 ---
 
 > ⚠️ **Nota**: Este relatório é gerado a partir de um Evidence Pack incompleto. Os dados de natureza clínica e regulatória precisam ser validados antes de qualquer uso. Este documento é estritamente para fins de pesquisa e não constitui aconselhamento médico.
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -114,5 +114,10 @@ O score elevado do TxGNN (99,24%) reflete homologia do gene proglucagon com GLP-
 - Realizar busca bibliográfica direcionada por estudos usando glucagon (não GLP-1 RAs) em distúrbios funcionais intestinais e SII
 - Avaliar se o efeito antiespasmódico GI do glucagon — já documentado em endoscopia — é farmacologicamente sustentável e relevante para a SII
 - Caso as lacunas acima mostrem sinal favorável, desenhar um estudo exploratório de Fase 1/2 com glucagon especificamente em SII antes de avançar no pipeline de reposicionamento
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

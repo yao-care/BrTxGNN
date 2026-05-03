@@ -73,5 +73,10 @@ O Evidence Pack não contém previsões de novas indicações pelo TxGNN, e o f�
 - **Verificar cobertura no KG:** Confirmar se "AMOXICILLIN SODIUM" está mapeado no grafo de conhecimento — possivelmente o fármaco está indexado apenas como "AMOXICILLIN" (forma livre), sem o sufixo do sal
 - **Reprocessar previsão TxGNN:** Após normalização do nome INN e mapeamento DrugBank, reexecutar o pipeline de previsão
 - **Investigar registros ANVISA alternativos:** Buscar sob variantes do nome, como "AMOXICILINA", "AMOXICILLIN TRIHYDRATE" ou o nome comercial correspondente
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

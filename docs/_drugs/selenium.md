@@ -109,5 +109,10 @@ As evidências disponíveis para o uso de selênio em Colangite Esclerosante sã
 - Obter dados detalhados do mecanismo de ação (MOA) do selênio nas vias biliares, em especial o papel das isoformas GPx e SELENOP no epitélio colangiocítico
 - Recuperar informações completas dos registros ANVISA (indicações aprovadas, advertências, contraindicações da bula)
 - Estabelecer faixa de dose terapêutica segura, diferenciando suplementação nutricional de dose farmacológica, dado o estreito intervalo terapêutico do selênio
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

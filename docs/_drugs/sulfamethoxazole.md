@@ -100,5 +100,10 @@ Embora a previsão do TxGNN seja mecanisticamente razoável — e a classe sulfo
 - Investigar se existe formulação tópica oftálmica de sulfamethoxazole ou avaliar o uso do análogo de classe **sulfacetamida** como proxy de evidência
 - Buscar ensaios clínicos de fase 2/3 com sulfonamidas tópicas para conjuntivite bacteriana aguda como evidência de classe
 - Avaliar perfis locais de resistência bacteriana antes de qualquer proposta terapêutica, dado o crescente problema de resistência a sulfonamidas
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -125,5 +125,10 @@ O Plerixafor possui mecanismo de ação diretamente aplicável à leucemia mielo
 - Confirmar dados de MOA detalhados via DrugBank API (DG002 — severidade High)
 - Avaliar se a posologia aprovada para mobilização de células-tronco é compatível com os esquemas de quimiossensibilização em LMA utilizados nos ensaios clínicos
 - Planejar estudo de Fase 2/3 randomizado para elevar o nível de evidência de L2 para L1 e viabilizar aprovação regulatória formal na nova indicação
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

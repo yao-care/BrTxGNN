@@ -119,5 +119,10 @@ Celecoxib possui dois ensaios Phase 3 concluídos diretamente em EA/axSpA (n=458
 - Obter advertências, contraindicações e interações medicamentosas completas da bula ANVISA (dados de segurança atualmente indisponíveis)
 - Avaliar necessidade de estudo de uso real (real-world evidence) brasileiro, dado que os ensaios Phase 3 foram conduzidos principalmente em populações asiáticas e europeias
 - Definir protocolo de monitoramento cardiovascular e renal para uso contínuo em pacientes com espondilopatia, especialmente em uso combinado com agentes biológicos (anti-TNF)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

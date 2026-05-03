@@ -121,5 +121,10 @@ A formulação sublingual de cyclobenzaprine (TNX-102 SL / TONMYA) obteve aprova
 - Avaliar viabilidade regulatória de registro no Brasil (ANVISA), dado que o produto não possui comercialização local
 - Definir estratégia de formulação e posologia para MPS (oral IR 10 mg TID, ER 15–30 mg QD ou sublingual de baixa dose), considerando perfil de segurança diferenciado por formulação
 - Mapear população-alvo específica: MPS aguda vs. crônica, subgrupo orofacial vs. axial vs. generalizado
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

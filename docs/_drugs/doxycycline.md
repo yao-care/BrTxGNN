@@ -99,5 +99,10 @@ A previsão TxGNN tem base mecanística indireta (doxycycline como agente etiol�
 - Regularizar o status junto à ANVISA — o registro de doxycycline no Brasil é esperado dado seu uso clínico difundido; recomenda-se auditoria da base de dados consultada
 - Avaliar a viabilidade de formulação tópica ocular como via de administração alternativa
 - Obter dados de segurança locais (contraindicações, interações medicamentosas e advertências da bula brasileira) antes de qualquer avanço no pipeline
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

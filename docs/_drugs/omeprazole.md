@@ -108,5 +108,10 @@ O único ensaio clínico identificado é puramente diagnóstico (não avalia Ome
 - Realizar revisão sistemática da literatura sobre Omeprazole ou PPIs em refluxo biliar e duodenogástrico
 - Fazer download e análise da bula registrada na ANVISA para completar os dados de advertências e contraindicações (DG001 — bloqueador)
 - Consultar especialistas em gastroenterologia para avaliar se o refluxo duodenogástrico representa uma indicação clínica distinta e tratável com PPI
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

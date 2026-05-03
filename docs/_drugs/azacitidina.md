@@ -85,5 +85,10 @@ O Evidence Pack está incompleto em itens bloqueantes: o pipeline TxGNN não ger
 - **[Bloqueante]** Coletar os detalhes dos 11 registros ANVISA: números de registro, nomes comerciais, formas farmacêuticas e textos das indicações aprovadas
 - **[Bloqueante]** Baixar e parsear a(s) bula(s) ANVISA para extrair advertências principais, contraindicações e posologia
 - **[Recomendado]** Investigar por que a consulta de DDI retornou `not_found` — tentar com variações do nome INN ("azacitidine", "5-azacytidine") e reprocessar
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

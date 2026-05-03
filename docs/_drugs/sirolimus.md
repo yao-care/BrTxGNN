@@ -126,5 +126,10 @@ Existe um ensaio Phase 2 multicêntrico concluído (NCT02821507, n=70) que testo
 - Avaliação do processo de registro junto à ANVISA ou estratégia de uso compassivo/ensaio clínico local
 - Definição do subgrupo de pacientes mais propenso a responder: liposarcoma desdiferenciado com ativação confirmada de mTOR por biópsia (imuno-histoquímica para pS6, p4E-BP1)
 - Elaboração de plano de monitoramento de imunossupressão, infecções oportunistas e dislipidemia em contexto oncológico
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

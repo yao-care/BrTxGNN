@@ -103,5 +103,10 @@ A previsão do TxGNN baseia-se exclusivamente em padrão do grafo de conheciment
 - Confirmar mecanismo de ação completo via DrugBank API (resolve DG002)
 - Realizar busca manual em PubMed com termos combinados: `ibuprofen AND (GDF5 OR "skeletal dysplasia" OR chondrocyte OR "bone morphogenetic protein")` para verificar se há literatura relevante não capturada pelo coletor automático
 - Consultar especialista em doenças raras ou genética médica para avaliar plausibilidade biológica antes de qualquer etapa de desenvolvimento clínico
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

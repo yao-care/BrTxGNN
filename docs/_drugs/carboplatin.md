@@ -135,5 +135,10 @@ O Carboplatin possui evidência de Nível L1 para carcinoma de mama feminino, su
 - Especificação dos subtipos de mama elegíveis para uso prioritário: TNBC neoadjuvante, HER2-positivo (esquema TCH/TCHP), portadoras de mutação BRCA — cada subpopulação requer guardrail clínica própria
 - Verificação da função renal de base dos pacientes para cálculo individualizado de dose pela fórmula de Calvert (ClCr obrigatório)
 - Recuperação dos dados detalhados dos 20 registros ANVISA para confirmação de indicações aprovadas, formas farmacêuticas disponíveis e restrições de uso no contexto brasileiro
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

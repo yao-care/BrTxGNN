@@ -79,5 +79,10 @@ O modelo TxGNN não gerou previsões de reposicionamento para aclidínio brometo
 - Complementar dados de **mecanismo de ação (MOA)** via DrugBank API
 - Verificar dados de **segurança** (DDI, advertências, contraindicações) em fontes alternativas como ANVISA, EMA ou DrugBank
 - Investigar possibilidade de **registro futuro** na ANVISA, avaliando se há dossiê em análise
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

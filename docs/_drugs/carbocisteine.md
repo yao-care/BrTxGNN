@@ -98,5 +98,10 @@ A previsão do TxGNN para gota baseia-se exclusivamente no score do modelo (nív
 - Realizar busca bibliográfica ampliada sobre Carbocisteine e metabolismo de urato ou purinas
 - Investigar in vitro a hipótese de proteção antioxidante mediada por glutationa em modelos de gota
 - Considerar como indicação prioritária **Bronchite (rank 2, score 98,77%, decisão: Proceed with Guardrails)** — possui plausibilidade mecanicista direta comprovada (inibição de sulfomucina, melhora da clearance mucociliar) e nível de evidência superior (L5/L1★)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

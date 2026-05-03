@@ -153,5 +153,10 @@ Romiplostim possui múltiplos ensaios Phase 3 concluídos e dados de uso real (P
 - Definir se "platelet-type bleeding disorder" representa extensão regulatória de indicação ou uso dentro do escopo já aprovado de ITP no Brasil
 - Para indicações com recomendação **Research Question** (FNAIT — rank 4; MYH9-RD — rank 9), avaliar viabilidade de protocolos de estudo piloto, considerando que ambas possuem racional mecanístico parcial e evidências de caso/série
 - Confirmar MOA completo via consulta à bula e DrugBank API (Data Gap classificado como severidade High)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -108,5 +108,10 @@ A Cefazolin apresenta cobertura microbiológica incompleta para os principais pa
 - Consultar a bula ANVISA para extrair contraindicações e advertências oficiais
 - Levantar dados de sensibilidade microbiológica contemporânea dos patógenos otológicos locais (perfil MSSA/MRSA)
 - Confirmar, via consulta ao portal ANVISA, os detalhes dos 20 registros (nome comercial, indicações aprovadas, posologia)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

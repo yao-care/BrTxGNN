@@ -112,5 +112,10 @@ Há três ensaios clínicos Phase 4 concluídos com metodologia robusta (randomi
 - Verificar a viabilidade regulatória no Brasil: desloratadine sem registro na ANVISA exige processo de registro ou uso via importação/uso compassivo
 - Definir protocolo de monitoramento para uso em alta dose (10–20 mg), que excede a dose-padrão de 5 mg aprovada internacionalmente
 - Conduzir revisão sistemática formal da evidência antes de qualquer protocolo clínico brasileiro
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

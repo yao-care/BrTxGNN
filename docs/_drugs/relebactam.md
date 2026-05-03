@@ -107,5 +107,10 @@ Apesar da pontuação TxGNN elevada (99,22%), não existe base biológica plaus�
 - Obter advertências e contraindicações do produto via bula PDF da ANVISA (DG001)
 - Investigar se alguma das 10 indicações previstas possui ao menos uma hipótese mecanística indireta (ex.: septicemic plague — única com mínima plausibilidade biológica anotada no Evidence Pack) antes de descartar completamente o conjunto de previsões
 - Considerar revisão dos parâmetros de treinamento do TxGNN para fármacos da classe β-lactamase inhibitor, dado o padrão sistemático de previsões sem suporte mecanístico
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

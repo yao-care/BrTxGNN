@@ -102,5 +102,10 @@ A previsão do TxGNN para displasia acromesomélica tipo Hunter-Thompson baseia-
 - Levantar o mecanismo de ação completo (MOA) via DrugBank API para confirmar perfil COX-2
 - Redirecionar a análise de reposicionamento para as indicações de maior suporte mecanístico (espondiloartropatia, JIA RF+), onde o perfil anti-inflamatório de Meloxicam é clinicamente relevante
 - Obter advertências e contraindicações da bula ANVISA para completar a avaliação de segurança (S1)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

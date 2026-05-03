@@ -107,5 +107,10 @@ A previsão do TxGNN é mecanisticamente plausível e apoiada por evidências ob
 - Dados de MOA completos via consulta à DrugBank API (DG002 — severidade High)
 - Dados de segurança, advertências e contraindicações via bula ANVISA/TFDA (DG001 — severidade Blocking)
 - Avaliação de interações medicamentosas com antitireóideos (propiltiouracil, metimazol) e betabloqueadores utilizados na gestão do hipertireoidismo
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

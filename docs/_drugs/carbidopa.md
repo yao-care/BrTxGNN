@@ -61,5 +61,10 @@ O pacote de evidências não contém previsões de reposicionamento pelo TxGNN e
 - **DG002 (Alta prioridade):** Consultar a API do DrugBank (DB00190) para obter o mecanismo de ação completo, necessário para a análise de plausibilidade mecanística
 - **Reexecutar o pipeline TxGNN** após resolução das lacunas acima para gerar candidatos de reposicionamento com pontuação e evidências associadas
 - **Verificar mapeamento de doenças e integração com o knowledge graph** para garantir que o fármaco esteja corretamente representado no grafo de conhecimento antes de nova rodada de predição
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

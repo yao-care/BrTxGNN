@@ -99,5 +99,10 @@ Embora o mecanismo GABA-A do Flunitrazepam seja farmacologicamente compatível c
 - Verificar o status atual de controle especial do Flunitrazepam no Brasil (Portaria SVS/MS nº 344 — portaria de psicotrópicos)
 - Obter dados de mecanismo de ação via DrugBank API (remediation do Data Gap DG002)
 - **Prioridade alternativa recomendada**: Avaliar formalmente a indicação **Delirium por Abstinência Alcoólica (rank 6, score 99,50%)**, que possui o suporte clínico mais robusto neste evidence pack — com estudos clínicos diretos de Flunitrazepam IV em UTI (PMID 8214408: série de 25 casos; PMID 14557857: coorte em UTI cirúrgica; PMID 42267 e PMID 6123125: estudos clínicos piloto de 1979 e 1981), tornando-a a candidatura de reposicionamento com melhor relação evidência/mecanismo neste conjunto de dados.
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -83,5 +83,10 @@ O Evidence Pack está estruturalmente incompleto — ausência de previsões TxG
 - **\[Alta prioridade\]** Reexecutar o pipeline TxGNN para gerar previsões de novas indicações — verificar se o fármaco está presente no vocabulário do modelo (`drugbank_vocab.csv`)
 - **\[Médio\]** Popular os campos de registro regulatório: número de registro ANVISA, nome comercial, forma farmacêutica e texto completo da indicação aprovada
 - **\[Médio\]** Revisar a busca de DDI (resultado `not_found`) — confirmar se a ausência é real ou se o identificador usado na busca estava incorreto
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

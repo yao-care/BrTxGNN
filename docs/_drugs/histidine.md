@@ -100,5 +100,10 @@ O nível de evidência é L5 — a previsão baseia-se exclusivamente no modelo 
 - Obtenção do perfil completo de MOA via DrugBank (lacuna DG002)
 - Levantamento das advertências e contraindicações junto à ANVISA/bula disponível (lacuna DG001)
 - Avaliação da viabilidade regulatória no Brasil antes de qualquer estudo clínico
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

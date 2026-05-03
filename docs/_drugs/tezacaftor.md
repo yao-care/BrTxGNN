@@ -98,5 +98,10 @@ Todas as 10 indicações previstas pelo TxGNN para Tezacaftor estão classificad
 - Preencher os dados de registros ANVISA (número, nome comercial, indicação aprovada) para caracterização regulatória completa (DG001 — severidade Blocking)
 - Investigar indicações com maior proximidade fisiopatológica à fibrose cística, como bronquiectasias não-CF, DPOC com disfunção de CFTR ou outras channelopatias, que poderiam ter maior plausibilidade de reposicionamento
 - Reavaliar o modelo TxGNN após complementar os dados de indicação original no Knowledge Graph, a fim de reduzir o viés de previsão observado
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

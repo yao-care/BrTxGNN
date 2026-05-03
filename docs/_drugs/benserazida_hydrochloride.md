@@ -89,5 +89,10 @@ O TxGNN não gerou previsões de reposicionamento para este composto devido à a
 - Obter a bula completa para extração de advertências, contraindicações e interações medicamentosas
 - Verificar se há registros ANVISA sob o nome do produto combinado (levodopa + benserazida, ex.: Madopar®)
 - Após reprocessamento com DrugBank ID, reavaliar as previsões TxGNN geradas antes de decidir sobre avançar
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

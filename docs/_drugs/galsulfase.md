@@ -100,5 +100,10 @@ A previsão do TxGNN para esta indicação é classificada como L5 (apenas predi
 - Detalhar o mecanismo de ação (MOA) via consulta à API do DrugBank (DB01279)
 - Completar os detalhes do registro ANVISA (número de registro, nome comercial, forma farmacêutica, indicação aprovada)
 - Priorizar a reavaliação da indicação de **Rank 10 — Síndrome de Scheie (MPS I-S)**, que apresenta conexão biológica mais plausível (ambas as condições envolvem acúmulo de dermatan sulfate) e conta com 4 publicações de suporte; embora a distinção enzimática entre IDUA (MPS I) e ARSB (MPS VI) impeça substituição direta, o tema merece análise aprofundada
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -108,5 +108,10 @@ A pontuação TxGNN de 96,25% indica que o modelo identificou um sinal no grafo 
 - Obter registro junto à ANVISA antes de qualquer uso clínico no Brasil
 
 > ⚠️ **Aviso:** Este relatório destina-se exclusivamente a fins de pesquisa. As previsões do TxGNN não constituem aconselhamento médico e requerem validação clínica antes de qualquer aplicação.
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

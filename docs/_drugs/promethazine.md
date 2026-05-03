@@ -106,5 +106,10 @@ Não existe nenhum ensaio clínico nem publicação que apoie o uso de Promethaz
 - Extração das advertências e contraindicações da bula oficial via ANVISA (DG001) antes de qualquer avaliação de segurança
 - Regularização do status regulatório: registro na ANVISA seria pré-requisito para qualquer estudo clínico conduzido no Brasil
 - Considerar redirecionar esforços para as indicações de rank 2 (Urticária Alérgica, L3) e rank 4 (Rinite, L3), que apresentam evidências reais e recomendação "Proceed with Guardrails"
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

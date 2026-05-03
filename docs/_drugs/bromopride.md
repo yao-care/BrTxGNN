@@ -91,5 +91,10 @@ O modelo TxGNN não gerou previsões de reposicionamento para Bromopride, e exis
 - Investigar por que o TxGNN não gerou previsões — verificar a conectividade de DB09018 no grafo de conhecimento (node.csv / kg.csv)
 - Avaliar se o fármaco possui indicações aprovadas em outros países (ex.: Brasil/ANVISA, Itália/AIFA) que possam servir como âncora para uma nova rodada de predição
 - Considerar a inclusão manual de relações fármaco–doença no KG, caso Bromopride tenha indicações documentadas não capturadas pelo grafo atual
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

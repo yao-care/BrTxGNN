@@ -86,5 +86,10 @@ O Evidence Pack não contém previsões TxGNN, indicações originais estruturad
 - Obter bula e informações de segurança completas (advertências, contraindicações) via ANVISA ou FDA/EMA
 - Confirmar as indicações originais aprovadas internacionalmente e registrá-las no campo `original_indications`
 - Avaliar viabilidade de registro no Brasil caso uma candidatura de reposicionamento seja identificada
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

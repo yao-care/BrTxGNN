@@ -114,5 +114,10 @@ As evidências disponíveis para Polymyxin B em bronquite são de nível L4 (sem
 - Obter advertências e contraindicações da bula oficial (ANVISA/FDA) — dado bloqueante (DG001)
 - Conduzir revisão sistemática focada no perfil de segurança brônquica de Polymyxin B inalado
 - Avaliar a viabilidade de registro no Brasil antes de qualquer estudo clínico local, dado que o fármaco não está comercializado no país
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

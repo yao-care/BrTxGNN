@@ -90,5 +90,10 @@ O Evidence Pack está incompleto de forma bloqueante: sem previsões TxGNN, sem 
 - Incorporar os dados do DrugBank (1 resultado confirmado) para obter MOA, categorias farmacológicas e perfil de segurança
 - Pesquisar registros de bupropiona na ANVISA utilizando variações de nome (ex.: bupropiona, cloridrato de bupropiona, Wellbutrin, Zyban)
 - Re-processar o Evidence Pack com todos os dados preenchidos antes de gerar um novo relatório
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

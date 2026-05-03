@@ -74,5 +74,10 @@ O Evidence Pack não contém previsões TxGNN nem dados regulatórios, de segura
 - Baixar e analisar a bula do fabricante para obter dados de MOA, advertências e contraindicações (fonte: ANVISA / bula eletrônica)
 - Reexecutar a consulta de interações medicamentosas (DDI) com o DrugBank ID confirmado
 - Com o DrugBank ID válido, reexecutar o pipeline TxGNN para gerar previsões de novas indicações
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

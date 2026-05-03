@@ -110,5 +110,10 @@ As evidências disponíveis são insuficientes para sustentar o reposicionamento
 - Download e análise das bulas registradas na ANVISA para avaliar advertências e contraindicações (Data Gap DG001 — bloqueante)
 - Verificação de interações medicamentosas em bases especializadas (Drugs.com, DrugBank DDI module)
 - Avaliação da plausibilidade da via de administração (oral vs. tópica nasal) para que a glicina atinja a mucosa nasal em concentrações terapêuticas
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

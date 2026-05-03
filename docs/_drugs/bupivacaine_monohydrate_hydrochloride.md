@@ -71,5 +71,10 @@ O modelo TxGNN não produziu nenhuma previsão de reposicionamento para Bupivaca
 - Obter o DrugBank ID correspondente para acessar MOA, categorias farmacológicas e dados de segurança (Data Gap DG002)
 - Baixar e analisar a bula ANVISA/TFDA para preencher advertências, contraindicações e indicações originais (Data Gap DG001)
 - Reprocessar o candidato pelo TxGNN após correção do identificador para verificar se surgem previsões de reposicionamento
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

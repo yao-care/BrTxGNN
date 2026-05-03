@@ -122,5 +122,10 @@ Há pelo menos um ECR concluído com NAC (derivado direto da L-Cisteína) em pac
 - Definir a rota farmacêutica: L-Cisteína livre (tópica/oral) versus NAC como pró-fármaco para fins regulatórios no Brasil
 - Avaliar interações medicamentosas em populações-alvo com Síndrome de Sjögren em uso de imunossupressores
 - Conduzir ensaio clínico explorando especificamente L-Cisteína livre (não apenas NAC) como agente terapêutico para olho seco, para fechar a lacuna de evidência direta
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

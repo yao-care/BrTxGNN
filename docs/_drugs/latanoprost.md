@@ -100,5 +100,10 @@ Um ensaio clínico de Phase 2 concluído apoia diretamente o uso de Latanoprost 
 - Ampliar busca PubMed com termos alternativos: "latanoprost pediatric glaucoma", "latanoprost congenital glaucoma", "prostaglandin analogue childhood glaucoma"
 - Verificar disponibilidade e adequação da formulação colírio 0,005% para faixa etária pediátrica no Brasil
 - Consultar especialista em oftalmologia pediátrica para validação clínica antes de qualquer aplicação prática
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

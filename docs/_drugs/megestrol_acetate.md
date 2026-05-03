@@ -119,5 +119,10 @@ Megestrol acetate possui aprovação regulatória do FDA para carcinoma endometr
 - Avaliação de segurança específica para populações brasileiras, com foco em risco tromboembólico e supressão adrenal em uso prolongado
 - Definição do regime de dosagem-alvo (doses altas de 160–800 mg/dia são usadas em oncologia; doses menores para outras indicações)
 - Avaliação de viabilidade comercial considerando a ausência total de presença de mercado no Brasil
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

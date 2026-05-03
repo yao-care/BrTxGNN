@@ -102,5 +102,10 @@ A previsão TxGNN para conjuntivite papilar é fundamentada exclusivamente no mo
 - Avaliação da segurança ocular local — citotoxicidade, tolerância e irritação — de formulações tópicas com citrato de sódio em concentrações terapêuticas
 - Levantamento sistemático de literatura sobre citrato de sódio em formulações oftálmicas existentes (como excipiente ativo vs. inerte)
 - Avaliação regulatória junto à ANVISA para desenvolvimento de formulação oftálmica e eventual registro no Brasil
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

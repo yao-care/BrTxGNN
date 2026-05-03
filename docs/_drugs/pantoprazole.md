@@ -111,5 +111,10 @@ As evidências para uso de pantoprazol na úlcera péptica ativa são robustas, 
 - Mapear as formas farmacêuticas e vias de administração disponíveis (oral e intravenosa) e verificar compatibilidade com as necessidades do mercado brasileiro
 - Avaliar a necessidade de estudo de bioequivalência ou bridging study para submissão de registro na ANVISA
 - Conduzir revisão de farmacovigilância para populações especiais (insuficiência hepática, metabolizadores CYP2C19)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -105,5 +105,10 @@ Não existe nenhuma evidência clínica ou pré-clínica que sustente o uso de C
 - Confirmação laboratorial de agentes infecciosos (ex.: *Borrelia*, *H. pylori*) como gatilho causal em subgrupos específicos de pacientes com esclerodermia difusa
 - Dados completos de MOA (mecanismo de ação) via DrugBank API para análise formal de plausibilidade mecanística
 - Dados de segurança completos (bula ANVISA, advertências formais) antes de qualquer avaliação de risco-benefício
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

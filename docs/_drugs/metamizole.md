@@ -113,5 +113,10 @@ A literatura confirma o uso do Metamizole como analgésico adjuvante em doenças
 - Definir com precisão a hipótese terapêutica: **alívio sintomático de dor em RA** (como adjuvante) versus modificação da doença (inviável sem redesenho)
 - Iniciar processo de avaliação regulatória para viabilidade de registro na ANVISA, que atualmente não conta com nenhum precedente de licença para Metamizole no Brasil
 - Considerar priorizar a indicação de **Transtorno de Enxaqueca (Migraine Disorder)** — ranqueada em 2º pelo TxGNN (score 99,72%), com evidência L1 (1 Phase 3 RCT completo + 19 publicações, incluindo 2 Cochrane Systematic Reviews e 3 RCTs diretos), que apresenta base científica substancialmente mais robusta para desenvolvimento clínico
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -94,5 +94,10 @@ A previsão do TxGNN apresenta pontuação elevada (99,38%), porém não há qua
 - Verificar se existem formulações oftálmicas de benzocaína registradas em outros países e seus perfis de segurança
 - Registrar o fármaco na ANVISA antes de qualquer desenvolvimento clínico no Brasil
 - Considerar se a indicação-alvo justifica priorização frente a candidatos com evidência de nível L3 ou superior
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

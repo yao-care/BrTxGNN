@@ -131,5 +131,10 @@ O nível de evidência L2 é sustentado por pelo menos um ensaio de Fase 2 concl
 - Definir o contexto preciso de uso: 1ª linha (GEMOX) vs. 2ª linha pós-pemetrexed, e selecionar subpopulação com maior probabilidade de benefício
 - Avaliar viabilidade de combinação com imunoterapia (anti-PD-1/PD-L1) dado o potencial de indução de ICD pelo oxaliplatin
 - Considerar a via de administração HIPEC/PIPAC para subtipos peritoneais, dado o perfil farmacocinético favorável nessa abordagem
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

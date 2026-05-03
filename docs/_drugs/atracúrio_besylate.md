@@ -86,5 +86,10 @@ O Evidence Pack não contém previsões TxGNN, dados regulatórios brasileiros o
 4. **Recuperar bula via ANVISA** — baixar PDF da bula para extrair advertências, contraindicações e interações (necessário para resolução dos Data Gaps DG001 e DG002)
 5. **Reexecutar coleta de evidências** — após confirmar DrugBank ID, disparar coleta em ClinicalTrials.gov e PubMed para usos investigacionais do atracúrio (ex.: sedação em UTI, SDRA, status epilepticus refratário)
 6. **Revisar limiar de score TxGNN** — verificar se há candidatos com score abaixo do limiar padrão que justifiquem análise manual exploratória
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -105,5 +105,10 @@ O hidróxido de potássio é um reagente químico cáustico sem indicação tera
 - Considerar a exclusão de reagentes laboratoriais cáusticos da base de candidatos do pipeline de reposicionamento para evitar falsos positivos sistemáticos
 
 > ⚠️ **Aviso**: Os resultados deste relatório são de natureza exploratória e gerados por modelo computacional. Não constituem recomendação terapêutica nem substituem avaliação clínica especializada. O hidróxido de potássio é uma substância cáustica — qualquer uso experimental requer supervisão regulatória e toxicológica rigorosa.
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

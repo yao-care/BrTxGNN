@@ -109,5 +109,10 @@ A previsão do TxGNN reflete a sobreposição ontológica entre a MPS I (indica�
 - Detalhar o MOA de laronidase via DrugBank (DG002 High) para análise mecanística completa
 - Definir se o objetivo regulatório é ampliar formalmente a indicação ou documentar o envolvimento esquelético como desfecho no contexto da MPS I já aprovada
 - Documentar protocolos de monitoramento para **reações relacionadas à infusão** (característica conhecida da ERT com laronidase) e desenvolvimento de anticorpos anti-fármaco (ADAs)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

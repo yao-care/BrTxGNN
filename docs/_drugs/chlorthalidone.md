@@ -110,5 +110,10 @@ A única evidência clínica direta disponível (PMID 5597001) é uma observaç�
 - Investigar potencial interação farmacodinâmica com diuréticos de alça em regime combinado
 - Avaliar viabilidade de protocolo de pesquisa prospectivo (ex.: tiazídico vs. placebo como adjuvante em cor pulmonale com edema refratário à furosemida)
 - Verificar necessidade de registro ANVISA antes de qualquer ensaio clínico no Brasil
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

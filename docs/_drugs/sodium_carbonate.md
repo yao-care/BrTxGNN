@@ -122,5 +122,10 @@ Carbonato de sódio é um composto químico industrial sem indicações farmacê
 ---
 
 > ⚠️ *Este relatório é gerado por modelo de inteligência artificial com base em dados estruturados. As previsões são apenas para fins de pesquisa e não constituem recomendação médica. Todos os candidatos a reposicionamento requerem validação clínica rigorosa antes de qualquer aplicação terapêutica.*
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

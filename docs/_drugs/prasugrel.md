@@ -118,5 +118,10 @@ A previsão do TxGNN para prasugrel em hipertensão pulmonar encontra-se no nív
 - Obter advertências, contraindicações e interações medicamentosas da bula ANVISA (DG001)
 - Conduzir busca direcionada de estudos pré-clínicos com inibidores P2Y12 em modelos de hipertensão pulmonar antes de considerar qualquer hipótese translacional
 - **Considerar priorizar a indicação de rank 2 (Migraine Disorder, L4)** como candidato mais promissor: existem dados publicados de prasugrel e outras tienopiridinas reduzindo crises de enxaqueca em pacientes com forame oval patente (PFO), com maior plausibilidade mecanística e base de evidências inicial identificada
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

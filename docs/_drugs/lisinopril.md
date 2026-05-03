@@ -100,5 +100,10 @@ A previsão TxGNN para infarto do miocárdio posterolateral apresenta plausibili
 - Identificar análises de subgrupo estratificadas por localização anatômica do infarto nos grandes ensaios GISSI-3, ISIS-4 e CONSENSUS
 - Confirmar advertências e contraindicações na bula oficial — especialmente em contextos de estenose de artéria renal, onde IECAs representam risco de insuficiência renal aguda
 - Avaliar paralelamente a indicação de Doença Cardíaca Pulmonar Crônica, que já possui base clínica suficiente para a próxima etapa de desenvolvimento
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

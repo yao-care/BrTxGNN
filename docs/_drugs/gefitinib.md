@@ -110,5 +110,10 @@ A previsão do TxGNN para fibromatose gengival é classificada como nível de ev
 - Advertências, contraindicações e precauções da bula ANVISA (lacuna DG001 — severidade Bloqueante)
 - Dados individuais dos 10 registros ANVISA (números, formas farmacêuticas, indicações aprovadas)
 - Avaliação do perfil de segurança em população com condição benigna, onde a relação risco-benefício é particularmente desfavorável para agentes antineoplásicos sistêmicos
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

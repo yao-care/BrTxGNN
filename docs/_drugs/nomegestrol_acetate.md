@@ -100,5 +100,10 @@ Nenhuma das 10 indicações previstas pelo TxGNN apresenta evidências clínicas
 - Entre as 10 indicações avaliadas, **artrite reumatoide** (ranque 10) apresenta a fundamentação mecanística relativamente mais coerente — imunorregulação via modulação Th1/Th2, análoga à remissão de AR observada na gestação — sendo a única candidata com alguma plausibilidade biológica, ainda que sem qualquer evidência clínica específica para Nomegestrol acetate
 - Realizar estudos pré-clínicos antes de avançar para qualquer avaliação clínica em artrite reumatoide
 - Descartar formalmente as indicações pró-trombóticas (ranques 2, 3, 4, 9) por risco de dano ao paciente
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

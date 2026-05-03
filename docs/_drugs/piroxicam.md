@@ -123,5 +123,10 @@ Piroxicam possui mecanismo de ação diretamente aplicável à AIJ (inibição C
 - **[Alta prioridade]** Recuperar dados de registro ANVISA (nomes comerciais, formas farmacêuticas, indicações aprovadas) para avaliar se AIJ já consta nas indicações registradas
 - **[Média prioridade]** Verificar posicionamento atual de piroxicam nas diretrizes nacionais e internacionais de AIJ frente a AINEs mais modernos (naproxeno, ibuprofeno, celecoxibe)
 - **[Média prioridade]** Avaliar dados farmacocinéticos pediátricos (meia-vida ~32,6 h em crianças — PMID 1782984) para adequação posológica no contexto brasileiro
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

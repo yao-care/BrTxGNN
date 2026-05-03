@@ -89,5 +89,10 @@ O Evidence Pack carece do `drugbank_id` e do MOA necessários para execução do
 3. **Reexecutar o pipeline TxGNN** — Com `drugbank_id` e MOA preenchidos, regenerar `predicted_indications`.
 4. **Verificar status regulatório** — Confirmar se há solicitações de registro pendentes ou histórico de comercialização anterior no Brasil.
 5. **Coletar informações de segurança** — Baixar bula de referência (FDA ou EMA) para preencher `key_warnings` e `contraindications`.
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

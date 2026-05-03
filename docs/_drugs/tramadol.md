@@ -108,5 +108,10 @@ A previsão do TxGNN para a displasia acromesomélica tipo Hunter-Thompson apres
 ---
 
 *Relatório gerado automaticamente com base em Evidence Pack v4 — Data de corte: 2026-05-02. Este relatório é exclusivamente para fins de pesquisa e não constitui recomendação clínica ou aconselhamento médico.*
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

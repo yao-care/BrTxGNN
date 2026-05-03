@@ -102,5 +102,10 @@ Gadoteridol é um agente de contraste para diagnóstico por imagem — não um f
 - Investigar se há qualquer hipótese mecanística publicada que sugira atividade terapêutica do gadolínio quelado além do uso como contraste
 - Considerar que o acúmulo de gadolínio em tecido ósseo (documentado na literatura, PMID [21305156](https://pubmed.ncbi.nlm.nih.gov/21305156/)) representa uma preocupação de segurança — não uma oportunidade terapêutica
 - Reavaliar o pipeline TxGNN para identificar e filtrar agentes de contraste e outros compostos não-terapêuticos que geram falsos positivos por proximidade topológica no grafo de conhecimento
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

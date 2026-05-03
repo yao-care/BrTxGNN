@@ -114,5 +114,10 @@ Embora o score TxGNN seja muito elevado (99.998%), os 14 ensaios clínicos ident
 - Advertências, contraindicações e precauções da bula aprovada pela ANVISA para avaliação completa de segurança
 - Dados completos dos 20 registros ANVISA (nome comercial, forma farmacêutica e indicações aprovadas)
 - Revisão da literatura específica sobre expressão e função de G-CSFR em megacariócitos e plaquetas humanas
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

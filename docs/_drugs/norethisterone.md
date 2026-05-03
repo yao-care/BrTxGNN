@@ -126,5 +126,10 @@ Norethisterone possui mecanismo de ação diretamente vinculado à regulação d
 - Definir a subcategoria de amenorreia a ser investigada: primária, secundária funcional ou induzida por supressão de GnRH
 - Avaliar as vias de administração disponíveis internacionalmente (oral, injetável de longa duração — NET-EN) e sua adequação ao contexto clínico brasileiro
 - Consultar especialistas em ginecologia endocrinológica para validação de protocolo e definição de critérios de inclusão/exclusão
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

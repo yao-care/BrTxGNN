@@ -102,5 +102,10 @@ Existe um ensaio clínico de Fase 3 concluído que avaliou diretamente o hydroco
 - Avaliar a viabilidade de registro na ANVISA antes de qualquer protocolo de estudo clínico no Brasil
 - Definir a via de administração mais adequada para alopecia areata: tópica (creme 1%), intralesional (suspensão injetável) ou combinada
 - Considerar se o desenvolvimento clínico faz mais sentido posicionando o fármaco como **opção de menor risco em crianças** ou populações com contraindicação a corticosteroides de alta potência
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

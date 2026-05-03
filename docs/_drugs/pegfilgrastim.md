@@ -104,5 +104,10 @@ A previsão do TxGNN é baseada exclusivamente em inferência de grafo de conhec
 - Avaliar o risco de progressão para retinopatia proliferativa antes de qualquer estudo em humanos
 - Recuperar advertências, contraindicações e perfil de segurança completo a partir da bula registrada na ANVISA (DG001)
 - Detalhar os 11 registros individuais da ANVISA para avaliação regulatória (nomes comerciais, formas farmacêuticas, indicações aprovadas)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

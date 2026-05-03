@@ -113,5 +113,10 @@ A pontuação TxGNN de 99,32% reflete sobreposição no grafo de conhecimento en
 - Mapear interações medicamentosas com os tratamentos de primeira linha para TDAH (metilfenidato, lisdexanfetamina, atomoxetina)
 
 > **Nota sobre avaliação multi-indicação (TW-DB00181-multi):** Este Evidence Pack contém 10 candidatos avaliados. A indicação de **Dependência de Nicotina (Rank 2, 99,19%)** apresenta o perfil de evidências mais robusto do conjunto: 3 ensaios Phase 2 (incluindo 1 concluído, NCT01821560, n=44) e 20 publicações, atingindo nível L2 com recomendação *Research Question* — tornando-a o candidato de prioridade clínica mais imediata. **Síndrome de Dor Miofascial (Rank 4)** e **Transtornos do Desenvolvimento Específicos (Rank 10)** também alcançam nível L3 com recomendação *Research Question* e merecem aprofundamento. Por outro lado, os Ranks 5, 7, 8 e 9 (síndrome fáciodigenital, metahemoglobinemia e fibroma condromixoide) apresentam ausência completa de embasamento mecanístico com Baclofen e devem ser descartados da pipeline.
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

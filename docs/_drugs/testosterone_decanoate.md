@@ -77,5 +77,10 @@ O modelo TxGNN não gerou nenhuma previsão de reposicionamento para este fárma
 - Verificar se o fármaco está registrado na ANVISA como componente de formulações combinadas (ex.: misturas de ésteres de testosterona)
 - Obter a bula oficial para extrair advertências, contraindicações e interações medicamentosas
 - Reexecutar o pipeline TxGNN com o `drugbank_id` e dados de MOA completos para que o modelo possa gerar previsões de reposicionamento
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

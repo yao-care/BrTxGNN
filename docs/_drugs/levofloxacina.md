@@ -73,5 +73,10 @@ O pipeline identificou 4 registros da Levofloxacina no mercado brasileiro, poré
 - Recuperar os detalhes dos 4 registros ANVISA: número de registro, nome comercial, forma farmacêutica e indicação aprovada
 - Baixar e analisar a bula em PDF disponível no portal ANVISA para extrair advertências, contraindicações e instruções de segurança (atualmente classificadas como bloqueantes — DG001)
 - Obter dados de interações medicamentosas (DDI) — a consulta atual retornou `not_found`, o que pode indicar divergência no nome utilizado na busca
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

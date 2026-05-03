@@ -114,5 +114,10 @@ O ensaio CAPTIVA (Fase 3, em andamento, N=1.683) foi especificamente desenhado p
 - Aguardar resultados definitivos do CAPTIVA (conclusão prevista: maio de 2028) para confirmação de superioridade sobre clopidogrel especificamente em ICAS
 - Estabelecer protocolo de monitoramento para risco de hemorragia intracraniana — principal evento adverso de preocupação nessa população com estenose arterial ativa
 - Consultar o portal ANVISA para obter nomes comerciais, formas farmacêuticas e indicações aprovadas dos 11 registros ativos, para análise regulatória completa
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

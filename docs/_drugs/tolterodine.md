@@ -110,5 +110,10 @@ A previsão TxGNN é biologicamente coerente com conexão mecanística direta (C
 - **Evidência clínica**: Mapear ou conduzir estudo Phase 2 controlado em pacientes com baixa complacência vesical neurogênica com desfecho urodinâmico (complacência ΔV/ΔP, pressão de enchimento)
 - **Interações**: Avaliar DDI relevantes para a população-alvo típica (pacientes com lesão medular, espinha bífida, em uso de múltiplos fármacos)
 - **Monitoramento**: Definir protocolo de acompanhamento urológico (cistometria seriada) para avaliar resposta terapêutica e segurança renal a longo prazo
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

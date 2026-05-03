@@ -124,5 +124,10 @@ O cetoconazol tópico 2% possui mecanismo de ação duplo, biologicamente plaus�
 - Obter dados completos de MOA do DrugBank (remediar Data Gap DG002) para análise mecanística formal
 - Obter dados de advertências e contraindicações do rótulo brasileiro (remediar Data Gap DG001) para avaliação de segurança completa (S1)
 - Avaliar perfil de segurança da formulação tópica em populações específicas relevantes para acne (adolescentes, gestantes, lactantes)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

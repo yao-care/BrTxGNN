@@ -118,5 +118,10 @@ A lamotrigina possui mecanismo de ação diretamente aplicável à neuralgia do 
 - Atenção especial ao risco de **Síndrome de Stevens-Johnson / necrólise epidérmica tóxica** — efeito adverso grave conhecido da lamotrigina que requer titulação gradual e monitoramento cuidadoso
 - Conduzir ou aguardar RCTs de maior escala (atualmente n=21 é insuficiente para aprovação regulatória da nova indicação)
 - As demais previsões do TxGNN neste bundle (startle epilepsy, audiogenic seizures, reading seizures) apresentam evidência entre L3–L4 com base apenas em estudos pré-clínicos ou séries de casos — recomenda-se reavaliação após obtenção de dados de segurança completos
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -109,5 +109,10 @@ Existe um RCT publicado com resultado positivo e múltiplos estudos clínicos qu
 - Definir a via de administração e formulação adequadas para eczema atópico (tópica, oral ou combinada) com as respectivas faixas de dose
 - Protocolo de monitoramento do eixo hipotálamo-hipófise-adrenal (HPA), especialmente em uso pediátrico ou prolongado
 - Consideração de novos ensaios clínicos prospectivos com formulações tópicas modernas de BDP para validação da indicação em populações brasileiras
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

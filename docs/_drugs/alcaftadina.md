@@ -87,5 +87,10 @@ As lacunas críticas nos dados de entrada impediram a execução do pipeline TxG
 - Complementar os campos do registro ANVISA: número de registro, nome comercial, forma farmacêutica e fabricante
 - Re-executar o **pipeline TxGNN** com o DrugBank ID correto para gerar candidatos de reposicionamento
 - Verificar se existem dados de **biodisponibilidade sistêmica** — fundamentais dado o perfil de uso tópico do fármaco
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

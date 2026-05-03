@@ -99,5 +99,10 @@ Todas as 10 indicações previstas pelo TxGNN para Cabotegravir estão classific
 - Obter advertências, contraindicações e interações medicamentosas a partir da bula oficial registrada na ANVISA
 - Realizar revisão de literatura ampliada para verificar a existência de dados pré-clínicos de Cabotegravir em modelos de autoimunidade ou inflamação articular
 - Avaliar se estudos observacionais em coortes HIV+ tratados com Cabotegravir registram redução de incidência de AR como desfecho secundário, como ponto de partida para geração de hipótese
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

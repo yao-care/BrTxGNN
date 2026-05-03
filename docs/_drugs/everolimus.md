@@ -118,5 +118,10 @@ A base molecular para o uso de everolimus em lipossarcoma desdiferenciado está 
 - Acompanhar os resultados finais do NCT03114527 (SAR-096) quando publicação completa estiver disponível
 - Avaliar viabilidade de registro na ANVISA ou acesso via uso compassivo/importação excepcional para o contexto brasileiro
 - Definir estratégia posológica (monoterapia versus combinação com CDK4/6 inibidor) com base nos dados de eficácia e tolerabilidade disponíveis
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

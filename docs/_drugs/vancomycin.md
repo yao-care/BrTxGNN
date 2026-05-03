@@ -105,5 +105,10 @@ A previsão é de nível **L5** — gerada exclusivamente pelo modelo TxGNN, sem
 - Confirmar o mecanismo de ação completo via DrugBank API (remediation pendente: DG002)
 - Recuperar dados de segurança (advertências e contraindicações) da bula via ANVISA (remediation pendente: DG001), como pré-requisito para qualquer avaliação S1
 - Verificar literatura de estudos com antibióticos como proxy de modulação do eixo gut–imunidade em doenças do tecido conjuntivo
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

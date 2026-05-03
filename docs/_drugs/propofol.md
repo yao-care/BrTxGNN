@@ -120,5 +120,10 @@ Há múltiplos RCTs, revisões sistemáticas e uma diretriz clínica de 2025/202
 - Definir protocolo de monitoramento para uso em doses sub-anestésicas: risco de sedação excessiva e depressão respiratória requer suporte de ressuscitação disponível no local de aplicação
 - Avaliar viabilidade de uso restrito ao ambiente de pronto-socorro com equipe treinada em sedação
 - Verificar necessidade de extensão de indicação regulatória junto à ANVISA para uso sistemático nesta nova indicação
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

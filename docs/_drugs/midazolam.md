@@ -110,5 +110,10 @@ Embora midazolam possua mecanismo de ação compatível com o tratamento de ins�
 - Sanar o gap crítico de segurança (DG001): obter advertências e contraindicações da bula ANVISA via download de PDF do sítio oficial
 - Completar dados de MOA via DrugBank API (DG002) para análise mecanística formal
 - Avaliar estratégia regulatória comparativa frente ao perfil de segurança de lemborexant e zolpidem antes de qualquer investimento em desenvolvimento
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

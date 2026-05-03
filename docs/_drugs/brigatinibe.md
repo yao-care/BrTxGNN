@@ -129,5 +129,10 @@ Não há previsões do modelo TxGNN para novas indicações de brigatinibe, e o 
 ---
 
 > ⚠️ **Aviso**: Este relatório é gerado para fins de pesquisa apenas e **não constitui aconselhamento médico**. Candidatos a reposicionamento de fármacos devem ser validados por meio de ensaios clínicos antes de qualquer aplicação clínica.
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

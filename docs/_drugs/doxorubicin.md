@@ -134,5 +134,10 @@ Doxorubicin apresenta o mais alto nível de evidência clínica disponível (L1)
 - Consulta ao DrugBank API para recuperação dos dados formais de mecanismo de ação (pendente nesta análise — DG002)
 - Implementação de protocolo institucional de monitoramento cardíaco com controle rigoroso da dose cumulativa máxima de Doxorubicin (≤550 mg/m²)
 - Confirmação de protocolos de acesso ao medicamento para populações pediátricas, dado que o Sarcoma de Ewing acomete predominantemente crianças e adolescentes
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

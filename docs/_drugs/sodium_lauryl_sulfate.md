@@ -99,5 +99,10 @@ Todas as 10 indicações previstas pelo TxGNN apresentam pontuação mínima (50
 - Coletar dados de MOA via DrugBank API para verificar se há alvos moleculares mapeáveis
 - Investigar a causa da pontuação mínima uniforme no TxGNN: o mais provável é que o SLS não tenha representação adequada no grafo de conhecimento do modelo, invalidando as predições atuais
 - Avaliar se o DrugBank ID DB00815 corresponde corretamente ao SLS na versão do grafo utilizada
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

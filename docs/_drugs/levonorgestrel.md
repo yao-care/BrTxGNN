@@ -117,5 +117,10 @@ Existe um ensaio clínico randomizado controlado por placebo (PMID 12196750) dem
 - Confirmar o mecanismo de ação detalhado via consulta à API do DrugBank (DB00367)
 - Definir a população-alvo: mulheres em idade reprodutiva com acne de componente androgênico, sem contraindicações a estrogênios
 - Avaliar extensão de indicação junto à ANVISA referenciando dados do FDA (formulações EE+LNG aprovadas para acne nos EUA) e literatura publicada
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

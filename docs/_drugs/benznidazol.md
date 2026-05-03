@@ -90,5 +90,10 @@ O Evidence Pack está incompleto em itens críticos — não há previsões TxGN
 - [ ] **[Alta prioridade]** Re-executar o pipeline `run_kg_prediction.py` após mapear o fármaco ao DrugBank ID
 - [ ] Complementar os campos dos 2 registros ANVISA (número, nome comercial, forma farmacêutica, indicação aprovada)
 - [ ] Verificar se há ensaios clínicos em andamento no ClinicalTrials.gov para Benznidazol em indicações não-Chagas (ex.: outras infecções parasitárias, uso profilático)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

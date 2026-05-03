@@ -79,5 +79,10 @@ O pipeline TxGNN não produziu candidatos de reposicionamento para TESTOSTERONE 
 - **Revisar bula oficial** para advertências, contraindicações e interações medicamentosas (campos de segurança atualmente sem dados)
 
 > ⚠️ **Nota metodológica**: A testosterona é um hormônio endógeno com perfil farmacológico bem estabelecido. Recomenda-se verificar se o identificador DrugBank DB00624 foi corretamente mapeado no pipeline antes de concluir que há ausência real de candidatos.
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -79,5 +79,10 @@ O pipeline TxGNN não gerou previsões de reposicionamento para Bisacodyl — o 
 - Verificar se Bisacodyl está registrado na ANVISA sob outro nome comercial ou como componente de associação
 - Após sanear DG001 e DG002, re-executar o pipeline TxGNN para geração de previsões de reposicionamento
 - Confirmar interações medicamentosas relevantes (consulta DDI retornou `not_found`)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

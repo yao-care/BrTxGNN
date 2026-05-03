@@ -79,5 +79,10 @@ O pipeline TxGNN não produziu previsões de reposicionamento por falhas de mape
 - Verificar o status de disponibilização no Brasil via canais de saúde pública (SUS/RENAME), que pode diferir do registro comercial ANVISA
 - Obter as advertências, contraindicações e interações medicamentosas da bula oficial (TFDA/ANVISA/EMA)
 - Re-executar o pipeline TxGNN com o mapeamento corrigido para gerar predições válidas
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

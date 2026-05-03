@@ -118,5 +118,10 @@ As evidências existentes para o subtipo específico de **Enxaqueca com Aura do 
 - Identificar se estudos existentes (CANOA, COMPETE, SPRING) coletaram dados de subtipo de aura — potencial análise de subgrupo retrospectiva
 - Definir critério diagnóstico preciso para aura do tronco cerebral (critérios ICHD-3) para uso em futuros protocolos
 - Avaliar viabilidade de ensaio clínico prospectivo em pacientes com FOP confirmado e enxaqueca com aura do tronco cerebral documentada
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

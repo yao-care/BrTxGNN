@@ -88,5 +88,10 @@ O pipeline TxGNN não gerou candidatos de reposicionamento para Acetazolamida ne
 - **Baixar e processar a bula ANVISA** para advertências e contraindicações (remediar DG001)
 - **Consultar DrugBank API** para obter o mecanismo de ação completo (remediar DG002)
 - Após reprocessamento, verificar se `predicted_indications` foi populado e reemitir o relatório completo
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

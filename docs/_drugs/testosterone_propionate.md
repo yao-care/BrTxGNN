@@ -89,5 +89,10 @@ O modelo TxGNN não gerou previsões de reposicionamento para este fármaco, e d
 - Baixar e analisar a bula oficial na fonte regulatória competente para advertências e contraindicações — resolve DG001
 - Verificar registros em outras jurisdições (FDA, EMA, ANVISA) para identificar indicações aprovadas que possam alimentar o modelo
 - Re-executar o pipeline TxGNN com os dados complementados para verificar se novas previsões emergem
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

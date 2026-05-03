@@ -134,5 +134,10 @@ A indicação principal prevista pelo TxGNN (conjuntivite papilar) apresenta uma
 ---
 
 > ⚠️ **Aviso:** Este relatório é apenas para fins de pesquisa e não constitui aconselhamento médico. Candidatos a reposicionamento de fármacos necessitam de validação clínica antes de qualquer aplicação.
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

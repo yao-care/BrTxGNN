@@ -98,5 +98,10 @@ Gadobutrol é um agente de contraste diagnóstico para RM, sem qualquer mecanism
 - Identificação de mecanismo farmacológico terapêutico plausível (atualmente inexistente para qualquer indicação)
 - Dados pré-clínicos demonstrando efeito biológico ativo em HPB ou outra condição-alvo
 - Reavaliação estrutural do pipeline TxGNN para **excluir agentes de diagnóstico** (quelatos de gadolínio, meios de contraste iodados, radiofármacos) do escopo de reposicionamento terapêutico, evitando falsos positivos sistemáticos gerados por co-ocorrência diagnóstica no KG
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

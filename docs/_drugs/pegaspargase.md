@@ -135,5 +135,10 @@ A previsão do TxGNN é respaldada por nível de evidência L1, com múltiplos e
 - Obter a bula brasileira para levantamento formal de advertências, contraindicações e indicações oficialmente aprovadas
 - Confirmar se o registro brasileiro cobre explicitamente o linfoma linfoblástico (LBL), além da LLA
 - Estabelecer protocolo de monitoramento de segurança adaptado para populações adultas (especialmente >55 anos), dado o perfil de toxicidade diferenciado em relação à população pediátrica
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

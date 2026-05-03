@@ -92,5 +92,10 @@ O Evidence Pack não contém previsões de reposicionamento, dados de segurança
 - 🔧 **Normalização de nome:** Confirmar que "AMBROXOL HYDROCHLORIDE" é mapeado para o nó "Ambroxol" (DB06742) no grafo TxGNN antes de reexecutar
 - 🔄 **Reexecutar o pipeline** de predição KG + DL após resolução das lacunas acima
 - ✅ **Verificar status ANVISA** diretamente para confirmar se o fármaco está comercializado no Brasil com outra denominação ou como componente de associação
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -82,5 +82,10 @@ O modelo TxGNN não gerou previsões de novas indicações para Betamethasone Ac
 - Obter dados da **bula oficial** junto à ANVISA para identificar indicações aprovadas, advertências e contraindicações
 - Reexecutar o pipeline TxGNN com o DrugBank ID correto para geração de previsões de novas indicações
 - Avaliar a necessidade de ampliar a busca regulatória para incluir formas farmacêuticas combinadas contendo betametasona acetato
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

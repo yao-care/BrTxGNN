@@ -79,5 +79,10 @@ O modelo TxGNN não produziu nenhuma predição de reposicionamento para este f�
 - **Re-executar o pipeline de predição** após confirmação do mapeamento, a fim de obter scores TxGNN válidos
 - **Consultar ANVISA diretamente**: Verificar se há registros sob variações do nome (ampicilina, ampicillin trihydrate, ampicillin sodium) para atualizar o campo `market_status`
 - **Recuperar MOA e dados de segurança**: Preencher mecanismo de ação via DrugBank API (`DB00415`) e obter advertências/contraindicações da bula ANVISA para viabilizar a análise de segurança da fase S1
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

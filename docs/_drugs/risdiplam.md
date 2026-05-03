@@ -104,5 +104,10 @@ Esta previsão apresenta nível de evidência L5 (exclusivamente predição do m
 - Evidências pré-clínicas em modelos de acne (nível mínimo L4) para elevar o estágio de avaliação
 - Reavaliação da plausibilidade mecanística por especialista em dermatologia antes de qualquer estudo exploratório
 - Dados detalhados do registro ANVISA (número de registro, indicação aprovada, forma farmacêutica)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

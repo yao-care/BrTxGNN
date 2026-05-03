@@ -92,5 +92,10 @@ Apesar do escore TxGNN elevado (99,46%), não existe qualquer evidência clínic
 - Busca expandida em literatura pré-clínica sobre a interação entre agonismo μ-opioide e a via de sinalização do receptor V2 de vasopressina
 - Avaliação de estudos sobre efeitos dos opioides no balanço hidrossalino e na função renal
 - Investigação do status regulatório real do fentanil no Brasil (os 0 registros podem refletir limitação da consulta atual)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

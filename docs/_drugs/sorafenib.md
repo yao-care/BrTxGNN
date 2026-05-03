@@ -116,5 +116,10 @@ Existe 1 ensaio clínico de Fase 2 concluído (NCT00217620) que avalia diretamen
 - Verificar advertências, contraindicações e interações medicamentosas na bula ANVISA (DG001 — Blocking)
 - Recuperar os detalhes dos 4 registros ANVISA (número, nome comercial, indicações aprovadas)
 - Definir hipótese de pesquisa formal e desenho de estudo de Fase 2 específico para lipossarcoma com Sorafenib, caso os dados do NCT00217620 confirmem atividade no subgrupo
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

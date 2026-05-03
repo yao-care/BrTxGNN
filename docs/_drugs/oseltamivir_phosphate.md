@@ -83,5 +83,10 @@ Sem previsões geradas pelo TxGNN e sem registros regulatórios localizados, nã
 - Baixar e parsear a bula aprovada pela ANVISA para extrair advertências, contraindicações e posologia
 - Reexecutar o modelo TxGNN com o DrugBank ID mapeado para gerar candidatos de reposicionamento
 - Após geração de candidatos, retornar ao pipeline padrão de avaliação de evidências (ensaios clínicos + literatura)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

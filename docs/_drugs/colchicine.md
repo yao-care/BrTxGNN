@@ -111,5 +111,10 @@ Toda a evidência disponível para colchicine em malária por *P. falciparum* se
 - Avaliação do risco de toxicidade sistêmica em doses antiparasitárias
 - Obtenção do MOA completo via DrugBank API (gap DG002) e triagem de interações medicamentosas relevantes ao contexto de malária
 - Regularização do registro na ANVISA caso se avance para estudos clínicos no Brasil
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

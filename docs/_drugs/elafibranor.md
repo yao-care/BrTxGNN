@@ -106,5 +106,10 @@ A previsão TxGNN apresenta pontuação elevada (99,86%), porém a ligação mec
 - Complementar os detalhes do registro ANVISA (nome comercial, forma farmacêutica, indicação aprovada)
 - Realizar busca bibliográfica expandida: pesquisar associações entre PPAR agonistas e função reprodutiva/hormonal em literatura pré-clínica
 - Revisar se outras indicações no ranking TxGNN (ex.: rank 7 — carcinoma de vesícula biliar, mais próximo da indicação original em CBP) apresentam melhor fundamentação mecanística para priorização
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

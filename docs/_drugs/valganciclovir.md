@@ -113,5 +113,10 @@ A previsão TxGNN para artrite reumatoide é interpretada como **falso positivo 
 - Ensaios clínicos controlados em pacientes com AR CMV-soropositivos de difícil controle avaliando Valganciclovir como adjuvante
 - Dados de MOA completos do DrugBank (DB01610) para confirmar ausência de targets imunológicos relevantes para AR
 - Dados de segurança completos (advertências, contraindicações) via download da bula no portal ANVISA
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

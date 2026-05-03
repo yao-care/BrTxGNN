@@ -92,5 +92,10 @@ O pipeline não completou o mapeamento DrugBank para Terbinafina Cloridrato nest
 - **Apontar a consulta regulatória para ANVISA**: substituir a fonte TFDA pela base brasileira e re-executar a coleta
 - **Re-executar o pipeline completo** após as correções acima para obter previsões TxGNN válidas
 - **Coletar dados de MOA e segurança**: obter advertências e contraindicações da bula ANVISA após confirmação do registro
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

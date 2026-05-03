@@ -128,5 +128,10 @@ A principal indicação prevista (porfiria intermitente aguda) apresenta nível 
 ---
 
 > ⚠️ **Aviso:** Este relatório é gerado por modelo computacional (TxGNN) e destina-se exclusivamente a fins de pesquisa. Não constitui recomendação médica. Qualquer candidatura de reposicionamento requer validação clínica rigorosa antes de aplicação terapêutica.
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -124,5 +124,10 @@ Ezetimibe possui nível de evidência L1 consolidado para hiperlipoproteinemia, 
 - Obter advertências e contraindicações oficiais da bula brasileira ou internacional (lacuna DG001)
 - Definir estratégia de entrada no mercado: produto isolado (Ezetimibe 10mg) e/ou combinação em dose fixa (Ezetimibe/Sinvastatina ou Ezetimibe/Rosuvastatina), conforme necessidades do mercado local
 - Avaliar viabilidade de acesso via SUS, considerando custo-efetividade frente às estatinas genéricas disponíveis no Brasil
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

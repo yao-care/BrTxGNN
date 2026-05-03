@@ -101,5 +101,10 @@ Esta previsão apresenta nível de evidência L5 (exclusivamente computacional, 
 - Obter detalhes dos 20 registros regulatórios (indicações aprovadas, formas farmacêuticas) via consulta direta à base regulatória
 - Investigar e documentar o viés de agrupamento do modelo para o cluster hepático/portal antes de interpretar qualquer previsão neste grupo
 - Caso haja interesse em reposicionamento de inositol, priorizar indicações com maior evidência empírica disponível no pack: **hiperlipoproteinemia** (rank 8, L3, 10 publicações com inositol nicotinato) ou **insuficiência cardíaca congestiva** (rank 7, L4, 20 publicações — incluindo dado prospectivo adverso em HFpEF que requer avaliação cuidadosa antes de qualquer desenvolvimento)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

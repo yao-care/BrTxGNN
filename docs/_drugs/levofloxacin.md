@@ -96,5 +96,10 @@ Embora a formulação oftálmica do Levofloxacin tenha eficácia comprovada em i
 - Avaliação clínica para delimitar o subtipo de PEK (bacteriana vs. viral vs. Thygeson's) antes de qualquer protocolo de uso
 
 > **Nota clínica relevante:** Entre as 10 indicações previstas pelo TxGNN para o Levofloxacin, a indicação de **Gamopatia Monoclonal / Profilaxia em Mieloma Múltiplo** (rank 7) apresenta nível de evidência **L1**, sustentado por 1 Phase 3 RCT publicado no *Lancet Oncology* (TEAMM trial, PMID 31668592) e múltiplos estudos de coorte. Esta indicação possui fundamentação mecanística sólida e pode merecer um relatório dedicado de avaliação prioritária.
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

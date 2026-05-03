@@ -92,5 +92,10 @@ O modelo TxGNN não gerou previsões de reposicionamento para Aceclofenaco devid
 - Completar os **dados dos registros ANVISA** (número de registro, nome comercial, forma farmacêutica, indicação aprovada) para os 20 licenças registradas
 - **Reexecutar o pipeline TxGNN** após corrigir o mapeamento do DrugBank ID, para que o modelo gere as previsões de reposicionamento
 - Após obter previsões, realizar nova rodada de coleta de evidências (ensaios clínicos e literatura) antes de emitir relatório definitivo
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -72,5 +72,10 @@ O modelo TxGNN não produziu previsões de reposicionamento para este fármaco �
 - **Verificar o status ANVISA**: confirmar se há registros com denominação alternativa (ex.: Betametasona Valerato, Betamethasone 17-valerate)
 - **Coletar dados de MOA**: utilizar o DrugBank ID recuperado para consultar mecanismo de ação via API
 - **Obter advertências e contraindicações**: baixar bula de referência (ANVISA, EMA ou FDA) para completar o perfil de segurança
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

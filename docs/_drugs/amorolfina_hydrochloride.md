@@ -85,5 +85,10 @@ O modelo TxGNN não produziu previsões de reposicionamento para este fármaco, 
 - **Reexecutar o modelo TxGNN** após integração do DrugBank ID para gerar previsões válidas
 - **Verificar o status regulatório brasileiro** diretamente na base da ANVISA usando o nome AMOROLFINA, CLORIDRATO DE AMOROLFINA e o nome comercial Loceryl® (comercializado em outros mercados)
 - **Avaliar barreira farmacocinética:** dado que a formulação padrão é tópica (esmalte ungueal), documentar se há formulações sistêmicas disponíveis que tornariam o reposicionamento clinicamente viável
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -104,5 +104,10 @@ A previsão baseia-se exclusivamente em inferência topológica do grafo de conh
 - Recuperar os detalhes completos dos 4 registros ANVISA (número, indicação aprovada, forma farmacêutica)
 - Obter dados de segurança completos da bula ANVISA (advertências, contraindicações, interações medicamentosas)
 - Confirmar o mecanismo de ação (MOA) via DrugBank API (DB01601) para análise de relevância mecanística
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

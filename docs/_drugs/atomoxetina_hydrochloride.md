@@ -81,5 +81,10 @@ A falha no mapeamento automático do DrugBank ID e a ausência de registros regu
 - Verificar se o fármaco possui registro na ANVISA sob nome alternativo (ex.: "Atomoxetina", "Atomoxetine" ou nome comercial como "Strattera")
 - Baixar a bula ANVISA ou, na ausência, a bula FDA/EMA para extrair MOA, advertências e contraindicações
 - Após correção do mapeamento, reexecutar o pipeline TxGNN para gerar candidatos de reposicionamento e nova análise de evidências
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -102,5 +102,10 @@ As quatro indicações previstas neste Evidence Pack — Síndrome de Braquidact
 - Complementar os detalhes dos 20 registros ANVISA (nome comercial, forma farmacêutica, indicação aprovada)
 - Consultar especialista em dismorfologia ou genética clínica para avaliar se há qualquer plausibilidade terapêutica de AINEs nas quatro síndromes identificadas
 - Considerar análise de ruído do modelo TxGNN para investigar se o padrão de predições em síndromes esqueléticas raras é sistemático para outros AINEs
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

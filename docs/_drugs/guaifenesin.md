@@ -105,5 +105,10 @@ Existe um ensaio clínico de Fase 2 concluído que avalia diretamente guaifenesi
 - Verificar os 20 registros individuais na ANVISA para confirmar formas farmacêuticas disponíveis e se a indicação nasal já está contemplada em algum produto
 - Avaliar compatibilidade de via de administração para a nova indicação (oral vs. intranasal)
 - Planejar ensaio clínico de Fase 2 em adultos com rinite crônica, dado que o único ensaio existente é pediátrico e de caráter piloto
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

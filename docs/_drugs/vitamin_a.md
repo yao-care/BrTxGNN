@@ -107,5 +107,10 @@ A previsão do TxGNN não é sustentada por evidências clínicas nem mecanísti
 - Obter evidências pré-clínicas — estudos in vitro ou in vivo — demonstrando efeito mensurável sobre a coagulação
 - Revisar se a associação no grafo do TxGNN representa causalidade real ou co-ocorrência estatística entre nós de deficiência vitamínica e coagulopatia
 - Recuperar dados completos de registro ANVISA (indicação aprovada, forma farmacêutica) para contextualização regulatória
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

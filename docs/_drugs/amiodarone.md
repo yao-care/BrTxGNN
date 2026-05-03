@@ -105,5 +105,10 @@ A CPVT já dispõe de terapias de primeira linha clinicamente estabelecidas (bet
 - Evidências clínicas prospectivas em pacientes com CPVT documentadamente refratária a beta-bloqueadores + flecainide + CDI
 - Dados de segurança completos da bula de referência (FDA/EMA), incluindo advertências, contraindicações e perfil de toxicidade orgânica (pulmonar, hepática, tireoidiana, ocular)
 - Avaliação comparativa formal com nadolol e flecainide, que possuem maior suporte clínico específico para CPVT
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -102,5 +102,10 @@ A previsão do TxGNN baseia-se em plausibilidade de classe viral (lentivírus co
 - Realizar ensaios enzimáticos in vitro (IC₅₀ de Efavirenz contra TR purificada de FIV vs. HIV-1) para quantificar a perda de afinidade
 - Avaliar se NNRTIs de geração mais recente (ex.: Rilpivirina, Doravirina) com perfil estrutural distinto apresentam melhor adequação ao NNIBP do FIV
 - Complementar os dados regulatórios (bula ANVISA) para MOA, advertências e contraindicações
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

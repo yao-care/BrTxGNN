@@ -73,5 +73,10 @@ O TxGNN não gerou nenhuma indicação de reposicionamento para orphenadrine cit
 - Baixar e analisar a bula TFDA para mapear advertências e contraindicações — pendente resolução do Data Gap DG001 (bloqueante)
 - Investigar junto à equipe de modelagem por que o TxGNN não gerou previsões para este fármaco (possível ausência do nó no grafo de conhecimento ou baixa conectividade)
 - Avaliar se há interesse regulatório em solicitar registro na ANVISA antes de iniciar qualquer análise de reposicionamento
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

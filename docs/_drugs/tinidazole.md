@@ -102,5 +102,10 @@ A vaginite atrófica pós-menopausa é uma condição essencialmente estrogênio
 - Levantar advertências, contraindicações e interações medicamentosas na bula original (Data Gap DG001)
 - Avaliar se a hipótese mais clinicamente plausível não seria a **vaginose bacteriana associada à atrofia vaginal** como indicação-alvo, em vez da atrofia per se — essa formulação teria embasamento mecanístico mais sólido
 - Realizar revisão de literatura sobre uso de nitroimidazóis no contexto de microbioma vaginal e saúde reprodutiva pós-menopausa
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

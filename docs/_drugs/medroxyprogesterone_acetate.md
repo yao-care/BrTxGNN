@@ -124,5 +124,10 @@ O uso de MPA no manejo da amenorreia é clinicamente fundamentado — baseado no
 - Delimitar o subtipo de amenorreia-alvo (primária vs. secundária; hipotalâmica vs. hipofisária vs. ovariana) para definir o escopo preciso do reposicionamento
 - Avaliar o risco de amenorreia prolongada induzida pela formulação Depot-MPA em populações que requerem regularização menstrual
 - Conduzir análise comparativa com alternativas disponíveis no mercado brasileiro (p.ex., progesterona micronizada) para posicionamento regulatório e competitivo
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

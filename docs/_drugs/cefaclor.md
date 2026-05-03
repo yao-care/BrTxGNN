@@ -101,5 +101,10 @@ Múltiplos ensaios clínicos controlados dos anos 1979–1997 demonstraram efic�
 - Dados completos de segurança (advertências, contraindicações e interações medicamentosas via bula ANVISA)
 - Detalhamento do mecanismo de ação (MOA) via DrugBank para análise de relação mecanística com *N. gonorrhoeae*
 - Avaliação da viabilidade clínica frente aos protocolos atuais de tratamento de DST (diretrizes do Ministério da Saúde e OMS), que priorizam cefalosporinas de 3ª geração injetáveis para gonorreia
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

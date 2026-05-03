@@ -74,5 +74,10 @@ O fármaco não possui registros no mercado brasileiro e não gerou previsões T
 - **[Alta prioridade]** Obter o DrugBank ID para habilitar o mapeamento e a geração de previsões TxGNN
 - **[Alta prioridade]** Consultar a API do DrugBank para obter dados de MOA e categorias farmacológicas
 - Após resolução dos itens acima, reprocessar o Evidence Pack e gerar novo ciclo de avaliação
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

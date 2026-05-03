@@ -82,5 +82,10 @@ Não há previsões TxGNN disponíveis e o fármaco não possui registros de com
 - Verificar se `CEFOTAXIME` consta em `data/node.csv` com o nome padronizado em inglês
 - Obter dados regulatórios da ANVISA para verificar a situação de registro no Brasil
 - Baixar a bula do fármaco para extrair advertências, contraindicações e mecanismo de ação antes de nova rodada de análise
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

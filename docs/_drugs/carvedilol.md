@@ -100,5 +100,10 @@ Embora exista plausibilidade mecanicista para o uso de carvedilol em hipertensã
 - Conduzir revisão sistemática específica sobre beta-bloqueadores no manejo da hipertensão renovascular maligna
 - Avaliar dados de função renal em subgrupos de pacientes hipertensos tratados com carvedilol para identificar sinais de segurança nefrovascular
 - Considerar desenho de estudo exploratório (Phase 1/2 pilot) apenas após confirmação de perfil de segurança em modelos pré-clínicos de hipertensão renovascular
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

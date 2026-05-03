@@ -96,5 +96,10 @@ A previsão do TxGNN para "zinco plasmático elevado" apresenta nível de evidê
 - Complementar os dados de segurança (advertências e contraindicações via bula oficial — gap DG001, classificado como Blocking)
 - Obter dados formais de mecanismo de ação via DrugBank API (gap DG002, severidade High)
 - Confirmar situação regulatória junto à ANVISA, incluindo eventuais registros de produtos à base de adapalene comercializados no Brasil
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

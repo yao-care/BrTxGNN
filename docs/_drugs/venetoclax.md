@@ -114,5 +114,10 @@ O subtipo CLL/SLL IGHV-mutado já está contido nas populações dos ensaios cl�
 - Avaliação da taxa de negatividade para MRD (doença residual mínima) e potencial de remissão livre de tratamento (TFR) estratificada por IGHV-mutado vs. não-mutado
 - Confirmação dos dados de registro da ANVISA: número de registro, nome comercial, indicação aprovada completa e posologia
 - Recuperação dos dados de MOA e de advertências/contraindicações a partir da bula registrada na ANVISA (DG001 e DG002 pendentes)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -98,5 +98,10 @@ A previsão baseia-se exclusivamente no modelo TxGNN (nível L5), sem nenhum ens
 - Levantamento do perfil de MOA atualizado via DrugBank (DB00133) para embasar análise mecanicista
 - Avaliação toxicológica para uso terapêutico crônico (distinção entre uso nutricional e uso como fármaco)
 - Consulta regulatória sobre o enquadramento do composto no Brasil (suplemento nutricional vs. medicamento) antes de qualquer pedido de registro
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

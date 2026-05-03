@@ -104,5 +104,10 @@ A previsão de rank 1 (hipouricemia renal) é um **falso positivo do modelo TxGN
 - Realizar revisão bibliográfica manual para indicações com lógica mecanística positiva, especialmente **deficiência parcial de HGPRT** (rank 2)
 - Recuperar os detalhes estruturados dos 3 registros ANVISA ativos (número, nome comercial, indicações aprovadas)
 - Avaliar se o perfil de segurança (incluindo risco de hemólise em deficiência de G6PD — contraindicação clássica de rasburicase) é compatível com as populações-alvo das novas indicações
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

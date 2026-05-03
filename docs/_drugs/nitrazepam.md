@@ -119,5 +119,10 @@ O mecanismo de ação de Nitrazepam (modulação GABA-A via sítio benzodiazepí
 - Avaliar formalmente o risco de dependência e síndrome de abstinência para populações de uso prolongado e idosos
 - Verificar conformidade com a regulamentação de psicotrópicos da ANVISA (Portaria SVS/MS nº 344/1998 — Lista C1 ou B1)
 - Definir plano de monitoramento farmacológico (frequência, parâmetros clínicos) para uso no contexto de reposicionamento
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -102,5 +102,10 @@ Não existe nenhuma evidência clínica, pré-clínica ou mecanística que apoie
 - Conduzir estudos pré-clínicos em modelos animais de síndrome de rigidez muscular antes de qualquer ensaio humano
 - Obter os dados detalhados dos 20 registros ANVISA para rastreabilidade regulatória completa
 - Coletar informações de segurança completas (advertências, contraindicações) via bula oficial ANVISA antes de qualquer avaliação clínica
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

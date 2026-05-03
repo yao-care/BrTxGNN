@@ -109,5 +109,10 @@ A previsão TxGNN apresenta pontuação elevada (99,57%), porém não há ensaio
 - Dados de farmacovigilância de pacientes com AR que usam rivaroxaban concomitantemente por outras indicações (FA, TVP)
 - Perfil completo de segurança: advertências ANVISA, contraindicações e interações medicamentosas
 - Detalhamento dos 20 registros ANVISA (indicações aprovadas, formas farmacêuticas disponíveis)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

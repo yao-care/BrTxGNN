@@ -113,5 +113,10 @@ A previsão de eficácia do bisoprolol na doença renal hipertensiva maligna é 
 - Realizar busca bibliográfica expandida sobre o uso de betabloqueadores em emergências hipertensivas com comprometimento renal
 - Definir critérios de monitoramento renal (TFG, creatinina, proteinúria) para acompanhamento da eficácia
 - Avaliar a necessidade de associação com outros anti-hipertensivos (IECA/BRA, bloqueadores de canais de cálcio) no contexto de hipertensão maligna com lesão renal
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

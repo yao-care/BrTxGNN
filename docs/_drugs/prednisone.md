@@ -113,5 +113,10 @@ Existe um ensaio clínico de Fase 3 randomizado, duplo-cego e concluído (NCT020
 - Definir protocolo de dosagem adequado: pulso oral mensal, dose diária fracionada ou esquema combinado com metotrexato
 - Estabelecer plano de monitoramento de efeitos adversos de longo prazo de corticosteroide sistêmico: densidade óssea (osteoporose), glicemia (diabetes esteroide-induzida), pressão arterial, catarata subcapsular posterior e supressão do eixo HPA
 - Delimitar critérios de elegibilidade dos pacientes: gravidade da AA (SALT score), comorbidades que contraindicam corticosteroide sistêmico (diabetes descompensado, hipertensão não controlada, tuberculose ativa, osteoporose grave)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -102,5 +102,10 @@ Embora a pontuação do TxGNN seja elevada (99,06%), não há sustentação clí
 - Avaliação formal de risco-benefício considerando o potencial de dependência e o fenômeno de cefaleia de rebote associado aos benzodiazepínicos
 - Obtenção dos dados de segurança (advertências, contraindicações, interações medicamentosas) da bula oficial
 - Caso as etapas anteriores sejam favoráveis: ensaio clínico piloto com Bromazepam como intervenção primária para enxaqueca, com grupo controle adequado
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

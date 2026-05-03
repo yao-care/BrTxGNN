@@ -72,5 +72,10 @@ O pipeline TxGNN não produziu previsões de reposicionamento para CAFFEINE ANHY
 - Obter dados de **MOA** (mecanismo de ação) via DrugBank API para preencher a lacuna DG002
 - Baixar e analisar a **bula da ANVISA** para obter advertências e contraindicações (lacuna DG001, severidade Blocking)
 - Verificar o **status regulatório vigente** no Brasil: o registro retornou 0 licenças — confirmar se houve erro de busca ou se o fármaco de fato não possui registro ativo
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -109,5 +109,10 @@ A indicação de nível L5 (apenas previsão computacional, sem nenhum estudo cl
   - **Urticária alérgica** (Rank #3, L2/L3): 3 ensaios clínicos, 19 publicações
 - Caso o foco se mantenha na conjuntivite por rosácea, iniciar busca em bases de dados dermatológicas e oftalmológicas especializadas (EMBASE, Cochrane Eyes and Vision)
 - Consultar especialistas em oftalmologia e dermatologia para validação clínica da hipótese mecanicística
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -92,5 +92,10 @@ O modelo TxGNN não gerou predições de novas indicações para adenosina, e h�
 - Reexecutar o pipeline TxGNN com o DrugBank ID correto para gerar predições de novas indicações
 - Completar os detalhes dos 20 registros ANVISA: número de registro, nome comercial, forma farmacêutica e indicação aprovada
 - Após resolução das lacunas, regenerar o Evidence Pack e um novo ciclo de relatório
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

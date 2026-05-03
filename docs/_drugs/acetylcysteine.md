@@ -122,5 +122,10 @@ Dois ensaios de Phase 3 centrados em TA-TMA (NCT03252925, concluído, n=170; NCT
 - Avaliar viabilidade de registro na ANVISA ou uso via importação por excepcionalidade para contexto de HSCT/oncologia
 - Definir via de administração preferencial: NAC intravenoso para formas agudas de TMA/TTP; oral para uso profilático
 - Garantir que o uso não substitua anticoagulação padrão nem plasmaférese nas indicações estabelecidas
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

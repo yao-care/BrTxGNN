@@ -106,5 +106,10 @@ A atividade bactericida do Amikacin contra Salmonella paratyphi A/B/C é mecanis
 - Planejar estudo clínico controlado focado em febre paratifóide MDR com resistência a quinolonas (população prioritária: países endêmicos com alta prevalência de MDR-Salmonella)
 - Estabelecer protocolo obrigatório de monitoramento de **nefrotoxicidade e ototoxicidade** (efeitos adversos característicos de aminoglicosídeos), com Monitoramento Terapêutico de Drogas (TDM) para otimização de dose e prevenção de toxicidade cumulativa
 - Definir duração máxima de terapia e critérios de interrupção para uso seguro nesta indicação
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -123,5 +123,10 @@ Ketorolac apresenta evidências clínicas de nível L1 para transtornos de cefal
 - Verificar advertências e contraindicações formais na bula brasileira — informações de segurança não disponíveis neste Evidence Pack
 - Confirmar quais formas farmacêuticas estão registradas no Brasil (IV, IM, intranasal) em relação às necessárias para o tratamento de cefaleia aguda em emergência
 - Avaliar as limitações de uso previstas na bula (duração máxima de tratamento, restrições populacionais) que possam impactar a aplicação nessa nova indicação
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

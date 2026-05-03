@@ -74,5 +74,10 @@ O Evidence Pack está incompleto em dimensões críticas — sem indicações or
 - Obter dados de mecanismo de ação (MOA) via DrugBank API — lacuna de dados DG002 classificada como severidade **High**
 - Verificar situação regulatória na ANVISA para compostos de nutrição parenteral, suplementação ou uso hospitalar, onde aminoácidos podem ter registros sob categorias distintas — lacuna DG001 classificada como severidade **Blocking**
 - Após saneamento das lacunas, reexecutar o pipeline a partir da Phase 1 (mapeamento de droga → KG) antes de nova geração de relatório
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

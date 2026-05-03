@@ -112,5 +112,10 @@ A previsão do TxGNN para NSIAD apresenta pontuação altíssima (99,54%), mas a
 - Recuperação dos dados completos de registro ANVISA: número de registro, nome comercial, forma farmacêutica, indicação aprovada e advertências da bula (remediação dos gaps DG001 e DG002)
 - Revisão bibliográfica dirigida sobre a expressão e função de β₂-AR na fisiologia tubular renal
 - Reavaliação do Evidence Pack após coleta de dados de mecanismo de ação (DrugBank API — gap DG002)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

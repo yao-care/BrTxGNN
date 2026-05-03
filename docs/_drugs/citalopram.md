@@ -110,5 +110,10 @@ O citalopram possui mecanismo de ação (inibição seletiva do SERT) diretament
 - Realizar nova consulta de evidências com termos expandidos (*"citalopram OCD"*, *"SSRI obsessive-compulsive disorder"*) para capturar ensaios clínicos e literatura relevantes não retornados neste ciclo
 - Confirmar indicações aprovadas nos 20 registros ANVISA via consulta direta ao portal
 - Verificar interações medicamentosas em bases alternativas (DDI retornou zero resultados neste ciclo)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

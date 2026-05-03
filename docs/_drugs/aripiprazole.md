@@ -108,5 +108,10 @@ Aripiprazole possui múltiplos ensaios clínicos de Fase 3 concluídos e com amo
 - Definir estratégia regulatória junto à ANVISA, aproveitando o histórico de aprovação FDA/EMA como referência para dossiê de registro
 - Identificar parceiro comercial ou titular de registro potencial no Brasil
 - Delimitar a subpopulação-alvo prioritária para o mercado brasileiro (ex: TDM com resposta inadequada a antidepressivos isolados)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

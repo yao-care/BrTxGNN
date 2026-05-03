@@ -111,5 +111,10 @@ Cefdinir apresenta uso clínico documentado como terapia step-down oral em pielo
 - Dados dos registros ANVISA: número de registro, nome comercial, forma farmacêutica e indicação aprovada para os 3 produtos registrados
 - Avaliação farmacocinética em insuficiência renal (particularmente relevante para infecções urinárias e pielonefrite)
 - Dados de resistência local aos gram-negativos urinários no contexto brasileiro, para validar eficácia empírica no Brasil
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

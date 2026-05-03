@@ -118,5 +118,10 @@ Há múltiplos estudos clínicos publicados — incluindo ensaios comparativos d
 - Avaliar rigorosamente o perfil de segurança hepática — o sinal de hepatotoxicidade do nimesulide requer protocolo de monitoramento de função hepática (ALT, AST, bilirrubinas) definido antes do uso estruturado
 - Identificar ou conduzir um ECR de Phase 2/3 com desfechos modernos (escala VAS de dor, tempo para resolução da crise, marcadores inflamatórios) comparando nimesulide vs colchicina ou indometacina na crise aguda de gota, para elevar o nível de evidência de L3 para L2
 - Definir critérios de exclusão claros para pacientes com disfunção hepática, dado o risco específico associado ao fármaco
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

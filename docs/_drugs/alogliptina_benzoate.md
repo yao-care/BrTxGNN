@@ -80,5 +80,10 @@ O modelo TxGNN não conseguiu gerar previsões de reposicionamento devido à aus
 - Obter mecanismo de ação (MOA) via DrugBank API após capturar o ID correto
 - Obter advertências, contraindicações e interações medicamentosas via bula ANVISA
 - Re-executar o pipeline TxGNN com os dados regulatórios nacionais completos para gerar candidatos de reposicionamento
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

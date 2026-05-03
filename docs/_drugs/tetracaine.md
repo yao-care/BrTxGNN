@@ -120,5 +120,10 @@ Um RCT duplo-cego de Phase 4 (NCT02372786, n=30) avaliou diretamente a formulaç
 - Avaliar viabilidade regulatória: registro de formulação composta, importação ou manipulação em farmácia de manipulação com laudo de equivalência
 - Delimitar claramente o contexto de uso: anestesia tópica pré-procedimento de laser/criocirurgia — não como tratamento da fibrose ou inflamação da AKN
 - Para as demais **8 indicações previstas**: recomendação **Hold** universal, por ausência de mecanismo plausível (ranks 1, 2, 4, 6, 7, 9), natureza procedimental sem benefício terapêutico real (ranks 3, 5), ou risco de interpretação de causalidade inversa (**rank 8 — contraindicado investigar**)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

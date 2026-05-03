@@ -78,5 +78,10 @@ O Evidence Pack não contém predições TxGNN processadas (`predicted_indicatio
 - **[Alto]** Recuperar o MOA completo via DrugBank API (Teriflunomida: inibidor de DHODH) para permitir análise de relacionamento mecanístico
 - **[Alto]** Baixar e analisar a bula aprovada pela ANVISA para extrair advertências, contraindicações e interações medicamentosas
 - Após a obtenção das predições, reavaliar o Evidence Pack completo seguindo o fluxo padrão L1–L5
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

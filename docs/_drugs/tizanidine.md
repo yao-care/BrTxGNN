@@ -114,5 +114,10 @@ Um Phase 3 RCT multicêntrico, duplo-cego e controlado por placebo está atualme
 - Obter dados completos de segurança: advertências, contraindicações e perfil de interações medicamentosas da bula original (DrugBank DB00697 / bula de referência)
 - Avaliar viabilidade e estratégia de registro na ANVISA, considerando que tizanidine não possui nenhum registro ativo no Brasil
 - Definir plano de monitoramento de efeitos adversos relevantes para uso em enxaqueca (especialmente hipotensão, sedação e hepatotoxicidade, efeitos classe conhecidos dos agonistas alfa-2)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

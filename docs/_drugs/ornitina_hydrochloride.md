@@ -82,5 +82,10 @@ O TxGNN não gerou previsões para este fármaco pois o DrugBank ID está ausent
 - Re-executar o pipeline TxGNN com o DrugBank ID correto para geração de previsões
 - Baixar e analisar bulas de países com registro ativo para preencher os dados de advertências e contraindicações (lacuna DG001)
 - Consultar o DrugBank API para recuperar o MOA detalhado (lacuna DG002)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

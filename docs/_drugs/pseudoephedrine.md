@@ -116,5 +116,10 @@ Pseudoephedrine possui eficácia farmacológica amplamente documentada para doen
 - Confirmação e documentação formal do mecanismo de ação via DrugBank API para suporte ao dossiê regulatório
 - Avaliação de uso em populações especiais (hipertensos, cardiopatas, gestantes) — categorias de risco com atenção redobrada para aminas simpatomiméticas
 - Definição de estratégia comercial e de classificação de venda (venda livre vs. sob prescrição) conforme regulamentação ANVISA vigente para descongestionantes orais
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

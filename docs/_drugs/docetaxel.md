@@ -134,5 +134,10 @@ Docetaxel apresenta o mais alto nível de evidência clínica (L1) para o carcin
 - **Regularizar dados regulatórios ANVISA:** recuperar números de registro, nomes comerciais, formas farmacêuticas e textos de indicações aprovadas para os 20 produtos registrados
 - **Definir subpopulação e contexto clínico:** especificar subtipo molecular-alvo (TNBC, HER2+, luminal A/B), linha de tratamento (neoadjuvante, adjuvante ou metastático) e perfil demográfico da população brasileira para o protocolo de reposicionamento
 - **Estabelecer plano de monitoramento de segurança:** com protocolos para neutropenia febril (G-CSF profilático), síndrome de retenção hídrica (pré-medicação com corticosteroide, controle de peso), neuropatia periférica cumulativa e reações de hipersensibilidade
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

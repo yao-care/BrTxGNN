@@ -79,5 +79,10 @@ O pipeline não gerou candidatos de reposicionamento para este fármaco devido �
 - **[Bloqueante]** Verificar se há registros ANVISA sob variações do nome (ex.: "levobupivacaína", "levobupivacaine") e corrigir a consulta regulatória
 - Obter dados de MOA completos via DrugBank API para permitir a análise de associação mecanística
 - Após correção dos dados de entrada, reexecutar o ciclo completo de predição KG + DL
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

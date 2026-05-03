@@ -83,5 +83,10 @@ Sem previsão gerada pelo TxGNN e sem registros ANVISA confirmados para esta den
 - Obter dados completos de MOA via DrugBank API (lacuna DG002 — prioridade Alta)
 - Baixar e analisar a bula na ANVISA para advertências e contraindicações (lacuna DG001 — prioridade Bloqueante)
 - Após resolução das lacunas, reexecutar o Evidence Pack e gerar novo relatório de avaliação
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

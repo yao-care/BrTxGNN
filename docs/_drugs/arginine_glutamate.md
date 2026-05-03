@@ -95,5 +95,10 @@ O modelo TxGNN não gerou previsões de reposicionamento para Arginine Glutamate
 - Verificar se o fármaco possui registros em outros mercados (FDA, EMA, PMDA) para embasar análise de segurança
 - Baixar e analisar a bula (se disponível em algum mercado ativo) para extrair advertências e contraindicações
 - Avaliar se há indicações aprovadas internacionalmente que possam servir como ponto de partida para o mapeamento de reposicionamento
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

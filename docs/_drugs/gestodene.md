@@ -105,5 +105,10 @@ A previsão TxGNN para enxaqueca provavelmente é um artefato de grafo — o ges
 - Dados completos de MOA (DrugBank) e dados de segurança (bula ANVISA)
 
 > ⚠️ **Nota clínica importante:** Das 10 indicações previstas pelo TxGNN para gestodene, a indicação com maior suporte mecanístico e evidências reais é **acne vulgaris** (rank 4, L3 — Research Question): o perfil de baixa androgenicidade do gestodene e o aumento de SHBG com consequente redução de testosterona livre são mecanismos bem documentados. Embora as evidências disponíveis sejam de estudos com COC combinado (não gestodene isolado), esta linha investigativa merece atenção prioritária em relação às demais previsões.
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

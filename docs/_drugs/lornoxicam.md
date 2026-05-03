@@ -115,5 +115,10 @@ A previsão do TxGNN é mecanisticamente sólida e conta com suporte da literatu
 - Verificar se o rótulo ANVISA aprovado já contempla AR ou restringe-se a dor aguda e osteoartrite
 - Buscar o status de publicação do ensaio clínico PMID 12207202 e do crossover 12404032 em bases de dados adicionais para completar a cadeia de evidências
 - Considerar registro de ensaio clínico Phase 2/3 no Brasil caso os registros ANVISA não incluam AR na bula vigente
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

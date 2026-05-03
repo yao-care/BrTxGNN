@@ -107,5 +107,10 @@ Apesar da pontuação TxGNN elevada (99,92%), as evidências de suporte para est
 - Auditoria da base de dados de evidências para corrigir o possível erro de categorização (NCT02770508 vinculado à doença felina)
 - Resgate dos dados completos de registro ANVISA (indicações aprovadas, formas farmacêuticas disponíveis, advertências da bula)
 - Obtenção dos dados de MOA a partir do DrugBank API (remediação prevista no DG002 do Evidence Pack)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

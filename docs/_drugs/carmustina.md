@@ -85,5 +85,10 @@ O modelo TxGNN não gerou previsões de reposicionamento para Carmustina neste c
 - Recuperar os detalhes dos **6 registros** na ANVISA: números de registro, nomes comerciais, formas farmacêuticas e indicações aprovadas
 - Baixar e analisar a **bula oficial** para extrair advertências, contraindicações e interações medicamentosas
 - Consultar o **DrugBank** para obter dados completos de mecanismo de ação (MOA) e perfil de segurança
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

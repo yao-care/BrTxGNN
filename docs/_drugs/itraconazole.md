@@ -95,5 +95,10 @@ Consulte a bula para informações de segurança.
 - Identificação de um mecanismo de ação alternativo do itraconazol sobre *P. jirovecii* (ex.: inibição de vias de colesterol, efeito imunomodulador no hospedeiro ou outra hipótese mecanisticamente sustentável)
 - Dados de estudos pré-clínicos demonstrando atividade *in vitro* ou *in vivo* contra *P. jirovecii*
 - Revisão do pipeline TxGNN para incorporar a distinção ergosterol vs. colesterol como critério de filtragem de falsos positivos em previsões de antifúngicos
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -105,5 +105,10 @@ A previsão TxGNN para osteoartrite carece de plausibilidade mecanística — os
 - Corrigir o pipeline de busca de literatura para eliminar recuperação de artigos sobre Levetiracetam quando a query é Piracetam
 - Reavaliar a qualidade das previsões TxGNN para Piracetam com filtro de plausibilidade mecanística, a fim de distinguir sinal biológico real de ruído topológico do KG
 - Caso haja interesse em avançar para L4, considerar modelos pré-clínicos de osteoartrite em roedores como prova de conceito antes de qualquer investimento clínico
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

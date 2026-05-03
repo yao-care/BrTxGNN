@@ -118,5 +118,10 @@ A previsão TxGNN para PKD3 apresenta apenas evidência de nível L5 — baseada
 - Obter estudos pré-clínicos em modelos de cisto renal com solifenacin ou análogos antimuscarínicos
 - Consultar especialistas em nefrologia para avaliar se há qualquer base racional para investigação
 - Recuperar dados detalhados dos registros ANVISA e bula para avaliação completa de segurança (dados de advertências e contraindicações ausentes no Pack atual)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

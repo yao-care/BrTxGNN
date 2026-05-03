@@ -90,5 +90,10 @@ Apesar da alta pontuação de previsão do TxGNN (99,84%), não existe nenhum en
 - Dados completos de mecanismo de ação (MOA) do Olmesartan a partir do DrugBank
 - Dados de segurança completos (advertências, contraindicações e interações da bula ANVISA)
 - Levantamento dos registros individuais com textos de indicação aprovados no Brasil para confirmar a indicação original e eventuais usos aprovados correlatos
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

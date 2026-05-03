@@ -123,5 +123,10 @@ Existe um ensaio clínico randomizado de Fase 3 concluído (NCT01453686, n=41, p
 - Levantar advertências, contraindicações e interações medicamentosas da bula brasileira ou referência equivalente
 - Definir formulação-alvo (tópico 1% vs. intralesional) e população-alvo (pediátrica vs. adulto; leve vs. moderada/grave)
 - Avaliar o posicionamento competitivo frente a corticosteroides de maior potência (clobetasol, triancinolona) e terapias-alvo emergentes (baricitinibe, ritlecitinibe) já aprovadas para alopecia areata moderada/grave
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

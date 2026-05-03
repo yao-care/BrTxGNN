@@ -82,5 +82,10 @@ O Evidence Pack não contém indicações previstas pelo TxGNN, dados regulatór
 - **[DG002 — Alta prioridade]** Obter o DrugBank ID e informações de MOA via DrugBank API, necessários para a análise de plausibilidade mecanística
 - **Verificação de cadastro:** Re-consultar a base ANVISA com grafias alternativas ("ATROPINA", "ATROPINA SULFATO", "ATROPINE") para confirmar se há registro ativo
 - **Re-execução do pipeline:** Após obter o DrugBank ID correto, re-executar o TxGNN para gerar indicações previstas com pontuação e evidências associadas
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

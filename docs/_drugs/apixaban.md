@@ -108,5 +108,10 @@ A previsão do TxGNN para enxaqueca apoia-se em uma plausibilidade mecanística 
 ---
 
 *Este relatório é gerado automaticamente com base em dados do Evidence Pack (v4, corte: 2026-04-04) e destina-se exclusivamente a fins de pesquisa. Os resultados do modelo TxGNN são previsões computacionais e não constituem evidência clínica estabelecida. Qualquer aplicação terapêutica requer validação clínica independente.*
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

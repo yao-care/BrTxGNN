@@ -104,5 +104,10 @@ Não há previsões de novas indicações geradas pelo TxGNN, o fármaco não po
 ---
 
 > ⚠️ **Aviso**: Este relatório é apenas para fins de pesquisa e não constitui aconselhamento médico. Qualquer candidato a reposicionamento de fármaco requer validação clínica antes da aplicação.
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

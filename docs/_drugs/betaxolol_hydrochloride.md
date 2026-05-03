@@ -84,5 +84,10 @@ O Evidence Pack não contém previsões de novas indicações pelo modelo TxGNN,
 - 🟡 Executar ou revisar o pipeline TxGNN para gerar previsões de reposicionamento para o Betaxolol Hidrocloro
 - 🟡 Verificar mapeamento para DrugBank ID (atualmente nulo) para garantir cobertura no grafo de conhecimento
 - 🟡 Investigar por que a consulta TFDA retornou 0 registros — o fármaco pode estar cadastrado sob variantes de nome (ex: "betaxolol", sem o sufixo "hydrochloride")
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

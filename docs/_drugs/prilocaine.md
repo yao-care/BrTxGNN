@@ -99,5 +99,10 @@ A previsão do TxGNN para conjuntivite papilar é classificada em L5 — apenas 
 - Investigação do papel da neuroinflamação local na fisiopatologia da conjuntivite papilar como potencial alvo terapêutico
 - Complementação do mecanismo de ação completo via consulta ao DrugBank (DB00750)
 - Levantamento de eventuais registros regulatórios brasileiros (ANVISA) e internacionais para uso oftálmico
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

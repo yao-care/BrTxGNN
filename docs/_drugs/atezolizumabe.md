@@ -106,5 +106,10 @@ O Evidence Pack está incompleto em camadas críticas: nenhuma previsão TxGNN f
 - **Reexecutar o pipeline TxGNN** para gerar candidatos de novas indicações — sem previsões, o relatório de reposicionamento não pode ser produzido
 - **Completar os dados de registro**: número de registro, nome comercial, forma farmacêutica e texto da indicação aprovada
 - **Após obtenção das previsões**, retornar para avaliação completa, incluindo análise de ensaios clínicos e literatura
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

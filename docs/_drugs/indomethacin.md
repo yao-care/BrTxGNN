@@ -137,5 +137,10 @@ Há evidências históricas consistentes do uso de indomethacin em artrite juven
 - **Atualização de evidências:** Os estudos disponíveis são majoritariamente de 1967–1993; uma revisão sistemática atualizada é necessária para confirmar posicionamento frente a alternativas modernas (naproxeno, celecoxib, biológicos)
 - **Indicação secundária a monitorar:** Rheumatoid nodulosis (rank 10) apresenta nível L4 e recomendação "Research Question" — pode ser candidata a estudo exploratório de baixo custo
 - **Avaliação dos ranks 1–7 e 9:** As 8 previsões com recomendação "Hold" envolvem doenças raras de desenvolvimento ósseo/congênitas sem relação biológica com COX-inibição; devem ser descartadas como artefatos de topologia do grafo do TxGNN
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

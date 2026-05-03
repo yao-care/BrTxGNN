@@ -124,5 +124,10 @@ O mecanismo de ação de budesonide é farmacologicamente compatível com o ecze
 - Obtenção dos dados completos de MOA via DrugBank API (remediação de DG002)
 - Complementação das advertências e contraindicações da ANVISA (remediação de DG001 — Bloqueante)
 - Preenchimento dos detalhes dos registros brasileiros de budesonide (número de registro, formas farmacêuticas e indicações aprovadas)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

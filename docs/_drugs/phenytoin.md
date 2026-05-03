@@ -117,5 +117,10 @@ Existe suporte clínico de nível L3 — diretriz europeia de neurologia e estud
 - **Evidência clínica:** Conduzir ensaio clínico randomizado controlado comparando Phenytoin IV vs lacosamida IV em crises agudas de nevralgia do trigêmeo
 - **Monitoramento:** Definir protocolo de monitoramento de concentração sérica (janela terapêutica estreita: 10–20 µg/mL) e protocolo de infusão IV segura (risco de arritmia e hipotensão com infusão rápida)
 - **Interações:** Mapear DDIs relevantes para a população-alvo, frequentemente em polifarmácia
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

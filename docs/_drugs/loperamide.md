@@ -98,5 +98,10 @@ A previsão de Loperamide para conjuntivite contagiosa aguda não possui suporte
 - Investigar o sinal de segurança negativo identificado (PMID 17241255): risco de agravamento em infecções intestinais invasivas
 - Revisar o pipeline TxGNN para identificar e corrigir o cluster de pseudoassociações com conjuntivite originado por nós intermediários compartilhados no grafo
 - Avaliar separadamente a indicação de Rank 4 (gastroduodenite), a única com hipótese mecanística fraca e registro histórico na literatura (PMID 3520142, 1986), antes de qualquer decisão sobre avanço
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

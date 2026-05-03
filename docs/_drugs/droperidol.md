@@ -102,5 +102,10 @@ A previsão do TxGNN tem embasamento mecanístico coerente — droperidol e halo
 - Avaliar a viabilidade de formulação oral ou transdérmica para uso crônico, dado que a via parenteral atual é incompatível com tratamento prolongado de Tourette
 - Realizar pelo menos um estudo pré-clínico ou série de casos prospectiva específica para Tourette antes de considerar ensaio clínico
 - Revisar o perfil de segurança em uso prolongado — especialmente risco de discinesia tardia e prolongamento de QTc, reconhecidos na classe butyrophenone
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

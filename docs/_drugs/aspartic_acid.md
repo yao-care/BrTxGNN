@@ -106,5 +106,10 @@ As evidências disponíveis são predominantemente de ciência básica, estudos 
 - Coletar dados de segurança, advertências e contraindicações da bula oficial (atualmente indisponíveis — DG001)
 - Confirmar dados de mecanismo de ação no DrugBank (DG002)
 - Definir a via de administração adequada para uso terapêutico (oral vs. intravenosa) e as doses clinicamente relevantes
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

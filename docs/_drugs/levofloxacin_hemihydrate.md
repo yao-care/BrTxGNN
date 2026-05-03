@@ -83,5 +83,10 @@ Sem predições TxGNN e sem indicação original mapeada, não há base analíti
 - **[Crítico]** Preencher o `drugbank_id` a partir do resultado já obtido na consulta DrugBank (`result_count: 1`), permitindo que o TxGNN posicione o fármaco no KG e gere predições
 - **[Alto]** Consultar a bula disponível na ANVISA para preencher os dados de segurança (advertências, contraindicações, interações medicamentosas)
 - **[Alto]** Reexecutar o pipeline completo (KG + DL + Mapping) após correção do mapeamento de nome para obter `predicted_indications`
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

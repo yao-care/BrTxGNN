@@ -103,5 +103,10 @@ A previsão do TxGNN é enquadrada em **L5** (exclusivamente baseada no modelo, 
 - Consultar e processar a bula ANVISA para advertências e contraindicações (DG001 — severidade Bloqueante)
 - Buscar evidências pré-clínicas ou estudos mecanicistas que conectem inibição de COX à via BMP/CDMP1
 - Considerar redirecionar a análise para a **espondiloartropatia (rank 8)**, que apresenta maior plausibilidade mecanicista e alguma evidência indireta na literatura
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

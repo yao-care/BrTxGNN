@@ -125,5 +125,10 @@ A combinação Piperacillin/Tazobactam é um tratamento consolidado e recomendad
 - Confirmar o perfil de interações medicamentosas em contexto de UTI (especialmente com vancomicina, aminoglicosídeos e anticoagulantes)
 - Avaliar ajustes de dose em populações especiais: insuficiência renal (TFG < 40 mL/min), pacientes em CRRT/hemodiálise e pacientes pediátricos
 - Checar registros de Pip/Tazo especificamente para a indicação de HAP/VAP nos registros ANVISA brasileiros
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -99,5 +99,10 @@ A previsão TxGNN de nível L5 para suscetibilidade à osteoartrite não possui 
   - **DG001** (Bloqueante): Advertências e contraindicações da bula ANVISA — baixar PDF da bula no site TFDA/ANVISA
   - **DG002** (Alto): Mecanismo de ação detalhado — consultar DrugBank API para `DB01249`
 - Reavaliação do pipeline TxGNN para filtrar associações diagnósticas vs. terapêuticas no KG, evitando que o uso de contrastes em procedimentos diagnósticos gere candidatos de reposicionamento espúrios
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

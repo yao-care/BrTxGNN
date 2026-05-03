@@ -78,5 +78,10 @@ O modelo TxGNN não produziu previsões de reposicionamento para TESTOSTERONE CY
 - Verificar se TESTOSTERONE CYPIONATE está corretamente mapeado no grafo de conhecimento TxGNN (nó de fármaco presente e ligado a doenças)
 - Confirmar se existem indicações originais registradas na base regulatória nacional para este fármaco
 - Re-executar o pipeline de predição após resolução das lacunas, garantindo que o mapeamento DrugBank → nó do KG esteja funcional
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

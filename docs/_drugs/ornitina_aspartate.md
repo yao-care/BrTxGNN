@@ -87,5 +87,10 @@ A ausência total de dados regulatórios brasileiros, de DrugBank ID vinculado e
 - [ ] **Resolver status regulatório**: Verificar se o composto está disponível no Brasil sob outro nome (ex.: "L-ORNITINA L-ASPARTATO", "LOLA") ou como suplemento/hospitalar
 - [ ] **Coletar MOA**: Consultar DrugBank API ou literatura para descrever o mecanismo (ciclo da ureia, síntese de glutamina)
 - [ ] **Re-executar pipeline**: Após resolução das lacunas acima, re-executar a predição TxGNN com o DrugBank ID correto
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -109,5 +109,10 @@ Embora existam séries de casos e estudos comparativos pequenos que sugerem ativ
 - Detalhar o mecanismo de ação (MOA) via DrugBank para fortalecer a análise mecanística
 - Confirmar compatibilidade de via de administração (uso tópico já existente favorece viabilidade prática)
 - Definir endpoints objetivos de resposta (ex.: redução ≥50% da área da lesão, regressão completa)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

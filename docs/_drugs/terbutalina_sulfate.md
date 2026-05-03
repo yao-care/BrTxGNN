@@ -75,5 +75,10 @@ O modelo TxGNN não gerou nenhuma previsão de reposicionamento para Terbutalina
 - Após resolução das lacunas acima, regenerar o Evidence Pack e iniciar nova rodada de avaliação
 
 > ⚠️ **Nota metodológica:** A ausência de resultados na consulta TFDA/ANVISA é inconsistente com o conhecimento farmacológico estabelecido sobre este fármaco. Recomenda-se verificar o pipeline de consulta antes de assumir que o medicamento está genuinamente ausente do mercado brasileiro.
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

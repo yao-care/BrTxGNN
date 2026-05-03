@@ -102,5 +102,10 @@ A previsão TxGNN para calcifiláxia visceral é nível L5 (apenas previsão de 
 - Elucidação formal do mecanismo de ação sistêmico do Travoprost (atualmente lacuna de dados crítica)
 - Dados completos da bula registrada na ANVISA para avaliação de advertências e contraindicações
 - Reavaliação da relevância biológica com base em dados de expressão do receptor FP em tecidos vasculares sistêmicos afetados pela calcifiláxia
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -98,5 +98,10 @@ A ligação mecanística entre Tolnaftate e a infecção ectótrix é biologicam
 - Dados completos de mecanismo de ação (MOA) e perfil de segurança — atualmente com lacunas no banco de dados
 - Início de processo de registro ANVISA para estabelecer base regulatória no Brasil
 - Avaliação comparativa de eficácia versus o padrão de tratamento sistêmico vigente (griseofulvina/terbinafina oral)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

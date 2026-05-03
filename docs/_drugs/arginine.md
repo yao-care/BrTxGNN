@@ -111,5 +111,10 @@ Embora a previsão do TxGNN seja mecanisticamente fundamentada e biologicamente 
 - Verificar advertências, contraindicações e interações medicamentosas junto à ANVISA e bula (pendência DG001)
 - Definir via de administração e posologia adequadas para a indicação gastrointestinal (oral vs. endovenosa)
 - Avaliar segurança em populações-alvo específicas (ex.: diabéticos em uso de insulina, pacientes em uso crônico de glicocorticoides)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

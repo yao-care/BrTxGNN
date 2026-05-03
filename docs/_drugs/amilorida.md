@@ -83,5 +83,10 @@ O modelo TxGNN não gerou previsões de reposicionamento para Amilorida, e os da
 - Consultar a API do DrugBank para recuperar o mecanismo de ação (MOA) e categorias farmacológicas
 - Processar os 20 registros regulatórios via ANVISA para obter nome comercial, forma farmacêutica e indicação aprovada
 - Baixar e analisar as bulas em PDF para extrair advertências principais, contraindicações e interações medicamentosas (`DG001`, severidade: Blocking)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

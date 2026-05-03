@@ -103,5 +103,10 @@ A vulvovaginite candidiásica representa uma das aplicações clínicas mais ant
 - Confirmar dados de mecanismo de ação via DrugBank API (DG002) para completude do dossiê
 - Mapear o **perfil epidemiológico local** de resistência de *Candida* spp. a azólicos no Brasil, para definir posicionamento estratégico da Nistatina como alternativa de segunda linha ou para VVC refratária
 - Identificar parceiros industriais com capacidade de produção da formulação vaginal em conformidade com as Boas Práticas de Fabricação exigidas pela ANVISA
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -102,5 +102,10 @@ A previsão do TxGNN para PLAN baseia-se exclusivamente em inferência por grafo
 - Regularizar situação regulatória no Brasil (nenhum registro ANVISA encontrado)
 
 > **Nota sobre outras indicações avaliadas neste pacote:** O Evidence Pack é do tipo *multi*, cobrindo 10 indicações previstas. Entre elas, **Demência com Corpos de Lewy** (Rank 7, score 99,25%) apresenta o maior suporte evidencial disponível — 1 ensaio clínico e 3 publicações (Nível L4, Research Question) — e pode ser o candidato mais promissor para próximas etapas de pesquisa neste fármaco.
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -127,5 +127,10 @@ O KCl possui papel mecanisticamente consolidado na correção da hipocalemia ass
 - Estratificar o subtipo de RTA **antes** do uso: excluir RTA Tipo 4 (hipercalêmica) para evitar hipercalemia grave
 - Avaliar necessidade de combinação com agente alcalinizante (Citrato de Potássio ou NaHCO₃) para manejo completo da acidose metabólica
 - Definir protocolo de monitoramento: K⁺ sérico, pH arterial/venoso, bicarbonato, função renal (creatinina, TFG) em acompanhamento seriado
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -134,5 +134,10 @@ A Síndrome de Werner possui mecanismo de doença claramente centrado na depleç
 - **Registro ANVISA:** Pré-requisito obrigatório para qualquer ensaio clínico conduzido no Brasil
 - **Protocolo de monitoramento:** Glicemia de jejum e função hepática (ALT/AST) para uso prolongado — especialmente crítico em pacientes WS com diabetes já estabelecido
 - **Dose-finding:** Definir janela terapêutica entre dose eficaz para elevar NAD⁺ e dose que induz dispepsia/hepatotoxicidade
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

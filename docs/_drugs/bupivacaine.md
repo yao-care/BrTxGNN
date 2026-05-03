@@ -92,5 +92,10 @@ Apesar da pontuação elevada do TxGNN (99,23%), não existe nenhuma evidência 
 - Identificar estudos pré-clínicos que demonstrem algum efeito sobre *B. burgdorferi* ou sobre a inflamação tecidual específica da ACA
 - Verificar diretamente na ANVISA se há registros de bupivacaína no Brasil não capturados por este Evidence Pack
 - Caso avanços pré-clínicos sejam identificados, reclassificar para L4 e reavaliar a decisão
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

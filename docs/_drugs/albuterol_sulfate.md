@@ -72,5 +72,10 @@ O pacote de evidências não contém previsões TxGNN nem dados regulatórios br
 - Recuperar o MOA detalhado via DrugBank API (bloqueador DG002)
 - Obter advertências e contraindicações da bula ANVISA (bloqueador DG001)
 - Após correção da nomenclatura, reavaliar as previsões TxGNN antes de qualquer decisão de reposicionamento
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

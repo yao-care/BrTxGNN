@@ -130,5 +130,10 @@ Pibrentasvir inibe a proteína NS5A, exclusiva do HCV, que não possui equivalen
 - Análise de modelagem estrutural (docking molecular) comparando o bolsão de ligação da NS5A do HCV com proteínas do HBV que possam compartilhar similaridade tridimensional
 - Identificação de qualquer subgrupo nos ensaios GLE/PIB existentes com dados de resposta virológica do HBV (carga viral HBV DNA antes e depois do tratamento) em pacientes HBV/HCV co-infectados
 - Protocolo de Fase 1 específico para HBV apenas após confirmação de pelo menos um dos pontos acima
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

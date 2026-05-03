@@ -82,5 +82,10 @@ Nenhuma previsão de reposicionamento foi gerada pelo TxGNN neste ciclo. A ausê
 - **Obter dados regulatórios brasileiros**: Verificar registros na ANVISA (o fármaco é amplamente comercializado no Brasil sob nomes como Ancoron® e Atlansil®, mas não constou na consulta TFDA)
 - **Baixar e analisar a bula (PDF)**: Para recuperar advertências, contraindicações e interações medicamentosas relevantes, especialmente dado o perfil de toxicidade conhecido da amiodarona
 - **Re-executar o pipeline completo** após sanadas as lacunas acima (DG001 e DG002 identificadas no `meta.data_gaps`)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

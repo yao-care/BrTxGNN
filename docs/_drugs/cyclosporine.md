@@ -97,5 +97,10 @@ A ciclosporina está presente em protocolos de HSCT para DGC, mas exclusivamente
 - Obter dados completos de mecanismo de ação (MOA) e perfil de segurança via DrugBank API e bula oficial
 - Consultar especialistas em imunodeficiências primárias para validação da hipótese mecanística
 - Avaliar a viabilidade regulatória de um registro junto à ANVISA caso as evidências sejam fortalecidas
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

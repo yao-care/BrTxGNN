@@ -71,5 +71,10 @@ O Evidence Pack não contém previsões de reposicionamento para este fármaco e
 - Verificar se o fármaco está registrado na ANVISA sob denominação alternativa (ex.: "Ampicilina", "Ampicilina Tri-hidratada") ou código diferente
 - Obter advertências, contraindicações e MOA a partir da bula oficial ou da API do DrugBank (lacunas DG001 e DG002)
 - Após sanear as lacunas, reexecutar o pipeline completo de coleta de evidências (ClinicalTrials.gov, PubMed) para a indicação prevista
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -96,5 +96,10 @@ As evidências disponíveis não sustentam o reposicionamento de fenilalanina pa
 - Esclarecimento do paradoxo mecanístico (aminoácido livre vs. peptídeo bacteriano quimiotático)
 - Revisão da arquitetura do modelo TxGNN para avaliar se está distinguindo adequadamente associações patológicas de relações terapêuticas
 - Obtenção de dados completos de segurança (MOA, advertências, contraindicações via DrugBank/ANVISA) antes de qualquer consideração clínica adicional
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

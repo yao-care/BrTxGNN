@@ -117,5 +117,10 @@ As evidências disponíveis para a única indicação mecanisticamente plausíve
 ---
 
 > ⚕️ **Aviso:** Este relatório é gerado automaticamente pelo pipeline TxGNN para fins de pesquisa. Os resultados não constituem aconselhamento médico. Candidatos a reposicionamento requerem validação clínica antes de qualquer aplicação terapêutica.
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

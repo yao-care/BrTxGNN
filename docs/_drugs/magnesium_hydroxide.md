@@ -114,5 +114,10 @@ O mecanismo de ação do Mg(OH)₂ na úlcera péptica ativa é farmacologicamen
 - **Dados de segurança:** levantar advertências, contraindicações e interações medicamentosas por meio de consulta à bula e à API do DrugBank (lacunas DG001 e DG002 ainda abertas)
 - **Ensaio clínico moderno:** desenhar estudo controlado com critérios contemporâneos — diagnóstico endoscópico de úlcera ativa, comparador ativo (IBP), desfecho primário de cicatrização endoscópica em 4–8 semanas
 - **Posicionamento clínico:** definir se o papel é de monoterapia em casos selecionados (úlcera leve, sem H. pylori) ou de adjuvante ao IBP para alívio sintomático rápido (aproveitando o início de ação em <5 minutos)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

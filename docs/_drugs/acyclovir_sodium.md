@@ -83,5 +83,10 @@ O pipeline TxGNN não retornou nenhuma previsão de reposicionamento para Acyclo
 - Integrar os dados de mecanismo de ação ao Evidence Pack (a consulta ao DrugBank retornou 1 resultado, mas os campos não foram preenchidos)
 - Coletar advertências, contraindicações e interações medicamentosas a partir da bula oficial (ANVISA/TFDA)
 - Reprocessar o pipeline com os dados regulatórios corrigidos para habilitar as previsões TxGNN
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

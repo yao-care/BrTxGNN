@@ -81,5 +81,10 @@ O Evidence Pack não contém previsões TxGNN nem dados regulatórios brasileiro
 - **Verificar registro ANVISA**: Pesquisar se há registros ativos ou em tramitação no Brasil para compostos à base de bendamustina
 - **Obter dados de segurança (DG001)**: Buscar informações de advertências e contraindicações na bula registrada em países onde o fármaco é comercializado (EUA: Treanda/Bendeka; Europa: Levact)
 - **Reprocessar após correções**: Após saneamento dos dados, reiniciar a avaliação a partir da fase de previsão TxGNN
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

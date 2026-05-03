@@ -108,5 +108,10 @@ Não existe suporte mecanístico para o uso de Digoxin na angina de Prinzmetal �
 - Baixar e parsear a bula ANVISA para advertências, contraindicações e interações medicamentosas
 - Realizar revisão farmacológica especializada sobre efeito de Digoxin em musculatura lisa vascular coronariana antes de qualquer decisão de desenvolvimento
 - Avaliar as demais indicações previstas (postos 2–6) sob perspectiva de maior plausibilidade mecanística, especialmente à luz dos dados de segurança disponíveis
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

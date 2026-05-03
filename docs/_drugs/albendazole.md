@@ -116,5 +116,10 @@ Albendazole é reconhecido pelas diretrizes internacionais (WHO, ECTM) como o tr
 - Avaliar viabilidade de processo de registro regulatório na ANVISA, potencialmente pela via de medicamento órfão para doença negligenciada
 - Acompanhar publicação dos dados finais do ensaio NCT07182305 para consolidação das evidências de eficácia em estágio inicial da doença
 - Considerar formulações com biodisponibilidade oral aprimorada (nanocristais, dispersão cristalina), dado o impacto documentado da solubilidade limitada do albendazole nos desfechos clínicos
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

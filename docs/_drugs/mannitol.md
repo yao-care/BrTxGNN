@@ -100,5 +100,10 @@ As evidências disponíveis são insuficientes para apoiar o reposicionamento de
 - Avaliação de segurança específica para uso em NSIAD, incluindo risco de edema pulmonar, expansão volêmica e sobrecarga cardíaca
 - Consulta a especialistas em nefrologia e endocrinologia para avaliação de viabilidade clínica
 - Verificar e atualizar o status regulatório do Mannitol junto à ANVISA, pois a ausência de registros na base de dados pode refletir lacuna de dados e não ausência real de comercialização no Brasil
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -81,5 +81,10 @@ O modelo TxGNN não gerou nenhuma indicação candidata para Carbonato de Cálci
 - Obter dados de MOA via consulta à API do DrugBank (remediar DG002)
 - Investigar se o Carbonato de Cálcio possui registro ANVISA sob outro nome de INN ou sob combinações (ex: carbonato de cálcio + vitamina D)
 - Avaliar se a ausência de registro ANVISA é real ou decorre de diferença na nomenclatura utilizada na consulta
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

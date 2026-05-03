@@ -101,5 +101,10 @@ A previsão do TxGNN para hipertermia maligna induzida por exercício não possu
 - Descarregar e analisar as bulas registradas na ANVISA para preencher dados de segurança, advertências e contraindicações (DG001, severidade: Blocking)
 - Considerar redirecionar esforços analíticos para indicações de menor rank mas maior plausibilidade: **Otite Média Infecciosa (rank 4, L4)** — onde xylitol (estrutura análoga) tem RCT com grau B de relevância, sugerindo que o sorbitol pode partilhar mecanismo de interferência na adesão bacteriana — é o candidato com melhor fundamento biológico neste Evidence Pack
 - Preencher os dados de registro da ANVISA para completar a seção de comercialização
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

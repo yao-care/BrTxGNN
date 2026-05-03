@@ -112,5 +112,10 @@ A previsão do TxGNN é biologicamente plausível e apoiada por estudos animais 
 - Confirmar o status de conclusão do ensaio [NCT05746377](https://clinicaltrials.gov/study/NCT05746377) (atualmente "UNKNOWN") e obter seus resultados
 - Definir subpopulação-alvo com maior benefício potencial (ex.: úlcera gástrica refratária associada a gastroparesia)
 - Conduzir revisão sistemática atualizada sobre metoclopramide como terapia adjuvante em úlcera gástrica
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

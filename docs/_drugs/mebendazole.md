@@ -104,5 +104,10 @@ Não existe base mecanística plausível para o uso de Mebendazole em acne, e a 
 - Identificar qualquer hipótese mecanística minimamente viável (por exemplo: atividade anti-inflamatória documentada, efeito sobre microbioma cutâneo, ou atividade sobre *C. acnes*) antes de qualquer investigação adicional
 - Se o interesse de reposicionamento em Mebendazole persistir, redirecionar a avaliação para as indicações com evidência real identificadas neste Evidence Pack: **echinococcose por *E. granulosus*** (rank 3, L3, 7 publicações) e **echinococcose alveolar** (rank 5, L3, 1 ensaio clínico + 20 publicações) — ambas com recomendação *Proceed with Guardrails* e conexão mecanística estabelecida via inibição de β-tubulina do parasita
 - Antes de qualquer avanço regulatório no Brasil, iniciar processo de registro na ANVISA, dado que o fármaco não possui comercialização no país
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -93,5 +93,10 @@ Existem duas lacunas de dados críticas — DG001 (Blocking) e DG002 (High) — 
 - **[Alta prioridade]** Resolver DG002: identificar o `drugbank_id` correto (possivelmente DB01234 para Abatacept) e consultar a DrugBank API para obter dados de MOA, categorias e toxicidade
 - **[Necessário]** Corrigir a extração dos campos do registro ANVISA: nome comercial, forma farmacêutica e indicação aprovada
 - **[Após resolução das lacunas]** Reexecutar o pipeline TxGNN com os dados completos para gerar previsões de reposicionamento e habilitar a produção de um relatório completo
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

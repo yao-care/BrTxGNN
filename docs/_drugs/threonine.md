@@ -96,5 +96,10 @@ As evidências disponíveis são insuficientes para avançar nesta proposta de r
 - Verificar advertências, contraindicações e interações medicamentosas em monografia oficial
 - Avaliar se há literatura sobre suplementação de aminoácidos essenciais e motilidade gastrointestinal que possa sustentar a hipótese
 - Caso haja suporte pré-clínico, considerar protocolo de estudo piloto de Fase 1/2 antes de qualquer avanço clínico
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

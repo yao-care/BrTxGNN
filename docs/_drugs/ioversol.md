@@ -108,5 +108,10 @@ A previsão do TxGNN para suscetibilidade à osteoartrite é classificada como L
 - Dados completos dos registros ANVISA com indicações aprovadas (remediar ausência nos `licenses`)
 - Hipótese mecanicista publicada e plausível conectando agentes de contraste iodados à fisiopatologia da OA
 - Estudos pré-clínicos em modelos animais de osteoartrite como mínimo de evidência inicial (para sair do nível L5)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

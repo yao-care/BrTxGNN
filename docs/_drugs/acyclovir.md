@@ -105,5 +105,10 @@ A pontuação TxGNN de 99,67% provavelmente reflete co-ocorrência epidemiológi
 - Priorizar avaliação das indicações deste mesmo Evidence Pack com melhor suporte clínico disponível:
   - **Verruga Comum (Common Wart)** — Rank 2, Nível L2, 6 ensaios clínicos incluindo Phase 2/3 RCT (NCT06261684, 92 pacientes) e múltiplos RCTs de 2025, recomendação **Proceed with Guardrails**
   - **Doença da Região Orbital (Disease of Orbital Region)** — Rank 9, Nível L3, com ensaio direto de Acyclovir oral em uveíte viral (NCT03389191) e histórico clínico em ceratite herpética, recomendação **Proceed with Guardrails**
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

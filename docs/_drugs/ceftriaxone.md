@@ -92,5 +92,10 @@ Não há ensaios clínicos, estudos observacionais ou literatura científica apo
 - Investigar se existe algum mecanismo terapêutico direto ainda não identificado na literatura científica
 - Notar que outras indicações previstas pelo modelo apresentam evidências substancialmente mais sólidas: **Otite Média Infecciosa** (Rank 4, Nível L2, 3 ensaios clínicos e 19 publicações — recomendação *Proceed with Guardrails*) representa candidato com maior potencial de desenvolvimento clínico imediato
 - Completar o levantamento do mecanismo de ação (MOA) via DrugBank API e obter dados de segurança da bula oficial
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

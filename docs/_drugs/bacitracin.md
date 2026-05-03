@@ -104,5 +104,10 @@ A previsão TxGNN para ceratoconjuntivite epitelial punctata é de nível L5 —
 ---
 
 > ⚠️ **Aviso:** Este relatório é gerado por modelo preditivo (TxGNN) e destina-se **exclusivamente a fins de pesquisa**. Não constitui recomendação médica. Qualquer aplicação clínica requer validação por ensaios clínicos controlados e aprovação regulatória competente.
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

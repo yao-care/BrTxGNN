@@ -101,5 +101,10 @@ A previsão do TxGNN baseia-se exclusivamente no modelo computacional (nível L5
 - Confirmar mecanismo de ação (MOA) completo via consulta à API do DrugBank (DG002)
 - Verificar registro e situação regulatória no Brasil via ANVISA, incluindo download e análise de bula para advertências e contraindicações (DG001)
 - Mapear a rosácea ocular como subconjunto dentro de estudos clínicos existentes de anti-histamínicos H1 de segunda geração
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

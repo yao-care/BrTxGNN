@@ -99,5 +99,10 @@ Apesar da pontuação extremamente alta do modelo TxGNN (99,98%), a previsão pa
 - Obtenção dos dados completos de segurança via bula oficial (advertências, contraindicações — pendência DG001)
 - Documentação estruturada do mecanismo de ação via DrugBank API (pendência DG002)
 - Avaliação de risco para uso pediátrico, considerando que as formas hereditárias frequentemente se manifestam em crianças e jovens, população na qual β-bloqueadores tópicos exigem monitoramento cardiovascular e pulmonar rigoroso
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

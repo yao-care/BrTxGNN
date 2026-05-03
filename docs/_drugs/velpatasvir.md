@@ -134,5 +134,10 @@ Velpatasvir é um inibidor altamente específico da NS5A do HCV — proteína se
 - Esclarecimento do MOA completo via consulta ao DrugBank API (DB11613)
 - Obtenção dos dados completos dos 2 registros ANVISA (indicações aprovadas, advertências, contraindicações da bula brasileira)
 - Caso seja de interesse o manejo de co-infecção HCV/HBV, avaliar o NCT04997564 como modelo de estudo (SOF/VEL + TAF profilático), que já demonstra viabilidade clínica da combinação
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -109,5 +109,10 @@ Existe hipótese mecanística biologicamente plausível — depleção de Tregs 
 - Avaliar interações medicamentosas com os regimes de condicionamento do ASCT (ex.: melfalan em altas doses)
 - Comparar o perfil de risco-benefício frente a alternativas imunoterápicas disponíveis no contexto pós-ASCT (ex.: pembrolizumabe, elotuzumabe, daratumumabe)
 - Mapear populações específicas de alto risco (ex.: MM de alto risco citogenético) onde a estratégia imunológica possa oferecer maior benefício diferencial
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

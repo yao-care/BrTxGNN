@@ -71,5 +71,10 @@ O pipeline TxGNN não produziu candidatos de reposicionamento para Atazanavir Su
 - Obter dados de mecanismo de ação (MOA) via DrugBank API (consulta retornou 1 resultado mas sem detalhes estruturados no pacote)
 - Baixar e analisar bula(s) para extrair advertências, contraindicações e interações medicamentosas relevantes
 - Reexecutar o pipeline TxGNN com os dados regulatórios completos para gerar previsões de reposicionamento
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

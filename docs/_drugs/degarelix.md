@@ -120,5 +120,10 @@ A previsão de maior pontuação (hipertricose) é mecanisticamente incoerente �
 - Obter dados completos de segurança (advertências, contraindicações da bula brasileira) para cumprir o requisito de avaliação S1
 - Avaliar separadamente a **puberdade precoce central (rank 9)** como candidata prioritária de reposicionamento, com busca sistemática de ensaios clínicos de antagonistas de GnRH de classe (cetrorelix, ganirelix) nessa indicação, como evidência indireta de classe farmacológica
 - Confirmar dados de segurança pediátrica antes de qualquer exploração em CPP
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

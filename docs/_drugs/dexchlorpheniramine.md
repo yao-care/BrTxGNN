@@ -105,5 +105,10 @@ O alinhamento entre o mecanismo de antagonismo H1 do dexchlorpheniramine e a fis
 - Investigar se existem registros ANVISA de produtos **combinados** contendo dexchlorpheniramine (e.g., formulações antitussígenas ou antigripais) que possam viabilizar uso off-label em urticária
 - Conduzir revisão sistemática comparando dexchlorpheniramine (1ª geração, perfil sedativo) com antihistamínicos de 2ª geração nas diretrizes brasileiras de urticária (SBD/SBAI), avaliando se o perfil de segurança justifica posicionamento em sub-populações específicas
 - Avaliar viabilidade de estudo clínico controlado no Brasil caso a estratégia regulatória prossiga, com desfecho primário em escore de atividade de urticária (UAS7)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

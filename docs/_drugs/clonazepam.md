@@ -117,5 +117,10 @@ Há sólida base literária para o uso do clonazepam em SPI, incluindo revisão 
 - Confirmar disponibilidade de formulações orais em dosagens adequadas para uso crônico em SPI (tipicamente 0,5–2 mg/noite)
 - Avaliar perfil de risco em populações especiais — idosos (risco aumentado de quedas e comprometimento cognitivo), gestantes e pacientes com apneia obstrutiva do sono
 - Estabelecer protocolo de monitoramento para dependência física e tolerância farmacodinâmica em uso prolongado
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -80,5 +80,10 @@ O Evidence Pack não contém previsões de novas indicações (`predicted_indica
 - Recuperar dados de MOA do DrugBank — a consulta retornou 1 resultado (`result_status: success`) mas o campo `drugbank_id` e `original_moa` não foram populados; verificar a extração
 - Baixar e analisar a bula da ANVISA/TFDA para preencher advertências principais e contraindicações (DG001 – severidade Blocking)
 - Consultar banco de dados de interações medicamentosas (DDI) com nome alternativo ou sinônimos, pois a consulta atual retornou `not_found`
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

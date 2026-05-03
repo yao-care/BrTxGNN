@@ -112,5 +112,10 @@ A fisiopatologia da alopecia areata é diretamente compatível com o mecanismo d
 - Verificação independente do status regulatório junto à ANVISA — os 0 registros encontrados podem refletir limitação de busca e não a ausência real do produto no mercado brasileiro
 - Plano estruturado de monitoramento de efeitos adversos de longo prazo, abrangendo: supressão do eixo HPA, densidade mineral óssea (osteoporose), glicemia (hiperglicemia/diabetes), pressão intraocular (catarata/glaucoma) e composição corporal
 - Definição de protocolo de dosagem (dose, frequência e duração da pulsoterapia) alinhado com os estudos disponíveis (PMID 15692475; PMID 21572877) e adaptado ao perfil do paciente (adulto vs. pediátrico, extensão da alopecia)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -84,5 +84,10 @@ O Evidence Pack de Bilastina encontra-se incompleto: não há previsões TxGNN, 
 - Consultar o DrugBank API para obter o DrugBank ID e dados completos de MOA *(Data Gap DG002 — Alta prioridade)*
 - Recuperar os detalhes individuais dos 19 registros (nome comercial, forma farmacêutica, indicação aprovada)
 - Reexecutar a busca de interações medicamentosas (DDI) com o identificador correto do fármaco
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

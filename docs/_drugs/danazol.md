@@ -112,5 +112,10 @@ A amenorreia é um efeito farmacológico biologicamente plausível e clinicament
 - Definir com precisão a população-alvo (endometriose refratária, supressão menstrual terapêutica, indivíduos transgênero)
 - Estabelecer protocolo de monitoramento de segurança: função hepática, perfil lipídico, pressão arterial e efeitos androgênicos reversíveis
 - Avaliar a necessidade de um estudo prospectivo de Fase 2 com amenorreia como endpoint primário nas populações não cobertas pelas indicações regulatórias atuais
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

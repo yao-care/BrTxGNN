@@ -95,5 +95,10 @@ A pontuação elevada do TxGNN (99,26%) reflete provavelmente transferência fen
 - Consultar especialista em genética dermatológica para avaliação da plausibilidade biológica desta indicação específica
 - Caso o interesse clínico seja em perda capilar androgênica, redirecionar a avaliação para **alopecia androgenética** — indicação com base mecanística robusta e literatura existente para Spironolactone
 - Registrar este candidato como baixa prioridade de desenvolvimento, mantendo monitoramento passivo da literatura
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

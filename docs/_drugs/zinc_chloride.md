@@ -97,5 +97,10 @@ A previsão do TxGNN é biologicamente plausível com base no papel do zinco na 
 - Dados completos de mecanismo de ação (MOA) do Cloreto de Zinco a partir do DrugBank
 - Dados de segurança e advertências da bula (ANVISA/TFDA)
 - Avaliação da janela terapêutica vs. toxicidade ocular do ZnCl₂
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

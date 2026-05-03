@@ -100,5 +100,10 @@ A previsão do TxGNN para TDAH carece de suporte mecanístico e apresenta contra
 - Obter dados formais de mecanismo de ação via API do DrugBank (pendência DG002)
 - Obter a bula/monografia oficial para levantamento completo de advertências, contraindicações e interações medicamentosas (pendência DG001)
 - Reavaliar as indicações de menor rank com melhor plausibilidade mecanística: a indicação de **rank 5 — PLA2G6-associated neurodegeneration (PLAN)** — apresenta a conexão mecanística mais sólida de todo o pacote, pois o PLAN pode manifestar parkinsonismo e distonia, condições para as quais o Trihexyphenidyl já é tratamento estabelecido; esta indicação foi classificada como **Research Question** e é o candidato mais promissor para investigação adicional
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

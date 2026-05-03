@@ -70,5 +70,10 @@ Não há previsões de reposicionamento disponíveis para este composto nesta ex
 - Após identificação dos registros ANVISA, extrair dados de MOA e advertências da bula para preencher as lacunas de segurança
 - Re-executar o modelo TxGNN com o DrugBank ID correto para gerar candidatos de reposicionamento e seus scores
 - Repetir coleta de evidências (ensaios clínicos, literatura) após definição da nova indicação prevista
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

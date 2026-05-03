@@ -96,5 +96,10 @@ Apesar da pontuação TxGNN elevada (99,98%), não existe nenhum ensaio clínico
 - Estudos pré-clínicos investigando o efeito do Acetato de Sódio em modelos animais de deficiência de protrombina
 - Revisão crítica das conexões do grafo TxGNN para distinguir predições genuínas de artefatos de co-localização topológica
 - Avaliação de segurança para uso terapêutico contínuo, dado que o fármaco atualmente carece de registro no Brasil
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

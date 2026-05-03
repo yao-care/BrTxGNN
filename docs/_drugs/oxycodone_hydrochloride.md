@@ -86,5 +86,10 @@ Sem previsões geradas pelo modelo TxGNN e sem registros localizados na ANVISA, 
 - Baixar e analisar a bula disponível na TFDA/ANVISA para preencher os dados de advertências e contraindicações
 - Consultar a DrugBank API para obter dados estruturados de MOA e categorias farmacológicas
 - Reanalisar com o pacote de dados completo para permitir a geração de previsões pelo TxGNN
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

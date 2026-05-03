@@ -95,5 +95,10 @@ Apesar da pontuação TxGNN elevada (99,95%), o nível de evidência é L4 — s
 - Recuperar informações de segurança, advertências e contraindicações da bula oficial (ANVISA)
 - Avaliar a situação regulatória e viabilidade de registro no Brasil, dado que o fármaco não está comercializado no país
 - Ampliar a busca na literatura com termos combinados (allopurinol + xanthine oxidase + heme biosynthesis + ALAS1) para identificar eventuais evidências mecanísticas mais robustas
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -102,5 +102,10 @@ A previsão situa-se em nível L5 (apenas saída do modelo, sem qualquer estudo 
 - Confirmar o mecanismo de ação detalhado (MOA) via DrugBank API (DG002)
 - Conduzir revisão sistemática da literatura sobre G-CSF/filgrastim e disfunções qualitativas de plaquetas (grânulos δ/α)
 - Avaliar se estudos pré-clínicos com modelos de disfunção de grânulos plaquetários são viáveis antes de qualquer avanço clínico
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

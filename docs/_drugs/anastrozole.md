@@ -132,5 +132,10 @@ Anastrozole possui um dos perfis de evidências mais robustos já documentados e
 - Verificar disponibilidade de formulações genéricas internacionais com equivalência comprovada que possam agilizar o processo regulatório
 - Estabelecer protocolo de monitoramento de densidade mineral óssea (DEXA basal e seguimento periódico) para pacientes em tratamento
 - Avaliar custo-efetividade comparativo com tamoxifeno (disponível no SUS) para definir populações-alvo prioritárias no contexto do sistema de saúde brasileiro
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

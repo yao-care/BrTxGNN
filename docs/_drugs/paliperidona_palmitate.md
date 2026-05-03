@@ -84,5 +84,10 @@ O Evidence Pack está incompleto — ausência de DrugBank ID, nenhuma previsão
 - Obter dados de segurança (advertências principais, contraindicações) da bula oficial (ANVISA, FDA ou EMA)
 - Obter dados de MOA detalhados via DrugBank API
 - Verificar registro junto à ANVISA — o medicamento é comercializado em outros países (ex: Invega Sustenna®, Invega Trinza®) e pode ter sido submetido para registro no Brasil
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

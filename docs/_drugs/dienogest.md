@@ -119,5 +119,10 @@ A previsão TxGNN para amenorreia é classificada como **falso positivo mecanís
 - **[Alta prioridade]** Confirmar o mecanismo de ação detalhado via DrugBank API (DB09123), especialmente dados de receptor-alvo e vias de sinalização
 - Verificar junto à ANVISA se algum dos 20 registros inclui indicações além de endometriose (ex.: adenomiose, dismenorreia)
 - Considerar **reclassificação da previsão** de amenorreia como falso positivo no pipeline TxGNN para refinamento do modelo — o padrão "efeito adverso confundido com indicação" deve ser documentado para evitar recorrência em outros candidatos
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

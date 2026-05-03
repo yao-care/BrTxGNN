@@ -119,5 +119,10 @@ O uso de calcitriol no raquitismo hipofosfatêmico hereditário é sustentado po
 - Confirmar dados de MOA via DrugBank API (DG002 — gap de alta severidade)
 - Definir protocolo de monitoramento de segurança: cálcio sérico e urinário, creatinina, ultrassonografia renal (rastreio de nefrocalcinose) a cada 3–6 meses
 - Avaliar posicionamento estratégico frente ao burosumab: calcitriol pode ser alternativa de menor custo em populações sem acesso ao biológico, ou componente de esquemas combinados em investigação
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -107,5 +107,10 @@ O CBZ possui evidência de eficácia de nível mundial (L1) para neuralgia do tr
 - Confirmar dados formais de mecanismo de ação via DrugBank API (DB00564) para completar a análise de MOA
 - Sinalizar para a equipe TxGNN o desalinhamento do rótulo ontológico "trigeminal nerve neoplasm": se a intenção for cobrir neuralgia do trigêmeo, o label deve ser corrigido para evitar interpretações incorretas em outros relatórios
 - Caso o objetivo seja avaliar CBZ para neoplasias trigêminais stricto sensu (tumores do nervo), redesenhar busca de evidências com foco nessa indicação específica — nesse cenário, a recomendação seria **Hold**
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

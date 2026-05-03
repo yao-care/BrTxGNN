@@ -94,5 +94,10 @@ Nível de evidência L5 — a previsão baseia-se exclusivamente no modelo TxGNN
 - Dados epidemiológicos associando status sérico de Biotin à prevalência ou gravidade de sintomas dispépticos
 - Investigação de possíveis mediadores indiretos (ex.: papel do Biotin no metabolismo energético da mucosa gástrica ou na regulação do microbioma intestinal)
 - **Nota clínica:** Indicações com evidências mais robustas estão disponíveis em rankings inferiores deste pacote: Rank 7 — Distúrbio por deficiência vitamínica (L3, *Proceed with Guardrails*, 10 ensaios clínicos e 19 publicações) e Rank 8 — Doença metabólica por Biotin (L3, *Proceed with Guardrails*, com ensaio Phase 1/2 direto em pacientes com deficiência de biotinidase — NCT03269045)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

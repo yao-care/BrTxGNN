@@ -106,5 +106,10 @@ GAPPS é uma síndrome hereditária rara cujo tratamento padrão é cirúrgico (
 - **Estudos pré-clínicos**: Avaliar sensibilidade de modelos celulares GAPPS ao 5-FU/Capecitabine antes de avançar para ensaios clínicos
 - **Definição de cenário clínico**: Mapear situações em que GAPPS progride para doença irressecável ou metastática, único contexto em que a quimioterapia sistêmica seria pertinente
 - **Informações de segurança**: Revisar bula completa (advertências, contraindicações e interações medicamentosas) via DrugBank ou TFDA antes de qualquer avaliação clínica formal
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

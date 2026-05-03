@@ -69,5 +69,10 @@ O Evidence Pack apresenta duas lacunas bloqueantes: ausência total de previsõe
 ---
 
 > ⚠️ **Nota sobre os dados recebidos:** A ausência de registros regulatórios para Atorvastatin Calcium é incomum, dado que este é um dos fármacos mais prescritos globalmente. É provável que a busca tenha falhado por incompatibilidade de nomenclatura. Recomenda-se revisão manual antes de qualquer conclusão sobre status de comercialização.
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

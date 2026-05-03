@@ -80,5 +80,10 @@ O Evidence Pack apresenta lacunas bloqueantes (mecanismo de ação ausente, zero
 - Baixar e analisar a bula ANVISA para obter indicações aprovadas e advertências de segurança (requisito bloqueante DG001)
 - Re-executar a pipeline TxGNN com o Evidence Pack corrigido para gerar previsões de reposicionamento
 - Verificar se o fármaco pode ser candidato a reposicionamento em contextos de resistência antimicrobiana — área em expansão com potencial de modelagem via TxGNN
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -124,5 +124,10 @@ Embora exista plausibilidade biológica indireta — a depleção de células B 
 - Ampliar a busca bibliográfica para CAR-T anti-CD19 como classe em doença inflamatória intestinal (não restrita ao tisagenlecleucel)
 - Avaliar o perfil de segurança específico em pacientes com inflamação intestinal ativa (risco de CRS amplificado)
 - Consultar especialistas em gastroenterologia e imunologia clínica para viabilidade de um estudo-piloto ou série de casos exploratória
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

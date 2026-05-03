@@ -117,5 +117,10 @@ O tacrolimus tópico possui 1 Phase 3 RCT e 1 Phase 4 RCT concluídos diretament
 - Confirmar os textos de indicação aprovada dos 2 registros ANVISA vigentes e verificar se DS já consta como indicação oficial no Brasil
 - Definir **protocolo de monitoramento para uso de manutenção**: frequência de reavaliações dermatológicas, vigilância de infecções oportunistas (ex.: *tinea incognito* por uso de imunomodulador tópico) e critérios de descontinuação
 - Avaliar estratégia regulatória para extensão de indicação junto à ANVISA, caso a DS não esteja formalmente incluída na bula atual
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

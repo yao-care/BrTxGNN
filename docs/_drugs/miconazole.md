@@ -111,5 +111,10 @@ As evidências disponíveis para o uso de miconazole na acne vulgaris resumem-se
 - Dados de MOA detalhados confirmando atividade antibacteriana clinicamente relevante contra *C. acnes* em concentrações topicamente atingíveis
 - Avaliação de tolerabilidade e perfil de segurança do miconazole em pele acneica (potencial de irritação, resistência cruzada)
 - Análise do caminho regulatório junto à ANVISA para eventual submissão de nova indicação, caso estudos clínicos confirmem eficácia
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

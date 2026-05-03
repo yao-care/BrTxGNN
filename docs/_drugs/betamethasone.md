@@ -117,5 +117,10 @@ Múltiplos ensaios clínicos (incluindo um Phase 2 concluído com comparador ati
 ---
 
 > **Aviso**: Este relatório é gerado pelo sistema TxGNN para fins de pesquisa e não constitui recomendação médica. Todos os candidatos a reposicionamento requerem validação clínica antes de qualquer aplicação terapêutica.
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

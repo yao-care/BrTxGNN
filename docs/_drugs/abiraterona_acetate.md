@@ -85,5 +85,10 @@ O modelo TxGNN não gerou candidatos de reposicionamento para Abiraterona Acetat
 - **[DG002 — Alta prioridade]** Consultar a API do DrugBank para obter dados de mecanismo de ação (MOA), categorias farmacológicas e interações medicamentosas
 - Re-executar o pipeline TxGNN com o Evidence Pack completo após resolução das lacunas
 - Avaliar viabilidade regulatória: caso surjam candidatos de reposicionamento, será necessário verificar o caminho de registro na ANVISA (importação, registro novo ou uso compassivo)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

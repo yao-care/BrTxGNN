@@ -81,5 +81,10 @@ O Evidence Pack não contém dados suficientes para avaliar o potencial de repos
 - Resolver o mapeamento DrugBank (verificar se o ID correto é **DB01327**) e reexecutar o pipeline TxGNN com o ID confirmado
 - Baixar a bula ANVISA/TFDA para extrair advertências, contraindicações e MOA oficial (gap DG001 — bloqueante)
 - Após correção de nomenclatura e mapeamento, gerar novo Evidence Pack e reavaliar
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

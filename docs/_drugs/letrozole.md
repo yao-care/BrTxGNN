@@ -119,5 +119,10 @@ Letrozole apresenta nível de evidência L1 para carcinoma mamário feminino, co
 - Avaliar estratégia regulatória para submissão de registro à ANVISA ou identificar parceiros com autorização vigente de importação
 - Definir populações-alvo no contexto brasileiro: mulheres pós-menopausa com câncer de mama HR+/HER2- nos cenários neoadjuvante, adjuvante ou doença avançada/metastática
 - Mapear interações medicamentosas relevantes no contexto brasileiro (anticoagulantes orais, fármacos cardiovasculares, antidiabéticos) via base de DDI
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

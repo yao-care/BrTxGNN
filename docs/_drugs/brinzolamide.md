@@ -137,5 +137,10 @@ Brinzolamide possui evidência clínica de nível **L1** (múltiplos RCTs Phase 
 ---
 
 > ⚠️ **Aviso:** Este relatório é gerado para fins de pesquisa e não constitui aconselhamento médico. Todas as previsões de reposicionamento de fármacos requerem validação clínica antes de qualquer aplicação terapêutica. Dados com corte em 2026-04-05.
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

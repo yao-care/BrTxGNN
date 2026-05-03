@@ -110,5 +110,10 @@ O Evidence Pack de ABEMACICLIBE está incompleto em itens críticos — ausênci
 - [ ] Preencher os detalhes do registro ANVISA (número, nome comercial, forma farmacêutica, indicação aprovada)
 - [ ] Re-executar o pipeline TxGNN após resolver DG001 e DG002, para gerar predições de reposicionamento
 - [ ] Após obtenção das predições, atualizar este relatório com a tabela de ensaios clínicos, literatura e nível de evidência
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -80,5 +80,10 @@ Sem indicações previstas pelo TxGNN e sem dados regulatórios válidos para a 
 - Reexecutar o modelo TxGNN após a correção do mapeamento para obter as indicações previstas de reposicionamento
 - Resolver a lacuna DG002 (MOA via DrugBank API) para habilitar a análise de relevância mecanística
 - Com o DrugBank ID em mãos, reanalisar advertências e contraindicações para resolver a lacuna DG001
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

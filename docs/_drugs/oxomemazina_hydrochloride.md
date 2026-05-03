@@ -93,5 +93,10 @@ O modelo TxGNN não gerou previsões de reposicionamento para Oxomemazina Clorid
 - Baixar e analisar a bula disponível na agência regulatória de origem para preencher advertências e contraindicações
 - Re-executar o pipeline TxGNN com os dados de DrugBank integrados
 - Verificar possibilidade de registro ou uso compassivo no Brasil via ANVISA, caso novas indicações sejam identificadas na re-execução
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -136,5 +136,10 @@ Múltiplos ensaios de Fase 3 concluídos — incluindo o maior estudo de TRD (N=
 | 4 | Síndrome de Phelan-McDermid (22q13.3) | 99,59% | L4 | Research Question | 3 publicações; modelo zebrafish *shank3* suporta efeito de risperidona em comportamentos sensoriais; conexão via circuito ASD/D2 biologicamente plausível |
 | 5 | Tricotilomania | 99,51% | L3 | Research Question | 10 publicações (série de casos consistente + revisão 2025); estratégia de augmentation SRI + risperidona descrita em múltiplos relatos; ausência de RCT é o principal gargalo |
 | **6** | **Transtorno Afetivo Maior** *(foco deste relatório)* | **99,11%** | **L1** | **Proceed with Guardrails** | **36 ensaios clínicos, 4 de Fase 3 concluídos, revisão Cochrane e meta-análises de rede — maior base de evidências do pacote** |
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -113,5 +113,10 @@ A Síndrome de Plummer-Vinson é patofisiologicamente inseparável da deficiênc
 - Obter MOA detalhado no DrugBank (lacuna DG002 — severidade Alta)
 - Obter advertências e contraindicações da bula (lacuna DG001 — severidade Bloqueante), em especial para risco de sobrecarga de ferro (hemocromatose, hemossiderose) e uso em populações especiais
 - Avaliar a indicação secundária de **Distúrbio por Deficiência de Vitaminas** (rank 5, nível de evidência L2, com ensaio Phase 3 concluído — NCT01198574), que também recebeu recomendação "Proceed with Guardrails" e pode ser desenvolvida em relatório próprio
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

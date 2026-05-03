@@ -100,5 +100,10 @@ A analogia mecanística entre o Metaraminol (α1 agonista IV) e o midodrine (α1
 - Avaliar comparativamente com midodrine e droxidopa, já disponíveis e estudados especificamente em POTS, antes de justificar investimento em Metaraminol para esta indicação
 
 > ⚠️ *Este relatório é gerado por modelo preditivo e destina-se exclusivamente a fins de pesquisa. Não constitui recomendação médica nem substituição à avaliação clínica especializada. Candidatos de reposicionamento necessitam de validação clínica antes de qualquer aplicação terapêutica.*
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

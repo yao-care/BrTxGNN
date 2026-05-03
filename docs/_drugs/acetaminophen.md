@@ -144,5 +144,10 @@ Para a indicação principal prevista (enxaqueca com aura do tronco cerebral), m
 - Para a indicação rank 1 (enxaqueca com aura do tronco cerebral): identificar ou registrar ensaio clínico específico neste subtipo, idealmente com braço acetaminophen isolado vs. triptan vs. combinação
 - Para tendinite e neuropatia ciática (ranks 4 e 10): desenvolver protocolo de monitoramento para uso como alternativa a AINEs em pacientes de alto risco gastrointestinal/cardiovascular
 - Para fibromialgia (rank 8): desenhar estudo clínico com acetaminophen em monoterapia para separar sua contribuição independente da combinação com tramadol
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

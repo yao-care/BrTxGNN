@@ -99,5 +99,10 @@ Não existe evidência clínica nem literatura científica específica apoiando 
 - Avaliação de segurança via bula ANVISA (Data Gap DG001)
 
 > **💡 Nota sobre este Evidence Pack:** A indicação com evidências mais robustas neste conjunto de dados é **Distúrbio por Deficiência de Vitaminas** (*vitamin deficiency disorder*, rank 10, escore 85.50%, nível **L1**, decisão **Proceed with Guardrails**) — correspondente ao uso já estabelecido de Pyridoxine em ensaios Phase 3/4 concluídos (ex.: [NCT03302299](https://clinicaltrials.gov/study/NCT03302299), [NCT00642408](https://clinicaltrials.gov/study/NCT00642408)). Esta sobreposição entre indicação prevista e uso consolidado sugere que o modelo TxGNN está corretamente capturando a farmacologia conhecida do fármaco, ainda que a previsão principal (rank 1) não possua suporte empírico.
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -111,5 +111,10 @@ Há múltiplos ensaios clínicos randomizados (1974–1986) demonstrando eficác
 - Consultar a ANVISA para verificar se algum dos 6 registros existentes já inclui espondilite anquilosante como indicação aprovada, evitando redundância regulatória
 - Avaliar o design de um ensaio clínico moderno com desfechos contemporâneos (ASDAS, BASDAI) para posicionar flurbiprofen como alternativa custo-efetiva à EA leve a moderada, onde os biológicos podem ser inacessíveis
 - Desenvolver plano de monitoramento de segurança gastrointestinal e renal para populações de risco (idosos, pacientes com comorbidades GI/renais)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

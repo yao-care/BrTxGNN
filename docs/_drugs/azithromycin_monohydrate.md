@@ -81,5 +81,10 @@ O modelo TxGNN não gerou previsões de reposicionamento nesta execução por fa
 3. **Obter dados de segurança**: baixar e parsear a bula PDF do site regulatório para extrair advertências e contraindicações (DG001)
 4. **Obter MOA via DrugBank API**: com o DrugBank ID em mãos, recuperar mecanismo de ação, categorias e dados de toxicidade (DG002)
 5. **Reexecutar o pipeline completo**: após as correções acima, reger a predição TxGNN para gerar candidatos de reposicionamento e produzir o relatório completo
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

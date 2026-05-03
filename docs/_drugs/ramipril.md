@@ -119,5 +119,10 @@ A pontuação TxGNN de 99,93% provavelmente reflete co-ocorrência topológica n
 - Sanar DG002: consultar DrugBank API para obter MOA detalhado e categorias do fármaco
 - Avaliar se o mecanismo vasodilatador pulmonar do ramipril justifica estudo em modelos pré-clínicos de HP-hipóxia (seria o ponto de entrada para L4 → L3)
 - Verificar potenciais riscos de segurança em pacientes com doença pulmonar crônica avançada (hipotensão, tosse por IECA, angioedema)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

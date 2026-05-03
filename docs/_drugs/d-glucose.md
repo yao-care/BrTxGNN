@@ -123,5 +123,10 @@ O único ensaio diretamente relevante (PMID 24491639) demonstrou recuperação v
 - Dados de segurança para uso ocular repetido (risco de colonização microbiana, alteração da pressão osmótica, compatibilidade com a superfície ocular)
 - Investigação se o benefício é específico da glicose ou extensível a outros substratos energéticos alternativos (piruvato, lactato, corpos cetônicos)
 - Estudos mecanísticos para reconciliar os dados contraditórios: hiperglicemia crônica como fator de *risco* para glaucoma vs. glicose aguda/local como *neuroprotetor* — compreender essa dicotomia é essencial para definir a janela terapêutica e a população-alvo
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

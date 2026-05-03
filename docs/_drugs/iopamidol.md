@@ -102,5 +102,10 @@ A previsão TxGNN de Iopamidol para angina de Prinzmetal é classificada como L5
 - Completar os dados regulatórios da ANVISA: recuperar os detalhes dos 4 registros (nome comercial, forma farmacêutica, indicação aprovada)
 - Obter informações de segurança da bula oficial: advertências, contraindicações e interações relevantes para populações de risco (insuficiência renal, alergia a iodo, disfunção tireoidiana)
 - **Priorizar a análise da indicação de Rank 2 — carcinoma de mama feminina (L4, "Research Question")**: esta previsão possui 1 ensaio clínico registrado e 20 publicações explorando aplicações inovadoras de Iopamidol como agente de CT-linfografia para biópsia de linfonodo sentinela e como marcador de pH tumoral por acidoCEST MRI — configurando um potencial theranostic genuinamente distinto da indicação Rank 1
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

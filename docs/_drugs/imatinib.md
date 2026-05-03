@@ -133,5 +133,10 @@ O imatinib possui mecanismo de ação diretamente confirmado para neoplasias fib
 - Para extensão a subtipos sem fusão COL1A1-PDGFB confirmada (fibrossarcoma convencional, fibrossarcoma renal, fibrossarcoma cardíaco), exigir **triagem molecular prévia de expressão de PDGFR/KIT** antes de qualquer inclusão em protocolos clínicos
 - Verificar interações medicamentosas via banco de dados DDI atualizado (a consulta retornou "not\_found" neste pacote de evidências)
 - Para fibrossarcoma cardíaco (predição TxGNN #1): dado o caráter ultrararo da indicação, considerar série de casos clínicos como primeiro passo investigativo antes de qualquer ensaio clínico formal
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

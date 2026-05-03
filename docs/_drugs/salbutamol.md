@@ -99,5 +99,10 @@ A indicação de conjuntivite papilar é suportada apenas pela previsão computa
 - Obter e confirmar os dados do mecanismo de ação (MOA) detalhados via DrugBank API
 - Avaliar a viabilidade e segurança de formulações oftálmicas de Salbutamol (pH, osmolaridade, tolerabilidade ocular)
 - Investigar se existem dados de uso off-label ou relatos de caso na literatura oftalmológica antes de delinear qualquer protocolo clínico
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -78,5 +78,10 @@ O Evidence Pack está incompleto em seus campos mais críticos — não há prev
 - **[Alta prioridade]** Ampliar a busca na ANVISA com variações do nome: "Tetraciclina", "Tetracycline", "Tetracycline HCl", incluindo combinações (ex.: pomadas, colírios)
 - **[Média prioridade]** Processar a bula oficial (ANVISA ou DrugBank) para preencher advertências, contraindicações e interações medicamentosas
 - Verificar se o fármaco deve ser pesquisado como componente de combinação (ex.: com bismuto, metronidazol) que poderia alterar o escopo da análise
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

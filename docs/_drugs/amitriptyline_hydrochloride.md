@@ -80,5 +80,10 @@ O pipeline TxGNN não pôde gerar previsões de reposicionamento porque o DrugBa
 - **[Alta prioridade]** Consultar a DrugBank API para preencher o mecanismo de ação (MOA), viabilizando a análise de plausibilidade mecanística
 - **[Alta prioridade]** Verificar se o fármaco possui registro ativo na ANVISA sob outros nomes comerciais ou formas farmacêuticas antes de confirmar o status "não comercializado"
 - Após resolução dos itens acima, reexecutar o Evidence Pack e gerar novo relatório de avaliação
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

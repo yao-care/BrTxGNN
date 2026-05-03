@@ -102,5 +102,10 @@ A única evidência disponível é um relato de caso de 1993 sobre manejo anest�
 - Revisão das diretrizes da European Porphyria Network (E-POC) e listas de fármacos seguros/inseguros em AIP
 - Pesquisa ampliada em PubMed com termos combinados como *"buprenorphine porphyria safety"* e *"opioids acute intermittent porphyria"*
 - Caso haja interesse clínico real, seria necessário registro na ANVISA antes de qualquer uso no Brasil
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

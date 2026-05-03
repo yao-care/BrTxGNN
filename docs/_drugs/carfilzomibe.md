@@ -85,5 +85,10 @@ O Evidence Pack não contém previsões TxGNN (`predicted_indications: []`) nem 
 - Preencher os detalhes dos 5 registros na ANVISA (número de registro, nome comercial, forma farmacêutica, indicação aprovada)
 - Obter MOA completo via DrugBank API (DG002 — severidade High)
 - Recuperar advertências, contraindicações e interações da bula ANVISA (DG001 — severidade Blocking)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

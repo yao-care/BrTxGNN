@@ -93,5 +93,10 @@ A Hipertricose Tipo Ambras é uma doença de origem genética (TRPS1/8q23-q24) c
 - Verificar o status regulatório atualizado do Finasteride no Brasil via consulta direta ao portal ANVISA
 - Obter dados completos de MOA via DrugBank API (gap de severidade Alta identificado)
 - Recuperar advertências, contraindicações e monografias do produto via bula ANVISA (gap Bloqueante identificado)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

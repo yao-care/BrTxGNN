@@ -98,5 +98,10 @@ A previsão do TxGNN para a Encefalite de Rasmussen não possui suporte em ensai
 - Consultar a bula completa na ANVISA para avaliação de advertências, contraindicações e interações medicamentosas relevantes
 - Revisar os 13 registros brasileiros na base de dados da ANVISA para confirmar indicações aprovadas e formas farmacêuticas disponíveis
 - Avaliar indicações de ranques mais baixos com maior plausibilidade mecanística, como a **PLAN (PLA2G6-associated neurodegeneration, rank 3)** e o **Hunt Juvenile Paralysis Agitans (rank 7)**, que apresentam racional de extensão da indicação antiparkinsoniana com potencial de "Research Question"
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

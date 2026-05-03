@@ -152,5 +152,10 @@ Consulte a bula para informações de segurança.
 - Para o **infarto septal**: mapear os critérios de elegibilidade do TAMI-1 em relação aos protocolos brasileiros atuais de STEMI (tempo porta-balão, disponibilidade de PCI); definir cenários em que fibrinólise é alternativa (ex.: ausência de laboratório de hemodinâmica 24h)
 - Para o **infarto posterolateral**: desenhar estudo observacional prospectivo estratificado por localização anatômica com derivações V7–V9, focando em desfechos de reperfusão
 - Para a **trombofilia**: avaliar aplicabilidade do protocolo CDT do NCT00251771 em serviços brasileiros de referência em trombose venosa, com avaliação de risco hemorrágico individualizado
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

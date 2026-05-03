@@ -118,5 +118,10 @@ A hipótese de que Letermovir pode reduzir inflamação crônica em PVHIV — vi
 - Baixar e analisar a bula ANVISA para advertências, contraindicações e populações especiais
 - Definir o subgrupo-alvo: PVHIV com títulos elevados de IgG anti-CMV e/ou marcadores inflamatórios (sCD14, IL-6) elevados apesar de ARV supressivo
 - Avaliar viabilidade de estudo clínico nacional (fase 2) com desfechos inflamatórios como endpoint primário
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

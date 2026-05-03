@@ -115,5 +115,10 @@ Existe base mecanística sólida (imunossupressão GR-mediada direcionada ao mec
 - **Definir protocolo de monitoramento:** Para o regime mini-pulse, estabelecer parâmetros de vigilância de glicemia, pressão arterial, densidade mineral óssea e supressão do eixo HPA
 - **Mapear posologia e cobertura regulatória:** Confirmar se o esquema mini-pulse (5 mg oral 2x/semana) está coberto pelas indicações aprovadas existentes ou requer uso off-label estruturado
 - **Análise comparativa com inibidores de JAK:** Baricitinibe e ritlecitinibe receberam aprovações recentes para AA; definir o posicionamento terapêutico relativo da dexamethasona (custo, acesso, populações específicas como gestantes ou pacientes imunossuprimidos)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

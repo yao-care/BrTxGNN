@@ -119,5 +119,10 @@ Existem múltiplos ensaios clínicos de Phase 3 concluídos — incluindo estudo
 - Obter dados completos de segurança (advertências, contraindicações, interações medicamentosas) a partir da bula aprovada por agência regulatória de referência (FDA/EMA/ANVISA)
 - Definir protocolo de monitoramento para populações especiais: crianças e adolescentes (10–17 anos) e pacientes com HoFH (onde a resposta à sinvastatina em monoterapia é limitada e estratégias combinadas são necessárias)
 - Considerar interações medicamentosas clinicamente relevantes (ex.: inibidores de CYP3A4, fibratos, niacina) no contexto de uso combinado frequente em FH
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

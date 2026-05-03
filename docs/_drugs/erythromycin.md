@@ -154,5 +154,10 @@ Para a indicação primária ranqueada pelo TxGNN (queratoconjuntivite epitelial
 - Avaliar compatibilidade de via de administração para indicações oftálmicas (pomada) vs. sistêmicas (oral/IV)
 - Priorizar investigação clínica para **Linfogranuloma Venéreo** (L3, uso histórico direto de erythromycin, contexto de gestantes como população-alvo sem alternativas seguras) e **Gengivite Ulcerativa Necrotizante** (L3, estudos diretos desde 1953)
 - Avaliar possibilidade de registro na ANVISA caso haja interesse em avançar para uso clínico no Brasil — atualmente o fármaco não possui nenhuma autorização ativa
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

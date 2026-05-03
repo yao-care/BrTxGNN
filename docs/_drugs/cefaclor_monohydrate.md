@@ -78,5 +78,10 @@ A ausência de previsões TxGNN e de registros regulatórios impede qualquer an�
 - Re-executar o pipeline TxGNN com o ID correto para obter previsões de reposicionamento
 - Verificar a base regulatória usando a nomenclatura simplificada `"Cefaclor"` (sem o sufixo `monohydrate`), que pode estar indexada de forma diferente
 - Obter dados completos de segurança (advertências, contraindicações e interações) a partir da bula oficial antes de qualquer análise adicional de indicação
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

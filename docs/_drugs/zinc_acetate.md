@@ -108,5 +108,10 @@ A previsão do TxGNN está ancorada exclusivamente no modelo computacional (nív
 ---
 
 > ⚠️ **Aviso:** Este relatório é gerado por modelo computacional e tem finalidade exclusivamente de pesquisa. Não constitui aconselhamento médico. Candidatos a reposicionamento de fármacos requerem validação clínica antes de qualquer aplicação terapêutica.
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

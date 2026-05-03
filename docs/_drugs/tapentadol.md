@@ -109,5 +109,10 @@ Apesar da alta pontuação computacional do TxGNN (99,67%), não há nenhum ensa
 - Dados de farmacovigilância ou coortes retrospectivas de pacientes com enxaqueca que usaram Tapentadol para dor comórbida
 
 > **Nota sobre outras previsões do modelo**: Das 10 indicações previstas neste Evidence Pack, aquelas com melhor relação evidência/mecanismo incluem **insônia** (rank 6, L3, 6 ensaios clínicos indiretos) e **ansiedade** (rank 10, L4, 7 ensaios e 19 publicações), onde o componente NRI apresenta sobreposição com antidepressivos SNRI — indicações mais adequadas para investigação futura comparadas ao transtorno de enxaqueca.
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -79,5 +79,10 @@ O TxGNN não produziu previsões válidas para Paliperidona neste ciclo (campo `
 - **Obter o MOA via DrugBank API**: o `drugbank_id` recuperado deve permitir extrair mecanismo de ação e categorias farmacológicas
 - **Baixar e analisar a bula ANVISA**: necessário para preencher advertências principais e contraindicações (bloqueador DG001)
 - **Re-executar o pipeline TxGNN** após correção do mapeamento para obter previsões de indicações candidatas
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

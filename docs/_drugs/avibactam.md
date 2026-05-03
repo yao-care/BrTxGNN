@@ -98,5 +98,10 @@ A previsão do TxGNN para pneumonia estreptocócica não possui suporte mecanís
 - Confirmar o mecanismo de ação completo via consulta à API do DrugBank (lacuna de dados de grau "High" identificada — DG002)
 - Recuperar os dados completos dos 3 registros ANVISA, incluindo indicações aprovadas e nomes comerciais, por meio de download e análise das bulas em PDF (lacuna de dados de grau "Blocking" — DG001)
 - Avaliar indicações de maior plausibilidade biológica identificadas no mesmo Evidence Pack: a previsão de rank 7 (*infecção por S. aureus*) apresenta nível de evidência L4 com 2 ensaios clínicos e até 20 publicações relacionadas e base mecanística parcial via ceftarolina-avibactam; e a previsão de rank 3/8 (tuberculose ureteral/renal) possui fundamento teórico por inibição da BlaC de *M. tuberculosis*, merecendo análise dedicada antes de descarte
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

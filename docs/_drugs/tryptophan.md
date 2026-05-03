@@ -101,5 +101,10 @@ Não existem ensaios clínicos nem publicações científicas que apoiem diretam
 ---
 
 > **Nota sobre o perfil completo de previsão:** Dentro do conjunto de indicações previstas pelo TxGNN para este fármaco, a **insônia** (Rank 4; TxGNN 99,47%; Nível de Evidência **L2**; Decisão: **Proceed with Guardrails**) apresenta suporte substancialmente maior, incluindo um RCT de 4 braços comparando L-triptofano a hipnóticos ativos ([PMID 6410442](https://pubmed.ncbi.nlm.nih.gov/6410442/), 1983, n=96), estudos de intervenção recentes ([PMID 40772548](https://pubmed.ncbi.nlm.nih.gov/40772548/), 2025) e revisões mecanísticas sobre a via triptofano → serotonina → melatonina aplicada ao sono ([PMID 40681828](https://pubmed.ncbi.nlm.nih.gov/40681828/), 2025). Essa indicação representa a direção de reposicionamento com maior maturidade de evidências para investigação prioritária.
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -90,5 +90,10 @@ O Evidence Pack para PALIVIZUMABE apresenta lacunas críticas de dados — ausê
 - Consultar a API do DrugBank para dados de MOA (remediation prevista: DG002)
 - Complementar os detalhes dos 3 registros brasileiros (números ANVISA, nomes comerciais, formas farmacêuticas e indicações aprovadas)
 - Re-executar o pipeline de predição TxGNN após resolução das lacunas acima
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -74,5 +74,10 @@ O pipeline TxGNN não gerou previsões de reposicionamento para Tetracaine Hydro
 - Investigar registros na ANVISA sob sinônimos: **Tetracaína**, **Cloridrato de Tetracaína**, **Amethocaine Hydrochloride**
 - Baixar a bula disponível no portal da ANVISA (caso exista produto registrado sob outro nome) para preencher advertências, contraindicações e interações medicamentosas
 - Considerar re-execução do pipeline após correção do identificador do fármaco, pois a consulta ao DrugBank retornou 1 resultado (ver `query_log` id=3), indicando que o mapeamento pode ser recuperável
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

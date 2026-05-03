@@ -103,5 +103,10 @@ Apesar do score elevado do TxGNN (99,17%), a análise mecanística revela uma co
 - Advertências, contraindicações e perfil de segurança da bula registrada na ANVISA
 - Hipótese mecanística plausível que conecte a redução de Phe à patologia vascular retiniana em pacientes diabéticos (não-PKU)
 - Estudos pré-clínicos (*in vitro* / *in vivo*) demonstrando efeito de Pegvaliase em modelos de retinopatia diabética antes de qualquer consideração de ensaio clínico
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

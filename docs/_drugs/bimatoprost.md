@@ -123,5 +123,10 @@ Três ensaios clínicos de Fase 2 com amostras robustas (244–307 participantes
 - Detalhar os 20 registros brasileiros via DATAVISA/BPS (indicações aprovadas, formas farmacêuticas disponíveis)
 - Definir população-alvo prioritária para investigação adicional: **AGA** (androgênica, onde os dados de Fase 2 mostraram resultados modestos) vs. **alopecia areata** (imunomediada, com maior potencial mecanístico e dados emergentes favoráveis)
 - Avaliar viabilidade de ensaio de **Fase 3 no couro cabeludo** para suportar eventual submissão regulatória à ANVISA
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

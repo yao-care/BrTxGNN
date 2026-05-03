@@ -100,5 +100,10 @@ A previsão do TxGNN é mecanisticamente plausível, pois β-bloqueadores possue
 - Verificar se ensaios clínicos de β-bloqueadores em IM geral (ex.: REDUCE-SWEDEHEART) incluem dados estratificados por topografia do infarto
 
 > ⚠️ **Aviso**: Este relatório destina-se exclusivamente a fins de pesquisa e não constitui recomendação médica. Qualquer candidato a reposicionamento deve ser validado em estudos clínicos antes de aplicação terapêutica.
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -95,5 +95,10 @@ Apesar da pontuação TxGNN elevada (99.53%), a evidência clínica direta para 
 - Realizar revisão sistemática dedicada ao papel dos PPIs no refluxo duodenogástrico misto, distinguindo-o do refluxo biliar puro
 - Investigar se o alto escore TxGNN representa uma associação causal real ou um artefato de proximidade no grafo de conhecimento (análise de vizinhança)
 - Avaliar a viabilidade de um estudo exploratório de Fase 2 com desfecho primário centrado no componente misto do refluxo duodenogástrico
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

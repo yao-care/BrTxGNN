@@ -108,5 +108,10 @@ Imiglucerase não possui mecanismo de ação aplicável à síndrome de Hurler: 
 - Confirmação dos detalhes dos 3 registros ANVISA (número, nome comercial, indicação aprovada)
 
 > ⚠️ **Aviso**: Este relatório é gerado para fins de pesquisa em reposicionamento de fármacos e **não constitui recomendação clínica ou terapêutica**. Qualquer aplicação clínica requer validação por profissionais de saúde habilitados e aprovação regulatória adequada.
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

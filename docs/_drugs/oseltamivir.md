@@ -105,5 +105,10 @@ A previsão do TxGNN para pielonefrite enquadra-se no nível de evidência L5 (e
 - Conduzir estudos pré-clínicos de atividade inibitória de Oseltamivir carboxilato contra neuraminidases de patógenos uropatogênicos
 - Obter os dados de MOA completos via DrugBank para refinar a análise de intersecção mecanística
 - Consultar especialistas em doenças infecciosas para avaliação independente da viabilidade biológica antes de qualquer investimento em pesquisa
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

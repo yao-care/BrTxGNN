@@ -118,5 +118,10 @@ O TxGNN atribui pontuação de 99,98% à associação entre levetiracetam e epil
 - Identificar ou conduzir estudo clínico com supressão de resposta fotoparoxística (PPR) ao EEG como desfecho primário — padrão-ouro para epilepsia fotossensível
 - Recuperar os dados individuais dos 20 registros ANVISA para mapear formas farmacêuticas disponíveis e indicações aprovadas no Brasil
 - Avaliar prevalência local de epilepsia visual no Brasil para dimensionar o impacto potencial desta indicação
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

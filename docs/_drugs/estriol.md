@@ -120,5 +120,10 @@ Existe evidência clínica direta de que o estriol modula a secreção de LH em 
 - Identificar ou conduzir ensaio clínico randomizado que utilize **estriol (E3)** diretamente para amenorreia — os dados Phase 3 disponíveis são de estetrol (E4), composto diferente
 - Definir o subtipo-alvo de amenorreia (AHF, IOP, amenorreia hiperprolactinêmica, etc.) para estratégia de desenvolvimento regulatório
 - Avaliar formulação, via de administração e posologia adequadas para a indicação de amenorreia, considerando as formas já registradas no Brasil
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

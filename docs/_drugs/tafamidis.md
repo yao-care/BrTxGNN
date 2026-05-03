@@ -95,5 +95,10 @@ A previsão de Tafamidis para o transtorno primário de liberação de plaquetas
 - Identificar uma hipótese mecanística plausível que conecte a estabilização de TTR à função plaquetária
 - Realizar busca sistematizada na literatura de estudos pré-clínicos sobre TTR e plaquetas
 - Auditar o grafo de conhecimento do TxGNN para identificar a origem da associação entre estes dois nós de doença
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -110,5 +110,10 @@ O uso de Levothyroxine no bócio endêmico é mecanisticamente sólido (supress�
 - Definir critérios de seleção de pacientes: bócio endêmico refratário ou em contexto de inviabilidade da profilaxia com iodo
 - Estabelecer metas de TSH seguras (supressão parcial: 0,1–0,5 mU/L vs. supressão total: < 0,1 mU/L) com base no risco cardiovascular e ósseo individual
 - Avaliar prevalência de áreas endêmicas residuais no Brasil para dimensionar o potencial impacto desta indicação
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

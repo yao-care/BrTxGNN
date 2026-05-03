@@ -93,5 +93,10 @@ O TxGNN não gerou previsões de reposicionamento para este fármaco, e as lacun
 - Baixar e analisar a bula (quando disponível) para extrair indicações aprovadas e advertências
 - Reprocessar o candidato no pipeline TxGNN após enriquecimento dos dados regulatórios e de MOA
 - Avaliar se o Cloreto de Cálcio deve ser tratado como **medicamento hospitalar/urgência** em vez de produto comercial registrado — o que pode requerer abordagem diferente no pipeline de análise
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

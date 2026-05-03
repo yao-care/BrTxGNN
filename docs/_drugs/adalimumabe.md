@@ -80,5 +80,10 @@ A ausência de previsões TxGNN, de dados regulatórios detalhados e de informa�
 - Obter dados de **MOA** via DrugBank API (DG002 — High severity)
 - Baixar e analisar as **bulas** para dados de advertências e contraindicações (DG001 — Blocking severity)
 - Após enriquecimento dos dados, re-executar o Evidence Pack para geração de relatório completo
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

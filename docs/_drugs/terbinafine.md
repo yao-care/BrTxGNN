@@ -106,5 +106,10 @@ A previsão do TxGNN para miíase furuncular constitui um falso-positivo do mode
 - Verificar possibilidade de regularização junto à ANVISA para indicações com evidência consolidada em mercados internacionais
 - Obter dados completos de segurança (advertências, contraindicações, perfil de interações) via consulta à bula oficial e DrugBank API
 - Monitorar emergência de resistência por mutações SQLE em *Trichophyton indotineae*, relevante para indicações dermatofíticas
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

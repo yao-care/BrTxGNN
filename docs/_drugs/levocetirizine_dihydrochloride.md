@@ -71,5 +71,10 @@ O pacote de evidências está incompleto em múltiplas dimensões críticas — 
 - **DG002 (Alta prioridade):** Recuperar o DrugBank ID e o mecanismo de ação (MOA) via DrugBank API — o ID nulo provavelmente impede o mapeamento no grafo TxGNN
 - Re-executar o pipeline TxGNN após corrigir o mapeamento de DrugBank ID para obter previsões de indicações
 - Verificar se `LEVOCETIRIZINE DIHYDROCHLORIDE` está indexado no grafo de conhecimento como nó de fármaco (pode exigir normalização para `levocetirizine`)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -116,5 +116,10 @@ O haloperidol tem evidência clínica robusta (nível L1) como agente para contr
 - Confirmar mecanismo de ação formal via consulta à API do DrugBank (DB00502)
 - Levantar os 20 registros ANVISA individuais para verificar se a indicação em transtorno bipolar maníaco já está formalmente aprovada no Brasil (o que reclassificaria este caso de "reposicionamento" para "extensão de indicação já registrada")
 - Avaliar perfil de segurança específico para uso em mania bipolar, em especial risco de síndrome extrapiramidal, discinesia tardia e síndrome neuroléptica maligna — efeitos adversos clinicamente relevantes nesta classe
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

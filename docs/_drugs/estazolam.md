@@ -108,5 +108,10 @@ A previsão TxGNN para insônia coincide com a indicação já aprovada pelo FDA
 - Consultar a API do DrugBank para dados completos de mecanismo de ação (DG002 — High)
 - Recuperar os detalhes individuais dos 7 registros ANVISA (número, nome comercial, forma farmacêutica, indicação aprovada)
 - Avaliar as previsões de rank 2 (epilepsia visual — L4) e rank 3 (delirium de abstinência alcoólica — L4) como candidatos genuínos a reposicionamento, dado que o estazolam possui mecanismo GABAérgico potencialmente aplicável a ambas as condições
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

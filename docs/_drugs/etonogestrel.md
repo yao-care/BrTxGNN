@@ -106,5 +106,10 @@ A previsão do TxGNN tem plausibilidade mecanística, pois a amenorreia induzida
 - Complementar os dados de registro ANVISA: número de licença, nome comercial, forma farmacêutica e indicação aprovada para cada um dos 8 registros
 - Confirmar o mecanismo de ação detalhado via consulta à API DrugBank (DB00294)
 - Realizar busca bibliográfica direcionada para uso intencional do implante de etonogestrel como supressor menstrual terapêutico (ex.: endometriose, menorragia, dismenorreia)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

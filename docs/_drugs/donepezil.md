@@ -175,5 +175,10 @@ Das 8 indicações previstas pelo TxGNN, 6 têm nível de evidência L5 (apenas 
 - Para **distúrbio de tique crônico**: mapear todos os estudos disponíveis e avaliar viabilidade de protocolo piloto pediátrico, considerando o único ensaio aberto existente (PMID 18343255)
 - Avaliação por especialista em **neurologia do movimento** para validação da hipótese mecanística e do perfil de risco-benefício
 - Definição de um protocolo de Phase 2 controlado antes de qualquer consideração comercial
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

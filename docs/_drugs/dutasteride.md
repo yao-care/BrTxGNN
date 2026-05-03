@@ -93,5 +93,10 @@ A Síndrome de Ambras é impulsionada por mutação no gene TRPS1 e não pelo ei
 - Identificar estudos pré-clínicos que demonstrem qualquer efeito do Dutasteride em modelos de hipertricose de origem genética
 - Obter informações de segurança completas (bula/ANVISA) — atualmente bloqueante para avaliação S1
 - Verificar o status de registro do fármaco no mercado brasileiro junto à ANVISA
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

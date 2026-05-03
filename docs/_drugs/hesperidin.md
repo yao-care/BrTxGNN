@@ -103,5 +103,10 @@ As evidências disponíveis para neoplasia mieloproliferativa restringem-se a do
 - Dados de farmacocinética: concentração plasmática alcançável em doses toleradas versus concentração efetiva nos estudos in vitro
 - Dados de segurança completos: advertências, contraindicações e interações medicamentosas da bula
 - Detalhamento dos 20 registros brasileiros (indicações aprovadas, formas farmacêuticas e posologias)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

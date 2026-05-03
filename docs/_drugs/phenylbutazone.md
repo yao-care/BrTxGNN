@@ -117,5 +117,10 @@ Embora as evidências históricas de eficácia anti-inflamatória em artrite reu
 - Verificar o status regulatório global atual: fenilbutazona ainda possui registro para uso veterinário em vários países — avaliar se existe via regulatória para indicação humana no Brasil
 - Investigar se há ensaios clínicos modernos planejados ou em andamento com formulações ou análogos de fenilbutazona de perfil de segurança melhorado
 - Consultar profissional de farmacovigilância para avaliação do risco de aplasia medular no contexto regulatório brasileiro
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

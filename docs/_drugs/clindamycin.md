@@ -98,5 +98,10 @@ A previsão do TxGNN para ceratoconjuntivite epitelial punctata é classificada 
 - Levantar advertências e contraindicações da bula oficial (DG001) antes de qualquer avaliação de segurança
 - Investigar se Clindamycin possui formulações oftálmicas tópicas registradas em outros mercados (ex.: colírio), o que poderia reabrir a análise de ceratite de exposição com infecção bacteriana secundária confirmada
 - Considerar redirecionar a busca de reposicionamento para indicações com maior suporte biológico (ex.: infecções de pele e tecidos moles, infecções pélvicas anaeróbias, ou vaginose bacteriana — usos já estabelecidos na literatura internacional para Clindamycin)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

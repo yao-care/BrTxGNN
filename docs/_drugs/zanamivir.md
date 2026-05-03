@@ -103,5 +103,10 @@ A previsão do TxGNN para pielonefrite carece de fundamentação mecanística co
 - Levantar advertências e contraindicações da bula no portal ANVISA (DG001 — severidade Blocking)
 - Verificar os detalhes dos 2 registros ANVISA (número, nome comercial, indicações aprovadas)
 - Realizar busca exploratória de estudos pré-clínicos sobre atividade de Zanamivir contra sialidases bacterianas antes de qualquer decisão de Go
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

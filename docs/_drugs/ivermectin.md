@@ -101,5 +101,10 @@ Apesar da pontuação TxGNN elevada (99,95%), a previsão não possui suporte me
 - Baixar e analisar bulas ANVISA para levantar advertências e contraindicações — remediação do gap DG001
 - Realizar estudos in vitro para verificar se há qualquer atividade de Ivermectin contra *Candida* spp. antes de considerar avanço
 - Investigar a origem da previsão no grafo TxGNN (auditoria de nós adjacentes) para confirmar se se trata de viés de co-ocorrência e documentar como falso positivo do modelo
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

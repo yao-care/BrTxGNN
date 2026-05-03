@@ -82,5 +82,10 @@ O pipeline TxGNN não produziu previsões de reposicionamento nesta rodada devid
 - Verificar possibilidade de registro ANVISA vigente ou histórico de comercialização no Brasil, incluindo possíveis nomes comerciais alternativos
 - Baixar e analisar bula de referência internacional (ex.: EMA, Health Canada) para preencher advertências e contraindicações (**DG001**)
 - Re-executar o pipeline TxGNN após a resolução das lacunas acima
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -104,5 +104,10 @@ O infarto posteroinferior é uma subclassificação anatômica do STEMI — indi
 - Recuperar advertências e contraindicações da bula ANVISA/TFDA, especialmente contraindicações à trombólise (cirurgia recente, sangramento ativo, AVC hemorrágico, HAS grave não controlada)
 - Verificar protocolos clínicos específicos para infarto posteroinferior, incluindo critérios diagnósticos por derivações posteriores (V7–V9) e manejo de complicações associadas (bloqueio AV, disfunção do VD em infarto de parede inferior)
 - Avaliar disponibilidade de ICP-P no contexto brasileiro e janela temporal para trombólise, considerando a infraestrutura hospitalar local
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

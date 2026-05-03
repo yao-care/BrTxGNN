@@ -109,5 +109,10 @@ O mecanismo antiácido do MgCO₃ é farmacologicamente coerente com a patologia
 - Realizar análise de viabilidade clínica frente às terapias modernas padrão (IBPs + esquema de erradicação de *H. pylori*)
 - Levantar perfil de segurança atualizado: efeitos adversos (hipermagnesemia, diarreia osmótica, produção de CO₂), contraindicações e interações medicamentosas
 - Conduzir ou identificar ensaios clínicos contemporâneos que avaliem MgCO₃ em populações com acesso limitado a IBPs ou intolerância a terapias de primeira linha
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

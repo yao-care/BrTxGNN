@@ -124,5 +124,10 @@ O pipeline de avaliação não conseguiu gerar previsões de reposicionamento pa
 - **Obter dados regulatórios**: Caso o fármaco venha a ser registrado no Brasil ou se deseje avaliar com base em dados de outras jurisdições (FDA/EMA), atualizar o Evidence Pack
 - **Coletar dados de segurança**: Extrair advertências, contraindicações e interações da bula internacional (Bosulif® Prescribing Information)
 - **Re-executar o modelo TxGNN**: Após resolução das lacunas acima, submeter novamente ao pipeline de previsão
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

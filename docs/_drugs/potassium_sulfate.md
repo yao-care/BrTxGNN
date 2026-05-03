@@ -103,5 +103,10 @@ A previsão do modelo TxGNN possui plausibilidade mecanística via suplementaç�
 - Levantamento completo do perfil de segurança: tolerabilidade gastrointestinal, efeito renal e risco de hipercalemia
 - Preenchimento da lacuna de MOA via consulta ao DrugBank e literatura farmacológica especializada (lacuna DG002)
 - Avaliação de viabilidade regulatória para registro como medicamento junto à ANVISA antes de qualquer estudo clínico no Brasil
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

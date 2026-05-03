@@ -101,5 +101,10 @@ As evidências para Atropina em transtorno de enxaqueca restringem-se ao nível 
 - Revisão crítica dos subtipos de receptores muscarínicos (M1 vs. M2/M4) no SPG e no circuito trigeminoautonômico, para esclarecer a direcionalidade do efeito terapêutico
 - Avaliação dos 16 ensaios clínicos identificados para **cefaleia pós-punção dural** (indicação mais ampla "headache disorder", Rank 8) como proxy de segurança do uso agudo de Atropina em contexto de cefaleia — com ressalva de que nesse contexto Atropina atua como adjuvante anticolinérgico da neostigmina, não como agente primário
 - Definição de modelo pré-clínico específico (ex.: modelo de dor trigeminovascular em roedores com medição de CGRP e extravasamento de proteínas na dura-máter) antes de qualquer desenvolvimento clínico
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

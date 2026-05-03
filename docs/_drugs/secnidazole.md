@@ -124,5 +124,10 @@ Secnidazol possui dois ensaios Phase 3 concluídos e aprovações regulatórias 
 - Definição da estratégia de posicionamento: dose única 2g granulado oral para VB e/ou tricomoníase frente às alternativas já disponíveis (metronidazol, tinidazol)
 - Protocolo de uso seguro em populações especiais (gestantes, adolescentes, pessoas imunossuprimidas)
 - Plano de farmacovigilância pós-introdução com monitoramento de resistência aos 5-nitroimidazóis
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

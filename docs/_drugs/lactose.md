@@ -104,5 +104,10 @@ Lactose é um excipiente farmacêutico inativo, sem mecanismo de ação terapêu
 - **Ação estrutural no pipeline:** Avaliar a inclusão de um filtro de exclusão de excipientes farmacêuticos conhecidos (lactose, celulose microcristalina, estearato de magnésio, etc.) antes da etapa de predição TxGNN, para reduzir ruído de artefatos de co-ocorrência
 - **Auditoria do grafo de conhecimento:** Investigar como e por que lactose recebeu arestas de associação com doenças hepáticas no KG, para calibrar o modelo
 - **Sem necessidade de follow-up clínico** para esta previsão específica
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

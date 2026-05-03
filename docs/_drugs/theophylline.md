@@ -208,5 +208,10 @@ O SCENT Trial (Phase 2 concluído, n=27) fornece a primeira evidência clínica 
 - Delineamento de Phase 3 com maior poder estatístico (n ≥ 100) e inclusão de pacientes com disfunção olfativa pós-COVID-19
 - Avaliação da dose ideal e da concentração de teofilina na formulação de irrigação nasal
 - Estudo de segurança de longo prazo da administração tópica nasal repetida
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

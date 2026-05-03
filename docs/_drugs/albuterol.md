@@ -67,5 +67,10 @@ A ausência do `drugbank_id` bloqueou a geração de previsões pelo TxGNN, e a 
 - Repetir a busca na ANVISA utilizando o nome INN alternativo **salbutamol**
 - Baixar as bulas dos produtos registrados na ANVISA para extrair advertências, contraindicações e interações medicamentosas
 - Após reprocessamento, verificar se o mecanismo beta-2 agonista apresenta relevância para alguma indicação alvo identificada pelo modelo
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

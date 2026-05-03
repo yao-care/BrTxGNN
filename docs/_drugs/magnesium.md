@@ -123,5 +123,10 @@ Existe evidência de nível L1 — incluindo pelo menos um Phase 3 RCT concluíd
 - Confirmar formas farmacêuticas e vias de administração registradas no Brasil (oral vs IV), pois os perfis de evidência e segurança diferem substancialmente entre uso agudo (MgSO₄ IV em emergência) e profilaxia (suplementação oral)
 - Definir protocolo de monitoramento para populações especiais: gestantes (uso de MgSO₄ IV em pré-eclâmpsia tem perfil próprio), pacientes com insuficiência renal (risco de hipermagnesemia) e crianças/adolescentes
 - Mapear posicionamento competitivo frente a terapias preventivas já estabelecidas (topiramato, valproato, propranolol, amitriptilina, anticorpos anti-CGRP)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

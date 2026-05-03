@@ -99,5 +99,10 @@ A previsão baseia-se exclusivamente no modelo TxGNN (nível de evidência L5), 
 - Obter dados de segurança, advertências e contraindicações por meio da bula oficial (ANVISA ou FDA)
 - Realizar busca bibliográfica sobre sulfonilureias em modelos de doenças GABAérgicas ou autoimunes neurológicas
 - Avaliar se existe evidência pré-clínica (in vitro/in vivo) sobre modulação dos canais KATP neuronais por sulfonilureias antes de qualquer consideração de avanço para estudos clínicos
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

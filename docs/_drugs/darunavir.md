@@ -100,5 +100,10 @@ A homologia estrutural entre as proteases de FIV e HIV-1 oferece uma base mecan�
 - Complementar o mecanismo de ação (MOA) via consulta à API do DrugBank (DB01264) para análise de similaridade de sítio de ligação
 - Obter o perfil farmacocinético do darunavir em espécie felina (biodisponibilidade oral, distribuição, metabolismo hepático e eliminação)
 - Recuperar advertências, contraindicações e interações medicamentosas a partir da bula aprovada pela ANVISA (download do PDF no DATAVISA)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

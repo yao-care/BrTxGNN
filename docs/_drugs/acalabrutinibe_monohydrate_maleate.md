@@ -78,5 +78,10 @@ O fármaco não possui registro regulatório no Brasil e o modelo TxGNN não ger
 - **Recuperar dados regulatórios internacionais:** consultar FDA (NDA 210259) e EMA para caracterizar as indicações aprovadas globalmente e subsidiar a análise de indicação original
 - **Baixar e analisar bula de referência:** obter advertências, contraindicações e perfil de segurança completo de fontes internacionais, como medida paliativa à ausência de registro nacional (DG001)
 - **Avaliar acesso no Brasil:** verificar viabilidade de importação autorizada pela ANVISA ou inclusão em programa de acesso expandido/uso compassivo
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

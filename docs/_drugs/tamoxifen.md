@@ -131,5 +131,10 @@ A base de evidências atual para a doença de Paget mamária é composta predomi
 - Mapear a taxa de positividade ER nas células de Paget em coortes brasileiras
 - Estruturar um registro prospectivo de pacientes com doença de Paget ER+ em uso de Tamoxifen como base para um futuro estudo piloto Phase 2
 - Avaliar se o nível de evidência pode ser escalado para L2 com coleta de dados de séries de casos sistematizadas já existentes (ex.: NSABP B-24, subgrupo Paget)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

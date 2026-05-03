@@ -103,5 +103,10 @@ A previsão TxGNN para Artrite Reumatoide apoia-se em sobreposição de vias inf
 - Análise de expressão de CFTR em sinoviócitos e células imunes do líquido sinovial
 - Avaliação de segurança completa (download e análise da bula — DG001 Blocking)
 - Revisão de literatura expandida (CFTR + inflamação autoimune + neutrófilos)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

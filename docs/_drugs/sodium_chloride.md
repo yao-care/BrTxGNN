@@ -94,5 +94,10 @@ O cloreto de sódio não demonstra potencial terapêutico real para doença fibr
 - **Revisão metodológica do pipeline TxGNN**: identificar e filtrar substâncias que funcionam primariamente como excipientes (NaCl, água estéril, dextrose) antes da geração de candidatos a reposicionamento, para evitar falsos positivos por coocorrência
 - **Caso haja interesse na indicação com maior suporte real** dentre as 10 previstas (vulvovaginite — rank 2, nível L3, com PMID 22301569 avaliando irrigação vaginal com solução salina como adjuvante à antibioticoterapia), conduzir revisão sistemática específica antes de qualquer avanço clínico
 - **Verificar preparações específicas** de NaCl (ex: solução hipertônica nasal 3%, soro fisiológico para nebulização, colírio salino) que já possuam indicações aprovadas e possam representar oportunidades de reposicionamento mais plausíveis em outras concentrações ou vias de administração
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -84,5 +84,10 @@ O modelo TxGNN não produziu nenhuma indicação candidata para este fármaco, e
 - Com o DrugBank ID confirmado, **reexecutar o modelo TxGNN** para gerar previsões de reposicionamento
 - Coletar dados de **MOA** e **advertências/contraindicações** a partir do DrugBank e da bula registrada
 - Verificar se há dados de interações medicamentosas relevantes (DDI retornou `not_found`)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -92,5 +92,10 @@ O Evidence Pack não contém previsões de novas indicações pelo TxGNN, não h
 - Processar o resultado já obtido do DrugBank (1 resultado retornado) e extrair MOA, categorias terapêuticas e dados de segurança
 - Verificar registros ANVISA sob denominações alternativas (ex.: Biperideno, Biperiden Cloridrato, Biperiden HCl)
 - Obter advertências e contraindicações via bula (ANVISA, FDA ou EMA) para preencher as lacunas de segurança classificadas como **Blocking (DG001)**
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

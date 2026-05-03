@@ -87,5 +87,10 @@ O pipeline TxGNN não pôde processar este composto por ausência de DrugBank ID
 - Reexecutar o pipeline de mapeamento e predição com o ID correto
 - Repetir a consulta ANVISA utilizando termos alternativos: "Tiamina", "Cloridrato de Tiamina", "Vitamina B1", "B1"
 - Após obter previsões, gerar novo Evidence Pack completo para avaliação formal de reposicionamento
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

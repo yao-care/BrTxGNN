@@ -103,5 +103,10 @@ As evidências disponíveis para Tocopherol na colangite esclerosante resumem-se
 - Avaliar o perfil de biodisponibilidade oral em pacientes com colestase grave (a própria doença compromete a absorção do fármaco)
 - Investigar se formas de Tocopherol com maior absorção (ex.: tocoferil polietilenoglicol succinato, TPGS) seriam mais adequadas para esta indicação
 - Planejar registro na ANVISA caso os dados pré-clínicos justifiquem progressão para ensaio clínico
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

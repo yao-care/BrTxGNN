@@ -119,5 +119,10 @@ A utilização de lidocaína em distúrbios conjuntivais não configura reposici
 - Definir qual subtipo específico de "distúrbio conjuntival" representa a maior oportunidade terapêutica não atendida (pterígio, anestesia para injeções intravítreas, SUNCT/SUNA)
 - Avaliar viabilidade regulatória de extensão formal de indicação com base nos dados de Fase 4 existentes
 - Mapear formulações oftálmicas de lidocaína disponíveis no mercado brasileiro (gel, colírio, solução injetável subconjuntival)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

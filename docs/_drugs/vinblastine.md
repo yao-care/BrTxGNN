@@ -120,5 +120,10 @@ A previsão do TxGNN tem plausibilidade biológica fundamentada na classe farmac
 - Considerar proposta de pergunta de pesquisa formal: estudo de Phase 1/2 avaliando vinblastine em combinação com agentes modernos (ex.: inibidores de checkpoint ou mTOR) em RMS refratário pediátrico
 
 > ⚠️ **Nota:** A análise acima considera apenas a indicação de rank 1 (rabdomiossarcoma geral). O Evidence Pack contém a indicação de rank 9 — **neuroblastoma** — com nível de evidência L2 (1 ensaio de Phase 2 concluído + 20 publicações) e recomendação **Proceed with Guardrails**, que merece avaliação em relatório separado.
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

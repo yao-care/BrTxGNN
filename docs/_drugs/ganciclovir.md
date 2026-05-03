@@ -118,5 +118,10 @@ Dois grandes ensaios clínicos concluídos (Phase 4, n=317; Phase 2/3, n=563) av
 - Obter dados formais de mecanismo de ação via DrugBank API (DB01004)
 - Definir plano de monitoramento hematológico (mielossupressão é efeito adverso relevante do Ganciclovir)
 - Aguardar publicação dos resultados primários do ensaio NCT03915366 (EMPIRICAL) para consolidação do nível de evidência L1
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

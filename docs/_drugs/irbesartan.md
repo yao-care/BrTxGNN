@@ -106,5 +106,10 @@ A conexão mecanística entre o Irbesartan e a hipertensão renovascular maligna
 - Conduzir revisão sistemática da literatura sobre o uso de ARBs em emergências hipertensivas de origem renovascular
 - Avaliar a viabilidade de um estudo observacional piloto em centro especializado de nefrologia e hipertensão
 - Verificar se a indicação já coberta pela aprovação atual de hipertensão arterial engloba subtipos renovasculares, o que poderia simplificar o caminho regulatório
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

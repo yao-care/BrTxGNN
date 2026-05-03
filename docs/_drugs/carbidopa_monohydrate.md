@@ -88,5 +88,10 @@ O pipeline TxGNN não gerou previsões de reposicionamento para este fármaco, e
 - Baixar a **bula ANVISA** (quando registrado) ou referência internacional para extrair indicações originais, advertências e contraindicações
 - Reexecutar o **pipeline TxGNN** com DrugBank ID e indicações confirmadas para gerar candidatos de reposicionamento
 - Avaliar se o fármaco deve ser pesquisado em combinação (carbidopa é frequentemente coformulado com levodopa — verificar se a entrada correta no pipeline deve ser a combinação ou o monocomponente)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

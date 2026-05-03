@@ -105,5 +105,10 @@ A hipótese de reposicionamento em enxaqueca apresenta plausibilidade mecanísti
 - Levantar advertências, contraindicações e perfil de interações medicamentosas a partir da bula oficial (DG001)
 - Avaliar viabilidade de registro do produto na ANVISA previamente à condução de estudos clínicos no Brasil
 - Definir via de administração adequada para o contexto de enxaqueca (oral vs. intravenoso)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

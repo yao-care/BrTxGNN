@@ -98,5 +98,10 @@ A previsão TxGNN é classificada como nível **L5** — sem qualquer ensaio cl�
 - Revisão mecanística aprofundada da interação D2R/AMPc/AQP2 no contexto de mutações *AVPR2* com ganho de função
 - Dados completos de segurança (advertências, contraindicações e interações medicamentosas da domperidona)
 - Avaliação do risco de prolongamento de QTc na população-alvo antes de qualquer protocolo clínico
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

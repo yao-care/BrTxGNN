@@ -99,5 +99,10 @@ A evidência disponível para lansoprazole em refluxo duodenogástrico restringe
 - Conduzir revisão sistemática específica sobre PPI em DGR humano (há sinal de risco oncológico a ser caracterizado)
 - Avaliar a relação risco-benefício frente a alternativas como agentes pró-cinéticos e quelantes de bile, que agem diretamente no mecanismo do DGR
 - Considerar a priorização de indicações com suporte mais robusto neste mesmo Evidence Pack: **Gastrojejunal Ulcer** (L1 — *Proceed with Guardrails*), **Peptic Ulcer Perforation** (L2) e **Duodenitis** (L2), todas com mecanismo de ação diretamente aplicável e ensaios clínicos disponíveis
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

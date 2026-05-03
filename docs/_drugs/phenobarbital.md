@@ -105,5 +105,10 @@ A previsão TxGNN de rank 1 (neoplasia do nervo trigêmeo) apresenta nível de e
 - Avaliar as previsões de ranks 2–9 — epilepsias reflexas (miccional, alimentar, audiogênica, surpresa, leitura) —, que apresentam maior suporte mecanístico e maior volume de evidências com o mesmo fármaco
 - Regularizar o registro do Phenobarbital junto à ANVISA como etapa prévia a qualquer estudo clínico no Brasil
 - Levantar dados de segurança completos (advertências, contraindicações, interações medicamentosas) a partir da bula do produto
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

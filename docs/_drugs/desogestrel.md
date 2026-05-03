@@ -111,5 +111,10 @@ Embora o TxGNN atribua pontuação muito elevada (99,96%) e exista 1 ensaio Phas
 - Recuperar as advertências e contraindicações da bula ANVISA (DG001) antes de qualquer iniciativa clínica
 - Definir o subtipo-alvo de amenorreia: hipotalâmica funcional (atletas/restrição calórica) vs. hiperandrogênica (SOP) — os mecanismos e as populações são distintos
 - Conduzir revisão sistemática focada especificamente em EE+desogestrel como intervenção para amenorreia hipotalâmica, separando dos estudos gerais de anticoncepção
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

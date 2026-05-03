@@ -82,5 +82,10 @@ O Evidence Pack está incompleto em todos os níveis críticos — sem DrugBank 
 - **[Alto]** Obter dados regulatórios da ANVISA: registros ativos, indicação aprovada, forma farmacêutica
 - **[Alto]** Obter dados de segurança (advertências, contraindicações) da bula ANVISA ou do DrugBank
 - **[Alto]** Identificar o mecanismo de ação (MOA) via DrugBank após correção do ID
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

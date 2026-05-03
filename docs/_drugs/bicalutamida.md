@@ -84,5 +84,10 @@ O Evidence Pack está estruturalmente incompleto — `predicted_indications` ret
 - Re-executar o pipeline TxGNN com o DrugBank ID correto para gerar as previsões de reposicionamento (`predicted_indications`)
 - Re-popular os campos detalhados das 10 licenças ANVISA (número de registro, nome comercial, forma farmacêutica e indicação aprovada estão todos ausentes no pacote atual)
 - Após resolução das lacunas acima, reprocessar o Evidence Pack em nova versão para obter relatório completo
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

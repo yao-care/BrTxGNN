@@ -94,5 +94,10 @@ Não há previsões TxGNN para este fármaco neste ciclo, e os dados mínimos ex
 - [ ] **Resolver DG002 (Alta prioridade):** Consultar a API do DrugBank para obter o `drugbank_id` de Cabotegravir (forma base: DB11753) e confirmar se o sal sódico está mapeado separadamente ou como sinônimo
 - [ ] **Reprocessar o pipeline TxGNN** após inserção do DrugBank ID para que o modelo gere scores de reposicionamento
 - [ ] **Avaliar viabilidade regulatória:** Verificar se há registro em andamento na ANVISA (DATAVISA) ou se será necessário protocolar pedido de importação/registro antes de qualquer estudo clínico brasileiro
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

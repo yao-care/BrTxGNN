@@ -107,5 +107,10 @@ A previsão TxGNN apresenta fundamentação mecanicista razoável (classe BZD co
 - Obter informações de segurança completas (advertências, contraindicações, interações medicamentosas) via download e análise da bula brasileira registrada na ANVISA (DG001)
 - Recuperar detalhes dos 6 registros brasileiros (número de registro, nome comercial, forma farmacêutica, indicação aprovada) para confirmar a disponibilidade de formulação enteral/oral adequada à UTI pediátrica
 - Avaliar a indicação de **Epilepsia Occipital Benigna** (rank 7, L3, 20 publicações com dados diretos de clobazam, recomendação *Proceed with Guardrails*) como alvo prioritário de reposicionamento em paralelo — apresenta base de evidências substancialmente mais robusta
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

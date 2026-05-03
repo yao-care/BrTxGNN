@@ -113,5 +113,10 @@ A previsão do TxGNN para Deficiência de Antitrombina Tipo 2 apresenta uma **di
 - **Dados de segurança completos**: obter bula ANVISA/EMA com advertências, contraindicações e interações medicamentosas
 - **Reavaliação do portfólio de indicações**: das 10 indicações previstas, a **Doença Fibrocística da Mama (rank 10)** apresenta fundamentação mecanística mais sólida e alinhada ao perfil do fármaco (estrógeno-dependente, no mesmo órgão-alvo), sendo candidata prioritária para análise aprofundada
 - **Registro no Brasil**: verificar viabilidade de importação por uso compassivo antes de qualquer desenvolvimento regulatório local
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

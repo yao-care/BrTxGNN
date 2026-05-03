@@ -97,5 +97,10 @@ As evidências específicas para refluxo duodenogástrico são insuficientes —
 - Iniciar processo de registro na ANVISA, já que o fármaco não possui comercialização no Brasil — pré-requisito para qualquer desenvolvimento clínico local
 - Avaliar as indicações com evidências significativamente mais robustas já identificadas pelo TxGNN, em especial **Doença Ulcerosa Péptica (Rank 8 — Nível L1**, com 14 ensaios clínicos concluídos e 20 publicações), que representa o uso clínico estabelecido do famotidine no mundo e o candidato mais promissor para registro no Brasil
 - Realizar revisão sistemática focada no papel específico dos antagonistas H2 no refluxo duodenogástrico primário (biliar), diferenciando-o do refluxo gastroesofágico
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

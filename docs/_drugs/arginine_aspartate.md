@@ -76,5 +76,10 @@ Sem DrugBank ID mapeado e sem registros regulatórios no Brasil, o modelo TxGNN 
 - **Obter MOA via DrugBank**: Com o ID correto, consultar mecanismo de ação, categorias farmacológicas e perfil de segurança
 - **Re-executar o pipeline TxGNN**: Após resolução do DrugBank ID, repetir as etapas de KG prediction e DL prediction para geração de candidatos
 - **Verificar dados de segurança**: Baixar bula disponível em outros países e extrair advertências, contraindicações e interações
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -80,5 +80,10 @@ A ausência de DrugBank ID, de registros ANVISA e de previsões TxGNN impede qua
 - Ampliar a busca ANVISA usando variações do nome: denominação em português ("cloridrato de alectinibe"), nome comercial alternativo e código de princípio ativo
 - Obter o mecanismo de ação (MOA) via DrugBank API após confirmação do ID
 - Recuperar bula ANVISA ou documento regulatório equivalente para extrair advertências, contraindicações e perfil de segurança completo
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

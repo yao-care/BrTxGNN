@@ -74,5 +74,10 @@ O Evidence Pack atual carece dos três pilares mínimos para avaliação de repo
 - **[Alta Prioridade — DG002]** Consultar DrugBank API para recuperar MOA — a query já retornou 1 resultado com sucesso, verificar integração dos dados no pipeline
 - **[Essencial]** Executar o modelo TxGNN para gerar previsões de novas indicações para aflibercepte
 - **[Complementar]** Recuperar os detalhes completos das 4 licenças brasileiras: número de registro, nome comercial, forma farmacêutica e texto da indicação aprovada
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

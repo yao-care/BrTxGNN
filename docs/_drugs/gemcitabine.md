@@ -128,5 +128,10 @@ Múltiplos ensaios clínicos de Fase 3 — incluindo o tAnGo RCT (adjuvância) e
 - Definir o subtipo molecular-alvo prioritário (TNBC, HER2+, HR+/HER2-) para selecionar o parceiro de combinação mais adequado (nab-Paclitaxel, Docetaxel, Carboplatina ou terapia anti-HER2)
 - Avaliar a expressão de hENT1 como biomarcador preditivo de resposta para estratificação de pacientes candidatos
 - Mapear disponibilidade de fornecimento e cadeia logística para eventual uso em protocolo institucional no Brasil
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

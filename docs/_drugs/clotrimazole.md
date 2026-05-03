@@ -119,5 +119,10 @@ Embora a pontuação do TxGNN para acne seja elevada (99,86%), a base mecanísti
 > | 4 | Vulvovaginite tricomonial | L3 | Research Question | 4 ensaios / 20 publicações |
 >
 > A indicação de **vulvovaginite candidíasica (Rank 2)** possui o maior suporte clínico, incluindo Phase 3 RCT concluído com n=466 (NCT00755053) e múltiplos estudos de alta qualidade — representando a prioridade mais promissora no pipeline de reposicionamento deste fármaco no Brasil.
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

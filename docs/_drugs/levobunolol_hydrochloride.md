@@ -62,5 +62,10 @@ O Evidence Pack retornou vazio em todas as dimensões analíticas críticas — 
 - **Obter indicação original e MOA** a partir do DrugBank (DB já localizado)
 - **Verificar situação ANVISA** — confirmar se há registro no Brasil sob nome comercial alternativo (ex.: *Betagan*)
 - **Coletar dados de segurança** (advertências, contraindicações) via bula ANVISA ou FDA label
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

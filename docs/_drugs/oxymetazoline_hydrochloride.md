@@ -82,5 +82,10 @@ O modelo TxGNN não gerou previsões de reposicionamento por ausência de dados 
 - Investigar se o produto é comercializado no Brasil sob denominação combinada ou nome comercial diferente do INN
 - Baixar e analisar a bula disponível em outras agências regulatórias para preencher advertências e contraindicações (campo de severidade "Blocking" no DG001)
 - Reprocessar o candidato no pipeline TxGNN após completar os dados acima
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

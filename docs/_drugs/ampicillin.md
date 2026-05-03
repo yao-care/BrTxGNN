@@ -113,5 +113,10 @@ A previsão do TxGNN é mecanisticamente plausível para laringite bacteriana �
 - Conduzir ou identificar ensaios clínicos controlados direcionados especificamente ao Ampicillin em laringite bacteriana confirmada microbiologicamente
 - Realizar mapeamento de sensibilidade microbiológica local para os principais patógenos laríngeos, considerando taxas de resistência a β-lactamases no Brasil
 - Avaliar viabilidade de registro na ANVISA como pré-requisito regulatório para qualquer desenvolvimento comercial no mercado brasileiro
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -97,5 +97,10 @@ O Evidence Pack de Basiliximabe apresenta lacunas em todas as camadas críticas 
 - **[Alto]** Consultar a DrugBank API para obter dados de mecanismo de ação (MOA), categorias farmacológicas e toxicidade
 - **[Alto]** Baixar e processar a bula ANVISA em PDF para extrair advertências, contraindicações e interações medicamentosas
 - **[Médio]** Após obtenção das previsões TxGNN, executar coleta de evidências (ClinicalTrials.gov, PubMed) para as indicações candidatas identificadas
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

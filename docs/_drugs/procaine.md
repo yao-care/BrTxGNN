@@ -115,5 +115,10 @@ A previsão TxGNN de rank 1 (metemoglobinemia) reflete uma **relação de efeito
 - Consultar advertências e contraindicações na bula ANVISA/TFDA (gap DG001 — bloqueante)
 - Verificar viabilidade regulatória: a ausência de registro no Brasil exigiria processo de registro na ANVISA antes de qualquer desenvolvimento clínico local
 - Avaliar a viabilidade de uma revisão sistemática sobre *neural therapy* com procaína como ponto de entrada para um possível futuro estudo prospectivo em dor musculoesquelética
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

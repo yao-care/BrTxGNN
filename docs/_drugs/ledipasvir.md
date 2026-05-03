@@ -124,5 +124,10 @@ Existe um ensaio Phase 2 aberto concluído (NCT03312023) testando diretamente a 
 - Confirmar o registro ANVISA e as indicações aprovadas no Brasil, bem como obter a bula com advertências, contraindicações e interações medicamentosas completas
 - Desenhar ensaio Phase 2/3 de maior porte com HBsAg sérico e DNA do HBV como endpoints primários, idealmente com braços comparativos incluindo antivirais estabelecidos para HBV (entecavir, tenofovir)
 - Avaliar populações especiais: pacientes imunossuprimidos, transplantados e coinfectados com HIV, nos quais o risco de reativação do HBV é clinicamente relevante
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

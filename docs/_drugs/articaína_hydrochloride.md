@@ -80,5 +80,10 @@ O Evidence Pack não contém previsões TxGNN, registros regulatórios brasileir
 - Pesquisar registros de produtos combinados contendo articaína (ex.: articaína + epinefrina) que possam existir na base da ANVISA
 - Após recuperar os dados regulatórios e de MOA, reprocessar o candidate no pipeline TxGNN para obtenção de score e indicações candidatas
 - Baixar e analisar bulas disponíveis nos registros ANVISA encontrados para preencher os campos de segurança (advertências, contraindicações)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

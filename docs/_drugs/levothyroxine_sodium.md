@@ -81,5 +81,10 @@ Sem predições do modelo e com múltiplas lacunas críticas de dados, não há 
 - **[DG002 — Alta prioridade]** Consultar a API do DrugBank para obter o `drugbank_id` e o mecanismo de ação (MOA) da Levotiroxina Sódica
 - **Verificação regulatória manual** — confirmar situação de registro na ANVISA (o retorno de 0 registros é provavelmente um falso negativo)
 - **Re-execução do pipeline TxGNN** após resolução das lacunas acima, garantindo que o DrugBank ID esteja preenchido e as indicações originais estruturadas
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

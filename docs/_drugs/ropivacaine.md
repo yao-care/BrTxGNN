@@ -119,5 +119,10 @@ Há evidências de nível L2 apoiando o uso de Ropivacaine em enxaqueca — incl
 - **Replicação de RCT com amostra maior** para o bloqueio SPG em enxaqueca (NCT03666663 possui apenas n=10, sem potência estatística adequada)
 - **Padronização do protocolo de administração**: definir rota (transnasal, injeção intramuscular, bloqueio guiado por ultrassom), dose, concentração e frequência para a indicação migranhosa
 - **Análise de subgrupo**: distinguir uso agudo (abortar crise) versus profilático (prevenção), visto que os estudos disponíveis avaliam ambos os contextos
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

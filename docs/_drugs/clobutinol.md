@@ -102,5 +102,10 @@ Todas as 10 indicações previstas pelo TxGNN apresentam nível de evidência L5
 - Verificar o histórico regulatório de segurança cardíaca (risco de prolongamento do intervalo QT, que motivou retiradas de mercado em outros países)
 - Realizar busca de estudos pré-clínicos (*in vitro*/*in vivo*) para qualquer das indicações antes de considerar avanço
 - Revisar se indicações com conexão indireta ao sistema respiratório (pneumonia, bronquiolite obliterante) têm suporte em literatura especializada, considerando o perfil de risco do fármaco
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

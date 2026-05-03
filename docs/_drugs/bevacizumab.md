@@ -105,5 +105,10 @@ A previsão do TxGNN para neoplasma da epiglote não possui nenhum suporte empí
 - Dados formalizados de mecanismo de ação via DrugBank API (Gap DG002)
 - Detalhamento dos 12 registros na ANVISA (nome comercial, forma farmacêutica, indicação aprovada)
 - Considerar como alternativa prioritária o **Neoplasma Cístico (Rank 7, Nível L1)**, que dispõe de ensaio Phase 3 RCT (n=1.052) e 20 publicações com recomendação **Proceed with Guardrails**
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

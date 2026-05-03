@@ -122,5 +122,10 @@ Existem pelo menos dois ensaios clínicos de Fase 3 concluídos e múltiplos ens
 - Confirmar mecanismo de ação formal via DrugBank API (DG002 pendente)
 - Definir a subindicação-alvo prioritária dentro do espectro "exantema" para desenvolvimento clínico estruturado — recomenda-se **líquen escleroso vulvar** como ponto de entrada, onde Clobetasol já é padrão-ouro com suporte de Fase 3
 - Avaliar o perfil de segurança específico para uso prolongado, incluindo risco de atrofia cutânea, supressão do eixo hipotálamo-hipófise-adrenal (HPA) e infecções secundárias em uso crônico
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

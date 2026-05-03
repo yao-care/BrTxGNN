@@ -111,5 +111,10 @@ A previsão TxGNN para infecção por SIV é mecanisticamente coerente — a ele
 - Recuperar o mecanismo de ação completo via DrugBank API (dados actualmente ausentes neste pacote — DG002)
 - Consultar a bula ANVISA para advertências e contra-indicações (DG001 — severidade Blocking para avaliação de segurança)
 - Caso o objectivo seja utilização de Saquinavir em modelos animais SIV (investigação básica), esta previsão é suporte válido; nesse caso, definir protocolo de modelo animal e parceiros de investigação
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -134,5 +134,10 @@ Todas as 9 indicações previstas pelo TxGNN apresentam exclusivamente nível de
 - Para a Agenesia Pancreática: elaborar protocolo de série de casos avaliando segurança, eficácia e interação com a ausência de amilase pancreática
 - Realizar consulta de DDI em fontes secundárias especializadas (Micromedex, Lexicomp) para suprir a lacuna da consulta automatizada
 - Completar dados de segurança (advertências, contraindicações) antes de qualquer avaliação de progressão para S1
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -105,5 +105,10 @@ Não existem ensaios clínicos nem publicações científicas vinculando Lumacaf
 - Recuperar os detalhes completos dos registros ANVISA (número, nome comercial, indicação aprovada) via download do PDF da bula
 - Conduzir estudos pré-clínicos *in vitro* avaliando o efeito do Lumacaftor em modelos de infecção de macrófagos por *M. leprae* ou espécies relacionadas (*M. tuberculosis*)
 - Investigar se a expressão de CFTR em macrófagos de pacientes sem fibrose cística é biologicamente relevante para a resposta antimicobacteriana — pré-requisito para qualquer hipótese de reposicionamento
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

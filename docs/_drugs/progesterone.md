@@ -113,5 +113,10 @@ O uso da progesterona no manejo da amenorreia é uma indicação clínica já am
 - Definir a população-alvo específica: amenorreia hipotalâmica funcional (AHF), SOP, insuficiência ovariana prematura (POI) ou outras etiologias
 - Especificar a formulação e via de administração adequada (oral micronizada, vaginal, transdérmica) conforme a indicação clínica específica
 - Levantar advertências, contraindicações e interações medicamentosas completas a partir da bula de formulações aprovadas — dados de segurança (DG001) atualmente indisponíveis nesta base
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -102,5 +102,10 @@ As evidências disponíveis para a indicação de doença renal hipertensiva mal
 - Realizar busca sistemática por estudos observacionais e séries de casos de Captopril em hipertensão maligna com nefropatia
 - Definir critérios de exclusão formais para pacientes com estenose arterial renal bilateral ou rim único
 - Avaliar os dados de evidência L3 disponíveis para a indicação relacionada **Malignant Renovascular Hypertension** (Rank 2, 20 publicações, recomendação *Proceed with Guardrails*), que pode oferecer base mecanística comparável com suporte bibliográfico mais robusto para embasar um redesenho da estratégia de investigação
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

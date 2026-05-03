@@ -91,5 +91,10 @@ O pipeline não gerou previsões de reposicionamento e os dados regulatórios, d
 - **Verificar nomenclatura ANVISA**: pesquisar grafias alternativas ("Acetonida de Triancinolona", "Triancinolona Acetonida") para identificar possíveis registros existentes no Brasil
 - **Obter dados de MOA e segurança**: consultar a API do DrugBank com o ID correto para recuperar mecanismo de ação, advertências e contraindicações
 - **Normalizar o nome de entrada**: padronizar o nome do fármaco para o INN em inglês (*Triamcinolone Acetonide*) antes de resubmeter ao modelo TxGNN
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

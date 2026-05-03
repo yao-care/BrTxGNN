@@ -91,5 +91,10 @@ O TxGNN não gerou previsões de reposicionamento para este fármaco na execuç�
 - Verificar se o nome "AMILORIDA HYDROCHLORIDE" está indexado corretamente no DrugBank — possível variação de grafia em relação ao INN padrão em inglês ("Amiloride hydrochloride")
 - Reexecutar o pipeline TxGNN após resolução do mapeamento DrugBank para obter previsões de reposicionamento
 - Avaliar se o fármaco possui registro em outros mercados relevantes (EUA, Europa) que possam fornecer dados de indicações originais como referência
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

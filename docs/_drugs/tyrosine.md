@@ -103,5 +103,10 @@ A previsão TxGNN para Síndrome da Cauda Equina carece totalmente de suporte cl
 - Demonstrar sinal biológico em modelos animais de síndrome da cauda equina antes de qualquer hipótese clínica
 - Obter registro regulatório na ANVISA para uso farmacêutico, caso haja progresso pré-clínico
 - Reavaliar se a previsão do TxGNN resulta de associação biológica real ou de artefato de conectividade no grafo de conhecimento (análise de caminho mecanístico formal)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

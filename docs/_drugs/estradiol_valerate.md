@@ -106,5 +106,10 @@ A previsão do TxGNN para Síndrome do X Frágil em portadoras femininas é clas
 ---
 
 > ⚠️ *Este relatório é gerado pelo pipeline TxGNN para fins de pesquisa. Os resultados são previsões computacionais e não constituem aconselhamento médico. Candidatos a reposicionamento requerem validação clínica antes de qualquer aplicação.*
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

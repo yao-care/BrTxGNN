@@ -116,5 +116,10 @@ O polidocanol possui múltiplos ensaios clínicos randomizados, revisões sistem
 - Confirmar as concentrações de polidocanol aprovadas no registro brasileiro: o uso endoscópico em varizes esofágicas tipicamente emprega 1–3%, enquanto varizes venosas superficiais usam 0,5–1% — a concentração aprovada pode diferir da necessária para EIS
 - Mapear dados de segurança específicos para a via endoscópica (risco de úlcera esofágica pós-esclerose, bacteriemia, dor retroesternal, estenose esofágica — conforme descrito em PMID 6609102)
 - Consultar diretrizes da Federação Brasileira de Gastroenterologia (FBG) e da Sociedade Brasileira de Endoscopia Digestiva (SOBED) quanto ao protocolo padrão de EIS com polidocanol
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

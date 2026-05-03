@@ -114,5 +114,10 @@ Existem dois ensaios clínicos randomizados controlados (RCTs — PMID 38693477 
 - Definir **via de administração e forma farmacêutica-alvo**: a evidência favorece formulações de contato local (pastilhas, gargarejos), não sulfato de zinco sistêmico
 - Planejar ensaio clínico prospectivo de Phase 2 especificamente para faringite aguda infecciosa com formulação local de zinco, dado que os estudos existentes avaliam modelos cirúrgicos ou de radioterapia
 - Verificar compatibilidade regulatória para registro no Brasil antes de qualquer desenvolvimento comercial
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

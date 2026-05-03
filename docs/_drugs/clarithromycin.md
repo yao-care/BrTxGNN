@@ -116,5 +116,10 @@ Múltiplos ensaios clínicos Fase 2 documentam o uso de Clarithromycin como adju
 - Mapear perfil de interações medicamentosas, especialmente com IMiDs (lenalidomida, pomalidomida) e inibidores de proteassoma (bortezomibe, carfilzomibe)
 - Identificar e definir subpopulações com maior probabilidade de benefício (ex.: MM refratário a lenalidomida, MGUS de alto risco, amiloidose AL)
 - Avaliar viabilidade de ensaio clínico local ou acesso via uso compassivo/protocolo de uso expandido no contexto regulatório brasileiro
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

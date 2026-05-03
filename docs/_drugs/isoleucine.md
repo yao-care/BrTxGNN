@@ -96,5 +96,10 @@ Não há nenhuma evidência clínica ou pré-clínica direta apoiando o uso de i
 - Dados de mecanismo de ação (MOA) obtidos via DrugBank API ou revisão de literatura
 - Verificação de segurança: advertências, contraindicações e interações medicamentosas por meio de bula ou bases de dados regulatórias (ANVISA, DrugBank)
 - Avaliação de viabilidade da via de administração e forma farmacêutica adequada para a indicação proposta
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

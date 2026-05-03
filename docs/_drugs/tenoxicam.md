@@ -114,5 +114,10 @@ A evidência científica para uso de Tenoxicam em artrite reumatoide é excepcio
 - Verificar se a indicação de artrite reumatoide já consta nos registros ANVISA existentes ou se requer solicitação de extensão de indicação
 - Confirmar o mecanismo de ação detalhado via DrugBank API (lacuna de dados de alta prioridade)
 - Avaliar o perfil de risco gastrointestinal e cardiovascular para uso crônico em pacientes com AR, especialmente em comparação com inibidores seletivos de COX-2 disponíveis no mercado brasileiro
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

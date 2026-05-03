@@ -103,5 +103,10 @@ O Evidence Pack está incompleto em pontos críticos: ausência de DrugBank ID, 
 4. **Verificar registro ANVISA** sob variações do nome: "Cafeína", "Caffeine", "Cafeína Citrato"
 5. **Reprocessar o Evidence Pack** com os dados complementados para obter previsões TxGNN válidas
 6. **Confirmar se o produto é indicado para uso neonatal**, o que impõe critérios adicionais de segurança em populações especiais
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

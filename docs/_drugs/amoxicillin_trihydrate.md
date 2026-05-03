@@ -83,5 +83,10 @@ O modelo TxGNN não gerou previsões de reposicionamento por ausência de mapeam
 - **[Alto]** Obter dados de MOA via DrugBank API (mecanismo esperado: inibição da síntese de parede celular bacteriana por ligação às proteínas de ligação à penicilina — PBPs)
 - **[Alto]** Reexecutar consulta de segurança (DDI, advertências, contraindicações) após correção do identificador
 - Após os pontos acima, repetir o ciclo completo de análise para que previsões e evidências possam ser devidamente avaliadas
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

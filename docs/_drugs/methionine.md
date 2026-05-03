@@ -101,5 +101,10 @@ As quatro publicações identificadas apresentam conexão apenas indireta — a 
 - Investigar se a suplementação oral de metionina modula inflamação sebácea ou microbioma cutâneo em modelos pré-clínicos de acne
 - Avaliar se a restauração do ciclo da metionina (via SAM ou GSH) tem relevância clínica na fisiopatologia da acne inflamatória
 - Considerar indicações com evidência mais robusta neste mesmo pack (ex.: **Diabetic Cataract**, rank 10, nível L4 com múltiplos estudos em células humanas e suporte mecanístico via MsrB1/SAM sintase) como prioridade para desenvolvimento
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

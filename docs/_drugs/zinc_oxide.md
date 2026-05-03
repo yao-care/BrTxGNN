@@ -113,5 +113,10 @@ A literatura dermatológica apoia de forma consistente o papel do zinco no trata
 - Providenciar registro ou notificação na ANVISA para viabilizar comercialização no Brasil
 - Avaliar conformidade regulatória para formulações contendo nanopartículas de ZnO, conforme exigências da ANVISA para nanomateriais dermatológicos
 - Conduzir estudo clínico controlado comparando zinc oxide tópico com tratamentos padrão para acne (peróxido de benzoíla, antibióticos tópicos) para estabelecimento de evidência L2/L1
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -97,5 +97,10 @@ As evidências resumem-se exclusivamente à previsão computacional do TxGNN (n�
 - Obter informações de segurança, advertências e contraindicações da bula junto à ANVISA ou fontes internacionais (item bloqueante para avaliação clínica)
 - Conduzir estudos pré-clínicos em modelos animais de pseudoacondroplasia antes de qualquer consideração clínica
 - Verificar a possibilidade de registro ou uso compassivo junto à ANVISA, caso estudos pré-clínicos demonstrem sinal de eficácia
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -122,5 +122,10 @@ A indicação de enxaqueca carece de quaisquer evidências clínicas diretas nes
 - Obter dados completos de segurança via bula e alertas ANVISA (atualmente em lacuna de dados)
 - Avaliar o perfil cardiovascular da população-alvo antes de qualquer protocolo (inibidores COX-2 aumentam risco de eventos cardiovasculares em uso crônico)
 - Considerar como prioridade imediata o reposicionamento para **transtorno de cefaleia / cefaleias responsivas à indometacina** (rank 9, L3), onde múltiplos relatos de caso consistentes com mecanismo biológico plausível já sustentam um estudo piloto prospectivo
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

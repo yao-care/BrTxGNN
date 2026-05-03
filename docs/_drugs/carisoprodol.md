@@ -104,5 +104,10 @@ A previsão TxGNN é mecanisticamente plausível (sedação via GABA-A/meprobama
 - Identificar ensaios clínicos que avaliem carisoprodol ou meprobamato diretamente para insônia
 - Avaliar o enquadramento regulatório no Brasil (carisoprodol pode estar sujeito a controle especial)
 - Considerar se o risco de dependência do meprobamato é aceitável para a população-alvo de insônia
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -93,5 +93,10 @@ A previsão de Rank 1 do TxGNN para malformação esofágica não-sindrômica ca
   - **Lesão/Trauma** (Rank 4 — L2, *Proceed with Guardrails*): múltiplos ensaios de Fase 2–4 testando vitamina C em reparo tecidual, lesão por isquemia-reperfusão, sepse e trauma cirúrgico
   - **Doença perinatal** (Rank 6 — L2, *Proceed with Guardrails*): evidências em proteção fetal, prevenção de pré-eclâmpsia e redução de mortalidade neonatal
 - **Resolução das lacunas de dados (DG001/DG002):** obtenção de dados de MOA do DrugBank e verificação de registros ANVISA atualizados para confirmar situação regulatória no Brasil
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -116,5 +116,10 @@ A eficácia de Ranitidine no tratamento da úlcera péptica ativa é uma das bas
 - Verificação das advertências e contraindicações na bula oficial (lacuna DG001 identificada)
 - Definição da via de administração prioritária (oral vs. intravenosa) conforme o cenário clínico-alvo da úlcera péptica ativa
 - Revisão de segurança completa considerando o perfil pós-2020 do fármaco
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

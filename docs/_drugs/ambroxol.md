@@ -95,5 +95,10 @@ As evidências disponíveis são insuficientes para sustentar o reposicionamento
 - Obter os detalhes dos 20 registros disponíveis (indicações aprovadas, formas farmacêuticas)
 - Realizar busca bibliográfica ampliada com termos como *"ambroxol AND nasal"*, *"ambroxol AND rhinitis"* ou *"ambroxol AND sinusitis"*
 - Identificar se há ensaios clínicos em andamento para condições nasais (ClinicalTrials.gov, ICTRP)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

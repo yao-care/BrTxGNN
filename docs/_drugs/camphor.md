@@ -100,5 +100,10 @@ O racional mecanístico via TRPV1 trigeminal é teoricamente plausível, porém 
 - Definição de via e formulação de administração adequadas (uso tópico na região temporal difere substancialmente de uso sistêmico)
 - Dados completos de MOA via DrugBank para mapear precisamente as interações com o sistema trigeminal
 - Dados regulatórios de segurança (contraindicações, advertências formais, interações medicamentosas)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

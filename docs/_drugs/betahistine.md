@@ -112,5 +112,10 @@ Betahistine possui base de evidências de nível L1 para vertigem periférica �
 - Avaliar equivalência farmacêutica e perfil de biodisponibilidade para as formulações de interesse (comprimidos 8 mg, 16 mg e 24 mg)
 - Mapear potencial de mercado no Brasil: prevalência de vertigem periférica e Ménière, lacuna terapêutica existente e concorrência com dimenidrinato e cinarizina
 - Estruturar plano de farmacovigilância pós-comercialização adaptado às exigências regulatórias brasileiras
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

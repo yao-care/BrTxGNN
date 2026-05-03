@@ -107,5 +107,10 @@ As únicas evidências disponíveis são um estudo mecanicista in vitro realizad
 - Obtenção do mecanismo de ação completo via DrugBank (lacuna DG002)
 - Obtenção de advertências, contraindicações e interações via bula oficial da ANVISA (lacuna DG001 — nível Blocking)
 - Avaliação de interações farmacológicas com antirretrovirais de uso concomitante habitual (ITRN, ITRNN, IP, inibidores de integrase)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

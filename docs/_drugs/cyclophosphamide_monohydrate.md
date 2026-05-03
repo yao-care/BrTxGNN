@@ -104,5 +104,10 @@ O sistema TxGNN não produziu nenhuma previsão de reposicionamento para este re
 - **[Crítico]** Buscar registros ANVISA para "ciclofosfamida" (INN sem especificação de hidratação) para identificar licenças equivalentes e obter indicações aprovadas e advertências
 - **[Alto]** Coletar dados de segurança (advertências, contraindicações, interações medicamentosas) a partir da bula do fabricante ou banco de dados de segurança DrugBank
 - **[Médio]** Após reprocessamento, verificar quais indicações o TxGNN prevê e iniciar coleta de evidências (ensaios clínicos, literatura) para as indicações de maior pontuação
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

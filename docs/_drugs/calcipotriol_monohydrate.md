@@ -85,5 +85,10 @@ Sem previsões TxGNN e sem DrugBank ID mapeado, não há base técnica para aval
 - Obter MOA completo via DrugBank API (mecanismo de ação via receptor VDR — Vitamin D Receptor)
 - Consultar a bula TFDA para extrair advertências e contraindicações e preencher os campos de segurança
 - Verificar se existem registros ANVISA sob nomes alternativos (ex.: "calcipotriol", "calcipotriene") antes de concluir que o produto está totalmente ausente do mercado brasileiro
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -84,5 +84,10 @@ O Evidence Pack está incompleto — não há previsões TxGNN, dados de MOA, da
 - Recuperar os detalhes dos 18 registros (nome comercial, forma farmacêutica, indicação aprovada)
 - Executar o pipeline de previsão TxGNN com os dados completos para gerar `predicted_indications`
 - Após geração das previsões, coletar evidências de ensaios clínicos e literatura para as indicações candidatas
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

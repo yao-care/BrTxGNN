@@ -107,5 +107,10 @@ Existe fundamento mecanístico direto e múltiplos estudos clínicos da era 1982
 - **Registro da combinação no Brasil**: Verificar se Augmentin (amoxicilina-clavulanato) possui registro ANVISA vigente — sem ele, a aplicação clínica fica inviabilizada independentemente da evidência
 - **Ensaios clínicos modernos**: Os estudos disponíveis têm entre 30 e 44 anos; novos estudos prospectivos com cepas contemporâneas são necessários para suportar uso clínico atual
 - **Dados completos de MOA via DrugBank**: Complementar o gap de mecanismo de ação para análise farmacológica formal
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

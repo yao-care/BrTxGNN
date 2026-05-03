@@ -100,5 +100,10 @@ A conexão mecanística entre o Valsartan e a hipertensão renovascular maligna 
 - Obter os dados completos da bula dos 20 registros ANVISA do Valsartan no Brasil (indicações aprovadas, advertências, contraindicações)
 - Levantar dados de MOA detalhados via DrugBank API (DG002 pendente) para embasar análise de mecanismo completa
 - Conduzir revisão sistemática de literatura específica sobre uso de ARBs em crises hipertensivas renovasculares malignas
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

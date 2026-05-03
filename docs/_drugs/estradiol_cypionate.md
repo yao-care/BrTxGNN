@@ -99,5 +99,10 @@ A previsão TxGNN captura uma lógica parcialmente plausível — a via FMR1 →
 - Delimitar a indicação: separar a componente FXPOI (onde TRH estrogênica tem base racional) dos sintomas neurológicos da síndrome do X frágil (FXTAS), para os quais EC não é indicado
 - Identificar ensaios clínicos ou publicações que avaliem reposição de estrogênio especificamente em portadoras de pré-mutação FMR1 com FXPOI, mesmo que não usando EC diretamente
 - Avaliar a viabilidade de registro ou importação do EC no Brasil antes de qualquer planejamento de desenvolvimento clínico local
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

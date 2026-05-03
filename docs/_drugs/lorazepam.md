@@ -99,5 +99,10 @@ Não existe nenhum ensaio clínico, publicação científica ou mecanismo de aç
 - Conduzir estudos pré-clínicos em modelos de schwannoma ou meningioma trigeminal
 - Obter dados completos de MOA e perfil de segurança via bula oficial (ANVISA) e DrugBank
 - Considerar a avaliação das indicações previstas com evidência mais robusta neste perfil — notadamente **insônia** (Rank 2, Nível L2, Proceed with Guardrails) e **epilepsias reflexas** (Ranks 3–8, Nível L4, Research Question), que apresentam suporte mecanístico direto pela modulação GABA-A
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

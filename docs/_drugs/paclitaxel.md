@@ -134,5 +134,10 @@ A predição TxGNN (99,99%) para carcinoma mamário feminino é amplamente suste
 - Definir o subtipo molecular alvo (TNBC, HER2+, Luminal B de alto risco ou doença metastática) para protocolo de seleção de pacientes
 - Estabelecer e padronizar protocolo de pré-medicação anti-hipersensibilidade (especialmente para formulações com Cremophor EL)
 - Planejar monitoramento prospectivo de neuropatia periférica induzida por taxano (CIPN) como principal efeito adverso limitante de dose cumulativa
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

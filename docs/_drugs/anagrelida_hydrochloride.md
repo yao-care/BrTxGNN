@@ -86,5 +86,10 @@ O Evidence Pack não contém os dados mínimos necessários para uma análise de
 - Verificar se o fármaco está registrado em outro sistema regulatório regional (ex.: ANVISA, EMA, FDA) e importar a indicação aprovada
 - Reprocessar o Evidence Pack com os campos corrigidos para que o TxGNN possa gerar candidatos de reposicionamento
 - Após obter previsões, coletar advertências, contraindicações e interações medicamentosas da bula oficial
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

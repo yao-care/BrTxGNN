@@ -114,5 +114,10 @@ As evidências disponíveis para Ivacaftor em artrite reumatoide limitam-se a um
 - Realizar revisão de literatura direcionada a CFTR + inflamação articular ou modelos murinos de artrite para validar a hipótese mecanística
 - Identificar se há estudos translacionais ou biomarker studies usando moduladores CFTR em populações com doenças autoimunes sistêmicas (não apenas FC)
 - Resgatar os detalhes dos 7 registros ANVISA (número, nome comercial, forma farmacêutica, indicação aprovada) para avaliação regulatória completa
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

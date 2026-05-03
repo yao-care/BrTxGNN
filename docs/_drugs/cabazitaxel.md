@@ -123,5 +123,10 @@ Existe um Phase 2 RCT randomizado e aberto (Estudo GENEVIEVE) e um estudo Phase 
 - Identificar e delimitar as subpopulações-alvo com maior probabilidade de resposta: TNBC, Luminal B/HER2-negativo com resistência prévia a taxanos, tumores com expressão elevada de βIII-tubulina
 - Realizar busca ampliada no ClinicalTrials.gov com termos alternativos ("breast neoplasm", "breast tumor", "mammary carcinoma") para mapear eventuais ensaios não capturados
 - Comparar perfil de toxicidade de Cabazitaxel com taxanos já aprovados para mama (paclitaxel, docetaxel, nab-paclitaxel) para definir a relação risco-benefício no contexto clínico e regulatório brasileiro
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

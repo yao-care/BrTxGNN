@@ -81,5 +81,10 @@ O modelo TxGNN não gerou nenhuma predição de reposicionamento para avibactam 
 - **[Alta prioridade]** Obter a bula/monografia do produto (ex.: Avycaz, registrado na FDA e EMA) para preencher MOA, advertências e contraindicações
 - Re-executar o pipeline TxGNN completo após correção do mapeamento de identidade do fármaco
 - Avaliar se o reposicionamento deve ser analisado para avibactam sódico como entidade isolada ou para a combinação ceftazidima/avibactam como um único agente terapêutico
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

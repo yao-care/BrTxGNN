@@ -104,5 +104,10 @@ A epiglotite aguda bacteriana é a indicação prevista pelo TxGNN com maior gra
 - Obter dados completos de mecanismo de ação via DrugBank API (Data Gap DG002 — severidade Alta)
 - Definir protocolo clínico: Amoxicillin simples vs. Amoxicillin-clavulanato conforme perfil de resistência a beta-lactamase da população-alvo local
 - Considerar que a ausência de ensaios clínicos registrados para epiglotite limita a geração de evidência de fase 2/3 — a indicação opera em nível de prática clínica estabelecida, não em nível de investigação formal
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

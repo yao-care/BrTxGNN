@@ -84,5 +84,10 @@ O Evidence Pack não contém previsões de reposicionamento nem dados regulatór
 - Baixar e analisar a bula oficial (PDF) para extrair advertências, contraindicações e interações
 - Resolver as lacunas DG001 (Bloqueante) e DG002 (Alta) listadas no meta do Evidence Pack
 - Re-executar o pipeline TxGNN para obter previsões de reposicionamento com os dados completos
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

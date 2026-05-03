@@ -109,5 +109,10 @@ Todas as 10 indicações previstas pelo TxGNN carecem de suporte científico vá
 - Reavaliação das previsões TxGNN com **filtragem de falsos positivos oftalmológicos** gerados por vizinhança de nós de MPS II no grafo de conhecimento
 - Explorar indicações dentro do espectro de **doenças lisossomais por armazenamento de GAG** (ex.: MPS VI, MPS VII) onde a similaridade bioquímica com MPS II é real e o mecanismo de ERT é aplicável
 - Considerar análise de subgrupos populacionais (pacientes pediátricos vs. adultos) dada a natureza rara e progressiva da doença original
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

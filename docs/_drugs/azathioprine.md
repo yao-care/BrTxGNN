@@ -120,5 +120,10 @@ Existem múltiplos ensaios clínicos de Fase 3 concluídos (NCT00094458, n=508; 
 - Obter e analisar a bula atualizada com advertências, contraindicações e interações medicamentosas relevantes para a população brasileira
 - Implementar protocolo de rastreio farmacogenômico (genotipagem de TPMT e/ou NUDT15) antes do início da terapia, especialmente relevante em populações com alta prevalência de variantes de risco (como populações asiáticas) para prevenção de leucopenia grave
 - Mapear as especificidades epidemiológicas da DII no Brasil para adequação da estratégia terapêutica e regulatória local
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -83,5 +83,10 @@ O Evidence Pack não contém predições TxGNN nem dados regulatórios detalhado
 - Recuperar os detalhes dos 7 registros ANVISA: nome comercial, forma farmacêutica e indicação aprovada
 - Re-executar o pipeline de predição TxGNN após correção do mapeamento DrugBank para obter candidatos de reposicionamento
 - Verificar a fonte dos dados regulatórios: o `query_log` indica fonte `tfda` (Taiwan FDA) — confirmar se os registros correspondem efetivamente à base ANVISA brasileira
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

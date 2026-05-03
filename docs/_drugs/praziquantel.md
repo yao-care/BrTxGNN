@@ -104,5 +104,10 @@ Não existe nenhuma evidência clínica ou pré-clínica direta que apoie o uso 
 - Dados de mecanismo de ação (MOA) formalizados a partir do DrugBank (DG002)
 - Recuperação das bulas registradas na ANVISA para preenchimento de advertências e contraindicações (DG001)
 - Consulta a especialistas em oncologia ginecológica para avaliar relevância clínica da hipótese
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

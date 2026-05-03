@@ -66,5 +66,10 @@ O TxGNN não gerou nenhuma indicação prevista para o Propionato de Cálcio, e 
 - Re-executar o pipeline TxGNN com o DrugBank ID confirmado para gerar previsões de reposicionamento
 - Levantar dados de MOA junto ao DrugBank para viabilizar a análise de mecanismo
 - Avaliar se o objeto correto da pesquisa é o sal (Propionato de **Cálcio**) ou o ácido livre (ácido propiônico), pois podem ter entradas distintas no grafo de conhecimento do TxGNN
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

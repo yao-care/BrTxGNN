@@ -92,5 +92,10 @@ O Evidence Pack não contém previsões TxGNN nem registros regulatórios válid
 - [ ] **Reexecutar o TxGNN** com o DrugBank ID correto para gerar previsões de reposicionamento
 - [ ] **Levantar o MOA** via DrugBank API (DG002 — severidade Alta)
 - [ ] **Obter advertências e contraindicações** da bula vigente (DG001 — severidade Bloqueante)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

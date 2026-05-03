@@ -87,5 +87,10 @@ O pipeline TxGNN não gerou nenhuma previsão de reposicionamento para este fár
 - **Reexecutar o pipeline TxGNN**: Com o DrugBank ID correto, o modelo de grafo de conhecimento poderá gerar previsões de reposicionamento
 - **Levantar indicação original**: Consultar a bula de referência da ANVISA ou base DrugBank para registrar a indicação aprovada principal
 - **Sanar DG001 (TFDA/ANVISA)** e **DG002 (MOA)**: Obter dados de advertências e mecanismo de ação antes de qualquer avaliação de segurança
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

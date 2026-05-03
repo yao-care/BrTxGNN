@@ -124,5 +124,10 @@ A previsão TxGNN está mecanisticamente fundamentada na adjacência metabólica
 - Conduzir revisão sistemática focada especificamente em cobalamina como adjuvante em doenças de deficiência de biotinidase ou holocarboxylase sintase
 - Verificar registros ANVISA de cianocobalamina diretamente no portal da Agência
 - Avaliar se existe justificativa clínica suficiente para um ensaio piloto de fase 1/2 testando cianocobalamina adjuvante em pacientes pediátricos com doença metabólica da biotina confirmada por diagnóstico genético
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

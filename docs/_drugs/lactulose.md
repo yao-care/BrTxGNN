@@ -98,5 +98,10 @@ A previsão do TxGNN para nefropatia aguda por urato não possui suporte de ensa
 - Dados detalhados dos 19 registros ANVISA (indicações aprovadas, formas farmacêuticas e posologia)
 - Mecanismo de ação completo (MOA) obtido via consulta ao DrugBank API
 - Informações de segurança da bula brasileira (advertências, contraindicações)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

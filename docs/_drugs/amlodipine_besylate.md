@@ -83,5 +83,10 @@ O modelo TxGNN não retornou indicações de reposicionamento para este fármaco
 - **Verificar a extração do DrugBank**: o log indica 1 resultado encontrado (`result_count: 1`), mas os campos `drugbank_id`, `original_moa` e `key_warnings` não foram populados — inspecionar o pipeline de extração
 - **Verificar registros regulatórios**: para o contexto brasileiro, consultar diretamente a base da ANVISA — besilato de amlodipina (DCB: *anlodipino*) consta na RENAME e deve ter múltiplos registros ativos; a ausência de resultados sugere falha na consulta, não ausência real de registro
 - **Reprocessar o Evidence Pack** após correções acima antes de nova emissão de relatório de reposicionamento
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

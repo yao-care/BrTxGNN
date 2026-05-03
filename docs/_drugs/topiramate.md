@@ -98,5 +98,10 @@ Não há nenhuma evidência clínica ou pré-clínica que suporte o uso de topir
 - Download e análise da bula disponível em agência regulatória de referência para preenchimento das lacunas de segurança (DG001)
 - Caso haja interesse terapêutico sintomático (controle de neuralgia do trigêmeo associada ao tumor), redefinir a indicação alvo como "neuralgia do trigêmeo" para uma busca de evidências mais específica e clinicamente relevante
 - Verificar possibilidade de registro do fármaco na ANVISA, dado que nenhum registro ativo foi encontrado no Brasil
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

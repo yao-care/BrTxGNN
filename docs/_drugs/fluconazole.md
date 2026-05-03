@@ -97,5 +97,10 @@ A ceratoconjuntivite epitelial punctata tem etiologia predominantemente viral ou
 - Obter advertências e contraindicações da bula ANVISA aprovada
 - Revisar a hipótese de indicação: dentro deste Evidence Pack, a indicação **pneumocistose (rank 7, L3)** apresenta a base de evidências mais robusta, com **7 ensaios clínicos** (incluindo 2 Phase 3 concluídos com Fluconazole) e **20 publicações**, sendo um candidato mais promissor para análise aprofundada
 - Para a indicação de rank 1, considerar descarte ou reclassificação no pipeline após confirmação da fraqueza mecanística
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

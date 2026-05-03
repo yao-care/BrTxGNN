@@ -103,5 +103,10 @@ A previsão TxGNN para hipotricose simples do couro cabeludo apresenta pontuaç�
 - Confirmar dados de mecanismo de ação (MOA) via DrugBank API (DB00586)
 - Completar o levantamento dos 20 registros ANVISA (nomes comerciais, formas farmacêuticas, indicações aprovadas)
 - Gerar relatório dedicado para **Artrite Idiopática Juvenil** (Rank 9, evidência L3) como candidato prioritário de reposicionamento
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

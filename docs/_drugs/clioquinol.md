@@ -111,5 +111,10 @@ A previsão do TxGNN para candidíase cutânea é biologicamente coerente e cons
 - Verificar se há restrições específicas vigentes no Brasil para uso tópico de clioquinol, em função do histórico de SMON
 - Obter mecanismo de ação completo via DrugBank API (DB04815)
 - Considerar se a ausência de ensaios clínicos modernos é uma lacuna a preencher ou se a evidência histórica é suficiente para o contexto regulatório pretendido
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

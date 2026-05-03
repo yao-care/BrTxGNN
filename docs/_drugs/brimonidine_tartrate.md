@@ -112,5 +112,10 @@ O modelo TxGNN não gerou previsões de reposicionamento para o Tartarato de Bri
 ---
 
 *⚠️ Aviso: Este relatório é gerado para fins exclusivamente de pesquisa e não constitui aconselhamento médico. Qualquer candidato a reposicionamento requer validação clínica rigorosa antes de aplicação.*
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -110,5 +110,10 @@ A previsão do TxGNN (99,64%) é mecanisticamente plausível — a ação do mis
 - Obter dados completos de segurança a partir da bula registrada na ANVISA (advertências, contraindicações, perfil de eventos adversos — atualmente indisponíveis no pack)
 - Projetar um estudo de viabilidade prospectivo com **restauração do ciclo menstrual** como desfecho primário, separando claramente subtipos de amenorreia
 - Consultar o DrugBank (DB00929) para obter o perfil completo de MOA e interações, complementando a análise mecanicista
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

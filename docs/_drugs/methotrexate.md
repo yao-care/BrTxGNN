@@ -109,5 +109,10 @@ Não existem evidências clínicas ou pré-clínicas publicadas que avaliem o Me
 - Obtenção de dados de segurança via ANVISA (bula oficial) para suprir as lacunas de advertências e contraindicações
 - Consulta ao DrugBank API para formalizar o perfil de MOA e interações medicamentosas
 - Avaliação de indicações com evidência mais robusta neste mesmo Evidence Pack (ex.: linfoma de Hodgkin — L2, Proceed with Guardrails) como prioridade de investigação paralela
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

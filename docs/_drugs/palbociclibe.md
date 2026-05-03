@@ -99,5 +99,10 @@ O Evidence Pack está incompleto em dois itens críticos: ausência de indicaç�
 - **Executar o pipeline TxGNN** para gerar `predicted_indications` e habilitar a análise de reposicionamento
 - **Recuperar detalhes dos 7 registros** ANVISA (número, nome comercial, forma farmacêutica, indicação aprovada)
 - **Verificar a grafia do INN** no sistema: padronizar de `"PALBOCICLIBE"` para `"palbociclibe"` (conforme INN em português brasileiro)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

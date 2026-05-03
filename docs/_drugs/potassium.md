@@ -117,5 +117,10 @@ As evidências de nível L1 — incluindo três meta-análises de RCTs e o estud
 - Obter as advertências e contraindicações formais da bula (ANVISA/TFDA), especialmente em relação ao risco de hipercalemia em populações vulneráveis (DRC, uso concomitante de RAAS)
 - Mapear os produtos com potássio já registrados no Brasil sob outras formas farmacêuticas ou combinações (ex.: KCl em soluções de reposição EV) para eventual extensão de indicação
 - Conduzir análise de viabilidade regulatória junto à ANVISA para posicionamento formal do potássio como intervenção anti-hipertensiva adjuvante
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

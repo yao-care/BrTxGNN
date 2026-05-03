@@ -110,5 +110,10 @@ A previsão TxGNN para Metronidazole em pneumocistose é farmacologicamente invi
 - **Priorizar indicações com suporte real** identificadas neste Evidence Pack:
   - **Cap polyposis** (Rank 9 | L3 | "Proceed with Guardrails"): dupla ação antibacteriana + anti-inflamatória; evidência mecanística direta (PMID 12141801); indicado para pilot RCT
   - **Ulcerative proctosigmoiditis** (Rank 3 | L3 | "Research Question"): prática clínica estabelecida em pouchitis; extensão lógica para proctossigmoidite ulcerativa
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -91,5 +91,10 @@ O pipeline TxGNN não gerou previsões de reposicionamento para este fármaco de
 - Realizar nova consulta à ANVISA utilizando variações do nome ("benzoato de benzila", "benzyl benzoate") para verificar possíveis registros existentes
 - Resolver a lacuna DG001 (advertências/contraindicações ANVISA) antes de qualquer avaliação de segurança
 - Reexecutar o pipeline TxGNN com os dados corrigidos para gerar previsões de reposicionamento
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

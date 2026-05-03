@@ -104,5 +104,10 @@ A previsão TxGNN de Diosmin para amenorreia apresenta nível de evidência L5 �
 - Obter a bula via portal da ANVISA para preenchimento das advertências, contraindicações e forma farmacêutica dos 20 registros (lacuna classificada como *Blocking*)
 - Avaliar o estudo RIDILOTT DVT (PubMed 32348101) como ponto de partida para o dossiê de evidências em trombofilia
 - Reavaliar as previsões de rank 2–6 (distúrbios plaquetários e coagulopatias) com cautela: o perfil antiplaquetário do Diosmin pode representar **risco de agravamento** nessas indicações, não benefício
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

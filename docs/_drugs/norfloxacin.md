@@ -102,5 +102,10 @@ Não há ensaios clínicos nem literatura científica que sustentem o uso de Nor
 - Verificar se a previsão do TxGNN decorre de correlação espúria no grafo de conhecimento (ex.: associação indireta via infecções pancreáticas)
 - Obter dados completos de segurança da bula registrada na ANVISA (advertências e contraindicações)
 - Revisar sistematicamente os casos relatados de pancreatite induzida por fluoroquinolônicos para confirmar o risco antes de qualquer investigação clínica
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

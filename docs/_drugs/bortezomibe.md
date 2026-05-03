@@ -124,5 +124,10 @@ O Evidence Pack apresenta lacunas críticas que impedem a avaliação de reposic
 - Obter dados de segurança: advertências, contraindicações e interações medicamentosas a partir da bula aprovada
 - Obter e registrar o mecanismo de ação (MOA) detalhado via DrugBank API
 - Após completar os dados acima, reexecutar a geração do Evidence Pack e reavaliação
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

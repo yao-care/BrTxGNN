@@ -98,5 +98,10 @@ O nível de evidência é L5 — a indicação de gastroduodenite é suportada e
 - Avaliação de segurança detalhada: advertências, contraindicações e interações medicamentosas a partir da bula ou fontes regulatórias
 - Análise comparativa com bicarbonato de sódio (composto análogo mais estudado) para fundamentar translação mecanística
 - Estudo de viabilidade regulatória no Brasil antes de qualquer investimento em desenvolvimento clínico
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

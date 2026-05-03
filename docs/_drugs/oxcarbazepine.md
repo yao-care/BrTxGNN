@@ -107,5 +107,10 @@ A epilepsia visual é um subtipo de epilepsia focal occipital mecanisticamente c
 - Verificar possível comercialização de OXC no Brasil sob nomes como Trileptal® junto ao Bulário Eletrônico da ANVISA
 - Confirmar que os pacientes-alvo apresentam epilepsia de início **focal** — excluir obrigatoriamente epilepsias generalizadas idiopáticas (JME, epilepsia ausência), nas quais a OXC pode agravar crises
 - Realizar busca sistemática de séries de casos e relatos clínicos específicos para epilepsia visual tratada com OXC, para complementar a evidência indireta atual
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

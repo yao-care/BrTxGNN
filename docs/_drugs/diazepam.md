@@ -121,5 +121,10 @@ Um ECR publicado (PMID 6113175) comprovou diretamente o uso de Diazepam como age
 - Estabelecer protocolo de uso de curto prazo (máximo 2–4 semanas) com plano estruturado de retirada gradual para evitar síndrome de abstinência
 - Avaliar alternativas de primeira linha (TCC-I, melatonina de liberação prolongada, agonistas duais de orexina) antes de indicar Diazepam especificamente para insônia
 - Implementar monitoramento regular de função cognitiva, especialmente em uso superior a 4 semanas
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -117,5 +117,10 @@ Apesar da alta pontuação TxGNN (99,66%), a evidência disponível para enxaque
 - Processo de registro ou importação excepcional junto à ANVISA
 - Estudos de mecanismo específicos sobre CPA monodrogas (sem EE) e modulação trigeminal
 - Estratificação obrigatória por subtipo de enxaqueca (com ou sem aura) antes de qualquer protocolo, dado o risco de AVC em portadoras de enxaqueca com aura
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

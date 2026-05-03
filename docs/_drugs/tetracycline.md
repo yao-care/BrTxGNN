@@ -104,5 +104,10 @@ A base de evidências para Tetracycline na ceratoconjuntivite epitelial puntifor
 - Avaliação comparativa com doxiciclina, que apresenta maior penetração tecidual e perfil anti-MMP mais robusto, e para a qual existem dados clínicos mais extensos em indicações relacionadas (ex.: sinusite rinossinal crônica — Rank 3 neste pacote, Nível L2)
 
 > ⚠️ **Nota sobre o conjunto de previsões**: Embora a ceratoconjuntivite epitelial puntiforme seja a indicação com maior pontuação TxGNN neste pacote, outras indicações apresentam suporte clínico consideravelmente mais robusto — em particular a **Rinossinusite Crônica** (Rank 3, L2, 4 ensaios clínicos incluindo Phase 3 com doxiciclina) e o **Distúrbio Pós-Bacteriano / Erradicação de *H. pylori*** (Rank 7, L2, com ensaio Phase 3 direto utilizando Tetracycline em quadriterapia bismutada). Recomenda-se reavaliar o portfólio de reposicionamento priorizando essas indicações com evidências mais sólidas.
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

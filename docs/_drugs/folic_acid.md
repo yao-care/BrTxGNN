@@ -116,5 +116,10 @@ Embora a ligação metabólica entre folato e biotina seja biologicamente plaus�
 - Obter dados de segurança completos (bula ANVISA/TFDA, advertências e contraindicações) para viabilizar a avaliação S1
 - Consultar o DrugBank para dados completos de mecanismo de ação (MOA) — atualmente ausentes
 - Avaliar se o ácido fólico poderia atuar como **adjuvante** em pacientes com doença metabólica da biotina já em tratamento padrão com biotina, em vez de substituto terapêutico
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

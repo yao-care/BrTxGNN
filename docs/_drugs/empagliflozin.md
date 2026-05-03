@@ -100,5 +100,10 @@ A previsão TxGNN para Síndrome da Pessoa Rígida Clássica é classificada com
 - Consultar especialistas em neuroimunologia para avaliar plausibilidade biológica
 - Obter textos completos das bulas dos 8 registros para avaliação de segurança (advertências, contraindicações)
 - Considerar se as duas indicações relacionadas (Focal Stiff Limb Syndrome, Opsismodysplasia) devem ser avaliadas conjuntamente antes de qualquer decisão de investimento em pesquisa
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

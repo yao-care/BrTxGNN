@@ -109,5 +109,10 @@ A evidência atual para o uso de Centella asiatica em insônia é de nível **L4
 - Obtenção dos dados de segurança completos (advertências, contraindicações, interações medicamentosas) diretamente das bulas registradas na ANVISA
 - Estudo de farmacocinética oral para estabelecer biodisponibilidade dos triterpenos (asiaticoside, madecassoside) e correlacioná-la com efeito sedativo em humanos
 - Avaliação prioritária das indicações com evidência mais robusta: **ansiedade** (rank 2, L3) e **transtorno de ansiedade** (rank 6, L3) apresentam um ensaio Phase 2 concluído (NCT03482063, n=141), um estudo clínico não randomizado em GAD (PMID 20677602), e múltiplas revisões sistemáticas — constituindo base mais sólida para desenvolvimento clínico imediato
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

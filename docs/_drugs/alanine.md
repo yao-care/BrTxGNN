@@ -111,5 +111,10 @@ A previsão do TxGNN baseia-se em inferência indireta pelo grafo de conheciment
 - Obter dados completos de segurança junto à ANVISA (advertências, contraindicações e interações medicamentosas)
 - Definir forma farmacêutica e via de administração adequadas para a indicação proposta
 - Avaliar viabilidade regulatória considerando o status de não comercialização no Brasil
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

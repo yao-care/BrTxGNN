@@ -96,5 +96,10 @@ O pacote de evidências está incompleto em pontos fundamentais: ausência de pr
 - **[Prioridade 2 — Alta]** Processar o resultado já obtido do DrugBank (1 registro confirmado no log de consulta em 26/03/2026) para recuperar DrugBank ID, MOA e categorias farmacológicas (DG002)
 - **[Prioridade 3]** Com o DrugBank ID em mãos, executar o pipeline TxGNN (KG + DL) para gerar previsões de reposicionamento e criar um novo pacote de evidências completo
 - **[Prioridade 4]** Caso necessário, verificar aprovações internacionais (FDA/EMA) como referência de indicações originais até que o registro brasileiro seja obtido
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

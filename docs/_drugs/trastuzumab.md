@@ -136,5 +136,10 @@ O subgrupo HR+/HER2+ (que engloba os tumores PR+/HER2+) conta com pelo menos doi
 - **Acessar bula completa (ANVISA)** para avaliação estruturada de advertências e contraindicações, incluindo risco de cardiotoxicidade
 - **Definir plano de monitoramento cardíaco** (FEVE basal e a cada 3 meses) para uso combinado com antraciclinas ou em pacientes com risco cardiovascular preexistente
 - **Definir estratégia de regime combinado** com base no estadiamento e histórico terapêutico: (1) trastuzumab + pertuzumabe + quimioterapia neoadjuvante/adjuvante; (2) trastuzumab + CDK4/6 inibidor + terapia endócrina (ex.: esquema MonarcHER); ou (3) T-DM1/T-DXd para doença residual ou progressão
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

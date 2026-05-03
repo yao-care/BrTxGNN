@@ -101,5 +101,10 @@ Embora o alfacalcidol apresente um mecanismo de ação biologicamente muito plau
 - Realizar busca sistemática de relatos de caso sobre alfacalcidol especificamente em hipoparatireoidismo familiar isolado e suas variantes genéticas
 - Avaliar a extensibilidade dos dados existentes de alfacalcidol em hipoparatireoidismo pós-cirúrgico e autoimune para esta variante de origem genética
 - Consultar especialistas em endocrinologia genética e doenças raras para avaliar a viabilidade de um estudo piloto prospectivo
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

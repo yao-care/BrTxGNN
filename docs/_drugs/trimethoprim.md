@@ -116,5 +116,10 @@ A combinação Polytrim (Trimethoprim/Polymyxin B) em colírio já é aprovada p
 - Avaliar a viabilidade de registro do produto oftálmico (Polytrim ou equivalente genérico) junto à ANVISA, incluindo requisitos de estabilidade e esterilidade para uso oftálmico
 - Verificar o perfil de resistência local de *Pseudomonas aeruginosa* (resistência natural ao Trimethoprim), relevante para casos refratários de conjuntivite no contexto brasileiro
 - Validar a aplicabilidade das evidências norte-americanas para o perfil epidemiológico de patógenos causadores de conjuntivite no Brasil
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

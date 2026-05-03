@@ -103,5 +103,10 @@ A previsão do TxGNN é mecanisticamente sólida — o sistema colinérgico é a
 - Verificar viabilidade da formulação tópica oftálmica: estabilidade química, pH compatível com tecido corneal e capacidade de penetração
 - Avaliar perfil de interações medicamentosas para pacientes em uso concomitante de colírios antiglaucomatosos
 - Mapear requisitos regulatórios para registro junto à ANVISA caso os estudos clínicos se mostrem positivos
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

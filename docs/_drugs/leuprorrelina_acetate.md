@@ -91,5 +91,10 @@ Sem indicações previstas pelo TxGNN e sem registros regulatórios no Brasil, n
 - [ ] **Re-executar o pipeline TxGNN** com os dados corrigidos para obter `predicted_indications`
 - [ ] **Coletar dados de segurança (DG001)**: Baixar a bula ANVISA/FDA para extrair advertências e contraindicações
 - [ ] **Coletar MOA (DG002)**: Consultar DrugBank API com o ID correto para obter o mecanismo de ação formal
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

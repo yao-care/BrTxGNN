@@ -170,5 +170,10 @@ Múltiplos ensaios clínicos de Phase 3 multicêntricos — incluindo o Cross-Na
 - Critérios claros de monitoramento de dependência e duração máxima de tratamento
 - Comparação direta com tratamentos de primeira linha atuais (SSRIs/SNRIs associados à TCC)
 - Avaliação específica em populações de risco (idosos, pacientes com histórico de uso de substâncias)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

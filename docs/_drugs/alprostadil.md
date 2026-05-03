@@ -108,5 +108,10 @@ O uso de Alprostadil (PGE1) como suporte hemodinâmico em malformações aórtic
 - Definir as subpopulações-alvo específicas dentro do espectro de malformações aórticas (arco aórtico interrompido, coarctação crítica, síndrome do coração esquerdo hipoplásico)
 - Verificar vias de administração disponíveis no Brasil (p. ex., formulação intravenosa neonatal) e sua compatibilidade com uso em unidades de terapia intensiva neonatal
 - Elaborar plano de monitoramento para efeitos adversos conhecidos do PGE1 prolongado: apneia, estenose pilórica hipertrófica, proliferação cortical óssea e hipertrofia da mucosa gástrica antral
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

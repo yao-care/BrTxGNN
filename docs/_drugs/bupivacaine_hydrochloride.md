@@ -94,5 +94,10 @@ Sem previsões TxGNN e sem registro brasileiro, não há base suficiente para av
 - Verificar se `BUPIVACAINE` (sem "HYDROCHLORIDE") retorna registros ANVISA
 - Obter dados de segurança (advertências, contraindicações) consultando a bula no portal FDA/ANVISA
 - Confirmar presença do nó no grafo de conhecimento TxGNN antes da nova execução
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

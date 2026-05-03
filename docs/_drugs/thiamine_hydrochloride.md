@@ -83,5 +83,10 @@ Não há previsões de reposicionamento disponíveis para o Cloridrato de Tiamin
 - **Resolver DG002 (Alta prioridade):** Mapear o DrugBank ID correto para Cloridrato de Tiamina (`DB00150` — Thiamine) via API DrugBank, habilitando o posicionamento do composto no grafo TxGNN.
 - **Reexecutar o pipeline TxGNN** após a integração do DrugBank ID para obter candidatos de reposicionamento.
 - **Verificar possível subnotificação regulatória:** O Cloridrato de Tiamina frequentemente aparece como componente de formulações combinadas (polivitamínicos, soluções parenterais). Uma nova busca segmentada por combinação de ingredientes pode revelar registros indiretos na ANVISA.
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

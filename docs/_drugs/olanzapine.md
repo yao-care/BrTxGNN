@@ -104,5 +104,10 @@ A previsão TxGNN para Torticolose Paroxística Benigna da Infância é de níve
 - Consultar especialistas em neurologia pediátrica e cefaleia para avaliar a plausibilidade biológica
 - Verificar status de comercialização real no Brasil junto à ANVISA diretamente
 - Avaliar se indicações de nível L3–L4 presentes no mesmo Evidence Pack (Transtorno Distímico, Agorafobia) justificam priorização antes desta
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -97,5 +97,10 @@ A previsão TxGNN para hipertensão pulmonar apresenta nível de evidência L5 �
 - Caracterização da densidade e função dos receptores NMDA em células do músculo liso vascular pulmonar humano
 - Levantamento de dados completos de MOA e segurança via DrugBank para análise de interações com vasodilatadores usados em HAP (ex.: sildenafila, bosentana)
 - Avaliação de viabilidade regulatória no Brasil (ANVISA), considerando que o medicamento não possui nenhum registro ativo no país
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

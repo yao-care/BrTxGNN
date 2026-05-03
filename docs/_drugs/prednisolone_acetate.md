@@ -110,5 +110,10 @@ A evidência para prednisolone acetate em conjuntivite parasitária restringe-se
   - **Conjuntivite Vernal** (rank 9, L3 — Proceed with Guardrails): 1 ensaio clínico + 19 publicações, incluindo comparativo com prednisolone acetate 1% (PMID 24055903) e estudos de coorte prospectivos
   - **Conjuntivite Papilar** (rank 5, L3 — Proceed with Guardrails): 2 ensaios clínicos + 6 publicações, com evidência de classe via loteprednol etabonate (NCT01437982, Phase 4 concluído)
 - Investigar razão da ausência de registro regulatório, dado que prednisolone acetate oftálmico é amplamente aprovado em outros mercados
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

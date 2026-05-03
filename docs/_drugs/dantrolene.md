@@ -109,5 +109,10 @@ Dantrolene possui o mecanismo de ação mais preciso e diretamente validado para
 - Articular com a **Sociedade Brasileira de Anestesiologia (SBA)** para suporte técnico e advocacy junto à ANVISA
 - Definir protocolo hospitalar de estoque mínimo de emergência (Dantrolene IV requer reconstituição e possui sensibilidade à luz)
 - Verificar a relevância de dados complementares sobre MOA (DrugBank API) para completar o perfil de reposicionamento
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

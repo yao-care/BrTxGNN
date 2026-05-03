@@ -102,5 +102,10 @@ Não há qualquer evidência clínica ou pré-clínica direta vinculando Azithro
 - Obter dados de mecanismo de ação detalhados via DrugBank API (DG002 pendente)
 - Consultar diretamente o banco de dados da ANVISA para confirmar situação regulatória no Brasil
 - Caso surja hipótese mecanística plausível, conduzir estudos pré-clínicos antes de qualquer ensaio clínico
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

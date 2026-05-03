@@ -104,5 +104,10 @@ O mecanismo de ação do Penciclovir — inibição da DNA polimerase viral depe
 - Detalhes dos 8 registros ANVISA (nomes comerciais, formas farmacêuticas, indicações aprovadas)
 - Revisão crítica do grafo de conhecimento TxGNN para mitigar o viés de agrupamento entre nós de "nucleosídeos análogos" e "doenças infecciosas parasitárias"
 - Reavaliação das posições 2–10 do ranking (todas pertencentes a dois clusters de falso positivo: parasitárias e mesotelioma) para priorizar candidaturas com maior plausibilidade biológica para Penciclovir — como infecções virais sistêmicas por HSV em locais além da pele
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

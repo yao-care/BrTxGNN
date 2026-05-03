@@ -89,5 +89,10 @@ O modelo TxGNN não gerou previsões de reposicionamento para ticlopidina, e a a
 - Verificar histórico de registros na ANVISA — o fármaco pode ter tido licença anterior que foi cancelada
 - Cadastrar as indicações originais no sistema antes de reprocessar a previsão TxGNN
 - Avaliar a relevância clínica atual do candidato, considerando que clopidogrel e prasugrel são amplamente preferidos na prática clínica contemporânea, o que pode limitar o interesse em reposicionamento
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

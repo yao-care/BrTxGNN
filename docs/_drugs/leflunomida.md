@@ -69,5 +69,10 @@ O Evidence Pack não contém previsões TxGNN (`predicted_indications` está vaz
 - **[Alta prioridade — DG002]** Recuperar o `drugbank_id` correto e obter o MOA via DrugBank API (a consulta retornou 1 resultado, mas o ID não foi capturado)
 - **[Bloqueante para o relatório]** Executar o pipeline TxGNN para gerar `predicted_indications` com pontuações, ensaios clínicos e literatura associada — sem esse campo, o relatório de reposicionamento não pode ser produzido
 - Reprocessar o Evidence Pack com os dados complementados e resubmeter para geração do relatório completo
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

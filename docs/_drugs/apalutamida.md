@@ -80,5 +80,10 @@ O Evidence Pack não contém previsões TxGNN para novas indicações, o que imp
 - Obter dados de MOA e categorias farmacológicas via DrugBank API (DB ID ainda não mapeado)
 - Baixar e analisar a bula da ANVISA para extrair advertências, contraindicações e interações medicamentosas
 - Verificar interações medicamentosas via base DDI (consulta retornou `not_found` — confirmar se a busca foi feita pelo nome INN correto)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

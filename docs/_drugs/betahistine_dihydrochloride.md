@@ -80,5 +80,10 @@ O modelo TxGNN não gerou nenhuma previsão de reposicionamento para Betahistina
 - Confirmar se o fármaco está registrado sob nome alternativo (ex.: "Betahistina", "Betaserc", "Merislon") no mercado consultado
 - Após resolução do DrugBank ID, reexecutar o pipeline TxGNN para gerar `predicted_indications`
 - Avaliar a necessidade de inclusão de fontes regulatórias adicionais para mercados onde o fármaco está efetivamente comercializado (ex.: UE, Japão)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -106,5 +106,10 @@ A previsão possui base mecanística teórica — o calcitriol (forma ativa do c
 - Revisar diretrizes clínicas de hipoparatireoidismo (Endocrine Society, ETA) quanto ao papel do colecalciferol como suplementação adjuvante
 - Consultar diretamente o portal ANVISA para regularização regulatória no Brasil (DG001)
 - Avaliar indicações com evidência superior identificadas no mesmo Evidence Pack: **佝僂病低磷血症 (L3, Rank 5)** e **osteodistrofia renal (L3, Rank 6)** apresentam suporte de ensaios clínicos e podem ser priorizadas
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

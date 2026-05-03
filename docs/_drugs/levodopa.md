@@ -88,5 +88,10 @@ A previsão do TxGNN para Levodopa na encefalite de Rasmussen está classificada
 - Busca bibliográfica expandida sobre dopamina e neuroinflamação em encefalites autoimunes
 - Identificação de estudos pré-clínicos que sustentem a hipótese mecanística antes de qualquer reavaliação do nível de evidência
 - Levantamento dos 20 registros ANVISA com detalhes de forma farmacêutica e indicação aprovada
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

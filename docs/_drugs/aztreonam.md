@@ -102,5 +102,10 @@ Existe um ensaio clínico de Fase 2/3 concluído que avaliou Aztreonam diretamen
 - Dados de sensibilidade in vitro de isolados brasileiros de *N. gonorrhoeae* ao Aztreonam (CIM locais)
 - Consulta à bula registrada na ANVISA para informações completas de segurança, advertências e contraindicações
 - Avaliação do perfil de resistência cruzada com cefalosporinas de terceira geração em cepas circulantes no Brasil
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

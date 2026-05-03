@@ -131,5 +131,10 @@ Das 10 indicações previstas pelo TxGNN, as únicas com potencial de hipótese 
 - Obtenção de dados de MOA completos via DrugBank (Data Gap DG002 — severidade High)
 - Preenchimento dos dados de registro ANVISA no Evidence Pack (número, nome comercial, forma farmacêutica)
 - Para Omsk/Kyasanur: ensaios in vitro de inibição da protease NS3 dos vírus-alvo por Voxilaprevir em laboratório BSL-3/4
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

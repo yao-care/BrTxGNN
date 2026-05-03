@@ -115,5 +115,10 @@ Embora exista uma ligação mecanística plausível via γ-carboxilação do ost
 - Definir dose terapêutica, via de administração e regime de suplementação
 - Estabelecer diferenciação farmacológica clara entre ácido glutâmico livre, poli-γ-ácido glutâmico e vitamina K2 como intervenções distintas
 - Avaliar segurança de suplementação exógena dado o papel do ácido glutâmico como neurotransmissor excitatório (risco teórico de excitotoxicidade em doses elevadas)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

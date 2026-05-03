@@ -118,5 +118,10 @@ Embora o mecanismo alcalinizante do acetato e a suplementação de potássio sej
 - **Verificar a situação regulatória na ANVISA** e identificar formulações disponíveis no mercado brasileiro (ex.: uso em nutrição parenteral ou soluções IV)
 - **Realizar busca ampliada de literatura** especificamente em RTA Tipo I/II com alcalinizantes à base de acetato (não restrita ao acetato de potássio como monocomponente)
 - **Consultar especialista em nefrologia** para validar a plausibilidade clínica da proposta de reposicionamento antes de reavaliar o nível de evidência
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

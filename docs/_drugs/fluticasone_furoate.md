@@ -106,5 +106,10 @@ Embora o mecanismo de ação do FF seja biologicamente plausível para o eczema 
 - Dados de segurança sistêmica específicos do FF aplicado na pele (absorção percutânea, supressão do eixo HPA)
 - Estudos pré-clínicos de eficácia em modelos validados de dermatite atópica com o FF tópico
 - Avaliação de segurança em populações pediátricas antes de qualquer ensaio clínico de fase I/II
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

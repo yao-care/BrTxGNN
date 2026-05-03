@@ -84,5 +84,10 @@ O Evidence Pack apresenta lacunas de dados em nível **Blocking** e **High** que
 - **[DG002 — High]** Consultar a DrugBank API para recuperar o mecanismo de ação (MOA) do Axitinibe e categorias farmacológicas — nota: o query DrugBank retornou 1 resultado, mas os dados não foram incluídos no Evidence Pack atual
 - Complementar os campos vazios dos 2 registros ANVISA (número de registro, nome comercial, forma farmacêutica, texto completo da indicação)
 - Reexecutar o pipeline TxGNN com os dados de MOA e indicação preenchidos para gerar previsões de reposicionamento válidas
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

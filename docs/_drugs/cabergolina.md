@@ -94,5 +94,10 @@ O Evidence Pack não contém previsões de novas indicações e os dados regulat
 3. **Preencher o MOA (DG002)** — consultar DrugBank API com o ID recuperado para obter o mecanismo de ação e categorias do fármaco
 4. **Baixar e parsear a bula (DG001)** — obter advertências e contraindicações do PDF da bula ANVISA para liberar a avaliação de segurança
 5. **Reprocessar o pack** — após as correções acima, gerar novo Evidence Pack versão v5 com dados completos
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

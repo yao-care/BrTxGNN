@@ -79,5 +79,10 @@ O pipeline TxGNN não retornou previsões de reposicionamento para Tiabendazol n
 - Obter o **DrugBank ID** e dados de mecanismo de ação via API DrugBank (a consulta retornou 1 resultado — confirmar se o mapeamento foi bem-sucedido)
 - Baixar e analisar a bula ANVISA para extrair advertências, contraindicações e instruções de segurança
 - Verificar se o fármaco consta no grafo de conhecimento TxGNN sob o nome em inglês **Thiabendazole**, e reexecutar o pipeline com o identificador correto para gerar previsões de novas indicações
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

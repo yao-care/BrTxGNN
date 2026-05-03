@@ -119,5 +119,10 @@ O perampanel possui mecanismo de ação (antagonismo seletivo dos receptores AMP
 - Obtenção dos dados completos da bula ANVISA (advertências, contraindicações, interações)
 - Avaliação em subgrupos: fotossensibilidade idiopática vs. sintomática, pediátrico vs. adulto
 - Revisão de potenciais interações com outros antiepilépticos em uso combinado (CYP3A4 indutores reduzem exposição ao perampanel em até 50%)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

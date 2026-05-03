@@ -103,5 +103,10 @@ O fármaco não gerou previsões de reposicionamento e possui lacunas críticas 
 - **Resolver DG002 (Alta prioridade):** Obter o DrugBank ID de LEVOMETIONINA via DrugBank API para habilitar o mapeamento no Knowledge Graph
 - **Reprocessar no pipeline TxGNN** após associação do DrugBank ID para gerar previsões de reposicionamento
 - **Verificar dados TFDA:** Investigar por que os 20 registros retornaram sem detalhes de produto (possível problema de parsing ou codificação no pipeline)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

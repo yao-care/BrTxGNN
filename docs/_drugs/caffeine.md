@@ -117,5 +117,10 @@ A cefaleia hípnica representa uma das raras condições em que o caffeine não 
 - Definição de protocolo de monitoramento da qualidade do sono ao longo do tratamento
 - Obtenção dos dados de MOA detalhados via DrugBank API para completar a análise de mecanismo formal
 - Avaliação de potencial de estudo de série de casos prospectiva no Brasil, dado o vácuo de dados em população latino-americana
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

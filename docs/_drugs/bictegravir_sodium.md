@@ -77,5 +77,10 @@ Não há previsões TxGNN geradas, os dados regulatórios brasileiros estão aus
 - Após obter o DrugBank ID, coletar dados de interações medicamentosas (DDI) — a consulta atual retornou `not_found`
 
 > ⚠️ *Este relatório é gerado para fins de pesquisa. Os resultados não constituem aconselhamento médico e qualquer candidato a reposicionamento requer validação clínica antes de qualquer aplicação.*
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

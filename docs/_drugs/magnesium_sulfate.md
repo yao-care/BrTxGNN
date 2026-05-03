@@ -123,5 +123,10 @@ O MgSO₄ possui o mais alto nível de evidência clínica (L1) para pré-eclâm
 - Levantamento completo de informações de segurança da bula internacional (advertências, contraindicações, monitoramento de toxicidade por hipermagnesemia)
 - Definição de protocolo padronizado de monitoramento para uso no SUS: reflexos patelares, frequência respiratória, débito urinário, e gluconato de cálcio como antídoto disponível
 - Mapeamento de fornecedores qualificados e estratégia de acesso e distribuição no sistema público de saúde brasileiro
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

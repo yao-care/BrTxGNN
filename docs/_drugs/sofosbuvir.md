@@ -117,5 +117,10 @@ Embora o modelo TxGNN apresente pontuação muito elevada (99,77%) para sofosbuv
 - **Ensaio clínico controlado de Fase 2:** em HBV monoinfectado, com endpoints validados (redução ≥1 log de HBsAg, DNA-HBV indetectável) e comparação ativa com entecavir ou tenofovir
 - **Dados completos de segurança:** MOA detalhado, advertências da bula ANVISA e perfil de interações medicamentosas via DrugBank
 - **Análise de diferenciação clínica:** avaliação de viabilidade frente aos nucleos(t)ídeos análogos já estabelecidos para HBV, que apresentam décadas de dados de eficácia e segurança
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

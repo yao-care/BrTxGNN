@@ -97,5 +97,10 @@ A previsão do TxGNN baseia-se exclusivamente em plausibilidade mecanicista indi
 - Realizar revisão sistemática de literatura sobre BRAs e angina vasoespástica
 - Obter dados completos de segurança: advertências, contraindicações e interações medicamentosas a partir da bula registrada na ANVISA
 - Consultar especialistas em cardiologia intervencionista para avaliação da plausibilidade clínica
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

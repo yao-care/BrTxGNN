@@ -94,5 +94,10 @@ Sem previsões TxGNN e sem dados regulatórios detalhados, não existe base téc
 3. **Obter o MOA** via DrugBank API (DG002 — severidade High)
 4. **Baixar e analisar a bula da ANVISA** para extrair advertências, contraindicações e interações medicamentosas (DG001 — severidade Blocking)
 5. **Reexecutar a geração do Evidence Pack** após resolver DG001 e DG002 para habilitar a avaliação completa
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

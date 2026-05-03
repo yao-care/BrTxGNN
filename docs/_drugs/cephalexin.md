@@ -109,5 +109,10 @@ Embora exista uma base mecanística plausível e evidências históricas diretas
 - Verificar situação regulatória atual na ANVISA (o resultado "não comercializado" com 0 registros pode refletir limitação de consulta)
 - Avaliar perfil de susceptibilidade dos patógenos prevalentes em CSOM na população brasileira frente à Cefalexina
 - Caso haja interesse em prosseguir, desenhar ensaio clínico prospectivo comparativo — as únicas evidências diretas datam de 1970–1983 e não atendem aos padrões contemporâneos de evidência
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

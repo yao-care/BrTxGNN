@@ -69,5 +69,10 @@ O modelo TxGNN não gerou previsões de reposicionamento para este fármaco nest
 - Re-executar a predição TxGNN com o INN normalizado (`levonorgestrel`, sem "micronizado")
 - Baixar e analisar a bula em PDF via ANVISA para preencher dados de segurança (advertências e contraindicações)
 - Recuperar os detalhes dos 8 registros no portal ANVISA para completar a tabela de comercialização
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

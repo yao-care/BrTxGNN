@@ -119,5 +119,10 @@ Existe um ensaio clínico de Fase 2, duplo-cego e controlado (NCT00029458, concl
 - Verificar viabilidade regulatória para pesquisa clínica ou importação excepcional no Brasil via ANVISA
 - Definir protocolo de monitoramento de leucócitos e granulócitos exigido para uso seguro em população bipolar
 - Aguardar resultados do Phase 3 RCT (NCT05603104, n=1.254, conclusão prevista: junho/2028) para eventual upgrade de L2 para L1
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

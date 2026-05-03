@@ -101,5 +101,10 @@ Mometasone é um corticosteroide Classe III de alta potência cujo mecanismo de 
 - Levantar advertências, contraindicações e interações medicamentosas da bula ANVISA e/ou FDA
 - Buscar ensaios clínicos específicos de Mometasone em CTCL em bases complementares (EU Clinical Trials Register, ICTRP regional)
 - Delimitar a indicação ao subgrupo com maior benefício esperado: **Micose Fungoides Stage IA-IIA** com lesões em placa/mancha, para eventual desenho de estudo de viabilidade prospectivo
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

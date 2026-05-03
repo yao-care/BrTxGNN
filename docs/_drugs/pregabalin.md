@@ -110,5 +110,10 @@ A tendinite é uma condição de dor nociceptiva/inflamatória, e o mecanismo de
 - Dados completos de MOA confirmados por fontes regulatórias (DrugBank / bula ANVISA)
 - Dados de segurança e contraindicações extraídos da bula oficial
 - Reavaliação da indicação de rank 5 (**Enxaqueca**) como candidato prioritário, que apresenta nível de evidência L2, 3 ensaios clínicos e 19 publicações, com fundamentação mecanicista mais sólida
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

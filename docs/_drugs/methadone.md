@@ -110,5 +110,10 @@ A única evidência clínica direta disponível é um estudo preliminar de 1992,
 - Confirmação do mecanismo de ação detalhado via consulta à base DrugBank (DB00333)
 - Delineamento de ensaio clínico piloto de Phase 1/2 com desfechos validados para TS (ex.: Yale Global Tic Severity Scale — YGTSS)
 - Avaliação da viabilidade regulatória para uso compassivo ou registro na ANVISA antes de qualquer aplicação clínica no Brasil
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

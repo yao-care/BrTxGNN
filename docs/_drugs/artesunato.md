@@ -85,5 +85,10 @@ O Evidence Pack não contém previsões TxGNN nem dados regulatórios detalhados
 - Baixar e analisar as bulas dos 5 registros ANVISA para extrair indicações aprovadas, advertências e contraindicações (remediação do DG001 — severidade Blocking)
 - Consultar o DrugBank API para preencher os dados de mecanismo de ação (remediação do DG002 — severidade High)
 - Reexecutar o Evidence Pack Builder com os campos `licenses` corretamente populados
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

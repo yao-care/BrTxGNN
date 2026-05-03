@@ -117,5 +117,10 @@ As evidências disponíveis para o uso de Minoxidil em hipotricose simples do co
 - Definir endpoint primário objetivável (ex.: densidade capilar por tricoscopia digital, contagem de fios/cm²)
 - Avaliar se a via tópica ou oral é mais adequada para esta indicação, considerando biodisponibilidade folicular e perfil de segurança em população pediátrica (casos relatados incluem crianças)
 - Registrar protocolo no ClinicalTrials.gov para garantir rastreabilidade e viabilizar futuras meta-análises sobre esta condição rara
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

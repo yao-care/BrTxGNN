@@ -107,5 +107,10 @@ A previsão do TxGNN (99,74%) é mecanisticamente coerente — a difenidramina �
 - Ensaios clínicos em humanos com dimenhydrinate ou difenidramina oral especificamente para urticária alérgica
 - Análise comparativa de eficácia e segurança frente a cetirizina e loratadina (padrão-ouro atual nas diretrizes)
 - Avaliação regulatória para eventual pedido de registro na ANVISA, caso as evidências se fortaleçam
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

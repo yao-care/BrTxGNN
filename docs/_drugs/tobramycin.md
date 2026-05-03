@@ -113,5 +113,10 @@ As evidências disponíveis para tobramycin em ceratite de exposição são pred
 - Obtenção de dados completos de MOA via DrugBank API (ID: DB00684)
 - Avaliação de viabilidade regulatória junto à ANVISA para registro no Brasil
 - Revisão sistemática de aminoglicosídeos tópicos em doenças da superfície ocular para contextualizar o perfil de segurança comparativo
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

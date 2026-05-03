@@ -82,5 +82,10 @@ Sem DrugBank ID resolvido e sem previsões TxGNN geradas, não há base de evid�
 - Consultar o portal ANVISA com o termo **"cefepima"** para verificar existência de registros ativos
 - Obter dados de MOA via DrugBank API após resolução do ID
 - Baixar e analisar a bula ANVISA/TFDA para preenchimento das advertências e contraindicações (bloqueador DG001)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

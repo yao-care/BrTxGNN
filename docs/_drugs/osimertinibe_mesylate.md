@@ -88,5 +88,10 @@ A ausência de previsões TxGNN combinada com lacunas críticas nos dados de seg
 - **Verificar o registro regulatório**: Confirmar a situação do Tagrisso® (osimertinibe) no órgão competente; os 0 resultados provavelmente são artefato da busca pelo nome da forma de sal e não refletem a situação real de comercialização
 - **Obter dados de MOA** (severidade: Alta): Consultar a entrada DrugBank do osimertinibe para mecanismo de ação detalhado, necessário para a análise de relevância mecanística
 - **Obter dados de segurança** (severidade: Bloqueante): Baixar e analisar a bula vigente para advertências, contraindicações e interações medicamentosas, requisito obrigatório para avançar para a avaliação de segurança inicial (S1)
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

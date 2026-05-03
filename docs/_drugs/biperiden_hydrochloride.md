@@ -84,5 +84,10 @@ O modelo TxGNN não gerou previsões de reposicionamento para biperideno cloridr
 - Baixar e analisar a **bula aprovada** (ANVISA, EMA ou FDA) para preencher advertências e contraindicações (DG001 — severidade Blocking)
 - **Re-executar o pipeline TxGNN** com os dados complementados para gerar previsões de reposicionamento
 - Repetir a consulta regulatória com a grafia **"biperideno"** (sem especificação do sal) para verificar possíveis registros ANVISA não capturados
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

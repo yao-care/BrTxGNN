@@ -107,5 +107,10 @@ Não existe evidência clínica, pré-clínica ou plausibilidade biológica esta
 ---
 
 > *Este relatório é gerado automaticamente com base em dados do Evidence Pack e destina-se exclusivamente a fins de pesquisa. Não constitui aconselhamento médico. Candidatos de reposicionamento devem ser validados clinicamente antes de qualquer aplicação.*
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

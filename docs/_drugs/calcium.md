@@ -124,5 +124,10 @@ A previsão do TxGNN tem embasamento biológico sólido — o Ca²⁺ é cofator
 - Investigar prospectivamente o risco de calcificação vascular e eventos cardiovasculares em populações normocalcêmicas sob suplementação de cálcio
 - Obter informações completas de segurança (advertências, contraindicações, interações) a partir das bulas registradas na ANVISA
 - Recuperar os detalhes individuais dos 17 registros ANVISA para caracterizar as formas farmacêuticas, vias de administração e indicações aprovadas disponíveis no mercado brasileiro
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

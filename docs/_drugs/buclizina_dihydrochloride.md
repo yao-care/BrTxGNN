@@ -102,5 +102,10 @@ Não é possível avançar na avaliação de reposicionamento sem (1) previsões
 - **Alimentar indicações originais**: Registrar as indicações aprovadas (antiemético, cinetose, estimulante do apetite) para permitir a análise de plausibilidade
 - **Consultar base regulatória brasileira (ANVISA)**: Verificar registros ativos de buclizina no Brasil para complementar os dados regulatórios
 - **Re-executar pipeline TxGNN** após resolução das lacunas acima
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

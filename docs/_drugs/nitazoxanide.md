@@ -104,5 +104,10 @@ A previsão do TxGNN para hiperamilasemia em Nitazoxanide não é suportada por 
 - Hipótese biológica plausível que justifique o vínculo entre PFOR/mTOR e regulação amilásica
 - Registro na ANVISA (processo regulatório local) como pré-requisito para qualquer uso clínico no Brasil
 - Informações de segurança completas (advertências, contraindicações) via bula ANVISA/TFDA
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 

@@ -110,5 +110,10 @@ As evidências disponíveis para doença da cavidade nasal são inteiramente com
 - Definição de subpopulação-alvo para estudo clínico: pacientes com rinite fúngica confirmada por zigomicose ou pitiose em regiões tropicais do Brasil, onde esses patógenos são endêmicos
 - Revisão dos resultados do ensaio NCT03980132 (Phase 4, n=184, concluído em 2023) sobre a solução de Lugol (contendo KI) em preparo cirúrgico tireoidiano, que pode fornecer dados de segurança sistêmica úteis para formulação de dose e monitoramento
 - Delineamento de estudo clínico piloto (Phase 1/2) em humanos com infecções fúngicas da cavidade nasal confirmadas microbiologicamente
+## Aviso de isenção de responsabilidade
+
+Este conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.
+É necessária validação clínica antes de qualquer aplicação clínica.
+
 ---
 
