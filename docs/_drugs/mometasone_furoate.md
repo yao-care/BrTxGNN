@@ -1,0 +1,53 @@
+---
+layout: drug
+title: MOMETASONE FUROATE
+drugbank_id: DB14512
+evidence_level: L5
+permalink: /drugs/mometasone_furoate/
+---
+
+# MOMETASONE FUROATE
+
+## Basic Information
+
+| Item | Value |
+|------|-------|
+| DrugBank ID | [DB14512](https://go.drugbank.com/drugs/DB14512) |
+| Evidence Level | L5 (Computational Prediction) |
+| Number of Predicted Indications | 20 |
+
+## Predicted Indications (TxGNN)
+
+The following are potential new indications predicted by the TxGNN model. Higher scores indicate higher predicted relevance.
+
+| # | Indication | Source |
+|---|------------|--------|
+| 1 | lichen disease | TxGNN Knowledge Graph |
+| 2 | seborrheic dermatitis | TxGNN Knowledge Graph |
+| 3 | neurodermatitis | TxGNN Knowledge Graph |
+| 4 | dermatitis, atopic | TxGNN Knowledge Graph |
+| 5 | vasomotor rhinitis | TxGNN Knowledge Graph |
+| 6 | occupational dermatitis | TxGNN Knowledge Graph |
+| 7 | contact dermatitis | TxGNN Knowledge Graph |
+| 8 | atopic eczema | TxGNN Knowledge Graph |
+| 9 | lupus erythematosus | TxGNN Knowledge Graph |
+| 10 | discoid lupus erythematosus | TxGNN Knowledge Graph |
+| 11 | asthma | TxGNN Knowledge Graph |
+| 12 | seborrheic keratosis | TxGNN Knowledge Graph |
+| 13 | allergic asthma | TxGNN Knowledge Graph |
+| 14 | chronic cutaneous lupus erythematosus | TxGNN Knowledge Graph |
+| 15 | intrinsic asthma | TxGNN Knowledge Graph |
+| 16 | allergic rhinitis | TxGNN Knowledge Graph |
+| 17 | granuloma annulare | TxGNN Knowledge Graph |
+| 18 | exanthem (disease) | TxGNN Knowledge Graph |
+| 19 | primary cutaneous T-cell non-Hodgkin lymphoma | TxGNN Knowledge Graph |
+| 20 | primary cutaneous T-cell lymphoma | TxGNN Knowledge Graph |
+
+## Disclaimer
+
+These predictions are for research purposes only and do not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+
+[← Back to Drug Search](/drugs/)
