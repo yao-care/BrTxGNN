@@ -1,10 +1,106 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-05-04T14:06:44.598692+00:00",
-  "total_fetched": 95,
-  "unique_count": 93,
-  "health_related_count": 28,
+  "fetched_at": "2026-05-04T19:43:20.514775+00:00",
+  "total_fetched": 99,
+  "unique_count": 97,
+  "health_related_count": 36,
   "news": [
+    {
+      "id": "1e775da95706",
+      "title": "Anvisa autoriza Butantan a produzir no Brasil vacina contra chikungunya - UOL Notícias",
+      "published": "2026-05-04T15:45:36+00:00",
+      "summary": "Anvisa autoriza Butantan a produzir no Brasil vacina contra chikungunya&nbsp;&nbsp;UOL NotíciasVacina contra a chikungunya é autorizada pela Anvisa para a produção nacional&nbsp;&nbsp;TerraChikungunya: Anvisa autoriza produção nacional da vacina do Instituto Butantan&nbsp;&nbsp;O GloboAnvisa autoriza produção nacional da vacina da chikungunya pelo Instituto Butantan&nbsp;&nbsp;Agência SPAnvisa libera produção no Brasil de vacina contra chikungunya do Butantan&nbsp;&nbsp;VEJA",
+      "sources": [
+        {
+          "name": "UOL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdUZKU1U1U2t6QmVCTkRBc1d4aDRXRDlqNWg0cFVndlZwZjFpSzhubFI4OGZub3V0T0JCT1B6NnVMbWNrWm1uN05nSnAtWlFBTGZyXzhXMC1PWjlEZzE3NU9pd3Rya1JIOTVZbG5oYmJ2SmtiLURfX2N4eGtGQm5QdVBkVGRaREh1emNiYUVmUXc5WkhIdnNhQlFVQloyOXJKdGFGVUdPcEk1c2Ric212ZVNkM0VfdS1JVjVIeTZGN1dreGlvc0luVGNUZXRUeUZJR2FJdl9HZDhLQzlzcmJr?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4c88c26929b5",
+      "title": "5 alimentos ricos em fibra para melhorar o intestino (e a saúde como um todo) - Globo",
+      "published": "2026-05-04T14:50:14+00:00",
+      "summary": "5 alimentos ricos em fibra para melhorar o intestino (e a saúde como um todo)&nbsp;&nbsp;Globo",
+      "sources": [
+        {
+          "name": "Globo",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOFI4TUpkQnp5VUJPQlEzUTY2NnZJR1BGTHF3cTluMG5aR2FQNGlTZDRfMWg1NHc1SGsxS0pVUlFSTFVDWmR2am9CS2l3MVc0R3A5bUMyM09uZm9TUWZYOERjaXJidVZrcWFSbm9mSU8zU0t5d21fNGp5eHl6NFprLUJvWUMyOGxTLTY5LV9EUndKMTU0WFlIUTVzVUVVT09ncWxvOXBRMzZUOXlTb280TXpsNjdkUkVJMHhXeEtoR1pSdXZmem5F0gHWAUFVX3lxTFB2ZWwwY3I2M0Uxel9rNi1lTEhiRXJlNEVWQ3ZzQUJ0Q21aMFpSWXlZR1dwTE9yS0c2Y2ZtTFN2em5lWGI0YlhoVUVqY1l1RksxYTFxdHNRMWp1OTlGeWxFQkd3UWI5ODIyaTYyeFJkQUUzT0k0Zm1jYVNQUGU5cGYtS1ZENEhNWXNpemg1QWtyVmhSaTN6SjVGMk9pdlZzTTlqWk1qbWRsOGZHREktWmd1TlpsMlIzYk5qTmdCYldTWVhjMlhMdWs1Wm9VbG9Xd1FkbmxXcUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "744e915795b1",
+      "title": "Instituto Nacional de Meteorologia alerta para chuvas intensas e risco de alagamentos em Pernambuco - JC",
+      "published": "2026-05-04T14:46:00+00:00",
+      "summary": "Instituto Nacional de Meteorologia alerta para chuvas intensas e risco de alagamentos em Pernambuco&nbsp;&nbsp;JC",
+      "sources": [
+        {
+          "name": "JC",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPV2FfR0NLNmZFNXFYNHZSS2F3T1dOV01aU0pHbHlPQ0pDQnZOMk1zU2hoSkw0V2ZabF9IaW44TXg2U05IRGhKRU1Tcng2anowWWxzRVNNM3dXZmlob3VweU5kcmVBQXVUd3NRa1hVazIyTWpjbnZiYzVhNHRpbXNmVTdzS0JqX0tFa3NKMGFYVmlBTkI5QUdVV3MwdFR5NEhkN09NMk5YT3ZEcXNPYTJPQVk1ay1KU19EYXdUZzZGWGVvQTdia09PV3BGcVc1d3JBMzdJTVpSS2V5UEVOc0N1dE9B?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9f01f135c98f",
+      "title": "Rios do planeta podem estar abrindo um vazamento climático invisível: estudo na Nature revela que 59% do CO2 liberado por sistemas fluviais pode vir de carbono milenar preso há séculos no solo e nas rochas, agora voltando para a atmosfera em escala g - CPG Click Petróleo e Gás",
+      "published": "2026-05-04T14:44:00+00:00",
+      "summary": "Rios do planeta podem estar abrindo um vazamento climático invisível: estudo na Nature revela que 59% do CO2 liberado por sistemas fluviais pode vir de carbono milenar preso há séculos no solo e nas rochas, agora voltando para a atmosfera em escala g&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPdHFjS0UzbEV4RzlQV2ZMSEdlUU5uZU9Wc2VCNVlyajg0VzFyR3JuR1RJNDFSekNZOG5LUFpqOUVIY194YkZjTlRpRU10RkJEUFYtRHdDNXk3ZHl2c1U5TmRuaVJLRkVGb3lyMjVDaDczVkdpVE5ETlVwZkRwcl9jejNUbzVqbkRFVWVGbWNsNUUzZTRlaHJHbmRhTWtSNHhUQm4xWVlXUE8tOHRFVzBueTFYRHd4VEUwenBRM21pd1lFZXBoUXlwUkpjS2prelBNSEdHcm1ZR1A4cDlJQ2E1MU1ndE9OMDR4SWVFcS05SkhYWkFvbUswdmVBSFg3d3FJNmEyakFNRkpqdVk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "64fda44a49e8",
+      "title": "Tratamento de Alzheimer deve focar no sistema imune, sugere estudo da USP - CNN Brasil",
+      "published": "2026-05-04T14:22:26+00:00",
+      "summary": "Tratamento de Alzheimer deve focar no sistema imune, sugere estudo da USP&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPckdnamVwSDBWZXZIcGxGbUozalFlZm1hZmttY2NKQU5RS1NMdDA0ODgwNGZhMC02UHgyZzRYcFpkbUFnZWRnZEVTaTFaQzdMZmJlUGZFTkdOVlFDWGZSSk9JNlZiTThidXZWMnhxb0pybGJyNzViNVlsUHhNOVRhRjVoVU83S3htUFlDVkpzSUdKME1TRlZ3YmJjdHd5Z2t3UWoxRGtUVDJHVEhI?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dd19db3c26be",
+      "title": "Após surto de hantavírus em cruzeiro, OMS considera 'baixo' o risco de propagação - O Dia",
+      "published": "2026-05-04T13:46:27+00:00",
+      "summary": "Após surto de hantavírus em cruzeiro, OMS considera 'baixo' o risco de propagação&nbsp;&nbsp;O Dia",
+      "sources": [
+        {
+          "name": "O Dia",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVlpJdjZXSXRvVU1naTVMRWs2VXVfb21IbV9MX3dCaElvd0F2N2YyZFlnWDJqT05nWU9FOGRXMy1FWWZZeW9MSXYzYUtVMTdSVlFSN2dvZy15RkRzRU1NeUtiWWlNSmdLbkNzc0tjdlVpZHBvZnNSOVdWcHhWSi1ia0VJSThXTEZwcGZUZGxLc1VvbUNET1cwVXpUb2NXSEw0emt1dFVOUjFEQVdPdjBGTk1CVVFXUGM5N0Ffc2MwMW5sbWpTd09yNFJ3aHBJVHFEcE9RWNIB2gFBVV95cUxPZ0h1N3EyZ2RQZnEyT250ZVFuRkZ4OXJyRm9GZXZOMGtqYlhDUmI1bzRzUVVFYnE0S2dlZllzY1BtNnhrNWtkMVVYMFJUVnRJclRlVW5DOTB6Mm1HOEhmc09ZZ0FvRmRrY2ZzM3VsUjRSMUZJVXpTa29xNXZfbVpKZ3ZidVM5ZHBRODd5MThfNkl2V1gxU2tURXd0WTlCd01EdGtVX09LMHJoRXhCbGJjNHBHSXpSNWdjRTNwaWVCWjRqQmk0QmYyYUFLRVBCYk9ucUIyQXBVdDhiZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dc2a4110ea3f",
+      "title": "Dose única: SP amplia vacinação contra dengue para quem tem 59 anos - UOL Notícias",
+      "published": "2026-05-04T13:35:29+00:00",
+      "summary": "Dose única: SP amplia vacinação contra dengue para quem tem 59 anos&nbsp;&nbsp;UOL NotíciasSP amplia vacinação contra dengue com Butantan-DV; veja quem pode tomar&nbsp;&nbsp;EstadãoVídeo: Vacinação contra a dengue é ampliada para pessoas com 59 anos | SP1&nbsp;&nbsp;G1Prefeitura de SP amplia público-alvo da vacinação contra dengue; saiba mais&nbsp;&nbsp;CNN BrasilSão Paulo amplia público-alvo da vacinação contra a dengue&nbsp;&nbsp;Agência Brasil",
+      "sources": [
+        {
+          "name": "UOL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTVdqeFg3c1lCblFfVU9vcFlDNlBTczk0Y01Ud3JRcV9INDUwT0t6MWdKWG54MGdidUFwWnZYVTZNT1lrNjNpUGl5dTFySzVaWG9lYTV6cXJqODBOY2tYTEFRcTJxaERydHhIVE5YTWhBMWZDcXVFUWNIenFobER4QjY5dDItUzdSV0FTNHEwVjZSVTFBVnlMWlpwaGFfYVBEZ1kwY0RZSG5Cc0dyRHVFSGpHOFJDWkFNODQwc0ZFeGo5N0V6OEtrR194MEdDZ3VkSjl5T3RLTmQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "40759e007c61",
+      "title": "Café no intestino e no cérebro: estudo revela como a bebida muda bactérias, humor, estresse, memória e atenção - CPG Click Petróleo e Gás",
+      "published": "2026-05-04T12:54:00+00:00",
+      "summary": "Café no intestino e no cérebro: estudo revela como a bebida muda bactérias, humor, estresse, memória e atenção&nbsp;&nbsp;CPG Click Petróleo e GásPor que o café é associado a uma vida mais longa e a risco menor de doenças crônicas&nbsp;&nbsp;Época NegóciosBeber café todos os dias faz mal à saúde? O que dizem os estudos&nbsp;&nbsp;Rádio ItatiaiaCafé: saiba como a cafeína afeta o corpo e quando o consumo vira problema&nbsp;&nbsp;TerraBeber café todos os dias ou não beber café de jeito nenhum: quem",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdzNNaWhfb3VqWnVjdkJMMG0zQTROYmstYTNZZldLOXZJTGhIM3F4WkxYVXU4cVM1VFBnVjU5U2Y5VGdjQjR5eWxkMUMwUEdLLWJwb1RxaDFKY3d1TWM0U1YwQjd4WndrRmFVOGtzTTlBXzByNFd2N2VOeUJnUGw4TDFsN0pmX3VZTUNqcHN1SzU2d1N4VVk5NkpkbUZBOWdxVTl1c0tOc1M1TmVvS0FvVHFvNmI5RF9CTVVBZExTX1BJdnQ4R3E3dnd3cEZGdzVJcWhIeml6bzFrNFJWZE1jdg?oc=5"
+        }
+      ]
+    },
     {
       "id": "705ba2ebb1ec",
       "title": "Estudo com 15 mil brasileiros mostra que atividade física é o melhor investimento para o envelhecimento - Folha de S.Paulo",
@@ -14,6 +110,18 @@
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWDR6VmZrRkRVQVB4b2JMeVJPcjVEWUVfZFdFcWkxY0VqbWxsbk9yTlI0a2JYa0E0ZEw4MFpRN2FHSGlhaVhERTh1WmFCbUR2S201OTFNQjZSUUZxWEtMMnRrbjc0NGZGX3ZqV2l3aFMwUkxSVzQ4QnZvN3NSMDdhSEhzOUtPbzM2WmdFWlh5NTNBUmwwem9XRVBONXctOTJLR3oxd24tWUFhMHYyVTdtekdGT29BUjlxSFBCMzVqRzE3RG1OSGs2Qm5UQzk5Mmo3d0tNTF8xWjBERG5SQW11aUtuQzVtakJFNGZNOEd5SQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d574f7ef2b94",
+      "title": "Creatina é benéfica para o corpo e a mente? Veja o que a ciência mais recente diz sobre isso - O Globo",
+      "published": "2026-05-04T07:30:40+00:00",
+      "summary": "Creatina é benéfica para o corpo e a mente? Veja o que a ciência mais recente diz sobre isso&nbsp;&nbsp;O GloboComo o consumo diário de creatina, mesmo por quem não treina, afeta o metabolismo cerebral e reduz a fadiga mental&nbsp;&nbsp;Tua SaúdeCreatina: quem precisa suplementar, quais os impactos no cérebro e como influencia no ganho de massa&nbsp;&nbsp;TerraCreatina: os benefícios que vão da mente à longevidade&nbsp;&nbsp;Bem ParanáCreatina ajuda o cérebro? Saiba o que diz a ciência&nbsp;&nbs",
+      "sources": [
+        {
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRlFzZG4xbGw5Z3NENERFNGg4UWRJdGQybk81alRNS2FBbkpTdEQzeDNKN0ExRzdtUFhDeGxCYWtSZGItSHZURmw3S0x1NTA3QmtmXzVIRzVKWFp2Zm9Sbkh1djMzNEZfaENxcVFiczJTY1pWRDloZEpuQUJPWExsdTFrYzJTS2xZY0V0Z1B4eElTVTR0NmtYX2tnNExSN3lvVGxhR2VleFdDQXFTNEhXaDd3WW9mNDJjWGpzNmxyWEU3Z2R5T2V1ejhhaFp6eFJjbU1NWjczTTNMSUs0ZVdXTw?oc=5"
         }
       ]
     },
@@ -45,7 +153,7 @@
       "id": "4234f2e5cc2b",
       "title": "Dormir demais faz mal? Especialista revela tempo ideal de sono - Rádio Itatiaia",
       "published": "2026-05-03T22:05:05+00:00",
-      "summary": "Dormir demais faz mal? Especialista revela tempo ideal de sono&nbsp;&nbsp;Rádio ItatiaiaDormir demais faz mal? Dr. Kalil conversa sobre tempo ideal de sono&nbsp;&nbsp;CNN BrasilPadrões de sono podem revelar 'idade cerebral' e indicar risco de demência, aponta estudo&nbsp;&nbsp;TerraComo tratar a insônia? Especialistas indicam 4 hábitos para dormir melhor&nbsp;&nbsp;Rádio ItatiaiaSaiba como fazer a higiene do sono para melhorar a recuperação do cérebro&nbsp;&nbsp;Portal Zumm",
+      "summary": "Dormir demais faz mal? Especialista revela tempo ideal de sono&nbsp;&nbsp;Rádio ItatiaiaDormir demais faz mal? Dr. Kalil conversa sobre tempo ideal de sono&nbsp;&nbsp;CNN BrasilSono revela ‘idade cerebral’ e pode indicar risco de demência, sugere estudo&nbsp;&nbsp;VEJAComo tratar a insônia? Especialistas indicam 4 hábitos para dormir melhor&nbsp;&nbsp;Rádio ItatiaiaAntes de dormir, veja por que o suco de cereja ácida pode ajudar seu corpo a relaxar e ter um sono mais profundo&nbsp;&nbsp;Portal U",
       "sources": [
         {
           "name": "Rádio Itatiaia",
@@ -81,7 +189,7 @@
       "id": "7e858320143b",
       "title": "Psicologia mostra que a solidão mais difícil no envelhecimento vem da desconexão entre identidade atual e reconhecimento social, afetando milhões - CPG Click Petróleo e Gás",
       "published": "2026-05-03T19:31:00+00:00",
-      "summary": "Psicologia mostra que a solidão mais difícil no envelhecimento vem da desconexão entre identidade atual e reconhecimento social, afetando milhões&nbsp;&nbsp;CPG Click Petróleo e GásÉ essencial manter conexões sociais ativas a partir dos 60 anos para retardar o declínio cognitivo e o envelhecimento cerebral&nbsp;&nbsp;Tua SaúdeJJ: Solidão cresce entre adultos e desafia criação de amizades&nbsp;&nbsp;sampi.net.brEstudo determinou o efeito da solidão em pessoas com mais de 65 anos de idade&nbsp;&nb",
+      "summary": "Psicologia mostra que a solidão mais difícil no envelhecimento vem da desconexão entre identidade atual e reconhecimento social, afetando milhões&nbsp;&nbsp;CPG Click Petróleo e GásÉ essencial manter conexões sociais ativas a partir dos 60 anos para retardar o declínio cognitivo e o envelhecimento cerebral&nbsp;&nbsp;Tua SaúdeSolidão afeta a saúde cardiovascular? Entenda quais os riscos para o coração&nbsp;&nbsp;Jornal CorreioJJ: Solidão cresce entre adultos e desafia criação de amizades&nbsp;&n",
       "sources": [
         {
           "name": "CPG Click Petróleo e Gás",
@@ -105,11 +213,23 @@
       "id": "6a59093c8198",
       "title": "Com alta de casos de SRAG, RS decreta emergência em saúde pública e projeta mais 1,8 mil leitos no inverno - Correio do Povo",
       "published": "2026-05-03T18:26:45+00:00",
-      "summary": "Com alta de casos de SRAG, RS decreta emergência em saúde pública e projeta mais 1,8 mil leitos no inverno&nbsp;&nbsp;Correio do PovoRio Grande do Sul decreta emergência na saúde pública diante de aumento de 533% nas hospitalizações por influenza&nbsp;&nbsp;G1Com alta de casos de SRAG, Estado decreta emergência em saúde pública e projeta mais 1,8 mil leitos no inverno&nbsp;&nbsp;Correio do PovoRS decreta emergência em saúde pública após alta em casos de gripe&nbsp;&nbsp;UOL Notícias\"Temos uma ex",
+      "summary": "Com alta de casos de SRAG, RS decreta emergência em saúde pública e projeta mais 1,8 mil leitos no inverno&nbsp;&nbsp;Correio do PovoRio Grande do Sul decreta emergência na saúde pública diante de aumento de 533% nas hospitalizações por influenza&nbsp;&nbsp;G1Governo do Rio Grande do Sul decreta estado de emergência em saúde pública devido a doenças respiratórias&nbsp;&nbsp;TerraRS registra alta de casos graves respiratórios e amplia leitos em hospitais&nbsp;&nbsp;R7Com alta de casos de SRAG, Es",
       "sources": [
         {
           "name": "Correio do Povo",
           "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQTWwteFR2RUhUQkJ0N3VLTHd6djF6QXpNS1lmaXU5WTg2Njg3LUE0TDZnRnBLWGtkVWxOSkI1YmE2bVdMeXlFSHVEaW5pai1qWUlUNGxNMUk4bEkwanpyWTR4enN1YWlyZkdibElmOUs4aWJTbVJ1ZllPZHJnY21idHdvb05tNHFlazg5VW94b3ZKNHMweVBtb0k3WWhJZHpvSHVEM2lvNmdNNFhiU2JfbzFJNm14akN2YjNrRXZpM1B0RlVDbWNSMFBLRWtwMC1RcXFhZ2J3RTdYdkQyOWtIblcyVjZSaVFwNURLOGc5QmN6U0hVN1NYaVVHMUJvb1JuNHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d8e89d3174dc",
+      "title": "Biossensor identifica câncer de pâncreas em estágios iniciais - Estadão",
+      "published": "2026-05-03T18:00:00+00:00",
+      "summary": "Biossensor identifica câncer de pâncreas em estágios iniciais&nbsp;&nbsp;EstadãoUSP desenvolve 'chip' para diagnosticar câncer; entenda dispositivo&nbsp;&nbsp;Correio BrazilienseIA identifica sinais de câncer de pâncreas anos antes do diagnóstico&nbsp;&nbsp;MetrópolesCientistas criam IA capaz de detectar câncer de pâncreas anos antes de diagnóstico&nbsp;&nbsp;Época NegóciosNovo dispositivo pode revolucionar a detecção precoce do câncer de pâncreas&nbsp;&nbsp;Radio Sanca Web TV",
+      "sources": [
+        {
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTld1b1QtRDRPeW4wQkJMN1NUejBtUkQtZXZhSzlKelNrNFhRUzRENWNod0tNcHg2MnlVV2V5ZUNQXzdnckNrOVowZXBNTnRrVWx3Y0pLMERnNy05QVBaMXpROUVsbEpTVnFPQm0wWjNJUlBVdG9LTWNlYno0VGcwS1JMQXhud1p2SXZOMkczQTFSZmhQcHd5VjZLb2VsZDY3WXUxbVR1QlJlcl80V20tcThWUQ?oc=5"
         }
       ]
     },
@@ -150,22 +270,10 @@
       ]
     },
     {
-      "id": "feaac95fd4a7",
-      "title": "95% das pessoas carregam um vírus ligado ao câncer e à esclerose múltipla, e cientistas podem ter encontrado finalmente como bloqueá-lo usando anticorpos de camundongos com DNA humano - CPG Click Petróleo e Gás",
-      "published": "2026-05-03T15:03:00+00:00",
-      "summary": "95% das pessoas carregam um vírus ligado ao câncer e à esclerose múltipla, e cientistas podem ter encontrado finalmente como bloqueá-lo usando anticorpos de camundongos com DNA humano&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNdWZEZV8xMlpCcUpGVEZaaVNNOWs0U3RMN0dBYUVya3ByZ1R6a0lmc014d0k4QWVWTFVtZzlvZ3BzWTFWRkVwc3F5YzlhQmNnZEFNcWY0Y0xtMkdCVWxLMFJSbnpJZG9DY0kwc1RmdTR3a1ZqMnVmM0Z6RWlodE5hdFBJZVoyc2FUWV9WU2oyU0puRzhCejNiWFdRN0VKdXVBNE5DOWlrM3lsamE4UXh0VEp4M1oxMXZJMFNJSEVLaU5RRFZ2dVBBN2F2YXFraThaV2Q5bmJhdlphQVNHN3ZnT29BTTNaOTNHRzNxUlBTRjFFT0xJMkppSmZIakVzUGk4cWY3TFhzaENQbzJqQjZ5NFZrMFROdllsTDBuT0l2VHZTSTd2YWFBQnpKM1dJcl9jNVlHeXg4eGhSMHE3b0hTTW1uWQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "52d190107bf8",
       "title": "'Pessoas estão morrendo': primeira-dama de Salvador cobra resposta do Estado sobre dengue - Jornal Correio",
       "published": "2026-05-03T14:48:36+00:00",
-      "summary": "'Pessoas estão morrendo': primeira-dama de Salvador cobra resposta do Estado sobre dengue&nbsp;&nbsp;Jornal CorreioBahia registra cerca de 8 mil casos prováveis de dengue em 2026&nbsp;&nbsp;Tribuna da BahiaApós polêmicas, prefeito de Uauá fala sobre combate à dengue no município&nbsp;&nbsp;Bnews“Não se deve transformar a dor de uma família em palanque”, diz Sesab ao rebater primeira-dama de Salvador&nbsp;&nbsp;Taktá No ARCasos de dengue chegam a 804 em Uauá; Secretaria de Saúde diz que já regist",
+      "summary": "'Pessoas estão morrendo': primeira-dama de Salvador cobra resposta do Estado sobre dengue&nbsp;&nbsp;Jornal CorreioApós polêmicas, prefeito de Uauá fala sobre combate à dengue no município&nbsp;&nbsp;Bnews“Vai trabalhar”: Bruno Reis dispara críticas e cobra dívidas milionárias do governo do Estado&nbsp;&nbsp;Taktá No ARBruno Reis critica Sesab após resposta à primeira-dama e expõe tensão política na Bahia: 'A gente vive uma ditadura do PT'&nbsp;&nbsp;Muita InformaçãoBahia registra cerca de 8 mil",
       "sources": [
         {
           "name": "Jornal Correio",
@@ -182,6 +290,18 @@
         {
           "name": "O Globo",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaURCaHY5ajFodkx5aGtwdlhnNl9ZTVZaV0pYTE9xQzAzZVNjcTBtei1RamhwTzlSbm9aSENHODVCbG9JSFBscFU1Ync4UVllakhmR0NEYnZpcnZzMzczOTdScjVaOTlFX2ZKQWdLOGpoOXNzWWxNay1tWEpnU0dHYS1vSDRmZnVmTXlUcDlTbUo0ckplZHFHc0dPYVBQNHJOUW5ybTV3eExtU19lUXpKUVJHa9IBwgFBVV95cUxOYXlLQlFoNDlGZEE0MkQ4cmFxOGZxcVpDU2VHVnhDaEQ4ZjdYQ3FDZ21uQ2dFYjZiNUx1RjVjc29wMU9RS3JfejdUWFF6eGVzZzlhVHpiLTdra1ZJZ0ZUNjRHRW1IOWV4Z19QMUFNTFJBQmhCNC1JaFlyVTJjVTFZa0o3MlpVUERNTmo2Ym5sSmhyTExBMEVSYzRGLTQ2clc4Qi1jUVdzOGFUUV9rZGI2RHE1ZnhVRWpiT2J4NmxwZ05GZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7f684eeac848",
+      "title": "A Amazônia abriga uma diversidade de árvores que supera todo o continente europeu revelando um vasto laboratório natural ainda inexplorado - Revista Amazônia",
+      "published": "2026-05-03T13:35:09+00:00",
+      "summary": "A Amazônia abriga uma diversidade de árvores que supera todo o continente europeu revelando um vasto laboratório natural ainda inexplorado&nbsp;&nbsp;Revista Amazônia",
+      "sources": [
+        {
+          "name": "Revista Amazônia",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPYTBvWHY1cmlLZWdGYldtRFNSaFJwM1VBMHF2UkNQUlVxVzltb3dHMlpBZEw4SVg0am5fNkZQNVZ4SnBCeFlxbkJCa0REOElCZWxGMVMtaWlvVjZpMnhRYjIxTF96TWllU0F0NmhLX2JmbThRaWVoUVBqbjU2RmxjNXFEQ0Z5SVlyME1xa3BHTU5XU3JNbmFqYk1GbTZrZEQ5ZWhyMG1MZkR3N0lsU05YZHQtMzhzTDFQOTQ5dUptQ3d5SWRrdlZJVFFBLVBsNHBJZTVrN0JkVGlXaTQzSTFqaG9kQURtc2pWOWFKNks0ZDJmU08wckxSWlZMLWljZ1k?oc=5"
         }
       ]
     },
@@ -249,7 +369,7 @@
       "id": "2caa3ecd77d9",
       "title": "Combinar cardio com musculação é receita ideal para vida mais longa e saudável - Folha de S.Paulo",
       "published": "2026-05-03T10:00:00+00:00",
-      "summary": "Combinar cardio com musculação é receita ideal para vida mais longa e saudável&nbsp;&nbsp;Folha de S.PauloEstudo com 15 mil brasileiros mostra que atividade física é o melhor investimento para o envelhecimento&nbsp;&nbsp;Folha de S.PauloNem só natação, nem só bicicleta: o treino que pode transformar a saúde depois dos 70 anos&nbsp;&nbsp;Super Rádio TupiAtividade física e saúde mental: os benefícios do exercício aumentam com a idade&nbsp;&nbsp;Tua SaúdeEu adoro musculação. Eu realmente preciso fa",
+      "summary": "Combinar cardio com musculação é receita ideal para vida mais longa e saudável&nbsp;&nbsp;Folha de S.PauloEstudo com 15 mil brasileiros comprova que atividade física é o melhor investimento para o envelhecimento&nbsp;&nbsp;O GloboNem só natação, nem só bicicleta: o treino que pode transformar a saúde depois dos 70 anos&nbsp;&nbsp;Super Rádio TupiAtividade física e saúde mental: os benefícios do exercício aumentam com a idade&nbsp;&nbsp;Tua SaúdeExercício físico realmente prolonga a vida? Estudo ",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -258,14 +378,14 @@
       ]
     },
     {
-      "id": "bbeacc63f32b",
-      "title": "Florestas tropicais desmatadas se recuperam rápido sem interferência humana, mostra estudo - Folha de S.Paulo",
-      "published": "2026-05-03T10:00:00+00:00",
-      "summary": "Florestas tropicais desmatadas se recuperam rápido sem interferência humana, mostra estudo&nbsp;&nbsp;Folha de S.Paulo",
+      "id": "71cff91066c5",
+      "title": "Pasteur quer monitorar ratos em SP em busca de vírus que possam infectar humanos - Folha de S.Paulo",
+      "published": "2026-05-03T09:00:00+00:00",
+      "summary": "Pasteur quer monitorar ratos em SP em busca de vírus que possam infectar humanos&nbsp;&nbsp;Folha de S.Paulo",
       "sources": [
         {
           "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWThFdlozWVVUX0ViRHVVb2tGZmtJTE1oT3ZIVERJTVlDYjlRRlc0VWdWYVVFTmRhb1hEMXRkUGZTRnh3M0NzRHAyZHhhS0hWRExyMnZ5ODc5LWFwQjF6bkh2LU5GSG5vMVAyYkE2b1FBeXp6b09DdzVPdlQ4NEcwSDhqMk53eVJGQlZBcGdnWTRMLVRtUVkwM183MEs1cGs5ZGJlRUNxRV9VS2JoelZMdXp3NjU4NWVtRXhtdUFkekZpVFdNeTlKRl9OVjBCR1l5Y0dVWE1kendKd9IB3wFBVV95cUxQdUthNmM5Z3hrZGdWQl93bDhKdjBYZWpjUF9Xa21hRHhfZlhMTzgtNW9Ra2ZhWmFLdzUyZUV3SFlDZVNheFdOdnBqeU9aRDlrbDJJd3B4cFN3YTFFcHNBbFVHamo5OG5BM2pYNmYzUFFPZzJfTnI2czJ2Z3NWWmg0MjNFSW1JNEpnVVI5TVhvc3V0bWJNcDlfTWNzN2dTOFJ0NmZBRElfbzZUbVZZRnd4bHFmdDFlSV8zekNFTl9NNTBOaUJFQllmcWRKaUxDVGwyWjN6ZTJ2QTg2b1d0ZUZZ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeVJuaTR1SjFqS0VZeFNMdzlSUHoxakhvUktDTG5IOWdrSThsRVRoZ0dpdGx2b3BuWTdHRFJuejk0TFkwM09lVVc0dFJfejdvZk1qTFFpdTZac2dsalBGcGluOF82Q3JaMy0tRXpxUmQ4VmoxUTJIRTdfeTlaenJxS1ZqSUxNZlFZQ2EyQnE5Rm9zUVlKX0NPM0diVXBOa1ZTZ2VmZEhYNUdDTkFsMUhsUXMyWEFKeGhLeE80ZGNoYmZ1MzhIR3FoSG1oZ9IB0AFBVV95cUxPUWx2aHdKeDR4Y1RrMTBzYTFJcFZDZFkwOGF2cm9tSEt0SjRkckNVcUNyQlQ2YllZekZrbU42QkdVeFJyNnNBMjMyOGFycFVPdHM0a2lPV2hsZVBKUnpnZkdVNjZvVjNrZ2ZTSGNIZXRVSVY1ZnZGdHVGTHZnenpBNENxRF93Z2xLUG5tVFJuZlVLXzNsTWwzRURPOFZwckM4TWczN21QSV84ZlIzRFcxNlJUMzRwOVRkWUR0bzlFV0FVZjdJYjNrUDQzUzczZDFn?oc=5"
         }
       ]
     },
@@ -297,7 +417,7 @@
       "id": "8d718934f89f",
       "title": "Obesidade é doença crônica - O Dia",
       "published": "2026-05-03T03:00:00+00:00",
-      "summary": "Obesidade é doença crônica&nbsp;&nbsp;O Dia68% dos brasileiros enfrentam excesso de peso e cenário preocupa especialistas&nbsp;&nbsp;R7Especialista paraibano alerta sobre riscos de adiar tratamento contra obesidade&nbsp;&nbsp;O POVO PBObesidade vai além do físico e requer acompanhamento psicológico&nbsp;&nbsp;A TribunaMinistério da Saúde amplia em 58% atendimentos contra obesidade na Atenção Básica em três anos&nbsp;&nbsp;www.gov.br",
+      "summary": "Obesidade é doença crônica&nbsp;&nbsp;O DiaPersonalização em alta: mudança de comportamento redefine o futuro do emagrecimento&nbsp;&nbsp;Acorda Cidade68% dos brasileiros enfrentam excesso de peso e cenário preocupa especialistas&nbsp;&nbsp;R7Obesidade vai além do físico e requer acompanhamento psicológico&nbsp;&nbsp;A TribunaObesidade: especialista esclarece mitos e verdades&nbsp;&nbsp;Portal ABC do ABC",
       "sources": [
         {
           "name": "O Dia",
@@ -309,35 +429,11 @@
       "id": "b2920c4fb7e3",
       "title": "Bebê com vacina atrasada morre de meningite em Santa Catarina - TNOnline - TNOnline",
       "published": "2026-05-02T19:18:48+00:00",
-      "summary": "Bebê com vacina atrasada morre de meningite em Santa Catarina - TNOnline&nbsp;&nbsp;TNOnlineBebê de 6 meses morre após ser internado com meningite em SC; dose da vacina estava atrasada&nbsp;&nbsp;G1Morte de bebê acende alerta para maior letalidade da meningite em SC&nbsp;&nbsp;MetrópolesBebê morre por meningite em SC e caso acende alerta sobre atraso na vacinação&nbsp;&nbsp;Rádio MiradorPapanduva (SC): Bebê de seis meses morre de meningite; segunda dose vacinal atrasada&nbsp;&nbsp;diário do esta",
+      "summary": "Bebê com vacina atrasada morre de meningite em Santa Catarina - TNOnline&nbsp;&nbsp;TNOnlineBebê de 6 meses morre após ser internado com meningite em SC; dose da vacina estava atrasada&nbsp;&nbsp;G1Morte de bebê de 6 meses acende alerta para maior letalidade da meningite em SC&nbsp;&nbsp;NSC TotalMorte de bebê acende alerta para maior letalidade da meningite em SC&nbsp;&nbsp;MetrópolesBebê morre por meningite em SC e caso acende alerta sobre atraso na vacinação&nbsp;&nbsp;Rádio Mirador",
       "sources": [
         {
           "name": "TNOnline",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYTM1WEdGSzd4LVd1SzZITTZOdXVkdzZoNFJDdXpIbi1TenZpb3JoYkx6bFhxVGVUN3M3VzluUmhnRjJRRV9tRnZSVU5vclNMV3dQQlo5VzJ5azYtS2VGRWZPTURYbXJVNUV1YzhSdGVRa0w5QTdGYVlEN0x4NFl4WlRqcTVqUVY5UGQtMEtCeE1TZndtZVliXzZ6bzZZVnhJQUVIMU5mQUFCbTVJTGVseDdUdFBsU0k?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "473081d2fe32",
-      "title": "Os cientistas concordam: \"A exposição crônica ao estresse reduz o volume do hipocampo, região cerebral essencial para a memória\" - Tua Saúde",
-      "published": "2026-05-02T19:15:00+00:00",
-      "summary": "Os cientistas concordam: \"A exposição crônica ao estresse reduz o volume do hipocampo, região cerebral essencial para a memória\"&nbsp;&nbsp;Tua Saúde",
-      "sources": [
-        {
-          "name": "Tua Saúde",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQYzJtMXU3d2FwU0dNUGlQejBEU2pxWEhQQkI4UmNDUURrV3hpMzBIX2xyWURZbi1Kb0FpUTFxbC1tV2trejRWa3ZFZEhYY3JPa2cxN3E4NldhYkpxTS1jMUxtb2tYNEZua3ZYeG41UWZPNUlqZHNCeWRoWjZRdExGTTAxYlZxeXNvQnlzb3BtQnpoWElwUzZQWnd3LXJ4dDNENUp2ZUdjLXRJRGlfWVZjRVl5M3FwV1Y4dDdUZDFleFZUWjlNQW1RclJLVHV1YjRjcXNZd0tsZnNVekgzelJLaUJOb2QwNkJ5dndPMHZGc1BiUXdKRFdVdkhR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9c8543027a59",
-      "title": "Morte suspeita por hepatite A é investigada em Juiz de Fora - Tribuna de Minas",
-      "published": "2026-05-02T14:57:52+00:00",
-      "summary": "Morte suspeita por hepatite A é investigada em Juiz de Fora&nbsp;&nbsp;Tribuna de Minas",
-      "sources": [
-        {
-          "name": "Tribuna de Minas",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU21PbjZkQ2NfeVBEcXlXXzR1MkpHYkxIVlF4UXAzeFl5bjc1eTFGWWJQcUhZY0FVZ01jTWJVOTFYOVFRc1lrSUdDREVRR2EyUnFDQnU3V2czcFJONWJoakprVXpJTDlYcTdmaks3RXBHUFpabTl2MDBiNW1VNmxDbGxlM0tiMGZwRloyRjZUSmpwR3h2dzlLTC1JX3I1UndmUHc?oc=5"
         }
       ]
     }
