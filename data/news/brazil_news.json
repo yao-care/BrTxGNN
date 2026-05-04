@@ -1,19 +1,91 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-05-04T08:33:02.077633+00:00",
-  "total_fetched": 92,
-  "unique_count": 91,
-  "health_related_count": 31,
+  "fetched_at": "2026-05-04T14:06:44.598692+00:00",
+  "total_fetched": 95,
+  "unique_count": 93,
+  "health_related_count": 28,
   "news": [
+    {
+      "id": "705ba2ebb1ec",
+      "title": "Estudo com 15 mil brasileiros mostra que atividade física é o melhor investimento para o envelhecimento - Folha de S.Paulo",
+      "published": "2026-05-04T10:00:00+00:00",
+      "summary": "Estudo com 15 mil brasileiros mostra que atividade física é o melhor investimento para o envelhecimento&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWDR6VmZrRkRVQVB4b2JMeVJPcjVEWUVfZFdFcWkxY0VqbWxsbk9yTlI0a2JYa0E0ZEw4MFpRN2FHSGlhaVhERTh1WmFCbUR2S201OTFNQjZSUUZxWEtMMnRrbjc0NGZGX3ZqV2l3aFMwUkxSVzQ4QnZvN3NSMDdhSEhzOUtPbzM2WmdFWlh5NTNBUmwwem9XRVBONXctOTJLR3oxd24tWUFhMHYyVTdtekdGT29BUjlxSFBCMzVqRzE3RG1OSGs2Qm5UQzk5Mmo3d0tNTF8xWjBERG5SQW11aUtuQzVtakJFNGZNOEd5SQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a1efa3a8bab3",
+      "title": "O pesquisador que pedalou como entregador de apps: 'É terra de ninguém, risco de vida o tempo todo' - BBC",
+      "published": "2026-05-04T07:27:53+00:00",
+      "summary": "O pesquisador que pedalou como entregador de apps: 'É terra de ninguém, risco de vida o tempo todo'&nbsp;&nbsp;BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IU3RmemJvZjhZV0U4bmduaTFVdXJfN0dXcDlZTVVxcno2MkNrMXhUaFFIVWtiZ1FyNzZDR0psUk8yT2NxM3BxbndDWXpCOVdjeXVpRkpOZ25Xc2J5dGlOZU1n0gFnQVVfeXFMTnZSUzhPVUZrVF9PeVZpUWVQUWVBelRUa2R3UHMweEk1aDJVRHdLTVFQZXRDcjR1U2t3S2R0emZQN0dCcGpPWE9JRHFXVUJQeERNVXZ2N19OQ3QwWDFkOEFJeWNvQTZqRQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "38f6ff726921",
+      "title": "NASA explica 5 curiosidades que intrigam milhões de pessoas, da Lua vermelha nos eclipses aos rios antigos de Marte, passando pelos riscos de uma viagem humana ao planeta e pelo eclipse de 2026 que muita gente quer ver no Brasil - CPG Click Petróleo e Gás",
+      "published": "2026-05-04T02:15:00+00:00",
+      "summary": "NASA explica 5 curiosidades que intrigam milhões de pessoas, da Lua vermelha nos eclipses aos rios antigos de Marte, passando pelos riscos de uma viagem humana ao planeta e pelo eclipse de 2026 que muita gente quer ver no Brasil&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQMU95SFpJalNBUzUzcTBPbElZWWg4TXczT20zQVdsZnExSkc4SGxoRHVLVjVydXJrU21LNmFHQUxESTVFZjFYbUhyS3FTa1ZLSlFrQWx1aEdiTUEyOGdqZFhoXzc3WVFJWjFpT0kycTBfSmp2djJiZDctM1N6X1N3TEJSRTlFYjUxcDhvbFhQVXZzaHJfYllRY3AwSDVJYlFkWGtrREl3d3Y1LW5tMGJUczYzbUhDUmNib0dNOW1ZOF9KNW8tdjZ2bWIyN280X3NHMkYwV2ZiWnJsdW0wRWpMdmZQcTRCWllRY3hqMXRMdkJKbm9ubE82UWl0WnpxQ0FVOWpfN3RHdHlPTmtZTGhCYko3V1pWUXVGRW1zNHRjSDI3TWJ6MUVVZUd6RndTcFl1WHFsNF96el96dEZvX2RWa1pFeGF1Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4234f2e5cc2b",
+      "title": "Dormir demais faz mal? Especialista revela tempo ideal de sono - Rádio Itatiaia",
+      "published": "2026-05-03T22:05:05+00:00",
+      "summary": "Dormir demais faz mal? Especialista revela tempo ideal de sono&nbsp;&nbsp;Rádio ItatiaiaDormir demais faz mal? Dr. Kalil conversa sobre tempo ideal de sono&nbsp;&nbsp;CNN BrasilPadrões de sono podem revelar 'idade cerebral' e indicar risco de demência, aponta estudo&nbsp;&nbsp;TerraComo tratar a insônia? Especialistas indicam 4 hábitos para dormir melhor&nbsp;&nbsp;Rádio ItatiaiaSaiba como fazer a higiene do sono para melhorar a recuperação do cérebro&nbsp;&nbsp;Portal Zumm",
+      "sources": [
+        {
+          "name": "Rádio Itatiaia",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOalBaZktkWG5TWWVKcmNlV3M3Rjc1ekdIMWxNRXlrMGpzMXFPdkxiaXFGbnlQUHBhOGlmbWJGUzI1Uk5nMmt5d093SnJ4LXFRRHdGeEc5MmtBN3dkdEZsUmlwMGQwZUx4VkJTUC1NSTVwTlVaVnlKaFU4ZVAtRVYzS1ZSbWFWaF93cG95b01Dajc3MkQ4V3JNNmZYa2k?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a58d76d5ea8f",
+      "title": "Suco natural ganha destaque por potencial contra câncer e envelhecimento - Estado de Minas",
+      "published": "2026-05-03T20:30:00+00:00",
+      "summary": "Suco natural ganha destaque por potencial contra câncer e envelhecimento&nbsp;&nbsp;Estado de Minas",
+      "sources": [
+        {
+          "name": "Estado de Minas",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaUNaV3U3TTZBQXlIb1d0SmhTVGttdks2RmRJUzZkZXlQY3IzQXNNOEgyLW1DWTEwYkQyUHZJYm1yQ0dZRU9NZm8zdFNKZDJ6Q2pTV3BmdmwzRVNzc205c0pDRGVNSTVpazhPYVB0T3F2ZUwwaEdIcDJsTFJxQ00tX0w3cmFEM0xSNmhWcWFybFJKNjY3cW5NaEJ1Q0FBMGROU1Q4T3dZVXpSUjFEUUJBOVpOaTRLdlVWTnpOLWlzQjROWEXSAeYBQVVfeXFMUEYtUmM1b0Jmc3Y3SXR4Ri1XYm5QZGtHQno0UFlWdTlMcExXWm9TOWwyUXBKSV9jQkJaY3BKOExoODE4UjRDRzNHbXU2OXdDNE16NXVvLVhCUHhYcXNkbEUydlRZYS1rUVctN3M2YXV4NlRteDdCRE1MR01JbzBoZjhWYU5JbnRYeC1tQURjQVVCOWhlR3NhZVdGY0VjQTdndWdvSjFHYlhya29LQkRILVR5eTZ5aHN5SjBZcFdtMVFFaTZTeHRocVdjaXkybnROOUtOdUg3NlhIbWVPOV9DSjlhVmdFblE?oc=5"
+        }
+      ]
+    },
     {
       "id": "832ef1c6ba73",
       "title": "Por que ficamos irritados ao sentir fome? Estudo investiga - Folha de S.Paulo",
       "published": "2026-05-03T19:38:00+00:00",
-      "summary": "Por que ficamos irritados ao sentir fome? Estudo investiga&nbsp;&nbsp;Folha de S.PauloVer cobertura completa no Google Notícias",
+      "summary": "Por que ficamos irritados ao sentir fome? Estudo investiga&nbsp;&nbsp;Folha de S.PauloFome ou mau humor: por que você vira outra pessoa de estômago vazio?&nbsp;&nbsp;MetrópolesFome ou mau humor? Ciência explica por que você vira outra pessoa de estômago vazio&nbsp;&nbsp;Jornal CorreioIrritação ao sentir fome pode não ser culpa da glicose e estudo revela como percepção da fome, cérebro e emoções influenciam diretamente seu comportamento diário&nbsp;&nbsp;CPG Click Petróleo e GásFome faz o cérebro",
       "sources": [
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTGFpdGl4VHUtNkxOMmdHc01fSjFNLWFCdHJtTHBqdURpYVZ1UTRNSW9QZlNnc1NvR1dyaG5xOEtRMFZKaUEwMUROUy12OVc1Rnl0Q3B1eU5GNGVDUTR5OGpfZzN1VFQ4SVBPUnNvX2ZMU3ViWHJOSzQyN2U0UEh2Y2xLaTJiUkJHbGVrZlVkZnlBNWJPcU1xRnJyWi1wTVdib2Y4WlprYWFkTDZaNl9PeURB0gG3AUFVX3lxTFBTeXdkczFQb01tSXJhYU5EcndOR3ZkTWRGb3hreHAyRWRXaUVaMXFDTi1nNTU1d2N5dExQV2JtSExNWDcwMEJvTlhDLUNhVGRiOUpIMzZuU01mbHFfd1A2b2EtUTFqZGhYTk5vbFpUMWpyUXhTdjFrMkxHX2dBdl9mUG1XUDFBNlo1d005S1dQZU1kWGxPR1NOS2NqeURyR0NZR1JNZ1M3ZG16U2xhdmd1Nm1kS1VRbw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7e858320143b",
+      "title": "Psicologia mostra que a solidão mais difícil no envelhecimento vem da desconexão entre identidade atual e reconhecimento social, afetando milhões - CPG Click Petróleo e Gás",
+      "published": "2026-05-03T19:31:00+00:00",
+      "summary": "Psicologia mostra que a solidão mais difícil no envelhecimento vem da desconexão entre identidade atual e reconhecimento social, afetando milhões&nbsp;&nbsp;CPG Click Petróleo e GásÉ essencial manter conexões sociais ativas a partir dos 60 anos para retardar o declínio cognitivo e o envelhecimento cerebral&nbsp;&nbsp;Tua SaúdeJJ: Solidão cresce entre adultos e desafia criação de amizades&nbsp;&nbsp;sampi.net.brEstudo determinou o efeito da solidão em pessoas com mais de 65 anos de idade&nbsp;&nb",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQcGtDNmVINkF3UlhlY0FwV0F5MmpNOFpicEdvdUhqTXQ5RFNXOGlJLTNZZjNnazdRZlBmd09ocmtGWG5EbkVvN1BtR0NxTEotQmotYm0zanRBS2YtczJ1NlFyQV9Wak5RZHNtUV9FbG9sTmRwWXZZcG9UMGMxQjNQbTBWbmM3Q05uY2VSeEV6NFNVX0E1S3VzeGk0ZlkwdF9QZHNSemtmSkYwLW53MTMwVGZ4NElkVmg2WFN1ekNQa1NteXpZWDhQYzhWREtkUzlEUXpnZ0V1dENTa1IxOVFZWk5zSnBLcGdiNUpwNS02QWxNUWJHbllmQ3h6ajgxR01sWWhmd1JmMjFJTzhEM2JXbw?oc=5"
         }
       ]
     },
@@ -33,7 +105,7 @@
       "id": "6a59093c8198",
       "title": "Com alta de casos de SRAG, RS decreta emergência em saúde pública e projeta mais 1,8 mil leitos no inverno - Correio do Povo",
       "published": "2026-05-03T18:26:45+00:00",
-      "summary": "Com alta de casos de SRAG, RS decreta emergência em saúde pública e projeta mais 1,8 mil leitos no inverno&nbsp;&nbsp;Correio do PovoRio Grande do Sul decreta emergência na saúde pública diante de aumento de 533% nas hospitalizações por influenza&nbsp;&nbsp;G1RS decreta emergência em saúde pública após alta em casos de gripe&nbsp;&nbsp;UOL Notícias\"Temos uma expectativa de abertura de mais de 1,8 mil leitos\", afirma secretária após RS decretar emergência em saúde&nbsp;&nbsp;GZHRS decreta emergên",
+      "summary": "Com alta de casos de SRAG, RS decreta emergência em saúde pública e projeta mais 1,8 mil leitos no inverno&nbsp;&nbsp;Correio do PovoRio Grande do Sul decreta emergência na saúde pública diante de aumento de 533% nas hospitalizações por influenza&nbsp;&nbsp;G1Com alta de casos de SRAG, Estado decreta emergência em saúde pública e projeta mais 1,8 mil leitos no inverno&nbsp;&nbsp;Correio do PovoRS decreta emergência em saúde pública após alta em casos de gripe&nbsp;&nbsp;UOL Notícias\"Temos uma ex",
       "sources": [
         {
           "name": "Correio do Povo",
@@ -42,14 +114,14 @@
       ]
     },
     {
-      "id": "cac3ca6b62e0",
-      "title": "Combinar exercícios aeróbicos e tarefas cognitivas pode beneficiar pacientes com Parkinson, mostra pesquisa - Agência SP",
-      "published": "2026-05-03T17:58:00+00:00",
-      "summary": "Combinar exercícios aeróbicos e tarefas cognitivas pode beneficiar pacientes com Parkinson, mostra pesquisa&nbsp;&nbsp;Agência SP",
+      "id": "2144e176b4da",
+      "title": "Quando a astrofísica chega ao SUS: pesquisadores desenvolvem tecnologia para evitar infecções - R7",
+      "published": "2026-05-03T18:00:00+00:00",
+      "summary": "Quando a astrofísica chega ao SUS: pesquisadores desenvolvem tecnologia para evitar infecções&nbsp;&nbsp;R7",
       "sources": [
         {
-          "name": "Agência SP",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNX0dsUDE1dHdNWkVSbVJCS2lhUVp3U0hNMUwzRDZxNnJFamE2U3M3ZVVZNHd0dkpEeVUwZjZ0aXRseVNSX0U2Qi11dFdnNjFSZWVjRDRiWjhTUEZzUWZUbVZIOGRIUmFkTWdWZ3JDV1dJNDFIR3BhOXByUXhtaVlYU0xONF9FTTQwWkszR0JfYmM3UDhWVDlpU3RtQzVkWDRuZHNkcFFfTWZtSHlZejNnZTgtSW14eE5jY2xkRDJpVVJxZ0dTOVNQWUk4MjJoSmUtaGlXYkVn?oc=5"
+          "name": "R7",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRWdHMjh6T0tvVDlwVEUwM0QtRFprYWRSaFA1UVVIeGo5bTdPcDBnTGpJWXpsNzVCZ1Nhc1JmSVZJdHpKS0JPeDdlWmx4RW5aZVZCNGh3dGd3VDJDWEJ0S3B1QmMyX053UG9fVk5WUkZfZlVUY0tpU19VZ0FHTjBVN0RkSFpSWjVpWEpwRkNObC1DZlhqQUZseEU5VEw1clJPb0JTbVl4bjhQTWVmSFpIUUpjTm5seHN0VTlRUkdRSHpFZ185cUZudnB4MnpIcDNkLXZUZWtZNjNheEE2b2c?oc=5"
         }
       ]
     },
@@ -93,35 +165,11 @@
       "id": "52d190107bf8",
       "title": "'Pessoas estão morrendo': primeira-dama de Salvador cobra resposta do Estado sobre dengue - Jornal Correio",
       "published": "2026-05-03T14:48:36+00:00",
-      "summary": "'Pessoas estão morrendo': primeira-dama de Salvador cobra resposta do Estado sobre dengue&nbsp;&nbsp;Jornal CorreioPrimeira-dama de Salvador faz apelo ao governador da Bahia após mortes por dengue em Uauá&nbsp;&nbsp;Edenevaldo AlvesApós polêmicas, prefeito de Uauá fala sobre combate à dengue no município&nbsp;&nbsp;BnewsRebeca Cardoso cobra ações do governo Jerônimo após casos de dengue hemorrágica em Uauá&nbsp;&nbsp;Se Ligue BahiaBahia registra cerca de 8 mil casos prováveis de dengue em 2026&n",
+      "summary": "'Pessoas estão morrendo': primeira-dama de Salvador cobra resposta do Estado sobre dengue&nbsp;&nbsp;Jornal CorreioBahia registra cerca de 8 mil casos prováveis de dengue em 2026&nbsp;&nbsp;Tribuna da BahiaApós polêmicas, prefeito de Uauá fala sobre combate à dengue no município&nbsp;&nbsp;Bnews“Não se deve transformar a dor de uma família em palanque”, diz Sesab ao rebater primeira-dama de Salvador&nbsp;&nbsp;Taktá No ARCasos de dengue chegam a 804 em Uauá; Secretaria de Saúde diz que já regist",
       "sources": [
         {
           "name": "Jornal Correio",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPR29BV2RUZldtVFZncUZMbzBmc0JWNjhkb1BmVGlqd3llbldQcGVPZVh6SjBFNm9rQzdKejVaMlFMdG56Wk82cVYwckdhMjR5ZWhwQVN5V19PbXZCTDJwS2NpZHVMOUt3YW5nT1U2b0JweGw1cjFQNTU0WVBIRUVHNFpueTVocUVRUUN1Q1VBTEtWR1ZMMXlCLU9SNDlybXduY1h4STdJSHFKRkVlY28xdzRPbWRRem9PVTF4VzM3N3hZNVVkclphZGc2ME5LSlhRMGtJ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ac1706c24e62",
-      "title": "Na madrugada de 28 de agosto, o Brasil inteiro poderá ver a Lua quase desaparecer no céu: eclipse parcial vai cobrir 93% do disco lunar e transformar a Lua cheia em uma meia-esfera escura, no fenômeno mais perto da totalidade visível no país até os ecli - CPG Click Petróleo e Gás",
-      "published": "2026-05-03T14:44:00+00:00",
-      "summary": "Na madrugada de 28 de agosto, o Brasil inteiro poderá ver a Lua quase desaparecer no céu: eclipse parcial vai cobrir 93% do disco lunar e transformar a Lua cheia em uma meia-esfera escura, no fenômeno mais perto da totalidade visível no país até os ecli&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPblhEaDIwSzdpcVN2RlhKaDIzaUJVdF92M0R6WkF3UDE4Qko2OWI5NHBndGVMVmdWcERhQ1h0Q3ZhdmNIX29HZHpmaHdocEM3U0JYVC1FcHk1MzBTSy1ENzJ6blhrSlBWcHNlazQwZW9JRlJmNTBBZzA2TGN4V1hZTFNxZnFqNWF6X05oMGpOWFFEOTljc2RqMk82QjJCM3F3amxwb0hFdHptNzJ5NjFnU3Z6WUwzNXdHSU01b1VXVGNOX25Qc1poMVRLejJWVUdxOWhaOFp2N0hnYlFrZDRDb19CcFdJOXpHLVc2TlU2aXl3d2lsTWk3ckJ4LUd6cWdMMHNxUGJZSmo5YVlFREJuS1U4XzBjQmFPekE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e137b64f662b",
-      "title": "Xenobots feitos de células de sapo não são mais apenas robôs biológicos; Agora eles também têm algo parecido com um sistema nervoso primitivo, e isso muda tudo um pouco mais - Catraca Livre",
-      "published": "2026-05-03T14:18:00+00:00",
-      "summary": "Xenobots feitos de células de sapo não são mais apenas robôs biológicos; Agora eles também têm algo parecido com um sistema nervoso primitivo, e isso muda tudo um pouco mais&nbsp;&nbsp;Catraca Livre",
-      "sources": [
-        {
-          "name": "Catraca Livre",
-          "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQVGEtRGJVU3NNbGh2akdVR0l2Y29vSW1IOElBZG56RkIyZnlfYXZxcGlYR1dFaTFBcjlVZDZMRUhlRUVqVVktbVNDRDY4dEdpb2JHd3FlVFkzTWZxME9zckFfSzhIaE94TnNVVlRJLWk0VkxhMV9TTGZQczBLX1dkcmtpVWRVX2NmZmxTZnl6T2w2cDNNQ2VEbUhkSUpPQ0JhRW8xQnNmTDFoMFc1N2hRamNpTGxrY3RfNFllZ1pHcm1rUzl5UHZueUw0Vy0wMlhBNEhkQzZQSklOTlZvRnBVOG1QSnR1WU9oV2wwenR5eUFqWGViMVlTMzNxQ19NcVVhME9JUGoxX1lyNVJuMk5NZVpvbnZkRkVNMXpjSnBLNWJnb3EwTm1tNjhTdWlpYXY2WGg0?oc=5"
         }
       ]
     },
@@ -138,14 +186,26 @@
       ]
     },
     {
-      "id": "c5f56d0a581e",
-      "title": "Rover da NASA encontra em Marte uma rocha com água antiga, matéria orgânica e possível assinatura biológica, e a descoberta reacende o alerta de que o planeta vermelho pode ter abrigado vida microbiana há bilhões de anos e ainda guardar rastros for - CPG Click Petróleo e Gás",
-      "published": "2026-05-03T13:14:00+00:00",
-      "summary": "Rover da NASA encontra em Marte uma rocha com água antiga, matéria orgânica e possível assinatura biológica, e a descoberta reacende o alerta de que o planeta vermelho pode ter abrigado vida microbiana há bilhões de anos e ainda guardar rastros for&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "id": "1bdaf5149e23",
+      "title": "Por que ficamos irritados ao sentir fome? Estudo investiga - Globo",
+      "published": "2026-05-03T13:08:38+00:00",
+      "summary": "Por que ficamos irritados ao sentir fome? Estudo investiga&nbsp;&nbsp;Globo",
       "sources": [
         {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNdXdGR1NaWGxNUmxuM0txWUw1blVuUGN2Q3hSMmNHMkxfemE3U3NrZC1nVkMxNXVkWm8tUlh6QS1LLTRPSFdGYV9wUGN5UUxmdEtBd0xWcExPbjFra0Fwd3hOX0VROFhoQzhqVGkteGJWWHNEcGdTRldUbW5ubEpMZHlFc0RFVGVqaEdtaFdvNHRvT3BVUzVXdmlpaDN1NU5sVk56SV9MQ0FsR0tnR3RobXRPM2R5UWVEYnh0eHFNTHAtMlJsSzVmalpJWnRpVXNJR09wYmVnci15S0hhM0pOTkhiZGhWVnlfaE9lRlJudmlqYWFCWXRPMkxvVVZyZHZpQk1FNmZLbHppb0NnWFdJZlNFRjh5TjBfUHJPOFFWOGN0NEg4ZUE?oc=5"
+          "name": "Globo",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTW13TTlQelBSWXlxOFBvXzE5SnVkT3JqNGdudXdEQW5vMk5kVGViRGtYaGNIeUpvLVJpQVB3cGhBWUllQ0FKNGJZdmVNWGNiR0U3NmVDejVuZ3VqdlR0LU9BUk5vdDQxSFhaX3JQQ2p3aEVOLW1fR0JIXzdZVjhXZ3RXVmpMeS1WNFhnUTVDdnhpR1Y1RWVxQkVYdldXSTVJSWNNbzZvR1NCbzAxRm93bU5EaS1YSWvSAcYBQVVfeXFMTVM5bThvX2pfVnpZYlYzeXR1VFpjQ0hLZnlCenBFSVF5dG82R0psbmtYakowSGtjd0JYOVJDeHBmNHZBeS1qcEx0QkNUVzJQajNPdUdDd01KejhQOHJIM2JyYk56T1dDYWQya1R2Yy1SREdVUXVNYVUtWGFmd18waUh0MHhRMDZLVFRKZWpWSVdueElWb2QzRy05bmZKM3ZNb0JtVkhsd1UwV2I3OWZJX1JubklxOFF6Vnh1TkcxNmJ2LVNrRnZn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5171c977263e",
+      "title": "Câncer de esôfago pode ser silencioso e letal, diz médico - FOLHAMAX",
+      "published": "2026-05-03T12:18:00+00:00",
+      "summary": "Câncer de esôfago pode ser silencioso e letal, diz médico&nbsp;&nbsp;FOLHAMAXVer cobertura completa no Google Notícias",
+      "sources": [
+        {
+          "name": "FOLHAMAX",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNazV2LXd0VVc2dDRtSkVvQTVOTjRxTVRIWFJYUmFwRXUzekFQb1dYU1g0MW5ydXZqVm5IcGYyX3dnRU9ucElsU1FMZFZUOWRDU3BMYTEya1FMODI0QmdaRk1zTmFqSGdsbTJ5UGRuMWFYeXZMZ09PNENGNGRMS3NLdFFzN2dFMEZxOGxkRVlmRnhqZWx6NTgzTTVKR3c?oc=5"
         }
       ]
     },
@@ -186,22 +246,10 @@
       ]
     },
     {
-      "id": "50f92eb6ea19",
-      "title": "Só ir à academia não basta: entenda por que o exercício diário não elimina risco de sedentarismo - Agência SP",
-      "published": "2026-05-03T10:48:00+00:00",
-      "summary": "Só ir à academia não basta: entenda por que o exercício diário não elimina risco de sedentarismo&nbsp;&nbsp;Agência SP",
-      "sources": [
-        {
-          "name": "Agência SP",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVEd6dGNPUWduYllmck4zb1NTcUhaTFd3ZldVdVZCekNxYkdBREg4WWo3emRFNFZRcEU0bkYzUEs0eXIyaHZiNldHaWZod2pHNlNRZ2stS0tud0lMS282RlRQZFJuOXZ3WnRwdGw2bmFsOVNib0kwb0E4elRyY1U1WmpuNGY2a2RobTVUWTgxOERIbHlvUW5PTUZXUlRKaDVSMklKbHdhUmoyVkc5OGlITmx6SGJTX0NIVmg1dnB0dVk3WnozZVU4?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2caa3ecd77d9",
       "title": "Combinar cardio com musculação é receita ideal para vida mais longa e saudável - Folha de S.Paulo",
       "published": "2026-05-03T10:00:00+00:00",
-      "summary": "Combinar cardio com musculação é receita ideal para vida mais longa e saudável&nbsp;&nbsp;Folha de S.PauloEstudo com 15 mil brasileiros comprova que atividade física é o melhor investimento para o envelhecimento&nbsp;&nbsp;O GloboNem só natação, nem só bicicleta: o treino que pode transformar a saúde depois dos 70 anos&nbsp;&nbsp;Super Rádio TupiAtividade física e saúde mental: os benefícios do exercício aumentam com a idade&nbsp;&nbsp;Tua SaúdeExercício físico realmente prolonga a vida? Estudo ",
+      "summary": "Combinar cardio com musculação é receita ideal para vida mais longa e saudável&nbsp;&nbsp;Folha de S.PauloEstudo com 15 mil brasileiros mostra que atividade física é o melhor investimento para o envelhecimento&nbsp;&nbsp;Folha de S.PauloNem só natação, nem só bicicleta: o treino que pode transformar a saúde depois dos 70 anos&nbsp;&nbsp;Super Rádio TupiAtividade física e saúde mental: os benefícios do exercício aumentam com a idade&nbsp;&nbsp;Tua SaúdeEu adoro musculação. Eu realmente preciso fa",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -249,7 +297,7 @@
       "id": "8d718934f89f",
       "title": "Obesidade é doença crônica - O Dia",
       "published": "2026-05-03T03:00:00+00:00",
-      "summary": "Obesidade é doença crônica&nbsp;&nbsp;O Dia68% dos brasileiros enfrentam excesso de peso e cenário preocupa especialistas&nbsp;&nbsp;R7Ministério da Saúde anuncia R$ 51 milhões anuais para ampliar Academias da Saúde em 451 municípios&nbsp;&nbsp;JCAgência de Comunicação - Personalização em alta: mudança de comportamento redefine o futuro do emagrecimento&nbsp;&nbsp;Estadão Blue StudioObesidade vai além do físico e requer acompanhamento psicológico&nbsp;&nbsp;A Tribuna",
+      "summary": "Obesidade é doença crônica&nbsp;&nbsp;O Dia68% dos brasileiros enfrentam excesso de peso e cenário preocupa especialistas&nbsp;&nbsp;R7Especialista paraibano alerta sobre riscos de adiar tratamento contra obesidade&nbsp;&nbsp;O POVO PBObesidade vai além do físico e requer acompanhamento psicológico&nbsp;&nbsp;A TribunaMinistério da Saúde amplia em 58% atendimentos contra obesidade na Atenção Básica em três anos&nbsp;&nbsp;www.gov.br",
       "sources": [
         {
           "name": "O Dia",
@@ -258,38 +306,14 @@
       ]
     },
     {
-      "id": "27dbaba314c0",
-      "title": "O cientista e as abelhas: pesquisa de cearense inspira decisões no mundo - O POVO+",
-      "published": "2026-05-03T01:37:00+00:00",
-      "summary": "O cientista e as abelhas: pesquisa de cearense inspira decisões no mundo&nbsp;&nbsp;O POVO+",
+      "id": "b2920c4fb7e3",
+      "title": "Bebê com vacina atrasada morre de meningite em Santa Catarina - TNOnline - TNOnline",
+      "published": "2026-05-02T19:18:48+00:00",
+      "summary": "Bebê com vacina atrasada morre de meningite em Santa Catarina - TNOnline&nbsp;&nbsp;TNOnlineBebê de 6 meses morre após ser internado com meningite em SC; dose da vacina estava atrasada&nbsp;&nbsp;G1Morte de bebê acende alerta para maior letalidade da meningite em SC&nbsp;&nbsp;MetrópolesBebê morre por meningite em SC e caso acende alerta sobre atraso na vacinação&nbsp;&nbsp;Rádio MiradorPapanduva (SC): Bebê de seis meses morre de meningite; segunda dose vacinal atrasada&nbsp;&nbsp;diário do esta",
       "sources": [
         {
-          "name": "O POVO+",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSmg4WXBtUkNJWWxJSVQzRGJkdXl4SlBHLWRVVzVVSFRPTkh5UkxXZGJERV96ZFpoT3JTcy1WQkRKYmhfNHotek5KSk5mZTh5X3pzc1REUHBQYUxUaVAwWXppcFlEVnFkX0dyMTFmUi1GNjl1THpFaHBKMVd4bXBROWgzWVR2VFRWSWdFR1h4OGNoZUFVWGNHS0hoa3gyNTk4NGx1am1RaXR1MXh5ZkJrdnN0NklPWE5QNld2dTFZOEt4MnQwenJ5NDNsLWlreC12SkE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "854e690858a1",
-      "title": "Morte de bebê de 6 meses acende alerta para maior letalidade da meningite em SC - NSC Total",
-      "published": "2026-05-02T22:57:00+00:00",
-      "summary": "Morte de bebê de 6 meses acende alerta para maior letalidade da meningite em SC&nbsp;&nbsp;NSC TotalBebê de 6 meses morre após ser internado com meningite em SC; dose da vacina estava atrasada&nbsp;&nbsp;G1Morte de bebê acende alerta para maior letalidade da meningite em SC&nbsp;&nbsp;MetrópolesBebê morre por meningite em SC e caso acende alerta sobre atraso na vacinação&nbsp;&nbsp;Rádio MiradorPapanduva (SC): Bebê de seis meses morre de meningite; segunda dose vacinal atrasada&nbsp;&nbsp;diário",
-      "sources": [
-        {
-          "name": "NSC Total",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYW5MZkRyRUUzQi13UmtiOWxiZTBkQmVWX0p4aFU2bFRPU3lCbUw5cy16OHpUV0prWTJTUVhjRXdkeVhGOUFFR0JhVkxLeGNEM3R0NllhWHByLXkxeFlJQmlIWTN0WXFST25EZHJ0MVpGbllSOFV4ZU5lQzNWTzN4R2dBOWNiTVA2aTZLeHcxZUtGNExlU0R1NnFJWkVYd0pVSUFNZlh0WmF6dzFNUlI4V0lRbXEzemc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9c40d8edeaa7",
-      "title": "Como é que a Terra se formou realmente? Um novo estudo levanta dúvidas - Meteored Brasil",
-      "published": "2026-05-02T22:13:00+00:00",
-      "summary": "Como é que a Terra se formou realmente? Um novo estudo levanta dúvidas&nbsp;&nbsp;Meteored Brasil",
-      "sources": [
-        {
-          "name": "Meteored Brasil",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSlF4WE1BYllDLWdCWHotVE16TEx3T0cybXJ1dkxvUTRZU3l5TXcycmt0WHZoVGhEQU9PVjlSU05UYU9SRDZZdlZLLUw4aW5YSkQ3QnRTd3MwTVhxNlIyb1JLVndSS3RpMWswTjRaWm9TMGRnUnEzWWRIcDNiOVJ5SVNWZ1dsOV93elhKRXQwb0VKUDg2TlBGQ0FuRWdkN2M3VXMxY21yQUR3LXNFUkFWZ2x4ZWhub3M?oc=5"
+          "name": "TNOnline",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYTM1WEdGSzd4LVd1SzZITTZOdXVkdzZoNFJDdXpIbi1TenZpb3JoYkx6bFhxVGVUN3M3VzluUmhnRjJRRV9tRnZSVU5vclNMV3dQQlo5VzJ5azYtS2VGRWZPTURYbXJVNUV1YzhSdGVRa0w5QTdGYVlEN0x4NFl4WlRqcTVqUVY5UGQtMEtCeE1TZndtZVliXzZ6bzZZVnhJQUVIMU5mQUFCbTVJTGVseDdUdFBsU0k?oc=5"
         }
       ]
     },
@@ -306,30 +330,6 @@
       ]
     },
     {
-      "id": "23cc280eb69a",
-      "title": "JCNET: SP amplia vacinação contra a dengue e libera Butantan-DV para 59+ - sampi.net.br",
-      "published": "2026-05-02T15:43:09+00:00",
-      "summary": "JCNET: SP amplia vacinação contra a dengue e libera Butantan-DV para 59+&nbsp;&nbsp;sampi.net.brPrefeitura de SP amplia público-alvo da vacinação contra dengue; saiba mais&nbsp;&nbsp;CNN BrasilSão Paulo amplia vacinação contra a dengue; veja quem pode se vacinar&nbsp;&nbsp;InfoMoneyCampinas amplia vacinação contra dengue para profissionais da saúde e pessoas de 59 anos&nbsp;&nbsp;G1Jundiaí amplia vacinação contra a dengue a partir de 6 de maio&nbsp;&nbsp;Prefeitura de Jundiaí",
-      "sources": [
-        {
-          "name": "sampi.net.br",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUlZzUWxkMUVVel80dHh3d0FhVmxZd1pQSFI5UXpXUk9KaG0wb0Z2QUdUNHRjV2p3TGNTZ3FXVlQtTzZTYjkweWVfbUczRmhGRWsxLUZwMFFVMEVBRTBnamV4dUJhNVNiMVlsZnMtN1A0d3ZlR20ta0hCNE8tYmo4OGJ4Zlp0LS1pbHNCUmlUUDRkWGtOX01Xblh2VXMtNzIwTzhPUDNJZ0w4aW5pa0g5cGJRLVVSMTctRFl6ajNHSlo4dkhnSy1YZkFn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "384456ce15e8",
-      "title": "Creatina deve ser tomada com água fria, quente ou morna? A ciência revela a melhor maneira de obter o máximo benefício deste suplemento - O Globo",
-      "published": "2026-05-02T15:37:17+00:00",
-      "summary": "Creatina deve ser tomada com água fria, quente ou morna? A ciência revela a melhor maneira de obter o máximo benefício deste suplemento&nbsp;&nbsp;O GloboCreatina é benéfica para o corpo e a mente? Veja o que a ciência mais recente diz sobre isso&nbsp;&nbsp;O GloboComo o consumo diário de creatina, mesmo por quem não treina, afeta o metabolismo cerebral e reduz a fadiga mental&nbsp;&nbsp;Tua SaúdeCreatina: os benefícios que vão da mente à longevidade&nbsp;&nbsp;Bem ParanáCreatina: quem precisa s",
-      "sources": [
-        {
-          "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQRWp4U0Etb2VWOUI3WWdRN3d1b0lzZEQtZWlqSU0yT216dFdOeFU4SVZMdHphRzFpSEVIZm5xSnFrcVZUb1p4V2doc01RMmNpUVBaaGJNRlZGRDI0a2N2clJwOVE4SkRla3N6cGU2Y3JRRkhUWmVvZDBrc3k4MXd2MU1QcTYwRlpyVnVhazZ5ZVg1dXNfc0dvbWZaalQ5UldZUUJuX1h0S3pvd0lVa1ZJaE5LeHYzOEhydW5tcEsteDRnckxwVFFSZzNKODVzY09iNXBWQkpRZ19ITUtneWFnU1hOSE1RQ2NnS0xoVXoxZGpmMThuS3gtRnBZR1VaTTZXXzVUdlp3Z2IzQThvelJlMF9TVTNhd3JsUUR30gGqAkFVX3lxTE5lTmxzajR2QWxEaWotWkFWbC1DS1AtNTR6UDE0eVVOSG1Hd0JZYTJBXzRmb04xN2lVc0Q0dUhDeXA2MUlVY3MwTDdiYmREcWZaWFhPdkVuNTVzUXptYXhKMlhtclgxa0ZCM3FnVlpScmczZHA1THJDOWd5b1N4T0hUYUxDQUI4azlCd0Jvc2NXaXYzeEFkQzdDRFU2M0xpbU83VXUwLVhYQnRWOFNVZFNPcTJuQnA5Zk54ZVllVlpGZlJkMGI2azgzcjNHdlBZd2hOdVBPOXdQOURSWjRZTzlnQk1IdlYzakZvaWUxWlNSQ1hiX1dnZ2lpUkZUUFBIVmI3Z0ZlU2Nxb2lGdERMX0RTMUJ2bi02Z2Ftb25ZVzVsODFyekJ5ZDJmU2c?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9c8543027a59",
       "title": "Morte suspeita por hepatite A é investigada em Juiz de Fora - Tribuna de Minas",
       "published": "2026-05-02T14:57:52+00:00",
@@ -338,42 +338,6 @@
         {
           "name": "Tribuna de Minas",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU21PbjZkQ2NfeVBEcXlXXzR1MkpHYkxIVlF4UXAzeFl5bjc1eTFGWWJQcUhZY0FVZ01jTWJVOTFYOVFRc1lrSUdDREVRR2EyUnFDQnU3V2czcFJONWJoakprVXpJTDlYcTdmaks3RXBHUFpabTl2MDBiNW1VNmxDbGxlM0tiMGZwRloyRjZUSmpwR3h2dzlLTC1JX3I1UndmUHc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3dda3804f1d1",
-      "title": "Temporal na madrugada causa estragos e mobiliza equipes de emergência no Norte do RS - Sistema Província de Comunicação",
-      "published": "2026-05-02T14:07:11+00:00",
-      "summary": "Temporal na madrugada causa estragos e mobiliza equipes de emergência no Norte do RS&nbsp;&nbsp;Sistema Província de Comunicação",
-      "sources": [
-        {
-          "name": "Sistema Província de Comunicação",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONHlXcHhzRG1JZUd3NHVXQ3Q5azJCYlIwaG9zUEZzaGtrbWd1UHZnVlRHUEFWX2ZRM09jbkZzNGFBOWphU1I4bHF4b0kwUEFaMEY0T21kTC1YZ09LUHpFeEdvdmh3Z3NlaHdjRXpFTFZaTDhLYm55SHpsLWJPTW80Z3JoQndzVlJXTUJOQnc0VkRxTW5LWC1sRVcwaWY1eTlUS2hQYzlnNUUySnFyTW1YSl92NzNydUFyZWUxM000MVE1WVlnMVR4eHpR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7f19f3df7cd6",
-      "title": "Câncer no coração existe? Entenda por que tumores no órgão são raros - Metrópoles",
-      "published": "2026-05-02T12:15:51+00:00",
-      "summary": "Câncer no coração existe? Entenda por que tumores no órgão são raros&nbsp;&nbsp;MetrópolesPor que o câncer de coração é mais raro que outros? Estudo sugere resposta&nbsp;&nbsp;SuperinteressanteExiste câncer de coração? Estudo revela que o órgão possui uma barreira natural&nbsp;&nbsp;Rádio ItatiaiaPor que o coração não tem câncer? A resposta pode estar nos batimentos&nbsp;&nbsp;ExamePor que é que o cancro do coração é tão raro? A causa é surpreendente&nbsp;&nbsp;ZAP Notícias",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBQQmpWUHZEMlVLV01BNGZ1a3FIa2VPbllFelVqY0E3NFctQmJJb21NSjYtUmRBcnozazFuTThSTTRoMEQxck16XzNVX24xNFVmQzdQcU5TMDJJVS1namwyeE10YTdUcjNNRjFEU05zOEM4MWs?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ea31adeaf1b0",
-      "title": "O que o limão em jejum realmente faz ao fígado e à digestão segundo a ciência - Tua Saúde",
-      "published": "2026-05-02T11:30:00+00:00",
-      "summary": "O que o limão em jejum realmente faz ao fígado e à digestão segundo a ciência&nbsp;&nbsp;Tua Saúde",
-      "sources": [
-        {
-          "name": "Tua Saúde",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMGp6RFA0WnlxT0pQbmQ0ak9yM09ieXdHRTl2VzkxQXR3YlBQVlJZYjVhM2ZPZjd5V1RLY0ttS1VxbjF1UXJCVUUxaGNHQkJ6RXVGcnRfcEJFcWZFTlplaE42OWRZYUR1VHdnZEpHVVBHUG5LcVJuakxmQmk5aDc5dnd3NGp3TWY5Snl3M0N5REJvcG5VdHhkcEZRWDI0NlB0ZTJsVGNDU1RWUWY4Y0hUYkpUMlZvQkpYOEVJ?oc=5"
         }
       ]
     }
