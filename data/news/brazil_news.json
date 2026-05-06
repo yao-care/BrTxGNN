@@ -1,19 +1,79 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-05-06T03:24:51.678840+00:00",
+  "fetched_at": "2026-05-06T14:20:05.804565+00:00",
   "total_fetched": 90,
-  "unique_count": 88,
-  "health_related_count": 31,
+  "unique_count": 89,
+  "health_related_count": 30,
   "news": [
     {
-      "id": "a9b9344eb73a",
-      "title": "Simples hábito pode ser segredo para dormir melhor; saiba qual - ICL Notícias",
-      "published": "2026-05-06T01:09:02+00:00",
-      "summary": "Simples hábito pode ser segredo para dormir melhor; saiba qual&nbsp;&nbsp;ICL NotíciasSegredo para dormir melhor pode estar ligado a um simples hábito; entenda&nbsp;&nbsp;O GloboCardiologista explica por que ficar sem dormir faz mal para o coração&nbsp;&nbsp;MetrópolesSono revela ‘idade cerebral’ e pode indicar risco de demência, sugere estudo&nbsp;&nbsp;VEJAComo tratar a insônia? Especialistas indicam 4 hábitos para dormir melhor&nbsp;&nbsp;Rádio Itatiaia",
+      "id": "745d410e59a7",
+      "title": "Cientistas registram pela primeira vez abertura de placa tectônica na costa do Canadá; entenda - O Globo",
+      "published": "2026-05-06T13:16:58+00:00",
+      "summary": "Cientistas registram pela primeira vez abertura de placa tectônica na costa do Canadá; entenda&nbsp;&nbsp;O Globo",
       "sources": [
         {
-          "name": "ICL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UNXdDUlByR3cwX1ludkZHbkZrNkV3ZXpzWi0zc3NHWVA3TFhiMUlFOGFnSlIxM2JsTzlpRmJ3djk3U0ZoZE80dk5PdmFHdjVYcmJ6UjFpYjU3eUlyWUVCY0dvTUpXQ2JpVTJR?oc=5"
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOWJKTnJ3VS1WczdjRU9WTFcxdWNhUFh1M2VYbE5YazE3dFBsdS1ObHhoTzk4TmVFNGp3NldMLUduMV9KeF84ZjNDMFl4bHVaNFFnZktScVZ0NW8xLXJ5S0hBMXJCNmdmWXR6TC1scTkyUFhVMHZwV2FvS2dBcGlrVS1BQ3VfaHdHWU81T1R1UGRaNHlCa3hxMThkTUxzcjRKWDQ0Q3ZnZXNDb0VjRlRzQTd0WHRSaVF0eFpET0hoT3N5cUYxMk9mODgzcE9USlFHM09QLXlsbEFYSGI0Q1ZpWG9qUWhld0RlSHpoV01wYVPSAf8BQVVfeXFMTlVtakdscmpVOEtXbjR3UmQxT2xiQXRQZjdkakd5RFQ3cG5DRk0wS1h6WDVXVHdBN21hZGEyM1JhenlrMFhEQWV5eEs4ejhPMEZhYkpCZ2V1Z2lOdTRlbWpmV0M0ZlZfX29WZy1qelgwQ2V2c3NPb2tGTFN6cUVkSzlscUV6bU92OGd4N2VCU01YTjJYTXl5amNjMU9EdHZQWGFyVVNVYnZUVXgtcDFJLVd4TGpmWDg4c1d0bmtlZ1lZcUNlUjRTTURQU1VvM0wwR2dWNk9kbHY1RzdLOVA3YzZCZ3BOelpmZDRaOVlVTndXTE91Tll0Um1SYjhhQ05Z?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "859e40ad006a",
+      "title": "Físicos medem hipótese de “tempo negativo” em laboratório. Entenda - Metrópoles",
+      "published": "2026-05-06T12:00:59+00:00",
+      "summary": "Físicos medem hipótese de “tempo negativo” em laboratório. Entenda&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYVlvMFM3UEgyaVNvZ3ZnOGpvNzV1RnBCcWp1VnViNXBfdHFzY19DbkJMM3VZOHlXaG5Ob3Y3XzFMSWFuZVJjXzdHUU9TSF9xNzBOZWhLVWZYLVByN1c5ZU9iQ0JqcTFibU82TGNHeGhIeS10VlZiaTJXSkk4YnpBOVgtaVg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "69b4a077601f",
+      "title": "Câncer de intestino é evitável? Entenda a relação entre a doença e a dieta - UOL",
+      "published": "2026-05-06T08:30:00+00:00",
+      "summary": "Câncer de intestino é evitável? Entenda a relação entre a doença e a dieta&nbsp;&nbsp;UOLHábitos podem evitar 30% dos casos de câncer de intestino; veja quais&nbsp;&nbsp;TerraObesidade na adolescência acende alerta para câncer colorretal precoce&nbsp;&nbsp;R7Doenças intestinais exigem atenção aos sintomas&nbsp;&nbsp;J3NewsCâncer colorretal avança entre jovens adultos e acende alerta&nbsp;&nbsp;diariodopara.com.br",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQc3BJeUFfWlFyVF9fX0Z0WXlLNVZISnJzVkF1d2xYelNuSjR4Q3N1M0FZTFczQkhGVkdNbjRhTk5XdG5ycEJaUTR5QVBfV0lsazFITzE4b1Axc2FRX2dvLXl5dmxab1hVY28yTWd1RUVtaHFhLXJ4R29LcEhJSVM4WTM1UEtRQkxEYU8yX2F0Z1czZHJGbWtZV0lwbW8zV1d5Njd5RjZrRW9xaEU1dzF0OXRWVHRGS3pCQWNCRHVQbDRUeDFBcWN4SXBacTMzSDBEZDlN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a8712b167d92",
+      "title": "Qual é a dose ideal de creatina? Veja que a ciência diz sobre os efeitos no corpo e na mente - O Globo",
+      "published": "2026-05-06T07:02:20+00:00",
+      "summary": "Qual é a dose ideal de creatina? Veja que a ciência diz sobre os efeitos no corpo e na mente&nbsp;&nbsp;O GloboSuplemento famoso de academia vira aliado contra o estresse e a fadiga&nbsp;&nbsp;NSC TotalCreatina faz mal para os rins? Especialista explica se existem riscos&nbsp;&nbsp;TerraComo o consumo diário de creatina, mesmo por quem não treina, afeta o metabolismo cerebral e reduz a fadiga mental&nbsp;&nbsp;Tua SaúdePara que serve a creatina? Estudo revela benefícios além do músculo&nbsp;&nbs",
+      "sources": [
+        {
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQT2VDNEdrQzlCc2I4NEFyZGxqMGVFcXlhT0JoV2pIUEl1VEd3Q0hHYlFmbWVNcHIySXBoVnRfMGtDQlZXOEFBNnJwUzNJZXhXTVo3QlZ1RmJMWEhCMUg4WEFseWlFUWxobmpKd0tXaF9HbnFTd0ZKdmRqcHZpT1F0dzVJSUZJR3JEMy05MjJvQUp5bHRHdmRtczREc3NQenlGNkhyWmxEV1l5U1c5MTdMcW4zcmgwRTYyUWUzblgybnU5ckNWektRVnFyTmlhWXktRVBiVmlZYUNPMVBCNjRjYdIB7wFBVV95cUxPa3E3U00yYzh5Uk9WdU5raHZ5X0ZiNlJrTXJ3SGJXY1dnMTJlU3BGN1ViMGhCMm94Z0hDX09naEtSYzN5QVBqd21IaHpNOVp2eXRibGx4ZHFmaG1BLU01MV9aWW1pOHp5aUVxVGpDOWE2X2FBalhIVVhac2NtOUdRM012VG1ycEw4cTZwa1FuZUlGa19Db3BsZUVYSlFUUXRGYzg5aERPeFN1d1dFeUo0TENEeG00MlhjXzI2QWxPQUlRY2ZESU40bU1sQmlqaEpCQW1IcG4zeDktR0tiQ3VDTVR6SG5xUHhOUkNTRmZTZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "90b563a3f240",
+      "title": "O que ter um bem-te-vi no quintal revela sobre o equilíbrio e a saúde da sua casa - Jornal Correio",
+      "published": "2026-05-06T00:31:30+00:00",
+      "summary": "O que ter um bem-te-vi no quintal revela sobre o equilíbrio e a saúde da sua casa&nbsp;&nbsp;Jornal Correio",
+      "sources": [
+        {
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZklDUGlnckdDdmN3VG1PeUV2VENCY0EzUXMxSjNQT01sbXFfM3pFcWthcjVxT3pUYjM3U3pPNVZBdVZUZDdyN0N6TW5zV1VCZEYyek8xYUoyZFdDd3djQUh0T25VRnpvS2FOTUk1TnhzeDhTWms2X2cyMGtSV0xOWEVCZVN3QWxIcGJGX1RCYVpMMUsxZjZuVm1BTDZITURINkRxQjBBaUc4QnA5RFdCYmVDbHBLLThvdzNWM0Y1QWphWmVuWnow?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4738d03748a9",
+      "title": "Cientistas acabam de encontrar uma nova família do magnetismo, e essa descoberta da física fundamental pode abrir caminho para memórias mais rápidas, sensores avançados e eletrônicos que gastam menos energia - CPG Click Petróleo e Gás",
+      "published": "2026-05-05T23:52:00+00:00",
+      "summary": "Cientistas acabam de encontrar uma nova família do magnetismo, e essa descoberta da física fundamental pode abrir caminho para memórias mais rápidas, sensores avançados e eletrônicos que gastam menos energia&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWXB5UUNpWFFnb0xFSUtsdmtZLWV4dUFrMDlmN0NsVGxfWGZLQXN0bUFJd200V0lQeVJEcFdVbm9jUGlzSE5LT19MTXFHNUlleU5kcnF5bE9sNFZNMF9Nc2ZnRE51V1NDNWhoN0RIZi1HWVJMQTNYcC1yZXprT2tEZFNJZDhZRXlLZ2FpdXM1cEpzczUtSWlib0p2dUVVRkxFa1lJSTY1R1ZRZUJqR3VfcVNUNUs0VWV1ckd0Ti1naWdrODFqVS1WeXVEQURhTGVCQmJFWDRVbHRrUQ?oc=5"
         }
       ]
     },
@@ -30,14 +90,14 @@
       ]
     },
     {
-      "id": "f57604b2afb3",
-      "title": "É 'improvável' que surto de hantavírus em cruzeiro tenha surgido em Ushuaia, diz autoridade - Folha de S.Paulo",
-      "published": "2026-05-05T23:25:00+00:00",
-      "summary": "É 'improvável' que surto de hantavírus em cruzeiro tenha surgido em Ushuaia, diz autoridade&nbsp;&nbsp;Folha de S.Paulo",
+      "id": "c80234462e70",
+      "title": "Estudo revela as rotas de um barco romano afundado há 2.200 anos - BM&C News",
+      "published": "2026-05-05T23:14:27+00:00",
+      "summary": "Estudo revela as rotas de um barco romano afundado há 2.200 anos&nbsp;&nbsp;BM&amp;C News",
       "sources": [
         {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUllwZWNrakdDQTNXY0NnYzA3NFlnRk1BeU1zMmxDRF9ualBGcy1ZUTBRWENudGhNRnlHamlwaXhCZ1pkbVUxSmxJSjdWbzlPUGpkakIyZ1FuS0lGUW9GeTJyNEVSdlVsbndGdFdHTTdLaTJyN29ZZnhMZFFjV2VGLW5kbTdXdHF5SHZaNktJZUg3TUdJb3dQeU1wWnZlbGRwWVVUU05tRV9IMDM1M3M5b3JSbXIxUjR4eW14VEhGSWg0TlJwUnAzLU1ZTTBkbUJxY0VaVDFMUHFaNUpsN2JzUkd1Z9IB6AFBVV95cUxNb19lN3FRbXFOZGd2eG1RRVg2Rk5QQVdCeHVTak1zSmRtenNZS0FOd29XcjVqODMxVFlSVG9NVlBZTGNldk9xaHdub1Rvcm1UMzhhYXRHTW1GVmV4bDhpTmJwUVpJR2E1QUN0Y0xPN2E5akczZ1R6bDByN3dCUzB3RlY3bHdjalpfM1pMVDN0VVdDbEgzZWIxclllcW9FVEN1MHRHZ2F4SFIwOC15M0wwd09vYkEyOEgzY2RuVmRhdS1JMXFiNXhvdzlacUozLXJmN1NlZGIxbnZORVBNLUhNQUZIb3ExOGZY?oc=5"
+          "name": "BM&C News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONVA3R0RPU2pCekE5bU9NTGhJQTU2dF9GVTJSSVJ5Q09NdDNBRzhaTTYyNDJNdDdhY2IwSG9pbjktRDlxMktLRzRLZzA5MHMyRzFWMDlHaFkzRUYyMDE1YzZzZUxCdmlXTWx2Rm5iSGJCcjBGVkV5ck1NQnlmZmdWajFaNXh3VXhhSXQzRDcwaUJkdnRGSTl3MFZudUtDTnVzTXZmamN0azg?oc=5"
         }
       ]
     },
@@ -57,7 +117,7 @@
       "id": "07b37879af64",
       "title": "Estudante com meningite buscou atendimento três vezes em VG antes do diagnóstico em Cuiabá - vgnoticias.com.br",
       "published": "2026-05-05T20:45:00+00:00",
-      "summary": "Estudante com meningite buscou atendimento três vezes em VG antes do diagnóstico em Cuiabá&nbsp;&nbsp;vgnoticias.com.brAluna de 11 anos é internada com meningite e escola passa por sanitização em Várzea Grande (MT)&nbsp;&nbsp;G1Mato Grosso do Sul em alerta: 8 mortes por meningite&nbsp;&nbsp;Campo Grande NewsSobe para 32 o número de casos de meningite em MT; Cuiabá lidera&nbsp;&nbsp;RdnewsPL cria programa estadual de prevenção à meningite&nbsp;&nbsp;FOLHAMAX",
+      "summary": "Estudante com meningite buscou atendimento três vezes em VG antes do diagnóstico em Cuiabá&nbsp;&nbsp;vgnoticias.com.brAluna de 11 anos é internada com meningite e escola passa por sanitização em Várzea Grande (MT)&nbsp;&nbsp;G1Mato Grosso do Sul em alerta: 8 mortes por meningite&nbsp;&nbsp;Campo Grande NewsSobe para 32 o número de casos de meningite em MT; Cuiabá lidera&nbsp;&nbsp;RdnewsEscola estadual confirma caso de meningite bacteriana em VG&nbsp;&nbsp;vgnoticias.com.br",
       "sources": [
         {
           "name": "vgnoticias.com.br",
@@ -78,26 +138,50 @@
       ]
     },
     {
-      "id": "7ba443d0ee91",
-      "title": "Estudo pioneiro revela que o coração humano pode regenerar células musculares depois de um infarto e abre caminho para uma nova era nos tratamentos - CPG Click Petróleo e Gás",
-      "published": "2026-05-05T17:25:00+00:00",
-      "summary": "Estudo pioneiro revela que o coração humano pode regenerar células musculares depois de um infarto e abre caminho para uma nova era nos tratamentos&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "id": "a9b9344eb73a",
+      "title": "Simples hábito pode ser segredo para dormir melhor; saiba qual - ICL Notícias",
+      "published": "2026-05-05T18:11:27+00:00",
+      "summary": "Simples hábito pode ser segredo para dormir melhor; saiba qual&nbsp;&nbsp;ICL NotíciasSegredo para dormir melhor pode estar ligado a um simples hábito; entenda&nbsp;&nbsp;O GloboDormir demais faz mal? Dr. Kalil conversa sobre tempo ideal de sono&nbsp;&nbsp;CNN BrasilCardiologista explica por que ficar sem dormir faz mal para o coração&nbsp;&nbsp;MetrópolesComo tratar a insônia? Especialistas indicam 4 hábitos para dormir melhor&nbsp;&nbsp;Rádio Itatiaia",
       "sources": [
         {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNbERYaUppdUtYVmoxMUphSlpiTlZBYmZIakV5eXEzeER6aC1vNmtNTi0tZV92UDZNMWRuWHNMTGM2Z1Z5MGNiSzdSM2h1NjJJaUw2VTFxcGprel9ER19tb2FsVXp3bzFMdnpoZVFjVEpMTWYwcEpoQW9lb1h4MHNkWVNtT3NhX0hnSlFmOUdqZHVDSkFZN2hYTXBYeWRFWHdGUFNIYmpMMjNOam1feUdtYVYwTUM0VnlleUE2VUlhUEM2MGNIaE12Sm55T3JramFZWEJORkZRQWtPckM1b1pSVEJTNHJRYWV2LW1ZNzM0d3ZmQU1wMEhDZUhMYjBCa2NLeVBhcDZjWHM2ZG0zdTM4SmNEbXVoUQ?oc=5"
+          "name": "ICL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UNXdDUlByR3cwX1ludkZHbkZrNkV3ZXpzWi0zc3NHWVA3TFhiMUlFOGFnSlIxM2JsTzlpRmJ3djk3U0ZoZE80dk5PdmFHdjVYcmJ6UjFpYjU3eUlyWUVCY0dvTUpXQ2JpVTJR?oc=5"
         }
       ]
     },
     {
-      "id": "bd2c01738788",
-      "title": "Cientistas reprogramaram bactérias para filtrar metais preciosos do lixo eletrônico e o resultado chocou todo mundo - BM&C News",
-      "published": "2026-05-05T16:07:27+00:00",
-      "summary": "Cientistas reprogramaram bactérias para filtrar metais preciosos do lixo eletrônico e o resultado chocou todo mundo&nbsp;&nbsp;BM&amp;C News",
+      "id": "1d53c5423f5e",
+      "title": "Evangélico pode fazer terapia? - BBC",
+      "published": "2026-05-05T16:57:10+00:00",
+      "summary": "Evangélico pode fazer terapia?&nbsp;&nbsp;BBC",
       "sources": [
         {
-          "name": "BM&C News",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUWUyVUg1OFMyWXZiNXBQbl8tQ3NxU3ViUmp5ZDQ3U3BfQ3VReUhDNk1fRHRvYU1VSUNMV3ppR29MaFhPYkZQOEVJbW5ueGU0cGFuU3JrcW43WmlIZGV0QnpLNXNMZ1VNZFRYX3ZFbFJPOVp1X09MQ1hKSmpUd0dmQnYwTlExaEpuYU10c0FGSGQ0ZFZpZlNTZWVUSlA2ZVB1aG9UVVZTbVFIajJScjI5cW9RWG1ILUJYSkx5endpVHJiNkpfYTJoc1lhN3padjdNTVNDaWx6VU85bFkxajRiNDQ5SWItb00?oc=5"
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HVVk5QUJZeFV3blBRbXpNaEpDV1BnTlY2RmwtMUItZmhHa2xZc2FwOThzVXJ6NEdIV3dTSkVTRUlfMHFRV3k5VHVCaTdQOVdDc0V3Q2NGUDRtQWQ3MFZyNURn0gFnQVVfeXFMUEpXUk95RDJMcEs3V3Q3bE5EZ1RBYjdNOS1TaUd2OXdPQXNnM0JkUm5WenFDR3FaNUhLVnVlLTlBRFFsaFF6bVNrVkpORThDbTZmSEFaUzJQb0NXamN2UnZpdEVKNFhUUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4b69531103ba",
+      "title": "O que acontece com o cérebro ao comer um ovo por dia, cinco vezes por semana - Veja Saúde",
+      "published": "2026-05-05T15:36:32+00:00",
+      "summary": "O que acontece com o cérebro ao comer um ovo por dia, cinco vezes por semana&nbsp;&nbsp;Veja Saúde",
+      "sources": [
+        {
+          "name": "Veja Saúde",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQanI4TTBhWlhDZkxJY3A0cnNEWTNYc1dra3hLV0hYT1dROUhlQi1TYjROaXV2TTZUZXF2VWs4N01RZmlNS1lMSE1RZGd0TEkyYjJyRUdqcWtoY1FyQUdGbTVmbjVReWQ4aW9VNU9kVHZBWk9JUXZhZVVBUE1tNEdqWE5jS2RSeTgtT2hXb0V5eE1Hdzg1aUJ4ZjFRQnltdWFRT1FRZjFhOFdVSUdtSHJ5Q2cyZUJKdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7cbe0ad0fe4b",
+      "title": "Médico que operou Lucas revela desejo do meia após cirurgia, estipula prazo de volta e explica motivo da grave lesão - Avante Meu Tricolor",
+      "published": "2026-05-05T15:18:00+00:00",
+      "summary": "Médico que operou Lucas revela desejo do meia após cirurgia, estipula prazo de volta e explica motivo da grave lesão&nbsp;&nbsp;Avante Meu Tricolor",
+      "sources": [
+        {
+          "name": "Avante Meu Tricolor",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNT3pWa01MeU4tcUxtTjhsek02WWVzZEVocVRVcmd3N2xUb3hKZUg2V0ppSjNJakZKZEdrck44YUxRQkxEWWxXZ1pqTjh1eEJWZ3dzOGdIRXUweFdhOHYyMTNURzJsaG93bEdYd3BhT1hGeUNicU9kUEs3c3RBNmN6UTVLTEpwbDgtSWtoRjhBeGQ2M0dYajkxRnNxMWVNbzFnbV9iS0RXckV4RWdKVFNoRFR3SDlpaFdnNTZ4em1OaVJURDdpd21NTXlnNm9rLWJrNVJkdXpsMlB1bEJqSUJiUDFyeDB2RjBib0owb2d3Ymwzdklt?oc=5"
         }
       ]
     },
@@ -122,18 +206,6 @@
         {
           "name": "CPG Click Petróleo e Gás",
           "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPRlFDeG1sa3ZJT1hEMWtkcXlEUWJyeHJYTmRfT3QzaHAxY1lDVGozQ1FFZTZnYjR6bGhRV2NLNVRGWV9nSHRQSXpfUmE0UXlUNGVUT3c3eElPNEpiZjJRQlUyUDQ2T01RVWQxcjdKU1VHMlJCUHgxeU95QXAzNXYtNUsyaWdacGU1aDlEY0FpcVZJWUYtc1RjZk9FY1Vhc19tOGl3SjA3V1lwQ2lWTGZtS0FLTXNyOWNiblhtTlFFNlFKNlNSbElaVllDWkdacUx0dTZveWI4Z3B1akNqUWlZQ3lHcEl6LXRQRlU1ZkVnSnJ5dU1DZnktRTdxMlVlUzJjV0FFMUhSekN3ampfa2ZiM0ltdFBtYURFaFdBVjlVbXA1dEphZXZsQi1EZkdIX3M?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5ad1e7a51a38",
-      "title": "Surto de larva da mosca-varejeira deixa 2 mortos e 141 infectados - Portal iG",
-      "published": "2026-05-05T13:51:00+00:00",
-      "summary": "Surto de larva da mosca-varejeira deixa 2 mortos e 141 infectados&nbsp;&nbsp;Portal iGHonduras registra 141 casos de mosca-varejeira em humanos e duas mortes após volta de doença erradicada&nbsp;&nbsp;O GloboPaís vive surto de doença provocada por inseto que come carne de humanos&nbsp;&nbsp;Jornal Extra de AlagoasSurto de miíase em Honduras: 2 mortos e 141 infectados&nbsp;&nbsp;diário do estadoSurto de mosca-varejeira reaparece, deixa 141 infectados, mata 2 idosos e acende alerta sanitário&nbsp;",
-      "sources": [
-        {
-          "name": "Portal iG",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM2N2eC1zaTlISGpuWFFMNWxKTjh0SXM1LW9fTVdBQXBjOWJEYlkzODlwWlZkd28wbUNFNHJ5TUFmQk5LaENHaF82M0ZwNGtPbTBtbXVNMnVibl9TTlZFME83SHc4Ql9QX2lkbThpUVU2SzBTWThfaTJJRURad0xNaVFTWTVsNUJxVXlYT0FSU20xUF9pTVFvcG9JNkdxOFozbTNfX3F2a9IBrAFBVV95cUxNZG5FUDdyOEdvenRmMEhzeWcyTC1iajBkUWw1RjA5SnZmdXZna3J5djlZQXNVZHozLWUtNnZsVFZQLWFMLTMwbXc1SEk3d0E3OU9Wck1DbVJVRUwteHRpM3RQaFA2aE9RYTJqaE5ocF91SzNtUWVFWnpXVGxRRTFNYUZJWFBYVmlBMzY2dGEtSm95a0lDZ2t4ZkU2eDlweUl0MUE3cDF4eXlHeVV5?oc=5"
         }
       ]
     },
@@ -174,34 +246,10 @@
       ]
     },
     {
-      "id": "5263f9fd9882",
-      "title": "Estudo desvenda como surgiu a anomalia magnética que coloca em risco satélites sobre o Atlântico Sul - G1",
-      "published": "2026-05-05T08:04:03+00:00",
-      "summary": "Estudo desvenda como surgiu a anomalia magnética que coloca em risco satélites sobre o Atlântico Sul&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRE1ScUR3WDFpejVVUjNJRVk2X182eW1JLWotaEJERVEycE9xaHlMRElUZE11amJqOU55amtSNzdmbV9CTEsteXYxWC1YNFVMNFhWMVNlZC13WnJOWXpfRTlsUFNPOVpJanBvZ3RMX0F1bWRzYUdBMHhjQ09jb18yc3lJSWU0Z0lQSFNFc3k1LXFQeHFYb0FOcmJFVUVkcU1XdUZlT3pyS2FoTWR5cnd4b0g2TjVvSWJPQ0cwNlRHenB5c0NNbFFVVDUwSXFOVlNDMlRxZmhrUjhNLUhKN01URHNlNTlTSHdZTGfSAfgBQVVfeXFMTlFrUlhlcXZGOVVMR0xjUUhMNE1xRFQxdm1XY3doa084eVFtZVNjd2RxNEROU08tUUQxaFU5LVB0dXlrS1dYZDNVNFhOWW5rRU4wVnhLSG52NmFUa2RZeHRsZ2V5M2I0bk41VG1VckZkMDNKZGZBMXJ5MGN6T1dXWkNla2F3SkhKaDlFdlpqNWtid3dIR0JmaTBqTFJOS1c0ZGdQOWxtTkU4aGFYdVVxU3Iyc0JxNTJRVDNHUnVncmJUT2lXQmhmQ2hXWjhPUlNMZ2JaVi05U1ZLTzNwWGJUZklzS1FVMVQxck5WdXhERUR0WFh2VWI2V3Y?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5332f23900f8",
-      "title": "'Legalmente Loira' da Nasa é brasileira, pós-doutoranda em astrofísica e pesquisadora de exoplanetas - G1",
-      "published": "2026-05-05T08:03:42+00:00",
-      "summary": "'Legalmente Loira' da Nasa é brasileira, pós-doutoranda em astrofísica e pesquisadora de exoplanetas&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSWRiREFfUW1LNFJ0cVktUXRRM2Q0NmY5N0pzWmNEUlUtS1NHOWVWOUphWEY3QThmaU9Jei1oN3hDU25aaFFkWndZY2FGVUVWT3RHMExHRDdjSUxPOHRjZTBsSUNHMVY4QUNHdDk0ZW1abGdIR29wcUZuOG5hdVBuRVVLRXlJTTRNQ3BJcGxZVFkzZmZwTVFZa1BzLWE5VE9oV0toeGhLbHU5RjFYTHNieFJnMm5rQnpjdDdZb1BPVnpkWmpFOHFkY3laTjZNcFVFanU4UGpSR3BNRC1sNWl0eF9DUFhDTTjSAfYBQVVfeXFMT2RDRFMzY2V2eEVEMm1YSHpiWjBpSGFacWlIWi14VElwaXl3MEc2YW1Hc3hQYW8tRjJsS294ckk5bFNUTk9FQ0QtTW5RUHRQejhfcmlFdFFXc1hmTG5sazQ2SWNmVWo0WEUxa3REYTZqbktGcHNsREx2U24ybmsyQVJ1amZET0UtaGR6ZFVsalRneE9FclVDQTFBbHJSNllOQV93em9xR1hZa1U0S2Rybk5Ic2hjZUZVQWhNNV9IbDloYVlYQ21ZMmY2ZVVwalp3bEZqRWQ2ckNaMlVsbXF6Y2hlbWE1VzlTT3NLdXdJM2hpYmFpSlVB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5bd679aba469",
       "title": "Vai um cafezinho aí? Cientistas descobrem como bebida age no intestino e no cérebro; entenda - O Globo",
       "published": "2026-05-05T07:02:14+00:00",
-      "summary": "Vai um cafezinho aí? Cientistas descobrem como bebida age no intestino e no cérebro; entenda&nbsp;&nbsp;O GloboCientistas acham novo benefício do café ligado à saúde do organismo&nbsp;&nbsp;MetrópolesCafé: Estudo internacional descobre benefício improvável da bebida&nbsp;&nbsp;Revista FórumEstudo revela que café reorganiza bactérias do intestino e melhora humor e memória&nbsp;&nbsp;O CafezinhoCiência descobre o que café realmente faz com nosso intestino e cérebro — é melhor do que pensávamos&nbs",
+      "summary": "Vai um cafezinho aí? Cientistas descobrem como bebida age no intestino e no cérebro; entenda&nbsp;&nbsp;O GloboOpinião | Café, memória e o desejo da prevenção do Alzheimer&nbsp;&nbsp;EstadãoCientistas acham novo benefício do café ligado à saúde do organismo&nbsp;&nbsp;MetrópolesConsumir café: Nutricionistas afirmam que é benéfico para o segundo cérebro.&nbsp;&nbsp;Vietnam.vnCiência descobre o que café realmente faz com nosso intestino e cérebro — é melhor do que pensávamos&nbsp;&nbsp;Terra",
       "sources": [
         {
           "name": "O Globo",
@@ -237,7 +285,7 @@
       "id": "c75f66cacaec",
       "title": "4 hábitos capazes de deteriorar a saúde do pâncreas silenciosamente - Metrópoles",
       "published": "2026-05-05T05:00:00+00:00",
-      "summary": "4 hábitos capazes de deteriorar a saúde do pâncreas silenciosamente&nbsp;&nbsp;MetrópolesResistência à insulina: o inimigo silencioso que esgota o pâncreas antes do diabetes aparecer&nbsp;&nbsp;Folha PEResistência à insulina: inflamação crônica pode estar por trás do problema&nbsp;&nbsp;UOLUma das maneiras de identificar resistência à insulina é através do escurecimento da pele nas dobras do pescoço e das axilas&nbsp;&nbsp;Tua SaúdePele pode revelar os primeiros sinais de diabetes e colesterol a",
+      "summary": "4 hábitos capazes de deteriorar a saúde do pâncreas silenciosamente&nbsp;&nbsp;MetrópolesVer cobertura completa no Google Notícias",
       "sources": [
         {
           "name": "Metrópoles",
@@ -270,46 +318,10 @@
       ]
     },
     {
-      "id": "def9ffde8667",
-      "title": "UTIs ficam no limite em meio à vacinação contra gripe em baixa na maior cidade de SC - NSC Total",
-      "published": "2026-05-05T01:39:00+00:00",
-      "summary": "UTIs ficam no limite em meio à vacinação contra gripe em baixa na maior cidade de SC&nbsp;&nbsp;NSC TotalCidades do interior de SP enfrentam baixo estoque da vacina contra a gripe&nbsp;&nbsp;G1Com 1,2 milhão de doses aplicadas, Paraná reforça chamada para vacinação contra gripe&nbsp;&nbsp;Governo do Estado do ParanáVacinação contra gripe deve ocorrer antes do inverno, alerta governo&nbsp;&nbsp;Agência BrasilNota oficial – Vacinas contra a influenza&nbsp;&nbsp;Prefeitura de Jundiaí",
-      "sources": [
-        {
-          "name": "NSC Total",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNXNZVklpNTZxZEUtb2RXSV9VbVFmUlp4MGZNUEtfVjl5LVNZNnRnb2libkRERERONVVia3BVRlJTYmhUem5Rb0FCZUtJWXBya0lIdlVSN3Fqc1lqQ096enhzWENVWkZpWXhaa1d4dkNtSG1jamhEZU0wc0lmY2tpOWhBS05ZUTVNUmVJWjA5ZmxjZ1pDdGlaVjhudDQzYjQ3OEplVUx1dUc0ZDE3b1RNb0VGT0UwN0FPSS1OYWFB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3b85e03fc74c",
-      "title": "Caso raro intriga médicos após mulher entrar em remissão simultânea de três doenças autoimunes - NSC Total",
-      "published": "2026-05-04T22:56:00+00:00",
-      "summary": "Caso raro intriga médicos após mulher entrar em remissão simultânea de três doenças autoimunes&nbsp;&nbsp;NSC Total",
-      "sources": [
-        {
-          "name": "NSC Total",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRFgtZzZGcWtQQkltN0phM0FtUkVJbWpJNUhzY1VLZ3BfdU1SLWVOV0JnNUJSczZhSHIyVlBmeVJOd2NZZTBPLXo0c0xkdktISnV4TUFSZFZPaW9qVnZKREIwMVNqOThWSHFieXNZOWdQaXFRVS11UUlMQmE4ZEMwUVlxNEE3RElIQXFRdk1JbDRmdFdHaEswYXV6dHRNaUF0OVd5QzRiRTNkT0ppQ3VCbm5EcWszU2tFSU16YkpkT25ZUWo1YWR6TDl6bw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c5b7348700ed",
-      "title": "Cientistas acham novo benefício do café ligado à saúde do organismo - Metrópoles",
-      "published": "2026-05-04T20:39:40+00:00",
-      "summary": "Cientistas acham novo benefício do café ligado à saúde do organismo&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vVG1YUzN4NFhMVnZORDc5cVZEaFQ1WHBadDBkNVAtWGxibTA5MFlQd1lyWGNzU1BySVFsUWNhdXZfWlFlV1IzdGZHMUY5ZGQ0WE5qXzN0VkVtdGw0WGFzMDFoc3Brd3AzYjBqWlpmYmE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4cfd8f8b8390",
       "title": "Butantan vai produzir vacina nacional contra chikungunya - Agência Brasil",
       "published": "2026-05-04T19:53:00+00:00",
-      "summary": "Butantan vai produzir vacina nacional contra chikungunya&nbsp;&nbsp;Agência BrasilAnvisa autoriza produção nacional de vacina contra chikungunya desenvolvida pelo Instituto Butantan&nbsp;&nbsp;G1Anvisa dá OK e brasileiros devem se preparar para nova onda de vacinas no país&nbsp;&nbsp;TNH1Anvisa autoriza produção nacional da vacina contra a chikungunya do Butantan&nbsp;&nbsp;Folha de S.PauloAnvisa libera produção de vacina contra chikungunya no Butantan&nbsp;&nbsp;CNN Brasil",
+      "summary": "Butantan vai produzir vacina nacional contra chikungunya&nbsp;&nbsp;Agência BrasilAnvisa autoriza produção nacional de vacina contra chikungunya desenvolvida pelo Instituto Butantan&nbsp;&nbsp;G1Anvisa dá OK e brasileiros devem se preparar para nova onda de vacinas no país&nbsp;&nbsp;TNH1Anvisa autoriza produção nacional da vacina contra a chikungunya do Butantan&nbsp;&nbsp;Folha de S.PauloAnvisa autoriza Instituto Butantan a produzir vacina contra chikungunya&nbsp;&nbsp;R7",
       "sources": [
         {
           "name": "Agência Brasil",
@@ -321,7 +333,7 @@
       "id": "5b2a816ec658",
       "title": "SP amplia vacinação contra dengue com Butantan-DV; veja quem pode tomar - Estadão",
       "published": "2026-05-04T19:28:02+00:00",
-      "summary": "SP amplia vacinação contra dengue com Butantan-DV; veja quem pode tomar&nbsp;&nbsp;EstadãoSuzano inicia vacinação contra dengue para moradores com 59 anos&nbsp;&nbsp;G1Dengue: primeira faixa etária de cronograma começa a ser vacinada em São Paulo&nbsp;&nbsp;VEJASP amplia vacinação contra dengue para profissionais de saúde e idosos #shorts #JR24H&nbsp;&nbsp;R7Piracicaba amplia público-alvo da vacinação contra a dengue; veja locais que aplicam imunizante&nbsp;&nbsp;G1",
+      "summary": "SP amplia vacinação contra dengue com Butantan-DV; veja quem pode tomar&nbsp;&nbsp;EstadãoPiracicaba amplia público-alvo da vacinação contra a dengue; veja locais que aplicam imunizante&nbsp;&nbsp;G1Dengue: primeira faixa etária de cronograma começa a ser vacinada em São Paulo&nbsp;&nbsp;VEJASP amplia vacinação contra dengue para profissionais de saúde e idosos #shorts #JR24H&nbsp;&nbsp;R7Sorocaba amplia vacinação contra dengue e abrange também pessoas de 59 anos a partir desta segunda-feira (4)",
       "sources": [
         {
           "name": "Estadão",
@@ -330,50 +342,26 @@
       ]
     },
     {
-      "id": "4c88c26929b5",
-      "title": "5 alimentos ricos em fibra para melhorar o intestino (e a saúde como um todo) - Globo",
+      "id": "b6b82c2e19e8",
+      "title": "Caminhar, sempre - Portal Drauzio Varella",
+      "published": "2026-05-04T18:01:14+00:00",
+      "summary": "Caminhar, sempre&nbsp;&nbsp;Portal Drauzio VarellaCaminhada de alta performance: como transformar seu passeio diário em um treino potente apenas ajustando o ritmo&nbsp;&nbsp;ND MaisCaminhar após as refeições pode ajudar no controle da glicose e beneficiar o cérebro, apontam estudos&nbsp;&nbsp;Jornal da FronteiraA ciência diz: esta é a quantidade de passos que deves fazer por dia para perder 5 quilos num mês&nbsp;&nbsp;TNH1Apenas 10 minutos de caminhada já podem transformar sua saúde, apontam esp",
+      "sources": [
+        {
+          "name": "Portal Drauzio Varella",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOd0hOYTl4Q2xCd1QzdFUwTGJFZ1lQVnV2V3k2M0dxUjYwWUg5QTFSby0wS3ptajFiTjM1M3NxYko1aWRCOGlMOVc5UUc3MUJEa1l2MDVmTl9SaEkwcVVQYzFDMHA5SVhSRXhzX2VVVmlCMk9VdmdSU0JaMncwb3ZkSjRB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5e09531d248f",
+      "title": "5 alimentos ricos em fibra para melhorar o intestino (e a saúde como um todo) - Globo.com",
       "published": "2026-05-04T14:50:14+00:00",
-      "summary": "5 alimentos ricos em fibra para melhorar o intestino (e a saúde como um todo)&nbsp;&nbsp;GloboFibremaxxing: saiba mais sobre a nova tendência da internet focada no alto consumo de fibras&nbsp;&nbsp;Folha BValimentos ricos em fibra&nbsp;&nbsp;CPG Click Petróleo e GásFibras em cápsulas e em pó ganham espaço na rotina, mas é preciso atenção&nbsp;&nbsp;A CríticaA nova febre das fibras: trio natural ganha destaque nas dietas&nbsp;&nbsp;sic.pt",
+      "summary": "5 alimentos ricos em fibra para melhorar o intestino (e a saúde como um todo)&nbsp;&nbsp;Globo.comFibremaxxing: saiba mais sobre a nova tendência da internet focada no alto consumo de fibras&nbsp;&nbsp;Folha BValimentos ricos em fibra&nbsp;&nbsp;CPG Click Petróleo e GásFibras em cápsulas e em pó ganham espaço na rotina, mas é preciso atenção&nbsp;&nbsp;A CríticaA nova febre das fibras: trio natural ganha destaque nas dietas&nbsp;&nbsp;sic.pt",
       "sources": [
         {
-          "name": "Globo",
+          "name": "Globo.com",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOFI4TUpkQnp5VUJPQlEzUTY2NnZJR1BGTHF3cTluMG5aR2FQNGlTZDRfMWg1NHc1SGsxS0pVUlFSTFVDWmR2am9CS2l3MVc0R3A5bUMyM09uZm9TUWZYOERjaXJidVZrcWFSbm9mSU8zU0t5d21fNGp5eHl6NFprLUJvWUMyOGxTLTY5LV9EUndKMTU0WFlIUTVzVUVVT09ncWxvOXBRMzZUOXlTb280TXpsNjdkUkVJMHhXeEtoR1pSdXZmem5F0gHWAUFVX3lxTFB2ZWwwY3I2M0Uxel9rNi1lTEhiRXJlNEVWQ3ZzQUJ0Q21aMFpSWXlZR1dwTE9yS0c2Y2ZtTFN2em5lWGI0YlhoVUVqY1l1RksxYTFxdHNRMWp1OTlGeWxFQkd3UWI5ODIyaTYyeFJkQUUzT0k0Zm1jYVNQUGU5cGYtS1ZENEhNWXNpemg1QWtyVmhSaTN6SjVGMk9pdlZzTTlqWk1qbWRsOGZHREktWmd1TlpsMlIzYk5qTmdCYldTWVhjMlhMdWs1Wm9VbG9Xd1FkbmxXcUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8bf6c0ca5523",
-      "title": "Como as bactérias intestinais podem desencadear a perda de memória - Medscape",
-      "published": "2026-05-04T13:45:23+00:00",
-      "summary": "Como as bactérias intestinais podem desencadear a perda de memória&nbsp;&nbsp;MedscapeOs alimentos fermentados que podem favorecer o intestino, como atuam na microbiota e quando vale colocá-los na rotina&nbsp;&nbsp;Correio BrazilienseOs cientistas concordam: \"A inflamação intestinal crônica está diretamente associada ao aumento do risco de depressão&nbsp;&nbsp;Tua SaúdeSeu intestino pode estar sabotando o seu emagrecimento&nbsp;&nbsp;Tribuna OnlineIntestino é segundo cérebro. Os avisos da autora",
-      "sources": [
-        {
-          "name": "Medscape",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMFI4Ykpzc0tPZm1mZEZmUmlIU2dFa0YwaFBFYjZlank5SFpDWEVlRHR4TzRXQ0dQVmc4b3hDR0NWbG5NX19icktkSW9fMFBfbmdMT2tnUWNnSm1YV0wtTE1qcUM0M0NzMnhCWmJDSXJ3dHFad1d6dENqQzJvNThiQzFqTXMzeXdLTXZxemJoMXVsZHZrTUxPN2Y2dzNjMmg0RnVBU0FXQnJBdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dc6ce2dde8b3",
-      "title": "Uso de telas antes de dormir sempre prejudica o sono? Estudo afirma que efeito não é ruim para todos; entenda - O Globo",
-      "published": "2026-05-04T13:02:19+00:00",
-      "summary": "Uso de telas antes de dormir sempre prejudica o sono? Estudo afirma que efeito não é ruim para todos; entenda&nbsp;&nbsp;O GloboUsar o celular logo depois de acordar faz mal? Entenda o que dizem os cientistas&nbsp;&nbsp;CanaltechA falta de foco matinal não se deve apenas à privação de sono, mas sim ao excesso de luz azul noturna que bloqueia a produção de melatonina&nbsp;&nbsp;Tua SaúdeAlerta para os olhos: pequenos cuidados evitam grandes problemas&nbsp;&nbsp;Jornal do BrásLer no celular antes ",
-      "sources": [
-        {
-          "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPN0pSYUpoZkFFRC1hbEptaEM3Qy1HY010bUc3UkhqaU5YM3ZubTBSc1hTekw4UGE4V3planB4Umh0Qnh5T1l4VVJWenVBcU82QzZISUFLM25hV0gtcHljb1REREh6QjZRdWNFcDJvWjY2Yjh0SWtwdk9aS251Z1dTMFlBUDdFUC1JZHF2MW42NF9Qa2l0WkV5R1hfWGFrb3owUURjOXVnUkgtNkpueklfR09xeEJ6aXotcTFYT2g1SDdhLW50akFNQVZ0RGhCb0ZCMU1ISVpuLUFETlktcmRlUVgxYmx1WEpjR2pWdXUzNzI5eDVySWfSAYQCQVVfeXFMUE9pdUt4bGo1TE9ieXZSSVhRQnI0empZTTBmMEhEUjlXOGtkU2UzZ3Z0UmdheWIwNHdrZ0tudTVFam9uWElJUG1QRXlfRlRSYXp3ZWRIcWh3VTJUbmh4dF9xejFlY0MyMFJPalctbVJSN0NrdU04TGpBMG1DYVcxeENlckIzMDhBVF81YWhsaGRwNHo0eC1TbTQyQ2tyYzI4anh6c3VFNVNnNTVvUjdSTEExOFJHbW0wRFRCNERhZTE1MkdKYTNuVzF1aXFXUzhiN2dfTG1SRTVIOVJfcUpZbXVla2hNbENveTlYSVVrN3FlV2ZOWXVWeEJ3eEdNQ1pJQm9yQnY?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "705ba2ebb1ec",
-      "title": "Estudo com 15 mil brasileiros mostra que atividade física é o melhor investimento para o envelhecimento - Folha de S.Paulo",
-      "published": "2026-05-04T10:00:00+00:00",
-      "summary": "Estudo com 15 mil brasileiros mostra que atividade física é o melhor investimento para o envelhecimento&nbsp;&nbsp;Folha de S.PauloCombinar cardio com musculação é receita ideal para vida mais longa e saudável&nbsp;&nbsp;Folha de S.PauloEstudo com brasileiros mostra eficácia da atividade física para idosos&nbsp;&nbsp;MetrópolesAtividade física reduz o risco de mortalidade em até 25% e promove o envelhecimento saudável, aponta estudo&nbsp;&nbsp;Jornal OpçãoTreinar forte é suficiente para proteger",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWDR6VmZrRkRVQVB4b2JMeVJPcjVEWUVfZFdFcWkxY0VqbWxsbk9yTlI0a2JYa0E0ZEw4MFpRN2FHSGlhaVhERTh1WmFCbUR2S201OTFNQjZSUUZxWEtMMnRrbjc0NGZGX3ZqV2l3aFMwUkxSVzQ4QnZvN3NSMDdhSEhzOUtPbzM2WmdFWlh5NTNBUmwwem9XRVBONXctOTJLR3oxd24tWUFhMHYyVTdtekdGT29BUjlxSFBCMzVqRzE3RG1OSGs2Qm5UQzk5Mmo3d0tNTF8xWjBERG5SQW11aUtuQzVtakJFNGZNOEd5SQ?oc=5"
         }
       ]
     }
