@@ -1,10 +1,22 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-05-07T03:25:53.245452+00:00",
-  "total_fetched": 93,
-  "unique_count": 89,
-  "health_related_count": 32,
+  "fetched_at": "2026-05-07T08:36:36.196600+00:00",
+  "total_fetched": 91,
+  "unique_count": 87,
+  "health_related_count": 27,
   "news": [
+    {
+      "id": "9ea949ef0e06",
+      "title": "Ciência avança em tratamentos contra disfunção erétil além do Viagra - Diário do Centro do Mundo",
+      "published": "2026-05-07T02:39:03+00:00",
+      "summary": "Ciência avança em tratamentos contra disfunção erétil além do Viagra&nbsp;&nbsp;Diário do Centro do Mundo",
+      "sources": [
+        {
+          "name": "Diário do Centro do Mundo",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcXBldUpfZkprUzVVSFliQWdFRER4Z2ZvRVE5LTgxaEZtcGF6ZVZpN3h0NGs1NThlZi1oWUNfRkdfTGNDU0JlNVpCVlJsd1F5eG9RTUdHNXYydVFaY1FIZXNKXzRjcGtUbnkwYlNkV2VEMGJOM3NDczFTc1l2VVZENUFsamMtcXNaTi1CbkFRdGpQeHh1a2R1cTg2UEROU2dmWGlQaXFFU3hKS3ZyM3A0eExkVUtKVjQzLXhveA?oc=5"
+        }
+      ]
+    },
     {
       "id": "8e16925fbb6c",
       "title": "Pinturas rupestres de 12 mil anos encontradas na Amazônia retratam animais gigantes da Era do Gelo e revelam a conexão espiritual dos primeiros humanos - BM&C News",
@@ -33,7 +45,7 @@
       "id": "5c19b16ead5f",
       "title": "Após perder a esposa para o câncer, ex-prefeito Juninho enfrenta tumor na cabeça - Folha Vitória",
       "published": "2026-05-06T20:39:32+00:00",
-      "summary": "Após perder a esposa para o câncer, ex-prefeito Juninho enfrenta tumor na cabeça&nbsp;&nbsp;Folha VitóriaJuninho, ex-prefeito de Cariacica, descobre tumor na cabeça após perder a esposa com câncer&nbsp;&nbsp;A GazetaJuninho revela tumor na cabeça e possíveis sequelas após cirurgia&nbsp;&nbsp;Sim NotíciasEx-prefeito de Cariacica revela tumor no crânio e vai passar por cirurgia&nbsp;&nbsp;Tribuna OnlineTumor na cabeça: entenda a doença que afeta Juninho, ex-prefeito de Cariacica&nbsp;&nbsp;A Gazet",
+      "summary": "Após perder a esposa para o câncer, ex-prefeito Juninho enfrenta tumor na cabeça&nbsp;&nbsp;Folha VitóriaJuninho, ex-prefeito de Cariacica, descobre tumor na cabeça após perder a esposa com câncer&nbsp;&nbsp;A GazetaEx-prefeito de Cariacica descobre tumor na cabeça por causa de cera no ouvido&nbsp;&nbsp;G1Juninho revela tumor na cabeça e possíveis sequelas após cirurgia&nbsp;&nbsp;Sim NotíciasEx-prefeito de Cariacica revela tumor no crânio e vai passar por cirurgia&nbsp;&nbsp;Tribuna Online",
       "sources": [
         {
           "name": "Folha Vitória",
@@ -66,10 +78,22 @@
       ]
     },
     {
+      "id": "c44d86f395ea",
+      "title": "Mundo em alerta: vírus mais perigoso que a Covid-19 pode se tornar a nova pandemia de 2026 - TNH1",
+      "published": "2026-05-06T17:39:05+00:00",
+      "summary": "Mundo em alerta: vírus mais perigoso que a Covid-19 pode se tornar a nova pandemia de 2026&nbsp;&nbsp;TNH1",
+      "sources": [
+        {
+          "name": "TNH1",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcG5lc3VITU1WbFNuS1BSVU5SSFZCWHVnWmZMb1FMNEtwd210d21aaWJ6N09IM19mRmZySktydG5xb0tMakoxcDNXNEhFVVE0cUlJMDAyS3RoZUpKWHRTY0FXWkJZRFRMeElZT0pJSFM5MlhKMkUzcFVRZ3hWM2VHNXoxYkMxTjZpUXJ0QXFxWEEtRW4zejEtMTVIclJhR1VuR0c5MUdvSGxXWU1jMXIzTzFMME9iaUkwNnJ5aHpqdGZJMG8?oc=5"
+        }
+      ]
+    },
+    {
       "id": "5c3d7bdaa779",
       "title": "Cidade da Bahia decreta situação de emergência por casos de dengue, chikungunya e zika - Jornal Correio",
       "published": "2026-05-06T17:22:19+00:00",
-      "summary": "Cidade da Bahia decreta situação de emergência por casos de dengue, chikungunya e zika&nbsp;&nbsp;Jornal CorreioAlagoinhas decreta situação de emergência após mais de 1,3 mil casos suspeitos de dengue, chikungunya e zika&nbsp;&nbsp;G1Prefeitura intensifica vacinação contra a dengue em Alagoinhas&nbsp;&nbsp;Prefeitura de AlagoinhasBoa União recebe operação de nebulização para conter avanço do Aedes aegypti&nbsp;&nbsp;AlagonewsCidade baiana registra mais de 1,3 mil casos suspeitos de arboviroses e",
+      "summary": "Cidade da Bahia decreta situação de emergência por casos de dengue, chikungunya e zika&nbsp;&nbsp;Jornal CorreioAlagoinhas decreta situação de emergência após mais de 1,3 mil casos suspeitos de dengue, chikungunya e zika&nbsp;&nbsp;G1Carros fumacê apoiam combate à dengue, zika chikungunya em Alagoinhas&nbsp;&nbsp;Prefeitura de AlagoinhasBoa União recebe operação de nebulização para conter avanço do Aedes aegypti&nbsp;&nbsp;AlagonewsPrefeitura intensifica vacinação contra a dengue em Alagoinhas&n",
       "sources": [
         {
           "name": "Jornal Correio",
@@ -105,7 +129,7 @@
       "id": "db0d86a4c744",
       "title": "Vai viajar para a Copa do Mundo? Veja quais vacinas deve tomar - CNN Brasil",
       "published": "2026-05-06T14:38:45+00:00",
-      "summary": "Vai viajar para a Copa do Mundo? Veja quais vacinas deve tomar&nbsp;&nbsp;CNN BrasilPaíses-sede da Copa vivem surto de sarampo e elevam risco de reintrodução do vírus no Brasil&nbsp;&nbsp;Folha de S.PauloPCPR realiza palestra sobre bullying e segurança digital em escola de Londrina&nbsp;&nbsp;Polícia Civil do ParanáSaúde lança calculadora digital para auxiliar viajantes na prevenção contra o sarampo&nbsp;&nbsp;Secretaria de Saúde do ParanáBrasil lança campanha de vacinação contra sarampo para pr",
+      "summary": "Vai viajar para a Copa do Mundo? Veja quais vacinas deve tomar&nbsp;&nbsp;CNN BrasilPaíses-sede da Copa vivem surto de sarampo e elevam risco de reintrodução do vírus no Brasil&nbsp;&nbsp;Folha de S.PauloPCPR realiza palestra sobre bullying e segurança digital em escola de Londrina&nbsp;&nbsp;Polícia Civil do ParanáBrasil lança campanha de vacinação contra sarampo para proteção dos torcedores que vão para Copa do Mundo de 2026 — Ministério da Saúde&nbsp;&nbsp;www.gov.brSaúde lança calculadora di",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -117,23 +141,11 @@
       "id": "7edd5daba4b8",
       "title": "Alzheimer: consumo de ovos está associado a menor risco da doença, diz estudo; entenda - O Globo",
       "published": "2026-05-06T14:31:06+00:00",
-      "summary": "Alzheimer: consumo de ovos está associado a menor risco da doença, diz estudo; entenda&nbsp;&nbsp;O GloboO que comer para prevenir o Alzheimer? Veja quatro alimentos apontados pela ciência&nbsp;&nbsp;VEJAComo o consumo diário de ovos inteiros afeta a saúde cerebral e o controle do colesterol&nbsp;&nbsp;Tua SaúdeO impacto dos ovos na saúde cardiovascular&nbsp;&nbsp;Vietnam.vnComer ovo todo dia faz mal? Novo estudo revela impacto real no cérebro e no colesterol&nbsp;&nbsp;Fala Regional",
+      "summary": "Alzheimer: consumo de ovos está associado a menor risco da doença, diz estudo; entenda&nbsp;&nbsp;O GloboO que acontece com o cérebro ao comer um ovo por dia, cinco vezes por semana&nbsp;&nbsp;Veja SaúdeComo o consumo diário de ovos inteiros afeta a saúde cerebral e o controle do colesterol&nbsp;&nbsp;Tua SaúdeO que comer para prevenir o Alzheimer? Veja quatro alimentos apontados pela ciência&nbsp;&nbsp;VEJAO impacto dos ovos na saúde cardiovascular&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "O Globo",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUUxxZG0wYl8ycTJZMkhJWXZraE9UVHFldm16aHRzdkhIdWJrYnc2ZC1DNFVRRjFrbGJzeWQyQXhsdExwdGRwYzZ4aTF3dzhvY1pRVkdFelVndnBtUjBEaDk1ZllCbWNUZ1JqVktEcmZ1VXE3MlkxQlluWW9TVFYySmtiYU5JNTQzRjFDTmRMeHo2QVk1LUl0ZUFJeV83ZzJaLURxaXFnclVzN29FX2VkY2FQMURucHFqbXBtVWUzWjhiVlFmTnZBYXVRVmh0aFNHZmJWb2pR0gHkAUFVX3lxTFAybXcycURHWU1XNnhhT1ZNS19xdFpCc0ZsazFETFlsN21TNmVUaEFDaS1JMW1Pd2tjSGpubzJBSDlrVmpQbHZfNl9HUHYzQW9yVHJMTUhHMHl5b3BGUTdpU2k0VHVTRUN1WVVrY3l4SnBBaEExaVBiNTJUNG00VGVFWjNNYWw4eG93eVJHX05zRFFMZHk0VDRmdm9PUGQ3T2JQUkRNVmI2LTJuc3ZFUGlzS2tEd3g5ejdKSE1rWE55a290SWFVYW5lU2k1dWg3cG41VkNIMUQ3ZVRWRk83SktseG9TUg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5fa0b17210fc",
-      "title": "O que bactérias do intestino têm a ver com o risco de ter depressão? - UOL",
-      "published": "2026-05-06T12:08:23+00:00",
-      "summary": "O que bactérias do intestino têm a ver com o risco de ter depressão?&nbsp;&nbsp;UOLComo as bactérias intestinais podem desencadear a perda de memória&nbsp;&nbsp;MedscapeOs cientistas concordam: \"A inflamação intestinal crônica está diretamente associada ao aumento do risco de depressão&nbsp;&nbsp;Tua SaúdeSeu intestino pode estar sabotando o seu emagrecimento&nbsp;&nbsp;Tribuna OnlineIntestino é segundo cérebro. Os avisos da autora do livro ‘Tens feito cócó de forma errada’&nbsp;&nbsp;ZAP Notíci",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQ1Zqdi16dU00bWJIdTQtVFZrM1o4ZktJSjJjUUlZYWZzcjRuaFdrM1ZYVzZmR3o2QjVhYXhHU1RRTDV2ZTRPOUVZejNhNkd4MF9udldYMmJWRHBCVnV6cW04WFlYUXMyV1BUdU9EYWJrYWwxbms5dXFwd1hfMGVLTHNxUGhpWk8ySExZSmRMZWQ2eFRPN3IwWmVNWHd2WnUtcDRoV0tiSzZJbU5SLWh2amFyZnI0OUg4Smx4aFJycjNiNlNqOTRibEVsLU0?oc=5"
         }
       ]
     },
@@ -146,18 +158,6 @@
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQc3BJeUFfWlFyVF9fX0Z0WXlLNVZISnJzVkF1d2xYelNuSjR4Q3N1M0FZTFczQkhGVkdNbjRhTk5XdG5ycEJaUTR5QVBfV0lsazFITzE4b1Axc2FRX2dvLXl5dmxab1hVY28yTWd1RUVtaHFhLXJ4R29LcEhJSVM4WTM1UEtRQkxEYU8yX2F0Z1czZHJGbWtZV0lwbW8zV1d5Njd5RjZrRW9xaEU1dzF0OXRWVHRGS3pCQWNCRHVQbDRUeDFBcWN4SXBacTMzSDBEZDlN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "86c4fff396c1",
-      "title": "Fazer exercício no horário certo pode potencializar benefícios ao coração, aponta estudo - G1",
-      "published": "2026-05-06T08:04:05+00:00",
-      "summary": "Fazer exercício no horário certo pode potencializar benefícios ao coração, aponta estudo&nbsp;&nbsp;G1Descubra o horário ideal para exercitar seu corpo e proteger o coração&nbsp;&nbsp;TerraTreinar no horário certo é melhor para o coração, afirma nova pesquisa&nbsp;&nbsp;Olhar DigitalO horário do treino pode mudar tudo: estudo revela quando exercícios turbina o coração&nbsp;&nbsp;JETSSEstudo diz que exercício à noite pode afetar sono&nbsp;&nbsp;Jornal Ibiá",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUkdwU2ZjNEpDRGpuWlNHRC1qNEZ3QVFtbEI1UDQxdDJkRTFzSWFaMnMzbC1DQ2tYdUxUTW9lQnV2WmZHU0E0Y0loaU5CMENVWGk5ODdDdTVoZkRLSnlVSG1BamhyeFFqcVgtN3JmYUswdWJZOTlnejlRWVBnLXo4ZmlhMGhVV1N2OEM3UmZ5aDZTS19OdzFKT0pudkJ6U1VrM0dIYmxLekJVOGQ3REhBMWp4MHJmR25qd05ZLS1FREtsMlVkY282ZTdoU2llUVpWUWRCTnR30gHkAUFVX3lxTE1JcjlPRW9WZGJST25UQ3FVWjVsN1MxMG1ZdEtkUkw2YmVVNFFiU3RYWnZTTWRhLTJDQ21VLWc3SnhTS3E2cmpPMEpULUNxTnFEd3M1SVRDanVPbk5xYnRRTFB3ZUlrcklhSWxiem1yLWw4Snd5Rnl5SC12Z29fbFJWc2E3RlFFWmEzRDBPSGUtc3Z0THF2aUVUblk1Q3RRYjMxUExOMzZnU0JrS3owdC1qQmJCQnFkQ2JySDNXaTdDMkJqZnZzS3ZfUHdlT0phdUxHY2ZGZlNOS3RaWk1IaTJMb19QMQ?oc=5"
         }
       ]
     },
@@ -222,6 +222,18 @@
       ]
     },
     {
+      "id": "4738d03748a9",
+      "title": "Cientistas acabam de encontrar uma nova família do magnetismo, e essa descoberta da física fundamental pode abrir caminho para memórias mais rápidas, sensores avançados e eletrônicos que gastam menos energia - CPG Click Petróleo e Gás",
+      "published": "2026-05-05T23:52:00+00:00",
+      "summary": "Cientistas acabam de encontrar uma nova família do magnetismo, e essa descoberta da física fundamental pode abrir caminho para memórias mais rápidas, sensores avançados e eletrônicos que gastam menos energia&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWXB5UUNpWFFnb0xFSUtsdmtZLWV4dUFrMDlmN0NsVGxfWGZLQXN0bUFJd200V0lQeVJEcFdVbm9jUGlzSE5LT19MTXFHNUlleU5kcnF5bE9sNFZNMF9Nc2ZnRE51V1NDNWhoN0RIZi1HWVJMQTNYcC1yZXprT2tEZFNJZDhZRXlLZ2FpdXM1cEpzczUtSWlib0p2dUVVRkxFa1lJSTY1R1ZRZUJqR3VfcVNUNUs0VWV1ckd0Ti1naWdrODFqVS1WeXVEQURhTGVCQmJFWDRVbHRrUQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "3049e7bd9d7d",
       "title": "Avanço contra o câncer: Cientistas da USP desenvolvem biossensor revolucionário que identifica câncer de pâncreas em 10 minutos com baixo custo e pode salvar milhares de vidas no Brasil - CPG Click Petróleo e Gás",
       "published": "2026-05-05T22:04:00+00:00",
@@ -249,7 +261,7 @@
       "id": "a714ffb8ab66",
       "title": "Saúde confirma três mortes por Influenza em Rio Preto - Diário da Região",
       "published": "2026-05-05T19:54:18+00:00",
-      "summary": "Saúde confirma três mortes por Influenza em Rio Preto&nbsp;&nbsp;Diário da RegiãoTrês pessoas morrem por subtipo do vírus da gripe em Rio Preto, anuncia secretaria&nbsp;&nbsp;G1Campinas confirma duas novas mortes por gripe; vítimas não estavam vacinadas&nbsp;&nbsp;ACidade ONNota - óbito por Influenza&nbsp;&nbsp;Prefeitura de São José do Rio PretoSentinela da influenza&nbsp;&nbsp;Revide",
+      "summary": "Saúde confirma três mortes por Influenza em Rio Preto&nbsp;&nbsp;Diário da RegiãoTrês pessoas morrem por gripe H3N2 em São José do Rio Preto&nbsp;&nbsp;G1Sem vacina, sem proteção&nbsp;&nbsp;Diário da RegiãoCampinas confirma duas novas mortes por gripe; vítimas não estavam vacinadas&nbsp;&nbsp;ACidade ONNota - óbito por Influenza&nbsp;&nbsp;Prefeitura de São José do Rio Preto",
       "sources": [
         {
           "name": "Diário da Região",
@@ -273,23 +285,11 @@
       "id": "a9b9344eb73a",
       "title": "Simples hábito pode ser segredo para dormir melhor; saiba qual - ICL Notícias",
       "published": "2026-05-05T18:11:27+00:00",
-      "summary": "Simples hábito pode ser segredo para dormir melhor; saiba qual&nbsp;&nbsp;ICL NotíciasDormir em horários diferentes pode dobrar risco de problemas no coração, diz estudo&nbsp;&nbsp;GloboO segredo para uma boa noite de sono: veja o hábito simples que vai te fazer dormir melhor&nbsp;&nbsp;TerraDr. Kalil e especialistas explicam quando a insônia exige tratamento&nbsp;&nbsp;CNN BrasilCardiologista explica por que ficar sem dormir faz mal para o coração&nbsp;&nbsp;Metrópoles",
+      "summary": "Simples hábito pode ser segredo para dormir melhor; saiba qual&nbsp;&nbsp;ICL NotíciasSegredo para dormir melhor pode estar ligado a um simples hábito; entenda&nbsp;&nbsp;O GloboCientistas alertam: dormir oito horas é bom, mas a regularidade é o mais importante&nbsp;&nbsp;TerraCardiologista explica por que ficar sem dormir faz mal para o coração&nbsp;&nbsp;MetrópolesDormir demais faz mal? Dr. Kalil conversa sobre tempo ideal de sono&nbsp;&nbsp;CNN Brasil",
       "sources": [
         {
           "name": "ICL Notícias",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UNXdDUlByR3cwX1ludkZHbkZrNkV3ZXpzWi0zc3NHWVA3TFhiMUlFOGFnSlIxM2JsTzlpRmJ3djk3U0ZoZE80dk5PdmFHdjVYcmJ6UjFpYjU3eUlyWUVCY0dvTUpXQ2JpVTJR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "161222b1ebc9",
-      "title": "Carlos Nobre: O encontro entre saberes indígenas e medicina ocidental - UOL",
-      "published": "2026-05-05T17:00:00+00:00",
-      "summary": "Carlos Nobre: O encontro entre saberes indígenas e medicina ocidental&nbsp;&nbsp;UOL",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMzhOMWxpMWJERGlFNmdkOTk3allpc1ZlMWNReU8xZEZuci13TWlJTzl3N3draUxLTGxHekhjWG1EQXZ2bHRjcjJDVmJXeGxZVTd6QXh1U1dJQkFYMGVMQWtSNlc4V3pEREtzNmlaZzdxTW5RdzNnS1RCdjVwdGkxVUlhWGJLQmp3Q2taWXlpS3NKM0lVYmt3WnBhTUZwbkFvbWJRN0g4WnRqQ1hxLXZhclFXWkhPZzlBM0F2LTBVYWZfSko2MTU4SVp6VWVDNDVfa25vSFNyRnRKR1ZQZjJF?oc=5"
         }
       ]
     },
@@ -326,66 +326,6 @@
         {
           "name": "CPG Click Petróleo e Gás",
           "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNcUZNeklIalpkQ2tLZ21QWTFNWnZ3RjhjOTB6QUFRQ3AwRm9mWW03UHFWejE1V05SMzJMYy1GcjV4dy1PcFFMWXJzUl9NM0YwNWpJdlp3MWg1SXpkM0VYTVpSRS02RkYtUEdOTnBXNi14Sno5ZER6VExPeG40bVJ4Q3VQVHY5SGZSbGVzWmVBYTZxWHJNMk9mdUFJSW95cmRiNEszME5kT2RyTVlRM2syOEhFdFJvdHhIX1M2bHpORElKUVVpcDRjQnAyQS1KS2dpRWFmOC1jZExIeHdlR2tWbXJGSXpxSms4UG1hWmFJSTFFVVBQYlNZanJHRFFkSnNUU09tOGwtTGlKTDlRZ1RjVXJSTVd5WEM1RzUtZ3U3bTM5WkxRWHMxVEJoR1pQa2ZabzF4bFQyWkE0VGtkVkY0dzJiU0U?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "44ee0fe923ff",
-      "title": "Potência dos lasers é multiplicada por espelho de plasma - Inovação Tecnológica",
-      "published": "2026-05-05T09:39:22+00:00",
-      "summary": "Potência dos lasers é multiplicada por espelho de plasma&nbsp;&nbsp;Inovação Tecnológica",
-      "sources": [
-        {
-          "name": "Inovação Tecnológica",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN2NCajhJai1uTTFGNUNJcXFJeGsySHZyZ0ZVZXFKOFBLZDZ2TGgzOTc0NkE2RTl3eno0V1FUVmlqUkR3UU5JNXNmVEJsampqTjk2RmdFXzJUV01VZFJLaHM3em9NaWFpVEFtQlBmRFNfZ205YnlISlNBV1FWS0JlSWJERkFIS2UwR0JGTm1ZSGxUNE91UTMyWXlEWWNQcUFPU2xfS2ZidzJEMVNQWDc1dHQ3cw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5263f9fd9882",
-      "title": "Estudo desvenda como surgiu a anomalia magnética que coloca em risco satélites sobre o Atlântico Sul - G1",
-      "published": "2026-05-05T08:04:03+00:00",
-      "summary": "Estudo desvenda como surgiu a anomalia magnética que coloca em risco satélites sobre o Atlântico Sul&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRE1ScUR3WDFpejVVUjNJRVk2X182eW1JLWotaEJERVEycE9xaHlMRElUZE11amJqOU55amtSNzdmbV9CTEsteXYxWC1YNFVMNFhWMVNlZC13WnJOWXpfRTlsUFNPOVpJanBvZ3RMX0F1bWRzYUdBMHhjQ09jb18yc3lJSWU0Z0lQSFNFc3k1LXFQeHFYb0FOcmJFVUVkcU1XdUZlT3pyS2FoTWR5cnd4b0g2TjVvSWJPQ0cwNlRHenB5c0NNbFFVVDUwSXFOVlNDMlRxZmhrUjhNLUhKN01URHNlNTlTSHdZTGfSAfgBQVVfeXFMTlFrUlhlcXZGOVVMR0xjUUhMNE1xRFQxdm1XY3doa084eVFtZVNjd2RxNEROU08tUUQxaFU5LVB0dXlrS1dYZDNVNFhOWW5rRU4wVnhLSG52NmFUa2RZeHRsZ2V5M2I0bk41VG1VckZkMDNKZGZBMXJ5MGN6T1dXWkNla2F3SkhKaDlFdlpqNWtid3dIR0JmaTBqTFJOS1c0ZGdQOWxtTkU4aGFYdVVxU3Iyc0JxNTJRVDNHUnVncmJUT2lXQmhmQ2hXWjhPUlNMZ2JaVi05U1ZLTzNwWGJUZklzS1FVMVQxck5WdXhERUR0WFh2VWI2V3Y?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5bd679aba469",
-      "title": "Vai um cafezinho aí? Cientistas descobrem como bebida age no intestino e no cérebro; entenda - O Globo",
-      "published": "2026-05-05T07:02:14+00:00",
-      "summary": "Vai um cafezinho aí? Cientistas descobrem como bebida age no intestino e no cérebro; entenda&nbsp;&nbsp;O GloboComo o café muda bactérias intestinais e afeta seu humor, segundo estudo inédito&nbsp;&nbsp;Veja SaúdeOpinião | Café, memória e o desejo da prevenção do Alzheimer&nbsp;&nbsp;EstadãoCafé faz mal? Saiba qual o limite seguro para a saúde&nbsp;&nbsp;MetrópolesCiência descobre o que café realmente faz com nosso intestino e cérebro — é melhor do que pensávamos&nbsp;&nbsp;Terra",
-      "sources": [
-        {
-          "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNN2d5QU91NlVUN3NjOXRNQlg1OEV1OFNuelA0dkVBYTV2cFQyaWRqSVJMUktybzhqclhHRU1LVkl1UjJoWXlTR1o2SEg0N1FtaWZQNS00bU8zWjlRR0FRdUdOSGdOQzBaLVBOX3h6VTZIVjl0ZFp0bHRMZC1UNkg4YTA3UC1NaUt4eDc4bXRlS0RTUVg1dm00M1U4QmwwMlNMUnBwbk9lVlpWcTRocUp0SEdkdHFJNU5fQ01Ib2d1aE9maHNQazZWcTNoWnVZcWJadVRfQm1SNElXa3c1c3Zr?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "24728ad7e3d8",
-      "title": "'Como uma faca entrando na cabeça': a luta de quem tem cefaleia em salvas, uma das dores humanas mais intensas - G1",
-      "published": "2026-05-05T07:01:30+00:00",
-      "summary": "'Como uma faca entrando na cabeça': a luta de quem tem cefaleia em salvas, uma das dores humanas mais intensas&nbsp;&nbsp;G1Cefaleia e câncer cerebral: como diferenciar o tipo de dor ?&nbsp;&nbsp;TerraCefaleia em salvas x enxaqueca: entenda as diferenças, sintomas e como tratar dores de cabeça&nbsp;&nbsp;Rádio ItatiaiaCefaleia em salvas: condição atinge mais de 300 mil brasileiros&nbsp;&nbsp;Estado de MinasCefaleia ou tumor cerebral: como diferenciar a dor na cabeça?&nbsp;&nbsp;Bons Fluidos",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPa2UyNkh6WFJSYy1HQUNUUWducEliaHN0NS1oLUJkRUZzeEx2aW1JZlBVcE04b25SYUltMEhmYjNnTHlEV3RtUmZ0OUhXZ3hHY0FjNm1nZEwzNWpaWmVQM0F2dV9nMVVNWUVHMFBtNnZ0VmtxSEFwLUx3NGd6TTdEZ0JKb0lnNTdiZ1k3STV6ZzltQlR3bDJvYzdrQnRocTBaTVV3c012NzNDaUZOVXUwaVBYODg2R1hXQlB4Rk9LaHlaUE1UYXVxR2hNc0R5QVhCdWNaQmFZczgzWU9TSXVlUUFCZ2VETXpONlpNVGk4UTYzSkZySWfSAYQCQVVfeXFMUHoxcFBCR2hybC1nM0cwaXl1NVNtaEhWbFE0N0s5M2RidlZIVFRHQTBxM2pXVGpmWVp2SHhMdjMwOS1kNi04NmpXbFZQRk9hY1pEOHRpTlBZa2ZyRFp4emxkY3NULS1QRk90NWlUVER4amZCdTR5MnFOR1VGdEU0amhCQlI5SG0zSXkyRFZOTUJhYjQ4NUZySEs0R3ZhRlRTZk9ldkk5b0prSU94eFhmQ0V2Q01ZdXZlYTVEZW1Hc1ZXaldHQXRqQ2c3bmpHZnVld3Fic1kxX0pQdDNvS2toTi1DMXZJbmNnQ0s4RGlLcXcxRUE1Q1k1YVd0ZHpHTHlrZnNwM0o?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c75f66cacaec",
-      "title": "4 hábitos capazes de deteriorar a saúde do pâncreas silenciosamente - Metrópoles",
-      "published": "2026-05-05T05:00:00+00:00",
-      "summary": "4 hábitos capazes de deteriorar a saúde do pâncreas silenciosamente&nbsp;&nbsp;MetrópolesVer cobertura completa no Google Notícias",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSjU4bjVYb0dTZWF6LUNEQVdQejZ0bTBjZnpfR1o3N1B2OVFiM2l4d243WG40bkFJdkowcnlYa0l4TDhsdVkyY213a2FuOTliWUhZM3ozTzlpdE0xeWFXM0NKX3lycHIyWERJa21sazE5QUNBNHVvTnllWUZUU2FSLTdrNDhhbkJwQWlMdHI0QkQtbFk4MmxTelJTLTBybXcyVUN6dkZHNVczaE53Z2tYOFNIcVgxdmlWOWNn?oc=5"
         }
       ]
     }
