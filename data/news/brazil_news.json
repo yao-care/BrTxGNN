@@ -1,14 +1,38 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-05-07T19:44:49.128434+00:00",
-  "total_fetched": 97,
-  "unique_count": 93,
-  "health_related_count": 36,
+  "fetched_at": "2026-05-08T03:22:49.689668+00:00",
+  "total_fetched": 89,
+  "unique_count": 85,
+  "health_related_count": 30,
   "news": [
+    {
+      "id": "b491ad41cbd2",
+      "title": "Contaminação microbiológica: entenda o que levou Anvisa a recolher e suspender venda de produtos Ypê - Banda B",
+      "published": "2026-05-08T01:13:00+00:00",
+      "summary": "Contaminação microbiológica: entenda o que levou Anvisa a recolher e suspender venda de produtos Ypê&nbsp;&nbsp;Banda B",
+      "sources": [
+        {
+          "name": "Banda B",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQblVvSmE1THphTm9kZU9za1VMODRtaExsSVkzVld2blhRdzl6dmIxWlREa1VVb19qTU1LVGpRUU9VSDBYb21mQWRMOXFVbG5yVW9uakp5UklwektfX3B5bExuNGx3Z2lzLTMxanhHUGVZUFlyWGp2dF9tNWZ2MUlXaTYxMF83U0dQQmxNa1NXbUY5NVFJQS13OFBJTVhmd05LMjdiLW10X1UwQdIBrwFBVV95cUxNWEtlN0hYcnMxbTRmY3NtWVFUS0VTU1pfRDBPYXpTaUhYb2lqMGdIRzU4ZFcwUF8taWVULTFIU3hMbDJ6SmQyV2tBTVdXZE5zX2d4Q2VXUXEwRHZKWXV5RmpSS1hHNVlzRURFSm03X3c0UnBfeFItelBqd2lBUXJReTQwaURMenpCYkxvSmctaDFISHZMMWxpV0hqZ2JGWmRMLVBJUTg0c2dMSVpvTXFN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ba8866492d74",
+      "title": "IDP inaugura clínica de psicologia com atendimento gratuito no DF - Metrópoles",
+      "published": "2026-05-07T23:32:00+00:00",
+      "summary": "IDP inaugura clínica de psicologia com atendimento gratuito no DF&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQblVBdEVycFM1VVRmVDVRNlB0VVhqSkItRV83cUg2T0NkcEJnVmNQa29kMkdvU2lKQXBlQTNvUW9YRWE4RlJrMTVqNHBXc3dPd3ZpZjlKY0RwZnJOTklFWHppTnFIeGpEYk1QY09QWXIzdEFuOThDdXZoMTZuUFBCOFNFZjFObm5DRWdnaDlHQTFCdklKTVdSQmJGMnFZZk1LRkZGMjRRcE1vekZHWnRMTU5YaHZLbWdm?oc=5"
+        }
+      ]
+    },
     {
       "id": "a137d5c79910",
       "title": "Lúcia Helena: Vaginose: como um probiótico ajuda a acabar com esse problema malcheiroso - UOL",
-      "published": "2026-05-07T19:27:05+00:00",
+      "published": "2026-05-07T21:55:58+00:00",
       "summary": "Lúcia Helena: Vaginose: como um probiótico ajuda a acabar com esse problema malcheiroso&nbsp;&nbsp;UOLComo o desequilíbrio da flora vaginal afeta a saúde íntima das mulheres&nbsp;&nbsp;GloboDoença vaginal que afeta uma em cada quatro brasileiras pode ser contornada com novo suplemento&nbsp;&nbsp;VEJALibbs Farmacêutica lança Zaila para microbiota vaginal&nbsp;&nbsp;BHB FOODLibbs lança probiótico para equilíbrio vaginal&nbsp;&nbsp;Panorama Farmacêutico",
       "sources": [
         {
@@ -18,26 +42,62 @@
       ]
     },
     {
-      "id": "635a43cdeb02",
-      "title": "Moradores de cidade mineira recebem água no lugar de vacina contra a gripe - Estado de Minas",
-      "published": "2026-05-07T17:44:00+00:00",
-      "summary": "Moradores de cidade mineira recebem água no lugar de vacina contra a gripe&nbsp;&nbsp;Estado de Minas",
+      "id": "28d781983a13",
+      "title": "Jovem de 23 anos morre vítima de dengue em Londrina - Tem Londrina",
+      "published": "2026-05-07T21:31:33+00:00",
+      "summary": "Jovem de 23 anos morre vítima de dengue em Londrina&nbsp;&nbsp;Tem LondrinaLondrina registra primeira morte por dengue em 2026&nbsp;&nbsp;Folha de LondrinaLondrina completa quase um ano sem mortes por dengue e mantém queda de casos&nbsp;&nbsp;TarobáLondrina confirma primeira morte por dengue em 2026 e registra queda de 60% nos casos&nbsp;&nbsp;Rádio Paiquerê FM 98.9Londrina completa quase um ano sem mortes por dengue&nbsp;&nbsp;CBN Londrina",
       "sources": [
         {
-          "name": "Estado de Minas",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOFZIcWstaE82QjhlMWozZmozN1h2NHBlNndZd0Q1bkJZNHowMHZ3OURjb0NmT3BsTWdWanRMel9MZTY0NUEtVkVZc3VkRmpCRkpJOG9Danh6VnJHQUdsNnloUEFfLUxmMnEzX2cyUldiS0o0bFNsT3pISG5vWUN4QjQtUDJRcFVUaUt6YzBHOVluZS1XTmVyU2pJdm9qSFhQbFBpR2ZKY3RBc28wa3VkSEppNjNKLWswQTJZa1lSYzFhZ9IBxwFBVV95cUxNYlBpQkN5Zkg3WEFrSElOUGh6VzliWDJwZTJlejZZYm1VYXhIVGtPRm9CbnFKNVJUQVdyUzM3Xy00MExHMnhRdHdWYnBFSW1OcHNuUlFNRW9ic2VoWDkxNjlLVVp1WFFpdm5FY0EtX0ZsVUhNMDR1LUVNWk1pTUVvS24tajNhRW9fU0t2M0lULWFmc1cyYU9oaENISXN5YjJmLWQzZjlGbUo1d193NHBtSTBLSXNUbTB2aDRyTlg1SURLZFQ1VU00?oc=5"
+          "name": "Tem Londrina",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdDBqak9iR0tJVGdNU2ljaVRnM0ZzZ1RDNF9ob1RDSWhjaGVsRHROclA3ODhIVjlEU1FEdjhlUllNZzN5Ykw3YlQ5YkFIeW9NSHdVY0dpM2FqbkxxOFVtNXVNbnl0MENlMWRfUnprNmZ4ZGZodE1LdTZ0WFZpTDF2V2JfSWF2XzlPYmtoWW5n?oc=5"
         }
       ]
     },
     {
-      "id": "3aa91b46fd99",
+      "id": "8a19b5e3b09f",
+      "title": "Arsenal de até 300 mil toneladas de explosivos submersos no Mar Báltico preocupa pesquisadores - Estado de Minas",
+      "published": "2026-05-07T19:15:00+00:00",
+      "summary": "Arsenal de até 300 mil toneladas de explosivos submersos no Mar Báltico preocupa pesquisadores&nbsp;&nbsp;Estado de Minas",
+      "sources": [
+        {
+          "name": "Estado de Minas",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeExVdlh2d3l1OVJvSlhBVEVzN3BER0dUSGFGR3JKT3NVTFJrSDZNZzEwTVlUcmx5VUMwVjJ2REhuT2I1aWxlN19zY2w1cGNyVV9nZTlHTUhxc2x1dktLekJKak9taG5IbjBETFFCbDJQSERNWVVfWkZfYTM0Rk82QUwtMlFYd1lkTVZpSzBIcGVXVllKendrejBNdzBUU05RV2oydUZ2UmhFVXlYMjlDZnJmOHJFMmxtMEVkSS1iOUJKcS1feElweGlSRXI2OEtE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "24c7a90bb853",
+      "title": "Doença silenciosa, nomes novos: o que mudou na gordura no fígado - UOL",
+      "published": "2026-05-07T17:02:00+00:00",
+      "summary": "Doença silenciosa, nomes novos: o que mudou na gordura no fígado&nbsp;&nbsp;UOLA doença silenciosa do fígado que causa fadiga e pode evoluir sem você perceber&nbsp;&nbsp;Correio BrazilienseGordura no fígado: saiba quais os sintomas e como prevenir a doença&nbsp;&nbsp;G1Saiba qual fruta popular pode ajudar a combater a gordura no fígado&nbsp;&nbsp;MetrópolesFitoterapia e prevenção: Dr. Flávio Siqueira detalha cuidados com a saúde do fígado&nbsp;&nbsp;Costa Oeste News",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUmRmcHl5T1lDQWRFaWYzcUVYOFhReGs0MzQ3aGgtN2U2TFQ2aXpRbUFzYnpYalBsUlFIV29qMTVaX2ZPWGd3RkhrTlo2c0hfeGhQYzlYYzlONFFpX1BnZ0xTT24tWGx2blRXYl95czFrZ09vU0wyY0hYUUVRUWthek9QZVpRXzl6NjY2anVJMUNOTTFZV0UyOGlqVExoZEtkT3FqN0VrU1JodEVYbjFNSFZKRVIxNGtYc3JPR1h4RWpPMHgtNWRIaG1uQlgwTm1kYlE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8fbebf4193f0",
+      "title": "De acordo com uma análise internacional, o exercício físico oferece alívio limitado dos sintomas da osteoartrite - Tua Saúde",
+      "published": "2026-05-07T16:58:00+00:00",
+      "summary": "De acordo com uma análise internacional, o exercício físico oferece alívio limitado dos sintomas da osteoartrite&nbsp;&nbsp;Tua Saúde",
+      "sources": [
+        {
+          "name": "Tua Saúde",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNM1NuQWhiNHliX2l0VFV5YWJReXQ3RkQ5d1RCRmRjTXFQckZXQkE5UXRwdG0yOUluVkQtbGRBNWtRNVpMS0oyZWNzVGNhUk1nd3dIYXY3NXF4QVkyQUJmTUFJOFdmX3gwSlQycTFsWllmOUtSNW5IaWJ5ZF9IdDNmWkpGNXRIWTB4SEFqMDR5QnhoZldhX0NyWmlyOGg4eHRMRnJ5d1dmVm9walZvTkF2WGlZYWc3cjlVdGR3RXZRNHh4QjVpbWFBYXpKUVZsZ25jS01BUkZCX24yVm1sRGFLcUJCRHk0MGlw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0dcf5ef13a9f",
       "title": "Aves urbanas têm mais medo de mulheres que de homens, sugere estudo - Folha de S.Paulo",
       "published": "2026-05-07T16:00:00+00:00",
       "summary": "Aves urbanas têm mais medo de mulheres que de homens, sugere estudo&nbsp;&nbsp;Folha de S.Paulo",
       "sources": [
         {
           "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMzF3TjlMSDB4OTJ3dXBWdWhLZmNxVE53WlVsY3NPeGxhSVpoQjVaOHoyNmpmN05QVkl5VWdaQmJ5VlloTlgxWWtDSS1tRWNVRjdIX1U1WHVqb3Vac090Yl9GN0JoY3ExVmJtMFJ4RWNXZS1ydElZeUREQ3hVWHJIeHRPS19hNVBRTFRnUjFDMFFMbHN2aENtcEF6TXZWM1EwZHN2OXR3bGlNSG52YUZvbGllNHlOZw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMzF3TjlMSDB4OTJ3dXBWdWhLZmNxVE53WlVsY3NPeGxhSVpoQjVaOHoyNmpmN05QVkl5VWdaQmJ5VlloTlgxWWtDSS1tRWNVRjdIX1U1WHVqb3Vac090Yl9GN0JoY3ExVmJtMFJ4RWNXZS1ydElZeUREQ3hVWHJIeHRPS19hNVBRTFRnUjFDMFFMbHN2aENtcEF6TXZWM1EwZHN2OXR3bGlNSG52YUZvbGllNHlOZ9IBuwFBVV95cUxQR28zT3k3VHpCbkZmVTI5RXZNYWpNMG5seGpnUTVNTmhUQTZEdjRmQlJOSzljR3htN1dOMTNhYnBVVHZQcm5fcEtrMC0wQnF2SVRsNGt2MWRCS0J4MHJLUWVERURvbndLME0xUHVacWpaclJfb2lHMGx5d1M0VkFXYW94UXl3dHpOOUNvVE1qbDgzX0MyQUJtT1FUUGIzdWhaN3F6cmNsS2xvRnNxNjRfR256b1FhLTVSQ0lB?oc=5"
         }
       ]
     },
@@ -57,11 +117,23 @@
       "id": "bb1863017f5f",
       "title": "Vacina da gripe será ampliada para população geral em MG na próxima semana, diz secretário - O TEMPO",
       "published": "2026-05-07T15:03:01+00:00",
-      "summary": "Vacina da gripe será ampliada para população geral em MG na próxima semana, diz secretário&nbsp;&nbsp;O TEMPOCampanha de vacinação contra a gripe no HC-UFMG&nbsp;&nbsp;Faculdade de Medicina da UFMGMinas deve ampliar vacinação contra a gripe nas próximas semanas para todas as pessoas; veja detalhes&nbsp;&nbsp;BHAZBH intensifica vacinação contra gripe e alerta para baixa cobertura entre idosos, gestantes e crianças&nbsp;&nbsp;Por Dentro de Minas",
+      "summary": "Vacina da gripe será ampliada para população geral em MG na próxima semana, diz secretário&nbsp;&nbsp;O TEMPOVacina da gripe segue disponível nos postos de saúde de Belém&nbsp;&nbsp;G1Campanha de vacinação contra a gripe alcança 30% do público alvo a três semanas do fim em SC&nbsp;&nbsp;NSC TotalEstado espera chegada de novas doses para ampliar vacinação contra gripe&nbsp;&nbsp;Estado de MinasVacina na rota: campanha contra gripe leva proteção a pontos movimentados de Macaé&nbsp;&nbsp;O Dia",
       "sources": [
         {
           "name": "O TEMPO",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRlJVNDNPQ0gzMi0zWEhCSlR2cmNtMy1BNS1mV003WGhGeEZlcHJKSDNtVTVUb1BHVWVaUFJPT1Z6QnBnTlEyVXdOcWdoTXZrZE9lVEpTcGQ0TUZwMzk0U3JoMWtLTHVrX2NTdVhUY0drUmdnS1h0YnlKSlFvTXplb1FNOUZXRl8yT0QyeUIzbWg4Zlc0dE45WHg1NnNVSThCMDc3bFd0Z05fd1dwRUxtMVBzbGVLVWFWMUpWWjZpR1JCTnhmRDhRZHRRZW0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e221a3cbd9c2",
+      "title": "Expert lista hábitos diários para recuperar a microbiota intestinal - Metrópoles",
+      "published": "2026-05-07T14:03:00+00:00",
+      "summary": "Expert lista hábitos diários para recuperar a microbiota intestinal&nbsp;&nbsp;MetrópolesSuplementação intestinal: o que é e por que está ganhando destaque nos cuidados com a microbiota e a imunidade&nbsp;&nbsp;Tua SaúdeOs alimentos fermentados que podem favorecer o intestino, como atuam na microbiota e quando vale colocá-los na rotina&nbsp;&nbsp;Correio BrazilienseNem suplemento caro, nem fórmula milagrosa, alimento comum pode ajudar no equilíbrio do intestino&nbsp;&nbsp;Portal UaiQuatro alimen",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTG15ZGh2bUJQVUFqb2d2dTIxWmdRLWJOaG1jcUcxX3dGU1ZhNjJpZmJndVR2XzZQSG5EQVBncWZpNnh0Nk5nUVI4UlhLZ3ZWeG9zWTVwNXZuZURocERqNll0ekxIcFpMYTdLelJiSTVfNTlBSHpqeUxVWl92YjcxM1lJUFNJUkJ1cGg2dHo0eVFRTmx3Vy12ZHFEWTJUOFh1emw3amNzVWVORmRTVWdjVi1ndkNtcno5OUlF?oc=5"
         }
       ]
     },
@@ -78,14 +150,26 @@
       ]
     },
     {
-      "id": "24c7a90bb853",
-      "title": "Doença silenciosa, nomes novos: o que mudou na gordura no fígado - UOL",
-      "published": "2026-05-07T13:02:00+00:00",
-      "summary": "Doença silenciosa, nomes novos: o que mudou na gordura no fígado&nbsp;&nbsp;UOLA doença silenciosa do fígado que causa fadiga e pode evoluir sem você perceber&nbsp;&nbsp;Correio BrazilienseGordura no fígado: saiba quais os sintomas e como prevenir a doença&nbsp;&nbsp;G1Saiba qual fruta popular pode ajudar a combater a gordura no fígado&nbsp;&nbsp;MetrópolesFitoterapia e prevenção: Dr. Flávio Siqueira detalha cuidados com a saúde do fígado&nbsp;&nbsp;Costa Oeste News",
+      "id": "8a23c0c1b720",
+      "title": "Entre a esperança e a ciência: o que se sabe sobre o chá de aranto no combate ao câncer? - Rádio Rural",
+      "published": "2026-05-07T11:56:00+00:00",
+      "summary": "Entre a esperança e a ciência: o que se sabe sobre o chá de aranto no combate ao câncer?&nbsp;&nbsp;Rádio Rural",
       "sources": [
         {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUmRmcHl5T1lDQWRFaWYzcUVYOFhReGs0MzQ3aGgtN2U2TFQ2aXpRbUFzYnpYalBsUlFIV29qMTVaX2ZPWGd3RkhrTlo2c0hfeGhQYzlYYzlONFFpX1BnZ0xTT24tWGx2blRXYl95czFrZ09vU0wyY0hYUUVRUWthek9QZVpRXzl6NjY2anVJMUNOTTFZV0UyOGlqVExoZEtkT3FqN0VrU1JodEVYbjFNSFZKRVIxNGtYc3JPR1h4RWpPMHgtNWRIaG1uQlgwTm1kYlE?oc=5"
+          "name": "Rádio Rural",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSFdGWFBFN2RQY2xKb1hIVEZPY0U0VElYYXk4T3g1RUlzSEVaeDYzSVRaeWY1RjJ4WHFEMklwVVc3VGVIZDRMaXdUYTZ3VURpRENRNFF5cy1xQS12a2tCWEI0TUYzMHFudmFNN0lYY3QyMERJNGpQN0hibnBGOE1EV2RrVU91Q2ZKUDRtWEpSSFdYRGE3TGFtSkVDMHV1VmF1bXlIUjVnTnN4bDlUNDgwV2dlZGFIWkk1Yml0QkpLRE50T0NYUTN6QU15NA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bf80c93202ed",
+      "title": "Pela primeira vez um cristal do tempo visível é criado em laboratório - Olhar Digital",
+      "published": "2026-05-07T09:58:00+00:00",
+      "summary": "Pela primeira vez um cristal do tempo visível é criado em laboratório&nbsp;&nbsp;Olhar Digital",
+      "sources": [
+        {
+          "name": "Olhar Digital",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVUw3bmZZb01RNzlVUnk3ZTFRWE9fMWVBcld1bzgzN0ViWW9vVnYyY0pzdGtBaGNZSTlyVDRHVEJWVW1jZkZmQjhlQ0tnRHdsNlRuWjZOOFpGMmJkTWpnUmhRMjRRb0R4OS1ZUHdfNE40NFI0RFFrWU9RTDg3R01SSUthMVhLemVQdUpsZWkxTHR5dTdRNU52QVN1a18xSUJOa0JrUHYxV1hrSXowb2txVTF4M0JINDV2T21ZNldaN2VfaW40?oc=5"
         }
       ]
     },
@@ -114,18 +198,6 @@
       ]
     },
     {
-      "id": "1a4e8fc19c2d",
-      "title": "Ômega-3: entenda porque vitamina é essencial para o exercício físico - G1",
-      "published": "2026-05-07T06:00:35+00:00",
-      "summary": "Ômega-3: entenda porque vitamina é essencial para o exercício físico&nbsp;&nbsp;G1O papel determinante dos ômega-3 na preservação da saúde cerebral e na prevenção do declínio cognitivo&nbsp;&nbsp;Tua SaúdeSerá que os suplementos de ômega-3 podem ser piores para o cérebro do que muita gente pensa?&nbsp;&nbsp;Vietnam.vnMais de 10 mil vendidos e nota 4,9: o ômega-3 premium que não tem gosto ruim e turbina sua memória - Gazeta Brasil&nbsp;&nbsp;Jornal Impresso BrasilÔmega-3 pode afetar negativamente",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZFRYM3FxNS1TNXVEME5yZXVGMVhWbkF2VmZTcEI0N09sWHBLTnhySnNORlFMTnFpVTNSV0xwdkRpUGEtcktmYTJWYTZaQThFSURvTjNmYThVSFNmbWYzbUUtOUVMOTk0dlA2RVRFblRlUFBxcEwzVWd3ekk5UzlFODItNFJzYjE5enV3dTU3V2pSRVFsNnBvT3VQTTIyRUE4ZEsxTW1xTlR2YXBfUDdfd2s0VFBPNE5LcXZyZ09GbE0xbFdRSThuYlcyMWRGdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9ea949ef0e06",
       "title": "Ciência avança em tratamentos contra disfunção erétil além do Viagra - Diário do Centro do Mundo",
       "published": "2026-05-07T02:39:03+00:00",
@@ -146,54 +218,6 @@
         {
           "name": "Diário do Centro do Mundo",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM09HV3UxZjY4MkRwcGpiQjFKMS1nWVpNSFVIVzRNY1c2c2w1MUo4bXhwWDFCSWViVVJKaHZqOXhucnBMNzVtS0lDNTVrY3BFUkxCRnBWdkFNdWlxWmhsa3JvS3k4bE9aUjhEcHlSYS1IbzlVSXhqSGV0NzA0V1RQYThudzdSdjVyTVIyb0IyVGlMRXlLSVN0dTVjREkzUFl1MldUQWxEbTdKaTlKVGtCcnh3emhNTnc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1b09b9e2feb4",
-      "title": "Vai fazer cocô? Pelo bem do seu cérebro, repense a força no banheiro — o fenômeno médico que pode causar até apagões de memória - Terra",
-      "published": "2026-05-06T21:45:00+00:00",
-      "summary": "Vai fazer cocô? Pelo bem do seu cérebro, repense a força no banheiro — o fenômeno médico que pode causar até apagões de memória&nbsp;&nbsp;Terra",
-      "sources": [
-        {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOTWkwdkFKZ1FLQkhhMmpjeDVPdkxaaEZYUjd3ZHM1ZG1jWVM5ZnA0STIxcVhRVndXS3RDM19RS2I0ZVo4cGdBWXpaNXgwU3oyV0lXcl8tN1VTclNpNVoyV1BFYjctTVVMZWxMOWk0RTVDOWlxRW4zTDBBSTlvZVZJM2JDYnBYSy1vUE1KQlhuOWkzVHg3TmtTd20zc0tTa3hRd01VQlNkRHNocUtMejBuMWpiNDRtVEE5cFZHWTM4TXJNYjVOcEIxcG9Jd3FVb0tmbXlyT2FtUENFU2gxWTFiUkdrNFBxSTNCY3ZYbXpxbGFFRi1DdTR4dHhZNHhmSE8wUnhtbDFIV3BQTG4wYXdTb1FYZElObGNxcFAwTm03d29lQnJoMnRZT1IxX2R0aW84?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "aad1e77a3075",
-      "title": "Estudantes da rede pública de ensino do DF destacam-se no estudo da matemática - educacao.df.gov.br",
-      "published": "2026-05-06T20:31:34+00:00",
-      "summary": "Estudantes da rede pública de ensino do DF destacam-se no estudo da matemática&nbsp;&nbsp;educacao.df.gov.br",
-      "sources": [
-        {
-          "name": "educacao.df.gov.br",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQXzlvbktmaG5VeWZrbVozN190QUZIREVoUGJFQ3hvemg5Z0taRUxKbkZ1dUxvSUhXVFZaaDF6S3pybXhCc1ZucmVvWFJsVE9IX2NNamxaaDVCVDdQcTZhbEFRblFGV2hwM25zaVF1MFRoZDBXUk9zbEhQQ0NoQzVTNnhya0JZWVlwSm9XZGJPdVNTbF9oRVd4emJFNTRRQnBPUUJVTExBQV9DcnZ6TWZ2Wg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e7102106d4a2",
-      "title": "Ex-prefeito de Cariacica revela tumor no crânio e vai passar por cirurgia - Tribuna Online",
-      "published": "2026-05-06T19:46:12+00:00",
-      "summary": "Ex-prefeito de Cariacica revela tumor no crânio e vai passar por cirurgia&nbsp;&nbsp;Tribuna OnlineEx-prefeito de Cariacica Juninho fala sobre incertezas do tratamento do tumor no crânio&nbsp;&nbsp;G1Juninho, ex-prefeito de Cariacica, descobre tumor na cabeça após perder a esposa com câncer&nbsp;&nbsp;A Gazeta'Achei que era labirintite', diz ex-prefeito de Cariacica sobre descoberta de tumor&nbsp;&nbsp;Tribuna OnlineJuninho revela tumor na cabeça e possíveis sequelas após cirurgia&nbsp;&nbsp;Sim",
-      "sources": [
-        {
-          "name": "Tribuna Online",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQm9YT2s5YTRGZ0NLZGFfWUM1QklVVzFtMFVKd21rcml2RGVLaEgyOXR3NTlMZkpNeVpDaU5pNW9Pa3RqSlIwZE5EbmJmLThJMXhnSE5fNGU0N2tUNmVMd1NqY3hCX0hIb1YxSUVKaWVkRm1RU0lXZWJKSVJadXJOM3FrNW9hZ1R4WmtvM3JhZi0xVlU3MG5uakkxRXhXTWhqbG9WMEhxLUV4dkU2bHJtX0xfNmZ6d2sw0gHAAUFVX3lxTE1oSVRzNkFKNFZ5clF0U2tfSk9KQXllSWdhNV9WTjRTeG9CTU5oUFFSbmhMdkhheldobzhyVmo2TGswNVFfaVV3RTMxdGxFN0FucmFndFVkOEFXOVQ0aEE4b3NoeGhpN0FGYWw2Vm4yQjVQcDNTV3JEcEhoNy1uNTktOFFfNy1RaXJseHM2TmhwVlMxell3WlNNR0Q2ZVdkTUNIRW9JNGExNHQ0eExkZXNZaDBzWG9LSmxHU1RqM29Ccw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5b72f069fcee",
-      "title": "Uma descoberta surpreendente: a solidão pode ser benéfica para o seu bem-estar se você souber como aproveitá-la - Super Rádio Tupi",
-      "published": "2026-05-06T19:20:11+00:00",
-      "summary": "Uma descoberta surpreendente: a solidão pode ser benéfica para o seu bem-estar se você souber como aproveitá-la&nbsp;&nbsp;Super Rádio Tupi",
-      "sources": [
-        {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWmlBaVRjT2hVX0VCelpad2EwVjc3UnlWN2JndEU0Mm12VmRoUDJUbmNqS1pRWmlaZHVOcWhpYURiUHVRNlNXd0VUd0VmZ044VmtnanJwN2oyQWdveDFVVUlMOGVHZnVpVWVJcnE1RFo5clczNDhHWkcyM0wtM3pIM1RwMmZtSDltZGQ3cWx4azk5NGpzWTg0UVlCZ1IyNFNhR0E0NTJqeE5TWEpmWWVWNXJRTUNDY2c5WnltSTlxdzdCcHE5ams5WWk2aURqOGZmY0N0bk9ZTFZSWE9ZRWhV?oc=5"
         }
       ]
     },
@@ -222,38 +246,26 @@
       ]
     },
     {
-      "id": "15bf557fe733",
-      "title": "Cruzeiro com hantavírus: Suíça confirma cepa rara ligada ao surto - CNN Brasil",
-      "published": "2026-05-06T17:31:07+00:00",
-      "summary": "Cruzeiro com hantavírus: Suíça confirma cepa rara ligada ao surto&nbsp;&nbsp;CNN Brasil",
+      "id": "c44d86f395ea",
+      "title": "Mundo em alerta: vírus mais perigoso que a Covid-19 pode se tornar a nova pandemia de 2026 - TNH1",
+      "published": "2026-05-06T17:39:05+00:00",
+      "summary": "Mundo em alerta: vírus mais perigoso que a Covid-19 pode se tornar a nova pandemia de 2026&nbsp;&nbsp;TNH1",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYU9odEYteHVITVJSWnJqck5pN2x2VW9wMGJZMWVUMXB6U29Fdlp6OGp3Vk4zQ21pM1NKY2xDallRUWxoT2xOa3E0MXFQUGpzbXdza2lWZGZMWFdPbDlCTWZMVFFRV2VoRkhreVNvTGtjeTNoeTh6bjlZem5lbmV6UXhyU3BiV1lTcnhiVzJSbkp0ZnJnd3NCQU0telAyTlBsWVpWcVU3cEd1WEN3?oc=5"
+          "name": "TNH1",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcG5lc3VITU1WbFNuS1BSVU5SSFZCWHVnWmZMb1FMNEtwd210d21aaWJ6N09IM19mRmZySktydG5xb0tMakoxcDNXNEhFVVE0cUlJMDAyS3RoZUpKWHRTY0FXWkJZRFRMeElZT0pJSFM5MlhKMkUzcFVRZ3hWM2VHNXoxYkMxTjZpUXJ0QXFxWEEtRW4zejEtMTVIclJhR1VuR0c5MUdvSGxXWU1jMXIzTzFMME9iaUkwNnJ5aHpqdGZJMG8?oc=5"
         }
       ]
     },
     {
-      "id": "9137b812f7c0",
-      "title": "A psicologia diz que adultos na casa dos 30 e 40 anos que ainda jogam videogame estão construindo algo que só verão aos 70 anos - Catraca Livre",
-      "published": "2026-05-06T17:26:00+00:00",
-      "summary": "A psicologia diz que adultos na casa dos 30 e 40 anos que ainda jogam videogame estão construindo algo que só verão aos 70 anos&nbsp;&nbsp;Catraca LivreAdultos entre 30 e 40 anos que continuam jogando videogames estão construindo algo cujos benefícios só verão aos 70 anos&nbsp;&nbsp;Correio BrazilienseAdultos entre 30 e 40 anos que continuam jogando videogame podem estar “treinando” o cérebro para a velhice: estudos em psicologia e neurociência ligam games a memória, raciocínio e preservação cog",
+      "id": "ebdeb0c37525",
+      "title": "Fóssil de tiranossauro revela nova descoberta sobre a espécie - Aventuras na História",
+      "published": "2026-05-06T17:34:46+00:00",
+      "summary": "Fóssil de tiranossauro revela nova descoberta sobre a espécie&nbsp;&nbsp;Aventuras na História",
       "sources": [
         {
-          "name": "Catraca Livre",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUUFIS1k3WUJISktqWGFoMEN5b0o3bG1kb2diT21uYy1uVTNrQnc3ZEt5TVkyWU5ua20zSVFjeHNwSTd4bjl1Y2VrVmRIMnBpcHdycFhXc0cwb0FhWUZFVlVSWDE4aW5PUmRaWFRyTUZPa2gydWl3SXNlNm5ibFh1ZWZvRHpRSlVyZ1duNGxwRDVmb0wzcVVPeXBYdFJEZWNYUEZFOV9RdHJyT0VueVpXMkk1d3gwUXFoX0s1QUFrYXVyVDhxaUxtaDRQS2QzRWd5cWNCa3g2LTlqLUFzR09QXzRKTnZCc3duU1BoNlhjd3lza29uWjU2Qg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5c3d7bdaa779",
-      "title": "Cidade da Bahia decreta situação de emergência por casos de dengue, chikungunya e zika - Jornal Correio",
-      "published": "2026-05-06T17:22:19+00:00",
-      "summary": "Cidade da Bahia decreta situação de emergência por casos de dengue, chikungunya e zika&nbsp;&nbsp;Jornal CorreioAlagoinhas decreta situação de emergência após mais de 1,3 mil casos suspeitos de dengue, chikungunya e zika&nbsp;&nbsp;G1Prefeitura intensifica vacinação contra a dengue em Alagoinhas&nbsp;&nbsp;Prefeitura de AlagoinhasBoa União recebe operação de nebulização para conter avanço do Aedes aegypti&nbsp;&nbsp;AlagonewsCombate à dengue: donos de terrenos abandonados serão multados em Alago",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNd3g4cEhWdmY0TDBwZVNPc25XWm1BUXNHMzNYQ19uM2s4b3MyUXRLZkRCaFRkcUdOY3JBMk54cG1VUGxYdG5NTF9oYzVsTzM4WWZDdlFUQ0pzTFVfNTNlWnUwRGF1UzdoUk9BWmtBQ29uclptLWprd2tzSDFubW0wWmtGVmk4aE9MMGdFX1NyaEk5V3BJbUpHaFlETFZza1JkNkc5ZVB0WlI4RU1sRTdnbmluMl9HT1FUTEFKeS1VY2lBb0xEb2IxdWtMN3NBUXgycmc?oc=5"
+          "name": "Aventuras na História",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMTU4d211d1BBSG1sQm5EYVdHYWlDd1V3RHlKX3lQNGRVeW9Sa3NJcTdXX05oZHphSXpQX0FXcFJiSnpkVkpFODNhZjNlNEZmY1J0Ym9HbXZmRjZ3R016NGpTTFgxUkxsUGNKTktYeDBELUJ3SEtRU3A3NldOZUMyWTRlMm14OTFzTFBhQm9Yd2tXYmVhWGE1aUdzTGZrblBheXIwRGlTTklXempFMjdCbDlDNzlsdHB4ZzlzS3YyVm54a3M?oc=5"
         }
       ]
     },
@@ -261,7 +273,7 @@
       "id": "cad642f65669",
       "title": "VG confirma caso de meningite em menina de 11 anos; são 8 mortes em MT - midiajur.com.br",
       "published": "2026-05-06T17:15:00+00:00",
-      "summary": "VG confirma caso de meningite em menina de 11 anos; são 8 mortes em MT&nbsp;&nbsp;midiajur.com.brEscola Estadual em Várzea Grande foi fechada após um caso de meningite&nbsp;&nbsp;G1Mato Grosso do Sul em alerta: 8 mortes por meningite&nbsp;&nbsp;Campo Grande NewsEstudante com meningite buscou atendimento três vezes em VG antes do diagnóstico em Cuiabá&nbsp;&nbsp;vgnoticias.com.brSobe para 32 o número de casos de meningite em MT; Cuiabá lidera&nbsp;&nbsp;Rdnews",
+      "summary": "VG confirma caso de meningite em menina de 11 anos; são 8 mortes em MT&nbsp;&nbsp;midiajur.com.brMenina de 11 anos continua internada com meningite e escola passa por sanitização em Várze&nbsp;&nbsp;G1Mato Grosso registra 8 mortes e 32 casos de meningites, e acende o alerta&nbsp;&nbsp;Jornal O FluminenseMato Grosso do Sul em alerta: 8 mortes por meningite&nbsp;&nbsp;Campo Grande NewsEstudante com meningite buscou atendimento três vezes em VG antes do diagnóstico em Cuiabá&nbsp;&nbsp;vgnoticias.c",
       "sources": [
         {
           "name": "midiajur.com.br",
@@ -270,34 +282,10 @@
       ]
     },
     {
-      "id": "e9eeb702facc",
-      "title": "Descoberta de menino em quintal muda teoria centenária da biologia - CNN Brasil",
-      "published": "2026-05-06T16:08:14+00:00",
-      "summary": "Descoberta de menino em quintal muda teoria centenária da biologia&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRjI0ZFV4dDdHT2JtcE1QTExMZzBUREw4dTh2TXRUOWk0VTh2RlFtd0UwLVdxRXhaSU9hYVNwSWxKRlZiS2RHcm9BOTh2WlgydlJpOE9xdHNXVzdjcHJIUmFiendsS3VDMVE0ZEhmY0pZR1I4Zzh3Y01XaDcySS00S2VNV1JNNnVzb2U4UHJBeldHUng3RFl2c1g1ZzRweXd3LWtxdHlMOA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4276cd3c0cbe",
-      "title": "Pai denuncia clínica em Salvador por violência psicológica contra criança autista durante terapias; ASSISTA - Bnews",
-      "published": "2026-05-06T14:56:00+00:00",
-      "summary": "Pai denuncia clínica em Salvador por violência psicológica contra criança autista durante terapias; ASSISTA&nbsp;&nbsp;Bnews",
-      "sources": [
-        {
-          "name": "Bnews",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNkw1Q1ZlLXVXcGdXMzdnemxOcDcwNXhDeUhRSHpUeDJ1dTV4VGZQM2ZIQ2YycERJTHAxMlBZX3JTZXdCcHA0cG03QUZPSTRkRktlcDhvUVhjTTBTZ29ucklQaE5iMGQ1Z0xjLVRHd1l5NmR3N1Vfd1R0cDFtZGtMc0U0cDJLMy1uYjZvUDdOd25ZN01CcmREcXU3WjkwdHZpSGxKcXg2cnBkWnEtUHA4TGlFbHVVMGZPOW54UEFmOFl5MTdIVzM5NUQtaWVYRVg1b0w0SVNndVBxLUZNaGt6Wk1VekpxNzlYajF1RTFR0gHzAUFVX3lxTE82djdLN2dPNkxGcDZwek5Gam5FLXM5RHZQeW9EVnNBUXhrQ05HU2VNWllFQzFocXR3WjNNWUpmMU1yeEQyNHhmaFc2R3JTa2FLZEI2Q2xxVDRwMEgzdkdteHJZaXNFWFlHNEpud0N2eFg1bmxTUVFobTNRX005YklRMHhsQVhtX3BVa0N4a3RjMXF6cWRFOFZYcDdrZm5IQzU5WlVXS2VqUTEwTnpEbGt4M2htME9oVDYwbG9NLUZWb2NlQ3EtUUk1aExHak1vQUlYLUxHRUFLREFacFIzdjhPcFM3TDdhOEJtNDJmblZYcU5aRQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "db0d86a4c744",
       "title": "Vai viajar para a Copa do Mundo? Veja quais vacinas deve tomar - CNN Brasil",
       "published": "2026-05-06T14:38:45+00:00",
-      "summary": "Vai viajar para a Copa do Mundo? Veja quais vacinas deve tomar&nbsp;&nbsp;CNN BrasilCopa do Mundo: veja quais vacinas você deve tomar antes de viajar para o Mundial&nbsp;&nbsp;TerraPaíses-sede da Copa vivem surto de sarampo e elevam risco de reintrodução do vírus no Brasil&nbsp;&nbsp;Folha de S.PauloSaúde lança calculadora digital para auxiliar viajantes na prevenção contra o sarampo&nbsp;&nbsp;Secretaria de Saúde do ParanáPlaneja ir para a Copa do Mundo? Veja as vacinas e os cuidados essenciais",
+      "summary": "Vai viajar para a Copa do Mundo? Veja quais vacinas deve tomar&nbsp;&nbsp;CNN BrasilPaíses-sede da Copa vivem surto de sarampo e elevam risco de reintrodução do vírus no Brasil&nbsp;&nbsp;Folha de S.PauloPCPR prende homem investigado por receptação de baterias de lítio em Francisco Beltrão&nbsp;&nbsp;Polícia Civil do ParanáCalculadora digital auxilia viajantes na prevenção do sarampo -&nbsp;&nbsp;portal cambéCopa do Mundo: veja quais vacinas você deve tomar antes de viajar para o Mundial&nbsp;&n",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -306,62 +294,26 @@
       ]
     },
     {
-      "id": "8513ed3049a7",
-      "title": "Alzheimer: consumo de ovos está associado a menor risco da doença, diz estudo; entenda - O GLOBO",
-      "published": "2026-05-06T14:31:06+00:00",
-      "summary": "Alzheimer: consumo de ovos está associado a menor risco da doença, diz estudo; entenda&nbsp;&nbsp;O GLOBOO que acontece com o cérebro ao comer um ovo por dia, cinco vezes por semana&nbsp;&nbsp;Veja SaúdeCom mais de 40 mil pessoas analisadas por 15 anos, consumo regular de ovos, ricos em ômega-3, colina e antioxidantes, pode reduzir em até 27% o risco de Alzheimer e ainda melhorar memória, cognição e saúde cerebral ao longo do envelhecimento&nbsp;&nbsp;CPG Click Petróleo e GásComo o consumo diári",
+      "id": "d08f82bc25c1",
+      "title": "Menino de 8 anos faz descoberta no quintal e muda teoria centenária da biologia - Folha Vitória",
+      "published": "2026-05-06T13:00:54+00:00",
+      "summary": "Menino de 8 anos faz descoberta no quintal e muda teoria centenária da biologia&nbsp;&nbsp;Folha Vitória",
       "sources": [
         {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUUxxZG0wYl8ycTJZMkhJWXZraE9UVHFldm16aHRzdkhIdWJrYnc2ZC1DNFVRRjFrbGJzeWQyQXhsdExwdGRwYzZ4aTF3dzhvY1pRVkdFelVndnBtUjBEaDk1ZllCbWNUZ1JqVktEcmZ1VXE3MlkxQlluWW9TVFYySmtiYU5JNTQzRjFDTmRMeHo2QVk1LUl0ZUFJeV83ZzJaLURxaXFnclVzN29FX2VkY2FQMURucHFqbXBtVWUzWjhiVlFmTnZBYXVRVmh0aFNHZmJWb2pR0gHkAUFVX3lxTFAybXcycURHWU1XNnhhT1ZNS19xdFpCc0ZsazFETFlsN21TNmVUaEFDaS1JMW1Pd2tjSGpubzJBSDlrVmpQbHZfNl9HUHYzQW9yVHJMTUhHMHl5b3BGUTdpU2k0VHVTRUN1WVVrY3l4SnBBaEExaVBiNTJUNG00VGVFWjNNYWw4eG93eVJHX05zRFFMZHk0VDRmdm9PUGQ3T2JQUkRNVmI2LTJuc3ZFUGlzS2tEd3g5ejdKSE1rWE55a290SWFVYW5lU2k1dWg3cG41VkNIMUQ3ZVRWRk83SktseG9TUg?oc=5"
+          "name": "Folha Vitória",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN3pFNXBOUUhNZ0J4NF9abHlWS1lxdzhTVUozeG9WU1RtTlkwMWtNdEdDRXZNTFFCZlUxbVNyN2hpYnVsamJjZGNYRU8yQlZvVTBTOVdkMFRiT2dtSmp6MnhTc2hpQ1V2cGY0cDhvZFpzcmk2M2YwNGwzNHMxd1dzZGtGa0plYnNnWVI0NVE5Mm05dEFWRzNROXhCWkhfWUlEbm9wZkVaQTFWMDhoM1FoUG5yS0NnYzRVSGdBejh5X0hPajk4?oc=5"
         }
       ]
     },
     {
-      "id": "e2ba642ef343",
-      "title": "Oito novas mariposas são descobertas e recebem nomes de orixás; veja quais - G1",
-      "published": "2026-05-06T12:16:46+00:00",
-      "summary": "Oito novas mariposas são descobertas e recebem nomes de orixás; veja quais&nbsp;&nbsp;G1",
+      "id": "859e40ad006a",
+      "title": "Físicos medem hipótese de “tempo negativo” em laboratório. Entenda - Metrópoles",
+      "published": "2026-05-06T12:00:59+00:00",
+      "summary": "Físicos medem hipótese de “tempo negativo” em laboratório. Entenda&nbsp;&nbsp;Metrópoles",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSzZmM1VSeEFJeDJWZHo3REZDVndCMlJTRExmdzdCLXVRdTBSYVlHblR4b2o1RzVpWVRuRnpLaUpranJOdDhkOUl6YS1nNmlwR3I4WGw3TWFKY1RPNjFSTmtjVGpOS0RqUDBjSWVwV2pFalZwLURDMFdZaHh4bnlnTzlOX2hXdV8yeFRWVTJHdGNCZXF6RHllUVFCb29xQllsOWZqYlpsQlVLUVQ3cjhaQ0N2MTRlZnlqVGpJamNOLTBuTE9qZ1A1TF9tT1BieDlEVnUwMGJKMHdVeFN5MTI0dGFVTUZTMDZM0gH3AUFVX3lxTE5wRF9wTXM5TW9aMWhFa0dhNG5IQWxTUlR6WXFRV1I5OXk2MFRoU2ZUdThsbHpiMW0tclNnV3h6Z0VJd1JlalI2blktOGFLaXhhWUV4VllNbzZFbkxwSzNvbjVUZ09Ycm5KTllrdDBmN2xOMFlsWXl6N0E4Y3ZwVThXVEFQYzBfUF9zZHRtSDAzYWhIcGZRRnc0b2dfZ0ctVzdtamp0RjFVbEtBc3ZXcjNCSlpqaHJCY1VPRVVjZnlfSGNKUHY4cHhwLV9udUlKci11aGN3VHFrN19oLXZGS1VBZk1qb3h2QUtyblBXZ2ZURU1CX0xTTUU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5fa0b17210fc",
-      "title": "O que bactérias do intestino têm a ver com o risco de ter depressão? - UOL",
-      "published": "2026-05-06T12:08:23+00:00",
-      "summary": "O que bactérias do intestino têm a ver com o risco de ter depressão?&nbsp;&nbsp;UOLMédica explica como mente, intestino e o sistema imunológico estão ligados&nbsp;&nbsp;Extra onlineComo as bactérias intestinais podem desencadear a perda de memória&nbsp;&nbsp;MedscapeDoenças inflamatórias intestinais aumentam em três vezes o risco de ansiedade e depressão; entenda&nbsp;&nbsp;Jornal CorreioOs cientistas concordam: \"A inflamação intestinal crônica está diretamente associada ao aumento do risco de d",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQ1Zqdi16dU00bWJIdTQtVFZrM1o4ZktJSjJjUUlZYWZzcjRuaFdrM1ZYVzZmR3o2QjVhYXhHU1RRTDV2ZTRPOUVZejNhNkd4MF9udldYMmJWRHBCVnV6cW04WFlYUXMyV1BUdU9EYWJrYWwxbms5dXFwd1hfMGVLTHNxUGhpWk8ySExZSmRMZWQ2eFRPN3IwWmVNWHd2WnUtcDRoV0tiSzZJbU5SLWh2amFyZnI0OUg4Smx4aFJycjNiNlNqOTRibEVsLU0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "04c0fe710664",
-      "title": "Serpente descoberta em Mianmar desafia cientistas com combinação incomum de características - Terra",
-      "published": "2026-05-06T12:00:15+00:00",
-      "summary": "Serpente descoberta em Mianmar desafia cientistas com combinação incomum de características&nbsp;&nbsp;Terra",
-      "sources": [
-        {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPcEVtakFhVWRqR1E2WTg5Z0M3a2lqd1l4RmpMaHl2YThpbVRfN0ZaWXFqRWwxVUh2QTNsZGd1Y3Q3ckk1b29ITjEtMnp5N2FWM28wT0RCeV8xY05rRVh3cGJGeW5OSFl3MDVvOW5RaU96TUxBVVNEb3g3M045cXVTTEcwWTY4Ny03cHJJdE5BV0xSSW1xWG5BTURHcVBPWFBWNWsxbzg2NjVfcUpGNl9KUlpHYlIzWC1kR2hqamJXMWlWZkplUHZvRVM1Zmp0aTJYT1VKdlk1dU1jeF9FRnBCUkRzSl9hQWZRendseFB0emxpbXk4dHU5Y1lHel9uazk3cy1jQkRqVWtacEZBOXZWX0RJdWZrTjBVX3FManV30gGeAkFVX3lxTE9wRW1qQWFVZGpHUTZZODlnQzdraWp3WXhGakxoeXZhOGltVF83RlpZcWpFbDFVSHZBM2xkZ3VjdDdySTVvb0hOMS0yenk3YVYzbzBPREJ5XzFjTmtFWHdwYkZ5bk5IWXcwNW85blFpT3pNTEFVU0RveDczTjlxdVNMRzBZNjg3LTdwckl0TkFXTFJJbXFYbkFNREdxUE9YUFY1azFvODY2NV9xSkY2X0pSWkdiUjNYLWRHaGpqYlcxaVZmSmVQdm9FUzVmanRpMlhPVUp2WTV1TWN4X0VGcEJSRHNKX2FBZlF6d2x4UHR6bGlteTh0dTljWUd6X25rOTdzLWNCRGpVa1pwRkE5dlZfREl1ZmtOMFVfcUxqdXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "69b4a077601f",
-      "title": "Câncer de intestino é evitável? Entenda a relação entre a doença e a dieta - UOL",
-      "published": "2026-05-06T08:30:00+00:00",
-      "summary": "Câncer de intestino é evitável? Entenda a relação entre a doença e a dieta&nbsp;&nbsp;UOLObesidade na adolescência acende alerta para câncer colorretal precoce&nbsp;&nbsp;R7Prevenção do cancro colorretal cresce&nbsp;&nbsp;frequencynews.caHábitos podem evitar 30% dos casos de câncer de intestino; veja quais&nbsp;&nbsp;TerraCâncer colorretal avança entre jovens adultos e acende alerta&nbsp;&nbsp;diariodopara.com.br",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQc3BJeUFfWlFyVF9fX0Z0WXlLNVZISnJzVkF1d2xYelNuSjR4Q3N1M0FZTFczQkhGVkdNbjRhTk5XdG5ycEJaUTR5QVBfV0lsazFITzE4b1Axc2FRX2dvLXl5dmxab1hVY28yTWd1RUVtaHFhLXJ4R29LcEhJSVM4WTM1UEtRQkxEYU8yX2F0Z1czZHJGbWtZV0lwbW8zV1d5Njd5RjZrRW9xaEU1dzF0OXRWVHRGS3pCQWNCRHVQbDRUeDFBcWN4SXBacTMzSDBEZDlN?oc=5"
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYVlvMFM3UEgyaVNvZ3ZnOGpvNzV1RnBCcWp1VnViNXBfdHFzY19DbkJMM3VZOHlXaG5Ob3Y3XzFMSWFuZVJjXzdHUU9TSF9xNzBOZWhLVWZYLVByN1c5ZU9iQ0JqcTFibU82TGNHeGhIeS10VlZiaTJXSkk4YnpBOVgtaVg?oc=5"
         }
       ]
     },
@@ -381,7 +333,7 @@
       "id": "74e1fb1945b4",
       "title": "Microplásticos no cérebro viram emergência - Correio Braziliense",
       "published": "2026-05-06T08:02:00+00:00",
-      "summary": "Microplásticos no cérebro viram emergência&nbsp;&nbsp;Correio BrazilienseDo ambiente ao corpo: como microplásticos entram na corrente sanguínea e o que se sabe sobre seus impactos&nbsp;&nbsp;TerraMicroplásticos no nosso corpo: problema real?&nbsp;&nbsp;InfoMoneyMicroplásticos nas artérias: o novo fator de risco que especialistas associam ao aumento de infartos e AVCs silenciosos&nbsp;&nbsp;Tua SaúdeEmergência da saúde do cérebro: a carga de microplásticos no cérebro humano já se vincula a AVC e ",
+      "summary": "Microplásticos no cérebro viram emergência&nbsp;&nbsp;Correio BrazilienseQuais alimentos têm mais microplásticos? Saiba como fazer escolhas&nbsp;&nbsp;Correio BrazilienseDo ambiente ao corpo: como microplásticos entram na corrente sanguínea e o que se sabe sobre seus impactos&nbsp;&nbsp;TerraMicroplásticos no nosso corpo: problema real?&nbsp;&nbsp;InfoMoneyMicroplásticos nas artérias: o novo fator de risco que especialistas associam ao aumento de infartos e AVCs silenciosos&nbsp;&nbsp;Tua Saúde",
       "sources": [
         {
           "name": "Correio Braziliense",
@@ -393,7 +345,7 @@
       "id": "ffde0c8f896f",
       "title": "Qual é a dose ideal de creatina? Veja que a ciência diz sobre os efeitos no corpo e na mente - O GLOBO",
       "published": "2026-05-06T07:02:20+00:00",
-      "summary": "Qual é a dose ideal de creatina? Veja que a ciência diz sobre os efeitos no corpo e na mente&nbsp;&nbsp;O GLOBO20g por dia? Veja qual a dose de creatina indicada pelos especialistas&nbsp;&nbsp;TNH1Suplemento famoso de academia vira aliado contra o estresse e a fadiga&nbsp;&nbsp;NSC TotalCreatina faz mal para os rins? Especialista explica se existem riscos&nbsp;&nbsp;TerraCientistas revelam o poder oculto da creatina além do ganho de massa muscular&nbsp;&nbsp;Catraca Livre",
+      "summary": "Qual é a dose ideal de creatina? Veja que a ciência diz sobre os efeitos no corpo e na mente&nbsp;&nbsp;O GLOBOCreatina faz cair cabelo? O que a ciência diz sobre o tema&nbsp;&nbsp;Assine Abril20g por dia? Veja qual a dose de creatina indicada pelos especialistas&nbsp;&nbsp;TNH1Suplemento famoso de academia vira aliado contra o estresse e a fadiga&nbsp;&nbsp;NSC TotalCreatina faz mal para os rins? Especialista explica se existem riscos&nbsp;&nbsp;Terra",
       "sources": [
         {
           "name": "O GLOBO",
@@ -410,30 +362,6 @@
         {
           "name": "R7",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSXBxbDdWX28zWEh0dDJOOGwtWUgwOERQR3RmazI5T1dmZGE5bjJCaGhLTEF6Tm5ua0NqYm9VTFRPcnpKejBycldleXlCR0hXOC1VTGdoZGQ2NWVDb0xBNklOVlNhWUhxbW5kYUpSLTlZODNpOE5GZ0cxNWRlVWl3MW1DdGJCaG52X0huLUxOdDVndExaMTNDV3RPaUlQOGZtVk9CRTBGZ3czMEVLY2xRZ0pobw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "35fadd2d7d25",
-      "title": "Risco de AVC: 7 coisas que nunca deve fazer, segundo médicos - DOL",
-      "published": "2026-05-06T02:58:49+00:00",
-      "summary": "Risco de AVC: 7 coisas que nunca deve fazer, segundo médicos&nbsp;&nbsp;DOLMédica Fabíola Oliveira explica sobre AVC e quais os sinais de alerta&nbsp;&nbsp;G1AVC pode ser fatal em idosos; saiba identificar os sintomas a tempo&nbsp;&nbsp;TerraReduzir o risco de AVC: 7 coisas que nunca deve fazer, segundo médicos&nbsp;&nbsp;Notícias ao Minuto BrasilAVC: como reconhecer os sinais que antecedem o quadro mais grave&nbsp;&nbsp;ND Mais",
-      "sources": [
-        {
-          "name": "DOL",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcVFCZ21ncmQ1LXYxOUNMb2ZGMkFnaTVTeHNGbXhwZ2loQ3YwTzZHZHI2dVVmVk1GQWEwOXJSSzB6M2NBWS0tRlA2YXFaaHFsazR1YWFFWEpGazBzVUE5TGhWSnZyM3Q1Z0xYb1htWFYxRzl6X0NRVVhrdzhlV2pSbzVFbHJESTRhSUhzNVcweVpZYVpBT1A2OEFmSVl6WDMtQXFxRNIBrAFBVV95cUxQN3hOM2lod2ZPZUt2cHNyTHJlSzU1ODBDR0dPQnc4Q2wxT2NiMkdBVUtmcG4yRVNZdHVXaDV5NG1HWUtYczdJbGVJbVl4RjBlV0UxRFNGWFFtTTVoWTBJRlNjZ2phaWtRNHlkeUpvcE82MGNYM3RESXlFa3lSRGNPcGllU1Q1R0p5M1dmTFpDQlo1OWxEN3d2dmh4QUtQS2RZVTVWWlN0WEc3Umoz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9ece20b5f8ad",
-      "title": "Quatro alimentos que mais ajudam a recuperar a microbiota intestinal - Metrópoles",
-      "published": "2026-05-05T21:47:00+00:00",
-      "summary": "Quatro alimentos que mais ajudam a recuperar a microbiota intestinal&nbsp;&nbsp;MetrópolesExpert lista hábitos diários para recuperar a microbiota intestinal&nbsp;&nbsp;Metrópoles5 superalimentos comprovados pela ciência para cuidar da sua microbiota intestinal&nbsp;&nbsp;Tua SaúdeOs alimentos fermentados que podem favorecer o intestino, como atuam na microbiota e quando vale colocá-los na rotina&nbsp;&nbsp;Correio BrazilienseNem suplemento caro, nem fórmula milagrosa, alimento comum pode ajudar",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTGREajJ5NTVYX1hKRVhtYmwzdTc2LXFvWXhVUWlQZEdKQmljYTNROVJ2WFBPN00tMzRSRHJ2NWtpNFc4ZTBoV01kNzBmMWZOck9fSklmQWJkOVpCeGZGeWs0QUY2WEx1aFFaU1BHTXQ4MnhrSXhjazQtbnFDUERMdk9kMm5VZFVnSUM1ajMwVE5DRHFSd0p2VklYZ2xWX3VIbjJydXRpMmc5MlBFZmVmc0xLcVNFZk44SWt1NA?oc=5"
         }
       ]
     }
