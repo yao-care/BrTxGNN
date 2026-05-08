@@ -1,19 +1,103 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-05-08T07:44:54.822035+00:00",
-  "total_fetched": 93,
-  "unique_count": 92,
-  "health_related_count": 33,
+  "fetched_at": "2026-05-08T13:54:38.121715+00:00",
+  "total_fetched": 95,
+  "unique_count": 94,
+  "health_related_count": 37,
   "news": [
     {
-      "id": "b491ad41cbd2",
-      "title": "Contaminação microbiológica: entenda o que levou Anvisa a recolher e suspender venda de produtos Ypê - Banda B",
-      "published": "2026-05-08T01:13:00+00:00",
-      "summary": "Contaminação microbiológica: entenda o que levou Anvisa a recolher e suspender venda de produtos Ypê&nbsp;&nbsp;Banda B",
+      "id": "92b04690ca0c",
+      "title": "Perigo? O que fazer se você entrou em contato com bactéria de produtos da Ypê - Diário do Centro do Mundo",
+      "published": "2026-05-08T12:37:53+00:00",
+      "summary": "Perigo? O que fazer se você entrou em contato com bactéria de produtos da Ypê&nbsp;&nbsp;Diário do Centro do Mundo",
       "sources": [
         {
-          "name": "Banda B",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQblVvSmE1THphTm9kZU9za1VMODRtaExsSVkzVld2blhRdzl6dmIxWlREa1VVb19qTU1LVGpRUU9VSDBYb21mQWRMOXFVbG5yVW9uakp5UklwektfX3B5bExuNGx3Z2lzLTMxanhHUGVZUFlyWGp2dF9tNWZ2MUlXaTYxMF83U0dQQmxNa1NXbUY5NVFJQS13OFBJTVhmd05LMjdiLW10X1UwQdIBrwFBVV95cUxNWEtlN0hYcnMxbTRmY3NtWVFUS0VTU1pfRDBPYXpTaUhYb2lqMGdIRzU4ZFcwUF8taWVULTFIU3hMbDJ6SmQyV2tBTVdXZE5zX2d4Q2VXUXEwRHZKWXV5RmpSS1hHNVlzRURFSm03X3c0UnBfeFItelBqd2lBUXJReTQwaURMenpCYkxvSmctaDFISHZMMWxpV0hqZ2JGWmRMLVBJUTg0c2dMSVpvTXFN?oc=5"
+          "name": "Diário do Centro do Mundo",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSk5yc2ZSVWdfVE1oaEJ6XzgyUnpsLXU3aUpkM1BZdGYtbHBMS012Umk5MUJnRVc1ZTlYOE5MSGswYnBHalFyYlp3bnpKUGl4N2xTZTI1RXNOLU9XZG9XY1VpQlR0cXYxcVI0aGc0OTkxZThSN3dSVnZUS0ZDXzc5MTdZQkE5cU83OXJhY0NvZmpHZVVnQ25uTjJ3Tlh1dlFUMFViZndsdmdNYWp2R0R1dVRpblpBYjJXMndhbTJ5QnBjYW03OVN3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "54074df69f21",
+      "title": "Japão confirma primeira morte por ataque de urso no ano - O Dia",
+      "published": "2026-05-08T10:44:25+00:00",
+      "summary": "Japão confirma primeira morte por ataque de urso no ano&nbsp;&nbsp;O Dia",
+      "sources": [
+        {
+          "name": "O Dia",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTU5LV0pZVDdBakdjb2psZ2c5Z1RwUmN5aWZiaU9EeWU0bHZlc0tBYlVBOGtoeGROeVR2c2J1dHlld1ltRU1UTFVaaXZIU3ZsTzBzeHl0SFhVaFdJLUxfZHVvbjJETFB4Z2pWYjByczRTdElTWkJuSENGS2cwYk96b1Y4YWVzcWNabGpIQi1SSjg2SF9nX28zdjlFaF9mNTM4ZjRPRm5rd1ZQekZ2b2tNaTI0R2lMZ9IBuwFBVV95cUxPemNVOTFRdFRnLW9qYjU1SjQ5Nk5KMl9zVUhQc2tHLVNrOUFtblBrR2hLR3BaTDB6MlVrRDVvT0FrOTh5MnpUMHFtUmdTYW51SUJPYUxMU2pKYWRvX084SHZJbnZfMGZTTzFmU0JQbURsQXA1Nl9OMkN4TlRfZDRKY0VIYnF3b2t1WTgwLWU2elE0Tnc5dmQ2NnJobEJkV3Q5S1Q4d3ZWQUpiaGFjUEE1bVZpVXJzc2g2WVF3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0036bfb95e47",
+      "title": "Novos estudos detalham as mudanças no cérebro provocadas pela segunda gravidez - VEJA",
+      "published": "2026-05-08T09:00:26+00:00",
+      "summary": "Novos estudos detalham as mudanças no cérebro provocadas pela segunda gravidez&nbsp;&nbsp;VEJA",
+      "sources": [
+        {
+          "name": "VEJA",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU2lPWjQ5U3VmT0ozSXN0SGtXaV9MMWFpR1B6WkN4ak5DTGxXNVBXYzFVNGFCb2pyUUtUN3draWtsMEhab0I1b1ZDakMyNXZJanVDeFRSTEg4ejFleUdPRFVhaUYyUU5XelNuazhQNjRuYkM3RDk2dDhta08xYUJmbkw0MVItYjBzQXVOZDhxekdkVFVZMXk4ZDItNnlVMlNldEl3NXlsa0tNVUxuV1JpN0Nkaw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "66d0851ebbbd",
+      "title": "Gripe avança no Espírito Santo e médicos alertam para vacinação - Tribuna Online",
+      "published": "2026-05-08T09:00:00+00:00",
+      "summary": "Gripe avança no Espírito Santo e médicos alertam para vacinação&nbsp;&nbsp;Tribuna OnlineAmapá está em risco para casos de síndrome respiratória aguda grave, aponta Fiocruz&nbsp;&nbsp;G1Aumentam os casos de Síndrome Respiratória Aguda Grave em todo o país&nbsp;&nbsp;Agência BrasilFiocruz emite alerta após alta de casos de síndrome respiratória grave no país&nbsp;&nbsp;TerraAlagoas entra em zona de alto risco para doenças respiratórias graves&nbsp;&nbsp;Tribuna do Agreste",
+      "sources": [
+        {
+          "name": "Tribuna Online",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNHpwMGJRMjdhd0xwa3gtOFlCOHFYV19ZMFNPRXZXZGwtZDdzelhXR252b05mUGxnLWFCcW5JdGFjNHZqMzNuQkZyZUstYWFCQzBJYXkzRDVTZ3J6N3JwdmdZNElXeExzVkxtTUFJOW1VNmkzQWZscUZPYVlLRGhIMW1pZkdiaThPNzNJbnhqRFFDNkpHQndqZGZib3FGWWExQXlSNEtCWHbSAbABQVVfeXFMT19oR0tPdTUzN0FFNFFucWc1MnJpZE4tM3ptX0t4LW9Ub0EzU1lXR3JEZHlOX3B3UHhDRV93Ukp5YTBIamF1cmhaNE1jRFUxT1pzZ09ORTJmQXd6RkhLTUkxSmg3WEktTHVudzRXQXBjOTRUVHNJREFqVDNNTWpPclJCbDRGUGV5X1FQUVVpd2tua3BXdlJvNG9Jd0tuYkRneTROSVlRbE9SWldEb0thS1M?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "67167d9c39ed",
+      "title": "Água destilada é aplicada no lugar de vacina contra gripe em MG, e três profissionais são demitidas - G1",
+      "published": "2026-05-08T08:04:42+00:00",
+      "summary": "Água destilada é aplicada no lugar de vacina contra gripe em MG, e três profissionais são demitidas&nbsp;&nbsp;G1Moradores de cidade mineira recebem água no lugar de vacina contra a gripe&nbsp;&nbsp;Estado de MinasPacientes recebem água destilada no lugar de vacina da gripe em MG&nbsp;&nbsp;MetrópolesMoradores recebem água destilada no lugar de vacina&nbsp;&nbsp;G1Pacientes recebem água no lugar de vacina da gripe em MG; técnica de enfermagem é desligada&nbsp;&nbsp;O TEMPO",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWFhiNlJ2SnBlMjdKSGdWM1pNWGNtT09XNWh1a0pjU20ta2FQSU5aQnQ1MWZPc1JZbktXaUxwZjNDZDdrRF9EVlFPQnN6Z3kwS2llMW1uOEMyT3hjU3c5MFZrZUIyc2M3Nk1CdmdjWHg1U2V3UjlhUktvZUhQUjR5VVRkV3h5ZklJZmNnUk9YcHZWODh0X3Voa3otUG9WNGE4UThrejV3MThqUEZ5RFJmVzRxQ0szNTE3ZElBZkZsZ2pnOXBUR3ROSEZrNFlWVGc2ekNPZF92ck1pSXZRbi03dlJPUVhpaUVPLUNVVEpCdkYxZ9IBgAJBVV95cUxPWFR0WTUzME1lcTVGXzQ5dmNPbWhPMk5oeC1qQkktTWJQckhNUmY1Tkp2U2JoZi1ocXVaSUFlQ3VSclk3ZnpSTEhHdVZfVGRRVkRWV3UxaHZQNEwwQVNydzJQSkNmUHVZQm4yTXFqQ0VDWVlHSHd4YlpFNm8tR0c2T1YyLWt6RmtneU1FNEFVbVVvLVllUlA3LXM0YTZWd2RxV05wdktDb2RIcGI1T1lYbzhpZjA0RVJiYTgxZGttMnoycUwyY1pTU2daZ1RLd1RCVlZKZVRONGNXNmR1SHBZbDlFVmlnZlF0V3Vtb29DcDljV3Q3TlJQZkRDNDdWTEJo?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e4682816efd9",
+      "title": "Mais do que batimentos por minuto: entenda por que a variabilidade cardíaca virou 'obsessão' fitness - O GLOBO",
+      "published": "2026-05-08T07:02:12+00:00",
+      "summary": "Mais do que batimentos por minuto: entenda por que a variabilidade cardíaca virou 'obsessão' fitness&nbsp;&nbsp;O GLOBOVariabilidade da Frequência Cardíaca (VRC): o marcador de saúde que revela quão resiliente o seu corpo está ao estresse&nbsp;&nbsp;Tua SaúdeBatimentos muito baixos ou altos podem elevar risco de AVC, diz estudo&nbsp;&nbsp;MetrópolesVariabilidade cardíaca revela mais sobre sua saúde do que você imagina&nbsp;&nbsp;Notícias ao Minuto Brasil",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdTdHWm5iTkZsVktLWEk0anRrZ3ljSXRuVnl1Y2JLUUo0YVlLVHk3Q1NnTlJqRkZzY3Z4M2sxNmlvVGZXMmRLTUlDWkNhYWF4cXdDeDkzNVdkNElfNzJxSTVwUHZSdEFaQjhtdnhzVFpKTnRJXzF0U05Tenl3LVpFV3g1TWRhUEFBYlZ6LXJwSUNfNV93M0RwdEpkbUFjWTNjOEU2NzdLQ2QwNWljcXZ4WHdIbnlpM1Q4SnlKWGh1aEZQOW4yRkcwVnR5Y2dZZG5jaFFtYWtXVFRsdlVHOGZhSExCOFhrbFFfTWFKN0xHWTLSAf8BQVVfeXFMT01GTWh4Rk5adlRQWWYxZ00wNTFnMkkyWjFULWtfQmQzQmxZTDlYUlZmSHZ4LVgwTW1QdFlUbVRaTVJCZ0FYQm5ZZEh0N3RQdGtfcWZ3WS16UmdIcVNZNl9Oc3BIT0lVNmI4c1YtUVc3ODFMQlF4dE1MREZLMk9XM3gycFNGQ2FtUU4wTEhpcGNSRmdzdGxQalZWOXNnSWFTSUxYWDhfaFhEdVE0Mm0yWWh4LWFrWmNzOHVUTUdrVXphU0pnNGwtOFpiU0ZsMFhkeDdwVWlOcU5iNVNVeExPb3hyOFNWcERtaGk2YmhIM2dmbmpmbGt1OXhFN21YcXJJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ed4b19ff98d0",
+      "title": "O peixe gigante que atinge 200 kg e salta da água para capturar aves e primatas na Amazônia - Revista Oeste",
+      "published": "2026-05-08T05:25:00+00:00",
+      "summary": "O peixe gigante que atinge 200 kg e salta da água para capturar aves e primatas na Amazônia&nbsp;&nbsp;Revista Oeste",
+      "sources": [
+        {
+          "name": "Revista Oeste",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWE5ydENPaEZFTS0yWDVDN1VhVVNyVU5hbXAyLXJhZzQxMFBUN2VqNVVYc1lIeEFsWHY4VGxaTHBZdEVLdE5ud1JBcnFXQmUtemJpQU5hRWZ5N0VKVUtaVjBvN0ZYTjRjVjFvRE9yVkRIMlJYYlJYazBibkFBNHR2Wmg4eGdsQVhCNWFYbzJTeHBqSTZrU2ltOHFNbDRlNVQ5ZW9nY2pjd2lDY1B6em5BZmJKc0NhdERmV0x6VzFSZk9iVUZwYXZ4a3B6ZzdiemRHcDVxVk9R?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8ea1ce3cdf42",
+      "title": "Mulher fica com a pele preta e azul após começar a tomar medicamento; entenda - R7",
+      "published": "2026-05-08T05:00:01+00:00",
+      "summary": "Mulher fica com a pele preta e azul após começar a tomar medicamento; entenda&nbsp;&nbsp;R7Veja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "R7",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOExmbnRYcVBFVUFFUUdlWFZkNExnU28xNm1qRGpFMWM1eEROYjIweEM2emF5cmloQ3ZXX0FCd3Y5dVJUXzIxU1Rrc19OQXN3VFl1a2Z1bVM0RzhjbzhULTlneWp0d0U4bm5qa0szMTRFMy14dWpuYWFyWEpDcUw5OUVXOHhteU9wZ0dnWV9wemduTzVzdm5QLW52aVd0MC1SSURscFloWW04NGRlQnhjbDdHRTdOYTlsTkZIYTlFYjE5dw?oc=5"
         }
       ]
     },
@@ -33,7 +117,7 @@
       "id": "a137d5c79910",
       "title": "Lúcia Helena: Vaginose: como um probiótico ajuda a acabar com esse problema malcheiroso - UOL",
       "published": "2026-05-07T21:55:58+00:00",
-      "summary": "Lúcia Helena: Vaginose: como um probiótico ajuda a acabar com esse problema malcheiroso&nbsp;&nbsp;UOLComo o desequilíbrio da flora vaginal afeta a saúde íntima das mulheres&nbsp;&nbsp;GloboDoença vaginal que afeta uma em cada quatro brasileiras pode ser contornada com novo suplemento&nbsp;&nbsp;VEJALibbs Farmacêutica lança Zaila para microbiota vaginal&nbsp;&nbsp;BHB FOODLibbs lança probiótico para equilíbrio vaginal&nbsp;&nbsp;Panorama Farmacêutico",
+      "summary": "Lúcia Helena: Vaginose: como um probiótico ajuda a acabar com esse problema malcheiroso&nbsp;&nbsp;UOLComo o desequilíbrio da flora vaginal afeta a saúde íntima das mulheres&nbsp;&nbsp;Globo.comDoença vaginal que afeta uma em cada quatro brasileiras pode ser contornada com novo suplemento&nbsp;&nbsp;VEJALibbs Farmacêutica lança Zaila para microbiota vaginal&nbsp;&nbsp;BHB FOODLibbs lança probiótico para equilíbrio vaginal&nbsp;&nbsp;Panorama Farmacêutico",
       "sources": [
         {
           "name": "UOL",
@@ -45,11 +129,23 @@
       "id": "28d781983a13",
       "title": "Jovem de 23 anos morre vítima de dengue em Londrina - Tem Londrina",
       "published": "2026-05-07T21:31:33+00:00",
-      "summary": "Jovem de 23 anos morre vítima de dengue em Londrina&nbsp;&nbsp;Tem LondrinaLondrina registra primeira morte por dengue em 2026&nbsp;&nbsp;Folha de LondrinaLondrina completa quase um ano sem mortes por dengue e mantém queda de casos&nbsp;&nbsp;TarobáLondrina confirma primeira morte por dengue em 2026 e registra queda de 60% nos casos&nbsp;&nbsp;Rádio Paiquerê FM 98.9Londrina completa quase um ano sem mortes por dengue&nbsp;&nbsp;CBN Londrina",
+      "summary": "Jovem de 23 anos morre vítima de dengue em Londrina&nbsp;&nbsp;Tem LondrinaLondrina confirma primeira morte por dengue em 2026&nbsp;&nbsp;G1Londrina registra primeira morte por dengue em 2026&nbsp;&nbsp;Folha de LondrinaLondrina completa quase um ano sem mortes por dengue e mantém queda de casos&nbsp;&nbsp;TarobáLondrina confirma primeira morte por dengue em 2026 e registra queda de 60% nos casos&nbsp;&nbsp;Rádio Paiquerê FM 98.9",
       "sources": [
         {
           "name": "Tem Londrina",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdDBqak9iR0tJVGdNU2ljaVRnM0ZzZ1RDNF9ob1RDSWhjaGVsRHROclA3ODhIVjlEU1FEdjhlUllNZzN5Ykw3YlQ5YkFIeW9NSHdVY0dpM2FqbkxxOFVtNXVNbnl0MENlMWRfUnprNmZ4ZGZodE1LdTZ0WFZpTDF2V2JfSWF2XzlPYmtoWW5n?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c995acb4912b",
+      "title": "Criança morre após contrair ameba 'comedora de cérebro' em RO - G1",
+      "published": "2026-05-07T20:43:50+00:00",
+      "summary": "Criança morre após contrair ameba 'comedora de cérebro' em RO&nbsp;&nbsp;G1Agevisa investiga caso raro registrado no estado&nbsp;&nbsp;Tudo RondôniaCriança morre após contrair ameba rara 'comedora de cérebro' em Rondônia&nbsp;&nbsp;Diário da AmazôniaMorte de criança por “ameba comedora de cérebro” coloca autoridades de saúde em alerta em Rondônia&nbsp;&nbsp;ac24horasNaegleria fowleri: Agevisa investiga caso raro de ameba em Rondônia&nbsp;&nbsp;News Rondônia",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZVlMTkRJMzF5UksxbjdGX0lGVmlIbUVkcG4wTkctM19EOW9rWnVyVmFWRUZKQU1Sd0JHTk95Q0VURU4zV3ZiOHNXYnZTaW5xQWxqQUJCSlJyYWsxMHNjUjBjRlJyWnFrdE9TaktwZUpaeGIyNnEwZE9MYmNveE9yMlAtQndGY0NWUVVITlVwWWRCeERKWGRpekxfTjB6a2s2UDZBcGdIVE1uMHRKMW1zMFNtZGhRc3dHU3cwYXpEakR2LVV1VzNiSkJrMW0xdDVCd0JZ0gHiAUFVX3lxTE1SeUUxOFR4TkdnU0xmT3lSOVp1NGtiM1R4Rldzc0xfdzEwdXNFal92c1ljX3R0RlV4MlByTFhPRkJtODhYVkpKOWUzQVRNTEZUYTl6djk3QmNicnpZSmpWUTlrZGpMODRkYTJSV0lxZ25obDdWTHpoVlByVUlaU2lIelAzckcxdnM0QVJpX1JpV1JPcnk1UVN6OUNLLWplTktiUF92anRtR0dmbnE3Vjl0THhyak5fYzVBU0RYQUxVaUVHVnpzZklvMjY1U1VpUHVvdzVBS0NlanpfUE0xa0JqUmc?oc=5"
         }
       ]
     },
@@ -69,11 +165,23 @@
       "id": "ae592deaec3a",
       "title": "Novo ‘Ozempic’ oral reduz desejo por comida ao agir em áreas profundas do cérebro - Olhar Digital",
       "published": "2026-05-07T18:43:00+00:00",
-      "summary": "Novo ‘Ozempic’ oral reduz desejo por comida ao agir em áreas profundas do cérebro&nbsp;&nbsp;Olhar DigitalCanetas emagrecedoras: Estudo japonês aponta como cérebro pode fazer Ozempic funcionar melhor em algumas pessoas; entenda&nbsp;&nbsp;O GLOBOO setor mais aquecido de Wall Street… grande armadilha para o investidor?&nbsp;&nbsp;Investing.com Brasil - Finanças, Câmbio e InvestimentosBolha do mercado de GLP-1 coloca setor farmacêutico em risco, sugere relatório&nbsp;&nbsp;Guia da FarmáciaO lado n",
+      "summary": "Novo ‘Ozempic’ oral reduz desejo por comida ao agir em áreas profundas do cérebro&nbsp;&nbsp;Olhar DigitalCanetas emagrecedoras: Estudo japonês aponta como cérebro pode fazer Ozempic funcionar melhor em algumas pessoas; entenda&nbsp;&nbsp;Época NegóciosBolha do mercado de GLP-1 coloca setor farmacêutico em risco, sugere relatório&nbsp;&nbsp;Guia da FarmáciaO lado negro dos medicamentos para perder peso: os surpreendentes custos ocultos do Ozempic&nbsp;&nbsp;segundabase.com.brCientistas descobrem",
       "sources": [
         {
           "name": "Olhar Digital",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObnhHNm5MUEdQUXY0akNDQjlVVGprWEZOa0ZCbGpGOEFIN1BOcnRUckJfWW0zTWc4WmRsaVIwVU9BT2dFeUltOHBkcGU4XzViRHBaZms2M0FaOUQyMVB1dlpadEJjZFlBZ2VRZnJnc3FBZkNJMVRxelowaE5HY2lQc1JEckFTWmktVHR2Tkoyd0FDMERIME9SNWZiUDRoV29lajN0OExkYjQzcG1WMlJheW9FYm41VnVpVm84bjJvSDdpY3NSeU9iUHA1VnpGOUtwUnc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0226ed4df3da",
+      "title": "Saiba por que café pode afetar cérebro e intestino - CNN Brasil",
+      "published": "2026-05-07T17:21:32+00:00",
+      "summary": "Saiba por que café pode afetar cérebro e intestino&nbsp;&nbsp;CNN BrasilOpinião | Café, memória e o desejo da prevenção do Alzheimer&nbsp;&nbsp;EstadãoComo o café muda bactérias intestinais e afeta seu humor, segundo estudo inédito&nbsp;&nbsp;saude.abril.com.brCafé: Estudo internacional descobre benefício improvável da bebida&nbsp;&nbsp;Revista FórumEstudo explica o que acontece com o humor e o intestino ao beber café&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTFowMVEyR3pqVHI2S043b1BSNVJtaEx6TDk2bDl4SUdyT2ZsUVQwVzJnb0YzZ1IwWWpVTF9LT0tEVERPOXlMcnVUU184RkN2UGNVdVhMckUzeXJ1TU1EX2VRUUFyZG9YVEFtZF9HRF9UM3pWcDZpc3FEcWNPWldHaXF2STFyMzdFNUJnckJHdw?oc=5"
         }
       ]
     },
@@ -126,14 +234,38 @@
       ]
     },
     {
+      "id": "bdb4a819d6b0",
+      "title": "Descoberta estrutura de madeira escondida sob ilha artificial de 5 mil anos - Olhar Digital",
+      "published": "2026-05-07T15:18:00+00:00",
+      "summary": "Descoberta estrutura de madeira escondida sob ilha artificial de 5 mil anos&nbsp;&nbsp;Olhar Digital",
+      "sources": [
+        {
+          "name": "Olhar Digital",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNEVtOGNaV2JEdjN1NkRJZzNaZ1F5bDZhREQyWmwzSFZMX1VETFVHX2VBc0JQQ3V5QV9iNjYyckluUEg5YTdRbVp5Wmx0dUhkLVl6RDdRYlhTTDVzdVZBMzlPVXpZejFXazhDN0Q5MTVMNEFIVVVrVGlwdjkweWVEWU5FNFRIWS0tcGxxQjNIdjlRRUN5aXlRY0MyTExVa2J1UjlzbmdmekxXWVBfeFBSUEg4U2RnY05VdGNDMG5ZNy1mQmpza1J1X3h2YTQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "bb1863017f5f",
       "title": "Vacina da gripe será ampliada para população geral em MG na próxima semana, diz secretário - O TEMPO",
       "published": "2026-05-07T15:03:01+00:00",
-      "summary": "Vacina da gripe será ampliada para população geral em MG na próxima semana, diz secretário&nbsp;&nbsp;O TEMPOVacina da gripe segue disponível nos postos de saúde de Belém&nbsp;&nbsp;G1Campanha de vacinação contra a gripe alcança 30% do público alvo a três semanas do fim em SC&nbsp;&nbsp;NSC TotalEstado espera chegada de novas doses para ampliar vacinação contra gripe&nbsp;&nbsp;Estado de MinasVacina na rota: campanha contra gripe leva proteção a pontos movimentados de Macaé&nbsp;&nbsp;O Dia",
+      "summary": "Vacina da gripe será ampliada para população geral em MG na próxima semana, diz secretário&nbsp;&nbsp;O TEMPOVacinação contra a gripe está abaixo da meta no Brasil&nbsp;&nbsp;G1Campanha de vacinação contra a gripe alcança 30% do público alvo a três semanas do fim em SC&nbsp;&nbsp;NSC TotalTodos devem entrar na luta contra a gripe&nbsp;&nbsp;O TEMPOVacina na rota: campanha contra gripe leva proteção a pontos movimentados de Macaé&nbsp;&nbsp;O Dia",
       "sources": [
         {
           "name": "O TEMPO",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRlJVNDNPQ0gzMi0zWEhCSlR2cmNtMy1BNS1mV003WGhGeEZlcHJKSDNtVTVUb1BHVWVaUFJPT1Z6QnBnTlEyVXdOcWdoTXZrZE9lVEpTcGQ0TUZwMzk0U3JoMWtLTHVrX2NTdVhUY0drUmdnS1h0YnlKSlFvTXplb1FNOUZXRl8yT0QyeUIzbWg4Zlc0dE45WHg1NnNVSThCMDc3bFd0Z05fd1dwRUxtMVBzbGVLVWFWMUpWWjZpR1JCTnhmRDhRZHRRZW0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e221a3cbd9c2",
+      "title": "Expert lista hábitos diários para recuperar a microbiota intestinal - Metrópoles",
+      "published": "2026-05-07T14:03:00+00:00",
+      "summary": "Expert lista hábitos diários para recuperar a microbiota intestinal&nbsp;&nbsp;MetrópolesSuplementação intestinal: o que é e por que está ganhando destaque nos cuidados com a microbiota e a imunidade&nbsp;&nbsp;Tua SaúdeOs alimentos fermentados que podem favorecer o intestino, como atuam na microbiota e quando vale colocá-los na rotina&nbsp;&nbsp;Correio BrazilienseNem suplemento caro, nem fórmula milagrosa, alimento comum pode ajudar no equilíbrio do intestino&nbsp;&nbsp;Portal UaiQuatro alimen",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTG15ZGh2bUJQVUFqb2d2dTIxWmdRLWJOaG1jcUcxX3dGU1ZhNjJpZmJndVR2XzZQSG5EQVBncWZpNnh0Nk5nUVI4UlhLZ3ZWeG9zWTVwNXZuZURocERqNll0ekxIcFpMYTdLelJiSTVfNTlBSHpqeUxVWl92YjcxM1lJUFNJUkJ1cGg2dHo0eVFRTmx3Vy12ZHFEWTJUOFh1emw3amNzVWVORmRTVWdjVi1ndkNtcno5OUlF?oc=5"
         }
       ]
     },
@@ -146,18 +278,6 @@
         {
           "name": "Tua Saúde",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMGszcDhnSGNBRWxyRVZZOFZzZFVDOTdnaFpsbWpDSnhHdXQtY3ozbWlHcTBCbmFDMlkxMWM5TWlOQjRvdy0xWlhGdnRwMHIzY09OTW9mNmdwVk5aS0c4Ty1kNWJVQ2hNdmlTSkk0MGk3SGQ1aHpHaDllVkNGRW81cmVTYW04b0szSUxEMTU5TFEwSkYtQXhGU1o2WTBrckdVc2tMSFBjcmt0TU5UbER2UnFRY2dVWm03WEp2ZzdoejlKSURYcVhXYWZXZkQyUUNQcjJ2ZFJR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a289b38b56b8",
-      "title": "Pesquisadores da Universidade de Cádiz encontraram microplásticos pela primeira vez em sedimentos de praias da Ilha Decepção, na Antártida: entre 2 e 31 partículas por quilo de areia em dez pontos amostrados, num dos ecossistemas mais isolados do p - CPG Click Petróleo e Gás",
-      "published": "2026-05-07T13:16:00+00:00",
-      "summary": "Pesquisadores da Universidade de Cádiz encontraram microplásticos pela primeira vez em sedimentos de praias da Ilha Decepção, na Antártida: entre 2 e 31 partículas por quilo de areia em dez pontos amostrados, num dos ecossistemas mais isolados do p&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNVWtPVDdhZ21yLXN5YjFtQzZFUEdXVmdxQ0ViYWh3SEJldXd0emluTGRFWHVlekpvUHlBbzA4NWlBSXl5TVhBTEdYUUlERFlEZl9IWThGQlZVN3NXTWdINHVEXzNlejN4by1tUTQ4VDh0aFNGR2lubGYzdklNM0dxN2pLLVlnSTNFa1ZibDZ3dmgtWTlVblJpaUdTMzktSEZLTGJyWDhSTTJhU2dJY2lia0ZnWTY1cGlZcWdmZnN5TDBsUkhzTjVGOHl2eEdsazlnelhRVWs3QXNQSEhLT19GajhGMjR4dC1kbl80RUxpa0U4eDJhaWlV?oc=5"
         }
       ]
     },
@@ -186,18 +306,6 @@
       ]
     },
     {
-      "id": "c81d25330fc5",
-      "title": "Revisão aponta baixa eficácia de novas drogas contra Alzheimer e divide comunidade médica - O GLOBO",
-      "published": "2026-05-07T07:30:43+00:00",
-      "summary": "Revisão aponta baixa eficácia de novas drogas contra Alzheimer e divide comunidade médica&nbsp;&nbsp;O GLOBO",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTExuSzJPbHRwZDhQeE1VTXpiR0JhREx6a0Y1enNrSkNNaVdBRkpHNVdEZUdfZ0E5aGxJRVU5QUlVRzk2Q0pBTEpKd3BsQnk5aDlwdm44akdSOXJwOURGSFJnMm1ES19OSmVzcDU4SDZTbURVdEEwRzh2X2JjakUyMzV2ai1WQ3RZbzZBaGZCSTVDaC1MZ0l5dng3dFVZcWdUMFktMWZid3Yycl9MTUtmZlBINDQ5QWl2OWFiVmFfMk1mNEYxNXk5TVNEdnFvQm5uYTRoYk5RbFJocWZXVTFNRkZUbndxbFFJ0gH3AUFVX3lxTFAtTjMxOU13eWlkOXJQVU9zWTJ1U0cyRm8zRk9tZlFZekxYUk1kbVpWcmpBeWQ5UHJ1NG1wMzdFLVFabnFfLTBaVzN6N290eHNnQ25sSTQ5QXl3QzN1c1daZWlCWVdIQ3FTNWNzdF9XOE1FX2xTc2tBUURmbG5vWGZPSUQ3eDZIcG9ZclgtOTc0QzBiUU9fSUQzUzJ1OTJZQjZoZGdGVW1jZDFvMmFRTXc4STRiOW43M2pCU3V5dVVOS3JYN2xlVERGc29TeFR2V3JGY21lVHQ3Tk1RTXNPUERCdEU4NnlsS0xTdjdSU1ZYeVM2NkNYZW8?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f371f3ff495d",
       "title": "O que é a atmosfera descoberta em pequeno mundo gelado nos ‘confins’ do Sistema Solar - O GLOBO",
       "published": "2026-05-07T07:02:18+00:00",
@@ -213,7 +321,7 @@
       "id": "3cdc03032a7d",
       "title": "Mais pobres têm maior risco de morte por câncer, mesmo com menos diagnósticos, aponta estudo da Unicamp - G1",
       "published": "2026-05-07T07:01:09+00:00",
-      "summary": "Mais pobres têm maior risco de morte por câncer, mesmo com menos diagnósticos, aponta estudo da Unicamp&nbsp;&nbsp;G1Pobreza aumenta risco de morte por câncer, diz pesquisa da Unicamp&nbsp;&nbsp;CNN BrasilEstudo revela que vulnerabilidade social eleva mortalidade por câncer em São Paulo&nbsp;&nbsp;TerraA vulnerabilidade social interfere no prognóstico de pacientes com câncer em Campinas - por Carmino de Souza e Autores&nbsp;&nbsp;Hora CampinasCampinas (SP): Estudo da Unicamp aponta maior risco d",
+      "summary": "Mais pobres têm maior risco de morte por câncer, mesmo com menos diagnósticos, aponta estudo da Unicamp&nbsp;&nbsp;G1Pobreza aumenta risco de morte por câncer, diz pesquisa da Unicamp&nbsp;&nbsp;CNN BrasilEstudo revela que vulnerabilidade social eleva mortalidade por câncer em São Paulo&nbsp;&nbsp;TerraEstudo da Unicamp revela risco de morte por câncer até 3 vezes maior entre os mais pobres&nbsp;&nbsp;G1Câncer é mais letal em regiões vulneráveis de Campinas, diz estudo da Unicamp&nbsp;&nbsp;ACid",
       "sources": [
         {
           "name": "G1",
@@ -270,18 +378,6 @@
       ]
     },
     {
-      "id": "0db03ed3cbc2",
-      "title": "Estudo liga cozinhar em casa a menor risco de demência em idosos - Diário do Centro do Mundo",
-      "published": "2026-05-06T23:20:11+00:00",
-      "summary": "Estudo liga cozinhar em casa a menor risco de demência em idosos&nbsp;&nbsp;Diário do Centro do Mundo",
-      "sources": [
-        {
-          "name": "Diário do Centro do Mundo",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM09HV3UxZjY4MkRwcGpiQjFKMS1nWVpNSFVIVzRNY1c2c2w1MUo4bXhwWDFCSWViVVJKaHZqOXhucnBMNzVtS0lDNTVrY3BFUkxCRnBWdkFNdWlxWmhsa3JvS3k4bE9aUjhEcHlSYS1IbzlVSXhqSGV0NzA0V1RQYThudzdSdjVyTVIyb0IyVGlMRXlLSVN0dTVjREkzUFl1MldUQWxEbTdKaTlKVGtCcnh3emhNTnc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "aad1e77a3075",
       "title": "Estudantes da rede pública de ensino do DF destacam-se no estudo da matemática - educacao.df.gov.br",
       "published": "2026-05-06T20:31:34+00:00",
@@ -290,6 +386,18 @@
         {
           "name": "educacao.df.gov.br",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQXzlvbktmaG5VeWZrbVozN190QUZIREVoUGJFQ3hvemg5Z0taRUxKbkZ1dUxvSUhXVFZaaDF6S3pybXhCc1ZucmVvWFJsVE9IX2NNamxaaDVCVDdQcTZhbEFRblFGV2hwM25zaVF1MFRoZDBXUk9zbEhQQ0NoQzVTNnhya0JZWVlwSm9XZGJPdVNTbF9oRVd4emJFNTRRQnBPUUJVTExBQV9DcnZ6TWZ2Wg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5823317c2401",
+      "title": "Menino faz descoberta em seu quintal e muda teoria da biologia - Aventuras na História",
+      "published": "2026-05-06T20:05:54+00:00",
+      "summary": "Menino faz descoberta em seu quintal e muda teoria da biologia&nbsp;&nbsp;Aventuras na História",
+      "sources": [
+        {
+          "name": "Aventuras na História",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMGJ3NzVJT09pQUdCZnNiVGlWand3Vzc5bHRDaF80RDJiY0FKdFhtUE00OFAxX1JLMzVXTlZicl9aUFlqY2JTVlZnNkhPU0kzY2dIVkg2WUdCQ2J3Rmk4T25ydnJyc1UzbHIwX3ZZU3NyWUcydmtGSGFxUm5qWDZ2YlZjQmV3UVJEYUFJT3E4b1FzaWN2d3k3c2hqd2ZHMHVZdFlUVndQSjBTV2JOTkZvMUlnaF9XOVcwaVQ3UVNWWWJ2eHhU?oc=5"
         }
       ]
     },
@@ -306,22 +414,10 @@
       ]
     },
     {
-      "id": "77616925157c",
-      "title": "Cientistas registram pela primeira vez abertura de placa tectônica no fundo do mar - TNH1",
-      "published": "2026-05-06T19:02:30+00:00",
-      "summary": "Cientistas registram pela primeira vez abertura de placa tectônica no fundo do mar&nbsp;&nbsp;TNH1",
-      "sources": [
-        {
-          "name": "TNH1",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYy1oU1dIV294OTEwYWY3bGtJUFhJQkw2dnZzcUlKNkh5a19hOTZMVEJGWUliYkxEM0E4eVFLR3hQdHhHb3ZtS3VzVzN0aUVWU2NMbG96U0xKSWZiRzR2S0ZISkVVVjc2U2ZjQ3VnSmNrTlM5UlJQWnlXd1VzbUNKRHA4NVdweHlnTkZBbXYwUlFDUi1WdmUzV0ZDNHhUcUZhVzNvT20wOFVrWll1VGRHMzkwY9IBrgFBVV95cUxON05GeGo0bU5Eei1sZkFQd3ktaFFTMjVDRFE4NjdEdHFuN3p1eVNlTVNaWjZ1OTZBc2FuSVE2LTBYaUE1dXRKTGQxTk5JbElkN0pBWm81RUZ6TXo1WDdpRnBDRVN3aUJ6SmNSdzB2aXpYNWJwbnE2TkZPNS1rN1hCM1hWN0tTUVBoRzlPSW4wZmpZeWFFNERpcHl1WVdpVERwUk5LcWFDRmZmdEQxTlE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "cf0fff17ed84",
       "title": "Emoções reprimidas, luto e sofrimento não causam câncer, diz estudo - Portal Drauzio Varella",
       "published": "2026-05-06T18:02:53+00:00",
-      "summary": "Emoções reprimidas, luto e sofrimento não causam câncer, diz estudo&nbsp;&nbsp;Portal Drauzio Varella",
+      "summary": "Emoções reprimidas, luto e sofrimento não causam câncer, diz estudo&nbsp;&nbsp;Portal Drauzio VarellaSegundo estudo, reprimir sentimentos pode afetar a sua saúde; saiba os riscos&nbsp;&nbsp;TerraReprimir sentimentos afeta a saúde? Estudo associa não expressar emoções a maior risco de câncer e morte prematura&nbsp;&nbsp;O GLOBOA ciência derruba um dos maiores mitos sobre a origem do câncer&nbsp;&nbsp;Estado de Minas",
       "sources": [
         {
           "name": "Portal Drauzio Varella",
@@ -345,59 +441,11 @@
       "id": "cad642f65669",
       "title": "VG confirma caso de meningite em menina de 11 anos; são 8 mortes em MT - midiajur.com.br",
       "published": "2026-05-06T17:15:00+00:00",
-      "summary": "VG confirma caso de meningite em menina de 11 anos; são 8 mortes em MT&nbsp;&nbsp;midiajur.com.brMenina de 11 anos continua internada com meningite e escola passa por sanitização em Várze&nbsp;&nbsp;G1Mato Grosso registra 8 mortes e 32 casos de meningites, e acende o alerta&nbsp;&nbsp;Jornal O FluminenseMato Grosso do Sul em alerta: 8 mortes por meningite&nbsp;&nbsp;Campo Grande NewsEstudante com meningite buscou atendimento três vezes em VG antes do diagnóstico em Cuiabá&nbsp;&nbsp;vgnoticias.c",
+      "summary": "VG confirma caso de meningite em menina de 11 anos; são 8 mortes em MT&nbsp;&nbsp;midiajur.com.brMenina de 11 anos continua internada com meningite e escola passa por sanitização em Várze&nbsp;&nbsp;G1Mato Grosso registra 8 mortes e 32 casos de meningites, e acende o alerta&nbsp;&nbsp;Jornal O FluminenseEstudante com meningite buscou atendimento três vezes em VG antes do diagnóstico em Cuiabá&nbsp;&nbsp;vgnoticias.com.brCinco cidades de MT contabilizam mortes por meningite este ano&nbsp;&nbsp;GC",
       "sources": [
         {
           "name": "midiajur.com.br",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNd3JBMlhtbTVGbi1MSHYtc2ZFSzVxYnNBbVZvNmI4WHpRRDFyYTZaYlVHS3ZVUHI0NUk3ZVdzUUtTay03aHpBMkdXaXpfM19FeEpBazhSV3AteDVrTVd5Mmw4SkpOZ25rZDJJb1ZpZm1EbWtPSndqdDIwYy1WQTczZFhBekR0bkhpMC1LalBma1NDYkRVVVZUbFhreW1XLU1Nc0czQXZTZ21XcnFyS0E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d08f82bc25c1",
-      "title": "Menino de 8 anos faz descoberta no quintal e muda teoria centenária da biologia - Folha Vitória",
-      "published": "2026-05-06T13:00:54+00:00",
-      "summary": "Menino de 8 anos faz descoberta no quintal e muda teoria centenária da biologia&nbsp;&nbsp;Folha Vitória",
-      "sources": [
-        {
-          "name": "Folha Vitória",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN3pFNXBOUUhNZ0J4NF9abHlWS1lxdzhTVUozeG9WU1RtTlkwMWtNdEdDRXZNTFFCZlUxbVNyN2hpYnVsamJjZGNYRU8yQlZvVTBTOVdkMFRiT2dtSmp6MnhTc2hpQ1V2cGY0cDhvZFpzcmk2M2YwNGwzNHMxd1dzZGtGa0plYnNnWVI0NVE5Mm05dEFWRzNROXhCWkhfWUlEbm9wZkVaQTFWMDhoM1FoUG5yS0NnYzRVSGdBejh5X0hPajk4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "86c4fff396c1",
-      "title": "Fazer exercício no horário certo pode potencializar benefícios ao coração, aponta estudo - G1",
-      "published": "2026-05-06T08:04:05+00:00",
-      "summary": "Fazer exercício no horário certo pode potencializar benefícios ao coração, aponta estudo&nbsp;&nbsp;G1Especialistas revelam o melhor horário para fazer exercícios físicos e potencializar benefícios ao coração&nbsp;&nbsp;CrusoéFazer exercício no horário certo pode proteger o coração, diz estudo&nbsp;&nbsp;MetrópolesDescubra o horário ideal para exercitar seu corpo e proteger o coração&nbsp;&nbsp;TerraTreinar no horário certo pode reduzir até 13,6 mmHg da pressão arterial, melhorar sono, metabolis",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUkdwU2ZjNEpDRGpuWlNHRC1qNEZ3QVFtbEI1UDQxdDJkRTFzSWFaMnMzbC1DQ2tYdUxUTW9lQnV2WmZHU0E0Y0loaU5CMENVWGk5ODdDdTVoZkRLSnlVSG1BamhyeFFqcVgtN3JmYUswdWJZOTlnejlRWVBnLXo4ZmlhMGhVV1N2OEM3UmZ5aDZTS19OdzFKT0pudkJ6U1VrM0dIYmxLekJVOGQ3REhBMWp4MHJmR25qd05ZLS1FREtsMlVkY282ZTdoU2llUVpWUWRCTnR30gHkAUFVX3lxTE1JcjlPRW9WZGJST25UQ3FVWjVsN1MxMG1ZdEtkUkw2YmVVNFFiU3RYWnZTTWRhLTJDQ21VLWc3SnhTS3E2cmpPMEpULUNxTnFEd3M1SVRDanVPbk5xYnRRTFB3ZUlrcklhSWxiem1yLWw4Snd5Rnl5SC12Z29fbFJWc2E3RlFFWmEzRDBPSGUtc3Z0THF2aUVUblk1Q3RRYjMxUExOMzZnU0JrS3owdC1qQmJCQnFkQ2JySDNXaTdDMkJqZnZzS3ZfUHdlT0phdUxHY2ZGZlNOS3RaWk1IaTJMb19QMQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "74e1fb1945b4",
-      "title": "Microplásticos no cérebro viram emergência - Correio Braziliense",
-      "published": "2026-05-06T08:02:00+00:00",
-      "summary": "Microplásticos no cérebro viram emergência&nbsp;&nbsp;Correio BrazilienseQuais alimentos têm mais microplásticos? Saiba como fazer escolhas&nbsp;&nbsp;Correio BrazilienseDo ambiente ao corpo: como microplásticos entram na corrente sanguínea e o que se sabe sobre seus impactos&nbsp;&nbsp;TerraMicroplásticos no nosso corpo: problema real?&nbsp;&nbsp;InfoMoneyMicroplásticos nas artérias: o novo fator de risco que especialistas associam ao aumento de infartos e AVCs silenciosos&nbsp;&nbsp;Tua Saúde",
-      "sources": [
-        {
-          "name": "Correio Braziliense",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZm42LUVoZ2J5NnJ4aF9WMmZGaXg2eEotcUR5Vnd4OWkxOHpkb0o2Ql82bDc1SnhvLWZ0YjZtbTJxVy1RcURxOUlfUlNFZEFXRTZpN3BDWS1SaENKQ1g2WjhOcks2SGZhc1pwS0NLY0VmU05WQnlka3FRN0tUUldCcXBjRW9udFdiejVuallULV9pc3g5SVp0SWVqVEhIVndiNmlXUkRfWlJwN2Uzb3cydW9EYUx0VEM20gG-AUFVX3lxTFB6U1JUNHp3UFczak1EdDE4QmRBbDkwWlllQjY1RlF4NXM4SHhWY05YNjVwSUE4LXNrQU42ZTl2a203NVJlZm9BQml0X212Qzd2WmlEeTkxdkZfQURYR25kVHQ1WVFnSGhUdkpOdFc3eFBudGRSTzZqTmtxMk9TMHYzX3hnSHJHekdVbzY5WWphOGJyTUJHT1R4dTJsYkh4X1U0aHk4VERCaEJKT2VKYTZTVnotY1dUdl83Ql9fZ0E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ffde0c8f896f",
-      "title": "Qual é a dose ideal de creatina? Veja que a ciência diz sobre os efeitos no corpo e na mente - O GLOBO",
-      "published": "2026-05-06T07:02:20+00:00",
-      "summary": "Qual é a dose ideal de creatina? Veja que a ciência diz sobre os efeitos no corpo e na mente&nbsp;&nbsp;O GLOBOCreatina faz cair cabelo? O que a ciência diz sobre o tema&nbsp;&nbsp;Assine Abril20g por dia? Veja qual a dose de creatina indicada pelos especialistas&nbsp;&nbsp;TNH1Suplemento famoso de academia vira aliado contra o estresse e a fadiga&nbsp;&nbsp;NSC TotalCreatina faz mal para os rins? Especialista explica se existem riscos&nbsp;&nbsp;Terra",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQT2VDNEdrQzlCc2I4NEFyZGxqMGVFcXlhT0JoV2pIUEl1VEd3Q0hHYlFmbWVNcHIySXBoVnRfMGtDQlZXOEFBNnJwUzNJZXhXTVo3QlZ1RmJMWEhCMUg4WEFseWlFUWxobmpKd0tXaF9HbnFTd0ZKdmRqcHZpT1F0dzVJSUZJR3JEMy05MjJvQUp5bHRHdmRtczREc3NQenlGNkhyWmxEV1l5U1c5MTdMcW4zcmgwRTYyUWUzblgybnU5ckNWektRVnFyTmlhWXktRVBiVmlZYUNPMVBCNjRjYdIB7wFBVV95cUxPa3E3U00yYzh5Uk9WdU5raHZ5X0ZiNlJrTXJ3SGJXY1dnMTJlU3BGN1ViMGhCMm94Z0hDX09naEtSYzN5QVBqd21IaHpNOVp2eXRibGx4ZHFmaG1BLU01MV9aWW1pOHp5aUVxVGpDOWE2X2FBalhIVVhac2NtOUdRM012VG1ycEw4cTZwa1FuZUlGa19Db3BsZUVYSlFUUXRGYzg5aERPeFN1d1dFeUo0TENEeG00MlhjXzI2QWxPQUlRY2ZESU40bU1sQmlqaEpCQW1IcG4zeDktR0tiQ3VDTVR6SG5xUHhOUkNTRmZTZw?oc=5"
         }
       ]
     }
