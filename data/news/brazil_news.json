@@ -1,10 +1,46 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-05-10T13:23:33.982422+00:00",
-  "total_fetched": 89,
-  "unique_count": 85,
-  "health_related_count": 31,
+  "fetched_at": "2026-05-10T19:07:53.098416+00:00",
+  "total_fetched": 85,
+  "unique_count": 82,
+  "health_related_count": 32,
   "news": [
+    {
+      "id": "519352a1fa8a",
+      "title": "Astrofísica, filosofia e saúde entram em pauta no Pint of Science em Foz - H2FOZ",
+      "published": "2026-05-10T12:55:25+00:00",
+      "summary": "Astrofísica, filosofia e saúde entram em pauta no Pint of Science em Foz&nbsp;&nbsp;H2FOZ",
+      "sources": [
+        {
+          "name": "H2FOZ",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMFNNWkNDMkw0eFk0MG9ScXJ1OGwxMnFrcEh6ZTh3Q0JCVmhWMU5xOWZsa3BiN1ZrSjk2cUNTLVFDckNnZDk1eENEdjg3aU54SjdhenZFbGtWSzRoWUVVQ0o2clBmcjZ2c0ZQYm1rZ3d1cjVFNGREc1cwYXQ4NDF0TGstdS1SdkVXQUdEU1N0ZkZ3Nk9UOHRzMUdxNGRiX0FVQmU5NFdmeWlzOXhTblcwa1E3SEs0cjdCaW9mcGRQTzJuc2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4302d12edabb",
+      "title": "'Esgotadas': sabe qual seria o melhor presente de dia das mães? Descanso - UOL",
+      "published": "2026-05-10T12:30:00+00:00",
+      "summary": "'Esgotadas': sabe qual seria o melhor presente de dia das mães? Descanso&nbsp;&nbsp;UOLPrivação de sono na maternidade: o risco real que vai muito além do cansaço&nbsp;&nbsp;TerraDia das Mães: cresce o debate sobre corpo, metabolismo e autoestima no pós-parto&nbsp;&nbsp;R7 EntretenimentoMães cansadas não precisam só de descanso - precisam de suporte&nbsp;&nbsp;Tribuna OnlinePrivação de sono na maternidade: 7 sinais que merecem atenção&nbsp;&nbsp;CartaCapital",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMVN4SS1OT3hWR1VjMGJDWnhPNWgxMkh3b2x3UDFNajh1Y003c1lIME1zM29jNW5FZnFwQS1lNG92eTZnRkpOY3VYSEllSFgwRGVxSmVBRUY0RVBWSGRpRU9QZmgyWlRlMVBFWUk3RzU1YV8xRGlPaVp6ZUVpc3R3OTZIb3Z2X2F0ZHdobTVhYlVNWllma1JBUUE5dE90cUQtdFNrVG52TkU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "92fe49e83bb8",
+      "title": "Essenciais e ameaçados: fruto de oito anos de pesquisa, livro sobre manguezais cariocas revela curiosidades e faz alerta - O Globo",
+      "published": "2026-05-10T10:01:03+00:00",
+      "summary": "Essenciais e ameaçados: fruto de oito anos de pesquisa, livro sobre manguezais cariocas revela curiosidades e faz alerta&nbsp;&nbsp;O Globo",
+      "sources": [
+        {
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPV2QwczRLRzBzcUppanZ2elFjWDJfdDV1cjV5YTBSc05QcTZTY0dnWVVMRGVXbzQtTUZLbEF4ZmZ0bjZ3WXVqbG1sdEctRUd6RHI2QklPdElubFQ3VHJhb0dvTG9IdHFqZHEtWC12dnFFRS1QR2tJUzNOb21ndFA3ZWdaYXFyRU9oMmloamptdC1kZ09zeXVhaHlRZlRoUFE2R1VtYjFhUHR1UjY0WEllb2dMQXp3QjZEVWxTMzJJTVJpNFc0MVR5azVVZGRfXzhmcTRKRnhHdVJuQzhkV0NQZnh2aWZPN1dBUXhNQVNuNVp0X2NvekHSAYQCQVVfeXFMTWt6MHpZdzJrVmNjRUdyT1hnRGdCLWk4TC11azhMMmktSUxXOEwxdTItaktqRTAzNGgwMFVnbHBfTnBDczJ6U3J4VG1ZOUpvWkhNNHlLbEwzRHhZXzg3NlJCV05QX1MwdUZadlQ4YXJiNkRfVTNUZFJHYlhmVm43dGUweUhWbmtlSk8xbUU1NUFPY0N5bWliYm8zcTNlcHJGRUU5UE5Oa1NnUENaRGxxVnV0RU5xNW81U1FJWjBiYktZY1FWX1ZOcDFSV3R4QWtCNGxWaHloS3I3N2dLTUVYTktRdEtLQzV6ZXdCYTB5TjdGb1NSaUh3aXRqb1QzUG50ZV9nSkU?oc=5"
+        }
+      ]
+    },
     {
       "id": "d1353e251625",
       "title": "Cientistas revelam 'mapa perdido' do olfato e abrem caminho para compreensão desse sentido misterioso - O Globo",
@@ -26,6 +62,42 @@
         {
           "name": "O Globo",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNclVXM0tWSXFFSEtzZmpId04tUUpBaGJCM0l5aXNSamNfaUh3X0ZrTjhvNTE0Z0pCUDFDM3dteXBFTS1XNDBCRDNmN3hJZmFLczVTcGkyR1U3bGlLODVrcVdLSmVVMmVvU0s5M3VhMkR5bEdJZnI1ZktiejVpUHp1b1FYUlFXZk5fZmotdkp3UXhhVFFadnNwOE5UZHhDSXZscEZvRGJPUnNZMGhURXVBWGEyT3B6MVIyYlZhT3JSUmR2b3lGbkE4WnRn0gHYAUFVX3lxTE9uWndQNWh3eS16UWxJS3E1Y1lsOFhMNWh3M285M1JhM21zVGJXM2hSVUhLNWVwZnpZNE9JSDBQOEJYa1VhQXlRTzQxVWl0Wm9ySWU5aHBrbVhBYW5TVGNnZ2d1MW8zbnpURndTc3Z3bDNlTHR3V1ljd2hGUE9JNFd2MkdJUG81SGdENGM5QW8tenNPZjhySmhkenZFVVZjSWI4cUNFZlNvYzhoSlp0OGhPT1VkOEVHQXVmZHB6eEYtaEI5YVJEYlZ1YUtlUWFPRmdoaEV5Z3YyRg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f961cf240b92",
+      "title": "Envelhecimento do sistema imunológico é diferente entre homens e mulheres, diz estudo - Folha de S.Paulo",
+      "published": "2026-05-10T07:00:00+00:00",
+      "summary": "Envelhecimento do sistema imunológico é diferente entre homens e mulheres, diz estudo&nbsp;&nbsp;Folha de S.PauloPesquisa australiana revela por que doenças autoimunes são mais comuns em mulheres&nbsp;&nbsp;O CafezinhoFadiga e dor são alerta para doenças autoimunes como lúpus e esclerose múltipla&nbsp;&nbsp;Correio do EstadoSaiba quais são os quatro sintomas que podem indicar doenças autoimunes em mulheres&nbsp;&nbsp;Jornal CorreioPor que mulheres têm 3 vezes mais doenças autoimunes?&nbsp;&nbsp;",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORGZXQ2xKMmZRLTJtZGdtTmVidTBxS3AzVjFjMHVkQ1RENkhwWUZLTjJHTFlSV2laRFhaczk5OE1kM2dPd2ljalpodEtMRXR5eGt6clFGcURHLWE1dC1IMnpfY1UtQkEwSWFqQWI4S3o4V3Fzel9VRW9BNE5jSTROM3pFYk1vOUNWSlZFaUo3M2Y3WnVRdUVkeHp4ZlZUT1BUUmxjLURYWFNCOVdacWpxWlpOZVoxS0U2amtJTTFDT1dfa1BzUVV2ZGs2eFNxanAwTGc0aXZ30gHbAUFVX3lxTE1XLWpCdExKTVFzWGdjcTEtckZldk93Y1hDY3AyaV9SSWdsdEgwUDlUdF8zU1RlLWh1eGtJTkE4TE54VlZ3UDB1OW1Qa2l0OWtDRi01NlhzQUl0XzVqbHFvd01tRmNYazRiTmNRaDVPbXI4U25ISDRLRTB3YlZfWTgwcXJqaFdqTkd4QlpaR3ZJOWNrWEJ5SENRaVJVNHRQZ294aXFWcnBTQ1ZFNk02dHY5ZVdva0h3aFZQdi03RkRXX3hKQjY4a3Q5WEI1eVJlZ2dvaFdhLVM2U1Bfcw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "46c1f87c23d1",
+      "title": "Estudo de brasileiro sobre rota para Marte repercute em mais de 50 países - CNN Brasil",
+      "published": "2026-05-10T06:37:00+00:00",
+      "summary": "Estudo de brasileiro sobre rota para Marte repercute em mais de 50 países&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQzNhV3dNdTZiRWZoVW51MTJqd0d6LVRSV2VlMzV1Z0NWSjJ1MzVZSS1vcjNUeDBZdEhtVkF4V3BKbTRvR2UtSjVHZmxVNHlUUjI4WEo3RmxoVndzUFJvakRrR1lfek5kdE14VEZXUDlkc29CVWdweTlGNjVLcFB6ZzZsdUZIbVhmeHVPR3ZVbDRqcUFsSktobEVuczJaVlhvai1hdEhzc2p2bUxDa1poZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "518a5f5c853e",
+      "title": "A memória fotográfica é um mito, veja o que as pesquisas realmente dizem sobre a lembrança - Super Rádio Tupi",
+      "published": "2026-05-10T05:17:47+00:00",
+      "summary": "A memória fotográfica é um mito, veja o que as pesquisas realmente dizem sobre a lembrança&nbsp;&nbsp;Super Rádio Tupi",
+      "sources": [
+        {
+          "name": "Super Rádio Tupi",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQY3VWdXZnRms3VVZTX1o5cEhXZHhnN2hiZDZjcHpPVTd0WW44Y3c2VjlfM0VHOUJGUDBhekFBOFZCWTZVamlUTEhnQmsyUjNDeHlTNGM0S1paQm1SZUNVYWZGdXVBLVJPQmFpMk1EajVVZWl4c0lpX2JRMlBsSk1yRFRmajhOa3ZtSXpNTklyYzNNMExwNXBrdlZnQmktTi1NX0NYUFo3NC1pS19QY0VKTE5uSzhOMGZhZ0NpZjFwQm9qVGc?oc=5"
         }
       ]
     },
@@ -222,18 +294,6 @@
       ]
     },
     {
-      "id": "fe7ef82a6e5a",
-      "title": "Aos 3 anos, menina com sintomas comuns é diagnosticada com câncer raro Veja vídeo - Metrópoles",
-      "published": "2026-05-09T05:00:45+00:00",
-      "summary": "Aos 3 anos, menina com sintomas comuns é diagnosticada com câncer raro Veja vídeo&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1oMmpJYWI3WUd6enpyQ2VzNEtWYTB3b1lSRzBRNTgtck5ueG81ZHZpV0hvVi1icTZHOFRWWTVmSFJIekJGTnFMQWhtVXJqUE5hbTlzTkhMMXkySmprWlVoazdzZVlXSk1wY2lQcURDenp2ZWxmZjJr?oc=5"
-        }
-      ]
-    },
-    {
       "id": "fff7974a8fe6",
       "title": "Pompoarismo impacta o sexo e a saúde em diferentes fases da vida - Metrópoles",
       "published": "2026-05-09T05:00:00+00:00",
@@ -242,6 +302,18 @@
         {
           "name": "Metrópoles",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FR2g0V0NlV0ZjNkFpSVhIRHpaV0FKUDgtZE9fd0sxdUlMcUVPREk0SFk0ekVkLS1VVzgwRVJOWlVvRFFfS2dmZm5XT3JteWllNGZvUXVSZFAtRkVEZFZJYW1KUVE1dEVhOE5FNE1sZUZfdV9rUXdfaWs4WllHUU0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "51a9e8550e06",
+      "title": "Nasa testa propulsor revolucionário com plasma de lítio que pode reduzir custos e acelerar viagens espaciais até Marte de forma inédita - CPG Click Petróleo e Gás",
+      "published": "2026-05-09T01:36:00+00:00",
+      "summary": "Nasa testa propulsor revolucionário com plasma de lítio que pode reduzir custos e acelerar viagens espaciais até Marte de forma inédita&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNenhMYkZaNnBFMG93d0xXOFFfcDlsN0IyQWJSTEZZci1YLTUwM0JtVmpkLXh6ZmlvM2VKMWVJRUJNc2wtbTF1bFBmRGNhV2pITEowQUdUOF94UHd0WFdRVW51a1RfNno1Y05VRi1EYmxYUXNjaTJiRWltbktMSXJCYm05V2stRUdnRS12dGlIdzhVZGxQdkhWOVF3bnl4MURGc0g1UU5YclV6NGNfSGVBQmhQdG80bEUyX05PcDBkdlhyeDNYVXpHTkljMzcxTXJSU2JlZTRJZmtxbmRJUXh4TGVSeklmOENCem03T0NDSmhJTWlUbk5zc1p3MmJuVER2S1o1QVFR?oc=5"
         }
       ]
     },
@@ -273,11 +345,23 @@
       "id": "f89f8239d9d0",
       "title": "Comer ovos pode reduzir risco de Alzheimer em até 27%, afirma estudo - Metrópoles",
       "published": "2026-05-08T21:30:05+00:00",
-      "summary": "Comer ovos pode reduzir risco de Alzheimer em até 27%, afirma estudo&nbsp;&nbsp;MetrópolesO que acontece com o cérebro ao comer um ovo por dia, cinco vezes por semana&nbsp;&nbsp;Veja SaúdeRisco de Alzheimer pode reduzir em até 27% com este simples alimento extremamente comum no Brasil, diz pesquisa&nbsp;&nbsp;TerraCom mais de 40 mil pessoas analisadas por 15 anos, consumo regular de ovos, ricos em ômega-3, colina e antioxidantes, pode reduzir em até 27% o risco de Alzheimer e ainda melhorar memó",
+      "summary": "Comer ovos pode reduzir risco de Alzheimer em até 27%, afirma estudo&nbsp;&nbsp;MetrópolesO que acontece com o cérebro ao comer um ovo por dia, cinco vezes por semana&nbsp;&nbsp;Veja SaúdeRisco de Alzheimer pode reduzir em até 27% com este simples alimento extremamente comum no Brasil, diz pesquisa&nbsp;&nbsp;Xataka BrasilCom mais de 40 mil pessoas analisadas por 15 anos, consumo regular de ovos, ricos em ômega-3, colina e antioxidantes, pode reduzir em até 27% o risco de Alzheimer e ainda melho",
       "sources": [
         {
           "name": "Metrópoles",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE92MGFtbFdBcVNiYzZ4bFpDRDBtUi1kNXlzZWVZYWh5aTNTekZOYjhTRDVjdFIzcDhVaFdWaEVzSk9KdHF3WUl2eEN1NlkzbENUTU80YU1zYjYyYTNsVGI3Q1YtdWNNTlVrZjd2ZlZ4bThEVV9oRklwNjBVWUM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "86dc6d87b349",
+      "title": "Clonagem de pets recria aparência, mas não garante mesma personalidade, diz estudo - Agência GBC",
+      "published": "2026-05-08T20:55:09+00:00",
+      "summary": "Clonagem de pets recria aparência, mas não garante mesma personalidade, diz estudo&nbsp;&nbsp;Agência GBC",
+      "sources": [
+        {
+          "name": "Agência GBC",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSWNOSFFqMWxPTlNTYWF4bko3Wm1NVGdLN0VUQUhQdU1VelFuQ1V3N3Rka2RKTGh6V3RSRC1VdU5OWm8wUEl4QVpncmpSY01rckRkRmlwRlN2Zll0ZVcwbDMxMWhubS1HUVl4NUJMZmJTbXYxR2JBdTNmdEdIQlpNOERhV1hBZUxXYk9VUGpueWM1dXByX0RGWFZvajMyNUFXLXZOYncwZXBYYlk3S3RXYUMzMHczUQ?oc=5"
         }
       ]
     },
@@ -302,78 +386,6 @@
         {
           "name": "Agência GBC",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc1A0cGVWQ2dyY3pOazM5QnVEN0ZsenFTUDlGNVVnZ1RDNTZOdjFUWjlTZmdSWENaOTJMYmlDclNjVmZhZ1g3V3NnVi1VMUhfWmdKYThsRFpZRWlZMTY4SXVtNGRpNGtpQ1pjUWhwczRnaFZhdjR4czYwejl5aXZORkN0Tzk5cllZcXhKVFpn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b9145867b67a",
-      "title": "Cérebro já nasce “cheio” e se organiza ao aprender, sugere estudo - Metrópoles",
-      "published": "2026-05-08T18:03:45+00:00",
-      "summary": "Cérebro já nasce “cheio” e se organiza ao aprender, sugere estudo&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5fcGp3Mlk4dmk4MUxkSnQ2bERxYkZuWV9NaTEzTUNEdHZERFVTdGxKRGpSUWZKbVJtRXlhMmJyV19pZC14dUhZakpWN0N4NkxmeTZVWTdBQmxWMjcxRWZob01FR0dTOFp1aWdoY254WmFjeVNSQzYxb1lOcUU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "88c73f166096",
-      "title": "Parkinson vai além de tremores: especialistas explicam sintomas a Dr. Kalil - CNN Brasil",
-      "published": "2026-05-08T17:34:46+00:00",
-      "summary": "Parkinson vai além de tremores: especialistas explicam sintomas a Dr. Kalil&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaFh5dHZtdmRaWFllY2pDOWJXejM3ZVJZeHJvZVFRWTNKZ05aZEpyY0pVaHNMa1ZtbkxqTE53N1JFZzFpbmQwMlRwSlJmVERrX1lydjBqZm5PUFY4OEd1ZXpxSmk1MkpWVFZtbjd4N05IVEhlRzdSeUlET1g2ZGhxTWFTMF9uWUdHV3Zld2V4aXB2MmxYZUNKa1pXNlVpcDhMVTduREVEeUVLa1NfQ0E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3796c858d8ae",
-      "title": "O que é a Pseudomonas aeruginosa, bactéria encontrada em produtos Ypê - Metrópoles",
-      "published": "2026-05-08T16:55:07+00:00",
-      "summary": "O que é a Pseudomonas aeruginosa, bactéria encontrada em produtos Ypê&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JM3pJQTdIUmdXZ3F0TVFBRmoxZTloX0FodjFfbzhNSXBVZkF4MnZZYnBJa05UM19obk9rMkY3NS0zdDRpLUk3YWtZV0ZGRHpwMnE3TjVHaVh6R2RVZFhwRW1XbHpyb2pWeTNpTGRiem1pY1R1Unc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0a03ac3fedfc",
-      "title": "Médica cita os alimentos que mais prejudicam a microbiota intestinal - Metrópoles",
-      "published": "2026-05-08T15:47:00+00:00",
-      "summary": "Médica cita os alimentos que mais prejudicam a microbiota intestinal&nbsp;&nbsp;MetrópolesConsumo de ultraprocessados pode elevar risco de demência mesmo em dietas consideradas saudáveis, aponta estudo&nbsp;&nbsp;O GloboDo intestino à saúde mental: esses alimentos comuns na mesa brasileiro prejudicam o corpo, segundo especialistas&nbsp;&nbsp;Revista FórumEsse alimento pode estar atrapalhando seu filho para se concentrar&nbsp;&nbsp;Diario de PernambucoPor que o consumo de alimentos ultraprocessad",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNenhlczB1dzB6OW5Ybmc1R2Vfak9GVDZ6aHlQWDBwd3dJbFZkd2dNZVVYMkJMZ2RhYXdaZkFaaFg4WUF1OWN0cjVIYVNBaUZGTk45NHpTWnRNcksybjJaMmhHZjlBbmsyTDlTLTk1YzFkc3NyZ19DcG9oMGp3a2lmby1scnBqUzd3RDZpeFJ6VVhoNE1rSHhUZ25CVkJ6azVkY2VtZUVUWVNFd2ZUYzJ0MnRGbl9iaHhsVzJLZA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "64df7f01c2c8",
-      "title": "Exercício físico é tão eficaz quanto tratamentos para depressão e ansiedade? - Folha de S.Paulo",
-      "published": "2026-05-08T15:03:00+00:00",
-      "summary": "Exercício físico é tão eficaz quanto tratamentos para depressão e ansiedade?&nbsp;&nbsp;Folha de S.PauloComo o corpo em movimento equilibra a saúde mental e a pele&nbsp;&nbsp;VEJA RIOAtividades físicas ajudam a manter o cérebro saudável&nbsp;&nbsp;Fast Company BrasilMétodo simples de 30 minutos por dia ajuda a reduzir o estresse e proteger o cérebro&nbsp;&nbsp;Rádio ItatiaiaPessoas com mais de 65 anos que não praticam exercícios podem apresentar declínio cognitivo&nbsp;&nbsp;A Crítica",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYUpCOEZFX2xrcnctd3RjNE04dzlyb0tvdXpNWkpJMFNpWUUxVEh3WjBIMzhQc2kxX1hqalR4SWk3N1pXcXY1anZIbWloMlJaM2JlR3RFZS1qN1NwTVk4Q2Jyak4zR21LRm4wXzJNMnNDWm5rYVprRHBUMV9MX2RBX0VicjI2d2ZvaGFqdzJlRUlEWEpyQUxpaEx0VEtJbzZuMm5ZSWYwV2tBVEhmNWZpb2tYWmplNXdnUWRIZ1RCUmV5RWRLTGNpUVFn0gHPAUFVX3lxTFB5R2xaYmFzcnBCN21JUXRRa1NyNExuanozeWpkNENsNlRhOGNlaERYQmVMQ2xwVUZrclZGMDNHdTU3MkUxZU81aXlJVTdtYnMyOU5NSzM3RWg4MkZsakVLZ2h2MXliLW9jVjVPTU55bFlrMGlJQXlxQmowRW0tcFlEV2ZDcnpHelhQM201UWpJTE9uRDR0VDRfRmtEdjJHT2VXM3ZEcUNmMFVLMVZoRTQ0dlVKcU16cTBvN29ZWTk4Tm5Sd2xrZW1EYlR3ZU9pYw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "44d6da9d1c25",
-      "title": "Dormir todo dia no mesmo horário pode frear envelhecimento, segundo estudo - Globo",
-      "published": "2026-05-08T14:04:32+00:00",
-      "summary": "Dormir todo dia no mesmo horário pode frear envelhecimento, segundo estudo&nbsp;&nbsp;Globo",
-      "sources": [
-        {
-          "name": "Globo",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVkprMF85V1k3UjJpZDJlMDdtNXdQUDhpSHZxcVFhdHFOS1RZM3M5S1JYTHN4dmRkdnZxNW13T295M3RvV3h2V3dhNUVETnhoV213WmNOdVpja2M0MVJrMTRLM0tRTHFhSlduRF9NYXJ6MzR6ZE1tTmNoa0tFaC1VczNZTUdpS29Rb05qT0oxMjZYc194TjFGSXpaQUJuNWhQOWkzOXZqa0ZDdnpNNU1zWmp2ZWhfajRYLTdnUk1hMEw0M09fa291V0M0NWpMcWJaUWNDampn0gHkAUFVX3lxTE95RFVWOU9tM3RQM0h5cU5DalhueWNkSUpZWjlrMW9KbjFiSkJqNEZEeXRMNGM5YmFXY1RaRjVuZV96bGYtbWh1QXJXV04tQlZEaXpTVGNUc3VELVVDVV9yTU16MmJoTGU5RTZXRExCaWZLdzFDQXJvbFBzRVgtS1RFeHJKYl9RZHV2QkRpdE9KQUpZUFhsZ1pEWnpRMVNydWI4ZzV6UHFuOFdpWHg5ZGs5aWVpXzB2X1E4d0FxVGRIY3FJV0ZzSWl2TTVNMVVKeGtLdWRXajhnV3pCNUg3Q3dweWNESg?oc=5"
         }
       ]
     }
