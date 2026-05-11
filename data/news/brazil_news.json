@@ -1,10 +1,46 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-05-10T19:07:53.098416+00:00",
-  "total_fetched": 85,
-  "unique_count": 82,
-  "health_related_count": 32,
+  "fetched_at": "2026-05-11T03:43:43.570780+00:00",
+  "total_fetched": 79,
+  "unique_count": 77,
+  "health_related_count": 27,
   "news": [
+    {
+      "id": "a9f79e17ece6",
+      "title": "Astrônomos finalmente confirmam pela primeira vez a existência de uma enorme caverna vulcânica em Vênus - Catraca Livre",
+      "published": "2026-05-10T21:35:00+00:00",
+      "summary": "Astrônomos finalmente confirmam pela primeira vez a existência de uma enorme caverna vulcânica em Vênus&nbsp;&nbsp;Catraca Livre",
+      "sources": [
+        {
+          "name": "Catraca Livre",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWi1sbFJ3bFdBT3FraEtGcXgtNmk5ZVdQRnVBZ3ZKbjVHRF9XM0xzeTR3WEdxbUJHb0hqWm9obThzQjlwbDVtdlhfQXYxaXVGRW9fMVQ3QlZVdldmTXk0YnVMM0luNjFhZlJZR1JfN284d3lXZFVLTjNqNVFFQXdZdzhLU01QM1NjMEVwUlVNOWRqTXc1QXd4NzAzTU9pcHI0czh6U2U5YlF4N09sbUY4eFlWcTVkZWxQck05UFpxSU5xQ2NwT0NoT2FwYnVmSnlObG5oNElDaUg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "195f00dab9bb",
+      "title": "Cientistas acreditam ter encontrado o primeiro ancestral humano que andava ereto - Super Rádio Tupi",
+      "published": "2026-05-10T18:16:39+00:00",
+      "summary": "Cientistas acreditam ter encontrado o primeiro ancestral humano que andava ereto&nbsp;&nbsp;Super Rádio Tupi",
+      "sources": [
+        {
+          "name": "Super Rádio Tupi",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeEE4ZkxKSlVTNEVHbVlXa2VkM1JZZFZmR080TFI0bnR6SlpXaHhhOEJmOGlmQ1VrMzRIZE1uSnYxMjMwVGMxZHF2OWk3VUdaNDBDNjRhTnB3b1dJQnVrNHZmWVVGWXNyRlZJb3lZUmlWVVp6UG9lLU5jUHJPV204MUszUGdZbTZ1NUc5RE9MRTdsMVlnSHZRQkpvZXd4ZF9Nb2lfdUtLa3poeXp1dGttT0t1ZDlyam8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "113f9849c5cb",
+      "title": "Estudos investigam se comportamento suicida pode ter raízes evolutivas - Folha de S.Paulo",
+      "published": "2026-05-10T18:00:00+00:00",
+      "summary": "Estudos investigam se comportamento suicida pode ter raízes evolutivas&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVkxiRVZpMDdHSENJY19OU2Z6OGtSLXRJV0hnR0JtZHB2bXNMX0JSdi1CRGhuUXZGTlBPb1hLd3dKUnZGbmRleXdSYnNnMzI0NWhXSzI3b0tqbmVaYURTOFloQ1huNFM4R180X3UtS0hkaUlWcGlHZHF6eDRnR2ktamVMRTF3NHB2VFNrV2o2VENaUG10TUZrOVJBWXJTdHd2SGMxWW8zVnNqZUd5bm5iR3MyZVRzZ19fYy16d0E5QmhKdUnSAcgBQVVfeXFMT3plcHhsS1RsQnl0ZE1IYnFzQVAtVklXSnFWQXpmbzhIdWVIdGFvYVdheFBaV3JGbHRXVnF1dVNfSVU1dUtGZGE3T2FmOVVIcGFlN3pya0o0R2xLV1BrUTYwYUQ0UlUyZUMwZTBhR2ZzaEFaVHB1VGJKUXJ6MzdXSG1leXhnV1RXa3Q3MHFRbkNDbzBSNTZ4dU5Yenl2OXBnd1U5MHltbkg2T1p0OVNMREpMMjBMQ0FWYTRqdEtLblI3eEI3WXIxZ00?oc=5"
+        }
+      ]
+    },
     {
       "id": "519352a1fa8a",
       "title": "Astrofísica, filosofia e saúde entram em pauta no Pint of Science em Foz - H2FOZ",
@@ -26,6 +62,18 @@
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMVN4SS1OT3hWR1VjMGJDWnhPNWgxMkh3b2x3UDFNajh1Y003c1lIME1zM29jNW5FZnFwQS1lNG92eTZnRkpOY3VYSEllSFgwRGVxSmVBRUY0RVBWSGRpRU9QZmgyWlRlMVBFWUk3RzU1YV8xRGlPaVp6ZUVpc3R3OTZIb3Z2X2F0ZHdobTVhYlVNWllma1JBUUE5dE90cUQtdFNrVG52TkU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "44693d8e6e04",
+      "title": "Médico: \"Perda de peso acelerada pode levar a pedras na vesícula\" - MidiaNews",
+      "published": "2026-05-10T12:00:00+00:00",
+      "summary": "Médico: \"Perda de peso acelerada pode levar a pedras na vesícula\"&nbsp;&nbsp;MidiaNewsOs medicamentos para a obesidade afectam a densidade óssea? O que se sabe de novo&nbsp;&nbsp;PúblicoO que o emagrecimento muito rápido pode causar no corpo&nbsp;&nbsp;MSNCanetas emagrecedoras podem elevar risco de cálculo biliar&nbsp;&nbsp;Valor EconômicoEmagrecimento rápido exige atenção para impactos na saúde ortopédica&nbsp;&nbsp;- Blog Dellas",
+      "sources": [
+        {
+          "name": "MidiaNews",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd1MxeW1sZ01ZWWdKbHRxZUd1NS1BVVRFdWh0WlRaa3V5TjBUUVhuMjNTcWNRYXdNLTZjNmU3WXNpZjlWLUNucVR4MkFLcWc4dndPWmlILTlaSDJDUlluaDNxZkhTT3g3cmJuTVhNTE04M0JNcDZSOVM2Ri16a1NTazBtSnREZkJUeS04TnZqZmc5TFJDUEZOTnZQcjZlbmpyNmVVT0ZBQnpxU09B?oc=5"
         }
       ]
     },
@@ -90,18 +138,6 @@
       ]
     },
     {
-      "id": "518a5f5c853e",
-      "title": "A memória fotográfica é um mito, veja o que as pesquisas realmente dizem sobre a lembrança - Super Rádio Tupi",
-      "published": "2026-05-10T05:17:47+00:00",
-      "summary": "A memória fotográfica é um mito, veja o que as pesquisas realmente dizem sobre a lembrança&nbsp;&nbsp;Super Rádio Tupi",
-      "sources": [
-        {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQY3VWdXZnRms3VVZTX1o5cEhXZHhnN2hiZDZjcHpPVTd0WW44Y3c2VjlfM0VHOUJGUDBhekFBOFZCWTZVamlUTEhnQmsyUjNDeHlTNGM0S1paQm1SZUNVYWZGdXVBLVJPQmFpMk1EajVVZWl4c0lpX2JRMlBsSk1yRFRmajhOa3ZtSXpNTklyYzNNMExwNXBrdlZnQmktTi1NX0NYUFo3NC1pS19QY0VKTE5uSzhOMGZhZ0NpZjFwQm9qVGc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "97cf7894fd88",
       "title": "Pesquisadores acharam evidências de que o cérebro humano pode reagir ao campo magnético da Terra, segundo estudo publicado na revista eNeuro, os participantes ficaram em câmara selada e sequer perceberam quando o campo magnético foi alterado - CPG Click Petróleo e Gás",
       "published": "2026-05-10T02:23:00+00:00",
@@ -162,10 +198,46 @@
       ]
     },
     {
+      "id": "0f28b87f46b1",
+      "title": "Estudo aponta que tipo específico de ansiedade pode reduzir risco de morte - Diário do Centro do Mundo",
+      "published": "2026-05-09T17:45:24+00:00",
+      "summary": "Estudo aponta que tipo específico de ansiedade pode reduzir risco de morte&nbsp;&nbsp;Diário do Centro do Mundo",
+      "sources": [
+        {
+          "name": "Diário do Centro do Mundo",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLV9SbFRnTWFYT0NPUy1yRzVaS3gzVTBnaVNmSzNxNWU4V2pXYWcxSWUzTlJlTEtWM2xOaWxxVXZEQlRPLUUtUXpNQVBWVXowU1Z0WF9FTVZ3eU1adW83aTY5UG9qam9ueFhjb3lEblZiRHZCRTlIUHdraE1sRlYySVhULVJlRDZfVTBzWnJOaUFMZXZoTG1uS2lLdFM3Mk9ibVhJdTlPTkVMUFRiNEFsRVJ1RHFiNFZ0RUVkN0ZYQlNNbVVO?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7c964013f2f1",
+      "title": "Nefrologista ensina como avaliar se o xixi está saudável - Metrópoles",
+      "published": "2026-05-09T17:29:00+00:00",
+      "summary": "Nefrologista ensina como avaliar se o xixi está saudável&nbsp;&nbsp;MetrópolesUrinar várias vezes ao dia é normal, desde que fique entre 4 e 7 idas ao banheiro com intervalos de 2 horas&nbsp;&nbsp;Diário do ComércioUrina espumosa pode indicar lesão renal precoce? Veja o que a ciência descobriu&nbsp;&nbsp;Portal UaiQuantas vezes por dia é ideal urinar para ter rins e bexiga saudáveis&nbsp;&nbsp;difusora95.com.brPRESSÃO ALTA É UMA DAS PRINCIPAIS CAUSAS DE DOENÇA RENAL CRÔNICA, ALERTA MÉDICA&nbsp;&",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQVg5TGoxOGhtYjVFcm00RXpPLWdISmxBUVZQUnM4OW0zWFBmeVdGUmpoeUVka2YyOVVQd09DTUs2Q0xncTB0ZnlGTXZwYnQtcklYQlNUR0h1Q3hBYnVDVWNKVG9qek5nQjFnVFVaY3cycWZqMlJmSE1FTktVS0dpNDk3VGlZQi1ISjY0NkF6Y1VBT29ZVHhPamk3bF9yd0lTU1dZOUs5OG1rM3oz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7c77bf04d431",
+      "title": "Mudanças climáticas podem ter impulsionado hantavírus na Argentina - CNN Brasil",
+      "published": "2026-05-09T16:45:13+00:00",
+      "summary": "Mudanças climáticas podem ter impulsionado hantavírus na Argentina&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObHdESDBmNWFodHR6Z3Z2VHh3YjRqcWdkS0U1MVpvYnNndUVtZnhTWFFLaS04cGNZWTZwOW5BTlAzSWU3QnVhUGNTOHVmSnJSeFpsTXY2UjBnR25oMDlZbkFwTmxCZ0x6RmJDM3VGSy1wUm9IZ2lIQncyRV9yXzd5QWk3QTlFUktKNnpILXhCek1tZzdaNVhYVWVBallpQlVBTnp1c0gyOXIzYk5lT29N?oc=5"
+        }
+      ]
+    },
+    {
       "id": "19bd569ea0ad",
       "title": "O Japão estudou a origem dos cabelos grisalhos e descobriu acidentalmente que devemos ficar muito felizes por tê-los - Catraca Livre",
       "published": "2026-05-09T16:25:00+00:00",
-      "summary": "O Japão estudou a origem dos cabelos grisalhos e descobriu acidentalmente que devemos ficar muito felizes por tê-los&nbsp;&nbsp;Catraca Livre",
+      "summary": "O Japão estudou a origem dos cabelos grisalhos e descobriu acidentalmente que devemos ficar muito felizes por tê-los&nbsp;&nbsp;Catraca LivreCabelo branco vai além da idade: entenda o sinal positivo que os fios grisalhos revelam&nbsp;&nbsp;Jornal OpçãoCientistas descobrem a origem dos cabelos grisalhos e revelam por que você deve ficar feliz com eles&nbsp;&nbsp;Portal 6",
       "sources": [
         {
           "name": "Catraca Livre",
@@ -198,30 +270,6 @@
       ]
     },
     {
-      "id": "7d56efa5983e",
-      "title": "Seu cérebro continua processando o mundo enquanto você está sob anestesia? Novo estudo da Nature explica - O Globo",
-      "published": "2026-05-09T14:18:41+00:00",
-      "summary": "Seu cérebro continua processando o mundo enquanto você está sob anestesia? Novo estudo da Nature explica&nbsp;&nbsp;O GloboPessoas anestesiadas processam as palavras que ouvem, mas esquecem de tudo depois&nbsp;&nbsp;SuperinteressanteAté sob anestesia, o cérebro continua analisando sons e frases&nbsp;&nbsp;R7Cérebro continua ativo mesmo durante anestesia, diz estudo&nbsp;&nbsp;ExameEstudo revela que cérebro processa linguagem mesmo inconsciente&nbsp;&nbsp;O Cafezinho",
-      "sources": [
-        {
-          "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQT1ktVFplLW1xR0FJUGVOZXR0aFNXUlIwSHJ6RzQtdGVNVkRhWHNiNWphdjZIX1NPTnJiWUVPNHNaLXJzQlBwWEs2eFZUaEFsRF9mbTFUVktDeHRXbzNpbGhsenl5R3Z2bzVwWEstd1FEQnBmTWwweDVjbVkwb1NySXRobHRnNXpOT3VjWjZsNV8wMVdlbkpOVTVtSnJ1WjA5ZzNlTzJYck1LTzBhWm05QXhWYmc5VVdXS3lEd2ZQRERWM2ZObW9SMklOUHY1ZDZxdU9TcUhiWGVDWUppMTh3RWRTYU04VXNzNjhIOVNzd2rSAf8BQVVfeXFMUC1tQ1paVmNBSU01bHB5WUdwYnFXVEROclphRlNYOVk2RXdQczhwTjNzTUkwd0Fwd0QzbXR0MU01UGZzTDlLNGswQjZJaWJlRy0tdjRsMjBLbUZkS1Jwdk9QeERVdmMyV0tJU2ZydFdYUHdpUUNVeUpvTXg2a0VIR3ozVFc5ejNaWnVHS25ZdkZwdC1FQlpmWEE1QlZMbFdnYTFBb3BIS3c2dmtfSXEwU3hWYXlfVWUxTGNWaW9LbGtIdDkyQ2RGU1dXMm0zbDlTNU4xRGhpNFVCM2o5eWhNRTlENEs1Q2dfRVkyd1RYZGJQeW14QTBmLXptZzkzd2hZ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7bf2c4835b27",
-      "title": "Casos de hantavírus quase dobraram na Argentina; clima é apontado como causa - R7",
-      "published": "2026-05-09T12:58:50+00:00",
-      "summary": "Casos de hantavírus quase dobraram na Argentina; clima é apontado como causa&nbsp;&nbsp;R7",
-      "sources": [
-        {
-          "name": "R7",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ0VBNndlWFhUZXNlcUhSVmxmMHZubDg2cmwyRHpJWE1sZGt1aTJxZUxQMDhTX0UxOEZxUnFEREE4VFZhZ1ZqYmhxTG9MMHlaVjgtbGRrSy1ybFVnWFE3TllJTkprdERRekVEWTFiOGJmS0RueVR6QlpVS1lQRnJIU0JIZEdXci1zSmxmdkdYSXBqcmlkUGRaaVNjaG9WY2p0WlVpS3dObm1fNHFsNkk5RFZkdFJOdnRqQW1MSHdaSHU?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c8597983075f",
       "title": "A corrida global pelo primeiro “sol artificial” – e o papel do Brasil - Olhar Digital",
       "published": "2026-05-09T12:29:00+00:00",
@@ -246,14 +294,26 @@
       ]
     },
     {
-      "id": "8fc00412121a",
-      "title": "Estudo indica padrão imune comum em Alzheimer, Parkinson e esclerose - Poder360",
-      "published": "2026-05-09T09:41:51+00:00",
-      "summary": "Estudo indica padrão imune comum em Alzheimer, Parkinson e esclerose&nbsp;&nbsp;Poder360Veja mais manchetes e perspectivas no Google Notícias",
+      "id": "92ea01f1da88",
+      "title": "O bocejo pode funcionar como um sistema natural de resfriamento do cérebro, revela pesquisa Australiana - Revista Oeste",
+      "published": "2026-05-09T10:05:00+00:00",
+      "summary": "O bocejo pode funcionar como um sistema natural de resfriamento do cérebro, revela pesquisa Australiana&nbsp;&nbsp;Revista Oeste",
       "sources": [
         {
-          "name": "Poder360",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNlc1YjMwb3RTX1JqTnllbGhuZnhZeGQwX1VSdUF4dUJDMUZxZjFIS2w4SmhYc1dTaGM0V2FWeGpQRjNmZTExd0FUWnhIaUtUQUxOWEVzZTdhZ0pBUmFTdm93ejg4V2l2bVI2UGZGTHp0VWYxYjBJRHdCazdSZkJiYS03T3R3a0g4dUtCSlhVYU90ZkVuM05RMzI3eHRwTUc0Q2ZxYUJ6N0RQa05Q?oc=5"
+          "name": "Revista Oeste",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYmZOdzZtMnpIS29LUEZ6SHVNMzd1YXEwTFRoUFVtS3ZOamNyWmlrbS0tenV2X19scFoxajVmRnIwYmFJTVNiUnVpVmJIT0VFVy16SmUzV1puSUNXZnVMRGJreVVBMjVFVC1QNERxeFlHUHRsQ3dKM01Xbkt2bFFVcENPR3V3Rk52VVM3aVdfdm0tSl9MNDBVSDhPamxlRmFadmxDdVVVa1ctSjAwbXgta2tqTHBUWEVnVExSbEFEZmozVmdMYXhjUzlCV0txN2RJUGZSdHJUS1c1UHFTVDlWNXRGVTM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "01de5857029e",
+      "title": "Estudos mostram que crianças que brincavam na rua sem a supervisão direta de adultos frequentemente estavam construindo o que hoje é conhecido como imunidade emocional à frustração coletiva - R7",
+      "published": "2026-05-09T09:12:29+00:00",
+      "summary": "Estudos mostram que crianças que brincavam na rua sem a supervisão direta de adultos frequentemente estavam construindo o que hoje é conhecido como imunidade emocional à frustração coletiva&nbsp;&nbsp;R7",
+      "sources": [
+        {
+          "name": "R7",
+          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOMk1tbVhPOVlKR2U1MTNGbDNvNlZrTUJleVlKX3RVYUZMUVE4b0pZNzhKczVTUGVaeUwxSmFVN0FicTkwekhUVlRjeXJ1aGxIVnJBeUJUbUctN25Xb0tER0Z0bl9qRDkzbzJWcnV6cTV2cHdkTUNUWHBWRVo1ZXgxX3RNZFpfN3dyT0FNR3JCVVJrMV9Eel9NZW15ZzhJLUxtOGJUSEY5S2l2ZmJmWHcxWndGT1VseEdHTnVwWU56eDNmSk9RbmhCUG9wbW5CdXFQNFBuM3pUemJacVFKeGlvd3BpaUtRMkgyTjVMR2FPT1hrYjhjekt5RXNiNUZSUkZsaGw3aTB1SDFoZ1VHLVdSMGNLVFdPaWpB?oc=5"
         }
       ]
     },
@@ -266,126 +326,6 @@
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQTZSZ1gwUkkzVUR6WnlkazVlbXIxV1M3dnRUbHhBOXJYdVZTTlFINVU1clNRSjhOWDd2elBjTXVxMFJOY0R3azZPZHRQMmpMcXdsdm1DWlhBcm1PaTRkZGo1Wm9WYlVaNnZKY3dYREYydWpoRjJsdlF6SlJXaElOM1NsdllFNEc1bnM2anh6UGN6eXFBSXlrM29FWmFpRWdBbVJ2Vkg3TFJMM0hNX09FNF8yOVVLeDUwYlhRaWdkbFczbDItMjdVa2tFOUXSAdIBQVVfeXFMT3piZmhxb0hETXhISmZDajN4X29fR3A1ZnB2YWhYSTZWQmxWcXY0YVBXb2ppQWxDUlcycXRyZE1lb2x2ZWhBeXROOWMtMnNSckZNY3hNajNOTmdYTnE4d1ExNVBTMm9BSXpqMmZxQmJJYy1ZdGZULWlyTkpJeVBhLVVNaVFDMW5KLW40d1FJR1ZiTTBPdVA2aHZWWWUxb3RZRlk4b1lUR1FiRHUzY242SjByNlhiUjFDVjk3SzhFakN6dFNiVVlZLUJjWW85cnRXOVhn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "808f0f46674c",
-      "title": "Pessoas ansiosas e preocupadas adoecem mais e vivem menos? Novo estudo mostra o contrário - O Globo",
-      "published": "2026-05-09T07:30:39+00:00",
-      "summary": "Pessoas ansiosas e preocupadas adoecem mais e vivem menos? Novo estudo mostra o contrário&nbsp;&nbsp;O GloboVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWmdHNDJZR1FYaTlzUUM4MUsyOFBNZlhZVVlDZFlqbnQ4Um1oaHhWV0kxTHIwWWFnYW5kYzNKMnhlRDZBVHJvVl9VWThaaWhnTnlnWnJDZWRBbXBTb296U0dkcVQyN3Etbk9Xem81N2duUmpaczNTYk5zYjRGRWczelIweHREenRIbFNFOUMxOHJMUGtIa3ZYWUFuVnE2TzF6WmMyMHZOdmM2bnNYODFXemZNdDJjZGtVMWlIWjR6ZmJDSTJ1VjNna2stZlRVRUtrenZQZjlib0RSbHFf0gHrAUFVX3lxTE95SWhoVEhJMjBFMy1kd2EtekxCQlFoTW1pOWxuVHJpOGVXclN2aFdjU1RHR3ZEVGIzLUtpUGhNQkltMm55VzNIcU56WmxpLXZaZGs1bzZDcWJxYlV5amVZTGdiS0tPRXY0aVhJZzdUc2ozRHc3V1Nrc1NNak12OUpYd3Bha1lMaFZFOEg4X3gzNFdSTkpSbjVweVdSOHZySjYzRmtsV0stUkJSOEdtOTZmNW1ZTTBuQ2FLWUxJM3UxSHFaVTFISGV0WkNPZzFGeHhZUFJ5MVZKTUhQZGlvd09OTkNQdldmaWh1Vk0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0016e6141a99",
-      "title": "Doença do fígado causada por álcool avança no Brasil; mortes crescem mais no Norte - Folha de S.Paulo",
-      "published": "2026-05-09T07:00:00+00:00",
-      "summary": "Doença do fígado causada por álcool avança no Brasil; mortes crescem mais no Norte&nbsp;&nbsp;Folha de S.PauloNem cerveja nem refri, está é a pior bebida para o seu fígado&nbsp;&nbsp;Diário da RegiãoFígado também sofre com excesso de açúcar e médica faz alerta&nbsp;&nbsp;ES HOJEConsumo abusivo de álcool eleva casos de cirrose; Norte lidera crescimento&nbsp;&nbsp;Ver-o-FatoSabadou: exceder 4 doses de álcool em apenas um fim de semana do mês já aumenta risco de doença no fígado em 3 vezes&nbsp;&nb",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPanpMQ29pMjVvTmdKU2FtVzA3eGtHSXFVMjFnbG9NNmVCaUQtOFdsd0tWaTdGT00tODM0NURfY1VhTGpZMXg3X2dUeF9SbmlHcVRzWnFoM2xPUEQ1aXhNV2FITGtJeU9feHlGeUxlQWN4Y3VfTl81OGdEcHNGNEVtbmRGQXJzVXJ5WG11WEJEaUFtVTBUaTYzdnUwOGVmUHVYYVU1amx2NGNGdUNTakVvdktZVzZha3pKWlFhRHlTVHRKY0ZCVmVHVzZNbURSOV9FNURfdmd6Q2o4UdIB3wFBVV95cUxNSkRMN0xxNnBsN3ZnTDhGRDNZRm5XeFJLc29hMnB3ZUpKLXAtUURwM0l4WnVKaE8zNUJXQ3VGZUNPSktQMmk3dzlHVEZ0XzU1WFpBR2NmUjJ4NG1adFExdVhETWJDT3RvS3Z5R0hkN1IyYzE4YU9MaEp6Zno4UnBWbzk2Nm1HNlBhLU1LemNSNkU0UFFGYk5yaVZXdzhNYmVVOXRBY1VtOFVBM3VoTjlnREhwdllVM1V2a2ZTRmg2QVo5MWo3ejRDY1ZsMFZkaURMLVF4aFc5R0t3eko2TDBj?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fff7974a8fe6",
-      "title": "Pompoarismo impacta o sexo e a saúde em diferentes fases da vida - Metrópoles",
-      "published": "2026-05-09T05:00:00+00:00",
-      "summary": "Pompoarismo impacta o sexo e a saúde em diferentes fases da vida&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FR2g0V0NlV0ZjNkFpSVhIRHpaV0FKUDgtZE9fd0sxdUlMcUVPREk0SFk0ekVkLS1VVzgwRVJOWlVvRFFfS2dmZm5XT3JteWllNGZvUXVSZFAtRkVEZFZJYW1KUVE1dEVhOE5FNE1sZUZfdV9rUXdfaWs4WllHUU0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "51a9e8550e06",
-      "title": "Nasa testa propulsor revolucionário com plasma de lítio que pode reduzir custos e acelerar viagens espaciais até Marte de forma inédita - CPG Click Petróleo e Gás",
-      "published": "2026-05-09T01:36:00+00:00",
-      "summary": "Nasa testa propulsor revolucionário com plasma de lítio que pode reduzir custos e acelerar viagens espaciais até Marte de forma inédita&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNenhMYkZaNnBFMG93d0xXOFFfcDlsN0IyQWJSTEZZci1YLTUwM0JtVmpkLXh6ZmlvM2VKMWVJRUJNc2wtbTF1bFBmRGNhV2pITEowQUdUOF94UHd0WFdRVW51a1RfNno1Y05VRi1EYmxYUXNjaTJiRWltbktMSXJCYm05V2stRUdnRS12dGlIdzhVZGxQdkhWOVF3bnl4MURGc0g1UU5YclV6NGNfSGVBQmhQdG80bEUyX05PcDBkdlhyeDNYVXpHTkljMzcxTXJSU2JlZTRJZmtxbmRJUXh4TGVSeklmOENCem03T0NDSmhJTWlUbk5zc1p3MmJuVER2S1o1QVFR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b5edb898fb6d",
-      "title": "FMI alerta: IA coloca em risco segurança do sistema financeiro global - Tecnoblog",
-      "published": "2026-05-08T22:23:50+00:00",
-      "summary": "FMI alerta: IA coloca em risco segurança do sistema financeiro global&nbsp;&nbsp;Tecnoblog",
-      "sources": [
-        {
-          "name": "Tecnoblog",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQW56Nk1IZk4zRTJfZXBIUkUtWjdKdmltUWM2ZTdfU2FNVzAxbVFSTUlaSVkyTkxrQmR4V25CN2FtMG1oZDVXb0hSRnBUdFNsTGZkRVVpNFJTQnN5bDF1SF9BazU0UHNTc3p0a21QUk0yal94RFRqSGZDS2lFQm5ZaF9xRzBBVGIzX3pGdWFhcXVxVlRlZF9BNjVGX2tNek1XTEHSAacBQVVfeXFMTmJCZGd2TURFMVV5TG13NUVXX2MtQ3RDOTVUeGVxM0Q4SlBWV1ozTXl0NnhrbWJYRUhzaWtMR2NldGNkUk1GRW5MV0tSVWdnTFlsLUxhdER5R2hETmxIN1VRdkJOeS15V3g1YXBIYl90THVtY3BKS2NQa1Vzck5zZDFHZkpubFI0b24wbllEdVBGSFVPTkZiY1NMNjViV0ZkUFR6NE1LNWM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a28bae7ef86d",
-      "title": "Professora da Ufrgs assina estudo inédito sobre genética na Nature - Correio do Povo",
-      "published": "2026-05-08T22:07:15+00:00",
-      "summary": "Professora da Ufrgs assina estudo inédito sobre genética na Nature&nbsp;&nbsp;Correio do Povo",
-      "sources": [
-        {
-          "name": "Correio do Povo",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYlZKMlN0R3dNMGJrc3lVLUFOeVduZUdTbjRvR2RheVJZWnBObWljU3dwTlVyMEtkRURfbGw5VEYydGdDYWhMV3VEVThtd3l6Nng4SjRBVlZicHB5d1BDdUZieXRJc1lRMS1pTlQ1X0kwdXNNbkxlTzhDWVVXMGx0M1JoNW9MOFZlRnEybUVxUkRySnpWMGZId3RJODJLV2taR2VDY0J5UlRkY1h5U2Y3RlZINDktcnBrQVBhQ19JUnFiQU1XNHln?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f89f8239d9d0",
-      "title": "Comer ovos pode reduzir risco de Alzheimer em até 27%, afirma estudo - Metrópoles",
-      "published": "2026-05-08T21:30:05+00:00",
-      "summary": "Comer ovos pode reduzir risco de Alzheimer em até 27%, afirma estudo&nbsp;&nbsp;MetrópolesO que acontece com o cérebro ao comer um ovo por dia, cinco vezes por semana&nbsp;&nbsp;Veja SaúdeRisco de Alzheimer pode reduzir em até 27% com este simples alimento extremamente comum no Brasil, diz pesquisa&nbsp;&nbsp;Xataka BrasilCom mais de 40 mil pessoas analisadas por 15 anos, consumo regular de ovos, ricos em ômega-3, colina e antioxidantes, pode reduzir em até 27% o risco de Alzheimer e ainda melho",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE92MGFtbFdBcVNiYzZ4bFpDRDBtUi1kNXlzZWVZYWh5aTNTekZOYjhTRDVjdFIzcDhVaFdWaEVzSk9KdHF3WUl2eEN1NlkzbENUTU80YU1zYjYyYTNsVGI3Q1YtdWNNTlVrZjd2ZlZ4bThEVV9oRklwNjBVWUM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "86dc6d87b349",
-      "title": "Clonagem de pets recria aparência, mas não garante mesma personalidade, diz estudo - Agência GBC",
-      "published": "2026-05-08T20:55:09+00:00",
-      "summary": "Clonagem de pets recria aparência, mas não garante mesma personalidade, diz estudo&nbsp;&nbsp;Agência GBC",
-      "sources": [
-        {
-          "name": "Agência GBC",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSWNOSFFqMWxPTlNTYWF4bko3Wm1NVGdLN0VUQUhQdU1VelFuQ1V3N3Rka2RKTGh6V3RSRC1VdU5OWm8wUEl4QVpncmpSY01rckRkRmlwRlN2Zll0ZVcwbDMxMWhubS1HUVl4NUJMZmJTbXYxR2JBdTNmdEdIQlpNOERhV1hBZUxXYk9VUGpueWM1dXByX0RGWFZvajMyNUFXLXZOYncwZXBYYlk3S3RXYUMzMHczUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0d39972212d7",
-      "title": "Pesquisadores querem clonar árvore centenária após queda de araucária gigante no Meio-Oeste - Oeste Mais",
-      "published": "2026-05-08T20:13:46+00:00",
-      "summary": "Pesquisadores querem clonar árvore centenária após queda de araucária gigante no Meio-Oeste&nbsp;&nbsp;Oeste Mais",
-      "sources": [
-        {
-          "name": "Oeste Mais",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNTl3NC1RYW5VLXdFR2VYaW1MQWh2TXlYMDBCRDB2WmtfaDJXVGpENHdoNTBWRUxQZ0RyZzMxS3QteXFYU0Z2UkdvbWZScjkwSWRuOU1BaUpZckVaWDhKTHlhdjByUzUxNXZ0M0Zpa1NGLVZQeDRTQkxpYzJjOGp4cnRiamJramh6bUViQXhYUFdEYnY1VUc5S0VNYlg0S3FnNlMza3V4SmEwLUZjMFRBY00tOThGaC1sN2dPT3N6WG1qS3R3eWpLMHNIY1hGMDVRa084Xzl3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c70da52e0232",
-      "title": "Mulher tem pele escurecida após uso de antibiótico - Agência GBC",
-      "published": "2026-05-08T20:05:15+00:00",
-      "summary": "Mulher tem pele escurecida após uso de antibiótico&nbsp;&nbsp;Agência GBCIdosa dos EUA fica com pele azulada e preta após reação rara a antibiótico para rosácea; estudo analisou caso&nbsp;&nbsp;O GloboMulher fica com a pele preta e azul após começar a tomar medicamento; entenda&nbsp;&nbsp;R7Mulher fica com a pele preta e azul após começar a tomar medicamento&nbsp;&nbsp;Portal UaiRaro: pele de mulher escurece após uso de antibiótico para rosácea&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Agência GBC",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc1A0cGVWQ2dyY3pOazM5QnVEN0ZsenFTUDlGNVVnZ1RDNTZOdjFUWjlTZmdSWENaOTJMYmlDclNjVmZhZ1g3V3NnVi1VMUhfWmdKYThsRFpZRWlZMTY4SXVtNGRpNGtpQ1pjUWhwczRnaFZhdjR4czYwejl5aXZORkN0Tzk5cllZcXhKVFpn?oc=5"
         }
       ]
     }
