@@ -1,10 +1,82 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-05-11T14:58:46.572249+00:00",
-  "total_fetched": 89,
-  "unique_count": 86,
-  "health_related_count": 32,
+  "fetched_at": "2026-05-11T19:50:43.901433+00:00",
+  "total_fetched": 94,
+  "unique_count": 92,
+  "health_related_count": 37,
   "news": [
+    {
+      "id": "bc9f5aed61aa",
+      "title": "Qual é o principal motivo para cancelamento de corridas de aplicativo, segundo pesquisa - O Globo",
+      "published": "2026-05-11T18:04:33+00:00",
+      "summary": "Qual é o principal motivo para cancelamento de corridas de aplicativo, segundo pesquisa&nbsp;&nbsp;O Globo",
+      "sources": [
+        {
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMUE3VUpUYUpYYzVweG5XbWlGNXpKWXZwbF9ickVxS3dJSFE2V1BOM0FLWlNPUWJ5MHRReDBBdGlGSFphN1BEM1BUOXlSdzNDZ21QR3lneWdOV19KR1laNmFyUEJBbEItLUZjVDBYZWlBbkxNa3BYMDhfcHRkZVExMTY5Sk9fZmd4alh0YW1rbml5Zy1zd1FYVWoxREFiUjZoVTgxWUZMdUpYc1dGVEVsSUstN25DUkh4Z0syVUEzc2ZBZUJzam5vcXZjVy1nMEgtU2lZYzlIRzVNUi14RWNIbWVBd9IB8gFBVV95cUxPRDVrRmVHNzRQZ3kteUU0WjdxQ0pJckZpZlJMM29kSHZkblRsRnpNWkpJajF5c3FMOWtUcDBQbVJyNE43WTZteFF0NC10V0FydVhMWWRIR2tPeTlnZ1h6Sk5PSTkxdU1Jb0pCSTVYMTY3VEpyV0tqSF9nYzVUR3MyYXNmbEtMT3BFOUdkRGxnREhPaDg2TTFDSWM5bm1VRTMzUW8xNUlIZ3VpVHQ2WmVKNUt5OXR1X3VEQ01aaHd2WXdUWmgzUG5YNklCYVRZNFdWb2s1bExQdExKR21NNUN5RkpyYjF6S3lONjRRZFAxdUIydw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8f3ad3fc7647",
+      "title": "Nutricionistas rebatam críticas e defendem consumo de arroz com feijão - Folha de S.Paulo",
+      "published": "2026-05-11T15:00:00+00:00",
+      "summary": "Nutricionistas rebatam críticas e defendem consumo de arroz com feijão&nbsp;&nbsp;Folha de S.PauloSementes germinadas potencializam nutrientes e podem deixar até o arroz com feijão ainda mais saudáveis, aponta pesquisa&nbsp;&nbsp;G1Arroz e feijão é ciência, diz especialista&nbsp;&nbsp;AgrolinkNutricionistas recomendam consumo de arroz e feijão&nbsp;&nbsp;Poder360Arroz com feijão: o prato que sustenta a identidade brasileira&nbsp;&nbsp;Mundo Negro",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTGlfQWNRZmRTdWdUZk9MQzI4MTVGQTRFNVNVT1VDMXJNdWdNQ0xsQmtpZEx3QVpYQ0tyTVhrMkNFZGR5ODRRSnVoLW44TktudWpnUkh0RzRsNXhYR1ZhS0h3bTl3NFY3TTZ2aFI3U2hHUW9KeVRtRnljMFFlbWtVVUFpNXlxVU5CYXcwd291MEVPZDdCSThJVTRBOUpQS1pWMHVkQVh6M3JYZzFPTjFHanFwTzZXVEg1UWVGdnN0MzZCcnfSAcgBQVVfeXFMTWNtT1hyTFBCVkFvVzBBRE1ENVdJdzRteXhwVXZNQzNjMmdMOTJJdm5QcDI5UzhSUGRPU0x6UGN3N3l4UDlKTi13SzJGeXRwTElNSjcyN3h5QTl1SVU0QkhFbkRjd0VGNFRLNWxUS3pDOWIxUTFIY1dMYnc0QXdZbkhQUVVnQXlxSGxCZUlKczFNRGtKTnVhTGpBRUJqaHZUMVZSakwtNUk0SGhDV1RxaVRqSG1NN3p3LTVjVzZLaUFEcFF1bGItTmI?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "54bd5a316417",
+      "title": "Pesquisadores identificam uma nova classe de célula humana que surge apenas em uma fase específica da vida, e sua função exata permanece um mistério total para a ciência - Catraca Livre",
+      "published": "2026-05-11T14:48:49+00:00",
+      "summary": "Pesquisadores identificam uma nova classe de célula humana que surge apenas em uma fase específica da vida, e sua função exata permanece um mistério total para a ciência&nbsp;&nbsp;Catraca Livre",
+      "sources": [
+        {
+          "name": "Catraca Livre",
+          "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNRm1McjZBRTBzekJHUGs4MER5ZzdQZi1OVGZYSjJuSDh4UTAxQW1VT25nZmlsZzZkSThxcHBNZ0dmaUp3b3J6MjBrY2lBd19Cd2g2V1dBYmcta0F5emhIR2JWVC1aalFpTk42WTREdmdNbS1RV3I4YjU0eVJUc0JmWWlNRmtlMFZlc1oyeFpvYjRtU2xvcGVSN2ZtbEdrSEd3aUY0N3ZJX054WnNudlM2OEMwa1FPbjIydm82eUREY05vWWFGbVRSUDNSYzZ0RE84MzhqcjlhVTlBWU1MRERkb0MzcTFqZWZaVUVVV1B1Ml9IcW40WGlFWndMNnNzVWZmUENRbkZnQXBhUThZNF9YWFFNTkdHeGl1R3YtUlBMX09hbXcxTkE0UGx6TG1WblE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bf0b2a76ee3e",
+      "title": "Nem toda dor de cabeça é igual, saiba quando procurar um médico - Grande Ponto",
+      "published": "2026-05-11T14:38:00+00:00",
+      "summary": "Nem toda dor de cabeça é igual, saiba quando procurar um médico&nbsp;&nbsp;Grande Ponto",
+      "sources": [
+        {
+          "name": "Grande Ponto",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNElFWFZXUktFeFQ2UnBZSVBfMzlTdldqQWo3SG9PTnN2NkQtOTEzMktMcVhXUGFvdWdWS1Y2dDV3V2F5OTdvTGQ3NEhpV2VnQkl6Q2ZzTVhTLWRXU09CczNGVGpUU2s0dTN0d1JFWFpOc1dlSkJRdjhrTHQzbTVPUDFKa3Ezak44RDl0cEJMVjJXWDBFVG1ISWxLbnVsZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7e3b6678f449",
+      "title": "Spray nasal desenvolvido para casos de AVC consegue levar remédio até o cérebro sem a necessidade de cirurgia; entenda - O Globo",
+      "published": "2026-05-11T14:19:38+00:00",
+      "summary": "Spray nasal desenvolvido para casos de AVC consegue levar remédio até o cérebro sem a necessidade de cirurgia; entenda&nbsp;&nbsp;O GloboCientistas dos EUA desenvolvem spray nasal contra demência&nbsp;&nbsp;Diário do Centro do MundoPesquisadores de Hong Kong desenvolvem o ‘primeiro’ spray nasal do mundo para alívio rápido do AVC&nbsp;&nbsp;segundabase.com.brSpray nasal contra demência reverte envelhecimento do cérebro em ratos; dizem cientistas&nbsp;&nbsp;Só Notícia Boa",
+      "sources": [
+        {
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNeXV2OENTYWh1U0R3SlpHSDRtZHlVbU9heDcxSy1hLXBEV1Z0a240TXlKWGw4dXYtblI5dUFybDVmUWJtanlEb2ZOTVJmVXExc0NhajRnRDF6MHk3R0IxaGtsUWtJanpKRWppZ2UzcHVncFpWT1NiUWE5QnQzYlcwRU5QcWJpOUx0aU1sY0ZpSjVCejJSbmVmZDh0SkhkRXFNcXVGMVZmU1RIbFVUaUpKQUQ1ek9CV2JiczhPdXRfZFFLSnBYVjZfQTJzSS1IQXgyRGNPa2FZYTVwOXZ1aWRqdDNNRkxjSTlpLWFQdlRabUl2S1hzOWFoX2dZRWs5dWFpSmhmM9IBkwJBVV95cUxPWVhvTFZvazlDMUZZeXRuRnY1bzVfN1ZHTkM4VEFlR3ZoTXEzeE5HNDQzRi1fRmZnVzZERW9CSXdiYk9jMXBOSk9lMHEtZ0pZYjItZ2drYmZlU01JY2dYenpFeFpTajJnMUhjUnRqWmQtcmZaa2htRVFzd1puSllTWHNaaFVaelFjSC1RYWx1U2l5dGNwQ0NXNzU0cEwxMy1RSXlZM1VMbHpJb1B2WEZQa0RFZVI3Y0FmanpWM1NHSW0ydm4xem1MOGNtTzhOSkM1bm5ON2dYSDJqQW5VMkF6QlhwLTMwT2NMQWF4eDVyQTJLa2pVdDVQR1VrcW5aXy1DY2QzUzBkTFdVNmNlcDVsZnROUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7422527b71ad",
+      "title": "Pesquisadores acham um jeito de fazer IA admitir quando não tem certeza de algo - Olhar Digital",
+      "published": "2026-05-11T13:37:00+00:00",
+      "summary": "Pesquisadores acham um jeito de fazer IA admitir quando não tem certeza de algo&nbsp;&nbsp;Olhar Digital",
+      "sources": [
+        {
+          "name": "Olhar Digital",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeUNTTm92M2x3ajFOQlhIaGhFOVBZZzN4UkdwOGk5RTVtQmF4dl9YVEQySDBvajlqZ09CbWpkRDFiQm01QTQtYmJhZ0tjUnFteFplbmNRY1ZkWXJUbFBNek1iajRNSGM2TEI3N2sxSmtBOFd6QnhPMm5qN2h0bXJQbWgzNy13d2JLLXQtdjFFdWxIZXljaU1ZNWMtWm42SHRwdjRISjlKS0hFcWtRZGYxVUNqZ2FibFRtRmozTnNYbW4tbkNvTmlSVWVUTzJ1UlZsY1pMTUo2bm1tLWM?oc=5"
+        }
+      ]
+    },
     {
       "id": "7e46dbfda560",
       "title": "Comer carne vermelha aumenta o risco de diabetes tipo 2? Veja o que diz a ciência - Jornal Correio",
@@ -21,7 +93,7 @@
       "id": "9537ef8cc707",
       "title": "Frente fria chegando: 7 dicas para não deixar sua imunidade cair - Super Rádio Tupi",
       "published": "2026-05-11T10:51:48+00:00",
-      "summary": "Frente fria chegando: 7 dicas para não deixar sua imunidade cair&nbsp;&nbsp;Super Rádio TupiFrente fria de 2026 exige atenção à saúde e imunidade&nbsp;&nbsp;R7Mudança no tempo: como proteger a saúde com a chegada da frente fria&nbsp;&nbsp;G1Como o frio afeta sua saúde? Dicas para evitar gripes e resfriados&nbsp;&nbsp;Estado de MinasGoiânia registra quase 500 casos de síndrome respiratória grave em 2026&nbsp;&nbsp;CBN Goiânia",
+      "summary": "Frente fria chegando: 7 dicas para não deixar sua imunidade cair&nbsp;&nbsp;Super Rádio Tupi7 cuidados com a saúde durante a chegada da primeira frente fria&nbsp;&nbsp;Correio BrazilienseFrente fria de 2026 exige atenção à saúde e imunidade&nbsp;&nbsp;R7Resfriado aumenta com o frio no Paraná; veja receita para aliviar sintomas&nbsp;&nbsp;gmconline.com.brGoiânia registra quase 500 casos de síndrome respiratória grave em 2026&nbsp;&nbsp;CBN Goiânia",
       "sources": [
         {
           "name": "Super Rádio Tupi",
@@ -45,11 +117,23 @@
       "id": "b417fbe396aa",
       "title": "Sintomas silenciosos do Parkinson: Dr. Kalil e especialistas explicam - CNN Brasil",
       "published": "2026-05-11T09:00:57+00:00",
-      "summary": "Sintomas silenciosos do Parkinson: Dr. Kalil e especialistas explicam&nbsp;&nbsp;CNN Brasil",
+      "summary": "Sintomas silenciosos do Parkinson: Dr. Kalil e especialistas explicam&nbsp;&nbsp;CNN BrasilCombinar exercícios aeróbicos e tarefas cognitivas pode beneficiar pacientes com Parkinson&nbsp;&nbsp;Jornal O São PauloAssociação pede mudanças no tratamento do Parkinson no SUS&nbsp;&nbsp;Band News FM CuritibaNeurologistas sinalizam a importância do diagnóstico precoce de Parkinson&nbsp;&nbsp;BoqnewsAtividade física é importante aliada no tratamento e prevenção de Parkinson&nbsp;&nbsp;AFPESP",
       "sources": [
         {
           "name": "CNN Brasil",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ2h2Wjhqcmk0YWw2NHhTemo1UlVsS0t4ZHRycHd1MDJQUXZ0dEtOZ0hoRS1Qd3BRZ0l3Ykl6LUNuUGQ2ajhKaVZucWZmNldUWk1TajBSbTYtZzk2MVJZOGlINjRnVXExRXoxbXFaNFVtLURLcXBTZVg3azZCckl5Q2xmQ0dnSURBcHlaY3hDMXpINmVWR2ZKaUl3alN0RkhNVktPLWpB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e59a0f6b0c93",
+      "title": "Seis cidades da Bahia estão em epidemia de dengue após aumento de casos e especialista faz alerta - Jornal Correio",
+      "published": "2026-05-11T09:00:00+00:00",
+      "summary": "Seis cidades da Bahia estão em epidemia de dengue após aumento de casos e especialista faz alerta&nbsp;&nbsp;Jornal CorreioBahia registra municípios em epidemia de dengue; Alagoinhas decreta emergência&nbsp;&nbsp;Metro 1Alagoinhas decreta situação de emergência após mais de 1,3 mil casos suspeitos de dengue, chikungunya e zika&nbsp;&nbsp;G1Vigilância em Saúde amplia monitoramento de arboviroses em parceria com laboratórios particulares&nbsp;&nbsp;:: Bahia Jornal ::Combate às arboviroses: Alagoin",
+      "sources": [
+        {
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcV85QURKTWdHNm5aZEttdTYyVDhzYWtvakFfd3o3bGE2cG1mN1VvRlY4SUo4em9IRXZlZWdFNUxBUk5oS0xpbW96S0UwcnVEVjRaRUczaTFLeVR4dnZLZk9raEpVTm8wWFVZQ3dYUG0zZmRhbzByTUloTHdLbzBHRlF1d2FwNGIwNDVyRmpYU2V6LVJCRDVrUmhHV1RWTnhwU1BkdC1PSDE1QUZENHRzSmpPd1pJSTNkWFYyWl9MdzMtLVFjenRmVHhmMm5QZE1SLVIxcg?oc=5"
         }
       ]
     },
@@ -62,6 +146,42 @@
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcHFFNTY2TU1YbHIwVWJReVM4S1BhSVNEZ2ZmUlBPaVFWaHozbmt3eEJzQVBOODE1Skl2RThFc0M3ZGZUTUhUYVRab3VCWXpfZng2aTRzdUdKUVdKaXhGcm5aeThMTDU2aEl2Zm14dnRfREZkZ0szam5hVVg3WHVQNF9FMzhaaDRfY3JrLXlBeTl1cm9oU21mcmQ0Z3BxOVROdjVxM2p3a1V3S3BkQVV2eDV4Rkt0ZlU2ZW4xR2w2SXVQbW5STUd5WjVR0gHPAUFVX3lxTE9LX3ZCNzhmWDNXNVBUMWFIQWtxSTJVMFc5NG5UQ2U0ZThoQ3ZQWXlVTnY5LXlUSXNuSDhtZVlZN2tkWEZweDZHT21BMVg1UmFxc0x4THZjU3Zqb0RtZE9OdllCQUJ3aTBlVWs5Zk05RDdqSXVmSkJOSVhQOXQ2dnR0dHk2RkJKYjlEcXRQV3NiSUFKQjZNMDU3OFNmMzk1RGo2TGFERnVzZ0Vhc2htRV9FWjlPZ1lzbU4xdi1pSjJDcXlvX1VLMG9LWG54UVNLNA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f76c592462b5",
+      "title": "Influenciadora Luara Fonseca revela diagnóstico de transtorno bipolar: 'Montanha-russa de emoções' - G1",
+      "published": "2026-05-11T08:41:10+00:00",
+      "summary": "Influenciadora Luara Fonseca revela diagnóstico de transtorno bipolar: 'Montanha-russa de emoções'&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSVlsZFVtbmlpX1h4WDNEQk9wdVVpRDlCUVVNY0NSQXppZk9naktoRjVVcXdVNDNYbzNZSEd1cldkM0Z6Wl9ZbXpvZjV6MVJ0UW1pWmlOLW9BZVRQQXdCSEtiX0Q3M29ONzNVYTR3WXRucWpNRjYwajd3akZPM2FHRHl2V2JqWWFnS29ya1FwdGc0d0lvSmRTckgtczFYMkdiSXdwQXJqcFhvdGQ5amNvMEQ2MnVfLXRkVE1YLUIwUEt0MV94bEdERlN4cURndDI5WVZPTzh3UXlNRHFTMGxGM2FPUk1GRWVsMmJEd3ZvdkpOWUpETWZpc1hB0gGIAkFVX3lxTFBvbERURHBwNGZXZzRiekU1US0tTDkyOTBvVXNyX1cyc0dGNnZScDVBbUpOZjBQMGdES09wcV94ZnNyQXl6VjBPZW9XMjloR1E2a0tESWhWaG13dDlGcWFiNVZqdFpmSzV5d3RtRGpPSmVEVzIzRXYtQm1Ga0k3NHROM0JEa1RFdHcwV0RBWE5YSWQtcXZ5VnVyLUkzWjZKdVFLTVY1TXlNWXZ4Z0pJVElOcG5TMEhyNnY1Q2pOWHBQMGllZmNwMzNPRVp0aVBUR0VUUnhIOFNmdnV3SEdaRVJDclZQa2RkM0dmY1dNX2Vkb1RVZzNyUlRyYWM3dTR0bXNabXZjNTNtZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c4ba5ab34f42",
+      "title": "Light, sem açúcar e rico em proteína: estudo mostra como rótulos criam 'aura de saúde' em ultraprocessados - G1",
+      "published": "2026-05-11T08:04:09+00:00",
+      "summary": "Light, sem açúcar e rico em proteína: estudo mostra como rótulos criam 'aura de saúde' em ultraprocessados&nbsp;&nbsp;G1Quando o light não é a melhor opção&nbsp;&nbsp;Jornal da UnicampEstudo mostra como rótulos criam 'aura de saúde' em produtos ultraprocessados&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPS0phRDNVdHRQdVZfMmhoU0FzTm9lUmZCTk5tNjR3bFFXaTRRMi1oX2dOSkZkdmtXOUJLWHJFUkViYjdWNUlWN1FkSU1hcXhlVTI1R3Ata2F0OTFqNzZYc2tyT0hxQkdnYjdWRXByQ1phQWJhODJRY2g5T2dRVGxRODBnSk8ybUNoeWtXbWlsb0JtdkhnSjlqUFFRak1pLTlJOGlNdDdSeWRYYlk2b2ZjcVVfdWxLeDVVQnhDckVya2twWkR6ZUZDb2ZZcW9iWXljYUFvUHRYbVNVRVh4bk9YZWJ3RjRpdUJWLVU1cS1XVlcxY3ZVa0hnZVZDSdIBigJBVV95cUxOWHJGbFBqLW5TSWFleUJaV3NVRnk4ZWtBTEFKQTh3ZDUxcVFiM2lZWFdrWHNIcG9wS2tKcGc1WmVPNERoRFZSWlFPYXQyMmFDTjdHSlBrUEZ1WnFScVg1TEVseVNDekM4TXpYV3QtZnNSMnhqazBxY3F2MHpCeWhPeEF1OEdRRDVwMFVPWmkxWVN3WVNYUkdlMVNXeGd1ZFVwcXAwdS1XZUdITU04TTV5NDY3b0E2OFlFcEs2UGpBOEpuMHg5S3FNWWtwVVVLQVpMdF9XbzQweEl2YVA4elZ4VUphSFBPaEJPXzgyNnl2elAxNDJ5Nm1QM1RzRFFnMlZ6ckRuX2JENzV6QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "857d869e07de",
+      "title": "'Posso tomar vacina já gripado?' 5 dúvidas sobre a imunização contra a gripe em 2026 - Terra",
+      "published": "2026-05-11T08:00:00+00:00",
+      "summary": "'Posso tomar vacina já gripado?' 5 dúvidas sobre a imunização contra a gripe em 2026&nbsp;&nbsp;TerraVacinação contra gripe segue abaixo do esperado em Campos, alerta Secretaria de Saúde&nbsp;&nbsp;G1Cobertura vacinal contra gripe atinge apenas 20% de grupo prioritário em VG&nbsp;&nbsp;RdnewsCampanha de vacinação contra a Influenza prossegue em Niterói&nbsp;&nbsp;Prefeitura Municipal de NiteróiSespa prossegue no alerta para a vacinação contra a gripe&nbsp;&nbsp;Agência Pará",
+      "sources": [
+        {
+          "name": "Terra",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQdFlnLXROU05xYXRCMkVCeHd2TG81aVBYOWJFbkdVVGhEV2lZYURwTVhUa2tHNERZZnFHNTVKbFZ3d2ZaU2RkX19OOXVuQUZLMno0Q0NtNnZWekVCWndUcGdNS3ZtZmlqMUNXVDNoOHlSWHE1MmlPQVVGYVNFQndRdXZfN0U5MjlOQzhzZXFYQlAzemRDY3REZXk2YW9qTl9Rd01kNUN6UXFrTlpqRTdYVWpNaTJJakN3cDl3ZXZQdXdzSzk4WHk5SDFhdHVQbWVySE9kLXV4VS1mamxOTHE5Y3hsLVBnbTJHNUhsdWtoQUpjNDRqalcxVmVB?oc=5"
         }
       ]
     },
@@ -81,7 +201,7 @@
       "id": "0842b255148c",
       "title": "Alimento popular pode estar prejudicando sua dieta (mesmo em quantidade moderada), aponta estudo; saiba qual é - Extra online",
       "published": "2026-05-11T07:30:55+00:00",
-      "summary": "Alimento popular pode estar prejudicando sua dieta (mesmo em quantidade moderada), aponta estudo; saiba qual é&nbsp;&nbsp;Extra onlineComer um pão inteiro todas as manhãs: Nova pesquisa revela algo notável.&nbsp;&nbsp;Vietnam.vnEstudo revela que trigo de pães e massas desaceleram metabolismo e favorecem acúmulo de gordura&nbsp;&nbsp;Porto Ferreira Hoje",
+      "summary": "Alimento popular pode estar prejudicando sua dieta (mesmo em quantidade moderada), aponta estudo; saiba qual é&nbsp;&nbsp;Extra onlineComer um pão inteiro todas as manhãs: Nova pesquisa revela algo notável.&nbsp;&nbsp;Vietnam.vnAlimento popular pode prejudicar sua dieta mesmo em pequenas quantidades, revela estudo&nbsp;&nbsp;Tribuna do SertãoEstudo revela que trigo de pães e massas desaceleram metabolismo e favorecem acúmulo de gordura&nbsp;&nbsp;Porto Ferreira Hoje",
       "sources": [
         {
           "name": "Extra online",
@@ -102,10 +222,22 @@
       ]
     },
     {
+      "id": "eeee64f048e5",
+      "title": "Cientistas descobrem quantos passos por dia são necessários para manter a perda de peso - O Globo",
+      "published": "2026-05-11T07:01:19+00:00",
+      "summary": "Cientistas descobrem quantos passos por dia são necessários para manter a perda de peso&nbsp;&nbsp;O GloboEsta \"simbólica\" quantidade de passos por dia pode impedir ganho de peso, afirma estudo&nbsp;&nbsp;TerraCaminhar 8,5 mil passos por dia evita ganho de peso após emagrecimento&nbsp;&nbsp;MetrópolesCientistas dizem que 8.500 passos por dia podem impedir que o peso volte&nbsp;&nbsp;obusilis.com.brPerder peso: quantos passos dar por dia&nbsp;&nbsp;Euronews.com",
+      "sources": [
+        {
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOFpsLU54eE1QZDV1UG5SaEhMM0JZR2hPRExZUjBMeUl4TDl3U21FTjFSMmtxblZ5WWlzazdCaTJQTmExR3hsclBYMy1jUlo2Rk9BMXo2X19nTzduR0ZVWEJsZTNYb1hJb3ptWGdweXNrM3FRaEh2TlNNZFkxNm1HYzVtS1l4ejJzOEFQUFQ0LVVndm1fZzdjT2dWd3QzQ1QyaHFuOEdmQ2NWV3hKbVJWT2x1NWNjOXNaNzFIRmRseG53ckgyd0ZrNW0zQk9tSFY5MmVTbG5sbG5ZZk3SAeoBQVVfeXFMT2NfNHRqRlhEV0UxVmhZejRIazJ1VktKQ2dleWNvWU1wVmMtVElNMktTWG1yYjROQ0RUOGN3RkJNMkdCZkJOWG8tS1ktZW56RmZBYmFQcEN1TDI2UUV2ay1OeUJ3cWk2TTZ5bk9VZGpvNlluR014d1ZlNVF4OGpqeEE5SXhTakxMLThWbE11TnI1MmpGcEdXZDNZS3VYZWNGQXFBQUNDaHJwN3V4UXN4bVFjLWY3UFpDbC0wV2ctSWVVMTZQU2x0WkdSVEZFSlJkUHpXMmIzemZvTkp0M1MwMmRhQ0dTSC1zamNB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "ce15a76eb42d",
       "title": "Dores pós treino levam mulher a descobrir câncer de ovário avançado - Metrópoles",
       "published": "2026-05-11T05:00:36+00:00",
-      "summary": "Dores pós treino levam mulher a descobrir câncer de ovário avançado&nbsp;&nbsp;MetrópolesCasos envolvendo famosas ampliam alerta sobre câncer de ovário&nbsp;&nbsp;O GloboCâncer de ovário: conheça as causas, os sintomas e como diminuir os riscos&nbsp;&nbsp;CartaCapitalCâncer de ovário é o tumor ginecológico mais letal no Brasil&nbsp;&nbsp;R7Acompanhamento ginecológico regular é essencial para identificar sinais precoces do câncer de ovário&nbsp;&nbsp;Jornal do Brás",
+      "summary": "Dores pós treino levam mulher a descobrir câncer de ovário avançado&nbsp;&nbsp;MetrópolesCasos envolvendo famosas ampliam alerta sobre câncer de ovário&nbsp;&nbsp;O GloboCâncer de ovário é o tumor ginecológico mais letal no Brasil&nbsp;&nbsp;R7Acompanhamento ginecológico regular é essencial para identificar sinais precoces do câncer de ovário&nbsp;&nbsp;Jornal do Brás8 de Maio – Dia Mundial do Câncer de Ovário&nbsp;&nbsp;Prefeitura Municipal de Quatis",
       "sources": [
         {
           "name": "Metrópoles",
@@ -150,6 +282,18 @@
       ]
     },
     {
+      "id": "6ef007dab019",
+      "title": "‘Adoro musculação. Preciso fazer cardio também?’ - Estadão",
+      "published": "2026-05-10T18:02:00+00:00",
+      "summary": "‘Adoro musculação. Preciso fazer cardio também?’&nbsp;&nbsp;EstadãoVocê pratica exercício físico? Especialista reforça importância dele na terceira idade&nbsp;&nbsp;Correio do EstadoEstudo com brasileiros comprova eficácia dos exercícios na velhice&nbsp;&nbsp;Poder360Musculação para envelhecer bem: o segredo para uma vida longa e saudável&nbsp;&nbsp;Instituto de Longevidade MAGSaúde na terceira idade: Academia D’stak aposta na longevidade ativa da geração 60+ em Brasília&nbsp;&nbsp;Blog do Amari",
+      "sources": [
+        {
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQUlEZmRsMDJXdWZTdTBkOW1heWZyTFA1SXRrRG14cGQ2YmRvSC1OVGRRRHBzOUlfanZCYTIwTUdqTWR4VTZSRW1IZ1NnQUVmMUJEVWZmQmk1RGhVeGd0aENocWNjZ1pQQ25CZGlnZ0RBSU5MUzcteklIRFV0N2dFWHJ4X1o0YlN5M084REg0S3o1WVlXeDU2cnFZOEIzdw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "113f9849c5cb",
       "title": "Estudos investigam se comportamento suicida pode ter raízes evolutivas - Folha de S.Paulo",
       "published": "2026-05-10T18:00:00+00:00",
@@ -170,6 +314,18 @@
         {
           "name": "O TEMPO",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNFNDb01ERUtUZ0lld0MzSzdEdzluWTRlRG5ISjd6ckZfY1VyNzBiZnN5RERRVGhjYUFjWVJkNUZiZ29FQnMtYjI2YzVNVDZkbWNiNHhBcVN3eDZDMDNsSDVjQ2ozUWFjYVcyb3NHQUZiYkdpT2NjQ1h4Q0JrUlVKUmZVNU5rVWJMb3p5aEdQOERNLVpSTmtXcWd3Um51MmdBZTlIUEZMeksySTNKeFB6YjZfTS1uVm9GaUJna3BjWHM1dw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "519352a1fa8a",
+      "title": "Astrofísica, filosofia e saúde entram em pauta no Pint of Science em Foz - H2FOZ",
+      "published": "2026-05-10T12:55:25+00:00",
+      "summary": "Astrofísica, filosofia e saúde entram em pauta no Pint of Science em Foz&nbsp;&nbsp;H2FOZ",
+      "sources": [
+        {
+          "name": "H2FOZ",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMFNNWkNDMkw0eFk0MG9ScXJ1OGwxMnFrcEh6ZTh3Q0JCVmhWMU5xOWZsa3BiN1ZrSjk2cUNTLVFDckNnZDk1eENEdjg3aU54SjdhenZFbGtWSzRoWUVVQ0o2clBmcjZ2c0ZQYm1rZ3d1cjVFNGREc1cwYXQ4NDF0TGstdS1SdkVXQUdEU1N0ZkZ3Nk9UOHRzMUdxNGRiX0FVQmU5NFdmeWlzOXhTblcwa1E3SEs0cjdCaW9mcGRQTzJuc2c?oc=5"
         }
       ]
     },
@@ -213,23 +369,11 @@
       "id": "d1353e251625",
       "title": "Cientistas revelam 'mapa perdido' do olfato e abrem caminho para compreensão desse sentido misterioso - O Globo",
       "published": "2026-05-10T07:30:43+00:00",
-      "summary": "Cientistas revelam 'mapa perdido' do olfato e abrem caminho para compreensão desse sentido misterioso&nbsp;&nbsp;O GloboCientistas de Harvard revelam estrutura secreta por trás do seu cheiro&nbsp;&nbsp;O AntagonistaNovo estudo mostra como o cérebro organiza os odores por meio de um mapa sensorial inédito&nbsp;&nbsp;Revista OesteA COVID nos lembrou, da pior maneira possível, o quão pouco sabemos sobre o nosso olfato: acabamos de descobrir o seu próprio \"Google Maps\"&nbsp;&nbsp;TerraCientistas rev",
+      "summary": "Cientistas revelam 'mapa perdido' do olfato e abrem caminho para compreensão desse sentido misterioso&nbsp;&nbsp;O GloboCientistas de Harvard revelam estrutura secreta por trás do seu cheiro&nbsp;&nbsp;O AntagonistaA COVID nos lembrou, da pior maneira possível, o quão pouco sabemos sobre o nosso olfato: acabamos de descobrir o seu próprio \"Google Maps\"&nbsp;&nbsp;TerraNovo estudo mostra como o cérebro organiza os odores por meio de um mapa sensorial inédito&nbsp;&nbsp;Revista OesteCientistas rev",
       "sources": [
         {
           "name": "O Globo",
           "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTVdkNWxiMDl3V0xuem1KWGdhaVp0eHZUOGd1VUlqRzFQMEV1MnBiYUtmSXZFUVZQRGdOVmE1dWdtQ1MtSzRrU1J4cTlVaWNmTmJPeUEzeTN1eEo2ajg2YzY5ZUtzTkpLR0VQdFBNM0Jjamg0MkhaM3FSUnVOOGFYZE55dm91Smd4U3g5WTB3Z0ExRW1NTmxUZ2JQOUpycExxZ3U1TVlXSkMxR3d2OUFUWmthdlZwY0tydDZrRFdhUjJNM2FVaEZaNVA4dTA0dkw0eHh3ZWVGWWRsR1l2Ry1jVWhlVGs5N2dXS21n0gH6AUFVX3lxTE4temw1bm8tVUZCWmhCcGR4VlBnM2hKS2dOZl9BV0hET3MzZDQ3TmlEeXA4Q1RTRHE5UG1HOXRXTzVtUUhzcHpPajR2aVhwNk9FTXNEY0haVVpVVFU1bEZadVZ3cU00MEhtemlVUU96Zk1JWmdkbXh3WER6UDJoSVRlNUM5cy1yXzI4OFA5b0wycmU3SVZjelR3WDNMdnBPWWNNUFRJZlpkTWlQdTVxN2RSSXJxY0l2YlVnN1JzNVlpNUZaVnlQYzBtRlRnWXpQeVhTTUg1eU90NVRVY3EweUJRSlZHTkZ0YWhtMmdsUHdxc1RydV9FaHZ0dXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dd7ab6090403",
-      "title": "Cientistas correm para desenvolver vacinas e tratamentos contra hantavírus - O Globo",
-      "published": "2026-05-10T07:01:10+00:00",
-      "summary": "Cientistas correm para desenvolver vacinas e tratamentos contra hantavírus&nbsp;&nbsp;O GloboAções da Moderna disparam 8% após americano testar positivo para hantavírus&nbsp;&nbsp;Investing.com Brasil - Finanças, Câmbio e InvestimentosModerna pesquisa vacina contra hantavírus após surto em cruzeiro elevar alerta&nbsp;&nbsp;InfoMoneySurto em navio faz disparar boatos nas redes sobre ivermectina como tratamento para hantavírus&nbsp;&nbsp;UOLCom a vacina contra o Hantavírus 'congelada', o surto mor",
-      "sources": [
-        {
-          "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNclVXM0tWSXFFSEtzZmpId04tUUpBaGJCM0l5aXNSamNfaUh3X0ZrTjhvNTE0Z0pCUDFDM3dteXBFTS1XNDBCRDNmN3hJZmFLczVTcGkyR1U3bGlLODVrcVdLSmVVMmVvU0s5M3VhMkR5bEdJZnI1ZktiejVpUHp1b1FYUlFXZk5fZmotdkp3UXhhVFFadnNwOE5UZHhDSXZscEZvRGJPUnNZMGhURXVBWGEyT3B6MVIyYlZhT3JSUmR2b3lGbkE4WnRn0gHYAUFVX3lxTE9uWndQNWh3eS16UWxJS3E1Y1lsOFhMNWh3M285M1JhM21zVGJXM2hSVUhLNWVwZnpZNE9JSDBQOEJYa1VhQXlRTzQxVWl0Wm9ySWU5aHBrbVhBYW5TVGNnZ2d1MW8zbnpURndTc3Z3bDNlTHR3V1ljd2hGUE9JNFd2MkdJUG81SGdENGM5QW8tenNPZjhySmhkenZFVVZjSWI4cUNFZlNvYzhoSlp0OGhPT1VkOEVHQXVmZHB6eEYtaEI5YVJEYlZ1YUtlUWFPRmdoaEV5Z3YyRg?oc=5"
         }
       ]
     },
@@ -258,14 +402,14 @@
       ]
     },
     {
-      "id": "97cf7894fd88",
-      "title": "Pesquisadores acharam evidências de que o cérebro humano pode reagir ao campo magnético da Terra, segundo estudo publicado na revista eNeuro, os participantes ficaram em câmara selada e sequer perceberam quando o campo magnético foi alterado - CPG Click Petróleo e Gás",
-      "published": "2026-05-10T02:23:00+00:00",
-      "summary": "Pesquisadores acharam evidências de que o cérebro humano pode reagir ao campo magnético da Terra, segundo estudo publicado na revista eNeuro, os participantes ficaram em câmara selada e sequer perceberam quando o campo magnético foi alterado&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "id": "4a39cd54fc62",
+      "title": "Enquanto mais de 50 países correm para criar o primeiro “sol artificial”, uma tecnologia de fusão nuclear que exige plasma a mais de 100 milhões de graus e promete energia limpa quase inesgotável com combustível da água do mar, Brasil tenta entrar no jo - CPG Click Petróleo e Gás",
+      "published": "2026-05-10T00:58:00+00:00",
+      "summary": "Enquanto mais de 50 países correm para criar o primeiro “sol artificial”, uma tecnologia de fusão nuclear que exige plasma a mais de 100 milhões de graus e promete energia limpa quase inesgotável com combustível da água do mar, Brasil tenta entrar no jo&nbsp;&nbsp;CPG Click Petróleo e Gás",
       "sources": [
         {
           "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNM0hicWZKNkFmODlnaU9KdTZkbkpHZFRnQWNuR2RLQTk0M0RhVE9xdlhKTVJwU21uZElVbjJNWEJkWGZCVm5CYVJRWkhXdFBFdlNidEhJMkhxem9wbW0yaHdFUjdnTXI4SXBhUlRMUEFVQU9IOVhBR2RfLVlpbGtZWmFQRU5aSnpLUGx4X3FxbDdMX0t5MTlIcV8yd2dDWFEzQlhUaUxtR3FRLVVPR3F2Rk9PWTVOZTJ6ckdkWDdoRGRiaFRpVWNvVnMwRmNkOUlMTjh0VGJoX3ZJREtaeHdpQUUxUFZhUHQ5dmJ5SVdxTVl1eGs?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPTUk5UFlMX1dBRFlYRjk0ZDZIY3hHZzRTS0tJbDFwWkxJM3RJbTV2bU5kZGJpMzBLUmVkU29MZGh6NmZkZUdoUFZBRmNyd2JzU21DLXJBc2JNdDU3UWxMa185Q3ZFem5CdWFtMVVObjNUTUZwMHh5OTZoSlpBMEpDY1k4OWJRNDBFUUl3RHRMY3RPTExIUnI4b3dVZmZ4RnZEeHlGM3h0S016T0phak1tUnl5X1dRNllobjdzSC1RM2E4Mzg0UV9lVVJ0UUdnRi1RQUFUdVRZTjkzX0FyVEZ2eVowbEFpelFqWUUzem9OVjVZUUhZQWJVQXBSbm0tZHdEczlSS1R6WXZfZkhhel9Jekdmd0dVUm1KQ3JzRndraEhBc1JJajkteG9PaTBmeHV6NHlKY1Z4UTUzOGdzbDFUN1NORQ?oc=5"
         }
       ]
     },
@@ -294,98 +438,14 @@
       ]
     },
     {
-      "id": "92b519675c22",
-      "title": "O que a ciência diz sobre o uso de creatina para a saúde cerebral e prevenção do declínio cognitivo em mulheres na pós-menopausa - Tua Saúde",
-      "published": "2026-05-09T19:45:00+00:00",
-      "summary": "O que a ciência diz sobre o uso de creatina para a saúde cerebral e prevenção do declínio cognitivo em mulheres na pós-menopausa&nbsp;&nbsp;Tua Saúde",
+      "id": "01de5857029e",
+      "title": "Estudos mostram que crianças que brincavam na rua sem a supervisão direta de adultos frequentemente estavam construindo o que hoje é conhecido como imunidade emocional à frustração coletiva - R7",
+      "published": "2026-05-09T09:12:29+00:00",
+      "summary": "Estudos mostram que crianças que brincavam na rua sem a supervisão direta de adultos frequentemente estavam construindo o que hoje é conhecido como imunidade emocional à frustração coletiva&nbsp;&nbsp;R7",
       "sources": [
         {
-          "name": "Tua Saúde",
-          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPRGFtTE1QaVlGNTAyNjNrY0pLY050Z01vOVBFa1lBdEFQYmJyYUJWc000R2ZxbU1tcENpWEFwMjRuYzFQeDJZZE5wQW5zaUhUWHFydUR1aWpjdGpLNW4zanJYTVFnaC1pUEQ2UjdKMGsteUI5N3p0ajlWeWh4SVA4N2dqZDE4ZnBFa1BlXzBzNDdOWUVaRFhJbklCWkMtSkJfWVZxQmd3amxSQmt4VmVDQmZFemlBVHRFc1ktZUhqeUFVa2p2REpOdURUSmJhMnZfc3ZNRy12dG5IYmdjZ19aZlF0Z0RtbGRKOE91YU5HQmN1czc5RnZweEVUcGFiSTg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0f28b87f46b1",
-      "title": "Estudo aponta que tipo específico de ansiedade pode reduzir risco de morte - Diário do Centro do Mundo",
-      "published": "2026-05-09T17:45:24+00:00",
-      "summary": "Estudo aponta que tipo específico de ansiedade pode reduzir risco de morte&nbsp;&nbsp;Diário do Centro do Mundo",
-      "sources": [
-        {
-          "name": "Diário do Centro do Mundo",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLV9SbFRnTWFYT0NPUy1yRzVaS3gzVTBnaVNmSzNxNWU4V2pXYWcxSWUzTlJlTEtWM2xOaWxxVXZEQlRPLUUtUXpNQVBWVXowU1Z0WF9FTVZ3eU1adW83aTY5UG9qam9ueFhjb3lEblZiRHZCRTlIUHdraE1sRlYySVhULVJlRDZfVTBzWnJOaUFMZXZoTG1uS2lLdFM3Mk9ibVhJdTlPTkVMUFRiNEFsRVJ1RHFiNFZ0RUVkN0ZYQlNNbVVO?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "19bd569ea0ad",
-      "title": "O Japão estudou a origem dos cabelos grisalhos e descobriu acidentalmente que devemos ficar muito felizes por tê-los - Catraca Livre",
-      "published": "2026-05-09T16:25:51+00:00",
-      "summary": "O Japão estudou a origem dos cabelos grisalhos e descobriu acidentalmente que devemos ficar muito felizes por tê-los&nbsp;&nbsp;Catraca LivrePesquisa da NYU revela como restaurar pigmentação em cabelos grisalhos&nbsp;&nbsp;Mix ValeDescubra o segredo saudável escondido nos cabelos brancos&nbsp;&nbsp;SurgiuCabelo branco vai além da idade: entenda o sinal positivo que os fios grisalhos revelam&nbsp;&nbsp;Jornal OpçãoCientistas descobrem a origem dos cabelos grisalhos e revelam por que você deve fic",
-      "sources": [
-        {
-          "name": "Catraca Livre",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVmdsMEVKUWdvRUEzb3RsLWwwNERJa1o3Tmt0SUVxZDZQeXhDWjJVeEZlSnltZzV3RG02Z3Bzel9HaEV3R0xjRFhJTkRhR3RYSGNseHg5MTVtWENMNnVRMVpwYTRzZnQtVUxDRldXLUJWbHFNZHU2NGZHVURtSlZnYm80YmFWRFZPMktkSHZjZlpvcjNhbS1RVzlRMjgwOHd2NHRPMUlBRi1MS2tFNTBNQlpFbzk5dHBmZmdFRUhRT3NoclppOE5RN1RDc2thT0tBUVhiUUowT1VlWUVRczdiZ2lHT29JOTVuN0VUZzJxOGtua0U?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dde95b780ba9",
-      "title": "Universidades apoiam mães pesquisadoras, mas ações ainda são pontuais - Folha de S.Paulo",
-      "published": "2026-05-09T15:00:00+00:00",
-      "summary": "Universidades apoiam mães pesquisadoras, mas ações ainda são pontuais&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZkxnNGptR24yYTVqNFk0cDQtY1VSZ0VVOW40TzVpUjBtMWZBRjFyZ1RXVXRwUFRfZ2VFMXZVel90cnRoajkxNFZxNmJqdjN5T1lJRzhpZktocFBtNGxOUnk1akRIMlpUcjc3SmFuYjBFdkVGVFFxTlR6WUpwZTZ2eHJhSllZalNHZHJESTNFeE9IZUR2MUV4MmI4TmNhSGE2ZFE4NFZ0ZF8wTEpqUVJYMnJub2J5M09zWGdGa9IBwgFBVV95cUxNdnhVTFZfSUt1VkkyLW44T2xaclhfN240TzNPbGtOQ1poZHB4bHUzUmtuT3EyT0IxSmZFTXhvaUNmM0NfdEp6NDNCSjdaVU1XUmg1Z1JGbGtHWUlVekk3Q0ZhSFg2Q3A3X1R6R0d2c3ZSZjd6T0dJal9fMTRiVFdSUk5aUDVLUlpLS2dzVXhRMVdkcDh6aHNmQWljbkl3V2hFY05Oejd2NVpwdElVMC0wVGh5ODJkSlJWQmppZ0Zld1FuUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c8597983075f",
-      "title": "A corrida global pelo primeiro “sol artificial” – e o papel do Brasil - Olhar Digital",
-      "published": "2026-05-09T12:29:00+00:00",
-      "summary": "A corrida global pelo primeiro “sol artificial” – e o papel do Brasil&nbsp;&nbsp;Olhar Digital",
-      "sources": [
-        {
-          "name": "Olhar Digital",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYUdtLTJON2tvVzRnODV4b0o0bFE2SUVTV2QzTzdyLUIzNy1rWE55NVZ5dThZdUp1cnpfN2FxZWxJY2VLVjk0d2pWUndVUnVmdUdEVWlEbTQ3VnVHTy02YVVGdzdkVmhLM1RxT0U2NXNRSmJZTXZSLU94a2I0RU83SEZicFp4eWxwc1VtWHltYVUwaEwyYjJ0ZWJJeFdWVzJOS1Z6MjFfb2NWaTg1SGp2eXhKZzhaQWRQLTl1SnNGMA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a28bae7ef86d",
-      "title": "Professora da Ufrgs assina estudo inédito sobre genética na Nature - Correio do Povo",
-      "published": "2026-05-08T22:07:15+00:00",
-      "summary": "Professora da Ufrgs assina estudo inédito sobre genética na Nature&nbsp;&nbsp;Correio do Povo",
-      "sources": [
-        {
-          "name": "Correio do Povo",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYlZKMlN0R3dNMGJrc3lVLUFOeVduZUdTbjRvR2RheVJZWnBObWljU3dwTlVyMEtkRURfbGw5VEYydGdDYWhMV3VEVThtd3l6Nng4SjRBVlZicHB5d1BDdUZieXRJc1lRMS1pTlQ1X0kwdXNNbkxlTzhDWVVXMGx0M1JoNW9MOFZlRnEybUVxUkRySnpWMGZId3RJODJLV2taR2VDY0J5UlRkY1h5U2Y3RlZINDktcnBrQVBhQ19JUnFiQU1XNHln?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3796c858d8ae",
-      "title": "O que é a Pseudomonas aeruginosa, bactéria encontrada em produtos Ypê - Metrópoles",
-      "published": "2026-05-08T16:55:07+00:00",
-      "summary": "O que é a Pseudomonas aeruginosa, bactéria encontrada em produtos Ypê&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JM3pJQTdIUmdXZ3F0TVFBRmoxZTloX0FodjFfbzhNSXBVZkF4MnZZYnBJa05UM19obk9rMkY3NS0zdDRpLUk3YWtZV0ZGRHpwMnE3TjVHaVh6R2RVZFhwRW1XbHpyb2pWeTNpTGRiem1pY1R1Unc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "64df7f01c2c8",
-      "title": "Exercício físico é tão eficaz quanto tratamentos para depressão e ansiedade? - Folha de S.Paulo",
-      "published": "2026-05-08T15:03:00+00:00",
-      "summary": "Exercício físico é tão eficaz quanto tratamentos para depressão e ansiedade?&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYUpCOEZFX2xrcnctd3RjNE04dzlyb0tvdXpNWkpJMFNpWUUxVEh3WjBIMzhQc2kxX1hqalR4SWk3N1pXcXY1anZIbWloMlJaM2JlR3RFZS1qN1NwTVk4Q2Jyak4zR21LRm4wXzJNMnNDWm5rYVprRHBUMV9MX2RBX0VicjI2d2ZvaGFqdzJlRUlEWEpyQUxpaEx0VEtJbzZuMm5ZSWYwV2tBVEhmNWZpb2tYWmplNXdnUWRIZ1RCUmV5RWRLTGNpUVFn0gHPAUFVX3lxTFB5R2xaYmFzcnBCN21JUXRRa1NyNExuanozeWpkNENsNlRhOGNlaERYQmVMQ2xwVUZrclZGMDNHdTU3MkUxZU81aXlJVTdtYnMyOU5NSzM3RWg4MkZsakVLZ2h2MXliLW9jVjVPTU55bFlrMGlJQXlxQmowRW0tcFlEV2ZDcnpHelhQM201UWpJTE9uRDR0VDRfRmtEdjJHT2VXM3ZEcUNmMFVLMVZoRTQ0dlVKcU16cTBvN29ZWTk4Tm5Sd2xrZW1EYlR3ZU9pYw?oc=5"
+          "name": "R7",
+          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOMk1tbVhPOVlKR2U1MTNGbDNvNlZrTUJleVlKX3RVYUZMUVE4b0pZNzhKczVTUGVaeUwxSmFVN0FicTkwekhUVlRjeXJ1aGxIVnJBeUJUbUctN25Xb0tER0Z0bl9qRDkzbzJWcnV6cTV2cHdkTUNUWHBWRVo1ZXgxX3RNZFpfN3dyT0FNR3JCVVJrMV9Eel9NZW15ZzhJLUxtOGJUSEY5S2l2ZmJmWHcxWndGT1VseEdHTnVwWU56eDNmSk9RbmhCUG9wbW5CdXFQNFBuM3pUemJacVFKeGlvd3BpaUtRMkgyTjVMR2FPT1hrYjhjekt5RXNiNUZSUkZsaGw3aTB1SDFoZ1VHLVdSMGNLVFdPaWpB?oc=5"
         }
       ]
     }
