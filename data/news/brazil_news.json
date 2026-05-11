@@ -1,14 +1,14 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-05-11T03:43:43.570780+00:00",
+  "fetched_at": "2026-05-11T09:43:11.101400+00:00",
   "total_fetched": 79,
   "unique_count": 77,
-  "health_related_count": 27,
+  "health_related_count": 24,
   "news": [
     {
       "id": "a9f79e17ece6",
       "title": "Astrônomos finalmente confirmam pela primeira vez a existência de uma enorme caverna vulcânica em Vênus - Catraca Livre",
-      "published": "2026-05-10T21:35:00+00:00",
+      "published": "2026-05-10T21:35:13+00:00",
       "summary": "Astrônomos finalmente confirmam pela primeira vez a existência de uma enorme caverna vulcânica em Vênus&nbsp;&nbsp;Catraca Livre",
       "sources": [
         {
@@ -162,18 +162,6 @@
       ]
     },
     {
-      "id": "934166fb1bf6",
-      "title": "\"Não consegui pagar a vacina\", desabafa mãe de menino diagnosticado com meningite em Cuiabá - midiajur.com.br",
-      "published": "2026-05-09T21:48:00+00:00",
-      "summary": "\"Não consegui pagar a vacina\", desabafa mãe de menino diagnosticado com meningite em Cuiabá&nbsp;&nbsp;midiajur.com.brVigilância Epidemiológica descarta meningite meningocócica e reforça estabilidade do cenário em Cuiabá&nbsp;&nbsp;Prefeitura de CuiabáMeningite em MT: estado registra 33 casos e 8 mortes neste ano&nbsp;&nbsp;G1Escola estadual confirma caso de meningite bacteriana em VG&nbsp;&nbsp;vgnoticias.com.brSem novos casos :: Notícias de MT&nbsp;&nbsp;Olhar Direto",
-      "sources": [
-        {
-          "name": "midiajur.com.br",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcVBQZ0tDeWJTYzBhUUY1NHhYdlZyNWtnZUhSRmhtSTQ2OFV5V0hjQ0VvcFhjWFFreVpJV3VZVGNWZjdibDZFM2FxYTd3czFIYXNnMS1VUTFqdGlEWGxqWkJPcG1Xck5kTnVDTENHVGVaXzAyb2NFSlRZQjlpaDdFZ3lDd3k4WkRKc2FSMzhSeklod3A2LWxNX2FKejY3RE9vUEpMZU9TOWlyV3pNWG4ta2NMd3JORXZEa002RE94UmpGVXcwaTZR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f25af4a795d9",
       "title": "Pela primeira vez, um tsunami gigante é registrado em alta resolução pela NASA - Revista Oeste",
       "published": "2026-05-09T20:05:00+00:00",
@@ -222,22 +210,10 @@
       ]
     },
     {
-      "id": "7c77bf04d431",
-      "title": "Mudanças climáticas podem ter impulsionado hantavírus na Argentina - CNN Brasil",
-      "published": "2026-05-09T16:45:13+00:00",
-      "summary": "Mudanças climáticas podem ter impulsionado hantavírus na Argentina&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObHdESDBmNWFodHR6Z3Z2VHh3YjRqcWdkS0U1MVpvYnNndUVtZnhTWFFLaS04cGNZWTZwOW5BTlAzSWU3QnVhUGNTOHVmSnJSeFpsTXY2UjBnR25oMDlZbkFwTmxCZ0x6RmJDM3VGSy1wUm9IZ2lIQncyRV9yXzd5QWk3QTlFUktKNnpILXhCek1tZzdaNVhYVWVBallpQlVBTnp1c0gyOXIzYk5lT29N?oc=5"
-        }
-      ]
-    },
-    {
       "id": "19bd569ea0ad",
       "title": "O Japão estudou a origem dos cabelos grisalhos e descobriu acidentalmente que devemos ficar muito felizes por tê-los - Catraca Livre",
       "published": "2026-05-09T16:25:00+00:00",
-      "summary": "O Japão estudou a origem dos cabelos grisalhos e descobriu acidentalmente que devemos ficar muito felizes por tê-los&nbsp;&nbsp;Catraca LivreCabelo branco vai além da idade: entenda o sinal positivo que os fios grisalhos revelam&nbsp;&nbsp;Jornal OpçãoCientistas descobrem a origem dos cabelos grisalhos e revelam por que você deve ficar feliz com eles&nbsp;&nbsp;Portal 6",
+      "summary": "O Japão estudou a origem dos cabelos grisalhos e descobriu acidentalmente que devemos ficar muito felizes por tê-los&nbsp;&nbsp;Catraca LivrePesquisa da NYU revela como restaurar pigmentação em cabelos grisalhos&nbsp;&nbsp;Mix ValeDescubra o segredo saudável escondido nos cabelos brancos&nbsp;&nbsp;SurgiuCabelo branco vai além da idade: entenda o sinal positivo que os fios grisalhos revelam&nbsp;&nbsp;Jornal OpçãoCientistas descobrem a origem dos cabelos grisalhos e revelam por que você deve fic",
       "sources": [
         {
           "name": "Catraca Livre",
@@ -270,6 +246,18 @@
       ]
     },
     {
+      "id": "7bf2c4835b27",
+      "title": "Casos de hantavírus quase dobraram na Argentina; clima é apontado como causa - R7",
+      "published": "2026-05-09T12:58:50+00:00",
+      "summary": "Casos de hantavírus quase dobraram na Argentina; clima é apontado como causa&nbsp;&nbsp;R7",
+      "sources": [
+        {
+          "name": "R7",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ0VBNndlWFhUZXNlcUhSVmxmMHZubDg2cmwyRHpJWE1sZGt1aTJxZUxQMDhTX0UxOEZxUnFEREE4VFZhZ1ZqYmhxTG9MMHlaVjgtbGRrSy1ybFVnWFE3TllJTkprdERRekVEWTFiOGJmS0RueVR6QlpVS1lQRnJIU0JIZEdXci1zSmxmdkdYSXBqcmlkUGRaaVNjaG9WY2p0WlVpS3dObm1fNHFsNkk5RFZkdFJOdnRqQW1MSHdaSHU?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c8597983075f",
       "title": "A corrida global pelo primeiro “sol artificial” – e o papel do Brasil - Olhar Digital",
       "published": "2026-05-09T12:29:00+00:00",
@@ -294,38 +282,14 @@
       ]
     },
     {
-      "id": "92ea01f1da88",
-      "title": "O bocejo pode funcionar como um sistema natural de resfriamento do cérebro, revela pesquisa Australiana - Revista Oeste",
-      "published": "2026-05-09T10:05:00+00:00",
-      "summary": "O bocejo pode funcionar como um sistema natural de resfriamento do cérebro, revela pesquisa Australiana&nbsp;&nbsp;Revista Oeste",
+      "id": "4174bd731c2e",
+      "title": "Risco de Alzheimer pode reduzir em até 27% com este simples alimento extremamente comum no Brasil, diz pesquisa - Xataka Brasil",
+      "published": "2026-05-08T17:30:25+00:00",
+      "summary": "Risco de Alzheimer pode reduzir em até 27% com este simples alimento extremamente comum no Brasil, diz pesquisa&nbsp;&nbsp;Xataka Brasil",
       "sources": [
         {
-          "name": "Revista Oeste",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYmZOdzZtMnpIS29LUEZ6SHVNMzd1YXEwTFRoUFVtS3ZOamNyWmlrbS0tenV2X19scFoxajVmRnIwYmFJTVNiUnVpVmJIT0VFVy16SmUzV1puSUNXZnVMRGJreVVBMjVFVC1QNERxeFlHUHRsQ3dKM01Xbkt2bFFVcENPR3V3Rk52VVM3aVdfdm0tSl9MNDBVSDhPamxlRmFadmxDdVVVa1ctSjAwbXgta2tqTHBUWEVnVExSbEFEZmozVmdMYXhjUzlCV0txN2RJUGZSdHJUS1c1UHFTVDlWNXRGVTM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "01de5857029e",
-      "title": "Estudos mostram que crianças que brincavam na rua sem a supervisão direta de adultos frequentemente estavam construindo o que hoje é conhecido como imunidade emocional à frustração coletiva - R7",
-      "published": "2026-05-09T09:12:29+00:00",
-      "summary": "Estudos mostram que crianças que brincavam na rua sem a supervisão direta de adultos frequentemente estavam construindo o que hoje é conhecido como imunidade emocional à frustração coletiva&nbsp;&nbsp;R7",
-      "sources": [
-        {
-          "name": "R7",
-          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOMk1tbVhPOVlKR2U1MTNGbDNvNlZrTUJleVlKX3RVYUZMUVE4b0pZNzhKczVTUGVaeUwxSmFVN0FicTkwekhUVlRjeXJ1aGxIVnJBeUJUbUctN25Xb0tER0Z0bl9qRDkzbzJWcnV6cTV2cHdkTUNUWHBWRVo1ZXgxX3RNZFpfN3dyT0FNR3JCVVJrMV9Eel9NZW15ZzhJLUxtOGJUSEY5S2l2ZmJmWHcxWndGT1VseEdHTnVwWU56eDNmSk9RbmhCUG9wbW5CdXFQNFBuM3pUemJacVFKeGlvd3BpaUtRMkgyTjVMR2FPT1hrYjhjekt5RXNiNUZSUkZsaGw3aTB1SDFoZ1VHLVdSMGNLVFdPaWpB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d6412b0084aa",
-      "title": "Artemis 2 usou 'relógio' brasileiro para monitorar saúde em viagem ao redor da Lua - Folha de S.Paulo",
-      "published": "2026-05-09T09:00:00+00:00",
-      "summary": "Artemis 2 usou 'relógio' brasileiro para monitorar saúde em viagem ao redor da Lua&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQTZSZ1gwUkkzVUR6WnlkazVlbXIxV1M3dnRUbHhBOXJYdVZTTlFINVU1clNRSjhOWDd2elBjTXVxMFJOY0R3azZPZHRQMmpMcXdsdm1DWlhBcm1PaTRkZGo1Wm9WYlVaNnZKY3dYREYydWpoRjJsdlF6SlJXaElOM1NsdllFNEc1bnM2anh6UGN6eXFBSXlrM29FWmFpRWdBbVJ2Vkg3TFJMM0hNX09FNF8yOVVLeDUwYlhRaWdkbFczbDItMjdVa2tFOUXSAdIBQVVfeXFMT3piZmhxb0hETXhISmZDajN4X29fR3A1ZnB2YWhYSTZWQmxWcXY0YVBXb2ppQWxDUlcycXRyZE1lb2x2ZWhBeXROOWMtMnNSckZNY3hNajNOTmdYTnE4d1ExNVBTMm9BSXpqMmZxQmJJYy1ZdGZULWlyTkpJeVBhLVVNaVFDMW5KLW40d1FJR1ZiTTBPdVA2aHZWWWUxb3RZRlk4b1lUR1FiRHUzY242SjByNlhiUjFDVjk3SzhFakN6dFNiVVlZLUJjWW85cnRXOVhn?oc=5"
+          "name": "Xataka Brasil",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQV1JMUDNmUktZeU1nLW1aQ1lYSG1sZVlCSkJKTmZodGxBNzg3MmVpdHdtbXlJZTJIRnVSOXdiU09lRUdHc2Y1X0ZlRUNpMjdiLWdiTGlaQ2RJWjd2ZnBDcDIyeTByOFZpZlNvbHc2QXpxYVlwV3lqY25JNk9ESjBydjQ5dTRYaXo4dmlxN2RpWlZ6S040bjJGb1hIa18xQzZZcGlhZkdmdTJiUWtBdWtnd0trMmVXdEFBcE9vT3hacDBXTHJjNTV6XzAxQ3YyYzhOZXMzT2hZWQ?oc=5"
         }
       ]
     }
