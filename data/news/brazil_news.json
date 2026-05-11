@@ -1,10 +1,118 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-05-11T09:43:11.101400+00:00",
-  "total_fetched": 79,
-  "unique_count": 77,
-  "health_related_count": 24,
+  "fetched_at": "2026-05-11T14:58:46.572249+00:00",
+  "total_fetched": 89,
+  "unique_count": 86,
+  "health_related_count": 32,
   "news": [
+    {
+      "id": "7e46dbfda560",
+      "title": "Comer carne vermelha aumenta o risco de diabetes tipo 2? Veja o que diz a ciência - Jornal Correio",
+      "published": "2026-05-11T12:09:55+00:00",
+      "summary": "Comer carne vermelha aumenta o risco de diabetes tipo 2? Veja o que diz a ciência&nbsp;&nbsp;Jornal Correio",
+      "sources": [
+        {
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOHh1RDVUZkJWN0pBVjBTd3J0cUJiV2dRdG1PekxKMEYydnhyZlMzTHpMU1RTTGxVbnEtdWZ1bGk0WTlVMHFHd0h2c21VanRCbjU0TlFSSE13aUhRRjFvaVdIb1ZjX0hIbmtCcmNUYkVMTW5pWjlaWXBZaUlXV25qVk5qQzNTd3hSOERZRkx5NzZkWmw1RnJIMVkydXR3Z0pTVUFkVDU4MjVSSnhwbDBmU2RlV2hmZDczNTdKSXVpT2dJWGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9537ef8cc707",
+      "title": "Frente fria chegando: 7 dicas para não deixar sua imunidade cair - Super Rádio Tupi",
+      "published": "2026-05-11T10:51:48+00:00",
+      "summary": "Frente fria chegando: 7 dicas para não deixar sua imunidade cair&nbsp;&nbsp;Super Rádio TupiFrente fria de 2026 exige atenção à saúde e imunidade&nbsp;&nbsp;R7Mudança no tempo: como proteger a saúde com a chegada da frente fria&nbsp;&nbsp;G1Como o frio afeta sua saúde? Dicas para evitar gripes e resfriados&nbsp;&nbsp;Estado de MinasGoiânia registra quase 500 casos de síndrome respiratória grave em 2026&nbsp;&nbsp;CBN Goiânia",
+      "sources": [
+        {
+          "name": "Super Rádio Tupi",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSjdHMnF2RlNwMzhHMWJjbmx1NHVRby1aM1VsZGdGWm5wUXdDMXlZd0I4R1J3bmRjaXhtVEpoYTEwcTNWSmFaSm1zTE1YNmRKRU9zdDF6YVVZMGRYNVRwTGVyTXRLWkI0RHd2YWRhRTR2MTVaejdmdDNfYy04M19nYl9PN2t5Yno0ZklCOHFuNVhhUm9PRFlzVFdNNnVYd0RX?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "eba80a4387f7",
+      "title": "Dois passageiros de cruzeiro afetado por hantavírus testam positivo - O Dia",
+      "published": "2026-05-11T10:39:00+00:00",
+      "summary": "Dois passageiros de cruzeiro afetado por hantavírus testam positivo&nbsp;&nbsp;O Dia",
+      "sources": [
+        {
+          "name": "O Dia",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUEtzT2lEbS0yVC12bFZIRXc3WTBOTHl1SHIxcllzSkp6QnZXak5HajBPV2tzV3VrU0Y0LWZ2cnVuM2sxZ3h3ckZucmgzZ21Rd1dlT3p3WnE5RjUtcnpBdkZmYk05ME9JOTlWQjdRYTRfOVVseE5obDE0NW80Z3lHSktmd3Z0WFlHdk1RZW9XZG9KcTV1eG1FalBxeWcxTGUxR0hkcjFLZElyYS1nQU52UWEzVUZoVl95cUNzUWxSOWgwQdIBxwFBVV95cUxOMjdkLVhTM3hQVWlQX210WWl3bFgxUFZ2TTVmMmNNVkt3bGlNQXplS2pIejNvRHQ5emozdkJWNHFhZ2ZpMi1kT2I3U2lzOWRla0ZPN2ludEtTYzRQWmdYd1IxN1FocEd0MXpXRUlrY2RmSFZaOEpJNGdoQ040NlpKWnpWTzRWS3JLX0NOWFk3azd5MWZMNlJiaFJBU3dnYUU2WTc5Q0Ewb2RkRDVsWWR0ci04U21DN2x6Nk9nOTBaVDlYZkVWbUdj?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b417fbe396aa",
+      "title": "Sintomas silenciosos do Parkinson: Dr. Kalil e especialistas explicam - CNN Brasil",
+      "published": "2026-05-11T09:00:57+00:00",
+      "summary": "Sintomas silenciosos do Parkinson: Dr. Kalil e especialistas explicam&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ2h2Wjhqcmk0YWw2NHhTemo1UlVsS0t4ZHRycHd1MDJQUXZ0dEtOZ0hoRS1Qd3BRZ0l3Ykl6LUNuUGQ2ajhKaVZucWZmNldUWk1TajBSbTYtZzk2MVJZOGlINjRnVXExRXoxbXFaNFVtLURLcXBTZVg3azZCckl5Q2xmQ0dnSURBcHlaY3hDMXpINmVWR2ZKaUl3alN0RkhNVktPLWpB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "aa3542c6dd46",
+      "title": "Estudo revela ocupação humana recorrente em caverna nos Pirineus por 5.000 anos - Folha de S.Paulo",
+      "published": "2026-05-11T09:00:00+00:00",
+      "summary": "Estudo revela ocupação humana recorrente em caverna nos Pirineus por 5.000 anos&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcHFFNTY2TU1YbHIwVWJReVM4S1BhSVNEZ2ZmUlBPaVFWaHozbmt3eEJzQVBOODE1Skl2RThFc0M3ZGZUTUhUYVRab3VCWXpfZng2aTRzdUdKUVdKaXhGcm5aeThMTDU2aEl2Zm14dnRfREZkZ0szam5hVVg3WHVQNF9FMzhaaDRfY3JrLXlBeTl1cm9oU21mcmQ0Z3BxOVROdjVxM2p3a1V3S3BkQVV2eDV4Rkt0ZlU2ZW4xR2w2SXVQbW5STUd5WjVR0gHPAUFVX3lxTE9LX3ZCNzhmWDNXNVBUMWFIQWtxSTJVMFc5NG5UQ2U0ZThoQ3ZQWXlVTnY5LXlUSXNuSDhtZVlZN2tkWEZweDZHT21BMVg1UmFxc0x4THZjU3Zqb0RtZE9OdllCQUJ3aTBlVWs5Zk05RDdqSXVmSkJOSVhQOXQ2dnR0dHk2RkJKYjlEcXRQV3NiSUFKQjZNMDU3OFNmMzk1RGo2TGFERnVzZ0Vhc2htRV9FWjlPZ1lzbU4xdi1pSjJDcXlvX1VLMG9LWG54UVNLNA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "211db0e07a09",
+      "title": "Descoberta Brasileira Pode Pôr em Xeque Perdas de R$ 12 bilhões na Soja - Forbes Brasil",
+      "published": "2026-05-11T08:00:00+00:00",
+      "summary": "Descoberta Brasileira Pode Pôr em Xeque Perdas de R$ 12 bilhões na Soja&nbsp;&nbsp;Forbes Brasil",
+      "sources": [
+        {
+          "name": "Forbes Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNmw1UWU0Vy1KM0RCUFFsZzF6UFVPcHllZnZqNzdLSUVUUnJrS3ZGZEo3SXRMcTVuZ3MtaGJtR2dfcDdDWTZGOWpSbG5Ec1VQY2t4cU91WDVKZVEtRnQ2Ul8wRldsZ29DM1p5NHU4UGRmRUFNdTVTYnItRjNhMUUySWhvbGdPMEpyZ3M1QU1ZcVV6dUFTZWFFbGVmR1A2OTZqV2tXNFdqRmhtYldKMFBaNjFJMA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0842b255148c",
+      "title": "Alimento popular pode estar prejudicando sua dieta (mesmo em quantidade moderada), aponta estudo; saiba qual é - Extra online",
+      "published": "2026-05-11T07:30:55+00:00",
+      "summary": "Alimento popular pode estar prejudicando sua dieta (mesmo em quantidade moderada), aponta estudo; saiba qual é&nbsp;&nbsp;Extra onlineComer um pão inteiro todas as manhãs: Nova pesquisa revela algo notável.&nbsp;&nbsp;Vietnam.vnEstudo revela que trigo de pães e massas desaceleram metabolismo e favorecem acúmulo de gordura&nbsp;&nbsp;Porto Ferreira Hoje",
+      "sources": [
+        {
+          "name": "Extra online",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQT0lIeWNBMk1pMThuOGtESjg4WEFZbl9ua2xFZlhLbjNFX3hWT2ZzR0NVVG9vc1VDLXFiVkVzbjczVjhONlhRZm1kZEt1SHZuOHZDandtckJpODJYb1ZyemFFUnFGaWdxSXdKTHJfQlRJR3JMd2w1bjBWWFVEWXd4elhURFJRcHUya2E4TVlBbGhTS3FjY2xCeXpyOTR6OUNwRnhUNVdraVQtWjI5bUw3NWxSNmxqRktBeU15UnQyNWRDdU9pUjJyYkZiU0xrREhpZTBtNHM0Y0xBVUZsRC11bW9haTFMQnBQX19GUTVPQdIB_gFBVV95cUxOQ2NOU2FIQnpsemZYanlheDhoNkpVWGI0RnI0LS1MaDA1V21aQUVFMXBCdjF3ZHhVOFRKTnprUTA5T0YzbjNjd1hFbWE4WHNnaHRmcFVQT2F1SVBUQldZMGYtQi1vblRPSXE3akhHeDJIdWhmYWI1RTVZNlFMRW9VLTZHd2drQzJaaFZzLXZacFhUMTJQOVFHZmtzLVE2VlBuZUdIREgwTEUtTWFfR29GMlJ2SzF4UldRQ0Nqb3Zpb0RsNGJzZWZwYS1reFdra21MTWhhTTBaQm1vVWNQS0swemJRalQybzFNLU9XdGw4aXMtajdzWXZLOXNWcnduZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3e1aaba85a04",
+      "title": "‘Fadiga de decisão’ pode estar prejudicando sua dieta e sua saúde; nutricionista explica como resolver - O Globo",
+      "published": "2026-05-11T07:01:28+00:00",
+      "summary": "‘Fadiga de decisão’ pode estar prejudicando sua dieta e sua saúde; nutricionista explica como resolver&nbsp;&nbsp;O Globo",
+      "sources": [
+        {
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOXYyZEVIMXpwMFJ5RmRjRlRRR1BldWtlT3p5bFA0Slgtb3RnS2Y3U1VnUWFRbFFPdkxNTTNLUmc5cHVnZnk0M2FCY3JHeUNEOFNvZkdfUWVLakhxTmI2ZGxkQzhLdG8tYkJ1X29sYWVqdDRWd0dPUjcwdS0yNHFaelU5aV95c0N1SXRHbHRJaExyVmtpbkZ5eHRtZ3huWi1XWWhCazAwWEYwVUJyNnBkZmx1RWF6OFNJOHFKTkZwSjlJU2xwX3ZHOU05a0JjRks1MTNfMGs1Y2Zqcks1VUdXUno5NnowX1RJTUM00gH6AUFVX3lxTFByUmxlWk9xSEZQOGlYWDdObkh6RTJBejRTTkxXa1o0a3VDVm9yYml5NkNFUmFlSlRnSGFzYTRDaEhJbmhpbHpxZEZrb2Q2a3pQanoxSTVrS1Y3YTRIQkJhTFQ5QThYb0JWc1psWW1OYWVYVkZqUXY2UFRhelZnX2JReC1DejNnSkw2WnBwTDlSbUZHaWllU2xQMGNJT09KQ09PWVI4Q1dLbnZFdlVLZGJHZ0JpcHFtZzdNeUNsb19GTGltc0cxMjJNVDZjOHlUQXRQeDdvekk3U3gtTVlFQzFzN0F2RHFLSi11X1dOOVZnbDVnanM1VnZkZ1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ce15a76eb42d",
+      "title": "Dores pós treino levam mulher a descobrir câncer de ovário avançado - Metrópoles",
+      "published": "2026-05-11T05:00:36+00:00",
+      "summary": "Dores pós treino levam mulher a descobrir câncer de ovário avançado&nbsp;&nbsp;MetrópolesCasos envolvendo famosas ampliam alerta sobre câncer de ovário&nbsp;&nbsp;O GloboCâncer de ovário: conheça as causas, os sintomas e como diminuir os riscos&nbsp;&nbsp;CartaCapitalCâncer de ovário é o tumor ginecológico mais letal no Brasil&nbsp;&nbsp;R7Acompanhamento ginecológico regular é essencial para identificar sinais precoces do câncer de ovário&nbsp;&nbsp;Jornal do Brás",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1OdlFtSzhCblRkM2Z1SFRSZVBqTm9KdFYwZllpZnBSU3dnQlpFa1NBRjhZQW9xdEt1bWM0bzNvR0RLN2Rva2M5QUhncGcxVnMtbk9pRDl6c1ZJV1FVVU02ZVlXZW05SUVLMnB2OW5vR1JTc3pO?oc=5"
+        }
+      ]
+    },
     {
       "id": "a9f79e17ece6",
       "title": "Astrônomos finalmente confirmam pela primeira vez a existência de uma enorme caverna vulcânica em Vênus - Catraca Livre",
@@ -14,6 +122,18 @@
         {
           "name": "Catraca Livre",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWi1sbFJ3bFdBT3FraEtGcXgtNmk5ZVdQRnVBZ3ZKbjVHRF9XM0xzeTR3WEdxbUJHb0hqWm9obThzQjlwbDVtdlhfQXYxaXVGRW9fMVQ3QlZVdldmTXk0YnVMM0luNjFhZlJZR1JfN284d3lXZFVLTjNqNVFFQXdZdzhLU01QM1NjMEVwUlVNOWRqTXc1QXd4NzAzTU9pcHI0czh6U2U5YlF4N09sbUY4eFlWcTVkZWxQck05UFpxSU5xQ2NwT0NoT2FwYnVmSnlObG5oNElDaUg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dd1caa849dc3",
+      "title": "Definidos os primeiros 45 hospitais que abrirão leitos pediátricos pelo Programa Inverno Gaúcho com Saúde - Correio do Povo",
+      "published": "2026-05-10T20:01:33+00:00",
+      "summary": "Definidos os primeiros 45 hospitais que abrirão leitos pediátricos pelo Programa Inverno Gaúcho com Saúde&nbsp;&nbsp;Correio do PovoGoverno Leite define os primeiros 45 hospitais que abrirão leitos pediátricos pelo Programa Inverno Gaúcho com Saúde&nbsp;&nbsp;Portal do Estado do Rio Grande do SulFalta de ar e febre persistente: saiba quando levar seu filho à emergência&nbsp;&nbsp;TerraLeitos em Porto Alegre têm quase 100% de ocupação e Hospital de Clínicas entra em restrição máxima&nbsp;&nbsp;Co",
+      "sources": [
+        {
+          "name": "Correio do Povo",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOeWNMSXZpSmhjbk9FdnNlOE9SbDRSaWhrZ1h0eTRqOFpTcWU5SUZ3bVF6OWZXZ3ZpM3JxY19qVkpCLVBVN0dseFdUcGtFRFhtMFp5bVhMNE8wUUkzNDNLa211S29xRkl1S0h2a1BqRTAwSDBtQV9VaktxcVlEalZnYWxTWVh5bDNKLTFCd0tRU0RhMXItb0Y1TGljZHJJeXk2Wno3MUJzbzJYazVJOFdkSTJ2a0E1djVSWlE3SFkwZmRUV203T05DREdCNjlEXzB3cERFdzdpZjBpcGJMNUxRQjFJd0hQeEtKQUdJQmh0ckRvc19lWDV1RlNOUE9qZXpDMWQw?oc=5"
         }
       ]
     },
@@ -42,14 +162,14 @@
       ]
     },
     {
-      "id": "519352a1fa8a",
-      "title": "Astrofísica, filosofia e saúde entram em pauta no Pint of Science em Foz - H2FOZ",
-      "published": "2026-05-10T12:55:25+00:00",
-      "summary": "Astrofísica, filosofia e saúde entram em pauta no Pint of Science em Foz&nbsp;&nbsp;H2FOZ",
+      "id": "6fed18876042",
+      "title": "O que é lúpus? Entenda sinais, causas e por que o diagnóstico é complexo - O TEMPO",
+      "published": "2026-05-10T15:29:02+00:00",
+      "summary": "O que é lúpus? Entenda sinais, causas e por que o diagnóstico é complexo&nbsp;&nbsp;O TEMPOVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
-          "name": "H2FOZ",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMFNNWkNDMkw0eFk0MG9ScXJ1OGwxMnFrcEh6ZTh3Q0JCVmhWMU5xOWZsa3BiN1ZrSjk2cUNTLVFDckNnZDk1eENEdjg3aU54SjdhenZFbGtWSzRoWUVVQ0o2clBmcjZ2c0ZQYm1rZ3d1cjVFNGREc1cwYXQ4NDF0TGstdS1SdkVXQUdEU1N0ZkZ3Nk9UOHRzMUdxNGRiX0FVQmU5NFdmeWlzOXhTblcwa1E3SEs0cjdCaW9mcGRQTzJuc2c?oc=5"
+          "name": "O TEMPO",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNFNDb01ERUtUZ0lld0MzSzdEdzluWTRlRG5ISjd6ckZfY1VyNzBiZnN5RERRVGhjYUFjWVJkNUZiZ29FQnMtYjI2YzVNVDZkbWNiNHhBcVN3eDZDMDNsSDVjQ2ozUWFjYVcyb3NHQUZiYkdpT2NjQ1h4Q0JrUlVKUmZVNU5rVWJMb3p5aEdQOERNLVpSTmtXcWd3Um51MmdBZTlIUEZMeksySTNKeFB6YjZfTS1uVm9GaUJna3BjWHM1dw?oc=5"
         }
       ]
     },
@@ -105,7 +225,7 @@
       "id": "dd7ab6090403",
       "title": "Cientistas correm para desenvolver vacinas e tratamentos contra hantavírus - O Globo",
       "published": "2026-05-10T07:01:10+00:00",
-      "summary": "Cientistas correm para desenvolver vacinas e tratamentos contra hantavírus&nbsp;&nbsp;O GloboModerna pesquisa vacina contra hantavírus após surto em cruzeiro elevar alerta&nbsp;&nbsp;InfoMoneyComo o hantavírus tornou a ação da Moderna ‘indispensável’ novamente | Empresas&nbsp;&nbsp;Valor EconômicoAções da Moderna disparam com planos de desenvolvimento de vacina contra hantavírus&nbsp;&nbsp;Investing.com Brasil - Finanças, Câmbio e InvestimentosModerna anuncia desenvolvimento de vacina contra han",
+      "summary": "Cientistas correm para desenvolver vacinas e tratamentos contra hantavírus&nbsp;&nbsp;O GloboAções da Moderna disparam 8% após americano testar positivo para hantavírus&nbsp;&nbsp;Investing.com Brasil - Finanças, Câmbio e InvestimentosModerna pesquisa vacina contra hantavírus após surto em cruzeiro elevar alerta&nbsp;&nbsp;InfoMoneySurto em navio faz disparar boatos nas redes sobre ivermectina como tratamento para hantavírus&nbsp;&nbsp;UOLCom a vacina contra o Hantavírus 'congelada', o surto mor",
       "sources": [
         {
           "name": "O Globo",
@@ -117,7 +237,7 @@
       "id": "f961cf240b92",
       "title": "Envelhecimento do sistema imunológico é diferente entre homens e mulheres, diz estudo - Folha de S.Paulo",
       "published": "2026-05-10T07:00:00+00:00",
-      "summary": "Envelhecimento do sistema imunológico é diferente entre homens e mulheres, diz estudo&nbsp;&nbsp;Folha de S.PauloPesquisa australiana revela por que doenças autoimunes são mais comuns em mulheres&nbsp;&nbsp;O CafezinhoFadiga e dor são alerta para doenças autoimunes como lúpus e esclerose múltipla&nbsp;&nbsp;Correio do EstadoSaiba quais são os quatro sintomas que podem indicar doenças autoimunes em mulheres&nbsp;&nbsp;Jornal CorreioPor que mulheres têm 3 vezes mais doenças autoimunes?&nbsp;&nbsp;",
+      "summary": "Envelhecimento do sistema imunológico é diferente entre homens e mulheres, diz estudo&nbsp;&nbsp;Folha de S.PauloCiência encontra explicação para aumento de casos de doenças em mulheres&nbsp;&nbsp;Tribuna de MinasFadiga e dor são alerta para doenças autoimunes como lúpus e esclerose múltipla&nbsp;&nbsp;Correio do EstadoSaiba quais são os quatro sintomas que podem indicar doenças autoimunes em mulheres&nbsp;&nbsp;Jornal CorreioPesquisa australiana revela por que doenças autoimunes são mais comuns",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -198,38 +318,14 @@
       ]
     },
     {
-      "id": "7c964013f2f1",
-      "title": "Nefrologista ensina como avaliar se o xixi está saudável - Metrópoles",
-      "published": "2026-05-09T17:29:00+00:00",
-      "summary": "Nefrologista ensina como avaliar se o xixi está saudável&nbsp;&nbsp;MetrópolesUrinar várias vezes ao dia é normal, desde que fique entre 4 e 7 idas ao banheiro com intervalos de 2 horas&nbsp;&nbsp;Diário do ComércioUrina espumosa pode indicar lesão renal precoce? Veja o que a ciência descobriu&nbsp;&nbsp;Portal UaiQuantas vezes por dia é ideal urinar para ter rins e bexiga saudáveis&nbsp;&nbsp;difusora95.com.brPRESSÃO ALTA É UMA DAS PRINCIPAIS CAUSAS DE DOENÇA RENAL CRÔNICA, ALERTA MÉDICA&nbsp;&",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQVg5TGoxOGhtYjVFcm00RXpPLWdISmxBUVZQUnM4OW0zWFBmeVdGUmpoeUVka2YyOVVQd09DTUs2Q0xncTB0ZnlGTXZwYnQtcklYQlNUR0h1Q3hBYnVDVWNKVG9qek5nQjFnVFVaY3cycWZqMlJmSE1FTktVS0dpNDk3VGlZQi1ISjY0NkF6Y1VBT29ZVHhPamk3bF9yd0lTU1dZOUs5OG1rM3oz?oc=5"
-        }
-      ]
-    },
-    {
       "id": "19bd569ea0ad",
       "title": "O Japão estudou a origem dos cabelos grisalhos e descobriu acidentalmente que devemos ficar muito felizes por tê-los - Catraca Livre",
-      "published": "2026-05-09T16:25:00+00:00",
+      "published": "2026-05-09T16:25:51+00:00",
       "summary": "O Japão estudou a origem dos cabelos grisalhos e descobriu acidentalmente que devemos ficar muito felizes por tê-los&nbsp;&nbsp;Catraca LivrePesquisa da NYU revela como restaurar pigmentação em cabelos grisalhos&nbsp;&nbsp;Mix ValeDescubra o segredo saudável escondido nos cabelos brancos&nbsp;&nbsp;SurgiuCabelo branco vai além da idade: entenda o sinal positivo que os fios grisalhos revelam&nbsp;&nbsp;Jornal OpçãoCientistas descobrem a origem dos cabelos grisalhos e revelam por que você deve fic",
       "sources": [
         {
           "name": "Catraca Livre",
           "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVmdsMEVKUWdvRUEzb3RsLWwwNERJa1o3Tmt0SUVxZDZQeXhDWjJVeEZlSnltZzV3RG02Z3Bzel9HaEV3R0xjRFhJTkRhR3RYSGNseHg5MTVtWENMNnVRMVpwYTRzZnQtVUxDRldXLUJWbHFNZHU2NGZHVURtSlZnYm80YmFWRFZPMktkSHZjZlpvcjNhbS1RVzlRMjgwOHd2NHRPMUlBRi1MS2tFNTBNQlpFbzk5dHBmZmdFRUhRT3NoclppOE5RN1RDc2thT0tBUVhiUUowT1VlWUVRczdiZ2lHT29JOTVuN0VUZzJxOGtua0U?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "eef960d79110",
-      "title": "Doença do fígado causada por álcool tem maior incidência de casos no Norte - DOL",
-      "published": "2026-05-09T15:05:53+00:00",
-      "summary": "Doença do fígado causada por álcool tem maior incidência de casos no Norte&nbsp;&nbsp;DOL",
-      "sources": [
-        {
-          "name": "DOL",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMmlydm5Ka1g5VUltblR2VDBWRXpadnU2TTJ6Sndlalc4OWRXa21HS0pzaGpXMm54NXlMcWhaM2ptbnJhV1ZKVllKWUVqaTBTcklkVUkxR09UZGoyWlNtMUtTdmhLWHkyNThlZEdJWDBtalRaVEhMdGJhS2xZc01VNjA2aDhfcDJyX2RiVFVHRVBVUldTdE5Sek5TcnNfOUgwLWJWTzlRT0NJemZmalI2VmpTV0NONlFmMmfSAcIBQVVfeXFMTlEteGhkR1MxQWMwU25OU25CR25pN3psQWlqZjdVTjBZd1R1VjRxWnVZM3RlV0k5Y1ROZTFwN2F1UmZCOHJvYmNJdzFXNEl5anlBMDVWT285eUQ3WjM4OHlUWGxDUzFQYnktU1BZa0xIc3pWWEl1bTRFclFQR2c5aXI2RllpT0tJVFhUbnM2SHBkUVZFZVBkZ1VCUWtjdmpzbDZXZFJjNWtwRHZ5bEhucVhkUXhRWjQ2eG41NUJUUjZmQUE?oc=5"
         }
       ]
     },
@@ -246,18 +342,6 @@
       ]
     },
     {
-      "id": "7bf2c4835b27",
-      "title": "Casos de hantavírus quase dobraram na Argentina; clima é apontado como causa - R7",
-      "published": "2026-05-09T12:58:50+00:00",
-      "summary": "Casos de hantavírus quase dobraram na Argentina; clima é apontado como causa&nbsp;&nbsp;R7",
-      "sources": [
-        {
-          "name": "R7",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ0VBNndlWFhUZXNlcUhSVmxmMHZubDg2cmwyRHpJWE1sZGt1aTJxZUxQMDhTX0UxOEZxUnFEREE4VFZhZ1ZqYmhxTG9MMHlaVjgtbGRrSy1ybFVnWFE3TllJTkprdERRekVEWTFiOGJmS0RueVR6QlpVS1lQRnJIU0JIZEdXci1zSmxmdkdYSXBqcmlkUGRaaVNjaG9WY2p0WlVpS3dObm1fNHFsNkk5RFZkdFJOdnRqQW1MSHdaSHU?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c8597983075f",
       "title": "A corrida global pelo primeiro “sol artificial” – e o papel do Brasil - Olhar Digital",
       "published": "2026-05-09T12:29:00+00:00",
@@ -270,26 +354,38 @@
       ]
     },
     {
-      "id": "a2952e7c1d8b",
-      "title": "Como o consumo diário de taurina afeta a regeneração celular e pode retardar o envelhecimento biológico segundo novos estudos científicos - Tua Saúde",
-      "published": "2026-05-09T12:15:00+00:00",
-      "summary": "Como o consumo diário de taurina afeta a regeneração celular e pode retardar o envelhecimento biológico segundo novos estudos científicos&nbsp;&nbsp;Tua Saúde",
+      "id": "a28bae7ef86d",
+      "title": "Professora da Ufrgs assina estudo inédito sobre genética na Nature - Correio do Povo",
+      "published": "2026-05-08T22:07:15+00:00",
+      "summary": "Professora da Ufrgs assina estudo inédito sobre genética na Nature&nbsp;&nbsp;Correio do Povo",
       "sources": [
         {
-          "name": "Tua Saúde",
-          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOOUE5SVowMnIwQ1ZvQWdZWWk1N1NlOEl2VzcwRllPOXo3Tlk1cWg3dS1Qa3lZWVFua3ZKQkJqbU9lN1JJMV9qYzd1WmM0RlEwOW1ZcEFnUDlhaHhGa1cxOWFtXzZWX3ZQN3E5UmV0WlJOVmgyb2h5YVdURFRycElDVXhEb0RJck1DTW9IbGNhdEloS3JwV3NNcWNBdEZhMGJfekp6YXRQYmNtTkdxNU5KSVgtbVdGVE84c1MxUTRRc2NrdG83N0tkem9vV2twY3prMDdkYVJoYzd5cGtsTDRBeXZqSWI5LUZ0UTdnZ3RBNVh5QVM1ZXJEWG1lajhyUUwxOFpJcnNncEtKZGc?oc=5"
+          "name": "Correio do Povo",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYlZKMlN0R3dNMGJrc3lVLUFOeVduZUdTbjRvR2RheVJZWnBObWljU3dwTlVyMEtkRURfbGw5VEYydGdDYWhMV3VEVThtd3l6Nng4SjRBVlZicHB5d1BDdUZieXRJc1lRMS1pTlQ1X0kwdXNNbkxlTzhDWVVXMGx0M1JoNW9MOFZlRnEybUVxUkRySnpWMGZId3RJODJLV2taR2VDY0J5UlRkY1h5U2Y3RlZINDktcnBrQVBhQ19JUnFiQU1XNHln?oc=5"
         }
       ]
     },
     {
-      "id": "4174bd731c2e",
-      "title": "Risco de Alzheimer pode reduzir em até 27% com este simples alimento extremamente comum no Brasil, diz pesquisa - Xataka Brasil",
-      "published": "2026-05-08T17:30:25+00:00",
-      "summary": "Risco de Alzheimer pode reduzir em até 27% com este simples alimento extremamente comum no Brasil, diz pesquisa&nbsp;&nbsp;Xataka Brasil",
+      "id": "3796c858d8ae",
+      "title": "O que é a Pseudomonas aeruginosa, bactéria encontrada em produtos Ypê - Metrópoles",
+      "published": "2026-05-08T16:55:07+00:00",
+      "summary": "O que é a Pseudomonas aeruginosa, bactéria encontrada em produtos Ypê&nbsp;&nbsp;Metrópoles",
       "sources": [
         {
-          "name": "Xataka Brasil",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQV1JMUDNmUktZeU1nLW1aQ1lYSG1sZVlCSkJKTmZodGxBNzg3MmVpdHdtbXlJZTJIRnVSOXdiU09lRUdHc2Y1X0ZlRUNpMjdiLWdiTGlaQ2RJWjd2ZnBDcDIyeTByOFZpZlNvbHc2QXpxYVlwV3lqY25JNk9ESjBydjQ5dTRYaXo4dmlxN2RpWlZ6S040bjJGb1hIa18xQzZZcGlhZkdmdTJiUWtBdWtnd0trMmVXdEFBcE9vT3hacDBXTHJjNTV6XzAxQ3YyYzhOZXMzT2hZWQ?oc=5"
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JM3pJQTdIUmdXZ3F0TVFBRmoxZTloX0FodjFfbzhNSXBVZkF4MnZZYnBJa05UM19obk9rMkY3NS0zdDRpLUk3YWtZV0ZGRHpwMnE3TjVHaVh6R2RVZFhwRW1XbHpyb2pWeTNpTGRiem1pY1R1Unc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "64df7f01c2c8",
+      "title": "Exercício físico é tão eficaz quanto tratamentos para depressão e ansiedade? - Folha de S.Paulo",
+      "published": "2026-05-08T15:03:00+00:00",
+      "summary": "Exercício físico é tão eficaz quanto tratamentos para depressão e ansiedade?&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYUpCOEZFX2xrcnctd3RjNE04dzlyb0tvdXpNWkpJMFNpWUUxVEh3WjBIMzhQc2kxX1hqalR4SWk3N1pXcXY1anZIbWloMlJaM2JlR3RFZS1qN1NwTVk4Q2Jyak4zR21LRm4wXzJNMnNDWm5rYVprRHBUMV9MX2RBX0VicjI2d2ZvaGFqdzJlRUlEWEpyQUxpaEx0VEtJbzZuMm5ZSWYwV2tBVEhmNWZpb2tYWmplNXdnUWRIZ1RCUmV5RWRLTGNpUVFn0gHPAUFVX3lxTFB5R2xaYmFzcnBCN21JUXRRa1NyNExuanozeWpkNENsNlRhOGNlaERYQmVMQ2xwVUZrclZGMDNHdTU3MkUxZU81aXlJVTdtYnMyOU5NSzM3RWg4MkZsakVLZ2h2MXliLW9jVjVPTU55bFlrMGlJQXlxQmowRW0tcFlEV2ZDcnpHelhQM201UWpJTE9uRDR0VDRfRmtEdjJHT2VXM3ZEcUNmMFVLMVZoRTQ0dlVKcU16cTBvN29ZWTk4Tm5Sd2xrZW1EYlR3ZU9pYw?oc=5"
         }
       ]
     }
