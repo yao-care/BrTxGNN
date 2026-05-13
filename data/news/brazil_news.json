@@ -1,31 +1,67 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-05-13T03:38:28.711189+00:00",
-  "total_fetched": 111,
-  "unique_count": 110,
-  "health_related_count": 44,
+  "fetched_at": "2026-05-13T08:47:23.261714+00:00",
+  "total_fetched": 118,
+  "unique_count": 117,
+  "health_related_count": 48,
   "news": [
     {
-      "id": "7183b617b406",
-      "title": "'Superbactéria' é achada na água de Porto Alegre; organismo afeta hospitais - CNN Brasil",
-      "published": "2026-05-12T21:51:00+00:00",
-      "summary": "'Superbactéria' é achada na água de Porto Alegre; organismo afeta hospitais&nbsp;&nbsp;CNN Brasil",
+      "id": "d1b0b64ded1f",
+      "title": "Fonte da juventude? Mudança na dieta por quatro semanas pode reduzir ‘idade biológica’ de idosos, aponta estudo; entenda - O Globo",
+      "published": "2026-05-13T07:02:15+00:00",
+      "summary": "Fonte da juventude? Mudança na dieta por quatro semanas pode reduzir ‘idade biológica’ de idosos, aponta estudo; entenda&nbsp;&nbsp;O GloboMudança simples na dieta surpreende cientistas ao reverter o envelhecimento&nbsp;&nbsp;ExameCientistas reverteram idade biológica de adultos mais velhos com uma simples mudança na dieta&nbsp;&nbsp;TerraCuidados com nutrição garantem envelhecimento com mais qualidade de vida&nbsp;&nbsp;Portal GCMAISEstudo revela alimento comum que pode ajudar pessoas a envelhe",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWTRDMmZkWjhLSkpHdEd6Nl9kb1hLcmhkVzVhQzBjbzN2eXlmWGhkWVZDZkwtbUNKTl9Td01ldE1aeE9pQU55aFlDMVRuQkF5dVpyWDZ2dFNLZHhPSUZRclpwZE5aSlJBM2ctZzRRLVVad21kaHZNdEUxOUxheF9jQlNaekU4MUpqVkw4TkJHcG5RYWhjam81Z0R3RzRLV0hMRDA2dldmYUdvRDF6ZHlR?oc=5"
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNbWlyNlh6OTM3czFsRVRObTJfcEdORl9qLUpOSDdsd0lNRGJEMXU2RDJtN3ZaLVRPNFRKcV92MG9zTFNRTzNydEUtc0FPYVRvZllzbWhDeE1yakhSQ1UwMWJTY29WOFBySC1DMktjT195ZFBGMG5xUDNFYVJVTXhvX24wWGFkaGQ0cGxCbFQwU2k3OFJOM2VjQnNUYVFQRmVjRzBNMXZTTHdVVGFza0trZ0xkR2x2eHplek1jdzhDeEw2RVhtNjJtZWt5Sng1bVp5bWk2ZEV5MmczQVE5UG1Wb3V3OHZIdGNrcFcwdDVHNDY2YTNoMDhmR0owUXNiUVQ20gGPAkFVX3lxTE9NM0VzaC1sWnB5ME95TW8xajlwRDdhU0N1NVJkV1JqS1RlQmxGOFZLQTFtbW5pc2g5Ym1yd0RaNjRqZ1ItYmw2a181SXd0REN4aDRVN1JhNFk2R3hRakNWOGIxb2o2ejg3STRLM1BDT29wSVNCRkI2TVV3SlU0dUU0VWw5T2MzemxHdWp5dWVJcGttMVpVa3VFeXcxREV6TmZZY3prb01Xa205XzA2ZF9YTURZR1NjNExDc3p2Y1NHdWxENFE0VWYtQnI3MkRXYy1zempJRmI2YkN6d2lDTWQ2QklIa2dMUml6c3ZSR1Y0YXo0UC01RW5pRFJVSUR5NW9LaDFqVFBZeFItUTNJUkU?oc=5"
         }
       ]
     },
     {
-      "id": "90b0daf87e72",
-      "title": "Rio inicia vacinação contra Covid com dose atualizada para idosos e gestantes - G1",
-      "published": "2026-05-12T20:52:21+00:00",
-      "summary": "Rio inicia vacinação contra Covid com dose atualizada para idosos e gestantes&nbsp;&nbsp;G1Rio inicia vacinação atualizada da covid-19 para idosos e gestantes&nbsp;&nbsp;Prefeitura da Cidade do Rio de Janeiro",
+      "id": "cae9b0d25aa3",
+      "title": "'Anti-aging', libido e energia: estudo encontra desinformação em massa sobre testosterona em sites de clínicas - G1",
+      "published": "2026-05-13T06:00:34+00:00",
+      "summary": "'Anti-aging', libido e energia: estudo encontra desinformação em massa sobre testosterona em sites de clínicas&nbsp;&nbsp;G1Terapia com testosterona: quem realmente precisa e quais são os riscos?&nbsp;&nbsp;ExameSaiba o que pode interferir os níveis baixos de testosterona&nbsp;&nbsp;MetrópolesReposição hormonal pode combater obesidade em homens? Especialista explica&nbsp;&nbsp;CNN BrasilQueda de testosterona vai além da libido e acende alerta sobre saúde masculina&nbsp;&nbsp;Grupo Portal de Notí",
       "sources": [
         {
           "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQnNCQ25uSXlwNlBtbkFEZjhXYXVTclhKdXUzcGRrbVdwYjNSdzVvNURDSGdpS2xtc3pPN21JaTVhaHhMYUdiY181c0VGSklSOUZOWm04YWNpT0ZvYlMxdGl3YUttRFpkaFhZSXRiVDc2VEhoemNfMGNvOFhtR19YMkRiZmVic1o2dktsRl9BMjFUZnc1OGFJNEgweDZxdk5tS0Z1bUlicVRXX2pkRkxhTjc0U3RXVUlsb3fSAcgBQVVfeXFMTXRWUGtNYklIN0M4THY2VzlGT0FsRXhfeW5CbHJGSExjbWRtZ3lfX1JaZXNJbExOdEtrNmg5ZjlKcFFLUnJ0V3lEZmF5c0ZWM3BiekZzdkYwR25DRGZWeWxrUHVoX3R1dkZ2WGJ5NUttSm9RdEl5NHJTVldOdjlka21SZHRCaHJlUjhOT0h4MlM2LTZycFpQaUhBemR0S0pRRFp4VW94M3dpT3Z4ZGdLa2dZb0p3aUJ6LVVMNGZjQlZNOWZjdFlGOXo?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOYVZQMXhmNE03dlVhQ1c0X01rY2FaOEV1djFpSGdBTXZpbnY0V0MwTTJyQ3MxUVdFa2g1NHgyVnVCUnlIVjhVWENrRllLbmlQNFZHcGVtX2RaZWlyUzAxeVN2TEJiQUt4LU44UzZrelRPcDlMSjJFbERnZVJuSkMxUXpUUFdkSkhKNHd6WnphSVRYWG9wS0FTSHRwZ25vRkJyVWJLUVI4ZU9FaWNjTjU5ZVVuVUhYOEI0WEZjTmhsUkZ2U2FXT0tuRDF1cFlDdWRmY2RPV0FnLWlaZEZINUVrSTdiNFczZWwzZVY2SUtjVdIB_gFBVV95cUxQZ2tlU21lZUlDbGpzQ2s0RGV4ZDNOQVZTS2p1blR6dS1fQXdLVk5zSXZCT1FsWXdNb3lVMnJYVkxFODR1aXJwVHQtUHNweTFuZFBheDA0ckV4Z0NNNFVwYWRNSHp4RFlpa0xSQTNiZWhhRVhLek8xS2xFNXU1cjlmbVhDTjIzaDVma2ZIdWx2ZUlQb3Y3b013YXN2cFBtMGpIZmtCaW5IRXJ5YXhsbG1USjNTcHdTWVpoTDJLcGRfTnRmdUQ4WmhpaUFYVUZXM3BGYTlhNFd2c29jdUp4VjcyNmREUkdGTm9PdUVKRjhiM1J6czQ3eHIzMzlsVlQ1QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dc9dadb4470c",
+      "title": "O primeiro computador do mundo afundou há 2.000 anos. A ciência finalmente resolveu um de seus maiores mistérios - Super Rádio Tupi",
+      "published": "2026-05-13T05:38:47+00:00",
+      "summary": "O primeiro computador do mundo afundou há 2.000 anos. A ciência finalmente resolveu um de seus maiores mistérios&nbsp;&nbsp;Super Rádio Tupi",
+      "sources": [
+        {
+          "name": "Super Rádio Tupi",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUDBuMlF1em02N1FmbGNhXzZ5WkEydHN4MENrZEtGZno2X3JHelJLVnpjcHRqMUdqUmc2ZF93V1gwMmc3U3NyaWVvbWVwdWRYb0xUak5GMklDckJhTGl2ZXN2WW1qTHhXY3FsSW50SnY4TjBuMGdFQU9acnplV0cxc0RkaE15MmpXOWR4WXNnbUJDbEJzeFFYLUtjVDNjdFVacTMydGhLeEFMY1lFNlBaRmU3STdsUFc1NjdhNUtMQ2Q3U3ZrMjl5dU5zLTVqUFZKWTQwaWFaZVNERlF5VW54aw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3d39cc77367c",
+      "title": "Sabrina Parlatore relata menopausa precoce após câncer: 'Sofrimento atroz' - uol.com.br",
+      "published": "2026-05-13T00:37:57+00:00",
+      "summary": "Sabrina Parlatore relata menopausa precoce após câncer: 'Sofrimento atroz'&nbsp;&nbsp;uol.com.br",
+      "sources": [
+        {
+          "name": "uol.com.br",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZG5fQ0Z2T0VGall2VmU5azNyOWF1MENtWnZlNllxeHpJTDFEVTVNekF2SUE3TXhZTlBpRXJjY3VkLWxPTXlrU295QlUyNUlmcUlmUUlWNnJWVmdpcExFUWJpTVlaYWhGWlRudFR6bFNfZ1lfMTR3a2hCc3Y1ZkV4Q0dQUzZTSm5QdFpuZ0JLZGt1TzdwaWZBQXRxMWxtdXJYbm9scDdKU0VYOUU2Wnh6THdrWFhRZVBVcW1mc01GOHIwX3Bn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9a6beea26641",
+      "title": "Família acredita que cuidadora morta por hepatite A em Juiz de Fora contraiu vírus ao ajudar vítimas de enchente - G1",
+      "published": "2026-05-12T20:48:24+00:00",
+      "summary": "Família acredita que cuidadora morta por hepatite A em Juiz de Fora contraiu vírus ao ajudar vítimas de enchente&nbsp;&nbsp;G1Ativa, saudável e apaixonada pelo neto: quem era a mulher que morreu por hepatite A em Juiz de Fora&nbsp;&nbsp;G1Primeira morte por hepatite A é confirmada em JF; cidade concentra quase 90% dos casos em MG&nbsp;&nbsp;Tribuna de MinasPrimeira morte por hepatite A é confirmada em Juiz de Fora&nbsp;&nbsp;Guia MuriaéJuiz de Fora registra morte por hepatite A; casos passam de ",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQamYzZVlCakpKX2JiRVpDS3dXYlc3Z0p2a0tUeEd1WDM5M0c5cmtuV25CcFNaejFxdG10dzZIWERLMWtHUk56T0VOTEg4MmowMHI3cVVBcGMtU0YxX0lrSmlkbnNLRUM1eEIydmdYRmZVdU4tN0xYcXNndjk1TnhlbDQ0aFVTa0dYRDhrNEdBU3czblRGOVNhdHhZa1RlY2lpVkJGamI3SVpCdV9raFZ2Q2FIMWFmTFBjNmw2d2p6eEtFR2w2RFpFRFU4SXE0d2dqRG8zclNxeGJsMHRLUGZLSkc1eXp2UlNrQ25uSUdpMzhsdHpTNHpuX0hRbzVqeU4xWEJWctIBkwJBVV95cUxNWHlGWHlsc0R0eThENEVHYzlnQ2Z0WjBjTm1DR0wxaE9KdnJKOXFLLXZMbG5pNG5tOGlJUDJoY1FTb2NFZFAzUjZjdktqbE4xMktXbG1RdmFrWXZKLXU1YnJwRFpFdDdoZTFacWtYZm9rbHlqUXdkaTk4SjZOQ2V0OFFXemR3eGdPaEJzZG1rOW5naFZwOXVHWldrNlJEYnNNMkg5a2JhTmJtNFNXTEdWUWVlcy1ZS0N5REpYSEdWSmZBVU14b1RVNEFqWEJkZXBrYzMxLVFLS3Y2cnd4c3ZTN21qUldHWXN4S0tJcEJMU0gzV1ZpX3FKN2h2SU5JOFFIbE45UzZRbjFYcS10aGZPV3l6Yw?oc=5"
         }
       ]
     },
@@ -33,7 +69,7 @@
       "id": "18acba9074b5",
       "title": "Idoso de Santa Bárbara é a primeira vítima fatal de Influenza na RPT em 2026 - liberal.com.br",
       "published": "2026-05-12T20:10:00+00:00",
-      "summary": "Idoso de Santa Bárbara é a primeira vítima fatal de Influenza na RPT em 2026&nbsp;&nbsp;liberal.com.brSanta Bárbara d'Oeste confirma 1ª morte por gripe em 2026&nbsp;&nbsp;G1Vacinação nas Escolas: Prefeitura inicia estratégia de imunização contra o Sarampo e a Influenza nesta terça-feira&nbsp;&nbsp;SB NotíciasSanta Bárbara registra a primeira morte por Influenza na RPT em 2026&nbsp;&nbsp;liberal.com.brCampanha de vacinação contra a gripe já aplicou oito mil doses em Farroupilha&nbsp;&nbsp;Spaço F",
+      "summary": "Idoso de Santa Bárbara é a primeira vítima fatal de Influenza na RPT em 2026&nbsp;&nbsp;liberal.com.brSanta Bárbara d'Oeste confirma 1ª morte por gripe em 2026&nbsp;&nbsp;G1Vacinação nas Escolas: Prefeitura inicia estratégia de imunização contra o Sarampo e a Influenza nesta terça-feira&nbsp;&nbsp;SB NotíciasFarroupilha mantém vacinação contra gripe em seis postos de saúde&nbsp;&nbsp;Spaço FMCampanha de vacinação contra a gripe já aplicou oito mil doses em Farroupilha&nbsp;&nbsp;Spaço FM",
       "sources": [
         {
           "name": "liberal.com.br",
@@ -42,13 +78,13 @@
       ]
     },
     {
-      "id": "60365ba5ca67",
-      "title": "Lúcia Helena: Novo remédio contra obesidade pode queimar mais a gordura no fígado - UOL",
+      "id": "2c13e7e6cb57",
+      "title": "Lúcia Helena: Novo remédio contra obesidade pode queimar mais a gordura no fígado - uol.com.br",
       "published": "2026-05-12T19:00:00+00:00",
-      "summary": "Lúcia Helena: Novo remédio contra obesidade pode queimar mais a gordura no fígado&nbsp;&nbsp;UOLPesquisa cria novo tratamento para obesidade com resultados promissores em testes iniciais&nbsp;&nbsp;TerraAgonista duplo inédito de glucagon/GLP‑1 da Boehringer Ingelheim, a survodutida, alcança perda de peso significativa de 16,6% e promove melhora metabólica relevante em pessoas com obesidade ou sobrepeso em estudo de Fase III&nbsp;&nbsp;Biored BrasilSurvodutida: Novo remédio transformará tratament",
+      "summary": "Lúcia Helena: Novo remédio contra obesidade pode queimar mais a gordura no fígado&nbsp;&nbsp;uol.com.brPesquisa cria novo tratamento para obesidade com resultados promissores em testes iniciais&nbsp;&nbsp;TerraAgonista duplo inédito de glucagon/GLP‑1 da Boehringer Ingelheim, a survodutida, alcança perda de peso significativa de 16,6% e promove melhora metabólica relevante em pessoas com obesidade ou sobrepeso em estudo de Fase III&nbsp;&nbsp;Biored BrasilSurvodutida: Novo remédio transformará tr",
       "sources": [
         {
-          "name": "UOL",
+          "name": "uol.com.br",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNkV5dkdTNXd1RWNHeVdsZTlTUVNUMXJtWmUyWmcwVEpkdG41ekNiTVFQeVdZTjdqUGptU2lEcTdodmdLQ3g1VHprdjg3U3h5RUhuVjhLYUlaQ3czX2VNTzItajRxTUd2U1dTcHNGUnF1UV9iSTNmeXVFT0ltT2g1XzN2RWdTRVlCWnhYZ19JeG1WbzFmTTJzeXRtTVdCbEs4MndIdXBobkJvdktEMkZHSE5aN0dlSWVRb29NTE0zTkdic3o5ejZVT3oyT0VMNjQ?oc=5"
         }
       ]
@@ -90,25 +126,13 @@
       ]
     },
     {
-      "id": "26803c0066c2",
-      "title": "\"Quem não é vacinado está em risco\", destaca infectologista sobre alta da catapora em Feira de Santana - Acorda Cidade",
-      "published": "2026-05-12T18:20:00+00:00",
-      "summary": "\"Quem não é vacinado está em risco\", destaca infectologista sobre alta da catapora em Feira de Santana&nbsp;&nbsp;Acorda CidadeVacinação contra varicela reduz casos graves e Feira de Santana registra 21 confirmações em 2026, diz SMS&nbsp;&nbsp;Jornal Grande BahiaVacinação é fundamental para prevenir casos graves de varicela&nbsp;&nbsp;Bahia Na PolíticaVacinação é apontada como medida mais eficaz contra catapora em Feira de Santana&nbsp;&nbsp;De Olho na CidadeCasos de catapora crescem em Vila Pav",
-      "sources": [
-        {
-          "name": "Acorda Cidade",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNM3NZVDZldmZTM3BDU25neU9ZS2o5NnlLN1FueUlCSEtoc212QzNyY2hhYTlEX0kyOThadTFwNURGVENwQ1pmOEpWcnByVEk1MC12bzY4UkljelFGVFpHMWRHLUI1UmFsWHI5QnBBOWZXNEhfY1NYaE5SNG9LVy1QSm1wOHppazlULUttazAxX1BrVFhYclFkU2xSZVY3clRNUk9lczdfbF9WV1dPX0llMG9RbUZWc0NfT3ZxZ2sybWdwQUYxbFJvZUFoc1BKWDZ6LVFiUA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "acab664528a1",
-      "title": "Impacto além do fígado: o que uma cerveja por dia faz com seu corpo - UOL",
+      "id": "4e0be62da534",
+      "title": "Impacto além do fígado: o que uma cerveja por dia faz com seu corpo - uol.com.br",
       "published": "2026-05-12T18:14:05+00:00",
-      "summary": "Impacto além do fígado: o que uma cerveja por dia faz com seu corpo&nbsp;&nbsp;UOLMédica cita bebidas alcoólicas que mais afetam a microbiota intestinal&nbsp;&nbsp;MetrópolesDoença do fígado causada por álcool avança no Brasil; mortes crescem mais no Norte - Jornal O Sul&nbsp;&nbsp;Jornal O SulBeber muito em um único dia pode triplicar risco de lesões graves no fígado, aponta estudo&nbsp;&nbsp;Âncora 1Fígado, cérebro e coração: o que uma cerveja por dia pode fazer com seu corpo&nbsp;&nbsp;Diário",
+      "summary": "Impacto além do fígado: o que uma cerveja por dia faz com seu corpo&nbsp;&nbsp;uol.com.brMédica diz o que o consumo frequente de cerveja provoca no intestino&nbsp;&nbsp;MetrópolesDoença do fígado causada por álcool avança no Brasil; mortes crescem mais no Norte - Jornal O Sul&nbsp;&nbsp;Jornal O SulBebidas alcoólicas podem prejudicar a microbiota intestinal, alertam especialistas&nbsp;&nbsp;portalviu.com.brFígado, cérebro e coração: o que uma cerveja por dia pode fazer com seu corpo&nbsp;&nbsp;D",
       "sources": [
         {
-          "name": "UOL",
+          "name": "uol.com.br",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaHpGTXRoVXY1dW1Wa2xyajV5YVpkdHBmUWp4S25aRnJmSmpaNng2X0dMN3dOMktKUDZGdGVabGl6cXo2cFE3MHFMRXdWT0VQR2tqQ1gzWkxSSVRyN05vX3l3aThyX1FJRmc1Z2xuUUZmaWxDM05hc2x0MlptSHJaaWlfNzJFTm84c0R5TEZhRjU0ZDg4MU03cUF2T0tqQV9aU3JhdEpZVU9ORXdXcGlrNkpNVmNsTUZKV2FIQlFxMXZIQW15RmZZNg?oc=5"
         }
       ]
@@ -141,7 +165,7 @@
       "id": "4259c3c3f93c",
       "title": "Alzheimer pode começar décadas antes dos sintomas, aponta estudo sobre falha no uso da glicose pelo cérebro - Gente Seguradora",
       "published": "2026-05-12T16:56:58+00:00",
-      "summary": "Alzheimer pode começar décadas antes dos sintomas, aponta estudo sobre falha no uso da glicose pelo cérebro&nbsp;&nbsp;Gente SeguradoraRoche obtém segunda aprovação europeia para teste de Alzheimer&nbsp;&nbsp;TradingViewExame de sangue para Alzheimer avança na detecção precoce&nbsp;&nbsp;O GloboVocê conhece os estágios do Alzheimer?&nbsp;&nbsp;TerraQuanterix firma parceria com Tempus AI para teste de Alzheimer no sangue&nbsp;&nbsp;Investing.com Brasil - Finanças, Câmbio e Investimentos",
+      "summary": "Alzheimer pode começar décadas antes dos sintomas, aponta estudo sobre falha no uso da glicose pelo cérebro&nbsp;&nbsp;Gente SeguradoraRoche obtém segunda aprovação europeia para teste de Alzheimer&nbsp;&nbsp;TradingViewExame de sangue para Alzheimer avança na detecção precoce&nbsp;&nbsp;O GloboVocê conhece os estágios do Alzheimer?&nbsp;&nbsp;TerraAlzheimer silencioso: doença pode dar sinais 20 anos antes de sintomas&nbsp;&nbsp;Metrópoles",
       "sources": [
         {
           "name": "Gente Seguradora",
@@ -153,11 +177,23 @@
       "id": "49ca0458b93a",
       "title": "Minas Gerais amplia público da vacinação contra a dengue e passa a incluir trabalhadores da saúde - O TEMPO",
       "published": "2026-05-12T16:54:01+00:00",
-      "summary": "Minas Gerais amplia público da vacinação contra a dengue e passa a incluir trabalhadores da saúde&nbsp;&nbsp;O TEMPOBauru libera vacina contra dengue para profissionais de saúde e público até 59 anos&nbsp;&nbsp;G1Posso tomar a vacina da dengue do Instituto Butantan mesmo se já tive dengue?&nbsp;&nbsp;Âncora 1Bauru inicia aplicação da vacina da dengue para pessoas com 59 anos e trabalhadores da saúde&nbsp;&nbsp;Prefeitura de BauruSorocaba amplia vacinação contra dengue e abrange também pessoas de",
+      "summary": "Minas Gerais amplia público da vacinação contra a dengue e passa a incluir trabalhadores da saúde&nbsp;&nbsp;O TEMPO",
       "sources": [
         {
           "name": "O TEMPO",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOM1dBRFdTd0huRVZvQW1JSVdpTGdZb1ZjUktFc3F5MUVPc05qdzRlYnB2RVFESjdBVTBpLUZVY1FPNEJENXNZa1pRWi1sRnpsR3FtMHFrclNxUFJzYmwxdEtLU3pUSXlQS1ktaE8zLVNGU2FyTXM5ZmxHOWxxZkxObXlhNGdQeU9meW5mamptWDVnNVF3NVU0Ui00QmdNMXMyVnljWld4ZFJSNVdGSmZtTEpVbWRnbHlQLVZybUsxTFBSX3VXLXpmclNtTkt0ZjVQY1VhVmZjQ1Q?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fc14e4831d9b",
+      "title": "Estudante morre com suspeita de meningite em Rolim de Moura, RO - G1",
+      "published": "2026-05-12T16:09:59+00:00",
+      "summary": "Estudante morre com suspeita de meningite em Rolim de Moura, RO&nbsp;&nbsp;G1Vigilância em saúde intensifica ações preventivas e orienta população sobre a meningite em Rondônia&nbsp;&nbsp;News RondôniaSecretário de Saúde esclarece caso de meningite bacteriana registrado em Ji-Paraná&nbsp;&nbsp;Diário da AmazôniaCaso suspeito de meningite é investigado após morte de adolescente em Rondônia&nbsp;&nbsp;cacoalnoticias.com.brVigilância em saúde intensifica ações preventivas e orienta população sobre ",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOY0ZKRU5LUERpb1FqRFliY0NsYjlOd1U2blVHNnFuUXVtX25JbkwzbWY4TnVDZGhJSjNhMk9FZzNBdjcxZXRSbUY2c0ZOcXBaTm1pNXMzd205UGtXcEJjR294VWlvWVYtbUk4bHpubGxGWTF4a0RyblBqTS11Qjdzcl9kZy1mN1FJU1pJcC1SVkRfRTNYMzMyOXMxUDhiVGRzeUHSAbABQVVfeXFMUGo2dzlOc1pxN1RBdlM2VjFjbTlwN3EwZlhxS2dNWG0yX25DM0xoQmVnY21HVEhwMjVKU2FfWHdXY1RrZjU0TlRVTG82ZDc2cHBUb3NvTDl3dG1CajVsdDRoWEo1SFFtQlpZZlNtY3B2NHFmMjRMdFNPQXY2MnpuOUZtRGFIc0UxY0N6VFpLZ1dleER6cDdCTzN3ZjhDRHJJbXAzbmNja2Z2YW9RMm0zdWo?oc=5"
         }
       ]
     },
@@ -189,7 +225,7 @@
       "id": "4b84fe989e69",
       "title": "Prefeitura esclarece situação da ampliação da vacinação contra a Influenza em Divinópolis - Prefeitura de Divinópolis",
       "published": "2026-05-12T14:19:51+00:00",
-      "summary": "Prefeitura esclarece situação da ampliação da vacinação contra a Influenza em Divinópolis&nbsp;&nbsp;Prefeitura de DivinópolisBelo Horizonte amplia vacinação contra a gripe&nbsp;&nbsp;G1Governo de Minas transfere capital para Ponte Nova e anuncia ampliação da vacinação contra a influenza em todo o estado&nbsp;&nbsp;Agência Minas GeraisVacina da gripe causa a doença? Especialista esclarece mitos comuns&nbsp;&nbsp;MetrópolesSão Gonçalo libera vacina da gripe para toda a população com mais de seis ",
+      "summary": "Prefeitura esclarece situação da ampliação da vacinação contra a Influenza em Divinópolis&nbsp;&nbsp;Prefeitura de DivinópolisPrefeitura de BH amplia vacinação contra gripe para toda população a partir desta quarta-feira&nbsp;&nbsp;G1Governo de Minas transfere capital para Ponte Nova e anuncia ampliação da vacinação contra a influenza em todo o estado&nbsp;&nbsp;Agência Minas GeraisVacina da gripe causa a doença? Especialista esclarece mitos comuns&nbsp;&nbsp;MetrópolesSão Gonçalo libera vacina ",
       "sources": [
         {
           "name": "Prefeitura de Divinópolis",
@@ -201,7 +237,7 @@
       "id": "7bc1d722dd9f",
       "title": "Câncer cerebral agressivo: pesquisadores criam nova vacina que aumenta a sobrevida de pacientes; entenda - O Globo",
       "published": "2026-05-12T14:09:25+00:00",
-      "summary": "Câncer cerebral agressivo: pesquisadores criam nova vacina que aumenta a sobrevida de pacientes; entenda&nbsp;&nbsp;O GloboVeja mais manchetes e perspectivas no Google Notícias",
+      "summary": "Câncer cerebral agressivo: pesquisadores criam nova vacina que aumenta a sobrevida de pacientes; entenda&nbsp;&nbsp;O GloboVacina pode ser esperança contra câncer agressivo&nbsp;&nbsp;Correio BrazilienseVacina personalizada mostra efeito promissor contra tumor cerebral&nbsp;&nbsp;MetrópolesVacina personalizada contra o câncer: quando o próprio corpo aprende a vencer a doença&nbsp;&nbsp;Revista Let's Go BahiaVacina personalizada é promissora para câncer cerebral, diz estudo&nbsp;&nbsp;CNN Brasil",
       "sources": [
         {
           "name": "O Globo",
@@ -222,18 +258,6 @@
       ]
     },
     {
-      "id": "fedb093e1042",
-      "title": "Aliens com alma? O que dizem teólogos sobre a descoberta de alienígenas - Gazeta do Povo",
-      "published": "2026-05-12T13:20:00+00:00",
-      "summary": "Aliens com alma? O que dizem teólogos sobre a descoberta de alienígenas&nbsp;&nbsp;Gazeta do Povo",
-      "sources": [
-        {
-          "name": "Gazeta do Povo",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMVhpUmdsdEZUU3EyTUloWGlJT29MVXNmVUZ3a3NHQjJrUFhfcUNmMDI5UXdmc1ZCU3ktQ0N5Um05ZDA1X3pLb2MwbGc2MG53V1h4YUV5aWNDQU1JMWFzejY1RUt0U0otMU9IOGxHNzl3bjQtYVNtWGhvWHE5dEdlRXpLZnlxbFl1SFhsMWVUWHNjbDlmakJhYXFmNjFaNGwtcTNWOGwtZVlKdTNuUzFJ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8690e8b189cf",
       "title": "Jundiaí recebe nova remessa com 15 mil novas doses da vacina contra a influenza - jornal da região",
       "published": "2026-05-12T13:13:03+00:00",
@@ -242,6 +266,18 @@
         {
           "name": "jornal da região",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYXM1bktReEswR1dCcV9veVFkNlpxdGVQaW5jNjZxWEU3dV9fNXVVTHlJdm11Ujl5dl9DSGdxazNweGRQMF9seWJYTDhJbEZHQzNaTkJpUmJqUmJRT1VET1Z4VTlPazBTXy0wdlF0a1Z1NURDTmRTdEI0VlFZM09GeG1DQzZKZURGb2pyU3ZlX0pnUGNDVGhDY3NsUkM4VldKckhNbC1jb3plVkxRWkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "83831db19197",
+      "title": "Cafeína e creatina melhoram o cérebro? O que a ciência já sabe - uol.com.br",
+      "published": "2026-05-12T12:51:51+00:00",
+      "summary": "Cafeína e creatina melhoram o cérebro? O que a ciência já sabe&nbsp;&nbsp;uol.com.brEspecialista explica os benefícios do uso de creatina até para quem não treina&nbsp;&nbsp;G1Creatina e creatinina: o que são o suplemento e o marcador da saúde renal&nbsp;&nbsp;Estado de Minas20g por dia? Veja qual a dose de creatina indicada pelos especialistas&nbsp;&nbsp;TNH1Creatina vai além da academia: o que dizem os estudos sobre corpo e cérebro&nbsp;&nbsp;ICL Notícias",
+      "sources": [
+        {
+          "name": "uol.com.br",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPY1NGc2dFaDgwMmVUel9SSUhsYkdoR3h0RWItVlVXd3ZHdEx4WEowdWgzZHRUWWp3YnEtRFpHRzFtcDgzcGRyRWt2V0VNWURzeElqUVdkbHFzYnA2RGluOWRQdWdJWlJRb0pwZ290UzlNUGpHNUg3NzRsU3FBUlRST0JKM1ZBNWRDSTJ0NEtZZEhqUWItWjBmZnRUTktTc0U2eWxuT29fVFNOaHZCcVo0RnlrVWtDbW9JcXRWeFcydlNCY3RGSVE?oc=5"
         }
       ]
     },
@@ -261,11 +297,23 @@
       "id": "4d1309bc1f07",
       "title": "SUS atualiza protocolo de asma com novas regras para diagnóstico e tratamento - G1",
       "published": "2026-05-12T12:00:33+00:00",
-      "summary": "SUS atualiza protocolo de asma com novas regras para diagnóstico e tratamento&nbsp;&nbsp;G1Estudo aponta que tratamentos inadequados podem agravar asma&nbsp;&nbsp;Poder360Veja como usar dispositivos inalatórios; 87% dos pacientes erram uso da bombinha para asma&nbsp;&nbsp;G1Estratégia Global para o Manejo e a Prevenção da Asma (GINA 2026): o que mudou?&nbsp;&nbsp;Afya | HomeSUS muda protocolo da asma e abre caminho para novos tratamentos que podem transformar o atendimento de pacientes graves no",
+      "summary": "SUS atualiza protocolo de asma com novas regras para diagnóstico e tratamento&nbsp;&nbsp;G1Estudo aponta que tratamentos inadequados podem agravar asma&nbsp;&nbsp;Poder360Veja como usar dispositivos inalatórios; 87% dos pacientes erram uso da bombinha para asma&nbsp;&nbsp;G1Uso incorreto de inaladores compromete tratamento da asma, alerta farmacêutico&nbsp;&nbsp;AmEmPautaEstratégia Global para o Manejo e a Prevenção da Asma (GINA 2026): o que mudou?&nbsp;&nbsp;Afya | Home",
       "sources": [
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVmlVeUZtZjBpcWZmc0l1aEsyRDNHV1ZOTUd6Nm5pY05aME1lWWhPcWZhcXFXczZBcU82YUFkOFFiM2wzYlBmLU5kOGdpSEt5Rkg2ZFBFclI0X2JQN1RPaUNOWjY3cm9Ud3RqQW1fbmJ5cXpyUzZvRlozbG5zZUtZaWtpb0VVdUhSQTZGSXl6UElXV1NCQVBfMEVhT3gxWGRuTXBKZnNPS1VaNG9EVzFyaWR0QlhfbGJQQkZWQUdqSk92dVJiT2ZORNIB1wFBVV95cUxNY2k3MjMxelh3QlRvVUZHaUl0aE16aG9QY0VQSTk5QlhsZDFQVmJkNkIzUGZkSFFWMWJOek5aaE9IZm1mRkJVSnJEUjN4d0NfT093MFhqUmtpM1pjbFZLVWktUkNFN3NNVEFMWGdmNGtscmxVWEhiUmVsemdtdGRqSHlFakFvd2ZyNjlNT2dmSk53d2dWM0VIRURZUVhvbUZyaXNiOVpxTG9oNDJZcmhTWEY0Rkk3RVhlSF82UnhXd3VWYkdFYmJ4TEkxU1hJdVJQZWQtenY2SQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f2b791b065df",
+      "title": "RS registra dois casos de hantavírus em áreas rurais; um morreu - CNN Brasil",
+      "published": "2026-05-12T11:32:00+00:00",
+      "summary": "RS registra dois casos de hantavírus em áreas rurais; um morreu&nbsp;&nbsp;CNN BrasilHantavírus mata quase metade dos infectados no Brasil: onde há mais risco (e por que não tem a ver com surto em cruzeiro)&nbsp;&nbsp;BBCHantavírus: RS registra duas infecções em áreas rurais e um óbito; casos não têm relação com navio da Argentina&nbsp;&nbsp;G1Secretaria de Estado de Saúde esclarece risco de hantavirose e reforça prevenção em Minas&nbsp;&nbsp;Agência Minas GeraisHantavírus: entenda sobre sintoma",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSlVsd21PVXVqTk9uUDVaVEFNaGtNV084TkZuVW9ESjFsdWlMOGc2OWJlYzVINnJobkp1U2djMGVxV29sTWxScG8yVU9MNkN1eGpPTVFUMUdVLWxCd3pfWXZPS3lydU8yLU1WU3B0bjQyUmZzazNhbU5GNFRSVVJOdGRtckxEQzc3QmRXSWtSa1Jla1lWSjhrWVZyOEFNcmJQMDNFNTJQVTlMWE15?oc=5"
         }
       ]
     },
@@ -278,6 +326,18 @@
         {
           "name": "ContilNet",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRTlOd1o2RW0wYjdNQVhRTzlOZ0lqa0I3SjEyenJkUmllNUZSTnp1aFVmQkE2dURpRVl6SXhvclFBY2lwSHJ0cHphVHByZEEyeVBNd2NjR0dRTDJlTW5iMmJ5YkE3RU5heU45NVRHSkExVy00bEhQQzF6Mkc5bXNGVTdGTTNiN18zNllsQU5TeUVpTUdTWnF1TDJZY21FT2U4ZENRcDJWWEZwOVNFenlXQdIBtgFBVV95cUxNdUdWNU5SdWpqVHF3TFA4aWdHUklLRlY1REw0ODdDeG5CVmZvWmcxMGdLaXBKLWlLQlJtTHRDS0djYzVzRVB0OEpHR0pCc19Qam5UTnZOdFNhZDhqcEM4b2RkdXIyUUVxTjVBZEExLXlGQnBJWThTeHd0YW10T01NOEE5Y2FHdDJnWFJzc2hJcWVWQkphcVNBLUg1Nmp2UVE2d2djaUpUdkNCUkhmQmdiTWlValZYZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ce011e6cd33a",
+      "title": "Ação do MPF contra médico por fraude em pesquisa sobre Covid é um acerto de contas - Folha de S.Paulo",
+      "published": "2026-05-12T11:00:00+00:00",
+      "summary": "Ação do MPF contra médico por fraude em pesquisa sobre Covid é um acerto de contas&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYTkxdHZyZ3pfcEJqdWt3ZG5YTENDSTBrQ1czM0RSRUlQYldWbUx3cjdBQjg4VmVGd3gzQXlPWHZlZVd0Si0weEdCd3p2U0kxS2tzRlhBTnRMWnVid0h4Q0x2YmlZZkEwbjJtZ1lOMkxzM185djZpQnNwbHZQc2hRVWJjUk1VWUdjR0t2cnV1bDVGZGFBUXhJWkJneWNuYy14UUZ2b3B5OFpQM0piTU5UMy1HMXRNa2Y2OU1KMVMtUktES1JxM251NjA1dk9PU2FCcDk3S2dITEVYblN0N01JcDBB0gHnAUFVX3lxTE45WExhV1E3UkxoRlpYZmZUUHlSUUNMZFROM0tTWWxoWFlfSG9sdFdJSi13RWZCd1RoZWlkd3dGMkpldnF0UEQ2OWllSGduam9GMFBJMWZaOHAtQnZSSkR3T2swSnpGRW5JTjNobk4zQnBWZ0NjZUYwTng1RGc0Ujd4M09veVpWVEFfNWpEUEFYdUtjcXB5bnV0REVDb0QwM1VGYS1FcG5oOVNqMWhFcXVfbVVGOFBUdEt5RlJZNnhCSTdzVUUyLUVEa0lkSUpUY2NpcVZqZ1RXMmVDUGNwOHlnN0V6VzROaw?oc=5"
         }
       ]
     },
@@ -318,6 +378,18 @@
       ]
     },
     {
+      "id": "0e63247b2524",
+      "title": "O câncer pode estar no DNA da sua família: maior estudo genômico do Brasil encontra mutação hereditária em 1 a cada 10 pacientes - G1",
+      "published": "2026-05-12T08:03:54+00:00",
+      "summary": "O câncer pode estar no DNA da sua família: maior estudo genômico do Brasil encontra mutação hereditária em 1 a cada 10 pacientes&nbsp;&nbsp;G11 em cada 10 brasileiros com câncer tem mutação herdada, afirma estudo&nbsp;&nbsp;MetrópolesPesquisa brasileira comprova que câncer pode vir do DNA da família&nbsp;&nbsp;Correio BrazilienseEstudo inédito mapeia mutações genéticas hereditárias que elevam risco de câncer no Brasil&nbsp;&nbsp;O CafezinhoO câncer pode estar no DNA da sua família: estudo encont",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOdkxxTU5tZW1hR3pRTzhxZWJZMWdzTzVsSWh2QXZPWVVOZFBYMzZMcU4zbVhkZ3VHT3RabG9ZR3JYZXlSVzZ1Rko1NUMyU1lFb3RQVUgtWklsRWx0VFhTQVQtZ3I1Qml6bXE5ZXI2RF9FU1lkaVJhUEF2R3ZxbWNLT3ZySXdkU0ZERVNaZUozakVjTW8taWJHZDFldUllZlBjRmJ3WDJEczNvc1VVakNTWlRsWEtXN2UwTUtVZVFWYUxJeUlpcmRYbmpWT2xhZ09WWk82UWRBY081VUtCTFJTY0d1RERhazJzQTFxbE5Zejk5NXktbFBQTXFRbGhJNTRHRlhIeHJHNmg2Tm_SAZoCQVVfeXFMTXpJUWFXMzJhNjN4SkNEUWJLMU9iaEw2cWZ2RVVTdlp6OUx6NVg4R1FtdU4tVld4a2EzcWJHWHNGVmgzdW54bEdCYWp3SEl0cjI5TDcyRzlUS1NMbXRncnZJQWo0b29GeTFxank1UjNwU1dwYXc2LXJZR3Z0YndhdUlxQ3JEdjR0WFdyR28zYnY2bzFXNHB2MTRadTJleTJLX1d2VkJvd3Rpa2Y4cFVqOUtmX1hGNm1seW9CYld1TGo5dUJuT1ZLdS1RY0hLWWhSZWp0bmRna25MbEY0SllxVXNTWnVWbDk3Um10U1g2Y2M3VXBTdUFON0dnSDhXaDZCeVU2Slp4UnJMTXY4ejlOWnF5dXZReHE3LVZR?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c669c2b44ee7",
       "title": "Alho negro: como esse alimento age no combate ao envelhecimento - O Globo",
       "published": "2026-05-12T07:30:42+00:00",
@@ -338,18 +410,6 @@
         {
           "name": "O Globo",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNzA5SHVuaUtZMVlvb05pSk5sVE1uS25SQ1B2QW1sbU51QXFmeGJEYmtWbm1xTWlqcndsenhwM2FDSU94b2JlSEVXc3JsWVRDMmFtTTBnaXB4MWtELXFPVmI4aEVOX3Q1VlhFci1xQUgzWXFfT1ZQTWdjdkRsMzdZU1gyV2VmZFU2VE9LV1hFMmlsVlEzQU1lb04zSW5ta0I3RW9HQnpZQnZmMTNXOHZJNUFUUXlLSnJjWlM2OXN2QjhqXzhHdDJGMEVVS0UxQdIB3AFBVV95cUxPWTFYVmZTTUNMSWhZTXdBSXkzQjJnR1N1VTFNT1czQ01LVDNhanJvVDVzeXhMTWtOWXVMOUVpVDVNSUt6QVY0OGVKYm1pdkdUOFQyVTMxRWtjV2VmMl9HbmdQNkZYLWNIdkFFNkhIcFF1ZENkaTJ3Y0NUSmpwOTFNWGlmU2JwXzB0aE9Kd0dEN09tVzItRmpvOHg3RFUzbEpCWUNWUGp1cm1kcU9GZ2x1N0pnd0xGZ2ZRWDRORGVDdHRiMlpFdmNFUmNIMllKcUl0ZFNaTl9kUDJkUXJy?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "877090846ddf",
-      "title": "Hantavírus: entenda o cenário epidemiológico em MG e as formas de prevenção - R7",
-      "published": "2026-05-12T05:00:01+00:00",
-      "summary": "Hantavírus: entenda o cenário epidemiológico em MG e as formas de prevenção&nbsp;&nbsp;R7Hantavírus: RS registra duas infecções em áreas rurais e um óbito; casos não têm relação com navio da Argentina&nbsp;&nbsp;G1Vírus letal que mata quase metade dos infectados está circulando no Sul, Sudeste e Centro-Oeste do Brasil&nbsp;&nbsp;Diário do ComércioSecretaria de Estado de Saúde esclarece risco de hantavirose e reforça prevenção em Minas&nbsp;&nbsp;Agência Minas GeraisHantavírus: entenda sobre sint",
-      "sources": [
-        {
-          "name": "R7",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa1BTNm5FY0ZzRTBjN3VZRU1yLUFhNnBnQUY1bXBwQ2E0VkY5cEFVMlV3am0tUjRYSnBxb19RdlhRNW0yZlU1NHpGV2d5dGdQUUZIWU5zVkt5dWhSNTB6VUZzMGdCRVliZHZ2dG9nOXlySHlDb1pzVXo3dVNGZWVjS3dkQlFneU0xdWdSWjRvUkNaeXNLZ1JveTMyS1pwYzM3aGlXSnpGZnJ4aUVORkNtUmVYOU52SHg1WU9ZSV9B?oc=5"
         }
       ]
     },
@@ -414,14 +474,38 @@
       ]
     },
     {
-      "id": "520bedb0f5b8",
-      "title": "China lança foguete com suprimentos para taikonautas; veja vídeo - CNN Brasil",
-      "published": "2026-05-11T22:32:27+00:00",
-      "summary": "China lança foguete com suprimentos para taikonautas; veja vídeo&nbsp;&nbsp;CNN Brasil",
+      "id": "86531d033fe0",
+      "title": "No Brasil, câncer digestivo mata em silêncio; os sinais são discretos - Terra",
+      "published": "2026-05-11T21:48:00+00:00",
+      "summary": "No Brasil, câncer digestivo mata em silêncio; os sinais são discretos&nbsp;&nbsp;TerraCâncer de intestino: 7 alimentos que protegem e 5 que você deve evitar&nbsp;&nbsp;Correio BrazilienseCâncer de intestino: veja sintomas e formas de prevenção&nbsp;&nbsp;A TARDECâncer de intestino: mais de 45 mil casos são registrados por ano e sinais da doença passam despercebidos&nbsp;&nbsp;Ceará AgoraRio Grande do Sul enfrenta maior mortalidade por câncer de intestino no país&nbsp;&nbsp;Portal Alegrete Tudo",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNmNubUxJQWFCRWppTnF1ZTZFQ1FTZ0dkTGtTMWZBb1NrUXJwSFRxRDd1LXl3emE1SkpyMFg2YnMtVWlKb3lfZXFKZzdyc05CTlA3ZU1qVmo5eEp5UDRaNTdmQ3lQZ1FiMzBWbUdQYUFoQUxlbEJzRm04RzZTUFlEU1NZMDZjVTRva3JqUjRUVDdSNUY0TEhZdFZ3VUJzSC00Mk9Z?oc=5"
+          "name": "Terra",
+          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPcWhLbnFqUS1SeXJDSmhuZlYwUFdxWjJ0M3BpN0xUTEhuZDBQNEhxQU55RFBvOGJVNGVVY0dZNnNlZUw0MVZmYi1uYVVJTzVDaU94RXFXNkdqMmRtVFU3STJkSkVOVUNsV3RPS3RxOUMzQjdjVHQxempKNFYyN3lrVkp4bDVmN3JkajlYVGZiV1pjdjRjLVZoWjZSMDlid1U0d29PQ2dXMVZqWTZRWVRnc1g5SzNPS3FibzlRT1ZFMHBManF5ZUpWNmZRbzA4Q3lsQTZMSk1QM2JsaTEzVVZwdWJqSHJKcjktQ3RkMi1PdlJhRHBZNFhESTBERXJhN0N6UUNYbmhwUWxnV2V4MzlR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b8b83ce487f9",
+      "title": "Uma única infusão de células imunes pode suprimir o HIV por quase 2 anos, sugere estudo preliminar - Estadão",
+      "published": "2026-05-11T20:26:00+00:00",
+      "summary": "Uma única infusão de células imunes pode suprimir o HIV por quase 2 anos, sugere estudo preliminar&nbsp;&nbsp;EstadãoTerapia celular inovadora mantém pacientes livres do vírus HIV por anos&nbsp;&nbsp;Olhar DigitalTerapia celular inovadora mantém pacientes livres do HIV por anos&nbsp;&nbsp;CPG Click Petróleo e GásPor que uma conferência em Boston chama a atenção para o tratamento contra o HIV&nbsp;&nbsp;ExameInfusão de células imunes demonstra potencial para controlar HIV por até 2 anos&nbsp;&nbs",
+      "sources": [
+        {
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMDkxMGVQbE1sUFJQNXhXX01TSm84Q2tPQ3hSdDNldWs5WDc2NkZTTndUVUY4YW5pLXpYcUx1QUd2WHgteWh4ajdFbDlna2RNcUJSeHFmNzRlVWxsZ2wxV3hsOHU2M3l3ZE5hcFFfLTRhdE9iZ3B6ZWlqZVk4OFl2VWtFeG1RSlFJNndURHhfTEZfWS1RMFQ4ck11eGYtcC1IajdOVmxld3Y0WHRlTDVVMmJJR2Ixdmc0VzZJeGxyWlBkNFotbGRjNWJqSmpsQ3VFQ3RhMEtDcDlKQ2wyOUo2VnVzSG7SAeoBQVVfeXFMTUxxTnVGSzBORG5Nd0pXQ2h2N0Nzc2E0enZOY3ZFVjBTLVlFRTh4RDRjajBMel95MzR3LW1kcGZfWkx6RmpaMlp4QV9ybGtXTThLaWlRY09OYzE2b25oNEZoREVkM0FKTk1JYWZmYjlhckx0ZkV1dmkyNGN4T0VDNG1NZkFGM0pUbm1DYlZhdm9tWVBKc04yODJWUmE2NXYyVFhMNG1Lc3F1ei00S2NZbFF3cGNRRGVsMmlsTnItLVdtZThzQjVScklPMHRXTFNqc2p0NVN4alNfQVNQWVlCdlBZdXgyN29tbHhB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b2e6d1f6ccc1",
+      "title": "Nem ciclismo, nem caminhada: O exercício que ajuda a proteger o coração - Terra",
+      "published": "2026-05-11T18:39:00+00:00",
+      "summary": "Nem ciclismo, nem caminhada: O exercício que ajuda a proteger o coração&nbsp;&nbsp;TerraO exercício ideal para fortalecer o coração, segundo cardiologista&nbsp;&nbsp;MetrópolesO que muda no corpo de quem pratica natação? Especialistas explicam os efeitos no coração, nos pulmões e na mente&nbsp;&nbsp;Revista OesteFazer crossfit é válido, porém os dados apontam: o melhor exercício para a saúde do coração a longo prazo continua sendo a natação moderada&nbsp;&nbsp;R7Exercício que não é ciclismo nem ",
+      "sources": [
+        {
+          "name": "Terra",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPemhOLW96Rk5tdTlla00wbHNhbmJRdFk0dnRkVmN3VC1mQzRwbjZRSjJyUzUxT0VZVWIzdUpqXzQ1ZElOa1RPRE93NmE3SzE1S2VMSXlIRlVMZ29zdTJOU0EwTWZnUHF1UUhaQUw4dklIOFJSSGl2NXRQcktJU3RtbkpMQXV1cXE5TkV2YmZSWlhKeENtcUdJUGdEcFl2cTF5VHhmR3B0clRvVlpLbHJqODVqMEN5TWMwQmNobXhvSVFyOXdERHppbXNhdVRHMmEyXzhnU0JLcjNEbjFmSExqSWNRMTBqbkxiMFZweXk2M2NhUQ?oc=5"
         }
       ]
     },
@@ -450,6 +534,18 @@
       ]
     },
     {
+      "id": "bc9f5aed61aa",
+      "title": "Qual é o principal motivo para cancelamento de corridas de aplicativo, segundo pesquisa - O Globo",
+      "published": "2026-05-11T18:04:33+00:00",
+      "summary": "Qual é o principal motivo para cancelamento de corridas de aplicativo, segundo pesquisa&nbsp;&nbsp;O Globo",
+      "sources": [
+        {
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMUE3VUpUYUpYYzVweG5XbWlGNXpKWXZwbF9ickVxS3dJSFE2V1BOM0FLWlNPUWJ5MHRReDBBdGlGSFphN1BEM1BUOXlSdzNDZ21QR3lneWdOV19KR1laNmFyUEJBbEItLUZjVDBYZWlBbkxNa3BYMDhfcHRkZVExMTY5Sk9fZmd4alh0YW1rbml5Zy1zd1FYVWoxREFiUjZoVTgxWUZMdUpYc1dGVEVsSUstN25DUkh4Z0syVUEzc2ZBZUJzam5vcXZjVy1nMEgtU2lZYzlIRzVNUi14RWNIbWVBd9IB8gFBVV95cUxPRDVrRmVHNzRQZ3kteUU0WjdxQ0pJckZpZlJMM29kSHZkblRsRnpNWkpJajF5c3FMOWtUcDBQbVJyNE43WTZteFF0NC10V0FydVhMWWRIR2tPeTlnZ1h6Sk5PSTkxdU1Jb0pCSTVYMTY3VEpyV0tqSF9nYzVUR3MyYXNmbEtMT3BFOUdkRGxnREhPaDg2TTFDSWM5bm1VRTMzUW8xNUlIZ3VpVHQ2WmVKNUt5OXR1X3VEQ01aaHd2WXdUWmgzUG5YNklCYVRZNFdWb2s1bExQdExKR21NNUN5RkpyYjF6S3lONjRRZFAxdUIydw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "fbd671052f0b",
       "title": "Sinais de gordura no fígado que aparecem antes de alteração nos exames - Metrópoles",
       "published": "2026-05-11T15:39:00+00:00",
@@ -474,62 +570,14 @@
       ]
     },
     {
-      "id": "7422527b71ad",
-      "title": "Pesquisadores acham um jeito de fazer IA admitir quando não tem certeza de algo - Olhar Digital",
-      "published": "2026-05-11T13:37:00+00:00",
-      "summary": "Pesquisadores acham um jeito de fazer IA admitir quando não tem certeza de algo&nbsp;&nbsp;Olhar Digital",
-      "sources": [
-        {
-          "name": "Olhar Digital",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeUNTTm92M2x3ajFOQlhIaGhFOVBZZzN4UkdwOGk5RTVtQmF4dl9YVEQySDBvajlqZ09CbWpkRDFiQm01QTQtYmJhZ0tjUnFteFplbmNRY1ZkWXJUbFBNek1iajRNSGM2TEI3N2sxSmtBOFd6QnhPMm5qN2h0bXJQbWgzNy13d2JLLXQtdjFFdWxIZXljaU1ZNWMtWm42SHRwdjRISjlKS0hFcWtRZGYxVUNqZ2FibFRtRmozTnNYbW4tbkNvTmlSVWVUTzJ1UlZsY1pMTUo2bm1tLWM?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9537ef8cc707",
       "title": "Frente fria chegando: 7 dicas para não deixar sua imunidade cair - Super Rádio Tupi",
       "published": "2026-05-11T10:51:48+00:00",
-      "summary": "Frente fria chegando: 7 dicas para não deixar sua imunidade cair&nbsp;&nbsp;Super Rádio TupiClima instável reduz defesas e pode agravar crises respiratórias&nbsp;&nbsp;Agência BrasilPneumologista orienta como se proteger de doenças respiratórias no frio #BalançoGeral #Shorts&nbsp;&nbsp;R7Aquecedor pode piorar rinite e tosse seca no frio; veja cuidados&nbsp;&nbsp;TerraComo a mudança brusca de tempo afeta sua saúde e o que fazer para evitar&nbsp;&nbsp;Estado de Minas",
+      "summary": "Frente fria chegando: 7 dicas para não deixar sua imunidade cair&nbsp;&nbsp;Super Rádio TupiPneumologista orienta como se proteger de doenças respiratórias no frio #BalançoGeral #Shorts&nbsp;&nbsp;R7Clima instável reduz defesas e pode agravar crises respiratórias&nbsp;&nbsp;Agência BrasilAquecedor pode piorar rinite e tosse seca no frio; veja cuidados&nbsp;&nbsp;TerraComo a mudança brusca de tempo afeta sua saúde e o que fazer para evitar&nbsp;&nbsp;Estado de Minas",
       "sources": [
         {
           "name": "Super Rádio Tupi",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSjdHMnF2RlNwMzhHMWJjbmx1NHVRby1aM1VsZGdGWm5wUXdDMXlZd0I4R1J3bmRjaXhtVEpoYTEwcTNWSmFaSm1zTE1YNmRKRU9zdDF6YVVZMGRYNVRwTGVyTXRLWkI0RHd2YWRhRTR2MTVaejdmdDNfYy04M19nYl9PN2t5Yno0ZklCOHFuNVhhUm9PRFlzVFdNNnVYd0RX?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "aa3542c6dd46",
-      "title": "Estudo revela ocupação humana recorrente em caverna nos Pirineus por 5.000 anos - Folha de S.Paulo",
-      "published": "2026-05-11T09:00:00+00:00",
-      "summary": "Estudo revela ocupação humana recorrente em caverna nos Pirineus por 5.000 anos&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcHFFNTY2TU1YbHIwVWJReVM4S1BhSVNEZ2ZmUlBPaVFWaHozbmt3eEJzQVBOODE1Skl2RThFc0M3ZGZUTUhUYVRab3VCWXpfZng2aTRzdUdKUVdKaXhGcm5aeThMTDU2aEl2Zm14dnRfREZkZ0szam5hVVg3WHVQNF9FMzhaaDRfY3JrLXlBeTl1cm9oU21mcmQ0Z3BxOVROdjVxM2p3a1V3S3BkQVV2eDV4Rkt0ZlU2ZW4xR2w2SXVQbW5STUd5WjVR0gHPAUFVX3lxTE9LX3ZCNzhmWDNXNVBUMWFIQWtxSTJVMFc5NG5UQ2U0ZThoQ3ZQWXlVTnY5LXlUSXNuSDhtZVlZN2tkWEZweDZHT21BMVg1UmFxc0x4THZjU3Zqb0RtZE9OdllCQUJ3aTBlVWs5Zk05RDdqSXVmSkJOSVhQOXQ2dnR0dHk2RkJKYjlEcXRQV3NiSUFKQjZNMDU3OFNmMzk1RGo2TGFERnVzZ0Vhc2htRV9FWjlPZ1lzbU4xdi1pSjJDcXlvX1VLMG9LWG54UVNLNA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3e1aaba85a04",
-      "title": "‘Fadiga de decisão’ pode estar prejudicando sua dieta e sua saúde; nutricionista explica como resolver - O Globo",
-      "published": "2026-05-11T07:01:28+00:00",
-      "summary": "‘Fadiga de decisão’ pode estar prejudicando sua dieta e sua saúde; nutricionista explica como resolver&nbsp;&nbsp;O Globo",
-      "sources": [
-        {
-          "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOXYyZEVIMXpwMFJ5RmRjRlRRR1BldWtlT3p5bFA0Slgtb3RnS2Y3U1VnUWFRbFFPdkxNTTNLUmc5cHVnZnk0M2FCY3JHeUNEOFNvZkdfUWVLakhxTmI2ZGxkQzhLdG8tYkJ1X29sYWVqdDRWd0dPUjcwdS0yNHFaelU5aV95c0N1SXRHbHRJaExyVmtpbkZ5eHRtZ3huWi1XWWhCazAwWEYwVUJyNnBkZmx1RWF6OFNJOHFKTkZwSjlJU2xwX3ZHOU05a0JjRks1MTNfMGs1Y2Zqcks1VUdXUno5NnowX1RJTUM00gH6AUFVX3lxTFByUmxlWk9xSEZQOGlYWDdObkh6RTJBejRTTkxXa1o0a3VDVm9yYml5NkNFUmFlSlRnSGFzYTRDaEhJbmhpbHpxZEZrb2Q2a3pQanoxSTVrS1Y3YTRIQkJhTFQ5QThYb0JWc1psWW1OYWVYVkZqUXY2UFRhelZnX2JReC1DejNnSkw2WnBwTDlSbUZHaWllU2xQMGNJT09KQ09PWVI4Q1dLbnZFdlVLZGJHZ0JpcHFtZzdNeUNsb19GTGltc0cxMjJNVDZjOHlUQXRQeDdvekk3U3gtTVlFQzFzN0F2RHFLSi11X1dOOVZnbDVnanM1VnZkZ1E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "eeee64f048e5",
-      "title": "Cientistas descobrem quantos passos por dia são necessários para manter a perda de peso - O Globo",
-      "published": "2026-05-11T07:01:19+00:00",
-      "summary": "Cientistas descobrem quantos passos por dia são necessários para manter a perda de peso&nbsp;&nbsp;O GloboCaminhar 8,5 mil passos por dia evita ganho de peso após emagrecimento&nbsp;&nbsp;MetrópolesVeja quantos passos você precisa dar por dia para não voltar a engordar após a dieta, segundo a ciência&nbsp;&nbsp;Jornal CorreioEsta \"simbólica\" quantidade de passos por dia pode impedir ganho de peso, afirma estudo&nbsp;&nbsp;TerraCaminhar 8,5 mil passos ajuda a manter perda de peso&nbsp;&nbsp;Agora",
-      "sources": [
-        {
-          "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOFpsLU54eE1QZDV1UG5SaEhMM0JZR2hPRExZUjBMeUl4TDl3U21FTjFSMmtxblZ5WWlzazdCaTJQTmExR3hsclBYMy1jUlo2Rk9BMXo2X19nTzduR0ZVWEJsZTNYb1hJb3ptWGdweXNrM3FRaEh2TlNNZFkxNm1HYzVtS1l4ejJzOEFQUFQ0LVVndm1fZzdjT2dWd3QzQ1QyaHFuOEdmQ2NWV3hKbVJWT2x1NWNjOXNaNzFIRmRseG53ckgyd0ZrNW0zQk9tSFY5MmVTbG5sbG5ZZk3SAeoBQVVfeXFMT2NfNHRqRlhEV0UxVmhZejRIazJ1VktKQ2dleWNvWU1wVmMtVElNMktTWG1yYjROQ0RUOGN3RkJNMkdCZkJOWG8tS1ktZW56RmZBYmFQcEN1TDI2UUV2ay1OeUJ3cWk2TTZ5bk9VZGpvNlluR014d1ZlNVF4OGpqeEE5SXhTakxMLThWbE11TnI1MmpGcEdXZDNZS3VYZWNGQXFBQUNDaHJwN3V4UXN4bVFjLWY3UFpDbC0wV2ctSWVVMTZQU2x0WkdSVEZFSlJkUHpXMmIzemZvTkp0M1MwMmRhQ0dTSC1zamNB?oc=5"
         }
       ]
     }
