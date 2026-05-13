@@ -1,10 +1,46 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-05-12T19:56:14.308437+00:00",
-  "total_fetched": 105,
-  "unique_count": 104,
-  "health_related_count": 42,
+  "fetched_at": "2026-05-13T03:38:28.711189+00:00",
+  "total_fetched": 111,
+  "unique_count": 110,
+  "health_related_count": 44,
   "news": [
+    {
+      "id": "7183b617b406",
+      "title": "'Superbactéria' é achada na água de Porto Alegre; organismo afeta hospitais - CNN Brasil",
+      "published": "2026-05-12T21:51:00+00:00",
+      "summary": "'Superbactéria' é achada na água de Porto Alegre; organismo afeta hospitais&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWTRDMmZkWjhLSkpHdEd6Nl9kb1hLcmhkVzVhQzBjbzN2eXlmWGhkWVZDZkwtbUNKTl9Td01ldE1aeE9pQU55aFlDMVRuQkF5dVpyWDZ2dFNLZHhPSUZRclpwZE5aSlJBM2ctZzRRLVVad21kaHZNdEUxOUxheF9jQlNaekU4MUpqVkw4TkJHcG5RYWhjam81Z0R3RzRLV0hMRDA2dldmYUdvRDF6ZHlR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "90b0daf87e72",
+      "title": "Rio inicia vacinação contra Covid com dose atualizada para idosos e gestantes - G1",
+      "published": "2026-05-12T20:52:21+00:00",
+      "summary": "Rio inicia vacinação contra Covid com dose atualizada para idosos e gestantes&nbsp;&nbsp;G1Rio inicia vacinação atualizada da covid-19 para idosos e gestantes&nbsp;&nbsp;Prefeitura da Cidade do Rio de Janeiro",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQnNCQ25uSXlwNlBtbkFEZjhXYXVTclhKdXUzcGRrbVdwYjNSdzVvNURDSGdpS2xtc3pPN21JaTVhaHhMYUdiY181c0VGSklSOUZOWm04YWNpT0ZvYlMxdGl3YUttRFpkaFhZSXRiVDc2VEhoemNfMGNvOFhtR19YMkRiZmVic1o2dktsRl9BMjFUZnc1OGFJNEgweDZxdk5tS0Z1bUlicVRXX2pkRkxhTjc0U3RXVUlsb3fSAcgBQVVfeXFMTXRWUGtNYklIN0M4THY2VzlGT0FsRXhfeW5CbHJGSExjbWRtZ3lfX1JaZXNJbExOdEtrNmg5ZjlKcFFLUnJ0V3lEZmF5c0ZWM3BiekZzdkYwR25DRGZWeWxrUHVoX3R1dkZ2WGJ5NUttSm9RdEl5NHJTVldOdjlka21SZHRCaHJlUjhOT0h4MlM2LTZycFpQaUhBemR0S0pRRFp4VW94M3dpT3Z4ZGdLa2dZb0p3aUJ6LVVMNGZjQlZNOWZjdFlGOXo?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "18acba9074b5",
+      "title": "Idoso de Santa Bárbara é a primeira vítima fatal de Influenza na RPT em 2026 - liberal.com.br",
+      "published": "2026-05-12T20:10:00+00:00",
+      "summary": "Idoso de Santa Bárbara é a primeira vítima fatal de Influenza na RPT em 2026&nbsp;&nbsp;liberal.com.brSanta Bárbara d'Oeste confirma 1ª morte por gripe em 2026&nbsp;&nbsp;G1Vacinação nas Escolas: Prefeitura inicia estratégia de imunização contra o Sarampo e a Influenza nesta terça-feira&nbsp;&nbsp;SB NotíciasSanta Bárbara registra a primeira morte por Influenza na RPT em 2026&nbsp;&nbsp;liberal.com.brCampanha de vacinação contra a gripe já aplicou oito mil doses em Farroupilha&nbsp;&nbsp;Spaço F",
+      "sources": [
+        {
+          "name": "liberal.com.br",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSFo3ajJJYkdJdUtuSkxjbkMzVk1MWkx4UGNsT0s3YW56LTk2VFhfTFlhX0dLTy00TklrZ1pTaVl2YldhZks1UzdRRVpLQlVKcVFwekJvWllSN0p1N1lQeEZITThWaUN3b1dkV0JhU0VPY1NnREthRXFpSDF6SzdDUlQ5TzNkZTV4TTQwU2Rxcm5NYk1mLUhRcUhzTVh2ZEtLeUJnWVNUNmFoUlJ6dElNUGlwdVVpUkUwbUhScGNR?oc=5"
+        }
+      ]
+    },
     {
       "id": "60365ba5ca67",
       "title": "Lúcia Helena: Novo remédio contra obesidade pode queimar mais a gordura no fígado - UOL",
@@ -18,10 +54,58 @@
       ]
     },
     {
+      "id": "fa61e24a23fe",
+      "title": "Mulher sofre 3 AVCs após fazer 'ajuste' no pescoço e fica com sequelas motoras e na fala - TNH1",
+      "published": "2026-05-12T18:51:55+00:00",
+      "summary": "Mulher sofre 3 AVCs após fazer 'ajuste' no pescoço e fica com sequelas motoras e na fala&nbsp;&nbsp;TNH1Mulher sofre três AVCs após ajustes no pescoço em sessão de quiropraxia; entenda&nbsp;&nbsp;Banda BMulher sofre múltiplos derrames após sessão de quiropraxia&nbsp;&nbsp;RedeTV!Mulher sofre 3 AVCs após fazer ajuste quiroprático no pescoço e fica com sequelas motoras e na fala&nbsp;&nbsp;Região Noroeste",
+      "sources": [
+        {
+          "name": "TNH1",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQY2FmdVRlTHU2a3VVUjJjajZEOXZsazZkclB1XzZfdVNwTkRCRmJFMlg0X01nbThaSlNMdGh3RWQ5Z3FtMWp6WkxnQ3FEUHoyc0M1TTRqLThScUhYejFBc1N1ejZfeF9fRmNhM05ibGlnR0FxUDlHcV82SjNnR1VWU1R2VzdldmRualNfRms0aWdWLUhOWS10SklFNnQyeFlTM2VLcWYwOWFaRFVkRVVGZmlsSDVwOGRLUGZSVmNydHTSAbsBQVVfeXFMUDZlc1pKdG9JVzBQSlRkNEUxZXV3YzZVT0xhaWpFU1ZzOFZlOGVWakxJY0Y1SDlRSENSQVJKTmlCcTZFNGp2bDVSdXNtN3ZhaE5pbW5SWjhzX0tITWxHc3QzWHI4YXdGQXZISmVlN2tXR0NmZ0dkWVFtd2FXOE9hTjE3XzNrdkJrWFRaWHl4LS16Y3dWaWNFVklCNXVEMEcyOWIzanNoOWxlbWE1cDI2QWs5eWY5anB3eWxOVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ea386e1779b5",
+      "title": "O que está matando filhotes de foca no Canadá? Verdade macabra é descoberta - UOL Notícias",
+      "published": "2026-05-12T18:34:47+00:00",
+      "summary": "O que está matando filhotes de foca no Canadá? Verdade macabra é descoberta&nbsp;&nbsp;UOL Notícias",
+      "sources": [
+        {
+          "name": "UOL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPWDJ4ZlVSRURUNHNZcHJhQlEyLUFoMUJRcmoweHJHMWZqX1FNWEJteU52ajJMRzVPd1BTWnhEYmZQOTVnNW9oWV94aXBlM3FhQ1VlRVVqTFZhYW02M2s4Y09KT09WVFZLY19FWVY3QjlZQ08wSlQyVXhtTi03b0hKRnE1R0pkTEN6eVltcDBxSVB2a3dYbG1seTFBS212X3pSdUNBWEhJNUFhemo2RUJMeFZ2dWxfa2pTcjlnUFpSZzBpY3FwY0ZoU3V1T3J5OV9QeVlSazRMV2FVWDBucWVoWTJ3NjBvTVVRLWV2OEJn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fbec648f51a9",
+      "title": "Síndrome dos ovários policísticos muda de nome após consenso global com 56 organizações - G1",
+      "published": "2026-05-12T18:29:32+00:00",
+      "summary": "Síndrome dos ovários policísticos muda de nome após consenso global com 56 organizações&nbsp;&nbsp;G1SOP: Síndrome dos ovários policísticos terá novo nome após consenso global; entenda o que muda&nbsp;&nbsp;O GloboCientistas mudam nome da síndrome dos ovários policísticos&nbsp;&nbsp;Folha de S.PauloNovo consenso global propõe mudança no nome da síndrome dos ovários policísticos&nbsp;&nbsp;EstadãoSíndrome dos ovários policísticos muda de nome — perigos vão além dos cistos&nbsp;&nbsp;Veja Saúde",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdHZsb21UOU8tWWxKdWttVjFmVzM1YVF0TjVOMXFHN1BOd0pHX0FER281aFFVTHVzemJvclBEamtQUnVuRDVNSmJVMG1mVjZwWFFCekpZVzAwdnZ4c2Q2RmhqVFgyanZ3OVd4azFEaXJHam9IZk0zaVJNWk1aUFRJSHBGMzVlX2tUcGEyMGQxTDFjaDU4blBBWWpFT25ZQzZDRnM5U1pFUjQwVkJrSE11Tl81dzFqOFU4NWlwSV90VEpRMGxSdVVlSjNNNUYwUGFIZEhYWXVR0gHkAUFVX3lxTFBlRWlyWkZpVkRDQjYtLTJwU09OWGNUeVJSaWdKdVpVWUwyRkdFWGN4UzI1WGxhRFNHQ3JUc0ZXdlEtbTZLUFg1Y2V4Wm9aVnM2YndGNXYyMmltOG5XSk03VnZHMVhBdWZXeWtzRVZtazkwNTFRcTZFblNKUnF4YmtLemtTMUpuN2sxYTc3Wk1VbnBBcWJzTTd6RXpRMWNPREZvTmlzRUJ3akpJSGNkNjRpbHVCSVowdmV5eGNvRnpCMHljTll2a2U4eTM4YkhFY3cxZmJUcW9vVTlBcVZkSW50M2phMQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "26803c0066c2",
+      "title": "\"Quem não é vacinado está em risco\", destaca infectologista sobre alta da catapora em Feira de Santana - Acorda Cidade",
+      "published": "2026-05-12T18:20:00+00:00",
+      "summary": "\"Quem não é vacinado está em risco\", destaca infectologista sobre alta da catapora em Feira de Santana&nbsp;&nbsp;Acorda CidadeVacinação contra varicela reduz casos graves e Feira de Santana registra 21 confirmações em 2026, diz SMS&nbsp;&nbsp;Jornal Grande BahiaVacinação é fundamental para prevenir casos graves de varicela&nbsp;&nbsp;Bahia Na PolíticaVacinação é apontada como medida mais eficaz contra catapora em Feira de Santana&nbsp;&nbsp;De Olho na CidadeCasos de catapora crescem em Vila Pav",
+      "sources": [
+        {
+          "name": "Acorda Cidade",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNM3NZVDZldmZTM3BDU25neU9ZS2o5NnlLN1FueUlCSEtoc212QzNyY2hhYTlEX0kyOThadTFwNURGVENwQ1pmOEpWcnByVEk1MC12bzY4UkljelFGVFpHMWRHLUI1UmFsWHI5QnBBOWZXNEhfY1NYaE5SNG9LVy1QSm1wOHppazlULUttazAxX1BrVFhYclFkU2xSZVY3clRNUk9lczdfbF9WV1dPX0llMG9RbUZWc0NfT3ZxZ2sybWdwQUYxbFJvZUFoc1BKWDZ6LVFiUA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "acab664528a1",
       "title": "Impacto além do fígado: o que uma cerveja por dia faz com seu corpo - UOL",
       "published": "2026-05-12T18:14:05+00:00",
-      "summary": "Impacto além do fígado: o que uma cerveja por dia faz com seu corpo&nbsp;&nbsp;UOLMédica cita bebidas alcoólicas que mais afetam a microbiota intestinal&nbsp;&nbsp;MetrópolesComo a cerveja afeta o corpo: benefícios e riscos do consumo moderado&nbsp;&nbsp;Tribuna do SertãoSaiba como como consumo frequente de cerveja pode afetar o intestino&nbsp;&nbsp;Única NewsNem cerveja nem refri, está é a pior bebida para o seu fígado&nbsp;&nbsp;Diário da Região",
+      "summary": "Impacto além do fígado: o que uma cerveja por dia faz com seu corpo&nbsp;&nbsp;UOLMédica cita bebidas alcoólicas que mais afetam a microbiota intestinal&nbsp;&nbsp;MetrópolesDoença do fígado causada por álcool avança no Brasil; mortes crescem mais no Norte - Jornal O Sul&nbsp;&nbsp;Jornal O SulBeber muito em um único dia pode triplicar risco de lesões graves no fígado, aponta estudo&nbsp;&nbsp;Âncora 1Fígado, cérebro e coração: o que uma cerveja por dia pode fazer com seu corpo&nbsp;&nbsp;Diário",
       "sources": [
         {
           "name": "UOL",
@@ -30,10 +114,46 @@
       ]
     },
     {
+      "id": "27d5f38eead8",
+      "title": "Bióloga propõe erradicar mosquitos que transmitem doenças como dengue e malária - Folha de S.Paulo",
+      "published": "2026-05-12T17:10:00+00:00",
+      "summary": "Bióloga propõe erradicar mosquitos que transmitem doenças como dengue e malária&nbsp;&nbsp;Folha de S.PauloAnimal mais letal do mundo é menor do que se pensa&nbsp;&nbsp;ExameO animal mais mortal do mundo: por que este pequeno ser mata mais que tubarões e cobras&nbsp;&nbsp;Gazeta de São PauloE se matássemos todos os mosquitos?&nbsp;&nbsp;Plataforma Media",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZzZ0Zzh1dFJQMUdyWGI3ZjY3WldLdG1WNUxsckEybkNHbHNQNG0xUVJ0N2xFMVhUZUdWc19kWXY4ek15bnhPQ29jTzNUbDI5dERUMVF6bndpN1R3cTZmeFFUdkVwN3NhSTM3dnlXelRIOWNaQ1NTNmE3bXp3T2VwWUtJbHY2Y1EtdkhmUElCZjVHYTJMU1AtdjBPWmE5MkFNZGJLano5R3dlU2g1SHJsbDV2TFFaVDJlbW9qVEljcS01OUNWSXgtREV6QdIB0AFBVV95cUxQd2RGMnpVVTBOSkp6ckRva1pVOThQeTd3d3JnMGF1ZGNqaHM5VW9GS3FQVEozc2wyaXVJVGNjd1FtMU5DSTVENjcyeVk0dkxtbFB4WE90M0E3YS03d2ZleU9MUzl3bE95UkRoOFNoQ2J2WG5MZnRjRkEzTXViZWFzZ3p1dmFyZl9kR0NnWlAzNkZhQUlxQzR6Qzd1MHhHZWlUWjFCbGRCc0hwS0l2RXBMWEtRal9sd2xYYklXMkwyRTAtVjhSUDREY0N2d0NfeXdi?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ee6fd48d118e",
+      "title": "Médica explica se existe prazo da pré-diabetes evoluir para diabetes - Metrópoles",
+      "published": "2026-05-12T17:05:00+00:00",
+      "summary": "Médica explica se existe prazo da pré-diabetes evoluir para diabetes&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUmEzeHg1TmxudGhLeFFqeVhRS2Q3al9pWUtxN19rWFh5NjAyNUpiQ0RDZzZLT2p6R1JiamdBQ3ktSFcyOEtMbXpiUHRQZEtHZEg4MVBlZG5tS1BqdWlPZ2ZRMWl4YjhDWDJaMlFkdndMRFRoekljV3E1UjVXRjV0WldySGQ4WS1JQjVrM2oyZmgyWUxENmVKMHV1bzU3NnF6LTg2UThkeENRN180eXFwVW9Ja2hjODR5SHlIdA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4259c3c3f93c",
+      "title": "Alzheimer pode começar décadas antes dos sintomas, aponta estudo sobre falha no uso da glicose pelo cérebro - Gente Seguradora",
+      "published": "2026-05-12T16:56:58+00:00",
+      "summary": "Alzheimer pode começar décadas antes dos sintomas, aponta estudo sobre falha no uso da glicose pelo cérebro&nbsp;&nbsp;Gente SeguradoraRoche obtém segunda aprovação europeia para teste de Alzheimer&nbsp;&nbsp;TradingViewExame de sangue para Alzheimer avança na detecção precoce&nbsp;&nbsp;O GloboVocê conhece os estágios do Alzheimer?&nbsp;&nbsp;TerraQuanterix firma parceria com Tempus AI para teste de Alzheimer no sangue&nbsp;&nbsp;Investing.com Brasil - Finanças, Câmbio e Investimentos",
+      "sources": [
+        {
+          "name": "Gente Seguradora",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcW5IVDFEeTZ6NXlEUlZqdWhrQnowLUhsQVBWdzBHbFBGUEpoUjQ2QkdIMEFuekZjUk5lSHF4UkhySVFIYU85SGc0aklEdGFSNlFwaVFRaXlFampfbXlOcU9Yc0dkZ0lKaE5uTG9jdFhyZlQwQXNvT1VJSjFEUlhmay1ndWh5WjNTQ18wVFhiMG1FNnM5UWtZUm91YnBxekkxZm92R1NfUXVHUktiSWM4OWd2QW8ycTJ3bVdpemFtajZycm9hQVRXT1VCQkRNRWhUSGxGaw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "49ca0458b93a",
       "title": "Minas Gerais amplia público da vacinação contra a dengue e passa a incluir trabalhadores da saúde - O TEMPO",
       "published": "2026-05-12T16:54:01+00:00",
-      "summary": "Minas Gerais amplia público da vacinação contra a dengue e passa a incluir trabalhadores da saúde&nbsp;&nbsp;O TEMPOBauru libera vacina contra dengue para profissionais de saúde e público até 59 anos&nbsp;&nbsp;G1Posso tomar a vacina da dengue do Instituto Butantan mesmo se já tive dengue?&nbsp;&nbsp;Âncora 1Secretaria de Saúde de Pedreira disponibiliza a Vacina contra a Dengue para novos públicos&nbsp;&nbsp;Prefeitura de PedreiraBauru inicia aplicação da vacina da dengue para pessoas com 59 ano",
+      "summary": "Minas Gerais amplia público da vacinação contra a dengue e passa a incluir trabalhadores da saúde&nbsp;&nbsp;O TEMPOBauru libera vacina contra dengue para profissionais de saúde e público até 59 anos&nbsp;&nbsp;G1Posso tomar a vacina da dengue do Instituto Butantan mesmo se já tive dengue?&nbsp;&nbsp;Âncora 1Bauru inicia aplicação da vacina da dengue para pessoas com 59 anos e trabalhadores da saúde&nbsp;&nbsp;Prefeitura de BauruSorocaba amplia vacinação contra dengue e abrange também pessoas de",
       "sources": [
         {
           "name": "O TEMPO",
@@ -42,14 +162,50 @@
       ]
     },
     {
-      "id": "3f775a846b31",
-      "title": "SOP: Síndrome dos ovários policísticos terá novo nome após consenso global; entenda o que muda - O Globo",
-      "published": "2026-05-12T16:31:32+00:00",
-      "summary": "SOP: Síndrome dos ovários policísticos terá novo nome após consenso global; entenda o que muda&nbsp;&nbsp;O GloboCientistas mudam nome da síndrome dos ovários policísticos&nbsp;&nbsp;Folha de S.PauloSíndrome dos ovários policísticos muda de nome — perigos vão além dos cistos&nbsp;&nbsp;Veja SaúdeSíndrome dos ovários policísticos muda de nome após anos de debate&nbsp;&nbsp;MetrópolesAdeus, SOP: condição que afeta milhões de mulheres ganha novo nome&nbsp;&nbsp;Estado de Minas",
+      "id": "269ce1fa4481",
+      "title": "UFSC tem 37 pesquisadores entre os mais influentes do mundo - Notícias da UFSC",
+      "published": "2026-05-12T15:12:00+00:00",
+      "summary": "UFSC tem 37 pesquisadores entre os mais influentes do mundo&nbsp;&nbsp;Notícias da UFSC",
+      "sources": [
+        {
+          "name": "Notícias da UFSC",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaFdFMkdBMS15RVpxcnFpTmVVVi1FbXBpS2kyUHRoV0hjMEJkcVpaYzZsdWxCWTlEUjRxeTl4WjhpcWtaM1pwVWkwYUxCcW45T3pNU2ZWbFlkRWtNYUNuSkczbHpIN3RqWWtfdjVSN2tPWkozRmZ4WVo3RlI1Vzk4VDJpYWhmV0lGNms4UlpQbzN5VjMwaUpQaw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c9608ae8a6f9",
+      "title": "Primeira explosão nuclear criou cristal que não deveria existir na Terra - Extra online",
+      "published": "2026-05-12T14:58:33+00:00",
+      "summary": "Primeira explosão nuclear criou cristal que não deveria existir na Terra&nbsp;&nbsp;Extra online",
+      "sources": [
+        {
+          "name": "Extra online",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQlRtV2dsaDQyVlVoUUpDVkFqdlRoT3NiellHWVloMF8tTGN4OG1sWkdJMnJUazlwRU9pRzV2TGhwZE5VZ0xpNEd6WmhROHdDeFZyM0N4cUJLUkZIalBpSFRoVURxRzdTWW1rZmtWaVlMSTNwOXBndFR5YmtneVBwSi1hV3lUaTEwRG9ORndyenJRbExENTJ2TmpNdm1wczVrUFVtQm9QcVlfbFdNYjFheTRpV2xXa3h3bFRBOGF1Rl9DZUpqbjNwTU1jOUtiWEtoZ3fSAeABQVVfeXFMTTN4b3lTbWlVZmZVX3lUaWdrNE15ZTJmZ3NydDBZSnJYcXh3QkwyTHdKT1RzdktWaE1FNU14MUVwRUE4dmpJZ3lyUWkzNkR5T0tzdDZMandoRW5MN0JReGxBdHV0WjgwZ3lDTHF6N2tVb2Rka19QVEw3Q1I2MVQ4UGRCbGxzdklCeW1kb0hBRERZWGRMbk80YWgtS19JS0VhWGFjZGJza0tJcGFyMGV6enkxWHU3NXJQTlRVN2U4c2VYZFJUYWlvbkZwRldQQjhqLTl6N2JuSXk4a3g1c2hrOVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4b84fe989e69",
+      "title": "Prefeitura esclarece situação da ampliação da vacinação contra a Influenza em Divinópolis - Prefeitura de Divinópolis",
+      "published": "2026-05-12T14:19:51+00:00",
+      "summary": "Prefeitura esclarece situação da ampliação da vacinação contra a Influenza em Divinópolis&nbsp;&nbsp;Prefeitura de DivinópolisBelo Horizonte amplia vacinação contra a gripe&nbsp;&nbsp;G1Governo de Minas transfere capital para Ponte Nova e anuncia ampliação da vacinação contra a influenza em todo o estado&nbsp;&nbsp;Agência Minas GeraisVacina da gripe causa a doença? Especialista esclarece mitos comuns&nbsp;&nbsp;MetrópolesSão Gonçalo libera vacina da gripe para toda a população com mais de seis ",
+      "sources": [
+        {
+          "name": "Prefeitura de Divinópolis",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOS2NYaTNIVkhHNXE3Y1JQYkVRdmFYY0l1SGZkbnFNVGZrVFdyVVJYTm01QzNSLThnWkFmY0VDTF9mU0tMTHNURldWRllKaS1ZU1kxb25Db1dlYm9sLVdKMVJtRUlvRGhadkxYYzJGVFBLTjZiRHR6d0I2c19OMk9ZMjlOVjZWVEtWeVhZWG85bDAtTFc5dTZWQmdIb3JXdW9wUndndHNEdlZldHlYQzVhcVdrWEdpbko0WkJQdkQwWFZLeFM1eTBDV2VrX004d29HM0JKeXVIMnphYS1jNWVna0pSNA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7bc1d722dd9f",
+      "title": "Câncer cerebral agressivo: pesquisadores criam nova vacina que aumenta a sobrevida de pacientes; entenda - O Globo",
+      "published": "2026-05-12T14:09:25+00:00",
+      "summary": "Câncer cerebral agressivo: pesquisadores criam nova vacina que aumenta a sobrevida de pacientes; entenda&nbsp;&nbsp;O GloboVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
           "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUkFWRERNd3I5RkMyV1ZnSXppd21SaGZCaGdJam1tSE5JVWdvWnJCcFMwVWdxVVVFZ1ZYZVFFNE1oUGJUazRXSHJ2T0hqQV84VjJqa1M2bWt1U043NEVmNldnT1g5NGxqVXNYUnIyTUFQS1o2T192WlBrZTQ5Nk1YcGxxcnNZV20yLUNyR1Q2SG5DV2UxbU9CN2VOb0pyM3VjTmFHYk1IclNFVEs0VnFxY0dSR29PZVdtSnI1dEFWT0NXUzZXZkVOYjhQbm1PMjRsMi1DMzItdDJZZmRVa3pjaDlB0gHwAUFVX3lxTFA1ME1lSTVySWp1X1RKa3BOQ1hkbzBfb0I5bktlWTJ2R0lqSlR0ZXhkc0FId3dkbTBHWWJGcTQ5SzJPeXc5YW14Qmh4X2I5X3otazQwbl9FSkh2MHJxMHZnX3FES1VuM3dKNUFMc09sb2dRYVozWGREa29jZThSaVp2UW9kRFl5TnMtYWFPNTBnZ1JFUmdtai1yS1NjaTA0ajBYV21hdnBPbENSWS1oVkFrWklHQXc4TzBPRXBxSjJTbmhCNkhLWXdTT3BkNm9qaG9fR2JTc1FXXzdoUklUTllxT0twendPcWtPYXRuai02cw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRWlTcU9OOVVtWHlRYllRLU5JdHFyek5zTHR4eHpZSGZMcmM0MjN0Zy1JUjRGTkkyU0ZGYWEwWC1mcS1XTC1WbkJuQ3Z5VkZmUGVLV21EcmVNbjNENmZxS1J1N25UVUtNRmt2cnR1QkpQZnVaVVllNFNOZWFOVDRGY2xqbzEyM09nWkNhcjlHRWoyN2psY3FXLWZPbHRoVjNlQnZjT3R0NEl2Z09iZ01HTXROQ0Y0azdhQmRUOThzb2RaUXBfLXlZSGcxaDJQTGEtYmNIYzdiYWJnUU5FSnVTUVp1RWtsTkxhMzkwWDZR0gH8AUFVX3lxTFBnS3EtWXpnNWtQZkZsQXg0X0lrcTNjdHh6ckUtYkQ1V3pON3hHRXllRUpPYTRvUkl6bU1zT2VUeXhwYXFZMmtuSDh2Y01TakhWU25GSHdna2g1R0ppN05HV1hmSXdyTGtMaW5nMWZ2Y2NYQzdLQ2JHcjdaNzEzSE9oUy1hbTVuZWFXWUsycTdadEptQzdGblk1anlBV056WlhpaWhUb0VBVFJTU3FwYW1talNLaUV1ekZBOEctZVpLYmcwNXpJcXNmR2JPSFhaXzE2bzV1eHRrUWl4X2VRT050dHNpNHJBdS1ibW1abUNfR2E2alVYZ292Q3FzSw?oc=5"
         }
       ]
     },
@@ -66,14 +222,26 @@
       ]
     },
     {
-      "id": "41925f795f21",
-      "title": "Cafeína e creatina melhoram o cérebro? O que a ciência já sabe - UOL",
-      "published": "2026-05-12T12:51:51+00:00",
-      "summary": "Cafeína e creatina melhoram o cérebro? O que a ciência já sabe&nbsp;&nbsp;UOLCreatina e creatinina: o que são o suplemento e o marcador da saúde renal&nbsp;&nbsp;Estado de MinasCreatina é benéfica para o corpo e a mente? Veja o que a ciência mais recente diz sobre isso&nbsp;&nbsp;O GloboCreatina faz cair cabelo? O que a ciência diz sobre o tema&nbsp;&nbsp;Assine AbrilO que a ciência diz sobre o uso de creatina para a saúde cerebral e prevenção do declínio cognitivo em mulheres na pós-menopausa&n",
+      "id": "fedb093e1042",
+      "title": "Aliens com alma? O que dizem teólogos sobre a descoberta de alienígenas - Gazeta do Povo",
+      "published": "2026-05-12T13:20:00+00:00",
+      "summary": "Aliens com alma? O que dizem teólogos sobre a descoberta de alienígenas&nbsp;&nbsp;Gazeta do Povo",
       "sources": [
         {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPY1NGc2dFaDgwMmVUel9SSUhsYkdoR3h0RWItVlVXd3ZHdEx4WEowdWgzZHRUWWp3YnEtRFpHRzFtcDgzcGRyRWt2V0VNWURzeElqUVdkbHFzYnA2RGluOWRQdWdJWlJRb0pwZ290UzlNUGpHNUg3NzRsU3FBUlRST0JKM1ZBNWRDSTJ0NEtZZEhqUWItWjBmZnRUTktTc0U2eWxuT29fVFNOaHZCcVo0RnlrVWtDbW9JcXRWeFcydlNCY3RGSVE?oc=5"
+          "name": "Gazeta do Povo",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMVhpUmdsdEZUU3EyTUloWGlJT29MVXNmVUZ3a3NHQjJrUFhfcUNmMDI5UXdmc1ZCU3ktQ0N5Um05ZDA1X3pLb2MwbGc2MG53V1h4YUV5aWNDQU1JMWFzejY1RUt0U0otMU9IOGxHNzl3bjQtYVNtWGhvWHE5dEdlRXpLZnlxbFl1SFhsMWVUWHNjbDlmakJhYXFmNjFaNGwtcTNWOGwtZVlKdTNuUzFJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8690e8b189cf",
+      "title": "Jundiaí recebe nova remessa com 15 mil novas doses da vacina contra a influenza - jornal da região",
+      "published": "2026-05-12T13:13:03+00:00",
+      "summary": "Jundiaí recebe nova remessa com 15 mil novas doses da vacina contra a influenza&nbsp;&nbsp;jornal da regiãoVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "jornal da região",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYXM1bktReEswR1dCcV9veVFkNlpxdGVQaW5jNjZxWEU3dV9fNXVVTHlJdm11Ujl5dl9DSGdxazNweGRQMF9seWJYTDhJbEZHQzNaTkJpUmJqUmJRT1VET1Z4VTlPazBTXy0wdlF0a1Z1NURDTmRTdEI0VlFZM09GeG1DQzZKZURGb2pyU3ZlX0pnUGNDVGhDY3NsUkM4VldKckhNbC1jb3plVkxRWkE?oc=5"
         }
       ]
     },
@@ -90,38 +258,14 @@
       ]
     },
     {
-      "id": "36a1a3cb7d41",
-      "title": "Bomba nuclear explode no deserto, derrete areia e cria um cristal raro que cientistas dizem não conseguir fabricar em laboratório comum - CPG Click Petróleo e Gás",
-      "published": "2026-05-12T12:29:00+00:00",
-      "summary": "Bomba nuclear explode no deserto, derrete areia e cria um cristal raro que cientistas dizem não conseguir fabricar em laboratório comum&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOZEg3YWRpUG1wMVU4aVoyNTdDV0JGNndBQUdiNm5NMGxiSldDN2JJbjRHdW4yTUM3WFl5azFNUG1uaHZoRFE4SXN5TGdnSEZVZmxQMEUxUV9IUElBQ044YUd4RkI0VkozNl9pRFhaekNqVGFNSkJrX2JxWUNWSEV5Y2o2WXlWVElVSTlSNlBpaTYxbV9vdDZfbEFPbXdnQ2JuT2xqNHU2TDVhUlYxZEFCRnBlNmFBaU9PdW1zZ2Q2ejlTZE9ZZnQ5U0ZxQzhNQXBVLXlNNWpCWTFRLU5XRjdEdGNfSkw5UEJjTV9SOGZfRExjN0dlZG1ORWZKZkdqa0p3anBGcFdn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4d1309bc1f07",
       "title": "SUS atualiza protocolo de asma com novas regras para diagnóstico e tratamento - G1",
       "published": "2026-05-12T12:00:33+00:00",
-      "summary": "SUS atualiza protocolo de asma com novas regras para diagnóstico e tratamento&nbsp;&nbsp;G1",
+      "summary": "SUS atualiza protocolo de asma com novas regras para diagnóstico e tratamento&nbsp;&nbsp;G1Estudo aponta que tratamentos inadequados podem agravar asma&nbsp;&nbsp;Poder360Veja como usar dispositivos inalatórios; 87% dos pacientes erram uso da bombinha para asma&nbsp;&nbsp;G1Estratégia Global para o Manejo e a Prevenção da Asma (GINA 2026): o que mudou?&nbsp;&nbsp;Afya | HomeSUS muda protocolo da asma e abre caminho para novos tratamentos que podem transformar o atendimento de pacientes graves no",
       "sources": [
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVmlVeUZtZjBpcWZmc0l1aEsyRDNHV1ZOTUd6Nm5pY05aME1lWWhPcWZhcXFXczZBcU82YUFkOFFiM2wzYlBmLU5kOGdpSEt5Rkg2ZFBFclI0X2JQN1RPaUNOWjY3cm9Ud3RqQW1fbmJ5cXpyUzZvRlozbG5zZUtZaWtpb0VVdUhSQTZGSXl6UElXV1NCQVBfMEVhT3gxWGRuTXBKZnNPS1VaNG9EVzFyaWR0QlhfbGJQQkZWQUdqSk92dVJiT2ZORNIB1wFBVV95cUxNY2k3MjMxelh3QlRvVUZHaUl0aE16aG9QY0VQSTk5QlhsZDFQVmJkNkIzUGZkSFFWMWJOek5aaE9IZm1mRkJVSnJEUjN4d0NfT093MFhqUmtpM1pjbFZLVWktUkNFN3NNVEFMWGdmNGtscmxVWEhiUmVsemdtdGRqSHlFakFvd2ZyNjlNT2dmSk53d2dWM0VIRURZUVhvbUZyaXNiOVpxTG9oNDJZcmhTWEY0Rkk3RVhlSF82UnhXd3VWYkdFYmJ4TEkxU1hJdVJQZWQtenY2SQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f2b791b065df",
-      "title": "RS registra dois casos de hantavírus em áreas rurais; um morreu - CNN Brasil",
-      "published": "2026-05-12T11:32:00+00:00",
-      "summary": "RS registra dois casos de hantavírus em áreas rurais; um morreu&nbsp;&nbsp;CNN BrasilHantavírus mata quase metade dos infectados no Brasil: onde há mais risco (e por que não tem a ver com surto em cruzeiro)&nbsp;&nbsp;BBCSecretaria de Saúde confirma morte por hantavírus na região do Alto Paranaíba&nbsp;&nbsp;G1Secretaria de Estado de Saúde esclarece risco de hantavirose e reforça prevenção em Minas&nbsp;&nbsp;Agência Minas GeraisCasos de contaminação por hantavírus em 2026 no RS não têm relação ",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSlVsd21PVXVqTk9uUDVaVEFNaGtNV084TkZuVW9ESjFsdWlMOGc2OWJlYzVINnJobkp1U2djMGVxV29sTWxScG8yVU9MNkN1eGpPTVFUMUdVLWxCd3pfWXZPS3lydU8yLU1WU3B0bjQyUmZzazNhbU5GNFRSVVJOdGRtckxEQzc3QmRXSWtSa1Jla1lWSjhrWVZyOEFNcmJQMDNFNTJQVTlMWE15?oc=5"
         }
       ]
     },
@@ -138,38 +282,26 @@
       ]
     },
     {
-      "id": "33aab4b0b4bc",
-      "title": "Veja quantos passos você precisa dar por dia para não voltar a engordar após a dieta, segundo a ciência - Jornal Correio",
-      "published": "2026-05-12T11:00:00+00:00",
-      "summary": "Veja quantos passos você precisa dar por dia para não voltar a engordar após a dieta, segundo a ciência&nbsp;&nbsp;Jornal CorreioCientistas descobrem quantos passos por dia são necessários para manter a perda de peso&nbsp;&nbsp;O GloboCaminhar 8,5 mil passos por dia evita ganho de peso após emagrecimento&nbsp;&nbsp;MetrópolesEsta \"simbólica\" quantidade de passos por dia pode impedir ganho de peso, afirma estudo&nbsp;&nbsp;TerraCaminhar 8,5 mil passos ajuda a manter perda de peso&nbsp;&nbsp;Agora",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSTQyR0ZrSThsTEUwT3ZBV0E3STV5eV96ZVgyWl8zUUhfUVczRlVIUklacnd0bGNVSFhuVnRueTZHRjhLVDBCVFE4RzZLdl9qREtkQzZDZGJQbUgxX1NhNHZJT001MUZPbmhTazFWYUJiSWVBVlJJZEhBOWRFVUszLWRzUm10VXdVNE45azV2VTliVlluVkFxLTJTdF9iX1VCUHU0SXJKLVJNX2lVX3JGUkluNXZIbUpETDk4VkpoQVpvV2ZmNURnTlBHOXBiZlNseGk0UmlzYk9SMkkwUDRJTWQ5QQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ce011e6cd33a",
-      "title": "Ação do MPF contra médico por fraude em pesquisa sobre Covid é um acerto de contas - Folha de S.Paulo",
-      "published": "2026-05-12T11:00:00+00:00",
-      "summary": "Ação do MPF contra médico por fraude em pesquisa sobre Covid é um acerto de contas&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYTkxdHZyZ3pfcEJqdWt3ZG5YTENDSTBrQ1czM0RSRUlQYldWbUx3cjdBQjg4VmVGd3gzQXlPWHZlZVd0Si0weEdCd3p2U0kxS2tzRlhBTnRMWnVid0h4Q0x2YmlZZkEwbjJtZ1lOMkxzM185djZpQnNwbHZQc2hRVWJjUk1VWUdjR0t2cnV1bDVGZGFBUXhJWkJneWNuYy14UUZ2b3B5OFpQM0piTU5UMy1HMXRNa2Y2OU1KMVMtUktES1JxM251NjA1dk9PU2FCcDk3S2dITEVYblN0N01JcDBB0gHnAUFVX3lxTE45WExhV1E3UkxoRlpYZmZUUHlSUUNMZFROM0tTWWxoWFlfSG9sdFdJSi13RWZCd1RoZWlkd3dGMkpldnF0UEQ2OWllSGduam9GMFBJMWZaOHAtQnZSSkR3T2swSnpGRW5JTjNobk4zQnBWZ0NjZUYwTng1RGc0Ujd4M09veVpWVEFfNWpEUEFYdUtjcXB5bnV0REVDb0QwM1VGYS1FcG5oOVNqMWhFcXVfbVVGOFBUdEt5RlJZNnhCSTdzVUUyLUVEa0lkSUpUY2NpcVZqZ1RXMmVDUGNwOHlnN0V6VzROaw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2fb956744986",
       "title": "Atividade física após diagnóstico de câncer pode aumentar sobrevida - Metrópoles",
       "published": "2026-05-12T10:00:45+00:00",
-      "summary": "Atividade física após diagnóstico de câncer pode aumentar sobrevida&nbsp;&nbsp;Metrópoles",
+      "summary": "Atividade física após diagnóstico de câncer pode aumentar sobrevida&nbsp;&nbsp;MetrópolesExercício online melhora saúde cardíaca em sobreviventes de câncer de mama&nbsp;&nbsp;R7Estudo da UFPI revela impacto da alimentação e do treino na recuperação do câncer&nbsp;&nbsp;G1",
       "sources": [
         {
           "name": "Metrópoles",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUnBMdlNzUlpOYWE0dUtPSFo0UGFPNzVPemVlUVJPcE0yOXRFbWp6WF9LLWZJalY2N1BGT3VKZmoyNHJHRU1GX1ktWkt4SWNrcW1yV2J3cFBST1Y2RHp0MDdacnhVdDV1Q2NYRW43cDhXQWQ3ck1pOXhhOGxvRGFwODlNcmRUaHNCNkl3WHNfOU8zRVJxWHJOVm9iOA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b5fb875e936e",
+      "title": "Luara Fonseca diz ter passado três dias acordada antes de diagnóstico de transtorno bipolar; entenda a condição - G1",
+      "published": "2026-05-12T08:31:04+00:00",
+      "summary": "Luara Fonseca diz ter passado três dias acordada antes de diagnóstico de transtorno bipolar; entenda a condição&nbsp;&nbsp;G1Luara Fonseca, influenciadora de Santos com 30 milhões de seguidores, revela transtorno bipolar em seu aniversário&nbsp;&nbsp;A TribunaInfluenciadora revela diagnóstico de transtorno bipolar e faz desabafo&nbsp;&nbsp;MetrópolesInfluenciadora Luara Fonseca revela diagnóstico de transtorno bipolar e faz desabafo sensível sobre os sintomas&nbsp;&nbsp;hugogloss.uol.com.brSanto",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPdHZmQ0tzSGowT3Fmc1N6QjJlcDRIbUpnNW9oc0NoQmx6TWF5WlFBQlJnQ1BxUGFROXlJakhuNHgwTWdtQ19waWtNWnFtRHl4MTNkNDFfeFdzUklONGFJcm9EUVVNMEVXRXpuSzFVbW1PdWlmT2lsS2l1QUxickVkZ3g4N0EtZ1UxTHQtMWNGNnctRUhyRkdsTmhsSDAzbFMwTWkwd0pqRFBhY0lSbjdHNXZsaHZ2aUNGajVsNld3WUdMWU1GdzNqd1FOMW9MSjE2cmVCb1RqUDFDQkVhcnFkSGI3VnVCTEk1bWZ2X09UTjNMWVJrbnhMQXROX3VzaVN4NjBhUVFiMnNvZmRJUnA1TWx30gGgAkFVX3lxTE9jaktvVElxMnQ2TmZxWkI4aVBYclFhdUtlZFc2T1UyVWdnclFWR29hWXJMWmY1TEl1T1U5eGlEbjlPdXpPb1F3bHU1OHVwYWR2cThaeHV0YzFteC1pV2MzbDc1LXd6VzBVU3puS0N4cENoRHFRN3hpNkU1UmNKV2NUV2xLRFpSWXBjQW9pNTZjRy1uUzl2QUFqTEhvMGZsbkNJYXFSblVCMVhoZ3lRRHBURDNqamg1UGhwNGR3clZWMm9KeVUzVUIySF9RcUVUam56b3M1eG5PSU1EOUxVTEVndUFPb2FaTEpMWmQ1Q2FBdk9HaXFRUlNhV2M0XzEtNGxUQWpWdEtCa3A0VnZFZEdvREdHSHNYZDVJTGJ2Z1Y0Xw?oc=5"
         }
       ]
     },
@@ -186,22 +318,10 @@
       ]
     },
     {
-      "id": "0e63247b2524",
-      "title": "O câncer pode estar no DNA da sua família: maior estudo genômico do Brasil encontra mutação hereditária em 1 a cada 10 pacientes - G1",
-      "published": "2026-05-12T08:03:54+00:00",
-      "summary": "O câncer pode estar no DNA da sua família: maior estudo genômico do Brasil encontra mutação hereditária em 1 a cada 10 pacientes&nbsp;&nbsp;G1O câncer pode estar no DNA da sua família: maior estudo genômico do Brasil encontra mutaçã&nbsp;&nbsp;G1Estudo inédito mapeia DNA de brasileiros e descobre riscos de câncer hereditário&nbsp;&nbsp;Olhar DigitalEstudo aponta mutação hereditária ligada ao câncer em 1 a cada 10 pacientes no Brasil&nbsp;&nbsp;cidade997.com.brEstudo inédito revela que 1 em cada ",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOdkxxTU5tZW1hR3pRTzhxZWJZMWdzTzVsSWh2QXZPWVVOZFBYMzZMcU4zbVhkZ3VHT3RabG9ZR3JYZXlSVzZ1Rko1NUMyU1lFb3RQVUgtWklsRWx0VFhTQVQtZ3I1Qml6bXE5ZXI2RF9FU1lkaVJhUEF2R3ZxbWNLT3ZySXdkU0ZERVNaZUozakVjTW8taWJHZDFldUllZlBjRmJ3WDJEczNvc1VVakNTWlRsWEtXN2UwTUtVZVFWYUxJeUlpcmRYbmpWT2xhZ09WWk82UWRBY081VUtCTFJTY0d1RERhazJzQTFxbE5Zejk5NXktbFBQTXFRbGhJNTRHRlhIeHJHNmg2Tm_SAZoCQVVfeXFMTXpJUWFXMzJhNjN4SkNEUWJLMU9iaEw2cWZ2RVVTdlp6OUx6NVg4R1FtdU4tVld4a2EzcWJHWHNGVmgzdW54bEdCYWp3SEl0cjI5TDcyRzlUS1NMbXRncnZJQWo0b29GeTFxank1UjNwU1dwYXc2LXJZR3Z0YndhdUlxQ3JEdjR0WFdyR28zYnY2bzFXNHB2MTRadTJleTJLX1d2VkJvd3Rpa2Y4cFVqOUtmX1hGNm1seW9CYld1TGo5dUJuT1ZLdS1RY0hLWWhSZWp0bmRna25MbEY0SllxVXNTWnVWbDk3Um10U1g2Y2M3VXBTdUFON0dnSDhXaDZCeVU2Slp4UnJMTXY4ejlOWnF5dXZReHE3LVZR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c669c2b44ee7",
       "title": "Alho negro: como esse alimento age no combate ao envelhecimento - O Globo",
       "published": "2026-05-12T07:30:42+00:00",
-      "summary": "Alho negro: como esse alimento age no combate ao envelhecimento&nbsp;&nbsp;O GloboComposto do alho ajuda a travar perda de força muscular no envelhecimento&nbsp;&nbsp;Jornal de NotíciasAlho pode ajudar a reduzir pressão arterial e colesterol? Veja 11 benefícios que a ciência vem investigando&nbsp;&nbsp;Portal UAIO ingrediente comum na sua cozinha que blinda o coração e aumenta a imunidade&nbsp;&nbsp;Revista Ana MariaCientistas japoneses descobrem que alho pode retardar o envelhecimento&nbsp;&nbs",
+      "summary": "Alho negro: como esse alimento age no combate ao envelhecimento&nbsp;&nbsp;O GloboAlho negro: por que este alimento é o segredo da longevidade&nbsp;&nbsp;TerraAlho pode ajudar a reduzir pressão arterial e colesterol? Veja 11 benefícios que a ciência vem investigando&nbsp;&nbsp;Portal UAIComposto do alho ajuda a travar perda de força muscular no envelhecimento&nbsp;&nbsp;Jornal de NotíciasO ingrediente comum na sua cozinha que blinda o coração e aumenta a imunidade&nbsp;&nbsp;Revista Ana Maria",
       "sources": [
         {
           "name": "O Globo",
@@ -218,6 +338,18 @@
         {
           "name": "O Globo",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNzA5SHVuaUtZMVlvb05pSk5sVE1uS25SQ1B2QW1sbU51QXFmeGJEYmtWbm1xTWlqcndsenhwM2FDSU94b2JlSEVXc3JsWVRDMmFtTTBnaXB4MWtELXFPVmI4aEVOX3Q1VlhFci1xQUgzWXFfT1ZQTWdjdkRsMzdZU1gyV2VmZFU2VE9LV1hFMmlsVlEzQU1lb04zSW5ta0I3RW9HQnpZQnZmMTNXOHZJNUFUUXlLSnJjWlM2OXN2QjhqXzhHdDJGMEVVS0UxQdIB3AFBVV95cUxPWTFYVmZTTUNMSWhZTXdBSXkzQjJnR1N1VTFNT1czQ01LVDNhanJvVDVzeXhMTWtOWXVMOUVpVDVNSUt6QVY0OGVKYm1pdkdUOFQyVTMxRWtjV2VmMl9HbmdQNkZYLWNIdkFFNkhIcFF1ZENkaTJ3Y0NUSmpwOTFNWGlmU2JwXzB0aE9Kd0dEN09tVzItRmpvOHg3RFUzbEpCWUNWUGp1cm1kcU9GZ2x1N0pnd0xGZ2ZRWDRORGVDdHRiMlpFdmNFUmNIMllKcUl0ZFNaTl9kUDJkUXJy?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "877090846ddf",
+      "title": "Hantavírus: entenda o cenário epidemiológico em MG e as formas de prevenção - R7",
+      "published": "2026-05-12T05:00:01+00:00",
+      "summary": "Hantavírus: entenda o cenário epidemiológico em MG e as formas de prevenção&nbsp;&nbsp;R7Hantavírus: RS registra duas infecções em áreas rurais e um óbito; casos não têm relação com navio da Argentina&nbsp;&nbsp;G1Vírus letal que mata quase metade dos infectados está circulando no Sul, Sudeste e Centro-Oeste do Brasil&nbsp;&nbsp;Diário do ComércioSecretaria de Estado de Saúde esclarece risco de hantavirose e reforça prevenção em Minas&nbsp;&nbsp;Agência Minas GeraisHantavírus: entenda sobre sint",
+      "sources": [
+        {
+          "name": "R7",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa1BTNm5FY0ZzRTBjN3VZRU1yLUFhNnBnQUY1bXBwQ2E0VkY5cEFVMlV3am0tUjRYSnBxb19RdlhRNW0yZlU1NHpGV2d5dGdQUUZIWU5zVkt5dWhSNTB6VUZzMGdCRVliZHZ2dG9nOXlySHlDb1pzVXo3dVNGZWVjS3dkQlFneU0xdWdSWjRvUkNaeXNLZ1JveTMyS1pwYzM3aGlXSnpGZnJ4aUVORkNtUmVYOU52SHg1WU9ZSV9B?oc=5"
         }
       ]
     },
@@ -246,6 +378,18 @@
       ]
     },
     {
+      "id": "7fb23ad57792",
+      "title": "Como o acidente radioativo em Goiânia mudou o tratamento contra o câncer - CNN Brasil",
+      "published": "2026-05-11T23:50:54+00:00",
+      "summary": "Como o acidente radioativo em Goiânia mudou o tratamento contra o câncer&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU1lvQVN1NEdKMWdrOFVmakpFTnFEVmZqa0dKeTdSSnU1NDlpbFMxZnRKRW1YeUNubXRTZHllczFZcmlhLUJnWk1Qc09wbHBIcFlSbVBzbzdoSTRRY3lzR21jWFpIQmdOTHJGTEEwNmlBUjFyODNwby1PSUxxVTNOUGhZV3BLRGtkNUE5azlXTW9lZnh3ZHFtdTZKWWd6MldqQ2h5QlBVUlp4cjU2?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e9e785567825",
       "title": "Hospital de Base identifica pacientes com doença que mantém colesterol alto - Correio Braziliense",
       "published": "2026-05-11T23:36:00+00:00",
@@ -258,38 +402,26 @@
       ]
     },
     {
-      "id": "59c4c995e3fb",
-      "title": "Minas Gerais amplia vacinação contra gripe a partir desta terça-feira (12/5) - O TEMPO",
-      "published": "2026-05-11T21:21:19+00:00",
-      "summary": "Minas Gerais amplia vacinação contra gripe a partir desta terça-feira (12/5)&nbsp;&nbsp;O TEMPOGoverno de MG anuncia ampliação de vacinação contra gripe a partir desta terça-feira; Prefeitura de BH diz que precisa receber novas doses&nbsp;&nbsp;G1Vacina da gripe causa a doença? Especialista esclarece mitos comuns&nbsp;&nbsp;MetrópolesGoverno de Minas transfere capital para Ponte Nova e anuncia ampliação da vacinação contra a influenza em todo o estado&nbsp;&nbsp;Agência Minas GeraisMinas Gerais ",
+      "id": "2a71be82ca9b",
+      "title": "Anvisa libera registro de remédios para tratar psoríase e asma - Agência Brasil",
+      "published": "2026-05-11T23:16:00+00:00",
+      "summary": "Anvisa libera registro de remédios para tratar psoríase e asma&nbsp;&nbsp;Agência BrasilAnvisa autoriza novo medicamento biológico para doenças respiratórias&nbsp;&nbsp;www.gov.brNovo medicamento para doenças respiratórias é aprovado no Brasil&nbsp;&nbsp;Metro 1Anvisa aprova novo remédio para psoríase, Crohn e colite ulcerativa&nbsp;&nbsp;4oitoAnvisa aprova novos tratamentos para doenças inflamatórias&nbsp;&nbsp;Campo Grande News",
       "sources": [
         {
-          "name": "O TEMPO",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQekpZdS1IaFhNZmdKMEJyd1ppNXpqN2dIZk1XZmRvdDc3Q1JIUVJVeXRSZllrNTJKS0Ryb3JIRklNak9EZHpFcUtLSUpySS1ocmRIYnpBXzBFM2RDdzhlNU55QjdEQUVfSllEWnZuVzNkemlZaTAwaFBkWDdFVVNUSUZpdk13MDBReWVYSDZTcjFQMkZOUDd0Z1VoSWt6di00dG1GamlUVGdFQTR2VHZiQVVMRWd2VXgxRmc?oc=5"
+          "name": "Agência Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbzM4SWxkLTFldW5yeWVqNk5XMDNFQWxfT1B4ZmIzWlNJY1pOa1dLRy14bTRSTS1kWnR0TkhjWk5mZFRCX01DQ2tEdGtjYmtFODA2Tzd4WkRkdGhxV0lyWGNFQWwwVkdrVlB6MzYxM3JZcktPdi1GQllsdmJzMG90NjZvVmYxR2lGR0kzYzRxVUdNM3RQNE56NWE4ZTJTR1FiV01KUW9NOXlib3k1OG9ScXhiMDVzRENR?oc=5"
         }
       ]
     },
     {
-      "id": "be6c15dd4fc6",
-      "title": "Nasa usa \"relógio\" brasileiro para monitorar saúde de astronautas - Poder360",
-      "published": "2026-05-11T21:18:31+00:00",
-      "summary": "Nasa usa \"relógio\" brasileiro para monitorar saúde de astronautas&nbsp;&nbsp;Poder360",
+      "id": "520bedb0f5b8",
+      "title": "China lança foguete com suprimentos para taikonautas; veja vídeo - CNN Brasil",
+      "published": "2026-05-11T22:32:27+00:00",
+      "summary": "China lança foguete com suprimentos para taikonautas; veja vídeo&nbsp;&nbsp;CNN Brasil",
       "sources": [
         {
-          "name": "Poder360",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaWV2cV9KZXByeU9QUGxwQmU2V3FreDZwMGR6Q0RuQ3RHajJoeWNVQUUzbTFIdWdleXc3Vlh3a3FxcE5EMDgtaU40Wml5cnN6amVhb1pkLUdNZHFncTlUVXM1WlRFTDA4WkI1THgzZDI4WVpKUTNOU0VLNzRiVHE3QTNCTkU4cXBWT3pDamprbjkxX2VhM2xQa1p0MHBiM3ZSajRIaHl3ZzJwX2k2Q1g5dktB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7b4e11e42350",
-      "title": "Vacina da gripe: Jundiaí recebe 15 mil doses - jornal da região",
-      "published": "2026-05-11T21:10:23+00:00",
-      "summary": "Vacina da gripe: Jundiaí recebe 15 mil doses&nbsp;&nbsp;jornal da regiãoPasso Fundo amplia locais de vacinação contra a gripe; imunização segue para grupos prioritários&nbsp;&nbsp;GZHJundiaí recebe nova remessa com 15 mil novas doses da vacina contra a influenza&nbsp;&nbsp;Prefeitura de JundiaíVacina contra gripe está à disposição em 16 unidades de saúde&nbsp;&nbsp;Prefeitura de Porto AlegreCampanha nacional vai até dia 30 e Saúde de Várzea Grande segue busca ativa no grupo prioritário&nbsp;&nbs",
-      "sources": [
-        {
-          "name": "jornal da região",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1LeWVSbWM0NGMxUlFuRS1TUHVfR3pYUTdPSDRfS2RqeUQ3SkNGTmE2TmlnMGk3UXNqemRIbk9zVk1lNkpCWlVFdGR4emQ0OUp3d1BUeDFtTnB2Zm52cUx3a2xKV28yM3E4NHdoc2FjcmhtbDRvb0RIclNLYzNndw?oc=5"
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNmNubUxJQWFCRWppTnF1ZTZFQ1FTZ0dkTGtTMWZBb1NrUXJwSFRxRDd1LXl3emE1SkpyMFg2YnMtVWlKb3lfZXFKZzdyc05CTlA3ZU1qVmo5eEp5UDRaNTdmQ3lQZ1FiMzBWbUdQYUFoQUxlbEJzRm04RzZTUFlEU1NZMDZjVTRva3JqUjRUVDdSNUY0TEhZdFZ3VUJzSC00Mk9Z?oc=5"
         }
       ]
     },
@@ -318,30 +450,6 @@
       ]
     },
     {
-      "id": "b513eea97f0d",
-      "title": "Pesquisadores registram agregação inédita de mais de 15 meros no litoral alagoano - Universidade Federal de Alagoas",
-      "published": "2026-05-11T17:38:38+00:00",
-      "summary": "Pesquisadores registram agregação inédita de mais de 15 meros no litoral alagoano&nbsp;&nbsp;Universidade Federal de Alagoas",
-      "sources": [
-        {
-          "name": "Universidade Federal de Alagoas",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOazZKUVVhS0pXZ3A3YzN3dDlKMDRCS3VJZ256MWxQZFBlWklCeEFsUnFWd1p3SzAyMnctbTk4TEllQmpoaU1LYW5ReGEtY3dfT1R6M2hmYXhHVk5vckZVQUZJSFBubXRXLXF2eWhVNlZEazVPNWhfYXZuZy1OemRCZHQ4RlcyUnZwSmhhUldsV3lTb2dtakN5WTZKY1AySUVyU1hnbGhGWEtIZF9Ga21ZRnduZnNXaDQ0VmpSTXhhdldxWVo3b1E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "51e18b93b0ca",
-      "title": "Asteroide poderia gerar o caos na Terra até se caísse na Lua, alerta estudo - Olhar Digital",
-      "published": "2026-05-11T16:50:00+00:00",
-      "summary": "Asteroide poderia gerar o caos na Terra até se caísse na Lua, alerta estudo&nbsp;&nbsp;Olhar Digital",
-      "sources": [
-        {
-          "name": "Olhar Digital",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbWhNVWtOa0VKMXVtdFBuTE5pN2RURFlTUWZqbzRPeFotUENvdnlwbTR0LUJxdG9YVFRlSnF4djRVdWg2WkdHZ2pQdGVJck02bjNHZWZSZVVPelNRZXFzdkFhZ2Nmb0Fjckk1U3hlUU5DUGFoQnVfVHNzaThzczNUWFpicWFDYVdjSUZERWM2VE84YlVDRHhodzZRZ01YV2E2RFptdDIxNlh0elQyV0J5dldpMnRwWlpFc3o5R3JPMUJQLThPT0dfaGo1bw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "fbd671052f0b",
       "title": "Sinais de gordura no fígado que aparecem antes de alteração nos exames - Metrópoles",
       "published": "2026-05-11T15:39:00+00:00",
@@ -366,18 +474,6 @@
       ]
     },
     {
-      "id": "7e3b6678f449",
-      "title": "Spray nasal desenvolvido para casos de AVC consegue levar remédio até o cérebro sem a necessidade de cirurgia; entenda - O Globo",
-      "published": "2026-05-11T14:19:38+00:00",
-      "summary": "Spray nasal desenvolvido para casos de AVC consegue levar remédio até o cérebro sem a necessidade de cirurgia; entenda&nbsp;&nbsp;O GloboSpray reduz danos do AVC&nbsp;&nbsp;Agora RNEnvelhecimento cerebral é revertido com um spray nasal&nbsp;&nbsp;Diário da SaúdeSpray nasal pode ajudar a reduzir o envelhecimento cerebral, aponta estudo&nbsp;&nbsp;Diário do ComércioCientistas dos EUA desenvolvem spray nasal contra demência&nbsp;&nbsp;Diário do Centro do Mundo",
-      "sources": [
-        {
-          "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNeXV2OENTYWh1U0R3SlpHSDRtZHlVbU9heDcxSy1hLXBEV1Z0a240TXlKWGw4dXYtblI5dUFybDVmUWJtanlEb2ZOTVJmVXExc0NhajRnRDF6MHk3R0IxaGtsUWtJanpKRWppZ2UzcHVncFpWT1NiUWE5QnQzYlcwRU5QcWJpOUx0aU1sY0ZpSjVCejJSbmVmZDh0SkhkRXFNcXVGMVZmU1RIbFVUaUpKQUQ1ek9CV2JiczhPdXRfZFFLSnBYVjZfQTJzSS1IQXgyRGNPa2FZYTVwOXZ1aWRqdDNNRkxjSTlpLWFQdlRabUl2S1hzOWFoX2dZRWs5dWFpSmhmM9IBkwJBVV95cUxPWVhvTFZvazlDMUZZeXRuRnY1bzVfN1ZHTkM4VEFlR3ZoTXEzeE5HNDQzRi1fRmZnVzZERW9CSXdiYk9jMXBOSk9lMHEtZ0pZYjItZ2drYmZlU01JY2dYenpFeFpTajJnMUhjUnRqWmQtcmZaa2htRVFzd1puSllTWHNaaFVaelFjSC1RYWx1U2l5dGNwQ0NXNzU0cEwxMy1RSXlZM1VMbHpJb1B2WEZQa0RFZVI3Y0FmanpWM1NHSW0ydm4xem1MOGNtTzhOSkM1bm5ON2dYSDJqQW5VMkF6QlhwLTMwT2NMQWF4eDVyQTJLa2pVdDVQR1VrcW5aXy1DY2QzUzBkTFdVNmNlcDVsZnROUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7422527b71ad",
       "title": "Pesquisadores acham um jeito de fazer IA admitir quando não tem certeza de algo - Olhar Digital",
       "published": "2026-05-11T13:37:00+00:00",
@@ -390,50 +486,14 @@
       ]
     },
     {
-      "id": "b88355c03014",
-      "title": "Frio e gripe canina: como proteger seu pet em Campo Grande - Campo Grande News",
-      "published": "2026-05-11T12:21:00+00:00",
-      "summary": "Frio e gripe canina: como proteger seu pet em Campo Grande&nbsp;&nbsp;Campo Grande NewsGripe em cachorro: veja os sintomas e as formas de prevenção&nbsp;&nbsp;GZHConfira as dicas de cuidados essenciais com animais de estimação durante as baixas temperaturas&nbsp;&nbsp;RCN 67Frio exige atenção redobrada: gripe canina aumenta no inverno e vacinação é fundamental&nbsp;&nbsp;OCP News",
-      "sources": [
-        {
-          "name": "Campo Grande News",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcmJGUDJsSS15UW1BMlVTcXd2QzBLRkF5NGs2ZzloRE9UMldscjR5cldaeC1raVBicnlPUkR1Z1NuakZxdTljREk4eUYxdndzTC0wMDJuLWZkc1IzNkszcm5iVTNpUlRZcDNFT3VrWkp0M1BJVXFBOGY2OENhM1RENDQyMG1CMEtveUpTVUoteFdSSVdvb2xaWjZYb0xYOE5yWll4WVNUOXE2OXhKVzhJb2pyTnXSAbQBQVVfeXFMUFNyS1lCOENCNFZNQUV1S0dEdDV4dHVlRHQyZXpMeE5JOXltZ25kU3VLalRKYVNBR2sxUW8xcFh0X1RQZ0NIUlgzOURrVHJFaDE0RjRzc0d4MmRfdUV3LTE3Wkc2OF96eVFvQjJkd1BzbE1xakMyRzBSSzBOb0NmNm5nYVhuQzlKY1pRd0U2MUIzTjhYWEJDcVdlMDFkMExkcmhKNlBncG5acENkUThLd1VtVDFK?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7e46dbfda560",
-      "title": "Comer carne vermelha aumenta o risco de diabetes tipo 2? Veja o que diz a ciência - Jornal Correio",
-      "published": "2026-05-11T12:09:55+00:00",
-      "summary": "Comer carne vermelha aumenta o risco de diabetes tipo 2? Veja o que diz a ciência&nbsp;&nbsp;Jornal CorreioComer carne vermelha pode aumentar o risco de diabetes tipo 2?&nbsp;&nbsp;MetrópolesPesquisa com 34 mil adultos revelou o que acontece com quem come carne vermelha todos os dias, e o resultado foi publicado em periódico científico internacional&nbsp;&nbsp;O POVODesinformação simula debate científico para negar o risco de cancro da carne vermelha | Alimentação&nbsp;&nbsp;PúblicoCarne vermelh",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOHh1RDVUZkJWN0pBVjBTd3J0cUJiV2dRdG1PekxKMEYydnhyZlMzTHpMU1RTTGxVbnEtdWZ1bGk0WTlVMHFHd0h2c21VanRCbjU0TlFSSE13aUhRRjFvaVdIb1ZjX0hIbmtCcmNUYkVMTW5pWjlaWXBZaUlXV25qVk5qQzNTd3hSOERZRkx5NzZkWmw1RnJIMVkydXR3Z0pTVUFkVDU4MjVSSnhwbDBmU2RlV2hmZDczNTdKSXVpT2dJWGc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9537ef8cc707",
       "title": "Frente fria chegando: 7 dicas para não deixar sua imunidade cair - Super Rádio Tupi",
       "published": "2026-05-11T10:51:48+00:00",
-      "summary": "Frente fria chegando: 7 dicas para não deixar sua imunidade cair&nbsp;&nbsp;Super Rádio TupiProcura por serviços de saúde aumenta por síndromes respiratórias&nbsp;&nbsp;G1Por que o corpo sofre tanto com a queda brusca de temperatura; entenda&nbsp;&nbsp;Correio BrazilienseHospital do Ipsemg alerta para alta de doenças respiratórias no inverno&nbsp;&nbsp;Rádio ItatiaiaO coração no frio: como a queda das temperaturas aumenta o risco cardíaco&nbsp;&nbsp;Veja Saúde",
+      "summary": "Frente fria chegando: 7 dicas para não deixar sua imunidade cair&nbsp;&nbsp;Super Rádio TupiClima instável reduz defesas e pode agravar crises respiratórias&nbsp;&nbsp;Agência BrasilPneumologista orienta como se proteger de doenças respiratórias no frio #BalançoGeral #Shorts&nbsp;&nbsp;R7Aquecedor pode piorar rinite e tosse seca no frio; veja cuidados&nbsp;&nbsp;TerraComo a mudança brusca de tempo afeta sua saúde e o que fazer para evitar&nbsp;&nbsp;Estado de Minas",
       "sources": [
         {
           "name": "Super Rádio Tupi",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSjdHMnF2RlNwMzhHMWJjbmx1NHVRby1aM1VsZGdGWm5wUXdDMXlZd0I4R1J3bmRjaXhtVEpoYTEwcTNWSmFaSm1zTE1YNmRKRU9zdDF6YVVZMGRYNVRwTGVyTXRLWkI0RHd2YWRhRTR2MTVaejdmdDNfYy04M19nYl9PN2t5Yno0ZklCOHFuNVhhUm9PRFlzVFdNNnVYd0RX?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "882a6c0d649d",
-      "title": "Brasileiros têm visão mais positiva de si do que estrangeiros, diz pesquisa - CNN Brasil",
-      "published": "2026-05-11T10:10:10+00:00",
-      "summary": "Brasileiros têm visão mais positiva de si do que estrangeiros, diz pesquisa&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY2xnWmRSc0V0Z0hKX2ZnQkZwaWtyTnRHMWFfLU9IU0x2R0U3bVVBcXBBYUhuLXdpekV6ZlM1WEZndGJnZDh2cFQxODU5M3pIeHAwMUlxMVh0SE9zNnFsM25CUTlBcGdQbFVzOHA2a0VETFByVGQzd3ExTlJVeUR2ZWN5VEl4QjFERVphSTM1amVFejR4WlNyRDVGWlJuTkctd3o0V084dFVvTU9iU1N5OXhmZVI2RENtT0dHdg?oc=5"
         }
       ]
     },
@@ -450,18 +510,6 @@
       ]
     },
     {
-      "id": "0842b255148c",
-      "title": "Alimento popular pode estar prejudicando sua dieta (mesmo em quantidade moderada), aponta estudo; saiba qual é - Extra online",
-      "published": "2026-05-11T07:30:55+00:00",
-      "summary": "Alimento popular pode estar prejudicando sua dieta (mesmo em quantidade moderada), aponta estudo; saiba qual é&nbsp;&nbsp;Extra onlineComer um pão inteiro todas as manhãs: Nova pesquisa revela algo notável.&nbsp;&nbsp;Vietnam.vnEstudo revela que trigo de pães e massas desaceleram metabolismo e favorecem acúmulo de gordura&nbsp;&nbsp;Porto Ferreira HojeAlimento popular pode prejudicar sua dieta mesmo em pequenas quantidades, revela estudo&nbsp;&nbsp;Tribuna do Sertão",
-      "sources": [
-        {
-          "name": "Extra online",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQT0lIeWNBMk1pMThuOGtESjg4WEFZbl9ua2xFZlhLbjNFX3hWT2ZzR0NVVG9vc1VDLXFiVkVzbjczVjhONlhRZm1kZEt1SHZuOHZDandtckJpODJYb1ZyemFFUnFGaWdxSXdKTHJfQlRJR3JMd2w1bjBWWFVEWXd4elhURFJRcHUya2E4TVlBbGhTS3FjY2xCeXpyOTR6OUNwRnhUNVdraVQtWjI5bUw3NWxSNmxqRktBeU15UnQyNWRDdU9pUjJyYkZiU0xrREhpZTBtNHM0Y0xBVUZsRC11bW9haTFMQnBQX19GUTVPQdIB_gFBVV95cUxOQ2NOU2FIQnpsemZYanlheDhoNkpVWGI0RnI0LS1MaDA1V21aQUVFMXBCdjF3ZHhVOFRKTnprUTA5T0YzbjNjd1hFbWE4WHNnaHRmcFVQT2F1SVBUQldZMGYtQi1vblRPSXE3akhHeDJIdWhmYWI1RTVZNlFMRW9VLTZHd2drQzJaaFZzLXZacFhUMTJQOVFHZmtzLVE2VlBuZUdIREgwTEUtTWFfR29GMlJ2SzF4UldRQ0Nqb3Zpb0RsNGJzZWZwYS1reFdra21MTWhhTTBaQm1vVWNQS0swemJRalQybzFNLU9XdGw4aXMtajdzWXZLOXNWcnduZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3e1aaba85a04",
       "title": "‘Fadiga de decisão’ pode estar prejudicando sua dieta e sua saúde; nutricionista explica como resolver - O Globo",
       "published": "2026-05-11T07:01:28+00:00",
@@ -474,38 +522,14 @@
       ]
     },
     {
-      "id": "ce15a76eb42d",
-      "title": "Dores pós treino levam mulher a descobrir câncer de ovário avançado - Metrópoles",
-      "published": "2026-05-11T05:00:36+00:00",
-      "summary": "Dores pós treino levam mulher a descobrir câncer de ovário avançado&nbsp;&nbsp;MetrópolesPor que mulheres que nunca engravidaram têm mais risco de câncer de ovário — e como se proteger&nbsp;&nbsp;Portal Drauzio VarellaMaio Azul alerta para diagnóstico precoce do câncer de ovário&nbsp;&nbsp;G1Câncer de ovário: veja que sintomas devem ligar um sinal de alerta para a mulher&nbsp;&nbsp;R7CRIO alerta para os desafios do diagnóstico precoce no câncer de ovário&nbsp;&nbsp;istoae.com.br",
+      "id": "eeee64f048e5",
+      "title": "Cientistas descobrem quantos passos por dia são necessários para manter a perda de peso - O Globo",
+      "published": "2026-05-11T07:01:19+00:00",
+      "summary": "Cientistas descobrem quantos passos por dia são necessários para manter a perda de peso&nbsp;&nbsp;O GloboCaminhar 8,5 mil passos por dia evita ganho de peso após emagrecimento&nbsp;&nbsp;MetrópolesVeja quantos passos você precisa dar por dia para não voltar a engordar após a dieta, segundo a ciência&nbsp;&nbsp;Jornal CorreioEsta \"simbólica\" quantidade de passos por dia pode impedir ganho de peso, afirma estudo&nbsp;&nbsp;TerraCaminhar 8,5 mil passos ajuda a manter perda de peso&nbsp;&nbsp;Agora",
       "sources": [
         {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1OdlFtSzhCblRkM2Z1SFRSZVBqTm9KdFYwZllpZnBSU3dnQlpFa1NBRjhZQW9xdEt1bWM0bzNvR0RLN2Rva2M5QUhncGcxVnMtbk9pRDl6c1ZJV1FVVU02ZVlXZW05SUVLMnB2OW5vR1JTc3pO?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bda38d0f7709",
-      "title": "Pesquisador brasileiro cria modelo de viagem rápida a Marte e chama atenção internacional - Revista Oeste",
-      "published": "2026-05-10T21:42:53+00:00",
-      "summary": "Pesquisador brasileiro cria modelo de viagem rápida a Marte e chama atenção internacional&nbsp;&nbsp;Revista Oeste",
-      "sources": [
-        {
-          "name": "Revista Oeste",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaUh1dE1kTnFkRC1KV3RVRUpjNjBvQXlaTU40engyenZ4MHk3RVdpd01FMVZwVXkyMncxb3hpZ19nLXVSb2JwZ3N3dTFvLWlGYzJfOEo1U3JuQU1yRU1tLV9KVjk5azZpSklTSXBTZEZtdWpZVXdBdkRQakh1LVNhVnZqQll6QkFnSGxLU0FpblBEQ0pQNU9VN1J0clVCa1c5b1NxVlBnVHE2QkxOcGh6Y2UtTFl1OTl3SlNvSjQ1Vmk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a9f79e17ece6",
-      "title": "Astrônomos finalmente confirmam pela primeira vez a existência de uma enorme caverna vulcânica em Vênus - Catraca Livre",
-      "published": "2026-05-10T21:35:13+00:00",
-      "summary": "Astrônomos finalmente confirmam pela primeira vez a existência de uma enorme caverna vulcânica em Vênus&nbsp;&nbsp;Catraca Livre",
-      "sources": [
-        {
-          "name": "Catraca Livre",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWi1sbFJ3bFdBT3FraEtGcXgtNmk5ZVdQRnVBZ3ZKbjVHRF9XM0xzeTR3WEdxbUJHb0hqWm9obThzQjlwbDVtdlhfQXYxaXVGRW9fMVQ3QlZVdldmTXk0YnVMM0luNjFhZlJZR1JfN284d3lXZFVLTjNqNVFFQXdZdzhLU01QM1NjMEVwUlVNOWRqTXc1QXd4NzAzTU9pcHI0czh6U2U5YlF4N09sbUY4eFlWcTVkZWxQck05UFpxSU5xQ2NwT0NoT2FwYnVmSnlObG5oNElDaUg?oc=5"
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOFpsLU54eE1QZDV1UG5SaEhMM0JZR2hPRExZUjBMeUl4TDl3U21FTjFSMmtxblZ5WWlzazdCaTJQTmExR3hsclBYMy1jUlo2Rk9BMXo2X19nTzduR0ZVWEJsZTNYb1hJb3ptWGdweXNrM3FRaEh2TlNNZFkxNm1HYzVtS1l4ejJzOEFQUFQ0LVVndm1fZzdjT2dWd3QzQ1QyaHFuOEdmQ2NWV3hKbVJWT2x1NWNjOXNaNzFIRmRseG53ckgyd0ZrNW0zQk9tSFY5MmVTbG5sbG5ZZk3SAeoBQVVfeXFMT2NfNHRqRlhEV0UxVmhZejRIazJ1VktKQ2dleWNvWU1wVmMtVElNMktTWG1yYjROQ0RUOGN3RkJNMkdCZkJOWG8tS1ktZW56RmZBYmFQcEN1TDI2UUV2ay1OeUJ3cWk2TTZ5bk9VZGpvNlluR014d1ZlNVF4OGpqeEE5SXhTakxMLThWbE11TnI1MmpGcEdXZDNZS3VYZWNGQXFBQUNDaHJwN3V4UXN4bVFjLWY3UFpDbC0wV2ctSWVVMTZQU2x0WkdSVEZFSlJkUHpXMmIzemZvTkp0M1MwMmRhQ0dTSC1zamNB?oc=5"
         }
       ]
     }
