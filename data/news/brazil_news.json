@@ -1,19 +1,127 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-05-13T19:58:07.364572+00:00",
-  "total_fetched": 113,
-  "unique_count": 109,
-  "health_related_count": 50,
+  "fetched_at": "2026-05-14T03:37:38.271902+00:00",
+  "total_fetched": 109,
+  "unique_count": 106,
+  "health_related_count": 44,
   "news": [
+    {
+      "id": "60b965f6da62",
+      "title": "Caso Ypê: Bactéria fatal foi achada em mais de 100 lotes durante inspeção da Anvisa - NSC Total",
+      "published": "2026-05-14T00:45:00+00:00",
+      "summary": "Caso Ypê: Bactéria fatal foi achada em mais de 100 lotes durante inspeção da Anvisa&nbsp;&nbsp;NSC Total",
+      "sources": [
+        {
+          "name": "NSC Total",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa1BQb2pwbms0Q2VSQ2QyN3RKS0t6Mlp5VGltRE55SnI3QXVuMTV3TlJLVDdKQ21LdFBRYXR6ZTYwVktya1dFd2s4TXR4Q1E2cXBhR3pYQlB0U2dxamJnOWZvSHJ6ZFAySWdNZzlQampxUl9vRXdkbWVGSml1YmR5MFFhZWgxRVRmN1dLUWtIQ1lGcHlaejFTYW9jWmotNUYtRVpXU0d5cEc4eFhtYWNhMVJqYm9jcXRzNXhR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4fbbe0ed3f63",
+      "title": "Teste rápido pode prever risco de Alzheimer décadas antes dos sintomas - CNN Brasil",
+      "published": "2026-05-13T23:35:15+00:00",
+      "summary": "Teste rápido pode prever risco de Alzheimer décadas antes dos sintomas&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVFhsai1QVE5qZEVwRzVmYnZIT3pQVFJ5TmtORDN2VTh6cVdSaGRiV0FMTTIyUHVCYTUxWGlvb2RtZjB3ZC1vRGs4ZUpJQWJPTmswSzAzM05XZDgtclUtOUtQRE5laDZXcGtZZFR5UHZmSHZrZHhaZW5Wdk9Nekl6WXBQdTlMcnRHLUFLVnNkREhQcWpYQlV1OVcyM2l1X0xMSklqdnNzVG12dw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6df736a8d144",
+      "title": "Endocrinologista aponta sinais do corpo que podem indicar pré-diabetes - Metrópoles",
+      "published": "2026-05-13T21:12:00+00:00",
+      "summary": "Endocrinologista aponta sinais do corpo que podem indicar pré-diabetes&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbDIzSTJuYzZ2QTNKOXVHUHJONmxBLTVIT2FGRFhFaUJtUExneHNQOVEyb2k5RjZJYmxFLURXenk0YlZ3Ty1LUXFwMjJ1OVZjWFA5Wm16RXNKN0dHVk8zVEptcUJnajg0dDZqaFVLUE5aYzIwS29nUEpBM2FBc0gtc0VaVDR0VnBmaGp4ajhJQlZHcXlJcEFmeS1oTHFOVlRyVTZUMHlZbUpSWDBjcHlJeEt1ano1NzZJTU1aNllXOA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3c86db07f0e1",
+      "title": "Animal que desafia o envelhecimento inspira avanço em pesquisa sobre longevidade; entenda - Um só Planeta",
+      "published": "2026-05-13T19:51:40+00:00",
+      "summary": "Animal que desafia o envelhecimento inspira avanço em pesquisa sobre longevidade; entenda&nbsp;&nbsp;Um só Planeta",
+      "sources": [
+        {
+          "name": "Um só Planeta",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNYnZMSmJOa2dSOGdWN2hmcUt3MmJMNG1pMFc5dmhTOUptRWtTbGhxTmN4Y1MtdmhzZlVON2RJTHBxTEZiQXRxc2poMHI2bmRCVjN2cEtBUDBWWEpCR2tveVMwN1E0S3RtbV9zLU1GOHh1UF8yYTZ4RlJDMFluVjlFMnFhZXJ4NE9VSVpTd3p5QmZpU0RrNFpFdW9ubE4zUE1HRVBTdGZFaEJrTXcyekcxZU1BanBFQmdKYk00TnhvYjloU0k2R3pkWE9HcmNXdWpZdWtZcXMtcWw3bnloUkkxX3BFTlo4dXJWQkd6U21qa9IB_gFBVV95cUxOa0pSSi1qLTFoYUU4X3ZnWWNyX2NSMmluMG91bi1UcDVSU2hrNFF1MTl0MjFqMFRkOFg5Yi12U0dabUFvQmRlVlRSbEtOZllVUEdMb1lkdG1oaHhXOFhuOGRoWGViUjlZcGpVTTRoekREZGpKMlluVkk4cVBRZWNKUTd0TG9peV92UTdxTENjN0J3Nmp5ZGU3eDJqV0duQ0QwM2llb2NPX3RpSUk3MnVGUUlESHA2VDI5LVdDNExQcmZ5Tm80anQ5U0lkd0N5RHVIMGEtRzAwMXY2NnpicVA3ZnRRVmRFQzA4VVFHR0NjbzVRY2lPTDFIVmEtd1BNdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a310a7c753b6",
+      "title": "Gripe: Campo Grande libera vacinação para toda a população - Campo Grande News",
+      "published": "2026-05-13T19:49:00+00:00",
+      "summary": "Gripe: Campo Grande libera vacinação para toda a população&nbsp;&nbsp;Campo Grande NewsVacina contra gripe é liberada para toda a população em Campo Grande; saiba onde se vacinar&nbsp;&nbsp;G1Mudança brusca de temperatura impacta saúde das crianças em MS; saiba o que fazer&nbsp;&nbsp;MidiamaxGripe em Campo Grande: Sesau alerta para riscos do frio&nbsp;&nbsp;Campo Grande NewsCampo Grande amplia vacinação contra gripe para toda a população – CGNotícias&nbsp;&nbsp;campogrande.ms.gov.br",
+      "sources": [
+        {
+          "name": "Campo Grande News",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTENWRHpVaVZGdWw1cG5OTndxTTh5Nl9PUTJmUGd6MktMbm56UHZieHkxbXp1Zjd1em4wTVAzSk9BX2JuVmdENTdMNnJOcDJacldhZ1hjR085bG4wZEVnNnZndmIyZkN1NWdWSFJsM0huSTI3UnAwUnZsVUNyY0MteDRrT1FnUDBhZmEtWmxyQlpYQmkzYWduUExuYWpsU1dBdUNJX2RUR2xlYXZVWEY3dG5sUnZGTFhUZEI5akVsRlRad0VhZFEtVVE4WlRzd9IBzgFBVV95cUxOQ251Y3pmellKcUJUMUROcVJiNGJlcnVkLTBJUVMxX0l1ay1PT1B5RURWdDRKYk5TYXhIcmY1TGVDWDI4RDVNZnZqSzU1Y2c4XzVuMzVnd3NpNEhWVC0zX0U3aHUtQTJtQ2kwcUpBTUtRUmhOTTM1Z3hTdzAwczZpRHFoYTVfWFQ0dHNTbG5iTG9HN0FQdnJpVnFsN3dJQjhKcVIwWklDdXpqZ2pYYy1fUEJrX1VYeWwtVF85RXc0cXFMQ2htVVlLTWJaQlZldw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "15a0d5b046dd",
+      "title": "Primeiro dia de vacinação contra covid-19 tem alta procura de idosos e gestantes em postos de saúde - O Dia",
+      "published": "2026-05-13T17:54:00+00:00",
+      "summary": "Primeiro dia de vacinação contra covid-19 tem alta procura de idosos e gestantes em postos de saúde&nbsp;&nbsp;O DiaVacina atualizada contra a Covid começa a ser aplicada em idosos e gestantes no Rio&nbsp;&nbsp;G1Rio inicia vacinação atualizada da covid-19 para idosos e gestantes&nbsp;&nbsp;Prefeitura da Cidade do Rio de JaneiroVacina atualizada contra a covid: saiba quem já pode se imunizar no Rio&nbsp;&nbsp;VEJA RIOPrefeitura inicia vacinação atualizada da Covid-19 para idosos e gestantes&nbsp",
+      "sources": [
+        {
+          "name": "O Dia",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPaDRjWFFRYjlJODczMDI3eXkwVnF6R0tNamFsVlVzb182SFVaa3UtNFpzU0s0Tm1aVmN0WHlkQTJvQ2w3Y3EycXlHVDFUdmg5aTBMdS04dzA3SldHb0VzQTcwVTlxbHJOWFZLcFpKbE9vVkRfOWFQOXh1OG5RUDZLZTVzbTBhc1JzX2Z5SGVuWWhBVno3djdUWDRoTFNhU2h3QWF5Qzc4dkYtakJ4Ul9YeWZjOU96UjhJOFE3V1FwYU1GOFJzYmdYbkxCSnhwMFBQMGdWeGhaUjBDV3hkRGhCM0gtRF8wVDNpbC1JMV9qTdIB9AFBVV95cUxPRjlxNW9EbzJoYXdnUnBWWWZfRS15QlItdm9Fd1F1V0NqTk1vcTNxQktfOUdpUV95SFo4Y2NUeGdZNmxRVjVqcVJXbmZnNFBNM2gtS1BMQkNwbTg3UlZyNXE1b3pVZVR1dVVrc2RmLU5ZMmMyWURwN2FfNFl0cHk3NzJjcnU3QlhMYnVPMGZ6dkx3X19xeFJHWHA0SlN0WEszdlBzZW9WUlh4OWpGVHhlRW9GSDFhTHM4LUUwQzd6bDhTSEpOeG84Q2JxczNHckFGVlFGUThacjVNWm04RkpyazVCOEhQV29XOXpLOWhhWmZTaUhV?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "141f752dc1bb",
+      "title": "Com nível de alerta, RS tem 3,5 mil hospitalizações e 228 mortes por SRAG - Correio do Povo",
+      "published": "2026-05-13T17:35:19+00:00",
+      "summary": "Com nível de alerta, RS tem 3,5 mil hospitalizações e 228 mortes por SRAG&nbsp;&nbsp;Correio do PovoVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "Correio do Povo",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVERkM0F1TEJTNldrMmNTN2NrSkJIeEpFQ3hidUFSMlZza0tlaW0taS12bG9OVjRTM0ppbWRURmE4TGhERlJRV091NlVfZG9CNDJYWnNBY0tNWUEwMGE4dmJ3WjNKbmk5Z2c2b1ZTdU5GcnBFT1hPUjRHOGMxUUlVbHdDelM5UmN3MWJYb0xIZ045c2VsYWFjY05KWThqVlFnVDRWOVpKNE9HQ29uTl9LWXNueURKWFM4NkRveHFVWkRUeTdKVk4yQndPTUI3ZmZiYkZkWWVR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fa953bfeb509",
+      "title": "Novo estudo revela que o açúcar do suco natural reage de forma diferente no organismo e desafia a fama dos refrigerantes - O Antagonista",
+      "published": "2026-05-13T16:23:00+00:00",
+      "summary": "Novo estudo revela que o açúcar do suco natural reage de forma diferente no organismo e desafia a fama dos refrigerantes&nbsp;&nbsp;O Antagonista",
+      "sources": [
+        {
+          "name": "O Antagonista",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaXd0UU5Gb3ZITGtnQ2xsZkZwSmlpbzhPSUp6NElIcUNhazBLd0JxY2RzQ29pQVRxT0JuM2dhdVdSUDBac0J3c1FYamVuRjRHVHgzZ293X2k0a0NMU3JOWTNOdFhXTXpoSVFQVnExYmd1WWFoVFgtTmRRcHdBR25WUUZiR1REWHpMOThsdGROS0R3MkdMVW9YdVljRHlIZWwyYnFxSHpuYTN0WWtKbkFwaEc5ajRzMzZ5YUJIMTFWSEd4R2F3UXE0TFFiVHNhQmhFeVdRWS13eHVYNkUycXBXRTNWSXc5RlhXemk0?oc=5"
+        }
+      ]
+    },
     {
       "id": "f70f838c3d87",
       "title": "Variante da gripe em rápida expansão global é detectada em amostras no Piauí - CidadeVerde.com",
       "published": "2026-05-13T15:48:00+00:00",
-      "summary": "Variante da gripe em rápida expansão global é detectada em amostras no Piauí&nbsp;&nbsp;CidadeVerde.comVariante do vírus Influenza A é identificada em amostras no Piauí; entenda&nbsp;&nbsp;G1Teresina já registrou mais de 7 mil casos de síndromes gripais em 2026&nbsp;&nbsp;GP1PMJP alerta sobre proteção contra doenças respiratórias com vacinação de Covid-19, gripe e bronquiolite&nbsp;&nbsp;PBNewsLinhagem K da Influenza A circula em Teresina e acende alerta da Sesapi&nbsp;&nbsp;Portal Encarando",
+      "summary": "Variante da gripe em rápida expansão global é detectada em amostras no Piauí&nbsp;&nbsp;CidadeVerde.comVariante do vírus Influenza A é identificada em amostras no Piauí; entenda&nbsp;&nbsp;G1Teresina já registrou mais de 7 mil casos de síndromes gripais em 2026&nbsp;&nbsp;GP1Aracaju emite alerta epidemiológico após confirmação da \"Gripe K\" em Sergipe&nbsp;&nbsp;93 NotíciasLinhagem K da Influenza A circula em Teresina e acende alerta da Sesapi&nbsp;&nbsp;Portal Encarando",
       "sources": [
         {
           "name": "CidadeVerde.com",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUXdqUXp6WVJnVzNoVW8tUjl5RXREckdaNnZvMlR4SWtWaGJwVVgtYnlVbk9jWUJXSGU3ZFhFVHVvS1FNZGpyTDBRM3Q5X1BheDlVT1U0ekFtaEJzdjNEbHY2R0tZSmZCRE90VXh6clFyU1NxYVF4NlFrWFVERUQ3WnBFWWQyZUNKSzF4eUNmTDhtb1ZzY1Z3czFlaGdhblFielNuNllENUYzSUQ3Tm94RFJZV2JnOXM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c485b8cdef00",
+      "title": "No Brasil, câncer digestivo mata em silêncio e os sinais são discretos - Metrópoles",
+      "published": "2026-05-13T14:12:13+00:00",
+      "summary": "No Brasil, câncer digestivo mata em silêncio e os sinais são discretos&nbsp;&nbsp;MetrópolesCâncer de intestino: 5 alimentos que aumentam o risco&nbsp;&nbsp;Correio BrazilienseAté 2030, 127 mil pessoas podem morrer da mesma causa que Preta Gil; entenda&nbsp;&nbsp;TerraCânceres de pâncreas, estômago, fígado, esôfago, peritônio e colorretal somam mais de 70 mil mortes por ano no Brasil&nbsp;&nbsp;Acre JornalCâncer de intestino: mais de 45 mil casos são registrados por ano e sinais da doença passam",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdnJaNU9Eb2p3QmktdUhrZ2ZJZXpFWTZaSWZpZEVkQnJSVFM4LWVER1RhcmNuaTFWY2xPVzJMSDdfWE5mQ0lRZ2stRlA0MnRFb29mR0JJQjJWMEFqSmpaMVRTc3pxZnB3OHFLYUNoODZRRzhNZlcyb0RjdmRDdU5kSnZR?oc=5"
         }
       ]
     },
@@ -30,38 +138,14 @@
       ]
     },
     {
-      "id": "deb5c4f983e7",
-      "title": "Estudo revela efeito silencioso do sedentarismo no corpo após os 30 anos - Jornal Correio",
+      "id": "3ab2c40ef2a3",
+      "title": "Estudo revela efeito silencioso do sedentarismo no corpo após os 30 anos - correio24horas.com.br",
       "published": "2026-05-13T12:18:29+00:00",
-      "summary": "Estudo revela efeito silencioso do sedentarismo no corpo após os 30 anos&nbsp;&nbsp;Jornal Correio",
+      "summary": "Estudo revela efeito silencioso do sedentarismo no corpo após os 30 anos&nbsp;&nbsp;correio24horas.com.brSedentarismo eleva carga de estresse na meia-idade, aponta pesquisa&nbsp;&nbsp;CNN BrasilO hábito silencioso que aumenta seu risco cardíaco em 5% a cada hora&nbsp;&nbsp;Estado de MinasMais da metade dos brasileiros é sedentária, aponta Genial/Quaest&nbsp;&nbsp;istoae.com.brSedentarismo no Brasil&nbsp;&nbsp;SMABC",
       "sources": [
         {
-          "name": "Jornal Correio",
+          "name": "correio24horas.com.br",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeFdYdXFfRHRiVWUwNjhPMDNGd2lwWmlEZUhVYWp6OGdUOWE0UXFsejlqYzhOR0RMZVBJNFk3ZFBDdWE5UWFUaWg4eWU1TnVXYm8yaUFla1JXbnF1Y3oteEEzS1NHZFE5NURQYkU1NjctS2pUUWNSTUhBTnQ4OWtwTnhmUTdDSVVjNjkxRTZ6QnJwTlVySnhxN0U1bmEyX2tUaHZ6UUMyWks2dXN4VGFoSURXMmM4S3Fq?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b7b5a691f248",
-      "title": "7 alimentos que aceleram a recuperação muscular, segundo especialistas - Globo",
-      "published": "2026-05-13T11:05:19+00:00",
-      "summary": "7 alimentos que aceleram a recuperação muscular, segundo especialistas&nbsp;&nbsp;GloboDor após treino pode indicar falta desse aminoácido essencial para recuperação&nbsp;&nbsp;Portal UAIProteína antes ou depois do treino?&nbsp;&nbsp;Assine Abril5 hábitos que ajudam atletas a recuperar energia em semanas com dois jogos&nbsp;&nbsp;sportbuzz.com.brRecuperação muscular ganha espaço na rotina fitness e ajuda a reduzir risco de lesões&nbsp;&nbsp;JC",
-      "sources": [
-        {
-          "name": "Globo",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLTh6RjR5ZVZndW8taXdjbGtOY0JzQjlESkVpa1UzdWtlNWpCekJkaXVhY0F2Q2I3S2d1N3FiQk9LTEZYcHM0bWhnWVZqb0llaklIWTBtbERvWkl6MU5aSGRHTFRiNGcxSDJNT2RtVUk0RjJLR0ZRODJUeDl6THhtNGVzX3RYQUp4WF9HamZxZlA0R3d3LVdnMkQ3a3lYZjJ4NEhlaTh1OV9rQU9PbFk1eEJ3Y0pBNmtqY3NLdTE5SXFBZ1RyeEItcmV30gHYAUFVX3lxTE5lejNtNVBvY2tvN2NKMW5YVlhCNWVJVWFyUldXWE9GYXc5U2o1UVdXeEx6LXZSYUs1MEM1Zks4LWdRSlFGSDZnbDVrZlo2TldOYmxaWlN5Ty02eUN0R1F4OFNRSmJoMUJ5RVJybFNjU2RJdHRJQ0JHZVY5X1QtUWtFTXp5Xy05UldQUWJHRmJkUGc1NjJabjdJWjN5anQ5ZkpXTXNnWVp5Z1ZyU3d2bUkwc3l4YUxoTmw0NlFfMnBCaUhIRTctRFlkZ2p1WmEwZlRWUXR3aXlGUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "55d5b6d9e48b",
-      "title": "Condução da crise do hantavírus mostra que seguimos cometendo os erros de sempre - Folha de S.Paulo",
-      "published": "2026-05-13T10:00:00+00:00",
-      "summary": "Condução da crise do hantavírus mostra que seguimos cometendo os erros de sempre&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWkpkR1AtdFNodlB0d1MydFl5cks5ejNlOHk3dWI1YUo3a3ZwdmczSV9ndUltZW9lbzFOcUF5eHRsN2RoQjRpNWhMQ1VuVFltaU5wU2hpbjdnMFFLSVQxV0xORUVTQWx2YmdVWVY3RTJldFM5U3ROMUsxekdreFBXWi1tZW5uYjg5TXEwYWNzTVRRZFlvU1E5N1dPS1Z3ZUlxWnFyX3dmemJIN1N6OEh0T3ZQUzdDNjczNHJodWI1V3pUY2wzRFFFOVB2TkVHWVkzUFF6T3l4bFTSAd4BQVVfeXFMUDN5dGIyM0stSFplRFZqX2FqVGwydVZSQkR6SHBFY0NucWJSaEQwTmY2OTNmRzlDX3phM2pzT2NtQkJWQTdTMktWS3lhaGtUY3I2b2FRYmhZVmlKSlZEZllZS3dieE5ETi0ybGVzSERIUllNUFhVOXdYZ3pQdk5NTV9jaUhXemw2QzQ1NTV6WHptY2ZEbE4tZGs2LVlQNnA3NFJQNnN1cVRlMldvUlplOEh5WGZMekNHSFBmWGJHTVRkcGJXNFFDUDNWUjZucjRmSVpCRk14VFVZNW1GS1Fn?oc=5"
         }
       ]
     },
@@ -69,7 +153,7 @@
       "id": "9dcb04163e30",
       "title": "Expansão de mosquito com bactéria para combater dengue esbarra em desafios - Folha de S.Paulo",
       "published": "2026-05-13T09:00:00+00:00",
-      "summary": "Expansão de mosquito com bactéria para combater dengue esbarra em desafios&nbsp;&nbsp;Folha de S.PauloCascavel adota método Wolbachia para combater dengue&nbsp;&nbsp;G1Mosquito antidengue, um avanço, mas não é solução milagrosa no Brasil&nbsp;&nbsp;Correio Braziliense\"Método vem conseguindo reduzir casos\", destaca Saúde sobre técnica para combater Aedes aegypti&nbsp;&nbsp;CatveCascavel dá início ao Método Wolbachia para combate às dengue e outras arboviroses no município&nbsp;&nbsp;CGN",
+      "summary": "Expansão de mosquito com bactéria para combater dengue esbarra em desafios&nbsp;&nbsp;Folha de S.PauloMosquito antidengue, um avanço, mas não é solução milagrosa no Brasil&nbsp;&nbsp;Correio BrazilienseCascavel adota método Wolbachia para combater dengue&nbsp;&nbsp;G1\"Método vem conseguindo reduzir casos\", destaca Saúde sobre técnica para combater Aedes aegypti&nbsp;&nbsp;CatveCascavel vai usar método Wolbachia no combate à dengue e chikungunya&nbsp;&nbsp;Tarobá",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -93,7 +177,7 @@
       "id": "841034debcd8",
       "title": "Menopausa: da negligência ao mercado bilionário - UOL",
       "published": "2026-05-13T08:30:00+00:00",
-      "summary": "Menopausa: da negligência ao mercado bilionário&nbsp;&nbsp;UOLMenopausa, hormônios e longevidade: por que o tema ganhou novo espaço entre mulheres&nbsp;&nbsp;O GloboAloma Silva defende novo olhar para a saúde da mulher madura&nbsp;&nbsp;band.com.brComo recuperar a função cognitiva e aliviar a névoa mental da menopausa utilizando a dosagem certa de creatina diária&nbsp;&nbsp;Tua SaúdeMENOPAUSA PRECOCE ACENDE ALERTA: QUEDA DO ESTROGÊNIO PODE ELEVAR EM ATÉ 40% O RISCO DE DOENÇAS CARDÍACAS | NILENE ",
+      "summary": "Menopausa: da negligência ao mercado bilionário&nbsp;&nbsp;UOLMenopausa, hormônios e longevidade: por que o tema ganhou novo espaço entre mulheres&nbsp;&nbsp;O GLOBOMenopausa vai além de calorões e baixa libido, dizem especialistas&nbsp;&nbsp;EstadãoAloma Silva defende novo olhar para a saúde da mulher madura&nbsp;&nbsp;band.com.brComo recuperar a função cognitiva e aliviar a névoa mental da menopausa utilizando a dosagem certa de creatina diária&nbsp;&nbsp;Tua Saúde",
       "sources": [
         {
           "name": "UOL",
@@ -114,49 +198,61 @@
       ]
     },
     {
-      "id": "b7c686f039c2",
-      "title": "Teste simples de força pode indicar chances de viver mais entre mulheres idosas, aponta estudo; entenda - O Globo",
-      "published": "2026-05-13T07:02:16+00:00",
-      "summary": "Teste simples de força pode indicar chances de viver mais entre mulheres idosas, aponta estudo; entenda&nbsp;&nbsp;O Globo‘Adoro musculação. Preciso fazer cardio também?’&nbsp;&nbsp;EstadãoTeste simples feito em casa pode indicar como anda sua longevidade&nbsp;&nbsp;MetrópolesMúsculo agora é considerado decisivo para quem quer viver mais&nbsp;&nbsp;Tribuna OnlineSaúde na terceira idade: Academia D’stak aposta na longevidade ativa da geração 60+ em Brasília&nbsp;&nbsp;Blog Glau na Capital",
+      "id": "35ce53a83656",
+      "title": "Músculo agora é considerado decisivo para quem quer viver mais - Tribuna Online",
+      "published": "2026-05-13T08:00:00+00:00",
+      "summary": "Músculo agora é considerado decisivo para quem quer viver mais&nbsp;&nbsp;Tribuna OnlineTeste simples de força pode indicar chances de viver mais entre mulheres idosas, aponta estudo; entenda&nbsp;&nbsp;O GLOBONão é só condicionamento: esse teste simples pode prever sua longevidade&nbsp;&nbsp;ExameGanhar massa muscular pode reduzir riscos de doenças; veja como&nbsp;&nbsp;TerraMusculação além da hipertrofia: 5 benefícios para a saúde do seu corpo&nbsp;&nbsp;Assine Abril",
       "sources": [
         {
-          "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRi0wYVpMNmVoVmx6Vjk1bThjXzJSOHBwamZMTHpyN19zTkJkWVZULUtkQVh3d0RqMXVEbVNReFhjeTZmb2tjYm5LYzc0eTNvRGhKc3ItQ0k2cFZ5eUFWRjFLd2VwVDZkVm51MDlNNTgxVGtpcVhkckFxSGlDS0VQbDlBY0pJeE10clY2THNfOTZxeGtQQkx0TTlua29uNm1idGdnbGw5c0ZCT3ZnSXpLVTY3UUxkV1BMWDRNN1NxYURIWTBGdW93UHM4VmtmVEZpQVpaQUxmejZYSlMybFBvQjEwVkJSaFNjZmNuUmp3?oc=5"
+          "name": "Tribuna Online",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWUtKVUNyb3dLQThyWTgyemw1UXY3OVkxWXdLUHNudmFiLVd0cGhUUzVvQWk2bmlHaFpRVVFmckpEd2w2R3VYbzZ6WC1BWjNwRERXNGJQVThIMW5qaXJFenF3R0FhbXpYRHVUU0Q3TTFhbEJ2cTcwZUZYOUxWaHk5UGpCMHVUSkctYVRILWJzY3dmakFadzg5bm1LR2FhZFdiMjdXVTNUc9IBrwFBVV95cUxNemJkMk11NnhHTDNkZlVSNHdPRmIyNF93b0p2TUpCUUJDUEM2dWpucWNjN3BQYnZkUzl0dXFKb2Y1UWp3eHZNMnJLVFJwdUt2WXVkaHAtYUkzWFAzX2RHVjJjMGtjakxQNnpCV21xai1fLUFGQTJBZlAzN1k4Sm0yX0p2bWFJU1JjMDUzOTJLcmphN1ZMY1d6NW5EUDduelhfSHFBSmJwblR5Z3pCYzVv?oc=5"
         }
       ]
     },
     {
-      "id": "6cc5ed6d49f3",
-      "title": "Fonte da juventude? Mudança na dieta por quatro semanas pode reduzir ‘idade biológica’ de idosos, aponta estudo; entenda - O Globo",
+      "id": "06119cc2f190",
+      "title": "Fonte da juventude? Mudança na dieta por quatro semanas pode reduzir ‘idade biológica’ de idosos, aponta estudo; entenda - O GLOBO",
       "published": "2026-05-13T07:02:15+00:00",
-      "summary": "Fonte da juventude? Mudança na dieta por quatro semanas pode reduzir ‘idade biológica’ de idosos, aponta estudo; entenda&nbsp;&nbsp;O GloboMudança simples na dieta surpreende cientistas ao reverter o envelhecimento&nbsp;&nbsp;ExameCientistas reverteram idade biológica de adultos mais velhos com uma simples mudança na dieta&nbsp;&nbsp;TerraCuidados com nutrição garantem envelhecimento com mais qualidade de vida&nbsp;&nbsp;Portal GCMAISEstudo revela alimento comum que pode ajudar pessoas a envelhe",
+      "summary": "Fonte da juventude? Mudança na dieta por quatro semanas pode reduzir ‘idade biológica’ de idosos, aponta estudo; entenda&nbsp;&nbsp;O GLOBOMudança simples na dieta surpreende cientistas ao reverter o envelhecimento&nbsp;&nbsp;ExameCientistas reverteram idade biológica de adultos mais velhos com uma simples mudança na dieta&nbsp;&nbsp;TerraCuidados com nutrição garantem envelhecimento com mais qualidade de vida&nbsp;&nbsp;GCMaisEstudo revela alimento comum que pode ajudar pessoas a envelhecer mel",
       "sources": [
         {
-          "name": "O Globo",
+          "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNbWlyNlh6OTM3czFsRVRObTJfcEdORl9qLUpOSDdsd0lNRGJEMXU2RDJtN3ZaLVRPNFRKcV92MG9zTFNRTzNydEUtc0FPYVRvZllzbWhDeE1yakhSQ1UwMWJTY29WOFBySC1DMktjT195ZFBGMG5xUDNFYVJVTXhvX24wWGFkaGQ0cGxCbFQwU2k3OFJOM2VjQnNUYVFQRmVjRzBNMXZTTHdVVGFza0trZ0xkR2x2eHplek1jdzhDeEw2RVhtNjJtZWt5Sng1bVp5bWk2ZEV5MmczQVE5UG1Wb3V3OHZIdGNrcFcwdDVHNDY2YTNoMDhmR0owUXNiUVQ2?oc=5"
         }
       ]
     },
     {
-      "id": "b7fd206574c7",
-      "title": "A história da mulher negra que morreu de câncer em 1951 e tem células imortais que salvam milhares de pessoas no mundo até hoje - Jornal Correio",
+      "id": "0fa3c593893a",
+      "title": "Apenas 8,6% das mulheres recebem anestesia para parto normal no SUS, diz estudo - Folha de S.Paulo",
       "published": "2026-05-13T07:00:00+00:00",
-      "summary": "A história da mulher negra que morreu de câncer em 1951 e tem células imortais que salvam milhares de pessoas no mundo até hoje&nbsp;&nbsp;Jornal Correio",
+      "summary": "Apenas 8,6% das mulheres recebem anestesia para parto normal no SUS, diz estudo&nbsp;&nbsp;Folha de S.Paulo",
       "sources": [
         {
-          "name": "Jornal Correio",
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONEZuUFhqZnh1UmpfR1FBLXZoQWpSaWZrbmZYb1QwbVY3ZFVaMU8tOE5taTJTUS1NeHNhemhpazhPckgtYUtTS1FaYzh2XzhHeUwzdTVYbVJNbzRUWGl1LTB0TVY3RWRMU01fd25WNzBnbGFyX2tNS2tMYmpaQUFDU0M3cFJuZEdUdkxIa3I0RXRFT1Zab1hoUF9MSWZzWklFM09ZUkNfWXBrRUM4NThfSXVHNlM2bjZiWWNlNUo0REotYS1qNzJaWXdGMVpvb3VvM3diWlhNOUhQMlZBWHZfT3lZWXNRZGthenp4V9IB8gFBVV95cUxNQ2VRVmVsdU5FMGFpdGZJTXFOcGxYenYwQzR0eU94Z0cwQ092VzhZSi1USW5QUFZhZjNhYjJRRVpoU3RPMzhHOWdqN0pzejhNUmtudW14aHIwcFdNZnB2QzFDeXlaMzZ1N0JGQTFTbEx3Nm1BNFRtUy1SNVgxMTBjckRpOThoWTUxc0VWVkt0TmU2MUVaU1JVNTZXbGlTVDdPSXp5QTgxNS1CVUlTRzcyUmtNTnNGZUZVa291bzkxdlFUcFZIemF4YzFkQUtFcEtPdm41NnRDZ0R0eFhEU2JKcGxhN0J4a3U3dFFDQzktWFZ0Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "486f02780084",
+      "title": "A história da mulher negra que morreu de câncer em 1951 e tem células imortais que salvam milhares de pessoas no mundo até hoje - correio24horas.com.br",
+      "published": "2026-05-13T07:00:00+00:00",
+      "summary": "A história da mulher negra que morreu de câncer em 1951 e tem células imortais que salvam milhares de pessoas no mundo até hoje&nbsp;&nbsp;correio24horas.com.br",
+      "sources": [
+        {
+          "name": "correio24horas.com.br",
           "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPNW9SWGhuemZ2WTNEd2Rwa3Rsd29wWGZ5VFVZWjVTaHFpQ251MHhhMGt3clQyMTA0djBhYmowQTAzT1lKZGhLdkRCRk82Q1VmaWItamhtY21Jd3dub2xKWTBBeDMxSVVLYXRoNnU5T2RQWk1KbVpNaERtWHF4WGRkR0s0ck5uTDE3Ym9QcFhidGFxd3Y2ZEQta1c1TG9qbHRnaVQ2NHZWLU5TUnVBYnlrd3kyNHFJSmJqeXhQbS1KVFJmWTVPcEQwaEFnZU1YNmNOYWczSzRvOVNWbzNsaXM2ODBaTENieGhNcGlycU14LWxiNUd0M3hMOUpqTldYcFFFQzJuWQ?oc=5"
         }
       ]
     },
     {
-      "id": "a92789f23189",
-      "title": "Há 3 formas prazerosas de desacelerar o envelhecimento do cérebro, segundo pesquisadores; saiba quais são - O Globo",
+      "id": "99c1dcb8aafd",
+      "title": "Há 3 formas prazerosas de desacelerar o envelhecimento do cérebro, segundo pesquisadores; saiba quais são - O GLOBO",
       "published": "2026-05-13T06:01:13+00:00",
-      "summary": "Há 3 formas prazerosas de desacelerar o envelhecimento do cérebro, segundo pesquisadores; saiba quais são&nbsp;&nbsp;O GloboA arte de viver mais: como a criatividade protege o cérebro brasileiro?&nbsp;&nbsp;Tribuna do SertãoOpinião: Ser criativo não tem idade… a arte de saber fazer&nbsp;&nbsp;averdade.comDesacelere o envelhecimento do seu cérebro adotando um desses três hábitos&nbsp;&nbsp;Diário do Comércio",
+      "summary": "Há 3 formas prazerosas de desacelerar o envelhecimento do cérebro, segundo pesquisadores; saiba quais são&nbsp;&nbsp;O GLOBOA arte de viver mais: como a criatividade protege o cérebro brasileiro?&nbsp;&nbsp;Tribuna do SertãoOpinião: Ser criativo não tem idade… a arte de saber fazer&nbsp;&nbsp;averdade.comDesacelere o envelhecimento do seu cérebro adotando um desses três hábitos&nbsp;&nbsp;Diário do Comércio",
       "sources": [
         {
-          "name": "O Globo",
+          "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxORFR5SVJNNHVGR0dhTEpadnJvLXg1VmN2SWJ4bkxpZVEyWl9WbDhfYUhRdS1wQ2xMU1RBMmx6N21PQThVTU83SUU3NUFta3lXUWdjSl9jU294aGxZTlluU3B4MjExWC1tazV6c2tJbUpZdHpjUmc1VDVray0zMHlPTFhOYUpwTXpYcTlHckNzQzJ0dmk5RnNvOXhwOUN6bTZlOUZDeG16ajc0Ykh4MG1hMmtfemdnZVpLSGkzWG5Nb0xLa3prMWc1WUdrRVlVWTJVS2hQRDJGOUpfX21wNFc3S0FwbUc1X0lrYkRiS0drejVHU2QyTGZmVGxaUEVpQdIBjAJBVV95cUxNdENrQnoweXZHQV92TjBDT0JrZUoyVzhzWjlmaHRZWGM0MFlCbFFTX3ZZdldHVV90cy1qTFFTaU1LV2pRd2tHbXBTekFMMFFMUFhFcTNmeENiaDNmdE10V3ctaUlvZi1tVW5oTE9VcXk3S3hzaUdFVWtIeXRkUmJ2ZktLTTNaZXh4ZTVwLU16YmxPYlRITkQtamZXNW54bVhVZEFfMS1zaE5PR2dURWs5S3d6LWhWRUNhU2htbU5DY01fT3c2eF9wRE0teF9iY25aQkRFNzRoRVVEUE9TX1AyalZ5TnUwMktUTjM3MVkzUUZXcklreGdnTWRZN3dQbjQtanpUZEhVSmZrZTll?oc=5"
         }
       ]
@@ -177,7 +273,7 @@
       "id": "5a6655c7bafa",
       "title": "Alerta: confira 7 sinais de que o seu coração pode não estar bem - Metrópoles",
       "published": "2026-05-13T05:00:04+00:00",
-      "summary": "Alerta: confira 7 sinais de que o seu coração pode não estar bem&nbsp;&nbsp;MetrópolesMulheres infartam mais depois da menopausa? Entenda quais são os riscos para o coração da mulher&nbsp;&nbsp;Jornal CorreioPerimenopausa: infarto em mulheres de meia-idade pede atenção redobrada&nbsp;&nbsp;O Dia“O infarto do miocárdio é diagnosticado com menos frequência nas mulheres”&nbsp;&nbsp;deutschland.deDor no peito e sensação de azia podem indicar infarto, alerta cardiologista da Santa Casa de Maceió&nbsp",
+      "summary": "Alerta: confira 7 sinais de que o seu coração pode não estar bem&nbsp;&nbsp;MetrópolesMulheres infartam mais depois da menopausa? Entenda quais são os riscos para o coração da mulher&nbsp;&nbsp;correio24horas.com.brPerimenopausa: infarto em mulheres de meia-idade pede atenção redobrada&nbsp;&nbsp;O DiaO coração da mulher também precisa de cuidado&nbsp;&nbsp;O Bom da NotíciaSintomas de infarto nas mulheres podem ser diferentes e dificultar diagnóstico&nbsp;&nbsp;www.gov.br",
       "sources": [
         {
           "name": "Metrópoles",
@@ -189,11 +285,23 @@
       "id": "852800582dc5",
       "title": "Médica diz o que o consumo frequente de cerveja provoca no intestino - Metrópoles",
       "published": "2026-05-13T05:00:00+00:00",
-      "summary": "Médica diz o que o consumo frequente de cerveja provoca no intestino&nbsp;&nbsp;MetrópolesImpacto além do fígado: o que uma cerveja por dia faz com seu corpo&nbsp;&nbsp;UOLDoença do fígado causada por álcool avança no Brasil; mortes crescem mais no Norte - Jornal O Sul&nbsp;&nbsp;Jornal O Sul\"Não existe bebida alcoólica saudável para o intestino\": alerta de coloproctologista é a mesma base científica que faz da Marinha dos EUA uma frota seca desde 1914&nbsp;&nbsp;Revista Sociedade MilitarBebida ",
+      "summary": "Médica diz o que o consumo frequente de cerveja provoca no intestino&nbsp;&nbsp;MetrópolesImpacto além do fígado: o que uma cerveja por dia faz com seu corpo&nbsp;&nbsp;UOLVodca e outras bebidas alcoólicas podem prejudicar mais o intestino, alerta médica&nbsp;&nbsp;Banda B\"Não existe bebida alcoólica saudável para o intestino\": alerta de coloproctologista é a mesma base científica que faz da Marinha dos EUA uma frota seca desde 1914&nbsp;&nbsp;Revista Sociedade MilitarDoença do fígado causada po",
       "sources": [
         {
           "name": "Metrópoles",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUWJ3Y21KTXpBcVVSQTE0cTRoYW83LWlpdjZ5Z1dNaDlLZ292RFN2WU9rTXFab0hmQWxHRk4zRFNxQ1JVWmJXUzZ0SGxaYVozNmYzWU1zdlhXMjFWQmYzeGFQc2RraFhCUXU2SlJ5dlh1LUhnVnUyRGZCMEd4V2JVUDZGRlpvUGE1Ri0wMDFLZ2hjYzUzckdMN3Iwa1l0MEQ1N1M4c2FVZ184MW9rUWZhUUxPemJ2Mmp3QTVJXw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9fce51044ef4",
+      "title": "Suplemento com bactéria presente no intestino pode ajudar no controle do peso, mostra estudo - G1",
+      "published": "2026-05-13T03:01:34+00:00",
+      "summary": "Suplemento com bactéria presente no intestino pode ajudar no controle do peso, mostra estudo&nbsp;&nbsp;G1Suplemento com bactéria intestinal pode ajudar a evitar efeito sanfona&nbsp;&nbsp;MetrópolesComo a bactéria Akkermansia muciniphila fortalece a barreira intestinal e ajuda a prevenir a inflamação sistêmica crônica&nbsp;&nbsp;Tua SaúdeEstudo revela bactéria capaz de reduzir reganho de peso após dieta&nbsp;&nbsp;Folha do EstadoPlot twist: bactéria do intestino pode ajudar no controle do peso&n",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYjJVd3NEb3JOMkhDSUplenNHbXl4Q2VMWkczazB4dDVRM2dhek5jcWQ2ODlOMXFibHM1czVUdnYwTUZJN01DeUlRa0cwRGdNNFFpQ0NIdG8zTnpCa0VEMkg4eXBmaWEzdk1WMHpYUHdObXUzNjkzWDM3Vm5yZ2lOakJRaC16elpkMmw3V0hMYjBKcDhETV9peVJjM0U5cC13eTFIZU1Zc3g4aXFBOFFWbHBFQ2N2bXJVR1gwN3BjQWp1T01nMkxPYXpKdlJXR2FNQUQycGh3UldMREHSAeoBQVVfeXFMUEdXQWJtaHRjbzBnR3NTT01oTFlzT2pWeWgyNTlENW5MaUhmNnhjQUZWdU5DdmF0VG9RcDBHZDhYcmlRbW1Kd1V5eEhZTzhkYTh4WVVwUlRnNjN4bHV1d3pfTXhNX2pQdHdfMmRIblpEdDl1dmFxaWtHaHN5cXRMeHlsdnRVRGxYMldCMFd2cmFNUDJMVWNQR1pzN1FrWnkySWtnVFNacUdXcEcxdjQ2SVptbnRlRG91anFNSXNoQXRmektyazl0RUxYZzl1Z2VYTVJQTUlUMllPbDc1Z3NOMWRhZmxXZlV5dUJn?oc=5"
         }
       ]
     },
@@ -210,38 +318,14 @@
       ]
     },
     {
-      "id": "7b43f4e7df58",
-      "title": "Sabrina Parlatore relata menopausa precoce após câncer: 'Sofrimento atroz' - UOL",
-      "published": "2026-05-13T00:37:57+00:00",
-      "summary": "Sabrina Parlatore relata menopausa precoce após câncer: 'Sofrimento atroz'&nbsp;&nbsp;UOLSabrina Parlatore relata menopausa precoce após tratamento do câncer de mama: 'Desafio enorme'&nbsp;&nbsp;GloboSabrina Parlatore: a menopausa precoce durante tratamento do câncer&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZG5fQ0Z2T0VGall2VmU5azNyOWF1MENtWnZlNllxeHpJTDFEVTVNekF2SUE3TXhZTlBpRXJjY3VkLWxPTXlrU295QlUyNUlmcUlmUUlWNnJWVmdpcExFUWJpTVlaYWhGWlRudFR6bFNfZ1lfMTR3a2hCc3Y1ZkV4Q0dQUzZTSm5QdFpuZ0JLZGt1TzdwaWZBQXRxMWxtdXJYbm9scDdKU0VYOUU2Wnh6THdrWFhRZVBVcW1mc01GOHIwX3Bn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "53f84600e294",
       "title": "Hantavírus: entenda sobre sintomas, transmissão e tratamentos - Correio Braziliense",
       "published": "2026-05-12T22:28:00+00:00",
-      "summary": "Hantavírus: entenda sobre sintomas, transmissão e tratamentos&nbsp;&nbsp;Correio BrazilienseHantavírus no RS: após governo confirmar uma morte, o que se sabe sobre os casos e como se proteger?&nbsp;&nbsp;G1Por que o hantavírus é mais importante para o Brasil do que parece&nbsp;&nbsp;MetrópolesVírus letal que mata quase metade dos infectados está circulando no Sul, Sudeste e Centro-Oeste do Brasil&nbsp;&nbsp;Diário do ComércioCasos de contaminação por hantavírus em 2026 no RS não têm relação com ",
+      "summary": "Hantavírus: entenda sobre sintomas, transmissão e tratamentos&nbsp;&nbsp;Correio BrazilienseDa Antártida a Minas Gerais: por que o hantavírus importa muito mais do que parece ao Brasil&nbsp;&nbsp;Folha de S.PauloHantavírus no RS: após governo confirmar uma morte, o que se sabe sobre os casos e como se proteger?&nbsp;&nbsp;G1Vírus letal que mata quase metade dos infectados está circulando no Sul, Sudeste e Centro-Oeste do Brasil&nbsp;&nbsp;Diário do ComércioBrasileira deixa a UTI e se recupera 10",
       "sources": [
         {
           "name": "Correio Braziliense",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVjI5dlBxZk1tSzltNV9WY2xvRnZUcUdJOHV6dUx1a1FfQWtkYk9TSmlYd3k4TFdWUmxpbGxoWjhYQm81NkhBVGU4d0tEczgwQ0hrWjhjLTlVbUt3QnBuNFlkWjluSk5VVTYwZG82akVweXlzckR5VEFWWlcyUmZzbGFSSDVqeXA4RlQ1YTFvbnBIN3Y1WU1kS1BzdXMzSFBzVlVVaVFfVzVobzk1QjJRRXEyQnBsVFdndTQ0dU96djhEQ2V5eWpMeGRwQjI3RE3SAdQBQVVfeXFMTTBGOEV1dVNGbFdjT0wtbDA4YUpLV3lMNG9zY1l2clFzVUhKeFB0NTFOak5teTZtNzBhZzNmenNxZVJleGlFNUNrMFE5cThnWGZzbEg0V3dUTVhBcVVtczU0a1l4eHlZcHNJbDNOUnNDQ2EtWDFNUDJ0czdkc0ZIemlTNTZVWTZJUGFrTjRZMm9XYlRSdWgtOGg0Uy1HazFuZlRqSU5nLVgxNFFzQ09MSW9ZY2JrZEZUWTRINjRUbVNzbF9VSDFqR0luNUJMSWxwTHUtS1Y?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "057cd112c50b",
-      "title": "Rio inicia vacinação atualizada contra a covid-19 para idosos e gestantes - O Dia",
-      "published": "2026-05-12T22:03:00+00:00",
-      "summary": "Rio inicia vacinação atualizada contra a covid-19 para idosos e gestantes&nbsp;&nbsp;O DiaVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "O Dia",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS1Z3eTdHaE4zRGFScVQ0NlEtQWxCZkpvVHNYUlp6S0dwaVZXT0NkTzBRX1FoZk12RnBqWTJwWGpIdWdwN1hVWW40VGVpU1JBdkFXYmc1eTUzVDJrVnl6dlQ4Zl9aa2Y5NnhLdkpScEdSamhTZEw4WHVuaGNEam9NalJyWkgwVzV5LTZ4SmFkWXJROXJFQ09Hajdqakc2VjhDbjk1ZV9taGQ5U2RwaHBOT1pFWGZvbUNNQmVMd1N1akxKR2ktbHZXV3IwcGbSAdIBQVVfeXFMTTF6WWFVSF9tNF9fODFLWU1mbV9BaG03Nkk4WGxwSlpXMWY0c3phWmZhOFkwYlYtQlgtTkJ4YXNyeERiajgwYS1EMC0wR1dabmdaVGFvckdqZXlnUVhpYWxuWGdqbzc2OVQ3bmJQa3VmTGF6Q1BEeWtzOXBMeWFKNzM4WUZ0NFhFM25sWXNCdmxIV2lSaDYyN3B3ZGZHZGxUVE5wMUJLYnpWUU9xaHA4VHRsb2dVU1dqSkgwTnk5bjFTWXZud1FUemZSc21LcEQ5OUpn?oc=5"
         }
       ]
     },
@@ -258,14 +342,14 @@
       ]
     },
     {
-      "id": "052420b51a2a",
-      "title": "Primeira morte por hepatite A é confirmada em JF; cidade concentra quase 90% dos casos em MG - Tribuna de Minas",
-      "published": "2026-05-12T21:27:11+00:00",
-      "summary": "Primeira morte por hepatite A é confirmada em JF; cidade concentra quase 90% dos casos em MG&nbsp;&nbsp;Tribuna de MinasAtiva, saudável e apaixonada pelo neto: quem era a mulher que morreu por hepatite A em Juiz de Fora&nbsp;&nbsp;G1Mulher de 60 anos morre após complicações de hepatite A em MG&nbsp;&nbsp;Portal UAIFamília acredita que cuidadora morta por hepatite A em Juiz de Fora contraiu vírus ao ajudar vítimas de enchente&nbsp;&nbsp;G1Juiz de Fora confirma primeira morte com exame reagente pa",
+      "id": "9a6beea26641",
+      "title": "Família acredita que cuidadora morta por hepatite A em Juiz de Fora contraiu vírus ao ajudar vítimas de enchente - G1",
+      "published": "2026-05-12T20:48:24+00:00",
+      "summary": "Família acredita que cuidadora morta por hepatite A em Juiz de Fora contraiu vírus ao ajudar vítimas de enchente&nbsp;&nbsp;G1Ativa, saudável e apaixonada pelo neto: quem era a mulher que morreu por hepatite A em Juiz de Fora&nbsp;&nbsp;G1Juiz de Fora soma mais de 800 casos de hepatite A em 2026&nbsp;&nbsp;G1Primeira morte por hepatite A é confirmada em JF; cidade concentra quase 90% dos casos em MG&nbsp;&nbsp;Tribuna de MinasMulher de 60 anos morre após complicações de hepatite A em MG&nbsp;&nb",
       "sources": [
         {
-          "name": "Tribuna de Minas",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdkZ6T2JWN2JEcHo4LW51bUN3YkdLM0ZQZzVUWEZHUmtCZE04QUdMT21UdUJ6eng1cGV5eFZjamNUcGt1M0lkczBlWmp1eVFpU2VFZFA4aFhlQ0I5SkpMeDVNMXBDWlRlTmxGV1oySXBvYi1Wa290c0hpc0Rid0FaOEtZeUVyY2tZSHJkVDlwT3pjNVpuQmR1NnBUaTRVVEp3UmRla2RfOFFUeE41SEFFXzNiQW5UZHRpeWVTeG9LVTlmdWo4RVBsLTVBcHlBYjBaMDhWRlNSN1VYZ2hIWi1yd000dEg4UWs?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQamYzZVlCakpKX2JiRVpDS3dXYlc3Z0p2a0tUeEd1WDM5M0c5cmtuV25CcFNaejFxdG10dzZIWERLMWtHUk56T0VOTEg4MmowMHI3cVVBcGMtU0YxX0lrSmlkbnNLRUM1eEIydmdYRmZVdU4tN0xYcXNndjk1TnhlbDQ0aFVTa0dYRDhrNEdBU3czblRGOVNhdHhZa1RlY2lpVkJGamI3SVpCdV9raFZ2Q2FIMWFmTFBjNmw2d2p6eEtFR2w2RFpFRFU4SXE0d2dqRG8zclNxeGJsMHRLUGZLSkc1eXp2UlNrQ25uSUdpMzhsdHpTNHpuX0hRbzVqeU4xWEJWctIBkwJBVV95cUxNWHlGWHlsc0R0eThENEVHYzlnQ2Z0WjBjTm1DR0wxaE9KdnJKOXFLLXZMbG5pNG5tOGlJUDJoY1FTb2NFZFAzUjZjdktqbE4xMktXbG1RdmFrWXZKLXU1YnJwRFpFdDdoZTFacWtYZm9rbHlqUXdkaTk4SjZOQ2V0OFFXemR3eGdPaEJzZG1rOW5naFZwOXVHWldrNlJEYnNNMkg5a2JhTmJtNFNXTEdWUWVlcy1ZS0N5REpYSEdWSmZBVU14b1RVNEFqWEJkZXBrYzMxLVFLS3Y2cnd4c3ZTN21qUldHWXN4S0tJcEJMU0gzV1ZpX3FKN2h2SU5JOFFIbE45UzZRbjFYcS10aGZPV3l6Yw?oc=5"
         }
       ]
     },
@@ -330,66 +414,6 @@
       ]
     },
     {
-      "id": "ea386e1779b5",
-      "title": "O que está matando filhotes de foca no Canadá? Verdade macabra é descoberta - UOL Notícias",
-      "published": "2026-05-12T18:34:47+00:00",
-      "summary": "O que está matando filhotes de foca no Canadá? Verdade macabra é descoberta&nbsp;&nbsp;UOL Notícias",
-      "sources": [
-        {
-          "name": "UOL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPWDJ4ZlVSRURUNHNZcHJhQlEyLUFoMUJRcmoweHJHMWZqX1FNWEJteU52ajJMRzVPd1BTWnhEYmZQOTVnNW9oWV94aXBlM3FhQ1VlRVVqTFZhYW02M2s4Y09KT09WVFZLY19FWVY3QjlZQ08wSlQyVXhtTi03b0hKRnE1R0pkTEN6eVltcDBxSVB2a3dYbG1seTFBS212X3pSdUNBWEhJNUFhemo2RUJMeFZ2dWxfa2pTcjlnUFpSZzBpY3FwY0ZoU3V1T3J5OV9QeVlSazRMV2FVWDBucWVoWTJ3NjBvTVVRLWV2OEJn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "27d5f38eead8",
-      "title": "Bióloga propõe erradicar mosquitos que transmitem doenças como dengue e malária - Folha de S.Paulo",
-      "published": "2026-05-12T17:10:00+00:00",
-      "summary": "Bióloga propõe erradicar mosquitos que transmitem doenças como dengue e malária&nbsp;&nbsp;Folha de S.PauloAnimal mais letal do mundo é menor do que se pensa&nbsp;&nbsp;ExameO animal mais mortal do mundo: por que este pequeno ser mata mais que tubarões e cobras&nbsp;&nbsp;Gazeta de São PauloE se matássemos todos os mosquitos?&nbsp;&nbsp;Plataforma Media",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZzZ0Zzh1dFJQMUdyWGI3ZjY3WldLdG1WNUxsckEybkNHbHNQNG0xUVJ0N2xFMVhUZUdWc19kWXY4ek15bnhPQ29jTzNUbDI5dERUMVF6bndpN1R3cTZmeFFUdkVwN3NhSTM3dnlXelRIOWNaQ1NTNmE3bXp3T2VwWUtJbHY2Y1EtdkhmUElCZjVHYTJMU1AtdjBPWmE5MkFNZGJLano5R3dlU2g1SHJsbDV2TFFaVDJlbW9qVEljcS01OUNWSXgtREV6QdIB0AFBVV95cUxQd2RGMnpVVTBOSkp6ckRva1pVOThQeTd3d3JnMGF1ZGNqaHM5VW9GS3FQVEozc2wyaXVJVGNjd1FtMU5DSTVENjcyeVk0dkxtbFB4WE90M0E3YS03d2ZleU9MUzl3bE95UkRoOFNoQ2J2WG5MZnRjRkEzTXViZWFzZ3p1dmFyZl9kR0NnWlAzNkZhQUlxQzR6Qzd1MHhHZWlUWjFCbGRCc0hwS0l2RXBMWEtRal9sd2xYYklXMkwyRTAtVjhSUDREY0N2d0NfeXdi?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ee6fd48d118e",
-      "title": "Médica explica se existe prazo da pré-diabetes evoluir para diabetes - Metrópoles",
-      "published": "2026-05-12T17:05:00+00:00",
-      "summary": "Médica explica se existe prazo da pré-diabetes evoluir para diabetes&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUmEzeHg1TmxudGhLeFFqeVhRS2Q3al9pWUtxN19rWFh5NjAyNUpiQ0RDZzZLT2p6R1JiamdBQ3ktSFcyOEtMbXpiUHRQZEtHZEg4MVBlZG5tS1BqdWlPZ2ZRMWl4YjhDWDJaMlFkdndMRFRoekljV3E1UjVXRjV0WldySGQ4WS1JQjVrM2oyZmgyWUxENmVKMHV1bzU3NnF6LTg2UThkeENRN180eXFwVW9Ja2hjODR5SHlIdA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4259c3c3f93c",
-      "title": "Alzheimer pode começar décadas antes dos sintomas, aponta estudo sobre falha no uso da glicose pelo cérebro - Gente Seguradora",
-      "published": "2026-05-12T16:56:58+00:00",
-      "summary": "Alzheimer pode começar décadas antes dos sintomas, aponta estudo sobre falha no uso da glicose pelo cérebro&nbsp;&nbsp;Gente Seguradora",
-      "sources": [
-        {
-          "name": "Gente Seguradora",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcW5IVDFEeTZ6NXlEUlZqdWhrQnowLUhsQVBWdzBHbFBGUEpoUjQ2QkdIMEFuekZjUk5lSHF4UkhySVFIYU85SGc0aklEdGFSNlFwaVFRaXlFampfbXlOcU9Yc0dkZ0lKaE5uTG9jdFhyZlQwQXNvT1VJSjFEUlhmay1ndWh5WjNTQ18wVFhiMG1FNnM5UWtZUm91YnBxekkxZm92R1NfUXVHUktiSWM4OWd2QW8ycTJ3bVdpemFtajZycm9hQVRXT1VCQkRNRWhUSGxGaw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "49ca0458b93a",
-      "title": "Minas Gerais amplia público da vacinação contra a dengue e passa a incluir trabalhadores da saúde - O TEMPO",
-      "published": "2026-05-12T16:54:01+00:00",
-      "summary": "Minas Gerais amplia público da vacinação contra a dengue e passa a incluir trabalhadores da saúde&nbsp;&nbsp;O TEMPOVacina contra dengue é liberada para público com 59 anos em Bauru; veja onde se vacinar&nbsp;&nbsp;G1Dúvidas sobre a vacina da dengue? Confira quem pode tomar e onde se vacinar&nbsp;&nbsp;Prefeitura de JundiaíVacina da Dengue é ampliada para novos grupos em Osvaldo Cruz&nbsp;&nbsp;FM MetrópoleVacina contra dengue é ampliada em Atibaia; veja quem pode tomar&nbsp;&nbsp;Portal da Cida",
-      "sources": [
-        {
-          "name": "O TEMPO",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOM1dBRFdTd0huRVZvQW1JSVdpTGdZb1ZjUktFc3F5MUVPc05qdzRlYnB2RVFESjdBVTBpLUZVY1FPNEJENXNZa1pRWi1sRnpsR3FtMHFrclNxUFJzYmwxdEtLU3pUSXlQS1ktaE8zLVNGU2FyTXM5ZmxHOWxxZkxObXlhNGdQeU9meW5mamptWDVnNVF3NVU0Ui00QmdNMXMyVnljWld4ZFJSNVdGSmZtTEpVbWRnbHlQLVZybUsxTFBSX3VXLXpmclNtTkt0ZjVQY1VhVmZjQ1Q?oc=5"
-        }
-      ]
-    },
-    {
       "id": "85a3bbcb4e56",
       "title": "Estudo da Nature Geoscience já tem data para o fim do oxigênio na atmosfera da Terra, a pesquisa aponta que o aumento da luminosidade solar vai reduzir o CO₂ disponível para a fotossíntese, levando a uma queda abrupta do gás daqui a cerca de 1 bilh - CPG Click Petróleo e Gás",
       "published": "2026-05-12T16:14:00+00:00",
@@ -414,54 +438,6 @@
       ]
     },
     {
-      "id": "1484a12b5ae1",
-      "title": "6 mitos sobre saúde: maioria das pessoas acredita ao menos em um; entenda - Diário do Centro do Mundo",
-      "published": "2026-05-12T14:55:40+00:00",
-      "summary": "6 mitos sobre saúde: maioria das pessoas acredita ao menos em um; entenda&nbsp;&nbsp;Diário do Centro do Mundo",
-      "sources": [
-        {
-          "name": "Diário do Centro do Mundo",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYXVPV3htRjI1Wkxpdi1qbHkxYTVfd3FWWDhLR3BxTWg1MXZ1T3VzQUpETThMUElWQ0xGR3N0NXd0RHI4aFpRbVB1Tk9INWtNY25tSzc5V0FwcEFVbjBOUllGTVRVMXBiaGJmbnhwY09MT29ObllTME1KRF9DUHNqczJPS2h2eWJtM18xVVA4Nk00eFZoaWVKRWRoNG1TeHEwMGF6a2hJZ203MlZDbnk2TWZ1TlBLMy1qRlVPWGVaU3A?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4b84fe989e69",
-      "title": "Prefeitura esclarece situação da ampliação da vacinação contra a Influenza em Divinópolis - Prefeitura de Divinópolis",
-      "published": "2026-05-12T14:19:51+00:00",
-      "summary": "Prefeitura esclarece situação da ampliação da vacinação contra a Influenza em Divinópolis&nbsp;&nbsp;Prefeitura de DivinópolisPrefeitura de BH amplia vacinação contra gripe para toda população a partir desta quarta-feira&nbsp;&nbsp;G1Procura por vacina da gripe segue abaixo da meta em Toledo&nbsp;&nbsp;CatveVacinação contra influenza está disponível para toda a população nas UBSs de Boa Vista&nbsp;&nbsp;Folha BVCampanha de vacinação gratuita em Alagoas tem prazo para acabar; saiba quando&nbsp;&n",
-      "sources": [
-        {
-          "name": "Prefeitura de Divinópolis",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOS2NYaTNIVkhHNXE3Y1JQYkVRdmFYY0l1SGZkbnFNVGZrVFdyVVJYTm01QzNSLThnWkFmY0VDTF9mU0tMTHNURldWRllKaS1ZU1kxb25Db1dlYm9sLVdKMVJtRUlvRGhadkxYYzJGVFBLTjZiRHR6d0I2c19OMk9ZMjlOVjZWVEtWeVhZWG85bDAtTFc5dTZWQmdIb3JXdW9wUndndHNEdlZldHlYQzVhcVdrWEdpbko0WkJQdkQwWFZLeFM1eTBDV2VrX004d29HM0JKeXVIMnphYS1jNWVna0pSNA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7bc1d722dd9f",
-      "title": "Câncer cerebral agressivo: pesquisadores criam nova vacina que aumenta a sobrevida de pacientes; entenda - O Globo",
-      "published": "2026-05-12T14:09:25+00:00",
-      "summary": "Câncer cerebral agressivo: pesquisadores criam nova vacina que aumenta a sobrevida de pacientes; entenda&nbsp;&nbsp;O GloboVacina personalizada mostra efeito promissor contra tumor cerebral&nbsp;&nbsp;MetrópolesVacina pode ser esperança contra câncer agressivo&nbsp;&nbsp;Correio BrazilienseVacina contra cancro no cérebro é segura e mostra resposta robusta&nbsp;&nbsp;dnoticias.ptA primeira vacina contra o câncer cerebral apresenta resultados promissores em ensaios clínicos.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRWlTcU9OOVVtWHlRYllRLU5JdHFyek5zTHR4eHpZSGZMcmM0MjN0Zy1JUjRGTkkyU0ZGYWEwWC1mcS1XTC1WbkJuQ3Z5VkZmUGVLV21EcmVNbjNENmZxS1J1N25UVUtNRmt2cnR1QkpQZnVaVVllNFNOZWFOVDRGY2xqbzEyM09nWkNhcjlHRWoyN2psY3FXLWZPbHRoVjNlQnZjT3R0NEl2Z09iZ01HTXROQ0Y0azdhQmRUOThzb2RaUXBfLXlZSGcxaDJQTGEtYmNIYzdiYWJnUU5FSnVTUVp1RWtsTkxhMzkwWDZR0gH8AUFVX3lxTFBnS3EtWXpnNWtQZkZsQXg0X0lrcTNjdHh6ckUtYkQ1V3pON3hHRXllRUpPYTRvUkl6bU1zT2VUeXhwYXFZMmtuSDh2Y01TakhWU25GSHdna2g1R0ppN05HV1hmSXdyTGtMaW5nMWZ2Y2NYQzdLQ2JHcjdaNzEzSE9oUy1hbTVuZWFXWUsycTdadEptQzdGblk1anlBV056WlhpaWhUb0VBVFJTU3FwYW1talNLaUV1ekZBOEctZVpLYmcwNXpJcXNmR2JPSFhaXzE2bzV1eHRrUWl4X2VRT050dHNpNHJBdS1ibW1abUNfR2E2alVYZ292Q3FzSw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1ec8f3de2fa1",
-      "title": "Instituto de Ciência e Tecnologia entra na rota global e carimba o passaporte da inovação no Itaú - NeoFeed",
-      "published": "2026-05-12T13:47:00+00:00",
-      "summary": "Instituto de Ciência e Tecnologia entra na rota global e carimba o passaporte da inovação no Itaú&nbsp;&nbsp;NeoFeed",
-      "sources": [
-        {
-          "name": "NeoFeed",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTmk0dmU1N2cycDRIeU5MWXdyM1QyQ3ZhTnJGckZyZlBRNTZkUmZFUThrMFRIeUFjaG1yMFBFa3A2QlN1SGZWaUs2Rmp6T3RDZzBFR01Wd1BiTDlwVVJZRm5fZnd2anQwbTMyelgyVndsS3FYV2JTRE1uNjF4YklHS0dicG9ONDZEWE93Q0psYktDY1RfY3JreFJPcE9FTE9BQWRFbUhGMFBPa00xUml3X2lnMzBxcG9GSldMX3dmSVJaNjNRMnBka3lB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8690e8b189cf",
       "title": "Jundiaí recebe nova remessa com 15 mil novas doses da vacina contra a influenza - jornal da região",
       "published": "2026-05-12T13:13:03+00:00",
@@ -474,22 +450,10 @@
       ]
     },
     {
-      "id": "36a1a3cb7d41",
-      "title": "Bomba nuclear explode no deserto, derrete areia e cria um cristal raro que cientistas dizem não conseguir fabricar em laboratório comum - CPG Click Petróleo e Gás",
-      "published": "2026-05-12T12:29:00+00:00",
-      "summary": "Bomba nuclear explode no deserto, derrete areia e cria um cristal raro que cientistas dizem não conseguir fabricar em laboratório comum&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOZEg3YWRpUG1wMVU4aVoyNTdDV0JGNndBQUdiNm5NMGxiSldDN2JJbjRHdW4yTUM3WFl5azFNUG1uaHZoRFE4SXN5TGdnSEZVZmxQMEUxUV9IUElBQ044YUd4RkI0VkozNl9pRFhaekNqVGFNSkJrX2JxWUNWSEV5Y2o2WXlWVElVSTlSNlBpaTYxbV9vdDZfbEFPbXdnQ2JuT2xqNHU2TDVhUlYxZEFCRnBlNmFBaU9PdW1zZ2Q2ejlTZE9ZZnQ5U0ZxQzhNQXBVLXlNNWpCWTFRLU5XRjdEdGNfSkw5UEJjTV9SOGZfRExjN0dlZG1ORWZKZkdqa0p3anBGcFdn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4d1309bc1f07",
       "title": "SUS atualiza protocolo de asma com novas regras para diagnóstico e tratamento - G1",
       "published": "2026-05-12T12:00:33+00:00",
-      "summary": "SUS atualiza protocolo de asma com novas regras para diagnóstico e tratamento&nbsp;&nbsp;G1Estudo aponta que tratamentos inadequados podem agravar asma&nbsp;&nbsp;Poder360Veja como usar dispositivos inalatórios; 87% dos pacientes erram uso da bombinha para asma&nbsp;&nbsp;G1Uso incorreto de inaladores compromete tratamento da asma, alerta farmacêutico&nbsp;&nbsp;AmEmPautaEstratégia Global para o Manejo e a Prevenção da Asma (GINA 2026): o que mudou?&nbsp;&nbsp;Afya | Home",
+      "summary": "SUS atualiza protocolo de asma com novas regras para diagnóstico e tratamento&nbsp;&nbsp;G1SUS inclui remédios no protocolo de asma; Campinas tem média de 27 atendimentos ao dia&nbsp;&nbsp;G1Prefeitura abre campanha nacional contra asma e oferece serviços gratuitos à população&nbsp;&nbsp;Prefeitura de João PessoaAsma: tratamentos defasados reduzem função pulmonar em 60%&nbsp;&nbsp;Medicina S/AEstratégia Global para o Manejo e a Prevenção da Asma (GINA 2026): o que mudou?&nbsp;&nbsp;Afya | Home",
       "sources": [
         {
           "name": "G1",
@@ -525,7 +489,7 @@
       "id": "2fb956744986",
       "title": "Atividade física após diagnóstico de câncer pode aumentar sobrevida - Metrópoles",
       "published": "2026-05-12T10:00:45+00:00",
-      "summary": "Atividade física após diagnóstico de câncer pode aumentar sobrevida&nbsp;&nbsp;MetrópolesExercício online melhora saúde cardíaca em sobreviventes de câncer de mama&nbsp;&nbsp;R7Estudo da UFPI revela impacto da alimentação e do treino na recuperação do câncer&nbsp;&nbsp;G1",
+      "summary": "Atividade física após diagnóstico de câncer pode aumentar sobrevida&nbsp;&nbsp;MetrópolesAtividades físicas para idosos: um aliado na longevidade e no enfrentamento de tratamentos oncológicos&nbsp;&nbsp;93 NotíciasEstudo da UFPI revela impacto da alimentação e do treino na recuperação do câncer&nbsp;&nbsp;G1",
       "sources": [
         {
           "name": "Metrópoles",
@@ -534,62 +498,26 @@
       ]
     },
     {
-      "id": "b5fb875e936e",
-      "title": "Luara Fonseca diz ter passado três dias acordada antes de diagnóstico de transtorno bipolar; entenda a condição - G1",
-      "published": "2026-05-12T08:31:04+00:00",
-      "summary": "Luara Fonseca diz ter passado três dias acordada antes de diagnóstico de transtorno bipolar; entenda a condição&nbsp;&nbsp;G1Luara Fonseca, influenciadora de Santos com 30 milhões de seguidores, revela transtorno bipolar em seu aniversário&nbsp;&nbsp;A TribunaInfluenciadora revela diagnóstico de transtorno bipolar e faz desabafo&nbsp;&nbsp;MetrópolesInfluenciadora Luara Fonseca revela diagnóstico de transtorno bipolar e faz desabafo sensível sobre os sintomas&nbsp;&nbsp;hugogloss.uol.com.brSanto",
+      "id": "07aba822bc7a",
+      "title": "A maioria das pessoas acredita em ao menos um dos 6 mitos de saúde mais comuns, mostra pesquisa - Estadão",
+      "published": "2026-05-12T08:30:00+00:00",
+      "summary": "A maioria das pessoas acredita em ao menos um dos 6 mitos de saúde mais comuns, mostra pesquisa&nbsp;&nbsp;EstadãoDesinformação em saúde: estudo revela riscos no SUS e no mundo&nbsp;&nbsp;Campo Grande News6 mitos sobre saúde: maioria das pessoas acredita ao menos em um; entenda&nbsp;&nbsp;Diário do Centro do Mundo",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPdHZmQ0tzSGowT3Fmc1N6QjJlcDRIbUpnNW9oc0NoQmx6TWF5WlFBQlJnQ1BxUGFROXlJakhuNHgwTWdtQ19waWtNWnFtRHl4MTNkNDFfeFdzUklONGFJcm9EUVVNMEVXRXpuSzFVbW1PdWlmT2lsS2l1QUxickVkZ3g4N0EtZ1UxTHQtMWNGNnctRUhyRkdsTmhsSDAzbFMwTWkwd0pqRFBhY0lSbjdHNXZsaHZ2aUNGajVsNld3WUdMWU1GdzNqd1FOMW9MSjE2cmVCb1RqUDFDQkVhcnFkSGI3VnVCTEk1bWZ2X09UTjNMWVJrbnhMQXROX3VzaVN4NjBhUVFiMnNvZmRJUnA1TWx30gGgAkFVX3lxTE9jaktvVElxMnQ2TmZxWkI4aVBYclFhdUtlZFc2T1UyVWdnclFWR29hWXJMWmY1TEl1T1U5eGlEbjlPdXpPb1F3bHU1OHVwYWR2cThaeHV0YzFteC1pV2MzbDc1LXd6VzBVU3puS0N4cENoRHFRN3hpNkU1UmNKV2NUV2xLRFpSWXBjQW9pNTZjRy1uUzl2QUFqTEhvMGZsbkNJYXFSblVCMVhoZ3lRRHBURDNqamg1UGhwNGR3clZWMm9KeVUzVUIySF9RcUVUam56b3M1eG5PSU1EOUxVTEVndUFPb2FaTEpMWmQ1Q2FBdk9HaXFRUlNhV2M0XzEtNGxUQWpWdEtCa3A0VnZFZEdvREdHSHNYZDVJTGJ2Z1Y0Xw?oc=5"
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPV0xwQ0dOU0NGbHJnazRwQU0zSzZjMUp4a1VwbGt6VFRUWmZYN0hXMmg3TWw4cU5XV3AtSHJ2MU9LZ3NOQUdTby1KWHpUbXVielozM0l4Q0U4aHpIU1R2YzBQd0h5OFVIbWxqcC12QlM1Unl5UE9NVUc0dFhSX3d1eGtwaDFFRjBGNXc4NUNNZEVGVHI1Y2FVbEF2cmFjQjlWelA3TDZVOE9iS1pLRFByNmg1SVZJWG10NkVBZmpFQTRrYUdEbjBLVmFnX3cxUVZxTnVhN2dlYWxOWWN0Z19USw?oc=5"
         }
       ]
     },
     {
-      "id": "c669c2b44ee7",
-      "title": "Alho negro: como esse alimento age no combate ao envelhecimento - O Globo",
+      "id": "2a6cb54b11a5",
+      "title": "Alho negro: como esse alimento age no combate ao envelhecimento - O GLOBO",
       "published": "2026-05-12T07:30:42+00:00",
-      "summary": "Alho negro: como esse alimento age no combate ao envelhecimento&nbsp;&nbsp;O GloboAlho negro: por que este alimento é o segredo da longevidade&nbsp;&nbsp;TerraAlho pode ajudar a reduzir pressão arterial e colesterol? Veja 11 benefícios que a ciência vem investigando&nbsp;&nbsp;Portal UAIO ingrediente comum na sua cozinha que blinda o coração e aumenta a imunidade&nbsp;&nbsp;Revista Ana MariaCientistas japoneses descobrem que alho pode retardar o envelhecimento&nbsp;&nbsp;Portal Mie",
+      "summary": "Alho negro: como esse alimento age no combate ao envelhecimento&nbsp;&nbsp;O GLOBOAlho negro: por que este alimento é o segredo da longevidade&nbsp;&nbsp;TerraAlho pode ajudar a reduzir pressão arterial e colesterol? Veja 11 benefícios que a ciência vem investigando&nbsp;&nbsp;Portal UAIO ingrediente comum na sua cozinha que blinda o coração e aumenta a imunidade&nbsp;&nbsp;Revista Ana MariaCientistas descobriram no alho negro um composto que pode ajudar o corpo a envelhecer melhor&nbsp;&nbsp;gi",
       "sources": [
         {
-          "name": "O Globo",
+          "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZEJwTk43WTNPemRPSUl5RjZGTUFfMllyTXlJb2l4VV9yYzhvMmlDTlQwYmoxb2ZBR2xBR2tjTnBBTmxCVW5FOHctUU1aN1VaZzZNVTVHR1RqU1pWMXhvS1QzN1RTcGNfSWtYZGcyc2M5ZHR4c2R5dkt3N2huM0ZhdmY5aEx2ejE1alI2cm1nZHR6bXNYU0lrbEFwNEh3RWI2TkFscmZ5UU9HSUF6XzJZQlNqcldwMWc2eGo4dTB0S0VaOEhXQXJhX1JXWkVJcWlUTUdIV19ia9IB5gFBVV95cUxNckdlTGFkQXJSUXI3N1Z0OTRtVVJkUzJBR3R5S3BzSnBfOFEtcFBCU1JBUkhSSXlHQTM1TEZZdnNtcFFmSWI5cnNmWEJ2a2RLaElIbW44TFFYYUJ1N3pibUljMHd0YU1BM1NoUVZaSER6TE8xMHBIbXgwdkxsdGpDRERnUEs5ZlNVRURldURDV0JRQlZpVW9TVzlrSE1TUmFhSDZCWEpBNVRZWnVtMEtGczFzSFRTeXlmdVktbzBVZG0xbXNyUTIxMkFBcXFEOEFqTkU3Q2RFZWg3RkhNYkg1OENYU3NtQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e450e4f91d3b",
-      "title": "Exercício chinês de 800 anos pode ajudar a reduzir pressão alta, aponta estudo - O Globo",
-      "published": "2026-05-12T07:02:27+00:00",
-      "summary": "Exercício chinês de 800 anos pode ajudar a reduzir pressão alta, aponta estudo&nbsp;&nbsp;O GloboVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNzA5SHVuaUtZMVlvb05pSk5sVE1uS25SQ1B2QW1sbU51QXFmeGJEYmtWbm1xTWlqcndsenhwM2FDSU94b2JlSEVXc3JsWVRDMmFtTTBnaXB4MWtELXFPVmI4aEVOX3Q1VlhFci1xQUgzWXFfT1ZQTWdjdkRsMzdZU1gyV2VmZFU2VE9LV1hFMmlsVlEzQU1lb04zSW5ta0I3RW9HQnpZQnZmMTNXOHZJNUFUUXlLSnJjWlM2OXN2QjhqXzhHdDJGMEVVS0UxQdIB3AFBVV95cUxPWTFYVmZTTUNMSWhZTXdBSXkzQjJnR1N1VTFNT1czQ01LVDNhanJvVDVzeXhMTWtOWXVMOUVpVDVNSUt6QVY0OGVKYm1pdkdUOFQyVTMxRWtjV2VmMl9HbmdQNkZYLWNIdkFFNkhIcFF1ZENkaTJ3Y0NUSmpwOTFNWGlmU2JwXzB0aE9Kd0dEN09tVzItRmpvOHg3RFUzbEpCWUNWUGp1cm1kcU9GZ2x1N0pnd0xGZ2ZRWDRORGVDdHRiMlpFdmNFUmNIMllKcUl0ZFNaTl9kUDJkUXJy?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5aaa6c30f56d",
-      "title": "Matemática para ver e tocar: documentário celebra 30 anos de laboratório pioneiro da UFBA - Jornal Correio",
-      "published": "2026-05-12T01:27:36+00:00",
-      "summary": "Matemática para ver e tocar: documentário celebra 30 anos de laboratório pioneiro da UFBA&nbsp;&nbsp;Jornal Correio",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSjF3bzFrMGdRZ0tDcmNYZVhyZVQ3T1ZXYm5HQWF3X0w3bkIwWFh5TEw5WFB5YUszTjI3V1RUR0lCczNtcGFDcFFYUDV3R0hvYm1TLV9LbmNjZnlMRXAzWkxsXzJaLVVHODdNSmVrdFlLNXluU1cwSFJOcmU0R0I5RzExYkl6WUFkaUJUSnRKYjBIRWhQOGN4aFgtQ28tRzVDbHJPV3BCYmFWXzFMTTZ6VXFTd3ZYNDJIWHF0MDQ2UHRDa3JlX21PZzNCM2NDMHFrcUdtX3VB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "898c9c6e7bf0",
-      "title": "Seis cidades da Bahia estão em epidemia de dengue, diz Sesab - G1",
-      "published": "2026-05-11T19:50:43+00:00",
-      "summary": "Seis cidades da Bahia estão em epidemia de dengue, diz Sesab&nbsp;&nbsp;G1Bahia registra queda nos casos de dengue, mas seis cidades seguem em epidemia&nbsp;&nbsp;Metro 1Bahia entra em alerta com dengue e seis cidades já em epidemia&nbsp;&nbsp;Jornal O FluminenseMais carros fumacê reforçam o combate ao Aedes aegypti em Alagoinhas&nbsp;&nbsp;:: Bahia Jornal ::Alagoinhas recebe 2mil testes rápidos para diagnóstico de dengue&nbsp;&nbsp;Prefeitura de Alagoinhas",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRVZpT2prT29DLXdzRGJETzlaYjhhZWxQY2lnZTZ5Nm1pcnR0U0Jja3JWTFRIdFVLMlFhOUdla2hlNnFTU09rY2lTamJFemZiRHRCSThnX2dlWC1nSHQ2bVhvMGpMUFFCaGEwNUsyTER2aHZsdGxsb2pBa3FMdkZtYUlCdDBqbnFSQ250Qkl5aElkcFVhb3cwMtIBpwFBVV95cUxNYlBLY25HTkFzSFg2eGdrVWp5WmU3YkxmencxcHBIcXAzYkRzZDM2aThlY2owaVhPTU1LSUdPZjlWOVlEU3k5NWsybVl0eDNaczZ0b21sYmVGRjA5djZtWkZqZG5fOGFBSnU1OVVtMWFRQUhabzlWTWtsUG5MSVNQdldxQUs1LVI1Q2VJa2ZEXzgxcHZVaHdsOWo1YUpqaXJhbjVPcm1VSQ?oc=5"
         }
       ]
     },
