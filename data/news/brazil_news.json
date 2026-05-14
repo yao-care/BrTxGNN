@@ -1,10 +1,46 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-05-14T08:40:33.039417+00:00",
-  "total_fetched": 104,
-  "unique_count": 101,
-  "health_related_count": 37,
+  "fetched_at": "2026-05-14T14:19:54.773324+00:00",
+  "total_fetched": 101,
+  "unique_count": 98,
+  "health_related_count": 40,
   "news": [
+    {
+      "id": "8d913fe102c9",
+      "title": "Por que uma doença que afeta mais de 170 milhões de mulheres vai mudar de nome - VEJA",
+      "published": "2026-05-14T10:38:25+00:00",
+      "summary": "Por que uma doença que afeta mais de 170 milhões de mulheres vai mudar de nome&nbsp;&nbsp;VEJACientistas mudam nome da síndrome dos ovários policísticos&nbsp;&nbsp;Folha de S.PauloSíndrome dos ovários policísticos ganha novo nome: veja o que muda para pacientes&nbsp;&nbsp;Folha BVSOP: Síndrome dos ovários policísticos terá novo nome após consenso global; entenda o que muda&nbsp;&nbsp;O GLOBOCondição que afeta milhões de mulheres ganha novo nome&nbsp;&nbsp;TNH1",
+      "sources": [
+        {
+          "name": "VEJA",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQklDdldfTVpvTW5BT0F4TkFpSXpoaGtBUUwxY0xiMHFiLW80SWtXNklwYzFtbmJjRzlLTFZlTEppTGN5cDhXTUpXUGozNnljU2RzOFRmdFZETWl3QjVVV191dVFuYXA4WTN1RFZ6VWw5SzF4SzNhVXZzcTJiYzR1WG9JVFdHdnh3YUM2T25MWk10QXl1ZjhTTVpsVUhkN1NSdkxXX01uN1NldWI2UzBVRA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "505a79ae116d",
+      "title": "Machos com 'útero'? Pesquisa da USP faz descoberta inusitada sobre jiboias arco-íris - G1",
+      "published": "2026-05-14T05:03:52+00:00",
+      "summary": "Machos com 'útero'? Pesquisa da USP faz descoberta inusitada sobre jiboias arco-íris&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdEQzY2llUHZsOXRINWpNRkUya3pqUEdrZGpSMlRrYnpJQmxxRmM5WkcxaVpkXzAxclNNN3QzZThtTDJleWtzTnBsNmo5WTd5VTN5VjhPUlBGRzZldU1jeTVkbFNZUnM0ZEVWUWdyRTVFZmRTaGRUOG5KdlViVzdhV2p4c0NBRmNrVXhjaVFWYkRlVlk3aTBvaWVtSnFHM1lNc3Nkd2lxbnFkVkJKZ2JOb3BZWHFZbDE5eGNOeGg3VERSVGp5b0YyeHNLNFg5akUwWEp6VzJBNGdidHI4dTFDdGwta9IB8gFBVV95cUxPRm1VMVdGZVY1YmZXazVvcWg5b3hCZ3FuM19NOUlMMmpmM05sVEhSdlJvc2VuM1FIdUVMSF9CYkhyZ1ZINkhWdGVRbmE1eDNWZjk5Q3VWcFhzOXlHOUtsZUNSOFRaY2E0a29xQ2lhRW1YUUxjeEdIVFd0SnIyQm9kNUlsZ2g4eGZEcldaWm9Ib0RWUlZrQXVZc2ZuQkRQdHVCWmZ1elV2MV91ckhFZjl4NDJnc1NidDdKZ2dRaHg4SGlTeGljdWIxYjJQZGNMeTlBcnRES3M0czRNMlhHT0lnUVBENFpXd0VNdDRaZ1habFdqQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2e1b834386b0",
+      "title": "Vasco participa de pesquisas científicas em parceria com a Escola de Educação Física do Exército - NETVASCO",
+      "published": "2026-05-14T04:48:00+00:00",
+      "summary": "Vasco participa de pesquisas científicas em parceria com a Escola de Educação Física do Exército&nbsp;&nbsp;NETVASCO",
+      "sources": [
+        {
+          "name": "NETVASCO",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa3BpMERqQmVtWDliNXNaNjZESlppQWI3a3RHMnNmX3Z1alN4LWIwazc4OEJfbG9xcXhzS2RiUDFRdDRRZDlFdEZtTE1zTlZQRWdmVHVvS0VWejA4U2xjXzU2NGxFUXNQNG44LUI3b1djWnJlUHhEd3U1OUE3UUxKdEY0Ql9zOU01TVJIOF92UTJBN3g3aFd3N0wyOWJhMDBXcF9faXVacVl0X3RvOXNRZWUyTmdhQS14WmdzVWxHcnk5Wm5JbktQSQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "60b965f6da62",
       "title": "Caso Ypê: Bactéria fatal foi achada em mais de 100 lotes durante inspeção da Anvisa - NSC Total",
@@ -54,14 +90,14 @@
       ]
     },
     {
-      "id": "a310a7c753b6",
-      "title": "Gripe: Campo Grande libera vacinação para toda a população - Campo Grande News",
-      "published": "2026-05-13T19:49:00+00:00",
-      "summary": "Gripe: Campo Grande libera vacinação para toda a população&nbsp;&nbsp;Campo Grande NewsVacina contra gripe é liberada para toda a população em Campo Grande; saiba onde se vacinar&nbsp;&nbsp;G1Mudança brusca de temperatura impacta saúde das crianças em MS; saiba o que fazer&nbsp;&nbsp;MidiamaxGripe em Campo Grande: Sesau alerta para riscos do frio&nbsp;&nbsp;Campo Grande NewsCampo Grande amplia vacinação contra gripe para toda a população – CGNotícias&nbsp;&nbsp;campogrande.ms.gov.br",
+      "id": "7e791f455c6a",
+      "title": "Campo Grande amplia vacinação contra gripe para toda a população – CGNotícias - campogrande.ms.gov.br",
+      "published": "2026-05-13T19:07:00+00:00",
+      "summary": "Campo Grande amplia vacinação contra gripe para toda a população – CGNotícias&nbsp;&nbsp;campogrande.ms.gov.brVacina da gripe liberada para todos em Campo Grande&nbsp;&nbsp;Campo Grande NewsMudança brusca de temperatura impacta saúde das crianças em MS; saiba o que fazer&nbsp;&nbsp;MidiamaxVacina contra gripe é liberada para toda a população em Campo Grande; saiba onde se vacinar&nbsp;&nbsp;G1Procura pela vacina da gripe diminui e frio pode aumentar circulação do vírus&nbsp;&nbsp;Correio do Esta",
       "sources": [
         {
-          "name": "Campo Grande News",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTENWRHpVaVZGdWw1cG5OTndxTTh5Nl9PUTJmUGd6MktMbm56UHZieHkxbXp1Zjd1em4wTVAzSk9BX2JuVmdENTdMNnJOcDJacldhZ1hjR085bG4wZEVnNnZndmIyZkN1NWdWSFJsM0huSTI3UnAwUnZsVUNyY0MteDRrT1FnUDBhZmEtWmxyQlpYQmkzYWduUExuYWpsU1dBdUNJX2RUR2xlYXZVWEY3dG5sUnZGTFhUZEI5akVsRlRad0VhZFEtVVE4WlRzd9IBzgFBVV95cUxOQ251Y3pmellKcUJUMUROcVJiNGJlcnVkLTBJUVMxX0l1ay1PT1B5RURWdDRKYk5TYXhIcmY1TGVDWDI4RDVNZnZqSzU1Y2c4XzVuMzVnd3NpNEhWVC0zX0U3aHUtQTJtQ2kwcUpBTUtRUmhOTTM1Z3hTdzAwczZpRHFoYTVfWFQ0dHNTbG5iTG9HN0FQdnJpVnFsN3dJQjhKcVIwWklDdXpqZ2pYYy1fUEJrX1VYeWwtVF85RXc0cXFMQ2htVVlLTWJaQlZldw?oc=5"
+          "name": "campogrande.ms.gov.br",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVkRnZTZ1SUJHdWxxS2NJUGhUSm1zWXpVQWxNVFJPTGFPZG1FTGd4YnJkV3RfREprWVI5Q0ZqR0N1SmxDMExPbTQ4MjVnV0o2OXZ0VGFYblNIVFd1QW9MeVlTTmJhS3R5MmU5aGo3MUx6cUZnQ2JJSTZaX1NFcTVjUEw2VDB2ZVpyMWtPbm9UOFZTNm1nSEl2d0gwa0tMQVN6TzlfTFVJV1pPTTNhdkduQWYwdklhWndsbmh2QUszQWc2Mnd5aHZEb3lGRDVWMVpKbXM3ZDNXVGV2WmE3cFNv?oc=5"
         }
       ]
     },
@@ -102,6 +138,18 @@
       ]
     },
     {
+      "id": "cb1a53afdcb6",
+      "title": "Dormir pouco ou demais pode acelerar envelhecimento do corpo e aumentar risco de doenças, diz estudo - G1",
+      "published": "2026-05-13T15:44:16+00:00",
+      "summary": "Dormir pouco ou demais pode acelerar envelhecimento do corpo e aumentar risco de doenças, diz estudo&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNEJtRzcxVFhnTjlpTUpzaUt5T3czUkF5aUVob29ISEhsZjFlbmMxMjVXd01TOThFcHJfeVlnWDRmc0dDYmUxeVU4UEVBNjZUelZRTVRmd1NETzBuUE1LbTczbTNtTzhPZm5QYWlYQTJVOVduWllXazFrY1NqdEFoUURNRGdORUVtLU9QR19WVzNqYXlIV2JhY3cyTFBZRDFlS0NtRFRzRnIxdGVWZXJPYXlvb3BncW51VkpNZEstczlmZFRMcnVZZDF0VTg1b0FYWkFoVjU1WDl6WlQwbUljYWhCVkt1UdIB9AFBVV95cUxPZUc2SUxjVExSRjFLaDBkazFpNlRhUjBpaWZ6ZlN1SzRVU2tvVkVnX3pUSGQ0WVR6Rm4zemdLb2dJOXJaR2dYMUVJVTlUdks3eHRnTjgxTUR1aFZKMG9iZFpMajdTR1lGdHg5Wl9pXy1TdVAtaEw4OVRocU1lU1licFkzMkRJOE4temFqOXVWRi1xMTJ3MXVSc01DdVBFMGc1Wk81Z0cycThmVWNTd0dYYWdzTVNieWtxSnlqUjhIVWo4MGlORmZoX3R4UGpLQzNnbE9KSy15UExvdHowajg5SWhzWm9qdmdjOHFmRTFTS1pvY3oy?oc=5"
+        }
+      ]
+    },
+    {
       "id": "7b2a8a57a33d",
       "title": "Nefrologista diz se é um problema fazer xixi de hora em hora à noite - Metrópoles",
       "published": "2026-05-13T14:37:00+00:00",
@@ -117,11 +165,23 @@
       "id": "c485b8cdef00",
       "title": "No Brasil, câncer digestivo mata em silêncio e os sinais são discretos - Metrópoles",
       "published": "2026-05-13T14:12:13+00:00",
-      "summary": "No Brasil, câncer digestivo mata em silêncio e os sinais são discretos&nbsp;&nbsp;MetrópolesCâncer de intestino: 5 alimentos que aumentam o risco&nbsp;&nbsp;Correio BrazilienseAté 2030, 127 mil pessoas podem morrer da mesma causa que Preta Gil; entenda&nbsp;&nbsp;TerraCânceres de pâncreas, estômago, fígado, esôfago, peritônio e colorretal somam mais de 70 mil mortes por ano no Brasil&nbsp;&nbsp;Acre JornalCâncer de intestino: mais de 45 mil casos são registrados por ano e sinais da doença passam",
+      "summary": "No Brasil, câncer digestivo mata em silêncio e os sinais são discretos&nbsp;&nbsp;MetrópolesCâncer de intestino: 5 alimentos que aumentam o risco&nbsp;&nbsp;Correio BrazilienseAté 2030, 127 mil pessoas podem morrer da mesma causa que Preta Gil; entenda&nbsp;&nbsp;TerraRio Grande do Sul enfrenta maior mortalidade por câncer de intestino no país&nbsp;&nbsp;Portal Alegrete TudoCânceres de pâncreas, estômago, fígado, esôfago, peritônio e colorretal somam mais de 70 mil mortes por ano no Brasil&nbsp;",
       "sources": [
         {
           "name": "Metrópoles",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdnJaNU9Eb2p3QmktdUhrZ2ZJZXpFWTZaSWZpZEVkQnJSVFM4LWVER1RhcmNuaTFWY2xPVzJMSDdfWE5mQ0lRZ2stRlA0MnRFb29mR0JJQjJWMEFqSmpaMVRTc3pxZnB3OHFLYUNoODZRRzhNZlcyb0RjdmRDdU5kSnZR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c9385cd07e3f",
+      "title": "Um estudo de Psicologia concluiu: pessoas nascidas entre 1950 e 1970 têm uma vantagem psicológica fundamental - purepeople.com.br",
+      "published": "2026-05-13T13:54:00+00:00",
+      "summary": "Um estudo de Psicologia concluiu: pessoas nascidas entre 1950 e 1970 têm uma vantagem psicológica fundamental&nbsp;&nbsp;purepeople.com.br",
+      "sources": [
+        {
+          "name": "purepeople.com.br",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOLU1VVjRuOWVudGZLampWMkwxLURXb2thazk1dXUwcWFWNzJvZVB5UmFuc0RKWFRQczNFZnRiSjNOaExkMlVzaHVCRWMzUncwdzZVcmNoZ1I5dWFsYVh3WTg5VWEzZkd1WjgxWU1KRDd0VUMxUkM2TlVvYTNhUllXTzhMX01qdG5UYS1aVFBlYjVMRHdrclZFM09EN2dHRjhwRUdPU09rYU1LZmxhNkZFY1JBOERpTC1TdjJLVHpqSUVZbjlWZUhjdFJ1bFUyaThzX3BrTzRfSdIB3AFBVV95cUxPTkYwTjRFLUJTb0hLNjJobGxDLVZmdXltNzVSYjBnT0JyRnVaRkhpWjZGRGlkZE1xbS1YcThMeVN3WDd3M3c3ZjVsZ2daNmZLdEVPWjR1bU0zMjN3THA0cXdtNVRMd3pocTZaQ3R1X3dvN3FjX0RaaFFMUWczTXByMTFhYUxJb3RZSThiV2taLTRWbjdVRXU0LS1QZTgxbjd4dlJKTHZOQjE3eWg3VHhsX0ZpeVdBLXRpMHVwSWN1RXd3YVFxZlZoYm84UkVjTVEwbGdQTUw5RGdRYWZs?oc=5"
         }
       ]
     },
@@ -141,7 +201,7 @@
       "id": "deb5c4f983e7",
       "title": "Estudo revela efeito silencioso do sedentarismo no corpo após os 30 anos - Jornal Correio",
       "published": "2026-05-13T12:18:29+00:00",
-      "summary": "Estudo revela efeito silencioso do sedentarismo no corpo após os 30 anos&nbsp;&nbsp;Jornal CorreioSedentarismo eleva carga de estresse na meia-idade, aponta pesquisa&nbsp;&nbsp;CNN BrasilO hábito silencioso que aumenta seu risco cardíaco em 5% a cada hora&nbsp;&nbsp;Estado de MinasMais da metade dos brasileiros é sedentária, aponta Genial/Quaest&nbsp;&nbsp;istoae.com.brSedentarismo no Brasil&nbsp;&nbsp;SMABC",
+      "summary": "Estudo revela efeito silencioso do sedentarismo no corpo após os 30 anos&nbsp;&nbsp;Jornal CorreioSedentarismo eleva carga de estresse na meia-idade, aponta pesquisa&nbsp;&nbsp;MetrópolesO hábito silencioso que aumenta seu risco cardíaco em 5% a cada hora&nbsp;&nbsp;Estado de MinasFicar de pé não basta: o que o corpo precisa fazer para reduzir risco cardiometabólico&nbsp;&nbsp;Tua SaúdeSedentarismo no Brasil não é questão de preguiça ou má vontade&nbsp;&nbsp;Veja Saúde",
       "sources": [
         {
           "name": "Jornal Correio",
@@ -177,7 +237,7 @@
       "id": "35ce53a83656",
       "title": "Músculo agora é considerado decisivo para quem quer viver mais - Tribuna Online",
       "published": "2026-05-13T08:00:00+00:00",
-      "summary": "Músculo agora é considerado decisivo para quem quer viver mais&nbsp;&nbsp;Tribuna OnlineTeste simples de força pode indicar chances de viver mais entre mulheres idosas, aponta estudo; entenda&nbsp;&nbsp;O GLOBONão é só condicionamento: esse teste simples pode prever sua longevidade&nbsp;&nbsp;ExameGanhar massa muscular pode reduzir riscos de doenças; veja como&nbsp;&nbsp;TerraMusculação além da hipertrofia: 5 benefícios para a saúde do seu corpo&nbsp;&nbsp;Assine Abril",
+      "summary": "Músculo agora é considerado decisivo para quem quer viver mais&nbsp;&nbsp;Tribuna OnlineTeste simples de força pode indicar chances de viver mais entre mulheres idosas, aponta estudo; entenda&nbsp;&nbsp;O GLOBONão é só condicionamento: esse teste simples pode prever sua longevidade&nbsp;&nbsp;ExameMusculação além da hipertrofia: 5 benefícios para a saúde do seu corpo&nbsp;&nbsp;Assine AbrilGanhar massa muscular pode reduzir riscos de doenças; veja como&nbsp;&nbsp;Terra",
       "sources": [
         {
           "name": "Tribuna Online",
@@ -189,7 +249,7 @@
       "id": "06119cc2f190",
       "title": "Fonte da juventude? Mudança na dieta por quatro semanas pode reduzir ‘idade biológica’ de idosos, aponta estudo; entenda - O GLOBO",
       "published": "2026-05-13T07:02:15+00:00",
-      "summary": "Fonte da juventude? Mudança na dieta por quatro semanas pode reduzir ‘idade biológica’ de idosos, aponta estudo; entenda&nbsp;&nbsp;O GLOBOMudança simples na dieta surpreende cientistas ao reverter o envelhecimento&nbsp;&nbsp;ExameCientistas reverteram idade biológica de adultos mais velhos com uma simples mudança na dieta&nbsp;&nbsp;TerraÉ possível reverter a idade biológica em apenas um mês&nbsp;&nbsp;ZAP NotíciasCuidados com nutrição garantem envelhecimento com mais qualidade de vida&nbsp;&nb",
+      "summary": "Fonte da juventude? Mudança na dieta por quatro semanas pode reduzir ‘idade biológica’ de idosos, aponta estudo; entenda&nbsp;&nbsp;O GLOBOCientistas reverteram idade biológica de adultos mais velhos com uma simples mudança na dieta&nbsp;&nbsp;TerraMudança simples na dieta surpreende cientistas ao reverter o envelhecimento&nbsp;&nbsp;ExameÉ possível reverter a idade biológica em apenas um mês&nbsp;&nbsp;ZAP NotíciasCuidados com nutrição garantem envelhecimento com mais qualidade de vida&nbsp;&nb",
       "sources": [
         {
           "name": "O GLOBO",
@@ -222,6 +282,18 @@
       ]
     },
     {
+      "id": "27600d89589a",
+      "title": "O 'arsenal' secreto da salmonela: cientistas descobrem 45 novas toxinas da bactéria por trás das infecções alimentares - Jornal Correio",
+      "published": "2026-05-13T06:30:00+00:00",
+      "summary": "O 'arsenal' secreto da salmonela: cientistas descobrem 45 novas toxinas da bactéria por trás das infecções alimentares&nbsp;&nbsp;Jornal Correio",
+      "sources": [
+        {
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSUdEcENzSVpfTGRwSWhqa3g5LXpjMjhXNkNRVnF1VldrbzdFQjdrREVTOHQ3TlJlSUxXS1NLc3pzQVZsc0VuMDRMOEN0Tm9ta3dBcHJhRWNSNVhtMTQtQlllaEJ6bEljc3ZIY3M0WUhLcW90NG1TeTRwTmNKTEs0bmUxSGhTWkI5R2pGazZsODY5cXczNGVDR25KSGJoQVhZVWRmMEdWYmFJdVNsUFpNbFlsRl84d0lKRUxQaUNPQU1rTm9hQ0dvUjFvUFBselBpNFZlNTJjNjQ4VU53clZOUzZwV0N5aUVpdy1IVWl1c25uUQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "99c1dcb8aafd",
       "title": "Há 3 formas prazerosas de desacelerar o envelhecimento do cérebro, segundo pesquisadores; saiba quais são - O GLOBO",
       "published": "2026-05-13T06:01:13+00:00",
@@ -249,7 +321,7 @@
       "id": "5a6655c7bafa",
       "title": "Alerta: confira 7 sinais de que o seu coração pode não estar bem - Metrópoles",
       "published": "2026-05-13T05:00:04+00:00",
-      "summary": "Alerta: confira 7 sinais de que o seu coração pode não estar bem&nbsp;&nbsp;MetrópolesMulheres infartam mais depois da menopausa? Entenda quais são os riscos para o coração da mulher&nbsp;&nbsp;Jornal CorreioPerimenopausa: infarto em mulheres de meia-idade pede atenção redobrada&nbsp;&nbsp;O DiaO coração da mulher também precisa de cuidado&nbsp;&nbsp;O Bom da NotíciaSintomas de infarto nas mulheres podem ser diferentes e dificultar diagnóstico&nbsp;&nbsp;www.gov.br",
+      "summary": "Alerta: confira 7 sinais de que o seu coração pode não estar bem&nbsp;&nbsp;MetrópolesMulheres infartam mais depois da menopausa? Entenda quais são os riscos para o coração da mulher&nbsp;&nbsp;Jornal CorreioO coração da mulher também precisa de cuidado&nbsp;&nbsp;O Bom da NotíciaDor no peito e sensação de azia podem indicar infarto, alerta cardiologista da Santa Casa de Maceió&nbsp;&nbsp;Santa Casa de MaceióPerimenopausa: infarto em mulheres de meia-idade pede atenção redobrada&nbsp;&nbsp;O Dia",
       "sources": [
         {
           "name": "Metrópoles",
@@ -261,7 +333,7 @@
       "id": "852800582dc5",
       "title": "Médica diz o que o consumo frequente de cerveja provoca no intestino - Metrópoles",
       "published": "2026-05-13T05:00:00+00:00",
-      "summary": "Médica diz o que o consumo frequente de cerveja provoca no intestino&nbsp;&nbsp;MetrópolesImpacto além do fígado: o que uma cerveja por dia faz com seu corpo&nbsp;&nbsp;UOLVodca e outras bebidas alcoólicas podem prejudicar mais o intestino, alerta médica&nbsp;&nbsp;Banda B\"Não existe bebida alcoólica saudável para o intestino\": alerta de coloproctologista é a mesma base científica que faz da Marinha dos EUA uma frota seca desde 1914&nbsp;&nbsp;Revista Sociedade MilitarDoença do fígado causada po",
+      "summary": "Médica diz o que o consumo frequente de cerveja provoca no intestino&nbsp;&nbsp;MetrópolesImpacto além do fígado: o que uma cerveja por dia faz com seu corpo&nbsp;&nbsp;UOLMédica cita tempo para o intestino se recuperar após consumo de álcool&nbsp;&nbsp;MetrópolesVodca e outras bebidas alcoólicas podem prejudicar mais o intestino, alerta médica&nbsp;&nbsp;Banda BDoença do fígado causada por álcool avança no Brasil; mortes crescem mais no Norte - Jornal O Sul&nbsp;&nbsp;Jornal O Sul",
       "sources": [
         {
           "name": "Metrópoles",
@@ -273,7 +345,7 @@
       "id": "9fce51044ef4",
       "title": "Suplemento com bactéria presente no intestino pode ajudar no controle do peso, mostra estudo - G1",
       "published": "2026-05-13T03:01:34+00:00",
-      "summary": "Suplemento com bactéria presente no intestino pode ajudar no controle do peso, mostra estudo&nbsp;&nbsp;G1Suplemento com bactéria intestinal pode ajudar a evitar efeito sanfona&nbsp;&nbsp;MetrópolesComo a bactéria Akkermansia muciniphila fortalece a barreira intestinal e ajuda a prevenir a inflamação sistêmica crônica&nbsp;&nbsp;Tua SaúdeEstudo revela bactéria capaz de reduzir reganho de peso após dieta&nbsp;&nbsp;Folha do EstadoPlot twist: bactéria do intestino pode ajudar no controle do peso&n",
+      "summary": "Suplemento com bactéria presente no intestino pode ajudar no controle do peso, mostra estudo&nbsp;&nbsp;G1Suplemento com bactéria intestinal pode ajudar a evitar efeito sanfona&nbsp;&nbsp;MetrópolesEstudo revela bactéria capaz de reduzir reganho de peso após dieta&nbsp;&nbsp;Folha do EstadoComo a bactéria Akkermansia muciniphila fortalece a barreira intestinal e ajuda a prevenir a inflamação sistêmica crônica&nbsp;&nbsp;Tua SaúdeBactéria do intestino pode virar aliada contra o 'efeito sanfona', ",
       "sources": [
         {
           "name": "G1",
@@ -282,10 +354,22 @@
       ]
     },
     {
+      "id": "83869973c8fa",
+      "title": "Mulher sofre três AVCs após ajustes no pescoço em sessão de quiropraxia; entenda - aRede - aRede",
+      "published": "2026-05-13T02:11:35+00:00",
+      "summary": "Mulher sofre três AVCs após ajustes no pescoço em sessão de quiropraxia; entenda - aRede&nbsp;&nbsp;aRedeMulher sofre três AVCs após ajustes no pescoço em sessão de quiropraxia; entenda&nbsp;&nbsp;Banda BMulher sofre 3 AVCs após fazer 'ajuste' no pescoço e fica com sequelas motoras e na fala&nbsp;&nbsp;TNH1Mulher sofre 3 AVCs após fazer ajuste quiroprático no pescoço e termina com sequelas&nbsp;&nbsp;Alô Alô BahiaMulher sofre múltiplos derrames após sessão de quiropraxia&nbsp;&nbsp;RedeTV!",
+      "sources": [
+        {
+          "name": "aRede",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbUU1U29MNlN0QnliLUV1Qi1udjZvMWl2ZGFyRXp0SHFpcW5hLVhkekRZaW05V3NVMXF1enVmT3FfWXY5bXdxNGxRdzNFVGpOTVZuLXViNDFwZEFkRmxDTV9KOE9oa25nR0NUWGxoTzA5bXh3LXNjSWZBZjdKVHdpbzN5UTZYV3RZaE9VNk8xc2hNdEJXempOU1ZnVW0yRFdQeVBkNWtGa1RLNDVwUWwxOW54NzhsZ9IBvgFBVV95cUxNMk90bFN0OUJtRmJaOWVVd2ZObU44bHFBUWdnQWVQUlJvdXpWNk1qZGYyLUx3TTRudHpmNUZQWVZGNi1zMjdvNFhZRzM1UXFwYlphRklNYW1UR2NUNlcyVjRiRnRBRzNLNVlmTmlkbDBrSzVVa2ZxaF8wXzRVMmZDTGFONkprcEh1Vy1UUHhwSzd2ZDBqLTdRei1QQ2NvalpFc3lDME9sMER4RnJ2UUpoMFlPNUtZem42N1NQLXl3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "53f84600e294",
       "title": "Hantavírus: entenda sobre sintomas, transmissão e tratamentos - Correio Braziliense",
       "published": "2026-05-12T22:28:00+00:00",
-      "summary": "Hantavírus: entenda sobre sintomas, transmissão e tratamentos&nbsp;&nbsp;Correio BrazilienseDa Antártida a Minas Gerais: por que o hantavírus importa muito mais do que parece ao Brasil&nbsp;&nbsp;Folha de S.PauloHantavírus: sete casos e uma morte neste ano&nbsp;&nbsp;Correio BrazilienseVírus letal que mata quase metade dos infectados está circulando no Sul, Sudeste e Centro-Oeste do Brasil&nbsp;&nbsp;Diário do ComércioBrasileira deixa a UTI e se recupera 100% após ser contaminada pelo hantavírus",
+      "summary": "Hantavírus: entenda sobre sintomas, transmissão e tratamentos&nbsp;&nbsp;Correio BrazilienseDa Antártida a Minas Gerais: por que o hantavírus importa muito mais do que parece ao Brasil&nbsp;&nbsp;Folha de S.PauloHantavírus no RS: após governo confirmar uma morte, o que se sabe sobre os casos e como se proteger?&nbsp;&nbsp;G1Brasileira deixa a UTI e se recupera 100% após ser contaminada pelo hantavírus&nbsp;&nbsp;TNH1Vírus letal que mata quase metade dos infectados está circulando no Sul, Sudeste",
       "sources": [
         {
           "name": "Correio Braziliense",
@@ -294,38 +378,14 @@
       ]
     },
     {
-      "id": "7183b617b406",
-      "title": "'Superbactéria' é achada na água de Porto Alegre; organismo afeta hospitais - CNN Brasil",
-      "published": "2026-05-12T21:51:00+00:00",
-      "summary": "'Superbactéria' é achada na água de Porto Alegre; organismo afeta hospitais&nbsp;&nbsp;CNN Brasil",
+      "id": "052420b51a2a",
+      "title": "Primeira morte por hepatite A é confirmada em JF; cidade concentra quase 90% dos casos em MG - Tribuna de Minas",
+      "published": "2026-05-12T21:27:11+00:00",
+      "summary": "Primeira morte por hepatite A é confirmada em JF; cidade concentra quase 90% dos casos em MG&nbsp;&nbsp;Tribuna de MinasAtiva, saudável e apaixonada pelo neto: quem era a mulher que morreu por hepatite A em Juiz de Fora&nbsp;&nbsp;G1Mulher que morreu de hepatite A em Juiz de Fora saiu após chuva para 'ajudar amiga que estava com água na cintura', diz filha&nbsp;&nbsp;G1Juiz de Fora soma mais de 800 casos de hepatite A em 2026&nbsp;&nbsp;G1Mulher de 60 anos morre após complicações de hepatite A e",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWTRDMmZkWjhLSkpHdEd6Nl9kb1hLcmhkVzVhQzBjbzN2eXlmWGhkWVZDZkwtbUNKTl9Td01ldE1aeE9pQU55aFlDMVRuQkF5dVpyWDZ2dFNLZHhPSUZRclpwZE5aSlJBM2ctZzRRLVVad21kaHZNdEUxOUxheF9jQlNaekU4MUpqVkw4TkJHcG5RYWhjam81Z0R3RzRLV0hMRDA2dldmYUdvRDF6ZHlR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9a6beea26641",
-      "title": "Família acredita que cuidadora morta por hepatite A em Juiz de Fora contraiu vírus ao ajudar vítimas de enchente - G1",
-      "published": "2026-05-12T20:48:24+00:00",
-      "summary": "Família acredita que cuidadora morta por hepatite A em Juiz de Fora contraiu vírus ao ajudar vítimas de enchente&nbsp;&nbsp;G1Ativa, saudável e apaixonada pelo neto: quem era a mulher que morreu por hepatite A em Juiz de Fora&nbsp;&nbsp;G1Mulher que morreu de hepatite A em Juiz de Fora saiu após chuva para 'ajudar amiga que estava com água na cintura', diz filha&nbsp;&nbsp;G1Primeira morte por hepatite A é confirmada em JF; cidade concentra quase 90% dos casos em MG&nbsp;&nbsp;Tribuna de MinasJu",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQamYzZVlCakpKX2JiRVpDS3dXYlc3Z0p2a0tUeEd1WDM5M0c5cmtuV25CcFNaejFxdG10dzZIWERLMWtHUk56T0VOTEg4MmowMHI3cVVBcGMtU0YxX0lrSmlkbnNLRUM1eEIydmdYRmZVdU4tN0xYcXNndjk1TnhlbDQ0aFVTa0dYRDhrNEdBU3czblRGOVNhdHhZa1RlY2lpVkJGamI3SVpCdV9raFZ2Q2FIMWFmTFBjNmw2d2p6eEtFR2w2RFpFRFU4SXE0d2dqRG8zclNxeGJsMHRLUGZLSkc1eXp2UlNrQ25uSUdpMzhsdHpTNHpuX0hRbzVqeU4xWEJWctIBkwJBVV95cUxNWHlGWHlsc0R0eThENEVHYzlnQ2Z0WjBjTm1DR0wxaE9KdnJKOXFLLXZMbG5pNG5tOGlJUDJoY1FTb2NFZFAzUjZjdktqbE4xMktXbG1RdmFrWXZKLXU1YnJwRFpFdDdoZTFacWtYZm9rbHlqUXdkaTk4SjZOQ2V0OFFXemR3eGdPaEJzZG1rOW5naFZwOXVHWldrNlJEYnNNMkg5a2JhTmJtNFNXTEdWUWVlcy1ZS0N5REpYSEdWSmZBVU14b1RVNEFqWEJkZXBrYzMxLVFLS3Y2cnd4c3ZTN21qUldHWXN4S0tJcEJMU0gzV1ZpX3FKN2h2SU5JOFFIbE45UzZRbjFYcS10aGZPV3l6Yw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "18acba9074b5",
-      "title": "Idoso de Santa Bárbara é a primeira vítima fatal de Influenza na RPT em 2026 - liberal.com.br",
-      "published": "2026-05-12T20:10:00+00:00",
-      "summary": "Idoso de Santa Bárbara é a primeira vítima fatal de Influenza na RPT em 2026&nbsp;&nbsp;liberal.com.brSanta Bárbara d'Oeste confirma 1ª morte por gripe em 2026&nbsp;&nbsp;G1Vacinação nas Escolas: Prefeitura inicia estratégia de imunização contra o Sarampo e a Influenza nesta terça-feira&nbsp;&nbsp;SB NotíciasFarroupilha mantém vacinação contra gripe em seis postos de saúde&nbsp;&nbsp;Spaço FMCampanha de vacinação contra a gripe já aplicou oito mil doses em Farroupilha&nbsp;&nbsp;Spaço FM",
-      "sources": [
-        {
-          "name": "liberal.com.br",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSFo3ajJJYkdJdUtuSkxjbkMzVk1MWkx4UGNsT0s3YW56LTk2VFhfTFlhX0dLTy00TklrZ1pTaVl2YldhZks1UzdRRVpLQlVKcVFwekJvWllSN0p1N1lQeEZITThWaUN3b1dkV0JhU0VPY1NnREthRXFpSDF6SzdDUlQ5TzNkZTV4TTQwU2Rxcm5NYk1mLUhRcUhzTVh2ZEtLeUJnWVNUNmFoUlJ6dElNUGlwdVVpUkUwbUhScGNR?oc=5"
+          "name": "Tribuna de Minas",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdkZ6T2JWN2JEcHo4LW51bUN3YkdLM0ZQZzVUWEZHUmtCZE04QUdMT21UdUJ6eng1cGV5eFZjamNUcGt1M0lkczBlWmp1eVFpU2VFZFA4aFhlQ0I5SkpMeDVNMXBDWlRlTmxGV1oySXBvYi1Wa290c0hpc0Rid0FaOEtZeUVyY2tZSHJkVDlwT3pjNVpuQmR1NnBUaTRVVEp3UmRla2RfOFFUeE41SEFFXzNiQW5UZHRpeWVTeG9LVTlmdWo4RVBsLTVBcHlBYjBaMDhWRlNSN1VYZ2hIWi1yd000dEg4UWs?oc=5"
         }
       ]
     },
@@ -342,10 +402,34 @@
       ]
     },
     {
+      "id": "48812264b6a3",
+      "title": "Cristal 'impossível' surgiu após primeira explosão nuclear da história - Correio Braziliense",
+      "published": "2026-05-12T19:06:00+00:00",
+      "summary": "Cristal 'impossível' surgiu após primeira explosão nuclear da história&nbsp;&nbsp;Correio Braziliense",
+      "sources": [
+        {
+          "name": "Correio Braziliense",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPa1VTbGFwRVowNFBjX3BuSDhfRE03QVRpTXVwUUpOdnBRTzU1VWRoRVl6Q3Z3SHFDdGF3MGNKb29lNHFKQ0oyTkk3eWdwSzgwcjlvdnBPaWVtdV84RkN1clNLbjF6SnE3QUY4VTJYYzcxNFE0elFKY1NRamZqVFNsSGgyN1JXZnppbHliNTdZMk9mck9uYXV2bHpFZnRKZGVKNDJBb2J3eGNaUE9LSHJmeWhlcmhGUzlxT1hfZVVwWTBJVC1tWW1jV3d0QdIB0AFBVV95cUxONUl6TzUxTlZUUFpPWWctZW9kTE5Ed1ExY0F1STF1MlU0VWtXZjZRYldOdm81WWFCM2xFUE5UQ21xU01UYWJJNUtpZFF6UXExSHFYNEhMVXVYQ2UyNzJGR2FLc2dfRzNoRmxCeWJ6THI1a090RGFsM1RXcks4RTItUUlXYmdiRzRuTk9MbDNzNXVOM2tsLUpDVHQyYzhaLW5NRHdJWENYQmVLMmJCNm1BU1k3cnBybUYtaUMyNHlYcjU1NjR4Y3RtOUl4blZ6SWpi?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "db8ea7704bf7",
+      "title": "O que é ‘ballmaxxing’? Nova trend entre homens na web envolve injeção no testículo e pode ser perigosa - Extra online",
+      "published": "2026-05-12T19:02:25+00:00",
+      "summary": "O que é ‘ballmaxxing’? Nova trend entre homens na web envolve injeção no testículo e pode ser perigosa&nbsp;&nbsp;Extra onlineLooksmaxxing: moda perigosa ou mais um fenómeno de histeria colectiva? — Como Assim | Podcast Como Assim&nbsp;&nbsp;PúblicoHomens injetam substância para testículos ficarem do tamanho de uma mão aberta; especialistas apontam riscos&nbsp;&nbsp;Banda BEspecialistas alertam para riscos de prática extrema que viraliza na internet com injeção de soro nos testículos&nbsp;&nbsp;",
+      "sources": [
+        {
+          "name": "Extra online",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdm1XRlhYWVlHVHBLcy1lUkw4ajFrWFdkOTctbXZQaWVUNVRjd3hKRElvZXFYNGNwajJMY1VUTWt1TDZDcFhFR1lhRDhINW9iVXY3V1pTbFNsTzZxNUtHRmUzamh4LVZEYVE5a2sxRmx1cmJXNWRsbWNaX2x2Y3BNd1JObUptZTRwMEhDUFd1VjY1dlZkb3JMMGlZaVl0M1BId0tKWkFMNWxteXMtakd4Q1MtTFg3X0tCMGJuWmJPYVhodEZNYXdCV2Rad3ZCYmNJTzhOdDJuZ0Zkcmd5MnBVUlpkRFYxaklxaVU3ZEdR0gH8AUFVX3lxTE5UaTJwaEcyVFFYeUFtRDZXblJvMjNOdWxzVkgxRnlQTGpaenFaVVdHMjhYRy10MTg2dXFxX21CY0VhOXVjSFZ4UDg4YU1QOUJDclhZNmJna3F3VlVxai0yelozRC1tUnNKbGlINTFLVzQ1LVljUGZzWGIzdjBpWE5hUExDNkY0dk00VWN6YWx3SVY3VThJZkpjNFNJXzM1c1NpT2hUdUZzMERoY1BFeHQ0eHNvRkFveWwxb2dWV2dSVGg0RVRuY1NpRC1ZUTJFWWFfb2QzT1l2T1JWZFFnTWpkeTd5TVFJN0lKdU9GRVR6b0t0QVZrNVg2cmFpbw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "60365ba5ca67",
       "title": "Lúcia Helena: Novo remédio contra obesidade pode queimar mais a gordura no fígado - UOL",
       "published": "2026-05-12T19:00:00+00:00",
-      "summary": "Lúcia Helena: Novo remédio contra obesidade pode queimar mais a gordura no fígado&nbsp;&nbsp;UOLNovo rival do Ozempic entra em corrida bilionária com promessa de tratar duas doenças de uma só vez&nbsp;&nbsp;Diário do LitoralAgonista duplo inédito de glucagon/GLP‑1 da Boehringer Ingelheim, a survodutida, alcança perda de peso significativa de 16,6% e promove melhora metabólica relevante em pessoas com obesidade ou sobrepeso em estudo de Fase III&nbsp;&nbsp;Biored BrasilPesquisa cria novo tratamen",
+      "summary": "Lúcia Helena: Novo remédio contra obesidade pode queimar mais a gordura no fígado&nbsp;&nbsp;UOLA nova geração de medicamentos contra a obesidade promete revolucionar o metabolismo — e a tirzepatida virou o símbolo mais poderoso dessa mudança&nbsp;&nbsp;gizmodo.com.brNovo rival do Ozempic entra em corrida bilionária com promessa de tratar duas doenças de uma só vez&nbsp;&nbsp;Diário do LitoralAgonista duplo inédito de glucagon/GLP‑1 da Boehringer Ingelheim, a survodutida, alcança perda de peso s",
       "sources": [
         {
           "name": "UOL",
@@ -354,14 +438,14 @@
       ]
     },
     {
-      "id": "fa61e24a23fe",
-      "title": "Mulher sofre 3 AVCs após fazer 'ajuste' no pescoço e fica com sequelas motoras e na fala - TNH1",
-      "published": "2026-05-12T18:51:55+00:00",
-      "summary": "Mulher sofre 3 AVCs após fazer 'ajuste' no pescoço e fica com sequelas motoras e na fala&nbsp;&nbsp;TNH1Mulher sofre três AVCs após ajustes no pescoço em sessão de quiropraxia; entenda&nbsp;&nbsp;Banda BMulher sofre 3 AVCs após fazer ajuste quiroprático no pescoço e termina com sequelas&nbsp;&nbsp;Alô Alô BahiaMulher sofre múltiplos derrames após sessão de quiropraxia&nbsp;&nbsp;RedeTV!Mulher sofre 3 AVCs após fazer ajuste quiroprático no pescoço e fica com sequelas motoras e na fala&nbsp;&nbsp;",
+      "id": "ea386e1779b5",
+      "title": "O que está matando filhotes de foca no Canadá? Verdade macabra é descoberta - UOL Notícias",
+      "published": "2026-05-12T18:34:47+00:00",
+      "summary": "O que está matando filhotes de foca no Canadá? Verdade macabra é descoberta&nbsp;&nbsp;UOL Notícias",
       "sources": [
         {
-          "name": "TNH1",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQY2FmdVRlTHU2a3VVUjJjajZEOXZsazZkclB1XzZfdVNwTkRCRmJFMlg0X01nbThaSlNMdGh3RWQ5Z3FtMWp6WkxnQ3FEUHoyc0M1TTRqLThScUhYejFBc1N1ejZfeF9fRmNhM05ibGlnR0FxUDlHcV82SjNnR1VWU1R2VzdldmRualNfRms0aWdWLUhOWS10SklFNnQyeFlTM2VLcWYwOWFaRFVkRVVGZmlsSDVwOGRLUGZSVmNydHTSAbsBQVVfeXFMUDZlc1pKdG9JVzBQSlRkNEUxZXV3YzZVT0xhaWpFU1ZzOFZlOGVWakxJY0Y1SDlRSENSQVJKTmlCcTZFNGp2bDVSdXNtN3ZhaE5pbW5SWjhzX0tITWxHc3QzWHI4YXdGQXZISmVlN2tXR0NmZ0dkWVFtd2FXOE9hTjE3XzNrdkJrWFRaWHl4LS16Y3dWaWNFVklCNXVEMEcyOWIzanNoOWxlbWE1cDI2QWs5eWY5anB3eWxOVQ?oc=5"
+          "name": "UOL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPWDJ4ZlVSRURUNHNZcHJhQlEyLUFoMUJRcmoweHJHMWZqX1FNWEJteU52ajJMRzVPd1BTWnhEYmZQOTVnNW9oWV94aXBlM3FhQ1VlRVVqTFZhYW02M2s4Y09KT09WVFZLY19FWVY3QjlZQ08wSlQyVXhtTi03b0hKRnE1R0pkTEN6eVltcDBxSVB2a3dYbG1seTFBS212X3pSdUNBWEhJNUFhemo2RUJMeFZ2dWxfa2pTcjlnUFpSZzBpY3FwY0ZoU3V1T3J5OV9QeVlSazRMV2FVWDBucWVoWTJ3NjBvTVVRLWV2OEJn?oc=5"
         }
       ]
     },
@@ -398,54 +482,6 @@
         {
           "name": "Notícias da UFSC",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaFdFMkdBMS15RVpxcnFpTmVVVi1FbXBpS2kyUHRoV0hjMEJkcVpaYzZsdWxCWTlEUjRxeTl4WjhpcWtaM1pwVWkwYUxCcW45T3pNU2ZWbFlkRWtNYUNuSkczbHpIN3RqWWtfdjVSN2tPWkozRmZ4WVo3RlI1Vzk4VDJpYWhmV0lGNms4UlpQbzN5VjMwaUpQaw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8690e8b189cf",
-      "title": "Jundiaí recebe nova remessa com 15 mil novas doses da vacina contra a influenza - jornal da região",
-      "published": "2026-05-12T13:13:03+00:00",
-      "summary": "Jundiaí recebe nova remessa com 15 mil novas doses da vacina contra a influenza&nbsp;&nbsp;jornal da regiãoVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "jornal da região",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYXM1bktReEswR1dCcV9veVFkNlpxdGVQaW5jNjZxWEU3dV9fNXVVTHlJdm11Ujl5dl9DSGdxazNweGRQMF9seWJYTDhJbEZHQzNaTkJpUmJqUmJRT1VET1Z4VTlPazBTXy0wdlF0a1Z1NURDTmRTdEI0VlFZM09GeG1DQzZKZURGb2pyU3ZlX0pnUGNDVGhDY3NsUkM4VldKckhNbC1jb3plVkxRWkE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4d1309bc1f07",
-      "title": "SUS atualiza protocolo de asma com novas regras para diagnóstico e tratamento - G1",
-      "published": "2026-05-12T12:00:33+00:00",
-      "summary": "SUS atualiza protocolo de asma com novas regras para diagnóstico e tratamento&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVmlVeUZtZjBpcWZmc0l1aEsyRDNHV1ZOTUd6Nm5pY05aME1lWWhPcWZhcXFXczZBcU82YUFkOFFiM2wzYlBmLU5kOGdpSEt5Rkg2ZFBFclI0X2JQN1RPaUNOWjY3cm9Ud3RqQW1fbmJ5cXpyUzZvRlozbG5zZUtZaWtpb0VVdUhSQTZGSXl6UElXV1NCQVBfMEVhT3gxWGRuTXBKZnNPS1VaNG9EVzFyaWR0QlhfbGJQQkZWQUdqSk92dVJiT2ZORNIB1wFBVV95cUxNY2k3MjMxelh3QlRvVUZHaUl0aE16aG9QY0VQSTk5QlhsZDFQVmJkNkIzUGZkSFFWMWJOek5aaE9IZm1mRkJVSnJEUjN4d0NfT093MFhqUmtpM1pjbFZLVWktUkNFN3NNVEFMWGdmNGtscmxVWEhiUmVsemdtdGRqSHlFakFvd2ZyNjlNT2dmSk53d2dWM0VIRURZUVhvbUZyaXNiOVpxTG9oNDJZcmhTWEY0Rkk3RVhlSF82UnhXd3VWYkdFYmJ4TEkxU1hJdVJQZWQtenY2SQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a48676394040",
-      "title": "Doença mortal pode voltar ao Acre, alerta Sesacre após baixa vacinação - ContilNet",
-      "published": "2026-05-12T11:00:53+00:00",
-      "summary": "Doença mortal pode voltar ao Acre, alerta Sesacre após baixa vacinação&nbsp;&nbsp;ContilNet",
-      "sources": [
-        {
-          "name": "ContilNet",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRTlOd1o2RW0wYjdNQVhRTzlOZ0lqa0I3SjEyenJkUmllNUZSTnp1aFVmQkE2dURpRVl6SXhvclFBY2lwSHJ0cHphVHByZEEyeVBNd2NjR0dRTDJlTW5iMmJ5YkE3RU5heU45NVRHSkExVy00bEhQQzF6Mkc5bXNGVTdGTTNiN18zNllsQU5TeUVpTUdTWnF1TDJZY21FT2U4ZENRcDJWWEZwOVNFenlXQdIBtgFBVV95cUxNdUdWNU5SdWpqVHF3TFA4aWdHUklLRlY1REw0ODdDeG5CVmZvWmcxMGdLaXBKLWlLQlJtTHRDS0djYzVzRVB0OEpHR0pCc19Qam5UTnZOdFNhZDhqcEM4b2RkdXIyUUVxTjVBZEExLXlGQnBJWThTeHd0YW10T01NOEE5Y2FHdDJnWFJzc2hJcWVWQkphcVNBLUg1Nmp2UVE2d2djaUpUdkNCUkhmQmdiTWlValZYZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ce011e6cd33a",
-      "title": "Ação do MPF contra médico por fraude em pesquisa sobre Covid é um acerto de contas - Folha de S.Paulo",
-      "published": "2026-05-12T11:00:00+00:00",
-      "summary": "Ação do MPF contra médico por fraude em pesquisa sobre Covid é um acerto de contas&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYTkxdHZyZ3pfcEJqdWt3ZG5YTENDSTBrQ1czM0RSRUlQYldWbUx3cjdBQjg4VmVGd3gzQXlPWHZlZVd0Si0weEdCd3p2U0kxS2tzRlhBTnRMWnVid0h4Q0x2YmlZZkEwbjJtZ1lOMkxzM185djZpQnNwbHZQc2hRVWJjUk1VWUdjR0t2cnV1bDVGZGFBUXhJWkJneWNuYy14UUZ2b3B5OFpQM0piTU5UMy1HMXRNa2Y2OU1KMVMtUktES1JxM251NjA1dk9PU2FCcDk3S2dITEVYblN0N01JcDBB0gHnAUFVX3lxTE45WExhV1E3UkxoRlpYZmZUUHlSUUNMZFROM0tTWWxoWFlfSG9sdFdJSi13RWZCd1RoZWlkd3dGMkpldnF0UEQ2OWllSGduam9GMFBJMWZaOHAtQnZSSkR3T2swSnpGRW5JTjNobk4zQnBWZ0NjZUYwTng1RGc0Ujd4M09veVpWVEFfNWpEUEFYdUtjcXB5bnV0REVDb0QwM1VGYS1FcG5oOVNqMWhFcXVfbVVGOFBUdEt5RlJZNnhCSTdzVUUyLUVEa0lkSUpUY2NpcVZqZ1RXMmVDUGNwOHlnN0V6VzROaw?oc=5"
         }
       ]
     }
