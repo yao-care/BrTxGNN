@@ -1,15 +1,75 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-05-15T08:51:35.919147+00:00",
-  "total_fetched": 94,
-  "unique_count": 91,
-  "health_related_count": 40,
+  "fetched_at": "2026-05-15T14:11:31.834224+00:00",
+  "total_fetched": 100,
+  "unique_count": 98,
+  "health_related_count": 46,
   "news": [
     {
-      "id": "aadd7a88686b",
-      "title": "Da Antártida a Minas Gerais: por que o hantavírus importa muito mais do que parece ao Brasil | G1 - G1",
+      "id": "436b463b9d94",
+      "title": "Cientistas identificam suplemento simples que reduz significativamente os danos causados ​​pelo Alzheimer - Super Rádio Tupi",
+      "published": "2026-05-15T09:18:12+00:00",
+      "summary": "Cientistas identificam suplemento simples que reduz significativamente os danos causados ​​pelo Alzheimer&nbsp;&nbsp;Super Rádio Tupi",
+      "sources": [
+        {
+          "name": "Super Rádio Tupi",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVEpPQkZ2eXRkNU05TDctZlVNZ2JDczZRVXpWa2JXRE9yTDZ0dDdFdV94TXNTSXBNTFluR3hIZ09YVTNvUUw1MzNMTGtpenBwekJ6ZTlBeHhZN0ZTdHVvSENVVFA0eFlra3dvZnp3Wlo0RmtVY3JzT3VWSlpyOS01M2lxQ1VONXNSeDFqNFZiSzdHTlBLTk5PM3Y3SDNPc0Z3VHZ5SWxSZDZJUDJJVk9yWGp4MWN6OWFBQVNRSkVCSG1FREtGRExSWXNXRzRZejFRNzZfUVl3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d4a964493207",
+      "title": "Terapia que promete reverter o envelhecimento dos olhos está em teste com humanos pela primeira vez - O GLOBO",
+      "published": "2026-05-15T07:31:08+00:00",
+      "summary": "Terapia que promete reverter o envelhecimento dos olhos está em teste com humanos pela primeira vez&nbsp;&nbsp;O GLOBO",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQS0hGQk15YzJQZ3l1R0c4WmNnZGhGRFVzVXlCczdma09xeVl6VFJ6bzZXZm1WY05aVERKcmlwUUdFUWVaQnZnclFrNnl6N041cHJtZ256TW9tWFpEQk1sempKRHhRNkpUU3RWanpPVjVnLU9MMENDRW1xaUxlblNJMXNGeldsako4Z1h5LV9LU01wMlJtT0JUd3BrcHFhVlVGY2YtSC1XS0MxMG9OX2ZhTm5OX0ZpWGV5M2hjbEtxMzBtYWNlODZwdU1qN202ZENyamJWMnpOZE11dE5JT0dIMTlfc3pGNzZ5eFJB0gH6AUFVX3lxTE1CMGxjRHRFS0RfTlItRXZwNkZnNkdWUUMwQ2QwTFk1SWhjMGVsN3g1QU1udlFYQUdTMGZDbjE3S1JCREstaU5LVWpfSW5zRnJYcVgwUGVPRU8wMnlEcmxmenQzWWhrNEF1b3cxOWdPb0liMzVwcGlNa3B1MHc1Zk5iOU5VWFgxV181TWZBYkJYd18wXzAtTWpJb194d3N0Ti0wQ3RaZTNaSGJRTWF3dkRRYXJNOHFGUXJ1Z1NNdlpnZk9Fa0FJbGxhTXA1a1pNOUNJWUxqWHRUaC14VlNudWN1WlFLLXBWUUdvcmhUSl9sek9rR3IyaHBJWlE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "97833486c707",
+      "title": "A creatina pode afetar o ganho de peso? Veja o que a ciência diz - O GLOBO",
+      "published": "2026-05-15T07:31:01+00:00",
+      "summary": "A creatina pode afetar o ganho de peso? Veja o que a ciência diz&nbsp;&nbsp;O GLOBOComo usar a creatina monohidratada para preservar a massa muscular após os 50 anos&nbsp;&nbsp;Tua SaúdeNutricionista revela quais alimentos ricos em creatina podem ajudar na força e massa muscular&nbsp;&nbsp;Folha VitóriaCreatina vai além da academia: o que dizem os estudos sobre corpo e cérebro&nbsp;&nbsp;ICL NotíciasCafeína e creatina melhoram o cérebro? O que a ciência já sabe&nbsp;&nbsp;UOL",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZmpERkdqNTZoQ1RlVEI4VGktdFZrdlZhUmJ0RHdwZmlheVk1WEE2ZzlZSDJCZXZldENISzdkdFZGZFlGSFE4ZVBYTUU4cUFQMlphQ0ROZ3JERnd5c2dkZkVUQWlOTEF1R1NWTnRMVGNxOGZGa1dTeFU5Z2RpY3hobmxabWR2dGk5bTZrby15VC1sa0NTajM2YVFDRVZYM2xyNzhLUTRiaU9ZV0FGQi15RVFmeUpsOUpYXzNj0gHKAUFVX3lxTE1LMkVLV2dORFdUdHFVQ3l0OWlvNUQxQkRibkZ6M3F4cmRmMXV5WWJOMXBVYkVBYWFuUnY3a1hRc01lNFJDQmRMdXJmSFdzUTFnQzd3cVNkdHE5WHlFdjRodEI3bjdhVi0zU0t6Z3NMcVlTajVkYkJaUHFYZTh6cTV3TEUyeUhRU3U0ME9ya0tHX1dMdklXY0gzaThpd0xrTFE2azBTVVB4UlNqSW11NHdSYXZQaU00dkphNWRHbWpYbTdxbmRMZzdpSXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5b030ee28c35",
+      "title": "A medicina de precisão chegou às doenças comuns - O GLOBO",
+      "published": "2026-05-15T07:30:48+00:00",
+      "summary": "A medicina de precisão chegou às doenças comuns&nbsp;&nbsp;O GLOBO",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYTJIY1hRWHhwTkFIamw3OTJSTU5BRk9pNGM5WE9PNEdsVU5XX3VKWENWVkdVQkRtZ1lXWFRuWEVEM1hfR01jRlJ0c2dpUzFpZGc2SnNRU0tXVVduRjkwajFPMkZrSkFJUTJ0YnVlZFFESGFVT0V0Q3lORzc5SHVMM2MtN2xMMlJ1NXZBVFU2U3lwTFpub0R4TE5sMUlTT0N5d1JDSkgtcF9XbTByZkFGb0tNSdIBwgFBVV95cUxQVFl2UHBqNGpYazBBdHhIYWdfaU9wSE9DRjJiTzJuRGc3VEh2RjMtRjBucnZVcjN2cVJiTGIxM2Z6Uy0xdW1nem5HaEdxSm1MMGNpeFhuX05ZZ3JZR3l2R1h2SEg2eDV2VEI0eFRjeEZKRC1sN2QzTkdqQ3NiV2FsTlA4dVBFUGl1ZFZ0MUhZZ0h1cnloLWRIbDJkdzZrcm1MV1ZFSjJ4OUVvMldzd1VfSFBxOFQyRk5QZ3I1U19ITVJWZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b0203ffab061",
+      "title": "Primeiro e mais antigo satélite brasileiro continua operando; conheça - CNN Brasil",
+      "published": "2026-05-15T06:36:01+00:00",
+      "summary": "Primeiro e mais antigo satélite brasileiro continua operando; conheça&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb241dHk0bjZxdHlXTUVLdXVxaGNId0N1Y1doOHN5c0ZhWHVvc3ZWWGl0aVpQaVRBQy1qX2hPOUFicF9WLXpvMVkwVFR1RFlIUUp3djFSSlpmYl9FVV80SzgwXzJkX3pRZlNldUJqY0wtTm5DVWstR214Q2JkZ2llOVN6dS1vTUtIOXNQX05kTWxESHE2WGxhZEJnWlI5Sm5BYVNTcW9aVGQzUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "34fe167b523a",
+      "title": "Da Antártida a Minas Gerais: por que o hantavírus importa muito mais do que parece ao Brasil - G1",
       "published": "2026-05-15T05:00:35+00:00",
-      "summary": "Da Antártida a Minas Gerais: por que o hantavírus importa muito mais do que parece ao Brasil | G1&nbsp;&nbsp;G1Vírus letal que mata quase metade dos infectados está circulando no Sul, Sudeste e Centro-Oeste do Brasil&nbsp;&nbsp;Diário do ComércioSC registra um caso de hantavirose em 2026 e afasta risco&nbsp;&nbsp;Gazeta do PovoBrasileira deixa a UTI e se recupera 100% após ser contaminada pelo hantavírus&nbsp;&nbsp;TNH1O que é e como se transmite o hantavírus&nbsp;&nbsp;Folha de S.Paulo",
+      "summary": "Da Antártida a Minas Gerais: por que o hantavírus importa muito mais do que parece ao Brasil&nbsp;&nbsp;G1SC registra um caso de hantavirose em 2026 e afasta risco&nbsp;&nbsp;Gazeta do PovoVírus letal que mata quase metade dos infectados está circulando no Sul, Sudeste e Centro-Oeste do Brasil&nbsp;&nbsp;Diário do ComércioBrasileira deixa a UTI e se recupera 100% após ser contaminada pelo hantavírus&nbsp;&nbsp;TNH1Infectologista de MS descarta possibilidade de pandemia associada ao hantavírus&nb",
       "sources": [
         {
           "name": "G1",
@@ -18,13 +78,25 @@
       ]
     },
     {
-      "id": "d03d478b384d",
-      "title": "Além das canetas: Pílula sete vezes mais barata que Mounjaro tem novos estudos divulgados - O Globo",
-      "published": "2026-05-15T03:00:55+00:00",
-      "summary": "Além das canetas: Pílula sete vezes mais barata que Mounjaro tem novos estudos divulgados&nbsp;&nbsp;O GloboA pílula diária que pode ajudar a manter peso após parar o uso de canetas emagrecedoras&nbsp;&nbsp;Folha de S.PauloA estratégia que pode botar um fim ao efeito sanfona no tratamento do excesso de peso&nbsp;&nbsp;VEJAA nova pílula para obesidade que reduz o apetite e ajuda a evitar o reganho de peso&nbsp;&nbsp;Correio BrazilienseATTAIN-2: orforglipron na obesidade com diabetes tipo 2&nbsp;&",
+      "id": "139e87a94e72",
+      "title": "Por que mosquitos são mais perigosos que leões - G1",
+      "published": "2026-05-15T05:00:34+00:00",
+      "summary": "Por que mosquitos são mais perigosos que leões&nbsp;&nbsp;G1Bióloga propõe erradicar mosquitos que transmitem doenças como dengue e malária&nbsp;&nbsp;Folha de S.PauloAnimal mais letal do mundo é menor do que se pensa&nbsp;&nbsp;ExameAnimal mais mortal do mundo: por que o mosquito é um risco maior do que você imagina&nbsp;&nbsp;Gazeta de São PauloE se matássemos todos os mosquitos?&nbsp;&nbsp;Jornal de Notícias",
       "sources": [
         {
-          "name": "O Globo",
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRXEwRDNyTGM4dDRQVHV3T1ZLNVpxRmd0M3Jvdm1ZUl80dGRzQnZUSUZlODJJRjZuN1JhNTNsMWxfSzZLcDNLSzNCNUtZUG5CX1FuOWQxRXFabHJYTU5mX1pJUFZHNVJQSW81X0w4bUQ5Z0pJODhwa0VMOWIwTTJlUkZHV2M5UU91d0hYZUtkenZBMVpGcHYtaHBOOUlDdTZOYm1LY2VDckN4UdIBuAFBVV95cUxNR3hBSFhldF9sVjFPRC1SQTVaNUZBYVB6Ukg5RGN5MHlzckw0cmotcGVubjVxMUpEeUUzTTZhZFdKYXJTQy1UdmxxNXlzaWtvblFzQ0tydW5XVF9XLWpPOGNnUWloS21zeklGMU5vcE4tUjhqUFNzSWVHcTV1NE45RGNWWXVrcEFva182eWQ3a1ktdEpVWHdyMlZkejJKR2hqTEg2WFpwRnV3YjJ5SjJNcHptaHJ1dm9V?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e97573c4853d",
+      "title": "Além das canetas: Pílula sete vezes mais barata que Mounjaro tem novos estudos divulgados - O GLOBO",
+      "published": "2026-05-15T03:00:55+00:00",
+      "summary": "Além das canetas: Pílula sete vezes mais barata que Mounjaro tem novos estudos divulgados&nbsp;&nbsp;O GLOBOPílula sete vezes mais barata que Mounjaro tem novos estudos divulgados&nbsp;&nbsp;InfoMoneyA pílula diária que pode ajudar a manter peso após parar o uso de canetas emagrecedoras&nbsp;&nbsp;Folha de S.PauloA estratégia que pode botar um fim ao efeito sanfona no tratamento do excesso de peso&nbsp;&nbsp;VEJAA nova pílula para obesidade que reduz o apetite e ajuda a evitar o reganho de peso&",
+      "sources": [
+        {
+          "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRENWODJOMllpX1ZwNHFXQWpyRFVKcGl4U2wyT0ExTUVPOXl3MHhiRkZseUxiQldGZk9iMVZXYUVsUkVOYXZWaEp6VWU5MllFRU4tWVA0eEc1bGpBbl9JRDFTUFN0MWhFS3poMHotMUR2SS13YlVqdndLZkJCZHVOamNjbHQ0M0NYT0Jsalo4V0w0aTc3M2lYelN0ZENKZXhHeU45NWtkUmIxV2ZrX3o4aDY1N010WUh3MkdZajJIcFp4YmVrSmhBckI4NnpPcmhETEtxamRpV3BLWnlX0gHrAUFVX3lxTFBjWnMycFFlZC02QTlEN1ZGTktRRGFWb2FRWG1EdTBCY0pGOWJTUEZiMlctMnMyWDBaUjVya3B2ZzJtRnZmdTVSQlNDNTUyWVIwZG56aWtfbFJab2NFbVdROUdaVUpsQjM3WnRLX0pXdm9LS1ZydkhMZGV3SzJFTm1vRGJRTXZqSE5ubGNFX3E3eUFEUXI2Z2NhYVVuQUFsV3o2cjc5S0M2M0NIdHJXQlpiSl85RFhpQXk3U0hZdFU0OGwwaWRaUjBkSU55eVZWTGpiX0pmanB6ZWdDQ05yeHhSb3EzVE5HNm02cjA?oc=5"
         }
       ]
@@ -42,6 +114,18 @@
       ]
     },
     {
+      "id": "bc601fa673dd",
+      "title": "Cientistas mudam compreensão sobre insônia e criam novos tratamentos - Folha de S.Paulo",
+      "published": "2026-05-15T02:00:00+00:00",
+      "summary": "Cientistas mudam compreensão sobre insônia e criam novos tratamentos&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT0YyZ2QwM1BXWXNYaEdENXhjQzBEeFFCRDFkbmpXdlp6RDNnMDRnYWtqZl96UnJLWTdpclZWX2M5MWhxdHFSQUxaODVxZDZWcjh0YjVaY3VNSmdHY0dyLWZIZE1oN2ptYmE5aHVCa1owRXhJYWE5cmtWM2VfcWZuMF9SVXlyRGg5YVc4azQ4WnFXUXFMbXVIREE4UlNIOGFKemY3TTNkckI4OTRkUl9Td05vY1JiUGtwT01XcEQxd3DSAcYBQVVfeXFMTWtnS0RLTmJqMWh6bll2QTV2STl1WU9lY2ZwWlVIOEVSdC1ZOVhZdmhPcWlHbWpjbGFRclhjSHZPSndaMnJNeUVZTUlkWE5PSjhxeXluRWJzNTl3VnpHeUxQWjJLSEhVZ2cxYVlhbVJQa01ydmEzUGpNUmN2TVFwcmtJN3lNSjhNaFVyRlc0bXNYRnFQS2JUdjlXQmJvM29UTGJmc0dtUTJuUmMyOVJYTnpyanJtZEdjclM2TTNhWVg4cTRCeFF3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d11fd95df793",
       "title": "A Terra pode ter \"fertilizado\" a Lua por bilhões de eras e uma pesquisa indica que o campo magnético pode ter servido como uma via para componentes cruciais - Catraca Livre",
       "published": "2026-05-14T23:36:30+00:00",
@@ -54,10 +138,22 @@
       ]
     },
     {
+      "id": "f140adcba6da",
+      "title": "Marcia Sensitiva faz alerta após contrair vírus - Metrópoles",
+      "published": "2026-05-14T23:05:00+00:00",
+      "summary": "Marcia Sensitiva faz alerta após contrair vírus&nbsp;&nbsp;MetrópolesMarcia Sensitiva é internada após contrair vírus respiratório: 'Pode até matar'&nbsp;&nbsp;Notícias da TVMarcia Sensitiva preocupa fãs ao surgir em hospital: 'Estou na semi-intensiva'&nbsp;&nbsp;GloboMárcia Sensitiva é internada por doença viral: entenda os riscos&nbsp;&nbsp;NSC TotalMarcia Sensitiva é internada e faz alerta sobre vacinação Veja o vídeo&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM0JPY0g0ZmhEcHFrRDhSV1NZZ192NVk2c0ZzbUF0Y1ZKZUJJVGJudFdDbXEwV19RLXhqQUk5eVBlRm90eW5iYjktR3NnelVCWEZJaVFOb1dLekxVZGcxbFF2QjQ3LUpFREdsTnE3X1JseFVrMVplSmtvQmRIdURJUTVkX0JCcmhqNGNLTnEwODZpLWhxel9RWjVkeUxjUQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "91f29b8a02f1",
       "title": "Teresina amplia vacinação contra gripe para novos grupos prioritários;veja quais - CidadeVerde.com",
       "published": "2026-05-14T22:30:00+00:00",
-      "summary": "Teresina amplia vacinação contra gripe para novos grupos prioritários;veja quais&nbsp;&nbsp;CidadeVerde.comPopulação em situação de rua passa a integrar grupos prioritários para vacinação contra gripe em Teresina&nbsp;&nbsp;G1Teresina já registrou mais de 7 mil casos de síndromes gripais em 2026&nbsp;&nbsp;GP1FMS inclui novos grupos prioritários na vacinação contra a gripe&nbsp;&nbsp;Portal R10Teresina amplia vacinação contra a gripe para novos grupos prioritários; confira&nbsp;&nbsp;Portal Club",
+      "summary": "Teresina amplia vacinação contra gripe para novos grupos prioritários;veja quais&nbsp;&nbsp;CidadeVerde.comPopulação em situação de rua passa a integrar grupos prioritários para vacinação contra gripe em Teresina&nbsp;&nbsp;G1Vacinação contra a gripe terá horário especial nesta sexta-feira em Lindolfo Collor&nbsp;&nbsp;O DiárioTeresina já registrou mais de 7 mil casos de síndromes gripais em 2026&nbsp;&nbsp;GP1FMS inclui novos grupos prioritários na vacinação contra a gripe&nbsp;&nbsp;Portal R10",
       "sources": [
         {
           "name": "CidadeVerde.com",
@@ -66,10 +162,22 @@
       ]
     },
     {
+      "id": "25be41f91cd3",
+      "title": "Brasil tem alta de Síndrome Respiratória Aguda Grave em bebês - Agência Brasil",
+      "published": "2026-05-14T22:19:00+00:00",
+      "summary": "Brasil tem alta de Síndrome Respiratória Aguda Grave em bebês&nbsp;&nbsp;Agência BrasilCasos de gripe, resfriados e bronquiolite em crianças aumentam nessa época do ano&nbsp;&nbsp;G1Campo Grande está em alerta por aumento de doenças respiratórias em crianças menores de dois anos&nbsp;&nbsp;MidiamaxBrasil registra alta de SRAG em crianças menores de dois anos, aponta Fiocruz&nbsp;&nbsp;Rádio ItatiaiaDoenças respiratórias: veja como proteger as crianças no outono e no inverno&nbsp;&nbsp;GZH",
+      "sources": [
+        {
+          "name": "Agência Brasil",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYmtac0ZHUmdLS1YzeUxqOG9uWExHX01oeldVX1ZWVzZVcEJFWW9jekhLTnN1d1hoRjJYRmdZTDgyeEhPcTVTOWwtY0g4SjhsX3dqLWRaU1J4YldmcnZHUkhkbTVLaWFUQW9sN0MwUEgya0lwZnpsVHFtT0hLeG1VZkdnUTVGNGd0dEJHSWxEeFQ2bjVmeWZwZGpFTTN3Yl9xVV9HXzA4cGFESGdTSlZsc0Z1dDhBcDg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "9f56ecb1855b",
       "title": "PBH abre 18 centros de saúde para vacinação neste sábado (16) - Prefeitura de Belo Horizonte",
       "published": "2026-05-14T22:12:32+00:00",
-      "summary": "PBH abre 18 centros de saúde para vacinação neste sábado (16)&nbsp;&nbsp;Prefeitura de Belo HorizonteCampo Grande amplia vacinação contra gripe para toda a população – CGNotícias&nbsp;&nbsp;campogrande.ms.gov.brVacinação contra a gripe é ampliada para toda a população acima de 6 meses em Juiz de Fora&nbsp;&nbsp;G1Prefeitura amplia vacinação contra gripe para toda a população mais de seis meses de idade&nbsp;&nbsp;PJF - Prefeitura de Juiz de ForaPBH faz mutirão da vacina contra gripe e abre 18 ce",
+      "summary": "PBH abre 18 centros de saúde para vacinação neste sábado (16)&nbsp;&nbsp;Prefeitura de Belo HorizontePrefeitura amplia vacinação contra gripe para toda a população mais de seis meses de idade&nbsp;&nbsp;PJF - Prefeitura de Juiz de ForaGripe em MS: Vacinação liberada para toda a população&nbsp;&nbsp;Campo Grande NewsPega de surpresa, população não sabia da liberação da vacina contra a gripe&nbsp;&nbsp;MidiamaxPBH faz mutirão da vacina contra gripe e abre 18 centros de saúde neste sábado (16); vej",
       "sources": [
         {
           "name": "Prefeitura de Belo Horizonte",
@@ -81,7 +189,7 @@
       "id": "6dbf90a3d129",
       "title": "Vigilância Epidemiológica de TL informa que foi confirmado um caso de doença meningocócica - Prefeitura Três Lagoas",
       "published": "2026-05-14T21:10:41+00:00",
-      "summary": "Vigilância Epidemiológica de TL informa que foi confirmado um caso de doença meningocócica&nbsp;&nbsp;Prefeitura Três LagoasNÃO BACTERIANA – Secretaria de Saúde confirma três casos de meningite viral em Tangará da Serra&nbsp;&nbsp;Diário da Serra NotíciasVigilância Epidemiológica de Tangará da Serra esclarece sobre casos notificados de meningite&nbsp;&nbsp;Tangará da SerraDois casos de meningite viral em crianças são confirmados em Tangará da Serra; aulas seguem normalmente&nbsp;&nbsp;Plantão TG",
+      "summary": "Vigilância Epidemiológica de TL informa que foi confirmado um caso de doença meningocócica&nbsp;&nbsp;Prefeitura Três LagoasSecretaria de Saúde confirma caso de meningite em Três Lagoas&nbsp;&nbsp;MidiamaxTrês Lagoas confirma caso de doença meningocócica e inicia protocolo de prevenção&nbsp;&nbsp;HojemaisMédica alerta para vacinação e diagnóstico precoce em Três Lagoas&nbsp;&nbsp;RCN 67Vigilância Epidemiológica de Tangará da Serra esclarece sobre casos notificados de meningite&nbsp;&nbsp;folhaes",
       "sources": [
         {
           "name": "Prefeitura Três Lagoas",
@@ -102,14 +210,38 @@
       ]
     },
     {
+      "id": "b1ef79387c23",
+      "title": "Estudo aponta que dormir mais que o ideal acelera o envelhecimento - Metrópoles",
+      "published": "2026-05-14T19:52:19+00:00",
+      "summary": "Estudo aponta que dormir mais que o ideal acelera o envelhecimento&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmOUZwTVhSb0xWTEtRTlNoMlVCRFdtY2NqLUdzRnQtNU04Q1M1N0RpS1RZcTIwWlVLdXZzQ1Z3aFRvR1BNMjFfUjNueHlkclhUY201WVF5UWZyVENaMUUxZnNRNTRhN3VGallpZ2VpSGVpb3FqY2c?oc=5"
+        }
+      ]
+    },
+    {
       "id": "2c9a4e39ed5e",
       "title": "Lúcia Helena: Câncer de pele: não é só o melanoma que pode se espalhar pelo corpo - UOL",
       "published": "2026-05-14T19:42:22+00:00",
-      "summary": "Lúcia Helena: Câncer de pele: não é só o melanoma que pode se espalhar pelo corpo&nbsp;&nbsp;UOLPROFISSIONAIS DA BELEZA SÃO ALIADOS NA DETECÇÃO PRECOCE DO CÂNCER DE PELE&nbsp;&nbsp;- Bahia EconomicaA pele exige mais cuidado com o calor, sol e envelhecimento&nbsp;&nbsp;Criativa On LineSalvador recebe workshop gratuito para sensibilizar profissionais da beleza e saúde sobre câncer de pele!&nbsp;&nbsp;Farol da BahiaMaio Sem Cor: campanha promove ações de conscientização sobre câncer de pele em prai",
+      "summary": "Lúcia Helena: Câncer de pele: não é só o melanoma que pode se espalhar pelo corpo&nbsp;&nbsp;UOLAmor salva a pele detectando câncer&nbsp;&nbsp;A TARDEA pele exige mais cuidado com o calor, sol e envelhecimento&nbsp;&nbsp;Criativa On LinePROFISSIONAIS DA BELEZA SÃO ALIADOS NA DETECÇÃO PRECOCE DO CÂNCER DE PELE&nbsp;&nbsp;- Bahia EconomicaSaúde para Todos Diagnóstico precoce no câncer de pele: tecnologia, conhecimento e cuidado salvando vidas&nbsp;&nbsp;Correio Paulista",
       "sources": [
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd1BWNWN5N0hSWW5xaUI0VjJaamZNNFVpem1SWTFTdUFTOEsxVmlhd19EckRhcXJaaEJ5TFRVREpsTjlMWGxqbGM1TDR6TmxtQ1lLRllfVUt4cU9ON3JaUnhlak5lNlZObkk2TXRKbFJJM1dKcTNOVWRCNzR2Y0w1RS04SXFqMmVYMzBYNlRXUFhQRjZWelZMY2d6Qkh1ZDltMlFJLWlqdXB1V0VFR0g2Q2RWWk51MkROX183ZjNtYmJKUXJUNmdyTkQzTDl6UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fb57d304f51a",
+      "title": "Especialista aponta cuidados com nova cepa da gripe identificada no Piauí - CidadeVerde.com",
+      "published": "2026-05-14T19:30:00+00:00",
+      "summary": "Especialista aponta cuidados com nova cepa da gripe identificada no Piauí&nbsp;&nbsp;CidadeVerde.comO que sabemos sobre a nova variante da gripe em circulação | Letra de Médico&nbsp;&nbsp;VEJAVariante do vírus Influenza A é identificada em amostras no Piauí; entenda&nbsp;&nbsp;G1Teresina registrou mais de 7 mil casos de síndromes gripais entre janeiro e abril de 2026, aponta FMS&nbsp;&nbsp;GP1Linhagem K da Influenza A circula em Teresina e acende alerta da Sesapi&nbsp;&nbsp;Portal Encarando",
+      "sources": [
+        {
+          "name": "CidadeVerde.com",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ19pZ3ZlR1czbm9oTzA1ZnJ1blhxXy1OZjh3VGF5X3NkRDNEdXFvUF82RDJVemFfY3RLSVNlUjlUem5JVHl4djBfMXpHOWNMZ29lQmNoX0dyVGx3c1hwVHZMaGl2TFJnTXI4VzJROUVDdjVvMVJycTlkbkQxc2RvLS1ZVjljMFdnQzZZdTBsQmtxVlNsdGN2X1VqNjZaODZJa2dxbmQ3WHpvbl9aNkdyTDVCYw?oc=5"
         }
       ]
     },
@@ -153,7 +285,7 @@
       "id": "380d60c4303b",
       "title": "Pessoas felizes vivem mais: otimismo protege o coração, apontam pesquisas - Extra online",
       "published": "2026-05-14T17:27:40+00:00",
-      "summary": "Pessoas felizes vivem mais: otimismo protege o coração, apontam pesquisas&nbsp;&nbsp;Extra onlinePor que cuidar da mente também ajuda a controlar a pressão alta?&nbsp;&nbsp;EstadãoEstudo revela que agradecer e meditar podem prevenir problemas cardíacos&nbsp;&nbsp;Diário do ComércioAnsiedade e doenças cardíacas: especialistas alertam para relação entre mente e coração&nbsp;&nbsp;G1Saúde mental e hipertensão: entenda a relação entre cérebro e coração&nbsp;&nbsp;Metrópoles",
+      "summary": "Pessoas felizes vivem mais: otimismo protege o coração, apontam pesquisas&nbsp;&nbsp;Extra onlinePor que cuidar da mente também ajuda a controlar a pressão alta?&nbsp;&nbsp;EstadãoEstudo revela que agradecer e meditar podem prevenir problemas cardíacos&nbsp;&nbsp;Diário do ComércioSaúde mental e hipertensão: entenda a relação entre cérebro e coração&nbsp;&nbsp;MetrópolesAnsiedade e doenças cardíacas: especialistas alertam para relação entre mente e coração&nbsp;&nbsp;G1",
       "sources": [
         {
           "name": "Extra online",
@@ -177,7 +309,7 @@
       "id": "d528e60671d5",
       "title": "SUS passa a oferecer testagem genética para câncer de mama - Jornal Correio",
       "published": "2026-05-14T17:00:54+00:00",
-      "summary": "SUS passa a oferecer testagem genética para câncer de mama&nbsp;&nbsp;Jornal CorreioSUS vai oferecer teste genético para câncer de mama&nbsp;&nbsp;Folha de S.PauloSUS passa a oferecer teste para identificar risco hereditário de câncer de mama&nbsp;&nbsp;O POVOO câncer pode estar no DNA da sua família: maior estudo genômico do Brasil encontra mutação hereditária em 1 a cada 10 pacientes&nbsp;&nbsp;G1Um a cada 10 pacientes com câncer tem mutação no DNA&nbsp;&nbsp;R7",
+      "summary": "SUS passa a oferecer testagem genética para câncer de mama&nbsp;&nbsp;Jornal CorreioSUS vai oferecer teste genético para câncer de mama; entenda&nbsp;&nbsp;O GLOBOSUS vai oferecer teste genético para câncer de mama&nbsp;&nbsp;Folha de S.PauloUm a cada 10 pacientes com câncer tem mutação no DNA&nbsp;&nbsp;R7SUS incluirá teste genético para câncer de mama; saiba mais&nbsp;&nbsp;Campo Grande News",
       "sources": [
         {
           "name": "Jornal Correio",
@@ -234,22 +366,10 @@
       ]
     },
     {
-      "id": "ec2d6e7c2a9f",
-      "title": "Homem doa corpo da mãe para a ciência, descobre uso em experimento militar devastador e recebe indenização milionária - Jornal Correio",
-      "published": "2026-05-14T14:11:00+00:00",
-      "summary": "Homem doa corpo da mãe para a ciência, descobre uso em experimento militar devastador e recebe indenização milionária&nbsp;&nbsp;Jornal Correio",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQLUM3YkljaHRQY0ozbDc0UkdZaC1IUmhWWDBPcE9FdDdtMUN5MFBDQy1QVUlFUDdSWUdHN0VxcXp5Z2xXTUpELWxTMlRfWm1oVTQwMEgxMWdoSGt4NmQ0MUMwUWxIeUlFeE50UVdpYWxINFRqQnU4ZGZ5MVROc2EyR1RiTDM3d1JvTXpFc2kxNGMzeTk0NWxfNUFfQWFCQWFyUWpad3FoQ3hNUmc4SDdtR2pLSzdvQW5FZVFxQXhCNWJlRXg4R3BEVUxOcUZLU2dUYkwxYnd1N3Rzd25TSUFtUzVidjh6QUh6cnNwdGRUN0hVeG1LeWc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "07da6b7dee79",
       "title": "Médica cita tempo para o intestino se recuperar após consumo de álcool - Metrópoles",
       "published": "2026-05-14T14:06:00+00:00",
-      "summary": "Médica cita tempo para o intestino se recuperar após consumo de álcool&nbsp;&nbsp;MetrópolesEstudo mostra os efeitos da cerveja no fígado e na saúde cardiovascular&nbsp;&nbsp;Correio BrazilienseVodca e outras bebidas alcoólicas podem prejudicar mais o intestino, alerta médica&nbsp;&nbsp;Banda BÁlcool agrava doenças do fígado&nbsp;&nbsp;Agora RNImpacto além do fígado: o que uma cerveja por dia faz com seu corpo&nbsp;&nbsp;UOL",
+      "summary": "Médica cita tempo para o intestino se recuperar após consumo de álcool&nbsp;&nbsp;MetrópolesEstudo mostra os efeitos da cerveja no fígado e na saúde cardiovascular&nbsp;&nbsp;Correio BrazilienseNem cerveja, nem vinho: médica revela qual bebida alcoólica mais destrói o intestino&nbsp;&nbsp;Gazeta de São PauloVodca e outras bebidas alcoólicas podem prejudicar mais o intestino, alerta médica&nbsp;&nbsp;Banda BImpacto além do fígado: o que uma cerveja por dia faz com seu corpo&nbsp;&nbsp;UOL",
       "sources": [
         {
           "name": "Metrópoles",
@@ -270,14 +390,14 @@
       ]
     },
     {
-      "id": "a70c8c32fb3f",
-      "title": "Descoberta brasileira usa bactéria que ataca percevejo pelas patas e pode enfrentar praga ligada a R$ 12 bilhões em perdas na soja - CPG Click Petróleo e Gás",
-      "published": "2026-05-14T11:52:00+00:00",
-      "summary": "Descoberta brasileira usa bactéria que ataca percevejo pelas patas e pode enfrentar praga ligada a R$ 12 bilhões em perdas na soja&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "id": "a4747c5645a3",
+      "title": "Uso de imunizantes contra o Vírus Sincicial Respiratório (VSR): Vacinação em gestantes e uso de anticorpos monoclonais em crianças - Sociedade Brasileira de Pediatria",
+      "published": "2026-05-14T11:26:14+00:00",
+      "summary": "Uso de imunizantes contra o Vírus Sincicial Respiratório (VSR): Vacinação em gestantes e uso de anticorpos monoclonais em crianças&nbsp;&nbsp;Sociedade Brasileira de PediatriaBrasil chega a 1 milhão de gestantes vacinadas contra vírus que causa bronquiolite em bebês&nbsp;&nbsp;O TEMPOVacinação na gravidez protege mãe e bebê contra doenças graves&nbsp;&nbsp;G1Paraná aplicou mais de 50 mil doses da vacina contra o vírus sincicial respiratório&nbsp;&nbsp;Diário do NoroesteProteção contra o VSR: o q",
       "sources": [
         {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxONi15cWZaaW02c1o1UVZOTFZIUmF5bjl4aXJWMXg1WUowY3JJT1I1N3hTNmxIQ0ppUjFoN3RnV0N4N0xIWTl3S3IzSG5uTkFxVXRfUDAyVHYwb2ZnNXh0Y3d5emJWSDkxc2JGSEljWlJISXZHM1dlVnZTWU9xR2U4WTJKbVpLQVV3T3RDZFQ1eEJBSmRnbmlaaVVsZmdlYVQ1Q1FwZnNmT0tOLUpoWG9SbnpST0cxZnpZRmFZTzBLeEJhQXJxa2c3RFlKcE9zY1M1SnotdEhmOE5EaDhBYm5SNFFRNlFzWmRwY1ctT1ZnOVhGTjRyZUhFT1VVRW4wdw?oc=5"
+          "name": "Sociedade Brasileira de Pediatria",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSXlXY2dBUGh6SmFpMjlSdGlkUnAzaEl6X1gwQjg2MHNEa1lRQ0t5eHlid01aTFpkUTZPNWtMRmthNEY4enJ2aHNLZEV0ZWhyaDlFWm5tVmpSR200bmlnZkZXQ1JqRWtWZllWTFV1a0JLYTIwR1NDUnJCc2lLbnBzUFdPVFduNE1EbEdzU0FHLUpKdnM2LWRnUGEwZXdFWlRkUmoxb08zclVxZF9wNVBsaVFKQXNXWVpuSDJuZWtVTzJtY2dUOGdsVHZTWUJxLVB6VGhZZXFMMVQ4MzRWdlFYSW5jLTd5Zw?oc=5"
         }
       ]
     },
@@ -285,11 +405,23 @@
       "id": "394a8a1c2123",
       "title": "Magnésio, creatina e colágeno: o que a ciência diz sobre suplementos para a menopausa - Superinteressante",
       "published": "2026-05-14T11:00:00+00:00",
-      "summary": "Magnésio, creatina e colágeno: o que a ciência diz sobre suplementos para a menopausa&nbsp;&nbsp;SuperinteressanteMenopausa, hormônios e longevidade: por que o tema ganhou novo espaço entre mulheres&nbsp;&nbsp;O GloboSaúde na menopausa: 4 dietas para amenizar desconfortos e proteger o organismo&nbsp;&nbsp;Correio BrazilienseMenopausa: da negligência ao mercado bilionário&nbsp;&nbsp;UOLMenopausa vai além de calorões e baixa libido, dizem especialistas&nbsp;&nbsp;Estadão",
+      "summary": "Magnésio, creatina e colágeno: o que a ciência diz sobre suplementos para a menopausa&nbsp;&nbsp;SuperinteressanteSaúde na menopausa: 4 dietas para amenizar desconfortos e proteger o organismo&nbsp;&nbsp;Correio BrazilienseMenopausa, hormônios e longevidade: por que o tema ganhou novo espaço entre mulheres&nbsp;&nbsp;O GLOBOMenopausa: da negligência ao mercado bilionário&nbsp;&nbsp;UOLMenopausa vai além de calorões e baixa libido, dizem especialistas&nbsp;&nbsp;Estadão",
       "sources": [
         {
           "name": "Superinteressante",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbFNvV0Mtc2RzcHNicm9ob1hNUmRpclRldGpkbjJYMDZyTkVPbS1adEYyQUJBOHVFejF2a0pXekhsZFNaaHhTUU1UQy1Fb2ppQkZMVVZDaW5TSkF3Rk1veDIycGhrNzk3enpibVA0cS10RXBaSE54bUxoZzlyUVliTWZiZFBENHp2andYSUlNMTk1RGNZb3hmM2FGQTBDT1UzeXpzdDVNVE40T0NmTV9tNXM0LTc2Qk9F?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "06e96aec2a55",
+      "title": "85% dos brasileiros ignoram filtro solar: risco disso vai além do câncer - UOL",
+      "published": "2026-05-14T08:31:00+00:00",
+      "summary": "85% dos brasileiros ignoram filtro solar: risco disso vai além do câncer&nbsp;&nbsp;UOLCâncer de lábio: tumor exige atenção redobrada no verão e prevenção&nbsp;&nbsp;CNN BrasilBase com FPS substitui protetor solar? Especialistas explicam os riscos da troca&nbsp;&nbsp;Folha VitóriaAssim como a pele, lábios podem desenvolver câncer por falta de proteção solar&nbsp;&nbsp;Correio dos MunicípiosProtetor solar dentro de casa?&nbsp;&nbsp;Jornal do Brás",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN3FiNVlKZUtGSE9nbzZhcFFYdFpIZS1qTXI5NVplblZuNGRVQlQwMTJNdm9XeEZfem8wV2YyUlpPVU9wVW9xYkdBWkcyR1pIUEwzU3hTYzRqNjlnZkhOVUdhTUI0bklMNVZIcG15LV95VFdrTFVPLXNvUlFuLTRobVh5Z0VLNHE5cHFlSGZSVVVPSUJQUDFNTFF4cWZadzBDaG9CYmxfVm5XLW5KcHJUREtObVVjMGtBYUVvZ2h4N2ZaekEtaXB5dQ?oc=5"
         }
       ]
     },
@@ -366,6 +498,18 @@
       ]
     },
     {
+      "id": "0225fcd2d660",
+      "title": "Autonomia e riscos: agentes de IA como infraestrutura cognitiva na educação - Jornal da USP",
+      "published": "2026-05-13T22:08:00+00:00",
+      "summary": "Autonomia e riscos: agentes de IA como infraestrutura cognitiva na educação&nbsp;&nbsp;Jornal da USP",
+      "sources": [
+        {
+          "name": "Jornal da USP",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNGcwSEw4OEQxMk5Nb255MmJoUXVZUVdyYnFuWks0MGNSSkZ1UHJFeTJyWjE2eGI2NWM3MFdUeUxsZ196Q3BFT1g4WHFkeXFxRXJIZ1ZMZEg3blBwaDh5Y1hkdTk1MXMwbHRJVW0wNFhnaFc3a2pDZUIzNXk3NDhsTDFkSVNRZkExU29abTBTMm5uMTRjVmVPbW84dWxXYXVyX1NtVHg0Z0E?oc=5"
+        }
+      ]
+    },
+    {
       "id": "6df736a8d144",
       "title": "Endocrinologista aponta sinais do corpo que podem indicar pré-diabetes - Metrópoles",
       "published": "2026-05-13T21:12:00+00:00",
@@ -402,86 +546,14 @@
       ]
     },
     {
-      "id": "15a0d5b046dd",
-      "title": "Primeiro dia de vacinação contra covid-19 tem alta procura de idosos e gestantes em postos de saúde - O Dia",
-      "published": "2026-05-13T17:54:00+00:00",
-      "summary": "Primeiro dia de vacinação contra covid-19 tem alta procura de idosos e gestantes em postos de saúde&nbsp;&nbsp;O DiaVacina atualizada contra a Covid começa a ser aplicada em idosos e gestantes no Rio&nbsp;&nbsp;G1Rio inicia vacinação atualizada da covid-19 para idosos e gestantes&nbsp;&nbsp;Prefeitura da Cidade do Rio de JaneiroVacina atualizada contra a covid: saiba quem já pode se imunizar no Rio&nbsp;&nbsp;VEJA RIORio inicia aplicação de vacina atualizada contra nova variante da Covid&nbsp;&n",
+      "id": "3c86db07f0e1",
+      "title": "Animal que desafia o envelhecimento inspira avanço em pesquisa sobre longevidade; entenda - Um só Planeta",
+      "published": "2026-05-13T19:51:40+00:00",
+      "summary": "Animal que desafia o envelhecimento inspira avanço em pesquisa sobre longevidade; entenda&nbsp;&nbsp;Um só Planeta",
       "sources": [
         {
-          "name": "O Dia",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPaDRjWFFRYjlJODczMDI3eXkwVnF6R0tNamFsVlVzb182SFVaa3UtNFpzU0s0Tm1aVmN0WHlkQTJvQ2w3Y3EycXlHVDFUdmg5aTBMdS04dzA3SldHb0VzQTcwVTlxbHJOWFZLcFpKbE9vVkRfOWFQOXh1OG5RUDZLZTVzbTBhc1JzX2Z5SGVuWWhBVno3djdUWDRoTFNhU2h3QWF5Qzc4dkYtakJ4Ul9YeWZjOU96UjhJOFE3V1FwYU1GOFJzYmdYbkxCSnhwMFBQMGdWeGhaUjBDV3hkRGhCM0gtRF8wVDNpbC1JMV9qTdIB9AFBVV95cUxPRjlxNW9EbzJoYXdnUnBWWWZfRS15QlItdm9Fd1F1V0NqTk1vcTNxQktfOUdpUV95SFo4Y2NUeGdZNmxRVjVqcVJXbmZnNFBNM2gtS1BMQkNwbTg3UlZyNXE1b3pVZVR1dVVrc2RmLU5ZMmMyWURwN2FfNFl0cHk3NzJjcnU3QlhMYnVPMGZ6dkx3X19xeFJHWHA0SlN0WEszdlBzZW9WUlh4OWpGVHhlRW9GSDFhTHM4LUUwQzd6bDhTSEpOeG84Q2JxczNHckFGVlFGUThacjVNWm04RkpyazVCOEhQV29XOXpLOWhhWmZTaUhV?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c485b8cdef00",
-      "title": "No Brasil, câncer digestivo mata em silêncio e os sinais são discretos - Metrópoles",
-      "published": "2026-05-13T14:12:13+00:00",
-      "summary": "No Brasil, câncer digestivo mata em silêncio e os sinais são discretos&nbsp;&nbsp;MetrópolesCâncer de intestino: 5 alimentos que aumentam o risco&nbsp;&nbsp;Correio BrazilienseAté 2030, 127 mil pessoas podem morrer da mesma causa que Preta Gil; entenda&nbsp;&nbsp;TerraRio Grande do Sul enfrenta maior mortalidade por câncer de intestino no país&nbsp;&nbsp;Portal Alegrete TudoMortes por câncer abdominal superam 70 mil casos no Brasil&nbsp;&nbsp;Guia da Farmácia",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdnJaNU9Eb2p3QmktdUhrZ2ZJZXpFWTZaSWZpZEVkQnJSVFM4LWVER1RhcmNuaTFWY2xPVzJMSDdfWE5mQ0lRZ2stRlA0MnRFb29mR0JJQjJWMEFqSmpaMVRTc3pxZnB3OHFLYUNoODZRRzhNZlcyb0RjdmRDdU5kSnZR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c9385cd07e3f",
-      "title": "Um estudo de Psicologia concluiu: pessoas nascidas entre 1950 e 1970 têm uma vantagem psicológica fundamental - purepeople.com.br",
-      "published": "2026-05-13T13:54:00+00:00",
-      "summary": "Um estudo de Psicologia concluiu: pessoas nascidas entre 1950 e 1970 têm uma vantagem psicológica fundamental&nbsp;&nbsp;purepeople.com.br",
-      "sources": [
-        {
-          "name": "purepeople.com.br",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOLU1VVjRuOWVudGZLampWMkwxLURXb2thazk1dXUwcWFWNzJvZVB5UmFuc0RKWFRQczNFZnRiSjNOaExkMlVzaHVCRWMzUncwdzZVcmNoZ1I5dWFsYVh3WTg5VWEzZkd1WjgxWU1KRDd0VUMxUkM2TlVvYTNhUllXTzhMX01qdG5UYS1aVFBlYjVMRHdrclZFM09EN2dHRjhwRUdPU09rYU1LZmxhNkZFY1JBOERpTC1TdjJLVHpqSUVZbjlWZUhjdFJ1bFUyaThzX3BrTzRfSdIB3AFBVV95cUxPTkYwTjRFLUJTb0hLNjJobGxDLVZmdXltNzVSYjBnT0JyRnVaRkhpWjZGRGlkZE1xbS1YcThMeVN3WDd3M3c3ZjVsZ2daNmZLdEVPWjR1bU0zMjN3THA0cXdtNVRMd3pocTZaQ3R1X3dvN3FjX0RaaFFMUWczTXByMTFhYUxJb3RZSThiV2taLTRWbjdVRXU0LS1QZTgxbjd4dlJKTHZOQjE3eWg3VHhsX0ZpeVdBLXRpMHVwSWN1RXd3YVFxZlZoYm84UkVjTVEwbGdQTUw5RGdRYWZs?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "deb5c4f983e7",
-      "title": "Estudo revela efeito silencioso do sedentarismo no corpo após os 30 anos - Jornal Correio",
-      "published": "2026-05-13T12:18:29+00:00",
-      "summary": "Estudo revela efeito silencioso do sedentarismo no corpo após os 30 anos&nbsp;&nbsp;Jornal CorreioSedentarismo eleva carga de estresse na meia-idade, aponta pesquisa&nbsp;&nbsp;MetrópolesO hábito silencioso que aumenta seu risco cardíaco em 5% a cada hora&nbsp;&nbsp;Estado de MinasFicar de pé não basta: o que o corpo precisa fazer para reduzir risco cardiometabólico&nbsp;&nbsp;Tua SaúdeEsse hábito silencioso do dia a dia pode aumentar risco de hipertensão&nbsp;&nbsp;Terra",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeFdYdXFfRHRiVWUwNjhPMDNGd2lwWmlEZUhVYWp6OGdUOWE0UXFsejlqYzhOR0RMZVBJNFk3ZFBDdWE5UWFUaWg4eWU1TnVXYm8yaUFla1JXbnF1Y3oteEEzS1NHZFE5NURQYkU1NjctS2pUUWNSTUhBTnQ4OWtwTnhmUTdDSVVjNjkxRTZ6QnJwTlVySnhxN0U1bmEyX2tUaHZ6UUMyWks2dXN4VGFoSURXMmM4S3Fq?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9dcb04163e30",
-      "title": "Expansão de mosquito com bactéria para combater dengue esbarra em desafios - Folha de S.Paulo",
-      "published": "2026-05-13T09:00:00+00:00",
-      "summary": "Expansão de mosquito com bactéria para combater dengue esbarra em desafios&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdF9FeGNyNzd0VmtTYXFpSDRybnRyeWpmajAyZF9CWDVWQmRzMjlDUWtjTHRtUHNMZGloRHJ1SS0wMjNyNHBYRWNSSk5CcWpDcGp6WWZEUXdRLUVURFd1Ujktc2dZU3pfbkZJYjI4NGNRS0JNSEdoaHN2cUsyaURFelRTQ3N0NF9uam54SEFOMFBtQm1GYUNNRnJSY2RZX0RTa09IUTRkbjRKLU5HTlVKODl6ZlRHRTYtRWRGQjJyN1hyMzR50gHKAUFVX3lxTE8xcEpFekpXZU5WbFI3VkQtejdhNGt2MDh1T1g2ZlVhampRSU5IUDNsTDBNdFJIWkdYLXVIdlpfTGg0RW1NVXRfalJyTUhHaDA0U2V4ZndKbmxRdVQyeFpiVjlRWm54NFpRNVc0SEVwWmJ2eXg5bFRfRG5fY0FyVXdpWE5zTnRsU0pGeUxFOXlrd0ptem15WkprMmhYWWo1MXdXUHB4OXhmWWhqTGgwYU9aUE1jMDkwS3ZPTDdIcExQbEJGakdDQVlYT1E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6805d447e457",
-      "title": "Pesando mais de 750kg e medindo 4,20m de comprimento, cientistas registraram o maior tubarão-branco macho dos oceanos - O Antagonista",
-      "published": "2026-05-13T08:53:00+00:00",
-      "summary": "Pesando mais de 750kg e medindo 4,20m de comprimento, cientistas registraram o maior tubarão-branco macho dos oceanos&nbsp;&nbsp;O Antagonista",
-      "sources": [
-        {
-          "name": "O Antagonista",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPcnZweFFuVGV2Q3ZYMlZRYThxdDduNFVaVXNndVpVQmpjR1RXS2NFaldZb0xMdUZZeEY2YjgxYkt1N19OclhlbzlIYVM1RElKUVRqU0I4dGxuS0JxdlFNcThoM2IxTjJfRHM1T0pldEhGQlY4TnhVUjY1d0ZQNHFibWxQaHNicW1nMGplOGRNMTktUWp0Y2lXb25wVEs2OFo2UUdwQmZiM3FRcXFQWGF4LU5YREJHaDJrQm5GbDFKUmxlbDA5UEJOT2NHNUlLVS1KUG9wZHVXU0ZUVzZ3Tko4cFYxaFRJWEY5aWw1TzYzYTF1blFnam5WSm5n?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "35ce53a83656",
-      "title": "Músculo agora é considerado decisivo para quem quer viver mais - Tribuna Online",
-      "published": "2026-05-13T08:00:00+00:00",
-      "summary": "Músculo agora é considerado decisivo para quem quer viver mais&nbsp;&nbsp;Tribuna OnlineTeste da cadeira: como saber se seu parente idoso corre risco de se machucar numa queda simples&nbsp;&nbsp;Extra onlineNão é só condicionamento: esse teste simples pode prever sua longevidade&nbsp;&nbsp;Exame‘Adoro musculação. Preciso fazer cardio também?’&nbsp;&nbsp;EstadãoMusculação além da hipertrofia: 5 benefícios para a saúde do seu corpo&nbsp;&nbsp;Assine Abril",
-      "sources": [
-        {
-          "name": "Tribuna Online",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWUtKVUNyb3dLQThyWTgyemw1UXY3OVkxWXdLUHNudmFiLVd0cGhUUzVvQWk2bmlHaFpRVVFmckpEd2w2R3VYbzZ6WC1BWjNwRERXNGJQVThIMW5qaXJFenF3R0FhbXpYRHVUU0Q3TTFhbEJ2cTcwZUZYOUxWaHk5UGpCMHVUSkctYVRILWJzY3dmakFadzg5bm1LR2FhZFdiMjdXVTNUc9IBrwFBVV95cUxNemJkMk11NnhHTDNkZlVSNHdPRmIyNF93b0p2TUpCUUJDUEM2dWpucWNjN3BQYnZkUzl0dXFKb2Y1UWp3eHZNMnJLVFJwdUt2WXVkaHAtYUkzWFAzX2RHVjJjMGtjakxQNnpCV21xai1fLUFGQTJBZlAzN1k4Sm0yX0p2bWFJU1JjMDUzOTJLcmphN1ZMY1d6NW5EUDduelhfSHFBSmJwblR5Z3pCYzVv?oc=5"
+          "name": "Um só Planeta",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNYnZMSmJOa2dSOGdWN2hmcUt3MmJMNG1pMFc5dmhTOUptRWtTbGhxTmN4Y1MtdmhzZlVON2RJTHBxTEZiQXRxc2poMHI2bmRCVjN2cEtBUDBWWEpCR2tveVMwN1E0S3RtbV9zLU1GOHh1UF8yYTZ4RlJDMFluVjlFMnFhZXJ4NE9VSVpTd3p5QmZpU0RrNFpFdW9ubE4zUE1HRVBTdGZFaEJrTXcyekcxZU1BanBFQmdKYk00TnhvYjloU0k2R3pkWE9HcmNXdWpZdWtZcXMtcWw3bnloUkkxX3BFTlo4dXJWQkd6U21qa9IB_gFBVV95cUxOa0pSSi1qLTFoYUU4X3ZnWWNyX2NSMmluMG91bi1UcDVSU2hrNFF1MTl0MjFqMFRkOFg5Yi12U0dabUFvQmRlVlRSbEtOZllVUEdMb1lkdG1oaHhXOFhuOGRoWGViUjlZcGpVTTRoekREZGpKMlluVkk4cVBRZWNKUTd0TG9peV92UTdxTENjN0J3Nmp5ZGU3eDJqV0duQ0QwM2llb2NPX3RpSUk3MnVGUUlESHA2VDI5LVdDNExQcmZ5Tm80anQ5U0lkd0N5RHVIMGEtRzAwMXY2NnpicVA3ZnRRVmRFQzA4VVFHR0NjbzVRY2lPTDFIVmEtd1BNdw?oc=5"
         }
       ]
     }
