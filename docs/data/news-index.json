@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-16T08:07:30.809177+00:00",
-  "count": 40,
+  "generated": "2026-05-16T13:26:52.166018+00:00",
+  "count": 39,
   "news": [
     {
       "id": "9360bafe214f",
@@ -15,10 +15,64 @@
       "keywords": [
         {
           "type": "drug",
+          "slug": "decitabina",
+          "keyword": "DECI",
+          "name": "DECITABINA",
+          "url": "/drugs/decitabina/"
+        },
+        {
+          "type": "drug",
           "slug": "silodosina",
           "keyword": "SIL",
           "name": "SILODOSINA",
           "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
+      "id": "05a1bb854f84",
+      "title": "Qual é o tamanho médio do pênis? Urologista responde dúvidas sobre saúde íntima - Rádio Itatiaia",
+      "published": "2026-05-15T22:30:37+00:00",
+      "sources": [
+        {
+          "name": "Rádio Itatiaia",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS1VDOWVXYkVDeWVTcXhGdmdHTVl3OWNxRng2VDEyaVdKLTljM095N1QyUWdTX1Z6VXRPQ3lSWXZiTDczRGZxSzZpcXVuU1gzYjdBSWVrU193dXNCOERHMnB1dnVkWDdNYV84WkN6RXdidHBRT0N0SC1RR3dfcjJPeVV3a0MtX2o2WXNZMVBaQkktNWZXbF9UdkE4TWpSZmUwSkpnazNsZkRQS3M2eXNGVDloUQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "levetiracetam",
+          "keyword": "TAM",
+          "name": "LEVETIRACETAM",
+          "url": "/drugs/levetiracetam/"
+        }
+      ]
+    },
+    {
+      "id": "b04924c0ff17",
+      "title": "Ceará amplia vacinação contra influenza para toda a população a partir de segunda-feira (18) - Diário do Nordeste",
+      "published": "2026-05-15T22:17:00+00:00",
+      "sources": [
+        {
+          "name": "Diário do Nordeste",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQS05NaFZ6YlgyUGZVTEFPQWtpX0dfNmxvbkdRVkN4VU1XN3M3ZG00aUZUSmRoRlFULXpwVUhqYXRvZldXWXM5Q1JiNy1lUEZSYnFzVk1VNmkwenQtRERYRFVma3Nwcm1UMjBRRkJVb3hYUzQyZ2pPWklqSHU2WEZESkpUbWd2bldTUGtTSUpiQjdKOW1ra3NtaUtyLVZKN3ltTHVYc3BNb2pIV0xWMzJvT3d3ZzFMMmRvYzBfZ2duZWQ2SnRpakxialRObl8wMlNGWHgyV05QQ3NuamExenA5eHE1djU?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "diazepam",
+          "keyword": "UNI",
+          "name": "Diazepam",
+          "url": "/drugs/diazepam/"
+        },
+        {
+          "type": "drug",
+          "slug": "zinc",
+          "keyword": "UNI",
+          "name": "ZINC",
+          "url": "/drugs/zinc/"
         }
       ]
     },
@@ -90,12 +144,12 @@
       ]
     },
     {
-      "id": "4571223c6ae9",
+      "id": "3c114ea2a124",
       "title": "Hantavírus acende alerta global, mas cenário no Brasil é diferente",
       "published": "2026-05-15T18:55:37+00:00",
       "sources": [
         {
-          "name": "uol.com.br",
+          "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVWk2elpQMFRLQkNhTjlWNldWS09aRXBTUVI1Tk5HZHhLcWpXVjhkNDdDQjB1UnBDRG1sRUdiT0E1UFlMajduYkt0S09Ba0ZaOXU3TDV2SjMyZ21WaEh3VVB0WC0xdVNoeGR0MloyV1B0YklMU3RDb2JpcXQ0eXhWa3pJNWxHSlNfWlB1V3lzUjhMWE9abFI3ZDN4b0ZDXzMzS0dUbEwzLVZVaEdsRDdyUWN6ajN0SVRVWk1kbkY4dU5VSmNzY0JHOA?oc=5"
         }
       ],
@@ -184,6 +238,33 @@
       ]
     },
     {
+      "id": "fd4422c39285",
+      "title": "Andrea Vicente, psicóloga e especialista em relacionamento, lista comportamentos que indicam o fim de um casal: 'Em 90%, 99% dos casos, se você fizer essas coisas, vai acabar se separando'",
+      "published": "2026-05-15T16:53:00+00:00",
+      "sources": [
+        {
+          "name": "purepeople.com.br",
+          "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPajRoMV9IMjZ5Z21zS0gwZTlJVlNsYTZCV1NyS1dtSEdlVlVucS1MNnhxaGE0aWEydGstWHlmTUhPazg5WFJKTGdoY3d5QkkwWjRhbTNhaW5kZHZEeHVheHJGd21IVkZTdWd6WVUxVGtZUWlaTkZSa3F5Qm9NTlkyQ0ZFYVdWZGZYUXd3a1RVZXgzOWZwajZGR2FoNXBqUndXVTFjX0tQeWotR21lUFNfT1l5UXB4dU0zQmt1dlBDS1dXa1Z6SXBKWTNkSHJHRS1sNlpidFZTUmI0NXdHQjBzTjJuanZBdld3RVFOOUEwTG5MVFZjYjdhMmRmMi1NTXNnc1cybUkzR3FoMkgzSVVrU0N4Sm1pR0N5SmRTM05ZbWVhQW1CRzNaOUtiYzZwTEhZeERqOXNtdk5pbTdiVWFvRlJNMkhYTmQ1dVHSAc8CQVVfeXFMTV9QbFp6c3ZjWnVEaGdSOS1LQ25RM3lTZkFVTnZRSUhSUHpOVUMweGZCbC1BWWx0MEFiN1FRRWRXM1ptbkFYR0EwWWJhVkRhZlFsTmFoY2hqd1BhWWZnRGVlZUktVGFJZG1CV3VfWjVfbDhITlNGNENuRGNfbmp0a2lRSEhVOUhCd0hacXZnSVoxYVV2QUpuZnpNaWZBZnZEaEZlUnVDN3JvR2ZMS1NJeTlFUGxydk1Rb3pNU2FGbHo5NXBsWUttYnpRb0JUcWowM000eVgwSTBLS3Jvb0hRcEZYNzQ4cUVQX3ZoT0tHN3NTT0lZbTY3Vi1mNVNMTXRidWNKbmFocW5yVmxudjZldVFUUzJsVDFCU293aGI5MDdoQURaMWl4QnhIQnUwWTBJcXhtNWtSbkZMV2k2dWY5WHhCWm9sT05ZUXNSOWlVcnM?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "levetiracetam",
+          "keyword": "TAM",
+          "name": "LEVETIRACETAM",
+          "url": "/drugs/levetiracetam/"
+        },
+        {
+          "type": "drug",
+          "slug": "tadalafil",
+          "keyword": "CIALIS",
+          "name": "TADALAFIL",
+          "url": "/drugs/tadalafil/"
+        }
+      ]
+    },
+    {
       "id": "c5006ff1c154",
       "title": "Tamanho é documento? Entenda o que a ciência diz sobre as medidas do pênis",
       "published": "2026-05-15T14:55:19+00:00",
@@ -211,6 +292,26 @@
         {
           "name": "purepeople.com.br",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUXhFT29ZNjh0YkdlS2dacjBwUG9iM3Rad1VwRkUwMkZiSHlUMWlCdFZjTi1YQWFjN2pESUdlRUMzTGhrYnVLN002a3ZEYy16NEJNcnVFTFpBQkxPUUxZMDduOEgwLTdsZ3Q2cXdjTm0zY0VSMEw3MllWakN5VEgwdUhBS2VWZ2JEaUlFemdIRkJzVWxWYVpiSWRJaU80SWZfZVp1dkVYcXpsUGdYZkI4SXZZMFNLT01jTEdHQmt1UGxsVnhlVUpBUlN3Sk8zVk9HUS1r0gHYAUFVX3lxTFBVQWFBNEhXS3lMb19FVDFFdDQ4bmFKSlpiUGtPbER2Y3I3YTRNOU9tVU1QMEJCcEJKSWM5YlFpNTczU2RiTFZZaXNvZWJ0ZVlOdFZTSUpaWlN4LXozSnFfVTQ2b2haWGNsV1JpTnI5b3RDaU9rQXk2cnVqOExocmxIQmJ0U0VYV05ObzJwY0F1NV93T0EtRUdaRE9FLVhUZVBMVTkwcExCNWpEa1prQzJOSUhPRXJ5cjNVTXkxX0Fqa2RFRjNYbjAySnp6Z2MwdXhhRDdaaWJSMA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "tadalafil",
+          "keyword": "CIALIS",
+          "name": "TADALAFIL",
+          "url": "/drugs/tadalafil/"
+        }
+      ]
+    },
+    {
+      "id": "802501397b34",
+      "title": "Antidepressivo faz engordar? Especialista responde",
+      "published": "2026-05-15T14:36:45+00:00",
+      "sources": [
+        {
+          "name": "Globo.com",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVTNoTkh3b2xHelYzTXk5ZjdpZ0hfUjVBYWFYclFXODBISGVtVU5XOUxzX1diZ1hQS3BCN0kyRkx6bnQwMTVRQmxySnhFTTJJamV1NUl5QTV1Y3lsLWZfa0s0b2FMYXdEZHpHdkRmZFdib2lxVktZZVU0Rm5JTW1SN2ZOVHdxMkNDMUZuQVJoQVozVXJHaG5TbGVLbVdLN21EM2Z1SUk0MVYxQm8z0gG7AUFVX3lxTFBNSWJNVWZXSEZqYVBKS1ZKc1NBRm1OLWNGVld5YUtpMHlRbjZQdmRDQVpWUjExODZOU1dxZERZQl9mMnVsWVBrV0RKZkxXRjB6VWR5Zks2V0x1X1JNQ3dpWHV2TXdvdFVYQWxJSkJIbkE1cldCcUFOcUoxVnNacHhQYmtMS3FvSDI3LXFMNkpzdWZCOVZ0aUpJTHFSMEhuLWYzNzljYlVkT3VUcW5zc29mTjYtRlVnVFZ1Z0k?oc=5"
         }
       ],
       "keywords": [
@@ -268,6 +369,26 @@
               "name": "Gadobutrol"
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": "78bab7e11f41",
+      "title": "Prefeitura amplia vacinação contra influenza para toda população acima de 6 meses a partir de segunda (18) - Prefeitura de São Paulo",
+      "published": "2026-05-15T12:19:13+00:00",
+      "sources": [
+        {
+          "name": "Prefeitura de São Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbndxZkZZdTIxSldrTWlmTFRSYW1tbmhlZ3EydDFaa2pVZC1GVUlPUHZOeVNEMUlGNk1vSmxucDBjNTdpdkFuSjFwVy02VmQzVlJIeEFsX2JkcldqcHRtOXFDR0tYSER0LWNHQzUwR0ZUQWdpU05XZ0t0d2RHUFFzTXFQaXBYVWNNaG50OW5ldXc0YUQzTkFTWHlGNVVaUkZna2JzaWVkWFhTSDEwcUhxNUhJUWt6anJMWkplZnBYZzByVl9aOUsxTkJFS2o2TVVIU1FXc21zdjRHTXhsZzhIV1lmMWctY21GM19DaTRXSHZUWGhUQWpZcXFR?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
         }
       ]
     },
@@ -382,33 +503,6 @@
       ]
     },
     {
-      "id": "2f428de2a766",
-      "title": "Astrônomos divulgam o mapa mais detalhado da 'teia cósmica', a estrutura que sustenta o Universo",
-      "published": "2026-05-15T08:03:55+00:00",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRV9kV0VSdFhmNjlmVVAzcXB1Q1lLRGhiYjBPVmt4NnNmcmFham9qT1FydFVHcURzSVJPdm5zLWl2UHBEMWxsdW9LWnhqeEZPa0hZZXFCazd6TmdiMElBbjdnQkRUNG9wdUNvVWpRQ19EZnV2S0JHWHVvcjJ4SUVJWTFSOFh6MEFUX1ZkLVMzSWtMZE0yLUpETUJVZkM0blM1SnpRN1N4c2Rxb2tnY3EzOW5FZXkxN3V5VThPZmlfVXNLRDRBWm15dWo5WUxTTVZ0Z0pzbXdtdGZuU1NXbml0RNIB7wFBVV95cUxQamd1aFc2SnBmXzY1aWI4eHRuWl9PVk85S3kxSXVMOFRJS0FyS0dJUUp0Q0d6SUxnZ0pCV1hhc2dyMTNjNmJVUnlUSVMyVFJPdTdoaWEyWF9WcUx5YW5OOGlyUUlCd0lsSUJHcUJNSW5FT28tb0hpM1VrME1oS1Y2Zm1MTGJ4eDQ3NFA4NmpYR1lEWXNHQ2hESEhUVnVDLWhveWYtRWw1WEJqVGZJYlhyUUlDTWN5aTRjLVphNUN1cjdkU3JaQ3ZFT2hNWnVGTzEtZHdXdkRTLU5UT05GT1NTWUsxZ182Q2RZeGZtQ1pSdw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "diazepam",
-          "keyword": "UNI",
-          "name": "Diazepam",
-          "url": "/drugs/diazepam/"
-        },
-        {
-          "type": "drug",
-          "slug": "zinc",
-          "keyword": "UNI",
-          "name": "ZINC",
-          "url": "/drugs/zinc/"
-        }
-      ]
-    },
-    {
       "id": "ff98926f6ae2",
       "title": "Terapia que promete reverter o envelhecimento dos olhos está em teste com humanos pela primeira vez - O Globo",
       "published": "2026-05-15T07:31:08+00:00",
@@ -419,6 +513,13 @@
         }
       ],
       "keywords": [
+        {
+          "type": "drug",
+          "slug": "levetiracetam",
+          "keyword": "TAM",
+          "name": "LEVETIRACETAM",
+          "url": "/drugs/levetiracetam/"
+        },
         {
           "type": "indication",
           "name": "generic_cancer",
@@ -2174,12 +2275,12 @@
       ]
     },
     {
-      "id": "e2b9a32b0ee2",
+      "id": "2c9a4e39ed5e",
       "title": "Lúcia Helena: Câncer de pele: não é só o melanoma que pode se espalhar pelo corpo",
       "published": "2026-05-14T23:42:22+00:00",
       "sources": [
         {
-          "name": "uol.com.br",
+          "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd1BWNWN5N0hSWW5xaUI0VjJaamZNNFVpem1SWTFTdUFTOEsxVmlhd19EckRhcXJaaEJ5TFRVREpsTjlMWGxqbGM1TDR6TmxtQ1lLRllfVUt4cU9ON3JaUnhlak5lNlZObkk2TXRKbFJJM1dKcTNOVWRCNzR2Y0w1RS04SXFqMmVYMzBYNlRXUFhQRjZWelZMY2d6Qkh1ZDltMlFJLWlqdXB1V0VFR0g2Q2RWWk51MkROX183ZjNtYmJKUXJUNmdyTkQzTDl6UQ?oc=5"
         }
       ],
@@ -2593,53 +2694,6 @@
       ]
     },
     {
-      "id": "91f29b8a02f1",
-      "title": "Teresina amplia vacinação contra gripe para novos grupos prioritários;veja quais",
-      "published": "2026-05-14T22:30:00+00:00",
-      "sources": [
-        {
-          "name": "CidadeVerde.com",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc3YtaVRpLWlxeVAzelBQWFlnSUZpRHZuNXczS2NZUkJkRS16a0tFbHJfakg1TzFuczFLV21QYzBZNWVCRWFBaUtfVTYtalNpTXh0UXFLZUNQR2VtNDlTME5iY0xicGtrcGhxV0ZHTFc1Qm15OHZkVFJncThTSGxKN3Zhc2NqQkh4eHpCb2pvd3RLM0FtZmo2dVE5c0syZjh5cE5kZEJsUjJ5cmJJODJqU3lTaUp1MGFKQms0?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "diazepam",
-          "keyword": "UNI",
-          "name": "Diazepam",
-          "url": "/drugs/diazepam/"
-        },
-        {
-          "type": "drug",
-          "slug": "zinc",
-          "keyword": "UNI",
-          "name": "ZINC",
-          "url": "/drugs/zinc/"
-        }
-      ]
-    },
-    {
-      "id": "25be41f91cd3",
-      "title": "Brasil tem alta de Síndrome Respiratória Aguda Grave em bebês - Agência Brasil",
-      "published": "2026-05-14T22:19:00+00:00",
-      "sources": [
-        {
-          "name": "Agência Brasil",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYmtac0ZHUmdLS1YzeUxqOG9uWExHX01oeldVX1ZWVzZVcEJFWW9jekhLTnN1d1hoRjJYRmdZTDgyeEhPcTVTOWwtY0g4SjhsX3dqLWRaU1J4YldmcnZHUkhkbTVLaWFUQW9sN0MwUEgya0lwZnpsVHFtT0hLeG1VZkdnUTVGNGd0dEJHSWxEeFQ2bjVmeWZwZGpFTTN3Yl9xVV9HXzA4cGFESGdTSlZsc0Z1dDhBcDg?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
       "id": "af7b9a42a655",
       "title": "Chá natural é base para medicamento produzido pela Fiocruz; entenda - CNN Brasil",
       "published": "2026-05-14T21:09:06+00:00",
@@ -2744,13 +2798,6 @@
           "keyword": "UNI",
           "name": "ZINC",
           "url": "/drugs/zinc/"
-        },
-        {
-          "type": "drug",
-          "slug": "tadalafil",
-          "keyword": "CIALIS",
-          "name": "TADALAFIL",
-          "url": "/drugs/tadalafil/"
         }
       ]
     },
@@ -2838,143 +2885,6 @@
           "keyword": "SIL",
           "name": "SILODOSINA",
           "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
-      "id": "851ae1eb72a2",
-      "title": "Opinião - Virada Psicodélica: Achados negativos ajustam potencial terapêutico de psicodélicos - Folha de S.Paulo",
-      "published": "2026-05-14T13:00:00+00:00",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNX2Vtc0pVUExDd05jRGptWkc4SVVrbzhPSUp1WkVHUndTWHBWS2hQUVFmeTEtNVJiX1FWVmlBakZES1BGTVlud1VMTmUtZ1dicDYteXRieTFKbEl6Q2R0NFRCcEdBdkJ1MnpnWlNUN1ppamNBWU5iLXBCVDBVYzl3NXA4SEJFTW1jU0tnOEN6MUl3eWw0VG9sVG8zNjg4dU1lMFoxLWQ4bEZRamp2UVI2aExmVEVJaHFyN2VrRUt4UjlVNXg1Mzc2Uk13ejA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "levetiracetam",
-          "keyword": "TAM",
-          "name": "LEVETIRACETAM",
-          "url": "/drugs/levetiracetam/"
-        }
-      ]
-    },
-    {
-      "id": "a4747c5645a3",
-      "title": "Uso de imunizantes contra o Vírus Sincicial Respiratório (VSR): Vacinação em gestantes e uso de anticorpos monoclonais em crianças - Sociedade Brasileira de Pediatria",
-      "published": "2026-05-14T11:26:14+00:00",
-      "sources": [
-        {
-          "name": "Sociedade Brasileira de Pediatria",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSXlXY2dBUGh6SmFpMjlSdGlkUnAzaEl6X1gwQjg2MHNEa1lRQ0t5eHlid01aTFpkUTZPNWtMRmthNEY4enJ2aHNLZEV0ZWhyaDlFWm5tVmpSR200bmlnZkZXQ1JqRWtWZllWTFV1a0JLYTIwR1NDUnJCc2lLbnBzUFdPVFduNE1EbEdzU0FHLUpKdnM2LWRnUGEwZXdFWlRkUmoxb08zclVxZF9wNVBsaVFKQXNXWVpuSDJuZWtVTzJtY2dUOGdsVHZTWUJxLVB6VGhZZXFMMVQ4MzRWdlFYSW5jLTd5Zw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "diazepam",
-          "keyword": "UNI",
-          "name": "Diazepam",
-          "url": "/drugs/diazepam/"
-        },
-        {
-          "type": "drug",
-          "slug": "zinc",
-          "keyword": "UNI",
-          "name": "ZINC",
-          "url": "/drugs/zinc/"
-        },
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
-      "id": "394a8a1c2123",
-      "title": "Magnésio, creatina e colágeno: o que a ciência diz sobre suplementos para a menopausa",
-      "published": "2026-05-14T11:00:00+00:00",
-      "sources": [
-        {
-          "name": "Superinteressante",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbFNvV0Mtc2RzcHNicm9ob1hNUmRpclRldGpkbjJYMDZyTkVPbS1adEYyQUJBOHVFejF2a0pXekhsZFNaaHhTUU1UQy1Fb2ppQkZMVVZDaW5TSkF3Rk1veDIycGhrNzk3enpibVA0cS10RXBaSE54bUxoZzlyUVliTWZiZFBENHp2andYSUlNMTk1RGNZb3hmM2FGQTBDT1UzeXpzdDVNVE40T0NmTV9tNXM0LTc2Qk9F?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "tadalafil",
-          "keyword": "CIALIS",
-          "name": "TADALAFIL",
-          "url": "/drugs/tadalafil/"
-        },
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "menopausa",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "sodium_chloride",
-              "name": "Sodium chloride"
-            },
-            {
-              "slug": "tamoxifen",
-              "name": "Tamoxifen"
-            },
-            {
-              "slug": "secnidazole",
-              "name": "Secnidazole"
-            },
-            {
-              "slug": "glutamic_acid",
-              "name": "GLUTAMIC ACID"
-            },
-            {
-              "slug": "calcipotriol",
-              "name": "CALCIPOTRIOL"
-            },
-            {
-              "slug": "clindamycin",
-              "name": "Clindamycin"
-            },
-            {
-              "slug": "letrozole",
-              "name": "Letrozole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
-            },
-            {
-              "slug": "metronidazole",
-              "name": "Metronidazole"
-            },
-            {
-              "slug": "clotrimazole",
-              "name": "Clotrimazole"
-            },
-            {
-              "slug": "ivermectin",
-              "name": "Ivermectin"
-            },
-            {
-              "slug": "ambroxol",
-              "name": "Ambroxol"
-            }
-          ]
         }
       ]
     }
