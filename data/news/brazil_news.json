@@ -1,10 +1,46 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-05-17T13:25:11.937446+00:00",
-  "total_fetched": 96,
-  "unique_count": 95,
-  "health_related_count": 33,
+  "fetched_at": "2026-05-17T19:12:23.129213+00:00",
+  "total_fetched": 98,
+  "unique_count": 97,
+  "health_related_count": 35,
   "news": [
+    {
+      "id": "d86fe4cf4f5b",
+      "title": "OMS declara surto de ebola como emergência global após 80 mortes; veja países em risco - ND Mais",
+      "published": "2026-05-17T15:58:50+00:00",
+      "summary": "OMS declara surto de ebola como emergência global após 80 mortes; veja países em risco&nbsp;&nbsp;ND MaisOMS diz que surto de Ebola em países africanos é emergência de saúde global&nbsp;&nbsp;CNN BrasilOMS classifica surto de ebola no Congo e Uganda como emergência internacional&nbsp;&nbsp;VEJAOMS declara emergência internacional após mais de 80 mortes por ebola na RDC&nbsp;&nbsp;Correio BrazilienseOMS declara surto de Ebola emergência global&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "ND Mais",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQemtLUGluMXdva3FyeGJOdFlsclp2WURWZWFHWER5NjlrbWxMLUQ0eDZ1RnBNZTNMcE01QW9idWFLbVFTbzBBTjJCRnJhSkxWdHRySEU3MlZRT040WXBMUnFwbnl2cjRaUlQzbENzMlVqeThzSXl2bzAzdkdydU1UT2xXeDZXU2gzaEQ3RC14NExEdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d74fc24ba481",
+      "title": "OMS declara emergência de saúde pública por surto de Ebola na África - O Dia",
+      "published": "2026-05-17T12:33:49+00:00",
+      "summary": "OMS declara emergência de saúde pública por surto de Ebola na África&nbsp;&nbsp;O Dia",
+      "sources": [
+        {
+          "name": "O Dia",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZnBvVHlzZ3BOMm9FekJ5MlFnRkkzaEx6TXdCaEdsSTVGVGt3V0dJQUtMNmloSEY5ZHBYUkJhRV8xM3hRcGpTY2FzOWlLUFRsOXBaVWFrRnNYUVBJbjlyckhOaGlydmtSUURNS19ISTMtVGxHclcwRFA4bnNSaVBYX0J2cVdlUldyYXpwc3dnLXNJR0JpM3d1RG1SM1JtcFVZZ3dDMHNqM2NfdUVrbzlQcDNQRllkc0YtZW0ybmhYODBYR2ZlUWVF0gHMAUFVX3lxTE5VbC05bDJJeGhyak0yaF9PX19GUVFDZmhsU2Z3bThISWFGakJYUWpTbWw1WlJncGNEa1hIRUJ0TFg2NTYxWEU2TUVqRGlFUnpzX05udmhNbk93eEFwSEhpUmxfZ1kzR3BKNF81TG16WnBOV1hxMkN3aVdlRUdXcUJzc2kwU1FMMUtHbDBfRlNWUWltYVpJT3V1MXhaeUJlNEU5VTl4cDhnRkZmdkdrSXl4dUU2TjB4dGIzaEY1ZHBuUGFmaFc3bVhaZ1NlZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f4438f104409",
+      "title": "Com oito óbitos e quase 200 casos, Jundiaí “corre” para vacinar população contra Gripe - jornal da região",
+      "published": "2026-05-17T10:54:44+00:00",
+      "summary": "Com oito óbitos e quase 200 casos, Jundiaí “corre” para vacinar população contra Gripe&nbsp;&nbsp;jornal da regiãoMarau recebe nova remessa da vacina contra a gripe&nbsp;&nbsp;vangfm.com.brNot��cias - Vacina contra a gripe está com estoque renovado em Crissiumal&nbsp;&nbsp;Guia CrissiumalCachoeira do Sul reforça importância da vacinação diante da baixa adesão infantil&nbsp;&nbsp;Fatos 24h💉 Imbé intensifica vacinação nas escolas e mais de 100 doses já foram aplicadas&nbsp;&nbsp;Jornal Dimensão",
+      "sources": [
+        {
+          "name": "jornal da região",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRHBraVdOQ1JrYnBWUEVFTGFHWENuTFNfc2pJUTV6eG1oTnY2Q1VYZXNHYXp2NnBGOVlaRWhxUFB5TUhjdmFGc2hCTklwWVF2X3BUcF9QLW9nTGswY0FpNW5lZVFGZGJGUGtyS3NmcGY2REdvUGhzTi1SSmZjMl9NYlNZRzAxYk1Zb1JLclRtREVKOEZzekN5eHhyNk4xN2Q5RnNCQTFQdV9IeUFiV2QwYm5BMA?oc=5"
+        }
+      ]
+    },
     {
       "id": "7b4a55e2d18a",
       "title": "Herança tóxica: Fábrica fantasma vira bomba química e assombra moradores em bairro de Salvador - Bnews",
@@ -18,14 +54,26 @@
       ]
     },
     {
-      "id": "62baf5bef32a",
-      "title": "OMS declara surto de ebola na África como emergência de saúde pública internacional - G1",
-      "published": "2026-05-17T09:13:25+00:00",
-      "summary": "OMS declara surto de ebola na África como emergência de saúde pública internacional&nbsp;&nbsp;G1OMS declara emergência internacional após mais de 80 mortes por ebola na RDC&nbsp;&nbsp;Correio BrazilienseOMS declara surto de Ebola em países africanos emergência de saúde global&nbsp;&nbsp;CNN BrasilCongo confirma novo surto de Ebola, com 80 mortes&nbsp;&nbsp;InfoMoneyVariante mais letal do vírus ebola é identificada na República Democrática do Congo&nbsp;&nbsp;UOL Notícias",
+      "id": "caf4f9372bda",
+      "title": "Entenda o que mudou na forma de classificar a hipertensão - Folha Vitória",
+      "published": "2026-05-17T09:30:00+00:00",
+      "summary": "Entenda o que mudou na forma de classificar a hipertensão&nbsp;&nbsp;Folha VitóriaNovo limite da pressão alta já está valendo e muda a forma que devemos avaliar a hipertensão&nbsp;&nbsp;Estado de MinasHipertensão: doença silenciosa exige atenção e mudanças de hábitos&nbsp;&nbsp;Agência Brasil'Bate-papo de Saúde': médico cardiologista tira dúvidas sobre hipertensão&nbsp;&nbsp;G1Pressão de 12 por 8 já acende alerta, diz cardiologista durante ação de saúde em Passo Fundo&nbsp;&nbsp;Rádio Uirapuru",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbGMyQlN4YXJ4T0FISWNfdktmZFF4cV9pbmxjYnEzLS1ONEJKd292eGNRMDdqZG92QUdVWk9LVmEtZ25ob1BIY3BRaEhrQzZXc0pMMVdQNTlGUFFpbkpLWS1lQk5KZzEtUk5qa0ZyMzlRTWVRYWRCb01HcjJUd3BFTGx2Y0hCbXBqSHQ5RUN2MFZJc1FQX01PR2wwbDdiMFptZ1lrN3Z4dFk1MEFxSmsteGdkal84TzZZYW9Ca2hSaEV1MW1ZRmpIcWcwX2VuQm9nVjNlcXo3LTZlbzDSAeoBQVVfeXFMTm9XVzlqVDNlQzJ2OXEwYmY0blp1RzE4R1BQTHdSWnFCamVJc3BqeS1iRkJraE1IRFhrLUxrdWRBUElYNDdycVNyVUxwYXJpa2RYWHZCRlFwWnVmMFVycjBwbEQ5aVZfMTQ5OEZhU0hTYzR2bTFaT0doV0hJUlFyc2ZnSFhwbmhXU1Z1aDNWNHE3RGVYU2pfMjFKNjE0RUZBQkhmVWhobGFzSFVwUzJ0XzhWNG9qMnBQMEpHT09Wa0VpLUtIbE5KTC14ZFJCclQ2dFM0WDY1OWNGc1NSSktrNU1KbEltZGd3dXNR?oc=5"
+          "name": "Folha Vitória",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON0dtNVRlRlZNemthQ3BVb3haQ1pWeklGWjNYUi1pd1RDd3NTdkIyd0JFOHFqcWlKaHBhN0lOLTh3UGZiT2JVTzNEdU51VjdzQWhnMHJoQlRBZmNnQzFEUWFaX2F0U012a2xxaF9BVmowckR2dTRQWEo2QUZTX3VSQlBJOVhMTmNFREVmbERIOUZSczVnWmM1ckpKay1tSEFET3djM2wxV1k3MVdFaGEwU1FVdWYzVk0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8a5a209b408a",
+      "title": "Você não vê, mas consome: o perigo dos microplásticos na saúde humana - Correio Braziliense",
+      "published": "2026-05-17T09:00:00+00:00",
+      "summary": "Você não vê, mas consome: o perigo dos microplásticos na saúde humana&nbsp;&nbsp;Correio BrazilienseÉ possível fazer um “detox” de plástico? O que a ciência (ainda não) sabe&nbsp;&nbsp;F5 NewsMicroplásticos e fertilidade: o impacto invisível que pode chegar até o óvulo&nbsp;&nbsp;Veja SaúdeMicroplástico causa câncer? Entenda a relação com a 2ª doença que mais mata no mundo&nbsp;&nbsp;R7Novo estudo revela como a presença de microplásticos nas artérias afeta a função cardiovascular e eleva silenci",
+      "sources": [
+        {
+          "name": "Correio Braziliense",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPT25La1pGN0JMUVV4S0FWdEh0TGtBelJaaVFQZGJKRVVLaUE0ZU1BWVNCdTZ5TEVzQU5SZEVTb1JyalVVZUh4TWVrUUhBbDN6bjVRR3o1b2pFZ1V5MkxXLTR1TVA0c2ZyZV9HRHpzYzNiN3lsbGRreFlKckFnTWtZMUNvc29ZUWsxaWdNVW00UDRxM2F1X0V5NFlieWk4dDVkalBaQUVjRXQ5ZzZ1YllXYVBRdEFFdVMwbm4xVHpvd24zT2VZRjJXVHNRZzdPRHhFYzJpQkQ2eTRKSkpIWXfSAeMBQVVfeXFMUGIxWGxwdGhDcGpScHQ1ZXZCZVdNSHhFNmFldUFUMWMtenVUa3FsWUNnQzFMbC1GVkhPcWctZVREQlNqcmlVRDdHSUQ1cmJySElpRmMxTDJwOUlDdlFmU3poZ19kazRsai1GTnctbnRWZy14WXVmc3FmSmlvOGxyc2FKNEc3Z2NTVVNjdkJNR3RteGpPUk1aVFlMcXprbWVNS2IyNEFjUjJRejgyU2RFWFllcEJqeEQ5WHBRSHB1VmNlM2NuUEt1RmhhdGhsd1BYYi1MVzhrS3VhOGJ0VmIzaExqcWs?oc=5"
         }
       ]
     },
@@ -33,7 +81,7 @@
       "id": "b34ea8ce9442",
       "title": "Doença renal avança na Bahia e especialistas alertam para relação com pressão alta - Jornal Correio",
       "published": "2026-05-17T08:36:00+00:00",
-      "summary": "Doença renal avança na Bahia e especialistas alertam para relação com pressão alta&nbsp;&nbsp;Jornal Correio6 hábitos que ajudam a proteger os rins e reduzir o risco de insuficiência renal&nbsp;&nbsp;Portal UAIRadar da saúde: os rins dos brasileiros estão em constante perigo&nbsp;&nbsp;Veja SaúdePor que pressão alta e diabetes juntos aceleram o risco de doença renal sem dar aviso&nbsp;&nbsp;Tua SaúdeDoença renal crônica pode evoluir em silêncio e exige atenção aos primeiros sinais&nbsp;&nbsp;Red",
+      "summary": "Doença renal avança na Bahia e especialistas alertam para relação com pressão alta&nbsp;&nbsp;Jornal CorreioVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
           "name": "Jornal Correio",
@@ -42,14 +90,38 @@
       ]
     },
     {
-      "id": "8d63bca9397c",
-      "title": "Afinal, o que é transtorno de personalidade borderline? - Estadão",
-      "published": "2026-05-17T08:30:00+00:00",
-      "summary": "Afinal, o que é transtorno de personalidade borderline?&nbsp;&nbsp;EstadãoO que é o transtorno de personalidade borderline?&nbsp;&nbsp;Folha de S.PauloO que é transtorno de personalidade borderline: definição e principais características&nbsp;&nbsp;Portal TelaTranstorno de borderline afeta emoções e relações do dia a dia&nbsp;&nbsp;G1Transtorno afetivo bipolar: diagnóstico e tratamento permitem vida funcional&nbsp;&nbsp;OBemdito",
+      "id": "3ca3bf6a641b",
+      "title": "Metade dos ratos de laboratório não são quem cientistas pensam, diz estudo - CNN Brasil",
+      "published": "2026-05-17T06:33:25+00:00",
+      "summary": "Metade dos ratos de laboratório não são quem cientistas pensam, diz estudo&nbsp;&nbsp;CNN Brasil",
       "sources": [
         {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ2lKejdOaHZUZlF0eUx6aVRhakJHNkJNRXotcmRWSGRtSUF3ZG9WN1pMeWRpa3Rab1VqX01XbnhiZVpBc1pPOE9kYlZvYVhuenhsdUVzUHd4RmVTbndOcTBLREk1dFlNbVdhMHU5a2ZTQzJBMkdXYTBJQ2MzdURpd094ajNnZHpIMzYxM0RLbXRNV0cxV1RfVWNHVlJzV2huOWhnS1dn0gGrAUFVX3lxTFBfLW1lWWF6RWpWSUs3aDJrYzNXakhITkZHbTBSSE9EX2RzckJXVVBVQk9oVXVuVmxFU1lSaW1RWFVqQlYzcUhZdXlrWXFIUDNycUoyR3hjVE1JdDJBanJSYUwtaXNzamxJdjZCemJXUmN5dTNCZk9PVlZjVWhrcFJBWnFDc3ZpLWtydTdwSWRic1hVb3RVZkVYN2paMDhxbHlkclVaSFdPUUppWQ?oc=5"
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSVRBRXV5VXBUNF8zQjUtMVdoamgtczluQU1zOGExNi1xQ015dF9SdmlIVjVmTnBKMjFzSS1OMTdVS2ZQeWtvR1lMejhpUFdlZ0dSU3Z2ckhwQnpzUHZlMVdUZDEtd1l4U1hPV1p5aGxqSFRYcThjaXpuTVJBLXZkckNjUWd1dW02d0JwNHpNTE5abDl3ZGVvVDdGVnJ4SEpEeC1uTURHdGhxZjZDTzhYRg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d1653aa5ed87",
+      "title": "Falta de vitamina B12 pode ser confundida com ansiedade. Veja sintomas - Metrópoles",
+      "published": "2026-05-17T05:00:19+00:00",
+      "summary": "Falta de vitamina B12 pode ser confundida com ansiedade. Veja sintomas&nbsp;&nbsp;MetrópolesVitamina B12: um nutriente essencial com uma relação complexa com o câncer&nbsp;&nbsp;The ConversationFormigamento nos pés após os 50 anos pode indicar falta de uma vitamina essencial para o corpo&nbsp;&nbsp;Portal UAIO formigamento nos pés que pode não ser diabetes — e sim falta de vitamina B12&nbsp;&nbsp;Tua SaúdeA falta de vitamina B12 pode começar silenciosa e afetar sangue, nervos e memória sem aviso",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE14QVBwTjZOaU5jRFJIaHdZdXNiQXppbVM3NDlBNy1wb2ppOHFsRzk3ek1ObUtGZFhxSm1aSkhFWllGWGFGaUEyN3RnS0RfRU1SSlA0clRIbmJrRVhQVTQ1UjlIek56czhBVGNlQmNiUDE5RmxKMDhFUWU4NEJfdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7248dc6cf997",
+      "title": "Amazônia silenciosa: estudo tenta explicar por que aves estão sumindo - Metrópoles",
+      "published": "2026-05-17T05:00:16+00:00",
+      "summary": "Amazônia silenciosa: estudo tenta explicar por que aves estão sumindo&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ub0FOcjBYRmd0VEZ6Z3o5dkMtQXczNEw2TENXX29uYTFlNGxXZlJBSEhDbS1sM0pCLThoaWtaTjBIYXUycGlpelMzMDF0N2pyLW5xZl9aSlNIZ2FKUC0zVnhQU0ZWZ1hiNzRiQmI2d2tRYTZuTlE?oc=5"
         }
       ]
     },
@@ -69,7 +141,7 @@
       "id": "d80031dc2663",
       "title": "Vacinação contra a gripe: 25 milhões do público prioritário ainda não se imunizaram - G1",
       "published": "2026-05-17T01:31:10+00:00",
-      "summary": "Vacinação contra a gripe: 25 milhões do público prioritário ainda não se imunizaram&nbsp;&nbsp;G1Cidade de São Paulo amplia vacinação contra gripe para toda população a partir de segunda (18)&nbsp;&nbsp;Folha de S.PauloSP inicia na segunda vacinação contra influenza para toda população&nbsp;&nbsp;Agência BrasilPrefeitura amplia vacinação contra gripe para toda a população com mais de seis meses de idade&nbsp;&nbsp;PJF - Prefeitura de Juiz de ForaGripe em alta: veja dúvidas comuns sobre a vacina ",
+      "summary": "Vacinação contra a gripe: 25 milhões do público prioritário ainda não se imunizaram&nbsp;&nbsp;G1Vacinação contra gripe é ampliada em Campos após aumento de casos respiratórios&nbsp;&nbsp;G1Grupos prioritários têm baixa adesão à vacina da gripe&nbsp;&nbsp;G1SP inicia na segunda vacinação contra influenza para toda população&nbsp;&nbsp;Agência BrasilFortaleza libera vacina da gripe para toda a população&nbsp;&nbsp;O POVO",
       "sources": [
         {
           "name": "G1",
@@ -93,7 +165,7 @@
       "id": "edf8acc3d7a2",
       "title": "As pessoas mais educadas costumam nascer nesses meses, segundo estudo - Portal 6",
       "published": "2026-05-16T23:06:21+00:00",
-      "summary": "As pessoas mais educadas costumam nascer nesses meses, segundo estudo&nbsp;&nbsp;Portal 6Os filhos mais inteligentes costumam nascer nesses meses, apontam estudos&nbsp;&nbsp;Correio BrazilienseCrianças mais calmas costumam nascer nesses meses, segundo estudos&nbsp;&nbsp;Portal UAIOs filhos mais calmos costumam nascer nestes 4 meses do ano, segundo estudo&nbsp;&nbsp;Correio BraziliensePessoas nascidas nestes 4 meses costumam ter uma criatividade que aparece quando tudo parece difícil&nbsp;&nbsp;R",
+      "summary": "As pessoas mais educadas costumam nascer nesses meses, segundo estudo&nbsp;&nbsp;Portal 6Os filhos mais inteligentes costumam nascer nesses meses, apontam estudos&nbsp;&nbsp;Correio BrazilienseOs filhos que são mais calmos tendem a nascer nestes 3 meses do ano, segundo estudo&nbsp;&nbsp;Correio BrazilienseEstudo identifica que as pessoas mais inteligentes costumam nascer nestes meses&nbsp;&nbsp;Portal 6Crianças mais calmas costumam nascer nesses meses, segundo estudos&nbsp;&nbsp;Portal UAI",
       "sources": [
         {
           "name": "Portal 6",
@@ -105,7 +177,7 @@
       "id": "82811125fd83",
       "title": "Fila e espera de até 3 horas marcam vacinação em posto de saúde de BH neste sábado (16) - O TEMPO",
       "published": "2026-05-16T21:18:24+00:00",
-      "summary": "Fila e espera de até 3 horas marcam vacinação em posto de saúde de BH neste sábado (16)&nbsp;&nbsp;O TEMPOVacinação contra gripe em Campo Grande terá plantão e drive-thru neste sábado; veja onde ir&nbsp;&nbsp;G1Vacinação drive-thru em Campo Grande esgota doses no 1º dia&nbsp;&nbsp;Campo Grande NewsCorumbá tem ponto de vacinação contra influenza no Festival América do Sul&nbsp;&nbsp;MidiamaxCapital dá início à vacinação em drive-thru contra a gripe&nbsp;&nbsp;Correio do Estado",
+      "summary": "Fila e espera de até 3 horas marcam vacinação em posto de saúde de BH neste sábado (16)&nbsp;&nbsp;O TEMPODrive-thru da vacina contra gripe em Campo Grande&nbsp;&nbsp;Campo Grande NewsBH reforça campanha de vacinação contra a gripe&nbsp;&nbsp;G1Corumbá tem ponto de vacinação contra influenza no Festival América do Sul&nbsp;&nbsp;MidiamaxCampo Grande terá plantão de vacina da gripe neste sábado em três locais – CGNotícias&nbsp;&nbsp;campogrande.ms.gov.br",
       "sources": [
         {
           "name": "O TEMPO",
@@ -129,7 +201,7 @@
       "id": "cb7e21b0c211",
       "title": "Estudo comprova efeito neuroprotetor do açaí em cérebros adolescentes - Folha de S.Paulo",
       "published": "2026-05-16T20:00:00+00:00",
-      "summary": "Estudo comprova efeito neuroprotetor do açaí em cérebros adolescentes&nbsp;&nbsp;Folha de S.PauloPesquisa aponta que açaí pode proteger o cérebro de adolescentes e reduzir ansiedade&nbsp;&nbsp;Portal PaNoRaMa",
+      "summary": "Estudo comprova efeito neuroprotetor do açaí em cérebros adolescentes&nbsp;&nbsp;Folha de S.PauloVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -201,7 +273,7 @@
       "id": "f1290a841dbe",
       "title": "Hantavírus: os dois primeiros sintomas da doença que você não deve ignorar (e que muitos podem confundir com uma gripe forte) - O Globo",
       "published": "2026-05-16T15:34:42+00:00",
-      "summary": "Hantavírus: os dois primeiros sintomas da doença que você não deve ignorar (e que muitos podem confundir com uma gripe forte)&nbsp;&nbsp;O GloboDa Antártida a MG: hantavírus importa muito mais do que parece ao Brasil&nbsp;&nbsp;UOL NotíciasRio Grande do Sul confirma dois casos de contaminação por hantavírus e a primeira morte pelo vírus&nbsp;&nbsp;Rádio Tapejara FMHantavírus avança nas cidades: entenda a relação com a urbanização&nbsp;&nbsp;Estado de MinasHantavírus: infectologista explica trans",
+      "summary": "Hantavírus: os dois primeiros sintomas da doença que você não deve ignorar (e que muitos podem confundir com uma gripe forte)&nbsp;&nbsp;O GloboDa Antártida a MG: hantavírus importa muito mais do que parece ao Brasil&nbsp;&nbsp;UOL NotíciasRio Grande do Sul confirma dois casos de contaminação por hantavírus e a primeira morte pelo vírus&nbsp;&nbsp;Rádio Tapejara FMSaúde de Maceió reforça orientações e tranquiliza população em relação à infecção pelo hantavírus&nbsp;&nbsp;Alagoas 24 HorasHantavír",
       "sources": [
         {
           "name": "O Globo",
@@ -242,6 +314,18 @@
         {
           "name": "VEJA",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeU55aHZWdFBDTVpNNktuQkJxMUFRQlkzS2FKOE0xbC16VGR2dXZyeDdMR192QVIyOENwYW9CMFRyZElMenpRcW55dnl5OGpjYWFWcXhvMXJkLW5lV00xRzN0eVZLNmI0OTlpeDJJM2R5VUpTRkpWMjNEUXBleTRNWkZIenNlOEhMYUVWUXByZmY0MlBhOF96Y3prdm1JRkU5QUJGeWhpcTFoei0xUGd0UXF1TW9KMTdPU1prd1dyR1VCdGtqZ0tDXzFsOFVHQnU2bHdZRzlrbw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2e47be6fc8d0",
+      "title": "Nova espécie de dinossauro gigante maior que um T-Rex é descoberta - TNH1",
+      "published": "2026-05-16T12:35:19+00:00",
+      "summary": "Nova espécie de dinossauro gigante maior que um T-Rex é descoberta&nbsp;&nbsp;TNH1",
+      "sources": [
+        {
+          "name": "TNH1",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMWJVUWY4QjZUMWZ5dFJSU0dIdm81LU9yZ1VJMDhLcmdFTUg1Qk9NR08tNXd1dHYzakgxd3o5Q0xWdXRCZ0lhb05idHF2VUtYYXNwcFAtMWgxN2JDbkVCN0lWLUJaaTdEa1NlRGNUblRsRnhfdFM2UFlndlltc1JHZ3RFaWdPSE1hejBLTlRDTGc2T0tjYzZibkFUY0hta2hjX1lpdjF30gGgAUFVX3lxTE0zbGpvNHVFTjFTWjFoX0tVRTZya2pzejRhTkd4OFhtMHhKZXRVVF9yR0xJbmFRXzV0UnJtZ1VfVVdENVdtbTNud1lyMFI4UjdJaElRM0xLbDFtb1pOZTdNUDZ3TU0tdEcyYUZXTmlOZjBtOEdORXQzUzFnWE9la1VaYjRyOWFjcmJaN1MwMENUQXRwMlJjMzItRm1XQnFOR2U?oc=5"
         }
       ]
     },
@@ -309,7 +393,7 @@
       "id": "3fdbc55b411a",
       "title": "Quantos minutos de esteira por dia são necessários para começar a ter resultados, segundo profissionais da saúde - Portal 6",
       "published": "2026-05-16T00:04:27+00:00",
-      "summary": "Quantos minutos de esteira por dia são necessários para começar a ter resultados, segundo profissionais da saúde&nbsp;&nbsp;Portal 6Treinadores concordam: caminhar 40 minutos por dia já pode fazer diferença no gasto calórico ao fim do mês&nbsp;&nbsp;Correio BrazilienseCaminhada fortalece coração, músculos e saúde mental, diz médica&nbsp;&nbsp;Rádio ItatiaiaVocê caminha todos os dias? Veja por que isso pode não proteger suas pernas após os 70&nbsp;&nbsp;Portal UAICaminhada diária de 30 minutos po",
+      "summary": "Quantos minutos de esteira por dia são necessários para começar a ter resultados, segundo profissionais da saúde&nbsp;&nbsp;Portal 6Treinadores concordam: caminhar 40 minutos por dia já pode fazer diferença no gasto calórico ao fim do mês&nbsp;&nbsp;Correio BrazilienseCaminhada fortalece coração, músculos e saúde mental, diz médica&nbsp;&nbsp;Rádio ItatiaiaCaminhada diária de 30 minutos pode melhorar sono, circulação e saúde mental&nbsp;&nbsp;Pernambuco NotíciasQuantos minutos de caminhada por d",
       "sources": [
         {
           "name": "Portal 6",
@@ -318,74 +402,14 @@
       ]
     },
     {
-      "id": "05a1bb854f84",
-      "title": "Qual é o tamanho médio do pênis? Urologista responde dúvidas sobre saúde íntima - Rádio Itatiaia",
-      "published": "2026-05-15T22:30:37+00:00",
-      "summary": "Qual é o tamanho médio do pênis? Urologista responde dúvidas sobre saúde íntima&nbsp;&nbsp;Rádio ItatiaiaTamanho é documento? Entenda o que a ciência diz sobre as medidas do pênis&nbsp;&nbsp;GloboCirurgia peniana promete aumentar espessura até 2,8 cm&nbsp;&nbsp;Votuporanga TudoBusca por aumento peniano cresce entre homens e levanta debate sobre autoestima&nbsp;&nbsp;Portal N10",
-      "sources": [
-        {
-          "name": "Rádio Itatiaia",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS1VDOWVXYkVDeWVTcXhGdmdHTVl3OWNxRng2VDEyaVdKLTljM095N1QyUWdTX1Z6VXRPQ3lSWXZiTDczRGZxSzZpcXVuU1gzYjdBSWVrU193dXNCOERHMnB1dnVkWDdNYV84WkN6RXdidHBRT0N0SC1RR3dfcjJPeVV3a0MtX2o2WXNZMVBaQkktNWZXbF9UdkE4TWpSZmUwSkpnazNsZkRQS3M2eXNGVDloUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b04924c0ff17",
       "title": "Ceará amplia vacinação contra influenza para toda a população a partir de segunda-feira (18) - Diário do Nordeste",
       "published": "2026-05-15T22:17:00+00:00",
-      "summary": "Ceará amplia vacinação contra influenza para toda a população a partir de segunda-feira (18)&nbsp;&nbsp;Diário do NordesteVacina contra a gripe vai estar disponível para toda a população do Ceará a partir de segunda&nbsp;&nbsp;G1Fortaleza libera vacina da gripe para toda a população&nbsp;&nbsp;O POVOPrefeitura de Fortaleza abre oito postos de saúde para atendimento de síndromes respiratórias neste fim de semana (16 e 17/5)&nbsp;&nbsp;Prefeitura de FortalezaSalas de vacinação aplicam imunizante c",
+      "summary": "Ceará amplia vacinação contra influenza para toda a população a partir de segunda-feira (18)&nbsp;&nbsp;Diário do NordesteVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
           "name": "Diário do Nordeste",
           "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQS05NaFZ6YlgyUGZVTEFPQWtpX0dfNmxvbkdRVkN4VU1XN3M3ZG00aUZUSmRoRlFULXpwVUhqYXRvZldXWXM5Q1JiNy1lUEZSYnFzVk1VNmkwenQtRERYRFVma3Nwcm1UMjBRRkJVb3hYUzQyZ2pPWklqSHU2WEZESkpUbWd2bldTUGtTSUpiQjdKOW1ra3NtaUtyLVZKN3ltTHVYc3BNb2pIV0xWMzJvT3d3ZzFMMmRvYzBfZ2duZWQ2SnRpakxialRObl8wMlNGWHgyV05QQ3NuamExenA5eHE1djU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3d61ba8357ab",
-      "title": "Sedentarismo eleva carga de estresse na meia-idade, aponta pesquisa - Folha de S.Paulo",
-      "published": "2026-05-15T20:00:00+00:00",
-      "summary": "Sedentarismo eleva carga de estresse na meia-idade, aponta pesquisa&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQjNveXFCUVFsbm1oS2JRY240MlZaeVIzazZtY2hubVV5em80clJfSm9qQUcxZUxvdjZuVWs1Y2EtdnBiWE5TN09nS2JNWmV5a0FpenVoSUhLT1RoVThJZXhHcmpfcElHaHZFUWdrM3RZdDRIdWZiWWVMUnI2ZHZzOUtoX19uTjVSaElEUUlTS0RGcHc1clFmZFREVUdVdWF2dW1FRjg4azB6aGRnaEtvR3BQTGlhY2xZRm9CX2h30gHDAUFVX3lxTFB5aGstQWllN01lZElWRllMQXdDMnplZXgtSldXN3AzdzA4Q245MlVpMHZZdFotc3RBdS1BdDlQSmZqRGZQdUZadHpNNGlNNVRsbWNTOWUzUTV0bENUMVNDaENzZXVYN1JTbkJEemxlb0VWUzU2ODczMS1YMUsyVmFSMDd1X2RYSmgxeTNvTXVpaDMtQ0JDTmFZY2lPekY2dXhYR2t3UDdGRkg4aG1xZU9XYUFNNzZOcW1LMGMwT3BCb2JnZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2f0439d6e889",
-      "title": "Nota pública em defesa da Anvisa, da ciência e das autoridades sanitárias brasileira - Sinagências",
-      "published": "2026-05-15T17:53:51+00:00",
-      "summary": "Nota pública em defesa da Anvisa, da ciência e das autoridades sanitárias brasileira&nbsp;&nbsp;Sinagências",
-      "sources": [
-        {
-          "name": "Sinagências",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWjlFY0RVOWU4dXdZamVfYTEyNE1XV05DS1pFOGxYR0R1UEs3Q2lQYm82RGlaZzR3cWdfWnc4bGdJeXZZdVZ0T1U4ZWhfX0dEc2puMHVoTDRwVVpMLUtBY1h6aTMyYUVZVFo3a3dGM0FpSHBXUkdkYkg4dXZCNmUwcWVocUh5QVNfYnRyMTY0bFhYWEdWb3AzZDhmOUFGNjd1RE8wQVRFOG0wbHJFYzdPUw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "077b73c9ed36",
-      "title": "Do nada? Estudo revela 4 fatores por trás dos casos de infarto - Jornal Correio",
-      "published": "2026-05-15T16:16:06+00:00",
-      "summary": "Do nada? Estudo revela 4 fatores por trás dos casos de infarto&nbsp;&nbsp;Jornal CorreioVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOGdJOVRiZDRKWDJ6VlcxOXlFVjY0T2RYZFNqMEt0Z1dDRnpEUndsY0R6N1dUbTEyUHhHaXhLOEExNU1QdHBpZV9CWmNoY01vd2VQVnZXR0R5NDRWcmk2ZnRzWWNQcm9nTlZxZnFHTXhTbl9jUTJacUQ3aHhoVW1FVG9QQk1idHlIdnUzU2VfeE5KR2U0NmpTanQwWlA4Mks0dDROby0zdFRXUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5275a22a4f98",
-      "title": "Assista: peixes entram pelo ânus de arraias-manta para se esconder, mostra estudo científico - Um só Planeta",
-      "published": "2026-05-15T15:41:20+00:00",
-      "summary": "Assista: peixes entram pelo ânus de arraias-manta para se esconder, mostra estudo científico&nbsp;&nbsp;Um só Planeta",
-      "sources": [
-        {
-          "name": "Um só Planeta",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRWhRV1NsaHFQdjFXbEoxVEZVLUNXa003dUIyQk9HTDcwQmpOUjVsMkt6ZzJJNnNTbEwxcGJad19md2lrUVBUMW8tVGFtaVdWcVBvRGlDT2tGLVJ4R2xDd2lTaXZlWEVqTmxFUzgwWXB2U3Z5NmozSmxobVNoSDFwQ1cwU00xZUtDSk43MWdJUHZEYklVb1I0YjRXWTFSMnFMYUxzdVhjdnVmcUxLQzdtY0pBdHFWdm44bm1hRmZOOFlKMjNvdkJia3N1dUZZZndhNmJZMkR2MHVYZEZBTFd2RmtnQVpmZ1B1SG1qSVRwVjVuUdIBgAJBVV95cUxPYUc0WWVDS0FBam5HV3hSdTlYSWN3OEFaNWZLeFFMTTFPVXZlUDFiZElqQlh4dUFVendER3RMNHZTbURiQXBTNXFfTU9QY2g5UEF5NkwyU3FqY210SkE0cnpFaHRBZjZYMVdaVF9wUFB2Y3FkQkZhckljOFgwRHVqVFp4NmFXTnMySFFHUVdwTlpremJSdTVtZmtaMUxzNGNURHZYUnpWT3Mzbmp2T3NNYXJWdm5xT2U5TElwcTRxUXA5TmRQSHFqUzVuejJUanAwb19HRk9ET2xlcWVyZ0k0dkZfSUVKXzFjMXF4aW9WTXhMbHZVR24wZnA1WGRVLTdU?oc=5"
         }
       ]
     },
