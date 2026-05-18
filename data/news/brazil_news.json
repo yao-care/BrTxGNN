@@ -1,10 +1,34 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-05-18T15:37:00.657422+00:00",
+  "fetched_at": "2026-05-18T19:46:58.442050+00:00",
   "total_fetched": 94,
-  "unique_count": 92,
-  "health_related_count": 35,
+  "unique_count": 94,
+  "health_related_count": 30,
   "news": [
+    {
+      "id": "bd9815bc3feb",
+      "title": "Anvisa recolhe lotes de remédio para colesterol e corticoide; saiba quais - CNN Brasil",
+      "published": "2026-05-18T15:48:39+00:00",
+      "summary": "Anvisa recolhe lotes de remédio para colesterol e corticoide; saiba quais&nbsp;&nbsp;CNN BrasilAnvisa suspende remédios para colesterol e dexametasona: veja se seu medicamento está na lista&nbsp;&nbsp;Veja SaúdeCimed e Hypofarma anunciam recolhimento de lotes de medicamentos; veja quais&nbsp;&nbsp;InfoMoneyLotes dos remédios atorvastatina e rosuvastatina são recolhidos&nbsp;&nbsp;Portal iGAnvisa recolhe lotes de atorvastatina, rosuvastatina e dexametasona; veja quais&nbsp;&nbsp;SBT News",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSVpYNmlQN1FZQWlvWk5YZEtxbEx4SUN6S2VJM2JLQVRyVGpEVkRNU2RzVC0zR0N6RkdSWm95Wjc0cWlLaHluWmk3ZGJ1Q1RFR1ByN0tsQ3Y0TlBIbWZzSEpDeTduN0hOLW9icnVkbWJDM3FQLWVadk41dlh1UVdBM3MxdDREcjA1VE9nYkFta1p2cFIwbjFjVEFlWEw5YmFLZEVjTWVMMlk1dGRp?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c580e5f8aae8",
+      "title": "UNIRIO abre seleção para Professor Substituto no Centro de Ciências Biológicas e da Saúde - PCI Concursos",
+      "published": "2026-05-18T14:28:58+00:00",
+      "summary": "UNIRIO abre seleção para Professor Substituto no Centro de Ciências Biológicas e da Saúde&nbsp;&nbsp;PCI Concursos",
+      "sources": [
+        {
+          "name": "PCI Concursos",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSnhZTXVlMndteHBiWTM1LUtzTm85NW5vRVB4VTVEaG0zQjM4Yk9oQW9teldYdFJSbHZQY2hHb2lNcFpaM05RbkV2WWZvSU1GY3dhVnFJNXhLaWk5aVY1dmxxV2dGMnA1SjBEUXp6Sk4zMHdoZEtPNlk1TkUySWo3ZnRSWG9QZnA0SDdad1VxQ09vUDh6WHJVQkVNQndydU1GRWV1NjZjY2hVU2d4bmhGT1F4a1J3MHBOc19aYU5NTGhjdGE3Skk1M1RR?oc=5"
+        }
+      ]
+    },
     {
       "id": "fec2e4a6baea",
       "title": "Quanto você se exercita não é tão importante quanto a regularidade da atividade - Tua Saúde",
@@ -14,6 +38,30 @@
         {
           "name": "Tua Saúde",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaWNfVmNKRlo1TWduQjNoZTVaVWJwZTdHTjhJeUdVWWdRMkdPay1KYWtKV2ZZQjZ5dWFGZmxqTHE1anI1blBram5ac0JJT0JGSHhTcUw4Nk5oLUdsNWJIYU4xMGwwOWVaM0dmcVlPYkZHSUxMRmFhQjVHbjVUTGsyQkhwQnk2TzVUem5xTXh2STROaHdpVHhoS29DNS1McVZLZkVPV2tkS2FhbHZVWEo4N2pGMzAxMjV1cXUzeVpB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "056320981589",
+      "title": "Ebola é decretada emergência de saúde internacional após 80 mortes; veja outras vezes em que estágio máximo de alerta foi usado pela OMS - O Globo",
+      "published": "2026-05-18T11:17:24+00:00",
+      "summary": "Ebola é decretada emergência de saúde internacional após 80 mortes; veja outras vezes em que estágio máximo de alerta foi usado pela OMS&nbsp;&nbsp;O GloboSurto de Ebola já deixou ao menos 100 mortos na República Democrática do Congo; CDC confirma caso em profissional dos EUA&nbsp;&nbsp;G1O país que vai disputar a Copa do Mundo e virou epicentro de uma grave doença viral&nbsp;&nbsp;VEJAO que sabemos sobre o surto de Ebola que a OMS declarou emergência global&nbsp;&nbsp;CNN BrasilOMS declara emer",
+      "sources": [
+        {
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNQURLZnNGYlpFWUFxQXBHZ1pEaV9NdEhUU0JicG9sN0FaZTBicVhmdmJ4XzY3Si05bEwtbTFDREpabTJpeDJiZDk0VC1SVEhHRTdkUGFmTFVYX0ttZFVoOFZKRU9sS0ROR2p2WWpmNFRrcjk4N2lRRzZDNlV6N0ZkRk92Uk81TmRmRUVNQm12S1kyeWVGcnl0ZV9oWDlFRVRGLUUzMW4wX3R6WE16WHBCblBNdEtWX2x1UXpaZkllNkpIWVl2Q21MWDg1RHJoeENvUmhQc01OMzdhelUxYV9WSUVGRXlKR2ppZm43eHctYlJHc1pBUkg1a3kzbzU2UXJLLUtSd2ZKdUd6MnBTUlhCcmJGQ3BEb2lpNHRF0gGqAkFVX3lxTFB2M3dDaXJyZkdsTjhYWE5qZWlHbENRWHBVNmVDbXJQVlZEYUhDNnNpa1ZaRVNjLWp2aFdhb0NGTk9wc2tXSzlPWnAzSkJXWGF1anhsc2lXbTR2TGdOck85cFVfa3NVRjN5MXV4ellUOEF0V3NTQVhiNWlWLWJSQnk5VDJDbXZwTGpxUFdhQ1FKUlFoY1dBYUJEa1d0cENjTEVBMkZEcnZpQXFKX2lIbDFYbjVyZWdiXzMwckV2VkN1bUtjanhxNEQtbUlia1RWRnBFd0ROUGozWFR2eFNWN1YwbzVWd2ZWMFJVOGVIakdhVWNoTlhmOHlYb0VqZ25keEppOGN6Umh1cVVIUXpJQWtlbzV2WS1hU3pXTVpReno3UWpyVmc4UkNMX1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9d12c5a5498f",
+      "title": "Trabalhador em parada cardíaca é salvo após remédio ser levado de helicóptero no ES - Tribuna Online",
+      "published": "2026-05-18T11:17:14+00:00",
+      "summary": "Trabalhador em parada cardíaca é salvo após remédio ser levado de helicóptero no ES&nbsp;&nbsp;Tribuna Online",
+      "sources": [
+        {
+          "name": "Tribuna Online",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMHVoYUZiUHpLT3drWkZkeThhMG45TndVeXdfaF9ndjZvYTJWUzlmNzB4QjdnYU1oaUlPVFl3d09BekJwQkh4bWlpZDhsRmt6ZzlfWGllVXZkaHJ4UDJXamNyaUFGb0NhZ1JXYVZjVzMxY2lkS0U2eXRCbERWMHhELTBxZ0tPWG5uaC12c2x6NkdkUUM1dG9XeXp4ckIwWEVQS2p6NXlmdUM0bkZISWg1V1VBUmEtOXZqNjgtdVB1V3l4aFlUUmUzLVVfM3FXQ2dWQWfSAdoBQVVfeXFMTk91RnBOdnlXaDF2aVZYSm9pM182ck1ELW9VUmJTckcxRG9uZVdDUHdpSzZNTGN4S0lrV1Y0dFFGemxkU3BjQ05yQnZOWUhRdDI4ZlFRckZReHNnVFRSNnZkSkJ2TXlrTGEzbDJGeTg4eGtZVU1vQkV0WkQyRGlncDhRaW9pZWdQN3NPTjQ5WnBEdXl3UHlRQU9IRlNqSzBPV2JxVFRzeEROQ2pvSDNFTE44cG4zTE1xbzgwbHBZQ3BYMXdrbnZqcklCeE9qTDl4T0twWWh1Z0lMSWc?oc=5"
         }
       ]
     },
@@ -54,6 +102,18 @@
       ]
     },
     {
+      "id": "45802d8ee779",
+      "title": "Após 47 anos de estudos, cientistas revelam quando o corpo começa a perder força - Exame",
+      "published": "2026-05-18T09:54:10+00:00",
+      "summary": "Após 47 anos de estudos, cientistas revelam quando o corpo começa a perder força&nbsp;&nbsp;Exame",
+      "sources": [
+        {
+          "name": "Exame",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa3ZYUXdNMENFaUx3VVU0OE1ETjV6MXMyYTQzNVA2ZEhpeUw2dU5YaVQ0cHN0cjZZTFNPV0ZLNGpiWTYtM1I2MmhwZTdNR0JZTFQ1M1dJZFJRMUlhRDFrbWR3T3doM3AwWVpjb3NFTmFSWnpqNlJqQzk5eGNuSHp4X2lwMDcwd1ZSdFQwclg1VFB2QndoYjVDa1Vka0gzUU0yd3U2Z24zVmxaQQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c68650c5e701",
       "title": "Neurocientista irlandesa dá cinco dicas para melhorar a memória – a primeira é guardar o celular - UOL",
       "published": "2026-05-18T07:37:29+00:00",
@@ -69,7 +129,7 @@
       "id": "38e24158fd4a",
       "title": "Estresse das 'segundas-feiras': ansiedade do começo da semana pode durar meses, de acordo com estudo; entenda - O Globo",
       "published": "2026-05-18T07:30:44+00:00",
-      "summary": "Estresse das 'segundas-feiras': ansiedade do começo da semana pode durar meses, de acordo com estudo; entenda&nbsp;&nbsp;O GloboEstresse de segunda-feira pode afetar corpo por meses, diz estudo&nbsp;&nbsp;MetrópolesEstresse das segundas-feiras: ansiedade do começo da semana pode durar meses&nbsp;&nbsp;Jornal da FrancaEstresse das 'segundas-feiras': ansiedade do começo da semana pode durar meses, aponta estudo&nbsp;&nbsp;Tribuna do Sertão",
+      "summary": "Estresse das 'segundas-feiras': ansiedade do começo da semana pode durar meses, de acordo com estudo; entenda&nbsp;&nbsp;O GloboEstresse de segunda-feira pode afetar corpo por meses, diz estudo&nbsp;&nbsp;MetrópolesAnsiedade de segunda pode afetar saúde por meses, diz estudo&nbsp;&nbsp;Jornal A Estância de GuarujáEstresse das segundas-feiras: ansiedade do começo da semana pode durar meses&nbsp;&nbsp;Jornal da FrancaEstresse de segunda-feira pode afetar corpo por meses&nbsp;&nbsp;diariodopara.com",
       "sources": [
         {
           "name": "O Globo",
@@ -102,22 +162,10 @@
       ]
     },
     {
-      "id": "28b4246e34e5",
-      "title": "Como as canetas emagrecedoras funcionam? - R7",
-      "published": "2026-05-18T05:00:00+00:00",
-      "summary": "Como as canetas emagrecedoras funcionam?&nbsp;&nbsp;R7JBS: Canetas emagrecedoras aceleram \"demais\" consumo de proteína&nbsp;&nbsp;CNN BrasilCanetas Emagrecedoras: especialistas alertam para uso consciente, riscos e a necessidade de mudar hábitos&nbsp;&nbsp;Rádio UirapuruPor que canetas emagrecedoras não funcionam para todos&nbsp;&nbsp;Correio do Povo“Boom” de canetas emagrecedoras favorece produtor de grãos, diz Aprosoja&nbsp;&nbsp;Poder360",
-      "sources": [
-        {
-          "name": "R7",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObnExU0ctdzNaeUh1YTVsUGJCeHJvZU5EbFRSSDM1WU1lODBxaDZYbC1xNzM2b3VXZkxGMzRGcjdpYl9SczNqN0VuQU9PVGxuUDZFR0g1LVh1bkJTQzFsZUZVUmFUUjNNSlZoa1dFbk4yYTVXRTh0Q0xwV21rZmFSdlV4eW5mZmdYcXhhaDdQaG5oVGVZcWlOVWFn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d1a61c0e6565",
       "title": "Vacinação contra a gripe na cidade de SP começa para toda a população nesta segunda-feira - G1",
       "published": "2026-05-18T03:01:01+00:00",
-      "summary": "Vacinação contra a gripe na cidade de SP começa para toda a população nesta segunda-feira&nbsp;&nbsp;G1Vacinação contra gripe é liberada para toda a população de Fortaleza&nbsp;&nbsp;G1SP inicia na segunda vacinação contra influenza para toda população&nbsp;&nbsp;InfoMoneyGripe: quase 26 milhões do grupo prioritário ainda não se vacinaram&nbsp;&nbsp;Agência BrasilVacina contra a gripe é liberada para toda a população em SP; saiba onde ir&nbsp;&nbsp;VEJA SÃO PAULO",
+      "summary": "Vacinação contra a gripe na cidade de SP começa para toda a população nesta segunda-feira&nbsp;&nbsp;G1Vacinação contra gripe é ampliada para toda a população&nbsp;&nbsp;G1SP inicia na segunda vacinação contra influenza para toda população&nbsp;&nbsp;InfoMoneyDrive-thru de vacinação aplica 2,4 mil doses contra gripe&nbsp;&nbsp;Campo Grande NewsVacina contra a gripe é liberada para toda a população em SP; saiba onde ir&nbsp;&nbsp;VEJA SÃO PAULO",
       "sources": [
         {
           "name": "G1",
@@ -150,14 +198,14 @@
       ]
     },
     {
-      "id": "9fbd25dbe432",
-      "title": "Cientistas revelam como sete dias de jejum transformam o corpo humano - Metrópoles",
-      "published": "2026-05-17T19:39:27+00:00",
-      "summary": "Cientistas revelam como sete dias de jejum transformam o corpo humano&nbsp;&nbsp;MetrópolesJejum intermitente pode ajudar no emagrecimento, mas exige cuidado com coração e metabolismo&nbsp;&nbsp;folha do esEstudo revela transformações profundas no corpo humano após jejum de sete dias&nbsp;&nbsp;O CafezinhoNem café nem vitaminas: o segredo para mais foco pode estar no tempo sem comer à noite&nbsp;&nbsp;Portal UAIMaiores efeitos do jejum só aparecem após três dias sem comer, diz pesquisa&nbsp;&nbs",
+      "id": "292ddd62c81f",
+      "title": "São Paulo surpreende o mundo com obra bilionária de R$ 4,2 bilhões: primeiro túnel submerso do Brasil terá 1,5 km de extensão, 870 metros debaixo d’água e promete acabar com a histórica dependência das balsas entre Santos e Guarujá - CPG Click Petróleo e Gás",
+      "published": "2026-05-17T22:50:00+00:00",
+      "summary": "São Paulo surpreende o mundo com obra bilionária de R$ 4,2 bilhões: primeiro túnel submerso do Brasil terá 1,5 km de extensão, 870 metros debaixo d’água e promete acabar com a histórica dependência das balsas entre Santos e Guarujá&nbsp;&nbsp;CPG Click Petróleo e Gás",
       "sources": [
         {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HUWdtbHFScnBPaFVNamVUTHZmcWQ5VjJuTnRMbUdEZ2FjNER1bVR5WlBHVDdHZFY0bS1jZXNydzdsT1FUUU9WUk5tVnBzdHlKUEFaTlBEU1VqV19nbnBLemQ4c0xGRlQ2akVsOHdtMA?oc=5"
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxObGxFVHJyVmR3MmxkZWkyelJXODNXYWd0X2luYlg3M19rcXplczJhakc1TlFxXzFFMHBKNi1qTklDb0E3WGJBd1Y3R2VOeWlLc0tmRWRqd01wMVN2bWhBb3BUTnZUbGNsMmh0Tzc4d3BENDN2d2RjQmcyY1ZvNjFCV3hjX3FLaWNxTjVTUWxBZGxrTlRBREhaRVdFT0Jmems0b05qSTFPMkxTZ3JMZW1EVC0zaWlocVlIR1NGOEV6OGFwQXlDcnZFQ01tdlNONF9Sa3NnamJlODdfblR0WW05aTcyOHZGZ1dCR21raml0alIzQ1RXZmxOekFxblFNVmpWaHZqa0JYZ0dNMWdsanFUa2hrTGtYMmNaZVAtLXR0OVFvbFBvaXNEM3dQV3FkQU9HakJoT3Y4WkJ2bGszWTFxRy1MOGJnMTQ?oc=5"
         }
       ]
     },
@@ -189,35 +237,11 @@
       "id": "1b7c1e98f81e",
       "title": "Diarreia e dor abdominal acendem alerta para doenças intestinais - Agência Brasil",
       "published": "2026-05-17T17:30:00+00:00",
-      "summary": "Diarreia e dor abdominal acendem alerta para doenças intestinais&nbsp;&nbsp;Agência BrasilDoença de Crohn e Retocolite: casos crescem 61% no Brasil&nbsp;&nbsp;Campo Grande NewsMaio Roxo alerta sobre inflamações intestinais&nbsp;&nbsp;G1Gastroenterologista aponta perda de peso como sintoma frequente para pacientes com doenças inflamatórias intestinais&nbsp;&nbsp;Metro 1Maio Roxo: diagnóstico precoce transforma vidas nas doenças inflamatórias intestinais - Ponta Porã Informa -&nbsp;&nbsp;Ponta Por",
+      "summary": "Diarreia e dor abdominal acendem alerta para doenças intestinais&nbsp;&nbsp;Agência BrasilDoença de Crohn e Retocolite: casos crescem 61% no Brasil&nbsp;&nbsp;Campo Grande NewsGastroenterologista aponta perda de peso como sintoma frequente para pacientes com doenças inflamatórias intestinais&nbsp;&nbsp;Metro 1Diarreia persistente e dor abdominal podem indicar doenças intestinais&nbsp;&nbsp;Mídia SudoesteMaio Roxo: diagnóstico precoce transforma vidas nas doenças inflamatórias intestinais - Ponta",
       "sources": [
         {
           "name": "Agência Brasil",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSEtQLTZFcHRycVRCWGExYkN1aFhzYlNEakFEaC1ZM0F0ZUgyaGpPTUl5Xy1aaXVGN1ZPSUsxNHBGSmZhTWJfRzh5b3ZYYy1wbGVGNmRhZi0zNzc3dWxncjRTaVczUkIzemVtUUN0cFRKbE14NkI4WjBiRzlyQ0ZnelVlYm5LOVNidjZmOHBOenRKcG9tUTJ0SFBmSXVqQms0WVdaMTBNNmNueG12SElFNGNHYVFCQjhaWDAw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cff2064aa565",
-      "title": "Quase 30 metros: nova espécie de dinossauro pescoçudo é descoberta na Ásia - UOL",
-      "published": "2026-05-17T17:20:50+00:00",
-      "summary": "Quase 30 metros: nova espécie de dinossauro pescoçudo é descoberta na Ásia&nbsp;&nbsp;UOL",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOGNCMlhLcU1LaXg3YV9KSlI1U1VVbXN6X3JQUlFFaERTSXpLMW9ySzRGTXB6VDVLYXJSRkVWTXZZUjE3d1loM1NKWVNlYUdmWXYtcDNibDY4Y0lfeGZ5YnEtMXZHOGJET2lxMDRRQmFlaG9pczhVUDZnMnFZb1ptNXlHQnR6WExvbWI2WFF3UGJSazgyZTBvak0yOXhvQVpuU3hJWWhXSEVPeVdaOGNSQ2ExNEJCajdIUGYtWjBTZ2Z0Q2lVLTM0SG1Mbw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ad3b2ed21fc2",
-      "title": "OMS declara surto de ebola no Congo e Uganda como emergência de saúde global - Revista Oeste",
-      "published": "2026-05-17T16:51:26+00:00",
-      "summary": "OMS declara surto de ebola no Congo e Uganda como emergência de saúde global&nbsp;&nbsp;Revista OesteO que sabemos sobre o surto de Ebola que a OMS declarou emergência global&nbsp;&nbsp;CNN BrasilEbola: o que saber sobre surto na República Democrática do Congo&nbsp;&nbsp;Folha de S.PauloComo começou a epidemia de ebola na África, que se tornou emergência de saúde pública internacional?&nbsp;&nbsp;G1Ebola: MSF prepara ação de emergência contra surto na República Democrática do Congo&nbsp;&nbsp;Mé",
-      "sources": [
-        {
-          "name": "Revista Oeste",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ3Q2SUE1ekszVUtPSGIzQm1PTnhNX01RTTltYmh5anVSZ19NNzIwZW01X0l3ZkhNYkhRQzZlQ0Z3Sjg3MVI0OTBMV3c4WkQzU0xhc1JsMU5DZUx5Z0dPTWhNWWtjaEtUR2JkZVFCT2Y4MmFtcFlpc1hUTklSckVtZHFqS2VXM2NxTXJTS1pNa0N1Qk1semdUcUJzTUFzT0dPNnJUM3hrS3lPXzFHSXdGQg?oc=5"
         }
       ]
     },
@@ -261,7 +285,7 @@
       "id": "f4438f104409",
       "title": "Com oito óbitos e quase 200 casos, Jundiaí “corre” para vacinar população contra Gripe - jornal da região",
       "published": "2026-05-17T10:54:44+00:00",
-      "summary": "Com oito óbitos e quase 200 casos, Jundiaí “corre” para vacinar população contra Gripe&nbsp;&nbsp;jornal da regiãoMarau recebe nova remessa da vacina contra a gripe&nbsp;&nbsp;vangfm.com.brNot��cias - Vacina contra a gripe está com estoque renovado em Crissiumal&nbsp;&nbsp;Guia CrissiumalCachoeira do Sul reforça importância da vacinação diante da baixa adesão infantil&nbsp;&nbsp;Fatos 24hNovo lote de vacinas contra a gripe chega em Unidades de Saúde de Garibaldi&nbsp;&nbsp;Portal Adesso",
+      "summary": "Com oito óbitos e quase 200 casos, Jundiaí “corre” para vacinar população contra Gripe&nbsp;&nbsp;jornal da regiãoJundiaí reforça importância da vacinação contra influenza e mantém imunização para grupos prioritários&nbsp;&nbsp;Prefeitura de JundiaíJJ: Cobertura vacinal contra gripe é de apenas 38% em Jundiaí&nbsp;&nbsp;sampi.net.brTurno estendido nos Postos de Saúde de Cachoeira recomeçou&nbsp;&nbsp;Rádio FandangoPrefeitura de Bagé realiza terceira edição do Dia D de vacinação contra a gripe&nb",
       "sources": [
         {
           "name": "jornal da região",
@@ -294,10 +318,22 @@
       ]
     },
     {
+      "id": "9706861d6c2b",
+      "title": "Consumo de artes e cultura pode atrasar o envelhecimento, diz estudo - CNN Brasil",
+      "published": "2026-05-17T09:00:49+00:00",
+      "summary": "Consumo de artes e cultura pode atrasar o envelhecimento, diz estudo&nbsp;&nbsp;CNN BrasilO que museus, músicas e hobbies têm a ver com viver mais? Ciência responde&nbsp;&nbsp;ExameParticipar de atividades artísticas e culturais pode retardar o envelhecimento, sugere estudo&nbsp;&nbsp;R7Ler, ouvir música e visitar museus pode ajudar a envelhecer melhor, aponta pesquisa&nbsp;&nbsp;Folha BVContato diário com cultura e arte pode desacelerar envelhecimento, diz estudo&nbsp;&nbsp;TNH1",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONHhyY19wZ1V1b2RMdXgzeUFubE1iN2ZuM1JNeF9ZeVNLU3BUZFc5X05ZSzhFdVFXM05sZ2I1ZzVJeC1jRExMcUFPNVVEY1kxUjV5SWxsNWhVOExUOFEyQmVPRzNMd1pEOHFleHFZUXJhdjgwbFVmSGlMZTRIM1JYUkp2RGFEZEs1ZWlCUXlUQ2c4Mm9ac3Zrd0xad3NEbm5wWUN1dTlR?oc=5"
+        }
+      ]
+    },
+    {
       "id": "8a5a209b408a",
       "title": "Você não vê, mas consome: o perigo dos microplásticos na saúde humana - Correio Braziliense",
       "published": "2026-05-17T09:00:00+00:00",
-      "summary": "Você não vê, mas consome: o perigo dos microplásticos na saúde humana&nbsp;&nbsp;Correio BrazilienseÉ possível fazer um “detox” de plástico? O que a ciência (ainda não) sabe&nbsp;&nbsp;F5 NewsMicroplásticos e fertilidade: o impacto invisível que pode chegar até o óvulo&nbsp;&nbsp;Veja SaúdeMicroplástico causa câncer? Entenda a relação com a 2ª doença que mais mata no mundo&nbsp;&nbsp;R7Novo estudo revela como a presença de microplásticos nas artérias afeta a função cardiovascular e eleva silenci",
+      "summary": "Você não vê, mas consome: o perigo dos microplásticos na saúde humana&nbsp;&nbsp;Correio BrazilienseÉ possível fazer um “detox” de plástico? O que a ciência (ainda não) sabe&nbsp;&nbsp;F5 NewsMicroplásticos e fertilidade: o impacto invisível que pode chegar até o óvulo&nbsp;&nbsp;Veja SaúdeMicroplástico causa câncer? Entenda a relação com a 2ª doença que mais mata no mundo&nbsp;&nbsp;R7Nem só nos oceanos: microplásticos já foram encontrados no coração e em vasos sanguíneos&nbsp;&nbsp;Portal UAI",
       "sources": [
         {
           "name": "Correio Braziliense",
@@ -318,42 +354,6 @@
       ]
     },
     {
-      "id": "3ca3bf6a641b",
-      "title": "Metade dos ratos de laboratório não são quem cientistas pensam, diz estudo - CNN Brasil",
-      "published": "2026-05-17T06:33:25+00:00",
-      "summary": "Metade dos ratos de laboratório não são quem cientistas pensam, diz estudo&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSVRBRXV5VXBUNF8zQjUtMVdoamgtczluQU1zOGExNi1xQ015dF9SdmlIVjVmTnBKMjFzSS1OMTdVS2ZQeWtvR1lMejhpUFdlZ0dSU3Z2ckhwQnpzUHZlMVdUZDEtd1l4U1hPV1p5aGxqSFRYcThjaXpuTVJBLXZkckNjUWd1dW02d0JwNHpNTE5abDl3ZGVvVDdGVnJ4SEpEeC1uTURHdGhxZjZDTzhYRg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d1653aa5ed87",
-      "title": "Falta de vitamina B12 pode ser confundida com ansiedade. Veja sintomas - Metrópoles",
-      "published": "2026-05-17T05:00:19+00:00",
-      "summary": "Falta de vitamina B12 pode ser confundida com ansiedade. Veja sintomas&nbsp;&nbsp;MetrópolesVitamina B12: um nutriente essencial com uma relação complexa com o câncer&nbsp;&nbsp;The ConversationFormigamento nas mãos e pés ao acordar pode ser um dos primeiros sinais claros de que a deficiência severa de vitamina B12 está afetando os nervos&nbsp;&nbsp;Tua SaúdeFormigamento nos pés após os 50 anos pode indicar falta de uma vitamina essencial para o corpo&nbsp;&nbsp;Portal UAIA falta de vitamina B12",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE14QVBwTjZOaU5jRFJIaHdZdXNiQXppbVM3NDlBNy1wb2ppOHFsRzk3ek1ObUtGZFhxSm1aSkhFWllGWGFGaUEyN3RnS0RfRU1SSlA0clRIbmJrRVhQVTQ1UjlIek56czhBVGNlQmNiUDE5RmxKMDhFUWU4NEJfdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7248dc6cf997",
-      "title": "Amazônia silenciosa: estudo tenta explicar por que aves estão sumindo - Metrópoles",
-      "published": "2026-05-17T05:00:16+00:00",
-      "summary": "Amazônia silenciosa: estudo tenta explicar por que aves estão sumindo&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ub0FOcjBYRmd0VEZ6Z3o5dkMtQXczNEw2TENXX29uYTFlNGxXZlJBSEhDbS1sM0pCLThoaWtaTjBIYXUycGlpelMzMDF0N2pyLW5xZl9aSlNIZ2FKUC0zVnhQU0ZWZ1hiNzRiQmI2d2tRYTZuTlE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "fd9c96b18478",
       "title": "Harvard divulga estudo sobre pior hábito noturno para saúde do coração - Metrópoles",
       "published": "2026-05-17T05:00:00+00:00",
@@ -362,66 +362,6 @@
         {
           "name": "Metrópoles",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaGtieHFISWVkWVJCZUlXeDlnMWI4SjZZYkNHdXFGd04zbUU4MFpTR3hYNnhfSDJxUm5DMG5MczNIeDJ4YlNZdVdqWGZiNFFBaTZ3Yl93NkpkZFZacVpMeUtGRG9vSUFmdkhYM1RHWUdpcUhoTlBZYlM1YWx2OHlJakRHWUY3RU1aWlpWbmJkZElrSGE4TEJZQ1VWX0diMHVsWExkdmhheUZKNFNUVnZhWHNEZURqNHU3bmg3RG5yaw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "edf8acc3d7a2",
-      "title": "As pessoas mais educadas costumam nascer nesses meses, segundo estudo - Portal 6",
-      "published": "2026-05-16T23:06:21+00:00",
-      "summary": "As pessoas mais educadas costumam nascer nesses meses, segundo estudo&nbsp;&nbsp;Portal 6",
-      "sources": [
-        {
-          "name": "Portal 6",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRDVQMXpsTHZpRmpTOE52Ml9rZDJEeFRWRlBJd0JLYVJsMENnR01fOVgxQzdmUnR0YkYzMEpNYS1qcW03Zk1vd19HazJBN255a1dZNndaRlQyZ3k3VGpTUGpVSHRVazBJYWtlTkdGWGgxdjVmZFBzcnZFMnVaSjZVbkJXZllKcjZROENVTHduWnhjcGx0U3Q5Y2JvaHVzdFpLbGhCVVJ3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e811e23000bb",
-      "title": "Cientistas estão vendo o mar se comportar de um jeito tão estranho que um pesquisador diz que até assustado pode não ser mais a palavra certa - Catraca Livre",
-      "published": "2026-05-16T19:18:26+00:00",
-      "summary": "Cientistas estão vendo o mar se comportar de um jeito tão estranho que um pesquisador diz que até assustado pode não ser mais a palavra certa&nbsp;&nbsp;Catraca Livre",
-      "sources": [
-        {
-          "name": "Catraca Livre",
-          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPWGNrX29idDNnNHhDd1lfRVlCenUtQ3JMelFMbTU5SDJsV1hjUDloNzJPMHI1NDkybmktNHAyM1NJaTBVS3p1WTJRSHNWRW9aOXAybEhNRERFSThpWTktR2c1Rl9XVWczR0FZVDNaSkRjVGhyTGRqLU9jeUFWM0dnVU9EN3o2dzZhVkw4THJqSzFBQTg5QWhxdmZlRXNndDdlRDlsdHdqbUN2YnJ3TVBWdHB2aXo1cEw0UlVsM2ZRb0o1bnh2UV9icnJnVlNwUTdpTHhPUjEyaW8taDUwQmEtYklyUVMwY0U3eGx1d1c0UkQzdGJZZlJtalB1dUVYUElocjlIWVlhTHBBYjQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "41516903db5c",
-      "title": "Da Antártida a MG: hantavírus importa muito mais do que parece ao Brasil - UOL Notícias",
-      "published": "2026-05-16T18:20:22+00:00",
-      "summary": "Da Antártida a MG: hantavírus importa muito mais do que parece ao Brasil&nbsp;&nbsp;UOL NotíciasHantavírus acende alerta global, mas cenário no Brasil é diferente&nbsp;&nbsp;UOLHantavírus: os dois primeiros sintomas da doença que você não deve ignorar (e que muitos podem confundir com uma gripe forte)&nbsp;&nbsp;O GloboSaúde de Maceió reforça orientações e tranquiliza população em relação à infecção pelo hantavírus&nbsp;&nbsp;TNH1Hantavírus avança nas cidades: entenda a relação com a urbanização",
-      "sources": [
-        {
-          "name": "UOL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWFR6Qm1NSmlxeU01LTFtRVVkWlU2R0o5OEFGaklSWWR5OHdUMmtWbDItY1NfUWJJU0hmUjV6SHEyako1eGpuYWwwYU9Lbm5LNVVnYXRjWnFIblotTFdycUpkOHo0Q09KeFZRUWRTejJ0Z3U4blc0Wk82MVNta2V4WVBfdmR1RW1wZHlVU29rbWV4YWNyTi1hNmRrS2Vhc2JXY3VsSW52Qm9sQlUxQmtlaHRLZkZFMmo3dXVFMEdtcmxJZUNLTXFLbXJvVGc3X0ZQdnFaNWZ4Q0U0ejdJcUhB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f17115d3e3a1",
-      "title": "Higienizar alimentos com vinagre ou bicarbonato não elimina bactérias e ainda pode causar doenças; saiba mais - Jornal Correio",
-      "published": "2026-05-16T16:00:00+00:00",
-      "summary": "Higienizar alimentos com vinagre ou bicarbonato não elimina bactérias e ainda pode causar doenças; saiba mais&nbsp;&nbsp;Jornal Correio",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMDVMT1EteFhOSlo5Zm9HR05TdG4yVC1TckRVcHFWV0s5TDF6MWsyMGN5NExGNHRGRGMwSkdLMjY1QWJlaUZxeWtuRmt1RVpFc1plLU5xdG1rWkRNekxjZ2RqTEZ6TVB6ZFg2M3dZS201dDhtZVVSTXBFSUFYRUFSQWViaXA4ZUx2MWJkeG9KNVAyZnRBcUVjb3hTS2tLUGlLSzdpcDVLODdNRXg5S05yaGxWVVBJNGluTE9qcy1yTF9sOFZtWWY0em93Z0k2ZG15R3ZyQUJqc0hhQUREb2hZbU9jdS1ZVHJq?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dad2ec47726f",
-      "title": "Pesquisadores descobrem que quanto mais gelo derrete na Antártida, mais a água quente consegue chegar à base das plataformas e derreter ainda mais, cientista diz que ponto de inflexão climático pode chegar mais cedo do que os modelos atuais prevee - CPG Click Petróleo e Gás",
-      "published": "2026-05-16T15:54:00+00:00",
-      "summary": "Pesquisadores descobrem que quanto mais gelo derrete na Antártida, mais a água quente consegue chegar à base das plataformas e derreter ainda mais, cientista diz que ponto de inflexão climático pode chegar mais cedo do que os modelos atuais prevee&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNSkZKZ2FKcFZ1UERDSFU1cmhCOERoMnJXYWc0TzZiOHBBSmEtX3ZSMzVzQ3RQOVNNbTA1T1E1X0NkYUlwWFpFbG00VFlrNi10NVBXM09DVnRLUGF6anFqbTk2VkxMWnRaZF9YcklCd01MdWNQblpyR2FiWnhvTllwckc1bG5hcmtIN1RFQjBUc09HWGtvcTdWTlM0LWt4aTJQSnlUQWYtYXVvZVJmRmliZHhFVDRqYnNjRGlLUTdxWk5vVXVqLUtLSWhjSC14d2I3dV9CdVBic3kyRkJ1RTV6aUQ4aUZTWkp1MFhOVHNMWmZraVNKQmd2VF8wVkljRS1PYmhFQ3lUeEU2X0FTRUhha0plUS1STld3cWc5d0RsMXV0WVJMSHlOM3BBZGpVRlV3VTdiS1pHdzEtLTZTQlBTZnZkRFJEU0E?oc=5"
         }
       ]
     }
