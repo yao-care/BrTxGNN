@@ -1,19 +1,43 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-05-18T03:54:26.386565+00:00",
-  "total_fetched": 95,
-  "unique_count": 92,
-  "health_related_count": 33,
+  "fetched_at": "2026-05-18T10:08:53.455228+00:00",
+  "total_fetched": 97,
+  "unique_count": 94,
+  "health_related_count": 32,
   "news": [
     {
-      "id": "c68650c5e701",
-      "title": "Neurocientista irlandesa dá cinco dicas para melhorar a memória – a primeira é guardar o celular - UOL",
-      "published": "2026-05-17T23:12:07+00:00",
-      "summary": "Neurocientista irlandesa dá cinco dicas para melhorar a memória – a primeira é guardar o celular&nbsp;&nbsp;UOL",
+      "id": "8f0afea92a18",
+      "title": "5 hábitos comprovados pela ciência para manter a memória afiada com o passar dos anos - Tua Saúde",
+      "published": "2026-05-18T06:30:00+00:00",
+      "summary": "5 hábitos comprovados pela ciência para manter a memória afiada com o passar dos anos&nbsp;&nbsp;Tua Saúde",
       "sources": [
         {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaXdnSVVJWTRJMEZfdkl4VTVUMmMxRUV5RzhLVEVJRF9UbDdtdDllN1R4OVpwNVpWMEtfVlFvNEV5QmZXOHdnTHhvcnhHNkVnOWl6c3JTR1pfX1ZRQjJta2FxampERUVPR1cxR0tiOGpIb1kxWm9aNkZOZXFoM3g4b21WU0V1MTlTNDlxaNIBkgFBVV95cUxPQkZJaW9rUE10U3drNndLdHFQR1hzdkJBSDNXV0xMaEVOaHJCYUhkNUg0ZWlXdE5aY3FpUko1TVIzbGFIZGVTRzBra0pEb2NFMzl0M0s3OVhRNk9YUlJqV2lUTXdsbFM4YWZrWWxhOS01MnlISEE0VzJPc3RqQWFkOTB1N0E5TlM2djBaUGs0Sk0xZw?oc=5"
+          "name": "Tua Saúde",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNR0VCUzVmS1FfMklkWXdNRS1jN24yaDM3bVpyWUcyblJQSnhyTEJLOWFOUEh3N3o1STFyNWozdkJjb0kxbC1ZQnctbks0dWozY1BRTXhPSlpwRmx2OW9LaU5QamVCVjJyT2RIeW9BcHI2WG83ZG5zaTU0cDRDOGtDdFhqdkdDQXV2ay14RkZhZFJ0VHhGUVd2R0JRVy1Pb3Zkc0Y2QkJ0NERKVkxzVjd0SUdQcnZieGlVOTQyRHFQcjNUcUJwNHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d1a61c0e6565",
+      "title": "Vacinação contra a gripe na cidade de SP começa para toda a população nesta segunda-feira - G1",
+      "published": "2026-05-18T03:01:01+00:00",
+      "summary": "Vacinação contra a gripe na cidade de SP começa para toda a população nesta segunda-feira&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZGpybWMtODJYNElUeC1hRFJ3dWtpRWtQZ0dUNXVsb1VaVkZCS2RlSy1VbW40WXRJcm15aHNTU2JmV2IzdkNuR1FIczcxb0ZleFFrQkVlUExpeDkwSVotSkVUVGhpSnBrMWQxNTJVLTZsRWt1Q1k0R3RfZnljQUhhVE5tTFlfUWFac05YeFBOcHZRZ3ViZ29ZaTBPWUNGd3lCX0dORGtMTlZ4ME4tWmtmeWFTeV8xMGdOTFFNUDNLUVEzLWhOLS0yMk9nTS05eWJTUlVBUUJSc2ZNdXd2RWRYdjV30gHwAUFVX3lxTE1JdGc2TkVkSENUaWl4bmZVekhLNTJqWjIxNkdMU0o5X2VPelEtcEg4T3g1cDhYT000cmZOWlpqdUFBT2dURTRBQ0h3OUJ1eEE0WWpFS2lMeUZETks3VDQ1QXZXZmdrQ2xjaVgxZE5OR2ZrNU1XT2lDNmZTTE1EVzA1aHp0T0IzazBiUTRoakR2RDQzaGVIeDhTWnNlZUhpMl9wcE5YVlBVRkFUMHhpQXBITy1iRmhWQU5YcVJRSEhZUGQ3dktjTXBRR1o4LVR4eTJaOFZ3R2Y0SkNPQkMtRl9NS0pIV05BdzRjN3VKN2dmRg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "292ddd62c81f",
+      "title": "São Paulo surpreende o mundo com obra bilionária de R$ 4,2 bilhões: primeiro túnel submerso do Brasil terá 1,5 km de extensão, 870 metros debaixo d’água e promete acabar com a histórica dependência das balsas entre Santos e Guarujá - CPG Click Petróleo e Gás",
+      "published": "2026-05-17T22:50:00+00:00",
+      "summary": "São Paulo surpreende o mundo com obra bilionária de R$ 4,2 bilhões: primeiro túnel submerso do Brasil terá 1,5 km de extensão, 870 metros debaixo d’água e promete acabar com a histórica dependência das balsas entre Santos e Guarujá&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxObGxFVHJyVmR3MmxkZWkyelJXODNXYWd0X2luYlg3M19rcXplczJhakc1TlFxXzFFMHBKNi1qTklDb0E3WGJBd1Y3R2VOeWlLc0tmRWRqd01wMVN2bWhBb3BUTnZUbGNsMmh0Tzc4d3BENDN2d2RjQmcyY1ZvNjFCV3hjX3FLaWNxTjVTUWxBZGxrTlRBREhaRVdFT0Jmems0b05qSTFPMkxTZ3JMZW1EVC0zaWlocVlIR1NGOEV6OGFwQXlDcnZFQ01tdlNONF9Sa3NnamJlODdfblR0WW05aTcyOHZGZ1dCR21raml0alIzQ1RXZmxOekFxblFNVmpWaHZqa0JYZ0dNMWdsanFUa2hrTGtYMmNaZVAtLXR0OVFvbFBvaXNEM3dQV3FkQU9HakJoT3Y4WkJ2bGszWTFxRy1MOGJnMTQ?oc=5"
         }
       ]
     },
@@ -21,7 +45,7 @@
       "id": "9fbd25dbe432",
       "title": "Cientistas revelam como sete dias de jejum transformam o corpo humano - Metrópoles",
       "published": "2026-05-17T19:39:27+00:00",
-      "summary": "Cientistas revelam como sete dias de jejum transformam o corpo humano&nbsp;&nbsp;MetrópolesJejum intermitente funciona mesmo? O que a ciência já comprovou e os riscos que ainda preocupam especialistas&nbsp;&nbsp;Estado de MinasEstudo revela transformações profundas no corpo humano após jejum de sete dias&nbsp;&nbsp;O CafezinhoNem café nem vitaminas: o segredo para mais foco pode estar no tempo sem comer à noite&nbsp;&nbsp;Portal UAIJejum intermitente sem romantização: o que estudos recentes dize",
+      "summary": "Cientistas revelam como sete dias de jejum transformam o corpo humano&nbsp;&nbsp;MetrópolesJejum intermitente funciona mesmo? O que a ciência já comprovou e os riscos que ainda preocupam especialistas&nbsp;&nbsp;Estado de MinasEstudo revela transformações profundas no corpo humano após jejum de sete dias&nbsp;&nbsp;O CafezinhoJejum intermitente pode ajudar no emagrecimento, mas exige cuidado com coração e metabolismo&nbsp;&nbsp;folha do esMaiores efeitos do jejum só aparecem após três dias sem c",
       "sources": [
         {
           "name": "Metrópoles",
@@ -57,7 +81,7 @@
       "id": "0215dedd5202",
       "title": "Problemas digestivos podem causar névoa cerebral, dizem especialistas - Folha de S.Paulo",
       "published": "2026-05-17T18:00:00+00:00",
-      "summary": "Problemas digestivos podem causar névoa cerebral, dizem especialistas&nbsp;&nbsp;Folha de S.PauloNévoa mental, cérebro lento e falta de foco? Talvez seja o seu intestino&nbsp;&nbsp;O GloboIntestino e mente conectados: o que a ciência revela sobre o microbioma e suas possíveis influências na personalidade&nbsp;&nbsp;Estado de MinasComo bactérias do intestino podem causar perda de memória&nbsp;&nbsp;ExameBactéria pode causar perda de memória&nbsp;&nbsp;Superinteressante",
+      "summary": "Problemas digestivos podem causar névoa cerebral, dizem especialistas&nbsp;&nbsp;Folha de S.PauloNévoa mental, cérebro lento e falta de foco? Talvez seja o seu intestino&nbsp;&nbsp;O GloboComo bactérias do intestino podem causar perda de memória&nbsp;&nbsp;ExameIntestino e mente conectados: o que a ciência revela sobre o microbioma e suas possíveis influências na personalidade&nbsp;&nbsp;Estado de MinasComo o intestino influencia humor e produtividade no trabalho | SEGS Portal Nacional de Seguro",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -81,7 +105,7 @@
       "id": "ad3b2ed21fc2",
       "title": "OMS declara surto de ebola no Congo e Uganda como emergência de saúde global - Revista Oeste",
       "published": "2026-05-17T16:51:26+00:00",
-      "summary": "OMS declara surto de ebola no Congo e Uganda como emergência de saúde global&nbsp;&nbsp;Revista OesteEbola: o que saber sobre surto na República Democrática do Congo&nbsp;&nbsp;G1O que sabemos sobre o surto de Ebola que a OMS declarou emergência global&nbsp;&nbsp;CNN BrasilOMS classifica surto de ebola no Congo e Uganda como emergência internacional&nbsp;&nbsp;VEJAEmergência de Saúde Internacional: O Que Se Sabe sobre o Novo Surto de Ebola&nbsp;&nbsp;Forbes Brasil",
+      "summary": "OMS declara surto de ebola no Congo e Uganda como emergência de saúde global&nbsp;&nbsp;Revista OesteEbola: o que saber sobre surto na República Democrática do Congo&nbsp;&nbsp;BBCOMS declara emergência por causa de surto de Ebola&nbsp;&nbsp;G1OMS classifica surto de ebola no Congo e Uganda como emergência internacional&nbsp;&nbsp;VEJAEmergência de Saúde Internacional: O Que Se Sabe sobre o Novo Surto de Ebola&nbsp;&nbsp;Forbes Brasil",
       "sources": [
         {
           "name": "Revista Oeste",
@@ -90,14 +114,14 @@
       ]
     },
     {
-      "id": "61ddcd28172e",
-      "title": "Estudo identifica que as pessoas mais inteligentes costumam nascer nestes meses - Portal 6",
-      "published": "2026-05-17T15:19:31+00:00",
-      "summary": "Estudo identifica que as pessoas mais inteligentes costumam nascer nestes meses&nbsp;&nbsp;Portal 6Os filhos mais inteligentes costumam nascer nesses meses, apontam estudos&nbsp;&nbsp;Correio BrazilienseOs filhos que são mais calmos tendem a nascer nestes 3 meses do ano, segundo estudo&nbsp;&nbsp;Correio BrazilienseCrianças mais calmas costumam nascer nesses meses, segundo estudos&nbsp;&nbsp;Portal UAIPessoas nascidas nestes 4 meses costumam ter uma criatividade que aparece quando tudo parece di",
+      "id": "70afc274904d",
+      "title": "Exame de sangue pode detectar Alzheimer até 20 anos antes dos sintomas - Agora No Vale",
+      "published": "2026-05-17T13:28:16+00:00",
+      "summary": "Exame de sangue pode detectar Alzheimer até 20 anos antes dos sintomas&nbsp;&nbsp;Agora No ValeExame de sangue pode detectar Alzheimer 20 anos antes de doença se manifestar; entenda&nbsp;&nbsp;GZHNovo biomarcador sanguíneo no diagnóstico da doença de Alzheimer&nbsp;&nbsp;Roche PortugalTeste rápido pode prever risco de Alzheimer décadas antes dos sintomas&nbsp;&nbsp;CNN BrasilRoche obtém segunda aprovação europeia para teste de Alzheimer&nbsp;&nbsp;TradingView",
       "sources": [
         {
-          "name": "Portal 6",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVXI3WmpaUWZYeFd0Yjh5N2RfYk41QjloWjh6ZndDRDh6LW5ndDhRMFFJdVlVVi1NVGhEWkpmd05PSm5aQm1SdnFfUWFqakxOVjAwSDVhWk4tU0Y5TExZUlNTc0V6d1JsaVdhYW9QRGRjUjVqOG9ZUGd1d2VBZS1GcW9SUHRTZnpuRzh4bHRuSm5mVGkzRGdLR2tfLUQ5T0Z6RGVGMDQwdExuWGhmTVB6cDR1WlM?oc=5"
+          "name": "Agora No Vale",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT0lrZWMyV1hta3VWV010UWlWcUl0MVBXQlZwOWpFOUVDNElUdTZrLXc3WTlxMWNxcDdnb3NhLWhoTVNiSDB5bUtKdGl5NF84QTVTcGVNTU50R1huMmxnaW95eDJ6SjBSVWpwWGhra1B5b1o5VTFrR1RfeExXN1BXMXI1NHhHMHRHSHdyQXl0UXNVR0d6NEJuS0VtUDEtbF96SmVXWi1zX2liaDNXZFVQZFN5VQ?oc=5"
         }
       ]
     },
@@ -234,26 +258,14 @@
       ]
     },
     {
-      "id": "625f3f1e921b",
-      "title": "Estudo revela como comunidades andinas sobreviveram por gerações em áreas com água cheia de arsênico e desenvolveram uma proteção no DNA - CPG Click Petróleo e Gás",
-      "published": "2026-05-16T23:26:00+00:00",
-      "summary": "Estudo revela como comunidades andinas sobreviveram por gerações em áreas com água cheia de arsênico e desenvolveram uma proteção no DNA&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "id": "edf8acc3d7a2",
+      "title": "As pessoas mais educadas costumam nascer nesses meses, segundo estudo - Portal 6",
+      "published": "2026-05-16T23:06:21+00:00",
+      "summary": "As pessoas mais educadas costumam nascer nesses meses, segundo estudo&nbsp;&nbsp;Portal 6",
       "sources": [
         {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNVWZ3WE5pNnVnMkg1Wlo2b3c3Z0FHUTBuQ0o3Q2owaUtLNm53ZU1ZaUJJdDRYRjhPZmFmdmlnalpMNXdGeTVVa2ZXUDY4UFliQWFTWUFEZlAtY0wyS2VQUDBNZXR6WVdjRzhzdWhfSkNKZFkwd3JCRGx4N2x3SXRJZm11R09tU2txNjlwbEZLT1dEME8tcWdfakY3WHZKenFkTjZicF9ZQkI0Y0tRUTlwY3RYQ3RLOF91alBsUmU3RE5iazRMQU56bWpJS3hkTkFCQXJJLVJwZUZ3RTRuM291dTNLcVd0TVNYbzJkV0RuZ1c2ZXJaN3lKR0ZRLXZ1VTk1Zml2czF6NFk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "82811125fd83",
-      "title": "Fila e espera de até 3 horas marcam vacinação em posto de saúde de BH neste sábado (16) - O TEMPO",
-      "published": "2026-05-16T21:18:24+00:00",
-      "summary": "Fila e espera de até 3 horas marcam vacinação em posto de saúde de BH neste sábado (16)&nbsp;&nbsp;O TEMPOVacinação contra a gripe na cidade de SP começa para toda a população nesta segunda-feira | G1&nbsp;&nbsp;G1SP inicia na segunda vacinação contra influenza para toda população&nbsp;&nbsp;InfoMoneyVacinação drive-thru em Campo Grande esgota doses no 1º dia&nbsp;&nbsp;Campo Grande NewsFortaleza libera vacina da gripe para toda a população&nbsp;&nbsp;O POVO",
-      "sources": [
-        {
-          "name": "O TEMPO",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUlRNQTUwVm9MLU9YajBSOXhteWpzalhCOG9sbjVqMV9MVDREeEdmb0pTcEVyeWJQSEFZeThIRy1OUkNmRlluekpoOHQ4SGd4T240ODIydFBkNnZmY3hoTk9lQ2tNbFplZXpWY05YZEZHWDhUYXpXYTlrLTc4dzFKSGVQZGZScjNscWFjb2RUbUdFWW9VdGxtVllaTFlZekJuWHV5YnRsWUtfVXZJOXRKWmN5MTBJTnJtcWNacTducHIyWldJWjlKUg?oc=5"
+          "name": "Portal 6",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRDVQMXpsTHZpRmpTOE52Ml9rZDJEeFRWRlBJd0JLYVJsMENnR01fOVgxQzdmUnR0YkYzMEpNYS1qcW03Zk1vd19HazJBN255a1dZNndaRlQyZ3k3VGpTUGpVSHRVazBJYWtlTkdGWGgxdjVmZFBzcnZFMnVaSjZVbkJXZllKcjZROENVTHduWnhjcGx0U3Q5Y2JvaHVzdFpLbGhCVVJ3?oc=5"
         }
       ]
     },
@@ -261,7 +273,7 @@
       "id": "87e55b5b06e4",
       "title": "Rafael Bañares, Professor de Medicina, sobre o fígado: \"O álcool e a gordura antecipam aumento nos casos de doença hepática avançada nos próximos anos\" - O Antagonista",
       "published": "2026-05-16T21:08:00+00:00",
-      "summary": "Rafael Bañares, Professor de Medicina, sobre o fígado: \"O álcool e a gordura antecipam aumento nos casos de doença hepática avançada nos próximos anos\"&nbsp;&nbsp;O AntagonistaImpacto além do fígado: o que uma cerveja por dia faz com seu corpo&nbsp;&nbsp;UOLEspecialistas revelam qual a pior bebida para o seu intestino&nbsp;&nbsp;TNH1Estudo mostra os efeitos da cerveja no fígado e na saúde cardiovascular&nbsp;&nbsp;Correio BrazilienseColoproctologista cita bebidas que mais favorecem a saúde do in",
+      "summary": "Rafael Bañares, Professor de Medicina, sobre o fígado: \"O álcool e a gordura antecipam aumento nos casos de doença hepática avançada nos próximos anos\"&nbsp;&nbsp;O Antagonista",
       "sources": [
         {
           "name": "O Antagonista",
@@ -282,14 +294,38 @@
       ]
     },
     {
-      "id": "81b96511d787",
-      "title": "Fabiana Karla fala sobre desafio de diagnóstico de pré-diabetes - iG Gente",
-      "published": "2026-05-16T19:40:00+00:00",
-      "summary": "Fabiana Karla fala sobre desafio de diagnóstico de pré-diabetes&nbsp;&nbsp;iG Gente",
+      "id": "e811e23000bb",
+      "title": "Cientistas estão vendo o mar se comportar de um jeito tão estranho que um pesquisador diz que até assustado pode não ser mais a palavra certa - Catraca Livre",
+      "published": "2026-05-16T19:18:26+00:00",
+      "summary": "Cientistas estão vendo o mar se comportar de um jeito tão estranho que um pesquisador diz que até assustado pode não ser mais a palavra certa&nbsp;&nbsp;Catraca Livre",
       "sources": [
         {
-          "name": "iG Gente",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQUQ0aC1oelJmLVV0U1VWaks2emhRdlRpTXVXLWNpSnVrZV9IU1dFQnJGejVtTWpoY2ZBN29TWWdtTmF6SWVrdTFHcXM5SGg3WXFEUjNkVExiaUp1V3JpelFicHptN1VxUlk0TXRXTGF1R1RrX3Q5VDhTVmFxc2xNbTBVWDlYX0RVNm4taUwzN2llNjdONlBNRDF6RjJBZHU1UHE3TkpIc3JaeU42S2NfNzhvUFM0OUHSAbwBQVVfeXFMT19hYVg5cC1sS2dZYldQbE5qbV9CVEJZQUtoVkp5NGVWTkxob1ZSMUJNZTYzOU1iX1FneFBRWGZWRFVXS3VUZWZTT0s2MGQ4NEVUSGFEUk1RTjhjNWVDLUlYWkhRMUhuaks1UXRUOXc5M3BmcmN3a0NfVXlRaXl1VjhmdUxHbHN2eldTY0pOSnM1dEkzbG1xN19Eb09zYlF3YlB0WGlET3hSQkZYNmNSZWZzakxJRTBvZjQ3MU4?oc=5"
+          "name": "Catraca Livre",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPWGNrX29idDNnNHhDd1lfRVlCenUtQ3JMelFMbTU5SDJsV1hjUDloNzJPMHI1NDkybmktNHAyM1NJaTBVS3p1WTJRSHNWRW9aOXAybEhNRERFSThpWTktR2c1Rl9XVWczR0FZVDNaSkRjVGhyTGRqLU9jeUFWM0dnVU9EN3o2dzZhVkw4THJqSzFBQTg5QWhxdmZlRXNndDdlRDlsdHdqbUN2YnJ3TVBWdHB2aXo1cEw0UlVsM2ZRb0o1bnh2UV9icnJnVlNwUTdpTHhPUjEyaW8taDUwQmEtYklyUVMwY0U3eGx1d1c0UkQzdGJZZlJtalB1dUVYUElocjlIWVlhTHBBYjQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6e5d29d20145",
+      "title": "Você pode estar com hantavírus pensando que é gripe; entenda os sintomas - Bnews",
+      "published": "2026-05-16T18:27:00+00:00",
+      "summary": "Você pode estar com hantavírus pensando que é gripe; entenda os sintomas&nbsp;&nbsp;BnewsHantavírus acende alerta global, mas cenário no Brasil é diferente&nbsp;&nbsp;UOLSaúde de Maceió reforça orientações e tranquiliza população em relação à infecção pelo hantavírus&nbsp;&nbsp;TNH1Hantavírus: os dois primeiros sintomas da doença que você não deve ignorar (e que muitos podem confundir com uma gripe forte)&nbsp;&nbsp;O GloboHantavírus: temor de uma nova covid-19 tem fundamento? O que a ciência di",
+      "sources": [
+        {
+          "name": "Bnews",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUU9rVUhhZjVnZ0N2MWVrZnJtMGstVFdienNtUVdkZlVLdmNvYzczeGZFMk5oMGUxenI4RkFjMnRJQkRuOW0zc3c1VndOS1ROOWNMbEJZcjdIWElSLUt5Q0ZnRWMtLWU5N0dsR0FkUmxCdW5Cb2pmdE1OV0pIenFtMHJMUmEzMDUwT1Rwc2k4UEJwSHlnTUlxV0l1clJkM1JBR2tjVnZSV1poVEhvWE9Ja1I0TmdFM3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "41516903db5c",
+      "title": "Da Antártida a MG: hantavírus importa muito mais do que parece ao Brasil - UOL Notícias",
+      "published": "2026-05-16T18:20:22+00:00",
+      "summary": "Da Antártida a MG: hantavírus importa muito mais do que parece ao Brasil&nbsp;&nbsp;UOL NotíciasVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "UOL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWFR6Qm1NSmlxeU01LTFtRVVkWlU2R0o5OEFGaklSWWR5OHdUMmtWbDItY1NfUWJJU0hmUjV6SHEyako1eGpuYWwwYU9Lbm5LNVVnYXRjWnFIblotTFdycUpkOHo0Q09KeFZRUWRTejJ0Z3U4blc0Wk82MVNta2V4WVBfdmR1RW1wZHlVU29rbWV4YWNyTi1hNmRrS2Vhc2JXY3VsSW52Qm9sQlUxQmtlaHRLZkZFMmo3dXVFMEdtcmxJZUNLTXFLbXJvVGc3X0ZQdnFaNWZ4Q0U0ejdJcUhB?oc=5"
         }
       ]
     },
@@ -314,30 +350,6 @@
         {
           "name": "CPG Click Petróleo e Gás",
           "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNSkZKZ2FKcFZ1UERDSFU1cmhCOERoMnJXYWc0TzZiOHBBSmEtX3ZSMzVzQ3RQOVNNbTA1T1E1X0NkYUlwWFpFbG00VFlrNi10NVBXM09DVnRLUGF6anFqbTk2VkxMWnRaZF9YcklCd01MdWNQblpyR2FiWnhvTllwckc1bG5hcmtIN1RFQjBUc09HWGtvcTdWTlM0LWt4aTJQSnlUQWYtYXVvZVJmRmliZHhFVDRqYnNjRGlLUTdxWk5vVXVqLUtLSWhjSC14d2I3dV9CdVBic3kyRkJ1RTV6aUQ4aUZTWkp1MFhOVHNMWmZraVNKQmd2VF8wVkljRS1PYmhFQ3lUeEU2X0FTRUhha0plUS1STld3cWc5d0RsMXV0WVJMSHlOM3BBZGpVRlV3VTdiS1pHdzEtLTZTQlBTZnZkRFJEU0E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f1290a841dbe",
-      "title": "Hantavírus: os dois primeiros sintomas da doença que você não deve ignorar (e que muitos podem confundir com uma gripe forte) - O Globo",
-      "published": "2026-05-16T15:34:42+00:00",
-      "summary": "Hantavírus: os dois primeiros sintomas da doença que você não deve ignorar (e que muitos podem confundir com uma gripe forte)&nbsp;&nbsp;O GloboDa Antártida a MG: hantavírus importa muito mais do que parece ao Brasil&nbsp;&nbsp;UOL NotíciasSaúde de Maceió reforça orientações e tranquiliza população em relação à infecção pelo hantavírus&nbsp;&nbsp;TNH1Rio Grande do Sul confirma dois casos de contaminação por hantavírus e a primeira morte pelo vírus&nbsp;&nbsp;Rádio Tapejara FMHantavírus: infectol",
-      "sources": [
-        {
-          "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPYlV3Q081endoZVRsWkVleWZSVS1ieDFJLVpHUFZpclVuYVpuWEtpaUNjRG5oWVp1clBveVF3cFVxVnNzbnQ2blpJTHJWZnB3aTdEWHJGbjlhemxWc3pvWkZxMGc4b1RURG1leldWdWNBZV9PZjVreFBRRGF0XzNPRnVoRGtiLUItTTM2MC1ESzYzLTdCamxWdkIwUWZNMjl5bmNrc2FNNW5tSHRQMk1OdVE0dDdySFZSMlg5eVEzSTNvLU40RFc4dERsQVdyUnBWWmlsU3lFQTR5V3JZazBYVFhuMWNhcGhaS19zRFp1R0dnVzlhNGJmVEoyaV96OXZJVXc1NXRTbTJ5QdIBmAJBVV95cUxPS1lBOTlOdHBpWUZtNjF4c1k1b2JqVFZldkJtdmZ2eFR6cG5JVHFQcmVFMjIxd3g0aS01cHNfbEYyUFVLVHBTcHhhQnJJUWhfa2NQb2hmdlJTQzZQOW5YbG9zRFRwcnVxNXl1dFNsZHZ0RUx5TWVhWXhRRlRTVU82NkZuNlVlTVpXQi1qbmVUS2FVV3pRU0JaeGNIN244WlNfZzU3TW01ejU0UVlUV1VseU5FalNMOHRoM1Vjd2FiSGNhSkZ6S3M4MU1jekNRcWxVOTZMaEZTSE1IOEkwQ0RNakhNeEhGbmhtSnBsWldxSzhTYjMwanJWRUFjR3hVM1JDUjFGQXotckJycTFvSnloWE8tQVN0MVFt?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fb9c97b87b88",
-      "title": "Hospital colônia em Barbacena: Ciências Médicas ressalta cooperação com MPF - Estado de Minas",
-      "published": "2026-05-16T15:14:00+00:00",
-      "summary": "Hospital colônia em Barbacena: Ciências Médicas ressalta cooperação com MPF&nbsp;&nbsp;Estado de Minas",
-      "sources": [
-        {
-          "name": "Estado de Minas",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWFZmWnlhQl8tdHg0QjFFZ2JTaVo4bjR4aXdKRzZPZXdVTHo0MXpsOG9VSml6Szc4MmU2b0dLVXVCTVQ3Y3NpcHNQQVhGUTdPM0pXWGdKeklTRFFiM25WcEVFRG9oT0dJd0pMbVUyWmxlVkFvRXNhYmpiZ3B6eFExUUV4TEI1bVdaeFB6Nk5sZUp4NnpwSnhQQUxicUo3b2tVUGhONGRfby1SQ2djdl9JT0NfNUtXbmhlT0FXWUNiLWdZZ9IBxwFBVV95cUxNc3JLbGE0MkNGRmJ3bXloNkFLWDdWNWRHZE9yX0RLLWhBUWpqektmYjNzTm43TVROcEY1N3h6QVY1Sl9DLURkcDE4alFEUnU5U0N1RW14QmtuOC1SOGpiLWdpU2liS0UzQTdjY2hwWExFNnFBSWZOb2w2X0FuU0REa1pRMWgzaGVGaEp5MzRYMUpmLWFuY0RtRTNmZkI4Rk9Ta01qSlRRcG1HY1B3bnY3NXJGNWFsWWRsUGlnQnNDRkYxRUkzbTdz?oc=5"
         }
       ]
     },
@@ -374,30 +386,6 @@
         {
           "name": "Correio do Povo",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQN2hjUU03dG5fQjJaWmRzTkI3WXVXT0RuNFJha1RhSmZkRG9lbHhFdzRKdE9INzY0M2x0aWozSXp3bUhlMlpwbkU2dVhkZDAzcE9Na25yNWZTdkdpTllUbTVIUi1tdjBvQmhYREEzY1pvakZjQXR6a0JpUHFzN0pvTU82aXJIa0VXdGI2M1JHd1pwLUxQREpjSkM0elRfbUZsMnYtTUNYaWZFcHVUTFdwVGpZQ2tBSWd4VTJz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "001295f163cf",
-      "title": "Afinal, leite faz bem ou mal? O que a ciência diz sobre benefícios e riscos - UOL",
-      "published": "2026-05-16T08:30:00+00:00",
-      "summary": "Afinal, leite faz bem ou mal? O que a ciência diz sobre benefícios e riscos&nbsp;&nbsp;UOLO que o consumo diário de leite realmente faz no seu intestino e na saúde do coração, segundo estudos&nbsp;&nbsp;Correio BrazilienseLeite: o alimento que muita gente decidiu abandonar pode não ser o vilão que a internet diz&nbsp;&nbsp;gizmodo.com.brNutricionista ensina como potencializar os benefícios do leite&nbsp;&nbsp;MetrópolesLeite faz bem ou mal? O que a ciência diz sobre os impactos na saúde&nbsp;&nb",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQklsNXZpRFozb2NRNlBqRDhWM3RCeExoT3BkUlVNNkV3U2M0OWxnWkI2LXFONU52T0NxWXN4UVBCV21QTElZZUlhaE12UmwyR1VWREtWOFk4RElfcHhnLWgtVy1tRjNCZWdnWE5EYktvakFXdmc0VndiVURuTnNBeTdxeEhKTnE0bGlUNFo5UEsxODMybW9aSU5OMHRFY3NBcVZibGtod005NWVGb3ZwaW5WQWloWV9vNDhuTEk4Y1I?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "939083234214",
-      "title": "Frase do dia da Psicologia: 'O homem pode suportar quase tudo, exceto a falta de sentido' - a reflexão de Viktor Frankl sobre propósito e sofrimento - Jornal Correio",
-      "published": "2026-05-15T07:00:00+00:00",
-      "summary": "Frase do dia da Psicologia: 'O homem pode suportar quase tudo, exceto a falta de sentido' - a reflexão de Viktor Frankl sobre propósito e sofrimento&nbsp;&nbsp;Jornal Correio",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNS1RodmdXbVNFVFRRZUZCRWZuOHlia3NXREdsT0wzTTQ3a2o1SzNLaExqaVpaWEpFQzBlb0VycjhBcUM4TG1mOGRmNTc3d0VVODY2QnhtVjVtTXpkTGJYcWE1QkFtT015MHVNQXpDWjlNY0Q3WHBJS0VtZkhXdUhzbzRKUzhRNEdBU09JcWt2ZnMzUFlhZVR0VjFSWWJBOUxvaGZnd21wa01MSEwxV2dLQ05CSUNCUGxQcUlNa3lOeTZGZDA2ajYwQUZDbFFFd2pjLUpXQTFRRjRjd1J2b0g4N1pRYW5HLXdLOEQ0bU9USzRDSXEyMTNtRXpnRElEOHV4c0xJczJPUlpCUmRNZ3hpQnU4ZnkwRXg3TjJR?oc=5"
         }
       ]
     }
