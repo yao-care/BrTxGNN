@@ -1,19 +1,103 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-05-17T19:12:23.129213+00:00",
-  "total_fetched": 98,
-  "unique_count": 97,
-  "health_related_count": 35,
+  "fetched_at": "2026-05-18T03:54:26.386565+00:00",
+  "total_fetched": 95,
+  "unique_count": 92,
+  "health_related_count": 33,
   "news": [
     {
-      "id": "d86fe4cf4f5b",
-      "title": "OMS declara surto de ebola como emergência global após 80 mortes; veja países em risco - ND Mais",
-      "published": "2026-05-17T15:58:50+00:00",
-      "summary": "OMS declara surto de ebola como emergência global após 80 mortes; veja países em risco&nbsp;&nbsp;ND MaisOMS diz que surto de Ebola em países africanos é emergência de saúde global&nbsp;&nbsp;CNN BrasilOMS classifica surto de ebola no Congo e Uganda como emergência internacional&nbsp;&nbsp;VEJAOMS declara emergência internacional após mais de 80 mortes por ebola na RDC&nbsp;&nbsp;Correio BrazilienseOMS declara surto de Ebola emergência global&nbsp;&nbsp;G1",
+      "id": "c68650c5e701",
+      "title": "Neurocientista irlandesa dá cinco dicas para melhorar a memória – a primeira é guardar o celular - UOL",
+      "published": "2026-05-17T23:12:07+00:00",
+      "summary": "Neurocientista irlandesa dá cinco dicas para melhorar a memória – a primeira é guardar o celular&nbsp;&nbsp;UOL",
       "sources": [
         {
-          "name": "ND Mais",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQemtLUGluMXdva3FyeGJOdFlsclp2WURWZWFHWER5NjlrbWxMLUQ0eDZ1RnBNZTNMcE01QW9idWFLbVFTbzBBTjJCRnJhSkxWdHRySEU3MlZRT040WXBMUnFwbnl2cjRaUlQzbENzMlVqeThzSXl2bzAzdkdydU1UT2xXeDZXU2gzaEQ3RC14NExEdw?oc=5"
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaXdnSVVJWTRJMEZfdkl4VTVUMmMxRUV5RzhLVEVJRF9UbDdtdDllN1R4OVpwNVpWMEtfVlFvNEV5QmZXOHdnTHhvcnhHNkVnOWl6c3JTR1pfX1ZRQjJta2FxampERUVPR1cxR0tiOGpIb1kxWm9aNkZOZXFoM3g4b21WU0V1MTlTNDlxaNIBkgFBVV95cUxPQkZJaW9rUE10U3drNndLdHFQR1hzdkJBSDNXV0xMaEVOaHJCYUhkNUg0ZWlXdE5aY3FpUko1TVIzbGFIZGVTRzBra0pEb2NFMzl0M0s3OVhRNk9YUlJqV2lUTXdsbFM4YWZrWWxhOS01MnlISEE0VzJPc3RqQWFkOTB1N0E5TlM2djBaUGs0Sk0xZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9fbd25dbe432",
+      "title": "Cientistas revelam como sete dias de jejum transformam o corpo humano - Metrópoles",
+      "published": "2026-05-17T19:39:27+00:00",
+      "summary": "Cientistas revelam como sete dias de jejum transformam o corpo humano&nbsp;&nbsp;MetrópolesJejum intermitente funciona mesmo? O que a ciência já comprovou e os riscos que ainda preocupam especialistas&nbsp;&nbsp;Estado de MinasEstudo revela transformações profundas no corpo humano após jejum de sete dias&nbsp;&nbsp;O CafezinhoNem café nem vitaminas: o segredo para mais foco pode estar no tempo sem comer à noite&nbsp;&nbsp;Portal UAIJejum intermitente sem romantização: o que estudos recentes dize",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HUWdtbHFScnBPaFVNamVUTHZmcWQ5VjJuTnRMbUdEZ2FjNER1bVR5WlBHVDdHZFY0bS1jZXNydzdsT1FUUU9WUk5tVnBzdHlKUEFaTlBEU1VqV19nbnBLemQ4c0xGRlQ2akVsOHdtMA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "db6938692a47",
+      "title": "Cientistas confirmam pela primeira vez a presença de uma grande caverna vulcânica em Vênus - Catraca Livre",
+      "published": "2026-05-17T18:39:51+00:00",
+      "summary": "Cientistas confirmam pela primeira vez a presença de uma grande caverna vulcânica em Vênus&nbsp;&nbsp;Catraca Livre",
+      "sources": [
+        {
+          "name": "Catraca Livre",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPczF2RUU3RDF4RFNQTHZKcDFCTF9pUlY3cWJNVkNyRWFkeVNqUUhtZmUwcGRTMVJWaEdsNjZFUUI1TWYxbEM4bHZDMHA5SmhuMF9uSlZYdGRiXzlmSVl3M2QtZ05rQkVCMEFqZVpHZ19zQ2RKenRZUDNGa0RKbTBtWlAxd2hEdFA0X1c3bWJDd0k0dVZuR1RnbDFJc1dfVERnb1lGaGlITTl6NGNsdVBEY0FhV05tQ01ZdnNVV015UlBENmlZdTQ0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8d8d1bd77450",
+      "title": "Receitas de ivermectina para pacientes com câncer disparam após fala de Mel Gibson - Superinteressante",
+      "published": "2026-05-17T18:39:00+00:00",
+      "summary": "Receitas de ivermectina para pacientes com câncer disparam após fala de Mel Gibson&nbsp;&nbsp;Superinteressante",
+      "sources": [
+        {
+          "name": "Superinteressante",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU21RbVhWdUtHOFliR0ZabjVBcjJvS0xXMHNKT2pHNllfODNaTXhuM2JWeXpiZ2R2emtaMU5hWXM3RTdOSE9vUmF3cG5zQ2kzZjNNWDBJVnczb0xreHpYR3pGTDc0RXk2Q3BiemEzejZvWEZlM1cyQmRIOF9ROW9iN2w2V00zbVRvNUhtNXoxbnpTN0lmQTZPYjl5aDhVRUNPZUlvSGhmZmdWWVhlSmR4d2E1ME5rcWlMa1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0215dedd5202",
+      "title": "Problemas digestivos podem causar névoa cerebral, dizem especialistas - Folha de S.Paulo",
+      "published": "2026-05-17T18:00:00+00:00",
+      "summary": "Problemas digestivos podem causar névoa cerebral, dizem especialistas&nbsp;&nbsp;Folha de S.PauloNévoa mental, cérebro lento e falta de foco? Talvez seja o seu intestino&nbsp;&nbsp;O GloboIntestino e mente conectados: o que a ciência revela sobre o microbioma e suas possíveis influências na personalidade&nbsp;&nbsp;Estado de MinasComo bactérias do intestino podem causar perda de memória&nbsp;&nbsp;ExameBactéria pode causar perda de memória&nbsp;&nbsp;Superinteressante",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa3N4MzV2UTVCUVZDWFhMR3ZXM1ZQcVBzZkYxNlNnTlg3MHdBMXFsZEdUcHBqRk5wZzNSNnpjQVE1alM0VlpEc0Vwc3psY2FJSXUzR28tWEdoRDZMenVmd2hGVm9faTRIMFNfc29UemhCdlk1LUhqbG9CQlU1aUNoZS1Pemd3dnVxSVRzS0hsZ2dmc0hJUy1EWHhsU0FLWmlveG03bFczRS1XTDR0bGNXUEVmWmxqOGkwWFF0bllkdHM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cff2064aa565",
+      "title": "Quase 30 metros: nova espécie de dinossauro pescoçudo é descoberta na Ásia - UOL",
+      "published": "2026-05-17T17:20:50+00:00",
+      "summary": "Quase 30 metros: nova espécie de dinossauro pescoçudo é descoberta na Ásia&nbsp;&nbsp;UOL",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOGNCMlhLcU1LaXg3YV9KSlI1U1VVbXN6X3JQUlFFaERTSXpLMW9ySzRGTXB6VDVLYXJSRkVWTXZZUjE3d1loM1NKWVNlYUdmWXYtcDNibDY4Y0lfeGZ5YnEtMXZHOGJET2lxMDRRQmFlaG9pczhVUDZnMnFZb1ptNXlHQnR6WExvbWI2WFF3UGJSazgyZTBvak0yOXhvQVpuU3hJWWhXSEVPeVdaOGNSQ2ExNEJCajdIUGYtWjBTZ2Z0Q2lVLTM0SG1Mbw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ad3b2ed21fc2",
+      "title": "OMS declara surto de ebola no Congo e Uganda como emergência de saúde global - Revista Oeste",
+      "published": "2026-05-17T16:51:26+00:00",
+      "summary": "OMS declara surto de ebola no Congo e Uganda como emergência de saúde global&nbsp;&nbsp;Revista OesteEbola: o que saber sobre surto na República Democrática do Congo&nbsp;&nbsp;G1O que sabemos sobre o surto de Ebola que a OMS declarou emergência global&nbsp;&nbsp;CNN BrasilOMS classifica surto de ebola no Congo e Uganda como emergência internacional&nbsp;&nbsp;VEJAEmergência de Saúde Internacional: O Que Se Sabe sobre o Novo Surto de Ebola&nbsp;&nbsp;Forbes Brasil",
+      "sources": [
+        {
+          "name": "Revista Oeste",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ3Q2SUE1ekszVUtPSGIzQm1PTnhNX01RTTltYmh5anVSZ19NNzIwZW01X0l3ZkhNYkhRQzZlQ0Z3Sjg3MVI0OTBMV3c4WkQzU0xhc1JsMU5DZUx5Z0dPTWhNWWtjaEtUR2JkZVFCT2Y4MmFtcFlpc1hUTklSckVtZHFqS2VXM2NxTXJTS1pNa0N1Qk1semdUcUJzTUFzT0dPNnJUM3hrS3lPXzFHSXdGQg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "61ddcd28172e",
+      "title": "Estudo identifica que as pessoas mais inteligentes costumam nascer nestes meses - Portal 6",
+      "published": "2026-05-17T15:19:31+00:00",
+      "summary": "Estudo identifica que as pessoas mais inteligentes costumam nascer nestes meses&nbsp;&nbsp;Portal 6Os filhos mais inteligentes costumam nascer nesses meses, apontam estudos&nbsp;&nbsp;Correio BrazilienseOs filhos que são mais calmos tendem a nascer nestes 3 meses do ano, segundo estudo&nbsp;&nbsp;Correio BrazilienseCrianças mais calmas costumam nascer nesses meses, segundo estudos&nbsp;&nbsp;Portal UAIPessoas nascidas nestes 4 meses costumam ter uma criatividade que aparece quando tudo parece di",
+      "sources": [
+        {
+          "name": "Portal 6",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVXI3WmpaUWZYeFd0Yjh5N2RfYk41QjloWjh6ZndDRDh6LW5ndDhRMFFJdVlVVi1NVGhEWkpmd05PSm5aQm1SdnFfUWFqakxOVjAwSDVhWk4tU0Y5TExZUlNTc0V6d1JsaVdhYW9QRGRjUjVqOG9ZUGd1d2VBZS1GcW9SUHRTZnpuRzh4bHRuSm5mVGkzRGdLR2tfLUQ5T0Z6RGVGMDQwdExuWGhmTVB6cDR1WlM?oc=5"
         }
       ]
     },
@@ -30,10 +114,22 @@
       ]
     },
     {
+      "id": "6cfa93598a54",
+      "title": "Melancia: podemos comer as sementes da fruta? Veja o que os especialistas dizem - O Globo",
+      "published": "2026-05-17T11:43:12+00:00",
+      "summary": "Melancia: podemos comer as sementes da fruta? Veja o que os especialistas dizem&nbsp;&nbsp;O GloboCientistas descobrem benefícios surpreendentes da melancia para a saúde&nbsp;&nbsp;obusilis.com.brComo a L-citrulina presente na melancia age diretamente nos vasos sanguíneos para melhorar a circulação das pernas&nbsp;&nbsp;Tua Saúde",
+      "sources": [
+        {
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVXZKRFUyTTZoYzkzemVTYUdpUVZPUkhMcGxGY1FHT3F6NWhCMGV2Uy00dlR3MWhlTnBoa19rUkhaRUhhOE9qYmhkakVUS1FUNUtLRGstYmk1MnFubU51cjVGNF8zNVhLV0ZZTFl5MC04VzdqRHg4V003ZGNoZFY2Rlc5VnNSWnV3Mjd6UGVkdW8yUFNJcnVPZHpqR2o3cEphTGJoWWlaeEZIZEFPNjZXN255MXpQR1hndHV3aWl2ZzFUd2g2aXg3TVluZk8zR1FJbFHSAeABQVVfeXFMT1g1TkNOYWlzX3NfMmoxMnlKTFlrbXR1OV9nMUJKbU1wcnRqcnBNbzJwQTFZS3RqLXpCVzcyNFRpdHdTajFpTGJoYXVEelRYSnRsa2xoMXZTNF9Qd001ZEt5WlVqRnpEOU9RU2J1Mmk0d3JlQTBnX0pIZGVNUklXUzY2cEJkNlo1OFM4WUtCNE8zVjV6WkZzYnItTEZjUEZ4WDUtTlNZMDhUZEE4X2dtdF9PeXN0Ql9YQXRyRUtBVHJEeHNxbE9NOGNLaVc5RWhsanhRX3RRM3drS2NvcnBfVmU?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f4438f104409",
       "title": "Com oito óbitos e quase 200 casos, Jundiaí “corre” para vacinar população contra Gripe - jornal da região",
       "published": "2026-05-17T10:54:44+00:00",
-      "summary": "Com oito óbitos e quase 200 casos, Jundiaí “corre” para vacinar população contra Gripe&nbsp;&nbsp;jornal da regiãoMarau recebe nova remessa da vacina contra a gripe&nbsp;&nbsp;vangfm.com.brNot��cias - Vacina contra a gripe está com estoque renovado em Crissiumal&nbsp;&nbsp;Guia CrissiumalCachoeira do Sul reforça importância da vacinação diante da baixa adesão infantil&nbsp;&nbsp;Fatos 24h💉 Imbé intensifica vacinação nas escolas e mais de 100 doses já foram aplicadas&nbsp;&nbsp;Jornal Dimensão",
+      "summary": "Com oito óbitos e quase 200 casos, Jundiaí “corre” para vacinar população contra Gripe&nbsp;&nbsp;jornal da regiãoMarau recebe nova remessa da vacina contra a gripe&nbsp;&nbsp;vangfm.com.brNot��cias - Vacina contra a gripe está com estoque renovado em Crissiumal&nbsp;&nbsp;Guia CrissiumalCachoeira do Sul reforça importância da vacinação diante da baixa adesão infantil&nbsp;&nbsp;Fatos 24hNovo lote de vacinas contra a gripe chega em Unidades de Saúde de Garibaldi&nbsp;&nbsp;Portal Adesso",
       "sources": [
         {
           "name": "jornal da região",
@@ -57,7 +153,7 @@
       "id": "caf4f9372bda",
       "title": "Entenda o que mudou na forma de classificar a hipertensão - Folha Vitória",
       "published": "2026-05-17T09:30:00+00:00",
-      "summary": "Entenda o que mudou na forma de classificar a hipertensão&nbsp;&nbsp;Folha VitóriaNovo limite da pressão alta já está valendo e muda a forma que devemos avaliar a hipertensão&nbsp;&nbsp;Estado de MinasHipertensão: doença silenciosa exige atenção e mudanças de hábitos&nbsp;&nbsp;Agência Brasil'Bate-papo de Saúde': médico cardiologista tira dúvidas sobre hipertensão&nbsp;&nbsp;G1Pressão de 12 por 8 já acende alerta, diz cardiologista durante ação de saúde em Passo Fundo&nbsp;&nbsp;Rádio Uirapuru",
+      "summary": "Entenda o que mudou na forma de classificar a hipertensão&nbsp;&nbsp;Folha VitóriaNovo limite da pressão alta já está valendo e muda a forma que devemos avaliar a hipertensão&nbsp;&nbsp;Estado de Minas'Bate-papo de Saúde': médico cardiologista tira dúvidas sobre hipertensão&nbsp;&nbsp;G1Hipertensão: saiba tudo sobre a doença que é silenciosa, mais comum em mulheres e afeta cerca de 30% dos brasileiros&nbsp;&nbsp;Jornal CorreioPressão de 12 por 8 já acende alerta, diz cardiologista durante ação d",
       "sources": [
         {
           "name": "Folha Vitória",
@@ -105,7 +201,7 @@
       "id": "d1653aa5ed87",
       "title": "Falta de vitamina B12 pode ser confundida com ansiedade. Veja sintomas - Metrópoles",
       "published": "2026-05-17T05:00:19+00:00",
-      "summary": "Falta de vitamina B12 pode ser confundida com ansiedade. Veja sintomas&nbsp;&nbsp;MetrópolesVitamina B12: um nutriente essencial com uma relação complexa com o câncer&nbsp;&nbsp;The ConversationFormigamento nos pés após os 50 anos pode indicar falta de uma vitamina essencial para o corpo&nbsp;&nbsp;Portal UAIO formigamento nos pés que pode não ser diabetes — e sim falta de vitamina B12&nbsp;&nbsp;Tua SaúdeA falta de vitamina B12 pode começar silenciosa e afetar sangue, nervos e memória sem aviso",
+      "summary": "Falta de vitamina B12 pode ser confundida com ansiedade. Veja sintomas&nbsp;&nbsp;MetrópolesFormigamento nas mãos e pés ao acordar pode ser um dos primeiros sinais claros de que a deficiência severa de vitamina B12 está afetando os nervos&nbsp;&nbsp;Tua SaúdeVitamina B12: um nutriente essencial com uma relação complexa com o câncer&nbsp;&nbsp;The ConversationFormigamento nos pés após os 50 anos pode indicar falta de uma vitamina essencial para o corpo&nbsp;&nbsp;Portal UAIA falta de vitamina B12",
       "sources": [
         {
           "name": "Metrópoles",
@@ -138,18 +234,6 @@
       ]
     },
     {
-      "id": "d80031dc2663",
-      "title": "Vacinação contra a gripe: 25 milhões do público prioritário ainda não se imunizaram - G1",
-      "published": "2026-05-17T01:31:10+00:00",
-      "summary": "Vacinação contra a gripe: 25 milhões do público prioritário ainda não se imunizaram&nbsp;&nbsp;G1Vacinação contra gripe é ampliada em Campos após aumento de casos respiratórios&nbsp;&nbsp;G1Grupos prioritários têm baixa adesão à vacina da gripe&nbsp;&nbsp;G1SP inicia na segunda vacinação contra influenza para toda população&nbsp;&nbsp;Agência BrasilFortaleza libera vacina da gripe para toda a população&nbsp;&nbsp;O POVO",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWUZ0elJaM1JWUVB2V3BaZlQ5dG1PZWN2M2VrWS1xMGFCZzVzUW4tU1RGUk5xdXRBdm1KVGhOWE1RM0hJMFIxb2RKYWNOTGRkYnBDeHRPMTg4Q3hmbHdyM3pLaEM2STIxMFNDazN3cUxXRU4xLXExcVNsMHd4TTRWcmtJU1IwVmhlUktheU5zWGhlU3BqUkZBTkEwVGkyZXUzQWtMQk9xbjBFLUJ2S0tuVnh5MkJTQTdwNFFxeVh5bG04OFpUb1lteEFFekJnZVFscW9BclRCbks1dGFw0gHrAUFVX3lxTE4zeDEtcHVQeGJOSE1kUlVBZlJScGw5UjFLYWlRRlRuLVR5R0wxZ2g2QmdfVTdpMExCQmlVd2pabUdBYkhLS05jaDlDQ1VKSDZzOUlWLW45dVAzYWFsMldrTkt4Y2VROHVVTWp0WC11cDBXOXZ0YVZjM0xldmJXQzd6NFpRcW9yUHNMbWxUcG1WQjViRFAtM1VJUlhtZldPcUhMYm52UE9zdlVhVS1leXh5ZmtHbVkxVUFpUlhraktYeXNTNGFza2Vxd1NHZW4wWjZabnozZFhWWkNuR0plQ0NRb21kTHJPZnFia1k?oc=5"
-        }
-      ]
-    },
-    {
       "id": "625f3f1e921b",
       "title": "Estudo revela como comunidades andinas sobreviveram por gerações em áreas com água cheia de arsênico e desenvolveram uma proteção no DNA - CPG Click Petróleo e Gás",
       "published": "2026-05-16T23:26:00+00:00",
@@ -162,22 +246,10 @@
       ]
     },
     {
-      "id": "edf8acc3d7a2",
-      "title": "As pessoas mais educadas costumam nascer nesses meses, segundo estudo - Portal 6",
-      "published": "2026-05-16T23:06:21+00:00",
-      "summary": "As pessoas mais educadas costumam nascer nesses meses, segundo estudo&nbsp;&nbsp;Portal 6Os filhos mais inteligentes costumam nascer nesses meses, apontam estudos&nbsp;&nbsp;Correio BrazilienseOs filhos que são mais calmos tendem a nascer nestes 3 meses do ano, segundo estudo&nbsp;&nbsp;Correio BrazilienseEstudo identifica que as pessoas mais inteligentes costumam nascer nestes meses&nbsp;&nbsp;Portal 6Crianças mais calmas costumam nascer nesses meses, segundo estudos&nbsp;&nbsp;Portal UAI",
-      "sources": [
-        {
-          "name": "Portal 6",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRDVQMXpsTHZpRmpTOE52Ml9rZDJEeFRWRlBJd0JLYVJsMENnR01fOVgxQzdmUnR0YkYzMEpNYS1qcW03Zk1vd19HazJBN255a1dZNndaRlQyZ3k3VGpTUGpVSHRVazBJYWtlTkdGWGgxdjVmZFBzcnZFMnVaSjZVbkJXZllKcjZROENVTHduWnhjcGx0U3Q5Y2JvaHVzdFpLbGhCVVJ3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "82811125fd83",
       "title": "Fila e espera de até 3 horas marcam vacinação em posto de saúde de BH neste sábado (16) - O TEMPO",
       "published": "2026-05-16T21:18:24+00:00",
-      "summary": "Fila e espera de até 3 horas marcam vacinação em posto de saúde de BH neste sábado (16)&nbsp;&nbsp;O TEMPODrive-thru da vacina contra gripe em Campo Grande&nbsp;&nbsp;Campo Grande NewsBH reforça campanha de vacinação contra a gripe&nbsp;&nbsp;G1Corumbá tem ponto de vacinação contra influenza no Festival América do Sul&nbsp;&nbsp;MidiamaxCampo Grande terá plantão de vacina da gripe neste sábado em três locais – CGNotícias&nbsp;&nbsp;campogrande.ms.gov.br",
+      "summary": "Fila e espera de até 3 horas marcam vacinação em posto de saúde de BH neste sábado (16)&nbsp;&nbsp;O TEMPOVacinação contra a gripe na cidade de SP começa para toda a população nesta segunda-feira | G1&nbsp;&nbsp;G1SP inicia na segunda vacinação contra influenza para toda população&nbsp;&nbsp;InfoMoneyVacinação drive-thru em Campo Grande esgota doses no 1º dia&nbsp;&nbsp;Campo Grande NewsFortaleza libera vacina da gripe para toda a população&nbsp;&nbsp;O POVO",
       "sources": [
         {
           "name": "O TEMPO",
@@ -222,30 +294,6 @@
       ]
     },
     {
-      "id": "1bb54dfa0bc4",
-      "title": "Receitas de ivermectina para pacientes com câncer disparam após fala de Mel Gibson. - Superinteressante",
-      "published": "2026-05-16T19:00:00+00:00",
-      "summary": "Receitas de ivermectina para pacientes com câncer disparam após fala de Mel Gibson.&nbsp;&nbsp;Superinteressante",
-      "sources": [
-        {
-          "name": "Superinteressante",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU21RbVhWdUtHOFliR0ZabjVBcjJvS0xXMHNKT2pHNllfODNaTXhuM2JWeXpiZ2R2emtaMU5hWXM3RTdOSE9vUmF3cG5zQ2kzZjNNWDBJVnczb0xreHpYR3pGTDc0RXk2Q3BiemEzejZvWEZlM1cyQmRIOF9ROW9iN2w2V00zbVRvNUhtNXoxbnpTN0lmQTZPYjl5aDhVRUNPZUlvSGhmZmdWWVhlSmR4d2E1ME5rcWlMa1E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b15fd7b2395f",
-      "title": "O efeito que a cafeína pode reverter que atrapalha o sono e a memória, segundo estudo - Jornal Correio",
-      "published": "2026-05-16T18:15:00+00:00",
-      "summary": "O efeito que a cafeína pode reverter que atrapalha o sono e a memória, segundo estudo&nbsp;&nbsp;Jornal Correio",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMUplX2Izbk55ejlibFlWMmpOay1CS1lucE9oWmtFOUt1dlpZM0NWRjdhV0dpS1QzdzV4Zy1IR05uOFB3Y0VPOEhaRnc5OUZIQzZqejVCd3FrWGtzWDM2ck56MTMzYjhaaHdMOVdKaHo5WVJfX2ZzQVh0UnRFN085aDQ5WUd6eV9zam5Lc3NQSzJkdjdaZFJKMDdXWVdtdGtBOFNNb19pZlVuSVB1YlNwR3dZNi1fcW9oY3AtQzNVYlVRbXJHSGhBZHZOTQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f17115d3e3a1",
       "title": "Higienizar alimentos com vinagre ou bicarbonato não elimina bactérias e ainda pode causar doenças; saiba mais - Jornal Correio",
       "published": "2026-05-16T16:00:00+00:00",
@@ -273,7 +321,7 @@
       "id": "f1290a841dbe",
       "title": "Hantavírus: os dois primeiros sintomas da doença que você não deve ignorar (e que muitos podem confundir com uma gripe forte) - O Globo",
       "published": "2026-05-16T15:34:42+00:00",
-      "summary": "Hantavírus: os dois primeiros sintomas da doença que você não deve ignorar (e que muitos podem confundir com uma gripe forte)&nbsp;&nbsp;O GloboDa Antártida a MG: hantavírus importa muito mais do que parece ao Brasil&nbsp;&nbsp;UOL NotíciasRio Grande do Sul confirma dois casos de contaminação por hantavírus e a primeira morte pelo vírus&nbsp;&nbsp;Rádio Tapejara FMSaúde de Maceió reforça orientações e tranquiliza população em relação à infecção pelo hantavírus&nbsp;&nbsp;Alagoas 24 HorasHantavír",
+      "summary": "Hantavírus: os dois primeiros sintomas da doença que você não deve ignorar (e que muitos podem confundir com uma gripe forte)&nbsp;&nbsp;O GloboDa Antártida a MG: hantavírus importa muito mais do que parece ao Brasil&nbsp;&nbsp;UOL NotíciasSaúde de Maceió reforça orientações e tranquiliza população em relação à infecção pelo hantavírus&nbsp;&nbsp;TNH1Rio Grande do Sul confirma dois casos de contaminação por hantavírus e a primeira morte pelo vírus&nbsp;&nbsp;Rádio Tapejara FMHantavírus: infectol",
       "sources": [
         {
           "name": "O Globo",
@@ -297,7 +345,7 @@
       "id": "b050a0e179b4",
       "title": "Venda de ivermectina cresce após Mel Gibson citar cura do câncer - Pleno.News",
       "published": "2026-05-16T14:33:00+00:00",
-      "summary": "Venda de ivermectina cresce após Mel Gibson citar cura do câncer&nbsp;&nbsp;Pleno.NewsReceitas de ivermectina para pacientes com câncer disparam após fala de Mel Gibson.&nbsp;&nbsp;SuperinteressantePrescrição de ivermectina dispara nos EUA após Mel Gibson associá-la à cura do câncer, mostra estudo&nbsp;&nbsp;EstadãoPolêmicas prescrições de medicamentos dobram após declaração de Mel Gibson&nbsp;&nbsp;segundabase.com.brAparência no podcast de Joe Rogan ligada ao aumento da demanda por tratamento a",
+      "summary": "Venda de ivermectina cresce após Mel Gibson citar cura do câncer&nbsp;&nbsp;Pleno.NewsVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
           "name": "Pleno.News",
@@ -314,42 +362,6 @@
         {
           "name": "VEJA",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeU55aHZWdFBDTVpNNktuQkJxMUFRQlkzS2FKOE0xbC16VGR2dXZyeDdMR192QVIyOENwYW9CMFRyZElMenpRcW55dnl5OGpjYWFWcXhvMXJkLW5lV00xRzN0eVZLNmI0OTlpeDJJM2R5VUpTRkpWMjNEUXBleTRNWkZIenNlOEhMYUVWUXByZmY0MlBhOF96Y3prdm1JRkU5QUJGeWhpcTFoei0xUGd0UXF1TW9KMTdPU1prd1dyR1VCdGtqZ0tDXzFsOFVHQnU2bHdZRzlrbw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2e47be6fc8d0",
-      "title": "Nova espécie de dinossauro gigante maior que um T-Rex é descoberta - TNH1",
-      "published": "2026-05-16T12:35:19+00:00",
-      "summary": "Nova espécie de dinossauro gigante maior que um T-Rex é descoberta&nbsp;&nbsp;TNH1",
-      "sources": [
-        {
-          "name": "TNH1",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMWJVUWY4QjZUMWZ5dFJSU0dIdm81LU9yZ1VJMDhLcmdFTUg1Qk9NR08tNXd1dHYzakgxd3o5Q0xWdXRCZ0lhb05idHF2VUtYYXNwcFAtMWgxN2JDbkVCN0lWLUJaaTdEa1NlRGNUblRsRnhfdFM2UFlndlltc1JHZ3RFaWdPSE1hejBLTlRDTGc2T0tjYzZibkFUY0hta2hjX1lpdjF30gGgAUFVX3lxTE0zbGpvNHVFTjFTWjFoX0tVRTZya2pzejRhTkd4OFhtMHhKZXRVVF9yR0xJbmFRXzV0UnJtZ1VfVVdENVdtbTNud1lyMFI4UjdJaElRM0xLbDFtb1pOZTdNUDZ3TU0tdEcyYUZXTmlOZjBtOEdORXQzUzFnWE9la1VaYjRyOWFjcmJaN1MwMENUQXRwMlJjMzItRm1XQnFOR2U?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "51da7f228b94",
-      "title": "Brasileiro superdotado de 12 anos começa a acompanhar aulas de Biomedicina em faculdade no RS após tirar nota máxima no vestibular e sonhar em ser neurocirurgião enquanto ainda segue estudando no ensino fundamental - CPG Click Petróleo e Gás",
-      "published": "2026-05-16T12:21:00+00:00",
-      "summary": "Brasileiro superdotado de 12 anos começa a acompanhar aulas de Biomedicina em faculdade no RS após tirar nota máxima no vestibular e sonhar em ser neurocirurgião enquanto ainda segue estudando no ensino fundamental&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNUjhydXpqSGdpWERQUi1WMkNzN2lEdThRdW1UUFJGaV8tN3FxOXpSdmFKdUxqcUxlZWVpVV9yS1ktaGRqQVpsb3dXZmxPWFRRdEpIYmYtTWk3dWJHZVZGam9Gc3dWVHR5enEzQmFHZ1RNaXBnMEJXcklwaDRmOEJTZEVpLS1NUmtCMEszSU5EYWtGMVk4Um1WWWtLZTliUF9wZnZkVUtITG41dkRxT0U1aFN1QkVmMVZOd2dnSWJYYm5tY0dka0NObnRFVlF3VUo3Q1dkNG1RZkJNWTkwcDVmQkJXQ3d4TnFsLVd1Uk9BYm0wWUtNelQweDFqQW1lUVpCS0dTcllLdUxUUHJCTHIyOWs1Vmx5enFJcGxYd1ItVVVNUHVKWm15d3U2bkJ3ZmhnazdITk96UTJwYm5R?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a94692c61953",
-      "title": "Santos investe em neurociência e cria laboratório de aprimoramento cognitivo no CT Rei Pelé - Diário do Peixe",
-      "published": "2026-05-16T11:57:57+00:00",
-      "summary": "Santos investe em neurociência e cria laboratório de aprimoramento cognitivo no CT Rei Pelé&nbsp;&nbsp;Diário do Peixe",
-      "sources": [
-        {
-          "name": "Diário do Peixe",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdFFra0VIdWEyMkRGc0owdk02R1VkV0lZalhjdFF6NzBUaXBHR0VieFcxRlFxMlJDa0t2TlV2X0U3d0dCYy14d1NTM25BNDhzME5aYzJrdURaTks5WGNrUWNBNmZzNDliY3RHdGo3VGhvOFVjUTNHSW52UVRFVFdrbnYydEo0Z1JMT1RXZGRsb0g5RGZIOGRtbDEwX3Rsd3VwVDBpMHV4QnltT2g0TUFRZk8tSDJ6WG9NM0cybnVEYXZZUVA5TDZSNDBsVnFyY2c?oc=5"
         }
       ]
     },
@@ -374,42 +386,6 @@
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQklsNXZpRFozb2NRNlBqRDhWM3RCeExoT3BkUlVNNkV3U2M0OWxnWkI2LXFONU52T0NxWXN4UVBCV21QTElZZUlhaE12UmwyR1VWREtWOFk4RElfcHhnLWgtVy1tRjNCZWdnWE5EYktvakFXdmc0VndiVURuTnNBeTdxeEhKTnE0bGlUNFo5UEsxODMybW9aSU5OMHRFY3NBcVZibGtod005NWVGb3ZwaW5WQWloWV9vNDhuTEk4Y1I?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a190a4d267b8",
-      "title": "Você tem uma saúde frágil? Como os médicos realmente definem essa condição - O Globo",
-      "published": "2026-05-16T07:30:40+00:00",
-      "summary": "Você tem uma saúde frágil? Como os médicos realmente definem essa condição&nbsp;&nbsp;O Globo",
-      "sources": [
-        {
-          "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSnM5djN2QmZhU3RTd3BidWExN090YlNrbDFmUGVicmR4Z0cxckNTQTRKWGlrUkUzN0xqSUdvZWZ3akdoeklrNXpmNFBDaXBHZUNRWnFQY3pVSjEtaFpNMXAyZnNscElGbEl3QlI4VHBjNE1rZXluczB3ZFRpWVhJbGUySTFEcGhNSXdQdk1ESmRSemVBa1U0bjdFOERsMzRDQkFNcGRmZkdmMkV2SkVhRHY3VGJiSnc3ZnZLenljLVl5RjFtLVhEeNIB1wFBVV95cUxPdktSSFBzUG12blNFemdhenBkcUJ2VldVWVZ5bjR0VnJ6b3lWNDBhLWxEQUpvXzhZdmRLT3JVN1U1dW1sUjdHSTN0T2J5cW50T0JyN3paMlVnWW54SUdOQ0w5RnVtV0NOa2dOaXd0RGdFWnBEbTdXMEtHOHk5cXdGdjlGWEJOaTB4Q3N0SEdzSDZGSlJob3pweTFtYmtpcW12aEZUeTRyb2JMazhaRFgteWRDQ2dQZHZJcGRxN3VWclNDbnc0SnRtT1VLbEplMU9aUHdBMXdnNA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3fdbc55b411a",
-      "title": "Quantos minutos de esteira por dia são necessários para começar a ter resultados, segundo profissionais da saúde - Portal 6",
-      "published": "2026-05-16T00:04:27+00:00",
-      "summary": "Quantos minutos de esteira por dia são necessários para começar a ter resultados, segundo profissionais da saúde&nbsp;&nbsp;Portal 6Treinadores concordam: caminhar 40 minutos por dia já pode fazer diferença no gasto calórico ao fim do mês&nbsp;&nbsp;Correio BrazilienseCaminhada fortalece coração, músculos e saúde mental, diz médica&nbsp;&nbsp;Rádio ItatiaiaCaminhada diária de 30 minutos pode melhorar sono, circulação e saúde mental&nbsp;&nbsp;Pernambuco NotíciasQuantos minutos de caminhada por d",
-      "sources": [
-        {
-          "name": "Portal 6",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNV1lCY3QwVk9KQkh1MGRjUUNRX1FSUDRILTh2N05jbzFOTmpoQUpLOWhXMmVBa2lvU19KVHJHQ3F0OUFKMG1IdndGWTUtdmpRZ1hyd1AwYWlsUG1uYlgwblkzSkVGUXpVbUR0c0d2aTc4Wm5yZlp2VUFPT3lSdENCd05GenNsMHlQRkVqNF9sRFU2NkhDbE9RcmVjZDM0OUhYaFRiNHFJOXhObGV0QU5FR1pzUXN0Ny1iX1J0azZrWHlwLXlSRU1kd096c19KN3IwbE5WY1lXRm02WVZnME5j?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b04924c0ff17",
-      "title": "Ceará amplia vacinação contra influenza para toda a população a partir de segunda-feira (18) - Diário do Nordeste",
-      "published": "2026-05-15T22:17:00+00:00",
-      "summary": "Ceará amplia vacinação contra influenza para toda a população a partir de segunda-feira (18)&nbsp;&nbsp;Diário do NordesteVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "Diário do Nordeste",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQS05NaFZ6YlgyUGZVTEFPQWtpX0dfNmxvbkdRVkN4VU1XN3M3ZG00aUZUSmRoRlFULXpwVUhqYXRvZldXWXM5Q1JiNy1lUEZSYnFzVk1VNmkwenQtRERYRFVma3Nwcm1UMjBRRkJVb3hYUzQyZ2pPWklqSHU2WEZESkpUbWd2bldTUGtTSUpiQjdKOW1ra3NtaUtyLVZKN3ltTHVYc3BNb2pIV0xWMzJvT3d3ZzFMMmRvYzBfZ2duZWQ2SnRpakxialRObl8wMlNGWHgyV05QQ3NuamExenA5eHE1djU?oc=5"
         }
       ]
     },
