@@ -1,15 +1,15 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-05-19T03:47:30.640843+00:00",
-  "total_fetched": 92,
-  "unique_count": 90,
+  "fetched_at": "2026-05-19T09:49:50.951033+00:00",
+  "total_fetched": 90,
+  "unique_count": 88,
   "health_related_count": 31,
   "news": [
     {
       "id": "1440ad80e280",
       "title": "Surto de ebola: pelo menos 100 mortes registradas na República Democrática do Congo e 6 americanos expostos ao vírus - BBC",
       "published": "2026-05-18T23:47:49+00:00",
-      "summary": "Surto de ebola: pelo menos 100 mortes registradas na República Democrática do Congo e 6 americanos expostos ao vírus&nbsp;&nbsp;BBCOMS decreta 9ª emergência global da história; relembre outras ocasiões&nbsp;&nbsp;CNN BrasilEUA anunciam restrições a viajantes de 3 países africanos após surto de ebola no Congo&nbsp;&nbsp;Folha de S.PauloO país que vai disputar a Copa do Mundo e virou epicentro de uma grave doença viral&nbsp;&nbsp;VEJASurto de Ebola já deixou ao menos 100 mortos na República Democr",
+      "summary": "Surto de ebola: pelo menos 100 mortes registradas na República Democrática do Congo e 6 americanos expostos ao vírus&nbsp;&nbsp;BBCOMS decreta 9ª emergência global da história; relembre outras ocasiões&nbsp;&nbsp;CNN BrasilDiretor da OMS está 'profundamente preocupado' com escala e velocidade da epidemia de ebola&nbsp;&nbsp;UOL NotíciasO país que vai disputar a Copa do Mundo e virou epicentro de uma grave doença viral&nbsp;&nbsp;VEJAChefe da OMS diz estar 'profundamente preocupado com a dimensão",
       "sources": [
         {
           "name": "BBC",
@@ -18,14 +18,38 @@
       ]
     },
     {
-      "id": "0be462171e7e",
-      "title": "Cor da bebida pode influenciar sintomas da ressaca: veja os 'piores' drinks - UOL",
-      "published": "2026-05-18T21:38:46+00:00",
-      "summary": "Cor da bebida pode influenciar sintomas da ressaca: veja os 'piores' drinks&nbsp;&nbsp;UOL",
+      "id": "29b63bc60ef2",
+      "title": "Anvisa suspende corticoide e remédio para colesterol; veja quais lotes - Agência Brasil",
+      "published": "2026-05-18T23:12:00+00:00",
+      "summary": "Anvisa suspende corticoide e remédio para colesterol; veja quais lotes&nbsp;&nbsp;Agência BrasilRemédio de colesterol recolhido: como funcionam as estatinas, que tiveram lote retirado do mercado pela Cimed&nbsp;&nbsp;G1Anvisa recolhe lotes de remédio para colesterol e corticoide; saiba quais&nbsp;&nbsp;CNN BrasilAnvisa manda recolher lotes de três medicamentos&nbsp;&nbsp;Campo Grande NewsCimed e Hypofarma anunciam recolhimento de lotes de medicamentos; veja quais&nbsp;&nbsp;InfoMoney",
       "sources": [
         {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeXlWcGtQTW5LelY1cmZrWTFJZjE0bllxYjNSclJyV3hfYzhiOVZITE0xMFRrMDN6cE4xaGdXa3hfRVpYVWt3OE91cF9PS01PMzJDT09YbVhocmhQVU93ZjA2dmxINGlQQWVOQjhScld4RHoxaVJXcEFYUFNNRHlqZEh1Yld3ejFQNmxQbzdvWERDcXF4UFpaV3dNVjJDdkFkVEtTQWtJLXRDWFJkamZnM3JjOGVMYUw0bGlMQ1A4Wl9DUjdvcWhabXp1YkpSUFFvOXc?oc=5"
+          "name": "Agência Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYTZFZGxLbVhqYVZ2SWlOa09VNXF5OGR6OGhDZE5iNjhrT19VNkVEZGh4T2wyY2NBbUptaUxucHlsS2tHRTFEU3BVOEhFZEZkaDdRdVVPMjlRNTliTkdiOC1EODFDTV9pS0FtUnB5WkpOcFVOT0pTZnFBNi0xamZ2RjhKZUkyTXcxdVlINVE4QXotRkNJTTBWQXNQMFRuUHo4RnF0THY5WVA5NGNXZXRwLUJsX2hKYklpeExiMXZ1OVRzR3M?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "83b098ff286d",
+      "title": "Parcerias sustentáveis entre proprietários de terras e biólogos garantem o futuro do gavião-real no coração da Amazônia e do Cerrado - Revista Amazônia",
+      "published": "2026-05-18T19:31:09+00:00",
+      "summary": "Parcerias sustentáveis entre proprietários de terras e biólogos garantem o futuro do gavião-real no coração da Amazônia e do Cerrado&nbsp;&nbsp;Revista Amazônia",
+      "sources": [
+        {
+          "name": "Revista Amazônia",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMVhoNHBtTEJvck1sSUZNc0p6bzBfZTNBb3lZMDZYNjNtU1NzQ0ZEdjltUW9iNTNMcWxBUjRnaHhDTHZOWVpRZERlUVNZOVlEbWxYOEVnc1ZiaVExOURCUDJEb3JUVU85enpadENCelVxUVBqeWE3emNKdDVzYk1MaldQVDZwN0xXVnBLRkhhVFRJUnpLV0tCNVE5TEVQTFBDVDJWRzZFUkt5ek9HYkNuTkF4Tkl2TWVKTmo2TkpVeUtzcGdCSDVrMy1wZzFqRjdrUXk2X29fRkFDVFVZM3NrdGlZbTVjVTluUm5acndPS0JFb3VSYnhz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e0d6103b71a7",
+      "title": "Estudos de genética revelam como javalis urbanos e rurais estão se dividindo em populações biológicas distintas na Europa - Revista Amazônia",
+      "published": "2026-05-18T19:26:51+00:00",
+      "summary": "Estudos de genética revelam como javalis urbanos e rurais estão se dividindo em populações biológicas distintas na Europa&nbsp;&nbsp;Revista Amazônia",
+      "sources": [
+        {
+          "name": "Revista Amazônia",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdHlkMFZNSHhGQUM2NUU4RGU1M2JzdFFBMV8zd1lWUG5KdXVSZk9SNW1Tb05EeUdveVowbzFJRVQxclR5azVxUjFTS1VsZ2ZPTWUwWkxMX3djTS1sQUh5VjluZFhaSjA0R08wUGYxb1d1M1dZcnNmVkdvOTcyVGpuS0FaUDBkNUxtYVMzWThIVzVMMDFYdGJpSUdfVVdZalBmT1N2dHdVRkFfY243UnFwVG5RYk9ya3ZCUU9vSkw5aVkwSXRObFZxdW0yeGhHS3ZvdUE1bG80ZWo2d1llX2Ffc3c5bTZsRzlE?oc=5"
         }
       ]
     },
@@ -57,7 +81,7 @@
       "id": "aa82bf75cf1b",
       "title": "Nem toda dor de cabeça é normal: saiba quando pode indicar algo grave como aneurisma, AVC, meningite ou doenças neurológicas - Jornal Correio",
       "published": "2026-05-18T18:41:43+00:00",
-      "summary": "Nem toda dor de cabeça é normal: saiba quando pode indicar algo grave como aneurisma, AVC, meningite ou doenças neurológicas&nbsp;&nbsp;Jornal CorreioDor de cabeça frequente? Saiba quando a cefaleia exige atenção médica&nbsp;&nbsp;GZHDor de cabeça frequente pode esconder doenças silenciosas e especialistas alertam para sinais que exigem atenção médica imediata&nbsp;&nbsp;CPG Click Petróleo e GásAnalgésicos em excesso podem causar mais dor de cabeça; neurologista explica o efeito rebote&nbsp;&nbs",
+      "summary": "Nem toda dor de cabeça é normal: saiba quando pode indicar algo grave como aneurisma, AVC, meningite ou doenças neurológicas&nbsp;&nbsp;Jornal CorreioA enxaqueca recorrente não se deve apenas ao estresse, mas sim à hiperativação do nervo trigêmeo causada por desequilíbrios neuroquímicos&nbsp;&nbsp;Tua SaúdeDor de cabeça frequente? Saiba quando a cefaleia exige atenção médica&nbsp;&nbsp;GZHDor de cabeça frequente pode esconder doenças silenciosas e especialistas alertam para sinais que exigem ate",
       "sources": [
         {
           "name": "Jornal Correio",
@@ -74,6 +98,18 @@
         {
           "name": "Primeira Página",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUWVvU1NpWGV1YzAzSFROSGM4VVBZZ0JLTkFERFRvWFNYSXBNb3QwYkRmcnIwX3puR2NRVWxJdmNoYWZrQnltOUY1SU4wSDI3SnN0WWRLV1o4bjM4ODR0Qk9vSGZJVlgtdjJzTFZLNE8xTXpQLVBZZlA5RHFJTlZnZ0d4UWxUeVVacmN6ZG03ZVZpNkdCTFN1Z0xlMzY4WTJacWhZOFZTbVNYT3NaR1JGR1RHUVJTNkFNTXBhd204Rzg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6c9b9ddba7d9",
+      "title": "Fígado gorduroso: o estresse influencia o desenvolvimento da doença e pode afetar a saúde hepática, diz novo estudo - O GLOBO",
+      "published": "2026-05-18T14:56:06+00:00",
+      "summary": "Fígado gorduroso: o estresse influencia o desenvolvimento da doença e pode afetar a saúde hepática, diz novo estudo&nbsp;&nbsp;O GLOBO",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQbWYyZWJlX0xMVnd1MnZaVENCbEVzX0VkRW5WQ3B3UUFjWTZRaUdxcVM1VEc5TnVvTGNxbml1T3VEcXBscmR6WXRjS3ZmbWVoTmNwbWVkWVFPa2dpaUtpeE9JV1U4NGZTQVpuRU9PdE1fYi1VVGZmT05seTg2T2dBTEVveTQ1dG1rYUo0LVJYZ2thSGhxTjl3UzZSYi1EYVVQcHIzTG9NRjV4VU5DcmVjQlNlc3c1LTFHRXIweHJZVnh6VUZabENYaXFKRk9RUmg4ZWpoM2pPbjdCZWFaaS1SVi03cjk4bkZUcnpnSWswSHJjbkJJdlZJOVMtRXFpUdIBjAJBVV95cUxQekNIdDBzRU1mUHBDZk1aRUZxWExuRDFGWS1TdjlTZ1hmSFA3WDItYWxTcHdRSVZkNDVCcHZrM0NSMUdncXV2dTdHSnBZbl82YUNmQklUQkxyQnpMelJFZnBsUDZQWk9GY2NsNldBMjZtbVd6WTFzZklRaTR2dXhUemNfXzhjOG41SmdSSHY5a2Nmd2xWTVVwU2dOdXRJVlI2TFYzZFFfUDQ4aUlOaGhpZm5YT1JURnRpRlQ3eVJZV3NMM2VjaGExdDEweGdXanBWVHY0WnFUdkgtUkFNU2pKQnBxYTlXQWEwV1R3alV5TGllbmFKUEk3VF9Sel9PZDRSbFBPWE5OOTNNdHJC?oc=5"
         }
       ]
     },
@@ -102,10 +138,22 @@
       ]
     },
     {
+      "id": "7057b740f8aa",
+      "title": "Bill Gates cria exército de mosquitos contra epidemias - iG Último Segundo",
+      "published": "2026-05-18T12:54:00+00:00",
+      "summary": "Bill Gates cria exército de mosquitos contra epidemias&nbsp;&nbsp;iG Último Segundo'Fiquei muito surpreso': brasileiro entra na lista da Time das 100 pessoas mais influentes do mundo&nbsp;&nbsp;CBNMosquito “do bem” contra a dengue: como funciona e por que ainda não chegou a todo o Brasil&nbsp;&nbsp;R7Expansão de mosquito com bactéria para combater dengue esbarra em desafios&nbsp;&nbsp;Folha de S.PauloÉ o fim da picada?&nbsp;&nbsp;O Presente",
+      "sources": [
+        {
+          "name": "iG Último Segundo",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVFZ0NDRmWnhJMzEyLUQySHlPUllFT0VlMFRScTk2X1lzUW04c1RWNXJnRzlmcmNaWUJTLVQ1TElnaS1WRmVpWXZXRnVTbnBXRy1RLUhDZ1RNa2lDZ1AtSlQwUFVKQzZudk85bDlkQnlhRnB4SDlKRFYxb05ZeUh0RGh3d24zUDIwNWVnaEthTzlJWmVrYzNQRDY2a25JXzJsUXcwSEJyTDBfcTNY0gGyAUFVX3lxTFBYNXVKMkd1bl9yX0pMcnhfb3cyOFhjeXV1MERCMnU3OWdEbzdwUUVFdkJ3c000NkpDVDI0REJKUmVZcExjYThPQllkUGZEYW9XalZuTVdnM2I4dDk3MThHazliamhKbm1TU195NWlwTFc1dklpLW5reWxjYm5hMzQtMGhIZ1VOTE5jWUUyR0RDN0V1OHYybjY5SDNEU011WDJCU1VxQjVSRmp6THpaSFR1OVE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c8ce27f02073",
       "title": "Café aumenta a pressão arterial? Veja o que a ciência diz - Época Negócios",
       "published": "2026-05-18T11:51:08+00:00",
-      "summary": "Café aumenta a pressão arterial? Veja o que a ciência diz&nbsp;&nbsp;Época NegóciosApós estudo, verdadeiros impactos do café coado no organismo são revelados&nbsp;&nbsp;- Portal OCorreioO café não é vilão para quem tem algum tipo de arritmia cardíaca&nbsp;&nbsp;MedscapeQuantas xícaras de café por dia são o limite seguro para adultos com hipertensão leve para manter a energia sem elevar a pressão&nbsp;&nbsp;Brasil 247O café coado realmente faz tão mal a saúde cardiovascular&nbsp;&nbsp;Correio Bra",
+      "summary": "Café aumenta a pressão arterial? Veja o que a ciência diz&nbsp;&nbsp;Época NegóciosO café não é vilão para quem tem algum tipo de arritmia cardíaca&nbsp;&nbsp;MedscapeQuantas xícaras de café por dia são o limite seguro para adultos com hipertensão leve para manter a energia sem elevar a pressão&nbsp;&nbsp;Brasil 247O café coado realmente faz tão mal a saúde cardiovascular&nbsp;&nbsp;Correio Braziliense",
       "sources": [
         {
           "name": "Época Negócios",
@@ -210,13 +258,13 @@
       ]
     },
     {
-      "id": "38e24158fd4a",
-      "title": "Estresse das 'segundas-feiras': ansiedade do começo da semana pode durar meses, de acordo com estudo; entenda - O Globo",
+      "id": "ca08f9d81249",
+      "title": "Estresse das 'segundas-feiras': ansiedade do começo da semana pode durar meses, de acordo com estudo; entenda - O GLOBO",
       "published": "2026-05-18T07:30:44+00:00",
-      "summary": "Estresse das 'segundas-feiras': ansiedade do começo da semana pode durar meses, de acordo com estudo; entenda&nbsp;&nbsp;O GloboEstresse de segunda-feira pode afetar corpo por meses, diz estudo&nbsp;&nbsp;MetrópolesAnsiedade de segunda pode afetar saúde por meses, diz estudo&nbsp;&nbsp;Jornal A Estância de GuarujáEstresse das segundas-feiras: ansiedade do começo da semana pode durar meses&nbsp;&nbsp;Jornal da FrancaEstresse de segunda-feira pode afetar corpo por meses&nbsp;&nbsp;diariodopara.com",
+      "summary": "Estresse das 'segundas-feiras': ansiedade do começo da semana pode durar meses, de acordo com estudo; entenda&nbsp;&nbsp;O GLOBOEstresse de segunda-feira pode afetar corpo por meses, diz estudo&nbsp;&nbsp;MetrópolesAnsiedade de segunda pode afetar saúde por meses, diz estudo&nbsp;&nbsp;Jornal A Estância de GuarujáEstresse das segundas-feiras: ansiedade do começo da semana pode durar meses&nbsp;&nbsp;Jornal da FrancaEstresse de segunda-feira pode afetar corpo por meses&nbsp;&nbsp;diariodopara.com",
       "sources": [
         {
-          "name": "O Globo",
+          "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdHdZSl96UTRtSkg5alAyalBrLXF0SWx5NHg4aWhKN0pIVFNYOHJIMGFLLUEyRlBicHFNVTBtSFVrLUVldXNoRGF2Z01vdGJYSk5yZmMyaGljVmhGS05NRGFNYWR5aHcwNnRIempoUmJaYXdSRUxOczNPMTFadE55eGc3MnFaeEN0TG5zNk5FcjFNVE5DV21OWnhQZ2hPZFNpLUZJai13am9yZFM0ZG1JUDlJNGttc0czVUVlLS0xOEJIWnNuZlgxRTRHejFSQllITWZLVWxjMWpMVlJKOXprOHdVVFAzbkxLaEZlZWNjS0RpZ9IBgAJBVV95cUxNYkdDcVphMW1IQUZvVzJGZktNMndQQldsSWl6ME1CQUM1TXRya1JPc0tyQ0tOWTdDVTBBa1lMdDlMTTJPWWNxcm1Oa3VZbkFCMVNLX1g0ZndCRk00OVY5c01uYnlzYjdBMGRjVGZOZEFraF9FaXZ3cnU4VFoxWTFRaWVRb2hFOGxtTjJRZkZLM1dURmpUdEFIVDJqMXl5X0swNkVjU2haMml4X1NENkg5WjJzVjFBVHJIZUdPWkh2QVN1UjhCeVExX2RhUWd0bkVVT2ZLRWVfdWllZXZKVmNNWWhuZFAwdGFUQUV6Zk9VMHU2aEd5QW42M18zYlc1VFpW?oc=5"
         }
       ]
@@ -249,7 +297,7 @@
       "id": "d1a61c0e6565",
       "title": "Vacinação contra a gripe na cidade de SP começa para toda a população nesta segunda-feira - G1",
       "published": "2026-05-18T03:01:01+00:00",
-      "summary": "Vacinação contra a gripe na cidade de SP começa para toda a população nesta segunda-feira&nbsp;&nbsp;G1SP inicia na segunda vacinação contra influenza para toda população&nbsp;&nbsp;InfoMoneyFrio não afasta população e drive-thru aplica 2,4 mil vacinas contra a gripe em fim de semana&nbsp;&nbsp;MidiamaxGripe em SP: vacina é liberada para todos acima de 6 meses nesta segunda&nbsp;&nbsp;Gazeta de São PauloGripe: quase 26 milhões do grupo prioritário ainda não se vacinaram&nbsp;&nbsp;Agência Brasil",
+      "summary": "Vacinação contra a gripe na cidade de SP começa para toda a população nesta segunda-feira&nbsp;&nbsp;G1Petrópolis libera vacina contra a gripe para toda a população&nbsp;&nbsp;Extra onlineSP inicia na segunda vacinação contra influenza para toda população&nbsp;&nbsp;InfoMoneyPrefeitura amplia vacinação contra gripe para toda a população com mais de seis meses de idade&nbsp;&nbsp;PJF - Prefeitura de Juiz de ForaGripe: quase 26 milhões do grupo prioritário ainda não se vacinaram&nbsp;&nbsp;Agência",
       "sources": [
         {
           "name": "G1",
@@ -278,18 +326,6 @@
         {
           "name": "Superinteressante",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU21RbVhWdUtHOFliR0ZabjVBcjJvS0xXMHNKT2pHNllfODNaTXhuM2JWeXpiZ2R2emtaMU5hWXM3RTdOSE9vUmF3cG5zQ2kzZjNNWDBJVnczb0xreHpYR3pGTDc0RXk2Q3BiemEzejZvWEZlM1cyQmRIOF9ROW9iN2w2V00zbVRvNUhtNXoxbnpTN0lmQTZPYjl5aDhVRUNPZUlvSGhmZmdWWVhlSmR4d2E1ME5rcWlMa1E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9fbd25dbe432",
-      "title": "Cientistas revelam como sete dias de jejum transformam o corpo humano - Metrópoles",
-      "published": "2026-05-17T19:39:27+00:00",
-      "summary": "Cientistas revelam como sete dias de jejum transformam o corpo humano&nbsp;&nbsp;MetrópolesMaiores efeitos do jejum só aparecem após três dias sem comer, diz pesquisa&nbsp;&nbsp;ExameJejum intermitente sem romantização: o que estudos recentes dizem sobre coração, peso e risco metabólico&nbsp;&nbsp;Tua SaúdeEstudo revela transformações profundas no corpo humano após jejum de sete dias&nbsp;&nbsp;O CafezinhoJejum intermitente pode ajudar no emagrecimento, mas exige cuidado com coração e metabolism",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HUWdtbHFScnBPaFVNamVUTHZmcWQ5VjJuTnRMbUdEZ2FjNER1bVR5WlBHVDdHZFY0bS1jZXNydzdsT1FUUU9WUk5tVnBzdHlKUEFaTlBEU1VqV19nbnBLemQ4c0xGRlQ2akVsOHdtMA?oc=5"
         }
       ]
     },
@@ -330,50 +366,14 @@
       ]
     },
     {
-      "id": "9706861d6c2b",
-      "title": "Consumo de artes e cultura pode atrasar o envelhecimento, diz estudo - CNN Brasil",
-      "published": "2026-05-17T09:00:49+00:00",
-      "summary": "Consumo de artes e cultura pode atrasar o envelhecimento, diz estudo&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONHhyY19wZ1V1b2RMdXgzeUFubE1iN2ZuM1JNeF9ZeVNLU3BUZFc5X05ZSzhFdVFXM05sZ2I1ZzVJeC1jRExMcUFPNVVEY1kxUjV5SWxsNWhVOExUOFEyQmVPRzNMd1pEOHFleHFZUXJhdjgwbFVmSGlMZTRIM1JYUkp2RGFEZEs1ZWlCUXlUQ2c4Mm9ac3Zrd0xad3NEbm5wWUN1dTlR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8a5a209b408a",
       "title": "Você não vê, mas consome: o perigo dos microplásticos na saúde humana - Correio Braziliense",
       "published": "2026-05-17T09:00:00+00:00",
-      "summary": "Você não vê, mas consome: o perigo dos microplásticos na saúde humana&nbsp;&nbsp;Correio BrazilienseÉ possível fazer um “detox” de plástico? O que a ciência (ainda não) sabe&nbsp;&nbsp;F5 NewsMicroplásticos e fertilidade: o impacto invisível que pode chegar até o óvulo&nbsp;&nbsp;Veja SaúdeMicroplástico causa câncer? Entenda a relação com a 2ª doença que mais mata no mundo&nbsp;&nbsp;R7Nem só nos oceanos: microplásticos já foram encontrados no coração e em vasos sanguíneos&nbsp;&nbsp;Portal UAI",
+      "summary": "Você não vê, mas consome: o perigo dos microplásticos na saúde humana&nbsp;&nbsp;Correio BrazilienseÉ possível fazer um \"detox\" de plástico? O que a ciência (ainda não) sabe&nbsp;&nbsp;O POVOMicroplásticos e fertilidade: o impacto invisível que pode chegar até o óvulo&nbsp;&nbsp;Veja SaúdeMicroplástico causa câncer? Entenda a relação com a 2ª doença que mais mata no mundo&nbsp;&nbsp;R7Nem só nos oceanos: microplásticos já foram encontrados no coração e em vasos sanguíneos&nbsp;&nbsp;Portal UAI",
       "sources": [
         {
           "name": "Correio Braziliense",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPT25La1pGN0JMUVV4S0FWdEh0TGtBelJaaVFQZGJKRVVLaUE0ZU1BWVNCdTZ5TEVzQU5SZEVTb1JyalVVZUh4TWVrUUhBbDN6bjVRR3o1b2pFZ1V5MkxXLTR1TVA0c2ZyZV9HRHpzYzNiN3lsbGRreFlKckFnTWtZMUNvc29ZUWsxaWdNVW00UDRxM2F1X0V5NFlieWk4dDVkalBaQUVjRXQ5ZzZ1YllXYVBRdEFFdVMwbm4xVHpvd24zT2VZRjJXVHNRZzdPRHhFYzJpQkQ2eTRKSkpIWXfSAeMBQVVfeXFMUGIxWGxwdGhDcGpScHQ1ZXZCZVdNSHhFNmFldUFUMWMtenVUa3FsWUNnQzFMbC1GVkhPcWctZVREQlNqcmlVRDdHSUQ1cmJySElpRmMxTDJwOUlDdlFmU3poZ19kazRsai1GTnctbnRWZy14WXVmc3FmSmlvOGxyc2FKNEc3Z2NTVVNjdkJNR3RteGpPUk1aVFlMcXprbWVNS2IyNEFjUjJRejgyU2RFWFllcEJqeEQ5WHBRSHB1VmNlM2NuUEt1RmhhdGhsd1BYYi1MVzhrS3VhOGJ0VmIzaExqcWs?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3ca3bf6a641b",
-      "title": "Metade dos ratos de laboratório não são quem cientistas pensam, diz estudo - CNN Brasil",
-      "published": "2026-05-17T06:33:25+00:00",
-      "summary": "Metade dos ratos de laboratório não são quem cientistas pensam, diz estudo&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSVRBRXV5VXBUNF8zQjUtMVdoamgtczluQU1zOGExNi1xQ015dF9SdmlIVjVmTnBKMjFzSS1OMTdVS2ZQeWtvR1lMejhpUFdlZ0dSU3Z2ckhwQnpzUHZlMVdUZDEtd1l4U1hPV1p5aGxqSFRYcThjaXpuTVJBLXZkckNjUWd1dW02d0JwNHpNTE5abDl3ZGVvVDdGVnJ4SEpEeC1uTURHdGhxZjZDTzhYRg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fd9c96b18478",
-      "title": "Harvard divulga estudo sobre pior hábito noturno para saúde do coração - Metrópoles",
-      "published": "2026-05-17T05:00:00+00:00",
-      "summary": "Harvard divulga estudo sobre pior hábito noturno para saúde do coração&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaGtieHFISWVkWVJCZUlXeDlnMWI4SjZZYkNHdXFGd04zbUU4MFpTR3hYNnhfSDJxUm5DMG5MczNIeDJ4YlNZdVdqWGZiNFFBaTZ3Yl93NkpkZFZacVpMeUtGRG9vSUFmdkhYM1RHWUdpcUhoTlBZYlM1YWx2OHlJakRHWUY3RU1aWlpWbmJkZElrSGE4TEJZQ1VWX0diMHVsWExkdmhheUZKNFNUVnZhWHNEZURqNHU3bmg3RG5yaw?oc=5"
         }
       ]
     }
