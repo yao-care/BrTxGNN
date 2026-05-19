@@ -1,19 +1,79 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-05-18T19:46:58.442050+00:00",
-  "total_fetched": 94,
-  "unique_count": 94,
-  "health_related_count": 30,
+  "fetched_at": "2026-05-19T03:47:30.640843+00:00",
+  "total_fetched": 92,
+  "unique_count": 90,
+  "health_related_count": 31,
   "news": [
     {
-      "id": "bd9815bc3feb",
-      "title": "Anvisa recolhe lotes de remédio para colesterol e corticoide; saiba quais - CNN Brasil",
-      "published": "2026-05-18T15:48:39+00:00",
-      "summary": "Anvisa recolhe lotes de remédio para colesterol e corticoide; saiba quais&nbsp;&nbsp;CNN BrasilAnvisa suspende remédios para colesterol e dexametasona: veja se seu medicamento está na lista&nbsp;&nbsp;Veja SaúdeCimed e Hypofarma anunciam recolhimento de lotes de medicamentos; veja quais&nbsp;&nbsp;InfoMoneyLotes dos remédios atorvastatina e rosuvastatina são recolhidos&nbsp;&nbsp;Portal iGAnvisa recolhe lotes de atorvastatina, rosuvastatina e dexametasona; veja quais&nbsp;&nbsp;SBT News",
+      "id": "1440ad80e280",
+      "title": "Surto de ebola: pelo menos 100 mortes registradas na República Democrática do Congo e 6 americanos expostos ao vírus - BBC",
+      "published": "2026-05-18T23:47:49+00:00",
+      "summary": "Surto de ebola: pelo menos 100 mortes registradas na República Democrática do Congo e 6 americanos expostos ao vírus&nbsp;&nbsp;BBCOMS decreta 9ª emergência global da história; relembre outras ocasiões&nbsp;&nbsp;CNN BrasilEUA anunciam restrições a viajantes de 3 países africanos após surto de ebola no Congo&nbsp;&nbsp;Folha de S.PauloO país que vai disputar a Copa do Mundo e virou epicentro de uma grave doença viral&nbsp;&nbsp;VEJASurto de Ebola já deixou ao menos 100 mortos na República Democr",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSVpYNmlQN1FZQWlvWk5YZEtxbEx4SUN6S2VJM2JLQVRyVGpEVkRNU2RzVC0zR0N6RkdSWm95Wjc0cWlLaHluWmk3ZGJ1Q1RFR1ByN0tsQ3Y0TlBIbWZzSEpDeTduN0hOLW9icnVkbWJDM3FQLWVadk41dlh1UVdBM3MxdDREcjA1VE9nYkFta1p2cFIwbjFjVEFlWEw5YmFLZEVjTWVMMlk1dGRp?oc=5"
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5tZkJpdGZvX09vcGVSRFNnLUJpSHhBY3FldlY0dm1WeDh1Ti1WbWc2WmoyMjVUVktmZExGQkpfcnJDclUwOURHWnJnM3U3WTJHOUtxVU9JSmMwZC13Q2toZkxB0gFnQVVfeXFMTW5zNHBVZVFhTC05NTJBX05CeTdZd1dwSmRKWmRCcmxrbWRrQksyWmpRVWNVUENEeFI3S2RGOWpQcEVKYjZXdFJaMHFibjc2bWdWSVREQUhJWEJwMXMzR2NTdGhsbTJRZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0be462171e7e",
+      "title": "Cor da bebida pode influenciar sintomas da ressaca: veja os 'piores' drinks - UOL",
+      "published": "2026-05-18T21:38:46+00:00",
+      "summary": "Cor da bebida pode influenciar sintomas da ressaca: veja os 'piores' drinks&nbsp;&nbsp;UOL",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeXlWcGtQTW5LelY1cmZrWTFJZjE0bllxYjNSclJyV3hfYzhiOVZITE0xMFRrMDN6cE4xaGdXa3hfRVpYVWt3OE91cF9PS01PMzJDT09YbVhocmhQVU93ZjA2dmxINGlQQWVOQjhScld4RHoxaVJXcEFYUFNNRHlqZEh1Yld3ejFQNmxQbzdvWERDcXF4UFpaV3dNVjJDdkFkVEtTQWtJLXRDWFJkamZnM3JjOGVMYUw0bGlMQ1A4Wl9DUjdvcWhabXp1YkpSUFFvOXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0b90d1ee3d8b",
+      "title": "Os 3 benefícios que fazem da sardinha um aliado da saúde - Diário do Centro do Mundo",
+      "published": "2026-05-18T19:15:39+00:00",
+      "summary": "Os 3 benefícios que fazem da sardinha um aliado da saúde&nbsp;&nbsp;Diário do Centro do Mundo3 motivos por que as sardinhas são um alimento barato e ideal para sua saúde&nbsp;&nbsp;BBCPor que comer sardinha faz bem para a saúde - 18/05/2026 - Saude&nbsp;&nbsp;UOLNutricionistas recomendam: comer sardinha 2 vezes por semana pode ser uma opção econômica para uma rotina saudável&nbsp;&nbsp;Correio BrazilienseCom bom custo-benefício, o consumo de sardinhas oferece múltiplos benefícios à saúde.&nbsp;&",
+      "sources": [
+        {
+          "name": "Diário do Centro do Mundo",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSTRpdjA2MVR1QzJTdF9sRzFoTVJsc2VvaG5SN3B5amVRMXdhRG1KOUZLWkotVjdvU21OWnlWb2lmbDZacm5GSlRSWmNRTlFTMmRpc0RFTklraFZrWUZyaVVrQmdfZ1RXSGtwbk95REV3RUNtMFRtSnQ5bk03ZlkwVVF2Nk5DQVhycGs4aFpCcW90eGRRSXc2S0prNjlUVk1QQms3b3NOY19LY2o1?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a0d1bb832964",
+      "title": "Nova espécie de água-viva mortal é descoberta; veja detalhes - Correio Braziliense",
+      "published": "2026-05-18T18:54:00+00:00",
+      "summary": "Nova espécie de água-viva mortal é descoberta; veja detalhes&nbsp;&nbsp;Correio Braziliense",
+      "sources": [
+        {
+          "name": "Correio Braziliense",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObWVrczEyckItZXBVZDdXOWExZWFPYUhqSlZxWXBvUXpLY2JXcHczc2xXUTdJZXJRVkVGVDRHZTA2N01MYzgtMi05WGwxRkFmUk9Lb0lOb0pIdXBhVkE1VEM5N1JubndSYjltTzZFalBlTDlUTThRSXRiRU1TdEs5RF96aXhUUk8yNHc3U2d5TTVoT2h3RHE1RUNpRXlqTzVidFJWTC1SSDBKQV9MNzBKRWZJeXZpVktHa0cyS2s5cWRUdU5oWGo3SWlaUi04NWvSAdQBQVVfeXFMTVU2U2s5UmFYTzFDdTdoZmdlVlFJbENEajVDRkhKeVdDVU03ZHp3Q2c5bUNGMU1HSWEtbENZR1U1cnU0TjZrbUU5OXZmSy1WV04wS3djLTBfQTdqQVJKYzZ4N0pBSVg2bm9zYkVUX21CaEJUMFNyNVlXZ3ZsY0o4RkpVUDFlaFlLV2FicHdwbUZXNjNyUmxMcW5jaWllTVBZZnpMTVJlTEJhYll4UWZ5UkxCTzZ3bEhIbGd3WUJXU2RKMU5VcnRLVjVGdTFwQmhKTjYwelc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "aa82bf75cf1b",
+      "title": "Nem toda dor de cabeça é normal: saiba quando pode indicar algo grave como aneurisma, AVC, meningite ou doenças neurológicas - Jornal Correio",
+      "published": "2026-05-18T18:41:43+00:00",
+      "summary": "Nem toda dor de cabeça é normal: saiba quando pode indicar algo grave como aneurisma, AVC, meningite ou doenças neurológicas&nbsp;&nbsp;Jornal CorreioDor de cabeça frequente? Saiba quando a cefaleia exige atenção médica&nbsp;&nbsp;GZHDor de cabeça frequente pode esconder doenças silenciosas e especialistas alertam para sinais que exigem atenção médica imediata&nbsp;&nbsp;CPG Click Petróleo e GásAnalgésicos em excesso podem causar mais dor de cabeça; neurologista explica o efeito rebote&nbsp;&nbs",
+      "sources": [
+        {
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxON0VoTmhscE9Fb1FnMG9yMlNWRWlzT1Rlb01Ral9IaU0xcXoydkVOdjNxOGt6ZGt3Q285bHpvMlQzQ3EtMFVvOFBEZkhqblY5bHotV2dSVUxrd1drWXc0RGhsRG1RWUJ6a0FWUjFkUno2aWNQdlR2Q2cxYzVmcnhoTW8zUzlJTGprQlZsNUtNWUVIY0pXby1LMmlJOFlUUWlTMTFpWTVBU0Zncml0VnpJWFlJU0k1TTF2N3F5a3ZOdWprc1lpdTktelkzRGo1M0ZMTkxpdjM2RUVvVzEzX0F0dTYwV1RRMVhjV1VoVm9FTTJ5bVc3ZFdUZTFn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "27b5fcaf787f",
+      "title": "De graça: Senac abre 115 vagas em cursos de beleza, informática e cuidador - Primeira Página",
+      "published": "2026-05-18T18:07:42+00:00",
+      "summary": "De graça: Senac abre 115 vagas em cursos de beleza, informática e cuidador&nbsp;&nbsp;Primeira Página",
+      "sources": [
+        {
+          "name": "Primeira Página",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUWVvU1NpWGV1YzAzSFROSGM4VVBZZ0JLTkFERFRvWFNYSXBNb3QwYkRmcnIwX3puR2NRVWxJdmNoYWZrQnltOUY1SU4wSDI3SnN0WWRLV1o4bjM4ODR0Qk9vSGZJVlgtdjJzTFZLNE8xTXpQLVBZZlA5RHFJTlZnZ0d4UWxUeVVacmN6ZG03ZVZpNkdCTFN1Z0xlMzY4WTJacWhZOFZTbVNYT3NaR1JGR1RHUVJTNkFNTXBhd204Rzg?oc=5"
         }
       ]
     },
@@ -30,38 +90,26 @@
       ]
     },
     {
-      "id": "fec2e4a6baea",
-      "title": "Quanto você se exercita não é tão importante quanto a regularidade da atividade - Tua Saúde",
-      "published": "2026-05-18T11:20:00+00:00",
-      "summary": "Quanto você se exercita não é tão importante quanto a regularidade da atividade&nbsp;&nbsp;Tua Saúde",
+      "id": "583913f1b040",
+      "title": "Hepatologista explica como a água ajuda a reduzir a gordura no fígado - Metrópoles",
+      "published": "2026-05-18T13:35:00+00:00",
+      "summary": "Hepatologista explica como a água ajuda a reduzir a gordura no fígado&nbsp;&nbsp;MetrópolesFrutas que ajudam na prevenção de doenças do fígado&nbsp;&nbsp;Correio BrazilienseFígado também sofre com excesso de açúcar e médica faz alerta&nbsp;&nbsp;Notícias de Cordeirópolis-SP5 alimentos que podem reverter gordura no fígado com eficácia&nbsp;&nbsp;diário do estadoFazem mal ao órgão: fuja destes alimentos para evitar gordura no fígado&nbsp;&nbsp;Metrópoles",
       "sources": [
         {
-          "name": "Tua Saúde",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaWNfVmNKRlo1TWduQjNoZTVaVWJwZTdHTjhJeUdVWWdRMkdPay1KYWtKV2ZZQjZ5dWFGZmxqTHE1anI1blBram5ac0JJT0JGSHhTcUw4Nk5oLUdsNWJIYU4xMGwwOWVaM0dmcVlPYkZHSUxMRmFhQjVHbjVUTGsyQkhwQnk2TzVUem5xTXh2STROaHdpVHhoS29DNS1McVZLZkVPV2tkS2FhbHZVWEo4N2pGMzAxMjV1cXUzeVpB?oc=5"
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVm1iLTljREItZmdIaWpsZFg3YnB5MEhnUF9pM0RSVDQtNGlCR00yTVlaRjN0WGtNNzZIQWM2R1BYcVVQcDVhNUQ0dDZyS1NHaTB0NTdzTW0tR0NWN0RWSXZkeEpYbFdrcXVMNU1PTjRyZ1dBbUQ1MVg3ZkJ3T0d3QWJva21mMkhjMW1oT1pUYTNPQXdTNDBmQ1Rkb3FhRk40UEs3bDMteDI5dzc3VVBCeFNrQ0Itb2M4OGpoSFN3?oc=5"
         }
       ]
     },
     {
-      "id": "056320981589",
-      "title": "Ebola é decretada emergência de saúde internacional após 80 mortes; veja outras vezes em que estágio máximo de alerta foi usado pela OMS - O Globo",
-      "published": "2026-05-18T11:17:24+00:00",
-      "summary": "Ebola é decretada emergência de saúde internacional após 80 mortes; veja outras vezes em que estágio máximo de alerta foi usado pela OMS&nbsp;&nbsp;O GloboSurto de Ebola já deixou ao menos 100 mortos na República Democrática do Congo; CDC confirma caso em profissional dos EUA&nbsp;&nbsp;G1O país que vai disputar a Copa do Mundo e virou epicentro de uma grave doença viral&nbsp;&nbsp;VEJAO que sabemos sobre o surto de Ebola que a OMS declarou emergência global&nbsp;&nbsp;CNN BrasilOMS declara emer",
+      "id": "c8ce27f02073",
+      "title": "Café aumenta a pressão arterial? Veja o que a ciência diz - Época Negócios",
+      "published": "2026-05-18T11:51:08+00:00",
+      "summary": "Café aumenta a pressão arterial? Veja o que a ciência diz&nbsp;&nbsp;Época NegóciosApós estudo, verdadeiros impactos do café coado no organismo são revelados&nbsp;&nbsp;- Portal OCorreioO café não é vilão para quem tem algum tipo de arritmia cardíaca&nbsp;&nbsp;MedscapeQuantas xícaras de café por dia são o limite seguro para adultos com hipertensão leve para manter a energia sem elevar a pressão&nbsp;&nbsp;Brasil 247O café coado realmente faz tão mal a saúde cardiovascular&nbsp;&nbsp;Correio Bra",
       "sources": [
         {
-          "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNQURLZnNGYlpFWUFxQXBHZ1pEaV9NdEhUU0JicG9sN0FaZTBicVhmdmJ4XzY3Si05bEwtbTFDREpabTJpeDJiZDk0VC1SVEhHRTdkUGFmTFVYX0ttZFVoOFZKRU9sS0ROR2p2WWpmNFRrcjk4N2lRRzZDNlV6N0ZkRk92Uk81TmRmRUVNQm12S1kyeWVGcnl0ZV9oWDlFRVRGLUUzMW4wX3R6WE16WHBCblBNdEtWX2x1UXpaZkllNkpIWVl2Q21MWDg1RHJoeENvUmhQc01OMzdhelUxYV9WSUVGRXlKR2ppZm43eHctYlJHc1pBUkg1a3kzbzU2UXJLLUtSd2ZKdUd6MnBTUlhCcmJGQ3BEb2lpNHRF0gGqAkFVX3lxTFB2M3dDaXJyZkdsTjhYWE5qZWlHbENRWHBVNmVDbXJQVlZEYUhDNnNpa1ZaRVNjLWp2aFdhb0NGTk9wc2tXSzlPWnAzSkJXWGF1anhsc2lXbTR2TGdOck85cFVfa3NVRjN5MXV4ellUOEF0V3NTQVhiNWlWLWJSQnk5VDJDbXZwTGpxUFdhQ1FKUlFoY1dBYUJEa1d0cENjTEVBMkZEcnZpQXFKX2lIbDFYbjVyZWdiXzMwckV2VkN1bUtjanhxNEQtbUlia1RWRnBFd0ROUGozWFR2eFNWN1YwbzVWd2ZWMFJVOGVIakdhVWNoTlhmOHlYb0VqZ25keEppOGN6Umh1cVVIUXpJQWtlbzV2WS1hU3pXTVpReno3UWpyVmc4UkNMX1E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9d12c5a5498f",
-      "title": "Trabalhador em parada cardíaca é salvo após remédio ser levado de helicóptero no ES - Tribuna Online",
-      "published": "2026-05-18T11:17:14+00:00",
-      "summary": "Trabalhador em parada cardíaca é salvo após remédio ser levado de helicóptero no ES&nbsp;&nbsp;Tribuna Online",
-      "sources": [
-        {
-          "name": "Tribuna Online",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMHVoYUZiUHpLT3drWkZkeThhMG45TndVeXdfaF9ndjZvYTJWUzlmNzB4QjdnYU1oaUlPVFl3d09BekJwQkh4bWlpZDhsRmt6ZzlfWGllVXZkaHJ4UDJXamNyaUFGb0NhZ1JXYVZjVzMxY2lkS0U2eXRCbERWMHhELTBxZ0tPWG5uaC12c2x6NkdkUUM1dG9XeXp4ckIwWEVQS2p6NXlmdUM0bkZISWg1V1VBUmEtOXZqNjgtdVB1V3l4aFlUUmUzLVVfM3FXQ2dWQWfSAdoBQVVfeXFMTk91RnBOdnlXaDF2aVZYSm9pM182ck1ELW9VUmJTckcxRG9uZVdDUHdpSzZNTGN4S0lrV1Y0dFFGemxkU3BjQ05yQnZOWUhRdDI4ZlFRckZReHNnVFRSNnZkSkJ2TXlrTGEzbDJGeTg4eGtZVU1vQkV0WkQyRGlncDhRaW9pZWdQN3NPTjQ5WnBEdXl3UHlRQU9IRlNqSzBPV2JxVFRzeEROQ2pvSDNFTE44cG4zTE1xbzgwbHBZQ3BYMXdrbnZqcklCeE9qTDl4T0twWWh1Z0lMSWc?oc=5"
+          "name": "Época Negócios",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYXg4SVI2TE5Dal9YQWhfRE1IdUtub1U5eHZ6TUxOR0lTRVJ0c3FLOU5fOUstc0Rydm92TnFJUlhRNDZDUlBWZl96ajR6STNIcGlWMGFXdVNlMVVBclhSQVRSLUlZMjNGUEVHdGlBZFltaUpIcWx5S3hqNkdHcW1MV2k0UC1pczZ5aXlRVUhyTHlLUEtJTktZMXRjZnMzSm1sNVJ4ekpGeTRndVF5QlN3YjN5T01GaHpFMTBJYy1wQUJRWjhF0gHTAUFVX3lxTE9yV2JLUWZPTWdDaWN5WXM1WFE5eWQzcDlyZ0p1eVVUcVM0WHlFUWRkVFdaZmdieXV0UlpXMTRJX0lfbWlRVFBmS0M4bHIyT3RYb0FDUVRuSW85b2lZdWtwZk1aMTZVMTlvUzBkX3lyX0RRQkFfMTM0UWdHbHVGMWs3X2JJekxsdEZ1ZzZfSEstOGVIR3FpdGNNNDlvUU04VDZ5bDFQVWdKc1I2WkhCaHBfYVVXYXVkQXd6NWk0Qkhyak44ZHVVRWtoWWtSVnVTTG1USXc?oc=5"
         }
       ]
     },
@@ -114,6 +162,42 @@
       ]
     },
     {
+      "id": "29441338942e",
+      "title": "Veja quem pode ser voluntário da nova vacina contra a gripe - Tribuna Online",
+      "published": "2026-05-18T09:00:00+00:00",
+      "summary": "Veja quem pode ser voluntário da nova vacina contra a gripe&nbsp;&nbsp;Tribuna Online",
+      "sources": [
+        {
+          "name": "Tribuna Online",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbXJVc194Wm5BeGVEVm40aUZHZGhmbDlLLXRpczVlNnMzcEZ0UzJ1RDFBaU54TVRmQ2JvWGd3TmJaQ1F0UmRvemhiN0FoYUNSUnhpa1VJMm5iXzBHRmFMR3pPRmF5WFZMTXdEaGNxd3RMM1lBQ0MwQVV0ZjMyQ1FTOVk1ZGYwVU9qSHpoVWcxT2NWNXJVU0daYmRWNjh0dThoTm9n0gGrAUFVX3lxTFB3VmRJWG5aRGlMWlhmYkdQT1FWeTAyRUtUUDdOYldLbFBDbmlTYjZWdG1sS1UxRE1YLW1paTAzYnEzZlRkWFBMM196UEczTVd2TXg3TmhnSm84dHI3UUt5SnFDNjFvS2V2M1A5bGVTMW1Yb3hyclJHMjhVUUpqblppWG8xbU4tOUxZb01sMVo1TFU4RlVoUnVlVGgzcTAyUGhQOEJjMl8tOXc3Yw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9afd925b60ea",
+      "title": "Guia do Supermercado: Alergia alimentar: o que os alertas dos rótulos significam - UOL",
+      "published": "2026-05-18T08:30:00+00:00",
+      "summary": "Guia do Supermercado: Alergia alimentar: o que os alertas dos rótulos significam&nbsp;&nbsp;UOLUma alergia alimentar pode virar emergência na escola: médica explica o que fazer&nbsp;&nbsp;TerraCurioso por Ciência #109: Alergia alimentar infantil ainda desafia diagnóstico médico&nbsp;&nbsp;Jornal da USPAlergia alimentar: como reconhecer os sinais e quando procurar ajuda&nbsp;&nbsp;mauricioaraya.comSaiba como substituir alimentos que causam alergias; especialista alerta sobre sintomas&nbsp;&nbsp;T",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYVo2Y0NDRTF5enp0cDlsRDg3RjFfZUtaSTVfUXNrV21uTEo2RmVqS0IzcVRxTU51TG04MXZ1UXFvWURIYkRVYk1Ra2VSaWIxckpzRk0wTlpkVjliV29xUUl3Z1k4RV9fQmhMT3V6N0NXWEktTHdUQVplenBQTEltNWdrWXQ5V0VQYmtWMllUSVB5QzVYNHJLa0NnR3VVck1UMzFCY2FwZFlVeVdscjhsRUxQdC11ZTFkSGl6MnBSSVQwRkZHTGNINDVRUnI?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9a8e6ad686ad",
+      "title": "UFPE inaugura Museu de Ciências Exatas com planetário e laboratórios abertos ao público - G1",
+      "published": "2026-05-18T08:04:01+00:00",
+      "summary": "UFPE inaugura Museu de Ciências Exatas com planetário e laboratórios abertos ao público&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZnh1WDM1WkNqakxXNVNGaWFyUktXWGJoRThab1lzSzUxeWdqd0NDNFdYWUp4RjNFa2xjM29hUWZhdUVIS25QTHViemVJTTlpT1JOMEZqNzZqc0g5R0FaOVJsU3pzUkNCYlVFMWFiQ3dOdVhXdzVlYWNVWHJvbWhJRE5FQ1A5ZW9JcFU4SURoaXh4c3l0Q1hFcjRxQWdyVGhXUXhGVkhUbTRJVGJmSU1IaEdsSEpLTlF3NG96QWFyemhpMDREUzZ0b3Nhcm9xZjVVdHlPRTFXeE5nU2pVU2lBctIB7wFBVV95cUxQb2tWQjBfclMtaHNxNlFaOHNBdkhQMVVwVERyTlNoc3V0QVVwYmk3eWNoOVVwNElKTUdjY3ZnRDV4U3pkcTdESUEyUTJOWERUWUw2amhWNFo5MkxSVm5xX1J3dFktdDc4Y09LeTROSzBiOTRpR1VucW5sbnRGSHJYNUN3RjJRckh5SkJpdlNPV0RmZzdfd0ZfN3pzOURjZ2Rnbmx1MEZyanUxSzJybWR1MjFWdVZGTEpFc0lhWm00WGJkWGpCYUhBTEFRR3l4Wk95MGZ5U3R4N3RsdGd1SWNQT3N0MHhDNklaRk0taU5UVQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c68650c5e701",
       "title": "Neurocientista irlandesa dá cinco dicas para melhorar a memória – a primeira é guardar o celular - UOL",
       "published": "2026-05-18T07:37:29+00:00",
@@ -150,14 +234,14 @@
       ]
     },
     {
-      "id": "b470ee34d179",
-      "title": "Fazem mal ao órgão: fuja destes alimentos para evitar gordura no fígado - Metrópoles",
-      "published": "2026-05-18T05:00:55+00:00",
-      "summary": "Fazem mal ao órgão: fuja destes alimentos para evitar gordura no fígado&nbsp;&nbsp;MetrópolesHepatologista explica como a água ajuda a reduzir a gordura no fígado&nbsp;&nbsp;MetrópolesFrutas que ajudam na prevenção de doenças do fígado&nbsp;&nbsp;Correio BrazilienseFígado também sofre com excesso de açúcar e médica faz alerta&nbsp;&nbsp;Notícias de Cordeirópolis-SP5 alimentos que podem reverter gordura no fígado com eficácia&nbsp;&nbsp;diário do estado",
+      "id": "28b4246e34e5",
+      "title": "Como as canetas emagrecedoras funcionam? - R7",
+      "published": "2026-05-18T05:00:00+00:00",
+      "summary": "Como as canetas emagrecedoras funcionam?&nbsp;&nbsp;R7Vida após a \"caneta\": veja 4 estratégias para evitar efeito rebote&nbsp;&nbsp;MetrópolesJBS: Canetas emagrecedoras aceleram \"demais\" consumo de proteína&nbsp;&nbsp;CNN BrasilCanetas Emagrecedoras: especialistas alertam para uso consciente, riscos e a necessidade de mudar hábitos&nbsp;&nbsp;Rádio UirapuruAlimentação na era do GLP-1 [Ebook]&nbsp;&nbsp;foodconnection.com.br",
       "sources": [
         {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeThCdEtCbFV4ckxBYUxjOEdiNlVEeFV2OWZXN3E2ZnN4UUFXU0lnelRqQ1F3c1JuRHBsbEE3NE5wUUNBc2h4LTNiRUlnQjA3RndzY21ma2RYTXVERHgwdFd5LWhjbEFoRFZBTjBOUTdfSmQ3aV8zb1U0MDhyckZXblhDOVVEUHBXSlQ3OFNlTHQ4anQ3Zmo4QU9LeTByZDZsVjlaVFlGbmVyalhiNGpTdg?oc=5"
+          "name": "R7",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObnExU0ctdzNaeUh1YTVsUGJCeHJvZU5EbFRSSDM1WU1lODBxaDZYbC1xNzM2b3VXZkxGMzRGcjdpYl9SczNqN0VuQU9PVGxuUDZFR0g1LVh1bkJTQzFsZUZVUmFUUjNNSlZoa1dFbk4yYTVXRTh0Q0xwV21rZmFSdlV4eW5mZmdYcXhhaDdQaG5oVGVZcWlOVWFn?oc=5"
         }
       ]
     },
@@ -165,7 +249,7 @@
       "id": "d1a61c0e6565",
       "title": "Vacinação contra a gripe na cidade de SP começa para toda a população nesta segunda-feira - G1",
       "published": "2026-05-18T03:01:01+00:00",
-      "summary": "Vacinação contra a gripe na cidade de SP começa para toda a população nesta segunda-feira&nbsp;&nbsp;G1Vacinação contra gripe é ampliada para toda a população&nbsp;&nbsp;G1SP inicia na segunda vacinação contra influenza para toda população&nbsp;&nbsp;InfoMoneyDrive-thru de vacinação aplica 2,4 mil doses contra gripe&nbsp;&nbsp;Campo Grande NewsVacina contra a gripe é liberada para toda a população em SP; saiba onde ir&nbsp;&nbsp;VEJA SÃO PAULO",
+      "summary": "Vacinação contra a gripe na cidade de SP começa para toda a população nesta segunda-feira&nbsp;&nbsp;G1SP inicia na segunda vacinação contra influenza para toda população&nbsp;&nbsp;InfoMoneyFrio não afasta população e drive-thru aplica 2,4 mil vacinas contra a gripe em fim de semana&nbsp;&nbsp;MidiamaxGripe em SP: vacina é liberada para todos acima de 6 meses nesta segunda&nbsp;&nbsp;Gazeta de São PauloGripe: quase 26 milhões do grupo prioritário ainda não se vacinaram&nbsp;&nbsp;Agência Brasil",
       "sources": [
         {
           "name": "G1",
@@ -198,26 +282,14 @@
       ]
     },
     {
-      "id": "292ddd62c81f",
-      "title": "São Paulo surpreende o mundo com obra bilionária de R$ 4,2 bilhões: primeiro túnel submerso do Brasil terá 1,5 km de extensão, 870 metros debaixo d’água e promete acabar com a histórica dependência das balsas entre Santos e Guarujá - CPG Click Petróleo e Gás",
-      "published": "2026-05-17T22:50:00+00:00",
-      "summary": "São Paulo surpreende o mundo com obra bilionária de R$ 4,2 bilhões: primeiro túnel submerso do Brasil terá 1,5 km de extensão, 870 metros debaixo d’água e promete acabar com a histórica dependência das balsas entre Santos e Guarujá&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "id": "9fbd25dbe432",
+      "title": "Cientistas revelam como sete dias de jejum transformam o corpo humano - Metrópoles",
+      "published": "2026-05-17T19:39:27+00:00",
+      "summary": "Cientistas revelam como sete dias de jejum transformam o corpo humano&nbsp;&nbsp;MetrópolesMaiores efeitos do jejum só aparecem após três dias sem comer, diz pesquisa&nbsp;&nbsp;ExameJejum intermitente sem romantização: o que estudos recentes dizem sobre coração, peso e risco metabólico&nbsp;&nbsp;Tua SaúdeEstudo revela transformações profundas no corpo humano após jejum de sete dias&nbsp;&nbsp;O CafezinhoJejum intermitente pode ajudar no emagrecimento, mas exige cuidado com coração e metabolism",
       "sources": [
         {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxObGxFVHJyVmR3MmxkZWkyelJXODNXYWd0X2luYlg3M19rcXplczJhakc1TlFxXzFFMHBKNi1qTklDb0E3WGJBd1Y3R2VOeWlLc0tmRWRqd01wMVN2bWhBb3BUTnZUbGNsMmh0Tzc4d3BENDN2d2RjQmcyY1ZvNjFCV3hjX3FLaWNxTjVTUWxBZGxrTlRBREhaRVdFT0Jmems0b05qSTFPMkxTZ3JMZW1EVC0zaWlocVlIR1NGOEV6OGFwQXlDcnZFQ01tdlNONF9Sa3NnamJlODdfblR0WW05aTcyOHZGZ1dCR21raml0alIzQ1RXZmxOekFxblFNVmpWaHZqa0JYZ0dNMWdsanFUa2hrTGtYMmNaZVAtLXR0OVFvbFBvaXNEM3dQV3FkQU9HakJoT3Y4WkJ2bGszWTFxRy1MOGJnMTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "db6938692a47",
-      "title": "Cientistas confirmam pela primeira vez a presença de uma grande caverna vulcânica em Vênus - Catraca Livre",
-      "published": "2026-05-17T18:39:51+00:00",
-      "summary": "Cientistas confirmam pela primeira vez a presença de uma grande caverna vulcânica em Vênus&nbsp;&nbsp;Catraca Livre",
-      "sources": [
-        {
-          "name": "Catraca Livre",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPczF2RUU3RDF4RFNQTHZKcDFCTF9pUlY3cWJNVkNyRWFkeVNqUUhtZmUwcGRTMVJWaEdsNjZFUUI1TWYxbEM4bHZDMHA5SmhuMF9uSlZYdGRiXzlmSVl3M2QtZ05rQkVCMEFqZVpHZ19zQ2RKenRZUDNGa0RKbTBtWlAxd2hEdFA0X1c3bWJDd0k0dVZuR1RnbDFJc1dfVERnb1lGaGlITTl6NGNsdVBEY0FhV05tQ01ZdnNVV015UlBENmlZdTQ0?oc=5"
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HUWdtbHFScnBPaFVNamVUTHZmcWQ5VjJuTnRMbUdEZ2FjNER1bVR5WlBHVDdHZFY0bS1jZXNydzdsT1FUUU9WUk5tVnBzdHlKUEFaTlBEU1VqV19nbnBLemQ4c0xGRlQ2akVsOHdtMA?oc=5"
         }
       ]
     },
@@ -237,23 +309,11 @@
       "id": "1b7c1e98f81e",
       "title": "Diarreia e dor abdominal acendem alerta para doenças intestinais - Agência Brasil",
       "published": "2026-05-17T17:30:00+00:00",
-      "summary": "Diarreia e dor abdominal acendem alerta para doenças intestinais&nbsp;&nbsp;Agência BrasilDoença de Crohn e Retocolite: casos crescem 61% no Brasil&nbsp;&nbsp;Campo Grande NewsGastroenterologista aponta perda de peso como sintoma frequente para pacientes com doenças inflamatórias intestinais&nbsp;&nbsp;Metro 1Diarreia persistente e dor abdominal podem indicar doenças intestinais&nbsp;&nbsp;Mídia SudoesteMaio Roxo: diagnóstico precoce transforma vidas nas doenças inflamatórias intestinais - Ponta",
+      "summary": "Diarreia e dor abdominal acendem alerta para doenças intestinais&nbsp;&nbsp;Agência BrasilVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
           "name": "Agência Brasil",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSEtQLTZFcHRycVRCWGExYkN1aFhzYlNEakFEaC1ZM0F0ZUgyaGpPTUl5Xy1aaXVGN1ZPSUsxNHBGSmZhTWJfRzh5b3ZYYy1wbGVGNmRhZi0zNzc3dWxncjRTaVczUkIzemVtUUN0cFRKbE14NkI4WjBiRzlyQ0ZnelVlYm5LOVNidjZmOHBOenRKcG9tUTJ0SFBmSXVqQms0WVdaMTBNNmNueG12SElFNGNHYVFCQjhaWDAw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "70afc274904d",
-      "title": "Exame de sangue pode detectar Alzheimer até 20 anos antes dos sintomas - Agora No Vale",
-      "published": "2026-05-17T13:28:16+00:00",
-      "summary": "Exame de sangue pode detectar Alzheimer até 20 anos antes dos sintomas&nbsp;&nbsp;Agora No ValeExame de sangue pode detectar Alzheimer 20 anos antes de doença se manifestar; entenda&nbsp;&nbsp;GZHNovo biomarcador sanguíneo no diagnóstico da doença de Alzheimer&nbsp;&nbsp;Roche PortugalTeste rápido pode prever risco de Alzheimer décadas antes dos sintomas&nbsp;&nbsp;CNN BrasilRoche obtém segunda aprovação europeia para teste de Alzheimer&nbsp;&nbsp;TradingView",
-      "sources": [
-        {
-          "name": "Agora No Vale",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT0lrZWMyV1hta3VWV010UWlWcUl0MVBXQlZwOWpFOUVDNElUdTZrLXc3WTlxMWNxcDdnb3NhLWhoTVNiSDB5bUtKdGl5NF84QTVTcGVNTU50R1huMmxnaW95eDJ6SjBSVWpwWGhra1B5b1o5VTFrR1RfeExXN1BXMXI1NHhHMHRHSHdyQXl0UXNVR0d6NEJuS0VtUDEtbF96SmVXWi1zX2liaDNXZFVQZFN5VQ?oc=5"
         }
       ]
     },
@@ -270,58 +330,10 @@
       ]
     },
     {
-      "id": "6cfa93598a54",
-      "title": "Melancia: podemos comer as sementes da fruta? Veja o que os especialistas dizem - O Globo",
-      "published": "2026-05-17T11:43:12+00:00",
-      "summary": "Melancia: podemos comer as sementes da fruta? Veja o que os especialistas dizem&nbsp;&nbsp;O GloboA fruta refrescante que hidrata e ainda entrega vitaminas importantes para o corpo&nbsp;&nbsp;Super Rádio TupiCientistas descobrem benefícios surpreendentes da melancia para a saúde&nbsp;&nbsp;obusilis.com.brComo a L-citrulina presente na melancia age diretamente nos vasos sanguíneos para melhorar a circulação das pernas&nbsp;&nbsp;Tua Saúde",
-      "sources": [
-        {
-          "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVXZKRFUyTTZoYzkzemVTYUdpUVZPUkhMcGxGY1FHT3F6NWhCMGV2Uy00dlR3MWhlTnBoa19rUkhaRUhhOE9qYmhkakVUS1FUNUtLRGstYmk1MnFubU51cjVGNF8zNVhLV0ZZTFl5MC04VzdqRHg4V003ZGNoZFY2Rlc5VnNSWnV3Mjd6UGVkdW8yUFNJcnVPZHpqR2o3cEphTGJoWWlaeEZIZEFPNjZXN255MXpQR1hndHV3aWl2ZzFUd2g2aXg3TVluZk8zR1FJbFHSAeABQVVfeXFMT1g1TkNOYWlzX3NfMmoxMnlKTFlrbXR1OV9nMUJKbU1wcnRqcnBNbzJwQTFZS3RqLXpCVzcyNFRpdHdTajFpTGJoYXVEelRYSnRsa2xoMXZTNF9Qd001ZEt5WlVqRnpEOU9RU2J1Mmk0d3JlQTBnX0pIZGVNUklXUzY2cEJkNlo1OFM4WUtCNE8zVjV6WkZzYnItTEZjUEZ4WDUtTlNZMDhUZEE4X2dtdF9PeXN0Ql9YQXRyRUtBVHJEeHNxbE9NOGNLaVc5RWhsanhRX3RRM3drS2NvcnBfVmU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f4438f104409",
-      "title": "Com oito óbitos e quase 200 casos, Jundiaí “corre” para vacinar população contra Gripe - jornal da região",
-      "published": "2026-05-17T10:54:44+00:00",
-      "summary": "Com oito óbitos e quase 200 casos, Jundiaí “corre” para vacinar população contra Gripe&nbsp;&nbsp;jornal da regiãoJundiaí reforça importância da vacinação contra influenza e mantém imunização para grupos prioritários&nbsp;&nbsp;Prefeitura de JundiaíJJ: Cobertura vacinal contra gripe é de apenas 38% em Jundiaí&nbsp;&nbsp;sampi.net.brTurno estendido nos Postos de Saúde de Cachoeira recomeçou&nbsp;&nbsp;Rádio FandangoPrefeitura de Bagé realiza terceira edição do Dia D de vacinação contra a gripe&nb",
-      "sources": [
-        {
-          "name": "jornal da região",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRHBraVdOQ1JrYnBWUEVFTGFHWENuTFNfc2pJUTV6eG1oTnY2Q1VYZXNHYXp2NnBGOVlaRWhxUFB5TUhjdmFGc2hCTklwWVF2X3BUcF9QLW9nTGswY0FpNW5lZVFGZGJGUGtyS3NmcGY2REdvUGhzTi1SSmZjMl9NYlNZRzAxYk1Zb1JLclRtREVKOEZzekN5eHhyNk4xN2Q5RnNCQTFQdV9IeUFiV2QwYm5BMA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7b4a55e2d18a",
-      "title": "Herança tóxica: Fábrica fantasma vira bomba química e assombra moradores em bairro de Salvador - Bnews",
-      "published": "2026-05-17T10:00:00+00:00",
-      "summary": "Herança tóxica: Fábrica fantasma vira bomba química e assombra moradores em bairro de Salvador&nbsp;&nbsp;Bnews",
-      "sources": [
-        {
-          "name": "Bnews",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcS0xdkJtblJka3JKRG5JSVhIZ2luRGowMEVGVE1hVGVZZjFKYldnRE84VnFDQTZLRFBpZzh5ZjFkc0tmeF9ZdER2OExYcDBVLV95ZXFGVW45S25sRWZMM1ZrTkZVTFduQTg4WGF6WmdsT0dUdFZqOWxGeDZZY18yUzB2SHlTbW40QVFqNERFd1BicTJvY0Y2eko3ajFYM1JSWGhnc2pHb3FWWjBCQ1BBa0JnQkkyX3VfWjhvZWJIc1UySFRpa3JTb2pDMXFVVFpGUzNaSWQ4NNIB3AFBVV95cUxNRV92S1cxYWRVSXpXcVhqV2tsdEZMQnVaTi1pMDJ4eW5zanpsd0hTQjBKeGkyYm40SXZxSVdvN3kxb1RaU3BEOUxnSmlmdV9XaEhNY1AzU0hORDNuUFByZFFjN1hfSkdHWElzbk1XazVPM25DXy1fVUF5UnlqTjR2MGF1bzh6RmUzWTdHMVl2NU1NcXU4QVJZSmlWYzBCT195NEstSHRpVllZakFLeWJxX1VfZnA1aE5iQVZubmtFZnQteGFTeGZ4TlM1a2lyTXJ3bmE4bnBRdF9sS1hx?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "caf4f9372bda",
-      "title": "Entenda o que mudou na forma de classificar a hipertensão - Folha Vitória",
-      "published": "2026-05-17T09:30:00+00:00",
-      "summary": "Entenda o que mudou na forma de classificar a hipertensão&nbsp;&nbsp;Folha VitóriaHipertensão: doença silenciosa exige atenção e mudanças de hábitos&nbsp;&nbsp;Agência BrasilHipertensão atinge um terço dos brasileiros e aumenta risco de AVC e infarto&nbsp;&nbsp;G1Pressão alta avança entre jovens e especialistas alertam para riscos do excesso de sal e sedentarismo&nbsp;&nbsp;AcaertNovo limite da pressão alta já está valendo e muda a forma que devemos avaliar a hipertensão&nbsp;&nbsp;Estado de Min",
-      "sources": [
-        {
-          "name": "Folha Vitória",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON0dtNVRlRlZNemthQ3BVb3haQ1pWeklGWjNYUi1pd1RDd3NTdkIyd0JFOHFqcWlKaHBhN0lOLTh3UGZiT2JVTzNEdU51VjdzQWhnMHJoQlRBZmNnQzFEUWFaX2F0U012a2xxaF9BVmowckR2dTRQWEo2QUZTX3VSQlBJOVhMTmNFREVmbERIOUZSczVnWmM1ckpKay1tSEFET3djM2wxV1k3MVdFaGEwU1FVdWYzVk0?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9706861d6c2b",
       "title": "Consumo de artes e cultura pode atrasar o envelhecimento, diz estudo - CNN Brasil",
       "published": "2026-05-17T09:00:49+00:00",
-      "summary": "Consumo de artes e cultura pode atrasar o envelhecimento, diz estudo&nbsp;&nbsp;CNN BrasilO que museus, músicas e hobbies têm a ver com viver mais? Ciência responde&nbsp;&nbsp;ExameParticipar de atividades artísticas e culturais pode retardar o envelhecimento, sugere estudo&nbsp;&nbsp;R7Ler, ouvir música e visitar museus pode ajudar a envelhecer melhor, aponta pesquisa&nbsp;&nbsp;Folha BVContato diário com cultura e arte pode desacelerar envelhecimento, diz estudo&nbsp;&nbsp;TNH1",
+      "summary": "Consumo de artes e cultura pode atrasar o envelhecimento, diz estudo&nbsp;&nbsp;CNN Brasil",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -342,14 +354,14 @@
       ]
     },
     {
-      "id": "b34ea8ce9442",
-      "title": "Doença renal avança na Bahia e especialistas alertam para relação com pressão alta - Jornal Correio",
-      "published": "2026-05-17T08:36:00+00:00",
-      "summary": "Doença renal avança na Bahia e especialistas alertam para relação com pressão alta&nbsp;&nbsp;Jornal CorreioVeja mais manchetes e perspectivas no Google Notícias",
+      "id": "3ca3bf6a641b",
+      "title": "Metade dos ratos de laboratório não são quem cientistas pensam, diz estudo - CNN Brasil",
+      "published": "2026-05-17T06:33:25+00:00",
+      "summary": "Metade dos ratos de laboratório não são quem cientistas pensam, diz estudo&nbsp;&nbsp;CNN Brasil",
       "sources": [
         {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOHFxTXpNX0dUOWdJXzJLNWRSUjUzSjBibkdwSnFDWUJsTGFpRkh4WEpWMDEwZjJGX0Zxb0FfN0p1Y1Y3QWYzRWx3dnBBNmRvbFZBa2JGMF9rWWZvMDh4dmR5Y1B5UzlCNGdWTDItekhMRk1qU3NQa0pkTlJnYzVIYnVHTDhoT3o1Mlhyd0VKLTByWHBmNzhHVTVXTi1fVmVCc1FtbDlsQ25ObE8xOFpoMER4alNzODlWYXpMbDcyUkNjcUtKcnc?oc=5"
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSVRBRXV5VXBUNF8zQjUtMVdoamgtczluQU1zOGExNi1xQ015dF9SdmlIVjVmTnBKMjFzSS1OMTdVS2ZQeWtvR1lMejhpUFdlZ0dSU3Z2ckhwQnpzUHZlMVdUZDEtd1l4U1hPV1p5aGxqSFRYcThjaXpuTVJBLXZkckNjUWd1dW02d0JwNHpNTE5abDl3ZGVvVDdGVnJ4SEpEeC1uTURHdGhxZjZDTzhYRg?oc=5"
         }
       ]
     },
