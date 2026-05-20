@@ -1,10 +1,70 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-05-20T09:38:36.438450+00:00",
-  "total_fetched": 94,
-  "unique_count": 93,
-  "health_related_count": 34,
+  "fetched_at": "2026-05-20T15:26:28.815094+00:00",
+  "total_fetched": 91,
+  "unique_count": 90,
+  "health_related_count": 29,
   "news": [
+    {
+      "id": "e92482663138",
+      "title": "Comer este alimento no café da manhã ajuda a reduzir gordura no fígado - gmconline.com.br",
+      "published": "2026-05-20T11:35:00+00:00",
+      "summary": "Comer este alimento no café da manhã ajuda a reduzir gordura no fígado&nbsp;&nbsp;gmconline.com.brVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "gmconline.com.br",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaVpJc0x5T2VJWF9yTkJYUFZuVG96SlpocG1jZTMzd0lUZjUwZmdXeUlSNmN3bm5hWWZ4OXVKVUowamwydVFTVDlJaTMzdG9xSWxnSEl6N2h2aVNIU1FwcEFRR2ZuMEswSzBXU2pVU2IxRjN5RTQ1NTMwWXlxODRMbXRKTnROMkoyUVB6djUwTmd3LXo0VzhJMWxfbXc1VEN2bmpGRHlzMHF3VGVteVZ2edIBtgFBVV95cUxNdklPb2pPY3J1ZndFMUNjTm5UVGszWjU0RWZ4M2xXTW0wNFlhd2hucEl1M0VrREZNQk9LOHlmbURISm5tTkdFeVNHbDVDdTRaUXRRLVJ1N0s0OEVuWGVyN0cwZWJuS2VYM3d5WGxiS2w0TTN2TUxDcFNnVXJBeGJBUUpsTlFiZ2Q2bU1ZSGFabkZVRERoelE5b3oxQVo4VHpoTW1QVmFCWF9GUlVXMTZmRVd3VzZqUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "18bd5abf3599",
+      "title": "'Bumbum de Mounjaro': efeito associado às canetas emagrecedoras viraliza nas redes - O Globo",
+      "published": "2026-05-20T10:52:33+00:00",
+      "summary": "'Bumbum de Mounjaro': efeito associado às canetas emagrecedoras viraliza nas redes&nbsp;&nbsp;O GloboO ‘7 a 1’ das canetas emagrecedoras diante da cirurgia bariátrica&nbsp;&nbsp;VEJAEspecialista explica como evitar efeito de “rosto derretido” após uso de caneta emagrecedora&nbsp;&nbsp;O TEMPOAvanço das canetas emagrecedoras faz crescer procura por cirurgia plástica após emagrecimento&nbsp;&nbsp;Jornal Correio'Face derretida': entenda quadro causado por perda acelerada de peso e como tratar&nbsp;",
+      "sources": [
+        {
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeUZXSG91NWlCMmxuNHlFYWFhV2diVlpVbWRRbm5pZlhMZ1pCXzl1NmhVYU4tbUxINDZRVHdxTVY5X3htTEhpazVsY1JOdHdXUmV1TTVhNFpFQUVsdG5rTmhGaWRTbFBwd3MwQmtOTkFtMjhuODdtQTVMTURaRWFFOTRjMlJwcWxYOFFRclQ1Z3VxMTNCZTNPRE9OckxzQUR5eUsya1MtemtETWE2dDRXT3ExZXkxQWQ4M25nVEFWNVR5WTJhS2JRYS1sZzNHd9IB3AFBVV95cUxPQThvQ01EMVRUbWhZT1hlNG5EOGRWeDdJT29raHhBR0M3SmVZRXNtQUwybFM0QkFVYVozM2Vka1FUZ1E2TnNJZ25kaHpxbU5FVHdZYjdZRUFhSFNSMEpIOWk0OWtRM2g0X0RNTlQzWHFFXzZ5cFpLWk00MU1ndjN4NjVEdVVFREJ5UFpXTEtMdkZEN0pBcVhxa2lUSlJKWDNwZ1pYOFRqLWZPU053eVhta0JBdDRVSUp4T3dodENYM3VSdld3eURQMWMzNjQ5Tmt6UkQtejZ2cVBBUEFN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ac613a778996",
+      "title": "As pessoas mais infelizes e amarguradas costumam nascer nestes 3 meses do ano, segundo estudo - Super Rádio Tupi",
+      "published": "2026-05-20T09:52:46+00:00",
+      "summary": "As pessoas mais infelizes e amarguradas costumam nascer nestes 3 meses do ano, segundo estudo&nbsp;&nbsp;Super Rádio Tupi",
+      "sources": [
+        {
+          "name": "Super Rádio Tupi",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOY01TSTlRV21aallBSGZLa1FuMFp0S1duTTdFU1RCR1k4MXZXZlJrZzdEb0JtX21wZmVibjVBdGw1X2ljNXlDa2oyVmVlS3V5Z2hqSHB3dFFFV256VktSRlk0Ykk0S2k1U0xzVjFHTk1vN01RT0t2RExHN1p2dVh1cVlMQXp1dkk1aEFEbDFYTDR4NEpldVVjRnlZekd6Z0pMN2ZvaHFBZ094ZmY0aHdGcmh6WG9teWxqYkNQVEF4aDBybE1KTVJj?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bcf40976ea81",
+      "title": "Biobancos: para que servem coleções de amostras de câncer? - UOL",
+      "published": "2026-05-20T08:31:00+00:00",
+      "summary": "Biobancos: para que servem coleções de amostras de câncer?&nbsp;&nbsp;UOL",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcGpDZmM0QURhXzJVRWdCc3FXY1dXZi1jYk5BRnduSXpCemNobXI4MmoxSDZBWkNNck5MVVpiMTlJZlRxSFplaTFfekJWOEdXMVJ0ek1LOEU1ZG5yTFFGYnN3WG9DcXdpWHZTcFlmWFBGV3Z5RGhOTHdoOVFIQzZKN0MxUkhrY0gxUDhzTmVzNExEYmJCaDFzTTQtaWZzblB5aUpubjJRbmlkeDhETFl5X3FlbFlxRDA2RUhmYQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "88526185f03a",
+      "title": "Nova espécie de marsupial é descoberta por pesquisadores da UFRJ em fragmentos da Mata Atlântica no Rio - O Globo",
+      "published": "2026-05-20T07:02:15+00:00",
+      "summary": "Nova espécie de marsupial é descoberta por pesquisadores da UFRJ em fragmentos da Mata Atlântica no Rio&nbsp;&nbsp;O Globo",
+      "sources": [
+        {
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTklDYVRsWUJxRjBDQnRnWVpnMmxOR3ZuSXhwTHZodmlyTm1JTkFSVlRiLVFYUmt0b0h1eDZpWFdES1lhWnNEbFBuT0F3WlNUQWIzM0RZV0owdkRrSk9qS2RCT2RUQ3RlRUVsRXBTZ1YtMmJsaTEyYUVvQk5tVXM1MW42ZnFkdGYzMkFxaXNvZUpYbVZxdXRpeVZDaUFQNzBVbEhCcU9rVUNkZS1KRTRBeGFBbm9pY1MzaGtRSnpJRUpWMzFFXzl4X0thb2ZMNF9fYUZ0ZVk3TVVSOXk0cnIyNUIxczFkcEp6TUpNYVVR0gH8AUFVX3lxTE9zd1ZaT0VDM2p5Y0NDQS1ELVdsX2ljaTBSWXJtVE9fdHZlODFnQmVIQ2xwNVV1RG11X3VvWHEwYTRDTmNjcTBwTWFVQlhCcHFqRkZrdXFpaWFmVnVabUJRWEQzSUZudUpkRVAyQnVEbDUtUTlRUDE5YXIyT2lYQXNUNG5ZeGhBT1dkVnhZWW5HM0VRTWxKekhEczZCWkdFWVp4Qkk4ZE42dVlOM3QwZ0ZYVV9KdDRGajNjb0Y0TlF4cHpIRVJ2RTNqRmVmaE5POFNvYjBKOHJwMEZtOXp3LV9TNjVEdEtlTVRsUzhzVHpOTjV1NzBIYndzMTZrUA?oc=5"
+        }
+      ]
+    },
     {
       "id": "81a5af3baa41",
       "title": "Cresce uso de ivermectina após entrevista polêmica com Mel Gibson - R7",
@@ -18,14 +78,14 @@
       ]
     },
     {
-      "id": "784ff5c8186c",
-      "title": "Lembra dela? Aos 36 anos, ex-atriz mirim da Globo troca novelas por carreira na psicologia - CARAS Brasil",
-      "published": "2026-05-20T01:54:53+00:00",
-      "summary": "Lembra dela? Aos 36 anos, ex-atriz mirim da Globo troca novelas por carreira na psicologia&nbsp;&nbsp;CARAS Brasil",
+      "id": "b84689cfb4f4",
+      "title": "Dieta 'baby GAPS' viraliza, mas oferece risco nutricional para bebês - Folha de S.Paulo",
+      "published": "2026-05-20T02:00:00+00:00",
+      "summary": "Dieta 'baby GAPS' viraliza, mas oferece risco nutricional para bebês&nbsp;&nbsp;Folha de S.Paulo",
       "sources": [
         {
-          "name": "CARAS Brasil",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQlNTRDZOQjRpbEtUTGhrOEZvZ3FYc2hhcW9Rc2RVNnAzY3BSNmk4X3BkbHE1Z0FfMzhEOXAzTXk1TVhJT3hkSF9CRVItVFZZT0paeU5oTlRfclFlc1BQcjA3X1h4ZlY2YjBXcnJqWXFQVTZZS1ZVQU5aYnZiLWFOd3U0NERBaDZqMU1rR0V0VjI2QjF1X0hOVFdDckNJdEpzRnFvVmZnUnNOaEJySENWOV9rdnRWUQ?oc=5"
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNc1B1RW9zN0oxeVpQRnpXc3FqS2FWc0U2Sklwa0d1M2NkZXhoUG5ZYXdXM0w0TGp2dW1RWXpReWtzRVgzZnVPTUVOT0RXbzFMdF81NWVtbnd5bHdTQVoyM1BxYUZ2MXdWbHFiUmsyMVlJbVNaWVl6MGtkNTZYR01DSjU3eEFiQWhqOXdad2RFVXBEbmJTNW9HOTZaYktxRzA2UjFfbHV6cFQ5YU4xRDVyXzROcFFWOUlqTFBrcdIBwgFBVV95cUxPR3NYSG1DY2tHeGtoYmYzRktHWXZQSUFIT1A4Ym9PTl9aTGdqbHE3T0lveXRsTVJLUzFWVWJpU3hXVUNsOVI5bFY2T0N6c1dpak04dmdBdWVpY2V3V2xKQVg5SGNwa2I4UzhKZnZmQ012VTl1MDNxOFg4ZXR2bTNSdHVjSWtBUk9wQ2xOcWFSRDc5RWZ1bVVqTDNzbFpEb2h5ejZNRGo5dURRR1lVR3FHeHVyWXVXME1jdk5wM19BeTdkZw?oc=5"
         }
       ]
     },
@@ -42,14 +102,14 @@
       ]
     },
     {
-      "id": "6ab3e406ca13",
-      "title": "'Tubarão-fantasma' e 'bola da morte': mais de mil espécies novas detectadas - CNN Brasil",
-      "published": "2026-05-19T22:00:09+00:00",
-      "summary": "'Tubarão-fantasma' e 'bola da morte': mais de mil espécies novas detectadas&nbsp;&nbsp;CNN Brasil",
+      "id": "1ba7819e3c09",
+      "title": "SC registra 16 mortes de crianças por síndrome respiratória e alerta importância da vacinação - ND Mais",
+      "published": "2026-05-19T21:42:56+00:00",
+      "summary": "SC registra 16 mortes de crianças por síndrome respiratória e alerta importância da vacinação&nbsp;&nbsp;ND MaisCom 16 mortes de crianças por SRAG, SC acende alerta e reforça a importância da vacinação&nbsp;&nbsp;G1Brasil tem alta de Síndrome Respiratória Aguda Grave em bebês&nbsp;&nbsp;Agência BrasilCom 16 mortes de crianças por SRAG, Santa Catarina acende alerta e reforça a importância da vacinação&nbsp;&nbsp;Portal SES/SCHFM aponta aumento de vírus respiratórios em crianças durante outono-inv",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZkxZV0VaSTB4T1l0YldWMUx1XzYyamRtcjBkTzVpNnB4LVZSVDYyd056MjMxYkItTkEzZXI2RHpQU0NKSDlPREswU1lfQXhEMmh0eS1WUnhwZ0ViczdTS004ZlhXdVpLcGM1QWxfQmw4YngxMjRsVC0wOTM1WWhUM1JURS0xamdBeUg4MzYwSUpQMGdYTjNXUEVmWWNTRmhhZDA3Vl8yUUphN2o5?oc=5"
+          "name": "ND Mais",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaTFYQU51b0JxbUk4S1VFTWlqZFpQWXJMVU9iR0V2Z2N6a0ZERlYxd3lRaGRhcGU2MXV5TVYzLVpzSmRQWU5LQ3RuVGxzeFRwOGJyZjZraVBiQXVSakFuNVlRNkprOWFWZS1qb2x6T0pZaXFCcmNJWUJLaEtZc1hUS1NfTk9NZFl1OEJuWlNOUnVrWmF3bHp1TVVoa3E1dklXSUxwaUl1dk8zVDNKRUNKV3J5SC1HR3dSbUxjY3JVbw?oc=5"
         }
       ]
     },
@@ -69,35 +129,11 @@
       "id": "d2d2eb82f902",
       "title": "Moradores de Niterói já podem tomar vacina contra gripe sem agendamento - Cidade de Niterói",
       "published": "2026-05-19T20:17:59+00:00",
-      "summary": "Moradores de Niterói já podem tomar vacina contra gripe sem agendamento&nbsp;&nbsp;Cidade de NiteróiTrânsito tumultuado: drive-thru de vacinação contra a gripe causa congestionamento em Campo Grande&nbsp;&nbsp;G1Drive-thru já aplicou cerca de 4 mil doses de vacina contra gripe em Campo Grande&nbsp;&nbsp;MidiamaxAumento dos casos de gripe ampliam público-alvo das campanhas de vacinação contra o vírus influenza&nbsp;&nbsp;R7Vacinação contra gripe em Natal atinge apenas 26% do público-alvo&nbsp;&nb",
+      "summary": "Moradores de Niterói já podem tomar vacina contra gripe sem agendamento&nbsp;&nbsp;Cidade de NiteróiVacinação contra influenza é liberada para todos os públicos no Amapá&nbsp;&nbsp;G1Proteção que começa na infância: MPMS alerta para a importância da vacinação contra a gripe&nbsp;&nbsp;MPMSNova Lima amplia vacinação contra gripe&nbsp;&nbsp;Prefeitura de Nova LimaDrive-thru já aplicou cerca de 4 mil doses de vacina contra gripe em Campo Grande&nbsp;&nbsp;Midiamax",
       "sources": [
         {
           "name": "Cidade de Niterói",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUk5seENZWkhDZDVYZkwyMThhcVdBWjRGOEVRdFVaVERHOE1GSWpHWl9YZWpUdmZtR2ZSZU1ZQkZSenowOVpaZkV2OXY1cHBjRHJ4bjh5Sl9iZ25NRUEtWHFkbXlCeC1aclM1cEkzbXBRYU13RnZWU1dxNmQ0X1JjYVBMOFJPWDhsendwcTlrWWZoYjhJZldoWXJFZk4yRklzUHVWaWwyS1lsZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c28df9839c7e",
-      "title": "Fazenda propõe os primeiros setores que deverão informar emissões de carbono a partir de 2027: veja quais - O Globo",
-      "published": "2026-05-19T19:09:48+00:00",
-      "summary": "Fazenda propõe os primeiros setores que deverão informar emissões de carbono a partir de 2027: veja quais&nbsp;&nbsp;O Globo",
-      "sources": [
-        {
-          "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZTBfWmhnaFlmV2p5cERKQ2lYZ0FqWkw4YXBjSHhMLVMzTy03M3VhdDBJaW1oUW5ZVHVvek5BeGk4ZmhDY0stSTJvSkJ2UVQ1VFFaNWpPY291RkNQUnNIWWVxOG9WemdNUGNEY1BOZWJoMkxMUWM4M2NSUkF0SFFrbnkweGpFV2NsMVMxYWhKS3BidzB2S2REbWpEOGtuVFdTNUJjS0lyZFI1U2lWVGJGTXpoNGp4MHY2WXJhZ0FxWXgxcGs1T0VleDViVWJ4OHZPM3Vlc0ItdzhJNV84N0ZZUnFlYnVacDE1OUh3di1XQWl4NGRqMFHSAYQCQVVfeXFMTjJPLUxnWVd6eG1TX3BZbVNUV3JJWmFGbWh5VkdnYWxCX1ZmaV9XOEE2Rk01VlJpX0VTdXpmMHR4VGZBMFVyOTg0akNWUVdsQWxockpEWDI2U0toWWdKY0N4eUM1bXR0WmdyN2dOdFR2eTg4LXdRenZuVjVCMEUtVktNNmE0cmZOaFNFbmFrcE8wTWZlTmtHak55MmxlV2dDN0oyOHQtWFhFWnFwTVVvTTVSQXdTLXlpTC15MGdwZlFickxJM2tfRnJHOFlZTzRFNy1DWkRkbnYzbVVkeE8tUnF2dkRhQlFRRms5REhDeFFDV1FIdklvclhZNzhMNkhRaGFFYkk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a07c60433f5a",
-      "title": "Surto de Ebola pode estar se espalhando mais rápido que o esperado, alerta médica da OMS - BBC",
-      "published": "2026-05-19T18:52:24+00:00",
-      "summary": "Surto de Ebola pode estar se espalhando mais rápido que o esperado, alerta médica da OMS&nbsp;&nbsp;BBCEbola, hantavírus: qual o risco dos novos surtos virarem uma pandemia? Especialistas explicam&nbsp;&nbsp;O GloboOMS diz estar preocupada com escala e velocidade do surto de Ebola no Congo; mortes sobem para 134&nbsp;&nbsp;VEJABerlim recebe paciente americano com ebola&nbsp;&nbsp;UOL NotíciasEscalada do ebola deixa OMS em alerta&nbsp;&nbsp;Correio Braziliense",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pb2lDLTZRV2NNREpzZXpfMGNjQkQ5cXQ4SXdUaEQxRGduUFR5V0V1UTFIcUE3T01KTmFXUUJVNEFCQ3J1N3hfOEZVakpmX21FYzNBaDZBWjFuSEsxXzM2MnZ30gFnQVVfeXFMUDZMQ2FLSFcweGUxNk9UcFpkQmhDalU0Mk10YTRfWEhvdlV1dVhlcWY4N0RiZmJRcVNVZ2pFbGpyeVBpVjdlTTVLdzR2S3FIekJjOWJCWHA3NmUtYXNsZGF6ajBNcmQzSQ?oc=5"
         }
       ]
     },
@@ -126,14 +162,14 @@
       ]
     },
     {
-      "id": "838cd9004da4",
-      "title": "Cientistas identificam médico de Pompeia graças a uma caixa de instrumentos - Super Rádio Tupi",
-      "published": "2026-05-19T16:11:39+00:00",
-      "summary": "Cientistas identificam médico de Pompeia graças a uma caixa de instrumentos&nbsp;&nbsp;Super Rádio Tupi",
+      "id": "df37583bd0cc",
+      "title": "A macabra descoberta de arqueólogos em floresta da Ásia - VEJA",
+      "published": "2026-05-19T17:54:49+00:00",
+      "summary": "A macabra descoberta de arqueólogos em floresta da Ásia&nbsp;&nbsp;VEJA",
       "sources": [
         {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUGx0czlvNUlkeUN5VlQycVE1QTlNb0hHd0VueEp1aml6Ym9BbDFkZ2pwTUo3YVhvMHNydnE3R2xkSTFmTWEyU0VrZC1kbjRpNFdWcTN6YjdGTmVvNnd3SDBSTkw0RzJFWFljUTR0RVJCcUludWwzU2pXRjliYzctaHlSYklJTzI1SjV1N3pSbllVV1VBZWdlbnlzV2VUYWI0Vzk2RmJFdmlYRjgwZTFqQg?oc=5"
+          "name": "VEJA",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPd0FsZ0VQdWEtSTczV3hfUXdLalpQMkNjdWQxV3oybHE2Tm1sYjJ5LTZCY3hranVQWWUwSHhjWWd3OHRRV1ZndGtxQlRkeGlienJMSm1UdGdpWVoyYUd5anN2ZzgyRV9WbGpfRzNfbXZlY0lsTVdtZTkyRThQX1laQUF3WnZtVERNYnVvZjlBZ2R1SmgwTlpVRm1HMnJDVUFSQzJQajhhNVh4ekNsTm42aUN2cVFlUQ?oc=5"
         }
       ]
     },
@@ -153,11 +189,23 @@
       "id": "09e5268b46f4",
       "title": "Como saber se você deve se preocupar com dor de cabeça ou não, de acordo com neurologista - Extra online",
       "published": "2026-05-19T15:14:57+00:00",
-      "summary": "Como saber se você deve se preocupar com dor de cabeça ou não, de acordo com neurologista&nbsp;&nbsp;Extra onlineDor de cabeça: saiba como diferenciar os tipos de cefaleia&nbsp;&nbsp;GZHTrês é demais: médicos alertam para dor de cabeça recorrente&nbsp;&nbsp;UOL NotíciasEstresse, enxaqueca ou excesso de remédios? Saiba diferenciar os tipos de dor de cabeça&nbsp;&nbsp;Jornal CorreioDor de cabeça frequente não é normal: saiba quando procurar ajuda&nbsp;&nbsp;Correio do Povo",
+      "summary": "Como saber se você deve se preocupar com dor de cabeça ou não, de acordo com neurologista&nbsp;&nbsp;Extra onlineDor de cabeça: saiba como diferenciar os tipos de cefaleia&nbsp;&nbsp;GZHTrês é demais: médicos alertam para dor de cabeça recorrente&nbsp;&nbsp;UOL NotíciasEstresse, enxaqueca ou excesso de remédios? Saiba diferenciar os tipos de dor de cabeça&nbsp;&nbsp;Jornal CorreioNem toda dor de cabeça é comum; veja quando ela pode indicar algo grave&nbsp;&nbsp;TNH1",
       "sources": [
         {
           "name": "Extra online",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZHBFWEp4NERtczVocjE0NWdVaW0wemFJQTVXZHRVZ1BzcGNEM1JRMHZyNkpPTy1FQjVmYjFXWkdVbzZxWU1BcTVqVFZIcUx4dHh4d0kySlo2dFZMc0hqQTl3MkpWS1NUYkt1SFJYM0pFWHZwZjZLUlM2TU9HSFIyV1VWaXJVUW01VXNKajVuVjY0amw4RUtweXRDWXNQaFR5b3lSSG1fMDRHaGVoMkFiVHVVSnZONzhkbnlkRmgtUnZWZ0phS3BxQXZyOVI3VW8wMTdsbURLd9IB5gFBVV95cUxOQW1QYWU0SlV5dFlrb1hnUEFkb0YzUVdON1FKbDRTSDB3ZmM3UXNVZGFGNG9NcF9KdUt6ME5KY1lHcVg2c0hZdnR5bnl1ZUZFekU4ejJFWmZNbVRqZ1Bpajc3eG9qaUxZS3ZwaGJGdWE0eHVDNklOdEU0M3l0eldzOXJGcllTVURoSElEa0hPSTlzb2JTY0U5NUVCVl9odERkZzMxQW1tWm5xS1lEd2FNZ1FmZGxtV0Q3bHJ5OE1WUzZZMnpCcENmVEl4T1UweHJEcHVWa0txSFlSWUZnVE41ekZlRmdSZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a85f16583238",
+      "title": "Morador de Guaporé é a segunda vítima de dengue do ano no RS - Agora No Vale",
+      "published": "2026-05-19T14:41:09+00:00",
+      "summary": "Morador de Guaporé é a segunda vítima de dengue do ano no RS&nbsp;&nbsp;Agora No ValeÚnica cidade da Serra com morte por dengue, Guaporé também concentra maioria dos casos da doença na região&nbsp;&nbsp;GZHNotícias - Rio Grande do Sul - Rio Grande do Sul confirma a segunda morte por dengue neste ano&nbsp;&nbsp;PORTAL FARRAPORS confirma 2ª morte por dengue em 2026&nbsp;&nbsp;G1Rio Grande do Sul registra segunda morte por dengue em 2026&nbsp;&nbsp;Sul 21",
+      "sources": [
+        {
+          "name": "Agora No Vale",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMGtlOGZsd0lQUDFZZkZld0NLSC1IZUhKLTBoTl9TVnUxSXowWGNVWENITm1WUnJmczhIenlsWW51dWZ0NHpyUG9XRWhSRzJqZE9GSXc1d2Jld2E1R0s5ak84enFfcnViVFRqLVZNb1NCcGtsTlZxOFRtWW1GWmpYNEJhdTFfY0RBRlk2VnZfTWtYS3ZJcG5IWmoyOFN5dnZrRm5oSmtDNFFwTXhCQkR0RkxB?oc=5"
         }
       ]
     },
@@ -174,14 +222,14 @@
       ]
     },
     {
-      "id": "2da7a3a6e68e",
-      "title": "Anvisa suspende corticoide e remédio para colesterol; veja quais lotes - Extra online",
-      "published": "2026-05-19T11:48:05+00:00",
-      "summary": "Anvisa suspende corticoide e remédio para colesterol; veja quais lotes&nbsp;&nbsp;Extra onlineCorticóide, estatina e 'composto taradão': Veja lista de medicamentos e produtos recolhidos pela Anvisa&nbsp;&nbsp;O GloboAnvisa recolhe corticoides e medicamentos para colesterol: o que fazer?&nbsp;&nbsp;CNN BrasilAnvisa suspende lotes de rosuvastatina e atorvastatina&nbsp;&nbsp;Campo Grande NewsAnvisa suspende lotes de corticoide e remédios para colesterol&nbsp;&nbsp;Jovem Pan",
+      "id": "5481afe6fe0b",
+      "title": "China sai na frente dos EUA e comercializa o primeiro implante cerebral - Época Negócios",
+      "published": "2026-05-19T12:20:15+00:00",
+      "summary": "China sai na frente dos EUA e comercializa o primeiro implante cerebral&nbsp;&nbsp;Época Negócios",
       "sources": [
         {
-          "name": "Extra online",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWWpHR0ZNbjVZTE55YTdxVzNKaldYdjJLOW1YVXg2SE1XRVRtOV9sZldOcFF4bWtRVzdBWTlQTGpNa1laNFpybGg1Zzl1WmgxMWFuZF9HcnN1bHBXOGZkMUprMEtGRHVaT0haVmdYRGdERTlCWVNFbTQ5Vzl0dUUwMjVycHRIdWRncFJnbC1oTWJRdjR3bXBCVko5dHlNNE5QNnJRSDhxcXlPZnUxUVZKQTlRNnFlVE9uVWxQcjd5bDlvUdIB0AFBVV95cUxQSjFoYm1XaTQwSU5pN2toU0lEM3ZxcXBpTjNkX2tOLWhMS2JLcXVwRkx3WWg0aFdBSGFhZXNRcWQzdlpFUUdaMk95Z3d0VGFNUG05QlVhcW43N1J3ZjJJWUJRVy1URTBYNGVHd3ZzXzNHam9jdUtiNFdZRHp4Ymo0LUtPSV9aZExUZmxTaE1tRWl3VkpxcVZtZ0dHeHpyYktvWGxhTDlFTUlibHFWYjFYTUJabDNWQlk0bFlkbGNGdWVJcU1xT2dWVkJyZVUtbFBC?oc=5"
+          "name": "Época Negócios",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaXVoQXdlbEhhQU9USlR3YlI5VEJIS2tfNGRvWXI3U0hIWlZDeVg1bnFDZ2w0NVRJWmxYY1NFUEpLWFZTV2VJUEhSd1pLNzFvRHl6TGgzbVJLZGlzTkFEazlWVl9pSkV3MVMzZVJlQ2ZvV0dwMVJBamtOeHl5MTBUV1h1a3B6NDBtN09rcHlJU1ZKQnlhODNNUUtndkJWcXV3MkQtUmw2bVNmVHc1SzYwMndMTUQzNG1sQ25zcnRzMy0zX0t3YXZxeWUwVHhRQdIB3AFBVV95cUxNamNqWUNOQWNKeW11ZUNVdEtrZGdIcDBQNDgza01kWGNkNE12dVd4RVZ6Mm8xNF9OWko1eV9QWmV5SVVMYTI4YTN1M0hULUN2SkNfZmxMSC1Lb2dDZTJ1ZVl3RXR4WGlTYWpMWmV2Q0R5bzl1SFlIWHl0V2FOVmd3bkctZWVzazd3NDZObkQ5OGstV0txamw0TGVTLTNsaGlFQWNmSXUtYmwyWWplR3QtSk1RTUtIemYtUGdnRmJCdnhkbk9TZGhtSGxLRlVWX3cxM09jazNDS2hHNklC?oc=5"
         }
       ]
     },
@@ -198,38 +246,14 @@
       ]
     },
     {
-      "id": "8e167da2b5c4",
-      "title": "O melhor óleo para fritura sem prejudicar a saúde, segundo nutricionistas - Portal 6",
-      "published": "2026-05-19T10:13:42+00:00",
-      "summary": "O melhor óleo para fritura sem prejudicar a saúde, segundo nutricionistas&nbsp;&nbsp;Portal 6",
-      "sources": [
-        {
-          "name": "Portal 6",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX2d4VURFeEhBdm5SOER5UW5LMnlKYUFvRUM2cTU5dE9mS0FEd0Rmakw2WmZBSWJRSG53c1E4OFpZeGFMQ2ZHUHBpblpDZ1VFdWFYcFNhblI0Zm1aTkR1bDBaOHRpa05yNWlmTWYwbEw3b3JxWk4yU2M4SnZKdUZOekthLTVXR2lvRmwwZHAyMWo4TE0wNmE4RElnX2Q2aDR1U0xtMEhJeGVBSlk?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b4d9abd31b6e",
       "title": "Epidemia de gripe: 'É um ano atípico, com um pico precoce de influenza', diz infectologista - O Globo",
       "published": "2026-05-19T07:30:59+00:00",
-      "summary": "Epidemia de gripe: 'É um ano atípico, com um pico precoce de influenza', diz infectologista&nbsp;&nbsp;O GloboTemporada de gripe vem mais intensa&nbsp;&nbsp;Agora RNMauá amplia vacinação contra gripe para toda a população após alta de casos graves&nbsp;&nbsp;Prefeitura de MauáO vírus influenza de 2026 é mais transmissível e se espalha com mais facilidade que o dos anos anteriores&nbsp;&nbsp;Jornal da 3ª IdadeHRM registra aumento de atendimentos por sintomas gripais e reforça alerta para vacinaçã",
+      "summary": "Epidemia de gripe: 'É um ano atípico, com um pico precoce de influenza', diz infectologista&nbsp;&nbsp;O GloboGripe em Campo Grande: sintomas, riscos e quando buscar ajuda&nbsp;&nbsp;Campo Grande NewsMauá libera vacina da gripe para toda população após alta da Influenza&nbsp;&nbsp;Portal ABC do ABCTemporada de gripe vem mais intensa&nbsp;&nbsp;Agora RNEspecialista avalia aumento de casos de influenza e seus riscos&nbsp;&nbsp;iG Saúde",
       "sources": [
         {
           "name": "O Globo",
           "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQS0RrOFZ1TEZDU3duR3Z5SUtJYzByOHdfNzdISlVXSVpMbjlyNVY4SVY2VkN1bXh2ZnA3ZjVvQzFZemxTeFBFSG05SjNNZ0U1Mm4xNFBmVjRPSjg3ZmhXQ2xFNFMzX1VkMzh3UVhjRDJwUDl6Y1Q1T0xXYzdBZDJjUG0xczFuckR6LTVGdk9tekd2WmhxYVpELUZKVmlzMXB4bk5DZGctQ1J6enc0bldWNGdQamxBNWJsY0hSME5vbU5ZMjJMSmNmc3AzdmNBUzRlczhiVzZ6emNFbGgwVVR3VGgwQzlUZXI0bzYzNHh6U3dfWFFt0gGDAkFVX3lxTE5BT3FZeGR2YXRYeUNMaEgxbnNPZ044WXQyd2I4Y1NabWxfZlJ0QTQxb2lyMnVBSkVBTUNaRW9oVkk1dUF4aHdNVWEwbkR3VVNKNnM1VFpvUDYyXzBMcXEyMUhzeUZMN2hGNDRQbDluTVFoSm9SX3dTNzVMa2syRTFETGhsMWw1aGpYbnJ2YXU4Yy02VkVzUkkzNDN4dE9VTkhmYmQxbWpLbjl5X2RRcm5jbVdtUFozRmRaU044eDh4a0ZmODlyY1JPTVVGN2MyZjY0UXhNRjNmTnNDQUFPZG1oYlhNUWJpS2FnVlM3Rzcyck1Ub0FHblhvR19VbjZmZi1raDg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1af121cfa71e",
-      "title": "Nova cobra descoberta na China usa cauda para fingir ter duas cabeças - R7",
-      "published": "2026-05-19T05:03:25+00:00",
-      "summary": "Nova cobra descoberta na China usa cauda para fingir ter duas cabeças&nbsp;&nbsp;R7",
-      "sources": [
-        {
-          "name": "R7",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTGZqby1ibTBQS0VWbGpfLVRUc1ByM2FvYUVtOXZESHJ2V2gyeXdWbFl4aWx6T2dBRFk2LVdRY0VYVW83SlItOWNDYUR1Y0JZTTRBMWJTX21SbXBJeUt4Y01mQjRfdHpLZG1KY1NxNmxWQ2ZaOGc3YWhYYVVwLUJmSjRsTVhvS05mYURtQlJkQkxtZVNJYkRtN1pYZWdLYUZMY3BEV244R2xRaHkyVVlMNjgxaFY0Rmc?oc=5"
         }
       ]
     },
@@ -246,42 +270,6 @@
       ]
     },
     {
-      "id": "f3a23caaae7a",
-      "title": "Câncer de esôfago pode causar dor ao engolir; veja sintomas e fatores de risco - Diário do Nordeste",
-      "published": "2026-05-18T23:00:00+00:00",
-      "summary": "Câncer de esôfago pode causar dor ao engolir; veja sintomas e fatores de risco&nbsp;&nbsp;Diário do Nordeste",
-      "sources": [
-        {
-          "name": "Diário do Nordeste",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMEhPZkpmbmx2SzdJVmpVSzJHejVQcUJQem1mSDMxd3FUZzI4d2ppOFI0a3Fwa3V0MC1xVDlrbEFHYko4TjY5MUpqcEJkNDFYTDJtWXN4V3FxZFB3cm5OVm5kVEttMi01enczWVR0Z2dZQlRiekFoQV81VWZJczRlQlQxTHRoNXhoZnZidDNucklweE01REFXclZkNV82WC1IUF8xenMzZzBuNnhkUElWdm02eWtqV3d1UGVDRVY5d2FZVVZXWFhOUUg5VE0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c03fdf90635d",
-      "title": "Gripe, Covid ou resfriado? Saiba como diferenciar os sintomas - Tribuna do Paraná",
-      "published": "2026-05-18T22:51:00+00:00",
-      "summary": "Gripe, Covid ou resfriado? Saiba como diferenciar os sintomas&nbsp;&nbsp;Tribuna do ParanáSintomas de gripe, covid e resfriado geram dúvidas com a queda de temperatura&nbsp;&nbsp;G1Clima instável reduz defesas e pode agravar crises respiratórias&nbsp;&nbsp;Poder360Outono e inverno: frio aumenta chances de contrair doenças, afirma médico&nbsp;&nbsp;Portal EngeplusGripe, resfriado ou Covid? Saiba como diferenciar&nbsp;&nbsp;Bem Paraná",
-      "sources": [
-        {
-          "name": "Tribuna do Paraná",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa05NbTJ2al9yQktPTktJV2lfd1VocnJCbDNUWEY5QllSQ1RmYWZNcFBVdmp4VnQ1czNTNllqdTc2aTJRVzlMZUJzdHEtNVZSbGRJN1ZCTmo2Z1BZd25XYWhHWFRXYWd0cGgzTDRCdlFUX01EN2tRdE9WWmI0MUVHOHpxVFNMZWRTWmg4dk1UbWdvSVNPanByY2ptUWltR1IwelFzYlhWZ0vSAa4BQVVfeXFMTzJvTm1mT2J0T2x1WlRoLURuUG02bk82N2EwUVIyRy12cXEycTFDMUlrdFNPQ24wUjdwcmVvbWdKOUZuSVYtU0Fydk84Q05nYmNPVTRjZ2J1b0ZPUzFQWm9BQl9yaDRpd0FORlAyLWN3czI5aHlVUllJYXllcTZ3WlJNMUlaSndQbTBZUEJUVlhkMENqWHdrVnBaaExuZWdzdjUxeXV1dEU4UDRLTHF3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7847b982efdd",
-      "title": "Brasil tem nova opção de tratamento para câncer de mama mais agressivo - Agência Brasil",
-      "published": "2026-05-18T21:58:00+00:00",
-      "summary": "Brasil tem nova opção de tratamento para câncer de mama mais agressivo&nbsp;&nbsp;Agência BrasilVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "Agência Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR285amc1eG45MnY3X0tCRTJ6RS1Nb2RNRi1yZ3VoeDM4Ui00ZnVUNGdmOEs1eEc3VlJkbXRCT1QzSTVzSEFOWHF0UFJ1MVpEXzE5T2FMZGVSeUJ5Y2JleHg1bzU5UzNaWG95T1I0R0RZY1ljR2hOemhMNlJEa0gwNzJldFk3WVg0MDFHbDRtblh1ZF9lV0dMUC1MSjhCZFpSaDAtS2llcEYxZndkcWJHaFU1aWlPdE1YUjZWcUpnZF9UOGM?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0be462171e7e",
       "title": "Cor da bebida pode influenciar sintomas da ressaca: veja os 'piores' drinks - UOL",
       "published": "2026-05-18T21:38:46+00:00",
@@ -290,6 +278,18 @@
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeXlWcGtQTW5LelY1cmZrWTFJZjE0bllxYjNSclJyV3hfYzhiOVZITE0xMFRrMDN6cE4xaGdXa3hfRVpYVWt3OE91cF9PS01PMzJDT09YbVhocmhQVU93ZjA2dmxINGlQQWVOQjhScld4RHoxaVJXcEFYUFNNRHlqZEh1Yld3ejFQNmxQbzdvWERDcXF4UFpaV3dNVjJDdkFkVEtTQWtJLXRDWFJkamZnM3JjOGVMYUw0bGlMQ1A4Wl9DUjdvcWhabXp1YkpSUFFvOXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "83b098ff286d",
+      "title": "Parcerias sustentáveis entre proprietários de terras e biólogos garantem o futuro do gavião-real no coração da Amazônia e do Cerrado - Revista Amazônia",
+      "published": "2026-05-18T19:31:09+00:00",
+      "summary": "Parcerias sustentáveis entre proprietários de terras e biólogos garantem o futuro do gavião-real no coração da Amazônia e do Cerrado&nbsp;&nbsp;Revista Amazônia",
+      "sources": [
+        {
+          "name": "Revista Amazônia",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMVhoNHBtTEJvck1sSUZNc0p6bzBfZTNBb3lZMDZYNjNtU1NzQ0ZEdjltUW9iNTNMcWxBUjRnaHhDTHZOWVpRZERlUVNZOVlEbWxYOEVnc1ZiaVExOURCUDJEb3JUVU85enpadENCelVxUVBqeWE3emNKdDVzYk1MaldQVDZwN0xXVnBLRkhhVFRJUnpLV0tCNVE5TEVQTFBDVDJWRzZFUkt5ek9HYkNuTkF4Tkl2TWVKTmo2TkpVeUtzcGdCSDVrMy1wZzFqRjdrUXk2X29fRkFDVFVZM3NrdGlZbTVjVTluUm5acndPS0JFb3VSYnhz?oc=5"
         }
       ]
     },
@@ -342,74 +342,14 @@
       ]
     },
     {
-      "id": "6cf5082b5d3b",
-      "title": "Consumo de uma fruta é associado à melhora da saúde da pele e mais resistência aos raios UV; saiba qual - O Globo",
-      "published": "2026-05-18T15:33:46+00:00",
-      "summary": "Consumo de uma fruta é associado à melhora da saúde da pele e mais resistência aos raios UV; saiba qual&nbsp;&nbsp;O GloboComer uva todos os dias pode ajudar a proteger a pele do sol?&nbsp;&nbsp;TerraUva pode tornar pele mais resistente à radiação solar&nbsp;&nbsp;Agora RNConsumo diário de uva pode ajudar a proteger a pele contra o sol&nbsp;&nbsp;Portal TelaConsumo de uvas está relacionado à melhora da saúde da pele e maior proteção contra raios UV&nbsp;&nbsp;Tribuna do Sertão",
+      "id": "a78b6daeef01",
+      "title": "Anvisa aprova nova opção de tratamento para câncer de mama - www.gov.br",
+      "published": "2026-05-18T17:33:00+00:00",
+      "summary": "Anvisa aprova nova opção de tratamento para câncer de mama&nbsp;&nbsp;www.gov.brBrasil tem nova opção de tratamento para câncer de mama mais agressivo&nbsp;&nbsp;Agência BrasilNovo tratamento contra o câncer de mama é aprovado pela Anvisa&nbsp;&nbsp;CrusoéAnvisa libera novo tratamento para casos mais agressivos de câncer de mama&nbsp;&nbsp;Extra onlineCâncer de mama tem nova opção de tratamento aprovada pela Anvisa&nbsp;&nbsp;Midiamax",
       "sources": [
         {
-          "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOaUUxWUpnSzEybmk2Yjh2NlBHakkzbFhvUVpsaFBzeGI3VmZtUm1MNFNNTFFEMUF1SUxTV3p0eEROUWV3el93b1NKcTA4WWRJMDVyN09JWmhTQ2dBNkdZeldJUUVnbFlDMl85M1FfYVgyUU5kUGFLNW0taElaaXU5MDRNY0hxc19FWGFKOE9Sc0w2ZVZESVQ2dXFKTHRFV2tLZVRFNi1fZ2dUR3NFWXhwcXZLdkJCV0tLaEhaZkpUemh4WEdUUXozcXBtNTkwR0dhSGYwWkg3T0dwWkNuTlB5OGxPT09VNWhyM3FhNFNZUdIB_gFBVV95cUxPYzFUSzNPaHVIVXlwSkZZZjd5anhiQ2gyTVFjbWtiR3FyaUlzcUdlanYwWkZuZFBMMHZHMWpZYkNsTkFpLXRfV1d1STE0bkp3eHFMZ1RheFNMeHBXUVpvaG5Oa245VUNHVjg5Nzk1d0Q2eHlxX2FOLWsxNlE5MkdfUXNIQk8xTjVZbmxVSjg3TWRxTjNjalYxSGNoTGRHZC1tRWlPX3g5Y3NWMUZfQVZmbWdxODNZS1RYQ0xsc0VHMVh2U25Zby1lQ1Jtb1B0Vk56RTFxcmNGbG1meXRteW92NTEteS1FbU04Sl9xd1JJTk5hTDVrd2RVN3luOGFKZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c580e5f8aae8",
-      "title": "UNIRIO abre seleção para Professor Substituto no Centro de Ciências Biológicas e da Saúde - PCI Concursos",
-      "published": "2026-05-18T14:28:58+00:00",
-      "summary": "UNIRIO abre seleção para Professor Substituto no Centro de Ciências Biológicas e da Saúde&nbsp;&nbsp;PCI Concursos",
-      "sources": [
-        {
-          "name": "PCI Concursos",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSnhZTXVlMndteHBiWTM1LUtzTm85NW5vRVB4VTVEaG0zQjM4Yk9oQW9teldYdFJSbHZQY2hHb2lNcFpaM05RbkV2WWZvSU1GY3dhVnFJNXhLaWk5aVY1dmxxV2dGMnA1SjBEUXp6Sk4zMHdoZEtPNlk1TkUySWo3ZnRSWG9QZnA0SDdad1VxQ09vUDh6WHJVQkVNQndydU1GRWV1NjZjY2hVU2d4bmhGT1F4a1J3MHBOc19aYU5NTGhjdGE3Skk1M1RR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "583913f1b040",
-      "title": "Hepatologista explica como a água ajuda a reduzir a gordura no fígado - Metrópoles",
-      "published": "2026-05-18T13:35:00+00:00",
-      "summary": "Hepatologista explica como a água ajuda a reduzir a gordura no fígado&nbsp;&nbsp;MetrópolesComer este alimento no café da manhã ajuda a reduzir gordura no fígado&nbsp;&nbsp;MetrópolesEficaz contrafígado gorduroso: esta vitamina simples limpa o fígado&nbsp;&nbsp;Tua SaúdeFígado também sofre com excesso de açúcar e médica faz alerta&nbsp;&nbsp;Notícias de Cordeirópolis-SPBeber café todos os dias pode proteger o fígado. Especialistas explicam os benefícios&nbsp;&nbsp;sic.pt",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVm1iLTljREItZmdIaWpsZFg3YnB5MEhnUF9pM0RSVDQtNGlCR00yTVlaRjN0WGtNNzZIQWM2R1BYcVVQcDVhNUQ0dDZyS1NHaTB0NTdzTW0tR0NWN0RWSXZkeEpYbFdrcXVMNU1PTjRyZ1dBbUQ1MVg3ZkJ3T0d3QWJva21mMkhjMW1oT1pUYTNPQXdTNDBmQ1Rkb3FhRk40UEs3bDMteDI5dzc3VVBCeFNrQ0Itb2M4OGpoSFN3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c8ce27f02073",
-      "title": "Café aumenta a pressão arterial? Veja o que a ciência diz - Época Negócios",
-      "published": "2026-05-18T11:51:08+00:00",
-      "summary": "Café aumenta a pressão arterial? Veja o que a ciência diz&nbsp;&nbsp;Época NegóciosO café não é vilão para quem tem algum tipo de arritmia cardíaca&nbsp;&nbsp;MedscapeQuantas xícaras de café por dia são o limite seguro para adultos com hipertensão leve para manter a energia sem elevar a pressão&nbsp;&nbsp;Brasil 247O café coado realmente faz tão mal a saúde cardiovascular&nbsp;&nbsp;Correio Braziliense",
-      "sources": [
-        {
-          "name": "Época Negócios",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYXg4SVI2TE5Dal9YQWhfRE1IdUtub1U5eHZ6TUxOR0lTRVJ0c3FLOU5fOUstc0Rydm92TnFJUlhRNDZDUlBWZl96ajR6STNIcGlWMGFXdVNlMVVBclhSQVRSLUlZMjNGUEVHdGlBZFltaUpIcWx5S3hqNkdHcW1MV2k0UC1pczZ5aXlRVUhyTHlLUEtJTktZMXRjZnMzSm1sNVJ4ekpGeTRndVF5QlN3YjN5T01GaHpFMTBJYy1wQUJRWjhF0gHTAUFVX3lxTE9yV2JLUWZPTWdDaWN5WXM1WFE5eWQzcDlyZ0p1eVVUcVM0WHlFUWRkVFdaZmdieXV0UlpXMTRJX0lfbWlRVFBmS0M4bHIyT3RYb0FDUVRuSW85b2lZdWtwZk1aMTZVMTlvUzBkX3lyX0RRQkFfMTM0UWdHbHVGMWs3X2JJekxsdEZ1ZzZfSEstOGVIR3FpdGNNNDlvUU04VDZ5bDFQVWdKc1I2WkhCaHBfYVVXYXVkQXd6NWk0Qkhyak44ZHVVRWtoWWtSVnVTTG1USXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fec2e4a6baea",
-      "title": "Quanto você se exercita não é tão importante quanto a regularidade da atividade - Tua Saúde",
-      "published": "2026-05-18T11:20:00+00:00",
-      "summary": "Quanto você se exercita não é tão importante quanto a regularidade da atividade&nbsp;&nbsp;Tua Saúde",
-      "sources": [
-        {
-          "name": "Tua Saúde",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaWNfVmNKRlo1TWduQjNoZTVaVWJwZTdHTjhJeUdVWWdRMkdPay1KYWtKV2ZZQjZ5dWFGZmxqTHE1anI1blBram5ac0JJT0JGSHhTcUw4Nk5oLUdsNWJIYU4xMGwwOWVaM0dmcVlPYkZHSUxMRmFhQjVHbjVUTGsyQkhwQnk2TzVUem5xTXh2STROaHdpVHhoS29DNS1McVZLZkVPV2tkS2FhbHZVWEo4N2pGMzAxMjV1cXUzeVpB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "29441338942e",
-      "title": "Veja quem pode ser voluntário da nova vacina contra a gripe - Tribuna Online",
-      "published": "2026-05-18T09:00:00+00:00",
-      "summary": "Veja quem pode ser voluntário da nova vacina contra a gripe&nbsp;&nbsp;Tribuna Online",
-      "sources": [
-        {
-          "name": "Tribuna Online",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbXJVc194Wm5BeGVEVm40aUZHZGhmbDlLLXRpczVlNnMzcEZ0UzJ1RDFBaU54TVRmQ2JvWGd3TmJaQ1F0UmRvemhiN0FoYUNSUnhpa1VJMm5iXzBHRmFMR3pPRmF5WFZMTXdEaGNxd3RMM1lBQ0MwQVV0ZjMyQ1FTOVk1ZGYwVU9qSHpoVWcxT2NWNXJVU0daYmRWNjh0dThoTm9n0gGrAUFVX3lxTFB3VmRJWG5aRGlMWlhmYkdQT1FWeTAyRUtUUDdOYldLbFBDbmlTYjZWdG1sS1UxRE1YLW1paTAzYnEzZlRkWFBMM196UEczTVd2TXg3TmhnSm84dHI3UUt5SnFDNjFvS2V2M1A5bGVTMW1Yb3hyclJHMjhVUUpqblppWG8xbU4tOUxZb01sMVo1TFU4RlVoUnVlVGgzcTAyUGhQOEJjMl8tOXc3Yw?oc=5"
+          "name": "www.gov.br",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeHRQY0Ytdk9FN3BUZ0JTTzlaZ3o4S29NcXpQbXRKVzBfOTYyNnRWOWVKdGE0d1Nnc1pJSThrWGthUGlqVGJEYzVZZ1RJZkViX0I0YTlaU3o0cFZwa2F4eGdjeXNuMHhqSC1GQTNiTmI2SFB0aWJ1bmVtVTBGMEF3dzNhdklrYWdNUHJSNGhCbnd3c3lJNlVzU1Nua0Fia1pEN2g5WGduQ1FaR1ZnVTlGRTNiSkVFY2ZRRVZfbg?oc=5"
         }
       ]
     }
