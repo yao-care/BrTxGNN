@@ -1,26 +1,86 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-05-19T19:54:03.385145+00:00",
-  "total_fetched": 96,
-  "unique_count": 95,
-  "health_related_count": 37,
+  "fetched_at": "2026-05-20T03:47:32.571356+00:00",
+  "total_fetched": 95,
+  "unique_count": 94,
+  "health_related_count": 33,
   "news": [
     {
-      "id": "df37583bd0cc",
-      "title": "A macabra descoberta de arqueólogos em floresta da Ásia - VEJA",
-      "published": "2026-05-19T17:54:49+00:00",
-      "summary": "A macabra descoberta de arqueólogos em floresta da Ásia&nbsp;&nbsp;VEJA",
+      "id": "c2db01b2f404",
+      "title": "Estudo revela que quem come carne tem maior probabilidade de viver até os 100 anos, mas há um porém. - Estado de Minas",
+      "published": "2026-05-20T01:28:10+00:00",
+      "summary": "Estudo revela que quem come carne tem maior probabilidade de viver até os 100 anos, mas há um porém.&nbsp;&nbsp;Estado de Minas",
       "sources": [
         {
-          "name": "VEJA",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPd0FsZ0VQdWEtSTczV3hfUXdLalpQMkNjdWQxV3oybHE2Tm1sYjJ5LTZCY3hranVQWWUwSHhjWWd3OHRRV1ZndGtxQlRkeGlienJMSm1UdGdpWVoyYUd5anN2ZzgyRV9WbGpfRzNfbXZlY0lsTVdtZTkyRThQX1laQUF3WnZtVERNYnVvZjlBZ2R1SmgwTlpVRm1HMnJDVUFSQzJQajhhNVh4ekNsTm42aUN2cVFlUQ?oc=5"
+          "name": "Estado de Minas",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbU9idEVlTXF6ZkY3djE4SGVlNW1meGo5aWoyMU9RRk1aa3JoQm9VTDNfbnQ0MUllMTEyQU9Ta29Ib0JMajhvWm9aNUZkY2d0WVp5cVJZbS1qUVc0WlQ5OTA0Zml1WlJQb2JBWFdieGRhMzNiV3RZaXI0LTAwczN4MGpfRXVzd3htNHdjeW5iWGF3UXJWd3JKcEZieEloZEJHb2xNRXV4U2M5NndPVXBHNzdJUTJndTM1cnRMV0RDaFJBOUZJclB0NkNONW1leUJ3MkQwV3pR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d4f783e8d404",
+      "title": "Por que quase todo mundo é destro? Novo estudo de Oxford sugere explicação - UOL",
+      "published": "2026-05-19T20:21:59+00:00",
+      "summary": "Por que quase todo mundo é destro? Novo estudo de Oxford sugere explicação&nbsp;&nbsp;UOL",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZ3p2aUxjVWFLN19QX1Bvekt5ZGxock9hSGc0RnQ5YnRiSEYyTHAtX0FURDVsOFppci01WnpaYlBrUkx6SlRDOVVRV1JkNmhFcTZxNGNlNk13ZHlCLVl2bUEzSGNqMjRLeEcyZm9LOTN3Vk9EOVRDa01BdkNhOFdaWVJyM2VXcHF0a0x1Q0ttX3ZidXpUZnl3U0tPbG9VNnM1R2hadktkaVhjWTJNT2R1NmV3OGdqbGFDVUpVa1FJd0pydkJqcHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d2d2eb82f902",
+      "title": "Moradores de Niterói já podem tomar vacina contra gripe sem agendamento - Cidade de Niterói",
+      "published": "2026-05-19T20:17:59+00:00",
+      "summary": "Moradores de Niterói já podem tomar vacina contra gripe sem agendamento&nbsp;&nbsp;Cidade de NiteróiTrânsito tumultuado: drive-thru de vacinação contra a gripe causa congestionamento em Campo Grande&nbsp;&nbsp;G1Drive-thru já aplicou cerca de 4 mil doses de vacina contra gripe em Campo Grande&nbsp;&nbsp;MidiamaxGripe: quase 26 milhões do grupo prioritário ainda não se vacinaram&nbsp;&nbsp;Agência BrasilAumento dos casos de gripe ampliam público-alvo das campanhas de vacinação contra o vírus infl",
+      "sources": [
+        {
+          "name": "Cidade de Niterói",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUk5seENZWkhDZDVYZkwyMThhcVdBWjRGOEVRdFVaVERHOE1GSWpHWl9YZWpUdmZtR2ZSZU1ZQkZSenowOVpaZkV2OXY1cHBjRHJ4bjh5Sl9iZ25NRUEtWHFkbXlCeC1aclM1cEkzbXBRYU13RnZWU1dxNmQ0X1JjYVBMOFJPWDhsendwcTlrWWZoYjhJZldoWXJFZk4yRklzUHVWaWwyS1lsZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a07c60433f5a",
+      "title": "Surto de Ebola pode estar se espalhando mais rápido que o esperado, alerta médica da OMS - BBC",
+      "published": "2026-05-19T18:52:24+00:00",
+      "summary": "Surto de Ebola pode estar se espalhando mais rápido que o esperado, alerta médica da OMS&nbsp;&nbsp;BBCEbola: da origem da infecção à letalidade do surto, veja em 4 pontos o que ainda falta ser respondido sobre a emergência internacional&nbsp;&nbsp;O GloboOMS diz estar preocupada com escala e velocidade do surto de Ebola no Congo; mortes sobem para 134&nbsp;&nbsp;VEJAOMS acende alerta para nova pandemia e comitê de emergência se reúne após aumento de casos de vírus&nbsp;&nbsp;TNH1Novo surto de E",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pb2lDLTZRV2NNREpzZXpfMGNjQkQ5cXQ4SXdUaEQxRGduUFR5V0V1UTFIcUE3T01KTmFXUUJVNEFCQ3J1N3hfOEZVakpmX21FYzNBaDZBWjFuSEsxXzM2MnZ30gFnQVVfeXFMUDZMQ2FLSFcweGUxNk9UcFpkQmhDalU0Mk10YTRfWEhvdlV1dVhlcWY4N0RiZmJRcVNVZ2pFbGpyeVBpVjdlTTVLdzR2S3FIekJjOWJCWHA3NmUtYXNsZGF6ajBNcmQzSQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5ad95fc1aee5",
+      "title": "São Carlos registra aumento de casos positivos em abril de 2026 - São Carlos Agora",
+      "published": "2026-05-19T18:13:26+00:00",
+      "summary": "São Carlos registra aumento de casos positivos em abril de 2026&nbsp;&nbsp;São Carlos AgoraSão Carlos registra 45 casos de COVID-19 em abril&nbsp;&nbsp;São Carlos em RedeQueda histórica: São Carlos tem 98% menos casos de dengue em 2026&nbsp;&nbsp;Região em DestakeCovid volta a subir em São Carlos, mas dengue despenca 98% em 2026&nbsp;&nbsp;Jornal Primeira PáginaCovid-19: São Carlos registra 45 casos positivos em abril e ano segue sem óbitos&nbsp;&nbsp;Região em Destake",
+      "sources": [
+        {
+          "name": "São Carlos Agora",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX1dCMGJkYnRJNk4tZGFIbWVQeWI0Q0JnX2RGd3VnMDZ5UWY0YWswaEdSd3pmN2N4S3c4UjY1eF9ieGxoY2o1U3AyYkZRdmtSS3JhWnB4bDd4QnlEaVNEc0NWSlNfczl5VDNJOGs5M0FfSmJiUk9YZDVleU5wTV9Nd1VzSDBtd0o1cDVENXdfZlRBYVIxUTdwcG9iTUE5ejM2Y3RkUHhhUDBzNERIMHRTNtIBuAFBVV95cUxQRHQwRWl5ZDhvZEhaZWF3aWZtbnREUXg0Y1M2TGE3dk9jUHZIcm5DR2paOUhKT09JdUZ0VU9CRW10WjRSbkozR2otLWljcEVKM3drTm1RR0VQS2hRTWNxdVNnbHBMcjJCRVNTSTJURkt0WTlJQ3E5ZmItZFpLMzRQeTBvNHZ1akkzOGtGZFl0TE9WZTd3a24tUlI0eXhDZWxwUkViVS1NQ3kyM3llc1VwOWU1WXJkMHJL?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d01c12b181fb",
+      "title": "As 3 atividades físicas que a ciência recomenda para combater a depressão e a ansiedade são: corrida, natação e… - Tua Saúde",
+      "published": "2026-05-19T18:00:00+00:00",
+      "summary": "As 3 atividades físicas que a ciência recomenda para combater a depressão e a ansiedade são: corrida, natação e…&nbsp;&nbsp;Tua Saúde",
+      "sources": [
+        {
+          "name": "Tua Saúde",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMzIwQ2FiaGpOSGo5UjdaaXJES3U4N200WkV4ZU56VlRneE1ISmNwTHJjWmxueFlzbXhQenh2bDFYQ0pZRlVEb0doS3JVU3h1d3hmUktPaGZyZEU4VFpBLUVIc0V0NXFiMHdiWG45eXVTelZJZVNtR3BEazY0WTVkcEVtZ3ZjSVR3ZDlpZHlFd05KSVZoTVBYZWN2QVhEZDNhZG9DcE9rUnh1MkpvbjFyNXlRa09tbGpzU0Z5WTFoTQ?oc=5"
         }
       ]
     },
     {
       "id": "838cd9004da4",
       "title": "Cientistas identificam médico de Pompeia graças a uma caixa de instrumentos - Super Rádio Tupi",
-      "published": "2026-05-19T16:10:24+00:00",
+      "published": "2026-05-19T16:11:39+00:00",
       "summary": "Cientistas identificam médico de Pompeia graças a uma caixa de instrumentos&nbsp;&nbsp;Super Rádio Tupi",
       "sources": [
         {
@@ -30,26 +90,14 @@
       ]
     },
     {
-      "id": "a974e45f5497",
-      "title": "Lotes de medicamentos para colesterol e corticoides são recolhidos pela Anvisa - ICL Notícias",
-      "published": "2026-05-19T15:15:09+00:00",
-      "summary": "Lotes de medicamentos para colesterol e corticoides são recolhidos pela Anvisa&nbsp;&nbsp;ICL NotíciasRemédio de colesterol recolhido: como funcionam as estatinas, que tiveram lote retirado do mercado pela Cimed&nbsp;&nbsp;G1Como funcionam os remédios recolhidos, rosuvastatina e atorvastina? Entenda&nbsp;&nbsp;CNN BrasilLotes trocados da Cimed: quais os riscos para quem consumiu os medicamentos recolhidos?&nbsp;&nbsp;Veja SaúdeAnvisa suspende lotes de corticoide e remédios para colesterol&nbsp;&",
+      "id": "09e5268b46f4",
+      "title": "Como saber se você deve se preocupar com dor de cabeça ou não, de acordo com neurologista - Extra online",
+      "published": "2026-05-19T15:14:57+00:00",
+      "summary": "Como saber se você deve se preocupar com dor de cabeça ou não, de acordo com neurologista&nbsp;&nbsp;Extra onlineDor de cabeça: saiba como diferenciar os tipos de cefaleia&nbsp;&nbsp;GZHTrês é demais: médicos alertam para dor de cabeça recorrente&nbsp;&nbsp;UOL NotíciasEstresse, enxaqueca ou excesso de remédios? Saiba diferenciar os tipos de dor de cabeça&nbsp;&nbsp;Jornal CorreioDor de cabeça frequente não é normal: saiba quando procurar ajuda&nbsp;&nbsp;Correio do Povo",
       "sources": [
         {
-          "name": "ICL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5CYjFvZUkyTXpuLTVHMkJ3TlV4OXRwTTZJT0x6VGZSX0ZUU21MTmtFLWo5LXZrNTZTYlZsdGxoNVlOOXNDRDhUY0gxSWNyaGo5ZlYzc1ZKdlFieFpnX0JSLU9HNURfb3JQV1ZIR3phWkVZRTR2d1d0Y053?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b8a8d6371176",
-      "title": "Primeiros pintinhos nascem de ovo artificial que promete ‘ressuscitar’ ave extinta - Olhar Digital",
-      "published": "2026-05-19T14:05:00+00:00",
-      "summary": "Primeiros pintinhos nascem de ovo artificial que promete ‘ressuscitar’ ave extinta&nbsp;&nbsp;Olhar Digital",
-      "sources": [
-        {
-          "name": "Olhar Digital",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNWMtNWhLVHhmbkQ3WkZ5M1hqS1ZjQlNiUmZXcWxPOVhnLWVGZlY4WGxnQjV0dlUxT2JGSV9VdGQtcndfRkpDTk1POHpid2hQeDVNeHFqZG5wY1pTU0YwZU84SkJtM0sxRzlXWkxKOXhnVmI0N2dkRHBaMERkOWZ1bng4WGVRMm1nRmFLWG1lRmNCZzUxLTF0N2NfWGxHMHRtUmV0eGtCY2twdmJ0MEhibHh3MW1abDMtaVFvbWNjWGVTeExXQVNxUzRNSUxSM085cldV?oc=5"
+          "name": "Extra online",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZHBFWEp4NERtczVocjE0NWdVaW0wemFJQTVXZHRVZ1BzcGNEM1JRMHZyNkpPTy1FQjVmYjFXWkdVbzZxWU1BcTVqVFZIcUx4dHh4d0kySlo2dFZMc0hqQTl3MkpWS1NUYkt1SFJYM0pFWHZwZjZLUlM2TU9HSFIyV1VWaXJVUW01VXNKajVuVjY0amw4RUtweXRDWXNQaFR5b3lSSG1fMDRHaGVoMkFiVHVVSnZONzhkbnlkRmgtUnZWZ0phS3BxQXZyOVI3VW8wMTdsbURLd9IB5gFBVV95cUxOQW1QYWU0SlV5dFlrb1hnUEFkb0YzUVdON1FKbDRTSDB3ZmM3UXNVZGFGNG9NcF9KdUt6ME5KY1lHcVg2c0hZdnR5bnl1ZUZFekU4ejJFWmZNbVRqZ1Bpajc3eG9qaUxZS3ZwaGJGdWE0eHVDNklOdEU0M3l0eldzOXJGcllTVURoSElEa0hPSTlzb2JTY0U5NUVCVl9odERkZzMxQW1tWm5xS1lEd2FNZ1FmZGxtV0Q3bHJ5OE1WUzZZMnpCcENmVEl4T1UweHJEcHVWa0txSFlSWUZnVE41ekZlRmdSZw?oc=5"
         }
       ]
     },
@@ -66,14 +114,14 @@
       ]
     },
     {
-      "id": "5481afe6fe0b",
-      "title": "China sai na frente dos EUA e comercializa o primeiro implante cerebral - Época Negócios",
-      "published": "2026-05-19T12:20:15+00:00",
-      "summary": "China sai na frente dos EUA e comercializa o primeiro implante cerebral&nbsp;&nbsp;Época Negócios",
+      "id": "2da7a3a6e68e",
+      "title": "Anvisa suspende corticoide e remédio para colesterol; veja quais lotes - Extra online",
+      "published": "2026-05-19T11:48:05+00:00",
+      "summary": "Anvisa suspende corticoide e remédio para colesterol; veja quais lotes&nbsp;&nbsp;Extra onlineEstatinas suspensas pela Anvisa; saiba o que fazer&nbsp;&nbsp;O GloboAnvisa recolhe corticoides e medicamentos para colesterol: o que fazer?&nbsp;&nbsp;CNN BrasilAnvisa suspende lotes de rosuvastatina e atorvastatina&nbsp;&nbsp;Campo Grande NewsAnvisa suspende lotes de corticoide e remédios para colesterol&nbsp;&nbsp;Jovem Pan",
       "sources": [
         {
-          "name": "Época Negócios",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaXVoQXdlbEhhQU9USlR3YlI5VEJIS2tfNGRvWXI3U0hIWlZDeVg1bnFDZ2w0NVRJWmxYY1NFUEpLWFZTV2VJUEhSd1pLNzFvRHl6TGgzbVJLZGlzTkFEazlWVl9pSkV3MVMzZVJlQ2ZvV0dwMVJBamtOeHl5MTBUV1h1a3B6NDBtN09rcHlJU1ZKQnlhODNNUUtndkJWcXV3MkQtUmw2bVNmVHc1SzYwMndMTUQzNG1sQ25zcnRzMy0zX0t3YXZxeWUwVHhRQdIB3AFBVV95cUxNamNqWUNOQWNKeW11ZUNVdEtrZGdIcDBQNDgza01kWGNkNE12dVd4RVZ6Mm8xNF9OWko1eV9QWmV5SVVMYTI4YTN1M0hULUN2SkNfZmxMSC1Lb2dDZTJ1ZVl3RXR4WGlTYWpMWmV2Q0R5bzl1SFlIWHl0V2FOVmd3bkctZWVzazd3NDZObkQ5OGstV0txamw0TGVTLTNsaGlFQWNmSXUtYmwyWWplR3QtSk1RTUtIemYtUGdnRmJCdnhkbk9TZGhtSGxLRlVWX3cxM09jazNDS2hHNklC?oc=5"
+          "name": "Extra online",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWWpHR0ZNbjVZTE55YTdxVzNKaldYdjJLOW1YVXg2SE1XRVRtOV9sZldOcFF4bWtRVzdBWTlQTGpNa1laNFpybGg1Zzl1WmgxMWFuZF9HcnN1bHBXOGZkMUprMEtGRHVaT0haVmdYRGdERTlCWVNFbTQ5Vzl0dUUwMjVycHRIdWRncFJnbC1oTWJRdjR3bXBCVko5dHlNNE5QNnJRSDhxcXlPZnUxUVZKQTlRNnFlVE9uVWxQcjd5bDlvUdIB0AFBVV95cUxQSjFoYm1XaTQwSU5pN2toU0lEM3ZxcXBpTjNkX2tOLWhMS2JLcXVwRkx3WWg0aFdBSGFhZXNRcWQzdlpFUUdaMk95Z3d0VGFNUG05QlVhcW43N1J3ZjJJWUJRVy1URTBYNGVHd3ZzXzNHam9jdUtiNFdZRHp4Ymo0LUtPSV9aZExUZmxTaE1tRWl3VkpxcVZtZ0dHeHpyYktvWGxhTDlFTUlibHFWYjFYTUJabDNWQlk0bFlkbGNGdWVJcU1xT2dWVkJyZVUtbFBC?oc=5"
         }
       ]
     },
@@ -90,18 +138,6 @@
       ]
     },
     {
-      "id": "77e9aa62eb44",
-      "title": "Surto de Ebola: diretor da OMS se diz preocupado com escala e rapidez - CNN Brasil",
-      "published": "2026-05-19T10:44:16+00:00",
-      "summary": "Surto de Ebola: diretor da OMS se diz preocupado com escala e rapidez&nbsp;&nbsp;CNN BrasilO que é e como se transmite o ebola, responsável por surto na África&nbsp;&nbsp;Folha de S.PauloSecretário de Estado dos EUA afirma que OMS reagiu 'um pouco tarde' ao surto de ebola; país deixou agência em janeiro&nbsp;&nbsp;O GloboSurto de ebola em países africanos deixa pelo menos 131 mortos&nbsp;&nbsp;Agência BrasilO que é? Onde começou? Existe vacina? O que saber sobre o surto de ebola na África&nbsp;&",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQmVJZHRYSkk3S29aSXA5WEVCOGN5cXNKTGtNUHBZY0Vmc0xYUE5hU0VvRFlhSTlfTk1FSzVtSVg4VVdqa1RBZUVLUXJBeFl5VjBtVzZPdGNzU3NzalUxNHNuejRlUTVjalJfVmpYQ1JBSlFQNTM2SE9Eb3pjT1FWUUk4T2I2Qno2MW5UR3lKOUs3SmJ4WHotaER0Q3dUYkpuLVJkMUNFR0QyMDlzc2lYcGhn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8e167da2b5c4",
       "title": "O melhor óleo para fritura sem prejudicar a saúde, segundo nutricionistas - Portal 6",
       "published": "2026-05-19T10:13:42+00:00",
@@ -114,10 +150,10 @@
       ]
     },
     {
-      "id": "a7912608477d",
-      "title": "'É um ano atípico, com um pico precoce de influenza', diz infectologista - O Globo",
+      "id": "b4d9abd31b6e",
+      "title": "Epidemia de gripe: 'É um ano atípico, com um pico precoce de influenza', diz infectologista - O Globo",
       "published": "2026-05-19T07:30:59+00:00",
-      "summary": "'É um ano atípico, com um pico precoce de influenza', diz infectologista&nbsp;&nbsp;O GloboTemporada de gripe vem mais intensa&nbsp;&nbsp;Agora RNHRM registra aumento de atendimentos por sintomas gripais e reforça alerta para vacinação&nbsp;&nbsp;grupo sepéDiagnóstico precoce é linha que separa surtos de epidemias&nbsp;&nbsp;Medicina S/AAnchieta tem alta de gripe e vacinação segue baixa&nbsp;&nbsp;Vitória News",
+      "summary": "Epidemia de gripe: 'É um ano atípico, com um pico precoce de influenza', diz infectologista&nbsp;&nbsp;O GloboTemporada de gripe vem mais intensa&nbsp;&nbsp;Agora RNO vírus influenza de 2026 é mais transmissível e se espalha com mais facilidade que o dos anos anteriores&nbsp;&nbsp;Jornal da 3ª IdadeHRM registra aumento de atendimentos por sintomas gripais e reforça alerta para vacinação&nbsp;&nbsp;grupo sepéMauá amplia vacinação contra gripe após avanço de casos graves de Influenza&nbsp;&nbsp;RD",
       "sources": [
         {
           "name": "O Globo",
@@ -141,23 +177,11 @@
       "id": "242aa11adde1",
       "title": "Homenagens e avanços da oncologia no 4º Congresso do Hospital Santa Rita - Folha Vitória",
       "published": "2026-05-19T04:10:00+00:00",
-      "summary": "Homenagens e avanços da oncologia no 4º Congresso do Hospital Santa Rita&nbsp;&nbsp;Folha VitóriaSexualidade e câncer: ‘Muitas mulheres acham que a vida sexual acabou depois do diagnóstico’&nbsp;&nbsp;GloboEspecialista defende cuidado integral da mulher durante tratamento contra o câncer&nbsp;&nbsp;ES HOJECongresso de Oncologia: combinação de remédios e terapias para tratar câncer&nbsp;&nbsp;Tribuna Online\"Câncer não define ninguém\": acolhimento é vital para tratamento&nbsp;&nbsp;Folha Vitória",
+      "summary": "Homenagens e avanços da oncologia no 4º Congresso do Hospital Santa Rita&nbsp;&nbsp;Folha VitóriaAvanços no tratamento fazem com que pacientes com câncer vivam mais&nbsp;&nbsp;G1Uma nova tendência no tratamento do câncer: combinar inteligência artificial com medicina tradicional.&nbsp;&nbsp;Vietnam.vnArtigo: Novas terapias transformam câncer avançado em doença controlável, mas impõem desafio emocional aos pacientes – por Fernando Medina&nbsp;&nbsp;Hora Campinas",
       "sources": [
         {
           "name": "Folha Vitória",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWjJzbk12eGlVcTk0S1NNR19BZHJlSVJucFc2c1drVS1vbEdjcnVZamxYajFTdnJCamgya2hfRjVXMG1MMDEwZDRXbVcyQk96MFNoNFQ4Unl0YTBZWHZMOFV4X2NNNWdvclRDTjlFVGNJbDZyZUFVemxkR0VoeFotZ0R4MjlKbHBORVZnXzdOb1oxOWVHUlhzSHFWZW5QTjVGZm5mMjQ4LXBGVzhZTWNmQVBR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1aaf7bf075f5",
-      "title": "Cientistas da Argentina começam a investigar origem de surto de hantavírus - CNN Brasil",
-      "published": "2026-05-19T00:12:22+00:00",
-      "summary": "Cientistas da Argentina começam a investigar origem de surto de hantavírus&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTG9nS1JLem0wYUJlWWpCQTV2eDVvd1FrNEpVVWZzT2J2aWp4Q1dobDJ3Q21nM0RpSFc4NTJZRFBISWtFTHBueHVXT0tlNE80SlA4cHIyaXhEOGtKTmVicmE3LWJOM0dIblo1Q3Q4TkZuVGNxemRGS3UtcUZtdWtTNUR0Qzk4dVRKNDhhQkhWSDJFUGZUOEc5YXBJNUIxNzhJN2RxcW44WFhCajRFQTd3aWxxdHZYWkxkU2c?oc=5"
         }
       ]
     },
@@ -186,6 +210,18 @@
       ]
     },
     {
+      "id": "7847b982efdd",
+      "title": "Brasil tem nova opção de tratamento para câncer de mama mais agressivo - Agência Brasil",
+      "published": "2026-05-18T21:58:00+00:00",
+      "summary": "Brasil tem nova opção de tratamento para câncer de mama mais agressivo&nbsp;&nbsp;Agência BrasilAnvisa libera novo tratamento para casos mais agressivos de câncer de mama&nbsp;&nbsp;Extra onlineAnvisa aprova nova indicação do Enhertu para câncer de mama&nbsp;&nbsp;Jornal de BrasíliaCâncer de mama tem nova opção de tratamento aprovada pela Anvisa&nbsp;&nbsp;MidiamaxNovo tratamento contra o câncer de mama é aprovado pela Anvisa&nbsp;&nbsp;Crusoé",
+      "sources": [
+        {
+          "name": "Agência Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR285amc1eG45MnY3X0tCRTJ6RS1Nb2RNRi1yZ3VoeDM4Ui00ZnVUNGdmOEs1eEc3VlJkbXRCT1QzSTVzSEFOWHF0UFJ1MVpEXzE5T2FMZGVSeUJ5Y2JleHg1bzU5UzNaWG95T1I0R0RZY1ljR2hOemhMNlJEa0gwNzJldFk3WVg0MDFHbDRtblh1ZF9lV0dMUC1MSjhCZFpSaDAtS2llcEYxZndkcWJHaFU1aWlPdE1YUjZWcUpnZF9UOGM?oc=5"
+        }
+      ]
+    },
+    {
       "id": "0be462171e7e",
       "title": "Cor da bebida pode influenciar sintomas da ressaca: veja os 'piores' drinks - UOL",
       "published": "2026-05-18T21:38:46+00:00",
@@ -194,30 +230,6 @@
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeXlWcGtQTW5LelY1cmZrWTFJZjE0bllxYjNSclJyV3hfYzhiOVZITE0xMFRrMDN6cE4xaGdXa3hfRVpYVWt3OE91cF9PS01PMzJDT09YbVhocmhQVU93ZjA2dmxINGlQQWVOQjhScld4RHoxaVJXcEFYUFNNRHlqZEh1Yld3ejFQNmxQbzdvWERDcXF4UFpaV3dNVjJDdkFkVEtTQWtJLXRDWFJkamZnM3JjOGVMYUw0bGlMQ1A4Wl9DUjdvcWhabXp1YkpSUFFvOXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f167dbc75b38",
-      "title": "Câncer de estômago: os 6 sintomas que você não deve ignorar - Guararema News",
-      "published": "2026-05-18T21:15:00+00:00",
-      "summary": "Câncer de estômago: os 6 sintomas que você não deve ignorar&nbsp;&nbsp;Guararema News",
-      "sources": [
-        {
-          "name": "Guararema News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNVRSUDFOVjZsZTBfOGI2T2gzT1pZbExvS0pnRV96QXVpZ0JDREszak9IRVh5YXExOElUUDV4ekdtaU56V3N1NEhqRWVrdEVLZng3R0tCMUFjd0hZTXRyOE9IN0lMRkM4eW5aaW9EYlRTMzJoMElGbjctRlpZanJWSGJDTFVjZ0k3RWxzRUp5OWZrZVphcDh6SVBB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dd669da69308",
-      "title": "Criança é diagnosticada com meningite bacteriana no Acre - ContilNet",
-      "published": "2026-05-18T19:57:33+00:00",
-      "summary": "Criança é diagnosticada com meningite bacteriana no Acre&nbsp;&nbsp;ContilNetCriança de 7 anos é diagnosticada com meningite bacteriana no interior do Acre&nbsp;&nbsp;G1Saúde de Cruzeiro do Sul diz que tipo de meningite notificado não requer bloqueio sanitário nem a suspensão&nbsp;&nbsp;ac24horasCoordenadora de imunização reforça importância da vacina após caso de meningite em Cruzeiro do Sul&nbsp;&nbsp;Juruá OnlineCruzeiro do Sul reforça importância da vacinação contra meningite e garante abast",
-      "sources": [
-        {
-          "name": "ContilNet",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaDl2SVJrdkpldTczX2JPZHNxa0FTU19iZ1lfTmU0ZkU2ZDhsTG5OdU9pMF9CbEZpRmFOSGRlanpGTTVHaHV2bHlkVEJmWmV0V0ZfRC1NSWo5NGJTV1M5R2h0QlNyYmpPQmc5b1JDN29uQVNkWmQ0NElxN3VCcTMxeURlcnB2MFpmUGVIYk4yNFB1UXB0RmFEdHl6bS10QXZz0gGmAUFVX3lxTE9MZ2tLY2xHTFJFZlBSNE14Vl9za1poTFh2MmxJckVTaE5yNlpUU3VSOHNXNHZnSy02YXRQTzJVWm1hLTFLVlEtLVRUVlI5by1LekJ4SG52OFoxUEttaTlqaXU4Mm1OSDhBM1BzWnNOSE55cnpZRkQxdDZCSW9SOTFNMy1lb2JVQ1JWaHdqLTRNNEdhR0NtdlM4Z2JDYzhOX2RBOXJQelE?oc=5"
         }
       ]
     },
@@ -246,18 +258,6 @@
       ]
     },
     {
-      "id": "a0d1bb832964",
-      "title": "Nova espécie de água-viva mortal é descoberta; veja detalhes - Correio Braziliense",
-      "published": "2026-05-18T18:54:00+00:00",
-      "summary": "Nova espécie de água-viva mortal é descoberta; veja detalhes&nbsp;&nbsp;Correio Braziliense",
-      "sources": [
-        {
-          "name": "Correio Braziliense",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObWVrczEyckItZXBVZDdXOWExZWFPYUhqSlZxWXBvUXpLY2JXcHczc2xXUTdJZXJRVkVGVDRHZTA2N01MYzgtMi05WGwxRkFmUk9Lb0lOb0pIdXBhVkE1VEM5N1JubndSYjltTzZFalBlTDlUTThRSXRiRU1TdEs5RF96aXhUUk8yNHc3U2d5TTVoT2h3RHE1RUNpRXlqTzVidFJWTC1SSDBKQV9MNzBKRWZJeXZpVktHa0cyS2s5cWRUdU5oWGo3SWlaUi04NWvSAdQBQVVfeXFMTVU2U2s5UmFYTzFDdTdoZmdlVlFJbENEajVDRkhKeVdDVU03ZHp3Q2c5bUNGMU1HSWEtbENZR1U1cnU0TjZrbUU5OXZmSy1WV04wS3djLTBfQTdqQVJKYzZ4N0pBSVg2bm9zYkVUX21CaEJUMFNyNVlXZ3ZsY0o4RkpVUDFlaFlLV2FicHdwbUZXNjNyUmxMcW5jaWllTVBZZnpMTVJlTEJhYll4UWZ5UkxCTzZ3bEhIbGd3WUJXU2RKMU5VcnRLVjVGdTFwQmhKTjYwelc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "27b5fcaf787f",
       "title": "De graça: Senac abre 115 vagas em cursos de beleza, informática e cuidador - Primeira Página",
       "published": "2026-05-18T18:07:42+00:00",
@@ -278,18 +278,6 @@
         {
           "name": "jornal da região",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdEhmb1JRMFZVb1JRcUJJYjRqRGNGS1JYN0JvYkFJcjdUaHFJaHhZeTdaa25FbEdDbHlpTXZHc1VKb29VR0JVWm5wZXMwTDFkenYyNXBYOGpMTTJqT0tUQzhiYU9BR0R1ZFFaOXNLajg2bDZVNjdhNlp5U21QMG5zZ2ZObGdHOElfZTRjd1pJY0k?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a78b6daeef01",
-      "title": "Anvisa aprova nova opção de tratamento para câncer de mama - www.gov.br",
-      "published": "2026-05-18T17:33:00+00:00",
-      "summary": "Anvisa aprova nova opção de tratamento para câncer de mama&nbsp;&nbsp;www.gov.brBrasil tem nova opção de tratamento para câncer de mama mais agressivo&nbsp;&nbsp;Agência BrasilAnvisa libera novo tratamento para casos mais agressivos de câncer de mama&nbsp;&nbsp;Extra onlineAnvisa aprova nova indicação do Enhertu para câncer de mama&nbsp;&nbsp;Jornal de BrasíliaNovo tratamento contra o câncer de mama é aprovado pela Anvisa&nbsp;&nbsp;Crusoé",
-      "sources": [
-        {
-          "name": "www.gov.br",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeHRQY0Ytdk9FN3BUZ0JTTzlaZ3o4S29NcXpQbXRKVzBfOTYyNnRWOWVKdGE0d1Nnc1pJSThrWGthUGlqVGJEYzVZZ1RJZkViX0I0YTlaU3o0cFZwa2F4eGdjeXNuMHhqSC1GQTNiTmI2SFB0aWJ1bmVtVTBGMEF3dzNhdklrYWdNUHJSNGhCbnd3c3lJNlVzU1Nua0Fia1pEN2g5WGduQ1FaR1ZnVTlGRTNiSkVFY2ZRRVZfbg?oc=5"
         }
       ]
     },
@@ -333,7 +321,7 @@
       "id": "583913f1b040",
       "title": "Hepatologista explica como a água ajuda a reduzir a gordura no fígado - Metrópoles",
       "published": "2026-05-18T13:35:00+00:00",
-      "summary": "Hepatologista explica como a água ajuda a reduzir a gordura no fígado&nbsp;&nbsp;MetrópolesFígado também sofre com excesso de açúcar e médica faz alerta&nbsp;&nbsp;Notícias de Cordeirópolis-SPFrutas que ajudam na prevenção de doenças do fígado&nbsp;&nbsp;Correio Braziliense5 alimentos que podem reverter gordura no fígado com eficácia&nbsp;&nbsp;diário do estadoFazem mal ao órgão: fuja destes alimentos para evitar gordura no fígado&nbsp;&nbsp;Metrópoles",
+      "summary": "Hepatologista explica como a água ajuda a reduzir a gordura no fígado&nbsp;&nbsp;MetrópolesFígado também sofre com excesso de açúcar e médica faz alerta&nbsp;&nbsp;Notícias de Cordeirópolis-SPBeber café todos os dias pode proteger o fígado. Especialistas explicam os benefícios&nbsp;&nbsp;sic.ptExcesso de ultraprocessados e sedentarismo elevam risco de gordura no fígado e problemas digestivos no inverno&nbsp;&nbsp;CBN CuritibaFrutas que ajudam na prevenção de doenças do fígado&nbsp;&nbsp;Correio ",
       "sources": [
         {
           "name": "Metrópoles",
@@ -410,42 +398,6 @@
         {
           "name": "Exame",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbmRYclRXTlNxTUhFVEp3SGdVcEpqRklBX3VfbVZ3WmVDSVJpNjVyWHFVVXJKWXZGWlNCdXh1V0RmZUE2UGxEV2pob0NwQlk5cDhuZHM3ZlZGLUNLaUg4eF9sd3I0R1hYeHgxdTBYSkdVTGxYT05GRldPaFJvS0lEWVZmVVloV3d1YWR1dA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "28b4246e34e5",
-      "title": "Como as canetas emagrecedoras funcionam? - R7",
-      "published": "2026-05-18T05:00:00+00:00",
-      "summary": "Como as canetas emagrecedoras funcionam?&nbsp;&nbsp;R7Indústria de alimentos está de olho nos usuários de canetas emagrecedoras&nbsp;&nbsp;Época NegóciosVida após a \"caneta\": veja 4 estratégias para evitar efeito rebote&nbsp;&nbsp;MetrópolesCanetas Emagrecedoras: especialistas alertam para uso consciente, riscos e a necessidade de mudar hábitos&nbsp;&nbsp;Rádio UirapuruAlimentação na era do GLP-1 [Ebook]&nbsp;&nbsp;foodconnection.com.br",
-      "sources": [
-        {
-          "name": "R7",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObnExU0ctdzNaeUh1YTVsUGJCeHJvZU5EbFRSSDM1WU1lODBxaDZYbC1xNzM2b3VXZkxGMzRGcjdpYl9SczNqN0VuQU9PVGxuUDZFR0g1LVh1bkJTQzFsZUZVUmFUUjNNSlZoa1dFbk4yYTVXRTh0Q0xwV21rZmFSdlV4eW5mZmdYcXhhaDdQaG5oVGVZcWlOVWFn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "51c27e49a356",
-      "title": "Cardiologista revela 8 frutas que baixam a pressão arterial - DOL",
-      "published": "2026-05-18T01:38:54+00:00",
-      "summary": "Cardiologista revela 8 frutas que baixam a pressão arterial&nbsp;&nbsp;DOLA banana pode ser uma poderosa aliada no controle da pressão alta&nbsp;&nbsp;MetrópolesHipertensão: 8 frutas que baixam a pressão arterial, revela cardiologista&nbsp;&nbsp;Notícias ao Minuto BrasilHipertensão: as oito frutas que podem ajudar a baixar a pressão arterial, segundo cardiologista&nbsp;&nbsp;oRegiõesCarne, peixe ou tofu: qual é a melhor fonte de proteína para controlar a pressão arterial?&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "DOL",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRU9YZXpyS0ZBbXFzMloyM08yTkJyUlQwenJybEpsMDllX1pQcF8xQ3pUaGdkRVgzMDFRSU92bGdBU1hWZzlta3k2SkV4LW9xc2RucE9uczAwRjVDbDJrUHNBcXQxVnVMNGRlWlZIa1pHSzFmZFF5YTBhcmZVNUpSM25jNlo1Sk1WSmlZMTF1Q21sb0NPTHcwNzE1MVV5YU5WeDRXOXNR0gGuAUFVX3lxTE5hN2FBZHgyQVRPblA5UWNDM29NUTlaQ3RiTDhQbEtkeHNaUVZ5UTJlWDdGNkp2UFh3Y2MyNjJCdFM2OGh6SjJGdjc4MEhRbUluZXluY0RNYlZxMmtGY1BDWTEzV0ZnUXk1MmlJUjNHUmJkVDBMSDVMSlRXcDdmQnU5eGo1aFFxYUNpX3NyUXZqdk1yd2xKTEwzMWoxcWNreVFILTFtWl9KYXYzVWJ0UQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8d8d1bd77450",
-      "title": "Receitas de ivermectina para pacientes com câncer disparam após fala de Mel Gibson - Superinteressante",
-      "published": "2026-05-18T01:24:40+00:00",
-      "summary": "Receitas de ivermectina para pacientes com câncer disparam após fala de Mel Gibson&nbsp;&nbsp;SuperinteressantePrescrição de ivermectina dispara nos EUA após Mel Gibson associá-la à cura do câncer, mostra estudo&nbsp;&nbsp;EstadãoVenda de ivermectina cresce após Mel Gibson citar cura do câncer&nbsp;&nbsp;Pleno.NewsAparência no podcast de Joe Rogan ligada ao aumento da demanda por tratamento alternativo contra o câncer&nbsp;&nbsp;cinemaecerveja.com.brUso de ivermectina dispara entre pacientes com",
-      "sources": [
-        {
-          "name": "Superinteressante",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU21RbVhWdUtHOFliR0ZabjVBcjJvS0xXMHNKT2pHNllfODNaTXhuM2JWeXpiZ2R2emtaMU5hWXM3RTdOSE9vUmF3cG5zQ2kzZjNNWDBJVnczb0xreHpYR3pGTDc0RXk2Q3BiemEzejZvWEZlM1cyQmRIOF9ROW9iN2w2V00zbVRvNUhtNXoxbnpTN0lmQTZPYjl5aDhVRUNPZUlvSGhmZmdWWVhlSmR4d2E1ME5rcWlMa1E?oc=5"
         }
       ]
     }
