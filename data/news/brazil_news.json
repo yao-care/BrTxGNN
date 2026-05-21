@@ -1,10 +1,22 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-05-21T03:57:22.788856+00:00",
+  "fetched_at": "2026-05-21T09:45:59.210242+00:00",
   "total_fetched": 92,
-  "unique_count": 91,
-  "health_related_count": 39,
+  "unique_count": 92,
+  "health_related_count": 42,
   "news": [
+    {
+      "id": "d191a44fbc27",
+      "title": "A incrível descoberta que liga Lua de Netuno a sistema de satélite ancião - CNN Brasil",
+      "published": "2026-05-21T06:33:05+00:00",
+      "summary": "A incrível descoberta que liga Lua de Netuno a sistema de satélite ancião&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY3VhZVZtSURhNnpFMXFIUzNnMlhBbVRjWWpfMHNFeml5UnNfWXYweVFTcG5paDJWckFCYThIakE4M3JNRTMtVGdaZkluQlI4VWhydFk1UmtBZGw3SlZkRV9CY1V4amZtT2NUYmRiTnBNMUtoYWU5dWJMMGhTaXdvZG1Hb2RWaHpTdk1MLTJkUDlGNWRJTUMzd3Y5UXhObjVqQ05tNmRRSFVBTVVvRUE3Zg?oc=5"
+        }
+      ]
+    },
     {
       "id": "bbb40fbb3c56",
       "title": "Mulheres humanas costumavam acasalar com homens neandertais, diz estudo - UOL Educação",
@@ -21,11 +33,23 @@
       "id": "fa23e5e19f4f",
       "title": "O fígado costuma sofrer em silêncio - Folha de S.Paulo",
       "published": "2026-05-20T22:20:00+00:00",
-      "summary": "O fígado costuma sofrer em silêncio&nbsp;&nbsp;Folha de S.PauloComer este alimento no café da manhã ajuda a reduzir gordura no fígado&nbsp;&nbsp;MetrópolesEficaz contra fígado gorduroso: esta vitamina simples limpa o fígado&nbsp;&nbsp;Tua SaúdeAlerta para o fígado: hábitos que podem destruir esse órgão mesmo que você nunca consuma álcool&nbsp;&nbsp;Rádio ItatiaiaExcesso de ultraprocessados e sedentarismo elevam risco de gordura no fígado e problemas digestivos no inverno&nbsp;&nbsp;CBN Curitiba",
+      "summary": "O fígado costuma sofrer em silêncio&nbsp;&nbsp;Folha de S.PauloComer este alimento no café da manhã ajuda a reduzir gordura no fígado&nbsp;&nbsp;MetrópolesUm tipo de bebida que ajuda o fígado a reduzir o acúmulo de gordura e a se desintoxicar naturalmente&nbsp;&nbsp;Tua SaúdeAlerta para o fígado: hábitos que podem destruir esse órgão mesmo que você nunca consuma álcool&nbsp;&nbsp;Rádio ItatiaiaO que dizem os médicos sobre as propriedades hepatoprotetoras do café preto?&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWjNLUjB0bDY1SXIyYW10WWVvTFYzWVpudDJrdXBPQzgtWmlXR0NFOXFGT0ZiQnBPVUJVU0ZaUUZuc2tuX1BXd2F2c2dmYjJVSW5tZU42M1pubDhadTBaUGYtRy1Vb1RFMFFoR1duTXdnTmJYQ24tYUZWSHhCSXJiQWNHRk9fNHh6UjdFTzRxOG1jQjlfYzVpNndOYTZvUkdSa2dUeNIBqgFBVV95cUxOR29XdnZlUXdBcm5iMS1TOG1lZVJha2MtSmN6NWJyNlZORVczZVhoR1RvMUtfZ3BIQW1XU1BuWWk0WWstWVQwQkgxaHBGQTg2ZjZ0WXJwUVRiU2dSSlY5WGdPc2tyLUphc1JhSEViZFptaWJiSkIwbnF5Nnh6OEV4Q2htMU82RERsak5ldnJ0ZWN1cmM3UXRwMm50WnhJMmF6SlFsU3lKOUJtZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "01b336eb2956",
+      "title": "Unimed Goiânia descredencia clínicas de autismo e mães denunciam risco de regressão em tratamentos de crianças - Jornal Opção",
+      "published": "2026-05-20T20:50:00+00:00",
+      "summary": "Unimed Goiânia descredencia clínicas de autismo e mães denunciam risco de regressão em tratamentos de crianças&nbsp;&nbsp;Jornal Opção",
+      "sources": [
+        {
+          "name": "Jornal Opção",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNQmhQMmUxcnJyRkFEQlQtcm9vZFNGRHptTm9qdk80UmZiNjdpWDZxeFpZRXBhWDlodGh3dlViNzdUUUgwcEZmTTZDTXNNMGE4SjFqNXJhR1p5clRxOVQtay1ybW1YeFFyemtyVUYxbHRWeThtNU00Y2JOMEJGNkoyUW41UkFXdEMwQVJjeDk5S3lOMEExVEY0Q3pkRmFRZVRrQmVNWk51bE9DUlY5b0V4S0FjN2NCYm1Rc1NBTWNUSWxtaDNkdldrUDFZdnNjRDNleEdDenJZWXowQk9pSE9FSGFqcWJnVWVUcVowSlhYNDJ0Zy1DZmZTYldNRi1YRWVyTjNKY05vZ1pFYVk?oc=5"
         }
       ]
     },
@@ -78,6 +102,18 @@
       ]
     },
     {
+      "id": "ab236f804d44",
+      "title": "Quatro bairros de Aracaju registram alto índice de infestação do Aedes aegypti - G1",
+      "published": "2026-05-20T19:13:02+00:00",
+      "summary": "Quatro bairros de Aracaju registram alto índice de infestação do Aedes aegypti&nbsp;&nbsp;G1Infestação do mosquito da dengue cresce em Aracaju e bairros entram em alerta&nbsp;&nbsp;A8 SergipeQuatro bairros de Aracaju têm alto risco para infestação do Aedes aegypti&nbsp;&nbsp;InfonetAracaju registra índice de 1,9 de infestação do Aedes aegypti no terceiro LIRAa de 2026&nbsp;&nbsp;AJN1Seis Municípios de Sergipe Registram Alto Índice de Infestação pelo Aedes aegypti&nbsp;&nbsp;93 Notícias",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaS1IdlFUc1dJdTh6Q3B0VEFmZDFETHJjbHlqT2FoMDhYZ2lmTzFmbThqWXZOQU05MjVqbFNTNXlsZEZuQ01DeHZBX0FWQzh6V1lUOEx2NW9SNmRoT2pBS3F2MTd6WmZWY3FCdkhZdHBBTE1Bb0ZCaGZuRHI4TUFXVDdLcWQ0a0ZYeUxPQWZ6UnI3OFEtd0UwdnQtc2hmN0NLOXd0YXYybGR1VjN4d0pZVWgzRjRCUmhtOHV3WHBLYWU4UXNSTzZQRkp4dXU5Qzlf0gHfAUFVX3lxTFAxOUQ1b283OVpUOHJ5WTlRS1JxYWFzTkFUM24weWhYYzZLNzBHdGxfMXg1aEZPVmhpNXZMa04tYXFyZm9LS0I5dllldWM2b2RBbldiNC1aa2x2UjZhcVZLRlJadHgwcHVwdnhRdzRBUFRDVlJuUWd1bjlpT1k2TU5wX3VuenQzYjI2WmdRX1hGZG9URU9KRm52TThnRm4xb0ZFeURKcE42akVNa010eElZQ2pLeFM4dHl6WWp3czlxamFvbWNvVVBiRU9PLVRXRGg0ZllQbHJpTzJUczkwbWs?oc=5"
+        }
+      ]
+    },
+    {
       "id": "89f569c2ee3b",
       "title": "Nova tecnologia pode reduzir pressão alta sem uso de remédios - iG Saúde",
       "published": "2026-05-20T18:05:00+00:00",
@@ -117,7 +153,7 @@
       "id": "4ad23e8dafd9",
       "title": "Obesidade: peso em diferentes idades influencia risco de 7 cânceres - Metrópoles",
       "published": "2026-05-20T17:19:21+00:00",
-      "summary": "Obesidade: peso em diferentes idades influencia risco de 7 cânceres&nbsp;&nbsp;MetrópolesEstocolmo (Suécia): Estudo aponta relação entre obesidade e risco de câncer&nbsp;&nbsp;diário do estadoAlerta sobre o risco de câncer devido ao ganho de peso após os 30 anos.&nbsp;&nbsp;Vietnam.vnA obesidade antes dos 30 anos aumenta o risco de morte precoce em 70% – notícias sobre diabetes&nbsp;&nbsp;segundabase.com.brFicar acima do peso a partir da vida adulta aumenta risco de vários tipos de câncer em até",
+      "summary": "Obesidade: peso em diferentes idades influencia risco de 7 cânceres&nbsp;&nbsp;Metrópoles",
       "sources": [
         {
           "name": "Metrópoles",
@@ -126,26 +162,14 @@
       ]
     },
     {
-      "id": "528da2bf8ef6",
-      "title": "Atividade física promove \"limpeza\" do cérebro, diz estudo - dw.com",
-      "published": "2026-05-20T16:52:58+00:00",
-      "summary": "Atividade física promove \"limpeza\" do cérebro, diz estudo&nbsp;&nbsp;dw.com",
+      "id": "5fdd5e956835",
+      "title": "Atividade física promove \"limpeza\" do cérebro, diz estudo - DW.com",
+      "published": "2026-05-20T16:52:06+00:00",
+      "summary": "Atividade física promove \"limpeza\" do cérebro, diz estudo&nbsp;&nbsp;DW.com",
       "sources": [
         {
-          "name": "dw.com",
+          "name": "DW.com",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVHo4b0NYSkFJWXJWM1c3ZklUYWM3V21yQlhTa0NFX0JuRnQyMWluSUNBLWdzdnZpbXhwT0I0TFVyN25DaXQ5d0JUbFV5b3F1ZHZ4RHp0S2FiVVlMbm1mQzZDSlpLaTVRQVJrLThCQ1FpMXNiTk4wcC0xMktiV2ttT2NTdU8xa2xEMjREbVlxYWlGRlREYVhGdFVZUmVFR0ZOTlHSAaIBQVVfeXFMTUQyN1pQZ1J6QUE5NTZYU1dySWFtVDBDSTZ4blJMSUhIc3RKSGFzRlpnU19tamJ6ejZObi12X3VZOHZpa1hMY0lmUDZCVGpCbFFHWWRtSlpUcV9Ud2JCWGZMNnU0ZXREdjZCcWtHOTMtT2tIRGp0eHdsdTF2ekc5QlhYeEgxR0ROZnh0ZmR5dFMweWRoTzZxRUs2eks1dGpYZXNn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e39a40af4114",
-      "title": "Combinar treino de força com cardio não atrapalha ganho de músculo, aponta novo estudo - O Globo",
-      "published": "2026-05-20T16:48:36+00:00",
-      "summary": "Combinar treino de força com cardio não atrapalha ganho de músculo, aponta novo estudo&nbsp;&nbsp;O GloboCombinar treino de força com cardio não atrapalha ganho de músculo, diz estudo&nbsp;&nbsp;GloboFazer cardio não reduz hipertrofia, indica pesquisa da USP&nbsp;&nbsp;MetrópolesCombinar treino de força com cardio não prejudica ganho de músculo, revela estudo da USP&nbsp;&nbsp;Tribuna do SertãoCombinar treino de força com cardio não atrapalha ganho de músculo&nbsp;&nbsp;Estado de Minas",
-      "sources": [
-        {
-          "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcXZZNnNLcllIbnNRdGFtTmJuenZ4c05KZXc0enlpcFpCcWljNDI5ZXBrLTVUbTl4TFFKWU50TUZ3TXpnU1VBVThPU1FSdE56akk4QmRmVlhHM191Z1duZXZLbzV5aVluVVVhWkpfbjB2bUZtVFN4dDdlRWR2ckQ5cTBYQ0JnVi1GYzRXYnlkTXpsZmRBUDdTcjQ4bEcyUjZQRVhUSm1XMC1JbE9ZdUo0N2pyRU9EQnRMYTJjNXBIMGtLeURKS1A1ZnVrZlBSOHYwT2ZDbEktbzjSAecBQVVfeXFMUE9CdFcyNmdBcGlISEdZNEtyQ245cUlDVmwtNEpxTVFIanVQUVJiRDI0OVBQczRTeWtDR3BiSHB1NlRSdGNacno5TjZ5UFZTZUZNeFNBUXpzRzNDVjlvZG5jMVpNTWViOFdCT3VBZDdqODV0YXpDaWhQdjZHckFkRzFYcy15N3dzbFRQN1dxSTllU3N2RUltOER3T0pUR2NzZFZyWXdpd1VHdU1jc25MMk5tMnFSNEUxTloxUXlhZXRXSk1oOXl6TjFXT0JOQ3BEWWpDdW0zSnRwaHd5c2szdVFURS1ZT29N?oc=5"
         }
       ]
     },
@@ -186,10 +210,22 @@
       ]
     },
     {
+      "id": "d6263bcc2e0d",
+      "title": "Vinte e quatro pesquisadores da UFC se destacam em ranking internacional de produtividade acadêmica; oito são mulheres - Universidade Federal do Ceará (UFC)",
+      "published": "2026-05-20T15:47:00+00:00",
+      "summary": "Vinte e quatro pesquisadores da UFC se destacam em ranking internacional de produtividade acadêmica; oito são mulheres&nbsp;&nbsp;Universidade Federal do Ceará (UFC)",
+      "sources": [
+        {
+          "name": "Universidade Federal do Ceará (UFC)",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQV1hzZ0k3SUh6WFJQa0tnd01qemtXQkhiQkd4dUFham5lbHI5SW5nRGVoU2hiWWFJcUZ1aTg4VzgtY1dvVlFseUp1cVNGdE9jSUZocVpFTWgzZ0lyd0NlMzYwb251dEFUaHVPSlo1VVVTNEpzellJWU5PNm5tclJTbTA3NWtuc0JFWGUwR2Q4WEpaV19vZ1R4VENKZ19GeGZGT2FkZ3dqNW5EMlgxOVdPVmZ3b3R2RXprak9xS2k2RU1ZUkh6NW01aTlTUTlBVFJqYVNNcjBMbHhVSV9KX0pjbDNkaXc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "61f607af8c72",
       "title": "Síndrome dos ovários policísticos muda de nome para corrigir \"erro técnico de décadas\"; entenda - GZH",
       "published": "2026-05-20T15:07:26+00:00",
-      "summary": "Síndrome dos ovários policísticos muda de nome para corrigir \"erro técnico de décadas\"; entenda&nbsp;&nbsp;GZHDoença que afeta 170 milhões de mulheres no mundo muda de nome por atingir muito mais do que os ovários&nbsp;&nbsp;Gente SeguradoraSíndrome dos ovários policísticos: entenda por que o nome enganou médicos por décadas e o que muda para as pacientes&nbsp;&nbsp;GloboO que a SOP revela: 5 sinais emocionais por trás da síndrome&nbsp;&nbsp;TerraCondição que afeta milhões de mulheres ganha nova",
+      "summary": "Síndrome dos ovários policísticos muda de nome para corrigir \"erro técnico de décadas\"; entenda&nbsp;&nbsp;GZHDoença que afeta 170 milhões de mulheres no mundo muda de nome por atingir muito mais do que os ovários&nbsp;&nbsp;Gente SeguradoraSíndrome dos ovários policísticos: entenda por que o nome enganou médicos por décadas e o que muda para as pacientes&nbsp;&nbsp;GloboCondição que afeta milhões de mulheres ganha nova definição médica&nbsp;&nbsp;R7Mudança de nome pode influenciar desfechos de ",
       "sources": [
         {
           "name": "GZH",
@@ -213,7 +249,7 @@
       "id": "55ae717bbc9d",
       "title": "Secretário confirma sete mortes por síndrome respiratória em Criciúma em 2026; cinco por Influenza - Portal Engeplus",
       "published": "2026-05-20T11:57:40+00:00",
-      "summary": "Secretário confirma sete mortes por síndrome respiratória em Criciúma em 2026; cinco por Influenza&nbsp;&nbsp;Portal EngeplusDenis Luciano: rapaz de 24 anos morre por Influenza em Criciúma&nbsp;&nbsp;G1Prefeitura de Criciúma reforça o alerta à gripe com as baixas temperaturas&nbsp;&nbsp;Portal | TN SulCom baixa cobertura vacinal, sete mortes por síndrome respiratória preocupam Secretaria de Saúde de Criciúma&nbsp;&nbsp;SulinfocoApenas 45% do público prioritário já se vacinou contra a gripe em Cr",
+      "summary": "Secretário confirma sete mortes por síndrome respiratória em Criciúma em 2026; cinco por Influenza&nbsp;&nbsp;Portal EngeplusDenis Luciano: rapaz de 24 anos morre por Influenza em Criciúma&nbsp;&nbsp;G1Vacinação contra gripe segue restrita aos grupos prioritários em Tubarão&nbsp;&nbsp;NotisulSanta Catarina distribui 164 mil doses da vacina contra a gripe para reforçar imunização antes do inverno&nbsp;&nbsp;Rádio Super FM 99,9Prefeitura de Criciúma reforça o alerta à gripe com as baixas temperatu",
       "sources": [
         {
           "name": "Portal Engeplus",
@@ -237,7 +273,7 @@
       "id": "18bd5abf3599",
       "title": "'Bumbum de Mounjaro': efeito associado às canetas emagrecedoras viraliza nas redes - O Globo",
       "published": "2026-05-20T10:52:33+00:00",
-      "summary": "'Bumbum de Mounjaro': efeito associado às canetas emagrecedoras viraliza nas redes&nbsp;&nbsp;O GloboO ‘7 a 1’ das canetas emagrecedoras diante da cirurgia bariátrica&nbsp;&nbsp;VEJAEspecialista destaca tirzepatida como avanço no tratamento da obesidade em aula na Unipar&nbsp;&nbsp;Grupo RBJ de ComunicaçãoEspecialista explica como evitar efeito de “rosto derretido” após uso de caneta emagrecedora&nbsp;&nbsp;O TEMPOAvanço das canetas emagrecedoras faz crescer procura por cirurgia plástica após em",
+      "summary": "'Bumbum de Mounjaro': efeito associado às canetas emagrecedoras viraliza nas redes&nbsp;&nbsp;O GloboO ‘7 a 1’ das canetas emagrecedoras diante da cirurgia bariátrica&nbsp;&nbsp;VEJAEspecialista destaca tirzepatida como avanço no tratamento da obesidade em aula na Unipar&nbsp;&nbsp;Grupo RBJ de ComunicaçãoEspecialista explica como evitar efeito de “rosto derretido” após uso de caneta emagrecedora&nbsp;&nbsp;O TEMPOMédico de \"Quilos Mortais Brasil\" sobre canetas emagrecedoras: \"Ferramenta\"&nbsp;&",
       "sources": [
         {
           "name": "O Globo",
@@ -302,6 +338,18 @@
         {
           "name": "R7",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWnhQWGM1dGlXMjRhR0VBdUpuR3c3RHJFN3IxVnhKZV83WjZXQXV4TDNTcFJQbnBPdHhwbzFKcjVBLTRiVE13azk4NTQ2V0dwdDg4cTRIQUYtUVIwNjQ3aDZia2dSeEZJZ0FPRGFucTNkUWMzLUllX29lWHNpaVFqTkVlNG9HX25DcHNaZi1LV3lxek1Za0IzaWJGaVhLRnZyM1A3OEthbnlNaldUU1hqY2J3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "437c030aa21d",
+      "title": "Combinar treino de força com cárdio não atrapalha ganho de músculo - Agência FAPESP",
+      "published": "2026-05-20T03:01:00+00:00",
+      "summary": "Combinar treino de força com cárdio não atrapalha ganho de músculo&nbsp;&nbsp;Agência FAPESPCombinar treino de força com cardio não atrapalha ganho de músculo, diz estudo&nbsp;&nbsp;GloboFazer cardio não reduz hipertrofia, indica pesquisa da USP&nbsp;&nbsp;MetrópolesCombinar treino de força com cardio não prejudica ganho de músculo, revela estudo da USP&nbsp;&nbsp;Tribuna do SertãoCombinar treino de força com cardio não atrapalha ganho de músculo, aponta novo estudo&nbsp;&nbsp;O Globo",
+      "sources": [
+        {
+          "name": "Agência FAPESP",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb3ZUWXJqYnJFdnNtYjlaY01wYmdqb1YtYnRRdncxUkNnZmpSaFRtQUZDc1pCelA4aThYNzJaRnotN0RuNVhRV2FsSDNGU0lYRW56ZkZuaHpiTTMtRXB5eTdZMDU0SDN5X3RtdGsyRGYtWUZxeHFsUFgteXI2dm9ZaG5ad3dRR0E0SDFwTE5uUHVid0czTUlFeTRrZk9aa2s?oc=5"
         }
       ]
     },
@@ -390,6 +438,18 @@
       ]
     },
     {
+      "id": "8e65282f2a31",
+      "title": "Dor de cabeça frequente não é normal: saiba quando procurar ajuda - Correio do Povo",
+      "published": "2026-05-19T18:28:43+00:00",
+      "summary": "Dor de cabeça frequente não é normal: saiba quando procurar ajuda&nbsp;&nbsp;Correio do PovoFala Saúde: neurologista tira dúvidas sobre dor de cabeça&nbsp;&nbsp;G1Dor de cabeça: saiba como diferenciar os tipos de cefaleia&nbsp;&nbsp;GZHTrês é demais: médicos alertam para dor de cabeça recorrente&nbsp;&nbsp;UOL NotíciasDor de cabeça súbita: Marcos Daniel Xavier alerta para aneurisma cerebral&nbsp;&nbsp;band.com.br",
+      "sources": [
+        {
+          "name": "Correio do Povo",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTFhFdEt1LXNHOUNma1FQc1oxSXVBVHAzek5YSTR6OUhWWHhuVWVFNUtCQ1pzX1RJY05MV2JnRUM5VndZQl9oV3FMYm0zWnZJb2tnTkJ3WDgxUGJrRS0zb3oxTDRselpZV3Bqd3RfZWtPTi1Md0ZUNVp5LU1RNlAzdU5QZjU0OEROX2tTdUxlczNFbC1MaTM1cG5UMENQX2w5cWRwNzhsaVhwU01hMmNMbGl5bUZ1VzR6YlQwWU5aeEJYT1dlSW5OYlpGSUw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d01c12b181fb",
       "title": "As 3 atividades físicas que a ciência recomenda para combater a depressão e a ansiedade são: corrida, natação e… - Tua Saúde",
       "published": "2026-05-19T18:00:00+00:00",
@@ -410,18 +470,6 @@
         {
           "name": "VEJA",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPd0FsZ0VQdWEtSTczV3hfUXdLalpQMkNjdWQxV3oybHE2Tm1sYjJ5LTZCY3hranVQWWUwSHhjWWd3OHRRV1ZndGtxQlRkeGlienJMSm1UdGdpWVoyYUd5anN2ZzgyRV9WbGpfRzNfbXZlY0lsTVdtZTkyRThQX1laQUF3WnZtVERNYnVvZjlBZ2R1SmgwTlpVRm1HMnJDVUFSQzJQajhhNVh4ekNsTm42aUN2cVFlUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "09e5268b46f4",
-      "title": "Como saber se você deve se preocupar com dor de cabeça ou não, de acordo com neurologista - Extra online",
-      "published": "2026-05-19T15:14:57+00:00",
-      "summary": "Como saber se você deve se preocupar com dor de cabeça ou não, de acordo com neurologista&nbsp;&nbsp;Extra onlineFala Saúde: neurologista tira dúvidas sobre dor de cabeça&nbsp;&nbsp;G1Dor de cabeça: saiba como diferenciar os tipos de cefaleia&nbsp;&nbsp;GZHTrês é demais: médicos alertam para dor de cabeça recorrente&nbsp;&nbsp;UOL NotíciasMédicos alertam para dor de cabeça recorrente e sinais de risco&nbsp;&nbsp;Jornal de Brasília",
-      "sources": [
-        {
-          "name": "Extra online",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZHBFWEp4NERtczVocjE0NWdVaW0wemFJQTVXZHRVZ1BzcGNEM1JRMHZyNkpPTy1FQjVmYjFXWkdVbzZxWU1BcTVqVFZIcUx4dHh4d0kySlo2dFZMc0hqQTl3MkpWS1NUYkt1SFJYM0pFWHZwZjZLUlM2TU9HSFIyV1VWaXJVUW01VXNKajVuVjY0amw4RUtweXRDWXNQaFR5b3lSSG1fMDRHaGVoMkFiVHVVSnZONzhkbnlkRmgtUnZWZ0phS3BxQXZyOVI3VW8wMTdsbURLd9IB5gFBVV95cUxOQW1QYWU0SlV5dFlrb1hnUEFkb0YzUVdON1FKbDRTSDB3ZmM3UXNVZGFGNG9NcF9KdUt6ME5KY1lHcVg2c0hZdnR5bnl1ZUZFekU4ejJFWmZNbVRqZ1Bpajc3eG9qaUxZS3ZwaGJGdWE0eHVDNklOdEU0M3l0eldzOXJGcllTVURoSElEa0hPSTlzb2JTY0U5NUVCVl9odERkZzMxQW1tWm5xS1lEd2FNZ1FmZGxtV0Q3bHJ5OE1WUzZZMnpCcENmVEl4T1UweHJEcHVWa0txSFlSWUZnVE41ekZlRmdSZw?oc=5"
         }
       ]
     },
@@ -458,18 +506,6 @@
         {
           "name": "Rádio Itatiaia",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaHZQdlUwTTdaWFp1Vzk2bEpveG02SGlxYmMza3oxX0oxbktYeXYyaEpQY0E1dGdDeE9MT2JFRnh5cGotcVozS004MHpmTi1lUUZYWkdhOWRqbVY5anlvaGNCWHMxdlE1ZnBFbW0zN0ZWY2g1eEE0dkxUMHJyb2xQYzllcU44WVNZSHBFZU13WmRuTEVYdTlqSHdLRjkwR1ZmVlEwTEpDS09pM191OUhsTVFwbEppS0hQMlk4dFd1ckZDcUk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1f468486cbaa",
-      "title": "El Niño pode elevar casos de dengue no Brasil, com pior cenário no Sul e no Sudeste - Folha de S.Paulo",
-      "published": "2026-05-19T07:00:00+00:00",
-      "summary": "El Niño pode elevar casos de dengue no Brasil, com pior cenário no Sul e no Sudeste&nbsp;&nbsp;Folha de S.PauloEl Niño pode elevar casos de dengue no Brasil, principalmente nos Sul e Sudeste&nbsp;&nbsp;Instituto Humanitas Unisinos - IHUCalor, chuvas e influência do El Niño elevam risco de dengue no Brasil&nbsp;&nbsp;Blog do Eloilton CajuhyPesquisa aponta que El Niño pode causar aumento de casos de dengue&nbsp;&nbsp;Band News FM Curitiba",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOX2VIa1lSQ1pXRlcwTENiUkNjbGZUX2ZEOTFmclRtb0ZjY21kamc3ZmVXb19lNzhpMlY0aGVDUFREZTR3S2tpeWt5eUFrMkVUYUtaemZoeHVuVFFsY0gyX0U2V0tBRjVNYndYM0JFOXg1aUE2eHAwZ2FueGtZZnZGejRRT2lnN3l1VGJKMUNvWXE1aU9fOVFpTThmdHduaTBpZERUaFcxZXRkUWVFUDBCMmpwVzFRYmNJZ0xlLWVna18xRWtZOTlVd3RrTmNQN3JCdlJNVkJLbDFBbFXSAeABQVVfeXFMUDhhZXBoOEN0d2NjSzdVaXBqYktoQUctS09xMmU2QVdDa21wcmFsWTVxSF8tdVF3QV9fUWs3ZEdvaV9oM3ZMajRmbUtYMzRmLWNRaDRZV0xoWHVQMkZ5WUQ1ME5Sandxd3dZLXM3MWVBQUEwTml3Vm91c3NuTGMxeS10YkxGQUxNUi1oQkdDazY3MVU0dG9FUDdTc01id0pKV1NYOC1fVkZSWU9tMHdaUnUyVl90Wk1fUEFydGlqdFV0RVgyRkR1RW1kZEtiQ1YwUUd5cXFsQ0JlTWp2N0JuRGM?oc=5"
         }
       ]
     }
