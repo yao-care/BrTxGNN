@@ -1,10 +1,46 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-05-21T09:45:59.210242+00:00",
-  "total_fetched": 92,
-  "unique_count": 92,
-  "health_related_count": 42,
+  "fetched_at": "2026-05-21T15:32:57.023316+00:00",
+  "total_fetched": 97,
+  "unique_count": 97,
+  "health_related_count": 44,
   "news": [
+    {
+      "id": "dee11a636aa5",
+      "title": "SUS adota novo exame para detectar câncer de intestino antes dos sintomas - G1",
+      "published": "2026-05-21T12:21:56+00:00",
+      "summary": "SUS adota novo exame para detectar câncer de intestino antes dos sintomas&nbsp;&nbsp;G1Colonoscopia: aliada essencial na prevenção e no diagnóstico precoce&nbsp;&nbsp;Agora No ValeNúmero de exames para detecção precoce do câncer de intestino mais que dobra na última década&nbsp;&nbsp;R7Câncer de intestino: 30% dos casos podem ser evitados com mudança de hábitos&nbsp;&nbsp;Portal Clube NewsCâncer de intestino: sinais ignorados ainda atrasam diagnóstico no Brasil&nbsp;&nbsp;Bastidores da TV",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQnRPVWhTa0ZjaE4zRTJmVW9zbDJabGxHcnFrTi13UEItT2hnQkkxWFI0X0cxYndDWkRBVFhmMGxWcVRheXNFN1I0Sk9valBwckR3eUJiQ1dQejRfRXFRSHU5UTczYlpsNzRvSkZtOGN4dEMwcHJEekV1Z0t2TXNfbTlCTkRpdHU2R1BydTFUQV81VnpqNVV0ay1meXpWd3FwbGtzdy1oNjYyVWltY3F2WmxxcGZpTklyMm5pckdwT0N1UTDSAdIBQVVfeXFMT0lUTUJ4aGlCMER6UnY3NkdoeW5SR3ZXdmxVOU1UckFMc2dLVW9GSFhCS0lUWDN6UXBhMVBvUFBzdHNMdFI3MGtKbEJwVzhZM3lBWUxSaEhfUXlTbmR2aEVWWkNhSUtSb2QtTkpDdjNxR0c1dlR6dWwwel9TQTlrZ0xtX2NHbUV4X1NwR01PSG1FNVJhVEh6amp0MUhIbE9WOFZwLVpsUWpCZXp6N2RZSWpwMkt2X2w1dnZmc1VpZWtTT18yUk01a0szcm43cTY1enNn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7f6d7ecb1eeb",
+      "title": "Artrose no joelho tem cura? Veja sintomas, tratamentos e como aliviar a dor - Diário do Nordeste",
+      "published": "2026-05-21T11:00:00+00:00",
+      "summary": "Artrose no joelho tem cura? Veja sintomas, tratamentos e como aliviar a dor&nbsp;&nbsp;Diário do NordesteA dor no joelho que o ciclista aprende a ignorar e por que isso cobra caro depois&nbsp;&nbsp;Repórter NaressiDores no joelho ao praticar atividade física? Especialista apresenta soluções&nbsp;&nbsp;Jornal do BrásJoelhos&nbsp;&nbsp;PúblicoMédico alerta sobre hábitos \"banais\" que podem prejudicar os joelhos&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "Diário do Nordeste",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcUN1VUs2el9GX19ZR19hM0xSOUVNY0FPRW9FV3AxQWhqeFBHZC1aZlZCbkhSTHhScEtySUFUT3lzMEVFMkdmN05WU2Y5TXpBOUpUN04tYS0wVm93eHZ6OTNwUXZfcVphWkhWdG9obXlQUEdMbkxJamJKY0dmdFpzSmVqRWY2QU9CenpnVjBOQ2hwUXFpMVZBMDJYX3dlSVBGVGR0TEhTQi15ZWw2S1I5c0RJVUhQT2dqYmFQdEpXU0VYRVVuX2lEcXg2WTVIM1NCLTZ1MGluMUlDTVhYUVBpYQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3fec9884f201",
+      "title": "Planos de saúde agora são obrigados a cobrir cirurgia robótica - TecMundo",
+      "published": "2026-05-21T08:15:00+00:00",
+      "summary": "Planos de saúde agora são obrigados a cobrir cirurgia robótica&nbsp;&nbsp;TecMundo",
+      "sources": [
+        {
+          "name": "TecMundo",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM1ZiMzFiNW9pWHdxenkxbVdjc01oVDZJNzRhbnhBenV4RzU4d1pHWXRSZkw5bTBHZ0RsVWozcjhkYUEzdE9RZncxckJqcV8tRWhjRTVtVGdrNTFMU3JCclJtVXRpQlEzQWQ0QUhMRFZ4bWsxYm5IeUZnYjY5ejRTc1cteGs2Q2RrNFlEYTZHVGY5Ukk4dGdDTlpBcWNUU0pNX0Y0UEtHemU2aG94c1JqU0h3?oc=5"
+        }
+      ]
+    },
     {
       "id": "d191a44fbc27",
       "title": "A incrível descoberta que liga Lua de Netuno a sistema de satélite ancião - CNN Brasil",
@@ -14,6 +50,30 @@
         {
           "name": "CNN Brasil",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY3VhZVZtSURhNnpFMXFIUzNnMlhBbVRjWWpfMHNFeml5UnNfWXYweVFTcG5paDJWckFCYThIakE4M3JNRTMtVGdaZkluQlI4VWhydFk1UmtBZGw3SlZkRV9CY1V4amZtT2NUYmRiTnBNMUtoYWU5dWJMMGhTaXdvZG1Hb2RWaHpTdk1MLTJkUDlGNWRJTUMzd3Y5UXhObjVqQ05tNmRRSFVBTVVvRUE3Zg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "08b432bef354",
+      "title": "Confira 3 alimentos que você deve \"abandonar\" para proteger seus rins - Metrópoles",
+      "published": "2026-05-21T05:00:00+00:00",
+      "summary": "Confira 3 alimentos que você deve \"abandonar\" para proteger seus rins&nbsp;&nbsp;MetrópolesAlimentação contribui para qualidade de vida na Policlínica de Tucuruí&nbsp;&nbsp;Agência Pará de NotíciasNutrição renal: alimentação adequada é aliada da saúde dos rins&nbsp;&nbsp;F5 NewsEspecialistas deixam aviso: 4 alimentos que só fazem mal aos rins&nbsp;&nbsp;Notícias ao MinutoEspecialistas alertam: 4 alimentos que podem prejudicar os rins&nbsp;&nbsp;Notícias ao Minuto Brasil",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVFVnN0dINmdneFRXSmQ0UEFJdkN5UXVINjNkTzVKUE1GYWgtTnlqMVBVVV81Qkh3d1dPOXlHZVdnMzZzaENaay1TUzZyWFFuWnNMX0xSd2ZvN1cwbFNxLU5ZeDgwenZkV1p6QW04QTZzMWpENG1Qb0ltd1hFSGVjQkpyWnZ2RHpodlVUS25iZ0ZUZWVpYTZTNElDM1ZfVk04dmdjYzJzcGYtME11UFNzSjd4YXFPQzVnaGxJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b81acdab9efd",
+      "title": "Quantos banhos por semana idosos com mais de 60 anos devem tomar para manter a pele saudável, segundo profissionais da saúde - Portal 6",
+      "published": "2026-05-21T04:08:41+00:00",
+      "summary": "Quantos banhos por semana idosos com mais de 60 anos devem tomar para manter a pele saudável, segundo profissionais da saúde&nbsp;&nbsp;Portal 6",
+      "sources": [
+        {
+          "name": "Portal 6",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdHpoRW8zd1RRX0lKdzBmNmVYaC1uMkdRTHF4Qkk2SHVqSGlHZTFCbkZZU1pkQVVvall5RXBvU29BU01ucE4tMGtXTlFoT3FZcW95MVpqbDJlN3ZlU0llVmtGTmhQV1NiN2ZqZndlYU44U0E0T3I4U3FpWTVYcjg0WWpUTUVIMzNCU20xTThDWG16dnlTSWxaQ1dOTFJhR181TEUtUFhsT0NINXRqUHFSelV0OW93Zi1aVEd5Zml3cW1yYXhOdGRFZF9fLTNUYkxhX1VHLWRYUzFZQW55V3d6NWZHUzFvSThVcFdjdGxpaw?oc=5"
         }
       ]
     },
@@ -33,11 +93,23 @@
       "id": "fa23e5e19f4f",
       "title": "O fígado costuma sofrer em silêncio - Folha de S.Paulo",
       "published": "2026-05-20T22:20:00+00:00",
-      "summary": "O fígado costuma sofrer em silêncio&nbsp;&nbsp;Folha de S.PauloComer este alimento no café da manhã ajuda a reduzir gordura no fígado&nbsp;&nbsp;MetrópolesUm tipo de bebida que ajuda o fígado a reduzir o acúmulo de gordura e a se desintoxicar naturalmente&nbsp;&nbsp;Tua SaúdeAlerta para o fígado: hábitos que podem destruir esse órgão mesmo que você nunca consuma álcool&nbsp;&nbsp;Rádio ItatiaiaO que dizem os médicos sobre as propriedades hepatoprotetoras do café preto?&nbsp;&nbsp;Vietnam.vn",
+      "summary": "O fígado costuma sofrer em silêncio&nbsp;&nbsp;Folha de S.PauloComer este alimento no café da manhã ajuda a reduzir gordura no fígado&nbsp;&nbsp;MetrópolesUm tipo de bebida que ajuda o fígado a reduzir o acúmulo de gordura e a se desintoxicar naturalmente&nbsp;&nbsp;Tua SaúdeEpisódios de bebedeira triplicam o risco de lesão no fígado, alerta estudo&nbsp;&nbsp;Estado de MinasAlerta para o fígado: hábitos que podem destruir esse órgão mesmo que você nunca consuma álcool&nbsp;&nbsp;Rádio Itatiaia",
       "sources": [
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWjNLUjB0bDY1SXIyYW10WWVvTFYzWVpudDJrdXBPQzgtWmlXR0NFOXFGT0ZiQnBPVUJVU0ZaUUZuc2tuX1BXd2F2c2dmYjJVSW5tZU42M1pubDhadTBaUGYtRy1Vb1RFMFFoR1duTXdnTmJYQ24tYUZWSHhCSXJiQWNHRk9fNHh6UjdFTzRxOG1jQjlfYzVpNndOYTZvUkdSa2dUeNIBqgFBVV95cUxOR29XdnZlUXdBcm5iMS1TOG1lZVJha2MtSmN6NWJyNlZORVczZVhoR1RvMUtfZ3BIQW1XU1BuWWk0WWstWVQwQkgxaHBGQTg2ZjZ0WXJwUVRiU2dSSlY5WGdPc2tyLUphc1JhSEViZFptaWJiSkIwbnF5Nnh6OEV4Q2htMU82RERsak5ldnJ0ZWN1cmM3UXRwMm50WnhJMmF6SlFsU3lKOUJtZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3ec06f6aca31",
+      "title": "Casos de sífilis crescem em Brusque e doença já causou três abortos - Rádio Cidade",
+      "published": "2026-05-20T21:45:00+00:00",
+      "summary": "Casos de sífilis crescem em Brusque e doença já causou três abortos&nbsp;&nbsp;Rádio CidadeCasos de sífilis crescem em Brusque; doença já causou três abortos em 2026 – Araguaia 104,5 FM&nbsp;&nbsp;araguaiabrusque.com.brCasos de sífilis crescem em Brusque e doença já causou três abortos em 2026&nbsp;&nbsp;Portal da Cidade - Brusque / SC",
+      "sources": [
+        {
+          "name": "Rádio Cidade",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XbUxXd2NEdDVqb2hFZGNBdmJVOFJRZ0dGQnVUWE9oQ3d5RWhrb1NROTFDcjU4eEpKQTBTOHpLRVFENkJ6MlN5TGpKQUJBeWR2MzBuUl9tcw?oc=5"
         }
       ]
     },
@@ -57,7 +129,7 @@
       "id": "6cf81162688f",
       "title": "Saúde realiza plantão especial de vacinação contra gripe e atualização da carteira vacinal - São Carlos Agora",
       "published": "2026-05-20T20:29:00+00:00",
-      "summary": "Saúde realiza plantão especial de vacinação contra gripe e atualização da carteira vacinal&nbsp;&nbsp;São Carlos AgoraSaúde realiza plantão especial de vacinação contra a gripe no sábado&nbsp;&nbsp;Região em DestakeVacina contra a gripe está sendo aplicada no sistema drive thru&nbsp;&nbsp;Ipiranga NewsDrive-thru de vacinação contra a gripe imuniza 354 pessoas em quatro horas em São Carlos&nbsp;&nbsp;Radio Sanca Web TV",
+      "summary": "Saúde realiza plantão especial de vacinação contra gripe e atualização da carteira vacinal&nbsp;&nbsp;São Carlos AgoraSaúde faz plantão especial para vacinação contra a gripe e revisão da carteira vacinal&nbsp;&nbsp;São Carlos em RedeSecretaria de Saúde promove campanha de vacinação contra a gripe em Sarandi&nbsp;&nbsp;radiominuano.com.brVacina contra a gripe está sendo aplicada no sistema drive thru&nbsp;&nbsp;Ipiranga NewsSaúde realiza plantão especial de vacinação contra a gripe no sábado&nbs",
       "sources": [
         {
           "name": "São Carlos Agora",
@@ -74,6 +146,30 @@
         {
           "name": "Olhar Digital",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTnNRV2VfRW5vYmY2dEQ3LU54cHgtelhfYkVRTE5HYWd3Y2NiejVkODVWWDFFSGZCZGdtMG1zY2xCLXNJR3pqNzVDNm1aWjNmRGlFaERlVzBhbmRpWGVUdHhreG9NNkxjMl90TWxpdnJ3dXItOE1mT2NnR3BOSEFiZTJvQmI3TTZuVWhtQ3Jzb0pJalJ1R1dNWlNUeHBJS1FnWEhteU1HeFlsSkxpd2FwT052SQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7244df9e01df",
+      "title": "Cinco pacientes da região, incluindo crianças, internados com suspeitas de influenza - Atual FM",
+      "published": "2026-05-20T20:10:43+00:00",
+      "summary": "Cinco pacientes da região, incluindo crianças, internados com suspeitas de influenza&nbsp;&nbsp;Atual FMSecretaria de Saúde alerta para circulação do vírus da Influenza e reforça vacinação em Jardinópolis&nbsp;&nbsp;MUNICÍPIO de Jardinópolis“Nos preparamos para alta de doenças com a chegada do frio”, diz secretário Alessandro Muliterno&nbsp;&nbsp;Tua RádioAlta nos casos de doenças respiratórias acende alerta para cuidados preventivos&nbsp;&nbsp;PORTAL CONCÓRDIAModelo registra aumento nos casos d",
+      "sources": [
+        {
+          "name": "Atual FM",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWGwtRy0ydExJdThnRW5CZmZFWUl3NVNyeWxQVW5oLUJUX2pzTE5Ra2tPdGxVYjFheGN2d2lQdV9yMnBBQW1QSXdTX1JLdWs5a3R0RnJ2eWdsSnhmMENNSUZoRV9QSGRiUnliNjdmamtjMzdSa3U0eXREMFN6bUtnc3JZY2haT3NqR2NxbGxSbVdxUHZnY3dLcXByVnUxZS1BUDd6U3lJamtXdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cf967241eb52",
+      "title": "Escrita pode ajudar a identificar declínio cognitivo, diz estudo - Metrópoles",
+      "published": "2026-05-20T20:03:37+00:00",
+      "summary": "Escrita pode ajudar a identificar declínio cognitivo, diz estudo&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1CcnBMeW5SOVp3WVFjdXlnZ1dqZVJSQmh3LUROZlRkRFlsQzk4THhKM2FWMlliYU9NZndhVjUwdWJ6LVB1ZHZSSVBWMWpXQUpwbUZRVm00NFBvRWs4WTlFeWlaTU90V2tTaHlFbEYzTVZVYTRKSUl3VEFJOA?oc=5"
         }
       ]
     },
@@ -105,7 +201,7 @@
       "id": "ab236f804d44",
       "title": "Quatro bairros de Aracaju registram alto índice de infestação do Aedes aegypti - G1",
       "published": "2026-05-20T19:13:02+00:00",
-      "summary": "Quatro bairros de Aracaju registram alto índice de infestação do Aedes aegypti&nbsp;&nbsp;G1Infestação do mosquito da dengue cresce em Aracaju e bairros entram em alerta&nbsp;&nbsp;A8 SergipeQuatro bairros de Aracaju têm alto risco para infestação do Aedes aegypti&nbsp;&nbsp;InfonetAracaju registra índice de 1,9 de infestação do Aedes aegypti no terceiro LIRAa de 2026&nbsp;&nbsp;AJN1Seis Municípios de Sergipe Registram Alto Índice de Infestação pelo Aedes aegypti&nbsp;&nbsp;93 Notícias",
+      "summary": "Quatro bairros de Aracaju registram alto índice de infestação do Aedes aegypti&nbsp;&nbsp;G1LIRAa aponta avanço da infestação do Aedes aegypti em Aracaju | Jornal do Estado | TV Atalaia&nbsp;&nbsp;A8 SergipeQuatro bairros de Aracaju têm alto risco para infestação do Aedes aegypti&nbsp;&nbsp;InfonetAedes aegypti avança em Aracaju e alerta população&nbsp;&nbsp;Prefeitura de AracajuAracaju registra índice de 1,9 de infestação do Aedes aegypti no terceiro LIRAa de 2026&nbsp;&nbsp;AJN1",
       "sources": [
         {
           "name": "G1",
@@ -164,7 +260,7 @@
     {
       "id": "5fdd5e956835",
       "title": "Atividade física promove \"limpeza\" do cérebro, diz estudo - DW.com",
-      "published": "2026-05-20T16:52:06+00:00",
+      "published": "2026-05-20T16:52:58+00:00",
       "summary": "Atividade física promove \"limpeza\" do cérebro, diz estudo&nbsp;&nbsp;DW.com",
       "sources": [
         {
@@ -222,18 +318,6 @@
       ]
     },
     {
-      "id": "61f607af8c72",
-      "title": "Síndrome dos ovários policísticos muda de nome para corrigir \"erro técnico de décadas\"; entenda - GZH",
-      "published": "2026-05-20T15:07:26+00:00",
-      "summary": "Síndrome dos ovários policísticos muda de nome para corrigir \"erro técnico de décadas\"; entenda&nbsp;&nbsp;GZHDoença que afeta 170 milhões de mulheres no mundo muda de nome por atingir muito mais do que os ovários&nbsp;&nbsp;Gente SeguradoraSíndrome dos ovários policísticos: entenda por que o nome enganou médicos por décadas e o que muda para as pacientes&nbsp;&nbsp;GloboCondição que afeta milhões de mulheres ganha nova definição médica&nbsp;&nbsp;R7Mudança de nome pode influenciar desfechos de ",
-      "sources": [
-        {
-          "name": "GZH",
-          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPVzB6cWtpeEpwN0R6d2t5X090SUxuZVdjMEU1Z3RmQ0h6U3NNQTkxUk5HU2Q5bHhGSVZONG16ZHVRdXgwcjVSWWJzMjZ5d0dkSWdleHlyZF94Z3V0Y1BlTjgwQ0NBb3M5dGhxa3NQRVlXSDlqTmQtT3JSejZ0MklxX2pLZWVIU0gxWjlWYmZpUHZvNjFxc0hSNE9qUzU0aTNGQS1yWDU4S2tHUVlhdlhESURFcVhqd2NUb2JSQW5KYzR1aW1rRl9wSjRoSUhNS1lvakJyRGo4R0NzaVNqMmIyNzhSTTFLLWlLaXZJekVCc05EX0Q1UGZGNTUtclo1akduSlk1azU0VzE1azZFejlPSTZkUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "bffaf1c22d03",
       "title": "As pessoas consideradas mais bonitas costumam nascer nesses meses, segundo estudo - Portal 6",
       "published": "2026-05-20T13:39:38+00:00",
@@ -249,7 +333,7 @@
       "id": "55ae717bbc9d",
       "title": "Secretário confirma sete mortes por síndrome respiratória em Criciúma em 2026; cinco por Influenza - Portal Engeplus",
       "published": "2026-05-20T11:57:40+00:00",
-      "summary": "Secretário confirma sete mortes por síndrome respiratória em Criciúma em 2026; cinco por Influenza&nbsp;&nbsp;Portal EngeplusDenis Luciano: rapaz de 24 anos morre por Influenza em Criciúma&nbsp;&nbsp;G1Vacinação contra gripe segue restrita aos grupos prioritários em Tubarão&nbsp;&nbsp;NotisulSanta Catarina distribui 164 mil doses da vacina contra a gripe para reforçar imunização antes do inverno&nbsp;&nbsp;Rádio Super FM 99,9Prefeitura de Criciúma reforça o alerta à gripe com as baixas temperatu",
+      "summary": "Secretário confirma sete mortes por síndrome respiratória em Criciúma em 2026; cinco por Influenza&nbsp;&nbsp;Portal EngeplusDenis Luciano: rapaz de 24 anos morre por Influenza em Criciúma&nbsp;&nbsp;G1Vacinação contra gripe segue restrita aos grupos prioritários em Tubarão&nbsp;&nbsp;NotisulCriciúma investiga mortes por Influenza A e encara baixa procura de vacina&nbsp;&nbsp;Portal | TN SulSaúde de Criciúma orienta sobre prevenção à gripe com as baixas temperaturas&nbsp;&nbsp;Ligado no Sul",
       "sources": [
         {
           "name": "Portal Engeplus",
@@ -273,7 +357,7 @@
       "id": "18bd5abf3599",
       "title": "'Bumbum de Mounjaro': efeito associado às canetas emagrecedoras viraliza nas redes - O Globo",
       "published": "2026-05-20T10:52:33+00:00",
-      "summary": "'Bumbum de Mounjaro': efeito associado às canetas emagrecedoras viraliza nas redes&nbsp;&nbsp;O GloboO ‘7 a 1’ das canetas emagrecedoras diante da cirurgia bariátrica&nbsp;&nbsp;VEJAEspecialista destaca tirzepatida como avanço no tratamento da obesidade em aula na Unipar&nbsp;&nbsp;Grupo RBJ de ComunicaçãoEspecialista explica como evitar efeito de “rosto derretido” após uso de caneta emagrecedora&nbsp;&nbsp;O TEMPOMédico de \"Quilos Mortais Brasil\" sobre canetas emagrecedoras: \"Ferramenta\"&nbsp;&",
+      "summary": "'Bumbum de Mounjaro': efeito associado às canetas emagrecedoras viraliza nas redes&nbsp;&nbsp;O GloboO ‘7 a 1’ das canetas emagrecedoras diante da cirurgia bariátrica&nbsp;&nbsp;VEJAMédico de \"Quilos Mortais Brasil\" sobre canetas emagrecedoras: \"Ferramenta\"&nbsp;&nbsp;CNN BrasilEspecialista destaca tirzepatida como avanço no tratamento da obesidade em aula na Unipar&nbsp;&nbsp;Grupo RBJ de ComunicaçãoUso de canetas emagrecedoras mudou o hábito de consumo nos supermercados&nbsp;&nbsp;band.com.br",
       "sources": [
         {
           "name": "O Globo",
@@ -294,18 +378,6 @@
       ]
     },
     {
-      "id": "4016b4ae88df",
-      "title": "Ebola, hantavírus: qual o risco dos novos surtos virarem uma pandemia? Especialistas explicam - O Globo",
-      "published": "2026-05-20T07:30:58+00:00",
-      "summary": "Ebola, hantavírus: qual o risco dos novos surtos virarem uma pandemia? Especialistas explicam&nbsp;&nbsp;O GloboEbola e hantavírus confirmam que mundo continua despreparado, diz especialista em pandemias&nbsp;&nbsp;UOL NotíciasOMS alerta que a humanidade está à beira de uma pandemia ainda mais devastadora:&nbsp;&nbsp;Instituto Humanitas Unisinos - IHUInfectologista revela quais as chances de novos surtos se tornarem pandemia&nbsp;&nbsp;CNN BrasilAlexandre Padilha celebra SUS na Assembleia da OMS",
-      "sources": [
-        {
-          "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNXFUQU1UdVctV2M1SkhiZlFNQ0hWWjNMX0QwdDkwZDRxMlQ4bFRkRWhKc1dpa0pTbVVyNFFPc1FKRWlDVWQ1LXVDNEZhUVZDc2hKbUpUZkd1b3lXUENuQ19TOVNwV0k3TnJVOENaTkNIejY4MExOXzhMcENrd2ZJNnF0S19VM3BXRFBSNmprNmpsVzVxcFlVRmx4QjdFbTU5MnJWWVJLMjI0VUNtZFA5LU9Tb2NLNTJxSUV4WlNQOEltREVueGpGcjBLZzdyZXJMR0pTWUc0bTFGMTdLVEVZ0gHuAUFVX3lxTE5ha290Mnl6c3EtNU45cG1takhJRkp0MFFmbUxPT2VLSkNLMU5ZeFdTektrc2NpQ3cweEpTRG1fR1c5a1NOd1lKbnpFd3BFRTVGTGV1bms4ZkF0OHAyMlJHeUh3WWlSbnl0c3JuRzRvMFlzSWUtY3pXTWpUTExVWXBSZW5udUlRVmotX1VGZ2VUallWZkdWSmdpTFNjZWgtTzVzVkZ5V3R4SEhPb1g5WXpseTktLVUxMmdEQU5fSlZsRDMwNXdJZUVxNmxDbjlnN3lfUTdMYWdiVE1FakxOdV9ZM2cwVDJBUkhPSnFVOVE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "88526185f03a",
       "title": "Nova espécie de marsupial é descoberta por pesquisadores da UFRJ em fragmentos da Mata Atlântica no Rio - O Globo",
       "published": "2026-05-20T07:02:15+00:00",
@@ -314,6 +386,18 @@
         {
           "name": "O Globo",
           "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTklDYVRsWUJxRjBDQnRnWVpnMmxOR3ZuSXhwTHZodmlyTm1JTkFSVlRiLVFYUmt0b0h1eDZpWFdES1lhWnNEbFBuT0F3WlNUQWIzM0RZV0owdkRrSk9qS2RCT2RUQ3RlRUVsRXBTZ1YtMmJsaTEyYUVvQk5tVXM1MW42ZnFkdGYzMkFxaXNvZUpYbVZxdXRpeVZDaUFQNzBVbEhCcU9rVUNkZS1KRTRBeGFBbm9pY1MzaGtRSnpJRUpWMzFFXzl4X0thb2ZMNF9fYUZ0ZVk3TVVSOXk0cnIyNUIxczFkcEp6TUpNYVVR0gH8AUFVX3lxTE9zd1ZaT0VDM2p5Y0NDQS1ELVdsX2ljaTBSWXJtVE9fdHZlODFnQmVIQ2xwNVV1RG11X3VvWHEwYTRDTmNjcTBwTWFVQlhCcHFqRkZrdXFpaWFmVnVabUJRWEQzSUZudUpkRVAyQnVEbDUtUTlRUDE5YXIyT2lYQXNUNG5ZeGhBT1dkVnhZWW5HM0VRTWxKekhEczZCWkdFWVp4Qkk4ZE42dVlOM3QwZ0ZYVV9KdDRGajNjb0Y0TlF4cHpIRVJ2RTNqRmVmaE5POFNvYjBKOHJwMEZtOXp3LV9TNjVEdEtlTVRsUzhzVHpOTjV1NzBIYndzMTZrUA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5f001112645e",
+      "title": "Corticóide, estatina e 'composto taradão': Veja lista de medicamentos e produtos recolhidos pela Anvisa - O Globo",
+      "published": "2026-05-20T07:01:44+00:00",
+      "summary": "Corticóide, estatina e 'composto taradão': Veja lista de medicamentos e produtos recolhidos pela Anvisa&nbsp;&nbsp;O GloboAnvisa recolhe corticoides e medicamentos para colesterol: o que fazer?&nbsp;&nbsp;CNN BrasilApós recolhimento de medicamentos, especialistas reforçam benefícios das estatinas no combate ao colesterol alto&nbsp;&nbsp;Correio BrazilienseAnvisa suspende lotes de rosuvastatina e atorvastatina&nbsp;&nbsp;Campo Grande NewsLotes de remédios para colesterol são recolhidos pela Cimed",
+      "sources": [
+        {
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOM1hfTjcwa3pVQmRaeDVmV0NhUlJ3NkpxeXlBbGp3VFBZa2lja2FaN0NfUnNQSzkyTE5RRW5MQTFaNGgyWUZEcEFsX2EtRy1sdWxjQWFDcUpEOUwxaDdtT0NqOTdQZG9GNi1wczJ5ekkzYzlWLXAtQnQ4UkplUmZ6ZGdBNWl5XzA4MkcxaTQzWDdOMnF4dUdkdWxwUXlNdURFaTFNY096MWJRVm5BR3ZwS2JmeVNmMEphN09GRElCdENDLVE1RmE0MVRIcTNRbTZRN0FCbnd4V19PZGdhRE9CT2FZbEJXYXUzcVNv0gH6AUFVX3lxTE9TQzczU1EzNGQ1bzk5Wjh4WG1PM1lxdExiMWlzdEFWcEJ3SXdOSGdRX1BRNUgzclV0MTFKNGh5THl4OGdsVFZpVEU3RklEZ0o2WXdLaTBPVDFhT3J0YVRfenZzMVhCQlpockdIVmtSMWkydVhNVng1cXFNdVhhLXpyUy1vQ1h2aERIcUdZR2lBa3FqRnZSUUlnOEJqblRjM2QxSktNYnJwczdYVzdlcGV1aTdBdzFLWUVnSnZkZ1k1cUp6Y3AtTm1mdW5GNWptdGlJVFk3YnM0U05tNEpnSDJxOHJCNVU4ZGdGeTNJZUpuV3VORE9OdHljUmc?oc=5"
         }
       ]
     },
@@ -345,7 +429,7 @@
       "id": "437c030aa21d",
       "title": "Combinar treino de força com cárdio não atrapalha ganho de músculo - Agência FAPESP",
       "published": "2026-05-20T03:01:00+00:00",
-      "summary": "Combinar treino de força com cárdio não atrapalha ganho de músculo&nbsp;&nbsp;Agência FAPESPCombinar treino de força com cardio não atrapalha ganho de músculo, diz estudo&nbsp;&nbsp;GloboFazer cardio não reduz hipertrofia, indica pesquisa da USP&nbsp;&nbsp;MetrópolesCombinar treino de força com cardio não prejudica ganho de músculo, revela estudo da USP&nbsp;&nbsp;Tribuna do SertãoCombinar treino de força com cardio não atrapalha ganho de músculo, aponta novo estudo&nbsp;&nbsp;O Globo",
+      "summary": "Combinar treino de força com cárdio não atrapalha ganho de músculo&nbsp;&nbsp;Agência FAPESPCombinar treino de força com cardio não atrapalha ganho de músculo, diz estudo&nbsp;&nbsp;GloboFazer cardio não reduz hipertrofia, indica pesquisa da USP&nbsp;&nbsp;MetrópolesCombinar treino de força com cardio não atrapalha ganho de músculo, aponta novo estudo&nbsp;&nbsp;Folha PEFazer cardio e musculação juntos traz resultado? Ciência responde&nbsp;&nbsp;sctododia",
       "sources": [
         {
           "name": "Agência FAPESP",
@@ -362,18 +446,6 @@
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNc1B1RW9zN0oxeVpQRnpXc3FqS2FWc0U2Sklwa0d1M2NkZXhoUG5ZYXdXM0w0TGp2dW1RWXpReWtzRVgzZnVPTUVOT0RXbzFMdF81NWVtbnd5bHdTQVoyM1BxYUZ2MXdWbHFiUmsyMVlJbVNaWVl6MGtkNTZYR01DSjU3eEFiQWhqOXdad2RFVXBEbmJTNW9HOTZaYktxRzA2UjFfbHV6cFQ5YU4xRDVyXzROcFFWOUlqTFBrcdIBwgFBVV95cUxPR3NYSG1DY2tHeGtoYmYzRktHWXZQSUFIT1A4Ym9PTl9aTGdqbHE3T0lveXRsTVJLUzFWVWJpU3hXVUNsOVI5bFY2T0N6c1dpak04dmdBdWVpY2V3V2xKQVg5SGNwa2I4UzhKZnZmQ012VTl1MDNxOFg4ZXR2bTNSdHVjSWtBUk9wQ2xOcWFSRDc5RWZ1bVVqTDNzbFpEb2h5ejZNRGo5dURRR1lVR3FHeHVyWXVXME1jdk5wM19BeTdkZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c2db01b2f404",
-      "title": "Estudo revela que quem come carne tem maior probabilidade de viver até os 100 anos, mas há um porém. - Estado de Minas",
-      "published": "2026-05-20T01:28:10+00:00",
-      "summary": "Estudo revela que quem come carne tem maior probabilidade de viver até os 100 anos, mas há um porém.&nbsp;&nbsp;Estado de Minas",
-      "sources": [
-        {
-          "name": "Estado de Minas",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbU9idEVlTXF6ZkY3djE4SGVlNW1meGo5aWoyMU9RRk1aa3JoQm9VTDNfbnQ0MUllMTEyQU9Ta29Ib0JMajhvWm9aNUZkY2d0WVp5cVJZbS1qUVc0WlQ5OTA0Zml1WlJQb2JBWFdieGRhMzNiV3RZaXI0LTAwczN4MGpfRXVzd3htNHdjeW5iWGF3UXJWd3JKcEZieEloZEJHb2xNRXV4U2M5NndPVXBHNzdJUTJndTM1cnRMV0RDaFJBOUZJclB0NkNONW1leUJ3MkQwV3pR?oc=5"
         }
       ]
     },
@@ -405,7 +477,7 @@
       "id": "1ba7819e3c09",
       "title": "SC registra 16 mortes de crianças por síndrome respiratória e alerta importância da vacinação - ND Mais",
       "published": "2026-05-19T21:42:56+00:00",
-      "summary": "SC registra 16 mortes de crianças por síndrome respiratória e alerta importância da vacinação&nbsp;&nbsp;ND MaisCom 16 mortes de crianças por SRAG, SC acende alerta e reforça a importância da vacinação&nbsp;&nbsp;G1Brasil tem alta de Síndrome Respiratória Aguda Grave em bebês&nbsp;&nbsp;Agência BrasilDiagnóstico precoce é linha que separa surtos de epidemias&nbsp;&nbsp;Medicina S/ACom 16 mortes de crianças por SRAG, Santa Catarina acende alerta e reforça a importância da vacinação&nbsp;&nbsp;Oes",
+      "summary": "SC registra 16 mortes de crianças por síndrome respiratória e alerta importância da vacinação&nbsp;&nbsp;ND MaisCom 16 mortes de crianças por SRAG, SC acende alerta e reforça a importância da vacinação&nbsp;&nbsp;G1Fiocruz alerta para aumento de casos graves de gripe em todo o país&nbsp;&nbsp;Rádio Tapejara FMBrasil tem alta de Síndrome Respiratória Aguda Grave em bebês&nbsp;&nbsp;Agência BrasilOUTONO EM SALVADOR EXIGE ATENÇÃO REDOBRADA: VEJA DOENÇAS MAIS COMUNS NAS CRIANÇAS NESTA ÉPOCA DO ANO&n",
       "sources": [
         {
           "name": "ND Mais",
@@ -429,23 +501,11 @@
       "id": "26a75abb0c8d",
       "title": "Novo medicamento para câncer de próstata entra no rol da ANS — Agência Nacional de Saúde Suplementar - www.gov.br",
       "published": "2026-05-19T19:24:47+00:00",
-      "summary": "Novo medicamento para câncer de próstata entra no rol da ANS — Agência Nacional de Saúde Suplementar&nbsp;&nbsp;www.gov.brAgência Nacional de Saúde Suplementar amplia cobertura de planos para câncer e bebês&nbsp;&nbsp;R7ANS inclui novo medicamento para câncer de próstata no rol obrigatório dos planos de saúde&nbsp;&nbsp;Extra onlineANS amplia cobertura para câncer de próstata&nbsp;&nbsp;Hojemais.com.brNovo medicamento para câncer de próstata entra no rol da ANS&nbsp;&nbsp;Edenevaldo Alves",
+      "summary": "Novo medicamento para câncer de próstata entra no rol da ANS — Agência Nacional de Saúde Suplementar&nbsp;&nbsp;www.gov.brAgência Nacional de Saúde Suplementar amplia cobertura de planos para câncer e bebês&nbsp;&nbsp;R7ANS inclui novo medicamento para câncer de próstata no rol obrigatório dos planos de saúde&nbsp;&nbsp;Extra onlineNovo medicamento para câncer de próstata entra no rol da ANS&nbsp;&nbsp;Edenevaldo AlvesPlanos de saúde terão cobertura obrigatória para novo tratamento contra câncer",
       "sources": [
         {
           "name": "www.gov.br",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeTFBNU1UZmlNWW5ydmk3bU5OdjYyQ2lsLUtqa25Rb01SS01icEJUa3gxanFFR256U2cxamJUMWRSd2VLVTIwdXlWRGlOZDJJM0hJMjVkU1JEbUVDb2xQVE9Qd2VWc2xNNHphMElDd05uM2p6Y3JDaXhYNXdmLWgtUmxiSDk2R3NZR0JJS1BfdjBVTWtmekVFbDg0bG9XOGtfLVlXVHd1dHQ0bmJhNkhnbzZXdHNWSWMyRHJqLQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8e65282f2a31",
-      "title": "Dor de cabeça frequente não é normal: saiba quando procurar ajuda - Correio do Povo",
-      "published": "2026-05-19T18:28:43+00:00",
-      "summary": "Dor de cabeça frequente não é normal: saiba quando procurar ajuda&nbsp;&nbsp;Correio do PovoFala Saúde: neurologista tira dúvidas sobre dor de cabeça&nbsp;&nbsp;G1Dor de cabeça: saiba como diferenciar os tipos de cefaleia&nbsp;&nbsp;GZHTrês é demais: médicos alertam para dor de cabeça recorrente&nbsp;&nbsp;UOL NotíciasDor de cabeça súbita: Marcos Daniel Xavier alerta para aneurisma cerebral&nbsp;&nbsp;band.com.br",
-      "sources": [
-        {
-          "name": "Correio do Povo",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTFhFdEt1LXNHOUNma1FQc1oxSXVBVHAzek5YSTR6OUhWWHhuVWVFNUtCQ1pzX1RJY05MV2JnRUM5VndZQl9oV3FMYm0zWnZJb2tnTkJ3WDgxUGJrRS0zb3oxTDRselpZV3Bqd3RfZWtPTi1Md0ZUNVp5LU1RNlAzdU5QZjU0OEROX2tTdUxlczNFbC1MaTM1cG5UMENQX2w5cWRwNzhsaVhwU01hMmNMbGl5bUZ1VzR6YlQwWU5aeEJYT1dlSW5OYlpGSUw?oc=5"
         }
       ]
     },
@@ -470,42 +530,6 @@
         {
           "name": "VEJA",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPd0FsZ0VQdWEtSTczV3hfUXdLalpQMkNjdWQxV3oybHE2Tm1sYjJ5LTZCY3hranVQWWUwSHhjWWd3OHRRV1ZndGtxQlRkeGlienJMSm1UdGdpWVoyYUd5anN2ZzgyRV9WbGpfRzNfbXZlY0lsTVdtZTkyRThQX1laQUF3WnZtVERNYnVvZjlBZ2R1SmgwTlpVRm1HMnJDVUFSQzJQajhhNVh4ekNsTm42aUN2cVFlUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a85f16583238",
-      "title": "Morador de Guaporé é a segunda vítima de dengue do ano no RS - Agora No Vale",
-      "published": "2026-05-19T14:41:09+00:00",
-      "summary": "Morador de Guaporé é a segunda vítima de dengue do ano no RS&nbsp;&nbsp;Agora No ValeÚnica cidade da Serra com morte por dengue, Guaporé também concentra maioria dos casos da doença na região&nbsp;&nbsp;GZHNotícias - Rio Grande do Sul - Rio Grande do Sul confirma a segunda morte por dengue neste ano&nbsp;&nbsp;PORTAL FARRAPORS confirma 2ª morte por dengue em 2026&nbsp;&nbsp;G1Dengue volta a preocupar e Alegrete mantém alerta com caso suspeito em análise&nbsp;&nbsp;Portal Alegrete Tudo",
-      "sources": [
-        {
-          "name": "Agora No Vale",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMGtlOGZsd0lQUDFZZkZld0NLSC1IZUhKLTBoTl9TVnUxSXowWGNVWENITm1WUnJmczhIenlsWW51dWZ0NHpyUG9XRWhSRzJqZE9GSXc1d2Jld2E1R0s5ak84enFfcnViVFRqLVZNb1NCcGtsTlZxOFRtWW1GWmpYNEJhdTFfY0RBRlk2VnZfTWtYS3ZJcG5IWmoyOFN5dnZrRm5oSmtDNFFwTXhCQkR0RkxB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5481afe6fe0b",
-      "title": "China sai na frente dos EUA e comercializa o primeiro implante cerebral - Época Negócios",
-      "published": "2026-05-19T12:20:15+00:00",
-      "summary": "China sai na frente dos EUA e comercializa o primeiro implante cerebral&nbsp;&nbsp;Época Negócios",
-      "sources": [
-        {
-          "name": "Época Negócios",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaXVoQXdlbEhhQU9USlR3YlI5VEJIS2tfNGRvWXI3U0hIWlZDeVg1bnFDZ2w0NVRJWmxYY1NFUEpLWFZTV2VJUEhSd1pLNzFvRHl6TGgzbVJLZGlzTkFEazlWVl9pSkV3MVMzZVJlQ2ZvV0dwMVJBamtOeHl5MTBUV1h1a3B6NDBtN09rcHlJU1ZKQnlhODNNUUtndkJWcXV3MkQtUmw2bVNmVHc1SzYwMndMTUQzNG1sQ25zcnRzMy0zX0t3YXZxeWUwVHhRQdIB3AFBVV95cUxNamNqWUNOQWNKeW11ZUNVdEtrZGdIcDBQNDgza01kWGNkNE12dVd4RVZ6Mm8xNF9OWko1eV9QWmV5SVVMYTI4YTN1M0hULUN2SkNfZmxMSC1Lb2dDZTJ1ZVl3RXR4WGlTYWpMWmV2Q0R5bzl1SFlIWHl0V2FOVmd3bkctZWVzazd3NDZObkQ5OGstV0txamw0TGVTLTNsaGlFQWNmSXUtYmwyWWplR3QtSk1RTUtIemYtUGdnRmJCdnhkbk9TZGhtSGxLRlVWX3cxM09jazNDS2hHNklC?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1acdb8012fa0",
-      "title": "Pessoas nascidas entre 1950 e 1970 têm uma vantagem psicológica fundamental, aponta estudo - Rádio Itatiaia",
-      "published": "2026-05-19T11:07:09+00:00",
-      "summary": "Pessoas nascidas entre 1950 e 1970 têm uma vantagem psicológica fundamental, aponta estudo&nbsp;&nbsp;Rádio Itatiaia",
-      "sources": [
-        {
-          "name": "Rádio Itatiaia",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaHZQdlUwTTdaWFp1Vzk2bEpveG02SGlxYmMza3oxX0oxbktYeXYyaEpQY0E1dGdDeE9MT2JFRnh5cGotcVozS004MHpmTi1lUUZYWkdhOWRqbVY5anlvaGNCWHMxdlE1ZnBFbW0zN0ZWY2g1eEE0dkxUMHJyb2xQYzllcU44WVNZSHBFZU13WmRuTEVYdTlqSHdLRjkwR1ZmVlEwTEpDS09pM191OUhsTVFwbEppS0hQMlk4dFd1ckZDcUk?oc=5"
         }
       ]
     }
