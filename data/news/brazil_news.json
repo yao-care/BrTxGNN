@@ -1,19 +1,91 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-05-22T09:30:25.808646+00:00",
-  "total_fetched": 92,
-  "unique_count": 91,
-  "health_related_count": 39,
+  "fetched_at": "2026-05-22T14:43:12.130058+00:00",
+  "total_fetched": 99,
+  "unique_count": 98,
+  "health_related_count": 42,
   "news": [
     {
-      "id": "00bac63084ec",
+      "id": "81a2239d3810",
+      "title": "Se você acorda todas as noites entre 2 e 3 da manhã, você não está sozinho: a ciência sabe o que está acontecendo com você - Tua Saúde",
+      "published": "2026-05-22T12:10:00+00:00",
+      "summary": "Se você acorda todas as noites entre 2 e 3 da manhã, você não está sozinho: a ciência sabe o que está acontecendo com você&nbsp;&nbsp;Tua Saúde",
+      "sources": [
+        {
+          "name": "Tua Saúde",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOOEhaZXBvZ2NDZ3VxTkU3RDA1d1JGZjk3YkxYYTdwRWdEeFoyQmVZTWRKcWcyaV9lRm1pWFJzMUNXMXZfYkhjQTBpQlpUc3NZQ3FjZVJNQ1lVZGNfMTZlbUNYRzZzdkZfWVZPX08zN0tUMzQ3NDE1c1BxRURpOXF6cnlqY3c2b0tzV0pjVnB2MG1CcHk1U192Z24tVGlfb0IzeTBESThqWTczRE92SlRFRElrTkl1U3N4d3IwUF9BNlNYcjhOMktFbG1LZ2thUl80bGdwdWZCemxpcnFNZXQ2cldhVTYwd0tzWWV6NHBjbkRWLWU5?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d203b2fbf307",
+      "title": "Padre de Guarapari revela diagnóstico neurológico e se afasta para tratamento - Tribuna Online",
+      "published": "2026-05-22T11:59:20+00:00",
+      "summary": "Padre de Guarapari revela diagnóstico neurológico e se afasta para tratamento&nbsp;&nbsp;Tribuna Online",
+      "sources": [
+        {
+          "name": "Tribuna Online",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOU2FMTEx1M2Rubmx3eEQwbXI0aERaQVZ2TlUwWnhTRTAyN3d4OUdFQVNXTjNfRGxvOEJtSFBUVHJIWDV4SWFGRGVOR28xTlRrZ2ZHRHMyTkliYmhrd1FBdlpHMnFvNThPQlkxeGI4VXlSQTFSeWRKX1FkTlJ5S0Rib0ZhSVNpQ0Vwcm54QUgyVVJwbzZoZF9scHpXVUVTVFpjWW9IcXJIU3VoZ2I1bkJsSzYxNmswMFlicHgzdE5mQmxVLTM0ODVzeW130gHSAUFVX3lxTE5jeDdEN1ZyYkl6aDRxMDdXb05pT1VMdTVQLWdqOVpLckJSZFF5ZnRsRlptQ3k0dUtCNW1vTHNVVkFhZlRTU3dPZXAwRGprS0ZPMG9nbDFFN2ZQZ3otQXhGeWRyX3M4OUNVX0pXbzVqX2hWSmpXYWowZVJkSDZhQUR1dlIydFlwNzJvRlpkWWxybFBBTVhUQ2xqbDhWNGVlUm5EM2loZGljTHNnYTJ6SVQ2LVhSVExBM1Nselg4cUZxR3V0RGh0T3NSandmdUZURVR5dw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "17cb4c048d7a",
+      "title": "Brasil quer recuperar dinossauros e patrimônios que estão em 14 países - Agência Brasil",
+      "published": "2026-05-22T10:28:00+00:00",
+      "summary": "Brasil quer recuperar dinossauros e patrimônios que estão em 14 países&nbsp;&nbsp;Agência Brasil",
+      "sources": [
+        {
+          "name": "Agência Brasil",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOV0FjZjhSSFhkcUhJX3VIdUtRU0x4UktnaXhkSDJWNW1SdFZVQm1SMUR4UE5qcTVfMTNqcFVndkI4Zmo3NVplNjJYcUpJTmgwQVhzZ252SWFJUXZLS3B2Yzh0ZTZha0VvTVdPV1VoRDBJeTVfcUM5UzlwTlZCQ2JGR1MtQ0lMY1F4XzUtNVU3N2RlckxLd1I1ckxLTV90a1VCZDRQWHFzbUJOU1pNTHlULVFHdVVYVk01Ym5xd2NrYzBfX1Z0NVVzdW9haktYUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bcb82ce21e61",
       "title": "O comprimido que dobrou a sobrevida no câncer de pâncreas ao chegar onde nenhum remédio havia conseguido - G1",
       "published": "2026-05-22T08:04:35+00:00",
-      "summary": "O comprimido que dobrou a sobrevida no câncer de pâncreas ao chegar onde nenhum remédio havia conseguido&nbsp;&nbsp;G1Bernstein inicia cobertura da Revolution Medicines com desempenho de mercado&nbsp;&nbsp;Investing.com Brasil - Finanças, Câmbio e Investimentos💉 Câncer de pâncreas: um anticorpo mostra eficácia&nbsp;&nbsp;Techno-Science.netNova arma contra o câncer de pâncreas | Diário do Grande ABC - Notícias e informações&nbsp;&nbsp;Diário do Grande ABCProteína 'indestrutível' pode mudar tratam",
+      "summary": "O comprimido que dobrou a sobrevida no câncer de pâncreas ao chegar onde nenhum remédio havia conseguido&nbsp;&nbsp;G1Bernstein inicia cobertura da Revolution Medicines com desempenho de mercado&nbsp;&nbsp;Investing.com Brasil - Finanças, Câmbio e Investimentos💉 Câncer de pâncreas: um anticorpo mostra eficácia&nbsp;&nbsp;Techno-Science.netNova arma contra o câncer de pâncreas | Diário do Grande ABC - Notícias e informações&nbsp;&nbsp;Diário do Grande ABCComprimido transforma tratamento do câncer",
       "sources": [
         {
           "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNd3I5Y3VRY3I0WHdjU0MwSzctOXQ5dF8tZDdyajAtd1pBd3V1MUhNUDlHNkhWT0FjMHo3RTk4bXVsbndNcUZxZHI0cEt2Tjl6cDI5MmZKN1FiaV90MUhaaThKSlF2RTRuaXFKMkpwOFhJVWdQcnZiS2FVbGVURzZLTlhOU1pTTlRsa2ppQm5CMXpWTVo0ZF9iR0dMNWRyb3QzcWJHQzFtZXQzNE96U0JfX3F2aTRsbGpmN3VRYUE1c3Y2WTlLWkZuX2cwdXJPNWhoSDJ0ak5EaVVzeWc5Z1VXZHNhSDZLRURHWmViYw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNd3I5Y3VRY3I0WHdjU0MwSzctOXQ5dF8tZDdyajAtd1pBd3V1MUhNUDlHNkhWT0FjMHo3RTk4bXVsbndNcUZxZHI0cEt2Tjl6cDI5MmZKN1FiaV90MUhaaThKSlF2RTRuaXFKMkpwOFhJVWdQcnZiS2FVbGVURzZLTlhOU1pTTlRsa2ppQm5CMXpWTVo0ZF9iR0dMNWRyb3QzcWJHQzFtZXQzNE96U0JfX3F2aTRsbGpmN3VRYUE1c3Y2WTlLWkZuX2cwdXJPNWhoSDJ0ak5EaVVzeWc5Z1VXZHNhSDZLRURHWmViY9IB-wFBVV95cUxNRnZXOVpHT2ExdHk4cTBtY0xGQ3pFOEg3ZjVTSXZSV2gxS3BWcTA2Z1JaSnI1eDN4SVZTbFBVZjVuMldsMDVIdzF0cFNnbVpIX0tlX1FCS19ZcWhyOElFTlprVXVabFkyQnFqaG9XaDJGd1UzcEdGX3FBNDNxR2EweHZzOFEyakVTZnF5alNocnBXV0p6aDIwMUV3U1R3S0pBMnVZYlJDWHVOVk5jaXVwMlVBUUV0dEhmWVhxR3pNWnJhQjNPajU2aV84Uy00eXZ3b2dpd1VVUm0tMk5fM2lJTWdYaXVZaFdzVXpiRU1TcGFMaVFFS0xSSnRfQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6972782429e5",
+      "title": "Matemática na primeira infância - Valor Econômico",
+      "published": "2026-05-22T08:04:23+00:00",
+      "summary": "Matemática na primeira infância&nbsp;&nbsp;Valor Econômico",
+      "sources": [
+        {
+          "name": "Valor Econômico",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWi12REVldTd2Smg2X3RUTGZvVkJOMUF4M1lwRVBVYVVkV2t6cWVEU0M2UW45Y08taHBxS055T3U3eGExaFJlMVQ1X2hvUnIyMUZRbkRqRnFYZ20zWWRDWmtIUUo1T0t2SXY3ejNtbWtnY250dHQtRmVHQ0MzS0IwOEc3aUMycHhOeW9TMWJabzk2VkRyZUpIaHA4a1BJdWPSAa4BQVVfeXFMUFhSbWJHbnY5SEZRaW5YSVNlZmZud3NsWUUzeFRKN3NOV0h1Zm8tRHpyS2FQd0p2ek5pYVNrOEhabld5RnZPc2VfdGhLZW9qSkJhR2lMSl9qZnRpZHFIS19IYkQwTjJteno3ZW5oRXlPM1ZScXB5V0E2QmtjdjRRazVMUzB0SWlMVXlNQ2VJRTZidXQ5Ni1uSThEd0hiOTk2N0FIcWVhRUpNLUJZbnR3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "74865f2cf0c1",
+      "title": "Hormônio liberado durante a atividade física pode proteger contra doenças neurodegenerativas, como a esclerose múltipla - O Globo",
+      "published": "2026-05-22T07:30:45+00:00",
+      "summary": "Hormônio liberado durante a atividade física pode proteger contra doenças neurodegenerativas, como a esclerose múltipla&nbsp;&nbsp;O Globo",
+      "sources": [
+        {
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNUWlCMU9jZmtXTDRqSWlvX3JiaFRsR3pLMUJsa2JfVGJfa2doWGRhOTBCcnZRWDhDMWhxQUZFYllackRWdVRjQl95QVpYTDBHVWdTU2VuMFdUN010NWJKbFZERTVmckJDeWNaUnNoYzhpRVFhbVhaN3hiT0pIRnlxaXI2RDhuSXc2MXJtZkNOaWQ4SHFPREZ2enBIem5nbHYwR25KaUViajlCMllnSE92T2FUSEFFbnVoOWFjdFhrUHZRdV94UjBZdWh3WnRoU1pJZERSNm1LeEExRERnSGhsdTJQbG5ZalB6Vjdac0l2b3dsWWpzemNLYVU2MUl4WUdIdzItNdIBkwJBVV95cUxPbmRDNWg1SHFiQmZQUXBsQmpWdkRVTDFrQWY3YlZWUHpFTkNEMmZsNFQxRkF4cGVNWDFJa29MNlpiZkp3YW1rZ0szT1FLM2l5WUl4ODRlRF9LMDhvaGg2SFNzci1kWk84dGNhcHREU2RZWWhqSUQyTUtGSDNtSXYxZlNSbnhvN09MSzM5WUlUSnpmSEFoZXVDeS16Vk1VM0FUdlRCYm42dkZPTEp4dnpydzlVSjFGcTNTVVJIQ2tCYjNtR3VSZlJJRlM5anZZU29Sc1JRMmtrTk1NbEp1VkFCUEl3RnRXNzJoZTdndktnX0xSN3BiTERsRGNsYnpxaUVMVmdUQlUwcm10Rk1HZExPSnpFbw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4acf84c890f3",
+      "title": "Bactéria Fusobacterium, que vive naturalmente na boca, é encontrada em 64% das pacientes com endometriose, aponta estudo - G1",
+      "published": "2026-05-22T07:01:40+00:00",
+      "summary": "Bactéria Fusobacterium, que vive naturalmente na boca, é encontrada em 64% das pacientes com endometriose, aponta estudo&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNTzlmUnBWM3dXTm5rQzNxa1ZYbW00WUZhb19Ec2M4VC1TNnk5R0I1TWhuMEVmcWJraU9VMVMzMnBPeGI0RnZTM2oxaHBfa3h4WDBSdkdfSzB5elVrcTdVQlpvRkRCendTVFc1RnJNbTlEM0w2Yk9wYjRPVkx5RWhMNUMzSE9JdENGUEZzd24wQ0NQUEJqNXFJMkdkMVBubUJhMWdjSG1KVVhEdFZHX2Z3Q1JyR09IUGFWdW1zeWJmQnNXUzdac0FfMDNEZ0lKWkY0MlRtcTJfNGhoN0Z1MFBRMXl0QkpiSFNXODNpMUJ5clRYcFp3TzFIR3VxTTcxMTJSYURDV09B0gGUAkFVX3lxTE1uc2pFZFoxQ1BxRnZKbmN0eWZhV0FSUDRxaDREd01INS1XNF90eDBxR21iRUc5SmJLNi14Y29YMW1EU0pvWGVOdl9NaXJWM2h6dHNvSFVYMS1QbVhaQVEwSTRqRWM2VnctN1IteUk0eUswbkJSOWhZeEFVVFlEQnF0QklnVHRXZklPdTh2Mjg3VFdDMmxoTzhKX19lUHJYMTMxbnFVbl9Ha1VXa21KVmd5QmY4TGluU2lyVWRaWnByV0hDOTdMZnlpcno1cVRmNE9hQTJ5MWFSZmliOGJaMnVsaWNaQW5DeDB0b09qRlVtcm15LXRTNTRSYTQ4eUNaUGl6cmVzTkhUZjR3MmtUWjdkQXBQNQ?oc=5"
         }
       ]
     },
@@ -26,6 +98,18 @@
         {
           "name": "CNN Brasil",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbzdhY2pLZXVHU2Q3RHpzNnJGcDlna0YyQmdPRzlRUWcya3RFUlk4dGNxT0Z3M2l1YVZvc0dRWUtEelN4WExPUVNFMDN4SVdaSm1neW96VmY3RnZWeW80N2JYN3g3TEM3WlJZSEdHUHZwU1JHMWxwTUJnbngwZWU2V3Fod0VPRHVCRkRjZFdMZ2ZSeGlsNy12ZjFLbmM3bFJs?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5fd8c07890e5",
+      "title": "Episódios de bebedeira triplicam o risco de lesão no fígado, alerta estudo - Folha de S.Paulo",
+      "published": "2026-05-22T02:00:00+00:00",
+      "summary": "Episódios de bebedeira triplicam o risco de lesão no fígado, alerta estudo&nbsp;&nbsp;Folha de S.PauloComer este alimento no café da manhã ajuda a reduzir gordura no fígado&nbsp;&nbsp;MetrópolesBebida popular pode ter efeito protetor contra fígado gorduroso&nbsp;&nbsp;R7Nova doença que ataca o fígado aumenta risco de cirrose e câncer&nbsp;&nbsp;Correio do EstadoUm tipo de bebida que ajuda o fígado a reduzir o acúmulo de gordura e a se desintoxicar naturalmente&nbsp;&nbsp;Tua Saúde",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRzFXX3Bjb0dmVGJmSE5tOUhtS1hBMkxJdFdESGNSamdOSUJUdEFyYkMzZ2FQaTU1blBad25ZTWdwX21Rc3JQeW1TdWVsQnFRcm9ud3FxU00xMVlyYVBrLTNQZl9ybUNHS182S3RSOC1DRkRqdDVvMnlWMXpIQlYzSHhGWDRCZkVzNmxSZ2tvOC1GR3loS1hKUjNCYkxfNGJLNWJIcl95M1FRcFFRTnBLd2h1c1JSaDJTVm11YVJ0ZHl1UXZrWnNfa0FLRGNjcmM?oc=5"
         }
       ]
     },
@@ -45,11 +129,23 @@
       "id": "a6e109fe9951",
       "title": "SUS adota novo exame para rastrear câncer colorretal na população - Agência Brasil",
       "published": "2026-05-21T21:56:00+00:00",
-      "summary": "SUS adota novo exame para rastrear câncer colorretal na população&nbsp;&nbsp;Agência BrasilPor que novo exame de fezes anunciado pelo SUS pode aumentar detecção de câncer; entenda&nbsp;&nbsp;O GloboCâncer de intestino: quem deve fazer o teste imunoquímico fecal? Como funciona o exame?&nbsp;&nbsp;EstadãoMinistro da Saúde anuncia novo protocolo para rastreamento de câncer colorretal durante agenda em Lyon, na França&nbsp;&nbsp;www.gov.brSUS passa a ter novo exame para detectar câncer de intestino&",
+      "summary": "SUS adota novo exame para rastrear câncer colorretal na população&nbsp;&nbsp;Agência BrasilVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
           "name": "Agência Brasil",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOHFDOXRtWVJNajZVWjFuQU8yX3EtdzVETHhST25qZEw3OHpmeXJ3ZHV4M2xZSk9Sb1UwX1k1MXVCUzM1aU5xdUZkWkNhU0dURHlmM2Z4Yi02RVhKYlNKVzBhX1lkcV9vNnFKVThPNElJOHBHWlJ5OWF1OUNwZHpSalZNbkFqYVhCRGJKME5lRmR5UmlJWGJ1U08zR2xXOWF3SG0wakQxdVZxQlJVZnNVMExGT2EyVmJPT3d2Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "368bd5f69169",
+      "title": "TORPEDOS – 22/05/2026 - Jornal Primeira Página",
+      "published": "2026-05-21T21:52:17+00:00",
+      "summary": "TORPEDOS – 22/05/2026&nbsp;&nbsp;Jornal Primeira Página",
+      "sources": [
+        {
+          "name": "Jornal Primeira Página",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nZ2RjZldMaEZ4Y3Q5aDNtTUc3eUdfUUZQa0RkVm5objg4cnk5cTYzU0VkXzFGQ2hJY0pJU21uVjluNTd5anJOQ1ZPS2w3ZXhPVjNUVkFyODhtY1E2WkJwdHBLcjlrS0M3UlRQUENuYw?oc=5"
         }
       ]
     },
@@ -93,7 +189,7 @@
       "id": "d0373ae4bf05",
       "title": "Número de casos de gonorreia e sífilis batem recorde na Europa - UOL",
       "published": "2026-05-21T19:12:32+00:00",
-      "summary": "Número de casos de gonorreia e sífilis batem recorde na Europa&nbsp;&nbsp;UOLGonorreia, sífilis e clamídia: Europa bate recorde de infecções sexualmente transmissíveis em mais de uma década&nbsp;&nbsp;O GloboDoenças sexualmente transmissíveis em máximos históricos na Europa&nbsp;&nbsp;EuronewsCasos de sífilis em bebés quase duplicaram na Europa e especialistas deixam alerta urgente&nbsp;&nbsp;Jornal SOLInfeções sexualmente transmissíveis atingem número recorde na Europa&nbsp;&nbsp;Renascença",
+      "summary": "Número de casos de gonorreia e sífilis batem recorde na Europa&nbsp;&nbsp;UOLGonorreia, sífilis e clamídia: Europa bate recorde de infecções sexualmente transmissíveis em mais de uma década&nbsp;&nbsp;O GloboDoenças sexualmente transmissíveis em máximos históricos na Europa&nbsp;&nbsp;Euronews.comCasos de sífilis em bebés quase duplicaram na Europa e especialistas deixam alerta urgente&nbsp;&nbsp;Jornal SOLInfeções sexualmente transmissíveis atingem número recorde na Europa&nbsp;&nbsp;Renascença",
       "sources": [
         {
           "name": "UOL",
@@ -117,11 +213,23 @@
       "id": "9b3b93f9a464",
       "title": "Dieta rica em vitamina C pode ajudar a prevenir câncer, segundo novo estudo - O Globo",
       "published": "2026-05-21T18:34:10+00:00",
-      "summary": "Dieta rica em vitamina C pode ajudar a prevenir câncer, segundo novo estudo&nbsp;&nbsp;O Globo",
+      "summary": "Dieta rica em vitamina C pode ajudar a prevenir câncer, segundo novo estudo&nbsp;&nbsp;O GloboA vitamina C pode matar células cancerígenas de uma forma inesperada.&nbsp;&nbsp;Vietnam.vnVitamina C pode ajudar a evitar câncer, diz estudo&nbsp;&nbsp;noticiasdoplanalto.com.br",
       "sources": [
         {
           "name": "O Globo",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbk9xcnVNZXBEOFBZb1BHLXFyQjBhZGFKZGFteVNhVUxjSkQyMmNPZDV3Y0VEM0lvMDVnTlc2bUhIaDJDV1Ntb09FQ0xOOGFGRjFGX0pDdmNzdXd5X3RWYWlrZGRVNGtxUHl6b0JCNkc3LXJmSEtGMU96TDVnRGFIemdMTFFPdlVVUnhKRGdWVTM5TXY4dl9DQldtV0xZZm94WkYtZmFOMnpRWTZDUGdTN0JrODRueXN4S09EZWs0VkJ0X1AweWw1MV9n0gHYAUFVX3lxTE1KblhjcG5fTjBMelMyVVRvZFJfQWdSd3JkRDM1WWFFaVBVRmx5emN0ejRlcXRsdkVjRXRGWlVZWjFVbko4cjNxdjJNdnJfRU1LRy1teFBsX2ZqSGRNejNwelhoa3hvbUlYbnAzQXNCTjJLV0hoUWVUc3BvOXFkTG00Rmc3ZF8ycHlST3RMSWVIaWVyNmpWWFRKaElodEdaLXpENEtOU1JTUzl3UDM5em1NdUtjRnRDX0lnMHlPcDdadzdheWRQc3FtUlpPUWtDUDJ1Nk1pQVVXYw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ff745e2c6739",
+      "title": "BH abre 22 centros de saúde no sábado para ampliar vacinação contra a gripe; saiba onde se vacinar - O TEMPO",
+      "published": "2026-05-21T18:24:04+00:00",
+      "summary": "BH abre 22 centros de saúde no sábado para ampliar vacinação contra a gripe; saiba onde se vacinar&nbsp;&nbsp;O TEMPOBH abre 22 centros de saúde neste sábado (23) para ampliar acesso à vacina contra a gripe&nbsp;&nbsp;Prefeitura de Belo HorizonteCentros de saúde de BH abrirão neste sábado (23) para vacinar contra gripe&nbsp;&nbsp;Estado de MinasCidade Administrativa, em BH, terá vacinação contra gripe, covid e febre amarela nos próximos dias&nbsp;&nbsp;O TEMPO18 postos vacinam neste sábado em Be",
+      "sources": [
+        {
+          "name": "O TEMPO",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNckhEQ3dMYWNfNDBjUkR0cS1CY2ZlN0lNcmdkYlpZUnNUUDVXMkxtdEZEMnV3ZTV4TVVXbFhvYVVrUENLOFBxTDNsT09WcmxBdUVVV0FnWjhOQ3VuS2xKTHd1SThrNFZfZjFKTzM3TFpYcXg4NFBndENnT2JLR1BnbHNIbmpEbHBidm53aEEtbEFHMF8tWXpGUFozU1hlRFQ1b2dnTkZ3RlFzeHdpMUo1WUdQdVN0aFNOSUhodW9OQmF2eHpwSDhQbkIxS0ppVmgwanhQWXZhUGc?oc=5"
         }
       ]
     },
@@ -177,7 +285,7 @@
       "id": "64bcbb916f67",
       "title": "Gripe: Fiocruz alerta para alta de síndrome respiratória grave no país; veja estados mais afetados - O Globo",
       "published": "2026-05-21T15:19:45+00:00",
-      "summary": "Gripe: Fiocruz alerta para alta de síndrome respiratória grave no país; veja estados mais afetados&nbsp;&nbsp;O GloboMS tem alta de casos de SRAG por VSR e gripe, diz Fiocruz&nbsp;&nbsp;Campo Grande NewsInfoGripe alerta para aumento do número de casos de SRAG no país&nbsp;&nbsp;Fundação Oswaldo Cruz (Fiocruz)Mato Grosso do Sul tem alto risco e 95% de chance de crescimento dos casos de SRAG&nbsp;&nbsp;MidiamaxSRAG cresce no Brasil, com maior incidência entre crianças pequenas&nbsp;&nbsp;O TEMPO",
+      "summary": "Gripe: Fiocruz alerta para alta de síndrome respiratória grave no país; veja estados mais afetados&nbsp;&nbsp;O GloboMS tem alta de casos de SRAG por VSR e gripe, diz Fiocruz&nbsp;&nbsp;Campo Grande NewsInfoGripe alerta para aumento do número de casos de SRAG no país&nbsp;&nbsp;Fundação Oswaldo Cruz (Fiocruz)Brasil registra 20 mil notificações e mais de 18 mil mortes por Síndrome Respiratória em 2026&nbsp;&nbsp;Jornal O FluminenseMato Grosso do Sul tem alto risco e 95% de chance de crescimento d",
       "sources": [
         {
           "name": "O Globo",
@@ -234,18 +342,6 @@
       ]
     },
     {
-      "id": "3d83e861a9d8",
-      "title": "Pesquisa sobre psiquiatria da Fundação Allan Kardec é apresentada em Harvard - Jornal da Franca",
-      "published": "2026-05-21T11:00:00+00:00",
-      "summary": "Pesquisa sobre psiquiatria da Fundação Allan Kardec é apresentada em Harvard&nbsp;&nbsp;Jornal da Franca",
-      "sources": [
-        {
-          "name": "Jornal da Franca",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSUdXakpxTGFkWDBBRnp2UzBQTWtKcnQ2MlQyenlidWNjYUIxWTgyYmlZRlJ4aDNSQWVtMG5DdkduNk5yc2tWX3VGRi00V1QxblJTV1FMNVhDTzZuUmZZcVZMLTNQZG10TmhjZVBNY0R1emY4OEZvUXBzWkJVMHBxVUNVQkx5Zi0weUhsX1VsTmRXTEswU1JOOFNxQU5ZalRaNnZSRS1oRXNIRkNKdWtFcA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "612d3c10f270",
       "title": "Estado confirma mais dois óbitos por Influenza em Passo Fundo - Rádio Uirapuru",
       "published": "2026-05-21T10:48:16+00:00",
@@ -261,7 +357,7 @@
       "id": "2aabd3f8f641",
       "title": "Médico de \"Quilos Mortais Brasil\" sobre canetas emagrecedoras: \"Ferramenta\" - CNN Brasil",
       "published": "2026-05-21T09:15:34+00:00",
-      "summary": "Médico de \"Quilos Mortais Brasil\" sobre canetas emagrecedoras: \"Ferramenta\"&nbsp;&nbsp;CNN Brasil'Bumbum de Mounjaro': efeito associado às canetas emagrecedoras viraliza nas redes&nbsp;&nbsp;O GloboAs canetas emagrecedoras e os novos hábitos à mesa&nbsp;&nbsp;O POVO+O ‘7 a 1’ das canetas emagrecedoras diante da cirurgia bariátrica&nbsp;&nbsp;VEJAUso de canetas emagrecedoras mudou o hábito de consumo nos supermercados&nbsp;&nbsp;band.com.br",
+      "summary": "Médico de \"Quilos Mortais Brasil\" sobre canetas emagrecedoras: \"Ferramenta\"&nbsp;&nbsp;CNN Brasil'Bumbum de Mounjaro': efeito associado às canetas emagrecedoras viraliza nas redes&nbsp;&nbsp;O GloboO ‘7 a 1’ das canetas emagrecedoras diante da cirurgia bariátrica&nbsp;&nbsp;VEJAComo identificar uma caneta emagrecedora falsa antes que seja tarde demais&nbsp;&nbsp;NSC TotalAs canetas emagrecedoras e os novos hábitos à mesa&nbsp;&nbsp;O POVO+",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -297,7 +393,7 @@
       "id": "08b432bef354",
       "title": "Confira 3 alimentos que você deve \"abandonar\" para proteger seus rins - Metrópoles",
       "published": "2026-05-21T05:00:00+00:00",
-      "summary": "Confira 3 alimentos que você deve \"abandonar\" para proteger seus rins&nbsp;&nbsp;MetrópolesDoença renal vai muito além dos rins: pode afetar coração e cérebro&nbsp;&nbsp;Veja SaúdeEstudo mede verdadeira dimensão da doença renal em Portugal&nbsp;&nbsp;NegóciosDoença renal avança na Bahia e especialistas alertam para relação com pressão alta&nbsp;&nbsp;Jornal CorreioA partir de que idade os rins começam a enfraquecer silenciosamente?&nbsp;&nbsp;Vietnam.vn",
+      "summary": "Confira 3 alimentos que você deve \"abandonar\" para proteger seus rins&nbsp;&nbsp;MetrópolesDoença renal vai muito além dos rins: pode afetar coração e cérebro&nbsp;&nbsp;Veja SaúdeEstudo mede verdadeira dimensão da doença renal em Portugal&nbsp;&nbsp;Jornal de NegóciosPesquisa revela que brasileiros vivem em ambiente de alto risco para a saúde renal&nbsp;&nbsp;AJN1A partir de que idade os rins começam a enfraquecer silenciosamente?&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "Metrópoles",
@@ -330,34 +426,10 @@
       ]
     },
     {
-      "id": "fa23e5e19f4f",
-      "title": "O fígado costuma sofrer em silêncio - Folha de S.Paulo",
-      "published": "2026-05-20T22:20:00+00:00",
-      "summary": "O fígado costuma sofrer em silêncio&nbsp;&nbsp;Folha de S.PauloEpisódios de bebedeira triplicam o risco de lesão no fígado, alerta estudo&nbsp;&nbsp;Folha de S.PauloComer este alimento no café da manhã ajuda a reduzir gordura no fígado&nbsp;&nbsp;MetrópolesUm tipo de bebida que ajuda o fígado a reduzir o acúmulo de gordura e a se desintoxicar naturalmente&nbsp;&nbsp;Tua SaúdeBebida popular pode ter efeito protetor contra fígado gorduroso&nbsp;&nbsp;R7",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWjNLUjB0bDY1SXIyYW10WWVvTFYzWVpudDJrdXBPQzgtWmlXR0NFOXFGT0ZiQnBPVUJVU0ZaUUZuc2tuX1BXd2F2c2dmYjJVSW5tZU42M1pubDhadTBaUGYtRy1Vb1RFMFFoR1duTXdnTmJYQ24tYUZWSHhCSXJiQWNHRk9fNHh6UjdFTzRxOG1jQjlfYzVpNndOYTZvUkdSa2dUeNIBqgFBVV95cUxOR29XdnZlUXdBcm5iMS1TOG1lZVJha2MtSmN6NWJyNlZORVczZVhoR1RvMUtfZ3BIQW1XU1BuWWk0WWstWVQwQkgxaHBGQTg2ZjZ0WXJwUVRiU2dSSlY5WGdPc2tyLUphc1JhSEViZFptaWJiSkIwbnF5Nnh6OEV4Q2htMU82RERsak5ldnJ0ZWN1cmM3UXRwMm50WnhJMmF6SlFsU3lKOUJtZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3ec06f6aca31",
-      "title": "Casos de sífilis crescem em Brusque e doença já causou três abortos - Rádio Cidade",
-      "published": "2026-05-20T21:45:00+00:00",
-      "summary": "Casos de sífilis crescem em Brusque e doença já causou três abortos&nbsp;&nbsp;Rádio CidadeCasos de sífilis crescem em Brusque; doença já causou três abortos em 2026 – Araguaia 104,5 FM&nbsp;&nbsp;araguaiabrusque.com.brCasos de sífilis crescem em Brusque e doença já causou três abortos em 2026&nbsp;&nbsp;Portal da Cidade - Brusque / SC",
-      "sources": [
-        {
-          "name": "Rádio Cidade",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XbUxXd2NEdDVqb2hFZGNBdmJVOFJRZ0dGQnVUWE9oQ3d5RWhrb1NROTFDcjU4eEpKQTBTOHpLRVFENkJ6MlN5TGpKQUJBeWR2MzBuUl9tcw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "45fc0812db6f",
       "title": "Baixa procura pela vacina da gripe preocupa Saúde em Santa Cruz - Portal Arauto",
       "published": "2026-05-20T21:01:00+00:00",
-      "summary": "Baixa procura pela vacina da gripe preocupa Saúde em Santa Cruz&nbsp;&nbsp;Portal ArautoVacinação contra a gripe é retomada em todas as unidades de saúde da Capital&nbsp;&nbsp;Prefeitura de Porto AlegreRio Grande do Sul entra em categoria de risco por aumento de casos respiratórios&nbsp;&nbsp;GZHVacinação contra a gripe é retomada em Porto Alegre&nbsp;&nbsp;G1SAÚDE. Prefeitura de Santa Maria reforça vacinação contra a ‘Influenza’ e já aplicou mais de 46 mil doses&nbsp;&nbsp;Claudemir Pereira",
+      "summary": "Baixa procura pela vacina da gripe preocupa Saúde em Santa Cruz&nbsp;&nbsp;Portal ArautoEstado deve receber mais 536 mil doses de vacinas contra a gripe na próxima segunda (25)&nbsp;&nbsp;Portal do Estado do Rio Grande do SulVacinação contra a gripe é ampliada em Porto Alegre&nbsp;&nbsp;G1Rio Grande monta força-tarefa para aplicar vacinas contra gripe e Covid-19 no fim de semana&nbsp;&nbsp;GZHVacinação contra a gripe é retomada em todas as unidades de saúde da Capital&nbsp;&nbsp;Prefeitura de Po",
       "sources": [
         {
           "name": "Portal Arauto",
@@ -366,26 +438,14 @@
       ]
     },
     {
-      "id": "87df9023b315",
-      "title": "Por que dinossauros como o T. Rex tinham 'bracinhos'? Estudo descobriu - Globo.com",
+      "id": "ffabe819fc7a",
+      "title": "Por que dinossauros como o T. Rex tinham 'bracinhos'? Estudo descobriu - Globo",
       "published": "2026-05-20T19:17:49+00:00",
-      "summary": "Por que dinossauros como o T. Rex tinham 'bracinhos'? Estudo descobriu&nbsp;&nbsp;Globo.com",
+      "summary": "Por que dinossauros como o T. Rex tinham 'bracinhos'? Estudo descobriu&nbsp;&nbsp;Globo",
       "sources": [
         {
-          "name": "Globo.com",
+          "name": "Globo",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeFQyQUJpcmRfVW1RaUE2bFVYZWltdFEzcU1XS2FUMThQUTlMdkRhRXp5NEc4NnVlU0dTLWl3dVVaV3dvSjhGQXEyNFY5SXZ6M1dLU05yZjJGSGtaS0VTZkNkRzFNeWVEb2NSR1RDQjBiWXJVTjhsSG5SZHdmOGNFMV9Mc2dPa013QVJmTWpGc2pMZFZwZ21ISW05NmMzZHZYQjVnOXhvb0Q0bTRCbVVwbFRhb3JvNGtMd3hyZVRmMzBJOW52R2VfbdIB1wFBVV95cUxQQ0hHc1c2RDJQWGozc3JodlFnWGdieU8xZTd4QlduRXhONzZTUi1IQWxsWTBEMUFUXzdoRE1TMUJpaUlNWUEyeVhfX2ZLVVFqc2ZfdlJVUmN0TlRsYWZZMUF5SVhMbVZoQkhFSmd0LWpwN210YVMzLU1ROTNkc0Q4Q3NleTd5SEpXbVpfeGZkOFQtNmt0MUdXVWJ1VmwyeTZpWjEyOHhhQU5fZW9ydWxEMXFKcE1nLTJvX21WYWxHUlRXWmxxOF9VY2tOVFVOMUF5WWVURlVHMA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "700dedab964f",
-      "title": "Cientistas brasileiras podem concorrer a bolsas de R$ 50 mil para pesquisas - Folha de S.Paulo",
-      "published": "2026-05-20T18:00:00+00:00",
-      "summary": "Cientistas brasileiras podem concorrer a bolsas de R$ 50 mil para pesquisas&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR1FQS2QzRUo2VEpJNFNFNGlFMHBNNS1VbVBPdWtVUHBKNGtxa0M0WThETXF3VFVjbkV4QWtlZnVGa244M3psZWZxbGd5cml2ZXpNNUxaYTFhaTJuVHE1V0I1TGxLb1FDNGNKdmlvVHB0Y013VW1tZmEzWmZTVWI4dUt2eW1GTGhGRVg4aXl6eHl0aDFBWmJVRTdlWjRMUnVjbmo2OVpmRHN1alJDdFFPSVpaSUdySEQ5cnVWMFBpbFlYOHdp0gHKAUFVX3lxTE5DZVByb1BsaEQxV3lSVFVsTWlkNnNrNm1HT2QyWTRISmJPNmcwUFpRbHc0UHRKRTJsb0FkWVRqZVlNRUZKWFF6R01leWE4UUdfbWRJQTNjSHNrSlFxZXZ0Mjh5UkhPdUMzZGh6RTBQRWV0M250dnhrdHZjOXZFbk1ISmdLRU5ZVlFVN0FWOUR5YXBfbDlkNGFHV1FWcVpXTElVS2tvdUtuM3JodnhHemdMTW12X3N3em5KYjRDd1dZaDZaR2RqOFZSQmc?oc=5"
         }
       ]
     },
@@ -426,13 +486,13 @@
       ]
     },
     {
-      "id": "6b44d0a885d4",
-      "title": "'Geleira do apocalipse' está perto de quebrar, indicam estudos - Globo.com",
+      "id": "4a1ebfc0bdf8",
+      "title": "'Geleira do apocalipse' está perto de quebrar, indicam estudos - Globo",
       "published": "2026-05-20T16:04:31+00:00",
-      "summary": "'Geleira do apocalipse' está perto de quebrar, indicam estudos&nbsp;&nbsp;Globo.com",
+      "summary": "'Geleira do apocalipse' está perto de quebrar, indicam estudos&nbsp;&nbsp;Globo",
       "sources": [
         {
-          "name": "Globo.com",
+          "name": "Globo",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYXNvdGFBUDdLUy13Y09wbnhfR0d2Wm0zYUNyalRKNHdWaGRMNVJuTDRrYk9XQWpXc0c0ZkZQTWNvOU1XY044OWlzTWc3eGZDcS1jdlNzS096a0JUcmVfNVFOXzhvVTFpYXJuRVhzUER5VWg0TEYyZEhRSmFDQ2M0WS1SVjVjZVd5UTRRdTlkMnd5WWg5aF96dFZOenZOQmZBRjh4X3NDSk9lUXMza21NVlVPQnI4NzZVclNSTGRxVC1EbU5rX1VtNHoyWjBuTjhpVkHSAeABQVVfeXFMUElqUWhqdG5peGY3Z0llai1SOW5yNDNZVG0tWVZ2dV80XzFvZE52ZTgyY2F0V2dxRE1aT29JTWhQR0NrX0JkSjcyQzVTSlhrSFFyaG1TWk9VclFmWTJPQkx1Q3JjTFBfaGdsOFY1T2wweWhRSUM4NjRVZHpXazM1QzVmS0JDNlZmRlQ1a3lVT2NyYjVBQUNtR19yMFRORkJjWmZLVmJnVXFGRTJvWFNRZkFzbmhJMEJNdFJMMG0wMy1xbThjRm5YNXZlUW9PeFBoeGFxeXNQdG1YLWMxa3dpY2k?oc=5"
         }
       ]
@@ -446,30 +506,6 @@
         {
           "name": "Universidade Federal do Ceará (UFC)",
           "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQV1hzZ0k3SUh6WFJQa0tnd01qemtXQkhiQkd4dUFham5lbHI5SW5nRGVoU2hiWWFJcUZ1aTg4VzgtY1dvVlFseUp1cVNGdE9jSUZocVpFTWgzZ0lyd0NlMzYwb251dEFUaHVPSlo1VVVTNEpzellJWU5PNm5tclJTbTA3NWtuc0JFWGUwR2Q4WEpaV19vZ1R4VENKZ19GeGZGT2FkZ3dqNW5EMlgxOVdPVmZ3b3R2RXprak9xS2k2RU1ZUkh6NW01aTlTUTlBVFJqYVNNcjBMbHhVSV9KX0pjbDNkaXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bffaf1c22d03",
-      "title": "As pessoas consideradas mais bonitas costumam nascer nesses meses, segundo estudo - Portal 6",
-      "published": "2026-05-20T13:39:38+00:00",
-      "summary": "As pessoas consideradas mais bonitas costumam nascer nesses meses, segundo estudo&nbsp;&nbsp;Portal 6",
-      "sources": [
-        {
-          "name": "Portal 6",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa0tMbDBiNUdlWEx0QXRpc3AxMkJhTzRWbmtNQURpcEM0OUV0MFJnVE9HWFcySFZMRXFKMFBXTUo1Y2NhZWtfX01kOTM3bG15djJNRWJvUDFaenA2dUk1dXgwdlBWcmsyNGkwVFdMdWozYUxGcXRkendwY2tqU3RvanFpV1ZUYVFoVUhlNDlmRERYQVlOTXNWNXVYMEh0V1BadFhVSnYxbTF4UUFnMFRKa3VHZ0JHUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fe891d161365",
-      "title": "Vítima icônica de Pompeia na verdade era um médico, revela estudo; vídeo - Globo.com",
-      "published": "2026-05-20T12:49:37+00:00",
-      "summary": "Vítima icônica de Pompeia na verdade era um médico, revela estudo; vídeo&nbsp;&nbsp;Globo.com",
-      "sources": [
-        {
-          "name": "Globo.com",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSTR5dXlaekp4NlRMejNRQ25EbDM1TGVlS2NhNmVJcDhueGg1ZzhDMUVpYVp1Zk9lWld5UlFEX3FES0lmelFCNlJsdU9US1lwcVhfQklWZ1cwcW5iU3J4aDU0a1MwbEMyaDFrQkVNcExKNjZScEhLSWlyc21nc3Z6bFFKcHFoaUJuZmlsdW9NY1ZKLVlfWGc3Q1BxSFdlMGZvelRhUlNXVHhYOVZpaldCZjA1bERkWTN4dWtGNlpQUk00YTE0SkVPNUdDWGNaMHBaNVhXRC1SaWhmZGhEdnfSAewBQVVfeXFMT0lwLWhKR05KYWxIbm9RcmNaMllRMFg5MlRPcVRleXo5NlRmWm5KbWxzZV9wcW5WeVBGTG9MaDhIUXlrZXhXblhZRnBDUlZzLThYYmo2TlUwM3ZoU2ZyQVVWWFJrUHNaSUk4VDhwWEZBNklubGEtU0pWQzNtVmFvUW5ERjMwMndVeXZ4WklkQ29DYjQ4ZGo2QmVlU0gzOEVxTTJqenlnSkVWX00xZVVVbllDektnX21FeVhvYWdjd1g0UVRQdUlMd3I1Zzd2eXFqaEsyRnpUMWJheE90T1FNT1lzZWNMVTRaRk9odzk?oc=5"
         }
       ]
     }
