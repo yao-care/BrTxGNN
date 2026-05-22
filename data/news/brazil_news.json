@@ -1,19 +1,103 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-05-21T19:56:06.117695+00:00",
-  "total_fetched": 98,
-  "unique_count": 98,
-  "health_related_count": 41,
+  "fetched_at": "2026-05-22T03:53:33.704055+00:00",
+  "total_fetched": 91,
+  "unique_count": 90,
+  "health_related_count": 38,
   "news": [
     {
-      "id": "c62e8dc0d4fb",
-      "title": "Lúcia Helena: Por que o SUS ainda prescreve drogas ineficazes contra o câncer de próstata - UOL",
-      "published": "2026-05-21T19:00:00+00:00",
-      "summary": "Lúcia Helena: Por que o SUS ainda prescreve drogas ineficazes contra o câncer de próstata&nbsp;&nbsp;UOL",
+      "id": "1a8aab5cef3a",
+      "title": "Erros foram encontrados em centenas de estudos sobre o nível do mar e esses novos dados podem alterar os mapas de risco costeiro em metade do globo sendo que essa correção está longe de ser pequena - Catraca Livre",
+      "published": "2026-05-21T23:07:53+00:00",
+      "summary": "Erros foram encontrados em centenas de estudos sobre o nível do mar e esses novos dados podem alterar os mapas de risco costeiro em metade do globo sendo que essa correção está longe de ser pequena&nbsp;&nbsp;Catraca Livre",
+      "sources": [
+        {
+          "name": "Catraca Livre",
+          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPWE93VXlZbkVuTkVzR19WRlA4dTlKZlJkVVVBVUNkMEtEdVJFeDlKWUJPenRTVjB6TzVva1NUYk1Sam1nc0lBZGlBWjlYUjNmZzc5eHhkRlNldW9CR0RuVlNKUDNITloyQkVfSm5GTzVzVjZ4YTNWdk1SR1F0YXZCQlJYdUkyT2xyNjU4c09mZGxJejNVUG9hVzNINm9ybzZRUjBiSHVKYTlweTl6anc1WkFwTGs0bXVqRzd5NVJlMllLZkprbGZNd1otUnFKOENkMWNQM0EtcFVObkZpaHpOeGgwc2o3Y3VFalBSQ2taa0o2UkM1TzlBZFpMZ0UwWUdXTUdXTlBvQTRUbUV0WVdmX2ZZUWdSem9TZ0syZUdIeDJ6UHU3VXBwdHM5TzVlU2pudHhfMFhHTlNOV25WQWF4LVR3TmxEZGJ5NGE0V0lORWNDUE05Z2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a6e109fe9951",
+      "title": "SUS adota novo exame para rastrear câncer colorretal na população - Agência Brasil",
+      "published": "2026-05-21T21:56:00+00:00",
+      "summary": "SUS adota novo exame para rastrear câncer colorretal na população&nbsp;&nbsp;Agência BrasilCâncer de intestino: quem deve fazer o teste imunoquímico fecal? Como funciona o exame?&nbsp;&nbsp;EstadãoPor que novo exame de fezes anunciado pelo SUS pode aumentar detecção de câncer; entenda&nbsp;&nbsp;O GloboSUS adota novo exame para detectar câncer de intestino antes dos sintomas&nbsp;&nbsp;CNN BrasilEntenda novo teste disponível no SUS para detecção de câncer colorretal antes de sintomas&nbsp;&nbsp;",
+      "sources": [
+        {
+          "name": "Agência Brasil",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOHFDOXRtWVJNajZVWjFuQU8yX3EtdzVETHhST25qZEw3OHpmeXJ3ZHV4M2xZSk9Sb1UwX1k1MXVCUzM1aU5xdUZkWkNhU0dURHlmM2Z4Yi02RVhKYlNKVzBhX1lkcV9vNnFKVThPNElJOHBHWlJ5OWF1OUNwZHpSalZNbkFqYVhCRGJKME5lRmR5UmlJWGJ1U08zR2xXOWF3SG0wakQxdVZxQlJVZnNVMExGT2EyVmJPT3d2Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c8e0ddc8d6ac",
+      "title": "Mulher chora mais que homem? Chorar traz mesmo alívio? Ciência tenta entender efeitos das lágrimas - Estadão",
+      "published": "2026-05-21T21:00:01+00:00",
+      "summary": "Mulher chora mais que homem? Chorar traz mesmo alívio? Ciência tenta entender efeitos das lágrimas&nbsp;&nbsp;Estadão",
+      "sources": [
+        {
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNjVqcHlQVHBOWS0wdTI0emxZVXhCSTFGMzhnXzI1WGo0dUF4ZjRfdlRCZHdpbFIyWThBWjAxS0NiSmRCZkpjYWxKdnhSQ19MRXNycjB3M2p1UzNfdV9mMVYxZXdiNGs2S25adzZxMkxpSko4TU1JeU95NGxzazU5Y3BTWU14TWUxRlVPSHh6LUlBdlZrc2xXa3JjbkpHd0lmMURWOGxud21TZHRrSXZGRmQ4LV9pSTZsZDd4S3BJTjB4b1dleXZ2a05JMUg5ejN4QUFfX3NUQXhaZ2JNUFpMQ9IB5gFBVV95cUxPNEZFSldIMGtMYzBDenVHb0pWUUxXeEtNQUpMNTVJTGZDblBBYzRrVmJlWkozQjl1YWNjd20zdlRldGNtNmN4d21VdlZ4VjZYYjhwYnNkdEJYdXA3UU9GT2M3cE1sQ3JyN3c0aFN0ckpSQ1J2MWxwRzI4NkFZV05NT1BSaFdrVG9hdUFEdkpnY0IxUWx5OUZpOXE3TkJlaHJ0SmdKQk5BdDM2MU9NQldWMzZERlpKWWNTcjZIY2lqT2U3bHFZaUFrWmVkT2hqUk1ZaWZuWk94Yy14c3QzU2lHa2sxcUZ2Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "82589c964c41",
+      "title": "'Tempo negativo' é confirmado por físicos em novo estudo quântico - UOL",
+      "published": "2026-05-21T19:43:58+00:00",
+      "summary": "'Tempo negativo' é confirmado por físicos em novo estudo quântico&nbsp;&nbsp;UOL",
       "sources": [
         {
           "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNd19sTDg4Z0NtR2JCYWh1UFo1WFh0MV9RcHg0b3pHWk1HYlo3UE16RW9XVzFnV2xnQVdmNU01MkNMbFFJd3I3RUNHRHRQc3RUc2dKYUQtRHFxQmI1WmVELTZaWWY5TVVoakJHdTBCdzFQQWpyVTZkVTdHajJNLWw3MjI5aUxwUlNkLTJaUUlNamkwTGptbWktZ3FVUTB2LWNicUd5UzVZM2JMb0ZaT05Yd2ZOdlhmNTF6SVFLQTNiOVI4YVF4RDNZMEZVVDJjRjNtMm9BYWlpb1FmUQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSVNBMDFMTC1feDJCNER2aFoxSGNrSnZpZk01WEMzLUVtXzdwa2k1VXhfTGZjQUhFVjVnLUNLTEx1eHlMVDE2dWxpdzF3dzlTTENPc294cUlBa2NYQy1Ocy13NTA3bEZnbk1MOTM5cDVxb3JJNHBqaXdjNW5NdlJ0YkJTMUVmNS1HTDd1MGpDbDhXb2hrUmVUQU9TN2M3YjVYV3FnbDVSWVJTQlBLY0pDSlEzSHREM09FOGwwYzk3TjMwZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d0373ae4bf05",
+      "title": "Número de casos de gonorreia e sífilis batem recorde na Europa - UOL",
+      "published": "2026-05-21T19:12:32+00:00",
+      "summary": "Número de casos de gonorreia e sífilis batem recorde na Europa&nbsp;&nbsp;UOLDoenças sexualmente transmissíveis em máximos históricos na Europa&nbsp;&nbsp;Euronews.comDoenças sexualmente transmissíveis atingem valores recorde na Europa&nbsp;&nbsp;RTPCasos de sífilis em bebés quase duplicaram na Europa e especialistas deixam alerta urgente&nbsp;&nbsp;Jornal SOLDuas grandes IST atingiram níveis recordes na Europa | Notícias do mundo&nbsp;&nbsp;obusilis.com.br",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOV3g2NE1ITG5laDBXMzZzYlVHbzJwYnBoWHNmM0xLSG0tMXdjX2ZBbzBWclVNNXdiakh4dF91TVY5QWZFNXIwU29DTVM0eTBBMTJpX3p3YkExMGFWVl9uM0xzWWVfcERuLUxsUzZSZ01QV1BJeFNUYUMwWGpDYVNtalRjZHdLdmtFc1pSaXdKV3ZkLWFvUDA5VXBzdXQ3aTRFN2VVVHBfMDQxMm5rc1pJMmVwVWc2UVJZbDVpdlp1bUVqVDkz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5c1cba52ce39",
+      "title": "Estudo dá pistas sobre por que a maioria das pessoas é destra - UOL",
+      "published": "2026-05-21T18:47:29+00:00",
+      "summary": "Estudo dá pistas sobre por que a maioria das pessoas é destra&nbsp;&nbsp;UOL",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONFl6eHhwMjR1OUstRURBb2hhLUFLdVY2TkQ0UnJWMEEwdHVDOHdjV2VxTl9fazVkZFVpZFM3eHpmX2x5NDJ1VExRZGFNSlhMZzduaUhMS080UVctSFhpdWZFMm12UndLblFKZkNZX0JuMDNxeENvbUxGZHl2R2JnX0w5emNkeFpCUTROX0VVN2NZdWRtMG92YjJDNDlaLVBPN0M5TUswbDVoWjlFbFIyd3ZPeEtYWWFEY2JCN0lRY1JscFRMbU9TSC1aMXk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9b3b93f9a464",
+      "title": "Dieta rica em vitamina C pode ajudar a prevenir câncer, segundo novo estudo - O Globo",
+      "published": "2026-05-21T18:34:10+00:00",
+      "summary": "Dieta rica em vitamina C pode ajudar a prevenir câncer, segundo novo estudo&nbsp;&nbsp;O Globo",
+      "sources": [
+        {
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbk9xcnVNZXBEOFBZb1BHLXFyQjBhZGFKZGFteVNhVUxjSkQyMmNPZDV3Y0VEM0lvMDVnTlc2bUhIaDJDV1Ntb09FQ0xOOGFGRjFGX0pDdmNzdXd5X3RWYWlrZGRVNGtxUHl6b0JCNkc3LXJmSEtGMU96TDVnRGFIemdMTFFPdlVVUnhKRGdWVTM5TXY4dl9DQldtV0xZZm94WkYtZmFOMnpRWTZDUGdTN0JrODRueXN4S09EZWs0VkJ0X1AweWw1MV9n0gHYAUFVX3lxTE1KblhjcG5fTjBMelMyVVRvZFJfQWdSd3JkRDM1WWFFaVBVRmx5emN0ejRlcXRsdkVjRXRGWlVZWjFVbko4cjNxdjJNdnJfRU1LRy1teFBsX2ZqSGRNejNwelhoa3hvbUlYbnAzQXNCTjJLV0hoUWVUc3BvOXFkTG00Rmc3ZF8ycHlST3RMSWVIaWVyNmpWWFRKaElodEdaLXpENEtOU1JTUzl3UDM5em1NdUtjRnRDX0lnMHlPcDdadzdheWRQc3FtUlpPUWtDUDJ1Nk1pQVVXYw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "32d2aa548aed",
+      "title": "Fiocruz vai produzir remédio de alto custo contra esclerose para o SUS - Agência Brasil",
+      "published": "2026-05-21T17:58:00+00:00",
+      "summary": "Fiocruz vai produzir remédio de alto custo contra esclerose para o SUS&nbsp;&nbsp;Agência BrasilVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "Agência Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMXVYUkN1LWdBRXo4MTB6ZlFJZ1pybkpPelByTmw2OERRRUJ0UHFJMVhzOTBMMmpwNGlQM0VRZ3F4NUxQTjdIVl9qSEJZYXMyNURBY1NlRzYzSHJ6SDdHWEp4d0FISWtSTjFDYy15TWg5aExHRk1FOWlCc213b0ZwU0NHMk1DNmJ5QUpVVVpnLTYwNFU3bDc3WG9GdWUzcWQ2TXJDWXI0YzhFSkl4bGlycVJ1UXdjb3BKc09aQmxLdWdKRkU?oc=5"
         }
       ]
     },
@@ -26,6 +110,18 @@
         {
           "name": "Globo",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdlZJM3RuaDRRbXgxVnZldjFrbE5DWWhTbmI3V29xa0czS1RlTjk4dGhJSld0STVKMjZ4NUZmWEhSYTBielZmSHV4RjN3dGszWTJUYlhGMFBuMGQzbEpqQTFPeFdCQlM2X1dINlI3YktlR0tneDhybXZDVEVZTV9wQ1dqcTQzdE9uSjZWSlhVenlCS2xFMmRZV1RjT2pNOWFsY21HVnRZOEFHdDFqbXNQWUwzRDJCNlRTN0hNbVMtTFFrWFczeHZTZkxwYTJ5X0tSLWhTWU5zejh2UdIB6AFBVV95cUxQckNobC1iSFNyY1hyQ096YWdVeURMYm8tb1JUeUtXYWpwZWs1QkdxeU1SRXQ0ZG5CUEdIb0lUNWdwMnB0d2Zad2gzZG9IZHM0alBWcU5vTkVNU283dDdGWDE2RFo0a0w0emtwaXprQkczUkdiZG9XTW1nZHZNZWdfOVd3UmtaeFFrLUtES1VKcHlHcDJkMmdmTXNVNmVPbjRJQjkzRU5fRmJzTXpkTVFPQkpMb2FVZHVMbUpSeFZWNVdnU0cybGZkT1lYeHRjZmJZb2tEN0hoOWR1dWwwMVZxU3locmZvLUtj?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8cdf8e7d14a9",
+      "title": "Médico aponta tempo para o cérebro se recuperar após consumo de álcool - Metrópoles",
+      "published": "2026-05-21T16:31:00+00:00",
+      "summary": "Médico aponta tempo para o cérebro se recuperar após consumo de álcool&nbsp;&nbsp;MetrópolesConsumo excessivo de álcool afeta saúde, a mente e a vida social&nbsp;&nbsp;G1Não é a cerveja: veja 4 bebidas alcoólicas que podem destruir a sua memória&nbsp;&nbsp;Diário do ComércioNeurocirurgião aponta as bebidas alcoólicas que mais afetam o cérebro&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZXMtcFhTUm1va3ZJaGJoNnlPU255Q1h5SVNHdVdpenIzMlktNTFfYWVNY2YwS2dYUDlTTUNQdUlIMDFtOXR5SDRDSFZ6RUhBcGVWWnpBek9SLWRYUlB1TGdfQVhtcFBFNEo2R3dzRnZEMkpJWkp4NHNjeDUxOTdERVZtUDhKa1VWT1dvUTNKNE4wclhfQ2VJblp4Zi1jS2FsMS11cDNlRmxRMWlTQThfV21xZnY2Rl9yTWo0OUlxRQ?oc=5"
         }
       ]
     },
@@ -45,11 +141,35 @@
       "id": "64bcbb916f67",
       "title": "Gripe: Fiocruz alerta para alta de síndrome respiratória grave no país; veja estados mais afetados - O Globo",
       "published": "2026-05-21T15:19:45+00:00",
-      "summary": "Gripe: Fiocruz alerta para alta de síndrome respiratória grave no país; veja estados mais afetados&nbsp;&nbsp;O GloboMS tem alta de casos de SRAG por VSR e gripe, diz Fiocruz&nbsp;&nbsp;Campo Grande NewsSC registra 16 mortes de crianças por síndrome respiratória e alerta importância da vacinação&nbsp;&nbsp;ND MaisMato Grosso do Sul tem alto risco e 95% de chance de crescimento dos casos de SRAG&nbsp;&nbsp;MidiamaxCuidados com crianças devem ser reforçados durante período de circulação de vírus r",
+      "summary": "Gripe: Fiocruz alerta para alta de síndrome respiratória grave no país; veja estados mais afetados&nbsp;&nbsp;O GloboMS tem alta de casos de SRAG por VSR e gripe, diz Fiocruz&nbsp;&nbsp;Campo Grande NewsSC registra 16 mortes de crianças por síndrome respiratória e alerta importância da vacinação&nbsp;&nbsp;ND MaisBronquiolite pressiona UTIs pediátricas em Pernambuco e acende alerta entre especialistas&nbsp;&nbsp;Folha PEBrasil registra 20 mil notificações e mais de 18 mil mortes por Síndrome Res",
       "sources": [
         {
           "name": "O Globo",
           "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORGJPYlNqTVpsM0x2aUphWHJVdjNfaVdDbnN2MGdwUWp1STlCRkI5MVBoQk5lQWVLSU1jc3FsRjlwY2paQmJDNjA1eE5Sa3poZl9NOFpQUG9SVkRERlZUZ0xwdW54MDFPWWxYWWlDV3l2RDF1SFg0aVZqbmhIWnh2anhETUNfWlFNVFFUN2VhV0RKU21xX0VoNmp3ZlNSeHhic3lSOTZ0ZW5GOWQtR3RMTnN4ZkM0WWFTaEVjNWVVQ09oUWswcW0zTVpvWm16UUhjYzI3bnppMDNSZnJxSE5lTUpTbGtROUHSAfYBQVVfeXFMUGx5aW1WVHkzWVlKaXllR2R6cXlQU3pQZjdnTGNpaFFLdnVnT1lLRVJmTlhOdTBsaGNYdTNWRC1Lanp2bERMMUgwWG52ZEk5OGZRazdRcnN5QU1CUjIxbWQ2Rm9makRuNElnUkdFb0hwWVRqMEJWYV9CQUJldTVWcE9wbFI2RnlJVl90Q0pXdmU3UnpNNUJZaUdLcWd0WjRaN1k5MGVON0pOeHlER0p5NnQzc1Z2S2JCUUxpYzBVYTVvV1VjeVpBR0QySlFFNzBRajhuMzB3UDFLZnAwS1paeUQyLTFJcFBxVk5tYmVvWVM3b2ZhVzhB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c62e8dc0d4fb",
+      "title": "Lúcia Helena: Por que o SUS ainda prescreve drogas ineficazes contra o câncer de próstata - UOL",
+      "published": "2026-05-21T15:00:00+00:00",
+      "summary": "Lúcia Helena: Por que o SUS ainda prescreve drogas ineficazes contra o câncer de próstata&nbsp;&nbsp;UOL",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNd19sTDg4Z0NtR2JCYWh1UFo1WFh0MV9RcHg0b3pHWk1HYlo3UE16RW9XVzFnV2xnQVdmNU01MkNMbFFJd3I3RUNHRHRQc3RUc2dKYUQtRHFxQmI1WmVELTZaWWY5TVVoakJHdTBCdzFQQWpyVTZkVTdHajJNLWw3MjI5aUxwUlNkLTJaUUlNamkwTGptbWktZ3FVUTB2LWNicUd5UzVZM2JMb0ZaT05Yd2ZOdlhmNTF6SVFLQTNiOVI4YVF4RDNZMEZVVDJjRjNtMm9BYWlpb1FmUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "692233ce579e",
+      "title": "Como os espinhos farpados do ouriço-caixeiro amazônico revolucionam a medicina moderna e garantem a sobrevivência da espécie na floresta - Revista Amazônia",
+      "published": "2026-05-21T14:59:25+00:00",
+      "summary": "Como os espinhos farpados do ouriço-caixeiro amazônico revolucionam a medicina moderna e garantem a sobrevivência da espécie na floresta&nbsp;&nbsp;Revista Amazônia",
+      "sources": [
+        {
+          "name": "Revista Amazônia",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQSnY4NTkzOUFVZ29CTjV1VTBYaUMzUmVJclNPSWkwNTJQMUN1UVhVam9ZVVdiWkx1cTE5VmRMTDhHMUJ6VjdmSVpXUnpFQXdKWmhfUVk2THh6Yy13VHppekZWcnVNRXFtZWR6Zll0R2RlRnVQdjZQVVJEeE1nd2Q0amotWlRYMkxFLTd1LWxEd0pUejRiTE9YeFU3ZnNKUHRpZDJzaU9oSW9mM0xHYmlqNHhoVjRCQktKUGZtejJQQmhsblY0ZDdqQUd5Vl90QjlBeklia3RhUi1aQmVDUW5DZkdHQXREUVRCajdYaFhwOHJsdjJqbUhPOUxsY3I?oc=5"
         }
       ]
     },
@@ -66,30 +186,6 @@
       ]
     },
     {
-      "id": "dee11a636aa5",
-      "title": "SUS adota novo exame para detectar câncer de intestino antes dos sintomas - G1",
-      "published": "2026-05-21T12:21:56+00:00",
-      "summary": "SUS adota novo exame para detectar câncer de intestino antes dos sintomas&nbsp;&nbsp;G1SUS terá novo teste para detecção e rastreamento do câncer colorretal&nbsp;&nbsp;UOL NotíciasSUS adota novo exame para detectar câncer de intestino de forma precoce&nbsp;&nbsp;Portal ABC do ABCNúmero de exames para detecção precoce do câncer de intestino mais que dobra na última década&nbsp;&nbsp;R7Novo exame do SUS pode detectar câncer colorretal mesmo sem sintomas&nbsp;&nbsp;InfoMoney",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQnRPVWhTa0ZjaE4zRTJmVW9zbDJabGxHcnFrTi13UEItT2hnQkkxWFI0X0cxYndDWkRBVFhmMGxWcVRheXNFN1I0Sk9valBwckR3eUJiQ1dQejRfRXFRSHU5UTczYlpsNzRvSkZtOGN4dEMwcHJEekV1Z0t2TXNfbTlCTkRpdHU2R1BydTFUQV81VnpqNVV0ay1meXpWd3FwbGtzdy1oNjYyVWltY3F2WmxxcGZpTklyMm5pckdwT0N1UTDSAdIBQVVfeXFMT0lUTUJ4aGlCMER6UnY3NkdoeW5SR3ZXdmxVOU1UckFMc2dLVW9GSFhCS0lUWDN6UXBhMVBvUFBzdHNMdFI3MGtKbEJwVzhZM3lBWUxSaEhfUXlTbmR2aEVWWkNhSUtSb2QtTkpDdjNxR0c1dlR6dWwwel9TQTlrZ0xtX2NHbUV4X1NwR01PSG1FNVJhVEh6amp0MUhIbE9WOFZwLVpsUWpCZXp6N2RZSWpwMkt2X2w1dnZmc1VpZWtTT18yUk01a0szcm43cTY1enNn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9ba487ca67bf",
-      "title": "Corantes e conservantes aumentam risco de câncer, diabetes e doenças cardiovasculares - O Dia",
-      "published": "2026-05-21T11:56:00+00:00",
-      "summary": "Corantes e conservantes aumentam risco de câncer, diabetes e doenças cardiovasculares&nbsp;&nbsp;O Dia",
-      "sources": [
-        {
-          "name": "O Dia",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZ3JoSE15MHpfWFpqbVJKQkFDWjJaak1uZFFYRWpjMTJjdjh3bTNTY1JGV1lBX2Y3NjFvdTFBQ2huekdUTFhWaEZvQzQ1UzVBU2phajlDbkxQdGlzb2RKbUZsSTlZQlVLN3ZhNXZuSEp4bUpiX1FTeVp5SFZ4c2tDWHQwcW5XM0tXZXdkR3dnS3BKSXVxUWNENGRsTDFGYUFxN3VEY2RhVjM2NWVLTVFEQTcwRHJvTjFVVHRMQ3JvLUNRMm9QSlNXX294YVF5NFNZa2RrdFlDNnB4SjDSAeABQVVfeXFMTUFHTUkzMFhyVUFsZXBVdEF4a2RyTkhJS3Y1b3ZFbWdBRDFTZ2V1ZFp0ZmVfNUpYLW4xVTBYOHk3eDZlaVRQaWJwWEZ3cTBKVXlEdjIwdDloVnN3cEhOYTZKSWhHUTMySWhPVi1Zcjc0cEhZSFRLcl90Mk8zNjloVUN4ZjRlZFpqLUplcnhIX1kwTXdjRlZkc2NBV0hBT2F6QTktUjRnamRVQndiVkZWWDVjTU8wOUQxSXJZQ0ZLb3pDSjV4UGszd1lPMW96aGt0eURaNE9ETmhXM21idGhOY3Y?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3d83e861a9d8",
       "title": "Pesquisa sobre psiquiatria da Fundação Allan Kardec é apresentada em Harvard - Jornal da Franca",
       "published": "2026-05-21T11:00:00+00:00",
@@ -98,6 +194,30 @@
         {
           "name": "Jornal da Franca",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSUdXakpxTGFkWDBBRnp2UzBQTWtKcnQ2MlQyenlidWNjYUIxWTgyYmlZRlJ4aDNSQWVtMG5DdkduNk5yc2tWX3VGRi00V1QxblJTV1FMNVhDTzZuUmZZcVZMLTNQZG10TmhjZVBNY0R1emY4OEZvUXBzWkJVMHBxVUNVQkx5Zi0weUhsX1VsTmRXTEswU1JOOFNxQU5ZalRaNnZSRS1oRXNIRkNKdWtFcA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "612d3c10f270",
+      "title": "Estado confirma mais dois óbitos por Influenza em Passo Fundo - Rádio Uirapuru",
+      "published": "2026-05-21T10:48:16+00:00",
+      "summary": "Estado confirma mais dois óbitos por Influenza em Passo Fundo&nbsp;&nbsp;Rádio UirapuruNorte do RS registra 8 mortes por influenza e mais de 100 hospitalizações em 2026&nbsp;&nbsp;Sul 21Passo Fundo registra mais duas mortes por influenza; vítimas não estavam vacinadas&nbsp;&nbsp;GZHMorte de criança por Influenza acende alerta para vacinação em Passo Fundo&nbsp;&nbsp;Rádio UirapuruCresce a procura pela vacina contra a gripe na rede privada&nbsp;&nbsp;O Nacional",
+      "sources": [
+        {
+          "name": "Rádio Uirapuru",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT0x3aFdKMmR1ZE9zWDFSYmduVThPbUE4ZzdZb2pLV3pkTG0wX3FKeno5d0g1YUxPclZmUjZUSXJ6N1Y1cmtTMlNLRjR6VlBFZkNaTGU2M0YzcnJITWZRVmt6cGNWN1BNeEd3SjdMSEFRSVRRLWlnZTd0andKMF81alZwYnRxdnJLY01XUTdISF82QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3fec9884f201",
+      "title": "Planos de saúde agora são obrigados a cobrir cirurgia robótica - TecMundo",
+      "published": "2026-05-21T08:15:00+00:00",
+      "summary": "Planos de saúde agora são obrigados a cobrir cirurgia robótica&nbsp;&nbsp;TecMundo",
+      "sources": [
+        {
+          "name": "TecMundo",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM1ZiMzFiNW9pWHdxenkxbVdjc01oVDZJNzRhbnhBenV4RzU4d1pHWXRSZkw5bTBHZ0RsVWozcjhkYUEzdE9RZncxckJqcV8tRWhjRTVtVGdrNTFMU3JCclJtVXRpQlEzQWQ0QUhMRFZ4bWsxYm5IeUZnYjY5ejRTc1cteGs2Q2RrNFlEYTZHVGY5Ukk4dGdDTlpBcWNUU0pNX0Y0UEtHemU2aG94c1JqU0h3?oc=5"
         }
       ]
     },
@@ -153,23 +273,11 @@
       "id": "fa23e5e19f4f",
       "title": "O fígado costuma sofrer em silêncio - Folha de S.Paulo",
       "published": "2026-05-20T22:20:00+00:00",
-      "summary": "O fígado costuma sofrer em silêncio&nbsp;&nbsp;Folha de S.PauloComer este alimento no café da manhã ajuda a reduzir gordura no fígado&nbsp;&nbsp;MetrópolesUm tipo de bebida que ajuda o fígado a reduzir o acúmulo de gordura e a se desintoxicar naturalmente&nbsp;&nbsp;Tua SaúdeEpisódios de bebedeira triplicam o risco de lesão no fígado, alerta estudo&nbsp;&nbsp;Estado de MinasAlerta para o fígado: hábitos que podem destruir esse órgão mesmo que você nunca consuma álcool&nbsp;&nbsp;Rádio Itatiaia",
+      "summary": "O fígado costuma sofrer em silêncio&nbsp;&nbsp;Folha de S.PauloEpisódios de bebedeira triplicam o risco de lesão no fígado, alerta estudo&nbsp;&nbsp;Folha de S.PauloComer este alimento no café da manhã ajuda a reduzir gordura no fígado&nbsp;&nbsp;MetrópolesUm tipo de bebida que ajuda o fígado a reduzir o acúmulo de gordura e a se desintoxicar naturalmente&nbsp;&nbsp;Tua SaúdeBebida popular pode ter efeito protetor contra fígado gorduroso&nbsp;&nbsp;R7",
       "sources": [
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWjNLUjB0bDY1SXIyYW10WWVvTFYzWVpudDJrdXBPQzgtWmlXR0NFOXFGT0ZiQnBPVUJVU0ZaUUZuc2tuX1BXd2F2c2dmYjJVSW5tZU42M1pubDhadTBaUGYtRy1Vb1RFMFFoR1duTXdnTmJYQ24tYUZWSHhCSXJiQWNHRk9fNHh6UjdFTzRxOG1jQjlfYzVpNndOYTZvUkdSa2dUeNIBqgFBVV95cUxOR29XdnZlUXdBcm5iMS1TOG1lZVJha2MtSmN6NWJyNlZORVczZVhoR1RvMUtfZ3BIQW1XU1BuWWk0WWstWVQwQkgxaHBGQTg2ZjZ0WXJwUVRiU2dSSlY5WGdPc2tyLUphc1JhSEViZFptaWJiSkIwbnF5Nnh6OEV4Q2htMU82RERsak5ldnJ0ZWN1cmM3UXRwMm50WnhJMmF6SlFsU3lKOUJtZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "aa245fd57988",
-      "title": "Atividade física promove 'limpeza' do cérebro, diz estudo - Folha de S.Paulo",
-      "published": "2026-05-20T22:01:00+00:00",
-      "summary": "Atividade física promove 'limpeza' do cérebro, diz estudo&nbsp;&nbsp;Folha de S.PauloA verdadeira razão pela qual o exercício deixa você mais forte não é o que você pensa&nbsp;&nbsp;segundabase.com.brO verdadeiro segredo da resistência física pode estar no cérebro, diz estudo&nbsp;&nbsp;ExamePequenos movimentos do corpo podem influenciar a limpeza natural do cérebro&nbsp;&nbsp;gizmodo.com.brExercício físico remodela o cérebro e aumenta resistência do corpo, revela estudo&nbsp;&nbsp;O Cafezinho",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMUkzMlF2dnpLNExjemZQT01IdjBJTy12S3JGVXBSOVF0YlI1SDhZVzh0eTh3eGJmMFFlUl9KMDZCR3R2NlAtT0pBTHBpMnlXUUR4RkU1NFlYOXRlVjI3SU52OTlLYzIwYlk3Y2I4Zzl0TFhLOFZLLU5tWFQwZkdBX1pYcnp3SExSWXpsYWxlT0dxNTZyamRVTTBYbzNqWU41ZDhvbkpWVWRiZzdHOHfSAbMBQVVfeXFMTjhYem9VRGtudWFnTXBPUERjSzlvVFh6cll2TXFDYV9mY0VVY29sUFBUTkdoMmxjOEZQWDF0MDJKTWdqZlpCTUwtNVkwQUxVb0hjTGp0SEFZU0JnQWZrZTBvaUF1UVBWZGlwZENNZGQ1LWtzdEZ4RVoxbGpNRFpWem1lQS1wMVFzM3FVd3d4T041Qzg0MmlEYmpDQmctQXM5Wmt6dlQ0SGROZWNqVkxDUVNQVW8?oc=5"
         }
       ]
     },
@@ -186,49 +294,25 @@
       ]
     },
     {
-      "id": "01b336eb2956",
-      "title": "Unimed Goiânia descredencia clínicas de autismo e mães denunciam risco de regressão em tratamentos de crianças - Jornal Opção",
-      "published": "2026-05-20T20:50:00+00:00",
-      "summary": "Unimed Goiânia descredencia clínicas de autismo e mães denunciam risco de regressão em tratamentos de crianças&nbsp;&nbsp;Jornal Opção",
+      "id": "45fc0812db6f",
+      "title": "Baixa procura pela vacina da gripe preocupa Saúde em Santa Cruz - Portal Arauto",
+      "published": "2026-05-20T21:01:00+00:00",
+      "summary": "Baixa procura pela vacina da gripe preocupa Saúde em Santa Cruz&nbsp;&nbsp;Portal ArautoVacinação contra a gripe é retomada em todas as unidades de saúde da Capital&nbsp;&nbsp;Prefeitura de Porto AlegreRio Grande do Sul entra em categoria de risco por aumento de casos respiratórios&nbsp;&nbsp;GZHVacinação contra a gripe é retomada em Porto Alegre&nbsp;&nbsp;G1Cerca de 5 milhões de pessoas integram os grupos prioritários para vacinação no RS&nbsp;&nbsp;O Alto Uruguai",
       "sources": [
         {
-          "name": "Jornal Opção",
-          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNQmhQMmUxcnJyRkFEQlQtcm9vZFNGRHptTm9qdk80UmZiNjdpWDZxeFpZRXBhWDlodGh3dlViNzdUUUgwcEZmTTZDTXNNMGE4SjFqNXJhR1p5clRxOVQtay1ybW1YeFFyemtyVUYxbHRWeThtNU00Y2JOMEJGNkoyUW41UkFXdEMwQVJjeDk5S3lOMEExVEY0Q3pkRmFRZVRrQmVNWk51bE9DUlY5b0V4S0FjN2NCYm1Rc1NBTWNUSWxtaDNkdldrUDFZdnNjRDNleEdDenJZWXowQk9pSE9FSGFqcWJnVWVUcVowSlhYNDJ0Zy1DZmZTYldNRi1YRWVyTjNKY05vZ1pFYVk?oc=5"
+          "name": "Portal Arauto",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcHdicVV1dlRfejAwNWtlTHFNb2d4c0pIUm5iY3NNU3U0STNHR1VYV2NkNTJ3ZVhMUTBXT0tVdXB1X2doNEZQQ291U3NyQ2J1UDJQeGhHcjc5T19BTExMME95MVl1ZzJ3Qmpvd1hZTHpBcE9ZSldJbkl4NjJvQzVSbmdTWURLWE96cW83WmprWVZQX3JMTUh5dHp0czIzd1JLNWlPVkdB?oc=5"
         }
       ]
     },
     {
-      "id": "6cf81162688f",
-      "title": "Saúde realiza plantão especial de vacinação contra gripe e atualização da carteira vacinal - São Carlos Agora",
-      "published": "2026-05-20T20:29:00+00:00",
-      "summary": "Saúde realiza plantão especial de vacinação contra gripe e atualização da carteira vacinal&nbsp;&nbsp;São Carlos AgoraSaúde faz plantão especial para vacinação contra a gripe e revisão da carteira vacinal&nbsp;&nbsp;São Carlos em RedeSábado será dia de mobilização para vacinação contra a gripe em Novo Hamburgo&nbsp;&nbsp;Prefeitura Municipal de Novo HamburgoSecretaria de Saúde promove campanha de vacinação contra a gripe em Sarandi&nbsp;&nbsp;radiominuano.com.brVacina contra a gripe está sendo a",
-      "sources": [
-        {
-          "name": "São Carlos Agora",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaG5yLVlIV3FUMlpmcjJsd2lKLXVFQ3AxNnJiSll6eHJYYWF4dEQ0bjBSVTFjaFhnbUhPb2lQRDVJQ2RwYjZKMnV3c3FBbGVGZ3Mta0JsY25LSm9xUU5NM1p4MlJKMVpRUzB1d2c0U3RNQkdUOEJCYjdnRFdXekJqUXQ0OEg5MlExWlB3ejM1d2NYUDhyR2x4SWVhemhFcTh5Q2x6dWQ0amdUNmhxbXd3eEgtX0VLVjBYcmfSAcABQVVfeXFMTmx3bVJKT0I0RlBVY1REQTgzSENnbkl4QTV2QnpfVzZvR0RNcTFYQTR1ejlqUXA2Z2loQ3lobFNUUURQaU5lMENNZVQ4d2trLXRFQkhLMXVWY2xQZzgzU085ekw0bndjcGl1ejNwLUhUeEFrU1VKbWtMN3RXb283ZHdhY2ZDYUNtS1R4NjEyaFhydTlSaUlheWo2WDYtRXFlT3VkcDhoNEh0VDBRSmRPNHZ1OExKcXNHR3JweFNsTjRV?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5db31d3e0c7a",
-      "title": "Físicos confirmam \"tempo negativo\" em experimento quântico - Olhar Digital",
-      "published": "2026-05-20T20:24:00+00:00",
-      "summary": "Físicos confirmam \"tempo negativo\" em experimento quântico&nbsp;&nbsp;Olhar Digital",
-      "sources": [
-        {
-          "name": "Olhar Digital",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTnNRV2VfRW5vYmY2dEQ3LU54cHgtelhfYkVRTE5HYWd3Y2NiejVkODVWWDFFSGZCZGdtMG1zY2xCLXNJR3pqNzVDNm1aWjNmRGlFaERlVzBhbmRpWGVUdHhreG9NNkxjMl90TWxpdnJ3dXItOE1mT2NnR3BOSEFiZTJvQmI3TTZuVWhtQ3Jzb0pJalJ1R1dNWlNUeHBJS1FnWEhteU1HeFlsSkxpd2FwT052SQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ffabe819fc7a",
-      "title": "Por que dinossauros como o T. Rex tinham 'bracinhos'? Estudo descobriu - Globo",
+      "id": "87df9023b315",
+      "title": "Por que dinossauros como o T. Rex tinham 'bracinhos'? Estudo descobriu - Globo.com",
       "published": "2026-05-20T19:17:49+00:00",
-      "summary": "Por que dinossauros como o T. Rex tinham 'bracinhos'? Estudo descobriu&nbsp;&nbsp;Globo",
+      "summary": "Por que dinossauros como o T. Rex tinham 'bracinhos'? Estudo descobriu&nbsp;&nbsp;Globo.com",
       "sources": [
         {
-          "name": "Globo",
+          "name": "Globo.com",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeFQyQUJpcmRfVW1RaUE2bFVYZWltdFEzcU1XS2FUMThQUTlMdkRhRXp5NEc4NnVlU0dTLWl3dVVaV3dvSjhGQXEyNFY5SXZ6M1dLU05yZjJGSGtaS0VTZkNkRzFNeWVEb2NSR1RDQjBiWXJVTjhsSG5SZHdmOGNFMV9Mc2dPa013QVJmTWpGc2pMZFZwZ21ISW05NmMzZHZYQjVnOXhvb0Q0bTRCbVVwbFRhb3JvNGtMd3hyZVRmMzBJOW52R2VfbdIB1wFBVV95cUxQQ0hHc1c2RDJQWGozc3JodlFnWGdieU8xZTd4QlduRXhONzZTUi1IQWxsWTBEMUFUXzdoRE1TMUJpaUlNWUEyeVhfX2ZLVVFqc2ZfdlJVUmN0TlRsYWZZMUF5SVhMbVZoQkhFSmd0LWpwN210YVMzLU1ROTNkc0Q4Q3NleTd5SEpXbVpfeGZkOFQtNmt0MUdXVWJ1VmwyeTZpWjEyOHhhQU5fZW9ydWxEMXFKcE1nLTJvX21WYWxHUlRXWmxxOF9VY2tOVFVOMUF5WWVURlVHMA?oc=5"
         }
       ]
@@ -261,7 +345,7 @@
       "id": "61eb90fbb5df",
       "title": "Cientistas tentam descobrir por que cada vez mais jovens sofrem de câncer no cólon - Extra online",
       "published": "2026-05-20T17:41:27+00:00",
-      "summary": "Cientistas tentam descobrir por que cada vez mais jovens sofrem de câncer no cólon&nbsp;&nbsp;Extra online",
+      "summary": "Cientistas tentam descobrir por que cada vez mais jovens sofrem de câncer no cólon&nbsp;&nbsp;Extra onlineO câncer de cólon está aumentando entre os adultos jovens e os médicos não entendem completamente o porquê&nbsp;&nbsp;segundabase.com.brPor que jovens contraem mais câncer colorretal?&nbsp;&nbsp;noticiaalternativa.com.brO câncer está atingindo os jovens e os cientistas acham que um ‘novo hábito’ ridículo pode ser a causa&nbsp;&nbsp;CONTI outraCientistas investigam aumento de câncer de cólon ",
       "sources": [
         {
           "name": "Extra online",
@@ -270,50 +354,14 @@
       ]
     },
     {
-      "id": "4ad23e8dafd9",
-      "title": "Obesidade: peso em diferentes idades influencia risco de 7 cânceres - Metrópoles",
-      "published": "2026-05-20T17:19:21+00:00",
-      "summary": "Obesidade: peso em diferentes idades influencia risco de 7 cânceres&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96ZW0teWNCOWc5ZU5xQ1lrLUlWMHRhZmRLSnBGbFhmdGRHTGo1bzFXMk5yUTFMM0syTElHc003YndaQ0dKR2h3VnVKU1FNa08xUkwtS3piWFJ3SEJxR2w5aTJjN1pBWGhvdU82MXVXTWVTbjNMNmtwWG03M2g4RGs?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5fdd5e956835",
       "title": "Atividade física promove \"limpeza\" do cérebro, diz estudo - DW.com",
       "published": "2026-05-20T16:52:58+00:00",
-      "summary": "Atividade física promove \"limpeza\" do cérebro, diz estudo&nbsp;&nbsp;DW.com",
+      "summary": "Atividade física promove \"limpeza\" do cérebro, diz estudo&nbsp;&nbsp;DW.comAtividade física promove 'limpeza' do cérebro, diz estudo&nbsp;&nbsp;Folha de S.PauloA verdadeira razão pela qual o exercício deixa você mais forte não é o que você pensa&nbsp;&nbsp;segundabase.com.brO verdadeiro segredo da resistência física pode estar no cérebro, diz estudo&nbsp;&nbsp;ExamePequenos movimentos do corpo podem influenciar a limpeza natural do cérebro&nbsp;&nbsp;gizmodo.com.br",
       "sources": [
         {
           "name": "DW.com",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVHo4b0NYSkFJWXJWM1c3ZklUYWM3V21yQlhTa0NFX0JuRnQyMWluSUNBLWdzdnZpbXhwT0I0TFVyN25DaXQ5d0JUbFV5b3F1ZHZ4RHp0S2FiVVlMbm1mQzZDSlpLaTVRQVJrLThCQ1FpMXNiTk4wcC0xMktiV2ttT2NTdU8xa2xEMjREbVlxYWlGRlREYVhGdFVZUmVFR0ZOTlHSAaIBQVVfeXFMTUQyN1pQZ1J6QUE5NTZYU1dySWFtVDBDSTZ4blJMSUhIc3RKSGFzRlpnU19tamJ6ejZObi12X3VZOHZpa1hMY0lmUDZCVGpCbFFHWWRtSlpUcV9Ud2JCWGZMNnU0ZXREdjZCcWtHOTMtT2tIRGp0eHdsdTF2ekc5QlhYeEgxR0ROZnh0ZmR5dFMweWRoTzZxRUs2eks1dGpYZXNn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e39a40af4114",
-      "title": "Combinar treino de força com cardio não atrapalha ganho de músculo, aponta novo estudo - O Globo",
-      "published": "2026-05-20T16:48:36+00:00",
-      "summary": "Combinar treino de força com cardio não atrapalha ganho de músculo, aponta novo estudo&nbsp;&nbsp;O GloboVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcXZZNnNLcllIbnNRdGFtTmJuenZ4c05KZXc0enlpcFpCcWljNDI5ZXBrLTVUbTl4TFFKWU50TUZ3TXpnU1VBVThPU1FSdE56akk4QmRmVlhHM191Z1duZXZLbzV5aVluVVVhWkpfbjB2bUZtVFN4dDdlRWR2ckQ5cTBYQ0JnVi1GYzRXYnlkTXpsZmRBUDdTcjQ4bEcyUjZQRVhUSm1XMC1JbE9ZdUo0N2pyRU9EQnRMYTJjNXBIMGtLeURKS1A1ZnVrZlBSOHYwT2ZDbEktbzjSAecBQVVfeXFMUE9CdFcyNmdBcGlISEdZNEtyQ245cUlDVmwtNEpxTVFIanVQUVJiRDI0OVBQczRTeWtDR3BiSHB1NlRSdGNacno5TjZ5UFZTZUZNeFNBUXpzRzNDVjlvZG5jMVpNTWViOFdCT3VBZDdqODV0YXpDaWhQdjZHckFkRzFYcy15N3dzbFRQN1dxSTllU3N2RUltOER3T0pUR2NzZFZyWXdpd1VHdU1jc25MMk5tMnFSNEUxTloxUXlhZXRXSk1oOXl6TjFXT0JOQ3BEWWpDdW0zSnRwaHd5c2szdVFURS1ZT29N?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b9f57f515287",
-      "title": "Estudo sugere 10h de exercício por semana para melhorar saúde cardíaca - Metrópoles",
-      "published": "2026-05-20T16:45:03+00:00",
-      "summary": "Estudo sugere 10h de exercício por semana para melhorar saúde cardíaca&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE16THQ2X0hZeklrNDh0MjlZNjY1T2MtMzdSTjhBUjdJMmFnQXppQ1Q3N2ZMUkdHTnFQYURhNnBNOExqVEdCekpvdDA0dDlYc2poWlVkdWE2SWZObHYtOUh1MkdHSkFBclVwYkRyc2F6RHVoMVE?oc=5"
         }
       ]
     },
@@ -330,50 +378,38 @@
       ]
     },
     {
-      "id": "d6263bcc2e0d",
-      "title": "Vinte e quatro pesquisadores da UFC se destacam em ranking internacional de produtividade acadêmica; oito são mulheres - Universidade Federal do Ceará (UFC)",
-      "published": "2026-05-20T15:47:00+00:00",
-      "summary": "Vinte e quatro pesquisadores da UFC se destacam em ranking internacional de produtividade acadêmica; oito são mulheres&nbsp;&nbsp;Universidade Federal do Ceará (UFC)",
+      "id": "6b44d0a885d4",
+      "title": "'Geleira do apocalipse' está perto de quebrar, indicam estudos - Globo.com",
+      "published": "2026-05-20T16:04:31+00:00",
+      "summary": "'Geleira do apocalipse' está perto de quebrar, indicam estudos&nbsp;&nbsp;Globo.com",
       "sources": [
         {
-          "name": "Universidade Federal do Ceará (UFC)",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQV1hzZ0k3SUh6WFJQa0tnd01qemtXQkhiQkd4dUFham5lbHI5SW5nRGVoU2hiWWFJcUZ1aTg4VzgtY1dvVlFseUp1cVNGdE9jSUZocVpFTWgzZ0lyd0NlMzYwb251dEFUaHVPSlo1VVVTNEpzellJWU5PNm5tclJTbTA3NWtuc0JFWGUwR2Q4WEpaV19vZ1R4VENKZ19GeGZGT2FkZ3dqNW5EMlgxOVdPVmZ3b3R2RXprak9xS2k2RU1ZUkh6NW01aTlTUTlBVFJqYVNNcjBMbHhVSV9KX0pjbDNkaXc?oc=5"
+          "name": "Globo.com",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYXNvdGFBUDdLUy13Y09wbnhfR0d2Wm0zYUNyalRKNHdWaGRMNVJuTDRrYk9XQWpXc0c0ZkZQTWNvOU1XY044OWlzTWc3eGZDcS1jdlNzS096a0JUcmVfNVFOXzhvVTFpYXJuRVhzUER5VWg0TEYyZEhRSmFDQ2M0WS1SVjVjZVd5UTRRdTlkMnd5WWg5aF96dFZOenZOQmZBRjh4X3NDSk9lUXMza21NVlVPQnI4NzZVclNSTGRxVC1EbU5rX1VtNHoyWjBuTjhpVkHSAeABQVVfeXFMUElqUWhqdG5peGY3Z0llai1SOW5yNDNZVG0tWVZ2dV80XzFvZE52ZTgyY2F0V2dxRE1aT29JTWhQR0NrX0JkSjcyQzVTSlhrSFFyaG1TWk9VclFmWTJPQkx1Q3JjTFBfaGdsOFY1T2wweWhRSUM4NjRVZHpXazM1QzVmS0JDNlZmRlQ1a3lVT2NyYjVBQUNtR19yMFRORkJjWmZLVmJnVXFGRTJvWFNRZkFzbmhJMEJNdFJMMG0wMy1xbThjRm5YNXZlUW9PeFBoeGFxeXNQdG1YLWMxa3dpY2k?oc=5"
         }
       ]
     },
     {
-      "id": "2c31c5b0d39e",
-      "title": "Médica do sono explica por que faz mal mexer no celular logo ao acordar - Globo",
-      "published": "2026-05-20T15:21:46+00:00",
-      "summary": "Médica do sono explica por que faz mal mexer no celular logo ao acordar&nbsp;&nbsp;GloboHá pessoas com 30 ou 40 anos que estão mais cansadas do que outras, e é por isso que o sono profundo é fundamental&nbsp;&nbsp;Tua SaúdeCiência faz alerta preocupante sobre hábito comum antes de dormir: mexer no celular à noite pode afetar sua mente muito mais do que você imagina&nbsp;&nbsp;CPG Click Petróleo e GásUsar o celular logo depois de acordar faz mal? Entenda o que dizem os cientistas&nbsp;&nbsp;Alago",
+      "id": "bffaf1c22d03",
+      "title": "As pessoas consideradas mais bonitas costumam nascer nesses meses, segundo estudo - Portal 6",
+      "published": "2026-05-20T13:39:38+00:00",
+      "summary": "As pessoas consideradas mais bonitas costumam nascer nesses meses, segundo estudo&nbsp;&nbsp;Portal 6",
       "sources": [
         {
-          "name": "Globo",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU3NWRHZ5VWkxSWJUTlVYXzJqN3BQVU04NmUteHc4SkFVeUFEQW5DcWFPak5OMHI5bEVmU0VKZzBMY19mOW92dGFrNW5YQzdmTWlSQ3lhTkdCYW9Yc1djaXN6WGtWZ3ZvR0FzMU5aYVloaS1SOVplZWRzT3BBNTNLbndfVzc0LVh2UUdJdHpvRFhoZTRHTmRXZG94Q1N3OXlhckFodEQ4VGx0Z1hVbGdPMGtub0ZOVC10XzNfOTliNDJUSWtDYTRPdUp30gHYAUFVX3lxTE51SU5RUEpVcjIwSVBNYk5zamVnbEU0SWJnX0d2aUZHS0lldzVhNW1ISHNXYjNQN01ibFJURFIzN2trbUVrRmVHQXA2YktqVE1QdV80ZmkxU3hWVTBFMk9xeDFQR0xJZHNURXpfOEh6TFh5V1hTZVNxbDZVYTV6MFFWM21JR0xIUlNxLTNQcExNWXBpOWY3N1A3bzNzeGhodjJfdHN2eXlIMHk5dlFZVERjekJtUE5IS2dyR1ZSREE1bFJnN2ZjN3dnakRmSEI4MXEwN1UwdllKbg?oc=5"
+          "name": "Portal 6",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa0tMbDBiNUdlWEx0QXRpc3AxMkJhTzRWbmtNQURpcEM0OUV0MFJnVE9HWFcySFZMRXFKMFBXTUo1Y2NhZWtfX01kOTM3bG15djJNRWJvUDFaenA2dUk1dXgwdlBWcmsyNGkwVFdMdWozYUxGcXRkendwY2tqU3RvanFpV1ZUYVFoVUhlNDlmRERYQVlOTXNWNXVYMEh0V1BadFhVSnYxbTF4UUFnMFRKa3VHZ0JHUQ?oc=5"
         }
       ]
     },
     {
-      "id": "1983047d75e7",
-      "title": "Segundo um estudo, praticar essas atividades pelo menos uma vez por semana retarda o envelhecimento - Tua Saúde",
-      "published": "2026-05-20T14:30:00+00:00",
-      "summary": "Segundo um estudo, praticar essas atividades pelo menos uma vez por semana retarda o envelhecimento&nbsp;&nbsp;Tua Saúde",
+      "id": "fe891d161365",
+      "title": "Vítima icônica de Pompeia na verdade era um médico, revela estudo; vídeo - Globo.com",
+      "published": "2026-05-20T12:49:37+00:00",
+      "summary": "Vítima icônica de Pompeia na verdade era um médico, revela estudo; vídeo&nbsp;&nbsp;Globo.com",
       "sources": [
         {
-          "name": "Tua Saúde",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRXVLT2MyUDhHMHp0VHh4QlF5Qmk1djBreFRIOUVyZUo0c0ZzODhralFDN05zZFoxY0lZTW1RSkpVWlRQaVB6SUtuWUtUQl9LZktFRWFQcVUzOTNWZEZ4d2pkRURkQkZWc19ONExyeVJnbXJJZG1Wek5EbExpeG5FRGYzU3BhQVRHVDhLd2FIOWcxV1RicWxVT2RLLUN6S09pZHdYblE3OF8yMUViTFlPM3J1azQ2OU1IaGNjX1gwTW14OWxjc0t0RUhJR0xmcHJMNm04bnJmSQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "55ae717bbc9d",
-      "title": "Secretário confirma sete mortes por síndrome respiratória em Criciúma em 2026; cinco por Influenza - Portal Engeplus",
-      "published": "2026-05-20T11:57:40+00:00",
-      "summary": "Secretário confirma sete mortes por síndrome respiratória em Criciúma em 2026; cinco por Influenza&nbsp;&nbsp;Portal EngeplusVacina da Influenza apresenta procura em Capivari de Baixo&nbsp;&nbsp;TubaNewsSaúde alerta para alta de casos de gripe e reforça vacinação em Criciúma&nbsp;&nbsp;sctododiaSanta Catarina distribui 164 mil doses da vacina contra a gripe para reforçar imunização antes do inverno&nbsp;&nbsp;Rádio Super FM 99,9Números de casos de Influenza em Tubarão, aliado a pouca procura pel",
-      "sources": [
-        {
-          "name": "Portal Engeplus",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWGN0b0huNjdxZWN5emwzUXE5cGFUc2ZIRkFsdXdHY0NPR0dFUGJTT3JBTmZoVEw4TmxYbkpxOWJldFhxbGszVnBjNU9ydzBNcmh3QlZzYS1jTVNGcUhkMzZ1c1VzY2lmazZVcWJaelhONnUzc2FTN2Z5UXF5dml4VjR3ajdTWG51R0NSU25leTdOWlhWSzJfc0VHSU9yeVg1VlpVQjJ5UGdueVhXRS1KM2pEMkplc1JOWVJ0MHBKWnVwZGdEZ0RGODRZbEhLY0I5cEdlUlNlMFpNQQ?oc=5"
+          "name": "Globo.com",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSTR5dXlaekp4NlRMejNRQ25EbDM1TGVlS2NhNmVJcDhueGg1ZzhDMUVpYVp1Zk9lWld5UlFEX3FES0lmelFCNlJsdU9US1lwcVhfQklWZ1cwcW5iU3J4aDU0a1MwbEMyaDFrQkVNcExKNjZScEhLSWlyc21nc3Z6bFFKcHFoaUJuZmlsdW9NY1ZKLVlfWGc3Q1BxSFdlMGZvelRhUlNXVHhYOVZpaldCZjA1bERkWTN4dWtGNlpQUk00YTE0SkVPNUdDWGNaMHBaNVhXRC1SaWhmZGhEdnfSAewBQVVfeXFMT0lwLWhKR05KYWxIbm9RcmNaMllRMFg5MlRPcVRleXo5NlRmWm5KbWxzZV9wcW5WeVBGTG9MaDhIUXlrZXhXblhZRnBDUlZzLThYYmo2TlUwM3ZoU2ZyQVVWWFJrUHNaSUk4VDhwWEZBNklubGEtU0pWQzNtVmFvUW5ERjMwMndVeXZ4WklkQ29DYjQ4ZGo2QmVlU0gzOEVxTTJqenlnSkVWX00xZVVVbllDektnX21FeVhvYWdjd1g0UVRQdUlMd3I1Zzd2eXFqaEsyRnpUMWJheE90T1FNT1lzZWNMVTRaRk9odzk?oc=5"
         }
       ]
     },
@@ -381,23 +417,11 @@
       "id": "18bd5abf3599",
       "title": "'Bumbum de Mounjaro': efeito associado às canetas emagrecedoras viraliza nas redes - O Globo",
       "published": "2026-05-20T10:52:33+00:00",
-      "summary": "'Bumbum de Mounjaro': efeito associado às canetas emagrecedoras viraliza nas redes&nbsp;&nbsp;O GloboMédico de \"Quilos Mortais Brasil\" sobre canetas emagrecedoras: \"Ferramenta\"&nbsp;&nbsp;CNN BrasilEspecialista destaca tirzepatida como avanço no tratamento da obesidade em aula na Unipar&nbsp;&nbsp;Grupo RBJ de ComunicaçãoUso de canetas emagrecedoras mudou o hábito de consumo nos supermercados&nbsp;&nbsp;band.com.brPROFISSIONAL BAIANA AFIRMA QUE É POSSÍVEL GERENCIAR O ROSTO DURANTE O EMAGRECIMENT",
+      "summary": "'Bumbum de Mounjaro': efeito associado às canetas emagrecedoras viraliza nas redes&nbsp;&nbsp;O GloboOzempic, Mounjaro e canetas para emagrecimento: solução ou ilusão?&nbsp;&nbsp;O GloboMédico de \"Quilos Mortais Brasil\" sobre canetas emagrecedoras: \"Ferramenta\"&nbsp;&nbsp;CNN BrasilEspecialista destaca tirzepatida como avanço no tratamento da obesidade em aula na Unipar&nbsp;&nbsp;Grupo RBJ de ComunicaçãoUso de canetas emagrecedoras mudou o hábito de consumo nos supermercados&nbsp;&nbsp;band.com",
       "sources": [
         {
           "name": "O Globo",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeUZXSG91NWlCMmxuNHlFYWFhV2diVlpVbWRRbm5pZlhMZ1pCXzl1NmhVYU4tbUxINDZRVHdxTVY5X3htTEhpazVsY1JOdHdXUmV1TTVhNFpFQUVsdG5rTmhGaWRTbFBwd3MwQmtOTkFtMjhuODdtQTVMTURaRWFFOTRjMlJwcWxYOFFRclQ1Z3VxMTNCZTNPRE9OckxzQUR5eUsya1MtemtETWE2dDRXT3ExZXkxQWQ4M25nVEFWNVR5WTJhS2JRYS1sZzNHd9IB3AFBVV95cUxPQThvQ01EMVRUbWhZT1hlNG5EOGRWeDdJT29raHhBR0M3SmVZRXNtQUwybFM0QkFVYVozM2Vka1FUZ1E2TnNJZ25kaHpxbU5FVHdZYjdZRUFhSFNSMEpIOWk0OWtRM2g0X0RNTlQzWHFFXzZ5cFpLWk00MU1ndjN4NjVEdVVFREJ5UFpXTEtMdkZEN0pBcVhxa2lUSlJKWDNwZ1pYOFRqLWZPU053eVhta0JBdDRVSUp4T3dodENYM3VSdld3eURQMWMzNjQ5Tmt6UkQtejZ2cVBBUEFN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ac613a778996",
-      "title": "As pessoas mais infelizes e amarguradas costumam nascer nestes 3 meses do ano, segundo estudo - Super Rádio Tupi",
-      "published": "2026-05-20T09:52:46+00:00",
-      "summary": "As pessoas mais infelizes e amarguradas costumam nascer nestes 3 meses do ano, segundo estudo&nbsp;&nbsp;Super Rádio Tupi",
-      "sources": [
-        {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOY01TSTlRV21aallBSGZLa1FuMFp0S1duTTdFU1RCR1k4MXZXZlJrZzdEb0JtX21wZmVibjVBdGw1X2ljNXlDa2oyVmVlS3V5Z2hqSHB3dFFFV256VktSRlk0Ykk0S2k1U0xzVjFHTk1vN01RT0t2RExHN1p2dVh1cVlMQXp1dkk1aEFEbDFYTDR4NEpldVVjRnlZekd6Z0pMN2ZvaHFBZ094ZmY0aHdGcmh6WG9teWxqYkNQVEF4aDBybE1KTVJj?oc=5"
         }
       ]
     },
@@ -417,7 +441,7 @@
       "id": "919afd56c158",
       "title": "Lentes de contato vestíveis tratam depressão sem remédios ou cirurgia - CNN Brasil",
       "published": "2026-05-20T07:35:16+00:00",
-      "summary": "Lentes de contato vestíveis tratam depressão sem remédios ou cirurgia&nbsp;&nbsp;CNN BrasilCoreia do Sul revelou lente de contato inteligente que trata depressão&nbsp;&nbsp;Hardware.com.brCientistas criam lentes de contato que dão choques no cérebro para tratar depressão&nbsp;&nbsp;GloboCientistas desenvolvem lente de contato capaz de reduzir sintomas da depressão&nbsp;&nbsp;O RebateCientistas criam lentes de contato para tratar a depressão&nbsp;&nbsp;O TEMPO",
+      "summary": "Lentes de contato vestíveis tratam depressão sem remédios ou cirurgia&nbsp;&nbsp;CNN BrasilVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -434,66 +458,6 @@
         {
           "name": "O Globo",
           "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTklDYVRsWUJxRjBDQnRnWVpnMmxOR3ZuSXhwTHZodmlyTm1JTkFSVlRiLVFYUmt0b0h1eDZpWFdES1lhWnNEbFBuT0F3WlNUQWIzM0RZV0owdkRrSk9qS2RCT2RUQ3RlRUVsRXBTZ1YtMmJsaTEyYUVvQk5tVXM1MW42ZnFkdGYzMkFxaXNvZUpYbVZxdXRpeVZDaUFQNzBVbEhCcU9rVUNkZS1KRTRBeGFBbm9pY1MzaGtRSnpJRUpWMzFFXzl4X0thb2ZMNF9fYUZ0ZVk3TVVSOXk0cnIyNUIxczFkcEp6TUpNYVVR0gH8AUFVX3lxTE9zd1ZaT0VDM2p5Y0NDQS1ELVdsX2ljaTBSWXJtVE9fdHZlODFnQmVIQ2xwNVV1RG11X3VvWHEwYTRDTmNjcTBwTWFVQlhCcHFqRkZrdXFpaWFmVnVabUJRWEQzSUZudUpkRVAyQnVEbDUtUTlRUDE5YXIyT2lYQXNUNG5ZeGhBT1dkVnhZWW5HM0VRTWxKekhEczZCWkdFWVp4Qkk4ZE42dVlOM3QwZ0ZYVV9KdDRGajNjb0Y0TlF4cHpIRVJ2RTNqRmVmaE5POFNvYjBKOHJwMEZtOXp3LV9TNjVEdEtlTVRsUzhzVHpOTjV1NzBIYndzMTZrUA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1289e8e8924c",
-      "title": "Saiba quando é indicada e quais os riscos da reposição de testosterona - Metrópoles",
-      "published": "2026-05-20T05:00:44+00:00",
-      "summary": "Saiba quando é indicada e quais os riscos da reposição de testosterona&nbsp;&nbsp;MetrópolesDeficiência hormonal masculina exige avaliação médica&nbsp;&nbsp;Valor EconômicoReposição hormonal na menopausa abre debate sobre uso indiscriminado de testosterona&nbsp;&nbsp;Jornal Mais Expressão - IndaiatubaO #DomingoEspetacular investiga os perigos do uso da testosterona | #shorts&nbsp;&nbsp;R7A testosterona virou moda, e isso preocupa médicos&nbsp;&nbsp;TV Pampa",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWkFoUEVGWG1sN2tkd2x2MHZNa0JBbWEzNEF4ZW9IVm45eUdfcnNWYjVVSEdYNFY1ZElTNDVuUV9MM2xSaEFqd0NzUmE0dzJsNHNub21uLWdlTWxwVjlOTWpvTzE4clJ4clkzTVZrQ2NpTmh1aWViZ0xoQW9vWG9HcGtKOGM1ZFpiNnc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5f2cceb796b8",
-      "title": "Estudo de Harvard aponta hábito noturno associado a maior risco cardiovascular - ICL Notícias",
-      "published": "2026-05-20T00:00:02+00:00",
-      "summary": "Estudo de Harvard aponta hábito noturno associado a maior risco cardiovascular&nbsp;&nbsp;ICL NotíciasSegundo um estudo, dormir pelo menos sete horas por noite protege a saúde do coração&nbsp;&nbsp;Tua SaúdeOpinião | Trabalhar à noite vai contra o relógio biológico – e pode afetar a saúde; veja como evitar prejuízos&nbsp;&nbsp;EstadãoHarvard divulga estudo sobre pior hábito noturno para saúde do coração&nbsp;&nbsp;MetrópolesDormir e acordar em horários bagunçados pode pesar no coração mesmo quan",
-      "sources": [
-        {
-          "name": "ICL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44eHgta1p2Z2JTTENpbFNmZ2ZkR045bjB6TzlfTDNCdk5BQXpJdjc5OHNIRGZENWpTX0o3QjJHN1hPMEx2eUhqMzIwcThWdVFYZVB6MDktQkhBdHIwbGFOZWs4aXl5QXlxZjBqM25SMXNUczlMV0wtQ3ZvLTdtUVk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d4f783e8d404",
-      "title": "Por que quase todo mundo é destro? Novo estudo de Oxford sugere explicação - UOL",
-      "published": "2026-05-19T20:21:59+00:00",
-      "summary": "Por que quase todo mundo é destro? Novo estudo de Oxford sugere explicação&nbsp;&nbsp;UOL",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZ3p2aUxjVWFLN19QX1Bvekt5ZGxock9hSGc0RnQ5YnRiSEYyTHAtX0FURDVsOFppci01WnpaYlBrUkx6SlRDOVVRV1JkNmhFcTZxNGNlNk13ZHlCLVl2bUEzSGNqMjRLeEcyZm9LOTN3Vk9EOVRDa01BdkNhOFdaWVJyM2VXcHF0a0x1Q0ttX3ZidXpUZnl3U0tPbG9VNnM1R2hadktkaVhjWTJNT2R1NmV3OGdqbGFDVUpVa1FJd0pydkJqcHc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bd13c0397a9a",
-      "title": "Neurocirurgião aponta as bebidas alcoólicas que mais afetam o cérebro - Metrópoles",
-      "published": "2026-05-19T20:03:00+00:00",
-      "summary": "Neurocirurgião aponta as bebidas alcoólicas que mais afetam o cérebro&nbsp;&nbsp;MetrópolesNão é a cerveja: veja 4 bebidas alcoólicas que podem destruir a sua memória&nbsp;&nbsp;Diário do ComércioMédico aponta tempo para o cérebro se recuperar após consumo de álcool&nbsp;&nbsp;Grande Ponto",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc29ock5zb0tnRGRYNWpVa0tHanVtV25NWnB4Tk1JWDJCTFIwZDM3bDVCWTRfZnBKTG5FUjB1WFN5ZjVhN2tNeTlaR2premo5bmp5TjZuRXRhcW5sUDhaVVhVZ3NCRGg3ZUNQdHdiUU9jZ291Y21uUG5Yd0xzQkZ3TS1KRjF1Y0tRQ19uQlJyaWVldjdKbUg3SndUNlN5enpCbU1BdzZKTjdtZ2dncE05Wk1WQVI5YTFKLVk2U2xB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3ff899f56112",
-      "title": "Novo medicamento para câncer de próstata entra no rol da ANS — Agência Nacional de Saúde Suplementar - GOV.BR",
-      "published": "2026-05-19T19:24:47+00:00",
-      "summary": "Novo medicamento para câncer de próstata entra no rol da ANS — Agência Nacional de Saúde Suplementar&nbsp;&nbsp;GOV.BRAgência Nacional de Saúde Suplementar amplia cobertura de planos para câncer e bebês&nbsp;&nbsp;R7ANS inclui novo medicamento para câncer de próstata no rol obrigatório dos planos de saúde&nbsp;&nbsp;Extra onlineANS amplia cobertura para câncer de próstata&nbsp;&nbsp;Hojemais.com.brPlanos de saúde terão cobertura obrigatória para novo tratamento contra câncer de próstata&nbsp;&nb",
-      "sources": [
-        {
-          "name": "GOV.BR",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeTFBNU1UZmlNWW5ydmk3bU5OdjYyQ2lsLUtqa25Rb01SS01icEJUa3gxanFFR256U2cxamJUMWRSd2VLVTIwdXlWRGlOZDJJM0hJMjVkU1JEbUVDb2xQVE9Qd2VWc2xNNHphMElDd05uM2p6Y3JDaXhYNXdmLWgtUmxiSDk2R3NZR0JJS1BfdjBVTWtmekVFbDg0bG9XOGtfLVlXVHd1dHQ0bmJhNkhnbzZXdHNWSWMyRHJqLQ?oc=5"
         }
       ]
     }
