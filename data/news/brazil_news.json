@@ -1,10 +1,34 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-05-22T03:53:33.704055+00:00",
-  "total_fetched": 91,
-  "unique_count": 90,
-  "health_related_count": 38,
+  "fetched_at": "2026-05-22T09:30:25.808646+00:00",
+  "total_fetched": 92,
+  "unique_count": 91,
+  "health_related_count": 39,
   "news": [
+    {
+      "id": "00bac63084ec",
+      "title": "O comprimido que dobrou a sobrevida no câncer de pâncreas ao chegar onde nenhum remédio havia conseguido - G1",
+      "published": "2026-05-22T08:04:35+00:00",
+      "summary": "O comprimido que dobrou a sobrevida no câncer de pâncreas ao chegar onde nenhum remédio havia conseguido&nbsp;&nbsp;G1Bernstein inicia cobertura da Revolution Medicines com desempenho de mercado&nbsp;&nbsp;Investing.com Brasil - Finanças, Câmbio e Investimentos💉 Câncer de pâncreas: um anticorpo mostra eficácia&nbsp;&nbsp;Techno-Science.netNova arma contra o câncer de pâncreas | Diário do Grande ABC - Notícias e informações&nbsp;&nbsp;Diário do Grande ABCProteína 'indestrutível' pode mudar tratam",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNd3I5Y3VRY3I0WHdjU0MwSzctOXQ5dF8tZDdyajAtd1pBd3V1MUhNUDlHNkhWT0FjMHo3RTk4bXVsbndNcUZxZHI0cEt2Tjl6cDI5MmZKN1FiaV90MUhaaThKSlF2RTRuaXFKMkpwOFhJVWdQcnZiS2FVbGVURzZLTlhOU1pTTlRsa2ppQm5CMXpWTVo0ZF9iR0dMNWRyb3QzcWJHQzFtZXQzNE96U0JfX3F2aTRsbGpmN3VRYUE1c3Y2WTlLWkZuX2cwdXJPNWhoSDJ0ak5EaVVzeWc5Z1VXZHNhSDZLRURHWmViYw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cacdc3c38f18",
+      "title": "Humanos evoluíram andando como um gorila? Estudo revela pistas - CNN Brasil",
+      "published": "2026-05-22T06:33:28+00:00",
+      "summary": "Humanos evoluíram andando como um gorila? Estudo revela pistas&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbzdhY2pLZXVHU2Q3RHpzNnJGcDlna0YyQmdPRzlRUWcya3RFUlk4dGNxT0Z3M2l1YVZvc0dRWUtEelN4WExPUVNFMDN4SVdaSm1neW96VmY3RnZWeW80N2JYN3g3TEM3WlJZSEdHUHZwU1JHMWxwTUJnbngwZWU2V3Fod0VPRHVCRkRjZFdMZ2ZSeGlsNy12ZjFLbmM3bFJs?oc=5"
+        }
+      ]
+    },
     {
       "id": "1a8aab5cef3a",
       "title": "Erros foram encontrados em centenas de estudos sobre o nível do mar e esses novos dados podem alterar os mapas de risco costeiro em metade do globo sendo que essa correção está longe de ser pequena - Catraca Livre",
@@ -21,11 +45,23 @@
       "id": "a6e109fe9951",
       "title": "SUS adota novo exame para rastrear câncer colorretal na população - Agência Brasil",
       "published": "2026-05-21T21:56:00+00:00",
-      "summary": "SUS adota novo exame para rastrear câncer colorretal na população&nbsp;&nbsp;Agência BrasilCâncer de intestino: quem deve fazer o teste imunoquímico fecal? Como funciona o exame?&nbsp;&nbsp;EstadãoPor que novo exame de fezes anunciado pelo SUS pode aumentar detecção de câncer; entenda&nbsp;&nbsp;O GloboSUS adota novo exame para detectar câncer de intestino antes dos sintomas&nbsp;&nbsp;CNN BrasilEntenda novo teste disponível no SUS para detecção de câncer colorretal antes de sintomas&nbsp;&nbsp;",
+      "summary": "SUS adota novo exame para rastrear câncer colorretal na população&nbsp;&nbsp;Agência BrasilPor que novo exame de fezes anunciado pelo SUS pode aumentar detecção de câncer; entenda&nbsp;&nbsp;O GloboCâncer de intestino: quem deve fazer o teste imunoquímico fecal? Como funciona o exame?&nbsp;&nbsp;EstadãoMinistro da Saúde anuncia novo protocolo para rastreamento de câncer colorretal durante agenda em Lyon, na França&nbsp;&nbsp;www.gov.brSUS passa a ter novo exame para detectar câncer de intestino&",
       "sources": [
         {
           "name": "Agência Brasil",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOHFDOXRtWVJNajZVWjFuQU8yX3EtdzVETHhST25qZEw3OHpmeXJ3ZHV4M2xZSk9Sb1UwX1k1MXVCUzM1aU5xdUZkWkNhU0dURHlmM2Z4Yi02RVhKYlNKVzBhX1lkcV9vNnFKVThPNElJOHBHWlJ5OWF1OUNwZHpSalZNbkFqYVhCRGJKME5lRmR5UmlJWGJ1U08zR2xXOWF3SG0wakQxdVZxQlJVZnNVMExGT2EyVmJPT3d2Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6b114f3be47e",
+      "title": "Em meio ao Cerrado, pesquisador percorre mais de mil quilômetros para estudar trilhas no bioma - Brasil Escola",
+      "published": "2026-05-21T21:17:00+00:00",
+      "summary": "Em meio ao Cerrado, pesquisador percorre mais de mil quilômetros para estudar trilhas no bioma&nbsp;&nbsp;Brasil Escola",
+      "sources": [
+        {
+          "name": "Brasil Escola",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd2hZcW9FaXRhNzgwYUFJeEliNU9ZTVVUbW9JLXQwQUhhZkZER2N3enpzTlhuM0ZkQm5ETFpRRlBpLXlzbzM0UTNVZmoxU0lpREprbF9zUGJJNHBqcDI3YlJTbVR4c2xrWDR2d0hOcE1MdHBkTTZyNm4xQ2c0MzRsdnpWMVl6YUXSAYwBQVVfeXFMTUpQaXlUZ2Z3aVNCMjBaeGdqQXFzczNBLTdYUktUQ29maGszT1hJTnBVWFFTN3dmby13eXNCNkhjdEhuV3BNMTk4NkJTQmQxMUhhUTE1MVp6NmQ3a3lMMDhGS2ZQbFNOWERmLV8zLTVoQ2pEMTgzYzFQVmp1SjZ1amQ1UHM1aWRHc0pNLW0?oc=5"
         }
       ]
     },
@@ -57,7 +93,7 @@
       "id": "d0373ae4bf05",
       "title": "Número de casos de gonorreia e sífilis batem recorde na Europa - UOL",
       "published": "2026-05-21T19:12:32+00:00",
-      "summary": "Número de casos de gonorreia e sífilis batem recorde na Europa&nbsp;&nbsp;UOLDoenças sexualmente transmissíveis em máximos históricos na Europa&nbsp;&nbsp;Euronews.comDoenças sexualmente transmissíveis atingem valores recorde na Europa&nbsp;&nbsp;RTPCasos de sífilis em bebés quase duplicaram na Europa e especialistas deixam alerta urgente&nbsp;&nbsp;Jornal SOLDuas grandes IST atingiram níveis recordes na Europa | Notícias do mundo&nbsp;&nbsp;obusilis.com.br",
+      "summary": "Número de casos de gonorreia e sífilis batem recorde na Europa&nbsp;&nbsp;UOLGonorreia, sífilis e clamídia: Europa bate recorde de infecções sexualmente transmissíveis em mais de uma década&nbsp;&nbsp;O GloboDoenças sexualmente transmissíveis em máximos históricos na Europa&nbsp;&nbsp;EuronewsCasos de sífilis em bebés quase duplicaram na Europa e especialistas deixam alerta urgente&nbsp;&nbsp;Jornal SOLInfeções sexualmente transmissíveis atingem número recorde na Europa&nbsp;&nbsp;Renascença",
       "sources": [
         {
           "name": "UOL",
@@ -141,7 +177,7 @@
       "id": "64bcbb916f67",
       "title": "Gripe: Fiocruz alerta para alta de síndrome respiratória grave no país; veja estados mais afetados - O Globo",
       "published": "2026-05-21T15:19:45+00:00",
-      "summary": "Gripe: Fiocruz alerta para alta de síndrome respiratória grave no país; veja estados mais afetados&nbsp;&nbsp;O GloboMS tem alta de casos de SRAG por VSR e gripe, diz Fiocruz&nbsp;&nbsp;Campo Grande NewsSC registra 16 mortes de crianças por síndrome respiratória e alerta importância da vacinação&nbsp;&nbsp;ND MaisBronquiolite pressiona UTIs pediátricas em Pernambuco e acende alerta entre especialistas&nbsp;&nbsp;Folha PEBrasil registra 20 mil notificações e mais de 18 mil mortes por Síndrome Res",
+      "summary": "Gripe: Fiocruz alerta para alta de síndrome respiratória grave no país; veja estados mais afetados&nbsp;&nbsp;O GloboMS tem alta de casos de SRAG por VSR e gripe, diz Fiocruz&nbsp;&nbsp;Campo Grande NewsInfoGripe alerta para aumento do número de casos de SRAG no país&nbsp;&nbsp;Fundação Oswaldo Cruz (Fiocruz)Mato Grosso do Sul tem alto risco e 95% de chance de crescimento dos casos de SRAG&nbsp;&nbsp;MidiamaxSRAG cresce no Brasil, com maior incidência entre crianças pequenas&nbsp;&nbsp;O TEMPO",
       "sources": [
         {
           "name": "O Globo",
@@ -186,6 +222,18 @@
       ]
     },
     {
+      "id": "9ba487ca67bf",
+      "title": "Corantes e conservantes aumentam risco de câncer, diabetes e doenças cardiovasculares - O Dia",
+      "published": "2026-05-21T11:56:00+00:00",
+      "summary": "Corantes e conservantes aumentam risco de câncer, diabetes e doenças cardiovasculares&nbsp;&nbsp;O Dia",
+      "sources": [
+        {
+          "name": "O Dia",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZ3JoSE15MHpfWFpqbVJKQkFDWjJaak1uZFFYRWpjMTJjdjh3bTNTY1JGV1lBX2Y3NjFvdTFBQ2huekdUTFhWaEZvQzQ1UzVBU2phajlDbkxQdGlzb2RKbUZsSTlZQlVLN3ZhNXZuSEp4bUpiX1FTeVp5SFZ4c2tDWHQwcW5XM0tXZXdkR3dnS3BKSXVxUWNENGRsTDFGYUFxN3VEY2RhVjM2NWVLTVFEQTcwRHJvTjFVVHRMQ3JvLUNRMm9QSlNXX294YVF5NFNZa2RrdFlDNnB4SjDSAeABQVVfeXFMTUFHTUkzMFhyVUFsZXBVdEF4a2RyTkhJS3Y1b3ZFbWdBRDFTZ2V1ZFp0ZmVfNUpYLW4xVTBYOHk3eDZlaVRQaWJwWEZ3cTBKVXlEdjIwdDloVnN3cEhOYTZKSWhHUTMySWhPVi1Zcjc0cEhZSFRLcl90Mk8zNjloVUN4ZjRlZFpqLUplcnhIX1kwTXdjRlZkc2NBV0hBT2F6QTktUjRnamRVQndiVkZWWDVjTU8wOUQxSXJZQ0ZLb3pDSjV4UGszd1lPMW96aGt0eURaNE9ETmhXM21idGhOY3Y?oc=5"
+        }
+      ]
+    },
+    {
       "id": "3d83e861a9d8",
       "title": "Pesquisa sobre psiquiatria da Fundação Allan Kardec é apresentada em Harvard - Jornal da Franca",
       "published": "2026-05-21T11:00:00+00:00",
@@ -201,11 +249,23 @@
       "id": "612d3c10f270",
       "title": "Estado confirma mais dois óbitos por Influenza em Passo Fundo - Rádio Uirapuru",
       "published": "2026-05-21T10:48:16+00:00",
-      "summary": "Estado confirma mais dois óbitos por Influenza em Passo Fundo&nbsp;&nbsp;Rádio UirapuruNorte do RS registra 8 mortes por influenza e mais de 100 hospitalizações em 2026&nbsp;&nbsp;Sul 21Passo Fundo registra mais duas mortes por influenza; vítimas não estavam vacinadas&nbsp;&nbsp;GZHMorte de criança por Influenza acende alerta para vacinação em Passo Fundo&nbsp;&nbsp;Rádio UirapuruCresce a procura pela vacina contra a gripe na rede privada&nbsp;&nbsp;O Nacional",
+      "summary": "Estado confirma mais dois óbitos por Influenza em Passo Fundo&nbsp;&nbsp;Rádio UirapuruNorte do RS registra 8 mortes por influenza e mais de 100 hospitalizações em 2026&nbsp;&nbsp;Sul 21Passo Fundo registra mais duas mortes por influenza; vítimas não estavam vacinadas&nbsp;&nbsp;GZHSem exames pelo SUS, testes de Influenza em Passo Fundo variam de R$ 69 a R$ 89 na rede particular&nbsp;&nbsp;Planalto NewsCresce a procura pela vacina contra a gripe na rede privada&nbsp;&nbsp;O Nacional",
       "sources": [
         {
           "name": "Rádio Uirapuru",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT0x3aFdKMmR1ZE9zWDFSYmduVThPbUE4ZzdZb2pLV3pkTG0wX3FKeno5d0g1YUxPclZmUjZUSXJ6N1Y1cmtTMlNLRjR6VlBFZkNaTGU2M0YzcnJITWZRVmt6cGNWN1BNeEd3SjdMSEFRSVRRLWlnZTd0andKMF81alZwYnRxdnJLY01XUTdISF82QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2aabd3f8f641",
+      "title": "Médico de \"Quilos Mortais Brasil\" sobre canetas emagrecedoras: \"Ferramenta\" - CNN Brasil",
+      "published": "2026-05-21T09:15:34+00:00",
+      "summary": "Médico de \"Quilos Mortais Brasil\" sobre canetas emagrecedoras: \"Ferramenta\"&nbsp;&nbsp;CNN Brasil'Bumbum de Mounjaro': efeito associado às canetas emagrecedoras viraliza nas redes&nbsp;&nbsp;O GloboAs canetas emagrecedoras e os novos hábitos à mesa&nbsp;&nbsp;O POVO+O ‘7 a 1’ das canetas emagrecedoras diante da cirurgia bariátrica&nbsp;&nbsp;VEJAUso de canetas emagrecedoras mudou o hábito de consumo nos supermercados&nbsp;&nbsp;band.com.br",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWTY0Q3FoSXJDSXFwcWRTdGtyVUpXbk5sazR6eXl1RnBIV1FkZUVRdEpZQ1BrRkxpZHFid3FhS1FPNi1QdEJaMzZJTjNuNkxfa2phZjBFSGsyT2V1SzRkcEc2aWhISlBwTlU1cy13ZnNUeW5DX0Y1Sm1QX2gweTdpMTR2dG1fRDM4QUtFd1VHRnFYZTZwcUQ0aUpudW1lLTdLSzRtZjhmWHgtQQ?oc=5"
         }
       ]
     },
@@ -237,7 +297,7 @@
       "id": "08b432bef354",
       "title": "Confira 3 alimentos que você deve \"abandonar\" para proteger seus rins - Metrópoles",
       "published": "2026-05-21T05:00:00+00:00",
-      "summary": "Confira 3 alimentos que você deve \"abandonar\" para proteger seus rins&nbsp;&nbsp;MetrópolesAlimentação contribui para qualidade de vida na Policlínica de Tucuruí&nbsp;&nbsp;Agência Pará de NotíciasNutrição renal: alimentação adequada é aliada da saúde dos rins&nbsp;&nbsp;F5 NewsEspecialistas alertam: 4 alimentos que podem prejudicar os rins&nbsp;&nbsp;Notícias ao Minuto BrasilEspecialistas deixam aviso: 4 alimentos que só fazem mal aos rins&nbsp;&nbsp;Notícias ao Minuto",
+      "summary": "Confira 3 alimentos que você deve \"abandonar\" para proteger seus rins&nbsp;&nbsp;MetrópolesDoença renal vai muito além dos rins: pode afetar coração e cérebro&nbsp;&nbsp;Veja SaúdeEstudo mede verdadeira dimensão da doença renal em Portugal&nbsp;&nbsp;NegóciosDoença renal avança na Bahia e especialistas alertam para relação com pressão alta&nbsp;&nbsp;Jornal CorreioA partir de que idade os rins começam a enfraquecer silenciosamente?&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "Metrópoles",
@@ -297,7 +357,7 @@
       "id": "45fc0812db6f",
       "title": "Baixa procura pela vacina da gripe preocupa Saúde em Santa Cruz - Portal Arauto",
       "published": "2026-05-20T21:01:00+00:00",
-      "summary": "Baixa procura pela vacina da gripe preocupa Saúde em Santa Cruz&nbsp;&nbsp;Portal ArautoVacinação contra a gripe é retomada em todas as unidades de saúde da Capital&nbsp;&nbsp;Prefeitura de Porto AlegreRio Grande do Sul entra em categoria de risco por aumento de casos respiratórios&nbsp;&nbsp;GZHVacinação contra a gripe é retomada em Porto Alegre&nbsp;&nbsp;G1Cerca de 5 milhões de pessoas integram os grupos prioritários para vacinação no RS&nbsp;&nbsp;O Alto Uruguai",
+      "summary": "Baixa procura pela vacina da gripe preocupa Saúde em Santa Cruz&nbsp;&nbsp;Portal ArautoVacinação contra a gripe é retomada em todas as unidades de saúde da Capital&nbsp;&nbsp;Prefeitura de Porto AlegreRio Grande do Sul entra em categoria de risco por aumento de casos respiratórios&nbsp;&nbsp;GZHVacinação contra a gripe é retomada em Porto Alegre&nbsp;&nbsp;G1SAÚDE. Prefeitura de Santa Maria reforça vacinação contra a ‘Influenza’ e já aplicou mais de 46 mil doses&nbsp;&nbsp;Claudemir Pereira",
       "sources": [
         {
           "name": "Portal Arauto",
@@ -314,18 +374,6 @@
         {
           "name": "Globo.com",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeFQyQUJpcmRfVW1RaUE2bFVYZWltdFEzcU1XS2FUMThQUTlMdkRhRXp5NEc4NnVlU0dTLWl3dVVaV3dvSjhGQXEyNFY5SXZ6M1dLU05yZjJGSGtaS0VTZkNkRzFNeWVEb2NSR1RDQjBiWXJVTjhsSG5SZHdmOGNFMV9Mc2dPa013QVJmTWpGc2pMZFZwZ21ISW05NmMzZHZYQjVnOXhvb0Q0bTRCbVVwbFRhb3JvNGtMd3hyZVRmMzBJOW52R2VfbdIB1wFBVV95cUxQQ0hHc1c2RDJQWGozc3JodlFnWGdieU8xZTd4QlduRXhONzZTUi1IQWxsWTBEMUFUXzdoRE1TMUJpaUlNWUEyeVhfX2ZLVVFqc2ZfdlJVUmN0TlRsYWZZMUF5SVhMbVZoQkhFSmd0LWpwN210YVMzLU1ROTNkc0Q4Q3NleTd5SEpXbVpfeGZkOFQtNmt0MUdXVWJ1VmwyeTZpWjEyOHhhQU5fZW9ydWxEMXFKcE1nLTJvX21WYWxHUlRXWmxxOF9VY2tOVFVOMUF5WWVURlVHMA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "89f569c2ee3b",
-      "title": "Nova tecnologia pode reduzir pressão alta sem uso de remédios - iG Saúde",
-      "published": "2026-05-20T18:05:00+00:00",
-      "summary": "Nova tecnologia pode reduzir pressão alta sem uso de remédios&nbsp;&nbsp;iG SaúdeSem pontos cirúrgicos: implante elástico inovador transforma tratamento da hipertensão&nbsp;&nbsp;Rádio ItatiaiaDispositivo de impressão 3D dos EUA ajuda a baixar a pressão arterial de forma eficaz.&nbsp;&nbsp;Vietnam.vnImplante elástico impresso em 3D pode ser resposta contra hipertensão&nbsp;&nbsp;SITEPDPesquisadores desenvolvem nova tecnologia que pode reduzir pressão alta sem o uso de medicamentos | Saúde | O Li",
-      "sources": [
-        {
-          "name": "iG Saúde",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObHliOWxjZWNNVW5GNTFxeEJ6VHU5LTQzbGJOMVZSaWlzZGxTWlhEdHpvN3dReDFHek5ib1lEeTdzZGxnRWpnSHktSThnRmliQmszS2NBakl1a1VOTC1VVl9pOG1LQWJTVnc2THlPMThjYlJfNm1WczkwaUU5V0NRMHp0Q1FqTWdwZ1dYSnh2RkdQSW1ORUl2b3gySmQ0ZWNUMnFN0gGoAUFVX3lxTE9UaTdSVkVXWlBzZGZubG5GMElsWU0zNkY1TjN1aVdNQ1BUckc5enE4OVFkMC1QaVRydUU1dXRvYnRMb0UtbEQ2MG9IbGZCZjRCa2U0aV9vb1FpMGJ0NHNzZ1BiVHpKRENNR1kxUVpzMkRSUWl4NEl4akJOQ0Z5QkxuU01nalRKZEY3V1lpUXJmOHdQSWZpemxIemU2R3BlWWZNSkREUFdNQg?oc=5"
         }
       ]
     },
@@ -354,13 +402,13 @@
       ]
     },
     {
-      "id": "5fdd5e956835",
-      "title": "Atividade física promove \"limpeza\" do cérebro, diz estudo - DW.com",
+      "id": "528da2bf8ef6",
+      "title": "Atividade física promove \"limpeza\" do cérebro, diz estudo - dw.com",
       "published": "2026-05-20T16:52:58+00:00",
-      "summary": "Atividade física promove \"limpeza\" do cérebro, diz estudo&nbsp;&nbsp;DW.comAtividade física promove 'limpeza' do cérebro, diz estudo&nbsp;&nbsp;Folha de S.PauloA verdadeira razão pela qual o exercício deixa você mais forte não é o que você pensa&nbsp;&nbsp;segundabase.com.brO verdadeiro segredo da resistência física pode estar no cérebro, diz estudo&nbsp;&nbsp;ExamePequenos movimentos do corpo podem influenciar a limpeza natural do cérebro&nbsp;&nbsp;gizmodo.com.br",
+      "summary": "Atividade física promove \"limpeza\" do cérebro, diz estudo&nbsp;&nbsp;dw.comAtividade física promove 'limpeza' do cérebro, diz estudo&nbsp;&nbsp;Folha de S.PauloA verdadeira razão pela qual o exercício deixa você mais forte não é o que você pensa&nbsp;&nbsp;segundabase.com.brPequenos movimentos do corpo podem influenciar a limpeza natural do cérebro&nbsp;&nbsp;gizmodo.com.brO verdadeiro segredo da resistência física pode estar no cérebro, diz estudo&nbsp;&nbsp;Exame",
       "sources": [
         {
-          "name": "DW.com",
+          "name": "dw.com",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVHo4b0NYSkFJWXJWM1c3ZklUYWM3V21yQlhTa0NFX0JuRnQyMWluSUNBLWdzdnZpbXhwT0I0TFVyN25DaXQ5d0JUbFV5b3F1ZHZ4RHp0S2FiVVlMbm1mQzZDSlpLaTVRQVJrLThCQ1FpMXNiTk4wcC0xMktiV2ttT2NTdU8xa2xEMjREbVlxYWlGRlREYVhGdFVZUmVFR0ZOTlHSAaIBQVVfeXFMTUQyN1pQZ1J6QUE5NTZYU1dySWFtVDBDSTZ4blJMSUhIc3RKSGFzRlpnU19tamJ6ejZObi12X3VZOHZpa1hMY0lmUDZCVGpCbFFHWWRtSlpUcV9Ud2JCWGZMNnU0ZXREdjZCcWtHOTMtT2tIRGp0eHdsdTF2ekc5QlhYeEgxR0ROZnh0ZmR5dFMweWRoTzZxRUs2eks1dGpYZXNn?oc=5"
         }
       ]
@@ -390,6 +438,18 @@
       ]
     },
     {
+      "id": "d6263bcc2e0d",
+      "title": "Vinte e quatro pesquisadores da UFC se destacam em ranking internacional de produtividade acadêmica; oito são mulheres - Universidade Federal do Ceará (UFC)",
+      "published": "2026-05-20T15:47:00+00:00",
+      "summary": "Vinte e quatro pesquisadores da UFC se destacam em ranking internacional de produtividade acadêmica; oito são mulheres&nbsp;&nbsp;Universidade Federal do Ceará (UFC)",
+      "sources": [
+        {
+          "name": "Universidade Federal do Ceará (UFC)",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQV1hzZ0k3SUh6WFJQa0tnd01qemtXQkhiQkd4dUFham5lbHI5SW5nRGVoU2hiWWFJcUZ1aTg4VzgtY1dvVlFseUp1cVNGdE9jSUZocVpFTWgzZ0lyd0NlMzYwb251dEFUaHVPSlo1VVVTNEpzellJWU5PNm5tclJTbTA3NWtuc0JFWGUwR2Q4WEpaV19vZ1R4VENKZ19GeGZGT2FkZ3dqNW5EMlgxOVdPVmZ3b3R2RXprak9xS2k2RU1ZUkh6NW01aTlTUTlBVFJqYVNNcjBMbHhVSV9KX0pjbDNkaXc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "bffaf1c22d03",
       "title": "As pessoas consideradas mais bonitas costumam nascer nesses meses, segundo estudo - Portal 6",
       "published": "2026-05-20T13:39:38+00:00",
@@ -410,54 +470,6 @@
         {
           "name": "Globo.com",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSTR5dXlaekp4NlRMejNRQ25EbDM1TGVlS2NhNmVJcDhueGg1ZzhDMUVpYVp1Zk9lWld5UlFEX3FES0lmelFCNlJsdU9US1lwcVhfQklWZ1cwcW5iU3J4aDU0a1MwbEMyaDFrQkVNcExKNjZScEhLSWlyc21nc3Z6bFFKcHFoaUJuZmlsdW9NY1ZKLVlfWGc3Q1BxSFdlMGZvelRhUlNXVHhYOVZpaldCZjA1bERkWTN4dWtGNlpQUk00YTE0SkVPNUdDWGNaMHBaNVhXRC1SaWhmZGhEdnfSAewBQVVfeXFMT0lwLWhKR05KYWxIbm9RcmNaMllRMFg5MlRPcVRleXo5NlRmWm5KbWxzZV9wcW5WeVBGTG9MaDhIUXlrZXhXblhZRnBDUlZzLThYYmo2TlUwM3ZoU2ZyQVVWWFJrUHNaSUk4VDhwWEZBNklubGEtU0pWQzNtVmFvUW5ERjMwMndVeXZ4WklkQ29DYjQ4ZGo2QmVlU0gzOEVxTTJqenlnSkVWX00xZVVVbllDektnX21FeVhvYWdjd1g0UVRQdUlMd3I1Zzd2eXFqaEsyRnpUMWJheE90T1FNT1lzZWNMVTRaRk9odzk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "18bd5abf3599",
-      "title": "'Bumbum de Mounjaro': efeito associado às canetas emagrecedoras viraliza nas redes - O Globo",
-      "published": "2026-05-20T10:52:33+00:00",
-      "summary": "'Bumbum de Mounjaro': efeito associado às canetas emagrecedoras viraliza nas redes&nbsp;&nbsp;O GloboOzempic, Mounjaro e canetas para emagrecimento: solução ou ilusão?&nbsp;&nbsp;O GloboMédico de \"Quilos Mortais Brasil\" sobre canetas emagrecedoras: \"Ferramenta\"&nbsp;&nbsp;CNN BrasilEspecialista destaca tirzepatida como avanço no tratamento da obesidade em aula na Unipar&nbsp;&nbsp;Grupo RBJ de ComunicaçãoUso de canetas emagrecedoras mudou o hábito de consumo nos supermercados&nbsp;&nbsp;band.com",
-      "sources": [
-        {
-          "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeUZXSG91NWlCMmxuNHlFYWFhV2diVlpVbWRRbm5pZlhMZ1pCXzl1NmhVYU4tbUxINDZRVHdxTVY5X3htTEhpazVsY1JOdHdXUmV1TTVhNFpFQUVsdG5rTmhGaWRTbFBwd3MwQmtOTkFtMjhuODdtQTVMTURaRWFFOTRjMlJwcWxYOFFRclQ1Z3VxMTNCZTNPRE9OckxzQUR5eUsya1MtemtETWE2dDRXT3ExZXkxQWQ4M25nVEFWNVR5WTJhS2JRYS1sZzNHd9IB3AFBVV95cUxPQThvQ01EMVRUbWhZT1hlNG5EOGRWeDdJT29raHhBR0M3SmVZRXNtQUwybFM0QkFVYVozM2Vka1FUZ1E2TnNJZ25kaHpxbU5FVHdZYjdZRUFhSFNSMEpIOWk0OWtRM2g0X0RNTlQzWHFFXzZ5cFpLWk00MU1ndjN4NjVEdVVFREJ5UFpXTEtMdkZEN0pBcVhxa2lUSlJKWDNwZ1pYOFRqLWZPU053eVhta0JBdDRVSUp4T3dodENYM3VSdld3eURQMWMzNjQ5Tmt6UkQtejZ2cVBBUEFN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bcf40976ea81",
-      "title": "Biobancos: para que servem coleções de amostras de câncer? - UOL",
-      "published": "2026-05-20T08:31:00+00:00",
-      "summary": "Biobancos: para que servem coleções de amostras de câncer?&nbsp;&nbsp;UOL",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcGpDZmM0QURhXzJVRWdCc3FXY1dXZi1jYk5BRnduSXpCemNobXI4MmoxSDZBWkNNck5MVVpiMTlJZlRxSFplaTFfekJWOEdXMVJ0ek1LOEU1ZG5yTFFGYnN3WG9DcXdpWHZTcFlmWFBGV3Z5RGhOTHdoOVFIQzZKN0MxUkhrY0gxUDhzTmVzNExEYmJCaDFzTTQtaWZzblB5aUpubjJRbmlkeDhETFl5X3FlbFlxRDA2RUhmYQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "919afd56c158",
-      "title": "Lentes de contato vestíveis tratam depressão sem remédios ou cirurgia - CNN Brasil",
-      "published": "2026-05-20T07:35:16+00:00",
-      "summary": "Lentes de contato vestíveis tratam depressão sem remédios ou cirurgia&nbsp;&nbsp;CNN BrasilVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVGJTaC1nUmxjZ1VGT3hTSjBVMjZjaGJxUG9fcmNaSzY2cVc5dXQ3eGpILU1DS0hNZFc0U0taQTNrNnlhM05BWG9jRjhzbi1ra3d6dTBvYkRnZndqdU1ReVhfaHJlVXR2UTVMdVpfOUE1aUItMDdkLWwxTXJrNkFXYlZMRXY1Sy1Pb0FjaWY3SnBwM0U4RFJ3cmQyNFdDQkctTnNka1dDQkVJdFJDaGdv?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "88526185f03a",
-      "title": "Nova espécie de marsupial é descoberta por pesquisadores da UFRJ em fragmentos da Mata Atlântica no Rio - O Globo",
-      "published": "2026-05-20T07:02:15+00:00",
-      "summary": "Nova espécie de marsupial é descoberta por pesquisadores da UFRJ em fragmentos da Mata Atlântica no Rio&nbsp;&nbsp;O Globo",
-      "sources": [
-        {
-          "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTklDYVRsWUJxRjBDQnRnWVpnMmxOR3ZuSXhwTHZodmlyTm1JTkFSVlRiLVFYUmt0b0h1eDZpWFdES1lhWnNEbFBuT0F3WlNUQWIzM0RZV0owdkRrSk9qS2RCT2RUQ3RlRUVsRXBTZ1YtMmJsaTEyYUVvQk5tVXM1MW42ZnFkdGYzMkFxaXNvZUpYbVZxdXRpeVZDaUFQNzBVbEhCcU9rVUNkZS1KRTRBeGFBbm9pY1MzaGtRSnpJRUpWMzFFXzl4X0thb2ZMNF9fYUZ0ZVk3TVVSOXk0cnIyNUIxczFkcEp6TUpNYVVR0gH8AUFVX3lxTE9zd1ZaT0VDM2p5Y0NDQS1ELVdsX2ljaTBSWXJtVE9fdHZlODFnQmVIQ2xwNVV1RG11X3VvWHEwYTRDTmNjcTBwTWFVQlhCcHFqRkZrdXFpaWFmVnVabUJRWEQzSUZudUpkRVAyQnVEbDUtUTlRUDE5YXIyT2lYQXNUNG5ZeGhBT1dkVnhZWW5HM0VRTWxKekhEczZCWkdFWVp4Qkk4ZE42dVlOM3QwZ0ZYVV9KdDRGajNjb0Y0TlF4cHpIRVJ2RTNqRmVmaE5POFNvYjBKOHJwMEZtOXp3LV9TNjVEdEtlTVRsUzhzVHpOTjV1NzBIYndzMTZrUA?oc=5"
         }
       ]
     }
