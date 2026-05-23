@@ -1,15 +1,51 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-05-23T08:22:07.745828+00:00",
-  "total_fetched": 90,
-  "unique_count": 89,
+  "fetched_at": "2026-05-23T13:40:25.200636+00:00",
+  "total_fetched": 89,
+  "unique_count": 88,
   "health_related_count": 30,
   "news": [
+    {
+      "id": "c1b163b9a076",
+      "title": "Implantes hormonais: por que ninguém fala dos riscos de complicações graves e da dificuldade de reversão - Jornal Correio",
+      "published": "2026-05-23T10:00:00+00:00",
+      "summary": "Implantes hormonais: por que ninguém fala dos riscos de complicações graves e da dificuldade de reversão&nbsp;&nbsp;Jornal CorreioUso de implantes hormonais manipulados pode representar riscos para a mulher&nbsp;&nbsp;Jornal da USPCuidado com o chip da beleza: mesmo proibido, mulheres ainda usam para estética&nbsp;&nbsp;R7Febrasgo alerta para riscos de implantes hormonais manipulados sem comprovação científica&nbsp;&nbsp;JCSaúde em xeque: Chips da Beleza podem causar danos colaterais irreversíve",
+      "sources": [
+        {
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNYzVRUEQtWkVIZUwtR3BpYmVQbVQtbTMxQnpTVnNaeFRqbnVTVlgzZ0kzaDVSYXowZmo3TnBjM05odXgxbVNoaTdRc0tiLUowUFJqclNhNzlVN1p6enM1aGptVWcwbV92V3BfbWp2VzcyTHZnbFFobGZqUExGNUZ6QkZ1eVVpZWhhNEpLMlprbnlWZ0ZUTERtbkpyMTIxSkh6VXM4d3psbi1OYnNOcVpDMzdRb3pnN3RYMDcxdk93eFRSSU8xOGk0NnhKaE83Mm1QLVFyNlV5cnhuMmNxaGZPN1RR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "57efcf8adc4b",
+      "title": "Confira os locais de vacinação abertos no DF neste sábado (23) - G1",
+      "published": "2026-05-23T05:00:54+00:00",
+      "summary": "Confira os locais de vacinação abertos no DF neste sábado (23)&nbsp;&nbsp;G1DF terá vacinação em 18 regiões administrativas neste sábado. Confira&nbsp;&nbsp;MetrópolesSábado tem vacinação em 18 regiões administrativas&nbsp;&nbsp;Agência BrasíliaVacinação terá atendimento em 18 regiões do DF neste sábado&nbsp;&nbsp;Jornal de BrasíliaSábado é dia de vacinação no DF&nbsp;&nbsp;Secretaria de Saúde do Distrito Federal",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWFd5MGxuanN0SFNGV2hJM0c5RjVWeVRSeGU1QXRDdDdNcHBKZml4NWtIdGkxMW90V0FZWnNWalh1RUh2a0RmSk5vSngxWTR3T012LXZtcEg5ZzFEWlhTR2RzNFhSM051UHhkOUhZS1BRcXJNWTd5aUc1NTJTRGJJcW9DOHROX19VMGl1X3VHV2NmVkdZTUwxcGh5M0xmb2kyNVhPZ2I5eGFCSXFrYWN0b2ZlUGI4MzNYdmdvME5xVzhUd1Zi0gHTAUFVX3lxTFBtd2ZGcmc4Vl80YXJPdkE1RmZyVnc0cE9LMkJYMUxQNXNNTmItZ3NoQVI0OUtweVFGMVRhRlY1Nkd6b2RUWm16LVhXQ0FtRG50YmJPdE5WMEViNUNrcGwzN29uRmpxZjM1cC1IQXpMcVR2bW5GbXZVZXd2elQzVllmVjNfOE5COTRQa3VtSUlsSWNXSlp6TFFHNDZ5Ujk5Q3hkOExjTDNYQ1N2WFBTTXp4Q1Q1WjdLcFdNbXdYUGtRXzIzem5COHFrODJpZHdDSTZ0ZEk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "834cdccd68cb",
+      "title": "No coração do deserto mais seco do mundo, Chile começa a erguer um observatório colossal com mais de 50 fundações, 17 km de estradas e dezenas de telescópios espalhados no Atacama para caçar raios gama de até 300 TeV - CPG Click Petróleo e Gás",
+      "published": "2026-05-23T02:54:00+00:00",
+      "summary": "No coração do deserto mais seco do mundo, Chile começa a erguer um observatório colossal com mais de 50 fundações, 17 km de estradas e dezenas de telescópios espalhados no Atacama para caçar raios gama de até 300 TeV&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNVmVjc3ptMjBjcm5oRUVia25hNTFVYmtJU2lhMC1zMld2c2YteXZQM253ekRlWWJsT2p2Q3RPOW9VbTUxdVlqZTlYZTJwUU9mWWZZakRUeXQ2c2plMWdQTk9Na05GSXhNbS1Ic0lYUWRlaEJfYV8zbWw2YXRiV2lKSl9BWV93REhiZWRmemcxSzFDcHh0bXpfREw1N2syUlBRdXlPcEExNW1rNW1pYVhZT1ZJeU9MYzR3cmNvV0RuUlpMWjBqeEh4WDRkVnotbDVQbk1UNFJaSjBSb3FBWHJWX2J2Y2c0Z1pJX0xTTDNXTGxNMU1EaFAzODdjMGxITDcxa2ZvVlQ5amxESnR1SW5lRmk2aUVycGRDTUJnTUtheHRvMzk3Tnh3cVA2SzNEbTNfUGl6LXExX0Q1YXJhcktUV2FQRTBGZw?oc=5"
+        }
+      ]
+    },
     {
       "id": "7c5f44abe331",
       "title": "Quatro em cada cinco idosos no Brasil têm demência sem diagnóstico; entenda - CNN Brasil",
       "published": "2026-05-22T22:27:35+00:00",
-      "summary": "Quatro em cada cinco idosos no Brasil têm demência sem diagnóstico; entenda&nbsp;&nbsp;CNN BrasilQuatro em cada cinco idosos com demência no Brasil não têm diagnóstico, aponta estudo&nbsp;&nbsp;G1Você sabia? 4 em cada 5 idosos brasileiros com demência não sabem que têm a condição&nbsp;&nbsp;EstadãoDemências avançam além do Alzheimer no país&nbsp;&nbsp;Jornal O FluminenseDemência além do Alzheimer: conheça outras condições que causam doença&nbsp;&nbsp;Metrópoles",
+      "summary": "Quatro em cada cinco idosos no Brasil têm demência sem diagnóstico; entenda&nbsp;&nbsp;CNN BrasilVocê sabia? 4 em cada 5 idosos brasileiros com demência não sabem que têm a condição&nbsp;&nbsp;EstadãoQuatro em cada cinco idosos com demência no Brasil não têm diagnóstico, aponta estudo&nbsp;&nbsp;G1Demências avançam além do Alzheimer no país&nbsp;&nbsp;Jornal O FluminenseMais de 80% dos idosos com demência seguem sem diagnóstico&nbsp;&nbsp;Metrópoles",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -66,10 +102,22 @@
       ]
     },
     {
+      "id": "2ae96f2fc5b6",
+      "title": "Remédios para emagrecer barram avanço do câncer, indicam estudos - Revista Oeste",
+      "published": "2026-05-22T18:04:36+00:00",
+      "summary": "Remédios para emagrecer barram avanço do câncer, indicam estudos&nbsp;&nbsp;Revista OesteMedicamentos para diabetes e obesidade podem reduzir risco no câncer de mama, diz estudo&nbsp;&nbsp;G1Canetas emagrecedoras e os novos fármacos metabólicos: estamos diante de uma revolução cardiovascular?&nbsp;&nbsp;Jornal do BrásNovo estudo indica possíveis benefícios dos análogos de GLP-1 para câncer de mama&nbsp;&nbsp;Afya | HomeMedicamentos populares para perda de peso com GLP-1, como Ozempic, reduzem o ",
+      "sources": [
+        {
+          "name": "Revista Oeste",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV0pHSVRXZ2tjRXotbGE4VjlRREVycGdRX3FWTGdWOXRvZU9PS2duc2RsdWtKTmF1S0VTdERsNWxicDZsMXdGZnRoNDBUUkQ4ZDQtX29WdzRIdVNfbFlsbVBNNTEzcTJlTzdVVE0xR2tfZ1JubXpKSkE1dVp0RnhtU1duTmdCSjVWTnBMeXhxbmVMd0J4cTNrdC1iaw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a7ee4a9b7fed",
       "title": "ES está em alerta para casos graves de doenças respiratórias - Tribuna Online",
       "published": "2026-05-22T15:09:49+00:00",
-      "summary": "ES está em alerta para casos graves de doenças respiratórias&nbsp;&nbsp;Tribuna OnlineGripe: Fiocruz alerta para alta de síndrome respiratória grave no país; veja estados mais afetados&nbsp;&nbsp;O GLOBOInfoGripe coloca RS em nível de alerta e com probabilidade de quadro mais grave nas próximas semanas&nbsp;&nbsp;Correio do PovoMS tem alta de casos de SRAG por VSR e gripe, diz Fiocruz&nbsp;&nbsp;Campo Grande NewsInternações por bronquiolite e gripe aumentam no Brasil&nbsp;&nbsp;R7",
+      "summary": "ES está em alerta para casos graves de doenças respiratórias&nbsp;&nbsp;Tribuna OnlineInfoGripe alerta para aumento do número de casos de SRAG no país&nbsp;&nbsp;Fundação Oswaldo Cruz (Fiocruz)Gripe: Fiocruz alerta para alta de síndrome respiratória grave no país; veja estados mais afetados&nbsp;&nbsp;O GLOBOInternações por bronquiolite e gripe aumentam no Brasil&nbsp;&nbsp;R7Brasil registra 20 mil notificações e mais de 18 mil mortes por Síndrome Respiratória em 2026&nbsp;&nbsp;Jornal O Flumine",
       "sources": [
         {
           "name": "Tribuna Online",
@@ -78,14 +126,26 @@
       ]
     },
     {
-      "id": "a017b3bc41cc",
-      "title": "Por que perdemos energia com a idade? Estudo encontrou pista - Metrópoles",
-      "published": "2026-05-22T14:50:31+00:00",
-      "summary": "Por que perdemos energia com a idade? Estudo encontrou pista&nbsp;&nbsp;Metrópoles",
+      "id": "c491afe5d3aa",
+      "title": "Capes lança edital com bolsa mensal de R$ 5.200 para mães pesquisadoras - Folha de S.Paulo",
+      "published": "2026-05-22T15:00:00+00:00",
+      "summary": "Capes lança edital com bolsa mensal de R$ 5.200 para mães pesquisadoras&nbsp;&nbsp;Folha de S.Paulo",
       "sources": [
         {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XNkowck5XX0JIc0VmSkdfX3JIVjNxTTBtQl93RWhCaEtBdzBicWxNUVg4M0tLWHlRTVh3c2N1NWE2TEgydnVHZFIxSUk1TVNTdWF1b3FJZDk2S2ZjN3BMS2g4UmszejNLbGNXeDMtSnU?oc=5"
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOamlxWHRaQ1NwQUhRQWhHWnFpeC1jMmNVT2dRZklOeEVRbE9OMWh5dVpsNTZ2OTdyZG5Ba19kMWZmNlg4M3laMkJDQlEtcGlUWGFLRGlGSzNJb1dnblhxcFEyQm9yUWR1ZUJ4cElPU1pSTVJBMnZPbXFjOEdpZmd6S3J3YktTTlM3eEwya3Fra3RSWmJkTDhva194Wnh5S1lIaDgwcnZqdEdwVDlwVkNxTEx6WUljUC05SUhaRkpR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cbb7dd12984d",
+      "title": "Quantas horas de exercício você precisa fazer por semana? Novo estudo calculou - Globo",
+      "published": "2026-05-22T14:39:41+00:00",
+      "summary": "Quantas horas de exercício você precisa fazer por semana? Novo estudo calculou&nbsp;&nbsp;Globo",
+      "sources": [
+        {
+          "name": "Globo",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQV3BfS0xHQmxGTmZ1TFZaVXNzTDNsdElMUlI3ZGk4Y1NwMFZRTFRaLXlEc2I2blRMQXEySGdqbzgyeEFOODBBc0NPNnBjMm1aYW9kWDV0YWMzcVlWQ21rSUtJem1Sc3pfejZmaXFrMGJvcEh5d191bHlRNXVuOFlQZ0xYc2ZvT3BzWTY4REJfQ3N1QnZPaW82ckVqUlhuVnFHa3FfdVl2eEZIVVlYQnBFaTlwZHh6UU83bEk5dEFGZnhZcHltN1VMTGNRTjVMVHVQcU1LWdIB4wFBVV95cUxPX1hFRlJwNnZGSHZUeS1QN0RXWWh6Y1JfN1JRVUR5Mnl2ME1DX0RXNGlkT1VxSWNxQ2Vsa0NfOTVQZmxtR0JvZG44NndPU0RDenNVZktCaTNnQ01mSXpMMGg2NWlOYTF4ejg1Q1lXd0Q4akg3T0xjMkd1UE9ab1ZaUnRHUjhMaUFZVmh2VVhyMHRBNURBX2VwNnRYajkyVzZpNlY2bEdIS3MyREtlZFNxVEszRXJEZFhCWmhRbXNERU82TDhaaUxHMnltM0xLVmlEUjF1MnVDVWdrWThFVzh2bFZvdw?oc=5"
         }
       ]
     },
@@ -93,23 +153,11 @@
       "id": "6830837d7572",
       "title": "SUS adota novo exame para rastrear câncer de intestino na população - R7",
       "published": "2026-05-22T13:52:24+00:00",
-      "summary": "SUS adota novo exame para rastrear câncer de intestino na população&nbsp;&nbsp;R7Ministro da Saúde anuncia novo protocolo para rastreamento de câncer colorretal durante agenda em Lyon, na França&nbsp;&nbsp;www.gov.brSUS passa a ter novo exame para detectar câncer de intestino&nbsp;&nbsp;Agência BrasilSUS oferecerá novo teste para câncer de intestino que pode ser feito em casa&nbsp;&nbsp;Veja SaúdePor que novo exame de fezes anunciado pelo SUS pode aumentar detecção de câncer; entenda&nbsp;&nbsp;",
+      "summary": "SUS adota novo exame para rastrear câncer de intestino na população&nbsp;&nbsp;R7Ministro da Saúde anuncia novo protocolo para rastreamento de câncer colorretal durante agenda em Lyon, na França&nbsp;&nbsp;www.gov.brSUS oferecerá novo teste para câncer de intestino que pode ser feito em casa&nbsp;&nbsp;Veja SaúdePor que novo exame de fezes anunciado pelo SUS pode aumentar detecção de câncer; entenda&nbsp;&nbsp;O GLOBOCâncer de intestino: quem deve fazer o teste imunoquímico fecal? Como funciona ",
       "sources": [
         {
           "name": "R7",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc3l0Y0VvYjNBTXdCNGM0em51dndHM2xYalR3S1NYSlBrOGlJcUxfbmUxTVVGMkRJWEJ6OFEtUTR3X0dEZlNRLVQ2RkpDWXVIaTM4czdhc2hSeW1nVTlGSmFvOTNscXNwdFB4NVAxbXVXc3Q5UXhzekp5eUIwVTZHcjhCMjYzY3BBSjV0V0lOS2d1N0thc29QMG9oZWROOGxseTdRYWFnQjRXVE0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "85e92eb4b2f8",
-      "title": "Dia D de vacinação contra a Influenza acontece neste sábado (23) em Catalão - zapcatalao.com.br",
-      "published": "2026-05-22T13:19:25+00:00",
-      "summary": "Dia D de vacinação contra a Influenza acontece neste sábado (23) em Catalão&nbsp;&nbsp;zapcatalao.com.brDia D da vacinação contra gripe terá 65 postos abertos em Goiânia&nbsp;&nbsp;G1Diadema amplia vacinação contra a Influenza para a população&nbsp;&nbsp;Portal ABC do ABCVacinação contra a gripe é ampliada para o público em geral em Santo André&nbsp;&nbsp;Diário do Grande ABCEscolas orientam pais a não levarem crianças com sintomas de gripe para as aulas&nbsp;&nbsp;CBN Goiânia",
-      "sources": [
-        {
-          "name": "zapcatalao.com.br",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZGMtejhBZFJFR0FHTkZhZUhwc2NWU2t5UjVIRmVUS0ZpVm5ValdVbFZhRHBZVWNjd3NCdGh5STRnSmlGNHNURFFjMWhwZUhnWU1ralVwZGcyWExxblVjWEZUdENtZFQ2MFVSVGYtaFFkUGVhdlBxajRlRi1JT3hpaEo1aWE4ZjBfb0R6YU1aX2F0Tm45WV9WbzY0NFhUU1ZLdWU1Y2JIeDA?oc=5"
         }
       ]
     },
@@ -134,18 +182,6 @@
         {
           "name": "Tribuna Online",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOU2FMTEx1M2Rubmx3eEQwbXI0aERaQVZ2TlUwWnhTRTAyN3d4OUdFQVNXTjNfRGxvOEJtSFBUVHJIWDV4SWFGRGVOR28xTlRrZ2ZHRHMyTkliYmhrd1FBdlpHMnFvNThPQlkxeGI4VXlSQTFSeWRKX1FkTlJ5S0Rib0ZhSVNpQ0Vwcm54QUgyVVJwbzZoZF9scHpXVUVTVFpjWW9IcXJIU3VoZ2I1bkJsSzYxNmswMFlicHgzdE5mQmxVLTM0ODVzeW130gHSAUFVX3lxTE5jeDdEN1ZyYkl6aDRxMDdXb05pT1VMdTVQLWdqOVpLckJSZFF5ZnRsRlptQ3k0dUtCNW1vTHNVVkFhZlRTU3dPZXAwRGprS0ZPMG9nbDFFN2ZQZ3otQXhGeWRyX3M4OUNVX0pXbzVqX2hWSmpXYWowZVJkSDZhQUR1dlIydFlwNzJvRlpkWWxybFBBTVhUQ2xqbDhWNGVlUm5EM2loZGljTHNnYTJ6SVQ2LVhSVExBM1Nselg4cUZxR3V0RGh0T3NSandmdUZURVR5dw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8884d4ef84f9",
-      "title": "Primeira morte por dengue em 2026 é confirmada em Patos de Minas; vítima tinha 49 anos - Patos Hoje",
-      "published": "2026-05-22T11:37:00+00:00",
-      "summary": "Primeira morte por dengue em 2026 é confirmada em Patos de Minas; vítima tinha 49 anos&nbsp;&nbsp;Patos HojeVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "Patos Hoje",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMDdJQkljR0xIWDViS19WLWlvamFxRjR3OFhnNTl5ZFFpOTYwVC1XUEQ5ZS04YzNHWGRmNE56ZGJMNTczUkJwaTVNVUpnQWhhWkVRTVA0ZEVuYjN2b3RqaEVkTEhDRXZzX1BDbTVTRDNubzdsaGdIU0tOVU9LWnlBYmhHM04wQUE0Uk9sX2lTVkJEMHFTVXBmOEJRWEUyaTUwSF9yN2IwaHdET19JSU85THBpYmZsZ3JkX2FTbGp3b0VHWEJ5UFlJVFVB?oc=5"
         }
       ]
     },
@@ -222,10 +258,22 @@
       ]
     },
     {
+      "id": "38d0387a2efb",
+      "title": "Primeira grande decisão do mercado de carbono pressiona indústria capixaba - Folha Vitória",
+      "published": "2026-05-22T02:42:51+00:00",
+      "summary": "Primeira grande decisão do mercado de carbono pressiona indústria capixaba&nbsp;&nbsp;Folha Vitória",
+      "sources": [
+        {
+          "name": "Folha Vitória",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObU1aMnRNVDQ4NXNhWTVrNHJ0NWhyYjhoZWg3RHN0T1FYY0FhRmpzXzVULWxKdUFJVnZpTHhteW41QnMxaWJ2R3FPYU5rdE1tUkV1a1BlQ1FJVVpWMGNjanVwZjJ3NllfUTRxLVlBZ3pLa2VNc2s2anZXUjh3dFZuQnpaN0REWHoxWHBLWDZpb0ZFMTNlaG95cEU0ejVNcmlaYzAxTjZOcFAyeDc4YjhOTWRkZ29pdUNqU3pmWjZaMHJLUmI5RHZYOGJpNA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "5fd8c07890e5",
       "title": "Episódios de bebedeira triplicam o risco de lesão no fígado, alerta estudo - Folha de S.Paulo",
       "published": "2026-05-22T02:00:00+00:00",
-      "summary": "Episódios de bebedeira triplicam o risco de lesão no fígado, alerta estudo&nbsp;&nbsp;Folha de S.PauloHepatologista explica como a água ajuda a reduzir a gordura no fígado&nbsp;&nbsp;MetrópolesFrutas que podem ajudar na prevenção de doenças do fígado&nbsp;&nbsp;Correio BrazilienseBebida popular pode ter efeito protetor contra fígado gorduroso&nbsp;&nbsp;R7Hábitos cotidianos como dormir pouco, comer ultraprocessado e usar remédios sem orientação podem destruir o fígado mesmo em quem nunca bebeu á",
+      "summary": "Episódios de bebedeira triplicam o risco de lesão no fígado, alerta estudo&nbsp;&nbsp;Folha de S.PauloFrutas que podem ajudar na prevenção de doenças do fígado&nbsp;&nbsp;Correio BrazilienseHepatologista explica como a água ajuda a reduzir a gordura no fígado&nbsp;&nbsp;MetrópolesBebida popular pode ter efeito protetor contra fígado gorduroso&nbsp;&nbsp;R7Como se alimentar para manter o fígado saudável e evitar a gordura hepática&nbsp;&nbsp;Tua Saúde",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -258,30 +306,6 @@
       ]
     },
     {
-      "id": "d0373ae4bf05",
-      "title": "Número de casos de gonorreia e sífilis batem recorde na Europa - UOL",
-      "published": "2026-05-21T19:12:32+00:00",
-      "summary": "Número de casos de gonorreia e sífilis batem recorde na Europa&nbsp;&nbsp;UOLGonorreia, sífilis e clamídia: Europa bate recorde de infecções sexualmente transmissíveis em mais de uma década&nbsp;&nbsp;O GLOBODoenças sexualmente transmissíveis em máximos históricos na Europa&nbsp;&nbsp;Euronews.comDuas grandes IST atingiram níveis recordes na Europa | Notícias do mundo&nbsp;&nbsp;obusilis.com.brInfeções sexualmente transmissíveis atingem valores recorde na Europa&nbsp;&nbsp;sic.pt",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOV3g2NE1ITG5laDBXMzZzYlVHbzJwYnBoWHNmM0xLSG0tMXdjX2ZBbzBWclVNNXdiakh4dF91TVY5QWZFNXIwU29DTVM0eTBBMTJpX3p3YkExMGFWVl9uM0xzWWVfcERuLUxsUzZSZ01QV1BJeFNUYUMwWGpDYVNtalRjZHdLdmtFc1pSaXdKV3ZkLWFvUDA5VXBzdXQ3aTRFN2VVVHBfMDQxMm5rc1pJMmVwVWc2UVJZbDVpdlp1bUVqVDkz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c62e8dc0d4fb",
-      "title": "Lúcia Helena: Por que o SUS ainda prescreve drogas ineficazes contra o câncer de próstata - UOL",
-      "published": "2026-05-21T19:00:00+00:00",
-      "summary": "Lúcia Helena: Por que o SUS ainda prescreve drogas ineficazes contra o câncer de próstata&nbsp;&nbsp;UOL",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNd19sTDg4Z0NtR2JCYWh1UFo1WFh0MV9RcHg0b3pHWk1HYlo3UE16RW9XVzFnV2xnQVdmNU01MkNMbFFJd3I3RUNHRHRQc3RUc2dKYUQtRHFxQmI1WmVELTZaWWY5TVVoakJHdTBCdzFQQWpyVTZkVTdHajJNLWw3MjI5aUxwUlNkLTJaUUlNamkwTGptbWktZ3FVUTB2LWNicUd5UzVZM2JMb0ZaT05Yd2ZOdlhmNTF6SVFLQTNiOVI4YVF4RDNZMEZVVDJjRjNtMm9BYWlpb1FmUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5c1cba52ce39",
       "title": "Estudo dá pistas sobre por que a maioria das pessoas é destra - UOL",
       "published": "2026-05-21T18:47:29+00:00",
@@ -290,18 +314,6 @@
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONFl6eHhwMjR1OUstRURBb2hhLUFLdVY2TkQ0UnJWMEEwdHVDOHdjV2VxTl9fazVkZFVpZFM3eHpmX2x5NDJ1VExRZGFNSlhMZzduaUhMS080UVctSFhpdWZFMm12UndLblFKZkNZX0JuMDNxeENvbUxGZHl2R2JnX0w5emNkeFpCUTROX0VVN2NZdWRtMG92YjJDNDlaLVBPN0M5TUswbDVoWjlFbFIyd3ZPeEtYWWFEY2JCN0lRY1JscFRMbU9TSC1aMXk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e260559b7981",
-      "title": "Dieta rica em vitamina C pode ajudar a prevenir câncer, segundo novo estudo - O GLOBO",
-      "published": "2026-05-21T18:34:10+00:00",
-      "summary": "Dieta rica em vitamina C pode ajudar a prevenir câncer, segundo novo estudo&nbsp;&nbsp;O GLOBOVitamina C: o retorno&nbsp;&nbsp;MedscapeA vitamina C pode matar células cancerígenas de uma forma inesperada.&nbsp;&nbsp;Vietnam.vnVitamina C reduz risco de câncer&nbsp;&nbsp;Agora RNVitamina C ganha destaque em pesquisa sobre prevenção de câncer&nbsp;&nbsp;O Rebate",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbk9xcnVNZXBEOFBZb1BHLXFyQjBhZGFKZGFteVNhVUxjSkQyMmNPZDV3Y0VEM0lvMDVnTlc2bUhIaDJDV1Ntb09FQ0xOOGFGRjFGX0pDdmNzdXd5X3RWYWlrZGRVNGtxUHl6b0JCNkc3LXJmSEtGMU96TDVnRGFIemdMTFFPdlVVUnhKRGdWVTM5TXY4dl9DQldtV0xZZm94WkYtZmFOMnpRWTZDUGdTN0JrODRueXN4S09EZWs0VkJ0X1AweWw1MV9n0gHYAUFVX3lxTE1KblhjcG5fTjBMelMyVVRvZFJfQWdSd3JkRDM1WWFFaVBVRmx5emN0ejRlcXRsdkVjRXRGWlVZWjFVbko4cjNxdjJNdnJfRU1LRy1teFBsX2ZqSGRNejNwelhoa3hvbUlYbnAzQXNCTjJLV0hoUWVUc3BvOXFkTG00Rmc3ZF8ycHlST3RMSWVIaWVyNmpWWFRKaElodEdaLXpENEtOU1JTUzl3UDM5em1NdUtjRnRDX0lnMHlPcDdadzdheWRQc3FtUlpPUWtDUDJ1Nk1pQVVXYw?oc=5"
         }
       ]
     },
@@ -321,23 +333,11 @@
       "id": "b87c2e4e9743",
       "title": "“Hormônio do estresse”: o que acontece com seu corpo quando o cortisol fica alto por muito tempo - Globo",
       "published": "2026-05-21T17:39:39+00:00",
-      "summary": "“Hormônio do estresse”: o que acontece com seu corpo quando o cortisol fica alto por muito tempo&nbsp;&nbsp;GloboEstresse também pode comprometer o fígado, apontam estudos&nbsp;&nbsp;Agora RNFígado gorduroso: o estresse influencia o desenvolvimento da doença e pode afetar a saúde hepática, diz novo estudo&nbsp;&nbsp;O GLOBO",
+      "summary": "“Hormônio do estresse”: o que acontece com seu corpo quando o cortisol fica alto por muito tempo&nbsp;&nbsp;GloboPele estressada: o que é e como sua rotina moderna pode ser a causa do problema&nbsp;&nbsp;Estado de MinasEstresse crônico pode ser vilão no acúmulo de gordura abdominal&nbsp;&nbsp;Notícias BotucatuEstresse também pode comprometer o fígado, apontam estudos&nbsp;&nbsp;Agora RNFígado gorduroso: o estresse influencia o desenvolvimento da doença e pode afetar a saúde hepática, diz novo es",
       "sources": [
         {
           "name": "Globo",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdlZJM3RuaDRRbXgxVnZldjFrbE5DWWhTbmI3V29xa0czS1RlTjk4dGhJSld0STVKMjZ4NUZmWEhSYTBielZmSHV4RjN3dGszWTJUYlhGMFBuMGQzbEpqQTFPeFdCQlM2X1dINlI3YktlR0tneDhybXZDVEVZTV9wQ1dqcTQzdE9uSjZWSlhVenlCS2xFMmRZV1RjT2pNOWFsY21HVnRZOEFHdDFqbXNQWUwzRDJCNlRTN0hNbVMtTFFrWFczeHZTZkxwYTJ5X0tSLWhTWU5zejh2UdIB6AFBVV95cUxQckNobC1iSFNyY1hyQ096YWdVeURMYm8tb1JUeUtXYWpwZWs1QkdxeU1SRXQ0ZG5CUEdIb0lUNWdwMnB0d2Zad2gzZG9IZHM0alBWcU5vTkVNU283dDdGWDE2RFo0a0w0emtwaXprQkczUkdiZG9XTW1nZHZNZWdfOVd3UmtaeFFrLUtES1VKcHlHcDJkMmdmTXNVNmVPbjRJQjkzRU5fRmJzTXpkTVFPQkpMb2FVZHVMbUpSeFZWNVdnU0cybGZkT1lYeHRjZmJZb2tEN0hoOWR1dWwwMVZxU3locmZvLUtj?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8cdf8e7d14a9",
-      "title": "Médico aponta tempo para o cérebro se recuperar após consumo de álcool - Metrópoles",
-      "published": "2026-05-21T16:31:00+00:00",
-      "summary": "Médico aponta tempo para o cérebro se recuperar após consumo de álcool&nbsp;&nbsp;MetrópolesConsumo excessivo de álcool afeta saúde, a mente e a vida social&nbsp;&nbsp;G1Não é a cerveja: veja 4 bebidas alcoólicas que podem destruir a sua memória&nbsp;&nbsp;Diário do ComércioNeurocirurgião aponta as bebidas alcoólicas que mais afetam o cérebro&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZXMtcFhTUm1va3ZJaGJoNnlPU255Q1h5SVNHdVdpenIzMlktNTFfYWVNY2YwS2dYUDlTTUNQdUlIMDFtOXR5SDRDSFZ6RUhBcGVWWnpBek9SLWRYUlB1TGdfQVhtcFBFNEo2R3dzRnZEMkpJWkp4NHNjeDUxOTdERVZtUDhKa1VWT1dvUTNKNE4wclhfQ2VJblp4Zi1jS2FsMS11cDNlRmxRMWlTQThfV21xZnY2Rl9yTWo0OUlxRQ?oc=5"
         }
       ]
     },
@@ -357,7 +357,7 @@
       "id": "61eb90fbb5df",
       "title": "Cientistas tentam descobrir por que cada vez mais jovens sofrem de câncer no cólon - Extra online",
       "published": "2026-05-20T17:41:27+00:00",
-      "summary": "Cientistas tentam descobrir por que cada vez mais jovens sofrem de câncer no cólon&nbsp;&nbsp;Extra onlineDr. Kalil e especialistas explicam aumento de casos de câncer em jovens&nbsp;&nbsp;CNN BrasilCientistas investigam aumento de câncer de cólon entre jovens&nbsp;&nbsp;Tribuna do SertãoO câncer de cólon está aumentando entre os adultos jovens e os médicos não entendem completamente o porquê&nbsp;&nbsp;segundabase.com.brPor que jovens contraem mais câncer colorretal?&nbsp;&nbsp;noticiaalternati",
+      "summary": "Cientistas tentam descobrir por que cada vez mais jovens sofrem de câncer no cólon&nbsp;&nbsp;Extra onlineComo prevenir o câncer? Kalil e convidados debatem o tema&nbsp;&nbsp;CNN BrasilPor que jovens contraem mais câncer colorretal?&nbsp;&nbsp;noticiaalternativa.com.brAumento de 11 cânceres em jovens: novo estudo liga crescimento à obesidade e consumo de ultraprocessados&nbsp;&nbsp;O NORTÃOCientistas investigam aumento de câncer de cólon entre jovens&nbsp;&nbsp;Tribuna do Sertão",
       "sources": [
         {
           "name": "Extra online",
