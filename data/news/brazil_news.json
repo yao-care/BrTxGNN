@@ -1,10 +1,22 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-05-23T03:30:09.643147+00:00",
-  "total_fetched": 89,
-  "unique_count": 88,
-  "health_related_count": 28,
+  "fetched_at": "2026-05-23T08:22:07.745828+00:00",
+  "total_fetched": 90,
+  "unique_count": 89,
+  "health_related_count": 30,
   "news": [
+    {
+      "id": "7c5f44abe331",
+      "title": "Quatro em cada cinco idosos no Brasil têm demência sem diagnóstico; entenda - CNN Brasil",
+      "published": "2026-05-22T22:27:35+00:00",
+      "summary": "Quatro em cada cinco idosos no Brasil têm demência sem diagnóstico; entenda&nbsp;&nbsp;CNN BrasilQuatro em cada cinco idosos com demência no Brasil não têm diagnóstico, aponta estudo&nbsp;&nbsp;G1Você sabia? 4 em cada 5 idosos brasileiros com demência não sabem que têm a condição&nbsp;&nbsp;EstadãoDemências avançam além do Alzheimer no país&nbsp;&nbsp;Jornal O FluminenseDemência além do Alzheimer: conheça outras condições que causam doença&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZGVxbkpoREQ5b2g0RmNnMDY5Vnpvek0yQUstYURJa1hsWlhHSzNwSU8tb1NzLS1GSVYzS0JXZmQwQUkxSGxGdHhJWTNrZElpa3NCMExCcV95OTRMN3pERmtWRWh0SGE5VTdFMU51YnVCWkl3X2NRM09uZjBBelB6UDRmMkJjVHBzV0hpOFR6MkV2bXVtN1czVl91VmQ2ZzMybkV2SlhOUGxfZDlJeEw0?oc=5"
+        }
+      ]
+    },
     {
       "id": "f3baab1dba1a",
       "title": "Estudo mostra como os corvos enxergam cores invisíveis aos humanos - Metrópoles",
@@ -30,6 +42,18 @@
       ]
     },
     {
+      "id": "2dac9d6ff6fc",
+      "title": "Preso em laboratório de haxixe é estudante de biologia: ‘profissionalismo impressionante’, diz delegado - TNH1",
+      "published": "2026-05-22T18:08:57+00:00",
+      "summary": "Preso em laboratório de haxixe é estudante de biologia: ‘profissionalismo impressionante’, diz delegado&nbsp;&nbsp;TNH1",
+      "sources": [
+        {
+          "name": "TNH1",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYjVPUDQ4UmlJalc4NlFhWkdrWmNhN2FFNFNYT2FJNm9QVC1CNW41aWxhdWhQQUlxeEh4R1p6YzN6M2JVNDRGVjRmNXYyZldXTnRiSWV6VDhsSk9zZE1hTkdMSl85eEFIVnNvM0xmUFZ3dV9CVkV5YVBMSkVZdHlVUnRaX1JTUm1DWXNBN0ZuVlZ6N3lJal9lNVVWUGwwZ012eFRzYnBPUVFyV1p5MVNXNGhoZUpobHR3bk0xeUZtTWl6eFZEUmYwTXBEeDdJakRUOGfSAcwBQVVfeXFMTjZzZFVvaUNlU2lLZi1vTGtDakNvbXlJVERLU2szS21WMkdpNXJZZXhiVUJya2NtY0V3YmktSF9MOXV2bGxLZHlvMzJ4X1F0bTVfQkxEU3VzT2paZGlxTWZ5UDVpbEJxYi15VzI4NlViLTJfVnBnN1pkdTB2ZWRRdjlrcFpsOTNLRTZpMnFkb29ZcHVsMG5ISmE2S0U4d095Rklka2pVZVdEWDEwRmVHTHE5YnE0SzM3TWpoZmdQWDBoM1FmSktmUEN3ZTJB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "07396f743756",
       "title": "Vírus raro e letal encontrado no interior de SP circula no país há 142 anos - UOL",
       "published": "2026-05-22T18:07:52+00:00",
@@ -38,18 +62,6 @@
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeWZxbmJBSTdhbmQtSklZU3hqUkRRajg5MVdVclhIWGM0b3NvbFNPUjFMX2FzZGtwdzJEUlBSdWJ3c2ZRVDlFbE9kUm1yMXV5WGg0OV9QVVRHa1NVdHRGa05WWXMzTWFKbjhRME5tQlFTNWM0SUtDd3NXM0NkMTNtclpTTlVWLUdTcGlhUzkwcjVRVmVYQmJVelFRbFNBcGF3QU4tSXhIZVFGVEYwM1ZLRGV6bFI2MFpXT0dpM1VmVHhVNnZPR2JsZThmUzVYZ2s?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8808b0c73abc",
-      "title": "IFMG Campus Formiga oferece cursos gratuitos em Inteligência Artificial, pesquisa científica e tecnologias inovadoras - ultimasnoticias.inf.br",
-      "published": "2026-05-22T16:17:58+00:00",
-      "summary": "IFMG Campus Formiga oferece cursos gratuitos em Inteligência Artificial, pesquisa científica e tecnologias inovadoras&nbsp;&nbsp;ultimasnoticias.inf.br",
-      "sources": [
-        {
-          "name": "ultimasnoticias.inf.br",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdWQ3MjlONkRtTkdZWjFGbVBCTVBfQl8xNnhCUHpLam5wMFBjQnFzNGVXaEFOMWJtamU1OHBPTGVWenpTU05mUk96OWcweDFzVEFBcXhVZDJ3U3hDNl9tTTA4eWszRXNCQ1h1SDlPaTJFZFBhbGh2ak9iRkx1UDNHbUZfR1N5cU45a0VuWXFIR1BOVU4yblJRMWZfbE5vRm9IekNvZHdLTms4WWpYUElrX19nbm9oYlpsSGFZY0U1N1F0WmdrU2ExYkhXN1lpSkVvdVk4Q2FxSnJHanZ3UTR0MURYallmU09xLUNxYQ?oc=5"
         }
       ]
     },
@@ -78,18 +90,6 @@
       ]
     },
     {
-      "id": "26cfc6ac44c3",
-      "title": "Quatro em cada cinco idosos com demência no Brasil não têm diagnóstico, aponta estudo - G1",
-      "published": "2026-05-22T14:10:58+00:00",
-      "summary": "Quatro em cada cinco idosos com demência no Brasil não têm diagnóstico, aponta estudo&nbsp;&nbsp;G1Você sabia? 4 em cada 5 idosos brasileiros com demência não sabem que têm a condição&nbsp;&nbsp;EstadãoQuatro em cada cinco idosos no Brasil têm demência sem diagnóstico; entenda&nbsp;&nbsp;CNN BrasilDemências avançam além do Alzheimer no país&nbsp;&nbsp;Jornal O FluminenseDemência além do Alzheimer: conheça outras condições que causam doença&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMzJCTWdBckNPSmFvdmNOZlRfaG1PcS1yMmhPNkFodWVaVEZ5SWUyOEFhN1JlXzFac0JxSnNtUGNzNTNreXhOSV9ZUUI4WldQYXMxRmsxbDU3SzRJMXp3SGdmSkRydURkeE0wMFJjNjVBS1EwWklmV1R6cDBOcHAtQWdPTXVUSGRoTzNXWFpWLTY0WlppN3EzekhJdUJXVENWNzVvUk5sNEtMVXd2Z0JsOXRpYTdpVnpfVnBLcUNSNGgwN0ZVZkZ1QVhTb2xGMWFXdEHSAeABQVVfeXFMTlBMNXJfTnV0Vkxtblp2MXQ5NUU5MTRQbjZNekhyTXdwQjloMzFYTFdfemlYVmpWVUFtX3UtRnVONkp4V2YwUXFwWHUtcm1tdWRnZzBqdTVELW1TV2ZHZlVrMzBsMUJZcmJ5bFMteXJvNFRlaHREaFZjXzdJZlNDVFRvb04yaVZYbVFIbzBkQjhVZVpzN2lOcnRfT0ZCV1FCVXpEc2dmX1loNFMxTkN3bUFmS1JFcHNZaEU1a2pYVGx6Q0NwTDZBcl9JS3FSa3pQQzZCYXBtaldSUVlYU21aaUM?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6830837d7572",
       "title": "SUS adota novo exame para rastrear câncer de intestino na população - R7",
       "published": "2026-05-22T13:52:24+00:00",
@@ -98,6 +98,18 @@
         {
           "name": "R7",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc3l0Y0VvYjNBTXdCNGM0em51dndHM2xYalR3S1NYSlBrOGlJcUxfbmUxTVVGMkRJWEJ6OFEtUTR3X0dEZlNRLVQ2RkpDWXVIaTM4czdhc2hSeW1nVTlGSmFvOTNscXNwdFB4NVAxbXVXc3Q5UXhzekp5eUIwVTZHcjhCMjYzY3BBSjV0V0lOS2d1N0thc29QMG9oZWROOGxseTdRYWFnQjRXVE0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "85e92eb4b2f8",
+      "title": "Dia D de vacinação contra a Influenza acontece neste sábado (23) em Catalão - zapcatalao.com.br",
+      "published": "2026-05-22T13:19:25+00:00",
+      "summary": "Dia D de vacinação contra a Influenza acontece neste sábado (23) em Catalão&nbsp;&nbsp;zapcatalao.com.brDia D da vacinação contra gripe terá 65 postos abertos em Goiânia&nbsp;&nbsp;G1Diadema amplia vacinação contra a Influenza para a população&nbsp;&nbsp;Portal ABC do ABCVacinação contra a gripe é ampliada para o público em geral em Santo André&nbsp;&nbsp;Diário do Grande ABCEscolas orientam pais a não levarem crianças com sintomas de gripe para as aulas&nbsp;&nbsp;CBN Goiânia",
+      "sources": [
+        {
+          "name": "zapcatalao.com.br",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZGMtejhBZFJFR0FHTkZhZUhwc2NWU2t5UjVIRmVUS0ZpVm5ValdVbFZhRHBZVWNjd3NCdGh5STRnSmlGNHNURFFjMWhwZUhnWU1ralVwZGcyWExxblVjWEZUdENtZFQ2MFVSVGYtaFFkUGVhdlBxajRlRi1JT3hpaEo1aWE4ZjBfb0R6YU1aX2F0Tm45WV9WbzY0NFhUU1ZLdWU1Y2JIeDA?oc=5"
         }
       ]
     },
@@ -122,6 +134,18 @@
         {
           "name": "Tribuna Online",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOU2FMTEx1M2Rubmx3eEQwbXI0aERaQVZ2TlUwWnhTRTAyN3d4OUdFQVNXTjNfRGxvOEJtSFBUVHJIWDV4SWFGRGVOR28xTlRrZ2ZHRHMyTkliYmhrd1FBdlpHMnFvNThPQlkxeGI4VXlSQTFSeWRKX1FkTlJ5S0Rib0ZhSVNpQ0Vwcm54QUgyVVJwbzZoZF9scHpXVUVTVFpjWW9IcXJIU3VoZ2I1bkJsSzYxNmswMFlicHgzdE5mQmxVLTM0ODVzeW130gHSAUFVX3lxTE5jeDdEN1ZyYkl6aDRxMDdXb05pT1VMdTVQLWdqOVpLckJSZFF5ZnRsRlptQ3k0dUtCNW1vTHNVVkFhZlRTU3dPZXAwRGprS0ZPMG9nbDFFN2ZQZ3otQXhGeWRyX3M4OUNVX0pXbzVqX2hWSmpXYWowZVJkSDZhQUR1dlIydFlwNzJvRlpkWWxybFBBTVhUQ2xqbDhWNGVlUm5EM2loZGljTHNnYTJ6SVQ2LVhSVExBM1Nselg4cUZxR3V0RGh0T3NSandmdUZURVR5dw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8884d4ef84f9",
+      "title": "Primeira morte por dengue em 2026 é confirmada em Patos de Minas; vítima tinha 49 anos - Patos Hoje",
+      "published": "2026-05-22T11:37:00+00:00",
+      "summary": "Primeira morte por dengue em 2026 é confirmada em Patos de Minas; vítima tinha 49 anos&nbsp;&nbsp;Patos HojeVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "Patos Hoje",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMDdJQkljR0xIWDViS19WLWlvamFxRjR3OFhnNTl5ZFFpOTYwVC1XUEQ5ZS04YzNHWGRmNE56ZGJMNTczUkJwaTVNVUpnQWhhWkVRTVA0ZEVuYjN2b3RqaEVkTEhDRXZzX1BDbTVTRDNubzdsaGdIU0tOVU9LWnlBYmhHM04wQUE0Uk9sX2lTVkJEMHFTVXBmOEJRWEUyaTUwSF9yN2IwaHdET19JSU85THBpYmZsZ3JkX2FTbGp3b0VHWEJ5UFlJVFVB?oc=5"
         }
       ]
     },
@@ -182,6 +206,18 @@
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNTzlmUnBWM3dXTm5rQzNxa1ZYbW00WUZhb19Ec2M4VC1TNnk5R0I1TWhuMEVmcWJraU9VMVMzMnBPeGI0RnZTM2oxaHBfa3h4WDBSdkdfSzB5elVrcTdVQlpvRkRCendTVFc1RnJNbTlEM0w2Yk9wYjRPVkx5RWhMNUMzSE9JdENGUEZzd24wQ0NQUEJqNXFJMkdkMVBubUJhMWdjSG1KVVhEdFZHX2Z3Q1JyR09IUGFWdW1zeWJmQnNXUzdac0FfMDNEZ0lKWkY0MlRtcTJfNGhoN0Z1MFBRMXl0QkpiSFNXODNpMUJ5clRYcFp3TzFIR3VxTTcxMTJSYURDV09B0gGUAkFVX3lxTE1uc2pFZFoxQ1BxRnZKbmN0eWZhV0FSUDRxaDREd01INS1XNF90eDBxR21iRUc5SmJLNi14Y29YMW1EU0pvWGVOdl9NaXJWM2h6dHNvSFVYMS1QbVhaQVEwSTRqRWM2VnctN1IteUk0eUswbkJSOWhZeEFVVFlEQnF0QklnVHRXZklPdTh2Mjg3VFdDMmxoTzhKX19lUHJYMTMxbnFVbl9Ha1VXa21KVmd5QmY4TGluU2lyVWRaWnByV0hDOTdMZnlpcno1cVRmNE9hQTJ5MWFSZmliOGJaMnVsaWNaQW5DeDB0b09qRlVtcm15LXRTNTRSYTQ4eUNaUGl6cmVzTkhUZjR3MmtUWjdkQXBQNQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cacdc3c38f18",
+      "title": "Humanos evoluíram andando como um gorila? Estudo revela pistas - CNN Brasil",
+      "published": "2026-05-22T06:33:28+00:00",
+      "summary": "Humanos evoluíram andando como um gorila? Estudo revela pistas&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbzdhY2pLZXVHU2Q3RHpzNnJGcDlna0YyQmdPRzlRUWcya3RFUlk4dGNxT0Z3M2l1YVZvc0dRWUtEelN4WExPUVNFMDN4SVdaSm1neW96VmY3RnZWeW80N2JYN3g3TEM3WlJZSEdHUHZwU1JHMWxwTUJnbngwZWU2V3Fod0VPRHVCRkRjZFdMZ2ZSeGlsNy12ZjFLbmM3bFJs?oc=5"
         }
       ]
     },
@@ -273,7 +309,7 @@
       "id": "4b1c6a7c7f06",
       "title": "BH abre 22 centros de saúde neste sábado (23) para ampliar acesso à vacina contra a gripe - Prefeitura de Belo Horizonte",
       "published": "2026-05-21T18:04:41+00:00",
-      "summary": "BH abre 22 centros de saúde neste sábado (23) para ampliar acesso à vacina contra a gripe&nbsp;&nbsp;Prefeitura de Belo Horizonte18 postos vacinam neste sábado em Belo Horizonte&nbsp;&nbsp;G1BH aplica mais de 8,5 mil doses da vacina contra a gripe no sábado&nbsp;&nbsp;RÁDIO ALVORADACentros de saúde de BH abrem neste sábado (23) para ampliar proteção contra gripe&nbsp;&nbsp;Rádio ItatiaiaBH: mutirão de vacinação aplica mais de 10,5 mil doses em um dia&nbsp;&nbsp;Estado de Minas",
+      "summary": "BH abre 22 centros de saúde neste sábado (23) para ampliar acesso à vacina contra a gripe&nbsp;&nbsp;Prefeitura de Belo HorizonteVacinação contra gripe acontece em 22 centros de saúde de BH neste sábado; veja endereços&nbsp;&nbsp;G1BH abre postos para vacinação neste sábado&nbsp;&nbsp;G1BH aplica mais de 8,5 mil doses da vacina contra a gripe no sábado&nbsp;&nbsp;RÁDIO ALVORADABH: mutirão de vacinação aplica mais de 10,5 mil doses em um dia&nbsp;&nbsp;Estado de Minas",
       "sources": [
         {
           "name": "Prefeitura de Belo Horizonte",
@@ -318,22 +354,10 @@
       ]
     },
     {
-      "id": "692233ce579e",
-      "title": "Como os espinhos farpados do ouriço-caixeiro amazônico revolucionam a medicina moderna e garantem a sobrevivência da espécie na floresta - Revista Amazônia",
-      "published": "2026-05-21T14:59:25+00:00",
-      "summary": "Como os espinhos farpados do ouriço-caixeiro amazônico revolucionam a medicina moderna e garantem a sobrevivência da espécie na floresta&nbsp;&nbsp;Revista Amazônia",
-      "sources": [
-        {
-          "name": "Revista Amazônia",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQSnY4NTkzOUFVZ29CTjV1VTBYaUMzUmVJclNPSWkwNTJQMUN1UVhVam9ZVVdiWkx1cTE5VmRMTDhHMUJ6VjdmSVpXUnpFQXdKWmhfUVk2THh6Yy13VHppekZWcnVNRXFtZWR6Zll0R2RlRnVQdjZQVVJEeE1nd2Q0amotWlRYMkxFLTd1LWxEd0pUejRiTE9YeFU3ZnNKUHRpZDJzaU9oSW9mM0xHYmlqNHhoVjRCQktKUGZtejJQQmhsblY0ZDdqQUd5Vl90QjlBeklia3RhUi1aQmVDUW5DZkdHQXREUVRCajdYaFhwOHJsdjJqbUhPOUxsY3I?oc=5"
-        }
-      ]
-    },
-    {
       "id": "61eb90fbb5df",
       "title": "Cientistas tentam descobrir por que cada vez mais jovens sofrem de câncer no cólon - Extra online",
       "published": "2026-05-20T17:41:27+00:00",
-      "summary": "Cientistas tentam descobrir por que cada vez mais jovens sofrem de câncer no cólon&nbsp;&nbsp;Extra onlineCientistas investigam aumento de câncer de cólon entre jovens&nbsp;&nbsp;Tribuna do SertãoO câncer de cólon está aumentando entre os adultos jovens e os médicos não entendem completamente o porquê&nbsp;&nbsp;segundabase.com.brPor que jovens contraem mais câncer colorretal?&nbsp;&nbsp;noticiaalternativa.com.brO câncer está atingindo os jovens e os cientistas acham que um ‘novo hábito’ ridícul",
+      "summary": "Cientistas tentam descobrir por que cada vez mais jovens sofrem de câncer no cólon&nbsp;&nbsp;Extra onlineDr. Kalil e especialistas explicam aumento de casos de câncer em jovens&nbsp;&nbsp;CNN BrasilCientistas investigam aumento de câncer de cólon entre jovens&nbsp;&nbsp;Tribuna do SertãoO câncer de cólon está aumentando entre os adultos jovens e os médicos não entendem completamente o porquê&nbsp;&nbsp;segundabase.com.brPor que jovens contraem mais câncer colorretal?&nbsp;&nbsp;noticiaalternati",
       "sources": [
         {
           "name": "Extra online",

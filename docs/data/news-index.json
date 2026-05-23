@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-23T03:30:10.979785+00:00",
-  "count": 33,
+  "generated": "2026-05-23T08:22:09.098880+00:00",
+  "count": 31,
   "news": [
     {
       "id": "d732532ba249",
@@ -19,6 +19,49 @@
           "keyword": "SIL",
           "name": "SILODOSINA",
           "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
+      "id": "7c5f44abe331",
+      "title": "Quatro em cada cinco idosos no Brasil têm demência sem diagnóstico; entenda - CNN Brasil",
+      "published": "2026-05-22T22:27:35+00:00",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZGVxbkpoREQ5b2g0RmNnMDY5Vnpvek0yQUstYURJa1hsWlhHSzNwSU8tb1NzLS1GSVYzS0JXZmQwQUkxSGxGdHhJWTNrZElpa3NCMExCcV95OTRMN3pERmtWRWh0SGE5VTdFMU51YnVCWkl3X2NRM09uZjBBelB6UDRmMkJjVHBzV0hpOFR6MkV2bXVtN1czVl91VmQ2ZzMybkV2SlhOUGxfZDlJeEw0?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        },
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "demência",
+          "related_drugs": [
+            {
+              "slug": "biperiden",
+              "name": "Biperiden"
+            },
+            {
+              "slug": "entacapone",
+              "name": "ENTACAPONE"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "albendazole",
+              "name": "Albendazole"
+            }
+          ]
         }
       ]
     },
@@ -90,33 +133,6 @@
       ]
     },
     {
-      "id": "ef000a30914d",
-      "title": "Brad Pitt revela sofrer distúrbio neurológico raro que o impede de reconhecer rostos; entenda - Jornal Correio",
-      "published": "2026-05-22T18:48:32+00:00",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQal9qR2pSQ3ozRVVxbV9McFRBSHo3elRRQkFISGZjSzFhdXpiVldHNGtsS2VDU0VuUll6TFg0Q0lWYXRRdFJOT29MaEI2ZmpVVXRIUGg5UEpCSzM4a2ZPNm9nZVZCODR3Y1JESlZjblFqUHhsRGY5eW9taW9QMGVNU0VFeEpybDNlM3AxR2JEdWk3SW96TGQ5OEw1TUtqZWhiQ0N3Wk9PRlpmOWVURkJ5M1hCQ255dDBRLS1sQ0FUZ3lsdlRVQ2tRMm1uUkxZRkp4SHMwOWpB?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "golimumabe",
-          "keyword": "BIO",
-          "name": "GOLIMUMABE",
-          "url": "/drugs/golimumabe/"
-        },
-        {
-          "type": "drug",
-          "slug": "etanercepte",
-          "keyword": "BIO",
-          "name": "ETANERCEPTE",
-          "url": "/drugs/etanercepte/"
-        }
-      ]
-    },
-    {
       "id": "4945d74e7792",
       "title": "IFPI abre processo seletivo para Professor Substituto de Biologia em Paulistana - PCI Concursos",
       "published": "2026-05-22T18:18:01+00:00",
@@ -151,6 +167,33 @@
         {
           "name": "CPG Click Petróleo e Gás",
           "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPQ1NmUkF0MzlrM2w4dmp6MWcyWlpEMVp1Q1hQUGRGYm1sdWtfMFp0bTM0bU5XMUJseFUxck9tc3ltRkFfRFZfckJNQXlSMzdyejBYR3BwdDVGcUxVS2FRZTdJYnB4TjdTTjdqeHVBOEp1TjZLTHRZMHVXaGRUQk1kdFVRZGhnak56SWU2U0xVRzYxSGREZndfc1pLaWxCQXY2U3UzOWZPbmZqOW1vbzBta2ZRVEJMODhCbUZLSXUxWXJLRi1GQzlKZmhoaktrcG82dkgyQ281VmxhRW5XZEFtUTdMVDhfazVDSHFGby00NWladmFuczdtZWZMX2NrQWNoa05NMG04TDlQX3JIckVXbkNMaG9IZ2VnX1dRMjJQYk1RU290dlprbktVTEJDczNjNTZMSXo2YkJCZldtZnM0?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "golimumabe",
+          "keyword": "BIO",
+          "name": "GOLIMUMABE",
+          "url": "/drugs/golimumabe/"
+        },
+        {
+          "type": "drug",
+          "slug": "etanercepte",
+          "keyword": "BIO",
+          "name": "ETANERCEPTE",
+          "url": "/drugs/etanercepte/"
+        }
+      ]
+    },
+    {
+      "id": "2dac9d6ff6fc",
+      "title": "Preso em laboratório de haxixe é estudante de biologia: ‘profissionalismo impressionante’, diz delegado",
+      "published": "2026-05-22T18:08:57+00:00",
+      "sources": [
+        {
+          "name": "TNH1",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYjVPUDQ4UmlJalc4NlFhWkdrWmNhN2FFNFNYT2FJNm9QVC1CNW41aWxhdWhQQUlxeEh4R1p6YzN6M2JVNDRGVjRmNXYyZldXTnRiSWV6VDhsSk9zZE1hTkdMSl85eEFIVnNvM0xmUFZ3dV9CVkV5YVBMSkVZdHlVUnRaX1JTUm1DWXNBN0ZuVlZ6N3lJal9lNVVWUGwwZ012eFRzYnBPUVFyV1p5MVNXNGhoZUpobHR3bk0xeUZtTWl6eFZEUmYwTXBEeDdJakRUOGfSAcwBQVVfeXFMTjZzZFVvaUNlU2lLZi1vTGtDakNvbXlJVERLU2szS21WMkdpNXJZZXhiVUJya2NtY0V3YmktSF9MOXV2bGxLZHlvMzJ4X1F0bTVfQkxEU3VzT2paZGlxTWZ5UDVpbEJxYi15VzI4NlViLTJfVnBnN1pkdTB2ZWRRdjlrcFpsOTNLRTZpMnFkb29ZcHVsMG5ISmE2S0U4d095Rklka2pVZVdEWDEwRmVHTHE5YnE0SzM3TWpoZmdQWDBoM1FmSktmUEN3ZTJB?oc=5"
         }
       ],
       "keywords": [
@@ -673,49 +716,6 @@
       ]
     },
     {
-      "id": "26cfc6ac44c3",
-      "title": "Quatro em cada cinco idosos com demência no Brasil não têm diagnóstico, aponta estudo",
-      "published": "2026-05-22T14:10:58+00:00",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMzJCTWdBckNPSmFvdmNOZlRfaG1PcS1yMmhPNkFodWVaVEZ5SWUyOEFhN1JlXzFac0JxSnNtUGNzNTNreXhOSV9ZUUI4WldQYXMxRmsxbDU3SzRJMXp3SGdmSkRydURkeE0wMFJjNjVBS1EwWklmV1R6cDBOcHAtQWdPTXVUSGRoTzNXWFpWLTY0WlppN3EzekhJdUJXVENWNzVvUk5sNEtMVXd2Z0JsOXRpYTdpVnpfVnBLcUNSNGgwN0ZVZkZ1QVhTb2xGMWFXdEHSAeABQVVfeXFMTlBMNXJfTnV0Vkxtblp2MXQ5NUU5MTRQbjZNekhyTXdwQjloMzFYTFdfemlYVmpWVUFtX3UtRnVONkp4V2YwUXFwWHUtcm1tdWRnZzBqdTVELW1TV2ZHZlVrMzBsMUJZcmJ5bFMteXJvNFRlaHREaFZjXzdJZlNDVFRvb04yaVZYbVFIbzBkQjhVZVpzN2lOcnRfT0ZCV1FCVXpEc2dmX1loNFMxTkN3bUFmS1JFcHNZaEU1a2pYVGx6Q0NwTDZBcl9JS3FSa3pQQzZCYXBtaldSUVlYU21aaUM?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        },
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "demência",
-          "related_drugs": [
-            {
-              "slug": "biperiden",
-              "name": "Biperiden"
-            },
-            {
-              "slug": "entacapone",
-              "name": "ENTACAPONE"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "albendazole",
-              "name": "Albendazole"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "6830837d7572",
       "title": "SUS adota novo exame para rastrear câncer de intestino na população",
       "published": "2026-05-22T13:52:24+00:00",
@@ -1115,6 +1115,26 @@
       ]
     },
     {
+      "id": "85e92eb4b2f8",
+      "title": "Dia D de vacinação contra a Influenza acontece neste sábado (23) em Catalão",
+      "published": "2026-05-22T13:19:25+00:00",
+      "sources": [
+        {
+          "name": "zapcatalao.com.br",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZGMtejhBZFJFR0FHTkZhZUhwc2NWU2t5UjVIRmVUS0ZpVm5ValdVbFZhRHBZVWNjd3NCdGh5STRnSmlGNHNURFFjMWhwZUhnWU1ralVwZGcyWExxblVjWEZUdENtZFQ2MFVSVGYtaFFkUGVhdlBxajRlRi1JT3hpaEo1aWE4ZjBfb0R6YU1aX2F0Tm45WV9WbzY0NFhUU1ZLdWU1Y2JIeDA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "levetiracetam",
+          "keyword": "TAM",
+          "name": "LEVETIRACETAM",
+          "url": "/drugs/levetiracetam/"
+        }
+      ]
+    },
+    {
       "id": "d203b2fbf307",
       "title": "Padre de Guarapari revela diagnóstico neurológico e se afasta para tratamento - Tribuna Online",
       "published": "2026-05-22T11:59:20+00:00",
@@ -1242,13 +1262,13 @@
       ]
     },
     {
-      "id": "b5283c846839",
-      "title": "Corpo de mulher enterrada no século III é encontrado por arqueólogo - CNN Brasil",
-      "published": "2026-05-22T03:12:12+00:00",
+      "id": "cacdc3c38f18",
+      "title": "Humanos evoluíram andando como um gorila? Estudo revela pistas - CNN Brasil",
+      "published": "2026-05-22T06:33:28+00:00",
       "sources": [
         {
           "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaXFFdGY5M09lMWE5WVpPakxKdGlRUHZjNHA4VU9vTnJ5TkFlMFdObFBKeGtzOUpMWkhjdHRuUnRyN1FlNy1FbDlzSEFUanJzRFJHNWpsYW9ncF85ang0VzhNeWJzbWJVZ2o3U3BnYVlxWlRTNFhDOTZ4NEFzSzR1WFU2eGFtVDBFMl95enpvQjFsR0dUT3ZVSy1hSEg5ZVB3M2ZoU1JIMTE?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbzdhY2pLZXVHU2Q3RHpzNnJGcDlna0YyQmdPRzlRUWcya3RFUlk4dGNxT0Z3M2l1YVZvc0dRWUtEelN4WExPUVNFMDN4SVdaSm1neW96VmY3RnZWeW80N2JYN3g3TEM3WlJZSEdHUHZwU1JHMWxwTUJnbngwZWU2V3Fod0VPRHVCRkRjZFdMZ2ZSeGlsNy12ZjFLbmM3bFJs?oc=5"
         }
       ],
       "keywords": [
@@ -2194,33 +2214,6 @@
       ]
     },
     {
-      "id": "692233ce579e",
-      "title": "Como os espinhos farpados do ouriço-caixeiro amazônico revolucionam a medicina moderna e garantem a sobrevivência da espécie na floresta - Revista Amazônia",
-      "published": "2026-05-21T14:59:25+00:00",
-      "sources": [
-        {
-          "name": "Revista Amazônia",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQSnY4NTkzOUFVZ29CTjV1VTBYaUMzUmVJclNPSWkwNTJQMUN1UVhVam9ZVVdiWkx1cTE5VmRMTDhHMUJ6VjdmSVpXUnpFQXdKWmhfUVk2THh6Yy13VHppekZWcnVNRXFtZWR6Zll0R2RlRnVQdjZQVVJEeE1nd2Q0amotWlRYMkxFLTd1LWxEd0pUejRiTE9YeFU3ZnNKUHRpZDJzaU9oSW9mM0xHYmlqNHhoVjRCQktKUGZtejJQQmhsblY0ZDdqQUd5Vl90QjlBeklia3RhUi1aQmVDUW5DZkdHQXREUVRCajdYaFhwOHJsdjJqbUhPOUxsY3I?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "praziquantel",
-          "keyword": "FAR",
-          "name": "Praziquantel",
-          "url": "/drugs/praziquantel/"
-        },
-        {
-          "type": "drug",
-          "slug": "zidovudina",
-          "keyword": "FAR",
-          "name": "ZIDOVUDINA",
-          "url": "/drugs/zidovudina/"
-        }
-      ]
-    },
-    {
       "id": "5db89fc5d6c3",
       "title": "Com apenas 30,7 km² e 404 mil habitantes espremidos numa área menor do que o Aeroporto de Guarulhos, Diadema é a cidade com a maior densidade populacional do Brasil - CPG Click Petróleo e Gás",
       "published": "2026-05-21T14:42:00+00:00",
@@ -2268,53 +2261,6 @@
       ]
     },
     {
-      "id": "89dd57a746a5",
-      "title": "Adolescente canadense cria tartaruga robótica com IA para proteger oceanos - CNN Brasil",
-      "published": "2026-05-21T07:15:53+00:00",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVURmcFVITEJmLTJuV1o2T2E0b2lOX1V2cktESmFObmsyWDRzMF9rMmF6QXo5bHlUMi1NUVpfTWVTTU8zZ1IweTVEaTBpRFZQcVk3V19vcXJTaVBsX0E1ZWxnQTNJaWFjcHlDc25sdml3QkJDMUpuRnR5NHBGVkNCaHdDakZ1THBpb0g1SHN3MEhRcUtILXQ5NS1BdXRyaF9SLVhuWGNfN3Q0bnZDV1A5aTBvZmtpdw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
-      "id": "7b0697c26fe8",
-      "title": "‘Torção’ magnética: Cientistas encontram estrutura gigante oculta que ajuda a manter Via Láctea unida - O GLOBO",
-      "published": "2026-05-21T07:02:18+00:00",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNWEdScUNCbXVSam1ramlsWmtQTjJTS2pBVzBlN1B6UVVVLVBsNDh3MHVraWhscDgxUmlGbXdUdHJxYjc0azZHeDlxQzhINkFkMEQ4Mm0tOWJfOTM5aXBjMzBHSHNtMTc0eXAzRVlpLV9ZbFI5OThJUVpTQUROLUdnTG9ReW5NYlZlUEVBUi1OblVZOEY4bjFHWGxaWXN3UlV6Wk9lbGh5aWVPb1d5VHhaN2dtS0FFTGpJZFBPZzRiYVZhV2s1VWo0cWRoMURTQzhaSFVSMVoxN0E1dmN3YWpuRDI2QXpOUndUU2hvV0VTWWZEaUU5MWkxWUhudzPSAYsCQVVfeXFMT0YyRkwxX1k5UFZpVU05UGRaaHRsZ2FUS3lQdXItaUdEWjAtTVFOa1gzV3Q4Q09RNWRKc2NSMkZVZjdpVnlxbFktcEtjazJETUdKSFF6ZFZCUWhKaE8ya2RCMFdERVU2bFZfV0Y5Z2NHNDVPUEJVMU14ZG1XVExJZTEtT2dXWTV3Q2F4QmhkUGZ6ZGdEdndFcGlZN2dLYnFKdFJEWkhiSTNlT2JEQXNfbE5meS1xRndRU2NUVVRzYURmd1pwTXBTMXdoSG81V01UYTZ0UENCNHVoQWotai1lR2hDaWVRbC1hQldDWTZ4ZzJjZUJDZkFMMEJScFZxdFpfWEhScThTRHlIa2xV?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "diazepam",
-          "keyword": "UNI",
-          "name": "Diazepam",
-          "url": "/drugs/diazepam/"
-        },
-        {
-          "type": "drug",
-          "slug": "zinc",
-          "keyword": "UNI",
-          "name": "ZINC",
-          "url": "/drugs/zinc/"
-        }
-      ]
-    },
-    {
       "id": "61eb90fbb5df",
       "title": "Cientistas tentam descobrir por que cada vez mais jovens sofrem de câncer no cólon - Extra online",
       "published": "2026-05-20T17:41:27+00:00",
@@ -2331,6 +2277,20 @@
           "keyword": "TAM",
           "name": "LEVETIRACETAM",
           "url": "/drugs/levetiracetam/"
+        },
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        },
+        {
+          "type": "drug",
+          "slug": "tadalafil",
+          "keyword": "CIALIS",
+          "name": "TADALAFIL",
+          "url": "/drugs/tadalafil/"
         },
         {
           "type": "indication",
