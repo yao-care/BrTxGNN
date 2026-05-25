@@ -1,10 +1,46 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-05-25T10:12:10.316129+00:00",
-  "total_fetched": 87,
-  "unique_count": 84,
-  "health_related_count": 30,
+  "fetched_at": "2026-05-25T14:56:56.524173+00:00",
+  "total_fetched": 91,
+  "unique_count": 86,
+  "health_related_count": 26,
   "news": [
+    {
+      "id": "b3624ec136c5",
+      "title": "Fonte da juventude? Cientistas identificam proteína no cérebro que pode agir como ‘chave’ do rejuvenescimento; entenda - O Globo",
+      "published": "2026-05-25T12:55:01+00:00",
+      "summary": "Fonte da juventude? Cientistas identificam proteína no cérebro que pode agir como ‘chave’ do rejuvenescimento; entenda&nbsp;&nbsp;O GloboCientistas identificam proteína cerebral que pode controlar envelhecimento e suplemento potencialmente ben...&nbsp;&nbsp;O CafezinhoCientistas descobriram uma forma muito mais simples de retardar o envelhecimento cerebral — e ela pode abrir caminho para novos tratamentos contra Alzheimer e perda de memória&nbsp;&nbsp;gizmodo.com.brProteína reverte envelheciment",
+      "sources": [
+        {
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQdkpkdXgxcGZ1LW03U3BjNUl1aVFzWENCWHozNzRRNGY1X2pfQzNwQzVRb1o2QnNFelJDRzgtdXQ2VWgzaUc4bnJiYVU2RzZBTEhyU3l1ZXdyUHBaTXFxdXUyeE8wTkdicm5Bc2kxcUlyQ0N0MExzVFVKZzFpUnUwVzkyLXgxb21JM2V6OFBSelFtZkU4R280MDdaTzJ4U25YVU81anlqdXA1Vk5RLW9BZHBXV2FBWVNqdjZaUDZpU0dZMy1aUXJubGNnY1BhWklrcWYyQU5XcGFUQURMV1BJcDNLTldsZ1ZKdkhjbDhrWk9BSks1Y0k5Qm9ZbG0ydTTSAY4CQVVfeXFMUHc0VUowUXluMk9FdHlaMnJJN1FUbDlOdV9fUGxuQ2w2a0IzQkE2cXM5RGh6dmgwcEFiQnhyLUE3RzJCeVpmQThDVnE2MGM4TGpaZF9OX3REakNnMnBxck4yWWdHM3NGY2xHajRxRnNRcE9xSGxzN2tZc21qNUo0cllrV2hvb05UYVRJSWhRVUc0bW9sMmt4bU1CWDFPSExoaHhXUzBkUGEyUUY4LVE0U2ZyYmhWbE1wck9FSjVNMExrV3JsNEU2b0l4bHlrdU5ZTld6d1VzLTFob1NRZ1pTc0pLM1l4OTVWY05oWG9nQkRZUTF2dHgzMERLZDV3aGJ6clVpdTVBZ2xqMWlMR1dR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "279394155cd1",
+      "title": "Nova descoberta de fósseis reescreve história da evolução da vida complexa - Olhar Digital",
+      "published": "2026-05-25T11:28:00+00:00",
+      "summary": "Nova descoberta de fósseis reescreve história da evolução da vida complexa&nbsp;&nbsp;Olhar Digital",
+      "sources": [
+        {
+          "name": "Olhar Digital",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNXzBkT2FiOS02TzN1R1MtNzVyNmxwZjdPZW5SWEtnRzFKQ3R0aGNJWFdiVWdKc2NvT2FldEZCVlhvVzF5VDlRbVNtNVBBckE5blNXSzV3VmdUZk4yVGVyOG0wanUycFRpVDBEZC1kVVBiZkkzbDUwbGNVaHNxZTI1dEI4TEJ1N0pkd01uenVoeDVmRGRmaGU2bkdYMmF5UlFrZjU2WThBYjBmS2hJNXJ5emJjdjUxUm9HWV9SUVd6MEw3REE3ODNSMWVtbw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9f9e5f73dcb6",
+      "title": "Anvisa aprova novo medicamento para enxaqueca que pode tratar e prevenir crises - G1",
+      "published": "2026-05-25T09:53:05+00:00",
+      "summary": "Anvisa aprova novo medicamento para enxaqueca que pode tratar e prevenir crises&nbsp;&nbsp;G1Veja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU0pmYTJMSDNVc2J5Vzl3enFQLVJMVHR0TW9sZ2R1cU9EczQzLUdENW9jQXlUaWhjNjRQR1JRLUl3Q2hhQmFqd04xVWEtMlhha3lxU1lBWnp1cXRPSHY5YWtwSmxZdEl3T3k4YmdsQWFKeUlOb01HWVBrZVdweG9DYzVDUGE4U09vSjF2eWlyYURnRUN6YlRVS2FCQlMzRmpSQkdVN05uT0J0LUpvcmNkS0JyamXSAcMBQVVfeXFMUElHWF9kdlc4eUk0ZWNFSFBHaWJ5TW5LWjdZN19EYnYtZWNNeUFvYkc2eDlucnE4dGZHa2RHZ1hjQ1F2V283QWowdUJJRzQwdDhLeEhjeV9aWEZDZU1sM1Nud2RzUE5xYm40Y2ZCZjhLUFp3Yi1fb2tKLVVSRFZHRUJzMXhOWjh4TTNFZ2t6MnJ4ak9uVXkyOVZ5Y1VfMkN4ckRld3FfRWdvTmFNbzJuWGt2QkMtQWNDUU1zdl9DbTNlc0ZN?oc=5"
+        }
+      ]
+    },
     {
       "id": "419902d3beb9",
       "title": "Estudo revela o motivo que faz cães inclinarem a cabeça e surpreende cientistas - Super Rádio Tupi",
@@ -14,6 +50,30 @@
         {
           "name": "Super Rádio Tupi",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR19YUjhPZzNwbHN1anRxNFVHenMzcUw1eER3RFFodk9OYm9zT3BhSDdpcVM3ejNfUTd0em9KV1hsd3pOTTM4TkRRam0tT0xkMnZwS0ZtNzktZ1lBTzU1LWxkYmItRjV2eUV3YndNeE8zVzRMTVR4S1ZYeHZ4Zm4xMVRXQ25RUnd3YldwTXEzOWM4SURPSEtUYzVzSUNhTWlXWm40ZW1RSVZDcnZ0RFNKc2w0RVphZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "95352a6b168d",
+      "title": "A vitamina que o Brasil toma sem saber se precisa - O Globo",
+      "published": "2026-05-25T07:30:54+00:00",
+      "summary": "A vitamina que o Brasil toma sem saber se precisa&nbsp;&nbsp;O GloboVitamina D: como tomar sol pode ajudar a reduzir o cansaço&nbsp;&nbsp;UOLA falta de vitamina D no organismo não se deve apenas à falta de sol, mas sim a problemas digestivos crônicos como inflamação intestinal ou irritação do fígado&nbsp;&nbsp;Tua SaúdeTomar sol ajuda muito na saúde óssea, mas o benefício real para a síntese de vitamina D só aparece se a exposição diária for feita em áreas maiores do corpo, como braços e pernas,",
+      "sources": [
+        {
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa0FfcEpSbDhkMDVKMVFnVmd3SGNLVkltcVI3YTVVNjFsVTV3dHFqWml0YmJLaGVpV1RLVmJvVVZVZUVwN3JPQzJ3UlhESXc2bVFuU2NzWi1PaUlmcWxvRG5EYkZqdHZaZnRWbkpVR2FtbmJ0LVl3dzJFNjZrMWx6M2dfZWRETHQ4U2g1cVZXWERSYUlqMWhfWWRqZUc5MG5uOGFPQkpUc2trZVFuRnBWT1JaWUTSAcMBQVVfeXFMTWRaN3hzS0o5REV3eGplbi13OE9yOGhhd09sQzdsbGhLYjJ0TmdHbFJlbjNPel9kYl9od2VCLTROZm5idEwxRy0yTG9IMGFpX3FyNlVmSmJUenBObXRSYkcweWFxYmxqa3Q4OTlEa01wbDJPYXhfOW90MVh2YWZWb25IcWk0U3RQT2t2aVVzaU85T3EzenZobHk1NzZrcnRDdDBjdUNCZWoyTkVKOE5SMk5tQTNiTFktXzM1amhGRHYxWjgw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0e9dda1e9973",
+      "title": "Neurologista revela sinais \"silenciosos\" do AVC que muita gente ignora - Metrópoles",
+      "published": "2026-05-25T05:00:00+00:00",
+      "summary": "Neurologista revela sinais \"silenciosos\" do AVC que muita gente ignora&nbsp;&nbsp;MetrópolesHemorragia cerebral em jovens: Não a subestime!&nbsp;&nbsp;Vietnam.vnVeja as dicas para identificar os sintomas de AVC e ajudar no socorro imediato&nbsp;&nbsp;Jornal da FrancaCasos de AVC entre jovens acende alerta para sintomas ignorados&nbsp;&nbsp;Jornal CorreioAVC em jovens cresce no Brasil e especialistas alertam para sinais ignorados&nbsp;&nbsp;Fala Você Notícias",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcmRmUlB6ZVA3dVdGaEVTNWhDTnZWY0tFeUkwdmxKeC1MOE5obEp4eE5qR3JNMXB4Y04xUmNPbnd3YUpuQzUyejdpX3MzcVlFam5CeTBadDZQbjRIRGVLWUMzeTZqQjV0UHBBRXctVVJ4QzR3dmZwbmhZaS1hc3RPaThvUEZycUdJMHZrc3M5c3pmUkd0ZURtRmhhVVFPSU5OZTZwWjZ6Y1VQRUkzdENQSl9oRUo3YUJLX2dzNA?oc=5"
         }
       ]
     },
@@ -42,30 +102,6 @@
       ]
     },
     {
-      "id": "415220a215e7",
-      "title": "Pesquisas de opinião: técnicas para influenciar pessoas e direcionar respostas - Gazeta do Povo",
-      "published": "2026-05-24T21:00:00+00:00",
-      "summary": "Pesquisas de opinião: técnicas para influenciar pessoas e direcionar respostas&nbsp;&nbsp;Gazeta do Povo",
-      "sources": [
-        {
-          "name": "Gazeta do Povo",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMGhhWXc1RzhCemJXbHUzMGRmVUoxbUE3SUxhT2ROdU8tNmdHa2RITzgxUld0SFlXZnR5QllMbFV6eHFrc0drRVBCM01QNVhlTlJTdmFnRWdZWW9pcS1Wa2NfT00tMVNpdlVFREZzV2RSUjAtOW84QVphNHIyNmJFS0plbjZqdll1YkJneFRxLVBLRGlMdy13cy1HZjBTSUU0T1ZYWlV0aUkxMGNpc0NnQTNGX29fNTIwTzU4QWd3UXhLanJjemQya09R?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c1ab6141de5f",
-      "title": "Viagem astral é relatada por 1 em cada 5 brasileiros em pesquisa - Alagoas 24 Horas",
-      "published": "2026-05-24T19:50:00+00:00",
-      "summary": "Viagem astral é relatada por 1 em cada 5 brasileiros em pesquisa&nbsp;&nbsp;Alagoas 24 Horas",
-      "sources": [
-        {
-          "name": "Alagoas 24 Horas",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTDRwekljcHBmSzVLX05LSkdxOW9NYmZJOE5IaDNDM0hWODdXWmtKUGtmOVIzNmxkc01XRWc1NjktOEZBS25HeUhrSjNhcWdwcFhSX01hRXU2b0I2ckxRamsyQmpTSV9mclBhTHVTOG1tN3l4ZTIzNF84S3BBSGNSTjNJWWFjUXhnWHc5aks4SFpvQnQtM1d4d2VpOUNrMVlSVU5YcHV3SVh4Ulk?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c6d9f5626d82",
       "title": "Estação Espacial Internacional tem 109 metros de ponta a ponta, dá 16 voltas na Terra por dia e percorre uma distância equivalente à ida e volta até a Lua em 24 horas; laboratório orbital mostra a maior estrutura humana habitada já montada no espaço - CPG Click Petróleo e Gás",
       "published": "2026-05-24T19:26:00+00:00",
@@ -74,30 +110,6 @@
         {
           "name": "CPG Click Petróleo e Gás",
           "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQUXhHSkZDLWh2QTVmdl8zdlIwS3piR1JXRG5uQ2ZZTE9uSHI3YzEzQi1TMThlVUR6Z2FUeGVHdUN0V2RTSE5DSVE5M0o0Vko1MHV3UzFVN1A3bHAtWm00ZzFrNUp2Vmk3RkF2TUZwbTJGU2lqOVdWT0pmOWZOXzBhQ2RwbG42Yk10Y1VaUjEzdzBhNEM3UFFub0plTlZVOVZPMXZhc21IUlM5c3JLNV9WemZLYmJUcVZOeEVJLTRNZUFxUkJTYU1Fa3IyNldxUWpLemhhRjc2Ymxrb1pfM3YteWpUQmhua250VzlUcHdCS0w3R21fTkItaWVZeGdUY19md1pfRC1CQk05ZS12TjFoQU1LV2lPNlBYTmpPc2ZDbWstOEtxSWJLMmZwMUVQZGhSSnk5Qkw0VU9OVTFNTHhxSmpZblNrVmM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f3df9fc3eb3a",
-      "title": "Califórnia busca nova solução para risco de explosão de tanque químico - CNN Brasil",
-      "published": "2026-05-24T19:11:42+00:00",
-      "summary": "Califórnia busca nova solução para risco de explosão de tanque químico&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOUowNDdzLWRFanlOTEE1YjI1TU05eVdRRWNyTmZ5LVBGaEFVRWZsb1BvR1dqNkU4MDIycjBxVU9jXzJUQ3dfcmc4eFVGMGhWdzZqeDAxYmowMTByQmFHRTRjZlJSY0ZUTHp6OGE1YjFCWm80MG1OOW5SYkNSQTBSUXhMVElWc3NyTkJVNjF4cmk1VVF6WEgwVWhLb3l4UnpWcDJiRk1jZzZOMEttMENuRG5ROXM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b342f7503c87",
-      "title": "Maior aquário de água doce do mundo está no Brasil, impressiona com 5 milhões de litros, 380 espécies e vai sediar congresso nacional que reúne especialistas em biodiversidade, conservação animal e pesquisas inéditas com mais de 100 espécies reprod - CPG Click Petróleo e Gás",
-      "published": "2026-05-24T18:41:00+00:00",
-      "summary": "Maior aquário de água doce do mundo está no Brasil, impressiona com 5 milhões de litros, 380 espécies e vai sediar congresso nacional que reúne especialistas em biodiversidade, conservação animal e pesquisas inéditas com mais de 100 espécies reprod&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQN3EyZHoxQ0JqdFZDQ1MtMDR5VmJLeUlEaTRUQlRpWjNBSUFYb19ybDNlSE5BbmhVWEJCQjg4LWVfdEN1ZVRMLVBEUGZ0b196VUZXTjl5R1gyU0FMZmEyUURZMU9GWjhrakJ5YndYWlpRSzA0bEYydm9LbWhCZy1QRy1jSnRZSTRwcjFPR0dHZVQxREJFdHluQW1pZWJxT2JwakpjLTlSLVBESURoQ21VZTJCZUU5ZTJYRXRuWWlTbW5SZVhKUW90eTNZenM1V2lDcDZzSFo2c1NUTHVHZU8tZlFzdTBqVlVZMHE1T0RBX0RMbU1xa0RUQ2FCM3U4clZLTzloU0JWaFZIZUlWaHhMQ29lRVFjT1ZFLWlCVWFQdHVnRXQtN3h1ZlFVWVRvZTFHb1gzRDIxdFFnN0xfZ0JQQ19veG9lRUk?oc=5"
         }
       ]
     },
@@ -200,7 +212,7 @@
     {
       "id": "781102b621a2",
       "title": "As 5 descobertas arqueológicas mais recentes sobre Pompeia - Aventuras na História",
-      "published": "2026-05-24T12:00:51+00:00",
+      "published": "2026-05-24T12:11:12+00:00",
       "summary": "As 5 descobertas arqueológicas mais recentes sobre Pompeia&nbsp;&nbsp;Aventuras na História",
       "sources": [
         {
@@ -213,7 +225,7 @@
       "id": "ad7b63b55801",
       "title": "Rosto de Ozempic e Bumbum de Mounjaro: Os efeitos das canetas emagrecedoras - JC",
       "published": "2026-05-24T10:23:00+00:00",
-      "summary": "Rosto de Ozempic e Bumbum de Mounjaro: Os efeitos das canetas emagrecedoras&nbsp;&nbsp;JCDescomplica Aí explica sobre o uso das canetas emagrecedoras&nbsp;&nbsp;G1Canetas emagrecedoras causam pancreatite: mito ou verdade?&nbsp;&nbsp;R7O aumento do número de cirurgias plásticas reparadoras pós-emagrecimento promovido pelo avanço do uso das 'canetas de emagrecimento'&nbsp;&nbsp;Jornal do BrasilMédico de \"Quilos Mortais Brasil\" sobre canetas emagrecedoras: \"Ferramenta\"&nbsp;&nbsp;CNN Brasil",
+      "summary": "Rosto de Ozempic e Bumbum de Mounjaro: Os efeitos das canetas emagrecedoras&nbsp;&nbsp;JCDescomplica Aí explica sobre o uso das canetas emagrecedoras&nbsp;&nbsp;G1O aumento do número de cirurgias plásticas reparadoras pós-emagrecimento promovido pelo avanço do uso das 'canetas de emagrecimento'&nbsp;&nbsp;Jornal do BrasilMédico de \"Quilos Mortais Brasil\" sobre canetas emagrecedoras: \"Ferramenta\"&nbsp;&nbsp;CNN BrasilCanetas emagrecedoras transformam hábitos de consumo e forçam adaptações no merc",
       "sources": [
         {
           "name": "JC",
@@ -230,18 +242,6 @@
         {
           "name": "Farol de Notícias",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRDVSRVJBRzREajkyRGFYWEYyQTctNmpPa1BDdnlDUHZjRDVXU2g4S2hRZ2NkdExYd2xqU0JQMFV4WVVmMXoxS1kzbGs4djd6NXhUYUZfM2p4TGdhSGVGTDZnbVBZeE1uUlEyVElpbHg0WE1fbTc1VXRJNUdPZVYyNkpqN1hUdmhDcHBDOF9ZeW85dVdYa043QURTUTlMRG8tN0VlX1JyYkdFeVlRQXBZ0gGvAUFVX3lxTE9ENVJFUkFHNERqOTJEYVhYRjJBNy02ak9rUEN2eUNQdmNENVdTaDhLaFFnY2R0TFh3bGpTQlAwVXhZVWYxejFLWTNsazh2N3o1eFRhRl8zanhMZ2FIZUZMNmdtUFl4TW5SUTJUSWlseDRYTV9tNzVVdEk1R09lVjI2Smo3WFR2aENwcEM4X1l5bzl1V1hrTjdBRFNROUxEby03RWVfUnJiR0V5WVFBcFk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b5186d354693",
-      "title": "Caixões lacrados: por que algumas doenças exigem enterros especiais - Metrópoles",
-      "published": "2026-05-24T05:00:43+00:00",
-      "summary": "Caixões lacrados: por que algumas doenças exigem enterros especiais&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JcVhZenQzQkNoMGdtRHpXeWNxMk9xVTRSZDRzU2w1X2hKQW9OdkVEajJNZTZ5UFhGc2NydEFLXzk0RzdhTEpTXzlVUVJibnJ2QWFEY1FQR2NXQWlpS2JhTTZZRXoyY2pYb3RUQlVNaTc2WVV0TXpaSkVFajFmZlE?oc=5"
         }
       ]
     },
@@ -270,54 +270,6 @@
       ]
     },
     {
-      "id": "3a2c128fd696",
-      "title": "A descoberta de um dinossauro com “vela gigante” está fascinando cientistas e fãs da pré-história - Revista Oeste",
-      "published": "2026-05-24T03:05:00+00:00",
-      "summary": "A descoberta de um dinossauro com “vela gigante” está fascinando cientistas e fãs da pré-história&nbsp;&nbsp;Revista Oeste",
-      "sources": [
-        {
-          "name": "Revista Oeste",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUU1Sb19qWHJJTk5tTjEtdnB6MktjOV9jYnRydzFtdTlVRGc5ZlJyRWNiS0xObXliazFXNVh6Y0NXMjkyRXpSNkQxRzU1RTVlTjhNdUc4eEstS0xUSHc4STR4bjNKb2dJbGRiZWlYM0dpb3lyZUJhdmplTnlocllxeEVPM25RWVFQQWdCUE9UOGpnQldFSXowV3MxUE4wczlEYURHV3h5TjhNMkZaZ1FYY01GVHFQWXppdEFiSENSMzVWLUZORkNXMklNalVuYWlEQ3BBWWVLTkpIczQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "581f03ebf736",
-      "title": "O fóssil encontrado durante um simples passeio com cachorro acabou virando uma das maiores descobertas da França - Revista Oeste",
-      "published": "2026-05-23T20:05:00+00:00",
-      "summary": "O fóssil encontrado durante um simples passeio com cachorro acabou virando uma das maiores descobertas da França&nbsp;&nbsp;Revista Oeste",
-      "sources": [
-        {
-          "name": "Revista Oeste",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPS2p6VVlKaUhXU25Zc2U0c2hVNkhvODl1OWsyanRobXJ4eGZNWTF2UTZtZXd5SUxIUVJNcTBlbFBCS3RrUXpsRXJxSWNQbUZ1VzNyY0JMemhWZDFXM1hrQlM2MXJ1bi1Wb3pLajRma3NYSHRkQzdhNDRqQlVVa0xNYVZ2b1oyQUszWk9uM0xvWGF4TWJBenJCV2tVYmg4ZFpCOXJ0Vl9uYjd6RGVLNkRsSjY4VWhfMkF2YnRIcXViNnRIMmlOTi1xcmt0X1VrNmN0aVVLRVF4TnBtakZJbjMwY2FiNG1DRzBONG1wU0xXZ1dqUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ce0a427c28f1",
-      "title": "Pets fazem tão bem quanto amigos e família, aponta estudo - CNN Brasil",
-      "published": "2026-05-23T19:37:08+00:00",
-      "summary": "Pets fazem tão bem quanto amigos e família, aponta estudo&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPblVWOTliQ0lITlUzNm1fd1V6RTJuWFpLMEVGbDdJeWU4VnlrMi1FNmVycnQ4anI3djRnSWk0R0hReHJFQkFyQjF5RDZTYnZza2cwMUYtMGVrNGxaLU0wUFBEb0psdHJzXzItYTJPc2QxYXpia2hrZXRzVl9WTUtYOGpjV2ZOdlhOSkxkai1rUVpxdlg1SHUw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "beed603e0800",
-      "title": "Adultos devem fazer até 4 vezes mais exercícios, diz estudo; veja número - InfoMoney",
-      "published": "2026-05-23T19:30:00+00:00",
-      "summary": "Adultos devem fazer até 4 vezes mais exercícios, diz estudo; veja número&nbsp;&nbsp;InfoMoneyPara melhorar a saúde cardíaca, adultos devem fazer até 4 vezes mais exercícios que as recomendações atuais, diz estudo; veja o número&nbsp;&nbsp;O GloboDescobrir quantos minutos de caminhada por dia podem ajudar a prevenir ataques cardíacos e derrames.&nbsp;&nbsp;Vietnam.vnDez horas de exercício por semana protegem o coração muito melhor&nbsp;&nbsp;Tua SaúdeMicrodoses de exercícios contra a falta de tem",
-      "sources": [
-        {
-          "name": "InfoMoney",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeU5wQXBnZUdraC1PNkVlSDZpNEFRdVdmTzE0RGdiR0g1b05MaElVS2xpaHJHQjhWZGJydUUyd3dSQWtlWUQ5X2NjdEhIREYtQllQTDIzUkFKSnNqSDVKWUpoVlNjUk9wRWNGS2xzd19RMmdEV1BfQm1DeG9Kcl9nWk9lTTBzeFAtUDNTdVdLZTIycmZSdDZBdnJsTHNHNi1UaWRwMFVyU1BJcVBoWnfSAbMBQVVfeXFMT1RSaWtNd19CU1duOEpRT2FqRjVYcWRqckZnbHZGeDNNdVhaTDB2U0tuV3NMTzB2NXZmQnJsY0hlYUVzbjNVdFIwU1dXd2N0a0xTNFk1MlM0b25GOXBlREhYQktFVnJUWi1ncXNUSE9UQU1vN3VZd3dfeWl2eV80T1Y0dWJNbVVUekl2ZkUySnA5MkpOVjdOTm9heEVSanpYcjU0TmJNemZpUm9qRGg5M2paS00?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9b107d5ab2df",
       "title": "As pessoas mais bem educadas costumam nascer nestes meses, segundo estudos - Portal 6",
       "published": "2026-05-23T19:29:12+00:00",
@@ -326,6 +278,18 @@
         {
           "name": "Portal 6",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOXzVORENudnNUSGJCYnpTRy1GdnRRcGZubmNEYjE2T0MwR2hrSVl6d1JyRTA4Q0tKUDg4a041R2U5bkk3dDhLZ0JyQ09DOWpCbFpjRzdUaTdKY0g4UGdBQlIwVW1iOERwNjVNUFhiQzd1amRQSU9XQnNUYTEyeFE4QXJTREhoVTg4dVo0aTZVMVpObDk2M280bzEyZmt3N1d6N00yLW9KRWw1TkE0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b8f2aae29e75",
+      "title": "Equipe de cientistas faz importante descoberta sobre a bactéria encontrada nos produtos Ypê; entenda - Folha PE",
+      "published": "2026-05-23T15:32:00+00:00",
+      "summary": "Equipe de cientistas faz importante descoberta sobre a bactéria encontrada nos produtos Ypê; entenda&nbsp;&nbsp;Folha PE",
+      "sources": [
+        {
+          "name": "Folha PE",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUHdKaXBsVW5lTFU2dmlJRXZjVjJ6alF0WjE2aHJqazQ5dUlROHlaZURTekpJa3JMRW1ubFo4S3JoTDZUZkJpOFBZZVdzYi1FUmhvcnpUaWZmY1c5VzNqWFRKX1B2UWtxODdIRU9zNUEyZW9ONTRhdXVjN2NFZjJlWjQzdnZPNEpST1dQWl9wM0VhbmFUVEp2NXMwVzFSVlNoa2ZndGlkSlVJd0nSAa8BQVVfeXFMUHN4cXJIWFRXOUJqWExIMVdiVnljMEtKY0RBcGJwZjV5cTdaemw3d3BuV2pnb04xZmt1QWxfRFFJM3NXNldyYmpZcEdRVUJkMzd0YmNoWVVNeXQ1d0paQkhqd1pJdmlzTFRZTzFtazRaUW45MzUtLUxUNGNQUDRfSjlYNFlZQkZUTk1hRXNBZm0zVC1jRjBYbnVoRnFhUU1DU3ZrTzhGR3lmUlNlVTZzaw?oc=5"
         }
       ]
     },
@@ -350,18 +314,6 @@
         {
           "name": "O Globo",
           "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOeW9JOEUtclVjLWMteW5NMW5tZUMyaFFvZUFuR3I2NnBVSWcyLXRST1FKSGg4V1hVM3FoRG14dWlkYmpDU3BJc2NhbDhpN29weFZycWJIOHh0UHJoYlZxaXl4dHlVZ09uOFFsNW5fdE9tY3VBQWs4R2QyVlVkbm1za201S3ctOVlBWVdDRGdRR184VTI5QjU2Z1k5ZHhrME9uaWh0S25QZUw4WFN6Yk9wWmloS05QX3RsajJpNV80UTJlVmJnZ25FZF8yN2o1X0NkYVB2NjNZUEFaSm0yRmpuak1rNjBVTGMxc3dJ0gH6AUFVX3lxTE1HclZvR1ZWNi1uTlBBOFBmVVo1YjdWWWVUYlNlM2F6b1VVajBIWVFZSWotN1A4RXVuSXZvdEVsR2lzMWVXMkJtZkhjbm1obzRPazVCbGpmYkdZY0UxWUJHbXZGNjcwaGlYVVZsSTRtNVZTMGROdFcxLTU5bkViY2NQZUd4b19WNHdKR29lYmVaaDZCYTJycEZHQWp5dFgtc1UtNVVBRzdYdDN4c2JiNHpadUhOSmE0WnEwY045cUdRQlppZzRlMkFBbEpYaGhDR3F2UnN4X1czbEY3S3dmNlRuSlpPX2JqUEhhc2F2T0lFSzBGX0VTYkVYSXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "120d74afc91b",
-      "title": "Fortaleza confirma 11 casos de raiva em morcegos em nove bairros; veja lista - Diário do Nordeste",
-      "published": "2026-05-23T12:30:40+00:00",
-      "summary": "Fortaleza confirma 11 casos de raiva em morcegos em nove bairros; veja lista&nbsp;&nbsp;Diário do NordesteFortaleza registra 11 casos de raiva em morcegos em 9 bairros; veja quais são&nbsp;&nbsp;G1Fortaleza soma 11 casos de raiva em morcegos e reforça alerta para vacinação de pets&nbsp;&nbsp;O POVO+Fortaleza registra 11 casos de raiva e reforça a importância da vacinação de cães e gatos&nbsp;&nbsp;URB NewsMorcegos com raiva são encontrados em nove bairros de Fortaleza e acendem alerta para vacin",
-      "sources": [
-        {
-          "name": "Diário do Nordeste",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOM2VrMGlXVks0RTBvZkg2Y0dOQzNscV9VM3NmU001VS1ZSnhMdzY3UDNBdEt1cUJVeHU1eVlBb1hmb0oxcGR2Mk5qTVVTSm9UMUY2YW9LcUU4MTRMVUEyTzd5NUR0akZXN25pRnczOUxxZWs3V1FUY2tzWktYYmtUZmtQX1Bqa0NrWEs4Vml1MXZkbE1sVDBZWWg0VHk1ZzM1SFQ0MjRoalRBanpvUmx5YktPTFhiUmRadWh1M1B1UVBTVHFFZzJ1VjBBZU5LeTBF?oc=5"
         }
       ]
     }
