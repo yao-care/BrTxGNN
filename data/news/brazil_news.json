@@ -1,19 +1,67 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-05-24T19:19:57.325578+00:00",
-  "total_fetched": 92,
-  "unique_count": 88,
-  "health_related_count": 29,
+  "fetched_at": "2026-05-25T04:02:24.157666+00:00",
+  "total_fetched": 88,
+  "unique_count": 86,
+  "health_related_count": 25,
   "news": [
     {
-      "id": "797e32610b04",
-      "title": "Mudanças climáticas já afetam 85% dos brasileiros, diz pesquisa - Agência Brasil",
-      "published": "2026-05-24T14:32:00+00:00",
-      "summary": "Mudanças climáticas já afetam 85% dos brasileiros, diz pesquisa&nbsp;&nbsp;Agência Brasil",
+      "id": "0b5e8811f552",
+      "title": "Estudo identifica mais de 30 espécies invasoras no Acre; veja quais - ContilNet Notícias",
+      "published": "2026-05-24T22:00:41+00:00",
+      "summary": "Estudo identifica mais de 30 espécies invasoras no Acre; veja quais&nbsp;&nbsp;ContilNet Notícias",
       "sources": [
         {
-          "name": "Agência Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdnp0YVpOS1JXMkZoT0VVRVBYOHlDd2FJZHNBdHZfS2FNRF90c0dJRXFlNThqN1ZiU1FBOVlaLVM1bENlMUIzcVFNNUNEYm4yUTVocnVMajJucGlNR1ZfRWoxUmY2WmRReG9Eb1VYdEpQMngtRzdndUp1RlNsUHVWNkl6dUhPY1lERUZMR0huRi1UUC15Zk9uOHZKYnh6T3ZLZXhCTzQ0SVRXeUx1V0VZYW40TjJQcUFla2RBVnp4cko0Zw?oc=5"
+          "name": "ContilNet Notícias",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZndOYTc2UGhlU1d2WUZCSWdYeUdaSzZhazB6UFlLNzJWZ0ljOENRVGtxX3RxTXRuczVkczRjVW1HNGZReWk4ZzVzTC1GR3c3OVBOZDdKUHhwWk1QYkJyZ0ExNTNSUENNWFFnVGlORGM0TXVfcTRGSXIyMVZLZkFfaG1LZWFmYW5DS01OU2ZYZUFfdXU2NWNFUnJNc3J2bklNMzVwMEZ4Y25ESkxrVmtjQtIBtgFBVV95cUxOdzB5cnVTV0ZIekxFbHlRWUpDR3ZTN0t4VzlwMG1qNHdIR2lXU2ZPODMzTjFvUFlCMjNkdW40OFlHZHV5SURnZ0p5YXFMdTZxeFA3MWxGUnp2YVJEcVV0YzJzaEZ3enU5aktKdDMwbDI3VUFkUTB5c3FuaGx3MnBpOGRsd014VnBkT0NFUEZiNS1lY0NDT3ZlS0VzTmdTajE5a3I1eF9qU1g4WEtWcGhfNDdzeXctUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c6d9f5626d82",
+      "title": "Estação Espacial Internacional tem 109 metros de ponta a ponta, dá 16 voltas na Terra por dia e percorre uma distância equivalente à ida e volta até a Lua em 24 horas; laboratório orbital mostra a maior estrutura humana habitada já montada no espaço - CPG Click Petróleo e Gás",
+      "published": "2026-05-24T19:26:00+00:00",
+      "summary": "Estação Espacial Internacional tem 109 metros de ponta a ponta, dá 16 voltas na Terra por dia e percorre uma distância equivalente à ida e volta até a Lua em 24 horas; laboratório orbital mostra a maior estrutura humana habitada já montada no espaço&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQUXhHSkZDLWh2QTVmdl8zdlIwS3piR1JXRG5uQ2ZZTE9uSHI3YzEzQi1TMThlVUR6Z2FUeGVHdUN0V2RTSE5DSVE5M0o0Vko1MHV3UzFVN1A3bHAtWm00ZzFrNUp2Vmk3RkF2TUZwbTJGU2lqOVdWT0pmOWZOXzBhQ2RwbG42Yk10Y1VaUjEzdzBhNEM3UFFub0plTlZVOVZPMXZhc21IUlM5c3JLNV9WemZLYmJUcVZOeEVJLTRNZUFxUkJTYU1Fa3IyNldxUWpLemhhRjc2Ymxrb1pfM3YteWpUQmhua250VzlUcHdCS0w3R21fTkItaWVZeGdUY19md1pfRC1CQk05ZS12TjFoQU1LV2lPNlBYTmpPc2ZDbWstOEtxSWJLMmZwMUVQZGhSSnk5Qkw0VU9OVTFNTHhxSmpZblNrVmM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f3df9fc3eb3a",
+      "title": "Califórnia busca nova solução para risco de explosão de tanque químico - CNN Brasil",
+      "published": "2026-05-24T19:11:42+00:00",
+      "summary": "Califórnia busca nova solução para risco de explosão de tanque químico&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOUowNDdzLWRFanlOTEE1YjI1TU05eVdRRWNyTmZ5LVBGaEFVRWZsb1BvR1dqNkU4MDIycjBxVU9jXzJUQ3dfcmc4eFVGMGhWdzZqeDAxYmowMTByQmFHRTRjZlJSY0ZUTHp6OGE1YjFCWm80MG1OOW5SYkNSQTBSUXhMVElWc3NyTkJVNjF4cmk1VVF6WEgwVWhLb3l4UnpWcDJiRk1jZzZOMEttMENuRG5ROXM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "97f21a9e31ac",
+      "title": "Suplemento de vitamina D: estudo aponta possível consequência desconhecida; entenda - InfoMoney",
+      "published": "2026-05-24T15:30:00+00:00",
+      "summary": "Suplemento de vitamina D: estudo aponta possível consequência desconhecida; entenda&nbsp;&nbsp;InfoMoneyEstudo aponta possível consequência desconhecida de suplemento vitamínico; entenda&nbsp;&nbsp;O GloboSuplementos de cálcio e vitamina D não evitam problemas ósseos, diz estudo com 154 mil pessoas&nbsp;&nbsp;Veja SaúdeVitamina D e cálcio evitam fraturas? Novo estudo desafia essa recomendação popular&nbsp;&nbsp;Rádio ItatiaiaO efeito nocivo da vitamina D2 no organismo que poucos conhecem&nbsp;&n",
+      "sources": [
+        {
+          "name": "InfoMoney",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN0hYRDZueVAxTnJ1VUJOTUpLbnFlR09SOFNXOFVwa3ZZaVdmNXl3VllwRTR6bG0xZ2x5c0xueTFkbTFRMmtXUkNDRnZCTmgyaUpLX1JDWW9yYlJ6cUxET0lGOVh4S1pPSlJiWUctbXJfR1dsQnVSVGE0UnktV0IzaGZHeFRDeXpqYWxoZTVRbTBoVnAtaW9xd3NBMVNMUHRyYUduVEd2bmFSMTR0QVA3NUtJcEdYeVJ10gG-AUFVX3lxTE80NzdOYTNTT24weFk1M1FCNENMd29TdEU4NzhYVFc5a3VKN3NpalgwV1d5SWFQV3ZDbHFVb0xjeGNFbG5BNWFXcDNPcUFBZElXb0VIamtZdHNPN0hBcDJHTlBqVUtzUkplS0otTzR5RWNtYWxYM2hySmJiZmdwa3MwVXhlcktrazhqb0tfX0k4MUM0LWYtUXRLaTVqRklPSDdiNkdENk5PMzVES2xvcHgxWVBCazBiaGVIdFBJWVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "21e8426c85f3",
+      "title": "Gripe: Drive-thru da vacina bate recorde em Campo Grande - Campo Grande News",
+      "published": "2026-05-24T14:42:00+00:00",
+      "summary": "Gripe: Drive-thru da vacina bate recorde em Campo Grande&nbsp;&nbsp;Campo Grande NewsVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "Campo Grande News",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeWV6eWdWVV9tV19tT1JWTV9pX1VrakpWSlhZd3YwRm9EMC1YZ2Q0QjBXWk96ZGcyMUYwbVJVYWsya01HdExkQmhsVl9fME43cE1NVWh1S2ZrSnFQMGp4eDlTUGdlWjNxYUxWS1ZqekRXaF9nMmdfN1N1U24zSDJNT1pBRWRqU0tKaFI0VE5CRmxmN3VMdGlKcGMtYnZCdVVoZENlUlBlTnV0V2JJLXpFUWxYX0puLVR2MHdjeGQ1NkZSOTjSAcMBQVVfeXFMT0w0dzR2RTBrcDBwMFdCdktXTTJaWEdKTndqNTBBTzJ4TllEYkZ2S2xBTE81aGg1OG8xTUF5SHZqaThsWnVEcDNKNUZ4Wm9faFZKdjZ0SGJwcDNvZ0hTeE55bFloSXRRRmhWcE9SSnNnSFgtbmZzNkJUSHZqdGQxbGlGWTJMczJzbExUbGEyUVpJMHpSTE1BZlFHSTE4cmlLMVFJNXZIVk1UcmxOc0Ita2hDbXVkNnhqRC1SbjN1UWdPb2tZ?oc=5"
         }
       ]
     },
@@ -30,6 +78,30 @@
       ]
     },
     {
+      "id": "d55400aa3b5e",
+      "title": "Incontinência urinária: sinais, causas e tratamento - Campo Grande News",
+      "published": "2026-05-24T13:11:00+00:00",
+      "summary": "Incontinência urinária: sinais, causas e tratamento&nbsp;&nbsp;Campo Grande News8º Encontro Gaúcho de Urologia reúne especialistas em Gramado&nbsp;&nbsp;Blog do GersonGramado sediará encontro inédito de urologia com especialista europeu referência mundial&nbsp;&nbsp;caiquemarquez.com.br",
+      "sources": [
+        {
+          "name": "Campo Grande News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOM2NKUmRrU0oweWg5OFlvRzNzWWZVOF9Rb05wazE4LUxnMW1TWGl5XzdWdDFJdElYYkhLcFJHbF8xbTBqNGsySHl5MWhMTjhycGczOGgwTm5INVY1aVB3MkxPbTVKYWhrOENDaUMyb0NwLXlWSGNjYWMwWElQdTVRcWE2bnRfcFNZbWl3SU02OW5HRjBiaElzY0phMjk1SlFiX2lZUGJyWUZMaFVkY29n0gGvAUFVX3lxTE5SdGprUzFWY0VKZ0xmekRQel9lY2tLLXh0VkhXSDNTZlVVRnNEYWxrdUZkMEc0Q1pYTW5nazBLYkZGRzdDVGpma0wxUnU5UFlKY1UwQXBLU0V0TEJxNk9nMVk0bW5TT0JKM3Z4OHZtZjhfSHBlR1hZUDdzYVVqRzNraFZ5eXRCcGdsdDVNMHZWZTh6ODNNYXdmaXFQYnZ0cGhYYlROOFZEWF9GYzNlS0U?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "abb13ad9a896",
+      "title": "Barriga de chopp pode indicar risco silencioso à saúde - Metrópoles",
+      "published": "2026-05-24T12:30:54+00:00",
+      "summary": "Barriga de chopp pode indicar risco silencioso à saúde&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01eUhOMHVvYm1Pd3BaVFlXaHc3SVVkYVl6SEw0SHZkY0cxTFJ3Znl5SXE1RnhlNkhyZTBDS0c5WFdFLTN0MmZzN1o4OFdlM3Q2bVBkTkRqcGdqWDhNUllHZDlEcWZTUm1KRGhNaHV6NS0?oc=5"
+        }
+      ]
+    },
+    {
       "id": "03fa7e947868",
       "title": "Vírus perigosos acendem alerta no Brasil - Brasil 247",
       "published": "2026-05-24T12:30:16+00:00",
@@ -42,14 +114,14 @@
       ]
     },
     {
-      "id": "25babf3b85c3",
-      "title": "Estudo aponta possível consequência desconhecida de suplemento vitamínico; entenda - O Globo",
-      "published": "2026-05-24T07:01:27+00:00",
-      "summary": "Estudo aponta possível consequência desconhecida de suplemento vitamínico; entenda&nbsp;&nbsp;O GloboSuplementos de cálcio e vitamina D não evitam problemas ósseos, diz estudo com 154 mil pessoas&nbsp;&nbsp;Veja SaúdeVitamina D e cálcio evitam fraturas? Novo estudo desafia essa recomendação popular&nbsp;&nbsp;Rádio ItatiaiaVitamina D evita quedas em idosos saudáveis? A resposta recente surpreende&nbsp;&nbsp;Tua SaúdeSuplementos de vitamina D nem sempre ajudam a evitar quedas em idosos&nbsp;&nbsp",
+      "id": "2e5bb7387b30",
+      "title": "Psicóloga de ST alerta para riscos do vício digital na infância e adolescência - Farol de Notícias",
+      "published": "2026-05-24T08:57:09+00:00",
+      "summary": "Psicóloga de ST alerta para riscos do vício digital na infância e adolescência&nbsp;&nbsp;Farol de Notícias",
       "sources": [
         {
-          "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdHRSX1hQM0ViWVFqQ3VHOUdWWjMwc2p0MXlhcnI2VVIzdE5peGttYVZBUWdpYm9scGEyb1M0clJIZnFDQTg0dmVkNm5kX3ZOWHgtNVcxMDBULWRPb3hDSEQ3Y2ZTNVVmV1F5SzlaZmRrMl9lWThzWlViakRXQ0l2OVNWMVBFaEVBT2RxM3NNdU9XQXV3d0FtX1dyMTRzbXJtNzV6Y3I3ZlpEdzlQYlJIZW9aaXVTMnRra1hMZm5iR0JBcVo0TUdsaDlnTngzOHNlTHhF?oc=5"
+          "name": "Farol de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRDVSRVJBRzREajkyRGFYWEYyQTctNmpPa1BDdnlDUHZjRDVXU2g4S2hRZ2NkdExYd2xqU0JQMFV4WVVmMXoxS1kzbGs4djd6NXhUYUZfM2p4TGdhSGVGTDZnbVBZeE1uUlEyVElpbHg0WE1fbTc1VXRJNUdPZVYyNkpqN1hUdmhDcHBDOF9ZeW85dVdYa043QURTUTlMRG8tN0VlX1JyYkdFeVlRQXBZ0gGvAUFVX3lxTE9ENVJFUkFHNERqOTJEYVhYRjJBNy02ak9rUEN2eUNQdmNENVdTaDhLaFFnY2R0TFh3bGpTQlAwVXhZVWYxejFLWTNsazh2N3o1eFRhRl8zanhMZ2FIZUZMNmdtUFl4TW5SUTJUSWlseDRYTV9tNzVVdEk1R09lVjI2Smo3WFR2aENwcEM4X1l5bzl1V1hrTjdBRFNROUxEby03RWVfUnJiR0V5WVFBcFk?oc=5"
         }
       ]
     },
@@ -66,6 +138,18 @@
       ]
     },
     {
+      "id": "0de10ee058ee",
+      "title": "Com doença autoimune, mulher viveu gravidez de alto risco duas vezes - Metrópoles",
+      "published": "2026-05-24T05:00:22+00:00",
+      "summary": "Com doença autoimune, mulher viveu gravidez de alto risco duas vezes&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kMk1qQUR2Rm1idU93N1ZqbzV0UGdpVHlPQUdLcEVxUnZhUU9wTFZDNkNPal9Qa2diLXRxdWo3WS1pN0V5VEpHY3YxZVE3azRRYnp6U1hkTzVpY1NtYVR2cGlaLVRaTE9BZFlnQ2JTQmFIb3MtQTBwNw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "076d28a797d8",
       "title": "Cientistas fazem placas do Alzheimer desaparecerem em poucas horas - R7",
       "published": "2026-05-24T03:30:52+00:00",
@@ -78,14 +162,26 @@
       ]
     },
     {
-      "id": "187881bac789",
-      "title": "Quanto tempo leva para desenvolver uma vacina em caso de novas pandemias? - Diário do Centro do Mundo",
-      "published": "2026-05-23T21:59:19+00:00",
-      "summary": "Quanto tempo leva para desenvolver uma vacina em caso de novas pandemias?&nbsp;&nbsp;Diário do Centro do Mundo",
+      "id": "3a2c128fd696",
+      "title": "A descoberta de um dinossauro com “vela gigante” está fascinando cientistas e fãs da pré-história - Revista Oeste",
+      "published": "2026-05-24T03:05:00+00:00",
+      "summary": "A descoberta de um dinossauro com “vela gigante” está fascinando cientistas e fãs da pré-história&nbsp;&nbsp;Revista Oeste",
       "sources": [
         {
-          "name": "Diário do Centro do Mundo",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRWZ5R2ZkYTlIVlNZRHBCNGxLQlhvRnZQcEl5dmVkNlpZWEhuTjR2amVId2ZuNWhlY0tLSU9SS1ZtZXZndkFrM2NHVmhaTXRCNXpENldJZXJFOElSY3djaGExSkRWQlVmR0wyekJSSVpsdjZucW1kanJ5b19BdU1QRmFkdzNuaHpSdU95c2FuZ0hzMXFJZjJmUHpXSmgxc1pvVGQyaTJlQkFTZGx5dHpBd3JtNkpBTGV4clJHMTlmNFpFZw?oc=5"
+          "name": "Revista Oeste",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUU1Sb19qWHJJTk5tTjEtdnB6MktjOV9jYnRydzFtdTlVRGc5ZlJyRWNiS0xObXliazFXNVh6Y0NXMjkyRXpSNkQxRzU1RTVlTjhNdUc4eEstS0xUSHc4STR4bjNKb2dJbGRiZWlYM0dpb3lyZUJhdmplTnlocllxeEVPM25RWVFQQWdCUE9UOGpnQldFSXowV3MxUE4wczlEYURHV3h5TjhNMkZaZ1FYY01GVHFQWXppdEFiSENSMzVWLUZORkNXMklNalVuYWlEQ3BBWWVLTkpIczQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9d957e2acc66",
+      "title": "Cientistas descobrem ‘armadura’ contra antibióticos em bactéria encontrada nos produtos Ypê - ND Mais",
+      "published": "2026-05-23T22:49:38+00:00",
+      "summary": "Cientistas descobrem ‘armadura’ contra antibióticos em bactéria encontrada nos produtos Ypê&nbsp;&nbsp;ND MaisEquipe de cientistas faz importante descoberta sobre a bactéria encontrada nos produtos Ypê; entenda&nbsp;&nbsp;O GloboDescoberta sobre bactéria encontrada em produtos Ypê pode ajudar novas terapias&nbsp;&nbsp;Brasil 247Cientistas descobrem ponto fraco de uma das bactérias mais perigosas para os humanos | Doenças&nbsp;&nbsp;PúblicoEstudo identifica 'ponto fraco' de bactéria encontrada em",
+      "sources": [
+        {
+          "name": "ND Mais",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWUpxZnI3dHN1ell6NFZ1SFlQMEFaRU1yelNhMFVOYlVCVjhnWmo0NmlpUGVoRXFZb2pKVzNCUXFVYXdKeHltdGxXWFJxVDUxcEZZY2M4enY4amsxSnpkdlJXbHgxaXdoazFVYXg4U1B4YW54N1RXcldGMFhWSXlIVk5GclV1V3hfc0c4VW5mdjRhMVZBWGUybWVCM3NGbFRSOW5uSG5PNy1kRHVjQkxPX2tiYlpUTUJRVlE?oc=5"
         }
       ]
     },
@@ -98,30 +194,6 @@
         {
           "name": "Revista Oeste",
           "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPS2p6VVlKaUhXU25Zc2U0c2hVNkhvODl1OWsyanRobXJ4eGZNWTF2UTZtZXd5SUxIUVJNcTBlbFBCS3RrUXpsRXJxSWNQbUZ1VzNyY0JMemhWZDFXM1hrQlM2MXJ1bi1Wb3pLajRma3NYSHRkQzdhNDRqQlVVa0xNYVZ2b1oyQUszWk9uM0xvWGF4TWJBenJCV2tVYmg4ZFpCOXJ0Vl9uYjd6RGVLNkRsSjY4VWhfMkF2YnRIcXViNnRIMmlOTi1xcmt0X1VrNmN0aVVLRVF4TnBtakZJbjMwY2FiNG1DRzBONG1wU0xXZ1dqUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "49c8ec14f9b6",
-      "title": "Não se culpe: a ciência explica por que é tão difícil trocar o sofá pelo exercício regular - Folha de S.Paulo",
-      "published": "2026-05-23T20:00:00+00:00",
-      "summary": "Não se culpe: a ciência explica por que é tão difícil trocar o sofá pelo exercício regular&nbsp;&nbsp;Folha de S.PauloO truque mental que pode ajudar você a se exercitar mais&nbsp;&nbsp;EstadãoAos 70 anos, não se deve permanecer sentado com tanta frequência; a circulação precisa de movimento regular para funcionar bem&nbsp;&nbsp;Tua SaúdeExercício físico diário pode não eliminar o risco do sedentarismo&nbsp;&nbsp;Portal ZummCentenas morrem de infarto por dia em todos os lugares, mas se for na ac",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQV0NJTDVhYzBBZlNuakFqTEJTd2Z5cGY0NXgteWpXVmxQU195aktJUUxqdUZKTElhNFRzaURMQTRVNXE5dkMyOHVraEd0WGRvWEd3MmlFc21weFF2WFl2ZTg3WkZqZnZCelVRVjdCaVVHZThLSG11UlZITTdKbDRLMXZ1V0NueWtpbmk2QXFHaDJ2aVp6WkFpTXNORUlheWNpNDFkWkxRVVJFTG9qS2NVTDZzSC1iX19CaXN4YkQ4OHlZNzBYNE5LeWxnT2VuUHZrNjF6SUVSYW0wZ2Fz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0f18dc545d15",
-      "title": "Hipertensão precoce: a doença silenciosa que ameaça a saúde dos jovens - Jornal Correio",
-      "published": "2026-05-23T20:00:00+00:00",
-      "summary": "Hipertensão precoce: a doença silenciosa que ameaça a saúde dos jovens&nbsp;&nbsp;Jornal CorreioProfissionais de saúde da prefeitura orientam para prevenção e controle da hipertensão arterial&nbsp;&nbsp;Prefeitura de ManausPressão arterial: descubra quando os valores indicam hipertensão&nbsp;&nbsp;ACidade ONNovo limite da pressão alta já está em vigor e muda a forma de avaliar a hipertensão&nbsp;&nbsp;Estado de MinasMudança no estilo de vida pode reduzir a pressão arterial, afirma cardiologista&",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR0g3UlhmMzFORW14ODZ1dlZOVHpnZ0dWTzdFWDFZU3M0MUl4UUpDVkI0M2hWMDhMazBlcXNpY2hxZjFNcWZIMXRNaUE2SGI4X1hCT21TNHUtdmlIakdtWXIyNUUwQV9acnJUMzJvRWRnVkpyaHVRQmlWWG1FT19UUUc3bU1EUmJDRWJ6SFN4dUxKVkVpdnJrX052Sl9Za0Q1b1A5NzRLWG5uUFhVRXJvMUF2eF8?oc=5"
         }
       ]
     },
@@ -141,7 +213,7 @@
       "id": "beed603e0800",
       "title": "Adultos devem fazer até 4 vezes mais exercícios, diz estudo; veja número - InfoMoney",
       "published": "2026-05-23T19:30:00+00:00",
-      "summary": "Adultos devem fazer até 4 vezes mais exercícios, diz estudo; veja número&nbsp;&nbsp;InfoMoneyPara melhorar a saúde cardíaca, adultos devem fazer até 4 vezes mais exercícios que as recomendações atuais, diz estudo; veja o número&nbsp;&nbsp;O GloboQuantas horas de exercício por semana você realmente precisa? Estudo explica&nbsp;&nbsp;TNH1Nem corrida intensa, nem academia diária: o segredo está no tempo acumulado de atividade física&nbsp;&nbsp;Portal UAIDescobrir quantos minutos de caminhada por di",
+      "summary": "Adultos devem fazer até 4 vezes mais exercícios, diz estudo; veja número&nbsp;&nbsp;InfoMoneyPara melhorar a saúde cardíaca, adultos devem fazer até 4 vezes mais exercícios que as recomendações atuais, diz estudo; veja o número&nbsp;&nbsp;O GloboDescobrir quantos minutos de caminhada por dia podem ajudar a prevenir ataques cardíacos e derrames.&nbsp;&nbsp;Vietnam.vnDez horas de exercício por semana protegem o coração muito melhor&nbsp;&nbsp;Tua SaúdeMicrodoses de exercícios contra a falta de tem",
       "sources": [
         {
           "name": "InfoMoney",
@@ -150,38 +222,14 @@
       ]
     },
     {
-      "id": "37222b46dd63",
-      "title": "Biodiversidade insular: SC é refúgio do preá-de-moleques-do-sul e de nova descoberta - portaleducadora.com",
-      "published": "2026-05-23T17:27:26+00:00",
-      "summary": "Biodiversidade insular: SC é refúgio do preá-de-moleques-do-sul e de nova descoberta&nbsp;&nbsp;portaleducadora.com",
+      "id": "9b107d5ab2df",
+      "title": "As pessoas mais bem educadas costumam nascer nestes meses, segundo estudos - Portal 6",
+      "published": "2026-05-23T19:29:12+00:00",
+      "summary": "As pessoas mais bem educadas costumam nascer nestes meses, segundo estudos&nbsp;&nbsp;Portal 6",
       "sources": [
         {
-          "name": "portaleducadora.com",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWTMwdXkwel9HTU9ndFU4UkktZ05MR0xzejdpZG5Tb1BMb1N2LVF2TnRlTlRBT205aEtXNk8wRHVJRmdMcUtFMlVGVllJME45WUpOMUJ4T3d4cFV5djBhbUxneGZROERhTGhnenZ6dDB6Z3BtS20wdUZTWHJXam1LVHV3TW1ZM3lxdEZOOWtNaHl5RDZkd2p0bVJTOWZwRXRUd1plcmVvTTZvSGFsV0VkYVRpY3lkSEV1dU5zY3NBdENXc3Y4WndRLXpyRQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8cc3f278b9a3",
-      "title": "Descoberta sobre bactéria encontrada em produtos Ypê pode ajudar novas terapias - Brasil 247",
-      "published": "2026-05-23T15:20:26+00:00",
-      "summary": "Descoberta sobre bactéria encontrada em produtos Ypê pode ajudar novas terapias&nbsp;&nbsp;Brasil 247Equipe de cientistas faz importante descoberta sobre a bactéria encontrada nos produtos Ypê; entenda&nbsp;&nbsp;O GloboEstudo identifica 'ponto fraco' de bactéria encontrada em produtos da Ypê&nbsp;&nbsp;ExameSuperbactéria hospitalar: Cientistas descobrem mecanismo que pode travar resistência aos antibióticos&nbsp;&nbsp;Jornal SOLCientistas descobrem vulnerabilidade em bactéria resistente a antib",
-      "sources": [
-        {
-          "name": "Brasil 247",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZVRjR1pDanlVQXJOd3o5MmtSeEJiN1NhV1BnblpsbGEyM25Wa0xjX3pLNWI5M01qcGpVNEYyN3czMVRBMUJKOTQ3b1JlVDBhNHlGOUpfOUhSZHU1LUxGRkVuR2lnamFqSV9yRG1VaVVxb2E2d3hjanJjOTBtNGNMa2xacXJrVkM1cG9HZFVCeFMxMERjNDZMRXRrSFJUVm45Yl9Sa2d6NDdPdUNMdVdxbA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5e66f364210c",
-      "title": "Você aparenta ter a sua idade? Saiba qual segredo está por trás para algumas pessoas envelhecerem mais rápido do que outras - Jornal Correio",
-      "published": "2026-05-23T15:00:00+00:00",
-      "summary": "Você aparenta ter a sua idade? Saiba qual segredo está por trás para algumas pessoas envelhecerem mais rápido do que outras&nbsp;&nbsp;Jornal CorreioPesquisa mostra que humanos envelhecem mais rápido em dois picos acentuados&nbsp;&nbsp;Tua SaúdeSente que envelheceu de repente? Estudo aponta dois momentos em que o corpo muda mais depressa&nbsp;&nbsp;Executive DigestCientistas descobrem um processo de envelhecimento em dois estágios que pode causar câncer e artrite&nbsp;&nbsp;segundabase.com.brGêm",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNLWxnZjBHSGRNMTN4OFZ6dUZSSnlwaXdmckh2cER2R0FEMlBwTXpBWEtJa2lGblRsU0RZempDdHdHNWpvRDdIdkRVWW1sZ21LUW9aeVlNU2VDVzhGUVloNlZMZDYwMGlHdWkzcjVhcWpwRzBlUGlxVFJpWDkxdjc2NXdBbUhqMlBweFlpMGQwc0Ywa3d2cnRtaU1zRUZiU3BIaXEyQXZrXzl6VXNpQy1SNmdWVmd4bVhBSXdqRHVrYnhVcG1OUVdwbFRsaHVuZHd2Ti1zSjZmQi1fVzBra2NjcVM1TUJsRFFVYTdabUZOZXR2STYzUHZxSWFSRQ?oc=5"
+          "name": "Portal 6",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOXzVORENudnNUSGJCYnpTRy1GdnRRcGZubmNEYjE2T0MwR2hrSVl6d1JyRTA4Q0tKUDg4a041R2U5bkk3dDhLZ0JyQ09DOWpCbFpjRzdUaTdKY0g4UGdBQlIwVW1iOERwNjVNUFhiQzd1amRQSU9XQnNUYTEyeFE4QXJTREhoVTg4dVo0aTZVMVpObDk2M280bzEyZmt3N1d6N00yLW9KRWw1TkE0?oc=5"
         }
       ]
     },
@@ -210,14 +258,14 @@
       ]
     },
     {
-      "id": "1244701a45a2",
-      "title": "Frio chega a SC e médicos ligam sinal de alerta para Casos de Síndrome Respiratória Aguda Grave - NSC Total",
-      "published": "2026-05-23T13:51:00+00:00",
-      "summary": "Frio chega a SC e médicos ligam sinal de alerta para Casos de Síndrome Respiratória Aguda Grave&nbsp;&nbsp;NSC TotalCom 16 mortes de crianças por SRAG, Santa Catarina acende alerta e reforça a importância da vacinação&nbsp;&nbsp;DIVEAlta nos casos de doenças respiratórias acende alerta para cuidados preventivos&nbsp;&nbsp;Rádio Rural“Nos preparamos para alta de doenças com a chegada do frio”, diz secretário Alessandro Muliterno&nbsp;&nbsp;Tua RádioCom vacinação baixa, 16 crianças já morreram por",
+      "id": "c074079719ac",
+      "title": "Fortaleza registra 11 casos de raiva em morcegos em 9 bairros; veja quais são - G1",
+      "published": "2026-05-23T13:05:32+00:00",
+      "summary": "Fortaleza registra 11 casos de raiva em morcegos em 9 bairros; veja quais são&nbsp;&nbsp;G1Fortaleza soma 11 casos de raiva em morcegos e reforça alerta para vacinação de pets&nbsp;&nbsp;O POVO+Fortaleza registra 11 casos de raiva e reforça a importância da vacinação de cães e gatos&nbsp;&nbsp;URB NewsMorcegos com raiva são encontrados em nove bairros de Fortaleza e acendem alerta para vacinação&nbsp;&nbsp;OpiniãoCE11 casos de raiva em morcegos são confirmados em Fortaleza; prefeitura alerta e r",
       "sources": [
         {
-          "name": "NSC Total",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWTdaeDBvQ0xQejJKMDduUnlObG5HRV8zSFB3bzF1NU4yVVhlY0VaT1ZxQzhHaG1wbG1jNmlZRklXVWJnclE4T0xlcnBkaFpzTHBJOXp0WlNBMG9LTk5fVXc0dE10WWRJTFNCSXM4UU5GcDhESGFBY001SVFjdWo0RFFHZFRmT29xdHM5eVY0QlpGVGtzVmxvM3FVbEdGRVdtd2ZWOVJNUHc1Y1cyQUgxa1lYSTlFdDNTbENlZnAzWnQ3WXJveS0tVmhMbTQ?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUkRJSTlvX095bDlhRk1vWTU4VnNycHFkSDRRZHF5UkR1NXNNUmhmcUtKdTJ1bExmS05COURfTWtUVDJ5VVd6V3A4a2gzemJzd2lLeHhGYnFPcWEyU0tRT2E2MUFoQjdZalZlRVFkRFBwZXB4QTZKazEtdGVJemdaRDVwRWtUclloVnhYUThrejJYemlhUWFWVzQ0S1haUXB0cHdLMVNkQnNWUUx4QTdSZlEta25DYjFiSWtJU3Y4WndWUFJncUZUWFJEUdIB2gFBVV95cUxQcGJScFZ2WnZjYU8tWmt3UmVId0RFS3g3UFZuc25fSER4MHItMkw4MThTQWpXanhVN1oxeHJ1WmtKTnZmUHMtd3p5Zy1QN2daU0ZsUkY3OEhIbmI1d3FfOGctUlVwc21XNjJDVGJlZE5ERnNONjZuTy1IbWFMRVY4VXc1cWdBZkk4U1dSUmZDYjZQLTZPbk9ET2ZmTDNDRWhUVnYzUklNNkhBaEo2YWZod3ZwQlpJZFRSS2YyUDBFY1VTSmJmQ21WUzlOYlRKVTNpeVRXT3NhQ21qdw?oc=5"
         }
       ]
     },
@@ -225,7 +273,7 @@
       "id": "8acaa95e7dcb",
       "title": "Insuficiente? Estudo sugere que níveis recomendados de B12 são mais baixos que a real necessidade - O Globo",
       "published": "2026-05-23T13:03:27+00:00",
-      "summary": "Insuficiente? Estudo sugere que níveis recomendados de B12 são mais baixos que a real necessidade&nbsp;&nbsp;O GloboSensação de agulhadas no corpo após os 40 anos? Especialistas alertam para deficiência que afeta os nervos&nbsp;&nbsp;Portal UAICientistas alertam que as diretrizes atuais sobre vitamina B12 podem estar colocando seu cérebro em risco&nbsp;&nbsp;obusilis.com.brCansaço e falhas de memória: deficiência de vitamina B12 pode passar anos sem diagnóstico&nbsp;&nbsp;Rede Onda DigitalEstudo",
+      "summary": "Insuficiente? Estudo sugere que níveis recomendados de B12 são mais baixos que a real necessidade&nbsp;&nbsp;O GloboA perda de memória em adultos não se deve apenas ao envelhecimento natural, mas sim à deficiência silenciosa de vitamina B12 que compromete a mielina dos nervos&nbsp;&nbsp;Tua SaúdeSensação de agulhadas no corpo após os 40 anos? Especialistas alertam para deficiência que afeta os nervos&nbsp;&nbsp;Portal UAICientistas alertam que as diretrizes atuais sobre vitamina B12 podem estar ",
       "sources": [
         {
           "name": "O Globo",
@@ -234,34 +282,10 @@
       ]
     },
     {
-      "id": "c142a229e024",
-      "title": "Mais de 80% dos idosos com demência seguem sem diagnóstico - Metrópoles",
-      "published": "2026-05-23T13:02:27+00:00",
-      "summary": "Mais de 80% dos idosos com demência seguem sem diagnóstico&nbsp;&nbsp;MetrópolesQuatro em cada cinco idosos com demência no Brasil não têm diagnóstico, aponta estudo&nbsp;&nbsp;G1Você sabia? 4 em cada 5 idosos brasileiros com demência não sabem que têm a condição&nbsp;&nbsp;EstadãoQuatro em cada cinco idosos no Brasil têm demência sem diagnóstico; entenda&nbsp;&nbsp;CNN BrasilDemências avançam além do Alzheimer no país&nbsp;&nbsp;Jornal O Fluminense",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LX0hQaVRJd3hXYmxxRkxxN3VtNXlUR3lmTFNRTmZsaWc2S3JsdTdVa1dwZGE5MnFweUFFek1VODJFSjhOZ0hvRFdnWU1fWmVrVEJhQndMd256NEVuRmdCZHJmUmQ1SVNOcDlOSElwY3BWZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "120d74afc91b",
-      "title": "Fortaleza confirma 11 casos de raiva em morcegos em nove bairros; veja lista - Diário do Nordeste",
-      "published": "2026-05-23T12:30:40+00:00",
-      "summary": "Fortaleza confirma 11 casos de raiva em morcegos em nove bairros; veja lista&nbsp;&nbsp;Diário do NordesteFortaleza registra 11 casos de raiva em morcegos em 9 bairros; veja quais são&nbsp;&nbsp;G1Fortaleza soma 11 casos de raiva em morcegos e reforça alerta para vacinação de pets&nbsp;&nbsp;O POVO+Fortaleza registra 11 casos de raiva e reforça a importância da vacinação de cães e gatos&nbsp;&nbsp;URB NewsMorcegos com raiva são encontrados em nove bairros de Fortaleza e acendem alerta para vacin",
-      "sources": [
-        {
-          "name": "Diário do Nordeste",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOM2VrMGlXVks0RTBvZkg2Y0dOQzNscV9VM3NmU001VS1ZSnhMdzY3UDNBdEt1cUJVeHU1eVlBb1hmb0oxcGR2Mk5qTVVTSm9UMUY2YW9LcUU4MTRMVUEyTzd5NUR0akZXN25pRnczOUxxZWs3V1FUY2tzWktYYmtUZmtQX1Bqa0NrWEs4Vml1MXZkbE1sVDBZWWg0VHk1ZzM1SFQ0MjRoalRBanpvUmx5YktPTFhiUmRadWh1M1B1UVBTVHFFZzJ1VjBBZU5LeTBF?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c1b163b9a076",
       "title": "Implantes hormonais: por que ninguém fala dos riscos de complicações graves e da dificuldade de reversão - Jornal Correio",
       "published": "2026-05-23T10:00:00+00:00",
-      "summary": "Implantes hormonais: por que ninguém fala dos riscos de complicações graves e da dificuldade de reversão&nbsp;&nbsp;Jornal CorreioUso de implantes hormonais manipulados pode representar riscos para a mulher&nbsp;&nbsp;Jornal da USPCuidado com o chip da beleza: mesmo proibido, mulheres ainda usam para estética&nbsp;&nbsp;R7Saúde em xeque: Chips da Beleza podem causar danos colaterais irreversíveis; saiba os riscos&nbsp;&nbsp;Bnews\"Na maioria das vezes, esses chips hormonais são anabolizantes\", di",
+      "summary": "Implantes hormonais: por que ninguém fala dos riscos de complicações graves e da dificuldade de reversão&nbsp;&nbsp;Jornal Correio",
       "sources": [
         {
           "name": "Jornal Correio",
@@ -273,83 +297,11 @@
       "id": "91576d5a49d2",
       "title": "Detecção de variantes de coronavírus no esgoto pode antecipar alta de internações por Covid - Folha de S.Paulo",
       "published": "2026-05-23T09:00:00+00:00",
-      "summary": "Detecção de variantes de coronavírus no esgoto pode antecipar alta de internações por Covid&nbsp;&nbsp;Folha de S.PauloO que as águas residuais podem revelar sobre novas variantes da covid antes dos testes clínicos&nbsp;&nbsp;Tua Saúde",
+      "summary": "Detecção de variantes de coronavírus no esgoto pode antecipar alta de internações por Covid&nbsp;&nbsp;Folha de S.Paulo",
       "sources": [
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNc3d6QS11NFBuZWEwLWJhLUVjZ0dFclJxNHhzNGFnWUFRUGVNRjJObWgxSGhYUzJmSS1MWjRLTWJreTZPakhFbDh2ak9rX1pOc1F2Ni1HLWVnSm1VbzJiMHkxRXZSN1VLRFJCZmRURmZFQnF3bmRQUjVaaEl4Nk9qU0wzMFhHeF8zVjZPNGtaYXFoeXNmVE4wSTJwUHVOT1YtRllzQlZRQVZqQWJzaUxRV0hnTmhhTW9UZHVEazdYU2NDZUFfVGlUcE5HZHd2TDNBZGZkSHRWalFSQUU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7231db375505",
-      "title": "Manter a vida social ativa fortalece a saúde e pode ajudar a prevenir doenças, apontam especialistas - Extra online",
-      "published": "2026-05-23T07:30:41+00:00",
-      "summary": "Manter a vida social ativa fortalece a saúde e pode ajudar a prevenir doenças, apontam especialistas&nbsp;&nbsp;Extra onlineSolidão também adoece o coração: entenda o impacto silencioso das relações sociais na saúde&nbsp;&nbsp;Rádio ItatiaiaSegundo um estudo, manter convívio social pelo menos uma vez por semana reduz o risco de demência&nbsp;&nbsp;Tua SaúdeSaiba mais sobre a importância de ter amigos na terceira idade&nbsp;&nbsp;TerraEstudos mostram que o isolamento social pode acelerar o envelh",
-      "sources": [
-        {
-          "name": "Extra online",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxObC0xNTZmaXpEVDlHaW5aWFFseHo5Q3h2S3hWZlc4bF9XWXpZeEhkUnEwMnRwaTYtYWZNUkV6cFV4dVBSdy1wVGlOZ0lIN1VtUUhKbDZDSUVULXlrNy0xZ2hTS0NoejRkdU1kTEd4cVVTeWtBVERLWFh3a0cwMW9YR2RHYWZ2MkZEYm52UGstNWNXV3Izb2toM05EY1plQWlJdFd1SEhYNkVjXzZudHJkd1E2SFBiUTVsSUg5NXNtS3FDdEZsSWZoVGZTaDM2MUVoUjR1a040dkJhUUhGTVR4LThQaHNOaUMtWHlMZF81UXBYWTFqejJF0gGGAkFVX3lxTE94UlJ2RE5BSXJCYXJsVEppWXhleTF4Y1R3aHdhOXc0MEs2VG51WkNLN0ZlbU1ZOTVxaFhMZDVXWXZaUnpjcGJzQlFIWmpUeXFnU09qU2diZnJqU2JUR0JLcFZLeFJZS0J2VC1mMkhROTFLaWd0d21vc2QwV2JHQndURDJLU2tuWk5STzhxTnVMQW8tU3ZxLXpIQWhqUHFUTjBWZzNhSGlON0pfZUExeS11ZWM4NC1LRTI3QlJ0aDd3Ry1JUFc2QlYyYW9pcnh0Sks1a2tyQTF2WXJKcFV1anMtTlBWWHRGYU9UT0VCdHhtS0dMeU9zYng0Wk1salo0MC1PSW9FUUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "57efcf8adc4b",
-      "title": "Confira os locais de vacinação abertos no DF neste sábado (23) - G1",
-      "published": "2026-05-23T05:00:54+00:00",
-      "summary": "Confira os locais de vacinação abertos no DF neste sábado (23)&nbsp;&nbsp;G1DF terá vacinação em 18 regiões administrativas neste sábado. Confira&nbsp;&nbsp;MetrópolesSábado tem vacinação em 18 Regiões Administrativas&nbsp;&nbsp;Secretaria de Saúde do Distrito FederalDF tem 49 pontos de vacinação neste sábado; confira&nbsp;&nbsp;Diário do PoderVacinação terá atendimento em 18 regiões do DF neste sábado&nbsp;&nbsp;Jornal de Brasília",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWFd5MGxuanN0SFNGV2hJM0c5RjVWeVRSeGU1QXRDdDdNcHBKZml4NWtIdGkxMW90V0FZWnNWalh1RUh2a0RmSk5vSngxWTR3T012LXZtcEg5ZzFEWlhTR2RzNFhSM051UHhkOUhZS1BRcXJNWTd5aUc1NTJTRGJJcW9DOHROX19VMGl1X3VHV2NmVkdZTUwxcGh5M0xmb2kyNVhPZ2I5eGFCSXFrYWN0b2ZlUGI4MzNYdmdvME5xVzhUd1Zi0gHTAUFVX3lxTFBtd2ZGcmc4Vl80YXJPdkE1RmZyVnc0cE9LMkJYMUxQNXNNTmItZ3NoQVI0OUtweVFGMVRhRlY1Nkd6b2RUWm16LVhXQ0FtRG50YmJPdE5WMEViNUNrcGwzN29uRmpxZjM1cC1IQXpMcVR2bW5GbXZVZXd2elQzVllmVjNfOE5COTRQa3VtSUlsSWNXSlp6TFFHNDZ5Ujk5Q3hkOExjTDNYQ1N2WFBTTXp4Q1Q1WjdLcFdNbXdYUGtRXzIzem5COHFrODJpZHdDSTZ0ZEk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a568e9874c1b",
-      "title": "Quanto tempo levaria para criar uma vacina em caso de nova pandemia? - Metrópoles",
-      "published": "2026-05-23T05:00:46+00:00",
-      "summary": "Quanto tempo levaria para criar uma vacina em caso de nova pandemia?&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5WNDExNXBiLUE2TDg0b0c3Y3dLalVETVMyX2lzcmZGMGxsZXRRUVNndTBZRjV5LVlpajloeUg0UFFyLXU2V1FIaXU2VEZGMXNjRzJZMGh1R2dQamVHUmxYUk1YVElOVHcyVVNfNW90ZDMyaF91Y1dsZHBn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "14c2d8c08f43",
-      "title": "Quanto custa completar vários álbuns ao mesmo tempo? Pesquisa da UFSM tenta resolver problema matemático sem solução desde 1961 - Diário de Santa Maria",
-      "published": "2026-05-23T03:03:00+00:00",
-      "summary": "Quanto custa completar vários álbuns ao mesmo tempo? Pesquisa da UFSM tenta resolver problema matemático sem solução desde 1961&nbsp;&nbsp;Diário de Santa Maria",
-      "sources": [
-        {
-          "name": "Diário de Santa Maria",
-          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPZTIxOU1yMm92RXRJY1FjQTRBam5HNEVmQ2VaUXhBdFhtaHJxZGVEUkdZQTdpMzRyelozQktRSlJrS0JZaDJxckhxd2VmclFJUjN1OVdTdmdsdWhtRDNIblZzTXlqT1JINWQyaDFQcS12X2hIM1ZqLWF1c3JUckRvRW14ZklPd3pscTdwRVN2Q01ocG9xcmptMlg0Y05ON3Z3cW9sMEEtd0MxaUU5cW5ydlZQWHd2R2ZXZjhBUXdnMDJOandXUEgtQ21zZmJZa3g5aTc4dGFpcnFtVXhFREVJNVRlNzBzU3Awd2M4dTVwbGttQTNBVGtZMmNqNWQ5RU5rTGJCWA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "834cdccd68cb",
-      "title": "No coração do deserto mais seco do mundo, Chile começa a erguer um observatório colossal com mais de 50 fundações, 17 km de estradas e dezenas de telescópios espalhados no Atacama para caçar raios gama de até 300 TeV - CPG Click Petróleo e Gás",
-      "published": "2026-05-23T02:54:00+00:00",
-      "summary": "No coração do deserto mais seco do mundo, Chile começa a erguer um observatório colossal com mais de 50 fundações, 17 km de estradas e dezenas de telescópios espalhados no Atacama para caçar raios gama de até 300 TeV&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNVmVjc3ptMjBjcm5oRUVia25hNTFVYmtJU2lhMC1zMld2c2YteXZQM253ekRlWWJsT2p2Q3RPOW9VbTUxdVlqZTlYZTJwUU9mWWZZakRUeXQ2c2plMWdQTk9Na05GSXhNbS1Ic0lYUWRlaEJfYV8zbWw2YXRiV2lKSl9BWV93REhiZWRmemcxSzFDcHh0bXpfREw1N2syUlBRdXlPcEExNW1rNW1pYVhZT1ZJeU9MYzR3cmNvV0RuUlpMWjBqeEh4WDRkVnotbDVQbk1UNFJaSjBSb3FBWHJWX2J2Y2c0Z1pJX0xTTDNXTGxNMU1EaFAzODdjMGxITDcxa2ZvVlQ5amxESnR1SW5lRmk2aUVycGRDTUJnTUtheHRvMzk3Tnh3cVA2SzNEbTNfUGl6LXExX0Q1YXJhcktUV2FQRTBGZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8260766fdde0",
-      "title": "Sarcopenia aumenta risco de quedas e compromete qualidade de vida de idosos - Folha PE",
-      "published": "2026-05-22T20:21:00+00:00",
-      "summary": "Sarcopenia aumenta risco de quedas e compromete qualidade de vida de idosos&nbsp;&nbsp;Folha PEPara os 50+: três fontes de proteína de alta qualidade fáceis de incluir na dieta&nbsp;&nbsp;O GloboHábitos cotidianos associados à perda de massa muscular após os 40 anos&nbsp;&nbsp;Tua SaúdeO envelhecimento da população aumenta a incidência de doenças musculoesqueléticas.&nbsp;&nbsp;Vietnam.vnSeu corpo começa a 'perder' essa substância após os 40 anos, tornando você mais propenso a fraturas e quedas ",
-      "sources": [
-        {
-          "name": "Folha PE",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQm9BT1F3SktUWGZvWURab01ESVMtTUlVd3ZIVkN1Z1JmR1ZOT1pDdllBUDljSTlqWVlCWXZOWlpZZ3dIbFJ4aTdkYWwzTGdBaTZ4XzBYc3Q3Zmt5SWxvX3E1UHdyeUp4N2hRbUNyZE41VU9TMUlJS3hOYVNuWVhIb1ZCNDd3OGVmSXJWR2JDYmpaOUpvaEZ4amdXVUVJLXFXSVFkbFFXN1dERkNTMmg5UVZldWVqd9IBtgFBVV95cUxNNXVIalc3REJMRzQ4eUxRVlhUa3dtVlF2M0lMeDlTLWdoWGlIR3B1UmhQMGprbGQ3ek9FRU1MeVVjYzZPYXhWelhvVFJVTEhtVmJHR25QYVhEa0V3TDMzdkVkLXVFdVJnTzk5Tnk3MTRIWU43OXBDNFd1VUdPU1JZNlF4YS0xVmZ2U0Y0ZVRzeTZSTzFlNU5tZ3JLbjBQclpGU3BfVU42ckFIVGVmV0s0Smw3aU5xZw?oc=5"
         }
       ]
     }
