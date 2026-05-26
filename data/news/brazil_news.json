@@ -1,10 +1,22 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-05-26T03:47:31.964107+00:00",
-  "total_fetched": 81,
-  "unique_count": 79,
-  "health_related_count": 30,
+  "fetched_at": "2026-05-26T09:59:55.823474+00:00",
+  "total_fetched": 93,
+  "unique_count": 92,
+  "health_related_count": 35,
   "news": [
+    {
+      "id": "0714e9a0b9e7",
+      "title": "A canetinha empacou? Cientistas descobrem por que efeito de remédios como Ozempic pode desacelerar com o tempo - O GLOBO",
+      "published": "2026-05-26T07:02:09+00:00",
+      "summary": "A canetinha empacou? Cientistas descobrem por que efeito de remédios como Ozempic pode desacelerar com o tempo&nbsp;&nbsp;O GLOBOCientistas descobrem por que os efeitos das canetas emagrecedoras diminuem com o tempo&nbsp;&nbsp;O TEMPOGLP-1 no cérebro: o novo mecanismo que explica perda de apetite além do estômago&nbsp;&nbsp;Tua SaúdeSemaglutida mostra potencial no tratamento do transtorno por uso de álcool&nbsp;&nbsp;MedscapeCientistas descobrem por que a perda de peso de Ozempic e Wegovy eventu",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPazduZnZUa1VwT3Faam81LXB2TnkxUHJoMEFqN3NscUNJYnF2U3VXM3pBOUdlaDdqbUNJT0ExeG8zanVXbFFCczdCbXNNSlhGZGJaamdFRWhYMURNYUhtX2ZSLTZfZ0VIbENwclFBcmxLVmhkNDZRZ1NnUEk4QnlYdVF0YklVelRIY2VqWU10d0k0YjR0VllyT1h5ckVfZkYyTWNxWFo4YTQxNVlReEwxT0RmR0xfVERYUlRGRVpPMHpYZUNvTDJZNEFhQWRxTGlrR3hoNXBFWnNmRnA4alFidG5ua01rRWZ0a0c0VDN3dHJFdDNvT1ZvStIBhwJBVV95cUxNWHlvT1otNmZTaGgzTUdlemUzektiaUxCVGNNUXVPZi0xUVp5SFE3d3VtQ0pJSDdwc1lVSG1ZeHJvMWRwS1JzQjJXNEpiY3hXWU5RQXVZYjRDOWNaWDZjV0xsVWdGTGRUbEVoY1Q3WGdXNl9oekJaUlpJSkEwRDNQTTVpbUpFaXBocmNEbEhxcFYxZDExN1pkS3hlWVkzV1dzUldhdjIwSkZZZVBPa3BNa3ZTLUZ4TWdfbHBGT3NQei11QUZoYWM4c3VTWWNlWnhMMFVNXzRQU3NLVnB0Z1dFN0JxM2ZNRkpWVzBGQmVVMlVmVkI5dU9zYU5qUkJoclEteUZyUXZmMA?oc=5"
+        }
+      ]
+    },
     {
       "id": "8260766fdde0",
       "title": "Sarcopenia aumenta risco de quedas e compromete qualidade de vida de idosos - Folha PE",
@@ -14,18 +26,6 @@
         {
           "name": "Folha PE",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQm9BT1F3SktUWGZvWURab01ESVMtTUlVd3ZIVkN1Z1JmR1ZOT1pDdllBUDljSTlqWVlCWXZOWlpZZ3dIbFJ4aTdkYWwzTGdBaTZ4XzBYc3Q3Zmt5SWxvX3E1UHdyeUp4N2hRbUNyZE41VU9TMUlJS3hOYVNuWVhIb1ZCNDd3OGVmSXJWR2JDYmpaOUpvaEZ4amdXVUVJLXFXSVFkbFFXN1dERkNTMmg5UVZldWVqd9IBtgFBVV95cUxNNXVIalc3REJMRzQ4eUxRVlhUa3dtVlF2M0lMeDlTLWdoWGlIR3B1UmhQMGprbGQ3ek9FRU1MeVVjYzZPYXhWelhvVFJVTEhtVmJHR25QYVhEa0V3TDMzdkVkLXVFdVJnTzk5Tnk3MTRIWU43OXBDNFd1VUdPU1JZNlF4YS0xVmZ2U0Y0ZVRzeTZSTzFlNU5tZ3JLbjBQclpGU3BfVU42ckFIVGVmV0s0Smw3aU5xZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "76a82dfe7b11",
-      "title": "ALERTA - 25/05 20:35 - TEMPORAL com RAIOS, RAJADAS DE VENTO, GRANIZO e risco de ENXURRADAS na próxima hora. - Secretaria de Estado da Proteção e Defesa Civil",
-      "published": "2026-05-25T23:42:38+00:00",
-      "summary": "ALERTA - 25/05 20:35 - TEMPORAL com RAIOS, RAJADAS DE VENTO, GRANIZO e risco de ENXURRADAS na próxima hora.&nbsp;&nbsp;Secretaria de Estado da Proteção e Defesa Civil",
-      "sources": [
-        {
-          "name": "Secretaria de Estado da Proteção e Defesa Civil",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbjktNDM2MDk3V3VuWkhmZnBoWllYZTg2NENhaGlLR2hhRU1udXlKLU9UcE5VM2E2VW4wRzRYQVplWGtrcXhsM0xuX25FWWd0QVppNXRBcFJnVWE1bHhJUGNWSE1CYVE2WDZtSktEeFV1QV8xdVozUnNqelB4Y3BzUVZNSmpJWDk4VEx1NHQxVUhja1RKeGRoVzRGTXlKaFk1TFJ0cGsydmtFY29sVlp3TU5zUGZsYTZHUmlBcWI1WjRmamthdnRIblJpWmMtTEcxZFdXeGNlSTdKM2xvNEE?oc=5"
         }
       ]
     },
@@ -57,11 +57,23 @@
       "id": "60a08b3e6312",
       "title": "Vacinação contra gripe e sarampo terá postos em estações do metrô do Rio nesta terça-feira - Diário do Rio",
       "published": "2026-05-25T19:54:40+00:00",
-      "summary": "Vacinação contra gripe e sarampo terá postos em estações do metrô do Rio nesta terça-feira&nbsp;&nbsp;Diário do RioPrefeitura abre mais de 200 pontos extras de vacinação contra gripe na reta final da campanha no Rio&nbsp;&nbsp;G1Vacinas após os 60: o que quase ninguém conta sobre envelhecer com mais saúde&nbsp;&nbsp;Jovem PanCâmara do Rio promove campanha de vacinação no Palácio Pedro Ernesto&nbsp;&nbsp;Câmara Municipal do Rio de JaneiroEstudo não concluiu que vacina da gripe aumenta risco de mo",
+      "summary": "Vacinação contra gripe e sarampo terá postos em estações do metrô do Rio nesta terça-feira&nbsp;&nbsp;Diário do RioPrefeitura abre mais de 200 pontos extras de vacinação contra gripe na reta final da campanha no Rio&nbsp;&nbsp;G1Vacinas após os 60: o que quase ninguém conta sobre envelhecer com mais saúde&nbsp;&nbsp;Jovem PanVacina da gripe não mata: descubra o que é mito ou verdade sobre a imunização de idosos no RJ&nbsp;&nbsp;Governo do Estado do Rio de JaneiroRio tem mais de 400 pontos de vac",
       "sources": [
         {
           "name": "Diário do Rio",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTkU2TUx0bFhSMEV0TTBvM1RzTTBVSDJtNTZwbU9wa1o3bGVaM1hZQWw0ZTZNTkM0UkJPSmQyay1Xd3AxSmFxRzlxdEhZVTdsYV85MUU0R0xWRl9TcUxkVC1vZkd6NXd3bTZXbXZsWG9aZWZXX3JvOFlldU4ya21fWjZkOVdHb0hSU29hLUVHSUQ0dlZvY2stU0VBZm0wS3ZMQmVkRGdiOFhDckdENE5pLUNZQzNxdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fd1ff912bebb",
+      "title": "Sete municípios sergipanos estão com alta infestação do Aedes aegypti - G1",
+      "published": "2026-05-25T19:15:46+00:00",
+      "summary": "Sete municípios sergipanos estão com alta infestação do Aedes aegypti&nbsp;&nbsp;G1Terceiro LIRAa do ano identifica sete municípios sergipanos com a alta infestação do Aedes aegypti&nbsp;&nbsp;FaxAjuSete municípios sergipanos apresentam alto risco de infestação do Aedes aegypti, aponta LIRAa&nbsp;&nbsp;Fan F1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUWdCVW1vaGwzWGo1MjRMTVRUdm8yNEI4Z2diRWJWc3RJbXdJUFhQTnNHaWxrMjdCTmhIOG0tbWt0aDBjbUV0dGlLblh4ZExnbWdLeEl3Z2dFU1JsQmI3MHhVeGVvZjNSZjJoamZpb1JESGdoeVFwMEEwVmVwU3Fnb3ZmdWxzeWJRallCWDNPQzZiTWdCSWZIU1JmT1hPdXBQdGtFWkUzUmZHdjNmUldYOFItaFV3UVN2eDllcC1DOFk3NmRw0gHTAUFVX3lxTE5nM1VLU1dkUXRLRnVoLUV3UVpLcjQ3UTdUSFBqa045cW5xNEZWSTYzU05vRF80NmxrdW92d3F0ZnhJa1hqUlN1Ulh0Mnpibk9pMGZDa3lPOXF2ZDRDbkFUT3FxemhEcXNkUmFpeUMwY3gwT2JOcVF5d19QQWNDeDlNbGhRVThRdldUS2FfZ2YxbzRMMkZGNG9qQy1lb3lzV2t0ZG5TMm4xYkt1YzdpNzFnVFZOaTZ5S1hZZVEwWVUxckoybXpxVWtjNkxCSmwzYlF6VDg?oc=5"
         }
       ]
     },
@@ -74,6 +86,18 @@
         {
           "name": "Riomafra Mix",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNT05adERKZzYwaVo2SkczYU9XTmU1U1dVdExZaGNUVHZZNDJWLXZ5aUZvTktrQUtjcktkX1g2akwxYm50b182MTF0S3lQYmx4NEhubXlSMFczUG9KclQycXJueDczeTA5dHhSZF8zYmNMWkdNeVlaejlJRzRYMkg2bXZtR0VkRnJxR3pzZUZLc3lwY3lrb1hZVlp4VHd6dGdCLUdfbWg5NWNBenNSS1hvYTA0MmREMmZlMmwzUGx3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "90464b764c06",
+      "title": "Pesquisadores encontram criatura marinha tão incomum que decidiram homenagear personagem clássico da TV - Revista Oeste",
+      "published": "2026-05-25T17:45:00+00:00",
+      "summary": "Pesquisadores encontram criatura marinha tão incomum que decidiram homenagear personagem clássico da TV&nbsp;&nbsp;Revista Oeste",
+      "sources": [
+        {
+          "name": "Revista Oeste",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZ3NGcE5HZ01zQ3JtWHRDNzZRaHJCUWU5Y1RKeHp3N3k2cGgyOV85ZU1PdzNkT1ZNYnVSbVlPNTlDbkNiRmFybTIwbVZ4bml6SUFGdWNpM0R2OWtUcWRRWHVfS1Z6bmk2S3NQVXV6VWJvV1VpdVkwUVhDblo0RjRRVDJLYmNFU25GTkc4Q3dUYTBUU1BzLXJaVzJock1uWTM3TFZJQi1pMVpZLXN6MXJUeG05cXMwOVlERnlmX2hPNnY3SUdaTU9MSHkzMnZwVDBxSFNTVWdsOFIwQ2VLalZ3amFScU90dw?oc=5"
         }
       ]
     },
@@ -117,7 +141,7 @@
       "id": "b1d0b97ecdcb",
       "title": "Anvisa autoriza novo medicamento para enxaqueca — Agência Nacional de Vigilância Sanitária - Anvisa - www.gov.br",
       "published": "2026-05-25T16:52:00+00:00",
-      "summary": "Anvisa autoriza novo medicamento para enxaqueca — Agência Nacional de Vigilância Sanitária - Anvisa&nbsp;&nbsp;www.gov.brAnvisa aprova novo medicamento para enxaqueca que pode tratar e prevenir crises&nbsp;&nbsp;G1Anvisa aprova Nurtec ODT: novo remédio contra enxaqueca&nbsp;&nbsp;Campo Grande NewsAnvisa aprova novo medicamento da Pfizer para enxaqueca&nbsp;&nbsp;Poder360Anvisa autoriza novo medicamento para enxaqueca, o Nurtec ODT&nbsp;&nbsp;Agência Brasil",
+      "summary": "Anvisa autoriza novo medicamento para enxaqueca — Agência Nacional de Vigilância Sanitária - Anvisa&nbsp;&nbsp;www.gov.brAnvisa aprova novo medicamento para enxaqueca que pode tratar e prevenir crises&nbsp;&nbsp;G1Anvisa aprova Nurtec ODT: novo remédio contra enxaqueca&nbsp;&nbsp;Campo Grande NewsAnvisa aprova novo medicamento da Pfizer para enxaqueca&nbsp;&nbsp;Poder360Anvisa aprova remédio para enxaqueca que dissolve na boca&nbsp;&nbsp;Metrópoles",
       "sources": [
         {
           "name": "www.gov.br",
@@ -186,6 +210,18 @@
       ]
     },
     {
+      "id": "e1859683584f",
+      "title": "Fonética forense é usada para analisar vozes e auxiliar investigações criminais - Revista Pesquisa Fapesp",
+      "published": "2026-05-25T12:57:00+00:00",
+      "summary": "Fonética forense é usada para analisar vozes e auxiliar investigações criminais&nbsp;&nbsp;Revista Pesquisa Fapesp",
+      "sources": [
+        {
+          "name": "Revista Pesquisa Fapesp",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV0E0MElRT2tIOVNVdTNLZUNJYWNlT1hsaWJXckdYdDhxVVRyaXp6YVFwcF8xRVJ0eDRuaFVPcnI1M1BnZzlOQlVBZ2VpTHpmbWozdlljTlVFdDU0dWFySXNHZnpuZml2R0xVNEhpeTR2MW9Iay1iLUZ3WkhmbXlJcnc4eW1hdWRRTDhvT2NZV2lUS3E4ZWpwc2pEcEZkQ2xEX1VHbGhlSDEyOHFqQmpaYng0V1o?oc=5"
+        }
+      ]
+    },
+    {
       "id": "279394155cd1",
       "title": "Nova descoberta de fósseis reescreve história da evolução da vida complexa - Olhar Digital",
       "published": "2026-05-25T11:28:00+00:00",
@@ -194,18 +230,6 @@
         {
           "name": "Olhar Digital",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNXzBkT2FiOS02TzN1R1MtNzVyNmxwZjdPZW5SWEtnRzFKQ3R0aGNJWFdiVWdKc2NvT2FldEZCVlhvVzF5VDlRbVNtNVBBckE5blNXSzV3VmdUZk4yVGVyOG0wanUycFRpVDBEZC1kVVBiZkkzbDUwbGNVaHNxZTI1dEI4TEJ1N0pkd01uenVoeDVmRGRmaGU2bkdYMmF5UlFrZjU2WThBYjBmS2hJNXJ5emJjdjUxUm9HWV9SUVd6MEw3REE3ODNSMWVtbw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "84aea42e34f9",
-      "title": "Pela primeira vez na história, cientistas conseguem acompanhar o nascimento de uma divisão tectônica submarina - Revista Oeste",
-      "published": "2026-05-25T10:55:00+00:00",
-      "summary": "Pela primeira vez na história, cientistas conseguem acompanhar o nascimento de uma divisão tectônica submarina&nbsp;&nbsp;Revista Oeste",
-      "sources": [
-        {
-          "name": "Revista Oeste",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQRTlSdXFOQVE3VGxpaW9xbURfMXJ2TXhCbjB3NzNwY0ROanpYdW5SUWVaMG5tVnhHaTdaanVfYzA3VXZOOUluM2hLQUJybmtaVnE0WDd5cjhVSDFUTDZIc3VNUU9FQVh1YlJWQkE3cTBYUmhvcktzTFpQQ1lrVVhNamVnSldNenY3RXdXS2lkb096NmhnVC05WjZ3cUprekJ5LUlQVWlDbFY1Yk8zLUlTczJZSHA2a29aOGJMd0Z0eWFwdUtmUzNwZTdzOWdtOUhJZkt5TGdGeDZseDBpcm1mUHZuLUhVTDR4eGNQRGV3?oc=5"
         }
       ]
     },
@@ -225,7 +249,7 @@
       "id": "5c187a1c114d",
       "title": "Dia Internacional da Tireoide: entenda impacto sobre a saúde - CNN Brasil",
       "published": "2026-05-25T09:00:40+00:00",
-      "summary": "Dia Internacional da Tireoide: entenda impacto sobre a saúde&nbsp;&nbsp;CNN BrasilSaúde da tireoide exige atenção e diagnóstico precoce&nbsp;&nbsp;G1Dia Internacional da Tireoide: 6 curiosidades sobre a glândula&nbsp;&nbsp;GZHCâncer de tireoide cresce entre mulheres e reforça importância do diagnóstico precoce&nbsp;&nbsp;Folha PETireoide: alterações silenciosas podem afetar peso, coração e fertilidade&nbsp;&nbsp;Folha Vitória",
+      "summary": "Dia Internacional da Tireoide: entenda impacto sobre a saúde&nbsp;&nbsp;CNN BrasilSaúde da tireoide exige atenção e diagnóstico precoce&nbsp;&nbsp;G1Dia Internacional da Tireoide: 6 curiosidades sobre a glândula&nbsp;&nbsp;GZHCâncer de tireoide cresce entre mulheres e reforça importância do diagnóstico precoce&nbsp;&nbsp;Folha PETireoide: alerta para cuidados com glândula que regula funções vitais do corpo&nbsp;&nbsp;Folha BV",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -273,7 +297,7 @@
       "id": "260dda44230c",
       "title": "Canetas emagrecedoras causam pancreatite: mito ou verdade? - R7",
       "published": "2026-05-25T05:00:00+00:00",
-      "summary": "Canetas emagrecedoras causam pancreatite: mito ou verdade?&nbsp;&nbsp;R7Descomplica Aí explica sobre o uso das canetas emagrecedoras&nbsp;&nbsp;G1Médico de \"Quilos Mortais Brasil\" sobre canetas emagrecedoras: \"Ferramenta\"&nbsp;&nbsp;CNN BrasilSaúde e oportunidades&nbsp;&nbsp;Grupo A HoraCanetas emagrecedoras transformam hábitos de consumo e forçam adaptações no mercado de alimentação&nbsp;&nbsp;JC",
+      "summary": "Canetas emagrecedoras causam pancreatite: mito ou verdade?&nbsp;&nbsp;R7'Rosto de Ozempic': conheça produtos que prometem minimizar flacidez facial&nbsp;&nbsp;UOLO mercado das canetinhas&nbsp;&nbsp;O POVO+Uso de canetas emagrecedoras exige cuidados e acompanhamento médico&nbsp;&nbsp;R7Descomplica Aí explica sobre o uso das canetas emagrecedoras&nbsp;&nbsp;G1",
       "sources": [
         {
           "name": "R7",
@@ -294,6 +318,18 @@
       ]
     },
     {
+      "id": "902d44691904",
+      "title": "Pela primeira vez, um tsunami gigante é registrado em alta resolução por um satélite da NASA - Revista Oeste",
+      "published": "2026-05-25T02:40:00+00:00",
+      "summary": "Pela primeira vez, um tsunami gigante é registrado em alta resolução por um satélite da NASA&nbsp;&nbsp;Revista Oeste",
+      "sources": [
+        {
+          "name": "Revista Oeste",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMmM2ZlI1U0hBcUlQdEQxX2VPRUZQV1ZOazgxMDhSTUpseXdmRlF0aW9lUWhLOEpCLThob0x1N1R4c0Z3ak1yVjJ2NFkwakxGR3JrUXFTeDBlM1hMd3FrenFnMGNIdnBiVGFDUFowRU5nenVGVVlYNXFQdTJ3ampFLS1BR1RqQ2VjUElmYUthX1dEVlludU1PRWlKemV4ZFhkSG5Cb3U3X1ItUVEwTGQydXJoZlpmMU1uclp6clV4TkY2NWVfWndqNURYbVU0SVd6YXpQMEln?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b342f7503c87",
       "title": "Maior aquário de água doce do mundo está no Brasil, impressiona com 5 milhões de litros, 380 espécies e vai sediar congresso nacional que reúne especialistas em biodiversidade, conservação animal e pesquisas inéditas com mais de 100 espécies reprod - CPG Click Petróleo e Gás",
       "published": "2026-05-24T18:41:00+00:00",
@@ -309,7 +345,7 @@
       "id": "e00c736769c8",
       "title": "Uma fruta antiga de quintal da vovó está de volta nos jardins e pomares e atualmente é usada em pesquisas - TudoGostoso",
       "published": "2026-05-24T18:31:00+00:00",
-      "summary": "Uma fruta antiga de quintal da vovó está de volta nos jardins e pomares e atualmente é usada em pesquisas&nbsp;&nbsp;TudoGostosoFruta nativa da Mata Atlântica: cientistas estudam efeitos da guabiroba na saúde&nbsp;&nbsp;Correio BrazilienseGuabiroba: fruta tradicional retorna aos quintais com benefícios nutricionais&nbsp;&nbsp;Tribuna do SertãoO sabor da infância de volta ao quintal: guabiroba ganha destaque nos pomares e na ciência&nbsp;&nbsp;Radio Clube de CanoinhasAntiga fruta de quintal volta",
+      "summary": "Uma fruta antiga de quintal da vovó está de volta nos jardins e pomares e atualmente é usada em pesquisas&nbsp;&nbsp;TudoGostosoFruta nativa da Mata Atlântica: cientistas estudam efeitos da guabiroba na saúde&nbsp;&nbsp;Correio BrazilienseGuabiroba: fruta tradicional retorna aos quintais com benefícios nutricionais&nbsp;&nbsp;Tribuna do SertãoO sabor da infância de volta ao quintal: guabiroba ganha destaque nos pomares e na ciência&nbsp;&nbsp;Radio Clube de CanoinhasFruta típica do Cerrado e da ",
       "sources": [
         {
           "name": "TudoGostoso",
@@ -321,7 +357,7 @@
       "id": "97f21a9e31ac",
       "title": "Suplemento de vitamina D: estudo aponta possível consequência desconhecida; entenda - InfoMoney",
       "published": "2026-05-24T15:30:00+00:00",
-      "summary": "Suplemento de vitamina D: estudo aponta possível consequência desconhecida; entenda&nbsp;&nbsp;InfoMoneySuplementos de cálcio e vitamina D não evitam problemas ósseos, diz estudo com 154 mil pessoas&nbsp;&nbsp;Veja SaúdeVitamina D e cálcio evitam fraturas? Novo estudo desafia essa recomendação popular&nbsp;&nbsp;Rádio ItatiaiaO efeito nocivo da vitamina D2 no organismo que poucos conhecem&nbsp;&nbsp;Diário do Centro do MundoSuplementos de vitamina D nem sempre ajudam a evitar quedas em idosos&nb",
+      "summary": "Suplemento de vitamina D: estudo aponta possível consequência desconhecida; entenda&nbsp;&nbsp;InfoMoneyEstudo aponta possível consequência desconhecida de suplemento vitamínico; entenda&nbsp;&nbsp;O GLOBOSuplementos de cálcio e vitamina D não evitam problemas ósseos, diz estudo com 154 mil pessoas&nbsp;&nbsp;Veja SaúdeVitamina D e cálcio evitam fraturas? Novo estudo desafia essa recomendação popular&nbsp;&nbsp;Rádio ItatiaiaO efeito nocivo da vitamina D2 no organismo que poucos conhecem&nbsp;&n",
       "sources": [
         {
           "name": "InfoMoney",
@@ -338,6 +374,18 @@
         {
           "name": "Agência Brasil",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdnp0YVpOS1JXMkZoT0VVRVBYOHlDd2FJZHNBdHZfS2FNRF90c0dJRXFlNThqN1ZiU1FBOVlaLVM1bENlMUIzcVFNNUNEYm4yUTVocnVMajJucGlNR1ZfRWoxUmY2WmRReG9Eb1VYdEpQMngtRzdndUp1RlNsUHVWNkl6dUhPY1lERUZMR0huRi1UUC15Zk9uOHZKYnh6T3ZLZXhCTzQ0SVRXeUx1V0VZYW40TjJQcUFla2RBVnp4cko0Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fbe60624a868",
+      "title": "Pesquisadores encontraram genes animais que serão utilizados para a regenerar membros inteiros de humanos - Jornal Correio",
+      "published": "2026-05-24T14:11:00+00:00",
+      "summary": "Pesquisadores encontraram genes animais que serão utilizados para a regenerar membros inteiros de humanos&nbsp;&nbsp;Jornal Correio",
+      "sources": [
+        {
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPb0k3SVR2ZURDR3dPWFJQa1ZmSTVZTzItYy1aVzhtY0VNOTJ4RDJMbENCci1WVm13NF93aEYzd09SZHNOSEt1ZTBOSWltTFJiS2VSeFNOUWJCaXlJQWgzd0JfVUxBNDdqMmFNWXBfZVEzUjJiMnB4M3ZqdVZWQ2ZNRnlHZjR0VGRscjZOQ1FGWWkzMlgwYXJaekNjaUk4MjZRbnRTNmhfTjI5LXBhUVp5bWFKTFRvRmdrT2JnSkJ1UlpEa1hiUW9ZUmZzeGEyYlk0ZWpJMGJxTm1LdDNPdkhMQ2JWOXJhV3c?oc=5"
         }
       ]
     },
@@ -362,6 +410,18 @@
         {
           "name": "Aventuras na História",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTWE0WHc5ZzRBaEtLb0hkUjNBUkEyc1dNQ0g5Mm9USGpLRVNTT2ZUbklVTzEyc3lSVXhZS0hSOXY0aHRidUYtZ0JReGZuZ0EtN0FQQ0pJZjVFc2I4blA4ZEp0U0RLQnJyU0dYU3ZMN2oxQjYxc1dYS0p3UnQ3SDhNS2pSdE1faExTbFNNcTAyVlk4UVJsSzNFeUJWYTVHeFNKZEU1RXhFLTEzZ3BTZVhmTjk3R1lYUDJ2MVg0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1661d29d3143",
+      "title": "Atendimentos por endometriose quase triplicam no SUS e expõem lacuna no cuidado em saúde mental - ND Mais",
+      "published": "2026-05-24T11:05:08+00:00",
+      "summary": "Atendimentos por endometriose quase triplicam no SUS e expõem lacuna no cuidado em saúde mental&nbsp;&nbsp;ND MaisNotícia: Especialista alerta: Sentir cólicas incapacitantes não é normal e pode esconder quadro de endometriose&nbsp;&nbsp;BH EventosGracinha Mão Santa reforça avanço no debate sobre política pública de enfrentamento à endometriose&nbsp;&nbsp;Assembleia Legislativa do PiauíVÍDEO: Dr. Pablo Leitão traz alerta sobre pré-eclâmpsia e inovações para endometriose&nbsp;&nbsp;Diário do Sertã",
+      "sources": [
+        {
+          "name": "ND Mais",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQWRucFpEOWdYRDNFUjNtYlNEQUlmNmpCMUsxclhTWjJVQTAzVktoZWFVWVQxaXNkWlI4alRrbjdoQmY2a01rZmFDaW44cFJZMnNhZHJBcVV6X0txSzRfeGJoY3Y5dXBWbEFYa2N0RktwOHU1eFRfVXAzZHBld1daWHFlbWw1anFNcWJieXBFcTVmMUdBTDl5UWdjbmFxYmhhbVROR3pDcE4tN3MtS21jMnZJeUFqamhveEgwT1V4YWJfZw?oc=5"
         }
       ]
     }
