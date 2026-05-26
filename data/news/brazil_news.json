@@ -1,31 +1,163 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-05-26T09:59:55.823474+00:00",
+  "fetched_at": "2026-05-26T15:37:12.803559+00:00",
   "total_fetched": 93,
   "unique_count": 92,
-  "health_related_count": 35,
+  "health_related_count": 38,
   "news": [
     {
-      "id": "0714e9a0b9e7",
-      "title": "A canetinha empacou? Cientistas descobrem por que efeito de remédios como Ozempic pode desacelerar com o tempo - O GLOBO",
-      "published": "2026-05-26T07:02:09+00:00",
-      "summary": "A canetinha empacou? Cientistas descobrem por que efeito de remédios como Ozempic pode desacelerar com o tempo&nbsp;&nbsp;O GLOBOCientistas descobrem por que os efeitos das canetas emagrecedoras diminuem com o tempo&nbsp;&nbsp;O TEMPOGLP-1 no cérebro: o novo mecanismo que explica perda de apetite além do estômago&nbsp;&nbsp;Tua SaúdeSemaglutida mostra potencial no tratamento do transtorno por uso de álcool&nbsp;&nbsp;MedscapeCientistas descobrem por que a perda de peso de Ozempic e Wegovy eventu",
+      "id": "8260766fdde0",
+      "title": "Sarcopenia aumenta risco de quedas e compromete qualidade de vida de idosos - Folha PE",
+      "published": "2026-05-26T10:03:58+00:00",
+      "summary": "Sarcopenia aumenta risco de quedas e compromete qualidade de vida de idosos&nbsp;&nbsp;Folha PEA perda de massa muscular após os 50 anos não se deve apenas à idade, mas sim à baixa ingestão diária de proteína associada ao sedentarismo&nbsp;&nbsp;Tua SaúdePara os 50+: três fontes de proteína de alta qualidade fáceis de incluir na dieta&nbsp;&nbsp;O GloboO envelhecimento da população aumenta a incidência de doenças musculoesqueléticas.&nbsp;&nbsp;Vietnam.vnO impacto na saúde após os 50 anos que a ",
       "sources": [
         {
-          "name": "O GLOBO",
+          "name": "Folha PE",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQm9BT1F3SktUWGZvWURab01ESVMtTUlVd3ZIVkN1Z1JmR1ZOT1pDdllBUDljSTlqWVlCWXZOWlpZZ3dIbFJ4aTdkYWwzTGdBaTZ4XzBYc3Q3Zmt5SWxvX3E1UHdyeUp4N2hRbUNyZE41VU9TMUlJS3hOYVNuWVhIb1ZCNDd3OGVmSXJWR2JDYmpaOUpvaEZ4amdXVUVJLXFXSVFkbFFXN1dERkNTMmg5UVZldWVqd9IBtgFBVV95cUxNNXVIalc3REJMRzQ4eUxRVlhUa3dtVlF2M0lMeDlTLWdoWGlIR3B1UmhQMGprbGQ3ek9FRU1MeVVjYzZPYXhWelhvVFJVTEhtVmJHR25QYVhEa0V3TDMzdkVkLXVFdVJnTzk5Tnk3MTRIWU43OXBDNFd1VUdPU1JZNlF4YS0xVmZ2U0Y0ZVRzeTZSTzFlNU5tZ3JLbjBQclpGU3BfVU42ckFIVGVmV0s0Smw3aU5xZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9488dcef1b99",
+      "title": "O que nos faz envelhecer mais devagar? 5 hábitos comprovados pela ciência e outros 5 detalhes pouco conhecidos - Tua Saúde",
+      "published": "2026-05-26T09:30:39+00:00",
+      "summary": "O que nos faz envelhecer mais devagar? 5 hábitos comprovados pela ciência e outros 5 detalhes pouco conhecidos&nbsp;&nbsp;Tua Saúde",
+      "sources": [
+        {
+          "name": "Tua Saúde",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWkhHb3VTUEN5MU5nUVp4c0NKemszWDhaX0JDWGwzMmFkclEtMndGUXVGWjRaTXVTdkNxUk5VRV9KeVZUNDdlaXZvNjdhbkpwMEJaQThPcnVmeERfYUQ5Yy04MnlSQlZ3Q2VMR2taVTNwaWNxbWhDZHNCMHN1TG50alZXSmR4RHEtZzctZVlnOUpGQW14TkxhQ0xfSmhBaVhLSjcyQndrNzhtQUdmOGJnMEdrd0M4U1M3bGZIN3NycU1udm02eGI0VFV3ZWNPSjdFbTZmNkt4a3JjSGtDMl95VWdhdW5hQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6dd2c63759bd",
+      "title": "'Rosto de Ozempic': conheça produtos que prometem minimizar flacidez facial - UOL",
+      "published": "2026-05-26T08:30:00+00:00",
+      "summary": "'Rosto de Ozempic': conheça produtos que prometem minimizar flacidez facial&nbsp;&nbsp;UOLMédico de \"Quilos Mortais Brasil\" sobre canetas emagrecedoras: \"Ferramenta\"&nbsp;&nbsp;CNN BrasilO mercado das canetinhas&nbsp;&nbsp;O POVO+Uso de canetas emagrecedoras exige cuidados e acompanhamento médico&nbsp;&nbsp;R7Perda de massa muscular é risco das canetas emagrecedoras&nbsp;&nbsp;Agora RN",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQ3ZSLTJmdUNEZFo1QzhEc0RmRF96QzY5ei1IMHU0bVJBOU5zRDhFbXYxeXRsbGpXTFFxdWtST1V5YVZITFpDU2ZQWTlYU0hGSWMyLXBkc3NpekxkOVMwR1c3ZzI0U2RnbnBmX2kxb3JXZXY2R0h0YWUteUFueWUyRkp6WHd5eGI2eHpzX1JTSUdnWWlUUGxFZUhNSlRrUHUtYUF3SmJxbjF0QXlWSkFiaWtDbUxMaDdxdkJaM213aTFLTGt5bkdBQ2JBXzY1bjFtWW5pWExFZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b2d03f55eb2a",
+      "title": "O tipo de dieta que afeta a memória - O Globo",
+      "published": "2026-05-26T07:30:50+00:00",
+      "summary": "O tipo de dieta que afeta a memória&nbsp;&nbsp;O GloboMédico revela os industrializados que mais prejudicam a microbiota intestinal: “o organismo inteiro sente os efeitos”&nbsp;&nbsp;MINHAVIDA.com.brMá alimentação infantil pode alterar o cérebro por toda a vida, diz estudo&nbsp;&nbsp;ExameDIA MUNDIAL DA SAÚDE DIGESTIVA: EXCESSO DE ULTRAPROCESSADOS NA ALIMENTAÇÃO DOS BRASILEIROS COMPROMETE SAÚDE INTESTINAL DA POPULAÇÃO&nbsp;&nbsp;- Bahia EconomicaAditivos alimentares podem aumentar risco de cancr",
+      "sources": [
+        {
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNFAzbmF6QThZdlJJM1dud3ZlWXd0RWZtRlB6LXJXRHRJSERpeVZ6LUdNV05JTGFmWlIzcVdTbWkzM3hsSWVpZldqUG5Zandkal84cDBCOWlLSFV3dURoSWw5OVp1Q2pZOWw5NU95RDk5ZXVhTG1nY0VWdGtTQ2tZZTRVUHkxeEFudU1MNWU3U2pKcFpMc0HSAaQBQVVfeXFMTmtVS1JhTnV5UFR6anZpTzMtUGMtMmJYR3d6M2Q2b3dncFdiZEVUaGFJZjBsMVVaTV9aLWEwUDRhNmtDNVFDZ0tMMjlWLU1pam5CNzNDREM5ZnZyZUxhU2JaajdyeXNIeHEwNll6VF8zMTJBSEZrc3dXbEt0QTRZMmV4OXM2NnBmSVBhdnp2clN5WWxneVJsajBkMEdEMk9UUDd6U2Q?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "687dd9aca1ca",
+      "title": "Parkinson: tratamento em teste com células-tronco consegue criar novos neurônios saudáveis (e isso poderá mudar o curso da doença) - O Globo",
+      "published": "2026-05-26T07:30:43+00:00",
+      "summary": "Parkinson: tratamento em teste com células-tronco consegue criar novos neurônios saudáveis (e isso poderá mudar o curso da doença)&nbsp;&nbsp;O Globo",
+      "sources": [
+        {
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQUE1pSzcyc0JqYU1TS3k1YXNrcm5MYXNidUd0c2NnOTdJTkkzQlRWU2dNY0V1a1k4WFllTHNzRzlMQlBNeDJfQlJoOTVfdlZaNUh4R3hsM0RINllJWjFlY0xBTzFFdlB3N3FGdDJXbndkY3VSR2hVdUdLSy1VSW9iSWY5ejhHVXBpMzFHZ2pZSTIyeWxtQ0pYaVdsRUFmYjV3dkQ4Um00NzlaTTYxN0NURXFrMXR6V29icDlVUWxRTU0tSVNwWnJXbXEtUDlKek9FNkEtOVdMOE1WVFZIZnRReDJZRWlqYm1XMFJ2N25xLW9JUzIwLUNVeWVOR0J3Nl93Z1hmRXBMZ0d1d2Y4c1VkWNIBnwJBVV95cUxQWm44UHFvOUs3dWVkUlYzYzRrUG9ySlN1V28yc0gyT2VEcldPMUp6UDM4bFlfQzgyMXU4WFRVQVcxRlRZNlJMNlVlZGgzR21ZT0Fvejk5Nm9tZjlMajR0NTFPNUxOdDU3TUhPZWFsdmxCdEdvTVluUDd5RVdFdUhCN0ZaTVUyQUEzZEpRUnI1Zk1wZ3haMVRnbWRncDdPalJHX0xodDcxMnNmS0VLMFVDTXJYVGNsTEx6UTNNMmFfcXQ4U3FFUHZtQW1sWE9veUNRSDFLSFV0dGVXaV9hWFpPYTBadWpGeUtPRlQxM1gxUFI5LXVFSEpJckM5Vzd5b056clBpUTdadk9QcHB3aFRNampFRFU3Z3Q0YUpFZThkOA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "09d74cfc2899",
+      "title": "Pais na torcida? Como o comportamento dos pais na plateia de uma competição mexe com a saúde mental dos filhos - O Globo",
+      "published": "2026-05-26T07:30:41+00:00",
+      "summary": "Pais na torcida? Como o comportamento dos pais na plateia de uma competição mexe com a saúde mental dos filhos&nbsp;&nbsp;O Globo",
+      "sources": [
+        {
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPNUVCSUNrTXJyNWdVYUhkMGNTLVJER05Wd05pM0FyRVNrZnpsLW5qeUt2eUc5QUxRTmVCZ2pLSjR4U0pSbVRTNURxRDh0Z3pPRFpkT0xfTHlJeldxRGpkYXBmWjM2czQxc0pNOGxfdktKeVJRRHNuNEkwWXlQNHBoVWVpbVJyZEdmQlc0UE1iU0l5cGpNbkVGYTFya19JbVFHaGNDZ0ZNYjJqNjJrZUVZeld3VE5RUEstZThuaDFzVFpfcmcwNkpDaFpUeUU3NUprcjdicUNZU2M2VVczdnZSa3hTajJaRVBCVlZxMXdXa3hnLUhmX2JTSHNFNE9xUjYtNHZIY29GMDE2Xy16Y3Jj0gGeAkFVX3lxTE1SV1o1Ry1pd1lmTHY2TEVYZDUtNXVsSXNVMnRTUUk0LWZncUxySnFjSzFlR2xLdUVHTFg0RHdjQ3JNZTB0V2l3M2tkQTRZdEcxSWtZMjg2REQ1MnZuVHZvMTNTQUcxOVFBNHBNSEFDeHZWaC1ocEpvU0NMb1pvNVZhcS05c3cwRnhhVlB4cXJsb2ZLRkhXWmtvT2piTEpqZmowQTZLWEc3NzM4LXlCcVg3bjFSaG9Yclc1OElnUk1NMUNaSmp3TldQVUpOODhuMXJoeENpWE1IYXl3Nm52a2VhRkNhTGFlOHJUbndkdUJmcm9Lakl2VnlfbHRUSVJnMEowaUlEVDFUU01IcUJGX21EenNLWmdKZDc5Nmxndmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "77f5fab4a91b",
+      "title": "A canetinha empacou? Cientistas descobrem por que efeito de remédios como Ozempic pode desacelerar com o tempo - O Globo",
+      "published": "2026-05-26T07:02:09+00:00",
+      "summary": "A canetinha empacou? Cientistas descobrem por que efeito de remédios como Ozempic pode desacelerar com o tempo&nbsp;&nbsp;O GloboCanetas para emagrecer podem perder efeito com o tempo? Entenda&nbsp;&nbsp;MetrópolesCientistas descobrem por que os efeitos das canetas emagrecedoras diminuem com o tempo&nbsp;&nbsp;O TEMPOGLP-1 no cérebro: o novo mecanismo que explica perda de apetite além do estômago&nbsp;&nbsp;Tua SaúdeCanetas emagrecedoras podem reduzir o consumo de álcool?&nbsp;&nbsp;O Bom da Not",
+      "sources": [
+        {
+          "name": "O Globo",
           "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPazduZnZUa1VwT3Faam81LXB2TnkxUHJoMEFqN3NscUNJYnF2U3VXM3pBOUdlaDdqbUNJT0ExeG8zanVXbFFCczdCbXNNSlhGZGJaamdFRWhYMURNYUhtX2ZSLTZfZ0VIbENwclFBcmxLVmhkNDZRZ1NnUEk4QnlYdVF0YklVelRIY2VqWU10d0k0YjR0VllyT1h5ckVfZkYyTWNxWFo4YTQxNVlReEwxT0RmR0xfVERYUlRGRVpPMHpYZUNvTDJZNEFhQWRxTGlrR3hoNXBFWnNmRnA4alFidG5ua01rRWZ0a0c0VDN3dHJFdDNvT1ZvStIBhwJBVV95cUxNWHlvT1otNmZTaGgzTUdlemUzektiaUxCVGNNUXVPZi0xUVp5SFE3d3VtQ0pJSDdwc1lVSG1ZeHJvMWRwS1JzQjJXNEpiY3hXWU5RQXVZYjRDOWNaWDZjV0xsVWdGTGRUbEVoY1Q3WGdXNl9oekJaUlpJSkEwRDNQTTVpbUpFaXBocmNEbEhxcFYxZDExN1pkS3hlWVkzV1dzUldhdjIwSkZZZVBPa3BNa3ZTLUZ4TWdfbHBGT3NQei11QUZoYWM4c3VTWWNlWnhMMFVNXzRQU3NLVnB0Z1dFN0JxM2ZNRkpWVzBGQmVVMlVmVkI5dU9zYU5qUkJoclEteUZyUXZmMA?oc=5"
         }
       ]
     },
     {
-      "id": "8260766fdde0",
-      "title": "Sarcopenia aumenta risco de quedas e compromete qualidade de vida de idosos - Folha PE",
-      "published": "2026-05-26T01:21:47+00:00",
-      "summary": "Sarcopenia aumenta risco de quedas e compromete qualidade de vida de idosos&nbsp;&nbsp;Folha PEA perda de massa muscular após os 50 anos não se deve apenas à idade, mas sim à baixa ingestão diária de proteína associada ao sedentarismo&nbsp;&nbsp;Tua SaúdePara os 50+: três fontes de proteína de alta qualidade fáceis de incluir na dieta&nbsp;&nbsp;O GLOBOO envelhecimento da população aumenta a incidência de doenças musculoesqueléticas.&nbsp;&nbsp;Vietnam.vnObesidade na terceira idade pode acelerar",
+      "id": "3c5a383b28a0",
+      "title": "Estudo explica como as pirâmides do Egito foram construídas para resistirem a terremotos - O Globo",
+      "published": "2026-05-26T07:01:29+00:00",
+      "summary": "Estudo explica como as pirâmides do Egito foram construídas para resistirem a terremotos&nbsp;&nbsp;O Globo",
       "sources": [
         {
-          "name": "Folha PE",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQm9BT1F3SktUWGZvWURab01ESVMtTUlVd3ZIVkN1Z1JmR1ZOT1pDdllBUDljSTlqWVlCWXZOWlpZZ3dIbFJ4aTdkYWwzTGdBaTZ4XzBYc3Q3Zmt5SWxvX3E1UHdyeUp4N2hRbUNyZE41VU9TMUlJS3hOYVNuWVhIb1ZCNDd3OGVmSXJWR2JDYmpaOUpvaEZ4amdXVUVJLXFXSVFkbFFXN1dERkNTMmg5UVZldWVqd9IBtgFBVV95cUxNNXVIalc3REJMRzQ4eUxRVlhUa3dtVlF2M0lMeDlTLWdoWGlIR3B1UmhQMGprbGQ3ek9FRU1MeVVjYzZPYXhWelhvVFJVTEhtVmJHR25QYVhEa0V3TDMzdkVkLXVFdVJnTzk5Tnk3MTRIWU43OXBDNFd1VUdPU1JZNlF4YS0xVmZ2U0Y0ZVRzeTZSTzFlNU5tZ3JLbjBQclpGU3BfVU42ckFIVGVmV0s0Smw3aU5xZw?oc=5"
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNX0ZRMWxnbnh3ajFmeUdwNUpGOGluRkV4VUVtVlpDUTByRWJBQXp2a1BudkM1YUZHNHNOVVphUGF2YURXZmdsaDVjdm8tNUFYQ1pPdnVWME1ZUl9kUkc3WDgyUlBwUHNGXzBKVVNnWE5QTkN0MmRMZzRhdjNGRThyWnM3WURsTF9FeVNFOGt0alcyRVhoX3U5V3ZRSE1SeGVZS0MwWXllSXNIMVI5MF81bjJqVXMxczRYcDFpNkIwSXByZFpZZW9hdkpUMjhiNjVmbkNTWG5fcTBnSXMzZThOeWJaOEk2TmhBRVJ3emlaVHBZQdIBgAJBVV95cUxPcS1HTVcyRUVrVUlDMXJ3bEtKQXhjZjNtdVBTSkY1RXN1WW1ma2NYVUlTdGV2S2ppV3BQcDl3dGg2LWFBYzBmU3BwM1VIMFc5a0xzUHNEWmp6SFotaE5uWXF1d0xpY2lQa1VteWxRYkZjU3dUUkVHeDJmNGRUWWVqVDhOVW1NU2Zjb2lxQUI2dllRdzNMS3I5a1NuWmY3QXBzN0lCM1JxNzlmOU92dTdpenRlWHFnYWFLS0FCVHBlcS1sdFd6cDkxeW4yekY2TXpKSzZLbWhCemhjRkdDRlhRckpmdUJZcE5FRWl6TE4xUzlyaTNiS3RTVVFrbjhhaEc5?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2efe21fcb0d8",
+      "title": "Saiba qual é a quantidade ideal de atividade física por semana, segundo novo estudo - R7 Entretenimento",
+      "published": "2026-05-26T05:00:01+00:00",
+      "summary": "Saiba qual é a quantidade ideal de atividade física por semana, segundo novo estudo&nbsp;&nbsp;R7 Entretenimento",
+      "sources": [
+        {
+          "name": "R7 Entretenimento",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcUJoZTdZTTk5cVlmV3ZRaXBRT2hGbHR4enJBcUhmQ24xRnoyOWJ4V2VZVDNZcHZSajdybVRGQ19ZUTJaYWNaSnRkT3lGbzltODlhVTN5Y3RGRW1IWXA4dkZscXBkV1NfSUtjYkdiMk1ReVB1VlNmaklzVHBkLV9GeFNXN01BZUhyTXpRVEtMMVVVcjlvRTN0T19HX1dvMXdPaEpIQUEwRjlTakxFNExvZkJnVW5ZTWZEeXFlMWw0YkxFa0VFQ2ktekkxM24?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a764ffd5917f",
+      "title": "Um novo estudo derruba a ideia central que aprendemos sobre planetas e sugere que a Terra é a exceção e não a regra, a maioria dos mundos rochosos da galáxia pode não ter núcleo nem manto, apenas um fluido único e turbulento se estendendo até o c - CPG Click Petróleo e Gás",
+      "published": "2026-05-26T03:52:00+00:00",
+      "summary": "Um novo estudo derruba a ideia central que aprendemos sobre planetas e sugere que a Terra é a exceção e não a regra, a maioria dos mundos rochosos da galáxia pode não ter núcleo nem manto, apenas um fluido único e turbulento se estendendo até o c&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQSXFtOVlzellwcXRNT2I3eHItYmtLel9uQ3R3Y1dpb1NtZmV0WGFBYUtENUVRdlk1QjUxQ2hBaUJ2SDlqbFhOcnlEdjFRSjJMQmFOcklXeV9wc09XRG9aWXdOMm1YaXdyV1JCS1l2dFBNQktWV1lySm5meDUtZ3hoTHJvOWF6Y2dLOW5mVkU3LW5DTWpLcUxmck8xNDJYanVwMWtucVl3ejlLcWRKU3Vjcy1sQzRCRUduTElobWg4eGhNSy1fQXNFUTNfWnY0SHRkbzl1dTlveGFHbndfTGVENnhiWkdPcU5xdjltZTc3Sm5zN1liTHRULVJEaVpleVVkYlpzZDg0R19lX2dVSUhtX0hPRGFRVFVUcE1RUEphRGp5UDBLdFA3R19ENlk4Qk1rUnVzeGFYbFlPUERXRGVhZHZGeXRGeVk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d4d808097477",
+      "title": "Mesmo impactadas, florestas primárias ainda são principal fonte de biodiversidade na Amazônia - Agência FAPESP",
+      "published": "2026-05-26T03:04:16+00:00",
+      "summary": "Mesmo impactadas, florestas primárias ainda são principal fonte de biodiversidade na Amazônia&nbsp;&nbsp;Agência FAPESP",
+      "sources": [
+        {
+          "name": "Agência FAPESP",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTlR5NWx6R1VIaGpuSk1nTDE5Y3pzZVhTU1N4NlBobFBoaENqVk5nQ1BCNDl0dy1pTHVWV0RQVEJ6NkxFSXRrWGF5eGZ3Mzg4LWRYb0xSNVF4UE9QaF80czZDbTJQek9KN1lSV2oyd3NYa2JiZmhDajVzaUUzRVg5UEZMa1BVbDdIaDhobGRGTTl5SzQzWXE3cFRjXzc2b0ZzM3d1TFJ0MnR0a3dSMHRycTF6WFljZnF2eHhSa2xLM2RJdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "739a398d737a",
+      "title": "Cientistas reanimaram em laboratório um vírus de 48.500 anos que estava congelado no permafrost da Sibéria desde antes da extinção dos neandertais, e ele ainda era capaz de infectar organismos vivos após dezenas de milênios adormecido no gelo - CPG Click Petróleo e Gás",
+      "published": "2026-05-26T02:54:00+00:00",
+      "summary": "Cientistas reanimaram em laboratório um vírus de 48.500 anos que estava congelado no permafrost da Sibéria desde antes da extinção dos neandertais, e ele ainda era capaz de infectar organismos vivos após dezenas de milênios adormecido no gelo&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPeTNBNmNvQUhxbFNDUFQ3MDV3TWpVWWRPNVJDaHU0STNla3c5UWZjdDJaOXdTVk5YT0h3RUlZQmZGVjdqckUxeDNhcGxiS0pMYm5DWTNVVXVBRXBfeXduNHVrMnlnbVcwU1YwSTdqck9McFd0b0hUVDhzVmpMLXl3cXNKMUJHYXlUUUhZdE1mc2xkazFUSVZab25mWHNrZkRhUEZGcUdoYnFWOWRJZG5Kd0hMUUluX0Qwbmw5S3JNaGFldW5ZVGZfMU5kd2s5NWdRQlcydVNGUUtldXdiNGNLTnZqMHMtOG55ZnVTWjJMNGkzSGl5UTRSekFvMGtyaEVwZkRwdDJQUFJYT1VLS1dDZnVZUnBiYkpNM3VWVlZ4clgxRWR3bUFReXE1aWNGeTc1bGVVcmpKanV0eWNpbEFFbG1MLXZWVXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ffeadd660ce4",
+      "title": "3 plantas tropicais que decoradores usam na sala para filtrar o ar segundo estudos da NASA - Estado de Minas",
+      "published": "2026-05-26T00:25:00+00:00",
+      "summary": "3 plantas tropicais que decoradores usam na sala para filtrar o ar segundo estudos da NASA&nbsp;&nbsp;Estado de Minas",
+      "sources": [
+        {
+          "name": "Estado de Minas",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOS0lMaGt1OXNSVG9lNzA5cGs5OUoyRWFqdnVhalYzbmUzeUF0U3Bybkl6emJDa1ZxX1B5bjRDUElSRE5xZGpoTHJVSGdkcGV6ejFaZkRiSHhGMnh6cHNrR0FrYTluUEU5ODNzcERjQVcxeVYteXlIX3VfNXBUcmtQSi1xTEtDcFRHQWJ1eE5tS3VuUEsxUGRPV0VsVmVCZDg1eEFZRDVoYmxHdmVqcExyUDB3Rm9HUXVCaG0wbXk4bFlFV0c2bHlqUVVVRQ?oc=5"
         }
       ]
     },
@@ -54,26 +186,26 @@
       ]
     },
     {
-      "id": "60a08b3e6312",
-      "title": "Vacinação contra gripe e sarampo terá postos em estações do metrô do Rio nesta terça-feira - Diário do Rio",
-      "published": "2026-05-25T19:54:40+00:00",
-      "summary": "Vacinação contra gripe e sarampo terá postos em estações do metrô do Rio nesta terça-feira&nbsp;&nbsp;Diário do RioPrefeitura abre mais de 200 pontos extras de vacinação contra gripe na reta final da campanha no Rio&nbsp;&nbsp;G1Vacinas após os 60: o que quase ninguém conta sobre envelhecer com mais saúde&nbsp;&nbsp;Jovem PanVacina da gripe não mata: descubra o que é mito ou verdade sobre a imunização de idosos no RJ&nbsp;&nbsp;Governo do Estado do Rio de JaneiroRio tem mais de 400 pontos de vac",
+      "id": "fc863803fdee",
+      "title": "Doença que causou morte de Gabriel Ganley pode provocar morte súbita em jovens - Diário do Nordeste",
+      "published": "2026-05-25T21:00:00+00:00",
+      "summary": "Doença que causou morte de Gabriel Ganley pode provocar morte súbita em jovens&nbsp;&nbsp;Diário do NordesteCorrida de rua exige atenção aos sinais ocultos do coração&nbsp;&nbsp;Agora RNReconhecer o risco de eventos cardiovasculares durante a corrida.&nbsp;&nbsp;Vietnam.vnMorte de Gabriel Ganley: O que é cardiomiopatia hipertrófica?&nbsp;&nbsp;band.com.brCorrida e natação são aliadas na prevenção de doenças cardíacas&nbsp;&nbsp;CidadeVerde.com",
       "sources": [
         {
-          "name": "Diário do Rio",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTkU2TUx0bFhSMEV0TTBvM1RzTTBVSDJtNTZwbU9wa1o3bGVaM1hZQWw0ZTZNTkM0UkJPSmQyay1Xd3AxSmFxRzlxdEhZVTdsYV85MUU0R0xWRl9TcUxkVC1vZkd6NXd3bTZXbXZsWG9aZWZXX3JvOFlldU4ya21fWjZkOVdHb0hSU29hLUVHSUQ0dlZvY2stU0VBZm0wS3ZMQmVkRGdiOFhDckdENE5pLUNZQzNxdw?oc=5"
+          "name": "Diário do Nordeste",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbjhKREZYMF9BdTZfbUlzQ1dNZUJlZGVQRXNTLTladkNJWC0xRGVwZGZMZmkzdk4yME1sTW5jcjM5RjdGdnJlT3o1OWdYQ254bnlPb0VuWE5RbWZ6cmRxd1J2bkhVUnExdWo3WTVPMFRHZ3Z0Y1ZRenExTlluRjFMX2MyUWdRSkNRZkhiRDRGbG9PYVN4SkxWRWFKQ3hCalNJdUNxLVJOY1RRdURZUFBQd1pUanJwMzRGVnFNOF82SGRlYmgzaE1VTEhGazdpTkJ0cTYyWTgtSXNYejVrNktPSw?oc=5"
         }
       ]
     },
     {
-      "id": "fd1ff912bebb",
-      "title": "Sete municípios sergipanos estão com alta infestação do Aedes aegypti - G1",
-      "published": "2026-05-25T19:15:46+00:00",
-      "summary": "Sete municípios sergipanos estão com alta infestação do Aedes aegypti&nbsp;&nbsp;G1Terceiro LIRAa do ano identifica sete municípios sergipanos com a alta infestação do Aedes aegypti&nbsp;&nbsp;FaxAjuSete municípios sergipanos apresentam alto risco de infestação do Aedes aegypti, aponta LIRAa&nbsp;&nbsp;Fan F1",
+      "id": "60a08b3e6312",
+      "title": "Vacinação contra gripe e sarampo terá postos em estações do metrô do Rio nesta terça-feira - Diário do Rio",
+      "published": "2026-05-25T19:54:40+00:00",
+      "summary": "Vacinação contra gripe e sarampo terá postos em estações do metrô do Rio nesta terça-feira&nbsp;&nbsp;Diário do RioEstações São Conrado, Carioca e Triagem do MetrôRio recebem pontos de vacinação contra influenza e tríplice viral&nbsp;&nbsp;O GloboRio tem mais de 400 pontos de vacinação contra a gripe nesta semana&nbsp;&nbsp;Prefeitura da Cidade do Rio de JaneiroCâmara do Rio promove campanha de vacinação no Palácio Pedro Ernesto&nbsp;&nbsp;Câmara Municipal do Rio de JaneiroSecretaria de Saúde do",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUWdCVW1vaGwzWGo1MjRMTVRUdm8yNEI4Z2diRWJWc3RJbXdJUFhQTnNHaWxrMjdCTmhIOG0tbWt0aDBjbUV0dGlLblh4ZExnbWdLeEl3Z2dFU1JsQmI3MHhVeGVvZjNSZjJoamZpb1JESGdoeVFwMEEwVmVwU3Fnb3ZmdWxzeWJRallCWDNPQzZiTWdCSWZIU1JmT1hPdXBQdGtFWkUzUmZHdjNmUldYOFItaFV3UVN2eDllcC1DOFk3NmRw0gHTAUFVX3lxTE5nM1VLU1dkUXRLRnVoLUV3UVpLcjQ3UTdUSFBqa045cW5xNEZWSTYzU05vRF80NmxrdW92d3F0ZnhJa1hqUlN1Ulh0Mnpibk9pMGZDa3lPOXF2ZDRDbkFUT3FxemhEcXNkUmFpeUMwY3gwT2JOcVF5d19QQWNDeDlNbGhRVThRdldUS2FfZ2YxbzRMMkZGNG9qQy1lb3lzV2t0ZG5TMm4xYkt1YzdpNzFnVFZOaTZ5S1hZZVEwWVUxckoybXpxVWtjNkxCSmwzYlF6VDg?oc=5"
+          "name": "Diário do Rio",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTkU2TUx0bFhSMEV0TTBvM1RzTTBVSDJtNTZwbU9wa1o3bGVaM1hZQWw0ZTZNTkM0UkJPSmQyay1Xd3AxSmFxRzlxdEhZVTdsYV85MUU0R0xWRl9TcUxkVC1vZkd6NXd3bTZXbXZsWG9aZWZXX3JvOFlldU4ya21fWjZkOVdHb0hSU29hLUVHSUQ0dlZvY2stU0VBZm0wS3ZMQmVkRGdiOFhDckdENE5pLUNZQzNxdw?oc=5"
         }
       ]
     },
@@ -86,18 +218,6 @@
         {
           "name": "Riomafra Mix",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNT05adERKZzYwaVo2SkczYU9XTmU1U1dVdExZaGNUVHZZNDJWLXZ5aUZvTktrQUtjcktkX1g2akwxYm50b182MTF0S3lQYmx4NEhubXlSMFczUG9KclQycXJueDczeTA5dHhSZF8zYmNMWkdNeVlaejlJRzRYMkg2bXZtR0VkRnJxR3pzZUZLc3lwY3lrb1hZVlp4VHd6dGdCLUdfbWg5NWNBenNSS1hvYTA0MmREMmZlMmwzUGx3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "90464b764c06",
-      "title": "Pesquisadores encontram criatura marinha tão incomum que decidiram homenagear personagem clássico da TV - Revista Oeste",
-      "published": "2026-05-25T17:45:00+00:00",
-      "summary": "Pesquisadores encontram criatura marinha tão incomum que decidiram homenagear personagem clássico da TV&nbsp;&nbsp;Revista Oeste",
-      "sources": [
-        {
-          "name": "Revista Oeste",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZ3NGcE5HZ01zQ3JtWHRDNzZRaHJCUWU5Y1RKeHp3N3k2cGgyOV85ZU1PdzNkT1ZNYnVSbVlPNTlDbkNiRmFybTIwbVZ4bml6SUFGdWNpM0R2OWtUcWRRWHVfS1Z6bmk2S3NQVXV6VWJvV1VpdVkwUVhDblo0RjRRVDJLYmNFU25GTkc4Q3dUYTBUU1BzLXJaVzJock1uWTM3TFZJQi1pMVpZLXN6MXJUeG05cXMwOVlERnlmX2hPNnY3SUdaTU9MSHkzMnZwVDBxSFNTVWdsOFIwQ2VLalZ3amFScU90dw?oc=5"
         }
       ]
     },
@@ -126,22 +246,10 @@
       ]
     },
     {
-      "id": "8e02886dbfb6",
-      "title": "Casal é condenado por se recusar a vacinar os filhos em MG - O TEMPO",
-      "published": "2026-05-25T16:57:19+00:00",
-      "summary": "Casal é condenado por se recusar a vacinar os filhos em MG&nbsp;&nbsp;O TEMPOJustiça condena pais por se recusarem a vacinar os filhos em Minas Gerais&nbsp;&nbsp;Correio BrazilienseTodas as postagens marcadas \"recusa de vacinação\"&nbsp;&nbsp;Portal UAICasal que se recusa a vacinar filhos é condenado a pagar multa em MG&nbsp;&nbsp;MetrópolesJustiça condena casal que se recusou a vacinar os filhos em cidade da Zona da Mata&nbsp;&nbsp;Rede 98",
-      "sources": [
-        {
-          "name": "O TEMPO",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbk9BalJLc3kxcWhtcnNLbm1FcHVxLXlpTENxTFMxdlZkOFJXNzVqcmtmWnlmSkxtZjRsSUFUN3NLLTI2dGE1UjJhWk1WdHNYeVotbEtNYWJKWmh0T293Z0ZCN003bmtmcS0teEF0VlZVUFdlbF93dmNtZzBYellKSjRXcHJfVkh5MUhOcHd2bmJUU1ExMVRQNTUzandNMzJxZ2k3Sw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b1d0b97ecdcb",
       "title": "Anvisa autoriza novo medicamento para enxaqueca — Agência Nacional de Vigilância Sanitária - Anvisa - www.gov.br",
       "published": "2026-05-25T16:52:00+00:00",
-      "summary": "Anvisa autoriza novo medicamento para enxaqueca — Agência Nacional de Vigilância Sanitária - Anvisa&nbsp;&nbsp;www.gov.brAnvisa aprova novo medicamento para enxaqueca que pode tratar e prevenir crises&nbsp;&nbsp;G1Anvisa aprova Nurtec ODT: novo remédio contra enxaqueca&nbsp;&nbsp;Campo Grande NewsAnvisa aprova novo medicamento da Pfizer para enxaqueca&nbsp;&nbsp;Poder360Anvisa aprova remédio para enxaqueca que dissolve na boca&nbsp;&nbsp;Metrópoles",
+      "summary": "Anvisa autoriza novo medicamento para enxaqueca — Agência Nacional de Vigilância Sanitária - Anvisa&nbsp;&nbsp;www.gov.brAnvisa aprova novo medicamento para enxaqueca que pode tratar e prevenir crises&nbsp;&nbsp;G1Anvisa autoriza novo medicamento para enxaqueca, o Nurtec ODT&nbsp;&nbsp;Agência BrasilAnvisa aprova novo medicamento da Pfizer para enxaqueca&nbsp;&nbsp;Poder360Anvisa autoriza novos medicamentos para enxaqueca, diabetes e Parkinson&nbsp;&nbsp;O TEMPO",
       "sources": [
         {
           "name": "www.gov.br",
@@ -150,10 +258,34 @@
       ]
     },
     {
+      "id": "4005ca0b0962",
+      "title": "Médico alerta para câncer após caso de Maíra Cardi: ‘Incidência vem aumentando nas últimas décadas’ - CARAS Brasil",
+      "published": "2026-05-25T16:25:03+00:00",
+      "summary": "Médico alerta para câncer após caso de Maíra Cardi: ‘Incidência vem aumentando nas últimas décadas’&nbsp;&nbsp;CARAS Brasil",
+      "sources": [
+        {
+          "name": "CARAS Brasil",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQLWU4VUxpRkQ0QUNtbS0tTHRrU2dNNnNKSG9wRU9oV0FuY0hkenpWYzlwMWtkcXljZXFWOURwLUlBR3Fyc0IwZFRfM2NQYnNlRXZ3YnpyZVh5NHphMnltU1dXUGNfa3NGMmZqc3lONWRRN2l6aFo4TV9KM2pzZmNVc1J3LWNzTFZLcEI3aUc5cTVrX2ZkaDRXQmhBelR1bWRDZzNqVmN4QkhpM29kU2dJaFpRUDZJenB5U2V2aE9HSldqMkZocS02TkxFQ3Nqdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "35d7df504857",
+      "title": "Quer fazer terapia com dois psicólogos ao mesmo tempo? Entenda os cuidados necessários - Folha de S.Paulo",
+      "published": "2026-05-25T16:00:00+00:00",
+      "summary": "Quer fazer terapia com dois psicólogos ao mesmo tempo? Entenda os cuidados necessários&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNLXF1LVlYMkxkWmYxSlZYS2stLXZiZk1WMlhwYmUtdTEyTHpINms0dTgxejQxTHBqUE5ZYTczejRaTGJlR0pYQ0RIV054NUF2T1Q0cmVTUkwycHJVS25mcnJpVzRuQXROXzMtWURZQTdNdXhuS2RWUUdjYk4wZDdreVQ2Q2ZCcGlJMDhEcDVMWHdHMThZdG4yLUwyU0dKSVltRG9VemxuRUhFS085TnplMnQ3b1phdGRLR1V2YVFaZTBUa00zZXdIR2tVbk1QemIxbi1RMDA1NA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "207c179b4a67",
       "title": "Novo registro de genérico amplia acesso ao tratamento de diabetes tipo 2 - www.gov.br",
-      "published": "2026-05-25T15:59:43+00:00",
-      "summary": "Novo registro de genérico amplia acesso ao tratamento de diabetes tipo 2&nbsp;&nbsp;www.gov.brVeja mais manchetes e perspectivas no Google Notícias",
+      "published": "2026-05-25T15:59:00+00:00",
+      "summary": "Novo registro de genérico amplia acesso ao tratamento de diabetes tipo 2&nbsp;&nbsp;www.gov.brPara ampliar acesso ao tratamento da diabetes tipo 2, Anvisa aprova uso de genérico&nbsp;&nbsp;MidiamaxNovo genérico amplia acesso ao tratamento de diabetes tipo 2; confira&nbsp;&nbsp;MetrópolesAnvisa aprova primeiro medicamento genérico com dapagliflozina e metformina para tratamento do diabetes tipo 2&nbsp;&nbsp;Gazeta De VarginhaAnvisa libera genérico inédito para controle do diabetes tipo 2&nbsp;&nb",
       "sources": [
         {
           "name": "www.gov.br",
@@ -234,6 +366,18 @@
       ]
     },
     {
+      "id": "84aea42e34f9",
+      "title": "Pela primeira vez na história, cientistas conseguem acompanhar o nascimento de uma divisão tectônica submarina - Revista Oeste",
+      "published": "2026-05-25T10:55:00+00:00",
+      "summary": "Pela primeira vez na história, cientistas conseguem acompanhar o nascimento de uma divisão tectônica submarina&nbsp;&nbsp;Revista Oeste",
+      "sources": [
+        {
+          "name": "Revista Oeste",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQRTlSdXFOQVE3VGxpaW9xbURfMXJ2TXhCbjB3NzNwY0ROanpYdW5SUWVaMG5tVnhHaTdaanVfYzA3VXZOOUluM2hLQUJybmtaVnE0WDd5cjhVSDFUTDZIc3VNUU9FQVh1YlJWQkE3cTBYUmhvcktzTFpQQ1lrVVhNamVnSldNenY3RXdXS2lkb096NmhnVC05WjZ3cUprekJ5LUlQVWlDbFY1Yk8zLUlTczJZSHA2a29aOGJMd0Z0eWFwdUtmUzNwZTdzOWdtOUhJZkt5TGdGeDZseDBpcm1mUHZuLUhVTDR4eGNQRGV3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1ade2b9c63ce",
       "title": "Calor excessivo pode 'asfixiar' corais, segundo estudo - Folha de S.Paulo",
       "published": "2026-05-25T10:00:00+00:00",
@@ -249,7 +393,7 @@
       "id": "5c187a1c114d",
       "title": "Dia Internacional da Tireoide: entenda impacto sobre a saúde - CNN Brasil",
       "published": "2026-05-25T09:00:40+00:00",
-      "summary": "Dia Internacional da Tireoide: entenda impacto sobre a saúde&nbsp;&nbsp;CNN BrasilSaúde da tireoide exige atenção e diagnóstico precoce&nbsp;&nbsp;G1Dia Internacional da Tireoide: 6 curiosidades sobre a glândula&nbsp;&nbsp;GZHCâncer de tireoide cresce entre mulheres e reforça importância do diagnóstico precoce&nbsp;&nbsp;Folha PETireoide: alerta para cuidados com glândula que regula funções vitais do corpo&nbsp;&nbsp;Folha BV",
+      "summary": "Dia Internacional da Tireoide: entenda impacto sobre a saúde&nbsp;&nbsp;CNN BrasilSaúde da tireoide exige atenção e diagnóstico precoce&nbsp;&nbsp;G1Dia Internacional da Tireoide: 6 curiosidades sobre a glândula&nbsp;&nbsp;GZHCâncer de tireoide cresce entre mulheres e reforça importância do diagnóstico precoce&nbsp;&nbsp;Folha PEPor que o cansaço constante pode ser sinal de tireoide&nbsp;&nbsp;Correio do Povo",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -270,50 +414,14 @@
       ]
     },
     {
-      "id": "4ae3e35710d5",
-      "title": "A vitamina que o Brasil toma sem saber se precisa - O GLOBO",
+      "id": "95352a6b168d",
+      "title": "A vitamina que o Brasil toma sem saber se precisa - O Globo",
       "published": "2026-05-25T07:30:54+00:00",
-      "summary": "A vitamina que o Brasil toma sem saber se precisa&nbsp;&nbsp;O GLOBOVitamina D: como tomar sol pode ajudar a reduzir o cansaço&nbsp;&nbsp;UOLA falta de vitamina D no organismo não se deve apenas à falta de sol, mas sim a problemas digestivos crônicos como inflamação intestinal ou irritação do fígado&nbsp;&nbsp;Tua SaúdeTomar sol ajuda muito na saúde óssea, mas o benefício real para a síntese de vitamina D só aparece se a exposição diária for feita em áreas maiores do corpo, como braços e pernas,",
+      "summary": "A vitamina que o Brasil toma sem saber se precisa&nbsp;&nbsp;O GloboA falta de vitamina D no organismo não se deve apenas à falta de sol, mas sim a problemas digestivos crônicos como inflamação intestinal ou irritação do fígado&nbsp;&nbsp;Tua SaúdeVitamina D: como tomar sol pode ajudar a reduzir o cansaço&nbsp;&nbsp;UOLTomar sol ajuda muito na saúde óssea, mas o benefício real para a síntese de vitamina D só aparece se a exposição diária for feita em áreas maiores do corpo, como braços e pernas,",
       "sources": [
         {
-          "name": "O GLOBO",
+          "name": "O Globo",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa0FfcEpSbDhkMDVKMVFnVmd3SGNLVkltcVI3YTVVNjFsVTV3dHFqWml0YmJLaGVpV1RLVmJvVVZVZUVwN3JPQzJ3UlhESXc2bVFuU2NzWi1PaUlmcWxvRG5EYkZqdHZaZnRWbkpVR2FtbmJ0LVl3dzJFNjZrMWx6M2dfZWRETHQ4U2g1cVZXWERSYUlqMWhfWWRqZUc5MG5uOGFPQkpUc2trZVFuRnBWT1JaWUTSAcMBQVVfeXFMTWRaN3hzS0o5REV3eGplbi13OE9yOGhhd09sQzdsbGhLYjJ0TmdHbFJlbjNPel9kYl9od2VCLTROZm5idEwxRy0yTG9IMGFpX3FyNlVmSmJUenBObXRSYkcweWFxYmxqa3Q4OTlEa01wbDJPYXhfOW90MVh2YWZWb25IcWk0U3RQT2t2aVVzaU85T3EzenZobHk1NzZrcnRDdDBjdUNCZWoyTkVKOE5SMk5tQTNiTFktXzM1amhGRHYxWjgw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e737ea20c2e3",
-      "title": "Fonte da juventude? Cientistas identificam proteína no cérebro que pode agir como ‘chave’ do rejuvenescimento; entenda - O GLOBO",
-      "published": "2026-05-25T07:01:23+00:00",
-      "summary": "Fonte da juventude? Cientistas identificam proteína no cérebro que pode agir como ‘chave’ do rejuvenescimento; entenda&nbsp;&nbsp;O GLOBOCientistas identificam proteína cerebral que pode controlar envelhecimento e suplemento potencialmente ben...&nbsp;&nbsp;O CafezinhoCientistas descobriram uma forma muito mais simples de retardar o envelhecimento cerebral — e ela pode abrir caminho para novos tratamentos contra Alzheimer e perda de memória&nbsp;&nbsp;gizmodo.com.brProteína reverte envelheciment",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQdkpkdXgxcGZ1LW03U3BjNUl1aVFzWENCWHozNzRRNGY1X2pfQzNwQzVRb1o2QnNFelJDRzgtdXQ2VWgzaUc4bnJiYVU2RzZBTEhyU3l1ZXdyUHBaTXFxdXUyeE8wTkdicm5Bc2kxcUlyQ0N0MExzVFVKZzFpUnUwVzkyLXgxb21JM2V6OFBSelFtZkU4R280MDdaTzJ4U25YVU81anlqdXA1Vk5RLW9BZHBXV2FBWVNqdjZaUDZpU0dZMy1aUXJubGNnY1BhWklrcWYyQU5XcGFUQURMV1BJcDNLTldsZ1ZKdkhjbDhrWk9BSks1Y0k5Qm9ZbG0ydTTSAY4CQVVfeXFMUHc0VUowUXluMk9FdHlaMnJJN1FUbDlOdV9fUGxuQ2w2a0IzQkE2cXM5RGh6dmgwcEFiQnhyLUE3RzJCeVpmQThDVnE2MGM4TGpaZF9OX3REakNnMnBxck4yWWdHM3NGY2xHajRxRnNRcE9xSGxzN2tZc21qNUo0cllrV2hvb05UYVRJSWhRVUc0bW9sMmt4bU1CWDFPSExoaHhXUzBkUGEyUUY4LVE0U2ZyYmhWbE1wck9FSjVNMExrV3JsNEU2b0l4bHlrdU5ZTld6d1VzLTFob1NRZ1pTc0pLM1l4OTVWY05oWG9nQkRZUTF2dHgzMERLZDV3aGJ6clVpdTVBZ2xqMWlMR1dR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "260dda44230c",
-      "title": "Canetas emagrecedoras causam pancreatite: mito ou verdade? - R7",
-      "published": "2026-05-25T05:00:00+00:00",
-      "summary": "Canetas emagrecedoras causam pancreatite: mito ou verdade?&nbsp;&nbsp;R7'Rosto de Ozempic': conheça produtos que prometem minimizar flacidez facial&nbsp;&nbsp;UOLO mercado das canetinhas&nbsp;&nbsp;O POVO+Uso de canetas emagrecedoras exige cuidados e acompanhamento médico&nbsp;&nbsp;R7Descomplica Aí explica sobre o uso das canetas emagrecedoras&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "R7",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUzh2ZXdjS1dJaEdYNkFkdXhab25FVHJHUHVoYmNnWHotSFdLXzRKSVNJRG45Ulh2NUtIdTQtWmJReWNZUjB3RnBTWE16RXpuS0FDMnFWX1J2QmxISFpZcEZJS2VuTmsxZGRLVG40NXgzOEJlZng4V1lMeEMxVV9ZM2lYRmFnRHdVTHFXQVhJYy1ncHM3TWZOSkFXd1h4YWxqUWpHT1d3ZFQ0dlRkZDFDbw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0e9dda1e9973",
-      "title": "Neurologista revela sinais \"silenciosos\" do AVC que muita gente ignora - Metrópoles",
-      "published": "2026-05-25T05:00:00+00:00",
-      "summary": "Neurologista revela sinais \"silenciosos\" do AVC que muita gente ignora&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcmRmUlB6ZVA3dVdGaEVTNWhDTnZWY0tFeUkwdmxKeC1MOE5obEp4eE5qR3JNMXB4Y04xUmNPbnd3YUpuQzUyejdpX3MzcVlFam5CeTBadDZQbjRIRGVLWUMzeTZqQjV0UHBBRXctVVJ4QzR3dmZwbmhZaS1hc3RPaThvUEZycUdJMHZrc3M5c3pmUkd0ZURtRmhhVVFPSU5OZTZwWjZ6Y1VQRUkzdENQSl9oRUo3YUJLX2dzNA?oc=5"
         }
       ]
     },
@@ -330,6 +438,18 @@
       ]
     },
     {
+      "id": "17bc736909e2",
+      "title": "Mudanças climáticas já afetam 85% dos brasileiros, diz pesquisa - Correio do Povo",
+      "published": "2026-05-24T18:45:38+00:00",
+      "summary": "Mudanças climáticas já afetam 85% dos brasileiros, diz pesquisa&nbsp;&nbsp;Correio do Povo",
+      "sources": [
+        {
+          "name": "Correio do Povo",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNjB2NGxXWVpoVXRrSEhhdnlxd2dtWTJwYXpIX1lieGVMVTJRajI5TUV5aDZpdWk2bnBJWUNtUVBfSzljWFFSc3E2ZEFTRHZ4UDdXV0VUQ2d6MS15NVF3eFFuYTh5cnV5Qi1NWXg1VkdCVnNWRG1QWUNkRWpyU3RLWVowdE9LUzBUNDJjNENrejNLZkVBVUs0Q2hIVUpsNVBCRU9qNWt3elY1NHpSNndZb2RnVm41M1gzU2NtRWhqV2tBWFFG?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b342f7503c87",
       "title": "Maior aquário de água doce do mundo está no Brasil, impressiona com 5 milhões de litros, 380 espécies e vai sediar congresso nacional que reúne especialistas em biodiversidade, conservação animal e pesquisas inéditas com mais de 100 espécies reprod - CPG Click Petróleo e Gás",
       "published": "2026-05-24T18:41:00+00:00",
@@ -338,90 +458,6 @@
         {
           "name": "CPG Click Petróleo e Gás",
           "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQN3EyZHoxQ0JqdFZDQ1MtMDR5VmJLeUlEaTRUQlRpWjNBSUFYb19ybDNlSE5BbmhVWEJCQjg4LWVfdEN1ZVRMLVBEUGZ0b196VUZXTjl5R1gyU0FMZmEyUURZMU9GWjhrakJ5YndYWlpRSzA0bEYydm9LbWhCZy1QRy1jSnRZSTRwcjFPR0dHZVQxREJFdHluQW1pZWJxT2JwakpjLTlSLVBESURoQ21VZTJCZUU5ZTJYRXRuWWlTbW5SZVhKUW90eTNZenM1V2lDcDZzSFo2c1NUTHVHZU8tZlFzdTBqVlVZMHE1T0RBX0RMbU1xa0RUQ2FCM3U4clZLTzloU0JWaFZIZUlWaHhMQ29lRVFjT1ZFLWlCVWFQdHVnRXQtN3h1ZlFVWVRvZTFHb1gzRDIxdFFnN0xfZ0JQQ19veG9lRUk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e00c736769c8",
-      "title": "Uma fruta antiga de quintal da vovó está de volta nos jardins e pomares e atualmente é usada em pesquisas - TudoGostoso",
-      "published": "2026-05-24T18:31:00+00:00",
-      "summary": "Uma fruta antiga de quintal da vovó está de volta nos jardins e pomares e atualmente é usada em pesquisas&nbsp;&nbsp;TudoGostosoFruta nativa da Mata Atlântica: cientistas estudam efeitos da guabiroba na saúde&nbsp;&nbsp;Correio BrazilienseGuabiroba: fruta tradicional retorna aos quintais com benefícios nutricionais&nbsp;&nbsp;Tribuna do SertãoO sabor da infância de volta ao quintal: guabiroba ganha destaque nos pomares e na ciência&nbsp;&nbsp;Radio Clube de CanoinhasFruta típica do Cerrado e da ",
-      "sources": [
-        {
-          "name": "TudoGostoso",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdVZUcS1LcWVYc25aZEh3bGRPeGdkUVFZU0tCbEtzYzVyZlNaU3Y1S2JnY0s3TzFRaUhBR1FESkRoM2RjTTN5MnV1bGNXRDk5dTB1eUl5MzZDeGs2R2hhamlLTlVUTGQ0dy1HbHQ0SzAtTzBOaXRpSmZESkdlRWpkdHlYcnZXZFVQNmVjcnp6SGFrUTJIQjAwTzB2dEh0V2JjNFQwYUtOYmcxMDB0X1JZMk95bGktZmU0TVRpVnAxWEhrbnlmU1FKQWIycmZiSXBsTjRfaFByN2JtNFFObkM2ek1Xc3hkODdDVFRBV9IB8gFBVV95cUxPQUlETTNoOGxyaVI1QkF5czB4cHVYbnFoc0FWZVFSZ2NzM3BjYUR0em9vVmdLbTJVRWNQX3lGWHlfUHp2bVA2Rmd4bVJNbUFTaXN5cEcxQXhpaExHRnhFOHpHTktxM3R6RFVGMFFKN00zckNQODdFdGFBVmh0N2lRN1M4RUJzUWgwVEZDek9XOG03Z1c3c0w0YmdmWXRfMFlVYkQzcDNFS1MwTjR4ZzJkQ2l4dzRjSGhobjFCSWpJU2ZhRS16X285eVREdldnbTY5OGxXa3ZoODF3ZjlQeVVJS3hFT3Mtb3dUM1VpYW1SMk1Cdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "97f21a9e31ac",
-      "title": "Suplemento de vitamina D: estudo aponta possível consequência desconhecida; entenda - InfoMoney",
-      "published": "2026-05-24T15:30:00+00:00",
-      "summary": "Suplemento de vitamina D: estudo aponta possível consequência desconhecida; entenda&nbsp;&nbsp;InfoMoneyEstudo aponta possível consequência desconhecida de suplemento vitamínico; entenda&nbsp;&nbsp;O GLOBOSuplementos de cálcio e vitamina D não evitam problemas ósseos, diz estudo com 154 mil pessoas&nbsp;&nbsp;Veja SaúdeVitamina D e cálcio evitam fraturas? Novo estudo desafia essa recomendação popular&nbsp;&nbsp;Rádio ItatiaiaO efeito nocivo da vitamina D2 no organismo que poucos conhecem&nbsp;&n",
-      "sources": [
-        {
-          "name": "InfoMoney",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN0hYRDZueVAxTnJ1VUJOTUpLbnFlR09SOFNXOFVwa3ZZaVdmNXl3VllwRTR6bG0xZ2x5c0xueTFkbTFRMmtXUkNDRnZCTmgyaUpLX1JDWW9yYlJ6cUxET0lGOVh4S1pPSlJiWUctbXJfR1dsQnVSVGE0UnktV0IzaGZHeFRDeXpqYWxoZTVRbTBoVnAtaW9xd3NBMVNMUHRyYUduVEd2bmFSMTR0QVA3NUtJcEdYeVJ10gG-AUFVX3lxTE80NzdOYTNTT24weFk1M1FCNENMd29TdEU4NzhYVFc5a3VKN3NpalgwV1d5SWFQV3ZDbHFVb0xjeGNFbG5BNWFXcDNPcUFBZElXb0VIamtZdHNPN0hBcDJHTlBqVUtzUkplS0otTzR5RWNtYWxYM2hySmJiZmdwa3MwVXhlcktrazhqb0tfX0k4MUM0LWYtUXRLaTVqRklPSDdiNkdENk5PMzVES2xvcHgxWVBCazBiaGVIdFBJWVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "797e32610b04",
-      "title": "Mudanças climáticas já afetam 85% dos brasileiros, diz pesquisa - Agência Brasil",
-      "published": "2026-05-24T14:32:00+00:00",
-      "summary": "Mudanças climáticas já afetam 85% dos brasileiros, diz pesquisa&nbsp;&nbsp;Agência Brasil",
-      "sources": [
-        {
-          "name": "Agência Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdnp0YVpOS1JXMkZoT0VVRVBYOHlDd2FJZHNBdHZfS2FNRF90c0dJRXFlNThqN1ZiU1FBOVlaLVM1bENlMUIzcVFNNUNEYm4yUTVocnVMajJucGlNR1ZfRWoxUmY2WmRReG9Eb1VYdEpQMngtRzdndUp1RlNsUHVWNkl6dUhPY1lERUZMR0huRi1UUC15Zk9uOHZKYnh6T3ZLZXhCTzQ0SVRXeUx1V0VZYW40TjJQcUFla2RBVnp4cko0Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fbe60624a868",
-      "title": "Pesquisadores encontraram genes animais que serão utilizados para a regenerar membros inteiros de humanos - Jornal Correio",
-      "published": "2026-05-24T14:11:00+00:00",
-      "summary": "Pesquisadores encontraram genes animais que serão utilizados para a regenerar membros inteiros de humanos&nbsp;&nbsp;Jornal Correio",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPb0k3SVR2ZURDR3dPWFJQa1ZmSTVZTzItYy1aVzhtY0VNOTJ4RDJMbENCci1WVm13NF93aEYzd09SZHNOSEt1ZTBOSWltTFJiS2VSeFNOUWJCaXlJQWgzd0JfVUxBNDdqMmFNWXBfZVEzUjJiMnB4M3ZqdVZWQ2ZNRnlHZjR0VGRscjZOQ1FGWWkzMlgwYXJaekNjaUk4MjZRbnRTNmhfTjI5LXBhUVp5bWFKTFRvRmdrT2JnSkJ1UlpEa1hiUW9ZUmZzeGEyYlk0ZWpJMGJxTm1LdDNPdkhMQ2JWOXJhV3c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d55400aa3b5e",
-      "title": "Incontinência urinária: sinais, causas e tratamento - Campo Grande News",
-      "published": "2026-05-24T13:11:00+00:00",
-      "summary": "Incontinência urinária: sinais, causas e tratamento&nbsp;&nbsp;Campo Grande News",
-      "sources": [
-        {
-          "name": "Campo Grande News",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOM2NKUmRrU0oweWg5OFlvRzNzWWZVOF9Rb05wazE4LUxnMW1TWGl5XzdWdDFJdElYYkhLcFJHbF8xbTBqNGsySHl5MWhMTjhycGczOGgwTm5INVY1aVB3MkxPbTVKYWhrOENDaUMyb0NwLXlWSGNjYWMwWElQdTVRcWE2bnRfcFNZbWl3SU02OW5HRjBiaElzY0phMjk1SlFiX2lZUGJyWUZMaFVkY29n0gGvAUFVX3lxTE5SdGprUzFWY0VKZ0xmekRQel9lY2tLLXh0VkhXSDNTZlVVRnNEYWxrdUZkMEc0Q1pYTW5nazBLYkZGRzdDVGpma0wxUnU5UFlKY1UwQXBLU0V0TEJxNk9nMVk0bW5TT0JKM3Z4OHZtZjhfSHBlR1hZUDdzYVVqRzNraFZ5eXRCcGdsdDVNMHZWZTh6ODNNYXdmaXFQYnZ0cGhYYlROOFZEWF9GYzNlS0U?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "781102b621a2",
-      "title": "As 5 descobertas arqueológicas mais recentes sobre Pompeia - Aventuras na História",
-      "published": "2026-05-24T12:11:12+00:00",
-      "summary": "As 5 descobertas arqueológicas mais recentes sobre Pompeia&nbsp;&nbsp;Aventuras na História",
-      "sources": [
-        {
-          "name": "Aventuras na História",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTWE0WHc5ZzRBaEtLb0hkUjNBUkEyc1dNQ0g5Mm9USGpLRVNTT2ZUbklVTzEyc3lSVXhZS0hSOXY0aHRidUYtZ0JReGZuZ0EtN0FQQ0pJZjVFc2I4blA4ZEp0U0RLQnJyU0dYU3ZMN2oxQjYxc1dYS0p3UnQ3SDhNS2pSdE1faExTbFNNcTAyVlk4UVJsSzNFeUJWYTVHeFNKZEU1RXhFLTEzZ3BTZVhmTjk3R1lYUDJ2MVg0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1661d29d3143",
-      "title": "Atendimentos por endometriose quase triplicam no SUS e expõem lacuna no cuidado em saúde mental - ND Mais",
-      "published": "2026-05-24T11:05:08+00:00",
-      "summary": "Atendimentos por endometriose quase triplicam no SUS e expõem lacuna no cuidado em saúde mental&nbsp;&nbsp;ND MaisNotícia: Especialista alerta: Sentir cólicas incapacitantes não é normal e pode esconder quadro de endometriose&nbsp;&nbsp;BH EventosGracinha Mão Santa reforça avanço no debate sobre política pública de enfrentamento à endometriose&nbsp;&nbsp;Assembleia Legislativa do PiauíVÍDEO: Dr. Pablo Leitão traz alerta sobre pré-eclâmpsia e inovações para endometriose&nbsp;&nbsp;Diário do Sertã",
-      "sources": [
-        {
-          "name": "ND Mais",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQWRucFpEOWdYRDNFUjNtYlNEQUlmNmpCMUsxclhTWjJVQTAzVktoZWFVWVQxaXNkWlI4alRrbjdoQmY2a01rZmFDaW44cFJZMnNhZHJBcVV6X0txSzRfeGJoY3Y5dXBWbEFYa2N0RktwOHU1eFRfVXAzZHBld1daWHFlbWw1anFNcWJieXBFcTVmMUdBTDl5UWdjbmFxYmhhbVROR3pDcE4tN3MtS21jMnZJeUFqamhveEgwT1V4YWJfZw?oc=5"
         }
       ]
     }
