@@ -1,10 +1,82 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-05-27T20:20:46.932312+00:00",
-  "total_fetched": 91,
-  "unique_count": 90,
-  "health_related_count": 41,
+  "fetched_at": "2026-05-28T03:50:52.289340+00:00",
+  "total_fetched": 87,
+  "unique_count": 86,
+  "health_related_count": 35,
   "news": [
+    {
+      "id": "625896d154b0",
+      "title": "Divinópolis terá ampliação da cobertura vacinal contra a gripe a partir de amanhã (28/5) - Prefeitura de Divinópolis",
+      "published": "2026-05-27T20:48:00+00:00",
+      "summary": "Divinópolis terá ampliação da cobertura vacinal contra a gripe a partir de amanhã (28/5)&nbsp;&nbsp;Prefeitura de DivinópolisCAC terá ponto de vacinação contra a gripe nesta quinta-feira – CGNotícias&nbsp;&nbsp;campogrande.ms.gov.brCentral do Cidadão terá vacinação da gripe nesta quinta-feira&nbsp;&nbsp;Campo Grande NewsVacina da gripe passa a atender público geral em Chapecó&nbsp;&nbsp;Prefeitura de ChapecóCampo Grande terá ponto central de vacinação nesta quinta; saiba onde&nbsp;&nbsp;Primeira",
+      "sources": [
+        {
+          "name": "Prefeitura de Divinópolis",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNDNraW0td3dwNV94aVdiX1dQUVN5TC1XYlZFYTZjRWdMRXNteDZlc1drTkZuXzNLNEQ3UVotbjdiTThnTW9yV1lwVjB2dVRITmFoamNjUzlYbDZYUW9hS1RJcDIxMl9KSmh0TXJBR2dGbEdyOWFqVVNVbU8yRVIwMHdOSGdVanlEaDZhYUZBeDMzWm1lTnR1b1d0QXlMN3lCUzVwMzBpU2RWb1ZEaUlNOVNLMVZXZGdHR2lvQ1VHRXphSXdTa0hoQUo2MjFaNDd1TVdraHVfQkFLTXRmTUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a2d40dbea7ab",
+      "title": "Kozma Patologia e Biologia Molecular inaugura unidade em Chapecó e amplia acesso à medicina diagnóstica no Oeste Catarinense - ClicRDC",
+      "published": "2026-05-27T20:45:11+00:00",
+      "summary": "Kozma Patologia e Biologia Molecular inaugura unidade em Chapecó e amplia acesso à medicina diagnóstica no Oeste Catarinense&nbsp;&nbsp;ClicRDC",
+      "sources": [
+        {
+          "name": "ClicRDC",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQQjh0em9xR2NRWDFBWDR3Nkw3d2IwQUpvMkU1aWs2czlXMDB2TjMyckRkbThFWkpaNXlRcnlOcGdCWUFSMHZnU1J2NkZubWxHai1Zb0ZXV2dZN3NIYVhnNmpuSWxSVzkyY0t4NEZkcnkzT0U1Ui1NNktiZV8wQUpReVBxRU52cGV6OTJwNTgwQmM5cGtVM0h5RUtDWWw1YlZubnlGeWFZQWExNkEzUFAzajd3NWw4X1J4VUdsdnN2elZsOWM2TkN1YzlDU1AzeWxjLXA3cTRYZ3dROU5jZXlsdWJiXzBwWGkyNjdjWmNWUWhrOEV5VF9N?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a4009c7f9cb3",
+      "title": "Crianças eram acordadas de madrugada e submetidas a castigos e violência psicológica, aponta investigação contra Casa Lar de Ibaiti - Folha Extra",
+      "published": "2026-05-27T20:43:48+00:00",
+      "summary": "Crianças eram acordadas de madrugada e submetidas a castigos e violência psicológica, aponta investigação contra Casa Lar de Ibaiti&nbsp;&nbsp;Folha Extra",
+      "sources": [
+        {
+          "name": "Folha Extra",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPT1dxaDBmLTJUY0dpM3psWm1IM3lYV1FScDM5S2FlMHFQNS1KYkpiN1lEY1h1X1NaWGE1cTJOR0xXTWlPSS1vUHhhYkJuSThBNEtzdVRqdGp4dTE4aGtVZm9PZnhIR1VMSGphTHVkX0tibVVpZUlnU1lLeDlVYWFBN21KV1ZhUDJsa1VSaVlmN0hQUEJmQnhqTWdpb00xVWhmNUxObVl6NHBZY1JUaWptRFVfWXBnMUVlaFFRdjJhd090LWROZHdBdktocERsVHlFeW9idnYyVVJJUFgycFpzOGFtVEZBNHVRNDZQN0h5NVdOVTNuLTR0Uk1nMA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bdb96525fde2",
+      "title": "Pesquisadores identificam presença de mercúrio e chumbo em caranguejos - Um só Planeta",
+      "published": "2026-05-27T17:54:24+00:00",
+      "summary": "Pesquisadores identificam presença de mercúrio e chumbo em caranguejos&nbsp;&nbsp;Um só Planeta",
+      "sources": [
+        {
+          "name": "Um só Planeta",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOakQxZlpJR2RPTlJTdnV6Nml5WUFLOS1Ba3dfd2VCWF9ORmlOYlBMWk9wa3FudXViN1BHYkNHR1c1eUJJbDNsX3dXTW9Ld05sbHM5akVkY1VsVF9PSzRQRkxqSktvZlNzaVlpMDNaZ2wwd2VpUkxrMzFyLUllOGdZS25kYmdpSExJY2pfV0ZhVE9OYXl4VjJCYUlOS3dVWHhUT2pZaVpVRndyZERxandfTEtLZVo1cHFDQjVfOHJrZVRMTGRqa2tEay1jeHdmd0lBekpua2QyRdIB5gFBVV95cUxOXzNQNll2WE9ZQXk1UzdpUzJfaXhxR21JTk9KY3dlWVBKNnNyX054cnZRYmFMMlRHNmpWMk83dWFjQTB1T0VuaWExbmlYQ25lcmhjZVlNMndQNDlHOXh2S04zREdrTDZVaktCQkhkUy02cFVpUVIydFhZSmIyWU9odHpiYkFfRTBlbGpXSmdIdWF2bHFsSmZfVXR0U0tSUWdFNTZvNXU0Z256cFBpQkthMzd4aXZXSlFlY0tQeTRQM1Y3dUp3TGdSSS1ZaDdpdHl6Qnp1LWp6dGcwajB0bE93QlYyeG9LZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2eb1fddef69f",
+      "title": "Por que ainda não existe vacina ou tratamento contra nova cepa do ebola - UOL",
+      "published": "2026-05-27T17:21:13+00:00",
+      "summary": "Por que ainda não existe vacina ou tratamento contra nova cepa do ebola&nbsp;&nbsp;UOLVacina contra ebola da equipe de Oxford da Covid se aproxima da produção para testes&nbsp;&nbsp;O GLOBOEbola: por que ainda não há vacinas para a doença? Entenda&nbsp;&nbsp;CNN BrasilEquipe de Oxford prepara testes de vacina contra ebola durante surto&nbsp;&nbsp;MetrópolesOxford acelera vacina contra ebola após aumento de casos e alerta internacional&nbsp;&nbsp;Correio Braziliense",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU21aOXZ1Z2lLYmMtN3UxS2QxUzRvNi0yUFRWRk8wSzFsZU1Jbm5JSG4zUkREVl9EQ05ubTBkbWZ2anB5WGFuUzE4R2RYLTI3Z3hwZ3poYkQycExKdkJMNFpiRjV2LVJkUUE4Q1p6c3ktOGc3dUxMbUl5bWZBRnR4ZEREenRJUFFPNl96SklxZjd4d0JjUkswdHNkcVNSVVRxZHFzWmVOaGJmOW9Tajd1R3UtMldiZi1MdDU1dUZB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "48f31580fbc3",
+      "title": "Morte de professora por suspeita de dengue está em investigação no Piauí - CidadeVerde.com",
+      "published": "2026-05-27T17:00:00+00:00",
+      "summary": "Morte de professora por suspeita de dengue está em investigação no Piauí&nbsp;&nbsp;CidadeVerde.comDengue no Piauí: casos graves da doença no estado chamam a atenção da saúde pública&nbsp;&nbsp;G1Professora morre com suspeita de dengue no Sul do Piauí&nbsp;&nbsp;Cidadesnanet.comMulher de 49 anos morre por dengue DENV-2 em Teresina; Piauí soma cinco mortes em 2026&nbsp;&nbsp;Somos NotíciaMulher morre após agravamento da dengue em Teresina; casos preocupam autoridades&nbsp;&nbsp;Portal V1",
+      "sources": [
+        {
+          "name": "CidadeVerde.com",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONGNVOUZUOU05cGpVX2pQNm9GYVVwYnM4VjFOQ3dja29ocjNmclFlV2lGME5EanZWUXdhSXRRazVFam9vdm4xUUk3TmxQYXRzSzJHTnBJQldOMWVWdE5VMld0ckUtUFd2Z2o0QlUzYkVfQ0VFMFoxQWw5NjN3bzd4NjlBSktadmRwYk4tOUZNZXBvWkRRWGdUcjl5WElnOGlDeE1rMlVwU2UzS3JpVEFKczF3?oc=5"
+        }
+      ]
+    },
     {
       "id": "096de5a1d248",
       "title": "O orangotango que fez um curativo em si mesmo com plantas medicinais e surpreendeu a ciência - O Antagonista",
@@ -45,23 +117,11 @@
       "id": "b416169d1058",
       "title": "A fruta brasileira que quase ninguém conhece, tem sabor marcante e está voltando aos quintais das casas - Jornal Correio",
       "published": "2026-05-27T13:54:18+00:00",
-      "summary": "A fruta brasileira que quase ninguém conhece, tem sabor marcante e está voltando aos quintais das casas&nbsp;&nbsp;Jornal CorreioUma fruta antiga de quintal da vovó está de volta nos jardins e pomares e atualmente é usada em pesquisas&nbsp;&nbsp;TudoGostosoFruta nativa da Mata Atlântica: cientistas estudam efeitos da guabiroba na saúde&nbsp;&nbsp;Correio BrazilienseRedes sociais impulsionam resgate de plantas e frutas nativas antes restritas ao interior do Brasil&nbsp;&nbsp;TerraGuabiroba: fruta",
+      "summary": "A fruta brasileira que quase ninguém conhece, tem sabor marcante e está voltando aos quintais das casas&nbsp;&nbsp;Jornal CorreioUma fruta antiga de quintal da vovó está de volta nos jardins e pomares e atualmente é usada em pesquisas&nbsp;&nbsp;TudoGostosoFruta nativa da Mata Atlântica: cientistas estudam efeitos da guabiroba na saúde&nbsp;&nbsp;Correio BrazilienseFruta típica do Cerrado e da Mata Atlântica reaparece como tendência em quintais e jardins&nbsp;&nbsp;TerraGuabiroba: fruta tradicio",
       "sources": [
         {
           "name": "Jornal Correio",
           "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdjZiczdmcGFRWlUtRm1YaFVIa0ltUC14cEtIY1BrLWxOUW8wVVROak9qWmVGZmpDc29iSUJJdV9sbFc4Z2hQdV85RzdZMlJkRjd4YXp3YnJSaXBXb3Q0Yy1KdnZZRzRRWER5M2FCNVJwV2o4OXFvUE5JbTEza21BRVN0eWFLMjNUUW9MWU9WSU5va0xpSEtaSm5QSVRtU0hPd3kwc0pNSnJHX29Ka1V1V2VWWGNfVnhrQmhqYXF4c01scjhpaXkxalhZc1ZLV1VEY0J6VjhVazN5Tm9tWXBJRThkVQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "55710bcc4c04",
-      "title": "Vacina contra gripe será liberada para toda a população - G1",
-      "published": "2026-05-27T12:45:30+00:00",
-      "summary": "Vacina contra gripe será liberada para toda a população&nbsp;&nbsp;G1Florianópolis amplia vacinação contra Influenza para toda a população&nbsp;&nbsp;OCP NewsCom baixa procura, FMS amplia público-alvo da vacinação contra gripe em Teresina&nbsp;&nbsp;CidadeVerde.comPor que você precisa se vacinar contra a gripe agora?&nbsp;&nbsp;BHAZDedo de Prosa: vacinação contra a gripe&nbsp;&nbsp;Senado Federal",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZUluVnY4VmZFb0xyTWhkTE5EMlN1Sl91VTFjZWFWNGpnb21jRC1qMUlWcXZZWXVrQVZOQ1lfRE9NaXAyQTZVejI0Z3g5MlNjc1NyMTkwTlpZVHgzWlA4ZTI1bGRWcjdpcTJ4OURTanlVX19OS2xORnZMaWFGR1RqZlV6dFhBTHB5dTI2eFpWU2ljTVg1c1ZUM180Z1ZWMi0yRFBVNUZLOU4tV1dTVjFZQzJTVU5VYWYyYVpfa2tidDdGd9IB0AFBVV95cUxONmpoRTZRUGE5NG1Za3cxMnppcFBPbFc1ZlBTMVdXZzJWN2JKMlpHMUE4cXhzQXItNU9kT084Q1dWdTNUTHpWYWNkWmh0XzZNdWtyWTd1R3owNXNQSUxJeVVHSVVZSVdMODNUNFBVOExqcmVLTDJGeUMyRzBTSXBMeXg0WUR2eWpLVzZuUXEzWS1oNHNSTk95VmxzVUp2dFo2V1M2SF96SVNWdk1Vc3BoWXhiNl9DMERSMnRwdVVFbmEzWGRaTjJqVkljVmhnWFpZ?oc=5"
         }
       ]
     },
@@ -102,14 +162,14 @@
       ]
     },
     {
-      "id": "33f45c3b0e3b",
-      "title": "Pesquisadores denunciam atraso de 5 meses em bolsas da FAPERR - Folha BV",
+      "id": "22168c210377",
+      "title": "Com alta de dengue em distritos de São Paulo, saiba quem pode se vacinar - Folha de S.Paulo",
       "published": "2026-05-27T10:00:00+00:00",
-      "summary": "Pesquisadores denunciam atraso de 5 meses em bolsas da FAPERR&nbsp;&nbsp;Folha BV",
+      "summary": "Com alta de dengue em distritos de São Paulo, saiba quem pode se vacinar&nbsp;&nbsp;Folha de S.PauloVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
-          "name": "Folha BV",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQXzhCNHBPUFhFSDBWME5BQktTMksycWZLQVJ2VXprS1ZVNTU0VExmd1lJN2dBR05HR1pqRnhsTF82QWRIdlZCbGlJZmFFQVBZS0t4Ty1zaHdTSjRyelFYcHZlakNvejRfWmxxc1h2OWg4Z3ZGc0Z6LXZOZDAwakU2UzI2V01Dc2M4bmhQM1FaZGhsMXQyaXprRjBVcjV6ZWc?oc=5"
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMWZtT0owM3NxZHI0SmtHRVUwUW5iQmJfRHh5dkVWbDlYM0M3azhSVWJ4NnYtNUNzYTNkQXJ3cnducWRKUGlnRm9sZlJnLWhVb1l5c2Y4LXhCYURWQ3pSSGVVTnBaQS1RLW9heXpnTk5XRktvMWZXRmNBdTBZTEN1QnUwazNTdGZiNU5YMFZNVjBEdUwybUF6WDVGeTVYMElmZVh1aVBfRTlfYUdiOERwNGIzdjY0Zk90clpjRW50aU10bWZMb0pYMVNzcnM?oc=5"
         }
       ]
     },
@@ -186,6 +246,18 @@
       ]
     },
     {
+      "id": "57d670f8b4f5",
+      "title": "James Webb encontra a galáxia mais PRIMITIVA e reescreve a história cósmica! - Space Today",
+      "published": "2026-05-27T05:11:00+00:00",
+      "summary": "James Webb encontra a galáxia mais PRIMITIVA e reescreve a história cósmica!&nbsp;&nbsp;Space Today",
+      "sources": [
+        {
+          "name": "Space Today",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUFFQQ2oyWnRoTzR2eWc4WHliaDJVVWhNbHVYcXdkYW55S21EVUdJYng3ZG8tTF96WW94VzRXdHlGUXlqUUd5TlYyWDNBOC1ob3hXTkhxZ0w5cnpUUld0S1JuN3pUeHlTTFhPSElBWW81TkdJclFBeFdtQVRyanBDb3c4YjB6NHlZZjR1WXNVYmhPdFdPUXlwdVdidk9SYVhES1ZCTA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "4cd7e1965f48",
       "title": "Vírus sabiá circula há 142 anos no Brasil e está se modificando, aponta estudo - Agência FAPESP",
       "published": "2026-05-27T03:01:58+00:00",
@@ -198,26 +270,14 @@
       ]
     },
     {
-      "id": "23841576eaa6",
-      "title": "Vacina contra ebola da equipe de Oxford da Covid se aproxima da produção para testes - O GLOBO",
-      "published": "2026-05-27T03:01:20+00:00",
-      "summary": "Vacina contra ebola da equipe de Oxford da Covid se aproxima da produção para testes&nbsp;&nbsp;O GLOBOEbola: por que ainda não há vacinas para a doença? Entenda&nbsp;&nbsp;CNN BrasilPor que ainda não existe vacina ou tratamento contra nova cepa do ebola&nbsp;&nbsp;UOLEquipe de Oxford prepara testes de vacina contra ebola durante surto&nbsp;&nbsp;MetrópolesOxford acelera vacina contra ebola após aumento de casos e alerta internacional&nbsp;&nbsp;Correio Braziliense",
+      "id": "9bc7045e96de",
+      "title": "Especialistas defendem regulação de ultraprocessados em debate no Senado — Rádio Senado - Senado Federal",
+      "published": "2026-05-26T22:00:00+00:00",
+      "summary": "Especialistas defendem regulação de ultraprocessados em debate no Senado — Rádio Senado&nbsp;&nbsp;Senado FederalO tipo de dieta que afeta a memória&nbsp;&nbsp;O GLOBOAlimentos ultraprocessados são associados a maior risco de câncer, diabetes e doenças cardiovasculares&nbsp;&nbsp;Folha de S.PauloConceito e questões de saúde contrapõem debatedores sobre ultraprocessados&nbsp;&nbsp;BOM DIA SOROCABAO que os ultraprocessados fazem no intestino e na imunidade das crianças&nbsp;&nbsp;Correio Brazilien",
       "sources": [
         {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQkZjMlJYaHktaW5DZThBWXNLN1Bpd2ZYV0gtRXE0T0o3dFoybGY2eVRlU25LSEJuUjIyckNHQTB3OVVuaWpxaDlIUTMwdGU1allLaVFmYXY5dE14eTBSZjFIN3hnMWNOc1d6czQwcXNUX3llellKMk5IQWZSQ0x5SWR2dHNtSDRjQUhFVEtOeTd0b0lzSFF1UDJOYmJkRmNsUVJnQmlYN0xiTjVkWmZBT2JXSTAyMWpsS1BVdmVlR1Z0ZEFGLW5uSnRUM2o2YWdObFFoX1pvUdIB5gFBVV95cUxOc2VwSXBiNGVYMHE1RVI2RmVUTy0wN1IzdEpLWDJaWEIxS1o3NzlhOGg1dFBPR196Q2xsOHhOS0dzZjhzNmVMdFFsZExFallvSVFnYmswN0ZzeWlvS21Rbi01bmNqTnRPTHAyeEZqbHdPVVB0ZFVaOGRLRXY3bUJWaVdlVVdvUXI1b0c5ZGZjODkteXdXZkRlM0VYTjhhbGNSOGh4clNlTldVaXFFYWkyTExUU0FQaEQ2enBTWEktZVZuOXoydll0NHdHWno1alp1RWRqd1pvSDRHRWxUNDhrMl9saExLQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8260766fdde0",
-      "title": "Sarcopenia aumenta risco de quedas e compromete qualidade de vida de idosos - Folha PE",
-      "published": "2026-05-27T01:14:12+00:00",
-      "summary": "Sarcopenia aumenta risco de quedas e compromete qualidade de vida de idosos&nbsp;&nbsp;Folha PEPara os 50+: três fontes de proteína de alta qualidade fáceis de incluir na dieta&nbsp;&nbsp;O GLOBOA perda de massa muscular após os 50 anos não se deve apenas à idade, mas sim à baixa ingestão diária de proteína associada ao sedentarismo&nbsp;&nbsp;Tua SaúdeO impacto na saúde após os 50 anos que a falta de proteína no café da manhã provoca&nbsp;&nbsp;ND MaisSarcopenia: perda muscular em idosos aument",
-      "sources": [
-        {
-          "name": "Folha PE",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQm9BT1F3SktUWGZvWURab01ESVMtTUlVd3ZIVkN1Z1JmR1ZOT1pDdllBUDljSTlqWVlCWXZOWlpZZ3dIbFJ4aTdkYWwzTGdBaTZ4XzBYc3Q3Zmt5SWxvX3E1UHdyeUp4N2hRbUNyZE41VU9TMUlJS3hOYVNuWVhIb1ZCNDd3OGVmSXJWR2JDYmpaOUpvaEZ4amdXVUVJLXFXSVFkbFFXN1dERkNTMmg5UVZldWVqd9IBtgFBVV95cUxNNXVIalc3REJMRzQ4eUxRVlhUa3dtVlF2M0lMeDlTLWdoWGlIR3B1UmhQMGprbGQ3ek9FRU1MeVVjYzZPYXhWelhvVFJVTEhtVmJHR25QYVhEa0V3TDMzdkVkLXVFdVJnTzk5Tnk3MTRIWU43OXBDNFd1VUdPU1JZNlF4YS0xVmZ2U0Y0ZVRzeTZSTzFlNU5tZ3JLbjBQclpGU3BfVU42ckFIVGVmV0s0Smw3aU5xZw?oc=5"
+          "name": "Senado Federal",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRUZXS2o2SENkWmI3bjZpUUlWVWFSWS1PZmU4c2ExVk53VGxXUzM4NGtNN1IxZkJaYUljTTdsUWpQYVBTRnE2cFM0TDhvSXVMTG9rRUkwRUZDMG9IZmZRMGVVTld5RzZjVnpkWmNPXzZLbjFLdlYtMXVLbzhJZDNiX19hMlo1N3YxOU1RME5HMTRnSzlOeGNMOGkwSm5jSG1IUXN4SjF5TnYwMnJXdWNGaFN0UG5waHJ4bGlwLW1SR3hHcUdrd3c?oc=5"
         }
       ]
     },
@@ -225,7 +285,7 @@
       "id": "43e4c39ea018",
       "title": "Criciúma terá ‘Dia D’ de vacinação contra gripe neste sábado - Portal Engeplus",
       "published": "2026-05-26T21:00:28+00:00",
-      "summary": "Criciúma terá ‘Dia D’ de vacinação contra gripe neste sábado&nbsp;&nbsp;Portal EngeplusVacinação em Joinville&nbsp;&nbsp;G1Baixa cobertura preocupa na reta final da vacinação contra gripe em Cascavel&nbsp;&nbsp;CatveVacina contra a gripe é liberada para todos os públicos em Joinville&nbsp;&nbsp;Aconteceu em JoinvilleSC define data para início da vacinação geral contra a Influenza; municípios podem antecipar&nbsp;&nbsp;4oito",
+      "summary": "Criciúma terá ‘Dia D’ de vacinação contra gripe neste sábado&nbsp;&nbsp;Portal EngeplusVacina contra gripe passa a ser oferecida para toda população em Joinville&nbsp;&nbsp;G1Baixa cobertura preocupa na reta final da vacinação contra gripe em Cascavel&nbsp;&nbsp;CatveVacina contra a gripe é liberada para todos os públicos em Joinville&nbsp;&nbsp;Prefeitura de JoinvilleSC define data para início da vacinação geral contra a Influenza; municípios podem antecipar&nbsp;&nbsp;4oito",
       "sources": [
         {
           "name": "Portal Engeplus",
@@ -270,18 +330,6 @@
       ]
     },
     {
-      "id": "b09173b71b39",
-      "title": "Mulher de 49 anos morre em Teresina vítima da dengue; quinto óbito no Piauí - CidadeVerde.com",
-      "published": "2026-05-26T19:02:00+00:00",
-      "summary": "Mulher de 49 anos morre em Teresina vítima da dengue; quinto óbito no Piauí&nbsp;&nbsp;CidadeVerde.comDengue no Piauí: casos graves da doença no estado chamam a atenção da saúde pública&nbsp;&nbsp;G1Mulher de 49 anos morre vítima de dengue em Teresina; Piauí chega a 5 óbitos pela doença&nbsp;&nbsp;Meio NorteMenina de 7 anos morre com dengue em São Raimundo Nonato; 4º caso registrado no Piauí em 2026&nbsp;&nbsp;CidadeVerde.comMulher morre após agravamento da dengue em Teresina; casos preocupam au",
-      "sources": [
-        {
-          "name": "CidadeVerde.com",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVVFod2hiNHU5OXZOU25ycjQwbGU1RDlkM2VxNEV4VzBRQUFCSUhNM0RPa1FlVW0tc05zSFVEUWw5NXRleEUtZERleUdhMkNiUVNJZ0V1TUo3SHQ4YmtwVXFQejhOTjN0X2N2WmpETzVZRmtmVlFoQWdsQ1pnTjlYOEpUdVpILXV2eW9NSnJrRGZlcy1xWjQ5THhmRl80Zkg5cnlfaDdoVGNudUp2TjBqU0tNZUE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3da2c4cca55a",
       "title": "Lúcia Helena: SOMP: por que a síndrome dos ovários policísticos precisou mudar de nome? - UOL",
       "published": "2026-05-26T19:00:00+00:00",
@@ -318,30 +366,6 @@
       ]
     },
     {
-      "id": "1bf48c780f06",
-      "title": "Canetas para emagrecer podem perder efeito com o tempo? Entenda - Metrópoles",
-      "published": "2026-05-26T15:21:34+00:00",
-      "summary": "Canetas para emagrecer podem perder efeito com o tempo? Entenda&nbsp;&nbsp;MetrópolesA canetinha empacou? Cientistas descobrem por que efeito de remédios como Ozempic pode desacelerar com o tempo&nbsp;&nbsp;O GLOBOCanetas emagrecedoras podem ajudar a reduzir o consumo de álcool?&nbsp;&nbsp;R7 EntretenimentoComo a semaglutida age no cérebro para controlar o apetite? A ciência explica&nbsp;&nbsp;Estado de MinasEmagrecimento, cérebro e recompensa&nbsp;&nbsp;O Diário Interativo Online",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0zVEwxdU83OXp4dGEwcUVKYmZRRGVlbVBYaWpJYjdkcEJmaXZOalZselBZQVNHTGtwS3JNY2JyaXlORFlxN1I1eWhlcThKaWVDb1d6N2tkTTFDek1OTVdKNkZpYmJPLXdYT2lmMUFBN3dMdnZRTzdFSg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "52ce11f4e2f6",
-      "title": "'Chinamaxxing': moda de beber água quente de manhã realmente faz bem à saúde? - BBC",
-      "published": "2026-05-26T14:35:24+00:00",
-      "summary": "'Chinamaxxing': moda de beber água quente de manhã realmente faz bem à saúde?&nbsp;&nbsp;BBC",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9jdVdZVXJXMkhvZzhIdE1LT1NnR2Z2QWFOQnlrNjMtcFpDWVM4VkZieWh4aTQyUGNleGZRTmY3WHVzZDZKclF0MWc2X0xyT2VyUjVtQlBIYkNRTTlubU5BOTVR0gFnQVVfeXFMTUt5bjhQODhCRHpWTmg3OGtQMG5CaVFyM21FOHhRTmpSZjdpY21iZHlXWXR3ZWNZZFFMTzFvV3Z5WVZja3NhV3ZILUZCOTkzLW9qRkNGVmlHOGVobGRLcEJCZGN3b1lfQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "00bf7c2432aa",
       "title": "IFMA anuncia 100 vagas para Curso Técnico em Laboratório de Ciências EAD - PEBSP",
       "published": "2026-05-26T13:18:47+00:00",
@@ -354,14 +378,14 @@
       ]
     },
     {
-      "id": "f38209c74e2a",
-      "title": "Prefeito Jacob nomeia novo secretário de Ciência, Tecnologia, Inovação e Desenvolvimento Econômico de Patos - Patos Online",
-      "published": "2026-05-26T12:09:47+00:00",
-      "summary": "Prefeito Jacob nomeia novo secretário de Ciência, Tecnologia, Inovação e Desenvolvimento Econômico de Patos&nbsp;&nbsp;Patos Online",
+      "id": "6dd2c63759bd",
+      "title": "'Rosto de Ozempic': conheça produtos que prometem minimizar flacidez facial - UOL",
+      "published": "2026-05-26T12:30:00+00:00",
+      "summary": "'Rosto de Ozempic': conheça produtos que prometem minimizar flacidez facial&nbsp;&nbsp;UOLRosto muda após uso de canetas emagrecedoras? Procedimentos ganham espaço para flacidez e perda de volume&nbsp;&nbsp;O GLOBOBusca por saúde e corpo ideal aumenta procura por academias e canetas emagrecedoras&nbsp;&nbsp;R7O mercado das canetinhas&nbsp;&nbsp;O POVO+Médico do HC de Botucatu explica como agem as canetas emagrecedoras e alerta para contraindicações&nbsp;&nbsp;Acontece Botucatu",
       "sources": [
         {
-          "name": "Patos Online",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPX0NvOTh1Y2VnNTJtalIzV0RZR0lacVg2VjMtUDV0WVFSUVJac0YtZ3ByODFoT2JBb1Y1R1RFcmFhV2RZaUNNbTM2bjJUU1Nac1FZcFJzRkhtcDVOQVY2WUZZNmFGUkZVU2FlbU5tZ0d6aTVnMUpsVzlhSXpDa2hrbkM2Y0JfRTVUUjJVd3ZWQXFsT2Z4V2pCX3VMSHhfQ0x5QjBkcDVtN2pxOGRnREIxdC1nUFFQWlFFLXVwSGlDakx1M0NNMTJBVnQzWkNTNHlKT3dZN1IzWEVIazZj?oc=5"
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQ3ZSLTJmdUNEZFo1QzhEc0RmRF96QzY5ei1IMHU0bVJBOU5zRDhFbXYxeXRsbGpXTFFxdWtST1V5YVZITFpDU2ZQWTlYU0hGSWMyLXBkc3NpekxkOVMwR1c3ZzI0U2RnbnBmX2kxb3JXZXY2R0h0YWUteUFueWUyRkp6WHd5eGI2eHpzX1JTSUdnWWlUUGxFZUhNSlRrUHUtYUF3SmJxbjF0QXlWSkFiaWtDbUxMaDdxdkJaM213aTFLTGt5bkdBQ2JBXzY1bjFtWW5pWExFZw?oc=5"
         }
       ]
     },
@@ -390,30 +414,6 @@
       ]
     },
     {
-      "id": "ba46a38971b2",
-      "title": "O tipo de dieta que afeta a memória - O GLOBO",
-      "published": "2026-05-26T07:30:50+00:00",
-      "summary": "O tipo de dieta que afeta a memória&nbsp;&nbsp;O GLOBOEspecialistas defendem regulação de ultraprocessados em debate no Senado — Rádio Senado&nbsp;&nbsp;Senado FederalAlimentos ultraprocessados são associados a maior risco de câncer, diabetes e doenças cardiovasculares&nbsp;&nbsp;Folha de S.PauloConceito e questões de saúde contrapõem debatedores sobre ultraprocessados&nbsp;&nbsp;BOM DIA SOROCABADia Mundial da Saúde Digestiva alerta para riscos dos alimentos ultraprocessados&nbsp;&nbsp;Fala Você",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNFAzbmF6QThZdlJJM1dud3ZlWXd0RWZtRlB6LXJXRHRJSERpeVZ6LUdNV05JTGFmWlIzcVdTbWkzM3hsSWVpZldqUG5Zandkal84cDBCOWlLSFV3dURoSWw5OVp1Q2pZOWw5NU95RDk5ZXVhTG1nY0VWdGtTQ2tZZTRVUHkxeEFudU1MNWU3U2pKcFpMc0HSAaQBQVVfeXFMTmtVS1JhTnV5UFR6anZpTzMtUGMtMmJYR3d6M2Q2b3dncFdiZEVUaGFJZjBsMVVaTV9aLWEwUDRhNmtDNVFDZ0tMMjlWLU1pam5CNzNDREM5ZnZyZUxhU2JaajdyeXNIeHEwNll6VF8zMTJBSEZrc3dXbEt0QTRZMmV4OXM2NnBmSVBhdnp2clN5WWxneVJsajBkMEdEMk9UUDd6U2Q?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "43f5dfd00175",
-      "title": "Pais na torcida? Como o comportamento dos pais na plateia de uma competição mexe com a saúde mental dos filhos - O GLOBO",
-      "published": "2026-05-26T07:30:41+00:00",
-      "summary": "Pais na torcida? Como o comportamento dos pais na plateia de uma competição mexe com a saúde mental dos filhos&nbsp;&nbsp;O GLOBO",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPNUVCSUNrTXJyNWdVYUhkMGNTLVJER05Wd05pM0FyRVNrZnpsLW5qeUt2eUc5QUxRTmVCZ2pLSjR4U0pSbVRTNURxRDh0Z3pPRFpkT0xfTHlJeldxRGpkYXBmWjM2czQxc0pNOGxfdktKeVJRRHNuNEkwWXlQNHBoVWVpbVJyZEdmQlc0UE1iU0l5cGpNbkVGYTFya19JbVFHaGNDZ0ZNYjJqNjJrZUVZeld3VE5RUEstZThuaDFzVFpfcmcwNkpDaFpUeUU3NUprcjdicUNZU2M2VVczdnZSa3hTajJaRVBCVlZxMXdXa3hnLUhmX2JTSHNFNE9xUjYtNHZIY29GMDE2Xy16Y3Jj0gGeAkFVX3lxTE1SV1o1Ry1pd1lmTHY2TEVYZDUtNXVsSXNVMnRTUUk0LWZncUxySnFjSzFlR2xLdUVHTFg0RHdjQ3JNZTB0V2l3M2tkQTRZdEcxSWtZMjg2REQ1MnZuVHZvMTNTQUcxOVFBNHBNSEFDeHZWaC1ocEpvU0NMb1pvNVZhcS05c3cwRnhhVlB4cXJsb2ZLRkhXWmtvT2piTEpqZmowQTZLWEc3NzM4LXlCcVg3bjFSaG9Yclc1OElnUk1NMUNaSmp3TldQVUpOODhuMXJoeENpWE1IYXl3Nm52a2VhRkNhTGFlOHJUbndkdUJmcm9Lakl2VnlfbHRUSVJnMEowaUlEVDFUU01IcUJGX21EenNLWmdKZDc5Nmxndmc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8bc060e41013",
       "title": "Casos de meningite e influenza colocam Ivaiporã em alerta - Jornal Paraná Centro",
       "published": "2026-05-26T07:00:00+00:00",
@@ -422,78 +422,6 @@
         {
           "name": "Jornal Paraná Centro",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdHpzdmJOdHNsdXVhUnA5MWpCcG9adzhBdVY1RENlZFV3SHhPaFQ2T0hFTC1iQUthZG1fMVYyc05idks1bFBfd0lUNVVLeW9vYV9vd29XSGEtbmk1ZWRoR0poUHdPak9Ld1hjWjJqd2lJTXdHWVF5OHFCR2Nsd0xaQlpCeFo5Tll2MHBfbXhUT2JNMzgwWmRfYVZWazdYbC1RLUd6YnZXMFhXQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a764ffd5917f",
-      "title": "Um novo estudo derruba a ideia central que aprendemos sobre planetas e sugere que a Terra é a exceção e não a regra, a maioria dos mundos rochosos da galáxia pode não ter núcleo nem manto, apenas um fluido único e turbulento se estendendo até o c - CPG Click Petróleo e Gás",
-      "published": "2026-05-26T03:52:00+00:00",
-      "summary": "Um novo estudo derruba a ideia central que aprendemos sobre planetas e sugere que a Terra é a exceção e não a regra, a maioria dos mundos rochosos da galáxia pode não ter núcleo nem manto, apenas um fluido único e turbulento se estendendo até o c&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQSXFtOVlzellwcXRNT2I3eHItYmtLel9uQ3R3Y1dpb1NtZmV0WGFBYUtENUVRdlk1QjUxQ2hBaUJ2SDlqbFhOcnlEdjFRSjJMQmFOcklXeV9wc09XRG9aWXdOMm1YaXdyV1JCS1l2dFBNQktWV1lySm5meDUtZ3hoTHJvOWF6Y2dLOW5mVkU3LW5DTWpLcUxmck8xNDJYanVwMWtucVl3ejlLcWRKU3Vjcy1sQzRCRUduTElobWg4eGhNSy1fQXNFUTNfWnY0SHRkbzl1dTlveGFHbndfTGVENnhiWkdPcU5xdjltZTc3Sm5zN1liTHRULVJEaVpleVVkYlpzZDg0R19lX2dVSUhtX0hPRGFRVFVUcE1RUEphRGp5UDBLdFA3R19ENlk4Qk1rUnVzeGFYbFlPUERXRGVhZHZGeXRGeVk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3992df4ceea0",
-      "title": "Cinturão de sargaço do Atlântico se torna permanente e previsível, confirma estudo - Olhar Digital",
-      "published": "2026-05-26T02:01:00+00:00",
-      "summary": "Cinturão de sargaço do Atlântico se torna permanente e previsível, confirma estudo&nbsp;&nbsp;Olhar Digital",
-      "sources": [
-        {
-          "name": "Olhar Digital",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMnY3bHdnWVFOUDhMOWlaSFlxU19VMmlKUmFkWHdtc1NtT1Q0N28yMXJ3MHQwbndjN2lzdmstWjNoNFhCQ3dXbktqeWZBTnktc3R3S0wtWm9LR2tUTFNpT2tyUFh5d28zVHhDcTd5MDFoWVFmNXlEV0FmZXRTSFRIZG8tcFlKMTNYcHVnTU1qRF9tWC04WDNFbnBGUEh5RXRtNVNnMS1IMk90NkotVnI5SlhkaTg2c0JraDJEZ0FIZkYtaTk4MDMtX2c3c1NPX0pjOEoydw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8d02dee058cd",
-      "title": "Estudo aponta avanços na educação infantil em linguagem e matemática - Agência Brasil",
-      "published": "2026-05-25T22:04:00+00:00",
-      "summary": "Estudo aponta avanços na educação infantil em linguagem e matemática&nbsp;&nbsp;Agência Brasil",
-      "sources": [
-        {
-          "name": "Agência Brasil",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOc0hHWWcyMndSaEc4ZjM5dGMwQ2VvZzRhcTJoMDhsTzlqcHdMMjZHMDNoMDNsaHlYa05yRk9SNGVLdHY3V3pGaGtHVXJHeWdZQlRKdnZ5bG1Kd0JMbnlac1FzXzBsc2JyWHRJOXpMZjBYUWNJXzNMQ2sxTkl1c0xuVDZaMkswRXdFd0JRSGpkbkhlRTg1cHpHX3lJUl9sX1QtOE1nNVZqMU9LQUtrVWNLVXl6NTZBeGxjWi1LTENiMG1TMzJl?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "27ce1465cde9",
-      "title": "Governo Trump exclui pesquisadores de discussão global de surtos de vírus - CNN Brasil",
-      "published": "2026-05-25T21:32:58+00:00",
-      "summary": "Governo Trump exclui pesquisadores de discussão global de surtos de vírus&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNEhNNXJZd1B4cnlXRVJLZzRqRVFVaFlIVDV3RFg0b21vWEhvb0FDU2prcEFWNFBFZ3lIVWhxb0lDOG5INUFTdFR5Q00zYU1sWTBrTnA2dEY5SnBuSzhfSDV2ZnBCdFEyUng1TkJ2UjVjeV9MeEgwVzV5QUJWSDFYMTJ0TS1JY2xDOVBGbjJ5cFZtUTRBczNKdXZxX1BkazRlZjF5bkxfTDg2OXZhdVAyYzNNenVYRVZE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0577eead5ae7",
-      "title": "IA identifica efeitos colaterais escondidos de canetas emagrecedoras - CNN Brasil",
-      "published": "2026-05-25T21:19:29+00:00",
-      "summary": "IA identifica efeitos colaterais escondidos de canetas emagrecedoras&nbsp;&nbsp;CNN BrasilIA vasculha 400 mil posts e aponta possíveis efeitos colaterais desconhecidos de canetas emagrecedoras; entenda&nbsp;&nbsp;O GLOBOIA analisa relatos sobre Ozempic e similares e identifica efeitos pouco discutidos&nbsp;&nbsp;SITEPDAI verifica 400.000 postagens do Reddit e encontra efeitos colaterais ocultos do Ozempic&nbsp;&nbsp;obusilis.com.brInteligência artificial identifica sintomas não listados em canet",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc2JVQjdmNlNSem9xemRLUlFsbUlnc0I4MVJ1WVhxMFNmTlVVdVFiZ3psNFBlSWwzNGhseUE1cXRELUlYRmxFTjNqbTR3VXpUZEZIbUNzelNPUlFaZUpTbzE2TWlTRklsX09kaHdGbnJ6VURHTXBERGpZNVhLYVJMTGRjci1LdzVrVEdLQ3V2WEhxdXNRWGlwNzFpN0IwWWRaRDFZRlJrbw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "42d3849c0749",
-      "title": "Embolia pulmonar exige atendimento imediato; conheça os fatores de risco - Portal Drauzio Varella",
-      "published": "2026-05-25T20:03:20+00:00",
-      "summary": "Embolia pulmonar exige atendimento imediato; conheça os fatores de risco&nbsp;&nbsp;Portal Drauzio Varella",
-      "sources": [
-        {
-          "name": "Portal Drauzio Varella",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaVRyU1lxb1ZaV1BLaWFHcXE4djc1UmpGakg3aWFodHE5YnJWVTJkNk8tRG9ZVDczaG9yeTQ2WnJ1UDZGdkVWYi1PVC0yTktxUDgzUWRwSjRtQVlCRWhGeUl1V0Z5RlFaVW40Z3pLREF2OHBRY0s0d1BlN0JBak51UWo3dUczWl9CbkNjNHU3OGdFYk05Ml9KZDlZc0NJdlVGV2dQdDdxclhGWEhvZ1NMYVlITXNPUQ?oc=5"
         }
       ]
     }
