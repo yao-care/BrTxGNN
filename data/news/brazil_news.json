@@ -1,19 +1,55 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-05-28T20:26:09.197537+00:00",
-  "total_fetched": 95,
-  "unique_count": 95,
-  "health_related_count": 39,
+  "fetched_at": "2026-05-29T03:52:33.666978+00:00",
+  "total_fetched": 99,
+  "unique_count": 98,
+  "health_related_count": 41,
   "news": [
     {
-      "id": "ceff1417ddde",
-      "title": "Cientistas descobriram novas informações sobre a relação entre o consumo de frutas vermelhas e o declínio cognitivo - Tua Saúde",
-      "published": "2026-05-28T18:32:56+00:00",
-      "summary": "Cientistas descobriram novas informações sobre a relação entre o consumo de frutas vermelhas e o declínio cognitivo&nbsp;&nbsp;Tua Saúde",
+      "id": "d0f336fc3711",
+      "title": "Pesquisa de estudantes baianos sobre arborização urbana ganha destaque em congresso nacional de mudanças climáticas, em Santa Catarina - ba.gov.br",
+      "published": "2026-05-28T19:21:41+00:00",
+      "summary": "Pesquisa de estudantes baianos sobre arborização urbana ganha destaque em congresso nacional de mudanças climáticas, em Santa Catarina&nbsp;&nbsp;ba.gov.br",
       "sources": [
         {
-          "name": "Tua Saúde",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQX1JSOFVrZ1VnMGdTX3p4cmx3S0NwejVPV1N5RDZMcTltUkU4WVUyNXU4Q0tKd2NSc1VaVlpvT3A0ZFhCQnRzclNxRHVxanJZVExoZXIwYi1HdUtQaGN6Q1ctWkNxdVVhOXd0WFpKQ3RoSF9NVmVxNmNyNGZ0Z3J1bC01Y1A2NkFPblpVcWk2c3dkZ3BxeW1wc1BEUWRUYTB0VzhGWTV3WmRWbzVCbV9fTEJWOEFoNEducV84ODJEc2p5OG9NcHdaYVFBdFNqTmowUWFlZkUxYWJPLVRGYXVja3BGQ3NQTEcycDRnUGVB?oc=5"
+          "name": "ba.gov.br",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMzRRYUo3bXJSc0pVbVZDaUZ0a0pUZnItUUJFMFVyc080Qmt6YlJPN3BkVE1acUFyTXhTS1J0dUZWblppWXVsNTdqUHBZUmkxMmJtby15VmFkcVRUSzF1MHZibFl5ZmE5WHVjenYzVmxmSHJsd2RVQkpKMXF2OTZRWExBeDZGWnpUcVNheFpScEk1OGE0MGE4Vi1wOXBDc0NzRnNVa0pyQUNscGhyNHZGcFBiZllKZ1hmbUY0Q0pRNHVlbUtz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "234b192508cd",
+      "title": "Rio Grande do Sul entra em alto risco após aumento de casos respiratórios, aponta Fiocruz - GZH",
+      "published": "2026-05-28T19:10:59+00:00",
+      "summary": "Rio Grande do Sul entra em alto risco após aumento de casos respiratórios, aponta Fiocruz&nbsp;&nbsp;GZHCasos graves de Influenza dobram no Brasil: quem deve tomar Tamiflu e quando o antiviral funciona&nbsp;&nbsp;G1InfoGripe: RS segue em alerta por alta de casos de SRAG&nbsp;&nbsp;Correio do PovoHigienização nas escolas é medida essencial para conter avanço da Influenza entre crianças e jovens&nbsp;&nbsp;Conexão TocantinsCasos de síndrome respiratória grave seguem em alta no país&nbsp;&nbsp;band",
+      "sources": [
+        {
+          "name": "GZH",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOSy1xN2JEa1l6UnBRb1Z3ZlI2UDR0VWtjcUE0LVdOc0tIMm9lUW9heEo0cEcxYkhyNG5hM1FMLVNNU3pEamJDV3ZsR2FjUVNlWVlPQkJYT1NDZjNJLUwwcFBsaWRYZ3ZOck5FSDVkR3k1MEtZd0ltV01nWXVKSGFtc1VEazNVem9rUDloWExkelhzSmx5dG1ZbEpDaXRsbEJqYkpPZ2hhcU03a1BKWktiOUhKZHhTMWtNWWZNeGlKQy1kNk1zZ2Y0REZwZlhNTGx5WlRKTEQzX2V5R2ZXUG5oa2hGWUhkMEtrRWxiSmRuZDlIVTdSNXhMSFVfSVY4RHZBUGdn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "063da7747c67",
+      "title": "SUS tem novo protocolo para detectar câncer de intestino - Portal Drauzio Varella",
+      "published": "2026-05-28T19:03:54+00:00",
+      "summary": "SUS tem novo protocolo para detectar câncer de intestino&nbsp;&nbsp;Portal Drauzio VarellaSUS lançou novo exame que identifica alterações que previnem o câncer de intestino.&nbsp;&nbsp;G1Ministro da Saúde anuncia novo protocolo para rastreamento de câncer colorretal durante agenda em Lyon, na França&nbsp;&nbsp;GOV.BRCâncer de intestino: quem deve fazer o teste imunoquímico fecal? Como funciona o exame?&nbsp;&nbsp;EstadãoCâncer de intestino: SUS adota novo exame de rastreamento&nbsp;&nbsp;www.pro",
+      "sources": [
+        {
+          "name": "Portal Drauzio Varella",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ2N2VUp2SVVUSm9oNFVGN0JacVBVWFpzTlgwUzkwcldlR2V1cUs4b0lIbl9PclRra0k0YkdGd0VsYWcxTm9KNFpBSGRWUDhUM0ZMNFdRSWJwbWNzOXJrV3d1dzJqR0hHWUFUMGpCMEtkXzBiVWZRb01IeTZMOWlhN2h5SnJoTmZaeTVDMElVay1WMzNqNVVDb1NLYnh4VXYwbm1CLUtYejVUNVpyUlRJcVFoVkl6ZndG?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3026204a7f7b",
+      "title": "Anvisa anuncia recolhimento de coco ralado por excesso de enxofre - R7",
+      "published": "2026-05-28T18:27:32+00:00",
+      "summary": "Anvisa anuncia recolhimento de coco ralado por excesso de enxofre&nbsp;&nbsp;R7",
+      "sources": [
+        {
+          "name": "R7",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVEs2OWdXcGwxYlV5S2lXa1RNM2FLYVV0Qjl2b3M3blVFQXFNUTJHbWc3R3hyTnZCc19CRkFtcWZMUmxnXzlVMjVqWWI5a3Jid3NYZjZuU0JDdFpIc19lNTA3ZzBPNXZIMGFDM0JjdHdsWThtMmRmQVItWFQzRXQzZmJtWHVneWdkNkxJbW01M2lxVHBIUkRiZUx2cHB3aGxCLWVMUzlqUnU5MXk1dGN3dGdn?oc=5"
         }
       ]
     },
@@ -21,7 +57,7 @@
       "id": "654e20fe8f62",
       "title": "SUS vai ampliar proteção vacinal contra doença pneumocócica - Agência Brasil",
       "published": "2026-05-28T17:25:00+00:00",
-      "summary": "SUS vai ampliar proteção vacinal contra doença pneumocócica&nbsp;&nbsp;Agência BrasilVeja mais manchetes e perspectivas no Google Notícias",
+      "summary": "SUS vai ampliar proteção vacinal contra doença pneumocócica&nbsp;&nbsp;Agência BrasilMinistério da Saúde amplia vacinação infantil contra pneumococo no SUS&nbsp;&nbsp;Metro 1SUS amplia vacinação contra meningite e pneumonia&nbsp;&nbsp;Hojemais.com.brPNI realiza webinário sobre introdução da VPC20 no SUS; assista&nbsp;&nbsp;SBIm - Sociedade Brasileira de ImunizaçõesVacina pneumo 20 passa a ser oferecida no SUS e Paraíba começa aplicação na próxima semana&nbsp;&nbsp;ClickPB",
       "sources": [
         {
           "name": "Agência Brasil",
@@ -30,10 +66,22 @@
       ]
     },
     {
+      "id": "ffad61752c56",
+      "title": "O erro comum que a ciência diz ser difícil de “apagar” da saúde do coração - Gazeta do Povo",
+      "published": "2026-05-28T17:10:00+00:00",
+      "summary": "O erro comum que a ciência diz ser difícil de “apagar” da saúde do coração&nbsp;&nbsp;Gazeta do Povo",
+      "sources": [
+        {
+          "name": "Gazeta do Povo",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUlRVVEFZWVBKUFp3cFBIQVpGeVdLTmFsTnpRcjkxMjMzTWFURmZ3MFBBMEk4WDc4X29ZQkY1TjZvQUI0MjVTaU9CMFBqZnlueWVydkNidFNTaGloanZyTnNOX2xueGJNVnVuX2JZblRlcEpwRHB1SWd0YXhkVDZoeVQwNnFfRGtGVTFKNlo0c18?oc=5"
+        }
+      ]
+    },
+    {
       "id": "9034469d8d9f",
       "title": "CFM libera dois novos tratamentos para câncer de próstata; técnicas prometem menos impacto sobre função sexual e urinária - G1",
       "published": "2026-05-28T16:53:12+00:00",
-      "summary": "CFM libera dois novos tratamentos para câncer de próstata; técnicas prometem menos impacto sobre função sexual e urinária&nbsp;&nbsp;G1CFM aprova novo tratamento para o câncer de próstata&nbsp;&nbsp;Conselho Federal de Medicina.CFM autoriza uso de dois novos tratamentos para câncer de próstata&nbsp;&nbsp;MetrópolesCâncer de próstata: CFM autoriza uso HIFU e crioablação para tratamento&nbsp;&nbsp;Afya | HomeCFM libera novos tratamentos para câncer de próstata no Brasil&nbsp;&nbsp;RedeTV!",
+      "summary": "CFM libera dois novos tratamentos para câncer de próstata; técnicas prometem menos impacto sobre função sexual e urinária&nbsp;&nbsp;G1CFM aprova novo tratamento para o câncer de próstata&nbsp;&nbsp;Conselho Federal de Medicina.CFM autoriza uso de dois novos tratamentos para câncer de próstata&nbsp;&nbsp;MetrópolesCâncer de próstata: CFM autoriza uso de HIFU e crioablação para tratamento&nbsp;&nbsp;Afya | HomeCFM libera novos tratamentos para câncer de próstata no Brasil&nbsp;&nbsp;RedeTV!",
       "sources": [
         {
           "name": "G1",
@@ -50,6 +98,18 @@
         {
           "name": "Metrópoles",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1QZ3ZTZlBKYXowblhHb01fYUNENURIaGROSXpQN2c5VjNZaW1OY1FnTFljTXFIQUFmTnpudWhxU3R2QjREVndVcWN2RTdnM0xzaVYwZ3JGbklhMWFCOVNNb1FVYXM2M2xEaU1jTnQtZERZbUNaNzFtN0FR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ceff1417ddde",
+      "title": "Cientistas descobriram novas informações sobre a relação entre o consumo de frutas vermelhas e o declínio cognitivo - Tua Saúde",
+      "published": "2026-05-28T15:32:55+00:00",
+      "summary": "Cientistas descobriram novas informações sobre a relação entre o consumo de frutas vermelhas e o declínio cognitivo&nbsp;&nbsp;Tua Saúde",
+      "sources": [
+        {
+          "name": "Tua Saúde",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQX1JSOFVrZ1VnMGdTX3p4cmx3S0NwejVPV1N5RDZMcTltUkU4WVUyNXU4Q0tKd2NSc1VaVlpvT3A0ZFhCQnRzclNxRHVxanJZVExoZXIwYi1HdUtQaGN6Q1ctWkNxdVVhOXd0WFpKQ3RoSF9NVmVxNmNyNGZ0Z3J1bC01Y1A2NkFPblpVcWk2c3dkZ3BxeW1wc1BEUWRUYTB0VzhGWTV3WmRWbzVCbV9fTEJWOEFoNEducV84ODJEc2p5OG9NcHdaYVFBdFNqTmowUWFlZkUxYWJPLVRGYXVja3BGQ3NQTEcycDRnUGVB?oc=5"
         }
       ]
     },
@@ -81,7 +141,7 @@
       "id": "717d8ddae9e2",
       "title": "Novo remédio cura 20% de pacientes com hepatite B crônica, diz estudo - UOL",
       "published": "2026-05-28T14:06:02+00:00",
-      "summary": "Novo remédio cura 20% de pacientes com hepatite B crônica, diz estudo&nbsp;&nbsp;UOLNova injeção elimina completamente hepatite B em 20% dos pacientes&nbsp;&nbsp;O GLOBOCura da hepatite B? Com novo antiviral, ciência dá grande passo rumo à eliminação do vírus&nbsp;&nbsp;Veja SaúdeBrii Bio apresenta dados de cura funcional da hepatite B em estudo&nbsp;&nbsp;Investing.com Brasil - Finanças, Câmbio e InvestimentosMedicamento experimental contra hepatite B pode oferecer 'cura funcional' para alguns ",
+      "summary": "Novo remédio cura 20% de pacientes com hepatite B crônica, diz estudo&nbsp;&nbsp;UOLCura da hepatite B? Com novo antiviral, ciência dá grande passo rumo à eliminação do vírus&nbsp;&nbsp;Veja SaúdeNova injeção elimina completamente hepatite B em 20% dos pacientes&nbsp;&nbsp;O GLOBOBrii Bio apresenta dados de cura funcional da hepatite B em estudo&nbsp;&nbsp;Investing.com Brasil - Finanças, Câmbio e InvestimentosMedicamento experimental contra hepatite B pode oferecer 'cura funcional' para alguns ",
       "sources": [
         {
           "name": "UOL",
@@ -90,10 +150,22 @@
       ]
     },
     {
+      "id": "3260cdfc7ae7",
+      "title": "Vacinação contra gripe na Central do Cidadão em Campo Grande - Campo Grande News",
+      "published": "2026-05-28T13:55:00+00:00",
+      "summary": "Vacinação contra gripe na Central do Cidadão em Campo Grande&nbsp;&nbsp;Campo Grande NewsCAC terá ponto de vacinação contra a gripe nesta quinta-feira – CGNotícias&nbsp;&nbsp;campogrande.ms.gov.brAção em canteiro de obras vacina 43 trabalhadores contra gripe na Capital&nbsp;&nbsp;MidiamaxDrive-thru de vacinação da SES supera 10 mil doses aplicadas em Campo Grande&nbsp;&nbsp;agenciadenoticias.ms.gov.brO agressor morava junto da vítima👇&nbsp;&nbsp;facebook.com",
+      "sources": [
+        {
+          "name": "Campo Grande News",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNVBpa0J2UTYwRGhGYjVDblhNOWd1XzJnOFVCYjd1MGVxbWRMZm15dHJwTW56TG1jX0x6VUZQMWxqTlpBTTU1X0lfYUR5VTRFcU5wYWM1UUdVZ0xwbGEwOXlPcTd4T2ZFZUFEX0lpNnVoSkRRQ2c2RHpFNGoydGR5Uzl4dWlhaFdDYUxJNG1EOGk2dzR0aWpmcHhnbW5RZDIxaXBWc3VlSmhlODZEcEg1aG0xLTdvU1ZialFzbk53RnlMd9IBwgFBVV95cUxNNEszUmdBMWcxaFNuRV9JYTNvSUdxOHdvSXFZc3dkcjhyTktfdHNqUmV3SUtRQmdqVjdiM2pwVDMzZGdTQ09JWlU3RzZlVGFOWEFhdTVtOFp4dXVmQTUtRnotQTd4NE1kUDlsVVZLbkc5dm8yZ3BPNHB6MF9CdjhGdjMwd1pqUU1OT3F1ZUYwUmwzRE1oRG9oZWFQMkQtNm50cklScVBUVWxZYTFOaE1VMlYxOEJrQW1TYW9wcUJQbjM4QQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c146dfd6e8c3",
       "title": "Espírito Santo amplia vacinação contra a influenza para toda a população acima de 6 meses - Secretaria de Estado da Saúde do Espírito Santo",
       "published": "2026-05-28T13:36:21+00:00",
-      "summary": "Espírito Santo amplia vacinação contra a influenza para toda a população acima de 6 meses&nbsp;&nbsp;Secretaria de Estado da Saúde do Espírito SantoComeça amanhã vacinação da gripe para público em geral&nbsp;&nbsp;G1Liberada! Toda população do estado poderá tomar vacina contra gripe a partir do próximo dia 1º&nbsp;&nbsp;goias.govGoverno amplia vacinação contra a influenza para toda a população&nbsp;&nbsp;Século DiárioDedo de Prosa: vacinação contra a gripe&nbsp;&nbsp;Senado Federal",
+      "summary": "Espírito Santo amplia vacinação contra a influenza para toda a população acima de 6 meses&nbsp;&nbsp;Secretaria de Estado da Saúde do Espírito SantoVitória amplia vacinação contra a gripe&nbsp;&nbsp;G1Liberada! Toda população do estado poderá tomar vacina contra gripe a partir do próximo dia 1º&nbsp;&nbsp;goias.govGoverno amplia vacinação contra a influenza para toda a população&nbsp;&nbsp;Século DiárioSaúde de Araçatuba amplia vacinação contra a gripe para toda população a partir de segunda-fei",
       "sources": [
         {
           "name": "Secretaria de Estado da Saúde do Espírito Santo",
@@ -150,6 +222,18 @@
       ]
     },
     {
+      "id": "f6576038f8aa",
+      "title": "Papa Leão 14 denuncia o colonialismo digital e propõe 'jejum de IA' em sua primeira encíclica - Folha de S.Paulo",
+      "published": "2026-05-28T10:00:00+00:00",
+      "summary": "Papa Leão 14 denuncia o colonialismo digital e propõe 'jejum de IA' em sua primeira encíclica&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUS1ma1BNSUJQczV1V25WaTEyREhBVy1kVFBhWU5GV24zSGt0aC1jd0d0bDhyaGgyMEN2YnhfbGtqdGc0SXFVOC1ZRHN2Y25wODdlMTJGbkE4a0ZhR051bW5sMXFOSnhLWXNRcVFXVDlBWTVfckNKanVRZnFHdXY4T0dxREhvXzI0Tmc0VUVIVDJiS3k0SUhxZ2Q2cjBESWlqWHJoSUZUVG9SZzltNVk1ZmRWajk0T2VUVmg5eWtmMGxMQ05QR05TeGJFXzVnZVB4TUtxcU96Mm5zeHlkWEE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d9016b9817b6",
       "title": "Cientistas descobriram novas informações sobre a relação entre o sono profundo e a memória de longo prazo - Tua Saúde",
       "published": "2026-05-28T09:28:41+00:00",
@@ -189,35 +273,11 @@
       "id": "369530eb328b",
       "title": "Municípios adotam canetas emagrecedoras antes da incorporação nacional pelo SUS - Folha de S.Paulo",
       "published": "2026-05-28T07:00:00+00:00",
-      "summary": "Municípios adotam canetas emagrecedoras antes da incorporação nacional pelo SUS&nbsp;&nbsp;Folha de S.PauloMunicípios antecipam oferta de medicamentos para obesidade sem esperar o SUS&nbsp;&nbsp;Jornal GGNCFM e SBEM orientam sobre o uso de injetáveis emagrecedores&nbsp;&nbsp;Conselho Federal de Medicina.Novos medicamentos injetáveis para obesidade revolucionam proteção cardiovascular&nbsp;&nbsp;Jornal do BrásEles reduzem o impacto do colesterol alto e da obesidade: novos hábitos e tratamentos pa",
+      "summary": "Municípios adotam canetas emagrecedoras antes da incorporação nacional pelo SUS&nbsp;&nbsp;Folha de S.PauloOs riscos das canetas emagrecedoras sem orientação médica&nbsp;&nbsp;G1Busca por saúde e corpo ideal aumenta procura por academias e canetas emagrecedoras&nbsp;&nbsp;R7O mercado das canetinhas&nbsp;&nbsp;O POVO+Criadas para controlar o diabetes, canetas emagrecedoras se transformaram em febre mundial para perda de peso&nbsp;&nbsp;Terra",
       "sources": [
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQd2prMzhTR3BkVnprWFpOdU42Wnk1OERhdFR5MzVaV1FISHFqQmxYaU9xLWxrazFFeHNVUURjSGs2d1dYaUpoZEpVejlLTXBEVXlGcmtZU2d5R3ZtR05wX3VxRXdPSDMzMnd1ZS1GY250S2FkRkJGYmFFb0w5UjRFTzRXVjV0b2pqeVVnV0VacVRMSTh1UVVyOEh2VEIxeHc0WkFwTWtjQ25sR1llaWhmYU1rZTVZQXRfYXh2U2pqSEFhLXdrU1YxOWszME4zenRtajlPSEQxRzI4ZTBvMjVMc3FZYl94S19qNlBIZlVB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7cd3f48283ea",
-      "title": "Após desabafo de Virginia Fonseca, médicos explicam efeitos do álcool - Metrópoles",
-      "published": "2026-05-27T21:27:00+00:00",
-      "summary": "Após desabafo de Virginia Fonseca, médicos explicam efeitos do álcool&nbsp;&nbsp;MetrópolesVirginia Fonseca comenta sensação após festa da filha e especialistas explicam impacto do álcool no corpo&nbsp;&nbsp;O GLOBOVirginia diz ter 'barriga mais seca', após beber; mas médicos fazem alerta&nbsp;&nbsp;TerraEfeito do álcool relatado por Virginia Fonseca pode gerar 'rebote'; nutricionista explica&nbsp;&nbsp;Globo",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcE9JNktGMnhMYmc4bUwwY1BUY0IweUhHZW5JTF9ZWUtKbVpkblVUQ2pwWHZNbmY3MHZJV09xS0hWZFlTM0k5NnZwOUgzZG94YWhaODgyQV9zcG1XTFdkX1FJanFGSjBGQ2MtWjBPVnZmTE5aQ1lfbm9relhwSUh3Mzd2QUh1X010bWlIZm5mNFZXMmtNMUt2TU9yOGlBaXppMDVVeFRFdUdkRnlLOXJCWjhiMFFkNWhfc1E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "625896d154b0",
-      "title": "Divinópolis terá ampliação da cobertura vacinal contra a gripe a partir de amanhã (28/5) - Prefeitura de Divinópolis",
-      "published": "2026-05-27T20:48:17+00:00",
-      "summary": "Divinópolis terá ampliação da cobertura vacinal contra a gripe a partir de amanhã (28/5)&nbsp;&nbsp;Prefeitura de DivinópolisVacina da gripe é liberada para todas as idades em Divinópolis&nbsp;&nbsp;G1Vacinação contra a gripe: 19 centros de saúde de BH estarão abertos neste sábado; veja lista&nbsp;&nbsp;BHAZPBH abre 19 centros de saúde neste sábado (30) para vacinação contra a gripe&nbsp;&nbsp;Prefeitura de Belo HorizonteVACINAÇÃO CONTRA GRIPE ( INFLUENZA) SEGUE AMPLIADA EM POÇOS DE CALDAS&nbsp;",
-      "sources": [
-        {
-          "name": "Prefeitura de Divinópolis",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNDNraW0td3dwNV94aVdiX1dQUVN5TC1XYlZFYTZjRWdMRXNteDZlc1drTkZuXzNLNEQ3UVotbjdiTThnTW9yV1lwVjB2dVRITmFoamNjUzlYbDZYUW9hS1RJcDIxMl9KSmh0TXJBR2dGbEdyOWFqVVNVbU8yRVIwMHdOSGdVanlEaDZhYUZBeDMzWm1lTnR1b1d0QXlMN3lCUzVwMzBpU2RWb1ZEaUlNOVNLMVZXZGdHR2lvQ1VHRXphSXdTa0hoQUo2MjFaNDd1TVdraHVfQkFLTXRmTUE?oc=5"
         }
       ]
     },
@@ -237,11 +297,23 @@
       "id": "b7c0c69af85c",
       "title": "HPV leva a 7,5 mil mortes anuais por câncer no Brasil - Agência Brasil",
       "published": "2026-05-27T20:02:00+00:00",
-      "summary": "HPV leva a 7,5 mil mortes anuais por câncer no Brasil&nbsp;&nbsp;Agência BrasilHPV mata mais de 6 mil mulheres por ano no Brasil, diz pesquisa&nbsp;&nbsp;Folha BVNúmeros alarmantes para doença que tem vacina&nbsp;&nbsp;A CríticaBrasil tem 7,5 mil mortes de câncer causado por HPV&nbsp;&nbsp;GAZHPV provoca mais de 75 mil mortes por câncer por ano no Brasil&nbsp;&nbsp;Rádio e TV Encontro das Águas",
+      "summary": "HPV leva a 7,5 mil mortes anuais por câncer no Brasil&nbsp;&nbsp;Agência BrasilVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
           "name": "Agência Brasil",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONzF1Q1BpZDB5c2Fwa1daWV8zVmdSb29VcWR3a3VVT1VPTkh3a1h1czFFQmtWMW1QTlcwTUltcldsaW1XQXRUYTI0R01FTExWX3YyWC1nclgtLWI5MUJieXpybFVyNFM4WFFyVFdtV0ljNmhVbGk4SjlJMmcxY014bWRwQkJyMzVVb09yS3RFclZqdU4xaEdsUkFkWF9POVRGdFpYMmxkYUpkMUU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a0367faf0461",
+      "title": "SP reforça vacinação contra febre amarela no ABC após vírus ser detectado em macaco - G1",
+      "published": "2026-05-27T19:34:30+00:00",
+      "summary": "SP reforça vacinação contra febre amarela no ABC após vírus ser detectado em macaco&nbsp;&nbsp;G1Mauá promove Dia D contra gripe e febre amarela após aumento de casos graves e alerta regional&nbsp;&nbsp;Prefeitura de MauáGoverno de SP reforça vacina contra febre amarela na região do ABC&nbsp;&nbsp;Agência BrasilSP amplia vacinação contra febre amarela após confirmação do vírus em Santo André&nbsp;&nbsp;Folha de S.PauloEstado reforça vacinação após caso de febre amarela em Santo André | Diário do",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRlk0ZU41MjJ1SVpmQUd1elZDenNJdE13SHBSU3pMbEpaWmlRTC1YRXd0dGtBamk1VTg4WUlOeG1oQ1N3cmhWbzdpT1I5R0hvMkdBX3dnRWJ2NU9pRGtkV0oxMDBRRVg4NG9aUGxFdzl2ZUlrUzF3YVhCVXFVMFZjaXBfdUlrYS1IQjNlXzNtOVcxbG1GckJPWENmN1NxWERabVNpNEtpeFlYeGduLUFsNXZvcmF4dVViSEIyaFdZS1NZREdXanczd1hldDY4QnpfTjhSY1NwdkFVZ9IB6AFBVV95cUxNNkZudGNycFNWRHF2N2tHUnk4enowUE1KOXZENHZNN194Xzg5R1EwOF9fR0hzVExLaTlkOEZvdnNRUEQ2aVM5ZGJFTTJvdWUtWDIyRzRhaGdxMzA3NHpQQWpNcnVuYzVpMVp2N2MxTG5JRGJtMGx5bnczaDJRMnI5djVzUUo0NjhSN1VoNUozbURwSFI3QllDRnFYY2E4M0IyWGhONURhLVhxRldTcmkwRnhaRERUSGd6MFFrejk5amVidk5JbG0yM3NUaXZFT1B5MG5CNlRUODB1YXQyLUFHTjFjTmh3T2c5?oc=5"
         }
       ]
     },
@@ -270,22 +342,10 @@
       ]
     },
     {
-      "id": "bdb96525fde2",
-      "title": "Pesquisadores identificam presença de mercúrio e chumbo em caranguejos - Um só Planeta",
-      "published": "2026-05-27T17:54:24+00:00",
-      "summary": "Pesquisadores identificam presença de mercúrio e chumbo em caranguejos&nbsp;&nbsp;Um só Planeta",
-      "sources": [
-        {
-          "name": "Um só Planeta",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOakQxZlpJR2RPTlJTdnV6Nml5WUFLOS1Ba3dfd2VCWF9ORmlOYlBMWk9wa3FudXViN1BHYkNHR1c1eUJJbDNsX3dXTW9Ld05sbHM5akVkY1VsVF9PSzRQRkxqSktvZlNzaVlpMDNaZ2wwd2VpUkxrMzFyLUllOGdZS25kYmdpSExJY2pfV0ZhVE9OYXl4VjJCYUlOS3dVWHhUT2pZaVpVRndyZERxandfTEtLZVo1cHFDQjVfOHJrZVRMTGRqa2tEay1jeHdmd0lBekpua2QyRdIB5gFBVV95cUxOXzNQNll2WE9ZQXk1UzdpUzJfaXhxR21JTk9KY3dlWVBKNnNyX054cnZRYmFMMlRHNmpWMk83dWFjQTB1T0VuaWExbmlYQ25lcmhjZVlNMndQNDlHOXh2S04zREdrTDZVaktCQkhkUy02cFVpUVIydFhZSmIyWU9odHpiYkFfRTBlbGpXSmdIdWF2bHFsSmZfVXR0U0tSUWdFNTZvNXU0Z256cFBpQkthMzd4aXZXSlFlY0tQeTRQM1Y3dUp3TGdSSS1ZaDdpdHl6Qnp1LWp6dGcwajB0bE93QlYyeG9LZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2eb1fddef69f",
       "title": "Por que ainda não existe vacina ou tratamento contra nova cepa do ebola - UOL",
       "published": "2026-05-27T17:21:13+00:00",
-      "summary": "Por que ainda não existe vacina ou tratamento contra nova cepa do ebola&nbsp;&nbsp;UOLEbola: Agência de Saúde da União Africana promete vacina para espécie Bundibugyo até o fim de 2026&nbsp;&nbsp;O GLOBOUnião Africana promete vacina contra cepa Bundibugyo do ebola até fim de 2026&nbsp;&nbsp;CartaCapitalEbola: por que ainda não há vacinas para a doença? Entenda&nbsp;&nbsp;CNN BrasilEquipe de Oxford prepara testes de vacina contra ebola durante surto&nbsp;&nbsp;Metrópoles",
+      "summary": "Por que ainda não existe vacina ou tratamento contra nova cepa do ebola&nbsp;&nbsp;UOLEbola: Agência de Saúde da União Africana promete vacina para espécie Bundibugyo até o fim de 2026&nbsp;&nbsp;O GLOBOOMS identifica tratamentos e vacinas contra o Ebola para teste em ensaios clínicos em meio a surto&nbsp;&nbsp;UOL NotíciasUnião Africana promete vacina contra cepa Bundibugyo do ebola até fim de 2026&nbsp;&nbsp;CartaCapitalEquipe de Oxford prepara testes de vacina contra ebola durante surto&nbsp;",
       "sources": [
         {
           "name": "UOL",
@@ -302,18 +362,6 @@
         {
           "name": "CidadeVerde.com",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONGNVOUZUOU05cGpVX2pQNm9GYVVwYnM4VjFOQ3dja29ocjNmclFlV2lGME5EanZWUXdhSXRRazVFam9vdm4xUUk3TmxQYXRzSzJHTnBJQldOMWVWdE5VMld0ckUtUFd2Z2o0QlUzYkVfQ0VFMFoxQWw5NjN3bzd4NjlBSktadmRwYk4tOUZNZXBvWkRRWGdUcjl5WElnOGlDeE1rMlVwU2UzS3JpVEFKczF3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6bd6b6b850d7",
-      "title": "Nasa dá primeiros passos para construir a base permanente na Lua - Metrópoles",
-      "published": "2026-05-27T16:27:40+00:00",
-      "summary": "Nasa dá primeiros passos para construir a base permanente na Lua&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vV1BLOXFCOThNdzQyTWs5Vy1iSlBwVWhMS05EcVljY1NWMlMwaW5JVy1CTWZNM3hFN0tVTV9abjJ2YzhBOHYxYk9YLWpNcUk5Z05XY1dEUVlVRElnZVRRVmRKZUctd1BBWXM4dVp1N3Jzalc2cW5fcA?oc=5"
         }
       ]
     },
@@ -354,6 +402,18 @@
       ]
     },
     {
+      "id": "981792194f18",
+      "title": "Virginia Fonseca comenta sensação após festa da filha e especialistas explicam impacto do álcool no corpo - O GLOBO",
+      "published": "2026-05-27T14:15:08+00:00",
+      "summary": "Virginia Fonseca comenta sensação após festa da filha e especialistas explicam impacto do álcool no corpo&nbsp;&nbsp;O GLOBOVirginia diz ter 'barriga mais seca', após beber; mas médicos fazem alerta&nbsp;&nbsp;TerraApós desabafo de Virginia Fonseca, médicos explicam efeitos do álcool&nbsp;&nbsp;MetrópolesEfeito do álcool relatado por Virginia Fonseca pode gerar 'rebote'; nutricionista explica&nbsp;&nbsp;Globo",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQX0tlUWdTbFp0TWJVM25uZGoxZXVHMW1ja2ViQk44ZzdLbWxaOWZTYjVtOS01UXZ2eHRlc2oyeHU0LS1UQjZqR3RnVVdKYTA0LUpxeGNaeUZaZ25LTFVSNGx0cWEtTUJUWVZUcE92RkVBclBsUDd5dW1fYXppWUtwWWdETXZfSDE1UWJJOVk5Mk94WnVqRjBPcmdKWlFJTEJZLTJUWXNDMS1aMjAybkVXM1BkMDh3OHc4ZXJDanFBbzMwN01hcFgxRS1Ec2tqUS1vTHoxQ3lzS3haRTRYbElPNVVUMNIB8gFBVV95cUxQNEswNVlwODZnYXc5SWYzT0VmNVExYmJpX0Q5OUtZTHlRZzNyQmJydzU3aC1WVjFoZm8zbHVNZjJkRTl3aXFXNlowVmlYdFFEU2tRZVNTNGkwTWxuRnhDbEFMY2pRS3E1YnZjUFQ4RUtqTmw0NmRiQjFGUEdGaTEyVkdOV3U1TEtrWml2cWtxaXYwaVNVLTdvMU1BOTJ1dU83SVdqb2NveHg0elBGRUljWjZIaWdiU3JseFZjcTVzZ1d0NWFRajIxMS05aEh4UWZZUTRVa2JKTTVMMlJPUU9JLU43aVY2QTdwdE5MZVNWMXdpdw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "369179e4813e",
       "title": "Veneno de aranha chilena encontrado por cientistas age com precisão microscópica nas células humanas, provoca necrose e pode acelerar criação de novos tratamentos contra picadas graves - CPG Click Petróleo e Gás",
       "published": "2026-05-27T14:07:00+00:00",
@@ -378,34 +438,10 @@
       ]
     },
     {
-      "id": "b857a9010750",
-      "title": "Redes sociais ampliam desinformação sobre saúde mental, aponta estudo - CNN Brasil",
-      "published": "2026-05-27T13:09:31+00:00",
-      "summary": "Redes sociais ampliam desinformação sobre saúde mental, aponta estudo&nbsp;&nbsp;CNN Brasil“Por que tudo virou ‘red flag’?” O risco de patologizar comportamentos normais nas relações&nbsp;&nbsp;Jornal do BrásRedes sociais: #umproblemadesaúdepública&nbsp;&nbsp;PúblicoEstudo aponta avanço da desinformação sobre saúde mental nas redes sociais&nbsp;&nbsp;Portal 96FMRedes sociais espalham erros sobre saúde mental, diz estudo&nbsp;&nbsp;comunhao.com.br",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUlV0YVVPX1c5WVRMRm5iU0hzcWVKWmx0VXl4bGtJTlYxU1cwNXlSZDYzUFUyT2dhaHVZTHpURTRYVVpzQXlfZ1dPTEVYSk83cDBVX0FubjJUencycVVwamE3d2MxLWNwakMwYllQazNFWGtOTm9LTTFhV1lXdnFielQ0azZ5YUdoNmo0aDFNR1ltQ05fQUc2bC1IM2ludjl2bnBxRU92dw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ba1511f568d1",
-      "title": "Além do nódulo: 5 sinais de câncer de mama que muitas mulheres ignoram - UOL",
-      "published": "2026-05-27T12:30:00+00:00",
-      "summary": "Além do nódulo: 5 sinais de câncer de mama que muitas mulheres ignoram&nbsp;&nbsp;UOLCâncer no Brasil: o número que já é alto pode ser ainda maior&nbsp;&nbsp;VEJAMédicos destacam a importância da mamografia para obter diagnóstico precoce&nbsp;&nbsp;Cidade ConectaO que o toque não sente, a imagem revela: A corrida contra o tempo no diagnóstico do câncer de mama&nbsp;&nbsp;Portal Revista Kdea 360Panorama do câncer no Brasil: como é o acesso a tratamentos e quais os desafios atuais&nbsp;&nbsp;Unive",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdGNEY1VVcjFwY3NBREdOdUZxNG9aSTdZZ0NYSk13anVGVlhiUHl1SVJuQlg2dldGS2RHZlVHMVk3MUxCZU40Q094T2k0Z1hfWmktYVlENW1lQjc3dlhCQkhoNFc0bFVxemJnZEhXb0M3Rzl0VjJoY01mTTdBWDl6dUhVSlRCcGtRN19uQk9tUVVMRy1SekxlQktweEltVmNlT0ZSZ2dkbVl0ek8zUmNNSm41SXJ2NUUtTHh4VVpFUVAxb2RSaDRYbGJlZ0d6UQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b01509522a5e",
       "title": "Sintoma pode ser sinal silencioso de câncer de fígado; fique atento - DOL",
       "published": "2026-05-27T11:58:20+00:00",
-      "summary": "Sintoma pode ser sinal silencioso de câncer de fígado; fique atento&nbsp;&nbsp;DOLVeja mais manchetes e perspectivas no Google Notícias",
+      "summary": "Sintoma pode ser sinal silencioso de câncer de fígado; fique atento&nbsp;&nbsp;DOLDoenças do fígado são perigosas e silenciosas&nbsp;&nbsp;G1Sintoma discreto pode ser alerta de câncer no fígado; entenda&nbsp;&nbsp;jornalmetropolis.com.br",
       "sources": [
         {
           "name": "DOL",
@@ -458,18 +494,6 @@
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOa1NqQk05QXZ6UUpueHhvdTE5RF9ySVFqQ0dST3l2VHNKOXlmNEhOTWZPUFRvYmRhR3ZBOXZ4UEhWTl9KRllHTHBYc1plMDN5amllQTVjMzJnV0o2VlZWUHRidGxGdU9ZdGZhTGJBUTBrWDJkenFmVnA0ZmFSd0F4bkw1eG11bHJuNU5qUDlJT2lOX3ViLVVNeC0yRDR0S0I2eVNpM1NUY0RLLWtDaHg5WmNBVF83Y2RUMkhYRWpkWUJRSS1malI3U0pKMUdFMlRsa3RNVHM2cm1VR0VtbHRsWE5aUml6ZmtKYW94d9IB-wFBVV95cUxQek55QXFiVlVyWFdlUEVtVHZ6clM0aTU1VUh5RzZQaFpFUmtzWnRJS0pZYXBBT3hfNXlCYi1xS2xrbHhud0pzQ3hLTUptZWdUMWhDMXZYb2VlcVYyTnNfVDRHZk03c1BxRFJyTzd4NS1seXl3WlYzS0dKSGQ4RHBXVEdMcmx5ZDZ0T005TTRlbFFnM0RUejVma1E3V1FYRy1mYWNlTEdJUF95Wml3ejFINWg1enhZZXp1NWVCRG15Nkx1dGh3M21ISTY0MG02M1FqUEZTLTFkdkdScDBBRFZnR2NZcDRBTm9Od3VyV0pBQnZSZ0laWGMtNklORQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "57d670f8b4f5",
-      "title": "James Webb encontra a galáxia mais PRIMITIVA e reescreve a história cósmica! - Space Today",
-      "published": "2026-05-27T05:11:00+00:00",
-      "summary": "James Webb encontra a galáxia mais PRIMITIVA e reescreve a história cósmica!&nbsp;&nbsp;Space Today",
-      "sources": [
-        {
-          "name": "Space Today",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUFFQQ2oyWnRoTzR2eWc4WHliaDJVVWhNbHVYcXdkYW55S21EVUdJYng3ZG8tTF96WW94VzRXdHlGUXlqUUd5TlYyWDNBOC1ob3hXTkhxZ0w5cnpUUld0S1JuN3pUeHlTTFhPSElBWW81TkdJclFBeFdtQVRyanBDb3c4YjB6NHlZZjR1WXNVYmhPdFdPUXlwdVdidk9SYVhES1ZCTA?oc=5"
         }
       ]
     }
