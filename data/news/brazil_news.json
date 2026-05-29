@@ -1,10 +1,70 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-05-29T09:57:21.866289+00:00",
-  "total_fetched": 92,
-  "unique_count": 92,
-  "health_related_count": 34,
+  "fetched_at": "2026-05-29T15:39:59.293372+00:00",
+  "total_fetched": 96,
+  "unique_count": 95,
+  "health_related_count": 35,
   "news": [
+    {
+      "id": "5be3355c35aa",
+      "title": "Mosquitos podem se sentir atraídos pelo cheiro de repelentes; estudo - Globo",
+      "published": "2026-05-29T11:20:57+00:00",
+      "summary": "Mosquitos podem se sentir atraídos pelo cheiro de repelentes; estudo&nbsp;&nbsp;Globo",
+      "sources": [
+        {
+          "name": "Globo",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObG9oczNpWENydGtkc0NtUWdRVExRNVR3T1o4cHl5alJ2a2xLNDZ4TklNaVRLZmN0VnV6WDhadXpTTVV3NFJBbnB0OENrZmxPRjRMdFY2aGVSY1dmZnFKbDRnR0lUV05vUFlCMEhFS1RValFnajlOMmhsRF9LTXZiY3ctRDVEVE1xcDF3eUhoOHV0dm9XWDRuUVBSSVp0bFVMSHNOVTZ5N0U4b2FjbmVSeVFNcS1Ic0YwVVU2QnJYQzdCOTNDb3pDV3RWQ1JSWVBBRDNFMFlR0gHkAUFVX3lxTFBQaTIwUFF3dksxLU9IVmdNUkdBNzFwcW9NNHJoUXZYeEppUHVSZ1dQZmFxT2RsWmNhdFZaOHJBRzA1MDdmdWFRNF9LRGREc19kbjVFZ3BZelV4S0FSM1c0MDI2aEVrSlhJSUlkUkw5UWNtNXFLZ3RlLUU5emF0UktoOEprZ0FWT0hFcTVJai1GNVhmQTROY0RLTFBGNWpaVnlwd0tTYWJwV2hCdEVJeXZ3RTllYjZHUTF3Mk1IQ2QzZy10NDNWaFhGT3FJVC1tR05qTXhiR2I1RTdIUm1CbmYzUGxNZA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1756fd4cf8af",
+      "title": "Estudo mostra que a idade em que você perde a virgindade pode influenciar a qualidade do seu envelhecimento; entenda - Extra online",
+      "published": "2026-05-29T07:30:43+00:00",
+      "summary": "Estudo mostra que a idade em que você perde a virgindade pode influenciar a qualidade do seu envelhecimento; entenda&nbsp;&nbsp;Extra online",
+      "sources": [
+        {
+          "name": "Extra online",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPRUN2V19CenA3ZGdOQ0Y2OU0tZ01VRkRvQ1UzVHpWZEdKSlpoOUx6N285cFJLN3lxc0d4U0lib08zSTFnRjV2R2Q2UFlrZ2dEbGxnY3dQUGpMYXYwRlBtdjd4aWVqMG00U3FZQlpUdUVYWTFaVjgxaDZHdWFMX1FIem9NQllHX1VWbHczd2VRMVhGZ3lIaU55UDNjMDRhblZnUEsta2ZOU00wLTlEdjUzQS1ZQzJ2cjJoNkFtWjBULXNoRUE1Y0NGU0dmYXhERElRSURzMEstNEFaNjEtZ29CUlNhRUtrUHN0ZzFwYlJ4aWJPODQtVkctQ2NmRGJFcGlabzFB0gGSAkFVX3lxTE9KUm0zd3o2Vi1ObW56YmlBYkgyX3VXZ2J3YmlocTNveXZLY0NCTGY3X0w1YmsxS0NBeE5zT2dYZzBvc1R6azdKbEpvd3FKS0FyaFJsdW1xbE9IamFNbnpNaFNKSDE4Q09DQmNGYUgxekpMbHFqRzA2XzVJQjFmTGlTWFBHMngwaFNfS1YwODZHZExSQ2NQMG9MUlBSZWhwWWl3ZEJnRVExWVVZWTZscHhQdXNoaF96aGJpZHNnWUNFZWwza0xScTZwWlZPcVVKRVNQZWNvV1Q0U0Y0RzdhOTN4QlRsZi05RzhRclhkQml5bDgxUEZqS2lhdUZxOTJXMjd2UnA2RzdzMmxyUHF0RWk2Vnc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e53baf634def",
+      "title": "'Ginecologia de rede social' coloca saúde íntima em risco? Especialista explica - Gshow",
+      "published": "2026-05-29T07:01:48+00:00",
+      "summary": "'Ginecologia de rede social' coloca saúde íntima em risco? Especialista explica&nbsp;&nbsp;Gshow",
+      "sources": [
+        {
+          "name": "Gshow",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMjRBWkVrRWRBRm1pM0p5WXI4bzlydWdvNjJZTzZLR2RweUFLWk1hT244cDNrZFV0ZnZzT0hfNmhJSTdvQzJBRTdwejBIZVR3aHBWX1h3cTV2YU5vUWpFRWVUY3ByQ1c0d2R2aWs2U2stWlhuWXM4c29LYXVlZEhFY0ZaUExzSmk0Q2IyRHBud2RRZ2dZaVdCblIydlFLYUpwc2dueFZxVlpHYi1YeDVkeGd3YUlYRFc0QXhNOTVHNzFoa290VVlSMzlGX284TkHSAd4BQVVfeXFMTWV2ODJveHJjeUpJS0huc2Fta3dKMVVyUGttbUE5QTJXMUFOVE8xbE1HMXpub0dXd0N1VVp5MzdNVkdvWHhfTGpVcGlRVlROdmxqUjNoS2hsdnBLbjExUDJ5em9UYlBCRnRDSkFENWxKYmQ2dHd6SlBTSlk5UTNySDFZQWJvWHc0RHdWTko2ZVBRekdkS3NvREl6MjFMcDRMcXhQdDNZMmVzYUFRMmlyZzV2cS1kMUMtN3JBTWluSThEOXlfRkxlMVM2R1hQaXpWWDZQT05EYkpKbld5RHlR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3d34068c1a64",
+      "title": "Empresa Australiana Inaugura Centro de Pesquisa e Processamento de Terras Raras em MG - Forbes Brasil",
+      "published": "2026-05-28T22:14:56+00:00",
+      "summary": "Empresa Australiana Inaugura Centro de Pesquisa e Processamento de Terras Raras em MG&nbsp;&nbsp;Forbes Brasil",
+      "sources": [
+        {
+          "name": "Forbes Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNktPbTBPRWUtcWdoOTI1X1VoRm81TEVfSF8xaFdkVzNCU0Y0Z2EzX05WQ01OSjViSTlXc3BNVzQ4QjZKVEhEMlpPNFEtN1U2U1BnOW5ydE5zTlpDbWE2MUx6NWtSNFpwVGlaQ2tpZUpMNWZpOHR6WTRURkM1X3pLbEswR1ZGa3dqdFBacnpJdmgzX29LSzA2azZqVUd5ZnlyRTBscl9PYUpOdWY4Z3JrTzYwNlM5N3ZPXzZGUHBHaDNQTHFiRUhTWg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "041a762ded64",
+      "title": "RS enfrenta aumento de casos de SRAG e entra em alerta máximo em meio à baixa vacinação - abcmais.com",
+      "published": "2026-05-28T21:37:09+00:00",
+      "summary": "RS enfrenta aumento de casos de SRAG e entra em alerta máximo em meio à baixa vacinação&nbsp;&nbsp;abcmais.comRS tem 'alto risco' para doenças respiratórias por baixa adesão à vacina da gripe, aponta Fiocruz&nbsp;&nbsp;G1Fiocruz: internações por gripe e bronquiolite seguem em alta; veja as vacinas que previnem as doenças&nbsp;&nbsp;O GLOBOTamiflu: como funciona, quem deve tomar e quando iniciar o tratamento contra influenza&nbsp;&nbsp;GZHInfoGripe: RS segue em alerta por alta de casos de SRAG&nb",
+      "sources": [
+        {
+          "name": "abcmais.com",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYzlpUDdwaWU0c2g3R2V3NzMzeHVQQThRN0FDUjBheDgySnhzOWFJMVotNEhiU0VlRzl4eFRSdUtrOEw2SDdqa1pRV3ZPNzhYcWN1ZDU1eE9OSVNXNEJZLU9MeHkxZmVnWXFUUm9ySVJiLXMxR0VYRE53ZDBZMzRValEzbk12YlZ2RzUxeUhKOUhOTHlQU0x3a2wteVhHMkxpX0xxbzNub2RoZGc0dkw3dWtIRU9xYlVqQWVwdU9xY0R2N1ZPdTlsZjZoaHVpN1NVakpr?oc=5"
+        }
+      ]
+    },
     {
       "id": "e4ddabb88c07",
       "title": "Grande vazamento de água coloca pessoas e equipamentos em risco em prédios da UERJ - Diário do Rio",
@@ -30,22 +90,10 @@
       ]
     },
     {
-      "id": "234b192508cd",
-      "title": "Rio Grande do Sul entra em alto risco após aumento de casos respiratórios, aponta Fiocruz - GZH",
-      "published": "2026-05-28T19:10:59+00:00",
-      "summary": "Rio Grande do Sul entra em alto risco após aumento de casos respiratórios, aponta Fiocruz&nbsp;&nbsp;GZHCasos graves de Influenza dobram no Brasil: quem deve tomar Tamiflu e quando o antiviral funciona&nbsp;&nbsp;G1InfoGripe: RS segue em alerta por alta de casos de SRAG&nbsp;&nbsp;Correio do PovoHigienização nas escolas é medida essencial para conter avanço da Influenza entre crianças e jovens&nbsp;&nbsp;Conexão TocantinsCasos de síndrome respiratória grave seguem em alta no país&nbsp;&nbsp;band",
-      "sources": [
-        {
-          "name": "GZH",
-          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOSy1xN2JEa1l6UnBRb1Z3ZlI2UDR0VWtjcUE0LVdOc0tIMm9lUW9heEo0cEcxYkhyNG5hM1FMLVNNU3pEamJDV3ZsR2FjUVNlWVlPQkJYT1NDZjNJLUwwcFBsaWRYZ3ZOck5FSDVkR3k1MEtZd0ltV01nWXVKSGFtc1VEazNVem9rUDloWExkelhzSmx5dG1ZbEpDaXRsbEJqYkpPZ2hhcU03a1BKWktiOUhKZHhTMWtNWWZNeGlKQy1kNk1zZ2Y0REZwZlhNTGx5WlRKTEQzX2V5R2ZXUG5oa2hGWUhkMEtrRWxiSmRuZDlIVTdSNXhMSFVfSVY4RHZBUGdn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "063da7747c67",
       "title": "SUS tem novo protocolo para detectar câncer de intestino - Portal Drauzio Varella",
       "published": "2026-05-28T19:03:54+00:00",
-      "summary": "SUS tem novo protocolo para detectar câncer de intestino&nbsp;&nbsp;Portal Drauzio VarellaSUS lançou novo exame que identifica alterações que previnem o câncer de intestino.&nbsp;&nbsp;G1Ministro da Saúde anuncia novo protocolo para rastreamento de câncer colorretal durante agenda em Lyon, na França&nbsp;&nbsp;www.gov.brCâncer de intestino: quem deve fazer o teste imunoquímico fecal? Como funciona o exame?&nbsp;&nbsp;EstadãoCâncer de intestino: SUS adota novo exame de rastreamento&nbsp;&nbsp;www",
+      "summary": "SUS tem novo protocolo para detectar câncer de intestino&nbsp;&nbsp;Portal Drauzio VarellaSUS lançou novo exame que identifica alterações que previnem o câncer de intestino.&nbsp;&nbsp;G1Ministro da Saúde anuncia novo protocolo para rastreamento de câncer colorretal durante agenda em Lyon, na França&nbsp;&nbsp;www.gov.brSUS terá novo exame para rastrear câncer de intestino&nbsp;&nbsp;band.com.brCâncer de intestino: SUS adota novo exame de rastreamento&nbsp;&nbsp;www.proteste.org.br",
       "sources": [
         {
           "name": "Portal Drauzio Varella",
@@ -66,22 +114,10 @@
       ]
     },
     {
-      "id": "3026204a7f7b",
-      "title": "Anvisa anuncia recolhimento de coco ralado por excesso de enxofre - R7",
-      "published": "2026-05-28T18:27:32+00:00",
-      "summary": "Anvisa anuncia recolhimento de coco ralado por excesso de enxofre&nbsp;&nbsp;R7",
-      "sources": [
-        {
-          "name": "R7",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVEs2OWdXcGwxYlV5S2lXa1RNM2FLYVV0Qjl2b3M3blVFQXFNUTJHbWc3R3hyTnZCc19CRkFtcWZMUmxnXzlVMjVqWWI5a3Jid3NYZjZuU0JDdFpIc19lNTA3ZzBPNXZIMGFDM0JjdHdsWThtMmRmQVItWFQzRXQzZmJtWHVneWdkNkxJbW01M2lxVHBIUkRiZUx2cHB3aGxCLWVMUzlqUnU5MXk1dGN3dGdn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "654e20fe8f62",
       "title": "SUS vai ampliar proteção vacinal contra doença pneumocócica - Agência Brasil",
       "published": "2026-05-28T17:25:00+00:00",
-      "summary": "SUS vai ampliar proteção vacinal contra doença pneumocócica&nbsp;&nbsp;Agência BrasilPneumo 20: SUS passa a oferecer nova vacina contra doença pneumocócica a partir de junho&nbsp;&nbsp;O TEMPOMinistério da Saúde amplia vacinação infantil contra pneumococo no SUS&nbsp;&nbsp;Metro 1SUS amplia vacinação contra meningite e pneumonia&nbsp;&nbsp;Hojemais.com.brPNI realiza webinário sobre introdução da VPC20 no SUS; assista&nbsp;&nbsp;SBIm - Sociedade Brasileira de Imunizações",
+      "summary": "SUS vai ampliar proteção vacinal contra doença pneumocócica&nbsp;&nbsp;Agência BrasilVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
           "name": "Agência Brasil",
@@ -105,7 +141,7 @@
       "id": "9034469d8d9f",
       "title": "CFM libera dois novos tratamentos para câncer de próstata; técnicas prometem menos impacto sobre função sexual e urinária - G1",
       "published": "2026-05-28T16:53:12+00:00",
-      "summary": "CFM libera dois novos tratamentos para câncer de próstata; técnicas prometem menos impacto sobre função sexual e urinária&nbsp;&nbsp;G1CFM aprova novo tratamento para o câncer de próstata&nbsp;&nbsp;Conselho Federal de Medicina.CFM autoriza uso de dois novos tratamentos para câncer de próstata&nbsp;&nbsp;MetrópolesCâncer de próstata: CFM autoriza uso de HIFU e crioablação para tratamento&nbsp;&nbsp;Afya | HomeCFM libera novos tratamentos para câncer de próstata no Brasil&nbsp;&nbsp;RedeTV!",
+      "summary": "CFM libera dois novos tratamentos para câncer de próstata; técnicas prometem menos impacto sobre função sexual e urinária&nbsp;&nbsp;G1CFM aprova novo tratamento para o câncer de próstata&nbsp;&nbsp;Conselho Federal de Medicina.CFM libera novos tratamentos para câncer de próstata no Brasil&nbsp;&nbsp;RedeTV!CFM autoriza uso de dois novos tratamentos para câncer de próstata&nbsp;&nbsp;MetrópolesConheça os dois novos tratamentos para câncer na próstata. Tecnologia promete menos impacto na vida sex",
       "sources": [
         {
           "name": "G1",
@@ -114,10 +150,22 @@
       ]
     },
     {
+      "id": "c640159bf56d",
+      "title": "Cerca de 70 pesquisas serão apresentadas em Mostra Científica da Unifesspa - Correio de Carajás",
+      "published": "2026-05-28T15:50:00+00:00",
+      "summary": "Cerca de 70 pesquisas serão apresentadas em Mostra Científica da Unifesspa&nbsp;&nbsp;Correio de Carajás",
+      "sources": [
+        {
+          "name": "Correio de Carajás",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYzVqWkw5a0o0eDFVcXNWd1NqdWhsQzloQ1RNUmtfQ2h0QmgwTndpV19ORGdVdjhCM1F3QjA2Q2h2MEc3TEhURXF6a2ozV1NoNU1NWHRXM1BGUk5pUkRfNVRjN0F3aTZtaHdsekNWR0JIbkp2OEQ2Y2MwUms5OUZoYnkwcWY1TW9ER1gwVlgyd3piT3NzaFlGcE9yMGxCWEVWc2ViSkpvRUc2XzA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "210192794554",
       "title": "Cientistas descobrem vírus gigante com replicação inédita. Entenda - Metrópoles",
       "published": "2026-05-28T15:37:26+00:00",
-      "summary": "Cientistas descobrem vírus gigante com replicação inédita. Entenda&nbsp;&nbsp;Metrópoles",
+      "summary": "Cientistas descobrem vírus gigante com replicação inédita. Entenda&nbsp;&nbsp;MetrópolesVírus gigante descoberto no Japão desafia as teorias da evolução&nbsp;&nbsp;Olhar DigitalDepois do Covid-19 sair da China, vírus gigante é descoberto no Japão&nbsp;&nbsp;TNH1Furtivovirus: o vírus gigante ‘escondido’ que se replica de forma inédita e está a intrigar os cientistas&nbsp;&nbsp;Executive Digest",
       "sources": [
         {
           "name": "Metrópoles",
@@ -165,7 +213,7 @@
       "id": "717d8ddae9e2",
       "title": "Novo remédio cura 20% de pacientes com hepatite B crônica, diz estudo - UOL",
       "published": "2026-05-28T14:06:02+00:00",
-      "summary": "Novo remédio cura 20% de pacientes com hepatite B crônica, diz estudo&nbsp;&nbsp;UOLCura da hepatite B? Com novo antiviral, ciência dá grande passo rumo à eliminação do vírus&nbsp;&nbsp;Veja SaúdeNova injeção elimina completamente hepatite B em 20% dos pacientes&nbsp;&nbsp;O GLOBOBrii Bio apresenta dados de cura funcional da hepatite B em estudo&nbsp;&nbsp;Investing.com Brasil - Finanças, Câmbio e InvestimentosMedicamento experimental contra hepatite B pode oferecer 'cura funcional' para alguns ",
+      "summary": "Novo remédio cura 20% de pacientes com hepatite B crônica, diz estudo&nbsp;&nbsp;UOLCura da hepatite B? Com novo antiviral, ciência dá grande passo rumo à eliminação do vírus&nbsp;&nbsp;Veja SaúdeNova injeção elimina completamente hepatite B em 20% dos pacientes&nbsp;&nbsp;O GLOBOBepirovirsen da GSK atinge 19% de cura funcional em ensaio de hepatite B&nbsp;&nbsp;Investing.com Brasil - Finanças, Câmbio e InvestimentosMedicamento experimental contra hepatite B pode oferecer 'cura funcional' para a",
       "sources": [
         {
           "name": "UOL",
@@ -177,7 +225,7 @@
       "id": "3260cdfc7ae7",
       "title": "Vacinação contra gripe na Central do Cidadão em Campo Grande - Campo Grande News",
       "published": "2026-05-28T13:55:00+00:00",
-      "summary": "Vacinação contra gripe na Central do Cidadão em Campo Grande&nbsp;&nbsp;Campo Grande NewsCAC terá ponto de vacinação contra a gripe nesta quinta-feira – CGNotícias&nbsp;&nbsp;campogrande.ms.gov.brAção em canteiro de obras vacina 43 trabalhadores contra gripe na Capital&nbsp;&nbsp;MidiamaxDrive-thru de vacinação da SES supera 10 mil doses aplicadas em Campo Grande&nbsp;&nbsp;agenciadenoticias.ms.gov.brO agressor morava junto da vítima👇&nbsp;&nbsp;facebook.com",
+      "summary": "Vacinação contra gripe na Central do Cidadão em Campo Grande&nbsp;&nbsp;Campo Grande NewsCAC terá ponto de vacinação contra a gripe nesta quinta-feira – CGNotícias&nbsp;&nbsp;campogrande.ms.gov.brAção em canteiro de obras vacina 43 trabalhadores contra gripe na Capital&nbsp;&nbsp;MidiamaxDrive-thru de vacinação da SES supera 10 mil doses aplicadas em Campo Grande&nbsp;&nbsp;agenciadenoticias.ms.gov.brMobilização da Saúde Municipal com Drive-Thru vacina centenas de pessoas no Sábado em Naviraí&nb",
       "sources": [
         {
           "name": "Campo Grande News",
@@ -189,7 +237,7 @@
       "id": "c146dfd6e8c3",
       "title": "Espírito Santo amplia vacinação contra a influenza para toda a população acima de 6 meses - Secretaria de Estado da Saúde do Espírito Santo",
       "published": "2026-05-28T13:36:21+00:00",
-      "summary": "Espírito Santo amplia vacinação contra a influenza para toda a população acima de 6 meses&nbsp;&nbsp;Secretaria de Estado da Saúde do Espírito SantoVitória amplia vacinação contra a gripe&nbsp;&nbsp;G1Vacina contra gripe: veja como se vacinar na Grande Vitória&nbsp;&nbsp;Folha VitóriaGoverno amplia vacinação contra a influenza para toda a população&nbsp;&nbsp;Século DiárioGoiânia abre vacinação contra influenza para toda população a partir desta quinta-feira (28/5)&nbsp;&nbsp;Portal iG",
+      "summary": "Espírito Santo amplia vacinação contra a influenza para toda a população acima de 6 meses&nbsp;&nbsp;Secretaria de Estado da Saúde do Espírito SantoVacinação contra gripe é ampliada&nbsp;&nbsp;G1Estado de SP ampliará vacinação contra a gripe para toda a população a partir de segunda-feira&nbsp;&nbsp;G1Vacina contra gripe: veja como se vacinar na Grande Vitória&nbsp;&nbsp;Folha VitóriaJundiaí amplia vacinação contra a gripe para toda a população a partir de 6 meses&nbsp;&nbsp;Prefeitura de Jundia",
       "sources": [
         {
           "name": "Secretaria de Estado da Saúde do Espírito Santo",
@@ -206,6 +254,18 @@
         {
           "name": "InfoMoney",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ1diTG1GT0RnQkxFd2dwZXlJemFfdWxrQmIyN21lUmFHaURXdnFHbGdNTklyTW15ekpFWnFQbU00RHB6aGxLQUJGWFJYLVlpOUNqZXZJcUlyZl9JVEV2UmtrN1RQQXVSRUF5dFF6bjF6cWxpYXROcGJxSXd1NzY0WHpRQmNFR1hrSWxzUlFqQ3RocW1iMGFoLTh0Mzluc05jNnJBUXJzaWllUTNPZTJfVW1fZVPSAboBQVVfeXFMTW1CdkxzaTNPYTdUbUViNFkzUGhwd1pkTTd6azR3cThhS3NTWnhDM3hHVm9yU2VBQUF5NHJydTFVdXBWaWItQXdQZjlYUU94V1ZjZ2ZaanJfQ0wtTXRZMGdEbWNCX2hFOVZmTHJudGZWQkd2cWNsMnFsVHJfZEhCaDR6RmFBbWhHYUNydWJBcXdsU0dlN3R4OTY4X04wdkxCcnRZWnUyYTNIeGxwc3ZXZmxYN0VZQ0FlazRB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1d6618ff4904",
+      "title": "Jejum intermitente é melhor que dieta para emagrecer? Estudo indica que não - Folha de S.Paulo",
+      "published": "2026-05-28T13:00:00+00:00",
+      "summary": "Jejum intermitente é melhor que dieta para emagrecer? Estudo indica que não&nbsp;&nbsp;Folha de S.PauloQuando o corpo faz manutenção: o papel da autofagia no jejum intermitente e o Nobel de 2016&nbsp;&nbsp;TerraO que o jejum intermitente faz na perda de peso e na resistência à insulina&nbsp;&nbsp;Correio BrazilienseJejum intermitente realmente funciona? Novo estudo diz que não&nbsp;&nbsp;MSNDieta e autofagia: o que liga e afasta estes dois conceitos&nbsp;&nbsp;National Geographic Portugal",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaFdrc0hFTDZWNW1UUkNxajJHTVUzaGVqZmJyWDJaOUZoYVowazhZRVQ2b3BfRm1lWEtiQnp5V2R5endDVTJBeVVoRWx0OTQ1TTZCYUFVRmktVXZNUWtXaVYtc01STy1Gcl9YVkRzQVJ0aGdNN3pDaWR0SkF0UXRVVlhLR3I1dkxlMm5pQ1ZlTnNnUmFxVTVyZ0otZkIzbEFLWnZNX3Fnazlrak9LQVFBNXVWRDNiM0FobVQzXzVGWHdBWTBnb01xaA?oc=5"
         }
       ]
     },
@@ -285,7 +345,7 @@
       "id": "369530eb328b",
       "title": "Municípios adotam canetas emagrecedoras antes da incorporação nacional pelo SUS - Folha de S.Paulo",
       "published": "2026-05-28T07:00:00+00:00",
-      "summary": "Municípios adotam canetas emagrecedoras antes da incorporação nacional pelo SUS&nbsp;&nbsp;Folha de S.PauloOs riscos das canetas emagrecedoras sem orientação médica&nbsp;&nbsp;G1Busca por saúde e corpo ideal aumenta procura por academias e canetas emagrecedoras&nbsp;&nbsp;R7Criadas para controlar o diabetes, canetas emagrecedoras se transformaram em febre mundial para perda de peso&nbsp;&nbsp;TerraCanetas emagrecedoras mudam hábitos e desafiam bares e restaurantes em Goiás: “É uma nova relação q",
+      "summary": "Municípios adotam canetas emagrecedoras antes da incorporação nacional pelo SUS&nbsp;&nbsp;Folha de S.PauloEfeito de canetas emagrecedoras cria nova demanda estética&nbsp;&nbsp;TerraOs riscos das canetas emagrecedoras sem orientação médica&nbsp;&nbsp;G1Busca por saúde e corpo ideal aumenta procura por academias e canetas emagrecedoras&nbsp;&nbsp;R7Canetas emagrecedoras mudam hábitos e desafiam bares e restaurantes em Goiás: “É uma nova relação que está sendo estabelecida”, diz presidente da Abra",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -306,22 +366,10 @@
       ]
     },
     {
-      "id": "b7c0c69af85c",
-      "title": "HPV leva a 7,5 mil mortes anuais por câncer no Brasil - Agência Brasil",
-      "published": "2026-05-27T20:02:00+00:00",
-      "summary": "HPV leva a 7,5 mil mortes anuais por câncer no Brasil&nbsp;&nbsp;Agência BrasilVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "Agência Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONzF1Q1BpZDB5c2Fwa1daWV8zVmdSb29VcWR3a3VVT1VPTkh3a1h1czFFQmtWMW1QTlcwTUltcldsaW1XQXRUYTI0R01FTExWX3YyWC1nclgtLWI5MUJieXpybFVyNFM4WFFyVFdtV0ljNmhVbGk4SjlJMmcxY014bWRwQkJyMzVVb09yS3RFclZqdU4xaEdsUkFkWF9POVRGdFpYMmxkYUpkMUU?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a0367faf0461",
       "title": "SP reforça vacinação contra febre amarela no ABC após vírus ser detectado em macaco - G1",
       "published": "2026-05-27T19:34:30+00:00",
-      "summary": "SP reforça vacinação contra febre amarela no ABC após vírus ser detectado em macaco&nbsp;&nbsp;G1Mauá promove Dia D contra gripe e febre amarela após aumento de casos graves e alerta regional&nbsp;&nbsp;Prefeitura de MauáGoverno de SP reforça vacina contra febre amarela na região do ABC&nbsp;&nbsp;Agência BrasilSP amplia vacinação contra febre amarela após confirmação do vírus em Santo André&nbsp;&nbsp;Folha de S.PauloEstado reforça vacinação após caso de febre amarela em Santo André | Diário do",
+      "summary": "SP reforça vacinação contra febre amarela no ABC após vírus ser detectado em macaco&nbsp;&nbsp;G1Vacinação de febre amarela é reforçada no ABC após caso em macaco em Santo André (SP)&nbsp;&nbsp;UOL NotíciasGoverno de SP reforça vacina contra febre amarela na região do ABC&nbsp;&nbsp;CartaCapitalMauá promove Dia D contra gripe e febre amarela após aumento de casos graves e alerta regional&nbsp;&nbsp;Prefeitura de MauáVacina contra febre amarela agora protege por toda a vida, mas há uma exceção im",
       "sources": [
         {
           "name": "G1",
@@ -333,7 +381,7 @@
       "id": "d1422dd76ded",
       "title": "Médica aponta as frutas que mais ajudam a microbiota intestinal - Metrópoles",
       "published": "2026-05-27T18:37:00+00:00",
-      "summary": "Médica aponta as frutas que mais ajudam a microbiota intestinal&nbsp;&nbsp;MetrópolesA queda de imunidade frequente não se deve apenas à falta de vitamina C, mas sim ao desequilíbrio do microbioma intestinal que regula as defesas&nbsp;&nbsp;Tua Saúde5 superalimentos comprovados cientificamente para fortalecer a saúde intestinal&nbsp;&nbsp;GloboO que a dieta anti-inflamatória faz no sistema imunológico e na saúde intestinal&nbsp;&nbsp;Correio BrazilienseSaúde digestiva: cuidar do intestino é cuid",
+      "summary": "Médica aponta as frutas que mais ajudam a microbiota intestinal&nbsp;&nbsp;MetrópolesSaúde digestiva: 11 hábitos que ajudam a melhorar o funcionamento do intestino&nbsp;&nbsp;GZHDifícil resistir a um ultraprocessado? O que você deve saber sobre eles, na segunda semana da série Vida Boa do GLOBO&nbsp;&nbsp;O GLOBOComo ter intestino e estômago saudáveis? Gastro lista sete cuidados essenciais para manter a saúde digestiva em dia&nbsp;&nbsp;Jornal CorreioDia Mundial da Saúde Digestiva alerta para au",
       "sources": [
         {
           "name": "Metrópoles",
@@ -357,7 +405,7 @@
       "id": "327a3cb2aef3",
       "title": "Saúde vascular no inverno: 4 dicas para melhorar a circulação e evitar complicações - GZH",
       "published": "2026-05-27T15:33:28+00:00",
-      "summary": "Saúde vascular no inverno: 4 dicas para melhorar a circulação e evitar complicações&nbsp;&nbsp;GZHFrio deixa doente? Saiba o que é verdade sobre os efeitos do frio no corpo&nbsp;&nbsp;G1AVC e temperaturas baixas: Conheça os riscos e como se proteger&nbsp;&nbsp;TerraNova onda de frio acende alerta para os riscos na saúde dos idosos&nbsp;&nbsp;Diário de PetrópolisBaixas temperaturas aumentam em até 30%&nbsp;&nbsp;FOLHAMAX",
+      "summary": "Saúde vascular no inverno: 4 dicas para melhorar a circulação e evitar complicações&nbsp;&nbsp;GZHAVC e temperaturas baixas: Conheça os riscos e como se proteger&nbsp;&nbsp;TerraFrio deixa doente? Saiba o que é verdade sobre os efeitos do frio no corpo&nbsp;&nbsp;G1Nova onda de frio acende alerta para os riscos na saúde dos idosos&nbsp;&nbsp;Diário de PetrópolisBaixas temperaturas aumentam em até 30%&nbsp;&nbsp;FOLHAMAX",
       "sources": [
         {
           "name": "GZH",
@@ -366,50 +414,14 @@
       ]
     },
     {
-      "id": "04c082692e23",
-      "title": "Nova espécie de polvo é descoberta no fundo do mar em Galápagos - Folha de S.Paulo",
-      "published": "2026-05-27T14:30:00+00:00",
-      "summary": "Nova espécie de polvo é descoberta no fundo do mar em Galápagos&nbsp;&nbsp;Folha de S.Paulo",
+      "id": "542feea2014d",
+      "title": "O principal problema de ficar isolado com o mesmo grupo de pessoas, segundo estudo - Globo",
+      "published": "2026-05-26T19:59:23+00:00",
+      "summary": "O principal problema de ficar isolado com o mesmo grupo de pessoas, segundo estudo&nbsp;&nbsp;Globo",
       "sources": [
         {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU0VhUWNtUVN0YWlqZkpXQVk0b3VCV2tkUHhZakVOelc2ZW1zNXNKRUotVGowdW9tWXJMcFFzSFVqNUZzZHFMemlnemhpRVo4cUlsVlpMRGp6UTVRMWNDU25fUWhhTEJzNElNSGg5c3V6dWpMdS1fMEFLRVlkWThRT0o3djBTb25lb0xaaEp1djFqY2hIb3BvdzZYSjRkN0VRcm1icUdtOXZHU1U1TXNfOVVSVTFBdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "369179e4813e",
-      "title": "Veneno de aranha chilena encontrado por cientistas age com precisão microscópica nas células humanas, provoca necrose e pode acelerar criação de novos tratamentos contra picadas graves - CPG Click Petróleo e Gás",
-      "published": "2026-05-27T14:07:00+00:00",
-      "summary": "Veneno de aranha chilena encontrado por cientistas age com precisão microscópica nas células humanas, provoca necrose e pode acelerar criação de novos tratamentos contra picadas graves&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPSFJZMWs2Q0JwcHBPU0dBVGlfLWNxOXJ4NVZTRTcydE1XdENsTzlaZmZZdXVlbUhqenVoY3VRYzBtaXFYX1BaZldEc3NzV2M1R2M5Z3ZHTDliX0JYNzBUZGFKMlBHZ3o4dXA4VjM1cnRaSXE3ZDhpbms5eERXcFNOMkxLdVdNeURIa2REV2FWbmZ2dUlyTzQ2TnFsakR2RTYyS2VxSWkyQ3pJbzVPWVpJQzgyOG5OOWpiMHhYcWlJMnNvSG14WTZyZHFnc2VvdUN2eEdMMDdPOUU0eWRKSDBBNWJyVUtxd0drTGJTVG1zZE9yMUJBbzNkenNKRUt1MGhqbF9HUl84NTNZVVZOWkcyWUo0NE4wMzBhd3BMRXJ0M3NNNDBZYXhEZkEtSHNWRlhBUGdVcTNJZ2YwS3FmRlpSRXlPdmYyVEE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b416169d1058",
-      "title": "A fruta brasileira que quase ninguém conhece, tem sabor marcante e está voltando aos quintais das casas - Jornal Correio",
-      "published": "2026-05-27T13:54:18+00:00",
-      "summary": "A fruta brasileira que quase ninguém conhece, tem sabor marcante e está voltando aos quintais das casas&nbsp;&nbsp;Jornal CorreioUma fruta antiga de quintal da vovó está de volta nos jardins e pomares e atualmente é usada em pesquisas&nbsp;&nbsp;TudoGostosoFruta nativa da Mata Atlântica: cientistas estudam efeitos da guabiroba na saúde&nbsp;&nbsp;O DiaFruta típica do Cerrado e da Mata Atlântica reaparece como tendência em quintais e jardins&nbsp;&nbsp;TerraGuabiroba: fruta tradicional retorna ao",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdjZiczdmcGFRWlUtRm1YaFVIa0ltUC14cEtIY1BrLWxOUW8wVVROak9qWmVGZmpDc29iSUJJdV9sbFc4Z2hQdV85RzdZMlJkRjd4YXp3YnJSaXBXb3Q0Yy1KdnZZRzRRWER5M2FCNVJwV2o4OXFvUE5JbTEza21BRVN0eWFLMjNUUW9MWU9WSU5va0xpSEtaSm5QSVRtU0hPd3kwc0pNSnJHX29Ka1V1V2VWWGNfVnhrQmhqYXF4c01scjhpaXkxalhZc1ZLV1VEY0J6VjhVazN5Tm9tWXBJRThkVQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c3d66f1d757b",
-      "title": "Primeiro ataque de harpia a humano já documentado no mundo ocorre na Amazônia e acende alerta sobre perseguição à espécie; entenda - O GLOBO",
-      "published": "2026-05-27T10:48:41+00:00",
-      "summary": "Primeiro ataque de harpia a humano já documentado no mundo ocorre na Amazônia e acende alerta sobre perseguição à espécie; entenda&nbsp;&nbsp;O GLOBO",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPWHM4MnMySHQ0c2hCSElvbE5USG1ZalJGSXRKUUkyMDNDSGUyZ1A5YXdEa0s0NUFXd09qRmtYTTdodWhzMHhBNkNHdmxwRmk0VkdtOWdBNG4zMkROall3a1BPMkxXcTJ4Z0hnTDVua0JEM2ROUmItMGgwZWFzdDQtQVNBV2xieGNTekZYd3EzSngtdHBDR2RHR2wxdGJwYTdBdFBNNUxzTFJxb2RZV2hIUXVRaEZGV0NlQmltaXJ4cEFSTVpIWWxqOFFLei1IYkRVcURLeWFnZ2YyYzVYbHk2UVlBbTUwRkhqT2V3RWFjMHlEekFHc1F5YVVQUUNONW54T0t3X1I0OFRGbFpZTkNDdTZOQWJfY2o20gGnAkFVX3lxTE91aHJhTUxkZFBVVEJ6YTRSdC13cVlDWm50MkJic1RwLUhacXZuUDdYU2xyckJWbXcwMnhfeE1xQTBzY0Z6ck1kTXdOcGhHSDBFVzJBQ2d5aUNFdTVpTmJIcTE0eEhWWHA5TlUtMWpXVVc2a2JQWjFEUG9nMUVjRVZEZEJISG9aSFNNVVEtMXZSM293Z0pkLUtqbk1DU0Q4NzByS0xueWxoZWp0b2F2T1NrWGtRdkpBWGJvYkJhTjUwSE1PdXlGUzhQUU5CQ18wZk5wcHRLSUVONGpYQ1BkaWRnVUVWay1JRlVyR0N2aW8wNE5WSEZyNkZzS0hUM0RueFRqVDFnZmlDaUhZNFVsWVloQVQwNEVXUDFORTZkRkV3UlVGX1pkYlE?oc=5"
+          "name": "Globo",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPck9aZ2NsV21ZemNUNjFCcE1qLU13b0RobElJMHpqakFxX2lXamZzSXNISHpReGJoM0Q3RE9TWEhpS05hT1V1bUpqdnlwby13SDZKbFZRODZwYnBVSkFJSDVCRHVDN3lwUnkxRUlvVXhfSnhRTk4zYWp6T2JsYmQ5UnRlM2E1WFduMHZwSGQzcDVDanpudEhiQlBzM19wUVV0U0IwVGV6NjBKNTdEVkRxa2VubVhXREdNd2RKcmZxMmdDTEYtUDRxR19BbElwdk1sYjMzc2JlTWlLd9IB6AFBVV95cUxNOTFoaDNLdFlQVWM0UTV3Nmg0RDA4VzJqVHpmamR1TEUtQTFfMVdEMlhKWktQY2tfYU9Wb0hzTEtycUNsVndPYTMybEFqUnFQdmtqS3hvLURac085UnRnUlFVY0VtbURiZkFEV1JkSlpLam1tTnk2bVUyQlVlTjFSQk5mX1VQVkZCSk9VWjNKZExSYVAzekxsdEVGUkF2SnRMT2tXTUtMWWJIQWRreFZSU1hrSHNneW9IX2JaM2Y2Sjk0ajNLS0FaRlZySUdFdThDMVVIWWhZSXRwOWxRcHdISUJmUG9YU0RL?oc=5"
         }
       ]
     }
