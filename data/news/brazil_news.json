@@ -1,10 +1,22 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-05-29T03:52:33.666978+00:00",
-  "total_fetched": 99,
-  "unique_count": 98,
-  "health_related_count": 41,
+  "fetched_at": "2026-05-29T09:57:21.866289+00:00",
+  "total_fetched": 92,
+  "unique_count": 92,
+  "health_related_count": 34,
   "news": [
+    {
+      "id": "e4ddabb88c07",
+      "title": "Grande vazamento de água coloca pessoas e equipamentos em risco em prédios da UERJ - Diário do Rio",
+      "published": "2026-05-28T21:29:55+00:00",
+      "summary": "Grande vazamento de água coloca pessoas e equipamentos em risco em prédios da UERJ&nbsp;&nbsp;Diário do Rio",
+      "sources": [
+        {
+          "name": "Diário do Rio",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONWVvWlpjd1FrakZHSDNYRjFtTlFNRE9ab0c5RUNma3ZpN1kyQXB4NnFPZ2dtX2RQekdWd3ZuTlliR2JjOTl1UTFNWmJtMUFwUERjMWhCd3lHUWs3MU1IeV9xVWsxSFh2cmNyU1o2dEpiZGVEX0N2TktRd3FXNHFad3Myb2o3aDYyZTFXSXlmRjJKNjhxYkFGWWR1RHE4MGYwLVVtSDVnWWZvaEU?oc=5"
+        }
+      ]
+    },
     {
       "id": "d0f336fc3711",
       "title": "Pesquisa de estudantes baianos sobre arborização urbana ganha destaque em congresso nacional de mudanças climáticas, em Santa Catarina - ba.gov.br",
@@ -33,11 +45,23 @@
       "id": "063da7747c67",
       "title": "SUS tem novo protocolo para detectar câncer de intestino - Portal Drauzio Varella",
       "published": "2026-05-28T19:03:54+00:00",
-      "summary": "SUS tem novo protocolo para detectar câncer de intestino&nbsp;&nbsp;Portal Drauzio VarellaSUS lançou novo exame que identifica alterações que previnem o câncer de intestino.&nbsp;&nbsp;G1Ministro da Saúde anuncia novo protocolo para rastreamento de câncer colorretal durante agenda em Lyon, na França&nbsp;&nbsp;GOV.BRCâncer de intestino: quem deve fazer o teste imunoquímico fecal? Como funciona o exame?&nbsp;&nbsp;EstadãoCâncer de intestino: SUS adota novo exame de rastreamento&nbsp;&nbsp;www.pro",
+      "summary": "SUS tem novo protocolo para detectar câncer de intestino&nbsp;&nbsp;Portal Drauzio VarellaSUS lançou novo exame que identifica alterações que previnem o câncer de intestino.&nbsp;&nbsp;G1Ministro da Saúde anuncia novo protocolo para rastreamento de câncer colorretal durante agenda em Lyon, na França&nbsp;&nbsp;www.gov.brCâncer de intestino: quem deve fazer o teste imunoquímico fecal? Como funciona o exame?&nbsp;&nbsp;EstadãoCâncer de intestino: SUS adota novo exame de rastreamento&nbsp;&nbsp;www",
       "sources": [
         {
           "name": "Portal Drauzio Varella",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ2N2VUp2SVVUSm9oNFVGN0JacVBVWFpzTlgwUzkwcldlR2V1cUs4b0lIbl9PclRra0k0YkdGd0VsYWcxTm9KNFpBSGRWUDhUM0ZMNFdRSWJwbWNzOXJrV3d1dzJqR0hHWUFUMGpCMEtkXzBiVWZRb01IeTZMOWlhN2h5SnJoTmZaeTVDMElVay1WMzNqNVVDb1NLYnh4VXYwbm1CLUtYejVUNVpyUlRJcVFoVkl6ZndG?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8b53c5e48475",
+      "title": "Zuckerberg e esposa apostam em IA para criar proteínas e novos tratamentos - CNN Brasil",
+      "published": "2026-05-28T18:53:21+00:00",
+      "summary": "Zuckerberg e esposa apostam em IA para criar proteínas e novos tratamentos&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLTVOVTQ3X1RQaWIzWEZ0NFFLbTY5Q2ZWQXR0NkstZHd1X19YNzFxZTI5UllhcnNtU1FsU3ozTDVNNjFmdjNmZVVqdFIySkJpMkhVMVpZWjBYZldTTzF6Z2dLZEhsNnM0MVdNTk44Q3hqam9FVU1rMXR2SUd2R2tTUTI0NUdvMXkyUVFtTGl6MEZhQVY5a3ZSU3hTR0htV0RqblJSS0FGYW5uVEZtYnNj?oc=5"
         }
       ]
     },
@@ -57,7 +81,7 @@
       "id": "654e20fe8f62",
       "title": "SUS vai ampliar proteção vacinal contra doença pneumocócica - Agência Brasil",
       "published": "2026-05-28T17:25:00+00:00",
-      "summary": "SUS vai ampliar proteção vacinal contra doença pneumocócica&nbsp;&nbsp;Agência BrasilMinistério da Saúde amplia vacinação infantil contra pneumococo no SUS&nbsp;&nbsp;Metro 1SUS amplia vacinação contra meningite e pneumonia&nbsp;&nbsp;Hojemais.com.brPNI realiza webinário sobre introdução da VPC20 no SUS; assista&nbsp;&nbsp;SBIm - Sociedade Brasileira de ImunizaçõesVacina pneumo 20 passa a ser oferecida no SUS e Paraíba começa aplicação na próxima semana&nbsp;&nbsp;ClickPB",
+      "summary": "SUS vai ampliar proteção vacinal contra doença pneumocócica&nbsp;&nbsp;Agência BrasilPneumo 20: SUS passa a oferecer nova vacina contra doença pneumocócica a partir de junho&nbsp;&nbsp;O TEMPOMinistério da Saúde amplia vacinação infantil contra pneumococo no SUS&nbsp;&nbsp;Metro 1SUS amplia vacinação contra meningite e pneumonia&nbsp;&nbsp;Hojemais.com.brPNI realiza webinário sobre introdução da VPC20 no SUS; assista&nbsp;&nbsp;SBIm - Sociedade Brasileira de Imunizações",
       "sources": [
         {
           "name": "Agência Brasil",
@@ -165,7 +189,7 @@
       "id": "c146dfd6e8c3",
       "title": "Espírito Santo amplia vacinação contra a influenza para toda a população acima de 6 meses - Secretaria de Estado da Saúde do Espírito Santo",
       "published": "2026-05-28T13:36:21+00:00",
-      "summary": "Espírito Santo amplia vacinação contra a influenza para toda a população acima de 6 meses&nbsp;&nbsp;Secretaria de Estado da Saúde do Espírito SantoVitória amplia vacinação contra a gripe&nbsp;&nbsp;G1Liberada! Toda população do estado poderá tomar vacina contra gripe a partir do próximo dia 1º&nbsp;&nbsp;goias.govGoverno amplia vacinação contra a influenza para toda a população&nbsp;&nbsp;Século DiárioSaúde de Araçatuba amplia vacinação contra a gripe para toda população a partir de segunda-fei",
+      "summary": "Espírito Santo amplia vacinação contra a influenza para toda a população acima de 6 meses&nbsp;&nbsp;Secretaria de Estado da Saúde do Espírito SantoVitória amplia vacinação contra a gripe&nbsp;&nbsp;G1Vacina contra gripe: veja como se vacinar na Grande Vitória&nbsp;&nbsp;Folha VitóriaGoverno amplia vacinação contra a influenza para toda a população&nbsp;&nbsp;Século DiárioGoiânia abre vacinação contra influenza para toda população a partir desta quinta-feira (28/5)&nbsp;&nbsp;Portal iG",
       "sources": [
         {
           "name": "Secretaria de Estado da Saúde do Espírito Santo",
@@ -222,18 +246,6 @@
       ]
     },
     {
-      "id": "f6576038f8aa",
-      "title": "Papa Leão 14 denuncia o colonialismo digital e propõe 'jejum de IA' em sua primeira encíclica - Folha de S.Paulo",
-      "published": "2026-05-28T10:00:00+00:00",
-      "summary": "Papa Leão 14 denuncia o colonialismo digital e propõe 'jejum de IA' em sua primeira encíclica&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUS1ma1BNSUJQczV1V25WaTEyREhBVy1kVFBhWU5GV24zSGt0aC1jd0d0bDhyaGgyMEN2YnhfbGtqdGc0SXFVOC1ZRHN2Y25wODdlMTJGbkE4a0ZhR051bW5sMXFOSnhLWXNRcVFXVDlBWTVfckNKanVRZnFHdXY4T0dxREhvXzI0Tmc0VUVIVDJiS3k0SUhxZ2Q2cjBESWlqWHJoSUZUVG9SZzltNVk1ZmRWajk0T2VUVmg5eWtmMGxMQ05QR05TeGJFXzVnZVB4TUtxcU96Mm5zeHlkWEE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d9016b9817b6",
       "title": "Cientistas descobriram novas informações sobre a relação entre o sono profundo e a memória de longo prazo - Tua Saúde",
       "published": "2026-05-28T09:28:41+00:00",
@@ -261,7 +273,7 @@
       "id": "7b84de51ea33",
       "title": "Café impede sono profundo mesmo se você dormir oito horas, aponta estudo - Extra online",
       "published": "2026-05-28T07:01:43+00:00",
-      "summary": "Café impede sono profundo mesmo se você dormir oito horas, aponta estudo&nbsp;&nbsp;Extra onlineMuito café, pouco sono: pesquisa indica como essa combinação afeta o organismo&nbsp;&nbsp;Bem ParanáMuito café e pouco sono? Combinação predispõe à enxaqueca, sugere estudo com ratos&nbsp;&nbsp;amazônia brasil rádio web",
+      "summary": "Café impede sono profundo mesmo se você dormir oito horas, aponta estudo&nbsp;&nbsp;Extra onlineMuito café, pouco sono: pesquisa indica como essa combinação afeta o organismo&nbsp;&nbsp;Bem ParanáCafé pode prejudicar sono profundo mesmo após oito horas de descanso, indica pesquisa&nbsp;&nbsp;Tribuna do Sertão",
       "sources": [
         {
           "name": "Extra online",
@@ -273,7 +285,7 @@
       "id": "369530eb328b",
       "title": "Municípios adotam canetas emagrecedoras antes da incorporação nacional pelo SUS - Folha de S.Paulo",
       "published": "2026-05-28T07:00:00+00:00",
-      "summary": "Municípios adotam canetas emagrecedoras antes da incorporação nacional pelo SUS&nbsp;&nbsp;Folha de S.PauloOs riscos das canetas emagrecedoras sem orientação médica&nbsp;&nbsp;G1Busca por saúde e corpo ideal aumenta procura por academias e canetas emagrecedoras&nbsp;&nbsp;R7O mercado das canetinhas&nbsp;&nbsp;O POVO+Criadas para controlar o diabetes, canetas emagrecedoras se transformaram em febre mundial para perda de peso&nbsp;&nbsp;Terra",
+      "summary": "Municípios adotam canetas emagrecedoras antes da incorporação nacional pelo SUS&nbsp;&nbsp;Folha de S.PauloOs riscos das canetas emagrecedoras sem orientação médica&nbsp;&nbsp;G1Busca por saúde e corpo ideal aumenta procura por academias e canetas emagrecedoras&nbsp;&nbsp;R7Criadas para controlar o diabetes, canetas emagrecedoras se transformaram em febre mundial para perda de peso&nbsp;&nbsp;TerraCanetas emagrecedoras mudam hábitos e desafiam bares e restaurantes em Goiás: “É uma nova relação q",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -342,30 +354,6 @@
       ]
     },
     {
-      "id": "2eb1fddef69f",
-      "title": "Por que ainda não existe vacina ou tratamento contra nova cepa do ebola - UOL",
-      "published": "2026-05-27T17:21:13+00:00",
-      "summary": "Por que ainda não existe vacina ou tratamento contra nova cepa do ebola&nbsp;&nbsp;UOLEbola: Agência de Saúde da União Africana promete vacina para espécie Bundibugyo até o fim de 2026&nbsp;&nbsp;O GLOBOOMS identifica tratamentos e vacinas contra o Ebola para teste em ensaios clínicos em meio a surto&nbsp;&nbsp;UOL NotíciasUnião Africana promete vacina contra cepa Bundibugyo do ebola até fim de 2026&nbsp;&nbsp;CartaCapitalEquipe de Oxford prepara testes de vacina contra ebola durante surto&nbsp;",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU21aOXZ1Z2lLYmMtN3UxS2QxUzRvNi0yUFRWRk8wSzFsZU1Jbm5JSG4zUkREVl9EQ05ubTBkbWZ2anB5WGFuUzE4R2RYLTI3Z3hwZ3poYkQycExKdkJMNFpiRjV2LVJkUUE4Q1p6c3ktOGc3dUxMbUl5bWZBRnR4ZEREenRJUFFPNl96SklxZjd4d0JjUkswdHNkcVNSVVRxZHFzWmVOaGJmOW9Tajd1R3UtMldiZi1MdDU1dUZB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "48f31580fbc3",
-      "title": "Morte de professora por suspeita de dengue está em investigação no Piauí - CidadeVerde.com",
-      "published": "2026-05-27T17:00:00+00:00",
-      "summary": "Morte de professora por suspeita de dengue está em investigação no Piauí&nbsp;&nbsp;CidadeVerde.comDengue no Piauí: casos graves da doença no estado chamam a atenção da saúde pública&nbsp;&nbsp;G1Mulher de 49 anos morre por dengue DENV-2 em Teresina; Piauí soma cinco mortes em 2026&nbsp;&nbsp;Somos NotíciaMulher morre após agravamento da dengue em Teresina; casos preocupam autoridades&nbsp;&nbsp;Portal V1Dengue avança no Piauí e cuidados dentro de casa entram em alerta&nbsp;&nbsp;Assembleia Legi",
-      "sources": [
-        {
-          "name": "CidadeVerde.com",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONGNVOUZUOU05cGpVX2pQNm9GYVVwYnM4VjFOQ3dja29ocjNmclFlV2lGME5EanZWUXdhSXRRazVFam9vdm4xUUk3TmxQYXRzSzJHTnBJQldOMWVWdE5VMld0ckUtUFd2Z2o0QlUzYkVfQ0VFMFoxQWw5NjN3bzd4NjlBSktadmRwYk4tOUZNZXBvWkRRWGdUcjl5WElnOGlDeE1rMlVwU2UzS3JpVEFKczF3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "327a3cb2aef3",
       "title": "Saúde vascular no inverno: 4 dicas para melhorar a circulação e evitar complicações - GZH",
       "published": "2026-05-27T15:33:28+00:00",
@@ -378,18 +366,6 @@
       ]
     },
     {
-      "id": "4f4ead8c4995",
-      "title": "Vírus sabiá letal circula há 142 anos no Brasil e está se modificando, aponta estudo - O GLOBO",
-      "published": "2026-05-27T14:42:33+00:00",
-      "summary": "Vírus sabiá letal circula há 142 anos no Brasil e está se modificando, aponta estudo&nbsp;&nbsp;O GLOBOVírus Sabiá circula há 142 anos no Brasil e sofre mutações&nbsp;&nbsp;Correio BrazilienseVírus Sabiá está no Brasil há 142 anos e vem se alterando, diz estudo&nbsp;&nbsp;MetrópolesVírus raro e letal encontrado no interior de SP circula no país há 142 anos&nbsp;&nbsp;UOLVírus Sabiá: Patógeno de risco máximo circula no Brasil há 142 anos, revela estudo&nbsp;&nbsp;diariodopara.com.br",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPT2ZGM3dUdmZlR0FaNEh6YWhUVFh0LXZMUjZUOVQ3cEhYWi1fdG16aXZVWnVGM0FWcFg1OWJtU3VPQVpaXzZmVTlLSkJMTkF5UTByVHRwU3NEb0YxNUhWT0pvQ1BqN0NLcldQQ0tQbDVJVGtVWFg0bzVvRVMweTFLRGtEdE8zV0MzLTRwZERwck5ITlNfT1V0TWJhSWtGWGJMTUhaU2dQeklqdlcwcExlQnRuRnNkTzJGamlpTHRRaUQ2Wm14NkxwUkEweXpRUXpZZzY5MGd30gHkAUFVX3lxTE1kUC1NSjgweXBRZTlOVkUzSjRqeWNadVZfY245Vy1FeGpqSVZEdWVGNWUzWXlKSzZNZ1RzZjZNdWdELXpvMjBmTmotMk03em9UUml4Tk5PMEdoQ29KX3VocC1qaFprenUxZV9PWFVqR2ZXNjNiLUFwakJoWmIzNk1hZTBxdS1LWHlzMTRTdXpPdWE0WjR3SjFZQW1vbDBTZ0xMdnJoQ0hfZmg0TGxnbldjYUowZ3dRN09CRlBTaG54dG5UZWNmMkFRdDR0VlBBWWJHek9YR3kxMWxBaVU0aGtLTzRuMg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "04c082692e23",
       "title": "Nova espécie de polvo é descoberta no fundo do mar em Galápagos - Folha de S.Paulo",
       "published": "2026-05-27T14:30:00+00:00",
@@ -398,18 +374,6 @@
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU0VhUWNtUVN0YWlqZkpXQVk0b3VCV2tkUHhZakVOelc2ZW1zNXNKRUotVGowdW9tWXJMcFFzSFVqNUZzZHFMemlnemhpRVo4cUlsVlpMRGp6UTVRMWNDU25fUWhhTEJzNElNSGg5c3V6dWpMdS1fMEFLRVlkWThRT0o3djBTb25lb0xaaEp1djFqY2hIb3BvdzZYSjRkN0VRcm1icUdtOXZHU1U1TXNfOVVSVTFBdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "981792194f18",
-      "title": "Virginia Fonseca comenta sensação após festa da filha e especialistas explicam impacto do álcool no corpo - O GLOBO",
-      "published": "2026-05-27T14:15:08+00:00",
-      "summary": "Virginia Fonseca comenta sensação após festa da filha e especialistas explicam impacto do álcool no corpo&nbsp;&nbsp;O GLOBOVirginia diz ter 'barriga mais seca', após beber; mas médicos fazem alerta&nbsp;&nbsp;TerraApós desabafo de Virginia Fonseca, médicos explicam efeitos do álcool&nbsp;&nbsp;MetrópolesEfeito do álcool relatado por Virginia Fonseca pode gerar 'rebote'; nutricionista explica&nbsp;&nbsp;Globo",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQX0tlUWdTbFp0TWJVM25uZGoxZXVHMW1ja2ViQk44ZzdLbWxaOWZTYjVtOS01UXZ2eHRlc2oyeHU0LS1UQjZqR3RnVVdKYTA0LUpxeGNaeUZaZ25LTFVSNGx0cWEtTUJUWVZUcE92RkVBclBsUDd5dW1fYXppWUtwWWdETXZfSDE1UWJJOVk5Mk94WnVqRjBPcmdKWlFJTEJZLTJUWXNDMS1aMjAybkVXM1BkMDh3OHc4ZXJDanFBbzMwN01hcFgxRS1Ec2tqUS1vTHoxQ3lzS3haRTRYbElPNVVUMNIB8gFBVV95cUxQNEswNVlwODZnYXc5SWYzT0VmNVExYmJpX0Q5OUtZTHlRZzNyQmJydzU3aC1WVjFoZm8zbHVNZjJkRTl3aXFXNlowVmlYdFFEU2tRZVNTNGkwTWxuRnhDbEFMY2pRS3E1YnZjUFQ4RUtqTmw0NmRiQjFGUEdGaTEyVkdOV3U1TEtrWml2cWtxaXYwaVNVLTdvMU1BOTJ1dU83SVdqb2NveHg0elBGRUljWjZIaWdiU3JseFZjcTVzZ1d0NWFRajIxMS05aEh4UWZZUTRVa2JKTTVMMlJPUU9JLU43aVY2QTdwdE5MZVNWMXdpdw?oc=5"
         }
       ]
     },
@@ -438,18 +402,6 @@
       ]
     },
     {
-      "id": "b01509522a5e",
-      "title": "Sintoma pode ser sinal silencioso de câncer de fígado; fique atento - DOL",
-      "published": "2026-05-27T11:58:20+00:00",
-      "summary": "Sintoma pode ser sinal silencioso de câncer de fígado; fique atento&nbsp;&nbsp;DOLDoenças do fígado são perigosas e silenciosas&nbsp;&nbsp;G1Sintoma discreto pode ser alerta de câncer no fígado; entenda&nbsp;&nbsp;jornalmetropolis.com.br",
-      "sources": [
-        {
-          "name": "DOL",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYmlNWVRZQkxxTVVGRDhpMENoeUJyaHZLQlo5eWFhckwyeERYWFR1LUQ4VU1LSlg0STMzUGRTUExmOXRnbEYyOUNkek5qR3p4Q2F3cEJBZExUTlpiLThlMkQzQXltQ2JKeVhNcmNFV2l0eUF2bG1hcDAzTjBPbnppd0JoSGpnaDhlQVh2WGpfakxxV3RleXNCcVFHM3NPdmNvMWd6b2duUVJWSlE5Rktz0gG3AUFVX3lxTE5pQkxzdnRrTTlENFZNOVRxVHVpcW9ZeUw1cjE2Q1JpUnI1TjUteVRPTGx0NXpyR1VfeGEyTk1iTVNmNEtNXzFscHRWel90QldpSzU0WTBDZzUwSFpKOHl3dkdWOTd4a0pOVGlzaUZzenJmd2doTzlIV1NyZ3NqV1hFV2ZGeHBkU3RMWHByMHowbEg3blBQRVhhUVNQMXpQbm5RTndkX2NIbW1UbTBpbHl6MFRXd0tlRQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c3d66f1d757b",
       "title": "Primeiro ataque de harpia a humano já documentado no mundo ocorre na Amazônia e acende alerta sobre perseguição à espécie; entenda - O GLOBO",
       "published": "2026-05-27T10:48:41+00:00",
@@ -458,42 +410,6 @@
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPWHM4MnMySHQ0c2hCSElvbE5USG1ZalJGSXRKUUkyMDNDSGUyZ1A5YXdEa0s0NUFXd09qRmtYTTdodWhzMHhBNkNHdmxwRmk0VkdtOWdBNG4zMkROall3a1BPMkxXcTJ4Z0hnTDVua0JEM2ROUmItMGgwZWFzdDQtQVNBV2xieGNTekZYd3EzSngtdHBDR2RHR2wxdGJwYTdBdFBNNUxzTFJxb2RZV2hIUXVRaEZGV0NlQmltaXJ4cEFSTVpIWWxqOFFLei1IYkRVcURLeWFnZ2YyYzVYbHk2UVlBbTUwRkhqT2V3RWFjMHlEekFHc1F5YVVQUUNONW54T0t3X1I0OFRGbFpZTkNDdTZOQWJfY2o20gGnAkFVX3lxTE91aHJhTUxkZFBVVEJ6YTRSdC13cVlDWm50MkJic1RwLUhacXZuUDdYU2xyckJWbXcwMnhfeE1xQTBzY0Z6ck1kTXdOcGhHSDBFVzJBQ2d5aUNFdTVpTmJIcTE0eEhWWHA5TlUtMWpXVVc2a2JQWjFEUG9nMUVjRVZEZEJISG9aSFNNVVEtMXZSM293Z0pkLUtqbk1DU0Q4NzByS0xueWxoZWp0b2F2T1NrWGtRdkpBWGJvYkJhTjUwSE1PdXlGUzhQUU5CQ18wZk5wcHRLSUVONGpYQ1BkaWRnVUVWay1JRlVyR0N2aW8wNE5WSEZyNkZzS0hUM0RueFRqVDFnZmlDaUhZNFVsWVloQVQwNEVXUDFORTZkRkV3UlVGX1pkYlE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f17fbe5a909d",
-      "title": "O que acontece em uma colônia de vespas quando a rainha desaparece? Estudo revela disputa por poder; entenda - O GLOBO",
-      "published": "2026-05-27T07:02:35+00:00",
-      "summary": "O que acontece em uma colônia de vespas quando a rainha desaparece? Estudo revela disputa por poder; entenda&nbsp;&nbsp;O GLOBO",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNRlVaeXZYOWt6MU1zU2wxaVNKQ0Q0OTVzZEFXVGNNbWVmVU5LbjcyV2VWal93UWQ0bVFKQTRrVjFHd2ZnWVd3T3JBUmd1MHpTR3UzRjM3QmlPTjZlNlNDc3M5VWNaZm9OY1d4eTFnM0tRMVMwN1hLTHdlREgyR19yMF9RVHd5NW91czJVcDRRVTNRTTNkLXJRanFRM1g2cjJBR0dtMmpGbzhzUm8yNnFSTlk0bnhqd3Y0OXBEWHpybk9ROGpXQVQ3TXh6NmVOMEN1VUstQlRSbW1CVkZvUVF5VmVMNC1QTGtoMndtY1U2bUZfM2pzNEN2aUY3UF9wYU3SAY4CQVVfeXFMUGRnV3pwOUdOOGN6R245LXpCbVJGRktESVJHdFM1dUFuLVRRN3J2Y0ZQOXdNY1p0alZQOVVERXVIRnJPWnJyOUNOUmhvTTZKVTR2cFhSM0VXUnlOTnlDNmZUNlVLNWgzQkZBUWYzLXBZVTZWQzRPV1Q4VWZPMnJVWjdLdUdDY3NieGlPZHNuaGFEdVFYNklZd0ZyRHZ0ZzJmSUQ3MUFZbThocklpNXVDdHFkWGkySHJ6bHpJOUZGN05pM3FWMm1zZzJxWm1QM3NCakMxb1Fsc0s4WmtfTThwV05POThrNlpTQmVid29iTzJ5Z1A2R0ppSlN1djhYbmFkZTlmV09sUW8zTEc0VjlR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "de74115855a7",
-      "title": "Pela primeira vez, urubus são flagrados devorando ovos de píton-birmanesa em ninho na Flórida; entenda estudo - O GLOBO",
-      "published": "2026-05-27T07:02:32+00:00",
-      "summary": "Pela primeira vez, urubus são flagrados devorando ovos de píton-birmanesa em ninho na Flórida; entenda estudo&nbsp;&nbsp;O GLOBO",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZDVUNVdzR0YxNERfTlNGdURZekh4YkdGVFZNVUh5amw3Z25XZHluSl80Ykhibk16VVVUcmFucUUxNjJrSHBOWndQcnJ6ZjdxdjRfdjlva0NoR3h2dy1LVEplTDE1QUxFMVRwZkVFa3JmSDF4QnR3UExjNV9uSG9aRVUyOGpTTXV1S0hoOEo3aV9DSXIxZ2RESlEzek9NZDhrYkF0enczbFZJVHFQYzZRUlEwTC0zWkVyRWZlOF9QVllxV2c3by1jdjA2dGN0c0x6aDVLWVV6dkJ6Q0g5M2xBcjd4WTdxWmtrbmcwakNGNHQ0cW9ueWtIYmRFYm5UT0dj0gGPAkFVX3lxTE1MQzJ3TDN6YUtKUlpMM1lPcEF2RUNhU3lWeEF4eFRDbW1UcmtXQXhSQzdlSkdaY3JDZGFVdGxtSUQxa2tKLU11cWtrTXVidWh6cHRkMjlwT1ptVUFOUEVPNXdVSDk0NWl3UnNac2hzVnhlQVpqMVJCT0FHbXhsQXh4N2gwcTdlRkNYQ3lraU1VZS1WdVFHN0JpQVFQRGlKUFBRR3FFLTQzelY3b2JHc3dRdXNhMUN0Q043NGZSTkhSLUxMTTEtYkpRQ2NJX2YyMllEaXQ4VHZwaXBudUZvTGJjU0RMQTBfYkZXZnlRamJKakY3NmZIVHdOLTZNcE1QbS1RcjF5bDd1ekw5SktqcGc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0f53c7cac40a",
-      "title": "Prematuros terão acesso à proteção contra VSR o ano inteiro; planos não poderão mais restringir cobertura - G1",
-      "published": "2026-05-27T07:02:17+00:00",
-      "summary": "Prematuros terão acesso à proteção contra VSR o ano inteiro; planos não poderão mais restringir cobertura&nbsp;&nbsp;G1Bronquiolite: planos passam a cobrir proteção para prematuros o ano inteiro; o que muda?&nbsp;&nbsp;Veja SaúdeANS amplia cobertura dos planos de saúde para atendimento de bronquiolite em bebês prematuros | Saúde | O Liberal&nbsp;&nbsp;O LiberalANS atualiza regras de cobertura do nirsevimabe por planos de saúde&nbsp;&nbsp;SBIm - Sociedade Brasileira de ImunizaçõesPrematuros poder",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOa1NqQk05QXZ6UUpueHhvdTE5RF9ySVFqQ0dST3l2VHNKOXlmNEhOTWZPUFRvYmRhR3ZBOXZ4UEhWTl9KRllHTHBYc1plMDN5amllQTVjMzJnV0o2VlZWUHRidGxGdU9ZdGZhTGJBUTBrWDJkenFmVnA0ZmFSd0F4bkw1eG11bHJuNU5qUDlJT2lOX3ViLVVNeC0yRDR0S0I2eVNpM1NUY0RLLWtDaHg5WmNBVF83Y2RUMkhYRWpkWUJRSS1malI3U0pKMUdFMlRsa3RNVHM2cm1VR0VtbHRsWE5aUml6ZmtKYW94d9IB-wFBVV95cUxQek55QXFiVlVyWFdlUEVtVHZ6clM0aTU1VUh5RzZQaFpFUmtzWnRJS0pZYXBBT3hfNXlCYi1xS2xrbHhud0pzQ3hLTUptZWdUMWhDMXZYb2VlcVYyTnNfVDRHZk03c1BxRFJyTzd4NS1seXl3WlYzS0dKSGQ4RHBXVEdMcmx5ZDZ0T005TTRlbFFnM0RUejVma1E3V1FYRy1mYWNlTEdJUF95Wml3ejFINWg1enhZZXp1NWVCRG15Nkx1dGh3M21ISTY0MG02M1FqUEZTLTFkdkdScDBBRFZnR2NZcDRBTm9Od3VyV0pBQnZSZ0laWGMtNklORQ?oc=5"
         }
       ]
     }
