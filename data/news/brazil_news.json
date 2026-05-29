@@ -1,10 +1,34 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-05-29T15:39:59.293372+00:00",
-  "total_fetched": 96,
-  "unique_count": 95,
-  "health_related_count": 35,
+  "fetched_at": "2026-05-29T20:28:18.094418+00:00",
+  "total_fetched": 88,
+  "unique_count": 88,
+  "health_related_count": 26,
   "news": [
+    {
+      "id": "203b24a79b5b",
+      "title": "Pombos sentem o campo magnético da Terra usando o... fígado - Globo",
+      "published": "2026-05-29T18:15:27+00:00",
+      "summary": "Pombos sentem o campo magnético da Terra usando o... fígado&nbsp;&nbsp;Globo",
+      "sources": [
+        {
+          "name": "Globo",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMTg4VHVCV0kxRDZqdnUtcXdLZFA1b1NDSHBGUjd6eGtDZGp2cUtYZG9Mb0MtcEIyMGpKZ2NYR21YTlJHUTRyOVBCUVQtQ0JERmk3N19PX2E4U0pKeFZ6YUJZem4wcWNUaXZWXzFsM1pBcF93NElNdlN5RXBxU2lLN19xeUNRbzlzUmVHNUNnRDNDcVZwck5ySURFODJTUnZaNk5jVVBqTGNsUkFSX1ZCNU1sa3haSUlXMGxF0gHKAUFVX3lxTE93MGdjZHd2dVNZbkF2bGJmSjlfRkgxZTl1UWI4LVJZeWtLakpJaU9tcVRMQzU0Y3NiZHJxRWc1LXNJUWJwbWZWelhPVllheVJFQ2E3V013b1YwWjJST2V1UWRrVWxzY1RSdWZlUmpFWDYxMDN3WTFscW1faXVONTV4RzFJbzM0MFpFcEp1MUFkeFNaakx3SlMxY0NHY0RQNmZKN2Q4dDg2d0lDX1NZNmpDSHZHb1hfZG1RM1BQam9QSXNlODFsNFpnaWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7af4db2a8e60",
+      "title": "JCNET: Bauru amplia a vacinação da Influenza para toda a população - sampi.net.br",
+      "published": "2026-05-29T16:51:08+00:00",
+      "summary": "JCNET: Bauru amplia a vacinação da Influenza para toda a população&nbsp;&nbsp;sampi.net.brCidades da região de Campinas ampliam vacinação contra a gripe para público geral nesta segunda; veja locais&nbsp;&nbsp;G1Bauru amplia a vacinação da Influenza para toda a população&nbsp;&nbsp;96FM BauruNotícias&nbsp;&nbsp;Jornal de BarretosBarretos contabiliza primeira morte por Influenza A&nbsp;&nbsp;regiaonews.net.br",
+      "sources": [
+        {
+          "name": "sampi.net.br",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOR2tSckJ2dTdsaWVoemNBZUI4OFpCSFBpamhtM3V2ZjNxM1Q1Q25RdEd3MDAxbnd4RXVRckhkSGpIQms1dEk0TF9JWnA2ZXB6RWFwMDl6X0JHVXJUbGFnMzUxSW1jNld5Sjh1Tk1KUXZmRTR5U3l6R3Z2T3BCemtGQV9weVRveEQwVEJ0b0JaNTN2RDVIbEpYNEo2aVN6bVRQQ253a3hUcWZPRHZLZ2pLdF9rcTZlcDBIVWwyMjFJSmc4VmR3V1E?oc=5"
+        }
+      ]
+    },
     {
       "id": "5be3355c35aa",
       "title": "Mosquitos podem se sentir atraídos pelo cheiro de repelentes; estudo - Globo",
@@ -18,26 +42,50 @@
       ]
     },
     {
-      "id": "1756fd4cf8af",
-      "title": "Estudo mostra que a idade em que você perde a virgindade pode influenciar a qualidade do seu envelhecimento; entenda - Extra online",
-      "published": "2026-05-29T07:30:43+00:00",
-      "summary": "Estudo mostra que a idade em que você perde a virgindade pode influenciar a qualidade do seu envelhecimento; entenda&nbsp;&nbsp;Extra online",
+      "id": "0d51b6d383c0",
+      "title": "Fibras e alimentos fermentados tornam-se aliados da saúde mental - Folha de S.Paulo",
+      "published": "2026-05-29T10:00:00+00:00",
+      "summary": "Fibras e alimentos fermentados tornam-se aliados da saúde mental&nbsp;&nbsp;Folha de S.PauloAlém da digestão: sinais que sua saúde intestinal está afetando o seu humor&nbsp;&nbsp;MetrópolesIntestino saudável influencia imunidade, sono e saúde mental, alertam especialistas&nbsp;&nbsp;ES HOJEComo a alimentação ajuda no combate ao estresse crônico&nbsp;&nbsp;Rádio CDL FMSegundo cérebro: intestino pode impactar humor e concentração&nbsp;&nbsp;Tarobá",
       "sources": [
         {
-          "name": "Extra online",
-          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPRUN2V19CenA3ZGdOQ0Y2OU0tZ01VRkRvQ1UzVHpWZEdKSlpoOUx6N285cFJLN3lxc0d4U0lib08zSTFnRjV2R2Q2UFlrZ2dEbGxnY3dQUGpMYXYwRlBtdjd4aWVqMG00U3FZQlpUdUVYWTFaVjgxaDZHdWFMX1FIem9NQllHX1VWbHczd2VRMVhGZ3lIaU55UDNjMDRhblZnUEsta2ZOU00wLTlEdjUzQS1ZQzJ2cjJoNkFtWjBULXNoRUE1Y0NGU0dmYXhERElRSURzMEstNEFaNjEtZ29CUlNhRUtrUHN0ZzFwYlJ4aWJPODQtVkctQ2NmRGJFcGlabzFB0gGSAkFVX3lxTE9KUm0zd3o2Vi1ObW56YmlBYkgyX3VXZ2J3YmlocTNveXZLY0NCTGY3X0w1YmsxS0NBeE5zT2dYZzBvc1R6azdKbEpvd3FKS0FyaFJsdW1xbE9IamFNbnpNaFNKSDE4Q09DQmNGYUgxekpMbHFqRzA2XzVJQjFmTGlTWFBHMngwaFNfS1YwODZHZExSQ2NQMG9MUlBSZWhwWWl3ZEJnRVExWVVZWTZscHhQdXNoaF96aGJpZHNnWUNFZWwza0xScTZwWlZPcVVKRVNQZWNvV1Q0U0Y0RzdhOTN4QlRsZi05RzhRclhkQml5bDgxUEZqS2lhdUZxOTJXMjd2UnA2RzdzMmxyUHF0RWk2Vnc?oc=5"
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ2xaYkp3UER0S0FXSVd3czE3X1NBM1F6WVFsbW03NWtHdFFINlZEek9fb3lMV2FGT0F4TDF2X1h0NHFMOENPcTZUY0czNFlLZDJhOE5KblhpQzJYMzVnZEhHYThsQW94VzJhU1FWUU5rRWxRVUg2d0UtS3EzZTZpYmJjUzAtZXU4SGgtNy1ZbE0zcUdueXN4V0hERUU5ZVlDTjZPVktGZlRVWHktdmladVhZb3BaakxSTy00?oc=5"
         }
       ]
     },
     {
-      "id": "e53baf634def",
-      "title": "'Ginecologia de rede social' coloca saúde íntima em risco? Especialista explica - Gshow",
-      "published": "2026-05-29T07:01:48+00:00",
-      "summary": "'Ginecologia de rede social' coloca saúde íntima em risco? Especialista explica&nbsp;&nbsp;Gshow",
+      "id": "9f020e936e4d",
+      "title": "Centros de saúde de BH abrem neste sábado para vacinação contra a gripe; confira locais - G1",
+      "published": "2026-05-29T09:33:45+00:00",
+      "summary": "Centros de saúde de BH abrem neste sábado para vacinação contra a gripe; confira locais&nbsp;&nbsp;G1PBH abre 19 centros de saúde neste sábado (30) para vacinação contra a gripe&nbsp;&nbsp;Prefeitura de Belo HorizonteMais de 10 mil doses de vacinas foram aplicadas em BH no sábado&nbsp;&nbsp;Hoje em DiaQuase 70% dos idosos de Salvador ainda não tomaram vacina contra a gripe&nbsp;&nbsp;Jornal CorreioBaixa vacinação pressiona rede de urgência na Bahia, alerta secretária&nbsp;&nbsp;A TARDE",
       "sources": [
         {
-          "name": "Gshow",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMjRBWkVrRWRBRm1pM0p5WXI4bzlydWdvNjJZTzZLR2RweUFLWk1hT244cDNrZFV0ZnZzT0hfNmhJSTdvQzJBRTdwejBIZVR3aHBWX1h3cTV2YU5vUWpFRWVUY3ByQ1c0d2R2aWs2U2stWlhuWXM4c29LYXVlZEhFY0ZaUExzSmk0Q2IyRHBud2RRZ2dZaVdCblIydlFLYUpwc2dueFZxVlpHYi1YeDVkeGd3YUlYRFc0QXhNOTVHNzFoa290VVlSMzlGX284TkHSAd4BQVVfeXFMTWV2ODJveHJjeUpJS0huc2Fta3dKMVVyUGttbUE5QTJXMUFOVE8xbE1HMXpub0dXd0N1VVp5MzdNVkdvWHhfTGpVcGlRVlROdmxqUjNoS2hsdnBLbjExUDJ5em9UYlBCRnRDSkFENWxKYmQ2dHd6SlBTSlk5UTNySDFZQWJvWHc0RHdWTko2ZVBRekdkS3NvREl6MjFMcDRMcXhQdDNZMmVzYUFRMmlyZzV2cS1kMUMtN3JBTWluSThEOXlfRkxlMVM2R1hQaXpWWDZQT05EYkpKbld5RHlR?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQaV9FUlFSSmszTjMxZnZlZ2EwR21ESG9vekNzLVcxZWNjUGxWanZVRlpYaWNpdVBNMDZfOUxFR2xWZVd2Rng5T3hmLW1tekNkVXZ4RHNBZmVSc3FRcDRxYlVVbS1wNFp4UW82VERTejlvbzVNQmNIeHpWQWhqZndmY3B5V05mSTdjaXlVVUFaRlN3c0ZCRHIxTnBMVTZHdlpfMVFvQTB1M3RtOXF2WGNDX2g0Z3gwZjh2WGhHQ3p3a0tJbkdDSVRJa3V0cXRjdVRla1pTSEdXTUF5ZE1LYm1yWDlKVjR4VUZEc3ZpV3pJbjQydXFf0gGDAkFVX3lxTFBrVDBvWnFHVm1NNFM3ZDR2Y0JZR1dpN05PRVNqR1RyU2EtOEN4SkdDbEVzMThBMWJ2eWxsSDFiMjlSM195V3ZKUWVPcFlwUjV2U3FZeG5aQXdhUXUwbUl4VENuWEk0b25qcThFQUFvbmw2a0JuQ09HTHFkdjI0bXZtemV1X3BsUzJvNHlTVWxaM0pkTnREMHpqaGNvZTF0ZlJFaXZVY0lLczRNWFVFNHpBZnJXTmlBd3N6eTdWM0tXMUQ2U3dkelBzM0hfblFRWmxPWFp5TEJ4cVg5VHAtclgxUW5Md3kxSklMbGFySG1EcUJ0cU9MRXFfbXctMzhkYW5VYmM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1bd1f54c15a8",
+      "title": "Endometriose pode ter relação com enxaqueca e ansiedade; aponta estudo feito com 1,4 milhão de mulheres - O Globo",
+      "published": "2026-05-29T07:01:33+00:00",
+      "summary": "Endometriose pode ter relação com enxaqueca e ansiedade; aponta estudo feito com 1,4 milhão de mulheres&nbsp;&nbsp;O GloboDor menstrual forte não é normal: quando investigar endometriose?&nbsp;&nbsp;TerraAtendimentos por endometriose quase triplicam no SUS e expõem lacuna no cuidado em saúde mental&nbsp;&nbsp;ND MaisMais do que uma dor física: endometriose impacta vida sexual de até 80% das mulheres e afeta relações afetivas&nbsp;&nbsp;Jornal CorreioGracinha Mão Santa reforça avanço no debate so",
+      "sources": [
+        {
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQQ2lHUFFZRWlPQmozSXFzRUFEVXhWS3ZobjV1Y0cwOGdVVnA4dkNrSTZGMmdzNE53eDRZRnNSZmoyWkhGNDhsRE8xNWp2My16cEhVTkdkTzV3Q19WbW9ZTld0aU5hd1hpZmNrNTVaNF9jNjFTTS1GTGFtVUdWYkRfRGpMSmRqbUxCVXBQSG91VVQ4QlBWZDYyeXhnRkRxX0tKV2JSc2pwVUdMTWhNTTViZG9McEMwTnlhTjN3Q3JwY25fQ3lZRVVqWElqVTRYcVFYVzhoemVPRXhCdmRpdDFvMXJJakdKazl6Vko5T0Vn0gH8AUFVX3lxTE5DbTN6dUdVZ1pVbXVzTUZXeGdnR0I2U3ZuVV9wQzNPSlY5UDMzejhjNFFSRmFHUGFUX1JKMnVUVHFrYjF3Vlp3Yy1sOUJjRjh3ZC1WMVhnY0VGN3NOTWtIemhjbUxVb1ZsTmp2ZWNYdWladThrZUVHd3I4a0lmRElXX29KSHVUdDEzVnBBWXY0V0dhRXE5RER2WGhaSHY1UC1TM3k0bnhET254Ql9lbWoxUlI1TXIybGxFUGIyUlNGQnEzalQ5aVhvRmwyYk9DWFhuLUtPRGFOVHlPZzNwcnMxRVpDSFpES2VTM1lPMkRxd3hSMEFwMVZLdHNicA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b1f1a3159ace",
+      "title": "Vacina contra gripe: veja como se vacinar na Grande Vitória - Folha Vitória",
+      "published": "2026-05-29T01:16:43+00:00",
+      "summary": "Vacina contra gripe: veja como se vacinar na Grande Vitória&nbsp;&nbsp;Folha VitóriaVacinação contra gripe é ampliada para todos a partir de 6 meses no estado de SP&nbsp;&nbsp;Folha de S.PauloSorocaba amplia vacinação contra gripe Influenza para toda população na segunda-feira (1°)&nbsp;&nbsp;Prefeitura de SorocabaPopulação poderá se vacinar contra a Gripe no fim de semana&nbsp;&nbsp;G1Liberada! Toda população do estado poderá tomar vacina contra gripe a partir do próximo dia 1º&nbsp;&nbsp;goias",
+      "sources": [
+        {
+          "name": "Folha Vitória",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNenlTdzVpNmV4MnozUE0wN3pqUXpseHF1eE81T3liX0FEZUkxT2dMVldoVHRLYTRhQjhneEk5ZTZmYTVRM0tmYko4RDFLWHNIeEdqcmZHRzllTWdYVVVCcGg0RlRlRXlmTlFQZlJOcmFjTkRpbjNURThRM2w5bDlzWEo1a243eHVHLWNzUnBqQ083djZmVjBHXzdfYmFYQQ?oc=5"
         }
       ]
     },
@@ -57,7 +105,7 @@
       "id": "041a762ded64",
       "title": "RS enfrenta aumento de casos de SRAG e entra em alerta máximo em meio à baixa vacinação - abcmais.com",
       "published": "2026-05-28T21:37:09+00:00",
-      "summary": "RS enfrenta aumento de casos de SRAG e entra em alerta máximo em meio à baixa vacinação&nbsp;&nbsp;abcmais.comRS tem 'alto risco' para doenças respiratórias por baixa adesão à vacina da gripe, aponta Fiocruz&nbsp;&nbsp;G1Fiocruz: internações por gripe e bronquiolite seguem em alta; veja as vacinas que previnem as doenças&nbsp;&nbsp;O GLOBOTamiflu: como funciona, quem deve tomar e quando iniciar o tratamento contra influenza&nbsp;&nbsp;GZHInfoGripe: RS segue em alerta por alta de casos de SRAG&nb",
+      "summary": "RS enfrenta aumento de casos de SRAG e entra em alerta máximo em meio à baixa vacinação&nbsp;&nbsp;abcmais.comRS tem 'alto risco' para doenças respiratórias por baixa adesão à vacina da gripe, aponta Fiocruz&nbsp;&nbsp;G1SRAG em alta no MS: VSR e influenza elevam hospitalizações&nbsp;&nbsp;Campo Grande NewsTamiflu: como funciona, quem deve tomar e quando iniciar o tratamento contra influenza&nbsp;&nbsp;GZHInfoGripe: RS segue em alerta por alta de casos de SRAG&nbsp;&nbsp;Correio do Povo",
       "sources": [
         {
           "name": "abcmais.com",
@@ -78,6 +126,18 @@
       ]
     },
     {
+      "id": "58fddbe2a0aa",
+      "title": "CFM autoriza uso de dois novos tratamentos para câncer de próstata - Metrópoles",
+      "published": "2026-05-28T19:36:39+00:00",
+      "summary": "CFM autoriza uso de dois novos tratamentos para câncer de próstata&nbsp;&nbsp;MetrópolesCFM libera dois novos tratamentos para câncer de próstata; técnicas prometem menos impacto sobre função sexual e urinária&nbsp;&nbsp;G1CFM aprova novo tratamento para o câncer de próstata&nbsp;&nbsp;Conselho Federal de Medicina.CFM libera novos tratamentos para câncer de próstata no Brasil&nbsp;&nbsp;RedeTV!Câncer de próstata: CFM autoriza uso de HIFU e crioablação para tratamento&nbsp;&nbsp;Afya | Home",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZUkNXWlozZEpMYjVsSlQ3NG9idjhUUlh3RkxqTUhHSjFEU2VlS00ya0wxQmRxNGpOaGZkVTZ3Sk5naGJHNFplWUF2OWZuTjN5NkV0RUNQVkxUVVNydEMzdFNMQmVlQjdDWGh4T1p6SWxaUQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d0f336fc3711",
       "title": "Pesquisa de estudantes baianos sobre arborização urbana ganha destaque em congresso nacional de mudanças climáticas, em Santa Catarina - ba.gov.br",
       "published": "2026-05-28T19:21:41+00:00",
@@ -93,7 +153,7 @@
       "id": "063da7747c67",
       "title": "SUS tem novo protocolo para detectar câncer de intestino - Portal Drauzio Varella",
       "published": "2026-05-28T19:03:54+00:00",
-      "summary": "SUS tem novo protocolo para detectar câncer de intestino&nbsp;&nbsp;Portal Drauzio VarellaSUS lançou novo exame que identifica alterações que previnem o câncer de intestino.&nbsp;&nbsp;G1Ministro da Saúde anuncia novo protocolo para rastreamento de câncer colorretal durante agenda em Lyon, na França&nbsp;&nbsp;www.gov.brSUS terá novo exame para rastrear câncer de intestino&nbsp;&nbsp;band.com.brCâncer de intestino: SUS adota novo exame de rastreamento&nbsp;&nbsp;www.proteste.org.br",
+      "summary": "SUS tem novo protocolo para detectar câncer de intestino&nbsp;&nbsp;Portal Drauzio VarellaSUS lançou novo exame que identifica alterações que previnem o câncer de intestino.&nbsp;&nbsp;G1Ministro da Saúde anuncia novo protocolo para rastreamento de câncer colorretal durante agenda em Lyon, na França&nbsp;&nbsp;GOV.BRSUS terá novo exame para rastrear câncer de intestino&nbsp;&nbsp;band.com.brCâncer de intestino: SUS adota novo exame de rastreamento&nbsp;&nbsp;www.proteste.org.br",
       "sources": [
         {
           "name": "Portal Drauzio Varella",
@@ -117,7 +177,7 @@
       "id": "654e20fe8f62",
       "title": "SUS vai ampliar proteção vacinal contra doença pneumocócica - Agência Brasil",
       "published": "2026-05-28T17:25:00+00:00",
-      "summary": "SUS vai ampliar proteção vacinal contra doença pneumocócica&nbsp;&nbsp;Agência BrasilVeja mais manchetes e perspectivas no Google Notícias",
+      "summary": "SUS vai ampliar proteção vacinal contra doença pneumocócica&nbsp;&nbsp;Agência BrasilParaíba recebe primeiras doses de nova vacina contra pneumonia; veja os grupos prioritários&nbsp;&nbsp;Jornal da ParaíbaMinistério da Saúde amplia vacinação infantil contra pneumococo no SUS&nbsp;&nbsp;Metro 1SUS amplia vacinação contra meningite e pneumonia&nbsp;&nbsp;Hojemais.com.brSUS amplia proteção vacinal para doença pneumocócica&nbsp;&nbsp;R7",
       "sources": [
         {
           "name": "Agência Brasil",
@@ -138,34 +198,10 @@
       ]
     },
     {
-      "id": "9034469d8d9f",
-      "title": "CFM libera dois novos tratamentos para câncer de próstata; técnicas prometem menos impacto sobre função sexual e urinária - G1",
-      "published": "2026-05-28T16:53:12+00:00",
-      "summary": "CFM libera dois novos tratamentos para câncer de próstata; técnicas prometem menos impacto sobre função sexual e urinária&nbsp;&nbsp;G1CFM aprova novo tratamento para o câncer de próstata&nbsp;&nbsp;Conselho Federal de Medicina.CFM libera novos tratamentos para câncer de próstata no Brasil&nbsp;&nbsp;RedeTV!CFM autoriza uso de dois novos tratamentos para câncer de próstata&nbsp;&nbsp;MetrópolesConheça os dois novos tratamentos para câncer na próstata. Tecnologia promete menos impacto na vida sex",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPZVhwNWJDeklMRlhKV0xNMjdvVi1uLVdxaTRvVEE5ekN1dlk4amN5bTJ4V0lxUGhPN0RRSGFfMmpweDNVNVZLUXE1OW1BSVZScDM4aEJpUV9LbXFmOC1OdXBPU055VmZIQ0xVVkJPbjRZUnhYOFlPWHhDd21qaXB6OHQweVpMdjFKaW5NeEdNb2JQcVlOY1lDcUJVbFhyN1E5RzUtcDg0cllDZXFQVm50NVc4ekVXTWpUMEJPTG9GWWpEMzd1YTFFM2JQZExQdlI0a1BNejF4ekhSdWhfbjNDTGE4VTQzczNYYXFhekM0ZFY3X0xWTXFua2ZzRW0zdk13QXfSAZACQVVfeXFMTmxGWXc2U2g5d3ZMNGhRS2hPbTRLeGZPbFNmVEpuUm9YQ1Zhbjl0Y2lqbzZOa3B0bGRqRHVSaTFyYjE4WkVHNkJtR0FjaXBubkNoeG1oQUh4ZkdvRmxuTHEzR3Q3Zlg3STRuUzJSMk5uemZhaVJtbXN6Z3VXN1hPOUZxNG5WeGRqRWtKZ3QyZGlFVko3RGpFVWxUU3dETzdoLUZzMEdRTHhOQ0c5Zlc0YW1zYXk5RDBqdWo5VVcxcGpJZEpjUi0zc05raWhkVk9TWEdzb0NJaEZFTENZbmRjOHRvTWw1NnJ1c1FZSTAyOUtGbGZzVmN4OVI1bHNvUHpsazZBMHh4TVVNTTdnQXdQb1Y?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c640159bf56d",
-      "title": "Cerca de 70 pesquisas serão apresentadas em Mostra Científica da Unifesspa - Correio de Carajás",
-      "published": "2026-05-28T15:50:00+00:00",
-      "summary": "Cerca de 70 pesquisas serão apresentadas em Mostra Científica da Unifesspa&nbsp;&nbsp;Correio de Carajás",
-      "sources": [
-        {
-          "name": "Correio de Carajás",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYzVqWkw5a0o0eDFVcXNWd1NqdWhsQzloQ1RNUmtfQ2h0QmgwTndpV19ORGdVdjhCM1F3QjA2Q2h2MEc3TEhURXF6a2ozV1NoNU1NWHRXM1BGUk5pUkRfNVRjN0F3aTZtaHdsekNWR0JIbkp2OEQ2Y2MwUms5OUZoYnkwcWY1TW9ER1gwVlgyd3piT3NzaFlGcE9yMGxCWEVWc2ViSkpvRUc2XzA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "210192794554",
       "title": "Cientistas descobrem vírus gigante com replicação inédita. Entenda - Metrópoles",
       "published": "2026-05-28T15:37:26+00:00",
-      "summary": "Cientistas descobrem vírus gigante com replicação inédita. Entenda&nbsp;&nbsp;MetrópolesVírus gigante descoberto no Japão desafia as teorias da evolução&nbsp;&nbsp;Olhar DigitalDepois do Covid-19 sair da China, vírus gigante é descoberto no Japão&nbsp;&nbsp;TNH1Furtivovirus: o vírus gigante ‘escondido’ que se replica de forma inédita e está a intrigar os cientistas&nbsp;&nbsp;Executive Digest",
+      "summary": "Cientistas descobrem vírus gigante com replicação inédita. Entenda&nbsp;&nbsp;Metrópoles",
       "sources": [
         {
           "name": "Metrópoles",
@@ -186,46 +222,10 @@
       ]
     },
     {
-      "id": "f4adeb88d0a3",
-      "title": "Como humanos faziam suas camas há 200 mil anos? Estudo descobriu - Globo",
-      "published": "2026-05-28T14:55:25+00:00",
-      "summary": "Como humanos faziam suas camas há 200 mil anos? Estudo descobriu&nbsp;&nbsp;Globo",
-      "sources": [
-        {
-          "name": "Globo",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYkVUbnVqSlMzT2s1VEh3RjBCNllEQlE5N0x6UVlwaWwtcEI4TTlDMnJrNno3YTE1bUhiSmswanRPdVN6ME5STmlvN1dpalhwbkJ5QlIya2JvR1dnU2E1TmY0VjdCR3FYT3F4QUJMSzZWdkE5Z3pPcDNmQkNxMVU1VkNwNWtDSnlsVHNMc0ktcTJoLUttRUhERk1PZ2lUaWtaQ0lnNFQyR3gxaEV1S1ZHQ1NuTWxXcVRGUUFJS1REb0NnRFlUZnhwRm51aGpFX0xtWGk5ZtIB4wFBVV95cUxNRWFqc3d2a3U2NFp1WlVzaDFrZVllVGdONXI4RVRIQUdlWERFc3FVUUcxYmtfRkM1c2ZaV0xtdV9Icmszb3RQV01xRzUtV2NiUGdJUmdPcER4SzFCOF9PYnVBOUM0R2dIVXc4QkI3SERFVGFYXzhxb2V2S29oWWJfWkhsbnRuRF9XTDhtU2Fwdk04MEdlTmFfTDAwOU1DLTNiTzZwdTJaRG5xYy1jU2sxRE5pVFNPYWtKandfQ3VCblYxN1M0Q01uRzdRMzVod2QwbU9IRmhnOVF2T2F1X2hMLU5QWQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cff53ea09a0b",
-      "title": "‘Meninas primeiro’: faz sentido ensinar essa regra para crianças? - O GLOBO",
-      "published": "2026-05-28T14:51:05+00:00",
-      "summary": "‘Meninas primeiro’: faz sentido ensinar essa regra para crianças?&nbsp;&nbsp;O GLOBO",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORHN3OHRQSTZ4ZlFFN3dNWGZKeERrR2ppTVBac19YMDhZMHh2MHROUUdNV29STFVCT200SEt1eF9NaXVUeHR4RzZvNHY4Q2VhVlpyRUFwWThSYlY2LU54bmpMTGgzeUlyNXY5SE5McDJ4Rlc0Skw5cnA0Y3pNNkhfQWZyaGZYTWktYUUxYU42bWx2QjBCQ0NSZ2VsdVU0ekxxY1dKamFHaWhFM0hvLWMyMGhHNHR4SXlwSGRqVWVaT0FvWGZnY2QtTG5MbXBWX3lLeUFr0gHiAUFVX3lxTE00RUlXaGtWd0ZYNU81VW1ITHF5X002SFJranRCSFkwZi1xbTFKdG5IdXRHdFJXX2VHMEM3TU5vZy1Ia3J4WE5ZSHdSOWdnRzg4dkZOcXFlc0pjQnFLcXdOb0d0c09IZ0NhQVhqX3VPaHBSR0szWWx0UXJVU3VDamVtZG9HZThZc21wMW55T0pIS1VwSU1Rb2U2UVB3aHhnX0IxV2tCY0R3QzltM1VjRWdyUU5xV2tKMk92TnljNFdTLWJ6Y0lRVUxwNEVMQnVoZVNyU3gtQTNueXBCdHFDMUpieVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "717d8ddae9e2",
-      "title": "Novo remédio cura 20% de pacientes com hepatite B crônica, diz estudo - UOL",
-      "published": "2026-05-28T14:06:02+00:00",
-      "summary": "Novo remédio cura 20% de pacientes com hepatite B crônica, diz estudo&nbsp;&nbsp;UOLCura da hepatite B? Com novo antiviral, ciência dá grande passo rumo à eliminação do vírus&nbsp;&nbsp;Veja SaúdeNova injeção elimina completamente hepatite B em 20% dos pacientes&nbsp;&nbsp;O GLOBOBepirovirsen da GSK atinge 19% de cura funcional em ensaio de hepatite B&nbsp;&nbsp;Investing.com Brasil - Finanças, Câmbio e InvestimentosMedicamento experimental contra hepatite B pode oferecer 'cura funcional' para a",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNLTZGUDJRSjQ4WmtQQUpyNWg1VnA3aDFvcGFZcjd4dUN0bkRzUy1ZdWZpVTFHMFJzdXd2YjhpMkxmb1VyVXhjY001My1IYmdFR21EYU9mSWZTbFdTcUNuYWt3VXNnNzVsVWg5UjJjZXpTZmZyZkdzdkdjc0xjX0xPMi1uTWhveENxWkNVaGp4WjBGaTE5ZUxiYml5OFR1VFg2bTFOLWtQLTh5N2E3dWZPWXBFRDBsaW9DLUZMSHpXM2RZRDFZWm8tS1RJMA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3260cdfc7ae7",
       "title": "Vacinação contra gripe na Central do Cidadão em Campo Grande - Campo Grande News",
       "published": "2026-05-28T13:55:00+00:00",
-      "summary": "Vacinação contra gripe na Central do Cidadão em Campo Grande&nbsp;&nbsp;Campo Grande NewsCAC terá ponto de vacinação contra a gripe nesta quinta-feira – CGNotícias&nbsp;&nbsp;campogrande.ms.gov.brAção em canteiro de obras vacina 43 trabalhadores contra gripe na Capital&nbsp;&nbsp;MidiamaxDrive-thru de vacinação da SES supera 10 mil doses aplicadas em Campo Grande&nbsp;&nbsp;agenciadenoticias.ms.gov.brMobilização da Saúde Municipal com Drive-Thru vacina centenas de pessoas no Sábado em Naviraí&nb",
+      "summary": "Vacinação contra gripe na Central do Cidadão em Campo Grande&nbsp;&nbsp;Campo Grande NewsCAC terá ponto de vacinação contra a gripe nesta quinta-feira – CGNotícias&nbsp;&nbsp;campogrande.ms.gov.brAção em canteiro de obras vacina 43 trabalhadores contra gripe na Capital&nbsp;&nbsp;MidiamaxDrive-thru de vacinação da SES supera 10 mil doses aplicadas em Campo Grande&nbsp;&nbsp;agenciadenoticias.ms.gov.brNo parque ou USF, plantão garante vacina contra a gripe para toda população&nbsp;&nbsp;Primeira ",
       "sources": [
         {
           "name": "Campo Grande News",
@@ -234,34 +234,10 @@
       ]
     },
     {
-      "id": "c146dfd6e8c3",
-      "title": "Espírito Santo amplia vacinação contra a influenza para toda a população acima de 6 meses - Secretaria de Estado da Saúde do Espírito Santo",
-      "published": "2026-05-28T13:36:21+00:00",
-      "summary": "Espírito Santo amplia vacinação contra a influenza para toda a população acima de 6 meses&nbsp;&nbsp;Secretaria de Estado da Saúde do Espírito SantoVacinação contra gripe é ampliada&nbsp;&nbsp;G1Estado de SP ampliará vacinação contra a gripe para toda a população a partir de segunda-feira&nbsp;&nbsp;G1Vacina contra gripe: veja como se vacinar na Grande Vitória&nbsp;&nbsp;Folha VitóriaJundiaí amplia vacinação contra a gripe para toda a população a partir de 6 meses&nbsp;&nbsp;Prefeitura de Jundia",
-      "sources": [
-        {
-          "name": "Secretaria de Estado da Saúde do Espírito Santo",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNWR5eUFXRWpYd0R3WHA2V2ZwbU9MTGRHcDhGN1Z6REZSQzdOWVM2VVlRWUt4UEZ5QTlYMDFuWmdPN2N6T081dlRFeXctWDVvN1p6STQ1QWpzQnR6RU9saEtOdHBrT25HZDdJRHhzUmVmSXowcXMzdDlkTjJUX083bnFiR2k2a0drQkhsQVU5cERzSGRNRzFFSk5FaFZocWQyMjlZQnRmV2lCX1Rab2ZqYmMzenNBVnA0TzJZWUR6bEVXYzVZUHBz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bd77cce505b3",
-      "title": "Lugar onde se vive pode influenciar velocidade do envelhecimento, aponta estudo - InfoMoney",
-      "published": "2026-05-28T13:34:10+00:00",
-      "summary": "Lugar onde se vive pode influenciar velocidade do envelhecimento, aponta estudo&nbsp;&nbsp;InfoMoney",
-      "sources": [
-        {
-          "name": "InfoMoney",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ1diTG1GT0RnQkxFd2dwZXlJemFfdWxrQmIyN21lUmFHaURXdnFHbGdNTklyTW15ekpFWnFQbU00RHB6aGxLQUJGWFJYLVlpOUNqZXZJcUlyZl9JVEV2UmtrN1RQQXVSRUF5dFF6bjF6cWxpYXROcGJxSXd1NzY0WHpRQmNFR1hrSWxzUlFqQ3RocW1iMGFoLTh0Mzluc05jNnJBUXJzaWllUTNPZTJfVW1fZVPSAboBQVVfeXFMTW1CdkxzaTNPYTdUbUViNFkzUGhwd1pkTTd6azR3cThhS3NTWnhDM3hHVm9yU2VBQUF5NHJydTFVdXBWaWItQXdQZjlYUU94V1ZjZ2ZaanJfQ0wtTXRZMGdEbWNCX2hFOVZmTHJudGZWQkd2cWNsMnFsVHJfZEhCaDR6RmFBbWhHYUNydWJBcXdsU0dlN3R4OTY4X04wdkxCcnRZWnUyYTNIeGxwc3ZXZmxYN0VZQ0FlazRB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1d6618ff4904",
       "title": "Jejum intermitente é melhor que dieta para emagrecer? Estudo indica que não - Folha de S.Paulo",
       "published": "2026-05-28T13:00:00+00:00",
-      "summary": "Jejum intermitente é melhor que dieta para emagrecer? Estudo indica que não&nbsp;&nbsp;Folha de S.PauloQuando o corpo faz manutenção: o papel da autofagia no jejum intermitente e o Nobel de 2016&nbsp;&nbsp;TerraO que o jejum intermitente faz na perda de peso e na resistência à insulina&nbsp;&nbsp;Correio BrazilienseJejum intermitente realmente funciona? Novo estudo diz que não&nbsp;&nbsp;MSNDieta e autofagia: o que liga e afasta estes dois conceitos&nbsp;&nbsp;National Geographic Portugal",
+      "summary": "Jejum intermitente é melhor que dieta para emagrecer? Estudo indica que não&nbsp;&nbsp;Folha de S.PauloQuando o corpo faz manutenção: o papel da autofagia no jejum intermitente e o Nobel de 2016&nbsp;&nbsp;TerraComo o jejum noturno prolongado (12-14h) afeta a renovação das células intestinais e reduz a inflamação sistêmica&nbsp;&nbsp;Tua SaúdeJejum intermitente emagrece? Veja o que a ciência diz sobre&nbsp;&nbsp;Revista Ana MariaDieta e autofagia: o que liga e afasta estes dois conceitos&nbsp;&n",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -278,30 +254,6 @@
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRHludERuM3R1ZkVEZmNudFU4Sm5IYnI5akx6cUdPdFpvUExHWlZFai0tTEw3UnZkNlhZVWlRc01iNWEzWXNTS2JWWHBzSVZLa3BSM0hfQ2JISE5EZ2FZWXZZbUdkdmtySHVDazNZNk85ZmJMd3duYWJDZDVMX1hYRWk0SjdxTjNiRVRnQ2hhdnZzd0s4dnRCdTZYeXJyMi1BbEgxdzkxTl9aQmdMTGhLekIzWEhwa2ZFb0wwZWNPNl93Vzl1?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a739efe000fe",
-      "title": "Marte teve oceano por mais de 1 milhão de anos, revela pesquisa - Olhar Digital",
-      "published": "2026-05-28T10:08:00+00:00",
-      "summary": "Marte teve oceano por mais de 1 milhão de anos, revela pesquisa&nbsp;&nbsp;Olhar Digital",
-      "sources": [
-        {
-          "name": "Olhar Digital",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPM2Ywa0ZfZzA0OFlYaEIyNzd1VnFrekJ6a2JDYVpmOUlLUk9qUEl6dmhyMkdlTWNCUm1oTnpJUFk2cF9JcS1QcmJkdnJCUU9hbUxzNmZlTTh5VUVteTJNYUg5b2lUc3hFSnZVVlpjUEs2SlREa25MckV6bXRpc3dIeVBJM2EyM3VnVWx6ZFRYcmtfYTZ5cmQtRDF0R013am1uY2pkTzMzbTFuMlZvUWw1eHhXWk05S2hHcjhr?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b12b2734838f",
-      "title": "Carreta do Diabetes chega em Boa Vista nesta sexta-feira (29) com previsão de 9,5 mil consultas, exames e atendimentos gratuitos - Folha BV",
-      "published": "2026-05-28T10:00:00+00:00",
-      "summary": "Carreta do Diabetes chega em Boa Vista nesta sexta-feira (29) com previsão de 9,5 mil consultas, exames e atendimentos gratuitos&nbsp;&nbsp;Folha BV",
-      "sources": [
-        {
-          "name": "Folha BV",
-          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQNV84WVBDakJwUWhWdEs1QU0wQ3BhSGF1Y0lXV1prWlhma2pLMlFyajd0Z2tnZmNvRGUzRXZDNXp6amFzYjlPci1jOVN6YjF6ejdRbWZkX2JGNlN4SXpUQkV0WUp3b2ZkWmJ1NC1na2VJNFlFdEFSMVV4c203U2d5WFRkc21KMGRnV05fUlItVlFVZGdaekZYTk5pcExkUzg3X3lqWHVUdUNxUHNPLVpRWS1YWnowdVgyUzFaLXA0cnN3bmFOWkZ6NlZyWWNZMGJVZUQzMUxLRFk3YloxZ3o1UXJqMjRHZTBPSm81UUhKLUxrNHZRaDlOenF2cHBRR1E?oc=5"
         }
       ]
     },
@@ -330,10 +282,22 @@
       ]
     },
     {
+      "id": "e3d1db6c4d96",
+      "title": "Lugar onde se vive pode influenciar velocidade do envelhecimento, aponta estudo - O Globo",
+      "published": "2026-05-28T07:02:36+00:00",
+      "summary": "Lugar onde se vive pode influenciar velocidade do envelhecimento, aponta estudo&nbsp;&nbsp;O Globo",
+      "sources": [
+        {
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeEJ2M09KVGRweTg4OF84eUdqMy1LVlFlR2NCcTFKZVVKZlBWSlZDSGVyc3ZEZWRkMW53bzByazFST09abE1JSjEzY1JUWGc1a2JnZ2ZId2t2VUg2SWptVndQVmQ3dlJ5aGM5NDZPNnpfR1BUX1o4ZHJRUUtXY1JockhuZ3BHeC1oeUN1T05qTjNFeVhHRUJFcS1wMFVXUHBjYk9VeG16c1FfcXJQWHNYejdVMEZYVGhTQmxDcnRtaDJKSEpoUmtiR1QyZ3dVbnNOYy1WM21FcTNMZ9IB6AFBVV95cUxQUzlrMjlhNzRhSFphaGxYbHBDSFNpTkdORGo0VFRNbFNNTWdPS3hwRTNPM1hyZmV2ZjlBUVhWOXhyMXpCVzZaY3B2QW9iUjBuTEJhWFVEX0dlU2wyZlhfNEdsaG15QUg3Q2l1bWkzcjZ1U1I4SV85dFl6OENwRkhBbmp3eC12eVhaRzVCeHpvOWx3c3V4M0d5eDVjRWNjMUdVVlg5OFBHdW1ORFZKRF9uQmN3cEJaSkNYekE5U2FfRTljamtFSV9kbXFSbWEzRzFQeXBiMVluRHNVbVM5dFh4c2k3MkRLM1JB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "7b84de51ea33",
       "title": "Café impede sono profundo mesmo se você dormir oito horas, aponta estudo - Extra online",
       "published": "2026-05-28T07:01:43+00:00",
-      "summary": "Café impede sono profundo mesmo se você dormir oito horas, aponta estudo&nbsp;&nbsp;Extra onlineMuito café, pouco sono: pesquisa indica como essa combinação afeta o organismo&nbsp;&nbsp;Bem ParanáCafé pode prejudicar sono profundo mesmo após oito horas de descanso, indica pesquisa&nbsp;&nbsp;Tribuna do Sertão",
+      "summary": "Café impede sono profundo mesmo se você dormir oito horas, aponta estudo&nbsp;&nbsp;Extra onlineMuito café, pouco sono: pesquisa indica como essa combinação afeta o organismo&nbsp;&nbsp;Bem ParanáCafé pode prejudicar sono profundo mesmo após oito horas de descanso, indica pesquisa&nbsp;&nbsp;Tribuna do SertãoMuito café e pouco sono? Combinação predispõe à enxaqueca, sugere estudo com ratos&nbsp;&nbsp;amazônia brasil rádio web",
       "sources": [
         {
           "name": "Extra online",
@@ -350,78 +314,6 @@
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQd2prMzhTR3BkVnprWFpOdU42Wnk1OERhdFR5MzVaV1FISHFqQmxYaU9xLWxrazFFeHNVUURjSGs2d1dYaUpoZEpVejlLTXBEVXlGcmtZU2d5R3ZtR05wX3VxRXdPSDMzMnd1ZS1GY250S2FkRkJGYmFFb0w5UjRFTzRXVjV0b2pqeVVnV0VacVRMSTh1UVVyOEh2VEIxeHc0WkFwTWtjQ25sR1llaWhmYU1rZTVZQXRfYXh2U2pqSEFhLXdrU1YxOWszME4zenRtajlPSEQxRzI4ZTBvMjVMc3FZYl94S19qNlBIZlVB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "32b46e5668cd",
-      "title": "Mulheres recorrem a antialérgicos para aliviar sintomas de TPM e menopausa - Folha de S.Paulo",
-      "published": "2026-05-27T20:20:00+00:00",
-      "summary": "Mulheres recorrem a antialérgicos para aliviar sintomas de TPM e menopausa&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa3dLLW8xSmNOakN0ci00UmtVTEVhTHNWY192Qmk3Q2NtdV9xVDNNRjlaTDVnemdGWmJIZ1NlQWVWNFRQai1IN0ZOWUU2Mk8tQmFmWXl0ME5sS0VUdzJZM21YSkRHSVNpVmloV09wM1VsaExPa3VBU0xQOWt6MmgySk1RcmQ4c2EydzRmRThUNGpNdTRkRjNmRzZERHAxTGRrNlNUVFBTRGxiWUxfQmd5QnQ4aklSc293bUl6WDk0bjRNaU8zRmFyMg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a0367faf0461",
-      "title": "SP reforça vacinação contra febre amarela no ABC após vírus ser detectado em macaco - G1",
-      "published": "2026-05-27T19:34:30+00:00",
-      "summary": "SP reforça vacinação contra febre amarela no ABC após vírus ser detectado em macaco&nbsp;&nbsp;G1Vacinação de febre amarela é reforçada no ABC após caso em macaco em Santo André (SP)&nbsp;&nbsp;UOL NotíciasGoverno de SP reforça vacina contra febre amarela na região do ABC&nbsp;&nbsp;CartaCapitalMauá promove Dia D contra gripe e febre amarela após aumento de casos graves e alerta regional&nbsp;&nbsp;Prefeitura de MauáVacina contra febre amarela agora protege por toda a vida, mas há uma exceção im",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRlk0ZU41MjJ1SVpmQUd1elZDenNJdE13SHBSU3pMbEpaWmlRTC1YRXd0dGtBamk1VTg4WUlOeG1oQ1N3cmhWbzdpT1I5R0hvMkdBX3dnRWJ2NU9pRGtkV0oxMDBRRVg4NG9aUGxFdzl2ZUlrUzF3YVhCVXFVMFZjaXBfdUlrYS1IQjNlXzNtOVcxbG1GckJPWENmN1NxWERabVNpNEtpeFlYeGduLUFsNXZvcmF4dVViSEIyaFdZS1NZREdXanczd1hldDY4QnpfTjhSY1NwdkFVZ9IB6AFBVV95cUxNNkZudGNycFNWRHF2N2tHUnk4enowUE1KOXZENHZNN194Xzg5R1EwOF9fR0hzVExLaTlkOEZvdnNRUEQ2aVM5ZGJFTTJvdWUtWDIyRzRhaGdxMzA3NHpQQWpNcnVuYzVpMVp2N2MxTG5JRGJtMGx5bnczaDJRMnI5djVzUUo0NjhSN1VoNUozbURwSFI3QllDRnFYY2E4M0IyWGhONURhLVhxRldTcmkwRnhaRERUSGd6MFFrejk5amVidk5JbG0yM3NUaXZFT1B5MG5CNlRUODB1YXQyLUFHTjFjTmh3T2c5?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d1422dd76ded",
-      "title": "Médica aponta as frutas que mais ajudam a microbiota intestinal - Metrópoles",
-      "published": "2026-05-27T18:37:00+00:00",
-      "summary": "Médica aponta as frutas que mais ajudam a microbiota intestinal&nbsp;&nbsp;MetrópolesSaúde digestiva: 11 hábitos que ajudam a melhorar o funcionamento do intestino&nbsp;&nbsp;GZHDifícil resistir a um ultraprocessado? O que você deve saber sobre eles, na segunda semana da série Vida Boa do GLOBO&nbsp;&nbsp;O GLOBOComo ter intestino e estômago saudáveis? Gastro lista sete cuidados essenciais para manter a saúde digestiva em dia&nbsp;&nbsp;Jornal CorreioDia Mundial da Saúde Digestiva alerta para au",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRG02dTNvLTVZX3EtU2VRRGNoU3oyN0pwQ3pDQ256aGxrNVFVWXBsUnhocVp1THlBRTd5aGZMalI4U3pJdzFGdVJIcEVxdE9XWUZYSWI1SDIySVFHdHRySjdFYmFpc01OckJaSTNpRXE5RTZoc1dpTl9CdUZOdFctVGdYYjNfd0RjWlkzdVhwUlZTSjNOdUNobVQ4QnN5RzR3MHcwZGtNNnd0OXhCMEpibW5POWpfdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "077345e9dad7",
-      "title": "UNIFESP abre vaga para Professor Substituto na área de Psicologia/Medicina e Biologia do Sono - PCI Concursos",
-      "published": "2026-05-27T18:34:15+00:00",
-      "summary": "UNIFESP abre vaga para Professor Substituto na área de Psicologia/Medicina e Biologia do Sono&nbsp;&nbsp;PCI Concursos",
-      "sources": [
-        {
-          "name": "PCI Concursos",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdWMyQ2VhWjUzNkszU3RJQWEweHdKTW5Da1k0OTZoZjByWHpLNGlsUTdDOHRseU9fUFRmRkVWQjBsd0dhWnhWSTNvalhNYVdlZS15TU44VW1kUmpyUmlZc1RVeEFKLVVVRVN6dGRlWkFKOWNERHoyNDB5U2JGZkRZX2N2bk55Q29lbUVhQ1k4R1NQWXI3NkxDVklJNGtnMjk3UG9SMXhzem9nX3VZZzhrNll1OHhLaTVYOWR2Q1Q5Y2g5MV9SckVBQ3A2WG9KLUk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "327a3cb2aef3",
-      "title": "Saúde vascular no inverno: 4 dicas para melhorar a circulação e evitar complicações - GZH",
-      "published": "2026-05-27T15:33:28+00:00",
-      "summary": "Saúde vascular no inverno: 4 dicas para melhorar a circulação e evitar complicações&nbsp;&nbsp;GZHAVC e temperaturas baixas: Conheça os riscos e como se proteger&nbsp;&nbsp;TerraFrio deixa doente? Saiba o que é verdade sobre os efeitos do frio no corpo&nbsp;&nbsp;G1Nova onda de frio acende alerta para os riscos na saúde dos idosos&nbsp;&nbsp;Diário de PetrópolisBaixas temperaturas aumentam em até 30%&nbsp;&nbsp;FOLHAMAX",
-      "sources": [
-        {
-          "name": "GZH",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOTjRNS2JaSXRmWVQtMVh0dkNXaVNTMGZ0RlJTOUdLMnVSOFdva3F2QVR1b3U5QjhiVkZpbGFjM0tiM05zZ2FlcnRXSXg4OFcwelFzTTZRSVdPd2xQbWFQdDl4bUhUYkNYRm1iaHVFSWUzOE9rc2N4SWNZTkg5Q3YtMy02QWkwRG0yLW04NG9pdy0xNTJOaEc4WFBZRmhmcU94U18yUXdVOTUxNFZ5V2tvZjlBU3g5V0kyX3oxOVNBVENBUlBFMHVncWhVNmdmNjJ2MGtIckVGRUpMRnp3a3E5bDYwa0xSTVhUd0FWVzlGdjJtd1hkSklBNE4wbw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "542feea2014d",
-      "title": "O principal problema de ficar isolado com o mesmo grupo de pessoas, segundo estudo - Globo",
-      "published": "2026-05-26T19:59:23+00:00",
-      "summary": "O principal problema de ficar isolado com o mesmo grupo de pessoas, segundo estudo&nbsp;&nbsp;Globo",
-      "sources": [
-        {
-          "name": "Globo",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPck9aZ2NsV21ZemNUNjFCcE1qLU13b0RobElJMHpqakFxX2lXamZzSXNISHpReGJoM0Q3RE9TWEhpS05hT1V1bUpqdnlwby13SDZKbFZRODZwYnBVSkFJSDVCRHVDN3lwUnkxRUlvVXhfSnhRTk4zYWp6T2JsYmQ5UnRlM2E1WFduMHZwSGQzcDVDanpudEhiQlBzM19wUVV0U0IwVGV6NjBKNTdEVkRxa2VubVhXREdNd2RKcmZxMmdDTEYtUDRxR19BbElwdk1sYjMzc2JlTWlLd9IB6AFBVV95cUxNOTFoaDNLdFlQVWM0UTV3Nmg0RDA4VzJqVHpmamR1TEUtQTFfMVdEMlhKWktQY2tfYU9Wb0hzTEtycUNsVndPYTMybEFqUnFQdmtqS3hvLURac085UnRnUlFVY0VtbURiZkFEV1JkSlpLam1tTnk2bVUyQlVlTjFSQk5mX1VQVkZCSk9VWjNKZExSYVAzekxsdEVGUkF2SnRMT2tXTUtMWWJIQWRreFZSU1hrSHNneW9IX2JaM2Y2Sjk0ajNLS0FaRlZySUdFdThDMVVIWWhZSXRwOWxRcHdISUJmUG9YU0RL?oc=5"
         }
       ]
     }
