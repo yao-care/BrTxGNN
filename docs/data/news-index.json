@@ -1,7 +1,283 @@
 {
-  "generated": "2026-05-29T20:28:19.487685+00:00",
-  "count": 33,
+  "generated": "2026-05-30T03:37:26.531964+00:00",
+  "count": 36,
   "news": [
+    {
+      "id": "43c140d9cf9a",
+      "title": "O acidente que levou farmacêutico a inventar os palitos de fósforo",
+      "published": "2026-05-29T23:39:33+00:00",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB3TzVhMndIam9XSjN3YkV3YTVkd09EVXp1NGJLUGotUVdUdXFzZ2Q0OW96dXZUNFh2TjF0VXBfeDdyeHM1RllqbXp6b05abnRqUmVCOEVuSUZmbGc5VmxEY0hB0gFnQVVfeXFMTWpSTk5nVnNoUWhzcmhvVEM3NERoV0pFZmxjWHNyaVVsNTRlVmJfVFZ4Z2p4OEhvTnZQRWQ5SGNBTm1mWlEtYlYyMnFMZUJSNEFJR09mdS1OcHJMTzNXOXhHS3ExcTJCRQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "praziquantel",
+          "keyword": "FAR",
+          "name": "Praziquantel",
+          "url": "/drugs/praziquantel/"
+        },
+        {
+          "type": "drug",
+          "slug": "zidovudina",
+          "keyword": "FAR",
+          "name": "ZIDOVUDINA",
+          "url": "/drugs/zidovudina/"
+        }
+      ]
+    },
+    {
+      "id": "3f72ec22db64",
+      "title": "Tronco fóssil com vestígios da era mesozoica é encontrado em Jaguaribe - O POVO",
+      "published": "2026-05-29T23:02:00+00:00",
+      "sources": [
+        {
+          "name": "O POVO",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeDhOWWZJVHFsSE12cWFuRzh0YUNLQThIT3pRWGhDeV91V19qVHJRTktyMVIydFBUUXFPZ2lMS3lBX21EWUlDVkprRmxESzZ3cUszNFRiMWVTN2ozaElXS3IxbkpicUJhLUdWM3Q3RXprY25ESEc5dWF0amFONWpsNlJwaHJ6cWlHZEZwVDNTRG1hR1QyTWRvNm0wWVZqQ0tKRFdaX3pVZGd2V3ZuTTZNbDJsSTN2ZVp5SEFrMUNjWnBybWVoa25jU3IyLUE4ckg5alE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
+      "id": "0cfcd5a68cbd",
+      "title": "O degelo do Ártico está expondo um cemitério com séculos de história e revelando uma verdade brutal sobre os primeiros caçadores de baleias europeus, 95% dos esqueletos encontrados na chamada Ponta dos Cadáveres mostram escorbuto avançado e - CPG Click Petróleo e Gás",
+      "published": "2026-05-29T22:28:00+00:00",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQR0wyWkpscGdDWVlsbDhpNXBIVUVxMmdVYVlsWU9VcnktbE83MVQ4MU5VNVJaT0lEWWEwZU9Gc1Yzay02OTEwY0xEOFAxVjBGdDRfX2VXMmNsVzI4S2FSRjV4a0lKa0lFRzcwTUc3dkhnQjhtWnNhRlVKVjY3XzAtY0VuLTRsU05CZjVLbGhOeDNyQmpHdnR0THg3VlFGbmtoY0liemZLczNCcGkxeXlDRUJMSXFadURuay13cE80RDFhSEp4a0FpLWN3ZGk5RHg0SHhjMUhZTnVvczdRc0RVQjVaV3VBSGw5TFdZUndNU1pJVGljM1M3TDhMWEpKbzNBbnNHdzNqZmViRjF4WUI1ekFmcy0tcm0tSVZTMkJsbWg5Q3BVNHNhNnIzNlRreXFXeFRDV1ZlRTk5bVowTHc3MHRQSGxNYmc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "etodolaco",
+          "keyword": "DORE",
+          "name": "ETODOLACO",
+          "url": "/drugs/etodolaco/"
+        }
+      ]
+    },
+    {
+      "id": "91bfc3643b66",
+      "title": "Com encerramento da campanha de vacinação contra gripe, Estado reforça importância da imunização dos grupos prioritários",
+      "published": "2026-05-29T20:24:00+00:00",
+      "sources": [
+        {
+          "name": "saude.rs.gov.br",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQb2lIM21VbTA5aHJjWk54ekdMYXNNYWhNc2ROR05aMzVIMEtwMlN2MnlaYjJ6UmoxWmlGaHQ5dW90ZzRkTF9lcEFsdmQ4ZlJibThraE9xZ0p1X1Jrc0FXenZKT2NSekFmd3JleTZOSnJaRUxyQU1QLXN2WXNTaVZzRDdPSWM1bWRsZ1lXRTdDZDhDN2RaWEd3LVRSVUdzLUk1aFJfa0F4d3Q3dFQxaEd1d2FoaFpzZ0kwRjl2c1ptOTByX3p0bzZOd3pWaERVRGtObEdsQm83QUNnVk0?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "diazepam",
+          "keyword": "UNI",
+          "name": "Diazepam",
+          "url": "/drugs/diazepam/"
+        },
+        {
+          "type": "drug",
+          "slug": "zinc",
+          "keyword": "UNI",
+          "name": "ZINC",
+          "url": "/drugs/zinc/"
+        }
+      ]
+    },
+    {
+      "id": "eb8b5344aa48",
+      "title": "Vacinação contra a gripe continuará no Paraná para atingir grupos prioritários - Secretaria de Saúde do Paraná",
+      "published": "2026-05-29T20:16:00+00:00",
+      "sources": [
+        {
+          "name": "Secretaria de Saúde do Paraná",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSEg1aGZncFA4TlBSMVlpQnVibTJFR0plM2RMY3g1XzZVR2ZHYzQ1QWJjRWNIX0RyMVRITGpPaU56aFZvSnZ4LUd3MkNrSC14ckkxbUY1V3BOTzZRRFFuM1dvQ3pCazZFSVNqel9UVkczM0M2SzNFN0kxZlB1UEdwbVkwenM0c20yRkhEN191Sk5yeGRQZVRmazE5ZjNBb1JYY04yTXdoZno3WUgwb1BZRG5R?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "diazepam",
+          "keyword": "UNI",
+          "name": "Diazepam",
+          "url": "/drugs/diazepam/"
+        },
+        {
+          "type": "drug",
+          "slug": "zinc",
+          "keyword": "UNI",
+          "name": "ZINC",
+          "url": "/drugs/zinc/"
+        }
+      ]
+    },
+    {
+      "id": "84baa5d925a8",
+      "title": "Cobra mais venenosa do Brasil usa arma psicológica que aterroriza predadores e inspira imitadoras - Diário do Litoral",
+      "published": "2026-05-29T20:07:00+00:00",
+      "sources": [
+        {
+          "name": "Diário do Litoral",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPN3FvUHRubS1VMzM1UTVUb1p2N1Iya0tQX2hUaHBHb3Bacms4bE1lME5zRlRBMjBleXh6czFmWjROdnh1TlZ4MWlRSXFQZDZ0anp1Z0x2S2lfRXM4ZHA3QVVoRlhjOXR6cG5TU2pRMDlOVHh1eThWTnFBSWNNZEppME5DNDJZVjRCQ3M1QXJEYkl4aEJLQmtDVm9RZHVZS0lyell0bEpERnB2dmRlNldGaF9Pd3pzVGdkamFjUDdaUXFLbVFjX3FLaENnc2RFS2ptX29hcHAxU0NDT0E?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        },
+        {
+          "type": "drug",
+          "slug": "etodolaco",
+          "keyword": "DORE",
+          "name": "ETODOLACO",
+          "url": "/drugs/etodolaco/"
+        }
+      ]
+    },
+    {
+      "id": "4aec5f10706a",
+      "title": "Fóssil encontrado na Argentina revela dinossauro que se parecia com garça",
+      "published": "2026-05-29T19:22:10+00:00",
+      "sources": [
+        {
+          "name": "Globo",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUHZocHJlbEZRNHRKR1RtODZudmF2ekd5NUMxNGt3dHBXbHZjdnRGak93NjNwV2gyYk00VUYyNndfZkpYTUJ5UGNIYjNtQjFZbGZRdEhUU2VnOG4zck1qajVGTzhKWERhZ081WW5UN0NTZnBVRWZEQnFrQkNXcmF4NTZsM0U2SGVhQ29wcHYtNTUxMGYwMWFCMi1HTjRaMFRzNzNWZEF6QkljaXhjT1ZBbW5WYWJybTdWZ3cyQ01ZTFRSSUJ3WVVwcFFBbUQzVW5nZ0HSAeABQVVfeXFMT0RaMGRtUENSSEk5OE5wbjVJUDVwOXVQc0dod1JXY0NsUnVFd3M0VTctaTdKLWhlSk8yOWxFT056Y0F0T0hELTctWndacGhCOGUxNDBuV0NsbDJHdXk2aVRCLVZScWxDbDFDaVA5eFhBdm1BNm9qaVBrTm1ycEJvOEpVX2k1UnhZbWduS3BRWXZrV3BMR3RuZmxac0JxTFlWYUtoLVBjazAzQnoxWFdRY0VDbEtlMDZuUTY0UDN1YW9UMHNudTU4bU1OVTE5Z0ZOdmloeUg4UzlKcmRrYTdMY0Q?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
+      "id": "260dbaa6953d",
+      "title": "Apesar de concurso e nomeações no governo Lula, autarquias de segurança nuclear têm déficit prolongado de servidores em áreas estratégicas - Brasil de Fato",
+      "published": "2026-05-29T18:35:00+00:00",
+      "sources": [
+        {
+          "name": "Brasil de Fato",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOUkdxTEotcnY1dkJxeU1mYUY0TTh4SmNFVmRrcUhwQXh5bFI5NklyU3BHUUYxTVI3Q25wcFlOR0s5eEx5N0U3X3hkR0lrM0FwcUpiaXFMck1iUUdFSWZFU0s5ZXdtVzMtWjdJNTNpNUlacUZtbktHNk00ZmFWRE1xMXJ4MzlxU2dIVjhQd1pWQ192ZnIzeWd2ZkJoRWoyNWZ4SlFDMEdpWDdrRjJYeHJ0bnpnVXdvckxZV3c1b19wRTFpaV90QXpyZlphVmkxWTVkUUJvZi1zNjkzTmYzSThhN0JxLXhWMXhzUm9TUU0wdDhWc0N3WVQxU0ZPQzNDWklDaXBZR2VOVGtjWFpTYUE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        },
+        {
+          "type": "drug",
+          "slug": "etodolaco",
+          "keyword": "DORE",
+          "name": "ETODOLACO",
+          "url": "/drugs/etodolaco/"
+        }
+      ]
+    },
+    {
+      "id": "cd1b7571a9cb",
+      "title": "Em epidemia de dengue, Taubaté confirma quinta morte pela doença; vítima é mulher de 56 anos",
+      "published": "2026-05-29T17:59:30+00:00",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOMVFORFpWOVhLQTkwUEtUNVlmTFVVZDdDalBvcWtnSkc1VnRORTRtOWNsWUhwVlVQTXRiN3FkcTBVdnVXVzVTdUZvUVhxVWxudnZJNTlFRGRVZW0xR3BidGhiaWtiV0xucjdLMXY4bWxqMXJael91b0JURWNka1pJcnBiVHRUTmJNUm1KUDRMVjh1QUtsSVV3cXFfUGZXWjRPZ0tuTV96YmtiNWlFUEZxQ3Z3R0RKN2h5aVZ6WGVGaEM5cW1nNXhKUUQ1MzgtbUZTSzVWOXFxU2xlWUw3YWR5RGxLZi0wVzktVVdaM3JCTkttZV8t0gGDAkFVX3lxTE5LMmR5MlJURkZsRXJQUXNKM2wyZmNwcVBSLUdoVzBDUVhEWnkxdm13Wm1sZ2RVY3FaQ1ZiR1RoR1Y4LXhJWDRiOGFTaWJPMExUcTZTSWZTcFVSdWFwWE1JZXJKeDlwcThZcHpIZkxZZk51TjlidWRrMl9WVEl6M0RmbkJaUWNwTFM3ZFF6MUtva0NLR0kzcXMxajAwa3BlWmtUSXdEeXlNOHJhZUNDbHFHYkVWclkxX05Na2xlNWVVZnlPdFhRcXdZSnZkWVVpdEJWU2xNQ0JGbWUyZGtQRGdXeFlVSVFfVlpIVm1Ra0tDREY5QkpLcXA2Tm1Pb2lKUjdLX0U?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "diazepam",
+          "keyword": "UNI",
+          "name": "Diazepam",
+          "url": "/drugs/diazepam/"
+        },
+        {
+          "type": "drug",
+          "slug": "zinc",
+          "keyword": "UNI",
+          "name": "ZINC",
+          "url": "/drugs/zinc/"
+        }
+      ]
+    },
+    {
+      "id": "952f94de3c68",
+      "title": "Conheça o aplicativo que funciona como anticoncepcional e acaba de chegar ao Brasil - O TEMPO",
+      "published": "2026-05-29T17:31:49+00:00",
+      "sources": [
+        {
+          "name": "O TEMPO",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQ3F6cmVRZzVBQXhaTkxlNEdhbFZOWGdid1RZQS1KM2tJNzhkQ2JtbnJKdUhGdmxQTUluUTJkaURJWm9LSzlxZVlzY1l4dXJwcFRESXNsTUQzcE1pU2hoaVliZmszRi02NjZObUJ6WWZ5bktPRmUxd2ZXdzNfSkNRdnlTOE0xZWZCYlIwd3BIZGRPdzZ2YWFDVmpyNHJVNXdnb0lLd0dRR2h6eTNheWZEd0ViOVpnQVpBMXFZbFk4WmVrU1FtZWZMdkljVU10X0RyV09Z?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        },
+        {
+          "type": "drug",
+          "slug": "tadalafil",
+          "keyword": "CIALIS",
+          "name": "TADALAFIL",
+          "url": "/drugs/tadalafil/"
+        }
+      ]
+    },
+    {
+      "id": "1d2083b6b82d",
+      "title": "4ª Olimpíada Municipal de Foguetes transforma ciência em espetáculo educativo em Lucas do Rio Verde - Prefeitura de Lucas do Rio Verde",
+      "published": "2026-05-29T15:39:00+00:00",
+      "sources": [
+        {
+          "name": "Prefeitura de Lucas do Rio Verde",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcDhWLVl3RGtLTzh5Y0FYendUVFFMNXdlbkJ0X2FuRU1KSExuZURLdUpZMldsZzdFZk1FbnVsajR3TURSY1JKMjZaRE1RSFF4WUdrNDBVUlVOSUF4YmMydm5mQkpSYmZVZnhVMlpVQldsV0VxMHhzS00ydVdDeGVEWk50T2FhSUJQdUxUNnZ3WTgtLUNaVnc0ZktwT3VUWks1bldsVXpKaEY5NUhlZGpwZVNmLU9wZ2plcFVvUGVtOGdXWVc4NW9JOVRoWkExV0lRUFFBTklTR29EcE9HOEl0ZG9hd21ueWJMN3BhS0Z3?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "diazepam",
+          "keyword": "UNI",
+          "name": "Diazepam",
+          "url": "/drugs/diazepam/"
+        },
+        {
+          "type": "drug",
+          "slug": "zinc",
+          "keyword": "UNI",
+          "name": "ZINC",
+          "url": "/drugs/zinc/"
+        }
+      ]
+    },
     {
       "id": "fa7f0969658a",
       "title": "O lago mortal no fundo do Golfo do México que parece água comum, mas mumifica criaturas marinhas em silêncio - Revista Oeste",
@@ -46,6 +322,53 @@
           "keyword": "BIO",
           "name": "ETANERCEPTE",
           "url": "/drugs/etanercepte/"
+        }
+      ]
+    },
+    {
+      "id": "feb0fad06817",
+      "title": "Por que fisiculturistas usam insulina? Entenda riscos da prática e perigo de hipoglicemia - Diário do Nordeste",
+      "published": "2026-05-29T13:30:25+00:00",
+      "sources": [
+        {
+          "name": "Diário do Nordeste",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRkJuN3NTWENkbTBxQUZQZGRiaFZUZjZDa25NdkVfU1pmekRrQ2hKZDNtRHY1RV8yMVpCSEhKSTAxdlZjRTktczdzb3dDUlZ0TkR0anhyX2FjLUwzcEJZOVkzbk5ZcFkyd0thS3E5aVJlVEFCV1BqNC0yWVBlRkVRU2Q2ZDd2cEp3YlUycjdlZHNVenRUaGc2R0VOWlJudDhzaW0yUnppb2dPRXhVNWxpeWx5c3JNd0FXSkdhMERHQ3VseXA4a0tSU2FIZllKamh3MGtPdnpvOHA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "levetiracetam",
+          "keyword": "TAM",
+          "name": "LEVETIRACETAM",
+          "url": "/drugs/levetiracetam/"
+        },
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
+      "id": "279b1406cc2a",
+      "title": "IBGE AOS 90 ANOS: O DESMONTE SILENCIOSO DA INSTITUIÇÃO - ASSIBGE – Sindicato Nacional",
+      "published": "2026-05-29T12:16:24+00:00",
+      "sources": [
+        {
+          "name": "ASSIBGE – Sindicato Nacional",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbE1NdmpGS1pkSTV2amRFc29yTjNGb1AxZUhZMkhrb0VvYlV2Tk05YVFXMldyQ3F1TnpuVzYwYThORDBoRHROTmlqSW1jekZoME9kSkRwd2lrXzA5V2llLUN4cDItXzZaZUJNY2hkWElRdmlhUTdLTVcwT3RzZlo3ZEtwZw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
         }
       ]
     },
@@ -111,6 +434,26 @@
       ]
     },
     {
+      "id": "e53baf634def",
+      "title": "'Ginecologia de rede social' coloca saúde íntima em risco? Especialista explica",
+      "published": "2026-05-29T07:01:48+00:00",
+      "sources": [
+        {
+          "name": "Gshow",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMjRBWkVrRWRBRm1pM0p5WXI4bzlydWdvNjJZTzZLR2RweUFLWk1hT244cDNrZFV0ZnZzT0hfNmhJSTdvQzJBRTdwejBIZVR3aHBWX1h3cTV2YU5vUWpFRWVUY3ByQ1c0d2R2aWs2U2stWlhuWXM4c29LYXVlZEhFY0ZaUExzSmk0Q2IyRHBud2RRZ2dZaVdCblIydlFLYUpwc2dueFZxVlpHYi1YeDVkeGd3YUlYRFc0QXhNOTVHNzFoa290VVlSMzlGX284TkHSAd4BQVVfeXFMTWV2ODJveHJjeUpJS0huc2Fta3dKMVVyUGttbUE5QTJXMUFOVE8xbE1HMXpub0dXd0N1VVp5MzdNVkdvWHhfTGpVcGlRVlROdmxqUjNoS2hsdnBLbjExUDJ5em9UYlBCRnRDSkFENWxKYmQ2dHd6SlBTSlk5UTNySDFZQWJvWHc0RHdWTko2ZVBRekdkS3NvREl6MjFMcDRMcXhQdDNZMmVzYUFRMmlyZzV2cS1kMUMtN3JBTWluSThEOXlfRkxlMVM2R1hQaXpWWDZQT05EYkpKbld5RHlR?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "tadalafil",
+          "keyword": "CIALIS",
+          "name": "TADALAFIL",
+          "url": "/drugs/tadalafil/"
+        }
+      ]
+    },
+    {
       "id": "1bd1f54c15a8",
       "title": "Endometriose pode ter relação com enxaqueca e ansiedade; aponta estudo feito com 1,4 milhão de mulheres - O Globo",
       "published": "2026-05-29T07:01:33+00:00",
@@ -121,6 +464,13 @@
         }
       ],
       "keywords": [
+        {
+          "type": "drug",
+          "slug": "levetiracetam",
+          "keyword": "TAM",
+          "name": "LEVETIRACETAM",
+          "url": "/drugs/levetiracetam/"
+        },
         {
           "type": "indication",
           "name": "anxiety disorder",
@@ -230,26 +580,6 @@
           "keyword": "TADA",
           "name": "TADALAFIL",
           "url": "/drugs/tadalafil/"
-        }
-      ]
-    },
-    {
-      "id": "3d34068c1a64",
-      "title": "Empresa Australiana Inaugura Centro de Pesquisa e Processamento de Terras Raras em MG - Forbes Brasil",
-      "published": "2026-05-28T22:14:56+00:00",
-      "sources": [
-        {
-          "name": "Forbes Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNktPbTBPRWUtcWdoOTI1X1VoRm81TEVfSF8xaFdkVzNCU0Y0Z2EzX05WQ01OSjViSTlXc3BNVzQ4QjZKVEhEMlpPNFEtN1U2U1BnOW5ydE5zTlpDbWE2MUx6NWtSNFpwVGlaQ2tpZUpMNWZpOHR6WTRURkM1X3pLbEswR1ZGa3dqdFBacnpJdmgzX29LSzA2azZqVUd5ZnlyRTBscl9PYUpOdWY4Z3JrTzYwNlM5N3ZPXzZGUHBHaDNQTHFiRUhTWg?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
         }
       ]
     },
@@ -1126,33 +1456,6 @@
       ]
     },
     {
-      "id": "8b53c5e48475",
-      "title": "Zuckerberg e esposa apostam em IA para criar proteínas e novos tratamentos - CNN Brasil",
-      "published": "2026-05-28T18:53:21+00:00",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLTVOVTQ3X1RQaWIzWEZ0NFFLbTY5Q2ZWQXR0NkstZHd1X19YNzFxZTI5UllhcnNtU1FsU3ozTDVNNjFmdjNmZVVqdFIySkJpMkhVMVpZWjBYZldTTzF6Z2dLZEhsNnM0MVdNTk44Q3hqam9FVU1rMXR2SUd2R2tTUTI0NUdvMXkyUVFtTGl6MEZhQVY5a3ZSU3hTR0htV0RqblJSS0FGYW5uVEZtYnNj?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "levetiracetam",
-          "keyword": "TAM",
-          "name": "LEVETIRACETAM",
-          "url": "/drugs/levetiracetam/"
-        },
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
       "id": "fcc6ec53ca0c",
       "title": "Sotheby's vai leiloar fóssil de Tyrannosaurus rex estimado em R$ 152 milhões - Folha de S.Paulo",
       "published": "2026-05-28T18:00:00+00:00",
@@ -1173,54 +1476,6 @@
       ]
     },
     {
-      "id": "9efd55393aab",
-      "title": "Idoso com problema cardiovascular e esposa precisam de ajuda em Corupá",
-      "published": "2026-05-28T17:45:59+00:00",
-      "sources": [
-        {
-          "name": "fm105.com.br",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMUlacWdMUVp6dW0xRkNGZVBrbERTaV81N0RRbnRlUE9sOUlpTTdKQ0RWWFE2RFpYTXVTbTFZYTZTQmlUZWdxTHhGc1N6QWxIempqc3NVQ3RjdWFnOTI5SVJfSFBrclFRU1RNUFBXZmZCTEpSYUI3TjNoRVVhNEt3V3gwRWZlRlljYkhOOFRGUGx6VS1VcDFhWWFnZFk?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "cardiovascular",
-          "related_drugs": [
-            {
-              "slug": "travoprost",
-              "name": "Travoprost"
-            },
-            {
-              "slug": "thiamine",
-              "name": "Thiamine"
-            },
-            {
-              "slug": "tenecteplase",
-              "name": "TENECTEPLASE"
-            },
-            {
-              "slug": "alteplase",
-              "name": "ALTEPLASE"
-            },
-            {
-              "slug": "ticagrelor",
-              "name": "TICAGRELOR"
-            },
-            {
-              "slug": "tocopherol",
-              "name": "Tocopherol"
-            },
-            {
-              "slug": "gadobutrol",
-              "name": "Gadobutrol"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "654e20fe8f62",
       "title": "SUS vai ampliar proteção vacinal contra doença pneumocócica - Agência Brasil",
       "published": "2026-05-28T17:25:00+00:00",
@@ -1237,52 +1492,6 @@
           "keyword": "SIL",
           "name": "SILODOSINA",
           "url": "/drugs/silodosina/"
-        },
-        {
-          "type": "indication",
-          "name": "pneumonia",
-          "keyword": "pneumonia",
-          "related_drugs": [
-            {
-              "slug": "ganciclovir",
-              "name": "Ganciclovir"
-            },
-            {
-              "slug": "clobutinol",
-              "name": "Clobutinol"
-            },
-            {
-              "slug": "tazobactam",
-              "name": "Tazobactam"
-            },
-            {
-              "slug": "oseltamivir",
-              "name": "Oseltamivir"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "infecção pulmonar",
-          "keyword": "pneumonia",
-          "related_drugs": [
-            {
-              "slug": "ganciclovir",
-              "name": "Ganciclovir"
-            },
-            {
-              "slug": "clobutinol",
-              "name": "Clobutinol"
-            },
-            {
-              "slug": "tazobactam",
-              "name": "Tazobactam"
-            },
-            {
-              "slug": "oseltamivir",
-              "name": "Oseltamivir"
-            }
-          ]
         }
       ]
     },
@@ -1314,46 +1523,6 @@
       ]
     },
     {
-      "id": "3260cdfc7ae7",
-      "title": "Vacinação contra gripe na Central do Cidadão em Campo Grande - Campo Grande News",
-      "published": "2026-05-28T13:55:00+00:00",
-      "sources": [
-        {
-          "name": "Campo Grande News",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNVBpa0J2UTYwRGhGYjVDblhNOWd1XzJnOFVCYjd1MGVxbWRMZm15dHJwTW56TG1jX0x6VUZQMWxqTlpBTTU1X0lfYUR5VTRFcU5wYWM1UUdVZ0xwbGEwOXlPcTd4T2ZFZUFEX0lpNnVoSkRRQ2c2RHpFNGoydGR5Uzl4dWlhaFdDYUxJNG1EOGk2dzR0aWpmcHhnbW5RZDIxaXBWc3VlSmhlODZEcEg1aG0xLTdvU1ZialFzbk53RnlMd9IBwgFBVV95cUxNNEszUmdBMWcxaFNuRV9JYTNvSUdxOHdvSXFZc3dkcjhyTktfdHNqUmV3SUtRQmdqVjdiM2pwVDMzZGdTQ09JWlU3RzZlVGFOWEFhdTVtOFp4dXVmQTUtRnotQTd4NE1kUDlsVVZLbkc5dm8yZ3BPNHB6MF9CdjhGdjMwd1pqUU1OT3F1ZUYwUmwzRE1oRG9oZWFQMkQtNm50cklScVBUVWxZYTFOaE1VMlYxOEJrQW1TYW9wcUJQbjM4QQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "etodolaco",
-          "keyword": "DORE",
-          "name": "ETODOLACO",
-          "url": "/drugs/etodolaco/"
-        }
-      ]
-    },
-    {
-      "id": "21d857ae518b",
-      "title": "Estudo associa ômega-3 a menor comportamento agressivo",
-      "published": "2026-05-28T12:15:44+00:00",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRHludERuM3R1ZkVEZmNudFU4Sm5IYnI5akx6cUdPdFpvUExHWlZFai0tTEw3UnZkNlhZVWlRc01iNWEzWXNTS2JWWHBzSVZLa3BSM0hfQ2JISE5EZ2FZWXZZbUdkdmtySHVDazNZNk85ZmJMd3duYWJDZDVMX1hYRWk0SjdxTjNiRVRnQ2hhdnZzd0s4dnRCdTZYeXJyMi1BbEgxdzkxTl9aQmdMTGhLekIzWEhwa2ZFb0wwZWNPNl93Vzl1?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "levetiracetam",
-          "keyword": "TAM",
-          "name": "LEVETIRACETAM",
-          "url": "/drugs/levetiracetam/"
-        }
-      ]
-    },
-    {
       "id": "25f9aff1c7bc",
       "title": "Como o raro tatu-canastra atua como engenheiro biológico ao criar abrigos vitais para a biodiversidade da Floresta Amazônica - Revista Amazônia",
       "published": "2026-05-28T12:12:21+00:00",
@@ -1377,74 +1546,6 @@
           "keyword": "BIO",
           "name": "ETANERCEPTE",
           "url": "/drugs/etanercepte/"
-        }
-      ]
-    },
-    {
-      "id": "d55b5b293148",
-      "title": "Diga NÃO ao pacote “Dia do Agro”: em defesa da biodiversidade e do futuro climático do Brasil - Petição Pública Brasil",
-      "published": "2026-05-28T11:51:15+00:00",
-      "sources": [
-        {
-          "name": "Petição Pública Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Dektac0FqcFhnampIOHRrYzN6R1hrbVNzMGt5QXJZYTBhT2xsMVIzSDgxUThrRUItb0VrRy1nMktwTDMycXZHZ3N1X2ZCb3c1cXI1MW9lVnRsVHhEMXJYMnpn?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "golimumabe",
-          "keyword": "BIO",
-          "name": "GOLIMUMABE",
-          "url": "/drugs/golimumabe/"
-        },
-        {
-          "type": "drug",
-          "slug": "etanercepte",
-          "keyword": "BIO",
-          "name": "ETANERCEPTE",
-          "url": "/drugs/etanercepte/"
-        },
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
-      "id": "bc97067c93a8",
-      "title": "Quatro Pilastras recebe 2ª Feira Fermentamóvel neste sábado - UFV – Universidade Federal de Viçosa",
-      "published": "2026-05-28T10:35:24+00:00",
-      "sources": [
-        {
-          "name": "UFV – Universidade Federal de Viçosa",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZXIwWldwdHZwWkZnS2Z0SXd1X1l6d0ltMVZwT0JIM2VPd3d0ZHdRUkJtS19ocWRkZVJCcTRudC1NNXJVVlVKR1djdHowbmthVk5NN3FZV2NkQUVvSlNJYjBkdk11bVVYTFIzU3VtdTBZNm1waU5nRkM1ZlJlcW9DY2VFX1VWb25zRU1DdlQ2Zw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "levetiracetam",
-          "keyword": "TAM",
-          "name": "LEVETIRACETAM",
-          "url": "/drugs/levetiracetam/"
-        },
-        {
-          "type": "drug",
-          "slug": "diazepam",
-          "keyword": "UNI",
-          "name": "Diazepam",
-          "url": "/drugs/diazepam/"
-        },
-        {
-          "type": "drug",
-          "slug": "zinc",
-          "keyword": "UNI",
-          "name": "ZINC",
-          "url": "/drugs/zinc/"
         }
       ]
     },
@@ -1523,60 +1624,6 @@
       ]
     },
     {
-      "id": "7b84de51ea33",
-      "title": "Café impede sono profundo mesmo se você dormir oito horas, aponta estudo - Extra online",
-      "published": "2026-05-28T07:01:43+00:00",
-      "sources": [
-        {
-          "name": "Extra online",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTU5kdV9tVEJZLTdSU3NtMUp3TnBIQlFMc0tDZFk5VzUxRWZ4SUxOOENGdms3RHJlZVlfVktVWmxEMGQzVXlSbWg2eDZOV2ZpSkp0T2U4VGhUVEJNc25LbVhHYVlsMXZfaHRDeTQzdldVVFZhMXp5emx3YXBYd2xxQ2VSUnRZSzRIdGpXelF0RVJremphZmZnRzhHVkxhdlNEd1pTSVNBUWJXaml0QjZZZWhFNWlHdEJOMUhGM2UzU27SAc8BQVVfeXFMTWVoOGN0a0xlMEkyTEFkbDBESXN4c2JlTDZhNktfcnI4SGhjSHdRdURHMWstdDllSXh0SXpqT195aWJUSGZkMlliVVJKTUs5TGlvLWlwU1NabHU2M2xBS1FfUGVDRTdBa0VtYmFVQlZhdXQtN2xwT3FtXzBNT2F1TVN0bmYxREc0cEZObmlYTEJndUNONDdETGd3cEo4T3ZKeUpPX1YzeEluWWJMS2lZNklPQlpYTkQtMW1WR01TYkY4blUzb0hKN3lSZl9uVU9n?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
-      "id": "369530eb328b",
-      "title": "Municípios adotam canetas emagrecedoras antes da incorporação nacional pelo SUS - Folha de S.Paulo",
-      "published": "2026-05-28T07:00:00+00:00",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQd2prMzhTR3BkVnprWFpOdU42Wnk1OERhdFR5MzVaV1FISHFqQmxYaU9xLWxrazFFeHNVUURjSGs2d1dYaUpoZEpVejlLTXBEVXlGcmtZU2d5R3ZtR05wX3VxRXdPSDMzMnd1ZS1GY250S2FkRkJGYmFFb0w5UjRFTzRXVjV0b2pqeVVnV0VacVRMSTh1UVVyOEh2VEIxeHc0WkFwTWtjQ25sR1llaWhmYU1rZTVZQXRfYXh2U2pqSEFhLXdrU1YxOWszME4zenRtajlPSEQxRzI4ZTBvMjVMc3FZYl94S19qNlBIZlVB?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "levetiracetam",
-          "keyword": "TAM",
-          "name": "LEVETIRACETAM",
-          "url": "/drugs/levetiracetam/"
-        },
-        {
-          "type": "drug",
-          "slug": "diazepam",
-          "keyword": "UNI",
-          "name": "Diazepam",
-          "url": "/drugs/diazepam/"
-        },
-        {
-          "type": "drug",
-          "slug": "zinc",
-          "keyword": "UNI",
-          "name": "ZINC",
-          "url": "/drugs/zinc/"
-        }
-      ]
-    },
-    {
       "id": "23b6eb2d61cc",
       "title": "Baleia percorre mais de 15 mil km entre Bahia e Austrália e quebra recorde - CNN Brasil",
       "published": "2026-05-28T06:37:17+00:00",
@@ -1593,53 +1640,6 @@
           "keyword": "SIL",
           "name": "SILODOSINA",
           "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
-      "id": "91f152f5f446",
-      "title": "Os efeitos alarmantes de um 'El Niño Godzilla' sobre todo o Brasil - Valor Econômico",
-      "published": "2026-05-28T03:01:22+00:00",
-      "sources": [
-        {
-          "name": "Valor Econômico",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ3pwX21yVFRJdEdvdVNudWt5RWNWc3NmSGtVdlU3Rm01eEN1aUh6aTc3N0hNM3lZQVgtX3B3SzhnckplbXliSEkzTHExYzJaMTlIamVWZEVRV3dYRUtzSXd2dTZ4a1hBN0UySC1Wa3BlTGsya1ZmOWloalhXRkdlSm9yM0dqSlJpbkpMVmtIZFJoNjFmZTg0bDcyME5RUmlKdE5hZmRqZmtCaTZGNUFEdV9XQlJmU2NyT1p4Y9IBywFBVV95cUxOenFaS05WUWJPTGhRaFA0QVlhMnBMSUppSGhmVzVkWTlZSVFtazliSWVNaXFIUTgydzdlSE5pVnFqSlIzdnIxejVPeHhOS0FXS01vYS02bk1mTFhkdnBtT1lrZEtaVm1LYVQ0OFFiTFIwQmUyYW1aTDQ2NW9ZaU9oYkhrazhCYm1UdXRYbkgybVdWUl9xbGJkOG9pZVJzMlFLaGpPZ0NaUFhuZjI1Z2prV0d1X3R4SGIwUlJrSGw4VlVyTEVGMjRVUEY1TQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
-      "id": "4c9544fd86c1",
-      "title": "Astrônomo Marcelo Gleiser vai lançar curso inédito sobre mistérios do Universo na CasaFolha - Folha de S.Paulo",
-      "published": "2026-05-28T02:00:00+00:00",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMDVqaHp2Rzhsck42b3RyVmhvRXdNaHljSVBHWVQwYzZpMXg5eEdRQ09EelZEenZOa3NpMjVSS1kxUGwybzlDcHZGNGJCR2p4bmRQemo0Zmo4M3pPNENFMVVtSXU3c1ZZN3BhbGtRTzhLMFVOTklhbzlkeG5oQVB3MlYydkpZYm9NcjR5aWpydjFvMy0tTUhFYWRFY3RYdHZXYXVIZjlWUG0xRmdCeGQ5WWtTX2hIS3JXM25aeHpqOENXc0ptdEdKZXRKNG15U3BDUkxtWkVybFE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "diazepam",
-          "keyword": "UNI",
-          "name": "Diazepam",
-          "url": "/drugs/diazepam/"
-        },
-        {
-          "type": "drug",
-          "slug": "zinc",
-          "keyword": "UNI",
-          "name": "ZINC",
-          "url": "/drugs/zinc/"
         }
       ]
     }
