@@ -1,15 +1,123 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-05-30T13:43:12.735152+00:00",
+  "fetched_at": "2026-05-30T19:19:29.255480+00:00",
   "total_fetched": 90,
-  "unique_count": 90,
-  "health_related_count": 32,
+  "unique_count": 89,
+  "health_related_count": 37,
   "news": [
+    {
+      "id": "4f714467c2b1",
+      "title": "Cientistas identificam ‘portal’ oculto na Antártida e descoberta gera preocupação - Rádio Itatiaia",
+      "published": "2026-05-30T17:16:52+00:00",
+      "summary": "Cientistas identificam ‘portal’ oculto na Antártida e descoberta gera preocupação&nbsp;&nbsp;Rádio Itatiaia",
+      "sources": [
+        {
+          "name": "Rádio Itatiaia",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSlNaVlZMMzU4c2FMOGNHSjdZdndHMm9ZemhrVmZuMUZUZVU3RGxhQnM2TmRxVlVXMTRDV2dDYmRwZmc4Tzg0TEZnajBGaXc0RWJvS3d4V1JDaG1oYkRNcVRmV2dYcHN5ZHkzOGtGM1FUb3paYmhOMTdEQXRRamJpemRxZEFLbktoU255czlST3ZTcEpMNWEzM2VCQi16dUNacUZROGsydzZfeENiQjRBSXpQc0ZQUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3ab4799e00c8",
+      "title": "Um estudo de psicologia concluiu que pessoas nascidas entre 1945 e 1965 têm uma vantagem psicológica sem igual - Super Rádio Tupi",
+      "published": "2026-05-30T16:00:26+00:00",
+      "summary": "Um estudo de psicologia concluiu que pessoas nascidas entre 1945 e 1965 têm uma vantagem psicológica sem igual&nbsp;&nbsp;Super Rádio Tupi",
+      "sources": [
+        {
+          "name": "Super Rádio Tupi",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMWctSy1WeU9fWUxlMVFwM0lxSlVSZl9MTjY5aDh3M0lvc0FJWHh3SEhtZjRJT2ZWVGQ1WkJ5bUNVR0R4UlBHVXIxYlYtM2RSTW1nVVg5RTZxMGlxVGdod25ZYkd1RzV4cWZZaTdRNGFhTkpmYWp4OHBieFpMSTVXa0I3akV0bERkUWNVRWotbmVkS3RaNEhMc25QY2NxbU9FMFZHaXJfV3Zoa3NvSWkwSGRUTEVlNUtUNEc2eFV1QjMwSlBYTy1DcjRWUW1xMzY4R01GNzVaWml0TjkyN2hj?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6217571939c0",
+      "title": "Paciente com suspeita de Ebola é internado em SP - CNN Brasil",
+      "published": "2026-05-30T14:37:29+00:00",
+      "summary": "Paciente com suspeita de Ebola é internado em SP&nbsp;&nbsp;CNN BrasilCaso suspeito de ebola é registrado em São Paulo&nbsp;&nbsp;G1Governo de São Paulo investiga caso suspeito de ebola em paciente&nbsp;&nbsp;UOL NotíciasSuspeita de Ebola no Brasil: risco de contágio da doença é baixo?&nbsp;&nbsp;CNN BrasilHomem com suspeita de ebola é internado em São Paulo; caso está em investigação&nbsp;&nbsp;Estadão",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSDlEdVItY2hBWnhNVnhnb3NjT3lTTkhQcmpSTUxydnIyNjUwT191MEM5SS1yX2trLUxsTW1Nd3FPQ0REYlFONWVpTW1UU3o4Zl9xdlRpZ0J6d25IaWFVSmEzOS1VbDdZM2ZKOEFnYlFra1k3MHliX1pxbGx5cF9OVGhDa19hNHdUMGpJVA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "005f7dd1eb9e",
+      "title": "Rio prorroga vacinação contra gripe para toda a população - Extra online",
+      "published": "2026-05-30T14:26:10+00:00",
+      "summary": "Rio prorroga vacinação contra gripe para toda a população&nbsp;&nbsp;Extra onlineApós baixa adesão, Rio prorroga campanha de vacinação contra a gripe&nbsp;&nbsp;G1Estação Carioca terá vacinação contra gripe e tríplice viral nesta sexta&nbsp;&nbsp;Diário do RioPrefeitura do Rio abre mais de 200 pontos extras de imunização contra gripe&nbsp;&nbsp;radio93.com.brSecretaria de Saúde do Rio amplia postos de vacinação contra a gripe&nbsp;&nbsp;A Voz dos Municípios",
+      "sources": [
+        {
+          "name": "Extra online",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONmpEdGkzemUxM2FfVVJ3TGlyd0tHS1FZbHp5NEJLRzRVZzgwdkk5OF9DeWhleWF6NWVCQ2RRS1dFZlF5UVAwWGRiOUotdHJDbWRKbXBKcHVaekxKajE0T0k3bThsbXQweHRLSGQzeVVsODMzeDlpeU1YaGZiUHBXS3NoWGdPLVVucTRmeHBKejVmVFJHbVFNRXBlZ3ZnMjNoLUMxcHJua0ZLQjTSAboBQVVfeXFMUGlSTkE2eDQ5YnlZYlM0WHlENzVhcnNDLUg5UWFtazhUODVIYUNDLXdCMlpLa0RWendaYzRJcDA1S0tvNURtOEhxYmFLbF81Zmt6ZkN2UjVtLVBzblVXcEZnc01yZ3lzWkdOYnFoa2w3Y1VVc19GQkctV1FQSExKcUpXSjlDTm5KY1BCS05KSklYNEhKN0JVREFlSDUxVktpMzB2dEZCd2tyZHpaM2JiWXA5NG9kaGNSd1Z3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4ee7c505a844",
+      "title": "Estudo analisa colmeia com 5,5 milhões de abelhas embaixo do solo de cemitério em Nova York - Um só Planeta",
+      "published": "2026-05-30T13:45:04+00:00",
+      "summary": "Estudo analisa colmeia com 5,5 milhões de abelhas embaixo do solo de cemitério em Nova York&nbsp;&nbsp;Um só Planeta",
+      "sources": [
+        {
+          "name": "Um só Planeta",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQ3VqNjJMS29xOG1XTEdTSlJIMS1Wd3NNazhZcFp6QjdEQ1RkbEpHYVhIZF96ZVJXTy16b2w0T3BHMlROMlpscDVXX09HVU9HeXFBY0FVMGRCMGhnY0dMS0t2VTluNGVManlaOEt3bUJyN24ydTlQMllyd3ZqdC12LTM2SWVuUEE4MkJWRUJqSkpkMDlsdkFPeXVDdnI1amdTTXc2Yk55aF81UUdGSURqY3ZfRGhLWE1LYmNHRVdVekQwOFNmSm5LX2VlcDlDOEM0c3diZTMyQ0tLUU9Rb1ZJcEp5b3R4WldyUHl3azI4T2l6Z9IBgAJBVV95cUxQNDhMSkdlbGNjbkthYXVqdkN5TTdxOC1WdkZGLVloeE8zVGFGaTY2ajJIb2ptZmJuZjNtVkQ2SHAtMkh1czNsYmxvUlZHV1dCdkZKY0pULWtwQU1HS1dCM1ZHTlNTZGVSXy13eDZDTnoza3JiLV91bzktVTBtMy1TQWU4ZFpMNzFONWJ6WGVSRlIzdjhPSUxPbDB3TTQ2TnRmVkk0R0hjbUtfNTVWTjVqSUlmeHZnSG5kMk9leS05Wk5QUHRBdjk0MnRQVDBZY2xOQWJmc0oySTI2OHlQaGhQYTllcUk0SWtlUjVmUmw1WDIwRzdmUzB0dnJaOWZudVZo?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f461f266713f",
+      "title": "Morre Elizângela Oliveira, que lutava contra câncer e enfrentou batalha judicial por medicamento - Terra do Mandu",
+      "published": "2026-05-30T13:24:11+00:00",
+      "summary": "Morre Elizângela Oliveira, que lutava contra câncer e enfrentou batalha judicial por medicamento&nbsp;&nbsp;Terra do Mandu",
+      "sources": [
+        {
+          "name": "Terra do Mandu",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYWNzY0o4REhIYW13Tmd5QWhtY0RvalVpYlI5SHZMYnkzcnFJOWlwd0RuYTByekZNSEJ3VVlIR3dOaTBibVRsY1pJM08ybHQ1RE1yVHJndDVuUElldG1YRjdrbENRYVhUc3RlaXNBcUlidkZvd0dqNlc0UmZnanBEa25TU2g4blVjNzR3dURPNnhaNERCZ2h1SVZxR0EyTE85bmg0bWFSSGN4X3NGcXU0Uk1fWnQwNi1Hd05TOUhwTFBqUkNQOTFLWkF4SGFuOVM4Uy16ZEFManpPQTBaOXfSAeMBQVVfeXFMTUVkYVJEMUVmYnFxeWY2OXlwZHVfM0htRHpIczZaRTFZdmlSLUJmdE1COUNXRHNjVFE4aEVPajJvS3lqejF6T3dkWUhneTkyOVJwMnUwU3h4N3k5U1VzT21JSDZiTkIyWk41YjZOM1FITzc5dGhvY0FoWjBDdzVNRWl2OUNQUWNsMEdlT0V4Q1lNVUlibUtNdWhpbDRFRmxkMklTY1lhOFdWa2hZVjJyUDVOZTVrLXFLaURBRE0tTVpiaHFKTFRlSW1TbUg5OXBpaDNlb01UMkt6aW9EWnB3OUhwNTg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dfddd9cca088",
+      "title": "Nem dez mil passos, nem trinta minutos: quanto exercício devemos fazer por dia, segundo a ciência - Tua Saúde",
+      "published": "2026-05-30T12:40:00+00:00",
+      "summary": "Nem dez mil passos, nem trinta minutos: quanto exercício devemos fazer por dia, segundo a ciência&nbsp;&nbsp;Tua Saúde",
+      "sources": [
+        {
+          "name": "Tua Saúde",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcjBKUU5KaTdlTFJ6b1Q5ekNtd1dIbUE2MXhhRkZuNkx2UHZLMXFHTzRPMmdIMFlRS0prc2lLeTBfQk5LSDIyTlpZcUZmMDBXUk9kVnF3eGx3Qzh3OW5naG85dFFrQ0hMaXdEYmxaQTFKalhEZlo0UkkwWnVQY2dDelR5b3lVS2NyVDVVTHY4SUFOUzNFMmV6eXk2S2x3TjRqYm85NU9BcGpxYXE4eGJqQXlqaVkzaU5wSzFGcklWRVhMd2JYM0sxeHlOUnlTSXVKQkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3c4bc7c47ae3",
+      "title": "A física foi desafiada: pesquisadores descobriram algo que se move mais rápido que a velocidade da luz, mas o fenômeno não quebra a relatividade porque envolve padrões escuros dentro de vórtices ópticos - CPG Click Petróleo e Gás",
+      "published": "2026-05-30T12:05:00+00:00",
+      "summary": "A física foi desafiada: pesquisadores descobriram algo que se move mais rápido que a velocidade da luz, mas o fenômeno não quebra a relatividade porque envolve padrões escuros dentro de vórtices ópticos&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPNE83dHF6Q0htV01CczZybmRFODFVNkNxbGJNaGtQQS1PVTJkTzgxOFd3UHVtWXpyT01ncFpHOGI4aUd4S090ZklBNnByYXh1b0V2TU1CZkFCX3pvbWtoeEVlX3J5eURoejg3dnJNckZmUkZQWFU0alMwNlVkdlJxeU9KWEo4bjdXYmlDcHk4cTNIZERQV3dhNTVldnNPRjY1OHpTVHIybXRaVXZUYkhfSm5kUVByUmpmU1JieGlLckpDUUZJcDBHd1RhT01MdHhzanlQZnBqa2VjMXc3eUZsYm5Ubm83RnVEWUpNei1ZcDlrNjRGVGFWTW1CNUdoaUJFSEhxaThzLUhtVk5KSV92X25xWUdCenBwbFpnMXNBTWg0LVVUcm11VXJxc3paRWszWkZGMHh0aEkzSDdlOHhrUjcwa2dtdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9994df3b283e",
+      "title": "Lauromüllense tem sobrenome eternizado em nova espécie de planta descoberta no Sul de SC - Sulinfoco",
+      "published": "2026-05-30T12:02:55+00:00",
+      "summary": "Lauromüllense tem sobrenome eternizado em nova espécie de planta descoberta no Sul de SC&nbsp;&nbsp;Sulinfoco",
+      "sources": [
+        {
+          "name": "Sulinfoco",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNm9NbWZHaFlKcFZLREZoOU1yOGZ5RFFPRmxqQ0FSdDhVQUlqTGhWVlkzOWMycDBlMTRCdVFVN0VIWUVYVzdRRzJLU29lWmRUOGo0ZnJJcFJ2Q3lWTTVLcUo4YkRnazJPRk00eV9XTkVweWszUlpBbEtYaDNmUVJKZ3VTM2tOMnRTZUhlWmprTXZVYV8yQkZST0pFOEZkUmRsTm50ckp6aFhKMTdwTW9UVUhXRGF3Q2w5aUVz?oc=5"
+        }
+      ]
+    },
     {
       "id": "32218207f331",
       "title": "Esclerose múltipla: sinais invisíveis desafiam diagnóstico - Correio do Povo",
       "published": "2026-05-30T10:10:38+00:00",
-      "summary": "Esclerose múltipla: sinais invisíveis desafiam diagnóstico&nbsp;&nbsp;Correio do Povo",
+      "summary": "Esclerose múltipla: sinais invisíveis desafiam diagnóstico&nbsp;&nbsp;Correio do PovoDia Mundial da Esclerose Múltipla: especialista alerta para sintomas que muita gente ignora&nbsp;&nbsp;TerraDia Mundial da Esclerose Múltipla: 5 cuidados para manter a qualidade de vida&nbsp;&nbsp;GZHDiagnóstico precoce pode estabilizar progressão da esclerose múltipla; entenda&nbsp;&nbsp;Tribuna do NorteDia Mundial da Esclerose Múltipla é celebrado sábado (30)&nbsp;&nbsp;G1",
       "sources": [
         {
           "name": "Correio do Povo",
@@ -42,18 +150,6 @@
       ]
     },
     {
-      "id": "241ba4d24525",
-      "title": "O que acontece no corpo quando você consome cúrcuma com frequência - UOL",
-      "published": "2026-05-30T08:30:00+00:00",
-      "summary": "O que acontece no corpo quando você consome cúrcuma com frequência&nbsp;&nbsp;UOL3 curiosidades sobre a cúrcuma&nbsp;&nbsp;EstadãoCúrcuma: os poderes e as polêmicas da especiaria que ganhou o mundo&nbsp;&nbsp;Veja SaúdePesquisa confirma: consumir açafrão-da-terra diariamente pode melhorar a memória em 28%&nbsp;&nbsp;Banda BFerver cúrcuma em pó: para que serve e por que tomar&nbsp;&nbsp;Estadão",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMktVVEJHRzZhOXJhaWo1V01SVTZ3LW9FLVhCcTR2OG1BNl9WLWM0WVQ1aFh4aGJndXVKNlJLQjF1NzNFZmpzaFkxcDlFaHgtU1JCWVc5M2ZPR01fS21ic0dEQkhqLTl2d2t4TGpIc3NqbkNhUE1DVmpxYVE1U0JtSDY3Wm9Xa21fWGktTlNGbUxQeFpITFhJR2hITHZtaE42RVVXRkp2VWpXcDlhSV8zWWxsZU9qS3A2YTBkREZ3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "04bbeb422b46",
       "title": "Médico brasileiro cria técnica de reconstrução peniana; entenda resultado - CNN Brasil",
       "published": "2026-05-30T07:15:13+00:00",
@@ -62,6 +158,18 @@
         {
           "name": "CNN Brasil",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdVdUTjR2dzRvZWhaUUhqOHdiLXU4R2RHVnNLYXZidmVaenFFYUlxU2tyWUVtX3E3Wm9jWHNDNVhzbUNOVTRhRzJidThvNkZWMHpLYUpYdU1wVk10WW1NQlpLWER2bGphVnFtUkpGZzJ0N0pwZWRsSkJZYTJkdFBOSlhHRWQzSjZtSENIQlhXQlI0VXM5X2hEQmlKb25iU2cyMEFEVzR4VDlPWldn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "91207209ffe2",
+      "title": "Sono pode dar pistas sobre o risco de demência, revela estudo - Tribuna Online",
+      "published": "2026-05-30T07:00:00+00:00",
+      "summary": "Sono pode dar pistas sobre o risco de demência, revela estudo&nbsp;&nbsp;Tribuna OnlineCientistas descobriram novas informações sobre a relação entre o sono profundo e a memória de longo prazo&nbsp;&nbsp;Tua SaúdeCérebro trabalha enquanto dormimos: o elo entre sono e demência - Ciência Viva - Francisco Soares Filho&nbsp;&nbsp;CidadeVerde.comDormir mal na terceira idade compromete memória&nbsp;&nbsp;Agora RNSono de má qualidade pode ser um sinal precoce da doença de Alzheimer em algumas mulheres&",
+      "sources": [
+        {
+          "name": "Tribuna Online",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR0JVY0V3OGtOUkpIMEpWLUxLYVJjb0VxY2JmLUd2WEp6Xy1ta0RFMlluUGNNWnpKZmdvTHBueFlFYXFWTWNKcGtTZ2NwTENxNnFvbkhvYVYwLVNpTTNESzBua3dsdk1Od2ZkYWZEbmk0WlJuS3UyeFVzc081YURudFRzcjQteXJKdWo5bTlYeElRUEdlNk5OTVh3aFEwM3BHZzRabtIBrAFBVV95cUxOc3FHa1lGbThoU1ZtdUpnbm42OTFXenQ3NGFsOWRnOFhNTDdRdTk0MFhMMHk2TDdMVkNDbmhtZDJTUHdZT0w2UERHaE9kWXNuX2F4T2MxQTduNW1sV2Q0VVlrNTVjZWJlOGdXeXpSQlZnZDZQS2FBZHBtYlpOY3FXUWZ6VFZiS3dFeHE4dXFxV0dvb005YWNmaVFYdWFrOThJNFRqdUtlMEozc19M?oc=5"
         }
       ]
     },
@@ -93,7 +201,7 @@
       "id": "f103f3c480c3",
       "title": "\"Vai ter uma onda de casos\": diante da baixa vacinação e do El Niño, RS projeta óbitos e internações por vírus respiratórios - GZH",
       "published": "2026-05-29T22:04:04+00:00",
-      "summary": "\"Vai ter uma onda de casos\": diante da baixa vacinação e do El Niño, RS projeta óbitos e internações por vírus respiratórios&nbsp;&nbsp;GZHTamiflu pode reduzir em 52% as hospitalizações por influenza; uso precoce é considerado essencial&nbsp;&nbsp;G1SRAG em alta no MS: VSR e influenza elevam hospitalizações&nbsp;&nbsp;Campo Grande NewsDoenças respiratórias: quando devo buscar atendimento médico? Mapa traz endereços de emergências em Porto Alegre&nbsp;&nbsp;GZHNúmero de casos de SRAG continua aum",
+      "summary": "\"Vai ter uma onda de casos\": diante da baixa vacinação e do El Niño, RS projeta óbitos e internações por vírus respiratórios&nbsp;&nbsp;GZHTamiflu pode reduzir em 52% as hospitalizações por influenza; uso precoce é considerado essencial&nbsp;&nbsp;G1SRAG em alta no MS: VSR e influenza elevam hospitalizações&nbsp;&nbsp;Campo Grande NewsNúmero de casos de SRAG continua aumentando em todas as faixas etárias&nbsp;&nbsp;O TEMPOInfoGripe: RS segue em alerta por alta de casos de SRAG&nbsp;&nbsp;Correio",
       "sources": [
         {
           "name": "GZH",
@@ -105,7 +213,7 @@
       "id": "140da99f5545",
       "title": "Influenza avança no Paraná; hospital de Curitiba registra mais de mil casos em um mês - Tribuna do Paraná",
       "published": "2026-05-29T21:58:00+00:00",
-      "summary": "Influenza avança no Paraná; hospital de Curitiba registra mais de mil casos em um mês&nbsp;&nbsp;Tribuna do ParanáVeja mais manchetes e perspectivas no Google Notícias",
+      "summary": "Influenza avança no Paraná; hospital de Curitiba registra mais de mil casos em um mês&nbsp;&nbsp;Tribuna do ParanáCasos de doenças respiratórias disparam no Paraná&nbsp;&nbsp;G1Tempo de espera aumenta nas UPAs de Curitiba após disparada de casos respiratórios&nbsp;&nbsp;Bem ParanáCuritiba enfrenta epidemia de gripes, resfriados e Covid no frio intenso&nbsp;&nbsp;ParanashopUpas registram superlotação em Curitiba com a chegada do frio&nbsp;&nbsp;Band News FM Curitiba",
       "sources": [
         {
           "name": "Tribuna do Paraná",
@@ -138,6 +246,18 @@
       ]
     },
     {
+      "id": "db0dfbdede31",
+      "title": "Salvador recebe mutirão neste sábado (30) para vacinação contra gripe em 90 postos de saúde - Jornal Correio",
+      "published": "2026-05-29T20:17:27+00:00",
+      "summary": "Salvador recebe mutirão neste sábado (30) para vacinação contra gripe em 90 postos de saúde&nbsp;&nbsp;Jornal CorreioCentros de Saúde vão abrir amanhã para vacinação, em BH&nbsp;&nbsp;G1PBH abre 19 centros de saúde neste sábado (30) para vacinação contra a gripe&nbsp;&nbsp;Prefeitura de Belo HorizonteVacina da gripe em BH: saiba onde se vacinar neste sábado (30)&nbsp;&nbsp;Rádio ItatiaiaPopulação elogia atendimento em sábado de vacinação nos postos de BH&nbsp;&nbsp;O TEMPO",
+      "sources": [
+        {
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWVh0ZGR3ZHg2S1JuSm9HNU1tQ1pkWG9qbllSbHZWUmFxdHFaVjkxVDZ1MW5GQ1h3aTFtUkhHb3BzNW14anhvMVl5X0NyT0dxVUlybVMzMWhSdzBzR1hSMllKQW5yS0poT1pWZDdvYUVYLXNyYm5rSTFqZkx4YkdEdWZEX0pJTFc2elp0TUpNc2lMcC1DSkQ3M3JNaVh3QVk2cURxM0ZHRTVteEMtNXBFQ3dxQm03RzA2cHJabUtXZVpic3NVRDhQVWZhVENCNjJFOEZBT01Paw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "eb8b5344aa48",
       "title": "Vacinação contra a gripe continuará no Paraná para atingir grupos prioritários - Secretaria de Saúde do Paraná",
       "published": "2026-05-29T20:16:00+00:00",
@@ -146,18 +266,6 @@
         {
           "name": "Secretaria de Saúde do Paraná",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSEg1aGZncFA4TlBSMVlpQnVibTJFR0plM2RMY3g1XzZVR2ZHYzQ1QWJjRWNIX0RyMVRITGpPaU56aFZvSnZ4LUd3MkNrSC14ckkxbUY1V3BOTzZRRFFuM1dvQ3pCazZFSVNqel9UVkczM0M2SzNFN0kxZlB1UEdwbVkwenM0c20yRkhEN191Sk5yeGRQZVRmazE5ZjNBb1JYY04yTXdoZno3WUgwb1BZRG5R?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8cee315ff547",
-      "title": "Vacinação contra a gripe é liberada para toda a população a partir de segunda-feira, dia 1º - Prefeitura de Blumenau",
-      "published": "2026-05-29T19:58:00+00:00",
-      "summary": "Vacinação contra a gripe é liberada para toda a população a partir de segunda-feira, dia 1º&nbsp;&nbsp;Prefeitura de BlumenauSorocaba amplia vacinação contra gripe Influenza para toda população na segunda-feira (1°)&nbsp;&nbsp;Prefeitura de SorocabaVacina contra a gripe é ampliada para todos os públicos em S. José&nbsp;&nbsp;Prefeitura de São José dos CamposItapetininga e Laranjal Paulista promovem vacinação contra gripe para grupos prioritários neste sábado&nbsp;&nbsp;G1Natal amplia vacinação c",
-      "sources": [
-        {
-          "name": "Prefeitura de Blumenau",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPcGNhck4xSWR3U0wxVWdIRFFBTjVLUDlxWmhSc2c4dkVVeFdPYWlTajIzU3c2MEFZSXA3RENKRHg1S0h6UnFaQ2NaNDZNWTZFRnRvX2xWWmZvcFV6YmduQVIzN2VzeE1NUUczQkprTnpRcVVKNXpQN2ltd045SE83eTMySWc2WFQ3ck5YN0xQZW1ud3QzVklOazE4Q1AzaS1teVlUQmFnNkszenZXMU5Ua1N4MmZYanotZ0lRV21BY2ktX0hhQkxJRjNHYWRERU5fS1VKUFJKQkFXaXdWUS1lZVlnc0tlbUhhc3hZZDlKOWh4WWtobUE?oc=5"
         }
       ]
     },
@@ -174,18 +282,6 @@
       ]
     },
     {
-      "id": "203b24a79b5b",
-      "title": "Pombos sentem o campo magnético da Terra usando o... fígado - Globo",
-      "published": "2026-05-29T18:15:27+00:00",
-      "summary": "Pombos sentem o campo magnético da Terra usando o... fígado&nbsp;&nbsp;Globo",
-      "sources": [
-        {
-          "name": "Globo",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMTg4VHVCV0kxRDZqdnUtcXdLZFA1b1NDSHBGUjd6eGtDZGp2cUtYZG9Mb0MtcEIyMGpKZ2NYR21YTlJHUTRyOVBCUVQtQ0JERmk3N19PX2E4U0pKeFZ6YUJZem4wcWNUaXZWXzFsM1pBcF93NElNdlN5RXBxU2lLN19xeUNRbzlzUmVHNUNnRDNDcVZwck5ySURFODJTUnZaNk5jVVBqTGNsUkFSX1ZCNU1sa3haSUlXMGxF0gHKAUFVX3lxTE93MGdjZHd2dVNZbkF2bGJmSjlfRkgxZTl1UWI4LVJZeWtLakpJaU9tcVRMQzU0Y3NiZHJxRWc1LXNJUWJwbWZWelhPVllheVJFQ2E3V013b1YwWjJST2V1UWRrVWxzY1RSdWZlUmpFWDYxMDN3WTFscW1faXVONTV4RzFJbzM0MFpFcEp1MUFkeFNaakx3SlMxY0NHY0RQNmZKN2Q4dDg2d0lDX1NZNmpDSHZHb1hfZG1RM1BQam9QSXNlODFsNFpnaWc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5783c1f31572",
       "title": "Enterrado sob mais de 3.000 metros de gelo, este lago da Antártida acaba de ser alcançado pela primeira vez - Revista Oeste",
       "published": "2026-05-29T17:45:00+00:00",
@@ -198,14 +294,14 @@
       ]
     },
     {
-      "id": "bcad6afe2171",
-      "title": "Estrelas anãs vermelhas devoram planetas ao redor, diz estudo - Olhar Digital",
-      "published": "2026-05-29T15:53:00+00:00",
-      "summary": "Estrelas anãs vermelhas devoram planetas ao redor, diz estudo&nbsp;&nbsp;Olhar Digital",
+      "id": "0b9f05a2b2d6",
+      "title": "Pombos podem usar o fígado como 'GPS natural', sugere estudo; entenda - Um só Planeta",
+      "published": "2026-05-29T16:37:08+00:00",
+      "summary": "Pombos podem usar o fígado como 'GPS natural', sugere estudo; entenda&nbsp;&nbsp;Um só Planeta",
       "sources": [
         {
-          "name": "Olhar Digital",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMUVTalBOZzk5Qm9mNWIyRWZpYlhRVjlxZU5FMEZUSGpsXzR2Q1VBTk95UWhFMWh5TlV6Z0RQdGZMZHNuV21rUE5YOFZfOU41QUpXN0YzMTNHU3VadkhteEdhU0lRdFhCdjJjSWVQLWp0cjBzUk9jemVSbW5lMXB1MmdPeFdvbXlCZV9MUUJOVDRXekhGTnVEMUt0R2ZfQVhTOENLNDEySFZBeGNEYV9vR3pGMHUxVG9Q?oc=5"
+          "name": "Um só Planeta",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMW9fY24ta3VaTWZwLVh3Rm95T3VyN00zaVhqTmRUS1c3dEx5QnJ2N28yOG5fOG1oLXpCRkppM2FZSXdqbktNZXo5MnEwZVVnZlMxaFY3UFl0SF93eEVmTU9YTUlKdjkySUs5bDhVeGpNbTNFYXQ1UU1OelM4bnFJempNZEw0OHVLYk9SNWVQdkxOVlNnZXVDTWhGQlBJZ09oY2pBeWVnWVVncVZUMlZSdnNJV08zTzdFbFVCbE9XYnlXVXM1UjBvMDBpVjA3RUhS0gHfAUFVX3lxTE10d2otNklfRWJ5c21zVEpHTjNkY1NZbEV2WnNOV05ERXctR2ZhS0hCYV9tZ3JlLUkyOGZjR3B4ckYtOGRzTnRHam1NTjBVeURKX1NDZWtaYTRUVm9OdzRrWHk4M1lMR0FnZUx4M2xQRGJ2N3JWQTBBNXNLREZxQzhQVnlEamJ0ZUNCeVZIeVRwWHk5MFJTbFczMEtCMU9UbmFiYlhzV0NEZ3hpMl9qMGVtRE41YjVRMnJWbDJVb09RS2hzMm5RTlg0dG9jV1RuLWZfQ3JVQmQwRTdDMnRpUEk?oc=5"
         }
       ]
     },
@@ -225,7 +321,7 @@
       "id": "feb0fad06817",
       "title": "Por que fisiculturistas usam insulina? Entenda riscos da prática e perigo de hipoglicemia - Diário do Nordeste",
       "published": "2026-05-29T13:30:25+00:00",
-      "summary": "Por que fisiculturistas usam insulina? Entenda riscos da prática e perigo de hipoglicemia&nbsp;&nbsp;Diário do NordesteEducador físico explica sobre riscos de anabolizantes&nbsp;&nbsp;G1Cardiologista do Hospital Santa Izabel afirma que uso de anabolizantes aumenta espessura de parede do coração&nbsp;&nbsp;Metro 1Notícias&nbsp;&nbsp;Jornal de BarretosASSISTA ▶️ | Educador físico alerta para riscos do uso de anabolizantes&nbsp;&nbsp;VipSocial",
+      "summary": "Por que fisiculturistas usam insulina? Entenda riscos da prática e perigo de hipoglicemia&nbsp;&nbsp;Diário do NordesteHipoglicemia: quando o corpo entra em alerta&nbsp;&nbsp;Folha PEAnabolizantes, insulina e o perigo invisível por trás da alta performance&nbsp;&nbsp;portal mato grossoUso inadequado de insulina coloca pacientes com diabetes em risco&nbsp;&nbsp;G1Tremores, suor frio e tontura podem indicar hipoglicemia e muita gente ignora esses sinais antes da crise&nbsp;&nbsp;Portal UAI",
       "sources": [
         {
           "name": "Diário do Nordeste",
@@ -249,7 +345,7 @@
       "id": "0d51b6d383c0",
       "title": "Fibras e alimentos fermentados tornam-se aliados da saúde mental - Folha de S.Paulo",
       "published": "2026-05-29T10:00:00+00:00",
-      "summary": "Fibras e alimentos fermentados tornam-se aliados da saúde mental&nbsp;&nbsp;Folha de S.PauloFibras e alimentos fermentados são aliados da saúde mental - 29/05/2026 - Equilíbrio&nbsp;&nbsp;Folha de S.PauloAlém da digestão: sinais que sua saúde intestinal está afetando o seu humor&nbsp;&nbsp;MetrópolesA queda de imunidade frequente não se deve apenas à falta de vitamina C, mas sim ao desequilíbrio do microbioma intestinal que regula as defesas&nbsp;&nbsp;Tua SaúdeComo a alimentação ajuda no combat",
+      "summary": "Fibras e alimentos fermentados tornam-se aliados da saúde mental&nbsp;&nbsp;Folha de S.PauloFibras e alimentos fermentados são aliados da saúde mental - 29/05/2026 - Equilíbrio&nbsp;&nbsp;Folha de S.PauloA queda de imunidade frequente não se deve apenas à falta de vitamina C, mas sim ao desequilíbrio do microbioma intestinal que regula as defesas&nbsp;&nbsp;Tua SaúdeAlém da digestão: sinais que sua saúde intestinal está afetando o seu humor&nbsp;&nbsp;MetrópolesComo a alimentação ajuda no combat",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -258,14 +354,14 @@
       ]
     },
     {
-      "id": "9f020e936e4d",
-      "title": "Centros de saúde de BH abrem neste sábado para vacinação contra a gripe; confira locais - G1",
-      "published": "2026-05-29T09:33:45+00:00",
-      "summary": "Centros de saúde de BH abrem neste sábado para vacinação contra a gripe; confira locais&nbsp;&nbsp;G1Centros de Saúde vão abrir amanhã para vacinação, em BH&nbsp;&nbsp;G1PBH abre 19 centros de saúde neste sábado (30) para vacinação contra a gripe&nbsp;&nbsp;Prefeitura de Belo HorizonteVacina da gripe em BH: saiba onde se vacinar neste sábado (30)&nbsp;&nbsp;Rádio ItatiaiaBaixa vacinação pressiona rede de urgência na Bahia, alerta secretária&nbsp;&nbsp;A TARDE",
+      "id": "03c0071488d8",
+      "title": "Estudo recente: um fator pouco notado pode afetar significativamente o envelhecimento - Tua Saúde",
+      "published": "2026-05-29T09:22:25+00:00",
+      "summary": "Estudo recente: um fator pouco notado pode afetar significativamente o envelhecimento&nbsp;&nbsp;Tua Saúde",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQaV9FUlFSSmszTjMxZnZlZ2EwR21ESG9vekNzLVcxZWNjUGxWanZVRlpYaWNpdVBNMDZfOUxFR2xWZVd2Rng5T3hmLW1tekNkVXZ4RHNBZmVSc3FRcDRxYlVVbS1wNFp4UW82VERTejlvbzVNQmNIeHpWQWhqZndmY3B5V05mSTdjaXlVVUFaRlN3c0ZCRHIxTnBMVTZHdlpfMVFvQTB1M3RtOXF2WGNDX2g0Z3gwZjh2WGhHQ3p3a0tJbkdDSVRJa3V0cXRjdVRla1pTSEdXTUF5ZE1LYm1yWDlKVjR4VUZEc3ZpV3pJbjQydXFf0gGDAkFVX3lxTFBrVDBvWnFHVm1NNFM3ZDR2Y0JZR1dpN05PRVNqR1RyU2EtOEN4SkdDbEVzMThBMWJ2eWxsSDFiMjlSM195V3ZKUWVPcFlwUjV2U3FZeG5aQXdhUXUwbUl4VENuWEk0b25qcThFQUFvbmw2a0JuQ09HTHFkdjI0bXZtemV1X3BsUzJvNHlTVWxaM0pkTnREMHpqaGNvZTF0ZlJFaXZVY0lLczRNWFVFNHpBZnJXTmlBd3N6eTdWM0tXMUQ2U3dkelBzM0hfblFRWmxPWFp5TEJ4cVg5VHAtclgxUW5Md3kxSklMbGFySG1EcUJ0cU9MRXFfbXctMzhkYW5VYmM?oc=5"
+          "name": "Tua Saúde",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObm5vUk5NMEJuZGdfcy16VGM3bURjLVJTRV9zbV9mUFdzV0tSdFFiaFUxQ2FhLTBzWnh5UHVUakJ0S0tCNUdESXlJbVdzT0N2ckV1eC02VnNDOU5GcXhNZ1kzdW5CcF9SMmpGQ2swYWpBUTMxaGE3eGpza1Q5dk1fUW1nTkRIRU82eFc3QWRuLVVSbVFqUHVpV1c2Vm9MMXZNemozMnZwRGlQZ1NYbVFRSWNmMHlFREFsWDBydU15dnc0aW92?oc=5"
         }
       ]
     },
@@ -297,11 +393,23 @@
       "id": "1bd1f54c15a8",
       "title": "Endometriose pode ter relação com enxaqueca e ansiedade; aponta estudo feito com 1,4 milhão de mulheres - O Globo",
       "published": "2026-05-29T07:01:33+00:00",
-      "summary": "Endometriose pode ter relação com enxaqueca e ansiedade; aponta estudo feito com 1,4 milhão de mulheres&nbsp;&nbsp;O GloboDor menstrual forte não é normal: quando investigar endometriose?&nbsp;&nbsp;TerraComo a endometriose impacta a rotina e o desempenho das mulheres&nbsp;&nbsp;iG DelasGracinha Mão Santa reforça avanço no debate sobre política pública de enfrentamento à endometriose&nbsp;&nbsp;Assembleia Legislativa do PiauíAtendimentos por endometriose quase triplicam no SUS e expõem lacuna no",
+      "summary": "Endometriose pode ter relação com enxaqueca e ansiedade; aponta estudo feito com 1,4 milhão de mulheres&nbsp;&nbsp;O GloboDor menstrual forte não é normal: quando investigar endometriose?&nbsp;&nbsp;TerraComo a endometriose impacta a rotina e o desempenho das mulheres&nbsp;&nbsp;iG DelasGracinha Mão Santa reforça avanço no debate sobre política pública de enfrentamento à endometriose&nbsp;&nbsp;Assembleia Legislativa do PiauíA dor pélvica que também pode ser uma pista de risco cardiovascular em ",
       "sources": [
         {
           "name": "O Globo",
           "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQQ2lHUFFZRWlPQmozSXFzRUFEVXhWS3ZobjV1Y0cwOGdVVnA4dkNrSTZGMmdzNE53eDRZRnNSZmoyWkhGNDhsRE8xNWp2My16cEhVTkdkTzV3Q19WbW9ZTld0aU5hd1hpZmNrNTVaNF9jNjFTTS1GTGFtVUdWYkRfRGpMSmRqbUxCVXBQSG91VVQ4QlBWZDYyeXhnRkRxX0tKV2JSc2pwVUdMTWhNTTViZG9McEMwTnlhTjN3Q3JwY25fQ3lZRVVqWElqVTRYcVFYVzhoemVPRXhCdmRpdDFvMXJJakdKazl6Vko5T0Vn0gH8AUFVX3lxTE5DbTN6dUdVZ1pVbXVzTUZXeGdnR0I2U3ZuVV9wQzNPSlY5UDMzejhjNFFSRmFHUGFUX1JKMnVUVHFrYjF3Vlp3Yy1sOUJjRjh3ZC1WMVhnY0VGN3NOTWtIemhjbUxVb1ZsTmp2ZWNYdWladThrZUVHd3I4a0lmRElXX29KSHVUdDEzVnBBWXY0V0dhRXE5RER2WGhaSHY1UC1TM3k0bnhET254Ql9lbWoxUlI1TXIybGxFUGIyUlNGQnEzalQ5aVhvRmwyYk9DWFhuLUtPRGFOVHlPZzNwcnMxRVpDSFpES2VTM1lPMkRxd3hSMEFwMVZLdHNicA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "16c7913745ef",
+      "title": "Quem veio primeiro, buraco negro ou a galáxia? Telescópio encontra resposta - CNN Brasil",
+      "published": "2026-05-29T06:33:45+00:00",
+      "summary": "Quem veio primeiro, buraco negro ou a galáxia? Telescópio encontra resposta&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVHZXNEM4UEpld2wwa3hmNFV2NTVDcDk1ckF1Y1V2TDRvRGJtcGd1elA3ZERNeUtVMHJuTEMwNWJQOENHYXBkRHRPN3J4REpzSW40MHdVc2VqZTBnRE5VZklqOHNCLUFqQnhrT3ZyMU5JNUUtUkdaeVVDb2V4Smh6S3NmV0ZqZWlkTGlEcTZIaVpwTjI3VFU4MW9taDZCY2h5QTA0VWZ2OGpXNWQ5QU1WaA?oc=5"
         }
       ]
     },
@@ -314,18 +422,6 @@
         {
           "name": "Forbes Brasil",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNktPbTBPRWUtcWdoOTI1X1VoRm81TEVfSF8xaFdkVzNCU0Y0Z2EzX05WQ01OSjViSTlXc3BNVzQ4QjZKVEhEMlpPNFEtN1U2U1BnOW5ydE5zTlpDbWE2MUx6NWtSNFpwVGlaQ2tpZUpMNWZpOHR6WTRURkM1X3pLbEswR1ZGa3dqdFBacnpJdmgzX29LSzA2azZqVUd5ZnlyRTBscl9PYUpOdWY4Z3JrTzYwNlM5N3ZPXzZGUHBHaDNQTHFiRUhTWg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e4ddabb88c07",
-      "title": "Grande vazamento de água coloca pessoas e equipamentos em risco em prédios da UERJ - Diário do Rio",
-      "published": "2026-05-28T21:29:55+00:00",
-      "summary": "Grande vazamento de água coloca pessoas e equipamentos em risco em prédios da UERJ&nbsp;&nbsp;Diário do Rio",
-      "sources": [
-        {
-          "name": "Diário do Rio",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONWVvWlpjd1FrakZHSDNYRjFtTlFNRE9ab0c5RUNma3ZpN1kyQXB4NnFPZ2dtX2RQekdWd3ZuTlliR2JjOTl1UTFNWmJtMUFwUERjMWhCd3lHUWs3MU1IeV9xVWsxSFh2cmNyU1o2dEpiZGVEX0N2TktRd3FXNHFad3Myb2o3aDYyZTFXSXlmRjJKNjhxYkFGWWR1RHE4MGYwLVVtSDVnWWZvaEU?oc=5"
         }
       ]
     },
@@ -345,47 +441,11 @@
       "id": "063da7747c67",
       "title": "SUS tem novo protocolo para detectar câncer de intestino - Portal Drauzio Varella",
       "published": "2026-05-28T19:03:54+00:00",
-      "summary": "SUS tem novo protocolo para detectar câncer de intestino&nbsp;&nbsp;Portal Drauzio VarellaSUS lançou novo exame que identifica alterações que previnem o câncer de intestino.&nbsp;&nbsp;G1Ministro da Saúde anuncia novo protocolo para rastreamento de câncer colorretal durante agenda em Lyon, na França&nbsp;&nbsp;www.gov.brSUS terá novo exame para rastrear câncer de intestino&nbsp;&nbsp;band.com.brCâncer de intestino: SUS adota novo exame de rastreamento&nbsp;&nbsp;www.proteste.org.br",
+      "summary": "SUS tem novo protocolo para detectar câncer de intestino&nbsp;&nbsp;Portal Drauzio VarellaSUS lançou novo exame que identifica alterações que previnem o câncer de intestino.&nbsp;&nbsp;G1Ministro da Saúde anuncia novo protocolo para rastreamento de câncer colorretal durante agenda em Lyon, na França&nbsp;&nbsp;www.gov.brSUS terá novo exame para rastrear câncer de intestino&nbsp;&nbsp;band.com.brComo funciona novo exame de câncer colorretal? Veja o que diz especialista&nbsp;&nbsp;CNN Brasil",
       "sources": [
         {
           "name": "Portal Drauzio Varella",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ2N2VUp2SVVUSm9oNFVGN0JacVBVWFpzTlgwUzkwcldlR2V1cUs4b0lIbl9PclRra0k0YkdGd0VsYWcxTm9KNFpBSGRWUDhUM0ZMNFdRSWJwbWNzOXJrV3d1dzJqR0hHWUFUMGpCMEtkXzBiVWZRb01IeTZMOWlhN2h5SnJoTmZaeTVDMElVay1WMzNqNVVDb1NLYnh4VXYwbm1CLUtYejVUNVpyUlRJcVFoVkl6ZndG?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "654e20fe8f62",
-      "title": "SUS vai ampliar proteção vacinal contra doença pneumocócica - Agência Brasil",
-      "published": "2026-05-28T17:25:00+00:00",
-      "summary": "SUS vai ampliar proteção vacinal contra doença pneumocócica&nbsp;&nbsp;Agência BrasilVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "Agência Brasil",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOEtTZm9ITVltNVdnMUFDLTZpZnB1LW9CRzE1d0FFMHF1MFI3RnhLLU44aFFkVFpoZVg1WjJSeFlMV01VRWhhUzVpdjlIVXNkY2RmQUFjVDZnbzZpeV94RFFJOXJ1TDhMLTdQdVZtRU9JX1JzRlo4T2syM2tfWlhrZ0tqT2FQUnVubmRTd1JDT18xWlBpemRFczM0OUtlZlk5Tm9fVGtpaW1TaV93bzZmSjVlelg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ceff1417ddde",
-      "title": "Cientistas descobriram novas informações sobre a relação entre o consumo de frutas vermelhas e o declínio cognitivo - Tua Saúde",
-      "published": "2026-05-28T15:32:55+00:00",
-      "summary": "Cientistas descobriram novas informações sobre a relação entre o consumo de frutas vermelhas e o declínio cognitivo&nbsp;&nbsp;Tua Saúde",
-      "sources": [
-        {
-          "name": "Tua Saúde",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQX1JSOFVrZ1VnMGdTX3p4cmx3S0NwejVPV1N5RDZMcTltUkU4WVUyNXU4Q0tKd2NSc1VaVlpvT3A0ZFhCQnRzclNxRHVxanJZVExoZXIwYi1HdUtQaGN6Q1ctWkNxdVVhOXd0WFpKQ3RoSF9NVmVxNmNyNGZ0Z3J1bC01Y1A2NkFPblpVcWk2c3dkZ3BxeW1wc1BEUWRUYTB0VzhGWTV3WmRWbzVCbV9fTEJWOEFoNEducV84ODJEc2p5OG9NcHdaYVFBdFNqTmowUWFlZkUxYWJPLVRGYXVja3BGQ3NQTEcycDRnUGVB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f4adeb88d0a3",
-      "title": "Como humanos faziam suas camas há 200 mil anos? Estudo descobriu - Globo",
-      "published": "2026-05-28T14:55:25+00:00",
-      "summary": "Como humanos faziam suas camas há 200 mil anos? Estudo descobriu&nbsp;&nbsp;Globo",
-      "sources": [
-        {
-          "name": "Globo",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYkVUbnVqSlMzT2s1VEh3RjBCNllEQlE5N0x6UVlwaWwtcEI4TTlDMnJrNno3YTE1bUhiSmswanRPdVN6ME5STmlvN1dpalhwbkJ5QlIya2JvR1dnU2E1TmY0VjdCR3FYT3F4QUJMSzZWdkE5Z3pPcDNmQkNxMVU1VkNwNWtDSnlsVHNMc0ktcTJoLUttRUhERk1PZ2lUaWtaQ0lnNFQyR3gxaEV1S1ZHQ1NuTWxXcVRGUUFJS1REb0NnRFlUZnhwRm51aGpFX0xtWGk5ZtIB4wFBVV95cUxNRWFqc3d2a3U2NFp1WlVzaDFrZVllVGdONXI4RVRIQUdlWERFc3FVUUcxYmtfRkM1c2ZaV0xtdV9Icmszb3RQV01xRzUtV2NiUGdJUmdPcER4SzFCOF9PYnVBOUM0R2dIVXc4QkI3SERFVGFYXzhxb2V2S29oWWJfWkhsbnRuRF9XTDhtU2Fwdk04MEdlTmFfTDAwOU1DLTNiTzZwdTJaRG5xYy1jU2sxRE5pVFNPYWtKandfQ3VCblYxN1M0Q01uRzdRMzVod2QwbU9IRmhnOVF2T2F1X2hMLU5QWQ?oc=5"
         }
       ]
     }
