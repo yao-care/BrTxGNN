@@ -1,19 +1,55 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-05-31T13:48:40.769991+00:00",
+  "fetched_at": "2026-05-31T19:19:49.904005+00:00",
   "total_fetched": 87,
-  "unique_count": 86,
-  "health_related_count": 32,
+  "unique_count": 85,
+  "health_related_count": 30,
   "news": [
     {
-      "id": "ad94ef64fdc7",
-      "title": "Chip com neurônios humanos aprende a jogar game de tiro 'Doom' e impulsiona pesquisa sobre computadores biológicos; entenda - O Globo",
-      "published": "2026-05-31T13:33:23+00:00",
-      "summary": "Chip com neurônios humanos aprende a jogar game de tiro 'Doom' e impulsiona pesquisa sobre computadores biológicos; entenda&nbsp;&nbsp;O Globo",
+      "id": "f4cde3482fd0",
+      "title": "Casos de Parkinson devem dobrar até 2050: conheça os sinais de alerta e o que a ciência diz sobre retardar a doença - Jornal Correio",
+      "published": "2026-05-31T15:00:00+00:00",
+      "summary": "Casos de Parkinson devem dobrar até 2050: conheça os sinais de alerta e o que a ciência diz sobre retardar a doença&nbsp;&nbsp;Jornal CorreioNúmero de casos de Parkinson podem aumentar em 112% até 2050, aponta estudo&nbsp;&nbsp;Rádio ItatiaiaParkinson pode atingir 25 milhões de pessoas até 2050&nbsp;&nbsp;diariodopara.com.brParkinson não começa só com tremor: o sinal no raciocínio que muita gente ignora&nbsp;&nbsp;Gazeta de São PauloCasos de Parkinson podem dobrar e atingir 25 milhões até 2050&n",
       "sources": [
         {
-          "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPemQ1MlZHNE42M3RISzJKSk5wTWpwdXlmdHVudlVqc0ZTZ2Iwc0pyYmNlLUY2QkRfSlNIc1ZOaUM3a0drSXFoRThUVG1tdjRnMTFkY0FVTzBHLTFYc1ZuQ0dVY2pPblB0LVBVSFdqNTRBWC1NV1hhWHRmZnhNQlZidnFlT21RbFRiRmd6V2pPNG01c09zV1QyTjlHUnlTQU9WeHZnZXJMcHNrdl8yX3dNUG5XalVsaF80S1V3anNOYjdoUmdSSkhxXzE2M3R0RG5hOTVSeWlfQndtbTdzSlpTZFZweDhiLVlWcHBhM1dWSThPT1ZiRXZiUG8zUk51ZXpjQnVhRi1laVh3WHRhc1haLW54WGlHVlJJWFHSAagCQVVfeXFMUHdsOWkzUnJTd28wY1pzREtfOVVTMVE5NkFhYmJCa1puWmZwdWdQS0xYTk56cUtFWm9VQVlNTnlrM19hQmd3QXFVU05ybnlIVUVuMXEwbEtLa1B2eExCVG9aQ3FFUGJoUlg4TWtOOHNtY28wT08wZmxNNk0tWEpRQW43ZDZmbmJnTldVckdXUHZXemRpTTVRbXl0NnJlWU9zTFFTUEFtai0yOThLakVPcW0yOGJ0QjA5NlBOZFFleFBaNEZpdWNUaXRhT3ZPZTd4elBKR0tPNXRkMU8waWJUbV9JT0FvZjFIUGl1dXZNcVdEMUQ5ejFWaVdvUGI2RlJId1RsdHhrUVJsZklDejJKVjlZSnJjcm9kZHp1ZFl0b0U0aW5EQXNEeW4?oc=5"
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNU2g0Q3dQVjM1MUJ1TXpqNlpPam5BUm1YX1JTSUIwWGRUeFc0M2UwZUJzaHJyOWIwNDBqdWphSkxBbnNRNGs5cktIM1JpQjZ5Q2I0WUJ2WmpQTDRJb3BKNlQ2alRjdGhmNHlUdGppZUQydUhoMlFrWTVFcVVyVTFab0p2UGdlSjZ6dkFXNTk1ZWJOeHdkZkZ5a2NtMDlEN0doQXZDU3VIdTJVUjloZHpORUdEOW5nSmsySnJGZ05RN0JGLWRJZUZ2aTV6S05pM1gyR0hFNFhfS2hWNFV1OUIxV0d1QVRpQzVqX1ktTG5ROU4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ded1b8b34207",
+      "title": "Aos 16 anos e sem dinheiro para comprar equipamentos, um estudante do Sertão da Paraíba montou seu primeiro telescópio com dois baldes de margarina e um espelho de parede, e hoje leva observações do espaço a escolas e praças da região com apar - CPG Click Petróleo e Gás",
+      "published": "2026-05-31T11:04:00+00:00",
+      "summary": "Aos 16 anos e sem dinheiro para comprar equipamentos, um estudante do Sertão da Paraíba montou seu primeiro telescópio com dois baldes de margarina e um espelho de parede, e hoje leva observações do espaço a escolas e praças da região com apar&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQdlZGZ2cwY0djcl92aDVFT0VCT0tEOVNEZXBEOXpUSlZFMmxDSlRVdy14bHZGYThVTlV6YkxjYTEwbXdzMVRGLXlYbmdDclBSMTZxUkppME1uNHNRRXBETFpQdFd1dXF6Z05ZVEFxZzdPNG5OeXM2dHdPUkJyaXpUdHJtOVRxQXhVNWJhSWhlNEJfT3F0VEo2WmJBV192c19vellDVXZrVlRPRDlLbUNfZndqN3ZyVmQ4T2dUdmpfNXpqeGE3elBwLWtkd2E5S016eTBDSDhPV0pqSndDa1hxaWpya1NZcVV2YU5WQzNDM3pyQjR3dzMyekM4QlRsNThINlJJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "32f42cf9a28b",
+      "title": "Cientistas ficaram impressionados ao ver aves de cabeça minúscula resolverem problemas como grandes primatas: os corvos memorizam centenas de esconderijos de comida, usam ferramentas e até transmitem conhecimento ao grupo, desafiando tudo o q - CPG Click Petróleo e Gás",
+      "published": "2026-05-31T11:01:00+00:00",
+      "summary": "Cientistas ficaram impressionados ao ver aves de cabeça minúscula resolverem problemas como grandes primatas: os corvos memorizam centenas de esconderijos de comida, usam ferramentas e até transmitem conhecimento ao grupo, desafiando tudo o q&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQVUpkMUt4RWEtWDNDWFJiM2M2NkMxUHNBY1ZRZTM2MzJ4UHdSNGRZMTc2UG13QzljRlVjUTVFQ1F5UlBqeVR2WkZqVnJnRC1CQlAxNktTM1BudlpxeURZNHUxdnhTQlFrS0RXb2hyWVdxSnZ4ekJPcFNzS1ZFdDNOcTJkcWVuZ2Rwd1RrMVktWkFoa190c2VVNDZqSHZvV0dVNGY2cEstVktFdWhNcVZhbDRFTmY4TEdrV0dSQlRldUMzWnhTaTZHbUlTQXFzVVhNV1lPQm1TLUhiSHNQSUdtc3JiNmxFMEdYVWI1a3p2bUpYNkd3N1JyRTFwdHhfd0pxaXZEcURIcGRWSjJoUVFaS3JaNkdlbUw0NWdMX1ZIZlB1S0lyZmNNazlMQXZLQVdHbW9mZW42bkE2bVZ3Vk1OX3dycnFRTUk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3e469a1a0a57",
+      "title": "JCNET: Pílula reduz risco de AVC recorrente em 39% e hemorragia em 60% - sampi.net.br",
+      "published": "2026-05-31T11:00:00+00:00",
+      "summary": "JCNET: Pílula reduz risco de AVC recorrente em 39% e hemorragia em 60%&nbsp;&nbsp;sampi.net.br",
+      "sources": [
+        {
+          "name": "sampi.net.br",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc004Y1J3THpkQS1pTTJwNWdEYUc3U0IzYVNLbzdJdjZPd2c2OXlIQUJuVjFtajlmakloZTRnN0lHOFR4alBMNFNTdngxdy0tZGtDclQyTldIVUpqTG5EVTE1VGw1S2RwWEhCcVI2N0NDalNzakprVThrYUhJUlE1aEZYTHQ1dW9vRkxDeE1EbC1SWE5SQmtGTUJOME96Yko1cEJUVzc2UUpNMnlyT1BFTkJyaWdoWHVLanRCWDJDRXRwdlkxalow?oc=5"
         }
       ]
     },
@@ -30,14 +66,14 @@
       ]
     },
     {
-      "id": "dab6aa34ca60",
-      "title": "Ebola: por que ainda não há vacinas para a doença? Entenda - CNN Brasil",
-      "published": "2026-05-31T09:43:50+00:00",
-      "summary": "Ebola: por que ainda não há vacinas para a doença? Entenda&nbsp;&nbsp;CNN BrasilOMS define prioridade para tratamentos experimentais contra cepa Bundibugyo do Ebola&nbsp;&nbsp;Valor EconômicoAgência de Saúde da União Africana promete vacina contra a cepa Bundibugyo do ebola até o final de 2026&nbsp;&nbsp;UOL NotíciasOMS identifica tratamentos e vacinas contra o ebola para testes&nbsp;&nbsp;Agência BrasilCongo: surto de Ébola não tem solução rápida&nbsp;&nbsp;Euronews",
+      "id": "ad94ef64fdc7",
+      "title": "Chip com neurônios humanos aprende a jogar game de tiro 'Doom' e impulsiona pesquisa sobre computadores biológicos; entenda - O Globo",
+      "published": "2026-05-31T09:20:46+00:00",
+      "summary": "Chip com neurônios humanos aprende a jogar game de tiro 'Doom' e impulsiona pesquisa sobre computadores biológicos; entenda&nbsp;&nbsp;O Globo",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMG00NnllNURpLWJlQllJaG55cmlnRnBOVU1oWUFDS0t5ZmdyZjE0aGEtVDEzVDIyZFBKcFNGQS1zYUVjc1VDYnZ4NDdrSFM0WHJ2Tl9XYTJsNDFpejZuNEZiSmVGUW1GX0c4T0ctTDU1VlR3cElSUkV6MU05U3RkNzZGdGZIUVRRYXBfUm9FT1E2NEFRa2tr?oc=5"
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPemQ1MlZHNE42M3RISzJKSk5wTWpwdXlmdHVudlVqc0ZTZ2Iwc0pyYmNlLUY2QkRfSlNIc1ZOaUM3a0drSXFoRThUVG1tdjRnMTFkY0FVTzBHLTFYc1ZuQ0dVY2pPblB0LVBVSFdqNTRBWC1NV1hhWHRmZnhNQlZidnFlT21RbFRiRmd6V2pPNG01c09zV1QyTjlHUnlTQU9WeHZnZXJMcHNrdl8yX3dNUG5XalVsaF80S1V3anNOYjdoUmdSSkhxXzE2M3R0RG5hOTVSeWlfQndtbTdzSlpTZFZweDhiLVlWcHBhM1dWSThPT1ZiRXZiUG8zUk51ZXpjQnVhRi1laVh3WHRhc1haLW54WGlHVlJJWFHSAagCQVVfeXFMUHdsOWkzUnJTd28wY1pzREtfOVVTMVE5NkFhYmJCa1puWmZwdWdQS0xYTk56cUtFWm9VQVlNTnlrM19hQmd3QXFVU05ybnlIVUVuMXEwbEtLa1B2eExCVG9aQ3FFUGJoUlg4TWtOOHNtY28wT08wZmxNNk0tWEpRQW43ZDZmbmJnTldVckdXUHZXemRpTTVRbXl0NnJlWU9zTFFTUEFtai0yOThLakVPcW0yOGJ0QjA5NlBOZFFleFBaNEZpdWNUaXRhT3ZPZTd4elBKR0tPNXRkMU8waWJUbV9JT0FvZjFIUGl1dXZNcVdEMUQ5ejFWaVdvUGI2RlJId1RsdHhrUVJsZklDejJKVjlZSnJjcm9kZHp1ZFl0b0U0aW5EQXNEeW4?oc=5"
         }
       ]
     },
@@ -66,10 +102,22 @@
       ]
     },
     {
+      "id": "b969af471817",
+      "title": "Amazônia Rosa? Estudo identifica possíveis 450 novas espécies escondidas no litoral do Brasil - Gazeta do Povo",
+      "published": "2026-05-31T01:02:00+00:00",
+      "summary": "Amazônia Rosa? Estudo identifica possíveis 450 novas espécies escondidas no litoral do Brasil&nbsp;&nbsp;Gazeta do Povo",
+      "sources": [
+        {
+          "name": "Gazeta do Povo",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWHlUTzNFNjVDSEZZMk1QY2xaWlk3aS1KNVA2QW9WQ1N5cGtYTWxfTkhFUlAwdExEeS1Pam1RRFhuTjN5RUJFZVVXUkEtNmowS2tJSFktLUNfNWMzdkRVMmlfN2xNaDFZYWJTU01QdmRNSE1Lamd2TEpUcFBaOEF3aDVlemV2T0daRGlyMGZhMUV1Z2kzUklNaFgyM2xkTjVpOWdVcDVCSGY1LTNxcmNMQUx3UnI1ZndCNFpRQkxOdFFGellLTmFxXzVRTQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "ef81a2da4bbe",
       "title": "Mesmo com chuva, mais de 2 mil pessoas se vacinam em Salvador; campanha contra gripe e covid continua - Jornal Correio",
       "published": "2026-05-30T23:07:31+00:00",
-      "summary": "Mesmo com chuva, mais de 2 mil pessoas se vacinam em Salvador; campanha contra gripe e covid continua&nbsp;&nbsp;Jornal CorreioPBH abre 19 centros de saúde neste sábado (30) para vacinação contra a gripe&nbsp;&nbsp;Prefeitura de Belo HorizontePBH abre 19 postos para vacina da gripe neste sábado; veja locais&nbsp;&nbsp;G1População elogia atendimento em sábado de vacinação nos postos de BH&nbsp;&nbsp;O TEMPOVacina da gripe em BH: saiba onde se vacinar neste sábado (30)&nbsp;&nbsp;Rádio Itatiaia",
+      "summary": "Mesmo com chuva, mais de 2 mil pessoas se vacinam em Salvador; campanha contra gripe e covid continua&nbsp;&nbsp;Jornal CorreioPBH abre 19 centros de saúde neste sábado (30) para vacinação contra a gripe&nbsp;&nbsp;Prefeitura de Belo HorizonteCentros de Saúde vão abrir amanhã para vacinação, em BH&nbsp;&nbsp;G1Belo Horizonte abre ponto extra de vacinação contra a gripe nesta segunda-feira (1°); veja onde&nbsp;&nbsp;Rádio ItatiaiaPopulação elogia atendimento em sábado de vacinação nos postos de B",
       "sources": [
         {
           "name": "Jornal Correio",
@@ -81,7 +129,7 @@
       "id": "763849a9d04c",
       "title": "Como o ebola é transmitido e qual o risco para o Brasil? - CBN",
       "published": "2026-05-30T21:36:07+00:00",
-      "summary": "Como o ebola é transmitido e qual o risco para o Brasil?&nbsp;&nbsp;CBNSurto de ebola: o que é, sintomas e transmissão&nbsp;&nbsp;GZHA cidade de Ho Chi Minh está tomando medidas para prevenir o risco de entrada do Ebola no país através das passagens de fronteira.&nbsp;&nbsp;Vietnam.vnNotícias&nbsp;&nbsp;Jornal de BarretosBrasil ativa plano de contingência contra o Ebola; saiba o que isso quer dizer e por que o país nunca teve casos&nbsp;&nbsp;BBC",
+      "summary": "Como o ebola é transmitido e qual o risco para o Brasil?&nbsp;&nbsp;CBNSurto de ebola: o que é, sintomas e transmissão&nbsp;&nbsp;GZHEntenda o que é o ebola: sintomas, origem e casos em investigação&nbsp;&nbsp;O TEMPOEntenda o plano de contingência do Brasil contra o Ebola após duas suspeitas em São Paulo e no Rio de Janeiro&nbsp;&nbsp;Correio BrazilienseEsforço total para combater a epidemia de Ebola.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "CBN",
@@ -93,7 +141,7 @@
       "id": "dbf046eaf638",
       "title": "Homem morre após contrair raiva em transplante nos EUA; outros três também receberam órgãos - O Globo",
       "published": "2026-05-30T18:27:02+00:00",
-      "summary": "Homem morre após contrair raiva em transplante nos EUA; outros três também receberam órgãos&nbsp;&nbsp;O GloboHomem morre após receber transplante de rim de doador infectado com o vírus da raiva&nbsp;&nbsp;TerraHomem morre após receber rim de doador infectado pelo vírus da raiva&nbsp;&nbsp;Extra online",
+      "summary": "Homem morre após contrair raiva em transplante nos EUA; outros três também receberam órgãos&nbsp;&nbsp;O GloboHomem morre após receber transplante de rim de doador infectado com o vírus da raiva&nbsp;&nbsp;TerraHomem morre após contrair raiva por transplante de rim nos Estados Unidos&nbsp;&nbsp;OCP NewsHomem morre após receber rim de doador infectado pelo vírus da raiva&nbsp;&nbsp;Extra online",
       "sources": [
         {
           "name": "O Globo",
@@ -129,23 +177,11 @@
       "id": "b75b5d41f4aa",
       "title": "Após baixa adesão, Rio prorroga campanha de vacinação contra a gripe - G1",
       "published": "2026-05-30T14:16:09+00:00",
-      "summary": "Após baixa adesão, Rio prorroga campanha de vacinação contra a gripe&nbsp;&nbsp;G1Estação Carioca terá vacinação contra gripe e tríplice viral nesta sexta&nbsp;&nbsp;Diário do RioTorcedores poderão se vacinar contra a gripe e o sarampo no Maracanã&nbsp;&nbsp;O DiaSecretaria de Saúde do Rio amplia postos de vacinação contra a gripe&nbsp;&nbsp;A Voz dos MunicípiosRio tem mais de 400 pontos de vacinação contra a gripe nesta semana&nbsp;&nbsp;Prefeitura da Cidade do Rio de Janeiro",
+      "summary": "Após baixa adesão, Rio prorroga campanha de vacinação contra a gripe&nbsp;&nbsp;G1Vacinação contra a gripe no Rio ultrapassa 1,3 milhão de doses aplicadas&nbsp;&nbsp;O GloboRio prorroga campanha de vacinação contra a gripe por tempo após baixa adesão de grupos prioritários&nbsp;&nbsp;Diário do RioEstação Carioca do MetrôRio recebe vacinação da SMS contra influenza e tríplice viral nesta sexta-feira (29/05)&nbsp;&nbsp;TV PrefeitoTorcedores poderão se vacinar contra a gripe e o sarampo no Maracanã",
       "sources": [
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdTBNMlZzTjBjQlBuMjdGVkU1VWR0Vk5mclJmYThfYldySm1QVnRmS2J0cTVWNGREM3htRDJOQzdmOW1aMUg4dWhLeFN6eDZaRGRKZUZKdWlLVkxncHVQSm9GMW5aQ3h4NVk0cjRfN1U0OGdaa0lQZ0poNzdGV1FIWkxETXlqZmhQYUtLZnJyTU9ERjlOSzNGYi1OamhfcUQ2QXZsdjVYNXpVYkdoZXg4U0lhY9IBwgFBVV95cUxQbkprR1ZSTTBMNktYTmd6bVpxeDJwblFtN1ZrT1g0cjFXLVpaaG1PQkpGcnNBcy1fa1lROHNzeGRUNGJtQ3BZRlh5Wmduakd6dW54Q29nQmhEcmI5SHdEYlEzM2hjamVMekdMaGFZS0VjY1RIWlVRREs0M2pJanVDYkZFbWZFTHlZekpadzZad1QxdC1MOEZEN2hzZi1RdExXY2NGcl92Uy1QSWR3bXlCZm12Z0pJMGRXSVA1S0RyMFRKZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4ee7c505a844",
-      "title": "Estudo analisa colmeia com 5,5 milhões de abelhas embaixo do solo de cemitério em Nova York - Um só Planeta",
-      "published": "2026-05-30T13:45:04+00:00",
-      "summary": "Estudo analisa colmeia com 5,5 milhões de abelhas embaixo do solo de cemitério em Nova York&nbsp;&nbsp;Um só Planeta",
-      "sources": [
-        {
-          "name": "Um só Planeta",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQ3VqNjJMS29xOG1XTEdTSlJIMS1Wd3NNazhZcFp6QjdEQ1RkbEpHYVhIZF96ZVJXTy16b2w0T3BHMlROMlpscDVXX09HVU9HeXFBY0FVMGRCMGhnY0dMS0t2VTluNGVManlaOEt3bUJyN24ydTlQMllyd3ZqdC12LTM2SWVuUEE4MkJWRUJqSkpkMDlsdkFPeXVDdnI1amdTTXc2Yk55aF81UUdGSURqY3ZfRGhLWE1LYmNHRVdVekQwOFNmSm5LX2VlcDlDOEM0c3diZTMyQ0tLUU9Rb1ZJcEp5b3R4WldyUHl3azI4T2l6Z9IBgAJBVV95cUxQNDhMSkdlbGNjbkthYXVqdkN5TTdxOC1WdkZGLVloeE8zVGFGaTY2ajJIb2ptZmJuZjNtVkQ2SHAtMkh1czNsYmxvUlZHV1dCdkZKY0pULWtwQU1HS1dCM1ZHTlNTZGVSXy13eDZDTnoza3JiLV91bzktVTBtMy1TQWU4ZFpMNzFONWJ6WGVSRlIzdjhPSUxPbDB3TTQ2TnRmVkk0R0hjbUtfNTVWTjVqSUlmeHZnSG5kMk9leS05Wk5QUHRBdjk0MnRQVDBZY2xOQWJmc0oySTI2OHlQaGhQYTllcUk0SWtlUjVmUmw1WDIwRzdmUzB0dnJaOWZudVZo?oc=5"
         }
       ]
     },
@@ -162,14 +198,14 @@
       ]
     },
     {
-      "id": "14c38397648b",
-      "title": "País começa a soltar crocodilos em área protegida para tentar salvar espécie em risco crítico e restaurar ecossistema de água doce degradado no Camboja - CPG Click Petróleo e Gás",
-      "published": "2026-05-30T12:44:00+00:00",
-      "summary": "País começa a soltar crocodilos em área protegida para tentar salvar espécie em risco crítico e restaurar ecossistema de água doce degradado no Camboja&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "id": "d9b9a703a841",
+      "title": "Produtos da rotina estão na lista dos que podem causar câncer; entenda - gmconline.com.br",
+      "published": "2026-05-30T12:51:00+00:00",
+      "summary": "Produtos da rotina estão na lista dos que podem causar câncer; entenda&nbsp;&nbsp;gmconline.com.br",
       "sources": [
         {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNSGUtUDhQbkV2RTE1ODlWOFY1Vm9nY3EtWG51b011eEU3dVVDcGdEZTBaQmFfMUw3aHZUS0cwNUtvM1hKZGpGOXI2U1YtVWJnbE5TanNsT0xraDBrYkY3Z004Y2podTFJc1U0SVA5R2FrcHdaMUpGVWI0ODFjZENnb1BvTl9NOHdLMnFtcE9OdFZSM3FVUkZwSzFHdkFQY1hjR0ZPT2RadnptWWstVzRRX3pLVU00YjR0U1dvUHQwNlFkS3NmTjdaT1UtWUYtSER3eDlKYkhEbHVOOEZyWUtteURuVWxNM0UyWEltVEZrZ3I2OUJWSjVpS1htU2NRMk9INlBIV3NtcjZzM2RjZlhWbjVtUFhINjlOeFdr?oc=5"
+          "name": "gmconline.com.br",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTFJwYlQzM2hnSDRSakxhTFpEdVdlZUg1YUZQb3JHUmZEUHZFX25Ua21ocHRXRmxRZjQ4b3AwdFBxRU50MUhCLXVsczVNZ3JPOW43aDBVZG1VWm5GeGZNb1d5U1BnYnVTRWptODRNdVZ0UmxIeFFOT2d4X0Vwb1ZMMXNxb1p1dHBEZmZGYVEtRGpWdl9MMXBIUjlnM1B6Ml93Rm1NMTd4MW5DbDMza0k00gG0AUFVX3lxTFB2ODZuelZ2bHpIaTdBMXBhTmstLXB6ZmNSeXhMUzI1dGV6MGVRWFVFS1RCdUZ1b1NOcGg5eFhObHotU1FDRzZhZ0MyTEhGRXhHeDZaR1Q5eEF0bkVUaXJDb0l4QXpKM3IteWN5N2NwNEVCRjQ4S1dtcjhMcW9LUXA1Ulk4cThNR2RmUUdHaXdjZXl4QUhwckx1TXFXZXZSZHhqY3pLcjlaNkVhOEpQMUJJaHZfUw?oc=5"
         }
       ]
     },
@@ -213,7 +249,7 @@
       "id": "32218207f331",
       "title": "Esclerose múltipla: sinais invisíveis desafiam diagnóstico - Correio do Povo",
       "published": "2026-05-30T10:10:38+00:00",
-      "summary": "Esclerose múltipla: sinais invisíveis desafiam diagnóstico&nbsp;&nbsp;Correio do PovoJovem que descobriu esclerose múltipla aos 17 anos relata desafios e reforça importância do diagnóstico precoce&nbsp;&nbsp;G1Dia Mundial da Esclerose Múltipla: 5 cuidados para manter a qualidade de vida&nbsp;&nbsp;GZHDiagnóstico precoce pode estabilizar progressão da esclerose múltipla; entenda&nbsp;&nbsp;Tribuna do NorteDia Mundial da Esclerose Múltipla: o que precisamos saber sobre a doença?&nbsp;&nbsp;Terra",
+      "summary": "Esclerose múltipla: sinais invisíveis desafiam diagnóstico&nbsp;&nbsp;Correio do PovoJovem que descobriu esclerose múltipla aos 17 anos relata desafios e reforça importância do diagnóstico precoce&nbsp;&nbsp;G1Dia Mundial da Esclerose Múltipla: 5 cuidados para manter a qualidade de vida&nbsp;&nbsp;CartaCapitalDiagnóstico precoce pode estabilizar progressão da esclerose múltipla; entenda&nbsp;&nbsp;Tribuna do NorteDia Mundial da Esclerose Múltipla: o que precisamos saber sobre a doença?&nbsp;&nbs",
       "sources": [
         {
           "name": "Correio do Povo",
@@ -222,22 +258,10 @@
       ]
     },
     {
-      "id": "3646e3d3684b",
-      "title": "Vírus sabiá circula há 142 anos no Brasil e está mudando, diz estudo - Poder360",
-      "published": "2026-05-30T10:04:30+00:00",
-      "summary": "Vírus sabiá circula há 142 anos no Brasil e está mudando, diz estudo&nbsp;&nbsp;Poder360Vírus raro e letal encontrado no interior de SP circula no país há 142 anos&nbsp;&nbsp;UOLEstudo identifica mutações em vírus raro após morte de trabalhador rural em Assis&nbsp;&nbsp;O Diário do ValeVírus sabiá circula no Brasil há mais de 140 anos e sofreu mutações, aponta estudo&nbsp;&nbsp;Rádio ItatiaiaVírus Sabiá: Patógeno de risco máximo circula no Brasil há 142 anos, revela estudo&nbsp;&nbsp;diariodopar",
-      "sources": [
-        {
-          "name": "Poder360",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeW1KNjJlcFFBNE10RmV3Q3lvZ19PdDFPckxwWm5wMVhEUVJnZ29JMGduay1XalhjTTlTUzg1OWc0bkYzeWhmeVZYM0F1Z0RPQUpDc2dXRmd6UnRZb0NKUFBoUDE2V3l1ZXVHV010Ri04eHdzeWFnREVFcW1HOHFhWWtnTXFWQ3pOb1ZiRDNwWVlHTEJUYnJia19FSXBPSHZBakhLUnBkMkxTRXdV?oc=5"
-        }
-      ]
-    },
-    {
       "id": "97f28b465f23",
       "title": "Por que o Alzheimer afeta mais mulheres? Novo estudo revela impacto no cérebro feminino - Globo",
       "published": "2026-05-30T08:57:33+00:00",
-      "summary": "Por que o Alzheimer afeta mais mulheres? Novo estudo revela impacto no cérebro feminino&nbsp;&nbsp;GloboVeja mais manchetes e perspectivas no Google Notícias",
+      "summary": "Por que o Alzheimer afeta mais mulheres? Novo estudo revela impacto no cérebro feminino&nbsp;&nbsp;Globo3 coisas que as mulheres deveriam fazer para diminuir o risco de demência&nbsp;&nbsp;Notícias ao Minuto",
       "sources": [
         {
           "name": "Globo",
@@ -246,14 +270,14 @@
       ]
     },
     {
-      "id": "61d37aaaf826",
-      "title": "Vacina contra a gripe é liberada para todas as idades a partir de hoje - Tribuna Online",
+      "id": "241ba4d24525",
+      "title": "O que acontece no corpo quando você consome cúrcuma com frequência - UOL",
       "published": "2026-05-30T08:30:00+00:00",
-      "summary": "Vacina contra a gripe é liberada para todas as idades a partir de hoje&nbsp;&nbsp;Tribuna OnlineVacinação contra gripe será ampliada para toda população a partir de segunda-feira&nbsp;&nbsp;Prefeitura de Porto AlegreNatal amplia vacinação contra a Influenza para toda a população a partir de segunda-feira (1º)&nbsp;&nbsp;Tribuna do NorteVacina contra a gripe é ampliada para todos os públicos em S. José&nbsp;&nbsp;Prefeitura de São José dos CamposCom encerramento da campanha de vacinação contra gr",
+      "summary": "O que acontece no corpo quando você consome cúrcuma com frequência&nbsp;&nbsp;UOLFerver cúrcuma em pó: para que serve e por que tomar&nbsp;&nbsp;EstadãoCúrcuma: os poderes e as polêmicas da especiaria que ganhou o mundo&nbsp;&nbsp;Veja SaúdePesquisa confirma: consumir açafrão-da-terra diariamente pode melhorar a memória em 28%&nbsp;&nbsp;Banda B3 curiosidades sobre a cúrcuma&nbsp;&nbsp;Estadão",
       "sources": [
         {
-          "name": "Tribuna Online",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUVFLSXNCSjAyZUV5ejV2RUhGbVJfYlZqVDhNZV9fM2M3WWlIOHZrUENwNXlVWkdiN0lfOExpWHNSVE5rd3AycEFvQm51T0lDVHVFcUY0cTBDS1JmNng4ZFZpMXIwNjRtTm1NdTg3ZU5mWVZHcW1VS3RMaHFZWHY1eUR5akpxU2VJQ2VObndHOGZHYTdOZXhsN0lXZXd5UGpFc0VQTXhpT29xcm9Ka1JlanF30gG6AUFVX3lxTE9IR05TSmRER19WWU1zZWw3ZGVFNzRmaldLRjJSMEE2SEt6Y1h0UFhBbUFaWklWSkNyVUpma0lsNXREY01saElRMFU1RXIySTkyN2pFakRFV09hbjRHTndkSDcteVpRWDc5UkdNcVA3eGpURThkSGdHakUwQ3NWbldpNmFDdjM1cl9IRmZyODdlbVZLVUxUTDkwRnFMamdlT1dxZkZfTGg0Y0ozQ1FnbVJIU18xWXRsQUdMZw?oc=5"
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMktVVEJHRzZhOXJhaWo1V01SVTZ3LW9FLVhCcTR2OG1BNl9WLWM0WVQ1aFh4aGJndXVKNlJLQjF1NzNFZmpzaFkxcDlFaHgtU1JCWVc5M2ZPR01fS21ic0dEQkhqLTl2d2t4TGpIc3NqbkNhUE1DVmpxYVE1U0JtSDY3Wm9Xa21fWGktTlNGbUxQeFpITFhJR2hITHZtaE42RVVXRkp2VWpXcDlhSV8zWWxsZU9qS3A2YTBkREZ3?oc=5"
         }
       ]
     },
@@ -270,14 +294,14 @@
       ]
     },
     {
-      "id": "04bbeb422b46",
-      "title": "Médico brasileiro cria técnica de reconstrução peniana; entenda resultado - CNN Brasil",
-      "published": "2026-05-30T07:15:13+00:00",
-      "summary": "Médico brasileiro cria técnica de reconstrução peniana; entenda resultado&nbsp;&nbsp;CNN Brasil",
+      "id": "dab6aa34ca60",
+      "title": "Ebola: por que ainda não há vacinas para a doença? Entenda - CNN Brasil",
+      "published": "2026-05-30T07:00:00+00:00",
+      "summary": "Ebola: por que ainda não há vacinas para a doença? Entenda&nbsp;&nbsp;CNN BrasilOMS define prioridade para tratamentos experimentais contra cepa Bundibugyo do Ebola&nbsp;&nbsp;Valor EconômicoAgência de Saúde da União Africana promete vacina contra a cepa Bundibugyo do ebola até o final de 2026&nbsp;&nbsp;UOL NotíciasOMS identifica tratamentos e vacinas contra o ebola para testes&nbsp;&nbsp;Agência BrasilCongo: surto de Ébola não tem solução rápida&nbsp;&nbsp;Euronews",
       "sources": [
         {
           "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdVdUTjR2dzRvZWhaUUhqOHdiLXU4R2RHVnNLYXZidmVaenFFYUlxU2tyWUVtX3E3Wm9jWHNDNVhzbUNOVTRhRzJidThvNkZWMHpLYUpYdU1wVk10WW1NQlpLWER2bGphVnFtUkpGZzJ0N0pwZWRsSkJZYTJkdFBOSlhHRWQzSjZtSENIQlhXQlI0VXM5X2hEQmlKb25iU2cyMEFEVzR4VDlPWldn?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMG00NnllNURpLWJlQllJaG55cmlnRnBOVU1oWUFDS0t5ZmdyZjE0aGEtVDEzVDIyZFBKcFNGQS1zYUVjc1VDYnZ4NDdrSFM0WHJ2Tl9XYTJsNDFpejZuNEZiSmVGUW1GX0c4T0ctTDU1VlR3cElSUkV6MU05U3RkNzZGdGZIUVRRYXBfUm9FT1E2NEFRa2tr?oc=5"
         }
       ]
     },
@@ -285,7 +309,7 @@
       "id": "91207209ffe2",
       "title": "Sono pode dar pistas sobre o risco de demência, revela estudo - Tribuna Online",
       "published": "2026-05-30T07:00:00+00:00",
-      "summary": "Sono pode dar pistas sobre o risco de demência, revela estudo&nbsp;&nbsp;Tribuna OnlineEsquecer nomes e palavras nem sempre é estresse: às vezes é o primeiro sinal de sono profundo insuficiente&nbsp;&nbsp;Tua SaúdeDormir mal na terceira idade compromete memória&nbsp;&nbsp;Agora RNCérebro trabalha enquanto dormimos: o elo entre sono e demência - Ciência Viva - Francisco Soares Filho&nbsp;&nbsp;CidadeVerde.comQuantas horas de sono você deve ter para beneficiar seu cérebro e se manter jovem?&nbsp;&",
+      "summary": "Sono pode dar pistas sobre o risco de demência, revela estudo&nbsp;&nbsp;Tribuna OnlineEsquecer nomes e palavras nem sempre é estresse: às vezes é o primeiro sinal de sono profundo insuficiente&nbsp;&nbsp;Tua SaúdeDormir 7 ou 8 horas ajuda na recuperação, mas o benefício real para a saúde cerebral exige horário consistente e ambiente escuro&nbsp;&nbsp;Correio BrazilienseCérebro trabalha enquanto dormimos: o elo entre sono e demência - Ciência Viva - Francisco Soares Filho&nbsp;&nbsp;CidadeVerde.",
       "sources": [
         {
           "name": "Tribuna Online",
@@ -294,26 +318,14 @@
       ]
     },
     {
-      "id": "79f5fcf4247e",
-      "title": "Produtos da rotina estão na lista dos que podem causar câncer. Entenda - Metrópoles",
-      "published": "2026-05-30T05:00:14+00:00",
-      "summary": "Produtos da rotina estão na lista dos que podem causar câncer. Entenda&nbsp;&nbsp;Metrópoles",
+      "id": "731d5a8508d9",
+      "title": "5 táticas com base científica para eliminar a gordura visceral - UOL",
+      "published": "2026-05-30T00:58:55+00:00",
+      "summary": "5 táticas com base científica para eliminar a gordura visceral&nbsp;&nbsp;UOLInimiga oculta: Como a gordura visceral inflama o corpo e destrói a saúde&nbsp;&nbsp;Portal do HolandaCorrer ajuda a emagrecer, mas cientistas apontam exercício ainda mais eficiente&nbsp;&nbsp;Diário do ComércioO que nos faz acumular gordura abdominal mais rápido? 5 causas conhecidas e outras 5 razões pouco comentadas pela ciência&nbsp;&nbsp;Tua Saúde",
       "sources": [
         {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1RMjhaOU80RmM1RXlfelpYWG1sREJpYTJDR1p1SXYtN2FILXI2MnpsNXl6WHNqbDVQQnpWRlBVdWdGUTlnMEFiWU43NXlLdUkweDlZWlRyVS1sbGpybVNJQkduekhfYkFLd1N6eUJLbDBGdmZ0Q2xzb2tn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "538a097e81e2",
-      "title": "Após 21 cirurgias, jovem com condição que afeta a fala dá palestras - Metrópoles",
-      "published": "2026-05-30T05:00:11+00:00",
-      "summary": "Após 21 cirurgias, jovem com condição que afeta a fala dá palestras&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0teDJOaGhfUjIxWTBrNDJPc1VMUDlZUVlDcmh0OFFuWDhvUWItaFdBNDliVUpncURkbkhwRXBRS3NrMHowTmIxRkFqMWFjSHVEckhtMS16a21tMDNaYzZ5dndnNTkySzdSX0NIbWZlVTZUbklsa2NsbGZadw?oc=5"
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONlVhR0c3LVZXYlVPU250bGlnZFhRTzNxaDB5cGVHRURhdXYxZ3l3ejRYcFp5WVJPcXNoS0pRSzl4V3JXcjB3czNzRXdnZWY0d1JSVGpnZUxUbURNRm1fSHRuTkgwa2dseFYwYWZjdVJRYkQ5ZWlUSi1VWVRpM0hpX3d6NXlKTmlsQkt0a2hnX2hSVVBtLUZNdnVZX1g4clFPZkYyNW1Ob2MwcExWSW45V1lqV3Q5VXJwYTFDeDNFYW5pd1B5?oc=5"
         }
       ]
     },
@@ -330,38 +342,14 @@
       ]
     },
     {
-      "id": "140da99f5545",
-      "title": "Influenza avança no Paraná; hospital de Curitiba registra mais de mil casos em um mês - Tribuna do Paraná",
-      "published": "2026-05-29T21:58:00+00:00",
-      "summary": "Influenza avança no Paraná; hospital de Curitiba registra mais de mil casos em um mês&nbsp;&nbsp;Tribuna do ParanáCasos de doenças respiratórias disparam no Paraná&nbsp;&nbsp;G1Tempo de espera aumenta nas UPAs de Curitiba após disparada de casos respiratórios&nbsp;&nbsp;Bem ParanáCuritiba enfrenta epidemia de gripes, resfriados e Covid no frio intenso&nbsp;&nbsp;ParanashopUpas registram superlotação em Curitiba com a chegada do frio&nbsp;&nbsp;Band News FM Curitiba",
+      "id": "91bfc3643b66",
+      "title": "Com encerramento da campanha de vacinação contra gripe, Estado reforça importância da imunização dos grupos prioritários - saude.rs.gov.br",
+      "published": "2026-05-29T20:24:00+00:00",
+      "summary": "Com encerramento da campanha de vacinação contra gripe, Estado reforça importância da imunização dos grupos prioritários&nbsp;&nbsp;saude.rs.gov.brVacinação contra gripe será ampliada para toda população a partir de segunda-feira&nbsp;&nbsp;Prefeitura de Porto AlegreNatal libera vacinação contra a gripe para toda a população a partir desta segunda-feira (1º)&nbsp;&nbsp;G1Vacina contra a gripe é ampliada para todos os públicos em S. José&nbsp;&nbsp;Prefeitura de São José dos CamposSorocaba amplia",
       "sources": [
         {
-          "name": "Tribuna do Paraná",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcnRpYmsxaloxMnBNT2gwdFA0VkRXOGpuOUo1SF9KMk15SlhPQUxlbGwwVUU2UXl1T2pjZ09xaEE1QWwxV0hBSjhZUHlXQXR5MnFBN24ySlFORS1aYW9takM1TnhHTFNaLXQ3NGdYRlJGVDJBTGtFeGV5X0d5WXczb0ZsMWVsWnNJTFZoYVJZNFlWZExMUnRaemxUbUVyZ1VOVHB6cmplZUlRbk9NcFRvR3BFNm1DdUlKQkhfZUNvY2dzeXN1T2tHdGpRdWNzUdIB0wFBVV95cUxNOURvZUMzdmRtSjF5VXkxaVlscWx6NlVqVnU4RkZabkVTLS1RWk1FZGNuSVhqTGhjMThjOVhCdTdlVE9VbG5LUWZHX3ByczlUSHJqVm1WczhCRmhwRG5VMW5HYTVCMFdWeWVnREktZU5qbGd0ejhlem90cHZBSVdNUWoySUtsLXBfakg5Ynd3czlTNWo3Q2VaTkNRNVY3aHRqeHNQdUdLTWYxZ3gxb2RielVVMmNzQXRaVUI2bzlqd2dVSjljS3ZBUGkyUm5LYVlhZngw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "832fb503e978",
-      "title": "Previsão Climática para o trimestre junho, julho e agosto de 2026 - Secretaria de Estado da Proteção e Defesa Civil",
-      "published": "2026-05-29T20:20:56+00:00",
-      "summary": "Previsão Climática para o trimestre junho, julho e agosto de 2026&nbsp;&nbsp;Secretaria de Estado da Proteção e Defesa Civil",
-      "sources": [
-        {
-          "name": "Secretaria de Estado da Proteção e Defesa Civil",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ2w2S3diU3V3MVdCYnVZNThaN0J3c3hNYVBzS2tGYlFoT3Y1RHEzNk85TWdTU0ZiQ1FQT1ZIa2JKdnIwUEdQZ1UxVFdTVWxvYXItaGRjUFNPcVFsVXJZdzEzb0x5OHN5cy1XeFVzYmNjVkVYbk1TTFAtcVh0R0p4THFIQ3dIVm9NcjdDVzZuSmJZLV95ZGtCZ1A4Zm1QTFNfaERwRHBfVkVBLXp2VVE4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "11d9c9a43758",
-      "title": "Mogi das Cruzes libera vacina da gripe para todos os públicos neste sábado - G1",
-      "published": "2026-05-29T20:12:07+00:00",
-      "summary": "Mogi das Cruzes libera vacina da gripe para todos os públicos neste sábado&nbsp;&nbsp;G1Mogi das Cruzes abre vacinação da gripe para toda a população no sábado&nbsp;&nbsp;Portal ABC do ABCMogi das Cruzes faz drive-thru de vacinação contra gripe para todos os públicos neste sábado&nbsp;&nbsp;diarioesp.com.brMogi abre vacinação contra a gripe para todos os públicos neste sábado (30/05)&nbsp;&nbsp;Portal NewsPrefeitura de Mogi das Cruzes libera vacinação contra gripe para toda a população neste sáb",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcGFGZW0yblItYTNBcnJWcUQtMEJtZjZjMFNwVHVPOXJNRGhNb2F5TGI0N3p6OFRmeGVoRWtRWUlSTWV5cjExY09mV25sQndYeGxCUnNZeVpfcTRSNXkxUjY4T0JNT0tUc3ZoV3lOVXJNd3lZbDV1VG1RbFcycXQzX2E2N1hiWGFZZDdMUGVaWGIwRlhTTjV2M054bEpsWnhSblozQ1pwSVhENFZVV2lDMHB1blVFdUlxZkp5Wk9namVkS2puaGNRWVhIY001aFJPWWFSZlp6UnZjMTU1UThj0gHuAUFVX3lxTE1qbEdtckRmSEQydHpFRm04R21OajVJTm9vU2t4WnhtbllqMlgyYmJiMFlJaXhsWDgyYjRLR1NNdTdsZGFROXlJa0JEc25MSzNDbUZkTDNORUZkY3FrUV9xakxRRUxLWmhRQTBRM3BaYVhkZnI0RzFpdEtyakZxbFg1TWpZV2d5aFgtVXZFdnE0UExlOUp3SkhQQl94a2EyWklrRDB3YkVETDZQX25BQVplWmk3eUtVYklkRkJDeGpacExRbVBzTFpyZXVWMDlzbHVPd2VjM1NuZmw1TC1WaFRWV0VkNGdzMHdQR2VPLWc?oc=5"
+          "name": "saude.rs.gov.br",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQb2lIM21VbTA5aHJjWk54ekdMYXNNYWhNc2ROR05aMzVIMEtwMlN2MnlaYjJ6UmoxWmlGaHQ5dW90ZzRkTF9lcEFsdmQ4ZlJibThraE9xZ0p1X1Jrc0FXenZKT2NSekFmd3JleTZOSnJaRUxyQU1QLXN2WXNTaVZzRDdPSWM1bWRsZ1lXRTdDZDhDN2RaWEd3LVRSVUdzLUk1aFJfa0F4d3Q3dFQxaEd1d2FoaFpzZ0kwRjl2c1ptOTByX3p0bzZOd3pWaERVRGtObEdsQm83QUNnVk0?oc=5"
         }
       ]
     },
@@ -369,23 +357,11 @@
       "id": "ed2c36581f07",
       "title": "Câncer de intestino: sete sintomas silenciosos que merecem atenção - Metrópoles",
       "published": "2026-05-29T19:21:15+00:00",
-      "summary": "Câncer de intestino: sete sintomas silenciosos que merecem atenção&nbsp;&nbsp;MetrópolesCausas do aumento do câncer colorretal em adultos jovens&nbsp;&nbsp;Estado de MinasEncontro com a prevenção: câncer, um olhar atual e o aumento em jovens&nbsp;&nbsp;VEJA RIOO sintoma intestinal que adultos jovens mais demoram a levar a sério&nbsp;&nbsp;Tua SaúdeConhecer o risco, escolher a esperança: o combate ao cancro colorretal&nbsp;&nbsp;SAPO",
+      "summary": "Câncer de intestino: sete sintomas silenciosos que merecem atenção&nbsp;&nbsp;MetrópolesO sintoma intestinal que adultos jovens mais demoram a levar a sério&nbsp;&nbsp;Tua SaúdeConhecer o risco, escolher a esperança: o combate ao cancro colorretal&nbsp;&nbsp;SAPOCasos de câncer colorretal crescem entre jovens e acendem alerta para os hábitos de vida&nbsp;&nbsp;Jornal Bairros NetCausas do aumento do câncer colorretal em adultos jovens&nbsp;&nbsp;Estado de Minas",
       "sources": [
         {
           "name": "Metrópoles",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xRlRiNFFYaWFjZDhXTzNJd25TUVNLTjhJNUNzZFdCaGRza2QtZlFkWGN4b1ROTkNDb3FXcmZod3JWbWM4TDlINWpkVXlZNU9FQjkzSnB4bUYweEk2bW5TclRKUURoaEMzS1R3alpfU3NhOWd5Vlg2c2FpU1M?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0b9f05a2b2d6",
-      "title": "Pombos podem usar o fígado como 'GPS natural', sugere estudo; entenda - Um só Planeta",
-      "published": "2026-05-29T16:37:08+00:00",
-      "summary": "Pombos podem usar o fígado como 'GPS natural', sugere estudo; entenda&nbsp;&nbsp;Um só Planeta",
-      "sources": [
-        {
-          "name": "Um só Planeta",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMW9fY24ta3VaTWZwLVh3Rm95T3VyN00zaVhqTmRUS1c3dEx5QnJ2N28yOG5fOG1oLXpCRkppM2FZSXdqbktNZXo5MnEwZVVnZlMxaFY3UFl0SF93eEVmTU9YTUlKdjkySUs5bDhVeGpNbTNFYXQ1UU1OelM4bnFJempNZEw0OHVLYk9SNWVQdkxOVlNnZXVDTWhGQlBJZ09oY2pBeWVnWVVncVZUMlZSdnNJV08zTzdFbFVCbE9XYnlXVXM1UjBvMDBpVjA3RUhS0gHfAUFVX3lxTE10d2otNklfRWJ5c21zVEpHTjNkY1NZbEV2WnNOV05ERXctR2ZhS0hCYV9tZ3JlLUkyOGZjR3B4ckYtOGRzTnRHam1NTjBVeURKX1NDZWtaYTRUVm9OdzRrWHk4M1lMR0FnZUx4M2xQRGJ2N3JWQTBBNXNLREZxQzhQVnlEamJ0ZUNCeVZIeVRwWHk5MFJTbFczMEtCMU9UbmFiYlhzV0NEZ3hpMl9qMGVtRE41YjVRMnJWbDJVb09RS2hzMm5RTlg0dG9jV1RuLWZfQ3JVQmQwRTdDMnRpUEk?oc=5"
         }
       ]
     }
