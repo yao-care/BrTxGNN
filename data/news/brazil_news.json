@@ -1,14 +1,38 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-05-31T08:48:39.715346+00:00",
-  "total_fetched": 84,
-  "unique_count": 83,
-  "health_related_count": 33,
+  "fetched_at": "2026-05-31T13:48:40.769991+00:00",
+  "total_fetched": 87,
+  "unique_count": 86,
+  "health_related_count": 32,
   "news": [
+    {
+      "id": "ad94ef64fdc7",
+      "title": "Chip com neurônios humanos aprende a jogar game de tiro 'Doom' e impulsiona pesquisa sobre computadores biológicos; entenda - O Globo",
+      "published": "2026-05-31T13:33:23+00:00",
+      "summary": "Chip com neurônios humanos aprende a jogar game de tiro 'Doom' e impulsiona pesquisa sobre computadores biológicos; entenda&nbsp;&nbsp;O Globo",
+      "sources": [
+        {
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPemQ1MlZHNE42M3RISzJKSk5wTWpwdXlmdHVudlVqc0ZTZ2Iwc0pyYmNlLUY2QkRfSlNIc1ZOaUM3a0drSXFoRThUVG1tdjRnMTFkY0FVTzBHLTFYc1ZuQ0dVY2pPblB0LVBVSFdqNTRBWC1NV1hhWHRmZnhNQlZidnFlT21RbFRiRmd6V2pPNG01c09zV1QyTjlHUnlTQU9WeHZnZXJMcHNrdl8yX3dNUG5XalVsaF80S1V3anNOYjdoUmdSSkhxXzE2M3R0RG5hOTVSeWlfQndtbTdzSlpTZFZweDhiLVlWcHBhM1dWSThPT1ZiRXZiUG8zUk51ZXpjQnVhRi1laVh3WHRhc1haLW54WGlHVlJJWFHSAagCQVVfeXFMUHdsOWkzUnJTd28wY1pzREtfOVVTMVE5NkFhYmJCa1puWmZwdWdQS0xYTk56cUtFWm9VQVlNTnlrM19hQmd3QXFVU05ybnlIVUVuMXEwbEtLa1B2eExCVG9aQ3FFUGJoUlg4TWtOOHNtY28wT08wZmxNNk0tWEpRQW43ZDZmbmJnTldVckdXUHZXemRpTTVRbXl0NnJlWU9zTFFTUEFtai0yOThLakVPcW0yOGJ0QjA5NlBOZFFleFBaNEZpdWNUaXRhT3ZPZTd4elBKR0tPNXRkMU8waWJUbV9JT0FvZjFIUGl1dXZNcVdEMUQ5ejFWaVdvUGI2RlJId1RsdHhrUVJsZklDejJKVjlZSnJjcm9kZHp1ZFl0b0U0aW5EQXNEeW4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c67d684619ff",
+      "title": "A falta de sono profundo está relacionada ao acúmulo de proteínas tóxicas no cérebro, segundo neurologistas - Tua Saúde",
+      "published": "2026-05-31T10:05:00+00:00",
+      "summary": "A falta de sono profundo está relacionada ao acúmulo de proteínas tóxicas no cérebro, segundo neurologistas&nbsp;&nbsp;Tua Saúde",
+      "sources": [
+        {
+          "name": "Tua Saúde",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZENIeGJZTDAxVDdZZl9DNVJKc2Y5WS1qaUhVSkoza1JUNGwtVmNBMHFNdkszZ3dmOVVQcDJULVpKZ2U2Z25Ob1NMbmIzVFd3U3NNVk1nZ0hpak5jdC1iMlFJOHgyRG5iazZ1TURPNjdnVUJHenNSS2dxNDBPeXVmNVFVVHhjSDQ2M3FkZnhKVGtzWGIyV0ZHVFFCdzBRQ2FYN2dfb1hURWNJVEgzOFI1LXpyVWNVeHNPbUR2MFhNNGQzYkVZU0drYmp2Z0lDZVo5X3ZRM25hM0M4aXd2UDh4SWN3?oc=5"
+        }
+      ]
+    },
     {
       "id": "dab6aa34ca60",
       "title": "Ebola: por que ainda não há vacinas para a doença? Entenda - CNN Brasil",
-      "published": "2026-05-31T03:50:21+00:00",
+      "published": "2026-05-31T09:43:50+00:00",
       "summary": "Ebola: por que ainda não há vacinas para a doença? Entenda&nbsp;&nbsp;CNN BrasilOMS define prioridade para tratamentos experimentais contra cepa Bundibugyo do Ebola&nbsp;&nbsp;Valor EconômicoAgência de Saúde da União Africana promete vacina contra a cepa Bundibugyo do ebola até o final de 2026&nbsp;&nbsp;UOL NotíciasOMS identifica tratamentos e vacinas contra o ebola para testes&nbsp;&nbsp;Agência BrasilCongo: surto de Ébola não tem solução rápida&nbsp;&nbsp;Euronews",
       "sources": [
         {
@@ -18,26 +42,26 @@
       ]
     },
     {
-      "id": "2620cdd62822",
-      "title": "De acordo com a ciência, em que idade começa a velhice? - Tua Saúde",
-      "published": "2026-05-31T03:40:00+00:00",
-      "summary": "De acordo com a ciência, em que idade começa a velhice?&nbsp;&nbsp;Tua Saúde",
+      "id": "faea171e6971",
+      "title": "As barrinhas de cereais são de fato saudáveis? Médico explica - O Globo",
+      "published": "2026-05-31T07:30:41+00:00",
+      "summary": "As barrinhas de cereais são de fato saudáveis? Médico explica&nbsp;&nbsp;O Globo",
       "sources": [
         {
-          "name": "Tua Saúde",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTnVWb21TUHY0aFlRUHNnMG1fUExkNlNXN3dMb25IWnJKMnRJX05RZWFXTVpKZUh3QkJURmFvQzNMUzBjYl9reWdiai05aTA5OXo0LS03cEdGVlFSRDNCZmxyMk1mMENvU0NncVZmMnp1V0NUQWZkYkVTOVUwNTVJNHpHTE1tTDkzQ1ppc0swS0p4MzQzNFE2VUtKcw?oc=5"
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUWx1d2w4Tm5ja3J4RnZWaEZGbzNBTDJyRTVteHZYQ2dpOUNkZ2ktek1mbDBwRjZFSmtNS080YkFzb0ZfRy1XbU5UZWJOWXdzalJtTlZTVWVPQnZlMmx2ZlF0VU0xSjdld2lMckQzU0dOYktGSTl5TDgyMFFFNEhyYzljck1pZ1RpT2FpU05NbGpTMkppZ1N4NXhxWlg2c2lXZGNaYzNvdWpRS1BFdUcza0t2eTIwdjjSAcYBQVVfeXFMUDZETGhlNS1rSXdkSnRnSThma0w4TXVDNndfbkI4ZEptUzNOTVBmRlptTTcwNTZZSVhLYnBoLVpicHlDTmpFclFkMTMwcjl0eEZ1ajlBLXQ1bDI1ZFVuYzlfdmQ5ODE2U1l6NFVlaXVDRjZXQV8tY2g3T0VCXzctVjY0Y1RNVXZzWUkzbnVkSWNXcFpzaUgwZUNsNnlLZDRreTlEbWk3YUE2R1dGYmhJYUZzeFFFRXlQdjJwQW81UjBIQUhyVi13?oc=5"
         }
       ]
     },
     {
-      "id": "8b2db63d5539",
-      "title": "Homem vindo de Uganda é isolado no Rio por suspeita de ebola - O Globo",
-      "published": "2026-05-31T00:57:26+00:00",
-      "summary": "Homem vindo de Uganda é isolado no Rio por suspeita de ebola&nbsp;&nbsp;O GloboPaciente com suspeita de Ebola é internado em SP&nbsp;&nbsp;CNN BrasilO que se sabe sobre o caso suspeito de Ebola investigado em São Paulo&nbsp;&nbsp;BBCSuspeita de ebola em SP: o que é, sintomas e por que ainda não há vacina&nbsp;&nbsp;UOLBelga vindo de Uganda, país que registra casos de ebola, é internado no Rio e testa positivo para malária; paciente segue isolado&nbsp;&nbsp;Terra",
+      "id": "217bc203611c",
+      "title": "Cratera brasileira rara pode auxiliar estudos sobre Marte e a Lua - CNN Brasil",
+      "published": "2026-05-31T06:33:55+00:00",
+      "summary": "Cratera brasileira rara pode auxiliar estudos sobre Marte e a Lua&nbsp;&nbsp;CNN Brasil",
       "sources": [
         {
-          "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSjRoeS1pckRyY3pzS05mN215VVluYUplRkJ5Ty1zTmlhcXFkRFZVQUpQSnd6bExiWjU1NG5FZWxZNzJtaUVNQ0VOemd5eDRZVVZyX3VMQ1QwYUg2UkJ0LVN5dm1qUDh6N3VNaFRESVFLSlJVZUhyblREVGFrakowRnIwM0pIemNYamtlTUtfaFNiUkF5cmVidmVMeVZIQ1kxQk15dXNOemVBVDJjUzJLNE5LdzbSAcMBQVVfeXFMTjBkVUp6Zk9STWhQQlhGVjlQTnhqYWZwVjlOWmMwb3NnX2xZUENINV81b3B0VkJCVUdSY0htVXF0TUpBeHl3Q09OQ2dMTkc0OE55SUliZDdrYzBwdjdHaDA3Sm9XYXhqVzVsUmE0OUctbnZaNkx5UVpuNVVYN2Y5RWFVT1REeHBzYTdURFZzUnJPU3ZGNC1UUGc1VVo2WkhwczhiQzh5aDR6ZHNFaENWTV9zZDg3REdxS3FvQmg5Mmh2QllB?oc=5"
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSFo5c25RaFl1MkY4V21QLWxWeG1KOGpLb0ZXR19yWjhUeUdTa2EyaEwyVklzS0RMTkpkUWlBcmtHT2NCR3FBaHNvWjZvUEpzNnV5SjhnMndPR1VQXzc4cld5M0d0Q0xSUDkyOElsY3dlMmlRY0Z1Q1Fkc1pybFd4SVlucTFRQUp1OGc0dzBiWUFsRGZKY0tFdjN6NHdPMDhhLUEzd3J3?oc=5"
         }
       ]
     },
@@ -45,7 +69,7 @@
       "id": "ef81a2da4bbe",
       "title": "Mesmo com chuva, mais de 2 mil pessoas se vacinam em Salvador; campanha contra gripe e covid continua - Jornal Correio",
       "published": "2026-05-30T23:07:31+00:00",
-      "summary": "Mesmo com chuva, mais de 2 mil pessoas se vacinam em Salvador; campanha contra gripe e covid continua&nbsp;&nbsp;Jornal CorreioPBH abre 19 postos para vacina da gripe neste sábado; veja locais&nbsp;&nbsp;G1População elogia atendimento em sábado de vacinação nos postos de BH&nbsp;&nbsp;O TEMPOEstratégia de proteção&nbsp;&nbsp;A TARDEPBH abre 19 centros de saúde neste sábado (30) para vacinação contra a gripe&nbsp;&nbsp;Prefeitura de Belo Horizonte",
+      "summary": "Mesmo com chuva, mais de 2 mil pessoas se vacinam em Salvador; campanha contra gripe e covid continua&nbsp;&nbsp;Jornal CorreioPBH abre 19 centros de saúde neste sábado (30) para vacinação contra a gripe&nbsp;&nbsp;Prefeitura de Belo HorizontePBH abre 19 postos para vacina da gripe neste sábado; veja locais&nbsp;&nbsp;G1População elogia atendimento em sábado de vacinação nos postos de BH&nbsp;&nbsp;O TEMPOVacina da gripe em BH: saiba onde se vacinar neste sábado (30)&nbsp;&nbsp;Rádio Itatiaia",
       "sources": [
         {
           "name": "Jornal Correio",
@@ -102,14 +126,14 @@
       ]
     },
     {
-      "id": "005f7dd1eb9e",
-      "title": "Rio prorroga vacinação contra gripe para toda a população - Extra online",
-      "published": "2026-05-30T14:26:10+00:00",
-      "summary": "Rio prorroga vacinação contra gripe para toda a população&nbsp;&nbsp;Extra onlineApós baixa adesão, Rio prorroga campanha de vacinação contra a gripe&nbsp;&nbsp;G1Estação Carioca terá vacinação contra gripe e tríplice viral nesta sexta&nbsp;&nbsp;Diário do RioSecretaria de Saúde do Rio amplia postos de vacinação contra a gripe&nbsp;&nbsp;A Voz dos MunicípiosPrefeitura do Rio prorroga campanha de vacinação contra gripe&nbsp;&nbsp;JB.FM",
+      "id": "b75b5d41f4aa",
+      "title": "Após baixa adesão, Rio prorroga campanha de vacinação contra a gripe - G1",
+      "published": "2026-05-30T14:16:09+00:00",
+      "summary": "Após baixa adesão, Rio prorroga campanha de vacinação contra a gripe&nbsp;&nbsp;G1Estação Carioca terá vacinação contra gripe e tríplice viral nesta sexta&nbsp;&nbsp;Diário do RioTorcedores poderão se vacinar contra a gripe e o sarampo no Maracanã&nbsp;&nbsp;O DiaSecretaria de Saúde do Rio amplia postos de vacinação contra a gripe&nbsp;&nbsp;A Voz dos MunicípiosRio tem mais de 400 pontos de vacinação contra a gripe nesta semana&nbsp;&nbsp;Prefeitura da Cidade do Rio de Janeiro",
       "sources": [
         {
-          "name": "Extra online",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONmpEdGkzemUxM2FfVVJ3TGlyd0tHS1FZbHp5NEJLRzRVZzgwdkk5OF9DeWhleWF6NWVCQ2RRS1dFZlF5UVAwWGRiOUotdHJDbWRKbXBKcHVaekxKajE0T0k3bThsbXQweHRLSGQzeVVsODMzeDlpeU1YaGZiUHBXS3NoWGdPLVVucTRmeHBKejVmVFJHbVFNRXBlZ3ZnMjNoLUMxcHJua0ZLQjTSAboBQVVfeXFMUGlSTkE2eDQ5YnlZYlM0WHlENzVhcnNDLUg5UWFtazhUODVIYUNDLXdCMlpLa0RWendaYzRJcDA1S0tvNURtOEhxYmFLbF81Zmt6ZkN2UjVtLVBzblVXcEZnc01yZ3lzWkdOYnFoa2w3Y1VVc19GQkctV1FQSExKcUpXSjlDTm5KY1BCS05KSklYNEhKN0JVREFlSDUxVktpMzB2dEZCd2tyZHpaM2JiWXA5NG9kaGNSd1Z3?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdTBNMlZzTjBjQlBuMjdGVkU1VWR0Vk5mclJmYThfYldySm1QVnRmS2J0cTVWNGREM3htRDJOQzdmOW1aMUg4dWhLeFN6eDZaRGRKZUZKdWlLVkxncHVQSm9GMW5aQ3h4NVk0cjRfN1U0OGdaa0lQZ0poNzdGV1FIWkxETXlqZmhQYUtLZnJyTU9ERjlOSzNGYi1OamhfcUQ2QXZsdjVYNXpVYkdoZXg4U0lhY9IBwgFBVV95cUxQbkprR1ZSTTBMNktYTmd6bVpxeDJwblFtN1ZrT1g0cjFXLVpaaG1PQkpGcnNBcy1fa1lROHNzeGRUNGJtQ3BZRlh5Wmduakd6dW54Q29nQmhEcmI5SHdEYlEzM2hjamVMekdMaGFZS0VjY1RIWlVRREs0M2pJanVDYkZFbWZFTHlZekpadzZad1QxdC1MOEZEN2hzZi1RdExXY2NGcl92Uy1QSWR3bXlCZm12Z0pJMGRXSVA1S0RyMFRKZw?oc=5"
         }
       ]
     },
@@ -138,18 +162,6 @@
       ]
     },
     {
-      "id": "d9b9a703a841",
-      "title": "Produtos da rotina estão na lista dos que podem causar câncer; entenda - gmconline.com.br",
-      "published": "2026-05-30T12:51:00+00:00",
-      "summary": "Produtos da rotina estão na lista dos que podem causar câncer; entenda&nbsp;&nbsp;gmconline.com.br",
-      "sources": [
-        {
-          "name": "gmconline.com.br",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTFJwYlQzM2hnSDRSakxhTFpEdVdlZUg1YUZQb3JHUmZEUHZFX25Ua21ocHRXRmxRZjQ4b3AwdFBxRU50MUhCLXVsczVNZ3JPOW43aDBVZG1VWm5GeGZNb1d5U1BnYnVTRWptODRNdVZ0UmxIeFFOT2d4X0Vwb1ZMMXNxb1p1dHBEZmZGYVEtRGpWdl9MMXBIUjlnM1B6Ml93Rm1NMTd4MW5DbDMza0k00gG0AUFVX3lxTFB2ODZuelZ2bHpIaTdBMXBhTmstLXB6ZmNSeXhMUzI1dGV6MGVRWFVFS1RCdUZ1b1NOcGg5eFhObHotU1FDRzZhZ0MyTEhGRXhHeDZaR1Q5eEF0bkVUaXJDb0l4QXpKM3IteWN5N2NwNEVCRjQ4S1dtcjhMcW9LUXA1Ulk4cThNR2RmUUdHaXdjZXl4QUhwckx1TXFXZXZSZHhqY3pLcjlaNkVhOEpQMUJJaHZfUw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "14c38397648b",
       "title": "País começa a soltar crocodilos em área protegida para tentar salvar espécie em risco crítico e restaurar ecossistema de água doce degradado no Camboja - CPG Click Petróleo e Gás",
       "published": "2026-05-30T12:44:00+00:00",
@@ -158,18 +170,6 @@
         {
           "name": "CPG Click Petróleo e Gás",
           "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNSGUtUDhQbkV2RTE1ODlWOFY1Vm9nY3EtWG51b011eEU3dVVDcGdEZTBaQmFfMUw3aHZUS0cwNUtvM1hKZGpGOXI2U1YtVWJnbE5TanNsT0xraDBrYkY3Z004Y2podTFJc1U0SVA5R2FrcHdaMUpGVWI0ODFjZENnb1BvTl9NOHdLMnFtcE9OdFZSM3FVUkZwSzFHdkFQY1hjR0ZPT2RadnptWWstVzRRX3pLVU00YjR0U1dvUHQwNlFkS3NmTjdaT1UtWUYtSER3eDlKYkhEbHVOOEZyWUtteURuVWxNM0UyWEltVEZrZ3I2OUJWSjVpS1htU2NRMk9INlBIV3NtcjZzM2RjZlhWbjVtUFhINjlOeFdr?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dfddd9cca088",
-      "title": "Nem dez mil passos, nem trinta minutos: quanto exercício devemos fazer por dia, segundo a ciência - Tua Saúde",
-      "published": "2026-05-30T12:40:00+00:00",
-      "summary": "Nem dez mil passos, nem trinta minutos: quanto exercício devemos fazer por dia, segundo a ciência&nbsp;&nbsp;Tua Saúde",
-      "sources": [
-        {
-          "name": "Tua Saúde",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcjBKUU5KaTdlTFJ6b1Q5ekNtd1dIbUE2MXhhRkZuNkx2UHZLMXFHTzRPMmdIMFlRS0prc2lLeTBfQk5LSDIyTlpZcUZmMDBXUk9kVnF3eGx3Qzh3OW5naG85dFFrQ0hMaXdEYmxaQTFKalhEZlo0UkkwWnVQY2dDelR5b3lVS2NyVDVVTHY4SUFOUzNFMmV6eXk2S2x3TjRqYm85NU9BcGpxYXE4eGJqQXlqaVkzaU5wSzFGcklWRVhMd2JYM0sxeHlOUnlTSXVKQkE?oc=5"
         }
       ]
     },
@@ -213,7 +213,7 @@
       "id": "32218207f331",
       "title": "Esclerose múltipla: sinais invisíveis desafiam diagnóstico - Correio do Povo",
       "published": "2026-05-30T10:10:38+00:00",
-      "summary": "Esclerose múltipla: sinais invisíveis desafiam diagnóstico&nbsp;&nbsp;Correio do PovoDia Mundial da Esclerose Múltipla: 5 cuidados para manter a qualidade de vida&nbsp;&nbsp;CartaCapitalDiagnóstico precoce pode estabilizar progressão da esclerose múltipla; entenda&nbsp;&nbsp;Tribuna do NorteEsclerose múltipla: sintomas podem ser confundidos com estresse&nbsp;&nbsp;Folha VitóriaDia da conscientização sobre a esclerose múltipla&nbsp;&nbsp;G1",
+      "summary": "Esclerose múltipla: sinais invisíveis desafiam diagnóstico&nbsp;&nbsp;Correio do PovoJovem que descobriu esclerose múltipla aos 17 anos relata desafios e reforça importância do diagnóstico precoce&nbsp;&nbsp;G1Dia Mundial da Esclerose Múltipla: 5 cuidados para manter a qualidade de vida&nbsp;&nbsp;GZHDiagnóstico precoce pode estabilizar progressão da esclerose múltipla; entenda&nbsp;&nbsp;Tribuna do NorteDia Mundial da Esclerose Múltipla: o que precisamos saber sobre a doença?&nbsp;&nbsp;Terra",
       "sources": [
         {
           "name": "Correio do Povo",
@@ -225,23 +225,11 @@
       "id": "3646e3d3684b",
       "title": "Vírus sabiá circula há 142 anos no Brasil e está mudando, diz estudo - Poder360",
       "published": "2026-05-30T10:04:30+00:00",
-      "summary": "Vírus sabiá circula há 142 anos no Brasil e está mudando, diz estudo&nbsp;&nbsp;Poder360Vírus raro e letal encontrado no interior de SP circula no país há 142 anos&nbsp;&nbsp;UOLEstudo identifica mutações em vírus raro após morte de trabalhador rural em Assis&nbsp;&nbsp;O Diário do ValeVírus Sabiá está no Brasil há 142 anos e vem se alterando, diz estudo&nbsp;&nbsp;MetrópolesVírus Sabiá: Patógeno de risco máximo circula no Brasil há 142 anos, revela estudo&nbsp;&nbsp;diariodopara.com.br",
+      "summary": "Vírus sabiá circula há 142 anos no Brasil e está mudando, diz estudo&nbsp;&nbsp;Poder360Vírus raro e letal encontrado no interior de SP circula no país há 142 anos&nbsp;&nbsp;UOLEstudo identifica mutações em vírus raro após morte de trabalhador rural em Assis&nbsp;&nbsp;O Diário do ValeVírus sabiá circula no Brasil há mais de 140 anos e sofreu mutações, aponta estudo&nbsp;&nbsp;Rádio ItatiaiaVírus Sabiá: Patógeno de risco máximo circula no Brasil há 142 anos, revela estudo&nbsp;&nbsp;diariodopar",
       "sources": [
         {
           "name": "Poder360",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeW1KNjJlcFFBNE10RmV3Q3lvZ19PdDFPckxwWm5wMVhEUVJnZ29JMGduay1XalhjTTlTUzg1OWc0bkYzeWhmeVZYM0F1Z0RPQUpDc2dXRmd6UnRZb0NKUFBoUDE2V3l1ZXVHV010Ri04eHdzeWFnREVFcW1HOHFhWWtnTXFWQ3pOb1ZiRDNwWVlHTEJUYnJia19FSXBPSHZBakhLUnBkMkxTRXdV?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ab8852f9f547",
-      "title": "Nova variante genética ajuda a explicar doença neurológica rara - Poder360",
-      "published": "2026-05-30T09:29:30+00:00",
-      "summary": "Nova variante genética ajuda a explicar doença neurológica rara&nbsp;&nbsp;Poder360",
-      "sources": [
-        {
-          "name": "Poder360",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdGNXNWh2SU01TUd3bFllenNobTlMM3YyZXB4Y3BnalktNkpEUEhtQUh2a1JQU0FhZ2tvRlFOTm5taVozc3hNMzJsTmc0ODNRdjhSU0xLTnlSQ3YzVTFDVHJiT25idGZPc1JEVm5xM0pHaXFfN1lYZER6YTRnLWFudUZvbGdwYUdNaDlFdHo1c3FkZUpzWnB0TE9VallhbE5sdzBnaDVnaw?oc=5"
         }
       ]
     },
@@ -258,22 +246,10 @@
       ]
     },
     {
-      "id": "59d1dcd6244a",
-      "title": "Do outro lado do planeta, médico brasileiro opera paciente em Porto Alegre estando na China, a quase 19 mil km de distância, usando robô cirúrgico que responde em 200 milissegundos em procedimento que parece ficção científica - CPG Click Petróleo e Gás",
-      "published": "2026-05-30T08:49:00+00:00",
-      "summary": "Do outro lado do planeta, médico brasileiro opera paciente em Porto Alegre estando na China, a quase 19 mil km de distância, usando robô cirúrgico que responde em 200 milissegundos em procedimento que parece ficção científica&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNbllTdzhFV3dtalB0bmdrRk41Q2dYNkpkVEpvdzFia1dnSlkxblpNTFM1R0hnQVpZX0lCVk5ybmpqdlJKQ3k3ZkJwOGczWmpQaDh0YzRlUDFXcU1Ba0JLeUxFOTlEX18waGdEMVF0eExWREl6cVZIdC1nOHZHRFdTdGZfRHA0TzA4NnpiekhzcW9DT1ZnRmVQajlMRFg0QkRLYnZjN0JORHY1QmI0dE5Cb3V3dVQxUWJZVnRvMXptOFVZd01vY0R4MGZ0UUVoUWstcW00bWxlOTlSNlp3VktfQ0RYaTEyQnAwQ05YUlZoWklBTEhzMDdCTEEyUXE5UmxYTzRIVThWS2pWNWVBTGRlbndYN2NlckxnTlFtRmxYWmdja184UHUxN3ZJNlZWRzh3REZhR25NOTQ0WC1BOXM5VlZPR0ZxMVk?oc=5"
-        }
-      ]
-    },
-    {
       "id": "61d37aaaf826",
       "title": "Vacina contra a gripe é liberada para todas as idades a partir de hoje - Tribuna Online",
       "published": "2026-05-30T08:30:00+00:00",
-      "summary": "Vacina contra a gripe é liberada para todas as idades a partir de hoje&nbsp;&nbsp;Tribuna OnlineNeste sábado, vacinação contra gripe será ampliada a toda a população&nbsp;&nbsp;Prefeitura de São José do Rio PretoSorocaba e Jundiaí ampliam vacinação contra a gripe a partir de segunda-feira; veja onde se imunizar&nbsp;&nbsp;G1Natal amplia vacinação contra a Influenza para toda a população a partir de segunda-feira (1º)&nbsp;&nbsp;Tribuna do NorteCom encerramento da campanha de vacinação contra gri",
+      "summary": "Vacina contra a gripe é liberada para todas as idades a partir de hoje&nbsp;&nbsp;Tribuna OnlineVacinação contra gripe será ampliada para toda população a partir de segunda-feira&nbsp;&nbsp;Prefeitura de Porto AlegreNatal amplia vacinação contra a Influenza para toda a população a partir de segunda-feira (1º)&nbsp;&nbsp;Tribuna do NorteVacina contra a gripe é ampliada para todos os públicos em S. José&nbsp;&nbsp;Prefeitura de São José dos CamposCom encerramento da campanha de vacinação contra gr",
       "sources": [
         {
           "name": "Tribuna Online",
@@ -309,7 +285,7 @@
       "id": "91207209ffe2",
       "title": "Sono pode dar pistas sobre o risco de demência, revela estudo - Tribuna Online",
       "published": "2026-05-30T07:00:00+00:00",
-      "summary": "Sono pode dar pistas sobre o risco de demência, revela estudo&nbsp;&nbsp;Tribuna OnlineCientistas descobriram novas informações sobre a relação entre o sono profundo e a memória de longo prazo&nbsp;&nbsp;Tua SaúdeDormir mal na terceira idade compromete memória&nbsp;&nbsp;Agora RNTer um sono ruim pode acelerar falhas na memória durante o dia e cientistas explicam o motivo&nbsp;&nbsp;Portal UAISono de má qualidade pode ser um sinal precoce da doença de Alzheimer em algumas mulheres&nbsp;&nbsp;held",
+      "summary": "Sono pode dar pistas sobre o risco de demência, revela estudo&nbsp;&nbsp;Tribuna OnlineEsquecer nomes e palavras nem sempre é estresse: às vezes é o primeiro sinal de sono profundo insuficiente&nbsp;&nbsp;Tua SaúdeDormir mal na terceira idade compromete memória&nbsp;&nbsp;Agora RNCérebro trabalha enquanto dormimos: o elo entre sono e demência - Ciência Viva - Francisco Soares Filho&nbsp;&nbsp;CidadeVerde.comQuantas horas de sono você deve ter para beneficiar seu cérebro e se manter jovem?&nbsp;&",
       "sources": [
         {
           "name": "Tribuna Online",
@@ -318,14 +294,38 @@
       ]
     },
     {
-      "id": "f103f3c480c3",
-      "title": "\"Vai ter uma onda de casos\": diante da baixa vacinação e do El Niño, RS projeta óbitos e internações por vírus respiratórios - GZH",
-      "published": "2026-05-29T22:04:04+00:00",
-      "summary": "\"Vai ter uma onda de casos\": diante da baixa vacinação e do El Niño, RS projeta óbitos e internações por vírus respiratórios&nbsp;&nbsp;GZHTamiflu pode reduzir em 52% as hospitalizações por influenza; uso precoce é considerado essencial&nbsp;&nbsp;G1SRAG em alta no MS: VSR e influenza elevam hospitalizações&nbsp;&nbsp;Campo Grande NewsNúmero de casos de SRAG continua aumentando em todas as faixas etárias&nbsp;&nbsp;O TEMPOInfoGripe: RS segue em alerta por alta de casos de SRAG&nbsp;&nbsp;Correio",
+      "id": "79f5fcf4247e",
+      "title": "Produtos da rotina estão na lista dos que podem causar câncer. Entenda - Metrópoles",
+      "published": "2026-05-30T05:00:14+00:00",
+      "summary": "Produtos da rotina estão na lista dos que podem causar câncer. Entenda&nbsp;&nbsp;Metrópoles",
       "sources": [
         {
-          "name": "GZH",
-          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQZGNEbVg3bDhZRHM4c1lFOWZHSDBEcjd2Y0o4RDMwNUNCVVBEX1VHWlZjTXpQbXdVS3BCQThqeUtXeDd0SE9Wd0oxVks5QnR5N1AxWUlhanYwbnAxMmFLdFBFT0FlM2x5aWJoV1Z6TzVMczlncGhxaWp4bEE3QklwMWc2ODVhMl9oOVNvdjlRUU5wYXJYZndTMm1xVHhESjJRenAyVXgxaUhKUFY4bkwzbUJfRTVkLUhkRTlObkJONmpzRHl3UU5icERtZnV6blk2ZVBrUnlsb0FkOUJZTnBuT29GcWNrOHVFaTNYQzNoOEsyWFVXbEpsNFdPQTNSeVFVYXZwdXdCZkdKMEF2R0gwR0J3WmdFMUp4V2oySXNkdHFfUjc1NlUwTWczRmdQZw?oc=5"
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1RMjhaOU80RmM1RXlfelpYWG1sREJpYTJDR1p1SXYtN2FILXI2MnpsNXl6WHNqbDVQQnpWRlBVdWdGUTlnMEFiWU43NXlLdUkweDlZWlRyVS1sbGpybVNJQkduekhfYkFLd1N6eUJLbDBGdmZ0Q2xzb2tn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "538a097e81e2",
+      "title": "Após 21 cirurgias, jovem com condição que afeta a fala dá palestras - Metrópoles",
+      "published": "2026-05-30T05:00:11+00:00",
+      "summary": "Após 21 cirurgias, jovem com condição que afeta a fala dá palestras&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0teDJOaGhfUjIxWTBrNDJPc1VMUDlZUVlDcmh0OFFuWDhvUWItaFdBNDliVUpncURkbkhwRXBRS3NrMHowTmIxRkFqMWFjSHVEckhtMS16a21tMDNaYzZ5dndnNTkySzdSX0NIbWZlVTZUbklsa2NsbGZadw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bfa0cf71335f",
+      "title": "Mamão e aveia no liquidificador: para que serve e por que tomar? - Estadão",
+      "published": "2026-05-29T22:55:09+00:00",
+      "summary": "Mamão e aveia no liquidificador: para que serve e por que tomar?&nbsp;&nbsp;EstadãoMamão maduro pode potencializar benefícios ao intestino&nbsp;&nbsp;Folha de S.PauloSuco de maracujá e morango pode beneficiar a saúde&nbsp;&nbsp;Portal TelaVitamina de mamão com aveia para que serve e como fazer&nbsp;&nbsp;Fala RegionalMamão e aveia no liquidificador: para que serve e por que tomar&nbsp;&nbsp;MSN",
+      "sources": [
+        {
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeUE3eVF6c2VHWWQwT1hGU2FDQ0REU3hxNFVWRjFyd3NiemJ5NDRhdkhZQVJib0RIdDdvRlFmd0tLaTZtZFdZdmNZUFY1N1VfTkhVNnRFUXlWMlpDVklsNWhCY3ppcmIxanE1T1c3dFYxWmMxSmdzTjVCOEl1RWRNNnYwRHEwczRtRF84MXhUUEMyYVRwS0toUm94VExnaThCTU13VGg1X1piNjE1N1dmUFRZVnZtOHPSAbcBQVVfeXFMT3lBN3lRenNlR1lkME9YRlNhQ0NERFN4cTRVVkYxcndzYnpieTQ0YXZIWUFSYm9ESHQ3b0ZRZndLS2k2bWRXWXZjWVBWNTdVX05IVTZ0RVF5VjJaQ1ZJbDVoQmN6aXJiMWpxNU9XN3RWMVpjMUpnc041QjhJdUVkTTZ2MERxMHM0bURfODF4VFBDMmFUcEtLaFJveFRMZ2k4Qk1Nd1RoNV9aYjYxNTdXZlBUWVZ2bThz?oc=5"
         }
       ]
     },
@@ -354,6 +354,18 @@
       ]
     },
     {
+      "id": "11d9c9a43758",
+      "title": "Mogi das Cruzes libera vacina da gripe para todos os públicos neste sábado - G1",
+      "published": "2026-05-29T20:12:07+00:00",
+      "summary": "Mogi das Cruzes libera vacina da gripe para todos os públicos neste sábado&nbsp;&nbsp;G1Mogi das Cruzes abre vacinação da gripe para toda a população no sábado&nbsp;&nbsp;Portal ABC do ABCMogi das Cruzes faz drive-thru de vacinação contra gripe para todos os públicos neste sábado&nbsp;&nbsp;diarioesp.com.brMogi abre vacinação contra a gripe para todos os públicos neste sábado (30/05)&nbsp;&nbsp;Portal NewsPrefeitura de Mogi das Cruzes libera vacinação contra gripe para toda a população neste sáb",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcGFGZW0yblItYTNBcnJWcUQtMEJtZjZjMFNwVHVPOXJNRGhNb2F5TGI0N3p6OFRmeGVoRWtRWUlSTWV5cjExY09mV25sQndYeGxCUnNZeVpfcTRSNXkxUjY4T0JNT0tUc3ZoV3lOVXJNd3lZbDV1VG1RbFcycXQzX2E2N1hiWGFZZDdMUGVaWGIwRlhTTjV2M054bEpsWnhSblozQ1pwSVhENFZVV2lDMHB1blVFdUlxZkp5Wk9namVkS2puaGNRWVhIY001aFJPWWFSZlp6UnZjMTU1UThj0gHuAUFVX3lxTE1qbEdtckRmSEQydHpFRm04R21OajVJTm9vU2t4WnhtbllqMlgyYmJiMFlJaXhsWDgyYjRLR1NNdTdsZGFROXlJa0JEc25MSzNDbUZkTDNORUZkY3FrUV9xakxRRUxLWmhRQTBRM3BaYVhkZnI0RzFpdEtyakZxbFg1TWpZV2d5aFgtVXZFdnE0UExlOUp3SkhQQl94a2EyWklrRDB3YkVETDZQX25BQVplWmk3eUtVYklkRkJDeGpacExRbVBzTFpyZXVWMDlzbHVPd2VjM1NuZmw1TC1WaFRWV0VkNGdzMHdQR2VPLWc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "ed2c36581f07",
       "title": "Câncer de intestino: sete sintomas silenciosos que merecem atenção - Metrópoles",
       "published": "2026-05-29T19:21:15+00:00",
@@ -374,30 +386,6 @@
         {
           "name": "Um só Planeta",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMW9fY24ta3VaTWZwLVh3Rm95T3VyN00zaVhqTmRUS1c3dEx5QnJ2N28yOG5fOG1oLXpCRkppM2FZSXdqbktNZXo5MnEwZVVnZlMxaFY3UFl0SF93eEVmTU9YTUlKdjkySUs5bDhVeGpNbTNFYXQ1UU1OelM4bnFJempNZEw0OHVLYk9SNWVQdkxOVlNnZXVDTWhGQlBJZ09oY2pBeWVnWVVncVZUMlZSdnNJV08zTzdFbFVCbE9XYnlXVXM1UjBvMDBpVjA3RUhS0gHfAUFVX3lxTE10d2otNklfRWJ5c21zVEpHTjNkY1NZbEV2WnNOV05ERXctR2ZhS0hCYV9tZ3JlLUkyOGZjR3B4ckYtOGRzTnRHam1NTjBVeURKX1NDZWtaYTRUVm9OdzRrWHk4M1lMR0FnZUx4M2xQRGJ2N3JWQTBBNXNLREZxQzhQVnlEamJ0ZUNCeVZIeVRwWHk5MFJTbFczMEtCMU9UbmFiYlhzV0NEZ3hpMl9qMGVtRE41YjVRMnJWbDJVb09RS2hzMm5RTlg0dG9jV1RuLWZfQ3JVQmQwRTdDMnRpUEk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "feb0fad06817",
-      "title": "Por que fisiculturistas usam insulina? Entenda riscos da prática e perigo de hipoglicemia - Diário do Nordeste",
-      "published": "2026-05-29T13:30:25+00:00",
-      "summary": "Por que fisiculturistas usam insulina? Entenda riscos da prática e perigo de hipoglicemia&nbsp;&nbsp;Diário do NordesteHipoglicemia: quando o corpo entra em alerta&nbsp;&nbsp;Folha PEAnabolizantes, insulina e o perigo invisível por trás da alta performance&nbsp;&nbsp;portal mato grossoUso inadequado de insulina coloca pacientes com diabetes em risco&nbsp;&nbsp;G1Tremores, suor frio e tontura podem indicar hipoglicemia e muita gente ignora esses sinais antes da crise&nbsp;&nbsp;Portal UAI",
-      "sources": [
-        {
-          "name": "Diário do Nordeste",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRkJuN3NTWENkbTBxQUZQZGRiaFZUZjZDa25NdkVfU1pmekRrQ2hKZDNtRHY1RV8yMVpCSEhKSTAxdlZjRTktczdzb3dDUlZ0TkR0anhyX2FjLUwzcEJZOVkzbk5ZcFkyd0thS3E5aVJlVEFCV1BqNC0yWVBlRkVRU2Q2ZDd2cEp3YlUycjdlZHNVenRUaGc2R0VOWlJudDhzaW0yUnppb2dPRXhVNWxpeWx5c3JNd0FXSkdhMERHQ3VseXA4a0tSU2FIZllKamh3MGtPdnpvOHA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0d51b6d383c0",
-      "title": "Fibras e alimentos fermentados tornam-se aliados da saúde mental - Folha de S.Paulo",
-      "published": "2026-05-29T10:00:00+00:00",
-      "summary": "Fibras e alimentos fermentados tornam-se aliados da saúde mental&nbsp;&nbsp;Folha de S.PauloFibras e alimentos fermentados são aliados da saúde mental - 29/05/2026 - Equilíbrio&nbsp;&nbsp;Folha de S.PauloAlém da digestão: sinais que sua saúde intestinal está afetando o seu humor&nbsp;&nbsp;MetrópolesA fadiga crônica não se deve apenas à falta de sono, mas sim à neuroinflamação causada pelo desequilíbrio no microbioma intestinal, revela pesquisa&nbsp;&nbsp;Tua SaúdeComo a alimentação ajuda no com",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ2xaYkp3UER0S0FXSVd3czE3X1NBM1F6WVFsbW03NWtHdFFINlZEek9fb3lMV2FGT0F4TDF2X1h0NHFMOENPcTZUY0czNFlLZDJhOE5KblhpQzJYMzVnZEhHYThsQW94VzJhU1FWUU5rRWxRVUg2d0UtS3EzZTZpYmJjUzAtZXU4SGgtNy1ZbE0zcUdueXN4V0hERUU5ZVlDTjZPVktGZlRVWHktdmladVhZb3BaakxSTy00?oc=5"
         }
       ]
     }
