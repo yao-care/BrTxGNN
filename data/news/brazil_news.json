@@ -1,10 +1,94 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-05-31T19:19:49.904005+00:00",
-  "total_fetched": 87,
-  "unique_count": 85,
-  "health_related_count": 30,
+  "fetched_at": "2026-06-01T04:18:14.842668+00:00",
+  "total_fetched": 88,
+  "unique_count": 86,
+  "health_related_count": 29,
   "news": [
+    {
+      "id": "9c0e983331f0",
+      "title": "Suspeita de Ebola é descartada em paciente do Rio vindo de Uganda - CNN Brasil",
+      "published": "2026-05-31T23:08:28+00:00",
+      "summary": "Suspeita de Ebola é descartada em paciente do Rio vindo de Uganda&nbsp;&nbsp;CNN BrasilHomem com suspeita de ebola viajou de Guarulhos (SP) ao Rio de ônibus, diz Ministério da Saúde&nbsp;&nbsp;Folha de S.PauloFiocruz descarta ebola em paciente internado no Rio&nbsp;&nbsp;G1O que sabemos até agora sobre os dois casos de suspeita de Ebola no Brasil&nbsp;&nbsp;CNN BrasilEbola: casos suspeitos seguem em investigação no Brasil; veja o que se sabe até o momento&nbsp;&nbsp;Estadão",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQekdxUEpybjNJNkN2LTB4SjhjbDFhYzRqdV82NWdjbFhwU3FXUUcwUFVMc2VHcU5rV3FidG41bk9BUzZMaVJqNmM0RjJGbTJRYU0wNExITzRGaTVEZUtBRmxBMTlkQ2FRNU5jUWMybGZPaWJvaC1COHdiQy12akM0QVZKT2VCUS1XSGtMT3NfZ2xFalA5Y3k4aWNnUWtDdzR5SEVv?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "de142527d158",
+      "title": "Vírus silencioso que causa síndrome hemorrágica circula pelo Brasil desde 1884 e ainda é um mistério para a ciência - Diário do Comércio",
+      "published": "2026-05-31T20:03:00+00:00",
+      "summary": "Vírus silencioso que causa síndrome hemorrágica circula pelo Brasil desde 1884 e ainda é um mistério para a ciência&nbsp;&nbsp;Diário do Comércio",
+      "sources": [
+        {
+          "name": "Diário do Comércio",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcWVSS1pGMm9yLW00bURHYXB2TkE2VGxNNXdsRnltMERjbURnMDdoalo1M2RsN2t0Wk5FOUNrOS1zSkxuZ1NiWG93UlVvTlNZdzZGSlJOdmtnZGtUN0VxYXN2elJiRUJzX3Z4UHpZT3ZqMFlTUFZSV3Izb3hUZTVQeU50c0hZTjlzZGFpZlV6SE02VGk0VVE3WHhBY1BXQ1MzR1Z5eWhYNTNrVXhzMTRranhKYmlMSDVfTTR3MGYwYkk5ZVNvODlleURWSVN2dm40QzRKSXc2MTJCOUVvcVcwc1hlM0RYcEU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7407f3afef76",
+      "title": "Para além do nódulo: saiba quais os outros possíveis sintomas do câncer de mama - Jornal Correio",
+      "published": "2026-05-31T20:00:00+00:00",
+      "summary": "Para além do nódulo: saiba quais os outros possíveis sintomas do câncer de mama&nbsp;&nbsp;Jornal CorreioEspecialista reforça alerta para o câncer de mama em Itabira e mudança recente na idade para mamografias&nbsp;&nbsp;Jornal do BrásCâncer no Brasil: o número que já é alto pode ser ainda maior&nbsp;&nbsp;VEJAPanorama do câncer no Brasil: como é o acesso a tratamentos e quais os desafios atuais&nbsp;&nbsp;Universo de NegóciosO detalhe milimétrico que muda tudo no diagnóstico do câncer de mama&n",
+      "sources": [
+        {
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMUtXTmxKN3BteXlMS3Vta05JNE45T1BFamRoZ29OVWdrTmdfQl9veWRDeFlpRWtCN2toTDJMdS1wNFFRZ3B5T0FHM0Y2NGFGS29EakRJeWw4RW8zU1h5SWgxTG56WkdmWnZfZFQ5a2hBdV9kTnEzeGxZcHk2M21oU0U4bXhsWTd5OHpaVUVMR3hvSTBxYWFvR2syUC1oNS1jSmlFWWhLZXk1QzFqOWMwcHVRY1M4LUdFSjNaVmNVa2E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3bb2196a69a4",
+      "title": "Alunos da Faetec conquistam prêmio internacional em Portugal com maca hospitalar controlada por voz - O Dia",
+      "published": "2026-05-31T19:35:13+00:00",
+      "summary": "Alunos da Faetec conquistam prêmio internacional em Portugal com maca hospitalar controlada por voz&nbsp;&nbsp;O Dia",
+      "sources": [
+        {
+          "name": "O Dia",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNExLOTVSX0Fua1lMNXBqMkFKSUFjamxLYjhobkVEUzU0UzVXRzNjLWNFZFpObXlaLWFfWVh4UmZBVDZ2Q00xTjlLQ1I1dnFJZzIzdEdtYTRfVUlYX0Iza2Zzd2Q0U3YwckxDQXlkMnZSV3dDOTJ3VWdQOERQZWRNQmhLTFZYb1YtaTk1clVEUXNHMXV1cU9IemEtVmJpQlBFMVlDYkF4cjdRdnBtX213eHJBSlZQclVTa0xQcWFLdUJpOXdWcmM5VWFKOUotOFNBSTVKY0RyNmctWHlqcXE0Y0c5MkpZTTZXeFNlcDk2WdIB9AFBVV95cUxNS0UwcTlwNmJsakRkaVd0QnJhb3Vrdk5tR3hPdFBnc2tmdFlnckJGVzBxalRaZ1oyRE8zOWpIMkJmWVlSSEhRWGMzZFRjQVZXWHZUbHA0UmFHUDRzR0FBbHA2OGo1QkRfRnpoMlJGcTZWZ1ZvbnBCbXRJaDRZLUZuaHp1RVJIV1BLMzB2TllhMnRxV2wtaWRDSUFIRjN2YlhBMHFfUkNlb0dDOXJmTTZjbmRkclVzMjNGRURwaUN0cGk4TGQ3S2lIcGhWTmJvVlZvTGgtcnFoOVNuWFNFVkFONHZNOFh2OW82SHhWWV9KRDJSdjNs?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "980ac9c474e2",
+      "title": "Salvador terá vacinação contra gripe de graça para toda a população a partir desta segunda-feira (1°); veja onde tomar - Jornal Correio",
+      "published": "2026-05-31T19:24:57+00:00",
+      "summary": "Salvador terá vacinação contra gripe de graça para toda a população a partir desta segunda-feira (1°); veja onde tomar&nbsp;&nbsp;Jornal CorreioPrefeitura de Salvador amplia vacinação contra gripe para toda a população a partir desta segunda&nbsp;&nbsp;G1Prefeitura de BH abre ponto extra para vacinação contra gripe&nbsp;&nbsp;MetrópolesPopulação elogia atendimento em sábado de vacinação nos postos de BH&nbsp;&nbsp;O TEMPOVacina da gripe em BH: saiba onde se vacinar neste sábado (30)&nbsp;&nbsp;R",
+      "sources": [
+        {
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOR0NjNk45SDNCRGhPU3hTZTF3NzZnZzVNeEF0OEJvUzRKN0R4YW5LRmU2eFZKYTNsdDQwOHJNQ296OFoyOUpBdFV2R1RtWVFncUtwRkNqdUdpdm1rVnR6c1ZwUC1PQVozdGxKWkc4bGRXazlYbk50NG1LaTRObkVPd3ZCUE1DSHIxUEpKY04wRzZfaDJtNW83aUhPMFZjZXlnSFlHbmRnZU1aNHlTczNvVGxNOTJya09hMDdOOXI4bjJyV2NoeXRNckRsQlA3Mk1vb0pmQW9VT1ctWTRRV0ROcHFRd0Y0Nk1BVjBPN1dsUjcxZkFT?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "222829e062fe",
+      "title": "Homem morre após receber rim de doador infectado pelo vírus da raiva - O TEMPO",
+      "published": "2026-05-31T18:44:22+00:00",
+      "summary": "Homem morre após receber rim de doador infectado pelo vírus da raiva&nbsp;&nbsp;O TEMPOVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "O TEMPO",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaHVtaFA4NHJsdi1NamZMWm9veG1sMkhuVmRveFE4MVA1TXdZcUpRRHkzNmZlM3poLWVBZTJBODFneHJMajljZHFvbVA0S0VvYWZ1Vm5PNEhpQ1g4ajR4WG93TlhqNklfSHYyUW9yM2k3SjhBQTYtTE5mSV8xeG5sNFI3dnI4TDZucFFjMjVXaHUxNFdUMHVRcmRndDU5SzJLcUtsbnBWVmE3Z0dIYk00?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "db98a055bfcb",
+      "title": "7 coisas que toda mulher deveria saber sobre a saúde do coração - Folha de S.Paulo",
+      "published": "2026-05-31T18:00:00+00:00",
+      "summary": "7 coisas que toda mulher deveria saber sobre a saúde do coração&nbsp;&nbsp;Folha de S.PauloVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdTR6c3FBZ3Mybl9DM2pUcmpWSXAtd2NFVURvZjVleWtzS09KS0k1YWEwNFBvSnJSbWdGaHZjUU5TdzNpMTk4VFRFWVBBazhYQi1BbGFfaUtRY01PRUktNnNudEhJSnlNU1BUS2pYR3ljQ293V1dfSThWUWwtZjZEdkxIMWxNa2txZy1xeS1BWmhaTzdVVVdKaXdVdTNpY01NdnREMG45NkxxQkxKUktHMUVtUXhOdmIyYVgyVExtaGZnUQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "f4cde3482fd0",
       "title": "Casos de Parkinson devem dobrar até 2050: conheça os sinais de alerta e o que a ciência diz sobre retardar a doença - Jornal Correio",
@@ -14,6 +98,18 @@
         {
           "name": "Jornal Correio",
           "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNU2g0Q3dQVjM1MUJ1TXpqNlpPam5BUm1YX1JTSUIwWGRUeFc0M2UwZUJzaHJyOWIwNDBqdWphSkxBbnNRNGs5cktIM1JpQjZ5Q2I0WUJ2WmpQTDRJb3BKNlQ2alRjdGhmNHlUdGppZUQydUhoMlFrWTVFcVVyVTFab0p2UGdlSjZ6dkFXNTk1ZWJOeHdkZkZ5a2NtMDlEN0doQXZDU3VIdTJVUjloZHpORUdEOW5nSmsySnJGZ05RN0JGLWRJZUZ2aTV6S05pM1gyR0hFNFhfS2hWNFV1OUIxV0d1QVRpQzVqX1ktTG5ROU4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "003573b50463",
+      "title": "Como remédios despejados em rios favorecem o aparecimento de superbactérias - Folha de S.Paulo",
+      "published": "2026-05-31T15:00:00+00:00",
+      "summary": "Como remédios despejados em rios favorecem o aparecimento de superbactérias&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSkpSYl82TjloUjJ1aWJxNFdITWtnaFhfdG13NXZ4Z0d2anVzMGs4YXNRbWdnaHZZaXNVWEJtYXdlWXM0U3V0dGhyTTh5MGxWMU1XY1NHS0tCa0NEWDgtOUVmRDY1UnZJM0lPNjhuUkNzX054Y21rdzZZSTFwekM1VzFBdEZmTllmX2l4YmFEQ0VUODJwZGFLQktFdGxpSWFlZTJHcWU1alkwVTF0MktIOU5JLV9OSDJrTXZteG05Uy0zRUR4UlE?oc=5"
         }
       ]
     },
@@ -102,34 +198,10 @@
       ]
     },
     {
-      "id": "b969af471817",
-      "title": "Amazônia Rosa? Estudo identifica possíveis 450 novas espécies escondidas no litoral do Brasil - Gazeta do Povo",
-      "published": "2026-05-31T01:02:00+00:00",
-      "summary": "Amazônia Rosa? Estudo identifica possíveis 450 novas espécies escondidas no litoral do Brasil&nbsp;&nbsp;Gazeta do Povo",
-      "sources": [
-        {
-          "name": "Gazeta do Povo",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWHlUTzNFNjVDSEZZMk1QY2xaWlk3aS1KNVA2QW9WQ1N5cGtYTWxfTkhFUlAwdExEeS1Pam1RRFhuTjN5RUJFZVVXUkEtNmowS2tJSFktLUNfNWMzdkRVMmlfN2xNaDFZYWJTU01QdmRNSE1Lamd2TEpUcFBaOEF3aDVlemV2T0daRGlyMGZhMUV1Z2kzUklNaFgyM2xkTjVpOWdVcDVCSGY1LTNxcmNMQUx3UnI1ZndCNFpRQkxOdFFGellLTmFxXzVRTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ef81a2da4bbe",
-      "title": "Mesmo com chuva, mais de 2 mil pessoas se vacinam em Salvador; campanha contra gripe e covid continua - Jornal Correio",
-      "published": "2026-05-30T23:07:31+00:00",
-      "summary": "Mesmo com chuva, mais de 2 mil pessoas se vacinam em Salvador; campanha contra gripe e covid continua&nbsp;&nbsp;Jornal CorreioPBH abre 19 centros de saúde neste sábado (30) para vacinação contra a gripe&nbsp;&nbsp;Prefeitura de Belo HorizonteCentros de Saúde vão abrir amanhã para vacinação, em BH&nbsp;&nbsp;G1Belo Horizonte abre ponto extra de vacinação contra a gripe nesta segunda-feira (1°); veja onde&nbsp;&nbsp;Rádio ItatiaiaPopulação elogia atendimento em sábado de vacinação nos postos de B",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaWJINHZnLXB1ZzJQbm1DNkxFZ0h1ZTRuNjJVd20zeElEY21RNW4yNVJCc3JwTC12NkdGS2VybXVEb2owZTRvb25yNzR2eTNIcXhwT0VnNGs2dmpiUkVTWmNqOHRNZTBETndMMHZENHZBMVRWeDROdUdub3lFZ2p5MDVadXVzM3N0V2FrdEJzNGdJSF9RMENaQ2FiRndaWmdOLUtGQ25XY1JCMFktdnN5MzZvUDhVYnFhRXBFemdNMG1TVWFOMl95eEExdlAyU3VDMnNZUTFKbXloa1ZEbU9nOA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "763849a9d04c",
       "title": "Como o ebola é transmitido e qual o risco para o Brasil? - CBN",
       "published": "2026-05-30T21:36:07+00:00",
-      "summary": "Como o ebola é transmitido e qual o risco para o Brasil?&nbsp;&nbsp;CBNSurto de ebola: o que é, sintomas e transmissão&nbsp;&nbsp;GZHEntenda o que é o ebola: sintomas, origem e casos em investigação&nbsp;&nbsp;O TEMPOEntenda o plano de contingência do Brasil contra o Ebola após duas suspeitas em São Paulo e no Rio de Janeiro&nbsp;&nbsp;Correio BrazilienseEsforço total para combater a epidemia de Ebola.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "Como o ebola é transmitido e qual o risco para o Brasil?&nbsp;&nbsp;CBNSurto de ebola: o que é, sintomas e transmissão&nbsp;&nbsp;GZHEntenda o que é o ebola: sintomas, origem e casos em investigação&nbsp;&nbsp;O TEMPOEsforço total para combater a epidemia de Ebola.&nbsp;&nbsp;Vietnam.vnEntenda o plano de contingência do Brasil contra o Ebola após duas suspeitas em São Paulo e no Rio de Janeiro&nbsp;&nbsp;Correio Braziliense",
       "sources": [
         {
           "name": "CBN",
@@ -138,14 +210,14 @@
       ]
     },
     {
-      "id": "dbf046eaf638",
-      "title": "Homem morre após contrair raiva em transplante nos EUA; outros três também receberam órgãos - O Globo",
-      "published": "2026-05-30T18:27:02+00:00",
-      "summary": "Homem morre após contrair raiva em transplante nos EUA; outros três também receberam órgãos&nbsp;&nbsp;O GloboHomem morre após receber transplante de rim de doador infectado com o vírus da raiva&nbsp;&nbsp;TerraHomem morre após contrair raiva por transplante de rim nos Estados Unidos&nbsp;&nbsp;OCP NewsHomem morre após receber rim de doador infectado pelo vírus da raiva&nbsp;&nbsp;Extra online",
+      "id": "7b52757c0ecd",
+      "title": "Por que você não deve se preocupar com uma pandemia de Ebola - CNN Brasil",
+      "published": "2026-05-30T17:37:25+00:00",
+      "summary": "Por que você não deve se preocupar com uma pandemia de Ebola&nbsp;&nbsp;CNN BrasilPotencial pandêmico do Ebola é diferente da Covid-19, diz infectologista&nbsp;&nbsp;CNN BrasilOs surtos de ébola e hantavírus têm intrigado os cientistas&nbsp;&nbsp;ZAP Notícias",
       "sources": [
         {
-          "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQVUxTRkg0anlHclpITjFZMWNDU3psX1JBMWl4NVZIMVI4SU9NdGRsSllIbElEamNWcDJBaTZUS2ZQUjRFZlBrX0pFaG1GeHNpRUxWRFFZYlcyWE1na1NTSXRzMjBXX2JmZ3VfN2xJWEJzeFJKS1luTWQzYk13OVRmSnI3blpqYTBfSEJRanF3YXdQSWpXVkZ2WTYtTGV0bThYenhTbmwxSHNsOTg3czZQeXlaQXVvM3JKYko1SDcyUjh3QTF0dksyS2lZTTZ2bi1Pb1Q3ZUZUZkFVNkNrTFliaVN0U1Q4b1F5ZllqQkdWVy1oeDVuZ09EbUZjYjRGUGJJcnp2S0x3Z3RSVmtHMDFZ0gGeAkFVX3lxTFBVSFNsUm5BenpZT2dnLUZuNkpLQkp2cURXQV83M0ZteG9XdVo1RTVHZDQ4ZGowUU1ONjNUa1NHTGdFTDNwbVpBLXpzUXUyT0VXS0NhNUtoOWhpSEcyTVp5LTYtWHV2X1l3b0JhSTRfYjRsQWZsclBTaG43NHJUdzExdVN2VFY0eWdab2FVYlJmQll1WGpZdEZBUmpQa0RPN3FsUDhMaUZYbXU4V2ZQU3JFRzQ5NE5kX09sTEdLWldOOExheGNWTjQwTTNvOE1EeWtEZzRkb3NkdUdyOTVVMHVyODdFR3JSNUhTNWJyTlRJSXNYTkMzSFo5TnNlWGVRN2haWG90cGZZdXB2ZGhKc094RkxQVHBucGEyNDdKNUE?oc=5"
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOXzJiWFNVZnkwM3JMVk1HQktQZC1samlWVFFqTUxlT3pnWG4wZ3BoazFmSkZSajlsRnBlR2NicFkwaTVhRl9LYkhXQWx1M0QzOWpMMlVZSEtBR0N3WDl4RUV6YnJoUDJUNDRrcDl4ZUhkUEcwOXFPeGRmejl1VUZZX1pXWi1yc0R1ekFoQjZuQ3M4bVhJYndZelZLTWE?oc=5"
         }
       ]
     },
@@ -162,14 +234,14 @@
       ]
     },
     {
-      "id": "3ab4799e00c8",
-      "title": "Um estudo de psicologia concluiu que pessoas nascidas entre 1945 e 1965 têm uma vantagem psicológica sem igual - Super Rádio Tupi",
-      "published": "2026-05-30T16:00:26+00:00",
-      "summary": "Um estudo de psicologia concluiu que pessoas nascidas entre 1945 e 1965 têm uma vantagem psicológica sem igual&nbsp;&nbsp;Super Rádio Tupi",
+      "id": "48bec22596e5",
+      "title": "Dois em um: Lua Azul e microlua podem ser vistas na madrugada; saiba como - UOL",
+      "published": "2026-05-30T15:26:09+00:00",
+      "summary": "Dois em um: Lua Azul e microlua podem ser vistas na madrugada; saiba como&nbsp;&nbsp;UOL",
       "sources": [
         {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMWctSy1WeU9fWUxlMVFwM0lxSlVSZl9MTjY5aDh3M0lvc0FJWHh3SEhtZjRJT2ZWVGQ1WkJ5bUNVR0R4UlBHVXIxYlYtM2RSTW1nVVg5RTZxMGlxVGdod25ZYkd1RzV4cWZZaTdRNGFhTkpmYWp4OHBieFpMSTVXa0I3akV0bERkUWNVRWotbmVkS3RaNEhMc25QY2NxbU9FMFZHaXJfV3Zoa3NvSWkwSGRUTEVlNUtUNEc2eFV1QjMwSlBYTy1DcjRWUW1xMzY4R01GNzVaWml0TjkyN2hj?oc=5"
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTmlnSFVSSF9pbGhSNFhYcGdXOFAxWXBNVkZhOFlLckZxZEM3OGJ5RzhtVVN3cjRYS2tOemhGUVNUdWZXbjhvN3h1d05tbXc5dEtZTERHbGlkcWJ0QThFTktJZGhqbE5USm1PWThZRzhHdExKTG1DRHRsU3dRUUg5Z01wSllWemZ4dGZFcjN4ekoxRG9EdTMyQXM3eFRwTmFTdm1McjBKbERhNHZZLTNlZQ?oc=5"
         }
       ]
     },
@@ -222,34 +294,10 @@
       ]
     },
     {
-      "id": "9994df3b283e",
-      "title": "Lauromüllense tem sobrenome eternizado em nova espécie de planta descoberta no Sul de SC - Sulinfoco",
-      "published": "2026-05-30T12:02:55+00:00",
-      "summary": "Lauromüllense tem sobrenome eternizado em nova espécie de planta descoberta no Sul de SC&nbsp;&nbsp;Sulinfoco",
-      "sources": [
-        {
-          "name": "Sulinfoco",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNm9NbWZHaFlKcFZLREZoOU1yOGZ5RFFPRmxqQ0FSdDhVQUlqTGhWVlkzOWMycDBlMTRCdVFVN0VIWUVYVzdRRzJLU29lWmRUOGo0ZnJJcFJ2Q3lWTTVLcUo4YkRnazJPRk00eV9XTkVweWszUlpBbEtYaDNmUVJKZ3VTM2tOMnRTZUhlWmprTXZVYV8yQkZST0pFOEZkUmRsTm50ckp6aFhKMTdwTW9UVUhXRGF3Q2w5aUVz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c7cb80778651",
-      "title": "Batata frita pode causar câncer? Oncologista explica - A Gazeta",
-      "published": "2026-05-30T12:00:00+00:00",
-      "summary": "Batata frita pode causar câncer? Oncologista explica&nbsp;&nbsp;A Gazeta",
-      "sources": [
-        {
-          "name": "A Gazeta",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQlNIVTNhenZIaFlLcnV3WUd6SjY5M0VDWllZNF9LcmtjWkllWmR6bUs3SWN4QW53R1h0ZXc3bUlxMzNMdDF5SWdjTlJOYml2a0F6bVlYRmtZZHY4S0VNOXpIV0NrR1JfZWZPVTByTktsTE9oc1BKMzRlVjdrQzFTTWRZcms3QXBpanlPSVJhWTk5SWE2Nzlz?oc=5"
-        }
-      ]
-    },
-    {
       "id": "32218207f331",
       "title": "Esclerose múltipla: sinais invisíveis desafiam diagnóstico - Correio do Povo",
       "published": "2026-05-30T10:10:38+00:00",
-      "summary": "Esclerose múltipla: sinais invisíveis desafiam diagnóstico&nbsp;&nbsp;Correio do PovoJovem que descobriu esclerose múltipla aos 17 anos relata desafios e reforça importância do diagnóstico precoce&nbsp;&nbsp;G1Dia Mundial da Esclerose Múltipla: 5 cuidados para manter a qualidade de vida&nbsp;&nbsp;CartaCapitalDiagnóstico precoce pode estabilizar progressão da esclerose múltipla; entenda&nbsp;&nbsp;Tribuna do NorteDia Mundial da Esclerose Múltipla: o que precisamos saber sobre a doença?&nbsp;&nbs",
+      "summary": "Esclerose múltipla: sinais invisíveis desafiam diagnóstico&nbsp;&nbsp;Correio do PovoJovem que descobriu esclerose múltipla aos 17 anos relata desafios e reforça importância do diagnóstico precoce&nbsp;&nbsp;G1Esclerose múltipla: mulher perde mobilidade após diagnóstico tardio&nbsp;&nbsp;CNN BrasilDia Mundial da Esclerose Múltipla: 5 cuidados para manter a qualidade de vida&nbsp;&nbsp;CartaCapitalDiagnóstico precoce pode estabilizar progressão da esclerose múltipla; entenda&nbsp;&nbsp;Tribuna do",
       "sources": [
         {
           "name": "Correio do Povo",
@@ -270,14 +318,14 @@
       ]
     },
     {
-      "id": "241ba4d24525",
-      "title": "O que acontece no corpo quando você consome cúrcuma com frequência - UOL",
-      "published": "2026-05-30T08:30:00+00:00",
-      "summary": "O que acontece no corpo quando você consome cúrcuma com frequência&nbsp;&nbsp;UOLFerver cúrcuma em pó: para que serve e por que tomar&nbsp;&nbsp;EstadãoCúrcuma: os poderes e as polêmicas da especiaria que ganhou o mundo&nbsp;&nbsp;Veja SaúdePesquisa confirma: consumir açafrão-da-terra diariamente pode melhorar a memória em 28%&nbsp;&nbsp;Banda B3 curiosidades sobre a cúrcuma&nbsp;&nbsp;Estadão",
+      "id": "b956fb1d9d9c",
+      "title": "Terra já ultrapassou limite sustentável para humanidade, diz estudo - Exame",
+      "published": "2026-05-30T08:04:11+00:00",
+      "summary": "Terra já ultrapassou limite sustentável para humanidade, diz estudo&nbsp;&nbsp;Exame",
       "sources": [
         {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMktVVEJHRzZhOXJhaWo1V01SVTZ3LW9FLVhCcTR2OG1BNl9WLWM0WVQ1aFh4aGJndXVKNlJLQjF1NzNFZmpzaFkxcDlFaHgtU1JCWVc5M2ZPR01fS21ic0dEQkhqLTl2d2t4TGpIc3NqbkNhUE1DVmpxYVE1U0JtSDY3Wm9Xa21fWGktTlNGbUxQeFpITFhJR2hITHZtaE42RVVXRkp2VWpXcDlhSV8zWWxsZU9qS3A2YTBkREZ3?oc=5"
+          "name": "Exame",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVlZfVGtKcWRfbjZYeFplNXEwWl9mWk5Ma25UcUVReWJRSm5fT3hTU1plLTNjS3dtMzdmcUh0cFhfUDc4X2VuLUlDSlVBVGlKUHk5S05HVHdUMUY3UE9WMHlLaXdUQ0p6NWhDUUMzMUVzZDVjY2xvemR2T0pBc1l4dEczTXBLNkFId1ljMUhBQ19pWjRMc3VjOA?oc=5"
         }
       ]
     },
@@ -294,18 +342,6 @@
       ]
     },
     {
-      "id": "dab6aa34ca60",
-      "title": "Ebola: por que ainda não há vacinas para a doença? Entenda - CNN Brasil",
-      "published": "2026-05-30T07:00:00+00:00",
-      "summary": "Ebola: por que ainda não há vacinas para a doença? Entenda&nbsp;&nbsp;CNN BrasilOMS define prioridade para tratamentos experimentais contra cepa Bundibugyo do Ebola&nbsp;&nbsp;Valor EconômicoAgência de Saúde da União Africana promete vacina contra a cepa Bundibugyo do ebola até o final de 2026&nbsp;&nbsp;UOL NotíciasOMS identifica tratamentos e vacinas contra o ebola para testes&nbsp;&nbsp;Agência BrasilCongo: surto de Ébola não tem solução rápida&nbsp;&nbsp;Euronews",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMG00NnllNURpLWJlQllJaG55cmlnRnBOVU1oWUFDS0t5ZmdyZjE0aGEtVDEzVDIyZFBKcFNGQS1zYUVjc1VDYnZ4NDdrSFM0WHJ2Tl9XYTJsNDFpejZuNEZiSmVGUW1GX0c4T0ctTDU1VlR3cElSUkV6MU05U3RkNzZGdGZIUVRRYXBfUm9FT1E2NEFRa2tr?oc=5"
-        }
-      ]
-    },
-    {
       "id": "91207209ffe2",
       "title": "Sono pode dar pistas sobre o risco de demência, revela estudo - Tribuna Online",
       "published": "2026-05-30T07:00:00+00:00",
@@ -314,54 +350,6 @@
         {
           "name": "Tribuna Online",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR0JVY0V3OGtOUkpIMEpWLUxLYVJjb0VxY2JmLUd2WEp6Xy1ta0RFMlluUGNNWnpKZmdvTHBueFlFYXFWTWNKcGtTZ2NwTENxNnFvbkhvYVYwLVNpTTNESzBua3dsdk1Od2ZkYWZEbmk0WlJuS3UyeFVzc081YURudFRzcjQteXJKdWo5bTlYeElRUEdlNk5OTVh3aFEwM3BHZzRabtIBrAFBVV95cUxOc3FHa1lGbThoU1ZtdUpnbm42OTFXenQ3NGFsOWRnOFhNTDdRdTk0MFhMMHk2TDdMVkNDbmhtZDJTUHdZT0w2UERHaE9kWXNuX2F4T2MxQTduNW1sV2Q0VVlrNTVjZWJlOGdXeXpSQlZnZDZQS2FBZHBtYlpOY3FXUWZ6VFZiS3dFeHE4dXFxV0dvb005YWNmaVFYdWFrOThJNFRqdUtlMEozc19M?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "731d5a8508d9",
-      "title": "5 táticas com base científica para eliminar a gordura visceral - UOL",
-      "published": "2026-05-30T00:58:55+00:00",
-      "summary": "5 táticas com base científica para eliminar a gordura visceral&nbsp;&nbsp;UOLInimiga oculta: Como a gordura visceral inflama o corpo e destrói a saúde&nbsp;&nbsp;Portal do HolandaCorrer ajuda a emagrecer, mas cientistas apontam exercício ainda mais eficiente&nbsp;&nbsp;Diário do ComércioO que nos faz acumular gordura abdominal mais rápido? 5 causas conhecidas e outras 5 razões pouco comentadas pela ciência&nbsp;&nbsp;Tua Saúde",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONlVhR0c3LVZXYlVPU250bGlnZFhRTzNxaDB5cGVHRURhdXYxZ3l3ejRYcFp5WVJPcXNoS0pRSzl4V3JXcjB3czNzRXdnZWY0d1JSVGpnZUxUbURNRm1fSHRuTkgwa2dseFYwYWZjdVJRYkQ5ZWlUSi1VWVRpM0hpX3d6NXlKTmlsQkt0a2hnX2hSVVBtLUZNdnVZX1g4clFPZkYyNW1Ob2MwcExWSW45V1lqV3Q5VXJwYTFDeDNFYW5pd1B5?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bfa0cf71335f",
-      "title": "Mamão e aveia no liquidificador: para que serve e por que tomar? - Estadão",
-      "published": "2026-05-29T22:55:09+00:00",
-      "summary": "Mamão e aveia no liquidificador: para que serve e por que tomar?&nbsp;&nbsp;EstadãoMamão maduro pode potencializar benefícios ao intestino&nbsp;&nbsp;Folha de S.PauloSuco de maracujá e morango pode beneficiar a saúde&nbsp;&nbsp;Portal TelaVitamina de mamão com aveia para que serve e como fazer&nbsp;&nbsp;Fala RegionalMamão e aveia no liquidificador: para que serve e por que tomar&nbsp;&nbsp;MSN",
-      "sources": [
-        {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeUE3eVF6c2VHWWQwT1hGU2FDQ0REU3hxNFVWRjFyd3NiemJ5NDRhdkhZQVJib0RIdDdvRlFmd0tLaTZtZFdZdmNZUFY1N1VfTkhVNnRFUXlWMlpDVklsNWhCY3ppcmIxanE1T1c3dFYxWmMxSmdzTjVCOEl1RWRNNnYwRHEwczRtRF84MXhUUEMyYVRwS0toUm94VExnaThCTU13VGg1X1piNjE1N1dmUFRZVnZtOHPSAbcBQVVfeXFMT3lBN3lRenNlR1lkME9YRlNhQ0NERFN4cTRVVkYxcndzYnpieTQ0YXZIWUFSYm9ESHQ3b0ZRZndLS2k2bWRXWXZjWVBWNTdVX05IVTZ0RVF5VjJaQ1ZJbDVoQmN6aXJiMWpxNU9XN3RWMVpjMUpnc041QjhJdUVkTTZ2MERxMHM0bURfODF4VFBDMmFUcEtLaFJveFRMZ2k4Qk1Nd1RoNV9aYjYxNTdXZlBUWVZ2bThz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "91bfc3643b66",
-      "title": "Com encerramento da campanha de vacinação contra gripe, Estado reforça importância da imunização dos grupos prioritários - saude.rs.gov.br",
-      "published": "2026-05-29T20:24:00+00:00",
-      "summary": "Com encerramento da campanha de vacinação contra gripe, Estado reforça importância da imunização dos grupos prioritários&nbsp;&nbsp;saude.rs.gov.brVacinação contra gripe será ampliada para toda população a partir de segunda-feira&nbsp;&nbsp;Prefeitura de Porto AlegreNatal libera vacinação contra a gripe para toda a população a partir desta segunda-feira (1º)&nbsp;&nbsp;G1Vacina contra a gripe é ampliada para todos os públicos em S. José&nbsp;&nbsp;Prefeitura de São José dos CamposSorocaba amplia",
-      "sources": [
-        {
-          "name": "saude.rs.gov.br",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQb2lIM21VbTA5aHJjWk54ekdMYXNNYWhNc2ROR05aMzVIMEtwMlN2MnlaYjJ6UmoxWmlGaHQ5dW90ZzRkTF9lcEFsdmQ4ZlJibThraE9xZ0p1X1Jrc0FXenZKT2NSekFmd3JleTZOSnJaRUxyQU1QLXN2WXNTaVZzRDdPSWM1bWRsZ1lXRTdDZDhDN2RaWEd3LVRSVUdzLUk1aFJfa0F4d3Q3dFQxaEd1d2FoaFpzZ0kwRjl2c1ptOTByX3p0bzZOd3pWaERVRGtObEdsQm83QUNnVk0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ed2c36581f07",
-      "title": "Câncer de intestino: sete sintomas silenciosos que merecem atenção - Metrópoles",
-      "published": "2026-05-29T19:21:15+00:00",
-      "summary": "Câncer de intestino: sete sintomas silenciosos que merecem atenção&nbsp;&nbsp;MetrópolesO sintoma intestinal que adultos jovens mais demoram a levar a sério&nbsp;&nbsp;Tua SaúdeConhecer o risco, escolher a esperança: o combate ao cancro colorretal&nbsp;&nbsp;SAPOCasos de câncer colorretal crescem entre jovens e acendem alerta para os hábitos de vida&nbsp;&nbsp;Jornal Bairros NetCausas do aumento do câncer colorretal em adultos jovens&nbsp;&nbsp;Estado de Minas",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xRlRiNFFYaWFjZDhXTzNJd25TUVNLTjhJNUNzZFdCaGRza2QtZlFkWGN4b1ROTkNDb3FXcmZod3JWbWM4TDlINWpkVXlZNU9FQjkzSnB4bUYweEk2bW5TclRKUURoaEMzS1R3alpfU3NhOWd5Vlg2c2FpU1M?oc=5"
         }
       ]
     }
