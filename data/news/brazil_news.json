@@ -1,10 +1,118 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-06-01T11:38:53.205836+00:00",
-  "total_fetched": 86,
-  "unique_count": 85,
-  "health_related_count": 27,
+  "fetched_at": "2026-06-01T17:44:26.393618+00:00",
+  "total_fetched": 87,
+  "unique_count": 86,
+  "health_related_count": 26,
   "news": [
+    {
+      "id": "ab2ac523c73f",
+      "title": "Pesquisa com participação da UFMT analisa crescimento da matrinxã nos rios Tapajós e Teles Pires - Só Notícias",
+      "published": "2026-06-01T15:01:00+00:00",
+      "summary": "Pesquisa com participação da UFMT analisa crescimento da matrinxã nos rios Tapajós e Teles Pires&nbsp;&nbsp;Só Notícias",
+      "sources": [
+        {
+          "name": "Só Notícias",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUFhkZ3V5Tlk4OGhVRFRXbGl5WTI2UnlidjBPYUpGaVlkSU1raFljSmJMTDY2bm53X0dZOVZRLWxjbFhTRFpyVURMMG9teU5nV3l5eF9oc3RWdVVER3dUVzg5NjJmdlZUeVpidDJUdGJPbGdTTHdMdjhfcGN0dENZTVFQa2FmTDJaWkZNU1NqYzZfSkNwZmlBUFRTdzdvZ240bWxiU2RRMzlYci04MmxZMFF1dHphclVvRzg0RVJ4c0c1dFRkdk5xQU1Sc0dWUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6d1df855b327",
+      "title": "Níveis médio e técnico: CRQ abre concurso com 80 vagas, salários de até R$ 2,2 mil e benefícios - Primeira Página",
+      "published": "2026-06-01T14:22:10+00:00",
+      "summary": "Níveis médio e técnico: CRQ abre concurso com 80 vagas, salários de até R$ 2,2 mil e benefícios&nbsp;&nbsp;Primeira Página",
+      "sources": [
+        {
+          "name": "Primeira Página",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbjZaaW9neGhhOERMbXBVc21vWTZNOEsxcHFSQlotc0V1cndqVFNJckh2dFZhMnFRcFBnU05mU01TSkx4eUtvTVhnbVBXWlg3clVyTjgtNTZrMmFUNmZITHRiNjRYd084SGN6eFh5UmxWWlN0X0xkdUVncUtncGRlSkFhS1E0Q0gyM1dzR0hadjQ5NkZxMjFEeHdHakRYWlJFZGc1dHhtNXF1RndnRDJNbkp2NXNNVjRZelVGQ1pEYWFWbGlJNmFNN1VHVENfaG92blBqMl93ODJwUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e17d2ed7c930",
+      "title": "Teste descarta caso de Ebola em paciente internado em São Paulo - CNN Brasil",
+      "published": "2026-06-01T12:07:24+00:00",
+      "summary": "Teste descarta caso de Ebola em paciente internado em São Paulo&nbsp;&nbsp;CNN BrasilAutoridades descartam segundo caso suspeito de ebola no Brasil&nbsp;&nbsp;G1Suspeita de ebola é descartada em pacientes no RJ e em SP&nbsp;&nbsp;UOL NotíciasGoverno descarta um dos casos suspeitos de ebola no Brasil&nbsp;&nbsp;CartaCapitalSecretaria de Saúde descarta suspeita de ebola em homem internado em São Paulo&nbsp;&nbsp;Estadão",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWDlJUmV0cDNSdWRjSy1VUWZyUDF0Tm9JdGZVOWRkX25LMmZpMFpWU1BBTkNKOTRfT0dWelZQNXBENlppVGlNUWFxUmpYaVpZX2NHbkFna1BXVHEtSmtXMlRqZXJLM2FBSk5GY1lrR19HX0VYWTlMTkc3cmRLUWJfeFhVOXR4c0dMSlJSSUZtLXZUZDd3eXJDcnpWbExDWEg4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b6055353726e",
+      "title": "GCN: Vacinação contra gripe é liberada para toda a população em Franca - sampi.net.br",
+      "published": "2026-06-01T11:49:32+00:00",
+      "summary": "GCN: Vacinação contra gripe é liberada para toda a população em Franca&nbsp;&nbsp;sampi.net.brVacinação contra a gripe continuará no Paraná para atingir grupos prioritários&nbsp;&nbsp;Governo do ParanáTodos podem se vacinar contra a gripe em Mossoró&nbsp;&nbsp;G1Caicó tem vacinação contra a influenza liberada para toda a população a partir desta segunda-feira (01)&nbsp;&nbsp;Gláucia LimaVacina contra a gripe está disponível para população em geral em Mossoró&nbsp;&nbsp;DeFato.com",
+      "sources": [
+        {
+          "name": "sampi.net.br",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOElKMlZnZ1ZOTEdGOGsycUtETS1GVVNtOXdTTi13NkFzQ3lPZE1ldzRkdGs3RFNXcDdzSU5UTDIzMFZpUHB2U1Bxb283MTQ0NzVTbVk5aWt2LXZfNHhnRXBXSEV5WVY0NlFhVmh1aXFuM29pMWZjbmdDdk1YOHktb3UySHBpcWxSZFd2ejZPS2duYnhRMTFTTllPRnFoN052dV9rYlpxOVJFZFpFME1ZYmk3YTdQMXAwMjNybGZhZUxkNXpFSmNnckdWYVM1bWM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6c93954b9857",
+      "title": "Dorme mal? Insônia é ligada a um maior risco de câncer abaixo dos 50 anos em novo estudo - O Globo",
+      "published": "2026-06-01T11:33:28+00:00",
+      "summary": "Dorme mal? Insônia é ligada a um maior risco de câncer abaixo dos 50 anos em novo estudo&nbsp;&nbsp;O Globo",
+      "sources": [
+        {
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObVB5bzNEUTFnRVo4TWFSdDlZV21FRkJGejBVRVQtcC1iSUQwSjFnRW5WOTJ0OUZVd28ycldzNkY4b1dXX2dvZTc4TlduSk9HVENON2s5VDl3dmxlVXVzWE15S25NVTBybmpzNVg5ampKY001bzZ3cVNjdUI0Q2xUNlNONnNYVkdLRV9KQ1ZVTm1mLTU3akpVNGltUjd2U0tjQlFCd2NfR2xFeUQxbEtMamF2OWZld2ExR3VHWm5tWWx6Tk9TLUV1dGx6MGE2UDZDaHctcHQyNnJrM2fSAeoBQVVfeXFMUGprRnRZR1hsQ2s5dDVndWpXakRBSEtZTUc2WHpYVTRTbzZuenlwT3FYcUJlR192ZF9QYWdHbkx3V0c0WW9aaVBCNEZHd3NDUXRVR0VjN3hJSTBsSkhaRUpyYTJoTlMyNndZU2k3MlNjdTRjSmJXT1ViY0JwUjk2OXVyUnNGYVBobHJHQlE4cU1xYWR3RExSZjl5Y0RPbk9yZGNPVnhGbzBWLUNaSVpLMDdLQVBTLWlsbHh2Z3FzSUZ5ODJJQ0dpbFBidEhmaVZjNGVESGFWUFVDUlZZX1VTdlpvNlA3NVYwU19R?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "271b6496e613",
+      "title": "Pesquisa identifica baixa prevalência do Vírus Linfotrópico T Humano em doadores de sangue de Mato Grosso - Olhar Alerta",
+      "published": "2026-06-01T10:56:00+00:00",
+      "summary": "Pesquisa identifica baixa prevalência do Vírus Linfotrópico T Humano em doadores de sangue de Mato Grosso&nbsp;&nbsp;Olhar Alerta",
+      "sources": [
+        {
+          "name": "Olhar Alerta",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNd290Ul9wTGdhWGdlNWhuMm5MeHZfN1Y5bFdwZ2YxN21qSUZYSG56M1NTdjFUY2trOHE3MU1aZEsxbzdTWlhiUlhleVV4SkhLdncwQkNnbEEtcWFYUkwtY0lOLUstdEtielM3WFdJOUxfR3VJTHE1VjNzUlNqeU5LeGxvaUZ2Sk1GU2tnb0NGZ1hXTEczOHpiLU5hQXJrLWZsbXYtRkgyZkotUS1nNno1cXd1TkVHLWlDRjVTOERZeGUwWkRkT2lTb2F6cnUyUUhnZDhvTHJ4djRmN3ZhcnhpTUoxM1Y?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c1039cf1a656",
+      "title": "Médico explica quando urinar várias vezes à noite deixa de ser normal - Metrópoles",
+      "published": "2026-06-01T10:52:00+00:00",
+      "summary": "Médico explica quando urinar várias vezes à noite deixa de ser normal&nbsp;&nbsp;MetrópolesQuando ir ao banheiro muitas vezes ao dia deixa de ser normal? Entenda a bexiga hiperativa e como tratar&nbsp;&nbsp;Maracaju Em Foco",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcTJsbTFBbWpsMjRGSGdnZTk5ZlZtWWtSUVROU3hhQ3daZ2ZLbjlET3ZmRU56M0MybThoV2VOWEtnTEUxdDZ5QWFFQmkzWjlVa1hYb2o5MW0tVFFVSVFpZVg0Ymx3b1RLdlRDZm1oOTltWW5CTkpiMkxJU1R1dkw2dDJwUWtSTWdhTGdlOEFHaWVvYllpYnRINzg2bGoxaGgyRGdGZ2RSc0ZEbU8wZTloTmxVM09WVXpscDlrbktn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3f9562fbfef1",
+      "title": "Vacina contra gripe: veja onde se imunizar a partir desta segunda em cidades da região de Campinas - G1",
+      "published": "2026-06-01T10:41:44+00:00",
+      "summary": "Vacina contra gripe: veja onde se imunizar a partir desta segunda em cidades da região de Campinas&nbsp;&nbsp;G1Vacinação contra a gripe é ampliada&nbsp;&nbsp;G1Bauru e Presidente Prudente ampliam vacinação contra a gripe para toda a população&nbsp;&nbsp;G1Disponível em 132 unidades, vacina contra a gripe é liberada para todos acima de seis meses a partir desta segunda em Porto Alegre&nbsp;&nbsp;Correio do PovoNatal abre vacinação contra gripe para público geral a partir desta segunda-feira&nbsp",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZWNPR2xTbi1xakdxSnhieGlYdEwweDVkQXFCVFFjelY1Tld2aXV3aXFDRDdMNUhLdFBoWE8zdXN2RlZ0bUIzT0RKcV81dGxFRno4ZkJxdmJnb1U4WHRsQ0dwWk02cEY0dmRwS0JpNFZTalYwbXFXbHpkWklUakMyMFcyc3RpNlFuUFdXakp4d1dkT0JKdEhueDJLX2R2V2l6X010TU5wTW5aSmRiOGdfT2UzMjdDalo5ZWxOU292TnFGdThqdFZHX3ZRNVRyaDJfcjZURTkwNUpSSHFiamtUTTNzbFQtWHJqQV9NNUhJZUZfVGl00gGDAkFVX3lxTE01eEtZQ2NoLWc4VjBvamNYaV92cVczTDFwcG1rRWdTaDFUTFczdDZleDhLdkxiNU5tZ2xLUXF5M2EyX3RjTXowMXdSTFd1MEVEOUNoVndhRm5JNlh4ZXdrMU5NZ3pyMFpyQXhBSlRPLTFHWDMtNEg2cUN6TVVVbTNfRlYyWFlDWHpSRkVRMHhjYjdEZlBsd0pMZWRmclpZeU9DLW1tc1N6LTBrQTFJbDdWakVROXg4YlltY2NGaGFHMWkwWTNOdnNxM2FqaUdzVXpJNlZFREtDUWdvYy1VNEZoNGJPQU93bG1kajRrV25EQnNtWlFqallMOU1IbGxnODFlMEE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5e25e08d7be9",
+      "title": "Oostvaardersplassen, o experimento holandês que transformou santuário de animais em campo de extermínio - BBC",
+      "published": "2026-06-01T08:58:58+00:00",
+      "summary": "Oostvaardersplassen, o experimento holandês que transformou santuário de animais em campo de extermínio&nbsp;&nbsp;BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9hS2dZY1FyeGNIV3dfcEppc3hhekd1bHVjNnVQMkdxZ0xHeDFhRk1WSjlhekdBYUlzeUM5RExfU1Z1RnFBWDYwcEFrV1NuM0Q3Q1k0NFR6RTktZDJzUXpKTkdn0gFnQVVfeXFMUDZzOVN4b2lCVmowZTlLLWpvVkY0ek91TmN3TGx1S1VVaXM4VjdCaWFkWllfM0NKeVA0Z25qMnhSTXZHZEhyN05xb3dXVmMzR0pZbDZLTVBlV1FfRTVrd3pLdGs3ZWxXRQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "4e4b998ac4cb",
       "title": "Porto Alegre vira \"capital do cérebro\" com eventos gratuitos sobre saúde mental e neurociência - GZH",
@@ -42,22 +150,10 @@
       ]
     },
     {
-      "id": "ce4048eb219a",
-      "title": "Veja as cidades da região que já confirmaram a ampliação na campanha da vacina contra a gripe - abcmais.com",
-      "published": "2026-05-31T19:23:28+00:00",
-      "summary": "Veja as cidades da região que já confirmaram a ampliação na campanha da vacina contra a gripe&nbsp;&nbsp;abcmais.comSP amplia vacinação contra a gripe para toda a população a partir desta segunda-feira&nbsp;&nbsp;G1Natal abre vacinação contra gripe para público geral a partir desta segunda-feira&nbsp;&nbsp;Tribuna do NorteSão Paulo libera vacina da gripe para toda a população&nbsp;&nbsp;R7Sorocaba amplia vacinação contra gripe Influenza para toda população na segunda-feira (1°)&nbsp;&nbsp;Prefei",
-      "sources": [
-        {
-          "name": "abcmais.com",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWUpVVkFxNGdULUJDM0M0VmZNU1NGMFB5amNJbXRCOEFYZFMzTjZKUkJhdlhlLXFTZ215U1JjNlp6VkZvenFTM0MyaGlyZVY2NGxUd0gwbV9HMUJLbUd5VENQWk9GSnpoSDNWeEMzek5sc0dVX3hoT25GTEVFSHpzRXA1MlotWFhCdDNzRFZvcUpuVWFmd2JhYU9TU1U2V2V6dDMySGlIUzFpRlRRY2pZVE1XQ3gwWkhCbjdZNHptWUx5c3c?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8381fe36258f",
       "title": "BH ganha ponto extra de vacinação contra a gripe; saiba onde - O TEMPO",
       "published": "2026-05-31T19:03:41+00:00",
-      "summary": "BH ganha ponto extra de vacinação contra a gripe; saiba onde&nbsp;&nbsp;O TEMPOPrefeitura de Salvador amplia vacinação contra gripe para toda a população&nbsp;&nbsp;G1Prefeitura de BH abre ponto extra para vacinação contra gripe&nbsp;&nbsp;MetrópolesPBH abre 19 centros de saúde para vacinação neste sábado (30)&nbsp;&nbsp;revistaencontro.com.brVacina da gripe em BH: saiba onde se vacinar neste sábado (30)&nbsp;&nbsp;Rádio Itatiaia",
+      "summary": "BH ganha ponto extra de vacinação contra a gripe; saiba onde&nbsp;&nbsp;O TEMPOPonto extra de vacinação contra a gripe começa a funcionar nesta segunda-feira no Centro de BH&nbsp;&nbsp;G1PBH abre 19 centros de saúde neste sábado (30) para vacinação contra a gripe&nbsp;&nbsp;Prefeitura de Belo HorizonteVacinação contra a gripe em BH: 19 postos de saúde abrem neste sábado (30)&nbsp;&nbsp;Portal UAIPopulação elogia atendimento em sábado de vacinação nos postos de BH&nbsp;&nbsp;O TEMPO",
       "sources": [
         {
           "name": "O TEMPO",
@@ -90,18 +186,6 @@
       ]
     },
     {
-      "id": "9b3785c68c70",
-      "title": "Exames apontam meningite em paciente internado no Emílio Ribas (SP) com suspeita de ebola - Folha de S.Paulo",
-      "published": "2026-05-31T15:32:00+00:00",
-      "summary": "Exames apontam meningite em paciente internado no Emílio Ribas (SP) com suspeita de ebola&nbsp;&nbsp;Folha de S.PauloHomem com suspeita de ebola viajou de Guarulhos (SP) ao Rio de ônibus, diz Ministério da Saúde&nbsp;&nbsp;Folha de S.PauloExame descarta ebola em paciente internado no Emílio Ribas, em SP&nbsp;&nbsp;G1O que sabemos até agora sobre os dois casos de suspeita de Ebola no Brasil&nbsp;&nbsp;CNN BrasilGoverno descarta um dos casos suspeitos de ebola no Brasil&nbsp;&nbsp;CartaCapital",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUXd3bEVHMXhKam1HbkVBNlMtUGJQUnFIRU56c1ZYLTAxU195MTdCY3paQ3BnRE5EaFBVTVNxNE81UGNjbWtwR2V5MVV3WTJkNmViWmNFMzh3UjZHRnFzSXNJc3JSUWJtZnl0UGlJZV9RZkZkLTFTcTVSZndMWXRBYVRtc3ZicEh2X2pIYnJzRHJMT0kwdlN1U3lnU1R3Y3BLRVU5RjRIR3E2cWpEZkUyVjdoTldJMXJyNS1BaUx1clRkVjR1cWVSRHZUR211LVJidWUyYjFHa185M2RDTTNPeEpR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f4cde3482fd0",
       "title": "Casos de Parkinson devem dobrar até 2050: conheça os sinais de alerta e o que a ciência diz sobre retardar a doença - Jornal Correio",
       "published": "2026-05-31T15:00:00+00:00",
@@ -126,14 +210,26 @@
       ]
     },
     {
-      "id": "3e469a1a0a57",
-      "title": "JCNET: Pílula reduz risco de AVC recorrente em 39% e hemorragia em 60% - sampi.net.br",
-      "published": "2026-05-31T11:00:00+00:00",
-      "summary": "JCNET: Pílula reduz risco de AVC recorrente em 39% e hemorragia em 60%&nbsp;&nbsp;sampi.net.br",
+      "id": "6017e1b7bb4c",
+      "title": "Litoral de SP se prepara para o solstício de inverno e madrugada com 3 horas a mais de duração - Diário do Litoral",
+      "published": "2026-05-31T14:06:00+00:00",
+      "summary": "Litoral de SP se prepara para o solstício de inverno e madrugada com 3 horas a mais de duração&nbsp;&nbsp;Diário do Litoral",
       "sources": [
         {
-          "name": "sampi.net.br",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc004Y1J3THpkQS1pTTJwNWdEYUc3U0IzYVNLbzdJdjZPd2c2OXlIQUJuVjFtajlmakloZTRnN0lHOFR4alBMNFNTdngxdy0tZGtDclQyTldIVUpqTG5EVTE1VGw1S2RwWEhCcVI2N0NDalNzakprVThrYUhJUlE1aEZYTHQ1dW9vRkxDeE1EbC1SWE5SQmtGTUJOME96Yko1cEJUVzc2UUpNMnlyT1BFTkJyaWdoWHVLanRCWDJDRXRwdlkxalow?oc=5"
+          "name": "Diário do Litoral",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNjdRZkN4TU1lVmVGdTRrcDA1Ykc0NUNQOXFHQmtUMDhaR2NZUnRVU2oyaHJyOXlIaHBTZ08xYWpheXhQNWNZdHlPNGFham5XdGtKSFZoZGdzd3MwYmtJMGlqWnEteFFTRGR0WFZsamF4MEM4SWNRZnF5VW02TmdjVGE5cF9lTlprdTRKTHI3eG1XbzY3WWtzVmk3UTJZTEhvYWVoSGxYMllJbGtrclJTZE5zeXk1QXJNbWVETFdjd0pwS0p0VFRZb21OV0wxNnpsdEhxQ3NWMA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "32f42cf9a28b",
+      "title": "Cientistas ficaram impressionados ao ver aves de cabeça minúscula resolverem problemas como grandes primatas: os corvos memorizam centenas de esconderijos de comida, usam ferramentas e até transmitem conhecimento ao grupo, desafiando tudo o q - CPG Click Petróleo e Gás",
+      "published": "2026-05-31T11:01:00+00:00",
+      "summary": "Cientistas ficaram impressionados ao ver aves de cabeça minúscula resolverem problemas como grandes primatas: os corvos memorizam centenas de esconderijos de comida, usam ferramentas e até transmitem conhecimento ao grupo, desafiando tudo o q&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQVUpkMUt4RWEtWDNDWFJiM2M2NkMxUHNBY1ZRZTM2MzJ4UHdSNGRZMTc2UG13QzljRlVjUTVFQ1F5UlBqeVR2WkZqVnJnRC1CQlAxNktTM1BudlpxeURZNHUxdnhTQlFrS0RXb2hyWVdxSnZ4ekJPcFNzS1ZFdDNOcTJkcWVuZ2Rwd1RrMVktWkFoa190c2VVNDZqSHZvV0dVNGY2cEstVktFdWhNcVZhbDRFTmY4TEdrV0dSQlRldUMzWnhTaTZHbUlTQXFzVVhNV1lPQm1TLUhiSHNQSUdtc3JiNmxFMEdYVWI1a3p2bUpYNkd3N1JyRTFwdHhfd0pxaXZEcURIcGRWSjJoUVFaS3JaNkdlbUw0NWdMX1ZIZlB1S0lyZmNNazlMQXZLQVdHbW9mZW42bkE2bVZ3Vk1OX3dycnFRTUk?oc=5"
         }
       ]
     },
@@ -189,107 +285,11 @@
       "id": "763849a9d04c",
       "title": "Como o ebola é transmitido e qual o risco para o Brasil? - CBN",
       "published": "2026-05-30T21:36:07+00:00",
-      "summary": "Como o ebola é transmitido e qual o risco para o Brasil?&nbsp;&nbsp;CBNEntenda o que é o ebola: sintomas, origem e casos em investigação&nbsp;&nbsp;O TEMPOEntenda o plano de contingência do Brasil contra o Ebola após duas suspeitas em São Paulo e no Rio de Janeiro&nbsp;&nbsp;Correio BrazilienseMédicos do Hospital Bach Mai destacam a regra '2-5-30' para a prevenção do Ebola.&nbsp;&nbsp;Vietnam.vnEbola pode chegar ao Brasil? Entenda o risco em meio ao novo surto da doença&nbsp;&nbsp;A TARDE",
+      "summary": "Como o ebola é transmitido e qual o risco para o Brasil?&nbsp;&nbsp;CBNEbola: especialistas avaliam o risco real da doença chegar ao Brasil&nbsp;&nbsp;Veja SaúdeEntenda o que é o ebola: sintomas, origem e casos em investigação&nbsp;&nbsp;O TEMPOMédicos do Hospital Bach Mai destacam a regra '2-5-30' para a prevenção do Ebola.&nbsp;&nbsp;Vietnam.vnEntenda o plano de contingência do Brasil contra o Ebola após duas suspeitas em São Paulo e no Rio de Janeiro&nbsp;&nbsp;Correio Braziliense",
       "sources": [
         {
           "name": "CBN",
           "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNR09QSl9pb29fWG5xQk8tcXFVWEFZeHA5X2FPTE1ueGROSjFmdjlBTDNMWnUxWjlrUlg1a0JCc29wdnFMVHBWSEVBWWI2RVNBYmdKcTE1N19fV1ZwbFJGb2tKYWZ1eUNuS1JZTGJQd3d5d0VEdTZJdlUwemU2RExNT2FuSnc4MEp0VXlRMzVvQlN1ZUJ1Rld1djZyMUstV2lQaXd2VnVaeVJ3aHZZT0FqbVB0MGlzOUZ0elE5NTRzanpYRnVzcDNTNnZHRGxFcXBqWnZvMXg1RlYtbWRkT00xQXRsWEnSAfMBQVVfeXFMUFFxbTV3SEdJOUtodUM1NUI0N1hLRnkzblBJUWlKOEh6RVlQeS1PZnRYZVZJYkFQejc1QmtQZGpXTVFJM2JtcUlhdnhwWlcxdVJpcEx6aFZGa1FOY0JPWjlxd0dKVkdYaWpVRXUtNV92RkJyOXpWNXd0UHRpeXo2NHFGQjRVcnpoUkNGb01VdE85RlEzcUJ0aDZzYWJ4NjlXcVR6dmRXb1VpMlhjZFFkVWFOeWZnb1liMkcyaV9NRnRzNk1SVFItSU41dXRwaVNoaUozZHlIWHVQbW9CLUE0dWlDXzdDUm5ocDRJQVl2TUVCdnVj?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7b52757c0ecd",
-      "title": "Por que você não deve se preocupar com uma pandemia de Ebola - CNN Brasil",
-      "published": "2026-05-30T17:37:25+00:00",
-      "summary": "Por que você não deve se preocupar com uma pandemia de Ebola&nbsp;&nbsp;CNN BrasilPotencial pandêmico do Ebola é diferente da Covid-19, diz infectologista&nbsp;&nbsp;CNN BrasilOs surtos de ébola e hantavírus têm intrigado os cientistas&nbsp;&nbsp;ZAP Notícias",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOXzJiWFNVZnkwM3JMVk1HQktQZC1samlWVFFqTUxlT3pnWG4wZ3BoazFmSkZSajlsRnBlR2NicFkwaTVhRl9LYkhXQWx1M0QzOWpMMlVZSEtBR0N3WDl4RUV6YnJoUDJUNDRrcDl4ZUhkUEcwOXFPeGRmejl1VUZZX1pXWi1yc0R1ekFoQjZuQ3M4bVhJYndZelZLTWE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4f714467c2b1",
-      "title": "Cientistas identificam ‘portal’ oculto na Antártida e descoberta gera preocupação - Rádio Itatiaia",
-      "published": "2026-05-30T17:16:52+00:00",
-      "summary": "Cientistas identificam ‘portal’ oculto na Antártida e descoberta gera preocupação&nbsp;&nbsp;Rádio Itatiaia",
-      "sources": [
-        {
-          "name": "Rádio Itatiaia",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSlNaVlZMMzU4c2FMOGNHSjdZdndHMm9ZemhrVmZuMUZUZVU3RGxhQnM2TmRxVlVXMTRDV2dDYmRwZmc4Tzg0TEZnajBGaXc0RWJvS3d4V1JDaG1oYkRNcVRmV2dYcHN5ZHkzOGtGM1FUb3paYmhOMTdEQXRRamJpemRxZEFLbktoU255czlST3ZTcEpMNWEzM2VCQi16dUNacUZROGsydzZfeENiQjRBSXpQc0ZQUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3ab4799e00c8",
-      "title": "Um estudo de psicologia concluiu que pessoas nascidas entre 1945 e 1965 têm uma vantagem psicológica sem igual - Super Rádio Tupi",
-      "published": "2026-05-30T16:00:26+00:00",
-      "summary": "Um estudo de psicologia concluiu que pessoas nascidas entre 1945 e 1965 têm uma vantagem psicológica sem igual&nbsp;&nbsp;Super Rádio Tupi",
-      "sources": [
-        {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMWctSy1WeU9fWUxlMVFwM0lxSlVSZl9MTjY5aDh3M0lvc0FJWHh3SEhtZjRJT2ZWVGQ1WkJ5bUNVR0R4UlBHVXIxYlYtM2RSTW1nVVg5RTZxMGlxVGdod25ZYkd1RzV4cWZZaTdRNGFhTkpmYWp4OHBieFpMSTVXa0I3akV0bERkUWNVRWotbmVkS3RaNEhMc25QY2NxbU9FMFZHaXJfV3Zoa3NvSWkwSGRUTEVlNUtUNEc2eFV1QjMwSlBYTy1DcjRWUW1xMzY4R01GNzVaWml0TjkyN2hj?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b75b5d41f4aa",
-      "title": "Após baixa adesão, Rio prorroga campanha de vacinação contra a gripe - G1",
-      "published": "2026-05-30T14:16:09+00:00",
-      "summary": "Após baixa adesão, Rio prorroga campanha de vacinação contra a gripe&nbsp;&nbsp;G1Vacinação contra a gripe no Rio ultrapassa 1,3 milhão de doses aplicadas&nbsp;&nbsp;O GloboRio prorroga campanha de vacinação contra a gripe por tempo após baixa adesão de grupos prioritários&nbsp;&nbsp;Diário do RioEstação Carioca do MetrôRio recebe vacinação da SMS contra influenza e tríplice viral nesta sexta-feira (29/05)&nbsp;&nbsp;TV PrefeitoTorcedores poderão se vacinar contra a gripe e o sarampo no Maracanã",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdTBNMlZzTjBjQlBuMjdGVkU1VWR0Vk5mclJmYThfYldySm1QVnRmS2J0cTVWNGREM3htRDJOQzdmOW1aMUg4dWhLeFN6eDZaRGRKZUZKdWlLVkxncHVQSm9GMW5aQ3h4NVk0cjRfN1U0OGdaa0lQZ0poNzdGV1FIWkxETXlqZmhQYUtLZnJyTU9ERjlOSzNGYi1OamhfcUQ2QXZsdjVYNXpVYkdoZXg4U0lhY9IBwgFBVV95cUxQbkprR1ZSTTBMNktYTmd6bVpxeDJwblFtN1ZrT1g0cjFXLVpaaG1PQkpGcnNBcy1fa1lROHNzeGRUNGJtQ3BZRlh5Wmduakd6dW54Q29nQmhEcmI5SHdEYlEzM2hjamVMekdMaGFZS0VjY1RIWlVRREs0M2pJanVDYkZFbWZFTHlZekpadzZad1QxdC1MOEZEN2hzZi1RdExXY2NGcl92Uy1QSWR3bXlCZm12Z0pJMGRXSVA1S0RyMFRKZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "90d2d9ed28ba",
-      "title": "Morre pouso-alegrense que lutava por remédio contra câncer - Pouso Alegre .NET",
-      "published": "2026-05-30T14:08:49+00:00",
-      "summary": "Morre pouso-alegrense que lutava por remédio contra câncer&nbsp;&nbsp;Pouso Alegre .NET",
-      "sources": [
-        {
-          "name": "Pouso Alegre .NET",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbk53YWx3Wnp5Rmd4X2lkU2IxSy1DOWdyd0RKajZWWFBhNnJjLXBuampzNXVfQWc1M3d1enNJT21zN3dob3k5Yk0yMklpcTI2bmRVdmRLX1h6RkM3eVNVTk5EVlRVNmEzUEgwSlBESGMzOUlkeDNBT09rbFQxNUxFY1g4Wk1vY253YXdndDY3Ulh0aGpt?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4ee7c505a844",
-      "title": "Estudo analisa colmeia com 5,5 milhões de abelhas embaixo do solo de cemitério em Nova York - Um só Planeta",
-      "published": "2026-05-30T13:45:04+00:00",
-      "summary": "Estudo analisa colmeia com 5,5 milhões de abelhas embaixo do solo de cemitério em Nova York&nbsp;&nbsp;Um só Planeta",
-      "sources": [
-        {
-          "name": "Um só Planeta",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQ3VqNjJMS29xOG1XTEdTSlJIMS1Wd3NNazhZcFp6QjdEQ1RkbEpHYVhIZF96ZVJXTy16b2w0T3BHMlROMlpscDVXX09HVU9HeXFBY0FVMGRCMGhnY0dMS0t2VTluNGVManlaOEt3bUJyN24ydTlQMllyd3ZqdC12LTM2SWVuUEE4MkJWRUJqSkpkMDlsdkFPeXVDdnI1amdTTXc2Yk55aF81UUdGSURqY3ZfRGhLWE1LYmNHRVdVekQwOFNmSm5LX2VlcDlDOEM0c3diZTMyQ0tLUU9Rb1ZJcEp5b3R4WldyUHl3azI4T2l6Z9IBgAJBVV95cUxQNDhMSkdlbGNjbkthYXVqdkN5TTdxOC1WdkZGLVloeE8zVGFGaTY2ajJIb2ptZmJuZjNtVkQ2SHAtMkh1czNsYmxvUlZHV1dCdkZKY0pULWtwQU1HS1dCM1ZHTlNTZGVSXy13eDZDTnoza3JiLV91bzktVTBtMy1TQWU4ZFpMNzFONWJ6WGVSRlIzdjhPSUxPbDB3TTQ2TnRmVkk0R0hjbUtfNTVWTjVqSUlmeHZnSG5kMk9leS05Wk5QUHRBdjk0MnRQVDBZY2xOQWJmc0oySTI2OHlQaGhQYTllcUk0SWtlUjVmUmw1WDIwRzdmUzB0dnJaOWZudVZo?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d9b9a703a841",
-      "title": "Produtos da rotina estão na lista dos que podem causar câncer; entenda - gmconline.com.br",
-      "published": "2026-05-30T12:51:00+00:00",
-      "summary": "Produtos da rotina estão na lista dos que podem causar câncer; entenda&nbsp;&nbsp;gmconline.com.br",
-      "sources": [
-        {
-          "name": "gmconline.com.br",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTFJwYlQzM2hnSDRSakxhTFpEdVdlZUg1YUZQb3JHUmZEUHZFX25Ua21ocHRXRmxRZjQ4b3AwdFBxRU50MUhCLXVsczVNZ3JPOW43aDBVZG1VWm5GeGZNb1d5U1BnYnVTRWptODRNdVZ0UmxIeFFOT2d4X0Vwb1ZMMXNxb1p1dHBEZmZGYVEtRGpWdl9MMXBIUjlnM1B6Ml93Rm1NMTd4MW5DbDMza0k00gG0AUFVX3lxTFB2ODZuelZ2bHpIaTdBMXBhTmstLXB6ZmNSeXhMUzI1dGV6MGVRWFVFS1RCdUZ1b1NOcGg5eFhObHotU1FDRzZhZ0MyTEhGRXhHeDZaR1Q5eEF0bkVUaXJDb0l4QXpKM3IteWN5N2NwNEVCRjQ4S1dtcjhMcW9LUXA1Ulk4cThNR2RmUUdHaXdjZXl4QUhwckx1TXFXZXZSZHhqY3pLcjlaNkVhOEpQMUJJaHZfUw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3c4bc7c47ae3",
-      "title": "A física foi desafiada: pesquisadores descobriram algo que se move mais rápido que a velocidade da luz, mas o fenômeno não quebra a relatividade porque envolve padrões escuros dentro de vórtices ópticos - CPG Click Petróleo e Gás",
-      "published": "2026-05-30T12:05:00+00:00",
-      "summary": "A física foi desafiada: pesquisadores descobriram algo que se move mais rápido que a velocidade da luz, mas o fenômeno não quebra a relatividade porque envolve padrões escuros dentro de vórtices ópticos&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPNE83dHF6Q0htV01CczZybmRFODFVNkNxbGJNaGtQQS1PVTJkTzgxOFd3UHVtWXpyT01ncFpHOGI4aUd4S090ZklBNnByYXh1b0V2TU1CZkFCX3pvbWtoeEVlX3J5eURoejg3dnJNckZmUkZQWFU0alMwNlVkdlJxeU9KWEo4bjdXYmlDcHk4cTNIZERQV3dhNTVldnNPRjY1OHpTVHIybXRaVXZUYkhfSm5kUVByUmpmU1JieGlLckpDUUZJcDBHd1RhT01MdHhzanlQZnBqa2VjMXc3eUZsYm5Ubm83RnVEWUpNei1ZcDlrNjRGVGFWTW1CNUdoaUJFSEhxaThzLUhtVk5KSV92X25xWUdCenBwbFpnMXNBTWg0LVVUcm11VXJxc3paRWszWkZGMHh0aEkzSDdlOHhrUjcwa2dtdw?oc=5"
         }
       ]
     },
@@ -306,26 +306,14 @@
       ]
     },
     {
-      "id": "ded1b8b34207",
-      "title": "Aos 16 anos e sem dinheiro para comprar equipamentos, um estudante do Sertão da Paraíba montou seu primeiro telescópio com dois baldes de margarina e um espelho de parede, e hoje leva observações do espaço a escolas e praças da região com apar - CPG Click Petróleo e Gás",
-      "published": "2026-05-30T07:00:00+00:00",
-      "summary": "Aos 16 anos e sem dinheiro para comprar equipamentos, um estudante do Sertão da Paraíba montou seu primeiro telescópio com dois baldes de margarina e um espelho de parede, e hoje leva observações do espaço a escolas e praças da região com apar&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "id": "b3bdc23ea32c",
+      "title": "Perimenopausa: confira sintomas que podem surgir antes dos 40 anos - CartaCapital",
+      "published": "2026-05-29T19:02:00+00:00",
+      "summary": "Perimenopausa: confira sintomas que podem surgir antes dos 40 anos&nbsp;&nbsp;CartaCapitalStress, burnout ou menopausa? Especialista explica como reconhecer os primeiros sinais da transição hormonal&nbsp;&nbsp;TerraNévoa mental na menopausa: o sintoma que agora ganha espaço no cuidado do SUS&nbsp;&nbsp;Tua SaúdeCinco sinais silenciosos da menopausa&nbsp;&nbsp;Tribuna OnlineMenopausa sem tabu: como transformar uma crise em recomeço&nbsp;&nbsp;Extra online",
       "sources": [
         {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQdlZGZ2cwY0djcl92aDVFT0VCT0tEOVNEZXBEOXpUSlZFMmxDSlRVdy14bHZGYThVTlV6YkxjYTEwbXdzMVRGLXlYbmdDclBSMTZxUkppME1uNHNRRXBETFpQdFd1dXF6Z05ZVEFxZzdPNG5OeXM2dHdPUkJyaXpUdHJtOVRxQXhVNWJhSWhlNEJfT3F0VEo2WmJBV192c19vellDVXZrVlRPRDlLbUNfZndqN3ZyVmQ4T2dUdmpfNXpqeGE3elBwLWtkd2E5S016eTBDSDhPV0pqSndDa1hxaWpya1NZcVV2YU5WQzNDM3pyQjR3dzMyekM4QlRsNThINlJJ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9f8bad18615d",
-      "title": "Primeiro rim e fígado de porco são transplantados em humano ao mesmo tempo - Globo",
-      "published": "2026-05-29T20:24:24+00:00",
-      "summary": "Primeiro rim e fígado de porco são transplantados em humano ao mesmo tempo&nbsp;&nbsp;Globo",
-      "sources": [
-        {
-          "name": "Globo",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcldRWWdmUWdLQkRhUmFLUXpkYW8tMmZXUHNpVm9XZ19WUTdQeGZuRl9zbkhvWjNtcklEc0hxaGdha21VaEl6cGFwQkJxbERsYkpWSHBDMDlvVzRNNGlDYVNiS1B2bS03dVdnWWE0eFk2N2NFWmVONGVtYWZBOEptdS1fZDhxZi1OdkU1alRGZTlYeDlkdThtTWxKRm9JcDV4WnZSOEYxanpydUxLM2MyZmQ0dVN0a3hEa1R0ZWZEZmlBcWNKZnVleDlwVTNwN2swWDQ40gHiAUFVX3lxTFAzQmNwQ3RwWDlUSmt4THJDdzROOE0wdDR3YnNmLTloRmFKcU56Q3QtU3VrampudXp5OHVpZnFwNW5PSHRxdWk1OTNJVEt6b1hWa21qWGJYYWNORVlZT0dySmRnZXotUGotd0NUMGpKRFVGRHpydWlscGVGVVpxRk5rZWtkLUNDVy1HUlFmQWZfVTFUWE05blp3VDc5eDRyZEhueFExZVhHX1pHSFI0MG1ZUFlGZmdWUW1EbFN5ZDJGU0c3UFc3N1VvOHNCNFhHQ25SaWxVeWxLWFUxbFpYZDQ0NWc?oc=5"
+          "name": "CartaCapital",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdGRSb1JXaXFXdk1tMmRwcFRzY0JESkxDSDh2bVViMkxESkRPRkxQaWY5d2JjWGUzbGUxMC1CaFNYdUFmZkhwVzBKUl9CdFlURFVBVEFuSkdYZE1RUFp3V2hfeXFjSnU4ejhxXzRnT3Q3S25lQ0ozX01tQlBjajduS25DSEw4ellYR0lmR2FfcTdvdW41ZDQ5WDBlNGYwbjRKWTlKN0FTWWVGX2pn?oc=5"
         }
       ]
     }
