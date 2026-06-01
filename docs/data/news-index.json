@@ -1,34 +1,7 @@
 {
-  "generated": "2026-06-01T04:18:16.195074+00:00",
-  "count": 30,
+  "generated": "2026-06-01T11:38:54.433035+00:00",
+  "count": 28,
   "news": [
-    {
-      "id": "9c0e983331f0",
-      "title": "Suspeita de Ebola é descartada em paciente do Rio vindo de Uganda - CNN Brasil",
-      "published": "2026-05-31T23:08:28+00:00",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQekdxUEpybjNJNkN2LTB4SjhjbDFhYzRqdV82NWdjbFhwU3FXUUcwUFVMc2VHcU5rV3FidG41bk9BUzZMaVJqNmM0RjJGbTJRYU0wNExITzRGaTVEZUtBRmxBMTlkQ2FRNU5jUWMybGZPaWJvaC1COHdiQy12akM0QVZKT2VCUS1XSGtMT3NfZ2xFalA5Y3k4aWNnUWtDdzR5SEVv?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        },
-        {
-          "type": "drug",
-          "slug": "tadalafil",
-          "keyword": "TADA",
-          "name": "TADALAFIL",
-          "url": "/drugs/tadalafil/"
-        }
-      ]
-    },
     {
       "id": "87fc65fa4a7d",
       "title": "Um mamute congelado por 39 mil anos acaba de revelar um segredo biológico que parecia impossível de recuperar - Revista Oeste",
@@ -559,26 +532,6 @@
       ]
     },
     {
-      "id": "3bb2196a69a4",
-      "title": "Alunos da Faetec conquistam prêmio internacional em Portugal com maca hospitalar controlada por voz - O Dia",
-      "published": "2026-05-31T19:35:13+00:00",
-      "sources": [
-        {
-          "name": "O Dia",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNExLOTVSX0Fua1lMNXBqMkFKSUFjamxLYjhobkVEUzU0UzVXRzNjLWNFZFpObXlaLWFfWVh4UmZBVDZ2Q00xTjlLQ1I1dnFJZzIzdEdtYTRfVUlYX0Iza2Zzd2Q0U3YwckxDQXlkMnZSV3dDOTJ3VWdQOERQZWRNQmhLTFZYb1YtaTk1clVEUXNHMXV1cU9IemEtVmJpQlBFMVlDYkF4cjdRdnBtX213eHJBSlZQclVTa0xQcWFLdUJpOXdWcmM5VWFKOUotOFNBSTVKY0RyNmctWHlqcXE0Y0c5MkpZTTZXeFNlcDk2WdIB9AFBVV95cUxNS0UwcTlwNmJsakRkaVd0QnJhb3Vrdk5tR3hPdFBnc2tmdFlnckJGVzBxalRaZ1oyRE8zOWpIMkJmWVlSSEhRWGMzZFRjQVZXWHZUbHA0UmFHUDRzR0FBbHA2OGo1QkRfRnpoMlJGcTZWZ1ZvbnBCbXRJaDRZLUZuaHp1RVJIV1BLMzB2TllhMnRxV2wtaWRDSUFIRjN2YlhBMHFfUkNlb0dDOXJmTTZjbmRkclVzMjNGRURwaUN0cGk4TGQ3S2lIcGhWTmJvVlZvTGgtcnFoOVNuWFNFVkFONHZNOFh2OW82SHhWWV9KRDJSdjNs?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "levetiracetam",
-          "keyword": "TAM",
-          "name": "LEVETIRACETAM",
-          "url": "/drugs/levetiracetam/"
-        }
-      ]
-    },
-    {
       "id": "0aea87635f4e",
       "title": "Como a roupa certa pode aumentar sua confiança em um encontro, segundo especialistas - Rádio Itatiaia",
       "published": "2026-05-31T18:30:29+00:00",
@@ -595,6 +548,53 @@
           "keyword": "CIALIS",
           "name": "TADALAFIL",
           "url": "/drugs/tadalafil/"
+        }
+      ]
+    },
+    {
+      "id": "9b3785c68c70",
+      "title": "Exames apontam meningite em paciente internado no Emílio Ribas (SP) com suspeita de ebola - Folha de S.Paulo",
+      "published": "2026-05-31T15:32:00+00:00",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUXd3bEVHMXhKam1HbkVBNlMtUGJQUnFIRU56c1ZYLTAxU195MTdCY3paQ3BnRE5EaFBVTVNxNE81UGNjbWtwR2V5MVV3WTJkNmViWmNFMzh3UjZHRnFzSXNJc3JSUWJtZnl0UGlJZV9RZkZkLTFTcTVSZndMWXRBYVRtc3ZicEh2X2pIYnJzRHJMT0kwdlN1U3lnU1R3Y3BLRVU5RjRIR3E2cWpEZkUyVjdoTldJMXJyNS1BaUx1clRkVjR1cWVSRHZUR211LVJidWUyYjFHa185M2RDTTNPeEpR?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "levetiracetam",
+          "keyword": "TAM",
+          "name": "LEVETIRACETAM",
+          "url": "/drugs/levetiracetam/"
+        },
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
+      "id": "f4cde3482fd0",
+      "title": "Casos de Parkinson devem dobrar até 2050: conheça os sinais de alerta e o que a ciência diz sobre retardar a doença - Jornal Correio",
+      "published": "2026-05-31T15:00:00+00:00",
+      "sources": [
+        {
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNU2g0Q3dQVjM1MUJ1TXpqNlpPam5BUm1YX1JTSUIwWGRUeFc0M2UwZUJzaHJyOWIwNDBqdWphSkxBbnNRNGs5cktIM1JpQjZ5Q2I0WUJ2WmpQTDRJb3BKNlQ2alRjdGhmNHlUdGppZUQydUhoMlFrWTVFcVVyVTFab0p2UGdlSjZ6dkFXNTk1ZWJOeHdkZkZ5a2NtMDlEN0doQXZDU3VIdTJVUjloZHpORUdEOW5nSmsySnJGZ05RN0JGLWRJZUZ2aTV6S05pM1gyR0hFNFhfS2hWNFV1OUIxV0d1QVRpQzVqX1ktTG5ROU4?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "levetiracetam",
+          "keyword": "TAM",
+          "name": "LEVETIRACETAM",
+          "url": "/drugs/levetiracetam/"
         }
       ]
     },
@@ -622,26 +622,6 @@
           "keyword": "UNI",
           "name": "ZINC",
           "url": "/drugs/zinc/"
-        }
-      ]
-    },
-    {
-      "id": "0bea36ca76eb",
-      "title": "O mistério do nascimento cósmico: JWST acha buraco negro mais velho que sua própria galáxia - Meteored Brasil",
-      "published": "2026-05-31T14:11:00+00:00",
-      "sources": [
-        {
-          "name": "Meteored Brasil",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNazk5ZUtEOVlWV0lOOUNPOGVzc2JvNEM0YlY2a00td0FnM2FQaGVOYnN0TFdDakxiWENIZEx4ek16UXljMFFDSV9NQWluc0Z3cTRpN0hhSXBTUksxQlNVSjJyeWpTWGQ5aXRCcFIwWDhNRkFPWnlrdy1hZ0tvVFdfYUc4YUxYRmxNQzh6Y2FiU3NsUlBZeDdidXJabWlHeGRkMkFXMXpETGdqNm5ZRXRXQjhaZ3Qtb2FvQlZ5cVpTdEVaak5wUlhHd1VYUWJ0Vjl4cWk4?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
         }
       ]
     },
@@ -884,26 +864,6 @@
       ]
     },
     {
-      "id": "f7daa4548a53",
-      "title": "O que a ciência descobriu sobre os polvos pode mudar decisões em toda a Europa - NSC Total",
-      "published": "2026-05-30T15:23:00+00:00",
-      "sources": [
-        {
-          "name": "NSC Total",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQejlLMTNkSm1WcGtIMjUxbm1LbWNFR0I3MHVZWHk1b2ttVnJjblpFRkZhTGxWeUptSjVvQVFGUWVoRGMzSUVmZnEzcVdFZXppMXI3MS1DeVg2aG9La2NsMGVZcndzN1ZTYlQxOXZDeHpaVHlScHI4dmI1czJ5UFluRTdCbTJJOWZJOGxXWXlaeC1JZ1JQTTNVWW1GeGxBTGF1WUljN0p3TUJXVGh1TmVDRU1fcktMQQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "decitabina",
-          "keyword": "DECI",
-          "name": "DECITABINA",
-          "url": "/drugs/decitabina/"
-        }
-      ]
-    },
-    {
       "id": "c607674d8fb4",
       "title": "Bolsas de nicotina são a nova estratégia da Philip Morris no Brasil",
       "published": "2026-05-30T15:06:14+00:00",
@@ -931,6 +891,33 @@
       ]
     },
     {
+      "id": "2abfc9c01d1d",
+      "title": "Múmia de criança inca é devolvida a comunidade indígena na Argentina - Folha de S.Paulo",
+      "published": "2026-05-30T15:00:00+00:00",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYUo0X2ktWDBOek1BbXRvV2F5cTdrQ0d1OG5YeWI5WTVWMTBQQWFFZGFxYW1YSDZIdV9HUFF5OUcxQmFNNWtxc3NuenlrVGJjS3llZ2pUakwzSE84akVhZVhwMTFLU25ld21vYnlyVlpBYzZWWXF6ODNIdFdPSFU5eEgyM0ZqN1NyMlpuY1JIX0RFX3hvemlIRzVEdXhPcmhZdGdwc3FmQzUyM1NpME1WM1Fyclp0NUpZN19DLQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "diazepam",
+          "keyword": "UNI",
+          "name": "Diazepam",
+          "url": "/drugs/diazepam/"
+        },
+        {
+          "type": "drug",
+          "slug": "zinc",
+          "keyword": "UNI",
+          "name": "ZINC",
+          "url": "/drugs/zinc/"
+        }
+      ]
+    },
+    {
       "id": "b75b5d41f4aa",
       "title": "Após baixa adesão, Rio prorroga campanha de vacinação contra a gripe",
       "published": "2026-05-30T14:16:09+00:00",
@@ -951,13 +938,13 @@
       ]
     },
     {
-      "id": "f461f266713f",
-      "title": "Morre Elizângela Oliveira, que lutava contra câncer e enfrentou batalha judicial por medicamento - Terra do Mandu",
-      "published": "2026-05-30T13:24:11+00:00",
+      "id": "90d2d9ed28ba",
+      "title": "Morre pouso-alegrense que lutava por remédio contra câncer - Pouso Alegre .NET",
+      "published": "2026-05-30T14:08:49+00:00",
       "sources": [
         {
-          "name": "Terra do Mandu",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYWNzY0o4REhIYW13Tmd5QWhtY0RvalVpYlI5SHZMYnkzcnFJOWlwd0RuYTByekZNSEJ3VVlIR3dOaTBibVRsY1pJM08ybHQ1RE1yVHJndDVuUElldG1YRjdrbENRYVhUc3RlaXNBcUlidkZvd0dqNlc0UmZnanBEa25TU2g4blVjNzR3dURPNnhaNERCZ2h1SVZxR0EyTE85bmg0bWFSSGN4X3NGcXU0Uk1fWnQwNi1Hd05TOUhwTFBqUkNQOTFLWkF4SGFuOVM4Uy16ZEFManpPQTBaOXfSAeMBQVVfeXFMTUVkYVJEMUVmYnFxeWY2OXlwZHVfM0htRHpIczZaRTFZdmlSLUJmdE1COUNXRHNjVFE4aEVPajJvS3lqejF6T3dkWUhneTkyOVJwMnUwU3h4N3k5U1VzT21JSDZiTkIyWk41YjZOM1FITzc5dGhvY0FoWjBDdzVNRWl2OUNQUWNsMEdlT0V4Q1lNVUlibUtNdWhpbDRFRmxkMklTY1lhOFdWa2hZVjJyUDVOZTVrLXFLaURBRE0tTVpiaHFKTFRlSW1TbUg5OXBpaDNlb01UMkt6aW9EWnB3OUhwNTg?oc=5"
+          "name": "Pouso Alegre .NET",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbk53YWx3Wnp5Rmd4X2lkU2IxSy1DOWdyd0RKajZWWFBhNnJjLXBuampzNXVfQWc1M3d1enNJT21zN3dob3k5Yk0yMklpcTI2bmRVdmRLX1h6RkM3eVNVTk5EVlRVNmEzUEgwSlBESGMzOUlkeDNBT09rbFQxNUxFY1g4Wk1vY253YXdndDY3Ulh0aGpt?oc=5"
         }
       ],
       "keywords": [
@@ -1755,62 +1742,6 @@
       ]
     },
     {
-      "id": "32218207f331",
-      "title": "Esclerose múltipla: sinais invisíveis desafiam diagnóstico - Correio do Povo",
-      "published": "2026-05-30T10:10:38+00:00",
-      "sources": [
-        {
-          "name": "Correio do Povo",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT1Z6bjV1OUg3NTREekttVzJ0UU9ubHJXSmZ5RUVUZG4yT2djMFFkWEtFWEVtNXREUkpxVlRqYTRFSWFrdE5wSWJLWFB0eVR6NkhSdWc1MzQ0Smhhc0l2THd1UnRJMV9KTUFHSjNCWjJaQm0tR3VEck9ubmRUcUdKZUxzRXl4UTgtcS00OWx2anBrSG5fOTgtQ0JJdk9ZNHhLcHFvd0xub254SkVMQlRSQ0ZwNEpyM0VaT2NER3hjZzZzQQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
-      "id": "97f28b465f23",
-      "title": "Por que o Alzheimer afeta mais mulheres? Novo estudo revela impacto no cérebro feminino",
-      "published": "2026-05-30T08:57:33+00:00",
-      "sources": [
-        {
-          "name": "Globo",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUldhLTRJZ2Q4Q1NaZ2xIaWtwNDVJUjl0eE90a253czQ1Z01ieFc2ZVVpZ2d6RC1WbEI4Ty1BRVhOZ1ZCa0NOSlFFZVFybV9raS11MlJsb2liaE1SVU5wS0gweWtOb3NDN0NGbXowOGFDZ0hCU3QtMXhvbnRQQk95eHNBRTlkVFIwY29zWlVfY0lkTjlPS3VyNW85QkNFdXdzNmlqOThJNmRucGsyajByaUJvVnE5UmdxTm9uQ0xuZUptc295b3pmTUNsMWlUdVJpbXMtdXN2bUNZQdIB6AFBVV95cUxPUElWVXdMWTh2M015am9LNVVUYWd4ZWJGc0J4d0d2Q3gxYnh2ZVVvVGRzbDRMSHc0OUR6dUozcG9nMUlGWjN1aVRoNE9xWmFZNmI1UTZiQVYxTUlKNkFZSUh0M0tzSzFPcUdBanYxcHFwd0c3MVFVTGUxdk5HUllBNW1Hd3M3WGhETXdpVDJ2b0ZzQ0JpRktUMVRnVHlYVTVEY3g4VEc0c2EyeU9pMHVRQmhaNlZDd1B3bmxSUmRGb1oyT2xWSjVWZ1ZJT0puTmhxYmJJNmdYdW40WGhyMF9HYW5rV1RtMWVD?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "demência",
-          "related_drugs": [
-            {
-              "slug": "biperiden",
-              "name": "Biperiden"
-            },
-            {
-              "slug": "entacapone",
-              "name": "ENTACAPONE"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "albendazole",
-              "name": "Albendazole"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "853f46fd7d7f",
       "title": "O que a psicologia diz sobre as pessoas que sempre escutam as mesmas músicas - O Globo",
       "published": "2026-05-30T07:02:05+00:00",
@@ -1831,38 +1762,29 @@
       ]
     },
     {
-      "id": "91207209ffe2",
-      "title": "Sono pode dar pistas sobre o risco de demência, revela estudo - Tribuna Online",
-      "published": "2026-05-30T07:00:00+00:00",
+      "id": "e4cef6cdd9e6",
+      "title": "O acidente que levou farmacêutico a inventar os palitos de fósforo",
+      "published": "2026-05-29T23:39:33+00:00",
       "sources": [
         {
-          "name": "Tribuna Online",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR0JVY0V3OGtOUkpIMEpWLUxLYVJjb0VxY2JmLUd2WEp6Xy1ta0RFMlluUGNNWnpKZmdvTHBueFlFYXFWTWNKcGtTZ2NwTENxNnFvbkhvYVYwLVNpTTNESzBua3dsdk1Od2ZkYWZEbmk0WlJuS3UyeFVzc081YURudFRzcjQteXJKdWo5bTlYeElRUEdlNk5OTVh3aFEwM3BHZzRabtIBrAFBVV95cUxOc3FHa1lGbThoU1ZtdUpnbm42OTFXenQ3NGFsOWRnOFhNTDdRdTk0MFhMMHk2TDdMVkNDbmhtZDJTUHdZT0w2UERHaE9kWXNuX2F4T2MxQTduNW1sV2Q0VVlrNTVjZWJlOGdXeXpSQlZnZDZQS2FBZHBtYlpOY3FXUWZ6VFZiS3dFeHE4dXFxV0dvb005YWNmaVFYdWFrOThJNFRqdUtlMEozc19M?oc=5"
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB3TzVhMndIam9XSjN3YkV3YTVkd09EVXp1NGJLUGotUVdUdXFzZ2Q0OW96dXZUNFh2TjF0VXBfeDdyeHM1RllqbXp6b05abnRqUmVCOEVuSUZmbGc5VmxEY0hB?oc=5"
         }
       ],
       "keywords": [
         {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "demência",
-          "related_drugs": [
-            {
-              "slug": "biperiden",
-              "name": "Biperiden"
-            },
-            {
-              "slug": "entacapone",
-              "name": "ENTACAPONE"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "albendazole",
-              "name": "Albendazole"
-            }
-          ]
+          "type": "drug",
+          "slug": "praziquantel",
+          "keyword": "FAR",
+          "name": "Praziquantel",
+          "url": "/drugs/praziquantel/"
+        },
+        {
+          "type": "drug",
+          "slug": "zidovudina",
+          "keyword": "FAR",
+          "name": "ZIDOVUDINA",
+          "url": "/drugs/zidovudina/"
         }
       ]
     },
@@ -1883,6 +1805,26 @@
           "keyword": "TAM",
           "name": "LEVETIRACETAM",
           "url": "/drugs/levetiracetam/"
+        }
+      ]
+    },
+    {
+      "id": "4aec5f10706a",
+      "title": "Fóssil encontrado na Argentina revela dinossauro que se parecia com garça",
+      "published": "2026-05-29T19:22:10+00:00",
+      "sources": [
+        {
+          "name": "Globo",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUHZocHJlbEZRNHRKR1RtODZudmF2ekd5NUMxNGt3dHBXbHZjdnRGak93NjNwV2gyYk00VUYyNndfZkpYTUJ5UGNIYjNtQjFZbGZRdEhUU2VnOG4zck1qajVGTzhKWERhZ081WW5UN0NTZnBVRWZEQnFrQkNXcmF4NTZsM0U2SGVhQ29wcHYtNTUxMGYwMWFCMi1HTjRaMFRzNzNWZEF6QkljaXhjT1ZBbW5WYWJybTdWZ3cyQ01ZTFRSSUJ3WVVwcFFBbUQzVW5nZ0HSAeABQVVfeXFMT0RaMGRtUENSSEk5OE5wbjVJUDVwOXVQc0dod1JXY0NsUnVFd3M0VTctaTdKLWhlSk8yOWxFT056Y0F0T0hELTctWndacGhCOGUxNDBuV0NsbDJHdXk2aVRCLVZScWxDbDFDaVA5eFhBdm1BNm9qaVBrTm1ycEJvOEpVX2k1UnhZbWduS3BRWXZrV3BMR3RuZmxac0JxTFlWYUtoLVBjazAzQnoxWFdRY0VDbEtlMDZuUTY0UDN1YW9UMHNudTU4bU1OVTE5Z0ZOdmloeUg4UzlKcmRrYTdMY0Q?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
         }
       ]
     }
