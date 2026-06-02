@@ -1,10 +1,22 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-06-01T21:35:04.305871+00:00",
-  "total_fetched": 92,
-  "unique_count": 91,
+  "fetched_at": "2026-06-02T04:11:26.160533+00:00",
+  "total_fetched": 93,
+  "unique_count": 92,
   "health_related_count": 33,
   "news": [
+    {
+      "id": "bb91a608dc1a",
+      "title": "Cinco vacas foram deixadas em uma ilha em 1871; décadas depois, cientistas fizeram descoberta - Rádio Itatiaia",
+      "published": "2026-06-01T21:36:06+00:00",
+      "summary": "Cinco vacas foram deixadas em uma ilha em 1871; décadas depois, cientistas fizeram descoberta&nbsp;&nbsp;Rádio Itatiaia",
+      "sources": [
+        {
+          "name": "Rádio Itatiaia",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOU2dtVzBueG82Uk9kSXF2UWdhVjFxeERQbnZpS2phWlh1b0o5SGtvR0drbHRwUE9ILXJXLTg4WHJTLXdvMTNEX1NhSm1NdGVUZ2dhdGVsdi1mVEgyNE5RajV1cFJNOTlBZU4xaEY3aWR6MVpWcGRtQXdYMlVVT19DZl9ldXdDTVc2X2pSTGlpRXJkOGoyaHJqanRXc1lIS1FROU0wQU9oZFJMa1piTDlQVjRYNFhBRUt0NVpRczNHVEhVOHBQYUE?oc=5"
+        }
+      ]
+    },
     {
       "id": "b553873cc492",
       "title": "O governo está pagando R$ 12,5 mil para Pesquisadores na área de Inteligência Artificial - PEBSP",
@@ -18,10 +30,22 @@
       ]
     },
     {
+      "id": "1c13440fe1a6",
+      "title": "Por que não existiram dinossauros marinhos? Novo estudo sugere respostas - Globo",
+      "published": "2026-06-01T18:40:27+00:00",
+      "summary": "Por que não existiram dinossauros marinhos? Novo estudo sugere respostas&nbsp;&nbsp;Globo",
+      "sources": [
+        {
+          "name": "Globo",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMnl3ajdqYkluQ19PaklQWllzQmg1d1RManJfVTVfNmJTY05TYmZ6M3RPaDBVSDVjRWhWM253UHhVdThrVVcxRDhYMVQ4OU83djJBX2pBMVZlYzZqSWFJbm4wTDhjS3diZ2tiYk5HTmxZM291aFNZOG1TNWVRN1hZUXJjN1lfdDFjdEVPb0x1cllKZ2UwcV90dGtJWHR5SmRsUUtuOUZYa2tabXVaQWV0Y2RhTHVxWnFOUWtUZ0NlTXlFTzdhTTdReVpqNXFKS1nSAd4BQVVfeXFMUEVZM3BHblpUekhEUExyQzNLX242YlBBQUFPeEszMmx3akNfcjJzQ2ZKYzVvcXdJVHN6eUlHU2lOZzRHclJfMVliSUpFaHdpSUFJSVhOaTdOTnJZWWdVLXNWeldrZXY3ay1rWjRTRi0zQ21IVmJSWVU1REdRTlRJNm5GejRXZjhoMDFuS2hQSTRFWnZMa0pUXzhZUVZKNWo1Z3ZnajQ0cDl4R3g3TXk0TW5Ic2ZETzNyaDdJSkcySnZGbllZTnRuUlVjMXdTMzR1c2gxM2V4OTZKclo0WEFR?oc=5"
+        }
+      ]
+    },
+    {
       "id": "5845445a4922",
       "title": "Veja quais grupos não podem tomar a vacina contra dengue do Butantan - Metrópoles",
       "published": "2026-06-01T18:38:01+00:00",
-      "summary": "Veja quais grupos não podem tomar a vacina contra dengue do Butantan&nbsp;&nbsp;MetrópolesButantan: vacina da dengue é contraindicada para gestantes&nbsp;&nbsp;Portal ABC do ABCGrávidas, puérperas e lactantes podem tomar a vacina contra dengue do Instituto Butantan? Entenda&nbsp;&nbsp;Agência SPVacina Butantan-DV contra a Dengue: Entenda as Restrições para Gestantes, Lactantes e Puérperas&nbsp;&nbsp;Jornal Digital da Região OesteVacina nacional de dose única contra dengue: o que muda na prevençã",
+      "summary": "Veja quais grupos não podem tomar a vacina contra dengue do Butantan&nbsp;&nbsp;MetrópolesMinistério da Saúde inicia vacinação de profissionais da atenção primária contra a dengue&nbsp;&nbsp;A GazetaButantan: vacina da dengue é contraindicada para gestantes&nbsp;&nbsp;Portal ABC do ABCGrávidas, puérperas e lactantes podem tomar a vacina contra dengue do Instituto Butantan? Entenda&nbsp;&nbsp;Agência SPVacina da dengue do Butantan: veja quem não deve receber o imunizante&nbsp;&nbsp;ncnews.com.br",
       "sources": [
         {
           "name": "Metrópoles",
@@ -30,10 +54,46 @@
       ]
     },
     {
+      "id": "432cdc354e4a",
+      "title": "Quase 30% das mortes por influenza no Brasil em 2026 foram registradas nas últimas 2 semanas: 'Doença do meu filho progrediu rápido demais' - BBC",
+      "published": "2026-06-01T18:21:48+00:00",
+      "summary": "Quase 30% das mortes por influenza no Brasil em 2026 foram registradas nas últimas 2 semanas: 'Doença do meu filho progrediu rápido demais'&nbsp;&nbsp;BBCTamiflu pode reduzir em 52% as hospitalizações por influenza; uso precoce é considerado essencial&nbsp;&nbsp;G1\"Vai ter uma onda de casos\": diante da baixa vacinação e do El Niño, RS projeta óbitos e internações por vírus respiratórios&nbsp;&nbsp;GZHRN registra aumento de internações por síndrome respiratória grave&nbsp;&nbsp;Agora RNCasos de i",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vX2tyOWlTd2gwTmlEYThaQnlkQmtUbWdDYW9weDlZZVBBYk4tWHppWWZQS2twbkt2SVdoWHl5Y3Z3Q0w0VHNxdEYxeVRYVlJZV0RvREw5YWJ5WGV5V1dVSER30gFnQVVfeXFMUHpjVTB2OERyNS1Kam9sNVhlNGpKcllkVFpQTUZ4SW5Wd2oya0ZqcWRZaGx2ZUxvbENaZlZYU0ZhUVdtc0xDTnlMenVqQ2FtZUhlQ1ZjcDl5UWN3SXFrUHR0VGk5bnktdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7f6ca808d585",
+      "title": "Casal vende empresa farmacêutica, volta para antiga fazenda da família na Serra da Canastra e transforma 230 litros de leite por dia em queijos artesanais disputados, enquanto preserva casa construída pelo pai, madeira de décadas e memórias de três ger - CPG Click Petróleo e Gás",
+      "published": "2026-06-01T18:09:00+00:00",
+      "summary": "Casal vende empresa farmacêutica, volta para antiga fazenda da família na Serra da Canastra e transforma 230 litros de leite por dia em queijos artesanais disputados, enquanto preserva casa construída pelo pai, madeira de décadas e memórias de três ger&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPMWJNQlpybUxtM3FmaFpsRFFKME15dndHb0ZrVlJRX3N3a19rTThKSmtVcDhXRGVpS0NwcjlCODBsdVRwUXpxazR0RDFDeUZYVnFscDE0Vzl6UW95d1Z0bFVreDdnblhwSE1PVTg2SDBFNWw4TkpDcGdDZTZOQWVqOEQ3dlkzeHhxZnd5dms3OXpYd01HS0F6bk1FMlIzaDd1VVdiaVhBU2pyelk0UU4wQmEtZkltdHN2d3pXbjZlNUduQWN3S2Y5bnZPSnAxZ2FyZ1pHbmp5LXhiSTh3aTY1ODI1U05CRjlvUjZRdWY3bHh3RTc4Z1pJSHkwZTZsZ2lobGhUaHk5c3lmRGJNVkZOeDVPbmZRMEtoX19IY3NjYV9STWpGU0VEM3ZZS0Zqb3hGYlRSU0RzVGlXLXRjRkZPQU93T3Y1SG8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1fac1e72c5e6",
+      "title": "Oftalmologista alerta que hábito aparentemente inofensivo pode prejudicar a córnea; saiba qual - Portal Menina",
+      "published": "2026-06-01T17:36:29+00:00",
+      "summary": "Oftalmologista alerta que hábito aparentemente inofensivo pode prejudicar a córnea; saiba qual&nbsp;&nbsp;Portal MeninaCeratocone e alergias: existe maneira correta de coçar os olhos?&nbsp;&nbsp;CNN BrasilDoença ocular ainda é pouco conhecida entre os jovens&nbsp;&nbsp;Araraquara NewsJovem de 16 anos com ceratocone precisa de ajuda para custear cirurgia de R$ 25 mil&nbsp;&nbsp;Portal RSNCoçar os olhos pode acelerar doença ocular&nbsp;&nbsp;Oficina das Palavras",
+      "sources": [
+        {
+          "name": "Portal Menina",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaGx1R0NnOTFLVURQZjYzdjZ2WnY4MTZ1N1ZrZ1JXUjBMM3N5NGhSa0RMeTIxbC1KUFJyVFZ3NlBkSzdfM0JNODNLWXU2ZGo3Z0xOaGNlY3dHaFZHVG1IUVRBQkVRdFFJUnlvOGYzV2tzT0tscWNOelBkN253R1V5blFwaGVXbTFlTWFucnhLeTdENTc0QU1ldGRnM2Z6ZlhidTdtSmxBNzFRTUdnZkhROFVwMllPNTVweDZuVUVfWQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "0bd379da6b56",
       "title": "Fígado gorduroso: alimentos consumidos diariamente que podem acelerar os danos e aumentar os riscos à saúde hepática - O Globo",
       "published": "2026-06-01T16:48:14+00:00",
-      "summary": "Fígado gorduroso: alimentos consumidos diariamente que podem acelerar os danos e aumentar os riscos à saúde hepática&nbsp;&nbsp;O GloboQue alimentos comuns podem acelerar a gordura no fígado? Descubra (e passe longe)&nbsp;&nbsp;TerraHepatologista aponta sinais de alerta do avanço da gordura no fígado&nbsp;&nbsp;MetrópolesDoença do fígado causada por álcool avança no Brasil, com mortes crescendo mais no Norte&nbsp;&nbsp;ICL NotíciasEsteatose avançada não depende apenas de dieta: como o resmetirom",
+      "summary": "Fígado gorduroso: alimentos consumidos diariamente que podem acelerar os danos e aumentar os riscos à saúde hepática&nbsp;&nbsp;O GloboHepatologista aponta sinais de alerta do avanço da gordura no fígado&nbsp;&nbsp;MetrópolesDoença do fígado causada por álcool avança no Brasil, com mortes crescendo mais no Norte&nbsp;&nbsp;ICL NotíciasEsteatose avançada não depende apenas de dieta: como o resmetirom inaugurou uma nova fase no tratamento da MASH&nbsp;&nbsp;Tua SaúdeQue alimentos comuns podem acel",
       "sources": [
         {
           "name": "O Globo",
@@ -66,14 +126,26 @@
       ]
     },
     {
-      "id": "e17d2ed7c930",
-      "title": "Teste descarta caso de Ebola em paciente internado em São Paulo - CNN Brasil",
-      "published": "2026-06-01T12:07:24+00:00",
-      "summary": "Teste descarta caso de Ebola em paciente internado em São Paulo&nbsp;&nbsp;CNN BrasilExame descarta ebola em paciente internado no Emílio Ribas, em SP&nbsp;&nbsp;G1Casos suspeitos de Ebola em SP e RJ são descartados após exames&nbsp;&nbsp;UOL NotíciasApós investigação, Governo de SP descarta caso suspeito do vírus Ebola em paciente internado&nbsp;&nbsp;Agência SPAnálises descartam ebola em paciente do Rio de Janeiro - 01/06/2026 - Equilíbrio e Saúde&nbsp;&nbsp;Folha de S.Paulo",
+      "id": "918377cb2c09",
+      "title": "Pneumo-20: nova vacina contra pneumonia já tem data para chegar ao Pará - DOL",
+      "published": "2026-06-01T14:10:54+00:00",
+      "summary": "Pneumo-20: nova vacina contra pneumonia já tem data para chegar ao Pará&nbsp;&nbsp;DOLSUS vai oferecer nova vacina contra doença pneumocócica para crianças a partir deste mês&nbsp;&nbsp;O GloboMinistério da Saúde vai oferecer nova vacina contra germe que causa a pneumonia&nbsp;&nbsp;R7Vacina pneumo 20 no SUS: veja como fica o calendário&nbsp;&nbsp;O TEMPOAviso geral para brasileiros com 50 anos ou mais sobre vacina contra doença grave&nbsp;&nbsp;A Crítica",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWDlJUmV0cDNSdWRjSy1VUWZyUDF0Tm9JdGZVOWRkX25LMmZpMFpWU1BBTkNKOTRfT0dWelZQNXBENlppVGlNUWFxUmpYaVpZX2NHbkFna1BXVHEtSmtXMlRqZXJLM2FBSk5GY1lrR19HX0VYWTlMTkc3cmRLUWJfeFhVOXR4c0dMSlJSSUZtLXZUZDd3eXJDcnpWbExDWEg4?oc=5"
+          "name": "DOL",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRXpuTlJWLTNtWk9qMlJ5YXVqdHVmZUlSTU1CWUlVMVhUQlA3RkcyTWZvZjdZRFZBTjQ3dVRfSy03cERTWk5JY1lWV0hyaERlcGF6VEp2NFRveUxiRmFqVWl3SVUzZ2REcE9tdkZQUmRya2x1c0syd3ZTQ2xTSzgwaEZjM3pNb2UxNnNzM2RydjVfQ2JFNlpPb3lhUFRQVEJfRlM5TjEwUjhDR2Q0NDNJ0gG3AUFVX3lxTE1nbzY3bWFaX2U5X2xDVzNIMHdtcUJLdkJMRkZKYWhRNUNKaHRmQUFvWUtKOGZMdWNLTVM1MDFMN2xwWmVxMHZvM1A5ckpDQ2Y0MlpHbll6dm5MaVlSTEFlYnhXZkczOXI3aUpHN3ZtMXNhdjlqa09uNEx0WGlLaVFPXzJ4Y2llOHd3M1BQTW9oWFc3bDJsSVhLVmNBb2RXeHR5Mzl4SzRFbENpQnNOeEtTUXVZQzc2Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f6cfcb6c8851",
+      "title": "Estado de São Paulo amplia vacinação contra a gripe para toda a população - UOL Notícias",
+      "published": "2026-06-01T14:10:00+00:00",
+      "summary": "Estado de São Paulo amplia vacinação contra a gripe para toda a população&nbsp;&nbsp;UOL NotíciasNatal libera vacina da gripe para toda população&nbsp;&nbsp;G1Vacinação contra gripe é ampliada para toda população a partir desta segunda-feira&nbsp;&nbsp;Prefeitura de Porto AlegreVacinação contra a gripe terá atendimento no Espaço Jundiaí Empreendedora neste sábado (6)&nbsp;&nbsp;Prefeitura de JundiaíPor que tomar a vacina contra a gripe?&nbsp;&nbsp;Estadão",
+      "sources": [
+        {
+          "name": "UOL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRjBZNzI4ZEZrOUlaendaM09sWFQtM1pMMTVNMHduZ2VtNENwRnBqMW12QjEwaHlrVVJTUGVzODRYdDBIZmMwbjFkZ3hKLUxwZFR1Q1lDTHpVZXRaVlplV0R1QTUteXo1TnVTYXgyRzBoYVhuSlpWYlZUQ053NG9KWXFhLUdkb2dpb2E1TU1IdE0tMFkxWEpkS2VmY0pWa1lPOC1HRERKNXJrNEVxYTRfdGZQZUtpOGpMTVppbFNCeklRMHB2bnBaRXhfSkVZOVdRWlduU2RSa1ZJdVQ4Um8ycXhn?oc=5"
         }
       ]
     },
@@ -81,7 +153,7 @@
       "id": "b6055353726e",
       "title": "GCN: Vacinação contra gripe é liberada para toda a população em Franca - sampi.net.br",
       "published": "2026-06-01T11:49:32+00:00",
-      "summary": "GCN: Vacinação contra gripe é liberada para toda a população em Franca&nbsp;&nbsp;sampi.net.brVacinação contra a gripe continuará no Paraná para atingir grupos prioritários&nbsp;&nbsp;Secretaria de Saúde do ParanáVacina contra gripe para todos os públicos em Natal e Mossoró&nbsp;&nbsp;G1Saúde leva a imunização contra a gripe até as escolas e na procissão de Corpus Christi&nbsp;&nbsp;Prefeitura de CuritibaAção contra Influenza chega a 300 doses aplicadas neste sábado&nbsp;&nbsp;Jornal Minuano",
+      "summary": "GCN: Vacinação contra gripe é liberada para toda a população em Franca&nbsp;&nbsp;sampi.net.brMossoró libera vacina da gripe para todas as idades&nbsp;&nbsp;G1Vacina contra gripe é liberada para pessoas acima de seis meses na região&nbsp;&nbsp;G1Saúde leva a imunização contra a gripe até as escolas e na procissão de Corpus Christi&nbsp;&nbsp;Prefeitura de CuritibaVacinação contra a gripe continuará no Paraná para atingir grupos prioritários&nbsp;&nbsp;Secretaria de Saúde do Paraná",
       "sources": [
         {
           "name": "sampi.net.br",
@@ -98,6 +170,18 @@
         {
           "name": "O Globo",
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObVB5bzNEUTFnRVo4TWFSdDlZV21FRkJGejBVRVQtcC1iSUQwSjFnRW5WOTJ0OUZVd28ycldzNkY4b1dXX2dvZTc4TlduSk9HVENON2s5VDl3dmxlVXVzWE15S25NVTBybmpzNVg5ampKY001bzZ3cVNjdUI0Q2xUNlNONnNYVkdLRV9KQ1ZVTm1mLTU3akpVNGltUjd2U0tjQlFCd2NfR2xFeUQxbEtMamF2OWZld2ExR3VHWm5tWWx6Tk9TLUV1dGx6MGE2UDZDaHctcHQyNnJrM2fSAeoBQVVfeXFMUGprRnRZR1hsQ2s5dDVndWpXakRBSEtZTUc2WHpYVTRTbzZuenlwT3FYcUJlR192ZF9QYWdHbkx3V0c0WW9aaVBCNEZHd3NDUXRVR0VjN3hJSTBsSkhaRUpyYTJoTlMyNndZU2k3MlNjdTRjSmJXT1ViY0JwUjk2OXVyUnNGYVBobHJHQlE4cU1xYWR3RExSZjl5Y0RPbk9yZGNPVnhGbzBWLUNaSVpLMDdLQVBTLWlsbHh2Z3FzSUZ5ODJJQ0dpbFBidEhmaVZjNGVESGFWUFVDUlZZX1VTdlpvNlA3NVYwU19R?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1548722a487a",
+      "title": "Ebola: teste de paciente internado em SP dá negativo - O Globo",
+      "published": "2026-06-01T11:29:01+00:00",
+      "summary": "Ebola: teste de paciente internado em SP dá negativo&nbsp;&nbsp;O GloboExame descarta ebola em paciente internado no Emílio Ribas, em SP&nbsp;&nbsp;G1Brasil investiga dois casos supeitos de Ebola | #DomingoEspetacular #shorts&nbsp;&nbsp;R7Secretaria de Saúde descarta suspeita de ebola em homem internado em São Paulo&nbsp;&nbsp;EstadãoAutoridades descartam o 2º caso suspeito de ebola no Brasil&nbsp;&nbsp;CartaCapital",
+      "sources": [
+        {
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLTRmSVJPdkQ0MXdLNklxbzJIallZV2VjaE05bWNzN0YyUUF6QXQ5QkFaV2lsODB1dnhlbHg0c29PbmxlTkxwSFdBMWlvWU5FVlRMclpPczM5eDVud1VlM0pBWm5iTGswbWY5a29ZOHlaZzJYWTE2Y3o0dkYzb1p3TU93cTZoXzVReVZMQjVjTGdoSjA1ZjlJS0NHMzU3YWNHQWtLRXUtRlA1dw?oc=5"
         }
       ]
     },
@@ -126,22 +210,10 @@
       ]
     },
     {
-      "id": "3f9562fbfef1",
-      "title": "Vacina contra gripe: veja onde se imunizar a partir desta segunda em cidades da região de Campinas - G1",
-      "published": "2026-06-01T10:41:44+00:00",
-      "summary": "Vacina contra gripe: veja onde se imunizar a partir desta segunda em cidades da região de Campinas&nbsp;&nbsp;G1Estado de São Paulo amplia vacinação contra a gripe para toda a população&nbsp;&nbsp;UOL NotíciasVacinação contra a gripe terá atendimento no Espaço Jundiaí Empreendedora neste sábado (6)&nbsp;&nbsp;Prefeitura de JundiaíCobertura vacinal contra gripe está abaixo da meta em Ponta Grossa&nbsp;&nbsp;G1Vacina da gripe é liberada para toda a população, mas procura é baixa nas primeiras hora",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZWNPR2xTbi1xakdxSnhieGlYdEwweDVkQXFCVFFjelY1Tld2aXV3aXFDRDdMNUhLdFBoWE8zdXN2RlZ0bUIzT0RKcV81dGxFRno4ZkJxdmJnb1U4WHRsQ0dwWk02cEY0dmRwS0JpNFZTalYwbXFXbHpkWklUakMyMFcyc3RpNlFuUFdXakp4d1dkT0JKdEhueDJLX2R2V2l6X010TU5wTW5aSmRiOGdfT2UzMjdDalo5ZWxOU292TnFGdThqdFZHX3ZRNVRyaDJfcjZURTkwNUpSSHFiamtUTTNzbFQtWHJqQV9NNUhJZUZfVGl00gGDAkFVX3lxTE01eEtZQ2NoLWc4VjBvamNYaV92cVczTDFwcG1rRWdTaDFUTFczdDZleDhLdkxiNU5tZ2xLUXF5M2EyX3RjTXowMXdSTFd1MEVEOUNoVndhRm5JNlh4ZXdrMU5NZ3pyMFpyQXhBSlRPLTFHWDMtNEg2cUN6TVVVbTNfRlYyWFlDWHpSRkVRMHhjYjdEZlBsd0pMZWRmclpZeU9DLW1tc1N6LTBrQTFJbDdWakVROXg4YlltY2NGaGFHMWkwWTNOdnNxM2FqaUdzVXpJNlZFREtDUWdvYy1VNEZoNGJPQU93bG1kajRrV25EQnNtWlFqallMOU1IbGxnODFlMEE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "aad0b283109a",
       "title": "Doenças Inflamatórias Intestinais afetam 10 milhões de pessoas - Correio do Povo",
       "published": "2026-06-01T10:07:41+00:00",
-      "summary": "Doenças Inflamatórias Intestinais afetam 10 milhões de pessoas&nbsp;&nbsp;Correio do PovoMaio roxo: Mês de conscientização sobre doenças inflamatórias intestinais&nbsp;&nbsp;G1Diarreia e sangue nas fezes podem indicar doenças inflamatórias que merecem investigação&nbsp;&nbsp;O Bom da NotíciaCaminhada Roxa acontece na próxima sexta, 29&nbsp;&nbsp;Prefeitura de Juazeiro do Norte“A remissão endoscópica não chega”: Sérgio Bronze sobre o futuro da DII&nbsp;&nbsp;HealthNews",
+      "summary": "Doenças Inflamatórias Intestinais afetam 10 milhões de pessoas&nbsp;&nbsp;Correio do PovoMaio roxo: Mês de conscientização sobre doenças inflamatórias intestinais&nbsp;&nbsp;G1Diarreia e sangue nas fezes podem indicar doenças inflamatórias que merecem investigação&nbsp;&nbsp;O Bom da NotíciaCasos de Doença de Crohn e retocolite ulcerativa avançam entre jovens no Brasil&nbsp;&nbsp;Jornal Opção“A remissão endoscópica não chega”: Sérgio Bronze sobre o futuro da DII&nbsp;&nbsp;HealthNews",
       "sources": [
         {
           "name": "Correio do Povo",
@@ -162,6 +234,18 @@
       ]
     },
     {
+      "id": "6e54c2180a54",
+      "title": "'Um café da manhã salgado, com proteínas e gorduras, ajuda a estabilizar a glicose e dar energia sustentada'; diz bioquímica - O Globo",
+      "published": "2026-06-01T07:30:37+00:00",
+      "summary": "'Um café da manhã salgado, com proteínas e gorduras, ajuda a estabilizar a glicose e dar energia sustentada'; diz bioquímica&nbsp;&nbsp;O GloboConsumo excessivo de açúcar está ligado ao desenvolvimento de doenças&nbsp;&nbsp;A GazetaQual é a melhor hora para comer doces? Nutricionista explica&nbsp;&nbsp;Jornal Impresso BrasilA vontade constante de comer doce não se deve apenas à falta de força de vontade, mas sim a picos de glicose causados por refeições pobres em proteína&nbsp;&nbsp;Tua SaúdeMui",
+      "sources": [
+        {
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOb2tldm1uUm1wMjR6WHpKemk2WmU5SXlUSjAyVG5mQ3BlR3pYX2dhLUpKUnhYLVdlRnpuLTF0NDF6S3ZfblpYREJBWGlwdVpVRHVZQlFQVExQbXFuYUNaekE5SjhLNUlLUm1uQUlGbjJXX1dmZE8wNkJNMGpLRnBlNk5oT1M1c3ZPX3MydWdGVXE4S2FSSUlCVVhMc241MFZWN2R5eE80ZW40SXdoY0hOZEJ3cVFEQ3JRZ1FWd2dYRldfVXZPeU1ZcElOdThlSXVLWlYyNzBoQ1NPNG5xYjhMcDZJRjFsRW9jUG4xN3doUVBlZVNJdUs4c3JNWkhjeVV6dll6ZzN30gGUAkFVX3lxTE9oSUV6aXotWUZ2WEFrSExHSHZodS1XSV9wOXpRV0wxS0tiUjRaTWZiRmNwbk02YlNUV014ZUhqUGJ3T2pRVXNPc2NkWVo4QU5GMjkyWW9NeW5OeWM1SFVqZU1MdVdhZkYxNVdaMkV4UDhrSTBIZzJPWTMzVmtocW1mMktkb05PeUY1SGw0UDhQcFlXSDNCU1Q2V0Y2UEV3bjFCSnNMTFBObVV5dExiaXl4ODZNaUR1OWx6cENGN1kxcXhnTERiYzNyVzFVQnZuLTl2c05vcjBKMzNWS0QzS2RUZDVxc3VXeUhKQ3BiRFhVaS1acE9nNXhTaHJsQm9fXzBZakZ1ZUt1cURPY1Q4dVFOVUl5Tg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "4e4b998ac4cb",
       "title": "Porto Alegre vira \"capital do cérebro\" com eventos gratuitos sobre saúde mental e neurociência - GZH",
       "published": "2026-06-01T07:04:40+00:00",
@@ -177,7 +261,7 @@
       "id": "47dfa7197828",
       "title": "Ponto extra de vacinação contra a gripe começa a funcionar nesta segunda-feira no Centro de BH - G1",
       "published": "2026-06-01T07:00:33+00:00",
-      "summary": "Ponto extra de vacinação contra a gripe começa a funcionar nesta segunda-feira no Centro de BH&nbsp;&nbsp;G1PBH abre 19 centros de saúde neste sábado (30) para vacinação contra a gripe&nbsp;&nbsp;Prefeitura de Belo HorizontePrefeitura de BH abre ponto extra para vacinação contra gripe&nbsp;&nbsp;MetrópolesVacinação contra a gripe em BH: 19 postos de saúde abrem neste sábado (30)&nbsp;&nbsp;Portal UAIPopulação elogia atendimento em sábado de vacinação nos postos de BH&nbsp;&nbsp;O TEMPO",
+      "summary": "Ponto extra de vacinação contra a gripe começa a funcionar nesta segunda-feira no Centro de BH&nbsp;&nbsp;G1PBH abre 19 centros de saúde neste sábado (30) para vacinação contra a gripe&nbsp;&nbsp;Prefeitura de Belo HorizonteBH ganha novo ponto de vacinação contra a gripe no Centro&nbsp;&nbsp;revistaencontro.com.brPrefeitura de BH abre ponto extra para vacinação contra gripe&nbsp;&nbsp;MetrópolesPopulação elogia atendimento em sábado de vacinação nos postos de BH&nbsp;&nbsp;O TEMPO",
       "sources": [
         {
           "name": "G1",
@@ -194,18 +278,6 @@
         {
           "name": "Diário do Comércio",
           "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcWVSS1pGMm9yLW00bURHYXB2TkE2VGxNNXdsRnltMERjbURnMDdoalo1M2RsN2t0Wk5FOUNrOS1zSkxuZ1NiWG93UlVvTlNZdzZGSlJOdmtnZGtUN0VxYXN2elJiRUJzX3Z4UHpZT3ZqMFlTUFZSV3Izb3hUZTVQeU50c0hZTjlzZGFpZlV6SE02VGk0VVE3WHhBY1BXQ1MzR1Z5eWhYNTNrVXhzMTRranhKYmlMSDVfTTR3MGYwYkk5ZVNvODlleURWSVN2dm40QzRKSXc2MTJCOUVvcVcwc1hlM0RYcEU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7407f3afef76",
-      "title": "Para além do nódulo: saiba quais os outros possíveis sintomas do câncer de mama - Jornal Correio",
-      "published": "2026-05-31T20:00:00+00:00",
-      "summary": "Para além do nódulo: saiba quais os outros possíveis sintomas do câncer de mama&nbsp;&nbsp;Jornal CorreioCâncer de mama: até 90% de chance de cura se detectado precocemente.&nbsp;&nbsp;Vietnam.vnEspecialista reforça alerta para o câncer de mama em Itabira e mudança recente na idade para mamografias&nbsp;&nbsp;Jornal do BrásPanorama do câncer no Brasil: como é o acesso a tratamentos e quais os desafios atuais&nbsp;&nbsp;Universo de NegóciosO detalhe milimétrico que muda tudo no diagnóstico do cân",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMUtXTmxKN3BteXlMS3Vta05JNE45T1BFamRoZ29OVWdrTmdfQl9veWRDeFlpRWtCN2toTDJMdS1wNFFRZ3B5T0FHM0Y2NGFGS29EakRJeWw4RW8zU1h5SWgxTG56WkdmWnZfZFQ5a2hBdV9kTnEzeGxZcHk2M21oU0U4bXhsWTd5OHpaVUVMR3hvSTBxYWFvR2syUC1oNS1jSmlFWWhLZXk1QzFqOWMwcHVRY1M4LUdFSjNaVmNVa2E?oc=5"
         }
       ]
     },
@@ -270,18 +342,6 @@
       ]
     },
     {
-      "id": "16372742a84f",
-      "title": "Duas novas espécies de minhocas são descobertas em fazenda da Embrapa em SP - Rádio Itatiaia",
-      "published": "2026-05-31T11:50:21+00:00",
-      "summary": "Duas novas espécies de minhocas são descobertas em fazenda da Embrapa em SP&nbsp;&nbsp;Rádio Itatiaia",
-      "sources": [
-        {
-          "name": "Rádio Itatiaia",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSEtldlBJQXhKc3RXV1JaVjBPUjFYTjFCMEZwNGV0WG9JaGtWRE1yN2Y1Q3pXQnF6MlNfVDVsT1NKTGFSWDdtRmJzYjZUc0I0dEp6RGp4SW0xcVpYS1E5dklLWFZjajBmcWJzb1pyWnZwOVR2NlV6TWoyS2d6WGFRN3pVaVEyQ1doWFdDMjFFWGV1dm5lbDI1RkRLdi1ncjFUQTNzM1cyZnh2ZEdTM0E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "32f42cf9a28b",
       "title": "Cientistas ficaram impressionados ao ver aves de cabeça minúscula resolverem problemas como grandes primatas: os corvos memorizam centenas de esconderijos de comida, usam ferramentas e até transmitem conhecimento ao grupo, desafiando tudo o q - CPG Click Petróleo e Gás",
       "published": "2026-05-31T11:01:00+00:00",
@@ -318,18 +378,6 @@
       ]
     },
     {
-      "id": "faea171e6971",
-      "title": "As barrinhas de cereais são de fato saudáveis? Médico explica - O Globo",
-      "published": "2026-05-31T07:30:41+00:00",
-      "summary": "As barrinhas de cereais são de fato saudáveis? Médico explica&nbsp;&nbsp;O Globo",
-      "sources": [
-        {
-          "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUWx1d2w4Tm5ja3J4RnZWaEZGbzNBTDJyRTVteHZYQ2dpOUNkZ2ktek1mbDBwRjZFSmtNS080YkFzb0ZfRy1XbU5UZWJOWXdzalJtTlZTVWVPQnZlMmx2ZlF0VU0xSjdld2lMckQzU0dOYktGSTl5TDgyMFFFNEhyYzljck1pZ1RpT2FpU05NbGpTMkppZ1N4NXhxWlg2c2lXZGNaYzNvdWpRS1BFdUcza0t2eTIwdjjSAcYBQVVfeXFMUDZETGhlNS1rSXdkSnRnSThma0w4TXVDNndfbkI4ZEptUzNOTVBmRlptTTcwNTZZSVhLYnBoLVpicHlDTmpFclFkMTMwcjl0eEZ1ajlBLXQ1bDI1ZFVuYzlfdmQ5ODE2U1l6NFVlaXVDRjZXQV8tY2g3T0VCXzctVjY0Y1RNVXZzWUkzbnVkSWNXcFpzaUgwZUNsNnlLZDRreTlEbWk3YUE2R1dGYmhJYUZzeFFFRXlQdjJwQW81UjBIQUhyVi13?oc=5"
-        }
-      ]
-    },
-    {
       "id": "217bc203611c",
       "title": "Cratera brasileira rara pode auxiliar estudos sobre Marte e a Lua - CNN Brasil",
       "published": "2026-05-31T06:33:55+00:00",
@@ -338,54 +386,6 @@
         {
           "name": "CNN Brasil",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSFo5c25RaFl1MkY4V21QLWxWeG1KOGpLb0ZXR19yWjhUeUdTa2EyaEwyVklzS0RMTkpkUWlBcmtHT2NCR3FBaHNvWjZvUEpzNnV5SjhnMndPR1VQXzc4cld5M0d0Q0xSUDkyOElsY3dlMmlRY0Z1Q1Fkc1pybFd4SVlucTFRQUp1OGc0dzBiWUFsRGZKY0tFdjN6NHdPMDhhLUEzd3J3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b969af471817",
-      "title": "Amazônia Rosa? Estudo identifica possíveis 450 novas espécies escondidas no litoral do Brasil - Gazeta do Povo",
-      "published": "2026-05-31T01:02:00+00:00",
-      "summary": "Amazônia Rosa? Estudo identifica possíveis 450 novas espécies escondidas no litoral do Brasil&nbsp;&nbsp;Gazeta do Povo",
-      "sources": [
-        {
-          "name": "Gazeta do Povo",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWHlUTzNFNjVDSEZZMk1QY2xaWlk3aS1KNVA2QW9WQ1N5cGtYTWxfTkhFUlAwdExEeS1Pam1RRFhuTjN5RUJFZVVXUkEtNmowS2tJSFktLUNfNWMzdkRVMmlfN2xNaDFZYWJTU01QdmRNSE1Lamd2TEpUcFBaOEF3aDVlemV2T0daRGlyMGZhMUV1Z2kzUklNaFgyM2xkTjVpOWdVcDVCSGY1LTNxcmNMQUx3UnI1ZndCNFpRQkxOdFFGellLTmFxXzVRTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "763849a9d04c",
-      "title": "Como o ebola é transmitido e qual o risco para o Brasil? - CBN",
-      "published": "2026-05-30T21:36:07+00:00",
-      "summary": "Como o ebola é transmitido e qual o risco para o Brasil?&nbsp;&nbsp;CBNEbola: especialistas avaliam o risco real da doença chegar ao Brasil&nbsp;&nbsp;Veja SaúdeEntenda o que é o ebola: sintomas, origem e casos em investigação&nbsp;&nbsp;O TEMPOMédicos do Hospital Bach Mai destacam a regra '2-5-30' para a prevenção do Ebola.&nbsp;&nbsp;Vietnam.vnEntenda o plano de contingência do Brasil contra o Ebola após duas suspeitas em São Paulo e no Rio de Janeiro&nbsp;&nbsp;Correio Braziliense",
-      "sources": [
-        {
-          "name": "CBN",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNR09QSl9pb29fWG5xQk8tcXFVWEFZeHA5X2FPTE1ueGROSjFmdjlBTDNMWnUxWjlrUlg1a0JCc29wdnFMVHBWSEVBWWI2RVNBYmdKcTE1N19fV1ZwbFJGb2tKYWZ1eUNuS1JZTGJQd3d5d0VEdTZJdlUwemU2RExNT2FuSnc4MEp0VXlRMzVvQlN1ZUJ1Rld1djZyMUstV2lQaXd2VnVaeVJ3aHZZT0FqbVB0MGlzOUZ0elE5NTRzanpYRnVzcDNTNnZHRGxFcXBqWnZvMXg1RlYtbWRkT00xQXRsWEnSAfMBQVVfeXFMUFFxbTV3SEdJOUtodUM1NUI0N1hLRnkzblBJUWlKOEh6RVlQeS1PZnRYZVZJYkFQejc1QmtQZGpXTVFJM2JtcUlhdnhwWlcxdVJpcEx6aFZGa1FOY0JPWjlxd0dKVkdYaWpVRXUtNV92RkJyOXpWNXd0UHRpeXo2NHFGQjRVcnpoUkNGb01VdE85RlEzcUJ0aDZzYWJ4NjlXcVR6dmRXb1VpMlhjZFFkVWFOeWZnb1liMkcyaV9NRnRzNk1SVFItSU41dXRwaVNoaUozZHlIWHVQbW9CLUE0dWlDXzdDUm5ocDRJQVl2TUVCdnVj?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3ab4799e00c8",
-      "title": "Um estudo de psicologia concluiu que pessoas nascidas entre 1945 e 1965 têm uma vantagem psicológica sem igual - Super Rádio Tupi",
-      "published": "2026-05-30T16:00:26+00:00",
-      "summary": "Um estudo de psicologia concluiu que pessoas nascidas entre 1945 e 1965 têm uma vantagem psicológica sem igual&nbsp;&nbsp;Super Rádio Tupi",
-      "sources": [
-        {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMWctSy1WeU9fWUxlMVFwM0lxSlVSZl9MTjY5aDh3M0lvc0FJWHh3SEhtZjRJT2ZWVGQ1WkJ5bUNVR0R4UlBHVXIxYlYtM2RSTW1nVVg5RTZxMGlxVGdod25ZYkd1RzV4cWZZaTdRNGFhTkpmYWp4OHBieFpMSTVXa0I3akV0bERkUWNVRWotbmVkS3RaNEhMc25QY2NxbU9FMFZHaXJfV3Zoa3NvSWkwSGRUTEVlNUtUNEc2eFV1QjMwSlBYTy1DcjRWUW1xMzY4R01GNzVaWml0TjkyN2hj?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "32218207f331",
-      "title": "Esclerose múltipla: sinais invisíveis desafiam diagnóstico - Correio do Povo",
-      "published": "2026-05-30T10:10:38+00:00",
-      "summary": "Esclerose múltipla: sinais invisíveis desafiam diagnóstico&nbsp;&nbsp;Correio do Povo",
-      "sources": [
-        {
-          "name": "Correio do Povo",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT1Z6bjV1OUg3NTREekttVzJ0UU9ubHJXSmZ5RUVUZG4yT2djMFFkWEtFWEVtNXREUkpxVlRqYTRFSWFrdE5wSWJLWFB0eVR6NkhSdWc1MzQ0Smhhc0l2THd1UnRJMV9KTUFHSjNCWjJaQm0tR3VEck9ubmRUcUdKZUxzRXl4UTgtcS00OWx2anBrSG5fOTgtQ0JJdk9ZNHhLcHFvd0xub254SkVMQlRSQ0ZwNEpyM0VaT2NER3hjZzZzQQ?oc=5"
         }
       ]
     },
