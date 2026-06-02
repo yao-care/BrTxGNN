@@ -1,10 +1,22 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-06-02T10:27:44.665781+00:00",
-  "total_fetched": 93,
-  "unique_count": 92,
-  "health_related_count": 31,
+  "fetched_at": "2026-06-02T16:36:34.679628+00:00",
+  "total_fetched": 91,
+  "unique_count": 91,
+  "health_related_count": 29,
   "news": [
+    {
+      "id": "a1b6c0d18717",
+      "title": "Pílula reduz em 60% risco de morte em câncer de pâncreas e emociona médicos - Diário do Centro do Mundo",
+      "published": "2026-06-02T13:12:43+00:00",
+      "summary": "Pílula reduz em 60% risco de morte em câncer de pâncreas e emociona médicos&nbsp;&nbsp;Diário do Centro do MundoA pílula para câncer que alcançou 'o impossível' fez médicos chorarem no maior congresso de oncologia do mundo&nbsp;&nbsp;G1Pílula que pode mudar tratamento do câncer de pâncreas dobra tempo de vida de pacientes&nbsp;&nbsp;VEJANovo comprimido pode dobrar a sobrevida de pacientes com câncer de pâncreas metastático&nbsp;&nbsp;EstadãoMizuho reitera avaliação da Immuneering após atualizaçã",
+      "sources": [
+        {
+          "name": "Diário do Centro do Mundo",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaE8wLVdHZXVLenhGV3Z4Y0lzVU9CWElWazVaYjZFWnhFbGFrYlV4SlU3Nl9PbVBoY0drb1hEU1dWZFpkLUN0YXA4X1d1TUJmMnhYY05hU2JNU2xxQ3kwUjN0LTBPX29RMkJvZXVxdEtXZWJFM1YzQ3RpLS00ZmFjWl95RF84T0hxbi0yanRVelgyZkZ0SzhyUVdlTUNYZmdkZ2NHUmpubTFNS0t4d1J3RVlzMDhPZlZhMm9ELXR2RHZXZTJ2?oc=5"
+        }
+      ]
+    },
     {
       "id": "a8cf329c7aee",
       "title": "Cobra invasora aprendeu a nadar e acelera risco de extinção de lagarto símbolo de Ibiza, alertam cientistas - O Globo",
@@ -14,6 +26,42 @@
         {
           "name": "O Globo",
           "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNeEY3N1p4aWY2YkdJVU81WkdhaGxkSUZsSGgwOXNIRm9tVGt0Y3lmT0huSzFlUldrOEpLRkhneXI3Z1g1MmdZMmFRck05WWVTUDYtbEdjOUVncUdSdUtOT1RhVmljLTY4X1pNbkJhaE1mZC1HQlBEeUNkWWlreXZFa1RqajZwWXp3M01NcnkwcjFQcUtWZl9KMElGMXNsZ25mc0JLbFJWRjVYbzhaZTRGNjBodXNidkxrWHR0STVYLTBMeEdxYnJiWWUtWjlzWnJzWDM0Nmo3Vk1PbVpEUkxrS3BXRmdpMW95c2pMam9ZMGdlay1FdWNLdHFZQWFhMzVtWllySVdQb1dOUdIBmAJBVV95cUxPcmFLLXp5eDNSNmlES2NHWmJiMHdNRGhrbUxxUHdiSzU5T3NFeElSV2hPaWlMU1lIcW11WmhWUzlNelJIeXhPei1NV05wWU4tM2t2M1NKWmJSUXY1OUMxOHRiU2lfRGxoaElRcWJmdS1xT0JUQTBscE55dmR6YzhraEhUdlc2YXFHQ1pUNWNmRmlfTGZNX2J2VHNsMjRGSmZzNTJWNWRyeE5HVkpMVlZBdDJxMEcxMWxva1hmSmo3TmJuR3VJMzlHVVdWVmM0aFJiTnF1akhwR2NJcFVETjlJeGw5dC1NT2ZHVVd1R1hPaWgtNVFoTmZYSXRHNnZXcFRYcFZseF9pU2JfbUx0dkkzTG9fdHFEV0FS?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f3fe967acae0",
+      "title": "Mosquitos podem aprender a associar cheiro de repelente à alimentação em laboratório, mostra estudo - G1",
+      "published": "2026-06-02T07:01:45+00:00",
+      "summary": "Mosquitos podem aprender a associar cheiro de repelente à alimentação em laboratório, mostra estudo&nbsp;&nbsp;G1Em experimento, mosquitos Aedes aegypti aprendem a gostar de repelente&nbsp;&nbsp;Folha de S.PauloMosquitos treinados passaram a buscar vítimas com repelente&nbsp;&nbsp;Agora RN\"Eles associaram o spray com o jantar\": Estudo prova que repelentes estão atraindo mosquitos em vez de afastá-los&nbsp;&nbsp;Diário do LitoralRepelente atrai mosquito? Estudo acende alerta para quem vai viajar&",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdDNwNHp5S081VEpmbHNHYmJuS1dIbzZQS3BkbkNYblZfN0RCbEkxNzM2RjIzNTZBVExUUENvN0dPVm03RFByR2MwU0lUU3FQMTNDanRGYS1YQ3EtMWVfU09kNWxjcFNpR244dVQ1Vm8tcEp3X3hBdjFIenFKQUVlOXFFU3c1UEZSb3ZIOGQxR3ZEbWUwaHg5bHI4aWx0QkJTajhQZzBiRlRQMUZxWlBlSU4zVENBUEJlbWhuZkZpR3BCRTROVVdnVjRWR2Yta2FOQ3NJcWIydUdlbTNmMmpoVXZadjnSAfMBQVVfeXFMTm9EdzZlNFo5b3N3MDhMdDNUdGs2UERRWXRrcEZILWJFVjlIbmo0MXhzTnhlSmRqWHR6NEo4S3oxNlBManlSVEViRUxuZnoxc25Wdm9seGdoaGZSeEZRS2lzRmw3TVloMFBMeUxmSUUySERYYkpDZ1lyT1lZR0pNNnpQbUkySDRkNzhNSVJCTHhiSUUwREk5d2NGQnljNUVjbFJsWURWbk9qOVNXN3hxSGVidkh1bF9qZE5aZVhGaWdRYk5VTFVwNmhkdEtwMFJoVzhtUlBmZm1ZcUhhQlJWNmgyNTQzeHVJQmdNN0paUThPOVJ3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1bd12f1dbc29",
+      "title": "Médica explica conexão entre cérebro e Síndrome do Intestino Irritável - Metrópoles",
+      "published": "2026-06-02T05:00:00+00:00",
+      "summary": "Médica explica conexão entre cérebro e Síndrome do Intestino Irritável&nbsp;&nbsp;MetrópolesA flora intestinal e a saúde mental&nbsp;&nbsp;Diário do Grande ABCFibras e alimentos fermentados tornam-se aliados da saúde mental&nbsp;&nbsp;Folha de S.PauloIntestino pode interferir na imunidade e saúde mental&nbsp;&nbsp;ES BrasilA fadiga crônica não se deve apenas à falta de sono, mas sim à neuroinflamação causada pelo desequilíbrio no microbioma intestinal, revela pesquisa&nbsp;&nbsp;Tua Saúde",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMGxmVl9HME1ZdWRwcFIyX3pVTlhaTmtGTDFMLUFNUWxuY1ZtRmdaU2RYTFFyQ0pUSGNfYXg0Z0F1eWdib2dRbzNCVkRBTzBxcVU0RTF2SW5lVWhVSXVLR3dHTUhDcnY3TnlRcXlBVVhnd1dWdmFsWFJFNDZETUh4OTgtWlI1dmhKUnpfUFphVDFwUDRvYWZJRm16SURJS0IyZDZ5Z1hyZUVEdGRmWnZMRG8tN0lXTnZ6Zk1JVVNTdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "41c3ac4c4952",
+      "title": "Homem morre por febre amarela em Lençóis Paulista; estado de SP soma 6 mortes no ano - G1",
+      "published": "2026-06-01T22:06:12+00:00",
+      "summary": "Homem morre por febre amarela em Lençóis Paulista; estado de SP soma 6 mortes no ano&nbsp;&nbsp;G1Mauá promove Dia D de Vacinação contra febre amarela e gripe neste sábado, 30 de maio&nbsp;&nbsp;Prefeitura de MauáMauá emite alerta contra febre amarela após confirmação de vírus em primata na divisa com Santo André&nbsp;&nbsp;folhajornal.com.brSão Paulo confirma 10º caso de febre amarela em 2026&nbsp;&nbsp;Portal ABC do ABCJCNET: Lençóis Paulista registra morte de homem por febre amarela&nbsp;&nbs",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWTlFQUZZZnR4WmxFd2FadnZRTktlQkpjZDdSUWFtLVFwX3dwSl9RZEgwXzVYLUxNRWtySkJ4enBsRkF1NHlkVmJrTmZzNE41TnQzUkVDeU5SeXVFUjdSR3dHaVhURGNfdEEzbWNxWTdOQVFiRGl2cXNkWV96cEVGSmhFcEViY1NIdENSaHFaYXZuUEFLUWlVZnAxazNrSU1kZ0ZRTk5JX0VVYzZSeURHWEhR0gHAAUFVX3lxTE9YRXdMX0VPczlLYkZSSEhsWC1tdHVjcEdPdG9LbU1FOVdWQnAtaXp3LXpEQWJSa3lJaXo2dFNkQS1sdjBEY3hHdmVPS2w0TEtCSF9VVUNsR1pJakJUaEFLQnY5QkVpQjZ2NDZINFBvRTJWbWdWTkN4YmJZYmhYdTZrRW1CTlZBNGQtV0pkMDNRVHJrZXlRcURaWEk4bmVVMFduRDZPa20yZEdCenZjRmozb2NZYnlabjhKdjk3bFB1Sw?oc=5"
         }
       ]
     },
@@ -66,10 +114,22 @@
       ]
     },
     {
+      "id": "9d7a2221654f",
+      "title": "Colesterol alto: quando ele se torna perigoso e o que fazer para reduzir - Jornal Correio",
+      "published": "2026-06-01T18:30:33+00:00",
+      "summary": "Colesterol alto: quando ele se torna perigoso e o que fazer para reduzir&nbsp;&nbsp;Jornal CorreioComo a aveia e a maçã afetam o controle do colesterol, segundo a ciência&nbsp;&nbsp;Tua SaúdeMuito além do \"bom\" e \"ruim\": saiba como o colesterol impacta a saúde do coração&nbsp;&nbsp;Jornal da FrancaAlimentos que você deve ter na sua cozinha para ajudar a controlar o colesterol de forma eficaz.&nbsp;&nbsp;Vietnam.vnColesterol alto: médica indica alimentos que ajudam a reduzir os níveis&nbsp;&nbsp;",
+      "sources": [
+        {
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc3drVzEzb3o3RTRaWGZQaEgzQ2MyeXJoalVKMkp1QjM3R2RNRlY4QmZoZnhRTW04akdyaVRvQnNxOElnT2FaeGo3bko0NnJCQ2dWeEkzbGxUbGh3QUF2VUtqTDE5X25faVdTVHZmOGMtdk1jY2xHTGtNbF9raEg4eUc2b1VjNDRNZEhCZWF2NUpNZGhIZUtiZVVackpYbnNfZk9QYnBLakxWazVxbktUeHZ4U0gzQUk?oc=5"
+        }
+      ]
+    },
+    {
       "id": "432cdc354e4a",
       "title": "Quase 30% das mortes por influenza no Brasil em 2026 foram registradas nas últimas 2 semanas: 'Doença do meu filho progrediu rápido demais' - BBC",
       "published": "2026-06-01T18:21:48+00:00",
-      "summary": "Quase 30% das mortes por influenza no Brasil em 2026 foram registradas nas últimas 2 semanas: 'Doença do meu filho progrediu rápido demais'&nbsp;&nbsp;BBCTamiflu pode reduzir em 52% as hospitalizações por influenza; uso precoce é considerado essencial&nbsp;&nbsp;G1\"Vai ter uma onda de casos\": diante da baixa vacinação e do El Niño, RS projeta óbitos e internações por vírus respiratórios&nbsp;&nbsp;GZHCasos de influenza sobem e atingem 31,4% no Brasil em 2026&nbsp;&nbsp;Portal ABC do ABCSaúde do ",
+      "summary": "Quase 30% das mortes por influenza no Brasil em 2026 foram registradas nas últimas 2 semanas: 'Doença do meu filho progrediu rápido demais'&nbsp;&nbsp;BBCTamiflu pode reduzir em 52% as hospitalizações por influenza; uso precoce é considerado essencial&nbsp;&nbsp;G1Casos de influenza sobem e atingem 31,4% no Brasil em 2026&nbsp;&nbsp;Portal ABC do ABCSaúde do Acre alerta sobre aumento de síndromes respiratórias e reforça medidas de prevenção e assistência no estado&nbsp;&nbsp;Agência de Notícias ",
       "sources": [
         {
           "name": "BBC",
@@ -93,7 +153,7 @@
       "id": "1fac1e72c5e6",
       "title": "Oftalmologista alerta que hábito aparentemente inofensivo pode prejudicar a córnea; saiba qual - Portal Menina",
       "published": "2026-06-01T17:36:29+00:00",
-      "summary": "Oftalmologista alerta que hábito aparentemente inofensivo pode prejudicar a córnea; saiba qual&nbsp;&nbsp;Portal MeninaCeratocone e alergias: existe maneira correta de coçar os olhos?&nbsp;&nbsp;CNN BrasilDoença ocular ainda é pouco conhecida entre os jovens&nbsp;&nbsp;Araraquara NewsCoçar os olhos pode acelerar doença ocular&nbsp;&nbsp;Oficina das PalavrasSe costuma esfregar os olhos, há uma coisa importante que precisa de saber&nbsp;&nbsp;MSN",
+      "summary": "Oftalmologista alerta que hábito aparentemente inofensivo pode prejudicar a córnea; saiba qual&nbsp;&nbsp;Portal MeninaCeratocone e alergias: existe maneira correta de coçar os olhos?&nbsp;&nbsp;CNN BrasilDoença ocular ainda é pouco conhecida entre os jovens&nbsp;&nbsp;Araraquara NewsSe costuma esfregar os olhos, há uma coisa importante que precisa de saber&nbsp;&nbsp;MSNCoçar os olhos pode acelerar doença ocular&nbsp;&nbsp;Oficina das Palavras",
       "sources": [
         {
           "name": "Portal Menina",
@@ -102,10 +162,22 @@
       ]
     },
     {
+      "id": "f476c627115b",
+      "title": "94% dos professores de matemática veem sentido na profissão e redução de desigualdades é principal desafio, aponta estudo - Valor Econômico",
+      "published": "2026-06-01T17:30:21+00:00",
+      "summary": "94% dos professores de matemática veem sentido na profissão e redução de desigualdades é principal desafio, aponta estudo&nbsp;&nbsp;Valor Econômico",
+      "sources": [
+        {
+          "name": "Valor Econômico",
+          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQcWYxNVJJemRzbU1zeUJOaUlFd1NxampRWUJ3OUl5cVZfTmJtM2JPdFB6dVd1NTlPTzRIYVhMOFIwcl9WQWczUEpIQ05hWVVyX05YVDZ0UXlrZFh1LUtXX3RfMHpoamdiTFExZ0xJMGN3clVjaVE5VXhFcEJ4UDFjNzR4djJLWnlOeXlWaEN6S2k2blBOWVd4QlMtTGRJLUhJdkMxNFZKSHF2UGFTejdobHpDaUpIVjVfdjNaVm45dDZZOERjdVBFUWpxSGl3NXB0OFZHa3RIdDNKdENoQk5xa2QzbUU2bGtHSHVkNVZ1Q01feWRvR3RDcFBKMXAwVVFDUWU4VWphRHpHMk5hWlhv0gGeAkFVX3lxTFA3Q3IzMFloNTNIVWpjZlAxMEtXazk4RjFMWnBGSUs5cWl3Q3k1b0dhbC1tekFzb3Y1VUR1LVd3OE1INHdfaGJ3bFhQQnBpVjUwNi1wTC1xdlRobG9IUHVhY3BaRkpNS3pEdXhmR2tETFFpb1JERnBuREQ3UnhrY014dFBtdVpabjJiY1VheVZGME8yX3ZHV0F3aDU2bVJuTGpaYk5IZ1QzckY5M0hnTEZ0UDBCQXlSS25EVFp3YWdFeG9neFlYOEhtdjFVNDRQMl9fVEJZOGtaZkUzQTFYTjhFSWswS3pyR1hXYzVOTnd3Wkk0NnUwT2RoeW81RmEwSUlNVU1tMDFqU2dJQzltNkJQTFgtZlJMUkgzVkl2a1E?oc=5"
+        }
+      ]
+    },
+    {
       "id": "0bd379da6b56",
       "title": "Fígado gorduroso: alimentos consumidos diariamente que podem acelerar os danos e aumentar os riscos à saúde hepática - O Globo",
       "published": "2026-06-01T16:48:14+00:00",
-      "summary": "Fígado gorduroso: alimentos consumidos diariamente que podem acelerar os danos e aumentar os riscos à saúde hepática&nbsp;&nbsp;O GloboQue alimentos comuns podem acelerar a gordura no fígado? Descubra (e passe longe)&nbsp;&nbsp;TerraHepatologista aponta sinais de alerta do avanço da gordura no fígado&nbsp;&nbsp;MetrópolesDoença do fígado causada por álcool avança no Brasil, com mortes crescendo mais no Norte&nbsp;&nbsp;ICL NotíciasEsteatose avançada não depende apenas de dieta: como o resmetirom",
+      "summary": "Fígado gorduroso: alimentos consumidos diariamente que podem acelerar os danos e aumentar os riscos à saúde hepática&nbsp;&nbsp;O GloboQue alimentos comuns podem acelerar a gordura no fígado? Descubra (e passe longe)&nbsp;&nbsp;TerraHepatologista aponta sinais de alerta do avanço da gordura no fígado&nbsp;&nbsp;MetrópolesDoença do fígado causada por álcool avança no Brasil, com mortes crescendo mais no Norte&nbsp;&nbsp;ICL NotíciasDesenvolva hábitos saudáveis ​​para ajudar seu fígado a se desint",
       "sources": [
         {
           "name": "O Globo",
@@ -153,7 +225,7 @@
       "id": "918377cb2c09",
       "title": "Pneumo-20: nova vacina contra pneumonia já tem data para chegar ao Pará - DOL",
       "published": "2026-06-01T14:10:54+00:00",
-      "summary": "Pneumo-20: nova vacina contra pneumonia já tem data para chegar ao Pará&nbsp;&nbsp;DOLSUS vai oferecer nova vacina contra doença pneumocócica para crianças a partir deste mês&nbsp;&nbsp;O GloboMinistério da Saúde vai oferecer nova vacina contra germe que causa a pneumonia&nbsp;&nbsp;R7Vacina pneumo 20 no SUS: veja como fica o calendário&nbsp;&nbsp;O TEMPOAviso geral para brasileiros com 50 anos ou mais sobre vacina contra doença grave&nbsp;&nbsp;A Crítica",
+      "summary": "Pneumo-20: nova vacina contra pneumonia já tem data para chegar ao Pará&nbsp;&nbsp;DOLSUS vai oferecer nova vacina contra doença pneumocócica para crianças a partir deste mês&nbsp;&nbsp;O GloboProfessor Marcos informa inclusão da vacina Pneumo20 no programa nacional de imunização&nbsp;&nbsp;Câmara Municipal de AnápolisMinistério da Saúde vai oferecer nova vacina contra germe que causa a pneumonia&nbsp;&nbsp;R7Vacina pneumo 20 no SUS: veja como fica o calendário&nbsp;&nbsp;O TEMPO",
       "sources": [
         {
           "name": "DOL",
@@ -162,14 +234,26 @@
       ]
     },
     {
-      "id": "c3fb2a4cb6c5",
-      "title": "Suspeita de ebola é descartada em paciente internado em São Paulo - Folha de S.Paulo",
-      "published": "2026-06-01T11:54:00+00:00",
-      "summary": "Suspeita de ebola é descartada em paciente internado em São Paulo&nbsp;&nbsp;Folha de S.PauloSuspeita de Ebola é descartada em pacientes no Rio e em SP: o que se sabe&nbsp;&nbsp;G1Análises descartam ebola em paciente do Rio de Janeiro - 01/06/2026 - Equilíbrio e Saúde&nbsp;&nbsp;Folha de S.PauloTeste descarta caso de Ebola em paciente internado em São Paulo&nbsp;&nbsp;CNN BrasilBrasil investiga dois casos supeitos de Ebola | #DomingoEspetacular #shorts&nbsp;&nbsp;R7",
+      "id": "f6cfcb6c8851",
+      "title": "Estado de São Paulo amplia vacinação contra a gripe para toda a população - UOL Notícias",
+      "published": "2026-06-01T14:10:00+00:00",
+      "summary": "Estado de São Paulo amplia vacinação contra a gripe para toda a população&nbsp;&nbsp;UOL NotíciasPor que tomar a vacina contra a gripe?&nbsp;&nbsp;EstadãoJoinville leva vacinação ao transporte coletivo nos dias 2 e 3 de junho&nbsp;&nbsp;G1Bauru amplia a vacinação da Influenza para toda a população a partir de 6 meses de idade nesta segunda-feira&nbsp;&nbsp;Prefeitura de BauruNatal tem baixa adesão à vacinação, mesmo ampliada à toda população&nbsp;&nbsp;Tribuna do Norte",
       "sources": [
         {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSDFKRWtqSmY0S2NNWWFodFQtb3ZjczBaamMwclJaVlVSR3JKXzdLMEZWSmhiOHBwaThvaTdWbEdoWk5pem93LXhPTndZZjcwa3I0VzRUMlNZVl9teXFSRS1ZVVNTd2FmQlV3RW5hT013cWVEQWwyZGhoNmdVMm9nUnNUamdqbkpXRDI1ZzdtcG03SHZFSDk1c0ZxaEhvNnZkSkMwQ3Y5VnpaQUJoWnREMThfV1J0dlRpRHU4NGtXbHMtS0RX?oc=5"
+          "name": "UOL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRjBZNzI4ZEZrOUlaendaM09sWFQtM1pMMTVNMHduZ2VtNENwRnBqMW12QjEwaHlrVVJTUGVzODRYdDBIZmMwbjFkZ3hKLUxwZFR1Q1lDTHpVZXRaVlplV0R1QTUteXo1TnVTYXgyRzBoYVhuSlpWYlZUQ053NG9KWXFhLUdkb2dpb2E1TU1IdE0tMFkxWEpkS2VmY0pWa1lPOC1HRERKNXJrNEVxYTRfdGZQZUtpOGpMTVppbFNCeklRMHB2bnBaRXhfSkVZOVdRWlduU2RSa1ZJdVQ4Um8ycXhn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c0d0b5bd83c0",
+      "title": "Inscrições para bolsa do Projeto STEM na Saúde prorrogadas até o dia 8/6 - Fundação Oswaldo Cruz (Fiocruz)",
+      "published": "2026-06-01T13:10:21+00:00",
+      "summary": "Inscrições para bolsa do Projeto STEM na Saúde prorrogadas até o dia 8/6&nbsp;&nbsp;Fundação Oswaldo Cruz (Fiocruz)",
+      "sources": [
+        {
+          "name": "Fundação Oswaldo Cruz (Fiocruz)",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQamFDOFFsN1JCd1ZGcXJ0YmdmWVhkUUtlMl9BdzFTbnNyT3JweDkyaEgyV2xqSnlIQVZRbTRkZ2hfcVl3QklWWWtDVkk4dmVRVkdOclVDc2k4a29meG54Nk1hSmNGaGVRUS1fbGttb29EZTFYbWEzb21HdjJnMlZTbTRKR29CZEJFcUJRak9GdXRxSEczZ2V6UkNHeUtrMnREdEgyZTkxMWEzOVU?oc=5"
         }
       ]
     },
@@ -177,7 +261,7 @@
       "id": "b6055353726e",
       "title": "GCN: Vacinação contra gripe é liberada para toda a população em Franca - sampi.net.br",
       "published": "2026-06-01T11:49:32+00:00",
-      "summary": "GCN: Vacinação contra gripe é liberada para toda a população em Franca&nbsp;&nbsp;sampi.net.brVacina contra gripe é liberada para pessoas acima de seis meses na região&nbsp;&nbsp;G1Saúde leva a imunização contra a gripe até as escolas e na procissão de Corpus Christi&nbsp;&nbsp;Prefeitura de CuritibaVacinação contra a gripe continuará no Paraná para atingir grupos prioritários&nbsp;&nbsp;Governo do Estado do ParanáMenos da metade dos idosos foram vacinados contra a gripe no Paraná&nbsp;&nbsp;Tri",
+      "summary": "GCN: Vacinação contra gripe é liberada para toda a população em Franca&nbsp;&nbsp;sampi.net.brVacina contra gripe é liberada para pessoas acima de seis meses na região&nbsp;&nbsp;G1Saúde leva a imunização contra a gripe até as escolas e na procissão de Corpus Christi&nbsp;&nbsp;Prefeitura de CuritibaVacinação contra a gripe continuará no Paraná para atingir grupos prioritários&nbsp;&nbsp;Governo do Estado do ParanáSecretaria de Saúde de Rio do Campo libera vacina contra a gripe para toda a popul",
       "sources": [
         {
           "name": "sampi.net.br",
@@ -186,14 +270,14 @@
       ]
     },
     {
-      "id": "6c93954b9857",
-      "title": "Dorme mal? Insônia é ligada a um maior risco de câncer abaixo dos 50 anos em novo estudo - O Globo",
-      "published": "2026-06-01T11:33:28+00:00",
-      "summary": "Dorme mal? Insônia é ligada a um maior risco de câncer abaixo dos 50 anos em novo estudo&nbsp;&nbsp;O Globo",
+      "id": "75fc024798c6",
+      "title": "Ebola: teste de paciente internado em SP dá negativo - O Globo",
+      "published": "2026-06-01T11:29:01+00:00",
+      "summary": "Ebola: teste de paciente internado em SP dá negativo&nbsp;&nbsp;O GloboAnálises descartam ebola em paciente do Rio de Janeiro - 01/06/2026 - Equilíbrio e Saúde&nbsp;&nbsp;Folha de S.PauloSP investiga caso suspeito de ebola em paciente internado no Emílio Ribas&nbsp;&nbsp;G1Brasil investiga dois casos supeitos de Ebola | #DomingoEspetacular #shorts&nbsp;&nbsp;R7Secretaria de Saúde descarta suspeita de ebola em homem internado em São Paulo&nbsp;&nbsp;Estadão",
       "sources": [
         {
           "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObVB5bzNEUTFnRVo4TWFSdDlZV21FRkJGejBVRVQtcC1iSUQwSjFnRW5WOTJ0OUZVd28ycldzNkY4b1dXX2dvZTc4TlduSk9HVENON2s5VDl3dmxlVXVzWE15S25NVTBybmpzNVg5ampKY001bzZ3cVNjdUI0Q2xUNlNONnNYVkdLRV9KQ1ZVTm1mLTU3akpVNGltUjd2U0tjQlFCd2NfR2xFeUQxbEtMamF2OWZld2ExR3VHWm5tWWx6Tk9TLUV1dGx6MGE2UDZDaHctcHQyNnJrM2fSAeoBQVVfeXFMUGprRnRZR1hsQ2s5dDVndWpXakRBSEtZTUc2WHpYVTRTbzZuenlwT3FYcUJlR192ZF9QYWdHbkx3V0c0WW9aaVBCNEZHd3NDUXRVR0VjN3hJSTBsSkhaRUpyYTJoTlMyNndZU2k3MlNjdTRjSmJXT1ViY0JwUjk2OXVyUnNGYVBobHJHQlE4cU1xYWR3RExSZjl5Y0RPbk9yZGNPVnhGbzBWLUNaSVpLMDdLQVBTLWlsbHh2Z3FzSUZ5ODJJQ0dpbFBidEhmaVZjNGVESGFWUFVDUlZZX1VTdlpvNlA3NVYwU19R?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLTRmSVJPdkQ0MXdLNklxbzJIallZV2VjaE05bWNzN0YyUUF6QXQ5QkFaV2lsODB1dnhlbHg0c29PbmxlTkxwSFdBMWlvWU5FVlRMclpPczM5eDVud1VlM0pBWm5iTGswbWY5a29ZOHlaZzJYWTE2Y3o0dkYzb1p3TU93cTZoXzVReVZMQjVjTGdoSjA1ZjlJS0NHMzU3YWNHQWtLRXUtRlA1d9IBuAFBVV95cUxQZ1M4Ymw1eXZOR2VpSzRWal90WURnSlI0aWJhMFltZG9aMDJrbS1SUDZPTDdqdkgzMlZVQ2E5TFE1V0FtTGRzQmUwbTl6U0hZbE5xRU10VjN3YzRjQXRnYmpHOGJNUENZZ3B4MGVwMWQtNWtQaGpBRUNBZ1lHY2ZOVXlxZk54STZjTGFUT05CdU1UVi1vMGgySFNiaXBVUG9tVExyS1RpRU9adlVqd081T0FQYkV5RzM2?oc=5"
         }
       ]
     },
@@ -210,22 +294,10 @@
       ]
     },
     {
-      "id": "3f9562fbfef1",
-      "title": "Vacina contra gripe: veja onde se imunizar a partir desta segunda em cidades da região de Campinas - G1",
-      "published": "2026-06-01T10:41:44+00:00",
-      "summary": "Vacina contra gripe: veja onde se imunizar a partir desta segunda em cidades da região de Campinas&nbsp;&nbsp;G1Estado de São Paulo amplia vacinação contra a gripe para toda a população&nbsp;&nbsp;UOL NotíciasVacina contra a gripe: veja onde se vacinar nas cidades do Alto Tietê&nbsp;&nbsp;G1Natal tem baixa adesão à vacinação, mesmo ampliada à toda população&nbsp;&nbsp;Tribuna do NorteSP amplia vacina contra gripe para toda população; saiba mais&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZWNPR2xTbi1xakdxSnhieGlYdEwweDVkQXFCVFFjelY1Tld2aXV3aXFDRDdMNUhLdFBoWE8zdXN2RlZ0bUIzT0RKcV81dGxFRno4ZkJxdmJnb1U4WHRsQ0dwWk02cEY0dmRwS0JpNFZTalYwbXFXbHpkWklUakMyMFcyc3RpNlFuUFdXakp4d1dkT0JKdEhueDJLX2R2V2l6X010TU5wTW5aSmRiOGdfT2UzMjdDalo5ZWxOU292TnFGdThqdFZHX3ZRNVRyaDJfcjZURTkwNUpSSHFiamtUTTNzbFQtWHJqQV9NNUhJZUZfVGl00gGDAkFVX3lxTE01eEtZQ2NoLWc4VjBvamNYaV92cVczTDFwcG1rRWdTaDFUTFczdDZleDhLdkxiNU5tZ2xLUXF5M2EyX3RjTXowMXdSTFd1MEVEOUNoVndhRm5JNlh4ZXdrMU5NZ3pyMFpyQXhBSlRPLTFHWDMtNEg2cUN6TVVVbTNfRlYyWFlDWHpSRkVRMHhjYjdEZlBsd0pMZWRmclpZeU9DLW1tc1N6LTBrQTFJbDdWakVROXg4YlltY2NGaGFHMWkwWTNOdnNxM2FqaUdzVXpJNlZFREtDUWdvYy1VNEZoNGJPQU93bG1kajRrV25EQnNtWlFqallMOU1IbGxnODFlMEE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "aad0b283109a",
       "title": "Doenças Inflamatórias Intestinais afetam 10 milhões de pessoas - Correio do Povo",
       "published": "2026-06-01T10:07:41+00:00",
-      "summary": "Doenças Inflamatórias Intestinais afetam 10 milhões de pessoas&nbsp;&nbsp;Correio do PovoMaio roxo: Mês de conscientização sobre doenças inflamatórias intestinais&nbsp;&nbsp;G1Diarreia e sangue nas fezes podem indicar doenças inflamatórias que merecem investigação&nbsp;&nbsp;O Bom da NotíciaCasos de Doença de Crohn e retocolite ulcerativa avançam entre jovens no Brasil&nbsp;&nbsp;Jornal Opção“A remissão endoscópica não chega”: Sérgio Bronze sobre o futuro da DII&nbsp;&nbsp;HealthNews",
+      "summary": "Doenças Inflamatórias Intestinais afetam 10 milhões de pessoas&nbsp;&nbsp;Correio do PovoMaio roxo: Mês de conscientização sobre doenças inflamatórias intestinais&nbsp;&nbsp;G1Diarreia e sangue nas fezes podem indicar doenças inflamatórias que merecem investigação&nbsp;&nbsp;O Bom da NotíciaCaminhada Roxa acontece na próxima sexta, 29&nbsp;&nbsp;Prefeitura de Juazeiro do Norte“A remissão endoscópica não chega”: Sérgio Bronze sobre o futuro da DII&nbsp;&nbsp;HealthNews",
       "sources": [
         {
           "name": "Correio do Povo",
@@ -270,30 +342,6 @@
       ]
     },
     {
-      "id": "9a7c2fbf3280",
-      "title": "Dia Nacional da Imunização: veja 6 mitos sobre vacinas que seguem vivos - CNN Brasil",
-      "published": "2026-06-01T07:00:15+00:00",
-      "summary": "Dia Nacional da Imunização: veja 6 mitos sobre vacinas que seguem vivos&nbsp;&nbsp;CNN BrasilGuia de vacinação do adulto: as 14 vacinas que você precisa tomar até a velhice&nbsp;&nbsp;Veja SaúdeOs maluquinhos anti-vacinas&nbsp;&nbsp;SAPOMitos sobre vacina colocam a saúde dos idosos em risco&nbsp;&nbsp;Portal ABC do ABCVacinação em dia pode reduzir risco cardiovascular e desenvolvimento de demência em idosos&nbsp;&nbsp;Folha PE",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLVpKOVhZdUJwd2I2bXZnM2V6TzFKSC13RU1HS3ZqaEl0RjdPN082SFY2SDNGY2ZMcm16RnYtdVZTdXBNQ0VNYi1KZGJBQm4tRDZCRVVIYThSaC1RUndLaFh3VlNiUHdYSVMzb1BZTkN6NjFFMkN4em9WTmkzdDhSajdZV2pfT0gycVRpdXpFY2tTaFVRNDNaWFB4Z1lKakdLYWNLT0gtTXpfZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7b2845f2ec28",
-      "title": "BH inicia campanha de multivacinação nesta segunda; veja quais vacinas estarão disponíveis - Hoje em Dia",
-      "published": "2026-05-31T20:58:00+00:00",
-      "summary": "BH inicia campanha de multivacinação nesta segunda; veja quais vacinas estarão disponíveis&nbsp;&nbsp;Hoje em DiaCampanha de multivacinação em MG para crianças e adolescentes de até 14 anos segue até 30 de junho; veja locais de vacinação&nbsp;&nbsp;G1Minas Gerais entra em nova mobilização para evitar volta de doenças já controladas&nbsp;&nbsp;O TEMPOPoços de Caldas inicia Multivacinação para atualizar cadernetas e reforça campanha contra a gripe.&nbsp;&nbsp;Prefeitura de Poços de CaldasMultivaci",
-      "sources": [
-        {
-          "name": "Hoje em Dia",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZG1LeHNlNWIzV0dKaWwtVW1IbUF3RUtPRzdkRjZweGtYMTJCUVZYX3o0SWpUdWJ3c18wdWJKU2k1N0FwQ001S0NQQmhBd3JyTC1mMjltSXEyYTFVNjRybDZlNnVlSmRIREpGemZRTUt0ajktdmR1RERDN191WnZvREp1T1NSZUJqelBVVGxwUzdDV3RzZFluUWVEQmhjVS1XV2FfUmJEUEdoMlJybGkxbzBrb1FtNjlXUDBvdmlXajBWSjlZMDNudmdqQUtyaElRSlZCM0R2WkQ3WTA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0804e82b0ea9",
       "title": "James Webb descobre galáxia quimicamente primitiva no Universo antigo - Olhar Digital",
       "published": "2026-05-31T20:05:00+00:00",
@@ -302,78 +350,6 @@
         {
           "name": "Olhar Digital",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTy1nX0VMODljRnZPSVVlWERoRGpFWE9LNHotWEhEdGVHa252X0dUREcxU216QzdkQldrUjlWQUxfbnc0VWp5dUx6eTJJUlpxNnlmZjhMemhnMFhqSEZyWG1peFJ4cURVOFA2UWxubUV2YWpWMU9LXzJjc1ZMUmNsX3NmVU1BWmVlZnFNZWZpVHlMODktQnRpRzVqSFluWFRBdkd4aElIcHM1aU1ZbGpZdWl5RFVIN19rZGNHUmF4OGtmbGZH?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "222829e062fe",
-      "title": "Homem morre após receber rim de doador infectado pelo vírus da raiva - O TEMPO",
-      "published": "2026-05-31T18:44:22+00:00",
-      "summary": "Homem morre após receber rim de doador infectado pelo vírus da raiva&nbsp;&nbsp;O TEMPOVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "O TEMPO",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaHVtaFA4NHJsdi1NamZMWm9veG1sMkhuVmRveFE4MVA1TXdZcUpRRHkzNmZlM3poLWVBZTJBODFneHJMajljZHFvbVA0S0VvYWZ1Vm5PNEhpQ1g4ajR4WG93TlhqNklfSHYyUW9yM2k3SjhBQTYtTE5mSV8xeG5sNFI3dnI4TDZucFFjMjVXaHUxNFdUMHVRcmRndDU5SzJLcUtsbnBWVmE3Z0dIYk00?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "db98a055bfcb",
-      "title": "7 coisas que toda mulher deveria saber sobre a saúde do coração - Folha de S.Paulo",
-      "published": "2026-05-31T18:00:00+00:00",
-      "summary": "7 coisas que toda mulher deveria saber sobre a saúde do coração&nbsp;&nbsp;Folha de S.PauloVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdTR6c3FBZ3Mybl9DM2pUcmpWSXAtd2NFVURvZjVleWtzS09KS0k1YWEwNFBvSnJSbWdGaHZjUU5TdzNpMTk4VFRFWVBBazhYQi1BbGFfaUtRY01PRUktNnNudEhJSnlNU1BUS2pYR3ljQ293V1dfSThWUWwtZjZEdkxIMWxNa2txZy1xeS1BWmhaTzdVVVdKaXdVdTNpY01NdnREMG45NkxxQkxKUktHMUVtUXhOdmIyYVgyVExtaGZnUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f4cde3482fd0",
-      "title": "Casos de Parkinson devem dobrar até 2050: conheça os sinais de alerta e o que a ciência diz sobre retardar a doença - Jornal Correio",
-      "published": "2026-05-31T15:00:00+00:00",
-      "summary": "Casos de Parkinson devem dobrar até 2050: conheça os sinais de alerta e o que a ciência diz sobre retardar a doença&nbsp;&nbsp;Jornal CorreioNúmero de casos de Parkinson podem aumentar em 112% até 2050, aponta estudo&nbsp;&nbsp;Rádio ItatiaiaParkinson pode atingir 25 milhões de pessoas até 2050&nbsp;&nbsp;diariodopara.com.brParkinson não começa só com tremor: o sinal no raciocínio que muita gente ignora&nbsp;&nbsp;Gazeta de São PauloCasos de Parkinson podem mais que dobrar até 2050, alertam espe",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNU2g0Q3dQVjM1MUJ1TXpqNlpPam5BUm1YX1JTSUIwWGRUeFc0M2UwZUJzaHJyOWIwNDBqdWphSkxBbnNRNGs5cktIM1JpQjZ5Q2I0WUJ2WmpQTDRJb3BKNlQ2alRjdGhmNHlUdGppZUQydUhoMlFrWTVFcVVyVTFab0p2UGdlSjZ6dkFXNTk1ZWJOeHdkZkZ5a2NtMDlEN0doQXZDU3VIdTJVUjloZHpORUdEOW5nSmsySnJGZ05RN0JGLWRJZUZ2aTV6S05pM1gyR0hFNFhfS2hWNFV1OUIxV0d1QVRpQzVqX1ktTG5ROU4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "003573b50463",
-      "title": "Como remédios despejados em rios favorecem o aparecimento de superbactérias - Folha de S.Paulo",
-      "published": "2026-05-31T15:00:00+00:00",
-      "summary": "Como remédios despejados em rios favorecem o aparecimento de superbactérias&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSkpSYl82TjloUjJ1aWJxNFdITWtnaFhfdG13NXZ4Z0d2anVzMGs4YXNRbWdnaHZZaXNVWEJtYXdlWXM0U3V0dGhyTTh5MGxWMU1XY1NHS0tCa0NEWDgtOUVmRDY1UnZJM0lPNjhuUkNzX054Y21rdzZZSTFwekM1VzFBdEZmTllmX2l4YmFEQ0VUODJwZGFLQktFdGxpSWFlZTJHcWU1alkwVTF0MktIOU5JLV9OSDJrTXZteG05Uy0zRUR4UlE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "32f42cf9a28b",
-      "title": "Cientistas ficaram impressionados ao ver aves de cabeça minúscula resolverem problemas como grandes primatas: os corvos memorizam centenas de esconderijos de comida, usam ferramentas e até transmitem conhecimento ao grupo, desafiando tudo o q - CPG Click Petróleo e Gás",
-      "published": "2026-05-31T11:01:00+00:00",
-      "summary": "Cientistas ficaram impressionados ao ver aves de cabeça minúscula resolverem problemas como grandes primatas: os corvos memorizam centenas de esconderijos de comida, usam ferramentas e até transmitem conhecimento ao grupo, desafiando tudo o q&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQVUpkMUt4RWEtWDNDWFJiM2M2NkMxUHNBY1ZRZTM2MzJ4UHdSNGRZMTc2UG13QzljRlVjUTVFQ1F5UlBqeVR2WkZqVnJnRC1CQlAxNktTM1BudlpxeURZNHUxdnhTQlFrS0RXb2hyWVdxSnZ4ekJPcFNzS1ZFdDNOcTJkcWVuZ2Rwd1RrMVktWkFoa190c2VVNDZqSHZvV0dVNGY2cEstVktFdWhNcVZhbDRFTmY4TEdrV0dSQlRldUMzWnhTaTZHbUlTQXFzVVhNV1lPQm1TLUhiSHNQSUdtc3JiNmxFMEdYVWI1a3p2bUpYNkd3N1JyRTFwdHhfd0pxaXZEcURIcGRWSjJoUVFaS3JaNkdlbUw0NWdMX1ZIZlB1S0lyZmNNazlMQXZLQVdHbW9mZW42bkE2bVZ3Vk1OX3dycnFRTUk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "61f75443013e",
-      "title": "Stress, burnout ou menopausa? Especialista explica como reconhecer os primeiros sinais da transição hormonal - Terra",
-      "published": "2026-05-28T07:59:00+00:00",
-      "summary": "Stress, burnout ou menopausa? Especialista explica como reconhecer os primeiros sinais da transição hormonal&nbsp;&nbsp;TerraPerimenopausa: confira sintomas que podem surgir antes dos 40 anos&nbsp;&nbsp;CartaCapitalMenopausa sem tabu: como transformar uma crise em recomeço&nbsp;&nbsp;Extra onlineMenopausa não é o começo do fim. É o início de uma nova fase que merece cuidado, conhecimento e tratamento&nbsp;&nbsp;GazetaWebCinco sinais silenciosos da menopausa&nbsp;&nbsp;Tribuna Online",
-      "sources": [
-        {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPYmhqSVdSZnQzcVhZVFJYdVJhY2hUcEFhVTJlQlNfWFVtUGZMZ2VIdWcwU1RPbm4yQTQ1VjZCTVkwelJOeDVzeFRlN0M4d2VXN0Q4SUZNcHRHd3JTcDdqN2ZEemNZeHBWX0lyTE94d2c4bng3cU1MN0ZIVmU4RWdHVkRCbDFveFhHNTFZQXNxdnJ6VWxBQTNncjh0ekNlYng0TUxCZnFLZXF6MU9rMU1RdEpWOWRsZF9QVDJPZkNCemx2Mk5NUmc2S241aUtzMWR4QzdvOFFpUlF6NWJTSFlyWHRKYzk5eEFRakh1R25KZmNMQTh1cllJZHlvR2tWRzhwdnZZNmFKTW14b0dIWlRFcVhZSVZwTkxtWFVmTmp3aFZ1aEk?oc=5"
         }
       ]
     }
