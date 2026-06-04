@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-04T10:01:43.938161+00:00",
-  "count": 31,
+  "generated": "2026-06-04T15:20:08.669261+00:00",
+  "count": 28,
   "news": [
     {
       "id": "ea36b1168592",
@@ -23,13 +23,13 @@
       ]
     },
     {
-      "id": "375d47d74769",
-      "title": "Nova vacina pneumocócica 20 começa a ser disponibilizada no SUS para crianças — Ministério da Saúde",
-      "published": "2026-06-03T21:51:02+00:00",
+      "id": "870c28d5e73a",
+      "title": "Vacinação com a Pneumo 20 pelo SUS começa em duas semanas, diz Padilha - Agência Brasil",
+      "published": "2026-06-03T23:24:00+00:00",
       "sources": [
         {
-          "name": "GOV.BR",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPT2otY2ZCQ0s5VFpEaE9HZ2lPLTZaVE8xUWRBTEpPQThQRmhRbnFRNTVDN0pJNDV1SV9sUzNUM0J6cllVWEFPUVhheFdXX3JnVnNiU2pKOVFaSVFYUEM3ZVlfQURWZThHWDcyem9ncUx1YzRVYnJlTmpTY2l6MmxhQWF1QWFDVm45ZDRrZmE3VHRFOHByd0NCWXVhdURzanFremlESHBJU2hBbjg3bzhQMlREVngwNUxqQW43WXpVQ2JVOHp2UjNVUFowX2YwQTlFWXV3?oc=5"
+          "name": "Agência Brasil",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYUFTdS1oNlJsalZtc2ozTEhHb2NrcUVRdzFmU2tmb3VUNDNBVzVZZkJpNFc1bFU4ZEtjaVhfNW5WWHFSeS15SWNfV3dmY2pOLTNYWlJPWE5pakI2U2tiU0JXcG9hY053Q1lzY0pRZWlBNU8zR1V5c2hGOTFMSTNOSV9RTFA4UTZURHBCZm9CLXhOUjBNeTRfa1RsVklKUjh2OFJLVXM4WXdsaVlGTlp2VXRLVjhKUTluQzFSeklGSQ?oc=5"
         }
       ],
       "keywords": [
@@ -46,6 +46,13 @@
           "keyword": "UNI",
           "name": "ZINC",
           "url": "/drugs/zinc/"
+        },
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
         },
         {
           "type": "indication",
@@ -116,6 +123,26 @@
       ]
     },
     {
+      "id": "eedc66693a40",
+      "title": "Fóssil de 415 milhões de anos revela maior escorpião já descoberto",
+      "published": "2026-06-03T20:18:09+00:00",
+      "sources": [
+        {
+          "name": "Globo",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVzlvczVPaTJnRnRFNGc4VUxfS3pXTGh3QzljdlNpN1M4QmxpaXNyUF9kQXEySzFJeDgyaWFxUlVKdTdMaENwLWFfSzlaUWFpTG44V3NyR1k4WUtNTnk0TzBCSEJjT3NRTXpubFNQdWQ2ckxzNExIN2R0MDlYRXd0ZGVhV2hqVW9zWXE1d2huRWZLNnNYV01WNGVmem16MXRFNThtWGVKd3kzTUt6clV5VG9XbjJKNlZ3ZTQxZ21UMDJEWFdsSHp0c9IB1wFBVV95cUxPOFMtRURWNHpEYzNFbzI2ZHhUUTB2a0IxbWtnOFFvU1l4ZTRnZTVya05TTElJdHFTQ3NVSjlkR2pqa0RabkRJb0l6M1phTng5OE9iVkUyVVhTRTAtSHNnbFlnWXZ5ejJHbDl6MV94YUZ2VU5IemdtbF80WFBJYUd0cDhJd05zZ3F6Uk9GcTZNQmpXSnZOUm41Z3h3Rm5DTV9RMHdmUU9TaThtU1RwWXdGdnA2cmNxWmhnUHdmZkhNUTdha3hZQnZic1p0X05mQlozcmlLOThJYw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
       "id": "40a618e8acf2",
       "title": "O que fazer para evitar o reganho de peso depois do emagrecimento - Portal Drauzio Varella",
       "published": "2026-06-03T20:04:51+00:00",
@@ -123,6 +150,26 @@
         {
           "name": "Portal Drauzio Varella",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYnk3N3JyWlgyV3B0bGZOVWhNbTMtdzBfZ0M2RExkTzBNcEJ3Z1NOXzZ0U1RvYm4wWG9NeW9BdGdZak9RNkFodWtVX2VScENCZVpYdEE3WmF3THo0S1hnLWU4RnpMVHRSRWtlZGlxeFRuWkNCVktOTDdxc09zSXREMFdQOGN4bEZNaW4zMGxBVlNrTVFqM3N3RVRXcmRlTWpZSjEzZ0VTSzZDdjZIQVFBN0RhWmtUQQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
+      "id": "719dfbab8d6e",
+      "title": "Cerca de 72% dos brasileiros trabalham em modo de sobrevivência, diz estudo - CNN Brasil",
+      "published": "2026-06-03T18:33:56+00:00",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQd0RjRzduUm9vYWJGbTFJU2RMaGxUSGZnQWF2czF2ZWJ5aC0zRFJ3WmZCcXhIdEtBQjhPSVFWZlo0UzVwYjIwVzFMRUhiZVRvX2NFd2lDdXd2Zmd4OUdwekVWbTlNbzBJWVF2eTIwa0t6ZmdSVEFnUXlVQzBsdl9kdktaUU5yajdWNVF5RktUZTdTSFBlQUVYZmt1MnY2LTd0dHlmOUxRSlJrMFBld1E?oc=5"
         }
       ],
       "keywords": [
@@ -199,26 +246,6 @@
           "keyword": "UNI",
           "name": "ZINC",
           "url": "/drugs/zinc/"
-        }
-      ]
-    },
-    {
-      "id": "8425ef6a7e6b",
-      "title": "Fazendeiro deixou 5 cabeças de gado em uma ilha e 'mágica' aconteceu: rebanho virou 2.000 animais em 130 anos, sobreviveu isolado em território vulcânico de 55 km² e desenvolveu comportamento selvagem revelado pela genética - CPG Click Petróleo e Gás",
-      "published": "2026-06-03T16:59:00+00:00",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPRkRuTGhUb1lYSHV3LWJrbkVWSThfd1h1TUdxSHpkYWlRX2VTc19QS0FITlprNHgxYWJwQmJ5V0IwV2VDRFIyc3AxeThDSWR4OUhBRG9sVFRRTHFxQXB1b0J1SWtqVmk0UGxUZkw3QlBqQ3lTdUZSTzNKb2VmbjFMMjl3Qm81Vi00QkIxLWhqbzJ1VF9jRGQ4Z25wTlZxWTRLVXFTbmFZUWVqWjY1b0pybG9jVzQzdmU3Ymd1eFRwd3NoQWotMm5qYld1bWpKRkE3NC14SS1NaDl1OHU5MDFCSWpRbzkyWjEwUDJsem5jMHI4OHhSQUJTamdFa2szMVBVOFdyb0tobjFrbU84dEhhSWZfVzVMQzBGN3VsdGx1WVBOQ2tDd3VJR2RtUG9yOWVGVmtBUVZFdXBaVWRtOVJrelhnNzZsNEU?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "levetiracetam",
-          "keyword": "TAM",
-          "name": "LEVETIRACETAM",
-          "url": "/drugs/levetiracetam/"
         }
       ]
     },
@@ -300,6 +327,26 @@
           "keyword": "SIL",
           "name": "SILODOSINA",
           "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
+      "id": "569616fd3b29",
+      "title": "Diagnóstico precoce de doenças intestinais garante qualidade de vida a pacientes",
+      "published": "2026-06-03T13:32:12+00:00",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbHItTVVSVUFiZWFJVUUwOW9mazZlRm55dUxoUUw3Y0hHcFl2SllXSFpqR1pqWW1XcGo0SDlHT01xdlBGaHhnSktxWG5VYUZBTk5YcUkyNEI0TFBSYlNaYTNYbHFDWXgxbUk0RE1uYTJOMWpUNlNfMFNDZGdJdTM3VTdVQ2dkRUZraFAtcmlaYUFDNzJEeDIxY25ueHFMNElvSGpNcW5oSDkzOGItWkY3azA4YWI4NjJWNmUydlZGZUpxTnR6aE1CMmZZZjlnRGsydnJieXJkMjBRTjdYOVhIS0g2QkpTVXJmZ2FB0gH6AUFVX3lxTE9ROVhrZ2s5ZkZod3FoVkVwTXpSWE5SaUlQcVRfNzYzMjlyQUhNLXQ2YlJKSXl2UnBPa0sydXRDRXhyVUN2SnZDMm9BanJmUkt0eVJXWjB6czFoMDdMX25IcFFqcVNoT2hLUm9tOFhYaWRvTGhjVG1pLWgxamRiTi12MmNBQjM2N0xGcHRuMU42eFZpLVZzc1BlQ3FLX0d1Zm9mcDZyZGR5VkpRRndLNmphMkJFTVNhekpOVFNpdDR2czVBZnlWaTRkS3FWNGliekM5OWZJRy1KVXVIR1JheVpPeDR1cjBzaGcyWXc3N2dHdUJPenlpV2RaS3c?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "levetiracetam",
+          "keyword": "TAM",
+          "name": "LEVETIRACETAM",
+          "url": "/drugs/levetiracetam/"
         }
       ]
     },
@@ -418,13 +465,13 @@
       ]
     },
     {
-      "id": "7765898577c3",
-      "title": "Brasileiro ainda vê câncer como destino, e não como doença evitável, mostra pesquisa - Folha de S.Paulo",
-      "published": "2026-06-03T12:00:00+00:00",
+      "id": "25e29d2b02cb",
+      "title": "Estudo mostra que 25% dos brasileiros não sabem sobre prevenção do câncer - CNN Brasil",
+      "published": "2026-06-03T12:01:06+00:00",
       "sources": [
         {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRnhVQmFMTnJrUG5DbmtneHA0MHZGWTFSWG54c3NxR3RrWk5Cdnd1NFpqN1dFWXRYc05zWE9BNHpjWnRWTGRaME9xcjYxQkwwVnZUZTRZQVBGcUhXcWNqdVV5eC1NdGJBNlFrcEZnTHQwb1BGV3NBb3ItTjRzclJfOV8wQ203cEtYcFRQQ3IwZ29LUG83X2tFY1Z0TFo2TzRhZ2hkWFY1QTNfMWhsSGR1UmlFc2pxVl9PSVlHRTVIdzg4cUM4aFNUcXhFR2UxY1FnY3UwSmVIbFRiS28?oc=5"
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRVVDVjhDeXhaN2JlSjRzTVoyNlVyYXREcHVJcnotNk5udVV2QU5GQ2tDelJOdzJDaFQ3TFBfaHpzTjBOQVdTT1lkeGJtcnhINHdkeFFwT0pybDhpNmxVSmpIREdKbjFoNmFsRzFoZVVHdXZ4akh5NVlaS2lfVWRuMGg0aEhzU3dWdE9penVqTXNwdko4SmVBQXJpb0UyU2xOb3YwLVRUb05fTE4w?oc=5"
         }
       ],
       "keywords": [
@@ -873,6 +920,13 @@
           "keyword": "DECI",
           "name": "DECITABINA",
           "url": "/drugs/decitabina/"
+        },
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
         }
       ]
     },
@@ -1710,110 +1764,16 @@
       ]
     },
     {
-      "id": "85e21af00cb2",
-      "title": "Pesquisadores encontram sinais de vida humana em floresta tropical 80 mil anos antes do recorde anterior - Revista Oeste",
-      "published": "2026-06-03T04:05:00+00:00",
+      "id": "a787b1ced48f",
+      "title": "O que é a pílula contra câncer de pâncreas que fez médicos chorarem em congresso",
+      "published": "2026-06-03T05:00:01+00:00",
       "sources": [
         {
-          "name": "Revista Oeste",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSG52aWxOdTRpaFBvUGo0Qm9qblR1QXYwMWo1VXJ0cTJvaC1uZEZ6SE9hOHR4dTFpUXg5ZzM4LVVCN3JlUXdySFc4U2lOSUIwbS0wdHlmR3NWTExaZjJYNGFZNVpOMDF6OHE4ZTJIRmRZWGxELUhKQTlKU1JYZXkyRkdwTGpDMWdKOFl3UlEzdDFCbDVaU1BZenBVdFN6OEUwQWhTUTZRdDNOSkRGY3F4akIzSXJJUkFFV1B5UkpyQ3Bja3NiYnh5ajR5dHlvS0VjMm5KNEwtempzN0FOR2RoUUozR0ZVMEk?oc=5"
+          "name": "R7",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOUdZMjM1dGJlZ2x0d2pwQlRZVDE0QWJ3Y0d0YUNveWFIZFJWZ2NNX1l5R2JMeXFZUi1OVjgwdWhKejEtME1STUd5TF9xenZUTG1EZEdURFE4RnBuRnI4V1AyM3JpZkNhRkNpYWI2OVFLQ19VWjJ5NkRIS1hiM3NrTG9yemwtNERiMnd0ZzI2MGpjRG5pemQyeVUtTHA5a2hzWXhsOW93X1JfVjZ6UUVKRlUwZXhlbUJCRUtuQXp1cURiV19wZWZJ?oc=5"
         }
       ],
       "keywords": [
-        {
-          "type": "drug",
-          "slug": "etodolaco",
-          "keyword": "DORE",
-          "name": "ETODOLACO",
-          "url": "/drugs/etodolaco/"
-        }
-      ]
-    },
-    {
-      "id": "2cdb146f1c80",
-      "title": "Um em cada três brasileiros convive com gordura no fígado; saiba o que comer - Diário do Centro do Mundo",
-      "published": "2026-06-03T01:13:44+00:00",
-      "sources": [
-        {
-          "name": "Diário do Centro do Mundo",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdDVXa0tnTERPbVNON2drak5KN2dKY1p2bjFZVXJMSTFRek1NMzROLVZGUTFOS1NVZkZaNGtkc0xFQUZsMkI5b0xXLXgwSjBsUzdYSko1UVRIOElwQ3d5Y3VhZVQ3MWFhV0tPUFFvbnpxbEFMcW9HZ0R4b0trRVR4ejUwMmlSWHpWaExRNm1rSDNINlp0TnVyTUs3bWpuaUFHczVzVjZtOVB3VFdlOXloZW02dUxQb2x0R2FLWVZJQWFRR0JhbEE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
-      "id": "c3b817a8c255",
-      "title": "Como a reciprocidade de Marcel Mauss ajuda a caracterizar essa vergonhosa corrupção brasileira",
-      "published": "2026-06-02T23:00:00+00:00",
-      "sources": [
-        {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRlVXdS1JTmIyTGNFei1kZzlrNGNvUGNZYV9yOHBZWVQtcm04UXVndEpFalFsRXVydGFSRXU2T0dHLS1lcDBUYVdwdWFmd180VFgyUXhxOUhHTTFzV3JlZWFTeURCM2Y4YjR0RlU3VWtraHgyTVdUbHp1UXVNUXFKZjZQVDJ5dWh5VTF4VEZiOGRuNFU2eGt0VzBaTWZuaW1wRWFjZzZTR0EtdVBZQXRDN2VhMExTamljU1VCWFpRUU9NcUNYRnB5RlhhN0Y2N01ySy1sZElacWI5MHNBeXJr0gHkAUFVX3lxTE9SZzdIdEFzOVZmekpiNVBIYTRmckVpcmZNbDZSS1BsVnIyZFZqcmdiN01GQlpHVDlTOXlmZDZucENSdGYwUzFLclBpdVk5dFpmYWFMVmoySVFBNjZoeXRnMFZDSkh0WlVYZEVuSHR3S3FZRFRabG5NbUxqVTZzQ0FQWXVYa00yd2hFRTNJV0RiYzZSQ0c4NXFwbXhPTEdFT2tYbUJtR2dPSVhaXzVaQ2pTMWNfMXVyNE5KV1pXcGxaYUtFdUZUVkwzX0dtMUZmM21zX3JRNDVQZzNDbWZlcm9TSWVIdA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
-      "id": "991a5aa1985c",
-      "title": "Grupo Camera agrega fabricação de glicerina refinada à produção de biodiesel em Ijuí - Jornal do Comércio",
-      "published": "2026-06-02T21:01:14+00:00",
-      "sources": [
-        {
-          "name": "Jornal do Comércio",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNMURVSHY1QzJtNmlycWxiQ2JZdHNSNjFXczF2RTFoVV9GLWEzdzBlZVJ3SGtna1VXOERrZjZhaERPMEVNcHdkaUtOb0ZRNGJ2bGYxYmZULVBKdUVNaktNWGt1OS0tRF9ENjFWVlk3MVIycDQzQS1raGVTblA2N3ZyYU1VOVpBNERhRi1tTjlBUlJ3ZF85RElVTTVUVzNjejA3anZKR3hwa0FUQTdnT1pqSFd0d241cUpNLWwzNWVpTkdnc2JMelZOeFhCS00xWUlQYWVyYnFmZ3E1MFFCdUt0LW53R1NHaDlMdUYteklKVTA2dUtrRGJodTR3?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "golimumabe",
-          "keyword": "BIO",
-          "name": "GOLIMUMABE",
-          "url": "/drugs/golimumabe/"
-        },
-        {
-          "type": "drug",
-          "slug": "etanercepte",
-          "keyword": "BIO",
-          "name": "ETANERCEPTE",
-          "url": "/drugs/etanercepte/"
-        }
-      ]
-    },
-    {
-      "id": "ca0012f2260b",
-      "title": "Novo medicamento dobra sobrevida no câncer de pâncreas avançado - CNN Brasil",
-      "published": "2026-06-02T20:26:22+00:00",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUGpRd1hhYlhFNUY4bmZhV2NMZ2kzNzFBVmJ3bDk2M2dqOGEwZ0lJNUM2NEVoQUdUT0JlWl9HN2pOckNZUkRRbWtuNUlLS1A1TTVQSVV6QUJ5cGZDUjhHMmJJUzJpbEpGOFUtUWdlT3Q4bFlRLTYzM1JUaWlqeTNiM3dnLTFxVFVzUVA2dW5jOExIdnFSWVc3WDk0OW9NNUNf?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        },
         {
           "type": "indication",
           "name": "generic_cancer",
@@ -2196,49 +2156,62 @@
       ]
     },
     {
-      "id": "848590d60389",
-      "title": "De libido a colágeno: estética impulsiona uso de suplementos - iG Delas",
-      "published": "2026-06-02T20:23:00+00:00",
+      "id": "85e21af00cb2",
+      "title": "Pesquisadores encontram sinais de vida humana em floresta tropical 80 mil anos antes do recorde anterior - Revista Oeste",
+      "published": "2026-06-03T04:05:00+00:00",
       "sources": [
         {
-          "name": "iG Delas",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObzYxOU84dUFON0ZRMEQ1eEF2cFI5LUpFVFBVOEdnWTZWbWJYRmkwcWlkTU5LdXB6SEZ3S3FLNXdPUzFlblhVRXBFbDlqLXBrZVJxeFhLMjdQbGhyUkRKcE5Wc0U0ZEpsV2dQRTA5Y25CVmlkUThVT2xMM2xScWh0dUJDQkZHSEhsQjZoMk1NV2lYdEJPYWJDT0FMQTZ3VkNRbXfSAacBQVVfeXFMT1g1QzVlWjJsQ2w0dFlmX0pON25wWHhCWlkybTl0RWtwdWZRMzlRVnliV25Wclh0NDNVdGxjWV9zRU1ZbndnQlhsU1RvdDhRU1lEamd0SUNpTzZsWVV3Vi1RV25COFdvbUQ5VXRLd3VIaktwT1RxcndOM0kwZGdST0ViSDNwODVQRHA5YjZrd0FHbVU3R3k5d011bDcxRTJETE9XVnltSVU?oc=5"
+          "name": "Revista Oeste",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSG52aWxOdTRpaFBvUGo0Qm9qblR1QXYwMWo1VXJ0cTJvaC1uZEZ6SE9hOHR4dTFpUXg5ZzM4LVVCN3JlUXdySFc4U2lOSUIwbS0wdHlmR3NWTExaZjJYNGFZNVpOMDF6OHE4ZTJIRmRZWGxELUhKQTlKU1JYZXkyRkdwTGpDMWdKOFl3UlEzdDFCbDVaU1BZenBVdFN6OEUwQWhTUTZRdDNOSkRGY3F4akIzSXJJUkFFV1B5UkpyQ3Bja3NiYnh5ajR5dHlvS0VjMm5KNEwtempzN0FOR2RoUUozR0ZVMEk?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "drug",
-          "slug": "salbutamol",
-          "keyword": "AERO",
-          "name": "Salbutamol",
-          "url": "/drugs/salbutamol/"
+          "slug": "etodolaco",
+          "keyword": "DORE",
+          "name": "ETODOLACO",
+          "url": "/drugs/etodolaco/"
         }
       ]
     },
     {
-      "id": "3418b9b7e4c5",
-      "title": "Governo do Estado concede certificação de Amigo da Vacina a 431 municípios por resultados na imunização - Portal do Estado do Rio Grande do Sul",
-      "published": "2026-06-02T20:15:15+00:00",
+      "id": "2cdb146f1c80",
+      "title": "Um em cada três brasileiros convive com gordura no fígado; saiba o que comer - Diário do Centro do Mundo",
+      "published": "2026-06-03T01:13:44+00:00",
       "sources": [
         {
-          "name": "Portal do Estado do Rio Grande do Sul",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWm55R1dZckJnTnRyeFNDWGlkT2h3ZWMxck1scXIwSE1RcEZ6M3Rjby1fbEtXNFcxc3VuUy1hR0NYRkk1VUxBOHBGWGs3OTNsUFdsSVMxSmtaZlplVEpTTVAxZnkyMVFjZ3dyeFZNM1BYTDY3Zl8taVRjSWtFSlYwMHJKMFlMQzNJUEs1UjNYTkJycG1sTENHS2dJU2lVcG83dG5QSWk2U2hfZWI4SHU2OVRnSmIzYUc5S1VPcmtWWkY4bFBDcUVuRjhNc3k?oc=5"
+          "name": "Diário do Centro do Mundo",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdDVXa0tnTERPbVNON2drak5KN2dKY1p2bjFZVXJMSTFRek1NMzROLVZGUTFOS1NVZkZaNGtkc0xFQUZsMkI5b0xXLXgwSjBsUzdYSko1UVRIOElwQ3d5Y3VhZVQ3MWFhV0tPUFFvbnpxbEFMcW9HZ0R4b0trRVR4ejUwMmlSWHpWaExRNm1rSDNINlp0TnVyTUs3bWpuaUFHczVzVjZtOVB3VFdlOXloZW02dUxQb2x0R2FLWVZJQWFRR0JhbEE?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "drug",
-          "slug": "diazepam",
-          "keyword": "UNI",
-          "name": "Diazepam",
-          "url": "/drugs/diazepam/"
-        },
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
+      "id": "6687c3ac173d",
+      "title": "Microscópio identifica danos no cabelo após descoloração; veja imagens - CNN Brasil",
+      "published": "2026-06-03T00:45:27+00:00",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdWhkZkg5Q0VaSjRIR0NuRjFaLUdkbEdDSTJhT3poakxRdGlrZEUwMTJCTDg1Wkkya2VVNE1BMktvUy1ya0E1NmtoQU91bHp4UEZFNmN3SEJuT0s1bXhxdy16RkJCejRxN2FkYUJ6aVpRQ202dU11eXJ4UVhIWlVTQ1RDb0ZnVF9NM3NuN3RmLXRaaEZaa2k1VlJkZnZlaS1hSEVqUDhYbjloMDBKUGVF?oc=5"
+        }
+      ],
+      "keywords": [
         {
           "type": "drug",
-          "slug": "zinc",
-          "keyword": "UNI",
-          "name": "ZINC",
-          "url": "/drugs/zinc/"
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
         }
       ]
     },
@@ -2273,60 +2246,6 @@
           "keyword": "DECI",
           "name": "DECITABINA",
           "url": "/drugs/decitabina/"
-        }
-      ]
-    },
-    {
-      "id": "617db0b9554b",
-      "title": "Especialistas avaliam se existe possibilidade de pandemia de ebola - O Dia",
-      "published": "2026-06-02T16:05:00+00:00",
-      "sources": [
-        {
-          "name": "O Dia",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbGc2aGNMWk16RTBXd3lHN0cxQUYtZjVRdEZhM0o4bFdCSUhTczFJdUlqdlZNbEFHbXEzdXd0WTBXem1HeE1tYkpiTmhiZ0pJa0Y4ZEJtM1VWYTFiMlhqX2k5RUFQMUR4b0N6Q01iWDFBcm9WQVhLVnpjYndWT3NJZklwNDBwMWJnbVEtYTlVbTJCWGRJVGg3aVp5UnE2Sm1GS3Z6QzgtbERJYkxhRWROeW1KNzZaTHFLVU5VdmVlSkdaX2ZWby1XTXhLbHnSAdIBQVVfeXFMT192TE5HaG4yZldzX3FlNXl3c3FnVTlDSDVFcGpTUVJkOU9GWWVndFVZSGE5d29ycmxaSGtDM0VSVWdMQUNGVVJaQnI4VFZMRm1LbHhabXpKa1N1eEFlaFV2Nkh0LXBkSk4xTmYzcTY5Z2NDeC1fWU15NW1wbVZaVHZLZGtvTXN5dTNpSzVXN1VFZWpUdW12MTFuUHl1eFV6a1E1ZC1lckIycHZTUVVEeWVYc3p2WFh5akxCVnphdTFtdUVKUWlFbUltRlF1RXFvcjZ3?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "levetiracetam",
-          "keyword": "TAM",
-          "name": "LEVETIRACETAM",
-          "url": "/drugs/levetiracetam/"
-        },
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        },
-        {
-          "type": "drug",
-          "slug": "tadalafil",
-          "keyword": "CIALIS",
-          "name": "TADALAFIL",
-          "url": "/drugs/tadalafil/"
-        }
-      ]
-    },
-    {
-      "id": "49ec3a3c259d",
-      "title": "Em 2046, a humanidade chegou a Marte numa sexta-feira - Fast Company Brasil",
-      "published": "2026-06-02T14:59:11+00:00",
-      "sources": [
-        {
-          "name": "Fast Company Brasil",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdkRTd1VUckFkM2NKMVdieUp4TmJhX01Yc2RGZW1pMm5zNFFUejZzUGNzd0M0ZXRhd05ZQnV5dW14M2pGMmhtUG5henRCNE9uamE3MHlkMGZHUjJ4NTN5TWpFTE5TTGRVcDRUOHZfSUpoZEtpLXdOZkJtV19UTDJvNzBPNG1SX2lNeGRIVm8weFpfeVNl?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
         }
       ]
     }
