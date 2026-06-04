@@ -1,7 +1,100 @@
 {
-  "generated": "2026-06-04T04:15:56.986846+00:00",
-  "count": 30,
+  "generated": "2026-06-04T10:01:43.938161+00:00",
+  "count": 31,
   "news": [
+    {
+      "id": "ea36b1168592",
+      "title": "Desconhecidos do homem, aranha fluorescente e grilo são achados na África - CNN Brasil",
+      "published": "2026-06-04T06:34:34+00:00",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUGJxamlJZ3I2R1E2RjI5YVlRWm5ZODROQk1uS3puUENLVmRDMDlJMEVSV3VwcjVLUGcxWFppcTdPY3d0R19mYWkwdGlENmlweENLLUdRVUFqQ01ZUk1zTlJ4OEgyQjNhMmY4TnFvR3cxSTllQWlsQzBWNEphWGF1emZENjZNUGpUMVRPRTNtNjRlMEtjTlZSckkzZXd6OWs3cEZyeGNQS0pUdXlnNUlJ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
+      "id": "375d47d74769",
+      "title": "Nova vacina pneumocócica 20 começa a ser disponibilizada no SUS para crianças — Ministério da Saúde",
+      "published": "2026-06-03T21:51:02+00:00",
+      "sources": [
+        {
+          "name": "GOV.BR",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPT2otY2ZCQ0s5VFpEaE9HZ2lPLTZaVE8xUWRBTEpPQThQRmhRbnFRNTVDN0pJNDV1SV9sUzNUM0J6cllVWEFPUVhheFdXX3JnVnNiU2pKOVFaSVFYUEM3ZVlfQURWZThHWDcyem9ncUx1YzRVYnJlTmpTY2l6MmxhQWF1QWFDVm45ZDRrZmE3VHRFOHByd0NCWXVhdURzanFremlESHBJU2hBbjg3bzhQMlREVngwNUxqQW43WXpVQ2JVOHp2UjNVUFowX2YwQTlFWXV3?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "diazepam",
+          "keyword": "UNI",
+          "name": "Diazepam",
+          "url": "/drugs/diazepam/"
+        },
+        {
+          "type": "drug",
+          "slug": "zinc",
+          "keyword": "UNI",
+          "name": "ZINC",
+          "url": "/drugs/zinc/"
+        },
+        {
+          "type": "indication",
+          "name": "pneumonia",
+          "keyword": "pneumonia",
+          "related_drugs": [
+            {
+              "slug": "ganciclovir",
+              "name": "Ganciclovir"
+            },
+            {
+              "slug": "clobutinol",
+              "name": "Clobutinol"
+            },
+            {
+              "slug": "tazobactam",
+              "name": "Tazobactam"
+            },
+            {
+              "slug": "oseltamivir",
+              "name": "Oseltamivir"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "infecção pulmonar",
+          "keyword": "pneumonia",
+          "related_drugs": [
+            {
+              "slug": "ganciclovir",
+              "name": "Ganciclovir"
+            },
+            {
+              "slug": "clobutinol",
+              "name": "Clobutinol"
+            },
+            {
+              "slug": "tazobactam",
+              "name": "Tazobactam"
+            },
+            {
+              "slug": "oseltamivir",
+              "name": "Oseltamivir"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "6f9c5e905ab4",
       "title": "Estudantes da ETI Daniel Batista conquistam oito premiações na maior olimpíada de matemática do mundo - Prefeitura de Palmas.",
@@ -23,33 +116,13 @@
       ]
     },
     {
-      "id": "879c13d64dde",
-      "title": "Maior que qualquer foguete já lançado, o Sea Dragon foi projetado para sair do oceano como um arranha-céu em chamas, com 150 metros de altura, 23 metros de diâmetro e mais de 15 mil toneladas: o monstro da Aerojet colocaria 550 toneladas em órbita - CPG Click Petróleo e Gás",
-      "published": "2026-06-03T19:12:00+00:00",
+      "id": "40a618e8acf2",
+      "title": "O que fazer para evitar o reganho de peso depois do emagrecimento - Portal Drauzio Varella",
+      "published": "2026-06-03T20:04:51+00:00",
       "sources": [
         {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQeV9IZGQ3YXljSHpyWWFhSnc2ak5zQzEwWjhCZHlGRFl1bkN4c0puN0NuZXlMMDBWYmlCR2IzTDJZZ1ozT3Q1WVZQb0NzSmExSi1vclpTWXNqeEFMVFBBRTE4TVpGWW02eXRYbUZ6WGFLSkhMY2VtVnNSelJHMWZ4VVduZjhrMzBWN0JvcUhIc2I1ZVVFekZCc0JQWkthLVhFaThoeTRWd2RHUmdoZ19JZnFPejljNkZmZlFJeG9GUGt5MUdkdF8zekh2aHJLcWdvY2lWbnp1SmUtZ3pneU9RTU1Qb2FLRmtSMGl3ZFNDc2htUWJuNWwwVWwzNDlhazZfM1VpSGpVeFdIVTA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "salbutamol",
-          "keyword": "AERO",
-          "name": "Salbutamol",
-          "url": "/drugs/salbutamol/"
-        }
-      ]
-    },
-    {
-      "id": "ae4325e71245",
-      "title": "Opinião - Sérgio Rodrigues: O português, o brasileiro e o divã - Folha de S.Paulo",
-      "published": "2026-06-03T17:50:00+00:00",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTDZQdll0aDJmQ2g5R1g5eXNRUU1VSHNtMlktOXpvaVNnNDhYMm8xZTI0UkRKMXI1MXJ5Skg1TjlzM2xRRlZaZjRnQTlFRlJQYllRSHRISVNiU0E0SUdVQVptSG9DODM2VjJrb3k2MF9pTUJEclhKZnNsOW1RZWZsQVR6ajc5LWhyX0tSeklQSklndWxyaTZ6a3lLR2FMclo3UkFUQw?oc=5"
+          "name": "Portal Drauzio Varella",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYnk3N3JyWlgyV3B0bGZOVWhNbTMtdzBfZ0M2RExkTzBNcEJ3Z1NOXzZ0U1RvYm4wWG9NeW9BdGdZak9RNkFodWtVX2VScENCZVpYdEE3WmF3THo0S1hnLWU4RnpMVHRSRWtlZGlxeFRuWkNCVktOTDdxc09zSXREMFdQOGN4bEZNaW4zMGxBVlNrTVFqM3N3RVRXcmRlTWpZSjEzZ0VTSzZDdjZIQVFBN0RhWmtUQQ?oc=5"
         }
       ],
       "keywords": [
@@ -130,6 +203,26 @@
       ]
     },
     {
+      "id": "8425ef6a7e6b",
+      "title": "Fazendeiro deixou 5 cabeças de gado em uma ilha e 'mágica' aconteceu: rebanho virou 2.000 animais em 130 anos, sobreviveu isolado em território vulcânico de 55 km² e desenvolveu comportamento selvagem revelado pela genética - CPG Click Petróleo e Gás",
+      "published": "2026-06-03T16:59:00+00:00",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPRkRuTGhUb1lYSHV3LWJrbkVWSThfd1h1TUdxSHpkYWlRX2VTc19QS0FITlprNHgxYWJwQmJ5V0IwV2VDRFIyc3AxeThDSWR4OUhBRG9sVFRRTHFxQXB1b0J1SWtqVmk0UGxUZkw3QlBqQ3lTdUZSTzNKb2VmbjFMMjl3Qm81Vi00QkIxLWhqbzJ1VF9jRGQ4Z25wTlZxWTRLVXFTbmFZUWVqWjY1b0pybG9jVzQzdmU3Ymd1eFRwd3NoQWotMm5qYld1bWpKRkE3NC14SS1NaDl1OHU5MDFCSWpRbzkyWjEwUDJsem5jMHI4OHhSQUJTamdFa2szMVBVOFdyb0tobjFrbU84dEhhSWZfVzVMQzBGN3VsdGx1WVBOQ2tDd3VJR2RtUG9yOWVGVmtBUVZFdXBaVWRtOVJrelhnNzZsNEU?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "levetiracetam",
+          "keyword": "TAM",
+          "name": "LEVETIRACETAM",
+          "url": "/drugs/levetiracetam/"
+        }
+      ]
+    },
+    {
       "id": "ab58258f616a",
       "title": "Pílula para diabetes faz músculo queimar gordura e desafia Ozempic - Correio Braziliense",
       "published": "2026-06-03T16:44:00+00:00",
@@ -161,6 +254,26 @@
           "name": "ETANERCEPTE",
           "url": "/drugs/etanercepte/"
         },
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
+      "id": "7231cd772795",
+      "title": "Cientistas descobrem exoplanetas com campo magnético fora do sistema solar - CNN Brasil",
+      "published": "2026-06-03T14:59:31+00:00",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSEU0MzFZb29DQXZMNm9hbUVkTl9RRUVMcVA0emQtdnY1cUdfYWVCaEtQV09WSGZuZTZJTDVFOHhTNTFSWTNqVGFkeW83OUtGOUR2UHRQZ21kbGcxeFhNaURBVElZamREdGdhWTVCa3VFVUprcTJQVUNuSnRDUVl3NTEzLURMN05Na1hMUm9XanNrWHJZekJDemx2R1ptMDhYSXBvaUZrbEJfdXctdlpPalF3?oc=5"
+        }
+      ],
+      "keywords": [
         {
           "type": "drug",
           "slug": "silodosina",
@@ -305,13 +418,13 @@
       ]
     },
     {
-      "id": "25e29d2b02cb",
-      "title": "Estudo mostra que 25% dos brasileiros não sabem sobre prevenção do câncer - CNN Brasil",
-      "published": "2026-06-03T12:01:06+00:00",
+      "id": "7765898577c3",
+      "title": "Brasileiro ainda vê câncer como destino, e não como doença evitável, mostra pesquisa - Folha de S.Paulo",
+      "published": "2026-06-03T12:00:00+00:00",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRVVDVjhDeXhaN2JlSjRzTVoyNlVyYXREcHVJcnotNk5udVV2QU5GQ2tDelJOdzJDaFQ3TFBfaHpzTjBOQVdTT1lkeGJtcnhINHdkeFFwT0pybDhpNmxVSmpIREdKbjFoNmFsRzFoZVVHdXZ4akh5NVlaS2lfVWRuMGg0aEhzU3dWdE9penVqTXNwdko4SmVBQXJpb0UyU2xOb3YwLVRUb05fTE4w?oc=5"
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRnhVQmFMTnJrUG5DbmtneHA0MHZGWTFSWG54c3NxR3RrWk5Cdnd1NFpqN1dFWXRYc05zWE9BNHpjWnRWTGRaME9xcjYxQkwwVnZUZTRZQVBGcUhXcWNqdVV5eC1NdGJBNlFrcEZnTHQwb1BGV3NBb3ItTjRzclJfOV8wQ203cEtYcFRQQ3IwZ29LUG83X2tFY1Z0TFo2TzRhZ2hkWFY1QTNfMWhsSGR1UmlFc2pxVl9PSVlHRTVIdzg4cUM4aFNUcXhFR2UxY1FnY3UwSmVIbFRiS28?oc=5"
         }
       ],
       "keywords": [
@@ -760,33 +873,6 @@
           "keyword": "DECI",
           "name": "DECITABINA",
           "url": "/drugs/decitabina/"
-        }
-      ]
-    },
-    {
-      "id": "99091bc68541",
-      "title": "Homem de Gelo: cientistas descobrem micróbios vivos em múmia de 5.300 anos; saiba o que achado significa na medicina - O Globo",
-      "published": "2026-06-03T07:30:37+00:00",
-      "sources": [
-        {
-          "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVGNPdVVTUFZyVXNIdWVwZWQ2anNEQV9sUTVLRzNlNlpFMWQ1SlF0LXYxZ2ZJV3IxSVlJb1VDYzZ3Z00zd0VoRUlfY3dKVXpaQkJDTms0b09LczNUV1U4MnVoYkt0cFJ0Wjd1X0xxekR1bEFWX1Zib2JicmlNVUdmZzRNSVVLampRMGlFX2lvVlZoc29yLUhZY2VyWmdyOHR5R1NVX0RjekFxZEYwVWhQVzlHRW1zRXFheHdvUEh1UzB1TUxDT0ZvQTZZS1FKYmtsZE1NdG1DMUk2R2pidXlHamQ2YlB3dkdwN2o5YmJn?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "golimumabe",
-          "keyword": "BIO",
-          "name": "GOLIMUMABE",
-          "url": "/drugs/golimumabe/"
-        },
-        {
-          "type": "drug",
-          "slug": "etanercepte",
-          "keyword": "BIO",
-          "name": "ETANERCEPTE",
-          "url": "/drugs/etanercepte/"
         }
       ]
     },
@@ -1624,6 +1710,26 @@
       ]
     },
     {
+      "id": "85e21af00cb2",
+      "title": "Pesquisadores encontram sinais de vida humana em floresta tropical 80 mil anos antes do recorde anterior - Revista Oeste",
+      "published": "2026-06-03T04:05:00+00:00",
+      "sources": [
+        {
+          "name": "Revista Oeste",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSG52aWxOdTRpaFBvUGo0Qm9qblR1QXYwMWo1VXJ0cTJvaC1uZEZ6SE9hOHR4dTFpUXg5ZzM4LVVCN3JlUXdySFc4U2lOSUIwbS0wdHlmR3NWTExaZjJYNGFZNVpOMDF6OHE4ZTJIRmRZWGxELUhKQTlKU1JYZXkyRkdwTGpDMWdKOFl3UlEzdDFCbDVaU1BZenBVdFN6OEUwQWhTUTZRdDNOSkRGY3F4akIzSXJJUkFFV1B5UkpyQ3Bja3NiYnh5ajR5dHlvS0VjMm5KNEwtempzN0FOR2RoUUozR0ZVMEk?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "etodolaco",
+          "keyword": "DORE",
+          "name": "ETODOLACO",
+          "url": "/drugs/etodolaco/"
+        }
+      ]
+    },
+    {
       "id": "2cdb146f1c80",
       "title": "Um em cada três brasileiros convive com gordura no fígado; saiba o que comer - Diário do Centro do Mundo",
       "published": "2026-06-03T01:13:44+00:00",
@@ -1640,79 +1746,6 @@
           "keyword": "SIL",
           "name": "SILODOSINA",
           "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
-      "id": "9dfb9dde11c0",
-      "title": "SUS oferece vacina Pneumo 20; veja quem pode receber a dose - Folha Vitória",
-      "published": "2026-06-03T00:53:47+00:00",
-      "sources": [
-        {
-          "name": "Folha Vitória",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQckR4RHFtekEzcGNMbkw1MlJ5SmFIY0dSVExNc1BRc3A0QjdfLU5HZUc4TGtFVEs2Um9HWTQ3alk2TkxuSGJTYTViNDBMQl9FY2lrUW5oeGJLMFBicUhsc0RoVkh3aHpzQ0dJNE8wVmVBS2FLWExDUnhiY2N0TVBnMmRHeUh2dEszTzg0c2dvZFBWUXYtN05OQWxvXzFOQmp3elAtXy1BWnhEeHhoRnlZSzAwU252dw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "diazepam",
-          "keyword": "UNI",
-          "name": "Diazepam",
-          "url": "/drugs/diazepam/"
-        },
-        {
-          "type": "drug",
-          "slug": "zinc",
-          "keyword": "UNI",
-          "name": "ZINC",
-          "url": "/drugs/zinc/"
-        },
-        {
-          "type": "indication",
-          "name": "pneumonia",
-          "keyword": "pneumonia",
-          "related_drugs": [
-            {
-              "slug": "ganciclovir",
-              "name": "Ganciclovir"
-            },
-            {
-              "slug": "clobutinol",
-              "name": "Clobutinol"
-            },
-            {
-              "slug": "tazobactam",
-              "name": "Tazobactam"
-            },
-            {
-              "slug": "oseltamivir",
-              "name": "Oseltamivir"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "infecção pulmonar",
-          "keyword": "pneumonia",
-          "related_drugs": [
-            {
-              "slug": "ganciclovir",
-              "name": "Ganciclovir"
-            },
-            {
-              "slug": "clobutinol",
-              "name": "Clobutinol"
-            },
-            {
-              "slug": "tazobactam",
-              "name": "Tazobactam"
-            },
-            {
-              "slug": "oseltamivir",
-              "name": "Oseltamivir"
-            }
-          ]
         }
       ]
     },
@@ -1737,22 +1770,49 @@
       ]
     },
     {
-      "id": "9630cc7c51a0",
-      "title": "Nova pílula contra o câncer de pâncreas leva médicos às lágrimas - Correio Braziliense",
-      "published": "2026-06-02T21:21:00+00:00",
+      "id": "991a5aa1985c",
+      "title": "Grupo Camera agrega fabricação de glicerina refinada à produção de biodiesel em Ijuí - Jornal do Comércio",
+      "published": "2026-06-02T21:01:14+00:00",
       "sources": [
         {
-          "name": "Correio Braziliense",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNODJBRTZ6UjUxZWFCVnMzbF9wU3lwN2pPeXRfNTFydm1HQWtPbVZjaG53NVBRcEJMZG5HZ3Ixb183NENJU0hFY2dXR2tzVEU1eTBZOHhIS1RXRkM4WWMwTnYxSEs5SVM3LUxyeU5LcGJ2aTREb2tHRHFyd0VNZGZOcjl0bEdMRWZ0eGFRNXlhZ2F0NUZYREpQRWJ3V3lQTnhUcldoY0NINGlpZnZtZUxabVl2M05uU2FuUF9kSzh3elhDYzBwSU5SUzNMTXZlU1lfOWtQMGxn0gHbAUFVX3lxTFB4cEJocjBxa2tNdzR1TE1aeTJWeVo5Um9xV1dDZDZHX2MzWXdnellNYTltLTJDNU93MkxWRjNyQkJmR1BpZ3pOcXB2bzZBVU1yaDZzX29RclNUX2ozX2hvRUxqWDRnYWJ1Y1IyTWtjYzkxV1NNTmhzenU1TUhKbzBpQnphT3hNbkFwZ0dhTWZDVFM0MEZsa0VNejZUUnhLY1M0ODk0M2pudjdzeEFDVEd4LW1nMnFGUDR4R0VYQm90V0I4c2RpQzFuSmlnejhLbU4wWXNYMFd0N1Fzdw?oc=5"
+          "name": "Jornal do Comércio",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNMURVSHY1QzJtNmlycWxiQ2JZdHNSNjFXczF2RTFoVV9GLWEzdzBlZVJ3SGtna1VXOERrZjZhaERPMEVNcHdkaUtOb0ZRNGJ2bGYxYmZULVBKdUVNaktNWGt1OS0tRF9ENjFWVlk3MVIycDQzQS1raGVTblA2N3ZyYU1VOVpBNERhRi1tTjlBUlJ3ZF85RElVTTVUVzNjejA3anZKR3hwa0FUQTdnT1pqSFd0d241cUpNLWwzNWVpTkdnc2JMelZOeFhCS00xWUlQYWVyYnFmZ3E1MFFCdUt0LW53R1NHaDlMdUYteklKVTA2dUtrRGJodTR3?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "drug",
-          "slug": "levetiracetam",
-          "keyword": "TAM",
-          "name": "LEVETIRACETAM",
-          "url": "/drugs/levetiracetam/"
+          "slug": "golimumabe",
+          "keyword": "BIO",
+          "name": "GOLIMUMABE",
+          "url": "/drugs/golimumabe/"
+        },
+        {
+          "type": "drug",
+          "slug": "etanercepte",
+          "keyword": "BIO",
+          "name": "ETANERCEPTE",
+          "url": "/drugs/etanercepte/"
+        }
+      ]
+    },
+    {
+      "id": "ca0012f2260b",
+      "title": "Novo medicamento dobra sobrevida no câncer de pâncreas avançado - CNN Brasil",
+      "published": "2026-06-02T20:26:22+00:00",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUGpRd1hhYlhFNUY4bmZhV2NMZ2kzNzFBVmJ3bDk2M2dqOGEwZ0lJNUM2NEVoQUdUT0JlWl9HN2pOckNZUkRRbWtuNUlLS1A1TTVQSVV6QUJ5cGZDUjhHMmJJUzJpbEpGOFUtUWdlT3Q4bFlRLTYzM1JUaWlqeTNiM3dnLTFxVFVzUVA2dW5jOExIdnFSWVc3WDk0OW9NNUNf?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
         },
         {
           "type": "indication",
@@ -2136,33 +2196,6 @@
       ]
     },
     {
-      "id": "991a5aa1985c",
-      "title": "Grupo Camera agrega fabricação de glicerina refinada à produção de biodiesel em Ijuí - Jornal do Comércio",
-      "published": "2026-06-02T21:01:14+00:00",
-      "sources": [
-        {
-          "name": "Jornal do Comércio",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNMURVSHY1QzJtNmlycWxiQ2JZdHNSNjFXczF2RTFoVV9GLWEzdzBlZVJ3SGtna1VXOERrZjZhaERPMEVNcHdkaUtOb0ZRNGJ2bGYxYmZULVBKdUVNaktNWGt1OS0tRF9ENjFWVlk3MVIycDQzQS1raGVTblA2N3ZyYU1VOVpBNERhRi1tTjlBUlJ3ZF85RElVTTVUVzNjejA3anZKR3hwa0FUQTdnT1pqSFd0d241cUpNLWwzNWVpTkdnc2JMelZOeFhCS00xWUlQYWVyYnFmZ3E1MFFCdUt0LW53R1NHaDlMdUYteklKVTA2dUtrRGJodTR3?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "golimumabe",
-          "keyword": "BIO",
-          "name": "GOLIMUMABE",
-          "url": "/drugs/golimumabe/"
-        },
-        {
-          "type": "drug",
-          "slug": "etanercepte",
-          "keyword": "BIO",
-          "name": "ETANERCEPTE",
-          "url": "/drugs/etanercepte/"
-        }
-      ]
-    },
-    {
       "id": "848590d60389",
       "title": "De libido a colágeno: estética impulsiona uso de suplementos - iG Delas",
       "published": "2026-06-02T20:23:00+00:00",
@@ -2294,26 +2327,6 @@
           "keyword": "SIL",
           "name": "SILODOSINA",
           "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
-      "id": "a8cf329c7aee",
-      "title": "Cobra invasora aprendeu a nadar e acelera risco de extinção de lagarto símbolo de Ibiza, alertam cientistas - O Globo",
-      "published": "2026-06-02T07:02:18+00:00",
-      "sources": [
-        {
-          "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNeEY3N1p4aWY2YkdJVU81WkdhaGxkSUZsSGgwOXNIRm9tVGt0Y3lmT0huSzFlUldrOEpLRkhneXI3Z1g1MmdZMmFRck05WWVTUDYtbEdjOUVncUdSdUtOT1RhVmljLTY4X1pNbkJhaE1mZC1HQlBEeUNkWWlreXZFa1RqajZwWXp3M01NcnkwcjFQcUtWZl9KMElGMXNsZ25mc0JLbFJWRjVYbzhaZTRGNjBodXNidkxrWHR0STVYLTBMeEdxYnJiWWUtWjlzWnJzWDM0Nmo3Vk1PbVpEUkxrS3BXRmdpMW95c2pMam9ZMGdlay1FdWNLdHFZQWFhMzVtWllySVdQb1dOUdIBmAJBVV95cUxPcmFLLXp5eDNSNmlES2NHWmJiMHdNRGhrbUxxUHdiSzU5T3NFeElSV2hPaWlMU1lIcW11WmhWUzlNelJIeXhPei1NV05wWU4tM2t2M1NKWmJSUXY1OUMxOHRiU2lfRGxoaElRcWJmdS1xT0JUQTBscE55dmR6YzhraEhUdlc2YXFHQ1pUNWNmRmlfTGZNX2J2VHNsMjRGSmZzNTJWNWRyeE5HVkpMVlZBdDJxMEcxMWxva1hmSmo3TmJuR3VJMzlHVVdWVmM0aFJiTnF1akhwR2NJcFVETjlJeGw5dC1NT2ZHVVd1R1hPaWgtNVFoTmZYSXRHNnZXcFRYcFZseF9pU2JfbUx0dkkzTG9fdHFEV0FS?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "levetiracetam",
-          "keyword": "TAM",
-          "name": "LEVETIRACETAM",
-          "url": "/drugs/levetiracetam/"
         }
       ]
     }
