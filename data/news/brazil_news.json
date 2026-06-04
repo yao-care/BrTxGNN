@@ -1,14 +1,38 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-06-03T20:57:39.347111+00:00",
+  "fetched_at": "2026-06-04T04:15:55.458056+00:00",
   "total_fetched": 86,
   "unique_count": 86,
-  "health_related_count": 38,
+  "health_related_count": 33,
   "news": [
+    {
+      "id": "4209665daab0",
+      "title": "Pesquisa da Unemat em Alta Floresta desenvolve inseticida natural contra praga que ameaça lavouras - Só Notícias",
+      "published": "2026-06-03T21:01:00+00:00",
+      "summary": "Pesquisa da Unemat em Alta Floresta desenvolve inseticida natural contra praga que ameaça lavouras&nbsp;&nbsp;Só Notícias",
+      "sources": [
+        {
+          "name": "Só Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRFlrSW5XTmExeEZHajE2SEFxXzN0cHQ4SkFrWlh4c2ZCeHoxck1tdlNITy01ODhIWUNiSjVXV3JmTDk1b240RWtHeWlVbVlJUVlTU2JybHFCOWxWcThQZ1M5LVViekdBM3kwblFZWVdTMTBJWmJvMlg4bXd1SDBzSEdOR0hMTUcxZTNfYzF5dWJETWQ3Y2xvNmtNb09MSVp1dEJVSm5TTHE0aUlUaVNCZ2VYcTFIMXlId21CNkJzMVQ0d2I0RlNXS2ItZnNNNC1PcTh1YjJaNndvZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c8a1ccd1b518",
+      "title": "Pseudomonas aeruginosa: quais os riscos da bactéria encontrada em lote de água Crystal - Tribuna do Norte",
+      "published": "2026-06-03T20:46:17+00:00",
+      "summary": "Pseudomonas aeruginosa: quais os riscos da bactéria encontrada em lote de água Crystal&nbsp;&nbsp;Tribuna do Norte",
+      "sources": [
+        {
+          "name": "Tribuna do Norte",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUEh1MUlxOVRGSFkzUmJUdG5sTFNrRHFCd0gyVUJGcFQwa0dUYm5uWUh4MVc1WUYtZ3paVldGVFN2YWpPdjdSc1lZc0drRVJ3WWtzLUVwbzhsSHFROHROVUJzc1RSYllLRUtxdV95eG1lRVgyQ0c3OWxmeUVSY0JaRmJRMjFwclRsYWxRMHVmbDJKVUZMMHQ0X19TNE0ybnpPVERDb0FlUkNmM2JWY3M2Rm1jemRjRkY0eFdIanpLemY?oc=5"
+        }
+      ]
+    },
     {
       "id": "c84696eab023",
       "title": "Novo estudo sugere que bactéria intestinal pode prevenir o reganho do peso - UOL",
-      "published": "2026-06-03T18:59:56+00:00",
+      "published": "2026-06-03T19:27:33+00:00",
       "summary": "Novo estudo sugere que bactéria intestinal pode prevenir o reganho do peso&nbsp;&nbsp;UOL",
       "sources": [
         {
@@ -18,14 +42,26 @@
       ]
     },
     {
-      "id": "f93e7ad59dbb",
-      "title": "Pseudomonas aeruginosa: bactéria dos casos Ypê e Crystal sobrevive com escudo químico, fortaleza de guerra e bomba de expulsão; entenda - G1",
-      "published": "2026-06-03T14:25:09+00:00",
-      "summary": "Pseudomonas aeruginosa: bactéria dos casos Ypê e Crystal sobrevive com escudo químico, fortaleza de guerra e bomba de expulsão; entenda&nbsp;&nbsp;G1",
+      "id": "92d1cae871c9",
+      "title": "Descoberta de um projeto com peso superior a 6.000 toneladas no meio de áreas montanhosas remotas, tão alto quanto um edifício de 35 andares, com previsão de operação a partir de 2028 - O Antagonista",
+      "published": "2026-06-03T19:23:00+00:00",
+      "summary": "Descoberta de um projeto com peso superior a 6.000 toneladas no meio de áreas montanhosas remotas, tão alto quanto um edifício de 35 andares, com previsão de operação a partir de 2028&nbsp;&nbsp;O Antagonista",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNUmx5TDV0Y2F6dHAyVWJ3Y2NCeHFZTWVrb0w4YXFiVTNOS0I5V09RbGpNT2llak5SRWkyXy1GWUZRdGlYTDRIRF91di15TzRfM3psNUlDRW00eWJXaUE2UVZXZ04yNzA4c3BtZEJ0TzZyU01hYTFYT3BNMFZPNjR4SUZhWHVzMFBSSWRwZkVPNXpBNHA1OURtMGJoaExVV2lHVXVxTEdidjVWclpHTXpqTkIyTlBONzBrdmtTaHc1RTF4M1RRQlY1UVAyU3B5YmNCdmNKWFpvZGhHUzFMdk8ycDhhUDltRkk2ZlB1OGVzVGk2VGRVQ2ZjUkw3UDdYLTQxSGhfLUc3Z2NtRm1kWFU2UlE5d1FvUdIBpAJBVV95cUxPblpNMWpBVklQWXFCWWg4V2JvUHZjNElzazhNNTd5aVFPM2paZEtXSmdWZzRtRy1hSWJJOTVfNGppQUkxcTFPOXZtOHBsZWtDSUZyUVhwa0I3dlFTUkZEZ3k3MC0tMVRYeHdxbWVBWHFiYjduLWFnbjRXc3JzNTlDb1VyWS14enNvSElpTXVydko0MWRqcmtHZlB4WjFqWGl2UXRMN0FENmNTQVNDRS1fTUlfa0FhNDdHYU96V19SVFhyS183Ym1rcklmSDNraFU0QXJYc3FNUHR1eXJyVU00Z0hFN0tDZ1B0Q0FmMlF5UDYxTEhJRGtqczlRZF80dkFlcjN5X0xLdTQ2NzZQNmdfR2NfT2M1UmRuSmc0bXZtWDVRNm04?oc=5"
+          "name": "O Antagonista",
+          "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNSjVjcVhDOHQ4RURZcktVd2M0MWk0VTNLYzAwQjBmUFY4QnpXSkR4TWJJTHVGSXpvb2VwYmlEazZuQXRSaEJHLUNIN0FOUThkWGJ2VHpNSDBDQXBYeEFtYVFUaUJ0RER2MWV5bjljUC1EVFFaZjFGc3hfY2FGQnZOd3VFbUZNNEdMaFdzV3A3d01iWTNHbUEyR3pJMkRJZUVydTh5LUduYjlfOXNxbTNTWUpocFdrN1hqNGZPRS1FdDVURlB3V2RGbnpEMGJHY0tyYnN4U0pVaU8zYzE5RmUtMm00MlRvWUpHeW0tWThvWEU1MmRIQWZJWTB0dUpabkpFUVBYb0g3ZFFKS3R3TUFMUk1OdmE2ak5qX1M1WnpGRTVJSjVPRVI5cXBOaGJpdVI0SExUdl9SNExzSUZK?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ab58258f616a",
+      "title": "Pílula para diabetes faz músculo queimar gordura e desafia Ozempic - Correio Braziliense",
+      "published": "2026-06-03T16:44:00+00:00",
+      "summary": "Pílula para diabetes faz músculo queimar gordura e desafia Ozempic&nbsp;&nbsp;Correio BrazilienseAgonista duplo inédito de glucagon/GLP‑1, a survodutida, alcança perda de peso significativa de 16,6% e promove melhora metabólica relevante em pessoas com obesidade ou sobrepeso em estudo de Fase III&nbsp;&nbsp;Biored BrasilAfinal, parar o Ozempic não significa recuperar todo o peso perdido, diz estudo&nbsp;&nbsp;PplwareCientistas suecos desenvolvem pílula para diabetes que ativa metabolismo e queim",
+      "sources": [
+        {
+          "name": "Correio Braziliense",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYlA0OFN1SEIyN0lsZDFjeUhHRnQ2WExscC0xc0U5R2l6MjIyYklGVGlLUTdvQ2FYVjhWa2RMbi1WSmpGdFVXOEhPOGZGOVBzWmhIdk1rODlwYmNYcjVPLWRLQWZaRldqbFZWbkZPSXRvSzBzMTJ0dG94T3IwMjU4bzJqb28yZUJPZXJIVE1aSERDd2hDYUlnRzgwWWZ0cmtYcVFRbm05ZXFJaWl1dDUzb0lDS3BlclR0S3pQUzgwS1pnLTVVTlR1OHRpdkZtdUluQUo1UVNoUlLSAd4BQVVfeXFMT2xHdDZuNnhjbW51bXdlTHd4RWFDYnpHUUxEOTNPNzhhNmd3UkhBN1lsYWlfVzVqWUZ1b09GVWVlaXdQR3NFRDN4RTFjeFl4bWhEdS1CYmsxVVM1WWtJWExWSEVCb2xLaUlzWExuTElLR2VoSGloU2cwMF91dW1waE0zM3RvY2E3czFIRnpHSnZ0RnRuUmNVSnNkV3N4YlVSYmw4QTB6SHhIZURJQVB0VGh2bjd4WEI4ZFRKV0ZobExrTGZaWGxnYzh4NTNiWXlOeHQ0YzluSlhPb3JlLVNB?oc=5"
         }
       ]
     },
@@ -66,6 +102,18 @@
       ]
     },
     {
+      "id": "8b026e7d7053",
+      "title": "Tirzepatida com anabolizantes: riscos graves à saúde - Campo Grande News",
+      "published": "2026-06-03T12:50:00+00:00",
+      "summary": "Tirzepatida com anabolizantes: riscos graves à saúde&nbsp;&nbsp;Campo Grande News“Perdi cabelo para emagrecer”: o efeito colateral mais temido das canetas emagrecedoras&nbsp;&nbsp;A TribunaMounjaro: a revolução que está a mudar a forma como emagrecemos&nbsp;&nbsp;Visão",
+      "sources": [
+        {
+          "name": "Campo Grande News",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd1gxMS1QUThnSExqSHlfLVl6YTRwN0ZDQ1ZGYVNNdTlMNFVDOXVTNzhJdkQtNktFWEJNRURHTHdpU2szR3FvRUJnX2M1aFpkQzJiUGFnUmVSNnZ2RF9lb19IOGpWR3FiWUNlU1VncUl0ajVSVm1jU0R6NXNYZ1haZUpRU0VWUExaOWhIQTlPbXhub2x6cXBjNVpWOW1zS2d3N2hSNG91OTVqRkVUM3FZcERqUnJIdnlRSlpUWDU3N2rSAcABQVVfeXFMUERsaGlmX0ZRSXZkZEw4STJHd2sxbDAzaHZvbWNJclhOVGh3bER0NDFsTDhBbWhwNjExWGVtaTQ3NFhYT2h6U01idzh5eEFqeTlxZ09UR2tCb0V3R1dDVEY1d2tkbi12VmQ0dTlxdTVPUjRLSEMtWGpkbU5NWnVSVG5fT3hGcld0bTNzZjVsRlR4bXhSelpIVGYyQ0JMblJhNndTUUd3TFNObTJ6aW1kdGtBbnd4UnF2OWVrOW5ac0l0?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b4fe1b0f4561",
       "title": "Varizes em mulheres: fatores de risco e tratamentos mais indicados - O Dia",
       "published": "2026-06-03T12:33:00+00:00",
@@ -78,14 +126,14 @@
       ]
     },
     {
-      "id": "1e1115a79244",
-      "title": "1 em cada 4 brasileiros ignora que câncer pode ser prevenido, revela estudo - UOL",
-      "published": "2026-06-03T12:15:55+00:00",
-      "summary": "1 em cada 4 brasileiros ignora que câncer pode ser prevenido, revela estudo&nbsp;&nbsp;UOLO risco que ignoramos&nbsp;&nbsp;O GloboEstudo mostra que 25% dos brasileiros não sabem sobre prevenção do câncer&nbsp;&nbsp;CNN BrasilBrasileiro ainda vê câncer como destino, e não como doença evitável, mostra pesquisa&nbsp;&nbsp;Bem ParanáDesinformação sobre o câncer ainda prejudica prevenção, mostra estudo&nbsp;&nbsp;Agência Brasil",
+      "id": "25e29d2b02cb",
+      "title": "Estudo mostra que 25% dos brasileiros não sabem sobre prevenção do câncer - CNN Brasil",
+      "published": "2026-06-03T12:01:06+00:00",
+      "summary": "Estudo mostra que 25% dos brasileiros não sabem sobre prevenção do câncer&nbsp;&nbsp;CNN BrasilO risco que ignoramos&nbsp;&nbsp;O GloboBrasileiro ainda vê câncer como destino, e não como doença evitável, mostra pesquisa&nbsp;&nbsp;Folha de S.PauloUma em cada quatro pessoas não sabe que câncer pode ser evitado&nbsp;&nbsp;R7Desinformação sobre o câncer ainda prejudica prevenção, mostra estudo&nbsp;&nbsp;Agência Brasil",
       "sources": [
         {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYVZIaVIwekMyYUZQV1ZILXM5bmhhMnFvRmdnZ0R4cEdmaVFTdmU3QzBUcDFNYXN5RGs5SHR3bE9leUM0MF9hWFM5amktcl83dlRUT1hGRm5nem1aWjV3WkJ4MGxiR0FjS2k1UGVWR1F1cDkydjh4M3EtMFNMTDF6aW5OcmJ1bDhrT3JKbm1zcUpjVndiMl9GQ1VVakg0RGVYVUtIMzRxMnVGOC1CQ1NkWGN6aXhBQVg5bXhDWlBVYzE1TV9aMUt1WmN2bWpXMkgzR1lHZw?oc=5"
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRVVDVjhDeXhaN2JlSjRzTVoyNlVyYXREcHVJcnotNk5udVV2QU5GQ2tDelJOdzJDaFQ3TFBfaHpzTjBOQVdTT1lkeGJtcnhINHdkeFFwT0pybDhpNmxVSmpIREdKbjFoNmFsRzFoZVVHdXZ4akh5NVlaS2lfVWRuMGg0aEhzU3dWdE9penVqTXNwdko4SmVBQXJpb0UyU2xOb3YwLVRUb05fTE4w?oc=5"
         }
       ]
     },
@@ -116,7 +164,7 @@
     {
       "id": "066a550c3382",
       "title": "Por que limpar a casa pode ajudar na saúde mental - DW.com",
-      "published": "2026-06-03T09:28:06+00:00",
+      "published": "2026-06-03T09:12:14+00:00",
       "summary": "Por que limpar a casa pode ajudar na saúde mental&nbsp;&nbsp;DW.com",
       "sources": [
         {
@@ -129,7 +177,7 @@
       "id": "cf7c6ebca022",
       "title": "Google quer soltar 32 milhões de mosquitos com bactéria - iG Saúde",
       "published": "2026-06-03T09:00:00+00:00",
-      "summary": "Google quer soltar 32 milhões de mosquitos com bactéria&nbsp;&nbsp;iG SaúdeGoogle quer soltar 32 milhões de mosquitos nos EUA. Por quê?&nbsp;&nbsp;SuperinteressanteGoogle usa mosquitos 'bons' para travar doenças mortais&nbsp;&nbsp;Euronews.comGoogle propõe liberar milhões de mosquitos na Flórida para combater dengue&nbsp;&nbsp;AcheiUSAO Google usa inteligência artificial para criar um \"exército\" de 32 milhões de mosquitos machos para combater a epidemia.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "Google quer soltar 32 milhões de mosquitos com bactéria&nbsp;&nbsp;iG SaúdeGoogle quer soltar 32 milhões de mosquitos nos EUA. Por quê?&nbsp;&nbsp;SuperinteressanteGoogle usa mosquitos 'bons' para travar doenças mortais&nbsp;&nbsp;EuronewsGoogle propõe liberar milhões de mosquitos na Flórida para combater dengue&nbsp;&nbsp;AcheiUSAGoogle quer soltar 32 milhões de mosquitos modificados na Flórida e na Califórnia para combater doença&nbsp;&nbsp;Época Negócios",
       "sources": [
         {
           "name": "iG Saúde",
@@ -141,11 +189,23 @@
       "id": "41df38871206",
       "title": "O enigma dos ultraprocessados: saiba como decifrar os rótulos no mercado e fugir de 'pegadinhas' - O Globo",
       "published": "2026-06-03T07:30:42+00:00",
-      "summary": "O enigma dos ultraprocessados: saiba como decifrar os rótulos no mercado e fugir de 'pegadinhas'&nbsp;&nbsp;O GloboOs ultraprocessados que mais prejudicam a saúde: como reduzir sem virar a dieta de cabeça&nbsp;&nbsp;Tua SaúdeAlimentos ultraprocessados: o que são, riscos à saúde e como identificar&nbsp;&nbsp;Terra3 notícias sobre: comida ultraprocessada&nbsp;&nbsp;SuperinteressanteO que acontece com a pressão arterial quando você troca alimentos ultraprocessados por comida de verdade durante 30 d",
+      "summary": "O enigma dos ultraprocessados: saiba como decifrar os rótulos no mercado e fugir de 'pegadinhas'&nbsp;&nbsp;O GloboExistem ultraprocessados menos prejudiciais à saúde? Médico 'traduz' mitos e verdades sobre o tema&nbsp;&nbsp;O Globo3 notícias sobre: comida ultraprocessada&nbsp;&nbsp;SuperinteressanteAlimentos ultraprocessados: o que são, riscos à saúde e como identificar&nbsp;&nbsp;TerraO que acontece com a pressão arterial quando você troca alimentos ultraprocessados por comida de verdade duran",
       "sources": [
         {
           "name": "O Globo",
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOblltelZkckk1dDV5VUYyYTkzN29JYlZfcTAwODFoUmlnOWJyU0RKM2RmakJ4N3JLUkVJX3BwOV80dm1CdjJrWXhuM3dycUhhdkF3bnl3VUI3TkJUT2NPT2EyNVliSXlqNjBzcVFMYzl1TklvVXhacTFLTUJfMHBlUXl6Slo4OHFBWUNJZklYSHRpNDdaeUI2YWtudkxLbnZrUFJNbjZiMHFsQ1h2T3RLeE5NeFVtVkwtRk50Tm9DNVV4NGdnT0hzdjZUSHVJWXJRUnJ6LTdRbEFpZU9BajdMM0hn0gHwAUFVX3lxTE5RMG1PUFE3a0VialBNOF95YldFODRYNEc2ckY1dGlMbjJYUmNydWV3Y3ZlM0t1UldPZUFqdVhDYThzWWN0cFB1Z3l2TFh0YU9iekFQUVhFT0FILVdxdTdfNGpDR3NOajFISHJGMGZKbC1xbDB3TExsbG5MVXdINzBUWlYwRkZobkpPeHJlcHpNX3g5Wk1veUxqZlg3Qkk0NEhqS0JKZXgtWW9GZEo3eUY2RkRpazFRUXBubkI2MTRFRnBBTXRNU2pBOUxBeXU4WDFCVC1NelUxMXBubHhWNkMzc0RDRGJFYlZNejllZTdRNg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "99091bc68541",
+      "title": "Homem de Gelo: cientistas descobrem micróbios vivos em múmia de 5.300 anos; saiba o que achado significa na medicina - O Globo",
+      "published": "2026-06-03T07:30:37+00:00",
+      "summary": "Homem de Gelo: cientistas descobrem micróbios vivos em múmia de 5.300 anos; saiba o que achado significa na medicina&nbsp;&nbsp;O Globo",
+      "sources": [
+        {
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVGNPdVVTUFZyVXNIdWVwZWQ2anNEQV9sUTVLRzNlNlpFMWQ1SlF0LXYxZ2ZJV3IxSVlJb1VDYzZ3Z00zd0VoRUlfY3dKVXpaQkJDTms0b09LczNUV1U4MnVoYkt0cFJ0Wjd1X0xxekR1bEFWX1Zib2JicmlNVUdmZzRNSVVLampRMGlFX2lvVlZoc29yLUhZY2VyWmdyOHR5R1NVX0RjekFxZEYwVWhQVzlHRW1zRXFheHdvUEh1UzB1TUxDT0ZvQTZZS1FKYmtsZE1NdG1DMUk2R2pidXlHamQ2YlB3dkdwN2o5YmJn?oc=5"
         }
       ]
     },
@@ -158,30 +218,6 @@
         {
           "name": "O Globo",
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZG94OUIzb1EtNVUybXBRc204cG1fOHRPYUdmejZVdml6cWVCTGpyb0pjRU1PX2c0TE9tTW55MlpLbW55bGRxV3d2TGllM0VCSXN0UjNSbDVzRVZ6dEJjaEtHUTVmeDVLWWhoZE00RkZsbE4ySWZuNFZSTG92dFhNcm1JRmlCWlpVN3c4eXBWZHF0ZlFldjdFSmM3MmpoQ3pvdVdVTlQxV0NMRGdFWmRXNER6ZTEyeEJHYkN3b2x6S0hJUVNXSVlPemU0RHhKbEZ2RTI5Mmw3Z0dkWkFoSnpwSVR30gHwAUFVX3lxTE1INldpR1dYY0MzbEc3aHNOUzA5X3Z0TGF5YVM2UF9HblpPV3dHZXJfTUdibjc3VHpCaGY5LTVwMkt5ZGd6Z2hlNElaaUtVUHNNVjRsWl9uTHh0dU96ZDQ5bm02U3pqdFhEVXpkMWp4OWpFSmNjX2l2WHpMMVl1ZDY3SVRXUVQ2M2Y2bUR0VkV3YVlYM0dCRHlUSVJjbDVFazhMeXAzdzVSb0VUZDhJODhodjBEa211SkpDcjlQVTU2ckRxMVBLZmtfWFljenFKWE4zR2RRNm1qQ09DRUQ5WkJ1azlCaWhyZzZOaG9GS0V0TA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "54f10fdf3c79",
-      "title": "Médicos apontam sinais do câncer que afetou jornalista Chico Pinheiro - Tribuna Online",
-      "published": "2026-06-03T07:00:00+00:00",
-      "summary": "Médicos apontam sinais do câncer que afetou jornalista Chico Pinheiro&nbsp;&nbsp;Tribuna Online",
-      "sources": [
-        {
-          "name": "Tribuna Online",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPclhTYkM2Z3dtdURjWUZMel9yVUVweTRXRE9kazdlNTZMcGNsVjUyQl9HdWRQUDRIN1FtSmQxQVpJd0tuRlZQUXJ2cWtSV1B0eVN3U3RTMXljUDB4RW13WTA5eGVSbzNKUFJGdXRyWlVacGFKeUVKRlV4R2ZFWWlMc3pSRnFqVjcwMnBhcVBaUXI2MlhjR2ZxelU3RHpObks3dEEwQWxvbkIxYWtjbTdWONIBuAFBVV95cUxQdDV6ZjZKd08ycEJ5Y0YzeVU3dW42QkpnU1NiNlNYd1pGVm9jMkM5Uy1rX1pPS1lsTkV4WVBNME1fcC02cFEzckpVSkhHUGtyRUQzMnc5Mi03bk45ckR0cGRMNlVjS2RiSDFLSmNVVHhNWW8tS3lVdTFuNXgtRTdKWU9KcDdBNXZ0dWxVTVRwTUc1QWZXNktzNm5CZFlSMFpRdjIwcWs4RDNXWmFKWUVqbXNveEZEdVVl?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a787b1ced48f",
-      "title": "O que é a pílula contra câncer de pâncreas que fez médicos chorarem em congresso - R7",
-      "published": "2026-06-03T05:00:01+00:00",
-      "summary": "O que é a pílula contra câncer de pâncreas que fez médicos chorarem em congresso&nbsp;&nbsp;R7A pílula para câncer que alcançou 'o impossível' fez médicos chorarem no maior congresso de oncologia do mundo&nbsp;&nbsp;G1Entenda a droga contra câncer de pâncreas que oncologistas aplaudiram de pé em congresso mundial&nbsp;&nbsp;Folha de S.PauloOpinião | Aplausos de pé para comprimido contra câncer: o que explica a reação dos médicos em evento mundial?&nbsp;&nbsp;EstadãoDe terapia celular a novo remé",
-      "sources": [
-        {
-          "name": "R7",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOUdZMjM1dGJlZ2x0d2pwQlRZVDE0QWJ3Y0d0YUNveWFIZFJWZ2NNX1l5R2JMeXFZUi1OVjgwdWhKejEtME1STUd5TF9xenZUTG1EZEdURFE4RnBuRnI4V1AyM3JpZkNhRkNpYWI2OVFLQ19VWjJ5NkRIS1hiM3NrTG9yemwtNERiMnd0ZzI2MGpjRG5pemQyeVUtTHA5a2hzWXhsOW93X1JfVjZ6UUVKRlUwZXhlbUJCRUtuQXp1cURiV19wZWZJ?oc=5"
         }
       ]
     },
@@ -201,7 +237,7 @@
       "id": "2cdb146f1c80",
       "title": "Um em cada três brasileiros convive com gordura no fígado; saiba o que comer - Diário do Centro do Mundo",
       "published": "2026-06-03T01:13:44+00:00",
-      "summary": "Um em cada três brasileiros convive com gordura no fígado; saiba o que comer&nbsp;&nbsp;Diário do Centro do MundoFígado gorduroso: alimentos consumidos diariamente que podem acelerar os danos e aumentar os riscos à saúde hepática&nbsp;&nbsp;O GloboQue alimentos comuns podem acelerar a gordura no fígado? Descubra (e passe longe)&nbsp;&nbsp;TerraEsteatose avançada não depende apenas de dieta: como o resmetirom inaugurou uma nova fase no tratamento da MASH&nbsp;&nbsp;Tua SaúdeHepatologista aponta s",
+      "summary": "Um em cada três brasileiros convive com gordura no fígado; saiba o que comer&nbsp;&nbsp;Diário do Centro do MundoVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
           "name": "Diário do Centro do Mundo",
@@ -210,14 +246,14 @@
       ]
     },
     {
-      "id": "61a7d8156e9a",
-      "title": "Corinthians se une a instituto em campanha sobre doenças neurológicas sem cura - meutimao.com.br",
-      "published": "2026-06-03T00:28:00+00:00",
-      "summary": "Corinthians se une a instituto em campanha sobre doenças neurológicas sem cura&nbsp;&nbsp;meutimao.com.br",
+      "id": "9dfb9dde11c0",
+      "title": "SUS oferece vacina Pneumo 20; veja quem pode receber a dose - Folha Vitória",
+      "published": "2026-06-03T00:53:47+00:00",
+      "summary": "SUS oferece vacina Pneumo 20; veja quem pode receber a dose&nbsp;&nbsp;Folha VitóriaNova vacina do SUS dobra cobertura contra bactéria que causa meningite e pneumonia; entenda a mudança&nbsp;&nbsp;G1Vacinação com a Pneumo 20 pelo SUS começa em duas semanas, diz Padilha&nbsp;&nbsp;Folha PEProfessor Marcos informa inclusão da vacina Pneumo20 no programa nacional de imunização&nbsp;&nbsp;Câmara Municipal de AnápolisMinistério da Saúde vai oferecer nova vacina contra germe que causa a pneumonia&nbsp",
       "sources": [
         {
-          "name": "meutimao.com.br",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTzFTVU5DS2MxWEF0MjloUE9faGVFdnJxY0pscnVLZkhFZEZKWnhxWmNMUHo2MTVvWlNQd01SOFRoYzh4eThyOWtzX0U1ZjlBUjFHZXAxSzVfVGV4WS02YnhzOUVLUmk5Y0ZSRWI4VC00eHFfbF83bHFwM2libjdCeTdpTGt5SS1LQjY0aXdHZWJvNmtOdWlyV2U4RE5Ya3l3dGhVQTNiVW14QS1OanhWTHdRZGtYZ3h0U3paZlB3XzhoVEoxeXAyVUNZckF2RVVsc3Bz0gHDAUFVX3lxTE5PT2l2SlJFa0EyS21RZ3Qzdml5YTFzbXVLNE5lYXFWVDRuVXJIdTUtZVBURFYtYlNvY2FiMEVVR2ZjeER3TFRIbHlHMk41MldDZi10Ul9nNXkwMDhTOWVLUG5CYlh1R3Zxby1aelBSZ2lzVXZtMXVrR3NYWlViemJIcjNXUktfMUhnaUZEc0xHNEtmNnhvcHVpdlN4VDNMMG8waTZwQmt0QTU5Z1gtUFktTGd6ZHY0Yk5OWEpOZVo0WGRCSQ?oc=5"
+          "name": "Folha Vitória",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQckR4RHFtekEzcGNMbkw1MlJ5SmFIY0dSVExNc1BRc3A0QjdfLU5HZUc4TGtFVEs2Um9HWTQ3alk2TkxuSGJTYTViNDBMQl9FY2lrUW5oeGJLMFBicUhsc0RoVkh3aHpzQ0dJNE8wVmVBS2FLWExDUnhiY2N0TVBnMmRHeUh2dEszTzg0c2dvZFBWUXYtN05OQWxvXzFOQmp3elAtXy1BWnhEeHhoRnlZSzAwU252dw?oc=5"
         }
       ]
     },
@@ -234,18 +270,6 @@
       ]
     },
     {
-      "id": "750bda8bc116",
-      "title": "Um estudo publicado por pesquisadores americanos levanta a hipótese de que a Terra pode estar semeando vida nas nuvens de Vênus, com impactos de asteroides ejetando micróbios que sobreviveriam protegidos dentro de rochas até alcançar a atmosfer - CPG Click Petróleo e Gás",
-      "published": "2026-06-02T23:16:00+00:00",
-      "summary": "Um estudo publicado por pesquisadores americanos levanta a hipótese de que a Terra pode estar semeando vida nas nuvens de Vênus, com impactos de asteroides ejetando micróbios que sobreviveriam protegidos dentro de rochas até alcançar a atmosfer&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQT3dJZ0hrZHFsenNJMjJuamJ4Xy1sY2hOclJGdm1NX2g1blFTaTFNeTZrOEJSU1BDT2Vmb01tNmQ0WWIzZjNyMVhxeDhpNmZEVWhBcExOUUxFY283SXNSRzB6ZjhBMnlNeEpPYmpMSUl3aWpReDVLd0Vxb1BaRThsT1E5emU1WndaNjc3Z1kzbFlyVG9aMmtVSUxzVnpTeHdCQzNqZzUxN0pVQ09ud1A5b3ZZblc3SkdhZ0x6X3RyaU9FQVdmdkRIUEJSa0ZfSURrQ2VSYmRaajVFbWg0RVZHbHE2ZkYwMEdUOVVLTjhDcXRNZnRGUjc1MTk1Zw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "19b5961d5929",
       "title": "Cientistas eliminam cromossomo extra da Síndrome de Down em células humanas pela 1ª vez, em pesquisa in vitro - ND Mais",
       "published": "2026-06-02T22:51:56+00:00",
@@ -254,6 +278,18 @@
         {
           "name": "ND Mais",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQjAxOURYUklOVGlkWks5TlNxTjJCU3ZMaTJBeEg1aVhlaS1qWFRDT2YtSDhmMU1JcnhCbkRWV0dLSlVKQUhZVlFuY2pkMTVLcXFfLUtMVTNKR1pLai1yay1IcWt0WnpNZi01cmYtMjl3ME1KT2o2S0lzVDVCWlJqelRR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9630cc7c51a0",
+      "title": "Nova pílula contra o câncer de pâncreas leva médicos às lágrimas - Correio Braziliense",
+      "published": "2026-06-02T21:21:00+00:00",
+      "summary": "Nova pílula contra o câncer de pâncreas leva médicos às lágrimas&nbsp;&nbsp;Correio BrazilienseA pílula para câncer que alcançou 'o impossível' fez médicos chorarem no maior congresso de oncologia do mundo&nbsp;&nbsp;G1Entenda a droga contra câncer de pâncreas que oncologistas aplaudiram de pé em congresso mundial&nbsp;&nbsp;Folha de S.PauloOpinião | Aplausos de pé para comprimido contra câncer: o que explica a reação dos médicos em evento mundial?&nbsp;&nbsp;EstadãoPílula que pode mudar tratame",
+      "sources": [
+        {
+          "name": "Correio Braziliense",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNODJBRTZ6UjUxZWFCVnMzbF9wU3lwN2pPeXRfNTFydm1HQWtPbVZjaG53NVBRcEJMZG5HZ3Ixb183NENJU0hFY2dXR2tzVEU1eTBZOHhIS1RXRkM4WWMwTnYxSEs5SVM3LUxyeU5LcGJ2aTREb2tHRHFyd0VNZGZOcjl0bEdMRWZ0eGFRNXlhZ2F0NUZYREpQRWJ3V3lQTnhUcldoY0NINGlpZnZtZUxabVl2M05uU2FuUF9kSzh3elhDYzBwSU5SUzNMTXZlU1lfOWtQMGxn0gHbAUFVX3lxTFB4cEJocjBxa2tNdzR1TE1aeTJWeVo5Um9xV1dDZDZHX2MzWXdnellNYTltLTJDNU93MkxWRjNyQkJmR1BpZ3pOcXB2bzZBVU1yaDZzX29RclNUX2ozX2hvRUxqWDRnYWJ1Y1IyTWtjYzkxV1NNTmhzenU1TUhKbzBpQnphT3hNbkFwZ0dhTWZDVFM0MEZsa0VNejZUUnhLY1M0ODk0M2pudjdzeEFDVEd4LW1nMnFGUDR4R0VYQm90V0I4c2RpQzFuSmlnejhLbU4wWXNYMFd0N1Fzdw?oc=5"
         }
       ]
     },
@@ -273,7 +309,7 @@
       "id": "3418b9b7e4c5",
       "title": "Governo do Estado concede certificação de Amigo da Vacina a 431 municípios por resultados na imunização - Portal do Estado do Rio Grande do Sul",
       "published": "2026-06-02T20:15:15+00:00",
-      "summary": "Governo do Estado concede certificação de Amigo da Vacina a 431 municípios por resultados na imunização&nbsp;&nbsp;Portal do Estado do Rio Grande do SulMais de 85% dos municípios do RS são reconhecidos por eficiência na vacinação, mas só um terço atinge todas as metas&nbsp;&nbsp;GZHMPRS sedia entrega de selo Amigo da Vacina a 431 municípios por resultados na imunização&nbsp;&nbsp;Ministério Público - RSSecretaria da saúde do RS concede certificação de Amigo da Vacina para 431 municípios&nbsp;&nb",
+      "summary": "Governo do Estado concede certificação de Amigo da Vacina a 431 municípios por resultados na imunização&nbsp;&nbsp;Portal do Estado do Rio Grande do SulVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
           "name": "Portal do Estado do Rio Grande do Sul",
@@ -282,50 +318,26 @@
       ]
     },
     {
-      "id": "7d6e0742b86e",
-      "title": "Milhares de crateras circulares no fundo do mar sempre foram atribuídas a vazamentos de metano, mas estudos recentes mostram que muitas têm origens bem diferentes, de botos caçando peixes a deslizamentos de sedimentos e ao degelo de eras glaciais - CPG Click Petróleo e Gás",
-      "published": "2026-06-02T20:15:00+00:00",
-      "summary": "Milhares de crateras circulares no fundo do mar sempre foram atribuídas a vazamentos de metano, mas estudos recentes mostram que muitas têm origens bem diferentes, de botos caçando peixes a deslizamentos de sedimentos e ao degelo de eras glaciais&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "id": "333b5ecf6af9",
+      "title": "Num laboratório no interior da Austrália, um filhote listrado deu os primeiros passos e trouxe de volta um animal que estava extinto há quase um século - CPG Click Petróleo e Gás",
+      "published": "2026-06-02T20:14:00+00:00",
+      "summary": "Num laboratório no interior da Austrália, um filhote listrado deu os primeiros passos e trouxe de volta um animal que estava extinto há quase um século&nbsp;&nbsp;CPG Click Petróleo e Gás",
       "sources": [
         {
           "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPYTdqN1BlS05BNndNeTRubWIxQVFlQnVJLXJSYUF2eW9CeEtwX2M1REhJdmFqeGFKSTlkWDd1YThuRTFJLXo2MTBicV9qWlRZSjh0alNTbUZyVkR6bERvV2NkMDlJUThjcmtzVmh2RzhuTjZwcEN2TmwzQjRISXlQdkEtWVNMMTdZNGpOMnhNWFZvbEFzTS1scFlVTTZ2UGJBMGU4Zlc0Um12WUlzV3RLODRBTEFuZ3pPeTBnb0FSaGVwWGdVMXYydm8xWmhkZGRneDdxbmZXeDQ5Q1JsNi05TTZzb0RrV2hCM3ItU2FfRVFvYlhYOWcyMzRzeGxCRUZvQ21scV93VkFyLWFjWmhDSFlEZUtBN3ZRMVFaNS05eVlyR1FMaHZ0NQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPSWh4QTczeHFJVVlxRy1rMnROUklyOXNmbGo3MnRpdzdQYzQxaDNPOGtQTlpfMnRLUlEyNzBQSkx4eUNpSTMyZWlEWWdqNUJ1Qjl6NFo3STdmZGFqTE5LWXJsYnFwemduSFA5YWRSaF82RDBQMmJUaVVLZkxOcGFmMFVjdnhyMlBIMTlsMFp3aElCU2Q3QV82aXJWMG8xZ1FVR0xncGs2QWdBc1JJd24zbEQ1cWk3WEtMbFVpYkU2c3JyUG5INkN6MC1OYmVhZXRfQTRqdHRJQUVnX1VDSS1lM2J0ZXJHZkRnb2Y4NkZwOXh5bG5LRmthM3ZVWm1jMTRoOHUwTENNS3JsOWNjSFNBMmdoUXctWmQwSko4?oc=5"
         }
       ]
     },
     {
-      "id": "c842fb544208",
-      "title": "Como o avistamento do raro gato-mourisco no Pará reforça a importância de proteger a biodiversidade da Amazônia - Revista Amazônia",
-      "published": "2026-06-02T19:53:10+00:00",
-      "summary": "Como o avistamento do raro gato-mourisco no Pará reforça a importância de proteger a biodiversidade da Amazônia&nbsp;&nbsp;Revista Amazônia",
+      "id": "be76ab803a2b",
+      "title": "Bactéria capaz de criar DNA do zero intriga cientistas - DW.com",
+      "published": "2026-06-02T18:22:33+00:00",
+      "summary": "Bactéria capaz de criar DNA do zero intriga cientistas&nbsp;&nbsp;DW.com",
       "sources": [
         {
-          "name": "Revista Amazônia",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdkdwc18tc1dqbi1PQ1dTYXFrbEUwNXVnQ0RLclMzV1ZkbjFQdzU2dXQ0aXFCWWZLaXZjdzd5dEFObnZqcUM2NmJQcVNmcDJvVUc2bXNMNHdXd3l5OGlSYUhqb0RlYktfTXdVdHpUaDJONFhLZmRscEdxSV9USjZrUmR1cFc3Z1BKc3RCSjJwbl9aX2pVQmVEeUVZelVUZVRUVWlSN0JfR005aXpSeUYwa0hLTWU2WWtYUTJjUGZxUlNGQm8zMnpDT0lYdG5sRFhpdnZ2eHB1My1vYUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7e486f234066",
-      "title": "Enquanto cientistas acreditavam estar diante de um pequeno asteroide, estudo sugere que objeto visitado por sonda japonesa pode ser tecnologia perdida há 43 anos no espaço - CPG Click Petróleo e Gás",
-      "published": "2026-06-02T19:19:00+00:00",
-      "summary": "Enquanto cientistas acreditavam estar diante de um pequeno asteroide, estudo sugere que objeto visitado por sonda japonesa pode ser tecnologia perdida há 43 anos no espaço&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxONWdIc3V0VmMxVFpvWXlXbU5NZmVuOGlDNXFoQ1U1eVN0VkZJSkhqNE5tVTdNRkpFVVd6bHAzWmNXWXdaamIzZFlIWEtqUU1WTDNOMHRQcndEa3FSSk5ZTURKWkhLSzJpWld5LWtqNHAyUjR2ZUZpOXYtSzlMZ21velNkS0pURzBxNWF5YThRaWRTUk83NkxYWm9zSzZLT1oyTU9NdTBVNUxLcC1McnlJZDVOUDRPem5hYXFxUTdHVmV5cnA3VUkxZVpYb0JaUjF4VWtHaERUaHNfQzBSbkd0OFM5SU9UNGY2Nk9tNHpqNkNzd01RbzRpeHBPWkZzYkl2cE5UNXlvTzUxS0pqXzY2cUk5WHF5b3ZaQzBtZm5zQ2ZlbHEzdFFEYjdNMnRBNUVtREd1Wg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "473054901778",
-      "title": "A doença que exige antibióticos por seis meses e ainda desafia a medicina - Jornal Correio",
-      "published": "2026-06-02T18:18:19+00:00",
-      "summary": "A doença que exige antibióticos por seis meses e ainda desafia a medicina&nbsp;&nbsp;Jornal CorreioTecnologia e novas estratégias podem acelerar combate à tuberculose&nbsp;&nbsp;MetrópolesBiomédico alerta para os riscos da tuberculose durante o inverno&nbsp;&nbsp;Costa NorteLacen fortalece rede de saúde com capacitações para profissionais de todo o estado&nbsp;&nbsp;Arena de NotíciasGrupo Hospitalar Conceição testa tratamento mais curto para tuberculose&nbsp;&nbsp;grupo sepé",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTTM4ajF0SDBsVGJVaVNwM3o0RGVDOTVUTzZOVGZXQnNydW84cTBQcVoyMVg1WW5VMTNybnU0eWE3LVptUVdKYnBRaThEZ3hVT3lKN09UenJiNWVsSVFkcHJQdWRNR29jSFlTOG54c25XVzY4dUx1YlJiQzRWc1dFRHBmbkkzY2JKakFmUWZFZGhjWTU2a0szNmlYMXp0c2owY05uRlFVVUZaVDN2R3c4akM4enljSHNEZkE?oc=5"
+          "name": "DW.com",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOckR3V3JmUmo1MVVILTRMVGl0TlRHVUl5M0VNcEV2UGJkQ2JNZnJ1NXdQaEpYSjZUNUs0VmdTal8xYmlUakg2SGlycTZONDIxQnluUlR5NDU4T2NiYzJVbFl5SXcySjFSNE1oV29Tb0NuQjBWcm1IMlBxMkpBcTNWb0hvVzR0a1JsaURsX0txME14N0ZicjZZSkp4b9IBmwFBVV95cUxPLWdmWF95U0ozcGU0WXlvQTJHajkzSVhRaUxFQjc5ZzBzdkUtOW45Y05zMWJmYzFpck0yN3Btb09qLTFEcWFwb3FyOWNSbm0tMnJrbHJVY2wyQmFJSHRPSjVwNk5BdVZhNmRTWWoxX09kUm0wTjNMYmE0STZBVkRGVXBGcl85a2g1a01mMWxxNzA4TjRjaWwtWk9Kdw?oc=5"
         }
       ]
     },
@@ -342,18 +354,6 @@
       ]
     },
     {
-      "id": "8ea3e40f94cc",
-      "title": "Maca hospitalar por controle de voz criada por brasileiros ganha prêmio em Portugal - Só Notícia Boa",
-      "published": "2026-06-02T18:02:00+00:00",
-      "summary": "Maca hospitalar por controle de voz criada por brasileiros ganha prêmio em Portugal&nbsp;&nbsp;Só Notícia Boa",
-      "sources": [
-        {
-          "name": "Só Notícia Boa",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRDNlSWVQWHpxUDl6ejVTTjBTbi1vbUV1MHdBZlNYYzc1alBCUmpqdi1xblY4ZFczZGVwNkdfWWZWNGVacmtIMUFVNWRwLWpfbFVDeGk1TDZHZldPU3NZSDNBdWExNVM3a3FJbG5XSjB1aENKczFFSWVCUFhYaG5UZmdIRHI4alJXWDUyNzA3VnM5eHVrVVplS29EWUtxME5rSmx6T2lYam01UQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0779885b5094",
       "title": "Chamada de apoio a Projetos Internacionais de Pesquisa: veja o resultado final - GOV.BR",
       "published": "2026-06-02T18:01:00+00:00",
@@ -366,22 +366,10 @@
       ]
     },
     {
-      "id": "44bc50db3077",
-      "title": "São Paulo confirma o 10º caso de febre amarela neste ano; seis pessoas morreram - UOL Notícias",
-      "published": "2026-06-02T17:11:00+00:00",
-      "summary": "São Paulo confirma o 10º caso de febre amarela neste ano; seis pessoas morreram&nbsp;&nbsp;UOL NotíciasFebre amarela causa sexta morte no estado de São Paulo&nbsp;&nbsp;Folha de S.PauloFebre amarela: por que tomar a vacina?&nbsp;&nbsp;EstadãoFebre amarela: São Paulo registra décimo caso e seis mortes pela doença&nbsp;&nbsp;VEJAMorre sexta vítima de febre amarela em SP; SES faz alerta para vacinação&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "UOL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPT1JYQlF2a0pYa3hkbWJTWnd6TTZ6cFM1bUM1TFlwc0lqUUpjT2M3NWtDVmxkNjFOZjBYSVU5Y1RmREpUZHhhMHYzWk9aOU5vWEY5bE4xUFRiMjNUN2sxLVNmNmtnX3VncDMxbHdIakxvR0hTVlZsTzRzY1RXNm5jRThzdndkS0pqZWNPeWhEODdoUGRReWRES0F4OVhTUWtIZ3N4RE9vYnhXbHBsa2hRV2VETlpkb0dCd29HaS1Mbzl6R2g1ZHYzOGdvdjFsSTNTNjY4dU5OVVQzZkd1MUVXU2JJV3RrcEE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "617db0b9554b",
       "title": "Especialistas avaliam se existe possibilidade de pandemia de ebola - O Dia",
       "published": "2026-06-02T16:05:00+00:00",
-      "summary": "Especialistas avaliam se existe possibilidade de pandemia de ebola&nbsp;&nbsp;O DiaPaciente que teve suspeita de ebola descartada ficou em abrigo de SP; local passa por medidas contra meningite&nbsp;&nbsp;O GloboSecretaria de Saúde descarta suspeita de ebola em homem internado em São Paulo&nbsp;&nbsp;EstadãoAutoridades descartam o 2º caso suspeito de ebola no Brasil&nbsp;&nbsp;CartaCapitalCasos suspeitos de Ebola em São Paulo e no Rio de Janeiro são descartados&nbsp;&nbsp;InfoMoney",
+      "summary": "Especialistas avaliam se existe possibilidade de pandemia de ebola&nbsp;&nbsp;O DiaPaciente que teve suspeita de ebola descartada ficou em abrigo de SP; local passa por medidas contra meningite&nbsp;&nbsp;O GloboSecretaria de Saúde descarta suspeita de ebola em homem internado em São Paulo&nbsp;&nbsp;EstadãoAnálises descartam ebola em paciente do Rio de Janeiro - 01/06/2026 - Equilíbrio e Saúde&nbsp;&nbsp;Folha de S.PauloAutoridades descartam o 2º caso suspeito de ebola no Brasil&nbsp;&nbsp;Cart",
       "sources": [
         {
           "name": "O Dia",
@@ -402,18 +390,6 @@
       ]
     },
     {
-      "id": "bec8dff1e2f7",
-      "title": "Vacina contra a gripe: veja onde se vacinar nas cidades do Alto Tietê - G1",
-      "published": "2026-06-02T09:56:22+00:00",
-      "summary": "Vacina contra a gripe: veja onde se vacinar nas cidades do Alto Tietê&nbsp;&nbsp;G1Prefeitura de Jequié amplia vacinação contra gripe Influenza para todos os públicos&nbsp;&nbsp;Prefeitura Municipal de JequiéVacina da gripe tem alta procura na rede privada em Porto Alegre; farmácias apostam em promoções&nbsp;&nbsp;GZHChegada do inverno preocupa diante da baixa vacinação contra a gripe no RS&nbsp;&nbsp;Sul 21Vacinação contra a gripe é ampliada para toda a população&nbsp;&nbsp;R7",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNU2Vpb3dZbThQX01CSDBxTFpWenJZRmtFZUFWelpHODNiM0FMc3NOWi0wbmg0YW1QaVkteEt5WUNQMGFuYnU3a1JMa20zV08zdVNxRlhLOTNhNkY0NlJDajZ4R2ZWdm5oR1ZDWjJTSXlJczFhd0JKMGk1aVhhdmNMRlFqVmMzT2lkb1BLb2lUOEczMEJGMlFYd0VNRnZVWk5FUkp6OVd4X3JuOHRLM0NGb3pyQU9qY01jaG1rbldPSnEtZ2c1OGxMT1ktVU56Nk9aaG9Bd0ZmWdIB5gFBVV95cUxNZExPSy1mVXlSRzBVY3M1UEZHMGkzNWJ2eWE3V1V6WEV3VllQU2h1cURWN25USjJYOFpVa0hEb3c2Z0oyUmhJZkVQa0gtYmxmRU9JVXU2enZ4LWlTQUItc2k2cTEyNU4tV3gtMFF3NE9FYjc4UExzSWRFblV2MHIzQnRlcHFsdHp2bjBKSUw4aUxOaVQwOVliZ3F0Y1MzZF94UHF5VnJ1MlZEWU9SLXJveHo4Y0R6U21EM21HZ254Z2Rud1RVMGlKU05wZ2s1WWk3Z1ViSGhsRm1kT2wtM1YwbVJlQmhTZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a8cf329c7aee",
       "title": "Cobra invasora aprendeu a nadar e acelera risco de extinção de lagarto símbolo de Ibiza, alertam cientistas - O Globo",
       "published": "2026-06-02T07:02:18+00:00",
@@ -422,42 +398,6 @@
         {
           "name": "O Globo",
           "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNeEY3N1p4aWY2YkdJVU81WkdhaGxkSUZsSGgwOXNIRm9tVGt0Y3lmT0huSzFlUldrOEpLRkhneXI3Z1g1MmdZMmFRck05WWVTUDYtbEdjOUVncUdSdUtOT1RhVmljLTY4X1pNbkJhaE1mZC1HQlBEeUNkWWlreXZFa1RqajZwWXp3M01NcnkwcjFQcUtWZl9KMElGMXNsZ25mc0JLbFJWRjVYbzhaZTRGNjBodXNidkxrWHR0STVYLTBMeEdxYnJiWWUtWjlzWnJzWDM0Nmo3Vk1PbVpEUkxrS3BXRmdpMW95c2pMam9ZMGdlay1FdWNLdHFZQWFhMzVtWllySVdQb1dOUdIBmAJBVV95cUxPcmFLLXp5eDNSNmlES2NHWmJiMHdNRGhrbUxxUHdiSzU5T3NFeElSV2hPaWlMU1lIcW11WmhWUzlNelJIeXhPei1NV05wWU4tM2t2M1NKWmJSUXY1OUMxOHRiU2lfRGxoaElRcWJmdS1xT0JUQTBscE55dmR6YzhraEhUdlc2YXFHQ1pUNWNmRmlfTGZNX2J2VHNsMjRGSmZzNTJWNWRyeE5HVkpMVlZBdDJxMEcxMWxva1hmSmo3TmJuR3VJMzlHVVdWVmM0aFJiTnF1akhwR2NJcFVETjlJeGw5dC1NT2ZHVVd1R1hPaWgtNVFoTmZYSXRHNnZXcFRYcFZseF9pU2JfbUx0dkkzTG9fdHFEV0FS?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f3fe967acae0",
-      "title": "Mosquitos podem aprender a associar cheiro de repelente à alimentação em laboratório, mostra estudo - G1",
-      "published": "2026-06-02T07:01:45+00:00",
-      "summary": "Mosquitos podem aprender a associar cheiro de repelente à alimentação em laboratório, mostra estudo&nbsp;&nbsp;G1Mosquito da dengue consegue aprender que local com repelente é onde há comida farta, invertendo a lógica do produto&nbsp;&nbsp;TerraEm experimento, mosquitos Aedes aegypti aprendem a gostar de repelente&nbsp;&nbsp;Folha de S.PauloMosquitos podem ser atraídos por repelentes, sugere estudo&nbsp;&nbsp;Aventuras na HistóriaRepelente atrai mosquito? Estudo acende alerta para quem vai viaja",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdDNwNHp5S081VEpmbHNHYmJuS1dIbzZQS3BkbkNYblZfN0RCbEkxNzM2RjIzNTZBVExUUENvN0dPVm03RFByR2MwU0lUU3FQMTNDanRGYS1YQ3EtMWVfU09kNWxjcFNpR244dVQ1Vm8tcEp3X3hBdjFIenFKQUVlOXFFU3c1UEZSb3ZIOGQxR3ZEbWUwaHg5bHI4aWx0QkJTajhQZzBiRlRQMUZxWlBlSU4zVENBUEJlbWhuZkZpR3BCRTROVVdnVjRWR2Yta2FOQ3NJcWIydUdlbTNmMmpoVXZadjnSAfMBQVVfeXFMTm9EdzZlNFo5b3N3MDhMdDNUdGs2UERRWXRrcEZILWJFVjlIbmo0MXhzTnhlSmRqWHR6NEo4S3oxNlBManlSVEViRUxuZnoxc25Wdm9seGdoaGZSeEZRS2lzRmw3TVloMFBMeUxmSUUySERYYkpDZ1lyT1lZR0pNNnpQbUkySDRkNzhNSVJCTHhiSUUwREk5d2NGQnljNUVjbFJsWURWbk9qOVNXN3hxSGVidkh1bF9qZE5aZVhGaWdRYk5VTFVwNmhkdEtwMFJoVzhtUlBmZm1ZcUhhQlJWNmgyNTQzeHVJQmdNN0paUThPOVJ3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0c01c41272df",
-      "title": "Miastenia Gravis provoca fraqueza muscular e enfrenta diagnóstico tardio - Estúdio Folha",
-      "published": "2026-06-02T03:00:00+00:00",
-      "summary": "Miastenia Gravis provoca fraqueza muscular e enfrenta diagnóstico tardio&nbsp;&nbsp;Estúdio Folha",
-      "sources": [
-        {
-          "name": "Estúdio Folha",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOellwaVNaSUNfMnF4Nkk2V0hOMVFVYmp6c2VRR3R1R1pNMVVoVnZoWnpUSkl2aTJoNDlXSWxHTFZpT2I0UmNjcWdfbWRkMEg3SHRkcENsd0tfM0V4NFFwbEVNQ3YzVFRNRFhrdkNvTVc0ZVU4aWgxdWRkM3hiM0pMM2FQaHdBTGtYWWdTNExleXdlREJJLWtHM0VRVzRLb29TZU1jOFFndW1IODZWMjlvUjZsc0ViaFRBVlg4VU1YRGU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "69afde2675e1",
-      "title": "Crânio de 4 mil anos revela cirurgia cerebral na Idade do Bronze - Aventuras na História",
-      "published": "2026-06-01T23:00:35+00:00",
-      "summary": "Crânio de 4 mil anos revela cirurgia cerebral na Idade do Bronze&nbsp;&nbsp;Aventuras na História",
-      "sources": [
-        {
-          "name": "Aventuras na História",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZWNqeG01cmNZZFQzejdtdEgyaDBjdWNSanBDQ1h3OE1OZFU4eGFhWHBPcFZzVl9RZ0FJQ1c5bW9OYllXa1FRODFHcmw0NnZwaEVWZkVMTU5BNW9pbmNPX3JRTndyY0RXakRVTXZmamtoM0FHRVRRbHVVbXA3X0pYYVVMby1SUDZJWHFCQW40amcxNVhfNXcyZnNkQkdnTkpvRnJxeGlaLWdBUC1QS0pRTFpBZG9MWjhIZXAwWFJDM0RkaGN0U040?oc=5"
         }
       ]
     }
