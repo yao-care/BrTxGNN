@@ -1,19 +1,67 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-06-05T14:55:24.466544+00:00",
-  "total_fetched": 90,
-  "unique_count": 88,
-  "health_related_count": 31,
+  "fetched_at": "2026-06-05T19:57:39.835601+00:00",
+  "total_fetched": 84,
+  "unique_count": 82,
+  "health_related_count": 26,
   "news": [
     {
-      "id": "493db69f002d",
-      "title": "Nova “vacina universal” desenvolvida com IA pode proteger contra futuros surtos virais; entenda - Correio do Povo",
-      "published": "2026-06-05T12:44:43+00:00",
-      "summary": "Nova “vacina universal” desenvolvida com IA pode proteger contra futuros surtos virais; entenda&nbsp;&nbsp;Correio do Povo",
+      "id": "d538324b5d03",
+      "title": "Inteligência artificial: a vacina inédita desenvolvida por IA - BBC",
+      "published": "2026-06-05T17:33:17+00:00",
+      "summary": "Inteligência artificial: a vacina inédita desenvolvida por IA&nbsp;&nbsp;BBC",
       "sources": [
         {
-          "name": "Correio do Povo",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNE1GMUhRV1hWeDQzcVMyWmdwbzFGTzY1ODQzSHlNMHIzeWw3ZjhnNGpvVEIxVWwydkxGemsxSmNtWC10TlVpbjZLUVdrU3NtVW1pdnA1ZDRwQTQycUp0Y2hxdlFJenZvSkw5R1hJUUpGTWo5emY5cDNYTGRTSGxVSGQ2QUJxcXl1VllUQmhKRG14eExkZ0dNQkRsQjM5Y0tia0hhM0xRQkxTVVZ3U25wZXNrYmVkc05UYXl1a2gxVkIwSkdLY0Y3WmFMX1JwdkxXR1BlM21JQlg2YUhEWGF4YnZsWGptNHVscFZENVJZZmI4Zw?oc=5"
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GM3dmOW1vWEwxaThTZHM1TWhqNUV2N0l6ODNHQmhVbmQ3WE1aNWVlU05vTjllcmpHZEdsT1dRV1M2TW5LMVlaLWhPdVN5dm1DVGE4cEdaYTFmZ1dlQTBSS3Zn0gFnQVVfeXFMUEVnY1hwTlNHbWhyMlE5M3VpWC1UZm5tdUpvMWRmRm5IeU9GaTVIdWVGWFpMTEFPY2tRd2d6NVlmd21ZWWZFVHdOaGVDOTJ5d3hpMy1oWHUwZDRveVBFSWxjeDVXdWlGNA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7667e31f7c04",
+      "title": "Os países mais inteligentes do mundo: novo estudo revela quem lidera o ranking global - CPG Click Petróleo e Gás",
+      "published": "2026-06-05T14:42:00+00:00",
+      "summary": "Os países mais inteligentes do mundo: novo estudo revela quem lidera o ranking global&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTUdTcW80cS1oMWVxSmt3Sk11WEFWUEJyNERGMHRZRUZwdWQxcXIwX0lycnp0blJkRTZMYnZLVUI0T3YxUTVaUldpTU9PaDZnOGZDeVk3ZHIxSURIMXIwdlFRVVczWVI1ZWZYR0tJSDJyejBFaW5fR09OVlNiTHVMNl9zdk1kaUVnQnc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0da2bc81c3aa",
+      "title": "Telescópio italiano em La Palma flagra rara “Cruz de Einstein” no espaço e descoberta incomum faz cientistas repensarem como galáxias gigantes crescem no universo - CPG Click Petróleo e Gás",
+      "published": "2026-06-05T14:36:00+00:00",
+      "summary": "Telescópio italiano em La Palma flagra rara “Cruz de Einstein” no espaço e descoberta incomum faz cientistas repensarem como galáxias gigantes crescem no universo&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPXzlQeFhxXzZ1SFZDRGNKblZpb2hRa0FPaXZsd1hMZlROenA4bk80dlVEdFl1VGVTWXZkVTZUR1lfTE1rT0dJTFVQT1JRQTJMRWxiQ2J5bHdieUloTFVTNkJuVTZORTRQbE1sZWhDOHViTU9pYzRvUkdYRTV1T3JhNU51aWJlUTl1ZkFQWl95LUQwTlFjdWVLNXRtRG1RQTJGSFFPR3M0TGh6VEhvT0pZaEM3aTJzNS1say12U2stU2xqdVBRazNFampTNFhpT0o2alNiak9WU1RyZlRkakhVVDAybmNRVDdjbGJuSVRjOEZEQU0yanFwZTJKZGhqV2RDNGgxVnhuX2ZnbmRpSUFMZXozNElweVhGWm9xWUVmREt0NmxfeFVv?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b5d09b64e1a3",
+      "title": "Resfriado, gripe ou Covid? Como identificar os sintomas - O Globo",
+      "published": "2026-06-05T13:31:15+00:00",
+      "summary": "Resfriado, gripe ou Covid? Como identificar os sintomas&nbsp;&nbsp;O Globo",
+      "sources": [
+        {
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTFVxaVBvdFNhclFfV2FLcFhsejM3a1ZEU1JOZmdNR1NMempweExNNnZGVjNvM0VYUFNiQXJRVmFITzFFYVRpcGpPUzh1WXBwVE1oTkVhSFpjQVNZLXhuOTF0YTBudHBXZTg5SUtYWmZnQ0k1S2FRS2N0Y2E1aXJQR25VbkZLcVJCTEdIT0tTYUtXQTBxOWZiWk8zTXM4WktfcmlSd1ZPMlpSMmxtbUZySXprOGtHd0NMSTBEbEJHX0ZoRHA2RE4zc0VTMNIB2gFBVV95cUxON3hRWVBsODI2eUZQcjZ2REF0THp1Z3B4Ql9lYmZZaFh4SU1tRnBCUkJvMnNDUVkxRUNqTF9tQU42a1FnR0RNNVZOQkdMUHNyMUx5X2pMVE0tQ1ZOYVpDRDYtOFNrcWg5TWh1OFc0VmlWU3FGbzFZV2IzZnMzV0JHbEptaVNhTkd6dWhreW1lRDhROGxGcGRpTnlqZmNLTEZicHg3MzFrMTR5NFdXOGVGZHZwYjRfZjZwS0hXel9VT1UwNDRpX1ZuVWN3alRnQzRsbzYtcHJSMl9HZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2c5fc476c79e",
+      "title": "Com cem anos, médico vira inspiração em academia e prova que idade pode ser apenas um número - CPG Click Petróleo e Gás",
+      "published": "2026-06-05T13:05:00+00:00",
+      "summary": "Com cem anos, médico vira inspiração em academia e prova que idade pode ser apenas um número&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQd01BMHZkVGo0d2tFQUFQejRqcXpZdDVoTkRXMFZlbjRWTFhaMGNBcm9UNjN1MUV1aDUwdGpEZkNBUWRyUlc4SUt1SHJvWm1pNWx5cW9kZDZCempGc1Y5YUx5Vi1abzI5ZnM1TGVyNzhiblpScHNKTnBXYnJLYV95Q0dUUkJycmVuY245VldBMzdBSUtqSUtsTzV3ZHhiM2hHT09HNXMtaUVkeHdTdjVEcFZ4Sm1CZmRLVzFzY3ROeHNHTlBlTUZVRV9saWtqT3ZXTk00?oc=5"
         }
       ]
     },
@@ -33,11 +81,23 @@
       "id": "1e02729b024a",
       "title": "As 7 coisas que todas as mulheres deveriam saber sobre a saúde do coração - O Globo",
       "published": "2026-06-05T07:30:54+00:00",
-      "summary": "As 7 coisas que todas as mulheres deveriam saber sobre a saúde do coração&nbsp;&nbsp;O GloboVeja mais manchetes e perspectivas no Google Notícias",
+      "summary": "As 7 coisas que todas as mulheres deveriam saber sobre a saúde do coração&nbsp;&nbsp;O GloboMédico diz se mulheres têm proteção natural para doenças do coração&nbsp;&nbsp;MetrópolesDoenças cardíacas seguem como principal causa de morte entre mulheres&nbsp;&nbsp;Agora RN5 medidas para mulheres evitarem doenças cardiovasculares; óbitos no ES cresceram 16,5%&nbsp;&nbsp;ES HOJEPor que homens têm problemas de coração antes que as mulheres?&nbsp;&nbsp;Estado de Minas",
       "sources": [
         {
           "name": "O Globo",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNakRTWEwxZ21UOFJPNG5ieFpJQ3FzaDhCUTdFVHYwb1pfdDR3TGpxa2FLanhhaXZtbGRUREdpdXlDT2tZLThwa1hTU213aG1rTUlRWTZWTmhpWW90U3pQdnNCaVpLOVZnWElVWDEyUUREVXIxNDQ3OEtaNjh2SXVSR1dFbVdlYVYtcmRiNmluSEZSMURHVXRZZVNZeFdVMTR5b3dpWGhTMXJwanBBc1lRdk9BZUIxcmVOMmVJY1J1TXIwc1luMUxiatIB1wFBVV95cUxQelBET3FxZ3pMUUp1eVVOQTVORHZDVTlnTW5Yck0td1QtNXE5Z1pmblBfS0ZZZ19SOElkR0RubU5ydHRoNkpxcUpjejBqTGplWndKNWZNR2pObjBHNGRiNFplR3pzRkRnSWVKNVZqd3NKOURWRVFpWnVGbjQyanpFLVNNTHlSSkRPaDZPOV9Eb2d2ZVozcGdMZVJVM3hmMDVoNmN2NnlCeTVqcmswWXNXb04xeG12LVpzT25UVzZuajhQTFpGa19XODg5R3NncDZXTkt6Wks2Yw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d446d67748c2",
+      "title": "Asteroide ou fragmento lunar? Novo estudo reacende mistério orbital da Terra - R7",
+      "published": "2026-06-05T03:34:33+00:00",
+      "summary": "Asteroide ou fragmento lunar? Novo estudo reacende mistério orbital da Terra&nbsp;&nbsp;R7",
+      "sources": [
+        {
+          "name": "R7",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd0s5MEJSelF1UmtENWhXcGdSZUdnMmlEOTlSbU1uMWhjRFdCRkJLNWY2TlNabldxamdCaUtyNldSUVhMUWFwQ3AzYUtQMVhMejRuRWg2NjgwbjBsakR5bW5XUTA2bzV4T1RkOFlrVXNSbVVlaG50bGU1MnZuREdYaTV4N2xsek1BQUl1Z29RZFV5ZTF0dVRLWkRJSDg1TUhJMlZ5b0hCX29QODVsR2g0ZlRxLVJKbDhnV3ZWYl9lZw?oc=5"
         }
       ]
     },
@@ -102,6 +162,18 @@
       ]
     },
     {
+      "id": "eeb5d7819bdb",
+      "title": "Os filhos mais inteligentes costumam nascer nesses meses, aponta estudo em psicologia - Correio Braziliense",
+      "published": "2026-06-04T21:27:00+00:00",
+      "summary": "Os filhos mais inteligentes costumam nascer nesses meses, aponta estudo em psicologia&nbsp;&nbsp;Correio Braziliense",
+      "sources": [
+        {
+          "name": "Correio Braziliense",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOLTg4NDZ3UDYzMTQ0MVRRZjMxOHFIaC1yTVExUWpYYm9naXppVDNFZjVkNjZuTHJ2bXdPVVFKSmdhMDNJaDFEaWFYYmt4NUdfaExSRS1KSjlqQjJiRGJzTUJXcFI5TFFZSmxYZW5URDE0Mnh5eXdsbktrbGFYVk1IX0hhXzByV0VJOHI0SnVJMTBSemhPUnZJMWpZNEl5OVg5bWpzTWV2b2daREl0TFZfUmFJWHNFcVVyTmRhNGtjLUZ1b0psVGxMcTFoaw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d81dcaaa7982",
       "title": "Novo estudo aponta falhas no combate ao calor extremo no Brasil - Meteored Brasil",
       "published": "2026-06-04T21:26:00+00:00",
@@ -117,23 +189,11 @@
       "id": "4d02899c52cd",
       "title": "BH amplia vacinação contra gripe e leva imunização ao Mercado Central - Estado de Minas",
       "published": "2026-06-04T19:54:00+00:00",
-      "summary": "BH amplia vacinação contra gripe e leva imunização ao Mercado Central&nbsp;&nbsp;Estado de MinasVacina contra a gripe é aplicada no Mercado Central&nbsp;&nbsp;G1PBH abre 19 centros de saúde neste sábado (30) para vacinação contra a gripe&nbsp;&nbsp;prefeitura.pbh.gov.brMercado Central de BH terá vacinação gratuita contra a gripe nesta sexta-feira (5); veja&nbsp;&nbsp;O TEMPOMercado Central tem vacinação contra a gripe nesta sexta-feira (5)&nbsp;&nbsp;Rádio Itatiaia",
+      "summary": "BH amplia vacinação contra gripe e leva imunização ao Mercado Central&nbsp;&nbsp;Estado de MinasBH tem vacinação contra a gripe fora de postos de saúde&nbsp;&nbsp;G1PBH abre 19 centros de saúde neste sábado (30) para vacinação contra a gripe&nbsp;&nbsp;prefeitura.pbh.gov.brMercado Central de BH terá vacinação gratuita contra a gripe nesta sexta-feira (5); veja&nbsp;&nbsp;O TEMPOMercado Central tem vacinação contra a gripe nesta sexta-feira (5)&nbsp;&nbsp;Rádio Itatiaia",
       "sources": [
         {
           "name": "Estado de Minas",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVllSZ1NlOVI4al9FZkpneDhab2RVXzNuaERwaWtjM2k4eW5oWXNGWTBpRVdtc1NlQXFOS3JfVndKUEVaSkFDbXNUal90akVjakxLbUlnbmFYUEhsTDM1eHBGaGJtOWhqdVh3TUVKTTJOWU5hOTc3UUVjanRKeHJ4eGh0d0VIdjN2dm1XOVVSdVd1eUFaNGxGVE1KVHYyZjJxZzYwRjVJbl85bUhWNWg4eWZwX0JpNTZTUDZN0gHAAUFVX3lxTE1DTnVOemNlOHFJcnkwN3VQV2pzTzhGUnRuYzM5b1VDN2tzZTh2VEU0QzhYNkVWanNhbEVfbS02bmhqVFJlYm1DTTFzTk81SnBaaUItNmF2aXlBalJfTldHYXVhNDBFQmR2Q1J2S0dZTWt0LWY4M0RtUnBZS0RWczYyUERDS3NWOEhNX0NCMVU4czV0UmJHcy11SDVkaGlBN3lHWTRnX1JYR0xfMHBWMVNpTHN1ZW1tWlYyenhqUnhhMw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9fea0a6893dc",
-      "title": "Vyalev: saiba como funciona o novo tratamento para Parkinson autorizado no Brasil com infusão subcutânea - GZH",
-      "published": "2026-06-04T17:04:10+00:00",
-      "summary": "Vyalev: saiba como funciona o novo tratamento para Parkinson autorizado no Brasil com infusão subcutânea&nbsp;&nbsp;GZHAnvisa aprova foslevodopa no Brasil: medicamento é indicado para pacientes com Parkinson avançado&nbsp;&nbsp;InterTV WebNova terapia aprovada pela Anvisa reacende debate sobre tratamento do Parkinson avançado&nbsp;&nbsp;guairanews.comNovo medicamento para Parkinson é aprovado pela Anvisa&nbsp;&nbsp;www.proteste.org.brAnvisa aprova novo medicamento para o Parkinson avançado no pa",
-      "sources": [
-        {
-          "name": "GZH",
-          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPa29Ca2VZTWM1MEJqaHBSeU1pSVJDV2RxcE5hN2VDMlVTSjFjYVBSalJ4bUpGdzBVQ0xHMDdOMFZUV2tKcDZRV0FVVWxDbnBNaVBRVE5faXIyaUlQcHR5M0JnbjdfS1BLMmdILXpERUhFRUU1eWNXcWFlcW5ESDcwZGNoUDM3Yk56dmRNc21ISVNnSEMwbk5CZUI0VFpnanRYU2VNQWFqOHdWb1R6XzJUZS1ueU1WTFg2QXljT2F6c3pRRUk5WWQ3cDZPdWNWLVdHWXhzLWZlOHprelVFZi1aUk1iNFVKMndqMFVZc0RjSTl2REIwSnQ1V3MwYy15Qi1VTnlRX09qTUYzZF9NM19zTWVkSGNjSXM?oc=5"
         }
       ]
     },
@@ -150,14 +210,14 @@
       ]
     },
     {
-      "id": "501b2ededf42",
-      "title": "Tentaram te enganar: estes produtos parecem saudáveis, mas fazem mal - Metrópoles",
-      "published": "2026-06-04T15:59:13+00:00",
-      "summary": "Tentaram te enganar: estes produtos parecem saudáveis, mas fazem mal&nbsp;&nbsp;MetrópolesExcesso de proteína pode trazer riscos à saúde, alertam especialistas&nbsp;&nbsp;Folha de S.PauloQual a quantidade ideal de proteínas diárias? Nutricionista explica&nbsp;&nbsp;A GazetaGuia prático traz tudo que você precisa saber para descomplicar o consumo de proteína&nbsp;&nbsp;O GloboConsumir proteína em excesso tem cinco riscos que quase ninguém que segue dieta hiperproteica conhece, e dois deles afetam",
+      "id": "e1591b6f5141",
+      "title": "Exame de sangue pode detectar câncer em fase inicial, diz estudo - Metrópoles",
+      "published": "2026-06-04T15:19:19+00:00",
+      "summary": "Exame de sangue pode detectar câncer em fase inicial, diz estudo&nbsp;&nbsp;MetrópolesComo um estudo ‘negativo’ abriu portas para rastrear câncer com um exame de sangue&nbsp;&nbsp;G1Novo teste sanguíneo identifica 95% dos tumores em fases iniciais, indicam investigadores&nbsp;&nbsp;SAPOExame de sangue detecta mais de 50 tipos de câncer em estágios iniciais&nbsp;&nbsp;Estado de MinasExame de sangue para vários cânceres: o que o resultado do grande estudo britânico realmente mostrou&nbsp;&nbsp;Tua",
       "sources": [
         {
           "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUzdTbUNLenZ5WEl1RmRtMXpGRGg3QzQ0VXlJTkl6cVVaWG1UcFg5c09SRXFjNDFTNGRpcGNqWVctbnRYTzYtZEViTkJUcTVmQnZiN2hIZERCOUJ4eFc5TUVfOHpYeDN4bGN1dWVhNHl5M0lQQllRWmVXbkhiZTJERVJETWxJRXYwMC1lYUZRTFNCYWVyY1pYMjltM3BTa2dOLVdvRVo3dEZaXzZmUFdRU0pYbVA1dUE?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9mNHF2WUtEUlZoVG9Xa0U2N2xScTBFX2lLQWhaZEVfeW13RDJMcE51clZaeDlHNThkS2lsdERjd2FlSDRMMkRaMXVCdEd0VGF1RC1EZjVOeGx3enpPWUJSczg3T1Y2VVB4aU5KWHJLNTdLQQ?oc=5"
         }
       ]
     },
@@ -165,7 +225,7 @@
       "id": "399b4e79b7a3",
       "title": "Vacinação com a Pneumo 20 pelo SUS começa em duas semanas - Agora RS",
       "published": "2026-06-04T15:03:29+00:00",
-      "summary": "Vacinação com a Pneumo 20 pelo SUS começa em duas semanas&nbsp;&nbsp;Agora RSVacinação com a Pneumo 20 pelo SUS começa em duas semanas, diz Padilha&nbsp;&nbsp;Agência BrasilNova vacina pneumocócica 20 começa a ser disponibilizada no SUS para crianças — Ministério da Saúde&nbsp;&nbsp;GOV.BRVacina ‘turbinada’ contra pneumonia e meningite é incorporada pelo SUS; conheça&nbsp;&nbsp;VEJASUS oferecerá vacina pneumo 20 para crianças; imunizante protege contra pneumonia e meningite&nbsp;&nbsp;GZH",
+      "summary": "Vacinação com a Pneumo 20 pelo SUS começa em duas semanas&nbsp;&nbsp;Agora RSNova vacina pneumocócica 20 começa a ser disponibilizada no SUS para crianças — Ministério da Saúde&nbsp;&nbsp;GOV.BRVacina Pneumo 20 chega ao SUS em MS: veja quem pode tomar&nbsp;&nbsp;Campo Grande NewsVacina ‘turbinada’ contra pneumonia e meningite é incorporada pelo SUS; conheça&nbsp;&nbsp;VEJASUS vai ampliar proteção vacinal contra doença pneumocócica&nbsp;&nbsp;GAZ",
       "sources": [
         {
           "name": "Agora RS",
@@ -177,7 +237,7 @@
       "id": "2cf528e0ab4e",
       "title": "Quanto tempo de musculação por semana é preciso para reduzir o risco de morte? Estudo de Harvard responde (e é menos do que se imagina) - O Globo",
       "published": "2026-06-04T12:19:16+00:00",
-      "summary": "Quanto tempo de musculação por semana é preciso para reduzir o risco de morte? Estudo de Harvard responde (e é menos do que se imagina)&nbsp;&nbsp;O GloboMusculação realmente pode ajudar a viver mais?&nbsp;&nbsp;G1Musculação semanal pode reduzir risco de morte precoce, indica pesquisa&nbsp;&nbsp;R7Quer viver mais? Estudo aponta qual o tempo ideal de musculação&nbsp;&nbsp;MetrópolesMusculação pode ajudar a viver mais? Estudo aponta redução do risco de morte precoce&nbsp;&nbsp;Terra",
+      "summary": "Quanto tempo de musculação por semana é preciso para reduzir o risco de morte? Estudo de Harvard responde (e é menos do que se imagina)&nbsp;&nbsp;O GloboMusculação realmente pode ajudar a viver mais?&nbsp;&nbsp;G1Muito além da estética: por que a musculação é essencial para a saúde&nbsp;&nbsp;Portal Drauzio VarellaQuer viver mais? Estudo aponta qual o tempo ideal de musculação&nbsp;&nbsp;MetrópolesPoucos minutos a mais de sono e exercício já garantem pelo menos um ano extra de vida&nbsp;&nbsp;V",
       "sources": [
         {
           "name": "O Globo",
@@ -198,18 +258,6 @@
       ]
     },
     {
-      "id": "dce8ecffb3a4",
-      "title": "Governo do Amapá decreta emergência em saúde pública por aumento de casos de gripe - G1",
-      "published": "2026-06-04T11:40:09+00:00",
-      "summary": "Governo do Amapá decreta emergência em saúde pública por aumento de casos de gripe&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdFl0akpWODFhbmF1TjczWEpvZHo0d0FVUVZUSXFncHpxMmE0Y1B0YXR6b0FlU2dYUm1HTzROUzFYZkxkNWFHOGhiZGE0SXlmcThROWRSZllUUmJVWUVoWE9MY3A5NTZxaXdYcWx0OTluc1Q4ZjYtNWcxTHZ2V2xIeTM2MksybzFpUGFscmYzQ0Fic0hnWWdOT1JRX1lVeE9RRUxPLTdneGs1ZFVxajhJRUt5cU5wSjhkeEY5dlVHUWlHVjBfN2xIaU1Qa3RZVi1fZjQw0gHiAUFVX3lxTE5sa0M4MGVPLWZ4cV84ZUk5VHplazd0aUY2YzRNcnZ6Vjc4c0tONFdScVpsYTlBV3NCNlMteDg3R3laNFlBbG5Mb183VFJZTTZJNklhVzg5MmQ4TXZyc0tDcFRNeTM5aTlkVmV3SGxfd0VXbTBpQTJQVGxaNnl1SE5FOVk4U3pwWEszNjNwQXFCNDllY2xvRkEtTW1JZmRxemZ6VkpNbDdRNjBHYnJQLXJyV1NodHhCZmg2QzFJVkRPelBNdFpqNFo3eFdSN3F2eUJqX2J3X3RKMXhDV3NPZ0lnYlE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "982a7b0e02e1",
       "title": "Angélica, Luana Piovani e Luiza Brunet falaram sobre isso: o que a menopausa faz com o peso - O Globo",
       "published": "2026-06-04T10:42:50+00:00",
@@ -222,42 +270,6 @@
       ]
     },
     {
-      "id": "06d87475b0b8",
-      "title": "Como um estudo ‘negativo’ abriu portas para rastrear câncer com um exame de sangue - G1",
-      "published": "2026-06-04T10:38:07+00:00",
-      "summary": "Como um estudo ‘negativo’ abriu portas para rastrear câncer com um exame de sangue&nbsp;&nbsp;G1Exame de sangue detecta mais de 50 tipos de câncer em estágios iniciais&nbsp;&nbsp;Estado de MinasExame de sangue pode detectar câncer em fase inicial, diz estudo&nbsp;&nbsp;MetrópolesNovo teste sanguíneo identifica 95% dos tumores em fases iniciais, indicam investigadores&nbsp;&nbsp;SAPOExame de sangue para vários cânceres: o que o resultado do grande estudo britânico realmente mostrou&nbsp;&nbsp;Tua",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObUN0ck8tanNEeFlCQ2pHaHRwaG52eVNtV29GRlRCOEhCNldaeW5wc05wV09UN3lOeFZrOWdtWm9PVV9XTkFFdFM0NldZY3ZFbGJMV0pfOFlBbHNCbm53aVFNX3V6OFZwaE5DLTlKT0xHQTNDamRFQnpjS3ZyOEdGVEZsc2ZINnJodGhtNGRWZWRCM2o5cjhZQm9PRVRVcjZjQ2lmd19jTnFsZzItLTNVNWg4cjA4UEdXbEUyMTFDZ2tBYm1JREpWX3hpdnTSAdsBQVVfeXFMTkRGVFo4ZFRwNXhtSk94b1lZY0FGOHRqMlZtVXR6TmRUWUxlZFF0alBfSkx0SWtzSGRIQkg4TUhPQXF2alkxYnJSMzVjZmxGSS1kRFBoY0lYYV9fV3hhZEZoNVIxeDQyLU83cTdrdTVLdWYtNHhtUWxGdm5jRVIydlVzc29DV3ppSDlUSFpPSUxndXlqS1JILVJjb3dsWXNpSTg3bV8tdWw5Yndrb194WV9OalRrY2ZqREdkb3dBWU9jbDRPd19uNVFZblBLelhqX05NS2RDR2lLTGxj?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "54136c83f1cd",
-      "title": "Sal impediu existência de dinossauros marinhos, diz estudo - Portal iG",
-      "published": "2026-06-04T09:43:00+00:00",
-      "summary": "Sal impediu existência de dinossauros marinhos, diz estudo&nbsp;&nbsp;Portal iG",
-      "sources": [
-        {
-          "name": "Portal iG",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQa25iOWtEMjZiS2V4WnYyem11WXA2VGxtaEZfRnN1WmlJWDBIM0R4YWNLX1NPdTFlZFFWaVkwSVpleW1HemVDLUd4MFZWWmFLSWJFTFd6d2NOS2V1ZW1oUEtyYnlUaWZwLVBTQVRBWU1lZ2wwTnBWRVp5Nmt6YkxWZmZEVG1seGJib0RnYkppVU9HX1YzZ0lYZC1hWlRYWDBzQmZiadIBqgFBVV95cUxNYm1xbU5Jd1ExR1pDaGN6SHNzTVVpb01kckh4ZkRDdGwxM3Jkdm9QTmpLOHBEc3NWSnhLOGZZYjlEUFgyMk9sSjZqNDdCT3k0ajlUTUU3bG5mSnFtTnZBdFphcEtDNWZHd28tdFlBVVVRUlYxR0F6ZFI3a0hNSFlHLTRRc285Vk0xX050YmQxUWxVWEVBUTFhQ0RPQUsza2lyN3VFcWlrWlVVQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "39692930ebc7",
-      "title": "Um em cada quatro brasileiros não sabe que o câncer pode ser prevenido - ICL Notícias",
-      "published": "2026-06-04T08:00:18+00:00",
-      "summary": "Um em cada quatro brasileiros não sabe que o câncer pode ser prevenido&nbsp;&nbsp;ICL Notícias1 em cada 4 brasileiros não sabe que o câncer pode ser prevenido&nbsp;&nbsp;Poder360Jovens lideram consumo de alimentos cancerígenos e não têm intenção de reduzir, aponta pesquisa | Brasil&nbsp;&nbsp;Valor EconômicoBrasileiro ainda vê câncer como destino, e não como doença evitável, mostra pesquisa&nbsp;&nbsp;Folha de S.PauloEstudo mostra que 25% dos brasileiros não sabem sobre prevenção do câncer&nbsp;",
-      "sources": [
-        {
-          "name": "ICL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oSW9DMFc0YXYzVEFuWmJ5TjRzR1FFc2NrbmZxd1lNdHN1aVcwb1ZfNTdKc3Z2MTIxTzBfUkN1SGZpaUEwdm1abmlHbngyR1VTS3NMR1V2RUZYYXpzMzN3QWJVaGRDUzBGTDRVQk5iNlc4dmo4OGc2NE1MNi1xWFU?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c067641fea2a",
       "title": "Um estudo propõe transformar a Lua numa espécie de centro de quarentena para amostras trazidas de Marte e de outros mundos, criando uma barreira estéril e isolada que filtraria qualquer organismo desconhecido antes de o material chegar à Terra e aos - CPG Click Petróleo e Gás",
       "published": "2026-06-04T05:29:00+00:00",
@@ -266,30 +278,6 @@
         {
           "name": "CPG Click Petróleo e Gás",
           "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNOTk3VFZjcTNvMUpNNG92dGhOQjl1TmhBLUczVXE0UmV3RkUwZk5PR2dSOGVYQmJ2c19sZl9pMVE1VmdOZ2ZuN0lhWDY1aklvblZQcWdfay02UGV1MXVqY3NrVWhweUZIWUVBZlZnR1ZGNXhaeHdxaG5yZzJESzdoRERSV3NhZ3g2WDg5OUZkRkxjSEtMZmhXRGZwWlZZdjRsZERFRDZzM252UTVPd3pleUp2Qll0ak5yc0dENDJsQ0IwRFEtTzliU0tEVTVGUzFyUHM0NjR5VHBQVG5sLUc3bHEweXlOT1U2M3RMOHF2ZV90dS1mQWloR0o0aHJWVjBtd1Vha0h2S3N1dDhla0hxZ3lhWVpVU1diSDVNaFdQZXF0Wi1uQWhMOW1mQXRhNDJzRDV2bGdrc3h2QUpGU1RFN0lQWWtnVEU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "35eb4ab93104",
-      "title": "Infectologistas ensinam qual é o melhor jeito de se proteger da gripe - Metrópoles",
-      "published": "2026-06-04T05:00:28+00:00",
-      "summary": "Infectologistas ensinam qual é o melhor jeito de se proteger da gripe&nbsp;&nbsp;MetrópolesSaiba quando se preocupar com a gripe, quais são os tratamentos e os sintomas da doença&nbsp;&nbsp;Jornal O SulComo se proteger da gripe? Infectologistas explicam principais cuidados&nbsp;&nbsp;SCC10Sintomas e Riscos da Gripe: Quando Procurar Ajuda Médica&nbsp;&nbsp;brasilemfolhas.com.br",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1iMVlfLWctUkZKSC04VThHV2pxY1JsOHE2cWN5SEpoUUFvQmwtRXZSd0VaSXE3ZXdKTUtvMWNGTjJBSDl4TEpERXVrZXlkWnVObnRiVkJuSllIOE1xaGtZcm8xajVVc1l5VHdvR1h4dkY?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c0c2902c9d1b",
-      "title": "Feira da Saúde tem grande adesão no primeiro dia e segue até sábado no Centro do Paulista - Prefeitura do Paulista",
-      "published": "2026-06-03T22:50:39+00:00",
-      "summary": "Feira da Saúde tem grande adesão no primeiro dia e segue até sábado no Centro do Paulista&nbsp;&nbsp;Prefeitura do Paulista",
-      "sources": [
-        {
-          "name": "Prefeitura do Paulista",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN3h3U3R0SWVfR202ZzFPajlXa2g5d21vYnBuSTJkalB5elZNUmxIem16ZVdwUE1MOXN3Q1Z6d3JwY0ZWUlBTYlRYR28zUVpUTld3ZXFla3pobnBSbTh1OTJXek1CbWNfd3dIRzdfSWstd3poNE55bU5QU2ozN1FHME5BWTA0ektHeFhoeVNxcjVoUThuYmMwZ3BPTklDVDZkLU9PTzA5Nm56QU5QZEJVbEQwQTNmOWl2?oc=5"
         }
       ]
     },
@@ -314,54 +302,6 @@
         {
           "name": "Portal Drauzio Varella",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYnk3N3JyWlgyV3B0bGZOVWhNbTMtdzBfZ0M2RExkTzBNcEJ3Z1NOXzZ0U1RvYm4wWG9NeW9BdGdZak9RNkFodWtVX2VScENCZVpYdEE3WmF3THo0S1hnLWU4RnpMVHRSRWtlZGlxeFRuWkNCVktOTDdxc09zSXREMFdQOGN4bEZNaW4zMGxBVlNrTVFqM3N3RVRXcmRlTWpZSjEzZ0VTSzZDdjZIQVFBN0RhWmtUQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c84696eab023",
-      "title": "Novo estudo sugere que bactéria intestinal pode prevenir o reganho do peso - UOL",
-      "published": "2026-06-03T19:27:33+00:00",
-      "summary": "Novo estudo sugere que bactéria intestinal pode prevenir o reganho do peso&nbsp;&nbsp;UOL",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUHI1X1VUdk5lSEpLRTg5eDYzTGp2RGlYT2lKMlU0dmZrS29EODlfUUplZVFOWU9JT3JFODVOTTY1TnY1UmlaN0ZYZEZLSkVKUlVXMGIyN3VCd3lKU0MtbmdPM1RtTXhXMkUtLXZzNGFWQVhSQmhuaDhwTHpvbEwtSW5vUFp2aERsUldvUjRRZjM3eDVPQnh1c3RZbEVqVEJiUFJ4NDRrQVR5ZVA4eWMxSlN4amgtd2hwQ3U5ZkFGcFFmbi1lY0tDWTZINWtxOHNjcWpOYw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "92d1cae871c9",
-      "title": "Descoberta de um projeto com peso superior a 6.000 toneladas no meio de áreas montanhosas remotas, tão alto quanto um edifício de 35 andares, com previsão de operação a partir de 2028 - O Antagonista",
-      "published": "2026-06-03T19:23:00+00:00",
-      "summary": "Descoberta de um projeto com peso superior a 6.000 toneladas no meio de áreas montanhosas remotas, tão alto quanto um edifício de 35 andares, com previsão de operação a partir de 2028&nbsp;&nbsp;O Antagonista",
-      "sources": [
-        {
-          "name": "O Antagonista",
-          "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNSjVjcVhDOHQ4RURZcktVd2M0MWk0VTNLYzAwQjBmUFY4QnpXSkR4TWJJTHVGSXpvb2VwYmlEazZuQXRSaEJHLUNIN0FOUThkWGJ2VHpNSDBDQXBYeEFtYVFUaUJ0RER2MWV5bjljUC1EVFFaZjFGc3hfY2FGQnZOd3VFbUZNNEdMaFdzV3A3d01iWTNHbUEyR3pJMkRJZUVydTh5LUduYjlfOXNxbTNTWUpocFdrN1hqNGZPRS1FdDVURlB3V2RGbnpEMGJHY0tyYnN4U0pVaU8zYzE5RmUtMm00MlRvWUpHeW0tWThvWEU1MmRIQWZJWTB0dUpabkpFUVBYb0g3ZFFKS3R3TUFMUk1OdmE2ak5qX1M1WnpGRTVJSjVPRVI5cXBOaGJpdVI0SExUdl9SNExzSUZK?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6dc71c14a59b",
-      "title": "Carlos Nobre alerta para risco de colapso climáticos durante Rio Nature and Climate Week - Envolverde",
-      "published": "2026-06-03T18:42:09+00:00",
-      "summary": "Carlos Nobre alerta para risco de colapso climáticos durante Rio Nature and Climate Week&nbsp;&nbsp;Envolverde",
-      "sources": [
-        {
-          "name": "Envolverde",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSDVERDVraDdFeXoxTklpb3BYOGZUNFQyYmxFcHgxdkUxZVNqaFI3WFdZS0tYSUIxYlZjSGs1MV9kZWdnWUJScUdIY0d6cWZCUjJNNE1xVmFrTHphTko4eEh5N2ZsZzBTMmQ1SC1UMk5OYmJuSXlrZEk1SDM0d2hXaGpOSU1meG9GN244M3Z3MkJMT0RXeUVLa0pWeDJWbEtkdVFxQlRLZ0FlWXFBWDZpMm9KclFYZGVuTy1rRW5qdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c8d3b4fa828a",
-      "title": "Novos Estudos Investigam o Papel das \"Canetas Emagrecedoras\" Como Aliadas no Tratamento do Câncer - Forbes Brasil",
-      "published": "2026-06-03T18:00:55+00:00",
-      "summary": "Novos Estudos Investigam o Papel das \"Canetas Emagrecedoras\" Como Aliadas no Tratamento do Câncer&nbsp;&nbsp;Forbes BrasilEstudo aponta impactos da dieta, exercícios e vitamina D em pacientes com câncer de mama&nbsp;&nbsp;VEJA'Canetas emagrecedoras' podem reduzir risco de câncer de mama em até 30%, apontam estudos&nbsp;&nbsp;O GloboCanetas para obesidade podem reduzir incidência e morte por câncer de mama, sugerem estudos&nbsp;&nbsp;EstadãoEstudo liga fármacos para emagrecer a menor risco de can",
-      "sources": [
-        {
-          "name": "Forbes Brasil",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQR18xaDB1RjYtclhUem81MDhlYXAxcGt0YXhtWEdRbVpVaW5SQ0NIbTVodkFveGgtUnJpZkRiYkNkSkFuQzVERmxQOUdWT0lWMzVJQ1BHYk9xSFFRUFRWRVVSZUZLZ25TbFBuUk1rb2ZxMlN0NW94U1NzU3dzNmVBYUdaMzNZazZRak9oX3VRVVlDcGx4VzdfSXk0WU9sRkNBekJzNVkyRk9SdHYyMVRIWHNRZmZfNE1CNzhnUFdYeGJDUEdoYnllVnI3SGFEQUtrVHhORThJc3RVT0lkLXNXMUp5QXBmMkU?oc=5"
         }
       ]
     },
