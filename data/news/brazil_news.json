@@ -1,10 +1,22 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-06-06T08:35:31.480446+00:00",
-  "total_fetched": 87,
+  "fetched_at": "2026-06-06T13:48:12.993525+00:00",
+  "total_fetched": 86,
   "unique_count": 84,
-  "health_related_count": 28,
+  "health_related_count": 25,
   "news": [
+    {
+      "id": "70facbd65272",
+      "title": "Pão é ultraprocessado? Sistema criado pela USP ajuda a identificar alimentos prejudiciais à saúde; entenda - O Globo",
+      "published": "2026-06-06T07:01:39+00:00",
+      "summary": "Pão é ultraprocessado? Sistema criado pela USP ajuda a identificar alimentos prejudiciais à saúde; entenda&nbsp;&nbsp;O GloboEmbutidos ultraprocessados, como o presunto, podem ser considerados na cota de proteína diária? Especialista responde&nbsp;&nbsp;O GloboSaber o que comemos&nbsp;&nbsp;CartaCapitalOpinião | Indústria de alimentos: sob ataque e em silêncio&nbsp;&nbsp;Estadão3 notícias sobre: comida ultraprocessada&nbsp;&nbsp;Superinteressante",
+      "sources": [
+        {
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNFdJLTNBVFk0Vk5aRFRVY3hSQXNLUGwzM3RZa3hVY1BEMXBhaFd5YUxoLUdVN0lEdV80ZVRkbXNPWWZCTWpyZUlKcmdwYjRTV2JkWEdNVGE0MmFUX2NQNS1PRU1qd0xQSGtvN3ZwQVR5cHRiaE9xU3VXVVRCekQ0LTBtczdMODdjMnd1TjFkeXJDczVudktmdGlDbFhCZ0JKbjRyMWtfdkFHalZVd0twMFZfbmwtSUx0TzM1ek1Sd1h5Y2xKSGFiVzlJZ0RvSUY4X0YyRkVSUG1RVHlydFhFTzNkSjhKQTlsTEJOMUtIcUFoZ9IBgAJBVV95cUxOYWVRdVBrb2hSb0dzY0h4QTRoNjJlOEVTSEstNF92UnJKZDYxS0hkdFF4ZHlfcTR6QTVMSlBQaFJPTnU3M1JONHp5c2d2MFc0YlZPZVIyMjhXUE1WWTlKNGdxaF9pNWtrZ1k0d3Q4eGo1Z0E1VnpuSlU0b3ZUdm44Z3c4cFJHYldjQkxEYWRBVEN4ekZmTFc2UV9JMmQzZjVKVGdjRlB3eWVLbTR5S2Z5RmNPNVF0NG5xWDNGVlJPM0hzTDRMdUlPWnh2OUU2cmllTmo4dXhSOVgxczJPblFLcWNteklXUWhoTGN0NU1xcmcwLVMtWjd1cWEzU2JjZDVF?oc=5"
+        }
+      ]
+    },
     {
       "id": "bce21cb8fe58",
       "title": "X-59 da NASA supera a velocidade do som pela primeira vez - Olhar Digital",
@@ -45,7 +57,7 @@
       "id": "61a355a220af",
       "title": "Argentina vai estender a outra província estudo de roedores por hantavirus - UOL Notícias",
       "published": "2026-06-05T20:40:29+00:00",
-      "summary": "Argentina vai estender a outra província estudo de roedores por hantavirus&nbsp;&nbsp;UOL NotíciasArgentina ampliará busca por hantavírus para outra província, além do local de onde navio partiu&nbsp;&nbsp;O GloboArgentina expande análise de hantavírus para Mendoza&nbsp;&nbsp;R7Argentina amplia investigação sobre hantavírus, enviando equipes para capturar e testar ratos em Mendoza&nbsp;&nbsp;Tribuna do SertãoHantavírus: Argentina alarga análise de roedores a mais uma província&nbsp;&nbsp;Notícia",
+      "summary": "Argentina vai estender a outra província estudo de roedores por hantavirus&nbsp;&nbsp;UOL NotíciasArgentina ampliará busca por hantavírus para outra província, além do local de onde navio partiu&nbsp;&nbsp;O GloboArgentina expande análise de hantavírus para Mendoza&nbsp;&nbsp;R7Argentina amplia investigação sobre hantavírus, enviando equipes para capturar e testar ratos em Mendoza&nbsp;&nbsp;Tribuna do SertãoHantavírus: Argentina alarga análise de roedores a mais uma província&nbsp;&nbsp;Saúde M",
       "sources": [
         {
           "name": "UOL Notícias",
@@ -69,7 +81,7 @@
       "id": "14ae113feaed",
       "title": "Doenças respiratórias comuns no inverno são fáceis de serem evitadas - CNN Brasil",
       "published": "2026-06-05T18:30:47+00:00",
-      "summary": "Doenças respiratórias comuns no inverno são fáceis de serem evitadas&nbsp;&nbsp;CNN BrasilSaiba como se proteger de doenças com a queda na temperatura&nbsp;&nbsp;TNH1Doenças respiratórias: quando devo buscar atendimento médico? Mapa traz endereços de emergências em Porto Alegre&nbsp;&nbsp;GZHFisioterapia respiratória ganha destaque durante o inverno&nbsp;&nbsp;oexpresso.com.brCuidados que protegem bebês nos dias frios e secos&nbsp;&nbsp;Jornal Ibiá",
+      "summary": "Doenças respiratórias comuns no inverno são fáceis de serem evitadas&nbsp;&nbsp;CNN BrasilSaiba como se proteger de doenças com a queda na temperatura&nbsp;&nbsp;TNH1Nem toda febre e tosse são iguais: veja quando procurar uma emergência&nbsp;&nbsp;GZHFisioterapia respiratória ganha destaque durante o inverno&nbsp;&nbsp;oexpresso.com.brCuidados que protegem bebês nos dias frios e secos&nbsp;&nbsp;Jornal Ibiá",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -81,7 +93,7 @@
       "id": "deaf6c607cec",
       "title": "Muito além da estética: por que a musculação é essencial para a saúde - Portal Drauzio Varella",
       "published": "2026-06-05T18:21:07+00:00",
-      "summary": "Muito além da estética: por que a musculação é essencial para a saúde&nbsp;&nbsp;Portal Drauzio VarellaMusculação realmente pode ajudar a viver mais?&nbsp;&nbsp;BBCQuanto tempo de musculação por semana é preciso para reduzir o risco de morte? Estudo de Harvard responde (e é menos do que se imagina)&nbsp;&nbsp;O GloboMusculação pode ajudar a viver mais? Estudo aponta redução do risco de morte precoce&nbsp;&nbsp;TerraQuer viver mais? Estudo aponta qual o tempo ideal de musculação&nbsp;&nbsp;Metróp",
+      "summary": "Muito além da estética: por que a musculação é essencial para a saúde&nbsp;&nbsp;Portal Drauzio VarellaMusculação pode ajudar a viver mais? Estudo aponta redução do risco de morte precoce&nbsp;&nbsp;TerraQuer viver mais? Estudo aponta qual o tempo ideal de musculação&nbsp;&nbsp;MetrópolesNão é a caminhada: estudo de 30 anos aponta o tipo de exercício que ajuda a viver mais.&nbsp;&nbsp;Vietnam.vnMusculação semanal pode reduzir risco de morte precoce, indica pesquisa&nbsp;&nbsp;R7",
       "sources": [
         {
           "name": "Portal Drauzio Varella",
@@ -105,7 +117,7 @@
       "id": "d538324b5d03",
       "title": "Inteligência artificial: a vacina inédita desenvolvida por IA - BBC",
       "published": "2026-06-05T17:33:17+00:00",
-      "summary": "Inteligência artificial: a vacina inédita desenvolvida por IA&nbsp;&nbsp;BBCVacina criada com ajuda de IA passa em primeiro teste em humanos, mas resposta imunológica ainda é limitada&nbsp;&nbsp;G1Nova “vacina universal” desenvolvida com IA pode proteger contra futuros surtos virais; entenda&nbsp;&nbsp;Correio do PovoVacina criada por IA para combater Covid passa por testes em humanos&nbsp;&nbsp;Olhar DigitalA primeira vacina do mundo projetada por IA desenvolvida por cientistas do Reino Unido e",
+      "summary": "Inteligência artificial: a vacina inédita desenvolvida por IA&nbsp;&nbsp;BBCVacina com \"superantígeno\" feito por IA pode prevenir futuras pandemias&nbsp;&nbsp;CNN BrasilVacina criada com ajuda de IA passa em primeiro teste em humanos, mas resposta imunológica ainda é limitada&nbsp;&nbsp;G1Cientistas desenvolvem primeira \"vacina universal\" com a ajuda da IA&nbsp;&nbsp;Euronews.comNova “vacina universal” desenvolvida com IA pode proteger contra futuros surtos virais; entenda&nbsp;&nbsp;Correio do ",
       "sources": [
         {
           "name": "BBC",
@@ -162,18 +174,6 @@
       ]
     },
     {
-      "id": "7667e31f7c04",
-      "title": "Os países mais inteligentes do mundo: novo estudo revela quem lidera o ranking global - CPG Click Petróleo e Gás",
-      "published": "2026-06-05T14:42:00+00:00",
-      "summary": "Os países mais inteligentes do mundo: novo estudo revela quem lidera o ranking global&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTUdTcW80cS1oMWVxSmt3Sk11WEFWUEJyNERGMHRZRUZwdWQxcXIwX0lycnp0blJkRTZMYnZLVUI0T3YxUTVaUldpTU9PaDZnOGZDeVk3ZHIxSURIMXIwdlFRVVczWVI1ZWZYR0tJSDJyejBFaW5fR09OVlNiTHVMNl9zdk1kaUVnQnc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0da2bc81c3aa",
       "title": "Telescópio italiano em La Palma flagra rara “Cruz de Einstein” no espaço e descoberta incomum faz cientistas repensarem como galáxias gigantes crescem no universo - CPG Click Petróleo e Gás",
       "published": "2026-06-05T14:36:00+00:00",
@@ -198,18 +198,6 @@
       ]
     },
     {
-      "id": "2c5fc476c79e",
-      "title": "Com cem anos, médico vira inspiração em academia e prova que idade pode ser apenas um número - CPG Click Petróleo e Gás",
-      "published": "2026-06-05T13:05:00+00:00",
-      "summary": "Com cem anos, médico vira inspiração em academia e prova que idade pode ser apenas um número&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQd01BMHZkVGo0d2tFQUFQejRqcXpZdDVoTkRXMFZlbjRWTFhaMGNBcm9UNjN1MUV1aDUwdGpEZkNBUWRyUlc4SUt1SHJvWm1pNWx5cW9kZDZCempGc1Y5YUx5Vi1abzI5ZnM1TGVyNzhiblpScHNKTnBXYnJLYV95Q0dUUkJycmVuY245VldBMzdBSUtqSUtsTzV3ZHhiM2hHT09HNXMtaUVkeHdTdjVEcFZ4Sm1CZmRLVzFzY3ROeHNHTlBlTUZVRV9saWtqT3ZXTk00?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4f7c16797c06",
       "title": "Jato de plasma solar canibal atinge a Terra – o que se sabe até agora - Olhar Digital",
       "published": "2026-06-05T12:37:00+00:00",
@@ -222,14 +210,14 @@
       ]
     },
     {
-      "id": "74302ad9547a",
-      "title": "Piratuba em emergência por risco de eventos climáticos associados ao El Niño - Atual FM",
-      "published": "2026-06-05T09:11:47+00:00",
-      "summary": "Piratuba em emergência por risco de eventos climáticos associados ao El Niño&nbsp;&nbsp;Atual FM",
+      "id": "3b67429114d2",
+      "title": "Um raro comportamento social escondido nas florestas brasileiras revela por que o maior primata das Américas evita conflitos violentos - Revista Amazônia",
+      "published": "2026-06-05T12:12:45+00:00",
+      "summary": "Um raro comportamento social escondido nas florestas brasileiras revela por que o maior primata das Américas evita conflitos violentos&nbsp;&nbsp;Revista Amazônia",
       "sources": [
         {
-          "name": "Atual FM",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZUo4dVowbjFUZzRGZHo5N1ZzV0JnWXRPdjdERVNBSGhRcEwtMlZMcVBZV2VsLWt4MDZweDEydGZUVU52Mmxhd1RQc2xrNHpqdFdqYWU1RVR4elYyODNCU0p4aU5YWldjN0xTQVY5a2tsdTN0eHIzelpTaUZIc0FjbzFINHlSd0xMVHU2aW9ObmVPT1NZQll0d2ZSUlpOdUN4WkE?oc=5"
+          "name": "Revista Amazônia",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeWZHNFlSZ3hKdFlCWG45aldBWklhZ1pPNFBOeS1hNHlQUkVaZGlYanFJZ0Jzc3pvRmJ6YS1qZTNCM1N0SndyQUo4QXMyMXNib3U0eEVYcTNnY2lRRzdNakdFdWFtcXp3UGJQZjRyM3R6Y01rbTF0NGdGRDJGZGJXYkp6eDJNTTlKSlE?oc=5"
         }
       ]
     },
@@ -237,7 +225,7 @@
       "id": "1e02729b024a",
       "title": "As 7 coisas que todas as mulheres deveriam saber sobre a saúde do coração - O Globo",
       "published": "2026-06-05T07:30:54+00:00",
-      "summary": "As 7 coisas que todas as mulheres deveriam saber sobre a saúde do coração&nbsp;&nbsp;O GloboVeja mais manchetes e perspectivas no Google Notícias",
+      "summary": "As 7 coisas que todas as mulheres deveriam saber sobre a saúde do coração&nbsp;&nbsp;O GloboMédico diz se mulheres têm proteção natural para doenças do coração&nbsp;&nbsp;MetrópolesDoenças cardíacas seguem como principal causa de morte entre mulheres&nbsp;&nbsp;Agora RNPor que homens têm problemas de coração antes que as mulheres?&nbsp;&nbsp;Estado de Minas7 coisas que toda mulher deveria saber sobre a saúde do coração&nbsp;&nbsp;Folha de S.Paulo",
       "sources": [
         {
           "name": "O Globo",
@@ -270,14 +258,14 @@
       ]
     },
     {
-      "id": "1c66795a6e0f",
-      "title": "Cientistas analisam super porcos mutantes de Fukushima, híbridos que surgiram após desastre nuclear, herdaram reprodução acelerada dos porcos domésticos e preocupam por riscos a lavouras, habitats e controle de espécies invasoras - CPG Click Petróleo e Gás",
-      "published": "2026-06-05T00:05:00+00:00",
-      "summary": "Cientistas analisam super porcos mutantes de Fukushima, híbridos que surgiram após desastre nuclear, herdaram reprodução acelerada dos porcos domésticos e preocupam por riscos a lavouras, habitats e controle de espécies invasoras&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "id": "43ee6e005fc8",
+      "title": "Reforma de escola em Los Angeles encontra milhões de fósseis sob o terreno, revela mais de 200 espécies, aponta um antigo fundo de mar e transforma obra comum em laboratório de 9 milhões de anos - CPG Click Petróleo e Gás",
+      "published": "2026-06-04T23:07:00+00:00",
+      "summary": "Reforma de escola em Los Angeles encontra milhões de fósseis sob o terreno, revela mais de 200 espécies, aponta um antigo fundo de mar e transforma obra comum em laboratório de 9 milhões de anos&nbsp;&nbsp;CPG Click Petróleo e Gás",
       "sources": [
         {
           "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOX1Vvc0V0SnVmVHVlMm1xeWFPRzJWTnhPV1JpZk1pSVoyay1peFBtelRvbUx4ZXVVUTh1MHR0MmtKd1RQVk1PWkwxeWF0emhSS01RNkNmMFV4d2FhSXRiV2J0WGFac3NIcEd4M0tPMVVwVkVnSEd3dXM5cC1yUExaMWNuMUNYN3YwNDJ5Z285X0dTd2FnMEFqMG9FT2NrU3ZUS3Z0QnpZVXNJSDI5UjJuM1RQeS1Pb3FRbEhDTlc5MkU2TGxNeGpqajFjM0pZbkoxbmRaaFJrMGxYaUVIUVMweEIzekc2WU0zc2dtVkFqODJJUDBYWEI1QV80Nk1JVnR1Zjg2dUM2VmFqWEZsQ1hhREdyY1ZnbGtXVXlRQS01MjdPZEdMbHl3di1ENFNNd2dVTDE3cjMtSjFOeXFKUHltcFBiU19jVFU?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPTE5LbkNZajR1SjZvQ3YxYXNLQzJ5SUJESTYzcUNPdjNwUjNkcm92YlBfM0lFV1JzT2otbXBiV1R0X1hMTTVTQ2IxS3FfTWYtel9FV3VPTW1hQXhkejdWZUgyaUVIMmRNbUs0Tnh2OGdaakptTC04MXAzM3NwM3JmUDJkb1l2cExvSlNLSElkUzdvTGhXXzFpUnhZNHdkbnhZY1Z2VVN2LXJWS0l6NklyU2pSbFRtZFNNdDBaaWEyTkFVRmVwX01iaE1zNmNXUHhMLXZuT1VjVmJlOEdUQXN3OEZoYjdfQ1ZHSENva2RWZjRIdFNXc2lGQzFNRWp1X09xMVFZMzZfOFlpWk9JSHpFc3Q0TUJFbjY5SmJDaWtOZExFY3drOGF1Mk5pOEItQzZXWUkwam1lZDNWNklXTkVfRjVyMmhZWWs?oc=5"
         }
       ]
     },
@@ -314,30 +302,6 @@
         {
           "name": "CPG Click Petróleo e Gás",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcTdDNHNwSjYxV2ljYWo5eVdGYUFHZk5KazdHMFNFWEQ4RXU1THJtOTBtQXdGNDZhLVVFelV6Um12RjZlT3hOVGhCVHh6d21aRnIzeTh1NDAwNWhkVjYxMDc5UWQtQXh3V0d2SmlidC1RcDdBYUk5Sy1WNDdUaGZMR3J1VkNzcTNhSHNsN0E4d3IzN28?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "86fa5ff0faa4",
-      "title": "A falta de convívio social está relacionada à aceleração do declínio cognitivo no envelhecimento - Tua Saúde",
-      "published": "2026-06-04T11:50:00+00:00",
-      "summary": "A falta de convívio social está relacionada à aceleração do declínio cognitivo no envelhecimento&nbsp;&nbsp;Tua Saúde",
-      "sources": [
-        {
-          "name": "Tua Saúde",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaGRSNXRhUkpjcEFQT3JlYVFDejdIOUphbnJ0X1VYaEZMc01yeEVfYV9XSWw3OFRPcl8zRTV4RFU4QW9Ta3lLNllmNUpZdEtYcGtFOGtCeE1MS1dwejlFRWRuMF9oelJ3bEluVm9KNWphcGlKLTFSbkc1MkdsekpzTjFEaFBmNDBDVGprcnlRY0VMNXNSamtfNXdSVlFKZmpDMldiemZtazlYU0RScWpzN3dKQ1RJOG9kSDNabjZzVFlINzdnamJLa2xXM3NfbG1DMWZGcg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "569616fd3b29",
-      "title": "Diagnóstico precoce de doenças intestinais garante qualidade de vida a pacientes - G1",
-      "published": "2026-06-03T13:32:12+00:00",
-      "summary": "Diagnóstico precoce de doenças intestinais garante qualidade de vida a pacientes&nbsp;&nbsp;G1Doenças Inflamatórias Intestinais afetam 10 milhões de pessoas&nbsp;&nbsp;Correio do PovoDiarreia recorrente e sangue nas fezes podem indicar doenças inflamatórias intestinais que merecem investigação&nbsp;&nbsp;Folha 5",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbHItTVVSVUFiZWFJVUUwOW9mazZlRm55dUxoUUw3Y0hHcFl2SllXSFpqR1pqWW1XcGo0SDlHT01xdlBGaHhnSktxWG5VYUZBTk5YcUkyNEI0TFBSYlNaYTNYbHFDWXgxbUk0RE1uYTJOMWpUNlNfMFNDZGdJdTM3VTdVQ2dkRUZraFAtcmlaYUFDNzJEeDIxY25ueHFMNElvSGpNcW5oSDkzOGItWkY3azA4YWI4NjJWNmUydlZGZUpxTnR6aE1CMmZZZjlnRGsydnJieXJkMjBRTjdYOVhIS0g2QkpTVXJmZ2FB0gH6AUFVX3lxTE9ROVhrZ2s5ZkZod3FoVkVwTXpSWE5SaUlQcVRfNzYzMjlyQUhNLXQ2YlJKSXl2UnBPa0sydXRDRXhyVUN2SnZDMm9BanJmUkt0eVJXWjB6czFoMDdMX25IcFFqcVNoT2hLUm9tOFhYaWRvTGhjVG1pLWgxamRiTi12MmNBQjM2N0xGcHRuMU42eFZpLVZzc1BlQ3FLX0d1Zm9mcDZyZGR5VkpRRndLNmphMkJFTVNhekpOVFNpdDR2czVBZnlWaTRkS3FWNGliekM5OWZJRy1KVXVIR1JheVpPeDR1cjBzaGcyWXc3N2dHdUJPenlpV2RaS3c?oc=5"
         }
       ]
     }
