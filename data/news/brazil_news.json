@@ -1,19 +1,127 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-06-05T19:57:39.835601+00:00",
+  "fetched_at": "2026-06-06T03:41:24.290501+00:00",
   "total_fetched": 84,
-  "unique_count": 82,
-  "health_related_count": 26,
+  "unique_count": 81,
+  "health_related_count": 23,
   "news": [
+    {
+      "id": "c52d3cfecdbe",
+      "title": "Vulcões considerados extintos podem estar “acordando” depois de 100 mil anos, aponta pesquisa - CPG Click Petróleo e Gás",
+      "published": "2026-06-05T23:39:00+00:00",
+      "summary": "Vulcões considerados extintos podem estar “acordando” depois de 100 mil anos, aponta pesquisa&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbFFVYmxBVkplbWZScVlEa1BwTGtfT0JmaTg1ZEpiLUNTMzlnUDlNY1hQLURJU0tpSzRsUFVtMTZ0X0g5dHMzSGN3NmNCbkFFTmZrYko0dUlaektlbTBrODNadXNHTkR3TjdtWVpYY2dtdUpGY2VKNW5LUk5OQkNpOWJVdGdUMHc4d19ZTTNpcllmUThJRlg3bDJ5ZFJDTE9KOGJrZTNJNllSM1Zpc1BXTXZlQUtodFZOajA2dFN5MUZlT0dZY195LUl3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8948d63acda4",
+      "title": "Nova espécie encontrada por pesquisadoras pode sobreviver a temperaturas extremas de 100°C - Diário do Comércio",
+      "published": "2026-06-05T22:20:00+00:00",
+      "summary": "Nova espécie encontrada por pesquisadoras pode sobreviver a temperaturas extremas de 100°C&nbsp;&nbsp;Diário do Comércio",
+      "sources": [
+        {
+          "name": "Diário do Comércio",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUzk1WHN3TVlzMUlNSHVRWjJ1aTQ3OXhqZlVpakZtaEtOTXN1TmR0MkJFUktqLURZcGxQY05BYlFQQjRwZnRocm84OGNVYVIwVVJKdFRkTzN0elplNk8td3Vha0FTeTBaTGpEN3lZLWpBQ3hLYmU0VTVTdHJyRGFsRjhuY19Zek44azktemRzVU0tR3J3U0ctSzl2RnQ5OVN2ak5qUTNQOC1vUGs0cXVaMmdPaWtRY3dibTgzYk0tU2RVOFo1?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "61a355a220af",
+      "title": "Argentina vai estender a outra província estudo de roedores por hantavirus - UOL Notícias",
+      "published": "2026-06-05T20:40:29+00:00",
+      "summary": "Argentina vai estender a outra província estudo de roedores por hantavirus&nbsp;&nbsp;UOL NotíciasVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "UOL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZF9fQzZ4MWwwNk9lU19xZnRiNG1NZy1SMkxDanNkeGpsTVZiZGY3bG1pX2w1XzhvSjBWYTBWSGpEVmN4LTQyR1gwSHB5QUJoMVRuYnRwUzRUOHRrQUphcnpZRlRfd0xqNTdfNW9rQ2s2elk0S0xzRVI0V2ZROUVTaW4zOUJpMFdRUi1WaHRaOXMxYnpaai1HR3REQ3BKQUFVTnpvUTY0NmNaTzlIRnFwUmFLSUJ0OGFEN2M4cVZNc0pSQ0Z5cEplVTgxYXdsWmdTZlNrWQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "769edb633c08",
+      "title": "'Milagre' científico: estudo explica como espécie de peixe sobrevive sem machos - Globo",
+      "published": "2026-06-05T17:50:02+00:00",
+      "summary": "'Milagre' científico: estudo explica como espécie de peixe sobrevive sem machos&nbsp;&nbsp;Globo",
+      "sources": [
+        {
+          "name": "Globo",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTlE0RFRha2pjZ2NYTFFCUno3WEJhcnFPclh0enJOZ3M2VkZMT2V2T3BjaUVnNzJpVURMT1Fhdy1TN3d1SWthb3F6cUx0aTFDSTBVcHpsMEZzSmxCUTdaYUlsbE9iaGs3cC0wOGo1dkgwNWhmZS1CVS1Eb1BPVU5nUEN3a1NLUjY3QTE1b0Q2cEItQXdnNy0yTk9BX0tNNk42Wm9Dc1lFR2pGcVNBVVpWMmc0MHNpeWphcjY5RFdiQWdwcE1UY1h6R29ITTB6N1FXM2NmQTZYazVmbmdNUGVldWFR0gHwAUFVX3lxTFBKVVdIeERuSGZGTWVyMkU4Z3l2NUNETEtHZ0JBbnkxcmFodzlQZGJCUlBjdmt6M2dsQWljN0dFenNRUUV6TGFKSXFNTUdQS2cyaDJpclk1WEh5Q2gzaTZvOFBOVV8xMmpaanBoOElPRHFaM0NZRmdjRXlKLVAxcUwtTm85NUxWSWZubEZBTlRfZ2JyX0xqSEQ3ckdPeW9yYWVBekpLdnBiczBsVjJZODJTSGdZUmhSTWVnU0dWOG5kV3dDX1JROEN1aEIycmY2NEJrQl9RQk5qQ1JFQndRSGtibDR4N1EyanFMa2huUGFOOQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "d538324b5d03",
       "title": "Inteligência artificial: a vacina inédita desenvolvida por IA - BBC",
       "published": "2026-06-05T17:33:17+00:00",
-      "summary": "Inteligência artificial: a vacina inédita desenvolvida por IA&nbsp;&nbsp;BBC",
+      "summary": "Inteligência artificial: a vacina inédita desenvolvida por IA&nbsp;&nbsp;BBCA vacina inédita desenvolvida por inteligência artificial - 05/06/2026 - Equilíbrio e Saúde&nbsp;&nbsp;Folha de S.PauloVacina criada com ajuda de IA passa em primeiro teste em humanos, mas resposta imunológica ainda é limitada&nbsp;&nbsp;G1Nova “vacina universal” desenvolvida com IA pode proteger contra futuros surtos virais; entenda&nbsp;&nbsp;Correio do PovoVacina criada por IA para combater Covid passa por testes em h",
       "sources": [
         {
           "name": "BBC",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GM3dmOW1vWEwxaThTZHM1TWhqNUV2N0l6ODNHQmhVbmQ3WE1aNWVlU05vTjllcmpHZEdsT1dRV1M2TW5LMVlaLWhPdVN5dm1DVGE4cEdaYTFmZ1dlQTBSS3Zn0gFnQVVfeXFMUEVnY1hwTlNHbWhyMlE5M3VpWC1UZm5tdUpvMWRmRm5IeU9GaTVIdWVGWFpMTEFPY2tRd2d6NVlmd21ZWWZFVHdOaGVDOTJ5d3hpMy1oWHUwZDRveVBFSWxjeDVXdWlGNA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "39342e3a29fc",
+      "title": "O raro instinto do segundo maior felino brasileiro revela uma surpreendente descoberta sobre o que ele faz com suas presas escondidas - Revista Amazônia",
+      "published": "2026-06-05T16:22:01+00:00",
+      "summary": "O raro instinto do segundo maior felino brasileiro revela uma surpreendente descoberta sobre o que ele faz com suas presas escondidas&nbsp;&nbsp;Revista Amazônia",
+      "sources": [
+        {
+          "name": "Revista Amazônia",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQS2Nha3VIUWVmeGpZb1hNM3RmcGtWUXdiYXdQM1Y1R3RWbmpuTFh5VlBIMWp0VC1sQU5xa0xmOGtpaFFraGhvTDZZdERSRmVHMTZkMTh1R2N5NlZFdE9ielBua1puWDdHYnNJNTJUcFIzM3d0T0ZBTURkMGRBaExaVENSN1JyQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7a0c69974425",
+      "title": "Disponibilizada ainda neste mês no SUS, a vacina Pneumo 20 serve para quê? - O TEMPO",
+      "published": "2026-06-05T16:11:04+00:00",
+      "summary": "Disponibilizada ainda neste mês no SUS, a vacina Pneumo 20 serve para quê?&nbsp;&nbsp;O TEMPOAcre recebe 3,6 mil doses de nova vacina contra bactéria que causa meningite e pneumonia&nbsp;&nbsp;G1Vacina ‘turbinada’ contra pneumonia e meningite é incorporada pelo SUS; conheça&nbsp;&nbsp;VEJAVacina Pneumo 20 chega ao SUS em MS: veja quem pode tomar&nbsp;&nbsp;Campo Grande NewsSUS vai ampliar proteção vacinal contra doença pneumocócica&nbsp;&nbsp;GAZ",
+      "sources": [
+        {
+          "name": "O TEMPO",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSkhRWTdNR0d6bTc2b3h2Qi11WmY2MDhqR2R0Qno5QUtyQ2dXRkVPUWZ3cG5YWnhncXExRGhOMHMwZERmNmxrUGhBV2diNWNYVDNPVG10b3BjOGktaUNXX3FvV3FnSmQyMm4zS05GdzlJWmRMLUZER0lHbENFbU5DWG5LcFVid2o5MmowdFJ3bjlZVzZYM2tkdzJFYVRZbDM0MGVXTlpzSHBvUEh1UDJLWkRJXzhMMnc3WTZ1TmhoN0VMVGs?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e1ee04a41097",
+      "title": "Descobertas no mundo animal: aranha que brilha azul e dezenas de outras novas espécies são encontradas - Extra online",
+      "published": "2026-06-05T15:56:59+00:00",
+      "summary": "Descobertas no mundo animal: aranha que brilha azul e dezenas de outras novas espécies são encontradas&nbsp;&nbsp;Extra online",
+      "sources": [
+        {
+          "name": "Extra online",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVFdHclowaVh3UnlyU1FoTHBZdExhWTVndlNabmp0aHBZUnJqZ2pGRDFibjhoUkVJN1V6UzNOREdTOUZHQjFUVWJ6TDY2TXVxYTdlNXB4NFA3Y05mNnJ6dW5CaUktTTZ1cEd1Y0d3NWQ0VDltazltZzgwRkwyRjhlOXJiR2VqYVJLakZnbDV6QkthbXZod3F0UVg4QTVodXlLdjFxQ0ZOOEVoajRwUXBKWWpXWTBYMVNVNnN5eHdMX3lOcWhEa1FwTndfR1Q5NnVaQk5QS3BGa0NsaDN6TjhuRUI0Z210ZDJi0gH3AUFVX3lxTE4tbnRTMm5LRXlTeS1JellZZzJjTWFRdzdQemdHa0t2Qk83LUtpYnlSaTh0Zi02YWRCXzV4VU1qZ0FzMGFvQkFCWm52VlBpaFRraDJwVmgyVFFCdmZFQmEzVTRYZXhJVEZnVlZoWFhMQm51WV93LTNybjByYUVYdU0tRlFxQ2V5SHdkeGQ4SFc2VjhuckpNcU9PZVVqeTdaTjlJdGdzdVc3S2tZbW5nNmpjRmExelZHVVZ0eVRPa3hGSTZabFJfT3p3ZTBCcG8yMUQtYTNmOXlYMGl1WnV4ekFMRzVUcE14TmFpZHVCVVlnVTV1cERILXM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "39ff10e95208",
+      "title": "Medicamento contra vermes pode ajudar a tratar câncer cerebral - Metrópoles",
+      "published": "2026-06-05T15:47:52+00:00",
+      "summary": "Medicamento contra vermes pode ajudar a tratar câncer cerebral&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tQVhibDBDRFF2TU1VRzlmM0VVV3BGNzdQbUZEakM3OFQ2WC02OWhRVUYxNFBRSnYzYU9PSFRJX0NfdWxySUhHVWdsNV8xZGdBU05VWVI5UEhvZlo5aUZra1VXTmR4V3ZPam9LeUNfc0Q?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "47a8374f20c8",
+      "title": "Como a pele resistente de um peixe gigante da Amazônia originou uma descoberta bilionária que atrai a alta costura - Revista Amazônia",
+      "published": "2026-06-05T15:37:02+00:00",
+      "summary": "Como a pele resistente de um peixe gigante da Amazônia originou uma descoberta bilionária que atrai a alta costura&nbsp;&nbsp;Revista Amazônia",
+      "sources": [
+        {
+          "name": "Revista Amazônia",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMHpQcnV1Zy1TaWZ3TUhvVzBNQmhlREtzdEcwaTlxSHhUbW9uc1pqZG5jWTN4VkhWeTJjckFQbzg2NGlnN2p4V1NlNWZidXVhWjFGNTdGM3QxdzJUY1dlSlRZelQ4QkxDMlhwUWJGaFRqR19GNmxXTFh5RVptdGs2MThwclZYdw?oc=5"
         }
       ]
     },
@@ -66,18 +174,6 @@
       ]
     },
     {
-      "id": "74302ad9547a",
-      "title": "Piratuba em emergência por risco de eventos climáticos associados ao El Niño - Atual FM",
-      "published": "2026-06-05T09:11:47+00:00",
-      "summary": "Piratuba em emergência por risco de eventos climáticos associados ao El Niño&nbsp;&nbsp;Atual FM",
-      "sources": [
-        {
-          "name": "Atual FM",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZUo4dVowbjFUZzRGZHo5N1ZzV0JnWXRPdjdERVNBSGhRcEwtMlZMcVBZV2VsLWt4MDZweDEydGZUVU52Mmxhd1RQc2xrNHpqdFdqYWU1RVR4elYyODNCU0p4aU5YWldjN0xTQVY5a2tsdTN0eHIzelpTaUZIc0FjbzFINHlSd0xMVHU2aW9ObmVPT1NZQll0d2ZSUlpOdUN4WkE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1e02729b024a",
       "title": "As 7 coisas que todas as mulheres deveriam saber sobre a saúde do coração - O Globo",
       "published": "2026-06-05T07:30:54+00:00",
@@ -102,66 +198,6 @@
       ]
     },
     {
-      "id": "1c66795a6e0f",
-      "title": "Cientistas analisam super porcos mutantes de Fukushima, híbridos que surgiram após desastre nuclear, herdaram reprodução acelerada dos porcos domésticos e preocupam por riscos a lavouras, habitats e controle de espécies invasoras - CPG Click Petróleo e Gás",
-      "published": "2026-06-05T00:05:00+00:00",
-      "summary": "Cientistas analisam super porcos mutantes de Fukushima, híbridos que surgiram após desastre nuclear, herdaram reprodução acelerada dos porcos domésticos e preocupam por riscos a lavouras, habitats e controle de espécies invasoras&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOX1Vvc0V0SnVmVHVlMm1xeWFPRzJWTnhPV1JpZk1pSVoyay1peFBtelRvbUx4ZXVVUTh1MHR0MmtKd1RQVk1PWkwxeWF0emhSS01RNkNmMFV4d2FhSXRiV2J0WGFac3NIcEd4M0tPMVVwVkVnSEd3dXM5cC1yUExaMWNuMUNYN3YwNDJ5Z285X0dTd2FnMEFqMG9FT2NrU3ZUS3Z0QnpZVXNJSDI5UjJuM1RQeS1Pb3FRbEhDTlc5MkU2TGxNeGpqajFjM0pZbkoxbmRaaFJrMGxYaUVIUVMweEIzekc2WU0zc2dtVkFqODJJUDBYWEI1QV80Nk1JVnR1Zjg2dUM2VmFqWEZsQ1hhREdyY1ZnbGtXVXlRQS01MjdPZEdMbHl3di1ENFNNd2dVTDE3cjMtSjFOeXFKUHltcFBiU19jVFU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "801c89efdef4",
-      "title": "Pesquisadores encontraram milhares de novas espécies de microrganismos em fezes de herbívoros, e a descoberta sugere que a maior biodiversidade pode estar justamente onde ninguém quer procurar - Catraca Livre",
-      "published": "2026-06-04T23:36:00+00:00",
-      "summary": "Pesquisadores encontraram milhares de novas espécies de microrganismos em fezes de herbívoros, e a descoberta sugere que a maior biodiversidade pode estar justamente onde ninguém quer procurar&nbsp;&nbsp;Catraca Livre",
-      "sources": [
-        {
-          "name": "Catraca Livre",
-          "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxORzY4aFpJbXVyUEFzVGlxTUNyVVJac29vYlpoSXRVam52T2Y0blJvODNNZ3FTZ2VFSkFiT0I0eElkalJoV1lkODkyTWt6LVJKYVEtNzZJOE5xR002Zzg1VmdqR3Q5VUtFYzk5MHNzX2prXzVMSmdXaUIxRU1hdnQ4YkliS2wzMVM3blk4bEtCZC1UNWpwZXNEcFNvbXA2aHpBOWJTQTR1ay1QWUhmOHFCMnJqQWc2RmNPbDNGS3Q3S1BNZE5RWldEdmRfSXFXNDZHdG9tREd6SVVzN2cwdEFGS3RBN19OYXN2TWgwS2hUMDhlYXZNbTZmSGpJUDFubEFSakJ4dFdNZzVQZzU4SmxZc2Z5QWlDTkpMRldOWE9DVFFiM2RjNlRzc2tpTGFGT19pLVdmU2ZLZXRYel9idW9lXzI1VkxHLWo0RmpSTFZR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "43ee6e005fc8",
-      "title": "Reforma de escola em Los Angeles encontra milhões de fósseis sob o terreno, revela mais de 200 espécies, aponta um antigo fundo de mar e transforma obra comum em laboratório de 9 milhões de anos - CPG Click Petróleo e Gás",
-      "published": "2026-06-04T23:07:00+00:00",
-      "summary": "Reforma de escola em Los Angeles encontra milhões de fósseis sob o terreno, revela mais de 200 espécies, aponta um antigo fundo de mar e transforma obra comum em laboratório de 9 milhões de anos&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPTE5LbkNZajR1SjZvQ3YxYXNLQzJ5SUJESTYzcUNPdjNwUjNkcm92YlBfM0lFV1JzT2otbXBiV1R0X1hMTTVTQ2IxS3FfTWYtel9FV3VPTW1hQXhkejdWZUgyaUVIMmRNbUs0Tnh2OGdaakptTC04MXAzM3NwM3JmUDJkb1l2cExvSlNLSElkUzdvTGhXXzFpUnhZNHdkbnhZY1Z2VVN2LXJWS0l6NklyU2pSbFRtZFNNdDBaaWEyTkFVRmVwX01iaE1zNmNXUHhMLXZuT1VjVmJlOEdUQXN3OEZoYjdfQ1ZHSENva2RWZjRIdFNXc2lGQzFNRWp1X09xMVFZMzZfOFlpWk9JSHpFc3Q0TUJFbjY5SmJDaWtOZExFY3drOGF1Mk5pOEItQzZXWUkwam1lZDNWNklXTkVfRjVyMmhZWWs?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ab4527f2932d",
-      "title": "Descoberta em floresta tropical revela presença humana muito antes do previsto - Rádio Itatiaia",
-      "published": "2026-06-04T22:41:13+00:00",
-      "summary": "Descoberta em floresta tropical revela presença humana muito antes do previsto&nbsp;&nbsp;Rádio Itatiaia",
-      "sources": [
-        {
-          "name": "Rádio Itatiaia",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdHVpUmJFMWI5TG5UMFItUDcwM2lTZHc0SFltLUtqSFBDNjdYOGowckdzSDVocjltazEzSTYzdjZxeHdwWF8zQ1lCTWJORmtNYzh1SkZ6U1J5R1NHUU1nWXlkcktZVFhiT1BSeHZFZkhMOTh3R1FBaDhKNzNyRklvcGFDM3JMaE5iTnNWYzF3c25UeDZTYnRDSVVSTnV3NHE4ODRLcnZrQzMwUmhwRjFZZWZpZFI?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "52a399fde867",
-      "title": "Enquanto a água segue limitada fora da Terra, cientistas apostam em raios de plasma para higienizar roupas de astronautas em futuras missões lunares e marcianas, tecnologia que pode revolucionar a infraestrutura necessária para colonizar outros mundo - CPG Click Petróleo e Gás",
-      "published": "2026-06-04T22:00:00+00:00",
-      "summary": "Enquanto a água segue limitada fora da Terra, cientistas apostam em raios de plasma para higienizar roupas de astronautas em futuras missões lunares e marcianas, tecnologia que pode revolucionar a infraestrutura necessária para colonizar outros mundo&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOdEpmcWo0Q0thMk0xc1BVbkxRYWE0OXV1WkNNSTY2SFRFOW1MLTlTaTRjN1BmZUxQS3RXMkZVek9JTWp6R01jeU94dHpidWx0RkVnSUpEV0hVWThYZkx1SVFDQXpFWHZCLUtZNmg0SWNaOEd6R2tHUHo2aUxucVo5aHNJYTdZemhZeDBGZEpqNUZ5THZDdkFsUGs0NC1YTUNRdmlvRG5pQldlZ0JnVmNaelE1STFjY25xY3pXRnFhclQ5LVZuUjAzR0kzcmRDUDJDYWtRR2tJdUFQVmtla2ktQjhLUW05QmVIYXM2VE8tZTVFMDVqVkh4RFBCRl9fM0REQ2lyaTZWX2pvQVVCLTRwazVfS25vcXJEWXRwQ0ZnZkVMNTRoa2poendyeHpLMXdRX3RNT2VtM0Z3eldfRmpMdy03QzRpNUk?oc=5"
-        }
-      ]
-    },
-    {
       "id": "eeb5d7819bdb",
       "title": "Os filhos mais inteligentes costumam nascer nesses meses, aponta estudo em psicologia - Correio Braziliense",
       "published": "2026-06-04T21:27:00+00:00",
@@ -170,18 +206,6 @@
         {
           "name": "Correio Braziliense",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOLTg4NDZ3UDYzMTQ0MVRRZjMxOHFIaC1yTVExUWpYYm9naXppVDNFZjVkNjZuTHJ2bXdPVVFKSmdhMDNJaDFEaWFYYmt4NUdfaExSRS1KSjlqQjJiRGJzTUJXcFI5TFFZSmxYZW5URDE0Mnh5eXdsbktrbGFYVk1IX0hhXzByV0VJOHI0SnVJMTBSemhPUnZJMWpZNEl5OVg5bWpzTWV2b2daREl0TFZfUmFJWHNFcVVyTmRhNGtjLUZ1b0psVGxMcTFoaw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d81dcaaa7982",
-      "title": "Novo estudo aponta falhas no combate ao calor extremo no Brasil - Meteored Brasil",
-      "published": "2026-06-04T21:26:00+00:00",
-      "summary": "Novo estudo aponta falhas no combate ao calor extremo no Brasil&nbsp;&nbsp;Meteored Brasil",
-      "sources": [
-        {
-          "name": "Meteored Brasil",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVlB5R2U3YWUyOFJZRldsRkZHY1k0NFVLUGFuN0FnLXNCNkxFZDZ4YUV0S19naXgyRHBXVm0tZjFTUnpEaVN0VGtYYWNWbHZBYkQ4N0F2VDBlVFVOTW9sa3RJMUM5ajVnSmcwZTBIOXVPY2hqdlh3aVJ6TkthWWxZYlN0NWlMMG5SWnhXZEZGcTQxeVJSX1ZDazFxYk9lUmFQLVZ3TEpTWVZ4Yy1pcUl4WQ?oc=5"
         }
       ]
     },
@@ -210,26 +234,14 @@
       ]
     },
     {
-      "id": "e1591b6f5141",
-      "title": "Exame de sangue pode detectar câncer em fase inicial, diz estudo - Metrópoles",
-      "published": "2026-06-04T15:19:19+00:00",
-      "summary": "Exame de sangue pode detectar câncer em fase inicial, diz estudo&nbsp;&nbsp;MetrópolesComo um estudo ‘negativo’ abriu portas para rastrear câncer com um exame de sangue&nbsp;&nbsp;G1Novo teste sanguíneo identifica 95% dos tumores em fases iniciais, indicam investigadores&nbsp;&nbsp;SAPOExame de sangue detecta mais de 50 tipos de câncer em estágios iniciais&nbsp;&nbsp;Estado de MinasExame de sangue para vários cânceres: o que o resultado do grande estudo britânico realmente mostrou&nbsp;&nbsp;Tua",
+      "id": "b1cedd1376af",
+      "title": "Pombos se orientam com ajuda de 'bússola' no fígado que detecta o campo magnético da Terra, diz estudo - G1",
+      "published": "2026-06-04T13:27:02+00:00",
+      "summary": "Pombos se orientam com ajuda de 'bússola' no fígado que detecta o campo magnético da Terra, diz estudo&nbsp;&nbsp;G1",
       "sources": [
         {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9mNHF2WUtEUlZoVG9Xa0U2N2xScTBFX2lLQWhaZEVfeW13RDJMcE51clZaeDlHNThkS2lsdERjd2FlSDRMMkRaMXVCdEd0VGF1RC1EZjVOeGx3enpPWUJSczg3T1Y2VVB4aU5KWHJLNTdLQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "399b4e79b7a3",
-      "title": "Vacinação com a Pneumo 20 pelo SUS começa em duas semanas - Agora RS",
-      "published": "2026-06-04T15:03:29+00:00",
-      "summary": "Vacinação com a Pneumo 20 pelo SUS começa em duas semanas&nbsp;&nbsp;Agora RSNova vacina pneumocócica 20 começa a ser disponibilizada no SUS para crianças — Ministério da Saúde&nbsp;&nbsp;GOV.BRVacina Pneumo 20 chega ao SUS em MS: veja quem pode tomar&nbsp;&nbsp;Campo Grande NewsVacina ‘turbinada’ contra pneumonia e meningite é incorporada pelo SUS; conheça&nbsp;&nbsp;VEJASUS vai ampliar proteção vacinal contra doença pneumocócica&nbsp;&nbsp;GAZ",
-      "sources": [
-        {
-          "name": "Agora RS",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03MG9mSTNySnhzeTMyckJjekJUY1d3dVhLbUFCcWp2NlNmRm80TG45c3hQTnBxVlI1UGk5YkhYdFF6RzgzYy1BZHJJSVZsX2NTRDlOd3lVbkxQNU9wc21hbkF3Z1NWSURoVWNfMkZPREhfRmRr?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdG5nUTFCZWlrZjUyeU5VQ3JOTW1LWXNKU0t2QU9KYTFmd25zeFZpdHBFYzF2YUxFVHJjM3RCRzgyTG9ZMXBxNnFvZmZ0LTJlZllxUXcwR1RMekR1dDdhVVloVF84SjhOOFQtQUk2ZVctcDFvXzItNlp4VW1lcEVRSExBXzAtVnhMWEgxRjZDUVl2YzFPR1B5MENVZXhvZlpCWE1MRTExbzRTejlsZENxYklMd0VsLWZBeFRfdFN30gHMAUFVX3lxTE5jRkJJX3JQTmpadGdrNUhRLVluNkdZblhPRGJlRGo0Q25RLUZRLUpRbWJpLS1VME5pYWlUa1pqcFBRMFJyMG9PRU5SWXpBa2NvYnZ1ak84TW9OTjVPbEdhVUJCVFRQdDN0Z053bDBZajlzWUgyUHE5VkhSbG1jdzdGcGI1MTE1NW5EVDRoVEw2S2hGVmFyT3VNZ0VZZ1RwcDg0RU5vSURkZEpLSnNBd2hicVFsT0lWYWpZamVhdDZJOWVkZndINTkwdmVkYg?oc=5"
         }
       ]
     },
@@ -237,7 +249,7 @@
       "id": "2cf528e0ab4e",
       "title": "Quanto tempo de musculação por semana é preciso para reduzir o risco de morte? Estudo de Harvard responde (e é menos do que se imagina) - O Globo",
       "published": "2026-06-04T12:19:16+00:00",
-      "summary": "Quanto tempo de musculação por semana é preciso para reduzir o risco de morte? Estudo de Harvard responde (e é menos do que se imagina)&nbsp;&nbsp;O GloboMusculação realmente pode ajudar a viver mais?&nbsp;&nbsp;G1Muito além da estética: por que a musculação é essencial para a saúde&nbsp;&nbsp;Portal Drauzio VarellaQuer viver mais? Estudo aponta qual o tempo ideal de musculação&nbsp;&nbsp;MetrópolesPoucos minutos a mais de sono e exercício já garantem pelo menos um ano extra de vida&nbsp;&nbsp;V",
+      "summary": "Quanto tempo de musculação por semana é preciso para reduzir o risco de morte? Estudo de Harvard responde (e é menos do que se imagina)&nbsp;&nbsp;O GloboMusculação realmente pode ajudar a viver mais?&nbsp;&nbsp;BBCMuito além da estética: por que a musculação é essencial para a saúde&nbsp;&nbsp;Portal Drauzio VarellaMusculação pode ajudar a viver mais? Estudo aponta redução do risco de morte precoce&nbsp;&nbsp;TerraQuer viver mais? Estudo aponta qual o tempo ideal de musculação&nbsp;&nbsp;Metróp",
       "sources": [
         {
           "name": "O Globo",
@@ -254,54 +266,6 @@
         {
           "name": "Tua Saúde",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaGRSNXRhUkpjcEFQT3JlYVFDejdIOUphbnJ0X1VYaEZMc01yeEVfYV9XSWw3OFRPcl8zRTV4RFU4QW9Ta3lLNllmNUpZdEtYcGtFOGtCeE1MS1dwejlFRWRuMF9oelJ3bEluVm9KNWphcGlKLTFSbkc1MkdsekpzTjFEaFBmNDBDVGprcnlRY0VMNXNSamtfNXdSVlFKZmpDMldiemZtazlYU0RScWpzN3dKQ1RJOG9kSDNabjZzVFlINzdnamJLa2xXM3NfbG1DMWZGcg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "982a7b0e02e1",
-      "title": "Angélica, Luana Piovani e Luiza Brunet falaram sobre isso: o que a menopausa faz com o peso - O Globo",
-      "published": "2026-06-04T10:42:50+00:00",
-      "summary": "Angélica, Luana Piovani e Luiza Brunet falaram sobre isso: o que a menopausa faz com o peso&nbsp;&nbsp;O GloboA dificuldade de emagrecer na menopausa nem sempre é o estrogênio: às vezes é a gordura abdominal que libera substâncias inflamatórias&nbsp;&nbsp;Tua SaúdeAtividade física no climatério melhora saúde e qualidade de vida&nbsp;&nbsp;TarobáOs 3 chás que muitas mulheres estão adotando após a menopausa para apoiar o metabolismo&nbsp;&nbsp;Entretê Spin OFFGanho de peso teimoso em mulheres não ",
-      "sources": [
-        {
-          "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNLWdhQXlCcVdBZEZWQ20xYmZuRWI2cjRxX2Z3aGhZY2cyV29uOXNMUDY1bS15WVdGYnFlbEJ4V2pIRmRGVHd3ei0wSnRvVWExVjY1Mm80bjRzVE5wckpiQ3Y4NWJiczBlenVuV0xtS3h5eVRtVlkwLVZmWkJrNXlZUjZCc3A5Y3ZZcE55T1VLamdXaXRzUGJiN1VvS24xQ09rSEpuT2Uyc2hsR1Nna09yLTN4RVVENEdNeTVKNW1MQ3REOWhZcXBYVUR6b0pZSVJFbjkyN2NPQlRKOUXSAeoBQVVfeXFMTXNIS3pLR0VNU01ua0g2eDNJMHI1OFVtQ2w2MmNEdjctY0ZxeXFUV1BCaGstTDVnRFhCNlJGTVhXOC1rQXFBbzJmekR6MFRXcnNETndYblVhZlpMQ3hYT2tEVVVQeVZCZnNRaHJCR3pQbS00VzJVdHJ4UkN6RVR5YjczY1lUQ3ljZlBPcWlpbFdqcVJPbXY2VDUzNkVuOEJzYnVFYVBoOS1HUTNhdW9lUTFMWUxLR1BuR2xsN1NKMmUxRk9raUQ1MjgxcnRzOUNSa1RJaGR1M0IxWFJabFppc19xWkRfR2xJRXd3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c067641fea2a",
-      "title": "Um estudo propõe transformar a Lua numa espécie de centro de quarentena para amostras trazidas de Marte e de outros mundos, criando uma barreira estéril e isolada que filtraria qualquer organismo desconhecido antes de o material chegar à Terra e aos - CPG Click Petróleo e Gás",
-      "published": "2026-06-04T05:29:00+00:00",
-      "summary": "Um estudo propõe transformar a Lua numa espécie de centro de quarentena para amostras trazidas de Marte e de outros mundos, criando uma barreira estéril e isolada que filtraria qualquer organismo desconhecido antes de o material chegar à Terra e aos&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNOTk3VFZjcTNvMUpNNG92dGhOQjl1TmhBLUczVXE0UmV3RkUwZk5PR2dSOGVYQmJ2c19sZl9pMVE1VmdOZ2ZuN0lhWDY1aklvblZQcWdfay02UGV1MXVqY3NrVWhweUZIWUVBZlZnR1ZGNXhaeHdxaG5yZzJESzdoRERSV3NhZ3g2WDg5OUZkRkxjSEtMZmhXRGZwWlZZdjRsZERFRDZzM252UTVPd3pleUp2Qll0ak5yc0dENDJsQ0IwRFEtTzliU0tEVTVGUzFyUHM0NjR5VHBQVG5sLUc3bHEweXlOT1U2M3RMOHF2ZV90dS1mQWloR0o0aHJWVjBtd1Vha0h2S3N1dDhla0hxZ3lhWVpVU1diSDVNaFdQZXF0Wi1uQWhMOW1mQXRhNDJzRDV2bGdrc3h2QUpGU1RFN0lQWWtnVEU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c8a1ccd1b518",
-      "title": "Pseudomonas aeruginosa: quais os riscos da bactéria encontrada em lote de água Crystal - Tribuna do Norte",
-      "published": "2026-06-03T20:46:17+00:00",
-      "summary": "Pseudomonas aeruginosa: quais os riscos da bactéria encontrada em lote de água Crystal&nbsp;&nbsp;Tribuna do Norte",
-      "sources": [
-        {
-          "name": "Tribuna do Norte",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUEh1MUlxOVRGSFkzUmJUdG5sTFNrRHFCd0gyVUJGcFQwa0dUYm5uWUh4MVc1WUYtZ3paVldGVFN2YWpPdjdSc1lZc0drRVJ3WWtzLUVwbzhsSHFROHROVUJzc1RSYllLRUtxdV95eG1lRVgyQ0c3OWxmeUVSY0JaRmJRMjFwclRsYWxRMHVmbDJKVUZMMHQ0X19TNE0ybnpPVERDb0FlUkNmM2JWY3M2Rm1jemRjRkY0eFdIanpLemY?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "40a618e8acf2",
-      "title": "O que fazer para evitar o reganho de peso depois do emagrecimento - Portal Drauzio Varella",
-      "published": "2026-06-03T20:04:51+00:00",
-      "summary": "O que fazer para evitar o reganho de peso depois do emagrecimento&nbsp;&nbsp;Portal Drauzio VarellaEmagrecimento: método de 4 fases promete dar fim ao efeito sanfona&nbsp;&nbsp;Correio BrazilienseSaúde / Método criado por médico brasileiro busca reduzir efeito sanfona após emagrecimento&nbsp;&nbsp;Tribuna do RecôncavoEfeito sanfona: veja os fatores que favorecem o reganho de peso após o emagrecimento&nbsp;&nbsp;LeiaJáReganho de peso é maior após uso de GLP-1? Entenda&nbsp;&nbsp;Portal Drauzio Va",
-      "sources": [
-        {
-          "name": "Portal Drauzio Varella",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYnk3N3JyWlgyV3B0bGZOVWhNbTMtdzBfZ0M2RExkTzBNcEJ3Z1NOXzZ0U1RvYm4wWG9NeW9BdGdZak9RNkFodWtVX2VScENCZVpYdEE3WmF3THo0S1hnLWU4RnpMVHRSRWtlZGlxeFRuWkNCVktOTDdxc09zSXREMFdQOGN4bEZNaW4zMGxBVlNrTVFqM3N3RVRXcmRlTWpZSjEzZ0VTSzZDdjZIQVFBN0RhWmtUQQ?oc=5"
         }
       ]
     },
