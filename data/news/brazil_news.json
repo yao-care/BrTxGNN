@@ -1,19 +1,55 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-06-06T13:48:12.993525+00:00",
-  "total_fetched": 86,
-  "unique_count": 84,
-  "health_related_count": 25,
+  "fetched_at": "2026-06-06T19:26:18.322123+00:00",
+  "total_fetched": 85,
+  "unique_count": 83,
+  "health_related_count": 28,
   "news": [
+    {
+      "id": "bb141ddfc10a",
+      "title": "Condomínio é interditado por riscos à saúde pública em Cuiabá - FOLHAMAX",
+      "published": "2026-06-06T12:33:00+00:00",
+      "summary": "Condomínio é interditado por riscos à saúde pública em Cuiabá&nbsp;&nbsp;FOLHAMAX",
+      "sources": [
+        {
+          "name": "FOLHAMAX",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQelJ4cHp2X0FMNkdCMjBlYW1PRXQzdXJEQnkzZWwwVUYxQ3loZ1lQQ2ZMaEZPV2tXZkRDam1CYU05UWo3ZFQwbXkyalo0RlNaRDVfY25ONktiMDZiTFYyMEl5WU9MaE9ETGhCRUdxMHh6T3Nrd21qcFlaNWh3cWVvMmxqVkozRGlZZDRjRjA5RXZ1b1BFbUVQMExyRm1fbU45bm5j?oc=5"
+        }
+      ]
+    },
     {
       "id": "70facbd65272",
       "title": "Pão é ultraprocessado? Sistema criado pela USP ajuda a identificar alimentos prejudiciais à saúde; entenda - O Globo",
       "published": "2026-06-06T07:01:39+00:00",
-      "summary": "Pão é ultraprocessado? Sistema criado pela USP ajuda a identificar alimentos prejudiciais à saúde; entenda&nbsp;&nbsp;O GloboEmbutidos ultraprocessados, como o presunto, podem ser considerados na cota de proteína diária? Especialista responde&nbsp;&nbsp;O GloboSaber o que comemos&nbsp;&nbsp;CartaCapitalOpinião | Indústria de alimentos: sob ataque e em silêncio&nbsp;&nbsp;Estadão3 notícias sobre: comida ultraprocessada&nbsp;&nbsp;Superinteressante",
+      "summary": "Pão é ultraprocessado? Sistema criado pela USP ajuda a identificar alimentos prejudiciais à saúde; entenda&nbsp;&nbsp;O GloboSaber o que comemos&nbsp;&nbsp;CartaCapitalOs ultraprocessados que mais prejudicam a saúde: como reduzir sem virar a dieta de cabeça&nbsp;&nbsp;Tua SaúdeOpinião | Indústria de alimentos: sob ataque e em silêncio&nbsp;&nbsp;EstadãoUltraprocessados podem ser proteína? Entenda riscos e benefícios&nbsp;&nbsp;diário do estado",
       "sources": [
         {
           "name": "O Globo",
           "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNFdJLTNBVFk0Vk5aRFRVY3hSQXNLUGwzM3RZa3hVY1BEMXBhaFd5YUxoLUdVN0lEdV80ZVRkbXNPWWZCTWpyZUlKcmdwYjRTV2JkWEdNVGE0MmFUX2NQNS1PRU1qd0xQSGtvN3ZwQVR5cHRiaE9xU3VXVVRCekQ0LTBtczdMODdjMnd1TjFkeXJDczVudktmdGlDbFhCZ0JKbjRyMWtfdkFHalZVd0twMFZfbmwtSUx0TzM1ek1Sd1h5Y2xKSGFiVzlJZ0RvSUY4X0YyRkVSUG1RVHlydFhFTzNkSjhKQTlsTEJOMUtIcUFoZ9IBgAJBVV95cUxOYWVRdVBrb2hSb0dzY0h4QTRoNjJlOEVTSEstNF92UnJKZDYxS0hkdFF4ZHlfcTR6QTVMSlBQaFJPTnU3M1JONHp5c2d2MFc0YlZPZVIyMjhXUE1WWTlKNGdxaF9pNWtrZ1k0d3Q4eGo1Z0E1VnpuSlU0b3ZUdm44Z3c4cFJHYldjQkxEYWRBVEN4ekZmTFc2UV9JMmQzZjVKVGdjRlB3eWVLbTR5S2Z5RmNPNVF0NG5xWDNGVlJPM0hzTDRMdUlPWnh2OUU2cmllTmo4dXhSOVgxczJPblFLcWNteklXUWhoTGN0NU1xcmcwLVMtWjd1cWEzU2JjZDVF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1cf5b8099f0d",
+      "title": "Brasil precisa conectar pacientes e voluntários aos centros de pesquisa, dizem especialistas - Folha de S.Paulo",
+      "published": "2026-06-06T07:00:00+00:00",
+      "summary": "Brasil precisa conectar pacientes e voluntários aos centros de pesquisa, dizem especialistas&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdjdaVEtJc0VHMmhWd2pza3hQWUJxeFdzaU4xRkoyTVZaYWxFNGsyeWkySUNkeS03SnFQbEx3MWNiMWs0aFE5VnpPa3hIYmRNR3lOZzY3S2dhWEMwWVFVck95S0c3VEtELXBUcFFhaE04Tk5TUmVFX1A2d2RnSVZ6UG9rZExWN2hISVUtUTNGdFZfMnNNMm9kUW1GcHN6eWdYaUFYTXdxU1BjeU9QUkxUYjg0MlZPQ1dDUWQtWG1UcFNTLXdJdVJKQ2N3RkFTd1E2TzFoUW1pYXFnZ09ObTh2dUFmTzhyTjg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9e5379700a72",
+      "title": "'A personalidade muda: alguém que é amável vira cruel', diz autoridade mundial em demência frontotemporal, doença do ator Bruce Willis - G1",
+      "published": "2026-06-06T06:00:42+00:00",
+      "summary": "'A personalidade muda: alguém que é amável vira cruel', diz autoridade mundial em demência frontotemporal, doença do ator Bruce Willis&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQNG93LThCczYxQ2hjN0QwUzlBVzVnYlAyaVZKcTBEbFp5YVRNbGRQdlBfczAyclpLcVRkRUZ1V0NkU05pVkdGME56OXhkd3pVY1FhRUJHbmtSNDZvZ2ViQUZ3VVotRnU4VDNzMElVWHBGaXM2azFPdUNCV3ZpbjFBNnNRNlZIQkpfaFQ5cXlUN21ISHktSjliY1hMRF9XVU9HVm9NT3FsaWRtd0RGanQyaUs5WU13d3NvQldSd0d3SURsX1FFZXo5d3FrVnpIaXRBdXdUTTlLN016OGhFclRwYmxHMl9OOERTalVDVWNtUzdUbThOYnV2a0tHc3E0VFFBQVhuMm5zTnJia0ZyTDl4Z3JVd1QzVEMySTNldGVLZVJ6UdIBsAJBVV95cUxNZTc0RkEwcG5FcTVTUzJFT1F4VjMySFpKNmEwZGhEemxPV0c2VHF3MmlWSldkNnRWM04yWVZwZTh6YWRQRUFFVC1BR285b25aY2dtUC1FOHlMem5IYUZYenFQTDN5ZVp4NG9VdTBBUlk3dkJyejBmYWZqaG1Wd0hkQk93VHJNNFpUMnZhY2xrNVhsd3FrRzk2ZDlJSzJJbExoSEFwWmlIRGFFWEJJNThpbWo4QUhnZ0JNbXRRN193VGtQRzVjSXBwX1NXWjI1RXg3NFl1eGtKYmR1cE1yLXVsXzZVVnVwVGdEc3JfYUxFUUJtUEIyMXFrQUFkSjNEVkcxMkVlaW53N2oxNGJLS0I3dDNYdlE1eW1hU0xzeU9sZk8wbm5xRUJpcndJWnE5RWZQ?oc=5"
         }
       ]
     },
@@ -93,7 +129,7 @@
       "id": "deaf6c607cec",
       "title": "Muito além da estética: por que a musculação é essencial para a saúde - Portal Drauzio Varella",
       "published": "2026-06-05T18:21:07+00:00",
-      "summary": "Muito além da estética: por que a musculação é essencial para a saúde&nbsp;&nbsp;Portal Drauzio VarellaMusculação pode ajudar a viver mais? Estudo aponta redução do risco de morte precoce&nbsp;&nbsp;TerraQuer viver mais? Estudo aponta qual o tempo ideal de musculação&nbsp;&nbsp;MetrópolesNão é a caminhada: estudo de 30 anos aponta o tipo de exercício que ajuda a viver mais.&nbsp;&nbsp;Vietnam.vnMusculação semanal pode reduzir risco de morte precoce, indica pesquisa&nbsp;&nbsp;R7",
+      "summary": "Muito além da estética: por que a musculação é essencial para a saúde&nbsp;&nbsp;Portal Drauzio VarellaQuanto tempo de musculação por semana é preciso para reduzir o risco de morte? Estudo de Harvard responde (e é menos do que se imagina)&nbsp;&nbsp;O GloboMusculação realmente pode ajudar a viver mais?&nbsp;&nbsp;BBCQuer viver mais? Estudo aponta qual o tempo ideal de musculação&nbsp;&nbsp;MetrópolesNão é a caminhada: estudo de 30 anos aponta o tipo de exercício que ajuda a viver mais.&nbsp;&nbs",
       "sources": [
         {
           "name": "Portal Drauzio Varella",
@@ -102,22 +138,10 @@
       ]
     },
     {
-      "id": "769edb633c08",
-      "title": "'Milagre' científico: estudo explica como espécie de peixe sobrevive sem machos - Globo",
-      "published": "2026-06-05T17:50:02+00:00",
-      "summary": "'Milagre' científico: estudo explica como espécie de peixe sobrevive sem machos&nbsp;&nbsp;Globo",
-      "sources": [
-        {
-          "name": "Globo",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTlE0RFRha2pjZ2NYTFFCUno3WEJhcnFPclh0enJOZ3M2VkZMT2V2T3BjaUVnNzJpVURMT1Fhdy1TN3d1SWthb3F6cUx0aTFDSTBVcHpsMEZzSmxCUTdaYUlsbE9iaGs3cC0wOGo1dkgwNWhmZS1CVS1Eb1BPVU5nUEN3a1NLUjY3QTE1b0Q2cEItQXdnNy0yTk9BX0tNNk42Wm9Dc1lFR2pGcVNBVVpWMmc0MHNpeWphcjY5RFdiQWdwcE1UY1h6R29ITTB6N1FXM2NmQTZYazVmbmdNUGVldWFR0gHwAUFVX3lxTFBKVVdIeERuSGZGTWVyMkU4Z3l2NUNETEtHZ0JBbnkxcmFodzlQZGJCUlBjdmt6M2dsQWljN0dFenNRUUV6TGFKSXFNTUdQS2cyaDJpclk1WEh5Q2gzaTZvOFBOVV8xMmpaanBoOElPRHFaM0NZRmdjRXlKLVAxcUwtTm85NUxWSWZubEZBTlRfZ2JyX0xqSEQ3ckdPeW9yYWVBekpLdnBiczBsVjJZODJTSGdZUmhSTWVnU0dWOG5kV3dDX1JROEN1aEIycmY2NEJrQl9RQk5qQ1JFQndRSGtibDR4N1EyanFMa2huUGFOOQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d538324b5d03",
       "title": "Inteligência artificial: a vacina inédita desenvolvida por IA - BBC",
       "published": "2026-06-05T17:33:17+00:00",
-      "summary": "Inteligência artificial: a vacina inédita desenvolvida por IA&nbsp;&nbsp;BBCVacina com \"superantígeno\" feito por IA pode prevenir futuras pandemias&nbsp;&nbsp;CNN BrasilVacina criada com ajuda de IA passa em primeiro teste em humanos, mas resposta imunológica ainda é limitada&nbsp;&nbsp;G1Cientistas desenvolvem primeira \"vacina universal\" com a ajuda da IA&nbsp;&nbsp;Euronews.comNova “vacina universal” desenvolvida com IA pode proteger contra futuros surtos virais; entenda&nbsp;&nbsp;Correio do ",
+      "summary": "Inteligência artificial: a vacina inédita desenvolvida por IA&nbsp;&nbsp;BBCVacina criada com ajuda de IA passa em primeiro teste em humanos, mas resposta imunológica ainda é limitada&nbsp;&nbsp;G1Vacina com \"superantígeno\" feito por IA pode prevenir futuras pandemias&nbsp;&nbsp;CNN BrasilNova “vacina universal” desenvolvida com IA pode proteger contra futuros surtos virais; entenda&nbsp;&nbsp;Correio do PovoVacina criada por IA para combater Covid passa por testes em humanos&nbsp;&nbsp;Olhar Di",
       "sources": [
         {
           "name": "BBC",
@@ -126,10 +150,22 @@
       ]
     },
     {
+      "id": "dbce2a86007a",
+      "title": "São Luís entra em alerta para SRAG com aumento de casos - Imirante.com",
+      "published": "2026-06-05T16:41:00+00:00",
+      "summary": "São Luís entra em alerta para SRAG com aumento de casos&nbsp;&nbsp;Imirante.comRJ registra nível de alerta para SRAG com 424 mortes este ano&nbsp;&nbsp;G1Casos de Síndrome Respiratória Aguda Grave crescem em todos os estados&nbsp;&nbsp;CNN BrasilProteção coletiva em tempos de pressão na rede de saúde&nbsp;&nbsp;Jornal do ComércioPediatria alerta para cuidados com crianças após RS entrar em alto risco para SRAG&nbsp;&nbsp;Terra",
+      "sources": [
+        {
+          "name": "Imirante.com",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMHR2RDBMTjgtX1hxVWhpTzlxbVBWQmxXZHYyMm9hX1dhMDlFZWtraEtqMkVwRkxmSjR6WUsyTE1rbThuQWlUcjVqWDVJekF2OEJiRkFWZjFUb0phVUR3aDNnVk5xN3BERWZlMnJkUldSNFFycFFyOU9SbHZOSVJ2VDZJdHBlMlRCZU9mWW1VYlR3QzR0dHdTVG9aenJyZmFmVkpoWUhUMmQxcElxUC1ya2xaLURDamhU0gG-AUFVX3lxTFBwY3VxTkh2cEZlVk5iZk03ekQ0dVhWS3RxWUZYM1BSdEJwRmRJQVdlSmJQUnFra2p3VXRMY25WbFE4M0h6YmNlWXMwekJrcUpEUVNnT0N6T3hLUnItNW9PXzdFMFhXbl9NTVAxSDhtYWpBR1JNZUJsR1h4NzFoYVNIdUo1cW1fUW8xQUo5MEJKY0NIQnlHMzd2Y2RBQ0VvSHRPY3FodXJXejlKSzhUMUlQT29QMktFZGFsTUY5enc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "7a0c69974425",
       "title": "Disponibilizada ainda neste mês no SUS, a vacina Pneumo 20 serve para quê? - O TEMPO",
       "published": "2026-06-05T16:11:04+00:00",
-      "summary": "Disponibilizada ainda neste mês no SUS, a vacina Pneumo 20 serve para quê?&nbsp;&nbsp;O TEMPOAcre recebe 3,6 mil doses de nova vacina contra bactéria que causa meningite e pneumonia&nbsp;&nbsp;G1Vacina ‘turbinada’ contra pneumonia e meningite é incorporada pelo SUS; conheça&nbsp;&nbsp;VEJAVacinação com a Pneumo 20 pelo SUS começa em duas semanas, diz Padilha&nbsp;&nbsp;O POVO+SUS oferecerá vacina pneumo 20 para crianças; imunizante protege contra pneumonia e meningite&nbsp;&nbsp;GZH",
+      "summary": "Disponibilizada ainda neste mês no SUS, a vacina Pneumo 20 serve para quê?&nbsp;&nbsp;O TEMPOAcre recebe 3,6 mil doses de nova vacina contra bactéria que causa meningite e pneumonia&nbsp;&nbsp;G1Nova vacina pneumocócica 20 começa a ser disponibilizada no SUS para crianças — Ministério da Saúde&nbsp;&nbsp;GOV.BRVacina ‘turbinada’ contra pneumonia e meningite é incorporada pelo SUS; conheça&nbsp;&nbsp;VEJAVacinação com a Pneumo 20 pelo SUS começa em duas semanas, diz Padilha&nbsp;&nbsp;O POVO+",
       "sources": [
         {
           "name": "O TEMPO",
@@ -158,6 +194,18 @@
         {
           "name": "Metrópoles",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tQVhibDBDRFF2TU1VRzlmM0VVV3BGNzdQbUZEakM3OFQ2WC02OWhRVUYxNFBRSnYzYU9PSFRJX0NfdWxySUhHVWdsNV8xZGdBU05VWVI5UEhvZlo5aUZra1VXTmR4V3ZPam9LeUNfc0Q?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fde8ce79d72c",
+      "title": "Açaí: novo estudo comprova efeito neuroprotetor dessa fruta no cérebro dos adolescentes; entenda - O Globo",
+      "published": "2026-06-05T15:40:05+00:00",
+      "summary": "Açaí: novo estudo comprova efeito neuroprotetor dessa fruta no cérebro dos adolescentes; entenda&nbsp;&nbsp;O GloboAgência de Comunicação - Do verão ao outono: por que o açaí segue forte mesmo fora da alta temporada?&nbsp;&nbsp;Estadão Blue StudioMais um motivo para tomar açaí: estudo revela efeito inesperado da fruta&nbsp;&nbsp;Diário do ComércioEstudo revela efeito surpreendente do açaí contra ansiedade e depressão&nbsp;&nbsp;sctododiaSaiba quais são os benefícios do açaí para a saúde&nbsp;&nb",
+      "sources": [
+        {
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORm1EUDdYTTd5SVpuVHoxT2N6S0RTVks1bUg3YkJYT0xLWkF0WFlPYVU3Zk80VUFtMG5LQlVfT3FscmxpSVJYbVZPS0Zla2cwTFJxQ0ZoQkZWTzFNbF9OckYyN2dUM29zVGFlRVlzWWhBZ2Frek9wZGZuZWJ5aEpCdHJWaEhjZ01SMjlnOGFZNkViTDJvTlZIVW9pR2dWbGxISmFyN3ltZXhUT0FuQTJGaV85eHliTExJVVQyWkxKX2xUZlBXcVdSQ3JhQTRLc3FSNEx5MXd30gHkAUFVX3lxTE5KLTBodC1hcHFlcFJ0dE5YYjZIMkJnNnhMZWFlQWswUmdPY1ducmNWNHJsVFVtOUZsQ2R2N1dmUGYtWEhLR0pVdXU2YmR5Y3lGa3VoaEJGT2QyanFPTldKRGIyTlFyRXRnbFd5WUdTOC1MRUQtUk5PQXBYNEYzZWwtQlJnaW15SjZsalJFbkcyV3J1V0FwUW9ldFdnakZmdnJTMkhCMW53b2U5YjhpcmdHenEtMllGOTNqNHpTUHRWVkp6LUllZjRmb1RpNEpwWmRoODBnR1FmRkIwcXVCQ1JVWmpiYw?oc=5"
         }
       ]
     },
@@ -222,26 +270,26 @@
       ]
     },
     {
-      "id": "1e02729b024a",
-      "title": "As 7 coisas que todas as mulheres deveriam saber sobre a saúde do coração - O Globo",
-      "published": "2026-06-05T07:30:54+00:00",
-      "summary": "As 7 coisas que todas as mulheres deveriam saber sobre a saúde do coração&nbsp;&nbsp;O GloboMédico diz se mulheres têm proteção natural para doenças do coração&nbsp;&nbsp;MetrópolesDoenças cardíacas seguem como principal causa de morte entre mulheres&nbsp;&nbsp;Agora RNPor que homens têm problemas de coração antes que as mulheres?&nbsp;&nbsp;Estado de Minas7 coisas que toda mulher deveria saber sobre a saúde do coração&nbsp;&nbsp;Folha de S.Paulo",
+      "id": "9769dfa898fa",
+      "title": "Ela morreu aos 31 anos, mas seu corpo ainda salva vidas - Portal iG",
+      "published": "2026-06-05T08:00:00+00:00",
+      "summary": "Ela morreu aos 31 anos, mas seu corpo ainda salva vidas&nbsp;&nbsp;Portal iGCélulas de paciente falecida impulsionam medicina moderna&nbsp;&nbsp;brasilemfolhas.com.br",
       "sources": [
         {
-          "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNakRTWEwxZ21UOFJPNG5ieFpJQ3FzaDhCUTdFVHYwb1pfdDR3TGpxa2FLanhhaXZtbGRUREdpdXlDT2tZLThwa1hTU213aG1rTUlRWTZWTmhpWW90U3pQdnNCaVpLOVZnWElVWDEyUUREVXIxNDQ3OEtaNjh2SXVSR1dFbVdlYVYtcmRiNmluSEZSMURHVXRZZVNZeFdVMTR5b3dpWGhTMXJwanBBc1lRdk9BZUIxcmVOMmVJY1J1TXIwc1luMUxiatIB1wFBVV95cUxQelBET3FxZ3pMUUp1eVVOQTVORHZDVTlnTW5Yck0td1QtNXE5Z1pmblBfS0ZZZ19SOElkR0RubU5ydHRoNkpxcUpjejBqTGplWndKNWZNR2pObjBHNGRiNFplR3pzRkRnSWVKNVZqd3NKOURWRVFpWnVGbjQyanpFLVNNTHlSSkRPaDZPOV9Eb2d2ZVozcGdMZVJVM3hmMDVoNmN2NnlCeTVqcmswWXNXb04xeG12LVpzT25UVzZuajhQTFpGa19XODg5R3NncDZXTkt6Wks2Yw?oc=5"
+          "name": "Portal iG",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYVJkT0d1dmk5eG1rRGdRSEVIUlo4RVBlMDhibzd5YldFODEwSTM3Q3p0Z0w4UEJxQnFCS2ZLcjVPM1FMaE5ZcTV0V1ZVMk1PdDlRVG9XMGpqZ1NleVlaZVFQcWJYb2IydmtDQmtZRlI2eHZXRHFpc3JLcWFvZER5MFVDQWljeTFCcnJ2SlpoVmh6SlVnN1Awa2dsQzZGd0dGMzFVR0thOFFuZ3ZpS1dDUtIBtgFBVV95cUxOcTZSV3VWQ0xPcE5UUDZyX2VKUUNrN2FwQkFBSlRPTXJTUGlFcG1pREpkaHV5RVVfa1BDQ0VWdjRlQmthaGdaaHVUX01IR1pwbEJlUkJHMm8tRFdPNWhOa2xlaVZzUDRTRFN5Y2JQdFdtQy1CcFJxUHkzV2RPQmVtbmJqNWlwbHQyVFZkZTI3ZFUteE1zSndsRE02OTFQcEtzaXNDWV9XMnF1YzJkbnNQWEZoS0hiQQ?oc=5"
         }
       ]
     },
     {
-      "id": "d446d67748c2",
-      "title": "Asteroide ou fragmento lunar? Novo estudo reacende mistério orbital da Terra - R7",
-      "published": "2026-06-05T03:34:33+00:00",
-      "summary": "Asteroide ou fragmento lunar? Novo estudo reacende mistério orbital da Terra&nbsp;&nbsp;R7",
+      "id": "1e02729b024a",
+      "title": "As 7 coisas que todas as mulheres deveriam saber sobre a saúde do coração - O Globo",
+      "published": "2026-06-05T07:30:54+00:00",
+      "summary": "As 7 coisas que todas as mulheres deveriam saber sobre a saúde do coração&nbsp;&nbsp;O GloboMédico diz se mulheres têm proteção natural para doenças do coração&nbsp;&nbsp;MetrópolesPor que homens têm problemas de coração antes que as mulheres?&nbsp;&nbsp;Estado de Minas7 coisas que toda mulher deveria saber sobre a saúde do coração&nbsp;&nbsp;Folha de S.Paulo",
       "sources": [
         {
-          "name": "R7",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd0s5MEJSelF1UmtENWhXcGdSZUdnMmlEOTlSbU1uMWhjRFdCRkJLNWY2TlNabldxamdCaUtyNldSUVhMUWFwQ3AzYUtQMVhMejRuRWg2NjgwbjBsakR5bW5XUTA2bzV4T1RkOFlrVXNSbVVlaG50bGU1MnZuREdYaTV4N2xsek1BQUl1Z29RZFV5ZTF0dVRLWkRJSDg1TUhJMlZ5b0hCX29QODVsR2g0ZlRxLVJKbDhnV3ZWYl9lZw?oc=5"
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNakRTWEwxZ21UOFJPNG5ieFpJQ3FzaDhCUTdFVHYwb1pfdDR3TGpxa2FLanhhaXZtbGRUREdpdXlDT2tZLThwa1hTU213aG1rTUlRWTZWTmhpWW90U3pQdnNCaVpLOVZnWElVWDEyUUREVXIxNDQ3OEtaNjh2SXVSR1dFbVdlYVYtcmRiNmluSEZSMURHVXRZZVNZeFdVMTR5b3dpWGhTMXJwanBBc1lRdk9BZUIxcmVOMmVJY1J1TXIwc1luMUxiatIB1wFBVV95cUxQelBET3FxZ3pMUUp1eVVOQTVORHZDVTlnTW5Yck0td1QtNXE5Z1pmblBfS0ZZZ19SOElkR0RubU5ydHRoNkpxcUpjejBqTGplWndKNWZNR2pObjBHNGRiNFplR3pzRkRnSWVKNVZqd3NKOURWRVFpWnVGbjQyanpFLVNNTHlSSkRPaDZPOV9Eb2d2ZVozcGdMZVJVM3hmMDVoNmN2NnlCeTVqcmswWXNXb04xeG12LVpzT25UVzZuajhQTFpGa19XODg5R3NncDZXTkt6Wks2Yw?oc=5"
         }
       ]
     },
@@ -285,23 +333,11 @@
       "id": "4d02899c52cd",
       "title": "BH amplia vacinação contra gripe e leva imunização ao Mercado Central - Estado de Minas",
       "published": "2026-06-04T19:54:00+00:00",
-      "summary": "BH amplia vacinação contra gripe e leva imunização ao Mercado Central&nbsp;&nbsp;Estado de MinasBH tem vacinação contra a gripe fora de postos de saúde&nbsp;&nbsp;G1PBH abre 19 centros de saúde neste sábado (30) para vacinação contra a gripe&nbsp;&nbsp;prefeitura.pbh.gov.brMercado Central de BH terá vacinação gratuita contra a gripe nesta sexta-feira (5); veja&nbsp;&nbsp;O TEMPOMercado Central tem vacinação contra a gripe nesta sexta-feira (5)&nbsp;&nbsp;Rádio Itatiaia",
+      "summary": "BH amplia vacinação contra gripe e leva imunização ao Mercado Central&nbsp;&nbsp;Estado de MinasBH tem vacinação contra a gripe fora de postos de saúde&nbsp;&nbsp;G1Mercado Central de BH terá vacinação gratuita contra a gripe nesta sexta-feira (5); veja&nbsp;&nbsp;O TEMPOMercado Central tem vacinação contra a gripe nesta sexta-feira (5)&nbsp;&nbsp;Rádio ItatiaiaSecretaria realiza vacinação contra a gripe neste fim de semana no Shopping Avenida&nbsp;&nbsp;Acorda Cidade",
       "sources": [
         {
           "name": "Estado de Minas",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVllSZ1NlOVI4al9FZkpneDhab2RVXzNuaERwaWtjM2k4eW5oWXNGWTBpRVdtc1NlQXFOS3JfVndKUEVaSkFDbXNUal90akVjakxLbUlnbmFYUEhsTDM1eHBGaGJtOWhqdVh3TUVKTTJOWU5hOTc3UUVjanRKeHJ4eGh0d0VIdjN2dm1XOVVSdVd1eUFaNGxGVE1KVHYyZjJxZzYwRjVJbl85bUhWNWg4eWZwX0JpNTZTUDZN0gHAAUFVX3lxTE1DTnVOemNlOHFJcnkwN3VQV2pzTzhGUnRuYzM5b1VDN2tzZTh2VEU0QzhYNkVWanNhbEVfbS02bmhqVFJlYm1DTTFzTk81SnBaaUItNmF2aXlBalJfTldHYXVhNDBFQmR2Q1J2S0dZTWt0LWY4M0RtUnBZS0RWczYyUERDS3NWOEhNX0NCMVU4czV0UmJHcy11SDVkaGlBN3lHWTRnX1JYR0xfMHBWMVNpTHN1ZW1tWlYyenhqUnhhMw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f9167ece59e7",
-      "title": "Tubarão da Groenlândia pode viver por séculos e agora cientistas sequenciaram 96,7% do genoma do animal, revelando pistas genéticas ligadas ao reparo do DNA, resistência ao câncer e envelhecimento extremo - CPG Click Petróleo e Gás",
-      "published": "2026-06-04T16:18:00+00:00",
-      "summary": "Tubarão da Groenlândia pode viver por séculos e agora cientistas sequenciaram 96,7% do genoma do animal, revelando pistas genéticas ligadas ao reparo do DNA, resistência ao câncer e envelhecimento extremo&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcTdDNHNwSjYxV2ljYWo5eVdGYUFHZk5KazdHMFNFWEQ4RXU1THJtOTBtQXdGNDZhLVVFelV6Um12RjZlT3hOVGhCVHh6d21aRnIzeTh1NDAwNWhkVjYxMDc5UWQtQXh3V0d2SmlidC1RcDdBYUk5Sy1WNDdUaGZMR3J1VkNzcTNhSHNsN0E4d3IzN28?oc=5"
         }
       ]
     }
