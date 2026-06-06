@@ -1,10 +1,22 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-06-06T03:41:24.290501+00:00",
-  "total_fetched": 84,
-  "unique_count": 81,
-  "health_related_count": 23,
+  "fetched_at": "2026-06-06T08:35:31.480446+00:00",
+  "total_fetched": 87,
+  "unique_count": 84,
+  "health_related_count": 28,
   "news": [
+    {
+      "id": "bce21cb8fe58",
+      "title": "X-59 da NASA supera a velocidade do som pela primeira vez - Olhar Digital",
+      "published": "2026-06-06T00:57:00+00:00",
+      "summary": "X-59 da NASA supera a velocidade do som pela primeira vez&nbsp;&nbsp;Olhar Digital",
+      "sources": [
+        {
+          "name": "Olhar Digital",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMndJbGdpQ3I2dS1pUkJxOXl4WDlVS3dqMkV3amI0Ym92LWtaXzR1WXY1NFhVdzhuWHR4QjZ6a19nR2dHR3ZUbW9ocGRsTVVxbHNNdFVKb2M0a0pOV2dPcXU4RmRvbXZ2aW5Wdkl3V1FZYWd1ZEtDTEU0YTRGQnN4amtKQms4QjNLRV9ZbndFak5MeWdEdnFjM014bGl6eG9SZTZ5Y2tyS2E1M3A2c3Q0czFvVFI?oc=5"
+        }
+      ]
+    },
     {
       "id": "c52d3cfecdbe",
       "title": "Vulcões considerados extintos podem estar “acordando” depois de 100 mil anos, aponta pesquisa - CPG Click Petróleo e Gás",
@@ -33,11 +45,47 @@
       "id": "61a355a220af",
       "title": "Argentina vai estender a outra província estudo de roedores por hantavirus - UOL Notícias",
       "published": "2026-06-05T20:40:29+00:00",
-      "summary": "Argentina vai estender a outra província estudo de roedores por hantavirus&nbsp;&nbsp;UOL NotíciasVeja mais manchetes e perspectivas no Google Notícias",
+      "summary": "Argentina vai estender a outra província estudo de roedores por hantavirus&nbsp;&nbsp;UOL NotíciasArgentina ampliará busca por hantavírus para outra província, além do local de onde navio partiu&nbsp;&nbsp;O GloboArgentina expande análise de hantavírus para Mendoza&nbsp;&nbsp;R7Argentina amplia investigação sobre hantavírus, enviando equipes para capturar e testar ratos em Mendoza&nbsp;&nbsp;Tribuna do SertãoHantavírus: Argentina alarga análise de roedores a mais uma província&nbsp;&nbsp;Notícia",
       "sources": [
         {
           "name": "UOL Notícias",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZF9fQzZ4MWwwNk9lU19xZnRiNG1NZy1SMkxDanNkeGpsTVZiZGY3bG1pX2w1XzhvSjBWYTBWSGpEVmN4LTQyR1gwSHB5QUJoMVRuYnRwUzRUOHRrQUphcnpZRlRfd0xqNTdfNW9rQ2s2elk0S0xzRVI0V2ZROUVTaW4zOUJpMFdRUi1WaHRaOXMxYnpaai1HR3REQ3BKQUFVTnpvUTY0NmNaTzlIRnFwUmFLSUJ0OGFEN2M4cVZNc0pSQ0Z5cEplVTgxYXdsWmdTZlNrWQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4607cfc218e6",
+      "title": "Boletim médico descarta danos neurológicos no rondonense Anderson Loffi vítima de acidente - O Presente",
+      "published": "2026-06-05T20:16:26+00:00",
+      "summary": "Boletim médico descarta danos neurológicos no rondonense Anderson Loffi vítima de acidente&nbsp;&nbsp;O Presente",
+      "sources": [
+        {
+          "name": "O Presente",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWml2RWJjQWJvb0NyX0RmZ3NOZVBKUjJ2aFhQdFNtQ3VxdmVObEdOaVJrc3NmQ1U1bEVuVU9sME5fZmIxY0RpRGZmZ3UwZWhBUVBRbFZ0cG5ld3N2OFFSQnlQLUNUZFFKN2laNG15MGJLSlo1RXlxWHRlZEJmWXZ2LW1uSVhFYTk2al9ncDVhMDZ6WjV2WWpNcU1LWUk3dmM4RmxSdW9HOVNGXzY3TDFkZGJQYjF1X1lkdXI5MTNWRnk5YjR3VFN5ellFY0NHN0JxakRLVVdlUnM5NENz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "14ae113feaed",
+      "title": "Doenças respiratórias comuns no inverno são fáceis de serem evitadas - CNN Brasil",
+      "published": "2026-06-05T18:30:47+00:00",
+      "summary": "Doenças respiratórias comuns no inverno são fáceis de serem evitadas&nbsp;&nbsp;CNN BrasilSaiba como se proteger de doenças com a queda na temperatura&nbsp;&nbsp;TNH1Doenças respiratórias: quando devo buscar atendimento médico? Mapa traz endereços de emergências em Porto Alegre&nbsp;&nbsp;GZHFisioterapia respiratória ganha destaque durante o inverno&nbsp;&nbsp;oexpresso.com.brCuidados que protegem bebês nos dias frios e secos&nbsp;&nbsp;Jornal Ibiá",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMzlVUm96M3FaZ25EajZUUG9ZbFFsQ05mdTM5UVFQbnBEWV9iSVhsY1ZUaUdvYnNhblBBcFF4VHVNendwbTVhaFhXdkFvM3JiblRDT0NZQmNubjNYenlyMGMxOGZHcnpvckJMU0xuODdqYVlGSC1vcXEybEdid2FqMndZNHdJdjRwMXkwSGtVektGU0VjcXFQQm1aSmZlSmFnWUVlUE1uVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "deaf6c607cec",
+      "title": "Muito além da estética: por que a musculação é essencial para a saúde - Portal Drauzio Varella",
+      "published": "2026-06-05T18:21:07+00:00",
+      "summary": "Muito além da estética: por que a musculação é essencial para a saúde&nbsp;&nbsp;Portal Drauzio VarellaMusculação realmente pode ajudar a viver mais?&nbsp;&nbsp;BBCQuanto tempo de musculação por semana é preciso para reduzir o risco de morte? Estudo de Harvard responde (e é menos do que se imagina)&nbsp;&nbsp;O GloboMusculação pode ajudar a viver mais? Estudo aponta redução do risco de morte precoce&nbsp;&nbsp;TerraQuer viver mais? Estudo aponta qual o tempo ideal de musculação&nbsp;&nbsp;Metróp",
+      "sources": [
+        {
+          "name": "Portal Drauzio Varella",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQa1Q2cE01SjI2dFQwZ0pNcWd3dGExVm1WSkFmSzV6UnVrT1VWTFBKejZfNmI0ZUh1c2U5LW9QUm1uRlFncVg0M3BZT0lDMDlnZi1LVC1pb1ROZ0h4WVVMUXRnYUFrZHVxMHdWd1cxdUhwRmY2M1F3OHlNX0NRRDd2Y1VHcFJTZ1lIYnY5WFQyN2ZxUURnaVFjQTVlNC1vT2NHNmhUd3V2bGtaazZudWVBX0xrTjhaYUlHTlA5Rw?oc=5"
         }
       ]
     },
@@ -57,7 +105,7 @@
       "id": "d538324b5d03",
       "title": "Inteligência artificial: a vacina inédita desenvolvida por IA - BBC",
       "published": "2026-06-05T17:33:17+00:00",
-      "summary": "Inteligência artificial: a vacina inédita desenvolvida por IA&nbsp;&nbsp;BBCA vacina inédita desenvolvida por inteligência artificial - 05/06/2026 - Equilíbrio e Saúde&nbsp;&nbsp;Folha de S.PauloVacina criada com ajuda de IA passa em primeiro teste em humanos, mas resposta imunológica ainda é limitada&nbsp;&nbsp;G1Nova “vacina universal” desenvolvida com IA pode proteger contra futuros surtos virais; entenda&nbsp;&nbsp;Correio do PovoVacina criada por IA para combater Covid passa por testes em h",
+      "summary": "Inteligência artificial: a vacina inédita desenvolvida por IA&nbsp;&nbsp;BBCVacina criada com ajuda de IA passa em primeiro teste em humanos, mas resposta imunológica ainda é limitada&nbsp;&nbsp;G1Nova “vacina universal” desenvolvida com IA pode proteger contra futuros surtos virais; entenda&nbsp;&nbsp;Correio do PovoVacina criada por IA para combater Covid passa por testes em humanos&nbsp;&nbsp;Olhar DigitalA primeira vacina do mundo projetada por IA desenvolvida por cientistas do Reino Unido e",
       "sources": [
         {
           "name": "BBC",
@@ -66,22 +114,10 @@
       ]
     },
     {
-      "id": "39342e3a29fc",
-      "title": "O raro instinto do segundo maior felino brasileiro revela uma surpreendente descoberta sobre o que ele faz com suas presas escondidas - Revista Amazônia",
-      "published": "2026-06-05T16:22:01+00:00",
-      "summary": "O raro instinto do segundo maior felino brasileiro revela uma surpreendente descoberta sobre o que ele faz com suas presas escondidas&nbsp;&nbsp;Revista Amazônia",
-      "sources": [
-        {
-          "name": "Revista Amazônia",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQS2Nha3VIUWVmeGpZb1hNM3RmcGtWUXdiYXdQM1Y1R3RWbmpuTFh5VlBIMWp0VC1sQU5xa0xmOGtpaFFraGhvTDZZdERSRmVHMTZkMTh1R2N5NlZFdE9ielBua1puWDdHYnNJNTJUcFIzM3d0T0ZBTURkMGRBaExaVENSN1JyQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7a0c69974425",
       "title": "Disponibilizada ainda neste mês no SUS, a vacina Pneumo 20 serve para quê? - O TEMPO",
       "published": "2026-06-05T16:11:04+00:00",
-      "summary": "Disponibilizada ainda neste mês no SUS, a vacina Pneumo 20 serve para quê?&nbsp;&nbsp;O TEMPOAcre recebe 3,6 mil doses de nova vacina contra bactéria que causa meningite e pneumonia&nbsp;&nbsp;G1Vacina ‘turbinada’ contra pneumonia e meningite é incorporada pelo SUS; conheça&nbsp;&nbsp;VEJAVacina Pneumo 20 chega ao SUS em MS: veja quem pode tomar&nbsp;&nbsp;Campo Grande NewsSUS vai ampliar proteção vacinal contra doença pneumocócica&nbsp;&nbsp;GAZ",
+      "summary": "Disponibilizada ainda neste mês no SUS, a vacina Pneumo 20 serve para quê?&nbsp;&nbsp;O TEMPOAcre recebe 3,6 mil doses de nova vacina contra bactéria que causa meningite e pneumonia&nbsp;&nbsp;G1Vacina ‘turbinada’ contra pneumonia e meningite é incorporada pelo SUS; conheça&nbsp;&nbsp;VEJAVacinação com a Pneumo 20 pelo SUS começa em duas semanas, diz Padilha&nbsp;&nbsp;O POVO+SUS oferecerá vacina pneumo 20 para crianças; imunizante protege contra pneumonia e meningite&nbsp;&nbsp;GZH",
       "sources": [
         {
           "name": "O TEMPO",
@@ -174,10 +210,34 @@
       ]
     },
     {
+      "id": "4f7c16797c06",
+      "title": "Jato de plasma solar canibal atinge a Terra – o que se sabe até agora - Olhar Digital",
+      "published": "2026-06-05T12:37:00+00:00",
+      "summary": "Jato de plasma solar canibal atinge a Terra – o que se sabe até agora&nbsp;&nbsp;Olhar Digital",
+      "sources": [
+        {
+          "name": "Olhar Digital",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQmU1ZTNpV3lvbmFMQVJsQVl3eGswOVNRZmhWX1diWF9NejV4LWEybm9JMUNfemRhVkl4akRId1dTcVpwejFhc1ZUcS1lRC0zQjhtR2JWZFlxTGxuTjFqMWNnQ3hCRVdmck5qZTNHV1dmQXRBWkxjWDFWRjI0bVJjYlk1bkdGOGtyemlYTFNSeDctXy1XYjVXZTZzSkpiWUNqNE1RU2lZUnEwQ0x2MlFiZEtPSXRaaFRWLWlUYjFzcmZrZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "74302ad9547a",
+      "title": "Piratuba em emergência por risco de eventos climáticos associados ao El Niño - Atual FM",
+      "published": "2026-06-05T09:11:47+00:00",
+      "summary": "Piratuba em emergência por risco de eventos climáticos associados ao El Niño&nbsp;&nbsp;Atual FM",
+      "sources": [
+        {
+          "name": "Atual FM",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZUo4dVowbjFUZzRGZHo5N1ZzV0JnWXRPdjdERVNBSGhRcEwtMlZMcVBZV2VsLWt4MDZweDEydGZUVU52Mmxhd1RQc2xrNHpqdFdqYWU1RVR4elYyODNCU0p4aU5YWldjN0xTQVY5a2tsdTN0eHIzelpTaUZIc0FjbzFINHlSd0xMVHU2aW9ObmVPT1NZQll0d2ZSUlpOdUN4WkE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1e02729b024a",
       "title": "As 7 coisas que todas as mulheres deveriam saber sobre a saúde do coração - O Globo",
       "published": "2026-06-05T07:30:54+00:00",
-      "summary": "As 7 coisas que todas as mulheres deveriam saber sobre a saúde do coração&nbsp;&nbsp;O GloboMédico diz se mulheres têm proteção natural para doenças do coração&nbsp;&nbsp;MetrópolesDoenças cardíacas seguem como principal causa de morte entre mulheres&nbsp;&nbsp;Agora RN5 medidas para mulheres evitarem doenças cardiovasculares; óbitos no ES cresceram 16,5%&nbsp;&nbsp;ES HOJEPor que homens têm problemas de coração antes que as mulheres?&nbsp;&nbsp;Estado de Minas",
+      "summary": "As 7 coisas que todas as mulheres deveriam saber sobre a saúde do coração&nbsp;&nbsp;O GloboVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
           "name": "O Globo",
@@ -194,6 +254,30 @@
         {
           "name": "R7",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd0s5MEJSelF1UmtENWhXcGdSZUdnMmlEOTlSbU1uMWhjRFdCRkJLNWY2TlNabldxamdCaUtyNldSUVhMUWFwQ3AzYUtQMVhMejRuRWg2NjgwbjBsakR5bW5XUTA2bzV4T1RkOFlrVXNSbVVlaG50bGU1MnZuREdYaTV4N2xsek1BQUl1Z29RZFV5ZTF0dVRLWkRJSDg1TUhJMlZ5b0hCX29QODVsR2g0ZlRxLVJKbDhnV3ZWYl9lZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5c46bc2ae5cd",
+      "title": "45 anos depois, Aids ainda atrai preconceito e mata milhares por ano no Brasil - Folha de S.Paulo",
+      "published": "2026-06-05T02:00:00+00:00",
+      "summary": "45 anos depois, Aids ainda atrai preconceito e mata milhares por ano no Brasil&nbsp;&nbsp;Folha de S.PauloA nova era da prevenção rumo ao combate do HIV no Brasil&nbsp;&nbsp;JOTABrasil tem 25 mil casos de HIV em 2025&nbsp;&nbsp;Agora RNO que a história da AIDS nos ensinou sobre saúde, 45 anos depois?&nbsp;&nbsp;Tribuna do SertãoEspecialistas em doenças infecciosas alertam sobre o HIV e os adolescentes: \"A percepção de risco está diminuindo e a urgência de prevenção e educação sexual e emocional ",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNakhIUHlpZUxtSWZFZTZ4WXBYcUR3Tk12TUFhWDJycFlSXy1JT0VnaFBOYV9Yak9WZkg5eFg5bVF4ZHNETTE0QzVMZkU4VWg2cG5UWl8zalhXV2tnZjRMYl9UMlM4NlBsTzFhcWx3Q3lmb1hQal9HcjRpTGtXT2RHU21zN1RQNmFNaXdJTFUwNl8tSHN0Y25mUmszNkEwaDRXcHVrY2VoV19HazNwMlA3WVVaelNjSWl4Rll1UHZwT2ZsSW96RlMtQTAtT2RpY2lDUjB3dw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1c66795a6e0f",
+      "title": "Cientistas analisam super porcos mutantes de Fukushima, híbridos que surgiram após desastre nuclear, herdaram reprodução acelerada dos porcos domésticos e preocupam por riscos a lavouras, habitats e controle de espécies invasoras - CPG Click Petróleo e Gás",
+      "published": "2026-06-05T00:05:00+00:00",
+      "summary": "Cientistas analisam super porcos mutantes de Fukushima, híbridos que surgiram após desastre nuclear, herdaram reprodução acelerada dos porcos domésticos e preocupam por riscos a lavouras, habitats e controle de espécies invasoras&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOX1Vvc0V0SnVmVHVlMm1xeWFPRzJWTnhPV1JpZk1pSVoyay1peFBtelRvbUx4ZXVVUTh1MHR0MmtKd1RQVk1PWkwxeWF0emhSS01RNkNmMFV4d2FhSXRiV2J0WGFac3NIcEd4M0tPMVVwVkVnSEd3dXM5cC1yUExaMWNuMUNYN3YwNDJ5Z285X0dTd2FnMEFqMG9FT2NrU3ZUS3Z0QnpZVXNJSDI5UjJuM1RQeS1Pb3FRbEhDTlc5MkU2TGxNeGpqajFjM0pZbkoxbmRaaFJrMGxYaUVIUVMweEIzekc2WU0zc2dtVkFqODJJUDBYWEI1QV80Nk1JVnR1Zjg2dUM2VmFqWEZsQ1hhREdyY1ZnbGtXVXlRQS01MjdPZEdMbHl3di1ENFNNd2dVTDE3cjMtSjFOeXFKUHltcFBiU19jVFU?oc=5"
         }
       ]
     },
@@ -230,30 +314,6 @@
         {
           "name": "CPG Click Petróleo e Gás",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcTdDNHNwSjYxV2ljYWo5eVdGYUFHZk5KazdHMFNFWEQ4RXU1THJtOTBtQXdGNDZhLVVFelV6Um12RjZlT3hOVGhCVHh6d21aRnIzeTh1NDAwNWhkVjYxMDc5UWQtQXh3V0d2SmlidC1RcDdBYUk5Sy1WNDdUaGZMR3J1VkNzcTNhSHNsN0E4d3IzN28?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b1cedd1376af",
-      "title": "Pombos se orientam com ajuda de 'bússola' no fígado que detecta o campo magnético da Terra, diz estudo - G1",
-      "published": "2026-06-04T13:27:02+00:00",
-      "summary": "Pombos se orientam com ajuda de 'bússola' no fígado que detecta o campo magnético da Terra, diz estudo&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdG5nUTFCZWlrZjUyeU5VQ3JOTW1LWXNKU0t2QU9KYTFmd25zeFZpdHBFYzF2YUxFVHJjM3RCRzgyTG9ZMXBxNnFvZmZ0LTJlZllxUXcwR1RMekR1dDdhVVloVF84SjhOOFQtQUk2ZVctcDFvXzItNlp4VW1lcEVRSExBXzAtVnhMWEgxRjZDUVl2YzFPR1B5MENVZXhvZlpCWE1MRTExbzRTejlsZENxYklMd0VsLWZBeFRfdFN30gHMAUFVX3lxTE5jRkJJX3JQTmpadGdrNUhRLVluNkdZblhPRGJlRGo0Q25RLUZRLUpRbWJpLS1VME5pYWlUa1pqcFBRMFJyMG9PRU5SWXpBa2NvYnZ1ak84TW9OTjVPbEdhVUJCVFRQdDN0Z053bDBZajlzWUgyUHE5VkhSbG1jdzdGcGI1MTE1NW5EVDRoVEw2S2hGVmFyT3VNZ0VZZ1RwcDg0RU5vSURkZEpLSnNBd2hicVFsT0lWYWpZamVhdDZJOWVkZndINTkwdmVkYg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2cf528e0ab4e",
-      "title": "Quanto tempo de musculação por semana é preciso para reduzir o risco de morte? Estudo de Harvard responde (e é menos do que se imagina) - O Globo",
-      "published": "2026-06-04T12:19:16+00:00",
-      "summary": "Quanto tempo de musculação por semana é preciso para reduzir o risco de morte? Estudo de Harvard responde (e é menos do que se imagina)&nbsp;&nbsp;O GloboMusculação realmente pode ajudar a viver mais?&nbsp;&nbsp;BBCMuito além da estética: por que a musculação é essencial para a saúde&nbsp;&nbsp;Portal Drauzio VarellaMusculação pode ajudar a viver mais? Estudo aponta redução do risco de morte precoce&nbsp;&nbsp;TerraQuer viver mais? Estudo aponta qual o tempo ideal de musculação&nbsp;&nbsp;Metróp",
-      "sources": [
-        {
-          "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPbkg2M0Q4ZnFCWU5IVzdnQUZ1ZDhMTmVhenZjTWRxdnZuYjZENDlCVnZDMGNtOXhLaVNySG4ySkpsXzV1M0VQMHpQZk1rc0poek9lbkE3M2dzeFF6eGFiT0p1QkJpcG9tZ1psdGdrcWgxX1Y5V2Z0ZjgtVGhoTWR0U2J5cHNkQ2txVGFVWGM5UVYzTzBZb0NxSlp1YUJWN2dBc0RuelJtcWF2NGp4SXFaeDFxaVVvNWF3cThkRG5yTmlYb0IzanhxdWEzU3NJNEp2cDVFSkRvSEhBTDNsSUk2X3lrXy1DWFQ3Rm5JNzViZktNVkpUNm92Mm1tLVd5MlV1RHZuSWZLalBEYnd1WldUVUFVc1RUMFXSAaYCQVVfeXFMTkxaQnFZd3ptcDN2ZjR3OVdzUVNnZi0wd3J2a21kYmNXcXk2c21pUW1GYXR2QVZkVS1fYW5JcUwydWRDMHBBNUZoR2haTjlFQWlBa2lxeHE1ME5ZTXRlbTNOejR4M3UxMXJ1VnA0LWYzWGM4RVVKYlZ1ZHVjWF9HNXVFWFpiTy1BNXFyZEU3X3NZczZNMDU1WEw2Y3hJQ21CMU9DNTdKSVJZeVNPV3lKdHBjN01nOTdSMUZJMXBPSEc3Ni1IUVdVZlpONTVraWFEc2VaR1AwNFZvNE4yTl9GVlN4V3RyV2UxdVplMldkQW1qRUZsZlhOZkVrVEc1bW9kbUNFdkZvaGZCbDJrM0tOc2hYXzZxOV9ISHE5MkFnODhVNDJaMVRB?oc=5"
         }
       ]
     },
