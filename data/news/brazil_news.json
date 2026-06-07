@@ -1,9 +1,9 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-06-07T04:09:17.224204+00:00",
-  "total_fetched": 76,
-  "unique_count": 75,
-  "health_related_count": 19,
+  "fetched_at": "2026-06-07T09:15:55.455598+00:00",
+  "total_fetched": 68,
+  "unique_count": 68,
+  "health_related_count": 16,
   "news": [
     {
       "id": "8b13cae08903",
@@ -45,7 +45,7 @@
       "id": "70facbd65272",
       "title": "Pão é ultraprocessado? Sistema criado pela USP ajuda a identificar alimentos prejudiciais à saúde; entenda - O Globo",
       "published": "2026-06-06T07:01:39+00:00",
-      "summary": "Pão é ultraprocessado? Sistema criado pela USP ajuda a identificar alimentos prejudiciais à saúde; entenda&nbsp;&nbsp;O GloboUltraprocessados e diabetes: o limite diário que apareceu em nova análise de estudos&nbsp;&nbsp;Tua SaúdeSaber o que comemos&nbsp;&nbsp;CartaCapitalOpinião | Indústria de alimentos: sob ataque e em silêncio&nbsp;&nbsp;EstadãoUltraprocessados podem ser proteína? Entenda riscos e benefícios&nbsp;&nbsp;diário do estado",
+      "summary": "Pão é ultraprocessado? Sistema criado pela USP ajuda a identificar alimentos prejudiciais à saúde; entenda&nbsp;&nbsp;O GloboJá sabíamos que os ultraprocessados preocupavam. Mas o que apareceu agora foi diferente&nbsp;&nbsp;TerraSaber o que comemos&nbsp;&nbsp;CartaCapitalUltraprocessados e diabetes: o limite diário que apareceu em nova análise de estudos&nbsp;&nbsp;Tua SaúdeUltraprocessados podem ser proteína? Entenda riscos e benefícios&nbsp;&nbsp;diário do estado",
       "sources": [
         {
           "name": "O Globo",
@@ -174,18 +174,6 @@
       ]
     },
     {
-      "id": "b5d09b64e1a3",
-      "title": "Resfriado, gripe ou Covid? Como identificar os sintomas - O Globo",
-      "published": "2026-06-05T13:31:15+00:00",
-      "summary": "Resfriado, gripe ou Covid? Como identificar os sintomas&nbsp;&nbsp;O Globo",
-      "sources": [
-        {
-          "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTFVxaVBvdFNhclFfV2FLcFhsejM3a1ZEU1JOZmdNR1NMempweExNNnZGVjNvM0VYUFNiQXJRVmFITzFFYVRpcGpPUzh1WXBwVE1oTkVhSFpjQVNZLXhuOTF0YTBudHBXZTg5SUtYWmZnQ0k1S2FRS2N0Y2E1aXJQR25VbkZLcVJCTEdIT0tTYUtXQTBxOWZiWk8zTXM4WktfcmlSd1ZPMlpSMmxtbUZySXprOGtHd0NMSTBEbEJHX0ZoRHA2RE4zc0VTMNIB2gFBVV95cUxON3hRWVBsODI2eUZQcjZ2REF0THp1Z3B4Ql9lYmZZaFh4SU1tRnBCUkJvMnNDUVkxRUNqTF9tQU42a1FnR0RNNVZOQkdMUHNyMUx5X2pMVE0tQ1ZOYVpDRDYtOFNrcWg5TWh1OFc0VmlWU3FGbzFZV2IzZnMzV0JHbEptaVNhTkd6dWhreW1lRDhROGxGcGRpTnlqZmNLTEZicHg3MzFrMTR5NFdXOGVGZHZwYjRfZjZwS0hXel9VT1UwNDRpX1ZuVWN3alRnQzRsbzYtcHJSMl9HZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4f7c16797c06",
       "title": "Jato de plasma solar canibal atinge a Terra – o que se sabe até agora - Olhar Digital",
       "published": "2026-06-05T12:37:00+00:00",
@@ -206,30 +194,6 @@
         {
           "name": "Revista Amazônia",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeWZHNFlSZ3hKdFlCWG45aldBWklhZ1pPNFBOeS1hNHlQUkVaZGlYanFJZ0Jzc3pvRmJ6YS1qZTNCM1N0SndyQUo4QXMyMXNib3U0eEVYcTNnY2lRRzdNakdFdWFtcXp3UGJQZjRyM3R6Y01rbTF0NGdGRDJGZGJXYkp6eDJNTTlKSlE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9769dfa898fa",
-      "title": "Ela morreu aos 31 anos, mas seu corpo ainda salva vidas - Portal iG",
-      "published": "2026-06-05T08:00:00+00:00",
-      "summary": "Ela morreu aos 31 anos, mas seu corpo ainda salva vidas&nbsp;&nbsp;Portal iGCélulas de paciente falecida impulsionam medicina moderna&nbsp;&nbsp;brasilemfolhas.com.br",
-      "sources": [
-        {
-          "name": "Portal iG",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYVJkT0d1dmk5eG1rRGdRSEVIUlo4RVBlMDhibzd5YldFODEwSTM3Q3p0Z0w4UEJxQnFCS2ZLcjVPM1FMaE5ZcTV0V1ZVMk1PdDlRVG9XMGpqZ1NleVlaZVFQcWJYb2IydmtDQmtZRlI2eHZXRHFpc3JLcWFvZER5MFVDQWljeTFCcnJ2SlpoVmh6SlVnN1Awa2dsQzZGd0dGMzFVR0thOFFuZ3ZpS1dDUtIBtgFBVV95cUxOcTZSV3VWQ0xPcE5UUDZyX2VKUUNrN2FwQkFBSlRPTXJTUGlFcG1pREpkaHV5RVVfa1BDQ0VWdjRlQmthaGdaaHVUX01IR1pwbEJlUkJHMm8tRFdPNWhOa2xlaVZzUDRTRFN5Y2JQdFdtQy1CcFJxUHkzV2RPQmVtbmJqNWlwbHQyVFZkZTI3ZFUteE1zSndsRE02OTFQcEtzaXNDWV9XMnF1YzJkbnNQWEZoS0hiQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1e02729b024a",
-      "title": "As 7 coisas que todas as mulheres deveriam saber sobre a saúde do coração - O Globo",
-      "published": "2026-06-05T07:30:54+00:00",
-      "summary": "As 7 coisas que todas as mulheres deveriam saber sobre a saúde do coração&nbsp;&nbsp;O GloboPor que homens têm problemas de coração antes que as mulheres? Entenda&nbsp;&nbsp;O TEMPOMédico diz se mulheres têm proteção natural para doenças do coração&nbsp;&nbsp;MetrópolesDoenças cardíacas seguem como principal causa de morte entre mulheres&nbsp;&nbsp;Agora RN5 medidas para mulheres evitarem doenças cardiovasculares; óbitos no ES cresceram 16,5%&nbsp;&nbsp;ES HOJE",
-      "sources": [
-        {
-          "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNakRTWEwxZ21UOFJPNG5ieFpJQ3FzaDhCUTdFVHYwb1pfdDR3TGpxa2FLanhhaXZtbGRUREdpdXlDT2tZLThwa1hTU213aG1rTUlRWTZWTmhpWW90U3pQdnNCaVpLOVZnWElVWDEyUUREVXIxNDQ3OEtaNjh2SXVSR1dFbVdlYVYtcmRiNmluSEZSMURHVXRZZVNZeFdVMTR5b3dpWGhTMXJwanBBc1lRdk9BZUIxcmVOMmVJY1J1TXIwc1luMUxiatIB1wFBVV95cUxQelBET3FxZ3pMUUp1eVVOQTVORHZDVTlnTW5Yck0td1QtNXE5Z1pmblBfS0ZZZ19SOElkR0RubU5ydHRoNkpxcUpjejBqTGplWndKNWZNR2pObjBHNGRiNFplR3pzRkRnSWVKNVZqd3NKOURWRVFpWnVGbjQyanpFLVNNTHlSSkRPaDZPOV9Eb2d2ZVozcGdMZVJVM3hmMDVoNmN2NnlCeTVqcmswWXNXb04xeG12LVpzT25UVzZuajhQTFpGa19XODg5R3NncDZXTkt6Wks2Yw?oc=5"
         }
       ]
     }
