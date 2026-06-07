@@ -1,10 +1,34 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-06-07T13:57:27.337726+00:00",
-  "total_fetched": 77,
-  "unique_count": 77,
-  "health_related_count": 21,
+  "fetched_at": "2026-06-07T19:25:45.392637+00:00",
+  "total_fetched": 71,
+  "unique_count": 71,
+  "health_related_count": 17,
   "news": [
+    {
+      "id": "59317cc6452f",
+      "title": "Cientistas acreditam ter descoberto origem de rio do ‘Jardim do Éden’: estudo revela que o Eufrates surgiu da união de dois rios gigantes há mais de 5 milhões de anos, incluindo um maior que o Nilo - CPG Click Petróleo e Gás",
+      "published": "2026-06-07T15:28:00+00:00",
+      "summary": "Cientistas acreditam ter descoberto origem de rio do ‘Jardim do Éden’: estudo revela que o Eufrates surgiu da união de dois rios gigantes há mais de 5 milhões de anos, incluindo um maior que o Nilo&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNbjlWeUxfTmlDMXhSaTQ2anlHY2hmRGN6X0llU090X0ZrMV82UUE5ekV4UGpZcTk4YjFIZDdxNldTMWpWZ29YZG9OZC1NQm5rTjVSV3hZSWxJbnpvOXE1NnFUbGM5RTJsOEp2ai1CYV9VVF9nZXlRY1pMRWZYLTRFa0VfR3BhNExwd2dIVThSczJaOEFxS052dXB6TUR1eTloT19yNjFDRzRKRzZDSVJWNkZPb3JrdC1hdVM5QjNnUnRrc3JCcWZ1Tk5LazJfOHN0SEpFRW4yazdQYW5pdThUYzNmTlJrN1FEYVNqdkpLRlI1SzZISmQtb1hMWktaNVYxS0pUVXhBUWxnOGNfNDEwZlE0SWpBTmtVMmRQNTUyNHlsaUxZbF9YZjdJbUlYVjhNNWo4RXpSYkl1S0RVb3kzSA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b4f48c7e99f5",
+      "title": "Parkinson além dos mitos: o que a doença revela sobre sintomas, tratamento e qualidade de vida - Rádio Itatiaia",
+      "published": "2026-06-07T15:16:16+00:00",
+      "summary": "Parkinson além dos mitos: o que a doença revela sobre sintomas, tratamento e qualidade de vida&nbsp;&nbsp;Rádio Itatiaia",
+      "sources": [
+        {
+          "name": "Rádio Itatiaia",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ1JER2I3VlVaQzFKZGtCSEJDc2hPek1XYmJ2cmtFVk1GT3lKNGt4M0hPbWkyVHVHNGtodS1FUHNaSVlqaFJjWjNJVEx2YXI5bm5ZVkVPNFdJcFJKMjB4eENGcndyVE5saEFsdnhQaUJubHdrUTdCUnQ2b2d4WTdwQlZ3TWVnY1F6Qi1MQloxYUxTaWQ1eHFTMkJSbVNweEFZWDRHSXh5MURQcllwcXFRU2hJMDJhZVdpREpJZ3NIeWw2aUcycnc?oc=5"
+        }
+      ]
+    },
     {
       "id": "e236af0e4b62",
       "title": "Opinião - Mensageiro Sideral: E se os soviéticos tivessem chegado primeiro à Lua? - Folha de S.Paulo",
@@ -21,7 +45,7 @@
       "id": "b332fa404144",
       "title": "Sauna promove benefícios à saúde? Especialistas avaliam - Estadão",
       "published": "2026-06-07T08:30:00+00:00",
-      "summary": "Sauna promove benefícios à saúde? Especialistas avaliam&nbsp;&nbsp;EstadãoEsse hábito comum na Finlândia pode aumentar a expectativa de vida e já é apontado como um dos mais importantes&nbsp;&nbsp;O POVOSauna promove benefícios reais à saúde? Especialistas analisam os efeitos no corpo&nbsp;&nbsp;Agenda CapitalEstudo mostra impacto da sauna e do frio no coração feminino&nbsp;&nbsp;R7A sauna regular é o hábito finlandês que os pesquisadores consideram uma das melhores ferramentas para a longevidad",
+      "summary": "Sauna promove benefícios à saúde? Especialistas avaliam&nbsp;&nbsp;EstadãoEsse hábito comum na Finlândia pode aumentar a expectativa de vida e já é apontado como um dos mais importantes&nbsp;&nbsp;opovo.com.brSauna promove benefícios reais à saúde? Especialistas analisam os efeitos no corpo&nbsp;&nbsp;Agenda CapitalEstudo mostra impacto da sauna e do frio no coração feminino&nbsp;&nbsp;R7A sauna regular é o hábito finlandês que os pesquisadores consideram uma das melhores ferramentas para a long",
       "sources": [
         {
           "name": "Estadão",
@@ -90,50 +114,14 @@
       ]
     },
     {
-      "id": "bb141ddfc10a",
-      "title": "Condomínio é interditado por riscos à saúde pública em Cuiabá - FOLHAMAX",
-      "published": "2026-06-06T12:33:00+00:00",
-      "summary": "Condomínio é interditado por riscos à saúde pública em Cuiabá&nbsp;&nbsp;FOLHAMAX",
-      "sources": [
-        {
-          "name": "FOLHAMAX",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQelJ4cHp2X0FMNkdCMjBlYW1PRXQzdXJEQnkzZWwwVUYxQ3loZ1lQQ2ZMaEZPV2tXZkRDam1CYU05UWo3ZFQwbXkyalo0RlNaRDVfY25ONktiMDZiTFYyMEl5WU9MaE9ETGhCRUdxMHh6T3Nrd21qcFlaNWh3cWVvMmxqVkozRGlZZDRjRjA5RXZ1b1BFbUVQMExyRm1fbU45bm5j?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1d5a8a0ab47a",
-      "title": "Melatonina ou magnésio: qual ajuda mais a melhorar o sono? - UOL",
-      "published": "2026-06-06T08:30:00+00:00",
-      "summary": "Melatonina ou magnésio: qual ajuda mais a melhorar o sono?&nbsp;&nbsp;UOLMagnésio bisglicinato para dormir: o que um ensaio de 2025 realmente avaliou&nbsp;&nbsp;Tua SaúdeA Força do Agro #757: assista ao programa de 5/6/2026&nbsp;&nbsp;Revista OesteMelatonina ou magnésio: saiba qual realmente melhora o sono&nbsp;&nbsp;diário do estadoAs cãibras noturnas frequentes nem sempre se devem à falta de água: o novo estudo que colocou a vitamina K2 no radar&nbsp;&nbsp;Tua Saúde",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUGNRaVdKOEpzajlkMzZ4eWpBa2p1bWxxbGhlMFp2OGNyM1lIMlZKRzQ5VFVJd1lQR3MzUHA1TE5DWVlSWFFMbmZSeHlRS2lDdjdBWUpkUS00NmprZVFHcHEwQU9hSDdxYThWLVFLQWkxUDNuNnNEWkJ2XzQ1d05ZejA3LXF2NHl0UU42MkxNRGhlYWo1UzQyQW9YcGFqY3VZbndNYTVXNnNCOXVqSktOdl9PaXQzc2daaHBINw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "70facbd65272",
-      "title": "Pão é ultraprocessado? Sistema criado pela USP ajuda a identificar alimentos prejudiciais à saúde; entenda - O Globo",
-      "published": "2026-06-06T07:01:39+00:00",
-      "summary": "Pão é ultraprocessado? Sistema criado pela USP ajuda a identificar alimentos prejudiciais à saúde; entenda&nbsp;&nbsp;O GloboVeja mais manchetes e perspectivas no Google Notícias",
+      "id": "07ed55819e45",
+      "title": "Embutidos ultraprocessados, como o presunto, podem ser considerados na cota de proteína diária? Especialista responde - O Globo",
+      "published": "2026-06-06T07:30:55+00:00",
+      "summary": "Embutidos ultraprocessados, como o presunto, podem ser considerados na cota de proteína diária? Especialista responde&nbsp;&nbsp;O GloboSaber o que comemos&nbsp;&nbsp;CartaCapitalUltraprocessados e diabetes: o limite diário que apareceu em nova análise de estudos&nbsp;&nbsp;Tua SaúdeO escândalo alimentar do século: demonizaram a carne gorda e liberaram os ultraprocessados&nbsp;&nbsp;GP1Já sabíamos que os ultraprocessados preocupavam. Mas o que apareceu agora foi diferente&nbsp;&nbsp;Terra",
       "sources": [
         {
           "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNFdJLTNBVFk0Vk5aRFRVY3hSQXNLUGwzM3RZa3hVY1BEMXBhaFd5YUxoLUdVN0lEdV80ZVRkbXNPWWZCTWpyZUlKcmdwYjRTV2JkWEdNVGE0MmFUX2NQNS1PRU1qd0xQSGtvN3ZwQVR5cHRiaE9xU3VXVVRCekQ0LTBtczdMODdjMnd1TjFkeXJDczVudktmdGlDbFhCZ0JKbjRyMWtfdkFHalZVd0twMFZfbmwtSUx0TzM1ek1Sd1h5Y2xKSGFiVzlJZ0RvSUY4X0YyRkVSUG1RVHlydFhFTzNkSjhKQTlsTEJOMUtIcUFoZ9IBgAJBVV95cUxOYWVRdVBrb2hSb0dzY0h4QTRoNjJlOEVTSEstNF92UnJKZDYxS0hkdFF4ZHlfcTR6QTVMSlBQaFJPTnU3M1JONHp5c2d2MFc0YlZPZVIyMjhXUE1WWTlKNGdxaF9pNWtrZ1k0d3Q4eGo1Z0E1VnpuSlU0b3ZUdm44Z3c4cFJHYldjQkxEYWRBVEN4ekZmTFc2UV9JMmQzZjVKVGdjRlB3eWVLbTR5S2Z5RmNPNVF0NG5xWDNGVlJPM0hzTDRMdUlPWnh2OUU2cmllTmo4dXhSOVgxczJPblFLcWNteklXUWhoTGN0NU1xcmcwLVMtWjd1cWEzU2JjZDVF?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1cf5b8099f0d",
-      "title": "Brasil precisa conectar pacientes e voluntários aos centros de pesquisa, dizem especialistas - Folha de S.Paulo",
-      "published": "2026-06-06T07:00:00+00:00",
-      "summary": "Brasil precisa conectar pacientes e voluntários aos centros de pesquisa, dizem especialistas&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdjdaVEtJc0VHMmhWd2pza3hQWUJxeFdzaU4xRkoyTVZaYWxFNGsyeWkySUNkeS03SnFQbEx3MWNiMWs0aFE5VnpPa3hIYmRNR3lOZzY3S2dhWEMwWVFVck95S0c3VEtELXBUcFFhaE04Tk5TUmVFX1A2d2RnSVZ6UG9rZExWN2hISVUtUTNGdFZfMnNNMm9kUW1GcHN6eWdYaUFYTXdxU1BjeU9QUkxUYjg0MlZPQ1dDUWQtWG1UcFNTLXdJdVJKQ2N3RkFTd1E2TzFoUW1pYXFnZ09ObTh2dUFmTzhyTjg?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQMWt4UlV3WXlOTnRkc2pEU2NSN0d3RXRrRmstNkdDNjFrSWJVX1JQcGRoajhETFhxMU84QXN5M251T0lsQjd5SDRIM0pNeTlzMm00TUFmN0VUY0c0cC1kLVJUd2JGM05zYTFRcEtMTTJ2TUhOUzc3MWRPemM5SHBiRFVwZXJsUmcxNXFibEh6RUs5V3ZXdjZXTmQzdDZET2dIMUFmUHdZcm5vQlI2ajdSNy14RUZmRnBmLThVcHhmYVNtZ1o0ZUttMGFEMG5zbGN5UU1RQXR5dkFJSlViOGRTOEVtbGZIdUwtSXBYSkkxR3Y5bmpUaVVMeDVjQTNXYUtFRy1OLUtUaGhRQUXSAZoCQVVfeXFMUDNZaGJMUVhUNlAxVUllVkZ6X2t1eTJHLWFhNjgtVmoyajZPb1lzZ1Fhbm9QR0ZpcnZmSzBtT3ZEU2pnNW5ta05FVlBOdEJ3dUROV19jVENCQ08yUGREc0pBMVpzV1psV1IwaWxzbEdEQmNnSS1ncU5iY2Nyd2dUZDlUek1NaXltZ2ZmM1pBQWh1dUMxSWVCWXlKM1F0ZTZxWUl0M3ZqMlRvT3l2UHlsSkxUODFWZjNHS0g0enVHbzByVFBlNU4xZjNNY0hXcUp1dzlyVTJNby1ISDRvcjVNRzcwM0ItTDZBQjBpWmdoeDY0YS1XaTluNFFGSVRlblNLVEo3cktDelRsTFUwZThRa25xS29UeHlhamlB?oc=5"
         }
       ]
     },
@@ -162,18 +150,6 @@
       ]
     },
     {
-      "id": "61a355a220af",
-      "title": "Argentina vai estender a outra província estudo de roedores por hantavirus - UOL Notícias",
-      "published": "2026-06-06T00:40:29+00:00",
-      "summary": "Argentina vai estender a outra província estudo de roedores por hantavirus&nbsp;&nbsp;UOL NotíciasArgentina ampliará busca por hantavírus para outra província, além do local de onde navio partiu&nbsp;&nbsp;O GloboArgentina expande análise de hantavírus para Mendoza&nbsp;&nbsp;R7Argentina amplia investigação sobre hantavírus, enviando equipes para capturar e testar ratos em Mendoza&nbsp;&nbsp;Tribuna do SertãoHantavírus: Argentina alarga análise de roedores a mais uma província&nbsp;&nbsp;Saúde M",
-      "sources": [
-        {
-          "name": "UOL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZF9fQzZ4MWwwNk9lU19xZnRiNG1NZy1SMkxDanNkeGpsTVZiZGY3bG1pX2w1XzhvSjBWYTBWSGpEVmN4LTQyR1gwSHB5QUJoMVRuYnRwUzRUOHRrQUphcnpZRlRfd0xqNTdfNW9rQ2s2elk0S0xzRVI0V2ZROUVTaW4zOUJpMFdRUi1WaHRaOXMxYnpaai1HR3REQ3BKQUFVTnpvUTY0NmNaTzlIRnFwUmFLSUJ0OGFEN2M4cVZNc0pSQ0Z5cEplVTgxYXdsWmdTZlNrWQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8948d63acda4",
       "title": "Nova espécie encontrada por pesquisadoras pode sobreviver a temperaturas extremas de 100°C - Diário do Comércio",
       "published": "2026-06-05T22:20:00+00:00",
@@ -186,30 +162,6 @@
       ]
     },
     {
-      "id": "4607cfc218e6",
-      "title": "Boletim médico descarta danos neurológicos no rondonense Anderson Loffi vítima de acidente - O Presente",
-      "published": "2026-06-05T20:16:26+00:00",
-      "summary": "Boletim médico descarta danos neurológicos no rondonense Anderson Loffi vítima de acidente&nbsp;&nbsp;O Presente",
-      "sources": [
-        {
-          "name": "O Presente",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWml2RWJjQWJvb0NyX0RmZ3NOZVBKUjJ2aFhQdFNtQ3VxdmVObEdOaVJrc3NmQ1U1bEVuVU9sME5fZmIxY0RpRGZmZ3UwZWhBUVBRbFZ0cG5ld3N2OFFSQnlQLUNUZFFKN2laNG15MGJLSlo1RXlxWHRlZEJmWXZ2LW1uSVhFYTk2al9ncDVhMDZ6WjV2WWpNcU1LWUk3dmM4RmxSdW9HOVNGXzY3TDFkZGJQYjF1X1lkdXI5MTNWRnk5YjR3VFN5ellFY0NHN0JxakRLVVdlUnM5NENz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "deaf6c607cec",
-      "title": "Muito além da estética: por que a musculação é essencial para a saúde - Portal Drauzio Varella",
-      "published": "2026-06-05T18:21:07+00:00",
-      "summary": "Muito além da estética: por que a musculação é essencial para a saúde&nbsp;&nbsp;Portal Drauzio VarellaQuanto tempo de musculação por semana é preciso para reduzir o risco de morte? Estudo de Harvard responde (e é menos do que se imagina)&nbsp;&nbsp;O GloboMusculação realmente pode ajudar a viver mais?&nbsp;&nbsp;BBCQuer viver mais? Estudo aponta qual o tempo ideal de musculação&nbsp;&nbsp;MetrópolesNão é a caminhada: estudo de 30 anos aponta o tipo de exercício que ajuda a viver mais.&nbsp;&nbs",
-      "sources": [
-        {
-          "name": "Portal Drauzio Varella",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQa1Q2cE01SjI2dFQwZ0pNcWd3dGExVm1WSkFmSzV6UnVrT1VWTFBKejZfNmI0ZUh1c2U5LW9QUm1uRlFncVg0M3BZT0lDMDlnZi1LVC1pb1ROZ0h4WVVMUXRnYUFrZHVxMHdWd1cxdUhwRmY2M1F3OHlNX0NRRDd2Y1VHcFJTZ1lIYnY5WFQyN2ZxUURnaVFjQTVlNC1vT2NHNmhUd3V2bGtaazZudWVBX0xrTjhaYUlHTlA5Rw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d538324b5d03",
       "title": "Inteligência artificial: a vacina inédita desenvolvida por IA - BBC",
       "published": "2026-06-05T17:33:17+00:00",
@@ -218,18 +170,6 @@
         {
           "name": "BBC",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GM3dmOW1vWEwxaThTZHM1TWhqNUV2N0l6ODNHQmhVbmQ3WE1aNWVlU05vTjllcmpHZEdsT1dRV1M2TW5LMVlaLWhPdVN5dm1DVGE4cEdaYTFmZ1dlQTBSS3Zn0gFnQVVfeXFMUEVnY1hwTlNHbWhyMlE5M3VpWC1UZm5tdUpvMWRmRm5IeU9GaTVIdWVGWFpMTEFPY2tRd2d6NVlmd21ZWWZFVHdOaGVDOTJ5d3hpMy1oWHUwZDRveVBFSWxjeDVXdWlGNA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dbce2a86007a",
-      "title": "São Luís entra em alerta para SRAG com aumento de casos - Imirante.com",
-      "published": "2026-06-05T16:41:00+00:00",
-      "summary": "São Luís entra em alerta para SRAG com aumento de casos&nbsp;&nbsp;Imirante.comRJ registra nível de alerta para SRAG com 424 mortes este ano; cobertura vacinal contra gripe é de 27,5% entre grupos prioritários&nbsp;&nbsp;G1Casos de Síndrome Respiratória Aguda Grave crescem em todos os estados&nbsp;&nbsp;CNN BrasilProteção coletiva em tempos de pressão na rede de saúde&nbsp;&nbsp;Jornal do ComércioPediatria alerta para cuidados com crianças após RS entrar em alto risco para SRAG&nbsp;&nbsp;Terra",
-      "sources": [
-        {
-          "name": "Imirante.com",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMHR2RDBMTjgtX1hxVWhpTzlxbVBWQmxXZHYyMm9hX1dhMDlFZWtraEtqMkVwRkxmSjR6WUsyTE1rbThuQWlUcjVqWDVJekF2OEJiRkFWZjFUb0phVUR3aDNnVk5xN3BERWZlMnJkUldSNFFycFFyOU9SbHZOSVJ2VDZJdHBlMlRCZU9mWW1VYlR3QzR0dHdTVG9aenJyZmFmVkpoWUhUMmQxcElxUC1ya2xaLURDamhU0gG-AUFVX3lxTFBwY3VxTkh2cEZlVk5iZk03ekQ0dVhWS3RxWUZYM1BSdEJwRmRJQVdlSmJQUnFra2p3VXRMY25WbFE4M0h6YmNlWXMwekJrcUpEUVNnT0N6T3hLUnItNW9PXzdFMFhXbl9NTVAxSDhtYWpBR1JNZUJsR1h4NzFoYVNIdUo1cW1fUW8xQUo5MEJKY0NIQnlHMzd2Y2RBQ0VvSHRPY3FodXJXejlKSzhUMUlQT29QMktFZGFsTUY5enc?oc=5"
         }
       ]
     },
@@ -254,6 +194,18 @@
         {
           "name": "Revista Amazônia",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMHpQcnV1Zy1TaWZ3TUhvVzBNQmhlREtzdEcwaTlxSHhUbW9uc1pqZG5jWTN4VkhWeTJjckFQbzg2NGlnN2p4V1NlNWZidXVhWjFGNTdGM3QxdzJUY1dlSlRZelQ4QkxDMlhwUWJGaFRqR19GNmxXTFh5RVptdGs2MThwclZYdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "43ee6e005fc8",
+      "title": "Reforma de escola em Los Angeles encontra milhões de fósseis sob o terreno, revela mais de 200 espécies, aponta um antigo fundo de mar e transforma obra comum em laboratório de 9 milhões de anos - CPG Click Petróleo e Gás",
+      "published": "2026-06-04T23:07:00+00:00",
+      "summary": "Reforma de escola em Los Angeles encontra milhões de fósseis sob o terreno, revela mais de 200 espécies, aponta um antigo fundo de mar e transforma obra comum em laboratório de 9 milhões de anos&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPTE5LbkNZajR1SjZvQ3YxYXNLQzJ5SUJESTYzcUNPdjNwUjNkcm92YlBfM0lFV1JzT2otbXBiV1R0X1hMTTVTQ2IxS3FfTWYtel9FV3VPTW1hQXhkejdWZUgyaUVIMmRNbUs0Tnh2OGdaakptTC04MXAzM3NwM3JmUDJkb1l2cExvSlNLSElkUzdvTGhXXzFpUnhZNHdkbnhZY1Z2VVN2LXJWS0l6NklyU2pSbFRtZFNNdDBaaWEyTkFVRmVwX01iaE1zNmNXUHhMLXZuT1VjVmJlOEdUQXN3OEZoYjdfQ1ZHSENva2RWZjRIdFNXc2lGQzFNRWp1X09xMVFZMzZfOFlpWk9JSHpFc3Q0TUJFbjY5SmJDaWtOZExFY3drOGF1Mk5pOEItQzZXWUkwam1lZDNWNklXTkVfRjVyMmhZWWs?oc=5"
         }
       ]
     }
