@@ -1,7 +1,61 @@
 {
-  "generated": "2026-06-09T03:42:11.495608+00:00",
-  "count": 35,
+  "generated": "2026-06-09T09:49:57.009661+00:00",
+  "count": 34,
   "news": [
+    {
+      "id": "ac4599973e08",
+      "title": "Homem de Gelo morreu há muito tempo, mas seus micróbios seguem vivos - CNN Brasil",
+      "published": "2026-06-09T08:41:17+00:00",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMTdMNGhMT1pWT3M2SzJWd0NXdTItSHpWaVhkdE5HMGpJUVIzeGJNcGhVYVlaSENpTGc2OGRpVkQzVE5uRWZpbjAwZ01SV3AtSzJhQmVOMFRxNEJnYTlLcXh5VU9XOFQ1YTUxX3hlYW1iUkYwUDZNclhXYmg0dERkY3o2VUQzUDFGTnhzdnFOMU1rU3FaaHpYQ1lMNUtsYTNrc0JucXc3QS0?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "golimumabe",
+          "keyword": "BIO",
+          "name": "GOLIMUMABE",
+          "url": "/drugs/golimumabe/"
+        },
+        {
+          "type": "drug",
+          "slug": "etanercepte",
+          "keyword": "BIO",
+          "name": "ETANERCEPTE",
+          "url": "/drugs/etanercepte/"
+        },
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
+      "id": "16082c70856f",
+      "title": "Brasil vence fase crucial e está perto de lançar 1º foguete orbital - CNN Brasil",
+      "published": "2026-06-08T23:11:06+00:00",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbUw3UEFtS0ZYY2hTT01oUjBtN3BrZWtjTHFfaElXbllMTXhMVldSUzhibmhqMzhlRmp0YkxVclZkY1ZfSnk3M3RMeGNsSXdCajVzY3pienBOQnBpekpBVG5zeEQwQ2xkSkFBUmo4dHM4TXJBUkliRWcyNGlsdnNLQlNLUElSNTVMWEhaOWpreFF5dWwxNmI2ZXM2TUdUT3hta0sySmExckU?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
     {
       "id": "de1d2700f84c",
       "title": "O que fazer se você tomou a vacina da dengue do Butantan suspensa pelo SUS - ICL Notícias",
@@ -26,6 +80,13 @@
           "keyword": "UNI",
           "name": "ZINC",
           "url": "/drugs/zinc/"
+        },
+        {
+          "type": "drug",
+          "slug": "tadalafil",
+          "keyword": "CIALIS",
+          "name": "TADALAFIL",
+          "url": "/drugs/tadalafil/"
         }
       ]
     },
@@ -50,6 +111,33 @@
       ]
     },
     {
+      "id": "8543712e358c",
+      "title": "Avistamento de camarão gigante no Brasil preocupa autoridades - Aventuras na História",
+      "published": "2026-06-08T20:38:26+00:00",
+      "sources": [
+        {
+          "name": "Aventuras na História",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSnNSQW4xcERUdXJKV2xuVEJIS2ZIVnFfRmUzeWxtSmVQSXNubzR5MjNHd1VURjlFbG5TLVl0QktrNEVJZG5CUU4zc04tZXh1djlIT2lKUnpLOExXcXpqY2ZlRWJBZzdDSmF1dFF1RERuVGY1clZZeWpMT2sxeXdhTWZ3QTlPVTdXWWJ0MlhRSkNOcEFheWNKc0VxUnhlNHVjN05xVXEtdFZuM3drbGRMdVhwWVBuU1hFWEdvdV82N0I5cjQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "levetiracetam",
+          "keyword": "TAM",
+          "name": "LEVETIRACETAM",
+          "url": "/drugs/levetiracetam/"
+        },
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
       "id": "d48852af848d",
       "title": "Como age a pílula que dá esperança contra um dos cânceres mais letais que existem",
       "published": "2026-06-08T19:46:09+00:00",
@@ -60,20 +148,6 @@
         }
       ],
       "keywords": [
-        {
-          "type": "drug",
-          "slug": "golimumabe",
-          "keyword": "BIO",
-          "name": "GOLIMUMABE",
-          "url": "/drugs/golimumabe/"
-        },
-        {
-          "type": "drug",
-          "slug": "etanercepte",
-          "keyword": "BIO",
-          "name": "ETANERCEPTE",
-          "url": "/drugs/etanercepte/"
-        },
         {
           "type": "drug",
           "slug": "silodosina",
@@ -992,49 +1066,22 @@
       ]
     },
     {
-      "id": "3d45a4c678f5",
-      "title": "Cartas de amor para Deolane Bezerra chamam atenção e intrigam especialistas - Super Rádio Tupi",
-      "published": "2026-06-08T16:38:33+00:00",
+      "id": "130bc664bcaf",
+      "title": "Comer tarde da noite pode causar um verdadeiro caos na sua saúde; entenda - CNN Brasil",
+      "published": "2026-06-08T15:20:45+00:00",
       "sources": [
         {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOXEtVUxJMkdteUtxT2FrRFg0VEV0YnhtaHhVLWQxVUI4d1FNTDkxMXBaenNJR1loWExIOHJ3UkgwZmM3Z2p4b3VQX0RzSVBuLWVsQXItbkp1NDJhcndUM05nNHJnVktkcmxlazhINmRDLVVGbmdYQXdsRXBqcVB3VTI3X0dmeldGdXdSM09TWFlhVE5QSzdFQXZiN2NXRVpMMFVKSl9xV0hQZlJCVmRzMA?oc=5"
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTHZ4eXVfeW12MWlRN1BXV09QRVVRTzhVa1NzaGNSRUNZbk9oZFZDc1MydjdZU3RMVm12WWFvVWFWTzdXblNIRXBSREhCU29PNDE5dUhjX2hMQklNRlp3Y0pOWWpNaGZvdms0MlRVbGJhYkFZSjB3RWtCMUhfLURSYUZfYXFuRGQ1aFdaelVLZXkxZkE4bzZKYVhQcFl3MGc0M2hRSnNSLXY3S0ZD?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "drug",
-          "slug": "tadalafil",
-          "keyword": "CIALIS",
-          "name": "TADALAFIL",
-          "url": "/drugs/tadalafil/"
-        }
-      ]
-    },
-    {
-      "id": "da523ad36523",
-      "title": "Vacina da gripe é liberada para toda a população na Bahia a partir desta segunda (8) - Jornal Correio",
-      "published": "2026-06-08T15:15:38+00:00",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTlUwWjByeS1KNE5GdGkxczhlYXNORGZEaFdwLWJFVkRSd25CV1F5WGNyMnNhLWhsbEV3aXAzbjRUWnRuRlFsdlcwQTJPQ3RQNXJGQlFzeVZfQ3R0LVI4SFpIalhLLTlkdjJVSVBSUHJsbnp5Yi1sM2J5X3JQeWN6R1l6bVVOUF9aeG0tMmFBc3BUUnJSdEZQTEtXRG51elU4UEpKdklFVzJZT1VTVER0YmRlMzZVYkpTSVZhRnRnNnVDLVdhc1RyVk5GZzAwUQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "diazepam",
-          "keyword": "UNI",
-          "name": "Diazepam",
-          "url": "/drugs/diazepam/"
-        },
-        {
-          "type": "drug",
-          "slug": "zinc",
-          "keyword": "UNI",
-          "name": "ZINC",
-          "url": "/drugs/zinc/"
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
         }
       ]
     },
@@ -1200,26 +1247,6 @@
         {
           "name": "CNN Brasil",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS2I4UHdYN0ZDZWFaRUxGMzJhbnZCMHdZeGxqLVcyNXhFREoxQzVZVk9VNkF6VjVaR3dwU213ZnJqdmY2NS1WQUlaaXZubEFCc0FPT2tSQzhFVjZEVENFaG15TGR1UU1lbU0yU1YzQWw4TzNHX1czanNVaFRfUGNEUmpZM1BxcWIwMGRCU1dnSjZZbE05RE9zSXA1Z3ZWQQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
-      "id": "d424cba218df",
-      "title": "Taxa de aumento do nível do mar cresceu 50% em quatro anos – e Brasil está em risco - Olhar Digital",
-      "published": "2026-06-08T13:22:00+00:00",
-      "sources": [
-        {
-          "name": "Olhar Digital",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNclAxd21WS1NLVVppTExfd0ViaHpaSEJLWXJ0ajMzYWtHNXVpanp5WXJhemR2V0dPbGttaVpBdGg4cW5PM1A1YUFtX2NQcWpEZThZQUhWNXdYd0tTZVBPM0RKTTNrQ3RnN0xpZjZGOVB3bVY0RzZUN3FlTTQ1alYzVXlULXpCUnVRS2tBd2I1TTZoQXRuUFdBMmo3Ulk5amFLZEMzUDEwRjdIRTJMYTZPZjJyWDNQYmtEbWo0VlBjMTNFNURfV1h5YnVqbWhTR3dEZ3lJ?oc=5"
         }
       ],
       "keywords": [
@@ -1676,26 +1703,6 @@
           "keyword": "SIL",
           "name": "SILODOSINA",
           "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
-      "id": "8008202f100d",
-      "title": "Segundo a psicologia, pessoas que vestem roupas pretas não têm a intenção de transmitir autoridade, mas sim padrões de comportamento - Estado de Minas",
-      "published": "2026-06-08T11:30:00+00:00",
-      "sources": [
-        {
-          "name": "Estado de Minas",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNWG1yNGlpLW9Bc2RiZVE4WVoyVW5wUFJ0QUlpX256YTlIazc5M2t2dlF4dG5ENFlIU0M1U1NKYXJ5ZzctT0xWcE0zRWRXc0J1RnpRLUwtMk43VkhDazFjYnpmSEZoWUpJV2VoSHlXYW1NX0c0NE9tVHFyeklpNjdKbXNOT1lEUGhDRHdGLU5yVURYbk9uZHVwRGdTN01xUVRxZlJFQlVPMGp1VXA5Wk16NXIzWjYxaDk3dlE1a0IxNk5EUFB6akVicWhyWFBWY3BCUWM5TUhPd21CbE9ra0RueVZZSWRrejA2WFVYdmJyNm5nYm5yS1ZsQ2lNR2Y3TG5L?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "levetiracetam",
-          "keyword": "TAM",
-          "name": "LEVETIRACETAM",
-          "url": "/drugs/levetiracetam/"
         }
       ]
     },
@@ -2161,26 +2168,6 @@
       ]
     },
     {
-      "id": "869a1786a19e",
-      "title": "A psicologia concluiu que pessoas entre 55 e 75 anos têm uma maior tolerância ao silêncio em comparação com as gerações - Super Rádio Tupi",
-      "published": "2026-06-08T10:57:34+00:00",
-      "sources": [
-        {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdzJYVVRnVmV6Y25JNGNYalRHYzNud3hpVFdaYnhMSzE3bU1COHhuMUZsR1drQXJjVlp4MURoNVBuWG53OXUxS0loNjk0cnV1QUVkSDRWUFpjVXJxbjBVQUh4dTdjVjFzT19rN29ITDFSaTVnMi15NjJKLXUzV2phVTJ3cWdEcERBcTBldEJEc2M1VElvVG94RWI0X25keHJNNTR1Uzc3cUdQd0hDVDVZVzZ4S01rb29DeFhFSzk1YjF6MHN1VVJSREtCRTh2VmNDTzhQcXdoQUZ6UTA0ZkFfN3ZtLUVVb1hsUkdn?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
       "id": "ad06c8652a44",
       "title": "Especialistas explicam por que você baba enquanto dorme e como evitar o problema - Folha de S.Paulo",
       "published": "2026-06-08T10:00:00+00:00",
@@ -2315,39 +2302,25 @@
       ],
       "keywords": [
         {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "cardiovascular",
-          "related_drugs": [
-            {
-              "slug": "travoprost",
-              "name": "Travoprost"
-            },
-            {
-              "slug": "thiamine",
-              "name": "Thiamine"
-            },
-            {
-              "slug": "tenecteplase",
-              "name": "TENECTEPLASE"
-            },
-            {
-              "slug": "alteplase",
-              "name": "ALTEPLASE"
-            },
-            {
-              "slug": "ticagrelor",
-              "name": "TICAGRELOR"
-            },
-            {
-              "slug": "tocopherol",
-              "name": "Tocopherol"
-            },
-            {
-              "slug": "gadobutrol",
-              "name": "Gadobutrol"
-            }
-          ]
+          "type": "drug",
+          "slug": "praziquantel",
+          "keyword": "FAR",
+          "name": "Praziquantel",
+          "url": "/drugs/praziquantel/"
+        },
+        {
+          "type": "drug",
+          "slug": "zidovudina",
+          "keyword": "FAR",
+          "name": "ZIDOVUDINA",
+          "url": "/drugs/zidovudina/"
+        },
+        {
+          "type": "drug",
+          "slug": "etodolaco",
+          "keyword": "DORE",
+          "name": "ETODOLACO",
+          "url": "/drugs/etodolaco/"
         },
         {
           "type": "indication",
@@ -2359,6 +2332,26 @@
               "name": "DIGOXIN"
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": "142b1f8a25fa",
+      "title": "Fóssil de 415 milhões de anos revela maior escorpião já identificado na Terra - Meteored Brasil",
+      "published": "2026-06-07T18:09:00+00:00",
+      "sources": [
+        {
+          "name": "Meteored Brasil",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOVVFVHRfbDFfX1RGOGc5SDcyTEF6Qm1CTHhILU9JLTFRX0NuUThXZHpVN01QOTdoTVI1S2VfVmtSc0l4VnFUUk1SVDdZb05ldTc1bFItMThTeDR5U1ptQ0NwZ0xzcTZjc2EzaHdWZmU4NFdFVGgwQWw0cGhHcThELU9ydmN4ckRRc0NDdmhqUWthTHdhZFRPOXVxdGxuQ24yU0JfdXozVG5YbHRxOXFicW5fZjNkMTA2WDRLM093?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
         }
       ]
     },
@@ -2418,26 +2411,6 @@
               "name": "Oseltamivir"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "98120d49d5b1",
-      "title": "Uma faixa marrom do tamanho de um continente está se espalhando pelo Atlântico e preocupa cientistas - Revista Oeste",
-      "published": "2026-06-07T14:15:00+00:00",
-      "sources": [
-        {
-          "name": "Revista Oeste",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWjhuTGdHWURkbFcwR2x0YlBLS1VsRThVUjU1bldpOEhpaFFudEtlU3BYLVI1a2ZmMkQ5dGpudHYzWWN6dTJ2cG9uZzhTaU5rbFpMZG1MdHM0ek9VUnBaUW5yejZ1V0FfSVR1UGtSeFVabVZEZUVEWkItTTZOcVZnQlFYRWhTZ1FIQ1FyZW11bm9MZ1FsNmZLTTJyRGhQXzBYVHVlY1JTYmpRTVVoc1dnYnlsOXJic0JnT0FjRTlXLURKd2V2a3F0N0RtS2RyN2xqejY0STB0N3VjcDVuVGtFbzJB?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "levetiracetam",
-          "keyword": "TAM",
-          "name": "LEVETIRACETAM",
-          "url": "/drugs/levetiracetam/"
         }
       ]
     },
@@ -2527,22 +2500,22 @@
       ]
     },
     {
-      "id": "b332fa404144",
-      "title": "Sauna promove benefícios à saúde? Especialistas avaliam",
-      "published": "2026-06-07T08:30:00+00:00",
+      "id": "ad64074a1c39",
+      "title": "Anthropic alerta para IA fora de controle com autoaperfeiçoamento sem intervenção humana - Brasil 247",
+      "published": "2026-06-07T12:40:21+00:00",
       "sources": [
         {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUE5ZVW8yTEhfUER1WThqcjlWWjZqZW5TQkNjcnhzZVZtVXU0ZV9EaTZqbHd6T21CTmpKMFI2SE9UMzBHTTlMZkQxbFQtSVkxUElOOWgxRXV6QTBCUmtJZ3o2WXFUbkE4X28xUmUtM3lHWUxuNGxOalYxSkptdnl0b2JiZVk0OFV2dGVjb0RGckUwRnpQOU8waExWZ3FsYzgtR19yYUVKamk3WTA?oc=5"
+          "name": "Brasil 247",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb081Q05GNXZEVlpYVkxnTzYtSFBZY1pDS09oVlFaRXdhMVJjX0t6UndldVFZbjBHOWdGMzVzTU1jeEFncFIzWUt2XzBpNUZYZ19KMmt5eldoNzloT1BEam5GNFVRUG5VSXZUd1VSV0dVN3hUYW5mWm9meTB6ZThDV25tak9aUTFjOFdBNVl0Ylgya0dfbTk4TWhFX0U1Ym5Tbm1VOUEyY1ZoU0stSlVVOC1YNmZvZUlXYXVCZQ?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "drug",
-          "slug": "tadalafil",
-          "keyword": "CIALIS",
-          "name": "TADALAFIL",
-          "url": "/drugs/tadalafil/"
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
         }
       ]
     }
