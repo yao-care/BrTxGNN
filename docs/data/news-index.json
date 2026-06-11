@@ -1,7 +1,154 @@
 {
-  "generated": "2026-06-11T10:39:45.521568+00:00",
+  "generated": "2026-06-11T16:06:06.317010+00:00",
   "count": 34,
   "news": [
+    {
+      "id": "4a23ce8d8dc7",
+      "title": "Dia dos Namorados: veja possíveis riscos associados a \"overdose de tadala\" - CNN Brasil",
+      "published": "2026-06-11T14:19:56+00:00",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS3Jac1JZQmdlSHlfSm9FaDhQT0JhdDhWWDAxVmY4aWRIU1Z6azFXZHBaOG9KTnlkazIxRWQwM2lEOUpoa0Y5eW0wcW1EQVg3QUw2cG40NEh3RTVCZkttX05zc1ZUNTgzTllXM2Z4YzFianFpd2FnUG9tekpWdVM5d2FEUE1jZU43UjNfdjdXV3VSeDRsdEFtNUozSTRaYlZhX1dWMnJFbS1oeHc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        },
+        {
+          "type": "drug",
+          "slug": "tadalafil",
+          "keyword": "TADA",
+          "name": "TADALAFIL",
+          "url": "/drugs/tadalafil/"
+        }
+      ]
+    },
+    {
+      "id": "4dfce0d7519e",
+      "title": "5 benefícios que a corrida traz para que tem mais de 40 anos",
+      "published": "2026-06-11T12:30:00+00:00",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaV95Zndqek1HZGJTVTFONnZKR0llcm5LTnlkbk1pRmxxZTZ0Y1JXRnp1NFFaNmZ2LVlHeXoxZWdOTEd6eGlhU0MtYXpyTW1xVDBxdGF1UmhKWWpQYzdzQzhGS0xMU1RMbV9FMllLR3pocFJMeUJTVUphN05rZjBkWVQ4TkxFNC14dkYwTHgwRnR1b19Nblhfa3Jrd01XQU1ESkxraEJiN05MVGtqTnpjMDFIa2pzRV9Qc2d5NUwwQjNQMXdXTVBCQjVyVVpaUklsSXc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "bisoprolol",
+          "keyword": "CONCOR",
+          "name": "BISOPROLOL",
+          "url": "/drugs/bisoprolol/"
+        },
+        {
+          "type": "drug",
+          "slug": "tadalafil",
+          "keyword": "CIALIS",
+          "name": "TADALAFIL",
+          "url": "/drugs/tadalafil/"
+        }
+      ]
+    },
+    {
+      "id": "1147a4c84f88",
+      "title": "Cidades do ES iniciam vacinação com a Pneumo-20; veja público-alvo - A Gazeta",
+      "published": "2026-06-11T12:02:00+00:00",
+      "sources": [
+        {
+          "name": "A Gazeta",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeFZtWEdUZ2hPNkpBdldBcXJuajJOVlpoVElUMnBBVVJDdkNKVnNkVlkwSlNrMEg1cXB4dWphajE3eWZCeXFsOFlVSndIbG9PY0hHNWNsMVdENzEzOGU5MzNCdjhXZWFBdmdxVHZwSWd2blItU1lpeDBtU3dsaGV0TkZkUlpGcHNDSXpnbml2U3FVVWNGZHpzT2RKTkhzeDg3QUNocHR1UmVlLWFRNlE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "praziquantel",
+          "keyword": "FAR",
+          "name": "Praziquantel",
+          "url": "/drugs/praziquantel/"
+        },
+        {
+          "type": "drug",
+          "slug": "zidovudina",
+          "keyword": "FAR",
+          "name": "ZIDOVUDINA",
+          "url": "/drugs/zidovudina/"
+        },
+        {
+          "type": "indication",
+          "name": "pneumonia",
+          "keyword": "pneumonia",
+          "related_drugs": [
+            {
+              "slug": "ganciclovir",
+              "name": "Ganciclovir"
+            },
+            {
+              "slug": "clobutinol",
+              "name": "Clobutinol"
+            },
+            {
+              "slug": "tazobactam",
+              "name": "Tazobactam"
+            },
+            {
+              "slug": "oseltamivir",
+              "name": "Oseltamivir"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "infecção pulmonar",
+          "keyword": "pneumonia",
+          "related_drugs": [
+            {
+              "slug": "ganciclovir",
+              "name": "Ganciclovir"
+            },
+            {
+              "slug": "clobutinol",
+              "name": "Clobutinol"
+            },
+            {
+              "slug": "tazobactam",
+              "name": "Tazobactam"
+            },
+            {
+              "slug": "oseltamivir",
+              "name": "Oseltamivir"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7b51c819806c",
+      "title": "Picadas de escorpião crescem 350% no Brasil e chegam a 1,7 milhão em 12 anos; saiba quais são os três estados com maior risco - O Globo",
+      "published": "2026-06-11T07:01:48+00:00",
+      "sources": [
+        {
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNODJuVnViWWJ0RUExMXI0dFpnblNpSzZkaTFTSWdDY3A0QmdfeW54bWVBMkhmR2VORHN1bnZtUjJITTJ2T1puOGhLbGY0ZHlOVll5VlRLRWt3TFBRTlVPVXE5Yk1LbEVONGs5SENpcHZuSHVpdkx1VlBzZkFwMWctcUNTMEhaWHRDMU5xcjJwRmF0ajBsRTJSY2JRVE9RdmRSWHNlaHJXV0F4cFNKY1VoQ3k5emdrOUtldXR4UEJvenRsUmVYY2psWDBaSGo4cDVaSlljUWRhZzFZYUw2c2lwRlQ3clpkQ1FqTWZ1VW9BVTN3d3k4MHNTQVdoN0tsN2tmWjhMWFNVNWtLS244ZzJYNy1YVU9sYXE5ak5xRmln0gGsAkFVX3lxTE5sMlQ4aVVxOTZTaGxMcWVYSVpTQzNtRWpMNlpWRG1OWGVDQ0d4bkc3T0ZLelJqVEJfNWdQY19hUXp6V0M3Y2tRZHpnTFM3VE9uZEp0a2h5YXJGeWZZdWVvVHFtbzBDOUh0MXNwQ2NRMk55VmM0NkRYNXBuQlhrNVlHcER0XzR1RUl1WFpubkZweWY1VDdrcmhWUVlFNWhpUmVoWDdLbm9lVE4zUUxxMTFtd0Y5M1pFbjN2MDdveVU2U01ENDFncVljNnpiSTMza3VqSkdDYW9adVkwMEU4VksxenY1cFlEZ21kQWVCY3JvbGcwT3hNRzhuaEIzR2lnQzhuNTlNSmYzVG9neEE0aktYUHl3XzJBSjhWbGY3MVNrS0hSS2V1YVVfZHNWYQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
     {
       "id": "93d695d5f2f6",
       "title": "Inundações na Indonésia vitimaram 7% da população de orangotangos raros - CNN Brasil",
@@ -66,13 +213,13 @@
       ]
     },
     {
-      "id": "1ce9ea61e9e0",
-      "title": "Vacinas contra a dengue: quem pode tomar Qdenga, Butantan-DV e Dengvaxia — e quem fica de fora",
-      "published": "2026-06-11T03:01:14+00:00",
+      "id": "471dab8329cc",
+      "title": "Pesquisadores descobrem fóssil de réptil \"avô dos dinossauros\" de 240 milhões de anos inédito na América do Sul",
+      "published": "2026-06-10T21:01:42+00:00",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNc3Utck9mdDAyUmRJOHJnc215WkF4WkQ3cHRJZWY4Y0NIbGh0Ymg4VXBHT3lxVWwxdWNUWWhQMm82M2ZIeVBHY0NHYk8zbEZIYnZVWk9EcmtSenRpM2xyZzVvMFYxQWNFYmdmaXdMR3dnLWtubG1hdUNIU21nTjZXQjBENWlNdDZTcHI5YVVCcjVlVHVoUW1mLWtvQTVyMG5SVEE5VW4xVHNVR25SamFqNUVtTVZ5ZTYyZUN2Mm5oUjVRVnhqYWQwX0x5S1J2R3Z6Z2V6MlRfTFd1UdIB6AFBVV95cUxQRTZTZHRicUlfWXEyWEhtS1I3WWlwLXNDQTVqVXJpa2NRMk04R1VRM0lYQ2RrZHh2TF9wUnpvSDI2Yzlzb2tCaGcxeUlPYVkyX1JLbmQzWGQtUTBzaU8tdWswX19PM3pCSTRwQzMxYU94UXdpWXF6TnVEMkI2NUZLZ0p1ZTBUS25KdnptVENjVm1GRnBjaW9RVGViR1RCVVIxYmU0c1B5Z0g4UzZTekZjQnJKakJXUjhTQWFCeWx4MEMzUEJRWi1scG9URm14MVBjQVpLLUdVWlZYTHA5M3oyZFlBa2ZvMG1J?oc=5"
+          "name": "GZH",
+          "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPZkdyNGw2djhkRnJIUU1hWVp5QXRKSFF6cTJUV1I0YTg3VG05TzRTSmdNdWJkWkc5ckg1eWtXZmVZUUJ5b0xFUS11Y2lGc1RBWnNUNjRZTkpjck4tMkp0V09ZM0lQSU5CX3Y5TnFrdVhKUkFORkg2dl9BelVpWXZtNEQ5NVFoN01SQzN2VFIwUDljWjhsYnF0eGg0RDBGZ3dQOWNuTlI2OEl0RUdpR2lzeVpYOUFrZXRLUjE3S1BRSWxvTVMxdVFXdXRMZ2Z2My1TUnVBdDAtbVp3MkttR004dWtiWmplYWJkbXpPN3c5Z1RzNkZZLW9lYmlpM1R0akRmRkstcXIxRXUzbjFmWVJXU21YbmJBMkNrSUNIS1NCMmRzLTlqT2c?oc=5"
         }
       ],
       "keywords": [
@@ -532,26 +679,6 @@
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPLVBzem91cm00cERyWjRaYkhIREQtWVJveUdrSEppTldUa1VpNFdaVkx3Q3UyOTF1ZkhiV1F3cEZ2My01aVV0N2Y5b0xLT3BuZmxrTUNBcHliSmRYTXdkMF9EZ3J5Umg3cGFJSml3OXRYWUhOVTNYQ1dJeTg1SElIYWVvUEI2Q19vc2JjX1VRSFZXQmdPSXJkVUdUTlI4M25aTGJyWlJfbWFpeVRBS1JNYQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
-      "id": "1ca9dd238efa",
-      "title": "Alzheimer: estudo associa suplemento à evolução mais rápida da doença",
-      "published": "2026-06-10T17:53:59+00:00",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzRjR2eUxYLTlvRlN4M2h6ek80QmZuRS0tcjFjbnZFdlRXMUxvTXhrM2JpQi1od1JIOXdtOTRieUY2NktuckU2NDBHdF9CY0FaZjd5djVaQWppQ3UtWU9oRWM2V0pmRmRPRUNVTVllZ3hUQk9ZMmxzZ2dkWVVKWWs?oc=5"
         }
       ],
       "keywords": [
@@ -1424,6 +1551,53 @@
       ]
     },
     {
+      "id": "e55bc8138e75",
+      "title": "Estudantes da rede municipal de Petrópolis identificam asteroide em projeto internacional - Tribuna de Petrópolis",
+      "published": "2026-06-10T15:48:42+00:00",
+      "sources": [
+        {
+          "name": "Tribuna de Petrópolis",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWnpqM0xjbWh0UlVrNFhaaHBxc2pTRXhWUm9YMWFYbl9mTE5ucFZBUFgyaTE1bXB3cjRsMUxjRmdmSDhoZFNnME5DQW95bHk4dC1YMEJOaFBONXZZTE92N05qMHRtOFZ2OWFLcEJHRWhrcURUQlpmclBXcXR4VjRGdEwwU25zemZzQ3JSVnZoVEREWnZ2UVZoUV85WnY3MXV3eUlwWWxLdENEc0R3WmN4TnVXdkpOQVhRaW4yeS02YmZyS2tGZW9VWWVXUVdwVDg?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "diazepam",
+          "keyword": "UNI",
+          "name": "Diazepam",
+          "url": "/drugs/diazepam/"
+        },
+        {
+          "type": "drug",
+          "slug": "zinc",
+          "keyword": "UNI",
+          "name": "ZINC",
+          "url": "/drugs/zinc/"
+        }
+      ]
+    },
+    {
+      "id": "62a2222d0cef",
+      "title": "\"As pessoas quietas e silenciosas têm as mentes mais fortes e eloquentes\": o que significa essa citação de Stephen Hawking?",
+      "published": "2026-06-10T15:24:12+00:00",
+      "sources": [
+        {
+          "name": "MINHAVIDA.com.br",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TMDFXaGZ3NG0zaE5NRENFa3dxSVRKNWgyaXdMU2R1UXdON05xaUxMeFd4WTFITTBFUFZ2MnBJSUhOZ0tSUG10LVhpNGlYRk5CdEp1WFZ1SWJscUoxT3lXbtIBZkFVX3lxTE51UldON0R5VVJ6cmhOU0pLOUJpYXo2Qmlpd1NqdDA3SGVPakpSc21sZ2hWcmRzc1IyZHFHMHg2SjBabm9RN2F5TG9LbkdNYzl4Zk1XTmNaM3JJRjRLckNlemYwYjFKdw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
       "id": "57b34dd84cf3",
       "title": "VI Escola de Inverno de Física – PGFISICA - UFSM – Universidade Federal de Santa Maria",
       "published": "2026-06-10T15:17:00+00:00",
@@ -1511,22 +1685,29 @@
       ]
     },
     {
-      "id": "6c6baf65749f",
-      "title": "Por que reduzir o colesterol LDL é decisivo para proteger o coração",
-      "published": "2026-06-10T13:17:02+00:00",
+      "id": "cc118cf0dbdf",
+      "title": "Vacina do Butantan contra dengue 'seria aprovada em qualquer lugar do mundo', diz ex-diretor da Anvisa",
+      "published": "2026-06-10T13:21:18+00:00",
       "sources": [
         {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSVJ6bm45OUQwTjl6cmxXU1dDb1luWl8xb0g4bGFSaUNDY0kwRzFnU3hEelYwMWM1NWFXcUt4SWFHUDhWdjFFeTZOOVNiMWtqSF9qVjdRSUROaVZpTVJQdTBvMm56dFdDdTIwYmJYRHRxYWVmN1Y5a2dQWDdmYTRxQXpXSQ?oc=5"
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBodS1oVEx5Zml3Q3dPOFozc0FRWGdTYWU2MHRWWDh6c0M5OUVWajlUYmpSbTJmZVRmNHJHVV9HalJfVHhkamZuR2ZXQnVmZ1FvN3dfMDJlZ2lzaEh1OGR6U19B0gFnQVVfeXFMTmd2cFQzaXVwZEdwOWVuS0RMRFBuaUhiYUhIeWw0V1RuRUVGU2UzWW1reEJqODFCY3R6X2hxejFnU3BoVG5FUjlQdFpRVnljbzlkZVZacWlZNGtmeXJ3OVd1U2xxNl9jRQ?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "drug",
-          "slug": "decitabina",
-          "keyword": "DECI",
-          "name": "DECITABINA",
-          "url": "/drugs/decitabina/"
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        },
+        {
+          "type": "drug",
+          "slug": "etodolaco",
+          "keyword": "DORE",
+          "name": "ETODOLACO",
+          "url": "/drugs/etodolaco/"
         }
       ]
     },
@@ -1551,33 +1732,40 @@
       ]
     },
     {
-      "id": "75e8ad1df6ce",
-      "title": "Família de Araxá transforma o sonho do avô e o legado do pai em 250 queijos por dia, conquista ouro no Mundial da França e faz o Queijo Minas Artesanal sair da fazenda para emocionar o Brasil como símbolo vivo de tradição, coragem e sucessão rural - CPG Click Petróleo e Gás",
-      "published": "2026-06-10T10:54:00+00:00",
+      "id": "c50a1bb35b67",
+      "title": "Como o ecoturismo nas cavernas da Serra dos Carajás revela formações biológicas milenares e a história geológica profunda da Amazônia - Revista Amazônia",
+      "published": "2026-06-10T12:01:54+00:00",
       "sources": [
         {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOX1lsYm5fcC1ZYU40V2ZYa0xBTk1kdWJwRjBDXzF3S1REUE9ac291aWEzYTI1bVRsUnh6c2NmXzQ0d1NDZ09QbGthWDhUaVdTUmgtaWJmcElOSHh1ZUFiSFU3Ujhxa1FqT3IwdG1QSWxhZEFQa3ZOZHQ2TFUxRXRBMndNNWdzbmo0N0VMdmR4cDUzcWxjOTctaExMVlhSOGRDYjNMWWZpQU1PMERfS3MtRk8ySUd0c3VmdnVWYU1Rd0Q2MGdwLVhyWGtmdzNQcDBLTGxPeGRTdWwzWGdnQ3ZHb1FHT3VjTjlTQ0l0VWxPa0hadmxTWklMaUk2UURnQmZBRjJlbHlueDU1WEVUMV9J?oc=5"
+          "name": "Revista Amazônia",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPYVh6RnNldFpBZUU1T3BuajhXbzg3Y3BBV0pyM2pzc2VfQXRuY1F5Ni05MEYzTE9yNjRzbFVJR19uS3kzQnhNcjU5UzZzZUdFNnpieTE0cjQ2S0JtUkR5djRvOFU4NnRqN2cycjBkQTVySlJyQ2g1dzVCR2NoV0JGMU5zbnFDTTVTQlhRRG9QeG5sRkhObEk1aFJaV0JYNGpJMEhRbzFZNHFBNFNVTUI1Q2NmeURYVWhCdUhCWGxoQWZmcG5Zb1pMLWI4bWpRVWc0cXVEWWQwQWY0RndnSFZ4UUlycDd3X1ExY2YyRkdTMHFRWEY4RXNpZw?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
+          "slug": "golimumabe",
+          "keyword": "BIO",
+          "name": "GOLIMUMABE",
+          "url": "/drugs/golimumabe/"
+        },
+        {
+          "type": "drug",
+          "slug": "etanercepte",
+          "keyword": "BIO",
+          "name": "ETANERCEPTE",
+          "url": "/drugs/etanercepte/"
         }
       ]
     },
     {
-      "id": "8935a0b51206",
-      "title": "Como a meditação pode ajudar na ansiedade e por onde começar",
-      "published": "2026-06-10T10:23:56+00:00",
+      "id": "f9ffab2c75b0",
+      "title": "Em 1871, um fazendeiro abandonou cinco vacas numa ilha remota: contra todas as expectativas, elas colonizaram a ilha - Xataka Brasil",
+      "published": "2026-06-10T12:00:17+00:00",
       "sources": [
         {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaUpUMnhaQ0dhbWVJN1R3Z0JKZXFhLVpkWVh5TGlEdmRPYTRGQlpNMVZCeGN6bWRXT01QeVo2bmRrLVNqUHJFNzdodHlHX1JjWWk2Yllka3NsQk5mRGxxZ003eDRtZ1hvYXVYU29zMmRoaTlORzkzWVhnanZDME1tdHlTeGxLeXpILUZXZHU2TXlRSmZmZVNqSHJENzJuc2dVT2lhbV9qczFUYkUzaG9WdHdmRVFwMENqTGJZZDJyRjJjUQ?oc=5"
+          "name": "Xataka Brasil",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMEVpaFVnNVp4UnJ3WEwwUDJCODdjenRUX2ZZc3FlcmllVXRlcks3WW9PQVBZcWV2cnhxXzJNYUEyVU1WT3I2ZGV0aUpNNnlMUEZLbnNLWUZUUDJiLThNbzUyMFhsSjh0dExhbmdXbXFFY2N4WkpJUHVtQ01iYjlnVTNKRE5oMm1iQUw5WWpoR21KOU9ZZFY3ZWZnX2RXQW85SWcxMEVoVWhDWDFyOWJsN04tSFVfLWl0Zk9VMnBiWGxDdlFDbTVQbFE3eURER080SUhaN0ZjODc?oc=5"
         }
       ],
       "keywords": [
@@ -1587,21 +1775,6 @@
           "keyword": "SIL",
           "name": "SILODOSINA",
           "url": "/drugs/silodosina/"
-        },
-        {
-          "type": "indication",
-          "name": "anxiety disorder",
-          "keyword": "ansiedade",
-          "related_drugs": [
-            {
-              "slug": "flunitrazepam",
-              "name": "Flunitrazepam"
-            },
-            {
-              "slug": "centella_asiatica",
-              "name": "Centella asiatica"
-            }
-          ]
         }
       ]
     },
@@ -1677,6 +1850,13 @@
           "keyword": "CIALIS",
           "name": "TADALAFIL",
           "url": "/drugs/tadalafil/"
+        },
+        {
+          "type": "drug",
+          "slug": "etodolaco",
+          "keyword": "DORE",
+          "name": "ETODOLACO",
+          "url": "/drugs/etodolaco/"
         }
       ]
     },
@@ -2131,13 +2311,6 @@
       ],
       "keywords": [
         {
-          "type": "drug",
-          "slug": "tirzepatida",
-          "keyword": "MOUNJARO",
-          "name": "TIRZEPATIDA",
-          "url": "/drugs/tirzepatida/"
-        },
-        {
           "type": "indication",
           "name": "menopause",
           "keyword": "menopausa",
@@ -2203,49 +2376,6 @@
       ]
     },
     {
-      "id": "5a98860110a5",
-      "title": "Estudo pedido por Biden e barrado por Trump mostra risco em dose de álcool - CNN Brasil",
-      "published": "2026-06-10T06:36:12+00:00",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSHZxcjcxY05MRkZJUHVQR0tNa2hSalJfbzA5TUhid0hQR1g2Rl9PckRqSFREYTRTeUpSdlVQc29Ya3RzVkFfWkZydUlyWm5EQTBIMWx1alJRUjBTZDhTTlRMTV9TTERvQUhwMXRfSGRzSEg0Z2xWM3p5UUN3TkNwbDZXekp1clh5bzEtai03ZWRvNzFiZTRHbF9reGNKZDRheE4xUERDVWNONmRueTNJ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        },
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "demência",
-          "related_drugs": [
-            {
-              "slug": "biperiden",
-              "name": "Biperiden"
-            },
-            {
-              "slug": "entacapone",
-              "name": "ENTACAPONE"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "albendazole",
-              "name": "Albendazole"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "5d408e38c48e",
       "title": "Conheça o ‘Mounjaro de pobre’ que virou febre na internet - Diário do Centro do Mundo",
       "published": "2026-06-10T01:55:02+00:00",
@@ -2293,33 +2423,6 @@
       ]
     },
     {
-      "id": "7ccd3257909a",
-      "title": "Conheça André Douglas, engenheiro e especialista da missão Artemis III - CNN Brasil",
-      "published": "2026-06-09T18:31:14+00:00",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORF9VeTlWQXFISzF2NGtkaHdOcmViMFp0ZldSMnhYWm1ITDVWQU84UWNZdC1BaU9EaER3V1ppWjI1UE1oN1kyaDcycWkxUGk4YjZWcDNYV3RTenBibUl6bk5MRGJsendObWQxYnliSFVVQV9KMldtbjByVF9ycWdWRUw1dlNUM3NidzNGcnFiVVpBeFdWSmRCU3JWNHdMNkF0T0VjaUw2WXVWdnI4?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        },
-        {
-          "type": "drug",
-          "slug": "tadalafil",
-          "keyword": "CIALIS",
-          "name": "TADALAFIL",
-          "url": "/drugs/tadalafil/"
-        }
-      ]
-    },
-    {
       "id": "694cc99ae744",
       "title": "Uma atriz de Star Trek fez mais de 8.000 pessoas baterem à porta da NASA querendo ser astronautas em apenas quatro meses, ajudou a abrir caminho para a primeira mulher americana no espaço e mudou a cara do corpo de astronautas dos Estados Unid - CPG Click Petróleo e Gás",
       "published": "2026-06-09T18:27:00+00:00",
@@ -2347,128 +2450,22 @@
       ]
     },
     {
-      "id": "d80913284b77",
-      "title": "Vacina que custa até R$ 600 na rede privada passa a ser oferecida pelo SUS",
-      "published": "2026-06-09T15:41:20+00:00",
+      "id": "4f1af1bb3e9f",
+      "title": "Cientistas criaram um tijolo capaz de resfriar cidades em até 9 graus, e isso pode mudar a forma como os edifícios são construídos - Brasil 247",
+      "published": "2026-06-09T16:55:00+00:00",
       "sources": [
         {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTEl2NzdaT1ZGcVdKUnY3bVk0WjJLMmN2YUE4dWZGZ2Z1b1ktUWFRVVRzeEEyQUJCR0h1bW9IS1JteWFvakw4dHlfMnNESnBRZGdjdjFJRHA4NVRUUUNhTDNwV3lZbHBmakZJV0tJWUd2cGtzYXdBRUNLeG5lNFRhWVp0azI1QzJGcTlmR1lEMVlmbk8zYVptTXlRYnNFUUx2Y0RPY09SLThwU2hNenBPTlRpc3J2N3U0RnA3dG9xVDRNbm5WOFNSLVJvR3hnYWtJTFVB?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "pneumonia",
-          "keyword": "pneumonia",
-          "related_drugs": [
-            {
-              "slug": "ganciclovir",
-              "name": "Ganciclovir"
-            },
-            {
-              "slug": "clobutinol",
-              "name": "Clobutinol"
-            },
-            {
-              "slug": "tazobactam",
-              "name": "Tazobactam"
-            },
-            {
-              "slug": "oseltamivir",
-              "name": "Oseltamivir"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "infecção pulmonar",
-          "keyword": "pneumonia",
-          "related_drugs": [
-            {
-              "slug": "ganciclovir",
-              "name": "Ganciclovir"
-            },
-            {
-              "slug": "clobutinol",
-              "name": "Clobutinol"
-            },
-            {
-              "slug": "tazobactam",
-              "name": "Tazobactam"
-            },
-            {
-              "slug": "oseltamivir",
-              "name": "Oseltamivir"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "6f4cbf45c511",
-      "title": "Chá é recomendado para dores de garganta, tosse seca e problemas digestivos: conheça - Extra online",
-      "published": "2026-06-09T15:38:55+00:00",
-      "sources": [
-        {
-          "name": "Extra online",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUHZKRUpvRkNNTDRBVWNIeWJmYmdIMVJtWHF0MlF6clVvOTFiMHBJbUtYbm9kMG5aaUt4T2lwMEVVMS14QkpyZDBHN1BJRDFJUVBwbncxeVdLNERNVWNXbWFLdG1sUjNsN21DXzRwZGRiZ3ctZENGallBWk52NV9FUXY5aUFwQVdEM1Z2akhsQ0F2QlFzOW93eDBHY0VEc0ptQkZSaW8xUmlNVFRHUXVXTWwyNDVWSWg4bDJTa05mZkNuOHhYdnkwcXk2N1J6RVXSAd4BQVVfeXFMTlltZVRQdlFoMnd3QXB5Q1JONGt5MjFpNlAwdUtGNTQtem56TzMweDB6Qm4zUTlaWVlCOW0tdnpZOVlucURpUlBtcWhCaklhZzJxYU02ME1ZSFNkbUtONUJiVE5TcWUxYXh6eUI5aDRmb3REcFZVX29UV2tCYWR3MlZqdHo0WERTZzZ4MzNlVWE4UUZFVmNQU3FkX2RWbUxyNl9XUTFlb0I5ZHJrb0VzWUVwc25ObEJBS01NNlA0U1hZRV9CMFg5bDhzU3Bxc2h3R09PenVIWjc2VXhfZG5B?oc=5"
+          "name": "Brasil 247",
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPeldBMFpzWlFHZE91QXJOM3JISFNCYjZrQTRRU2xVakgyMWZlNU1PWUFzdGRNVzFLXzEyWnRoTG96TERkY2dVMzBFZzhOQllBX1FoUVlKSnAtaW91ZWluVkJhVzFabHhZNVJoRHJKMm5ZYy1qa2F3YkkwVW05UmktMVAyWUlkNjJ1eExEbVhUU0J4Y2U5VDZFUEFOZDJ6ZVMtSlJ4ckZwOU5RcjdtMlVtTnNSRF9ET2Z2azFtc3h3cDgxNEdIdUw1bEZzZ2xFdVotOUFSdXgwdm1kYll5OTRfXzNMWGNsdjh0Zm1hem8zOU15Q1M1UU1DM1BMTmZIYkVoLW45aW41UmhoZw?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "drug",
-          "slug": "etodolaco",
-          "keyword": "DORE",
-          "name": "ETODOLACO",
-          "url": "/drugs/etodolaco/"
-        }
-      ]
-    },
-    {
-      "id": "745923e5a9e7",
-      "title": "Não é Thor, nem Hulk, nem Thanos: Um físico que trabalhou com a Marvel tem certeza de quem é o super-herói mais poderoso do universo",
-      "published": "2026-06-09T14:04:56+00:00",
-      "sources": [
-        {
-          "name": "AdoroCinema",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55ajhMbXVxNGVxZUZMTlkzU1BScE1BdlhoTXh6RHN1R3diemRCZjRaVXhKb3JqRldNZXpDUEZRc1MtVlBhU2VoVEVNTWFMS3NzU3RORTZPRTBJbHYxTEFaakVpM0xQZlM5MC1NSnJRc3jSAXZBVV95cUxQdExsUlc2S3IzMHhhM3V4V3JjLWZwY2pYa3dDNUh2V2Vqajl2VVh1OE9aR0pyWk5rQ1R4QzNMRFFBY2hRMExXM1Mtb0JJbDB6OXJ4SDA0VTFvbkJIanNNNzI2RUdlMUMyajNTN0k2OGNPVm1pa3FB?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "diazepam",
-          "keyword": "UNI",
-          "name": "Diazepam",
-          "url": "/drugs/diazepam/"
-        },
-        {
-          "type": "drug",
-          "slug": "zinc",
-          "keyword": "UNI",
-          "name": "ZINC",
-          "url": "/drugs/zinc/"
-        }
-      ]
-    },
-    {
-      "id": "75f7092ff3ab",
-      "title": "Cientistas simulam bola de fogo nuclear e descobrem comportamento inesperado - Olhar Digital",
-      "published": "2026-06-09T11:50:00+00:00",
-      "sources": [
-        {
-          "name": "Olhar Digital",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdk1jOWN3MHhVUW1tdzJNa24xcU1KZnROVkhaY3FDQmVxNU5PaDdhZENURHhBc3lVMW5Bd3Babk1FVmk4aTBNdW53OENOcEdBYlRiSTZwVUdONThjRjg0T2U0UWlyZVJvMEdwOEpGT3lIRE5ZVElWc1ZnX3lzenBpb0I0VnZwd2lyVGN6cTJMR2NudmhEbFNoLXN0QWRhNERnSW5lMld5MkdiVnNiVUZYMkFyblAwUW1mQmtJ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "levetiracetam",
-          "keyword": "TAM",
-          "name": "LEVETIRACETAM",
-          "url": "/drugs/levetiracetam/"
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
         }
       ]
     }
