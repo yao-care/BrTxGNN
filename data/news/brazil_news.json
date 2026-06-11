@@ -1,14 +1,38 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-06-11T16:06:04.602086+00:00",
+  "fetched_at": "2026-06-11T20:24:24.944744+00:00",
   "total_fetched": 92,
   "unique_count": 92,
-  "health_related_count": 33,
+  "health_related_count": 32,
   "news": [
+    {
+      "id": "40ab5f46aa72",
+      "title": "Pesquisadores russos encontraram em uma cratera vulcânica de Kamchatka um mineral inédito com estrutura cristalina que nunca havia sido observada em laboratório, e a petrovita possui uma arquitetura molecular que cientistas da área de baterias quere - CPG Click Petróleo e Gás",
+      "published": "2026-06-11T16:09:00+00:00",
+      "summary": "Pesquisadores russos encontraram em uma cratera vulcânica de Kamchatka um mineral inédito com estrutura cristalina que nunca havia sido observada em laboratório, e a petrovita possui uma arquitetura molecular que cientistas da área de baterias quere&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZDZZMlI5U2NtM1hpeWViNU5BcjI3Z3NGVVB6UVJLcXhrYW0yZ3RtX0FiS3IxNWRudzFOMEpqOW8taG05MnZudms3YmRFa2JfaUlIeVRGLVF5Tms4NlR5UWl6Sk1lamJBUHVuSGg2UkZNeWEzcjRKVzJVN3pVRG1wc2UzWElPSkhhS3dOLV9sZXk3V3JJV0FPZE9qMFdHUXM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4a23ce8d8dc7",
+      "title": "Dia dos Namorados: veja possíveis riscos associados a \"overdose de tadala\" - CNN Brasil",
+      "published": "2026-06-11T14:19:56+00:00",
+      "summary": "Dia dos Namorados: veja possíveis riscos associados a \"overdose de tadala\"&nbsp;&nbsp;CNN BrasilVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS3Jac1JZQmdlSHlfSm9FaDhQT0JhdDhWWDAxVmY4aWRIU1Z6azFXZHBaOG9KTnlkazIxRWQwM2lEOUpoa0Y5eW0wcW1EQVg3QUw2cG40NEh3RTVCZkttX05zc1ZUNTgzTllXM2Z4YzFianFpd2FnUG9tekpWdVM5d2FEUE1jZU43UjNfdjdXV3VSeDRsdEFtNUozSTRaYlZhX1dWMnJFbS1oeHc?oc=5"
+        }
+      ]
+    },
     {
       "id": "2f5786553961",
       "title": "Os problemas intestinais podem aparecer anos antes do Parkinson: o que a ciência já sabe - Tua Saúde",
-      "published": "2026-06-11T15:37:23+00:00",
+      "published": "2026-06-11T12:37:22+00:00",
       "summary": "Os problemas intestinais podem aparecer anos antes do Parkinson: o que a ciência já sabe&nbsp;&nbsp;Tua Saúde",
       "sources": [
         {
@@ -18,50 +42,38 @@
       ]
     },
     {
-      "id": "4a23ce8d8dc7",
-      "title": "Dia dos Namorados: veja possíveis riscos associados a \"overdose de tadala\" - CNN Brasil",
-      "published": "2026-06-11T14:19:56+00:00",
-      "summary": "Dia dos Namorados: veja possíveis riscos associados a \"overdose de tadala\"&nbsp;&nbsp;CNN Brasil",
+      "id": "7e322f3557d9",
+      "title": "Como torcer pelo Brasil na Copa do Mundo sem colocar o coração em risco? - UOL",
+      "published": "2026-06-11T12:11:11+00:00",
+      "summary": "Como torcer pelo Brasil na Copa do Mundo sem colocar o coração em risco?&nbsp;&nbsp;UOLCopa do Mundo 2026: como os jogos afetam a saúde dos torcedores&nbsp;&nbsp;O GloboRisco de infarto aumenta na Copa: entenda por que e como se proteger&nbsp;&nbsp;Veja SaúdeCopa do Mundo: emoção com jogos pode ser gatilho mortal para saúde&nbsp;&nbsp;CNN BrasilEm jogos da seleção na Copa do Mundo, descarga de adrenalina pode impactar o coração, aponta pesquisa&nbsp;&nbsp;Jornal da USP",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS3Jac1JZQmdlSHlfSm9FaDhQT0JhdDhWWDAxVmY4aWRIU1Z6azFXZHBaOG9KTnlkazIxRWQwM2lEOUpoa0Y5eW0wcW1EQVg3QUw2cG40NEh3RTVCZkttX05zc1ZUNTgzTllXM2Z4YzFianFpd2FnUG9tekpWdVM5d2FEUE1jZU43UjNfdjdXV3VSeDRsdEFtNUozSTRaYlZhX1dWMnJFbS1oeHc?oc=5"
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOemV6UzZDeGJBUlhxUTlCZDZQYVM5NXRIQWJRQ2pjQm03UDRzUHdyVUNWLTdRWV9FM2V2RDhQaUhoRDRoVlJJYUJVV1JoTU5TTElCNUpHZHB4c2hDMnFIMEtHZE14ZEVqNWJUWmNGYldIUExfdERMNHliSkZRLXRHYzh1MUd3VEM3dEU3cGI4Y2pzNXlWcE1WTkhoWTZrQ3B6OWhUMzNhQl9kNkxzMWg5U3JmV29naDQ?oc=5"
         }
       ]
     },
     {
-      "id": "502404a50d2f",
-      "title": "Sistema Solar ‘primitivo’ abrigou seis planetas gigantes, diz estudo - Aventuras na História",
-      "published": "2026-06-11T13:40:45+00:00",
-      "summary": "Sistema Solar ‘primitivo’ abrigou seis planetas gigantes, diz estudo&nbsp;&nbsp;Aventuras na História",
+      "id": "72a0b552492b",
+      "title": "Efeito de nova caneta para perder peso é semelhante à bariátrica - Tribuna Online",
+      "published": "2026-06-11T09:00:00+00:00",
+      "summary": "Efeito de nova caneta para perder peso é semelhante à bariátrica&nbsp;&nbsp;Tribuna OnlineSurvodutida reduz gordura no fígado em quase 60% dos pacientes e marca virada na disputa das canetas para obesidade&nbsp;&nbsp;G1Medicamento 2 em 1 com Ozempic na fórmula mostra bons resultados contra o diabetes&nbsp;&nbsp;VEJAEli Lilly divulga dados de fase 3 do retatrutide, novo medicamento para perda de peso&nbsp;&nbsp;Investing.com Brasil - Finanças, Câmbio e InvestimentosRetatrutida: como funciona a su",
       "sources": [
         {
-          "name": "Aventuras na História",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaHJ0MzZ3RkE0S1M1R2xXay1yd0ZfWG1CYTE2YWNWTXA4NUFySUhPSzNGU1VVZDN3XzJtVTRQeVR4U0t1a2VjaGRRVDBZUEJuLVkzUEUyQ2J1bHVEQ1JSa2dhclRlNDlWT3Z5Yk5JMWVMSG01bnJHSjFNYndXRVJIVGNjemhMaXNtbDZhWWVYNjUyejdmbzNSOWxjRGlJRlBsYkU0?oc=5"
+          "name": "Tribuna Online",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZFhEa0RCZDNWa252VzVOMl9VTl9adFRNY1NZSURjamhMYTJyNlN4OHNYTlV3bEhsMHRDV1JzVzlRT29YZGdrYnZ0LVdEQTltYXd2MFFrZFZMUFBrQklyZFhLeWlkRU5QWkFzTkVJNU5sYTEzeWZydm9oOVRjaGpwUUtQS3AxcEdqVXFNTkJGQWZrdTZTYUJEXzRhNWRPNnplaGtzTTlNR085QdIBsgFBVV95cUxOTUcxai05U3BrNnZjd1RIMVlnbUprYkJXSG9ObU1vck9FcncxZkpfbU9ZNFlKUDF1VVNCWnNwa1NwemRISWxyaVVGcU5ReG9mSEpLMmJ3Y0w5dEdLdTJTYlZnVGlqcFluYl9vQWtkdVEtMmZMUUlwLVlrMjNLTjVOUVdmTGxZbXRKU216c1JTMXlWb29HUExKcld4U29pYWZqa20tWS0wcXM4WEdXWHdqclpR?oc=5"
         }
       ]
     },
     {
       "id": "4dfce0d7519e",
       "title": "5 benefícios que a corrida traz para que tem mais de 40 anos - UOL",
-      "published": "2026-06-11T12:30:00+00:00",
+      "published": "2026-06-11T08:30:00+00:00",
       "summary": "5 benefícios que a corrida traz para que tem mais de 40 anos&nbsp;&nbsp;UOLO que ninguém te conta sobre começar a correr depois dos 30 anos&nbsp;&nbsp;MetrópolesFotos: Os especialistas concordam: 'Correr devagar é um excelente exercício depois dos 40 anos, mas caminhar na zona 2 é mais simples, eficiente e benéfico para a saúde'&nbsp;&nbsp;purepeople.com.brCorrida após os 40 anos ajuda a fortalecer o corpo e preservar a saúde&nbsp;&nbsp;fatoamazonico.com.br",
       "sources": [
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaV95Zndqek1HZGJTVTFONnZKR0llcm5LTnlkbk1pRmxxZTZ0Y1JXRnp1NFFaNmZ2LVlHeXoxZWdOTEd6eGlhU0MtYXpyTW1xVDBxdGF1UmhKWWpQYzdzQzhGS0xMU1RMbV9FMllLR3pocFJMeUJTVUphN05rZjBkWVQ4TkxFNC14dkYwTHgwRnR1b19Nblhfa3Jrd01XQU1ESkxraEJiN05MVGtqTnpjMDFIa2pzRV9Qc2d5NUwwQjNQMXdXTVBCQjVyVVpaUklsSXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1147a4c84f88",
-      "title": "Cidades do ES iniciam vacinação com a Pneumo-20; veja público-alvo - A Gazeta",
-      "published": "2026-06-11T12:02:00+00:00",
-      "summary": "Cidades do ES iniciam vacinação com a Pneumo-20; veja público-alvo&nbsp;&nbsp;A GazetaVacina que custa até R$ 600 na rede privada passa a ser oferecida pelo SUS&nbsp;&nbsp;UOLES recebe mais de 10 mil doses da vacina Pneumo-20&nbsp;&nbsp;G1Rio Grande do Sul iniciará em julho a distribuição de nova vacina que protege contra pneumonia e meningite&nbsp;&nbsp;PORTAL FARRAPOMato Grosso do Sul recebe 8,3 mil doses da vacina Pneumo 20 e amplia proteção contra doenças graves&nbsp;&nbsp;agenciadenoticias.",
-      "sources": [
-        {
-          "name": "A Gazeta",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeFZtWEdUZ2hPNkpBdldBcXJuajJOVlpoVElUMnBBVVJDdkNKVnNkVlkwSlNrMEg1cXB4dWphajE3eWZCeXFsOFlVSndIbG9PY0hHNWNsMVdENzEzOGU5MzNCdjhXZWFBdmdxVHZwSWd2blItU1lpeDBtU3dsaGV0TkZkUlpGcHNDSXpnbml2U3FVVWNGZHpzT2RKTkhzeDg3QUNocHR1UmVlLWFRNlE?oc=5"
         }
       ]
     },
@@ -90,10 +102,34 @@
       ]
     },
     {
-      "id": "471dab8329cc",
-      "title": "Pesquisadores descobrem fóssil de réptil \"avô dos dinossauros\" de 240 milhões de anos inédito na América do Sul - GZH",
+      "id": "205e89987e36",
+      "title": "Vacina mais avançada contra pneumonia e meningite passa a ser oferecida pelo SUS em SC - NSC Total",
+      "published": "2026-06-11T00:59:00+00:00",
+      "summary": "Vacina mais avançada contra pneumonia e meningite passa a ser oferecida pelo SUS em SC&nbsp;&nbsp;NSC TotalVacina que custa até R$ 600 na rede privada passa a ser oferecida pelo SUS&nbsp;&nbsp;UOLVacinação com a Pneumo-20 em crianças tem início no Estado&nbsp;&nbsp;Século DiárioNova vacina do SUS contra doenças graves chega em SC&nbsp;&nbsp;G1Mato Grosso do Sul recebe 8,3 mil doses da vacina Pneumo 20 e amplia proteção contra doenças graves&nbsp;&nbsp;agenciadenoticias.ms.gov.br",
+      "sources": [
+        {
+          "name": "NSC Total",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaW1Nd2kwWVVMS2tQS3FGaG5VOWJBQnptdC1UQ3FVa0RxN2M5TzJLMnV4SW4tM2dtUnU4cjBuUGFJTjZVZXh3TE56dEFuSVVQVmZONDU0MEdzYTIyVkI2d0tVdnJZdThHWThSRURnYXBPUDlaazZQOGZ6Y3lrLURscGExRDdxd3RhTE1aalM5Tk9pOHpiajRGc2g5a2VrZWJ2aV9tcUxRSzhWRWJybVp6VXd5ZXJ2cHUzT2lQZmNPemo?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "52ad2a396d04",
+      "title": "O erro de questionar judicialmente pesquisa Atlas/Bloomberg - Jovem Pan",
+      "published": "2026-06-10T22:34:22+00:00",
+      "summary": "O erro de questionar judicialmente pesquisa Atlas/Bloomberg&nbsp;&nbsp;Jovem Pan",
+      "sources": [
+        {
+          "name": "Jovem Pan",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM2lDLXBvV29ra0M3M3JoVWw3b3IxYXZlWnRhdGY2YnNFX283QWFwY1FBYXYwcXdfY1NUekI2eXV3QXJ3UnNwZEhNbjlFMURqVjA1c2ZyYmdCeEhmbU9zLVEwckw0dDBKMVNfN2VzcDRfdkhUNS1INF83ZXNZdHRnY2hzMWJvUmhRaWdUZFZ1X3VWUlJod3lMM3dMVzZTVlJQVm5Hbzl5QlpVUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "33a43e92dc5e",
+      "title": "Pesquisadores descobrem no interior do RS fóssil de réptil \"avô dos dinossauros\" de 240 milhões de anos - GZH",
       "published": "2026-06-10T21:01:42+00:00",
-      "summary": "Pesquisadores descobrem fóssil de réptil \"avô dos dinossauros\" de 240 milhões de anos inédito na América do Sul&nbsp;&nbsp;GZH",
+      "summary": "Pesquisadores descobrem no interior do RS fóssil de réptil \"avô dos dinossauros\" de 240 milhões de anos&nbsp;&nbsp;GZH",
       "sources": [
         {
           "name": "GZH",
@@ -110,30 +146,6 @@
         {
           "name": "Globo",
           "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNV0t4UXFiR2cwLTN2WXdLQllZR0RHRXpNcFVKTHhuUWxEdC1LNTR0c2pfTU5qTDJ4UGxMVnZONzQ4WEdoN0xPQmtoUXUzS2dKbmdoNWMxWmFWczc2UHBkZVZ1Y1VWWGFSVG9PX0N3UzB6cEZSM2U4Z0RqUDZWVE1RMF8tY0tQY3VmVkpWOVNkdnZSTElleTdMRVRJdmw1d3Q3UmlHVERMeTQxd0RkeUdDcGw5MG1PUnFMQ05URW9BdlNGT0kySmFMdnFROU1UTTJtS19EbGNGemVJcnMzTFNXdzBvRdIB8gFBVV95cUxOQVl5ZVZraTBpV3R1UGY0YlprQkNGQUhIWFZ0NFBvZkZlckdwUlRFRUJ4X010NUJkMEY2TlBUakFqd25nS1NZc3NtWkZWbnNPVVgzTFBEU2l4Nlk4cklqb0Rmcjd4M2dvUUVVNnRLSVVsbkNMTENreE1TTW9HLWZIYWNLZGVkazNBV3hVUjh4T1g0NG9CREpzZHk5WXY1aU1ybzB0UGNzblVZUUNwVDc0WGMxdTRKVTJ6TmRmVDhPNkFuRlAtRTJ6eFZFR3pNUkZsMjV6MjBZUnkweS1FbnJlN09NM2I1cnh5T2t2dEd2LS1OUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f800308c3b0e",
-      "title": "Albert Einstein, ao comentar o impacto eterno das descobertas de Isaac Newton, disse: “Perdoe-me, Newton, mas você encontrou o único caminho possível para um homem de pensamento supremo na sua época.” - Brasil 247",
-      "published": "2026-06-10T20:48:00+00:00",
-      "summary": "Albert Einstein, ao comentar o impacto eterno das descobertas de Isaac Newton, disse: “Perdoe-me, Newton, mas você encontrou o único caminho possível para um homem de pensamento supremo na sua época.”&nbsp;&nbsp;Brasil 247",
-      "sources": [
-        {
-          "name": "Brasil 247",
-          "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQZzlvclRJTjdOZUUzcUdRa3VmUlU2cmZqamRvaXlITS1mM3kxbm05cEV5SDljREFQRncxZ0JQaFY5ZHdPbXpQbDF3R3dfMlpRNVZKX2tNMHctUFBxQnM0LU9VUmZnbkp0YUlxOG1VTU5vNldHaU9rTEI5aFRVdHhYMnNpMDNZWjFaXzlJbzE0TnN0YUFjTjJOUWNmaTMtZ3V3am5aNm9hbzc0ajFnYnB6YTV6UzJoUGowODNQMkdIOHYxUkVBY1h0ZWNzLWIxeGxnVmI2YU52WnhUQXJWb0RCQUZkd3ZqeW0tb0RUN29ZRVIwclpVUlBWdUFMZ04zYWJQaVNfNkNlUjFpa1VJZVgwalRWTXprZ19pRlRSMGNCTl9XcHFaMEtQWHhXUXlFSUlDNGhXUzFVYlJwRVJxNjNmZUUxeGhJYlBRZ3hvUjJTUE9kajJId0RUS2FaMjBnQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2342f007f8cb",
-      "title": "Inventor canadense cria um exoesqueleto elétrico de 4 toneladas e 200 cv que multiplica a força humana em 50 vezes, transforma o piloto no cérebro de uma criatura mecânica gigante e tenta inaugurar o primeiro esporte de robôs colossais do mundo - CPG Click Petróleo e Gás",
-      "published": "2026-06-10T20:39:00+00:00",
-      "summary": "Inventor canadense cria um exoesqueleto elétrico de 4 toneladas e 200 cv que multiplica a força humana em 50 vezes, transforma o piloto no cérebro de uma criatura mecânica gigante e tenta inaugurar o primeiro esporte de robôs colossais do mundo&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQSUNZYzdjZE1mRHhEMnpxLVpwSTU0OWdpbS11MXBpT3dnaWNkczVxdC1fdkg2SmpjVGpYMWJsYmpDY0VDS0ZuRTUydDZGZXNWWjRxbEtNbThzWjBEblpWYkd2REhxYWZJWi00UFNOcUhzWTRVY09sTU1pcGFQZ1poR3kwZWZtLTlfTlFEdTNWSFc3VUpUTVVvakh3d3pvY3pXd0JIcDZsd2FDN0w0TUNyNWpWQXAyWHlwOHRSYXhJTUU5aEkzd2hQYVR4RUFnbzJUMms1MFVVNTNWc3FKdU1mam1mMUt1V0p5OVI5OXNRVkNBSUtBZ0xfWnNmb3B4NWNBMUJidGE2YzdMXzhLaVE2RGMtdk5xdnhkaWQ0NndwQXh4OW8xVWZ5NEtIWVlBdw?oc=5"
         }
       ]
     },
@@ -165,7 +177,7 @@
       "id": "0559566fdf31",
       "title": "7 alimentos que ajudam a preservar a massa muscular após os 40 anos - CartaCapital",
       "published": "2026-06-10T19:02:00+00:00",
-      "summary": "7 alimentos que ajudam a preservar a massa muscular após os 40 anos&nbsp;&nbsp;CartaCapitalDepois dos 50, ganhar músculos pode ser mais importante do que perder peso&nbsp;&nbsp;UOLAssociados à atividade física, polifenóis mostram potencial contra sarcopenia​&nbsp;&nbsp;Jornal da USPNova fase: seis hábitos fáceis para transformar a saúde após os 50&nbsp;&nbsp;Correio do PovoPara maiores de 50 anos: três estratégias que protegem músculos além de comer mais proteína&nbsp;&nbsp;Tua Saúde",
+      "summary": "7 alimentos que ajudam a preservar a massa muscular após os 40 anos&nbsp;&nbsp;CartaCapitalDepois dos 50, ganhar músculos pode ser mais importante do que perder peso&nbsp;&nbsp;UOLAssociados à atividade física, polifenóis mostram potencial contra sarcopenia​&nbsp;&nbsp;Jornal da USPNova fase: seis hábitos fáceis para transformar a saúde após os 50&nbsp;&nbsp;Correio do PovoDepois dos 45, ganhar músculos é mais importante do que perder peso&nbsp;&nbsp;Rádio Itatiaia",
       "sources": [
         {
           "name": "CartaCapital",
@@ -186,22 +198,10 @@
       ]
     },
     {
-      "id": "9d51698897f2",
-      "title": "São Paulo investiga mais um caso suspeito de ebola - Folha de S.Paulo",
-      "published": "2026-06-10T19:00:00+00:00",
-      "summary": "São Paulo investiga mais um caso suspeito de ebola&nbsp;&nbsp;Folha de S.PauloProfissionais da área da saúde fazem treinamento para atender casos suspeitos de ebola em SP&nbsp;&nbsp;G1Estado de SP investiga 2º caso suspeito de ebola; paciente está isolada&nbsp;&nbsp;CNN BrasilEbola: brasileira com suspeita da doença estava perto do epicentro do surto no Congo&nbsp;&nbsp;Veja SaúdeSecretaria de Saúde de SP investiga novo caso suspeito de ebola&nbsp;&nbsp;InfoMoney",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPLVBzem91cm00cERyWjRaYkhIREQtWVJveUdrSEppTldUa1VpNFdaVkx3Q3UyOTF1ZkhiV1F3cEZ2My01aVV0N2Y5b0xLT3BuZmxrTUNBcHliSmRYTXdkMF9EZ3J5Umg3cGFJSml3OXRYWUhOVTNYQ1dJeTg1SElIYWVvUEI2Q19vc2JjX1VRSFZXQmdPSXJkVUdUTlI4M25aTGJyWlJfbWFpeVRBS1JNYQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5424bf2d3dbf",
       "title": "Paranaense recebe primeiro 'coração artificial' pelo SUS no Estado - Tribuna do Paraná",
       "published": "2026-06-10T17:56:00+00:00",
-      "summary": "Paranaense recebe primeiro 'coração artificial' pelo SUS no Estado&nbsp;&nbsp;Tribuna do ParanáCom apoio do Estado, primeira paciente do Paraná recebe coração artificial pelo SUS&nbsp;&nbsp;Governo do ParanáCoração artificial dá nova chance de vida a paciente paranaense&nbsp;&nbsp;Mídia SudoestePaciente da região de Curitiba é primeira paranaense a receber coração artificial via SUS&nbsp;&nbsp;CBN CuritibaParanaense recebe coração artificial em primeira cirurgia do tipo realizada pelo SUS&nbsp;&",
+      "summary": "Paranaense recebe primeiro 'coração artificial' pelo SUS no Estado&nbsp;&nbsp;Tribuna do ParanáCom apoio do Estado, primeira paciente do Paraná recebe coração artificial pelo SUS&nbsp;&nbsp;Governo do ParanáParanaense recebe coração artificial em primeira cirurgia do tipo realizada pelo SUS&nbsp;&nbsp;CatveParanaense com insuficiência cardíaca recebe coração artificial p&nbsp;&nbsp;band.com.brPaciente da região de Curitiba é primeira paranaense a receber coração artificial via SUS&nbsp;&nbsp;CBN",
       "sources": [
         {
           "name": "Tribuna do Paraná",
@@ -246,14 +246,26 @@
       ]
     },
     {
-      "id": "e867da523197",
-      "title": "Diagnosticado com câncer em seis órgãos, incluindo cérebro e pulmões, professor brasileiro de 33 anos relata o recuo da maior parte dos tumores após imunoterapia e surpreende em relato que ganhou força nas redes sociais - CPG Click Petróleo e Gás",
-      "published": "2026-06-10T16:24:00+00:00",
-      "summary": "Diagnosticado com câncer em seis órgãos, incluindo cérebro e pulmões, professor brasileiro de 33 anos relata o recuo da maior parte dos tumores após imunoterapia e surpreende em relato que ganhou força nas redes sociais&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "id": "4aa43772fac5",
+      "title": "O acidente doméstico que mais ameaça a saúde dos idosos e pode ter consequências fatais - Jornal Correio",
+      "published": "2026-06-10T16:12:21+00:00",
+      "summary": "O acidente doméstico que mais ameaça a saúde dos idosos e pode ter consequências fatais&nbsp;&nbsp;Jornal Correio",
       "sources": [
         {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOQ0JLZ3Q2WURBdjZKLTkyM1dzODJpZC1ITDhrZUxFcUxRRGtmaFFyWmdIVVVrVkU1VHVOZ19wRTdJU2VSbERLT1NXcHF4VWlMWjEzRkVNVnRqTzQyOTg0RzlUUkw3TzJsSlFYYXBOYjgyb2g4OGF6dHFmYUVkRko0U2NLUjRGUFIxajQ3bExkeGxwTG9TZlRwRDcweDRmeWUwNmpGVTA2djhMS1pRTi1HNHNJZnk0TFdTbFNtbFhxZmdMWEY2MElRRTVMT1NWMmoyZl9PelQxd1Izb3kzSmxWci1FM3BDWUFEdkZmVUg1OW0xOFY3NXFlMnpOSk1JM2xBSjlDMXllQ3FDUkhDNUE?oc=5"
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQazZzX0dtQnRmZWpHVS1qTEloenhXYkJtUUpjR0Jhb2dYcE4xYS1QWUZ6bXZmYTlFRTNGTDF2SjJUM3FNWXQzZ2c5NjhvUmNSemhOYk1CQ0plQmE5V0stRmpPeEp6b0FEQ3NReTdWTUNhMmpSQWlFWWZ6VXh0d1RSaXNPZ3BDOE1ZdlJlOHliSmJTT1podnNqQlltallIZXNpMWpRS0VpMFl3OGNvSmJTNk1sSU42aGVadTdvdzJjQzFONkkwRHhZRFdZRGI?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "84067959a675",
+      "title": "Butantan continua estudo da vacina da dengue em idosos após suspensão temporária - Folha de S.Paulo",
+      "published": "2026-06-10T15:52:00+00:00",
+      "summary": "Butantan continua estudo da vacina da dengue em idosos após suspensão temporária&nbsp;&nbsp;Folha de S.PauloVacinas contra a dengue: quem pode tomar Qdenga, Butantan-DV e Dengvaxia — e quem fica de fora&nbsp;&nbsp;G1Instituto Butantan anuncia continuidade de estudo sobre vacina da dengue em idosos&nbsp;&nbsp;Opera Mundi‘Como um vírus poderoso, a desinformação ataca a saúde no Brasil’&nbsp;&nbsp;Partido dos TrabalhadoresSuspensão de vacina: Diretor do Butantan defende rigor em investigação&nbsp;&",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTVNVYXJCTmdwSkRFZXJGUjdINUxxMGVHSkcta01pVGx1ZXBUQWRLQ1JKUmxhS2l6Rmk5RW9ldmhpQU84eU9kUWN5UDMtUEh3SGVaRkNBQkhWdnB5M2pUTmRubG1oTF9XV2pPX3BJSkFUM0RJd1Z3cGNYekxIUWJWM2RTTFM2d3V6b3RRU2o0SG1salBsMlF4TEpPV3F0b0FaaW9lclJJeEp1Z3NqZHoxbkk0azdjel9PcHpfY0dsTDdHR0VyWEZpVXRONW83dVhLV3lsZ3pUMUw?oc=5"
         }
       ]
     },
@@ -294,18 +306,6 @@
       ]
     },
     {
-      "id": "cc118cf0dbdf",
-      "title": "Vacina do Butantan contra dengue 'seria aprovada em qualquer lugar do mundo', diz ex-diretor da Anvisa - BBC",
-      "published": "2026-06-10T13:21:18+00:00",
-      "summary": "Vacina do Butantan contra dengue 'seria aprovada em qualquer lugar do mundo', diz ex-diretor da Anvisa&nbsp;&nbsp;BBCButantan continua estudo da vacina da dengue em idosos após suspensão temporária&nbsp;&nbsp;Folha de S.PauloVacinação contra dengue continua disponível na rede pública&nbsp;&nbsp;G1‘Como um vírus poderoso, a desinformação ataca a saúde no Brasil’&nbsp;&nbsp;Partido dos TrabalhadoresSuspensão de vacina: Diretor do Butantan defende rigor em investigação&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBodS1oVEx5Zml3Q3dPOFozc0FRWGdTYWU2MHRWWDh6c0M5OUVWajlUYmpSbTJmZVRmNHJHVV9HalJfVHhkamZuR2ZXQnVmZ1FvN3dfMDJlZ2lzaEh1OGR6U19B0gFnQVVfeXFMTmd2cFQzaXVwZEdwOWVuS0RMRFBuaUhiYUhIeWw0V1RuRUVGU2UzWW1reEJqODFCY3R6X2hxejFnU3BoVG5FUjlQdFpRVnljbzlkZVZacWlZNGtmeXJ3OVd1U2xxNl9jRQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "13719b612f44",
       "title": "Em um relacionamento, ter HPV significa traição? Entenda como o vírus age - Folha de S.Paulo",
       "published": "2026-06-10T13:06:00+00:00",
@@ -314,6 +314,18 @@
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeFBGb0U2MWM2TFFJYjlOMVN0QmszNzB1bm1pa3lGbjdINk56ajhESFpoTVhhUVNsRjRLRTFyNDBWQlM5Z19yTEhPUV9EMnpSbGppaVRDZkpLc2VWcXVmams1UVJIejZuanpkWWRiM290RXE4YmtLR1gtdXVHbmg5Y2NwSUZ2Mi1FUElUWVFKTl96SVFXMUprbW0xdWdDOXJwSUljWUY3d3JhYzB1eXdmUE1MaHhuY2lVTlB4cGhZZ3F2S2tuVUtCZzJB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3377415c00d9",
+      "title": "Quer viajar de graça? Estudo oferece um mês nos Alpes italianos com despesas pagas - Exame",
+      "published": "2026-06-10T11:36:25+00:00",
+      "summary": "Quer viajar de graça? Estudo oferece um mês nos Alpes italianos com despesas pagas&nbsp;&nbsp;Exame",
+      "sources": [
+        {
+          "name": "Exame",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQm4ydWZBS0lrd2lKa1B6WmcwUklmY1hzVFJ2MmNvbjRhWUxmSE9leHFsVWJQOHFJTXU5ZGs4VFBZU2Q5ZVBWNnFmbHJLNEFLYW1DemJDV0ZGeEUyTUwwcm42LXcwV1MwbUl4THJDakpFSzFKREw1RHRWTmViVks5UmJmUDF4SHg5aUxoZEUtbWd2UGNpS092cUlsc2VnNzl0VmY4YVZNbXZHUHZT?oc=5"
         }
       ]
     },
@@ -330,22 +342,10 @@
       ]
     },
     {
-      "id": "38378e91ccf7",
-      "title": "Tristeza e estresse causam câncer? Estudo analisa relação - UOL",
-      "published": "2026-06-10T08:30:00+00:00",
-      "summary": "Tristeza e estresse causam câncer? Estudo analisa relação&nbsp;&nbsp;UOL",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdnVhUmoyOWpPQ2V1d3ozckZSLTNndWVfME5yeVAxT1VVdFBMWEd1RDA1VnVRYU9fTkZCOEctXzJ3ZlpEWnR0MVFNV3MyNUREZFNvWWE4NE43dW1MRWpZRVluZXJyRlZiMHBnRERUdFFBUGx1OXhXZGFaY0ctMFdsSEpUQ1lDZXJWc09qZTY0TVJac2JXQmowMHJoUW1CWi1YRGMwcGFOeU5RZzVZeS1ad1ZjNXRfUWVuc3U5bg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1f7f871f1b8d",
       "title": "Cientistas revelam a quantidade ideal de treinamento de força para uma vida mais longa - O Globo",
       "published": "2026-06-10T07:30:32+00:00",
-      "summary": "Cientistas revelam a quantidade ideal de treinamento de força para uma vida mais longa&nbsp;&nbsp;O GloboEstudo aponta quanto tempo de treino de força por semana seria o ideal&nbsp;&nbsp;UOLMusculação realmente pode ajudar a viver mais?&nbsp;&nbsp;BBCDescubra a execução ideal para o seu treino de força, segundo o American College of Sports Medicine&nbsp;&nbsp;Estadão Blue StudioEstudo revela quantos minutos de musculação por semana podem aumentar a longevidade&nbsp;&nbsp;sctododia",
+      "summary": "Cientistas revelam a quantidade ideal de treinamento de força para uma vida mais longa&nbsp;&nbsp;O GloboEstudo aponta quanto tempo de treino de força por semana seria o ideal&nbsp;&nbsp;UOLMusculação realmente pode ajudar a viver mais?&nbsp;&nbsp;BBCAtividade física reduz em 19% risco de morte precoce&nbsp;&nbsp;Portal Terra da LuzEstudo revela quantos minutos de musculação por semana podem aumentar a longevidade&nbsp;&nbsp;sctododia",
       "sources": [
         {
           "name": "O Globo",
@@ -386,18 +386,6 @@
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNODRreHUzNHBPeDZxR0t2eDJ0WERxbDFLUTlJZTJCV1hNSU9YUlloTU4wLUdveGo3OVBmSUY1YzVlSGE5MENLZjkzTkhscVpKNF9KUFptMi00YWV0YjB2S2xLZjUteVJ0dnlwVzVPQWpRb0tUQVc5bllCYkRtcDg2VGVoT3Z5U2N6V2NNaEdSX29FLVlhcEQ5dXNscURFZnNkQ2FMQ2s3UHpnVDVXZWNvMFRrcDVlcFRwdWlGa3FQaWlzOTZxcGh3a0lab2hieHpudHlBekxMd0tLb3FncjhIUHNYeFBCdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "694cc99ae744",
-      "title": "Uma atriz de Star Trek fez mais de 8.000 pessoas baterem à porta da NASA querendo ser astronautas em apenas quatro meses, ajudou a abrir caminho para a primeira mulher americana no espaço e mudou a cara do corpo de astronautas dos Estados Unid - CPG Click Petróleo e Gás",
-      "published": "2026-06-09T18:27:00+00:00",
-      "summary": "Uma atriz de Star Trek fez mais de 8.000 pessoas baterem à porta da NASA querendo ser astronautas em apenas quatro meses, ajudou a abrir caminho para a primeira mulher americana no espaço e mudou a cara do corpo de astronautas dos Estados Unid&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPdzlITGZiWjJEdlk4MWlnSFY5SUhSbl9NRm9xMlNwNjYwZzg0WUFrN3B3SWZvY19lMzlXbXdHZThtM24wOWJqNjJrQWR6QWN1VmpCbHBOWHFIbGRwNWRFTjVvRC1laVRZSE1oMmg5ald0VzVsWEVlVkgwN2h2MlJVRGtkNWpOSlBpNWtfVjU0eFI5RHBEdGZ3MkRjRFAtVmZTX3NPUHlkMmtrUzZYZkJhUlB0TlNJUDlNOTJCWmZPN1hlY1AtMXV6MEZ5eHBQWE1wZGc1enlCWjhFZ0tiUWZieUd0Z0lOUmwzUUREOE1YUjJ0LWVwT2lkVHYxWThIZFNWY0lqXzhDN0RwQlRpR0xPdw?oc=5"
         }
       ]
     }
