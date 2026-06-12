@@ -1,10 +1,34 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-06-12T10:16:58.695491+00:00",
-  "total_fetched": 89,
-  "unique_count": 89,
-  "health_related_count": 33,
+  "fetched_at": "2026-06-12T15:19:23.417998+00:00",
+  "total_fetched": 87,
+  "unique_count": 87,
+  "health_related_count": 26,
   "news": [
+    {
+      "id": "328a75cd6e9a",
+      "title": "'Mancha fria': por que uma parte do Atlântico tem esfriado enquanto o planeta aquece? Estudo aponta possível explicação - O Globo",
+      "published": "2026-06-12T14:48:19+00:00",
+      "summary": "'Mancha fria': por que uma parte do Atlântico tem esfriado enquanto o planeta aquece? Estudo aponta possível explicação&nbsp;&nbsp;O Globo",
+      "sources": [
+        {
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPX1dnMm9BNUcteURqYTdKV3VUejJQNVZfLXJuTGlqMjBndXN2RDFVS1pFUGR0OExoeVZnVkRSMV92YlBUMlZ0bU4xcDJUcmtldjU1LU5vcUgtLUhrTWxCR0JHTVd5bzRzdnBwYnBETVFtVTNPcXNERUp5bGcxQVB3OU15NkplVUl2UGdYQlp6N1V0VV9FS0gzQmk2TGhmWDNyQ3p3MGtuclFQZXBXWmotTWtVaHAxRGdvZTdhSXh3cGxGX0I1QWNRb21lOHNlQnB2N0pBcWkzQ1FkbGVRc0c3aHdYNk9LWHJ1SjNPSGhkYXRsVlRYdXlXU29hejJCTU5iVUFyVjBlQWVNZjZMZVR0djRTN2pNZ9IBpAJBVV95cUxOeGZuX3BVWTgxbUVqRXJiWVprUTBGUW5DN1A2eFVHZ3JvckxPdzJUVGxWWFRYVHA1aWRuelk5WEpRMHFqTGRmRWM4a3hYSnhkc2ZVSkFIZU50eWdQMVFSbVRCaWF0amZtVmZmU2l4eG5GdG5obElFZ1ZkWkZZMzJVdUV6dmZfMTlKMWkwTjFvUUVteDFMTWE4Y1FVTGlqZ2QxMEx5elRQaHJ1VjFxeHhvc2dBNURBdjl0TmlacEpqbnhpZmpfTUd6SWFXNXRyZVpTLXFwaVdCTTcwbUlZYmp2aDU2ZlJZeXd6TFJVemJxTC1DbVVRU0FTdS1BWml2VXdkLVpMdWtjcXJjN09Gc2NsVUV0elJ1bXhmVUJWOGdpVThQMnRp?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fb01a72bc32a",
+      "title": "RS investiga caso suspeito de ebola na Grande Porto Alegre - CNN Brasil",
+      "published": "2026-06-12T10:00:41+00:00",
+      "summary": "RS investiga caso suspeito de ebola na Grande Porto Alegre&nbsp;&nbsp;CNN BrasilRio Grande do Sul investiga caso suspeito de ebola em idoso&nbsp;&nbsp;UOL NotíciasSecretaria da Saúde acompanha investigação de caso suspeito de Ebola no RS&nbsp;&nbsp;Portal do Estado do Rio Grande do SulFiocruz fará análise de caso suspeito de Ebola no RS; paciente testou positivo para malária&nbsp;&nbsp;O GloboSuspeita de ebola em Novo Hamburgo: saiba como a doença é transmitida, quais são os sintomas e o tratame",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNHdPSU96Q2J6SU80bUpUVWNtTG9HcWJqVTV5N1NvUnNrcnl6U1c2Q1otWVJuOE9Lak1HM1ZYVUhmZGFtX0xzQWNnVjFZX2xRSFBRUzlrNjNiYjF4RTd1bG03UTBoRmNaalZKaUlqMjhTSjB5VHZsa0k1Um9JTWVVdWEtWktJS3FpTVBWQlUwWWZ1Y25MYll1TUln?oc=5"
+        }
+      ]
+    },
     {
       "id": "7d14a61e0b81",
       "title": "Cientistas podem ter encontrado uma pista absurda sobre como a vida começou na Terra: nanopartículas minerais teriam usado luz, calor e eletricidade para transformar matéria sem vida nos primeiros blocos biológicos - CPG Click Petróleo e Gás",
@@ -18,14 +42,38 @@
       ]
     },
     {
-      "id": "25b969b85f91",
+      "id": "1eed05fd4099",
+      "title": "Expansão do universo continua: novo estudo reafirma teoria de Nobel - Correio Braziliense",
+      "published": "2026-06-11T19:46:00+00:00",
+      "summary": "Expansão do universo continua: novo estudo reafirma teoria de Nobel&nbsp;&nbsp;Correio Braziliense",
+      "sources": [
+        {
+          "name": "Correio Braziliense",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZkNYZ3dlZzZlelhBdzZCSVVPdUQ5VnBxdWFVQkhvMF9KTXl1eU4wZTlLMXdmeUdkeGxRWFl5Z2FBN2lPZEd4aWQ1cGcwaXBEeDZLVVJJZTJSVmE5SjFBZmw1akw4bXlSVjVLYzVYcEpiLThLVnNrVHEyUEpjX19uOENXYkJ3eDZxMjRNNUdWSUx4VEgyeDBrbkFaT3B5YnJtYVphbE1qTS05TkhYQWRtMDV5YW9oMXV2UTU3NVhESHFOLUk5aEZmNlN0M1lLeHRfR242NGJPckLSAd4BQVVfeXFMTkhGVmRnSHVzcDR2VkVaY0otWDhMcTZGNjV3OHBYZk93bTgzUmg0S2ZCRlh3MGN3VGtfOFF0UHkzSmxnTnYtMFVEckIyUno1dG1JamQ4eFJ2UmtUR1I5TFJhLXhUYlFqV2hLM0RaNjJuTmtIQ1NYT01ZMDJFd0lhdkU5dDZEaGVEYlhRQl94VGxLeEF6OWFhaUhLdDRoNEpxNElVOC1fTVRvMXQzcEt2V3I3aEFBY1lYb0Z6N1FldVhlZmdaS2NEalF0Q3FZYUctVGhHdDJVZDlrNmxqVnN3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ab564eaaf1ee",
       "title": "Rede subterrânea de fungos tem 110 quatrilhões de quilômetros de extensão, mostra estudo - Época Negócios",
       "published": "2026-06-11T19:33:15+00:00",
       "summary": "Rede subterrânea de fungos tem 110 quatrilhões de quilômetros de extensão, mostra estudo&nbsp;&nbsp;Época Negócios",
       "sources": [
         {
           "name": "Época Negócios",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPN25CYVhsLUx4U1NGbFM4RHJ2NExkWXNZVkFGQ20yWl9zU0tPOVhpdTVYUl9YaFpGVllNblNQSGRLdE9LUU9vX05JQzVjTDlnc3Jhc0xEcnRGNl9DQTl0a1hZSFV5MW5saTB5WXVRTS00czkxanpQTVEycFZ6dndIRU9yMjE5QTRuOWVBT0dyR2NPdzlRMEJnWk5MSl9KUVctNzZ2U1Q1YWdfWDl1LVFJbGJXVEpGZDdkSjZSMjd1ejlEZnFEWktuMFdCenFNOEFjdWFzY2FTU0xzU2xIZ2t0U9IB7wFBVV95cUxNbWEzZTRQWGZFUGlPWkVNQ0hGaDY0dWt6Y0xTSWV4cS1rQzB0dWxRR0hkSS1RdlVjMTQxelJNNEhlVGtIcFc5TlBoMlctY0M4Y1FWei1JQkNLV2RJM0tId21UNVBsNTlUZGx0X2xtWlFRa0xLbUlzTnB3MGdNd21jUWpmV3lpWGhhOTVPM3k0S2d6RHdEcUJiOWpZZFBuTUtEbzR3U21UZWpBajZhdlpTOXpxamkyR2k5dDZ1YTU5RWxxRzktcks5ZExmaDBDYzRRZXIxQUxzX0JNZzg5VGQtTUtKZTBYVlJnZFAxOEtsUQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPN25CYVhsLUx4U1NGbFM4RHJ2NExkWXNZVkFGQ20yWl9zU0tPOVhpdTVYUl9YaFpGVllNblNQSGRLdE9LUU9vX05JQzVjTDlnc3Jhc0xEcnRGNl9DQTl0a1hZSFV5MW5saTB5WXVRTS00czkxanpQTVEycFZ6dndIRU9yMjE5QTRuOWVBT0dyR2NPdzlRMEJnWk5MSl9KUVctNzZ2U1Q1YWdfWDl1LVFJbGJXVEpGZDdkSjZSMjd1ejlEZnFEWktuMFdCenFNOEFjdWFzY2FTU0xzU2xIZ2t0Uw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "16473fffe8db",
+      "title": "Fóssil de espécie anterior aos dinossauros é descoberta no Brasil - CNN Brasil",
+      "published": "2026-06-11T19:20:52+00:00",
+      "summary": "Fóssil de espécie anterior aos dinossauros é descoberta no Brasil&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOHFpenBGYWVLX1VkVWszME9jZW9Na0F4R0diZE81TDlvU0IzNlpsclItMXM4MkZGcU9oSUtVUm9wampwaHJqcmNFUzNYSWd3SUdGc1RQb1J1eWdFQnVXUGZOVE1JRDZEZkpnRG9nbkxlUjA5M2hTUEgzSUhWTU12Y3NqTUZ6SThQYnB3M0VjUFliSDNqb196cFhOdTdqeG8walJDRVdn?oc=5"
         }
       ]
     },
@@ -54,18 +102,6 @@
       ]
     },
     {
-      "id": "4a23ce8d8dc7",
-      "title": "Dia dos Namorados: veja possíveis riscos associados a \"overdose de tadala\" - CNN Brasil",
-      "published": "2026-06-11T14:19:56+00:00",
-      "summary": "Dia dos Namorados: veja possíveis riscos associados a \"overdose de tadala\"&nbsp;&nbsp;CNN BrasilVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS3Jac1JZQmdlSHlfSm9FaDhQT0JhdDhWWDAxVmY4aWRIU1Z6azFXZHBaOG9KTnlkazIxRWQwM2lEOUpoa0Y5eW0wcW1EQVg3QUw2cG40NEh3RTVCZkttX05zc1ZUNTgzTllXM2Z4YzFianFpd2FnUG9tekpWdVM5d2FEUE1jZU43UjNfdjdXV3VSeDRsdEFtNUozSTRaYlZhX1dWMnJFbS1oeHc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2f5786553961",
       "title": "Os problemas intestinais podem aparecer anos antes do Parkinson: o que a ciência já sabe - Tua Saúde",
       "published": "2026-06-11T12:37:22+00:00",
@@ -78,22 +114,10 @@
       ]
     },
     {
-      "id": "f63ab9f37ea2",
-      "title": "Pesquisa contesta suposto efeito anti-inflamatório da creatina - Folha de S.Paulo",
-      "published": "2026-06-11T12:28:00+00:00",
-      "summary": "Pesquisa contesta suposto efeito anti-inflamatório da creatina&nbsp;&nbsp;Folha de S.PauloCreatina não comprova efeito anti-inflamatório, diz estudo&nbsp;&nbsp;Campo Grande NewsCreatina: sete dúvidas que muita gente ainda tem sobre o suplemento&nbsp;&nbsp;MetrópolesNova pesquisa contesta suposto efeito anti-inflamatório da creatina; entenda&nbsp;&nbsp;O GloboEstudo surpreende todo mundo e desmente efeito positivo da creatina&nbsp;&nbsp;Diário do Comércio",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSmRuZ09GOFdEclVJV0hMamQzdDBRaS03azdWMGpKeW1DVHE2UkhDMkNfMDc0cGMtY1FwYjBKQ3p2cEFFWGVSSVo3bDZMeGpoLTRRNnFGcUxXTFg0UEk4Z1ZCTjZhdzZKWWdWV1JnRWVaNkZNU3NlMUx5cGhSUlJGZ1dCLW5NcWU1S3ROQi1GeDQzcU5ITzF1N19ERzBfUU5aUHU0WHpOOXpsaEdxOHZYSXMtTzdyMFNC?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7e322f3557d9",
       "title": "Como torcer pelo Brasil na Copa do Mundo sem colocar o coração em risco? - UOL",
       "published": "2026-06-11T12:11:11+00:00",
-      "summary": "Como torcer pelo Brasil na Copa do Mundo sem colocar o coração em risco?&nbsp;&nbsp;UOLCopa do Mundo 2026: como os jogos afetam a saúde dos torcedores&nbsp;&nbsp;O GloboEspecialista explica o que acontece no organismo durante uma partida decisiva&nbsp;&nbsp;FaxAjuRisco de infarto aumenta na Copa: entenda por que e como se proteger&nbsp;&nbsp;Veja SaúdeEm jogos da seleção na Copa do Mundo, descarga de adrenalina pode impactar o coração, aponta pesquisa&nbsp;&nbsp;Jornal da USP",
+      "summary": "Como torcer pelo Brasil na Copa do Mundo sem colocar o coração em risco?&nbsp;&nbsp;UOLCopa do Mundo 2026: como os jogos afetam a saúde dos torcedores&nbsp;&nbsp;O GloboEspecialista explica o que acontece no organismo durante uma partida decisiva&nbsp;&nbsp;FaxAjuRisco de infarto aumenta na Copa: entenda por que e como se proteger&nbsp;&nbsp;Veja SaúdeExcesso de sal e álcool durante jogos pode aumentar risco de emergências cardiovasculares&nbsp;&nbsp;Folha BV",
       "sources": [
         {
           "name": "UOL",
@@ -105,7 +129,7 @@
       "id": "1147a4c84f88",
       "title": "Cidades do ES iniciam vacinação com a Pneumo-20; veja público-alvo - A Gazeta",
       "published": "2026-06-11T12:02:00+00:00",
-      "summary": "Cidades do ES iniciam vacinação com a Pneumo-20; veja público-alvo&nbsp;&nbsp;A GazetaVacina que custa até R$ 600 na rede privada passa a ser oferecida pelo SUS&nbsp;&nbsp;UOLES recebe mais de 10 mil doses da vacina Pneumo-20&nbsp;&nbsp;G1Nova vacina pneumocócica 20 começa a ser disponibilizada no SUS para crianças — Ministério da Saúde&nbsp;&nbsp;GOV.BRGoverno do Estado iniciará em julho distribuição de nova vacina que protege contra pneumonia e meningite&nbsp;&nbsp;Portal do Estado do Rio Gran",
+      "summary": "Cidades do ES iniciam vacinação com a Pneumo-20; veja público-alvo&nbsp;&nbsp;A GazetaES recebe mais de 10 mil doses da vacina Pneumo-20&nbsp;&nbsp;G1Nova vacina pneumocócica 20 começa a ser disponibilizada no SUS para crianças — Ministério da Saúde&nbsp;&nbsp;GOV.BRVacina mais potente contra a pneumonia já está disponível na rede pública&nbsp;&nbsp;Tribuna OnlineGoverno do Estado iniciará em julho distribuição de nova vacina que protege contra pneumonia e meningite&nbsp;&nbsp;Portal do Estado d",
       "sources": [
         {
           "name": "A Gazeta",
@@ -114,22 +138,10 @@
       ]
     },
     {
-      "id": "f110251cbd22",
-      "title": "Depois dos 50, ganhar músculos pode ser mais importante do que perder peso - UOL",
-      "published": "2026-06-11T11:48:33+00:00",
-      "summary": "Depois dos 50, ganhar músculos pode ser mais importante do que perder peso&nbsp;&nbsp;UOL7 alimentos que ajudam a preservar a massa muscular após os 40 anos&nbsp;&nbsp;CartaCapitalAssociados à atividade física, polifenóis mostram potencial contra sarcopenia​&nbsp;&nbsp;Jornal da USPNova fase: seis hábitos fáceis para transformar a saúde após os 50&nbsp;&nbsp;Correio do PovoDepois dos 45, ganhar músculos é mais importante do que perder peso&nbsp;&nbsp;Rádio Itatiaia",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQN2RrcHg2MFdNVDFHa3JWb1dyTWlkSXRSWEhEakE0SENYNVJNc0JJOUgtWGx0aERzVl9feWRBZHNfRklNSl9IOVRrbDV4WkRXNmxNeXFRdmJ3dmk4al9pcHpvNThaQ1Q3enJBSS03cGNuMGh6WHBGNVFIY1ZuMGVhQnVSNWxKXzRidm96dHdQUVhHT0dmZVNVaFdacXhTYjVKWU5PcjFCc3ExMUZKNW52ekF6UmNYY0ZVVXg2QjlzNHFmbUJxOUY0LWpsSTFkbVFFTWxj?oc=5"
-        }
-      ]
-    },
-    {
       "id": "deb27ec191c5",
       "title": "Vacina da dengue disponível em postos e na rede particular não é a mesma do Butantan - Diário do Nordeste",
       "published": "2026-06-11T09:00:29+00:00",
-      "summary": "Vacina da dengue disponível em postos e na rede particular não é a mesma do Butantan&nbsp;&nbsp;Diário do NordesteA ciência que aprovou a vacina da dengue é a mesma que agora a protege&nbsp;&nbsp;O GloboSaúde/ Princípio da precaução&nbsp;&nbsp;CartaCapital‘Como um vírus poderoso, a desinformação ataca a saúde no Brasil’&nbsp;&nbsp;Partido dos TrabalhadoresButantan continua estudo da vacina da dengue em idosos após suspensão temporária&nbsp;&nbsp;Folha de S.Paulo",
+      "summary": "Vacina da dengue disponível em postos e na rede particular não é a mesma do Butantan&nbsp;&nbsp;Diário do NordesteAraraquara suspende temporariamente vacinação contra dengue&nbsp;&nbsp;G1Vacina do Butantan contra a dengue não está em fase ‘experimental’, diferentemente do que diz vídeo&nbsp;&nbsp;EstadãoSaúde/ Princípio da precaução&nbsp;&nbsp;CartaCapital‘Como um vírus poderoso, a desinformação ataca a saúde no Brasil’&nbsp;&nbsp;Partido dos Trabalhadores",
       "sources": [
         {
           "name": "Diário do Nordeste",
@@ -198,6 +210,18 @@
       ]
     },
     {
+      "id": "e51fc17e36a8",
+      "title": "“Falta de atenção não é déficit de atenção”, diz neurologista infantil sobre diagnósticos de TDAH - GZH",
+      "published": "2026-06-11T00:13:17+00:00",
+      "summary": "“Falta de atenção não é déficit de atenção”, diz neurologista infantil sobre diagnósticos de TDAH&nbsp;&nbsp;GZHUso descontrolado de telas dificulta diagnóstico, diz especialista em TDAH&nbsp;&nbsp;GZH",
+      "sources": [
+        {
+          "name": "GZH",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPNk9Lc1p3cnZueGFYY2ROOVZWeE5lQ1NkXzV2NjBzeG8zSml1bnVkazhnd01oTGRMQ1RTQWNJZkMtRkhMLUgyaXFNY1gya19LVWNTU013cWZmbkVkSGpPUW9fbUpranRQbmFzcHdlVWtnVE91ZWpTdWoza2RWb1pqZ28xRzhrN3RpOEV0WEpLMllmcnFwTWt3R1FHWkk2OC1zclF6LV9LWFFCZXRodXBFQl9fU01FWk13cS1tTm5UX3BmUExNck1WbXExMWdBc1dtbk1UTF8wX0lhLVBrSVFyQVA1RUNxbFR3aFliTlVfR0J3TDFmdEdQY3NhaTA1Mm1zaXJuQVExVkxXNzA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "52ad2a396d04",
       "title": "O erro de questionar judicialmente pesquisa Atlas/Bloomberg - Jovem Pan",
       "published": "2026-06-10T22:34:22+00:00",
@@ -210,50 +234,14 @@
       ]
     },
     {
-      "id": "b475c30a8666",
-      "title": "MCTI estuda criar centro de pesquisas sobre terras raras — Ministério da Ciência, Tecnologia e Inovação - GOV.BR",
-      "published": "2026-06-10T21:47:57+00:00",
-      "summary": "MCTI estuda criar centro de pesquisas sobre terras raras — Ministério da Ciência, Tecnologia e Inovação&nbsp;&nbsp;GOV.BR",
+      "id": "01e2a7153793",
+      "title": "CenPre recebe primeira reunião do Grupo de Pesquisa Sankofa na próxima terça-feira, 16 - PJF - Prefeitura de Juiz de Fora",
+      "published": "2026-06-10T21:14:00+00:00",
+      "summary": "CenPre recebe primeira reunião do Grupo de Pesquisa Sankofa na próxima terça-feira, 16&nbsp;&nbsp;PJF - Prefeitura de Juiz de Fora",
       "sources": [
         {
-          "name": "GOV.BR",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeVlqMlFBZUpQMWpaTlYxNEZUckRkYk5BMnd1SllxYWJSSjljcmp5akNIcEZXalRNYWpKV0JCUFpyZXlhelVRbzdEUXBWUjI2ZGJUOHRJcHdCRndSZVRBd1FpNktLZkcxbXNpckhWYTQ5ZmtpSmtwbW1SYlNCckV6enk1RzdTd0daZzFfM24tRURTeXgxYVo5MjRjdC1BSGJkcHA2REFCV3FOaHpBLXBUb3g0bHdreGVEbnUtNA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "33a43e92dc5e",
-      "title": "Pesquisadores descobrem no interior do RS fóssil de réptil \"avô dos dinossauros\" de 240 milhões de anos - GZH",
-      "published": "2026-06-10T21:01:42+00:00",
-      "summary": "Pesquisadores descobrem no interior do RS fóssil de réptil \"avô dos dinossauros\" de 240 milhões de anos&nbsp;&nbsp;GZH",
-      "sources": [
-        {
-          "name": "GZH",
-          "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPZkdyNGw2djhkRnJIUU1hWVp5QXRKSFF6cTJUV1I0YTg3VG05TzRTSmdNdWJkWkc5ckg1eWtXZmVZUUJ5b0xFUS11Y2lGc1RBWnNUNjRZTkpjck4tMkp0V09ZM0lQSU5CX3Y5TnFrdVhKUkFORkg2dl9BelVpWXZtNEQ5NVFoN01SQzN2VFIwUDljWjhsYnF0eGg0RDBGZ3dQOWNuTlI2OEl0RUdpR2lzeVpYOUFrZXRLUjE3S1BRSWxvTVMxdVFXdXRMZ2Z2My1TUnVBdDAtbVp3MkttR004dWtiWmplYWJkbXpPN3c5Z1RzNkZZLW9lYmlpM1R0akRmRkstcXIxRXUzbjFmWVJXU21YbmJBMkNrSUNIS1NCMmRzLTlqT2c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "650a0241f642",
-      "title": "Estudo diz que o Deserto do Atacama é 20 milhões de anos mais antigo do que se pensava - Globo",
-      "published": "2026-06-10T20:50:22+00:00",
-      "summary": "Estudo diz que o Deserto do Atacama é 20 milhões de anos mais antigo do que se pensava&nbsp;&nbsp;Globo",
-      "sources": [
-        {
-          "name": "Globo",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNV0t4UXFiR2cwLTN2WXdLQllZR0RHRXpNcFVKTHhuUWxEdC1LNTR0c2pfTU5qTDJ4UGxMVnZONzQ4WEdoN0xPQmtoUXUzS2dKbmdoNWMxWmFWczc2UHBkZVZ1Y1VWWGFSVG9PX0N3UzB6cEZSM2U4Z0RqUDZWVE1RMF8tY0tQY3VmVkpWOVNkdnZSTElleTdMRVRJdmw1d3Q3UmlHVERMeTQxd0RkeUdDcGw5MG1PUnFMQ05URW9BdlNGT0kySmFMdnFROU1UTTJtS19EbGNGemVJcnMzTFNXdzBvRdIB8gFBVV95cUxOQVl5ZVZraTBpV3R1UGY0YlprQkNGQUhIWFZ0NFBvZkZlckdwUlRFRUJ4X010NUJkMEY2TlBUakFqd25nS1NZc3NtWkZWbnNPVVgzTFBEU2l4Nlk4cklqb0Rmcjd4M2dvUUVVNnRLSVVsbkNMTENreE1TTW9HLWZIYWNLZGVkazNBV3hVUjh4T1g0NG9CREpzZHk5WXY1aU1ybzB0UGNzblVZUUNwVDc0WGMxdTRKVTJ6TmRmVDhPNkFuRlAtRTJ6eFZFR3pNUkZsMjV6MjBZUnkweS1FbnJlN09NM2I1cnh5T2t2dEd2LS1OUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3c84edc621d9",
-      "title": "O mistério do giro: por que preferimos virar no sentido anti-horário - Correio Braziliense",
-      "published": "2026-06-10T20:23:00+00:00",
-      "summary": "O mistério do giro: por que preferimos virar no sentido anti-horário&nbsp;&nbsp;Correio Braziliense",
-      "sources": [
-        {
-          "name": "Correio Braziliense",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNDZTX2g2NlpPd3dQSnZIZ2xMVlBaVXEzZFdUZVZGcVBDZW8teEFiQ05KVlVnOEM2S25EbUpkckt0eHVHUTVjZ212dDA5TkloR3N0UmpfSmRwTUt4MVBSYnpWTE1UakZicVFCQV9tZHc0VjBadXFLajdndXNjTWlRTEllMm5SeHNmMW9abnRZWVg5bU9xNUFGZW0wazF2X0s0dUNiaDFwUHlmOGh5SVJMWTdaTHhVYXd2cVgyTk9CcHRnb25tbmVWQVZ5Y2plLWxFNWQ0T2JwbHdNd9IB3wFBVV95cUxQUnhKMEhnb3oxcEpidlprSFpUYms1THpnRldnVXEyYjIwWUNMVFVER2t0bGliYTA3S1p2M1dEZWdWSUdIUE5Jd0RKQmxTeFlPdy1iV0RHRmlSNjJJMjZ5YW4zcTROMDdOaTVXWGh5eVI2NzJUN1g1aVhfal9LV1Z2R3RiZVZhYnlraEhsVkhuYTkxemVYamdaMFBVZmU2OUNpSE1ZVk8zcUxwOWsydzdQQkQ4MzhvMThTZWdxSEtLdVpGaHItWDlRY1JKQWYyQzhmdFI3OFhEbXYxQ3RVNjlr?oc=5"
+          "name": "PJF - Prefeitura de Juiz de Fora",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9UVC1yVTJSeF93cTFiWlFHUjdGREo5NHlmYXUtdmtkY2o4UDZzcHV1Q0RTbGpxd0ttenU1TE1FTFR0Zmt5TWNTemU4eGpiTFdOUDZ1bXJYaEtRWHIya2dSRjdQMUtwM3pYVE9WcEt2c2VWVDJoSlVnenMwYw?oc=5"
         }
       ]
     },
@@ -273,23 +261,11 @@
       "id": "9cb3ef7fb346",
       "title": "Essa doença silenciosa atinge 44% dos brasileiros e pode levar ao câncer; conheça - gmconline.com.br",
       "published": "2026-06-10T17:40:00+00:00",
-      "summary": "Essa doença silenciosa atinge 44% dos brasileiros e pode levar ao câncer; conheça&nbsp;&nbsp;gmconline.com.brInflamação no fígado: veja sintomas que não devem ser ignorados&nbsp;&nbsp;GZHFígado gorduroso mudou de nome: o que MASLD revela que “esteatose” não explicava tão bem&nbsp;&nbsp;Tua SaúdeDoença silenciosa atinge 30% dos brasileiros e pode levar à cirrose&nbsp;&nbsp;Folha de LondrinaMédica alerta sobre o aumento da gordura no fígado em adultos jovens&nbsp;&nbsp;Metrópoles",
+      "summary": "Essa doença silenciosa atinge 44% dos brasileiros e pode levar ao câncer; conheça&nbsp;&nbsp;gmconline.com.brDoença silenciosa atinge 30% dos brasileiros e pode levar à cirrose&nbsp;&nbsp;Folha de LondrinaFígado gorduroso mudou de nome: o que MASLD revela que “esteatose” não explicava tão bem&nbsp;&nbsp;Tua SaúdeMédica alerta sobre o aumento da gordura no fígado em adultos jovens&nbsp;&nbsp;MetrópolesInflamação no fígado: veja sintomas que não devem ser ignorados&nbsp;&nbsp;O POVO",
       "sources": [
         {
           "name": "gmconline.com.br",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZHNsc0FYRjlsNGRQUTF1cXJndHp4Sjh0WkhnNlJ4dm0xNDJTU1R3NlBMaEktX2tKdmc5NkRDRnJxSTh3cHEyMDA1OGVRajdKOXZrWXJaTE9BazJSZkZhdXoxZkp2U0NnVmU5OEZoRUcxNTNVS3hnRGhEbDFiZ01KWFBaZnJlTWlYUVdiX25peThSanhqeW1oaWJ1bDh5ZjlMc3VqdDRxUks2OG1aMnU0ZF9CcHlyNDR5LVBZcNIBwgFBVV95cUxPMm9HNC0tZWRQMV91TXUydWVWbkhVWkRpbUtXVUljaVo1dUxocVBNaUtvY05uMV9fZWx0TW4tZUN2UDF2bWM5OFpKMGpKSXYweWpvamJ5QVplNUtZYkp1TzlwQms2cGZ1SDZEeFVTazFmZEJXam9ZNTMxdVp0VlhvdDVqNnBaa1BfSHBGTFdpdFdmN1FLZnM0R3Baa3RrNWh0eUJiR2tRT01HVHU5OU9iZmRkN2RUTGgxR0xDaVJLVEt6Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "01a4fe8e3017",
-      "title": "Escorpião do tamanho de um cachorro? Entenda descoberta milenar - CNN Brasil",
-      "published": "2026-06-10T17:34:50+00:00",
-      "summary": "Escorpião do tamanho de um cachorro? Entenda descoberta milenar&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb2JJYmthRS1Yc1BORWFVMmlZMlVoa3cwME93ejNKTWl0OEtQMS1nX1dlSzdjZzZkLUpqRVpQVDZwVUJPRlpFUGI4alY1enYxbXZKVnpkZno1N05PRmVjNGpGS0s2Y3lSdFFydnF0MGlsLTdQZmRrZTF5c1NtbjgtWnU1QXQtZzM3dF9lNlVwMkNlV2NtRlpSdzkzN0RYNFVoVVE?oc=5"
         }
       ]
     },
@@ -318,18 +294,6 @@
       ]
     },
     {
-      "id": "78c28d736ae2",
-      "title": "Estado de SP investiga 2º caso suspeito de ebola; paciente está isolada - CNN Brasil",
-      "published": "2026-06-10T16:48:24+00:00",
-      "summary": "Estado de SP investiga 2º caso suspeito de ebola; paciente está isolada&nbsp;&nbsp;CNN BrasilProfissionais de saúde de SP fazem treinamento para identificar casos de ebola&nbsp;&nbsp;G1‘É muito baixo o risco do vírus ebola migrar para o Brasil’, diz infectologista&nbsp;&nbsp;Brasil de FatoSão Paulo investiga mais um caso suspeito de ebola&nbsp;&nbsp;Folha de S.PauloSP investiga segundo caso suspeito de ebola; paciente é brasileira e esteve no Congo&nbsp;&nbsp;Estadão",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcTBIVjg4ajB6emZISThwc3N0ek5SQ2hwUFp3UnN6bUxEZThYRUJzQnhNMi1RaE9vYW43TWhMRi1VM2x6aldna3JOMU1pZWFnRnN2aHJDY2VFNTYyQ0U3cGhNYlpPakdvbU1SeEVvSjhvNFViTDU4VkwwYmg4d3F5am16ME5TUWxheENoRjE5eE05VjBhN1BjUXlURnlZeXVZN0JkbG1kYU5kUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e867da523197",
       "title": "Diagnosticado com câncer em seis órgãos, incluindo cérebro e pulmões, professor brasileiro de 33 anos relata o recuo da maior parte dos tumores após imunoterapia e surpreende em relato que ganhou força nas redes sociais - CPG Click Petróleo e Gás",
       "published": "2026-06-10T16:24:00+00:00",
@@ -342,62 +306,14 @@
       ]
     },
     {
-      "id": "07345786ccab",
-      "title": "A sociologia da saúde mental de Alain Ehrenberg - - A Terra e Redonda",
-      "published": "2026-06-10T16:06:44+00:00",
-      "summary": "A sociologia da saúde mental de Alain Ehrenberg -&nbsp;&nbsp;A Terra e Redonda",
+      "id": "3463470fd65f",
+      "title": "JP1: Psyllium: o que é e por que virou “Mounjaro de pobre”? Entenda - sampi.net.br",
+      "published": "2026-06-10T15:23:08+00:00",
+      "summary": "JP1: Psyllium: o que é e por que virou “Mounjaro de pobre”? Entenda&nbsp;&nbsp;sampi.net.brPsyllium: fibra conhecida como ‘monjauro’ natural ajuda na saciedade e metabolismo&nbsp;&nbsp;Folha BVAdeus, Ozempic? Suplemento rico em fibras vira aliado de brasileiros na perda de peso&nbsp;&nbsp;A CríticaMounjaro natural: descubra como alimentos e fibras ajudam na perda de peso&nbsp;&nbsp;TerraPsyllium: o aliado na perda de peso e na saúde intestinal&nbsp;&nbsp;Diário do Estado",
       "sources": [
         {
-          "name": "A Terra e Redonda",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSUpKMU5PQzNZUzBnR05LTkxFdTFMUnpfdi05aVVMa25fVnBBS1BLWmdlREtCWF9ZSjZJY1RsSHJUNDFVMy12Y2ZFZERWN3F6TndKeHBKZXpLbDgwRTRfVjY4M0ZNUVRUX1M3QWZKWEw1Q1l2NlVkandsZGRBLVRXX2ZRREU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c2280aa31269",
-      "title": "10 tartarugas gigantes são reintroduzidas e, em apenas 6 meses, desencadeiam mudanças que levam cientistas a investigar um fenômeno ausente há 180 anos; os números registrados na ilha impressionam pesquisadores do mundo inteiro - CPG Click Petróleo e Gás",
-      "published": "2026-06-10T14:39:00+00:00",
-      "summary": "10 tartarugas gigantes são reintroduzidas e, em apenas 6 meses, desencadeiam mudanças que levam cientistas a investigar um fenômeno ausente há 180 anos; os números registrados na ilha impressionam pesquisadores do mundo inteiro&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNWU5mb2JKdUxrSHdPWWxxbkhnT2RPaVREdl9mam80cnhuSFl6aTBSODRCS0l1T3dZeEwyaGdjYWREeEZhVFB4QU1LVTVISWJyYTJmV3lWeWswc0k0STlJam1KOWpqVjQxaU1fVFZaamZMUlp3SGRkZHctWmZzT0RQc2pOU0kwQmJvZ0haUTR6NWdncG8tdE5iUEplTExOWlZZQjBGM25ZZ3k2bF96NEE2RGw0WlBuajdnS2RrWXBfekpQVi1rMEdDZFZDc24xdE10Wnl0NHBtb2Q0MkVBTmRwaXh0c1V0UU9pa1g3MTNDNlBCaXR3dzgwSFp3NkdfRjdOTDlJZUNSUGxmWVZBc0NtTW1qd2VHdFE4emxsMDFzUFhFY1FfY1B1emxxS2JnV05ncGNJVXd0MHRFUEhJMVUzMGdnZmIyN0k?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "75b77548bc88",
-      "title": "Estudo aponta quanto tempo de treino de força por semana seria o ideal - UOL",
-      "published": "2026-06-10T12:24:29+00:00",
-      "summary": "Estudo aponta quanto tempo de treino de força por semana seria o ideal&nbsp;&nbsp;UOLCientistas revelam a quantidade ideal de treinamento de força para uma vida mais longa&nbsp;&nbsp;O GloboMexer o corpo faz diferença: estudo mostra impactos nas primeiras semanas&nbsp;&nbsp;Assine AbrilMusculação realmente pode ajudar a viver mais?&nbsp;&nbsp;BBCAtividade física reduz em 19% risco de morte precoce&nbsp;&nbsp;Portal Terra da Luz",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcjBEMEplaGxQX2tKb2FLRkQ5RnRmWUFqOHFGR2E2bFpyVU9vQ1lEX1U0c2ltZ2ZqbUNvd2dvbVN4T3lmNEFNQ3ZOTDF5RnB4M2diY212VHNiNlBuX2h6TG5SVzJkRmdkYi1VUWpndmxqUXZlWUhPTGVKYV9HeWRyZmRQLVc0ekg2TXdDWThtUUtUdUktTFdUdTdKdUNoYTBVa1RMa0hmTzU0a0s5cFhwc2FlQk02TlJpSy1rRG0tSGhJeFB1YlFrZWMzVDFHVVVZ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3377415c00d9",
-      "title": "Quer viajar de graça? Estudo oferece um mês nos Alpes italianos com despesas pagas - Exame",
-      "published": "2026-06-10T11:36:25+00:00",
-      "summary": "Quer viajar de graça? Estudo oferece um mês nos Alpes italianos com despesas pagas&nbsp;&nbsp;Exame",
-      "sources": [
-        {
-          "name": "Exame",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQm4ydWZBS0lrd2lKa1B6WmcwUklmY1hzVFJ2MmNvbjRhWUxmSE9leHFsVWJQOHFJTXU5ZGs4VFBZU2Q5ZVBWNnFmbHJLNEFLYW1DemJDV0ZGeEUyTUwwcm42LXcwV1MwbUl4THJDakpFSzFKREw1RHRWTmViVks5UmJmUDF4SHg5aUxoZEUtbWd2UGNpS092cUlsc2VnNzl0VmY4YVZNbXZHUHZT?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b34af2cdb5ed",
-      "title": "“A economia do apetite”: o tamanho do impacto do GLP-1 no Brasil - Brazil Journal",
-      "published": "2026-06-10T10:34:09+00:00",
-      "summary": "“A economia do apetite”: o tamanho do impacto do GLP-1 no Brasil&nbsp;&nbsp;Brazil JournalVenda de canetas emagrecedoras salta 157% no 1º trimestre e já responde por 9,1% na Pague Menos&nbsp;&nbsp;EstadãoPodcast debate canetas emagrecedoras no tratamento da obesidade com especialista do HC de São Paulo&nbsp;&nbsp;Jornal da USPAlém do peso: canetas emagrecedoras já tratam apneia do sono e doenças hepáticas e renais&nbsp;&nbsp;Folha de S.PauloCanetas emagrecedoras: comer melhor e se exercitar aind",
-      "sources": [
-        {
-          "name": "Brazil Journal",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUFdSWFNqYWNOZUFzZUR6Z2JnTTRlTEVUUWFpUXlEQmc4ejVLZFhibkJIX1BIZ3NBejlaeG9mbHZlZk1OM2JkaE5DRlpjQ1FPOWtvS2Q3Q0FkNXVUOXBfdVR5em03LXAydHA3cnFfZnBNN1p0RnM2X01tZnBEaS1TS2VvUGtzUmhLY3h5bXZSQnd5dw?oc=5"
+          "name": "sampi.net.br",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQkNfRk5VanV6cVA5OEo5WGk3a2RZbmNQVFZqNFBYNkE2T0ZUenpOMVZUeFRBSVhpRW5XUnF6TVVnWHFmSGRYVzMwOTIyb1BjcmpQYUNFMWlud1RBZURqZHFkWmFkdXhVTUxOazJjeTBudzRYMVVfbFU1d1NQb1RxNDZZNzctVV9vekFZQ3NmVExUSExsWmxxalYxSDdKNXVGTFJKVjFpWTVRUXhDR0VjX0NQMXRuS1otM1FIdWF3aFE?oc=5"
         }
       ]
     }
