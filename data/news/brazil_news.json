@@ -1,14 +1,50 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-06-12T15:19:23.417998+00:00",
-  "total_fetched": 87,
-  "unique_count": 87,
-  "health_related_count": 26,
+  "fetched_at": "2026-06-12T20:12:55.786266+00:00",
+  "total_fetched": 86,
+  "unique_count": 86,
+  "health_related_count": 22,
   "news": [
+    {
+      "id": "9d932def6dc2",
+      "title": "Lúcia Helena: O exame de sangue que diz se você tem um câncer e onde ele está - UOL",
+      "published": "2026-06-12T15:09:09+00:00",
+      "summary": "Lúcia Helena: O exame de sangue que diz se você tem um câncer e onde ele está&nbsp;&nbsp;UOL",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaEJqRHNub2VnUVZGbjFuYmVGa3ZZV2UtR19xZWVlVGRzT0pCYV81c2FRdVlId3htS3ctcDJjUmtIZDRXbjlpX2tldTc0RkloMTRPQ3JXU19HYUhCVkRzMVZPSFpFdVJaM2Jrd2JXd2xjYjBRcG5qRE9fZ1ZicnVoRzRYaUhXZWJrcElnaUZlT0xpeDM5a21xSFFtcHp1akk5aFpMMWdobGhMQW5GeUdwZHBTTUVvY1FlNE9MVzREUExpY0RnN0JNMENR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8e1df627e8e4",
+      "title": "Revista Pesquisa FAPESP: uma carta de despedida - Observatório da Imprensa",
+      "published": "2026-06-12T13:38:43+00:00",
+      "summary": "Revista Pesquisa FAPESP: uma carta de despedida&nbsp;&nbsp;Observatório da Imprensa",
+      "sources": [
+        {
+          "name": "Observatório da Imprensa",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY3B5Z0pIV2toc18zR29aV2l6WThZSExjTks2WXRHOHkxRDI5dmZtUngxd1UyZ0NpZW1vbTBzNVFlTElMSDlESGdHZG52b3ZzcnhwRHN0OXItZ2g2OUtQQ0w1YzVwT2VfdGstcGlyWk53N09uRGNkRVdoVUtxNXZvNUJoT0ZqaThqbDAxTWNhSC1kYTJwQmVGZ1ZiOUdnSWRic1drMVBlWQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a41264625d93",
+      "title": "Pesquisadores cruzaram a assinatura química de machados, cutelos e núcleos gigantes com antigas rochas vulcânicas e revelaram que hominídeos de 780 mil anos não usavam qualquer pedra encontrada pelo caminho - CPG Click Petróleo e Gás",
+      "published": "2026-06-12T13:06:00+00:00",
+      "summary": "Pesquisadores cruzaram a assinatura química de machados, cutelos e núcleos gigantes com antigas rochas vulcânicas e revelaram que hominídeos de 780 mil anos não usavam qualquer pedra encontrada pelo caminho&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNMDZ1NUJranNOYUNMMjdwaFlka2xtTDdZZkVBNE03cC1EVlFzam5HTTNTcXV1Zzd4dWVfMFJlQTJFWDdFREFSeHNLcGhFdDJFWDdVLUdRWWxkRkxndTJ5QzAzWl9JV3gySzlpSXZ4TDRyUmFnSC0xV3JIYk5MdjAzaUJqdTZfcDk2S0RWcF9VMzNNYWc5aGR4bEZLNUVndzZfOE93M2VPcXZHUVVvQ0FuaTZvbnVsT1B5cVdBcFBndlo2TmgtUlVMYzNzSFpkZVhpY0Vad195a3FZX1d3MGJVMlcxSkpUM2hHVWRVZkJFdEctRVNyMTdzQndkeXJRdW02bUJPY0dJZzgzZHU3cTNHbU9UbV93ZXZNeHhIMUd0WEhReThURUlTUllvSnFGN3pXYW5vbmQySVc1NlFUaHhJZFVzdVo1TDg?oc=5"
+        }
+      ]
+    },
     {
       "id": "328a75cd6e9a",
       "title": "'Mancha fria': por que uma parte do Atlântico tem esfriado enquanto o planeta aquece? Estudo aponta possível explicação - O Globo",
-      "published": "2026-06-12T14:48:19+00:00",
+      "published": "2026-06-12T12:41:15+00:00",
       "summary": "'Mancha fria': por que uma parte do Atlântico tem esfriado enquanto o planeta aquece? Estudo aponta possível explicação&nbsp;&nbsp;O Globo",
       "sources": [
         {
@@ -18,14 +54,38 @@
       ]
     },
     {
-      "id": "fb01a72bc32a",
-      "title": "RS investiga caso suspeito de ebola na Grande Porto Alegre - CNN Brasil",
-      "published": "2026-06-12T10:00:41+00:00",
-      "summary": "RS investiga caso suspeito de ebola na Grande Porto Alegre&nbsp;&nbsp;CNN BrasilRio Grande do Sul investiga caso suspeito de ebola em idoso&nbsp;&nbsp;UOL NotíciasSecretaria da Saúde acompanha investigação de caso suspeito de Ebola no RS&nbsp;&nbsp;Portal do Estado do Rio Grande do SulFiocruz fará análise de caso suspeito de Ebola no RS; paciente testou positivo para malária&nbsp;&nbsp;O GloboSuspeita de ebola em Novo Hamburgo: saiba como a doença é transmitida, quais são os sintomas e o tratame",
+      "id": "83e88d52e0f4",
+      "title": "Tamanho não é documento: quais espécies de animais lideram mortes no mundo? - UOL Notícias",
+      "published": "2026-06-12T11:42:58+00:00",
+      "summary": "Tamanho não é documento: quais espécies de animais lideram mortes no mundo?&nbsp;&nbsp;UOL NotíciasOs 7 animais mais mortais do planeta que desafiam a biologia com toxinas letais e ainda escondem segredos químicos que a medicina tenta decifrar&nbsp;&nbsp;Brasil 247O mundo tem um problema de mosquitos. Veja como os cientistas estão tentando resolver isso&nbsp;&nbsp;cinemaecerveja.com.brNem tubarão, nem leão: os 21 bichos que mais matam humanos estão aí perto de você&nbsp;&nbsp;Terra",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNHdPSU96Q2J6SU80bUpUVWNtTG9HcWJqVTV5N1NvUnNrcnl6U1c2Q1otWVJuOE9Lak1HM1ZYVUhmZGFtX0xzQWNnVjFZX2xRSFBRUzlrNjNiYjF4RTd1bG03UTBoRmNaalZKaUlqMjhTSjB5VHZsa0k1Um9JTWVVdWEtWktJS3FpTVBWQlUwWWZ1Y25MYll1TUln?oc=5"
+          "name": "UOL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcTVlbThYODVNeDNCdmtqTHBVaUQ0T0NJRXJuWHRZaWJTYThMSndpUVZEZHpjQ25PWUZoMENtU09zQV9mNlpRRzZkaGRPc1FUdVBXN00yWlBzX2hZY0JFQXRud0pXdjk3WDFXOFd4WHZXajRRVEVfdFRBbjlWeV9GVDZQY1lFX1ZWbURoQTM0d2JKZHdNMkZXSkNKU185SjdTa1N2YXdNZlZ0dnJaZU1YTmFpQ1hyYUZndzlNWmtPSk94NXh5WkFrRHYycXQxLXlLLVpzWUJ2SnJaR1VFQjFVVkxTMEIwNlM5LXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "47b5bacd1ef8",
+      "title": "Rio Grande do Sul investiga caso suspeito de ebola em idoso - UOL Notícias",
+      "published": "2026-06-12T11:30:09+00:00",
+      "summary": "Rio Grande do Sul investiga caso suspeito de ebola em idoso&nbsp;&nbsp;UOL NotíciasSaúde monitora contatos de caso suspeito de Ebola no RS&nbsp;&nbsp;G1Caso suspeito de ebola no RS: entenda como funciona o protocolo de atendimento&nbsp;&nbsp;Correio do PovoCom caso suspeito em investigação no RS, o que se sabe sobre o surto de ebola no mundo e os riscos para o Brasil&nbsp;&nbsp;GZHNotícias - Rio Grande do Sul - Nova onda de frio: RS terá mínimas abaixo de zero na próxima semana&nbsp;&nbsp;PORTAL",
+      "sources": [
+        {
+          "name": "UOL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcDZQOFpWWjRUbko3WWtTUG9rSWtEeFAxa19tX3FzMGExWUVCSlRTa3dUX2drWkR5YVNnWXg3V09sSjlxelBGV1hObThOSTQzS205SUhCWHNxdFQ5YzBjMno1MGNka0NqRnVPektpMV9Ea3QwYmFQYlU1akREUzJLRjhEdnJfWTA1M0FEOE9ob3BhMjlwNlFtRTNqSHNXdzlPamltTDUxNFF2S3hxcncySWNFM0xJWWNONktKdzcxRlBEM2h3bi1aeWNfaU0ycWM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0a22013a086e",
+      "title": "A ciência que aprovou a vacina da dengue é a mesma que agora a protege - O Globo",
+      "published": "2026-06-12T07:30:11+00:00",
+      "summary": "A ciência que aprovou a vacina da dengue é a mesma que agora a protege&nbsp;&nbsp;O GloboMinistério da Saúde descontinua temporariamente estratégia atual de vacinação do Butantan contra dengue&nbsp;&nbsp;GOV.BRSaúde/ Princípio da precaução&nbsp;&nbsp;CartaCapitalApós suspensão, Padilha fala em \"tranquilizar pessoas que tomaram vacina\"&nbsp;&nbsp;CNN BrasilVacina do Butantan contra a dengue não está em fase ‘experimental’, diferentemente do que diz vídeo&nbsp;&nbsp;Estadão",
+      "sources": [
+        {
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNlIxaUphelNqWnBrSjJjTGxOeTJiZUNmQ3BnRXJEel81LVdVV2F6VTJROEE1YlJIcU5GSjhSYUs5WHhHcmlYR29NQ1NBdm53NlJ3eF9JVFNyRy1ZWkFKdnlST3Z3bEpFaEtLSlpydnJLMjJzRTB2aEtiZVVNNjhhS05Ma2RhVVcyVXNfb0ktN01OalpSQXJVcFIyN2RoZHU0b2VQeWFFWGVuM3pBTXNrNUdteHpmY3hqeU9EY3VWUERGak5QVFo0NktLTFp6RnN2YkHSAeABQVVfeXFMUDlHX3ByT1Vkc2dCaXRnLVpKLXRCc1FoMW5lQU1aUWRvdjBERUFLa2liaGM0R3pZblJqSFdNZGtfWTVfck1hWXVDNnZEWnl1Rm5NdDRCaENUOEJNU0l0MWNpNnN0d2ptdExQWHFwenJHV2NBeFRwOU5WSVFMT1V1Ti1xMk5vd2gyQTg3MU5GeUxDWFFTX1JBaWxsRHE4QXA3VGJDeWx2aldWYURybGtfSVQtTGZocURIc0VueU8zYkRTTm15RnBWZFI1Qnl0SlJoMHRoNFNaVWJseWhyWkRwMVc?oc=5"
         }
       ]
     },
@@ -50,18 +110,6 @@
         {
           "name": "Correio Braziliense",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZkNYZ3dlZzZlelhBdzZCSVVPdUQ5VnBxdWFVQkhvMF9KTXl1eU4wZTlLMXdmeUdkeGxRWFl5Z2FBN2lPZEd4aWQ1cGcwaXBEeDZLVVJJZTJSVmE5SjFBZmw1akw4bXlSVjVLYzVYcEpiLThLVnNrVHEyUEpjX19uOENXYkJ3eDZxMjRNNUdWSUx4VEgyeDBrbkFaT3B5YnJtYVphbE1qTS05TkhYQWRtMDV5YW9oMXV2UTU3NVhESHFOLUk5aEZmNlN0M1lLeHRfR242NGJPckLSAd4BQVVfeXFMTkhGVmRnSHVzcDR2VkVaY0otWDhMcTZGNjV3OHBYZk93bTgzUmg0S2ZCRlh3MGN3VGtfOFF0UHkzSmxnTnYtMFVEckIyUno1dG1JamQ4eFJ2UmtUR1I5TFJhLXhUYlFqV2hLM0RaNjJuTmtIQ1NYT01ZMDJFd0lhdkU5dDZEaGVEYlhRQl94VGxLeEF6OWFhaUhLdDRoNEpxNElVOC1fTVRvMXQzcEt2V3I3aEFBY1lYb0Z6N1FldVhlZmdaS2NEalF0Q3FZYUctVGhHdDJVZDlrNmxqVnN3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ab564eaaf1ee",
-      "title": "Rede subterrânea de fungos tem 110 quatrilhões de quilômetros de extensão, mostra estudo - Época Negócios",
-      "published": "2026-06-11T19:33:15+00:00",
-      "summary": "Rede subterrânea de fungos tem 110 quatrilhões de quilômetros de extensão, mostra estudo&nbsp;&nbsp;Época Negócios",
-      "sources": [
-        {
-          "name": "Época Negócios",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPN25CYVhsLUx4U1NGbFM4RHJ2NExkWXNZVkFGQ20yWl9zU0tPOVhpdTVYUl9YaFpGVllNblNQSGRLdE9LUU9vX05JQzVjTDlnc3Jhc0xEcnRGNl9DQTl0a1hZSFV5MW5saTB5WXVRTS00czkxanpQTVEycFZ6dndIRU9yMjE5QTRuOWVBT0dyR2NPdzlRMEJnWk5MSl9KUVctNzZ2U1Q1YWdfWDl1LVFJbGJXVEpGZDdkSjZSMjd1ejlEZnFEWktuMFdCenFNOEFjdWFzY2FTU0xzU2xIZ2t0Uw?oc=5"
         }
       ]
     },
@@ -117,7 +165,7 @@
       "id": "7e322f3557d9",
       "title": "Como torcer pelo Brasil na Copa do Mundo sem colocar o coração em risco? - UOL",
       "published": "2026-06-11T12:11:11+00:00",
-      "summary": "Como torcer pelo Brasil na Copa do Mundo sem colocar o coração em risco?&nbsp;&nbsp;UOLCopa do Mundo 2026: como os jogos afetam a saúde dos torcedores&nbsp;&nbsp;O GloboEspecialista explica o que acontece no organismo durante uma partida decisiva&nbsp;&nbsp;FaxAjuRisco de infarto aumenta na Copa: entenda por que e como se proteger&nbsp;&nbsp;Veja SaúdeExcesso de sal e álcool durante jogos pode aumentar risco de emergências cardiovasculares&nbsp;&nbsp;Folha BV",
+      "summary": "Como torcer pelo Brasil na Copa do Mundo sem colocar o coração em risco?&nbsp;&nbsp;UOLCopa do Mundo 2026: como os jogos podem afetar a saúde mental e do coração dos torcedores&nbsp;&nbsp;O GloboEspecialista explica o que acontece no organismo durante uma partida decisiva&nbsp;&nbsp;FaxAjuRisco de infarto aumenta na Copa: entenda por que e como se proteger&nbsp;&nbsp;Veja SaúdeExcesso de sal e álcool durante jogos pode aumentar risco de emergências cardiovasculares&nbsp;&nbsp;Folha BV",
       "sources": [
         {
           "name": "UOL",
@@ -129,7 +177,7 @@
       "id": "1147a4c84f88",
       "title": "Cidades do ES iniciam vacinação com a Pneumo-20; veja público-alvo - A Gazeta",
       "published": "2026-06-11T12:02:00+00:00",
-      "summary": "Cidades do ES iniciam vacinação com a Pneumo-20; veja público-alvo&nbsp;&nbsp;A GazetaES recebe mais de 10 mil doses da vacina Pneumo-20&nbsp;&nbsp;G1Nova vacina pneumocócica 20 começa a ser disponibilizada no SUS para crianças — Ministério da Saúde&nbsp;&nbsp;GOV.BRVacina mais potente contra a pneumonia já está disponível na rede pública&nbsp;&nbsp;Tribuna OnlineGoverno do Estado iniciará em julho distribuição de nova vacina que protege contra pneumonia e meningite&nbsp;&nbsp;Portal do Estado d",
+      "summary": "Cidades do ES iniciam vacinação com a Pneumo-20; veja público-alvo&nbsp;&nbsp;A GazetaNova vacina pneumocócica 20 começa a ser disponibilizada no SUS para crianças — Ministério da Saúde&nbsp;&nbsp;GOV.BRVacinação com a Pneumo-20 em crianças tem início no Estado&nbsp;&nbsp;Século DiárioNova vacina do SUS contra doenças graves chega em SC&nbsp;&nbsp;G1Rio Grande do Sul iniciará em julho a distribuição de nova vacina que protege contra pneumonia e meningite&nbsp;&nbsp;PORTAL FARRAPO",
       "sources": [
         {
           "name": "A Gazeta",
@@ -138,22 +186,10 @@
       ]
     },
     {
-      "id": "deb27ec191c5",
-      "title": "Vacina da dengue disponível em postos e na rede particular não é a mesma do Butantan - Diário do Nordeste",
-      "published": "2026-06-11T09:00:29+00:00",
-      "summary": "Vacina da dengue disponível em postos e na rede particular não é a mesma do Butantan&nbsp;&nbsp;Diário do NordesteAraraquara suspende temporariamente vacinação contra dengue&nbsp;&nbsp;G1Vacina do Butantan contra a dengue não está em fase ‘experimental’, diferentemente do que diz vídeo&nbsp;&nbsp;EstadãoSaúde/ Princípio da precaução&nbsp;&nbsp;CartaCapital‘Como um vírus poderoso, a desinformação ataca a saúde no Brasil’&nbsp;&nbsp;Partido dos Trabalhadores",
-      "sources": [
-        {
-          "name": "Diário do Nordeste",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONFJwNVI2YVg5WnZPeS1iMFFWb2l2U0NJVHNQQnFScXQ1ampIcE40MVoybG9XNW1xSWMzaGxuYmlIcHJONzVFeFFSRVlVam51YlNCSy1IdHc4dVNWaEhuT0ZNLU9aMGFNcU1FNHJvWHFyNmdXZEY0d2RzU2ZUY3J5THBoUHh6Wllic0J2QU1rbUhtSU9zZnNFZHphbTdTckhTdGFXQXFkUmVkSVh1ZUxldUJMYV85NTFfaXh4Q3kwRnZQTkpoT3JQWHNXdG1EYURfSTZINFl4RnR0azEz?oc=5"
-        }
-      ]
-    },
-    {
       "id": "72a0b552492b",
       "title": "Efeito de nova caneta para perder peso é semelhante à bariátrica - Tribuna Online",
       "published": "2026-06-11T09:00:00+00:00",
-      "summary": "Efeito de nova caneta para perder peso é semelhante à bariátrica&nbsp;&nbsp;Tribuna OnlineSurvodutida reduz gordura no fígado em quase 60% dos pacientes e marca virada na disputa das canetas para obesidade&nbsp;&nbsp;G1Medicamento 2 em 1 com Ozempic na fórmula mostra bons resultados contra o diabetes&nbsp;&nbsp;VEJAEli Lilly divulga dados de fase 3 do retatrutide, novo medicamento para perda de peso&nbsp;&nbsp;Investing.com Brasil - Finanças, Câmbio e InvestimentosNovo remédio antiobesidade redu",
+      "summary": "Efeito de nova caneta para perder peso é semelhante à bariátrica&nbsp;&nbsp;Tribuna OnlineSurvodutida reduz gordura no fígado em quase 60% dos pacientes e marca virada na disputa das canetas para obesidade&nbsp;&nbsp;G1Emagrecer sem sacrificar os músculos: as promessas de uma nova caneta em fase final de estudos&nbsp;&nbsp;VEJAEli Lilly divulga dados de fase 3 do retatrutide, novo medicamento para perda de peso&nbsp;&nbsp;Investing.com Brasil - Finanças, Câmbio e InvestimentosNovo remédio antiob",
       "sources": [
         {
           "name": "Tribuna Online",
@@ -186,18 +222,6 @@
       ]
     },
     {
-      "id": "2342f007f8cb",
-      "title": "Inventor canadense cria um exoesqueleto elétrico de 4 toneladas e 200 cv que multiplica a força humana em 50 vezes, transforma o piloto no cérebro de uma criatura mecânica gigante e tenta inaugurar o primeiro esporte de robôs colossais do mundo - CPG Click Petróleo e Gás",
-      "published": "2026-06-11T02:39:00+00:00",
-      "summary": "Inventor canadense cria um exoesqueleto elétrico de 4 toneladas e 200 cv que multiplica a força humana em 50 vezes, transforma o piloto no cérebro de uma criatura mecânica gigante e tenta inaugurar o primeiro esporte de robôs colossais do mundo&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQSUNZYzdjZE1mRHhEMnpxLVpwSTU0OWdpbS11MXBpT3dnaWNkczVxdC1fdkg2SmpjVGpYMWJsYmpDY0VDS0ZuRTUydDZGZXNWWjRxbEtNbThzWjBEblpWYkd2REhxYWZJWi00UFNOcUhzWTRVY09sTU1pcGFQZ1poR3kwZWZtLTlfTlFEdTNWSFc3VUpUTVVvakh3d3pvY3pXd0JIcDZsd2FDN0w0TUNyNWpWQXAyWHlwOHRSYXhJTUU5aEkzd2hQYVR4RUFnbzJUMms1MFVVNTNWc3FKdU1mam1mMUt1V0p5OVI5OXNRVkNBSUtBZ0xfWnNmb3B4NWNBMUJidGE2YzdMXzhLaVE2RGMtdk5xdnhkaWQ0NndwQXh4OW8xVWZ5NEtIWVlBdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6a2e15a3c53e",
       "title": "Alzheimer: saiba o que uma pessoa costuma esquecer primeiro antes do diagnóstico - Rádio Itatiaia",
       "published": "2026-06-11T01:00:11+00:00",
@@ -210,14 +234,14 @@
       ]
     },
     {
-      "id": "e51fc17e36a8",
-      "title": "“Falta de atenção não é déficit de atenção”, diz neurologista infantil sobre diagnósticos de TDAH - GZH",
-      "published": "2026-06-11T00:13:17+00:00",
-      "summary": "“Falta de atenção não é déficit de atenção”, diz neurologista infantil sobre diagnósticos de TDAH&nbsp;&nbsp;GZHUso descontrolado de telas dificulta diagnóstico, diz especialista em TDAH&nbsp;&nbsp;GZH",
+      "id": "5d62b9cad06f",
+      "title": "Três astronautas decolam rumo à estação espacial chinesa Tiangong e pela primeira vez um deles vai ficar um ano inteiro em órbita em missão que leva a primeira astronauta de Hong Kong e prepara o pouso tripulado na Lua até 2030 - CPG Click Petróleo e Gás",
+      "published": "2026-06-10T23:09:00+00:00",
+      "summary": "Três astronautas decolam rumo à estação espacial chinesa Tiangong e pela primeira vez um deles vai ficar um ano inteiro em órbita em missão que leva a primeira astronauta de Hong Kong e prepara o pouso tripulado na Lua até 2030&nbsp;&nbsp;CPG Click Petróleo e Gás",
       "sources": [
         {
-          "name": "GZH",
-          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPNk9Lc1p3cnZueGFYY2ROOVZWeE5lQ1NkXzV2NjBzeG8zSml1bnVkazhnd01oTGRMQ1RTQWNJZkMtRkhMLUgyaXFNY1gya19LVWNTU013cWZmbkVkSGpPUW9fbUpranRQbmFzcHdlVWtnVE91ZWpTdWoza2RWb1pqZ28xRzhrN3RpOEV0WEpLMllmcnFwTWt3R1FHWkk2OC1zclF6LV9LWFFCZXRodXBFQl9fU01FWk13cS1tTm5UX3BmUExNck1WbXExMWdBc1dtbk1UTF8wX0lhLVBrSVFyQVA1RUNxbFR3aFliTlVfR0J3TDFmdEdQY3NhaTA1Mm1zaXJuQVExVkxXNzA?oc=5"
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNcU52cURDbWJQa0pQR0F5bWlLZ3BLbTFpWmtoMm9xVmdzdlFFbGpiZjlCYzVZeEdDSHN2b3B0N2tNUXZ1LXVHVTctR1E5RkhRQ2ZhTl9USUhBUThOYWl3Sk1zM0NlcTc0RFA5Nk8xODNVWDFGMXNzeXpVOTMzQjZueFJrZlFDSzdTRU92aEhiNFpobHpVMTZGSzhkQVBINHFWcU41Y1JZOV9zYXJqT0w2ZWt5dGVUY3p0elg4S0xCS2dhX1U2S3pmY3ROZG9nTUFNSGNDRHlpVk9vTnhyU21qc1lSbGVERjBBYTFHbmFpalBTdTBlZllCVW1EeTNLdFVFQWdhMVA4OE9wZG9PR3owb244bGdNcHFROG5fZ2FiNGdEbHd4Tnc?oc=5"
         }
       ]
     },
@@ -234,18 +258,6 @@
       ]
     },
     {
-      "id": "01e2a7153793",
-      "title": "CenPre recebe primeira reunião do Grupo de Pesquisa Sankofa na próxima terça-feira, 16 - PJF - Prefeitura de Juiz de Fora",
-      "published": "2026-06-10T21:14:00+00:00",
-      "summary": "CenPre recebe primeira reunião do Grupo de Pesquisa Sankofa na próxima terça-feira, 16&nbsp;&nbsp;PJF - Prefeitura de Juiz de Fora",
-      "sources": [
-        {
-          "name": "PJF - Prefeitura de Juiz de Fora",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9UVC1yVTJSeF93cTFiWlFHUjdGREo5NHlmYXUtdmtkY2o4UDZzcHV1Q0RTbGpxd0ttenU1TE1FTFR0Zmt5TWNTemU4eGpiTFdOUDZ1bXJYaEtRWHIya2dSRjdQMUtwM3pYVE9WcEt2c2VWVDJoSlVnenMwYw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7bb91c555997",
       "title": "Câncer de pâncreas: por que a doença quase sempre é descoberta tarde e quais sinais não ignorar - Portal Drauzio Varella",
       "published": "2026-06-10T19:01:37+00:00",
@@ -254,66 +266,6 @@
         {
           "name": "Portal Drauzio Varella",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMnBoUHc1c3FOeWRXaXo4MXRzcF9ubkFEaUZfMU84X2FwWnI5bWpmSlhWWm9CdVhPaFVvNnllaVV3NjNBRXhYQmNTY19fSWpYUE9KdmxzTEVOUlR6UFJsSnF1ZXBMQ2ZWU3JpRktzQTNHTUI4UnBteEVUUjJXenJXbTdFUHJRR3lfNW5kTGlzLTZCT3V3Zi1DWkg4ZG1XWU9Gb0dUTkJ5dFRZQVJSVDRITERzWlF2ZjNNOXd4OElYSjF0dDdhZDlpTk5lUTNoZVNXa3RqaTRn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9cb3ef7fb346",
-      "title": "Essa doença silenciosa atinge 44% dos brasileiros e pode levar ao câncer; conheça - gmconline.com.br",
-      "published": "2026-06-10T17:40:00+00:00",
-      "summary": "Essa doença silenciosa atinge 44% dos brasileiros e pode levar ao câncer; conheça&nbsp;&nbsp;gmconline.com.brDoença silenciosa atinge 30% dos brasileiros e pode levar à cirrose&nbsp;&nbsp;Folha de LondrinaFígado gorduroso mudou de nome: o que MASLD revela que “esteatose” não explicava tão bem&nbsp;&nbsp;Tua SaúdeMédica alerta sobre o aumento da gordura no fígado em adultos jovens&nbsp;&nbsp;MetrópolesInflamação no fígado: veja sintomas que não devem ser ignorados&nbsp;&nbsp;O POVO",
-      "sources": [
-        {
-          "name": "gmconline.com.br",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZHNsc0FYRjlsNGRQUTF1cXJndHp4Sjh0WkhnNlJ4dm0xNDJTU1R3NlBMaEktX2tKdmc5NkRDRnJxSTh3cHEyMDA1OGVRajdKOXZrWXJaTE9BazJSZkZhdXoxZkp2U0NnVmU5OEZoRUcxNTNVS3hnRGhEbDFiZ01KWFBaZnJlTWlYUVdiX25peThSanhqeW1oaWJ1bDh5ZjlMc3VqdDRxUks2OG1aMnU0ZF9CcHlyNDR5LVBZcNIBwgFBVV95cUxPMm9HNC0tZWRQMV91TXUydWVWbkhVWkRpbUtXVUljaVo1dUxocVBNaUtvY05uMV9fZWx0TW4tZUN2UDF2bWM5OFpKMGpKSXYweWpvamJ5QVplNUtZYkp1TzlwQms2cGZ1SDZEeFVTazFmZEJXam9ZNTMxdVp0VlhvdDVqNnBaa1BfSHBGTFdpdFdmN1FLZnM0R3Baa3RrNWh0eUJiR2tRT01HVHU5OU9iZmRkN2RUTGgxR0xDaVJLVEt6Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e9ea895b9d55",
-      "title": "Diabetes tipo 5: a nova categoria da doença, que divide cientistas e médicos - BBC",
-      "published": "2026-06-10T17:13:13+00:00",
-      "summary": "Diabetes tipo 5: a nova categoria da doença, que divide cientistas e médicos&nbsp;&nbsp;BBC12/06/2026 | Diabetes tipo 5, delírio de infestação e CKM&nbsp;&nbsp;Afya | HomeDiabetes tipo 5: entenda a nova classificação da doença que afeta milhões&nbsp;&nbsp;band.com.brDiabetes tipo 5 reacende debate sobre nova forma da doença ligada à desnutrição&nbsp;&nbsp;portalgiro.comDiabetes tipo 5 é nova categoria reconhecida pela FID&nbsp;&nbsp;F5 Online",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0ybTBRX0txcUt1ZzlHVDExX19IeV9YU3lXR2x2NUpjWmpxb3I0NGZkNDdfdWUweXQ5VmVEZXoxdE12c25PLVBrNXpfZTVvYktqa1VjWXQ5c1dmUERiUjh2LXZn0gFnQVVfeXFMTXI5UDJEMVk5czZkWUVpZjcxdmcwaDlrckt6dkJCNThRZUhob1FJVGVPUU5vX3Fxdnd1UHpNQW5fR0xSajA4SzU1Mlk5RUVoc0VRcTd2eS1rZmdSb1NDMW94NTI0TF9jUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ca32ab4948a3",
-      "title": "Ex-aluno da Escola Sidrônio, que conciliou estudos e trabalho como menor aprendiz, conquista medalha na Olimpíada Brasileira de Matemática - Região News",
-      "published": "2026-06-10T17:00:00+00:00",
-      "summary": "Ex-aluno da Escola Sidrônio, que conciliou estudos e trabalho como menor aprendiz, conquista medalha na Olimpíada Brasileira de Matemática&nbsp;&nbsp;Região News",
-      "sources": [
-        {
-          "name": "Região News",
-          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOMy1tVGNCZzBUR3RtdnUtdjRQOUJmb21ONlNwUHdoakEyTGpCdWNKdjc2Rm9tRC1jMnZlZHZ6SjVMeEtZRzd2aXZUTWVZWjFaWnhHX3Z1N3N4T3dPcWt0VTY3UDhyX19CcG1VTERHbFJPSGpNRWFWS1B4eVdjN2w5bE9JWnpnNFF4Z2c2V2dJbzV1dFFWdS1WYm1oVGRNelFoc3VPenF6ZkthSVhDT1JpbkVQN0l0bFhQcnMxTEh6enlHWlE5QVE4NjRSUGZ5VmRjVUF2OHoyNzhFVlp3OG9MeGZDZ1FaT2N3U0lfY21xZ3Azcy1MTnBrZkJSa0xaSzRhSWd0SjZJRENaMVdYLWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e867da523197",
-      "title": "Diagnosticado com câncer em seis órgãos, incluindo cérebro e pulmões, professor brasileiro de 33 anos relata o recuo da maior parte dos tumores após imunoterapia e surpreende em relato que ganhou força nas redes sociais - CPG Click Petróleo e Gás",
-      "published": "2026-06-10T16:24:00+00:00",
-      "summary": "Diagnosticado com câncer em seis órgãos, incluindo cérebro e pulmões, professor brasileiro de 33 anos relata o recuo da maior parte dos tumores após imunoterapia e surpreende em relato que ganhou força nas redes sociais&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOQ0JLZ3Q2WURBdjZKLTkyM1dzODJpZC1ITDhrZUxFcUxRRGtmaFFyWmdIVVVrVkU1VHVOZ19wRTdJU2VSbERLT1NXcHF4VWlMWjEzRkVNVnRqTzQyOTg0RzlUUkw3TzJsSlFYYXBOYjgyb2g4OGF6dHFmYUVkRko0U2NLUjRGUFIxajQ3bExkeGxwTG9TZlRwRDcweDRmeWUwNmpGVTA2djhMS1pRTi1HNHNJZnk0TFdTbFNtbFhxZmdMWEY2MElRRTVMT1NWMmoyZl9PelQxd1Izb3kzSmxWci1FM3BDWUFEdkZmVUg1OW0xOFY3NXFlMnpOSk1JM2xBSjlDMXllQ3FDUkhDNUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3463470fd65f",
-      "title": "JP1: Psyllium: o que é e por que virou “Mounjaro de pobre”? Entenda - sampi.net.br",
-      "published": "2026-06-10T15:23:08+00:00",
-      "summary": "JP1: Psyllium: o que é e por que virou “Mounjaro de pobre”? Entenda&nbsp;&nbsp;sampi.net.brPsyllium: fibra conhecida como ‘monjauro’ natural ajuda na saciedade e metabolismo&nbsp;&nbsp;Folha BVAdeus, Ozempic? Suplemento rico em fibras vira aliado de brasileiros na perda de peso&nbsp;&nbsp;A CríticaMounjaro natural: descubra como alimentos e fibras ajudam na perda de peso&nbsp;&nbsp;TerraPsyllium: o aliado na perda de peso e na saúde intestinal&nbsp;&nbsp;Diário do Estado",
-      "sources": [
-        {
-          "name": "sampi.net.br",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQkNfRk5VanV6cVA5OEo5WGk3a2RZbmNQVFZqNFBYNkE2T0ZUenpOMVZUeFRBSVhpRW5XUnF6TVVnWHFmSGRYVzMwOTIyb1BjcmpQYUNFMWlud1RBZURqZHFkWmFkdXhVTUxOazJjeTBudzRYMVVfbFU1d1NQb1RxNDZZNzctVV9vekFZQ3NmVExUSExsWmxxalYxSDdKNXVGTFJKVjFpWTVRUXhDR0VjX0NQMXRuS1otM1FIdWF3aFE?oc=5"
         }
       ]
     }
