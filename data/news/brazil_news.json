@@ -1,19 +1,91 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-06-12T20:12:55.786266+00:00",
-  "total_fetched": 86,
-  "unique_count": 86,
-  "health_related_count": 22,
+  "fetched_at": "2026-06-13T03:59:32.855483+00:00",
+  "total_fetched": 83,
+  "unique_count": 82,
+  "health_related_count": 21,
   "news": [
+    {
+      "id": "ceda6fc339db",
+      "title": "Problemas intestinais anos antes do Parkinson: o que a ciência já sabe sobre constipação persistente - Tua Saúde",
+      "published": "2026-06-12T22:05:00+00:00",
+      "summary": "Problemas intestinais anos antes do Parkinson: o que a ciência já sabe sobre constipação persistente&nbsp;&nbsp;Tua Saúde",
+      "sources": [
+        {
+          "name": "Tua Saúde",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZDVKUUdkVHpwMHhVMVpFQ1JIaWhxZEJPdXlmUG8tM0JsYVlpelVNQ3lUUXN4d1pqaWduRkFlSDU4RlZDdnc2ZkJnWG9zUW5mWmNYeHFqVU4xdGMzVzhvSUlDRXpMY3NaYmFVWTYzdEV4djFSLWh1V3NldENWb29zTzFsNXdrcWJzX01Ha1g4S0hJcTdMQ1NBbDRoWTQ0Wm9WWVVmeXZWYUtIVnJmSkpCMms5enlMOEJQSk9vajhpNC03SWh6T1NvYzNKRktKSnk5QUUzR3p2QXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6b262691fb7f",
+      "title": "Paciente com suspeita de ebola é transferido para o GHC, em Porto Alegre - Correio do Povo",
+      "published": "2026-06-12T20:45:12+00:00",
+      "summary": "Paciente com suspeita de ebola é transferido para o GHC, em Porto Alegre&nbsp;&nbsp;Correio do PovoNOTA DE ESCLARECIMENTO&nbsp;&nbsp;Grupo Hospitalar ConceiçãoPaciente com suspeita de ebola é transferido de Novo Hamburgo para Porto Alegre&nbsp;&nbsp;GZHRio Grande do Sul investiga caso suspeito de ebola em idoso&nbsp;&nbsp;UOL NotíciasFiocruz fará análise de caso suspeito de Ebola no RS; paciente testou positivo para malária&nbsp;&nbsp;O Globo",
+      "sources": [
+        {
+          "name": "Correio do Povo",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeDJ6UmVrUUFiQkE5Qy1kbF9PNjF4VWlMUTNhRU5VdkJ1QlRNUm91TnZOWTN0czlhaXFMN3hONEZrRUFtYU9DRDFLQ3Y1dVJFMnh4ZzgwSEtZZlp3aVJRMTBORzVPY1NTV0VySkRabFFFZE5STjRzOWVaUy1iS2wyMnVCNFZ3clE4U0IxdzQyZUFuSGRmWUNUaXo2UF9sTXNKdWxMTWgza0FVTlNTT1Y2bUF5SjBkLUk4OW1yU1RrLWJzcDh3cURCY2hLYUZtS2NtV1JGNDN3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f8d579aa8b2f",
+      "title": "“OPERANTAR XLIV” reforça a pesquisa científica e a presença do Brasil na Antártica - Agência Marinha",
+      "published": "2026-06-12T18:37:39+00:00",
+      "summary": "“OPERANTAR XLIV” reforça a pesquisa científica e a presença do Brasil na Antártica&nbsp;&nbsp;Agência Marinha",
+      "sources": [
+        {
+          "name": "Agência Marinha",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTldKUVNLRVBvb2pmbGJPWEdyQ3prZ0RIVUdoRVlYSGVmQmxsTXM4OWNQdHBoTkE0OWdyaUpLcFNXajFjUmRCUjhkS19ERUlobnZXUnZlZ1VQWDBWblM0S0RLV0JsWXBoUFlvVW9uZXU1dlJkdWU1Y1ZEWURRX0xzVUw5Zm8tRENPd2d3cmk5RlhBMmhpMk14MDhUSDZieDlmaHRNanFPbW5LbXlQUTNiZVVHdnJXendmckFDZ1RiYjNTU1VB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "35a3c6852e0d",
+      "title": "Ação de telemedicina oferta consultas gratuitas em Psicologia, Neurologia e Psiquiatria a partir desta sexta-feira (12) - Folha BV",
+      "published": "2026-06-12T18:24:27+00:00",
+      "summary": "Ação de telemedicina oferta consultas gratuitas em Psicologia, Neurologia e Psiquiatria a partir desta sexta-feira (12)&nbsp;&nbsp;Folha BV",
+      "sources": [
+        {
+          "name": "Folha BV",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxONW1xREd0MUN1YVV3Ymw3U0Q3aGxsUGg3WEhvS1FVdlhpaF96cTZJc2FTTElPQWc4VEhwZV9pdDFPeWVUOGpLY3FpS1phcm5rNGNVTU51ektkLTJqYVhuVEJxckNobElMQzFaMVNodnd2RFRvNGJMcXVfbG5QeTdvMDdiM2x5TkpVbTkzaENPWjZneTN2cWl1VFQ3QmN0MlJJaTA0ejZCUGVjdU5NeTJ6bFZYamdsRTQ1VFdEY1lJVDB2VHlTVXBVMGFmRDZYSGU2ZGxneW1EcHVra1NFY3FfSzNnZHhTeGNWdnVudERESUJEWFcx?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "103ecc4fefe7",
+      "title": "Cientista que desenvolveu vacina contra Covid é acusado de tentar contrabandear vírus de mpox - Folha de S.Paulo",
+      "published": "2026-06-12T16:45:00+00:00",
+      "summary": "Cientista que desenvolveu vacina contra Covid é acusado de tentar contrabandear vírus de mpox&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMU5Qc3l0b3dZeDFhNnNNUW9qSzU3dnNTMmVra21sZmVzeDhFOGtoUUxuVThwZ1hMN1hQbHp4Z1NVcUtOU21ac2dBNUxDUllXd2lVTjVKMVJfdVVwT0JRNGF4V3VVUnZJLXpjVEpFS3R0SVdOZUo5WG1ra3lXYlVEd1E0TGNCOEFIaFVWNnlvZTRzRzIzRF9TYWlpXzBzc0p1NXVtVEJMbDVEdWtSVXFkN3R1cGk2ZUdVeXFUNk1oRnJNU3hNaTNJRkEtRXhaVXMzaFRGM2E2WGpabDFncUFkM2NJQkZmS3QydFE?oc=5"
+        }
+      ]
+    },
     {
       "id": "9d932def6dc2",
       "title": "Lúcia Helena: O exame de sangue que diz se você tem um câncer e onde ele está - UOL",
       "published": "2026-06-12T15:09:09+00:00",
-      "summary": "Lúcia Helena: O exame de sangue que diz se você tem um câncer e onde ele está&nbsp;&nbsp;UOL",
+      "summary": "Lúcia Helena: O exame de sangue que diz se você tem um câncer e onde ele está&nbsp;&nbsp;UOLVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaEJqRHNub2VnUVZGbjFuYmVGa3ZZV2UtR19xZWVlVGRzT0pCYV81c2FRdVlId3htS3ctcDJjUmtIZDRXbjlpX2tldTc0RkloMTRPQ3JXU19HYUhCVkRzMVZPSFpFdVJaM2Jrd2JXd2xjYjBRcG5qRE9fZ1ZicnVoRzRYaUhXZWJrcElnaUZlT0xpeDM5a21xSFFtcHp1akk5aFpMMWdobGhMQW5GeUdwZHBTTUVvY1FlNE9MVzREUExpY0RnN0JNMENR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b8c4f3e7795c",
+      "title": "Pesquisador do INPA, Adalberto Luis Val é primeiro brasileiro a receber a Medalha Le Cren - A Crítica",
+      "published": "2026-06-12T14:39:54+00:00",
+      "summary": "Pesquisador do INPA, Adalberto Luis Val é primeiro brasileiro a receber a Medalha Le Cren&nbsp;&nbsp;A Crítica",
+      "sources": [
+        {
+          "name": "A Crítica",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZUxEVHlMWUpUelhKNFk5bmNFY09HY2k2M0Z5Q3YxQWpVYjlXNFBLOFlSSm1HYUItXy1MVTV6dXl3OGFrUjkzazFvdzdxN3A5blBtVU82ZktHWXZEandITmM0RzBhdGtpcTV1LWU3TmtZeVVpVngzWDRNX28zRk9fNExkOElNVjNwVTlIbVNOajZMUHV5X2JOTUdqVkRwZFlHMy1LX0ZIV19tYjVKYmxraXVMX3BqTnZCby1YOEpNNmhlTjBFaEV6UG1HY9IBywFBVV95cUxQZUxEVHlMWUpUelhKNFk5bmNFY09HY2k2M0Z5Q3YxQWpVYjlXNFBLOFlSSm1HYUItXy1MVTV6dXl3OGFrUjkzazFvdzdxN3A5blBtVU82ZktHWXZEandITmM0RzBhdGtpcTV1LWU3TmtZeVVpVngzWDRNX28zRk9fNExkOElNVjNwVTlIbVNOajZMUHV5X2JOTUdqVkRwZFlHMy1LX0ZIV19tYjVKYmxraXVMX3BqTnZCby1YOEpNNmhlTjBFaEV6UG1HYw?oc=5"
         }
       ]
     },
@@ -26,6 +98,18 @@
         {
           "name": "Observatório da Imprensa",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY3B5Z0pIV2toc18zR29aV2l6WThZSExjTks2WXRHOHkxRDI5dmZtUngxd1UyZ0NpZW1vbTBzNVFlTElMSDlESGdHZG52b3ZzcnhwRHN0OXItZ2g2OUtQQ0w1YzVwT2VfdGstcGlyWk53N09uRGNkRVdoVUtxNXZvNUJoT0ZqaThqbDAxTWNhSC1kYTJwQmVGZ1ZiOUdnSWRic1drMVBlWQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a47f084ad225",
+      "title": "Nutricionistas alertam sobre o 'maxxing': a dieta à base de proteínas e fibras que está em alta nas redes sociais - O Globo",
+      "published": "2026-06-12T13:19:24+00:00",
+      "summary": "Nutricionistas alertam sobre o 'maxxing': a dieta à base de proteínas e fibras que está em alta nas redes sociais&nbsp;&nbsp;O GloboO boom das proteínas: moda ou necessidade?&nbsp;&nbsp;Jornal do BrasilNem tudo o que você ouve sobre proteína é verdade, segundo novo estudo&nbsp;&nbsp;Veja SaúdeConheça 5 riscos ligados ao abuso de proteínas&nbsp;&nbsp;EstadãoPopularização das proteínas gera escassez e impulsiona preços&nbsp;&nbsp;Panorama Farmacêutico",
+      "sources": [
+        {
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOODJBMGZUNWhBTXo4YmZqX245OW8xb0JTQmk5blNLU3hSV3dzd0J6VXpOcUpDeWhOMnFOS1VFeWZUdmNHWEN1RmlEYzZvbVlTMS1WUXR2YmJoVEhZdF9iMU04ZGtxQmJ5Nk9fQVNWQVVWVnFCUDZibkY5MC1YYmM2b0ZWeGtJUlY4U3JLNTludzRzSlZYX08zdkRNVU9XZ2dkRUVhQWRvdlBHSHZkSDgxNFVscnNzMTJXZW5CTGNTNVlTRWFCOE9QaF94anlaX3o0MzJRaTlob3EwRmhFYTBUd0lnb0QweUw4QVBZX0VyQlV2QWlPaGZWeW1R0gGIAkFVX3lxTE9LYXNDZTVqd2piN1BQbVdzVVlzOUhXMkhxeU9rQzA4NGZVME9fYnpWRXVNclNFeEhxTTFNUVVBRVctYTlvU0pHSE1Lc1FYNGR5ZHAtNkFmNTQxcUI3WHViblZTeDFYYjk0YnJIa2tNZzBYbWhVNHBqd0ZOTDdPMEVlci1INVZvcXd6YXVHbUJLRjZyajhxUm4wSUttTkVkUVhLMTRFTE5FeUpNck41dEdFNXZ0VU5mTXZfZm4wU2x2TFNDSjJpMjJYdXJqN2VaeV9xQ1Jpc1d5b19IYXJTbmtzZzU5WXE4by0yQXF5dU5NYkdfbmhUbzZPSlVBWjBSZjdYejQ1ckIyaA?oc=5"
         }
       ]
     },
@@ -57,7 +141,7 @@
       "id": "83e88d52e0f4",
       "title": "Tamanho não é documento: quais espécies de animais lideram mortes no mundo? - UOL Notícias",
       "published": "2026-06-12T11:42:58+00:00",
-      "summary": "Tamanho não é documento: quais espécies de animais lideram mortes no mundo?&nbsp;&nbsp;UOL NotíciasOs 7 animais mais mortais do planeta que desafiam a biologia com toxinas letais e ainda escondem segredos químicos que a medicina tenta decifrar&nbsp;&nbsp;Brasil 247O mundo tem um problema de mosquitos. Veja como os cientistas estão tentando resolver isso&nbsp;&nbsp;cinemaecerveja.com.brNem tubarão, nem leão: os 21 bichos que mais matam humanos estão aí perto de você&nbsp;&nbsp;Terra",
+      "summary": "Tamanho não é documento: quais espécies de animais lideram mortes no mundo?&nbsp;&nbsp;UOL NotíciasOs 7 animais mais mortais do planeta que desafiam a biologia com toxinas letais e ainda escondem segredos químicos que a medicina tenta decifrar&nbsp;&nbsp;Brasil 247Nem tubarão, nem leão: os 21 bichos que mais matam humanos estão aí perto de você&nbsp;&nbsp;Terra",
       "sources": [
         {
           "name": "UOL Notícias",
@@ -66,14 +150,26 @@
       ]
     },
     {
-      "id": "47b5bacd1ef8",
-      "title": "Rio Grande do Sul investiga caso suspeito de ebola em idoso - UOL Notícias",
-      "published": "2026-06-12T11:30:09+00:00",
-      "summary": "Rio Grande do Sul investiga caso suspeito de ebola em idoso&nbsp;&nbsp;UOL NotíciasSaúde monitora contatos de caso suspeito de Ebola no RS&nbsp;&nbsp;G1Caso suspeito de ebola no RS: entenda como funciona o protocolo de atendimento&nbsp;&nbsp;Correio do PovoCom caso suspeito em investigação no RS, o que se sabe sobre o surto de ebola no mundo e os riscos para o Brasil&nbsp;&nbsp;GZHNotícias - Rio Grande do Sul - Nova onda de frio: RS terá mínimas abaixo de zero na próxima semana&nbsp;&nbsp;PORTAL",
+      "id": "a7adbe7a2ba3",
+      "title": "A descoberta de um único osso levou cientistas a identificar um predador “estranho” perdido há 120 milhões de anos - Revista Oeste",
+      "published": "2026-06-12T10:05:00+00:00",
+      "summary": "A descoberta de um único osso levou cientistas a identificar um predador “estranho” perdido há 120 milhões de anos&nbsp;&nbsp;Revista Oeste",
       "sources": [
         {
-          "name": "UOL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcDZQOFpWWjRUbko3WWtTUG9rSWtEeFAxa19tX3FzMGExWUVCSlRTa3dUX2drWkR5YVNnWXg3V09sSjlxelBGV1hObThOSTQzS205SUhCWHNxdFQ5YzBjMno1MGNka0NqRnVPektpMV9Ea3QwYmFQYlU1akREUzJLRjhEdnJfWTA1M0FEOE9ob3BhMjlwNlFtRTNqSHNXdzlPamltTDUxNFF2S3hxcncySWNFM0xJWWNONktKdzcxRlBEM2h3bi1aeWNfaU0ycWM?oc=5"
+          "name": "Revista Oeste",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPS1luTEhLdHRFeWhLYXk5bkZwU2pURFR0ZnN3eVg1QVVFVE5DQUs4dERDZ3NGQnJBcl85Tm5FeDN2ZktpTk9hX3RnODNNWFR6TGR5WUhKd1lqWVR2Rm5SZWN3ZlF3NTM0R3NHbGozbTllSGowQ2FaZW9oem90MWU2MU4xTW05UVVhb2FUMG9qQ0xuR29XWmlNbE0wVU10R2pJVXpkSHVmV3Q0RzBDMG5Helh5WE9WbjZQakI0MWh4MWI1cXJ1dTFqckZnU3ctVTUzWktocDdYbzJFY01TNndaQVctNWJLNE9pUldmMVFHaHItdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "99b933b1aead",
+      "title": "Vacina mais potente contra a pneumonia já está disponível na rede pública - Tribuna Online",
+      "published": "2026-06-12T08:00:00+00:00",
+      "summary": "Vacina mais potente contra a pneumonia já está disponível na rede pública&nbsp;&nbsp;Tribuna OnlineNova vacina pneumocócica 20 começa a ser disponibilizada no SUS para crianças — Ministério da Saúde&nbsp;&nbsp;GOV.BRVacinação com a Pneumo-20 em crianças tem início no Estado&nbsp;&nbsp;Século DiárioRio Grande do Sul iniciará em julho a distribuição de nova vacina que protege contra pneumonia e meningite&nbsp;&nbsp;PORTAL FARRAPONova vacina do SUS contra doenças graves chega em SC&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "Tribuna Online",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdmhJVzRBSE5vRFRMTTVaRUFHODd4RGxLX29QWHZwTURmZFE2VzJpVmtXUDlmNUU0c2FENEc3NkUxcHlDZDA5NjF4MHlZY0FKa1gyU1VhZlh6MXBhdG13S0RRb0tmSGRGSEpsbi16X3h2WHUwd1FwNkNJQXVRdVFRYmJ6MXN1LUV3V3hkSkh4Z3U1N043bjg2UlVzNk5WNVU2U081bklXczVZYWhqTVJPQnlweWVIZ9IBvgFBVV95cUxOUkhBbHh5cmF3VUc2NXg1N3BEUnRReUZpWGNfQ0F1V2tIVGprRlVaY2pJX2RleWlLbUdRb3ExSWRycFFEZnZ3YkIyTVZwM0VXQWJWTW1vMkRmT0xTcml0X3BMRFVyZVR3aUdvUmVsNGU3UUVIRmRlZXZkVF9VVXhNRU51SGRJeG5xcXU3Z1BxRnBuczI4ck9qOTg1a29kNHVOaG9wanlCTk5DdnVCN0FqeU5SQkYzd1FDZFVtOXhR?oc=5"
         }
       ]
     },
@@ -81,7 +177,7 @@
       "id": "0a22013a086e",
       "title": "A ciência que aprovou a vacina da dengue é a mesma que agora a protege - O Globo",
       "published": "2026-06-12T07:30:11+00:00",
-      "summary": "A ciência que aprovou a vacina da dengue é a mesma que agora a protege&nbsp;&nbsp;O GloboMinistério da Saúde descontinua temporariamente estratégia atual de vacinação do Butantan contra dengue&nbsp;&nbsp;GOV.BRSaúde/ Princípio da precaução&nbsp;&nbsp;CartaCapitalApós suspensão, Padilha fala em \"tranquilizar pessoas que tomaram vacina\"&nbsp;&nbsp;CNN BrasilVacina do Butantan contra a dengue não está em fase ‘experimental’, diferentemente do que diz vídeo&nbsp;&nbsp;Estadão",
+      "summary": "A ciência que aprovou a vacina da dengue é a mesma que agora a protege&nbsp;&nbsp;O GloboSaúde/ Princípio da precaução&nbsp;&nbsp;CartaCapitalVacina do Butantan contra a dengue não está em fase ‘experimental’, diferentemente do que diz vídeo&nbsp;&nbsp;EstadãoSesa volta atrás e diz que 1 dos 3 casos investigados de reação grave à vacina da dengue do Butantan é do CE&nbsp;&nbsp;Diário do NordesteVacina da dengue é segura; Sesau alerta para fake news – CGNotícias&nbsp;&nbsp;campogrande.ms.gov.br",
       "sources": [
         {
           "name": "O Globo",
@@ -126,38 +222,14 @@
       ]
     },
     {
-      "id": "111b8210268b",
-      "title": "InfoGripe: cresce número de hospitalizações por VSR e gripe - Agência Brasil",
-      "published": "2026-06-11T16:53:00+00:00",
-      "summary": "InfoGripe: cresce número de hospitalizações por VSR e gripe&nbsp;&nbsp;Agência BrasilVeja mais manchetes e perspectivas no Google Notícias",
+      "id": "315daa4e094e",
+      "title": "Pesquisas feitas na rede pública do Amapá são apresentadas em bares: ‘ciência mais acessível’ - G1",
+      "published": "2026-06-11T16:05:55+00:00",
+      "summary": "Pesquisas feitas na rede pública do Amapá são apresentadas em bares: ‘ciência mais acessível’&nbsp;&nbsp;G1",
       "sources": [
         {
-          "name": "Agência Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOckJtRGc2SFFEWFVyRi12Vl9KeXpjdTVaVVM3c1VtaUZFWjNNNWtQU3lGSXZzU3AweU9XanNkb204Z0kxOWtlTFExNm9vNUsxZ3VrMUF3TGstM1B4bjdfWHBMTFdfb1ludkpDa0lkYTM5d01xTEVGT3Exb2FHZmV3NXMzOWV2WUtpRy1GN2dPU2NoMTUyTng2QzM2RWlQeDh1QnVEZ0EySEw3OG10N3kzNFlPZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "40ab5f46aa72",
-      "title": "Pesquisadores russos encontraram em uma cratera vulcânica de Kamchatka um mineral inédito com estrutura cristalina que nunca havia sido observada em laboratório, e a petrovita possui uma arquitetura molecular que cientistas da área de baterias quere - CPG Click Petróleo e Gás",
-      "published": "2026-06-11T16:09:00+00:00",
-      "summary": "Pesquisadores russos encontraram em uma cratera vulcânica de Kamchatka um mineral inédito com estrutura cristalina que nunca havia sido observada em laboratório, e a petrovita possui uma arquitetura molecular que cientistas da área de baterias quere&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZDZZMlI5U2NtM1hpeWViNU5BcjI3Z3NGVVB6UVJLcXhrYW0yZ3RtX0FiS3IxNWRudzFOMEpqOW8taG05MnZudms3YmRFa2JfaUlIeVRGLVF5Tms4NlR5UWl6Sk1lamJBUHVuSGg2UkZNeWEzcjRKVzJVN3pVRG1wc2UzWElPSkhhS3dOLV9sZXk3V3JJV0FPZE9qMFdHUXM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2f5786553961",
-      "title": "Os problemas intestinais podem aparecer anos antes do Parkinson: o que a ciência já sabe - Tua Saúde",
-      "published": "2026-06-11T12:37:22+00:00",
-      "summary": "Os problemas intestinais podem aparecer anos antes do Parkinson: o que a ciência já sabe&nbsp;&nbsp;Tua Saúde",
-      "sources": [
-        {
-          "name": "Tua Saúde",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaGsyR2Jhd1Q0aU5WUTBLSURhSGstZnlVaXNtTTZmSUZXRm5PUDY3SW56c2g3bzc0dkVzaVQwT191U1pCYlg0b25RWXo2dldSZjR5WXVrYTVmWmlZTjZqNFpHbVpJVFZ2aElQOHpTY2JnV3NjSjhOZXVTN0tscXZLcGtaT1lyNWVGR0pORGdXZl83WkhYdEJuWFNub1lGaG0xdmpPd2t3dVpLYlBiZllnalBSTFBRUVJ4SXU5WHJUYlFydWpUdUV0Yg?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbklHRUwzVzRGOE1wd1gtNE1RTWE1WlhySzFEN3VQQ09abENzal9IcXNBc0ljSVR0NTA4U2M4MjJjT2FJRDZjMXQ4V3BNZG5PZzJoMEo0dm9fOVllNGZUNlNuVThBUEdWaFpQUDF6RUtjdjRza1pnclU4NlBtSkNGQ0tjZEdvYWtNUTQ5NVVkTndkaXJJUkRMb2FTQjk5cTFsOUppSGU1eHhCMzhNQ2NQdVRSUDZ4MmZNd21JWG84THBCaGN5SXVrR3BISUdtZVRqU041V0dsTDJGdFozSFHSAewBQVVfeXFMUDNoUV91VVlCZ21qLXFHVzk5ZkUteXB3YUsxVVE3Z1liajBTQTJvSldiZnBLOW0ya1ZsdE1JM2ZSUVV5UE1KRWtMTTdjeE1RQXF5UFppQkdweGlScFJhVHltczcyQ0czQTJCME90QmVZdDhsTEZJUi1LQWNQb0M2bDJ2R3VTQWlzQVh3UElnZ0JoMW5WU0hjb3Y3VEFYMlpCb0htMVZxY0xuV1hNRUpwSnRWRWIzNUktaFlaMENRZ0VudHJjb3VLT2lxZ1VGSWFYTUttQjh5S1NERUhTcldkVUNnZU9iN3JPOEtaR1o?oc=5"
         }
       ]
     },
@@ -165,47 +237,11 @@
       "id": "7e322f3557d9",
       "title": "Como torcer pelo Brasil na Copa do Mundo sem colocar o coração em risco? - UOL",
       "published": "2026-06-11T12:11:11+00:00",
-      "summary": "Como torcer pelo Brasil na Copa do Mundo sem colocar o coração em risco?&nbsp;&nbsp;UOLCopa do Mundo 2026: como os jogos podem afetar a saúde mental e do coração dos torcedores&nbsp;&nbsp;O GloboEspecialista explica o que acontece no organismo durante uma partida decisiva&nbsp;&nbsp;FaxAjuRisco de infarto aumenta na Copa: entenda por que e como se proteger&nbsp;&nbsp;Veja SaúdeExcesso de sal e álcool durante jogos pode aumentar risco de emergências cardiovasculares&nbsp;&nbsp;Folha BV",
+      "summary": "Como torcer pelo Brasil na Copa do Mundo sem colocar o coração em risco?&nbsp;&nbsp;UOLCopa do Mundo 2026: como os jogos podem afetar a saúde mental e do coração dos torcedores&nbsp;&nbsp;O GloboRisco de infarto aumenta na Copa: entenda por que e como se proteger&nbsp;&nbsp;Veja SaúdeCoração de torcedor sofre ? Especialista explica o que acontece no organismo durante uma partida&nbsp;&nbsp;A Crítica'Ameaça real': o que acontece no cérebro durante um gol em Copa do Mundo? Psicóloga explica!&nbsp;",
       "sources": [
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOemV6UzZDeGJBUlhxUTlCZDZQYVM5NXRIQWJRQ2pjQm03UDRzUHdyVUNWLTdRWV9FM2V2RDhQaUhoRDRoVlJJYUJVV1JoTU5TTElCNUpHZHB4c2hDMnFIMEtHZE14ZEVqNWJUWmNGYldIUExfdERMNHliSkZRLXRHYzh1MUd3VEM3dEU3cGI4Y2pzNXlWcE1WTkhoWTZrQ3B6OWhUMzNhQl9kNkxzMWg5U3JmV29naDQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1147a4c84f88",
-      "title": "Cidades do ES iniciam vacinação com a Pneumo-20; veja público-alvo - A Gazeta",
-      "published": "2026-06-11T12:02:00+00:00",
-      "summary": "Cidades do ES iniciam vacinação com a Pneumo-20; veja público-alvo&nbsp;&nbsp;A GazetaNova vacina pneumocócica 20 começa a ser disponibilizada no SUS para crianças — Ministério da Saúde&nbsp;&nbsp;GOV.BRVacinação com a Pneumo-20 em crianças tem início no Estado&nbsp;&nbsp;Século DiárioNova vacina do SUS contra doenças graves chega em SC&nbsp;&nbsp;G1Rio Grande do Sul iniciará em julho a distribuição de nova vacina que protege contra pneumonia e meningite&nbsp;&nbsp;PORTAL FARRAPO",
-      "sources": [
-        {
-          "name": "A Gazeta",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeFZtWEdUZ2hPNkpBdldBcXJuajJOVlpoVElUMnBBVVJDdkNKVnNkVlkwSlNrMEg1cXB4dWphajE3eWZCeXFsOFlVSndIbG9PY0hHNWNsMVdENzEzOGU5MzNCdjhXZWFBdmdxVHZwSWd2blItU1lpeDBtU3dsaGV0TkZkUlpGcHNDSXpnbml2U3FVVWNGZHpzT2RKTkhzeDg3QUNocHR1UmVlLWFRNlE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "72a0b552492b",
-      "title": "Efeito de nova caneta para perder peso é semelhante à bariátrica - Tribuna Online",
-      "published": "2026-06-11T09:00:00+00:00",
-      "summary": "Efeito de nova caneta para perder peso é semelhante à bariátrica&nbsp;&nbsp;Tribuna OnlineSurvodutida reduz gordura no fígado em quase 60% dos pacientes e marca virada na disputa das canetas para obesidade&nbsp;&nbsp;G1Emagrecer sem sacrificar os músculos: as promessas de uma nova caneta em fase final de estudos&nbsp;&nbsp;VEJAEli Lilly divulga dados de fase 3 do retatrutide, novo medicamento para perda de peso&nbsp;&nbsp;Investing.com Brasil - Finanças, Câmbio e InvestimentosNovo remédio antiob",
-      "sources": [
-        {
-          "name": "Tribuna Online",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZFhEa0RCZDNWa252VzVOMl9VTl9adFRNY1NZSURjamhMYTJyNlN4OHNYTlV3bEhsMHRDV1JzVzlRT29YZGdrYnZ0LVdEQTltYXd2MFFrZFZMUFBrQklyZFhLeWlkRU5QWkFzTkVJNU5sYTEzeWZydm9oOVRjaGpwUUtQS3AxcEdqVXFNTkJGQWZrdTZTYUJEXzRhNWRPNnplaGtzTTlNR085QdIBsgFBVV95cUxOTUcxai05U3BrNnZjd1RIMVlnbUprYkJXSG9ObU1vck9FcncxZkpfbU9ZNFlKUDF1VVNCWnNwa1NwemRISWxyaVVGcU5ReG9mSEpLMmJ3Y0w5dEdLdTJTYlZnVGlqcFluYl9vQWtkdVEtMmZMUUlwLVlrMjNLTjVOUVdmTGxZbXRKU216c1JTMXlWb29HUExKcld4U29pYWZqa20tWS0wcXM4WEdXWHdqclpR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4dfce0d7519e",
-      "title": "5 benefícios que a corrida traz para que tem mais de 40 anos - UOL",
-      "published": "2026-06-11T08:30:00+00:00",
-      "summary": "5 benefícios que a corrida traz para que tem mais de 40 anos&nbsp;&nbsp;UOLO que ninguém te conta sobre começar a correr depois dos 30 anos&nbsp;&nbsp;MetrópolesFotos: Os especialistas concordam: 'Correr devagar é um excelente exercício depois dos 40 anos, mas caminhar na zona 2 é mais simples, eficiente e benéfico para a saúde'&nbsp;&nbsp;purepeople.com.brCorrida após os 40 anos ajuda a fortalecer o corpo e preservar a saúde&nbsp;&nbsp;fatoamazonico.com.br",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaV95Zndqek1HZGJTVTFONnZKR0llcm5LTnlkbk1pRmxxZTZ0Y1JXRnp1NFFaNmZ2LVlHeXoxZWdOTEd6eGlhU0MtYXpyTW1xVDBxdGF1UmhKWWpQYzdzQzhGS0xMU1RMbV9FMllLR3pocFJMeUJTVUphN05rZjBkWVQ4TkxFNC14dkYwTHgwRnR1b19Nblhfa3Jrd01XQU1ESkxraEJiN05MVGtqTnpjMDFIa2pzRV9Qc2d5NUwwQjNQMXdXTVBCQjVyVVpaUklsSXc?oc=5"
         }
       ]
     },
@@ -218,54 +254,6 @@
         {
           "name": "O Globo",
           "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNODJuVnViWWJ0RUExMXI0dFpnblNpSzZkaTFTSWdDY3A0QmdfeW54bWVBMkhmR2VORHN1bnZtUjJITTJ2T1puOGhLbGY0ZHlOVll5VlRLRWt3TFBRTlVPVXE5Yk1LbEVONGs5SENpcHZuSHVpdkx1VlBzZkFwMWctcUNTMEhaWHRDMU5xcjJwRmF0ajBsRTJSY2JRVE9RdmRSWHNlaHJXV0F4cFNKY1VoQ3k5emdrOUtldXR4UEJvenRsUmVYY2psWDBaSGo4cDVaSlljUWRhZzFZYUw2c2lwRlQ3clpkQ1FqTWZ1VW9BVTN3d3k4MHNTQVdoN0tsN2tmWjhMWFNVNWtLS244ZzJYNy1YVU9sYXE5ak5xRmln0gGsAkFVX3lxTE5sMlQ4aVVxOTZTaGxMcWVYSVpTQzNtRWpMNlpWRG1OWGVDQ0d4bkc3T0ZLelJqVEJfNWdQY19hUXp6V0M3Y2tRZHpnTFM3VE9uZEp0a2h5YXJGeWZZdWVvVHFtbzBDOUh0MXNwQ2NRMk55VmM0NkRYNXBuQlhrNVlHcER0XzR1RUl1WFpubkZweWY1VDdrcmhWUVlFNWhpUmVoWDdLbm9lVE4zUUxxMTFtd0Y5M1pFbjN2MDdveVU2U01ENDFncVljNnpiSTMza3VqSkdDYW9adVkwMEU4VksxenY1cFlEZ21kQWVCY3JvbGcwT3hNRzhuaEIzR2lnQzhuNTlNSmYzVG9neEE0aktYUHl3XzJBSjhWbGY3MVNrS0hSS2V1YVVfZHNWYQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6a2e15a3c53e",
-      "title": "Alzheimer: saiba o que uma pessoa costuma esquecer primeiro antes do diagnóstico - Rádio Itatiaia",
-      "published": "2026-06-11T01:00:11+00:00",
-      "summary": "Alzheimer: saiba o que uma pessoa costuma esquecer primeiro antes do diagnóstico&nbsp;&nbsp;Rádio Itatiaia",
-      "sources": [
-        {
-          "name": "Rádio Itatiaia",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVDNodnZBZUpHVVBEMWlVTzIwQVJyWEdtRXA5eFlNTmZuMThwbEtfUU5kT2dTV3ZybXBKZjd5eHFRdU1RQzVRNlB0X2V0SkpJTXk1cG5jeUp1OTlPNWx2OE1tSFpFT2F4WU0zM25HY2lYVUpBSmlGcEVock9iMmExcE1SdGQ4Z1JtYkJBQXYwS1VnSDFWWWRVYWV1ZDZ2WGFqQmlQYm1RWmJzUElqd1V2bHJWNDdRUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5d62b9cad06f",
-      "title": "Três astronautas decolam rumo à estação espacial chinesa Tiangong e pela primeira vez um deles vai ficar um ano inteiro em órbita em missão que leva a primeira astronauta de Hong Kong e prepara o pouso tripulado na Lua até 2030 - CPG Click Petróleo e Gás",
-      "published": "2026-06-10T23:09:00+00:00",
-      "summary": "Três astronautas decolam rumo à estação espacial chinesa Tiangong e pela primeira vez um deles vai ficar um ano inteiro em órbita em missão que leva a primeira astronauta de Hong Kong e prepara o pouso tripulado na Lua até 2030&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNcU52cURDbWJQa0pQR0F5bWlLZ3BLbTFpWmtoMm9xVmdzdlFFbGpiZjlCYzVZeEdDSHN2b3B0N2tNUXZ1LXVHVTctR1E5RkhRQ2ZhTl9USUhBUThOYWl3Sk1zM0NlcTc0RFA5Nk8xODNVWDFGMXNzeXpVOTMzQjZueFJrZlFDSzdTRU92aEhiNFpobHpVMTZGSzhkQVBINHFWcU41Y1JZOV9zYXJqT0w2ZWt5dGVUY3p0elg4S0xCS2dhX1U2S3pmY3ROZG9nTUFNSGNDRHlpVk9vTnhyU21qc1lSbGVERjBBYTFHbmFpalBTdTBlZllCVW1EeTNLdFVFQWdhMVA4OE9wZG9PR3owb244bGdNcHFROG5fZ2FiNGdEbHd4Tnc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "52ad2a396d04",
-      "title": "O erro de questionar judicialmente pesquisa Atlas/Bloomberg - Jovem Pan",
-      "published": "2026-06-10T22:34:22+00:00",
-      "summary": "O erro de questionar judicialmente pesquisa Atlas/Bloomberg&nbsp;&nbsp;Jovem Pan",
-      "sources": [
-        {
-          "name": "Jovem Pan",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM2lDLXBvV29ra0M3M3JoVWw3b3IxYXZlWnRhdGY2YnNFX283QWFwY1FBYXYwcXdfY1NUekI2eXV3QXJ3UnNwZEhNbjlFMURqVjA1c2ZyYmdCeEhmbU9zLVEwckw0dDBKMVNfN2VzcDRfdkhUNS1INF83ZXNZdHRnY2hzMWJvUmhRaWdUZFZ1X3VWUlJod3lMM3dMVzZTVlJQVm5Hbzl5QlpVUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7bb91c555997",
-      "title": "Câncer de pâncreas: por que a doença quase sempre é descoberta tarde e quais sinais não ignorar - Portal Drauzio Varella",
-      "published": "2026-06-10T19:01:37+00:00",
-      "summary": "Câncer de pâncreas: por que a doença quase sempre é descoberta tarde e quais sinais não ignorar&nbsp;&nbsp;Portal Drauzio Varella",
-      "sources": [
-        {
-          "name": "Portal Drauzio Varella",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMnBoUHc1c3FOeWRXaXo4MXRzcF9ubkFEaUZfMU84X2FwWnI5bWpmSlhWWm9CdVhPaFVvNnllaVV3NjNBRXhYQmNTY19fSWpYUE9KdmxzTEVOUlR6UFJsSnF1ZXBMQ2ZWU3JpRktzQTNHTUI4UnBteEVUUjJXenJXbTdFUHJRR3lfNW5kTGlzLTZCT3V3Zi1DWkg4ZG1XWU9Gb0dUTkJ5dFRZQVJSVDRITERzWlF2ZjNNOXd4OElYSjF0dDdhZDlpTk5lUTNoZVNXa3RqaTRn?oc=5"
         }
       ]
     }
