@@ -1,7 +1,87 @@
 {
-  "generated": "2026-06-13T09:19:16.520812+00:00",
-  "count": 32,
+  "generated": "2026-06-13T14:03:52.867344+00:00",
+  "count": 36,
   "news": [
+    {
+      "id": "f584e44a03fa",
+      "title": "Escorpião gigante maior que cachorro: o que sabemos da descoberta - CNN Brasil",
+      "published": "2026-06-13T06:37:18+00:00",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZXZwRm9pSlFkTUg3Q2VTaDA1ZVZHenJGVmxXYlpVaTc4N29SRGQyTzRsRGpmaE5hVHNTY0xmZDIzSXhfNHlOUTdveTJGVmJQdUJWS2pNZHBQM3Fudl8xOHFUTE0wS01qZnJXNEo0SVRobkRVR3hKd0licHlhM094cTBPWV9lTm9vUUUyMElDYVJTSnpoV040ZzBkOTh2RzJHS3ZqYQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
+      "id": "ee2653eec781",
+      "title": "De uma foto feita por acaso à descoberta científica: brasileiros ajudam a encontrar espécies inéditas - O Globo",
+      "published": "2026-06-13T06:30:17+00:00",
+      "sources": [
+        {
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNkJBdkhaU3daeGhBVFhEa0hFTXFNanNKcDA5aWJzLU1IamlhdHhkQ3h2ckJKQUsyQ29HY0VIVnEtZ2ZwVkVUVk95aGx4QlFjLUVYanBaUm9FS3BlOUstTTF4OXE3cThiSURHUVB5OVpxQzctLUlNZzl5MEpscnNGTlhWQnduaHh0UWNLc0pzcnNySHFXZTFtc0xNTUZDV0x3di1oRS1ocThBSGNSblJscDhhUnc3SW1rcmE1eTRudUFDclpSS0QwSTdpZzhPTktwOWRBVG5QN0JBOE5KTG5QRWZORi1pVHBEaG01dmVB0gH8AUFVX3lxTE9SZUVheUpRcWQxR1VrS2VPaHlSVk1xTlJwUlJiS05Bc2ZqbTBKSWtQV0pEcUF3VnMtV1ZMX0lLakNOTHZQZ3hSNnU4VzNXekVQelVUNVFPc3duUk54RDJISElRWURSakQ0Qjd5Rkp0Q3ZoMDUyZHlBaFRzN01RTUU3RllIeG03QWlvQTZDX2tEaHAwdWxPaUxQbi1Za3BqMWJNVjBYUFhHSzdQRllXTnhnZ0o3a1dnR01qcXpRNFRXYzg3cUNieU1lYlpremhzaXJuS1hINXhiUzI4UDJ1bnVQYTliMExiVWg1NDVNOGRuVm9mWUpUT0tKdm5mVw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
+      "id": "9412818303a3",
+      "title": "Cientistas encontram forma de regenerar articulações desgastadas",
+      "published": "2026-06-13T03:32:41+00:00",
+      "sources": [
+        {
+          "name": "R7",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZWdIY2Y1MmcyWGFVRlF6d0Nod1RKT2JfUUxxRUl4MDVxTHc0bGVhNk9HbExPcVQxUXpmMlhNMDBoeTg0RVBTWjRnTVI2TlZXUDA3NENidlJSeXVkMFdQSHdtOFcyZGVwdEdFdTdoa2pNM0hiWXZvcmdRVzN1dW9uWVlmNjkwRE5lTUtIT2xJUFpRQ0VNenQ5ZExEbDhwWE1aZW1kYjNJM0s1TXRwWTlvSw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "tadalafil",
+          "keyword": "TADA",
+          "name": "TADALAFIL",
+          "url": "/drugs/tadalafil/"
+        }
+      ]
+    },
+    {
+      "id": "1caf93d062bb",
+      "title": "São Paulo descarta segundo caso suspeito de ebola após exames laboratoriais; paciente segue internada",
+      "published": "2026-06-12T22:51:34+00:00",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNEI0RV9OUHRNcEZIU0lJQzR0Nm43SEhHLVRGdUg2YmN1eW1NMlFfcVM1TnNVLTZFbGl2cmFrUGkwU2xMX0oydDBTcVEycjFqWEgwamo0RFNuNUswZDh6NzVGOUx2SGtZSlRCdXRpVU5fNjVtdG9qZGJQWXg2bVZ3VDhFOTVkRTNvVF9TbHBwbzFIb2Vqd3M3MndGMWhHMFhPNnJmczJUT01qTHlnUmFSQVBHaXVybjZQclVYZnlKWE9Rb2VydlNNY2F1N0dzRy1kZVpqQVV1SGVGQ1lIcGRlVkhGeE1mblAtdzRGNThubDfSAf8BQVVfeXFMTlh2T3BBa3NKN0Ruek9MeWFKZnRBMXM5TGdTNGxFVXRJNFlkbnhMQVBQX2NScmxiUk5YZUttRG1QNTItNEs0WGlfV0VLd2liQXNoeF9xaVFkeWRjZThwWFRTVWJjcXozeDlESm9iRktBbHVQMmh1Tll3c2JMbUU4NGVDY2RsTEl1SXY2eTM4TVdQMC1yQzk4R2tZbF9ZQVIwRDFDenRxUTBZeFJ0WjZsM1d4ODFCRDlQc0xONFgtb3FOcV9hQmpEaDYtZUcyaktiakJvQU1OV2VhY2NjenU2X3ZmTGZ6TkpyaVZqT2hQWFZkbzhqSWtXOEhUQktuWW5n?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
     {
       "id": "7f2daa425e52",
       "title": "Exames, teste físico e esteira da Nasa: os bastidores da recuperação de Neymar na seleção - R7 Esportes",
@@ -19,6 +99,26 @@
           "keyword": "DORE",
           "name": "ETODOLACO",
           "url": "/drugs/etodolaco/"
+        }
+      ]
+    },
+    {
+      "id": "0f2accd4ef63",
+      "title": "450 \"especialistas\" preveem como estará o mundo em 2036 e as previsões são alarmantes - Olhar Digital",
+      "published": "2026-06-12T21:00:00+00:00",
+      "sources": [
+        {
+          "name": "Olhar Digital",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOR3YwTnQ5TG8tWXlxTUNnbTFxZ3Y2QmR4LVo0blFMWTdCNVFmYjdvZUs4ZFZoaXFjaXRoelVJRDlYTGZwa3hYdHF2Q3dxLWY3UVptekJKMDI3cGlkSE00a3VNUDNiLWszU1ZUQk53RDhtSEhtWWxENXd4SndDYm1RREg1VmMzSExrQllxY1ptRVlucmZvdlo5NUpvdTF0SDJRbEQ2OXJsNU13MmVuNFA1ME5ZSmUyYXBzMXJORU1QTUtqeHhGRXRUX0JnR1JGVFdmVUk5ZGtlQQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "tadalafil",
+          "keyword": "CIALIS",
+          "name": "TADALAFIL",
+          "url": "/drugs/tadalafil/"
         }
       ]
     },
@@ -482,26 +582,6 @@
       ]
     },
     {
-      "id": "46a6d575d101",
-      "title": "Estudo revela que rede subterrânea de fungos chega a 110 quatrilhões de kms - CNN Brasil",
-      "published": "2026-06-12T14:50:24+00:00",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWXdKV0d1TDh6bVpUSjNlTEdHM0h2QUVON0h6QUhvQlRNWEpjcHpaY1ZCR1dkN3hOb0diNUJwUDVYcmthUjJDOEZfcmMxZnRMRjUyRFVBci15aXdHaldxNGVkQmlSMGE5OG8xaXNtV184aGt0cV9rZWRqUWpoR2QzYldBeWN2ZFBOTmRBSHlVWmQ4U1NEX3E3aEZOWVZ3R1U0YlZJcHFZZ09kWFFOMk9JRlhKdw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
       "id": "b8c4f3e7795c",
       "title": "Pesquisador do INPA, Adalberto Luis Val é primeiro brasileiro a receber a Medalha Le Cren - A Crítica",
       "published": "2026-06-12T14:39:54+00:00",
@@ -581,24 +661,10 @@
         },
         {
           "type": "drug",
-          "slug": "praziquantel",
-          "keyword": "FAR",
-          "name": "Praziquantel",
-          "url": "/drugs/praziquantel/"
-        },
-        {
-          "type": "drug",
           "slug": "silodosina",
           "keyword": "SIL",
           "name": "SILODOSINA",
           "url": "/drugs/silodosina/"
-        },
-        {
-          "type": "drug",
-          "slug": "zidovudina",
-          "keyword": "FAR",
-          "name": "ZIDOVUDINA",
-          "url": "/drugs/zidovudina/"
         }
       ]
     },
@@ -666,6 +732,33 @@
           "keyword": "TAM",
           "name": "LEVETIRACETAM",
           "url": "/drugs/levetiracetam/"
+        }
+      ]
+    },
+    {
+      "id": "c7a657944a20",
+      "title": "Castigo físico em crianças causa agressividade e prejudica comportamento - CNN Brasil",
+      "published": "2026-06-12T12:23:54+00:00",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWGsxcThST3BDbTVVM2tSelcxMTRzWlA1aU1PSFlfMGs5aHlhQnNveGUzQjhDU2d1UGN6RW5JLTN3LVJONTE5NHNPUUo2cnExNWhZclRHMzNuejh5bGZsY3Z2LUs2UV9YeG84dVVwS01FOGlPOHlaX1ZCYnVja0lRRmlqYlV5S0JzNWxiY3RmcVFMNzdnNHNJM1ZyVS1DRENEUHhHQjhYYVdjb2FFMmlXNw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "levetiracetam",
+          "keyword": "TAM",
+          "name": "LEVETIRACETAM",
+          "url": "/drugs/levetiracetam/"
+        },
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
         }
       ]
     },
@@ -838,6 +931,26 @@
       ]
     },
     {
+      "id": "bca6d0e63414",
+      "title": "A psicologia descobriu por que pessoas entre 55 e 75 anos lidam melhor com o silêncio em comparação com gerações mais novas - O Antagonista",
+      "published": "2026-06-12T07:33:00+00:00",
+      "sources": [
+        {
+          "name": "O Antagonista",
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPUmRULWdFV21HTDdiaTVTbU84bzhVUzlRNnNhNDVzXzVwTVRpN21mdEFtc0pmQlJuLWp4dEYtV3EwcHdWMU5YZ1Z4U1RVOTAwNkZMbk5Vd0g3d0FNek5RNkpVRGFDN0doU0g2YWdvMEtRQ3ZmcEdWWlpwQmtFSmVyS19KYnVzckRhRXQyUUsyZkdFR0pDYVYzYkpEem1UR3g0Zm5lVlNVWElSTzV2RWxuQjUxaUFiSm9RMXNiaWpKSzFiY3ZNeWVmUHR5c0hXWWZqTmdwRmpWeDMweWpCdDRxc1pwUWFmT0ZEZ2xGREhZbExrNWx3eDBBV1VYeU1YQnVZc2V5dw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
       "id": "474d45131eab",
       "title": "Cientistas desvendam segredo do mecanismo de fechamento de planta carnívora - CNN Brasil",
       "published": "2026-06-12T06:34:51+00:00",
@@ -939,80 +1052,33 @@
       ]
     },
     {
-      "id": "7a7ec1f7dbe4",
-      "title": "Estudantes criam barco de Lego para recolher plástico das praias, apostam em energia limpa e buscam combater a poluição marinha - CPG Click Petróleo e Gás",
-      "published": "2026-06-12T00:57:00+00:00",
+      "id": "995a3d81a09e",
+      "title": "Vênus, Júpiter e Mercúrio coladinhos fazem espetáculo no céu ao pôr do sol - CNN Brasil",
+      "published": "2026-06-11T22:48:54+00:00",
       "sources": [
         {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQODZNVVFkWFJqc0xxTW9SR0prQlJWbFkwTTNQdlBmaXV4bjhWVGhIc0wwYVdsNm5wd2lwYnNTTkZXMDlSZjJJaGZ1ZktDM0tiRjN3XzJZckJxWVhRQVJra0ZaQTJWZkl3MURNdk5vTEthR2FDNHRnMUVWbWZKM0wtYWc3Rk1od1pCdEJLZEptMWJSUDdkdHlNY3czVGliRGRjZ1FEZ1dqeWdaN1VpXzNzZEpRcmxFMkVJZkhJOHQ3SDQxUE1PRU4xVm01QWhZVDRKRDFJX0lfYzNidjdibzdWMVBhcEJ6MW03bzJwNFBIbzI4b19teThGUmdB?oc=5"
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPREFZd1hyMWxVbzVoZ1VlT2x3ZTBJem1taHljVEVFRDNPZEhsbFdYU3BpejNiVmxzNVpKdUNOT2NsbjFtdmFMb0N3eG1hWFJicTV2Qm5zbkpnQmVqbDBrZ3hmdmRCQU5VQjhMQjJybUR4SGh5UV81VEhaQ3FiWEQxS2tsQ0NFcmY0b0dRQXpGQW50YnJka010UkZRTHdtU0x1aFZkNUlVUnhHSHhSbFFiQQ?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "drug",
-          "slug": "levetiracetam",
-          "keyword": "TAM",
-          "name": "LEVETIRACETAM",
-          "url": "/drugs/levetiracetam/"
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
         }
       ]
     },
     {
-      "id": "ea22b59da9bf",
-      "title": "Moradores são obrigados todo dia a pagar R$ 24 de pedágio e a descer 16 km por uma serra para chegar em casa porque todos os retornos perto do bairro foram bloqueados e o mais próximo só existe lá embaixo em Morretes - CPG Click Petróleo e Gás",
-      "published": "2026-06-11T23:36:00+00:00",
+      "id": "defd46106ee0",
+      "title": "Estrelas com buracos negros são encontradas pelo Telescópio James Webb - CNN Brasil",
+      "published": "2026-06-11T22:22:02+00:00",
       "sources": [
         {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQd1p3b1Q3ajV0QUpQSDc4RGpjMzJwY3A0SHJRSktDaDZ0RVptbHF5dXU3N1RoTXE4cm5SVlo1X29DVDczWlZoWXhXeng0dDZJNkl2TDdyc29QbEdIdE5CWkx6Z19iZjVvZXRaX3pEblRSNkVJQlhseWFlRXhLT25sUlJOTHBFeGJRaDNlaWpqdExKeElJUDBXcEV1NnhObFdXQnduVWVQU1I3bnRVZ1UwR1BiOHVwajd2ejcyS3JZZXRpdWk3VklkalktVEo4cGI2ek1WQWVRNkNkaHZtdlpSYzgxRXhxRUhITE9SbUktWWNUQUxjbThjaDlxdDZUVm5sQk9Mek5WTnR3UzZyQlRGM2ktZ2hwdWc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "etodolaco",
-          "keyword": "DORE",
-          "name": "ETODOLACO",
-          "url": "/drugs/etodolaco/"
-        }
-      ]
-    },
-    {
-      "id": "1eed05fd4099",
-      "title": "Expansão do universo continua: novo estudo reafirma teoria de Nobel - Correio Braziliense",
-      "published": "2026-06-11T19:46:00+00:00",
-      "sources": [
-        {
-          "name": "Correio Braziliense",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZkNYZ3dlZzZlelhBdzZCSVVPdUQ5VnBxdWFVQkhvMF9KTXl1eU4wZTlLMXdmeUdkeGxRWFl5Z2FBN2lPZEd4aWQ1cGcwaXBEeDZLVVJJZTJSVmE5SjFBZmw1akw4bXlSVjVLYzVYcEpiLThLVnNrVHEyUEpjX19uOENXYkJ3eDZxMjRNNUdWSUx4VEgyeDBrbkFaT3B5YnJtYVphbE1qTS05TkhYQWRtMDV5YW9oMXV2UTU3NVhESHFOLUk5aEZmNlN0M1lLeHRfR242NGJPckLSAd4BQVVfeXFMTkhGVmRnSHVzcDR2VkVaY0otWDhMcTZGNjV3OHBYZk93bTgzUmg0S2ZCRlh3MGN3VGtfOFF0UHkzSmxnTnYtMFVEckIyUno1dG1JamQ4eFJ2UmtUR1I5TFJhLXhUYlFqV2hLM0RaNjJuTmtIQ1NYT01ZMDJFd0lhdkU5dDZEaGVEYlhRQl94VGxLeEF6OWFhaUhLdDRoNEpxNElVOC1fTVRvMXQzcEt2V3I3aEFBY1lYb0Z6N1FldVhlZmdaS2NEalF0Q3FZYUctVGhHdDJVZDlrNmxqVnN3?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "diazepam",
-          "keyword": "UNI",
-          "name": "Diazepam",
-          "url": "/drugs/diazepam/"
-        },
-        {
-          "type": "drug",
-          "slug": "zinc",
-          "keyword": "UNI",
-          "name": "ZINC",
-          "url": "/drugs/zinc/"
-        }
-      ]
-    },
-    {
-      "id": "cb2033d3e3dd",
-      "title": "Muita gente não percebe que quem guarda roupas velhas que não servem mais está vivendo um trauma crônico: o medo profundo da escassez e a dificuldade extrema de encerrar ciclos do passado - Brasil 247",
-      "published": "2026-06-11T19:45:00+00:00",
-      "sources": [
-        {
-          "name": "Brasil 247",
-          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNekFRbXZzZm9lOHRiM0twSTJBclVCekNTVWhDTTRsd3FRa1dfVFJ2dk9jbjQ1d2RjM2hhM0k4LTdoYzRrVXZWNkZqM0t5ZF9NWkhYV1ktSzg0cHg3V01iNDl3elBNTTZER1pLNENpVlZrc2ctWjM5d2t5Smhnbjd6OU51UVlTY0diV2RQS01VVVEydmJDOWRqZnN1N3J0UVNJeGYyZlJrSlphUUZsaWhqWVo0djdYYjhNSnVjQm5qNGZWa0pCTjV5eHFlQXQ2VmNxZl8yRFdXYnFjUW44Yl9ydXJwaGlENlRvVzVNTDF6QU1fOXU4cThVNXlsWUU0SnhhNW42Z3lrbGw3Z25UOG1yZVRMSzMyWU42NEFjVjFDUk5oNFZpRUFZS3cyTU83eFF4cmNfeGNfd1FCTVhpY29aeU1jdmR4M0pkRXRpUjJMYU1UaXVsS3c?oc=5"
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQazJGTmh5NXp0TW83bmdyTzVncWNSU21NbUViWVhuYS1xYlRGcWtoRmN5bms1M0JVOGl0SDhPZW5yTXRoTG1ZRmpjVWhNZGoxNzBZX2Vzc1Zyem4tRmlpRkFlc2otRXJ4OTA1TXNYeEYtV2l1NUVaVW1MMGNKM1dnQklCRlNPZ2hRdUNFLVNydTV4a0tNQjhJVzB4V0I3U0xLN05YTUJpVHNmTDd2?oc=5"
         }
       ],
       "keywords": [
@@ -1120,26 +1186,6 @@
       ]
     },
     {
-      "id": "54593cb87d08",
-      "title": "Dia dos Namorados: quanto sangue é preciso para \"namorar\"? Entenda - CNN Brasil",
-      "published": "2026-06-11T16:14:16+00:00",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ2JiMzdnUi0tVzJoUjhJM2U1NDRlMHoyU3ZWX1F6WHJWUm13emZOMWZ3WTlaNDlBS3VRY2NHNm4tSW5xWDZiXzBNV0JoUnlyMkxzbTQxYWt2QUhlT29fZnVvR05aTmVPU3pjcXhwY29SY2dPUnBRT0xzRkVtbVU4WXVCeFFLckdGVDVIWVdiWjJvUW9oQVVUR0ZKQkZvUVkwakE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
       "id": "315daa4e094e",
       "title": "Pesquisas feitas na rede pública do Amapá são apresentadas em bares: ‘ciência mais acessível’",
       "published": "2026-06-11T16:05:55+00:00",
@@ -1160,22 +1206,56 @@
       ]
     },
     {
-      "id": "edf2ebc95d39",
-      "title": "Depois da aposentadoria, casal troca a vida agitada no Rio pela paz nas montanhas de Minas, compra sítio sem experiência no campo, aprende a fazer queijo do zero e transforma propriedade rural em queijaria premiada, requeijão Super Ouro e pousada q - CPG Click Petróleo e Gás",
-      "published": "2026-06-11T13:01:00+00:00",
+      "id": "8fca80302cdc",
+      "title": "Meteorologia dos EUA alerta para onda de calor extremo em sede do Brasil - MetSul Meteorologia",
+      "published": "2026-06-11T15:41:54+00:00",
       "sources": [
         {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNWUFneUcwXzlFWXNuZ29UazVXU0hMNGM4NW5WV2sxdnd3eDJtOXJmWFQtT1A5YnN4Q1E4NU8yS0Z2c2QzOHZKUXdLREphcGZHQzJmTUp2Wi1DdEJqcUhrSmpBZW05UmFNVllsRWlISzVFcktPbFhkUzZqTllnQTdGVEFNOXhGMGpyTEpud0ZGelBiT2EtWUtDLTk3TDlTMTF4MENxWTBJV0E5elcxdjBuQXdKMlpZRW5DVFFaUzFUVXZLRzlNdjVkcnFpRjdwQjV0Umtpem5nTFNWSk5ZM2Jkb2xOQ2QtZ3g2XzRSN2FadnVmZC1UZWlvU3daQlJrREpmYjZaRmwtNlFvSU1IMmFYUEYxdXdJcEs5anRFakN5dVQzMm9MVnVpVVVWZUhiNmZ1QkZ3bi1OUi0yN1dQektKam1yN0hGRVE?oc=5"
+          "name": "MetSul Meteorologia",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdGcydWsxNUE2Y0l1U2ZoREVMQ2tjWlNJZXVDTFNCamNhOEZtZ0h5VEE3S3I5ZFNYa0FnNWx6cy1ZS0xXek9Ial84SzRrbTVSWGo1Ym1ka3pjTTVMLWI2amVzUG0wa3FFcks5b3UxVElZMHl2TWkyUW1sVkZHbUl6TGk5M0EwcmtWR0s2YmNVVDRIclRaWGpr?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "drug",
-          "slug": "tadalafil",
-          "keyword": "TADA",
-          "name": "TADALAFIL",
-          "url": "/drugs/tadalafil/"
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
+      "id": "a7b4a169a9a0",
+      "title": "Inflamação no fígado: veja sintomas que não devem ser ignorados",
+      "published": "2026-06-11T15:32:59+00:00",
+      "sources": [
+        {
+          "name": "GZH",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOa1Z3UVVsWV9Na3FwN051SkNZQkc1NFhYRC1aQ056V0tCSnVwS0R6U2gyLWJ4RkJab0c0aGk4akRnbjJhNVUxeXVRNU11MG9qWDhVMGVkOTlORDI3eUlHeFdOOThwRktqU3hKZkMtOTBneWxHR1dlMUswV3VOQkFvWi1SSVc2b2FQS2djWHJkWTlZRGVwWGsxS3FHZnpneW8xNlE2cmFEdDlIUGwxejlnM2tONVFwLVZtMHBEYkJvX2Z6TVFISDdGTmp3Qmc0SUFHYm9SQm85aDZtZ2dGbVFoXw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "diazepam",
+          "keyword": "UNI",
+          "name": "Diazepam",
+          "url": "/drugs/diazepam/"
+        },
+        {
+          "type": "drug",
+          "slug": "zinc",
+          "keyword": "UNI",
+          "name": "ZINC",
+          "url": "/drugs/zinc/"
+        },
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
         }
       ]
     }
