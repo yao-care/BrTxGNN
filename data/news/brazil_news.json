@@ -1,10 +1,22 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-06-13T03:59:32.855483+00:00",
-  "total_fetched": 83,
-  "unique_count": 82,
-  "health_related_count": 21,
+  "fetched_at": "2026-06-13T09:19:15.262500+00:00",
+  "total_fetched": 82,
+  "unique_count": 81,
+  "health_related_count": 22,
   "news": [
+    {
+      "id": "a18ac29f33d9",
+      "title": "Sesa volta atrás e diz que 1 dos 3 casos investigados de reação grave à vacina da dengue do Butantan é do CE - Diário do Nordeste",
+      "published": "2026-06-12T23:39:58+00:00",
+      "summary": "Sesa volta atrás e diz que 1 dos 3 casos investigados de reação grave à vacina da dengue do Butantan é do CE&nbsp;&nbsp;Diário do NordesteA ciência que aprovou a vacina da dengue é a mesma que agora a protege&nbsp;&nbsp;O GloboVacina do Butantan contra a dengue não está em fase ‘experimental’, diferentemente do que diz vídeo&nbsp;&nbsp;EstadãoSaúde/ Princípio da precaução&nbsp;&nbsp;CartaCapitalVacina da dengue é segura; Sesau alerta para fake news – CGNotícias&nbsp;&nbsp;campogrande.ms.gov.br",
+      "sources": [
+        {
+          "name": "Diário do Nordeste",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZG1OaHMzQnlzLUdKQzV0WGJFWC1KRUVGbC1HNkw1YjFFMG9ZS2lvV0syUmZxdEQwQ1RNQ21qWVNPWS12VmRlaDgzQkRTRnQ4VGNucGk4d255Ml9HUnJwQm1vYWVtX0FwVEIyY0doNlJZY3ZobDZzTXpvMlJQeUJVcHY5bWw0Nm9pa0d3MU4xYlMtQUNRc1FZR2c3eFdYbjlmclJEcGFVSGFkS0F1U0xuOE4wNF9RTHpVLUk4QklBcUM4Z0JySmRzcmc0QWtpUE5tczdrdmt1VVlMZ2tMekp1d2pUeC0xNEl1dFYxT1l4ODJTWlNUcjIwYy1Oa20?oc=5"
+        }
+      ]
+    },
     {
       "id": "ceda6fc339db",
       "title": "Problemas intestinais anos antes do Parkinson: o que a ciência já sabe sobre constipação persistente - Tua Saúde",
@@ -14,6 +26,18 @@
         {
           "name": "Tua Saúde",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZDVKUUdkVHpwMHhVMVpFQ1JIaWhxZEJPdXlmUG8tM0JsYVlpelVNQ3lUUXN4d1pqaWduRkFlSDU4RlZDdnc2ZkJnWG9zUW5mWmNYeHFqVU4xdGMzVzhvSUlDRXpMY3NaYmFVWTYzdEV4djFSLWh1V3NldENWb29zTzFsNXdrcWJzX01Ha1g4S0hJcTdMQ1NBbDRoWTQ0Wm9WWVVmeXZWYUtIVnJmSkpCMms5enlMOEJQSk9vajhpNC03SWh6T1NvYzNKRktKSnk5QUUzR3p2QXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "871b2423718e",
+      "title": "Elon Musk se torna o primeiro trilionário do mundo - O Dia",
+      "published": "2026-06-12T21:57:00+00:00",
+      "summary": "Elon Musk se torna o primeiro trilionário do mundo&nbsp;&nbsp;O Dia",
+      "sources": [
+        {
+          "name": "O Dia",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNU0dNRXEwOThZWVZwRGJRV210UXlBcV9FWktndUVlQ0JfQnFNRVg0ckhtSVN5MkM3TExqOC1QUElhX3VQN21LeWlNUEJHNUZoQUZLYUhKZ2NiLXpHX2YtTndFeVBkWGlqQTBFRFpNV19uTkczNUhoYWJwdVVlZEpUd0tmbUJnZUJRVzdnRkpBUC1ad3BEZkFfQVpmc3V2Tms1V3BGV2R3OTJEOF9ucGhN?oc=5"
         }
       ]
     },
@@ -74,6 +98,18 @@
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaEJqRHNub2VnUVZGbjFuYmVGa3ZZV2UtR19xZWVlVGRzT0pCYV81c2FRdVlId3htS3ctcDJjUmtIZDRXbjlpX2tldTc0RkloMTRPQ3JXU19HYUhCVkRzMVZPSFpFdVJaM2Jrd2JXd2xjYjBRcG5qRE9fZ1ZicnVoRzRYaUhXZWJrcElnaUZlT0xpeDM5a21xSFFtcHp1akk5aFpMMWdobGhMQW5GeUdwZHBTTUVvY1FlNE9MVzREUExpY0RnN0JNMENR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "46a6d575d101",
+      "title": "Estudo revela que rede subterrânea de fungos chega a 110 quatrilhões de kms - CNN Brasil",
+      "published": "2026-06-12T14:50:24+00:00",
+      "summary": "Estudo revela que rede subterrânea de fungos chega a 110 quatrilhões de kms&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWXdKV0d1TDh6bVpUSjNlTEdHM0h2QUVON0h6QUhvQlRNWEpjcHpaY1ZCR1dkN3hOb0diNUJwUDVYcmthUjJDOEZfcmMxZnRMRjUyRFVBci15aXdHaldxNGVkQmlSMGE5OG8xaXNtV184aGt0cV9rZWRqUWpoR2QzYldBeWN2ZFBOTmRBSHlVWmQ4U1NEX3E3aEZOWVZ3R1U0YlZJcHFZZ09kWFFOMk9JRlhKdw?oc=5"
         }
       ]
     },
@@ -165,23 +201,11 @@
       "id": "99b933b1aead",
       "title": "Vacina mais potente contra a pneumonia já está disponível na rede pública - Tribuna Online",
       "published": "2026-06-12T08:00:00+00:00",
-      "summary": "Vacina mais potente contra a pneumonia já está disponível na rede pública&nbsp;&nbsp;Tribuna OnlineNova vacina pneumocócica 20 começa a ser disponibilizada no SUS para crianças — Ministério da Saúde&nbsp;&nbsp;GOV.BRVacinação com a Pneumo-20 em crianças tem início no Estado&nbsp;&nbsp;Século DiárioRio Grande do Sul iniciará em julho a distribuição de nova vacina que protege contra pneumonia e meningite&nbsp;&nbsp;PORTAL FARRAPONova vacina do SUS contra doenças graves chega em SC&nbsp;&nbsp;G1",
+      "summary": "Vacina mais potente contra a pneumonia já está disponível na rede pública&nbsp;&nbsp;Tribuna OnlineNova vacina pneumocócica 20 começa a ser disponibilizada no SUS para crianças — Ministério da Saúde&nbsp;&nbsp;GOV.BRVacinação com a Pneumo-20 em crianças tem início no Estado&nbsp;&nbsp;Século DiárioNova vacina do SUS contra doenças graves chega em SC&nbsp;&nbsp;G1Rio Grande do Sul iniciará em julho a distribuição de nova vacina que protege contra pneumonia e meningite&nbsp;&nbsp;PORTAL FARRAPO",
       "sources": [
         {
           "name": "Tribuna Online",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdmhJVzRBSE5vRFRMTTVaRUFHODd4RGxLX29QWHZwTURmZFE2VzJpVmtXUDlmNUU0c2FENEc3NkUxcHlDZDA5NjF4MHlZY0FKa1gyU1VhZlh6MXBhdG13S0RRb0tmSGRGSEpsbi16X3h2WHUwd1FwNkNJQXVRdVFRYmJ6MXN1LUV3V3hkSkh4Z3U1N043bjg2UlVzNk5WNVU2U081bklXczVZYWhqTVJPQnlweWVIZ9IBvgFBVV95cUxOUkhBbHh5cmF3VUc2NXg1N3BEUnRReUZpWGNfQ0F1V2tIVGprRlVaY2pJX2RleWlLbUdRb3ExSWRycFFEZnZ3YkIyTVZwM0VXQWJWTW1vMkRmT0xTcml0X3BMRFVyZVR3aUdvUmVsNGU3UUVIRmRlZXZkVF9VVXhNRU51SGRJeG5xcXU3Z1BxRnBuczI4ck9qOTg1a29kNHVOaG9wanlCTk5DdnVCN0FqeU5SQkYzd1FDZFVtOXhR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0a22013a086e",
-      "title": "A ciência que aprovou a vacina da dengue é a mesma que agora a protege - O Globo",
-      "published": "2026-06-12T07:30:11+00:00",
-      "summary": "A ciência que aprovou a vacina da dengue é a mesma que agora a protege&nbsp;&nbsp;O GloboSaúde/ Princípio da precaução&nbsp;&nbsp;CartaCapitalVacina do Butantan contra a dengue não está em fase ‘experimental’, diferentemente do que diz vídeo&nbsp;&nbsp;EstadãoSesa volta atrás e diz que 1 dos 3 casos investigados de reação grave à vacina da dengue do Butantan é do CE&nbsp;&nbsp;Diário do NordesteVacina da dengue é segura; Sesau alerta para fake news – CGNotícias&nbsp;&nbsp;campogrande.ms.gov.br",
-      "sources": [
-        {
-          "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNlIxaUphelNqWnBrSjJjTGxOeTJiZUNmQ3BnRXJEel81LVdVV2F6VTJROEE1YlJIcU5GSjhSYUs5WHhHcmlYR29NQ1NBdm53NlJ3eF9JVFNyRy1ZWkFKdnlST3Z3bEpFaEtLSlpydnJLMjJzRTB2aEtiZVVNNjhhS05Ma2RhVVcyVXNfb0ktN01OalpSQXJVcFIyN2RoZHU0b2VQeWFFWGVuM3pBTXNrNUdteHpmY3hqeU9EY3VWUERGak5QVFo0NktLTFp6RnN2YkHSAeABQVVfeXFMUDlHX3ByT1Vkc2dCaXRnLVpKLXRCc1FoMW5lQU1aUWRvdjBERUFLa2liaGM0R3pZblJqSFdNZGtfWTVfck1hWXVDNnZEWnl1Rm5NdDRCaENUOEJNU0l0MWNpNnN0d2ptdExQWHFwenJHV2NBeFRwOU5WSVFMT1V1Ti1xMk5vd2gyQTg3MU5GeUxDWFFTX1JBaWxsRHE4QXA3VGJDeWx2aldWYURybGtfSVQtTGZocURIc0VueU8zYkRTTm15RnBWZFI1Qnl0SlJoMHRoNFNaVWJseWhyWkRwMVc?oc=5"
         }
       ]
     },
@@ -234,26 +258,14 @@
       ]
     },
     {
-      "id": "7e322f3557d9",
-      "title": "Como torcer pelo Brasil na Copa do Mundo sem colocar o coração em risco? - UOL",
-      "published": "2026-06-11T12:11:11+00:00",
-      "summary": "Como torcer pelo Brasil na Copa do Mundo sem colocar o coração em risco?&nbsp;&nbsp;UOLCopa do Mundo 2026: como os jogos podem afetar a saúde mental e do coração dos torcedores&nbsp;&nbsp;O GloboRisco de infarto aumenta na Copa: entenda por que e como se proteger&nbsp;&nbsp;Veja SaúdeCoração de torcedor sofre ? Especialista explica o que acontece no organismo durante uma partida&nbsp;&nbsp;A Crítica'Ameaça real': o que acontece no cérebro durante um gol em Copa do Mundo? Psicóloga explica!&nbsp;",
+      "id": "2426e314da83",
+      "title": "Cada vez mais médicos reconhecem a validade de relatos de experiências de quase morte - The Conversation",
+      "published": "2026-06-11T14:00:29+00:00",
+      "summary": "Cada vez mais médicos reconhecem a validade de relatos de experiências de quase morte&nbsp;&nbsp;The Conversation",
       "sources": [
         {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOemV6UzZDeGJBUlhxUTlCZDZQYVM5NXRIQWJRQ2pjQm03UDRzUHdyVUNWLTdRWV9FM2V2RDhQaUhoRDRoVlJJYUJVV1JoTU5TTElCNUpHZHB4c2hDMnFIMEtHZE14ZEVqNWJUWmNGYldIUExfdERMNHliSkZRLXRHYzh1MUd3VEM3dEU3cGI4Y2pzNXlWcE1WTkhoWTZrQ3B6OWhUMzNhQl9kNkxzMWg5U3JmV29naDQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7b51c819806c",
-      "title": "Picadas de escorpião crescem 350% no Brasil e chegam a 1,7 milhão em 12 anos; saiba quais são os três estados com maior risco - O Globo",
-      "published": "2026-06-11T07:01:48+00:00",
-      "summary": "Picadas de escorpião crescem 350% no Brasil e chegam a 1,7 milhão em 12 anos; saiba quais são os três estados com maior risco&nbsp;&nbsp;O Globo",
-      "sources": [
-        {
-          "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNODJuVnViWWJ0RUExMXI0dFpnblNpSzZkaTFTSWdDY3A0QmdfeW54bWVBMkhmR2VORHN1bnZtUjJITTJ2T1puOGhLbGY0ZHlOVll5VlRLRWt3TFBRTlVPVXE5Yk1LbEVONGs5SENpcHZuSHVpdkx1VlBzZkFwMWctcUNTMEhaWHRDMU5xcjJwRmF0ajBsRTJSY2JRVE9RdmRSWHNlaHJXV0F4cFNKY1VoQ3k5emdrOUtldXR4UEJvenRsUmVYY2psWDBaSGo4cDVaSlljUWRhZzFZYUw2c2lwRlQ3clpkQ1FqTWZ1VW9BVTN3d3k4MHNTQVdoN0tsN2tmWjhMWFNVNWtLS244ZzJYNy1YVU9sYXE5ak5xRmln0gGsAkFVX3lxTE5sMlQ4aVVxOTZTaGxMcWVYSVpTQzNtRWpMNlpWRG1OWGVDQ0d4bkc3T0ZLelJqVEJfNWdQY19hUXp6V0M3Y2tRZHpnTFM3VE9uZEp0a2h5YXJGeWZZdWVvVHFtbzBDOUh0MXNwQ2NRMk55VmM0NkRYNXBuQlhrNVlHcER0XzR1RUl1WFpubkZweWY1VDdrcmhWUVlFNWhpUmVoWDdLbm9lVE4zUUxxMTFtd0Y5M1pFbjN2MDdveVU2U01ENDFncVljNnpiSTMza3VqSkdDYW9adVkwMEU4VksxenY1cFlEZ21kQWVCY3JvbGcwT3hNRzhuaEIzR2lnQzhuNTlNSmYzVG9neEE0aktYUHl3XzJBSjhWbGY3MVNrS0hSS2V1YVVfZHNWYQ?oc=5"
+          "name": "The Conversation",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaTlJcm5QbkZTZDE2ZHlhQTZSVTNWczJiSkZrbEMxTl91WU9VNmQ0S1RocWpFNU1tUFp5N2pYSDFNa01JdVB1bmc4M3RGdldFbGZ5YnZZLTdXSlNBUEl6VFYtdU1oeFBaZGVpN242cnlfT3BMc3A3dzFQMEl6RldBVV9tSEJ3aW5RejBBMzVXRGpJdTBYSm5ZRF8xXzRCZDQ1WHRjUDJndEFoNEt3SHg0c1VGWHR5SGh4blVpaw?oc=5"
         }
       ]
     }
