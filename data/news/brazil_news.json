@@ -1,15 +1,15 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-06-14T04:18:10.369245+00:00",
-  "total_fetched": 81,
-  "unique_count": 81,
-  "health_related_count": 26,
+  "fetched_at": "2026-06-14T09:37:54.979261+00:00",
+  "total_fetched": 80,
+  "unique_count": 80,
+  "health_related_count": 25,
   "news": [
     {
       "id": "13a7d5a251cf",
       "title": "'Vacina do Butantan entrou no SUS sem seguir a lei', diz ex-ministro da Saúde - Revista Oeste",
       "published": "2026-06-13T17:51:04+00:00",
-      "summary": "'Vacina do Butantan entrou no SUS sem seguir a lei', diz ex-ministro da Saúde&nbsp;&nbsp;Revista OesteMinistério da Saúde descontinua temporariamente estratégia atual de vacinação do Butantan contra dengue&nbsp;&nbsp;www.gov.brInfectologista fala sobre suspensão da vacina da dengue do Butantan&nbsp;&nbsp;G1Saúde/ Princípio da precaução&nbsp;&nbsp;CartaCapitalVacina da dengue é segura; Sesau alerta para fake news – CGNotícias&nbsp;&nbsp;campogrande.ms.gov.br",
+      "summary": "'Vacina do Butantan entrou no SUS sem seguir a lei', diz ex-ministro da Saúde&nbsp;&nbsp;Revista OesteInfectologista fala sobre suspensão da vacina da dengue do Butantan&nbsp;&nbsp;G1Saúde/ Princípio da precaução&nbsp;&nbsp;CartaCapitalCeará registra caso suspeito de reação grave à vacina contra dengue do Butantan&nbsp;&nbsp;O POVO+Vacina da dengue é segura; Sesau alerta para fake news – CGNotícias&nbsp;&nbsp;campogrande.ms.gov.br",
       "sources": [
         {
           "name": "Revista Oeste",
@@ -98,18 +98,6 @@
         {
           "name": "O Globo",
           "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNkJBdkhaU3daeGhBVFhEa0hFTXFNanNKcDA5aWJzLU1IamlhdHhkQ3h2ckJKQUsyQ29HY0VIVnEtZ2ZwVkVUVk95aGx4QlFjLUVYanBaUm9FS3BlOUstTTF4OXE3cThiSURHUVB5OVpxQzctLUlNZzl5MEpscnNGTlhWQnduaHh0UWNLc0pzcnNySHFXZTFtc0xNTUZDV0x3di1oRS1ocThBSGNSblJscDhhUnc3SW1rcmE1eTRudUFDclpSS0QwSTdpZzhPTktwOWRBVG5QN0JBOE5KTG5QRWZORi1pVHBEaG01dmVB0gH8AUFVX3lxTE9SZUVheUpRcWQxR1VrS2VPaHlSVk1xTlJwUlJiS05Bc2ZqbTBKSWtQV0pEcUF3VnMtV1ZMX0lLakNOTHZQZ3hSNnU4VzNXekVQelVUNVFPc3duUk54RDJISElRWURSakQ0Qjd5Rkp0Q3ZoMDUyZHlBaFRzN01RTUU3RllIeG03QWlvQTZDX2tEaHAwdWxPaUxQbi1Za3BqMWJNVjBYUFhHSzdQRllXTnhnZ0o3a1dnR01qcXpRNFRXYzg3cUNieU1lYlpremhzaXJuS1hINXhiUzI4UDJ1bnVQYTliMExiVWg1NDVNOGRuVm9mWUpUT0tKdm5mVw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dea33a5b2d74",
-      "title": "Câncer de pele: pesquisa testa novo tratamento que pode reduzir tumores sem cirurgia invasiva - G1",
-      "published": "2026-06-13T06:00:31+00:00",
-      "summary": "Câncer de pele: pesquisa testa novo tratamento que pode reduzir tumores sem cirurgia invasiva&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUmkzcEpBb3d2TVZrM3RMMXpMRERyU2N2a2RNUEVOTTM3VUd3NE8xU09VUFVuS1RkdTVGcTBubWdLRUZ3dGdoQ2VPNUFZeDRfUWxpV2Z0UDJET05IQmpRSHJqZlJQQ0lSS3BxV0pQRV8taEJWakgxdXVhYlBqWDI5b1VMMy0xUmh3RGhHRkRYWlNYS1ZxSnhwdDN3YjBHMjJ2N1pTR2RyajZQMGRFdFRPemZBbGdfWTBSSEdtN0oybGw3NlJ6VVU3dGdQTThwQ0ZqOW16a3pKV2M1cjhaOWR3V2kwRzlBekVXb2FWYUhn0gH8AUFVX3lxTE14NWRvQkxibnVzVmVTazdMOWRhNVVfM0hBWlYxRU8wZlNabVVEVC1GUkxYaDRRdXBwYUo1MGtoS3Bac3JmbUR0WUxZWUEzUTNfNDBhOVdRZnYtQ3Zwd3BCekRpdUVYMVh0RTVRelBYeXFNNFZxc005VGc5NjR6ZjJGVlk5T2RaY1JwTTBMTE1STUllX2JuRG5sSW1rMzZ0dEpaVDdMWEpxeXhFeTMxbVdjVndyc1E4S1FjNEx0Y1V2VDFpcTl6b25ZNF9TbWZlNmNFSmdtc3lZVzBQU1ItTFAtbWRDaGN3MUZ4UEhEUF9zUTBHWnJaU2p3OXMtVQ?oc=5"
         }
       ]
     },
