@@ -1,10 +1,46 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-06-13T19:39:21.978984+00:00",
-  "total_fetched": 78,
-  "unique_count": 78,
-  "health_related_count": 22,
+  "fetched_at": "2026-06-14T04:18:10.369245+00:00",
+  "total_fetched": 81,
+  "unique_count": 81,
+  "health_related_count": 26,
   "news": [
+    {
+      "id": "13a7d5a251cf",
+      "title": "'Vacina do Butantan entrou no SUS sem seguir a lei', diz ex-ministro da Saúde - Revista Oeste",
+      "published": "2026-06-13T17:51:04+00:00",
+      "summary": "'Vacina do Butantan entrou no SUS sem seguir a lei', diz ex-ministro da Saúde&nbsp;&nbsp;Revista OesteMinistério da Saúde descontinua temporariamente estratégia atual de vacinação do Butantan contra dengue&nbsp;&nbsp;www.gov.brInfectologista fala sobre suspensão da vacina da dengue do Butantan&nbsp;&nbsp;G1Saúde/ Princípio da precaução&nbsp;&nbsp;CartaCapitalVacina da dengue é segura; Sesau alerta para fake news – CGNotícias&nbsp;&nbsp;campogrande.ms.gov.br",
+      "sources": [
+        {
+          "name": "Revista Oeste",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUVl3Rm1DQVJoX2dPRC1xVWRXZHVKczRRRUlubXdkVExGajZVTkNHUkV2Um9wNUpRV0laenBlRFF2cHZQZVV1R09mb0pWenljTnNFYTZQZFFZbjFuenFCektqUGlCekxQMmNKOUw4anpUWUdndGNoazNlemZMcjNjZzB5cEt3dWJFa0FaRklUMmYxQTl0ZGRsVmNqSHUtX21SbkZ2TElNZHJ4OGVQb0E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0c88acdbdde6",
+      "title": "Detector subterrâneo leva às medições mais precisas de partículas fantasmagóricas - Folha de S.Paulo",
+      "published": "2026-06-13T15:00:00+00:00",
+      "summary": "Detector subterrâneo leva às medições mais precisas de partículas fantasmagóricas&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORC1mZXBNUGRyUGpxQmhzY25OZWtqOWRuZWgzSERFbnYyb0h4MktWMUU0MFM0WXpmb2tlMG5EN0dYTzRBa01ySHhkelZsWTFpVjlEa3R5dHk3Ty1NV1huSWJPRERud3k5WVBrS2tTYThYYjVFR3VYa1FBOGVCeXI0cWRVSVVfZW4teUdCeUM2TXRMaVJtcmVrSXUxUU5sdVVKQmIzUjNjWEphSUdtTjJfT0VpWUtrWmF0UmplWXVOZlFDd2NCZm9RdENhRU1HUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "75d6fc16e32a",
+      "title": "Marinha apoia pesquisa sobre biodiversidade na Elevação do Rio Grande durante patrulha naval - Agência Marinha",
+      "published": "2026-06-13T13:02:46+00:00",
+      "summary": "Marinha apoia pesquisa sobre biodiversidade na Elevação do Rio Grande durante patrulha naval&nbsp;&nbsp;Agência Marinha",
+      "sources": [
+        {
+          "name": "Agência Marinha",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSWFzbklPTlJMSE10NnRieXNZS254Y3AwcmZpZjMtVlIzSmcyLUZRZ0VHY2VHY2pqaGpGbEJVOXI2RmJodUFoNEtfZGE5WGw5OGxVQktTZ0xnQlZRemNVSlZqcDRhVldPMlJIdUhrWW5ZYndZSlFGZ0dybVhZbG1UQ0oxa1BKQ0RnNmhKRjlKNENiaEhiblYzVFZYT1NQS21wdERNdEhxdC1UYURCY0VIb1l6ZWtpcDFOTXhIMUEzcm94MThZcEE?oc=5"
+        }
+      ]
+    },
     {
       "id": "cde25a714042",
       "title": "Um estudo de Harvard identificou que pessoas entre 58 e 72 anos que mantêm pelo menos uma amizade desde a infância apresentam taxas de ansiedade 40% menores do que a média da população - Super Rádio Tupi",
@@ -14,6 +50,18 @@
         {
           "name": "Super Rádio Tupi",
           "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPc2xfbGV4bUpyMmd0VGZLRldfVjVFM3B3ZldFQlA3TE82NGY1M3NvbDU5QzFSVS1xSnFNeUpfWWllZ0ZuY0otRHNzY0lzTWhaWHF1QnRSak1lc2xDY3FPb2NtekJNOXRFRDU3Rmd6YzBfX2xYM0xWTUVSMEc5bTI0UEh2dDVZN2s4eWZHN2dpWEVxVXpETXY1eldiRXdZWnE0bnhMQ0hrb1AwOVdMY1VqaURJMzVxMGZFMHJQNG4yRHF6QjZpbDNwOVJZMzh1UnRrMlNZRkk4dEczb09XRDNvNVNPOFlWRmowejdiWjJiQkNCbTZ1WHZEd1d4ZHUybjlSWGhNUm40SjV0NXdVeEduOXdFZzh2UmdtV19teE1sTUxuTFBLTEd5WUFZRV9Rc0tSVWNEbGFfdUEyR3k2R25QOQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "92f81f0c6c8d",
+      "title": "Casos respiratórios disparam entre crianças e acendem alerta em Marília - Marília Notícia",
+      "published": "2026-06-13T12:43:13+00:00",
+      "summary": "Casos respiratórios disparam entre crianças e acendem alerta em Marília&nbsp;&nbsp;Marília Notícia5 dicas de cuidados com a saúde no inverno&nbsp;&nbsp;G1Frio, chuva e mudanças climáticas desafiam a saúde das crianças&nbsp;&nbsp;GZHSaúde alerta para prevenção e sinais de gravidade de doenças respiratórias em crianças&nbsp;&nbsp;Governo do Estado do ParanáA melhor aliada contra doenças respiratórias? Médicos e Dr. Kalil alertam&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "Marília Notícia",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdDJDVmVVY3pIWE4ySzBGM2dSTVBvZWlaS1NnZ2Zsc1lmaS1PMWd1dXVkSF9fM2tKN1E4bEI4QWFMM1VaS3Fabl96dW52U2dfcDc1WEwwT0ZFdlpnbmNvQjJWSjYtVmROZ2NVMDRXTGN6aHBheXRvcXFtVmZkZ19XRHVONUp2T25HcTV0ZzZ4OGxYYzBrWmZxbjNCWmgyOXBjalVLetIBqgFBVV95cUxPRkVpTGVhNEplMDhkZHlZeGVrTUNtSFJCOFo3aXhlT1MyQ0FkMXFKY2pBOW1KbVMwd2pkRy1fXzBwOVBIM0YydGtSQlZuNldfaHd6Zi11cmpWa0h4QUg2aTBqbVlyUlJGaXVKc3RQQU8yNXppWFFjeTJFZlZuMF9WTkJiXzdMRnR4SVBlaWxFakJDemhsQ3pLTE1qX180TkxiU3BXNGtBYTVzZw?oc=5"
         }
       ]
     },
@@ -54,6 +102,18 @@
       ]
     },
     {
+      "id": "dea33a5b2d74",
+      "title": "Câncer de pele: pesquisa testa novo tratamento que pode reduzir tumores sem cirurgia invasiva - G1",
+      "published": "2026-06-13T06:00:31+00:00",
+      "summary": "Câncer de pele: pesquisa testa novo tratamento que pode reduzir tumores sem cirurgia invasiva&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUmkzcEpBb3d2TVZrM3RMMXpMRERyU2N2a2RNUEVOTTM3VUd3NE8xU09VUFVuS1RkdTVGcTBubWdLRUZ3dGdoQ2VPNUFZeDRfUWxpV2Z0UDJET05IQmpRSHJqZlJQQ0lSS3BxV0pQRV8taEJWakgxdXVhYlBqWDI5b1VMMy0xUmh3RGhHRkRYWlNYS1ZxSnhwdDN3YjBHMjJ2N1pTR2RyajZQMGRFdFRPemZBbGdfWTBSSEdtN0oybGw3NlJ6VVU3dGdQTThwQ0ZqOW16a3pKV2M1cjhaOWR3V2kwRzlBekVXb2FWYUhn0gH8AUFVX3lxTE14NWRvQkxibnVzVmVTazdMOWRhNVVfM0hBWlYxRU8wZlNabVVEVC1GUkxYaDRRdXBwYUo1MGtoS3Bac3JmbUR0WUxZWUEzUTNfNDBhOVdRZnYtQ3Zwd3BCekRpdUVYMVh0RTVRelBYeXFNNFZxc005VGc5NjR6ZjJGVlk5T2RaY1JwTTBMTE1STUllX2JuRG5sSW1rMzZ0dEpaVDdMWEpxeXhFeTMxbVdjVndyc1E4S1FjNEx0Y1V2VDFpcTl6b25ZNF9TbWZlNmNFSmdtc3lZVzBQU1ItTFAtbWRDaGN3MUZ4UEhEUF9zUTBHWnJaU2p3OXMtVQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a2ce5422c595",
       "title": "Conheça o exame que diz se você tem um câncer e onde ele está - DOL",
       "published": "2026-06-13T03:02:01+00:00",
@@ -66,6 +126,18 @@
       ]
     },
     {
+      "id": "db9163ba1489",
+      "title": "Exame de sangue promete prever Alzheimer anos antes; entenda por que médicos pedem cautela - Folha de S.Paulo",
+      "published": "2026-06-13T02:00:00+00:00",
+      "summary": "Exame de sangue promete prever Alzheimer anos antes; entenda por que médicos pedem cautela&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNY1B6OW5LV21qZzF3amVudnJSTzduNzV5VWM2dlk3UXFvbGE0dlEwcFFDaWgwU2pmVlZvN2Zfc2hQamtlQ1U4MVM5T1ZxNTZsUEU0Y1FXTmhscG5sNk9nd2x3OVBtcXRuM1dtaGp1UXhZNTZpMm15a0Z6SEQ0Z0dyM25YNDZmVTE1Qm50ZEx5QlR3anp0Nm8wMWJRSjMzUTJMVmRBYzJCUkt1bzd1eVNONzNSdHE0bnZINFdqeWhBaks0WUxRNWYtWkFrZ2JVYmdtc3lPUG44eDF6aW96c1VPRXF4UlY?oc=5"
+        }
+      ]
+    },
+    {
       "id": "db8d2aa8e9d6",
       "title": "Onça-pintada é vista pela primeira vez em 10 anos em Honduras - Aventuras na História",
       "published": "2026-06-13T00:27:36+00:00",
@@ -74,18 +146,6 @@
         {
           "name": "Aventuras na História",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS2tTMTJZZWtVVGd2SW9UZVdfMXk5RFRLTHIyTlpKalloY3pLdEFfY3dYSUFPdDA1Sjh0MU13NUxHdXA5WDllU0VlYzVWN2xNdnRHWWI5U042Y0dsYVl4YUczSTBYYWFDQnV4TTdDOGVuOVNOc0xmU0pObHVGeHY1dExSUnZ1WmJ2Z2ZXOFhrMVY1ckZ3cW5jSzA2N215YWRmcm11bXFVT3dwNERrbHZqT3Q2YlVoRlA5LWc4RndDa1JfTTg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a18ac29f33d9",
-      "title": "Sesa volta atrás e diz que 1 dos 3 casos investigados de reação grave à vacina da dengue do Butantan é do CE - Diário do Nordeste",
-      "published": "2026-06-12T23:39:58+00:00",
-      "summary": "Sesa volta atrás e diz que 1 dos 3 casos investigados de reação grave à vacina da dengue do Butantan é do CE&nbsp;&nbsp;Diário do NordesteMinistério da Saúde descontinua temporariamente estratégia atual de vacinação do Butantan contra dengue&nbsp;&nbsp;GOV.BRA ciência que aprovou a vacina da dengue é a mesma que agora a protege&nbsp;&nbsp;O GloboSaúde/ Princípio da precaução&nbsp;&nbsp;CartaCapitalVacina da dengue é segura; Sesau alerta para fake news – CGNotícias&nbsp;&nbsp;campogrande.ms.gov.b",
-      "sources": [
-        {
-          "name": "Diário do Nordeste",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZG1OaHMzQnlzLUdKQzV0WGJFWC1KRUVGbC1HNkw1YjFFMG9ZS2lvV0syUmZxdEQwQ1RNQ21qWVNPWS12VmRlaDgzQkRTRnQ4VGNucGk4d255Ml9HUnJwQm1vYWVtX0FwVEIyY0doNlJZY3ZobDZzTXpvMlJQeUJVcHY5bWw0Nm9pa0d3MU4xYlMtQUNRc1FZR2c3eFdYbjlmclJEcGFVSGFkS0F1U0xuOE4wNF9RTHpVLUk4QklBcUM4Z0JySmRzcmc0QWtpUE5tczdrdmt1VVlMZ2tMekp1d2pUeC0xNEl1dFYxT1l4ODJTWlNUcjIwYy1Oa20?oc=5"
         }
       ]
     },
@@ -126,18 +186,6 @@
       ]
     },
     {
-      "id": "6b262691fb7f",
-      "title": "Paciente com suspeita de ebola é transferido para o GHC, em Porto Alegre - Correio do Povo",
-      "published": "2026-06-12T20:45:12+00:00",
-      "summary": "Paciente com suspeita de ebola é transferido para o GHC, em Porto Alegre&nbsp;&nbsp;Correio do PovoSecretaria da Saúde acompanha investigação de caso suspeito de Ebola no RS&nbsp;&nbsp;Portal do Estado do Rio Grande do SulSaúde monitora contatos de caso suspeito de Ebola no RS&nbsp;&nbsp;G1Hospital Conceição recebe paciente com suspeita de ebola e ativa protocolos de isolamento em Porto Alegre&nbsp;&nbsp;Brasil de FatoCom caso suspeito em investigação no RS, o que se sabe sobre o surto de ebola ",
-      "sources": [
-        {
-          "name": "Correio do Povo",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeDJ6UmVrUUFiQkE5Qy1kbF9PNjF4VWlMUTNhRU5VdkJ1QlRNUm91TnZOWTN0czlhaXFMN3hONEZrRUFtYU9DRDFLQ3Y1dVJFMnh4ZzgwSEtZZlp3aVJRMTBORzVPY1NTV0VySkRabFFFZE5STjRzOWVaUy1iS2wyMnVCNFZ3clE4U0IxdzQyZUFuSGRmWUNUaXo2UF9sTXNKdWxMTWgza0FVTlNTT1Y2bUF5SjBkLUk4OW1yU1RrLWJzcDh3cURCY2hLYUZtS2NtV1JGNDN3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f8d579aa8b2f",
       "title": "“OPERANTAR XLIV” reforça a pesquisa científica e a presença do Brasil na Antártica - Agência Marinha",
       "published": "2026-06-12T18:37:39+00:00",
@@ -162,18 +210,6 @@
       ]
     },
     {
-      "id": "35a3c6852e0d",
-      "title": "Ação de telemedicina oferta consultas gratuitas em Psicologia, Neurologia e Psiquiatria a partir desta sexta-feira (12) - Folha BV",
-      "published": "2026-06-12T18:24:27+00:00",
-      "summary": "Ação de telemedicina oferta consultas gratuitas em Psicologia, Neurologia e Psiquiatria a partir desta sexta-feira (12)&nbsp;&nbsp;Folha BV",
-      "sources": [
-        {
-          "name": "Folha BV",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxONW1xREd0MUN1YVV3Ymw3U0Q3aGxsUGg3WEhvS1FVdlhpaF96cTZJc2FTTElPQWc4VEhwZV9pdDFPeWVUOGpLY3FpS1phcm5rNGNVTU51ektkLTJqYVhuVEJxckNobElMQzFaMVNodnd2RFRvNGJMcXVfbG5QeTdvMDdiM2x5TkpVbTkzaENPWjZneTN2cWl1VFQ3QmN0MlJJaTA0ejZCUGVjdU5NeTJ6bFZYamdsRTQ1VFdEY1lJVDB2VHlTVXBVMGFmRDZYSGU2ZGxneW1EcHVra1NFY3FfSzNnZHhTeGNWdnVudERESUJEWFcx?oc=5"
-        }
-      ]
-    },
-    {
       "id": "103ecc4fefe7",
       "title": "Cientista que desenvolveu vacina contra Covid é acusado de tentar contrabandear vírus de mpox - Folha de S.Paulo",
       "published": "2026-06-12T16:45:00+00:00",
@@ -186,14 +222,26 @@
       ]
     },
     {
-      "id": "b8c4f3e7795c",
-      "title": "Pesquisador do INPA, Adalberto Luis Val é primeiro brasileiro a receber a Medalha Le Cren - A Crítica",
-      "published": "2026-06-12T14:39:54+00:00",
-      "summary": "Pesquisador do INPA, Adalberto Luis Val é primeiro brasileiro a receber a Medalha Le Cren&nbsp;&nbsp;A Crítica",
+      "id": "46a6d575d101",
+      "title": "Estudo revela que rede subterrânea de fungos chega a 110 quatrilhões de kms - CNN Brasil",
+      "published": "2026-06-12T14:50:24+00:00",
+      "summary": "Estudo revela que rede subterrânea de fungos chega a 110 quatrilhões de kms&nbsp;&nbsp;CNN Brasil",
       "sources": [
         {
-          "name": "A Crítica",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZUxEVHlMWUpUelhKNFk5bmNFY09HY2k2M0Z5Q3YxQWpVYjlXNFBLOFlSSm1HYUItXy1MVTV6dXl3OGFrUjkzazFvdzdxN3A5blBtVU82ZktHWXZEandITmM0RzBhdGtpcTV1LWU3TmtZeVVpVngzWDRNX28zRk9fNExkOElNVjNwVTlIbVNOajZMUHV5X2JOTUdqVkRwZFlHMy1LX0ZIV19tYjVKYmxraXVMX3BqTnZCby1YOEpNNmhlTjBFaEV6UG1HY9IBywFBVV95cUxQZUxEVHlMWUpUelhKNFk5bmNFY09HY2k2M0Z5Q3YxQWpVYjlXNFBLOFlSSm1HYUItXy1MVTV6dXl3OGFrUjkzazFvdzdxN3A5blBtVU82ZktHWXZEandITmM0RzBhdGtpcTV1LWU3TmtZeVVpVngzWDRNX28zRk9fNExkOElNVjNwVTlIbVNOajZMUHV5X2JOTUdqVkRwZFlHMy1LX0ZIV19tYjVKYmxraXVMX3BqTnZCby1YOEpNNmhlTjBFaEV6UG1HYw?oc=5"
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWXdKV0d1TDh6bVpUSjNlTEdHM0h2QUVON0h6QUhvQlRNWEpjcHpaY1ZCR1dkN3hOb0diNUJwUDVYcmthUjJDOEZfcmMxZnRMRjUyRFVBci15aXdHaldxNGVkQmlSMGE5OG8xaXNtV184aGt0cV9rZWRqUWpoR2QzYldBeWN2ZFBOTmRBSHlVWmQ4U1NEX3E3aEZOWVZ3R1U0YlZJcHFZZ09kWFFOMk9JRlhKdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4edc83f950b7",
+      "title": "Universo continua em expansão acelerada, aponta nova análise que contesta estudo de 2025 - Olhar Digital",
+      "published": "2026-06-12T13:44:00+00:00",
+      "summary": "Universo continua em expansão acelerada, aponta nova análise que contesta estudo de 2025&nbsp;&nbsp;Olhar Digital",
+      "sources": [
+        {
+          "name": "Olhar Digital",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYzZRNEdlMmRNWlJlaHF2bG5aOTFIYk8tSnZVbE1pWm01elYtUUU0a0w4eEtNbzdwcHN5TFNXWXpLa1RyamljSjdma1l3WkxYMWJsUWU5MmJJUUVQVXRWZHJVU21vTVdZM1E3S1VEcE16XzNUclRiOG5WSUZFVFZka0c5MGpYSDM0M1BnbnRrWWhYR2VlTnVtOHh4OGIzcXRjZEw5bE8yV0VqSGh0VXVSMVpyMUhNLXl0djNxNUpRVm5oWnhLWm1ONlRidVZfY1BtSjdaQWlEcTFIRUY5?oc=5"
         }
       ]
     },
@@ -218,6 +266,18 @@
         {
           "name": "O Globo",
           "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOODJBMGZUNWhBTXo4YmZqX245OW8xb0JTQmk5blNLU3hSV3dzd0J6VXpOcUpDeWhOMnFOS1VFeWZUdmNHWEN1RmlEYzZvbVlTMS1WUXR2YmJoVEhZdF9iMU04ZGtxQmJ5Nk9fQVNWQVVWVnFCUDZibkY5MC1YYmM2b0ZWeGtJUlY4U3JLNTludzRzSlZYX08zdkRNVU9XZ2dkRUVhQWRvdlBHSHZkSDgxNFVscnNzMTJXZW5CTGNTNVlTRWFCOE9QaF94anlaX3o0MzJRaTlob3EwRmhFYTBUd0lnb0QweUw4QVBZX0VyQlV2QWlPaGZWeW1R0gGIAkFVX3lxTE9LYXNDZTVqd2piN1BQbVdzVVlzOUhXMkhxeU9rQzA4NGZVME9fYnpWRXVNclNFeEhxTTFNUVVBRVctYTlvU0pHSE1Lc1FYNGR5ZHAtNkFmNTQxcUI3WHViblZTeDFYYjk0YnJIa2tNZzBYbWhVNHBqd0ZOTDdPMEVlci1INVZvcXd6YXVHbUJLRjZyajhxUm4wSUttTkVkUVhLMTRFTE5FeUpNck41dEdFNXZ0VU5mTXZfZm4wU2x2TFNDSjJpMjJYdXJqN2VaeV9xQ1Jpc1d5b19IYXJTbmtzZzU5WXE4by0yQXF5dU5NYkdfbmhUbzZPSlVBWjBSZjdYejQ1ckIyaA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2900437e296e",
+      "title": "Incidente radioativo no Ipen: o que se sabe sobre o tecnésio e os riscos à saúde - G1",
+      "published": "2026-06-12T11:45:02+00:00",
+      "summary": "Incidente radioativo no Ipen: o que se sabe sobre o tecnésio e os riscos à saúde&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOU2VzcE5iX0ZGbzVDQW5OWTJpUllpRU1OZnhxZllfdEZRdmVFM2lPSU5pajVjbjBrX2NhMVhIZjJTcjFsVHpqRmd1WFJJcnFJZElROWVVMktUZjBRYVo0bWNxaUgtcGhuS09FcFVLNmx1eER6V1lDVzFVN0lGYXlsbDRZUlZ3eXdoNDBjb1NR0gGcAUFVX3lxTE1iZW51eDFPc0otN3ZJTG1yRDdQZjJOejJLMm9Fc3RidzFHYy1XazItLUFISzNqWkpUZkkwMjFma2xpZm1VblJqWXJ4TURLdW9yU0UtWmg4S19TTUVPb0RFOURFUGp6WVd4c2xEdG1JTjltQXdxeGlaQ054ZU43eHQ1U1lLTDItNDllZDJUR2tBT2FMODZFMjdZa1ZNMw?oc=5"
         }
       ]
     },
@@ -254,18 +314,6 @@
         {
           "name": "Revista Oeste",
           "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPS1luTEhLdHRFeWhLYXk5bkZwU2pURFR0ZnN3eVg1QVVFVE5DQUs4dERDZ3NGQnJBcl85Tm5FeDN2ZktpTk9hX3RnODNNWFR6TGR5WUhKd1lqWVR2Rm5SZWN3ZlF3NTM0R3NHbGozbTllSGowQ2FaZW9oem90MWU2MU4xTW05UVVhb2FUMG9qQ0xuR29XWmlNbE0wVU10R2pJVXpkSHVmV3Q0RzBDMG5Helh5WE9WbjZQakI0MWh4MWI1cXJ1dTFqckZnU3ctVTUzWktocDdYbzJFY01TNndaQVctNWJLNE9pUldmMVFHaHItdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7d14a61e0b81",
-      "title": "Cientistas podem ter encontrado uma pista absurda sobre como a vida começou na Terra: nanopartículas minerais teriam usado luz, calor e eletricidade para transformar matéria sem vida nos primeiros blocos biológicos - CPG Click Petróleo e Gás",
-      "published": "2026-06-12T02:42:00+00:00",
-      "summary": "Cientistas podem ter encontrado uma pista absurda sobre como a vida começou na Terra: nanopartículas minerais teriam usado luz, calor e eletricidade para transformar matéria sem vida nos primeiros blocos biológicos&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVmpsSHMzMlQ5ZWItV0ZyemN5dnptaklmY1pPZnBVSlo1NEdOZk9LYmRIN1lscS12R3p5ZUJNTnNmbXk4Um13OHVLNy1LOFlnTmxVczhidkh0WXRETlhabllWdktlYmpuVzJFb1otNFhTeGlhR0RsX1R1OTQ3dnR0STJpeVFGV1NQbjVqTUxmc3kwczlh?oc=5"
         }
       ]
     }
