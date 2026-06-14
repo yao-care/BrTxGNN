@@ -1,7 +1,77 @@
 {
-  "generated": "2026-06-14T09:37:56.214436+00:00",
-  "count": 30,
+  "generated": "2026-06-14T14:07:42.926406+00:00",
+  "count": 29,
   "news": [
+    {
+      "id": "afcbffe330db",
+      "title": "Mais da metade dos casos de demência pode ser prevenida; veja como",
+      "published": "2026-06-14T08:30:00+00:00",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVTdvUFRsaWNtSWV1emhIalBudEhtMzBCQ1lrVXI3T3FvVF9uUkE0cWttRko1UnNESXAwLWJ4WWVZQXZoS0hNZGVtWUliVGlPZkw0UzhscXlST29xTFJrVTVpZnh4UFpWeWFNZ2pwcmJvRDZ1SXg0MU93SjhqWDhucE5UdmExZ1VHWHphUjU4QmxJbXU4Ny1xQ0k2bHBBWktSSUxXd05PY2JRelpGdHgtNWdKOW1RNE1GODFrcHRGR3k0dEdHbXUwTg?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        },
+        {
+          "type": "drug",
+          "slug": "tadalafil",
+          "keyword": "CIALIS",
+          "name": "TADALAFIL",
+          "url": "/drugs/tadalafil/"
+        },
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "demência",
+          "related_drugs": [
+            {
+              "slug": "biperiden",
+              "name": "Biperiden"
+            },
+            {
+              "slug": "entacapone",
+              "name": "ENTACAPONE"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "albendazole",
+              "name": "Albendazole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d9b00d35dcff",
+      "title": "Austrália rastreia o oceano a 4.500 metros de profundidade e encontra o DNA de um gigante que estava desaparecido há 25 anos - Brasil 247",
+      "published": "2026-06-14T04:15:00+00:00",
+      "sources": [
+        {
+          "name": "Brasil 247",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQbjhDVHBSMFBJSlNYbHZuTlQ1REdSbHYxaGRDWDlqZkhpMnRySmwxbmQ1NFAzcTNPODhGZ05TaXU2djMyTWxReVpvdHBwQWstOFhoTTg0dl80S2J0Qmg0VTNDbm5KWjVrTFh5UUFOeHZZaVhoWDB6ZEZPQjNkNGxSWFJOSHJYUURFOEdBdzVpVmFjekc3MFUzdTF3bkVnUklha0dVbVRXU2JPWXZ4ejRWVkx3ODlLT3dDQWROZFZ4RV9FT1VFMDVjQi0wWjBCSnVSMVRldlIxSElDMVR4STI3dFAyc0ltSkRvZlFKcVFoMUhnRkVYOXJlbjdOTm9zX2hhV0E?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
     {
       "id": "8cb2f85c69f2",
       "title": "Uma empresa do interior de Santa Catarina recebe das serrarias uma madeira que duraria um ou dois anos e a devolve com garantia de mais de 15; o segredo da madeira tratada está em substituir a seiva do eucalipto e do pinus por uma solução química nu - CPG Click Petróleo e Gás",
@@ -43,22 +113,148 @@
       ]
     },
     {
-      "id": "2f3a2b88500f",
-      "title": "'Mancha fria' no Atlântico intriga especialistas sobre clima - Folha de S.Paulo",
-      "published": "2026-06-13T21:45:00+00:00",
+      "id": "bd2a57e7b17a",
+      "title": "Terapia inovadora regenera cartilagem afetada pela artrite e pode ser o caminho para evitar cirurgia - Folha PE",
+      "published": "2026-06-13T19:04:43+00:00",
       "sources": [
         {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUWk2XzIzWWxrWXg3OWFGcWE4VnN3MGozdU01QmE2VEF3b19pWlNvcG1iajBnbE1wTXk2NmZHUFlZRHd4RExZVXZCU1pfaFFlZmE5Y1RzRlR5UHE5Q19TQ0RBUzZLWVU4OWpwWFhUNmVHeGxhdmswYUdiTEJKNnk1UGFHRzVwNlVTbmxQUlBxLVhjZlk1RzlrWFgzdjRkNkRfN05NcmdqM0NMT2RaTFlsNw?oc=5"
+          "name": "Folha PE",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSWN4OS1pTVFtcUNVclpjN2c5QlVvZFhSSExXOE1fVUZZVlMwaEk3TVBaR3M5OTZhbWF4ZFYzbFVNMWgyR0lueGMyMWE0ZzYyRXBUVlV2XzQ5SHI4Qk8xN3dfaWpTcWZvQ3E3Z0RfRHpTc3ZGNUNiQ1BKajZPSS1GUDduWVZROVhtdU9oWE1RRzdLU3VOSktUdHNGUHhxMnQ2eEN1M2FubS1LVVRrdU1tSFZuUdIBtwFBVV95cUxObnBlQXFHS2RFbDlycXUxVFlJZmFEdTlFcGFUMW1CR0FCbkRabWY0eC13UllrX252MWZRR1JYX2dhRDZlRzBvT0g2d3UyNHhwUXVBbkNWRDJPWEZTMHMzVTV5YjloMmw2WmhHYXdKeU81cVNnY2QwTEhXa0lHTy1pNzVCYW1FV2pTSmNweHQ5TmU3RGpUWGZSUFJ2Wm8zd3FBNnBnbHlDU1hpT3ZPalZSenRkYmZrNnM?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        },
+        {
+          "type": "drug",
           "slug": "tadalafil",
-          "keyword": "CIALIS",
+          "keyword": "TADA",
           "name": "TADALAFIL",
           "url": "/drugs/tadalafil/"
+        },
+        {
+          "type": "indication",
+          "name": "rheumatoid arthritis",
+          "keyword": "artrite",
+          "related_drugs": [
+            {
+              "slug": "selenium",
+              "name": "Selenium"
+            },
+            {
+              "slug": "potassium_sulfate",
+              "name": "Potassium sulfate"
+            },
+            {
+              "slug": "gadoteridol",
+              "name": "Gadoteridol"
+            },
+            {
+              "slug": "tenoxicam",
+              "name": "Tenoxicam"
+            },
+            {
+              "slug": "metamizole",
+              "name": "Metamizole"
+            },
+            {
+              "slug": "phenylbutazone",
+              "name": "Phenylbutazone"
+            },
+            {
+              "slug": "apixaban",
+              "name": "Apixaban"
+            },
+            {
+              "slug": "centella_asiatica",
+              "name": "Centella asiatica"
+            },
+            {
+              "slug": "nimesulide",
+              "name": "Nimesulide"
+            },
+            {
+              "slug": "nomegestrol_acetate",
+              "name": "Nomegestrol acetate"
+            },
+            {
+              "slug": "amiodarone",
+              "name": "Amiodarone"
+            },
+            {
+              "slug": "cabazitaxel",
+              "name": "Cabazitaxel"
+            },
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            },
+            {
+              "slug": "ioversol",
+              "name": "Ioversol"
+            },
+            {
+              "slug": "rivaroxaban",
+              "name": "Rivaroxaban"
+            },
+            {
+              "slug": "valganciclovir",
+              "name": "Valganciclovir"
+            },
+            {
+              "slug": "elexacaftor",
+              "name": "Elexacaftor"
+            },
+            {
+              "slug": "magnesium",
+              "name": "Magnesium"
+            },
+            {
+              "slug": "lumacaftor",
+              "name": "Lumacaftor"
+            },
+            {
+              "slug": "tezacaftor",
+              "name": "Tezacaftor"
+            },
+            {
+              "slug": "piracetam",
+              "name": "Piracetam"
+            },
+            {
+              "slug": "ivacaftor",
+              "name": "Ivacaftor"
+            },
+            {
+              "slug": "tocopherol",
+              "name": "Tocopherol"
+            },
+            {
+              "slug": "prasugrel",
+              "name": "Prasugrel"
+            },
+            {
+              "slug": "clopidogrel",
+              "name": "Clopidogrel"
+            },
+            {
+              "slug": "memantine",
+              "name": "Memantine"
+            },
+            {
+              "slug": "cabotegravir",
+              "name": "Cabotegravir"
+            },
+            {
+              "slug": "lornoxicam",
+              "name": "Lornoxicam"
+            }
+          ]
         }
       ]
     },
@@ -103,6 +299,26 @@
       ]
     },
     {
+      "id": "9a0ae21a57ab",
+      "title": "O mar brilhante do tamanho da Islândia que aparece no oceano quando trilhões de bactérias acendem juntas - Revista Oeste",
+      "published": "2026-06-13T17:45:00+00:00",
+      "sources": [
+        {
+          "name": "Revista Oeste",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOEhaYzRKcWI5bmtCZmRiNTNrNF9IMVFabnJfWnVHOFR0SVFScXJhdHlaUzE4NDBSZEQ5TXM4S3o5bHpRTERGNXlxcVVSYUlEa3ExdlZkX2o3Vkp0UjE3QXdpQjRYelNrSG9VRU5jT3dlNFFKM1Q0S2hBTmVXc183VE1ONE1adUctZ1NVSy1ObHdBV1prV2QtYWMwSTJlNlhEb3ZaMzNvLUwwbEdmS0IzQmdtdS13aFlNcDh0TW9EeGNBekNNOUtaWmNXU2dhM1lkYXVEUWl6MWhUYTc5eHU2OG5KMXh3dVU?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "levetiracetam",
+          "keyword": "TAM",
+          "name": "LEVETIRACETAM",
+          "url": "/drugs/levetiracetam/"
+        }
+      ]
+    },
+    {
       "id": "a643ea1fd818",
       "title": "Sistema de água e mesquita da era Mameluca são descobertos no Egito - CNN Brasil",
       "published": "2026-06-13T15:00:11+00:00",
@@ -123,22 +339,22 @@
       ]
     },
     {
-      "id": "10a2f8f29872",
-      "title": "A 360 metros de altura, ponte de vidro avança 35 metros sobre cânion no Brasil e deixa visitantes “flutuando” sobre o Vale da Ferradura, com vista para o rio Caí e a Cascata do Caracol - CPG Click Petróleo e Gás",
-      "published": "2026-06-13T14:45:00+00:00",
+      "id": "bf46357f4583",
+      "title": "\"Mancha fria\" no Atlântico intriga especialistas sobre clima",
+      "published": "2026-06-13T14:03:18+00:00",
       "sources": [
         {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNOEJyYXVFbDlXWDRhWmtFbEE3QWVjM2lXTmFmYnJzWGlkV1JQVkJxZEdTWks2b29JaHpnMk9ydUkwbTdZT3dkeGowTWE4MjhaNEpINFRqaVNiT0oxaXdzREY1LVFCdmhmZWRwMEpTdHBDSTlPbV9mZWF0OG1vc1F6NkQxR1BGdl9iS0RBbV9VUjJEdDFPT3Fwa3NoV3hZdVdnd0Y5ektKV29rZUtwWWk2b0s5THV1NXpjaVg3bGFVaTZxcUhrdGtkakVpNGNpeHJkWDZYTzBRcUhWUm50LTdzN2ZZaDFic013bjZkSnRxVENKaThWdVUwc1d4Rm9IM0poMEtsMTU3WWpOb2d3NUJQejF2X1dmMkVUWmZNdDRqTm9XYjJjN3VJUnVNbF9vVG5kSk92LUp1X3BoWlZwNjA3NWl3?oc=5"
+          "name": "DW.com",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYzlzUTlIUi1rWjBJSEF5bzEycU85TURmQ3JlRUNnRFVhcmtMWVZVeDM3b2ZuUHhHOVZQVE5mUUhGYWdsREpXd1hKTGlBdEdXVXAzbHJqc1dxMFFNVnI4Y1Noc3Z4Y3dGd3RyM01acW82UXU5Zkl5NTJ0OFc1ZWNBa1dNbDRrdFZzOUIzTDZ1RGhMOVBlSENveHYydkZCM3Zp0gGgAUFVX3lxTE55SnRKdHJwZ3QwcXFkSWFVM2N5Q2J1ajNncmNqdjN2ZW55bFdHd05nMU1mWlpXUzBHemJzQWVQcmdhYnpxN3RzSWtkNU8xUG1QUDUtc1owMUw3amp2X0JoMWkwdlBlR0tjZm5oVzVxYllDYTNKU1JtckJLaWxSR2NFQ3FZM1F2RUdMMXZxWkE5WU9YdEJIZE5mamtRZzZnSU8?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
+          "slug": "tadalafil",
+          "keyword": "CIALIS",
+          "name": "TADALAFIL",
+          "url": "/drugs/tadalafil/"
         }
       ]
     },
@@ -166,41 +382,6 @@
           "keyword": "BIO",
           "name": "ETANERCEPTE",
           "url": "/drugs/etanercepte/"
-        }
-      ]
-    },
-    {
-      "id": "cde25a714042",
-      "title": "Um estudo de Harvard identificou que pessoas entre 58 e 72 anos que mantêm pelo menos uma amizade desde a infância apresentam taxas de ansiedade 40% menores do que a média da população - Super Rádio Tupi",
-      "published": "2026-06-13T13:01:47+00:00",
-      "sources": [
-        {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPc2xfbGV4bUpyMmd0VGZLRldfVjVFM3B3ZldFQlA3TE82NGY1M3NvbDU5QzFSVS1xSnFNeUpfWWllZ0ZuY0otRHNzY0lzTWhaWHF1QnRSak1lc2xDY3FPb2NtekJNOXRFRDU3Rmd6YzBfX2xYM0xWTUVSMEc5bTI0UEh2dDVZN2s4eWZHN2dpWEVxVXpETXY1eldiRXdZWnE0bnhMQ0hrb1AwOVdMY1VqaURJMzVxMGZFMHJQNG4yRHF6QjZpbDNwOVJZMzh1UnRrMlNZRkk4dEczb09XRDNvNVNPOFlWRmowejdiWjJiQkNCbTZ1WHZEd1d4ZHUybjlSWGhNUm40SjV0NXdVeEduOXdFZzh2UmdtV19teE1sTUxuTFBLTEd5WUFZRV9Rc0tSVWNEbGFfdUEyR3k2R25QOQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "levetiracetam",
-          "keyword": "TAM",
-          "name": "LEVETIRACETAM",
-          "url": "/drugs/levetiracetam/"
-        },
-        {
-          "type": "indication",
-          "name": "anxiety disorder",
-          "keyword": "ansiedade",
-          "related_drugs": [
-            {
-              "slug": "flunitrazepam",
-              "name": "Flunitrazepam"
-            },
-            {
-              "slug": "centella_asiatica",
-              "name": "Centella asiatica"
-            }
-          ]
         }
       ]
     },
@@ -242,6 +423,33 @@
         }
       ],
       "keywords": [
+        {
+          "type": "drug",
+          "slug": "etodolaco",
+          "keyword": "DORE",
+          "name": "ETODOLACO",
+          "url": "/drugs/etodolaco/"
+        }
+      ]
+    },
+    {
+      "id": "4c3d8fab7c28",
+      "title": "Alta de casos de sarampo nos países da Copa liga sinal de alerta na região",
+      "published": "2026-06-13T12:30:00+00:00",
+      "sources": [
+        {
+          "name": "liberal.com.br",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMDJuQ1hsQVNLbVM4SGxNaWlIMzNSUVpUVGo1cTRPaXNjUnF2NC05WG9rUkpDTjc1NW1mZVc3dHRDeU1BNDhZaHN6dTh0SGg1STBZQk5MN3U5dUJMeVhpM3AzbFlaUnhHYUI3RFBIZ0hrdm45UG5TNWh0RnhsUEJ5ZWYwUEpRN0J6N25sb2RSd0pLTFQ5MThoUGFrcy1yRVJDM1d5MklWdWFhNW5DSFAwUmVB?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        },
         {
           "type": "drug",
           "slug": "etodolaco",
@@ -764,46 +972,6 @@
       ]
     },
     {
-      "id": "0f2accd4ef63",
-      "title": "450 \"especialistas\" preveem como estará o mundo em 2036 e as previsões são alarmantes - Olhar Digital",
-      "published": "2026-06-12T21:00:00+00:00",
-      "sources": [
-        {
-          "name": "Olhar Digital",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOR3YwTnQ5TG8tWXlxTUNnbTFxZ3Y2QmR4LVo0blFMWTdCNVFmYjdvZUs4ZFZoaXFjaXRoelVJRDlYTGZwa3hYdHF2Q3dxLWY3UVptekJKMDI3cGlkSE00a3VNUDNiLWszU1ZUQk53RDhtSEhtWWxENXd4SndDYm1RREg1VmMzSExrQllxY1ptRVlucmZvdlo5NUpvdTF0SDJRbEQ2OXJsNU13MmVuNFA1ME5ZSmUyYXBzMXJORU1QTUtqeHhGRXRUX0JnR1JGVFdmVUk5ZGtlQQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "tadalafil",
-          "keyword": "CIALIS",
-          "name": "TADALAFIL",
-          "url": "/drugs/tadalafil/"
-        }
-      ]
-    },
-    {
-      "id": "ffd552dd523b",
-      "title": "\"Terrorismo psicológico\", diz Michelle sobre ameaça a deputada de MT",
-      "published": "2026-06-12T18:50:00+00:00",
-      "sources": [
-        {
-          "name": "MidiaNews",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVDlENWJONkxqbjkzUnEyYkphb1NfeUJGQ2M0UmNsNjBYbXR0OVpIUXYxUWNqaXlVUHZHa3Nud3pvQjlMTGQ3TENkSFRwMmdVbVF5OF9reF9nZjlMY3ZVbzdGQVdtaXR5dERPeldHek1KQWxfWEZ6dGlIbFg0cmhHWllmcEpKMWhWeXJBNTRnMDFMVUMyVmtOanZmU0Y1Tmg2ZzVWcFZxOTh4SC1tc0VB?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "tadalafil",
-          "keyword": "TADA",
-          "name": "TADALAFIL",
-          "url": "/drugs/tadalafil/"
-        }
-      ]
-    },
-    {
       "id": "f8d579aa8b2f",
       "title": "“OPERANTAR XLIV” reforça a pesquisa científica e a presença do Brasil na Antártica - Agência Marinha",
       "published": "2026-06-12T18:37:39+00:00",
@@ -864,53 +1032,6 @@
       ]
     },
     {
-      "id": "4c2540ea391a",
-      "title": "Ciência e tecnologia do INPE têm papel de destaque na redução histórica do desmatamento na Amazônia",
-      "published": "2026-06-12T14:00:00+00:00",
-      "sources": [
-        {
-          "name": "www.gov.br",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSHVKcGVSa1lING8wRDFFWno0cmJkS1lNN2FseEVKc2d0eUQ3bUJBYmRZd1FfU1h1RTJlTjhtQ1V0Ym9fSlE3WDN6RmJwREZyZUZQdkJKZDZGOWhJelpEaGZIeGZQSldkUXVVaTFDOGl4UWtFeVY1bmVHT2F4ZXM0ZVhuVmFXVC1CNUlGRDJ0ZVR3VjA2MWs3aGM1TlNpUmFuYktiaGx6UkFNTE1BZUdzMzlkaldZOHRETE1zMkJTclBZUlF3aHJiSW5Xa01zYmlVbGkwVEI3b1NnaG94b2NtNjVFV0dFWE9qcmtR?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "levetiracetam",
-          "keyword": "TAM",
-          "name": "LEVETIRACETAM",
-          "url": "/drugs/levetiracetam/"
-        }
-      ]
-    },
-    {
-      "id": "4edc83f950b7",
-      "title": "Universo continua em expansão acelerada, aponta nova análise que contesta estudo de 2025 - Olhar Digital",
-      "published": "2026-06-12T13:44:00+00:00",
-      "sources": [
-        {
-          "name": "Olhar Digital",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYzZRNEdlMmRNWlJlaHF2bG5aOTFIYk8tSnZVbE1pWm01elYtUUU0a0w4eEtNbzdwcHN5TFNXWXpLa1RyamljSjdma1l3WkxYMWJsUWU5MmJJUUVQVXRWZHJVU21vTVdZM1E3S1VEcE16XzNUclRiOG5WSUZFVFZka0c5MGpYSDM0M1BnbnRrWWhYR2VlTnVtOHh4OGIzcXRjZEw5bE8yV0VqSGh0VXVSMVpyMUhNLXl0djNxNUpRVm5oWnhLWm1ONlRidVZfY1BtSjdaQWlEcTFIRUY5?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "diazepam",
-          "keyword": "UNI",
-          "name": "Diazepam",
-          "url": "/drugs/diazepam/"
-        },
-        {
-          "type": "drug",
-          "slug": "zinc",
-          "keyword": "UNI",
-          "name": "ZINC",
-          "url": "/drugs/zinc/"
-        }
-      ]
-    },
-    {
       "id": "a47f084ad225",
       "title": "Nutricionistas alertam sobre o 'maxxing': a dieta à base de proteínas e fibras que está em alta nas redes sociais - O Globo",
       "published": "2026-06-12T13:19:24+00:00",
@@ -938,33 +1059,6 @@
       ]
     },
     {
-      "id": "a5e9f3785ef1",
-      "title": "Vai dar Fartal? Saiba a previsão para o fim de semana em Foz do Iguaçu",
-      "published": "2026-06-12T12:42:12+00:00",
-      "sources": [
-        {
-          "name": "h2foz.com.br",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSG1qY21mRzlQTGM4cm5xN2tfSWd0dkl5c0dRNnhEVkZfYU1GaWFMZzRHaXZBR3VIMXVOYjNRZmh2bzI2a0RTdkNySVNtT01uVG80clIzZjlfcF9YVUVYSEdIdW9lc3U3TzU1OGljOGdiMWNRSVkxNGFNR0pUNHhaMTJ2Zw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "praziquantel",
-          "keyword": "FAR",
-          "name": "Praziquantel",
-          "url": "/drugs/praziquantel/"
-        },
-        {
-          "type": "drug",
-          "slug": "zidovudina",
-          "keyword": "FAR",
-          "name": "ZIDOVUDINA",
-          "url": "/drugs/zidovudina/"
-        }
-      ]
-    },
-    {
       "id": "00e4bb346dfc",
       "title": "Estudantes sepultam esqueleto usado em aulas após descobrirem que era de um humano - Banda B",
       "published": "2026-06-12T12:37:00+00:00",
@@ -985,13 +1079,13 @@
       ]
     },
     {
-      "id": "83e88d52e0f4",
-      "title": "Tamanho não é documento: quais espécies de animais lideram mortes no mundo? - UOL Notícias",
-      "published": "2026-06-12T11:42:58+00:00",
+      "id": "9511d656ba8f",
+      "title": "Sensores biodegradáveis acoplados em plantas detectam pesticidas em três minutos - Agência FAPESP",
+      "published": "2026-06-12T03:03:09+00:00",
       "sources": [
         {
-          "name": "UOL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcTVlbThYODVNeDNCdmtqTHBVaUQ0T0NJRXJuWHRZaWJTYThMSndpUVZEZHpjQ25PWUZoMENtU09zQV9mNlpRRzZkaGRPc1FUdVBXN00yWlBzX2hZY0JFQXRud0pXdjk3WDFXOFd4WHZXajRRVEVfdFRBbjlWeV9GVDZQY1lFX1ZWbURoQTM0d2JKZHdNMkZXSkNKU185SjdTa1N2YXdNZlZ0dnJaZU1YTmFpQ1hyYUZndzlNWmtPSk94NXh5WkFrRHYycXQxLXlLLVpzWUJ2SnJaR1VFQjFVVkxTMEIwNlM5LXc?oc=5"
+          "name": "Agência FAPESP",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbGZHMm1nbWRxc2h2RUIyeFlLNWxWZGhNZXF5VExqOTdtTkFoOXhKMTYzTldWMjQ3Zk9IZlM0Zl9aUlhYdkt0a0xTbmFuSjlkbXdIQWFKVEtTcFp2MEgxQVRFNmhvSk9YMHU1Mzk1a0hFNzFiZHB3U1RrQ2laUHpCdnQ4TmMxMmJVU2xEOEM2LXY2bXF6VlJMWlNuV1JWa3ZtVFljSzd1Zm96Ym5SNU5RLWd3?oc=5"
         }
       ],
       "keywords": [
@@ -1015,14 +1109,20 @@
           "keyword": "BIO",
           "name": "ETANERCEPTE",
           "url": "/drugs/etanercepte/"
-        },
+        }
+      ]
+    },
+    {
+      "id": "16473fffe8db",
+      "title": "Fóssil de espécie anterior aos dinossauros é descoberta no Brasil - CNN Brasil",
+      "published": "2026-06-11T19:20:52+00:00",
+      "sources": [
         {
-          "type": "drug",
-          "slug": "decitabina",
-          "keyword": "DECI",
-          "name": "DECITABINA",
-          "url": "/drugs/decitabina/"
-        },
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOHFpenBGYWVLX1VkVWszME9jZW9Na0F4R0diZE81TDlvU0IzNlpsclItMXM4MkZGcU9oSUtVUm9wampwaHJqcmNFUzNYSWd3SUdGc1RQb1J1eWdFQnVXUGZOVE1JRDZEZkpnRG9nbkxlUjA5M2hTUEgzSUhWTU12Y3NqTUZ6SThQYnB3M0VjUFliSDNqb196cFhOdTdqeG8walJDRVdn?oc=5"
+        }
+      ],
+      "keywords": [
         {
           "type": "drug",
           "slug": "silodosina",
@@ -1033,22 +1133,22 @@
       ]
     },
     {
-      "id": "1c0e0069266e",
-      "title": "Intolerância à lactose exige cuidado além do uso de comprimidos de lactase - Jovem Pan",
-      "published": "2026-06-12T10:55:42+00:00",
+      "id": "7e0cf8a1a614",
+      "title": "Onça-pintada é flagrada em vídeo ao atravessar rio e abater jacaré de grande porte",
+      "published": "2026-06-11T17:55:28+00:00",
       "sources": [
         {
-          "name": "Jovem Pan",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOHhvR2wteFZ0U0hFa1BFcUI5N2JUaTZ4VTZiMExnT0hMbUhkQzYtM3pjMVFmSmV6TG5idVNjeUNJUzRxbHRoTTF6RE9tWDVYbnFZbXRfMjUtSWhZeWxZVGZwWkNObmRGSGhJWEhDakN5OEluZGV2UFlpWUwtSktUUVFJejhrWk82MXdxU1M0TlY0di1NdVNNTVdEVHlZNTlWdWZhRTByM3o?oc=5"
+          "name": "VEJA",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOakNsNW5NdTA2VEdVZV90UkEzRHJmYmlKLTg2bkpVRG9KQXdjWmpQaEVqdGY4a2wwUG5fMHlJMTRqZEEyNlZkSGVKSjhQdV9jVTc4WTF6OTBJRlVycTA5SVRxVElXSVowMUF6UDlqa2JqejBzem1xakVsaDl5XzVGUkV2SC01aklQWjRnaG5PdUYyM1E4ZF9ySHN0dHF2SzByd1hTZkN3YmV5MjMwbGVaQm9GOElEN0hj?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "drug",
-          "slug": "lactose",
-          "keyword": "lactose",
-          "name": "Lactose",
-          "url": "/drugs/lactose/"
+          "slug": "tadalafil",
+          "keyword": "TADA",
+          "name": "TADALAFIL",
+          "url": "/drugs/tadalafil/"
         }
       ]
     }

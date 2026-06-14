@@ -1,19 +1,55 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-06-14T09:37:54.979261+00:00",
-  "total_fetched": 80,
-  "unique_count": 80,
-  "health_related_count": 25,
+  "fetched_at": "2026-06-14T14:07:41.850679+00:00",
+  "total_fetched": 79,
+  "unique_count": 79,
+  "health_related_count": 23,
   "news": [
+    {
+      "id": "afcbffe330db",
+      "title": "Mais da metade dos casos de demência pode ser prevenida; veja como - UOL",
+      "published": "2026-06-14T08:30:00+00:00",
+      "summary": "Mais da metade dos casos de demência pode ser prevenida; veja como&nbsp;&nbsp;UOLA falta de estímulo mental pode estar relacionada ao envelhecimento mais rápido do cérebro, segundo estudos&nbsp;&nbsp;Tua Saúde4 mil passos por dia já reduzem o risco de declínio da memoria, diz especialista em envelhecimento&nbsp;&nbsp;O GloboComo prevenir a demência: dados que você precisa saber&nbsp;&nbsp;Diário do EstadoSeu cérebro pode continuar melhorando até os 90 anos, segundo estudo&nbsp;&nbsp;obusilis.com",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVTdvUFRsaWNtSWV1emhIalBudEhtMzBCQ1lrVXI3T3FvVF9uUkE0cWttRko1UnNESXAwLWJ4WWVZQXZoS0hNZGVtWUliVGlPZkw0UzhscXlST29xTFJrVTVpZnh4UFpWeWFNZ2pwcmJvRDZ1SXg0MU93SjhqWDhucE5UdmExZ1VHWHphUjU4QmxJbXU4Ny1xQ0k2bHBBWktSSUxXd05PY2JRelpGdHgtNWdKOW1RNE1GODFrcHRGR3k0dEdHbXUwTg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bd2a57e7b17a",
+      "title": "Terapia inovadora regenera cartilagem afetada pela artrite e pode ser o caminho para evitar cirurgia - Folha PE",
+      "published": "2026-06-13T19:04:43+00:00",
+      "summary": "Terapia inovadora regenera cartilagem afetada pela artrite e pode ser o caminho para evitar cirurgia&nbsp;&nbsp;Folha PECientistas encontram forma de regenerar articulações desgastadas&nbsp;&nbsp;R7Cientistas de Stanford recuperam cartilagem perdida e revertem artrite em grande avanço&nbsp;&nbsp;obusilis.com.brTerapia experimental regenera cartilagem afetada pela artrite e pode ajudar a evitar cirurgias&nbsp;&nbsp;Tribuna do SertãoCientistas de Stanford restauram cartilagem perdida e eliminam ar",
+      "sources": [
+        {
+          "name": "Folha PE",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSWN4OS1pTVFtcUNVclpjN2c5QlVvZFhSSExXOE1fVUZZVlMwaEk3TVBaR3M5OTZhbWF4ZFYzbFVNMWgyR0lueGMyMWE0ZzYyRXBUVlV2XzQ5SHI4Qk8xN3dfaWpTcWZvQ3E3Z0RfRHpTc3ZGNUNiQ1BKajZPSS1GUDduWVZROVhtdU9oWE1RRzdLU3VOSktUdHNGUHhxMnQ2eEN1M2FubS1LVVRrdU1tSFZuUdIBtwFBVV95cUxObnBlQXFHS2RFbDlycXUxVFlJZmFEdTlFcGFUMW1CR0FCbkRabWY0eC13UllrX252MWZRR1JYX2dhRDZlRzBvT0g2d3UyNHhwUXVBbkNWRDJPWEZTMHMzVTV5YjloMmw2WmhHYXdKeU81cVNnY2QwTEhXa0lHTy1pNzVCYW1FV2pTSmNweHQ5TmU3RGpUWGZSUFJ2Wm8zd3FBNnBnbHlDU1hpT3ZPalZSenRkYmZrNnM?oc=5"
+        }
+      ]
+    },
     {
       "id": "13a7d5a251cf",
       "title": "'Vacina do Butantan entrou no SUS sem seguir a lei', diz ex-ministro da Saúde - Revista Oeste",
       "published": "2026-06-13T17:51:04+00:00",
-      "summary": "'Vacina do Butantan entrou no SUS sem seguir a lei', diz ex-ministro da Saúde&nbsp;&nbsp;Revista OesteInfectologista fala sobre suspensão da vacina da dengue do Butantan&nbsp;&nbsp;G1Saúde/ Princípio da precaução&nbsp;&nbsp;CartaCapitalCeará registra caso suspeito de reação grave à vacina contra dengue do Butantan&nbsp;&nbsp;O POVO+Vacina da dengue é segura; Sesau alerta para fake news – CGNotícias&nbsp;&nbsp;campogrande.ms.gov.br",
+      "summary": "'Vacina do Butantan entrou no SUS sem seguir a lei', diz ex-ministro da Saúde&nbsp;&nbsp;Revista OesteInfectologista fala sobre suspensão da vacina da dengue do Butantan&nbsp;&nbsp;G1Ceará registra caso suspeito de reação grave à vacina contra dengue do Butantan&nbsp;&nbsp;O POVO+Após vacina da dengue ser suspensa por precaução, confira o que muda em MS&nbsp;&nbsp;MidiamaxVacina do Butantan contra a dengue não está em fase ‘experimental’, diferentemente do que diz vídeo&nbsp;&nbsp;Estadão",
       "sources": [
         {
           "name": "Revista Oeste",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUVl3Rm1DQVJoX2dPRC1xVWRXZHVKczRRRUlubXdkVExGajZVTkNHUkV2Um9wNUpRV0laenBlRFF2cHZQZVV1R09mb0pWenljTnNFYTZQZFFZbjFuenFCektqUGlCekxQMmNKOUw4anpUWUdndGNoazNlemZMcjNjZzB5cEt3dWJFa0FaRklUMmYxQTl0ZGRsVmNqSHUtX21SbkZ2TElNZHJ4OGVQb0E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9a0ae21a57ab",
+      "title": "O mar brilhante do tamanho da Islândia que aparece no oceano quando trilhões de bactérias acendem juntas - Revista Oeste",
+      "published": "2026-06-13T17:45:00+00:00",
+      "summary": "O mar brilhante do tamanho da Islândia que aparece no oceano quando trilhões de bactérias acendem juntas&nbsp;&nbsp;Revista Oeste",
+      "sources": [
+        {
+          "name": "Revista Oeste",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOEhaYzRKcWI5bmtCZmRiNTNrNF9IMVFabnJfWnVHOFR0SVFScXJhdHlaUzE4NDBSZEQ5TXM4S3o5bHpRTERGNXlxcVVSYUlEa3ExdlZkX2o3Vkp0UjE3QXdpQjRYelNrSG9VRU5jT3dlNFFKM1Q0S2hBTmVXc183VE1ONE1adUctZ1NVSy1ObHdBV1prV2QtYWMwSTJlNlhEb3ZaMzNvLUwwbEdmS0IzQmdtdS13aFlNcDh0TW9EeGNBekNNOUtaWmNXU2dhM1lkYXVEUWl6MWhUYTc5eHU2OG5KMXh3dVU?oc=5"
         }
       ]
     },
@@ -42,18 +78,6 @@
       ]
     },
     {
-      "id": "cde25a714042",
-      "title": "Um estudo de Harvard identificou que pessoas entre 58 e 72 anos que mantêm pelo menos uma amizade desde a infância apresentam taxas de ansiedade 40% menores do que a média da população - Super Rádio Tupi",
-      "published": "2026-06-13T13:01:47+00:00",
-      "summary": "Um estudo de Harvard identificou que pessoas entre 58 e 72 anos que mantêm pelo menos uma amizade desde a infância apresentam taxas de ansiedade 40% menores do que a média da população&nbsp;&nbsp;Super Rádio Tupi",
-      "sources": [
-        {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPc2xfbGV4bUpyMmd0VGZLRldfVjVFM3B3ZldFQlA3TE82NGY1M3NvbDU5QzFSVS1xSnFNeUpfWWllZ0ZuY0otRHNzY0lzTWhaWHF1QnRSak1lc2xDY3FPb2NtekJNOXRFRDU3Rmd6YzBfX2xYM0xWTUVSMEc5bTI0UEh2dDVZN2s4eWZHN2dpWEVxVXpETXY1eldiRXdZWnE0bnhMQ0hrb1AwOVdMY1VqaURJMzVxMGZFMHJQNG4yRHF6QjZpbDNwOVJZMzh1UnRrMlNZRkk4dEczb09XRDNvNVNPOFlWRmowejdiWjJiQkNCbTZ1WHZEd1d4ZHUybjlSWGhNUm40SjV0NXdVeEduOXdFZzh2UmdtV19teE1sTUxuTFBLTEd5WUFZRV9Rc0tSVWNEbGFfdUEyR3k2R25QOQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "92f81f0c6c8d",
       "title": "Casos respiratórios disparam entre crianças e acendem alerta em Marília - Marília Notícia",
       "published": "2026-06-13T12:43:13+00:00",
@@ -69,11 +93,23 @@
       "id": "96ae4cd8b7ca",
       "title": "Suplemento popular é associado a risco de desenvolver Alzheimer, revela estudo; entenda - O Globo",
       "published": "2026-06-13T12:36:53+00:00",
-      "summary": "Suplemento popular é associado a risco de desenvolver Alzheimer, revela estudo; entenda&nbsp;&nbsp;O GloboUm dos suplementos mais usados ​​para dores articulares pode estar ligado ao desenvolvimento mais rápido da doença de Alzheimer, sugere estudo&nbsp;&nbsp;Tua SaúdeSuplemento popular para articulações é associado à progressão mais rápida da doença de Alzheimer&nbsp;&nbsp;Catraca LivreSuplemento popular entra em alerta após estudo sobre Alzheimer&nbsp;&nbsp;diariodopara.com.brAlzheimer: estudo",
+      "summary": "Suplemento popular é associado a risco de desenvolver Alzheimer, revela estudo; entenda&nbsp;&nbsp;O GloboUm dos suplementos mais usados ​​para dores articulares pode estar ligado ao desenvolvimento mais rápido da doença de Alzheimer, sugere estudo&nbsp;&nbsp;Tua SaúdeGlucosamina e Alzheimer: estudo aponta possível associação e levanta alerta sobre suplemento popular&nbsp;&nbsp;TerraAlzheimer: estudo associa suplemento à evolução mais rápida da doença&nbsp;&nbsp;MetrópolesEstudo liga glucosamina",
       "sources": [
         {
           "name": "O Globo",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTFhja2VMY0FXaW1lNFZ6Y0JlcW5Yb0NUMmZLVFNTTHBvNFp3RFZpaDJETlZycFkyOTJRT2xCSDdhbnVicWRDWGpJczNlQmVGX2RIYU56RFlLbWxpdHlMYVJvRzhZNXZLSzFMdjUzd2MwWkFPSHpJUlJCQjNXdWU5QVlMNllhalBmTUh1Z252X180RmEwTjRfclp0LU9qX1BhdzVHdXFkemdBN0ZfdW1ZZHYyMDIzUEROTnMzdy1GcEJBa1lYcmRCS1RiV1B3Sk0wdTVhdXVaT0zSAecBQVVfeXFMUFY1UTYzLWRsbWxwdXJhcl8tcTc2TkNNOFA5Y04yR0FiT18xaEIwX1JXaG5YTk1Cc051aVE1a2RfMVJoa0xWSm1QWU9Oa0R6dkJpRlVqdjBITmVIdkdmQ3hpcFo0ZWRQSy1pc1daYUo1NXEyWUFrSUZJU1ZtaGRFTl9jSGZ6UlVPQ2dVLVhRYUlFVWQ1RUoxRHJ5Vlo2ZGk3S05WTFFCWUtTLXNVcjAtYmYycW93OVVia3FVVC1HNTBZVVBrY3lmeDhTUkdCWVUtajFWWWV2S19wOFlvVEFxQVdCemd3Zkk0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4c3d8fab7c28",
+      "title": "Alta de casos de sarampo nos países da Copa liga sinal de alerta na região - liberal.com.br",
+      "published": "2026-06-13T12:30:00+00:00",
+      "summary": "Alta de casos de sarampo nos países da Copa liga sinal de alerta na região&nbsp;&nbsp;liberal.com.brSarampo: infectologista alerta sobre vacinação em viagens para a Copa&nbsp;&nbsp;Viagem e TurismoSurto de sarampo nos países da Copa acende alerta para goianos que vão ao Mundial&nbsp;&nbsp;O PopularBrasil lança campanha de vacinação contra sarampo para torcedores que vão para a Copa&nbsp;&nbsp;G1Esgotos dos EUA podem causar surto de doenças durante a Copa do Mundo&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "liberal.com.br",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMDJuQ1hsQVNLbVM4SGxNaWlIMzNSUVpUVGo1cTRPaXNjUnF2NC05WG9rUkpDTjc1NW1mZVc3dHRDeU1BNDhZaHN6dTh0SGg1STBZQk5MN3U5dUJMeVhpM3AzbFlaUnhHYUI3RFBIZ0hrdm45UG5TNWh0RnhsUEJ5ZWYwUEpRN0J6N25sb2RSd0pLTFQ5MThoUGFrcy1yRVJDM1d5MklWdWFhNW5DSFAwUmVB?oc=5"
         }
       ]
     },
@@ -150,18 +186,6 @@
       ]
     },
     {
-      "id": "871b2423718e",
-      "title": "Elon Musk se torna o primeiro trilionário do mundo - O Dia",
-      "published": "2026-06-12T21:57:00+00:00",
-      "summary": "Elon Musk se torna o primeiro trilionário do mundo&nbsp;&nbsp;O Dia",
-      "sources": [
-        {
-          "name": "O Dia",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNU0dNRXEwOThZWVZwRGJRV210UXlBcV9FWktndUVlQ0JfQnFNRVg0ckhtSVN5MkM3TExqOC1QUElhX3VQN21LeWlNUEJHNUZoQUZLYUhKZ2NiLXpHX2YtTndFeVBkWGlqQTBFRFpNV19uTkczNUhoYWJwdVVlZEpUd0tmbUJnZUJRVzdnRkpBUC1ad3BEZkFfQVpmc3V2Tms1V3BGV2R3OTJEOF9ucGhN?oc=5"
-        }
-      ]
-    },
-    {
       "id": "65f24e14d4d1",
       "title": "As duas lembranças da infância que marcam para sempre os adultos, segundo estudos psicológicos: Fotos - purepeople.com.br",
       "published": "2026-06-12T21:46:00+00:00",
@@ -222,34 +246,10 @@
       ]
     },
     {
-      "id": "4edc83f950b7",
-      "title": "Universo continua em expansão acelerada, aponta nova análise que contesta estudo de 2025 - Olhar Digital",
-      "published": "2026-06-12T13:44:00+00:00",
-      "summary": "Universo continua em expansão acelerada, aponta nova análise que contesta estudo de 2025&nbsp;&nbsp;Olhar Digital",
-      "sources": [
-        {
-          "name": "Olhar Digital",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYzZRNEdlMmRNWlJlaHF2bG5aOTFIYk8tSnZVbE1pWm01elYtUUU0a0w4eEtNbzdwcHN5TFNXWXpLa1RyamljSjdma1l3WkxYMWJsUWU5MmJJUUVQVXRWZHJVU21vTVdZM1E3S1VEcE16XzNUclRiOG5WSUZFVFZka0c5MGpYSDM0M1BnbnRrWWhYR2VlTnVtOHh4OGIzcXRjZEw5bE8yV0VqSGh0VXVSMVpyMUhNLXl0djNxNUpRVm5oWnhLWm1ONlRidVZfY1BtSjdaQWlEcTFIRUY5?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ae8e4f7e8ff4",
-      "title": "Revista Pesquisa FAPESP: uma carta de despedida - Observatório da Imprensa",
-      "published": "2026-06-12T13:38:43+00:00",
-      "summary": "Revista Pesquisa FAPESP: uma carta de despedida&nbsp;&nbsp;Observatório da Imprensa",
-      "sources": [
-        {
-          "name": "Observatório da Imprensa",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX3dJZGR0S2R6VnpPeXQxNG1nYUxVMXFqTlpBYWxRZnhBbFI1ZkNTMy1xNVF0V2gtV1htRkhNd01ieUIxQ01HblJtUk05bXU4bVZPbklIdGJ6UG5HTGFtQUZ3NWxpUF84QjMyT1ZndDRPYXFHY3ltWDNEeUIyUnNCWHJ2bk9YdmRES0pJMm5UdnZjdkFIUXpBRHZGWU9XQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a47f084ad225",
       "title": "Nutricionistas alertam sobre o 'maxxing': a dieta à base de proteínas e fibras que está em alta nas redes sociais - O Globo",
       "published": "2026-06-12T13:19:24+00:00",
-      "summary": "Nutricionistas alertam sobre o 'maxxing': a dieta à base de proteínas e fibras que está em alta nas redes sociais&nbsp;&nbsp;O GloboO boom das proteínas: moda ou necessidade?&nbsp;&nbsp;Jornal do BrasilNem tudo o que você ouve sobre proteína é verdade, segundo novo estudo&nbsp;&nbsp;Veja SaúdeConheça 5 riscos ligados ao abuso de proteínas&nbsp;&nbsp;EstadãoO risco escondido dos pós de proteína que parecem saudáveis para quem quer ganhar massa&nbsp;&nbsp;Tua Saúde",
+      "summary": "Nutricionistas alertam sobre o 'maxxing': a dieta à base de proteínas e fibras que está em alta nas redes sociais&nbsp;&nbsp;O GloboO boom das proteínas: moda ou necessidade?&nbsp;&nbsp;Jornal do BrasilConheça 5 riscos ligados ao abuso de proteínas&nbsp;&nbsp;EstadãoComer muita proteína não vai te fazer emagrecer mais rápido, revela pesquisa&nbsp;&nbsp;Diário do ComércioNem tudo o que você ouve sobre proteína é verdade, segundo novo estudo&nbsp;&nbsp;Veja Saúde",
       "sources": [
         {
           "name": "O Globo",
@@ -270,38 +270,14 @@
       ]
     },
     {
-      "id": "83e88d52e0f4",
-      "title": "Tamanho não é documento: quais espécies de animais lideram mortes no mundo? - UOL Notícias",
-      "published": "2026-06-12T11:42:58+00:00",
-      "summary": "Tamanho não é documento: quais espécies de animais lideram mortes no mundo?&nbsp;&nbsp;UOL NotíciasOs 7 animais mais mortais do planeta que desafiam a biologia com toxinas letais e ainda escondem segredos químicos que a medicina tenta decifrar&nbsp;&nbsp;Brasil 247Nem tubarão, nem leão: os 21 bichos que mais matam humanos estão aí perto de você&nbsp;&nbsp;Terra",
+      "id": "16473fffe8db",
+      "title": "Fóssil de espécie anterior aos dinossauros é descoberta no Brasil - CNN Brasil",
+      "published": "2026-06-11T19:20:52+00:00",
+      "summary": "Fóssil de espécie anterior aos dinossauros é descoberta no Brasil&nbsp;&nbsp;CNN Brasil",
       "sources": [
         {
-          "name": "UOL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcTVlbThYODVNeDNCdmtqTHBVaUQ0T0NJRXJuWHRZaWJTYThMSndpUVZEZHpjQ25PWUZoMENtU09zQV9mNlpRRzZkaGRPc1FUdVBXN00yWlBzX2hZY0JFQXRud0pXdjk3WDFXOFd4WHZXajRRVEVfdFRBbjlWeV9GVDZQY1lFX1ZWbURoQTM0d2JKZHdNMkZXSkNKU185SjdTa1N2YXdNZlZ0dnJaZU1YTmFpQ1hyYUZndzlNWmtPSk94NXh5WkFrRHYycXQxLXlLLVpzWUJ2SnJaR1VFQjFVVkxTMEIwNlM5LXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1c0e0069266e",
-      "title": "Intolerância à lactose exige cuidado além do uso de comprimidos de lactase - Jovem Pan",
-      "published": "2026-06-12T10:55:42+00:00",
-      "summary": "Intolerância à lactose exige cuidado além do uso de comprimidos de lactase&nbsp;&nbsp;Jovem Pan",
-      "sources": [
-        {
-          "name": "Jovem Pan",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOHhvR2wteFZ0U0hFa1BFcUI5N2JUaTZ4VTZiMExnT0hMbUhkQzYtM3pjMVFmSmV6TG5idVNjeUNJUzRxbHRoTTF6RE9tWDVYbnFZbXRfMjUtSWhZeWxZVGZwWkNObmRGSGhJWEhDakN5OEluZGV2UFlpWUwtSktUUVFJejhrWk82MXdxU1M0TlY0di1NdVNNTVdEVHlZNTlWdWZhRTByM3o?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a7adbe7a2ba3",
-      "title": "A descoberta de um único osso levou cientistas a identificar um predador “estranho” perdido há 120 milhões de anos - Revista Oeste",
-      "published": "2026-06-12T10:05:00+00:00",
-      "summary": "A descoberta de um único osso levou cientistas a identificar um predador “estranho” perdido há 120 milhões de anos&nbsp;&nbsp;Revista Oeste",
-      "sources": [
-        {
-          "name": "Revista Oeste",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPS1luTEhLdHRFeWhLYXk5bkZwU2pURFR0ZnN3eVg1QVVFVE5DQUs4dERDZ3NGQnJBcl85Tm5FeDN2ZktpTk9hX3RnODNNWFR6TGR5WUhKd1lqWVR2Rm5SZWN3ZlF3NTM0R3NHbGozbTllSGowQ2FaZW9oem90MWU2MU4xTW05UVVhb2FUMG9qQ0xuR29XWmlNbE0wVU10R2pJVXpkSHVmV3Q0RzBDMG5Helh5WE9WbjZQakI0MWh4MWI1cXJ1dTFqckZnU3ctVTUzWktocDdYbzJFY01TNndaQVctNWJLNE9pUldmMVFHaHItdw?oc=5"
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOHFpenBGYWVLX1VkVWszME9jZW9Na0F4R0diZE81TDlvU0IzNlpsclItMXM4MkZGcU9oSUtVUm9wampwaHJqcmNFUzNYSWd3SUdGc1RQb1J1eWdFQnVXUGZOVE1JRDZEZkpnRG9nbkxlUjA5M2hTUEgzSUhWTU12Y3NqTUZ6SThQYnB3M0VjUFliSDNqb196cFhOdTdqeG8walJDRVdn?oc=5"
         }
       ]
     }
