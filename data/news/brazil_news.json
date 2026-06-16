@@ -1,19 +1,43 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-06-16T04:24:56.279585+00:00",
-  "total_fetched": 91,
+  "fetched_at": "2026-06-16T11:14:30.135558+00:00",
+  "total_fetched": 93,
   "unique_count": 90,
-  "health_related_count": 32,
+  "health_related_count": 31,
   "news": [
     {
-      "id": "9b30c43a3bc9",
-      "title": "IA lançada pela Prefeitura do Rio causa controvérsia entre pesquisadores e engenheiros da área - O Globo",
-      "published": "2026-06-16T01:30:54+00:00",
-      "summary": "IA lançada pela Prefeitura do Rio causa controvérsia entre pesquisadores e engenheiros da área&nbsp;&nbsp;O Globo",
+      "id": "a1614aa55b9c",
+      "title": "O que é Looksmaxxing? Prática de exageros estéticos se populariza entre jovens e gera alerta para a saúde - O Globo",
+      "published": "2026-06-16T03:00:17+00:00",
+      "summary": "O que é Looksmaxxing? Prática de exageros estéticos se populariza entre jovens e gera alerta para a saúde&nbsp;&nbsp;O Globo",
       "sources": [
         {
           "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOR2ZFTTM4eHdvbUoxSlBzRzFWdmdzS3FNTF9pTktaRkxmRHhfcmJqUy1PZTBHRGRlbWYzU2VWYnNpTkpqU0x5emd3b09uamhUU0Y4dk8xRUlaSmVLOW9nUHM2VDVDNEFoQUUzd1c3YWFtdkYwTzdlRGFUbzhrMi1qc3Z6WEJnTXpxSHNfR2l6TEtZZ295N2JFTTlhbFY5bTdVWWVoN3BmLVlyUGFNTVl5UGJNcV9IUUZfVm5CRVlKTEJFeFdBSUxkeWxEbEdDVG5Ed3BzR2ZWZEJMQUNYYUx2cGZBb2NmSDhla0JoY2JiRTI5YlNldDFj0gGGAkFVX3lxTE9oVXUybW1CZS1MUWVXUnhPdTZTRG9maVlRZlU2a2tzUFMwbDVGTTBkbnk4N2RaTUMxWTRNUV9ka2FpUGQ4aGNVLVF6NW5RM0xMV3BDV1JUVk9PQ2NFVFdNTW5kSmU5d2t3QXBMYVlIcENjS2Q3Vm1TZ2JWTlFGN2J4RmVzSUdLM0xtRXV1RFpQY0NfTXNhdC1MVERnS1VEWlV3UWRuODcxRWVaSXVnSTVETG1EYWF4WnNMMU5JQXd4eHBoSFB4S0ZWSlhseVhXNlBSTC1CaEhlS1VScmlfZUhrSkNnemNUVENNQUFNazNPejA1M0JnR2R2R0JfTV9EVzJYTGJLamc?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMEpvdUxoYVpaRW42b3ZRSUo0WGFsVEMxaUVjZkdPVXRaNGt2LWc1MUJ2bDk1cGV5S1ZiZ3Q1TThZMkt2Yld0S01lenBkQ09sdEFnVXFpZ0JPYldPTkV3YkFTZnE4UGR6S2duOFItcDFIUG1IN1pwWlhXQTFvTVRqN0hydUhUenRVN2Jub0hjRjJoblp5VURJWENhTWpqcnJjSFByY3M1T3pta09aQlNKVWt0M3hwZ1FPTzlwWjh3UW90NU0wbEh3VERiUjAxbFIzSzM0aGp0bklHOUdsWmtaa0VqR3dPajZQQlpEWVh0QmVkd9IBgAJBVV95cUxNWFFSWV80NXpfd2xya2dDTFVHNEVqVE5DOGlGUUUtTVpCUDZ0TEZmQ0N0Vnk3Q2UtakdLa0k2T2NmMExqUTBUenI3TTBMZ2g5SVZlQi0xNDBUZEhzanRnQ3pyNDVQeXU3azFsRlliVmdCT1FxLU8zOFBqZktwLWZPZDd5LWpLMmZDLTJuXzJ0Mm9fUlk2WTNqNE52OGkwaUt6by1LTzJIZzFkN255ZWtjRXV3NEZtbjV2Wm5YU1YwWWdjYUg1MHR0TEtLc1VZTUF1SEw4Ym4wUFJkSm5zdmVueDF5RzBnMlJlSGhzMi1RR3BTYm5aeEhNWE12Zl81WGxn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b709709d3827",
+      "title": "Estudo releva imagens raras de \"cachorro fantasma\" da Amazônia - Correio Braziliense",
+      "published": "2026-06-16T00:27:00+00:00",
+      "summary": "Estudo releva imagens raras de \"cachorro fantasma\" da Amazônia&nbsp;&nbsp;Correio Braziliense",
+      "sources": [
+        {
+          "name": "Correio Braziliense",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaC04elZLNHVuRm9hME5GdjRHTk5HY2dVR3J4dzJwZEMzb0p0WFh0M0Y1NFE2VDRKYmpuNU9IMlE4OFZsWThDV2s0THB3MmQtemJkTzBUSTI4R0lPSlJJWEVxd2pYYVFUWGowdV9XQUxJbmJReXJXMWd5WnN6Z2VEbWg2bnFLQVRaeEZWbnFXMG90RVRPT2xDSnl5XzdXZktkNkhXWDViM2FCVk93cHlQWFBaeE5vVWh5YXRKSXJTaXBzMkIyQ01oSV9FMUxuelc2?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f2bcf3cf04fd",
+      "title": "Quase metade das crianças do mundo está exposta a riscos climáticos - Agência Brasil",
+      "published": "2026-06-16T00:03:00+00:00",
+      "summary": "Quase metade das crianças do mundo está exposta a riscos climáticos&nbsp;&nbsp;Agência Brasil",
+      "sources": [
+        {
+          "name": "Agência Brasil",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxON3I5SEVtajNSMUdKZXl5QktyUUc5M2dIX0hEWV9sSV9JbmRkSXdyZUNpNGVrcFRaVVNNTkFnZzg0VnpNdmJPZ1lXdGhlaFQwSVhfQVFqYzRTVzg5azlZSnJmdmh6QXhna19nVVNhdzE3OGR2RXZIM2JXekl6R0R3UWVubGVtLUtfWlFMWWhSLTRSbXdEZGVBUEZncW03YThKUVJJN3lMT0J0NS1FZ1ZxbU5BcndkUlhEX0kxZkQyUldaa184XzlN?oc=5"
         }
       ]
     },
@@ -78,6 +102,18 @@
       ]
     },
     {
+      "id": "d15ec9087e09",
+      "title": "Mais Cabello investe em ciência e medicina regenerativa para ampliar mercado de tratamentos capilares no Brasil - O Globo",
+      "published": "2026-06-15T13:25:17+00:00",
+      "summary": "Mais Cabello investe em ciência e medicina regenerativa para ampliar mercado de tratamentos capilares no Brasil&nbsp;&nbsp;O Globo",
+      "sources": [
+        {
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNX09mcmlsVndOVzNqUmRPaE1PWW1ZSzV5RXU5MUVjdGcySS0zTTRBNmtqQzM0ZlVrUXh1XzFCWDh0YTF3dDhwanI3NzF4VnR0S3FMY0dWbmJwSVQwT2RYRUd2MnZtNzFUZ2l0ekdjSjEwVnNfcVBhWUo4Nk96b2VCeFBGZTlOR1B3Vm53Y1dac2xxZ0hiYVlBNGwzQkF1UDhqaGt4UE83Vk9oQ0pQUG5rdzRNS0lMbEs5WFJPWXdEc0g4UFdveEFYWkNZYXh4MHpzX0NEdXBENnVDZkNsa0NvMWJwTEhhNE9FT1J2NVJ0aTdWOUwzc3Z1N28tdEpEd1dBMTlLS0VyeUVLTXlvaW9kVmNTdlpIQdIBpAJBVV95cUxNamZiX1VCNUxfbWotWS1wc2ZoSzJtSGl0ek0zamNtaER0V2tqdTFJSmVBVHNvbUtjMmkydU1PaUktZFhTOUVHNE1YQ21ETERyMWhHVzRmdDI5eGc3U19zbk00Q2hNLUtDVzhSb2haTjNCbndEbnlfTmFOOHUzOFJMQXBzYzJ4SU43OVgxNVRIS0N1TVNvVVR4bG1SY3o3YUFwOUtTYXI1NHNRSllCd1lBNk1SaFZJYVp2elZWT09TT09YYWNnUDU3bTdhNWNXeWFHNVBuU1FzN2FqYkhxZDFHU0NETWVya0dlS2tSQk0tdjRBUWd6VDdMWndTejZIUHp4YVhfU041NUZ1Ym1jWjAtVkRTZVN1Zk5ISW0yOFZpdjlMS2VH?oc=5"
+        }
+      ]
+    },
+    {
       "id": "53fe95666e3f",
       "title": "Cientistas criam os primeiros relógios nucleares do mundo e abrem nova fronteira na medição do tempo - CPG Click Petróleo e Gás",
       "published": "2026-06-15T13:18:00+00:00",
@@ -93,7 +129,7 @@
       "id": "b229e091b356",
       "title": "Conheça alimento comum que ajuda a evitar picos de glicose e aumenta a energia - gmconline.com.br",
       "published": "2026-06-15T12:57:00+00:00",
-      "summary": "Conheça alimento comum que ajuda a evitar picos de glicose e aumenta a energia&nbsp;&nbsp;gmconline.com.brCafé da manhã com mais proteína pode mudar a fome ao longo do dia, aponta estudo recente&nbsp;&nbsp;Tua SaúdeCafé da manhã: aliado da saúde, mas sem regras fixas&nbsp;&nbsp;Portal A12Novas pesquisas indicam os horários ideais para o café da manhã e o jantar para controlar o açúcar no sangue.&nbsp;&nbsp;Vietnam.vn5 alimentos que ajudam a evitar crises de hipoglicemia no dia a dia&nbsp;&nbsp;E",
+      "summary": "Conheça alimento comum que ajuda a evitar picos de glicose e aumenta a energia&nbsp;&nbsp;gmconline.com.brCafé da manhã com mais proteína pode mudar a fome ao longo do dia, aponta estudo recente&nbsp;&nbsp;Tua SaúdeCafé da manhã: aliado da saúde, mas sem regras fixas&nbsp;&nbsp;Portal A125 alimentos que ajudam a evitar crises de hipoglicemia no dia a dia&nbsp;&nbsp;Estado de MinasO que comer no café da manhã para manter a glicose estável até o almoço, segundo a ciência&nbsp;&nbsp;Tua Saúde",
       "sources": [
         {
           "name": "gmconline.com.br",
@@ -114,26 +150,38 @@
       ]
     },
     {
-      "id": "f537cff6200a",
-      "title": "Tratamento para insônia evolui, mas estilo de vida é fator determinante - Folha de S.Paulo",
-      "published": "2026-06-15T12:30:00+00:00",
-      "summary": "Tratamento para insônia evolui, mas estilo de vida é fator determinante&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeEtZOEZKeV85aUZ2MnIxYTdEcHBJRkJxUFFnNURadFVoaVJfTkxpSEhhT3RGX19pNG1KeDViMUxMRTZCV1ZpX21BLXVxU1gwb19admF3RFkxOXhQNXhtRmdMSG8tVkxUTS10bnlHU2dEZUJFSmlXeUJScUpsOVhQZkhLa0pfdmd6Q0Uta1ZrRC14aHFHWFZIamVkYUROeUdQRW4xZ3YyLXJ4TE5yeEE5Q0xrQU0xSUt0U1UyUU1ZQjNEcUk?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5ed393a547bf",
       "title": "Reposição hormonal na menopausa: quem pode fazer e quais os riscos - UOL",
       "published": "2026-06-15T12:26:43+00:00",
-      "summary": "Reposição hormonal na menopausa: quem pode fazer e quais os riscos&nbsp;&nbsp;UOLEspecialistas alertam para risco cardiovascular da mulher no climatério e na menopausa&nbsp;&nbsp;AMB - Associação Médica BrasileiraA passar pela menopausa? Há um hábito que pode melhorar o bem-estar&nbsp;&nbsp;sic.ptReposição hormonal: o que a ciência já sabe sobre benefícios e riscos da menopausa&nbsp;&nbsp;Jornal OpçãoQueda hormonal na menopausa afeta saúde das articulações, mas há solução&nbsp;&nbsp;Estado de Mi",
+      "summary": "Reposição hormonal na menopausa: quem pode fazer e quais os riscos&nbsp;&nbsp;UOLEspecialistas alertam para risco cardiovascular da mulher no climatério e na menopausa&nbsp;&nbsp;AMB - Associação Médica BrasileiraO hábito diário que pode reduzir alguns sintomas da menopausa&nbsp;&nbsp;Notícias ao MinutoMenopausa vai muito além dos “calorões” e exige atenção à saúde da mulher&nbsp;&nbsp;Rádio Fundação MarconiReposição hormonal: o que a ciência já sabe sobre benefícios e riscos da menopausa&nbsp;&",
       "sources": [
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMGp0em1RcXdRZTRWVUUzbUFPcExncTRCd19TVzVmR19XTXFaQ1JPWDRXRmhKTk1rckhPb21UV1h1VnFPQ3Eyb1RCbmJpellCck5kTWVyTXhCN21lUm5RNmpXblk2Njd3azZlTFFkejU5Xzg1QVZnNXFNTWNBUnAzZWNaYUJuX1V6dU5YcTJabE5zcFhrU29hNWNuQWpzazlpTHktcjRHb1VHVlMtN2JmSFBtbjBwS1hHZWlkVmYzRE1xVzBxeFRaTw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6d80142926aa",
+      "title": "Diabetes tipo 2 pode ser revertido? Entenda quando a remissão é possível - UOL",
+      "published": "2026-06-15T12:20:45+00:00",
+      "summary": "Diabetes tipo 2 pode ser revertido? Entenda quando a remissão é possível&nbsp;&nbsp;UOLGlicose alta: os dois hábitos caseiros que mais reduzem o risco de evoluir para diabetes tipo 2&nbsp;&nbsp;Tua SaúdeDiabetes pode dar sinais na pele, nos olhos e até nos pés; confira quais são&nbsp;&nbsp;Meio NorteO número de jovens com diabetes está aumentando: isso é muito alarmante.&nbsp;&nbsp;Vietnam.vnDiabetes silencioso: porque milhares de brasileiros só descobrem a doença após complicações&nbsp;&nbsp;Sa",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVmZBZEQ3dngzNlE5am1wbnNGaE5WUDVERlRjNm1HWlZaeHkydG1SR0RIckxyVVhvMThEaG85MEtuQmpod09ieWhqZFJZeHFsRzFWZnlxS28yaU83Y0VKMlpqRTR3VWJCcXBwdDhaejVIY2NwS2tQQXNXM0hDdHFoS052eDRTMmpJZmcyejNfZzd3akpJQjFVeS1PanlKc0I2WU5yTzRTWk9ESVV0bFhPVU0zdmUwM19yMHVDQ3k0N25IUHFDd1Z6clJrWmgtUURw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f1107fe278b5",
+      "title": "Novo remédio contra insônia chega ao Brasil com promessa de fazer dormir sem causar dependência - Jornal Correio",
+      "published": "2026-06-15T12:12:43+00:00",
+      "summary": "Novo remédio contra insônia chega ao Brasil com promessa de fazer dormir sem causar dependência&nbsp;&nbsp;Jornal Correio",
+      "sources": [
+        {
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNVBWOWpodDRYME82MmNmc042amptU3J2ekNXSHJCZldXVFVKQUtyR2tpOHB3TGNGdS1Cc3lxRk8zOGc2WDA3NExCVngtZjFGZGhtY0pPTUd2djVKbWxnWW1NOERBX3dPNk9QS0VqcWdES1ZoTEVmckw1Qjk0bXhWcW9Vb3NtaW1NT0ZONklQMllDOUxZdWloRkw3UmozYUJzeTNvRWZoUE9qTlI2eGVHTDNWbFd6aVQ2bzVCNk9uZU1ORXBFQzI3UmxJMW5pUVhWVFo4LW10NA?oc=5"
         }
       ]
     },
@@ -146,6 +194,18 @@
         {
           "name": "R7",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaENIVkdZaWlGRFpMWm92dHhmVWV0RmxLNUVCT19BbzNtMk11X1NZOW1wT25LcEF5Y0FLVTBBbThOa2VoRGVVYVpab3NBQXFJWEU0VzhWajFnQlFYcFQ3a0MtWE1NUU5oQkNzM1lHeDR6RmViaTFHM3l0QTQxdHJqcEZjQmpqZmZ0ei0wdUNlQmtMRXpfTnJpak9VTmFMMVNvamQwRkM2b085Q3NWQkFv?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c98188dd20e2",
+      "title": "Gripe grave por VSR tem aumento de casos no CE; veja sintomas e prevenção - Diário do Nordeste",
+      "published": "2026-06-15T09:00:36+00:00",
+      "summary": "Gripe grave por VSR tem aumento de casos no CE; veja sintomas e prevenção&nbsp;&nbsp;Diário do NordesteAlta de internações por gripe acende alerta&nbsp;&nbsp;G1InfoGripe alerta para aumento das internações por influenza&nbsp;&nbsp;Imirante.comPor que parece que todo mundo está doente?&nbsp;&nbsp;Revista Ana MariaAlerta de Síndrome Respiratória: casos graves de três vírus disparam no Paraná&nbsp;&nbsp;Bem Paraná",
+      "sources": [
+        {
+          "name": "Diário do Nordeste",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM2VTWHNrY0dleXNUcG1qZDBwUzNTV2Zna0pIRV80NldERXNOYkcxaEpmTk5NQ2hQUHBpUFMxWERDc3czYTBrbDJGbG9FZjZBV1YyTXFFQVQtN1dEWm95Mmd1a2c0QWE5cEVBajhkRVliVzdNWVVPdnlYMkx2SlhnM0owZWFjV1JxcWl3cTRPc1lXMUZtV2RHRHZjU0gwWkZVa0JaZkphcTV4N1ByYTlHNHl2ako4Si1BbHpvUjdiWXhzSnNWYWswSllSd1E?oc=5"
         }
       ]
     },
@@ -177,7 +237,7 @@
       "id": "d9ee21221343",
       "title": "Canetas emagrecedoras: estratégias buscam remediar a perda de músculos associada a esses medicamentos - O Globo",
       "published": "2026-06-15T07:30:18+00:00",
-      "summary": "Canetas emagrecedoras: estratégias buscam remediar a perda de músculos associada a esses medicamentos&nbsp;&nbsp;O GloboO prazer sumiu: canetas emagrecedoras geram queixas de queda de libido e anedonia em atividades cotidianas&nbsp;&nbsp;O GloboDo peso ao vício: os múltiplos efeitos das canetas GLP-1&nbsp;&nbsp;DW.comNão é só obesidade: saiba quais outras doenças as canetas emagrecedoras tratam&nbsp;&nbsp;Veja SaúdeO vaivém dos remédios GLP-1: por que pacientes param e retomam&nbsp;&nbsp;Correio",
+      "summary": "Canetas emagrecedoras: estratégias buscam remediar a perda de músculos associada a esses medicamentos&nbsp;&nbsp;O GloboDo peso ao vício: os múltiplos efeitos das canetas emagrecedoras&nbsp;&nbsp;G1Não é só obesidade: saiba quais outras doenças as canetas emagrecedoras tratam&nbsp;&nbsp;Veja SaúdeO vaivém dos remédios GLP-1: por que pacientes param e retomam&nbsp;&nbsp;Correio BrazilienseCanetas emagrecedoras e saúde metabólica além do peso&nbsp;&nbsp;Folha PE",
       "sources": [
         {
           "name": "O Globo",
@@ -201,7 +261,7 @@
       "id": "46c13c7ec3ca",
       "title": "As boas notícias da ciência no combate ao câncer - O Assunto #1739 - G1",
       "published": "2026-06-15T03:30:15+00:00",
-      "summary": "As boas notícias da ciência no combate ao câncer - O Assunto #1739&nbsp;&nbsp;G1Por que novo medicamento contra câncer de pâncreas ovacionado em evento é revolucionário?&nbsp;&nbsp;O POVO+Câncer: por que a era da quimioterapia pode estar com os dias contados&nbsp;&nbsp;VEJAFernando Maluf | Quando a ciência é aplaudida de pé&nbsp;&nbsp;Poder360Medicamento quase dobra sobrevida de pacientes com câncer de pâncreas avançado&nbsp;&nbsp;Exame",
+      "summary": "As boas notícias da ciência no combate ao câncer - O Assunto #1739&nbsp;&nbsp;G1Como age a pílula que dá esperança contra um dos cânceres mais letais que existem&nbsp;&nbsp;BBCMultiômica e personalização do cuidado revolucionam tratamento oncológico&nbsp;&nbsp;Valor EconômicoQuais os próximos passos da pesquisa?&nbsp;&nbsp;O POVO+Câncer: por que a era da quimioterapia pode estar com os dias contados&nbsp;&nbsp;VEJA",
       "sources": [
         {
           "name": "G1",
@@ -237,59 +297,11 @@
       "id": "e5b8833bdad6",
       "title": "Tratamento inovador para artrite regenera cartilagem do joelho e pode evitar cirurgias - Portal Tempo Novo",
       "published": "2026-06-15T01:05:00+00:00",
-      "summary": "Tratamento inovador para artrite regenera cartilagem do joelho e pode evitar cirurgias&nbsp;&nbsp;Portal Tempo NovoCientistas encontram forma de regenerar articulações desgastadas&nbsp;&nbsp;R7Cientistas de Stanford recuperam cartilagem perdida e revertem artrite em grande avanço&nbsp;&nbsp;obusilis.com.brTerapia inovadora regenera cartilagem afetada pela artrite; entenda procedimento&nbsp;&nbsp;Meio NorteTerapia experimental regenera cartilagem afetada pela artrite e pode ajudar a evitar cirurg",
+      "summary": "Tratamento inovador para artrite regenera cartilagem do joelho e pode evitar cirurgias&nbsp;&nbsp;Portal Tempo NovoTerapia inovadora regenera cartilagem afetada pela artrite e pode ser o caminho para evitar cirurgia&nbsp;&nbsp;Folha PEFim das dores e da cirurgia no joelho? Nova injeção revolucionária consegue reconstruir cartilagem destruída&nbsp;&nbsp;Agência GBCNova terapia regenera cartilagem e anima quem tem artrite&nbsp;&nbsp;Entretê Spin OFFCientistas encontram forma de regenerar articulaç",
       "sources": [
         {
           "name": "Portal Tempo Novo",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOFAtcHV6YW4tYzM3N01nY3FGNUw5a0NIUVpUaVd1bXduOFpLc0pOR0xZNDlVMmI4eEFITDdSbVY1Q25aNDVKT3l2RklwQWNhTU9sWXVTcGtVamZHbFUyWWxtT3lXTlJaakktLVlpb0JDYWxYQlZndXcyMXNvLUpNbzctQXBYSDN1bUc3YS1ibS12bmpwekJNLUhvVnZmSTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "eb4541f83e47",
-      "title": "Exercício reduz em 28% o risco de reincidência de câncer de intestino - band.com.br",
-      "published": "2026-06-14T23:22:39+00:00",
-      "summary": "Exercício reduz em 28% o risco de reincidência de câncer de intestino&nbsp;&nbsp;band.com.br",
-      "sources": [
-        {
-          "name": "band.com.br",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNT01oV3dGWUplN19PbXU3R1BjRENsTDNzbzVPVU5acXB6Q1FQajczUFVTdW55bzhnZU5MZWRWY19jQjlWVURNaFRCV052OGRWZ29kUC1KN0hmRGE2ZFFXeXFzeU9FMzZMeW9zSThoemJjMmROOG52MWNWa2tfLVdUTGNfbDNWSEhudDdCbDhZb2RUcjdqZV81TEEzdkoxZjdLaUZKd2VlMFpwcmdmdmVzWGV2VENiN1dtc3hpVXY4bFprVHRrX0EyNk8xS204RlE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "918b6d3ad07c",
-      "title": "Estudo aponta que 54% dos casos de demência na América Latina podem ser evitados - Diário do Centro do Mundo",
-      "published": "2026-06-14T22:00:06+00:00",
-      "summary": "Estudo aponta que 54% dos casos de demência na América Latina podem ser evitados&nbsp;&nbsp;Diário do Centro do MundoMais da metade dos casos de demência pode ser prevenida; veja como&nbsp;&nbsp;UOLA falta de estímulo mental pode estar relacionada ao envelhecimento mais rápido do cérebro, segundo estudos&nbsp;&nbsp;Tua Saúde4 mil passos por dia já reduzem o risco de declínio da memoria, diz especialista em envelhecimento&nbsp;&nbsp;O GloboQuer um cérebro mais saudável? Estudo aponta fator decisi",
-      "sources": [
-        {
-          "name": "Diário do Centro do Mundo",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQ3FNMVREWEY3c01uNHU1UUhfT2drU1d3NWdudEtTMXhyam5FdWxKWnlmZFlxVFd4M2lXY0E5TEhBanlROWUxVnNsdU9FZmVBTzE0U3M4a1ZXcVI3S3prZE5uSUJnLXo2OVJNN0VtRGdUMmRsVURibTZpbGU5RkJ1VFBtQlFuZFh3X3pFTE5zY2IyZmpvb09PWUd5cVUtS2FoMkpoVld3SVExdE0zN2haT0pZZ21Hbk1Jeng3R2otYWxtTGttTlhkV0V3SQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b1c2053c8a26",
-      "title": "Compactação do solo reduz produtividade da soja e desafia lavouras em períodos de seca, diz estudo - Canal Rural",
-      "published": "2026-06-14T20:04:00+00:00",
-      "summary": "Compactação do solo reduz produtividade da soja e desafia lavouras em períodos de seca, diz estudo&nbsp;&nbsp;Canal Rural",
-      "sources": [
-        {
-          "name": "Canal Rural",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZGMzeW1Pc1F5LTVxaWZkWWhGRTVENEY3bVNoaE9nLXFGU3hnYWI5ZzUzeUhIUEJYRXJFMko5MVBWb2R6ZE4zcnEzSlRvSlZXSDFwQzR6VFFpTUNOTnhUMGVURW56SUVpY0o0UG9JcEZCYnZIMmxTYjlWRkpEQ3Bnb1dVN3ZiaE5LeWtPdTMteWV2VlRYcjNLc2JZRl9qNkVOcmlFUjJ1S2xKRTRHb1VKaTZ3cUUwZEV0LXVNM3hMMW94U3Rnc3BzY3FWNzhhcVpXemhoTXNvMlRibHRVbkE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "410c08e5a862",
-      "title": "Alerta de Síndrome Respiratória: casos graves de três vírus disparam no Paraná - Bem Paraná",
-      "published": "2026-06-14T19:28:00+00:00",
-      "summary": "Alerta de Síndrome Respiratória: casos graves de três vírus disparam no Paraná&nbsp;&nbsp;Bem ParanáAlta nas internações por gripe acende alerta no estado&nbsp;&nbsp;G1Gripe grave por VSR tem aumento de casos no CE; veja sintomas e prevenção&nbsp;&nbsp;Diário do NordesteInfoGripe alerta para aumento das internações por influenza&nbsp;&nbsp;Imirante.comPor que parece que “todo mundo está doente ao mesmo tempo”?&nbsp;&nbsp;SBT News",
-      "sources": [
-        {
-          "name": "Bem Paraná",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPa1dabkN1YkItMm1ld3p3U1N4a2JoalIwRlYyY2dPaE1aUXkyaHF2SFBoMzNBNm4yUjlhRUtBV2pKYy1CaGhxdjJEOHFKcWpLM2ZpSVRJQzRwVGVXYzJ1UnNCXzJjNDRIdzBKUTJUWV9uOXY5UF8zbzlMVTQ0NDdOVG1mVVVGSHpqcHZVNWlxdjR6VW9zT0VvbjVPUGlZWTZXR3RaSWRlRExBbk5DVldHSXBEUktJcVlFRUttRU9KQ2RmZXZJNXBpOdIBzgFBVV95cUxQRFBKaktTdjk2dUZ4cW9FX0czdFR0UlYtcExvUnV5dTZFSkFFWlFqa0tTSFNqdWlCcGdpcGQ5bVE5clpPa3JKU2hndjVCQVBvSUt6RUVDV3VXVnlZekdlc2NaSDJScWRSZXRXbEVJYlhDZ2pwSHAyYWRNbXd2U01fUjMzU2dHTFN6T0xDbndEUFJ4U01VcUJTN3BGWTZqQzU5U3VfenVuaGpEN2dpZThOeVh3Tklib3ZFcXdGYWZCM0dvbXJIWnplajRxdDNJZw?oc=5"
         }
       ]
     },
@@ -321,7 +333,7 @@
       "id": "6bb50508f0c2",
       "title": "Inverno se aproxima e Paraná tem apenas 44% de cobertura vacinal contra gripe - Tribuna do Paraná",
       "published": "2026-06-14T17:20:00+00:00",
-      "summary": "Inverno se aproxima e Paraná tem apenas 44% de cobertura vacinal contra gripe&nbsp;&nbsp;Tribuna do ParanáParaná enfrenta baixa vacinação contra gripe antes do inverno&nbsp;&nbsp;Gazeta do PovoDeputada chama atenção para adesão reduzida à vacinação contra gripe&nbsp;&nbsp;Gazeta de PalmeiraIrati amplia atendimento na saúde e Posto Ildefonso Zanetti tem horário até às 21h&nbsp;&nbsp;Folha de IratiCom avanço de casos de SRAG, Toledo reforça necessidade de vacinação&nbsp;&nbsp;Casa de Notícias",
+      "summary": "Inverno se aproxima e Paraná tem apenas 44% de cobertura vacinal contra gripe&nbsp;&nbsp;Tribuna do ParanáParaná enfrenta baixa vacinação contra gripe antes do inverno&nbsp;&nbsp;Gazeta do PovoDeputada chama atenção para adesão reduzida à vacinação contra gripe&nbsp;&nbsp;Gazeta de PalmeiraIrati amplia atendimento na saúde e Posto Ildefonso Zanetti tem horário até às 21h&nbsp;&nbsp;Folha de IratiPR mantém vacina da gripe para grupo prioritário&nbsp;&nbsp;G1",
       "sources": [
         {
           "name": "Tribuna do Paraná",
@@ -333,7 +345,7 @@
       "id": "935296ec6cd1",
       "title": "O que acontece no corpo ao comer dois ovos todos os dias, segundo a ciência - Rádio Itatiaia",
       "published": "2026-06-14T17:06:46+00:00",
-      "summary": "O que acontece no corpo ao comer dois ovos todos os dias, segundo a ciência&nbsp;&nbsp;Rádio ItatiaiaEste é o erro na contagem de proteínas que você está cometendo&nbsp;&nbsp;Bons FluidosOvo e colesterol: o que os estudos recentes realmente dizem sobre essa velha polêmica&nbsp;&nbsp;Tua Saúde",
+      "summary": "O que acontece no corpo ao comer dois ovos todos os dias, segundo a ciência&nbsp;&nbsp;Rádio ItatiaiaOvo aumenta o colesterol? Entenda por que ele foi reabilitado pela ciência&nbsp;&nbsp;Diário da GuanabaraEste é o erro na contagem de proteínas que você está cometendo&nbsp;&nbsp;Bons FluidosOvo e colesterol: o que os estudos recentes realmente dizem sobre essa velha polêmica&nbsp;&nbsp;Tua Saúde",
       "sources": [
         {
           "name": "Rádio Itatiaia",
@@ -342,26 +354,14 @@
       ]
     },
     {
-      "id": "52add1e6111c",
-      "title": "Presença de superbactérias resistentes a antibióticos em pescados e frutos do mar cresce perigosa e silenciosamente - Um só Planeta",
-      "published": "2026-06-14T15:34:44+00:00",
-      "summary": "Presença de superbactérias resistentes a antibióticos em pescados e frutos do mar cresce perigosa e silenciosamente&nbsp;&nbsp;Um só Planeta",
+      "id": "8881d0870c41",
+      "title": "'Cãopanheiros': cientistas descobrem que cães e humanos envelhecem de forma parecida; entenda - O Globo",
+      "published": "2026-06-14T14:02:52+00:00",
+      "summary": "'Cãopanheiros': cientistas descobrem que cães e humanos envelhecem de forma parecida; entenda&nbsp;&nbsp;O GloboAlgo em comum com seu pet: humanos e cães envelhecem de forma parecida, aponta estudo&nbsp;&nbsp;R7 Entretenimento",
       "sources": [
         {
-          "name": "Um só Planeta",
-          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOaHpOU0t6M3ZVOVFzVWhXVEJyNG1NSEZQZWxtbTltbXBLdGlvWFBudVByaDh1Y1l4emR6YmNYVlY1N0FQQTZveFRLN3A5TjdibWxXR3dQa1dMS0F5WDlRbTM1LW1QWlFoamFtMlgzNlNsT2hLbGlxSF81SXFKNlNjc3Vzc08zb0c1VHlacGs4bzBMaW5odl9jRUcxbzhLak5zYWNhdmpWUHVrRzRYem9YQW91ZEtOYlZrMFJtNEJkT0pBS3pEdnIwS3pvNzYxLUdEalN0TUdLOWsxN2UwVVJOaW5VMkRsWDNwaDRLNEN2c1hmV0tlM3FnZXRGSElFYTktdVJONVhUUHNLUdIBmAJBVV95cUxPa1VBTkYtbHFqQS1sR1UwMVJRa2ZJd0dCMHFnNTVTZHhJWUxTVjhlcDBkTWpaeHo2QkV1MEZqemFlSmFSZWd4U3FIenVQSmtTWU1jUnNrZE9KTEhTUjZJZTQyb2JIU0hjZlIwdHpscldYdVd2UDVYbjUzUUpfYTFTbXV1SUVhSVFwenZOWHdVYWV2N2VYQ0gyS2xjMEhpOWJLTFF6WnozWFgyaWl4MXg0Z3FKcVVCcUlwZm5nOGF1cmN0bWxra2RJaWJqSkhnWjJvMTFlSHBZaFlySDZySWN4YTBTLVpDU3NYdTJJXzJwVUxDVmMwOGh0VGRYTFNoc0JMZUxNTXpmNlEtbEdoYlktTlpOVkNvLUtL?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b155593a13b6",
-      "title": "O médico brasileiro entre os 100 cientistas mais influentes do mundo - VEJA",
-      "published": "2026-06-14T15:00:00+00:00",
-      "summary": "O médico brasileiro entre os 100 cientistas mais influentes do mundo&nbsp;&nbsp;VEJA",
-      "sources": [
-        {
-          "name": "VEJA",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQW1TU3BOdkF0clJYXzNJZl9EV2E3TUJkRFFKQmp1QV8yNE4wMGlLUGRqMnNkSDhJajB3MFBxVldiOXZweThTYjRxaGQ2TE9KeUs0WmlRdUFpN0ZNWDMtZjloeUJaa1hkU2F5Z2ltX3gtQ3pDbEk4YXVkeUJVSzFnYlhCVUxoLXZlYmRMdjlRUDRLSmNTVjJLOHIzbmpLeWZ3SjlFY1N3?oc=5"
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMFJMWGZDZXY5RUs1b0JGVmhqNzdkUFVITkVTNnJkTkYxTm1vLTRPSWlXX1R1ZElaV2lZckRTc2NpVWpZNGhVekRpNnAycmZrYnlUZDdPRGc0Y0JLV3N1ZjRjSU1Kdl8zTlBJcVgya29jMmt3TXVFc3AtaENjR2kzT3VaUmhtRUlfNUdhWXlpTGFjOEszTmYxRXZyblQwWlF2YjBLeXJuSjhFY2ZPVDFOMFZidUpZeUhydlRmcF9ITTdEdmRUQjBCbEJXbklWc0ZTbDE5ZFhjSXhfdVVVU0HSAewBQVVfeXFMTWdYRkdWS1ZUaEVSSy16RGZqeWJySVB6NzB6eHE1UHFoVmQtZHZ1eGtxMUwxZVNWUGRRZUhHelUwdUlmUEFhajZOVktKQzBURkI3M2hDaU5nVm5qa3dycWprdU5qbWVRaWtndkkxbXFwQmlqbEtia3FPWVotSU5xSl8yMzNRUWlCb3VJUWdQbk1XcnJQNGc2X2owYU1mZ3VMUDZRMDY0YlM0My1QVTJUZEI0cDhBNU1Nai1kX3ZVck5pOWI0U2VPRFI2XzhsQ1I0ejNvNndaaGM0eXh1a1FPUmZPYzkwWklLZTIxZTc?oc=5"
         }
       ]
     },
@@ -374,18 +374,6 @@
         {
           "name": "O Globo",
           "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUU9HT09XemFiNFRQT0dBcjZtNGQyWHNiWExGdHdlMk45aUZnQVFCOXF0ZGFLX1NHbmJnalJsTWZkcV84S3lGdk1ObHdibnQxa1Z2X2U5dHJDWHo2R0dRcjFlLWZQV1FUQXlGaDFNSzBrN1JLbjgxM2N3dEFtQ3FhV3ZRODhLTHEzZW01SzFYcm9kaGxPT2NmWkFlSWN3aWpCaUx0SUZ5Rms1aHpQaGg4bDhueWxwTjdjTlJmb0dsZVo0RDdqXzdUaWQ3QjNEenJtZlpKLUNyQ1huR1BiVHRUNjlicUpnMlgzMGJr0gH6AUFVX3lxTE94YVk0VWo3TGROSEUxdTVJS1d3OWxmUVdBWnpjNEZIeXJHYXNEZmxFM1E4SnZDYWdEOGRPWElWNlRoRFZuR09VNkNReVRoMlRLSFVKekZvNzlUalAzanh3dHRQSDl4TF9VRjZqTGx2Z0dBSHd0Rmw4QkdkdHk1UVppVV9faFhZbUdjbnE5cWlkODRkWVdhOTJuc1EyMDBWYXgtS2YtN04zemZxV0M4Rm1QWUZlTTRFQ0tFY3NxWXZEcmVib1Q2R3JvNzhZQU8yNnpFNzhJaTI4S0hwd1hvTzJOU1Rnd21PaWlJSWhHWjZZVU9QVVVGUWVnT2c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ca1573da07a9",
-      "title": "Nenhuma doença é mais comum na América Latina e no Caribe do que cárie, gengivite e perda de dentes - G1",
-      "published": "2026-06-14T07:01:15+00:00",
-      "summary": "Nenhuma doença é mais comum na América Latina e no Caribe do que cárie, gengivite e perda de dentes&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRWJfdHZrc3NZMXVXV3hFcDlvV0E0Y1UxdmM1eDlDVmRMYmJDOE5DM1MxZ1dId21fSVd6MkxLNU9PaE1aalIzeFMxd1ktTGwxRzNrSjMxdmR6cFVNOEhWdG1hbHIwSVFCa3U0VHdlTGdQZ1N4aEhCdHk5cnZHRGt5ZFdhTHBiWEVpWW1xd0N3OGxJTVlKUWhHNGdCWGRlMFk5SWxCcmYycjNvVXcxZFlENUtvTlpBc2g2dFFBaGN1S0lVR1R0UWVPYXgyLUFHZTEtM0xsOGJZR0x2MThmUUZpWXh2SlbSAfMBQVVfeXFMUDcydlR4bk5IWGozdHJuaW1oMzZwSG1vZXVPZHpGWmpiQWpuRnQ2N1FJUWd2OFRmMFkyclFtQm9kaHNTclNsX0pyOC1qVURrX0NhLTRNcFh2N21BZHhOcWw2ZG0tUTJHODRQbmFoWHl2MFpVN0xOazl3Zl9lcTNxR05ESVRNcF84TnVCTnpqcktaaUE3T09weHFYY01jbHNna3ZoaEZmWlhjY3huWllhQ25HejEtUmlfT2p6cVM3S1hsRGZ2bXFXNEZJNEgyT00yMmVOM1VkRGNCX2FsQ0VMTUttLXBZQ2tnMG9oYi03WTlIbm9J?oc=5"
         }
       ]
     }
