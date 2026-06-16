@@ -1,19 +1,67 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-06-16T16:58:29.837166+00:00",
-  "total_fetched": 97,
-  "unique_count": 95,
-  "health_related_count": 34,
+  "fetched_at": "2026-06-16T20:53:49.824824+00:00",
+  "total_fetched": 98,
+  "unique_count": 96,
+  "health_related_count": 39,
   "news": [
+    {
+      "id": "eabec78b1577",
+      "title": "Expansão do universo ainda está acelerando, dizem pesquisadores - CNN Brasil",
+      "published": "2026-06-16T18:44:31+00:00",
+      "summary": "Expansão do universo ainda está acelerando, dizem pesquisadores&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV3Jpa0pTS2kwQkYybmhOU0JXVXVNb0ZSekwyNDN3Vm9IZE16LTlsbjZqSTc2eW5JTmNKRTlfQ0U2NGQwY2UyS3lqODdlcndBQWpKaUl4eDB5SExnRzBmelkyZ1RSY1czY0Nndm5LWDNjbHNBeDVOX3R2RWE1STRuTXNmcFVPdVdfQUhXWnV2TndqWHpxREZXeDRqWVpCMnVhb1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8b91fb84a759",
+      "title": "Diagnosticado com tumor no cérebro, vilhenense passa por cirurgia, mas morre aos 21 anos, em hospital de Porto Velho - .: FOLHA DO SUL ONLINE :.",
+      "published": "2026-06-16T17:40:00+00:00",
+      "summary": "Diagnosticado com tumor no cérebro, vilhenense passa por cirurgia, mas morre aos 21 anos, em hospital de Porto Velho&nbsp;&nbsp;.: FOLHA DO SUL ONLINE :.",
+      "sources": [
+        {
+          "name": ".: FOLHA DO SUL ONLINE :.",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQOUprcEpsSi02Yk8yZUw4VnJjdndkbmlybHFkM3pmaHNSMWprVG9iaGxqbkxENk5oVXFmWEN4QTBJOTJXd1I4dS1JZ2Qwbks3eGdTN0d6M2JYUktZeUcwOFBkM1BEOTdfdzNrNmRXeWE0LU8zTnV5OWxJbE1qTVNMLXhGd3VzckFYemNnVG5lQ0F6Z0ZQNUhSWnljWEp2d1lyMkktdmVsYVNYUHN2em81TVExVXFFQW95WWlXM0pqd01ZbGI3TTNEOTN4M3huOFRwdUtpUTkwdEhuV1JCTE9JbzlpOS14RzA4Q0FRYndZU3daa0NadXhz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7b50ebff71fc",
+      "title": "Valentina Tereshkova: 63 anos da primeira vez que uma mulher foi ao espaço - Olhar Digital",
+      "published": "2026-06-16T17:03:00+00:00",
+      "summary": "Valentina Tereshkova: 63 anos da primeira vez que uma mulher foi ao espaço&nbsp;&nbsp;Olhar Digital",
+      "sources": [
+        {
+          "name": "Olhar Digital",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaXJ4aUhTYms3MGstYkw0RHBWSGpXczVRY3FMTlcwdDdjNWduQkdXdjVGQXp5UVJuMDFYRi1TRkVTMEs4OTBlWURKNEZFVnlnRUZOV09oWGFCM0JKY0pSd3d1T3RXRGVEV2ZnVkFBeVNHY2dWNnJkaVFVX1NfMFVQMUk1SkpDQ25mMEo0N0ZIMWdaWG5UQlBzVVFJX19QaDRSQkpIcnRiWHhrUms3bENVTzFTVQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "130c6b187a02",
       "title": "Os riscos de usar peptídeos injetáveis sem aprovação da Anvisa: 'É urgente falar disso' - BBC",
       "published": "2026-06-16T15:57:13+00:00",
-      "summary": "Os riscos de usar peptídeos injetáveis sem aprovação da Anvisa: 'É urgente falar disso'&nbsp;&nbsp;BBCPeptídeo GHK-Cu injetável é vendido online sem aprovação; especialistas alertam para riscos&nbsp;&nbsp;G1A nova febre: por que pessoas estão injetando peptídeos sem aprovação médica?&nbsp;&nbsp;Aqui NotíciasPeptídeos ampliam espaço na dermatologia com foco em regeneração e qualidade da pele&nbsp;&nbsp;Estado de MinasPeptídeo GHK-Cu injetável ganha popularidade nas redes, mas não tem aprovação da",
+      "summary": "Os riscos de usar peptídeos injetáveis sem aprovação da Anvisa: 'É urgente falar disso'&nbsp;&nbsp;BBCPeptídeo GHK-Cu injetável é vendido online sem aprovação; especialistas alertam para riscos&nbsp;&nbsp;G1Uso de peptídeos sem aprovação da Anvisa pode causar até aumento de pressão&nbsp;&nbsp;DOLPeptídeos ampliam espaço na dermatologia com foco em regeneração e qualidade da pele&nbsp;&nbsp;Estado de MinasA nova febre: por que pessoas estão injetando peptídeos sem aprovação médica?&nbsp;&nbsp;Aqu",
       "sources": [
         {
           "name": "BBC",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE94SEVkTi1zS1ppRGhPcU5MQTNPSnMzTDFsV0V5WENnV0pla0FLQkdYVDhXZldXekllQ1BTN3ItOHhPcWZuZm9JS25ZcHdtem9CTkdkQVFpZFNNUkVscUp4TkJR0gFnQVVfeXFMTzNJU212VVNDdVJnWjZmaWpHQ00tTHMwclFlSG94NjNlRFZaZFVWVTNhVk9JTHJheGZPQmtOUHRPcVRrU3htdEd1WGR6VDJCV2tySlZrM1JFQVUyOWE3NHhPTkx5NEZFTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7f600377740f",
+      "title": "Fundação Chapadão: 29 anos de pesquisa e inovação no agro - Campo Grande News",
+      "published": "2026-06-16T14:56:00+00:00",
+      "summary": "Fundação Chapadão: 29 anos de pesquisa e inovação no agro&nbsp;&nbsp;Campo Grande News",
+      "sources": [
+        {
+          "name": "Campo Grande News",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNFpUZXhJSHNkVjJiOG1SWE1rSVpRN0hkWWY2NEwxTGIyRlEwVGZHZjA1aG5FY0llQnYtYk5TLVhmNXl5c3U5WVdaWlRDbENPQ1RBMmgtSlR2VkFOZHRrS0p0RGFiOVFnNmNud3hvZlBNSHRELUVCSlhwdkM1alVkM1B5el9OckdhMzBTM25wYWo1MDBWSXNuV3BMQjFsYmFOMExTbHF1TUxucl9BNExiTVUwR2PSAbQBQVVfeXFMUDJ4dVV5V2tGUGZ1eFIyYXVUT1hjdEpZazBoRTZMQ2hWUFUxbUU4RURwTUZhT3NoQUNfSEJJVTZPSVVfZlhRSHBCelpFbjFFZnozTG5FNlRqTUUtT2FISDNqemQwN1FnVnZDY1dHdEtoUzRWSXhuQklNQXF1U3R1YllXYU05Q3NzdTJma1NnVVkwWEMyNnBwTjM2WGdxTHJnbVFEbHZHd0xfRk5SM3ktbUtGZ1Mx?oc=5"
         }
       ]
     },
@@ -69,7 +117,7 @@
       "id": "ef8850006ac3",
       "title": "Canetas emagrecedoras: crescimento no consumo e mercado ilegal preocupam especialistas - O TEMPO",
       "published": "2026-06-16T09:00:02+00:00",
-      "summary": "Canetas emagrecedoras: crescimento no consumo e mercado ilegal preocupam especialistas&nbsp;&nbsp;O TEMPOO prazer sumiu: canetas emagrecedoras geram queixas de queda de libido e anedonia em atividades cotidianas&nbsp;&nbsp;O GloboDo peso ao vício: os múltiplos efeitos das canetas GLP-1&nbsp;&nbsp;DW.comNão é só obesidade: saiba quais outras doenças as canetas emagrecedoras tratam&nbsp;&nbsp;Veja SaúdeCanetas emagrecedoras pressionam setor de alimentos&nbsp;&nbsp;Agrolink",
+      "summary": "Canetas emagrecedoras: crescimento no consumo e mercado ilegal preocupam especialistas&nbsp;&nbsp;O TEMPOO prazer sumiu: canetas emagrecedoras geram queixas de queda de libido e anedonia em atividades cotidianas&nbsp;&nbsp;O GloboDo peso ao vício: os múltiplos efeitos das canetas GLP-1&nbsp;&nbsp;dw.comCanetas emagrecedoras pressionam setor de alimentos&nbsp;&nbsp;AgrolinkO vaivém dos remédios GLP-1: por que pacientes param e retomam&nbsp;&nbsp;Correio Braziliense",
       "sources": [
         {
           "name": "O TEMPO",
@@ -98,6 +146,30 @@
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQV1lyWWJkeUppZXVLUHVNQ3lBdFUxeVU2R3VPVldOOUZLLWxXMG0wLVM5OGVUOTZMMW5TMnpmejV0aVlYMDBXMmlpVVFyZDAwMXNaLXZGdnNQM3pIcHBGSXBrWWdrTW5tRTJ2cHJXcU82S0lPejBOcGdfT04zc0ZSM1gzaFc5dmEyUmlZMmlTdHhtNlZLU3FRYjlFX0lsb044ZEtFaGhFOEE1RGtkVElQcjVOTEhlX2ZSTkhJUHU2WkZQNm1wQWlPOTVZY9IB2gFBVV95cUxPT2Z5bVdYUjdFMF9GM1VPMDlNd0ZHNkF2SVdCbTJtc0JzYWhQOFpIYUZSTzhOWklMWDgyZWJsX0JpaDdkd0N2TDRkZWhsU1pHNWlGSVBUZ3o2R3I1X1hlLXhoT0xuYVFOTFN5ZkFCeGN0Yi15LUxXQVhTMjJxSmFDTGdSaTYyQXQ5SGs3YjNZLXZ2S2x5a2ttVTBKcFJfNk9pMnZBMFRGMThrVk5xQnNrdWxwZkRUSGFCcWUwV2F1bk5TX0tvWTNQczJORFd4ak42X295Yk9Tb3NJdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7468e0324728",
+      "title": "Médico explica horário ideal para tomar colágeno, ômega 3 e vitamina D - Metrópoles",
+      "published": "2026-06-16T05:00:00+00:00",
+      "summary": "Médico explica horário ideal para tomar colágeno, ômega 3 e vitamina D&nbsp;&nbsp;MetrópolesOmêga 3, colágeno, creatina: o que a ciência diz sobre suplementos?&nbsp;&nbsp;SuperinteressanteQuando utilizar suplementos para garantir energia no dia a dia? | SEGS Portal Nacional de Seguros, Saúde,...&nbsp;&nbsp;SEGS Portal NacionalSaúde e Bem-Estar: Suplementação deve ser personalizada e baseada em exames, alerta especialista&nbsp;&nbsp;JD1 Notícias",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd21RWWpaYWprb19VcXN3QzdPUk9ITXdRR1dGeElyTWlZSjlaMUM0RjlfYzRQZG5BMnhxWGlkckNucmVmQkR5T0xsM0tvUTJTQlM3dkM0Ni12VUpCRWZ0SzhLZzlXQkNxaUlsZmEwc0JtYzBES2oxVFRCOXpubVBuV2ZGd1piMS1tMm50S2RMOFA2cmdrbDd1Y3dxWUpIeHNraHpYeTNudTQzZWxFZXBZb2hVanZJdjRROXBCcDZn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "582114ead59e",
+      "title": "Substância do alho aumenta a eficácia de quimioterapia contra o câncer colorretal - Agência FAPESP",
+      "published": "2026-06-16T03:02:03+00:00",
+      "summary": "Substância do alho aumenta a eficácia de quimioterapia contra o câncer colorretal&nbsp;&nbsp;Agência FAPESPAlho contra o câncer? Estudo da USP indica que composto pode turbinar efeito da quimioterapia&nbsp;&nbsp;Jornal CorreioAlho pode ajudar no tratamento do câncer de intestino, indica pesquisa&nbsp;&nbsp;diariodopara.com.brComposto do alho pode potencializar quimioterapia contra câncer de intestino&nbsp;&nbsp;DOLSaiba como a substância do alho pode aumentar a eficácia de quimioterapia contra o",
+      "sources": [
+        {
+          "name": "Agência FAPESP",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeG90Z1N5OWpnR012c09sdUt3d01DaTRDX0paR1YzOUUxT3hlX19OSTBfaWFPaENneDRIemRqUVZiQ2YyYzN3R1RNU044WDg3YXczRTJIdjN6Tkw4SGRKNmU3cDBieXplNzZBNFJYOUJVZHpxWnhCYlo3QmRPcDRGOUwxU1VOc3JHVXNQY3VEZXp6TENhQ1Mxb2VvTElFZVd6MlNKQkVtajhrYzFLSTZBTEU0NA?oc=5"
         }
       ]
     },
@@ -150,6 +222,18 @@
       ]
     },
     {
+      "id": "fb730acff0dc",
+      "title": "Armênia liberta pesquisador russo que trabalhava no Brasil - O Globo",
+      "published": "2026-06-15T22:31:34+00:00",
+      "summary": "Armênia liberta pesquisador russo que trabalhava no Brasil&nbsp;&nbsp;O Globo",
+      "sources": [
+        {
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWGk5alA3TUhqdTRPTmxXazdMOHY2c2V4akNlZ3RDOXVGSlBUUGNQcDVuYlpGN01IMDlKYWRKZnBzb3JaU0NlWTNOTWYyTFloMGh4ZHVEVFZwbk8waWgzWVNFU0pXVTIyUjJuYW40ZW9uZVAxMm5RRHJNR01xNG0xc18tX1pVemFDYW56WWFGTXBrRFVONVpmTW1sQ2wydEVEVnMzSFEwX0VNYWJ5ZjE1T2xiZDREd9IBxAFBVV95cUxNYVBRZTNSMVNVRUxCbzFQSUJhak0zdHNHcVFvVm5ZR0liakpsWXpBUTFOT1B6N2JqcURNQ2R5alZRYUxpN0ZHSVNvZ2VpUXdPZjNSNXlPNmw0bzhNV2FsRWxqTXVoR2JPMFF2alR0WmxyTURzdUtyU0I3TUVicUlTZWZMWHRXTlp1dGlYbHVON1NWWldOTTdld29PR0RnTTRrSTJqWlRSM1phWmY1YmQ3NjU0VXNJRDhpLWVBV2s5RTVJUElz?oc=5"
+        }
+      ]
+    },
+    {
       "id": "7c6c0893215e",
       "title": "Inteligência artificial na pesquisa: ferramenta ou ameaça? - Jornal da USP",
       "published": "2026-06-15T20:51:00+00:00",
@@ -186,6 +270,18 @@
       ]
     },
     {
+      "id": "c8294dbb8347",
+      "title": "Orlistate: o que significa o alerta do FDA sobre o remédio para perda de peso - Estadão",
+      "published": "2026-06-15T19:49:00+00:00",
+      "summary": "Orlistate: o que significa o alerta do FDA sobre o remédio para perda de peso&nbsp;&nbsp;Estadão",
+      "sources": [
+        {
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUUVFZW5ObHNFd1EzTzVldjFyQ3pQeURMSDlRd2t4S1Q3cG5sb2lYaU1nSTQ5VVZsZ2RMMDNyeXF3elo5MlVobGRNZEhVQVN3a1pvY3p0T2dqSTBUTHJuLWRYWnl6ZHloZW9kT191WXZWeVNzSHdtMU9EM3RZSGNvSVJCbFlwcU5uZ0c4aXB1MFNXTDhYZDBTSllScUo5V096elI3UHdvOEpmTDBfTlhkaC1xWUNVUG9WVFNmczhQeUN0NmNOZ3BwMUlQNUxTZXfSAdQBQVVfeXFMUFNjUGlDVjJCcWdTRXpHOVJpMUN1WTlVbktGSy1CUmhUb2JqMmhEUFA4VXdZb2pZZlJCWmZtMXU2STNkcDV5bDFFT3pNZFB1WlVIYUhrVXBfOEh6UGdnS1pTaDdyck42ZmZFdjNBT09JeHN1N0hfbndDbDl1VjE4UzQzYmRxMHdnNmlTSElZMzl6VjZYdUVhSkNKSjRpYjlrUnJyVWxMTm0ydmZNUnBlaEZ0WDRtOWZBXzZGdHUwcmNOVldVaHhOYklPUmdtV0JnV3B2d0g?oc=5"
+        }
+      ]
+    },
+    {
       "id": "4f6e7d0de806",
       "title": "Rivotril e outros remédios usados contra insônia podem aumentar o risco de demência? - Estadão",
       "published": "2026-06-15T19:02:00+00:00",
@@ -194,6 +290,30 @@
         {
           "name": "Estadão",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNV1pVbk96OTVsaHF4NnZ1T1BQeUdfTDFkd2dwZFdxR0piU1hRbmxBUl8wVlI2WG4xdm1WcGw3ZzlVTXJZOElKODFoU2p2eXd2d2s0TmhyMDNFTUFrSkE2WGtzamV2YW1reVVfSnFWYmRseU1WNTRRSDM2S3l3V1F4U3VPTXVDS1FuU1BldWFEVFFxUlBWMG1uZHNVTUNtUUJhZ2E2YnJPcWlLZVZjMFlQRF9IdWp4ZWxLZTI5ODF6SGV4R0ZSdUZKTG9IaVFDQdIB0wFBVV95cUxNNnVPLVljTnFlajB6M01iUjl3ODlOUGJYN2w5bUhRYS1XV0VYVzNXT1MyV09CZ01hRTVPQXdGNDdFUEVQTHBlUEFTU3RLTGhLRzltOXQ4RmdfUUd2eEpzWWVBMTZGdmlPY0ZYSUxrVWRib2JodG5qWkNwdEJ5MnVLYUEtR2Y5aDhEZTBSLUNEU3NicHQxS2tGMUUxdHoyNVdUMEI4Zm5ZUTQxN25KMGlIcVotal80dmpnUnlZcnREOGdiU2NDMDVyckxHX3A0VXJhX1lV?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d340c545938f",
+      "title": "Pela primeira vez, é identificado o gás formador de estrelas em galáxias do universo primitivo - Olhar Digital",
+      "published": "2026-06-15T18:43:00+00:00",
+      "summary": "Pela primeira vez, é identificado o gás formador de estrelas em galáxias do universo primitivo&nbsp;&nbsp;Olhar Digital",
+      "sources": [
+        {
+          "name": "Olhar Digital",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSVRmZkhNemUxU3RuYWpTWFhwN3JwWGdrNmR0REs3VzdTTGl1bFdsYkdTVnF0ekxPVmxsS0QtVXBEU3ZhRTdxWGF4MDlOeGJyelM3Rk44cUM4cDl0M1M2ZXFJQXUwTE1kTWYzajY0SmdvWnNrSzZ4WHkxWlIxWnRxemNHX2ZSYVBBZXA0TV8xN1JoZk9OazhYSzVuLUNadkF2THJNTUdFcVEzMHRHYWZ6VDdJTXBrd0RfYW1ONVVUaWZlRG5yalZxZ0NVVDcycnNleDB1dkU4RFJTc1pYX21HaVYyX0o?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "81a140560199",
+      "title": "O chá protege o coração, a memória e os músculos, mas apenas se for consumido corretamente - TudoGostoso",
+      "published": "2026-06-15T18:08:00+00:00",
+      "summary": "O chá protege o coração, a memória e os músculos, mas apenas se for consumido corretamente&nbsp;&nbsp;TudoGostosoEspecialistam alertam: beber esse chá pelo menos uma vez ao dia reduz drasticamente o risco de demência&nbsp;&nbsp;O Antagonista",
+      "sources": [
+        {
+          "name": "TudoGostoso",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMzk2LXI2S2NJZGpLbEdsaGFQLXQ4VHcyLUZJY2hYRTlycFppZi1yRUpKZUt0UGtQaEJqWVppbjR0Rk1GXzNxemhhV1k4YjJiR3Y4NElOVlhQSzNLSmJFOU9hMDNkTGR2LUZQSXpPT0g5M0JYRWJ6QncteE9JbFpyUnRyWVJ4ZGpXWERwQlI4ZTdYYVVyeXo3UTlRdHI1MHAwMUI2b2ZEU2IwcWstaEJJbTJvMWhfbGlZem1YMU41dXBPUUtnVTR5VGctS3pUemx1eURtaGVR0gHbAUFVX3lxTE9KZjlzUnFEY05oU0NhWk9LbXV2V250WVhyeW13WVJpZ0pRQU5US1RUTHRjcEVScHlfWjVSM0tmeTg0QUdkWDlWcXJaZ2FpZ182djNzek1XMkR4MEs1NGF6dG5FSVkyeDdzM242M3J0WnlXUkViSG1mNC1qNWFBTExXWDh2ME14cWtabXpITGVwU3hmNlE4cUkzSFE2Y3lZalhIUEJMWkNsbThxcVRPb3JkODU5QTVfSUdTTlRCeDlSMTNpUmN3anEzc2tlWFBkY0pZR0t2OXMzYlB2TQ?oc=5"
         }
       ]
     },
@@ -210,18 +330,6 @@
       ]
     },
     {
-      "id": "f8c2a5507e3f",
-      "title": "Tirzepatida ou semaglutida? Pesquisa aponta ‘caneta emagrecedora’ vencedora - Olhar Digital",
-      "published": "2026-06-15T16:52:00+00:00",
-      "summary": "Tirzepatida ou semaglutida? Pesquisa aponta ‘caneta emagrecedora’ vencedora&nbsp;&nbsp;Olhar DigitalMounjaro pode mudar a forma como o corpo utiliza energia, afirma estudo; entenda&nbsp;&nbsp;O GloboCagriSema: combinação de “Ozempic” com nova molécula potencializa perda de peso&nbsp;&nbsp;Veja SaúdeRetatrutida supera Ozempic e Mounjaro em novo estudo&nbsp;&nbsp;SCC10Nova caneta emagrecedora pode causar perda de quase 30% de peso, aponta pesquisa&nbsp;&nbsp;Crusoé",
-      "sources": [
-        {
-          "name": "Olhar Digital",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd1J4UlpzMm9meWZSeFV4R2YyNVJOWWNIT05uQnFmdW5rcGxmMVg3TXBRNUpDOWdqN25uWGl5MG9BME9IeWJMMHRLNGRZYlpNOEpIeXZTVklwcFB1RXl6aFVmUGhiWExwU2ZSSFVpR3lla2VEUHZ2Uk9qdFRrNHFtZlVTRi1lZ3lnTERtTlJST25qMHVhVlZyMmo2dmVyQVFzMk5SLVFsZlR5Z1liSG0zaW56bzAwZHFobkpNWUYxbkltc2ltb3dTdA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "bf2794899d7f",
       "title": "Hepatologista aponta o que ajuda a reverter a gordura no fígado - Metrópoles",
       "published": "2026-06-15T13:35:00+00:00",
@@ -230,18 +338,6 @@
         {
           "name": "Metrópoles",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcm5oNk5BQWdWcWExWWhsSlQ3UTVQSllndTMtZjB6dndhakhtaGVHeHVfeEkyUHZHbnpBV1U1NUp2LUVQUXhfV3ZXS3hveDBtY3FlNWFhOGx0M29fbGY3aXhZRUJ2NTRESjdrTlVyaW9VNFJpVU44aDdiUnBaOWQwbkt4RUR6bGR5TElvZXdLVVpFTXVZMEpJMVpNbC1fbG9BSzZNZFl4UjNNMnptcUROdjNpVGdjZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b229e091b356",
-      "title": "Conheça alimento comum que ajuda a evitar picos de glicose e aumenta a energia - gmconline.com.br",
-      "published": "2026-06-15T12:57:00+00:00",
-      "summary": "Conheça alimento comum que ajuda a evitar picos de glicose e aumenta a energia&nbsp;&nbsp;gmconline.com.brCafé da manhã com mais proteína pode mudar a fome ao longo do dia, aponta estudo recente&nbsp;&nbsp;Tua SaúdeCafé da manhã: aliado da saúde, mas sem regras fixas&nbsp;&nbsp;Portal A125 alimentos que ajudam a evitar crises de hipoglicemia no dia a dia&nbsp;&nbsp;Estado de MinasO que comer no café da manhã para manter a glicose estável até o almoço, segundo a ciência&nbsp;&nbsp;Tua Saúde",
-      "sources": [
-        {
-          "name": "gmconline.com.br",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYmNOY2JUUHM1SXBZeTFKZmJBM29tN3NBdzF1WTBXZnZXUnZCWUFVNUVUbFNOTHRvVlg5QlpFRk1YWmdMYmNjMzNsTE9VdkJyb2lxeUFaamJMOXpKYWdhdDI0MTBRbXl6ZzJ4NmNmQjZFa3B1cGNjNzd4Uy1XdlRPMkZsdnEzcXA0cVdKMTNBYVZvVlI1LTdlbzFiRHFENWJSQXlEVk1n0gGrAUFVX3lxTFBJQVlVZ0NHS3N5SV9rZXZNcWZVbDZibzBTaUdTWUpfczA2OVd5RURKOHN2a25FN2tnc0lXNkN5bk85RWFjOUFXcnFUNUkyd2VBVGZ1Z29xTkdZRlFlRUdxUGNEZ2JkUWctam1vZmN1bnhjMmxLSC1fcF83WFM0Qy1kTjEzTWczOENIZUF2OEZRM2QxaXYzbmlURF9tNzdFTkR5ZVdaVlppSGxoOA?oc=5"
         }
       ]
     },
@@ -282,22 +378,10 @@
       ]
     },
     {
-      "id": "4b765cc207a9",
-      "title": "Hipertensão e diabetes são inimigas do rim; entenda riscos com Dr. Kalil - CNN Brasil",
-      "published": "2026-06-15T09:00:42+00:00",
-      "summary": "Hipertensão e diabetes são inimigas do rim; entenda riscos com Dr. Kalil&nbsp;&nbsp;CNN BrasilHemodiálise não é método único para o rim, dizem Dr. Kalil e especialistas&nbsp;&nbsp;CNN BrasilHipertensão e diabetes elevam risco renal, diz Dr. Kalil&nbsp;&nbsp;Portal TelaGLP-1 pode ajudar em tratamentos renais, dizem nefrologistas a Kalil&nbsp;&nbsp;A Província do ParáPrevenir doenças do coração pode proteger os rins, dizem médicos a Kalil&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeldOZmh0M2FUWlFXMlNiXzgwbWQ3TjRUcmFUbG9oQ1VwbGlqMF9naWZIbkNGdXFraEtGRDZZT2FjUzZKZlhWZUU0clhnckV6WWxGNFFzQVdfSnNDRDd4V01hWFJhYlQxaS1FSGJFSVZleXJ5NmV5WGxneHh4VTFxeDc0c1FzOVJ5bkhQeGdleEd6eDdWbTBXbWFoNUk4czdWUGlpcy1RanN3QQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c98188dd20e2",
       "title": "Gripe grave por VSR tem aumento de casos no CE; veja sintomas e prevenção - Diário do Nordeste",
       "published": "2026-06-15T09:00:36+00:00",
-      "summary": "Gripe grave por VSR tem aumento de casos no CE; veja sintomas e prevenção&nbsp;&nbsp;Diário do NordesteAlta de internações por gripe acende alerta&nbsp;&nbsp;G1Inforgripe: Ceará está entre os estados com níveis de alerta para SRAG&nbsp;&nbsp;O POVOInfoGripe alerta para aumento das internações por influenza&nbsp;&nbsp;Imirante.comAlerta de Síndrome Respiratória: casos graves de três vírus disparam no Paraná&nbsp;&nbsp;Bem Paraná",
+      "summary": "Gripe grave por VSR tem aumento de casos no CE; veja sintomas e prevenção&nbsp;&nbsp;Diário do NordesteAlta de internações por gripe acende alerta&nbsp;&nbsp;G1Inforgripe: Ceará está entre os estados com níveis de alerta para SRAG&nbsp;&nbsp;O POVODoenças respiratórias: Unimed-BH reforça orientações para proteger idosos | SEGS Portal Nacional de...&nbsp;&nbsp;SEGS Portal NacionalCOM 18 CASOS DE SRAG, PALMEIRA SEGUE CENÁRIO DE ALERTA RESPIRATÓRIO NO ESTADO&nbsp;&nbsp;fmcruzeiro.com.br",
       "sources": [
         {
           "name": "Diário do Nordeste",
@@ -386,30 +470,6 @@
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPN18tcTlHNDdxRlZUMEpqVFZ1bFpJUlV5ME5tUVFDWEdCWUdVNEtHTnZkaE9KdU9Pb3VyYmNNeEFRNWtLQ2NiWHljcS04cHRxdGdxdHNDRk94eE1tcWJjeF9FUjNBU3RjWWpiRkJDZ2I3cXZDVk5COVR2WW9lYUVOVEJTWmR2S0VpdzAzYXBBdVp1SkMzb3JiZ0Q2ZE05M3M5N1ZxWmJGSEhra3owZkRWdWpNMnpfbkdRaVpzNDJ1dzVTLVZ3SjdNbHExSnpDVGN5eERlZHd2azYzTUdvN0VudW1kdWZTQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d668c4b18fb1",
-      "title": "Estudo avalia óleo tradicional no Acre e comprova ação contra infecções - ContilNet Notícias",
-      "published": "2026-06-14T19:09:52+00:00",
-      "summary": "Estudo avalia óleo tradicional no Acre e comprova ação contra infecções&nbsp;&nbsp;ContilNet Notícias",
-      "sources": [
-        {
-          "name": "ContilNet Notícias",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYnhBU3o0UTdBckRnSTdUdHg2bG1nTjZxQkNaQXB3Ylp5TkhYTmxrNldZb3dDUkVWZmxoMXBpU0hZQXp2aDdPX2lxUHVlRU4tWkx3b0tmMFNUYnVuejVwV1I3cW52RkVfZ25SSTk4TGRJZnBJcjB0OE5ucXhkQzZyNkxnZlpfdElfb3dURHJCRUFpXzcwR0ZPSTFPN3VlQ1BySTNlR3QzalFKalkzdFRjVkRqc2zSAboBQVVfeXFMUHVXbk9fV0p4NFhrN3pzbWt3ZHFWVklJbE5BMlNSTVoyNmllQWxZckw4d0R2Q1FTWGQ3SjV3VnBkaE0wQnFJRW1WQ1cyX1l0a2VtZ2hkSVBxMDVYcDZCTHRrdVdGSWpkWWVVb1pyVUdoVklkdkw5aXNhWVk0ZlRLUmJ5dUNvazEzbHNzWmZVaWlnVjBQalRZT2JMeGtqY25oM2dlcV9YUmgxRUtOVkZDV0QxcXZiVkk3YjBn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "935296ec6cd1",
-      "title": "O que acontece no corpo ao comer dois ovos todos os dias, segundo a ciência - Rádio Itatiaia",
-      "published": "2026-06-14T17:06:46+00:00",
-      "summary": "O que acontece no corpo ao comer dois ovos todos os dias, segundo a ciência&nbsp;&nbsp;Rádio ItatiaiaOvo aumenta o colesterol? Entenda por que ele foi reabilitado pela ciência&nbsp;&nbsp;Diário da GuanabaraEste é o erro na contagem de proteínas que você está cometendo&nbsp;&nbsp;Bons FluidosOvo e colesterol: o que os estudos recentes realmente dizem sobre essa velha polêmica&nbsp;&nbsp;Tua Saúde",
-      "sources": [
-        {
-          "name": "Rádio Itatiaia",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN2dRNWEtNkpST05qTUlSajk3bWdSWjNnS19WZTBaTW9KNHhUbndQUXpZUTRXZk42c0RWTFR6MWhzZzl4SnluTXNRMUZDR3dvSjNFZmY0N0VTRHpIVDZpYWticTVfRE1EQUZERkRkRWdMYVF6dERMWFk4T05TRjl3TGkxaTItM3ZBS2ozUzdZRXBTeDBXdm5HS1BUNUgzNFdOMTdKbWVNeW1PSXFTNFlV?oc=5"
         }
       ]
     }
