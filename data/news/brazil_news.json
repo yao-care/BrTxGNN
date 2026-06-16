@@ -1,19 +1,127 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-06-16T11:14:30.135558+00:00",
-  "total_fetched": 93,
-  "unique_count": 90,
-  "health_related_count": 31,
+  "fetched_at": "2026-06-16T16:58:29.837166+00:00",
+  "total_fetched": 97,
+  "unique_count": 95,
+  "health_related_count": 34,
   "news": [
     {
-      "id": "a1614aa55b9c",
-      "title": "O que é Looksmaxxing? Prática de exageros estéticos se populariza entre jovens e gera alerta para a saúde - O Globo",
-      "published": "2026-06-16T03:00:17+00:00",
-      "summary": "O que é Looksmaxxing? Prática de exageros estéticos se populariza entre jovens e gera alerta para a saúde&nbsp;&nbsp;O Globo",
+      "id": "130c6b187a02",
+      "title": "Os riscos de usar peptídeos injetáveis sem aprovação da Anvisa: 'É urgente falar disso' - BBC",
+      "published": "2026-06-16T15:57:13+00:00",
+      "summary": "Os riscos de usar peptídeos injetáveis sem aprovação da Anvisa: 'É urgente falar disso'&nbsp;&nbsp;BBCPeptídeo GHK-Cu injetável é vendido online sem aprovação; especialistas alertam para riscos&nbsp;&nbsp;G1A nova febre: por que pessoas estão injetando peptídeos sem aprovação médica?&nbsp;&nbsp;Aqui NotíciasPeptídeos ampliam espaço na dermatologia com foco em regeneração e qualidade da pele&nbsp;&nbsp;Estado de MinasPeptídeo GHK-Cu injetável ganha popularidade nas redes, mas não tem aprovação da",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE94SEVkTi1zS1ppRGhPcU5MQTNPSnMzTDFsV0V5WENnV0pla0FLQkdYVDhXZldXekllQ1BTN3ItOHhPcWZuZm9JS25ZcHdtem9CTkdkQVFpZFNNUkVscUp4TkJR0gFnQVVfeXFMTzNJU212VVNDdVJnWjZmaWpHQ00tTHMwclFlSG94NjNlRFZaZFVWVTNhVk9JTHJheGZPQmtOUHRPcVRrU3htdEd1WGR6VDJCV2tySlZrM1JFQVUyOWE3NHhPTkx5NEZFTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3a54d5105e11",
+      "title": "Acariciar gatos pode nos fazer sentir pior quando estamos estressados, diz estudo - O Globo",
+      "published": "2026-06-16T14:26:35+00:00",
+      "summary": "Acariciar gatos pode nos fazer sentir pior quando estamos estressados, diz estudo&nbsp;&nbsp;O Globo",
       "sources": [
         {
           "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMEpvdUxoYVpaRW42b3ZRSUo0WGFsVEMxaUVjZkdPVXRaNGt2LWc1MUJ2bDk1cGV5S1ZiZ3Q1TThZMkt2Yld0S01lenBkQ09sdEFnVXFpZ0JPYldPTkV3YkFTZnE4UGR6S2duOFItcDFIUG1IN1pwWlhXQTFvTVRqN0hydUhUenRVN2Jub0hjRjJoblp5VURJWENhTWpqcnJjSFByY3M1T3pta09aQlNKVWt0M3hwZ1FPTzlwWjh3UW90NU0wbEh3VERiUjAxbFIzSzM0aGp0bklHOUdsWmtaa0VqR3dPajZQQlpEWVh0QmVkd9IBgAJBVV95cUxNWFFSWV80NXpfd2xya2dDTFVHNEVqVE5DOGlGUUUtTVpCUDZ0TEZmQ0N0Vnk3Q2UtakdLa0k2T2NmMExqUTBUenI3TTBMZ2g5SVZlQi0xNDBUZEhzanRnQ3pyNDVQeXU3azFsRlliVmdCT1FxLU8zOFBqZktwLWZPZDd5LWpLMmZDLTJuXzJ0Mm9fUlk2WTNqNE52OGkwaUt6by1LTzJIZzFkN255ZWtjRXV3NEZtbjV2Wm5YU1YwWWdjYUg1MHR0TEtLc1VZTUF1SEw4Ym4wUFJkSm5zdmVueDF5RzBnMlJlSGhzMi1RR3BTYm5aeEhNWE12Zl81WGxn?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZkpETWhaRW4wY3gwV2JwUUZ4ajRwZERBd0hfQUZjd3hQNlB6REk4R2dseHZfN21WQWt1RTFjNEt0T1dlQl93SlMyMnlReEF4THY1UXQ2ZUxVU3dQTW53Z1ZVVDlWTUhQQmVPVDkwX1B0Y1JPMUZJWEdBaUszUVg1LWp6eWpQVE5UaG1qS3VtRHFCTVQxbVBuYmxTdXZudE9ZNnNwdVBSUFdGZ0s3NW90Ymx5MUhBSlMyOFg1UUhkeF93dHNTaUs1aVJTX09MNURiMGfSAeABQVVfeXFMTUw5WmtfcHFKazJ3UEpWY3l1eVhSLWpYQWw5bE44cEpMbTNiMUhWMmtTU0hydkRIb0M2ZzRQWjlxWWZ0aUt2RVdUNVE0eWxaUGFzTzhJSEFZNXVmS1RsM1plbVMwVXd2TzZxME1IRjBHMjNwRW9peDBqU2sxOGhlQTN2dzc1YzN5NjlaQ0ZkZzljRVlQaWs3cVEzQlNMTDZYSnE4NFpSNGNQUUtjd2ZQQl9hejVPNVpZOWRZNDVuTElzUnR4SmtnRlJLSEQwUnhRamlJZXlia1NnN1lmMGp4czc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "76f93786d9b0",
+      "title": "Estudo brasileiro acha sinal químico que denuncia estrelas que comeram planetas; entenda - G1",
+      "published": "2026-06-16T13:00:17+00:00",
+      "summary": "Estudo brasileiro acha sinal químico que denuncia estrelas que comeram planetas; entenda&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbmlzNHYyT1VGVmYzc3pLYmRhbk40SFY2MklPQ056Q21raGJpOUQ0X25VdmdzU0ZNckxwTWZNNEM0NWtSa083OHp5MkJIc0tLNUV1TTk1eUVQc1pyTEt3UDFMRDdCY1FVN3BaZkctMGdwREFuN1Y1RWY4elZXc1JfQklTSTRqQTd0eVl6M0xuSzg3aHlX0gGjAUFVX3lxTFBicTVFVmpySTJGTDNPSG5LOWtYM3hiT3NCNFAwTDRrRlAyRFpPb1FYbmhwTjlMVlBsZ1lneG5rQ1ZwWWhjTFl0MHc3MjloVjVGdHZad19nSlBRSG5PeFBqQ3ZNQW9CcXZlWmw2bWg0ak5fcjFBQXNEZ0RzODAwdDlBb284bC11VC0tNXJpRVZFcnVYNlk4VmltOWJILURLdzFiOFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c12e872b6670",
+      "title": "Esclerose múltipla deixa pistas no sangue muito antes dos sintomas - UOL",
+      "published": "2026-06-16T12:25:30+00:00",
+      "summary": "Esclerose múltipla deixa pistas no sangue muito antes dos sintomas&nbsp;&nbsp;UOLAvanços permitem diagnosticar esclerose múltipla antes de sintomas&nbsp;&nbsp;Poder360Palestra da Alsapem traz a importância do tratamento precoce da esclerose múltipla&nbsp;&nbsp;G1Esclerose múltipla: a doença neurológica rara que provoca lesões no sistema nervoso central&nbsp;&nbsp;Correio da ManhãProteínas no sangue podem antecipar risco de esclerose múltipla mais de uma década antes dos sintomas&nbsp;&nbsp;newsl",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORTE5Z242N0txOEU4bnZQMnNSMHlOc29MUUg1UnY4R1JXbGNBbXdvdW5ZLWFYeUNrZS14UTBNQmVFWm9UaWtFTmdvX3RidUM0M3BtamNIZ2xLMjlCS1I0dzl3YmRkMmRmcmFwcXFsdkRlS2h4Y01oRDMydC01bUNWVU5XTmtDOXVXeHRSNGFhNzQ2YUozdk1oNjBVdzRTeGc3UERQSTE5T2lDOHVzOHFXenBUM0FqREF6a3lEWUNSWlozM00?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "89681ceeba69",
+      "title": "Dengue: Anvisa cria grupo para avaliar segurança da vacina do Butantan - Agência Brasil",
+      "published": "2026-06-16T12:09:00+00:00",
+      "summary": "Dengue: Anvisa cria grupo para avaliar segurança da vacina do Butantan&nbsp;&nbsp;Agência BrasilVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "Agência Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTXAxVGxpRXhZeTRkcDRvd0pUdGZUUWlwc2NGbkVzeWpzWHk5cUlSWWhrckZ5LWFuaHRpTzVBcHBZMGdLLWt5em1YbDE5MXhyVVhlN2xkVzk3eks5TjhNcUI5OUx0c0w1TFBLSmlMNXFyYXZqaHJ6eUtLRFZobHhwYWxrRFVTSmJvS0s3cVRibExjdHJ1dWdTN21OZURxdWtXNHhpT3k1RksySEdQTUpuamllME9IRThkMFFnY01KYXgtdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ef8850006ac3",
+      "title": "Canetas emagrecedoras: crescimento no consumo e mercado ilegal preocupam especialistas - O TEMPO",
+      "published": "2026-06-16T09:00:02+00:00",
+      "summary": "Canetas emagrecedoras: crescimento no consumo e mercado ilegal preocupam especialistas&nbsp;&nbsp;O TEMPOO prazer sumiu: canetas emagrecedoras geram queixas de queda de libido e anedonia em atividades cotidianas&nbsp;&nbsp;O GloboDo peso ao vício: os múltiplos efeitos das canetas GLP-1&nbsp;&nbsp;DW.comNão é só obesidade: saiba quais outras doenças as canetas emagrecedoras tratam&nbsp;&nbsp;Veja SaúdeCanetas emagrecedoras pressionam setor de alimentos&nbsp;&nbsp;Agrolink",
+      "sources": [
+        {
+          "name": "O TEMPO",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNXy1SeUljakRQazliSHM4cHJJRzd6eGR5OWNNYU0zSkhldDh2ZzJuVElKdjM4TDEwYUE4OU9qaGRhQVV5dDU2ZzA4d3lEWWdYUllmNFFhQmpkeEgtenltcEYzVjJaTmpBbDBOa0NzR0tXdldwS0tPS1JfTWxxa21mdTFUd2xrSXlNd3dXLVlRdFVUZjFyZ05oemZ2SDd0bzU4Y0stWE9UNy1HVWJtMnRSOHJPOXRwdFRTWTB5QjB2eUNnWGFDWFhXTWxkYXpxeFdDaFZ1M1h3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "14dc2eda1f93",
+      "title": "Aprender nova língua envolve diversos mecanismos cerebrais, mostra pesquisa - Correio Braziliense",
+      "published": "2026-06-16T08:10:00+00:00",
+      "summary": "Aprender nova língua envolve diversos mecanismos cerebrais, mostra pesquisa&nbsp;&nbsp;Correio Braziliense",
+      "sources": [
+        {
+          "name": "Correio Braziliense",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNjdmWnVaMUNEenB4NFQ2eGdoT2JsWWE4aURWd2ItSHhCd01HTy1Hb0QtSE9pamdiWDIxajNrU3JMMm5CQ1BXR19YZWFOYzlQd3gwOFhTZ3lFeDRwU0NUMlg0bWM4QWNIeDlqeWtCcnFSY09QZFByU1BJRFJLaV82czBkbm9Mc3pQUlgyNWZzTUh0OHRzQzB1WXhwNFp0MjR2WTJoeE8wQWFkV0U3UmZxd2ZfV3VMcEVURkw3ZERIT1lDaHpwdWV2WHU3eGxZeUpqSzZ5QTlfSzBBZ0dkSzRhbFZiVdIB6AFBVV95cUxQdmF4WnZnRXA4QU5uZmxQVHQyYXc0ZkZtSVpXVWVzSzNBcFJhQml5MDROZE4yRnJuREZCZ0k5cXByTW5oa3dfTVZPbmxGQ0xTVDZTYi04QTVGODNOUnRienhINDlpZVMtM0ttemVCNURhZnZ0RzJoeWJUX0FOSEd5bFh0S2k0cFU0U0ZyTmJzVWF1MWNFVnlYdlExbXZqaEhsWlZybkJ1LW9FWlZJOVJNOG9hcnhZWjZTRVFmRk9NdlRlcXBybFQ1UWF4MXRJR0NWQUtDano4TUF6WUQwQ2ZBS3g2ZnVpekN6?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c336ba2ce475",
+      "title": "Creatina não reduz inflamação de forma significativa, conclui revisão científica - G1",
+      "published": "2026-06-16T05:00:09+00:00",
+      "summary": "Creatina não reduz inflamação de forma significativa, conclui revisão científica&nbsp;&nbsp;G1Influenciadoras defendem creatina na menopausa sem respaldo científico&nbsp;&nbsp;Folha de S.PauloNovo estudo questiona efeito anti-inflamatório da creatina&nbsp;&nbsp;Agora RNConheça as verdades e mitos sobre a creatina&nbsp;&nbsp;TerraAs crianças podem tomar creatina?&nbsp;&nbsp;menshealth.pt",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQV1lyWWJkeUppZXVLUHVNQ3lBdFUxeVU2R3VPVldOOUZLLWxXMG0wLVM5OGVUOTZMMW5TMnpmejV0aVlYMDBXMmlpVVFyZDAwMXNaLXZGdnNQM3pIcHBGSXBrWWdrTW5tRTJ2cHJXcU82S0lPejBOcGdfT04zc0ZSM1gzaFc5dmEyUmlZMmlTdHhtNlZLU3FRYjlFX0lsb044ZEtFaGhFOEE1RGtkVElQcjVOTEhlX2ZSTkhJUHU2WkZQNm1wQWlPOTVZY9IB2gFBVV95cUxPT2Z5bVdYUjdFMF9GM1VPMDlNd0ZHNkF2SVdCbTJtc0JzYWhQOFpIYUZSTzhOWklMWDgyZWJsX0JpaDdkd0N2TDRkZWhsU1pHNWlGSVBUZ3o2R3I1X1hlLXhoT0xuYVFOTFN5ZkFCeGN0Yi15LUxXQVhTMjJxSmFDTGdSaTYyQXQ5SGs3YjNZLXZ2S2x5a2ttVTBKcFJfNk9pMnZBMFRGMThrVk5xQnNrdWxwZkRUSGFCcWUwV2F1bk5TX0tvWTNQczJORFd4ak42X295Yk9Tb3NJdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4ddce7bb136b",
+      "title": "Nova diretriz internacional coloca semaglutida e tirzepatida como primeira opção no tratamento da obesidade - G1",
+      "published": "2026-06-16T03:01:09+00:00",
+      "summary": "Nova diretriz internacional coloca semaglutida e tirzepatida como primeira opção no tratamento da obesidade&nbsp;&nbsp;G1Veja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOOUlTNlRzNzF4NE5fQ1ZUT280VktBMHlYZVNGRnVVTFZKVFdUS2Z6TFpvUWNxOXJ0YWx2UFBfYjhKZV9OMU9NM09xVWRFN0dJSk9hcjZlSHphWmlWVWgtbmg5aHQ2b05IYjRRVmpQWDd0YkxQb1ZOcU9OT285OW5KQ3RiVFY5eS1XNGFtTE1WZmlSRk9RMG9yWnJ5UHg2aVd3Ym9WSXF4Sml2YUtZX3hwUWloZThWUVd2T2Z5VWlPdWZwdWljU3hhMVBrZDcwWlZMQmZxeE9vRlRJSjA3Yi1welF6dkxTM1lWOERtUEJLMUTSAf8BQVVfeXFMTTJlVzlhUzhIY21aTUtYbHJtOFltWTBlU3FhVmNKbDFmdHphWjFuZFFzck9yWEFfTFhoODFHb0tTakxGZUhzT0J6Q1l6NVowV3IxREZiU1ktNkRMbmFVdm1rOFdDc3VuME9kS2pZMk1DRUNmRE5yeTRpWFh4SFVrTXlxdGVGYnoySVptZWZVOHM0VkFwTWRDR1lSTHR1T1BFakl1dEFPX3hqUkNFMXJaZVQ3UVZjc19vOFNyOXlPMTB3QnFlbG00ckpLX2k2akF6YUFqTWE4dGdUenl3dGU3ZGRVa0VhX1JXRy1aUGhFSkJwdlQtdV9aam43M2E1anR3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9bdca5bc0bde",
+      "title": "Estudo analisa como o sabor de uísque pode mudar em cada continente - Folha de S.Paulo",
+      "published": "2026-06-16T02:00:00+00:00",
+      "summary": "Estudo analisa como o sabor de uísque pode mudar em cada continente&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUk9UbkxZbnVERVJPS1lETTNESUE5Q3JKSVh1VHJDSjNLUXRaVm50a1BmWXZhNW9GbmdCbFVfcG80Y1ZoeVF3NnpNeEZ4NVhDVHJOSi1vOGFTMXpfeXUyRWh6MHFOemZiRWdSOGhNajFrYWJVLUhJM0lfb3BNZDFUVkJuOXpwMk5hbWstQU1JSjVESGVpMTNrZl9Kd3hfUlpBOEw5QVJpcUl0Mkw1ZkhXUk9GcEZ5QjZxM3c?oc=5"
         }
       ]
     },
@@ -42,14 +150,50 @@
       ]
     },
     {
+      "id": "7c6c0893215e",
+      "title": "Inteligência artificial na pesquisa: ferramenta ou ameaça? - Jornal da USP",
+      "published": "2026-06-15T20:51:00+00:00",
+      "summary": "Inteligência artificial na pesquisa: ferramenta ou ameaça?&nbsp;&nbsp;Jornal da USP",
+      "sources": [
+        {
+          "name": "Jornal da USP",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVW13c2JBMlczV1NwNUtiWjY2TEh5cWhwbFZlUGl0UTVWZ0JOQVFJQkNpUGplSElmTVJnM3NBbXJKVjBrRXd6RjNraV9ueHpIQUFwY21zMTVuREZjQ05CZm52YjNPcU82VDFid3FhdXhCejh6MmNCYXJrVE5fQ3c5NUhfZ3RJQ05VbTBlM2NSM3k?oc=5"
+        }
+      ]
+    },
+    {
       "id": "6da6c9f97eda",
       "title": "Prefeitura de Salvador amplia horário de funcionamento de unidades de saúde nesta terça-feira (16); veja lista - Jornal Correio",
       "published": "2026-06-15T20:32:32+00:00",
-      "summary": "Prefeitura de Salvador amplia horário de funcionamento de unidades de saúde nesta terça-feira (16); veja lista&nbsp;&nbsp;Jornal CorreioPostos de saúde ampliam atendimento para vacinação nesta terça-feira&nbsp;&nbsp;Metro 1Política - EM TEMPO CHUVOSO E DE FORROBODÓ PMS REFORÇA VACINAÇÃO CONTRA GRIPE&nbsp;&nbsp;Bahia JáSMS AMPLIA HORÁRIO DE FUNCIONAMENTO DE UNIDADES DE SAÚDE NESTA TERÇA-FEIRA (16)&nbsp;&nbsp;- Bahia EconomicaSalvador tem ação especial de vacinação com horário estendido nesta terç",
+      "summary": "Prefeitura de Salvador amplia horário de funcionamento de unidades de saúde nesta terça-feira (16); veja lista&nbsp;&nbsp;Jornal CorreioPostos de saúde ampliam atendimento para vacinação nesta terça-feira&nbsp;&nbsp;Metro 1Política - EM TEMPO CHUVOSO E DE FORROBODÓ PMS REFORÇA VACINAÇÃO CONTRA GRIPE&nbsp;&nbsp;Bahia JáSalvador terá vacinação com horário estendido nesta quarta-feira&nbsp;&nbsp;portalsalvadorfm.com.brSMS AMPLIA HORÁRIO DE FUNCIONAMENTO DE UNIDADES DE SAÚDE NESTA TERÇA-FEIRA (16)&n",
       "sources": [
         {
           "name": "Jornal Correio",
           "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxONW80RFFBUkxCeS1NeFliVjlfcXZxMkJKY3ptWlJrNTY4MGFjVGdEaUUyRk9nWU1mWEdaUndwNlQ1cXRnd1paSThudjd0aHU1MFNDM1ZEaXoyMkZHNGMwZXpGSVdBSzlITXdrRzdIaWdWU0EzX0VFcWVZZmFvWXh0ZERGOFVzYTQtbWdkRkt1ejIzTDRQR3h4aWJpNzAtMTl6OFhURXlVR1FQVWVQZ01UcGxYOFU2UkNOSVVKc0Z1S2NDdi1sV2xJX3JPX19wOWhidGxfQnJsSDdHbDBEVHYzWjRqZnV3OUU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ff3f80f13045",
+      "title": "'Lazareto': antigo hospital de Ribeirão Preto destinado a combater epidemias no século 19 tinha cemitério próprio - G1",
+      "published": "2026-06-15T20:30:08+00:00",
+      "summary": "'Lazareto': antigo hospital de Ribeirão Preto destinado a combater epidemias no século 19 tinha cemitério próprio&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQbEJDczJ2c1pFS1pERl9PWjYyMGsxaWVNdHpLLW04dnlwb09lOV9lZHMyaUx0UWJGS3AtZ18zT0xyX1RvZWs5ak5NUnc2Ri1LYVN0d3E0NmVtbVhDWUtaTXNvam1LOVZxTkdJci1wamVPbG5ZNURYeDB0RGMwTEN0UEgyQWtZNG1NbmJYQTlnTzJWZHRKNmVRcFZmZXpscXVwV1pxdU1sMnhhWEtndWxTaGdWVjNnVFJKYlVacGJYVEE5MkVtSmhOWW9YbEhSWHRLWUw3TVJzbnB0RnA4MkV5bG1QZUFwZjNlSjl2a0xGWnBHWXYycEVnQTNBbXlVYU92MC1ScVV2MHBFWGwzT05yekp5VFNFUDdpaWVkTkNYYjg1ZkFUVXU4NFdDRGo2WDlua290N3BzcThLU1lyMnfSAcwCQVVfeXFMTzdIS3lGMURKcjAtTmV0NUJpR1lJV3hzNE9JQXdrd2FWUEM5U0tIRjBzNmN1RlRCdGt2cVgxSmZrUDE4TzBWM2RnZ1RzMFRicFp6Q01WdXlWTXNkVVAzXzdpREhqZVRTQ3Y0ZWR0a3hYak1lZTJZRVdTU3N6TXVUdmlJc3AtUjdOLUpKSDNJV01HUVU4TV9rUm8yNFNTUE41WVRydUFxYnhUNU53ZE56QWVpeUlEaS1lcXJhMkYtSE01OXpVbjhmVlZaSXloVU1EejBPR0s3VjN4ZUxXOG1jZ1VRLVNBaUV1aS1Xa1ZCNDJTMFRGRGZpWkVoZEFkS0diM21hbkhBYWpxTFlkdGhSZ2xvZkVENWNLOHdNNGk3YkgzUWMtcjYzMU5ZUWsyRUM4SU5pOUxUQkltNmFqTVJLYnItb3l6NGpLdG9ZS3U?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4f6e7d0de806",
+      "title": "Rivotril e outros remédios usados contra insônia podem aumentar o risco de demência? - Estadão",
+      "published": "2026-06-15T19:02:00+00:00",
+      "summary": "Rivotril e outros remédios usados contra insônia podem aumentar o risco de demência?&nbsp;&nbsp;Estadão",
+      "sources": [
+        {
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNV1pVbk96OTVsaHF4NnZ1T1BQeUdfTDFkd2dwZFdxR0piU1hRbmxBUl8wVlI2WG4xdm1WcGw3ZzlVTXJZOElKODFoU2p2eXd2d2s0TmhyMDNFTUFrSkE2WGtzamV2YW1reVVfSnFWYmRseU1WNTRRSDM2S3l3V1F4U3VPTXVDS1FuU1BldWFEVFFxUlBWMG1uZHNVTUNtUUJhZ2E2YnJPcWlLZVZjMFlQRF9IdWp4ZWxLZTI5ODF6SGV4R0ZSdUZKTG9IaVFDQdIB0wFBVV95cUxNNnVPLVljTnFlajB6M01iUjl3ODlOUGJYN2w5bUhRYS1XV0VYVzNXT1MyV09CZ01hRTVPQXdGNDdFUEVQTHBlUEFTU3RLTGhLRzltOXQ4RmdfUUd2eEpzWWVBMTZGdmlPY0ZYSUxrVWRib2JodG5qWkNwdEJ5MnVLYUEtR2Y5aDhEZTBSLUNEU3NicHQxS2tGMUUxdHoyNVdUMEI4Zm5ZUTQxN25KMGlIcVotal80dmpnUnlZcnREOGdiU2NDMDVyckxHX3A0VXJhX1lV?oc=5"
         }
       ]
     },
@@ -66,26 +210,14 @@
       ]
     },
     {
-      "id": "fb5325800769",
-      "title": "Marca afirma ter criado bolsa de \"couro de T-Rex\" em laboratório, mas agora não consegue vender - O Buteco da Net",
-      "published": "2026-06-15T15:00:00+00:00",
-      "summary": "Marca afirma ter criado bolsa de \"couro de T-Rex\" em laboratório, mas agora não consegue vender&nbsp;&nbsp;O Buteco da Net",
+      "id": "f8c2a5507e3f",
+      "title": "Tirzepatida ou semaglutida? Pesquisa aponta ‘caneta emagrecedora’ vencedora - Olhar Digital",
+      "published": "2026-06-15T16:52:00+00:00",
+      "summary": "Tirzepatida ou semaglutida? Pesquisa aponta ‘caneta emagrecedora’ vencedora&nbsp;&nbsp;Olhar DigitalMounjaro pode mudar a forma como o corpo utiliza energia, afirma estudo; entenda&nbsp;&nbsp;O GloboCagriSema: combinação de “Ozempic” com nova molécula potencializa perda de peso&nbsp;&nbsp;Veja SaúdeRetatrutida supera Ozempic e Mounjaro em novo estudo&nbsp;&nbsp;SCC10Nova caneta emagrecedora pode causar perda de quase 30% de peso, aponta pesquisa&nbsp;&nbsp;Crusoé",
       "sources": [
         {
-          "name": "O Buteco da Net",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONVh1Q0tsWEJHeHJoNC1UUEU0LXY1TW9DRnZtVXYzTG0yeEVfaDU2ZnYzdXlzU1pkemhTRDBxSnFIYnJhNURJUnB2RVVDZ1loWHc3UDBmY0xVbmRCV3BwbnE2ODIwLUxLdURXRVVZcjhrbklibzV3ODJCbWVpdGxSMEtmY2p4WVBQTkp2Y0tlV2l2YjM0WjFtZ25WS05nanFQVlU2QkRQRUc3NmN5T2M2NlhYNlMwQXFxZmlOVEtqX2dWQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "41361a544e47",
-      "title": "Pesquisador da UFMT Sinop integra artigo internacional sobre ciência na Amazônia - Só Notícias",
-      "published": "2026-06-15T14:39:00+00:00",
-      "summary": "Pesquisador da UFMT Sinop integra artigo internacional sobre ciência na Amazônia&nbsp;&nbsp;Só Notícias",
-      "sources": [
-        {
-          "name": "Só Notícias",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdTg5NVJnOGJOUzB2TjBPMUxnOHlzSzdlNERhNVhudnQ3R0o5SmJYMjR0NzN5anRYSDdoNk1HVGpNcmZsVmVfSFNYZUl1MGlIWThZRTNJR1p1aEZCVW13MFFhcmZhem1qNG5tLTJ4NmVHV0VXTXBFc0FseVpEV3Q2X1l3UkZxVDJERTJQRUF5ajdLUC0zN015d0pMMldsc2kwNFQtMU8zVWFibVpvVktiOFZLS2xwWnhq?oc=5"
+          "name": "Olhar Digital",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd1J4UlpzMm9meWZSeFV4R2YyNVJOWWNIT05uQnFmdW5rcGxmMVg3TXBRNUpDOWdqN25uWGl5MG9BME9IeWJMMHRLNGRZYlpNOEpIeXZTVklwcFB1RXl6aFVmUGhiWExwU2ZSSFVpR3lla2VEUHZ2Uk9qdFRrNHFtZlVTRi1lZ3lnTERtTlJST25qMHVhVlZyMmo2dmVyQVFzMk5SLVFsZlR5Z1liSG0zaW56bzAwZHFobkpNWUYxbkltc2ltb3dTdA?oc=5"
         }
       ]
     },
@@ -98,30 +230,6 @@
         {
           "name": "Metrópoles",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcm5oNk5BQWdWcWExWWhsSlQ3UTVQSllndTMtZjB6dndhakhtaGVHeHVfeEkyUHZHbnpBV1U1NUp2LUVQUXhfV3ZXS3hveDBtY3FlNWFhOGx0M29fbGY3aXhZRUJ2NTRESjdrTlVyaW9VNFJpVU44aDdiUnBaOWQwbkt4RUR6bGR5TElvZXdLVVpFTXVZMEpJMVpNbC1fbG9BSzZNZFl4UjNNMnptcUROdjNpVGdjZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d15ec9087e09",
-      "title": "Mais Cabello investe em ciência e medicina regenerativa para ampliar mercado de tratamentos capilares no Brasil - O Globo",
-      "published": "2026-06-15T13:25:17+00:00",
-      "summary": "Mais Cabello investe em ciência e medicina regenerativa para ampliar mercado de tratamentos capilares no Brasil&nbsp;&nbsp;O Globo",
-      "sources": [
-        {
-          "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNX09mcmlsVndOVzNqUmRPaE1PWW1ZSzV5RXU5MUVjdGcySS0zTTRBNmtqQzM0ZlVrUXh1XzFCWDh0YTF3dDhwanI3NzF4VnR0S3FMY0dWbmJwSVQwT2RYRUd2MnZtNzFUZ2l0ekdjSjEwVnNfcVBhWUo4Nk96b2VCeFBGZTlOR1B3Vm53Y1dac2xxZ0hiYVlBNGwzQkF1UDhqaGt4UE83Vk9oQ0pQUG5rdzRNS0lMbEs5WFJPWXdEc0g4UFdveEFYWkNZYXh4MHpzX0NEdXBENnVDZkNsa0NvMWJwTEhhNE9FT1J2NVJ0aTdWOUwzc3Z1N28tdEpEd1dBMTlLS0VyeUVLTXlvaW9kVmNTdlpIQdIBpAJBVV95cUxNamZiX1VCNUxfbWotWS1wc2ZoSzJtSGl0ek0zamNtaER0V2tqdTFJSmVBVHNvbUtjMmkydU1PaUktZFhTOUVHNE1YQ21ETERyMWhHVzRmdDI5eGc3U19zbk00Q2hNLUtDVzhSb2haTjNCbndEbnlfTmFOOHUzOFJMQXBzYzJ4SU43OVgxNVRIS0N1TVNvVVR4bG1SY3o3YUFwOUtTYXI1NHNRSllCd1lBNk1SaFZJYVp2elZWT09TT09YYWNnUDU3bTdhNWNXeWFHNVBuU1FzN2FqYkhxZDFHU0NETWVya0dlS2tSQk0tdjRBUWd6VDdMWndTejZIUHp4YVhfU041NUZ1Ym1jWjAtVkRTZVN1Zk5ISW0yOFZpdjlMS2VH?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "53fe95666e3f",
-      "title": "Cientistas criam os primeiros relógios nucleares do mundo e abrem nova fronteira na medição do tempo - CPG Click Petróleo e Gás",
-      "published": "2026-06-15T13:18:00+00:00",
-      "summary": "Cientistas criam os primeiros relógios nucleares do mundo e abrem nova fronteira na medição do tempo&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMXAxNEhkWENOYndQaXZGWEw1WUM1WDhLRXAzYkM4bC1VMTBSWGtwdlNLT1JEQVNYZ055YWswXzlydmtneWQ4VDVLeFJKTXE0WmV5dkZYZVdUX0lzWGZnNi1iM245dTM1ckdEZWROV0I5NXlSM0QwRE4zS1VEWU1pSlZGOF80N2xlVEFWa1JGMnpjY1BLWmI1X1ljTGstVTFNQl9pYmFRcEVvcEtSMUUtU000dGEwYWlwblNPTVNpN1JhaFVkRW92RWZVRm9GYlRzbldLdGFZS055U1YyRTFJ?oc=5"
         }
       ]
     },
@@ -150,38 +258,14 @@
       ]
     },
     {
-      "id": "5ed393a547bf",
-      "title": "Reposição hormonal na menopausa: quem pode fazer e quais os riscos - UOL",
-      "published": "2026-06-15T12:26:43+00:00",
-      "summary": "Reposição hormonal na menopausa: quem pode fazer e quais os riscos&nbsp;&nbsp;UOLEspecialistas alertam para risco cardiovascular da mulher no climatério e na menopausa&nbsp;&nbsp;AMB - Associação Médica BrasileiraO hábito diário que pode reduzir alguns sintomas da menopausa&nbsp;&nbsp;Notícias ao MinutoMenopausa vai muito além dos “calorões” e exige atenção à saúde da mulher&nbsp;&nbsp;Rádio Fundação MarconiReposição hormonal: o que a ciência já sabe sobre benefícios e riscos da menopausa&nbsp;&",
+      "id": "f537cff6200a",
+      "title": "Tratamento para insônia evolui, mas estilo de vida é fator determinante - Folha de S.Paulo",
+      "published": "2026-06-15T12:30:00+00:00",
+      "summary": "Tratamento para insônia evolui, mas estilo de vida é fator determinante&nbsp;&nbsp;Folha de S.Paulo",
       "sources": [
         {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMGp0em1RcXdRZTRWVUUzbUFPcExncTRCd19TVzVmR19XTXFaQ1JPWDRXRmhKTk1rckhPb21UV1h1VnFPQ3Eyb1RCbmJpellCck5kTWVyTXhCN21lUm5RNmpXblk2Njd3azZlTFFkejU5Xzg1QVZnNXFNTWNBUnAzZWNaYUJuX1V6dU5YcTJabE5zcFhrU29hNWNuQWpzazlpTHktcjRHb1VHVlMtN2JmSFBtbjBwS1hHZWlkVmYzRE1xVzBxeFRaTw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6d80142926aa",
-      "title": "Diabetes tipo 2 pode ser revertido? Entenda quando a remissão é possível - UOL",
-      "published": "2026-06-15T12:20:45+00:00",
-      "summary": "Diabetes tipo 2 pode ser revertido? Entenda quando a remissão é possível&nbsp;&nbsp;UOLGlicose alta: os dois hábitos caseiros que mais reduzem o risco de evoluir para diabetes tipo 2&nbsp;&nbsp;Tua SaúdeDiabetes pode dar sinais na pele, nos olhos e até nos pés; confira quais são&nbsp;&nbsp;Meio NorteO número de jovens com diabetes está aumentando: isso é muito alarmante.&nbsp;&nbsp;Vietnam.vnDiabetes silencioso: porque milhares de brasileiros só descobrem a doença após complicações&nbsp;&nbsp;Sa",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVmZBZEQ3dngzNlE5am1wbnNGaE5WUDVERlRjNm1HWlZaeHkydG1SR0RIckxyVVhvMThEaG85MEtuQmpod09ieWhqZFJZeHFsRzFWZnlxS28yaU83Y0VKMlpqRTR3VWJCcXBwdDhaejVIY2NwS2tQQXNXM0hDdHFoS052eDRTMmpJZmcyejNfZzd3akpJQjFVeS1PanlKc0I2WU5yTzRTWk9ESVV0bFhPVU0zdmUwM19yMHVDQ3k0N25IUHFDd1Z6clJrWmgtUURw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f1107fe278b5",
-      "title": "Novo remédio contra insônia chega ao Brasil com promessa de fazer dormir sem causar dependência - Jornal Correio",
-      "published": "2026-06-15T12:12:43+00:00",
-      "summary": "Novo remédio contra insônia chega ao Brasil com promessa de fazer dormir sem causar dependência&nbsp;&nbsp;Jornal Correio",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNVBWOWpodDRYME82MmNmc042amptU3J2ekNXSHJCZldXVFVKQUtyR2tpOHB3TGNGdS1Cc3lxRk8zOGc2WDA3NExCVngtZjFGZGhtY0pPTUd2djVKbWxnWW1NOERBX3dPNk9QS0VqcWdES1ZoTEVmckw1Qjk0bXhWcW9Vb3NtaW1NT0ZONklQMllDOUxZdWloRkw3UmozYUJzeTNvRWZoUE9qTlI2eGVHTDNWbFd6aVQ2bzVCNk9uZU1ORXBFQzI3UmxJMW5pUVhWVFo4LW10NA?oc=5"
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeEtZOEZKeV85aUZ2MnIxYTdEcHBJRkJxUFFnNURadFVoaVJfTkxpSEhhT3RGX19pNG1KeDViMUxMRTZCV1ZpX21BLXVxU1gwb19admF3RFkxOXhQNXhtRmdMSG8tVkxUTS10bnlHU2dEZUJFSmlXeUJScUpsOVhQZkhLa0pfdmd6Q0Uta1ZrRC14aHFHWFZIamVkYUROeUdQRW4xZ3YyLXJ4TE5yeEE5Q0xrQU0xSUt0U1UyUU1ZQjNEcUk?oc=5"
         }
       ]
     },
@@ -198,10 +282,22 @@
       ]
     },
     {
+      "id": "4b765cc207a9",
+      "title": "Hipertensão e diabetes são inimigas do rim; entenda riscos com Dr. Kalil - CNN Brasil",
+      "published": "2026-06-15T09:00:42+00:00",
+      "summary": "Hipertensão e diabetes são inimigas do rim; entenda riscos com Dr. Kalil&nbsp;&nbsp;CNN BrasilHemodiálise não é método único para o rim, dizem Dr. Kalil e especialistas&nbsp;&nbsp;CNN BrasilHipertensão e diabetes elevam risco renal, diz Dr. Kalil&nbsp;&nbsp;Portal TelaGLP-1 pode ajudar em tratamentos renais, dizem nefrologistas a Kalil&nbsp;&nbsp;A Província do ParáPrevenir doenças do coração pode proteger os rins, dizem médicos a Kalil&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeldOZmh0M2FUWlFXMlNiXzgwbWQ3TjRUcmFUbG9oQ1VwbGlqMF9naWZIbkNGdXFraEtGRDZZT2FjUzZKZlhWZUU0clhnckV6WWxGNFFzQVdfSnNDRDd4V01hWFJhYlQxaS1FSGJFSVZleXJ5NmV5WGxneHh4VTFxeDc0c1FzOVJ5bkhQeGdleEd6eDdWbTBXbWFoNUk4czdWUGlpcy1RanN3QQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c98188dd20e2",
       "title": "Gripe grave por VSR tem aumento de casos no CE; veja sintomas e prevenção - Diário do Nordeste",
       "published": "2026-06-15T09:00:36+00:00",
-      "summary": "Gripe grave por VSR tem aumento de casos no CE; veja sintomas e prevenção&nbsp;&nbsp;Diário do NordesteAlta de internações por gripe acende alerta&nbsp;&nbsp;G1InfoGripe alerta para aumento das internações por influenza&nbsp;&nbsp;Imirante.comPor que parece que todo mundo está doente?&nbsp;&nbsp;Revista Ana MariaAlerta de Síndrome Respiratória: casos graves de três vírus disparam no Paraná&nbsp;&nbsp;Bem Paraná",
+      "summary": "Gripe grave por VSR tem aumento de casos no CE; veja sintomas e prevenção&nbsp;&nbsp;Diário do NordesteAlta de internações por gripe acende alerta&nbsp;&nbsp;G1Inforgripe: Ceará está entre os estados com níveis de alerta para SRAG&nbsp;&nbsp;O POVOInfoGripe alerta para aumento das internações por influenza&nbsp;&nbsp;Imirante.comAlerta de Síndrome Respiratória: casos graves de três vírus disparam no Paraná&nbsp;&nbsp;Bem Paraná",
       "sources": [
         {
           "name": "Diário do Nordeste",
@@ -222,6 +318,18 @@
       ]
     },
     {
+      "id": "29b2ba4e0ac1",
+      "title": "Como a tadalafila virou \"hype\" entre jovens e teve vendas 2.000% maiores em dez anos - Terra",
+      "published": "2026-06-15T07:59:00+00:00",
+      "summary": "Como a tadalafila virou \"hype\" entre jovens e teve vendas 2.000% maiores em dez anos&nbsp;&nbsp;TerraTadala: energético viraliza com nome inusitado&nbsp;&nbsp;Campo Grande NewsDependência psicológica de Tadalafila cresce entre jovens, afirma médico urologista&nbsp;&nbsp;Maringá PostDia dos Namorados: veja possíveis riscos associados a \"overdose de tadala\"&nbsp;&nbsp;CNN BrasilComo a tadalafila virou “hype” entre jovens e teve vendas 2.000% maiores em dez anos&nbsp;&nbsp;SEnoticias",
+      "sources": [
+        {
+          "name": "Terra",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNb21VS3N1ZnVoMmZpRzFISWpGZXFfYlh2RFg0OG1tSE5Bcjl5U3Y5eTg2NV9JVUZycG5jVEYxN3Bid0hkV1RTTUQyQS0wOHo4QnkwVVBlZTBWWjhlaWpsUHpiM2xzTzFXQ2VmSEFYdmdnMmFRLWJkYWFJcjc2SDFzalZBaGlubjhXanMtcFlRNnBBaVpsT0xiQ1JYakhQcUdmRGhyOXc5U2JxZTU4b1hQWE5TVV9JV0tLZDNLZkRCTXpubmx1ckUtTGczZFA3cUU4eFJFcE9WMUtiUTlmUTlFTkI5LUE4MzN3QkRJZ2xqUTh6SzhvOERMaTB2a0lidEF6?oc=5"
+        }
+      ]
+    },
+    {
       "id": "ccd524b5a727",
       "title": "As nozes contêm minerais essenciais, mas a digestão libera apenas parte deles; aponta novo estudo; entenda - Extra online",
       "published": "2026-06-15T07:30:30+00:00",
@@ -230,18 +338,6 @@
         {
           "name": "Extra online",
           "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPd1BGUktNcGFIOWlmQnloYmtySWVPWXF4bHNKcHJoclU2dExTeUJpWnBydldmM3dpQk1CV0pRWXB0UVkteFBUNklweEt1NGRua0tyMEhlSDZiZGZMRExxMGJTUjRjV0pSUUdIRUwwQXB6WkIzLVpEczNNTkx3OTY3Z0pIT1RqX2NHUVZJVkFQY1pfaElMVWx1UXd2dkFuN2Z6aVM4Nm5IemNFMW9laG5ReTBjdUlHY1F2bWVldE5xQ3U4QUtGWHltWjUxaHJOUnZ0VE5TdWhmdUkzOGhIUGk2emRSSzgwcFpVN3hJ0gH6AUFVX3lxTFA3eEhGdXdEa0g0RUFTWFdWeUdCbUlHbUVxRUt4WWVHT1o3NmVDVW5MR3ZOWEdNemVkTFZFZmFVbzhxbVpPVlhwLUpncTRkSkdjV0Jzek5fUnZnM0pqZG9KOEJsQmNweTlUeTJIQnhOOUxZNVVUX2dwMGYtNTRjMk96TUZYd2pDQTRUaVQ3Q3VtZTZNU2FLOGpPTy03Rnd4WnRSUm9yMnY0TWotWHdWMlNxR1ZTNWEwcmY5XzA5TUlHdU1ObjlRTE1jZWFBN0JhZHRwYllQYTNCT0xzSVA1REdMNWFPM25WWlpsNEtrWlg3QU1wWTJYbzRiX1E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d9ee21221343",
-      "title": "Canetas emagrecedoras: estratégias buscam remediar a perda de músculos associada a esses medicamentos - O Globo",
-      "published": "2026-06-15T07:30:18+00:00",
-      "summary": "Canetas emagrecedoras: estratégias buscam remediar a perda de músculos associada a esses medicamentos&nbsp;&nbsp;O GloboDo peso ao vício: os múltiplos efeitos das canetas emagrecedoras&nbsp;&nbsp;G1Não é só obesidade: saiba quais outras doenças as canetas emagrecedoras tratam&nbsp;&nbsp;Veja SaúdeO vaivém dos remédios GLP-1: por que pacientes param e retomam&nbsp;&nbsp;Correio BrazilienseCanetas emagrecedoras e saúde metabólica além do peso&nbsp;&nbsp;Folha PE",
-      "sources": [
-        {
-          "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWlpuZXpkakwzckRnZE1GcHB6eVlrRGpDTFlFNVkwVzctYzhfMktSclpCTFJ4QS1hYkZ2UVBZdlhUdHktamJlTUllMWprYnBYdjFhZHFQZWZsamhyYzl4Y0x4SVNDYmNqLUo3a0tlSUxvY3oySm1VazZtcnFmakwwMEtvMEszVjdXbWEtWjBUNWRBUkFZUnluNXhjbDJCemNPajZkNFVWeWRWYXBwNTdLQ1lqUVZlQzBOWWd4eWpYWnZvcVMyS3g2NTFBcXpIMTdUbDlCQjRGSl91cldmR3dzSDRkSkFWMTZkTHBEbdIB-wFBVV95cUxOYnlVS3FYc09kckRQVkd5WnVWdDN3Wm9qYnpuU25vNHRMaUl1X2pWaGVTRzVTSXZ3blpaaGhEY2k3WVVodU1Wc0l4UmZ2M2I0SjFzbjNLV2s4RmsyMDZHNFBTZVNYUmR0VUNsdXNuNXJ3ZllLdGtaMHQxQU1rZ2RocGhBN3NQOFRjZXc3RzNpS3N2RmFsRDdkeDFCUkNGQjhJREg0RmhmMU41RGR1T3RzbzU3ZXN6REs4c1RsdXd0d2M2amFqaHJzT3MxT3hkaVBubzlvbnlDdlQ1eXJPdkZZbjNzVkdaTFFaMC1zZ0JTbHRSQjBHdUZrTjVwWQ?oc=5"
         }
       ]
     },
@@ -261,7 +357,7 @@
       "id": "46c13c7ec3ca",
       "title": "As boas notícias da ciência no combate ao câncer - O Assunto #1739 - G1",
       "published": "2026-06-15T03:30:15+00:00",
-      "summary": "As boas notícias da ciência no combate ao câncer - O Assunto #1739&nbsp;&nbsp;G1Como age a pílula que dá esperança contra um dos cânceres mais letais que existem&nbsp;&nbsp;BBCMultiômica e personalização do cuidado revolucionam tratamento oncológico&nbsp;&nbsp;Valor EconômicoQuais os próximos passos da pesquisa?&nbsp;&nbsp;O POVO+Câncer: por que a era da quimioterapia pode estar com os dias contados&nbsp;&nbsp;VEJA",
+      "summary": "As boas notícias da ciência no combate ao câncer - O Assunto #1739&nbsp;&nbsp;G1Como age a pílula que dá esperança contra um dos cânceres mais letais que existem&nbsp;&nbsp;BBCCientistas franceses criam anticorpo que combate a resistência do câncer de pâncreas à quimioterapia&nbsp;&nbsp;UOL NotíciasMultiômica e personalização do cuidado revolucionam tratamento oncológico&nbsp;&nbsp;Valor EconômicoQuais os próximos passos da pesquisa?&nbsp;&nbsp;O POVO+",
       "sources": [
         {
           "name": "G1",
@@ -294,18 +390,6 @@
       ]
     },
     {
-      "id": "e5b8833bdad6",
-      "title": "Tratamento inovador para artrite regenera cartilagem do joelho e pode evitar cirurgias - Portal Tempo Novo",
-      "published": "2026-06-15T01:05:00+00:00",
-      "summary": "Tratamento inovador para artrite regenera cartilagem do joelho e pode evitar cirurgias&nbsp;&nbsp;Portal Tempo NovoTerapia inovadora regenera cartilagem afetada pela artrite e pode ser o caminho para evitar cirurgia&nbsp;&nbsp;Folha PEFim das dores e da cirurgia no joelho? Nova injeção revolucionária consegue reconstruir cartilagem destruída&nbsp;&nbsp;Agência GBCNova terapia regenera cartilagem e anima quem tem artrite&nbsp;&nbsp;Entretê Spin OFFCientistas encontram forma de regenerar articulaç",
-      "sources": [
-        {
-          "name": "Portal Tempo Novo",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOFAtcHV6YW4tYzM3N01nY3FGNUw5a0NIUVpUaVd1bXduOFpLc0pOR0xZNDlVMmI4eEFITDdSbVY1Q25aNDVKT3l2RklwQWNhTU9sWXVTcGtVamZHbFUyWWxtT3lXTlJaakktLVlpb0JDYWxYQlZndXcyMXNvLUpNbzctQXBYSDN1bUc3YS1ibS12bmpwekJNLUhvVnZmSTQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d668c4b18fb1",
       "title": "Estudo avalia óleo tradicional no Acre e comprova ação contra infecções - ContilNet Notícias",
       "published": "2026-06-14T19:09:52+00:00",
@@ -318,30 +402,6 @@
       ]
     },
     {
-      "id": "a2197a77f5af",
-      "title": "O que seus gases estão tentando dizer sobre sua saúde - Jornal Correio",
-      "published": "2026-06-14T19:00:00+00:00",
-      "summary": "O que seus gases estão tentando dizer sobre sua saúde&nbsp;&nbsp;Jornal Correio",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRXlVNFZ2RmU2MUZ4V2hOQXRqNVBYb2FaVlF0VE9FaFdacEsyRE5ENVRwZk83WWw2OTBZNTdxdkl1cFJuQnZyeG5yaXFONjJJYng4LW4ydW5NdjQ3eTd3WjdmbHhac2dRM3BiQkstcl9TV2wtRHJpVHgyMl9BXzdBUWRhTEVvai1ud2k4UEduVmhLMXl5MkVEbDVoRWs2YUk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6bb50508f0c2",
-      "title": "Inverno se aproxima e Paraná tem apenas 44% de cobertura vacinal contra gripe - Tribuna do Paraná",
-      "published": "2026-06-14T17:20:00+00:00",
-      "summary": "Inverno se aproxima e Paraná tem apenas 44% de cobertura vacinal contra gripe&nbsp;&nbsp;Tribuna do ParanáParaná enfrenta baixa vacinação contra gripe antes do inverno&nbsp;&nbsp;Gazeta do PovoDeputada chama atenção para adesão reduzida à vacinação contra gripe&nbsp;&nbsp;Gazeta de PalmeiraIrati amplia atendimento na saúde e Posto Ildefonso Zanetti tem horário até às 21h&nbsp;&nbsp;Folha de IratiPR mantém vacina da gripe para grupo prioritário&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "Tribuna do Paraná",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVHBpREwtMFRNTEdobExrdjBJeFA2NVRUVzJSLU1XM3RWQzYyMzlWVnRsVTN0MHJBQl9WRHQzYUhfNnhRdXkzQ3lBVmY2R0FGWXFUUnhKWWstU3pTb2lLeGlyUldaRXdmcFlSU0d2cXhSbzFaR0c1VXR0TVlOOTFPSEl6YkfSAYoBQVVfeXFMUDM2aGE4cVkwa29PNjZXcTdtSFFkZmlSc1lVRGtBSndBR1JERXpJTlhQNWtHVkpBRFdPUmN5M0xhUTNRaFA5d3QyckxqMWIxMkdpRHJ3VUVaeHk4U0ZpZkZ0ZmZNdmcxdHd1SjBSTE5NMEM5enBDZld1SWlIMWMwMzBydEk2VkJvWFZB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "935296ec6cd1",
       "title": "O que acontece no corpo ao comer dois ovos todos os dias, segundo a ciência - Rádio Itatiaia",
       "published": "2026-06-14T17:06:46+00:00",
@@ -350,30 +410,6 @@
         {
           "name": "Rádio Itatiaia",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN2dRNWEtNkpST05qTUlSajk3bWdSWjNnS19WZTBaTW9KNHhUbndQUXpZUTRXZk42c0RWTFR6MWhzZzl4SnluTXNRMUZDR3dvSjNFZmY0N0VTRHpIVDZpYWticTVfRE1EQUZERkRkRWdMYVF6dERMWFk4T05TRjl3TGkxaTItM3ZBS2ozUzdZRXBTeDBXdm5HS1BUNUgzNFdOMTdKbWVNeW1PSXFTNFlV?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8881d0870c41",
-      "title": "'Cãopanheiros': cientistas descobrem que cães e humanos envelhecem de forma parecida; entenda - O Globo",
-      "published": "2026-06-14T14:02:52+00:00",
-      "summary": "'Cãopanheiros': cientistas descobrem que cães e humanos envelhecem de forma parecida; entenda&nbsp;&nbsp;O GloboAlgo em comum com seu pet: humanos e cães envelhecem de forma parecida, aponta estudo&nbsp;&nbsp;R7 Entretenimento",
-      "sources": [
-        {
-          "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMFJMWGZDZXY5RUs1b0JGVmhqNzdkUFVITkVTNnJkTkYxTm1vLTRPSWlXX1R1ZElaV2lZckRTc2NpVWpZNGhVekRpNnAycmZrYnlUZDdPRGc0Y0JLV3N1ZjRjSU1Kdl8zTlBJcVgya29jMmt3TXVFc3AtaENjR2kzT3VaUmhtRUlfNUdhWXlpTGFjOEszTmYxRXZyblQwWlF2YjBLeXJuSjhFY2ZPVDFOMFZidUpZeUhydlRmcF9ITTdEdmRUQjBCbEJXbklWc0ZTbDE5ZFhjSXhfdVVVU0HSAewBQVVfeXFMTWdYRkdWS1ZUaEVSSy16RGZqeWJySVB6NzB6eHE1UHFoVmQtZHZ1eGtxMUwxZVNWUGRRZUhHelUwdUlmUEFhajZOVktKQzBURkI3M2hDaU5nVm5qa3dycWprdU5qbWVRaWtndkkxbXFwQmlqbEtia3FPWVotSU5xSl8yMzNRUWlCb3VJUWdQbk1XcnJQNGc2X2owYU1mZ3VMUDZRMDY0YlM0My1QVTJUZEI0cDhBNU1Nai1kX3ZVck5pOWI0U2VPRFI2XzhsQ1I0ejNvNndaaGM0eXh1a1FPUmZPYzkwWklLZTIxZTc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "498172458148",
-      "title": "Pessoas que começam a usar canetas emagrecedoras reduzem atividade física diária, revela novo estudo - O Globo",
-      "published": "2026-06-14T12:32:03+00:00",
-      "summary": "Pessoas que começam a usar canetas emagrecedoras reduzem atividade física diária, revela novo estudo&nbsp;&nbsp;O GloboOs usuários do Ozempic estão economizando nos exercícios, descobriu o estudo&nbsp;&nbsp;cinemaecerveja.com.brCanetas emagrecedoras: estudo revela efeito imprevisível&nbsp;&nbsp;Bons FluidosPessoas que tomavam medicamentos para perda de peso com GLP-1, como Ozempic, começaram a se mover menos&nbsp;&nbsp;obusilis.com.br",
-      "sources": [
-        {
-          "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUU9HT09XemFiNFRQT0dBcjZtNGQyWHNiWExGdHdlMk45aUZnQVFCOXF0ZGFLX1NHbmJnalJsTWZkcV84S3lGdk1ObHdibnQxa1Z2X2U5dHJDWHo2R0dRcjFlLWZQV1FUQXlGaDFNSzBrN1JLbjgxM2N3dEFtQ3FhV3ZRODhLTHEzZW01SzFYcm9kaGxPT2NmWkFlSWN3aWpCaUx0SUZ5Rms1aHpQaGg4bDhueWxwTjdjTlJmb0dsZVo0RDdqXzdUaWQ3QjNEenJtZlpKLUNyQ1huR1BiVHRUNjlicUpnMlgzMGJr0gH6AUFVX3lxTE94YVk0VWo3TGROSEUxdTVJS1d3OWxmUVdBWnpjNEZIeXJHYXNEZmxFM1E4SnZDYWdEOGRPWElWNlRoRFZuR09VNkNReVRoMlRLSFVKekZvNzlUalAzanh3dHRQSDl4TF9VRjZqTGx2Z0dBSHd0Rmw4QkdkdHk1UVppVV9faFhZbUdjbnE5cWlkODRkWVdhOTJuc1EyMDBWYXgtS2YtN04zemZxV0M4Rm1QWUZlTTRFQ0tFY3NxWXZEcmVib1Q2R3JvNzhZQU8yNnpFNzhJaTI4S0hwd1hvTzJOU1Rnd21PaWlJSWhHWjZZVU9QVVVGUWVnT2c?oc=5"
         }
       ]
     }
