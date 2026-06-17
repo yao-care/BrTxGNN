@@ -1,11 +1,11 @@
 {
-  "generated": "2026-06-17T15:38:55.883127+00:00",
-  "count": 45,
+  "generated": "2026-06-17T20:14:12.898150+00:00",
+  "count": 44,
   "news": [
     {
       "id": "596a21ee8b99",
       "title": "Herança familiar: qual o risco real de câncer se um parente tem a doença",
-      "published": "2026-06-17T12:12:50+00:00",
+      "published": "2026-06-17T12:31:00+00:00",
       "sources": [
         {
           "name": "UOL",
@@ -418,6 +418,26 @@
           "keyword": "UNI",
           "name": "ZINC",
           "url": "/drugs/zinc/"
+        }
+      ]
+    },
+    {
+      "id": "8f568608905b",
+      "title": "A África está se rachando mais rápido do que a ciência previa, a crosta no centro da fenda tem só 13 quilômetros de espessura em alguns trechos, e pesquisadores dizem que o continente atingiu o limite crítico de rompimento que pode formar um novo ocea - CPG Click Petróleo e Gás",
+      "published": "2026-06-17T02:36:00+00:00",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNNkhxb2ZzdU8zU3J5eWxIaHRZSWpKYzBJeU5WTW9wSHRrSThob3NjRGFnb2RlMTg3b01neEVMb0U5NkV1b0NZdVZtTWxTRFpQTXFGeXVCRk9pVGhpd1daY1VWRlJkaXlFUVY4Wnh5TG5rVjlNSW91LXJ5XzVQWUhkZjRIV0Q1azFKNUt1d1QxWFZaaXJ1VWhtd2U3aXR5SEVhMkNlV3JkLXdnM3dVVmMwQzBMb2JIS2xWZGpYbUd0V2libTNKSllRRHRvTnNTaWVwejJOWnoyOUxvcTFrajl5SXp1d24wcjF2am5xVjBIVGsxMkRNQnRXZkdLOEduc0J5TExLNWczcFVfMWpjRVZVVm5vMTFYOTE2YU03Z2EyT29GN09wUTU0OC10WXl5VGh1YnY5bVJoRUM2cXZHZU53ckx4aTVMUFk?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "etodolaco",
+          "keyword": "DORE",
+          "name": "ETODOLACO",
+          "url": "/drugs/etodolaco/"
         }
       ]
     },
@@ -1936,12 +1956,12 @@
       ]
     },
     {
-      "id": "8206c5b2941b",
-      "title": "Mounjaro pode mudar a forma como o corpo utiliza energia, afirma estudo; entenda - O GLOBO",
+      "id": "577688c447f6",
+      "title": "Mounjaro pode mudar a forma como o corpo utiliza energia, afirma estudo; entenda - O Globo",
       "published": "2026-06-16T14:44:45+00:00",
       "sources": [
         {
-          "name": "O GLOBO",
+          "name": "O Globo",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVk11eV9XamVrNGJ0QlR2VDVWYjBWS0NQdVFybEdsT2p5UFpvcEpsbnlvSDloRDJsNnJsMVJjYmhrMURGNk9INmpoX1ZKRXFYMEFvYUszTDFZNkxrM3kxYUVVWWtnZ2UtZ1lydEVIcnJoVmxYZ0NncktUb2J1U2RTQzgzcnVPdWVIS0plLXI5UDNKRUJBQnQwbDAwTjdhb1R0T20yd2Z1VzY5Sm1PME5mclNseUV3X1lEY2t0dGNkZWxkc18zRE81MVlfUkNPNjDSAd4BQVVfeXFMTzRwU2lkMnhtTGphWHBQYl9Db2JwNEFpd2FwcGVocHlCX3dxTUo5WmJqbkFzRk9WREszaHU4VlBOTDlfR1RfOG5yVTRaeENweHlKYnBlcTlyRWlxaDRPeklDZXdTWjZVMURLU19nUURDNUlyMzNVTmhkVkpIakMyNXRmc3hrZ2VTRllYUnExUVc5cm4zSnNBbnNyNGJob2hoMV9sY1hpUm9pZWZ3bFZvVVhlR0tJd0xLOUJnU0wwWV9FOHhVa1U0YkJ3QkczTm1VQUtWSTdfN1dsTXZXTDhn?oc=5"
         }
       ],
@@ -1962,20 +1982,27 @@
         },
         {
           "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
+          "slug": "diazepam",
+          "keyword": "UNI",
+          "name": "Diazepam",
+          "url": "/drugs/diazepam/"
+        },
+        {
+          "type": "drug",
+          "slug": "zinc",
+          "keyword": "UNI",
+          "name": "ZINC",
+          "url": "/drugs/zinc/"
         }
       ]
     },
     {
-      "id": "1bcbd7f57ccb",
-      "title": "Acariciar gatos pode nos fazer sentir pior quando estamos estressados, diz estudo - O GLOBO",
+      "id": "3a54d5105e11",
+      "title": "Acariciar gatos pode nos fazer sentir pior quando estamos estressados, diz estudo - O Globo",
       "published": "2026-06-16T14:26:35+00:00",
       "sources": [
         {
-          "name": "O GLOBO",
+          "name": "O Globo",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZkpETWhaRW4wY3gwV2JwUUZ4ajRwZERBd0hfQUZjd3hQNlB6REk4R2dseHZfN21WQWt1RTFjNEt0T1dlQl93SlMyMnlReEF4THY1UXQ2ZUxVU3dQTW53Z1ZVVDlWTUhQQmVPVDkwX1B0Y1JPMUZJWEdBaUszUVg1LWp6eWpQVE5UaG1qS3VtRHFCTVQxbVBuYmxTdXZudE9ZNnNwdVBSUFdGZ0s3NW90Ymx5MUhBSlMyOFg1UUhkeF93dHNTaUs1aVJTX09MNURiMGfSAeABQVVfeXFMTUw5WmtfcHFKazJ3UEpWY3l1eVhSLWpYQWw5bE44cEpMbTNiMUhWMmtTU0hydkRIb0M2ZzRQWjlxWWZ0aUt2RVdUNVE0eWxaUGFzTzhJSEFZNXVmS1RsM1plbVMwVXd2TzZxME1IRjBHMjNwRW9peDBqU2sxOGhlQTN2dzc1YzN5NjlaQ0ZkZzljRVlQaWs3cVEzQlNMTDZYSnE4NFpSNGNQUUtjd2ZQQl9hejVPNVpZOWRZNDVuTElzUnR4SmtnRlJLSEQwUnhRamlJZXlia1NnN1lmMGp4czc?oc=5"
         }
       ],
@@ -2077,53 +2104,6 @@
         {
           "name": "Agência Brasil",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTXAxVGxpRXhZeTRkcDRvd0pUdGZUUWlwc2NGbkVzeWpzWHk5cUlSWWhrckZ5LWFuaHRpTzVBcHBZMGdLLWt5em1YbDE5MXhyVVhlN2xkVzk3eks5TjhNcUI5OUx0c0w1TFBLSmlMNXFyYXZqaHJ6eUtLRFZobHhwYWxrRFVTSmJvS0s3cVRibExjdHJ1dWdTN21OZURxdWtXNHhpT3k1RksySEdQTUpuamllME9IRThkMFFnY01KYXgtdw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
-      "id": "8f66180c6b49",
-      "title": "Aula de campo na Serra de Santo Antônio fortalece formação prática de estudantes de Biologia da UFPI",
-      "published": "2026-06-16T11:02:00+00:00",
-      "sources": [
-        {
-          "name": "UFPI",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNkpSQ1ozOXhBRWR4dkRkV2gzN18xZXBic0VZNXV2emFFWGNkd2RXclBKRkExT3IxOEZvM3BPZGtlbExtUGxySFNzMWxrNUtZbmZyYm9kVzZTZXd2RDZCT2k5TnAwOFV6bnN3ZmlzLTJib1FTT3RySXJNMnBzcU94NzBrQVFsUVNMT0FDNmRhbThaRjEtY2s3U1Vpa3JkMDY2cWFVSjNESWU0RjRTUS15MVJDczZyNFJwSGRBUU44X1RFcDJYZnhFN00wWDlZaHBZN290NE5BUl9CZ2NP?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "golimumabe",
-          "keyword": "BIO",
-          "name": "GOLIMUMABE",
-          "url": "/drugs/golimumabe/"
-        },
-        {
-          "type": "drug",
-          "slug": "etanercepte",
-          "keyword": "BIO",
-          "name": "ETANERCEPTE",
-          "url": "/drugs/etanercepte/"
-        }
-      ]
-    },
-    {
-      "id": "392828af808a",
-      "title": "Análogos de GLP-1: entenda o avanço e os riscos do mercado paralelo - Folha Vitória",
-      "published": "2026-06-16T11:00:00+00:00",
-      "sources": [
-        {
-          "name": "Folha Vitória",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMDVHZGhKQXRHdHZWVkw0UDVWYVZhOHZsQmlnc1ZOYi1uX0dIWGlfb2c1V0Q3cmFLNV9MN0xvU1ZXSXluaUM0ckRWemliYzVaZ0xENHFZRU8wZ3hQOTZQNkpJdm8wbWVmLXZwQkF0WGlPMTZYTWtEQ1JiaS1UYS1JNFZaX3cxVml2OUVtWS0wck44anAyQzdPcGJFZU9rTzQyZHNlNXE3bjUtaFQ3TEE?oc=5"
         }
       ],
       "keywords": [
@@ -2265,6 +2245,26 @@
       ]
     },
     {
+      "id": "6666c364cccb",
+      "title": "Brasil vai acabar com uso de animais em testes de raiva",
+      "published": "2026-06-16T07:00:00+00:00",
+      "sources": [
+        {
+          "name": "opresenterural.com.br",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZEJ2TjdybFhuV0dNTXBsZ0lIa2g1X3BVSXJLZy1SRmFZZjJGdm1Oc2RXU1V0eklVRGhObENlSkJXWkdSdGpJczE4dTNEODBYY2NqSl9vNTN4dl9iTkpNdVVnWWhfTHFvN0NQQV9JblhXOU5uZWVyZVVaYzVVbm16UnJ6WGw2V1VmZkZOZnZrcw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
       "id": "465f1cd9bbe6",
       "title": "O cientista brasileiro que digitalizou 400 anos de história da flora do planeta - Agência FAPESP",
       "published": "2026-06-16T03:02:03+00:00",
@@ -2388,33 +2388,6 @@
       ]
     },
     {
-      "id": "d340c545938f",
-      "title": "Pela primeira vez, é identificado o gás formador de estrelas em galáxias do universo primitivo - Olhar Digital",
-      "published": "2026-06-15T18:43:00+00:00",
-      "sources": [
-        {
-          "name": "Olhar Digital",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSVRmZkhNemUxU3RuYWpTWFhwN3JwWGdrNmR0REs3VzdTTGl1bFdsYkdTVnF0ekxPVmxsS0QtVXBEU3ZhRTdxWGF4MDlOeGJyelM3Rk44cUM4cDl0M1M2ZXFJQXUwTE1kTWYzajY0SmdvWnNrSzZ4WHkxWlIxWnRxemNHX2ZSYVBBZXA0TV8xN1JoZk9OazhYSzVuLUNadkF2THJNTUdFcVEzMHRHYWZ6VDdJTXBrd0RfYW1ONVVUaWZlRG5yalZxZ0NVVDcycnNleDB1dkU4RFJTc1pYX21HaVYyX0o?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "diazepam",
-          "keyword": "UNI",
-          "name": "Diazepam",
-          "url": "/drugs/diazepam/"
-        },
-        {
-          "type": "drug",
-          "slug": "zinc",
-          "keyword": "UNI",
-          "name": "ZINC",
-          "url": "/drugs/zinc/"
-        }
-      ]
-    },
-    {
       "id": "5be5129571c7",
       "title": "Marinha do Brasil marca presença na 11ª edição do Arraiá Aéreo - Marinha do Brasil",
       "published": "2026-06-15T18:32:00+00:00",
@@ -2462,46 +2435,6 @@
       ]
     },
     {
-      "id": "8168c26515d7",
-      "title": "Entenda a formação do Rio Eufrates, que surgiu há quase 2 milhões de anos - CNN Brasil",
-      "published": "2026-06-15T17:00:08+00:00",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeS0yM040YlIzWlVHX201QWNQVTdZMGdOeUwzUVJtUW1XTEcxS2ZGUlprUnlPd1R0VFh6NF9zeDZLYlhWYmFJaTQyZVpacDgwaEtkbGUxeVJCQ1FydGZMdEdnSWFyRU1iTjhsSklMOGp3MnpUUG1FTEdPX3c5d3p4X3FrcHZadnc1MWFRWC1SR0pqODRDeTJPUFZjeG9DVmpHTWV4MDUzN2Y5enN1MUpV?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
-      "id": "d1b46fd3a2b4",
-      "title": "Casamenteira é contratada por ex-cientista da Nasa de 96 anos para encontrar um 'último grande amor' - Pequenas Empresas & Grandes Negócios",
-      "published": "2026-06-15T16:51:58+00:00",
-      "sources": [
-        {
-          "name": "Pequenas Empresas & Grandes Negócios",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQRmVJYTF3Yi1wTXBkMWc3UmxqY2ZCY1ZwLW9VR2M5Xzl5QThvLTlydzNmWjRISXVuS3ZCWElkNWFQczRRWGp6RTh2OGpPdzRpVThpV2UtcElTeHp2amhVMDZWb01KaWt1RkN1ejd5UFlTdnluZEtlbTBUeXlXdzFHaWRXMzVMWjVLdlZYcnVwSVBsbUE3bkZoUUoxY3JjaHZqLVItMnNNV0poTFpjMDdCdW5SQnBQWGJDZThUcVNDOERWeUVFUkltQnVSbjdoQ2k1ekxJNW1KYVJlVnJvUUkxZEM5R3BndF9YX3FYV1pBME5fOGZRQ1cyVFFwYm55QdIBjAJBVV95cUxNSDAtMGlJcHgxaUZmNzlnRmU5R3RzcjUwUWhvSV9BOHNmWHNoMS1PaC00eHpqblYwdmgzaHpDX2ltOGlRVTRrYjlFYV9GZzI1bnhYQU1WTGJTWi1wRzh4ZzVrR0JZaWI4S2dpb3J5LVZ3UzVfRFdMSFFydk9Vd0F3RURLOGhXcG9neTU3M1J2NUVFZ1BpOUtHb0ZMR1kybWF3OTN5Z3RxbFBPVGk4NHptWHRjdERTY3g4dDZLOFBXSHNma1pKZVlscGJ1bUszZ0t2OUtqNW5LUXBzX0F1TXJ4bUFFZEwxSG9JUEIySFFBdVNJREZEcXdxbXlzeHBOdUZwa1BlZkROSEw5UndM?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "tadalafil",
-          "keyword": "TADA",
-          "name": "TADALAFIL",
-          "url": "/drugs/tadalafil/"
-        }
-      ]
-    },
-    {
       "id": "f069fe6d8570",
       "title": "Como o turismo comunitário na Floresta Nacional do Tapajós protege o gavião-real e transforma a economia de famílias paraenses - Revista Amazônia",
       "published": "2026-06-15T15:24:50+00:00",
@@ -2525,6 +2458,26 @@
           "keyword": "UNI",
           "name": "ZINC",
           "url": "/drugs/zinc/"
+        }
+      ]
+    },
+    {
+      "id": "ea5d05e5fd2a",
+      "title": "Ozivy: caneta emagrecedora brasileira começa a ser vendida; veja preço",
+      "published": "2026-06-15T13:51:19+00:00",
+      "sources": [
+        {
+          "name": "band.com.br",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWldVSVhwVVZpYnRtTnh2c3RFakFDZUNyek9lSkk2SHdPaHgzV0tDQUJneWdqYWoxeTNiZi1sdW1reGZxUlNQNFNEQ0Znem1saXRXazZRMGhmaXdJMU5HX3lQNGowTWk3SmZnS3ZYM2FDN1FTOXJTYjdKclg1eVh0Q0RQU0RJc1o1bFhWT2VKcE4zV1pzTDZKSTkySGtIdFdVTjBTcGxHcmxJdHR6SGpodXVNd29wMENRaFBRLQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
         }
       ]
     },
@@ -2606,6 +2559,26 @@
           "keyword": "BIO",
           "name": "ETANERCEPTE",
           "url": "/drugs/etanercepte/"
+        }
+      ]
+    },
+    {
+      "id": "dfdbf7d66fa0",
+      "title": "Fundaj encerrará dia 18 as inscrições para especialização EAD em Ciência de Dados - Hora Brasil",
+      "published": "2026-06-15T09:00:28+00:00",
+      "sources": [
+        {
+          "name": "Hora Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbTNRdGx1UVNhNkFyX0ZsUFEtbnFzNnhEbHk1YW9VM1FYak5TWDlQemhUYU1rWHkwdG4tTmFtZnVKN3ZvWmtJZC1vS0tqWXFoUGJTamRlZGYwVTVmaWJrOEhYd0hYSXZ4aU94RWctS0U0M0FwcEtla1FQT1hVTkdRNkJUemdsQjFBZjZLbzF0YmpUTEJZcjhWVTA4cUlFdjVHM255Z2NzQmlfV1htTXlwVUdQOGI4c3VoN0J3UktxQkU?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
         }
       ]
     },
