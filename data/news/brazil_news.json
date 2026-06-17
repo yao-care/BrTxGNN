@@ -1,15 +1,39 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-06-17T04:19:43.567923+00:00",
-  "total_fetched": 95,
-  "unique_count": 94,
-  "health_related_count": 37,
+  "fetched_at": "2026-06-17T11:00:06.110266+00:00",
+  "total_fetched": 93,
+  "unique_count": 93,
+  "health_related_count": 35,
   "news": [
+    {
+      "id": "596a21ee8b99",
+      "title": "Herança familiar: qual o risco real de câncer se um parente tem a doença - UOL",
+      "published": "2026-06-17T08:34:15+00:00",
+      "summary": "Herança familiar: qual o risco real de câncer se um parente tem a doença&nbsp;&nbsp;UOL",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMmQ1Rzc1TDdFWnJaNlQzMndhMGh4SWFSTUF2cEFaT1p5VWlQQ1lNLUJZMnVaMExCMlpFMzNXZXR1YjNPYXpYWl9HWmRES3hMNzFoNGlHNnl5WHdvQ1NZa2lMdk1JWVc2ZHJOeU15YW15X3JObkNrTkNSWDlfTFlPeU5vSUFxRDVHTHo2R0FLNUZHUjhtc01aZEM1cVZVUWNMZ1F2YmhDYm9hdE9UdkJ4LTVhMlRPRHBXaVhKTjRDTHJjWkJ2NGJvZDZNTUF4QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2dfcbe5ab4e5",
+      "title": "Após câncer de pâncreas e recidiva, paciente com 5% de chance de cura chega a 8 anos sem doença detectável - G1",
+      "published": "2026-06-17T08:03:08+00:00",
+      "summary": "Após câncer de pâncreas e recidiva, paciente com 5% de chance de cura chega a 8 anos sem doença detectável&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPb2k2bkdILXhwQmxRRHhHUkU3TFp3MnRVLTF4RmVyYXVadWhrdTlEOFFtNUl1Ni1McWo1LTVvdmV2M2dNY1hNcTBVcGotSXk2T1R2N1JHRWZKeF9TSUR2dFd4bDlvaVNnQ0xSeVpZeTJCVkszTkZXdkpHY281V0FVbkVMWlZzcGFrcFlEaE4wY0tvSXV4enc4Y3M1cDNkVHF5OHFaWENqbnBwNzlLNE1ERU8yRDNUR3VsdjdwLVY1c2Zoelh0YURnaG1uU1N5LTlPLWlOckh0RGNpT1Zkdm1YemJlTmlERzZyUFVxdWU4VG43OWdPNnc?oc=5"
+        }
+      ]
+    },
     {
       "id": "6996a1fbaead",
       "title": "Lúcia Helena: Por que especialistas em câncer estão falando tanto de drogas com GLP-1? - UOL",
       "published": "2026-06-17T00:35:41+00:00",
-      "summary": "Lúcia Helena: Por que especialistas em câncer estão falando tanto de drogas com GLP-1?&nbsp;&nbsp;UOLCanetas para emagrecimento podem ajudar a reduzir risco de câncer, apontam novos estudos&nbsp;&nbsp;O POVO PB",
+      "summary": "Lúcia Helena: Por que especialistas em câncer estão falando tanto de drogas com GLP-1?&nbsp;&nbsp;UOLGLP-1 e câncer: uma relação que chama a atenção da medicina&nbsp;&nbsp;Folha PEEstudo associa Ozempic e similares a redução de 30% no câncer de mama&nbsp;&nbsp;R7Canetas para emagrecimento podem ajudar a reduzir risco de câncer, apontam novos estudos&nbsp;&nbsp;O POVO PBEstudo: Remédios para emagrecimento podem reduzir risco de câncer em 41%&nbsp;&nbsp;CNN Brasil",
       "sources": [
         {
           "name": "UOL",
@@ -129,7 +153,7 @@
       "id": "577688c447f6",
       "title": "Mounjaro pode mudar a forma como o corpo utiliza energia, afirma estudo; entenda - O Globo",
       "published": "2026-06-16T14:44:45+00:00",
-      "summary": "Mounjaro pode mudar a forma como o corpo utiliza energia, afirma estudo; entenda&nbsp;&nbsp;O GloboNova diretriz internacional coloca semaglutida e tirzepatida como primeira opção no tratamento da obesidade&nbsp;&nbsp;G1CagriSema: combinação de “Ozempic” com nova molécula potencializa perda de peso&nbsp;&nbsp;Veja SaúdeSemaglutida e tirzepatida ganham prioridade no tratamento de obesidade&nbsp;&nbsp;R7Canetas para emagrecer ganham novo status e passam a ser prioridade em tratamento da obesidade&",
+      "summary": "Mounjaro pode mudar a forma como o corpo utiliza energia, afirma estudo; entenda&nbsp;&nbsp;O GloboSemaglutida e tirzepatida ganham prioridade no tratamento de obesidade&nbsp;&nbsp;R7Canetas para emagrecer ganham novo status e passam a ser prioridade em tratamento da obesidade&nbsp;&nbsp;JM OnlineMedicamentos para emagrecer: Por que a alimentação continua sendo indispensável? Confira opinião de especialista…&nbsp;&nbsp;Jornal AraxáDiretriz: semaglutida e tirzepatida são 1ª opção para tratar obes",
       "sources": [
         {
           "name": "O Globo",
@@ -150,6 +174,18 @@
       ]
     },
     {
+      "id": "6d7268a2e656",
+      "title": "Nova espécie de flor descoberta no Brasil já nasce ameaçada de extinção - G1",
+      "published": "2026-06-16T14:05:02+00:00",
+      "summary": "Nova espécie de flor descoberta no Brasil já nasce ameaçada de extinção&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPeEFDZENtOUEzY3RGWF9zcGpzSkJHRjZ6MFNQaUROemxWRmt6MUJoOWE1RE5pOTNzOHlQWGxpYmJod242T25mR0UtQkdLZEFUb215N2Y4bjR6VWNWMnFyX05DMEZ4Zi1pV01VbDVKR01nYk5MbUxSeXJTZmFYTTY5MkRuUFQyRkZjaW51ejFFY0FpeWJLVDhSRDJoaHRTWGFaQnFzcXFxRmpTSkNxOU9aaFVTc3ZTRnRwXzgwdFhGNklIVGEzLVFHdm1ZV2dmS3R4T2hteHJlZU9RaEV1eGt6Y2xUYUktZ9IB9AFBVV95cUxPR09xa2pRc1JLaG5Jekc5MFI1b25LVjctTFBsMmhlaW1iVXZKNDktMlNFUGVMVGNiZmNMVkt3YmFCNm5qVXZrZGJ4MGdULTMtRlVveG1oTGswTlpNTWkzZG8wNjlUWVo5dzNRTDl4aDZmaUVJMzlBQUdPbG5PTUtRSldnbzlKOHFjR2FOd1plMUZXRlhtZ18xVjhIRnItd0V3TUE1WjBFdGRUTDFKX0xyM1ppeks1YjN5QnNzM1AxYUlGMU51Mkh0ZXFBSFBBeXg3aURVVkYwaE9Xd0RQU0EwaUNxenFUSzZxcEhMbHhDQk1tU0F1?oc=5"
+        }
+      ]
+    },
+    {
       "id": "76f93786d9b0",
       "title": "Estudo brasileiro acha sinal químico que denuncia estrelas que comeram planetas; entenda - G1",
       "published": "2026-06-16T13:00:17+00:00",
@@ -165,7 +201,7 @@
       "id": "c12e872b6670",
       "title": "Esclerose múltipla deixa pistas no sangue muito antes dos sintomas - UOL",
       "published": "2026-06-16T12:25:30+00:00",
-      "summary": "Esclerose múltipla deixa pistas no sangue muito antes dos sintomas&nbsp;&nbsp;UOLAvanços permitem diagnosticar esclerose múltipla antes de sintomas&nbsp;&nbsp;Poder360Palestra da Alsapem traz a importância do tratamento precoce da esclerose múltipla&nbsp;&nbsp;G1",
+      "summary": "Esclerose múltipla deixa pistas no sangue muito antes dos sintomas&nbsp;&nbsp;UOLAvanços permitem diagnosticar esclerose múltipla antes de sintomas&nbsp;&nbsp;Poder360Palestra da Alsapem traz a importância do tratamento precoce da esclerose múltipla&nbsp;&nbsp;G1Esclerose múltipla: a doença neurológica rara que provoca lesões no sistema nervoso central&nbsp;&nbsp;Correio da ManhãProteínas no sangue podem antecipar risco de esclerose múltipla mais de uma década antes dos sintomas&nbsp;&nbsp;newsl",
       "sources": [
         {
           "name": "UOL",
@@ -186,22 +222,10 @@
       ]
     },
     {
-      "id": "af9988d4ef3e",
-      "title": "Infogripe: Ceará está entre os estados com níveis de alerta para SRAG - O POVO",
-      "published": "2026-06-16T11:08:00+00:00",
-      "summary": "Infogripe: Ceará está entre os estados com níveis de alerta para SRAG&nbsp;&nbsp;O POVOAlta de internações por gripe acende alerta&nbsp;&nbsp;G1Gripe grave por VSR tem aumento de casos no CE; veja sintomas e prevenção&nbsp;&nbsp;Diário do NordesteDoenças respiratórias: Unimed-BH reforça orientações para proteger idosos | SEGS Portal Nacional de...&nbsp;&nbsp;SEGS Portal NacionalCeará lidera alta de casos graves de Covid-19, aponta Fiocruz&nbsp;&nbsp;O Otimista",
-      "sources": [
-        {
-          "name": "O POVO",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYkVyQzc1dFdOVDZOUDZ5aW5LSEhYbjVJS2k1MjVuc1htOW11Vy1KYzhMUGpDWHJ5RVU5d2lxQUlvNUxhNXo4TmpiLVg4cFI2SG5Ka1lycEJrWFdiQzdwQ3R4TlNFNHJzVWlHcTFCaldJWldDMnYyTXJvYVVKY2RWY25aSVoweXdwQTBfM04xTzBOeHNiMXpaYW95SDFOM09YSWJ0MVd6My1NMGo5ZmlzSG5lT2ZESEloMk5ZWFdR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ef8850006ac3",
       "title": "Canetas emagrecedoras: crescimento no consumo e mercado ilegal preocupam especialistas - O TEMPO",
       "published": "2026-06-16T09:00:02+00:00",
-      "summary": "Canetas emagrecedoras: crescimento no consumo e mercado ilegal preocupam especialistas&nbsp;&nbsp;O TEMPOVida pós-caneta: o que se sabe sobre os efeitos das injeções para emagrecer&nbsp;&nbsp;GloboCanetas emagrecedoras pressionam setor de alimentos&nbsp;&nbsp;AgrolinkDo peso ao vício: os múltiplos efeitos das canetas GLP-1&nbsp;&nbsp;DW.comQual o risco de usar caneta emagrecedora sem se exercitar?&nbsp;&nbsp;Assine Abril",
+      "summary": "Canetas emagrecedoras: crescimento no consumo e mercado ilegal preocupam especialistas&nbsp;&nbsp;O TEMPODo peso ao vício: os múltiplos efeitos das canetas emagrecedoras&nbsp;&nbsp;G1Análogos de GLP-1: entenda o avanço e os riscos do mercado paralelo&nbsp;&nbsp;Folha VitóriaQual o risco de usar caneta emagrecedora sem se exercitar?&nbsp;&nbsp;Assine AbrilCanetas emagrecedoras pressionam setor de alimentos&nbsp;&nbsp;Agrolink",
       "sources": [
         {
           "name": "O TEMPO",
@@ -218,18 +242,6 @@
         {
           "name": "Correio Braziliense",
           "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNjdmWnVaMUNEenB4NFQ2eGdoT2JsWWE4aURWd2ItSHhCd01HTy1Hb0QtSE9pamdiWDIxajNrU3JMMm5CQ1BXR19YZWFOYzlQd3gwOFhTZ3lFeDRwU0NUMlg0bWM4QWNIeDlqeWtCcnFSY09QZFByU1BJRFJLaV82czBkbm9Mc3pQUlgyNWZzTUh0OHRzQzB1WXhwNFp0MjR2WTJoeE8wQWFkV0U3UmZxd2ZfV3VMcEVURkw3ZERIT1lDaHpwdWV2WHU3eGxZeUpqSzZ5QTlfSzBBZ0dkSzRhbFZiVdIB6AFBVV95cUxQdmF4WnZnRXA4QU5uZmxQVHQyYXc0ZkZtSVpXVWVzSzNBcFJhQml5MDROZE4yRnJuREZCZ0k5cXByTW5oa3dfTVZPbmxGQ0xTVDZTYi04QTVGODNOUnRienhINDlpZVMtM0ttemVCNURhZnZ0RzJoeWJUX0FOSEd5bFh0S2k0cFU0U0ZyTmJzVWF1MWNFVnlYdlExbXZqaEhsWlZybkJ1LW9FWlZJOVJNOG9hcnhZWjZTRVFmRk9NdlRlcXBybFQ1UWF4MXRJR0NWQUtDano4TUF6WUQwQ2ZBS3g2ZnVpekN6?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "582114ead59e",
-      "title": "Substância do alho aumenta a eficácia de quimioterapia contra o câncer colorretal - Agência FAPESP",
-      "published": "2026-06-16T03:02:03+00:00",
-      "summary": "Substância do alho aumenta a eficácia de quimioterapia contra o câncer colorretal&nbsp;&nbsp;Agência FAPESPSubstância do alho aumenta eficácia de quimioterapia contra câncer colorretal, diz estudo&nbsp;&nbsp;Folha de S.PauloAlho contra o câncer? Estudo da USP indica que composto pode turbinar efeito da quimioterapia&nbsp;&nbsp;Jornal CorreioAlho pode ajudar no tratamento do câncer de intestino, indica pesquisa&nbsp;&nbsp;diariodopara.com.brComposto do alho pode potencializar quimioterapia contra",
-      "sources": [
-        {
-          "name": "Agência FAPESP",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeG90Z1N5OWpnR012c09sdUt3d01DaTRDX0paR1YzOUUxT3hlX19OSTBfaWFPaENneDRIemRqUVZiQ2YyYzN3R1RNU044WDg3YXczRTJIdjN6Tkw4SGRKNmU3cDBieXplNzZBNFJYOUJVZHpxWnhCYlo3QmRPcDRGOUwxU1VOc3JHVXNQY3VEZXp6TENhQ1Mxb2VvTElFZVd6MlNKQkVtajhrYzFLSTZBTEU0NA?oc=5"
         }
       ]
     },
@@ -294,6 +306,18 @@
       ]
     },
     {
+      "id": "3b2be44cc60f",
+      "title": "Armênia liberta pesquisador do Impa Mikhail Verbitskiy - 15/06/2026 - Ciência - Folha de S.Paulo",
+      "published": "2026-06-15T20:45:00+00:00",
+      "summary": "Armênia liberta pesquisador do Impa Mikhail Verbitskiy - 15/06/2026 - Ciência&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTTU4dlB6T21uUDdHSFpub1VuRjJSQzFTbjhQT0dfdTY3VzF1NDIyVzhrRHZqN2tLeHdQQW5NLTRhRENoSkxEa2UwbEJRanpPY2h4d0pHMWdIY2piSmdGNTJsWEFzcDRjdExvSUpZZnFWNDJ6NUYtSHRKMGY2OU9LY2hvODhoNGgwMlpycWNIVWg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "ff3f80f13045",
       "title": "'Lazareto': antigo hospital de Ribeirão Preto destinado a combater epidemias no século 19 tinha cemitério próprio - G1",
       "published": "2026-06-15T20:30:08+00:00",
@@ -342,6 +366,18 @@
       ]
     },
     {
+      "id": "d340c545938f",
+      "title": "Pela primeira vez, é identificado o gás formador de estrelas em galáxias do universo primitivo - Olhar Digital",
+      "published": "2026-06-15T18:43:00+00:00",
+      "summary": "Pela primeira vez, é identificado o gás formador de estrelas em galáxias do universo primitivo&nbsp;&nbsp;Olhar Digital",
+      "sources": [
+        {
+          "name": "Olhar Digital",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSVRmZkhNemUxU3RuYWpTWFhwN3JwWGdrNmR0REs3VzdTTGl1bFdsYkdTVnF0ekxPVmxsS0QtVXBEU3ZhRTdxWGF4MDlOeGJyelM3Rk44cUM4cDl0M1M2ZXFJQXUwTE1kTWYzajY0SmdvWnNrSzZ4WHkxWlIxWnRxemNHX2ZSYVBBZXA0TV8xN1JoZk9OazhYSzVuLUNadkF2THJNTUdFcVEzMHRHYWZ6VDdJTXBrd0RfYW1ONVVUaWZlRG5yalZxZ0NVVDcycnNleDB1dkU4RFJTc1pYX21HaVYyX0o?oc=5"
+        }
+      ]
+    },
+    {
       "id": "81a140560199",
       "title": "O chá protege o coração, a memória e os músculos, mas apenas se for consumido corretamente - TudoGostoso",
       "published": "2026-06-15T18:08:00+00:00",
@@ -366,18 +402,6 @@
       ]
     },
     {
-      "id": "0d967d0a17b1",
-      "title": "Rafael Hidalgo, personal trainer: 'Se uma pessoa com mais de 70 anos caminhar cerca de 20 a 30 minutos, aproximadamente 5 dias por semana, já obtém benefícios para o sistema cardiovascular, a mobilidade e o bem-estar geral.' - purepeople.com.br",
-      "published": "2026-06-15T13:23:00+00:00",
-      "summary": "Rafael Hidalgo, personal trainer: 'Se uma pessoa com mais de 70 anos caminhar cerca de 20 a 30 minutos, aproximadamente 5 dias por semana, já obtém benefícios para o sistema cardiovascular, a mobilidade e o bem-estar geral.'&nbsp;&nbsp;purepeople.com.brDepois dos 50, só caminhar pode não bastar: consenso global reforça força, equilíbrio e flexibilidade no treino&nbsp;&nbsp;Tua SaúdeQuanto uma caminhada de meia hora pode ajudar na terceira idade? Veja os ganhos para o corpo e a mente&nbsp;&nbsp;T",
-      "sources": [
-        {
-          "name": "purepeople.com.br",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZ3pYRjlselV4NmNETE5HNEpyZVVhMjdXUUdEY2xRd3ZrbnJKSWNGc1B6d3pkTjVpNVBHc3NxZVVqYTJPNXpuaXBRVXpCZElZWVNFWUNDSzJnQ2ZZcFhDa25kNXduSUM5clVkWm5ndnN2OGVyQWtYenN3X2J3blIxTEdnLU4yUnUzdUxSU2NVZVl3TWZuSnJoS0YxNm1TWXVMUHpmMTFSWHM1el8yUVhFc1hEMk9jM3dkWGVCNnJkdVY0d0ZQbHdQSGlNQ1c5YXBRc2xPTExObzYxQnI4ekQweW5wenpXM1dYOTZ0V2tTSFBBTnFZcnfSAfsBQVVfeXFMTUthVXB2Wm1Qa1NJMzlDbkktY0E3Nll1ZUJxbDJueHp4b3pOc3Q3b3h1T2FyN3cwQnk0RW1MdnloVmZnSG0yVlU3OWp0Slk0ckxSZkdZMG11VUdoZHVWVEdXSXpXaWc0MFRaaXFJSms0dzJESWdrYlVyOXVPc2hXaWtXOU94dVY0MHItSFU1UDRZMF91R3lyTGJyZG5lRks2WkktcHJqUk5kYlpUeHFxWlJ2S1V3U0ZtczNuREVBQjNfUEhBN3psTGlULTcxOWtYS3F2blRUYi1QNl9vTVlTUTJTVEpkQXRPNFViaXlud3FCT1ROTU9fUWR0UmM?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9c46c1af0320",
       "title": "Risco climático já influencia investimentos, operações e lucros das empresas no Brasil - Climatempo",
       "published": "2026-06-15T12:41:00+00:00",
@@ -390,62 +414,14 @@
       ]
     },
     {
-      "id": "f1107fe278b5",
-      "title": "Novo remédio contra insônia chega ao Brasil com promessa de fazer dormir sem causar dependência - Jornal Correio",
-      "published": "2026-06-15T12:12:43+00:00",
-      "summary": "Novo remédio contra insônia chega ao Brasil com promessa de fazer dormir sem causar dependência&nbsp;&nbsp;Jornal Correio",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNVBWOWpodDRYME82MmNmc042amptU3J2ekNXSHJCZldXVFVKQUtyR2tpOHB3TGNGdS1Cc3lxRk8zOGc2WDA3NExCVngtZjFGZGhtY0pPTUd2djVKbWxnWW1NOERBX3dPNk9QS0VqcWdES1ZoTEVmckw1Qjk0bXhWcW9Vb3NtaW1NT0ZONklQMllDOUxZdWloRkw3UmozYUJzeTNvRWZoUE9qTlI2eGVHTDNWbFd6aVQ2bzVCNk9uZU1ORXBFQzI3UmxJMW5pUVhWVFo4LW10NA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d10ff537f1bf",
-      "title": "Eufrates, que ajudou a nutrir as primeiras civilizações, surgiu há mais de 1,6 milhão de anos - Folha de S.Paulo",
-      "published": "2026-06-15T09:00:00+00:00",
-      "summary": "Eufrates, que ajudou a nutrir as primeiras civilizações, surgiu há mais de 1,6 milhão de anos&nbsp;&nbsp;Folha de S.Paulo",
+      "id": "f537cff6200a",
+      "title": "Tratamento para insônia evolui, mas estilo de vida é fator determinante - Folha de S.Paulo",
+      "published": "2026-06-15T12:30:00+00:00",
+      "summary": "Tratamento para insônia evolui, mas estilo de vida é fator determinante&nbsp;&nbsp;Folha de S.Paulo",
       "sources": [
         {
           "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWTJOVi1NWlNTa1NsRVJYVndFRWFIQ0l3eU9GazUwTktqTnVzeFhxWW1IVDBVYUhyY2YzcGNJZ09pUXBsdThBZVB2Q1ZmSndaMXRMd1VyRWZMSVpienNYUG9lam5PSndVTmlUTktHNEwxamVqbkZsbzlnckxRZEtFZngyQzNTUElhcWNtZHczLUxXZ0d1UXpCSzdTdnlZNl8zMElfajRveVp5dlJkZXhjRkFFNzVuXy0zYmN3aEFpYm16TjFxSlk4cGcwNENROFV2b1BBaVoyaGdDdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "29b2ba4e0ac1",
-      "title": "Como a tadalafila virou \"hype\" entre jovens e teve vendas 2.000% maiores em dez anos - Terra",
-      "published": "2026-06-15T07:59:00+00:00",
-      "summary": "Como a tadalafila virou \"hype\" entre jovens e teve vendas 2.000% maiores em dez anos&nbsp;&nbsp;TerraTadala: energético viraliza com nome inusitado&nbsp;&nbsp;Campo Grande NewsDependência psicológica de Tadalafila cresce entre jovens, afirma médico urologista&nbsp;&nbsp;Maringá PostDia dos Namorados: veja possíveis riscos associados a \"overdose de tadala\"&nbsp;&nbsp;CNN BrasilComo a tadalafila virou “hype” entre jovens e teve vendas 2.000% maiores em dez anos&nbsp;&nbsp;SEnoticias",
-      "sources": [
-        {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNb21VS3N1ZnVoMmZpRzFISWpGZXFfYlh2RFg0OG1tSE5Bcjl5U3Y5eTg2NV9JVUZycG5jVEYxN3Bid0hkV1RTTUQyQS0wOHo4QnkwVVBlZTBWWjhlaWpsUHpiM2xzTzFXQ2VmSEFYdmdnMmFRLWJkYWFJcjc2SDFzalZBaGlubjhXanMtcFlRNnBBaVpsT0xiQ1JYakhQcUdmRGhyOXc5U2JxZTU4b1hQWE5TVV9JV0tLZDNLZkRCTXpubmx1ckUtTGczZFA3cUU4eFJFcE9WMUtiUTlmUTlFTkI5LUE4MzN3QkRJZ2xqUTh6SzhvOERMaTB2a0lidEF6?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "174a9cc15466",
-      "title": "Laxante pode melhorar problemas de memória e depressão - CNN Brasil",
-      "published": "2026-06-15T06:37:14+00:00",
-      "summary": "Laxante pode melhorar problemas de memória e depressão&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcFFxMnotaTJPVDZGVXdfb094dEl0dWpsZldsSzk1QmUwaldvMXNXWEVuTnN5MThYSHJ0VzAwYWZKTWpYWnAxWXJ4R01jVm5NOEc5MmY1dkZHdGlJUEhiTjJuOUFZMlBwRW9fSlZ2eS05UXN1Tk8wRlU4R09rMGdnSlV5MmJFd3hiZEk2ZVMzUGN0Vk52?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "33191da51f7d",
-      "title": "Pesquisador russo do IMPA é preso na Armênia - Poder360",
-      "published": "2026-06-15T06:04:32+00:00",
-      "summary": "Pesquisador russo do IMPA é preso na Armênia&nbsp;&nbsp;Poder360",
-      "sources": [
-        {
-          "name": "Poder360",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdEVVMFA2OGp6TG95a0VrbTdpUFhRbWw3M1JjLVAzZnRZTktac2tzdjJJcFBNb3NCSkd4TW9NWjJFdFlmWlBmQ2w5Yks4dUFhei1MZjEwa1FLX2ZOd0JMYjB2TGlBWC0xQm1oY0FyQ0RDcXJmd0dvTktZU2IyUW84eUZSSEZLUk40OV9XR2RWTjZhWGJPUktUMQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeEtZOEZKeV85aUZ2MnIxYTdEcHBJRkJxUFFnNURadFVoaVJfTkxpSEhhT3RGX19pNG1KeDViMUxMRTZCV1ZpX21BLXVxU1gwb19admF3RFkxOXhQNXhtRmdMSG8tVkxUTS10bnlHU2dEZUJFSmlXeUJScUpsOVhQZkhLa0pfdmd6Q0Uta1ZrRC14aHFHWFZIamVkYUROeUdQRW4xZ3YyLXJ4TE5yeEE5Q0xrQU0xSUt0U1UyUU1ZQjNEcUk?oc=5"
         }
       ]
     }
