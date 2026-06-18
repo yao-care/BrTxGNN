@@ -1,19 +1,91 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-06-18T15:30:00.670030+00:00",
-  "total_fetched": 57,
-  "unique_count": 55,
-  "health_related_count": 20,
+  "fetched_at": "2026-06-18T20:27:49.034889+00:00",
+  "total_fetched": 55,
+  "unique_count": 51,
+  "health_related_count": 24,
   "news": [
     {
-      "id": "ad3fa86cfae7",
-      "title": "Vacina da Covid reduz risco de infarto e AVC em idosos, aponta estudo - ICL Notícias",
-      "published": "2026-06-18T15:14:30+00:00",
-      "summary": "Vacina da Covid reduz risco de infarto e AVC em idosos, aponta estudo&nbsp;&nbsp;ICL NotíciasVacina de Covid reduz o risco de infarto e derrame em idosos, revela novo estudo&nbsp;&nbsp;O GloboVacina contra Covid reduz risco de infarto e AVC em idosos, aponta estudo&nbsp;&nbsp;Folha de S.PauloVacina da Covid-19 é associada a proteção contra danos ao coração, afirma estudo&nbsp;&nbsp;Correio do Povo",
+      "id": "cfa3bdcbe5db",
+      "title": "Vacina da covid reduz risco de infarto e AVC em idosos, aponta estudo - ICL Notícias",
+      "published": "2026-06-18T18:01:36+00:00",
+      "summary": "Vacina da covid reduz risco de infarto e AVC em idosos, aponta estudo&nbsp;&nbsp;ICL NotíciasVacina contra Covid reduz risco de infarto e AVC em idosos, aponta estudo&nbsp;&nbsp;Folha de S.PauloVacina de Covid reduz o risco de infarto e derrame em idosos, revela novo estudo&nbsp;&nbsp;O GloboVacina da Covid-19 é associada a proteção contra danos ao coração, afirma estudo&nbsp;&nbsp;Correio do Povo",
       "sources": [
         {
           "name": "ICL Notícias",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY1BUMGN6TnNhT3luV2ZTWmZlLUtjbGs1X1BuWDBwLXVIQU9VMTdjM2o3RXczR0otamRZVS12TXVWTUtSQjFnQWFvdVZMUUNWMXZBZ3E3SFhRaVlzaDBUbHN2cWxKbDVIa0V5MkhWMlZoN0JfQ3dnZDhlRnItWThqWHVmYmItd2VQeW83VF9HdUxIWGQtZ3lQeDdRdlg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2b2ac35f3754",
+      "title": "Profundezas da Antártida guardam bactéria que pode matar câncer de pele; vídeo - Globo",
+      "published": "2026-06-18T15:30:30+00:00",
+      "summary": "Profundezas da Antártida guardam bactéria que pode matar câncer de pele; vídeo&nbsp;&nbsp;Globo",
+      "sources": [
+        {
+          "name": "Globo",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOR0o5b3lBQzN4U2xQM1N2U3I1aHp6YTNUTXhoS193VWd6Vk1SNUhfdkxOWVFOT2Y3NXU3SXdaX1oxQ2EtYUlVeHhNSWhVUkp0V0VkczVua19MX2RvLUVGZk5fWEJfMUFBRVE3RzdMSk8zZjBiS0ZMdXNSY2Z1c0FSeUNvUnFSMGRxb3ZrZ2pzenZvMTZtaE9ZMFN2TTlJNml4dlJxMnhMcFRxYmFRenhlWGJwYTFSSVdsTzg4TkxYY005UkVqR1ZaV2hUNmFZUWp3SW4tb1MxONIB5gFBVV95cUxNOEh0c0NzRi1WQUlfQmVMbHlPTTlpUWR3RWdENDlVZVU1Y1g0QXVpN0p3S0dXT3VZY2xwZjlsZEJmM3pOMXVSR21TZmhBOENOZHkyRXFtMm1pOXp2MmhicHVyR1FKMDhleDhmS0Fpal95UmJDQkM5aFNvMkp6X3daOUJaekJZbUl5MFlYRmJSOFp3MWY2ZEh0eTBLRHc4YkRZOG9DWWNvOF9iLXI5bXBjMXVWeUlzRlFQZEJyeU5scF9sZHpJa3JFR0NlQlczRHFsUlFpMGtsNFM2cVd0SFFOWW0wTmo2Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b1f0e7da8879",
+      "title": "Para maiores de 60 anos: os efeitos da vitamina C no cérebro, segundo um estudo japonês - O Globo",
+      "published": "2026-06-18T15:16:38+00:00",
+      "summary": "Para maiores de 60 anos: os efeitos da vitamina C no cérebro, segundo um estudo japonês&nbsp;&nbsp;O GloboA vitamina C contribui para uma melhor saúde cerebral na velhice&nbsp;&nbsp;ZAP NotíciasEstudo japonês revela novos efeitos nocivos da deficiência de vitamina C.&nbsp;&nbsp;Vietnam.vnVitamina C pode ajudar a preservar a memória? Estudo traz pistas&nbsp;&nbsp;Terra",
+      "sources": [
+        {
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUE1ORFVCWFdxWjJyX1A5bG5JZnJvdXJGU2ZBMFM2aGpuTXNCc25oSE5fWkktMlo3SEpWdFA2MFVHZGdGN0ViSENPdEpESUQxbXJkbGV6VHA1RXk4a0FqU0xWN1BuQnc3WGE3bXZnMTZSc3hkd09kQXRfaGVpbDg3VWlmVzVJZDBjRmVNbGYzZXFsNmJoMGVTRDJiRWo0bXEzNGlCS2o5WXVTbUNjbDE3Q3UxRWpZSmdBYWFvVEppSjNMUG9oZEJVQWZVd09pTnBCMmZvMGk5NEnSAecBQVVfeXFMUENrRllId2V3RDJORHYyYW85TjJQRHJGWmJSRjh2NVFQZkVKaWRsYWZrZzExM1dKc2V0RnRKRWVLLXZnWHJjZHJGSVNHTnhQbEtiM0hUcjl0VXc4XzE1bkdYVWFMZ1VOeFdiT0ZEVDB5RG5Wa3R3X3RqdWVVX2wyTll3MHJKWHRXdnhPb3Q1NGJGV2RoWjVPU3gtLTZrbGtMZDNGSE5OdUlBdUNLcHZ6NXNWTHZGemdPNkY4T19oM3d2S2ZQejRPWDBhX0N6V2RMNmlYcHhwNi1mYVNobzdkMENSZzdScElZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "af71b3ce07ca",
+      "title": "Drauzio diz que redes sociais ajudam a espalhar fake news sobre saúde - UOL",
+      "published": "2026-06-18T14:57:00+00:00",
+      "summary": "Drauzio diz que redes sociais ajudam a espalhar fake news sobre saúde&nbsp;&nbsp;UOL",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT1dweHFUeDF0QzJLdkI5c2tOVnAyOGFka3ZzcS02bnNrY29PMFA0MkV1ejlkQklCemRwWkl3elBWRU1vQklIRnM2TDl0NWllWXZOOHp2MnRvMzBVaUFNV0t1WTYwNjNZeV9EOEc3WG1aSUZ1LXdRNzQ2NjZfSVNvaW1MWGV3WTJTUGRMbTk5Y1YyelNnc2xlVHBKcE1fNXlhLWhHdE5PZUtncmd0NlBydjd2Y2tDUzA1SUxDNnVtWEhkSmpWX2ZXMW1QVU5WQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6dd4400fcf9a",
+      "title": "Vacina contra gripe: Veja quando o imunizante estará disponível para o público geral em Maringá - gmconline.com.br",
+      "published": "2026-06-18T14:55:00+00:00",
+      "summary": "Vacina contra gripe: Veja quando o imunizante estará disponível para o público geral em Maringá&nbsp;&nbsp;gmconline.com.brVacina contra gripe estará disponível para o público geral em Maringá a partir de 29 de junho&nbsp;&nbsp;maringa.pr.gov.brLondrina libera vacina contra gripe para toda população&nbsp;&nbsp;Folha de LondrinaVacinação contra gripe não atinge 50% no Paraná&nbsp;&nbsp;G1Santa Rosa do Piauí reforça campanha de vacinação contra Influenza na UBS do Centro&nbsp;&nbsp;Portal R10",
+      "sources": [
+        {
+          "name": "gmconline.com.br",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcFFvMHdUV2M0TDd4UlU3Q2VLUnRtSjFpVlV0OE1NT0htRWV5aHpmdzBLaHZwZHB0WmN5S1FjNVlqNGRGM0tRNlhtTlI4N29IbW5tanZlWk5Ib0FvQWI4RWRhZjJiRFlkbHZGa0FoRGIzei16QlIyVlRfV1IzSHp2Vl9faHotalNCRk04NGNibGNQLTF2VUdWX09JeVdZejZmTG1pU0tULUJSOUxTOU11ZktNRTdEZ3lLUE5pTGxMb0JVcDV0RTN5UHRVU2M0cngtaHfSAdcBQVVfeXFMTWE4VThRQkNjaUh6dnZ0TldrdUdYb0ZxWktqdGhLRHgybDYwa0RHOXJqd0pBWl9WS1Y4cXpjbjNCQkFwakNiSWQ2ZHVWODhtNDZMZjBvTzVUNGVPbTFsaE8ySlNFLXRwZEc5Ukh2bjQ4TjNBQ0FQT3BURm82TndfNEQ5UUZjempUdVBGUWQyNGczYW14OWlTMDViWGttVkxwZzNZN1Juc2NCNHBRc2Z0UGZYSG1hNDduc3doazVEbjl2Ti1DOEJObU5XUnU5N1p5ZTFsSXBtblk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e7c08c902601",
+      "title": "Mortes por câncer de colo do útero caem a zero entre jovens vacinadas na Inglaterra - UOL",
+      "published": "2026-06-18T14:26:09+00:00",
+      "summary": "Mortes por câncer de colo do útero caem a zero entre jovens vacinadas na Inglaterra&nbsp;&nbsp;UOLVacina contra HPV reduz mortes de jovens por câncer do colo do útero na Inglaterra&nbsp;&nbsp;Folha de S.PauloInglaterra zera mortes de jovens por câncer de colo do útero com vacina contra HPV&nbsp;&nbsp;VEJAVacinação contra HPV avança, mas mortes ainda preocupam&nbsp;&nbsp;Biored BrasilVacinas contra HPV reduzem quase a zero o risco de câncer cervical antes dos 30&nbsp;&nbsp;Portal Tela",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVHlza0tZalY0d0stRTVsREhBLVRFaXpmd0dxNXNxRVFXQlNnVnFKTjZTdEswQjJDZGsxREQyNkVPalU5QjhFYmtJMU5oZklwU09YZXlBb0Ryb1BOdmt4YXhPNU13aFVQcERYcklQdWZwT0RfX2QtVkwtdFBuU3puMFZJclNQN2hOUzFLU1hGMHJMRTFQNWVTODNyRW1NQnlBNW1pRWVxaVVleWtIRFJzd2NyTlcyYUgxQjlxUVNLUmRpQmVlY0tEd3h4NGI5VkNXZGNUNG05T0h6Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "51969ee09f63",
+      "title": "Quantos passos por dia são necessários para neutralizar os riscos do sedentarismo? O que diz a ciência - Época Negócios",
+      "published": "2026-06-18T13:03:45+00:00",
+      "summary": "Quantos passos por dia são necessários para neutralizar os riscos do sedentarismo? O que diz a ciência&nbsp;&nbsp;Época NegóciosQuanto tempo sentado por dia começa a prejudicar a saúde e como compensar ao longo do dia&nbsp;&nbsp;Tua SaúdeFicar em pé trabalha o corpo?&nbsp;&nbsp;Assine AbrilA regra dos 22 minutos: o limite científico para maior longevidade trabalhando em escritório&nbsp;&nbsp;Correio BraziliensePesquisadores revelam hábito comum que pode afetar o seu bem-estar&nbsp;&nbsp;O Hoje",
+      "sources": [
+        {
+          "name": "Época Negócios",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQaVJxMnJRNjZaUXlCOEFydk9FUnVIVm95bjFCM01TSlpGcFpFaU9hLXdXbjFYQ1NiSGdmRU9YNVp6QmlzcWxOVTI3MnktNkdzcFdLM3dPQ290MklyckJuZnFKbHlXdFdhUi1nOWhRaE1sZFR6RHVzSEpWaWVEcFdPaG92ajZDX1NBcnZVVU9fNUVmb3ZQR0Y0YzU4WHlyNUZObVZwc3g1Q1Z2MEVpN0NUMlhkeTVfLTRCN216VGZoc2hTajVpTGV4MXR5ZjQ5alhPV3FHeXRNa2pyUEFYWm1nRzFUaHU1cmZFbnZmVmdDaURDWnhXNktvU1ZRSU02Tk9f0gGPAkFVX3lxTE1HZXZCZzJMc0N2bVdkcTJFRVVCbDJjMDJvbVg1bE0tY3VTNFBXMHZCR2FwLXM4RC02MExyWnhBbm5nNWRGc0pSUEFtYk1rSEl6MFNHaGZvaXp2YVNlbVdZRGVMQW1lTlZUT3hTZ0RldUVzY0ZBU3NfZVRyb3ZMbjNkY0ZkQ3MwZWYyVDFJRjl4a3lVTndjdURCMlg0MWxWcXNvZHlnRHhLVXlhUmIyNnd4V1k3UzJxSHlucldXdDhSQzlZX3hZdlF0QURSWXFqZFBzMk1LTmN5SGljem52cGNsZDVidVRSYWtnRTdXY0lGQ21aOEdJb0RvcHhLc2RNemFqdUttdUF0TmwyazJOWXc?oc=5"
         }
       ]
     },
@@ -33,7 +105,7 @@
       "id": "95ad22fd1d98",
       "title": "Peste surgiu há 5.500 anos e já era altamente letal, mostra estudo - Correio Braziliense",
       "published": "2026-06-18T09:12:00+00:00",
-      "summary": "Peste surgiu há 5.500 anos e já era altamente letal, mostra estudo&nbsp;&nbsp;Correio BraziliensePrimeira epidemia de peste ocorreu há 5.500 anos e dizimou crianças, diz estudo&nbsp;&nbsp;Folha de S.PauloEvidência mais antiga de morte por peste é encontrada na Sibéria&nbsp;&nbsp;GloboPrimeiro surto de peste foi há 5.500 anos, na Sibéria, diz novo estudo&nbsp;&nbsp;Folha PEDNA da Idade da Pedra revela mais antigo surto de peste conhecido&nbsp;&nbsp;Aventuras na História",
+      "summary": "Peste surgiu há 5.500 anos e já era altamente letal, mostra estudo&nbsp;&nbsp;Correio BrazilienseEvidência mais antiga de morte por peste é encontrada na Sibéria&nbsp;&nbsp;GloboPrimeira epidemia de peste ocorreu há 5.500 anos e dizimou crianças, diz estudo&nbsp;&nbsp;Folha de S.PauloPrimeiro surto de peste foi há 5.500 anos, na Sibéria, diz novo estudo&nbsp;&nbsp;Folha PEA doença mais temida da história é ainda mais antiga do que você pensa&nbsp;&nbsp;Exame",
       "sources": [
         {
           "name": "Correio Braziliense",
@@ -54,26 +126,26 @@
       ]
     },
     {
-      "id": "b057354ec86a",
-      "title": "Silencioso, câncer de rim mata 10 pessoas por dia no Brasil - UOL",
-      "published": "2026-06-18T08:30:00+00:00",
-      "summary": "Silencioso, câncer de rim mata 10 pessoas por dia no Brasil&nbsp;&nbsp;UOLCâncer de rim pode avançar sem sintomas e ser descoberto por acaso&nbsp;&nbsp;G1Câncer de rim pode crescer 80% até 2050: saiba por que a maioria descobre o tumor ‘por acaso’&nbsp;&nbsp;O TEMPOCâncer renal desafia diagnóstico precoce no DF&nbsp;&nbsp;Jornal de BrasíliaCâncer de rim pode não dar sinais no início&nbsp;&nbsp;Diário Gaúcho",
+      "id": "9ced613ad3e1",
+      "title": "\"Eu não sentia absolutamente nada\": biólogo de 43 anos descobriu câncer silencioso durante exame de rotina - Terra",
+      "published": "2026-06-18T07:59:00+00:00",
+      "summary": "\"Eu não sentia absolutamente nada\": biólogo de 43 anos descobriu câncer silencioso durante exame de rotina&nbsp;&nbsp;TerraCâncer de rim: médico alerta sobre alterações urinárias&nbsp;&nbsp;G1Silencioso, câncer de rim mata 10 pessoas por dia no Brasil&nbsp;&nbsp;UOLCâncer de rim pode crescer 80% até 2050: saiba por que a maioria descobre o tumor ‘por acaso’&nbsp;&nbsp;O TEMPOTumor renal pode evoluir sem sintomas; especialistas alertam para diagnóstico precoce&nbsp;&nbsp;Jornal Opção",
       "sources": [
         {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSmE5dHZ4NDhmU21ybmJjemZjUURxZ190dGI4Y18tekZKNG1lU0J3VTNmbGoyYnYtaHhRUDl3NVNkQVBfZFE3SlJhWV9NWXVOeFplUHhOTThDNWhJNWhJTWhsUEdpb3dENWlXbHVPazZ4LTBCb0YxQXNtTFFiaGtPaHlCWDFkdGdYRDc1MEZWalFBUnpueHptYWxqY2U2bWNqS3VZbC1UMkxzOHdjQkYtNjBmeGhSbE80Tmp4ZmE0Yw?oc=5"
+          "name": "Terra",
+          "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNV1NDVEZqdGs3Q0xiUEJvcnhzSkVzRmhNOWcyQ0Z3MUdSSUlTRnZVSjB0cFpsU01XeEFxa1hzOExIX2lTTmxLSzBQekFybGdMYkxMYkF0UmJDNk5FV3V6YjA4SVExMzNfTGg5U1p0YklmREpLdGtRS3ZYb0ctTzduUFVkc3ROVWNhUGF5djZSTThGLXVnbUoyMXlIdUxJQ3hJYS14dlB6YmRLMHY5ZlY5YW56Q1BlczBvR3lUTHdld3hCVWJENnFZNFZmRTFOWHZFbjhneUlJbC02MmxTQ2Y3dDk4Tk5oRjhJWTd4YWNHVktYb3ZhSkRFZjBQOUQxZ3NieUhaOS1GUl90VWllVG9UZEJJTkFYNUVrNnRoeWpXWQ?oc=5"
         }
       ]
     },
     {
-      "id": "a03ff2d8ff3c",
-      "title": "Substâncias do dia a dia podem prejudicar a gestação, diz estudo - Correio Braziliense",
-      "published": "2026-06-18T08:12:00+00:00",
-      "summary": "Substâncias do dia a dia podem prejudicar a gestação, diz estudo&nbsp;&nbsp;Correio Braziliense",
+      "id": "e189c088214c",
+      "title": "Quem come mais arroz e feijão reduz o consumo de ultraprocessados, gordura e açúcar em 45%, mostra estudo da USP - O Globo",
+      "published": "2026-06-18T07:30:34+00:00",
+      "summary": "Quem come mais arroz e feijão reduz o consumo de ultraprocessados, gordura e açúcar em 45%, mostra estudo da USP&nbsp;&nbsp;O GloboSegundo os especialistas e estudos, arroz com ovo e feijão garante igualmente os mesmos benefícios proteicos saudáveis que a carne vermelha&nbsp;&nbsp;Tua SaúdePor que arroz e feijão continuam no centro da alimentação e o que isso representa para o setor&nbsp;&nbsp;Folha VitóriaArroz com feijão é proteína completa? A explicação simples sobre aminoácidos no prato bras",
       "sources": [
         {
-          "name": "Correio Braziliense",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOLWxGTmoxajUwOTdMb0JnUVRQdWw2Zk5XdlFyVUdfbWE0VVNFb2E5cGVtblFBVU1KVmg1YTFfT1J2X25pMXVQS1BzUF8tQUZfeGhhNFZ2ZjdXa1Vhd1lEdnZhalhLSWw1eGxCNHRjbjBJd2NkbFBPMXVEbVY4ckZDRlRxWnpXcVB6NWp1NWM3MlRUeWJVSDhBWU0wTnhRZ20wX3MxSndzc25TMkxhWVdranNpNmhOak9MbDNPX0ZQSkZ3UHNlZnlibDJMcEVtQWF4aTRFddIB2gFBVV95cUxQTFlrVzVOUjQ5eWVEaklBb0tGSVZlbUx1SHk4YlRQSkpVRDJWV3k4eXc2UW9OODlaWDJnMlBETTVvZkZXbzUxRFVheV9pbXoycEtsWElUMkozdTJod2xSZ0otZDJOZ1dzbGd3RDNUVFdwOTNKQk5VS0F6REJxbW9wX0pDaGxiRW5xUGFycjk3dDZUSnNVRl9YRzV2UHBZUnFTRVlBYmozWUNMcmNCeTQ5QWpfbHAtZDFHakNaNlVoNWQzQVBPdi1QWVo4WHQtUFN4bDhTNE9PV2JrUQ?oc=5"
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQZE9EeUxRQ0Z4alZPRGcxM19aNFYwaE1pNjZ4N0tGdV9aWXp0SmkyT2tEZHNEZWo1YWhkck9CQUVPUlVBX2I5b0c1dUVZLWVhV3hKUmZwMG45Rnhnb0F6X0MyNjFnczRsTEdveFZfdnZkZ1I1T3FobXYzNGhISXplYlZBYXVEREZNdmZnc3YwNEYtalBZUVE3cE1KYTVDdkxJZHdlem5ULWJLcmNTQ2NkNWRrWHBwai1KRFhOS2daVXAwRHFBdmhoRENKRTRzWHRXVkRyLUR0Tmo4NzZtdVBzcE1BM3dJZ2V6V0puQW80NGkzSUFjYnQ3cjFpcGg1c1pjb3fSAZACQVVfeXFMTnhGeVRwVGVwTVRma3l4M05jbHJ0OUszeV9GbzNzNjdQeHVXWDFIRVUwSVJHZzFDaDVWZEo2cUZPcXAzcVhrQWZCUmVGVE1pekFXNGh0Qmhhdi05b3M1aWNMSHMxYlBTaE9mZGlQU2c4VGV0UUZCLUxGcnptTzlhSWpETVE5MW5menRPZ3VjQ042bGFTc1FwcFdZMjI1YWFfNms2a3VXOEtESHRvVEhLMHhBVndDdmpMSE9ZczQwLVZWeEZ6YXcxaU5mVnF1Nk1yU3JRZGhKV0Flbmx6YkpKaElQMmpEWmpvblFURVdjUlRVWENsWDhBWXNzeDB3UmNoeVFzaEc4d0hlT2hiVWJPczI?oc=5"
         }
       ]
     },
@@ -177,7 +249,7 @@
       "id": "5ef65ee94d0d",
       "title": "Vacina contra pneumonia e meningite está disponível nos postos de saúde de Fortaleza - G1",
       "published": "2026-06-17T19:08:13+00:00",
-      "summary": "Vacina contra pneumonia e meningite está disponível nos postos de saúde de Fortaleza&nbsp;&nbsp;G1Começa vacinação contra pneumonia e meningite em Fortaleza&nbsp;&nbsp;G1Governo do Estado inicia distribuição da vacina Pneumocócica 20-valente na quarta (17)&nbsp;&nbsp;Portal do Estado do Rio Grande do SulVacina pneumocócica é disponibilizada em todas as UBSs&nbsp;&nbsp;Correio BrazilienseNova vacina distribuída em SC amplia proteção de crianças contra doenças graves&nbsp;&nbsp;Acaert",
+      "summary": "Vacina contra pneumonia e meningite está disponível nos postos de saúde de Fortaleza&nbsp;&nbsp;G1Prefeitura de SP inicia vacinação de crianças com a pneumocócica 20-valente neste sábado&nbsp;&nbsp;G1Pneumo 20: SUS de Alagoas passa a oferecer nova vacina&nbsp;&nbsp;G1Vacina pneumocócica 20 está disponível nas unidades de saúde do DF&nbsp;&nbsp;R7Vacina pneumocócica é disponibilizada em todas as UBSs&nbsp;&nbsp;Correio Braziliense",
       "sources": [
         {
           "name": "G1",
@@ -186,22 +258,10 @@
       ]
     },
     {
-      "id": "c2ef816dc8a4",
-      "title": "JCNET: Jovem pesquisador de Lençóis Paulista apresentará estudo na Nasa - sampi.net.br",
-      "published": "2026-06-17T15:19:25+00:00",
-      "summary": "JCNET: Jovem pesquisador de Lençóis Paulista apresentará estudo na Nasa&nbsp;&nbsp;sampi.net.br",
-      "sources": [
-        {
-          "name": "sampi.net.br",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeFVJcU5Wc3ZaMU9jeFJSYkRGMzRlVDlPT1FSREpiZkNFZkZtY0VqcHhSbmp4bmZHQ1U3Q1BWdXloZkw0dWtVN0RTdEtMNTQ0Mnp3XzEzWWNMd29LT1NWZ2loQnJjbEVaNThBYTc5NjJMcXM1Qk4tUFN6akV1Z1ctRkxvcnJmQ01GSWFPd3RyZnhRTWlKNTNpTmZHT2J1dE14VVpJbGVEZzNPSF9KZ2hBTk1Cbk11VXlKSFRfQUV1UDgtdVk?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3aa6fdebf5b7",
       "title": "Estas 6 atividades ajudam a manter o cérebro jovem por mais tempo - UOL",
       "published": "2026-06-17T12:30:27+00:00",
-      "summary": "Estas 6 atividades ajudam a manter o cérebro jovem por mais tempo&nbsp;&nbsp;UOLDepois dos 60, o cuidado que mais protege a memória não é só palavra-cruzada: pesquisas reforçam o papel da atividade física&nbsp;&nbsp;Tua SaúdeEsses hábitos diários podem proteger o cérebro e reduzir o risco de demência&nbsp;&nbsp;Correio BrazilienseFalta de atividade física pode acelerar a perda de memória, reduzir a circulação no cérebro e aumentar riscos ligados ao declínio cognitivo&nbsp;&nbsp;CPG Click Petróle",
+      "summary": "Estas 6 atividades ajudam a manter o cérebro jovem por mais tempo&nbsp;&nbsp;UOLDepois dos 60, o cuidado que mais protege a memória não é só palavra-cruzada: pesquisas reforçam o papel da atividade física&nbsp;&nbsp;Tua SaúdeEsses hábitos diários podem proteger o cérebro e reduzir o risco de demência&nbsp;&nbsp;Correio BrazilienseNunca é tarde: novo estudo revela que nosso cérebro pode melhorar até os 90 anos&nbsp;&nbsp;TerraFalta de atividade física pode acelerar a perda de memória, reduzir a c",
       "sources": [
         {
           "name": "UOL",
@@ -222,26 +282,14 @@
       ]
     },
     {
-      "id": "7283faf8e4b0",
-      "title": "Tumor cerebral: conheça os sinais que vão além da dor de cabeça - Portal Drauzio Varella",
-      "published": "2026-06-16T19:03:58+00:00",
-      "summary": "Tumor cerebral: conheça os sinais que vão além da dor de cabeça&nbsp;&nbsp;Portal Drauzio VarellaDiagnóstico de tumor cerebral no brasil revela desafios além da dor de cabeça&nbsp;&nbsp;R79 sintomas que podem indicar tumor cerebral e merecem avaliação médica&nbsp;&nbsp;NSC Total",
+      "id": "bea65e0bd72e",
+      "title": "Ozempic e Mounjaro protegem o cérebro? Entenda investigação - CNN Brasil",
+      "published": "2026-06-17T12:07:25+00:00",
+      "summary": "Ozempic e Mounjaro protegem o cérebro? Entenda investigação&nbsp;&nbsp;CNN BrasilNovo estudo associa canetas emagrecedoras à redução de comportamentos violentos; entenda&nbsp;&nbsp;O GloboOzempic pode ter efeito inibidor de comportamentos agressivos&nbsp;&nbsp;Meio BitEstudo sugere benefícios de medicamentos para emagrecer na proteção do cérebro&nbsp;&nbsp;R7Canetas emagrecedoras podem reduzir risco de dependência química, aponta estudo&nbsp;&nbsp;Rádio Itatiaia",
       "sources": [
         {
-          "name": "Portal Drauzio Varella",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUVZaaGtPa2taTjh2MEVUNTZCQ3d0RFgydGhUc0J4TGFCaXZ4a3ZENDhmdFRmTHd6ZHdnOTd3NjJNWTZtX0ZLNXZfbkc4ZHBUX3dKajJVX1hPei1EWjNERFZaQnFWbmVBMGZ5Uk9PUllaejdBT3VpY1FPWTBoanc3NVpLOGdjb2N5bHpHdk93WlRKLWllNGVwejRxaS1lSzdNZEU5aFN3TUNXNENv?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "17cc64d72869",
-      "title": "'Um remédio me deixou viciada em compras. Vendi minha casa para pagar dívidas' - BBC",
-      "published": "2026-06-16T13:23:04+00:00",
-      "summary": "'Um remédio me deixou viciada em compras. Vendi minha casa para pagar dívidas'&nbsp;&nbsp;BBC",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aLW5vclpyM1AwZmdaSUNTVnR4ZmpCSDdmQldKQjBGWXo1LVRfbEh3WDNXaDdyMldkQ0E3UlNmSG9YRkstaTBsNjN5SXVJbDE4V0NHSDRCMi1wU204ejhWU1h30gFnQVVfeXFMUGZ0OWROMEFibEtpbVFENkxncU9XNko1eVVXNUVlZnppRDFpcC1PUnR5eTNHeWk0WTV4RUZBMVI5RXB2YWhUZkkzVlFYMTFNTVd0TXJfc3NFQkZodDBiSzRpQVF3cXRrcw?oc=5"
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ3VlUmFIZXVCU0FqcmZXUElVSmRjYkZqRExYQ3hYc01tUHlERUFfNlNpQ0NwMGpFX2o5OUtFWTFCU0EzN2Fjc2JBUjNrWmN1d1JnSTByTzhhYVlPNm1JVFh2cWRJbElxTmNnYU5mUFFlanhEbTJGZ29LcFVhRzMwalRiWWVlLTBYZUNoV2xWNmpQbDBMblZNd0xR?oc=5"
         }
       ]
     }
