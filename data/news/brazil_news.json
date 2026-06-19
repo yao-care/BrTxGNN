@@ -1,10 +1,22 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-06-19T15:23:38.826811+00:00",
-  "total_fetched": 55,
-  "unique_count": 55,
+  "fetched_at": "2026-06-19T19:51:29.960452+00:00",
+  "total_fetched": 66,
+  "unique_count": 66,
   "health_related_count": 22,
   "news": [
+    {
+      "id": "44384fb024b7",
+      "title": "Onde tomar vacina para pneumonia em Fortaleza neste fim de semana? Veja locais - Diário do Nordeste",
+      "published": "2026-06-19T14:05:42+00:00",
+      "summary": "Onde tomar vacina para pneumonia em Fortaleza neste fim de semana? Veja locais&nbsp;&nbsp;Diário do NordesteOito postos de saúde de Fortaleza vão abrir neste fim de semana para vacinação contra a gripe&nbsp;&nbsp;G1Vacinação contra gripe ocorre em terminais de ônibus de Fortaleza&nbsp;&nbsp;O POVOVeja onde se vacinar neste final de semana&nbsp;&nbsp;Prefeitura Municipal de Rio GrandeFortaleza mantém oito postos abertos neste fim de semana para vacinação e atendimento&nbsp;&nbsp;iBand CE",
+      "sources": [
+        {
+          "name": "Diário do Nordeste",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZ2gwR0pqMFhVdUpzcTdiRXNIcnY2c01zbU5JZ21neFMyR2xLM0xVTHJ4TG5abjdFem9JcXJ3TXRfVUZPekM4RTlubTJFY2dROXFmVjhsaXNQaW5KUXpCZ3Y4bkFSZWNuNHplOHdGbG5GbGFEdHZJT0tBZ0hhUnpkN0NrN0VJdkNOQlZPTFdKRWM5My14cG1OVTJzbjF6QUxOM2NGRHJyczhhdkpaSkoxZE41OHJZUm1CODhIWm1FcUVUaTBPOGUwd2FVOEtmSlIzSTlN?oc=5"
+        }
+      ]
+    },
     {
       "id": "c7ce2a3daf91",
       "title": "Primeiro vertebrado a conquistar ambiente terrestre não era como cientistas imaginavam - Globo",
@@ -14,6 +26,30 @@
         {
           "name": "Globo",
           "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUjRyazNTcTlPRlF1Nm10cVZPMDlxQWN2T3lONi1Td2prVEdwdGVoNVJiYzJIQnpBbks0bkxVUG8xSXFuWEx5amp5bnJmVl8tMGE4bVRaek1kck90aEcxU21XSWtOWkhiX1p3V0NyeGxtM29KYW1fVUstQTJUZkU4UjNRbGp6ZzYzY2ZndXNRQl9zVjZMc1ZZMDBZcFd6d0xsQ2dUTXpXRW53VDNsMzBBYzdrV015OHpXcE5KLUxQVnBEa1ItVDBHSVh4STJKWTBzdEgySTJvamZrelJfWkhjQy1oMNIB8gFBVV95cUxPRDBjQndQM1MxSDdsNjNYcjZWNzQ3cHpmYnVhVjJoUXdkNW84R1cwNkNqQU1va0swSVVYUjM1TTNEdHV3SklSd0RyVHFXM2cwOTJLTVB3NFFwZlFGWk9RaThfdjF1eWRpSjd6MnBIOGRzZThaSHFGVzRvMG4wbHBTdnZLYTRBcFZRNnZRRUlZVksxcC1UU3M5bnU4bWh5Tld5Umt0QlhUcWJaMUpNcERnd3dMTVMtUWJGaXNHWTRiUVF0OUFZUTBmTGtLUGtlQ3lJWEpwYUhleEZDQ29Wc0o4cWJnMWhaMFROM2c2U18wX0xmdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6bb1574046e6",
+      "title": "O que o pequeno lambari tem a ver com o clima? Estudo traz resposta inesperada - G1",
+      "published": "2026-06-19T12:38:52+00:00",
+      "summary": "O que o pequeno lambari tem a ver com o clima? Estudo traz resposta inesperada&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNzM0RTQ5VERlb1A1US1SVDRrSmZZRG45NFJzRUhsQU9QYTRXMHJYSmdHelUwTGdoMElteFp6bklzVHp1S1h2MTJ0RUFCLW9peXc1aHhxTjJjNThFTFdHWFRreWxhQURXcFFQdVlFUUhvSUVHRi0xV1FOV3psWnEtVlpYU29haDNvVE13amdMRmRzR09RWHRSVGFBb3M0eGZMYlU1VnhlSGpJVERnbHBkb0p2cFpBUWtWRnBmZlgzQTNCMFhOSkl4UUdQVWY0MGxHRVplQnRuQWMzZVZSMkdMNkxSWE7SAfMBQVVfeXFMTlBYRGNka3FtdUt2LWh1SkhCMktCMDhlU2thSHU5MS1PSDh2S29EcmlYVUtiNjN1amo0UUhLUmRBYktKN3Q2cUtDb2d5MWFqb2FEM3hfdnkzcWhKRUIxV0xFOFpvMU1TN0g5VXlPVFJHS3pNamVmbnVDMUdfd0pRZXVaVjM1R1I5bjZBSWRNb2R0LWxQVHlvY1h4UmRwdFYzOXZkOFFZR21WM3U1S3Rjckg3bGNTQUx1U0l5RzlCeTI5RG94MzAwMHhkX2tfenAxS2lqZEtIdmVWZVpzNzZIVTV0d1NQZU1hcnF6VWp1MU9RSnZn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e87b789497b8",
+      "title": "Bactéria escondida nas águas congelantes da Antártida intriga cientistas ao produzir composto raro que mira células de melanoma sem atingir tecidos saudáveis - CPG Click Petróleo e Gás",
+      "published": "2026-06-19T12:32:00+00:00",
+      "summary": "Bactéria escondida nas águas congelantes da Antártida intriga cientistas ao produzir composto raro que mira células de melanoma sem atingir tecidos saudáveis&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQeThyQlBuRU5MWlliR1RIRzZSSm5sRTB6aExKNHpUam5VVUE2QWxJX2JNUWJLeTMzNW1rMllaZFNjbHlVSjctNFZpbjhWZGhyLXd0TzFLVk85U2R3aEtwSnpzQU93V2RwRWVQY0VIbFdMa2gzMFZTeERGWHJDdmRJOG1yb2U5Z1JkMU0yczVkRjFPZFdyRDAtMVYxNGdma25JbUo2NTRCOFNnZkkwQmdqLWg1YjNTWEJMUE9ESEFkZ2pibFFMN3ZhWFFLRWhVQ0s5Z2JxUy12cVQ2OXdtQkNVTmRPaEZQdjN3OUZLWFhySERSYndYRzVGVEdZcGZiaEVCUUc3ZzZzRG1HMnVmZVJxQjFvM2lHSUNxdVczNGlJeFNzdW41?oc=5"
         }
       ]
     },
@@ -30,6 +66,18 @@
       ]
     },
     {
+      "id": "ccdaec8f396b",
+      "title": "Canetas de GLP‑1: potência, limites e o futuro do metabolismo humano - O Globo",
+      "published": "2026-06-19T07:30:17+00:00",
+      "summary": "Canetas de GLP‑1: potência, limites e o futuro do metabolismo humano&nbsp;&nbsp;O GloboSuplementos que exigem atenção de quem usa canetas&nbsp;&nbsp;Tribuna OnlineOs desafios regulatórios das novas versões de “canetas” emagrecedoras&nbsp;&nbsp;MigalhasQual o risco de usar caneta emagrecedora sem se exercitar?&nbsp;&nbsp;Assine AbrilMarie Claire reúne médicos para debater a febre das canetas emagrecedoras&nbsp;&nbsp;Jornal de Brasília",
+      "sources": [
+        {
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOTU3emxYRXBCb1hzVDB4Vk1HbEg1MHJhcEMybkNaVnUzSGxBdmlSQVJvRjUwS0Zpc1BlMWJBWHpCOXFFSnJ5ZHJ3TzFTX1NXV05nckU5aXZvUW5CdXBrdlN0bFZwd3JoSjZWeS1Jcjd2UC14Tm1VX3pRQ1VOSzJiX1BnOU55ckp1T2dCWWZZbEVoc0c3NDBvZ0tjUzR3TzZVVzFjeEgxZnAxbWwzb19ycEY5VzQxM0VobWRJenBiaVJNWGVJcEtEc0pwc9IB2gFBVV95cUxQbzc4b2oxTFRZSm9EV1RqTktwZUFreWg4MmdnLXRIZ2ppZW5EbWVOMG9idmxNSVNwYU9SLWVUS3laQ3c5OUR4MHh0QnZoclBud0pONWNWa3hjWnlzcjAtVm5rRF9OVnhFY19oQXlKbGRUN1NIU2Z3RDA1cFU3MzRVZUM4c1FzNS1nV0tXMFhBdUNnSHg4MGQ5aWstcUJwSHZHNTlzd0N6dUxlQ0t5T21mVzhzdmZqN00zMzJVWEhPcm8tczJldXJ0MUNqUzNsNzVDVVZXdnVXR3NNQQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "cfa3bdcbe5db",
       "title": "Vacina da covid reduz risco de infarto e AVC em idosos, aponta estudo - ICL Notícias",
       "published": "2026-06-19T00:01:36+00:00",
@@ -42,37 +90,37 @@
       ]
     },
     {
-      "id": "e23d12130760",
-      "title": "Oito postos de saúde de Fortaleza vão abrir neste fim de semana para vacinação contra a gripe - G1",
-      "published": "2026-06-18T20:50:12+00:00",
-      "summary": "Oito postos de saúde de Fortaleza vão abrir neste fim de semana para vacinação contra a gripe&nbsp;&nbsp;G1Onde tomar vacina para pneumonia em Fortaleza neste fim de semana? Veja locais&nbsp;&nbsp;Diário do NordesteVacinação contra gripe ocorre em terminais de ônibus de Fortaleza&nbsp;&nbsp;O POVOVeja onde se vacinar neste final de semana&nbsp;&nbsp;Prefeitura Municipal de Rio GrandeFortaleza mantém oito postos abertos neste fim de semana para vacinação e atendimento&nbsp;&nbsp;iBand CE",
+      "id": "3e2a2f9bc350",
+      "title": "Descoberta do século: cientistas desvendaram mistério de 150 anos e encontraram maior predador - Rádio Itatiaia",
+      "published": "2026-06-18T22:10:37+00:00",
+      "summary": "Descoberta do século: cientistas desvendaram mistério de 150 anos e encontraram maior predador&nbsp;&nbsp;Rádio Itatiaia",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPanNrYm8tRzBCWUo4VEE0WnZqUGdyUE01SVV1alZieUlFZ3AxUkRJU2hZYWJoVmI1NTg0VFZjV0djMFNCZGtvdjhCX1VnWkQ5WWtKam0wbkZZMVRlMTFIcGl0bW5vblN5T1NlSzRFOV9iM1E0eXU2OXN0UGJRei0wYVBJQklwaDNwbC0tUGI2WXVnSGJpU1hVSS16QWNMQzFWZzZnV0cyY0E2ak1HS0ZhcGRCWDFwcnhFZUVSU0M0MkxqMWpHd2s5UmZhSGdDUTdTRUw2UnlfUXFCMkxzbldjRW5B0gHwAUFVX3lxTE94Y0tLYm5LZFFtQUplUkJpSU11eTFZaFkwcUsyX2pSb0dZeVNBcGw2cTNJQVpienlfVHdVTlB4eEVTS3UzRkVvRU51ckJISlpaeUJ6ckt1c2NUcUMxZl9qd0NnZUhlZUs4cGFTWkdzdHQxTHI1UHFPREJSUXlVQkxNRkZKNnRHYjRMOFNOVjRfX3F1UnhqeS15YXcxejR5UW1tSFVrVm1LamNObGQ5MG92b3h3OEJvcmZ6YTM2UERkd3hMZ2VXU2pqWDBlUU1yeUdBQmtJemxWNjJva3A2SV9nVDgwVTJ4VkF2bUJGNVVUQQ?oc=5"
+          "name": "Rádio Itatiaia",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTUc0RDJWd3BXNElRXzAxYzhwZTRTSVVuZnh6WlcyR1lIU1lZRjBrZEhLQWtUUkpSZW11VkFOaG5sWVhQcW5NUHRBZ1NFdzMyR3RKbXViOE5HTER2Rm5aM2lpVDlFdmE2RG1SX1o5bVVySThZTjZ5empTeFRPTXhSZXVmRGRsTzV6aUNoOTgxYmpnNFhqT0dyXzZqZkFWaGVwRlZaN1dGMmhuNzlqREdNVXE1ZkVUY3ZZSEc5Nm9kU3ZlY2RGMEpsMQ?oc=5"
         }
       ]
     },
     {
-      "id": "379ca5616a82",
-      "title": "Aos 3 anos, o pequeno Eduardo Amaral, virou o primeiro brasileiro diagnosticado com uma doença genéticaultrarrara que atinge menos de 100 pessoas no mundo todo, e acaba de voltar dos Estados Unidos com a notícia que parecia impossível - CPG Click Petróleo e Gás",
-      "published": "2026-06-18T19:48:00+00:00",
-      "summary": "Aos 3 anos, o pequeno Eduardo Amaral, virou o primeiro brasileiro diagnosticado com uma doença genéticaultrarrara que atinge menos de 100 pessoas no mundo todo, e acaba de voltar dos Estados Unidos com a notícia que parecia impossível&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "id": "e1c270a159f6",
+      "title": "Quem tem o QI mais alto: o filho mais velho, o do meio ou o mais novo? Estudo da Universidade de Oslo traz revelação - purepeople.com.br",
+      "published": "2026-06-18T18:04:00+00:00",
+      "summary": "Quem tem o QI mais alto: o filho mais velho, o do meio ou o mais novo? Estudo da Universidade de Oslo traz revelação&nbsp;&nbsp;purepeople.com.br",
       "sources": [
         {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNNE5Pd0dIQlZnX3k2Zm82aFhBUGRkdzR0VVljQUhodFN0aWNsTVVUSWg5dnJCVUZqOWZOM3kySThaQ1c4X0tvV2pPM3Q4TVhDck1DYlZZMVRIaTVNR0R3bzkwbENhbjdsY2t0ME9vWVpUdXZHWGJLTWk0QzVvRVFqb1pxQVQwRmxXMTdtVXNmM2tjMnVHTTBGTDdRd2NZOWVrbEJXcDdJcUpsUkNiV1NjZGZDYWtMUWtOQ3Q5U0R0Y2ZhNWhZdEp6eDREaHN5WUdQQXhOR05tcXhZaE5RSW11a1dYd2V2QTRUVm1OQTgxMEJ6WXNUbnFYcDhvbFYydW1zb1JkeFl6cUl1MVNBWFpKN0pBclhMMFg5T1NfVTRaODdzUDQ?oc=5"
+          "name": "purepeople.com.br",
+          "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPaHB4WVgxV3Zjc0hFX0l4OFdVcXhnQnZ0TnJRVkwyRTRrUFBoOWxnZHRNYkRZRDVYdGZSU09MaEhBNXBrcjBZRjdfRGVPTGZzUTFwQkR1TGxJV2lGcEZkal9BYUJMSTc1QnhWZTFhSWkxRU1YZGtsYXRJYWs2T3F5WmdYZlM5Ul9yWC1BeE9Fc0VwMkpMcGxGdnpWRmZyTHNUcVNnaW9kNWdNb3Aza0cyM1dFRVJ5ZlU5b184Y0hIb1ZxYWVBbUIyVExlemtyV2pSVFRiMUw0ai10ME1HZW43X3VIMmFIOGZMQ1VCTnhNNWYwcEJ5akItVzFvYVRBeWptVW1WMTFPNjRFSzdsM3BCRk9rWmZ5QWpiOFlweVBB0gGjAkFVX3lxTE9XOVJuSVQ4MHFWVGVSVzFMR01Rdnk4RVVoSXhCRFZfNDZTRWFNWXV5TzJIMzFlRUNxTTB1R0VMbVBLS3JXTS1CbmVyU1dzY2l0RmdJUmdWS1VnR0wzVHE3ek9MRVRweGJnaUI3UmFFSnBmU1V2a2cyT0NDbUxMMXJ4UHVabnJOX0lsNUYzMldYdmptaWxJTThtaFVWcG5FYzFlTVBaeDJmMEo1bXA1ZGYzdm1jQUl2ZklJcmNTT2N6cHJaa2xxZ2ZRejB2aUxLbXktM0ZTMUs4OG1iQVZrLUFycktqZ09GMnVmOEY0OXVqX2VoVWVRcVRHLUZEWHVGZk5MWjd4QW1HTW9OaXVmSS1yemdWdEdFellWSDVwSm0zeElnYw?oc=5"
         }
       ]
     },
     {
-      "id": "6d0b716d5a38",
-      "title": "Pagamento de bolsas - Nota do CNPq — Conselho Nacional de Desenvolvimento Científico e Tecnológico - GOV.BR",
+      "id": "638fd98fdb40",
+      "title": "Pagamento de bolsas - Nota do CNPq — Conselho Nacional de Desenvolvimento Científico e Tecnológico - www.gov.br",
       "published": "2026-06-18T18:03:15+00:00",
-      "summary": "Pagamento de bolsas - Nota do CNPq — Conselho Nacional de Desenvolvimento Científico e Tecnológico&nbsp;&nbsp;GOV.BR",
+      "summary": "Pagamento de bolsas - Nota do CNPq — Conselho Nacional de Desenvolvimento Científico e Tecnológico&nbsp;&nbsp;www.gov.br",
       "sources": [
         {
-          "name": "GOV.BR",
+          "name": "www.gov.br",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNEFSajc4Vk44aXFFX3JIT0Y0SDd4UnBFWGphNTcwNTI4TFBpQlNkMkgyYmFoT09fZGlob1BsYm1lcS0waE9sUjEwREh1ejY1Qno0RzgwSGFGMFdOYUl4VmE0SG8yRC1sUm1LbThIRWpwZDBFYVBWZFlmNFpIVmRsYmdROXNIWnBiT0FuNERka0pUeTEycE9j?oc=5"
         }
       ]
@@ -81,7 +129,7 @@
       "id": "d250ad81d243",
       "title": "Prefeitura de SP inicia vacinação de crianças com a pneumocócica 20-valente neste sábado - G1",
       "published": "2026-06-18T17:37:00+00:00",
-      "summary": "Prefeitura de SP inicia vacinação de crianças com a pneumocócica 20-valente neste sábado&nbsp;&nbsp;G1São Paulo começa a aplicar vacina pneumocócica 20-valente em crianças&nbsp;&nbsp;Folha de S.PauloPneumo 20: SUS de Alagoas passa a oferecer nova vacina&nbsp;&nbsp;G1Nova vacina contra meningite é ofertada nos postos de saúde de Fortaleza&nbsp;&nbsp;O POVOVacina pneumocócica 20 está disponível nas unidades de saúde do DF&nbsp;&nbsp;R7",
+      "summary": "Prefeitura de SP inicia vacinação de crianças com a pneumocócica 20-valente neste sábado&nbsp;&nbsp;G1São Paulo começa a aplicar vacina pneumocócica 20-valente em crianças&nbsp;&nbsp;Folha de S.PauloVacinação infantil contra 20 bactérias inicia na segunda-feira (22), em Teresina; saiba locais&nbsp;&nbsp;G1Nova vacina contra meningite é ofertada nos postos de saúde de Fortaleza&nbsp;&nbsp;O POVOSão Paulo começa a vacinar crianças com nova vacina pneumocócica&nbsp;&nbsp;Agência Brasil",
       "sources": [
         {
           "name": "G1",
@@ -90,26 +138,26 @@
       ]
     },
     {
-      "id": "3fddc52110b1",
-      "title": "Estudo identifica risco de transmissão de doenças entre viveiros de peixes na mesma bacia hidrográfica - Agrimidia",
-      "published": "2026-06-18T15:51:17+00:00",
-      "summary": "Estudo identifica risco de transmissão de doenças entre viveiros de peixes na mesma bacia hidrográfica&nbsp;&nbsp;AgrimidiaPesquisa pode ajudar a controlar doenças transmitidas entre peixes&nbsp;&nbsp;Globo RuralProtocolo da Embrapa Palmas identifica risco de contaminação entre viveiros de peixes de uma mesma bacia&nbsp;&nbsp;Conexão TocantinsDoenças de peixes podem 'viajar' pela água entre fazendas vizinhas, aponta Embrapa&nbsp;&nbsp;Rádio Itatiaia",
+      "id": "932e67d8b22c",
+      "title": "A doença silenciosa que pode ficar anos sem sintomas e atingir um órgão vital - Jornal Correio",
+      "published": "2026-06-18T16:36:19+00:00",
+      "summary": "A doença silenciosa que pode ficar anos sem sintomas e atingir um órgão vital&nbsp;&nbsp;Jornal CorreioCâncer de rim: médico alerta sobre alterações urinárias&nbsp;&nbsp;G1Silencioso, câncer de rim mata 10 pessoas por dia no Brasil&nbsp;&nbsp;UOLTumor renal pode evoluir sem sintomas; especialistas alertam para diagnóstico precoce&nbsp;&nbsp;Jornal OpçãoCâncer de rim pode crescer 80% até 2050: saiba por que a maioria descobre o tumor ‘por acaso’&nbsp;&nbsp;O TEMPO",
       "sources": [
         {
-          "name": "Agrimidia",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVlJFQkNaSmRSUlBkT1N2RFlzbVUwLTdqUXgzNWNwZWpldERqeG1xd0dQVGZ3Y2RFMXhvMVl4WnM5M09wMjE4MG84c2RIOXFoSzRLcjY3dUtmOFY1VEVFN3pxVGUtMGRaT2I2NnBZRG0tRVlJZVZ3aE16bHJyNVFDWDg1NTFZZElrSnVuMFdMSEZheXZjU2NHdDZlVlBwZEVsZFlwM2U2SGFFYWlSTWlzYjd6ZHFVcWhhLVZBZmhyeU10T09ydHgwUG1YTnA2VTRnZWZ1dXBFckEtUXFKOTVSZVhRZlZqQmY2M010V2N1Y29fMmdz?oc=5"
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOEUxaTUzWTlnakpuZUthbklHTG9nNlREbGxtZ2JpZmN3MjBRbjFUSXh6Wi1wRGhqQ2VUd1k1emwtNXIydEN0V1VzNFg3UzM3OXM5Qk1zRXRWZUg3X1hjVENBdE9jTTJubjZCbVFZbWRNVEx3QjltV0xudDgyNHE1N19XN2FWVUZzSGNPRENEY0J4RnVmU2tqdTc5X3hfMVdBQlBESXZoWEw4QWo0OGVYalEybmpWUHFBRzBsN3VEcw?oc=5"
         }
       ]
     },
     {
-      "id": "2b2ac35f3754",
-      "title": "Profundezas da Antártida guardam bactéria que pode matar câncer de pele; vídeo - Globo",
-      "published": "2026-06-18T15:30:30+00:00",
-      "summary": "Profundezas da Antártida guardam bactéria que pode matar câncer de pele; vídeo&nbsp;&nbsp;Globo",
+      "id": "3fddc52110b1",
+      "title": "Estudo identifica risco de transmissão de doenças entre viveiros de peixes na mesma bacia hidrográfica - Agrimidia",
+      "published": "2026-06-18T15:51:17+00:00",
+      "summary": "Estudo identifica risco de transmissão de doenças entre viveiros de peixes na mesma bacia hidrográfica&nbsp;&nbsp;AgrimidiaProtocolo identifica risco de contaminação entre viveiros de peixes de uma mesma bacia hidrográfica&nbsp;&nbsp;Notícias AgrícolasDoenças de peixes podem 'viajar' pela água entre fazendas vizinhas, aponta Embrapa&nbsp;&nbsp;Rádio Itatiaia",
       "sources": [
         {
-          "name": "Globo",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOR0o5b3lBQzN4U2xQM1N2U3I1aHp6YTNUTXhoS193VWd6Vk1SNUhfdkxOWVFOT2Y3NXU3SXdaX1oxQ2EtYUlVeHhNSWhVUkp0V0VkczVua19MX2RvLUVGZk5fWEJfMUFBRVE3RzdMSk8zZjBiS0ZMdXNSY2Z1c0FSeUNvUnFSMGRxb3ZrZ2pzenZvMTZtaE9ZMFN2TTlJNml4dlJxMnhMcFRxYmFRenhlWGJwYTFSSVdsTzg4TkxYY005UkVqR1ZaV2hUNmFZUWp3SW4tb1MxONIB5gFBVV95cUxNOEh0c0NzRi1WQUlfQmVMbHlPTTlpUWR3RWdENDlVZVU1Y1g0QXVpN0p3S0dXT3VZY2xwZjlsZEJmM3pOMXVSR21TZmhBOENOZHkyRXFtMm1pOXp2MmhicHVyR1FKMDhleDhmS0Fpal95UmJDQkM5aFNvMkp6X3daOUJaekJZbUl5MFlYRmJSOFp3MWY2ZEh0eTBLRHc4YkRZOG9DWWNvOF9iLXI5bXBjMXVWeUlzRlFQZEJyeU5scF9sZHpJa3JFR0NlQlczRHFsUlFpMGtsNFM2cVd0SFFOWW0wTmo2Zw?oc=5"
+          "name": "Agrimidia",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVlJFQkNaSmRSUlBkT1N2RFlzbVUwLTdqUXgzNWNwZWpldERqeG1xd0dQVGZ3Y2RFMXhvMVl4WnM5M09wMjE4MG84c2RIOXFoSzRLcjY3dUtmOFY1VEVFN3pxVGUtMGRaT2I2NnBZRG0tRVlJZVZ3aE16bHJyNVFDWDg1NTFZZElrSnVuMFdMSEZheXZjU2NHdDZlVlBwZEVsZFlwM2U2SGFFYWlSTWlzYjd6ZHFVcWhhLVZBZmhyeU10T09ydHgwUG1YTnA2VTRnZWZ1dXBFckEtUXFKOTVSZVhRZlZqQmY2M010V2N1Y29fMmdz?oc=5"
         }
       ]
     },
@@ -129,7 +177,7 @@
       "id": "af71b3ce07ca",
       "title": "Drauzio diz que redes sociais ajudam a espalhar fake news sobre saúde - UOL",
       "published": "2026-06-18T14:57:00+00:00",
-      "summary": "Drauzio diz que redes sociais ajudam a espalhar fake news sobre saúde&nbsp;&nbsp;UOLVeja mais manchetes e perspectivas no Google Notícias",
+      "summary": "Drauzio diz que redes sociais ajudam a espalhar fake news sobre saúde&nbsp;&nbsp;UOL",
       "sources": [
         {
           "name": "UOL",
@@ -141,7 +189,7 @@
       "id": "6dd4400fcf9a",
       "title": "Vacina contra gripe: Veja quando o imunizante estará disponível para o público geral em Maringá - gmconline.com.br",
       "published": "2026-06-18T14:55:00+00:00",
-      "summary": "Vacina contra gripe: Veja quando o imunizante estará disponível para o público geral em Maringá&nbsp;&nbsp;gmconline.com.brVacina contra a gripe será liberada para todos os públicos de Maringá a partir de 29&nbsp;&nbsp;G1Vacina contra gripe estará disponível para o público geral em Maringá a partir de 29 de junho&nbsp;&nbsp;maringa.pr.gov.brPrefeitura lança UPA Digital com serviço de Telemedicina&nbsp;&nbsp;Blog LondrinaPopulação corre para as UBSs de Londrina para tomar vacina contra gripe&nbsp",
+      "summary": "Vacina contra gripe: Veja quando o imunizante estará disponível para o público geral em Maringá&nbsp;&nbsp;gmconline.com.brLondrina realiza plantão de vacinação contra a gripe em shoppings e supermercados&nbsp;&nbsp;G1Vacina contra gripe estará disponível para o público geral em Maringá a partir de 29 de junho&nbsp;&nbsp;maringa.pr.gov.brPopulação corre para as UBSs de Londrina para tomar vacina contra gripe&nbsp;&nbsp;Folha de LondrinaSão José dos Pinhais libera vacinação contra gripe para toda",
       "sources": [
         {
           "name": "gmconline.com.br",
@@ -150,14 +198,14 @@
       ]
     },
     {
-      "id": "6ea27126c43d",
-      "title": "Vacina contra HPV zera mortes por câncer de colo do útero em jovens na Inglaterra - G1",
-      "published": "2026-06-18T14:11:26+00:00",
-      "summary": "Vacina contra HPV zera mortes por câncer de colo do útero em jovens na Inglaterra&nbsp;&nbsp;G1Inglaterra zera mortes de jovens por câncer de colo do útero com vacina contra HPV&nbsp;&nbsp;VEJAVacinação contra HPV avança, mas mortes ainda preocupam&nbsp;&nbsp;Biored BrasilVacinas contra HPV reduzem quase a zero o risco de câncer cervical antes dos 30&nbsp;&nbsp;Portal TelaVacina contra HPV reduz mortes de jovens por câncer do colo do útero na Inglaterra&nbsp;&nbsp;redeutv.com.br",
+      "id": "e7c08c902601",
+      "title": "Mortes por câncer de colo do útero caem a zero entre jovens vacinadas na Inglaterra - UOL",
+      "published": "2026-06-18T14:26:09+00:00",
+      "summary": "Mortes por câncer de colo do útero caem a zero entre jovens vacinadas na Inglaterra&nbsp;&nbsp;UOLVacina contra HPV zera mortes por câncer de colo do útero em jovens na Inglaterra&nbsp;&nbsp;G1Vacina contra HPV zera mortes em jovens na Inglaterra - 18/06/2026 - Equilíbrio e Saúde&nbsp;&nbsp;Folha de S.PauloInglaterra zera mortes de jovens por câncer de colo do útero com vacina contra HPV&nbsp;&nbsp;VEJAVacinas contra HPV reduzem quase a zero o risco de câncer cervical antes dos 30&nbsp;&nbsp;Por",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOGdvYm9MX2dpTHg4WFRSTFVsN3JlamkteDVMUGdsSzVjbUlNbFlCNFhDdDVpaUpfU1pSWmtHc0FtYUVSVDNLeDJnS2tGaEg0QTZIVjJVU3lwTFR2cHlqbGZZQmsxRnliX0dKQ1ZqTjRFc1hjbkx0MjVTcjBPNV9kSlIyOENHTDBTNDJCU0w5LTdsZDJyMWFBdFl3MjY3eXN3eGhBWjgweExrQUpUU1pvc3lBeG9DMkU3R3EtOXp0U18yZDhFZ1cwLTJmaS0yZVZB0gHfAUFVX3lxTE91elA5N3A5R3dTbG93YS1ZSGJneG4yRVIwMW1RZU5CMUh5aFNFd1Z1cnhlWVk2T3BfYjhWaGJ1Y3EzWXdVYXAzeklCdTFJS0hHcFBaY3ZfS0ZvYnpLcWIzS3hhWW1mbExPVEdxVk90VlFTMUxZUUktR1pvdklveEdSTE55SVlBd2RoRjYybFhmcGlBb0ZSek5IRkVMM3hqUHEwRXJBSUpOUEdTc2JkMnl2S2dXaG5wRXdNT0hCMi1vSm5tOENpZU5kd2NMamVhaU5xREJYODJ6RTgxZHplV0k?oc=5"
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVHlza0tZalY0d0stRTVsREhBLVRFaXpmd0dxNXNxRVFXQlNnVnFKTjZTdEswQjJDZGsxREQyNkVPalU5QjhFYmtJMU5oZklwU09YZXlBb0Ryb1BOdmt4YXhPNU13aFVQcERYcklQdWZwT0RfX2QtVkwtdFBuU3puMFZJclNQN2hOUzFLU1hGMHJMRTFQNWVTODNyRW1NQnlBNW1pRWVxaVVleWtIRFJzd2NyTlcyYUgxQjlxUVNLUmRpQmVlY0tEd3h4NGI5VkNXZGNUNG05T0h6Zw?oc=5"
         }
       ]
     },
@@ -177,7 +225,7 @@
       "id": "95ad22fd1d98",
       "title": "Peste surgiu há 5.500 anos e já era altamente letal, mostra estudo - Correio Braziliense",
       "published": "2026-06-18T09:12:00+00:00",
-      "summary": "Peste surgiu há 5.500 anos e já era altamente letal, mostra estudo&nbsp;&nbsp;Correio BraziliensePrimeira epidemia de peste ocorreu há 5.500 anos e dizimou crianças, diz estudo&nbsp;&nbsp;Folha de S.PauloEvidência mais antiga de morte por peste é encontrada na Sibéria&nbsp;&nbsp;GloboDNA de 5.500 anos encontrado em ossos da Idade da Pedra revela que a peste já assustava comunidades pré-históricas muito antes da Peste Negra medieval&nbsp;&nbsp;CPG Click Petróleo e GásA doença mais temida da histó",
+      "summary": "Peste surgiu há 5.500 anos e já era altamente letal, mostra estudo&nbsp;&nbsp;Correio Braziliense",
       "sources": [
         {
           "name": "Correio Braziliense",
@@ -186,22 +234,10 @@
       ]
     },
     {
-      "id": "9ced613ad3e1",
-      "title": "\"Eu não sentia absolutamente nada\": biólogo de 43 anos descobriu câncer silencioso durante exame de rotina - Terra",
-      "published": "2026-06-18T07:59:00+00:00",
-      "summary": "\"Eu não sentia absolutamente nada\": biólogo de 43 anos descobriu câncer silencioso durante exame de rotina&nbsp;&nbsp;TerraCâncer de rim: médico alerta sobre alterações urinárias&nbsp;&nbsp;G1Silencioso, câncer de rim mata 10 pessoas por dia no Brasil&nbsp;&nbsp;UOLTumor renal pode evoluir sem sintomas; especialistas alertam para diagnóstico precoce&nbsp;&nbsp;Jornal OpçãoCâncer de rim pode não dar sinais no início&nbsp;&nbsp;Diário Gaúcho",
-      "sources": [
-        {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNV1NDVEZqdGs3Q0xiUEJvcnhzSkVzRmhNOWcyQ0Z3MUdSSUlTRnZVSjB0cFpsU01XeEFxa1hzOExIX2lTTmxLSzBQekFybGdMYkxMYkF0UmJDNk5FV3V6YjA4SVExMzNfTGg5U1p0YklmREpLdGtRS3ZYb0ctTzduUFVkc3ROVWNhUGF5djZSTThGLXVnbUoyMXlIdUxJQ3hJYS14dlB6YmRLMHY5ZlY5YW56Q1BlczBvR3lUTHdld3hCVWJENnFZNFZmRTFOWHZFbjhneUlJbC02MmxTQ2Y3dDk4Tk5oRjhJWTd4YWNHVktYb3ZhSkRFZjBQOUQxZ3NieUhaOS1GUl90VWllVG9UZEJJTkFYNUVrNnRoeWpXWQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e189c088214c",
       "title": "Quem come mais arroz e feijão reduz o consumo de ultraprocessados, gordura e açúcar em 45%, mostra estudo da USP - O Globo",
       "published": "2026-06-18T07:30:34+00:00",
-      "summary": "Quem come mais arroz e feijão reduz o consumo de ultraprocessados, gordura e açúcar em 45%, mostra estudo da USP&nbsp;&nbsp;O GloboSegundo os especialistas e estudos, arroz com ovo e feijão garante igualmente os mesmos benefícios proteicos saudáveis que a carne vermelha&nbsp;&nbsp;Tua SaúdePor que arroz e feijão continuam no centro da alimentação e o que isso representa para o setor&nbsp;&nbsp;Folha Vitória",
+      "summary": "Quem come mais arroz e feijão reduz o consumo de ultraprocessados, gordura e açúcar em 45%, mostra estudo da USP&nbsp;&nbsp;O GloboArroz e feijão: estudo confirma que dupla faz bem à saúde, ao bolso e ao planeta&nbsp;&nbsp;Veja SaúdeSegundo os especialistas e estudos, arroz com ovo e feijão garante igualmente os mesmos benefícios proteicos saudáveis que a carne vermelha&nbsp;&nbsp;Tua SaúdePor que arroz e feijão continuam no centro da alimentação e o que isso representa para o setor&nbsp;&nbsp;F",
       "sources": [
         {
           "name": "O Globo",
@@ -210,22 +246,10 @@
       ]
     },
     {
-      "id": "25a70c08c5f1",
-      "title": "Pesquisa usa IA para identificar sinais de autismo e TDAH em alunos no Pará - Folha de S.Paulo",
-      "published": "2026-06-18T07:00:00+00:00",
-      "summary": "Pesquisa usa IA para identificar sinais de autismo e TDAH em alunos no Pará&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZDB2ZDlONGNTUnJuSng5ckh1SHBZQ0VFbnBNcVVpdmVxOFlVR3BJVENJcFN0N0lKVms5N3czVHRjcWJBbm0zeDVhX0xtSkJqQWFxTV9OcDlTdTVYV3VwaUxYc0ZqdGVXNWEtTWh5MkRObjE5c1AxYi1FVHY2WFJtRkdnbzRuc1l2WU5uWFlmU25SR01xUXdLczZINkRqMVRpMjFHVG85b0treFNRWHBqYWNYT3h3b1FIV0w0REJCX0xEaHpLMEJv?oc=5"
-        }
-      ]
-    },
-    {
       "id": "44c86e6cf20a",
       "title": "Fumaça do cigarro chega até na bexiga e expõe todo o corpo a doenças - Metrópoles",
       "published": "2026-06-18T05:00:00+00:00",
-      "summary": "Fumaça do cigarro chega até na bexiga e expõe todo o corpo a doenças&nbsp;&nbsp;MetrópolesTabagismo segue entre os maiores fatores de risco para câncer&nbsp;&nbsp;G1Em resposta ao Dia Mundial Sem Tabaco, em 31 de maio de 2026, e à Semana Nacional Sem Tabaco, de 25 a 31 de maio de 2026.&nbsp;&nbsp;Vietnam.vnGrupo de apoio no combate ao tabagismo promove atividades no HU-UFSC&nbsp;&nbsp;GOV.BRTabagismo é a maior ameaça à saúde pública e precisa ser mais combatido&nbsp;&nbsp;AMB - Associação Médica",
+      "summary": "Fumaça do cigarro chega até na bexiga e expõe todo o corpo a doenças&nbsp;&nbsp;MetrópolesTabagismo segue entre os maiores fatores de risco para câncer&nbsp;&nbsp;G1Em resposta ao Dia Mundial Sem Tabaco, em 31 de maio de 2026, e à Semana Nacional Sem Tabaco, de 25 a 31 de maio de 2026.&nbsp;&nbsp;Vietnam.vnGrupo de apoio no combate ao tabagismo promove atividades no HU-UFSC&nbsp;&nbsp;www.gov.brTabagismo é a maior ameaça à saúde pública e precisa ser mais combatido&nbsp;&nbsp;AMB - Associação Mé",
       "sources": [
         {
           "name": "Metrópoles",
@@ -242,30 +266,6 @@
         {
           "name": "ac24horas",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSnZkUUdUN3RZZWx0c2IwNGYxV3hHTUlDNVE2amhLVnhoN0c4bEN5S3cySi13T1QybzVfOW56VGNCaUFfVTJuSnVPMWlmV2xuNV9FcUJOSGtMWXRtZHpnUFlCbHV5ZFpUMjNKRzBvWFZ6TzJVZlpGNXpUYXNVbFctazQ0Z2JtMlg5bFRvampnTjlrenpMTFByM0dWeHNhb0JWWjZ3R1N4TW01bnBsc0VIZndYeGNfcnVhUm1RSFBOV21OVVBfcEHSAcsBQVVfeXFMT1pqWkdJV2pXXzRybVNlTWZQNXVKLUJ2emQyWUZPNFRhaDJvSWVRUkVRRFowWUctU0lkay15MG1TU1BuOUFjbFJ3NUExbU5Bd1gzbVBzZjJWaWQxbVlvZnZIYkJBampOTml3YklpOXNWUGJsaFcxcE9RRG1mamRZZlJMVEhneWg3OUY2Zzl0T3I4N0h1eUNPTklEX2Z5TGJHZnl0M3dMU0ViYUY0cmVueGpaTThMT3RLcTQ2bl93UHp2cFA5aHM5Wk5DYlE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ab9ef5508f96",
-      "title": "Semaglutida e tirzepatida passam a ser recomendadas como primeira opção no tratamento medicamentoso - cff.org.br",
-      "published": "2026-06-17T22:07:36+00:00",
-      "summary": "Semaglutida e tirzepatida passam a ser recomendadas como primeira opção no tratamento medicamentoso&nbsp;&nbsp;cff.org.brCanetas de GLP‑1: potência, limites e o futuro do metabolismo humano&nbsp;&nbsp;O GloboSuplementos que exigem atenção de quem usa canetas&nbsp;&nbsp;Tribuna OnlineOs desafios regulatórios das novas versões de “canetas” emagrecedoras&nbsp;&nbsp;MigalhasQual o risco de usar caneta emagrecedora sem se exercitar?&nbsp;&nbsp;Assine Abril",
-      "sources": [
-        {
-          "name": "cff.org.br",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbFlad3h3LWxDRHVhVmdVQUJLQjAtWHZsNDdZU1ZKOGYxTjdrdlQ3MnlqQmZEcXp5NFpwTEtwRFU1eEZJc2NjZm5JZjJrQldiQlc2eEdQTEFFYjNyQm5OWFRjbU12b2EzdXB3RmJ1Wmo0OHRUTWp4c2ZfYkNrdVJScTJQa3RadEpIbU9jR2xhNWVhMFpZa3dFREEwRllmV1NBdnZHckVneWJzWkZFZmRCU3NKRzRYZTliWVJsX2RkNlZoOVR3U2ZwNlpsYmVNRnBlVHpPWk82NTctQWpqOVdSSTA2WXVnTjV6ci1nT2I5RQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6feb5be98b9a",
-      "title": "Primeiro relógio nuclear do mundo começa a funcionar e pode ajudar a desvendar mistérios do Universo - Superinteressante",
-      "published": "2026-06-17T21:00:00+00:00",
-      "summary": "Primeiro relógio nuclear do mundo começa a funcionar e pode ajudar a desvendar mistérios do Universo&nbsp;&nbsp;Superinteressante",
-      "sources": [
-        {
-          "name": "Superinteressante",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOGRUVlU4ZW5WdEx5eU1yRFRyRmhCQzRrbTdzVWkxVzIwVzFYTTM5SFI3X0tVcDNuVUctaGNEV29xSW5vbWpOenVhSVQ0aEptblBEUUNla2NNZzZtQ0o4ZlpwSEN6VUozSWEwenJKbjlLTTRULVVvd1pNSDIzNnF6X1pfZjJhb1pTbkNSZF82NlBWbFY2ekdvTl9YYzVlUU9rNW5KU3BwTm5XaS1kbDNKREpfVHBna1Y3TGJQc1FoZFJtbDZza1BVY0liRDVNR0xhR1E?oc=5"
         }
       ]
     }
