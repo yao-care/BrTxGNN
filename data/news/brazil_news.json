@@ -1,19 +1,67 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-06-18T20:27:49.034889+00:00",
-  "total_fetched": 55,
-  "unique_count": 51,
-  "health_related_count": 24,
+  "fetched_at": "2026-06-19T04:40:38.527225+00:00",
+  "total_fetched": 52,
+  "unique_count": 49,
+  "health_related_count": 20,
   "news": [
     {
       "id": "cfa3bdcbe5db",
       "title": "Vacina da covid reduz risco de infarto e AVC em idosos, aponta estudo - ICL Notícias",
-      "published": "2026-06-18T18:01:36+00:00",
-      "summary": "Vacina da covid reduz risco de infarto e AVC em idosos, aponta estudo&nbsp;&nbsp;ICL NotíciasVacina contra Covid reduz risco de infarto e AVC em idosos, aponta estudo&nbsp;&nbsp;Folha de S.PauloVacina de Covid reduz o risco de infarto e derrame em idosos, revela novo estudo&nbsp;&nbsp;O GloboVacina da Covid-19 é associada a proteção contra danos ao coração, afirma estudo&nbsp;&nbsp;Correio do Povo",
+      "published": "2026-06-19T00:01:36+00:00",
+      "summary": "Vacina da covid reduz risco de infarto e AVC em idosos, aponta estudo&nbsp;&nbsp;ICL NotíciasVacina de Covid reduz o risco de infarto e derrame em idosos, revela novo estudo&nbsp;&nbsp;O GloboVacina contra Covid reduz risco de infarto e AVC em idosos, aponta estudo&nbsp;&nbsp;Folha de S.PauloVacina da Covid-19 é associada a proteção contra danos ao coração, afirma estudo&nbsp;&nbsp;Correio do Povo",
       "sources": [
         {
           "name": "ICL Notícias",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY1BUMGN6TnNhT3luV2ZTWmZlLUtjbGs1X1BuWDBwLXVIQU9VMTdjM2o3RXczR0otamRZVS12TXVWTUtSQjFnQWFvdVZMUUNWMXZBZ3E3SFhRaVlzaDBUbHN2cWxKbDVIa0V5MkhWMlZoN0JfQ3dnZDhlRnItWThqWHVmYmItd2VQeW83VF9HdUxIWGQtZ3lQeDdRdlg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "eea41e92c91a",
+      "title": "São Paulo começa a aplicar vacina pneumocócica 20-valente em crianças - Folha de S.Paulo",
+      "published": "2026-06-18T22:45:00+00:00",
+      "summary": "São Paulo começa a aplicar vacina pneumocócica 20-valente em crianças&nbsp;&nbsp;Folha de S.PauloNova vacina contra meningite é ofertada nos postos de saúde de Fortaleza&nbsp;&nbsp;O POVOPneumo 20: SUS de Alagoas passa a oferecer nova vacina&nbsp;&nbsp;G1Vacina pneumocócica 20 está disponível nas unidades de saúde do DF&nbsp;&nbsp;R7Vacina pneumocócica é disponibilizada em todas as UBSs&nbsp;&nbsp;Correio Braziliense",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUnJ0bHFtMHNDNlMzSVNVNklVQkRuZEZScllrbUJ5b0ZYM1dCZzhSME43LWVXeWxnUXl0UmIxN3lPWTlqT0laclNraHBrbFV5RjlIaTFaQ3c2REhpd0oxczkxU1Y1OUpGRTFzdkFyUHhVY3BqRGYyTVFXTE4zekZvZnBxLXFqdGs3X1pfNFgtUnVYdXlFVHA3TWNUZFVELTZxeDJjZDlZMmRXdHROTjBxZi16ZldwYkgzSFYtVXV1UjhKM3dTUEpMckhB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3e2a2f9bc350",
+      "title": "Descoberta do século: cientistas desvendaram mistério de 150 anos e encontraram maior predador - Rádio Itatiaia",
+      "published": "2026-06-18T22:10:37+00:00",
+      "summary": "Descoberta do século: cientistas desvendaram mistério de 150 anos e encontraram maior predador&nbsp;&nbsp;Rádio Itatiaia",
+      "sources": [
+        {
+          "name": "Rádio Itatiaia",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTUc0RDJWd3BXNElRXzAxYzhwZTRTSVVuZnh6WlcyR1lIU1lZRjBrZEhLQWtUUkpSZW11VkFOaG5sWVhQcW5NUHRBZ1NFdzMyR3RKbXViOE5HTER2Rm5aM2lpVDlFdmE2RG1SX1o5bVVySThZTjZ5empTeFRPTXhSZXVmRGRsTzV6aUNoOTgxYmpnNFhqT0dyXzZqZkFWaGVwRlZaN1dGMmhuNzlqREdNVXE1ZkVUY3ZZSEc5Nm9kU3ZlY2RGMEpsMQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e1c270a159f6",
+      "title": "Quem tem o QI mais alto: o filho mais velho, o do meio ou o mais novo? Estudo da Universidade de Oslo traz revelação - purepeople.com.br",
+      "published": "2026-06-18T18:04:00+00:00",
+      "summary": "Quem tem o QI mais alto: o filho mais velho, o do meio ou o mais novo? Estudo da Universidade de Oslo traz revelação&nbsp;&nbsp;purepeople.com.br",
+      "sources": [
+        {
+          "name": "purepeople.com.br",
+          "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPaHB4WVgxV3Zjc0hFX0l4OFdVcXhnQnZ0TnJRVkwyRTRrUFBoOWxnZHRNYkRZRDVYdGZSU09MaEhBNXBrcjBZRjdfRGVPTGZzUTFwQkR1TGxJV2lGcEZkal9BYUJMSTc1QnhWZTFhSWkxRU1YZGtsYXRJYWs2T3F5WmdYZlM5Ul9yWC1BeE9Fc0VwMkpMcGxGdnpWRmZyTHNUcVNnaW9kNWdNb3Aza0cyM1dFRVJ5ZlU5b184Y0hIb1ZxYWVBbUIyVExlemtyV2pSVFRiMUw0ai10ME1HZW43X3VIMmFIOGZMQ1VCTnhNNWYwcEJ5akItVzFvYVRBeWptVW1WMTFPNjRFSzdsM3BCRk9rWmZ5QWpiOFlweVBB0gGjAkFVX3lxTE9XOVJuSVQ4MHFWVGVSVzFMR01Rdnk4RVVoSXhCRFZfNDZTRWFNWXV5TzJIMzFlRUNxTTB1R0VMbVBLS3JXTS1CbmVyU1dzY2l0RmdJUmdWS1VnR0wzVHE3ek9MRVRweGJnaUI3UmFFSnBmU1V2a2cyT0NDbUxMMXJ4UHVabnJOX0lsNUYzMldYdmptaWxJTThtaFVWcG5FYzFlTVBaeDJmMEo1bXA1ZGYzdm1jQUl2ZklJcmNTT2N6cHJaa2xxZ2ZRejB2aUxLbXktM0ZTMUs4OG1iQVZrLUFycktqZ09GMnVmOEY0OXVqX2VoVWVRcVRHLUZEWHVGZk5MWjd4QW1HTW9OaXVmSS1yemdWdEdFellWSDVwSm0zeElnYw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "638fd98fdb40",
+      "title": "Pagamento de bolsas - Nota do CNPq — Conselho Nacional de Desenvolvimento Científico e Tecnológico - www.gov.br",
+      "published": "2026-06-18T18:03:15+00:00",
+      "summary": "Pagamento de bolsas - Nota do CNPq — Conselho Nacional de Desenvolvimento Científico e Tecnológico&nbsp;&nbsp;www.gov.br",
+      "sources": [
+        {
+          "name": "www.gov.br",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNEFSajc4Vk44aXFFX3JIT0Y0SDd4UnBFWGphNTcwNTI4TFBpQlNkMkgyYmFoT09fZGlob1BsYm1lcS0waE9sUjEwREh1ejY1Qno0RzgwSGFGMFdOYUl4VmE0SG8yRC1sUm1LbThIRWpwZDBFYVBWZFlmNFpIVmRsYmdROXNIWnBiT0FuNERka0pUeTEycE9j?oc=5"
         }
       ]
     },
@@ -30,10 +78,10 @@
       ]
     },
     {
-      "id": "b1f0e7da8879",
-      "title": "Para maiores de 60 anos: os efeitos da vitamina C no cérebro, segundo um estudo japonês - O Globo",
+      "id": "e3da584b9429",
+      "title": "Os excelentes efeitos da vitamina C no cérebro, segundo um estudo japonês - O Globo",
       "published": "2026-06-18T15:16:38+00:00",
-      "summary": "Para maiores de 60 anos: os efeitos da vitamina C no cérebro, segundo um estudo japonês&nbsp;&nbsp;O GloboA vitamina C contribui para uma melhor saúde cerebral na velhice&nbsp;&nbsp;ZAP NotíciasEstudo japonês revela novos efeitos nocivos da deficiência de vitamina C.&nbsp;&nbsp;Vietnam.vnVitamina C pode ajudar a preservar a memória? Estudo traz pistas&nbsp;&nbsp;Terra",
+      "summary": "Os excelentes efeitos da vitamina C no cérebro, segundo um estudo japonês&nbsp;&nbsp;O GloboImpacto da vitamina C para o cérebro de idosos é desvendado por estudo&nbsp;&nbsp;VEJAA vitamina C contribui para uma melhor saúde cerebral na velhice&nbsp;&nbsp;ZAP NotíciasEstudo japonês revela novos efeitos nocivos da deficiência de vitamina C.&nbsp;&nbsp;Vietnam.vnVitamina C pode ajudar a preservar a memória? Estudo traz pistas&nbsp;&nbsp;Terra",
       "sources": [
         {
           "name": "O Globo",
@@ -45,7 +93,7 @@
       "id": "af71b3ce07ca",
       "title": "Drauzio diz que redes sociais ajudam a espalhar fake news sobre saúde - UOL",
       "published": "2026-06-18T14:57:00+00:00",
-      "summary": "Drauzio diz que redes sociais ajudam a espalhar fake news sobre saúde&nbsp;&nbsp;UOL",
+      "summary": "Drauzio diz que redes sociais ajudam a espalhar fake news sobre saúde&nbsp;&nbsp;UOLPulso: confira os destaques do primeiro evento de saúde do Portal Drauzio&nbsp;&nbsp;Portal Drauzio VarellaUOL e Drauzio Varella debatem dignidade menstrual e raça&nbsp;&nbsp;Mundo NegroPulso: Drauzio Varella e UOL se unem em evento sobre saúde e bem-estar&nbsp;&nbsp;UOL Economia",
       "sources": [
         {
           "name": "UOL",
@@ -57,7 +105,7 @@
       "id": "6dd4400fcf9a",
       "title": "Vacina contra gripe: Veja quando o imunizante estará disponível para o público geral em Maringá - gmconline.com.br",
       "published": "2026-06-18T14:55:00+00:00",
-      "summary": "Vacina contra gripe: Veja quando o imunizante estará disponível para o público geral em Maringá&nbsp;&nbsp;gmconline.com.brVacina contra gripe estará disponível para o público geral em Maringá a partir de 29 de junho&nbsp;&nbsp;maringa.pr.gov.brLondrina libera vacina contra gripe para toda população&nbsp;&nbsp;Folha de LondrinaVacinação contra gripe não atinge 50% no Paraná&nbsp;&nbsp;G1Santa Rosa do Piauí reforça campanha de vacinação contra Influenza na UBS do Centro&nbsp;&nbsp;Portal R10",
+      "summary": "Vacina contra gripe: Veja quando o imunizante estará disponível para o público geral em Maringá&nbsp;&nbsp;gmconline.com.brVacina contra gripe estará disponível para o público geral em Maringá a partir de 29 de junho&nbsp;&nbsp;maringa.pr.gov.brPrefeitura lança UPA Digital com serviço de Telemedicina&nbsp;&nbsp;Blog LondrinaVacinação contra a gripe está liberada para toda a população em Londrina&nbsp;&nbsp;G1Santa Rosa do Piauí reforça campanha de vacinação contra Influenza na UBS do Centro&nbsp",
       "sources": [
         {
           "name": "gmconline.com.br",
@@ -69,7 +117,7 @@
       "id": "e7c08c902601",
       "title": "Mortes por câncer de colo do útero caem a zero entre jovens vacinadas na Inglaterra - UOL",
       "published": "2026-06-18T14:26:09+00:00",
-      "summary": "Mortes por câncer de colo do útero caem a zero entre jovens vacinadas na Inglaterra&nbsp;&nbsp;UOLVacina contra HPV reduz mortes de jovens por câncer do colo do útero na Inglaterra&nbsp;&nbsp;Folha de S.PauloInglaterra zera mortes de jovens por câncer de colo do útero com vacina contra HPV&nbsp;&nbsp;VEJAVacinação contra HPV avança, mas mortes ainda preocupam&nbsp;&nbsp;Biored BrasilVacinas contra HPV reduzem quase a zero o risco de câncer cervical antes dos 30&nbsp;&nbsp;Portal Tela",
+      "summary": "Mortes por câncer de colo do útero caem a zero entre jovens vacinadas na Inglaterra&nbsp;&nbsp;UOLVacina contra HPV zera mortes por câncer de colo do útero em jovens na Inglaterra&nbsp;&nbsp;G1Vacina contra HPV reduz mortes de jovens por câncer do colo do útero na Inglaterra&nbsp;&nbsp;Folha de S.PauloReino Unido. Mortes por cancro do colo do útero descem para zero em jovens vacinadas contra HPV&nbsp;&nbsp;RTPInglaterra zera mortes de jovens por câncer de colo do útero com vacina contra HPV&nbsp",
       "sources": [
         {
           "name": "UOL",
@@ -81,7 +129,7 @@
       "id": "51969ee09f63",
       "title": "Quantos passos por dia são necessários para neutralizar os riscos do sedentarismo? O que diz a ciência - Época Negócios",
       "published": "2026-06-18T13:03:45+00:00",
-      "summary": "Quantos passos por dia são necessários para neutralizar os riscos do sedentarismo? O que diz a ciência&nbsp;&nbsp;Época NegóciosQuanto tempo sentado por dia começa a prejudicar a saúde e como compensar ao longo do dia&nbsp;&nbsp;Tua SaúdeFicar em pé trabalha o corpo?&nbsp;&nbsp;Assine AbrilA regra dos 22 minutos: o limite científico para maior longevidade trabalhando em escritório&nbsp;&nbsp;Correio BraziliensePesquisadores revelam hábito comum que pode afetar o seu bem-estar&nbsp;&nbsp;O Hoje",
+      "summary": "Quantos passos por dia são necessários para neutralizar os riscos do sedentarismo? O que diz a ciência&nbsp;&nbsp;Época Negócios",
       "sources": [
         {
           "name": "Época Negócios",
@@ -90,22 +138,10 @@
       ]
     },
     {
-      "id": "428b601ed283",
-      "title": "Quantos puns um adulto saudável solta por dia? - G1",
-      "published": "2026-06-18T12:08:31+00:00",
-      "summary": "Quantos puns um adulto saudável solta por dia?&nbsp;&nbsp;G1Gases, dor e intestino preso juntos podem apontar para alteração de microbiota pouco lembrada&nbsp;&nbsp;Tua SaúdeCom que frequência as pessoas soltam gases? Aplicativo mostra a quantidade global&nbsp;&nbsp;Folha PEO que seus gases estão tentando dizer sobre sua saúde&nbsp;&nbsp;Jornal CorreioQuantos puns por dia são normais? Estudo com 6.000 pessoas revela número ideal&nbsp;&nbsp;R7",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd3hTQUYyZERTbGhleUtmbVNrMjBJN0Vibk1tMzZJMy1UQjVJUzNSVGFfUk9adVhjV1pUZHhrUGhZakktXy1xdFZySWtFMHhmSmVGVHN5OEJ1aFk5a3lvZmQyTlNaVVVFMTI5dUFSUzFzTzNublJhTWRCU1NMWWJpVTJ4MU14ZjU3VVJJekIyU3Q2aWFUUzBIOGxDc1Z3cV90eVZ2LXlR0gG0AUFVX3lxTFBzVHNSdGNYaXR3aldZOFRqWnBpeVpaQ0RMRlc0U0Z4VVFhTXloaVpFdko5dURGaURiRmdPYVE1NkRnNmt1ZTVhMGd5LTNDVTY5VWNxWUdjcllwUVJPTi1rZk1fR0lCbjk5aUtpOVh2cm5VSUVaNVZyQXlsaF82YlVpU0EtUFR3Ym85THNUYk5Wc091cE5ISVhmZXlNX2Jld09PejR3T2k0UFJKQUZJdGdtbDRyaQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "95ad22fd1d98",
       "title": "Peste surgiu há 5.500 anos e já era altamente letal, mostra estudo - Correio Braziliense",
       "published": "2026-06-18T09:12:00+00:00",
-      "summary": "Peste surgiu há 5.500 anos e já era altamente letal, mostra estudo&nbsp;&nbsp;Correio BrazilienseEvidência mais antiga de morte por peste é encontrada na Sibéria&nbsp;&nbsp;GloboPrimeira epidemia de peste ocorreu há 5.500 anos e dizimou crianças, diz estudo&nbsp;&nbsp;Folha de S.PauloPrimeiro surto de peste foi há 5.500 anos, na Sibéria, diz novo estudo&nbsp;&nbsp;Folha PEA doença mais temida da história é ainda mais antiga do que você pensa&nbsp;&nbsp;Exame",
+      "summary": "Peste surgiu há 5.500 anos e já era altamente letal, mostra estudo&nbsp;&nbsp;Correio BraziliensePrimeira epidemia de peste ocorreu há 5.500 anos e dizimou crianças, diz estudo&nbsp;&nbsp;Folha de S.PauloEvidência mais antiga de morte por peste é encontrada na Sibéria&nbsp;&nbsp;GloboPrimeiro surto de peste foi há 5.500 anos, na Sibéria, diz novo estudo&nbsp;&nbsp;Folha PEA doença mais temida da história é ainda mais antiga do que você pensa&nbsp;&nbsp;Exame",
       "sources": [
         {
           "name": "Correio Braziliense",
@@ -117,7 +153,7 @@
       "id": "19479f77ba8a",
       "title": "Este mineral não costuma entrar no radar das pessoas, mas deveria; entenda por que e onde achá-lo - Estadão",
       "published": "2026-06-18T08:47:32+00:00",
-      "summary": "Este mineral não costuma entrar no radar das pessoas, mas deveria; entenda por que e onde achá-lo&nbsp;&nbsp;EstadãoSal comum ou sal com potássio: a mudança que entrou nas novas recomendações para pressão alta&nbsp;&nbsp;Tua SaúdeA pressão alta não se deve apenas ao excesso de sal, mas sim ao baixo consumo diário de potássio que controla o sódio também presente dentro das células musculares&nbsp;&nbsp;Tua SaúdeO sal “mais leve” que entrou na recomendação da OMS — e quem precisa evitar por causa ",
+      "summary": "Este mineral não costuma entrar no radar das pessoas, mas deveria; entenda por que e onde achá-lo&nbsp;&nbsp;EstadãoSal comum ou sal com potássio: a mudança que entrou nas novas recomendações para pressão alta&nbsp;&nbsp;Tua SaúdeA pressão alta não se deve apenas ao excesso de sal, mas sim ao baixo consumo diário de potássio que controla o sódio também presente dentro das células musculares&nbsp;&nbsp;Tua SaúdePressão alta não depende só do sal: o papel do potássio no equilíbrio da dieta&nbsp;&n",
       "sources": [
         {
           "name": "Estadão",
@@ -129,7 +165,7 @@
       "id": "9ced613ad3e1",
       "title": "\"Eu não sentia absolutamente nada\": biólogo de 43 anos descobriu câncer silencioso durante exame de rotina - Terra",
       "published": "2026-06-18T07:59:00+00:00",
-      "summary": "\"Eu não sentia absolutamente nada\": biólogo de 43 anos descobriu câncer silencioso durante exame de rotina&nbsp;&nbsp;TerraCâncer de rim: médico alerta sobre alterações urinárias&nbsp;&nbsp;G1Silencioso, câncer de rim mata 10 pessoas por dia no Brasil&nbsp;&nbsp;UOLCâncer de rim pode crescer 80% até 2050: saiba por que a maioria descobre o tumor ‘por acaso’&nbsp;&nbsp;O TEMPOTumor renal pode evoluir sem sintomas; especialistas alertam para diagnóstico precoce&nbsp;&nbsp;Jornal Opção",
+      "summary": "\"Eu não sentia absolutamente nada\": biólogo de 43 anos descobriu câncer silencioso durante exame de rotina&nbsp;&nbsp;TerraSilencioso, câncer de rim mata 10 pessoas por dia no Brasil&nbsp;&nbsp;UOLCâncer de rim: médico alerta sobre alterações urinárias&nbsp;&nbsp;G1A doença silenciosa que pode ficar anos sem sintomas e atingir um órgão vital&nbsp;&nbsp;Jornal CorreioCâncer de rim pode não dar sinais no início&nbsp;&nbsp;Diário Gaúcho",
       "sources": [
         {
           "name": "Terra",
@@ -141,7 +177,7 @@
       "id": "e189c088214c",
       "title": "Quem come mais arroz e feijão reduz o consumo de ultraprocessados, gordura e açúcar em 45%, mostra estudo da USP - O Globo",
       "published": "2026-06-18T07:30:34+00:00",
-      "summary": "Quem come mais arroz e feijão reduz o consumo de ultraprocessados, gordura e açúcar em 45%, mostra estudo da USP&nbsp;&nbsp;O GloboSegundo os especialistas e estudos, arroz com ovo e feijão garante igualmente os mesmos benefícios proteicos saudáveis que a carne vermelha&nbsp;&nbsp;Tua SaúdePor que arroz e feijão continuam no centro da alimentação e o que isso representa para o setor&nbsp;&nbsp;Folha VitóriaArroz com feijão é proteína completa? A explicação simples sobre aminoácidos no prato bras",
+      "summary": "Quem come mais arroz e feijão reduz o consumo de ultraprocessados, gordura e açúcar em 45%, mostra estudo da USP&nbsp;&nbsp;O GloboSegundo os especialistas e estudos, arroz com ovo e feijão garante igualmente os mesmos benefícios proteicos saudáveis que a carne vermelha&nbsp;&nbsp;Tua SaúdePor que arroz e feijão continuam no centro da alimentação e o que isso representa para o setor&nbsp;&nbsp;Folha Vitória",
       "sources": [
         {
           "name": "O Globo",
@@ -162,62 +198,26 @@
       ]
     },
     {
-      "id": "c6a5022f81f5",
-      "title": "Por que o calor provoca cãibras musculares severas, mesmo sem esforço físico? - Tua Saúde",
-      "published": "2026-06-18T01:00:00+00:00",
-      "summary": "Por que o calor provoca cãibras musculares severas, mesmo sem esforço físico?&nbsp;&nbsp;Tua Saúde",
+      "id": "44c86e6cf20a",
+      "title": "Fumaça do cigarro chega até na bexiga e expõe todo o corpo a doenças - Metrópoles",
+      "published": "2026-06-18T05:00:00+00:00",
+      "summary": "Fumaça do cigarro chega até na bexiga e expõe todo o corpo a doenças&nbsp;&nbsp;MetrópolesTabagismo segue entre os maiores fatores de risco para câncer&nbsp;&nbsp;G1Em resposta ao Dia Mundial Sem Tabaco, em 31 de maio de 2026, e à Semana Nacional Sem Tabaco, de 25 a 31 de maio de 2026.&nbsp;&nbsp;Vietnam.vnSaúde de Jaguariúna promove ações sobre o Dia Mundial sem Tabaco nas UBSs&nbsp;&nbsp;Estrela da MogianaTabagismo é a maior ameaça à saúde pública e precisa ser mais combatido&nbsp;&nbsp;AMB - ",
       "sources": [
         {
-          "name": "Tua Saúde",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbEN4M3RCc0lDY200Wk8tbG1GQ1Y4QTUwbzVHTmlibmRCenVZWGlyVmZvVzRWTE9mN0hPbkpHZnRjc2hHYmkzajZyYlFobWxjZ0hYS2Y2Ry15U3pmdXdTTFBtQ2lBNmRKQlJPQXJNaVBic3hhYmtidG5UbXdFY3F3VEdwSzRyUjRuc1NzTkxTZkltZmczZ0tNS2xGUlpWTUZzX0txXzVid0FjV1Y3T05NVlF5dy1JQVBI?oc=5"
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5VbllWeVdDeVhObUFRUk5NU3ZaQkU5UURnNWh4a0l6RXBtcS1SRjZqcWRvZm5IRHV5MGpIb3ZkVXJNaEpUbEFnbWdHR2hMc1FYQ0tLWFgxaHhESEo2bk9SOTRyRV9Cdk1uRVlVMmJaWVZZRE91U3BIU1p3?oc=5"
         }
       ]
     },
     {
-      "id": "d0e061f62174",
-      "title": "Juiz aposentado Edinaldo Muniz é transferido para centro de referência em neurocirurgia em SP - ac24horas",
-      "published": "2026-06-18T00:57:58+00:00",
-      "summary": "Juiz aposentado Edinaldo Muniz é transferido para centro de referência em neurocirurgia em SP&nbsp;&nbsp;ac24horas",
+      "id": "ab9ef5508f96",
+      "title": "Semaglutida e tirzepatida passam a ser recomendadas como primeira opção no tratamento medicamentoso - cff.org.br",
+      "published": "2026-06-17T22:07:36+00:00",
+      "summary": "Semaglutida e tirzepatida passam a ser recomendadas como primeira opção no tratamento medicamentoso&nbsp;&nbsp;cff.org.brCanetas emagrecedoras avançam no tratamento da obesidade&nbsp;&nbsp;G1Semaglutida e tirzepatida ganham prioridade no tratamento de obesidade&nbsp;&nbsp;R7Retatrutida é eficaz para perda de peso, aponta estudo&nbsp;&nbsp;MSNGLP-1 para obesidade: a nova diretriz global da OMS e o alerta para não tratar caneta como solução isolada&nbsp;&nbsp;Tua Saúde",
       "sources": [
         {
-          "name": "ac24horas",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSnZkUUdUN3RZZWx0c2IwNGYxV3hHTUlDNVE2amhLVnhoN0c4bEN5S3cySi13T1QybzVfOW56VGNCaUFfVTJuSnVPMWlmV2xuNV9FcUJOSGtMWXRtZHpnUFlCbHV5ZFpUMjNKRzBvWFZ6TzJVZlpGNXpUYXNVbFctazQ0Z2JtMlg5bFRvampnTjlrenpMTFByM0dWeHNhb0JWWjZ3R1N4TW01bnBsc0VIZndYeGNfcnVhUm1RSFBOV21OVVBfcEHSAcsBQVVfeXFMT1pqWkdJV2pXXzRybVNlTWZQNXVKLUJ2emQyWUZPNFRhaDJvSWVRUkVRRFowWUctU0lkay15MG1TU1BuOUFjbFJ3NUExbU5Bd1gzbVBzZjJWaWQxbVlvZnZIYkJBampOTml3YklpOXNWUGJsaFcxcE9RRG1mamRZZlJMVEhneWg3OUY2Zzl0T3I4N0h1eUNPTklEX2Z5TGJHZnl0M3dMU0ViYUY0cmVueGpaTThMT3RLcTQ2bl93UHp2cFA5aHM5Wk5DYlE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1f4c4389bd5f",
-      "title": "Depois dos 40, o hábito que mais protege o coração não é só dieta: estudos reforçam o papel da atividade física regular - Tua Saúde",
-      "published": "2026-06-17T22:30:00+00:00",
-      "summary": "Depois dos 40, o hábito que mais protege o coração não é só dieta: estudos reforçam o papel da atividade física regular&nbsp;&nbsp;Tua Saúde",
-      "sources": [
-        {
-          "name": "Tua Saúde",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPaXFENlJoeEpxWXBIUURCMTYxZ0VWd3FFR2o4X1ViU0s0SHU3WlVuTy1pcU0yWDdfa21OeXZjMUJ6eTZEZEFCaG5adHNPVzBqTGREOWM0X1RyT2NTeDdLdkE5c1F2cXktazNXYWhJUUt0bm9VQzYxYTRKOHJFZkpMb19fN0FRNUhhcVFteUdBY3UtTGhsX0M2bWIyUXN2cm1FUkprVmJub3p1am1MQ2ZfU05vOTFEeUZOalNlMEdBSmg5SWRpY1NFUWg1bW9xSVM4VFJZbDA5b0JKOEZtS1VobUh5RnlZTnM3dDllSjFySVI?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "357670770af0",
-      "title": "Segundo a ciência, por que você nunca deve usar ímãs na geladeira e quais os riscos - Rádio Itatiaia",
-      "published": "2026-06-17T21:21:39+00:00",
-      "summary": "Segundo a ciência, por que você nunca deve usar ímãs na geladeira e quais os riscos&nbsp;&nbsp;Rádio Itatiaia",
-      "sources": [
-        {
-          "name": "Rádio Itatiaia",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQjJaSDRxS2ZlcktxVUpyQnpCSjVRNlVqTUdNUExyT214VVIyaHo4dDVzOVpWNmFlOXFmMDdEOTcxR2E4YmJzTW1ESG9Fb2NiQkEzOGd1bFctaTNZaXhqSlJGOWRxdlFCd2lSQWNXTFJDZ1N4V0s3cWZTeTk1Nm5tNURvMThkODVDUGN1ZFBXcUNOc3RaX3NraHhJN2plSW9ZSV9FOG5XU1djdi1VRmVZQWZFcnVXaFY3emc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f87c01d7704e",
-      "title": "Maior escorpião que já vagou na Terra chegava a 1 m de comprimento - Folha de S.Paulo",
-      "published": "2026-06-17T21:14:00+00:00",
-      "summary": "Maior escorpião que já vagou na Terra chegava a 1 m de comprimento&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMkg2ME5yaTF5V3JkNU1EcFdUVzZiVDZUTXZPQm1LOU1FUVN3Zzk5U3RONGZOSkJCUkkzck1PUGJfWTBWN2kwX0dER2w1NEJHdDVsb01TQVcxMmZkQ2l0OGNncDRKaFFDVGJJLWdQRGo5OVliN3p4bkZmbG9hNnN6cXdiWlFuSExqWDJtUUYtQWxjamF4UFU2NHRVYWIyN01HUUYwU0RuMDFkaVpzeWVCNXpmWWdqYVc5dEE?oc=5"
+          "name": "cff.org.br",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbFlad3h3LWxDRHVhVmdVQUJLQjAtWHZsNDdZU1ZKOGYxTjdrdlQ3MnlqQmZEcXp5NFpwTEtwRFU1eEZJc2NjZm5JZjJrQldiQlc2eEdQTEFFYjNyQm5OWFRjbU12b2EzdXB3RmJ1Wmo0OHRUTWp4c2ZfYkNrdVJScTJQa3RadEpIbU9jR2xhNWVhMFpZa3dFREEwRllmV1NBdnZHckVneWJzWkZFZmRCU3NKRzRYZTliWVJsX2RkNlZoOVR3U2ZwNlpsYmVNRnBlVHpPWk82NTctQWpqOVdSSTA2WXVnTjV6ci1nT2I5RQ?oc=5"
         }
       ]
     },
@@ -230,54 +230,6 @@
         {
           "name": "Superinteressante",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOGRUVlU4ZW5WdEx5eU1yRFRyRmhCQzRrbTdzVWkxVzIwVzFYTTM5SFI3X0tVcDNuVUctaGNEV29xSW5vbWpOenVhSVQ0aEptblBEUUNla2NNZzZtQ0o4ZlpwSEN6VUozSWEwenJKbjlLTTRULVVvd1pNSDIzNnF6X1pfZjJhb1pTbkNSZF82NlBWbFY2ekdvTl9YYzVlUU9rNW5KU3BwTm5XaS1kbDNKREpfVHBna1Y3TGJQc1FoZFJtbDZza1BVY0liRDVNR0xhR1E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bacd553baa92",
-      "title": "Depois dos 60, o cuidado que mais protege a memória não é só palavra-cruzada: pesquisas reforçam o papel da atividade física - Tua Saúde",
-      "published": "2026-06-17T20:30:00+00:00",
-      "summary": "Depois dos 60, o cuidado que mais protege a memória não é só palavra-cruzada: pesquisas reforçam o papel da atividade física&nbsp;&nbsp;Tua Saúde",
-      "sources": [
-        {
-          "name": "Tua Saúde",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPTTdqY1dLTU1uNVlidFcwT24zaDlNUmRMMmwtc1NaSkI4LWlzcE5XY2NoUGpBS09DMHVDaVo2YjBhTFFqbjlOTmJKNGd3SEtoQ2NNT3o1WDRlOGh4Vms1ZVZYR2JWSlJIYW5sa2ZDTXZVQ2ltZGl0anhLSExYdFdlMmsyT3NyUGNmdWJFTmd5S3l3ZE9odUI3ZGxnUklhdXhmN2R3WmpEVHpHM3U1dTNhNUMtbklxcVc0Rml4aGxuWDkzTXZYVVY1Mldna3hZNTdScGRCcUlFRVR2NDloMXVjQ1RyOEVkN0RwS1NCS25JeThqVUZobTF3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5ef65ee94d0d",
-      "title": "Vacina contra pneumonia e meningite está disponível nos postos de saúde de Fortaleza - G1",
-      "published": "2026-06-17T19:08:13+00:00",
-      "summary": "Vacina contra pneumonia e meningite está disponível nos postos de saúde de Fortaleza&nbsp;&nbsp;G1Prefeitura de SP inicia vacinação de crianças com a pneumocócica 20-valente neste sábado&nbsp;&nbsp;G1Pneumo 20: SUS de Alagoas passa a oferecer nova vacina&nbsp;&nbsp;G1Vacina pneumocócica 20 está disponível nas unidades de saúde do DF&nbsp;&nbsp;R7Vacina pneumocócica é disponibilizada em todas as UBSs&nbsp;&nbsp;Correio Braziliense",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMWR4R01DekptN0hhaElVaW52UEUwbVRTZnREanlZQWZPWG5EN3B4RTlKdF9MYjVoLWs2Q2lQNEtaazZpcVd3dG91ZFhRc3pZdUtXN2I0TEtuMmYtWTFjdmN5SkdzNVpZblV6U05teGRLTW5Uemtxd3YwVC1iSy1lSFR0d0daODR3Qk1iS2JEU0s4VENUVkJycldrbENRemU4T3k0UHpCSHpwTWNWYmlhcW56NFU0NHlkb0l6NUoxOGllQ09wQ01HN0xpMGF4NzNFa2lKRHVB0gHkAUFVX3lxTFBqRUxuejFITjhBTGlEeXhScDV0cF8xX1QtVGQzSFRISWZYU3BhcEVraTZQMHBmc0ppQmRaMlNaNHc2N0xuU09QMHM3aFZpcTdKeXFwZmp2bW9RQ3NYT2hWaF9kS2RfdlJwNWFIRVZ5NzFkeWRKTU9ZLWl6WDhrLWpBZ0tjQ29UOTBYT2ktdV9pTlA1bndZaHdCclI5anVGdWpGZ1FESHljSW5zdVJORmw5U3BQa2xLSlFUXzl2b1lEMHh2YnpZUTZFYVF4TkNja1BuTVI1c1JHOUNJYzdXekpvVHljeA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3aa6fdebf5b7",
-      "title": "Estas 6 atividades ajudam a manter o cérebro jovem por mais tempo - UOL",
-      "published": "2026-06-17T12:30:27+00:00",
-      "summary": "Estas 6 atividades ajudam a manter o cérebro jovem por mais tempo&nbsp;&nbsp;UOLDepois dos 60, o cuidado que mais protege a memória não é só palavra-cruzada: pesquisas reforçam o papel da atividade física&nbsp;&nbsp;Tua SaúdeEsses hábitos diários podem proteger o cérebro e reduzir o risco de demência&nbsp;&nbsp;Correio BrazilienseNunca é tarde: novo estudo revela que nosso cérebro pode melhorar até os 90 anos&nbsp;&nbsp;TerraFalta de atividade física pode acelerar a perda de memória, reduzir a c",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUXZORHNtTGxEaXFtQVRIZnMyMmhvNi10LXNjckplY2R3dEhRT0w1WlppVVdQZFdra1lSam1UNDhfN0RCdC1BODBjcnBlcG5mb3laOGhhd0M5RDZMRlc3bTZhMXpfSDU5V3hnbHJrZWNUM3ZZbjh6NlJIQ2ZEVlE5dkV1dGJQZFNzTXgzUHQzNG1Id21LV1VXQTA5WGNWOGtpU05RcTlHSkdiU290WWxleXM0MFI1ajF4VDlTYWN0aFNNTlVuWXJkV1hn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d366f2bfb49f",
-      "title": "Ela fez cirurgia do chip no cérebro acordada e controla tremor pelo celular - UOL",
-      "published": "2026-06-17T12:30:00+00:00",
-      "summary": "Ela fez cirurgia do chip no cérebro acordada e controla tremor pelo celular&nbsp;&nbsp;UOL",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdGFRdTZOa1I0V3RtaVVWUFJ0UXN4d3dqeFVfQ1JBNjR1cWg3NFJieHo0dmFRNVpDd0RNLUZVTEhWMnJUV1FjQWFpWlRsZG1uY1ZqbjBteHI1RzRDR2NHd1c2Vjh4OE9xTVpYOU15UmhVVmVjWDUxT2RiMkxjX2tZSi00SDYydk5uZk5sUl9FRlVvMDJXRF9CTUlaeVpzYkgza1ZHTjExYUZBOG5XM0Qwd0Q3cE1ObWpGUlFrUGFLVXhaNDR3bEF0akxlUkg?oc=5"
         }
       ]
     },
