@@ -1,9 +1,9 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-06-19T04:40:38.527225+00:00",
-  "total_fetched": 52,
-  "unique_count": 49,
-  "health_related_count": 20,
+  "fetched_at": "2026-06-19T10:40:16.421630+00:00",
+  "total_fetched": 53,
+  "unique_count": 50,
+  "health_related_count": 22,
   "news": [
     {
       "id": "cfa3bdcbe5db",
@@ -14,18 +14,6 @@
         {
           "name": "ICL Notícias",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY1BUMGN6TnNhT3luV2ZTWmZlLUtjbGs1X1BuWDBwLXVIQU9VMTdjM2o3RXczR0otamRZVS12TXVWTUtSQjFnQWFvdVZMUUNWMXZBZ3E3SFhRaVlzaDBUbHN2cWxKbDVIa0V5MkhWMlZoN0JfQ3dnZDhlRnItWThqWHVmYmItd2VQeW83VF9HdUxIWGQtZ3lQeDdRdlg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "eea41e92c91a",
-      "title": "São Paulo começa a aplicar vacina pneumocócica 20-valente em crianças - Folha de S.Paulo",
-      "published": "2026-06-18T22:45:00+00:00",
-      "summary": "São Paulo começa a aplicar vacina pneumocócica 20-valente em crianças&nbsp;&nbsp;Folha de S.PauloNova vacina contra meningite é ofertada nos postos de saúde de Fortaleza&nbsp;&nbsp;O POVOPneumo 20: SUS de Alagoas passa a oferecer nova vacina&nbsp;&nbsp;G1Vacina pneumocócica 20 está disponível nas unidades de saúde do DF&nbsp;&nbsp;R7Vacina pneumocócica é disponibilizada em todas as UBSs&nbsp;&nbsp;Correio Braziliense",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUnJ0bHFtMHNDNlMzSVNVNklVQkRuZEZScllrbUJ5b0ZYM1dCZzhSME43LWVXeWxnUXl0UmIxN3lPWTlqT0laclNraHBrbFV5RjlIaTFaQ3c2REhpd0oxczkxU1Y1OUpGRTFzdkFyUHhVY3BqRGYyTVFXTE4zekZvZnBxLXFqdGs3X1pfNFgtUnVYdXlFVHA3TWNUZFVELTZxeDJjZDlZMmRXdHROTjBxZi16ZldwYkgzSFYtVXV1UjhKM3dTUEpMckhB?oc=5"
         }
       ]
     },
@@ -54,14 +42,26 @@
       ]
     },
     {
-      "id": "638fd98fdb40",
-      "title": "Pagamento de bolsas - Nota do CNPq — Conselho Nacional de Desenvolvimento Científico e Tecnológico - www.gov.br",
+      "id": "6d0b716d5a38",
+      "title": "Pagamento de bolsas - Nota do CNPq — Conselho Nacional de Desenvolvimento Científico e Tecnológico - GOV.BR",
       "published": "2026-06-18T18:03:15+00:00",
-      "summary": "Pagamento de bolsas - Nota do CNPq — Conselho Nacional de Desenvolvimento Científico e Tecnológico&nbsp;&nbsp;www.gov.br",
+      "summary": "Pagamento de bolsas - Nota do CNPq — Conselho Nacional de Desenvolvimento Científico e Tecnológico&nbsp;&nbsp;GOV.BR",
       "sources": [
         {
-          "name": "www.gov.br",
+          "name": "GOV.BR",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNEFSajc4Vk44aXFFX3JIT0Y0SDd4UnBFWGphNTcwNTI4TFBpQlNkMkgyYmFoT09fZGlob1BsYm1lcS0waE9sUjEwREh1ejY1Qno0RzgwSGFGMFdOYUl4VmE0SG8yRC1sUm1LbThIRWpwZDBFYVBWZFlmNFpIVmRsYmdROXNIWnBiT0FuNERka0pUeTEycE9j?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d250ad81d243",
+      "title": "Prefeitura de SP inicia vacinação de crianças com a pneumocócica 20-valente neste sábado - G1",
+      "published": "2026-06-18T17:37:00+00:00",
+      "summary": "Prefeitura de SP inicia vacinação de crianças com a pneumocócica 20-valente neste sábado&nbsp;&nbsp;G1São Paulo começa a aplicar vacina pneumocócica 20-valente em crianças&nbsp;&nbsp;Folha de S.PauloPneumo 20: SUS de Alagoas passa a oferecer nova vacina&nbsp;&nbsp;G1Nova vacina contra meningite é ofertada nos postos de saúde de Fortaleza&nbsp;&nbsp;O POVOVacina pneumocócica 20 está disponível nas unidades de saúde do DF&nbsp;&nbsp;R7",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPLVNwaUtsYzZrVTlKdGJJSmxWcTVsMzVMMms0ejNEeWk4c0ZWNkR6dS0yclUyaVhaRkRFbVloVzU5d1V6bkg1NjFKTlExTWQxQ19xUmFtM0ZmT01tSWFvWjIxWC05bndVYjMzZ050cjBxM3BoT2dKM1NDN05KbUlVbUhqT2FvRGl4YWthWVZzLWc0WkNkeVdDc3JCb0E2ZXlnbXVfZ1FmVU94TTRFU0d2YWdyMzcwQUZEZ3hMaG1VdGkwTnNXQTJzd0psWWt5cFYzSDZKVHVtbXZuUnpGdHk2UNIB7wFBVV95cUxPVmF0VTlFT2JYYjlBTTZWdGo0RHMySFVYZVE5SW5LLXJyV1dXVHk2clhrQ2F2RUwzcEJhV3k3bkxhZm1sY1lBMVNZWjl3VmpmMTVsbHMxMzFQSzNFUzhxM1dTWUpScFMwUDUzVEI2VjdZbGFGOXRvUTMyc1dZcl9zSk0tMFg3QnBseVVBbXg1ckRDaEF6UHRqUjNodWV5WkdxV24ySEJUXzBMY1F1LWlfeENleGhUNENVaU9KcUNWQ2NKMjFXVE93QWtfeS1rZWx4bXhLUFViejdLY1lCSGg0UnM5SXQydGhrT0VQZGFlVQ?oc=5"
         }
       ]
     },
@@ -93,7 +93,7 @@
       "id": "af71b3ce07ca",
       "title": "Drauzio diz que redes sociais ajudam a espalhar fake news sobre saúde - UOL",
       "published": "2026-06-18T14:57:00+00:00",
-      "summary": "Drauzio diz que redes sociais ajudam a espalhar fake news sobre saúde&nbsp;&nbsp;UOLPulso: confira os destaques do primeiro evento de saúde do Portal Drauzio&nbsp;&nbsp;Portal Drauzio VarellaUOL e Drauzio Varella debatem dignidade menstrual e raça&nbsp;&nbsp;Mundo NegroPulso: Drauzio Varella e UOL se unem em evento sobre saúde e bem-estar&nbsp;&nbsp;UOL Economia",
+      "summary": "Drauzio diz que redes sociais ajudam a espalhar fake news sobre saúde&nbsp;&nbsp;UOLVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
           "name": "UOL",
@@ -117,7 +117,7 @@
       "id": "e7c08c902601",
       "title": "Mortes por câncer de colo do útero caem a zero entre jovens vacinadas na Inglaterra - UOL",
       "published": "2026-06-18T14:26:09+00:00",
-      "summary": "Mortes por câncer de colo do útero caem a zero entre jovens vacinadas na Inglaterra&nbsp;&nbsp;UOLVacina contra HPV zera mortes por câncer de colo do útero em jovens na Inglaterra&nbsp;&nbsp;G1Vacina contra HPV reduz mortes de jovens por câncer do colo do útero na Inglaterra&nbsp;&nbsp;Folha de S.PauloReino Unido. Mortes por cancro do colo do útero descem para zero em jovens vacinadas contra HPV&nbsp;&nbsp;RTPInglaterra zera mortes de jovens por câncer de colo do útero com vacina contra HPV&nbsp",
+      "summary": "Mortes por câncer de colo do útero caem a zero entre jovens vacinadas na Inglaterra&nbsp;&nbsp;UOLVacina contra HPV zera mortes em jovens na Inglaterra - 18/06/2026 - Equilíbrio e Saúde&nbsp;&nbsp;Folha de S.PauloVacina contra HPV zera mortes por câncer de colo do útero em jovens na Inglaterra&nbsp;&nbsp;G1Reino Unido. Mortes por cancro do colo do útero descem para zero em jovens vacinadas contra HPV&nbsp;&nbsp;RTPInglaterra zera mortes de jovens por câncer de colo do útero com vacina contra HPV",
       "sources": [
         {
           "name": "UOL",
@@ -150,26 +150,14 @@
       ]
     },
     {
-      "id": "19479f77ba8a",
-      "title": "Este mineral não costuma entrar no radar das pessoas, mas deveria; entenda por que e onde achá-lo - Estadão",
-      "published": "2026-06-18T08:47:32+00:00",
-      "summary": "Este mineral não costuma entrar no radar das pessoas, mas deveria; entenda por que e onde achá-lo&nbsp;&nbsp;EstadãoSal comum ou sal com potássio: a mudança que entrou nas novas recomendações para pressão alta&nbsp;&nbsp;Tua SaúdeA pressão alta não se deve apenas ao excesso de sal, mas sim ao baixo consumo diário de potássio que controla o sódio também presente dentro das células musculares&nbsp;&nbsp;Tua SaúdePressão alta não depende só do sal: o papel do potássio no equilíbrio da dieta&nbsp;&n",
+      "id": "b057354ec86a",
+      "title": "Silencioso, câncer de rim mata 10 pessoas por dia no Brasil - UOL",
+      "published": "2026-06-18T08:30:00+00:00",
+      "summary": "Silencioso, câncer de rim mata 10 pessoas por dia no Brasil&nbsp;&nbsp;UOLCâncer de rim: médico alerta sobre alterações urinárias&nbsp;&nbsp;G1A doença silenciosa que pode ficar anos sem sintomas e atingir um órgão vital&nbsp;&nbsp;Jornal CorreioTumor renal pode evoluir sem sintomas; especialistas alertam para diagnóstico precoce&nbsp;&nbsp;Jornal OpçãoCâncer de rim pode não dar sinais no início&nbsp;&nbsp;Diário Gaúcho",
       "sources": [
         {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUGU5T2JPWG9tX3J0TVZiRW9lNWc4MGtFVVI3cWJPTlhsSkNhb04xNnJjcUhnbVJlQTBKNlI2bzVYaFBlT2pMbkFEMG5fZDJRaVJWZ1UydzNEd3F6SzliWjJ3SUJ5U18tNkM2Z0hpVmlreEtabkZFMVF6N1NNNGFOVEpnSkNtT2RpYVA4NWxnNFlCS0pEeEw4OEZIYWwwakhHYmRxb2FRem01b2RRcm1DcDQ0dzlubkhMcDVzM1NtekhwNmVRS29uazJwMHY5SE9CaFp3RQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9ced613ad3e1",
-      "title": "\"Eu não sentia absolutamente nada\": biólogo de 43 anos descobriu câncer silencioso durante exame de rotina - Terra",
-      "published": "2026-06-18T07:59:00+00:00",
-      "summary": "\"Eu não sentia absolutamente nada\": biólogo de 43 anos descobriu câncer silencioso durante exame de rotina&nbsp;&nbsp;TerraSilencioso, câncer de rim mata 10 pessoas por dia no Brasil&nbsp;&nbsp;UOLCâncer de rim: médico alerta sobre alterações urinárias&nbsp;&nbsp;G1A doença silenciosa que pode ficar anos sem sintomas e atingir um órgão vital&nbsp;&nbsp;Jornal CorreioCâncer de rim pode não dar sinais no início&nbsp;&nbsp;Diário Gaúcho",
-      "sources": [
-        {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNV1NDVEZqdGs3Q0xiUEJvcnhzSkVzRmhNOWcyQ0Z3MUdSSUlTRnZVSjB0cFpsU01XeEFxa1hzOExIX2lTTmxLSzBQekFybGdMYkxMYkF0UmJDNk5FV3V6YjA4SVExMzNfTGg5U1p0YklmREpLdGtRS3ZYb0ctTzduUFVkc3ROVWNhUGF5djZSTThGLXVnbUoyMXlIdUxJQ3hJYS14dlB6YmRLMHY5ZlY5YW56Q1BlczBvR3lUTHdld3hCVWJENnFZNFZmRTFOWHZFbjhneUlJbC02MmxTQ2Y3dDk4Tk5oRjhJWTd4YWNHVktYb3ZhSkRFZjBQOUQxZ3NieUhaOS1GUl90VWllVG9UZEJJTkFYNUVrNnRoeWpXWQ?oc=5"
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSmE5dHZ4NDhmU21ybmJjemZjUURxZ190dGI4Y18tekZKNG1lU0J3VTNmbGoyYnYtaHhRUDl3NVNkQVBfZFE3SlJhWV9NWXVOeFplUHhOTThDNWhJNWhJTWhsUEdpb3dENWlXbHVPazZ4LTBCb0YxQXNtTFFiaGtPaHlCWDFkdGdYRDc1MEZWalFBUnpueHptYWxqY2U2bWNqS3VZbC1UMkxzOHdjQkYtNjBmeGhSbE80Tmp4ZmE0Yw?oc=5"
         }
       ]
     },
@@ -177,7 +165,7 @@
       "id": "e189c088214c",
       "title": "Quem come mais arroz e feijão reduz o consumo de ultraprocessados, gordura e açúcar em 45%, mostra estudo da USP - O Globo",
       "published": "2026-06-18T07:30:34+00:00",
-      "summary": "Quem come mais arroz e feijão reduz o consumo de ultraprocessados, gordura e açúcar em 45%, mostra estudo da USP&nbsp;&nbsp;O GloboSegundo os especialistas e estudos, arroz com ovo e feijão garante igualmente os mesmos benefícios proteicos saudáveis que a carne vermelha&nbsp;&nbsp;Tua SaúdePor que arroz e feijão continuam no centro da alimentação e o que isso representa para o setor&nbsp;&nbsp;Folha Vitória",
+      "summary": "Quem come mais arroz e feijão reduz o consumo de ultraprocessados, gordura e açúcar em 45%, mostra estudo da USP&nbsp;&nbsp;O GloboSegundo os especialistas e estudos, arroz com ovo e feijão garante igualmente os mesmos benefícios proteicos saudáveis que a carne vermelha&nbsp;&nbsp;Tua SaúdePor que arroz e feijão continuam no centro da alimentação e o que isso representa para o setor&nbsp;&nbsp;Folha VitóriaArroz com feijão é proteína completa? A explicação simples sobre aminoácidos no prato bras",
       "sources": [
         {
           "name": "O Globo",
@@ -201,7 +189,7 @@
       "id": "44c86e6cf20a",
       "title": "Fumaça do cigarro chega até na bexiga e expõe todo o corpo a doenças - Metrópoles",
       "published": "2026-06-18T05:00:00+00:00",
-      "summary": "Fumaça do cigarro chega até na bexiga e expõe todo o corpo a doenças&nbsp;&nbsp;MetrópolesTabagismo segue entre os maiores fatores de risco para câncer&nbsp;&nbsp;G1Em resposta ao Dia Mundial Sem Tabaco, em 31 de maio de 2026, e à Semana Nacional Sem Tabaco, de 25 a 31 de maio de 2026.&nbsp;&nbsp;Vietnam.vnSaúde de Jaguariúna promove ações sobre o Dia Mundial sem Tabaco nas UBSs&nbsp;&nbsp;Estrela da MogianaTabagismo é a maior ameaça à saúde pública e precisa ser mais combatido&nbsp;&nbsp;AMB - ",
+      "summary": "Fumaça do cigarro chega até na bexiga e expõe todo o corpo a doenças&nbsp;&nbsp;MetrópolesTabagismo segue entre os maiores fatores de risco para câncer&nbsp;&nbsp;G1Em resposta ao Dia Mundial Sem Tabaco, em 31 de maio de 2026, e à Semana Nacional Sem Tabaco, de 25 a 31 de maio de 2026.&nbsp;&nbsp;Vietnam.vnGrupo de apoio no combate ao tabagismo promove atividades no HU-UFSC&nbsp;&nbsp;GOV.BRSaúde de Jaguariúna promove ações sobre o Dia Mundial sem Tabaco nas UBSs&nbsp;&nbsp;Estrela da Mogiana",
       "sources": [
         {
           "name": "Metrópoles",
@@ -210,10 +198,34 @@
       ]
     },
     {
+      "id": "5754fb1fe6ee",
+      "title": "Bebê de 2 meses diz \"I love you\" para os pais e o vídeo paralisou a internet: médicos dizem que a maioria dos bebês só fala após o primeiro ano de vida - CPG Click Petróleo e Gás",
+      "published": "2026-06-18T04:51:00+00:00",
+      "summary": "Bebê de 2 meses diz \"I love you\" para os pais e o vídeo paralisou a internet: médicos dizem que a maioria dos bebês só fala após o primeiro ano de vida&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPa01VLUpuRGVxS3VKdHhtdC1lQm12b2EzR2t5OVhsaTR5eXNseVVTYldFWlNUUTBJX2ZkNVBKM0ZhUkpNUWNWTDhBOXR2N2NWY2QzdE1EajVIZm82MU9MRFhLa3FSeXBDZnpROVMtUE0zcE54Y0JFUndheEk3d04yR1gwd2g0QjU4MFZjQ0RzTG5xUExYdVVRaFI0dUJwVllIS2c2RDh4dzRZZEpWLTBoUkt2cDI0WmFXVlJzN0RxMWR5T3d5VklEb0NXUVd1aTNpRWtQSDVadkJ2OEtZTUxRRzlSeFVaTHJUSVVvQVZXT0hTT2c0eTVTNXRjWXRncnRtTlN6LWVXNUpJc3dCVl8yeGtrNmdhaHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d0e061f62174",
+      "title": "Juiz aposentado Edinaldo Muniz é transferido para centro de referência em neurocirurgia em SP - ac24horas",
+      "published": "2026-06-18T00:57:58+00:00",
+      "summary": "Juiz aposentado Edinaldo Muniz é transferido para centro de referência em neurocirurgia em SP&nbsp;&nbsp;ac24horas",
+      "sources": [
+        {
+          "name": "ac24horas",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSnZkUUdUN3RZZWx0c2IwNGYxV3hHTUlDNVE2amhLVnhoN0c4bEN5S3cySi13T1QybzVfOW56VGNCaUFfVTJuSnVPMWlmV2xuNV9FcUJOSGtMWXRtZHpnUFlCbHV5ZFpUMjNKRzBvWFZ6TzJVZlpGNXpUYXNVbFctazQ0Z2JtMlg5bFRvampnTjlrenpMTFByM0dWeHNhb0JWWjZ3R1N4TW01bnBsc0VIZndYeGNfcnVhUm1RSFBOV21OVVBfcEHSAcsBQVVfeXFMT1pqWkdJV2pXXzRybVNlTWZQNXVKLUJ2emQyWUZPNFRhaDJvSWVRUkVRRFowWUctU0lkay15MG1TU1BuOUFjbFJ3NUExbU5Bd1gzbVBzZjJWaWQxbVlvZnZIYkJBampOTml3YklpOXNWUGJsaFcxcE9RRG1mamRZZlJMVEhneWg3OUY2Zzl0T3I4N0h1eUNPTklEX2Z5TGJHZnl0M3dMU0ViYUY0cmVueGpaTThMT3RLcTQ2bl93UHp2cFA5aHM5Wk5DYlE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "ab9ef5508f96",
       "title": "Semaglutida e tirzepatida passam a ser recomendadas como primeira opção no tratamento medicamentoso - cff.org.br",
       "published": "2026-06-17T22:07:36+00:00",
-      "summary": "Semaglutida e tirzepatida passam a ser recomendadas como primeira opção no tratamento medicamentoso&nbsp;&nbsp;cff.org.brCanetas emagrecedoras avançam no tratamento da obesidade&nbsp;&nbsp;G1Semaglutida e tirzepatida ganham prioridade no tratamento de obesidade&nbsp;&nbsp;R7Retatrutida é eficaz para perda de peso, aponta estudo&nbsp;&nbsp;MSNGLP-1 para obesidade: a nova diretriz global da OMS e o alerta para não tratar caneta como solução isolada&nbsp;&nbsp;Tua Saúde",
+      "summary": "Semaglutida e tirzepatida passam a ser recomendadas como primeira opção no tratamento medicamentoso&nbsp;&nbsp;cff.org.brCanetas emagrecedoras levam empresas a rever o marketing&nbsp;&nbsp;Valor EconômicoCanetas de GLP‑1: potência, limites e o futuro do metabolismo humano&nbsp;&nbsp;O GloboQual o risco de usar caneta emagrecedora sem se exercitar?&nbsp;&nbsp;Assine AbrilDiretriz: semaglutida e tirzepatida são 1ª opção para tratar obesidade&nbsp;&nbsp;MSN",
       "sources": [
         {
           "name": "cff.org.br",
@@ -230,6 +242,18 @@
         {
           "name": "Superinteressante",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOGRUVlU4ZW5WdEx5eU1yRFRyRmhCQzRrbTdzVWkxVzIwVzFYTTM5SFI3X0tVcDNuVUctaGNEV29xSW5vbWpOenVhSVQ0aEptblBEUUNla2NNZzZtQ0o4ZlpwSEN6VUozSWEwenJKbjlLTTRULVVvd1pNSDIzNnF6X1pfZjJhb1pTbkNSZF82NlBWbFY2ekdvTl9YYzVlUU9rNW5KU3BwTm5XaS1kbDNKREpfVHBna1Y3TGJQc1FoZFJtbDZza1BVY0liRDVNR0xhR1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4e453b35ddbb",
+      "title": "Espécie de tubarão que anda em terra firme é descoberta perto da Austrália - UOL Notícias",
+      "published": "2026-06-17T16:21:12+00:00",
+      "summary": "Espécie de tubarão que anda em terra firme é descoberta perto da Austrália&nbsp;&nbsp;UOL Notícias",
+      "sources": [
+        {
+          "name": "UOL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZUEtaVBfN3pZZWZZazZlSTEyR29adDZhTndsMGdmcV9JQ3RMMkpZX0d1azdGenBnbGNYSFlWbk5tVmVWOTBaMmJtSHUteHZmVTFDdGlyZmJwOHdCQ3pNOUJBLTZJWkRienNCX3BBYzlEUHU0UVNfbUY1eHBzYU90eGZ1ZnBfb2hteWd2WkJsVnpNQUd2LTNVV0ZJYU1XLXk1NXZHUUN0MHJOQUpKMDhvU0l3SzBhd2tNOUhTZmV4MWo5OW53aUJnMWdrQjhhUmdXajZMZmtUaTJfU0hHSmRvX1FOUVE1OWpmOTRGc1BR?oc=5"
         }
       ]
     },
