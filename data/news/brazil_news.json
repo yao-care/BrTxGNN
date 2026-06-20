@@ -1,10 +1,22 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-06-20T03:54:31.292983+00:00",
-  "total_fetched": 77,
+  "fetched_at": "2026-06-20T09:18:52.704497+00:00",
+  "total_fetched": 76,
   "unique_count": 76,
-  "health_related_count": 22,
+  "health_related_count": 23,
   "news": [
+    {
+      "id": "e426a93a6aee",
+      "title": "Frio aumenta risco de infarto e AVC; entenda por que o inverno exige mais cuidados com o coração - G1",
+      "published": "2026-06-20T07:01:44+00:00",
+      "summary": "Frio aumenta risco de infarto e AVC; entenda por que o inverno exige mais cuidados com o coração&nbsp;&nbsp;G1Por que adoecemos mais no inverno? Entenda as causas e veja como se proteger&nbsp;&nbsp;CartaCapitalProcura por atendimento para doenças respiratórias cresce com chegada do inverno&nbsp;&nbsp;R7Inverno e saúde: 8 dicas de especialistas para evitar gripes e alergias&nbsp;&nbsp;Correio BrazilienseRisco de infarto e AVC aumenta em dias frios - 19/06/2026 - Saúde&nbsp;&nbsp;UOL",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbjJTTjV0amgyV1JtODlXTU9qUnlCTlo5Qy0za2FPdm5ZVk9HMGZvRGJGNm96RThmeHBXWnU2RGx6N0pLOS1mX01XMmp2eTFmQ1cyUWo0eDBNbzIxeUh2NFV6b3pRMlpENk14dE9NYWx3OFNKaDU5R09zcXlnVkFQZ00tekxBQjhmam1rbTN4RWprSmo1Z0NzMWxYSzJpMnFGSFJTX3FBNWdXRk9BdS1YUDFNdnF3TjdHZURlcnFMWmtrUzdhZl9scEpnbVcxZklMcFpvbnpvNXNNb3JUSGhKVdIB7wFBVV95cUxOcW12bDFrTEpFV2ltMDhYRnY4YUpxbm8yQnBFLTBYT0ZWMWRHcXRGMEVwTU5IdmVoNXh4aHZXQXZSQUhlV05tMU9vVzJFaFlBNnM4X0dQMTBXUEozaFd4WFVpa19KSTdScUJOQVpueEVDVkk2UnRVWVQ5NVFZWDMzcHBXX0JMcWZFM3gyOFhyWFFPS3NYQ3ZlenJxczlRaGVVblRRcnFuNEozeXVJWDg2NmNnMWNWLUVhNG9pRnlMcTh2ZzZqSjVlWmhNR1k4NC1ON1FxUUR0WDR6azdFeWNKdzVReUFmUmJ0Z0JuOFVxOA?oc=5"
+        }
+      ]
+    },
     {
       "id": "f131c0c48918",
       "title": "Escondida num laboratório secreto em Tóquio há mais de 25 anos, uma lente impossível feita de 2.500 microlentes que enxergavam como olhos de inseto prometia explodir a cabeça de quem assistia TV - CPG Click Petróleo e Gás",
@@ -14,6 +26,18 @@
         {
           "name": "CPG Click Petróleo e Gás",
           "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQZ19GcEhMMVBySWFQWjl1MG1VbWxWcWJLQVJwR0x2TmtNWWlobXZrNmdyR3JpcFVMZ1Z5YVowelgxZHlmajZNcTNGMXU0X3FrOG9tMXBRNGVtZklvc0JXZ3pJcDdxNzN2NnloUmhNLUZrVS1LWVlObUNoZGJBN25QajVScmoxWTYzcERuVWc1NS1xVE9WX1JQTFAtdzQ3UXE3MXFoSDBiTjFwSGRydUhEcTFPQ01jMjk2UHlMNDk3QlREb1NJbkliMVVMRDduSEgyLXFrbDRzWTg4cWhhNDNWX2w5NEVqUzE5T3ZTODl2SGJQNzJaUlJ4elowbTdlcDNNZkM0ZVdMN3FwMnZoMHZaVmhGOU0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "de99bd9b36ba",
+      "title": "Estudos mostram que a genética pode influenciar lesões em atletas - Folha de S.Paulo",
+      "published": "2026-06-19T18:42:00+00:00",
+      "summary": "Estudos mostram que a genética pode influenciar lesões em atletas&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcUNrTDVkbHhuOXhEenRCREdxY01mcXRqNm1YdUNpbDhmRmRieG1Gb2ZsdWZIaTlrdEFFUXh1cW9SY2FhZG5DaS1EYXlFQV8tZUMtSkNaaHV2LXNpZXMyX3hBRkwyWFNTNDBfT0d6Z0ZrTi1iYVBkdUoxdl9WMWl4ZTFuQWoxMktJelVYYy1KdUp6bzM3T09mbWxwTVZqUFFVX1p1UDBiSXdXV0ktVndCR3NwbnRLOGVPN3EtUy03dHVhajQ4?oc=5"
         }
       ]
     },
@@ -30,6 +54,18 @@
       ]
     },
     {
+      "id": "3ad243de2d20",
+      "title": "Londrina terá pontos de vacinação contra a gripe neste sábado; veja os locais - Tem Londrina",
+      "published": "2026-06-19T16:31:54+00:00",
+      "summary": "Londrina terá pontos de vacinação contra a gripe neste sábado; veja os locais&nbsp;&nbsp;Tem LondrinaLondrina realiza plantão de vacinação contra a gripe em shoppings e supermercados&nbsp;&nbsp;G1Vacina contra gripe estará disponível para o público geral em Maringá a partir de 29 de junho&nbsp;&nbsp;maringa.pr.gov.brSão José dos Pinhais libera vacinação contra gripe para toda a população&nbsp;&nbsp;Bem ParanáFiscalização integrada reforça segurança viária na BR-369 em Londrina&nbsp;&nbsp;Blog Lo",
+      "sources": [
+        {
+          "name": "Tem Londrina",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYjNUdk9wS3ZZYTBac2NIM09GOV9Lcmtwb1g1dWx6aEM2ZFlWT1hIOEJ0ZmZQT0tIeXRyX3AxQ0N3ck9PSk9HeXBoYlFEbS1NMlY0U0NLcmptQW95S0t0ekhVQjBfb1lYRkhPakZRYjV5N3JVN0s0aVhmdGNNYXVORGR1ekhRbnh2bkgyZTlPRUJHUExqLTg1VlRhRDNqTDJNSmh1aVdNX1BjczlBVjIw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "44384fb024b7",
       "title": "Onde tomar vacina para pneumonia em Fortaleza neste fim de semana? Veja locais - Diário do Nordeste",
       "published": "2026-06-19T14:05:42+00:00",
@@ -42,13 +78,37 @@
       ]
     },
     {
-      "id": "521e6cd78c90",
-      "title": "Primeiro vertebrado a conquistar ambiente terrestre não era como cientistas imaginavam - Globo.com",
-      "published": "2026-06-19T12:44:37+00:00",
-      "summary": "Primeiro vertebrado a conquistar ambiente terrestre não era como cientistas imaginavam&nbsp;&nbsp;Globo.com",
+      "id": "b2e4649fe934",
+      "title": "Ciência descobre dois tipos de autismo escondidos no cérebro e muda o futuro do diagnóstico - Terra",
+      "published": "2026-06-19T14:02:00+00:00",
+      "summary": "Ciência descobre dois tipos de autismo escondidos no cérebro e muda o futuro do diagnóstico&nbsp;&nbsp;Terra",
       "sources": [
         {
-          "name": "Globo.com",
+          "name": "Terra",
+          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNQXdZdUdMaEk3aF94bGlDaVg3S0oyX2hvWTNXc1p1MnI5R2xXVGt5UGgzN2pqaUNKLUNjdVUxV0JqaEsxRDNSYUZTOWEyODhOSjNQVFlxYjZxbTZGX1BKaVNSRk1vREFKWEtEYXl0TmlsQXNCdjBxWThndTg1MjRLbmJUT0tZdXpJMlF4aWFGdUQtVmtfdGpHSzB5TVdvMUpEa3BDQlp5dUl0VVBYSzZfSURvZDZmRVdRc3JKTUYxSVJCYTNyOWVRNjB3ems1aHFIQ1JXZEJyNlFsaEhGc2Q4ZG5pWWkwRkpoR2pUcEJxU0R3ZnplMm1VYXJoeDRHbG13WVp4RGFmMzF6Z3daUVM0eFZR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "24bf8d6127a6",
+      "title": "Teresina inicia vacinação com pneumo-20 na próxima segunda (22) ; veja grupos - CidadeVerde.com",
+      "published": "2026-06-19T13:42:00+00:00",
+      "summary": "Teresina inicia vacinação com pneumo-20 na próxima segunda (22) ; veja grupos&nbsp;&nbsp;CidadeVerde.comSão Paulo começa a aplicar vacina pneumocócica 20-valente em crianças&nbsp;&nbsp;Folha de S.PauloVacinação infantil contra 20 bactérias inicia na segunda-feira (22), em Teresina; saiba locais&nbsp;&nbsp;G1SP inicia vacinação de crianças com a pneumocócica 20-valente neste sábado&nbsp;&nbsp;EstadãoNova vacina contra meningite é ofertada nos postos de saúde de Fortaleza&nbsp;&nbsp;O POVO",
+      "sources": [
+        {
+          "name": "CidadeVerde.com",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNWQtdW5yU0N4dTA4V1RkZUZFUnlOV05kNEp2UF9LVEVpa3pOaW9BN3RpLV9sU08xV2tKZGJuaGtYZjVYRjVYU1Iwa0NjLVpvcUYwd01TZWFJMEJyaWU4LUM1Nm41QXo1X1FibGxldW5sZEk2UnhwUFBvbm5VNkN2QnpEUUdVc1ZwZjZhY2NFM2doeDNxV1dVSHdpdnFHNmlueDk0SWRWcmxJclJCWmd3bDBETQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c7ce2a3daf91",
+      "title": "Primeiro vertebrado a conquistar ambiente terrestre não era como cientistas imaginavam - Globo",
+      "published": "2026-06-19T12:44:37+00:00",
+      "summary": "Primeiro vertebrado a conquistar ambiente terrestre não era como cientistas imaginavam&nbsp;&nbsp;Globo",
+      "sources": [
+        {
+          "name": "Globo",
           "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUjRyazNTcTlPRlF1Nm10cVZPMDlxQWN2T3lONi1Td2prVEdwdGVoNVJiYzJIQnpBbks0bkxVUG8xSXFuWEx5amp5bnJmVl8tMGE4bVRaek1kck90aEcxU21XSWtOWkhiX1p3V0NyeGxtM29KYW1fVUstQTJUZkU4UjNRbGp6ZzYzY2ZndXNRQl9zVjZMc1ZZMDBZcFd6d0xsQ2dUTXpXRW53VDNsMzBBYzdrV015OHpXcE5KLUxQVnBEa1ItVDBHSVh4STJKWTBzdEgySTJvamZrelJfWkhjQy1oMNIB8gFBVV95cUxPRDBjQndQM1MxSDdsNjNYcjZWNzQ3cHpmYnVhVjJoUXdkNW84R1cwNkNqQU1va0swSVVYUjM1TTNEdHV3SklSd0RyVHFXM2cwOTJLTVB3NFFwZlFGWk9RaThfdjF1eWRpSjd6MnBIOGRzZThaSHFGVzRvMG4wbHBTdnZLYTRBcFZRNnZRRUlZVksxcC1UU3M5bnU4bWh5Tld5Umt0QlhUcWJaMUpNcERnd3dMTVMtUWJGaXNHWTRiUVF0OUFZUTBmTGtLUGtlQ3lJWEpwYUhleEZDQ29Wc0o4cWJnMWhaMFROM2c2U18wX0xmdw?oc=5"
         }
       ]
@@ -90,6 +150,18 @@
       ]
     },
     {
+      "id": "5bb0f4fd2538",
+      "title": "Especialistas revelaram o melhor momento para começar a se levantar da cama depois dos 60 anos - O Globo",
+      "published": "2026-06-19T07:30:37+00:00",
+      "summary": "Especialistas revelaram o melhor momento para começar a se levantar da cama depois dos 60 anos&nbsp;&nbsp;O Globo4 regras de sono que o ajudam a envelhecer melhor, alerta neurologista&nbsp;&nbsp;Notícias ao MinutoDepois dos 65 anos, quantas horas de sono realmente ajudam o cérebro a funcionar melhor?&nbsp;&nbsp;Tua SaúdeNem às 6h nem às 8h: a hora recomendada pelos especialistas para acordar depois dos 50 anos que muda a qualidade do sono noturno&nbsp;&nbsp;Catraca LivreQuantas horas de sono são",
+      "sources": [
+        {
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTUJjc2p1T3J5SlFCYzJVenVCSXBpUHJKNkhKTFhPTDhUYkZpRjRNd0lSZjVwWXBJWDZzYzBhcXdlekJpanM5Smx5SDYyZjZVaWIyaWNVdGs2VmJSSW90Q0JrRGFsbXB0Y0M4NDNheVppXy0wempjYUZlSEZUUW95Q2lGMS1Za0tkMDZ0dGVtWm5STHI0YmtoSjdEaThZS1ZtOEtTNWpuYm9sMUc2eXZqZVRzQ2loOFFTRU5WTDlIOS1nb0lJczlwa3ZXRXU1N0lTa2Z4VUpZb3d2blMzRnlERHJ1dHrSAfMBQVVfeXFMTUJnQjJQMkIxLTg5czNHQkZLenZaTU8xbS12ZnliRjBpSWRTemNCMElpbW5zb1IxdWd6UXFCUXhlczZ6aV9zbVBvMllzR3RnNl9MUnFHVlhweDQzd0FLdkpLejZ6UkZra3JaX3FsTk5qekhYTXpObmdzaWMxQ3V6Z0NKX0ZUcDB1bENRWXZ6dHotSEtod1o2QnMxVGpyVFd4OGZLY0hRczBHZE5iOHRsV2xjSTlvZU9XRnlKYl9iQjZOUkd1NWRSNklHVko2ckp4SEdtYkNlV0FoTVNfbnVjaF9nU0lraDdUaUVzLUFBZFN3WTlr?oc=5"
+        }
+      ]
+    },
+    {
       "id": "ccdaec8f396b",
       "title": "Canetas de GLP‑1: potência, limites e o futuro do metabolismo humano - O Globo",
       "published": "2026-06-19T07:30:17+00:00",
@@ -98,18 +170,6 @@
         {
           "name": "O Globo",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOTU3emxYRXBCb1hzVDB4Vk1HbEg1MHJhcEMybkNaVnUzSGxBdmlSQVJvRjUwS0Zpc1BlMWJBWHpCOXFFSnJ5ZHJ3TzFTX1NXV05nckU5aXZvUW5CdXBrdlN0bFZwd3JoSjZWeS1Jcjd2UC14Tm1VX3pRQ1VOSzJiX1BnOU55ckp1T2dCWWZZbEVoc0c3NDBvZ0tjUzR3TzZVVzFjeEgxZnAxbWwzb19ycEY5VzQxM0VobWRJenBiaVJNWGVJcEtEc0pwc9IB2gFBVV95cUxQbzc4b2oxTFRZSm9EV1RqTktwZUFreWg4MmdnLXRIZ2ppZW5EbWVOMG9idmxNSVNwYU9SLWVUS3laQ3c5OUR4MHh0QnZoclBud0pONWNWa3hjWnlzcjAtVm5rRF9OVnhFY19oQXlKbGRUN1NIU2Z3RDA1cFU3MzRVZUM4c1FzNS1nV0tXMFhBdUNnSHg4MGQ5aWstcUJwSHZHNTlzd0N6dUxlQ0t5T21mVzhzdmZqN00zMzJVWEhPcm8tczJldXJ0MUNqUzNsNzVDVVZXdnVXR3NNQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "162536ef52df",
-      "title": "Novo robô permite que fisioterapeuta ‘empreste’ seus movimentos a pacientes após AVC - G1",
-      "published": "2026-06-19T05:00:09+00:00",
-      "summary": "Novo robô permite que fisioterapeuta ‘empreste’ seus movimentos a pacientes após AVC&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSm5EWk5jZUpxRjFQemdXNjBZa0UtVFpSc1kzUXpwYjJnUFV2MDlOQms0YzNwODF3dVJwdnJrVFVFWHE5OWNmMXJ4U25mZ3c3WE12NTljZUlxb0l4QnFPY0huS0tGLVc0MktONmRiXzFVNExheG41TndXNWRGYUUyb3lDTG5QUExHb0xrckkxOHFqb2NsNzBGUkJXWHBOUXhoLVdTYm1ycEcwV2F4TmZtbEhyTXNEa18xTG9Gelh5X3JQOERNM2NJby1TREJTaXPSAd4BQVVfeXFMT0t1RTZVSW8walBqajk4Ul9vTER3a1RRVXVTa2FTVWtOTkc1YU5xcmFXNlZGYXZySHNmRzhkMWNiWm9ZRWVoOVBmdDljMnpWV0NDemM4MXFVV0htR2dXRXdYYlIzZTNZUnFmay1pa1RMZlA1NXdOZVFlMjV0WFBybnNheU9KbGcyeWhNNWpFcXU0Um4yaUdJSjg5NXB2ejNpYUVfdE8xQmdVaXJXUHljcmVQdkVoMEppWnByamlWb05nVHJpLWNNd1E3TWdlTlRMRkNnal9BbGNGRHlBdjl3?oc=5"
         }
       ]
     },
@@ -138,14 +198,14 @@
       ]
     },
     {
-      "id": "3e2a2f9bc350",
-      "title": "Descoberta do século: cientistas desvendaram mistério de 150 anos e encontraram maior predador - Rádio Itatiaia",
-      "published": "2026-06-18T22:10:37+00:00",
-      "summary": "Descoberta do século: cientistas desvendaram mistério de 150 anos e encontraram maior predador&nbsp;&nbsp;Rádio Itatiaia",
+      "id": "863036107226",
+      "title": "Pesquisadores descobrem que bilíngues apresentam atividades cerebrais semelhantes ao falar diferentes idiomas - VEJA",
+      "published": "2026-06-18T19:52:39+00:00",
+      "summary": "Pesquisadores descobrem que bilíngues apresentam atividades cerebrais semelhantes ao falar diferentes idiomas&nbsp;&nbsp;VEJA",
       "sources": [
         {
-          "name": "Rádio Itatiaia",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTUc0RDJWd3BXNElRXzAxYzhwZTRTSVVuZnh6WlcyR1lIU1lZRjBrZEhLQWtUUkpSZW11VkFOaG5sWVhQcW5NUHRBZ1NFdzMyR3RKbXViOE5HTER2Rm5aM2lpVDlFdmE2RG1SX1o5bVVySThZTjZ5empTeFRPTXhSZXVmRGRsTzV6aUNoOTgxYmpnNFhqT0dyXzZqZkFWaGVwRlZaN1dGMmhuNzlqREdNVXE1ZkVUY3ZZSEc5Nm9kU3ZlY2RGMEpsMQ?oc=5"
+          "name": "VEJA",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQlBRVmxLN3NXZVRTb1FvN1ZKbUJkOHRUN18wcnNTVE1yZEdXR21EUnBYcGxYcllwNFg0U3piVTRiWk5CWUNQdHhTSTlZbVZzOTZzTGM0YmJUTWNsZ1U0d3F1NDl5ald0UEctd3A0enVPU28xazVRVmlrNmFDWTB2QzZsTU12T3psUlZxNGZQYXYtSERzSHpfSU1PdGJ1NGREaGRQcktZUWl3dGpsZHZwZ01HZlNXZTloZ3ZjYmZKbUNUbXhLc01xSWpDQzRjTGx2dFBMZlVFanJMRVM2?oc=5"
         }
       ]
     },
@@ -162,26 +222,14 @@
       ]
     },
     {
-      "id": "6d0b716d5a38",
-      "title": "Pagamento de bolsas - Nota do CNPq — Conselho Nacional de Desenvolvimento Científico e Tecnológico - GOV.BR",
+      "id": "638fd98fdb40",
+      "title": "Pagamento de bolsas - Nota do CNPq — Conselho Nacional de Desenvolvimento Científico e Tecnológico - www.gov.br",
       "published": "2026-06-18T18:03:15+00:00",
-      "summary": "Pagamento de bolsas - Nota do CNPq — Conselho Nacional de Desenvolvimento Científico e Tecnológico&nbsp;&nbsp;GOV.BR",
+      "summary": "Pagamento de bolsas - Nota do CNPq — Conselho Nacional de Desenvolvimento Científico e Tecnológico&nbsp;&nbsp;www.gov.br",
       "sources": [
         {
-          "name": "GOV.BR",
+          "name": "www.gov.br",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNEFSajc4Vk44aXFFX3JIT0Y0SDd4UnBFWGphNTcwNTI4TFBpQlNkMkgyYmFoT09fZGlob1BsYm1lcS0waE9sUjEwREh1ejY1Qno0RzgwSGFGMFdOYUl4VmE0SG8yRC1sUm1LbThIRWpwZDBFYVBWZFlmNFpIVmRsYmdROXNIWnBiT0FuNERka0pUeTEycE9j?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d250ad81d243",
-      "title": "Prefeitura de SP inicia vacinação de crianças com a pneumocócica 20-valente neste sábado - G1",
-      "published": "2026-06-18T17:37:00+00:00",
-      "summary": "Prefeitura de SP inicia vacinação de crianças com a pneumocócica 20-valente neste sábado&nbsp;&nbsp;G1São Paulo começa a aplicar vacina pneumocócica 20-valente em crianças&nbsp;&nbsp;Folha de S.PauloVacinação infantil contra 20 bactérias inicia na segunda-feira (22), em Teresina; saiba locais&nbsp;&nbsp;G1SP inicia vacinação de crianças com a pneumocócica 20-valente neste sábado&nbsp;&nbsp;EstadãoNova vacina contra meningite é ofertada nos postos de saúde de Fortaleza&nbsp;&nbsp;O POVO",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPLVNwaUtsYzZrVTlKdGJJSmxWcTVsMzVMMms0ejNEeWk4c0ZWNkR6dS0yclUyaVhaRkRFbVloVzU5d1V6bkg1NjFKTlExTWQxQ19xUmFtM0ZmT01tSWFvWjIxWC05bndVYjMzZ050cjBxM3BoT2dKM1NDN05KbUlVbUhqT2FvRGl4YWthWVZzLWc0WkNkeVdDc3JCb0E2ZXlnbXVfZ1FmVU94TTRFU0d2YWdyMzcwQUZEZ3hMaG1VdGkwTnNXQTJzd0psWWt5cFYzSDZKVHVtbXZuUnpGdHk2UNIB7wFBVV95cUxPVmF0VTlFT2JYYjlBTTZWdGo0RHMySFVYZVE5SW5LLXJyV1dXVHk2clhrQ2F2RUwzcEJhV3k3bkxhZm1sY1lBMVNZWjl3VmpmMTVsbHMxMzFQSzNFUzhxM1dTWUpScFMwUDUzVEI2VjdZbGFGOXRvUTMyc1dZcl9zSk0tMFg3QnBseVVBbXg1ckRDaEF6UHRqUjNodWV5WkdxV24ySEJUXzBMY1F1LWlfeENleGhUNENVaU9KcUNWQ2NKMjFXVE93QWtfeS1rZWx4bXhLUFViejdLY1lCSGg0UnM5SXQydGhrT0VQZGFlVQ?oc=5"
         }
       ]
     },
@@ -194,30 +242,6 @@
         {
           "name": "Agrimidia",
           "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVlJFQkNaSmRSUlBkT1N2RFlzbVUwLTdqUXgzNWNwZWpldERqeG1xd0dQVGZ3Y2RFMXhvMVl4WnM5M09wMjE4MG84c2RIOXFoSzRLcjY3dUtmOFY1VEVFN3pxVGUtMGRaT2I2NnBZRG0tRVlJZVZ3aE16bHJyNVFDWDg1NTFZZElrSnVuMFdMSEZheXZjU2NHdDZlVlBwZEVsZFlwM2U2SGFFYWlSTWlzYjd6ZHFVcWhhLVZBZmhyeU10T09ydHgwUG1YTnA2VTRnZWZ1dXBFckEtUXFKOTVSZVhRZlZqQmY2M010V2N1Y29fMmdz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "af71b3ce07ca",
-      "title": "Drauzio diz que redes sociais ajudam a espalhar fake news sobre saúde - UOL",
-      "published": "2026-06-18T14:57:00+00:00",
-      "summary": "Drauzio diz que redes sociais ajudam a espalhar fake news sobre saúde&nbsp;&nbsp;UOL",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT1dweHFUeDF0QzJLdkI5c2tOVnAyOGFka3ZzcS02bnNrY29PMFA0MkV1ejlkQklCemRwWkl3elBWRU1vQklIRnM2TDl0NWllWXZOOHp2MnRvMzBVaUFNV0t1WTYwNjNZeV9EOEc3WG1aSUZ1LXdRNzQ2NjZfSVNvaW1MWGV3WTJTUGRMbTk5Y1YyelNnc2xlVHBKcE1fNXlhLWhHdE5PZUtncmd0NlBydjd2Y2tDUzA1SUxDNnVtWEhkSmpWX2ZXMW1QVU5WQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6dd4400fcf9a",
-      "title": "Vacina contra gripe: Veja quando o imunizante estará disponível para o público geral em Maringá - gmconline.com.br",
-      "published": "2026-06-18T14:55:00+00:00",
-      "summary": "Vacina contra gripe: Veja quando o imunizante estará disponível para o público geral em Maringá&nbsp;&nbsp;gmconline.com.brVacina contra a gripe será liberada para todos os públicos de Maringá a partir de 29&nbsp;&nbsp;G1Vacina contra gripe estará disponível para o público geral em Maringá a partir de 29 de junho&nbsp;&nbsp;maringa.pr.gov.brPrefeitura lança UPA Digital com serviço de Telemedicina&nbsp;&nbsp;Blog LondrinaLondrina aplica vacina contra a gripe em shoppings e supermercados neste sáb",
-      "sources": [
-        {
-          "name": "gmconline.com.br",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcFFvMHdUV2M0TDd4UlU3Q2VLUnRtSjFpVlV0OE1NT0htRWV5aHpmdzBLaHZwZHB0WmN5S1FjNVlqNGRGM0tRNlhtTlI4N29IbW5tanZlWk5Ib0FvQWI4RWRhZjJiRFlkbHZGa0FoRGIzei16QlIyVlRfV1IzSHp2Vl9faHotalNCRk04NGNibGNQLTF2VUdWX09JeVdZejZmTG1pU0tULUJSOUxTOU11ZktNRTdEZ3lLUE5pTGxMb0JVcDV0RTN5UHRVU2M0cngtaHfSAdcBQVVfeXFMTWE4VThRQkNjaUh6dnZ0TldrdUdYb0ZxWktqdGhLRHgybDYwa0RHOXJqd0pBWl9WS1Y4cXpjbjNCQkFwakNiSWQ2ZHVWODhtNDZMZjBvTzVUNGVPbTFsaE8ySlNFLXRwZEc5Ukh2bjQ4TjNBQ0FQT3BURm82TndfNEQ5UUZjempUdVBGUWQyNGczYW14OWlTMDViWGttVkxwZzNZN1Juc2NCNHBRc2Z0UGZYSG1hNDduc3doazVEbjl2Ti1DOEJObU5XUnU5N1p5ZTFsSXBtblk?oc=5"
         }
       ]
     },
@@ -246,26 +270,14 @@
       ]
     },
     {
-      "id": "e189c088214c",
-      "title": "Quem come mais arroz e feijão reduz o consumo de ultraprocessados, gordura e açúcar em 45%, mostra estudo da USP - O Globo",
-      "published": "2026-06-18T07:30:34+00:00",
-      "summary": "Quem come mais arroz e feijão reduz o consumo de ultraprocessados, gordura e açúcar em 45%, mostra estudo da USP&nbsp;&nbsp;O GloboArroz e feijão: estudo confirma que dupla faz bem à saúde, ao bolso e ao planeta&nbsp;&nbsp;Veja SaúdeSegundo os especialistas e estudos, arroz com ovo e feijão garante igualmente os mesmos benefícios proteicos saudáveis que a carne vermelha&nbsp;&nbsp;Tua Saúde",
+      "id": "bd5854d6c4c7",
+      "title": "Opinião | O culto ao corpo que promete saúde, mas entrega doença - Estadão",
+      "published": "2026-06-15T13:00:00+00:00",
+      "summary": "Opinião | O culto ao corpo que promete saúde, mas entrega doença&nbsp;&nbsp;EstadãoDesejo vs. realidade: por que 74% dos brasileiros querem treinar, mas esbarram no sedentarismo&nbsp;&nbsp;TerraChips da beleza, detox e vitaminas: 5 promessas de saúde que enganam e podem fazer mal&nbsp;&nbsp;NovabrasilEducação em saúde alerta para impactos da busca pelo corpo perfeito&nbsp;&nbsp;Agência Brasília“Corpo de verão” pode colocar a saúde em risco, alertam especialistas&nbsp;&nbsp;DOL",
       "sources": [
         {
-          "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQZE9EeUxRQ0Z4alZPRGcxM19aNFYwaE1pNjZ4N0tGdV9aWXp0SmkyT2tEZHNEZWo1YWhkck9CQUVPUlVBX2I5b0c1dUVZLWVhV3hKUmZwMG45Rnhnb0F6X0MyNjFnczRsTEdveFZfdnZkZ1I1T3FobXYzNGhISXplYlZBYXVEREZNdmZnc3YwNEYtalBZUVE3cE1KYTVDdkxJZHdlem5ULWJLcmNTQ2NkNWRrWHBwai1KRFhOS2daVXAwRHFBdmhoRENKRTRzWHRXVkRyLUR0Tmo4NzZtdVBzcE1BM3dJZ2V6V0puQW80NGkzSUFjYnQ3cjFpcGg1c1pjb3fSAZACQVVfeXFMTnhGeVRwVGVwTVRma3l4M05jbHJ0OUszeV9GbzNzNjdQeHVXWDFIRVUwSVJHZzFDaDVWZEo2cUZPcXAzcVhrQWZCUmVGVE1pekFXNGh0Qmhhdi05b3M1aWNMSHMxYlBTaE9mZGlQU2c4VGV0UUZCLUxGcnptTzlhSWpETVE5MW5menRPZ3VjQ042bGFTc1FwcFdZMjI1YWFfNms2a3VXOEtESHRvVEhLMHhBVndDdmpMSE9ZczQwLVZWeEZ6YXcxaU5mVnF1Nk1yU3JRZGhKV0Flbmx6YkpKaElQMmpEWmpvblFURVdjUlRVWENsWDhBWXNzeDB3UmNoeVFzaEc4d0hlT2hiVWJPczI?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "44c86e6cf20a",
-      "title": "Fumaça do cigarro chega até na bexiga e expõe todo o corpo a doenças - Metrópoles",
-      "published": "2026-06-18T05:00:00+00:00",
-      "summary": "Fumaça do cigarro chega até na bexiga e expõe todo o corpo a doenças&nbsp;&nbsp;MetrópolesTabagismo segue entre os maiores fatores de risco para câncer&nbsp;&nbsp;G1Em resposta ao Dia Mundial Sem Tabaco, em 31 de maio de 2026, e à Semana Nacional Sem Tabaco, de 25 a 31 de maio de 2026.&nbsp;&nbsp;Vietnam.vnTabagismo é a maior ameaça à saúde pública e precisa ser mais combatido&nbsp;&nbsp;AMB - Associação Médica BrasileiraSaúde de Jaguariúna promove ações sobre o Dia Mundial sem Tabaco nas UBSs&n",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5VbllWeVdDeVhObUFRUk5NU3ZaQkU5UURnNWh4a0l6RXBtcS1SRjZqcWRvZm5IRHV5MGpIb3ZkVXJNaEpUbEFnbWdHR2hMc1FYQ0tLWFgxaHhESEo2bk9SOTRyRV9Cdk1uRVlVMmJaWVZZRE91U3BIU1p3?oc=5"
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORXdiM0M0MTM1d0NMSko5bXhXZzQ3MVBmby1YME1xbkk3Rk5iam1ReS00dlNSWjV6WXFheExjNzJuRlRBdGdPVHlpSVZGdTRnS1dYSUY3MEJIVTZjcU9wbWFHTlpIby1uYVhiSHYtVHE3eXlmZlhzNVFDci03bDdJWEVCdlJqQ1dmaWtvU2RzRENZNjRnUER5R0VlbnN4eGZyWnVCRk9IMlk?oc=5"
         }
       ]
     }
