@@ -1,7 +1,214 @@
 {
-  "generated": "2026-06-21T09:52:58.557502+00:00",
+  "generated": "2026-06-21T14:15:35.400202+00:00",
   "count": 43,
   "news": [
+    {
+      "id": "ee00976019b6",
+      "title": "SUS começa a aplicar vacina mais moderna contra pneumonia e meningite - UOL Notícias",
+      "published": "2026-06-21T12:29:53+00:00",
+      "sources": [
+        {
+          "name": "UOL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZ1pFaGlEWlZCSEVob2RMbFlyME5LSTVaazh6N0gzQnc2VV9tWlg0R1FIRU9yNmZsSGllOXFfVC1FMHdBbWNVVUhLRGtQbE5qXzBFWnhmcEczeXU5MjNPeEdOQkdTN1dveVVfeGljcmVUNFF3Z2JIV0Q2ZXJWN2FLSnNYVnU5QkEyZG51RWg3ZFQ1UUJkcEw0NHRrU2xTbGpUcEk2UDR5eTRUZ1JXYlZjYkNURlhEM0o1V3JBMndhMXk3VzFVMHVXaUVMTHBlZzVuSGFGSjU4aWZkMDNM?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "pneumonia",
+          "keyword": "pneumonia",
+          "related_drugs": [
+            {
+              "slug": "ganciclovir",
+              "name": "Ganciclovir"
+            },
+            {
+              "slug": "clobutinol",
+              "name": "Clobutinol"
+            },
+            {
+              "slug": "tazobactam",
+              "name": "Tazobactam"
+            },
+            {
+              "slug": "oseltamivir",
+              "name": "Oseltamivir"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "infecção pulmonar",
+          "keyword": "pneumonia",
+          "related_drugs": [
+            {
+              "slug": "ganciclovir",
+              "name": "Ganciclovir"
+            },
+            {
+              "slug": "clobutinol",
+              "name": "Clobutinol"
+            },
+            {
+              "slug": "tazobactam",
+              "name": "Tazobactam"
+            },
+            {
+              "slug": "oseltamivir",
+              "name": "Oseltamivir"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c833fc896e36",
+      "title": "Jovem do interior do Brasil cria mistura caseira que faz planta crescer 90% mais rápido e ganha prêmio na maior feira de ciências do mundo - Portal 6",
+      "published": "2026-06-21T12:14:13+00:00",
+      "sources": [
+        {
+          "name": "Portal 6",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNLUdET1FDMUREeG1hdm9LWW9nVmhSZHNxYnBHZEoyaUYwRkFZRm9LOHFRc2RDeDB4dTVzT3ptcThoS2ZSYVJ0T1ZvdXowR3Z2MW5WbGZlQTVfQ0NGb3c3OWFwTk9zODJBYUE5YlU2dldzOF9nVWhuMVQzelZKLUZFVFlRTnVvYXBnOTlmOUVGYjBqNnNIMjVzYTBQS3NpTlc4cnVBUnhZNjR2RjZXWk5oazBrX2V2TkFNM1RLSncySy1sLUhzRzdKTHA3dk9Wa2MwM09udEQyc0c1Y1JpajRlRXU2aTNfRUJfMTY0X2lxQ1RMQnQ3M3cyZmR6NkRxZDRXUFE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
+      "id": "34c69ae78804",
+      "title": "Por que o pênis é um termômetro da saúde masculina - e como prestar atenção em seus sinais de alerta",
+      "published": "2026-06-21T11:29:04+00:00",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5BNWtobnB5eGJ3d0hITVBtaC1iT3RXaF93UDBBRDhZdDQzSUVxZEhraHA4aW5FU0pGT0psSVRWNkdVUE1ZSFRNMFhiNEhkTWFpdjJfbUNQcXQydlI0NDA0aTh30gFnQVVfeXFMUEt5U3gxaFZwQjdEdmV2ZTNBVWYxWTNlRVFTMXdtZXhMN3cyZnFTOVBUVFdIRGp2NDdFQ0dNTDVDeGdyYnNnNXhERWw5TXJFaXdCLThfc1Azd0pjeG5MMjNxSzhsNFA1bw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "praziquantel",
+          "keyword": "FAR",
+          "name": "Praziquantel",
+          "url": "/drugs/praziquantel/"
+        },
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        },
+        {
+          "type": "drug",
+          "slug": "zidovudina",
+          "keyword": "FAR",
+          "name": "ZIDOVUDINA",
+          "url": "/drugs/zidovudina/"
+        }
+      ]
+    },
+    {
+      "id": "babd36d7e2d5",
+      "title": "Estrela sinistra desafia astronomia: raios-X variam a cada 44 minutos - CNN Brasil",
+      "published": "2026-06-21T07:00:35+00:00",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZnJMVndmbDlfaTVyUldFVDU4SUFzWnFXV3paZjhvMkE0bmUzQk1JMXFNY18tZkJmVU90YlRQUnhHMm1CLW5IVUctdHFneWZWUHRBV1dMaVBOZHdQcEp2VUo3dFBubS00dnE1SWRVSXhKUDlGemR0M1kySng1bHRJaWZJTXV3TDJrcVJWY3ZUbUkxVGpja2UwZWI2NkYzUjFJRTdnbnpEQkNtUQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
+      "id": "302aea6e2be3",
+      "title": "Oito anos após lei pioneira, estados ainda enfrentam desafios de vacinar dentro da escola - Folha de S.Paulo",
+      "published": "2026-06-21T07:00:00+00:00",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQ3JHcDNlWEhrRi1RbXpabVFMeEdYNWtteWEtdWZfVE8zRDdLV3I3aFNlTjZjcnVZVU4xOE5kUEZDWTE5TUxhbi1aT3RRckVCdW1pQ0VRN3c0UDB2QUt6UXRMNHBsZlU4cGU5Ym0xbHhpbng0enlWTEZRckRRY3AwYzc5bGtHSVdPTkloekF4aktjdHdDd3JramIzQmlnTzFyblBObDNXOGxPTDRZZ3N0ekJTTFBsLVM5aTNqYUZDdHFzb3lmRzY0UVZHZE5yT3ZTb1JGd3RTZUZNdWY5cVNYNjJYSQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "levetiracetam",
+          "keyword": "TAM",
+          "name": "LEVETIRACETAM",
+          "url": "/drugs/levetiracetam/"
+        }
+      ]
+    },
+    {
+      "id": "2862c9c8f042",
+      "title": "Musculação ajuda a prevenir Alzheimer e melhora independência de pessoas que têm a doença - Folha de S.Paulo",
+      "published": "2026-06-21T06:34:00+00:00",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX29ySXVkU3UyaldPb1lfcHJCcEs1eENNWW9FUnpNLWhYTFBIa3Z6RXBtZFVocWNIbExmMDNIbkRzNW5fNlU4ZWN4eFdkeEhrWVFhU0lKUjdEa2syMlhHODVqN2pvZmZUWDBiZ2dkaWxjakdXc0Q5NUpoV0VVTENCdlJKcHh4YVM2M0pUVG9SaUN5TDBrdFY3c2hSME9JTGxOYzlUTFp5bFVJU2RscWYyQXRjbmVWZ3hDc3dFcjcwLXpIeFJ5VllQQ2xuTk1kUWpxUElZNE05aTFySmNN?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "levetiracetam",
+          "keyword": "TAM",
+          "name": "LEVETIRACETAM",
+          "url": "/drugs/levetiracetam/"
+        },
+        {
+          "type": "drug",
+          "slug": "tadalafil",
+          "keyword": "CIALIS",
+          "name": "TADALAFIL",
+          "url": "/drugs/tadalafil/"
+        }
+      ]
+    },
+    {
+      "id": "3dbdebdb1196",
+      "title": "Desafios evolutivos podem silenciar grilos e também deixá-los sem ouvir - Folha de S.Paulo",
+      "published": "2026-06-21T05:56:00+00:00",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNG0yYlJicEYxX0pWNmpUTVhsR25kWGJGd2E4aU1OT0lweGdGWlZXd0RzWjVyR1gzbzVFTlplXy1JWE1NakJ5ajgtVFJrWWRIcXNGMzRWbGZUdTFYRXRHdXBkTFo4TG53Wk8tcGE5WXRKQmQ4YTdhSUtUanAwOG9QOGlUQjEyUkI1Vm44Vmc0NVg0XzNneFVtS0c1YmRwRDdKQmczemwyVTZmT2w0Z21pX3RGT0Z3UWYzajBrRHYzZks?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "levetiracetam",
+          "keyword": "TAM",
+          "name": "LEVETIRACETAM",
+          "url": "/drugs/levetiracetam/"
+        },
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
     {
       "id": "6e4f6360cd05",
       "title": "Júlia Pimentel, mineira de 11 anos, inventou sozinha uma fórmula nova para calcular a raiz quadrada com soma e multiplicação simples, e o método dela foi publicado em uma das revistas científicas de matemática mais importantes do Brasil - CPG Click Petróleo e Gás",
@@ -40,6 +247,26 @@
           "name": "SILODOSINA",
           "url": "/drugs/silodosina/"
         },
+        {
+          "type": "drug",
+          "slug": "etodolaco",
+          "keyword": "DORE",
+          "name": "ETODOLACO",
+          "url": "/drugs/etodolaco/"
+        }
+      ]
+    },
+    {
+      "id": "835730d8d5b3",
+      "title": "Como o turismo científico no Arquipélago de Marajó atrai pesquisadores globais para estudar a maior ilha fluviomarinha do mundo - Revista Amazônia",
+      "published": "2026-06-20T21:37:59+00:00",
+      "sources": [
+        {
+          "name": "Revista Amazônia",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNeVFfSnpuZzlOQ19KWU9Sc3Q5MEpmZlIwYzZoZVdRNE9TeGVwMFliaHJtM1ZPdzltNGtDWmRXN05RRmJZVzJIazhlMDQ2RE9lMTdGaHZpX3NFV0w2TU9kSTdsTjUwWmhVaVh2OTU4ZF9PYWl1WUUxN19QTE53TTlxZ3pJWXpzSHVQVERoRF9ZVk9PSlhONUV4aXRsXzhDd1FZdFNYZl9kdVdBQzdPOUhLc1ZLZW10RUdldUpRams4Y3VjYklTYzREbFdrQmdDdDZVTUl5YUoxS0ZBVG5fVHFuUm1oelc1UWlvOVdqZEtQVEM?oc=5"
+        }
+      ],
+      "keywords": [
         {
           "type": "drug",
           "slug": "etodolaco",
@@ -130,106 +357,6 @@
       ]
     },
     {
-      "id": "9730c08efd82",
-      "title": "Mesmo sem praia, cidade brasileira vira paraíso dos idosos: com apenas 15,4 km², mais de 165 mil moradores, liderança nacional em longevidade e rede pública para 60+, município compacto surpreende aposentados em busca de qualidade de vida. - CPG Click Petróleo e Gás",
-      "published": "2026-06-20T18:37:00+00:00",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOZHlXX3JuQm5sRjRyTTRxd2tXVW1uWC1Ob1RWTUVkTVBBNmNldkR0Q0c2M0pJWDJFOHBlaUc4Nkg5UmtfejR3UmpjVjNnbGR4cnM1dE9VQkFtMlpGcnB5M3BEd0xMMGZlMUo5aU5kVnZXX25Dd3M2X1U2cTJtZEhBcVY1enB2aHk5a3NuTUprZ0NGNFg1QTYtSm1IYnY0X0FmbzNRMVBUUzFRRk5oM2ZIb2ZBU2J2bDVnSjh0c2haUG56ZU8weDRTbTFwd1NMT1BEekM5dEV6cGJPcGg5X3A2WDFXYnBVby1DbHU0akJNRXNUOWdoQmhfSF9GMTR0X2YyTHRxRVdfeFJXcVBfNEZMZXBrM0RFTkZxVWlWMjVLTzhoWGVZMWdKejlKekkxNmRtR3B6UVQzb25tcDE5QkN1c1pDVTdERG8?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "diazepam",
-          "keyword": "UNI",
-          "name": "Diazepam",
-          "url": "/drugs/diazepam/"
-        },
-        {
-          "type": "drug",
-          "slug": "zinc",
-          "keyword": "UNI",
-          "name": "ZINC",
-          "url": "/drugs/zinc/"
-        },
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        },
-        {
-          "type": "drug",
-          "slug": "etodolaco",
-          "keyword": "DORE",
-          "name": "ETODOLACO",
-          "url": "/drugs/etodolaco/"
-        }
-      ]
-    },
-    {
-      "id": "3c1884a04265",
-      "title": "Nova vacina contra pneumonia e meningite começa a ser aplicada no SUS; veja quem pode receber",
-      "published": "2026-06-20T18:28:09+00:00",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRjc2cGhGa1I3TWRiZjAzWEdqNkYtOFFCdEVaczRsc2NOTnBEOFFwZEl0TXBwYmt5SXZPbjlLLXh4d2N2TzBfamJ5WUdRelR5dW16NENJQTlndktMRUFEWUw4ZVBuZ3huTTBpMTVuRW5oQjNsY0lyb3lsckNFVHdaNHpmV3phczQ1VFdvWk1DVXV0OC0zOG1hVWR4U183eDd1cEE1enNUVjEzRjRZU3hhOEN1Vmo2aHduODh3OGY5Y25lWG1fVDk1bFlLa2JoOWpRbTJxaGZWTlNweU5X?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "pneumonia",
-          "keyword": "pneumonia",
-          "related_drugs": [
-            {
-              "slug": "ganciclovir",
-              "name": "Ganciclovir"
-            },
-            {
-              "slug": "clobutinol",
-              "name": "Clobutinol"
-            },
-            {
-              "slug": "tazobactam",
-              "name": "Tazobactam"
-            },
-            {
-              "slug": "oseltamivir",
-              "name": "Oseltamivir"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "infecção pulmonar",
-          "keyword": "pneumonia",
-          "related_drugs": [
-            {
-              "slug": "ganciclovir",
-              "name": "Ganciclovir"
-            },
-            {
-              "slug": "clobutinol",
-              "name": "Clobutinol"
-            },
-            {
-              "slug": "tazobactam",
-              "name": "Tazobactam"
-            },
-            {
-              "slug": "oseltamivir",
-              "name": "Oseltamivir"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "09e64df0b204",
       "title": "Menino de 8 anos achou bolinhas no quintal, pensou que eram sementes e ajudou universidades dos EUA a revelar uma estratégia natural escondida em galhas de carvalho, mostrando como pequenas observações domésticas podem mudar pesquisas cie - CPG Click Petróleo e Gás",
       "published": "2026-06-20T18:27:00+00:00",
@@ -281,6 +408,33 @@
               "name": "Centella asiatica"
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": "334d1235970b",
+      "title": "A sucuri amarela da Amazônia que virou foco de biólogos ao apresentar diferenças marcantes de tamanho e adaptação de habitat em relação à tradicional espécie verde - Brasil 247",
+      "published": "2026-06-20T16:45:00+00:00",
+      "sources": [
+        {
+          "name": "Brasil 247",
+          "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNc29mcWg1VVFDamFDSFhKVmlkUWFOZTBRRU5vSW83R0NoejhMRWRXMDVleFpaSEhuUkNNdlNQRXdzV0YtNVE2MU1saW9CNUhPUFNCSWN3dXVQcTdMRlVESlVXeEdxU01SRzhWb0pRa2NUb3J5QzZzRVpRN2VXajYyWGRUNjNhQkRXWm9JdEQ1cUZ0OGRTYlcwVzFDWWUtWHV6c3J4UEpEc0NNM01STTktVXJHOFR2YlRpUE5kZVBYWVRDR3NNTGV6LTZzRFVXSFdWeHRGY1hiVDlwY0lxdDlSS2M4dVhabDdCYTE4d3FrOXlCYXhSN2dNRzhFLW1mU1VBb3A2cEIxTUtlTWZxVWVGOUtSdTYtS0JyMlp2dVZQVDVOVXBFVi1rT3pBalpxX0dmQUVmc0lqYw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "levetiracetam",
+          "keyword": "TAM",
+          "name": "LEVETIRACETAM",
+          "url": "/drugs/levetiracetam/"
+        },
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
         }
       ]
     },
@@ -345,29 +499,22 @@
       ]
     },
     {
-      "id": "64f0e57f3f7c",
-      "title": "Cortar o açúcar da dieta pode não ser tão saudável quanto parece, diz novo estudo - O Globo",
-      "published": "2026-06-20T12:46:25+00:00",
+      "id": "bed281c74d68",
+      "title": "Brasil deverá ter centro para enfrentamento de emergências em saúde - Agência Brasil",
+      "published": "2026-06-20T13:06:00+00:00",
       "sources": [
         {
-          "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOR2xyMXNzR1JnUFMzVFk4Vm5BbG5aa05pcDJ5LUw5TGZUWnZZX1doQ05JQVE5VXNQclNCYUFoT1NFVnhldlJCRHFhWUVuZV9acTdtY3hpUzBqd3FsdlZ1NEJib3lNOEtWN3VaOHNFaE9TeHZSREU2TDJjci1VQV9VX3cxZXp4cVExMXNCcmhPM3RHbXVWbWtHZ1h3T2hoVTZjbXh0MlVaeHBxRHExUy16SE1maUNYUW5qRFJjdHYxYXY5T3oyYzB6Ym9uMjJTNVZ2WnfSAeABQVVfeXFMTkpkLWdxb2lCcnVOanFNTU4zZGpmVUxqUF9fZTc5VDBhNXZscEdpeVFhc2pxMmRvanR0NjJEYzNaVUhkNDV5SThXZTBKT21GSWdVQ09KWEJfemRrUWVJRUxkU1ZINzNkdS1vX3A1c2FBNmlLbk5nemRDWDVOeTZZUTE5NW1QclJKRmtSek1TRURHVF9IbjRNSUpEZnR4NmVoWUdZZlVxa2liZGVpSDhyNV9iWXdOTDJLaWY4VXEyb18xMkYteVBrSVFWM1V0cDJ1YWtCaU1xVGswNGNPYnNHbWk?oc=5"
+          "name": "Agência Brasil",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONEFmVk9Gam84QjI4VkRQUzQ4NGh6QkVwcGlRV2hkajBXWDR5cnU5X2V0bnRFelVlYkNndUJmYmtseVI2X2Z2SG1mZVRpSWZ4dHFqVFlQQjNMSngzbDZXR3hTOHlDRDJ1X25PMGxraVVHajFPdVpIY1Y0V1JqVmxBT25nQ1Y1TEkycUVDdXJ2bFNTUTV4T3BJYnZBQ0l4c3lIbmNSeXV3RWpJcVY2d0xWbGNSTUxmaWlWTG5Mb3FQZw?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "drug",
-          "slug": "golimumabe",
-          "keyword": "BIO",
-          "name": "GOLIMUMABE",
-          "url": "/drugs/golimumabe/"
-        },
-        {
-          "type": "drug",
-          "slug": "etanercepte",
-          "keyword": "BIO",
-          "name": "ETANERCEPTE",
-          "url": "/drugs/etanercepte/"
+          "slug": "levetiracetam",
+          "keyword": "TAM",
+          "name": "LEVETIRACETAM",
+          "url": "/drugs/levetiracetam/"
         },
         {
           "type": "drug",
@@ -375,26 +522,6 @@
           "keyword": "SIL",
           "name": "SILODOSINA",
           "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
-      "id": "8c6aebf2ce65",
-      "title": "Descoberta aranha amazônica que imita o fungo de “The Last of Us” para desaparecer na floresta, escapar de predadores e surpreender suas presas - Folha BV",
-      "published": "2026-06-20T12:17:00+00:00",
-      "sources": [
-        {
-          "name": "Folha BV",
-          "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOYU00VmhwN3pzWDU3dWF5Y0FIeWVvTDJULWMzNUp3UWFWWkkwNGxiaFdLZXNuRU5MZDF6NlJuMGhDV0g1YzkyaFRIWndHSmtPb2phRVJZcktxSkFhSWZuTVZNRWs5dmpQQjFycC1jbTZHSGpRTk10WmExSmoya0N3bTkwamNGUW9fN3lwSVVKT3g2cVlkY2ZsWWxudDFfUGR3UE5GaEdxdXZHRlB5THBYNFR4dWNHZmx5ZFBDRXJrOUhMVzB1V3lBVGdPVFJHR0hQd1FRUFZVR3QxQ0c0TFQzMGMwSDVnVU8zLTBvRUxnZmd3MXhDSXRBZWZDZzQ2LTg1eGVUN2RhSmpMWjNEd01RZ3BlT0VyRlItTV8zZTVjVmk?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "etodolaco",
-          "keyword": "DORE",
-          "name": "ETODOLACO",
-          "url": "/drugs/etodolaco/"
         }
       ]
     },
@@ -461,26 +588,6 @@
               "name": "Oseltamivir"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "49465597f2fc",
-      "title": "Londres esperou mais de 360 anos por esta cena: quatro filhotes de pelicano nascem no St James’s Park, surpreendem especialistas, lembram pequenos dinossauros e transformam um isolamento causado pela gripe aviária em um capítulo histórico para as - CPG Click Petróleo e Gás",
-      "published": "2026-06-20T10:20:00+00:00",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPX1R0dnVyTmVqSko4ZkFRVW9SYUU4a1VIWHhJODVQNlNNUVlGWmhiNXVscVN4OGtmZWx6WHdVeEk2NzVJUXBuOEZfd0xtc0d4b0N6YzRQTU14OFN0TnlyU2pQLXZpQVhfQlBscnM0SDBCVG9tZkdaOUVZTWtlekduUWlGa1pxSUVqdi03SEdhSmkxVzhZYjZPYWJGZzBETzRZbmVKRzhESmFGQUF0NXhsTWJqUHVLZ01EcE1NN1VvbFVXNnZHOWJ1Vy1ERDBGb1c3aGQtMjJzb1p1aEk4bjl4STdwWmdlcDhweHZNY21JSzBCZEE1MU83WWtEdXZ1VFNSRDhNaXFqVGpKc1NtSThpOEFCOU5yZXFjWG8tS3I3SDg3OXBUNllYSDlYN3F6R2pJWDFJUUtHcFFSODhDek5OTG1BQU1KQQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "tadalafil",
-          "keyword": "CIALIS",
-          "name": "TADALAFIL",
-          "url": "/drugs/tadalafil/"
         }
       ]
     },
@@ -1125,13 +1232,6 @@
         },
         {
           "type": "drug",
-          "slug": "tadalafil",
-          "keyword": "CIALIS",
-          "name": "TADALAFIL",
-          "url": "/drugs/tadalafil/"
-        },
-        {
-          "type": "drug",
           "slug": "zidovudina",
           "keyword": "FAR",
           "name": "ZIDOVUDINA",
@@ -1373,60 +1473,6 @@
       ]
     },
     {
-      "id": "8dc22073a98d",
-      "title": "ISD abre vaga para Analista de Comunicação Científica; saiba como se inscrever - Instituto Santos Dumont",
-      "published": "2026-06-19T19:39:59+00:00",
-      "sources": [
-        {
-          "name": "Instituto Santos Dumont",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLVVwTTdYbmdvSjREQWhwdGsybnNHTEpCVmtTTTZ4bEZyZ1EwR2RabWF0MDBFelhGNTJsbmFoakpiX0d4MzJpM2VHQjd4UFA4UzYxUWhvU3dZZnNqNk5qS0p2b3VZSFFFSEhoS09VaGJKTm1QaFVtNUl0T1U4RXNYbkYya2taRHNOZ3hGYXZLQzZrOXNvdlJZS1YxeE1TT3VHSTFGRENDQ2lsS0hFNW1uRmpWV3hJQQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "diazepam",
-          "keyword": "UNI",
-          "name": "Diazepam",
-          "url": "/drugs/diazepam/"
-        },
-        {
-          "type": "drug",
-          "slug": "zinc",
-          "keyword": "UNI",
-          "name": "ZINC",
-          "url": "/drugs/zinc/"
-        }
-      ]
-    },
-    {
-      "id": "f74bfa58ba58",
-      "title": "MCTI lança programa de residência em tecnologias quânticas para formar especialistas e impulsionar deeptechs brasileiras — Ministério da Ciência, Tecnologia e Inovação",
-      "published": "2026-06-19T19:32:00+00:00",
-      "sources": [
-        {
-          "name": "www.gov.br",
-          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOX0xhamxwLUxWTDRxb202QmlOWEJWR21FRDBybklEUllnMHVmWlg4RFM5Wlg3WEZUWFY0aEZxNE5HRHZKejlFWHZEMTFQVVpWd2RoaDhNQ2VSM1FKc0ROdUlxTzFMUDBRM1RHTzhCSXhMQVdNNE45eFp2RGphUlUwX1U0UnhUTTVxblZPYnhhbGNhemFCR3h0Vm8zbzNjcGlFRE1jMUppWktsZVpaMjY0RUdBdmlyOVQ3SmhTWW5la0t0cjBpNlF5bGJxUE9TcTR4aGZjdDg3UjMyRnFKRkVJeWI3M0NsR2ZoWEdsRDVfMDhJNXRzYzUxSFBTejhIcm96U1Y5czc5MTBTQ0lUWEJiZGxn?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        },
-        {
-          "type": "drug",
-          "slug": "tadalafil",
-          "keyword": "CIALIS",
-          "name": "TADALAFIL",
-          "url": "/drugs/tadalafil/"
-        }
-      ]
-    },
-    {
       "id": "5aad42257f9a",
       "title": "Ligar primeiro o carregador à tomada ou conectar ao celular? Especialistas alertam que uma simples sequência pode reduzir oscilações elétricas, minimizar picos de tensão e influenciar a vida útil da bateria após anos de uso contínuo. - CPG Click Petróleo e Gás",
       "published": "2026-06-19T19:12:00+00:00",
@@ -1508,33 +1554,6 @@
       ]
     },
     {
-      "id": "472812ebcf0a",
-      "title": "Uesb integra saberes e transforma realidade local com o projeto \"Ciência na Comunidade\"",
-      "published": "2026-06-19T15:36:06+00:00",
-      "sources": [
-        {
-          "name": "uesb.br",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcnRMWi0xc29OcVhzWjFSMEY3MENpRTQ1Vnh0ZnBWbjJsTjdSWGU1bklDZnU0U1FrVG10UkZoVnFtblZkaGpPNk9rY002Y2FKYmFTV0Z4SjRzZ2s3cUp4Q3Ntb3h6WmdvRWRULTNyTnNyX0dQbnJzZ1htZDYwLTZwM042V3ZZaGJTU1ZEajlNd1Nfd240TU5UUTJJd0ppVU55VkE0QVNXZDFraGU4azYtWDdScU1SZw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "diazepam",
-          "keyword": "UNI",
-          "name": "Diazepam",
-          "url": "/drugs/diazepam/"
-        },
-        {
-          "type": "drug",
-          "slug": "zinc",
-          "keyword": "UNI",
-          "name": "ZINC",
-          "url": "/drugs/zinc/"
-        }
-      ]
-    },
-    {
       "id": "44384fb024b7",
       "title": "Onde tomar vacina para pneumonia em Fortaleza neste fim de semana? Veja locais - Diário do Nordeste",
       "published": "2026-06-19T14:05:42+00:00",
@@ -1590,60 +1609,6 @@
               "name": "Oseltamivir"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "36b7b02b835d",
-      "title": "Sobreviventes da infecção pelo Ebola apresentam sequelas neurológicas que persistem por anos",
-      "published": "2026-06-19T11:15:34+00:00",
-      "sources": [
-        {
-          "name": "Medscape",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU2J2QWI2SFRNaEFWNE5WcUZjQWxhek84UXNLY09MQU9feTlkN2Y5LVZid0xEOGFQTF9YQ0FQeS0wZmFEcGZJM25rZEU3VjFEbGpKcjA5dVY3S2M5X3hYRk1FY18tVzQtUFBvN2poMDBtN0ZjRWxEM3QydmF0eHlqYlBwenYtUmtCelVpZi1keWhJcFRHWTdNckJIa2NZSVdQSGpmR3o0MWxCZFBtcWFv?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "levetiracetam",
-          "keyword": "TAM",
-          "name": "LEVETIRACETAM",
-          "url": "/drugs/levetiracetam/"
-        }
-      ]
-    },
-    {
-      "id": "b0b2cbc08903",
-      "title": "Cientista brasileiro recebe uma das maiores honrarias da biologia aquática - O Presente Rural",
-      "published": "2026-06-19T11:00:16+00:00",
-      "sources": [
-        {
-          "name": "O Presente Rural",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbC1nLWhjcmNhR1ZMeGV2djY3ekhEVy1YcWNpYUp3eWhKOGVXOXd1a1pzS3NSZ2xfQmw1ZUVLU1hoVTRBeHVMeDk3WXY0dElKamVuVl9yeGZQSUI5ZjBVNUowV1EyTEF6RjVsSGljaFpQdmdGdWlzZkk1TU42ZFM0UDNRaS1hanhUSUdOTHJLcUJCUzRWVjUtM29EQ0VJdFYzSlE5Yk1kMU4?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "golimumabe",
-          "keyword": "BIO",
-          "name": "GOLIMUMABE",
-          "url": "/drugs/golimumabe/"
-        },
-        {
-          "type": "drug",
-          "slug": "etanercepte",
-          "keyword": "BIO",
-          "name": "ETANERCEPTE",
-          "url": "/drugs/etanercepte/"
-        },
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
         }
       ]
     },
