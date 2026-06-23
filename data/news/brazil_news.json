@@ -1,19 +1,163 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-06-23T14:53:14.279722+00:00",
-  "total_fetched": 92,
-  "unique_count": 91,
-  "health_related_count": 28,
+  "fetched_at": "2026-06-23T20:08:23.605950+00:00",
+  "total_fetched": 93,
+  "unique_count": 92,
+  "health_related_count": 34,
   "news": [
     {
-      "id": "59c6d11ac5ff",
-      "title": "Anvisa aprova primeiro medicamento não hormonal para ondas de calor da menopausa - ICL Notícias",
-      "published": "2026-06-23T10:00:40+00:00",
-      "summary": "Anvisa aprova primeiro medicamento não hormonal para ondas de calor da menopausa&nbsp;&nbsp;ICL NotíciasVeja mais manchetes e perspectivas no Google Notícias",
+      "id": "39fc8945039b",
+      "title": "IA ganha espaço na preparação de concurseiros e transforma rotina de estudos - DOL",
+      "published": "2026-06-23T17:55:39+00:00",
+      "summary": "IA ganha espaço na preparação de concurseiros e transforma rotina de estudos&nbsp;&nbsp;DOL",
       "sources": [
         {
-          "name": "ICL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9pTXh5MWFkRHVoZ3J5WmpzNHdnYVVNSXM1LXNRYXhjYTF1THJQUUZzZHNBZXZDYy03MllRb2VMeWhrS3lSY2JEc3V2TDZNbTE4WDFxRWxYREoxNWFzNU9hMWNMalhGS3VQZ181dXJyZFBuSHZ6Uy1tUA?oc=5"
+          "name": "DOL",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT0ZzMjBUbE9IU2wyN2tmVjl2T2swUEZmVmhHQ2RXUlhJTWJQal95WktVeTA5ZTdyc2xaVnNndmwtazVRSXNuUDJVVW1aNkJLZjZ0dkIwTG8xV19VTVBUNjBtRUtlblh4T0dUOWVvLVpNOEZIMkZwcFFaeGR2WkdCSFY2SlhKSF9NVXVjMUdqR3BQVmRHSndvdmV6MEpvYzFWZ3JqeHlpT3FIamw1UHFpS1hn0gG6AUFVX3lxTE5GUEpTSGNyOTdNcnFURVp1RDduOWx2a0l0VWNUX2JYUTViZVlxekhlZVZqWERCQXRZcTZHQUFrYmptYjBBbldNbm1GSmo0YnJQd2FGM0xSekhBVXktMUJaRWV4YW5ZMDVlZUJ1alJMZEhybk0yQld0dDFUSjcwdzh6eklEY0p2dnJxdWg0UV9xNExTUDYzLTZkOW0zUzlJeW5vQ2hfYWVOV191Skx3NUlVeUUyNVI1S2t6UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "aa96c9220347",
+      "title": "Anvisa aprova novo medicamento oral para câncer de mama - Agência Brasil",
+      "published": "2026-06-23T16:45:00+00:00",
+      "summary": "Anvisa aprova novo medicamento oral para câncer de mama&nbsp;&nbsp;Agência BrasilVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "Agência Brasil",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNUNGakF0bHk1UUJkU0tyS0FWNV9RYUUwaUhTWXJQemZpcFhxZWpnV2Y4NXBUcGlQZWVReW96bmRhX0hhbWZCTWVaYU1yaTVUQUMwOEdWTm1ybzM4Q05qSDZoMW9vR1hCb0tGN016bFZVenVNaFVyZkowc19oVWZLVVE4S0VtTl9OSDBFSFdRa09ta3ZLWFBEMUxMUHlnOGxnaFVKZ2hsLUJhU3pYMzdz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e31528669088",
+      "title": "Estudante de colégio militar de Manaus criou um método que usa ondas sonoras para mexer em genes ligados ao Alzheimer e levou prêmio mundial na maior feira de ciências do planeta, nos Estados Unidos - CPG Click Petróleo e Gás",
+      "published": "2026-06-23T16:36:00+00:00",
+      "summary": "Estudante de colégio militar de Manaus criou um método que usa ondas sonoras para mexer em genes ligados ao Alzheimer e levou prêmio mundial na maior feira de ciências do planeta, nos Estados Unidos&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOUldmZGNhTS1ja2pjVTZaZXFXdEpYME1Fbk1qbDN4OU5jX0VVaVVvWXN3MEI0RlUxNW52ZzZNTmNwWmh6Zkg4WjZQNlRZbWVqUWJmLTFHb0k5QjFTaUxOYmpWdkFJZmhCWHRyamVSZVFtTHozWUxfZjEzUjN6V3hOakFxRW5IcUNDanNROVFGbUs1UV82Ymo3V2RxYTlmQmhyTUNkMzkydVlqWXV6WjBkaE1nRVJxNHdDWVU3TEQwUEZOMkRrYlh0TVc0TmNXbFByV1czeUJ5YXVJcDFfUVlCX085bnhqU1RVZWx3QmlTWjZ4SVBLZndCYUZpTzVWMHozX2hSNzAzV2ZyTV9TTTFGYVBNWWpISXdXbkdKSXMwQ0R1eURUbkNXbkYwZ3phMzVxOTVETlJGc0k2SDI1c3Vlc1kyZVJjR2s?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3a46fded5d91",
+      "title": "Ministério da Saúde e SES atualizam cenário de reações da vacina da dengue do Butantan em Nova Lima - O TEMPO",
+      "published": "2026-06-23T16:23:23+00:00",
+      "summary": "Ministério da Saúde e SES atualizam cenário de reações da vacina da dengue do Butantan em Nova Lima&nbsp;&nbsp;O TEMPOVacina da dengue: Butantan mantém recrutamento de voluntários idosos para ensaio clínico; entenda&nbsp;&nbsp;O GloboAnvisa cria grupo para avaliar a segurança da vacina da Dengue feita pelo Butantan&nbsp;&nbsp;Juína NewsVacina contra dengue: suspensão demonstra 'seriedade', diz ministro da Saúde&nbsp;&nbsp;O POVOInstituto Butantan avança em vacina contra dengue para idosos | Diár",
+      "sources": [
+        {
+          "name": "O TEMPO",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPV0I5RjNzY1FOSS1Pb09YTXFOd0hzMWlIbUF5UjRSLVp6TVFrcnNiOXFxcjkwRWs0bkdiRG5vakVPcjJWNlB2TTl3enk2ZlhwQ1J6MWV1eGtfZDV0cFhwUEQwT0NuVTczNmppVUhmX1hhb1E4STVFYmw2S3gzSkVKbXlGVDNmcG8tODRmQnRqd0x5TTNjUHhrU0k3V0N2WTFDZVQyWm1yUTdUOFExM0dKOVNXUXdfUHpVdzAwaVF2LXFpQm1UYTc1WVV6eUtNZllLbi1HVWN0SGUza3J6eGZodjNkTmEwZVBm0gHuAUFVX3lxTE5fd2lDbEZpQUVNM3psbmY3TE5MRFAyT05ZWXZiaUl0YWRwd3plb0d4b2F0bHZFdHBmdmNicllYZk5tUEUtZTl4UDNiZVl3dmJkam5CNUNQMGh0Z2tUOGN4YXR6ZEdBTDN6a1RPLV9nZkNIVHBRbWdSUWwybW9BNnp3UmhTck5xZFZWTnZSZUtlUU9wSXZSaW5BVlF4STlub3FUYk54YkFET1hxc0xqSXhUVGZ4cF9hWWtuNnF6WjNBR1RycGU3RHp6bUg2aDNEb2MzbC1TTGF2Yk1jZnNFRk1KRWwyRU9pOHp0M1AxTmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cf9d664368ac",
+      "title": "Engenheira da Unesp transforma uma bactéria do mar coletada em Ubatuba numa pequena usina que gera 227 mW por metro quadrado e ainda limpa o ar, capturando CO₂ e soltando oxigênio enquanto produz energia - CPG Click Petróleo e Gás",
+      "published": "2026-06-23T15:51:00+00:00",
+      "summary": "Engenheira da Unesp transforma uma bactéria do mar coletada em Ubatuba numa pequena usina que gera 227 mW por metro quadrado e ainda limpa o ar, capturando CO₂ e soltando oxigênio enquanto produz energia&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQOWZSYkFxMlVKMWFnVGRZa2hxUUh5Y0s1bUg5aGNndDBsRzJFRnhmMWhSaHRkTHl2ZkU1Nl9PS1BLTl9FWWJTNzMxZDZZQmlVbEw5anFvNkZ6WGhxNElwUV9iWmlxQnpyUVJVTl9yT2ZqdFZhRDFkS2NnSmV1TFlnUmZ1TVNPYmJjWHp4UEZrdmxzR29KbDVOamZJM1ZYb1RkYnR2eGZqLUpobVFMZVU4Ujh2S3ROcl9TN0VkOEhqZGdhZ2owT1BWM3lsbmRBakZaZ2lpSkdtY19weGdLcmZTSWZ2YlJpSGszbXZnLTNmby1aRGI1QWRGam5lSkFncEVKNXVBS0VVN0ZIdFFYVVVPNVo4dmMtaUt2VUJhTFhEelFjRnRTaGZFUHJZbWM2bUptNFVrM0lLbW5LdzduNENodVpMMTQzQ1U?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "370beb5bb9a6",
+      "title": "Vacinação contra a gripe no Paraná será aberta para público em geral a partir de segunda - Secretaria de Saúde do Paraná",
+      "published": "2026-06-23T13:35:00+00:00",
+      "summary": "Vacinação contra a gripe no Paraná será aberta para público em geral a partir de segunda&nbsp;&nbsp;Secretaria de Saúde do ParanáVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "Secretaria de Saúde do Paraná",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX01xWGVsaHNHQjNSVDN5cUdhQTU2NkczSVNIMERhVnozQXVuTGh6UG1WOXpOUXNFcWprV0lTRzl2UHBwLTYtUEZjakljWGtqTEZ4WDVPUi1YNnNBSm1zV3VPLXlOcmZWMlZuWk9nVFpFUUpXTVdGQ1AwWFZxV0JjQnFGNFJEQzJyZnBCYk9KeVhvQ2NOTWw2MkFVM0VYQVhpVjdWTXJUeU51TmhWejlUeWJnNlRoeUNrYjVHeg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "27b619b5726d",
+      "title": "Denver usou o método Moradia Primeiro e derrubou a população de rua em 64% em três anos: censo de 2026 achou só 518 vivendo na rua e 7.700 já foram para moradia permanente - CPG Click Petróleo e Gás",
+      "published": "2026-06-23T13:30:00+00:00",
+      "summary": "Denver usou o método Moradia Primeiro e derrubou a população de rua em 64% em três anos: censo de 2026 achou só 518 vivendo na rua e 7.700 já foram para moradia permanente&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPYzFNTUc2RTRUM2JvUDF5MUtoOW1paUtycG5kdDBlMlpPWFdnbGstRWVFTnFnZU1Zbm1BNWV5c1hVSDc0M3ZPSDlfeUtUakNsY3BqV1pNUnVUWktEeVBORllTRzNqbTB0c1lYb2gtTFpybFc1VWpsQS15Y1MwX3VPelRFR0JNZWNtTW1icE9zRXRYTTJHaXRka1RiUDhQaEt6bFZyZFZnYjhTQ1hjZFdZX2xBRWs1el9kMS1IYUxuVlhfX213U0RSdmRreS1za3loSzJLS2lzUlpDdC1OUWNDRDFtOFFQVjIxTURaaUVUQ3J3MjNwVkdxWDA1dGRMclhXV3VXVU9vZXk5aTU0Vk5Ya1FqblNweXJ4LWtUT0pJaUN1QnF4M185SVpYMEdUNTJQaVow?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "37d0ce9281cc",
+      "title": "Anvisa aprova primeiro remédio não hormonal contra fogachos; entenda como ele age no cérebro - G1",
+      "published": "2026-06-23T11:31:51+00:00",
+      "summary": "Anvisa aprova primeiro remédio não hormonal contra fogachos; entenda como ele age no cérebro&nbsp;&nbsp;G1Anvisa aprova primeiro medicamento não hormonal para ondas de calor da menopausa&nbsp;&nbsp;Folha de S.PauloNovo remédio para menopausa: Anvisa aprova medicamento não hormonal para sintomas&nbsp;&nbsp;Veja SaúdeAnvisa aprova medicamento que controla ondas de calor da menopausa, informa laboratório&nbsp;&nbsp;EstadãoAnvisa aprova remédio não hormonal inédito para menopausa&nbsp;&nbsp;CNN Bras",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYUx3X2ZaeXJ2Nnd3dnVBYUxlcmRiT2dScmx4OFFIVXo1TWhIQWxacTdqdEZMbkowZDNXa0Vqem0yemx1dEN0cmluWVBSTzI0OEF0NkloU2FzN29WUnFsZ0hYc2ROTmxZUEpNU0FUS1VQRFR0Y3NzUGV6X3ZBLXVUQ3FpMllObDFvRGQ1czZ1Vmx5dFFhX2FmbGlnMjZRUS00NGJjRVY0Zm53LU1mcXdZWkVfTEs2amNTUGNqMnYyRFhfY05zbTNEZVZhaS1RcEItNkxuZXNYZVFzNDTSAeoBQVVfeXFMTU1WQ25WN2FMTko0ME1Hc2hzcE5YYWZER3lLd05DNkV5Sk1IVl9YaEpEZUpLTG0xMVR6dThiU0tmX3h6azAtZjdZRXFSNGprUDhnQmVkdEJXbDBLY215azF5aWhDUUxhaFNoTzFVQzZlUmZTVTZwLW8wYUcyMjFveW9NMFVRa3lBVjNQYkoxQll0QkplUmhsbW5FYnZfLUJSN2JlOU16RFZMM3VMUHA2SlVMVkJnT0t6N1ExLVVYdGJWcExCc1FzeFdJcDJORWhpN1ZJamg1cXV6Njhqb3ptSlBIbjRvZ21vUVln?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ab48660a4b92",
+      "title": "HMC realiza procedimento inédito para tratamento da síndrome de Cockett - Vox 97 FM",
+      "published": "2026-06-23T10:27:50+00:00",
+      "summary": "HMC realiza procedimento inédito para tratamento da síndrome de Cockett&nbsp;&nbsp;Vox 97 FM",
+      "sources": [
+        {
+          "name": "Vox 97 FM",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeHozUUF5R0RrZ2ZkZHV2U2pUdW13Z0hKczg1ckp0TV9SUjdzR215T2hZQWJWSVdDWVNkM2F5YjMxOE1vbEFpYUFyTV9tY3JrR0JEcXJyNkZZSU9TMVRzdExCS1NaRmEtNHZWN28zWmUzNC15eGF3NW81UVZJY291bnQtMENFeHEyZEVpYVQ0M2VhcWhudm9uZVZaM3laNVV0MUJVdkY5Qnhsdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8f12bc388898",
+      "title": "Entenda como consumir brócolis pode te ajudar a combater o diabetes e doenças no pâncreas - Jornal Correio",
+      "published": "2026-06-23T10:00:00+00:00",
+      "summary": "Entenda como consumir brócolis pode te ajudar a combater o diabetes e doenças no pâncreas&nbsp;&nbsp;Jornal Correio",
+      "sources": [
+        {
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQTd3anEtOWdCYkZfTjE0M2xEcXpWM1hwTW5UZHRHMkc4OWRBRkp0SjFFTFZMdHBpOWJRcHdiSEl4NFdGdE5weExOamlNbWJFdHdsLVMyLUZISjlxOFUyeUNqSTR3S3E2ekF1ejBQVUxaRF9tNXpoQUZxU3hMakJUTjl5cWN0Znk3NVdHU2NYb1hFalU5SHZVZDY3Q2h0cmY0cHd2RWt0dTM2RFJJYl9iWWt6Y1NUaEJsY203S0s2SFhQRHJ3SjR6Z3VPMURqQ1U0T0E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4a62e72af811",
+      "title": "Por que o pênis é um termômetro da saúde masculina - e como prestar atenção em seus sinais de alerta - Olhar Alerta",
+      "published": "2026-06-23T09:57:00+00:00",
+      "summary": "Por que o pênis é um termômetro da saúde masculina - e como prestar atenção em seus sinais de alerta&nbsp;&nbsp;Olhar AlertaVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "Olhar Alerta",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOU3BQUERwSjkwZmJKNlJhbW1YSGhxdTY4V0NoanJmdWhBbk5BNWxoczFxVzJ2T3dhWmVkeldlTV9nT0NNekljTHZtdWYwaXNnSTJxamhid2JwdE1LWUpCcDlpV216RnA0cC1xMWlVbTlCaVlYV1BybnpOc2x2MTNlNFYyLUZCSGlBYmtleVdlbTZuTDQwX3Z1Z3Vac0ZPQlJTcUZwSm1XLWdSS1ZkY1dVUEF1ZHp2cEUxNTZHcl9PMjJtR1J2X1JzUU9Wc1VQT0FQV3FydWF5T0R6M0k?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "59f3c37c2122",
+      "title": "Cardiologista revela que hábito comum pode ser a causa de insônia - Rádio Itatiaia",
+      "published": "2026-06-23T09:06:57+00:00",
+      "summary": "Cardiologista revela que hábito comum pode ser a causa de insônia&nbsp;&nbsp;Rádio ItatiaiaAurelio Rojas, cardiologista: \"Consumir bananas, uvas, mangas ou abacaxis à noite pode interferir no sono\"&nbsp;&nbsp;TerraAurelio Rojas, cardiologista: \"Essa fruta (não é a banana) melhora a sensação de saciedade sem interferir no sono. Você vai dormir melhor e acordar com muito menos fome\"&nbsp;&nbsp;TudoGostosoBanana, manga e uva à noite podem prejudicar o sono? Cardiologista explica&nbsp;&nbsp;Rádio It",
+      "sources": [
+        {
+          "name": "Rádio Itatiaia",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVEZOV1QyZTZWMmd4bDZwandsNTMwRXhwU3JsNjVMWUJGM3l5TE5DMjZ0cDJpb2VhZHo1dmZHUmYzaUswcUVwdjc2MVVZZ0lxZ09uNE1EcXZQQ1NrQ0paQU1nZUZHanNNRXFUVVAyS0Y3UHlZd3FYMC1NVDBOLW53WXg5cDZxUXo0eVJkdzJ2RmZ2el9qSmEtc3Z3Yll6c3FrLUsw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "28a2009cc25c",
+      "title": "Homens idosos que dormem mais de nove horas por dia têm maior risco de perder mobilidade, aponta novo estudo; entenda - O Globo",
+      "published": "2026-06-23T07:30:19+00:00",
+      "summary": "Homens idosos que dormem mais de nove horas por dia têm maior risco de perder mobilidade, aponta novo estudo; entenda&nbsp;&nbsp;O GloboSono prolongado reduz mobilidade em homens idosos - 22/06/2026 - Equilíbrio e Saúde&nbsp;&nbsp;Folha de S.PauloSono prolongado em idosos pode estar ligado à piora da mobilidade em homens, aponta estudo&nbsp;&nbsp;TerraDormir demais pode prejudicar mobilidade de homens idosos, diz estudo&nbsp;&nbsp;Correio BrazilienseAlerta na terceira idade: Por que o excesso de",
+      "sources": [
+        {
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOeU9TRkYzeVZLQVdNR0RBV0lEd0RkbW5BQk9oUjN6a2VyclVpcGtESXRzbTBzMFVZMVNoS3Z2bWs4akw3dm5CUkZQd3dKaEpXbDVZQjBOd2tJeVFPM3FQdGhWbDZQNm85cTc2c0Zsc3ByeWZ4T2VMX2dyR1hTLUhKZ2g1Y2djWXZUY2R0el9aWVhkVGRrLTF2NHBrQTl2S1BFMkxUNUxreVJzTjRVcGJUQklrWHIyZC1CYWVMdHNNWjJwd3pNbkZWLWphRkNKNkFDRUpCSHNnZHEzanQ4aVBRd1dMT2F0dDZaX3cxUzZ2c2dEaXN4V1hDaUx4eUNtVVVx0gGPAkFVX3lxTFA0MmpmdThoYURRSEl5MjdmMlZuanI4WjFMZWs2QWQ4NXRkVktnUnF3X0MxdkhUSmxrNWxZNGZ5UmIxTXo5dDhmbWprNjN5ck5uYmhSS1Z6cDN1d0FOSGdPWVVvVTNMNFZRT1UzWWd1MG1xN1lMZ0tJQUw4RUZWZHFkVlAzcmlBRkhwZlB1RXBFTDVXWHQwRXE3NlBaZEJWN0dBVk9GMi1aVDZ1WmM2R2xOOHdGSnpoTzFocE55WDVaQTdQOTU3Q3k5YUJYWWx0MDR1Y1BYdGZGaXd1YWYxYjlDalEzUG9xeC1pNWFiX0FiNVZUd2syWjdIUnNQcXJncWEtNWYydXAwQlNTLTMyR2M?oc=5"
         }
       ]
     },
@@ -45,7 +189,7 @@
       "id": "bec47e5bb191",
       "title": "Vacina Pneumo 20 começa a ser aplicada em crianças da Baixada Santista; veja cidades e locais - G1",
       "published": "2026-06-22T23:27:23+00:00",
-      "summary": "Vacina Pneumo 20 começa a ser aplicada em crianças da Baixada Santista; veja cidades e locais&nbsp;&nbsp;G1Prefeitura informa disponibilidade da vacina Pneumo 20 a partir desta quarta (24)&nbsp;&nbsp;uberlandia.mg.gov.brComeça vacinação Pneumo 20: imunização protege contra pneumonia e meningite&nbsp;&nbsp;G1Tocantins recebe mais de 12 mil doses da vacina Pneumo 20 para crianças de até 5 anos&nbsp;&nbsp;Cleber ToledoSUS passa a oferecer vacina contra doenças graves como pneumonia e meningite #sho",
+      "summary": "Vacina Pneumo 20 começa a ser aplicada em crianças da Baixada Santista; veja cidades e locais&nbsp;&nbsp;G1Prefeitura informa disponibilidade da vacina Pneumo 20 a partir desta quarta (24)&nbsp;&nbsp;uberlandia.mg.gov.brVacina Pneumo 20 começa a ser aplicada em Volta Redonda&nbsp;&nbsp;G1Nova vacina pneumo 20 chega de graça ao SUS em MS&nbsp;&nbsp;Campo Grande NewsVacina Pneumo 20 chega ao SUS: para que serve e quem pode tomar&nbsp;&nbsp;Veja Saúde",
       "sources": [
         {
           "name": "G1",
@@ -54,14 +198,14 @@
       ]
     },
     {
-      "id": "2060cb13f1ba",
-      "title": "Corujão da Saúde – Sandra Gomes anuncia horário noturno em seis postos de saúde - Patos Notícias",
-      "published": "2026-06-22T22:50:44+00:00",
-      "summary": "Corujão da Saúde – Sandra Gomes anuncia horário noturno em seis postos de saúde&nbsp;&nbsp;Patos Notícias",
+      "id": "ebbefc9414bf",
+      "title": "MCTI e CNPq abrem chamada de R$ 300 milhões para pesquisas em todas as áreas do conhecimento - www.gov.br",
+      "published": "2026-06-22T20:52:41+00:00",
+      "summary": "MCTI e CNPq abrem chamada de R$ 300 milhões para pesquisas em todas as áreas do conhecimento&nbsp;&nbsp;www.gov.br",
       "sources": [
         {
-          "name": "Patos Notícias",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZ1RXb3BsV1ZZNFZxVVhET0JOWURwSzUtUEt6U0REOG1GYjRGMzIzZVpzTTlfVGdFY25IMVBBZ1FFcDcteVBnTEphSG13a3JsNFBBRzdlR1NnSWVTVGxYZkpvanliZnNQRWZ2M21XZm5fYlJZWEZsV3RjTXdxcWVZbUtXQ0Q4UVo4R0lmeFpTV3k1V0Qt?oc=5"
+          "name": "www.gov.br",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOcXQ5dWp4NzNYUjBBbFBXUW55enVKT0lfXy15YUVJYVdJMVJGYVVmZDJpSEVGRVZyd2czWTQtQUt5U0ctdW1OS3J5UFE2czloWUc5X3ZVTEhfSXlQWEg2VnRuXzVDWXVRVjBsRXlLUXdaT0IxdVFxQmRPcDN6OVZ6Vk1GSENYNXllNDRReGVZSnJOXzA3ZnN5ZW9nSXdkOVoxbFc3UGVTZFpjTGdlaldkQUVtTU9sV21Mc0t3dUlDcHdZLW1fMUdrbFlDcW9UZ0lXbmVHeUU3WHpEMm02UGdweHdYaVRSTHJBdTFB?oc=5"
         }
       ]
     },
@@ -69,7 +213,7 @@
       "id": "54a5d1b7f318",
       "title": "SUS volta a aplicar duas doses de reforço da vacina contra a pólio - Agência Brasil",
       "published": "2026-06-22T20:12:00+00:00",
-      "summary": "SUS volta a aplicar duas doses de reforço da vacina contra a pólio&nbsp;&nbsp;Agência BrasilReforço contra a poliomelite volta ao calendário de vacinação de crianças; entenda&nbsp;&nbsp;G1Ministério da Saúde retoma dose de reforço contra a poliomielite aos 4 anos&nbsp;&nbsp;Folha de S.PauloCrianças de até 5 anos terão reforço da vacina contra a pólio&nbsp;&nbsp;R7Ministério da Saúde retoma 2º reforço da vacina contra a pólio com dose injetável; entenda a mudança&nbsp;&nbsp;O Globo",
+      "summary": "SUS volta a aplicar duas doses de reforço da vacina contra a pólio&nbsp;&nbsp;Agência BrasilMinistério da Saúde retoma dose de reforço contra a poliomielite aos 4 anos&nbsp;&nbsp;Folha de S.PauloReforço contra a poliomelite volta ao calendário de vacinação de crianças; entenda&nbsp;&nbsp;G1Crianças de até 5 anos terão reforço da vacina contra a pólio&nbsp;&nbsp;R7Ministério da Saúde retoma 2º reforço da vacina contra a pólio com dose injetável&nbsp;&nbsp;Folha PE",
       "sources": [
         {
           "name": "Agência Brasil",
@@ -78,22 +222,10 @@
       ]
     },
     {
-      "id": "652501210302",
-      "title": "Rafael Kessler, menino de 11 anos do Distrito Federal, criou sozinho uma fórmula matemática inédita durante os estudos para a OBMEP, teve seu trabalho validado por doutores da UnB e agora busca publicação em uma das principais revistas científicas de - CPG Click Petróleo e Gás",
-      "published": "2026-06-22T19:18:00+00:00",
-      "summary": "Rafael Kessler, menino de 11 anos do Distrito Federal, criou sozinho uma fórmula matemática inédita durante os estudos para a OBMEP, teve seu trabalho validado por doutores da UnB e agora busca publicação em uma das principais revistas científicas de&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxObnFUWUI5Rk4wcWpHc1R4SkFjS1d1N3FuQjZDTGtZbUtibXRuQ3FnS1Vvd19sRFdWZU5VdkFPUXkyZzRDak5Jb2U5eXpDYnpMbl9Mcnl1eklpSTRacG9CUDV0Zk1nQW5KRW1zZFFpNE9vOE9JNXRXM0l2azFrZ3JJT3VtOFJaQkl4V0ZNUXVfLW1pNWpzY3ZOZnNYY1ozbTA3OFYzeXFPMEx5N2VfTE1Oa0FLcWxiQnpOdnZZSmFiMloxVl9nNnFqUWxCNDFYeVRTNXN5NXhYc1RZZVVGLVVzSjdVQWExUXJ5ZzhnRmlwTDhkOVVqSEgxRjh1VUtrS1BjbG1VVE9HQUJpWHBVVEN4Y1lCeWRWQndtY3NzSVBsZmNqT2VnNkZ3MzdLRFNtWEttWEgyZXZySHpXX200dkFkWDRRNFBaZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "761d251b9a6f",
       "title": "Canetas emagrecedoras começam a influenciar o agro e podem redesenhar a demanda por alimentos - Notícias Agrícolas",
       "published": "2026-06-22T16:28:00+00:00",
-      "summary": "Canetas emagrecedoras começam a influenciar o agro e podem redesenhar a demanda por alimentos&nbsp;&nbsp;Notícias AgrícolasCirurgiões debatem GLP-1 e contorno corporal no Brasil&nbsp;&nbsp;Valor EconômicoObesidade: inovações turbinam perda de peso e de gordura visceral | Letra de Médico&nbsp;&nbsp;VEJAProfessor da UFSC faz alerta contra uso sem indicação de \"canetas emagrecedoras\"&nbsp;&nbsp;Notícias da UFSCCom a chegada das canetas emagrecedoras, restaurantes da Serra se adaptam ao novo comport",
+      "summary": "Canetas emagrecedoras começam a influenciar o agro e podem redesenhar a demanda por alimentos&nbsp;&nbsp;Notícias AgrícolasCirurgiões debatem GLP-1 e contorno corporal no Brasil&nbsp;&nbsp;Valor EconômicoObesidade: inovações turbinam perda de peso e de gordura visceral | Letra de Médico&nbsp;&nbsp;VEJAEstudo diz: retatrutida tem resultado similar à bariátrica&nbsp;&nbsp;TerraCom a chegada das canetas emagrecedoras, restaurantes da Serra se adaptam ao novo comportamento dos clientes&nbsp;&nbsp;GZ",
       "sources": [
         {
           "name": "Notícias Agrícolas",
@@ -102,14 +234,14 @@
       ]
     },
     {
-      "id": "6c19e5900b8f",
-      "title": "Morre François Englert, físico que levou à descoberta da 'partícula de Deus' - Revista Oeste",
-      "published": "2026-06-22T16:24:14+00:00",
-      "summary": "Morre François Englert, físico que levou à descoberta da 'partícula de Deus'&nbsp;&nbsp;Revista Oeste",
+      "id": "03e8f7db03ca",
+      "title": "Instituto de Estudos Avançados reforça protagonismo em pesquisas de agricultura espacial - fab.mil.br",
+      "published": "2026-06-22T16:13:23+00:00",
+      "summary": "Instituto de Estudos Avançados reforça protagonismo em pesquisas de agricultura espacial&nbsp;&nbsp;fab.mil.br",
       "sources": [
         {
-          "name": "Revista Oeste",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU3V6eFJCWEl5c3dCUnA1dnpHdDNWREhja1BxeTlLZngxeFgydi1OZXJvaWFXOTk2OTN3QkJEWTZiMGhESHp1WFNyRTF4dmxLV2I1NGg1d1FFcDI5YVk0NVAtM3NENzFPcjQxUno1UUNVQzZfVThPbDBOQ1VzaXJrZElPUGcyd2h2SHkyZ2ZlTmx3UnJ5Y3Nkek5GTXpUWXBTT2UwTFNwczc?oc=5"
+          "name": "fab.mil.br",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSzdXblRURGNfSjd6SXE4NmlXR2VZYnlPYTJtMHpwRmFndC1MWjVEVFFxVUNLdXRibDhGUlgwU3h0azdKaVFhNDJGNjl0ZFBhUmlBaHpHYi1yQmtieTRWSFhKMDVjSXpST2F4Q2J2MDF3b0pDODJNNzJKc215S0F1aEJpalpvOF9WdmgyLWxHWlpmbnFaOUR6WHF1LUlyMlNQUUl6cjhPYldPNXZkWUp6S3VHN3BkY1NKdmZWOVdCUXNCeEh1Y21ERWtOdThKMjIteHNGZzdFMExneVBlMnBSQ1k3RQ?oc=5"
         }
       ]
     },
@@ -126,18 +258,6 @@
       ]
     },
     {
-      "id": "43d3c0b7c272",
-      "title": "Dormir mais de nove horas reduz mobilidade de homens idosos, diz estudo - Folha de S.Paulo",
-      "published": "2026-06-22T14:04:00+00:00",
-      "summary": "Dormir mais de nove horas reduz mobilidade de homens idosos, diz estudo&nbsp;&nbsp;Folha de S.PauloHomens idosos que dormem mais de nove horas por dia têm maior risco de perder mobilidade, aponta novo estudo; entenda&nbsp;&nbsp;O GloboDormir demais pode prejudicar mobilidade de homens idosos, diz estudo&nbsp;&nbsp;Correio BrazilienseAlerta na terceira idade: Por que o excesso de sono pode tirar a mobilidade dos homens&nbsp;&nbsp;Revista Let's Go BahiaSono prolongado pode indicar maior risco de p",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYnIyU2k3Vm5LMEFkSlBwcEpLa1ltMk5UejRQWW91a0ltYkFCRW5NSDdHUWFqQVZscG9DeUI1UW5CbTczRUR1NWlPSER1MzRmeWh1NmgxemN5VmEtTU9VUXkwTmpUd3FtUkZna1ZIM0lYVEJVWVNUd2FwNzIxd1M4MmlkZ2hEam9JVjI2bTZZbnp4elJXMHRaa2ZxdXZYV2dSdzdnSUVORkJaVjB2X0pnVDR5VlJfRVYwV2lwakdsc09FVWxSMXd0dE8yOA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "92e1d8f80ebd",
       "title": "Calvície: novo medicamento contra queda de cabelo é apontado como o maior avanço em décadas - O Globo",
       "published": "2026-06-22T13:36:35+00:00",
@@ -150,34 +270,10 @@
       ]
     },
     {
-      "id": "6de1e1c54efe",
-      "title": "Hiperparasita em forma de chifre é identificado pela primeira vez - Metrópoles",
-      "published": "2026-06-22T13:05:00+00:00",
-      "summary": "Hiperparasita em forma de chifre é identificado pela primeira vez&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVUxQbkNrYnFXNEVkc2RtZDlTaDZnZ3hidDlzcWh6YmFuRmJMM21fYkFrTHhTWDE5YXNRSENob2pvVVNXQWMyUUlGbkNaV3FyT282UzBObE1BWGI3NVNWWmJwWmFnSE9rZXZLQXlTdlpuN0o5Z2FSbFN2ampFbllHRHJFUVlDV00?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d689d1213bb5",
-      "title": "Anvisa aprova novo medicamento oral para câncer de mama — Agência Nacional de Vigilância Sanitária - Anvisa - www.gov.br",
-      "published": "2026-06-22T12:52:50+00:00",
-      "summary": "Anvisa aprova novo medicamento oral para câncer de mama — Agência Nacional de Vigilância Sanitária - Anvisa&nbsp;&nbsp;www.gov.brANS abre consulta pública sobre cobertura ampliada para mamografia digital&nbsp;&nbsp;InfonetAnvisa aprova primeiro comprimido para câncer de mama avançado&nbsp;&nbsp;ICL NotíciasAnvisa aprova nova terapia oral para câncer de mama avançado ou metastático&nbsp;&nbsp;A GazetaAnvisa registra medicamento para câncer de mama avançado&nbsp;&nbsp;R7",
-      "sources": [
-        {
-          "name": "www.gov.br",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNazdnVDRaSFI2enhEYmlBNVN3TEtFUFlla245cFN4ZkJreFdNNjRDSlNZTThTT0NXc3IwSUgxWi0tSG9UY3ZyS3U3Ty1hY3lDaWctYnZrcG93emRxMy0xRTc4eUdvRmJEb1ZudWhqbHZpMzJ2X3E5OGFxMzZqS1I4UXhheV9CMVE4bkNGY0g2LUtzdmEzQURjYjNVNGZxZjlHTC1NNW1LMzlBRHlOUGFjMXBkZHpwSUwz?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2152a0f06ae6",
       "title": "Canetas emagrecedoras podem influenciar a evolução do câncer? - Folha de S.Paulo",
       "published": "2026-06-22T12:39:00+00:00",
-      "summary": "Canetas emagrecedoras podem influenciar a evolução do câncer?&nbsp;&nbsp;Folha de S.PauloEstudos investigam possível relação entre canetas emagrecedoras e menor progressão de alguns tipos de câncer&nbsp;&nbsp;Portal Fato AmazônicoEstudos indicam que canetas emagrecedoras podem reduzir avanço de alguns cânceres&nbsp;&nbsp;GP1",
+      "summary": "Canetas emagrecedoras podem influenciar a evolução do câncer?&nbsp;&nbsp;Folha de S.PauloAlém de emagrecer, Ozempic também atenua impulsividade violenta, aponta estudo&nbsp;&nbsp;TerraOzempic e Mounjaro protegem o cérebro? Entenda investigação&nbsp;&nbsp;CNN BrasilJCNET: Inflamações, apneia, dependência: estudos apontam novos usos&nbsp;&nbsp;sampi.net.brPesquisa encontra associação surpreendente entre GLP-1 e comportamento violento&nbsp;&nbsp;Exame",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -186,26 +282,14 @@
       ]
     },
     {
-      "id": "907a1b08d21b",
-      "title": "Qual é o risco da prática do esporte em baixa temperatura? - Aloha Spirit Mídia",
-      "published": "2026-06-22T12:09:42+00:00",
-      "summary": "Qual é o risco da prática do esporte em baixa temperatura?&nbsp;&nbsp;Aloha Spirit Mídia",
+      "id": "d7822457ffaa",
+      "title": "Cientistas registram pela primeira vez o esquivo tubarão-duende a mais de 1.200 metros de profundidade - Revista Oeste",
+      "published": "2026-06-22T12:35:00+00:00",
+      "summary": "Cientistas registram pela primeira vez o esquivo tubarão-duende a mais de 1.200 metros de profundidade&nbsp;&nbsp;Revista Oeste",
       "sources": [
         {
-          "name": "Aloha Spirit Mídia",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYTU5aGRhd25OSEVOZ0lHNkx5WFZJUGJySXZtS0R2RFdnZEttODEwUUNob21Qdnp3WDJDZDV2QXpraktrVWpWU1FTTVpmRjEzTUlTbWpPSmIxTGNkZFAtN2lUYTIzWDk4TnBaNXRpbjUtLU1NemJUR0xKQkozRzVVejdvX2EzMlhyc2twQ0RRNGVUa1p3aWU3aGR3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bab4a67dbaa8",
-      "title": "Estudo mostra que genética e geografia impactam envelhecimento humano - Metrópoles",
-      "published": "2026-06-22T10:00:00+00:00",
-      "summary": "Estudo mostra que genética e geografia impactam envelhecimento humano&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQanI0X1ZELXpqbS1ydnpTdjczQ0dYdWVIMUZfdDNZcmNYU295aXI4ZVNUNzJSLUdaS3BudHBqdWZYWmN3RXprdno3VGstd25RQjExVGNyNDFjMWxRTktZaU0yc2tuWXZsTHJPbnNHR2hiUk5uRnE3WXNHdnBvWWN6Tg?oc=5"
+          "name": "Revista Oeste",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRFpaNzRYSGVFZVhlNFJ4RFVLTzlMd2J0Y1Z6bWZ5QTAwR1RHRnFXcTgxd0lTVlRsOTFxVFE5bVlybzU3SzN4andNM2tRemVVN19UX21udlNHSTZOZGdhenkyM2ZGSXpUaEJBUWxJQVYzLWtkWmNCSUNuOWR5S0VORUlPYW40ZUxuSFBCeFlzc2ttelJpOHFZREF4ZlBkdTdJVFY2T3d4MUZXV2EyMFpCTnlSS25jdnYyMGxUX3hSM0lsTmpSaGZiNUNVdkVxcTRNY01ScFc2eFgzaVRtQ3RHZ0o2VUo?oc=5"
         }
       ]
     },
@@ -222,10 +306,22 @@
       ]
     },
     {
+      "id": "ab6b1c75fccc",
+      "title": "Estudo associa cromossomo X inativo a menor taxa de autismo - Poder360",
+      "published": "2026-06-22T09:30:56+00:00",
+      "summary": "Estudo associa cromossomo X inativo a menor taxa de autismo&nbsp;&nbsp;Poder360",
+      "sources": [
+        {
+          "name": "Poder360",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcU5wd05wcmdVWmJoTFpCM3ZId3pvV2paa3NOaVhILUtiZGJDQWxTb1RsLWMwZUlIVE9tQUVpMEFCbktqa0dsS3c4YnRNSGZwN0UwWDZRZ19RSGgxeTh0eWF6b1lNYWktYVJncjgyYkZvdTliazBnTGFRZ2hXLXhwcFcybnFqRDd2RFdGcnhFenNYNG91NnBualBoQ05qVEdCOFE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b4d158882747",
       "title": "Sorvete no frio e tomar vacina causa gripe? Veja mitos e verdades - O TEMPO",
       "published": "2026-06-22T09:00:02+00:00",
-      "summary": "Sorvete no frio e tomar vacina causa gripe? Veja mitos e verdades&nbsp;&nbsp;O TEMPOGripe ou resfriado? Descubra as diferenças dos sintomas&nbsp;&nbsp;www.proteste.org.brPor que o nariz sangra mais no frio?&nbsp;&nbsp;EstadãoNem sempre é só uma gripe&nbsp;&nbsp;Universal.orgMitos e verdades: o que o inverno faz com a sua saúde respiratória&nbsp;&nbsp;Primeira Página",
+      "summary": "Sorvete no frio e tomar vacina causa gripe? Veja mitos e verdades&nbsp;&nbsp;O TEMPOGripe ou resfriado? Descubra as diferenças dos sintomas&nbsp;&nbsp;www.proteste.org.brPor que o nariz sangra mais no frio?&nbsp;&nbsp;EstadãoGripe e resfriado: entenda por que o frio favorece as infecções respiratórias&nbsp;&nbsp;sb24horasNem sempre é só uma gripe&nbsp;&nbsp;Universal.org",
       "sources": [
         {
           "name": "O TEMPO",
@@ -261,7 +357,7 @@
       "id": "faa73fb077c5",
       "title": "Morrer de tristeza: é possível que emoções intensas causem doenças e possam levar à morte? Entenda - O Globo",
       "published": "2026-06-22T07:30:33+00:00",
-      "summary": "Morrer de tristeza: é possível que emoções intensas causem doenças e possam levar à morte? Entenda&nbsp;&nbsp;O GloboSaúde pede equilíbrio entre corpo, mente e emoções - aRede&nbsp;&nbsp;aRede",
+      "summary": "Morrer de tristeza: é possível que emoções intensas causem doenças e possam levar à morte? Entenda&nbsp;&nbsp;O GloboÉ possível morrer de tristeza? Entenda o que a ciência diz sobre os riscos&nbsp;&nbsp;Meio NorteÉ possível, afinal, morrer de tristeza?&nbsp;&nbsp;Agora RNSaúde pede equilíbrio entre corpo, mente e emoções - aRede&nbsp;&nbsp;aRede",
       "sources": [
         {
           "name": "O Globo",
@@ -285,23 +381,11 @@
       "id": "efd005b5b442",
       "title": "Frio sobrecarrega o coração e aumenta o risco de infarto e AVC; saiba como se proteger - Folha de S.Paulo",
       "published": "2026-06-22T07:00:00+00:00",
-      "summary": "Frio sobrecarrega o coração e aumenta o risco de infarto e AVC; saiba como se proteger&nbsp;&nbsp;Folha de S.PauloInverno aumenta casos de doenças respiratórias&nbsp;&nbsp;G1Infectologista da rede pública de saúde de Volta Redonda alerta sobre aumento da incidência de doenças respiratórias no inverno&nbsp;&nbsp;Prefeitura de Volta RedondaHospitais registram alta na procura por doenças respiratórias com o frio&nbsp;&nbsp;R7O inverno chegou: previsão de mais frentes frias e necessidade de maiores ",
+      "summary": "Frio sobrecarrega o coração e aumenta o risco de infarto e AVC; saiba como se proteger&nbsp;&nbsp;Folha de S.PauloQueda nas temperaturas requer cuidados com a saúde respiratória&nbsp;&nbsp;G1Pressão alta no inverno: mitos e verdades sobre o risco cardiovascular&nbsp;&nbsp;VEJA SÃO PAULOInfectologista da rede pública de saúde de Volta Redonda alerta sobre aumento da incidência de doenças respiratórias no inverno&nbsp;&nbsp;Prefeitura de Volta RedondaInverno exige atenção redobrada com a saúde res",
       "sources": [
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOLWhvQlFNMEpUYkJrX28wNVVzS3VOOWhGMnc0T3lnRlBnMGZGLWFiSnBtOVdtYTBuUEFDSmtycVZCb01NUTMzM0p2M2dhcVZPMmRDZUVvTEYzOFdVV1JCdVQ4QTJVTmhhSjl1NmxmdzhENkd2WHFuY3REV25JSmNTcXZIeUZIUDR5SGl1QXlhOW9TMEhRRWEycjZmLUlCenVpbGprcmxDNk91YlEyQmJJWE4waXltNnhIc2ZvTk9lQV8tTXVtRW1UcFg1WEVKdnFMRzRWeVN1M2h0MkR2RW5r?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "48e9babb60ed",
-      "title": "Descoberta surpreendente reprograma células cerebrais e reduz placas do Alzheimer - R7",
-      "published": "2026-06-22T03:04:23+00:00",
-      "summary": "Descoberta surpreendente reprograma células cerebrais e reduz placas do Alzheimer&nbsp;&nbsp;R7Composto à base de cobre reduz proteína do Alzheimer e melhora memória&nbsp;&nbsp;UOLEstudo indica que falha entre proteínas pode desencadear Alzheimer&nbsp;&nbsp;portal ljO gatilho biológico que causa o Alzheimer, segundo a ciência&nbsp;&nbsp;Época NegóciosEstudo identifica molécula que ajuda cérebro a combater o Alzheimer&nbsp;&nbsp;Exame",
-      "sources": [
-        {
-          "name": "R7",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNd3lsVjB3ODBuWGdWbmtMR3QxRlc1TlVLQnVhNUtqQXVzNEJKSzFJVjRJVS1nWlVCNWxLSENOSGYwQzNqQXVETGlWXzlDUEVXZlRHVUpON0lSSzlPdXJ4YmJRcm0zUFkzbnVNd0h4WWlFQlBMNUpuWHRwaS1va1ViVFd2VG5jdDJZSFlhdjluTUtpYWlaUHhfUmw4VzhmYlZFMW5rWHg2a1ZsakVvc0RsU2ltYVlpTWxiR1B5T0ZPakYwcEVUM1I0?oc=5"
         }
       ]
     },
@@ -326,18 +410,6 @@
         {
           "name": "Olhar Digital",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYWRNTWlSRmtBNHd1ZFN1U0k0ZUljRXRsc3FMdWpHY3Vpdm9jenF5TFlYcDJScUJnWEdUNkVObmNBbUJOTzNfQTJ6NHF1eHh1dEFzbjJ3SGhYY1AzQWg2MUlwZE9XVlRUeHdZUnY5QkFnN1h6aDhaQU9PbnVXREJmZHROc1FhYnpxekZnRnJHY2pBWTZsc3hZaXVtLXNBdlNiOHJXQ1pacUhvcjMzSFBOUlQwYTFkcHYtbDdXNV9JOG9ZNGtVa0pXRUVEeTg5M1FxVFhHaDVZTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "24b029788779",
-      "title": "Chá de alecrim emagrece? Veja o que já foi comprovado pela ciência - UOL",
-      "published": "2026-06-21T17:00:00+00:00",
-      "summary": "Chá de alecrim emagrece? Veja o que já foi comprovado pela ciência&nbsp;&nbsp;UOL",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTzczclYxajduVkt5cE4yTkE3ZEZ4Y01aWmVhRXdKZ2Fyb0s2eUkzTG9Db0RJUURNREtGUXByc3pUZTNCUjhEbjBKb3BYUDVJTmFFTHMzMUNSYjV0WEJwLVBYajlqWUV6ZDFiZVppeDFwTFVCQlNiVW0xQ01qVlN3cjJTSkZRbFp6dUFvdEdBd190LTZkLWFYcmhGTmpNMEREOW81TlJQc042Z2taNDdTc1U5aWlsb1I5Z3FJT1U3b01Xems?oc=5"
         }
       ]
     }
