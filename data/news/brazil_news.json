@@ -1,9 +1,9 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-06-24T03:47:53.843599+00:00",
-  "total_fetched": 99,
-  "unique_count": 97,
-  "health_related_count": 34,
+  "fetched_at": "2026-06-24T09:33:47.117119+00:00",
+  "total_fetched": 98,
+  "unique_count": 96,
+  "health_related_count": 30,
   "news": [
     {
       "id": "76908fe2b212",
@@ -30,18 +30,6 @@
       ]
     },
     {
-      "id": "f7cbd1439804",
-      "title": "Jovem de Campinas viaja 12 horas para fazer tratamento da medula com polilaminina; entenda - ACidade ON",
-      "published": "2026-06-23T21:30:44+00:00",
-      "summary": "Jovem de Campinas viaja 12 horas para fazer tratamento da medula com polilaminina; entenda&nbsp;&nbsp;ACidade ON",
-      "sources": [
-        {
-          "name": "ACidade ON",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLTc5cEtnZ2R4ZjY0UFMwekQ3cjZpN0pOaGhMVHpoNTE2UjhOdnJQbzhHRUtkOGxuY2R6MlFxY2k2RXhHenhaalA1ZlRnc0dPcmdhUkNhai1mWU1KYWt4bm9RYlVTNnNSNzJWRnZuNTNpQzFSd1hLT004ZlJpSGYxNFp2cTBGOFczbUU3ZzhVSkxJZmlSQ1licGY0YThMNkx3TDZKWDZQMllXVFZsWEpjb0l2dXY1MHBPT1VqcTBUTndIOWZJWlJZSkoyeUV3XzFC?oc=5"
-        }
-      ]
-    },
-    {
       "id": "63ad8d678f23",
       "title": "Sesau abre seleção para 40 bolsistas no PET-Saúde Clima - Campo Grande News",
       "published": "2026-06-23T21:26:00+00:00",
@@ -54,26 +42,26 @@
       ]
     },
     {
-      "id": "61be69347581",
-      "title": "Rio recebe mais de 36 mil doses da vacina Pneumo 20 para crianças de até 5 anos - G1",
-      "published": "2026-06-23T21:22:36+00:00",
-      "summary": "Rio recebe mais de 36 mil doses da vacina Pneumo 20 para crianças de até 5 anos&nbsp;&nbsp;G1Vacina Pneumo 20 começa a ser aplicada em crianças da Baixada Santista; veja cidades e locais&nbsp;&nbsp;G1Vacina Pneumo 20 chega ao SUS: para que serve e quem pode tomar&nbsp;&nbsp;Veja SaúdeSUS passa a oferecer vacina contra doenças graves como pneumonia e meningite #shorts #JR24H&nbsp;&nbsp;R7Prefeitura informa disponibilidade da vacina Pneumo 20 a partir desta quarta (24)&nbsp;&nbsp;uberlandia.mg.gov",
+      "id": "8f4e3fcab7b8",
+      "title": "Anvisa autoriza medicamento não-hormonal que trata sintomas da menopausa - GOV.BR",
+      "published": "2026-06-23T21:23:50+00:00",
+      "summary": "Anvisa autoriza medicamento não-hormonal que trata sintomas da menopausa&nbsp;&nbsp;GOV.BRAnvisa aprova primeiro remédio não hormonal contra fogachos; entenda como ele age no cérebro&nbsp;&nbsp;G1Menopausa: como funciona o remédio sem hormônios para tratar ondas de calor aprovado pela Anvisa&nbsp;&nbsp;EstadãoNovo remédio para menopausa: Anvisa aprova medicamento não hormonal para sintomas&nbsp;&nbsp;Veja SaúdeAdeus, ondas de calor? O que faz o fezolinetanto, tratamento para menopausa inédito no",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWjIwdWlRTGhnZm96LVhwcVRWdDJITDBhVXlibmVRekZ3YU10OTgtb0hkOG4wdXFOMkp0M0d5WGNNODdEOXpkWXlIRUhXZlEyMHVPWkgtV0k3UE9qbFJlT21lWjM0QjFDZ1hGemxlejZYTldNZGk4TnFFYmZQU3Y5d2RjdC15b1dHMjhMZ195ZXJST1YtRkRMM1pKZVRVUU1TVklDTEhBMWZTdUF1M25mdkdKVmFEblJOVEtwWmQ4VmhHcXJVUXlFYUhyNklRQWVOSkNFdk1WcjVmSWPSAeoBQVVfeXFMTk9VaHNZQWhQamdEckdGS2FfNXBLUERoeWk3cTZaN0VtamU5OVdLRlRWRVNPOG5ESUtDXzN6YkRsQ1JTTy1TTlJ4ZEJ5eUV1R0hJWHQxTF9GQ0tuS182dXFwYVdxYW9XUEZsSk5SbnAyREhHUC1Ma2FNcVhicTAyZmdfdzdJUjBxR1pFYk1oM1M4ZjhscWJDVnplamZKZ3RWRG9ZOHFmbzhQZFA1Yk9qbzFLc2h5WkJTZ1ZvbGNiRk5SaGtZbE5JSjJiUkpJeTI5U0lCRjZKY2FsMUNacDRlM092ZkFIUlpLSUJB?oc=5"
+          "name": "GOV.BR",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS2hzVnpqSHhMbldTMFo0WEVsd21XNkNfaWhzbEd2Z3lJRG5Hcjd3b1phY090VkV1dDR2VXMxaVFuUmxSTXpST2lTM0xsdl9ueGczWHhJNHBaMlZmRmZHT1NBVmtwQzhKUk1Kc0ZyZWpPOS02WGRKTFlCOE1mNW5EM0tDcUVVN01TT3FuMmE5YWFCZWFzQlFxOG5wRlpLazhEUHhON1NSaHFwQ05sNUgwZ3JubGoxTU53bVR1cFppVGxKbDItd1BFbA?oc=5"
         }
       ]
     },
     {
-      "id": "57d1f2c92d2b",
-      "title": "Restaurantes de MS adaptam cardápios às canetas emagrecedoras - Campo Grande News",
-      "published": "2026-06-23T20:24:00+00:00",
-      "summary": "Restaurantes de MS adaptam cardápios às canetas emagrecedoras&nbsp;&nbsp;Campo Grande NewsCanetas emagrecedoras começam a influenciar o agro e podem redesenhar a demanda por alimentos&nbsp;&nbsp;Notícias AgrícolasQuais são os perfis de consumidores de GLP-1 no Brasil ?&nbsp;&nbsp;Meio e MensagemRisco de agonorexia com uso indiscriminado de canetas emagrecedoras preocupa médicos&nbsp;&nbsp;TerraCom a chegada das canetas emagrecedoras, restaurantes da Serra se adaptam ao novo comportamento dos cli",
+      "id": "61be69347581",
+      "title": "Rio recebe mais de 36 mil doses da vacina Pneumo 20 para crianças de até 5 anos - G1",
+      "published": "2026-06-23T21:22:36+00:00",
+      "summary": "Rio recebe mais de 36 mil doses da vacina Pneumo 20 para crianças de até 5 anos&nbsp;&nbsp;G1Vacina Pneumo 20 começa a ser aplicada em crianças da Baixada Santista; veja cidades e locais&nbsp;&nbsp;G1SUS passa a oferecer vacina contra doenças graves como pneumonia e meningite #shorts #JR24H&nbsp;&nbsp;R7Prefeitura informa disponibilidade da vacina Pneumo 20 a partir desta quarta (24)&nbsp;&nbsp;uberlandia.mg.gov.brTocantins recebe mais de 12 mil doses da vacina Pneumo 20 para crianças de até 5 a",
       "sources": [
         {
-          "name": "Campo Grande News",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSkIxZmx5TWN6OEdxTWU4M2lPWHdhOWdvVjRMVWpBbEpFT28yQ29oT1VsM1BaWFVYN25RVzJjajkxdk1TNE5CaDBzTVRMS3F0T3pzcWM2V09fRE5PN0J2SjVOWlBxbmlNSGNrZmZBVU9wMFJ1YXQ3SWpXWS1vQkhSV3JNX2dDSFdBdm5MUFhVN0tPYjZoQVZXbUZlRmNDczNoS0lCQ0RGMENrR1psOWt6ZW52VFA5ZkN5TnR6bWR0M1PSAcABQVVfeXFMTkg3OE52M3dLSy0zdzBydld2OE1NTlFNZzVlQjRJRGpXUXNnOVlTUWpGWmZ2WU0ybHNmV3NHMVJ1WUxTbXkxT0FHOUhSOU81ZFNKVThFTDRlVlgtbXZKS3BDT0o4MUQxUGpra2FmTjlLUjk3V2l1UklFdWUyTUdxT3JzNXJaVUwxbzFkU01RM0x4X0pBTXFOM0Vlb1ktWkVwaVo5b3Z4dnMtWmVpM1VVRExjZ3A0ZVhtaFdnTnd2aWsz?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWjIwdWlRTGhnZm96LVhwcVRWdDJITDBhVXlibmVRekZ3YU10OTgtb0hkOG4wdXFOMkp0M0d5WGNNODdEOXpkWXlIRUhXZlEyMHVPWkgtV0k3UE9qbFJlT21lWjM0QjFDZ1hGemxlejZYTldNZGk4TnFFYmZQU3Y5d2RjdC15b1dHMjhMZ195ZXJST1YtRkRMM1pKZVRVUU1TVklDTEhBMWZTdUF1M25mdkdKVmFEblJOVEtwWmQ4VmhHcXJVUXlFYUhyNklRQWVOSkNFdk1WcjVmSWPSAeoBQVVfeXFMTk9VaHNZQWhQamdEckdGS2FfNXBLUERoeWk3cTZaN0VtamU5OVdLRlRWRVNPOG5ESUtDXzN6YkRsQ1JTTy1TTlJ4ZEJ5eUV1R0hJWHQxTF9GQ0tuS182dXFwYVdxYW9XUEZsSk5SbnAyREhHUC1Ma2FNcVhicTAyZmdfdzdJUjBxR1pFYk1oM1M4ZjhscWJDVnplamZKZ3RWRG9ZOHFmbzhQZFA1Yk9qbzFLc2h5WkJTZ1ZvbGNiRk5SaGtZbE5JSjJiUkpJeTI5U0lCRjZKY2FsMUNacDRlM092ZkFIUlpLSUJB?oc=5"
         }
       ]
     },
@@ -162,18 +150,6 @@
       ]
     },
     {
-      "id": "cf9d664368ac",
-      "title": "Engenheira da Unesp transforma uma bactéria do mar coletada em Ubatuba numa pequena usina que gera 227 mW por metro quadrado e ainda limpa o ar, capturando CO₂ e soltando oxigênio enquanto produz energia - CPG Click Petróleo e Gás",
-      "published": "2026-06-23T15:51:00+00:00",
-      "summary": "Engenheira da Unesp transforma uma bactéria do mar coletada em Ubatuba numa pequena usina que gera 227 mW por metro quadrado e ainda limpa o ar, capturando CO₂ e soltando oxigênio enquanto produz energia&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQOWZSYkFxMlVKMWFnVGRZa2hxUUh5Y0s1bUg5aGNndDBsRzJFRnhmMWhSaHRkTHl2ZkU1Nl9PS1BLTl9FWWJTNzMxZDZZQmlVbEw5anFvNkZ6WGhxNElwUV9iWmlxQnpyUVJVTl9yT2ZqdFZhRDFkS2NnSmV1TFlnUmZ1TVNPYmJjWHp4UEZrdmxzR29KbDVOamZJM1ZYb1RkYnR2eGZqLUpobVFMZVU4Ujh2S3ROcl9TN0VkOEhqZGdhZ2owT1BWM3lsbmRBakZaZ2lpSkdtY19weGdLcmZTSWZ2YlJpSGszbXZnLTNmby1aRGI1QWRGam5lSkFncEVKNXVBS0VVN0ZIdFFYVVVPNVo4dmMtaUt2VUJhTFhEelFjRnRTaGZFUHJZbWM2bUptNFVrM0lLbW5LdzduNENodVpMMTQzQ1U?oc=5"
-        }
-      ]
-    },
-    {
       "id": "859f6b90b852",
       "title": "A luz noturna pode afetar a saúde do cérebro? Pesquisadores investigam ligação com Alzheimer - O Globo",
       "published": "2026-06-23T15:25:41+00:00",
@@ -186,26 +162,14 @@
       ]
     },
     {
-      "id": "586c1dcbb89f",
-      "title": "Novo remédio para menopausa: Anvisa aprova medicamento não hormonal para sintomas - Veja Saúde",
-      "published": "2026-06-23T13:43:06+00:00",
-      "summary": "Novo remédio para menopausa: Anvisa aprova medicamento não hormonal para sintomas&nbsp;&nbsp;Veja SaúdeAnvisa aprova primeiro remédio não hormonal contra fogachos; entenda como ele age no cérebro&nbsp;&nbsp;G1Menopausa: como funciona o remédio sem hormônios para tratar ondas de calor aprovado pela Anvisa&nbsp;&nbsp;EstadãoAnvisa aprova remédio não hormonal inédito para menopausa&nbsp;&nbsp;CNN BrasilAdeus, ondas de calor? O que faz o fezolinetanto, tratamento para menopausa inédito no Brasil e r",
+      "id": "f50baade226a",
+      "title": "A partir de segunda-feira, vacina contra a gripe será liberada para todos em Curitiba - Prefeitura de Curitiba",
+      "published": "2026-06-23T14:56:00+00:00",
+      "summary": "A partir de segunda-feira, vacina contra a gripe será liberada para todos em Curitiba&nbsp;&nbsp;Prefeitura de CuritibaCom cinco mortes por doenças respiratórias em 2026, Caxias do Sul ainda registra baixos índices de vacinação contra a gripe&nbsp;&nbsp;GZHVacina contra gripe estará disponível para o público geral em Maringá a partir de 29 de junho&nbsp;&nbsp;maringa.pr.gov.brVacinação contra a gripe no Paraná é aberta para público em geral; veja detalhes&nbsp;&nbsp;G1Vacinação contra a gripe no",
       "sources": [
         {
-          "name": "Veja Saúde",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZE40eEMwZEtEVXdrYXh3SHBpZkpYWWE3MDF2RFpZWGx4c2pya0NLa2twVmNGQWlwOXBEYWJVXzZFSlBmb3lZSlhkR1dmS0hyNjlLNXUwY3diSnZNWXRFeDZqWTZWaFZaelFfUW1LTW5ubXY5QlN6d3cxaFZJUTJ1Yy1QMW1INnlJaTQ3a1FWVzN6dHNaZldhRWlEZWlLdGpXcHVvVWhMZE1sSlFnQzFwa1pHeGRuSEZD?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "370beb5bb9a6",
-      "title": "Vacinação contra a gripe no Paraná será aberta para público em geral a partir de segunda - Secretaria de Saúde do Paraná",
-      "published": "2026-06-23T13:35:00+00:00",
-      "summary": "Vacinação contra a gripe no Paraná será aberta para público em geral a partir de segunda&nbsp;&nbsp;Secretaria de Saúde do ParanáA partir de segunda-feira, vacina contra a gripe será liberada para todos em Curitiba&nbsp;&nbsp;Prefeitura de CuritibaCom cinco mortes por doenças respiratórias em 2026, Caxias do Sul ainda registra baixos índices de vacinação contra a gripe&nbsp;&nbsp;GZHVacina contra gripe estará disponível para o público geral em Maringá a partir de 29 de junho&nbsp;&nbsp;maringa.p",
-      "sources": [
-        {
-          "name": "Secretaria de Saúde do Paraná",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX01xWGVsaHNHQjNSVDN5cUdhQTU2NkczSVNIMERhVnozQXVuTGh6UG1WOXpOUXNFcWprV0lTRzl2UHBwLTYtUEZjakljWGtqTEZ4WDVPUi1YNnNBSm1zV3VPLXlOcmZWMlZuWk9nVFpFUUpXTVdGQ1AwWFZxV0JjQnFGNFJEQzJyZnBCYk9KeVhvQ2NOTWw2MkFVM0VYQVhpVjdWTXJUeU51TmhWejlUeWJnNlRoeUNrYjVHeg?oc=5"
+          "name": "Prefeitura de Curitiba",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOVNlT25CSll0UFJmbEtEcE9WYzI2UnU0ZEhjQmVRYjFHTFFoaURRR3dKNUh1MGEwb1ZReFdNdVhBdUlaMmMxRV9zbmpKbjdxdTQyM09KTlFJdUVQTEttNmRoeC1fMFlzajhybDdyQXZZUGRGajZTbzB6Zk8tOFpGV2pqeGpRUGQ3aW1SMENIMmRmRmNTVzNmVGR1Z0VjMjBFLTJQQXZOcUVjZTdLS3NaV2V2Uy02b2E2Z1Z4S096akpld0F5MnNBSXR3?oc=5"
         }
       ]
     },
@@ -294,18 +258,6 @@
       ]
     },
     {
-      "id": "c82c1bc395db",
-      "title": "Obmep premia 682 estudantes com medalhas de ouro em cerimônia — Ministério da Educação - GOV.BR",
-      "published": "2026-06-23T00:40:00+00:00",
-      "summary": "Obmep premia 682 estudantes com medalhas de ouro em cerimônia — Ministério da Educação&nbsp;&nbsp;GOV.BR",
-      "sources": [
-        {
-          "name": "GOV.BR",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSzhvUF95R0hSUzRHVm5yY1pLVks5cDJCaUJPd1dnNm1ZNEFsTTVEdGNwMUNxeVVwMDZwdE9RaXpneDRPd3pXbE5ITVA4X3lYbUJyaUVDU3J0RGVCcDRKeTJNU0pueWl5V2pVQVpSVTdCUW9zQ0RXbWk4NEwyQ1U1X1pJRFNmbXF4NkV4M1JFek9jZzBwOVJJOFM3ZzZnbUFIYXRPWHl1ZGd1TlZMNzlYZTRMTkNpeUJ1V2I0?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9e0432f584fb",
       "title": "Sobre jovens cientistas e fígados de pombos - Nexo Jornal",
       "published": "2026-06-22T23:19:27+00:00",
@@ -354,6 +306,18 @@
       ]
     },
     {
+      "id": "761d251b9a6f",
+      "title": "Canetas emagrecedoras começam a influenciar o agro e podem redesenhar a demanda por alimentos - Notícias Agrícolas",
+      "published": "2026-06-22T16:28:00+00:00",
+      "summary": "Canetas emagrecedoras começam a influenciar o agro e podem redesenhar a demanda por alimentos&nbsp;&nbsp;Notícias AgrícolasRestaurantes de MS adaptam cardápios às canetas emagrecedoras&nbsp;&nbsp;Campo Grande NewsQuais são os perfis de consumidores de GLP-1 no Brasil ?&nbsp;&nbsp;Meio e MensagemRisco de agonorexia com uso indiscriminado de canetas emagrecedoras preocupa médicos&nbsp;&nbsp;TerraCom a chegada das canetas emagrecedoras, restaurantes da Serra se adaptam ao novo comportamento dos cli",
+      "sources": [
+        {
+          "name": "Notícias Agrícolas",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTkdqRWRpUWEwNEZmSHlMMmpiWTNwSldXMHYzM09odDVvUGg0OUNsWnhWRUx5Q1BYMl9MSHl2cHUzcURXaUlhNDE4NVhMazNjV3hFbTQzOHdYWlZXM2Y3MGNUWS1XaHVnOGtDRmtwV2poeTRpU2ZXMEg1WWFIak13TWpjbl9xWlhfc2hQdkswN2NuRG8wREVZYTh4UkF0Y2lYaE9ZMjlQWFRDblhBR0hwUmdNY3ZnZllTTldCUWdUZlAtaElXR2F1UFFXU1ZBdGxWTkRwMGFtU3lnT1BIUE5STGx1ZFE3dXMyUEVLTFhhamlwcFZXb2fSAfsBQVVfeXFMT25sUjVYdE1remh6UVVqZi1Uc3VYSlpzTnBTa1FLcnBlUjlqWGpJVGx0Nk9UN0M5ZVJvZFc5c05vLU5ob2VUMGVhdC1IcGdkN1JXTGxpLTVpTnR1TlV2Z1cwQlVyTTMyVlk5cVVFM2Rwd1Zhb1B6Q0t1U2NlY2ZTQkZPTE9nQnJ0ckJES2RpZWdDbnVjOTF5c0VuX2E3ZTRMSl9qaEdrejd3UnlMYVRtd0VjVDA4U1BDVWpwVE5zSjd6VE4wMWlBLTRLNnJUdDFGNk9LbWhJTTdqTzR3d2RkRkc0VkcwODBkY1d1d2J0cldGZEJzVUlVazYxQzQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "03e8f7db03ca",
       "title": "Instituto de Estudos Avançados reforça protagonismo em pesquisas de agricultura espacial - fab.mil.br",
       "published": "2026-06-22T16:13:23+00:00",
@@ -390,26 +354,14 @@
       ]
     },
     {
-      "id": "48b1509c4dda",
+      "id": "92b68b2458c7",
       "title": "Plano deve cobrir cirurgia robótica para câncer de próstata mesmo fora do rol da ANS, decide Quarta Turma - Superior Tribunal de Justiça",
       "published": "2026-06-22T09:50:00+00:00",
       "summary": "Plano deve cobrir cirurgia robótica para câncer de próstata mesmo fora do rol da ANS, decide Quarta Turma&nbsp;&nbsp;Superior Tribunal de Justiça",
       "sources": [
         {
           "name": "Superior Tribunal de Justiça",
-          "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOMGU4V2d1MHE4V296aFJEUGFnWERnT0ozX09sY2VNRlRCVkc0VXJYY1JSbG9LYXBEOVFsdGRXa3A4ZzRrUVBHXy1RUzE0Z0FZcnRxdzBlNDY5Vzl2MGdnanlXYUhfNnQ4LUc0Z1VxQ3pwNHFDLWhhSHh0bUdQZExkSlFjWDNIQk1UbW9DZ01Takw2YTUzNXU1WU1GVGl5Y05vd0dWM0N2N0loX3NNSE5QZVViMzBoT2dIZWxfdDdMLWZfc081cXAxTmg2WGtDOEZEZHhxQ244N2VWU3hMaEJBbVp6Ti1meGpDdnJrNXIwekluQzdIZjRKMTJqdFZNUzFyd2U0NnJQYmkzSUlDMXpxc2o4dHJQSWtEMGc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c97e818a40ef",
-      "title": "Lipedema: saiba mais sobre a doença confundida com obesidade e celulite - G1",
-      "published": "2026-06-22T08:03:24+00:00",
-      "summary": "Lipedema: saiba mais sobre a doença confundida com obesidade e celulite&nbsp;&nbsp;G1Lipedema pode afetar até 12% das mulheres adultas no Brasil e ainda é confundido com obesidade&nbsp;&nbsp;Rádio ItatiaiaRenata Abreu quer tirar da invisibilidade doença que afeta 8,8 milhões de brasileiras&nbsp;&nbsp;PODE - PodemosEspecialista participa do maior congresso sobre lipedema do Brasil e destaca avanços no diagnóstico da doença&nbsp;&nbsp;RADAR DIGITAL BRASÍLIAQuando a balança não conta toda a históri",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORTdBR0JXSlpINmtnbDFlQmwtZUFoejBqdW1tdUhLODRMUFVTcGtZTksyQzlMMWRCRDZYaTc1MjNHUTZiZE1qZDFCTzV5VVJNelZRTjdnX1A2Wk5zeGVCZU5vVDdCMnNEYzZYVDJJaVJFT19UT1NBMFpkSGplQ1lKRXdldmNCNnlLTDh3dXVWcThXNnY3Zzd2UU9WdE1Ud0VFaHhLOTZUWFlvX2JFX2VqTENCVlhGcXA2eWQ5MGJMNNIBzgFBVV95cUxPNk9talVLQmU2dENkVG9xV21CUVJJUmY5amJoN05DdHdOZmF1eFk5VlpyZDZXNnhLdEVySU1ocnFiZnJST3FvMERHQU1rdlhWNlo0Y0JVZHNEb3lfLURXRnlmd3NVLTc4T1dEYXdBdHFEelFidGktYkRKdkNPTEdUNmRvWlFGTVZ6Ni0wUVJ4cGphSGo2TGRNcVkydU1aVTRzZzAzZk8wcmRDSF95WTFSTmRDYWhWT2hYTW14WmxBNFpBNC1IaEVuVVlmNThkQQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNZ3B6NnVobmNYcW1rMVpsNWdmcEVGVEJnWlkyOEphRGVyTWZvTVo2VmhnQXJFajZKVEx3WGJ5NmpHMVR3SGJRZnFqNkppT2hrZEpfNEdseHNQQWthT1NTelNjb3o0VFlXZl9WMmR1QnJuc2h5LV80NVQyQWgtbUtCcUhxQVprWDRMVGdfWmFJZDQ5MEVfX0lpSjFoWXdzdlBkMlJhNDY5S3NEMGJMS2xja2RtNGQweWlmRXdnVzNnclQzX0JldDR5YVJHX2Nna2gySzZNamR5SGllRUxlRkRwRzN6UFpjVERjazkyTGEzd3ZPZlBwT3FxNW5RS2JvQ0kwdmRER3pYZ0hiUGZzUEFfcXR2RzZ0TVlvZ2c?oc=5"
         }
       ]
     }

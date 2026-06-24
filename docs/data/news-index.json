@@ -1,7 +1,47 @@
 {
-  "generated": "2026-06-24T03:47:55.653406+00:00",
-  "count": 36,
+  "generated": "2026-06-24T09:33:48.811721+00:00",
+  "count": 34,
   "news": [
+    {
+      "id": "1c7d94eead21",
+      "title": "Por que pais que consertam objetos quebrados e vez de comprar novos estão fazendo reafirmação - Rádio Itatiaia",
+      "published": "2026-06-24T01:44:07+00:00",
+      "sources": [
+        {
+          "name": "Rádio Itatiaia",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRmYybXRfdXpMNC1kMVpINzhlOU5Sd0k2QTJyQU1nZXBvR1R1WDRJRl85Z3RnYWV2bHB0a2JQRnJsMVBENWVlMkxmV21JSVIzR2NYYm9BU3lFeUVLaktSblY2WG5PZzAtU3J2SWc3Nm1ZSnpSbGljNGx6aEF0NUx1dmpRcEluR0thdEh5NkU0djVIT3prU2p3dHdFbHpCRkJyQmtUNnc1ZkkzTDlzVjVCU2tEQnN5MEVPcVhnTVNPcHdoRTdqcWhiOQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "levetiracetam",
+          "keyword": "TAM",
+          "name": "LEVETIRACETAM",
+          "url": "/drugs/levetiracetam/"
+        }
+      ]
+    },
+    {
+      "id": "f14232f1d19a",
+      "title": "China cria arma laser que pode destroçar drones de guerra em segundos - CNN Brasil",
+      "published": "2026-06-24T00:08:06+00:00",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY0R6RFM4STBaYURJV0hDUmx5WVFiby13N0VSaFBSQ0NoMTEwVzBqVWdaN3lIalZWTkMwUkVQc2VVMVZLNE9oN3lNeTduRXhpbk5nREJvcEk0MXoycV9Sd3NfZWdzdFJjT3QxWFhSamQ2c1lmQUU3b3A0NVpxSlZHeVl2MDFIYWh5cDVNUF9LcTAwVWxtdTVpX0VxV3JPdzJKcG1HMTBISkdhUzg?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
     {
       "id": "8f1cc01b5d26",
       "title": "Você fica sem fôlego ao subir escadas? Entenda o indicador que virou obsessão entre corredores - Jornal Correio",
@@ -23,13 +63,13 @@
       ]
     },
     {
-      "id": "f7cbd1439804",
-      "title": "Jovem de Campinas viaja 12 horas para fazer tratamento da medula com polilaminina; entenda - ACidade ON",
-      "published": "2026-06-23T21:30:44+00:00",
+      "id": "8f4e3fcab7b8",
+      "title": "Anvisa autoriza medicamento não-hormonal que trata sintomas da menopausa",
+      "published": "2026-06-23T21:23:50+00:00",
       "sources": [
         {
-          "name": "ACidade ON",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLTc5cEtnZ2R4ZjY0UFMwekQ3cjZpN0pOaGhMVHpoNTE2UjhOdnJQbzhHRUtkOGxuY2R6MlFxY2k2RXhHenhaalA1ZlRnc0dPcmdhUkNhai1mWU1KYWt4bm9RYlVTNnNSNzJWRnZuNTNpQzFSd1hLT004ZlJpSGYxNFp2cTBGOFczbUU3ZzhVSkxJZmlSQ1licGY0YThMNkx3TDZKWDZQMllXVFZsWEpjb0l2dXY1MHBPT1VqcTBUTndIOWZJWlJZSkoyeUV3XzFC?oc=5"
+          "name": "GOV.BR",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS2hzVnpqSHhMbldTMFo0WEVsd21XNkNfaWhzbEd2Z3lJRG5Hcjd3b1phY090VkV1dDR2VXMxaVFuUmxSTXpST2lTM0xsdl9ueGczWHhJNHBaMlZmRmZHT1NBVmtwQzhKUk1Kc0ZyZWpPOS02WGRKTFlCOE1mNW5EM0tDcUVVN01TT3FuMmE5YWFCZWFzQlFxOG5wRlpLazhEUHhON1NSaHFwQ05sNUgwZ3JubGoxTU53bVR1cFppVGxKbDItd1BFbA?oc=5"
         }
       ],
       "keywords": [
@@ -39,6 +79,69 @@
           "keyword": "TAM",
           "name": "LEVETIRACETAM",
           "url": "/drugs/levetiracetam/"
+        },
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "menopausa",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "sodium_chloride",
+              "name": "Sodium chloride"
+            },
+            {
+              "slug": "tamoxifen",
+              "name": "Tamoxifen"
+            },
+            {
+              "slug": "secnidazole",
+              "name": "Secnidazole"
+            },
+            {
+              "slug": "glutamic_acid",
+              "name": "GLUTAMIC ACID"
+            },
+            {
+              "slug": "calcipotriol",
+              "name": "CALCIPOTRIOL"
+            },
+            {
+              "slug": "clindamycin",
+              "name": "Clindamycin"
+            },
+            {
+              "slug": "letrozole",
+              "name": "Letrozole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            },
+            {
+              "slug": "metronidazole",
+              "name": "Metronidazole"
+            },
+            {
+              "slug": "clotrimazole",
+              "name": "Clotrimazole"
+            },
+            {
+              "slug": "ivermectin",
+              "name": "Ivermectin"
+            },
+            {
+              "slug": "ambroxol",
+              "name": "Ambroxol"
+            }
+          ]
         }
       ]
     },
@@ -118,40 +221,6 @@
           "keyword": "DECI",
           "name": "DECITABINA",
           "url": "/drugs/decitabina/"
-        }
-      ]
-    },
-    {
-      "id": "57d1f2c92d2b",
-      "title": "Restaurantes de MS adaptam cardápios às canetas emagrecedoras - Campo Grande News",
-      "published": "2026-06-23T20:24:00+00:00",
-      "sources": [
-        {
-          "name": "Campo Grande News",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSkIxZmx5TWN6OEdxTWU4M2lPWHdhOWdvVjRMVWpBbEpFT28yQ29oT1VsM1BaWFVYN25RVzJjajkxdk1TNE5CaDBzTVRMS3F0T3pzcWM2V09fRE5PN0J2SjVOWlBxbmlNSGNrZmZBVU9wMFJ1YXQ3SWpXWS1vQkhSV3JNX2dDSFdBdm5MUFhVN0tPYjZoQVZXbUZlRmNDczNoS0lCQ0RGMENrR1psOWt6ZW52VFA5ZkN5TnR6bWR0M1PSAcABQVVfeXFMTkg3OE52M3dLSy0zdzBydld2OE1NTlFNZzVlQjRJRGpXUXNnOVlTUWpGWmZ2WU0ybHNmV3NHMVJ1WUxTbXkxT0FHOUhSOU81ZFNKVThFTDRlVlgtbXZKS3BDT0o4MUQxUGpra2FmTjlLUjk3V2l1UklFdWUyTUdxT3JzNXJaVUwxbzFkU01RM0x4X0pBTXFOM0Vlb1ktWkVwaVo5b3Z4dnMtWmVpM1VVRExjZ3A0ZVhtaFdnTnd2aWsz?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "levetiracetam",
-          "keyword": "TAM",
-          "name": "LEVETIRACETAM",
-          "url": "/drugs/levetiracetam/"
-        },
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        },
-        {
-          "type": "drug",
-          "slug": "etodolaco",
-          "keyword": "DORE",
-          "name": "ETODOLACO",
-          "url": "/drugs/etodolaco/"
         }
       ]
     },
@@ -936,12 +1005,12 @@
       ]
     },
     {
-      "id": "0e46403ab8bd",
+      "id": "43b27125acb3",
       "title": "Golfinhos fêmeas se lembram dos machos agressivos — e evitam fazer sexo com eles",
       "published": "2026-06-23T16:16:34+00:00",
       "sources": [
         {
-          "name": "Globo",
+          "name": "Globo.com",
           "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWjROeVlGbXJDYUFyamFEbGgzSjk0Y1NaM3c0UXFsNUViZUFqMXg1UjgyeHJqU1NYWlJWenZLZW9OQ29zVGplZFRPdEZ4WFphYXh1TzFJVmdwTlotU3NBV0xfLVhUZW5QV3ZwLThlZVRNSzZFdUEta0VhdmdKcFhSVmhWYjZaWExELW92XzhQS0RqdVEtSURxTnNIOW1HV2NPcVJqWXlIdExkY2JhZWJfXzFESmpiYWxRZGg1dDJDaTlYTzZOemM3N2MwbEZfZHB3N1lKV1Rwdmx2eVAtcWFQZmVGSzTSAfMBQVVfeXFMUG45bjV2bkNKMnNyNC1FdndLNEo1VWpIazJyOVAxdnJENUJZbk5xNDhXVHRVQWFCOHlhc1JXYmFSejdkWE9wcENEakZ5eDBSMERWMWNvdjFGdVhOSEhMU2pzMHZkU1MwdlpHdWJ4TGs4RDZ2QTNJdjZPMjBoTk1fMXdKNUtDNlhWNjJNT0s2MDFLNzVDbGdnU0NDTTJyLVRRMjN0YWh6Z3h2c0JfZ0VsRm10TzlWRTQ3SHF5NnRJNUtvbS1EeG9wektGYks1WWV6bVcwQWdJNUtTWDVmNkx0Um03VkktbGljR3ZCXy1mai1DSE9V?oc=5"
         }
       ],
@@ -976,26 +1045,6 @@
       ]
     },
     {
-      "id": "cf9d664368ac",
-      "title": "Engenheira da Unesp transforma uma bactéria do mar coletada em Ubatuba numa pequena usina que gera 227 mW por metro quadrado e ainda limpa o ar, capturando CO₂ e soltando oxigênio enquanto produz energia - CPG Click Petróleo e Gás",
-      "published": "2026-06-23T15:51:00+00:00",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQOWZSYkFxMlVKMWFnVGRZa2hxUUh5Y0s1bUg5aGNndDBsRzJFRnhmMWhSaHRkTHl2ZkU1Nl9PS1BLTl9FWWJTNzMxZDZZQmlVbEw5anFvNkZ6WGhxNElwUV9iWmlxQnpyUVJVTl9yT2ZqdFZhRDFkS2NnSmV1TFlnUmZ1TVNPYmJjWHp4UEZrdmxzR29KbDVOamZJM1ZYb1RkYnR2eGZqLUpobVFMZVU4Ujh2S3ROcl9TN0VkOEhqZGdhZ2owT1BWM3lsbmRBakZaZ2lpSkdtY19weGdLcmZTSWZ2YlJpSGszbXZnLTNmby1aRGI1QWRGam5lSkFncEVKNXVBS0VVN0ZIdFFYVVVPNVo4dmMtaUt2VUJhTFhEelFjRnRTaGZFUHJZbWM2bUptNFVrM0lLbW5LdzduNENodVpMMTQzQ1U?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "tadalafil",
-          "keyword": "TADA",
-          "name": "TADALAFIL",
-          "url": "/drugs/tadalafil/"
-        }
-      ]
-    },
-    {
       "id": "859f6b90b852",
       "title": "A luz noturna pode afetar a saúde do cérebro? Pesquisadores investigam ligação com Alzheimer - O Globo",
       "published": "2026-06-23T15:25:41+00:00",
@@ -1012,33 +1061,6 @@
           "keyword": "DORE",
           "name": "ETODOLACO",
           "url": "/drugs/etodolaco/"
-        }
-      ]
-    },
-    {
-      "id": "fc3c4b4a108f",
-      "title": "Trump assina decretos para criar computador quântico e preparar sistemas dos Estados Unidos contra ataques capazes de quebrar criptografias atuais - CPG Click Petróleo e Gás",
-      "published": "2026-06-23T15:02:00+00:00",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNnJxTGRROFV1QWVCUHVDLXpmRVNWVGpoVlExaXE5aTRJcnhrQVZRaWRVblhVcTlmMlFVVkFybGttR3FNLVRteE1iV2RBRjNVRURiYXZsMVdQTWRKbEs1MDFDWXNJNzZwbkFRZjRvS190amJES0hWQ3lxZW9aemtaOTZCU3ZQVmNLcTRQN04yS0tJd016RUE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "diazepam",
-          "keyword": "UNI",
-          "name": "Diazepam",
-          "url": "/drugs/diazepam/"
-        },
-        {
-          "type": "drug",
-          "slug": "zinc",
-          "keyword": "UNI",
-          "name": "ZINC",
-          "url": "/drugs/zinc/"
         }
       ]
     },
@@ -1086,96 +1108,6 @@
           "keyword": "TAM",
           "name": "LEVETIRACETAM",
           "url": "/drugs/levetiracetam/"
-        }
-      ]
-    },
-    {
-      "id": "586c1dcbb89f",
-      "title": "Novo remédio para menopausa: Anvisa aprova medicamento não hormonal para sintomas - Veja Saúde",
-      "published": "2026-06-23T13:43:06+00:00",
-      "sources": [
-        {
-          "name": "Veja Saúde",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZE40eEMwZEtEVXdrYXh3SHBpZkpYWWE3MDF2RFpZWGx4c2pya0NLa2twVmNGQWlwOXBEYWJVXzZFSlBmb3lZSlhkR1dmS0hyNjlLNXUwY3diSnZNWXRFeDZqWTZWaFZaelFfUW1LTW5ubXY5QlN6d3cxaFZJUTJ1Yy1QMW1INnlJaTQ3a1FWVzN6dHNaZldhRWlEZWlLdGpXcHVvVWhMZE1sSlFnQzFwa1pHeGRuSEZD?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "levetiracetam",
-          "keyword": "TAM",
-          "name": "LEVETIRACETAM",
-          "url": "/drugs/levetiracetam/"
-        },
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        },
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "menopausa",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "sodium_chloride",
-              "name": "Sodium chloride"
-            },
-            {
-              "slug": "tamoxifen",
-              "name": "Tamoxifen"
-            },
-            {
-              "slug": "secnidazole",
-              "name": "Secnidazole"
-            },
-            {
-              "slug": "glutamic_acid",
-              "name": "GLUTAMIC ACID"
-            },
-            {
-              "slug": "calcipotriol",
-              "name": "CALCIPOTRIOL"
-            },
-            {
-              "slug": "clindamycin",
-              "name": "Clindamycin"
-            },
-            {
-              "slug": "letrozole",
-              "name": "Letrozole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
-            },
-            {
-              "slug": "metronidazole",
-              "name": "Metronidazole"
-            },
-            {
-              "slug": "clotrimazole",
-              "name": "Clotrimazole"
-            },
-            {
-              "slug": "ivermectin",
-              "name": "Ivermectin"
-            },
-            {
-              "slug": "ambroxol",
-              "name": "Ambroxol"
-            }
-          ]
         }
       ]
     },
@@ -1260,22 +1192,22 @@
       ]
     },
     {
-      "id": "c0a1184c0d75",
-      "title": "6 comportamentos pelos quais você pode reconhecer pessoas menos inteligentes, segundo a psicologia - Super Rádio Tupi",
-      "published": "2026-06-23T01:56:58+00:00",
+      "id": "b0568da45c83",
+      "title": "De Terra Roxa ao Impa: ouro em olimpíada de matemática, jovem conquista bolsa integral em prestigiado instituto - O Globo",
+      "published": "2026-06-22T22:23:11+00:00",
       "sources": [
         {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWGowTHlKdVl5WmN5Q0ZkNVhGaVlPWXEyQXpUQzdmbnV3cG8zeldwQ0tBbUpvWVlqTnI0TUg2MUlHemppV25taHJXQzg1OXQ5SzdhRXo3RlV0OUIxZnp2S2duSlhpUFdabDJHQkxUaGVhQ2p1ZnZBRjdyc0FzVm1vWmVPWVl4ZjRCWC0zZWlwY194LWZCa0VNODNMNGR0VFBkb1IxOEM1NDlaaUt6YTVVblRKUjM0RXZNLUlpcUExZDlXYjlRUlA3aGVZWldTdw?oc=5"
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPVHpPdlB1TzBBMWJPS0lyc2t2S29LSHZYekN0T1NWNGowbFpiZnVla3QycG9vczk2YTNUcW8yQjhyVzJ3TjVQcDFxaTVmUHZXU3pWSDJuVjZFR1ZjRVdsWDRSZHBab1JCQmpVckVrSDJlelFYRVF1UzhpcVBIa1dZRmJsR19xRjhtcWltbjVkTFhDRDlqQjF2c2tsMFg1V2JqbW9ObU4xbWNMTTQwRk5meVBBWUllSTVmTWdGU3hiOHQzc0FOS1FkN3Rzb3ZxZG4tcXZCMGlGZDY5cVF2TV93TEgxZmREdFFlWXZHVWhQQWNQdWYyVTZ0R2ZR0gGIAkFVX3lxTE1PUng3ZjJ3aXlCVzN4ZFY3cm5QSy1TaUgza2F2al9uQnZrOGFRVUV6ZHEtRXA2OUFpN1hlMnNmbFdqSWZ0WGhEUTZfTG5hWE9ZTHJWRG8tS3pBSW9xZFIwZ0d6OExRZWNFNE44RHQtOElGM2tvR2xyNkc1cVlCYzFUT3V6Qk5BZURpX2k2NERGZUFWa0tfYkdOSUlkaFczNjJ5YVpvTkZRT012RjFQZkZjSUxWQTF6b2tTWWhsUURSRlJ3U3BNTGlVWnRWTkVxTnBaZUhNMWNZVXFfbGZEYkN0YkIxUThOVDQtRUlTSGpSNmExZDZWUENCa2F0bW5Kb1p1NlNKZk1ldQ?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "drug",
-          "slug": "levetiracetam",
-          "keyword": "TAM",
-          "name": "LEVETIRACETAM",
-          "url": "/drugs/levetiracetam/"
+          "slug": "oxaliplatin",
+          "keyword": "OXA",
+          "name": "Oxaliplatin",
+          "url": "/drugs/oxaliplatin/"
         }
       ]
     },
@@ -1374,6 +1306,26 @@
       ]
     },
     {
+      "id": "c7e06b4d4561",
+      "title": "Cometa interestelar 3I/ATLAS é mais antigo que o próprio Sistema Solar - CNN Brasil",
+      "published": "2026-06-22T20:04:24+00:00",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMXAzaDZvblpCazJfUm5WSXFrcjZkb1BRYTRBVlhlazJTWlFiRTVqRHhnVWRrOFFQY0U5MTB1dFYzN1pybnZxZUk0Z0pyanRQSVNzSTBfbFhHQm53WUZ6SWpoMHBsbFVpbEctbkdsYWlHbTMwdG92LXBGeEZaWTViZzFyTEs2OGVVODdJbTdiMDlZUTRHYUYwUjE2Y0pBQ1FzekROTno4OUk4QzN5?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
       "id": "7a8dee7a29c7",
       "title": "Alphabet cai após perda de cientista vencedor do Nobel para Anthropic - CNN Brasil",
       "published": "2026-06-22T17:32:55+00:00",
@@ -1390,6 +1342,40 @@
           "keyword": "SIL",
           "name": "SILODOSINA",
           "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
+      "id": "761d251b9a6f",
+      "title": "Canetas emagrecedoras começam a influenciar o agro e podem redesenhar a demanda por alimentos - Notícias Agrícolas",
+      "published": "2026-06-22T16:28:00+00:00",
+      "sources": [
+        {
+          "name": "Notícias Agrícolas",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTkdqRWRpUWEwNEZmSHlMMmpiWTNwSldXMHYzM09odDVvUGg0OUNsWnhWRUx5Q1BYMl9MSHl2cHUzcURXaUlhNDE4NVhMazNjV3hFbTQzOHdYWlZXM2Y3MGNUWS1XaHVnOGtDRmtwV2poeTRpU2ZXMEg1WWFIak13TWpjbl9xWlhfc2hQdkswN2NuRG8wREVZYTh4UkF0Y2lYaE9ZMjlQWFRDblhBR0hwUmdNY3ZnZllTTldCUWdUZlAtaElXR2F1UFFXU1ZBdGxWTkRwMGFtU3lnT1BIUE5STGx1ZFE3dXMyUEVLTFhhamlwcFZXb2fSAfsBQVVfeXFMT25sUjVYdE1remh6UVVqZi1Uc3VYSlpzTnBTa1FLcnBlUjlqWGpJVGx0Nk9UN0M5ZVJvZFc5c05vLU5ob2VUMGVhdC1IcGdkN1JXTGxpLTVpTnR1TlV2Z1cwQlVyTTMyVlk5cVVFM2Rwd1Zhb1B6Q0t1U2NlY2ZTQkZPTE9nQnJ0ckJES2RpZWdDbnVjOTF5c0VuX2E3ZTRMSl9qaEdrejd3UnlMYVRtd0VjVDA4U1BDVWpwVE5zSjd6VE4wMWlBLTRLNnJUdDFGNk9LbWhJTTdqTzR3d2RkRkc0VkcwODBkY1d1d2J0cldGZEJzVUlVazYxQzQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "levetiracetam",
+          "keyword": "TAM",
+          "name": "LEVETIRACETAM",
+          "url": "/drugs/levetiracetam/"
+        },
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        },
+        {
+          "type": "drug",
+          "slug": "etodolaco",
+          "keyword": "DORE",
+          "name": "ETODOLACO",
+          "url": "/drugs/etodolaco/"
         }
       ]
     },
@@ -1441,40 +1427,13 @@
       ]
     },
     {
-      "id": "0fabb9e965fb",
-      "title": "Painel S.A.: Para 27% das indústrias do país, aproximação entre universidades e empresas é chave para produtividade - Folha de S.Paulo",
-      "published": "2026-06-22T10:00:00+00:00",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNVFyQWZ5STRsVjZwOUE3b2Qwb00xb3c0X3RlWk1DOGlxdGs1bzR3RWZMTVl6RGtZMFBfSkxub19JY3hndm1qWUNxNV9rRnAwRXlGQnhjR3FKRWJKM216Ri0wWUJEdlNfaGRPZ204U0Y1Z01MYlJUTDNGS3l3MWN0RXkydXFiWWd5RTJ5MUdxUzhjamNSVkxMNnRtQ19GaEZydENkdkE5N1pka0hPZjVRV0xRV1ZHVkJFQkY1cFpNUVFrTTlTWl94cy1kMmh6Wm5JRjYzYklfX095aGxGYlhCc2kxREtUTVhFWk9qaVVid1B4UmM?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "diazepam",
-          "keyword": "UNI",
-          "name": "Diazepam",
-          "url": "/drugs/diazepam/"
-        },
-        {
-          "type": "drug",
-          "slug": "zinc",
-          "keyword": "UNI",
-          "name": "ZINC",
-          "url": "/drugs/zinc/"
-        }
-      ]
-    },
-    {
-      "id": "48b1509c4dda",
+      "id": "92b68b2458c7",
       "title": "Plano deve cobrir cirurgia robótica para câncer de próstata mesmo fora do rol da ANS, decide Quarta Turma - Superior Tribunal de Justiça",
       "published": "2026-06-22T09:50:00+00:00",
       "sources": [
         {
           "name": "Superior Tribunal de Justiça",
-          "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOMGU4V2d1MHE4V296aFJEUGFnWERnT0ozX09sY2VNRlRCVkc0VXJYY1JSbG9LYXBEOVFsdGRXa3A4ZzRrUVBHXy1RUzE0Z0FZcnRxdzBlNDY5Vzl2MGdnanlXYUhfNnQ4LUc0Z1VxQ3pwNHFDLWhhSHh0bUdQZExkSlFjWDNIQk1UbW9DZ01Takw2YTUzNXU1WU1GVGl5Y05vd0dWM0N2N0loX3NNSE5QZVViMzBoT2dIZWxfdDdMLWZfc081cXAxTmg2WGtDOEZEZHhxQ244N2VWU3hMaEJBbVp6Ti1meGpDdnJrNXIwekluQzdIZjRKMTJqdFZNUzFyd2U0NnJQYmkzSUlDMXpxc2o4dHJQSWtEMGc?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNZ3B6NnVobmNYcW1rMVpsNWdmcEVGVEJnWlkyOEphRGVyTWZvTVo2VmhnQXJFajZKVEx3WGJ5NmpHMVR3SGJRZnFqNkppT2hrZEpfNEdseHNQQWthT1NTelNjb3o0VFlXZl9WMmR1QnJuc2h5LV80NVQyQWgtbUtCcUhxQVprWDRMVGdfWmFJZDQ5MEVfX0lpSjFoWXdzdlBkMlJhNDY5S3NEMGJMS2xja2RtNGQweWlmRXdnVzNnclQzX0JldDR5YVJHX2Nna2gySzZNamR5SGllRUxlRkRwRzN6UFpjVERjazkyTGEzd3ZPZlBwT3FxNW5RS2JvQ0kwdmRER3pYZ0hiUGZzUEFfcXR2RzZ0TVlvZ2c?oc=5"
         }
       ],
       "keywords": [
@@ -1863,33 +1822,6 @@
               "name": "VALSARTAN"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "c97e818a40ef",
-      "title": "Lipedema: saiba mais sobre a doença confundida com obesidade e celulite",
-      "published": "2026-06-22T08:03:24+00:00",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORTdBR0JXSlpINmtnbDFlQmwtZUFoejBqdW1tdUhLODRMUFVTcGtZTksyQzlMMWRCRDZYaTc1MjNHUTZiZE1qZDFCTzV5VVJNelZRTjdnX1A2Wk5zeGVCZU5vVDdCMnNEYzZYVDJJaVJFT19UT1NBMFpkSGplQ1lKRXdldmNCNnlLTDh3dXVWcThXNnY3Zzd2UU9WdE1Ud0VFaHhLOTZUWFlvX2JFX2VqTENCVlhGcXA2eWQ5MGJMNNIBzgFBVV95cUxPNk9talVLQmU2dENkVG9xV21CUVJJUmY5amJoN05DdHdOZmF1eFk5VlpyZDZXNnhLdEVySU1ocnFiZnJST3FvMERHQU1rdlhWNlo0Y0JVZHNEb3lfLURXRnlmd3NVLTc4T1dEYXdBdHFEelFidGktYkRKdkNPTEdUNmRvWlFGTVZ6Ni0wUVJ4cGphSGo2TGRNcVkydU1aVTRzZzAzZk8wcmRDSF95WTFSTmRDYWhWT2hYTW14WmxBNFpBNC1IaEVuVVlmNThkQQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        },
-        {
-          "type": "drug",
-          "slug": "tadalafil",
-          "keyword": "CIALIS",
-          "name": "TADALAFIL",
-          "url": "/drugs/tadalafil/"
         }
       ]
     }
