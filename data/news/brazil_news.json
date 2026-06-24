@@ -1,14 +1,38 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-06-24T14:35:19.454455+00:00",
-  "total_fetched": 98,
-  "unique_count": 96,
+  "fetched_at": "2026-06-24T19:49:07.442182+00:00",
+  "total_fetched": 92,
+  "unique_count": 90,
   "health_related_count": 32,
   "news": [
     {
+      "id": "d63b418f2120",
+      "title": "Quando o emocional vira sintoma físico: neurologista explica a relação entre mente e sistema nervoso - Assiscity",
+      "published": "2026-06-24T16:36:17+00:00",
+      "summary": "Quando o emocional vira sintoma físico: neurologista explica a relação entre mente e sistema nervoso&nbsp;&nbsp;Assiscity",
+      "sources": [
+        {
+          "name": "Assiscity",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRzJTamhWSWpQTFd3NS1ITFgxY0tlMFg2RHQzanY0Ry14d3BEVUZFcm10VGI3TWRHRHg1VGVRNzJXWUYwelN3U3ZEalBQdkxqNGFIT3lxV0l6ZWs0andwLUs0Nm41dUlNS3M0eDAwX1AxM21kUUpyQ2ZDcUEzOXZuTzI2RFFkRnRqdGNWRmx6NV9oTU9LNHNZMnZTbUMyS3JWeG93TjRZeWp3MWxJVk1uYjlBRjRWMXozcWJQMk1TNG5qZnU4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "69b045c78182",
+      "title": "Tesouro da humanidade: arqueólogos recuperam estrutura colossal que ficou perdida por mais de 1.600 anos no fundo do mar; descoberta inclui 22 blocos monumentais de até 80 toneladas e intriga especialistas. - CPG Click Petróleo e Gás",
+      "published": "2026-06-24T16:06:00+00:00",
+      "summary": "Tesouro da humanidade: arqueólogos recuperam estrutura colossal que ficou perdida por mais de 1.600 anos no fundo do mar; descoberta inclui 22 blocos monumentais de até 80 toneladas e intriga especialistas.&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNWGQ2SXFLLVhLOUR4SHNvaDF2V2JndjhYRktVR3BRSHFJN3RqeFFZbWhRcFAxT29QZFV2b21yR0FQYVNQQXZpb1k0VWFoSGNPanAxZnNhT1Z1UENhRGt5ZWx5Tm5uc3Y4c3BLZTZYdVBmdlVtQ0hTbmdCZW9HbS1TQkg3MWotX3NtbWl6bE1XQ3F6U1ZBVDBxT2lOZXdiQ1FyY2FBS0xPRXAxUzAwNmFhTGFtOUY4anNYNVVsVlBFSmEtZUdvUXRwd2xjQURISUpJSWw5NDJ1V2l0QUVqbGFQb2hkcDVaMTBGMEg0R3ptYXpmYk9WM0lzSkxQdDZWRHh5RTdFNzdLdG83OTVuSlB2RUZBZHRQQkM2c05TUFpaSFpRS3U0UU5EQkpiS3VSMGJkWkYxUWdOWTNMMnROdlhVVy1RRlpFZmM?oc=5"
+        }
+      ]
+    },
+    {
       "id": "9a3d1f5211d5",
       "title": "Novo remédio para calvície mostra resultados promissores em estudo - UOL",
-      "published": "2026-06-24T12:40:08+00:00",
+      "published": "2026-06-24T15:08:20+00:00",
       "summary": "Novo remédio para calvície mostra resultados promissores em estudo&nbsp;&nbsp;UOLCalvície: novo medicamento contra queda de cabelo é apontado como o maior avanço em décadas&nbsp;&nbsp;O GloboPílula contra queda de cabelo avança com resultado promissor em homens&nbsp;&nbsp;Olhar DigitalNovo remédio oral para queda de cabelo surpreende em testes com mais de 500 participantes, usa minoxidil de liberação prolongada, apresenta crescimento de fios quatro vezes maior que o placebo e agora desperta expe",
       "sources": [
         {
@@ -18,14 +42,14 @@
       ]
     },
     {
-      "id": "de1e52a0dbfa",
-      "title": "Quintal terapêutico estimula o desenvolvimento infantil por meio do brincar - CidadeVerde.com",
-      "published": "2026-06-24T12:12:00+00:00",
-      "summary": "Quintal terapêutico estimula o desenvolvimento infantil por meio do brincar&nbsp;&nbsp;CidadeVerde.com",
+      "id": "9da4ef3265a4",
+      "title": "Holanda registra primeiro caso de eutanásia em criança desde ampliação das regras para menores - CPG Click Petróleo e Gás",
+      "published": "2026-06-24T12:46:00+00:00",
+      "summary": "Holanda registra primeiro caso de eutanásia em criança desde ampliação das regras para menores&nbsp;&nbsp;CPG Click Petróleo e Gás",
       "sources": [
         {
-          "name": "CidadeVerde.com",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRDhMVEc2RnNwRG96SGw5NUdhekNKWHdmS2toQU12d0U1eW1pMkJQd0I0R21hSkJlZUtwM1JfTk93VHQ3SnY4ZDU3bUZEb3NhcVlyNi1PTlp0UjlZSDA3LTc0V2NPUFNXdWNrLVk4R1lhckJzTnRmZ256NG9TRGtyVDBDYjJkQTB5YlR6bnNnRC00RVE0a1UwZl9RVVRQTnpsYUs2V2VKTHlyakJOdUd5OUpTc1lIQQ?oc=5"
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYkdhWWhqRkZhNDV5aUY4OVp3dGVhbVBGcDVBTDcwb2ppM0VlTnZRbHY0Rm5rMTdKWG1QU1gtcjd5c1dUQjdrUlRXRUJxWWtLMndJYkNVc1hzc0k2MFJGOUFxbUt4TjJUQWJfR0MyblUtSUltajAzejB4SlBXRnkxWEpnc2V5WWJwM0RYcVl1RjRzOFlGWlAxZ2EyMklJQ3hPc0E?oc=5"
         }
       ]
     },
@@ -33,7 +57,7 @@
       "id": "b0f7e2639320",
       "title": "Gordura no fígado: veja os alimentos recomendados e os que devem ser evitados - ICL Notícias",
       "published": "2026-06-24T11:57:48+00:00",
-      "summary": "Gordura no fígado: veja os alimentos recomendados e os que devem ser evitados&nbsp;&nbsp;ICL NotíciasGordura no fígado: os sinais silenciosos que você pode estar ignorando&nbsp;&nbsp;A GazetaFígado gorduroso pode avançar sem dor: o motivo de exames alterados merecerem atenção antes dos sintomas&nbsp;&nbsp;Tua SaúdeGordura no fígado costuma não dar sinais, mas pode evoluir para doenças graves&nbsp;&nbsp;ES HojeGordura no fígado: médico explica quando o acúmulo ultrapassa o limite normal e vira ri",
+      "summary": "Gordura no fígado: veja os alimentos recomendados e os que devem ser evitados&nbsp;&nbsp;ICL NotíciasA nova era do fígado gorduroso: por que MASLD mudou a forma de olhar diabetes, peso e enzimas hepáticas&nbsp;&nbsp;MSNGordura no fígado: os sinais silenciosos que você pode estar ignorando&nbsp;&nbsp;A GazetaFígado gorduroso não é inofensivo: entenda os riscos&nbsp;&nbsp;FOLHAMAXFígado gorduroso pode avançar sem dor: o motivo de exames alterados merecerem atenção antes dos sintomas&nbsp;&nbsp;Tua",
       "sources": [
         {
           "name": "ICL Notícias",
@@ -54,26 +78,14 @@
       ]
     },
     {
-      "id": "7a1e7815dded",
-      "title": "Menino de 10 anos sofreu parada cardíaca, passou por transplante e sofreu AVC antes de 'recuperar a infância' - Terra",
-      "published": "2026-06-24T07:59:00+00:00",
-      "summary": "Menino de 10 anos sofreu parada cardíaca, passou por transplante e sofreu AVC antes de 'recuperar a infância'&nbsp;&nbsp;TerraEstação Tatuapé recebe ação de conscientização sobre cardiopatia congênita nesta terça (23) e quarta-feira (24)&nbsp;&nbsp;Diário do Transporte460 crianças nascem com problemas no coração a cada ano&nbsp;&nbsp;Tribuna OnlineComo é a rotina de quem cuida do coração de bebês e crianças&nbsp;&nbsp;band.com.brCardiopatia congênita: 30 mil crianças nascem todos os anos com a d",
+      "id": "c13983c64bea",
+      "title": "80% dos data centers no mundo estão expostos a riscos climáticos extremos, aponta estudo - Exame",
+      "published": "2026-06-24T09:06:43+00:00",
+      "summary": "80% dos data centers no mundo estão expostos a riscos climáticos extremos, aponta estudo&nbsp;&nbsp;Exame",
       "sources": [
         {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNQmJPOTJFc3lTaGdLQlVWS01DdzM3WExVaDJNRXppRThXVlMyOGRsbDZqU3VmYWp6VFU0d09yRU85SndOalVfMmt2ZThLc0oydF9CUVNpLXp3TlZVb0NDTzUyMElKZ2dJcWVCNGwyMUZwZlQ1UlBEeHVPUEhjV0RyN0lReE5hb3lUVlJvUXZ6eVFIMzFVaHVYSWNyOWFFYlVpaFJBd1d4UnVvZzlpZG8tc2pSbTJ5Y3ZpTVF3QzR4cThVTS0xcW53YnJYb3M3Tkl6OE1UcER6ejhkbnhuWFBqSXFfSEJrbkh0eUx5MUNRajhNZmRQcXZiZE1hTWpxSkJqSkZNWWs3TG1IV2JTZmlFdndYX3d6cEg5VjZnLXIyZTEyVWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c2b88135d445",
-      "title": "Você pode estar facilitando a entrada da aranha-marrom sem perceber; conheça os esconderijos favoritos e os truques gratuitos que reduzem o risco de picadas - CPG Click Petróleo e Gás",
-      "published": "2026-06-24T03:37:00+00:00",
-      "summary": "Você pode estar facilitando a entrada da aranha-marrom sem perceber; conheça os esconderijos favoritos e os truques gratuitos que reduzem o risco de picadas&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPVEd4aDltSlNvRlBlM3ZUX3JIYkdfYUJheHp0bWc2ZjJaN01rTDAyaXRwcms4ck83djNNT2tiaDdMQnlRQktrdWpFNEMtUW1kRE1DdlAzU1B1MFBEeTBuS1FnOFlvX1Yzb0xRdE1vbVZScHFEWUtJMVgtX0xyUFBWc0ZxMW5MLWx3cF83NkhJOVVvRUZKdG91UlcyaUhMOFJkUVRzcGx2YU04OUFUTjlhTmlXOERaeTlOeFZqVWZWLWkwdlVWMHZqM3NtTEV5N2pUcUpIcVFYb2VNTUtUbWpwWjR1WVI4WVNRTkpvSTVqSXpnSUpDV3RkSTc2YkhUbGJiYnl1cks1ZEdnWHlUZ1pGYWdaTy1MRlBjMjdlQkx4SUhSUQ?oc=5"
+          "name": "Exame",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSVJZUEFPMHJ3bDBSNGV6TUdPU0tLa3VEeTZPaWYyN3BzT2Z2VDZmcFJTdXhiOFc1QTNIQU9fMGRScmVrWDhwU0JZS1JjbnFwODFVU01QTklXRzNTRmlqa1ZnYU9VVUpBei1jVkJMZGxDLXdDX3pwZWtSN0F0ekdVT0NyRFpDNnU5cnBYaEdnQTlwTHN0d2JVcTBkT3RqZHFqM291SlBUZUJCNUhmYmc?oc=5"
         }
       ]
     },
@@ -102,14 +114,14 @@
       ]
     },
     {
-      "id": "76908fe2b212",
-      "title": "Vereador Edson Aparecido Schadek é transferido para UTI após diagnóstico de aneurisma - Jornal Liberdade",
-      "published": "2026-06-24T00:01:50+00:00",
-      "summary": "Vereador Edson Aparecido Schadek é transferido para UTI após diagnóstico de aneurisma&nbsp;&nbsp;Jornal Liberdade",
+      "id": "87f54ccd17d7",
+      "title": "Anvisa alerta sobre substância que aparece na batata frita, pães, biscoitos e café - gmconline.com.br",
+      "published": "2026-06-23T23:44:00+00:00",
+      "summary": "Anvisa alerta sobre substância que aparece na batata frita, pães, biscoitos e café&nbsp;&nbsp;gmconline.com.brVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
-          "name": "Jornal Liberdade",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMHJqdlBnZnlXUUhtT3dDY1FHZjBILVVJdy1JQ2lPVUIxNE1oM2xqSG9aWU4xWjI1NHhBVTdLdk5vSy1pTF9Od01Nc053YWpEZFgySnU5dHZ1WEZuRkJ6c0EyMm1mbmc2NVUxcXFVbDdxWTgxcVEzZzdqY3k3R0RieUMtcGpLSEZJdWRvQUJ4Mmh5LXVfSFlXOW5ObFBOaWVRYVRUQnFlc0R2ZDBzNTBKcjhiU2plYjNUT3JoaWJsTkIxcDQ?oc=5"
+          "name": "gmconline.com.br",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN0dOb1dlTnNoeFI3cm1DaXhxamJjeXZ6LUVmRFRzNldKT2RkTEEydWJiZUJEQVpLWS1vSE1FTi1sUVp2U202UzRNcy0ybDZ0UW9RdXVOQTdla3d6SHhxbWdKT3pmNTVkWElzT2E3dGJJbDNMTW9adVFwdFFsak15RnpXQ21wa2lNOFU0c2lmOFVVbFFCcm5QS29oTGFMUWlKTnN3ejBtQ1dKT0gzZHlUVDJCdkFFM1ZEcmc2OWhR0gHDAUFVX3lxTE00OWYtS0MwUVZ3SHF4NnpjUk9KWVBDMWZXeWRTQkhQQm04THpVTlZxVkc5TWZaUmF0R2tGOWlFVXM2ZThtd3FpdVUtZUc1UUtaS2FOX29iM2dPZ2sxMXNtdjdTdHFIWXFfMDJXcGpMeEZfOGVNNDhsZno4VVI0ZU00X2Jfck9YSnJweXdRRi1KbFRzelA3UjliMWZXcnZ5Q2txUnA3SHFCa3pWR0duMGJ3cXBjQzBkNllpb0RCODhiNjk1Yw?oc=5"
         }
       ]
     },
@@ -122,6 +134,18 @@
         {
           "name": "Jornal Correio",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQVRQZTVTaVExbDh0ZVVkeUdMNmMtdW94aUZfdkxBVV9BU3ByVFRWcEh2ZVk2UDQtRlZKZVlpcHJPV3dtaVhzWm9YaW8ydEhSTnRYT18zZ0VrZDRsVGJZTk1ZLU1ReDZlSVg0VEx2ajJBQWc5Z1AtaUlKRHlzSGxia18tVlVmV0tTVTFmbGJjajVLYkJkTW5Ic1ZDdUFGVTB1S0UwdDROdTJ0OGs4X1QzLWNJRnM4bGdlOGt6Q2l3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f7cbd1439804",
+      "title": "Jovem de Campinas viaja 12 horas para fazer tratamento da medula com polilaminina; entenda - ACidade ON",
+      "published": "2026-06-23T21:30:44+00:00",
+      "summary": "Jovem de Campinas viaja 12 horas para fazer tratamento da medula com polilaminina; entenda&nbsp;&nbsp;ACidade ON",
+      "sources": [
+        {
+          "name": "ACidade ON",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLTc5cEtnZ2R4ZjY0UFMwekQ3cjZpN0pOaGhMVHpoNTE2UjhOdnJQbzhHRUtkOGxuY2R6MlFxY2k2RXhHenhaalA1ZlRnc0dPcmdhUkNhai1mWU1KYWt4bm9RYlVTNnNSNzJWRnZuNTNpQzFSd1hLT004ZlJpSGYxNFp2cTBGOFczbUU3ZzhVSkxJZmlSQ1licGY0YThMNkx3TDZKWDZQMllXVFZsWEpjb0l2dXY1MHBPT1VqcTBUTndIOWZJWlJZSkoyeUV3XzFC?oc=5"
         }
       ]
     },
@@ -141,7 +165,7 @@
       "id": "8f4e3fcab7b8",
       "title": "Anvisa autoriza medicamento não-hormonal que trata sintomas da menopausa - GOV.BR",
       "published": "2026-06-23T21:23:50+00:00",
-      "summary": "Anvisa autoriza medicamento não-hormonal que trata sintomas da menopausa&nbsp;&nbsp;GOV.BRMenopausa: como funciona o remédio sem hormônios para tratar ondas de calor aprovado pela Anvisa&nbsp;&nbsp;EstadãoAnvisa aprova primeiro remédio não hormonal contra fogachos; entenda como ele age no cérebro&nbsp;&nbsp;G1Novo remédio para menopausa: Anvisa aprova medicamento não hormonal para sintomas&nbsp;&nbsp;Veja SaúdeAdeus, ondas de calor? O que faz o fezolinetanto, tratamento para menopausa inédito no",
+      "summary": "Anvisa autoriza medicamento não-hormonal que trata sintomas da menopausa&nbsp;&nbsp;GOV.BRAnvisa aprova primeiro remédio não hormonal contra fogachos; entenda como ele age no cérebro&nbsp;&nbsp;G1Menopausa: como funciona o remédio sem hormônios para tratar ondas de calor aprovado pela Anvisa&nbsp;&nbsp;EstadãoAnvisa aprova medicamento não hormonal contra sintomas da menopausa&nbsp;&nbsp;Sul 21Todas as postagens marcadas \"tratamento sem hormônios\"&nbsp;&nbsp;Portal UAI",
       "sources": [
         {
           "name": "GOV.BR",
@@ -150,14 +174,38 @@
       ]
     },
     {
-      "id": "61be69347581",
-      "title": "Rio recebe mais de 36 mil doses da vacina Pneumo 20 para crianças de até 5 anos - G1",
-      "published": "2026-06-23T21:22:36+00:00",
-      "summary": "Rio recebe mais de 36 mil doses da vacina Pneumo 20 para crianças de até 5 anos&nbsp;&nbsp;G1Pneumo 20 no SUS: o que você precisa saber sobre a nova vacina — Ministério da Saúde&nbsp;&nbsp;GOV.BRParaíba recebe nova vacina para prevenir pneumonia e meningite pelo SUS; veja quem pode tomar&nbsp;&nbsp;Jornal da ParaíbaTocantins recebe mais de 12 mil doses da vacina Pneumo 20 para crianças de até 5 anos&nbsp;&nbsp;Cleber ToledoPrefeitura informa disponibilidade da vacina Pneumo 20 a partir desta qua",
+      "id": "bc5efd691d6e",
+      "title": "Nova Serrana decreta emergência em saúde por aumento de casos de Influenza A e vírus da bronquiolite - G1",
+      "published": "2026-06-23T21:23:01+00:00",
+      "summary": "Nova Serrana decreta emergência em saúde por aumento de casos de Influenza A e vírus da bronquiolite&nbsp;&nbsp;G1VSR em lactentes: segurança da vacina materna e do nirsevimabe&nbsp;&nbsp;Afya | HomePrefeita Mariana Canella reforça a importância da vacinação de gestantes contra a bronquiolite&nbsp;&nbsp;Prefeitura de Belford RoxoNova Serrana decreta emergência após alta de vírus respiratórios infantil&nbsp;&nbsp;DiviNewsVacinação contra Influenza e Vírus Sincicial é disponibil...&nbsp;&nbsp;Pref",
       "sources": [
         {
           "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWjIwdWlRTGhnZm96LVhwcVRWdDJITDBhVXlibmVRekZ3YU10OTgtb0hkOG4wdXFOMkp0M0d5WGNNODdEOXpkWXlIRUhXZlEyMHVPWkgtV0k3UE9qbFJlT21lWjM0QjFDZ1hGemxlejZYTldNZGk4TnFFYmZQU3Y5d2RjdC15b1dHMjhMZ195ZXJST1YtRkRMM1pKZVRVUU1TVklDTEhBMWZTdUF1M25mdkdKVmFEblJOVEtwWmQ4VmhHcXJVUXlFYUhyNklRQWVOSkNFdk1WcjVmSWPSAeoBQVVfeXFMTk9VaHNZQWhQamdEckdGS2FfNXBLUERoeWk3cTZaN0VtamU5OVdLRlRWRVNPOG5ESUtDXzN6YkRsQ1JTTy1TTlJ4ZEJ5eUV1R0hJWHQxTF9GQ0tuS182dXFwYVdxYW9XUEZsSk5SbnAyREhHUC1Ma2FNcVhicTAyZmdfdzdJUjBxR1pFYk1oM1M4ZjhscWJDVnplamZKZ3RWRG9ZOHFmbzhQZFA1Yk9qbzFLc2h5WkJTZ1ZvbGNiRk5SaGtZbE5JSjJiUkpJeTI5U0lCRjZKY2FsMUNacDRlM092ZkFIUlpLSUJB?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOY05tQUZ5N1gxUXQyb0owVEgtb2tFUVItaThUUEZ1M1dBTk5sTzB0SlZYMXdxbTA1SmZ2RVpZMHJDV2FYTDNTMVl3WGtxT2pOSWJXTGJEbG9VcnVOT0xsZ2VhM2NhU0dndmpkRFlXVks2Y1VDSkkyMkozaXhJQll2b3VGVzlDdWwzeUVLYnF6MTRhY3d4OEM5UjE3Qnpva2dLTENwQnY4aVRFdzB2RVV3ZFNrSklCWWdWZ1pnU2UwSnIyODdJRDJMOTQta0pnREF3RFBpMG41MEVFSllYanZoZlFCS2dVY3RrbER2MTBpQnJmVmVF0gGDAkFVX3lxTE9DQXlBMkU5ZXpzX2M0WW9FSnRQRVdFZERUTzJMMEVQMk9wcm5HMTVmMUJlYkU4X0dqODFzUlJsdEV5ZkpUQVdfUDZhZFVrUU50bVptcEtzSDlCTy1XbUZDM2JaOXdVVFB2OU44aTg5MVhGTXg3NDVoZWdMUFlHS2twRTRrUUpzdnkzSEdSbTRiZ1NGa3FvaEdWaFJ0LUM5ZDBuR3BYUnNlWm5GTWRMbUZCdS1DMEZsbVVoTUJfVjh5MFhscnQzSFJpcWNvVU1SWklseUNRb2dGOTRPZVMwQ1JaYTVheVNSRWxiYnN3c1ZYbE00d0pTSURxVlRDYThpNzBtTEk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "18458edee032",
+      "title": "Prefeitura de BH inicia vacinação infantil com a Pneumo 20 e amplia proteção contra doenças pneumocócicas - Prefeitura de Belo Horizonte",
+      "published": "2026-06-23T20:31:42+00:00",
+      "summary": "Prefeitura de BH inicia vacinação infantil com a Pneumo 20 e amplia proteção contra doenças pneumocócicas&nbsp;&nbsp;Prefeitura de Belo HorizontePneumo 20 no SUS: o que você precisa saber sobre a nova vacina — Ministério da Saúde&nbsp;&nbsp;GOV.BRVacina Pneumo 20 começa a ser aplicada em Volta Redonda&nbsp;&nbsp;G1Saiba detalhes da vacinação infantil contra pneumonia e meningite&nbsp;&nbsp;VEJA RIOPrefeitura informa disponibilidade da vacina Pneumo 20 a partir desta quarta (24)&nbsp;&nbsp;uberla",
+      "sources": [
+        {
+          "name": "Prefeitura de Belo Horizonte",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdjJwZUNrOS1qanQ1Q0NScGdWc2U5MkxTd3JoMnphUVJpNTJzWlA0cjQ3c1ZmNVVlSlBvUVpHRXBvemI0WC1saHNOZFNzRGJqRkNzYWJwZjRoLXUwb0NVUkE2d1N1UjFibF9WWHdMcFQ4Yno5aXBmUTRGRWMyajZSNERzNjhkS1U4V3VfUGtsLW11MVdJSDExcFhTSEVkY0NSTjctRERfMUtaSHluZFdWUGZER2taN3F2d1ZXZHk3cjJ6NkhOYVlj?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ca4ca83ed0b3",
+      "title": "Vacinação contra a gripe no Paraná é aberta para público em geral; veja detalhes - G1",
+      "published": "2026-06-23T19:22:00+00:00",
+      "summary": "Vacinação contra a gripe no Paraná é aberta para público em geral; veja detalhes&nbsp;&nbsp;G1Vacinação contra gripe será liberada para todos os públicos&nbsp;&nbsp;G1A partir de segunda-feira, vacina contra a gripe será liberada para todos em Curitiba&nbsp;&nbsp;Prefeitura de CuritibaCom cinco mortes por doenças respiratórias em 2026, Caxias do Sul ainda registra baixos índices de vacinação contra a gripe&nbsp;&nbsp;GZHVacina contra gripe estará disponível para o público geral em Maringá a part",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQmRUZzNWS2U1VGk4dzE5c05GMHBzdDBhR2FDdEZUdUJmXzdPTlB3OHl4ekhOV2tfS3BBZVp0TUxJN0VfT29nUjExYTRXOU5jV0E3angwQXlkRjNVeDhQb2djWk9JbFVhRy10ZndlWDNLZ0draHY0T0lOWUVKV041T1dOT3FsZUNTbGJmNXNvWWJDQmQxTXlUbEZSaFZtNmNZdnN1SzZlWmMycVRndmFmZi1LcmRzSHh0eDVsMjhR0gHMAUFVX3lxTFBSRUJ3ZW5rc250ZWQwM0tDZzkwa0prZk50cEhJc2tEOUx0dGdTaWFtSnNrOXlOY2ZIdXBTUHN3ZUktRm5zSTBOYmRJNU1ROElObVdieFJvOERCVjljSUlxU2JBSXJxd0pmSU1xVjBfRjhFYTVUeGVLNGt3c1pMdXpIR0VXUkZ4WDNMcVlyMEpXa0NTckl4LUI3RkRkQjFVSnVXZXpjWmt6eGJZZ0ZNYWZqbG1xOG41RENmdUktQmgwVmw3eFg4eUlaX2gwVA?oc=5"
         }
       ]
     },
@@ -165,7 +213,7 @@
       "id": "b6753dcc7f93",
       "title": "Butantan busca idosos em Salvador para testar nova vacina contra gripe; veja como participar - Jornal Correio",
       "published": "2026-06-23T18:52:25+00:00",
-      "summary": "Butantan busca idosos em Salvador para testar nova vacina contra gripe; veja como participar&nbsp;&nbsp;Jornal CorreioButantan busca idosos voluntários para teste de vacina em SP&nbsp;&nbsp;CNN BrasilInstituto Butantan busca voluntários com mais de 60 anos para teste de vacina contra gripe no Recife&nbsp;&nbsp;cidade997.com.brInstituto Butantan busca idosos com 60 anos ou mais para ensaio clínico da vacina adjuvada contra gripe em Salvador (BA)&nbsp;&nbsp;Jornal O candeeiroButantan busca idosos ",
+      "summary": "Butantan busca idosos em Salvador para testar nova vacina contra gripe; veja como participar&nbsp;&nbsp;Jornal CorreioButantan busca idosos voluntários para teste de vacina em SP&nbsp;&nbsp;CNN BrasilInstituto busca voluntários para ensaio clínico da vacina adjuvada contra gripe em Salvador&nbsp;&nbsp;G1Butantan busca idosos em Salvador para testes de nova vacina&nbsp;&nbsp;A TARDEInstituto Butantan busca voluntários com mais de 60 anos para teste de vacina contra gripe no Recife&nbsp;&nbsp;cida",
       "sources": [
         {
           "name": "Jornal Correio",
@@ -177,11 +225,35 @@
       "id": "fcb00b165654",
       "title": "Dor crônica no frio: o sofrimento invisível de quem não pode esperar - Campo Grande News",
       "published": "2026-06-23T17:59:00+00:00",
-      "summary": "Dor crônica no frio: o sofrimento invisível de quem não pode esperar&nbsp;&nbsp;Campo Grande NewsInverno agrava dores crônicas: saiba por que o corpo trava&nbsp;&nbsp;Correio do PovoAcupuntura alivia dores agravadas pelo frio e melhora o bem-estar&nbsp;&nbsp;TerraEspecialistas reforçam a importância da atividade física para prevenir e aliviar dores&nbsp;&nbsp;R7SÃO JOÃO, FRIO E DOR: TEMPERATURAS MAIS BAIXAS PODEM AGRAVAR SINTOMAS DE DOENÇAS REUMÁTICA&nbsp;&nbsp;- Bahia Economica",
+      "summary": "Dor crônica no frio: o sofrimento invisível de quem não pode esperar&nbsp;&nbsp;Campo Grande NewsInverno agrava dores crônicas: saiba por que o corpo trava&nbsp;&nbsp;Correio do PovoAcupuntura alivia dores agravadas pelo frio e melhora o bem-estar&nbsp;&nbsp;TerraSÃO JOÃO, FRIO E DOR: TEMPERATURAS MAIS BAIXAS PODEM AGRAVAR SINTOMAS DE DOENÇAS REUMÁTICA&nbsp;&nbsp;- Bahia EconomicaArtrite, artrose e fibromialgia estão entre as condições impactadas pelas baixas temperaturas&nbsp;&nbsp;Bem Paraná",
       "sources": [
         {
           "name": "Campo Grande News",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQjNrVXZ2SUZzYTY2ZlhvYlR5UlBsSGpZSUV1VFVTRTFfNmt1S3NKUWZ6Qmkzbko1cWVMUnRSU2IwX1dUTnZVR1dRZEp5UGJ0ZGthOTZNNk5TN2NudWcyd096c2plS1BoTi1Bblk2YzU4SFZieDhEbk95RDJDdTlHNTdaeU0wVjVReDFrOUdNTlkzajB2NFd3bmRiX3R3dUhkM0t1SHVQaGRYTXFoeF9xQUxyajVkZ3d4LURnNHkxajRaT3NCektXddIByAFBVV95cUxOSmNCNFF5RzVFQXBwS3RJaW5kSm5zcjVDUFduUkRkQklOUks1QUFBRVR2TnlvUWkyZVFVQ3BQQy1YM08zZ0d5bUNPMUJTZkhxcUo0LS1aTm5NNmRGNFNiZG1uaW10MlhnR3ozUG4tVF9GczVpOEhwdWxxUnI3YW5pcl9BVFAyWWMzaDU4WGdXQ0pydHpvRGNycnhMVDN1V0trSUpJREVzcW9ETDk0d2RCVC1USHBZbUVfcDFtMWlIZFNlYXRrdDNtXw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "39fc8945039b",
+      "title": "IA ganha espaço na preparação de concurseiros e transforma rotina de estudos - DOL",
+      "published": "2026-06-23T17:55:39+00:00",
+      "summary": "IA ganha espaço na preparação de concurseiros e transforma rotina de estudos&nbsp;&nbsp;DOL",
+      "sources": [
+        {
+          "name": "DOL",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT0ZzMjBUbE9IU2wyN2tmVjl2T2swUEZmVmhHQ2RXUlhJTWJQal95WktVeTA5ZTdyc2xaVnNndmwtazVRSXNuUDJVVW1aNkJLZjZ0dkIwTG8xV19VTVBUNjBtRUtlblh4T0dUOWVvLVpNOEZIMkZwcFFaeGR2WkdCSFY2SlhKSF9NVXVjMUdqR3BQVmRHSndvdmV6MEpvYzFWZ3JqeHlpT3FIamw1UHFpS1hn0gG6AUFVX3lxTE5GUEpTSGNyOTdNcnFURVp1RDduOWx2a0l0VWNUX2JYUTViZVlxekhlZVZqWERCQXRZcTZHQUFrYmptYjBBbldNbm1GSmo0YnJQd2FGM0xSekhBVXktMUJaRWV4YW5ZMDVlZUJ1alJMZEhybk0yQld0dDFUSjcwdzh6eklEY0p2dnJxdWg0UV9xNExTUDYzLTZkOW0zUzlJeW5vQ2hfYWVOV191Skx3NUlVeUUyNVI1S2t6UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f1866f989652",
+      "title": "Fapes divulga resultados finais da 2ª chamada de três editais e destina mais de R$ 2,5 milhões para pesquisa e eventos científicos - FAPES",
+      "published": "2026-06-23T17:13:00+00:00",
+      "summary": "Fapes divulga resultados finais da 2ª chamada de três editais e destina mais de R$ 2,5 milhões para pesquisa e eventos científicos&nbsp;&nbsp;FAPES",
+      "sources": [
+        {
+          "name": "FAPES",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNWU05V0k4LS1XLTQyVTU1UlIzRDRoUTJkdUZLTHZ1UHh6ajV3a0wyNDh4LWx0UjgwXzBzUXRUREZoSldYdm81NmxNcGplclBYUElpYTRMTEh0QjdaVUFTckc5Q05KYVU1eld3XzJKWDNURXVVWllNUG5xeHNsZWV5QXNiYUdlblZPVlBpX0w4Y1diUHFrbEFacVppc0VaTDA4UUtLU0p4ZjVwN1AwUHRDMDVhUGNrLWptbGJoYkNrWUFvTi1sSDRId2xDVXd6QUNIcFpOaWg0eVlOcFdzOTVNUlZfNjlxNjFkd2ZLUkxYTHItR0ZQSUhmaDZn?oc=5"
         }
       ]
     },
@@ -213,7 +285,7 @@
       "id": "3a46fded5d91",
       "title": "Ministério da Saúde e SES atualizam cenário de reações da vacina da dengue do Butantan em Nova Lima - O TEMPO",
       "published": "2026-06-23T16:23:23+00:00",
-      "summary": "Ministério da Saúde e SES atualizam cenário de reações da vacina da dengue do Butantan em Nova Lima&nbsp;&nbsp;O TEMPOVacina da dengue: Butantan mantém recrutamento de voluntários idosos para ensaio clínico; entenda&nbsp;&nbsp;O GloboAnvisa cria grupo para avaliar a segurança da vacina da Dengue feita pelo Butantan&nbsp;&nbsp;Juína NewsVacina contra dengue: suspensão demonstra 'seriedade', diz ministro da Saúde&nbsp;&nbsp;O POVOInstituto Butantan avança em vacina contra dengue para idosos | Diár",
+      "summary": "Ministério da Saúde e SES atualizam cenário de reações da vacina da dengue do Butantan em Nova Lima&nbsp;&nbsp;O TEMPOVacina da dengue: Butantan mantém recrutamento de voluntários idosos para ensaio clínico; entenda&nbsp;&nbsp;O GloboAnvisa cria grupo para avaliar a segurança da vacina da Dengue feita pelo Butantan&nbsp;&nbsp;Juína NewsSuspender vacina contra dengue demonstra seriedade, diz ministro da Saúde&nbsp;&nbsp;O POVOInstituto Butantan avança em vacina contra dengue para idosos | Diário ",
       "sources": [
         {
           "name": "O TEMPO",
@@ -234,18 +306,6 @@
       ]
     },
     {
-      "id": "f50baade226a",
-      "title": "A partir de segunda-feira, vacina contra a gripe será liberada para todos em Curitiba - Prefeitura de Curitiba",
-      "published": "2026-06-23T14:56:00+00:00",
-      "summary": "A partir de segunda-feira, vacina contra a gripe será liberada para todos em Curitiba&nbsp;&nbsp;Prefeitura de CuritibaParaná libera vacina da gripe para toda a população&nbsp;&nbsp;G1Com cinco mortes por doenças respiratórias em 2026, Caxias do Sul ainda registra baixos índices de vacinação contra a gripe&nbsp;&nbsp;GZHVacina contra gripe estará disponível para o público geral em Maringá a partir de 29 de junho&nbsp;&nbsp;maringa.pr.gov.brVacinação contra a gripe no Paraná será aberta para públ",
-      "sources": [
-        {
-          "name": "Prefeitura de Curitiba",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOVNlT25CSll0UFJmbEtEcE9WYzI2UnU0ZEhjQmVRYjFHTFFoaURRR3dKNUh1MGEwb1ZReFdNdVhBdUlaMmMxRV9zbmpKbjdxdTQyM09KTlFJdUVQTEttNmRoeC1fMFlzajhybDdyQXZZUGRGajZTbzB6Zk8tOFpGV2pqeGpRUGQ3aW1SMENIMmRmRmNTVzNmVGR1Z0VjMjBFLTJQQXZOcUVjZTdLS3NaV2V2Uy02b2E2Z1Z4S096akpld0F5MnNBSXR3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8f12bc388898",
       "title": "Entenda como consumir brócolis pode te ajudar a combater o diabetes e doenças no pâncreas - Jornal Correio",
       "published": "2026-06-23T10:00:00+00:00",
@@ -258,22 +318,10 @@
       ]
     },
     {
-      "id": "4a62e72af811",
-      "title": "Por que o pênis é um termômetro da saúde masculina - e como prestar atenção em seus sinais de alerta - Olhar Alerta",
-      "published": "2026-06-23T09:57:00+00:00",
-      "summary": "Por que o pênis é um termômetro da saúde masculina - e como prestar atenção em seus sinais de alerta&nbsp;&nbsp;Olhar AlertaVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "Olhar Alerta",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOU3BQUERwSjkwZmJKNlJhbW1YSGhxdTY4V0NoanJmdWhBbk5BNWxoczFxVzJ2T3dhWmVkeldlTV9nT0NNekljTHZtdWYwaXNnSTJxamhid2JwdE1LWUpCcDlpV216RnA0cC1xMWlVbTlCaVlYV1BybnpOc2x2MTNlNFYyLUZCSGlBYmtleVdlbTZuTDQwX3Z1Z3Vac0ZPQlJTcUZwSm1XLWdSS1ZkY1dVUEF1ZHp2cEUxNTZHcl9PMjJtR1J2X1JzUU9Wc1VQT0FQV3FydWF5T0R6M0k?oc=5"
-        }
-      ]
-    },
-    {
       "id": "59f3c37c2122",
       "title": "Cardiologista revela que hábito comum pode ser a causa de insônia - Rádio Itatiaia",
       "published": "2026-06-23T09:06:57+00:00",
-      "summary": "Cardiologista revela que hábito comum pode ser a causa de insônia&nbsp;&nbsp;Rádio ItatiaiaAurelio Rojas, cardiologista: \"Consumir bananas, uvas, mangas ou abacaxis à noite pode interferir no sono\"&nbsp;&nbsp;TerraAurelio Rojas, cardiologista: \"Essa fruta (não é a banana) melhora a sensação de saciedade sem interferir no sono. Você vai dormir melhor e acordar com muito menos fome\"&nbsp;&nbsp;TudoGostosoBanana, manga e uva à noite podem prejudicar o sono? Cardiologista explica&nbsp;&nbsp;Rádio It",
+      "summary": "Cardiologista revela que hábito comum pode ser a causa de insônia&nbsp;&nbsp;Rádio ItatiaiaQuais as frutas que você deve comer e as que deve evitar antes de dormir&nbsp;&nbsp;Extra onlineAurelio Rojas, cardiologista: \"Consumir bananas, uvas, mangas ou abacaxis à noite pode interferir no sono\"&nbsp;&nbsp;TerraNunca coma estas três frutas à noite. Pode interferir com o sono, alerta especialista&nbsp;&nbsp;Notícias de hoje - IOLAurelio Rojas, cardiologista: \"Essa fruta (não é a banana) melhora a se",
       "sources": [
         {
           "name": "Rádio Itatiaia",
@@ -282,38 +330,14 @@
       ]
     },
     {
-      "id": "28a2009cc25c",
-      "title": "Homens idosos que dormem mais de nove horas por dia têm maior risco de perder mobilidade, aponta novo estudo; entenda - O Globo",
-      "published": "2026-06-23T07:30:19+00:00",
-      "summary": "Homens idosos que dormem mais de nove horas por dia têm maior risco de perder mobilidade, aponta novo estudo; entenda&nbsp;&nbsp;O GloboDormir mais de nove horas reduz mobilidade de homens idosos, diz estudo&nbsp;&nbsp;Folha de S.PauloDormir demais pode acelerar a perda de mobilidade em homens idosos, aponta estudo&nbsp;&nbsp;TerraDormir demais pode prejudicar mobilidade de homens idosos, diz estudo&nbsp;&nbsp;Correio BrazilienseDormir demais pode acelerar o envelhecimento do corpo, alerta estud",
-      "sources": [
-        {
-          "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOeU9TRkYzeVZLQVdNR0RBV0lEd0RkbW5BQk9oUjN6a2VyclVpcGtESXRzbTBzMFVZMVNoS3Z2bWs4akw3dm5CUkZQd3dKaEpXbDVZQjBOd2tJeVFPM3FQdGhWbDZQNm85cTc2c0Zsc3ByeWZ4T2VMX2dyR1hTLUhKZ2g1Y2djWXZUY2R0el9aWVhkVGRrLTF2NHBrQTl2S1BFMkxUNUxreVJzTjRVcGJUQklrWHIyZC1CYWVMdHNNWjJwd3pNbkZWLWphRkNKNkFDRUpCSHNnZHEzanQ4aVBRd1dMT2F0dDZaX3cxUzZ2c2dEaXN4V1hDaUx4eUNtVVVx0gGPAkFVX3lxTFA0MmpmdThoYURRSEl5MjdmMlZuanI4WjFMZWs2QWQ4NXRkVktnUnF3X0MxdkhUSmxrNWxZNGZ5UmIxTXo5dDhmbWprNjN5ck5uYmhSS1Z6cDN1d0FOSGdPWVVvVTNMNFZRT1UzWWd1MG1xN1lMZ0tJQUw4RUZWZHFkVlAzcmlBRkhwZlB1RXBFTDVXWHQwRXE3NlBaZEJWN0dBVk9GMi1aVDZ1WmM2R2xOOHdGSnpoTzFocE55WDVaQTdQOTU3Q3k5YUJYWWx0MDR1Y1BYdGZGaXd1YWYxYjlDalEzUG9xeC1pNWFiX0FiNVZUd2syWjdIUnNQcXJncWEtNWYydXAwQlNTLTMyR2M?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "423b64725e95",
-      "title": "IA já detecta ceratocone antes dos sintomas; entenda como - CNN Brasil",
-      "published": "2026-06-23T07:15:48+00:00",
-      "summary": "IA já detecta ceratocone antes dos sintomas; entenda como&nbsp;&nbsp;CNN BrasilJunho Violeta: entenda o que é o ceratocone&nbsp;&nbsp;Tribuna do NorteHábito de coçar os olhos pode causar ceratocone, alerta oftalmologista&nbsp;&nbsp;Rádio ItatiaiaMédicos e pacientes se reúnem em Goiânia para conscientizar sobre doença que ameaça a visão&nbsp;&nbsp;Curta Mais - GoiâniaJunho Violeta reforça a importância dos cuidados com a sa...&nbsp;&nbsp;Prefeitura Municipal de Botucatu",
+      "id": "cca2e4bad7a7",
+      "title": "Faça isso por três minutos e reduza as tensões ao longo do dia - CNN Brasil",
+      "published": "2026-06-23T06:37:50+00:00",
+      "summary": "Faça isso por três minutos e reduza as tensões ao longo do dia&nbsp;&nbsp;CNN BrasilPausas de movimento de cinco minutos por hora podem reduzir a fadiga e melhorar o humor sem prejudicar o trabalho&nbsp;&nbsp;O GloboPausas no trabalho favorecem desempenhos&nbsp;&nbsp;Correio BraziliensePausas de cinco minutos por hora reduzem fadiga e melhoram o humor, aponta estudo&nbsp;&nbsp;Tribuna do SertãoTrês minutos de movimento a cada meia hora combatem tensão e estresse&nbsp;&nbsp;93 Notícias",
       "sources": [
         {
           "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS0NOaVNVNDFaSjZoaVppQzlCX2p6N1dpZl9ON2d4enJTNGhoUEdBTERISlRKT1lnbDBYSjdBOXlPMUJtdndldlZQRTFXZC1pdTJyR1dvd3ROLXZwdUhCM1lIYWhpT0ZFV2Zlc3piMlVLd29zN3lieWdOdlFtTWhlTWlQdEViWFFQS2lyVFBzbnh1anBvY0Q4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b2b7b9f9ad3a",
-      "title": "'Tolerância zero' é a resposta para o álcool? Médica responde em vídeo - O Globo",
-      "published": "2026-06-23T07:01:44+00:00",
-      "summary": "'Tolerância zero' é a resposta para o álcool? Médica responde em vídeo&nbsp;&nbsp;O GloboHidratação e alimentação ajudam a aliviar os sintomas da ressaca&nbsp;&nbsp;MetrópolesA Seleção entra em campo, mas é o seu estômago que pode sofrer uma goleada nesta sexta&nbsp;&nbsp;Diário do LitoralCopa do Mundo: 5 sinais de que você exagerou na comida e na bebida durante os jogos&nbsp;&nbsp;O NORTÃOBanho gelado cura ressaca? Mande suas perguntas sobre álcool para o Vida Boa&nbsp;&nbsp;O Globo",
-      "sources": [
-        {
-          "name": "O Globo",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZUVhUzJTNDdPT2QyUkdNM1dRanhodE8yYnF0WWRmd0loOWwtb1FXTmNMTXRXb3AySkJnYnlDcTloWEJYdGExYXd4WS1BZnRFNVQ5WVR3dkpzVUowSzFBUWZBeXhZUTA2LU5ULWdXN2FCQnoxQTZKRC1Tbnp6ci1tOE9EVjZTMXJJSGJKNl9UaHZqLWtyak1uS0EyTlFGM0FxczRwN0pIaTI1dzdudWFUd2dpdUFQQUhzX2s2c0p1a9IBzgFBVV95cUxNUFJTVEVUWWZ2ek1MV1IyZFlNT3ZkencyN25Qd2NTY1U4S0tuUFo5ZkUwNi1XZmRDX3pPVmtibWpIY0ZkeFYyWUotekphMndOMDJVd2cyWFd1UW5aSnZpSXZQUmRGZ0M4em5pYVNKSXVlQ25ndXR3eG0tSUdUa2RvWng5VVBwWTZ3azNFMlFBUzRCeFhOZkQ5Nm15ZDBZR2h5Rm1lUjA0QlNhZ3lKVWE4V0tXNHF2QkVQamtxVlI2elZsWURDS0tkVjhVaUpKdw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdWYyUGY1dHpoOXlFZXZ4LVBHbVZ1a0ZVZGJLbUpIcDYzN0UxX1YwRktUOTVoVmVCUDVxTlA5S0NGaVNaNHRWUnVTVjdTTEdGZ0thVUJHSHRqUWNoWkIzNUF2cmtfLWdmdTB6MFkxeGx3aHhJX2E3T3l4RDBsOHEtM2JveWl3bTNNWnc0NUVBUl80Tkt0dzV1TGRqSQ?oc=5"
         }
       ]
     },
@@ -362,30 +386,6 @@
         {
           "name": "GOV.BR",
           "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOcXQ5dWp4NzNYUjBBbFBXUW55enVKT0lfXy15YUVJYVdJMVJGYVVmZDJpSEVGRVZyd2czWTQtQUt5U0ctdW1OS3J5UFE2czloWUc5X3ZVTEhfSXlQWEg2VnRuXzVDWXVRVjBsRXlLUXdaT0IxdVFxQmRPcDN6OVZ6Vk1GSENYNXllNDRReGVZSnJOXzA3ZnN5ZW9nSXdkOVoxbFc3UGVTZFpjTGdlaldkQUVtTU9sV21Mc0t3dUlDcHdZLW1fMUdrbFlDcW9UZ0lXbmVHeUU3WHpEMm02UGdweHdYaVRSTHJBdTFB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "54a5d1b7f318",
-      "title": "SUS volta a aplicar duas doses de reforço da vacina contra a pólio - Agência Brasil",
-      "published": "2026-06-22T20:12:00+00:00",
-      "summary": "SUS volta a aplicar duas doses de reforço da vacina contra a pólio&nbsp;&nbsp;Agência BrasilReforço contra a poliomelite volta ao calendário de vacinação de crianças; entenda&nbsp;&nbsp;G1Ministério da Saúde retoma dose de reforço contra a poliomielite aos 4 anos&nbsp;&nbsp;Folha de S.PauloCrianças de até 5 anos terão reforço da vacina contra a pólio&nbsp;&nbsp;R7Ministério da Saúde retoma 2º reforço da vacina contra a pólio com dose injetável&nbsp;&nbsp;Folha PE",
-      "sources": [
-        {
-          "name": "Agência Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaFBLclVkZTZIX1NzYWdBeUdSUlM3QnpVQUg1eGNPQ2l6cmpFY0hNa2JBM0dkeC1RWGM4TTRRTHRhaHJ6ZFA5U0tCdi1RdXlsT2J3eGVQenNGMFNHbUlIV3M5Vy1FYTloMFJMSFdSZHdWQkJoaVUybkhfZ2pyYVJXOGtSUk0wVXVBbFN5SC1laFRxRHh3Zm9WWTJFSm91R252TTFZbG9sdVhjRl9ENmg2WnpOWlZMMHJp?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "03e8f7db03ca",
-      "title": "Instituto de Estudos Avançados reforça protagonismo em pesquisas de agricultura espacial - fab.mil.br",
-      "published": "2026-06-22T16:13:23+00:00",
-      "summary": "Instituto de Estudos Avançados reforça protagonismo em pesquisas de agricultura espacial&nbsp;&nbsp;fab.mil.br",
-      "sources": [
-        {
-          "name": "fab.mil.br",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSzdXblRURGNfSjd6SXE4NmlXR2VZYnlPYTJtMHpwRmFndC1MWjVEVFFxVUNLdXRibDhGUlgwU3h0azdKaVFhNDJGNjl0ZFBhUmlBaHpHYi1yQmtieTRWSFhKMDVjSXpST2F4Q2J2MDF3b0pDODJNNzJKc215S0F1aEJpalpvOF9WdmgyLWxHWlpmbnFaOUR6WHF1LUlyMlNQUUl6cjhPYldPNXZkWUp6S3VHN3BkY1NKdmZWOVdCUXNCeEh1Y21ERWtOdThKMjIteHNGZzdFMExneVBlMnBSQ1k3RQ?oc=5"
         }
       ]
     }
