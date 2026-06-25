@@ -1,10 +1,22 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-06-25T09:25:23.799717+00:00",
-  "total_fetched": 91,
-  "unique_count": 89,
-  "health_related_count": 31,
+  "fetched_at": "2026-06-25T14:36:40.625322+00:00",
+  "total_fetched": 95,
+  "unique_count": 94,
+  "health_related_count": 38,
   "news": [
+    {
+      "id": "112b701c189c",
+      "title": "'Era meio-dia perdido': terapia reduz tratamento de câncer a 10 minutos - UOL",
+      "published": "2026-06-25T12:29:34+00:00",
+      "summary": "'Era meio-dia perdido': terapia reduz tratamento de câncer a 10 minutos&nbsp;&nbsp;UOL",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNHczdW9XMGZsVVdkMk9VVzBqMjMtNTJpMGJkcEFVYjJLV3NQRmh2UUVRa2NKZXpldTU3R3l0Vll4RXlqR3pHanY5VjY2eUczTFp5dk5CZXNaM0UwRkdXU29ReXRNVVNlNnlxdFZoR29rSlJCWk5XWE9wcUM4bk92b3JVYmFfcU5pNk5BOWc1VXJveG9neWsyeHVOcENiRFdrSDY0UkxhcG5UZFNZRnJwaUVIYmZwQ1Qzam8xN2NBTFBJbzRCQWVzNGF4N0xRU2Uxc3c?oc=5"
+        }
+      ]
+    },
     {
       "id": "d198e363be1d",
       "title": "Cirurgia ‘gêmea’ da bariátrica trata diabetes tipo 2 e controla a doença em até 89% dos casos - G1",
@@ -14,6 +26,78 @@
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQa01WQ0xSRk0xd1psa0FfcEYweVRoWnNLX1o2QXJWdGZnZGlBbENKdzdQRXZkRm1iWVhuT2lVMWVoeG9hbmVGUG9kdnpGUkJGUWF1Y285bFE4alVfbGlCdzl3TzhpNTJIcUdLZ3RtRzFZbk9vbWVuUmRnV1NqRmdzMEZWRnBJSV9JV245WklaMGMzQ1ltOFpzc2Q0eEo4THpTVXVQWTNHa0lIcFlBXzAxb2JVaG50T3RfbnVOdExaR2hqWXpFanljZG8xN0xHYV9wSGN5M1ZqYmRxSWxJdENrTVV4b9IB8gFBVV95cUxQTkJIR1hyd3ZTVEhNbzRfV2lPT1JHbWtmXzA1VGNRNi04VENKVk5OeU0yTVp5akd3M1g2ck4xYjBDdnNRSDZFeGVDUElIX3MtdzhwUXlNZkdzdnZCM2JtR0tOSlpJOTdIZGx5eEh5TDFDNUMyeXBRQk1sd0xMM1JvRHJnT2tkRFFrXzB6V0QtNXYyeEI1alB5V3hOcmRCVUdidVVPemdhSWFYSjB3S2NnSC1iMklPbS1TS2ZsTVFtY1BueFRGN2laMVVYNWpLTUU0MndmN1NUalRiSWRrOVJKLUxSaUZ2bGFTYWJVU2k5enVrUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e8ee42a4a344",
+      "title": "Telescópio Euclid capta imagem inédita do coração da Via Láctea com 60 milhões de estrelas - G1",
+      "published": "2026-06-25T08:04:30+00:00",
+      "summary": "Telescópio Euclid capta imagem inédita do coração da Via Láctea com 60 milhões de estrelas&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQ1dFSHpLUWVNaF9Hc2lXakh6OHA2WEctX3ZjWG9JLXVLa3RzNXNqLUgwVWU0cjZ1WXEzcjBCenRIS3FMdTlPZGl3R0pZRVNBNEpFbjFKUGRRN0RjS09qRk4yeW9RTml2RjZTMkdJODVYQkVVWUhuaV9NRnVoX0RxdTVjZmVaUzRhZU5JNzRHbXhTTGV4Wi1LdTlKODRNa3NGR0k4LTZvanhUSVJ5Sy1vQ1V1ZEo2TUkwWGctcGM5WV9ycXBCa1Jkc01DX0ZqVVlQbWctaFBLY3pqdk4y0gHrAUFVX3lxTE1XLWlKLWNmMVRCckI2cEMxMGJWTllBODd6WFZMVEotOFFkVlhiWFNqYTNUWDd1NURsdDJjeUJ0VUhjQ2I5Q1lMT2sxQnhGTGNnVTRQNHdzOG0xMUxkZEdUOXJZSEh6bS00RmRmalhuSWVRVnVWT2hNN2NvM3BqMHk4RzhBM2xxOURuQWVhSFEzc0lmNFNoVEpEZEZELW0tN1pqU215MXpJUXdNVE5iSlNNS3BGNGhtZmpGbURqZUlJMTNnN1BwWUF0ajhPeDRVR0N5YjFDSTN0R19hWGpUOGVrTUxSR1NTT0ZFSnM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c6a43c4be121",
+      "title": "Como ganhar massa muscular após os 40? O segredo não é treinar mais - Terra",
+      "published": "2026-06-25T07:59:00+00:00",
+      "summary": "Como ganhar massa muscular após os 40? O segredo não é treinar mais&nbsp;&nbsp;TerraPerda de força com a idade: novo estudo aponta qual frequência de treino ajuda idosos com sarcopenia&nbsp;&nbsp;Tua SaúdePerda de massa muscular em idosos: especialista capixaba alerta para riscos e ensina como prevenir&nbsp;&nbsp;ES HojeA perda de força no aperto de mão após os 50 anos nem sempre é só idade, pode ser um sinal precoce de sarcopenia&nbsp;&nbsp;Tua Saúde",
+      "sources": [
+        {
+          "name": "Terra",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTXB0Y3pNTXFHaWJwYkhmNHFwVFZUaDNDQXNnMWdxdlU4cjd5Wm1VMUt6RmZrRE5SUnNaUlRvMTZJbGxJM0ZGajg2UG9JNkVvRlRiN2RzXzIwdFI4VDd0TG5YcWtUM3AxdTAxTlhxdTZmNjhVQkhBWGZzcUp1eFFZN3drN2ZqdVZ6bXhNSHEtXzVRMFE0S0RGRVBBeUl5YWZUajRvd2s4bV9ickdjb25PeW5INDJCc2tBZUJKRkVQSVZYSGlWUkxob2xCaEcyRHQtUHlvd2JCREc4c3RLNVBPSk0yUFYzQkpJTXJNbnlR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "acd3903df63d",
+      "title": "Cruzar as pernas ao sentar faz mal à saúde? O que dizem os médicos - O Globo",
+      "published": "2026-06-25T07:30:31+00:00",
+      "summary": "Cruzar as pernas ao sentar faz mal à saúde? O que dizem os médicos&nbsp;&nbsp;O Globo",
+      "sources": [
+        {
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOThjUUdNMzBQdEtULTJGQXJabFdkVGpvcUI3VjlNMGwtRnhhYlBCVXU0MXV0b3Rka1JwUkRIb1VOV2tQenVWNXVCa3I5aHA0ZHhMekJyYUJRUlRhYzJjNVZPYzJ0V1BONVhjT1cwRXpDZmxrNURWdHVwSjcxRUdHX0hVaWNNWkE5SDhweWREaURwUzJxZ3MwNUtjOTRGNmw3WGM4RFkzUnlTUjlwSlY3Zm1wRGxXM0FmbWt4MlJB0gHMAUFVX3lxTFBYMjFsYUJSYjFuVllXbW4td2pmSUtfZ0FaaHVfRVZYOUxnd3hnVVhCMGZMWFJ4SklUTkNNQVNjSGdNaVVUZHJTRkVWWDNqblh2bktKb3l5QjVIT0dZY2w2WS0tYWpaQkdQSHdGcnJFaFluOExSUElVVWVJTEhsRFBfbmRvSVdTX2FqMVRfVzNQZE9sN0NnNHBvcEpGMVVjeEFYY0hPcXVMYm9ZV2JtVWVMZTB6TWFkem5NdkRlMFlaaVFNcWlIR0lXNFI5SQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "411ad96ca42e",
+      "title": "Nova no SUS, vacina que previne bronquiolite já reduziu em 16% casos graves em bebês - O Globo",
+      "published": "2026-06-25T07:30:16+00:00",
+      "summary": "Nova no SUS, vacina que previne bronquiolite já reduziu em 16% casos graves em bebês&nbsp;&nbsp;O GloboVacinação contra Influenza e Vírus Sincicial é disponibil...&nbsp;&nbsp;Prefeitura Municipal de TietêVSR em lactentes: segurança da vacina materna e do nirsevimabe&nbsp;&nbsp;Afya | HomePrefeita Mariana Canella reforça a importância da vacinação de gestantes contra a bronquiolite&nbsp;&nbsp;Prefeitura de Belford RoxoBronquiolite e pneumonia exigem atenção durante o frio&nbsp;&nbsp;Jornal de Bel",
+      "sources": [
+        {
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaWFRbFNpWDJteXZ0MEJpV2NLUHhZYnZYQU5FLTJhWGZ3QjhveXh0YVc0YWRjU05adllGSE1MSGl4ME42TEN4aG5TZ2tXcDNjOG5VS3pLcnZkeUxWVGk3NVVHbUVOdjRTa3UydHVSYUE4S1JFN2wyOTNJNTRseVM0c2hua3VFdk52S3BwVDRKMWJIcTNDN09ZNElQZ1FfWjNQUjF2MDJ4c1RGMlFhR1ZFYkY0aDZ3R3kxbXBtYkttVEVCeWJVYlBxcUVTTjRJWFRkNWxmWkp4UHJPZjBJdlHSAewBQVVfeXFMUDFLSmJqVmdOREhncFB0TngxWm90dW5JQzRrcGZHNTF0dUh5SlRCQy1zOWk0VDR4UXBvZ2ltX3MtT0NHeF9hVEVwVlloQXRSY1BZcDZDM2xCanVKUkdtdHdwOWVXMDA0NGdnTEVYNUJEYTZLazFjR1ViVS1rZG5QeGFEbFdzM2g1ZkQ5TDJBTzUycDhxdDFhRTZ1bkVsV2FrSnZ1YjhtUVpqQzBDVTM5bUpmTmt3RFZJYlpRYWE2ZmZPTktPMXZzV0tva2NNNU15Y2p2QmNSbFVhU2NReERZU3lfR2pwSEVlMkI1dUY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8007d0721966",
+      "title": "Calor extremo prejudica o cérebro e pode aumentar agressividade dos animais, diz estudo - O Globo",
+      "published": "2026-06-25T07:01:47+00:00",
+      "summary": "Calor extremo prejudica o cérebro e pode aumentar agressividade dos animais, diz estudo&nbsp;&nbsp;O Globo",
+      "sources": [
+        {
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOS1zMEZNa2RyN1EzempSZ1pTQkJhYWxIUTcyeEpPVUdpLXRSNjZQR3pPUUlMeDZCOXhfVHBwWllsaTJUOWhkZzZBUVctdXdzaW5LQTlwYVhrUlgwOTR4akJXWktSOG5zaEdwMGtVYW03a0VsM1BiOGpUbUZhWkJxY3I2d25YaXFjWUFsb0gtenVfQXZMb1VWRDhodUI0MWFIZHA5VWFEakhablRpbzBGUjJQTlpiZ2tuY2Y2RUZ4SzRxVFpXekd1dEtiaS1hR0xCbkMyX1diZ9IB5gFBVV95cUxPOFA2Vi1ucXhDYTBzNEhRRHhrMEd1VVpyWU9QTWo5ZUJQNThNRDZuX01NejJZYi11ZWtPXy1za2hlRUdNWGRMWnl6LVFLbmdMSkU1cEt5UHdVenl2Y054Ync3czVaX045STduNmtudHZtVFVHSm90VTI2dGhpWXFrQUtOa05wTGVDQzM5RzFhTm9ZSjBBTVVIWm5TbUNvWVZ1NkhUZFlfa1RuSGhCT1BNVjlXRElFUGIxVDRmR09JRHA5aVVvbC1od1k5RnZyZ1JCV2Q3ei1qb1VLQUt2QnE0MHJtTEZWUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "128f07741685",
+      "title": "Esse tumor raro confunde médicos ao produzir dentes, cabelo e tecidos humanos completos - R7",
+      "published": "2026-06-25T03:02:57+00:00",
+      "summary": "Esse tumor raro confunde médicos ao produzir dentes, cabelo e tecidos humanos completos&nbsp;&nbsp;R7",
+      "sources": [
+        {
+          "name": "R7",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUG90dkNtMXV0eDlCbkVJUU40R0NmSWtTTDUwQlhhTDVKSGRnT05COFV0UXpYb1dQNmRtRUwxSHIxNVE4LTIwcEtZSFJiSm96dFFydUtWN3BhSWt4dmFKM0c0TU04RE95RTF6NDZacWowcTJ2MVM5WkRwalpDNFBOdmNsV25VVXNVS0ljOTdGeGwwNFVWbHdXSDBfR0FtR0J2UGZQcVNaUjg1MWJVNXlfenZQZm1XQURycXZQYldQVTFJdU83OGlZWnYtelExQQ?oc=5"
         }
       ]
     },
@@ -50,6 +134,18 @@
         {
           "name": "CPG Click Petróleo e Gás",
           "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQYnFCT1R2NWVCa3c3bkgyc0ZNdEJCeTkzVkN1SEZ5TXZUektSTzJabG1YaFFBdGY3dnZmQ3E1U0JBc1oxT3FuQmJ0WWZyUUYxZ2x0QW1DenRLd0FQd1d2WThZQkxLZy12bmVCT2duU2haV0ZJdUd4YXVaNkZqclBqdWNEa1UxZDJlZlF4Tk9nSHhmTVdTT0RqTHBrcTFiQlBhTTV3NG84elFoem5LVmlmU0x4WFV5QUd5YlRHQjk1VUVHQzNwaUxZQThXVjFwa2Yzc09SUUdSS3BIU1FQYUVMVlZCWFlHNjN2MThZOEhXRnVBSTg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "97bbca7cba01",
+      "title": "Após 'feriadão' de São João, João Pessoa retoma vacinação nesta quinta-feira (25); veja locais - G1",
+      "published": "2026-06-24T20:40:20+00:00",
+      "summary": "Após 'feriadão' de São João, João Pessoa retoma vacinação nesta quinta-feira (25); veja locais&nbsp;&nbsp;G1Vacinação em João Pessoa retoma nesta quinta-feira após feriado junino&nbsp;&nbsp;R7Vacinação é retomada nesta quinta (25) em João Pessoa após 'feriadão' de São João&nbsp;&nbsp;Jornal da ParaíbaPrefeitura altera funcionamento da vacinação nos próximos dias e mantém atendimento de urgência&nbsp;&nbsp;Prefeitura de João PessoaPrefeitura de João Pessoa retoma vacinação e reforça importância d",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZE93SGNrd0M0Q2RlNkhCa0JVMEY4WWlUcTBSZnViVXY2STdCZ1lvVkhIQ2VQTEt5MENqWWZJeUs2MlYzaGNqVEd1MVdCaUxEX2hNUVh5LS1Vb2xoZVpzcngzclRNdUI2ZERRWk9ZeEtnMW9LZ01Pc2JDa1ZqMVZEbUhwSHdTbnU0TTJpNVg2Nk5kTkhmTk5Ia1UwMGVZS2l4WWZYMWlxVmpaSkNuUzE1TTd2ZV9LREJOX05VSTBWNUpjbjRaQ0k1bXJEbzU3TDlmYXN1YmYyaDAwbXRBU3fSAewBQVVfeXFMT3ptMnphMUdZOGVJeDhBakJpSkFHNVJMMmZFclNoTWoyRXJaTnVLTHYwT3lZbEdqdWNVUnhjV3Vtb3NQV3gtUzZFVGFlWkhrSWhEVEpNSG50Y3FBc1VsOHdwZVd2eFA0TUsxbjhwLXdMc0VKRE9ucXQzNmNYQ1dGaUFwLWdGa2tfYkJhaWF6U09yNU4zMnFxb0VLMlFDOTZXY3A4UFZCTnlKbktOcUZEYTcyM1dKdWM2MGNTVExjREI5THgtTUhOTjM5NUtLbkhONF9aaEZ4bmZMSGpnSEo3T0xvc2NUZzVIMDMxMDU?oc=5"
         }
       ]
     },
@@ -114,14 +210,14 @@
       ]
     },
     {
-      "id": "69b045c78182",
-      "title": "Tesouro da humanidade: arqueólogos recuperam estrutura colossal que ficou perdida por mais de 1.600 anos no fundo do mar; descoberta inclui 22 blocos monumentais de até 80 toneladas e intriga especialistas. - CPG Click Petróleo e Gás",
-      "published": "2026-06-24T16:06:00+00:00",
-      "summary": "Tesouro da humanidade: arqueólogos recuperam estrutura colossal que ficou perdida por mais de 1.600 anos no fundo do mar; descoberta inclui 22 blocos monumentais de até 80 toneladas e intriga especialistas.&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "id": "0dd6faa9c1da",
+      "title": "Menopausa: entenda como funciona remédio sem hormônio aprovado pela Anvisa - CNN Brasil",
+      "published": "2026-06-24T16:10:33+00:00",
+      "summary": "Menopausa: entenda como funciona remédio sem hormônio aprovado pela Anvisa&nbsp;&nbsp;CNN BrasilSaiba o que significa a aprovação do uso de novo medicamento que trata efeitos da menopausa&nbsp;&nbsp;EstadãoAnvisa aprova primeiro remédio não hormonal contra fogachos; entenda como ele age no cérebro&nbsp;&nbsp;G1Calorões da menopausa: por que a aprovação de novo remédio deve ser comemorada&nbsp;&nbsp;EstadãoAnvisa aprova 1º medicamento contra ondas de calor da menopausa&nbsp;&nbsp;Poder360",
       "sources": [
         {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNWGQ2SXFLLVhLOUR4SHNvaDF2V2JndjhYRktVR3BRSHFJN3RqeFFZbWhRcFAxT29QZFV2b21yR0FQYVNQQXZpb1k0VWFoSGNPanAxZnNhT1Z1UENhRGt5ZWx5Tm5uc3Y4c3BLZTZYdVBmdlVtQ0hTbmdCZW9HbS1TQkg3MWotX3NtbWl6bE1XQ3F6U1ZBVDBxT2lOZXdiQ1FyY2FBS0xPRXAxUzAwNmFhTGFtOUY4anNYNVVsVlBFSmEtZUdvUXRwd2xjQURISUpJSWw5NDJ1V2l0QUVqbGFQb2hkcDVaMTBGMEg0R3ptYXpmYk9WM0lzSkxQdDZWRHh5RTdFNzdLdG83OTVuSlB2RUZBZHRQQkM2c05TUFpaSFpRS3U0UU5EQkpiS3VSMGJkWkYxUWdOWTNMMnROdlhVVy1RRlpFZmM?oc=5"
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMkJ0Wm5vbWZaRmpEY0Q4OHExVUsxWURUekpWODRpZDV3UWJkck9HQkROdUlQa2c5RjV0UGtKWXg0OHNVcktCZTBUOFJWV1ZCY1lDRkc2V2twazVIa0NQRFp3TW1KUklrdHl3V3gwajVNaUJnNFpPSUI0T2h0MVVlYnZfU1V3WUdBakdCWVVvWWs3U1I3RVNIVTktT0hwNjNSRl9rZGxxeEFvcG1zMWc?oc=5"
         }
       ]
     },
@@ -150,10 +246,22 @@
       ]
     },
     {
+      "id": "9b850c91f30f",
+      "title": "O que muda com a liberação da vacina da gripe no Paraná? - Tribuna do Paraná",
+      "published": "2026-06-24T14:46:00+00:00",
+      "summary": "O que muda com a liberação da vacina da gripe no Paraná?&nbsp;&nbsp;Tribuna do ParanáA partir de segunda-feira, vacina contra a gripe será liberada para todos em Curitiba&nbsp;&nbsp;Prefeitura de CuritibaGoverno do Paraná reforça campanha de vacinação contra gripe nas escolas estaduais&nbsp;&nbsp;Governo do Estado do ParanáCom cinco mortes por doenças respiratórias em 2026, Caxias do Sul ainda registra baixos índices de vacinação contra a gripe&nbsp;&nbsp;GZHVacinação contra gripe será liberada ",
+      "sources": [
+        {
+          "name": "Tribuna do Paraná",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU1JDZVpXQkxwYmR0clpWZjU1VFJiUmMycjl3TmZQN3hEMDdCNF9JaVBfbXEyUUI0UzBPSFlVQ3dxdU1EUVA0Yzl6bGlkRWQxc3BJZGlLdVNHR014Sjl3OVlMYjZUMFRXclRxbGI5ZlJYT2M2d0N4Mnp0bDRMbC1XUTM3SEJDc2N4UFh3c0130gGTAUFVX3lxTE1JMV9RZnJOWi04RVZBemtweHpJb3BMOXBsMktEbTlHZjdvb1kwOFVQVE9xZGVCMk83a0dGV1dwN1lxejdfcll1dVhWRUppWUdIQXZDQzRqU2ZOX2lkMm1GZldLSlBmZkdNMHVqWktOSjg3WDBORWo5T0lQOTJma1UyVHpvdmJfRFlZak9LdTdVZGsxQQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "93861317edb5",
       "title": "Ministério da Saúde inclui segunda dose de reforço contra poliomielite no Calendário Nacional de Vacinação - GOV.BR",
       "published": "2026-06-24T14:36:00+00:00",
-      "summary": "Ministério da Saúde inclui segunda dose de reforço contra poliomielite no Calendário Nacional de Vacinação&nbsp;&nbsp;GOV.BRCrianças com 4 anos devem receber mais uma dose da vacina contra pólio&nbsp;&nbsp;Agência BrasilReforço contra a poliomelite volta ao calendário de vacinação de crianças; entenda&nbsp;&nbsp;G1SUS volta a oferecer reforço contra pólio para crianças com 4 anos&nbsp;&nbsp;MetrópolesCrianças de até 5 anos terão reforço da vacina contra a pólio&nbsp;&nbsp;R7",
+      "summary": "Ministério da Saúde inclui segunda dose de reforço contra poliomielite no Calendário Nacional de Vacinação&nbsp;&nbsp;GOV.BRSUS volta a aplicar duas doses de reforço da vacina contra a pólio&nbsp;&nbsp;Agência BrasilMinistério da Saúde inclui 2ª dose de reforço contra a poliomielite&nbsp;&nbsp;G1Doença erradicada há décadas no Brasil passa a ter dose extra para crianças; saiba o motivo&nbsp;&nbsp;NSC TotalMinistério da Saúde retoma dose de reforço contra a poliomielite aos 4 anos&nbsp;&nbsp;Folh",
       "sources": [
         {
           "name": "GOV.BR",
@@ -165,7 +273,7 @@
       "id": "973840910be7",
       "title": "Canetas para tratar obesidade podem influenciar a evolução do câncer? - Estadão",
       "published": "2026-06-24T13:25:00+00:00",
-      "summary": "Canetas para tratar obesidade podem influenciar a evolução do câncer?&nbsp;&nbsp;EstadãoOzempic abriu o caminho, mas especialistas dizem que o futuro da obesidade será ainda mais avançado&nbsp;&nbsp;TerraJP1: Inflamações, apneia, dependência: estudos apontam novos usos&nbsp;&nbsp;sampi.net.brComo o Ozempic inaugurou uma categoria e redefiniu o Branding farmacêutico&nbsp;&nbsp;Mundo do MarketingNovas terapias e condutas clínicas pautam curso sobre obesidade&nbsp;&nbsp;Jornal Bom Dia",
+      "summary": "Canetas para tratar obesidade podem influenciar a evolução do câncer?&nbsp;&nbsp;EstadãoOzempic abriu o caminho, mas especialistas dizem que o futuro da obesidade será ainda mais avançado&nbsp;&nbsp;TerraJP1: Inflamações, apneia, dependência: estudos apontam novos usos&nbsp;&nbsp;sampi.net.brGLP-1 RAs Associados à Redução da Progressão em Alguns Cânceres&nbsp;&nbsp;Vera HealthComo o Ozempic inaugurou uma categoria e redefiniu o Branding farmacêutico&nbsp;&nbsp;Mundo do Marketing",
       "sources": [
         {
           "name": "Estadão",
@@ -201,7 +309,7 @@
       "id": "a24ae8606ba1",
       "title": "Quais mudanças no estilo de vida ajudam a reduzir os riscos de demência? - UOL",
       "published": "2026-06-24T11:16:28+00:00",
-      "summary": "Quais mudanças no estilo de vida ajudam a reduzir os riscos de demência?&nbsp;&nbsp;UOLSaiba quais mudanças no estilo de vida ajudam a reduzir o risco de diabetes e demência por décadas&nbsp;&nbsp;Época NegóciosDiabetes e demência: 10 descobertas que estão mudando a ciência&nbsp;&nbsp;Exame",
+      "summary": "Quais mudanças no estilo de vida ajudam a reduzir os riscos de demência?&nbsp;&nbsp;UOLAs pequenas frutas vermelhas que ajudam a proteger a sua memória contra os efeitos do envelhecimento&nbsp;&nbsp;Super Rádio TupiSaiba quais mudanças no estilo de vida ajudam a reduzir o risco de diabetes e demência por décadas&nbsp;&nbsp;Época NegóciosDemência no Brasil: como a alimentação pode proteger o cérebro&nbsp;&nbsp;TerraDiabetes e demência: 10 descobertas que estão mudando a ciência&nbsp;&nbsp;Exame",
       "sources": [
         {
           "name": "UOL",
@@ -225,23 +333,11 @@
       "id": "7a1e7815dded",
       "title": "Menino de 10 anos sofreu parada cardíaca, passou por transplante e sofreu AVC antes de 'recuperar a infância' - Terra",
       "published": "2026-06-24T07:59:00+00:00",
-      "summary": "Menino de 10 anos sofreu parada cardíaca, passou por transplante e sofreu AVC antes de 'recuperar a infância'&nbsp;&nbsp;TerraMenino volta para casa após batalha contra cardiopatia grave #HojeEmDia #Shorts&nbsp;&nbsp;R7460 crianças nascem com problemas no coração a cada ano&nbsp;&nbsp;Tribuna OnlineComo é a rotina de quem cuida do coração de bebês e crianças&nbsp;&nbsp;band.com.brEstação Tatuapé recebe ação de conscientização sobre cardiopatia congênita nesta terça (23) e quarta-feira (24)&nbsp;",
+      "summary": "Menino de 10 anos sofreu parada cardíaca, passou por transplante e sofreu AVC antes de 'recuperar a infância'&nbsp;&nbsp;TerraMenino volta para casa após batalha contra cardiopatia grave #HojeEmDia #Shorts&nbsp;&nbsp;R7460 crianças nascem com problemas no coração a cada ano&nbsp;&nbsp;Tribuna OnlineComo é a rotina de quem cuida do coração de bebês e crianças&nbsp;&nbsp;band.com.brNo mês do Dia de Conscientização da Cardiopatia Congênita, Mantoan pede ampliação de exames&nbsp;&nbsp;bombabomba.com",
       "sources": [
         {
           "name": "Terra",
           "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNQmJPOTJFc3lTaGdLQlVWS01DdzM3WExVaDJNRXppRThXVlMyOGRsbDZqU3VmYWp6VFU0d09yRU85SndOalVfMmt2ZThLc0oydF9CUVNpLXp3TlZVb0NDTzUyMElKZ2dJcWVCNGwyMUZwZlQ1UlBEeHVPUEhjV0RyN0lReE5hb3lUVlJvUXZ6eVFIMzFVaHVYSWNyOWFFYlVpaFJBd1d4UnVvZzlpZG8tc2pSbTJ5Y3ZpTVF3QzR4cThVTS0xcW53YnJYb3M3Tkl6OE1UcER6ejhkbnhuWFBqSXFfSEJrbkh0eUx5MUNRajhNZmRQcXZiZE1hTWpxSkJqSkZNWWs3TG1IV2JTZmlFdndYX3d6cEg5VjZnLXIyZTEyVWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c2b88135d445",
-      "title": "Você pode estar facilitando a entrada da aranha-marrom sem perceber; conheça os esconderijos favoritos e os truques gratuitos que reduzem o risco de picadas - CPG Click Petróleo e Gás",
-      "published": "2026-06-24T03:37:00+00:00",
-      "summary": "Você pode estar facilitando a entrada da aranha-marrom sem perceber; conheça os esconderijos favoritos e os truques gratuitos que reduzem o risco de picadas&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPVEd4aDltSlNvRlBlM3ZUX3JIYkdfYUJheHp0bWc2ZjJaN01rTDAyaXRwcms4ck83djNNT2tiaDdMQnlRQktrdWpFNEMtUW1kRE1DdlAzU1B1MFBEeTBuS1FnOFlvX1Yzb0xRdE1vbVZScHFEWUtJMVgtX0xyUFBWc0ZxMW5MLWx3cF83NkhJOVVvRUZKdG91UlcyaUhMOFJkUVRzcGx2YU04OUFUTjlhTmlXOERaeTlOeFZqVWZWLWkwdlVWMHZqM3NtTEV5N2pUcUpIcVFYb2VNTUtUbWpwWjR1WVI4WVNRTkpvSTVqSXpnSUpDV3RkSTc2YkhUbGJiYnl1cks1ZEdnWHlUZ1pGYWdaTy1MRlBjMjdlQkx4SUhSUQ?oc=5"
         }
       ]
     },
@@ -254,6 +350,18 @@
         {
           "name": "Agência FAPESP",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRk1kMmJ4aXpEdEJ2OTF1TjY1bUtUcjRCR205RjRUc3RPZV85R1hjbk9BSDdZUnlCU092UVA1bWl4TjdScHZWTXFpY19zYmJyV2pLeHJTbUxCWnpZa0Z4TzlBQ3o4cFlEaGJGRFZTSHFoUUtTaVlUaHhlUURHMEFsaV85eVU3c3lKa3ZrUkxMYXBVckdhaWZKakg1Vko0NTlmdHZN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6b9658a22d7e",
+      "title": "Pesquisadores identificam ‘enrijecimento do tipo Higgs’ em transições de fase - Agência FAPESP",
+      "published": "2026-06-24T03:01:41+00:00",
+      "summary": "Pesquisadores identificam ‘enrijecimento do tipo Higgs’ em transições de fase&nbsp;&nbsp;Agência FAPESP",
+      "sources": [
+        {
+          "name": "Agência FAPESP",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOHVFWXZzcjBlSnRSeVZwX2duQkVucXU4bTVfd0tUV3p0MnhQUnRLLU5mS2FXWW9STkd4bk9DQ216UXF5NE8ySkFGTGE1aFBjY1JQQ29NNENvWkZUenNONHVESWFScW1fQlNOUWxrSU1QTERmUlYzclRVcmVMY1NkTWZ2cDJBMEZnaElxUGlrYV81Wmc4YUltUFFab3lGNGNxbGtidWNLOWFwSDQ?oc=5"
         }
       ]
     },
@@ -282,38 +390,14 @@
       ]
     },
     {
-      "id": "8f4e3fcab7b8",
-      "title": "Anvisa autoriza medicamento não-hormonal que trata sintomas da menopausa - GOV.BR",
-      "published": "2026-06-23T21:23:50+00:00",
-      "summary": "Anvisa autoriza medicamento não-hormonal que trata sintomas da menopausa&nbsp;&nbsp;GOV.BRAnvisa aprova primeiro remédio não hormonal contra fogachos; entenda como ele age no cérebro&nbsp;&nbsp;G1Menopausa: como funciona o remédio sem hormônios para tratar ondas de calor aprovado pela Anvisa&nbsp;&nbsp;EstadãoAnvisa aprova 1º medicamento contra ondas de calor da menopausa&nbsp;&nbsp;Poder360Todas as postagens marcadas \"tratamento sem hormônios\"&nbsp;&nbsp;Portal UAI",
+      "id": "18458edee032",
+      "title": "Prefeitura de BH inicia vacinação infantil com a Pneumo 20 e amplia proteção contra doenças pneumocócicas - Prefeitura de Belo Horizonte",
+      "published": "2026-06-23T20:31:42+00:00",
+      "summary": "Prefeitura de BH inicia vacinação infantil com a Pneumo 20 e amplia proteção contra doenças pneumocócicas&nbsp;&nbsp;Prefeitura de Belo HorizontePneumo 20 no SUS: o que você precisa saber sobre a nova vacina — Ministério da Saúde&nbsp;&nbsp;GOV.BRSUS começa a aplicar a vacina contra a pneumonia em Birigui&nbsp;&nbsp;G1Saiba detalhes da vacinação infantil contra pneumonia e meningite&nbsp;&nbsp;VEJA RIOPrefeitura informa disponibilidade da vacina Pneumo 20 a partir desta quarta (24)&nbsp;&nbsp;ub",
       "sources": [
         {
-          "name": "GOV.BR",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS2hzVnpqSHhMbldTMFo0WEVsd21XNkNfaWhzbEd2Z3lJRG5Hcjd3b1phY090VkV1dDR2VXMxaVFuUmxSTXpST2lTM0xsdl9ueGczWHhJNHBaMlZmRmZHT1NBVmtwQzhKUk1Kc0ZyZWpPOS02WGRKTFlCOE1mNW5EM0tDcUVVN01TT3FuMmE5YWFCZWFzQlFxOG5wRlpLazhEUHhON1NSaHFwQ05sNUgwZ3JubGoxTU53bVR1cFppVGxKbDItd1BFbA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bc5efd691d6e",
-      "title": "Nova Serrana decreta emergência em saúde por aumento de casos de Influenza A e vírus da bronquiolite - G1",
-      "published": "2026-06-23T21:23:01+00:00",
-      "summary": "Nova Serrana decreta emergência em saúde por aumento de casos de Influenza A e vírus da bronquiolite&nbsp;&nbsp;G1Nova no SUS, vacina que previne bronquiolite já reduziu em 16% casos graves em bebês&nbsp;&nbsp;O GloboVacinação contra Influenza e Vírus Sincicial é disponibil...&nbsp;&nbsp;Prefeitura Municipal de TietêVSR em lactentes: segurança da vacina materna e do nirsevimabe&nbsp;&nbsp;Afya | HomePrefeita Mariana Canella reforça a importância da vacinação de gestantes contra a bronquiolite&nb",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOY05tQUZ5N1gxUXQyb0owVEgtb2tFUVItaThUUEZ1M1dBTk5sTzB0SlZYMXdxbTA1SmZ2RVpZMHJDV2FYTDNTMVl3WGtxT2pOSWJXTGJEbG9VcnVOT0xsZ2VhM2NhU0dndmpkRFlXVks2Y1VDSkkyMkozaXhJQll2b3VGVzlDdWwzeUVLYnF6MTRhY3d4OEM5UjE3Qnpva2dLTENwQnY4aVRFdzB2RVV3ZFNrSklCWWdWZ1pnU2UwSnIyODdJRDJMOTQta0pnREF3RFBpMG41MEVFSllYanZoZlFCS2dVY3RrbER2MTBpQnJmVmVF0gGDAkFVX3lxTE9DQXlBMkU5ZXpzX2M0WW9FSnRQRVdFZERUTzJMMEVQMk9wcm5HMTVmMUJlYkU4X0dqODFzUlJsdEV5ZkpUQVdfUDZhZFVrUU50bVptcEtzSDlCTy1XbUZDM2JaOXdVVFB2OU44aTg5MVhGTXg3NDVoZWdMUFlHS2twRTRrUUpzdnkzSEdSbTRiZ1NGa3FvaEdWaFJ0LUM5ZDBuR3BYUnNlWm5GTWRMbUZCdS1DMEZsbVVoTUJfVjh5MFhscnQzSFJpcWNvVU1SWklseUNRb2dGOTRPZVMwQ1JaYTVheVNSRWxiYnN3c1ZYbE00d0pTSURxVlRDYThpNzBtTEk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8ba8e9666fa5",
-      "title": "Vacina Pneumo 20 chega ao Rio: SUS oferece doses para crianças - G1",
-      "published": "2026-06-23T21:22:36+00:00",
-      "summary": "Vacina Pneumo 20 chega ao Rio: SUS oferece doses para crianças&nbsp;&nbsp;G1Pneumo 20 no SUS: o que você precisa saber sobre a nova vacina — Ministério da Saúde&nbsp;&nbsp;GOV.BRSUS começa a aplicar a vacina contra a pneumonia em Birigui&nbsp;&nbsp;G1Saiba detalhes da vacinação infantil contra pneumonia e meningite&nbsp;&nbsp;VEJA RIOPrefeitura informa disponibilidade da vacina Pneumo 20 a partir desta quarta (24)&nbsp;&nbsp;uberlandia.mg.gov.br",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWjIwdWlRTGhnZm96LVhwcVRWdDJITDBhVXlibmVRekZ3YU10OTgtb0hkOG4wdXFOMkp0M0d5WGNNODdEOXpkWXlIRUhXZlEyMHVPWkgtV0k3UE9qbFJlT21lWjM0QjFDZ1hGemxlejZYTldNZGk4TnFFYmZQU3Y5d2RjdC15b1dHMjhMZ195ZXJST1YtRkRMM1pKZVRVUU1TVklDTEhBMWZTdUF1M25mdkdKVmFEblJOVEtwWmQ4VmhHcXJVUXlFYUhyNklRQWVOSkNFdk1WcjVmSWM?oc=5"
+          "name": "Prefeitura de Belo Horizonte",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdjJwZUNrOS1qanQ1Q0NScGdWc2U5MkxTd3JoMnphUVJpNTJzWlA0cjQ3c1ZmNVVlSlBvUVpHRXBvemI0WC1saHNOZFNzRGJqRkNzYWJwZjRoLXUwb0NVUkE2d1N1UjFibF9WWHdMcFQ4Yno5aXBmUTRGRWMyajZSNERzNjhkS1U4V3VfUGtsLW11MVdJSDExcFhTSEVkY0NSTjctRERfMUtaSHluZFdWUGZER2taN3F2d1ZXZHk3cjJ6NkhOYVlj?oc=5"
         }
       ]
     },
@@ -321,7 +405,7 @@
       "id": "fcb00b165654",
       "title": "Dor crônica no frio: o sofrimento invisível de quem não pode esperar - Campo Grande News",
       "published": "2026-06-23T17:59:00+00:00",
-      "summary": "Dor crônica no frio: o sofrimento invisível de quem não pode esperar&nbsp;&nbsp;Campo Grande NewsInverno agrava dores crônicas: saiba por que o corpo trava&nbsp;&nbsp;Correio do PovoAcupuntura alivia dores agravadas pelo frio e melhora o bem-estar&nbsp;&nbsp;TerraDor articular no inverno: dois terços das pessoas com artrose relatam piora dos sintomas com o frio&nbsp;&nbsp;webrun.com.brSÃO JOÃO, FRIO E DOR: TEMPERATURAS MAIS BAIXAS PODEM AGRAVAR SINTOMAS DE DOENÇAS REUMÁTICA&nbsp;&nbsp;- Bahia Ec",
+      "summary": "Dor crônica no frio: o sofrimento invisível de quem não pode esperar&nbsp;&nbsp;Campo Grande NewsDor reumática não precisa ser para sempre, alerta especialista em dor de Araçatuba&nbsp;&nbsp;HojemaisInverno agrava dores crônicas: saiba por que o corpo trava&nbsp;&nbsp;Correio do PovoAcupuntura alivia dores agravadas pelo frio e melhora o bem-estar&nbsp;&nbsp;TerraDor articular no inverno: dois terços das pessoas com artrose relatam piora dos sintomas com o frio&nbsp;&nbsp;webrun.com.br",
       "sources": [
         {
           "name": "Campo Grande News",
@@ -354,26 +438,26 @@
       ]
     },
     {
-      "id": "f50baade226a",
-      "title": "A partir de segunda-feira, vacina contra a gripe será liberada para todos em Curitiba - Prefeitura de Curitiba",
-      "published": "2026-06-23T14:56:00+00:00",
-      "summary": "A partir de segunda-feira, vacina contra a gripe será liberada para todos em Curitiba&nbsp;&nbsp;Prefeitura de CuritibaGoverno do Paraná reforça campanha de vacinação contra gripe nas escolas estaduais&nbsp;&nbsp;Governo do Estado do ParanáCom cinco mortes por doenças respiratórias em 2026, Caxias do Sul ainda registra baixos índices de vacinação contra a gripe&nbsp;&nbsp;GZHVacina contra gripe estará disponível para o público geral em Maringá a partir de 29 de junho&nbsp;&nbsp;maringa.pr.gov.br",
+      "id": "3cdaf70ee6af",
+      "title": "Autismo em meninas: estudo explica por que diagnóstico é menor - Correio do Povo",
+      "published": "2026-06-23T16:30:33+00:00",
+      "summary": "Autismo em meninas: estudo explica por que diagnóstico é menor&nbsp;&nbsp;Correio do Povo",
       "sources": [
         {
-          "name": "Prefeitura de Curitiba",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOVNlT25CSll0UFJmbEtEcE9WYzI2UnU0ZEhjQmVRYjFHTFFoaURRR3dKNUh1MGEwb1ZReFdNdVhBdUlaMmMxRV9zbmpKbjdxdTQyM09KTlFJdUVQTEttNmRoeC1fMFlzajhybDdyQXZZUGRGajZTbzB6Zk8tOFpGV2pqeGpRUGQ3aW1SMENIMmRmRmNTVzNmVGR1Z0VjMjBFLTJQQXZOcUVjZTdLS3NaV2V2Uy02b2E2Z1Z4S096akpld0F5MnNBSXR3?oc=5"
+          "name": "Correio do Povo",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZVFNUkVMRUVpMUZWZzVpa05xQk12SUhyVDRENU93bmYzMHJIZGZPazVHaHB6Q1g3Z25nQVAtZkFPOGVQU0VWeWNEdFcyamYyUUc4YXQxWlZ2c2JWRmRhdFRjX3V5OVd4SlBhMjJ4bVJIcmNyWkZPX0M2cUM0SUM1RjJDUWpMcHJEcWxVLU14NGNiaXpCdk9udDdqQmxrMzZ0cmxaSHpSZWh3Y0oxZDJPZWdrQ19vTzdNNFozZy1namJCLU1XbGM0?oc=5"
         }
       ]
     },
     {
-      "id": "8f12bc388898",
-      "title": "Entenda como consumir brócolis pode te ajudar a combater o diabetes e doenças no pâncreas - Jornal Correio",
-      "published": "2026-06-23T10:00:00+00:00",
-      "summary": "Entenda como consumir brócolis pode te ajudar a combater o diabetes e doenças no pâncreas&nbsp;&nbsp;Jornal Correio",
+      "id": "cf9d664368ac",
+      "title": "Engenheira da Unesp transforma uma bactéria do mar coletada em Ubatuba numa pequena usina que gera 227 mW por metro quadrado e ainda limpa o ar, capturando CO₂ e soltando oxigênio enquanto produz energia - CPG Click Petróleo e Gás",
+      "published": "2026-06-23T15:51:00+00:00",
+      "summary": "Engenheira da Unesp transforma uma bactéria do mar coletada em Ubatuba numa pequena usina que gera 227 mW por metro quadrado e ainda limpa o ar, capturando CO₂ e soltando oxigênio enquanto produz energia&nbsp;&nbsp;CPG Click Petróleo e Gás",
       "sources": [
         {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQTd3anEtOWdCYkZfTjE0M2xEcXpWM1hwTW5UZHRHMkc4OWRBRkp0SjFFTFZMdHBpOWJRcHdiSEl4NFdGdE5weExOamlNbWJFdHdsLVMyLUZISjlxOFUyeUNqSTR3S3E2ekF1ejBQVUxaRF9tNXpoQUZxU3hMakJUTjl5cWN0Znk3NVdHU2NYb1hFalU5SHZVZDY3Q2h0cmY0cHd2RWt0dTM2RFJJYl9iWWt6Y1NUaEJsY203S0s2SFhQRHJ3SjR6Z3VPMURqQ1U0T0E?oc=5"
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQOWZSYkFxMlVKMWFnVGRZa2hxUUh5Y0s1bUg5aGNndDBsRzJFRnhmMWhSaHRkTHl2ZkU1Nl9PS1BLTl9FWWJTNzMxZDZZQmlVbEw5anFvNkZ6WGhxNElwUV9iWmlxQnpyUVJVTl9yT2ZqdFZhRDFkS2NnSmV1TFlnUmZ1TVNPYmJjWHp4UEZrdmxzR29KbDVOamZJM1ZYb1RkYnR2eGZqLUpobVFMZVU4Ujh2S3ROcl9TN0VkOEhqZGdhZ2owT1BWM3lsbmRBakZaZ2lpSkdtY19weGdLcmZTSWZ2YlJpSGszbXZnLTNmby1aRGI1QWRGam5lSkFncEVKNXVBS0VVN0ZIdFFYVVVPNVo4dmMtaUt2VUJhTFhEelFjRnRTaGZFUHJZbWM2bUptNFVrM0lLbW5LdzduNENodVpMMTQzQ1U?oc=5"
         }
       ]
     }
