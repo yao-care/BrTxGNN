@@ -1,10 +1,106 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-06-24T19:49:07.442182+00:00",
-  "total_fetched": 92,
-  "unique_count": 90,
-  "health_related_count": 32,
+  "fetched_at": "2026-06-25T03:49:04.357436+00:00",
+  "total_fetched": 87,
+  "unique_count": 85,
+  "health_related_count": 30,
   "news": [
+    {
+      "id": "489bfed4a97d",
+      "title": "O que a aparência das fezes pode dizer sobre a sua saúde? - Portal Drauzio Varella",
+      "published": "2026-06-24T21:44:30+00:00",
+      "summary": "O que a aparência das fezes pode dizer sobre a sua saúde?&nbsp;&nbsp;Portal Drauzio Varella",
+      "sources": [
+        {
+          "name": "Portal Drauzio Varella",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb0E3OFNVYm9ZVHl1bWZZWlR4U2RiV3JpNFVYYl8yaW1uVllfMjNHcXh3U0RmalRfbi1BOEJQdWJDd3hWcEczRk4yUk5BdEpZT1B6NEN2Nlp3N3RNM2tLZ1EwaVRrN3h5d3FqVWNUYTJxaDR0bkE0eDcta1E5elV6NDRSamRneE0wNVp3STlOTGVSQU1hUml1SXdDdkczRFU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "17c1e027a557",
+      "title": "A primeira fábrica de baterias de lítio-enxofre do mundo sai do papel e promete dobrar a autonomia sem depender da China - CPG Click Petróleo e Gás",
+      "published": "2026-06-24T21:11:00+00:00",
+      "summary": "A primeira fábrica de baterias de lítio-enxofre do mundo sai do papel e promete dobrar a autonomia sem depender da China&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQYnFCT1R2NWVCa3c3bkgyc0ZNdEJCeTkzVkN1SEZ5TXZUektSTzJabG1YaFFBdGY3dnZmQ3E1U0JBc1oxT3FuQmJ0WWZyUUYxZ2x0QW1DenRLd0FQd1d2WThZQkxLZy12bmVCT2duU2haV0ZJdUd4YXVaNkZqclBqdWNEa1UxZDJlZlF4Tk9nSHhmTVdTT0RqTHBrcTFiQlBhTTV3NG84elFoem5LVmlmU0x4WFV5QUd5YlRHQjk1VUVHQzNwaUxZQThXVjFwa2Yzc09SUUdSS3BIU1FQYUVMVlZCWFlHNjN2MThZOEhXRnVBSTg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6cd58aa54dc9",
+      "title": "Mercúrio virando ouro deixou de ser só fantasia de alquimista em estudo de fusão nuclear, que propõe usar nêutrons de tokamak para criar ouro-197 estável, mas o caminho entre promessa bilionária e usina real ainda é cheio de incertezas - CPG Click Petróleo e Gás",
+      "published": "2026-06-24T19:51:00+00:00",
+      "summary": "Mercúrio virando ouro deixou de ser só fantasia de alquimista em estudo de fusão nuclear, que propõe usar nêutrons de tokamak para criar ouro-197 estável, mas o caminho entre promessa bilionária e usina real ainda é cheio de incertezas&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQdkxjeWJMZjc0TzdYT1YtdTlKVDIxYjlWT3A4eE5lQUJPMVYzNGR2VV9TcU41YzR3Nzc2Z3doaDdNaDVzc3ZaN1BrMU1ZNkFQQ1hRSTZ3aWs2cE5Tbk0yd2FiYXQ5WmpNTTFDa3NYNGpsOGxUYU9aWDhMUzI4amVoS0wwY1NvamdrY1NQWVRBS0ZBeWJJMW1kalM5Zl9Va2xnbjVqbXdGRzlKZkRJa2pLTlZzUjF0TWZMbDlzNnk2RDlONjhfVHdDZmVCLTh6TjhvbHlnMnNBSC15OEhmSThsMzJTY2dNRmFNRjdxcnh2cmdLLU5ZOVFZbHR3TzdHV1hqT2ZaQ3Exb1V4Z0I4MnhLRm9YMkg5cG1rcDh5Um5Jd3pxeU1VbGVYaXNScW9yMHRmTkptcXpDUWhJckRNRDlmWml5SQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "583b0de52e31",
+      "title": "Hospital reduz sedativos de menino atingido por trave em SC para avaliar condições neurológicas - NSC Total",
+      "published": "2026-06-24T19:36:00+00:00",
+      "summary": "Hospital reduz sedativos de menino atingido por trave em SC para avaliar condições neurológicas&nbsp;&nbsp;NSC Total",
+      "sources": [
+        {
+          "name": "NSC Total",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZlB3bFZ1TTdIaTVKSm83dFhKNERyVzhNX0JodThZbEduTWhMb05kRWIteGVRY2RmNVh3bVVFZU5qOExMTnk0azFQVHRJc2YyTm9qSDBOcS0wMzROR05ZWjFZb2FITDJrM0RDRFpMQUNSeHd0cDFpa2dpRnRfRHRJdlZPSUx1X0lyMEc4WnRtbGlGVlc1TDVsQVRsX1BlNFEtN0NvcjJ0MTRUTnZyVjl0bXE3Vllyb01JQWV1OXhETVdzZjdNYzVLbE9HZ3Y?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7f5179111a94",
+      "title": "Remédio usado para desentupir o nariz pode aumentar risco de problemas cardíacos - Jornal Correio",
+      "published": "2026-06-24T19:30:34+00:00",
+      "summary": "Remédio usado para desentupir o nariz pode aumentar risco de problemas cardíacos&nbsp;&nbsp;Jornal CorreioAlerta médico: o remédio que você tem na cabeceira pode estar disparando sua pressão&nbsp;&nbsp;TerraAlerta médico: o remédio do nariz pode afetar seu coração&nbsp;&nbsp;Aqui NotíciasMais utilizados no frio, descongestionantes nasais podem afetar coração&nbsp;&nbsp;Estado de MinasUso frequente de descongestionante nasal pode aumentar risco de hipertensão e taquicardia&nbsp;&nbsp;Fala Você No",
+      "sources": [
+        {
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYXNKTkxWOVRsa0xwZENjRGg5TTM2S0ctU2l5bXUtNks0SjlNT3pjei1wbXhpUXpQTGVGVFJYN0VlbUc1cnNKMDNwSTRNY0QyTWcwZWZFNV9CUlZLTUZZUFFMSTROLThrWGl6Zkozc21MWkxlOHRxcW8ycXJXZ0U1THJWcUJGMi1CX3ZwVEN1cVFaUjZyV25iWjJNcnFWX3dDRFZPdWxJM3FtdWVEOWFCMUpfa3JoM3lkTHJSY1JkdzM1OW8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e710cf5ea43c",
+      "title": "1ª Jornada de Gestalt-terapia em Mato Grosso do Sul - Campo Grande News",
+      "published": "2026-06-24T19:11:00+00:00",
+      "summary": "1ª Jornada de Gestalt-terapia em Mato Grosso do Sul&nbsp;&nbsp;Campo Grande News",
+      "sources": [
+        {
+          "name": "Campo Grande News",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSVdnajVWR2x2NE5YaWJQU1BXM3p2d0VvODdzdjRrZG84MlhNdWZYS3lnVUpRX0JCZlRTVmJCcl9wWUdvbTdmMF9MaFRqRkNVQkNpTFlEWjZidm9pcGZ1Q2pldVFyam5WemtTTV9rLWlGc01rdGNtUXVPelNOQXM5cDNlVnhKWUpyWFdNODU5U0RDSmxHMGM2enktMWtzbWUtYnlBU2ROS2JyVmdIZjMwdWRJOEh0R2vSAbcBQVVfeXFMTkREX3ZkcTVBMWxlQ2d1bFpNQTN0T0dVQ09wWVY3T2ViUjMwRTRnd0Q1NTdHRDFuTFZueE5XSUg4XzhzVHVIeVNWeEpCakFYWEItSC0zSDhMR0ZFaHBaSDNqMkw2bmoxc05ZUkVIMmplcmNITnlHTkV2aU1MT0xUVDBGaEJ4bUI3TDNudWJYb0VXLTdDYnVPTkc3b2NJRW1DS255SlZyQmNMM3NuZU5CYWplUUlaSThR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9eb5c728fdb1",
+      "title": "Jovem de Florianópolis começou vendendo brigadeiros no intervalo da escola aos 15 anos, enfrentou boatos sem desistir, fazia doces de madrugada em casa e transformou o hobby em confeitaria milionária que quase faturou R$ 1,9 milhão em 2024 - CPG Click Petróleo e Gás",
+      "published": "2026-06-24T18:48:00+00:00",
+      "summary": "Jovem de Florianópolis começou vendendo brigadeiros no intervalo da escola aos 15 anos, enfrentou boatos sem desistir, fazia doces de madrugada em casa e transformou o hobby em confeitaria milionária que quase faturou R$ 1,9 milhão em 2024&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQZWdLWkdJTDFKcnEwbzBLNFdfZWN2a3pacDVaSXZNNHYwQXNfdUtTeDFKZC1BMEt6WGdwZ0hiSl9kZi1XNWdQSHRnUzBoMTl6SG1WUHNuSEJtd0JkbzhUeXp5SEpQWVR5TlhDRFpEbWY4SV9jQllWQUVCdTR2WkRqSmNIWnhtU1dHNHRpdnhlNnI3OS0tMFlOQzNUYTVjQ05nNWN1RkthU1JGYV9Kc0hEQzhQMUcyWkpWXzItOFVjTDNKY3dmZzdmVjJUUDQzTmthSDJLYXlya0VDRHhuVzZEQ1c1RjlDa0NGcHFZRWF2d3YtNC1HQllYR3JQZHFLYTNRNDg2UGEzdWM2NThJazNlc09EdWs5d25CaDRUTGxwd0RkYzlqdzM1RHNVaUQ5T3ZKMlVjdkI5MzF1QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a5a264340515",
+      "title": "Em setembro de 2035, Marte vai se aproximar tanto da Terra que terá seu maior brilho aparente desde 2003, abrindo a mesma janela orbital escolhida por NASA e China como alvo para a missão que pode levar humanos ao planeta vermelho pela primeira v - CPG Click Petróleo e Gás",
+      "published": "2026-06-24T18:25:00+00:00",
+      "summary": "Em setembro de 2035, Marte vai se aproximar tanto da Terra que terá seu maior brilho aparente desde 2003, abrindo a mesma janela orbital escolhida por NASA e China como alvo para a missão que pode levar humanos ao planeta vermelho pela primeira v&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ19hOEVIdGJWZ21mbUgzSTlRTHBJMXVLY29KR3lPWGhIQjhvS2o3Y0JGTzNXNTJlNHZ4Nk53aTJ1MndtMFg1S2k0dWtUUGtiVUctYnRBMjYyTFo4M3B6bGZEY3hrS0UyR284NGNlUzFzMmZXVDRRa3lDSU1HNy1zWkhkazN2cGNrUXNYNEM4V2Q4OWlBczVBWTBUOWsxLWNKckhwVkhVcDFMSVYwaEViQzhnUG5hdnoyb1hZMUhYWXlVNGQtaF9FRENyM3RKWWF5ajdySWdsRlhWbm8?oc=5"
+        }
+      ]
+    },
     {
       "id": "d63b418f2120",
       "title": "Quando o emocional vira sintoma físico: neurologista explica a relação entre mente e sistema nervoso - Assiscity",
@@ -30,14 +126,38 @@
       ]
     },
     {
+      "id": "70d74c4bda13",
+      "title": "Conheça as vantagens e os riscos da tendência de comer mais fibras - Folha de S.Paulo",
+      "published": "2026-06-24T16:00:00+00:00",
+      "summary": "Conheça as vantagens e os riscos da tendência de comer mais fibras&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbV83MS14T3l0ZXl5U1k4NXNxeC1mU2hLSE1oZFVNODVDWmlRS2JJcXBsUW9iVXhZMkRUd2dlUUJLQXNLMWZnZ2hkQUw3TVYxLWlSUjFKRkVSelk2dUFXbXJrOS10cmJETkRRRWZZekVVUmFvak9HSlZvMUdpTnNLMXNGTk85OWFuY3ZTa2ctamtXc3VpZTBfZzFTX0FpYS1mbHFKR2I4YWhoNG9ua0tWRmlyZTFjdFU1MGRjaFR3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "9a3d1f5211d5",
       "title": "Novo remédio para calvície mostra resultados promissores em estudo - UOL",
       "published": "2026-06-24T15:08:20+00:00",
-      "summary": "Novo remédio para calvície mostra resultados promissores em estudo&nbsp;&nbsp;UOLCalvície: novo medicamento contra queda de cabelo é apontado como o maior avanço em décadas&nbsp;&nbsp;O GloboPílula contra queda de cabelo avança com resultado promissor em homens&nbsp;&nbsp;Olhar DigitalNovo remédio oral para queda de cabelo surpreende em testes com mais de 500 participantes, usa minoxidil de liberação prolongada, apresenta crescimento de fios quatro vezes maior que o placebo e agora desperta expe",
+      "summary": "Novo remédio para calvície mostra resultados promissores em estudo&nbsp;&nbsp;UOLCalvície: novo medicamento contra queda de cabelo é apontado como o maior avanço em décadas&nbsp;&nbsp;O GloboMaior avanço em décadas: tratamento oral para calvície pode chegar ao mercado em breve&nbsp;&nbsp;Revista FórumPílula contra queda de cabelo avança com resultado promissor em homens&nbsp;&nbsp;Olhar DigitalCareca nunca mais: Medicamento inédito contra calvície impressiona em ensaio clínico com 519 pacientes&",
       "sources": [
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQmU0RVdwMjQwZkJsdkotUWdIQzJVYzJRTVlqZU80Q0ctYjd5Z0JBWmUza1FaWWNtRE5oZWtlNEpRMkt4Q0tMcENFaHk5Ry00cTgzRFZ6a3dUbUNWNEV0b1Q1R3FHV2lTeFJOT3ZGQ0xtNElaQkd4NDdZQ2N2WVFWUV9FY003RG9EaUROV1FBZUh3LW16S05wUTV2NTdIZmdTbkRCazhGdGItSUZscy1ObWZtcHZlazhPRk45a0JZbWhnejlka2xXTnB3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "973840910be7",
+      "title": "Canetas para tratar obesidade podem influenciar a evolução do câncer? - Estadão",
+      "published": "2026-06-24T13:25:00+00:00",
+      "summary": "Canetas para tratar obesidade podem influenciar a evolução do câncer?&nbsp;&nbsp;EstadãoOzempic abriu o caminho, mas especialistas dizem que o futuro da obesidade será ainda mais avançado&nbsp;&nbsp;TerraJP1: Inflamações, apneia, dependência: estudos apontam novos usos&nbsp;&nbsp;sampi.net.brGLP-1 RAs Associados à Redução da Progressão em Alguns Cânceres&nbsp;&nbsp;Vera HealthNovas terapias e condutas clínicas pautam curso sobre obesidade&nbsp;&nbsp;Jornal Bom Dia",
+      "sources": [
+        {
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR1hQb0ZlSHBaWllLbGE3bjh2OGtUVXNYcWdRZ095ZkhrNTd2a1dIZ1o1OEc0Q2xSRmNWZjY5WE4ySGwxaEJ4Sjh0ODV3ZmFGYjBmVkx0SjdITGdTVEdPenltaVdSVXpDbkxlbzVNSXV3WnJaczRCdEdOVFZUQ01MUTZhcm5zRkpUbmt3SjFiV0o0U2plUS0yQV9rbHJ4WEZsV01Ec0tDTEpGV3VqOUw2djZ1djg5UkZCcVRyXzl30gHDAUFVX3lxTE1fbUNRN3ZnOEp1eDJYRU5vVTgwWVhfd3UzelN3b3JMR3VqdW0zOG8yMy12a1B6YzhGMUxxSFNNU0ZvS0FTbGw2ckN5TjdpbHFDdnpVbnZrSWJBWGo1QTV5bExrN1VDMVIyamwzc2FLczVFWklvXzJ5SGZGeHdWM1RGWWV0WFpMcWE4OXA4MGtGX1R4QVlSMEVkdE00eFdQYWg5Rmx1d3hobGFOeFp5R0hrR3cxeTN4cGw5S2NVaWdBaGFrcw?oc=5"
         }
       ]
     },
@@ -57,7 +177,7 @@
       "id": "b0f7e2639320",
       "title": "Gordura no fígado: veja os alimentos recomendados e os que devem ser evitados - ICL Notícias",
       "published": "2026-06-24T11:57:48+00:00",
-      "summary": "Gordura no fígado: veja os alimentos recomendados e os que devem ser evitados&nbsp;&nbsp;ICL NotíciasA nova era do fígado gorduroso: por que MASLD mudou a forma de olhar diabetes, peso e enzimas hepáticas&nbsp;&nbsp;MSNGordura no fígado: os sinais silenciosos que você pode estar ignorando&nbsp;&nbsp;A GazetaFígado gorduroso não é inofensivo: entenda os riscos&nbsp;&nbsp;FOLHAMAXFígado gorduroso pode avançar sem dor: o motivo de exames alterados merecerem atenção antes dos sintomas&nbsp;&nbsp;Tua",
+      "summary": "Gordura no fígado: veja os alimentos recomendados e os que devem ser evitados&nbsp;&nbsp;ICL NotíciasA nova era do fígado gorduroso: por que MASLD mudou a forma de olhar diabetes, peso e enzimas hepáticas&nbsp;&nbsp;MSNGordura no fígado: os sinais silenciosos que você pode estar ignorando&nbsp;&nbsp;A GazetaFígado gorduroso pode avançar sem dor: o motivo de exames alterados merecerem atenção antes dos sintomas&nbsp;&nbsp;Tua SaúdeGordura no fígado costuma não dar sinais, mas pode evoluir para do",
       "sources": [
         {
           "name": "ICL Notícias",
@@ -78,14 +198,14 @@
       ]
     },
     {
-      "id": "c13983c64bea",
-      "title": "80% dos data centers no mundo estão expostos a riscos climáticos extremos, aponta estudo - Exame",
-      "published": "2026-06-24T09:06:43+00:00",
-      "summary": "80% dos data centers no mundo estão expostos a riscos climáticos extremos, aponta estudo&nbsp;&nbsp;Exame",
+      "id": "c2b88135d445",
+      "title": "Você pode estar facilitando a entrada da aranha-marrom sem perceber; conheça os esconderijos favoritos e os truques gratuitos que reduzem o risco de picadas - CPG Click Petróleo e Gás",
+      "published": "2026-06-24T03:37:00+00:00",
+      "summary": "Você pode estar facilitando a entrada da aranha-marrom sem perceber; conheça os esconderijos favoritos e os truques gratuitos que reduzem o risco de picadas&nbsp;&nbsp;CPG Click Petróleo e Gás",
       "sources": [
         {
-          "name": "Exame",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSVJZUEFPMHJ3bDBSNGV6TUdPU0tLa3VEeTZPaWYyN3BzT2Z2VDZmcFJTdXhiOFc1QTNIQU9fMGRScmVrWDhwU0JZS1JjbnFwODFVU01QTklXRzNTRmlqa1ZnYU9VVUpBei1jVkJMZGxDLXdDX3pwZWtSN0F0ekdVT0NyRFpDNnU5cnBYaEdnQTlwTHN0d2JVcTBkT3RqZHFqM291SlBUZUJCNUhmYmc?oc=5"
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPVEd4aDltSlNvRlBlM3ZUX3JIYkdfYUJheHp0bWc2ZjJaN01rTDAyaXRwcms4ck83djNNT2tiaDdMQnlRQktrdWpFNEMtUW1kRE1DdlAzU1B1MFBEeTBuS1FnOFlvX1Yzb0xRdE1vbVZScHFEWUtJMVgtX0xyUFBWc0ZxMW5MLWx3cF83NkhJOVVvRUZKdG91UlcyaUhMOFJkUVRzcGx2YU04OUFUTjlhTmlXOERaeTlOeFZqVWZWLWkwdlVWMHZqM3NtTEV5N2pUcUpIcVFYb2VNTUtUbWpwWjR1WVI4WVNRTkpvSTVqSXpnSUpDV3RkSTc2YkhUbGJiYnl1cks1ZEdnWHlUZ1pGYWdaTy1MRlBjMjdlQkx4SUhSUQ?oc=5"
         }
       ]
     },
@@ -114,18 +234,6 @@
       ]
     },
     {
-      "id": "87f54ccd17d7",
-      "title": "Anvisa alerta sobre substância que aparece na batata frita, pães, biscoitos e café - gmconline.com.br",
-      "published": "2026-06-23T23:44:00+00:00",
-      "summary": "Anvisa alerta sobre substância que aparece na batata frita, pães, biscoitos e café&nbsp;&nbsp;gmconline.com.brVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "gmconline.com.br",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN0dOb1dlTnNoeFI3cm1DaXhxamJjeXZ6LUVmRFRzNldKT2RkTEEydWJiZUJEQVpLWS1vSE1FTi1sUVp2U202UzRNcy0ybDZ0UW9RdXVOQTdla3d6SHhxbWdKT3pmNTVkWElzT2E3dGJJbDNMTW9adVFwdFFsak15RnpXQ21wa2lNOFU0c2lmOFVVbFFCcm5QS29oTGFMUWlKTnN3ejBtQ1dKT0gzZHlUVDJCdkFFM1ZEcmc2OWhR0gHDAUFVX3lxTE00OWYtS0MwUVZ3SHF4NnpjUk9KWVBDMWZXeWRTQkhQQm04THpVTlZxVkc5TWZaUmF0R2tGOWlFVXM2ZThtd3FpdVUtZUc1UUtaS2FOX29iM2dPZ2sxMXNtdjdTdHFIWXFfMDJXcGpMeEZfOGVNNDhsZno4VVI0ZU00X2Jfck9YSnJweXdRRi1KbFRzelA3UjliMWZXcnZ5Q2txUnA3SHFCa3pWR0duMGJ3cXBjQzBkNllpb0RCODhiNjk1Yw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3b9628c4f7a6",
       "title": "Luz acesa na madrugada pode ser mais perigosa para o coração do que parece - Jornal Correio",
       "published": "2026-06-23T23:15:31+00:00",
@@ -134,18 +242,6 @@
         {
           "name": "Jornal Correio",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQVRQZTVTaVExbDh0ZVVkeUdMNmMtdW94aUZfdkxBVV9BU3ByVFRWcEh2ZVk2UDQtRlZKZVlpcHJPV3dtaVhzWm9YaW8ydEhSTnRYT18zZ0VrZDRsVGJZTk1ZLU1ReDZlSVg0VEx2ajJBQWc5Z1AtaUlKRHlzSGxia18tVlVmV0tTVTFmbGJjajVLYkJkTW5Ic1ZDdUFGVTB1S0UwdDROdTJ0OGs4X1QzLWNJRnM4bGdlOGt6Q2l3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f7cbd1439804",
-      "title": "Jovem de Campinas viaja 12 horas para fazer tratamento da medula com polilaminina; entenda - ACidade ON",
-      "published": "2026-06-23T21:30:44+00:00",
-      "summary": "Jovem de Campinas viaja 12 horas para fazer tratamento da medula com polilaminina; entenda&nbsp;&nbsp;ACidade ON",
-      "sources": [
-        {
-          "name": "ACidade ON",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLTc5cEtnZ2R4ZjY0UFMwekQ3cjZpN0pOaGhMVHpoNTE2UjhOdnJQbzhHRUtkOGxuY2R6MlFxY2k2RXhHenhaalA1ZlRnc0dPcmdhUkNhai1mWU1KYWt4bm9RYlVTNnNSNzJWRnZuNTNpQzFSd1hLT004ZlJpSGYxNFp2cTBGOFczbUU3ZzhVSkxJZmlSQ1licGY0YThMNkx3TDZKWDZQMllXVFZsWEpjb0l2dXY1MHBPT1VqcTBUTndIOWZJWlJZSkoyeUV3XzFC?oc=5"
         }
       ]
     },
@@ -165,7 +261,7 @@
       "id": "8f4e3fcab7b8",
       "title": "Anvisa autoriza medicamento não-hormonal que trata sintomas da menopausa - GOV.BR",
       "published": "2026-06-23T21:23:50+00:00",
-      "summary": "Anvisa autoriza medicamento não-hormonal que trata sintomas da menopausa&nbsp;&nbsp;GOV.BRAnvisa aprova primeiro remédio não hormonal contra fogachos; entenda como ele age no cérebro&nbsp;&nbsp;G1Menopausa: como funciona o remédio sem hormônios para tratar ondas de calor aprovado pela Anvisa&nbsp;&nbsp;EstadãoAnvisa aprova medicamento não hormonal contra sintomas da menopausa&nbsp;&nbsp;Sul 21Todas as postagens marcadas \"tratamento sem hormônios\"&nbsp;&nbsp;Portal UAI",
+      "summary": "Anvisa autoriza medicamento não-hormonal que trata sintomas da menopausa&nbsp;&nbsp;GOV.BRAnvisa aprova primeiro remédio não hormonal contra fogachos; entenda como ele age no cérebro&nbsp;&nbsp;G1Menopausa: como funciona o remédio sem hormônios para tratar ondas de calor aprovado pela Anvisa&nbsp;&nbsp;EstadãoTodas as postagens marcadas \"tratamento sem hormônios\"&nbsp;&nbsp;Portal UAIMenopausa: entenda como funciona remédio sem hormônio aprovado pela Anvisa&nbsp;&nbsp;CNN Brasil",
       "sources": [
         {
           "name": "GOV.BR",
@@ -177,7 +273,7 @@
       "id": "bc5efd691d6e",
       "title": "Nova Serrana decreta emergência em saúde por aumento de casos de Influenza A e vírus da bronquiolite - G1",
       "published": "2026-06-23T21:23:01+00:00",
-      "summary": "Nova Serrana decreta emergência em saúde por aumento de casos de Influenza A e vírus da bronquiolite&nbsp;&nbsp;G1VSR em lactentes: segurança da vacina materna e do nirsevimabe&nbsp;&nbsp;Afya | HomePrefeita Mariana Canella reforça a importância da vacinação de gestantes contra a bronquiolite&nbsp;&nbsp;Prefeitura de Belford RoxoNova Serrana decreta emergência após alta de vírus respiratórios infantil&nbsp;&nbsp;DiviNewsVacinação contra Influenza e Vírus Sincicial é disponibil...&nbsp;&nbsp;Pref",
+      "summary": "Nova Serrana decreta emergência em saúde por aumento de casos de Influenza A e vírus da bronquiolite&nbsp;&nbsp;G1VSR em lactentes: segurança da vacina materna e do nirsevimabe&nbsp;&nbsp;Afya | HomePrefeita Mariana Canella reforça a importância da vacinação de gestantes contra a bronquiolite&nbsp;&nbsp;Prefeitura de Belford RoxoNova Serrana decreta emergência após alta de vírus respiratórios infantil&nbsp;&nbsp;DiviNewsBronquiolite e pneumonia exigem atenção durante o frio&nbsp;&nbsp;Jornal de ",
       "sources": [
         {
           "name": "G1",
@@ -189,7 +285,7 @@
       "id": "18458edee032",
       "title": "Prefeitura de BH inicia vacinação infantil com a Pneumo 20 e amplia proteção contra doenças pneumocócicas - Prefeitura de Belo Horizonte",
       "published": "2026-06-23T20:31:42+00:00",
-      "summary": "Prefeitura de BH inicia vacinação infantil com a Pneumo 20 e amplia proteção contra doenças pneumocócicas&nbsp;&nbsp;Prefeitura de Belo HorizontePneumo 20 no SUS: o que você precisa saber sobre a nova vacina — Ministério da Saúde&nbsp;&nbsp;GOV.BRVacina Pneumo 20 começa a ser aplicada em Volta Redonda&nbsp;&nbsp;G1Saiba detalhes da vacinação infantil contra pneumonia e meningite&nbsp;&nbsp;VEJA RIOPrefeitura informa disponibilidade da vacina Pneumo 20 a partir desta quarta (24)&nbsp;&nbsp;uberla",
+      "summary": "Prefeitura de BH inicia vacinação infantil com a Pneumo 20 e amplia proteção contra doenças pneumocócicas&nbsp;&nbsp;Prefeitura de Belo HorizontePneumo 20 no SUS: o que você precisa saber sobre a nova vacina — Ministério da Saúde&nbsp;&nbsp;GOV.BRSUS começa a aplicar a vacina contra a pneumonia em Birigui&nbsp;&nbsp;G1Saiba detalhes da vacinação infantil contra pneumonia e meningite&nbsp;&nbsp;VEJA RIOPrefeitura informa disponibilidade da vacina Pneumo 20 a partir desta quarta (24)&nbsp;&nbsp;ub",
       "sources": [
         {
           "name": "Prefeitura de Belo Horizonte",
@@ -201,7 +297,7 @@
       "id": "ca4ca83ed0b3",
       "title": "Vacinação contra a gripe no Paraná é aberta para público em geral; veja detalhes - G1",
       "published": "2026-06-23T19:22:00+00:00",
-      "summary": "Vacinação contra a gripe no Paraná é aberta para público em geral; veja detalhes&nbsp;&nbsp;G1Vacinação contra gripe será liberada para todos os públicos&nbsp;&nbsp;G1A partir de segunda-feira, vacina contra a gripe será liberada para todos em Curitiba&nbsp;&nbsp;Prefeitura de CuritibaCom cinco mortes por doenças respiratórias em 2026, Caxias do Sul ainda registra baixos índices de vacinação contra a gripe&nbsp;&nbsp;GZHVacina contra gripe estará disponível para o público geral em Maringá a part",
+      "summary": "Vacinação contra a gripe no Paraná é aberta para público em geral; veja detalhes&nbsp;&nbsp;G1A partir de segunda-feira, vacina contra a gripe será liberada para todos em Curitiba&nbsp;&nbsp;Prefeitura de CuritibaCom cinco mortes por doenças respiratórias em 2026, Caxias do Sul ainda registra baixos índices de vacinação contra a gripe&nbsp;&nbsp;GZHVacina contra gripe estará disponível para o público geral em Maringá a partir de 29 de junho&nbsp;&nbsp;maringa.pr.gov.brVacinação contra a gripe no",
       "sources": [
         {
           "name": "G1",
@@ -210,22 +306,10 @@
       ]
     },
     {
-      "id": "b6753dcc7f93",
-      "title": "Butantan busca idosos em Salvador para testar nova vacina contra gripe; veja como participar - Jornal Correio",
-      "published": "2026-06-23T18:52:25+00:00",
-      "summary": "Butantan busca idosos em Salvador para testar nova vacina contra gripe; veja como participar&nbsp;&nbsp;Jornal CorreioButantan busca idosos voluntários para teste de vacina em SP&nbsp;&nbsp;CNN BrasilInstituto busca voluntários para ensaio clínico da vacina adjuvada contra gripe em Salvador&nbsp;&nbsp;G1Butantan busca idosos em Salvador para testes de nova vacina&nbsp;&nbsp;A TARDEInstituto Butantan busca voluntários com mais de 60 anos para teste de vacina contra gripe no Recife&nbsp;&nbsp;cida",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMmlGbFhJU3p1OGVOTFR4VnFMMzNBS0ZsaEJHNXZTMGVIZzdDRjdBb0xHeWNUcUhnQzlvc096eml3SUozY1pvTzhadkVPLVRnZkw0Mkk1cHVhN0hCUXVfSlFOOEVha3Rob04wUUhMMERxLUU0T1FRRFpLeGV1V3RCYi1GOFhLdnMzYzFhY2JUaXlZU1lWdy14UE5JRUFBTU41b1VkMlVxZkE2UjRQb0ZNVkNqeVg3UDNRMUpUVjdHeExnbktZVHR1UGZ1N2xoVVdQcmc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "fcb00b165654",
       "title": "Dor crônica no frio: o sofrimento invisível de quem não pode esperar - Campo Grande News",
       "published": "2026-06-23T17:59:00+00:00",
-      "summary": "Dor crônica no frio: o sofrimento invisível de quem não pode esperar&nbsp;&nbsp;Campo Grande NewsInverno agrava dores crônicas: saiba por que o corpo trava&nbsp;&nbsp;Correio do PovoAcupuntura alivia dores agravadas pelo frio e melhora o bem-estar&nbsp;&nbsp;TerraSÃO JOÃO, FRIO E DOR: TEMPERATURAS MAIS BAIXAS PODEM AGRAVAR SINTOMAS DE DOENÇAS REUMÁTICA&nbsp;&nbsp;- Bahia EconomicaArtrite, artrose e fibromialgia estão entre as condições impactadas pelas baixas temperaturas&nbsp;&nbsp;Bem Paraná",
+      "summary": "Dor crônica no frio: o sofrimento invisível de quem não pode esperar&nbsp;&nbsp;Campo Grande NewsInverno agrava dores crônicas: saiba por que o corpo trava&nbsp;&nbsp;Correio do PovoAcupuntura alivia dores agravadas pelo frio e melhora o bem-estar&nbsp;&nbsp;TerraSÃO JOÃO, FRIO E DOR: TEMPERATURAS MAIS BAIXAS PODEM AGRAVAR SINTOMAS DE DOENÇAS REUMÁTICA&nbsp;&nbsp;- Bahia EconomicaFrio pode intensificar dores em pessoas com fibromialgia; veja cuidados&nbsp;&nbsp;VerdadeOn",
       "sources": [
         {
           "name": "Campo Grande News",
@@ -246,30 +330,6 @@
       ]
     },
     {
-      "id": "f1866f989652",
-      "title": "Fapes divulga resultados finais da 2ª chamada de três editais e destina mais de R$ 2,5 milhões para pesquisa e eventos científicos - FAPES",
-      "published": "2026-06-23T17:13:00+00:00",
-      "summary": "Fapes divulga resultados finais da 2ª chamada de três editais e destina mais de R$ 2,5 milhões para pesquisa e eventos científicos&nbsp;&nbsp;FAPES",
-      "sources": [
-        {
-          "name": "FAPES",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNWU05V0k4LS1XLTQyVTU1UlIzRDRoUTJkdUZLTHZ1UHh6ajV3a0wyNDh4LWx0UjgwXzBzUXRUREZoSldYdm81NmxNcGplclBYUElpYTRMTEh0QjdaVUFTckc5Q05KYVU1eld3XzJKWDNURXVVWllNUG5xeHNsZWV5QXNiYUdlblZPVlBpX0w4Y1diUHFrbEFacVppc0VaTDA4UUtLU0p4ZjVwN1AwUHRDMDVhUGNrLWptbGJoYkNrWUFvTi1sSDRId2xDVXd6QUNIcFpOaWg0eVlOcFdzOTVNUlZfNjlxNjFkd2ZLUkxYTHItR0ZQSUhmaDZn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "aa96c9220347",
-      "title": "Anvisa aprova novo medicamento oral para câncer de mama - Agência Brasil",
-      "published": "2026-06-23T16:45:00+00:00",
-      "summary": "Anvisa aprova novo medicamento oral para câncer de mama&nbsp;&nbsp;Agência BrasilVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "Agência Brasil",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNUNGakF0bHk1UUJkU0tyS0FWNV9RYUUwaUhTWXJQemZpcFhxZWpnV2Y4NXBUcGlQZWVReW96bmRhX0hhbWZCTWVaYU1yaTVUQUMwOEdWTm1ybzM4Q05qSDZoMW9vR1hCb0tGN016bFZVenVNaFVyZkowc19oVWZLVVE4S0VtTl9OSDBFSFdRa09ta3ZLWFBEMUxMUHlnOGxnaFVKZ2hsLUJhU3pYMzdz?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e31528669088",
       "title": "Estudante de colégio militar de Manaus criou um método que usa ondas sonoras para mexer em genes ligados ao Alzheimer e levou prêmio mundial na maior feira de ciências do planeta, nos Estados Unidos - CPG Click Petróleo e Gás",
       "published": "2026-06-23T16:36:00+00:00",
@@ -278,18 +338,6 @@
         {
           "name": "CPG Click Petróleo e Gás",
           "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOUldmZGNhTS1ja2pjVTZaZXFXdEpYME1Fbk1qbDN4OU5jX0VVaVVvWXN3MEI0RlUxNW52ZzZNTmNwWmh6Zkg4WjZQNlRZbWVqUWJmLTFHb0k5QjFTaUxOYmpWdkFJZmhCWHRyamVSZVFtTHozWUxfZjEzUjN6V3hOakFxRW5IcUNDanNROVFGbUs1UV82Ymo3V2RxYTlmQmhyTUNkMzkydVlqWXV6WjBkaE1nRVJxNHdDWVU3TEQwUEZOMkRrYlh0TVc0TmNXbFByV1czeUJ5YXVJcDFfUVlCX085bnhqU1RVZWx3QmlTWjZ4SVBLZndCYUZpTzVWMHozX2hSNzAzV2ZyTV9TTTFGYVBNWWpISXdXbkdKSXMwQ0R1eURUbkNXbkYwZ3phMzVxOTVETlJGc0k2SDI1c3Vlc1kyZVJjR2s?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3a46fded5d91",
-      "title": "Ministério da Saúde e SES atualizam cenário de reações da vacina da dengue do Butantan em Nova Lima - O TEMPO",
-      "published": "2026-06-23T16:23:23+00:00",
-      "summary": "Ministério da Saúde e SES atualizam cenário de reações da vacina da dengue do Butantan em Nova Lima&nbsp;&nbsp;O TEMPOVacina da dengue: Butantan mantém recrutamento de voluntários idosos para ensaio clínico; entenda&nbsp;&nbsp;O GloboAnvisa cria grupo para avaliar a segurança da vacina da Dengue feita pelo Butantan&nbsp;&nbsp;Juína NewsSuspender vacina contra dengue demonstra seriedade, diz ministro da Saúde&nbsp;&nbsp;O POVOInstituto Butantan avança em vacina contra dengue para idosos | Diário ",
-      "sources": [
-        {
-          "name": "O TEMPO",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPV0I5RjNzY1FOSS1Pb09YTXFOd0hzMWlIbUF5UjRSLVp6TVFrcnNiOXFxcjkwRWs0bkdiRG5vakVPcjJWNlB2TTl3enk2ZlhwQ1J6MWV1eGtfZDV0cFhwUEQwT0NuVTczNmppVUhmX1hhb1E4STVFYmw2S3gzSkVKbXlGVDNmcG8tODRmQnRqd0x5TTNjUHhrU0k3V0N2WTFDZVQyWm1yUTdUOFExM0dKOVNXUXdfUHpVdzAwaVF2LXFpQm1UYTc1WVV6eUtNZllLbi1HVWN0SGUza3J6eGZodjNkTmEwZVBm0gHuAUFVX3lxTE5fd2lDbEZpQUVNM3psbmY3TE5MRFAyT05ZWXZiaUl0YWRwd3plb0d4b2F0bHZFdHBmdmNicllYZk5tUEUtZTl4UDNiZVl3dmJkam5CNUNQMGh0Z2tUOGN4YXR6ZEdBTDN6a1RPLV9nZkNIVHBRbWdSUWwybW9BNnp3UmhTck5xZFZWTnZSZUtlUU9wSXZSaW5BVlF4STlub3FUYk54YkFET1hxc0xqSXhUVGZ4cF9hWWtuNnF6WjNBR1RycGU3RHp6bUg2aDNEb2MzbC1TTGF2Yk1jZnNFRk1KRWwyRU9pOHp0M1AxTmc?oc=5"
         }
       ]
     },
@@ -314,78 +362,6 @@
         {
           "name": "Jornal Correio",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQTd3anEtOWdCYkZfTjE0M2xEcXpWM1hwTW5UZHRHMkc4OWRBRkp0SjFFTFZMdHBpOWJRcHdiSEl4NFdGdE5weExOamlNbWJFdHdsLVMyLUZISjlxOFUyeUNqSTR3S3E2ekF1ejBQVUxaRF9tNXpoQUZxU3hMakJUTjl5cWN0Znk3NVdHU2NYb1hFalU5SHZVZDY3Q2h0cmY0cHd2RWt0dTM2RFJJYl9iWWt6Y1NUaEJsY203S0s2SFhQRHJ3SjR6Z3VPMURqQ1U0T0E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "59f3c37c2122",
-      "title": "Cardiologista revela que hábito comum pode ser a causa de insônia - Rádio Itatiaia",
-      "published": "2026-06-23T09:06:57+00:00",
-      "summary": "Cardiologista revela que hábito comum pode ser a causa de insônia&nbsp;&nbsp;Rádio ItatiaiaQuais as frutas que você deve comer e as que deve evitar antes de dormir&nbsp;&nbsp;Extra onlineAurelio Rojas, cardiologista: \"Consumir bananas, uvas, mangas ou abacaxis à noite pode interferir no sono\"&nbsp;&nbsp;TerraNunca coma estas três frutas à noite. Pode interferir com o sono, alerta especialista&nbsp;&nbsp;Notícias de hoje - IOLAurelio Rojas, cardiologista: \"Essa fruta (não é a banana) melhora a se",
-      "sources": [
-        {
-          "name": "Rádio Itatiaia",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVEZOV1QyZTZWMmd4bDZwandsNTMwRXhwU3JsNjVMWUJGM3l5TE5DMjZ0cDJpb2VhZHo1dmZHUmYzaUswcUVwdjc2MVVZZ0lxZ09uNE1EcXZQQ1NrQ0paQU1nZUZHanNNRXFUVVAyS0Y3UHlZd3FYMC1NVDBOLW53WXg5cDZxUXo0eVJkdzJ2RmZ2el9qSmEtc3Z3Yll6c3FrLUsw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cca2e4bad7a7",
-      "title": "Faça isso por três minutos e reduza as tensões ao longo do dia - CNN Brasil",
-      "published": "2026-06-23T06:37:50+00:00",
-      "summary": "Faça isso por três minutos e reduza as tensões ao longo do dia&nbsp;&nbsp;CNN BrasilPausas de movimento de cinco minutos por hora podem reduzir a fadiga e melhorar o humor sem prejudicar o trabalho&nbsp;&nbsp;O GloboPausas no trabalho favorecem desempenhos&nbsp;&nbsp;Correio BraziliensePausas de cinco minutos por hora reduzem fadiga e melhoram o humor, aponta estudo&nbsp;&nbsp;Tribuna do SertãoTrês minutos de movimento a cada meia hora combatem tensão e estresse&nbsp;&nbsp;93 Notícias",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdWYyUGY1dHpoOXlFZXZ4LVBHbVZ1a0ZVZGJLbUpIcDYzN0UxX1YwRktUOTVoVmVCUDVxTlA5S0NGaVNaNHRWUnVTVjdTTEdGZ0thVUJHSHRqUWNoWkIzNUF2cmtfLWdmdTB6MFkxeGx3aHhJX2E3T3l4RDBsOHEtM2JveWl3bTNNWnc0NUVBUl80Tkt0dzV1TGRqSQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a584965200aa",
-      "title": "Terapia na maturidade: como o autoconhecimento pode florescer após os 60 - Estadão",
-      "published": "2026-06-23T03:09:00+00:00",
-      "summary": "Terapia na maturidade: como o autoconhecimento pode florescer após os 60&nbsp;&nbsp;Estadão",
-      "sources": [
-        {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQVdtUlVkc2FJaG1lZFJybnpsa0Jjem9zTmFyYVFNOEpCaTFsWFNoQU1aVDhlUUJxVm5RRFlsODFKSGhSWG9LQlRKNEdVUVNxZVQwY0gxLVFlQ0ZGWnZfejNjaEVXVXFLd3NzUHpaTmUtTFJ6VlRidDVHWXFyTUV4d0M3cjhyb2IxRHVwUEk4eEU4Zk8ydVdiVXdZWFo2QXZraWhpTlpicHM5aWljM0xkNG95T3l5d9IBuwFBVV95cUxNRktWeWNTNXJJaGNFaTRhRW1fOEd6NEtGenRxeXRRN3gyWTRQaFNndWQwVXAxNENTVElpY1E3MFhYaV9md1lwWnhDcmxLdVpoUUZLRGlhQUlkdmdRanNoeEkwckgxdXExU3ZfRHc4SWZQLVFXTG1ZQ1piWmxJbFFreFhzNW5FLWpCbkdFTDAxd3lCWlFHTGVmTjd0NExDRlF3OGVoMm03M0hDc3hlaTlJNFI3MDBYY1djTHhJ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9e0432f584fb",
-      "title": "Sobre jovens cientistas e fígados de pombos - Nexo Jornal",
-      "published": "2026-06-22T23:19:27+00:00",
-      "summary": "Sobre jovens cientistas e fígados de pombos&nbsp;&nbsp;Nexo Jornal",
-      "sources": [
-        {
-          "name": "Nexo Jornal",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRVFxMEo5QjJJTlVnUkFLQVhRbGpiX1duODd5VGJxb0pNUGsxY1VFM3JSU2xOSGhibmFTTXU4bW5NbVUyQmJ5RFRVcUxtaUQ4dWZHMDhNMUlMZ1M0aXQ5RF9JTkZJT2pRN3l3cExHeFlSVHBSOU1ta3dyYVRUeEVzc2diY1NvSlpC?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "735a5215f814",
-      "title": "EUA adotam medidas sobre terapia de testosterona para os homens - CNN Brasil",
-      "published": "2026-06-22T22:01:58+00:00",
-      "summary": "EUA adotam medidas sobre terapia de testosterona para os homens&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaXlhMmVKYzY1aTdnRFhjNXg3X0xDWFVfMFRlSVVQNWxDZXhWNVMxZXV4U2VIX0EwWElQZHBKbkxRMzY2OXVqRllzWldfQWFOOEJXWGt3T2N2dXYxemVWRmRXeDItYVpJWjI5UzFsc3g5a1RJQ1dzNlBqSFYwcXVvOGxGYWZRV1JqZ2h3c3UtZkxSeW56YVNsRWVPM21PMmU1?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "840e16a5e910",
-      "title": "MCTI e CNPq abrem chamada de R$ 300 milhões para pesquisas em todas as áreas do conhecimento - GOV.BR",
-      "published": "2026-06-22T20:52:41+00:00",
-      "summary": "MCTI e CNPq abrem chamada de R$ 300 milhões para pesquisas em todas as áreas do conhecimento&nbsp;&nbsp;GOV.BR",
-      "sources": [
-        {
-          "name": "GOV.BR",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOcXQ5dWp4NzNYUjBBbFBXUW55enVKT0lfXy15YUVJYVdJMVJGYVVmZDJpSEVGRVZyd2czWTQtQUt5U0ctdW1OS3J5UFE2czloWUc5X3ZVTEhfSXlQWEg2VnRuXzVDWXVRVjBsRXlLUXdaT0IxdVFxQmRPcDN6OVZ6Vk1GSENYNXllNDRReGVZSnJOXzA3ZnN5ZW9nSXdkOVoxbFc3UGVTZFpjTGdlaldkQUVtTU9sV21Mc0t3dUlDcHdZLW1fMUdrbFlDcW9UZ0lXbmVHeUU3WHpEMm02UGdweHdYaVRSTHJBdTFB?oc=5"
         }
       ]
     }
