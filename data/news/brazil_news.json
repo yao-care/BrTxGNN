@@ -1,10 +1,34 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-06-26T03:55:36.059612+00:00",
-  "total_fetched": 97,
+  "fetched_at": "2026-06-26T09:31:09.327277+00:00",
+  "total_fetched": 96,
   "unique_count": 96,
-  "health_related_count": 42,
+  "health_related_count": 41,
   "news": [
+    {
+      "id": "5438a979c67d",
+      "title": "Como cientistas estão usando pombos para detectar câncer - R7 Entretenimento",
+      "published": "2026-06-26T05:00:01+00:00",
+      "summary": "Como cientistas estão usando pombos para detectar câncer&nbsp;&nbsp;R7 Entretenimento",
+      "sources": [
+        {
+          "name": "R7 Entretenimento",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZkVPOGZVNnF4cVhYTHhiWUpHajhZQ19pSmtSb0RJbXd2dGpwTEpzOWdGR2ZsdFBZYkdvcmVCQ0d6Zjg2UXM5NDhGZkxZTzRoUFpoRzYxMHRJbVBLWkpUaG0tcHJTU1l4aUdEcTVUakhEY2tpOG5ZdWZfMk15WlBlNzJJRm1EalhBZXpYZE43cGd5dnp1VGF6ZW9tX2w3YmNQWnZGUDBqZV80MGF0bFp6dm5iTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4b68b1edd4da",
+      "title": "Após alerta em ferro-velho, Anápolis prepara plano pioneiro para enfrentar riscos químicos, biológicos e radiológicos - Portal 6",
+      "published": "2026-06-25T23:04:06+00:00",
+      "summary": "Após alerta em ferro-velho, Anápolis prepara plano pioneiro para enfrentar riscos químicos, biológicos e radiológicos&nbsp;&nbsp;Portal 6",
+      "sources": [
+        {
+          "name": "Portal 6",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWU9HVzUtWkpsS1ZlbnNIYTMtUFAyRHlsVHpmR2hWT2ZSS1YxN2g5cWVOaFVFSjJUdXFvTGw0ZEEyellGVFJQQXdQRnRfaEllZHlHYzl2c1VjbWFNTWZTNmF3cVZKN1ItdHRWWDdTOG1BOGRLbkFxN3BpMm9vSFhaeVFaTFRubDdXMzNQVDlQemZmR2JIT0tBejBUc0tNQmo0WWJXczYyX1NISVVGaWRzdmFUcFR3Y2RwUHVvZm53b2FzdW5OSkctdHhyRTlHMXVLWXNSUGdxam53ZU9pZ196NjZPNE8?oc=5"
+        }
+      ]
+    },
     {
       "id": "6beb2f210163",
       "title": "Mais velho que o Sol? Cometa 3I/ATLAS tem química nunca vista, diz estudo - UOL",
@@ -38,6 +62,18 @@
         {
           "name": "ba.gov.br",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVUNweV8wMTVjSDFoT2k4S3ZzOTdLT1JDUFpqbjdVM2tlZW5IQk5GQkFCejlJR01oNldaVjYzaTJCV1NjZFE2d21XU2kxc0hIRUoyTVN1QkdlRXNkU2pKZFdBQmNPZmotUUpFWEo5WXdXQW9ndVRBNzFNTlBwUXR4YndxVEFmeFE5cG5CY1Rsb1EyMkRfMll3bFJLQl96UFZORk90cmNlWFQxTHlodEo4dm5ZTWdkRUxaOXMyT0ZScmtmVDYyVHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f3934c692722",
+      "title": "Conheça 5 sinais de câncer de pele que você nunca deve ignorar - O GLOBO",
+      "published": "2026-06-25T19:09:49+00:00",
+      "summary": "Conheça 5 sinais de câncer de pele que você nunca deve ignorar&nbsp;&nbsp;O GLOBOTudo o que você precisa saber sobre o tumor mais comum no Brasil&nbsp;&nbsp;Estado de MinasMédica alerta para sintoma de cancro da pele que costuma ser ignorado&nbsp;&nbsp;Notícias ao MinutoA eliminação do câncer de pele com precisão em tempo real&nbsp;&nbsp;O DocumentoMédica alerta para sintoma de câncer de pele que costuma ser ignorado&nbsp;&nbsp;jornalmetropolis.com.br",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWXlKd0RtQm9hRlFaR1BGSXozZTEwYmNGVnRpY3NMUVNaNkdFdHpQdm5Nb2pjU00zSTdKRHhBcGM1WGdKYU5nT3hIZkdoRVpxWFRUODhIc2JLUEk2SVRFS0pfM3EwMFJLQllkTk1OTE5LMXhLeGRlM0tHckxqTjJ4bVpWVF9XX3lpZjBlVm9LdThmWUhrdlg1dTZVNlpENTJBd0RKNFItYnk0RG41bTNBSWJPTnQ4RTdPZGfSAcgBQVVfeXFMTmktTjhnSkJpSy1feEQ5dTJObFlXT2hPSHJhdTYzcmlrZ3VKSTkzUkFTUm9EUEJMQjVYbGt2aVlCbUdRc3lLczlnVnZHYkRDUWRUWFlGZldlMks3a1dIQkotTkx6eUxObENMR0lhUVMzd0wtTTdmOUQ5dFVZcXZTRU4zNGlIbFFpRWstTUlveWszN2s5NUwzdldkbWprSEtBQXNRYzJvdHRPZGV0TmxJQWFQSXh0aUhHd0dVRXNLOXBlWlVnZ2kyMUI?oc=5"
         }
       ]
     },
@@ -93,7 +129,7 @@
       "id": "1b7d7fa1df28",
       "title": "Remédio de diabetes pode frear perda de visão por idade, sugere estudo - Folha de S.Paulo",
       "published": "2026-06-25T16:30:00+00:00",
-      "summary": "Remédio de diabetes pode frear perda de visão por idade, sugere estudo&nbsp;&nbsp;Folha de S.PauloDia Nacional do Diabetes alerta para risco de cegueira e outras doenças oculares&nbsp;&nbsp;Tribuna OnlineAções Educativas marcam Dia Nacional do Diabetes no CIDH&nbsp;&nbsp;Governo do Estado do CearáDoença ocular ligada ao diabetes é a maior causa evitável de cegueira no mundo&nbsp;&nbsp;vangfm.com.brDiabetes é a maior causa de cegueira entre pessoas de 20 a 64 anos&nbsp;&nbsp;Pelo Mundo DF",
+      "summary": "Remédio de diabetes pode frear perda de visão por idade, sugere estudo&nbsp;&nbsp;Folha de S.Paulo",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -141,7 +177,7 @@
       "id": "2dfdc19b1e8a",
       "title": "Além do álcool: especialista revela 10 hábitos cotidianos que podem prejudicar o fígado sem que você perceba - O GLOBO",
       "published": "2026-06-25T14:50:35+00:00",
-      "summary": "Além do álcool: especialista revela 10 hábitos cotidianos que podem prejudicar o fígado sem que você perceba&nbsp;&nbsp;O GLOBO",
+      "summary": "Além do álcool: especialista revela 10 hábitos cotidianos que podem prejudicar o fígado sem que você perceba&nbsp;&nbsp;O GLOBOFígado gorduroso cresce entre jovens e acende alerta médico global sobre estilo de vida moderno e riscos futuros&nbsp;&nbsp;TerraÉ possível eliminar a gordura do fígado somente com a prática de atividade física?&nbsp;&nbsp;Assine AbrilGordura no fígado: veja os alimentos recomendados e os que devem ser evitados&nbsp;&nbsp;ICL NotíciasÁlcool e suplementos em excesso podem",
       "sources": [
         {
           "name": "O GLOBO",
@@ -222,18 +258,6 @@
       ]
     },
     {
-      "id": "112b701c189c",
-      "title": "'Era meio-dia perdido': terapia reduz tratamento de câncer a 10 minutos - UOL",
-      "published": "2026-06-25T11:15:00+00:00",
-      "summary": "'Era meio-dia perdido': terapia reduz tratamento de câncer a 10 minutos&nbsp;&nbsp;UOL",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNHczdW9XMGZsVVdkMk9VVzBqMjMtNTJpMGJkcEFVYjJLV3NQRmh2UUVRa2NKZXpldTU3R3l0Vll4RXlqR3pHanY5VjY2eUczTFp5dk5CZXNaM0UwRkdXU29ReXRNVVNlNnlxdFZoR29rSlJCWk5XWE9wcUM4bk92b3JVYmFfcU5pNk5BOWc1VXJveG9neWsyeHVOcENiRFdrSDY0UkxhcG5UZFNZRnJwaUVIYmZwQ1Qzam8xN2NBTFBJbzRCQWVzNGF4N0xRU2Uxc3c?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d198e363be1d",
       "title": "Cirurgia ‘gêmea’ da bariátrica trata diabetes tipo 2 e controla a doença em até 89% dos casos - G1",
       "published": "2026-06-25T08:04:33+00:00",
@@ -306,10 +330,10 @@
       ]
     },
     {
-      "id": "1e887f5b4dbf",
-      "title": "Nova no SUS, vacina que previne bronquiolite já reduziu em 16% casos graves em bebês - O GLOBO",
+      "id": "d6693691de4c",
+      "title": "Nova no SUS, vacina para bronquiolite já mostra queda em casos graves em bebês - O GLOBO",
       "published": "2026-06-25T07:30:16+00:00",
-      "summary": "Nova no SUS, vacina que previne bronquiolite já reduziu em 16% casos graves em bebês&nbsp;&nbsp;O GLOBOVacinação contra Influenza e Vírus Sincicial é disponibil...&nbsp;&nbsp;Prefeitura Municipal de TietêVSR em lactentes: segurança da vacina materna e do nirsevimabe&nbsp;&nbsp;Afya | HomeBronquiolite e pneumonia exigem atenção durante o frio&nbsp;&nbsp;Jornal de BeltrãoVacinação durante a gestação ajuda a prevenir bronquiolite&nbsp;&nbsp;Portal ABC do ABC",
+      "summary": "Nova no SUS, vacina para bronquiolite já mostra queda em casos graves em bebês&nbsp;&nbsp;O GLOBOVacinação contra Influenza e Vírus Sincicial é disponibil...&nbsp;&nbsp;Prefeitura Municipal de TietêVSR em lactentes: segurança da vacina materna e do nirsevimabe&nbsp;&nbsp;Afya | HomeBronquiolite e pneumonia exigem atenção durante o frio&nbsp;&nbsp;Jornal de BeltrãoVacinação durante a gestação ajuda a prevenir bronquiolite&nbsp;&nbsp;Portal ABC do ABC",
       "sources": [
         {
           "name": "O GLOBO",
@@ -369,7 +393,7 @@
       "id": "ebf1f8531936",
       "title": "O que está por trás da suspensão da vacina da dengue pelo PT - Revista Oeste",
       "published": "2026-06-25T01:00:00+00:00",
-      "summary": "O que está por trás da suspensão da vacina da dengue pelo PT&nbsp;&nbsp;Revista OesteVacina contra a dengue é alvo de desinformação após suspensão do governo&nbsp;&nbsp;UOL NotíciasÉ #FAKE que vacina da dengue foi aplicada como 'experimento' e usou população como 'cobaia&nbsp;&nbsp;G1Vacinação contra a dengue segue disponível em SC após suspensão de imunizante do Instituto Butantan&nbsp;&nbsp;AcaertVacina da Dengue Butantan-DV: Idosos Acima de 60 Anos em Foco em Novo Ensaio Clínico Seguramente A",
+      "summary": "O que está por trás da suspensão da vacina da dengue pelo PT&nbsp;&nbsp;Revista OesteVacina contra a dengue é alvo de desinformação após suspensão do governo&nbsp;&nbsp;UOL NotíciasVacina da dengue: Butantan mantém recrutamento de voluntários idosos para ensaio clínico; entenda&nbsp;&nbsp;O GLOBOVacinação contra a dengue segue disponível em SC após suspensão de imunizante do Instituto Butantan&nbsp;&nbsp;AcaertMinistério da Saúde e SES atualizam cenário de reações da vacina da dengue do Butantan",
       "sources": [
         {
           "name": "Revista Oeste",
@@ -378,22 +402,10 @@
       ]
     },
     {
-      "id": "489bfed4a97d",
-      "title": "O que a aparência das fezes pode dizer sobre a sua saúde? - Portal Drauzio Varella",
-      "published": "2026-06-24T21:44:30+00:00",
-      "summary": "O que a aparência das fezes pode dizer sobre a sua saúde?&nbsp;&nbsp;Portal Drauzio Varella",
-      "sources": [
-        {
-          "name": "Portal Drauzio Varella",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb0E3OFNVYm9ZVHl1bWZZWlR4U2RiV3JpNFVYYl8yaW1uVllfMjNHcXh3U0RmalRfbi1BOEJQdWJDd3hWcEczRk4yUk5BdEpZT1B6NEN2Nlp3N3RNM2tLZ1EwaVRrN3h5d3FqVWNUYTJxaDR0bkE0eDcta1E5elV6NDRSamRneE0wNVp3STlOTGVSQU1hUml1SXdDdkczRFU?oc=5"
-        }
-      ]
-    },
-    {
       "id": "97bbca7cba01",
       "title": "Após 'feriadão' de São João, João Pessoa retoma vacinação nesta quinta-feira (25); veja locais - G1",
       "published": "2026-06-24T20:40:20+00:00",
-      "summary": "Após 'feriadão' de São João, João Pessoa retoma vacinação nesta quinta-feira (25); veja locais&nbsp;&nbsp;G1Vacinação em João Pessoa retoma nesta quinta-feira após feriado junino&nbsp;&nbsp;R7Vacinação é retomada nesta quinta (25) em João Pessoa após 'feriadão' de São João&nbsp;&nbsp;Jornal da ParaíbaPrefeitura altera funcionamento da vacinação nos próximos dias e mantém atendimento de urgência&nbsp;&nbsp;Prefeitura de João PessoaPrefeitura de João Pessoa retoma vacinação e reforça importância d",
+      "summary": "Após 'feriadão' de São João, João Pessoa retoma vacinação nesta quinta-feira (25); veja locais&nbsp;&nbsp;G1Vacinação em João Pessoa retoma nesta quinta-feira após feriado junino&nbsp;&nbsp;R7Vacinação é retomada nesta quinta (25) em João Pessoa após 'feriadão' de São João&nbsp;&nbsp;Jornal da ParaíbaPrefeitura de João Pessoa retoma vacinação e reforça importância da atualização da caderneta vacinal após o feriado de São João&nbsp;&nbsp;Repórter PBJoão Pessoa retoma vacinação nesta quinta (25) a",
       "sources": [
         {
           "name": "G1",
@@ -405,7 +417,7 @@
       "id": "236eb280fb62",
       "title": "Frio intenso aumenta risco de infarto e AVC - DIARINHO",
       "published": "2026-06-24T19:31:52+00:00",
-      "summary": "Frio intenso aumenta risco de infarto e AVC&nbsp;&nbsp;DIARINHOInverno 2026: como reduzir riscos em casos de doenças respiratórias&nbsp;&nbsp;CNN BrasilInternações por doenças respiratórias em Porto Alegre têm alta de 55% com a chegada do frio&nbsp;&nbsp;GZHEspecialista explica como o inverno favorece casos graves de infarto e AVC&nbsp;&nbsp;G1Inverno: proteja-se de doenças respiratórias e alergias com limpeza essencial&nbsp;&nbsp;CASA.COM.BR",
+      "summary": "Frio intenso aumenta risco de infarto e AVC&nbsp;&nbsp;DIARINHO",
       "sources": [
         {
           "name": "DIARINHO",
@@ -450,22 +462,10 @@
       ]
     },
     {
-      "id": "0dd6faa9c1da",
-      "title": "Menopausa: entenda como funciona remédio sem hormônio aprovado pela Anvisa - CNN Brasil",
-      "published": "2026-06-24T16:10:33+00:00",
-      "summary": "Menopausa: entenda como funciona remédio sem hormônio aprovado pela Anvisa&nbsp;&nbsp;CNN BrasilAnvisa aprova primeiro medicamento não hormonal para ondas de calor na menopausa&nbsp;&nbsp;G1Anvisa aprova novo medicamento para ondas de calor da menopausa #shorts #falabrasil&nbsp;&nbsp;R7Menopausa: Anvisa aprova remédio sem hormônio para fogachos&nbsp;&nbsp;Correio do PovoSaiba o que significa a aprovação do uso de novo medicamento que trata efeitos da menopausa&nbsp;&nbsp;Estadão",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMkJ0Wm5vbWZaRmpEY0Q4OHExVUsxWURUekpWODRpZDV3UWJkck9HQkROdUlQa2c5RjV0UGtKWXg0OHNVcktCZTBUOFJWV1ZCY1lDRkc2V2twazVIa0NQRFp3TW1KUklrdHl3V3gwajVNaUJnNFpPSUI0T2h0MVVlYnZfU1V3WUdBakdCWVVvWWs3U1I3RVNIVTktT0hwNjNSRl9rZGxxeEFvcG1zMWc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9b850c91f30f",
       "title": "O que muda com a liberação da vacina da gripe no Paraná? - Tribuna do Paraná",
       "published": "2026-06-24T14:46:00+00:00",
-      "summary": "O que muda com a liberação da vacina da gripe no Paraná?&nbsp;&nbsp;Tribuna do ParanáA partir de segunda-feira, vacina contra a gripe será liberada para todos em Curitiba&nbsp;&nbsp;Prefeitura de CuritibaGoverno do Paraná reforça campanha de vacinação contra gripe nas escolas estaduais&nbsp;&nbsp;Governo do Estado do ParanáCianorte antecipa vacinação contra a gripe para moradores neste sábado (27)&nbsp;&nbsp;G1Com cinco mortes por doenças respiratórias em 2026, Caxias do Sul ainda registra baixo",
+      "summary": "O que muda com a liberação da vacina da gripe no Paraná?&nbsp;&nbsp;Tribuna do ParanáA partir de segunda-feira, vacina contra a gripe será liberada para todos em Curitiba&nbsp;&nbsp;Prefeitura de CuritibaCianorte antecipa vacinação contra a gripe para moradores neste sábado (27)&nbsp;&nbsp;G1Governo do Paraná reforça campanha de vacinação contra gripe nas escolas estaduais&nbsp;&nbsp;Governo do Estado do ParanáCom cinco mortes por doenças respiratórias em 2026, Caxias do Sul ainda registra baixo",
       "sources": [
         {
           "name": "Tribuna do Paraná",
@@ -477,7 +477,7 @@
       "id": "93861317edb5",
       "title": "Ministério da Saúde inclui segunda dose de reforço contra poliomielite no Calendário Nacional de Vacinação - GOV.BR",
       "published": "2026-06-24T14:36:00+00:00",
-      "summary": "Ministério da Saúde inclui segunda dose de reforço contra poliomielite no Calendário Nacional de Vacinação&nbsp;&nbsp;GOV.BRSUS volta a aplicar duas doses de reforço da vacina contra a pólio&nbsp;&nbsp;Agência BrasilMinistério da Saúde inclui 2ª dose de reforço contra a poliomielite&nbsp;&nbsp;G1Doença erradicada há décadas no Brasil passa a ter dose extra para crianças; saiba o motivo&nbsp;&nbsp;NSC TotalCrianças de até 5 anos terão reforço da vacina contra a pólio&nbsp;&nbsp;R7",
+      "summary": "Ministério da Saúde inclui segunda dose de reforço contra poliomielite no Calendário Nacional de Vacinação&nbsp;&nbsp;GOV.BRMinistério da Saúde inclui 2ª dose de reforço contra a poliomielite&nbsp;&nbsp;G1Crianças com 4 anos devem receber mais uma dose da vacina contra pólio&nbsp;&nbsp;Agência BrasilDoença erradicada há décadas no Brasil passa a ter dose extra para crianças; saiba o motivo&nbsp;&nbsp;NSC TotalCrianças de até 5 anos terão reforço da vacina contra a pólio&nbsp;&nbsp;R7",
       "sources": [
         {
           "name": "GOV.BR",
@@ -494,18 +494,6 @@
         {
           "name": "Globo",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNb2hDRkgtbUEyZzlBc3RMZlRKUXF1M09VNlprdEpxNUFSTGU1aWZuMDBPNFg4LXRiTDc5cGNPTHZvTF81ZFJad2FZdzhuaUVsaE5yYnZWYkFqUmIwZ3hVbEktVW5Ya2xDUVJuVXBSTUZLTFhudGpPTHBpbVVhNjdmcEpWUUp1djdRYmVqOUJnX1FLbURCNHlwTXl0VllJcWhEQUFwbXQyTVhOWTFaS3RFNlV1WHFkU2JfWk5HSlV1dXEzeXVkX0o5bTNoREdjMlQ1bk5B0gHiAUFVX3lxTE1yQ1lNTG85R2VHdFZjQ2QzOWh5NEoyalFEc20wa0dRYmdlTjdpU0w1bl9DSjhCaGE1VHVWVEZyS3I4bk43MU9FdU5YQnNPMmdHamxXbm1aSkEtRG40aUxMZTFrVE5uUDR3MEFZRWVNNVF5QXJmSnZjbGdndEpXQ2FybWVINVNKQmJfZVRLZ1hGWXh6VzFSRTFVMlhhZE90T2I5dl9BVU1TZnlaa0xZVnREWmF5S3ljRldqQXlXUDlLMlQ3Tl9zaXpuRDFuanR2ZDlGbE9rZHpCQ0lvV2dPOVlRcGc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b0f7e2639320",
-      "title": "Gordura no fígado: veja os alimentos recomendados e os que devem ser evitados - ICL Notícias",
-      "published": "2026-06-24T11:57:48+00:00",
-      "summary": "Gordura no fígado: veja os alimentos recomendados e os que devem ser evitados&nbsp;&nbsp;ICL NotíciasFígado gorduroso cresce entre jovens e acende alerta médico global sobre estilo de vida moderno e riscos futuros&nbsp;&nbsp;TerraÉ possível eliminar a gordura do fígado somente com a prática de atividade física?&nbsp;&nbsp;Assine AbrilGordura no fígado: os sinais silenciosos que você pode estar ignorando&nbsp;&nbsp;A GazetaFígado gorduroso pode avançar sem dor: o motivo de exames alterados merece",
-      "sources": [
-        {
-          "name": "ICL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15M3dESEZIOXFYZzNITmlqRkp2LTRKQ194OTY1ejVDTXo5c2ZTdFEwNExJWHRjTUthNDZGd3ZtdGoycGJJdVk2ZEliTWVVXzJpOTZvcGVZSXdsMTdiMFVHRU82NDJCYXNfa3NpemZnRzM?oc=5"
         }
       ]
     }
