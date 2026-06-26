@@ -1,19 +1,91 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-06-25T20:03:19.252723+00:00",
-  "total_fetched": 98,
+  "fetched_at": "2026-06-26T03:55:36.059612+00:00",
+  "total_fetched": 97,
   "unique_count": 96,
-  "health_related_count": 41,
+  "health_related_count": 42,
   "news": [
     {
-      "id": "2aebcb76e71a",
-      "title": "Parecem ter saído de um filme, mas a explicação é real: coelhos com “tentáculos”, chifres escuros e verrugas gigantes reaparecem nos Estados Unidos, assustam moradores e levam autoridades a explicar o misterioso vírus do papiloma de Shope - CPG Click Petróleo e Gás",
-      "published": "2026-06-25T16:48:00+00:00",
-      "summary": "Parecem ter saído de um filme, mas a explicação é real: coelhos com “tentáculos”, chifres escuros e verrugas gigantes reaparecem nos Estados Unidos, assustam moradores e levam autoridades a explicar o misterioso vírus do papiloma de Shope&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "id": "6beb2f210163",
+      "title": "Mais velho que o Sol? Cometa 3I/ATLAS tem química nunca vista, diz estudo - UOL",
+      "published": "2026-06-25T20:51:25+00:00",
+      "summary": "Mais velho que o Sol? Cometa 3I/ATLAS tem química nunca vista, diz estudo&nbsp;&nbsp;UOL",
       "sources": [
         {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPY0lGT2Y2TzlXQlVkcnp6dmJjWlpUbDBlN3JvSUctU1RXVmlPaENuMDVSWUZVa1F4amdVdE5MS0ZBUzVIVW1sOU9OTmhkY3JDUXE5d29KZzBYMlhEcXY5ZVhGczVGUEhGdF9weHdobXFtSnhpQzZOSVUtRlhQcUJJVlAyRFRRU09odER2cnZOOGh0aV9OVlVRR0tqdmVVTjUyTmtqcFluUTQ4clJLckJjS1NSa1VYLVVDRGdmZUN5VUp4d3JmNy1xSlNhMWFBUUJIVEdrd1RPVlZxekttU1Jmb0RvbERQTEtlY2gyZjhzMjNDNHJfYTEtMFJEOU0ySk93REQxd0p3bi1VWHBFX09QUkVyOC05eVFoYjhtWEVUSXgtNi1GMmRLeGV0dHBwLVZBbzZPaDM2OExmb1NNTnJlTA?oc=5"
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPV3kybVFyVmlKSDRNM2xveHA1MEhnREVIYktKUUNQSGpQc3NNNVBuTXRQRVJZQWZHM1VIcktZUEE2cV96S01ja3NfQktiM1dPZDlEQWZFQXNsVkZMRWlMdnN3NS1nemlpaG1VZ3NYNGtPekEzVzZ1OTRST2EwVG5WeW9iLWFTQ0lBUm40dkJfeGFYX1pnRDV3MjJNV0J4OEFkQ0NxTS0tRHpBNzBZbkxFaGJPaU9fNTI3YjQwdnRZT2hTaWhYNTJhTUZYUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4ce2d62d2838",
+      "title": "Os alimentos que ajudam a proteger contra o câncer de cólon, segundo especialista - Extra online",
+      "published": "2026-06-25T20:23:11+00:00",
+      "summary": "Os alimentos que ajudam a proteger contra o câncer de cólon, segundo especialista&nbsp;&nbsp;Extra online",
+      "sources": [
+        {
+          "name": "Extra online",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOa2F4NmJpUGdjNWsyZ2NjWFFlcmsxYTd3dU1GVFR4S3kzNFlrX1dGTXhSZWM3dU9UWmZKeUZ5TEt3ZWhZcXJHalRDT05CUTFKNFk5cVR2bThReXhSRHBhaEhzWE9VNDhjZnBNdWEwQ1AyVnVWRmJMaHpLTGNDS3Vya2ktU2Qtc00wWVdnRnJfYlJwRGdNR2ViRkRIeUJnM0RmbnVMMXIxMzUwa09MdVF5b2VTSjlaQm9iN1NhMGxQTXI5c0NwZmpLZ3ZTbDPSAdsBQVVfeXFMT0VxRHZycTRzWHdKT052OFVQdFkzWFNqYXNvVnc3bEpaakVfVGZtdDVLbm10T3BPbW1SNm5QcU5VeGZzbnpGMHJOWW9XUUd1SVdYMGd6Nkk1STR4RTFkTVYxVXdQNWxqY1YxdnZ1ZjdnWHFfNnI2dGdGbzhXZU1FMGd5c0NzT3pMcHQwSnUwX1dUTXlUZEpOV3BqZklkRDM5ekZZd2hMSGUtR2NpdGtZV3JGZm5GM0FJYzVkY0lyWDVYMmQzWHZWeHBOS1QwVXdrQTdjTHBqZEpWRVc0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "98c5e9e74cc3",
+      "title": "Da Bahia para o mundo: estudantes do Piemonte Norte do Itapicuru apresentam pesquisas sobre semiárido em congresso internacional, na Espanha - ba.gov.br",
+      "published": "2026-06-25T19:25:07+00:00",
+      "summary": "Da Bahia para o mundo: estudantes do Piemonte Norte do Itapicuru apresentam pesquisas sobre semiárido em congresso internacional, na Espanha&nbsp;&nbsp;ba.gov.br",
+      "sources": [
+        {
+          "name": "ba.gov.br",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVUNweV8wMTVjSDFoT2k4S3ZzOTdLT1JDUFpqbjdVM2tlZW5IQk5GQkFCejlJR01oNldaVjYzaTJCV1NjZFE2d21XU2kxc0hIRUoyTVN1QkdlRXNkU2pKZFdBQmNPZmotUUpFWEo5WXdXQW9ndVRBNzFNTlBwUXR4YndxVEFmeFE5cG5CY1Rsb1EyMkRfMll3bFJLQl96UFZORk90cmNlWFQxTHlodEo4dm5ZTWdkRUxaOXMyT0ZScmtmVDYyVHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5f2c760ad0dd",
+      "title": "Envelhecimento acelerado em jovens pode explicar casos de câncer precoce; estudo - Globo",
+      "published": "2026-06-25T19:01:10+00:00",
+      "summary": "Envelhecimento acelerado em jovens pode explicar casos de câncer precoce; estudo&nbsp;&nbsp;Globo",
+      "sources": [
+        {
+          "name": "Globo",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaE1aMDl5N1NXUzUzMkk2Yi14MERZQVVReUpPd2xTR1Q5RFIyYUpTMkl3VmRHODJhbm91TWhuYkNmcGVvRGZOX1NRVkdNV3FadlN3YkYtTkV3OXBUOWdEQlFlWUF5UDhlUFZ2ZWdnWlB0Q0RqVEw4WHZGTVlvaDNRVlFHTmRsQkxBQ3lnYnN1Y1QxRlhlUE5JZHhJbmFxblVybmZiZk9pUmFzM2Ewblpob2xBOGFrTFFWNWNvMTJwVEladm5HckZndFpnX3ZJWXBQVWxCejU0SdIB5gFBVV95cUxOVllzZGlkMkpIa2U1MXVEQVVDSmdISHJwcXo0di13SlF1eHF6OEdMbmVXWnYxVHFHdmc3NWhaYWV1RE9GcENmRXJyUHJielYzR2VSTmhjWFdnT3hKNW01TDI2QnN6R2lRZDBKcWJCUXJhMGtSMTR0d05XbktfU2N0NHhjNURuRml6MXYxb2FWeUROMngzOG5vM1lGTmc1TzFYaHNNeUFEV3M2RWJ5TlFOT29hRU9CeG5FZnl1TzlkZUhfeXVDQ1hhM3ZEZEZUNE5mWVZNZFZWeXk5emtDNFFxOW9SdldRQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1cad2f165c5e",
+      "title": "Descoberta de estudante superdotado de 10 anos em sala de aula será apresentada na Bienal de Matemática - RADAR DIGITAL BRASÍLIA",
+      "published": "2026-06-25T18:54:37+00:00",
+      "summary": "Descoberta de estudante superdotado de 10 anos em sala de aula será apresentada na Bienal de Matemática&nbsp;&nbsp;RADAR DIGITAL BRASÍLIA",
+      "sources": [
+        {
+          "name": "RADAR DIGITAL BRASÍLIA",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNYnVuRDB2UnJZMzFGNFVHM1FraWJUVWE0OGR2MV9CcjZsSE9hd1QtUWdFdzRKdE9kc1RDYkVUdmJsaFdYUlVhOThmb25SNXZfamdhTUFHYkljcXdMa2FEYzRaOUI0RnBrb1RJTlZpbTRuQ0Q3MGowTVZOb2szeEFMVVJFa3hIMEpLTzU5NnNIUmNrWGNUMTRjSEV5Ni04bERVdTdNbm9Sd2docjEtQXFwY0VLa3JPSGlRc2luc1dYbUs2UV8xOGV2bHFDc3dUbTRnNzBwaFh0VGtvQWcwMUVDY0RR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "58422f6124e4",
+      "title": "Lei reconhece aves estudadas na Uesb como patrimônio genético de Itapetinga - uesb.br",
+      "published": "2026-06-25T16:45:51+00:00",
+      "summary": "Lei reconhece aves estudadas na Uesb como patrimônio genético de Itapetinga&nbsp;&nbsp;uesb.br",
+      "sources": [
+        {
+          "name": "uesb.br",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOejNNNjJudmFMMFpOeHJWVVY2ZnI5eTJ3NUZRSVZEdWdKcm9KQ1Y0ZXRjandxcHhBdGpLdFMwTG5uQWdiVUQzX0hsaEFjT1JkQzVfdWtjaEdqaU5xcmpsd3lNWFczdEVYVTBMVUI5SEtBUS1ackwzUkFmXzZzVkNaYTg1emVQRHhpTk9WSFZkY3RWQWNxWnJyenRnQi1WTHNJY0FuOHV4bmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "aca286c45cf5",
+      "title": "O material que elimina mais de 99% dos vírus e bactérias pode estar em ônibus e hospitais - Jornal Correio",
+      "published": "2026-06-25T16:34:21+00:00",
+      "summary": "O material que elimina mais de 99% dos vírus e bactérias pode estar em ônibus e hospitais&nbsp;&nbsp;Jornal Correio",
+      "sources": [
+        {
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWHkzWF9HOWdWTWZhUV9VYmhzd2trSU5TWVEyd2hudlNUcl8ycFI3aEtVMGtKam1LQTdtSU9VTEZBZFR0c3ZwY1R5UHAycERmXzcyRjdSdm9MV2JTYUM3bzVjdEprQ3l4TnBmNnEzN1lHR0pBUGZZbV9vejdialcxTFpWWUNIQ2ZpUGptNzlxU09TQ1lJeHZPTWRxSzBMbTNZMDlhUmgtaTgwemdpbkl1bF96ZFdMcjJxM2tRd0MwV09BSTRrQU5CSTZUX1JsUQ?oc=5"
         }
       ]
     },
@@ -21,23 +93,11 @@
       "id": "1b7d7fa1df28",
       "title": "Remédio de diabetes pode frear perda de visão por idade, sugere estudo - Folha de S.Paulo",
       "published": "2026-06-25T16:30:00+00:00",
-      "summary": "Remédio de diabetes pode frear perda de visão por idade, sugere estudo&nbsp;&nbsp;Folha de S.PauloDoença ocular ligada ao diabetes é a maior causa evitável de cegueira no mundo&nbsp;&nbsp;vangfm.com.brAcompanhamento contínuo nas UBSs fortalece o controle do diabetes e melhora qualidade de vida dos pacientes&nbsp;&nbsp;Prefeitura de São PauloAções Educativas marcam Dia Nacional do Diabetes no CIDH&nbsp;&nbsp;Governo do Estado do CearáDiagnóstico precoce ajuda a prevenir complicações do diabetes&n",
+      "summary": "Remédio de diabetes pode frear perda de visão por idade, sugere estudo&nbsp;&nbsp;Folha de S.PauloDia Nacional do Diabetes alerta para risco de cegueira e outras doenças oculares&nbsp;&nbsp;Tribuna OnlineAções Educativas marcam Dia Nacional do Diabetes no CIDH&nbsp;&nbsp;Governo do Estado do CearáDoença ocular ligada ao diabetes é a maior causa evitável de cegueira no mundo&nbsp;&nbsp;vangfm.com.brDiabetes é a maior causa de cegueira entre pessoas de 20 a 64 anos&nbsp;&nbsp;Pelo Mundo DF",
       "sources": [
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRTg0VnFaYmctUC00WTczcG9ZYTZtQXNsOWZuTDJjM2lBWXgtd3NLZjlPd1NCNFVFakpxMUhKUW5wVk9jLXQ3dTRwdFJZNjhpb2FlWENtTFExVkhMR0hsMFI2cEhoY0szTGdpdmhLTDZGa212X2c1RGhzMFZPU1VwRTRMS0VHY2pRdkdIcHdqcUdNMkVybmJ0LXB0ci1oanJHcEgxUUFsOE9QelMwaWFOMFBiZHhPRmVRZ1Y4amFTWFA4Z0puR0NTRGdB0gHPAUFVX3lxTE9zZnRXeW9PODlNT2VUZ1VJN1hYMDd5SUY0V2FmMUFVNGxUVVFyeGlvMDl2UEx0T3N5dDhQZUNJXzlmRUU5OENGLUk0LWszeXhoRDFHTVRHSmN2RS1jb3lHRFdZSThSMVVuZHZXRXhLWExuZ2dubkNMeklwVUZ1bks2WnJ4UU9MREJKT0xCS3p0UTk1NmphT1d5OUstMEFyaHRBN2RqRkdtMTBoWXo5X29DamxUb2p2NVhYUXRFWmp4cVlQcmxSNWpLS2M1ZFdnTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "112b701c189c",
-      "title": "'Era meio-dia perdido': terapia reduz tratamento de câncer a 10 minutos - UOL",
-      "published": "2026-06-25T15:15:00+00:00",
-      "summary": "'Era meio-dia perdido': terapia reduz tratamento de câncer a 10 minutos&nbsp;&nbsp;UOL",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNHczdW9XMGZsVVdkMk9VVzBqMjMtNTJpMGJkcEFVYjJLV3NQRmh2UUVRa2NKZXpldTU3R3l0Vll4RXlqR3pHanY5VjY2eUczTFp5dk5CZXNaM0UwRkdXU29ReXRNVVNlNnlxdFZoR29rSlJCWk5XWE9wcUM4bk92b3JVYmFfcU5pNk5BOWc1VXJveG9neWsyeHVOcENiRFdrSDY0UkxhcG5UZFNZRnJwaUVIYmZwQ1Qzam8xN2NBTFBJbzRCQWVzNGF4N0xRU2Uxc3c?oc=5"
         }
       ]
     },
@@ -50,6 +110,30 @@
         {
           "name": "CNN Brasil",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVHdxZDdSdHdQZWd5eGNabTF2RV9qVEQza09Bc3AxeEtwRnc5aG9xU05GajFvdHBERV9VcHJWWVcyeElMTDNsd3BSdElTU015R0NRejJ0ckxVbGJkcXEtMWttS0FnYlZ5eDZENnhRdENqX1hFUS05VFdKYzczLUpHdUlaQ3hYVExfcmR6ZWtkOUxwTllyaWRkSVBVVUN4OWwxaVkzYVEwWEJlc0hu?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cc65f0cd85ed",
+      "title": "Atividade física ao longo da vida reduz risco de depressão na velhice - Folha de S.Paulo",
+      "published": "2026-06-25T15:00:00+00:00",
+      "summary": "Atividade física ao longo da vida reduz risco de depressão na velhice&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVHVzSFl1ODI0M3h4Nm9lci1XZ2dzZ1pkZXQzbVNBNHQteHIzMTh0cml6QkNHMXVoM0JaU0VjY3VubkNqSWhxeHMxQ1Q2LUJEbVl2c3pHU2Q2YU1LYllxcGFvbGxEM2lyZEEtV0RlMUVFUW1GUGJGT3ItQVkwVjVCbGZEamF6MFNBYjNxZEJyQk8zXzBkOGdNOUpLUVpIWXVGWTFRcEVBOTFaenF4SmhVRldwVnphMDB2YWRyYzl5bEhmQdIBxwFBVV95cUxQZW1VRFEyRE91SVY5RGc2dXhzWVY1ZFIxcTI0TkN4SG00aEdhUnlBRGZYakJpQ3drRVhVdER0VVVmYS0wejNoTDgyekJkYXMtb2tFVmtkZmdWWFVvWDljWHdUX3gyaUlMaXA3QkF3d3g0RGJ3cmJNMnZTNFJ1bzJBaFh6eGFkLWg4eUMtcVZ6dGJjQ2tBTG9rcm1MUF9RR0preV8yNmlNY01NUXN5SnpwQUdoVkw4ZUs0bjIyQ3VfZk1TbU4yX1lJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f8ba19f52b40",
+      "title": "Hubble acha galáxia primitiva que ajuda explicar o início do Universo - Metrópoles",
+      "published": "2026-06-25T14:59:00+00:00",
+      "summary": "Hubble acha galáxia primitiva que ajuda explicar o início do Universo&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBmVnd1NlRueGdTX0FjSFVBYTlpZFZ2aE9IWXJGUWR5N0hHYUtycnEtcTlObkRLVzU0TUl2WWtpZkxBTjdDWWc2RTFMeFdKMmNnQzBFblhQN1F1TzNLSGlDTmE5cWcybEFoV0xWN1ZpMTZuOW5wS29n?oc=5"
         }
       ]
     },
@@ -69,7 +153,7 @@
       "id": "3503fbacdb8e",
       "title": "Calvície: conheça novo remédio oral que é apontado como o maior avanço em décadas - O TEMPO",
       "published": "2026-06-25T14:40:27+00:00",
-      "summary": "Calvície: conheça novo remédio oral que é apontado como o maior avanço em décadas&nbsp;&nbsp;O TEMPONovo remédio para calvície mostra resultados promissores em estudo&nbsp;&nbsp;UOLCalvície: novo medicamento contra queda de cabelo é apontado como o maior avanço em décadas&nbsp;&nbsp;O GLOBORemédio para calvície? Novo medicamento apresenta bons resultados para tratamento capilar&nbsp;&nbsp;Rádio ItatiaiaPílula contra queda de cabelo avança com resultado promissor em homens&nbsp;&nbsp;Olhar Digita",
+      "summary": "Calvície: conheça novo remédio oral que é apontado como o maior avanço em décadas&nbsp;&nbsp;O TEMPOCalvície: novo medicamento contra queda de cabelo é apontado como o maior avanço em décadas&nbsp;&nbsp;O GLOBONovo remédio para calvície mostra resultados promissores em estudo&nbsp;&nbsp;UOLRemédio para calvície? Novo medicamento apresenta bons resultados para tratamento capilar&nbsp;&nbsp;Rádio ItatiaiaMaior avanço em décadas: tratamento oral para calvície pode chegar ao mercado em breve&nbsp;&n",
       "sources": [
         {
           "name": "O TEMPO",
@@ -90,14 +174,14 @@
       ]
     },
     {
-      "id": "b4c756be354c",
-      "title": "Alzheimer: novo medicamento que desacelera perda cognitiva chega ao Brasil - O GLOBO",
-      "published": "2026-06-25T14:20:00+00:00",
-      "summary": "Alzheimer: novo medicamento que desacelera perda cognitiva chega ao Brasil&nbsp;&nbsp;O GLOBO",
+      "id": "8872f7ed67ff",
+      "title": "Pesquisa da Unemat revela diversidade genética inédita em espécie de madeira nobre - Só Notícias",
+      "published": "2026-06-25T14:11:00+00:00",
+      "summary": "Pesquisa da Unemat revela diversidade genética inédita em espécie de madeira nobre&nbsp;&nbsp;Só Notícias",
       "sources": [
         {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNnhPcFkyUGdFbXRCOG9Pbl9OM1EyUDhFeE1EN1VTazlJNDQ5allhVjBXS1c0YUpxTWRkLVpPRjBCTkQ3aDBPbEJGMXMwb2RyalQ1U3R1Z2RsUW45N1FOeVg1aGpfSHhtS00ydGN2X1I1UWUwVURkU2xBVVgtcUx5NXY0TXZoV1pVVjF4QldVb2F1SkhBY0dwWGprNDMzV3ZweEpPOS1rNWxTNE90WWVYcjBxN0pQRllmNE1TNnFLWkU0UEpCdmpEadIB1wFBVV95cUxPUUhWRnFrTUh1ZTc4eE42VTlzelRpUWVjaDk2cmFVY2NVaEFKWk1aejN2THZGZWNOSnlfdzFGZlRhR3djWmp1ZE1FNy01ZzdhTUNqVnl6Z0FiWlFNY01DLVZ6LVBSOUlMdlMxZFgwbzE4MmloS2staUdoeXJCNWYtYjlIR2gwZ0JtQzd2d0ZtOVRfTndaa2phTU45ZTMyWl9EZG9Mc0lENUZTdzBQamZXT1RIamZJN2ZySDU1LWxCazRxbXpYcURvYTB4M3Z0cmpISTdCcUpIZw?oc=5"
+          "name": "Só Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOUExRi1JWmNISnBSN09SREYyY0dreTlUMWJTU3I5ZEhDeVd6QkhFVHIwd1hZQm8tT1FramJIa0pTTHkxblpUSC1hR3dqSGFDcTM1UjB1UjlEQ2RPZGpHU3lfY3dSVnl5LXc2Wk1GaGY1Y1dBSHBoWVFLbGdOcGp1T0pLZXpaeUxWUVZ4SUM0cFRNd2VXWjdxbXQ3a1A4LVJwbUhvYTBibjM1eENYazFGS1VNZXVyVkZkSjhN?oc=5"
         }
       ]
     },
@@ -105,7 +189,7 @@
       "id": "651bbd0a9af4",
       "title": "Salmonella: Riscos, Sintomas e Como Prevenir a Contaminação - Campo Grande News",
       "published": "2026-06-25T13:18:00+00:00",
-      "summary": "Salmonella: Riscos, Sintomas e Como Prevenir a Contaminação&nbsp;&nbsp;Campo Grande NewsInfecção por Salmonella pode causar intoxicação grave e até a morte&nbsp;&nbsp;MetrópolesSalmonela: bactéria causa mais de 90 mil infecções por ano; veja como evitar a contaminação&nbsp;&nbsp;diariodopara.com.brSalmonella pode causar infecções graves e até levar à morte; especialistas alertam para cuidados com alimentos&nbsp;&nbsp;Ceará Agora",
+      "summary": "Salmonella: Riscos, Sintomas e Como Prevenir a Contaminação&nbsp;&nbsp;Campo Grande NewsInfecção por Salmonella pode causar intoxicação grave e até a morte&nbsp;&nbsp;MetrópolesInfectologista do Humap faz alerta sobre riscos de Salmonella em MS&nbsp;&nbsp;JD1 NotíciasMorte por Salmonella: Humap-UFMS alerta para riscos de contaminação alimentar&nbsp;&nbsp;A Crítica de Campo GrandeSalmonela: bactéria causa mais de 90 mil infecções por ano; veja como evitar a contaminação&nbsp;&nbsp;diariodopara.co",
       "sources": [
         {
           "name": "Campo Grande News",
@@ -122,6 +206,30 @@
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRDVGOElmYUwwOUFDZFo1bnRua0N4ZVlnVjdlY0dVTzdLdzAwcWFXS3AyVS1Cd1ZnaW1oNjhNSVdTYlZmYTJXYmdSSkFGLXhBc3JsV0F3SnNuYjRPWXVCMS1YUWd1OUo5Q0pndHBRNlRwb2IteUQzb1JBZGFoazF5SlQ5OTQ0X0VtTEE1V3BuYW9SR21tcjhtR2Z0N2pLeC0xVTZBT2dyVzZRNFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "979946e99c8d",
+      "title": "PL que inclui hospitais na carreira de C&T vira alvo de disputa entre servidores da Saúde e Ciência - JOTA",
+      "published": "2026-06-25T12:49:48+00:00",
+      "summary": "PL que inclui hospitais na carreira de C&amp;T vira alvo de disputa entre servidores da Saúde e Ciência&nbsp;&nbsp;JOTA",
+      "sources": [
+        {
+          "name": "JOTA",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWGw4WlVVZmdERV8yRGRtRzB1SHlQbXc0bmYwQWhqTnIzNmM3T201a01jcU9kNUZvQjZMaGRTaEVVUUNjSWE2aHltUWJTcWhEVzhCdXJ3SHBDVVNMZGt5dkRjcUFKOEZaUGJuV21Xak9rMGVSYzF2LXRCWXRyRTh6aHZ0aGstcU9vZFRuZWNEeHVmSWVvdXN4YzJFd0NkTHZjUlQ4NllId3kzRGJhSUVFMmY1aHliOTZtWENaRTZjeHRrNW5rb2hqMzVZaFc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "112b701c189c",
+      "title": "'Era meio-dia perdido': terapia reduz tratamento de câncer a 10 minutos - UOL",
+      "published": "2026-06-25T11:15:00+00:00",
+      "summary": "'Era meio-dia perdido': terapia reduz tratamento de câncer a 10 minutos&nbsp;&nbsp;UOL",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNHczdW9XMGZsVVdkMk9VVzBqMjMtNTJpMGJkcEFVYjJLV3NQRmh2UUVRa2NKZXpldTU3R3l0Vll4RXlqR3pHanY5VjY2eUczTFp5dk5CZXNaM0UwRkdXU29ReXRNVVNlNnlxdFZoR29rSlJCWk5XWE9wcUM4bk92b3JVYmFfcU5pNk5BOWc1VXJveG9neWsyeHVOcENiRFdrSDY0UkxhcG5UZFNZRnJwaUVIYmZwQ1Qzam8xN2NBTFBJbzRCQWVzNGF4N0xRU2Uxc3c?oc=5"
         }
       ]
     },
@@ -153,7 +261,7 @@
       "id": "970201807d0c",
       "title": "Cidade inicia aplicação da vacina Pneumo 20 a partir de segunda-feira - Marília Notícia",
       "published": "2026-06-25T08:03:49+00:00",
-      "summary": "Cidade inicia aplicação da vacina Pneumo 20 a partir de segunda-feira&nbsp;&nbsp;Marília NotíciaCuiabá inicia vacinação com a Pneumo 20 em todas as Unidades de Saúde da Família nesta sexta-feira (26)&nbsp;&nbsp;G1Pneumo 20 no SUS: o que você precisa saber sobre a nova vacina — Ministério da Saúde&nbsp;&nbsp;GOV.BRSaiba detalhes da vacinação infantil contra pneumonia e meningite&nbsp;&nbsp;VEJA RIOPrefeitura informa disponibilidade da vacina Pneumo 20 a partir desta quarta (24)&nbsp;&nbsp;uberlan",
+      "summary": "Cidade inicia aplicação da vacina Pneumo 20 a partir de segunda-feira&nbsp;&nbsp;Marília NotíciaPrefeitura informa disponibilidade da vacina Pneumo 20 a partir desta quarta (24)&nbsp;&nbsp;uberlandia.mg.gov.brCuiabá inicia vacinação com a Pneumo 20 em todas as Unidades de Saúde da Família nesta sexta-feira (26)&nbsp;&nbsp;G1Saiba detalhes da vacinação infantil contra pneumonia e meningite&nbsp;&nbsp;VEJA RIOPneumo 20 já está disponível no SUS para crianças menores de 5 anos&nbsp;&nbsp;Metrópoles",
       "sources": [
         {
           "name": "Marília Notícia",
@@ -177,7 +285,7 @@
       "id": "9edeaf157cf1",
       "title": "Uma única noite sem dormir já afeta as conexões do cérebro; entenda como o sono pode ‘reiniciá-las’ - O GLOBO",
       "published": "2026-06-25T07:30:34+00:00",
-      "summary": "Uma única noite sem dormir já afeta as conexões do cérebro; entenda como o sono pode ‘reiniciá-las’&nbsp;&nbsp;O GLOBOUma noite sem dormir já afeta o cérebro; veja como minimizar o impacto&nbsp;&nbsp;TerraPrivação de sono modifica atividade cerebral e aumenta demanda de energia, aponta estudo&nbsp;&nbsp;TNH1Vozes da Psicologia | A saúde mental começa na noite anterior&nbsp;&nbsp;Jornal do AveUma noite sem dormir já altera conexões do cérebro, aponta estudo&nbsp;&nbsp;Tribuna do Sertão",
+      "summary": "Uma única noite sem dormir já afeta as conexões do cérebro; entenda como o sono pode ‘reiniciá-las’&nbsp;&nbsp;O GLOBOSeu cérebro muda quando você passa a noite sem dormir. Veja como&nbsp;&nbsp;SuperinteressanteUma noite sem dormir já afeta o cérebro; veja como minimizar o impacto&nbsp;&nbsp;TerraPrivação de sono modifica atividade cerebral e aumenta demanda de energia, aponta estudo&nbsp;&nbsp;TNH1Vozes da Psicologia | A saúde mental começa na noite anterior&nbsp;&nbsp;Jornal do Ave",
       "sources": [
         {
           "name": "O GLOBO",
@@ -201,7 +309,7 @@
       "id": "1e887f5b4dbf",
       "title": "Nova no SUS, vacina que previne bronquiolite já reduziu em 16% casos graves em bebês - O GLOBO",
       "published": "2026-06-25T07:30:16+00:00",
-      "summary": "Nova no SUS, vacina que previne bronquiolite já reduziu em 16% casos graves em bebês&nbsp;&nbsp;O GLOBOVacinação contra Influenza e Vírus Sincicial é disponibil...&nbsp;&nbsp;Prefeitura Municipal de TietêVSR em lactentes: segurança da vacina materna e do nirsevimabe&nbsp;&nbsp;Afya | HomePrefeita Mariana Canella reforça a importância da vacinação de gestantes contra a bronquiolite&nbsp;&nbsp;Prefeitura de Belford RoxoBronquiolite e pneumonia exigem atenção durante o frio&nbsp;&nbsp;Jornal de Bel",
+      "summary": "Nova no SUS, vacina que previne bronquiolite já reduziu em 16% casos graves em bebês&nbsp;&nbsp;O GLOBOVacinação contra Influenza e Vírus Sincicial é disponibil...&nbsp;&nbsp;Prefeitura Municipal de TietêVSR em lactentes: segurança da vacina materna e do nirsevimabe&nbsp;&nbsp;Afya | HomeBronquiolite e pneumonia exigem atenção durante o frio&nbsp;&nbsp;Jornal de BeltrãoVacinação durante a gestação ajuda a prevenir bronquiolite&nbsp;&nbsp;Portal ABC do ABC",
       "sources": [
         {
           "name": "O GLOBO",
@@ -234,18 +342,6 @@
       ]
     },
     {
-      "id": "59bd0f11b016",
-      "title": "Tratamento usado no combate ao câncer pode reverter os cabelos grisalhos? O que diz a ciência - Portal 6",
-      "published": "2026-06-25T05:45:03+00:00",
-      "summary": "Tratamento usado no combate ao câncer pode reverter os cabelos grisalhos? O que diz a ciência&nbsp;&nbsp;Portal 6",
-      "sources": [
-        {
-          "name": "Portal 6",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPREE4VEhnMndsd3M5Z3FwYURQckFfMVVBZV9FWUh1b1NCSHlBeDgzcUl1OXVoZWtHbFlUNHpWT0FZamdMeHRkeExDUXpRUlZjQ1g1Mlk1bll6VVpfTFZGQ1A4QmFyQ2tTQnlZYzg4RzZQMHo0Z1R4WE9jMEp5aldpOW9JN3BEQ3MwdjJiWEpDbWU0dWRSMXAyTWJMblNjaEdZZkJ4SWQ3anNEMVJ5ZnhPVFdIOGg1YUZ6Yzc1X0RPWG5aeDdNdFE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "128f07741685",
       "title": "Esse tumor raro confunde médicos ao produzir dentes, cabelo e tecidos humanos completos - R7",
       "published": "2026-06-25T03:02:57+00:00",
@@ -270,6 +366,18 @@
       ]
     },
     {
+      "id": "ebf1f8531936",
+      "title": "O que está por trás da suspensão da vacina da dengue pelo PT - Revista Oeste",
+      "published": "2026-06-25T01:00:00+00:00",
+      "summary": "O que está por trás da suspensão da vacina da dengue pelo PT&nbsp;&nbsp;Revista OesteVacina contra a dengue é alvo de desinformação após suspensão do governo&nbsp;&nbsp;UOL NotíciasÉ #FAKE que vacina da dengue foi aplicada como 'experimento' e usou população como 'cobaia&nbsp;&nbsp;G1Vacinação contra a dengue segue disponível em SC após suspensão de imunizante do Instituto Butantan&nbsp;&nbsp;AcaertVacina da Dengue Butantan-DV: Idosos Acima de 60 Anos em Foco em Novo Ensaio Clínico Seguramente A",
+      "sources": [
+        {
+          "name": "Revista Oeste",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc3VQdjd1ODRERmJ0blA5TUFib1JjdWJydDNXTEhVNlJRYlZjRFhlNGlrLUZEa0pzODYtX1l2R25nWE4zd0ttUzg5Q2ZBWUNMOFhuazRJR1c4UnAzRUJnMkUxNWs4Y09qSXoyZ1Vfd0VZbFhfZW5lYk5lbVdxY2lxUTN5QUt3aXI3SGVQOG8zN2lQcUpPMmxGRmJaLUZSZkU?oc=5"
+        }
+      ]
+    },
+    {
       "id": "489bfed4a97d",
       "title": "O que a aparência das fezes pode dizer sobre a sua saúde? - Portal Drauzio Varella",
       "published": "2026-06-24T21:44:30+00:00",
@@ -278,18 +386,6 @@
         {
           "name": "Portal Drauzio Varella",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb0E3OFNVYm9ZVHl1bWZZWlR4U2RiV3JpNFVYYl8yaW1uVllfMjNHcXh3U0RmalRfbi1BOEJQdWJDd3hWcEczRk4yUk5BdEpZT1B6NEN2Nlp3N3RNM2tLZ1EwaVRrN3h5d3FqVWNUYTJxaDR0bkE0eDcta1E5elV6NDRSamRneE0wNVp3STlOTGVSQU1hUml1SXdDdkczRFU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "17c1e027a557",
-      "title": "A primeira fábrica de baterias de lítio-enxofre do mundo sai do papel e promete dobrar a autonomia sem depender da China - CPG Click Petróleo e Gás",
-      "published": "2026-06-24T21:11:00+00:00",
-      "summary": "A primeira fábrica de baterias de lítio-enxofre do mundo sai do papel e promete dobrar a autonomia sem depender da China&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQYnFCT1R2NWVCa3c3bkgyc0ZNdEJCeTkzVkN1SEZ5TXZUektSTzJabG1YaFFBdGY3dnZmQ3E1U0JBc1oxT3FuQmJ0WWZyUUYxZ2x0QW1DenRLd0FQd1d2WThZQkxLZy12bmVCT2duU2haV0ZJdUd4YXVaNkZqclBqdWNEa1UxZDJlZlF4Tk9nSHhmTVdTT0RqTHBrcTFiQlBhTTV3NG84elFoem5LVmlmU0x4WFV5QUd5YlRHQjk1VUVHQzNwaUxZQThXVjFwa2Yzc09SUUdSS3BIU1FQYUVMVlZCWFlHNjN2MThZOEhXRnVBSTg?oc=5"
         }
       ]
     },
@@ -306,34 +402,10 @@
       ]
     },
     {
-      "id": "6cd58aa54dc9",
-      "title": "Mercúrio virando ouro deixou de ser só fantasia de alquimista em estudo de fusão nuclear, que propõe usar nêutrons de tokamak para criar ouro-197 estável, mas o caminho entre promessa bilionária e usina real ainda é cheio de incertezas - CPG Click Petróleo e Gás",
-      "published": "2026-06-24T19:51:00+00:00",
-      "summary": "Mercúrio virando ouro deixou de ser só fantasia de alquimista em estudo de fusão nuclear, que propõe usar nêutrons de tokamak para criar ouro-197 estável, mas o caminho entre promessa bilionária e usina real ainda é cheio de incertezas&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQdkxjeWJMZjc0TzdYT1YtdTlKVDIxYjlWT3A4eE5lQUJPMVYzNGR2VV9TcU41YzR3Nzc2Z3doaDdNaDVzc3ZaN1BrMU1ZNkFQQ1hRSTZ3aWs2cE5Tbk0yd2FiYXQ5WmpNTTFDa3NYNGpsOGxUYU9aWDhMUzI4amVoS0wwY1NvamdrY1NQWVRBS0ZBeWJJMW1kalM5Zl9Va2xnbjVqbXdGRzlKZkRJa2pLTlZzUjF0TWZMbDlzNnk2RDlONjhfVHdDZmVCLTh6TjhvbHlnMnNBSC15OEhmSThsMzJTY2dNRmFNRjdxcnh2cmdLLU5ZOVFZbHR3TzdHV1hqT2ZaQ3Exb1V4Z0I4MnhLRm9YMkg5cG1rcDh5Um5Jd3pxeU1VbGVYaXNScW9yMHRmTkptcXpDUWhJckRNRDlmWml5SQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "583b0de52e31",
-      "title": "Hospital reduz sedativos de menino atingido por trave em SC para avaliar condições neurológicas - NSC Total",
-      "published": "2026-06-24T19:36:00+00:00",
-      "summary": "Hospital reduz sedativos de menino atingido por trave em SC para avaliar condições neurológicas&nbsp;&nbsp;NSC Total",
-      "sources": [
-        {
-          "name": "NSC Total",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZlB3bFZ1TTdIaTVKSm83dFhKNERyVzhNX0JodThZbEduTWhMb05kRWIteGVRY2RmNVh3bVVFZU5qOExMTnk0azFQVHRJc2YyTm9qSDBOcS0wMzROR05ZWjFZb2FITDJrM0RDRFpMQUNSeHd0cDFpa2dpRnRfRHRJdlZPSUx1X0lyMEc4WnRtbGlGVlc1TDVsQVRsX1BlNFEtN0NvcjJ0MTRUTnZyVjl0bXE3Vllyb01JQWV1OXhETVdzZjdNYzVLbE9HZ3Y?oc=5"
-        }
-      ]
-    },
-    {
       "id": "236eb280fb62",
       "title": "Frio intenso aumenta risco de infarto e AVC - DIARINHO",
       "published": "2026-06-24T19:31:52+00:00",
-      "summary": "Frio intenso aumenta risco de infarto e AVC&nbsp;&nbsp;DIARINHOEspecialista explica como o inverno favorece casos graves de infarto e AVC&nbsp;&nbsp;G1Inverno: proteja-se de doenças respiratórias e alergias com limpeza essencial&nbsp;&nbsp;CASA.COM.BRInverno agrava sensação de pernas pesadas: dicas para aliviar os sintomas&nbsp;&nbsp;TerraFrio eleva risco de infarto em até 30%; veja cuidados&nbsp;&nbsp;Correio do Povo",
+      "summary": "Frio intenso aumenta risco de infarto e AVC&nbsp;&nbsp;DIARINHOInverno 2026: como reduzir riscos em casos de doenças respiratórias&nbsp;&nbsp;CNN BrasilInternações por doenças respiratórias em Porto Alegre têm alta de 55% com a chegada do frio&nbsp;&nbsp;GZHEspecialista explica como o inverno favorece casos graves de infarto e AVC&nbsp;&nbsp;G1Inverno: proteja-se de doenças respiratórias e alergias com limpeza essencial&nbsp;&nbsp;CASA.COM.BR",
       "sources": [
         {
           "name": "DIARINHO",
@@ -366,18 +438,6 @@
       ]
     },
     {
-      "id": "e710cf5ea43c",
-      "title": "1ª Jornada de Gestalt-terapia em Mato Grosso do Sul - Campo Grande News",
-      "published": "2026-06-24T19:11:00+00:00",
-      "summary": "1ª Jornada de Gestalt-terapia em Mato Grosso do Sul&nbsp;&nbsp;Campo Grande News",
-      "sources": [
-        {
-          "name": "Campo Grande News",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSVdnajVWR2x2NE5YaWJQU1BXM3p2d0VvODdzdjRrZG84MlhNdWZYS3lnVUpRX0JCZlRTVmJCcl9wWUdvbTdmMF9MaFRqRkNVQkNpTFlEWjZidm9pcGZ1Q2pldVFyam5WemtTTV9rLWlGc01rdGNtUXVPelNOQXM5cDNlVnhKWUpyWFdNODU5U0RDSmxHMGM2enktMWtzbWUtYnlBU2ROS2JyVmdIZjMwdWRJOEh0R2vSAbcBQVVfeXFMTkREX3ZkcTVBMWxlQ2d1bFpNQTN0T0dVQ09wWVY3T2ViUjMwRTRnd0Q1NTdHRDFuTFZueE5XSUg4XzhzVHVIeVNWeEpCakFYWEItSC0zSDhMR0ZFaHBaSDNqMkw2bmoxc05ZUkVIMmplcmNITnlHTkV2aU1MT0xUVDBGaEJ4bUI3TDNudWJYb0VXLTdDYnVPTkc3b2NJRW1DS255SlZyQmNMM3NuZU5CYWplUUlaSThR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d63b418f2120",
       "title": "Quando o emocional vira sintoma físico: neurologista explica a relação entre mente e sistema nervoso - Assiscity",
       "published": "2026-06-24T16:36:17+00:00",
@@ -393,7 +453,7 @@
       "id": "0dd6faa9c1da",
       "title": "Menopausa: entenda como funciona remédio sem hormônio aprovado pela Anvisa - CNN Brasil",
       "published": "2026-06-24T16:10:33+00:00",
-      "summary": "Menopausa: entenda como funciona remédio sem hormônio aprovado pela Anvisa&nbsp;&nbsp;CNN BrasilAnvisa aprova novo medicamento para ondas de calor da menopausa #shorts #falabrasil&nbsp;&nbsp;R7Anvisa aprova primeiro remédio não hormonal contra fogachos; entenda como ele age no cérebro&nbsp;&nbsp;G1Todas as postagens marcadas \"tratamento sem hormônios\"&nbsp;&nbsp;Portal UAICalorões da menopausa: por que a aprovação de novo remédio deve ser comemorada&nbsp;&nbsp;Estadão",
+      "summary": "Menopausa: entenda como funciona remédio sem hormônio aprovado pela Anvisa&nbsp;&nbsp;CNN BrasilAnvisa aprova primeiro medicamento não hormonal para ondas de calor na menopausa&nbsp;&nbsp;G1Anvisa aprova novo medicamento para ondas de calor da menopausa #shorts #falabrasil&nbsp;&nbsp;R7Menopausa: Anvisa aprova remédio sem hormônio para fogachos&nbsp;&nbsp;Correio do PovoSaiba o que significa a aprovação do uso de novo medicamento que trata efeitos da menopausa&nbsp;&nbsp;Estadão",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -402,22 +462,10 @@
       ]
     },
     {
-      "id": "70d74c4bda13",
-      "title": "Conheça as vantagens e os riscos da tendência de comer mais fibras - Folha de S.Paulo",
-      "published": "2026-06-24T16:00:00+00:00",
-      "summary": "Conheça as vantagens e os riscos da tendência de comer mais fibras&nbsp;&nbsp;Folha de S.PauloVÍDEO: para que servem as fibras alimentares e onde encontrá-las&nbsp;&nbsp;Veja SaúdeQuais os alertas silenciosos do excesso de fibra no corpo, segundo cientistas&nbsp;&nbsp;Globo.comAs vantagens e os riscos da tendência de comer mais fibras&nbsp;&nbsp;TerraFibermaxxing: nutricionista avalia tendência do alto consumo de fibras&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbV83MS14T3l0ZXl5U1k4NXNxeC1mU2hLSE1oZFVNODVDWmlRS2JJcXBsUW9iVXhZMkRUd2dlUUJLQXNLMWZnZ2hkQUw3TVYxLWlSUjFKRkVSelk2dUFXbXJrOS10cmJETkRRRWZZekVVUmFvak9HSlZvMUdpTnNLMXNGTk85OWFuY3ZTa2ctamtXc3VpZTBfZzFTX0FpYS1mbHFKR2I4YWhoNG9ua0tWRmlyZTFjdFU1MGRjaFR3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9b850c91f30f",
       "title": "O que muda com a liberação da vacina da gripe no Paraná? - Tribuna do Paraná",
       "published": "2026-06-24T14:46:00+00:00",
-      "summary": "O que muda com a liberação da vacina da gripe no Paraná?&nbsp;&nbsp;Tribuna do ParanáA partir de segunda-feira, vacina contra a gripe será liberada para todos em Curitiba&nbsp;&nbsp;Prefeitura de CuritibaBarra Mansa amplia vacinação contra a gripe para grupos prioritários&nbsp;&nbsp;G1Governo do Paraná reforça campanha de vacinação contra gripe nas escolas estaduais&nbsp;&nbsp;Governo do Estado do ParanáCom cinco mortes por doenças respiratórias em 2026, Caxias do Sul ainda registra baixos índic",
+      "summary": "O que muda com a liberação da vacina da gripe no Paraná?&nbsp;&nbsp;Tribuna do ParanáA partir de segunda-feira, vacina contra a gripe será liberada para todos em Curitiba&nbsp;&nbsp;Prefeitura de CuritibaGoverno do Paraná reforça campanha de vacinação contra gripe nas escolas estaduais&nbsp;&nbsp;Governo do Estado do ParanáCianorte antecipa vacinação contra a gripe para moradores neste sábado (27)&nbsp;&nbsp;G1Com cinco mortes por doenças respiratórias em 2026, Caxias do Sul ainda registra baixo",
       "sources": [
         {
           "name": "Tribuna do Paraná",
@@ -429,11 +477,23 @@
       "id": "93861317edb5",
       "title": "Ministério da Saúde inclui segunda dose de reforço contra poliomielite no Calendário Nacional de Vacinação - GOV.BR",
       "published": "2026-06-24T14:36:00+00:00",
-      "summary": "Ministério da Saúde inclui segunda dose de reforço contra poliomielite no Calendário Nacional de Vacinação&nbsp;&nbsp;GOV.BRCalendário de Vacinação: Ministério da Saúde inclui 2° dose de reforço contra poliomielite&nbsp;&nbsp;G1Crianças com 4 anos devem receber mais uma dose da vacina contra pólio&nbsp;&nbsp;Agência BrasilSUS volta a oferecer reforço contra pólio para crianças com 4 anos&nbsp;&nbsp;MetrópolesCrianças de até 5 anos terão reforço da vacina contra a pólio&nbsp;&nbsp;R7",
+      "summary": "Ministério da Saúde inclui segunda dose de reforço contra poliomielite no Calendário Nacional de Vacinação&nbsp;&nbsp;GOV.BRSUS volta a aplicar duas doses de reforço da vacina contra a pólio&nbsp;&nbsp;Agência BrasilMinistério da Saúde inclui 2ª dose de reforço contra a poliomielite&nbsp;&nbsp;G1Doença erradicada há décadas no Brasil passa a ter dose extra para crianças; saiba o motivo&nbsp;&nbsp;NSC TotalCrianças de até 5 anos terão reforço da vacina contra a pólio&nbsp;&nbsp;R7",
       "sources": [
         {
           "name": "GOV.BR",
           "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQcXJOYkxudHFJeUVsVDB6Rlp0RExmRFhYcDBEeXJ4c21YSExvRGtSOXJfNHB1U3FDeGk1TWJLLXZ6US1SQTlxX2U0WFNsVzVFQ3ZvbktnZlpoU1luTXVMYUtpMVhCaHpuNkhMdFl4dXNQRXpyOC1qQXVLRzh3VFlnaTZfWTM4bzVqNEx3SExmazdRdTdfazM2a09zTktWTTNFeGU4aW9YT0JfZGtpeFFLZUl4N0pmSzVEdDZiS2s0ZFlmMjdvV3RtT1RUdVlYclZFZExRcXlDZS1sbGpXZVBiYzNBSXd3UGZNemp0M1NHYkcxQm5uUkVqVl9B?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2fec1ebefe0a",
+      "title": "Quais os alertas silenciosos do excesso de fibra no corpo, segundo cientistas - Globo",
+      "published": "2026-06-24T14:00:25+00:00",
+      "summary": "Quais os alertas silenciosos do excesso de fibra no corpo, segundo cientistas&nbsp;&nbsp;GloboVÍDEO: para que servem as fibras alimentares e onde encontrá-las&nbsp;&nbsp;Veja SaúdeAs vantagens e os riscos da tendência de comer mais fibras&nbsp;&nbsp;TerraFibermaxxing: nutricionista avalia tendência do alto consumo de fibras&nbsp;&nbsp;MetrópolesProteína e fibra: conheça 5 alimentos que combinam os dois nutrientes&nbsp;&nbsp;O GLOBO",
+      "sources": [
+        {
+          "name": "Globo",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNb2hDRkgtbUEyZzlBc3RMZlRKUXF1M09VNlprdEpxNUFSTGU1aWZuMDBPNFg4LXRiTDc5cGNPTHZvTF81ZFJad2FZdzhuaUVsaE5yYnZWYkFqUmIwZ3hVbEktVW5Ya2xDUVJuVXBSTUZLTFhudGpPTHBpbVVhNjdmcEpWUUp1djdRYmVqOUJnX1FLbURCNHlwTXl0VllJcWhEQUFwbXQyTVhOWTFaS3RFNlV1WHFkU2JfWk5HSlV1dXEzeXVkX0o5bTNoREdjMlQ1bk5B0gHiAUFVX3lxTE1yQ1lNTG85R2VHdFZjQ2QzOWh5NEoyalFEc20wa0dRYmdlTjdpU0w1bl9DSjhCaGE1VHVWVEZyS3I4bk43MU9FdU5YQnNPMmdHamxXbm1aSkEtRG40aUxMZTFrVE5uUDR3MEFZRWVNNVF5QXJmSnZjbGdndEpXQ2FybWVINVNKQmJfZVRLZ1hGWXh6VzFSRTFVMlhhZE90T2I5dl9BVU1TZnlaa0xZVnREWmF5S3ljRldqQXlXUDlLMlQ3Tl9zaXpuRDFuanR2ZDlGbE9rZHpCQ0lvV2dPOVlRcGc?oc=5"
         }
       ]
     },
@@ -446,54 +506,6 @@
         {
           "name": "ICL Notícias",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15M3dESEZIOXFYZzNITmlqRkp2LTRKQ194OTY1ejVDTXo5c2ZTdFEwNExJWHRjTUthNDZGd3ZtdGoycGJJdVk2ZEliTWVVXzJpOTZvcGVZSXdsMTdiMFVHRU82NDJCYXNfa3NpemZnRzM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "43bacf5b741d",
-      "title": "Atividade física ao longo da vida reduz risco de depressão na velhice - Agência FAPESP",
-      "published": "2026-06-24T03:01:41+00:00",
-      "summary": "Atividade física ao longo da vida reduz risco de depressão na velhice&nbsp;&nbsp;Agência FAPESP",
-      "sources": [
-        {
-          "name": "Agência FAPESP",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRk1kMmJ4aXpEdEJ2OTF1TjY1bUtUcjRCR205RjRUc3RPZV85R1hjbk9BSDdZUnlCU092UVA1bWl4TjdScHZWTXFpY19zYmJyV2pLeHJTbUxCWnpZa0Z4TzlBQ3o4cFlEaGJGRFZTSHFoUUtTaVlUaHhlUURHMEFsaV85eVU3c3lKa3ZrUkxMYXBVckdhaWZKakg1Vko0NTlmdHZN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6b9658a22d7e",
-      "title": "Pesquisadores identificam ‘enrijecimento do tipo Higgs’ em transições de fase - Agência FAPESP",
-      "published": "2026-06-24T03:01:41+00:00",
-      "summary": "Pesquisadores identificam ‘enrijecimento do tipo Higgs’ em transições de fase&nbsp;&nbsp;Agência FAPESP",
-      "sources": [
-        {
-          "name": "Agência FAPESP",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOHVFWXZzcjBlSnRSeVZwX2duQkVucXU4bTVfd0tUV3p0MnhQUnRLLU5mS2FXWW9STkd4bk9DQ216UXF5NE8ySkFGTGE1aFBjY1JQQ29NNENvWkZUenNONHVESWFScW1fQlNOUWxrSU1QTERmUlYzclRVcmVMY1NkTWZ2cDJBMEZnaElxUGlrYV81Wmc4YUltUFFab3lGNGNxbGtidWNLOWFwSDQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3b9628c4f7a6",
-      "title": "Luz acesa na madrugada pode ser mais perigosa para o coração do que parece - Jornal Correio",
-      "published": "2026-06-23T23:15:31+00:00",
-      "summary": "Luz acesa na madrugada pode ser mais perigosa para o coração do que parece&nbsp;&nbsp;Jornal CorreioVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQVRQZTVTaVExbDh0ZVVkeUdMNmMtdW94aUZfdkxBVV9BU3ByVFRWcEh2ZVk2UDQtRlZKZVlpcHJPV3dtaVhzWm9YaW8ydEhSTnRYT18zZ0VrZDRsVGJZTk1ZLU1ReDZlSVg0VEx2ajJBQWc5Z1AtaUlKRHlzSGxia18tVlVmV0tTVTFmbGJjajVLYkJkTW5Ic1ZDdUFGVTB1S0UwdDROdTJ0OGs4X1QzLWNJRnM4bGdlOGt6Q2l3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "63ad8d678f23",
-      "title": "Sesau abre seleção para 40 bolsistas no PET-Saúde Clima - Campo Grande News",
-      "published": "2026-06-23T21:26:00+00:00",
-      "summary": "Sesau abre seleção para 40 bolsistas no PET-Saúde Clima&nbsp;&nbsp;Campo Grande News",
-      "sources": [
-        {
-          "name": "Campo Grande News",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdUVYSFZ5ZVdaV3JHazVROW05bmxaajJmNm9FaWxoOWl3eEJVVzUxdTlmR3BLSWZlUXF0Y0lobHhyWWpQUGxlc1oxbFVJT0hJNVhJa0RRR1hhMTVKbUsyXy1RRnh2cWViQzlMMzY5R05WZzVJVWpYZUlrMXo5bkFzZ0JPQjBGSmtQSE1HNHppS1dXRHpad1hIM2NMOWR6dEhHRVEyWUxLbFFFVnlUR2szS0Z6dDRiN3NYQTBaRFBvSjbSAcABQVVfeXFMT0dPVWdVeVBKUzhOUGNSUXE1Sm5DTGlrQlRGend0RE9VMURLWHFDdU5qdDhKWWh2dFJMT0kyRzRhRkdTaTN6MWhMR2NHMEozNkVDUmEwVjhzLU9VeXpqVy0xd1lYeldlLVRrOGRGT1JrSmM5a3ZZR2RnZDQ4UnppLTgyVVlQbjRDQ0U4aV9qYnVCdFNXdUViU1Fuckp6ZU1lX1hiY2lFVHRIWHZHZ3I3ZXRDa3FsdDFFdGZaSEhxd1pi?oc=5"
         }
       ]
     }
