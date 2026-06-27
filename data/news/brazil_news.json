@@ -1,9 +1,9 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-06-27T03:38:15.664092+00:00",
-  "total_fetched": 83,
-  "unique_count": 82,
-  "health_related_count": 28,
+  "fetched_at": "2026-06-27T08:38:13.586999+00:00",
+  "total_fetched": 80,
+  "unique_count": 79,
+  "health_related_count": 23,
   "news": [
     {
       "id": "d6163c5635a7",
@@ -66,38 +66,26 @@
       ]
     },
     {
-      "id": "6b97c3743c75",
-      "title": "Lúcia Helena: Mudanças climáticas: como elas podem afetar quem tem um câncer? - UOL",
+      "id": "3051a8bfa75d",
+      "title": "Ministério recomenda vacina contra sarampo para bebês em SP e Guarulhos - UOL Notícias",
+      "published": "2026-06-26T13:47:15+00:00",
+      "summary": "Ministério recomenda vacina contra sarampo para bebês em SP e Guarulhos&nbsp;&nbsp;UOL NotíciasApós 3 casos confirmados de sarampo em SP, Saúde recomenda vacina a bebês em dois municípios&nbsp;&nbsp;Folha de S.PauloApós casos de sarampo, Secretaria da Saúde orienta vacinação da tríplice viral em bebês de 6 a 11 meses em SP e Guarulhos&nbsp;&nbsp;G1Sarampo: Saúde pede dose extra de vacina em crianças de SP e Guarulhos&nbsp;&nbsp;Agência BrasilSarampo: Saúde pede reforço de vacinação de crianças e",
+      "sources": [
+        {
+          "name": "UOL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOc1d0Y2ljZS1SQ29kZVJKOXE5b1B6dXo0MVhval9XYmQ0QmJGMDNFU2NIU3JaZDJMRGZSTzBOWG9wN2JXV0Jad0cwUXJvUnpQQVpPZFFvaldzVlVES1Z5M0thLVEtcWJRNWR3dmRaaTByMXB1YnBBUUJEUGlCNXRhRWpick1Ob2F4WnVId3N2UDNWaUIyWkJHdzRWLUJNdzZSUm5lVFZsYW9yT3BkX1Vvc01rTFpzakZiT3BlZU1mS0NpZ3Z4amdKQ0xrb1NwQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "57fef66ade18",
+      "title": "Lúcia Helena: Mudanças climáticas: como elas podem afetar quem tem um câncer? - uol.com.br",
       "published": "2026-06-26T12:30:00+00:00",
-      "summary": "Lúcia Helena: Mudanças climáticas: como elas podem afetar quem tem um câncer?&nbsp;&nbsp;UOLFernando Maluf | Os fatores de risco invisíveis do câncer&nbsp;&nbsp;Poder360",
+      "summary": "Lúcia Helena: Mudanças climáticas: como elas podem afetar quem tem um câncer?&nbsp;&nbsp;uol.com.brFernando Maluf | Os fatores de risco invisíveis do câncer&nbsp;&nbsp;Poder360",
       "sources": [
         {
-          "name": "UOL",
+          "name": "uol.com.br",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMVV0LUlMWk12Tkh6TlB4ZkRpd3BpSlU5THN1WlYzRVVPZVZfc3R5dFNDMTB2Sld1blFRRzJScE5BR3hsWlA4cWhuc3M4bDFGNThoR3REcy1WUGxadjYzVVIxNTR6ZllsLVI4U1VBb2MtQk1RNjN2ZUFWOFBOQ2hiZjhNOXpVTzdUd05FRHU1Mm5nQ2FxYm9hMlBPNHR6QkFIU1dFZDZZRnRrUlBVZ3NKbmIxNUFYTHJfTXV5cDhmMTdGTzF1QUhZ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4efbbfd4419a",
-      "title": "Ministério da Saúde recomenda reforço da vacinação contra o sarampo para crianças em São Paulo e Guarulhos - GOV.BR",
-      "published": "2026-06-26T12:26:22+00:00",
-      "summary": "Ministério da Saúde recomenda reforço da vacinação contra o sarampo para crianças em São Paulo e Guarulhos&nbsp;&nbsp;GOV.BRApós 3 casos confirmados de sarampo em SP, Saúde recomenda vacina a bebês em dois municípios&nbsp;&nbsp;Folha de S.PauloSarampo: Saúde pede dose extra de vacina em crianças de SP e Guarulhos&nbsp;&nbsp;Agência BrasilApós casos de sarampo, Secretaria da Saúde orienta vacinação da tríplice viral em bebês de 6 a 11 meses em SP e Guarulhos&nbsp;&nbsp;G1Sarampo: Saúde pede refor",
-      "sources": [
-        {
-          "name": "GOV.BR",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQd2xmekJkbm5Jd21rRmFVajBSS0d5MVpEazFuZGdGNUYxZGpKeDVHODU0Ym1oNlI1cllzcFhzc1BjejNoYnRqS2RIbGY2MVVjVUI4NWRBbldCSEd2VHpTcXB4UjRsRDFzd1FERkpxR2E0bnl2VmdWUFdvRTJNcW9VZXAtUkgzWGExTjQ3QkI2ZUZFaUFMVTdvMnh6aUFYRVVCR3I1anZRZFBLN2hMdTFhMDg1UHZ4QXVYbHVsakZaR21nZnZxcFA4a25QRlhFRV9fdUc4U1VFMHJ4dW9rRHROcnJoWHc3OVNTY2xXOFkxR01LMGhrU0ZPcmVn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "591d5899ac21",
-      "title": "Asteroide gigante vai passar perto da Terra neste sábado (27) e pode ser visto; veja se há riscos - R7",
-      "published": "2026-06-26T12:01:32+00:00",
-      "summary": "Asteroide gigante vai passar perto da Terra neste sábado (27) e pode ser visto; veja se há riscos&nbsp;&nbsp;R7",
-      "sources": [
-        {
-          "name": "R7",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNamNiZnBIQ1JNaEFrM1NVeTNHRy1vODRZZjJQampzZzhkRlBQOEF4ZmtpT3ZRZ2JaVmlVUzlQS2RJT19kZE9xVURNc1lidmRSQ0ZoS2JYQ0tCel9BMzFuWnl0Sk5UcWVXSG9YLS1jMGZtYmlsMTM2M1Btdl9GcDgxbU9oN0pxUHpIOGd1SWllXzBGYjZ0d1U5RUlCYWo5Tm52Uk52UXp5S251Mm9iamdiMEE0N0Qxbzg4aFM3ZFNLOEEtSUgzcGh1Qm53eWhwX2ZMcUJWMFFqV3VuUQ?oc=5"
         }
       ]
     },
@@ -138,6 +126,18 @@
       ]
     },
     {
+      "id": "852ab51acf54",
+      "title": "Dia Nacional do Diabetes alerta para doença que afeta 16 milhões - Correio Braziliense",
+      "published": "2026-06-26T06:55:00+00:00",
+      "summary": "Dia Nacional do Diabetes alerta para doença que afeta 16 milhões&nbsp;&nbsp;Correio Braziliense1 em cada 3 pessoas tem diabetes e não sabe&nbsp;&nbsp;G1Equipes de saúde da prefeitura enfatizam papel de comportamentos saudáveis no combate ao diabetes&nbsp;&nbsp;Prefeitura de ManausControle da glicemia&nbsp;&nbsp;Portal da Alego26/06/26 - Congresso recebe iluminação azul pelo Dia Nacional do Diabetes&nbsp;&nbsp;Portal da Câmara dos Deputados",
+      "sources": [
+        {
+          "name": "Correio Braziliense",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNX2pBYWpRWTVSSXRhbGhYSnhkYXBMQWFGeThDTDg1UTg0WWh4YmFBTUctREZHUE1lS0s4RzlVWDdCVllmYlRfNGlWc29XUkRwZTZuMnFJSUxPNThYR1pURnYxY2ktV2hMaE12VW0zTlQ0NE9aZG1iVEhmNFZDdjZ0d1NkZ1VUVUM2UXU0ZExVTllKZzhWTFFPeGh2WDV2Yy15MmF2cHk3anNtaS1jV3ZybF9pckxUckEwUnd3UHlSRDlRRENFdy1vMkIzZ0LSAdIBQVVfeXFMT0JuNk5KTmE2VFVibEdLTmJ1Y2g4YkpzVi01cG04NmdrV182YUdfN0gtN29WUnJUT0N4bzZOaU9DaVFrMlR4WE5zRFROd085RVQ1WmpIUXByeW1xZ0p2UEcyRkdRZmRWRTZXR25yUzBOeVhKQm4zalUwYXJoNU03Vm5ZOTJEYm5PdzNkNjMxRVRrd014ZzQ2SU1LdHp5V0lUcnRjeWRtdGxaTUw3ckU3WjVBVWtDbzhHQXJZVzJLdzZUdUp1TDFMblQ5MmZKOHZoM09B?oc=5"
+        }
+      ]
+    },
+    {
       "id": "5438a979c67d",
       "title": "Como cientistas estão usando pombos para detectar câncer - R7 Entretenimento",
       "published": "2026-06-26T05:00:01+00:00",
@@ -150,26 +150,14 @@
       ]
     },
     {
-      "id": "6beb2f210163",
-      "title": "Mais velho que o Sol? Cometa 3I/ATLAS tem química nunca vista, diz estudo - UOL",
+      "id": "de2c856b9223",
+      "title": "Mais velho que o Sol? Cometa 3I/ATLAS tem química nunca vista, diz estudo - uol.com.br",
       "published": "2026-06-25T20:51:25+00:00",
-      "summary": "Mais velho que o Sol? Cometa 3I/ATLAS tem química nunca vista, diz estudo&nbsp;&nbsp;UOL",
+      "summary": "Mais velho que o Sol? Cometa 3I/ATLAS tem química nunca vista, diz estudo&nbsp;&nbsp;uol.com.br",
       "sources": [
         {
-          "name": "UOL",
+          "name": "uol.com.br",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPV3kybVFyVmlKSDRNM2xveHA1MEhnREVIYktKUUNQSGpQc3NNNVBuTXRQRVJZQWZHM1VIcktZUEE2cV96S01ja3NfQktiM1dPZDlEQWZFQXNsVkZMRWlMdnN3NS1nemlpaG1VZ3NYNGtPekEzVzZ1OTRST2EwVG5WeW9iLWFTQ0lBUm40dkJfeGFYX1pnRDV3MjJNV0J4OEFkQ0NxTS0tRHpBNzBZbkxFaGJPaU9fNTI3YjQwdnRZT2hTaWhYNTJhTUZYUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f3934c692722",
-      "title": "Conheça 5 sinais de câncer de pele que você nunca deve ignorar - O GLOBO",
-      "published": "2026-06-25T19:09:49+00:00",
-      "summary": "Conheça 5 sinais de câncer de pele que você nunca deve ignorar&nbsp;&nbsp;O GLOBOTudo o que você precisa saber sobre o tumor mais comum no Brasil&nbsp;&nbsp;Estado de MinasMancha e descamação costumam ser comuns no inverno, mas em alguns casos podem indicar câncer de pele;...&nbsp;&nbsp;SEGS Portal NacionalA eliminação do câncer de pele com precisão em tempo real&nbsp;&nbsp;O DocumentoMédica alerta para sintoma de câncer de pele que costuma ser ignorado&nbsp;&nbsp;jornalmetropolis.com.br",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWXlKd0RtQm9hRlFaR1BGSXozZTEwYmNGVnRpY3NMUVNaNkdFdHpQdm5Nb2pjU00zSTdKRHhBcGM1WGdKYU5nT3hIZkdoRVpxWFRUODhIc2JLUEk2SVRFS0pfM3EwMFJLQllkTk1OTE5LMXhLeGRlM0tHckxqTjJ4bVpWVF9XX3lpZjBlVm9LdThmWUhrdlg1dTZVNlpENTJBd0RKNFItYnk0RG41bTNBSWJPTnQ4RTdPZGfSAcgBQVVfeXFMTmktTjhnSkJpSy1feEQ5dTJObFlXT2hPSHJhdTYzcmlrZ3VKSTkzUkFTUm9EUEJMQjVYbGt2aVlCbUdRc3lLczlnVnZHYkRDUWRUWFlGZldlMks3a1dIQkotTkx6eUxObENMR0lhUVMzd0wtTTdmOUQ5dFVZcXZTRU4zNGlIbFFpRWstTUlveWszN2s5NUwzdldkbWprSEtBQXNRYzJvdHRPZGV0TmxJQWFQSXh0aUhHd0dVRXNLOXBlWlVnZ2kyMUI?oc=5"
         }
       ]
     },
@@ -186,38 +174,14 @@
       ]
     },
     {
-      "id": "1cad2f165c5e",
-      "title": "Descoberta de estudante superdotado de 10 anos em sala de aula será apresentada na Bienal de Matemática - RADAR DIGITAL BRASÍLIA",
-      "published": "2026-06-25T18:54:37+00:00",
-      "summary": "Descoberta de estudante superdotado de 10 anos em sala de aula será apresentada na Bienal de Matemática&nbsp;&nbsp;RADAR DIGITAL BRASÍLIA",
+      "id": "58422f6124e4",
+      "title": "Lei reconhece aves estudadas na Uesb como patrimônio genético de Itapetinga - uesb.br",
+      "published": "2026-06-25T16:45:51+00:00",
+      "summary": "Lei reconhece aves estudadas na Uesb como patrimônio genético de Itapetinga&nbsp;&nbsp;uesb.br",
       "sources": [
         {
-          "name": "RADAR DIGITAL BRASÍLIA",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNYnVuRDB2UnJZMzFGNFVHM1FraWJUVWE0OGR2MV9CcjZsSE9hd1QtUWdFdzRKdE9kc1RDYkVUdmJsaFdYUlVhOThmb25SNXZfamdhTUFHYkljcXdMa2FEYzRaOUI0RnBrb1RJTlZpbTRuQ0Q3MGowTVZOb2szeEFMVVJFa3hIMEpLTzU5NnNIUmNrWGNUMTRjSEV5Ni04bERVdTdNbm9Sd2docjEtQXFwY0VLa3JPSGlRc2luc1dYbUs2UV8xOGV2bHFDc3dUbTRnNzBwaFh0VGtvQWcwMUVDY0RR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "aca286c45cf5",
-      "title": "O material que elimina mais de 99% dos vírus e bactérias pode estar em ônibus e hospitais - Jornal Correio",
-      "published": "2026-06-25T16:34:21+00:00",
-      "summary": "O material que elimina mais de 99% dos vírus e bactérias pode estar em ônibus e hospitais&nbsp;&nbsp;Jornal Correio",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWHkzWF9HOWdWTWZhUV9VYmhzd2trSU5TWVEyd2hudlNUcl8ycFI3aEtVMGtKam1LQTdtSU9VTEZBZFR0c3ZwY1R5UHAycERmXzcyRjdSdm9MV2JTYUM3bzVjdEprQ3l4TnBmNnEzN1lHR0pBUGZZbV9vejdialcxTFpWWUNIQ2ZpUGptNzlxU09TQ1lJeHZPTWRxSzBMbTNZMDlhUmgtaTgwemdpbkl1bF96ZFdMcjJxM2tRd0MwV09BSTRrQU5CSTZUX1JsUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1b7d7fa1df28",
-      "title": "Remédio de diabetes pode frear perda de visão por idade, sugere estudo - Folha de S.Paulo",
-      "published": "2026-06-25T16:30:00+00:00",
-      "summary": "Remédio de diabetes pode frear perda de visão por idade, sugere estudo&nbsp;&nbsp;Folha de S.PauloDiabetes pode roubar a visão e só dar sinais quando os danos à retina já estão avançados; entenda o risco&nbsp;&nbsp;Jornal CorreioVisão em risco: diabetes pode causar cegueira silenciosa e exige acompanhamento regular&nbsp;&nbsp;A RedaçãoA visão embaçada que vai e volta ao longo do dia nem sempre é cansaço dos olhos: pode ser um sinal de glicemia descontrolada&nbsp;&nbsp;Tua SaúdeDiabetes mobiliza ",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRTg0VnFaYmctUC00WTczcG9ZYTZtQXNsOWZuTDJjM2lBWXgtd3NLZjlPd1NCNFVFakpxMUhKUW5wVk9jLXQ3dTRwdFJZNjhpb2FlWENtTFExVkhMR0hsMFI2cEhoY0szTGdpdmhLTDZGa212X2c1RGhzMFZPU1VwRTRMS0VHY2pRdkdIcHdqcUdNMkVybmJ0LXB0ci1oanJHcEgxUUFsOE9QelMwaWFOMFBiZHhPRmVRZ1Y4amFTWFA4Z0puR0NTRGdB0gHPAUFVX3lxTE9zZnRXeW9PODlNT2VUZ1VJN1hYMDd5SUY0V2FmMUFVNGxUVVFyeGlvMDl2UEx0T3N5dDhQZUNJXzlmRUU5OENGLUk0LWszeXhoRDFHTVRHSmN2RS1jb3lHRFdZSThSMVVuZHZXRXhLWExuZ2dubkNMeklwVUZ1bks2WnJ4UU9MREJKT0xCS3p0UTk1NmphT1d5OUstMEFyaHRBN2RqRkdtMTBoWXo5X29DamxUb2p2NVhYUXRFWmp4cVlQcmxSNWpLS2M1ZFdnTQ?oc=5"
+          "name": "uesb.br",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOejNNNjJudmFMMFpOeHJWVVY2ZnI5eTJ3NUZRSVZEdWdKcm9KQ1Y0ZXRjandxcHhBdGpLdFMwTG5uQWdiVUQzX0hsaEFjT1JkQzVfdWtjaEdqaU5xcmpsd3lNWFczdEVYVTBMVUI5SEtBUS1ackwzUkFmXzZzVkNaYTg1emVQRHhpTk9WSFZkY3RWQWNxWnJyenRnQi1WTHNJY0FuOHV4bmc?oc=5"
         }
       ]
     },
@@ -234,14 +198,26 @@
       ]
     },
     {
-      "id": "112b701c189c",
-      "title": "'Era meio-dia perdido': terapia reduz tratamento de câncer a 10 minutos - UOL",
+      "id": "021ce734644e",
+      "title": "'Era meio-dia perdido': terapia reduz tratamento de câncer a 10 minutos - uol.com.br",
       "published": "2026-06-25T15:15:00+00:00",
-      "summary": "'Era meio-dia perdido': terapia reduz tratamento de câncer a 10 minutos&nbsp;&nbsp;UOL",
+      "summary": "'Era meio-dia perdido': terapia reduz tratamento de câncer a 10 minutos&nbsp;&nbsp;uol.com.br",
       "sources": [
         {
-          "name": "UOL",
+          "name": "uol.com.br",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNHczdW9XMGZsVVdkMk9VVzBqMjMtNTJpMGJkcEFVYjJLV3NQRmh2UUVRa2NKZXpldTU3R3l0Vll4RXlqR3pHanY5VjY2eUczTFp5dk5CZXNaM0UwRkdXU29ReXRNVVNlNnlxdFZoR29rSlJCWk5XWE9wcUM4bk92b3JVYmFfcU5pNk5BOWc1VXJveG9neWsyeHVOcENiRFdrSDY0UkxhcG5UZFNZRnJwaUVIYmZwQ1Qzam8xN2NBTFBJbzRCQWVzNGF4N0xRU2Uxc3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4219a9813292",
+      "title": "Estudos com macacos apontam que fala humana pode ter evoluído da risada - CNN Brasil",
+      "published": "2026-06-25T15:00:52+00:00",
+      "summary": "Estudos com macacos apontam que fala humana pode ter evoluído da risada&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVHdxZDdSdHdQZWd5eGNabTF2RV9qVEQza09Bc3AxeEtwRnc5aG9xU05GajFvdHBERV9VcHJWWVcyeElMTDNsd3BSdElTU015R0NRejJ0ckxVbGJkcXEtMWttS0FnYlZ5eDZENnhRdENqX1hFUS05VFdKYzczLUpHdUlaQ3hYVExfcmR6ZWtkOUxwTllyaWRkSVBVVUN4OWwxaVkzYVEwWEJlc0hu?oc=5"
         }
       ]
     },
@@ -258,26 +234,26 @@
       ]
     },
     {
-      "id": "2dfdc19b1e8a",
-      "title": "Além do álcool: especialista revela 10 hábitos cotidianos que podem prejudicar o fígado sem que você perceba - O GLOBO",
-      "published": "2026-06-25T14:50:35+00:00",
-      "summary": "Além do álcool: especialista revela 10 hábitos cotidianos que podem prejudicar o fígado sem que você perceba&nbsp;&nbsp;O GLOBOGordura no fígado: veja os alimentos recomendados e os que devem ser evitados&nbsp;&nbsp;ICL NotíciasFígado gorduroso cresce entre jovens e acende alerta médico global sobre estilo de vida moderno e riscos futuros&nbsp;&nbsp;TerraÁlcool e suplementos em excesso podem sobrecarregar o fígado&nbsp;&nbsp;Costa NorteÉ possível eliminar a gordura do fígado somente com a prátic",
+      "id": "f6eb8d9083ff",
+      "title": "Opinião - Virada Psicodélica: LSD dá volta por cima contra depressão - Folha de S.Paulo",
+      "published": "2026-06-25T13:00:00+00:00",
+      "summary": "Opinião - Virada Psicodélica: LSD dá volta por cima contra depressão&nbsp;&nbsp;Folha de S.Paulo",
       "sources": [
         {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQOF9ONUdsQ3RPUjgxbERuOUdPbDBMSGxGcGc2Y0JCQkZ3dlQyMkhVeUJ0Y1JTVDVHX3lWM2pBblZjYlNtblctbDlXUmVxVWxJd2JtZGxWLVdscFh4dFhGLWtlSVVselRob3c5R0JIS0tiMTZ4Mm56ZjFSR1JXSWlXdDFoTDhCTjNJX3kxMk5XUW5ZaGd3eV9oZkhSMWc4bUhUZFh3SEdxalBjTEpmdVdqOE5QQm9oOFFGa09NQUY0M0JLZkFqN3lPZ1hjbVpqdVNhbEJFZFB3dmpXWW5HbDl5d2k1LVp5WWRsem54N3FqSmpkdVNmYXfSAYQCQVVfeXFMT012TWN5NDhIcDlvM2YxMjJuRmVvMU1mVHJLUlBaZG1wbnFOa2pyYmcxNHREazFMLVRJTVZoY3FiNjVpSFJFVno3VzhyZW5iWmNIRUNkOENfWjU2YXZuZW5QVFFuVWZmMk1tMXVDQWJ4bHBETXdSVnNlY3J2MmVUWFBJOUR3OFBDSVF4ZjVucFdDR2syeGwtU0FHeTg1b3JONGd2RzlxNlE1M1otVFUwcnZZZ1BkLVVIeThxNlhkRlQxekhnWl9kQW04V3RKWmRkMEJDOC1uRVl2VG10WEhKbUFLcXMtR3VZenJidXJUd3h3bXA0UmlqS05sOHhnQ3dUeUZCS1k?oc=5"
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRDVGOElmYUwwOUFDZFo1bnRua0N4ZVlnVjdlY0dVTzdLdzAwcWFXS3AyVS1Cd1ZnaW1oNjhNSVdTYlZmYTJXYmdSSkFGLXhBc3JsV0F3SnNuYjRPWXVCMS1YUWd1OUo5Q0pndHBRNlRwb2IteUQzb1JBZGFoazF5SlQ5OTQ0X0VtTEE1V3BuYW9SR21tcjhtR2Z0N2pLeC0xVTZBT2dyVzZRNFE?oc=5"
         }
       ]
     },
     {
-      "id": "979946e99c8d",
-      "title": "PL que inclui hospitais na carreira de C&T vira alvo de disputa entre servidores da Saúde e Ciência - JOTA",
-      "published": "2026-06-25T12:49:48+00:00",
-      "summary": "PL que inclui hospitais na carreira de C&amp;T vira alvo de disputa entre servidores da Saúde e Ciência&nbsp;&nbsp;JOTA",
+      "id": "1300d2f72672",
+      "title": "Jogos que avaliam desempenho motor contribuem para diagnóstico do autismo - Jornal da USP",
+      "published": "2026-06-25T10:46:00+00:00",
+      "summary": "Jogos que avaliam desempenho motor contribuem para diagnóstico do autismo&nbsp;&nbsp;Jornal da USP",
       "sources": [
         {
-          "name": "JOTA",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWGw4WlVVZmdERV8yRGRtRzB1SHlQbXc0bmYwQWhqTnIzNmM3T201a01jcU9kNUZvQjZMaGRTaEVVUUNjSWE2aHltUWJTcWhEVzhCdXJ3SHBDVVNMZGt5dkRjcUFKOEZaUGJuV21Xak9rMGVSYzF2LXRCWXRyRTh6aHZ0aGstcU9vZFRuZWNEeHVmSWVvdXN4YzJFd0NkTHZjUlQ4NllId3kzRGJhSUVFMmY1aHliOTZtWENaRTZjeHRrNW5rb2hqMzVZaFc?oc=5"
+          "name": "Jornal da USP",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcHRHX2l4d09BeTI4NnBta3MxSjBXSElBbjBmeGliaFVtWm41WG5DSEEwSlIzTVQ5bzFEM3M2Z1dKcC1rbG1vZkFWVWZ6dW9SWjFLQklYQllJZmVvMzFxb0tKQjNoTjJxMEx6eWVTcXlWODNUc3JkU1k1TGt2QTg1dWdqb3dPa05zREVEeWYwazhIblI0MVk5RmtfUGlxYzVNdUhsVUZETkg?oc=5"
         }
       ]
     },
@@ -294,18 +270,6 @@
       ]
     },
     {
-      "id": "e8ee42a4a344",
-      "title": "Telescópio Euclid capta imagem inédita do coração da Via Láctea com 60 milhões de estrelas - G1",
-      "published": "2026-06-25T08:04:30+00:00",
-      "summary": "Telescópio Euclid capta imagem inédita do coração da Via Láctea com 60 milhões de estrelas&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQ1dFSHpLUWVNaF9Hc2lXakh6OHA2WEctX3ZjWG9JLXVLa3RzNXNqLUgwVWU0cjZ1WXEzcjBCenRIS3FMdTlPZGl3R0pZRVNBNEpFbjFKUGRRN0RjS09qRk4yeW9RTml2RjZTMkdJODVYQkVVWUhuaV9NRnVoX0RxdTVjZmVaUzRhZU5JNzRHbXhTTGV4Wi1LdTlKODRNa3NGR0k4LTZvanhUSVJ5Sy1vQ1V1ZEo2TUkwWGctcGM5WV9ycXBCa1Jkc01DX0ZqVVlQbWctaFBLY3pqdk4y0gHrAUFVX3lxTE1XLWlKLWNmMVRCckI2cEMxMGJWTllBODd6WFZMVEotOFFkVlhiWFNqYTNUWDd1NURsdDJjeUJ0VUhjQ2I5Q1lMT2sxQnhGTGNnVTRQNHdzOG0xMUxkZEdUOXJZSEh6bS00RmRmalhuSWVRVnVWT2hNN2NvM3BqMHk4RzhBM2xxOURuQWVhSFEzc0lmNFNoVEpEZEZELW0tN1pqU215MXpJUXdNVE5iSlNNS3BGNGhtZmpGbURqZUlJMTNnN1BwWUF0ajhPeDRVR0N5YjFDSTN0R19hWGpUOGVrTUxSR1NTT0ZFSnM?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c6a43c4be121",
       "title": "Como ganhar massa muscular após os 40? O segredo não é treinar mais - Terra",
       "published": "2026-06-25T07:59:00+00:00",
@@ -314,30 +278,6 @@
         {
           "name": "Terra",
           "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTXB0Y3pNTXFHaWJwYkhmNHFwVFZUaDNDQXNnMWdxdlU4cjd5Wm1VMUt6RmZrRE5SUnNaUlRvMTZJbGxJM0ZGajg2UG9JNkVvRlRiN2RzXzIwdFI4VDd0TG5YcWtUM3AxdTAxTlhxdTZmNjhVQkhBWGZzcUp1eFFZN3drN2ZqdVZ6bXhNSHEtXzVRMFE0S0RGRVBBeUl5YWZUajRvd2s4bV9ickdjb25PeW5INDJCc2tBZUJKRkVQSVZYSGlWUkxob2xCaEcyRHQtUHlvd2JCREc4c3RLNVBPSk0yUFYzQkpJTXJNbnlR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9edeaf157cf1",
-      "title": "Uma única noite sem dormir já afeta as conexões do cérebro; entenda como o sono pode ‘reiniciá-las’ - O GLOBO",
-      "published": "2026-06-25T07:30:34+00:00",
-      "summary": "Uma única noite sem dormir já afeta as conexões do cérebro; entenda como o sono pode ‘reiniciá-las’&nbsp;&nbsp;O GLOBOSeu cérebro muda quando você passa a noite sem dormir. Veja como&nbsp;&nbsp;SuperinteressanteUma noite sem dormir já afeta o cérebro; veja como minimizar o impacto&nbsp;&nbsp;TerraPrivação de sono modifica atividade cerebral e aumenta demanda de energia, aponta estudo&nbsp;&nbsp;TNH1Vozes da Psicologia | A saúde mental começa na noite anterior&nbsp;&nbsp;Jornal do Ave",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNai1CbHJscEpkVEtaajZJZWhoMUxlc1BOYWU4ZWRWZWdkNi1zZ090WHJhNVJ6Rnk0eGdPZ2FqTmtjZHBVQW1QMC1iM3J4TnR5YTdzRDJwM0pFS2IxN3BtNXQ2SmlKZjBrMVJCamhsOGdYVmZvRWRrVnJWc2lNZkRJTWU1RktwVWdVM3AzTXdySjUxUlAtSHlVMndycFVGbXVrU2JnLWxVTGNnT18zVVlaWGl1U0RNZmpQaDVsS0g5dnJ4c2RYRzNpbXFuemllM1JJVjA2Y2tSMm00VW9yQm9RUjBOOXJ0NGPSAfYBQVVfeXFMTUltVHYtQk52OVZNbFZZa001UzNON19BMlNxZUswWnJUWXFCUGVLZTdieEIzbmg4T09lMzE1WFhYZk9qejd3X0pWMm1Fek40X1RTbHhmSnQyUGE3bDhNUXczd3JJdVZtRXA5eXYxN3JnYUVobUZXRGpuSEhfYmtUWmV6di1EMFdlMmFZVGJPQjIxdUdRN3c0Tlc0Qi1BRzREWVhDTnBFNHJEVU8zdmZhUlZwUUVITkNaM3BJQUdfdnBSd21aRHpQQWF5bTcyMmpJZldpUE9Ia3JCNHdGNnZ5d0QyaV9KcGRGWWZwekZxSUpoNlotbUh3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "230c2c89b0e6",
-      "title": "Calor extremo prejudica o cérebro e pode aumentar agressividade dos animais, diz estudo - O GLOBO",
-      "published": "2026-06-25T07:01:47+00:00",
-      "summary": "Calor extremo prejudica o cérebro e pode aumentar agressividade dos animais, diz estudo&nbsp;&nbsp;O GLOBO",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOS1zMEZNa2RyN1EzempSZ1pTQkJhYWxIUTcyeEpPVUdpLXRSNjZQR3pPUUlMeDZCOXhfVHBwWllsaTJUOWhkZzZBUVctdXdzaW5LQTlwYVhrUlgwOTR4akJXWktSOG5zaEdwMGtVYW03a0VsM1BiOGpUbUZhWkJxY3I2d25YaXFjWUFsb0gtenVfQXZMb1VWRDhodUI0MWFIZHA5VWFEakhablRpbzBGUjJQTlpiZ2tuY2Y2RUZ4SzRxVFpXekd1dEtiaS1hR0xCbkMyX1diZ9IB5gFBVV95cUxPOFA2Vi1ucXhDYTBzNEhRRHhrMEd1VVpyWU9QTWo5ZUJQNThNRDZuX01NejJZYi11ZWtPXy1za2hlRUdNWGRMWnl6LVFLbmdMSkU1cEt5UHdVenl2Y054Ync3czVaX045STduNmtudHZtVFVHSm90VTI2dGhpWXFrQUtOa05wTGVDQzM5RzFhTm9ZSjBBTVVIWm5TbUNvWVZ1NkhUZFlfa1RuSGhCT1BNVjlXRElFUGIxVDRmR09JRHA5aVVvbC1od1k5RnZyZ1JCV2Q3ei1qb1VLQUt2QnE0MHJtTEZWUQ?oc=5"
         }
       ]
     }
