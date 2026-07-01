@@ -1,10 +1,22 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-07-01T04:05:52.602512+00:00",
-  "total_fetched": 85,
-  "unique_count": 83,
+  "fetched_at": "2026-07-01T09:51:28.728744+00:00",
+  "total_fetched": 86,
+  "unique_count": 84,
   "health_related_count": 31,
   "news": [
+    {
+      "id": "fe9b6411770a",
+      "title": "Humanos primitivos já faziam camas há quase 200 mil anos dentro de uma caverna africana, renovavam camadas de grama sobre cinzas e deixaram pistas microscópicas de um hábito familiar, revelando que dormir com conforto, proteção e rotina começou - CPG Click Petróleo e Gás",
+      "published": "2026-07-01T01:09:00+00:00",
+      "summary": "Humanos primitivos já faziam camas há quase 200 mil anos dentro de uma caverna africana, renovavam camadas de grama sobre cinzas e deixaram pistas microscópicas de um hábito familiar, revelando que dormir com conforto, proteção e rotina começou&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOVE0wWG1lOFhnWEpvT21FWDk4N2xpc0FtS2ZjalhKTlN4Vk0zTkJyNGNwLW5wZHlwejNjNFFnNkNQNnVUZXBlRU01RWxxSnYwUl9Sb3dUcFVOOXZmNk5WLURIZGRxU2FzOUVJR3gyZXY2NzM4dTFFWVVfSDNzeDdFUGdyZjBSV1lkOUx1U3hPZWRvTmp3Q0dXQXF4anB1THloOVJKSGVtMEREbVg3MWZ0d29mcUxWRERoaG1MLXhTX0txbzlMY244V1hCc3ZLZVNRMldxVFpkazJPMGVSWmpOYUZVNHBEMFdxbk1aRGJISUdkVFpUYUlmeXdnekVyS2hDMjIxQnhPOE5uRXpzT1Bpc0ZEMnVFWEw4XzFFbU5CR2dobThPdElTeXFaNkh5VW1hSzg2bnp5bw?oc=5"
+        }
+      ]
+    },
     {
       "id": "55764229fbb1",
       "title": "Anthropic lança Claude Science, IA para revolucionar pesquisas científicas - Olhar Digital",
@@ -42,18 +54,6 @@
       ]
     },
     {
-      "id": "c638d8169feb",
-      "title": "Saúde lança plano para enfrentar El Niño e mudanças climáticas - Litoral na Rede",
-      "published": "2026-06-30T18:20:00+00:00",
-      "summary": "Saúde lança plano para enfrentar El Niño e mudanças climáticas&nbsp;&nbsp;Litoral na Rede",
-      "sources": [
-        {
-          "name": "Litoral na Rede",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSk40S29FTC1XUjNxdmw1NzVGd2paVUo3YmctcEMyOExmdEYxNEJYUmJOZzlNZ2FjWkZzOXlvWFBIYXVRQUxUXzB0bWVIQXdEaWFkQ1Z6VlBOX2Ryc2JuYk5hQTVIWVpsR2tkZTYwVWprZFBOY25nMXJXbkl2eUN4VUhiUkZpcHJhclBkMW5hZTBJdXd2bjdv?oc=5"
-        }
-      ]
-    },
-    {
       "id": "974f95c59e1f",
       "title": "Pesquisadores desenvolvem “nariz eletrônico” para identificar comida estragada e até vestígios de alergênicos - CPG Click Petróleo e Gás",
       "published": "2026-06-30T18:15:00+00:00",
@@ -78,6 +78,18 @@
       ]
     },
     {
+      "id": "34faf6335eef",
+      "title": "Depois de atravessar bilhões de anos pelo espaço profundo, partícula fantasma chega ao gelo da Antártida, é captada pelo observatório IceCube e leva cientistas até uma galáxia invisível, escondida por poeira cósmica, localizada a cerca de 11 bilhões de a - CPG Click Petróleo e Gás",
+      "published": "2026-06-30T17:59:00+00:00",
+      "summary": "Depois de atravessar bilhões de anos pelo espaço profundo, partícula fantasma chega ao gelo da Antártida, é captada pelo observatório IceCube e leva cientistas até uma galáxia invisível, escondida por poeira cósmica, localizada a cerca de 11 bilhões de a&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWnQ0V2ZKQmFacHdJOHBWWFhOdTE5bWhrWXZ0STZhekt4eDA0VW5iVWt1aGFjQzFRWHc2SlpmSGVuNTB2R2RzaVlpR3doZ2tzQVFPaVJSRzFwU2J4WU4tN0RhMDVIdDU2TVFwazdBMV8yak5sUk1PMW5aWkxlUmpwSjBWZ3JqVHpVYXhOUW1ET25OS2JKUHZURXhBcw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "3d3c5da3e454",
       "title": "Proteína que acelera o desenvolvimento do Alzheimer é identificada - Metrópoles",
       "published": "2026-06-30T17:47:00+00:00",
@@ -86,6 +98,18 @@
         {
           "name": "Metrópoles",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lZXBHQmNyUmljaHZoLVZRelc4Q3lncDlMSU9rQ0ZvenRSQTBKZUtlbWJ6Q2xrdlZmRzdfZEw5UmY4aU1Gc2JlU281TUh2UkVfMDBTN2tlQW9BYm5FR1JKcklzSjBfNG55V2lLYXltbUloazhPRGRtVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "affda4355216",
+      "title": "Mudanças climáticas: Ministério da Saúde lança plano para enfrentar El Niño - CNN Brasil",
+      "published": "2026-06-30T15:33:26+00:00",
+      "summary": "Mudanças climáticas: Ministério da Saúde lança plano para enfrentar El Niño&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNa2VhRmpkX0xaZ3JheF9NN184c0dLRUZlZmllb1VQbUdXeFRyTUFIT1JFT1p4aGc1T25kTFZKZ29pUGRDd2VMaHVEWkhkMTIxZ3lWNFl1cFJfaUloaTktaUU3Mnp1UThQY1ByV3JYbjZaV0oxNDZSSmpnR3JhS1dfYWRDN1p3ekVXREk4ZlhXR2lqMDF1WkxISnF2RjNONTVCZmFGWmRvWlNmT2NiSzlFY3gxa0dkQVk2Z0g2Uw?oc=5"
         }
       ]
     },
@@ -102,10 +126,22 @@
       ]
     },
     {
+      "id": "8760cde1524a",
+      "title": "Em remissão de tumor cerebral, Pablo Sanábio faz alerta sobre sintomas de glioma: 'Existe vida depois' - O Globo",
+      "published": "2026-06-30T15:18:12+00:00",
+      "summary": "Em remissão de tumor cerebral, Pablo Sanábio faz alerta sobre sintomas de glioma: 'Existe vida depois'&nbsp;&nbsp;O Globo",
+      "sources": [
+        {
+          "name": "O Globo",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNcDBVTDNTSXdoMV9jTHY3ZHdEeFU0TklFVjJmWm55S2hVT2tZQWNjZndCM3EtOXhrNGN3YWFqeWc3VW5JUzA2dXBLVnRvVXpYeTdRd0NSMU5sYUhnRGlSV2hBRkZKTHh3SGJUcVFBUDcwUHZvejRNMENBc2lBRzFxZ3owbUNNSXBuRHNvRVd6N2VXLUVGblFvUUFtMWpVYjkyZ2ZSS0ZRWUttcDBwbGxrdEpqYTdJNl85QkE4TlVZeXNTT2tMaGhsZnl2cFh3R1UwNzdaa3lBenI3Yi16b3hDcjdpb25GZDdHS2JkONIB-wFBVV95cUxNc0FKU1R1LVJOaEFZYlRfajItUmxTZWJlbzBUdTg4ODM5RUFlY0NzZllyaE5LQ1RzMGJQMnVWemNvTktiYkRMWDNCR3ZGTlhyb29jdjhJdW9FR0huZlhaWVRQQXBJNUUteFAwRWVWaFlIeTlIamRvdmcyNFpmbWVFVV9EOFpGOTVLV25nUGlETlZtZ2NVSFgyRkNMU0tKQXhvZl9jNVVWMVo0QXVEcFM4enN4TVBMRnBINUhKZVozNGQwZG1EQ1lDMm9PTDdsZWdMY0RBRmRsV1MyUm5PbjFDVEVQc3ZqV1RNb0QwbG1PajVzdnRuLWhyUnEzQQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e22c1c8cc207",
       "title": "Alergia grave pode surgir na vida adulta sem avisos prévios - Campo Grande News",
       "published": "2026-06-30T15:17:00+00:00",
-      "summary": "Alergia grave pode surgir na vida adulta sem avisos prévios&nbsp;&nbsp;Campo Grande NewsAlergias: entenda os sintomas, os cuidados e a prevenção&nbsp;&nbsp;Portal A12Alergias atingem milhões de brasileiros e pioram no inverno; entenda por quê&nbsp;&nbsp;O TEMPOSemana Mundial da Alergia: como identificar sinais, prevenir crises e melhorar a qualidade de vida infantil&nbsp;&nbsp;SPDM SaúdeDiagnóstico inadequado pode agravar alergias; entenda&nbsp;&nbsp;ES Brasil",
+      "summary": "Alergia grave pode surgir na vida adulta sem avisos prévios&nbsp;&nbsp;Campo Grande NewsAlergias: entenda os sintomas, os cuidados e a prevenção&nbsp;&nbsp;Portal A12Alergias atingem milhões de brasileiros e pioram no inverno; entenda por quê&nbsp;&nbsp;O TEMPOSemana Mundial da Alergia: como identificar sinais, prevenir crises e melhorar a qualidade de vida infantil&nbsp;&nbsp;SPDM SaúdeTudo sobre Alergia&nbsp;&nbsp;A Crítica de Campo Grande",
       "sources": [
         {
           "name": "Campo Grande News",
@@ -129,7 +165,7 @@
       "id": "2684a511b651",
       "title": "Envelhecimento biológico pode explicar alta de câncer em jovens, diz estudo - UOL",
       "published": "2026-06-30T13:46:58+00:00",
-      "summary": "Envelhecimento biológico pode explicar alta de câncer em jovens, diz estudo&nbsp;&nbsp;UOLEstudo associa envelhecimento acelerado a explosão de câncer em jovens&nbsp;&nbsp;TerraO corpo emite 7 sinais de envelhecimento acelerado, mas muitas pessoas acham que é normal.&nbsp;&nbsp;Vietnam.vnJovens adultos estão envelhecendo mais rápido que as gerações passadas&nbsp;&nbsp;Época NegóciosEstudo associa envelhecimento acelerado ao aumento de câncer em jovens&nbsp;&nbsp;Portal Tela",
+      "summary": "Envelhecimento biológico pode explicar alta de câncer em jovens, diz estudo&nbsp;&nbsp;UOLNovas descobertas revelam os motivos pelos quais um número cada vez maior de jovens está desenvolvendo câncer.&nbsp;&nbsp;Vietnam.vnEstudo associa envelhecimento acelerado a explosão de câncer em jovens&nbsp;&nbsp;TerraEstudo associa envelhecimento acelerado ao aumento de câncer em jovens&nbsp;&nbsp;Portal TelaPor que algumas pessoas envelhecem mais rápido do que outras&nbsp;&nbsp;UOL",
       "sources": [
         {
           "name": "UOL",
@@ -141,7 +177,7 @@
       "id": "234398a08b31",
       "title": "Genética ou hábitos? O que realmente influencia a longevidade - UOL",
       "published": "2026-06-30T12:56:12+00:00",
-      "summary": "Genética ou hábitos? O que realmente influencia a longevidade&nbsp;&nbsp;UOLEnvelhecimento saudável depende mais de hábitos do que de tecnologias experimentais&nbsp;&nbsp;Jornal da USPO desafio de envelhecer com autonomia&nbsp;&nbsp;Grupo A HoraO segredo da longevidade: o que a ciência diz sobre chegar aos 100 anos&nbsp;&nbsp;Correio BrazilienseLongevidade Baseada em Evidências: o que Realmente Aumenta os Anos de Vida Saudável?&nbsp;&nbsp;Dasa",
+      "summary": "Genética ou hábitos? O que realmente influencia a longevidade&nbsp;&nbsp;UOLEnvelhecimento saudável depende mais de hábitos do que de tecnologias experimentais&nbsp;&nbsp;Jornal da USP5 atitudes simples para viver mais e melhor, segundo Harvard&nbsp;&nbsp;CicloVivoO desafio de envelhecer com autonomia&nbsp;&nbsp;Grupo A HoraO segredo da longevidade: o que a ciência diz sobre chegar aos 100 anos&nbsp;&nbsp;Correio Braziliense",
       "sources": [
         {
           "name": "UOL",
@@ -177,7 +213,7 @@
       "id": "90c18f7e0301",
       "title": "Cientistas criam células de retina em laboratório para tratar cegueira - Época Negócios",
       "published": "2026-06-30T12:14:36+00:00",
-      "summary": "Cientistas criam células de retina em laboratório para tratar cegueira&nbsp;&nbsp;Época Negócios",
+      "summary": "Cientistas criam células de retina em laboratório para tratar cegueira&nbsp;&nbsp;Época NegóciosTodas as postagens marcadas \"células-tronco\"&nbsp;&nbsp;Portal UAIEstudo cria células da retina em laboratório para tratar doenças que causam cegueira&nbsp;&nbsp;Rádio ItatiaiaCientistas criam células da retina para tratar casos de cegueira&nbsp;&nbsp;DOLCientistas criam células da retina em laboratório pela primeira vez&nbsp;&nbsp;Globo",
       "sources": [
         {
           "name": "Época Negócios",
@@ -246,6 +282,18 @@
       ]
     },
     {
+      "id": "cdfcd2e4dff3",
+      "title": "Cerveja que funciona como vacina? Cientista desenvolve método experimental com leveduras vivas, testa a própria bebida e divulga os resultados da pesquisa publicada no Zenodo - CPG Click Petróleo e Gás",
+      "published": "2026-06-30T03:22:00+00:00",
+      "summary": "Cerveja que funciona como vacina? Cientista desenvolve método experimental com leveduras vivas, testa a própria bebida e divulga os resultados da pesquisa publicada no Zenodo&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPR0lHNUp5ZnZtTV95YkxkcjNxUThzemhMazVEUXhsTnA5MUx2bnk5aHZob0NURDBlQldvMWwyRGlKR2tRM19CZE4tMm9wWklkUmd3QkpDMnQ0YWxGb2wtVUtyb2E2MFdPd2twQ3lPTDdwSkVIRDh3Y3ZBa21ybmtHT1ZhWW1wUkQyNnlXYzZrNEU3WTJ0dllJWlVTUzJaOUNXYUs0T05ieVpmUDZFNFF0TGJ3RDBHTmMwTEFUY3RQcVh1dGRHQ2VsTDVNUmIzY0E0RjZkeXRCQXVFR3Rlam9kaGkxSzlOSTJIMWlNREVQU3FyMVFrc1ptZUl1Z0NFNUhtYUZpc3prNHNWVktZYTJCcWJ4Zzd5ZFlZMW5URUR0U05LV0lVVUxVc1B5MUJNWVRWRXE5ZHBR?oc=5"
+        }
+      ]
+    },
+    {
       "id": "7192d97796ab",
       "title": "Primeiro dinossauro da Antártida é identificado a partir de fóssil esquecido por quatro décadas - Olhar Digital",
       "published": "2026-06-29T23:54:00+00:00",
@@ -258,26 +306,14 @@
       ]
     },
     {
-      "id": "ad902ee2d308",
-      "title": "Dormir demais faz tão mal quanto dormir de menos? - Época Negócios",
-      "published": "2026-06-29T21:52:39+00:00",
-      "summary": "Dormir demais faz tão mal quanto dormir de menos?&nbsp;&nbsp;Época NegóciosDormir demais pode estar associado a maior risco de demência&nbsp;&nbsp;Jornal da USPDormir pouco ou dormir demais faz você envelhecer mais rápido&nbsp;&nbsp;Diário da SaúdeDormir demais pode ser tão prejudicial quanto dormir de menos?&nbsp;&nbsp;Diário do Estado",
+      "id": "b0f7e2639320",
+      "title": "Gordura no fígado: veja os alimentos recomendados e os que devem ser evitados - ICL Notícias",
+      "published": "2026-06-29T21:21:36+00:00",
+      "summary": "Gordura no fígado: veja os alimentos recomendados e os que devem ser evitados&nbsp;&nbsp;ICL NotíciasHepatologista cita sinais silenciosos do avanço da gordura no fígado&nbsp;&nbsp;MetrópolesAlém do álcool: especialista revela 10 hábitos cotidianos que podem prejudicar o fígado sem que você perceba&nbsp;&nbsp;O GloboO impacto do consumo excessivo de álcool na saúde do fígado&nbsp;&nbsp;Notícias ao MinutoFígado gorduroso cresce entre jovens e acende alerta médico global sobre estilo de vida moder",
       "sources": [
         {
-          "name": "Época Negócios",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSkFKUU5JZXo2VE94aFlnMS13QXRBSDJMcVpFR3pHT2ROUi1qR3NYOTFxVXpXdU1NajFhMnpCaVpVWlVYXzdFS3hBRnJ2LTNqeE1yT1VyNDlQcXN2b2NiUVZlLVhEd2MxRUVwbFVHYW5UVm55NUtlb1lnNEpVSENaSEU1c3Y0LVJVOUVfN2RVaEdyclhuYks3UkJ2TE04bXB6eW43bENpbjBpcEQ0R2VMM201Mmhham5nRkHSAcgBQVVfeXFMTWxjc0stTjNwZlVnaEgtN1VpLUt6UE53NnlIVGJsN09LX3FkRVBHN29mWk16dlBFWFJHOFozZnNDOThieGRZQmpsLUdJWC1VUWg5dkFVNm81RmRHS1c5Mm9ZNkpybGR1cmV4dFpLaC1EWEZzZFByNF91c2wtai05Z29UUWdjbUhheEJJNVZ4OGxLa3VGa0hUdUt4dzdCMU91YmpxVjJNMHpCNlAtTVo2QmlnN01fTXoyQW5rUnJlNkh2V3U5cGtnTHM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c52b97c8e81e",
-      "title": "Pesquisa da UFV vence Prêmio Inventor Petrobras 2026 - DTI UFV",
-      "published": "2026-06-29T21:48:58+00:00",
-      "summary": "Pesquisa da UFV vence Prêmio Inventor Petrobras 2026&nbsp;&nbsp;DTI UFV",
-      "sources": [
-        {
-          "name": "DTI UFV",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTlVzRmQ5bzlrTFZPaWQ4Mjl3NW1OcjRDZ0EwbjNidGhFOXlRMVRMWjFQZ29vVVRrR2ZjN3V1LWNodnJMcTBpWl9WUXM4Q0xPdFFfWnk4RGJQblhRMFlocmZzRWxkRmRQRm9aSnZqZnk0MVJINldjb2pUQ1Y1eks2Qw?oc=5"
+          "name": "ICL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15M3dESEZIOXFYZzNITmlqRkp2LTRKQ194OTY1ejVDTXo5c2ZTdFEwNExJWHRjTUthNDZGd3ZtdGoycGJJdVk2ZEliTWVVXzJpOTZvcGVZSXdsMTdiMFVHRU82NDJCYXNfa3NpemZnRzM?oc=5"
         }
       ]
     },
@@ -318,38 +354,14 @@
       ]
     },
     {
-      "id": "395fc75f0839",
-      "title": "Série de TV mostra os bastidores e resultados da pesquisa científica brasileira em regiões extremas do planeta - Agência Marinha",
-      "published": "2026-06-29T12:58:54+00:00",
-      "summary": "Série de TV mostra os bastidores e resultados da pesquisa científica brasileira em regiões extremas do planeta&nbsp;&nbsp;Agência Marinha",
-      "sources": [
-        {
-          "name": "Agência Marinha",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdkZXU0pfMGFib3hoZmc3cmVLRC1WR0JSYlBzeGlWTnEzN0Z5QUVSNmx1bVRqQWFpaUtweWE2eWlVM1VGdGZMU2xpZ21rejAwUkJvYThzLVJ5NkY2VUIxa0wxaVNocy11bXVsSEZxTXd2VjVId25JZzBFdFJjaTY1M3RZdmJJZXdhRUVUUzhCV1FBZko2a1VYNDJfNzlXREZBS3NRa1hIbXlXZHNmYnJSQ2xRS1VxSGxwaE9GbUd3YzNmOFdTUzNic2dPYlAydw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4af15815615f",
-      "title": "Os riscos de tomar tadalafila para melhorar o desempenho - DW.com",
+      "id": "5eddcbaff60c",
+      "title": "Os riscos de tomar tadalafila para melhorar o desempenho - dw.com",
       "published": "2026-06-29T12:40:24+00:00",
-      "summary": "Os riscos de tomar tadalafila para melhorar o desempenho&nbsp;&nbsp;DW.comVeja mais manchetes e perspectivas no Google Notícias",
+      "summary": "Os riscos de tomar tadalafila para melhorar o desempenho&nbsp;&nbsp;dw.comVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
-          "name": "DW.com",
+          "name": "dw.com",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZjBfX19UUEJYZjZCTlJCczlpMV9aMmxjUk5TYjJyRWFpcy1nT2pxbmFVUWpJNmJIQkVxRXVoamxmd3MyYlNEU2xrQTdYSUNFYWxoZjFYS3hNSkZZQXA5Nm8wa1dNbWpqbDVFUlMzdTFGYVlrbC1rNWU2Qzh3d2FxNGZ1MVE3YUlPNUd0clROQWNGdTE3TVlV0gGXAUFVX3lxTE83TDhYTmRzdFhRdzRjeGx5THJkQXZkRVRrZ181eFJwYkk0UXhDV01yS19LTnVDMUxXdGtpaDhMcDBGM05LNXMzLWg5VWFyNDJNVXppX2Y2d2hXajNZWGRnWGlPZEhFMEJVMmFURlBTbDJrUm9wNzZIbVl5SGRjX0luYkFEdXJrOWhFRUk2OF9mRllhVlRFRVk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "38076922b1c1",
-      "title": "Medo de agulhas? Cientista inventa cerveja como alternativa à vacina - Folha de S.Paulo",
-      "published": "2026-06-29T12:21:00+00:00",
-      "summary": "Medo de agulhas? Cientista inventa cerveja como alternativa à vacina&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNnluTExzeWpoNmE4MFNxRHFUTDRFNkxPWU1ibnlUWGJ2dEJ5T1JSMDVfVzA4SEdVMXpBQzZfT3ZCd05OSU9TQmpWc2dsZnpkdk84T2UwS29ybGI1UlM3VjNkUVRXY0hVdk5iS1BVLUJ0SU4yNXJXbWV3c0kwWW1tcHlzMy1QZnFlZ0dJU3M4UkQwSS1RTjZLQ3BxZWNpSlV0NXVvdG9hZHZsVjVDa2NBOWdWZ2RrTENmZ05ELTNzOUIxbVgwaVdJ?oc=5"
         }
       ]
     },
@@ -357,23 +369,11 @@
       "id": "fb4f92395998",
       "title": "Anvisa aprova remédio sem hormônios para aliviar fogachos da menopausa - UOL",
       "published": "2026-06-29T11:45:51+00:00",
-      "summary": "Anvisa aprova remédio sem hormônios para aliviar fogachos da menopausa&nbsp;&nbsp;UOLRemédio aprovado pela Anvisa promete ajudar mulheres com sintomas da menopausa&nbsp;&nbsp;G1Veoza: como funciona o novo remédio não hormonal para tratar \"calorões\" da menopausa&nbsp;&nbsp;GZHFezolinetanto: nova esperança para mulheres pós-câncer de mama&nbsp;&nbsp;TerraHormônio deixou de ser vilão? O que mudou no tratamento da menopausa na última década&nbsp;&nbsp;Jornal O Sul",
+      "summary": "Anvisa aprova remédio sem hormônios para aliviar fogachos da menopausa&nbsp;&nbsp;UOLRemédio aprovado pela Anvisa promete ajudar mulheres com sintomas da menopausa&nbsp;&nbsp;G1Veoza: como funciona o novo remédio não hormonal para tratar \"calorões\" da menopausa&nbsp;&nbsp;GZHFezolinetanto: nova esperança para mulheres pós-câncer de mama&nbsp;&nbsp;TerraHormônio deixou de ser vilão? O que mudou no tratamento da menopausa na última década&nbsp;&nbsp;radiocaicara.com.br",
       "sources": [
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcWNTUmpRbkl2NllFQ0djakRPenp2cjY2ZU9RRVFBWDVuWDViX3FTZWJlTDRGeU93alpQamRzR3FFUnB5VUx1WkhBX2MxeWxCMzh1aEN5V2tua0k5R1pOcE1qRnp2eWdaM3NHcEJubzlMSFdMd0ZZT0lWR1Y1MWN3VXRsT0duTkFaOGZHU0RIMTgteWhKYjA5aFQ4OFRpVThxZDhGVVlwRElDdlpVS0NpSjJoR1lsdDhQZ3d2cU1Dajc0QmJ1eHlKQUUza3phdjg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fab2bcdef0b7",
-      "title": "Mais da metade das mulheres relata dor severa na colocação do DIU, aponta pesquisa da Unicamp - G1",
-      "published": "2026-06-29T05:00:08+00:00",
-      "summary": "Mais da metade das mulheres relata dor severa na colocação do DIU, aponta pesquisa da Unicamp&nbsp;&nbsp;G1Colocação de DIU dói mais do que o esperado, mostra estudo com mais de 7 mil procedimentos&nbsp;&nbsp;TerraAINEs na inserção do DIU: efeito analgésico é clinicamente relevante?&nbsp;&nbsp;Afya | HomeEntenda como funciona o DIU e saiba o que é mito e o que é verdade | Donna&nbsp;&nbsp;GZHDor na colocação do DIU é muito mais comum do que dizem as diretrizes, aponta estudo&nbsp;&nbsp;GPS Brasí",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObjJ2NVUyZ3dnbnVfOU5BalV2Q3U4QnZTUTBCUjdUbVl1NnphMWRhYXQ0cXJ1YVljaWN0Z1F1T0NpdTltMHZwQ1RLZW1UQ0sxVFZ4cUl3LWpER3RWQ0JaVUJwVHkwQkhia2hNbU9mMVpvZGZISFhYUHpFQzAzT3I4NmxpQktQazdvYUZmd0tJaHBBYkJRbU9tTE9IOTFfbkoyRWUxdlFzQUJQU3ZxcXUwaER6NFJMeTUyY0JldHpqZHlnR184cWkza29wb0lNTkIxNWRZLW0zZERYVXZu0gHrAUFVX3lxTE5yaTFCbDdfZ01QenFnWVYyOHpValZKbUFFWThtd1NTVUdwNGRTMXZDX0xIT2ZBcFFhTlJWNjBycWs5OUFLOHNtYUhLT1N0NE1yc0xxdkJxcXIzZXJTMGhqMzVUM0k3Umt2WS1ERFJlbDVWM0RVRkhCV1ltZWJJS3E0TUVsdGZOU3MwVi1lYjFQa1JRSXpDNmhFdHlwTy04QWtMQ25LQ3NLVFU5NWs1Q2EwZ0YwaGtGajJnVEhwb3R1MGVjOWItVjJTSXNUQS1rZjRhX2RzTDB3dmd5MHhUdndyeTIxRk1LT2kwSW8?oc=5"
         }
       ]
     }
