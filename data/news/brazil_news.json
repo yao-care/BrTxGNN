@@ -1,19 +1,43 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-07-02T03:47:05.092273+00:00",
-  "total_fetched": 94,
-  "unique_count": 94,
+  "fetched_at": "2026-07-02T09:15:30.655218+00:00",
+  "total_fetched": 97,
+  "unique_count": 97,
   "health_related_count": 41,
   "news": [
     {
-      "id": "6e5bc0403842",
-      "title": "O maior vulcão do Sistema Solar tem 27 km de altura, supera o Monte Everest em mais de três vezes e é tão gigantesco que sua própria curvatura impede a visualização completa da montanha. Além disso, ele intriga os pesquisadores devido à sua prolonga - CPG Click Petróleo e Gás",
-      "published": "2026-07-01T21:36:00+00:00",
-      "summary": "O maior vulcão do Sistema Solar tem 27 km de altura, supera o Monte Everest em mais de três vezes e é tão gigantesco que sua própria curvatura impede a visualização completa da montanha. Além disso, ele intriga os pesquisadores devido à sua prolonga&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "id": "2d5da3de880f",
+      "title": "Vírus sincicial respiratório (VSR) impulsiona aumento de casos graves de síndrome respiratória no Brasil; proteção de vacina dura até três anos - G1",
+      "published": "2026-07-02T05:01:14+00:00",
+      "summary": "Vírus sincicial respiratório (VSR) impulsiona aumento de casos graves de síndrome respiratória no Brasil; proteção de vacina dura até três anos&nbsp;&nbsp;G1Gripe e vírus respiratórios: apenas três estados não estão em nível de alarme; veja boletim&nbsp;&nbsp;VEJABH: doenças respiratórias disparam e congestionam pronto atendimentos&nbsp;&nbsp;Estado de MinasDoenças respiratórias disparam, e hospital da Unimed registra 1,9 mil atendimentos em apenas 24h&nbsp;&nbsp;Hoje em DiaInfoGripe alerta para",
       "sources": [
         {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNa2FUdUFXbFBVNlhzdmNacGJIQ0xnblgxZENGSlNyZTdGTUxGR09fMkxSUjAxXzcyWWxsVUdZcDZKVDU0bEVHRGtPV2hWTFNoUFQxOWRLRVlaX2tPVkxVbHJEWGhsSU0wdmpjTWEwUUt6aXhadTMwdnJoRkZjVWZqV3FxTU1iZWF3aVFPRG5hZ1hBT0M0S2o4VmdjOEdDSGpkT09zN3NuQXB0VmsySmhZNTdBbmg5UWEyUk5fRHFsUHBmQ0RkWXZFSzNCaHYzdVkyVTFIanVIaVJTYzczdGV6TlFJd1M?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOQm5pZkFoTmVxT251eFg2TnhNbUV4VlFtSWFHcnR1d3lLcjNZLS1lUXZ0VDM1dTlDZ2tWdDU1NVNqcHFkb0dBUmE4bDFXSVdOY000WE94R0wyXzhBOUhiY24yZXdwbUtFSWpqbmxwNHdQd0hBbkM2MWd6WlU5eXdhbGlRcWlab0dndXJBRmJqYVZaclNCNnU2QXFSZnk0alFkbDFvdkhVVGVKNC1xWHg3YWprZFctdUdJaWdMT0dVZFNZc1c0Tm1XTDVSd1pObHlsWjdjd3ZGZkZvZVZFS3ZhV18waGFpQU1pTFZ1dFlGbU43aUhrcmxaM2hrQVV2dDZUUEZGUFJfSF94SUJzYk9nbkZuTHVkTklUQlpIQ9IBqwJBVV95cUxPazNiOFlzYmpoX1BVY3ZMelIxNVltQUU2ZkN0Smd5QVBYVVpFU3FiUl8ycVBpaEFMQk8xNUJCeFJobXBVSVV3dmtXWktnRkN4cENVQkNRa2VfQ0J4Njl6N2kzRS12VE9qd1ktOE5pMExuS0pYOFJycS1ibHBrdnRRVzlsVWMwaFhNNEpObElFQm16UnBxeGtSQlV0dkVmRE8yLXFmemlfSE5lTFNnd2lXZHJySVNHdk02Y0FXcjZhMVZvLVhZWDRnNmgweklIRkhLR0RCWEc0NV80VzhTT192X1dJUHlUZmxJLUF6M3pCT2NfY3JEUnlQUmh4cmd0UUxqZUpGZ2JPY1l3YXlXX1JFNXpLUlFFaWhZdUhuR0NSYlBFMS04TDQ2N21WZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "938ff34cc108",
+      "title": "GLP-1 reduz mortes e amputações em pacientes com diabetes e doença arterial, indica estudo - G1",
+      "published": "2026-07-02T05:01:07+00:00",
+      "summary": "GLP-1 reduz mortes e amputações em pacientes com diabetes e doença arterial, indica estudo&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQkJ2bS05S1hXQkRFWGE2UjFRdG54RmR6Vi1GTEZVNlRwbVliODdUa0JiUFZia1lVZzhSWl9LUUEtOUhoY0ZCUkpDbVlyckRZLV9TdGRCVkNwaGJrSGpScWhIb3NYei1CRXgyVU81dUphcjF6TzNIbVpTQ2w2M2FCaXZyTUowVnAxamNvTGNKYXBCYTFGS2VIenpwWlBTb3Fac3VDdi1WUDRlaWp6ck9OeEFWQXlnWnJWdkx1ZkdmX0ZVRlNCQzc5Sk1EMWg0UUVVR3EyZ0V6akzSAecBQVVfeXFMTnBNbzE1akxtaU50NXYyalc5OVNPYUZXalVpX1dvSzNYdVRNSC1aazYwUUhfUzdJQTl5UlNFZDU4VG5yZU9OLWhXRDJNNHZhY3JZSjBMXzZ4VFM2RFFCbjZidllxVUZSSmozMFFoWFBmYlozSXZ4OHQxd1BJWWs3dDAxaTRYVFhmTnl3cWI1T0RtUUpfaHROaVdFX2JYQ3p2Wmg1UFR3TThMQ3dtVUJPSlZjamZsa0cxNzZiUmw1eVZXaXQ2UEt1TFpWTEFWcnlEOWY0ZE4zRDVJUjcySWZmLWZPWWFoaGlN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "20ad831be7fa",
+      "title": "Menino de 11 anos morre semanas após acordar com morcego na boca - Terra",
+      "published": "2026-07-02T01:43:00+00:00",
+      "summary": "Menino de 11 anos morre semanas após acordar com morcego na boca&nbsp;&nbsp;TerraMenino de 11 anos morre de raiva após morcego pousar em seu rosto; saiba mais sobre as formas de transmissão&nbsp;&nbsp;O GLOBOMenino morre de raiva após contato com morcego&nbsp;&nbsp;GazetaWebMenino morre após acordar com morcego no rosto e caso cria alerta na saúde&nbsp;&nbsp;BnewsMenino de 11 anos morre de raiva após contato com morcego sem marcas aparentes de mordida&nbsp;&nbsp;Ceará Agora",
+      "sources": [
+        {
+          "name": "Terra",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPelAyQ09oZ1dKbWw0Vko2OVdFZEpuNnhpTEtZMC1tb2VPTDhHaXNkbUhmNjZ0Sm84dzlNSnU1RmVkbWw1MzhENzA2emFJckJscGVLa2JYdjVXVnY5SEVCdnRQT1lYSC1MR1FFZ0NIai1yT0toY2lLM2ctLW9XV2V4VVU1UXVXTGJHSTlGVnJGUjNlOUNDNHZUNzJFa2VkaXVoM1c5X2g4N3diYmxPVDh3Z2FLNXZpU0NLcTdRYTAwUXJsbkxCRXZ0SjNldmNuNDdsYVVlTURrQm5MYk51Q09JRXFnNk4?oc=5"
         }
       ]
     },
@@ -102,14 +126,14 @@
       ]
     },
     {
-      "id": "cd069f2d3e1a",
-      "title": "Bebê de 1 ano morre por síndrome respiratória aguda grave em Londrina - Tem Londrina",
-      "published": "2026-07-01T15:51:39+00:00",
-      "summary": "Bebê de 1 ano morre por síndrome respiratória aguda grave em Londrina&nbsp;&nbsp;Tem LondrinaUnidades de saúde ficam movimentadas no primeiro dia de vacinação contra a gripe para toda a população&nbsp;&nbsp;Prefeitura de CuritibaEstação Hub tem vacinação contra gripe até sexta-feira&nbsp;&nbsp;G1Paraná libera vacina contra a gripe para toda a população a partir desta segunda-feira&nbsp;&nbsp;Governo do ParanáVacinação contra a gripe será aberta para a população geral nesta segunda-feira, 29, em ",
+      "id": "7ebd00f60a4d",
+      "title": "Bioengenheiro cria microscópio capaz de ampliar objetos até 2.000 vezes usando apenas uma folha de papel dobrada, uma lente minúscula e menos de US$ 1, levando ciência de laboratório para qualquer lugar do planeta com custo menor que um doce - CPG Click Petróleo e Gás",
+      "published": "2026-07-01T16:33:00+00:00",
+      "summary": "Bioengenheiro cria microscópio capaz de ampliar objetos até 2.000 vezes usando apenas uma folha de papel dobrada, uma lente minúscula e menos de US$ 1, levando ciência de laboratório para qualquer lugar do planeta com custo menor que um doce&nbsp;&nbsp;CPG Click Petróleo e Gás",
       "sources": [
         {
-          "name": "Tem Londrina",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTm5EcWwzNzZiM2dMU0xib212UkVnUWF6dWNneWdFSUJnMXI0U1lpRGlFM1h2UTI5XzJ1akpSQUxkMFFCczFBS1FCTE9id1FQaHc5aUVaUEVpZDNOU1pSaUFQbHB0VWN3NWp4VURIR0RqeWdmSWZsVlVEWVdldm5mdTYtSEJweEY2MmtkckJSY2Y2b3A4Y1VUYW8tNXRaU3QtcjhuSENn?oc=5"
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQQ1hqYlYtcjhhMGlkb1BKUHBuRHNEVnBzUU5ISzhsNS1aU1l0aXpmV2J3OS1zcE5tZGJheXhEWHE3U0ppQkdkTFozYi1XZ2pHLVNsWlBOUGs0UnBvMEtXZW1ucmlRZFkxRUVKMG5yMEJIWDdoMHVwMDk5VEtlQktmeFVtcDVzcjRUdWNnR2hjSkFPR2R3cXJ2Z1luSlNPcGxtdzFzLW5mT3ZaNTB6UjlUV1Baci1lanplM0RzempyZjhqc0Z6UFlXQU1yaUlIaXRMVElhUVZLc2tsNlItLXRuVzU3LTNhbWdOY2hEVEZjQXRYX3A2NkFESTBCcVVPNnJjcmJxSFFWYzNZeXJERVRUTWtTTmtqaFM0OHBQdjMyV3NzbXVFRlhoNlhUWThzMk1CdF9WWVNpLVRHUC1rR3dnd01NczNOUzg?oc=5"
         }
       ]
     },
@@ -129,7 +153,7 @@
       "id": "cbc9706d8fcc",
       "title": "Nova análise mostra como os substitutos do açúcar podem afetar a saúde intestinal e o metabolismo; entenda - O GLOBO",
       "published": "2026-07-01T15:16:48+00:00",
-      "summary": "Nova análise mostra como os substitutos do açúcar podem afetar a saúde intestinal e o metabolismo; entenda&nbsp;&nbsp;O GLOBOCientistas desconfiam que adoçante pode estar relacionado à diabetes&nbsp;&nbsp;MetrópolesAfinal, é seguro eliminar totalmente o açúcar da dieta? Especialista responde&nbsp;&nbsp;TerraAdoçantes sob suspeita: estudo investiga possível ligação entre substitutos do açúcar e diabetes&nbsp;&nbsp;Catraca LivreCortar por completo o açúcar afeta saúde instestinal&nbsp;&nbsp;Agora ",
+      "summary": "Nova análise mostra como os substitutos do açúcar podem afetar a saúde intestinal e o metabolismo; entenda&nbsp;&nbsp;O GLOBOCientistas desconfiam que adoçante pode estar relacionado à diabetes&nbsp;&nbsp;MetrópolesAfinal, é seguro eliminar totalmente o açúcar da dieta? Especialista responde&nbsp;&nbsp;TerraCortar por completo o açúcar afeta saúde instestinal&nbsp;&nbsp;Agora RNAdoçantes artificiais: uma alternativa ao açúcar ou ameaça à saúde?&nbsp;&nbsp;Medscape",
       "sources": [
         {
           "name": "O GLOBO",
@@ -138,25 +162,13 @@
       ]
     },
     {
-      "id": "3db224de40b2",
-      "title": "Menino de 11 anos morre de raiva após morcego pousar em seu rosto; saiba mais sobre as formas de transmissão - O GLOBO",
-      "published": "2026-07-01T13:57:20+00:00",
-      "summary": "Menino de 11 anos morre de raiva após morcego pousar em seu rosto; saiba mais sobre as formas de transmissão&nbsp;&nbsp;O GLOBOMenino de 11 anos morre de raiva após contato com morcego sem marcas aparentes de mordida&nbsp;&nbsp;Ceará AgoraMenino morre de raiva após contato com morcego&nbsp;&nbsp;GazetaWebCanadense de 11 anos morre de raiva após acordar com um morcego na boca&nbsp;&nbsp;CNN BrasilMenino morre após acordar com morcego no rosto e caso cria alerta na saúde&nbsp;&nbsp;Bnews",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPcTRybk9yU0RzM3VLUnBZRUVwRUlXcWZMWTFOekpSOE92Ym9QTVZQS2htb3lQejVGY002bEM3VGI1el9KWDlQRFp4SnFxalYyYnZaNHlqT29TWlVJSmNZOUdkTU5ZR1FSZUFpWGxhTDJ0WVBvZVlrZURNVGVuZlVHVm1XbjBJUnU3cU9mRnpRc0ZoUnlIaUFKcHU4cHZ6alJIMzcxUnRLeUpnZDJxM2NUVXlZTS1ya0xfQUhtd3V3bmNDQTRBR2lkTi04eFZZajVYNzRnTW9QTHk1OG5LaEFUbFlzNjgyWEZiZGlNWjB4UHZrdTRSS1HSAYQCQVVfeXFMUDVicFo0QmVORXh6Z1U5b0RxNzdUQnVMUUp5UHZxSGV3SHVzcWhJcXJZYk5KbHo3dGJhUU1zX01OTUtjQ1NoTEFXTUZUSzdGbGN4Q1dHMGFsUkRpR0M5SzVVV1o0S2NXY3N1Tzdmazc4UFVIeVljU3VZRDlHNTZNNC1nMVdkamJXWVR4cGJ1VGxHbkx6WDM4RWJYZXAzTDVVT0tlR2hYLWlpVkh4RzlkY3dzY3dPREotamJsWndXdjlyNktYZFpiakw5SFJDVVhoYld0bm1SOHc4OGFjMUJ1ZmlPRTJ5bGFBcjRkd2FHNzVta3BYcXhaZDdMRWllV1RCVEl5LWo?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "778301802c75",
-      "title": "O que é a 'dieta planetária' e como ela pode salvar o seu rim de doenças no futuro - Globo.com",
+      "id": "39879efc15e7",
+      "title": "O que é a 'dieta planetária' e como ela pode salvar o seu rim de doenças no futuro - Globo",
       "published": "2026-07-01T13:20:05+00:00",
-      "summary": "O que é a 'dieta planetária' e como ela pode salvar o seu rim de doenças no futuro&nbsp;&nbsp;Globo.comFrutas, feijão e menos carne: a dieta que faz bem aos rins e ao planeta&nbsp;&nbsp;Jornal CorreioFrutas que ajudam na saúde dos rins: alimentos naturais podem auxiliar na hidratação e no funcionamento do organismo&nbsp;&nbsp;Diário do LitoralDicas para hidratação: algumas frutas são aliadas para a saúde&nbsp;&nbsp;G1",
+      "summary": "O que é a 'dieta planetária' e como ela pode salvar o seu rim de doenças no futuro&nbsp;&nbsp;GloboFrutas, feijão e menos carne: a dieta que faz bem aos rins e ao planeta&nbsp;&nbsp;Jornal CorreioFrutas que ajudam na saúde dos rins: alimentos naturais podem auxiliar na hidratação e no funcionamento do organismo&nbsp;&nbsp;Diário do LitoralDicas para hidratação: algumas frutas são aliadas para a saúde&nbsp;&nbsp;G1",
       "sources": [
         {
-          "name": "Globo.com",
+          "name": "Globo",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNY285YUNIcFluTkxheDBYSldhWHU3TG9kN1RVcm1wZXdaN3BVYU5xcm91Vmh0ZHVpWXlPTlNENW5HY2toTlFLS053NVgwRXJRakJYZjFEdWNFVm55N1FzYjltSjlxR3RFenJ3cGhISF9aVzhPejEtZS10VlgxcllXZDN1bDFZZG5uWW9ZWDJhXzY5RzlNa0toMHV4d2tEblNydjRyRzFKNXVwV3dHVjd0RlE2WWExOFM0VklheExMdzdRTUlIVzlvZTlEMktwR2htS3c3czdR0gHkAUFVX3lxTE5OeXliU3NkaExXblBib05XR1FfZzZnZG56NzJkd1ZRUl80bTJiRDhIN1BHbG9sVklSVWkwX2s1WGFIWjU5d2w2SFBZZUZudEtTWXpRS3V5N1NXcHowTkpNUVN5NEhTWERnRlBKRnhuMXNNdkV5WFR1OHN5RWY2Umo1aFFPY1c3Mlo1NnM0SFFSQko2cU1aYU15c0ZEN3VkYWtTWjdFNXlmVDNiZ21hMGcxZ0xPZTJYUEhxSGZ0bXdwTmlsQ0hXWXY0czU1emVLMWxHNk9YLWUwVzBob3hKWE93c2ZKaw?oc=5"
         }
       ]
@@ -237,11 +249,35 @@
       "id": "e6740325908a",
       "title": "Estudo associa apneia do sono com problemas de memória e maior risco de demência depois dos 40 - O GLOBO",
       "published": "2026-07-01T07:30:29+00:00",
-      "summary": "Estudo associa apneia do sono com problemas de memória e maior risco de demência depois dos 40&nbsp;&nbsp;O GLOBOSeu cérebro muda quando você passa a noite sem dormir. Veja como&nbsp;&nbsp;SuperinteressanteSono insuficiente aumenta risco de Alzheimer, alerta estudo&nbsp;&nbsp;TerraUma única noite sem dormir já afeta as conexões do cérebro; entenda como o sono pode “reiniciá-las”&nbsp;&nbsp;Jornal O SulApneia do Sono Ligada a Pior Memória e Maior Risco de Demência na Meia-Idade&nbsp;&nbsp;HealthN",
+      "summary": "Estudo associa apneia do sono com problemas de memória e maior risco de demência depois dos 40&nbsp;&nbsp;O GLOBOSeu cérebro muda quando você passa a noite sem dormir. Veja como&nbsp;&nbsp;SuperinteressanteSono insuficiente aumenta risco de Alzheimer, alerta estudo&nbsp;&nbsp;TerraMá qualidade do sono pode acelerar avanço do Alzheimer&nbsp;&nbsp;Agora RNUma única noite sem dormir já afeta as conexões do cérebro; entenda como o sono pode “reiniciá-las”&nbsp;&nbsp;Rádio Pampa",
       "sources": [
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcFR2dlEzSEJqXzZydkx3ZWVrN0hmVC1aekFVcFc3NkFxR0FYcjk1Y3pmRVZzanNZQ0xZOU96S3RwSHg5a2N5bWs5bHJ6TmxNQXVzeXRqY0pacV9tSHNQajRQeG1EeWJfdFc4aFdKMTQ2T3h3djhHbjBycnFHbXFVRnRudjBxd3ZhSXhPeUZsckdYWnBybGVpb3YxSXU4SjFYTXlYZC04YThncnNNX2FtODNheWpNUXcwVlc0cGdOdkg4YWJacm53clh5ZmhhQ2lkUzBmNnlDWnpLUlgwWnU2NVR2MlfSAfMBQVVfeXFMTTNXdlRvN29YUS1JTDJwMFNxajZqc2E4dTdCRTZ5OVhXNkFxWERMR2xJdV9NeVJrZEV5X2dwX21PRTBsbUlJb3BOSlZqZVlHS0IxcWlmOWNCYnFpTjJlbTRSVWpadWk3VUM3N2JydlR5Zk9fVFJVUk5XZl9XTGk3cVZZNElHTTg2ZmVTVWxka2VDdTA5bHFfM1UyOFctNkdTOEd0YzdoZU5zaWxDV0hOLWdvWFBlZlMwcDhxWjByQWNkTTlna3pDY1AwZkVZbEotT1AzNURNT0U4cjhXNFFiTEtLVWVkUTlyS2h1d3VieFZES3hB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "11664fdbd1bf",
+      "title": "Veoza: como funciona o novo remédio não hormonal para tratar \"calorões\" da menopausa - GZH",
+      "published": "2026-07-01T07:01:27+00:00",
+      "summary": "Veoza: como funciona o novo remédio não hormonal para tratar \"calorões\" da menopausa&nbsp;&nbsp;GZHRemédio que promete ajudar mulheres na menopausa é aprovado pela Anvisa&nbsp;&nbsp;G1Anvisa aprova remédio sem hormônios para aliviar fogachos da menopausa&nbsp;&nbsp;UOLFezolinetanto: nova esperança para mulheres pós-câncer de mama&nbsp;&nbsp;TerraOncomenopausa: nova opção de tratamento traz esperança para mulheres que venceram o câncer de mama&nbsp;&nbsp;Jornal de Brasília",
+      "sources": [
+        {
+          "name": "GZH",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTHRjdk9lM0RuY0gxaDNXUzAzQm1MT1IzdTlhVjlad2M0a0k4d2hGd2NCWnJxR1VDcmttam00SWJXWnBCYmtJT2R6UjlVOTNXRmsxOHo1TXZmSmMwQXRIRmVRMC1VSHdycFIxTS1jcWJya0N2eDFJR25zang1ckVjZUhSc2Zxa0Rfa1VfV2RZRUQyMlJHdHRvbjJvTnZjNXVWYUZqd3h6ZFFDZGJOX2lqbEdrMWV5M1l0dzhJWFQyTVFjd0VrNXJlNmhvckJKYl9VLVZxdEQzLTFtYVFUeTluU2d5SGZjcUVsVXNkTFhTMG13ekRBX1Rpd3Vn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b4e5dc35e73a",
+      "title": "Calor extremo na gravidez pode afetar desenvolvimento dos bebês, diz pesquisa brasileira - Folha de S.Paulo",
+      "published": "2026-07-01T07:00:00+00:00",
+      "summary": "Calor extremo na gravidez pode afetar desenvolvimento dos bebês, diz pesquisa brasileira&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPd2l2eWxOQVdqY3hWVjRITzdNS29hdHRTV0c1enRFeGxabjZrYUtIaVZlLVQyb3FyZXpZZHBrX3ZCb2dIQldhbzZqMHRYeE56TWhMZnVyNVVtNWF4VFpyR1pJS2Zob19rTkRTQ3pyR2dqNEQzZG9MZmxOa0RfX0J4TG5IM1REbTQ5TUtGTFBjS0V4ZnRfVlFtRTNuMTAwUElSdloyanhaOXl3WF96M29URUJsVG96RWI1NVFMMllWSjBBdXFNUmx2aFJEYmtONzZHYVZ6MWIyOTE4bk9SZVprdEN30gHnAUFVX3lxTE5oVmlBcG1hRWh2bUs1elVKaWtsVGVvcWF3UHRXWVdjcGIxaVlHcTRnZnFma2FoOGRHUXZORXkwdjRHZGJJQk9oUzY2TG1GVUxneFRCcnZWMmVROVJBTVY1UFVXeTBGMEk3YW9sNHQzeF8tdFptTmlPZlluQXZHYi11dXdCemZnTFgwbEhWRXdUdHBPWTI3Vy1OSlhVSEg4eFFzNkU5UFFGV3Bhb3haUmlMOFp6ckNJVDNyQlFQbGJudlY5Z19jMDFQckVzN0RfVzU5VC1RUXppSGg0Q1ltSHRKMWxkMHlyYw?oc=5"
         }
       ]
     },
@@ -294,18 +330,6 @@
       ]
     },
     {
-      "id": "c05c2579e416",
-      "title": "Canetas emagrecedoras e vida sexual: melhora na testosterona e esperma - Metrópoles",
-      "published": "2026-07-01T05:00:00+00:00",
-      "summary": "Canetas emagrecedoras e vida sexual: melhora na testosterona e esperma&nbsp;&nbsp;MetrópolesEstudos sugerem aumento da fertilidade com uso de Mounjaro e medicamentos similares&nbsp;&nbsp;Diário de Goiás",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeFJsbVFRUFZjaFBfWFg2cklkaXh0Q2oyUXoyS1Y5WjRqOTdYS0xUalQ4aVFDdXFlczBxSjY2YUZLZW53VmdXOGRaUkpEaVJlY1dlQ2d6ZWFLS3dJOGk3MlV4ZnEzaVBvMFAwalJkdHlRLVppd25mV3A1Z3Q2djRNUXFYT0M2VU5zT2Z5bUdMalBxX3p4Q1VVMlZ3d3c4Tm1HWTU3UGFHaDllZWpXY0NWRU5ucS1IaDRZUEFr?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5e4dbadd6636",
       "title": "Morrem as pesquisadoras Erotilde Pezatti e Carmen Lúcia Soares - Agência FAPESP",
       "published": "2026-07-01T03:04:05+00:00",
@@ -321,7 +345,7 @@
       "id": "739e41ba5f6f",
       "title": "Magreza a todo custo depois dos 40 expõe mulheres a maiores riscos e transtornos alimentares - Folha de S.Paulo",
       "published": "2026-07-01T02:00:00+00:00",
-      "summary": "Magreza a todo custo depois dos 40 expõe mulheres a maiores riscos e transtornos alimentares&nbsp;&nbsp;Folha de S.PauloBarriga maior depois da menopausa não é só idade: a mudança hormonal que altera onde a gordura se acumula&nbsp;&nbsp;Tua SaúdeAdiar o emagrecimento após os 40 aumenta riscos ao fígado e ao coração, alerta médica&nbsp;&nbsp;RdnewsSaúde hormonal: 5 motivos que podem explicar a dificuldade para emagrecer&nbsp;&nbsp;CidadeVerde.comO emagrecimento desacelera na menopausa?&nbsp;&nbsp",
+      "summary": "Magreza a todo custo depois dos 40 expõe mulheres a maiores riscos e transtornos alimentares&nbsp;&nbsp;Folha de S.PauloBarriga maior depois da menopausa não é só idade: a mudança hormonal que altera onde a gordura se acumula&nbsp;&nbsp;Tua SaúdeAdiar o emagrecimento após os 40 aumenta riscos ao fígado e ao coração, alerta médica&nbsp;&nbsp;RdnewsO emagrecimento desacelera na menopausa?&nbsp;&nbsp;Assine AbrilO ganho de peso na região abdominal após a menopausa nem sempre é só idade: pode estar ",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -354,18 +378,6 @@
       ]
     },
     {
-      "id": "13ff39444609",
-      "title": "Fila do INSS atinge menor patamar em 21 meses com 1,8 milhão de requerimentos - www.gov.br",
-      "published": "2026-06-30T22:11:00+00:00",
-      "summary": "Fila do INSS atinge menor patamar em 21 meses com 1,8 milhão de requerimentos&nbsp;&nbsp;www.gov.br",
-      "sources": [
-        {
-          "name": "www.gov.br",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLUNNdHdhaVE2NkhwQTF2eTdFVVdIS3ltNHgtRUg5bWRFQXZYN1ptQi1xLS1sbGhDTGV0M3ljNjM3aTBVaHpDZXZyZU5wN3UxNE1RQXV5Z3RoRVlIc3ZkbXBvTE02emlUbF84c2QyaEw4SGVUbHAxZDEyNWVGNzJKaElxLWtzQUhpSkpRRTNlUklKSzFONUR4bXNFSVpzQmhFQ1NDYzY0NDN0TFVrSGFsZHRtVGZtaGM?oc=5"
-        }
-      ]
-    },
-    {
       "id": "07cbdd151e24",
       "title": "Em duas semanas, 31 espécies foram descobertas em águas profundas na costa brasileira. Confira fotos. - Superinteressante",
       "published": "2026-06-30T22:00:00+00:00",
@@ -378,30 +390,6 @@
       ]
     },
     {
-      "id": "11664fdbd1bf",
-      "title": "Veoza: como funciona o novo remédio não hormonal para tratar \"calorões\" da menopausa - GZH",
-      "published": "2026-06-30T20:45:21+00:00",
-      "summary": "Veoza: como funciona o novo remédio não hormonal para tratar \"calorões\" da menopausa&nbsp;&nbsp;GZHSaúde em Dia: Anvisa aprova novo medicamento para menopausa&nbsp;&nbsp;G1Fezolinetanto: nova esperança para mulheres pós-câncer de mama&nbsp;&nbsp;TerraAnvisa aprova remédio sem hormônios para aliviar fogachos da menopausa&nbsp;&nbsp;UOLOncomenopausa: nova opção de tratamento traz esperança para mulheres que venceram o câncer de mama&nbsp;&nbsp;Jornal de Brasília",
-      "sources": [
-        {
-          "name": "GZH",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTHRjdk9lM0RuY0gxaDNXUzAzQm1MT1IzdTlhVjlad2M0a0k4d2hGd2NCWnJxR1VDcmttam00SWJXWnBCYmtJT2R6UjlVOTNXRmsxOHo1TXZmSmMwQXRIRmVRMC1VSHdycFIxTS1jcWJya0N2eDFJR25zang1ckVjZUhSc2Zxa0Rfa1VfV2RZRUQyMlJHdHRvbjJvTnZjNXVWYUZqd3h6ZFFDZGJOX2lqbEdrMWV5M1l0dzhJWFQyTVFjd0VrNXJlNmhvckJKYl9VLVZxdEQzLTFtYVFUeTluU2d5SGZjcUVsVXNkTFhTMG13ekRBX1Rpd3Vn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b067f512c8aa",
-      "title": "Bahia registra 11 amputações por diabetes a cada dois dias; especialistas alertam para prevenção - Jornal Correio",
-      "published": "2026-06-30T18:06:53+00:00",
-      "summary": "Bahia registra 11 amputações por diabetes a cada dois dias; especialistas alertam para prevenção&nbsp;&nbsp;Jornal CorreioQualificação de profissionais de saúde fortalece assistência a pacientes diabéticos em todo o Acre&nbsp;&nbsp;Agência de Notícias do AcreAlagoas lidera amputações no Brasil por diabetes&nbsp;&nbsp;Tribuna HojeDiabetes: reabilitação multiprofissional é decisiva para recuperar autonomia após amputações e outras sequelas&nbsp;&nbsp;News BADiabetes é a principal causa de amputaçõ",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdUROQXh6S0tjLTI3aGN0bnVmZXppWUN5NkpPcnY0QUZwMXNEdFhfOHpYaG8wQUFBdjJtS1pwM2RNeUpmYk9xV0hWR0dESXpwaHNsX0dkXzRMaUZyOWJBUU94dTAwYllnc05sSVNDUWRKR3J5WjBSSTVrbmZQdWRZanRQaWRVdF9hQ25TVGl6aXlYNl81SlVtRF9pV3AxS0YwQXN6emlyeF81WnV3a1hfSTk1eFZha3RWN2UxT2Zwa2s5WEtQa2tadkNhTG1hbzAtRnpfd0EzUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e22c1c8cc207",
       "title": "Alergia grave pode surgir na vida adulta sem avisos prévios - Campo Grande News",
       "published": "2026-06-30T15:17:00+00:00",
@@ -410,6 +398,18 @@
         {
           "name": "Campo Grande News",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVEVLRXotV3hDdlBHMThQLXlfWkpOekI5S05hTjRKMGZfTUdBUEhaRDFtSXpDbHQ0eTFBYWxBV1Z6b2pQMTVXUWZkQnd0SjdiX3E2UzhHN0hnS0lXRTJtWjBNeGJKQXUySzNZU25jUm9jeVBTSS1Xc2tXT0JKcDZvQU5JX2VpUmpRdGoyX0ZrNEs2ZGEwWjBxaGdnMEplVkxCZklzeDl1bDEwa1REdjRpZGdCQVV0UGduMWg4OTJvdXExT2NMME5XVmRR0gHKAUFVX3lxTE1aYmxZV1lOLUdfemRVWXA4V2tCWHVzc3o1bU1BVklmeVhiMmQ1VjVBaHJ0VEFGb3FZbUEwZFg5QjhHUjNCS2NQREVRcGFyNG4wdlJuTlFlYzhqc25TWW9aMFBXTXRNR0xMODFKOG94U3dRSlZKcG5OZkZGTkEybWhmd2FsdkpyZjBJeHJyS0toWEhyVXBieW43X2FGUjJ1djVoSFk5X1I2SjBCWGI5WGliNDRfM1JVcXA3c3dzSzJsU2FJMVVxYVg4b2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "30b25021ec25",
+      "title": "Dasa vai oferecer novo remédio para Alzheimer inicial a partir de R$ 12 mil - UOL",
+      "published": "2026-06-30T15:13:14+00:00",
+      "summary": "Dasa vai oferecer novo remédio para Alzheimer inicial a partir de R$ 12 mil&nbsp;&nbsp;UOLUm dos principais especialistas em demências nos EUA aponta novos caminhos para prevenção e tratamento&nbsp;&nbsp;Valor EconômicoDasa lança medicamento para estágio inicial de Alzheimer; duas aplicações mensais custam R$ 12,7 mil&nbsp;&nbsp;Folha de S.PauloMedicamento para Alzheimer inicial começa a ser vendido no Brasil&nbsp;&nbsp;ICL NotíciasAvanços científicos trazem esperança no tratamento do Alzheimer ",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcURSVlZxNU81ZWpWcExBTUE0a3B5VzJSbEYxSFlXWGREdWl1cnJpSzZTcVRDZktrZ3dCVDhXNWpLOWg2VTR0dkVGYm1idFZnMEFTTndhYnlwQ01YTkZHWmZ6Z2VlS0wxUFBCOXFsTUNSV3o0U25BSDlrWm91NVJnX1c1TzhyTVR1alN0OHFIcEwtOUVpeGRNVW16WTdkSUhVVzQtNEt3MEItT1F6NEJULTh0aXBSMzVleTZaNnZVdUdFQ0hzRXpJbG5OdldsTFJy?oc=5"
         }
       ]
     },
@@ -441,7 +441,7 @@
       "id": "7d84f23ca0f6",
       "title": "Ministério da Saúde prorroga vacinação contra HPV para jovens de 15 a 19 anos até dezembro - G1",
       "published": "2026-06-30T13:57:32+00:00",
-      "summary": "Ministério da Saúde prorroga vacinação contra HPV para jovens de 15 a 19 anos até dezembro&nbsp;&nbsp;G1Ministério da Saúde prorroga vacinação contra HPV para jovens de 15 a 19 anos&nbsp;&nbsp;UOL NotíciasCampina Grande amplia vacinação contra HPV para adolescentes e jovens de 15 a 19 anos&nbsp;&nbsp;G1Após prorrogação da campanha, vacina contra o HPV segue disponível nas UBSs de Caxias&nbsp;&nbsp;GZHVacina contra HPV: Campo Grande prorroga resgate até 2026&nbsp;&nbsp;Campo Grande News",
+      "summary": "Ministério da Saúde prorroga vacinação contra HPV para jovens de 15 a 19 anos até dezembro&nbsp;&nbsp;G1Ministério da Saúde prorroga vacinação contra HPV para jovens de 15 a 19 anos&nbsp;&nbsp;UOL NotíciasCampina Grande amplia vacinação contra HPV para adolescentes e jovens de 15 a 19 anos&nbsp;&nbsp;G1Após prorrogação da campanha, vacina contra o HPV segue disponível nas UBSs de Caxias | Pioneiro&nbsp;&nbsp;GZHVacina contra HPV: Campo Grande prorroga resgate até 2026&nbsp;&nbsp;Campo Grande New",
       "sources": [
         {
           "name": "G1",
@@ -462,6 +462,18 @@
       ]
     },
     {
+      "id": "d62c1c067df2",
+      "title": "Novo agonista de GLP-1 oral mostra benefícios na redução da hemoglobina glicada e do peso - Medscape",
+      "published": "2026-06-30T12:25:36+00:00",
+      "summary": "Novo agonista de GLP-1 oral mostra benefícios na redução da hemoglobina glicada e do peso&nbsp;&nbsp;MedscapeNovo GLP-1 oral reduz até 12% do peso e avança para fase III&nbsp;&nbsp;Panorama FarmacêuticoNovo comprimido para obesidade mostra perda de até 12% do peso em estudo&nbsp;&nbsp;Fato Amazônico",
+      "sources": [
+        {
+          "name": "Medscape",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVnU1aDlDOW1obTJqaDlIQS01YzhJZEo4M2RPRzZ1V2hkTzBvNzBMSGdlRll5eS1tZXNaM25jdTU4eUczeWdfMFBhVUttY3dPLW1aSHNxZ1ZUSVlKTHlVcnh6VXg1RHowMmp3NXN5dnczNEk4TUJGOVZRcEE0bklrdHR1TWhlbF9MaW9PeHJFaVgtMVBUWm84N2l1QUlmZUVTTXB5MVZR?oc=5"
+        }
+      ]
+    },
+    {
       "id": "94f54a262282",
       "title": "Antibióticos podem alterar o microbioma intestinal por até oito anos, aponta estudo - Medscape",
       "published": "2026-06-30T12:25:36+00:00",
@@ -470,18 +482,6 @@
         {
           "name": "Medscape",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZGcydjRoNGJaeFhsam1pMXN2Uk9NVXMxNFFNNlpQVW1vck5jN216STBURkRGOFMxUjl2NEJidmttcFk4cVNmTFJqVy1WSlRWeWFRSlR6ZXpwRXpYeTFOT1RzT1VEY2Z0TUJPX0hWR0ljbjc2dDRPeDBHdEc5T1BCQjEtcmhDVWVRSjdGQkg5djVhWjN3dS1OV2hpZXhGYU53Tk5faTNhaW1admFGQmI3WTJzTzM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4203cdc9ccde",
-      "title": "Dasa lança medicamento para estágio inicial de Alzheimer; duas aplicações mensais custam R$ 12,7 mil - Folha de S.Paulo",
-      "published": "2026-06-30T12:00:00+00:00",
-      "summary": "Dasa lança medicamento para estágio inicial de Alzheimer; duas aplicações mensais custam R$ 12,7 mil&nbsp;&nbsp;Folha de S.PauloMedicamento para Alzheimer inicial começa a ser vendido no Brasil&nbsp;&nbsp;ICL NotíciasRemédio para Alzheimer chega à rede privada a partir de R$ 12.000&nbsp;&nbsp;Poder360Leqembi: 1º remédio contra Alzheimer à venda no Brasil&nbsp;&nbsp;Campo Grande NewsAlzheimer: novo remédio que retarda perda cognitiva chega ao Brasil a partir de R$ 8,5 mil por mês; conheça&nbsp;&n",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdmxrUHA4cmJ3dGlURkRQWllxazVad3B6cmQ1NUNxUmdnT1BFZHBUTlFPSU9OdGpSSnpFMlBIc2hidjlHbGFGRFZYakdoNE1aQUFKdFBHTnpfQnpCZXVXTE9nV2U1clhMcjJZdkx5eEhJTlNPX211U2xkdWhDYThmRVI0R19UZUhCRVdiLWNscFNvY1UySlhxRmI5c1drWmtjZnFqRWFxR0tyYW91UDBSdFYyNE1yeU9GcFJBeWRyUzNiRkxnaV9pbEVvODRhVGMzNGFUbV94Y0dMZjlSNS1sSnBqLUszb01aRU9zcmlmY9IB9AFBVV95cUxQQmdtbnVMQTQ5VmpKZERoY2syaTdNdUpLZktTd0tZZW40cDBiYVhxZDNNdjFLMEI0am5oUDYyMk9TenIxQkNMLUxqQ2UyN2NpUG05V29fekNUT0tyMGw2TDh2a1ZqUHlEMm5DMXN3ZzJhNVc0YllrYmxwRkJXU2RLVDJLMkk2NkQyWmhGZi1Ga21kRDhCekNSSVRoTlIyQmtuZ280b1h3MlhrVEh4a3EzSXlFXzdJQW9hdDJETktobnlnVENXWExFX1hKSHNidW8zWG5PcHBSWE9TV3ptaU1SaGR0MTItMTgzQnQzQlJTUkE3RFVZ?oc=5"
         }
       ]
     },
