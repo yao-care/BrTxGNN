@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-03T03:27:56.985992+00:00",
-  "count": 46,
+  "generated": "2026-07-03T09:20:47.106313+00:00",
+  "count": 40,
   "news": [
     {
       "id": "ca615049fdc0",
@@ -100,6 +100,13 @@
         }
       ],
       "keywords": [
+        {
+          "type": "drug",
+          "slug": "tadalafil",
+          "keyword": "TADA",
+          "name": "TADALAFIL",
+          "url": "/drugs/tadalafil/"
+        },
         {
           "type": "indication",
           "name": "pneumonia",
@@ -361,52 +368,6 @@
       ]
     },
     {
-      "id": "8cc9f639d59d",
-      "title": "Britânica elimina tênia após viagem e descobre 38 parasitas no cérebro - UOL Notícias",
-      "published": "2026-07-02T19:59:24+00:00",
-      "sources": [
-        {
-          "name": "UOL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWUI1ckwyOGtDLW1oOE9yaHZkdm5tOWxEMTFQVi1aLWZoR1JSSldPUmswdHF0SGNwUll6VFVIYnZXWWVaX1VJWEt5am9JR29fMVd3QlZBeUZtdkVMay05WEo3VndUQTRlak1JN255NjE4c1F0SW9pVXIyV3hRWVJySmh5SUN1SmRLU2lYcDZHcEswR0xmTGdmS3hMNzRRanJCR3Rual9pR29xaFJoZ2QwU0J3OEdvR2dpSXU1Y3AxZ19wLWNEQ1hSaXZpenpGOXFDSGk2RWVxNndOdw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "levetiracetam",
-          "keyword": "TAM",
-          "name": "LEVETIRACETAM",
-          "url": "/drugs/levetiracetam/"
-        },
-        {
-          "type": "indication",
-          "name": "anxiety disorder",
-          "keyword": "ansiedade",
-          "related_drugs": [
-            {
-              "slug": "flunitrazepam",
-              "name": "Flunitrazepam"
-            },
-            {
-              "slug": "centella_asiatica",
-              "name": "Centella asiatica"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "schizophrenia",
-          "keyword": "psicose",
-          "related_drugs": [
-            {
-              "slug": "dexchlorpheniramine_maleate",
-              "name": "Dexchlorpheniramine maleate"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "e0a2772d2d62",
       "title": "Lúcia Helena: Mais erros e lesões: a aposta da ciência para o calor de Brasil x Noruega",
       "published": "2026-07-02T19:58:19+00:00",
@@ -414,6 +375,26 @@
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSHlFR04ySngtMWZBOXY5Y2hYT0R2U0EtQWJXYkhHbFhtb1VDREtaaVY4TkN2UzVSOU11UGE2LUVsZENvMFNtYUhoTDVndDlRSlRaeXo0QVRRcFBYaXNWZTRWVHdOOU5mRnRRejBmSG5jeW85UXZySHl0THFaRkQ3aVNOQmpaUXM4b2owZzU5N3VtTHBWMmQtd1hhcnlkZXIwTGp0dE8zaWhjVkUxaGVtbW5DRVhpbmJfM2Job21XT0VqY2dCUlc2VFpwcFFYRmVlSmtyY3pB?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
+      "id": "141baaf6e028",
+      "title": "Musculação reprograma células do fígado e ajuda a reverter danos da obesidade - Folha de S.Paulo",
+      "published": "2026-07-02T19:44:00+00:00",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUG5RYkR0d28zTUhZX3F5TkZCNTNONFRyTHBpUC1ZUlFTc2NvVDZFenp3azR1ZWJrNHhxZEg1UVFBS2Juc3BPT2hFSHk1Mkt3NUFTTXZkbERVUGstMkJKb0hJZFN5NUdyalRVSWxuS1MxTF9vYkJvVG45bTdRZ2NKeFhFT09oYjF4Sy03bmtUQ0xrVlZfMDZjb0JUU1laZHhNdjNzZ2k5amtfV0JxNk42NjFBcWUxdWJvbEJ6REJQVHh5NGszLVdkQWVmRHlOeHd6N3ZGVA?oc=5"
         }
       ],
       "keywords": [
@@ -913,26 +894,6 @@
       ]
     },
     {
-      "id": "36d6722feedc",
-      "title": "Como a musculação pode reverter danos da obesidade e reprogramar o fígado, segundo cientistas brasileiros",
-      "published": "2026-07-02T14:05:12+00:00",
-      "sources": [
-        {
-          "name": "Globo",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPcnZkOFBMWmVveWNrTXhwZklTUmM2dlBYNHBVVmFscmVVNTVYNDBMWnFMUXBYR2o4OXZ3c2RZVl9nZmFEUU5LZ3dzdHZZc19qb05RWTZDR01zZVBjSjZDWUYtNjJhczVvR212TVFfMUVEMVh6dHRLeUJxY2FXbHBGcG9XU280bV9xRGR4c29NMkkxZDRkNW5YVnFZa1diNGdEa3p5MW1YLWhlSzBuanRyTHNSdlNXSkRlaWJFbTdqcnRrb2lGUkNNcDZJTHFnLV8zckVZYW9tNU95c1gyR0JNMHk1djI1QlBPN0ZkbHZ4RjZpMk9fU04wWtIBhwJBVV95cUxOTFlTWHNvNEVZZ0l5dUZHWXNsandZaWl3Z1RibWhmT3pEbm1DbnJ4WDBwWnhCcl9JUjJ6ZjdweEFQa3FDSTVaSTBwb21WMVdSdGw1WFJweVVSWnczWGpzd2JHdTN2TWM2QTQ1ek16Yzc2QlBXckh6TTJfOW1RMGQyU3RDc3J2d1dzLUo5U21BQUFpd0JTcnRYcjRmaHFuc29WX01rcF8tT0ptMWJfRnlVbFhJb2wtVDVwVFZGMGQxaEROaGRiMXAwX1F0c1BlVDNMNElsZHNaZkkyMV9wakxPWnZzWjZoa0o1MzR4THY5N0Y0MmpvRWkxeW9FX254S0ZUTzBMQ0xhcw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
       "id": "311ec09c8d4d",
       "title": "Prefeitura ainda investiga se ossos descobertos em igreja são do mosqueteiro D'Artagnan - Folha de S.Paulo",
       "published": "2026-07-02T13:57:00+00:00",
@@ -969,40 +930,6 @@
           "keyword": "SIL",
           "name": "SILODOSINA",
           "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
-      "id": "04f9f71ef611",
-      "title": "Custo social das bets é quase 4 vezes a arrecadação fiscal. Entrevista especial com Tiago Braga e Dayana Rosa - Instituto Humanitas Unisinos",
-      "published": "2026-07-02T10:34:56+00:00",
-      "sources": [
-        {
-          "name": "Instituto Humanitas Unisinos - IHU",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NV29nNnFldGgwQ3E3UWY0U3VsdWIxUFpsNzdFamZUenUwNExMbnRsWndjSFFVUzM4YkxrS2F2V2l5MEtuMjVPWWVQRGx6TW84SEU5TWdsV21iSlJraU9FSQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "diazepam",
-          "keyword": "UNI",
-          "name": "Diazepam",
-          "url": "/drugs/diazepam/"
-        },
-        {
-          "type": "drug",
-          "slug": "ticagrelor",
-          "keyword": "TIAG",
-          "name": "TICAGRELOR",
-          "url": "/drugs/ticagrelor/"
-        },
-        {
-          "type": "drug",
-          "slug": "zinc",
-          "keyword": "UNI",
-          "name": "ZINC",
-          "url": "/drugs/zinc/"
         }
       ]
     },
@@ -1155,6 +1082,40 @@
       "keywords": [
         {
           "type": "drug",
+          "slug": "golimumabe",
+          "keyword": "BIO",
+          "name": "GOLIMUMABE",
+          "url": "/drugs/golimumabe/"
+        },
+        {
+          "type": "drug",
+          "slug": "etanercepte",
+          "keyword": "BIO",
+          "name": "ETANERCEPTE",
+          "url": "/drugs/etanercepte/"
+        },
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
+      "id": "938ff34cc108",
+      "title": "GLP-1 reduz mortes e amputações em pacientes com diabetes e doença arterial, indica estudo",
+      "published": "2026-07-02T05:01:07+00:00",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQkJ2bS05S1hXQkRFWGE2UjFRdG54RmR6Vi1GTEZVNlRwbVliODdUa0JiUFZia1lVZzhSWl9LUUEtOUhoY0ZCUkpDbVlyckRZLV9TdGRCVkNwaGJrSGpScWhIb3NYei1CRXgyVU81dUphcjF6TzNIbVpTQ2w2M2FCaXZyTUowVnAxamNvTGNKYXBCYTFGS2VIenpwWlBTb3Fac3VDdi1WUDRlaWp6ck9OeEFWQXlnWnJWdkx1ZkdmX0ZVRlNCQzc5Sk1EMWg0UUVVR3EyZ0V6akzSAecBQVVfeXFMTnBNbzE1akxtaU50NXYyalc5OVNPYUZXalVpX1dvSzNYdVRNSC1aazYwUUhfUzdJQTl5UlNFZDU4VG5yZU9OLWhXRDJNNHZhY3JZSjBMXzZ4VFM2RFFCbjZidllxVUZSSmozMFFoWFBmYlozSXZ4OHQxd1BJWWs3dDAxaTRYVFhmTnl3cWI1T0RtUUpfaHROaVdFX2JYQ3p2Wmg1UFR3TThMQ3dtVUJPSlZjamZsa0cxNzZiUmw1eVZXaXQ2UEt1TFpWTEFWcnlEOWY0ZE4zRDVJUjcySWZmLWZPWWFoaGlN?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
           "slug": "silodosina",
           "keyword": "SIL",
           "name": "SILODOSINA",
@@ -1254,33 +1215,6 @@
       ]
     },
     {
-      "id": "b428c797693a",
-      "title": "China \"aperta o botão\" de emergência nas universidades, elimina 12,2 mil cursos considerados obsoletos e acelera corrida por IA, robótica e chips enquanto 12,7 milhões de jovens chegam ao mercado - CPG Click Petróleo e Gás",
-      "published": "2026-07-01T23:33:00+00:00",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPNnIwbXJkTi1tVTJFTF80Uzd0OUMwQ0pHc0MxZWZkTE91MXpsR0NxTEFsZXZ6by00Z2hpZzVBWlFyeEZoSkEtZkZlSWJWeWJlLTlpQ2k1NDNlOUFSTjRzUks4bmh4LWtLY01JVGVMRk5abnlxVTNlNjVYUDFQVGhIcndNLW1hSFZkRE5DaGRZQXFRbVU4ZDVadFFtbEhuRXhBZllVQ3VPUzBjME0tMjA5RGdWRXpJcGNhTEJoWlA4czFwX1BYb3V2N0Fzb0NoUURKSzE0SmQ4OWhDcXFOekYwSzAta0MxY0NhVEVfd3BDREFIWlozT2VRaW5SdWt0Si1XRlQwOTBxLXJRZzRkX0xOUHV2SUhNc1g1NC1qdkxvMHh6Yi1MNGlKQ25yS185VVZMYzJfOGZB?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "diazepam",
-          "keyword": "UNI",
-          "name": "Diazepam",
-          "url": "/drugs/diazepam/"
-        },
-        {
-          "type": "drug",
-          "slug": "zinc",
-          "keyword": "UNI",
-          "name": "ZINC",
-          "url": "/drugs/zinc/"
-        }
-      ]
-    },
-    {
       "id": "ec71a5ca1eec",
       "title": "Minhocas gigantes de até dois metros habitam solo amazônico e processam toneladas de matéria orgânica por hectare - Revista Amazônia",
       "published": "2026-07-01T23:23:14+00:00",
@@ -1351,33 +1285,6 @@
           "keyword": "BIO",
           "name": "ETANERCEPTE",
           "url": "/drugs/etanercepte/"
-        }
-      ]
-    },
-    {
-      "id": "24eef7211e87",
-      "title": "Trabalhadores encontram mais de 2,6 mil fósseis no PR durante obras - CNN Brasil",
-      "published": "2026-07-01T22:29:31+00:00",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ24yVTRhaGIzSnZLVGNGWUVEUmlOdEpSQ3ZCX3NVZFgzLTFjMzdwWWM5VlZHT0xKbDVscHZfVXYyNHQ1U2pNRFRIeDByeDFGckVyRWR1aHFwcG96WlREcWloTHBtQ2pOc0FVTEp2OE1KZHRLekJqNURJZVNKQVRyeEY0dUVUV3FIUDVwRFlqRERmU0wxN0plaFl0ejNWSkpzdkoyWDJ5cw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        },
-        {
-          "type": "drug",
-          "slug": "etodolaco",
-          "keyword": "DORE",
-          "name": "ETODOLACO",
-          "url": "/drugs/etodolaco/"
         }
       ]
     },
@@ -1889,33 +1796,6 @@
       ]
     },
     {
-      "id": "c3a0af55bd92",
-      "title": "UFPR é selecionada para liderar Centro de Competência em Hidrogênio de Baixa Emissão de carbono - Universidade Federal do Paraná",
-      "published": "2026-07-01T14:38:35+00:00",
-      "sources": [
-        {
-          "name": "Universidade Federal do Paraná",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd3pKZmlTbW9jc0t3VHlMQjVEXzd1VXRLZHhaYVpUZ0g3ejJZSy1RQVhPN2xaWXJRSTdvUkxxd1Bzd1VSRXJDTjg2X3BhWDNuRWRQOTVjd2lFMkhvYXdwWTRxeEdxY0g0M0xLTzJfeEdUYzlDMGdlTk95TU82ejBiNDktRzJkcUU3Rktwbm1nV0tkSjQ3VlZXaHUtdFdGNHlRM2JlTGlzTnBHdEpTWGRiRjlR?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "diazepam",
-          "keyword": "UNI",
-          "name": "Diazepam",
-          "url": "/drugs/diazepam/"
-        },
-        {
-          "type": "drug",
-          "slug": "zinc",
-          "keyword": "UNI",
-          "name": "ZINC",
-          "url": "/drugs/zinc/"
-        }
-      ]
-    },
-    {
       "id": "cb272f653943",
       "title": "Enquanto catava lixo e vendia latinhas no DF, Cícero recolhia livros descartados, estudou com fome, chegou a caminhar até 30 km para ir à escola e se formou médico depois de recomeçar o curso com bolsa integral do Prouni - CPG Click Petróleo e Gás",
       "published": "2026-07-01T13:18:00+00:00",
@@ -1943,6 +1823,26 @@
       ]
     },
     {
+      "id": "c7ea575657e8",
+      "title": "Jogadores convertem só 60% dos pênaltis que implicam em eliminação, estima estudo",
+      "published": "2026-07-01T12:32:58+00:00",
+      "sources": [
+        {
+          "name": "Globo",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZExfdUgzMm1GX1JLZnYxRS10YTZuQ3VfanlGNmR0cE1ZYVVzM05tMEJFcm8zYy1MOFREVnRYMmpHb2ZtRGtHYm94V1hzOWZOM2Z6YWppdF9hdm9WekVQWV9uSC1VeTc3MWdpUG9UcEpIN1dVa1p4NjI3UUxCaVVsZzY5QS1lNHFXQ0Rna3hqUWYteklOU1R0ZWlPZzdUS250c0JoWW0zQm5iWFV1blVvem04YVIzNnY5MWZsZVhoMkx5ZXhUUGxfc2pOVkFlWXdWaVdPdkZoY1JFNm1kMDFYeWVjVdIB8gFBVV95cUxOcTVQRVJlOUdDQWo4LXZtVzNJeFJWU0tsWG5sMFBDb3dYaEhyYjh1Q3Z3eElmM0kzSERvWXNnU0hBVzM0d184MWFTazlIbFc0NkR2bW53ZkFFS3I3QW53VG1zOWpMMUszeklyM0pMOFhDeWVHNXd3akFETGR4LVF4UGE3dVZnLWEzNEtSMHhxaGxSdHYyelRaMmZaR0RvVmt5VTVnNl92U1hRZEFkWXh5MHo0ZHNxRjVrVGZEWGxmUTc0ODhrOWltN19zbXR3bVFkZHdZSGQ1cWFFX0JERllkZDhad2l1UjJWajVXRkk0LUxoZw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "etodolaco",
+          "keyword": "DORE",
+          "name": "ETODOLACO",
+          "url": "/drugs/etodolaco/"
+        }
+      ]
+    },
+    {
       "id": "be4b000cdfca",
       "title": "Remédio barato de diabetes pode frear perda de visão por idade, diz estudo",
       "published": "2026-07-01T11:26:05+00:00",
@@ -1950,26 +1850,6 @@
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQ2Y3anlVMnZiUVBHbmVoelFQcWktNFVOMzRTVzB6SUs3dUxCeW90TkRjNXJrWTVlbWR0cFU5dXA3QmRianU0SXZweE5mZkswWlp4djVoeGE0T05vSmQxYlZUQmMzak9aSVpCN3doSkhuWnFuLU8tTVRoRHdCRHU4Ri1KNmI0Rk9vdGlENS1qbEVNVUdydDkyNmh1X2dzQW0tNnNfdU1VSGV0WklnU1g5ek40SmpCUWlQZ3dkRjN1YlZpczVOZ1dYTE52VDZkVWc4bHpB?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
-      "id": "36a3659e0bc6",
-      "title": "Frutas nativas brasileiras mostram potencial na prevenção de doenças do envelhecimento celular - Jornal da USP",
-      "published": "2026-07-01T11:00:00+00:00",
-      "sources": [
-        {
-          "name": "Jornal da USP",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWm9waGdpckRraWh6bE5XQ2phZF80VkVSa3k3RF9PeE8zMjN1Y1dQVFVjWDNrMUZiRGVaVUtuWnpxSXNlMzNXQ282QzVDdmZEaWJoQkl3VEwyTGRic09pNHRGTjc1bWNUOXUta0Vza3paTlJ2TmtKcjgwTjJNUC1MWHZrRXZvSjFaVlVBNXQ2Sk9mbzJOMnpjYk9PY1BwLThWVTFRMjV5eUlzcjhVek1RVHFCWHBfVExrUzlBNjBzcWZFY0Jr?oc=5"
         }
       ],
       "keywords": [
@@ -2003,97 +1883,22 @@
       ]
     },
     {
-      "id": "3af273422a4c",
-      "title": "Biotecnologia sem complicação: estudo defende ensino mais acessível - Conexão Safra",
-      "published": "2026-07-01T07:57:00+00:00",
+      "id": "36a3659e0bc6",
+      "title": "Frutas nativas brasileiras mostram potencial na prevenção de doenças do envelhecimento celular - Jornal da USP",
+      "published": "2026-07-01T11:00:00+00:00",
       "sources": [
         {
-          "name": "Conexão Safra",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTzdyTUtrQ2dlNTdrOXdfd19tbUZ0WVoydy1Sak1WM2NtWk1RRVZ0aGx4a21ERkhTSW81QzM3UzB5THlMNkFMc1AyR3o0Wm0zanFoTk15TTk5YmJLdGdqRk4xUTBWNFN3a3pVSnZsbXVLTGdUVnZod2Zfc1h6VWVNY1JSTkwwQTVrMHNES0MyQldEaVp6T1BLbms1Rm5qa2c?oc=5"
+          "name": "Jornal da USP",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWm9waGdpckRraWh6bE5XQ2phZF80VkVSa3k3RF9PeE8zMjN1Y1dQVFVjWDNrMUZiRGVaVUtuWnpxSXNlMzNXQ282QzVDdmZEaWJoQkl3VEwyTGRic09pNHRGTjc1bWNUOXUta0Vza3paTlJ2TmtKcjgwTjJNUC1MWHZrRXZvSjFaVlVBNXQ2Sk9mbzJOMnpjYk9PY1BwLThWVTFRMjV5eUlzcjhVek1RVHFCWHBfVExrUzlBNjBzcWZFY0Jr?oc=5"
         }
       ],
       "keywords": [
-        {
-          "type": "drug",
-          "slug": "golimumabe",
-          "keyword": "BIO",
-          "name": "GOLIMUMABE",
-          "url": "/drugs/golimumabe/"
-        },
-        {
-          "type": "drug",
-          "slug": "etanercepte",
-          "keyword": "BIO",
-          "name": "ETANERCEPTE",
-          "url": "/drugs/etanercepte/"
-        }
-      ]
-    },
-    {
-      "id": "ff56cc26e573",
-      "title": "Estudo identifica proteína que acelera desenvolvimento do Alzheimer - CNN Brasil",
-      "published": "2026-07-01T06:33:19+00:00",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbnhRczV0UFU1QXV4dkF2Qmxydmw5cncwdFdrczk3U21vQl8xdG9UQ2U3WWhHMXpTS1dqVmo1RzZRV2h1aTBNMUxRWFExQWdtTFZqNzVFY19BNk53OHR5cDJnaWNaakZBRHQxZlBTZWVJRDh1dGlyUi1vOVhTVC1yWFJGLXV4RXhtS1RxMmpZaExRV1RMTzRHSFVwb1d1Sk9BUWNNWkl3?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "levetiracetam",
-          "keyword": "TAM",
-          "name": "LEVETIRACETAM",
-          "url": "/drugs/levetiracetam/"
-        },
         {
           "type": "drug",
           "slug": "silodosina",
           "keyword": "SIL",
           "name": "SILODOSINA",
           "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
-      "id": "001579124883",
-      "title": "Vacinação de gestantes reduz casos de SRAG em bebês",
-      "published": "2026-07-01T06:01:57+00:00",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZTRRODd2MjlJQVh6SG9nQi1rTTY1NFVSLXhMN1IxOVhPaHhQUmZBbUNyaXhnSGJTdmdZZ1EtNFAxQVRobjRqb3o0VmhZclVXZHpjM0t5Sy1MTVRVSkZWRzU5RktTaTlqRlRPQmdhcnY4ckxLVEdPb1RidUNUTjZhMnVNbTVzTWNrOUczWUo3Z0ZBcEJINF9fcE9Pa3ljT3BvNzNjTDNB0gG0AUFVX3lxTFBiUlRZdUtjMmp0VDNucS12dTZlT2M2RlEtZnZHTW9naG5IbHQ3RHhmNnBSQ0V6UXBqREZoajEzU21IOUVEWklhTU1rQ2VoNmM3VEwyUzRZbU41ZXRvRkExV2dUZ1NJMHIwR3R4U2pGSVFPNUhlT0c1MUlOc0NYYzlRQ1RqSGJPeFliajktVmExYTlUcFNSU3JLMl9sVnB5cDFsdkpZVlk4SkRKdmxVOE1pZE11Vw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "golimumabe",
-          "keyword": "BIO",
-          "name": "GOLIMUMABE",
-          "url": "/drugs/golimumabe/"
-        },
-        {
-          "type": "drug",
-          "slug": "diazepam",
-          "keyword": "UNI",
-          "name": "Diazepam",
-          "url": "/drugs/diazepam/"
-        },
-        {
-          "type": "drug",
-          "slug": "etanercepte",
-          "keyword": "BIO",
-          "name": "ETANERCEPTE",
-          "url": "/drugs/etanercepte/"
-        },
-        {
-          "type": "drug",
-          "slug": "zinc",
-          "keyword": "UNI",
-          "name": "ZINC",
-          "url": "/drugs/zinc/"
         }
       ]
     }
