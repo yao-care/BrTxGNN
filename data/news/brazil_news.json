@@ -1,15 +1,27 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-07-03T19:25:24.263716+00:00",
-  "total_fetched": 94,
-  "unique_count": 94,
+  "fetched_at": "2026-07-04T03:20:41.151032+00:00",
+  "total_fetched": 89,
+  "unique_count": 89,
   "health_related_count": 31,
   "news": [
     {
+      "id": "fbfa5102b790",
+      "title": "Renovação da carteira de motorista volta a exigir exames médicos - A Gazeta",
+      "published": "2026-07-03T21:45:00+00:00",
+      "summary": "Renovação da carteira de motorista volta a exigir exames médicos&nbsp;&nbsp;A Gazeta",
+      "sources": [
+        {
+          "name": "A Gazeta",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWXpzQkhNTTBMX1BwZzI3TmdZcnpDQ0tNZVkzRlRHQTgtTUlJcm1oVks1ZzVwSUs2bjFIS1RjZjNqRC1RRUhxNDlITkFQWUM2Wi1oMTEweGxGX0VxeTM1X2ZMZUQtOTA2QVNOSkRuNERTX1V1V1RfNGtRRlhNdmhTTmxHY0FQZ1VvVTZoZ1lCeUFqV0FIRlVaZHBDWUh5bWxWbU1yYTJTa0I4aHdFM3c?oc=5"
+        }
+      ]
+    },
+    {
       "id": "8f5cc44f5a86",
       "title": "Efeito em minutos: o que acontece com seu sangue quando você se estressa - UOL",
-      "published": "2026-07-03T17:32:38+00:00",
-      "summary": "Efeito em minutos: o que acontece com seu sangue quando você se estressa&nbsp;&nbsp;UOLCasos de síndrome do coração partido mostram como estresse intenso pode afetar o coração&nbsp;&nbsp;O POVOEmoções negativas podem causar doenças? Veja o que diz especialista&nbsp;&nbsp;TerraEstudo revela o que o estresse faz com seu sangue&nbsp;&nbsp;Gazeta de São PauloEstresse psicológico pode aumentar risco de coágulos sanguíneos&nbsp;&nbsp;blogdosilvalima.com.br",
+      "published": "2026-07-03T18:07:23+00:00",
+      "summary": "Efeito em minutos: o que acontece com seu sangue quando você se estressa&nbsp;&nbsp;UOLCasos de síndrome do coração partido mostram como estresse intenso pode afetar o coração&nbsp;&nbsp;O POVOEstudo revela o que o estresse faz com seu sangue&nbsp;&nbsp;Gazeta de São PauloMorrer de tristeza é possível? Entenda como emoções intensas afetam o corpo&nbsp;&nbsp;Tribuna do SertãoEstresse pode alterar a estrutura do sangue, mostra estudo&nbsp;&nbsp;Época Negócios",
       "sources": [
         {
           "name": "UOL",
@@ -18,10 +30,46 @@
       ]
     },
     {
+      "id": "d4368d45fbd4",
+      "title": "Procrastinação não é preguiça: estudo de universidade identifica o circuito do cérebro que trava a motivação e a ação - Portal 6",
+      "published": "2026-07-03T17:11:07+00:00",
+      "summary": "Procrastinação não é preguiça: estudo de universidade identifica o circuito do cérebro que trava a motivação e a ação&nbsp;&nbsp;Portal 6",
+      "sources": [
+        {
+          "name": "Portal 6",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOFVmUXJXeHFYTzB0SVdQLVRLT0kwM3Y0RTVMQ3A3Z2JRWXk4LUZtZkFFTHRicVVjNWlJRUhfTndmcUZqb1Y5MWxKTldkbzBhM0xqWkI0RGFOU0EzbEx6TDR6UHc2TVM0aUtMOU1BVW1IX0lBOWphU3VZNmpZY1AxRDdoYmpHZHNfRTU0eEFaMXVrUm0teXhzWU5nT0g2VEtsNXhXTGEybGF3R2xLZzNiSm9sNmROaUk0QVZIaXIxRm1wZUMxSk1QUWI5azJ6Q0pCbmk1WUhjLXRWWWdTSEo4V2tSZDBFQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "80e9402679cc",
+      "title": "Quase metade dos casos de demência poderia ser evitada com cerca de 4 hábitos de vida; entenda - O GLOBO",
+      "published": "2026-07-03T17:03:44+00:00",
+      "summary": "Quase metade dos casos de demência poderia ser evitada com cerca de 4 hábitos de vida; entenda&nbsp;&nbsp;O GLOBOAté 45% dos casos de demência podem ser prevenidos com ações conjuntas&nbsp;&nbsp;MetrópolesMais da metade dos casos de demência podem ser prevenidos; veja como&nbsp;&nbsp;Jornal O SulEstudo aponta limites da sensibilização para demência&nbsp;&nbsp;HealthNewsMais da metade dos casos de demência na América Latina pode ser evitada; veja como&nbsp;&nbsp;Rede Onda Digital",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdV8tZnd4eFh5dHdfZ1FUczdjY2I3OGItOGFaV2ZxbUthQUlJMkktUU0tNnlkYVVvaTdlQmVLcVVWblBaRDZHc1Rocy1EdjBoc0JrMTRwV01KekJCOENIU19sSGxPZXFlSnFPS0Q1STlSNlVMcVpTckFUb2NiWk5SWFhWS1ZNT1FKQXZkenZ4aURUaThwM3dJUWFzdWZpQUlhRFh0XzF2MHVsZ1EtOTRiWjZLdmlIVGR4MTlOVnh1LU1uRGx4ZU9aQ1JBZUpyZGFKN2xJVTMwSWxMVFdjQUdtcUQtY9IB8gFBVV95cUxNc2M0Z2pnZWEtYmRmekNYSE9kZUhJX2NwQ1A5TEpCYXhBSmw1OW1uRnhGMG5uQlJtdlZ2MlQ1ZDdXNDVkOG5HbVZZLUVOdHI1Z3laNURVZ0l6eUxqeER2RUVBX3VqMXdEZXlxako5UWxpTlRDMlpqMHRLV3p3aWMxRDBLRk1HeVQ3enRWSDJVTEhrWkZtX3piLUZ2NWE3Q0IwcTJicUlQU1hCU25JSnFWNGRQMGhqbzQ1Qmt2ejFOaTVfTWVwNVFENVREVktlZGw5cWFzTGZDM25LWGZNa1JkX2VyRWgzRGd1X3pzN3kteWFYdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "26280ff2c6cf",
+      "title": "Veja cinco frutas que ajudam na saúde do intestino, segundo especialistas - ICL Notícias",
+      "published": "2026-07-03T17:00:58+00:00",
+      "summary": "Veja cinco frutas que ajudam na saúde do intestino, segundo especialistas&nbsp;&nbsp;ICL NotíciasO melhor alimento para ajudar a regular o intestino e reduzir o inchaço de forma natural&nbsp;&nbsp;Tua SaúdeUrolitina A e microbiota intestinal: o elo entre alimentação e proteção do intestino&nbsp;&nbsp;TerraComposto gerado após digestão de romã e nozes protege o intestino&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "ICL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QUmRNdVNfMXNOM01icFVlT01GYnZpQlE1Z1MzcWNCSjk1VTJUemxSVkoxX3BDYWVodlhlWFVzTkRDR09ZMnhNV3p2RTdlUEQ5QjQwbkVUODFIVmNnV08zc29oTG5YajNaMGZidkF6Qm8xVnJjUF9PcWlvNFowREU?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b364af56ed69",
       "title": "Britânica descobre 38 parasitas alojados no cérebro após viagem - iG Último Segundo",
       "published": "2026-07-03T16:01:00+00:00",
-      "summary": "Britânica descobre 38 parasitas alojados no cérebro após viagem&nbsp;&nbsp;iG Último SegundoBritânica elimina tênia após viagem, descobre 38 parasitas no cérebro e enfrenta década de convulsões e psicose&nbsp;&nbsp;O GLOBONeurocisticercose: sintomas, diagnóstico e tratamento da infecção cerebral por larvas de tênia&nbsp;&nbsp;Rádio ItatiaiaBritânica elimina tênia após viagem e descobre 38 parasitas no cérebro&nbsp;&nbsp;UOL NotíciasMulher viaja à Índia e, anos depois, descobre 38 parasitas no cé",
+      "summary": "Britânica descobre 38 parasitas alojados no cérebro após viagem&nbsp;&nbsp;iG Último SegundoBritânica elimina tênia após viagem, descobre 38 parasitas no cérebro e enfrenta década de convulsões e psicose&nbsp;&nbsp;O GLOBOBritânica elimina tênia após viagem e descobre 38 parasitas no cérebro&nbsp;&nbsp;UOL NotíciasNeurocisticercose: sintomas, diagnóstico e tratamento da infecção cerebral por larvas de tênia&nbsp;&nbsp;Rádio ItatiaiaAlucinações, psicose e ansiedade: Viagem à Índia deixou mulher c",
       "sources": [
         {
           "name": "iG Último Segundo",
@@ -33,7 +81,7 @@
       "id": "e43919da4920",
       "title": "Adoçantes podem prejudicar saúde intestinal e metabolismo, indica estudo - UOL",
       "published": "2026-07-03T15:57:58+00:00",
-      "summary": "Adoçantes podem prejudicar saúde intestinal e metabolismo, indica estudo&nbsp;&nbsp;UOLNova análise mostra como os substitutos do açúcar podem afetar a saúde intestinal e o metabolismo; entenda&nbsp;&nbsp;O GLOBOCientistas fazem comunicado urgente para quem toma café com adoçante&nbsp;&nbsp;TNH1Adoçantes e microbiota intestinal: o que estudos recentes vêm investigando sobre os efeitos no intestino&nbsp;&nbsp;Tua SaúdeAdoçantes sob suspeita: estudo investiga possível ligação entre substitutos do ",
+      "summary": "Adoçantes podem prejudicar saúde intestinal e metabolismo, indica estudo&nbsp;&nbsp;UOLNova análise mostra como os substitutos do açúcar podem afetar a saúde intestinal e o metabolismo; entenda&nbsp;&nbsp;O GLOBOAdoçantes e microbiota intestinal: o que estudos recentes vêm investigando sobre os efeitos no intestino&nbsp;&nbsp;Tua SaúdeAdoçantes talvez não sejam tão inofensivos quanto parecem&nbsp;&nbsp;Agora RNAfinal, é seguro eliminar totalmente o açúcar da dieta? Especialista responde&nbsp;&nb",
       "sources": [
         {
           "name": "UOL",
@@ -42,14 +90,26 @@
       ]
     },
     {
-      "id": "90581d53cdde",
-      "title": "O parasita que infecta um terço da humanidade, mas ainda é negligenciado - UOL",
-      "published": "2026-07-03T12:51:45+00:00",
-      "summary": "O parasita que infecta um terço da humanidade, mas ainda é negligenciado&nbsp;&nbsp;UOLPor que os riscos da toxoplasmose ainda são subestimados&nbsp;&nbsp;G1Inimigo oculto: Parasita que vive no cérebro de bilhões de pessoas ainda é ignorado pela ciência&nbsp;&nbsp;Revista Let's Go BahiaExtreme heat settling over U.S. heading into July 4&nbsp;&nbsp;cinemaecerveja.com.brParasita presente em um terço da humanidade preocupa cientistas&nbsp;&nbsp;Aventuras na História",
+      "id": "62a9631f46c7",
+      "title": "Diretoria de Comunicação Social da UFU lança livro ‘Comunica Ciência’ para pesquisadores e comunicadores - Comunica UFU",
+      "published": "2026-07-03T13:53:00+00:00",
+      "summary": "Diretoria de Comunicação Social da UFU lança livro ‘Comunica Ciência’ para pesquisadores e comunicadores&nbsp;&nbsp;Comunica UFU",
       "sources": [
         {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWllkaVZSb1F6Vm91V25GSnNmdnc4THh0dG8weFpKbWN4WUNIWDFiNmRUUlRBQkJoUWhjRnhaVFNVdHpXTTZZX3M4ZmtmWlprdy00U01ZY0dmbWFxMzQzV0Q2RGhjOXV4RkwzNVhMQjJuSEVjN2puS1kycGI3cmlUSWxvQTNvSjdhYVpCM1NkeW51UDFlT3hqSy1Fd1lNei1sd0dIWDlIc3ZpVTRaMFRVdzd3a2xJaGRnMVRRNDl0R0pWZ2RXYWtXaDNqWWNlNFFYLUdnQ0RPdVg?oc=5"
+          "name": "Comunica UFU",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZjNqdmlhQkFwc0RLTldVbW1oTHdRTk94Q0h5bGt1XzhlOVF1TlhueUt6YUktaHhmc05TaGlFcU9iT0hoS2ZEWDBYcHExcFhWYXpjWE9UT2Jhb3FfU1gxaW8ycG1nTWp6TkFrRDFObVRCQkNaYlBfcnlsVHhrR2E5Z1ZzMkhFUWpUdGJwQ0hVUVBUWnUyMVlfblZSOGhuTEtsay1VR1kzYjcwLVRjSTEyTFFCVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b3f269424608",
+      "title": "Parto humano pode não ser o mais desafiador entre primatas - dw.com",
+      "published": "2026-07-03T13:21:36+00:00",
+      "summary": "Parto humano pode não ser o mais desafiador entre primatas&nbsp;&nbsp;dw.com",
+      "sources": [
+        {
+          "name": "dw.com",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQW10bDd0WkxTa3FtemdPMW5JM1N2cjR3N0RVNnRTV3YyaWFiVWdNalVYWkJfTl8tNnNVRXVtSFlGU3Y3c2Y0YzdOLXpCbFRkYU5CTTM2bU1nZ2x6T2l6amVKb3UzV1FUazF3NVhXLTFMR1Q1Y05BVUU4QTVGZl9TZHFJWWMyZWZFemhZSXFXMTZNQU90ZlJxU2hja0Z6STdTeGRTaENTU1g0YzJwdE13WGxWeVlnQWlCaGfSAboBQVVfeXFMUHBjQU5VUEdXNV93M1AwYTlVaE8tYTJNMV8zbE1Ua1RTWUpsY0ZaeWxvZ01nMVlxWi0wM2tmelNPNnEtQjJqTG1uRXgwLXJkSnptVDY5U0g3dDE1YTdQN2JGVEpGd0czRXV6akpqa0VOamRFMkJ2Qk1KNTl0MlE3bzI0VTVFRGIzQVdSMGg0a09BcFgzY1lvLV9KV1NnZ2FqOXFvRFNfOXpmaGg4QjVsZ3hZQ184c2M3TEdB?oc=5"
         }
       ]
     },
@@ -57,7 +117,7 @@
       "id": "3a5ccea56732",
       "title": "Pressão alta: veja sete hábitos que podem ajudar a controlá-la e proteger o coração - ICL Notícias",
       "published": "2026-07-03T11:44:06+00:00",
-      "summary": "Pressão alta: veja sete hábitos que podem ajudar a controlá-la e proteger o coração&nbsp;&nbsp;ICL NotíciasTem pressão alta? Veja 7 hábitos que podem ajudar a controlar doença e cuidar do coração&nbsp;&nbsp;O GLOBOPressão alta não é só excesso de sal: o baixo consumo de potássio também pesa na conta&nbsp;&nbsp;Tua SaúdeJulho Vermelho: sem sintomas, hipertensão pode causar AVC e infarto&nbsp;&nbsp;G1Mudanças simples que podem controlar a hipertensão&nbsp;&nbsp;Diário do Estado",
+      "summary": "Pressão alta: veja sete hábitos que podem ajudar a controlá-la e proteger o coração&nbsp;&nbsp;ICL NotíciasTem pressão alta? Veja 7 hábitos que podem ajudar a controlar doença e cuidar do coração&nbsp;&nbsp;O GLOBOPressão alta não é só excesso de sal: o baixo consumo de potássio também pesa na conta&nbsp;&nbsp;Tua SaúdeJulho Vermelho: sem sintomas, hipertensão pode causar AVC e infarto&nbsp;&nbsp;G1Cuiabá (MT): Inverno aumenta pressão arterial; entenda como se prevenir&nbsp;&nbsp;Diário do Estad",
       "sources": [
         {
           "name": "ICL Notícias",
@@ -126,6 +186,18 @@
       ]
     },
     {
+      "id": "3f098081aa7b",
+      "title": "Estudo aponta dor em 81% dos casos de colocação de DIU; manual do SUS prevê dor em 5% - Folha de S.Paulo",
+      "published": "2026-07-03T07:00:00+00:00",
+      "summary": "Estudo aponta dor em 81% dos casos de colocação de DIU; manual do SUS prevê dor em 5%&nbsp;&nbsp;Folha de S.Paulo8 em cada 10 mulheres relatam dor intensa na inserção do DIU, diz estudo&nbsp;&nbsp;Correio BrazilienseÉ normal sentir dor durante a colocação do DIU? Veja novos dados&nbsp;&nbsp;Veja SaúdeColocação de DIU dói mais do que o esperado, mostra estudo com mais de 7 mil procedimentos&nbsp;&nbsp;TerraEspecialista esclarece dúvidas sobre a inserção do DIU e como reduzir o desconforto&nbsp;&n",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdEJ2aTYxVy1KYXVQd0trakpVdXF1RExTSmltRXVHOG0ycDR4b0x1RWYwblR2am5JenBQYlRseW1LQXcwbWJzeVJFbnJ1ZjJnT2VlRndmZE9QdUwzYVUxamFEd3Azc1dMSzJ1OGJRcTJIaEswcDdEYjl4MjlWV2szRmJDUjh2UTFiTDUwMldubG8tOTVTUmFGZ0hvLWJ6NWVpZjVnUnVEZE5PVG5fck5UaHl2aWVmS2ZCbXlBdDY1UWlObWpjazF2bkxmTlR3U2pp?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1aa28c20521f",
       "title": "Canetas emagrecedoras reduzem mortes de diabéticos e pacientes autoimunes - CNN Brasil",
       "published": "2026-07-03T06:37:38+00:00",
@@ -186,18 +258,6 @@
       ]
     },
     {
-      "id": "d660f1229f12",
-      "title": "No fundo do oceano Índico, pesquisadores chineses acharam o maior cemitério de baleias já registrado: quase 500 esqueletos espalhados por 1.200 km, alguns com 5,3 milhões de anos, mostram como a morte de gigantes marinhos sustenta ecossistemas i - CPG Click Petróleo e Gás",
-      "published": "2026-07-02T21:21:00+00:00",
-      "summary": "No fundo do oceano Índico, pesquisadores chineses acharam o maior cemitério de baleias já registrado: quase 500 esqueletos espalhados por 1.200 km, alguns com 5,3 milhões de anos, mostram como a morte de gigantes marinhos sustenta ecossistemas i&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPTFE5aVBfSmR2SUtIRklGN3AwNmJYMVdleXRMbFZaUmROcDhrUnVJcUpWVTZ5Y2cxdE1lVkxIV3ZjajlxRGFXZWQyLXgybTA4SUtuSC1kVWVpZUNfMUc5M3hsbnFpenZBdndjWC1FRkstd3ZueHFCRlNkRm1BSHczWk44eExsTEw3X3M3NXVpNEhWRTZiS055OXNxZk5od19TNWU2dmRvcjgtTVprQmNmMUhCQWFUUjQ0OUpYYXBUSDRoVFpfMGhEVkpyMVZmeF9lMmZnbzJqSjFWeWN6V2RoVWpsTzkwQjhVcTBxRzM0c250bzl6T3QwRmFmeW9Nb2xMRlNjdFhLRnFpc3UzenItSHUwbVlQNnlmUjdRTEc4WVNkeVEwWTJDVHEyOFA3S3huR1pLNXBwODRpUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "729b59a4e3d8",
       "title": "Pneumo 20 no SUS: o que você precisa saber sobre a nova vacina - Correio do Povo",
       "published": "2026-07-02T20:41:44+00:00",
@@ -222,22 +282,10 @@
       ]
     },
     {
-      "id": "26280ff2c6cf",
-      "title": "Veja cinco frutas que ajudam na saúde do intestino, segundo especialistas - ICL Notícias",
-      "published": "2026-07-02T20:00:58+00:00",
-      "summary": "Veja cinco frutas que ajudam na saúde do intestino, segundo especialistas&nbsp;&nbsp;ICL NotíciasO melhor alimento para ajudar a regular o intestino e reduzir o inchaço de forma natural&nbsp;&nbsp;Tua SaúdeUrolitina A e microbiota intestinal: o elo entre alimentação e proteção do intestino&nbsp;&nbsp;TerraComposto gerado após digestão de romã e nozes protege o intestino&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "ICL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QUmRNdVNfMXNOM01icFVlT01GYnZpQlE1Z1MzcWNCSjk1VTJUemxSVkoxX3BDYWVodlhlWFVzTkRDR09ZMnhNV3p2RTdlUEQ5QjQwbkVUODFIVmNnV08zc29oTG5YajNaMGZidkF6Qm8xVnJjUF9PcWlvNFowREU?oc=5"
-        }
-      ]
-    },
-    {
       "id": "141baaf6e028",
       "title": "Musculação reprograma células do fígado e ajuda a reverter danos da obesidade - Folha de S.Paulo",
       "published": "2026-07-02T19:44:00+00:00",
-      "summary": "Musculação reprograma células do fígado e ajuda a reverter danos da obesidade&nbsp;&nbsp;Folha de S.PauloComo a musculação pode reverter danos da obesidade e reprogramar o fígado, segundo cientistas brasileiros&nbsp;&nbsp;GloboMusculação reduz danos ao fígado causados pela obesidade, diz estudo&nbsp;&nbsp;CNN BrasilMusculação ajuda o fígado a reverter danos causados pela obesidade&nbsp;&nbsp;MetrópolesPesquisa revela que treino de força altera genética celular e recupera fígado de pacientes obes",
+      "summary": "Musculação reprograma células do fígado e ajuda a reverter danos da obesidade&nbsp;&nbsp;Folha de S.PauloComo a musculação pode reverter danos da obesidade e reprogramar o fígado, segundo cientistas brasileiros&nbsp;&nbsp;GloboMusculação reduz danos ao fígado causados pela obesidade, diz estudo&nbsp;&nbsp;CNN BrasilPesquisa revela que treino de força altera genética celular e recupera fígado de pacientes obesos&nbsp;&nbsp;Revista Let's Go BahiaMusculação ajuda o fígado a reverter danos causados ",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -254,30 +302,6 @@
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUTFTQmp6bHJDM2NqRkd4elhDZXlNUF8zanJDUWtmVGl0OXotcXRhUXFGNlRzREowaUZrWG1UeUFqWFJ1SUhjR082eUVWV2c2eHNVaTVQWF9KUHpOOGlyaFVVUi1OZnZqT1B2VzlNa1dKc0RrME0tZWZBV0FmbUZ5UTJ4UV9Wa2d1RTdmaG1jVXFoUG9Yc2Z5cURlNUFCTmo4bUx1VDdWRW1POE1sZlNoYV9mTmdMcTBiYzlTQUJBYW9fTDB1UmcweTRYa0xNMEXSAd4BQVVfeXFMUEdXOWdpV2ZOTkczVnBxd1N3RjdfRzJpYlY4UXR3UFJxZVllbG4yMDZsTG1zeVVQbjk2X3p0U0ROenZ4cEplVkZtZ0hhb1NOQ3R2TmhfZUdxTEVOQUhlRnA3OE12YksyZTZKdnB0MHRoNU12UWtuY1pfeDZkSEJFcmx0Vk9BWmFPMlJzRzI3VFlJeUd0MjNrTmFrQVYxSmxPaDJuckZzb0xrOXpIZDlKLWR3M3dSZy1zelNidXA5cHZ6Nk5YZjhXbTBRcHhJNzU2OFBOYzd1MmNzZXdKLXFR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c0aacabc3eaa",
-      "title": "Mãe de menina com autismo severo faz campanha para custear tratamento e procura emprego em Jaraguá do Sul - fm105.com.br",
-      "published": "2026-07-02T17:42:01+00:00",
-      "summary": "Mãe de menina com autismo severo faz campanha para custear tratamento e procura emprego em Jaraguá do Sul&nbsp;&nbsp;fm105.com.br",
-      "sources": [
-        {
-          "name": "fm105.com.br",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQelF6SjlXaHpKOTAtdm54aXVkTVJFUjZtOC1FTWpRV0hmaUw5aC1xOHd3SlZmaVpuX2htUGhyY0RCSFNqRGxZM2NjLWtIU1lKczlKRExJZW5ER1ppNzN3SXdQUmpxeF8wVmY3ZG84VnRERUY0SE9oc0h0VGYtZWZnbmZwbEhNSnM1WUxWUE80THdGdmdERkdXZFVNeWIwRE9QYklHeFdMck9jTEhIWmszUjJCbElxSFI1ZnlSU3prOTRzNTVVbmRBb1g1SQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b0d1e6a93e17",
-      "title": "O perigo silencioso do diabetes que muita gente só descobre quando os rins já estão comprometidos - Jornal Correio",
-      "published": "2026-07-02T16:11:08+00:00",
-      "summary": "O perigo silencioso do diabetes que muita gente só descobre quando os rins já estão comprometidos&nbsp;&nbsp;Jornal CorreioDiabetes: veja o que fazer para reduzir o risco da doença&nbsp;&nbsp;EstadãoDiabetes: saiba como identificar sinais silenciosos e prevenir a doença&nbsp;&nbsp;GZHPré-diabetes: condição silenciosa pode ser revertida antes de evoluir&nbsp;&nbsp;D24AMCurso gratuito capacita profissionais e pacientes para prevenir complicações do diabetes no SUS&nbsp;&nbsp;crfms",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQ3RyWGQyWkVIdWpMX0p2NnIzOWhQWTljMlg5akU2dkpGT2JYNi1JelRzVkl4OWtjTkRkN1VVWEs2SG5TXzkzX0J0UU5wTS1sM011M3Z0cml0b2ZSZlRrNFJtMHhqbFN1c0pIcWxCbDRrOHdXdUxFS1R5WU9ua01senFjM2d5aUFuSERJNFFDZVE4WHdTWHlTZi1hZjFJc1phUDhiVVU1WFNnakF3akRGdi1zbjJyald5dVF0YlBzbkw2QmgxdWxETWNhX01HNnJyandKa0g3TnQyUQ?oc=5"
         }
       ]
     },
@@ -318,18 +342,6 @@
       ]
     },
     {
-      "id": "3ea55b98411e",
-      "title": "Secretaria de saúde investiga possível caso de dengue hemorrágica na Serra - Tribuna Online",
-      "published": "2026-07-02T11:53:08+00:00",
-      "summary": "Secretaria de saúde investiga possível caso de dengue hemorrágica na Serra&nbsp;&nbsp;Tribuna OnlineQuatro pessoas já morreram vítimas de dengue em 2026&nbsp;&nbsp;Tribuna OnlineDentista de 29 anos morre na Serra; dengue é investigada como possível causa&nbsp;&nbsp;Folha VitóriaEspírito Santo confirma quatro mortes por dengue; uma delas ocorreu em Baixo Guandu&nbsp;&nbsp;folha do esMorte de dentista na Serra pode ser a quinta por dengue no Espírito Santo em 2026&nbsp;&nbsp;ES Hoje",
-      "sources": [
-        {
-          "name": "Tribuna Online",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSEtiRXZXa3FxVGFnUXJzYTIxalRZMm1zUU5aMHZvcVd2ekQ4eWdXWnlBT3l6YkljX0RqUGZ4Q04wM1hFRVJCNkU1QU55MmhNZkVRb1oxTXVFM1NVVHFIODVXWDBjVm5tMkdZRkN2a1NEVmMxbGFoSVkyLVhGdUY4V3JiWTlocHIyckJhMTgwYTZTY2MtRThYM1dPVndjOFBPSFhTV2ppbXlVaW9FbUk3Nno4bFdpQ3fSAb8BQVVfeXFMTmgyU09QTTZaaHd0QTRoMlhORmpaVWp1Q0RrRTk1Snh6c2xqUHpjTGpsX0FBRmFuS2JSV1puMV9SZkVTMDVxU1czOFhiMF8wb2txeXFlS3Y4UXBwREJ1SjRBRG1BMVI1WFgzSUNXUEpoY044QVhVeFVpdUcxUklkMzY1S2hDMWNuZ1FxbGlQcWtsN2lKaDF4cGNadENfbWxOTnVNYThsVXFueVZ2SFRFdTNqVDFqMzQyN283ZkZvS2c?oc=5"
-        }
-      ]
-    },
-    {
       "id": "84bd6b2197eb",
       "title": "Cientistas da Fiocruz podem produzir vacina completa contra a malária - Agência Brasil",
       "published": "2026-07-02T11:02:00+00:00",
@@ -354,26 +366,14 @@
       ]
     },
     {
-      "id": "2d5da3de880f",
-      "title": "Vírus sincicial respiratório (VSR) impulsiona aumento de casos graves de síndrome respiratória no Brasil; proteção de vacina dura até três anos - G1",
-      "published": "2026-07-02T05:01:14+00:00",
-      "summary": "Vírus sincicial respiratório (VSR) impulsiona aumento de casos graves de síndrome respiratória no Brasil; proteção de vacina dura até três anos&nbsp;&nbsp;G1Bronquiolite é mais comum em crianças pequenas; veja cuidados&nbsp;&nbsp;G1Vírus sincicial respiratório representa 53% das infecções graves&nbsp;&nbsp;R7Na contramão de outras regiões, Mato Grosso do Sul segue em alerta para casos de síndromes respiratórias&nbsp;&nbsp;MidiamaxCasos graves de doenças respiratórias começam a estabilizar no Bra",
+      "id": "5d2dfd2786ba",
+      "title": "Constelações de satélites podem ameaçar a astronomia, alerta estudo - G1",
+      "published": "2026-07-02T06:00:26+00:00",
+      "summary": "Constelações de satélites podem ameaçar a astronomia, alerta estudo&nbsp;&nbsp;G1",
       "sources": [
         {
           "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOQm5pZkFoTmVxT251eFg2TnhNbUV4VlFtSWFHcnR1d3lLcjNZLS1lUXZ0VDM1dTlDZ2tWdDU1NVNqcHFkb0dBUmE4bDFXSVdOY000WE94R0wyXzhBOUhiY24yZXdwbUtFSWpqbmxwNHdQd0hBbkM2MWd6WlU5eXdhbGlRcWlab0dndXJBRmJqYVZaclNCNnU2QXFSZnk0alFkbDFvdkhVVGVKNC1xWHg3YWprZFctdUdJaWdMT0dVZFNZc1c0Tm1XTDVSd1pObHlsWjdjd3ZGZkZvZVZFS3ZhV18waGFpQU1pTFZ1dFlGbU43aUhrcmxaM2hrQVV2dDZUUEZGUFJfSF94SUJzYk9nbkZuTHVkTklUQlpIQ9IBqwJBVV95cUxPazNiOFlzYmpoX1BVY3ZMelIxNVltQUU2ZkN0Smd5QVBYVVpFU3FiUl8ycVBpaEFMQk8xNUJCeFJobXBVSVV3dmtXWktnRkN4cENVQkNRa2VfQ0J4Njl6N2kzRS12VE9qd1ktOE5pMExuS0pYOFJycS1ibHBrdnRRVzlsVWMwaFhNNEpObElFQm16UnBxeGtSQlV0dkVmRE8yLXFmemlfSE5lTFNnd2lXZHJySVNHdk02Y0FXcjZhMVZvLVhZWDRnNmgweklIRkhLR0RCWEc0NV80VzhTT192X1dJUHlUZmxJLUF6M3pCT2NfY3JEUnlQUmh4cmd0UUxqZUpGZ2JPY1l3YXlXX1JFNXpLUlFFaWhZdUhuR0NSYlBFMS04TDQ2N21WZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bdd364945529",
-      "title": "Menino de 11 anos morre após acordar com morcego na boca - Terra",
-      "published": "2026-07-02T01:43:00+00:00",
-      "summary": "Menino de 11 anos morre após acordar com morcego na boca&nbsp;&nbsp;TerraMenino de 11 anos morre de raiva após morcego pousar em seu rosto; saiba mais sobre as formas de transmissão&nbsp;&nbsp;O GLOBOMenino de 11 anos morre semanas após acordar com morcego na boca&nbsp;&nbsp;TerraMenino morre após acordar com morcego no rosto e caso cria alerta na saúde&nbsp;&nbsp;BnewsMenino canadense morre de raiva após contato com morcegos.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaXJTOU5QQlRXc1ZhSWFiTnhoNnhERGhHSU1WbU1FbVRrOFlKbnBxaVJlaWdTbHM3dnNUUzlDUUhENnJLeXk2c244SVMwQ1N5cDdPeW1TMC16Y213R0VvTjk3MTUzbDlOWkNzYjZ2ak5tdkhFellWTnhybENCZDJQNHZtcmRCVmJwWWxQLXROUkhKSGpZY0VXbERVQjBSQTZSM3RFSEZUUi1ZdjdBMUVUWl94RFYwbjVNemNGSVBRNDN0N3hZS2tVZDFyak5iX21RNG1ianpRamR4dw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOXzAxclBzcDRjVUtDNjdRbGJGY3p0eF9WSUROcHBLYjRqWVctMjBwbi1iT3RybzJvbXRtbEtvU3pLV3FmaTJuX0JUejlXeG1TakIyMjcxaV9zOFVGWGt2amxCVG9FQ3dUWUoyUWUtbGEweGlTbThlR1o0MlN0VUJjSktzV2NWMjVSOFJEb3BNb0FReUNXSXBXbVlPVmtCTkN1eHkwcWotR2pCV1BETUdnS25sZ2kxUzVLTzB5YtIBywFBVV95cUxNNUxCLXhMQklTUzdXc1RrWHlJOTY2djZtY1ZDMHVWbEdQLVVFZXA4S1JZLU1TOS05V2hYdWNjc2xqcTZVbENVdXUxaU1MNzVXclZ5a3VwREtxU1BHcUNLSDJ4OHlUWlctX3gtNHVPUFFNVnRTdXlWUURCMVpEUHpsQVlhM1ZZN21BUl93SS11aXRWNDEyZGFhR1hqbHFGbklzaUg4MFVESmRBU2UxdWNuQVE4WnBaM0lxM0ZVZmNRZHJod1p4VjU1N1owaw?oc=5"
         }
       ]
     }

@@ -1,15 +1,15 @@
 {
-  "generated": "2026-07-03T19:25:25.795196+00:00",
-  "count": 37,
+  "generated": "2026-07-04T03:20:42.525695+00:00",
+  "count": 39,
   "news": [
     {
-      "id": "724faa2887f1",
-      "title": "Tecnologia no agro: como o MAPA usa ciência para combater a adulteração de mel no Brasil - Anffa Sindical",
-      "published": "2026-07-03T18:32:01+00:00",
+      "id": "31c678f32571",
+      "title": "Brasil anuncia novo lançamento de foguete em Alcântara ainda em 2026 - CNN Brasil",
+      "published": "2026-07-04T00:07:53+00:00",
       "sources": [
         {
-          "name": "Anffa Sindical",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONHZrSDFGR1BENXRwVmVhTENHVENFTUFMVkt4ejN2NXBWbjBxWXZ4OWtrem83UVVFMlJxeElSWXJFTnRzYmpGNzhKN1V0VTRWbVpSZGN0X01ENGxvSWtMNVdLSlhUZmZ3Y0lmUGIzUXpoUDZJeHB2M1RLWXpxSFBYaHRRaWRKUjRKM05rZ1pjVDR3Y3B3S01yTnY3LWJuaDhTYzB4azVCbGJjZmR3LU9xZlNwVnoycXMw?oc=5"
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaTVPbUh0dFhkcTNQdWRrVC15VmJFcVVCTHFpcjVabDJ2MkczUE83c0o0ZVVTSEk2dkFadXNmOUpMcGtrWHlhRFlEWWd3S2MwZ2taV0J4aFhLQ2pwQlZudEhHdkFibko2QlZGczJHRFJsc2VWY2VZVDREbGFpMDJRalFjNFpheEIweHVFOTRHS2dKaHpfRHcyaW13WE9nTkxoc0JBajdTMWpvUQ?oc=5"
         }
       ],
       "keywords": [
@@ -23,9 +23,92 @@
       ]
     },
     {
+      "id": "c1aae14be456",
+      "title": "Cientistas descobrem que orangotangos podem estar se ‘automedicando’ - Extra online",
+      "published": "2026-07-03T20:41:24+00:00",
+      "sources": [
+        {
+          "name": "Extra online",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOHlianZrUEtLdzFmV0x6NmlvY0tMSGJiVkRIdEpBZGlOXzItSHY1X3ZSRU9MNFI3dE1LMHNoX1dOQW81d0JvNzJqNEhPX2lKQmQtTHlJU1JpVFNtSklDRnBDV2FMVURxdlJmeVRBV0tZMzl1OEdqb0dfOEhrXzJUR2pnSFZoYkNnQWlKQkV1elJmLUxONFNfZ0NfOGFmRzF3VnRTNVZnOFphR3lIbVUtcU1xbjQxREt2R2fSAcgBQVVfeXFMTVZjQlM3a2xmaTY5R0EtMTBKeEZOdGdocG00Z2RSNXF6YVFnWm5maU9OSjJpaVM1ZGtWSVl1c3NQMkJGQUg5U2Zja3RHMDF3cE5VUjNHWDh1XzJYcEFBamp6UTJDRWt5SzRGY0FsblRwRV9aUG1iYnQ4UDVjbWV1MVZ4SnZ5MWlIQXk2R1cxUWY1Nl8wd25aR0Q5MkVtcUlJYkttOUdKRnRPTUd3cEdhLTNRdlFJRUg3SFc4Um1NckhyMC1xZnRPNDc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "gout",
+          "keyword": "gota",
+          "related_drugs": [
+            {
+              "slug": "potassium_sulfate",
+              "name": "Potassium sulfate"
+            },
+            {
+              "slug": "metamizole",
+              "name": "Metamizole"
+            },
+            {
+              "slug": "phenylbutazone",
+              "name": "Phenylbutazone"
+            },
+            {
+              "slug": "nimesulide",
+              "name": "Nimesulide"
+            },
+            {
+              "slug": "nomegestrol_acetate",
+              "name": "Nomegestrol acetate"
+            },
+            {
+              "slug": "amiodarone",
+              "name": "Amiodarone"
+            },
+            {
+              "slug": "rivaroxaban",
+              "name": "Rivaroxaban"
+            },
+            {
+              "slug": "piracetam",
+              "name": "Piracetam"
+            },
+            {
+              "slug": "carbocisteine",
+              "name": "Carbocisteine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "07bb63b5840d",
+      "title": "Cientistas e comunidades tradicionais denunciam obra que promete 'virada urbanística' em Florianópolis - Sul 21",
+      "published": "2026-07-03T18:33:00+00:00",
+      "sources": [
+        {
+          "name": "Sul 21",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTVktb0hhM1ZvU2l4SS0zaGVwUVcxNzJMcDhRbHdDQ040dDJfQy1Tc0NkRy12aDVvbkktTDhRb2p5WjBOVW9EVGFfTDE4dl94cUIxa0FoV2dlUUlJVzJuanRidnkwRDhOQndBUDYxMVMzSGNQNXFiMzR3aTJZb3VLNTBGT0VtRjhlODk4aExMOENrM3lOMzV1Z1J1TUdTTThiQ19rNTRVdjcxWEUwR0lvenFHS3RCNUVINjJKVFFzZUhLY254UzB0T1NxQnlzR2RrM1k1cEFUVDhnS0RXYU5TOFNWX2NlRmpv?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "diazepam",
+          "keyword": "UNI",
+          "name": "Diazepam",
+          "url": "/drugs/diazepam/"
+        },
+        {
+          "type": "drug",
+          "slug": "zinc",
+          "keyword": "UNI",
+          "name": "ZINC",
+          "url": "/drugs/zinc/"
+        }
+      ]
+    },
+    {
       "id": "8f5cc44f5a86",
       "title": "Efeito em minutos: o que acontece com seu sangue quando você se estressa",
-      "published": "2026-07-03T17:32:38+00:00",
+      "published": "2026-07-03T18:07:23+00:00",
       "sources": [
         {
           "name": "UOL",
@@ -35,10 +118,114 @@
       "keywords": [
         {
           "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
+          "slug": "levetiracetam",
+          "keyword": "TAM",
+          "name": "LEVETIRACETAM",
+          "url": "/drugs/levetiracetam/"
+        }
+      ]
+    },
+    {
+      "id": "d4368d45fbd4",
+      "title": "Procrastinação não é preguiça: estudo de universidade identifica o circuito do cérebro que trava a motivação e a ação - Portal 6",
+      "published": "2026-07-03T17:11:07+00:00",
+      "sources": [
+        {
+          "name": "Portal 6",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOFVmUXJXeHFYTzB0SVdQLVRLT0kwM3Y0RTVMQ3A3Z2JRWXk4LUZtZkFFTHRicVVjNWlJRUhfTndmcUZqb1Y5MWxKTldkbzBhM0xqWkI0RGFOU0EzbEx6TDR6UHc2TVM0aUtMOU1BVW1IX0lBOWphU3VZNmpZY1AxRDdoYmpHZHNfRTU0eEFaMXVrUm0teXhzWU5nT0g2VEtsNXhXTGEybGF3R2xLZzNiSm9sNmROaUk0QVZIaXIxRm1wZUMxSk1QUWI5azJ6Q0pCbmk1WUhjLXRWWWdTSEo4V2tSZDBFQQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "mirabegrona",
+          "keyword": "CIRCUIT",
+          "name": "MIRABEGRONA",
+          "url": "/drugs/mirabegrona/"
+        },
+        {
+          "type": "drug",
+          "slug": "diazepam",
+          "keyword": "UNI",
+          "name": "Diazepam",
+          "url": "/drugs/diazepam/"
+        },
+        {
+          "type": "drug",
+          "slug": "zinc",
+          "keyword": "UNI",
+          "name": "ZINC",
+          "url": "/drugs/zinc/"
+        }
+      ]
+    },
+    {
+      "id": "80e9402679cc",
+      "title": "Quase metade dos casos de demência poderia ser evitada com cerca de 4 hábitos de vida; entenda - O GLOBO",
+      "published": "2026-07-03T17:03:44+00:00",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdV8tZnd4eFh5dHdfZ1FUczdjY2I3OGItOGFaV2ZxbUthQUlJMkktUU0tNnlkYVVvaTdlQmVLcVVWblBaRDZHc1Rocy1EdjBoc0JrMTRwV01KekJCOENIU19sSGxPZXFlSnFPS0Q1STlSNlVMcVpTckFUb2NiWk5SWFhWS1ZNT1FKQXZkenZ4aURUaThwM3dJUWFzdWZpQUlhRFh0XzF2MHVsZ1EtOTRiWjZLdmlIVGR4MTlOVnh1LU1uRGx4ZU9aQ1JBZUpyZGFKN2xJVTMwSWxMVFdjQUdtcUQtY9IB8gFBVV95cUxNc2M0Z2pnZWEtYmRmekNYSE9kZUhJX2NwQ1A5TEpCYXhBSmw1OW1uRnhGMG5uQlJtdlZ2MlQ1ZDdXNDVkOG5HbVZZLUVOdHI1Z3laNURVZ0l6eUxqeER2RUVBX3VqMXdEZXlxako5UWxpTlRDMlpqMHRLV3p3aWMxRDBLRk1HeVQ3enRWSDJVTEhrWkZtX3piLUZ2NWE3Q0IwcTJicUlQU1hCU25JSnFWNGRQMGhqbzQ1Qmt2ejFOaTVfTWVwNVFENVREVktlZGw5cWFzTGZDM25LWGZNa1JkX2VyRWgzRGd1X3pzN3kteWFYdw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "tadalafil",
+          "keyword": "TADA",
+          "name": "TADALAFIL",
+          "url": "/drugs/tadalafil/"
+        },
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "demência",
+          "related_drugs": [
+            {
+              "slug": "biperiden",
+              "name": "Biperiden"
+            },
+            {
+              "slug": "entacapone",
+              "name": "ENTACAPONE"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "albendazole",
+              "name": "Albendazole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "26280ff2c6cf",
+      "title": "Veja cinco frutas que ajudam na saúde do intestino, segundo especialistas - ICL Notícias",
+      "published": "2026-07-03T17:00:58+00:00",
+      "sources": [
+        {
+          "name": "ICL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QUmRNdVNfMXNOM01icFVlT01GYnZpQlE1Z1MzcWNCSjk1VTJUemxSVkoxX3BDYWVodlhlWFVzTkRDR09ZMnhNV3p2RTdlUEQ5QjQwbkVUODFIVmNnV08zc29oTG5YajNaMGZidkF6Qm8xVnJjUF9PcWlvNFowREU?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "golimumabe",
+          "keyword": "BIO",
+          "name": "GOLIMUMABE",
+          "url": "/drugs/golimumabe/"
+        },
+        {
+          "type": "drug",
+          "slug": "etanercepte",
+          "keyword": "BIO",
+          "name": "ETANERCEPTE",
+          "url": "/drugs/etanercepte/"
         },
         {
           "type": "drug",
@@ -69,6 +256,21 @@
         },
         {
           "type": "indication",
+          "name": "anxiety disorder",
+          "keyword": "ansiedade",
+          "related_drugs": [
+            {
+              "slug": "flunitrazepam",
+              "name": "Flunitrazepam"
+            },
+            {
+              "slug": "centella_asiatica",
+              "name": "Centella asiatica"
+            }
+          ]
+        },
+        {
+          "type": "indication",
           "name": "schizophrenia",
           "keyword": "psicose",
           "related_drugs": [
@@ -77,6 +279,26 @@
               "name": "Dexchlorpheniramine maleate"
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": "fd567d22ebee",
+      "title": "Baleias-jubarte são avistadas em Maricá; mar agitado exige atenção no fim de semana - Maricá Info",
+      "published": "2026-07-03T15:58:40+00:00",
+      "sources": [
+        {
+          "name": "Maricá Info",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcUVUdWJGRzFMTGswVllOX2Z6LXZrMlI3bzBVa3ZyeGZYTnRqUDZPVTV2NTU1TktWTk9RbW05VnpiZTEyNnl0RElFcHpzZFVpWmVINlhGUnNlWlI5Mk5EVlJoMHQ5XzlubWpWYmJQbW0yVEo4ZmVlRDdiNlMtdDdHbTFjOS1ZdnV4c2c?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "tadalafil",
+          "keyword": "TADA",
+          "name": "TADALAFIL",
+          "url": "/drugs/tadalafil/"
         }
       ]
     },
@@ -100,13 +322,6 @@
         },
         {
           "type": "drug",
-          "slug": "diazepam",
-          "keyword": "UNI",
-          "name": "Diazepam",
-          "url": "/drugs/diazepam/"
-        },
-        {
-          "type": "drug",
           "slug": "etanercepte",
           "keyword": "BIO",
           "name": "ETANERCEPTE",
@@ -114,10 +329,10 @@
         },
         {
           "type": "drug",
-          "slug": "zinc",
-          "keyword": "UNI",
-          "name": "ZINC",
-          "url": "/drugs/zinc/"
+          "slug": "tadalafil",
+          "keyword": "CIALIS",
+          "name": "TADALAFIL",
+          "url": "/drugs/tadalafil/"
         }
       ]
     },
@@ -138,6 +353,40 @@
           "keyword": "TAM",
           "name": "LEVETIRACETAM",
           "url": "/drugs/levetiracetam/"
+        }
+      ]
+    },
+    {
+      "id": "62a9631f46c7",
+      "title": "Diretoria de Comunicação Social da UFU lança livro ‘Comunica Ciência’ para pesquisadores e comunicadores - Comunica UFU",
+      "published": "2026-07-03T13:53:00+00:00",
+      "sources": [
+        {
+          "name": "Comunica UFU",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZjNqdmlhQkFwc0RLTldVbW1oTHdRTk94Q0h5bGt1XzhlOVF1TlhueUt6YUktaHhmc05TaGlFcU9iT0hoS2ZEWDBYcHExcFhWYXpjWE9UT2Jhb3FfU1gxaW8ycG1nTWp6TkFrRDFObVRCQkNaYlBfcnlsVHhrR2E5Z1ZzMkhFUWpUdGJwQ0hVUVBUWnUyMVlfblZSOGhuTEtsay1VR1kzYjcwLVRjSTEyTFFCVQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "diazepam",
+          "keyword": "UNI",
+          "name": "Diazepam",
+          "url": "/drugs/diazepam/"
+        },
+        {
+          "type": "drug",
+          "slug": "zinc",
+          "keyword": "UNI",
+          "name": "ZINC",
+          "url": "/drugs/zinc/"
+        },
+        {
+          "type": "drug",
+          "slug": "etodolaco",
+          "keyword": "DORE",
+          "name": "ETODOLACO",
+          "url": "/drugs/etodolaco/"
         }
       ]
     },
@@ -169,6 +418,26 @@
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOV0RoT2FuR09kdTBmMEYxdk9pRTZteHRVVFRxUHpNVmFINkQ0SFYwSWQybGdteWxpU2dLeUFJQi1NNHJlbDEwbDJXa1hlUXAwVWVMRkw0SUtCLXc2LVVHZUJPNzdZTmlXOFRjTDJDb2tJaXNGUWQ5eV82cFJpbDVJZHdhWHhTeFdEaHgtUll0dncyVWdFS0s2YUVEUGg1THpENy16c3Nwd2NWTlNIeWNqRFFNeExzQ1VEU19Hc0RvMFhLY09FVVpaUlo1OE9OQ1BSVUdyVA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
+      "id": "724faa2887f1",
+      "title": "Tecnologia no agro: como o MAPA usa ciência para combater a adulteração de mel no Brasil - Anffa Sindical",
+      "published": "2026-07-03T12:31:58+00:00",
+      "sources": [
+        {
+          "name": "Anffa Sindical",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONHZrSDFGR1BENXRwVmVhTENHVENFTUFMVkt4ejN2NXBWbjBxWXZ4OWtrem83UVVFMlJxeElSWXJFTnRzYmpGNzhKN1V0VTRWbVpSZGN0X01ENGxvSWtMNVdLSlhUZmZ3Y0lmUGIzUXpoUDZJeHB2M1RLWXpxSFBYaHRRaWRKUjRKM05rZ1pjVDR3Y3B3S01yTnY3LWJuaDhTYzB4azVCbGJjZmR3LU9xZlNwVnoycXMw?oc=5"
         }
       ],
       "keywords": [
@@ -686,6 +955,53 @@
       ]
     },
     {
+      "id": "909c10d8fa4b",
+      "title": "Cientistas afirmam ter criado 1ª célula artificial capaz de crescer e se dividir; especialistas pedem cautela com o feito",
+      "published": "2026-07-03T07:01:07+00:00",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNd193em50cERQY2poSjRKSG5fcjhYaHNUNGJHNDdKN05hOFlzdW5jUjFhRWNZQlI2WF96bVpFXzdVcGp2UnJRR1hHQzVsdTl3OVBIeXVTRlRIU2xVOFNQM1pEVmVUVjFfSVp3ZjVxcUtiZTlhcXRacFRpRG1hOFdLZ0ZjSHMzQ2VZbUVmSnU3Qk9YUkJjZ0lUYmRweGZhN0N5NHNJdUtmcVhTbkRwLTlxeVRVV2t2NElHTkRfbVRnTTNoTzgwdXhyQlozNjIwVy16YXg1Y01hQ3VHVVk4QlJ4VXRzMXRyYVpoWEFHN016dXZYNHRIYk1BQndweTZGTWk2S1dLctIBkwJBVV95cUxNUnljVEd1bVBoVTd6QXVlQlZCYkljX0RLOE8wODBCTTF0aHFZNWk5ZFNrX3VqYk0tdkRNU3RYNEIzR3kwNHJNQ3NhQUJsbmlxWG12SXk2cFprS3BNbUdPdTF3dEx2TWprZUI1MFZuWURhR09YOTBKTzUtY2pJaXpGQWdhNmRfby1OQjJPQnJnMUR5dHFEc1BmNjB1YXJkc29aZkZ2cXh6TEZHR29nNnZHTHVVdTE4TU9ZYmpzUU9XZDZVbFh4bnJ6M0RncmtLZVQzRlFwU0JkVEdhYVRPMl9vMGdzS0lxRklZRTVZcm45eGJfZUtlWUNsWDlWRVRLWkFDRm9vSXdmNUNjWHBvRkxuU2ZKbw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "tadalafil",
+          "keyword": "CIALIS",
+          "name": "TADALAFIL",
+          "url": "/drugs/tadalafil/"
+        }
+      ]
+    },
+    {
+      "id": "3f098081aa7b",
+      "title": "Estudo aponta dor em 81% dos casos de colocação de DIU; manual do SUS prevê dor em 5% - Folha de S.Paulo",
+      "published": "2026-07-03T07:00:00+00:00",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdEJ2aTYxVy1KYXVQd0trakpVdXF1RExTSmltRXVHOG0ycDR4b0x1RWYwblR2am5JenBQYlRseW1LQXcwbWJzeVJFbnJ1ZjJnT2VlRndmZE9QdUwzYVUxamFEd3Azc1dMSzJ1OGJRcTJIaEswcDdEYjl4MjlWV2szRmJDUjh2UTFiTDUwMldubG8tOTVTUmFGZ0hvLWJ6NWVpZjVnUnVEZE5PVG5fck5UaHl2aWVmS2ZCbXlBdDY1UWlObWpjazF2bkxmTlR3U2pp?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "levetiracetam",
+          "keyword": "TAM",
+          "name": "LEVETIRACETAM",
+          "url": "/drugs/levetiracetam/"
+        },
+        {
+          "type": "drug",
+          "slug": "tadalafil",
+          "keyword": "CIALIS",
+          "name": "TADALAFIL",
+          "url": "/drugs/tadalafil/"
+        }
+      ]
+    },
+    {
       "id": "1aa28c20521f",
       "title": "Canetas emagrecedoras reduzem mortes de diabéticos e pacientes autoimunes - CNN Brasil",
       "published": "2026-07-03T06:37:38+00:00",
@@ -733,26 +1049,6 @@
         {
           "name": "CNN Brasil",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORnA1ckdZSW5ZMGtzeGo3RHgyR2hmbnpZQll4VlQzQS1mQzlpaWVXOG56dXJzZUhnM1RMLWxLRFhZUzMtRS1aS0lObEl5OW01RWtjREZvb21sS2t2Sjk4TVZNOV9vZXBlX2lYeDVmMWJzVnNhdG9tTnJncVRUNU43cDRVUGdzd0w1dnU5NTdWcVNXbXhtbTlLVFItb20xS3ZqajUtaHJfVS1PRndHbUd5aA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
-      "id": "e0a2772d2d62",
-      "title": "Lúcia Helena: Mais erros e lesões: a aposta da ciência para o calor de Brasil x Noruega",
-      "published": "2026-07-02T23:58:19+00:00",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSHlFR04ySngtMWZBOXY5Y2hYT0R2U0EtQWJXYkhHbFhtb1VDREtaaVY4TkN2UzVSOU11UGE2LUVsZENvMFNtYUhoTDVndDlRSlRaeXo0QVRRcFBYaXNWZTRWVHdOOU5mRnRRejBmSG5jeW85UXZySHl0THFaRkQ3aVNOQmpaUXM4b2owZzU5N3VtTHBWMmQtd1hhcnlkZXIwTGp0dE8zaWhjVkUxaGVtbW5DRVhpbmJfM2Job21XT0VqY2dCUlc2VFpwcFFYRmVlSmtyY3pB?oc=5"
         }
       ],
       "keywords": [
@@ -826,26 +1122,6 @@
       ]
     },
     {
-      "id": "d660f1229f12",
-      "title": "No fundo do oceano Índico, pesquisadores chineses acharam o maior cemitério de baleias já registrado: quase 500 esqueletos espalhados por 1.200 km, alguns com 5,3 milhões de anos, mostram como a morte de gigantes marinhos sustenta ecossistemas i - CPG Click Petróleo e Gás",
-      "published": "2026-07-02T21:21:00+00:00",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPTFE5aVBfSmR2SUtIRklGN3AwNmJYMVdleXRMbFZaUmROcDhrUnVJcUpWVTZ5Y2cxdE1lVkxIV3ZjajlxRGFXZWQyLXgybTA4SUtuSC1kVWVpZUNfMUc5M3hsbnFpenZBdndjWC1FRkstd3ZueHFCRlNkRm1BSHczWk44eExsTEw3X3M3NXVpNEhWRTZiS055OXNxZk5od19TNWU2dmRvcjgtTVprQmNmMUhCQWFUUjQ0OUpYYXBUSDRoVFpfMGhEVkpyMVZmeF9lMmZnbzJqSjFWeWN6V2RoVWpsTzkwQjhVcTBxRzM0c250bzl6T3QwRmFmeW9Nb2xMRlNjdFhLRnFpc3UzenItSHUwbVlQNnlmUjdRTEc4WVNkeVEwWTJDVHEyOFA3S3huR1pLNXBwODRpUQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "etodolaco",
-          "keyword": "DORE",
-          "name": "ETODOLACO",
-          "url": "/drugs/etodolaco/"
-        }
-      ]
-    },
-    {
       "id": "b5276218832c",
       "title": "Opinião - Suzana Herculano-Houzel: Permitências Cabo Verde já tem, agora só precisa de mais oportunidades - Folha de S.Paulo",
       "published": "2026-07-02T21:00:00+00:00",
@@ -869,218 +1145,6 @@
           "keyword": "UNI",
           "name": "ZINC",
           "url": "/drugs/zinc/"
-        }
-      ]
-    },
-    {
-      "id": "a8767197b6f0",
-      "title": "Injeção em dose única regenera articulações em teste contra osteoartrite - Diário do Centro do Mundo",
-      "published": "2026-07-02T20:21:05+00:00",
-      "sources": [
-        {
-          "name": "Diário do Centro do Mundo",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNDZqRjh4ZmRNdVh1OFV6VlZPSVBkd3dCMWJ0anNLLVY3YVVadFpnWjUweVpMX2VBODVoT2ItOEx1SkF5eElVSzFrX2g4RmZXOGZqZkdyVFVWNFlmbDhRMUFXWkJEbVdGVVgzTk8yT2NLM0dFVHppU0owYkFpd0ttMmxmamh2U251WXN1M0E2clluTnJzUEFEZXduYkl2V09Rb2ZTc0ZLblk?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "levetiracetam",
-          "keyword": "TAM",
-          "name": "LEVETIRACETAM",
-          "url": "/drugs/levetiracetam/"
-        },
-        {
-          "type": "indication",
-          "name": "rheumatoid arthritis",
-          "keyword": "artrite",
-          "related_drugs": [
-            {
-              "slug": "selenium",
-              "name": "Selenium"
-            },
-            {
-              "slug": "potassium_sulfate",
-              "name": "Potassium sulfate"
-            },
-            {
-              "slug": "gadoteridol",
-              "name": "Gadoteridol"
-            },
-            {
-              "slug": "tenoxicam",
-              "name": "Tenoxicam"
-            },
-            {
-              "slug": "metamizole",
-              "name": "Metamizole"
-            },
-            {
-              "slug": "phenylbutazone",
-              "name": "Phenylbutazone"
-            },
-            {
-              "slug": "apixaban",
-              "name": "Apixaban"
-            },
-            {
-              "slug": "centella_asiatica",
-              "name": "Centella asiatica"
-            },
-            {
-              "slug": "nimesulide",
-              "name": "Nimesulide"
-            },
-            {
-              "slug": "nomegestrol_acetate",
-              "name": "Nomegestrol acetate"
-            },
-            {
-              "slug": "amiodarone",
-              "name": "Amiodarone"
-            },
-            {
-              "slug": "cabazitaxel",
-              "name": "Cabazitaxel"
-            },
-            {
-              "slug": "iodixanol",
-              "name": "Iodixanol"
-            },
-            {
-              "slug": "ioversol",
-              "name": "Ioversol"
-            },
-            {
-              "slug": "rivaroxaban",
-              "name": "Rivaroxaban"
-            },
-            {
-              "slug": "valganciclovir",
-              "name": "Valganciclovir"
-            },
-            {
-              "slug": "elexacaftor",
-              "name": "Elexacaftor"
-            },
-            {
-              "slug": "magnesium",
-              "name": "Magnesium"
-            },
-            {
-              "slug": "lumacaftor",
-              "name": "Lumacaftor"
-            },
-            {
-              "slug": "tezacaftor",
-              "name": "Tezacaftor"
-            },
-            {
-              "slug": "piracetam",
-              "name": "Piracetam"
-            },
-            {
-              "slug": "ivacaftor",
-              "name": "Ivacaftor"
-            },
-            {
-              "slug": "tocopherol",
-              "name": "Tocopherol"
-            },
-            {
-              "slug": "prasugrel",
-              "name": "Prasugrel"
-            },
-            {
-              "slug": "clopidogrel",
-              "name": "Clopidogrel"
-            },
-            {
-              "slug": "memantine",
-              "name": "Memantine"
-            },
-            {
-              "slug": "cabotegravir",
-              "name": "Cabotegravir"
-            },
-            {
-              "slug": "lornoxicam",
-              "name": "Lornoxicam"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "osteoarthritis",
-          "keyword": "osteoartrite",
-          "related_drugs": [
-            {
-              "slug": "gadoteridol",
-              "name": "Gadoteridol"
-            },
-            {
-              "slug": "phenylbutazone",
-              "name": "Phenylbutazone"
-            },
-            {
-              "slug": "iodixanol",
-              "name": "Iodixanol"
-            },
-            {
-              "slug": "ioversol",
-              "name": "Ioversol"
-            },
-            {
-              "slug": "potassium_hydroxide",
-              "name": "Potassium hydroxide"
-            },
-            {
-              "slug": "azathioprine",
-              "name": "AZATHIOPRINE"
-            },
-            {
-              "slug": "piracetam",
-              "name": "Piracetam"
-            },
-            {
-              "slug": "clopidogrel",
-              "name": "Clopidogrel"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "26280ff2c6cf",
-      "title": "Veja cinco frutas que ajudam na saúde do intestino, segundo especialistas - ICL Notícias",
-      "published": "2026-07-02T20:00:58+00:00",
-      "sources": [
-        {
-          "name": "ICL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QUmRNdVNfMXNOM01icFVlT01GYnZpQlE1Z1MzcWNCSjk1VTJUemxSVkoxX3BDYWVodlhlWFVzTkRDR09ZMnhNV3p2RTdlUEQ5QjQwbkVUODFIVmNnV08zc29oTG5YajNaMGZidkF6Qm8xVnJjUF9PcWlvNFowREU?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "golimumabe",
-          "keyword": "BIO",
-          "name": "GOLIMUMABE",
-          "url": "/drugs/golimumabe/"
-        },
-        {
-          "type": "drug",
-          "slug": "etanercepte",
-          "keyword": "BIO",
-          "name": "ETANERCEPTE",
-          "url": "/drugs/etanercepte/"
-        },
-        {
-          "type": "drug",
-          "slug": "tadalafil",
-          "keyword": "CIALIS",
-          "name": "TADALAFIL",
-          "url": "/drugs/tadalafil/"
         }
       ]
     },
@@ -1497,26 +1561,6 @@
       ]
     },
     {
-      "id": "c0aacabc3eaa",
-      "title": "Mãe de menina com autismo severo faz campanha para custear tratamento e procura emprego em Jaraguá do Sul",
-      "published": "2026-07-02T17:42:01+00:00",
-      "sources": [
-        {
-          "name": "fm105.com.br",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQelF6SjlXaHpKOTAtdm54aXVkTVJFUjZtOC1FTWpRV0hmaUw5aC1xOHd3SlZmaVpuX2htUGhyY0RCSFNqRGxZM2NjLWtIU1lKczlKRExJZW5ER1ppNzN3SXdQUmpxeF8wVmY3ZG84VnRERUY0SE9oc0h0VGYtZWZnbmZwbEhNSnM1WUxWUE80THdGdmdERkdXZFVNeWIwRE9QYklHeFdMck9jTEhIWmszUjJCbElxSFI1ZnlSU3prOTRzNTVVbmRBb1g1SQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "levetiracetam",
-          "keyword": "TAM",
-          "name": "LEVETIRACETAM",
-          "url": "/drugs/levetiracetam/"
-        }
-      ]
-    },
-    {
       "id": "c357b366b067",
       "title": "Ondas gigantes de 35 metros, equivalentes a um prédio de 10 andares, são detectadas por satélite no Pacífico - Portal 6",
       "published": "2026-07-02T17:11:52+00:00",
@@ -1539,7 +1583,7 @@
     {
       "id": "de25574bcee6",
       "title": "Alunos de escola estadual do Pará conquistam 17 medalhas em Olimpíadas de Astronomia e Foguetes - Agência Pará de Notícias",
-      "published": "2026-07-02T16:44:00+00:00",
+      "published": "2026-07-02T16:57:02+00:00",
       "sources": [
         {
           "name": "Agência Pará de Notícias",
@@ -1553,26 +1597,6 @@
           "keyword": "TAM",
           "name": "LEVETIRACETAM",
           "url": "/drugs/levetiracetam/"
-        }
-      ]
-    },
-    {
-      "id": "b0d1e6a93e17",
-      "title": "O perigo silencioso do diabetes que muita gente só descobre quando os rins já estão comprometidos - Jornal Correio",
-      "published": "2026-07-02T16:11:08+00:00",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQ3RyWGQyWkVIdWpMX0p2NnIzOWhQWTljMlg5akU2dkpGT2JYNi1JelRzVkl4OWtjTkRkN1VVWEs2SG5TXzkzX0J0UU5wTS1sM011M3Z0cml0b2ZSZlRrNFJtMHhqbFN1c0pIcWxCbDRrOHdXdUxFS1R5WU9ua01senFjM2d5aUFuSERJNFFDZVE4WHdTWHlTZi1hZjFJc1phUDhiVVU1WFNnakF3akRGdi1zbjJyald5dVF0YlBzbkw2QmgxdWxETWNhX01HNnJyandKa0g3TnQyUQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
         }
       ]
     },
@@ -1705,26 +1729,6 @@
       ]
     },
     {
-      "id": "2d5da3de880f",
-      "title": "Vírus sincicial respiratório (VSR) impulsiona aumento de casos graves de síndrome respiratória no Brasil; proteção de vacina dura até três anos",
-      "published": "2026-07-02T05:01:14+00:00",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOQm5pZkFoTmVxT251eFg2TnhNbUV4VlFtSWFHcnR1d3lLcjNZLS1lUXZ0VDM1dTlDZ2tWdDU1NVNqcHFkb0dBUmE4bDFXSVdOY000WE94R0wyXzhBOUhiY24yZXdwbUtFSWpqbmxwNHdQd0hBbkM2MWd6WlU5eXdhbGlRcWlab0dndXJBRmJqYVZaclNCNnU2QXFSZnk0alFkbDFvdkhVVGVKNC1xWHg3YWprZFctdUdJaWdMT0dVZFNZc1c0Tm1XTDVSd1pObHlsWjdjd3ZGZkZvZVZFS3ZhV18waGFpQU1pTFZ1dFlGbU43aUhrcmxaM2hrQVV2dDZUUEZGUFJfSF94SUJzYk9nbkZuTHVkTklUQlpIQ9IBqwJBVV95cUxPazNiOFlzYmpoX1BVY3ZMelIxNVltQUU2ZkN0Smd5QVBYVVpFU3FiUl8ycVBpaEFMQk8xNUJCeFJobXBVSVV3dmtXWktnRkN4cENVQkNRa2VfQ0J4Njl6N2kzRS12VE9qd1ktOE5pMExuS0pYOFJycS1ibHBrdnRRVzlsVWMwaFhNNEpObElFQm16UnBxeGtSQlV0dkVmRE8yLXFmemlfSE5lTFNnd2lXZHJySVNHdk02Y0FXcjZhMVZvLVhZWDRnNmgweklIRkhLR0RCWEc0NV80VzhTT192X1dJUHlUZmxJLUF6M3pCT2NfY3JEUnlQUmh4cmd0UUxqZUpGZ2JPY1l3YXlXX1JFNXpLUlFFaWhZdUhuR0NSYlBFMS04TDQ2N21WZw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
       "id": "4b4279219505",
       "title": "Frase do dia da Psicologia: 'A verdade sobre nossa infância permanece viva em nosso corpo, mesmo quando tentamos esquecê-la' - a reflexão de Alice Miller sobre traumas e memória emocional - Jornal Correio",
       "published": "2026-07-02T03:30:00+00:00",
@@ -1732,26 +1736,6 @@
         {
           "name": "Jornal Correio",
           "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNSHRaYURWcWxqeWZhdzhCaTNwczJQMEh6dmNDQVNYRTQ0VTJESi1ac0Qyb195VHItRUMyMHRwbGlLdVBYenNidzM5eVc1VmJfRVJ1RzByZWRuekNHbW5sNUNTQXlZd0dVQW1zZjdrNHpEY1VzakdTaDM2Z0JtOEtJZ1huRTF5QlVFU3RjLUMybjN6NzhYVXVWRjlBNkVPdHVHcURPY3Y1MXlfa3FZbmNraEczc2tiSG5KVVRDOFJSNXNlVjZXMjhrUmlHZE1LZXd4X2ZYSmF1d2tkRlV1UXFOV1NuV3JUeEQ2TTVvXzB2VHdsUU8tV2dvWW9vVEUtT3ZyR1p3V3RBby1pSXQ4WThNbXlvbUJITzZlWThKQ1JMcWN2ZHF2TDFIMWVNa3hsUkdFb2JwNzJXeThSN0J5T1Q1X25HcUZsOVRqb0RHQlp0Zw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "levetiracetam",
-          "keyword": "TAM",
-          "name": "LEVETIRACETAM",
-          "url": "/drugs/levetiracetam/"
-        }
-      ]
-    },
-    {
-      "id": "ec71a5ca1eec",
-      "title": "Minhocas gigantes de até dois metros habitam solo amazônico e processam toneladas de matéria orgânica por hectare - Revista Amazônia",
-      "published": "2026-07-01T23:23:14+00:00",
-      "sources": [
-        {
-          "name": "Revista Amazônia",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNnNUdm9SNi1QRGR6aTA5N2t6Tm82d1M1RE1wZDY1S1MxcW9nelhQMkhob1FWLXl1WEcwZVl2X29ZMUgzTDFkRHhOd3VYSFdUTzBQRFpOVmM4UkhGclJnYnhhWWY3RWNRdlY2aTZZVmpZRTNMMHFfTTdnNTVoZV9xNFV1Zm11Y3kzYUgwLVh3VzZXWHNXSmpaQzB2NUxnUExaUFJObVdLS1NYX3B1QkFzZzdQMzN6d0Ffc2dOeC1xaWhONzQ1QkxhYzNyRldCMzBzVDJxZTF3V3RmcU5ySXc?oc=5"
         }
       ],
       "keywords": [
