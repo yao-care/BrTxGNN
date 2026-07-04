@@ -1,19 +1,91 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-07-04T08:39:45.686389+00:00",
-  "total_fetched": 88,
-  "unique_count": 88,
-  "health_related_count": 31,
+  "fetched_at": "2026-07-04T13:37:25.708427+00:00",
+  "total_fetched": 91,
+  "unique_count": 91,
+  "health_related_count": 34,
   "news": [
+    {
+      "id": "45c79fe12bd2",
+      "title": "Açúcar: médica responde 5 dúvidas sobre o consumo desse polêmico alimento - O GLOBO",
+      "published": "2026-07-04T12:07:52+00:00",
+      "summary": "Açúcar: médica responde 5 dúvidas sobre o consumo desse polêmico alimento&nbsp;&nbsp;O GLOBOÉ mais saudável adoçar com mel? Veja essa e outras questões respondidas no guia sobre açúcares do Vida Boa&nbsp;&nbsp;O GLOBOQuantos gramas de açúcar por dia são realmente seguros e como identificar o açúcar escondido nos alimentos&nbsp;&nbsp;Tua SaúdeVem aí a semana das fibras! Veja o que vai rolar de bom no Vida Boa&nbsp;&nbsp;O GLOBOAçúcar 'escondido' é assunto central de vídeo com cardiologista Stepha",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNQ1dYTzZwTVlZTUJRQmJ4YmQ2RVVKX0FNVXNXck1xRURyemh3WGNMOHdzTzlCRHZuRUx0OW0wakNWVU5iX3ZJVnl4TFZKT2NfOWN6V1RpVHlJUmdrQ3VQZG1VYW9odzBoMEJQam5RUEhyXzNWV3FHeWxTUVAyMFFSU2c4N3pfU2NKenRSVG13Mmk2Mm9falVHZDlNVEtGMmVCa19hQ2U1VDhMQjM5U1NNZTZieHktVGo5MzA1eHZFc0FVNjVWVnJNUUhLclVVVF9PTjlYZWtKQ0IzXzFNOWR6ZTFKQnRPS3hnQ1ZUM2ZXTHlTZkVuQkHSAYQCQVVfeXFMT29hZ3RrLTJ6Y2lhdkxaQnRMbjR2amc0aUVvY1l5OHNSNS1qdXk5WFBrQl8tSlFVSEV6Z0tRTmxUSXRIdFNvN25UdmV3bVdTREVRMDZzUXc5VU9hZTNieThVMTRkcXJjZ3FfTWRfNzBhREE2UENCUk1MbjVwMjlzY1hOaWNjdXNjd29mOVRJcnVxdGZYTWU4czFfUWVEaVA5ZGhFZjltWnlsdjBTb0ZUV09qUF9VSXRxV0RveTZqWl9SbURERmxIQ2h6MUZoVDBqNUZnWEtZdzNLWnNTXy1GNHJ1bDRKY0pJczl1MW5pUml0SFlvb3B1R2Z4VG9mRi11VjU1U2g?oc=5"
+        }
+      ]
+    },
     {
       "id": "42f94c6ae150",
       "title": "Fígado: 11 hábitos que ajudam a melhorar a saúde do órgão - GZH",
-      "published": "2026-07-04T05:38:18+00:00",
+      "published": "2026-07-04T11:42:20+00:00",
       "summary": "Fígado: 11 hábitos que ajudam a melhorar a saúde do órgão&nbsp;&nbsp;GZH",
       "sources": [
         {
           "name": "GZH",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZmctM3ozdFg3eGViM2V1YzlaaGpLV2kzMHoxUnY4SWJpN1AzZklJUnRFYzBhOEowYWdRaW5XQzVXOHMteWtDNGxoeUsxV1pYU2NpNEZZYnBpUlhzcVIxVy1yQ3NqWi1KOFZVVTZJN0k5bzRjRWl3bnlISjVIWVFlc1hneXBUT0JUVGJldW1YNlFJdUhCN1hkektfQnlKSElJOXpzNFRreGE5bmw2RzJjYUtxV0NCb3ZWWXVfUEdIY0xJRG04MTRhOXBta3lEUFpoVUxlN3haLWk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "17eab991eaa4",
+      "title": "Raiva faz mal ao coração? O que a ciência descobriu sobre esse risco - UOL",
+      "published": "2026-07-04T08:30:00+00:00",
+      "summary": "Raiva faz mal ao coração? O que a ciência descobriu sobre esse risco&nbsp;&nbsp;UOLEfeito em minutos: o que acontece com seu sangue quando você se estressa&nbsp;&nbsp;UOLCasos de síndrome do coração partido mostram como estresse intenso pode afetar o coração&nbsp;&nbsp;O POVOEstresse pode alterar a estrutura do sangue, mostra estudo&nbsp;&nbsp;Época NegóciosEmoções negativas podem causar doenças? Veja o que diz especialista&nbsp;&nbsp;Terra",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUVF3bkVCWUhPYzdsUFkxOEdhZGlMVFpGT01hR2kyU05uUUNxbWVXQ3k0RmEzRGpRRGNYY0ktM2lNWjFmVERFQmVlV0xkdWVZUnVIMjNRZHFmbzRyekRmTERQNmVRTkxHWndMdzlQbjFpYW9Xd0d1alhyYUQwVHM5Q1FMLXdWRm9PUVdIVEtHUjRlTlR4NG1VblR1XzVyMXJ1YV9Bbm9ELTIzTTQ1R3FXNnVIQ1E0SmpCc2ZsamsxVjQwa0NyN2VKa19LNA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "15a1cb19b6aa",
+      "title": "Café e saúde hepática: estudo revela que seu consumo pode reduzir o risco de cirrose e câncer de fígado - O GLOBO",
+      "published": "2026-07-04T07:30:33+00:00",
+      "summary": "Café e saúde hepática: estudo revela que seu consumo pode reduzir o risco de cirrose e câncer de fígado&nbsp;&nbsp;O GLOBOCafé: estudo desvenda os verdadeiros efeitos da bebida para o fígado&nbsp;&nbsp;VEJA\"Sem café eu nem existo\": o que a ciência explica sobre essa necessidade diária&nbsp;&nbsp;Notícias AgrícolasOs pesquisadores são claros ao afirmar que o problema não é gostar de café, \"mas sim precisar de cinco xícaras para funcionar\"&nbsp;&nbsp;TerraCafé sem açúcar e fígado gorduroso: o estu",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPbTV3Nk9mMDFZTElHTlpvaTRTRmRiMzVrQ3huekdwVlJyVnpodkxGQm9QbzBGQl9qYzFNREJabXpadTFTcE9vVWtFV182SnBCOVh6bWlLQlhmMHhaMzZYM3loRmxWYWhDbWQ5SUpUWktTQnE3YS04cTJ5U0MxWGxZRVhPWi0xeU5ZT01OcWdxRU5Zbk9jdmthaDZ6YmNzMVA5N1VwYkVxY3haWjNrcnJfYXpET2ltQW0yeDN1Tjd2NnlGbUt1T2tqUVlVYkl4NUtpR1RucS05eHhrQnI0WVhkNk10ME1LbkZMcjZjZjQzc9IB_gFBVV95cUxQbGgxb1ZOYnY1V2lWWTluQnE2blNyVlRIc3pVM1g3cG5HNmpDbDY2NkY5RGJrd2QwbXdnY002YU15NGpjZnAyTTRwdVlrWDl0cWthMjZJWjVNWWZZLVFpQjNiYjRDN0RxSi1JdFQydnhXR0FNTHRQOHVpSnY5bTlhdU14UEdWeVBIeUdPbE9BOGxVb1ByS0hLZ3ZNWkJzM2F5Q1FmMFYxalg5S0VvUTRMRlVybXBJYkdKQU5yMWFYdVJKekE5SzhXczlEWE5jdGViTDBHcE0tZlFLYVR5Y083WWlpZk1iSGZUTjVfVDdNbC1HV1FjQmtPQUFuX0F2UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9217ccc47e77",
+      "title": "Maior filme cósmico já feito: telescópio começa pesquisa sem precedentes - CNN Brasil",
+      "published": "2026-07-04T06:33:39+00:00",
+      "summary": "Maior filme cósmico já feito: telescópio começa pesquisa sem precedentes&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU3hUbWhCNFdWMENseUFaOE9FWHFpNER6R3dDX0h4dGZnaF93NHRubXA2aEo4LXJFdEU3NE5lLW1xOTRqamkxb0lYRk1tam9laGxnNG5EQWFkS1VQaS1uOWN6RkJSbVVOMG83dWV2NWVSZUNlcGVyOF85NkVPSTZZbG9COWhUVURVMFI3ZkNVSTYtN1VWS3NaZ084OEUwallwSG53SDkyY1lvNWNIdFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1f3cc061d755",
+      "title": "Climatério: quando a reposição hormonal é indicada e quem pode fazer o tratamento - G1",
+      "published": "2026-07-04T05:02:10+00:00",
+      "summary": "Climatério: quando a reposição hormonal é indicada e quem pode fazer o tratamento&nbsp;&nbsp;G1Reposição hormonal ganha nova abordagem com a Medicina Integrativa&nbsp;&nbsp;jornaldacidade.netBem-Estar #357 - Terapia de reposição hormonal na menopausa: tire suas dúvidas&nbsp;&nbsp;Grupo Jota SidneyReposição hormonal: alimentação potencializa resultados&nbsp;&nbsp;ES Hoje",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeGRQMndjZFg3bDdrVk50b1RDaDlpRmg0QzJEVUhXa20zQy1PVFZiSlA2NmlNZFFRVnBtaU5hNDl1ano5MzRCb2xsM0lCTlVoVi1GS3lVcEhmSC1TX2RQY1V6dy0yS3BUeVl3UGlfam5XekNZYmxZbHI1YU1KWlhOaU9JYU55elRvSWNUdmhSMWkzUkxIMy1QUVpKMlMtM3NMTW1JNl9rSXRHZmkybkZSVzRmYWpiRWd0MHk1T0VKajdXSm9qU3pKRzNJRVLSAdsBQVVfeXFMT2JHbVdjcDc5T2dYVmhTczBjTzdrMl9LRklTM1c4MDVObi1wd0NweFBwR1dFa01VMUhzdFhjTTNSb1FkeWtmUjZLdTFJVmtKd2VWM21wUllNXzd5dDZPTDlrV09kaGdxTDJhR1Z3ZnlQaEJnbTNrVXhuQnVvQ3hqRFNGZ19CbXNMRF85NlBMYy1RTnU5Mk1ZZndDWjU3NGFPYUpwbGNvaXpLb2J0TXNXRVRkbnVnR24yNFQ3S2wyZWtNUnZRT24tbnQ4VF83QU9wLTI0ajhZQWZOYzFv?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cdb0e727f34b",
+      "title": "Cientistas de Tóquio enrolaram tiras de músculo humano vivo como um rolo de sushi e criaram a primeira mão biohíbrida de 18 cm que faz o gesto de tesoura e segura uma pipeta sozinha - CPG Click Petróleo e Gás",
+      "published": "2026-07-04T04:42:00+00:00",
+      "summary": "Cientistas de Tóquio enrolaram tiras de músculo humano vivo como um rolo de sushi e criaram a primeira mão biohíbrida de 18 cm que faz o gesto de tesoura e segura uma pipeta sozinha&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQZ0QzdUk4MmhwSENROFM2M1BFamg0Z3Z0Ml9uMno1T0ZDcmlteEtOTUZsbXlpMTAyajB2bkNMZ3lHT2hBNDZPV0dLc3pEY294QnhFd2VabWh2WGtmYmxEQzFGdlJzODI2RTdpSU9FQXZyMHBHQ2g0ZG9TVDlWWGJpVzQ5RE80STVKQ3FpVzJUdi1qQzluSDFoTF9fWEhPZmVyaWZRMWFEM082Q005TktmU1ZqSVBTWk80ejYzVFQ5bkRjU25PT1FPMllzTHhhbkRIN2pRZ2c2V2tHVU5zV04xb2c0Zzlwc2NoTHA5SWZ3RzI3Si1aUnBEdktEWThjMXR6b1R0c3FQTU9ucG9DZ0tiREo3TEx3a3NuVFRMVktVNjQtc21u?oc=5"
         }
       ]
     },
@@ -42,14 +114,14 @@
       ]
     },
     {
-      "id": "8f5cc44f5a86",
-      "title": "Efeito em minutos: o que acontece com seu sangue quando você se estressa - UOL",
-      "published": "2026-07-03T18:07:23+00:00",
-      "summary": "Efeito em minutos: o que acontece com seu sangue quando você se estressa&nbsp;&nbsp;UOLCasos de síndrome do coração partido mostram como estresse intenso pode afetar o coração&nbsp;&nbsp;O POVOEstresse pode alterar a estrutura do sangue, mostra estudo&nbsp;&nbsp;Época NegóciosEmoções negativas podem causar doenças? Veja o que diz especialista&nbsp;&nbsp;TerraEstudo revela o que o estresse faz com seu sangue&nbsp;&nbsp;Gazeta de São Paulo",
+      "id": "a3c6217cb2d7",
+      "title": "BH lidera iniciativa inédita para proteger a população dos impactos das mudanças climáticas na saúde - Prefeitura de Belo Horizonte",
+      "published": "2026-07-03T17:53:56+00:00",
+      "summary": "BH lidera iniciativa inédita para proteger a população dos impactos das mudanças climáticas na saúde&nbsp;&nbsp;Prefeitura de Belo Horizonte",
       "sources": [
         {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTm40a3EtaXdlbWVHR2NqR2FVeHpwUnkwZnF1QjNQeDEyazh1cGJCVmpRZ2Q2QWpHaW1IWTN5c0V6eUJZYVliZTFiUlFRQVBlYmFsRjBiazRYT1pwcTRueXRQUUo1TTY4TlJEM2d1OGVjZlQ1clppU1V4T3FWc01ZYWNPbmh1ajRVRU9KZmxSdHFBVGVUbnlMQjNKTUlWT0xFOXpOSm05bXNzTGFYWVBpeExFWFBZQXVSV0Fqd3lLOHVVc20tOHZ5UGZvUXp4V3BF?oc=5"
+          "name": "Prefeitura de Belo Horizonte",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZjRqNVBOOTkzTHozSk5vdmRZVVVDVmtlMjBUWXJiMzlqVTBzSE1uNGRNMGZQN2JTQ0xpbGhmUmgxNENNSGdWT0l0RlNIZVh3LTQxOTM1cjhZR1E2U2ppSmFzVW9uSWlnZ1hTZk1fd21DNGVrNHpDd29nVFFOQU5IN1JWMnoya1kzejQ4TnNyUFNobnNQenBLWGVmMHllNjdESExmX3BJUVlPQUN5SmV0X29kejEySzd1WHpYMS12V19IREY3ZXFJ?oc=5"
         }
       ]
     },
@@ -69,7 +141,7 @@
       "id": "80e9402679cc",
       "title": "Quase metade dos casos de demência poderia ser evitada com cerca de 4 hábitos de vida; entenda - O GLOBO",
       "published": "2026-07-03T17:03:44+00:00",
-      "summary": "Quase metade dos casos de demência poderia ser evitada com cerca de 4 hábitos de vida; entenda&nbsp;&nbsp;O GLOBOAté 45% dos casos de demência podem ser prevenidos com ações conjuntas&nbsp;&nbsp;MetrópolesMais da metade dos casos de demência podem ser prevenidos; veja como&nbsp;&nbsp;Jornal O SulEstudo aponta limites da sensibilização para demência&nbsp;&nbsp;HealthNewsMais da metade dos casos de demência na América Latina pode ser evitada; veja como&nbsp;&nbsp;Rede Onda Digital",
+      "summary": "Quase metade dos casos de demência poderia ser evitada com cerca de 4 hábitos de vida; entenda&nbsp;&nbsp;O GLOBOVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
           "name": "O GLOBO",
@@ -117,11 +189,23 @@
       "id": "1cce6a076def",
       "title": "Recife inicia aplicação de vacina gratuita do SUS que custa mais de R$ 500 na rede privada - Diario de Pernambuco",
       "published": "2026-07-03T15:08:00+00:00",
-      "summary": "Recife inicia aplicação de vacina gratuita do SUS que custa mais de R$ 500 na rede privada&nbsp;&nbsp;Diario de PernambucoNova vacina Pneumo 20 que protege contra pneumonia e meningite já está disponível no SUS&nbsp;&nbsp;G1Pneumocócica 20-valente está disponível a partir desta sexta-feira&nbsp;&nbsp;Prefeitura de ManausPneumo 20 no SUS: o que você precisa saber sobre a nova vacina&nbsp;&nbsp;EstadãoNova vacina pneumo20 chega às UBSs de Guarulhos para ampliar a proteção infantil&nbsp;&nbsp;Guaru",
+      "summary": "Recife inicia aplicação de vacina gratuita do SUS que custa mais de R$ 500 na rede privada&nbsp;&nbsp;Diario de PernambucoVacina contra pneumonia e meningite começa a ser aplicada em Manaus nesta sexta-feira; veja quem pode receber&nbsp;&nbsp;G1Pneumo 20 no SUS: o que você precisa saber sobre a nova vacina&nbsp;&nbsp;EstadãoPneumocócica 20-valente está disponível nas salas de vacina de Manaus a partir desta sexta-feira, 3/7&nbsp;&nbsp;Prefeitura de ManausNova vacina pneumo20 chega às UBSs de Gua",
       "sources": [
         {
           "name": "Diario de Pernambuco",
           "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYVZGcDloUi1vQ3RqVEhyX2JJWlg3Zk81bVJlY2dDNXlsd2tsWm1GUHZtNDA3TWJJWURwSFlSaDJnNFljbTRseXM3bFNidl9oOTU4bHgyWkx5Rm1yQTRXbE9ZNmxYSzNtdHhYbFY1X1ZUbGVHOTNVNzYtTVhYenZpT2VxRHFkSFNRejZnUFVsS01fUlk2MFh1WF9kbUZDdnJhTjFXZ25hYzhRVGpFT0FzN2pFMHFRS1pVQnd2NEJsTnlLZDJtZUVqNnNtOEpMWjcyd2xscGc3RWJ0aHl4bHFSQ2JoczI1cmZwSzdIRWg5ZHRkRFpP?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a92d45521cbe",
+      "title": "Ela pode destruir o fígado sem provocar dor: campanha alerta para doença silenciosa - Jornal Correio",
+      "published": "2026-07-03T14:40:54+00:00",
+      "summary": "Ela pode destruir o fígado sem provocar dor: campanha alerta para doença silenciosa&nbsp;&nbsp;Jornal CorreioJulho Amarelo reforça prevenção e combate às hepatites virais&nbsp;&nbsp;G1Saúde intensifica testagem e ações preventivas durante o Julho Amarelo em Corumbá&nbsp;&nbsp;Diário CorumbaenseJulho Amarelo: Friburgo terá ação gratuita de testagem contra hepatites virais&nbsp;&nbsp;Jornal A Voz da SerraHepatites B e C: o perigo das doenças que só dão sinais em estágios avançados&nbsp;&nbsp;Cidad",
+      "sources": [
+        {
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZFBMOEptcWFvbG9XYkt3OGNJWjNPX0R4SW9BWHlDN1FxZm95VUFlbzdaSXRyMUZrdXdnalV2MlQwOFptRkJOcUJBUTIzVU5CVjlqemRsZW1MNE1EVkdMZEdYa2R2NnA1SkhUVDFOOWlXdnBSV0toRVkyUm80NkNleFd0RXl0eU9DMmtWN0RmNmdtMjkyUmgtMkQ5a0UtWGloUUVQNEZuZ21ZZjdzN0ZsWnJWczB6elF5ZEpTNVVfakl5aWJBSGc?oc=5"
         }
       ]
     },
@@ -140,7 +224,7 @@
     {
       "id": "7d2eca997329",
       "title": "Parto humano pode não ser o mais desafiador entre primatas - DW.com",
-      "published": "2026-07-03T13:21:36+00:00",
+      "published": "2026-07-03T13:19:26+00:00",
       "summary": "Parto humano pode não ser o mais desafiador entre primatas&nbsp;&nbsp;DW.com",
       "sources": [
         {
@@ -150,14 +234,14 @@
       ]
     },
     {
-      "id": "90581d53cdde",
-      "title": "O parasita que infecta um terço da humanidade, mas ainda é negligenciado - UOL",
-      "published": "2026-07-03T12:51:45+00:00",
-      "summary": "O parasita que infecta um terço da humanidade, mas ainda é negligenciado&nbsp;&nbsp;UOLPor que os riscos da toxoplasmose ainda são subestimados&nbsp;&nbsp;G1Inimigo oculto: Parasita que vive no cérebro de bilhões de pessoas ainda é ignorado pela ciência&nbsp;&nbsp;Revista Let's Go BahiaExtreme heat settling over U.S. heading into July 4&nbsp;&nbsp;cinemaecerveja.com.brParasita presente em um terço da humanidade preocupa cientistas&nbsp;&nbsp;Aventuras na História",
+      "id": "22d1206b8a24",
+      "title": "O parasita que infecta um terço da humanidade, mas ainda é negligenciado - Folha de S.Paulo",
+      "published": "2026-07-03T12:45:00+00:00",
+      "summary": "O parasita que infecta um terço da humanidade, mas ainda é negligenciado&nbsp;&nbsp;Folha de S.PauloInimigo oculto: Parasita que vive no cérebro de bilhões de pessoas ainda é ignorado pela ciência&nbsp;&nbsp;Revista Let's Go BahiaPor que os riscos da toxoplasmose ainda são subestimados&nbsp;&nbsp;G1Extreme heat settling over U.S. heading into July 4&nbsp;&nbsp;cinemaecerveja.com.brToxoplasmose: uma doença invisível que precisa entrar na agenda global de saúde&nbsp;&nbsp;Jornal da USP",
       "sources": [
         {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWllkaVZSb1F6Vm91V25GSnNmdnc4THh0dG8weFpKbWN4WUNIWDFiNmRUUlRBQkJoUWhjRnhaVFNVdHpXTTZZX3M4ZmtmWlprdy00U01ZY0dmbWFxMzQzV0Q2RGhjOXV4RkwzNVhMQjJuSEVjN2puS1kycGI3cmlUSWxvQTNvSjdhYVpCM1NkeW51UDFlT3hqSy1Fd1lNei1sd0dIWDlIc3ZpVTRaMFRVdzd3a2xJaGRnMVRRNDl0R0pWZ2RXYWtXaDNqWWNlNFFYLUdnQ0RPdVg?oc=5"
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPLTJyZ1lBWDR0VWxHU005eFotZEtXWnBOaThicTByRE9mN1VKUzBXUHE4ckNlNUl1VkxtWjk5Y0pqaVRfYzlXS2t3VlpOaWpZU0p6S0MwU1pmWnBLenBRaFFfM2xSZWxITk1iV2xLWHlOaDVfaHNqQkkyNG1oZ0NMeHJFWTExcVM0YXBFZlZ1ME5GTUVScDFaVHMtTkQ3ZURKaDlOeHBzeHNlcHlaXzFmQUFmSjAybmJ3czhKdy1EamFYbmI5dkVqWUlVUE8?oc=5"
         }
       ]
     },
@@ -165,7 +249,7 @@
       "id": "3a5ccea56732",
       "title": "Pressão alta: veja sete hábitos que podem ajudar a controlá-la e proteger o coração - ICL Notícias",
       "published": "2026-07-03T11:44:06+00:00",
-      "summary": "Pressão alta: veja sete hábitos que podem ajudar a controlá-la e proteger o coração&nbsp;&nbsp;ICL NotíciasTem pressão alta? Veja 7 hábitos que podem ajudar a controlar doença e cuidar do coração&nbsp;&nbsp;O GLOBOPressão alta não é só excesso de sal: o baixo consumo de potássio também pesa na conta&nbsp;&nbsp;Tua SaúdeJulho Vermelho: sem sintomas, hipertensão pode causar AVC e infarto&nbsp;&nbsp;G1Cuiabá (MT): Inverno aumenta pressão arterial; entenda como se prevenir&nbsp;&nbsp;Diário do Estad",
+      "summary": "Pressão alta: veja sete hábitos que podem ajudar a controlá-la e proteger o coração&nbsp;&nbsp;ICL NotíciasJulho Vermelho: sem sintomas, hipertensão pode causar AVC e infarto&nbsp;&nbsp;G1O que o Brasil pode fazer para entrar na lista de países que atingem meta de controle da hipertensão&nbsp;&nbsp;VEJAPressão alta não é só excesso de sal: o baixo consumo de potássio também pesa na conta&nbsp;&nbsp;Tua SaúdeCuiabá (MT): Inverno aumenta pressão arterial; entenda como se prevenir&nbsp;&nbsp;Diário",
       "sources": [
         {
           "name": "ICL Notícias",
@@ -222,18 +306,6 @@
       ]
     },
     {
-      "id": "c2b65baf9503",
-      "title": "É mais saudável adoçar com mel? Veja essa e outras questões respondidas no guia sobre açúcares do Vida Boa - O GLOBO",
-      "published": "2026-07-03T07:30:31+00:00",
-      "summary": "É mais saudável adoçar com mel? Veja essa e outras questões respondidas no guia sobre açúcares do Vida Boa&nbsp;&nbsp;O GLOBOVem aí a semana das fibras! Veja o que vai rolar de bom no Vida Boa&nbsp;&nbsp;O GLOBOAçúcar 'escondido' é assunto central de vídeo com cardiologista Stephanie Rizk&nbsp;&nbsp;O GLOBOAdoçante pode ser cancerígeno? Prove que você entende tudo de alimentação saudável no quiz do Vida Boa&nbsp;&nbsp;O GLOBOProdutos 'zero açúcar' são iguais aos sem adição de açúcar? Envie suas ",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUlRmY0ZESkFwS1V0YmZxZEg3VjZzSHN0RlJfdTdBOWlNekhBWWtDMXVaUnhlTDhESzN6NHVwX3BjdHRhUDQ2S3ZodmFTcldoTnN5VVQtdnJfakxuQVVxNU92c2l5bUFYRW41eFpleFV2c1FwNDJPLTRWZHhmMEJrN0JUYXZCSEFuVDVTaDE2Z2llSEV6MEFMM2pRV29URkhMcmRnbFNuaXRteE4wODNVclZkYzkzS3VyVVJrdWkzS3NLUEtrYlBjWEVB0gHYAUFVX3lxTE4ybWZxQXhLWnphSkpUcGtxNk5NWEppS2hQYmxBLUhwRHFmc2pCbEtRcHFYVExZVmF6OFlGaWlPM0I0UkJSYVRxNEZ2dlpPNWZCcmlITHFEaEhaZjA3T0EzeU9FZWNZT1g4MVkzVWlKYjFNMmJwWTE0aHJ2MGNpYV9SVE9uenQxSUg0bXdxU0dmREEtRUZpcVh0UjVaSC1Xa1ZlSDR6TFVHUl9jY3RvWFFpMlhOREpkclpmdkJ6eDA3Q1lyZTFJNGUyVnd0Q19NZHE1LTMzSlZVQg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4b3f8ed4a5f4",
       "title": "Musculação reverte sinais de envelhecimento cardíaco em idosas, sugere estudo - Folha de S.Paulo",
       "published": "2026-07-03T07:00:00+00:00",
@@ -270,10 +342,10 @@
       ]
     },
     {
-      "id": "868689175976",
-      "title": "Um em cada quatro adolescentes participou de um desafio viral: os riscos ocultos por trás de um like - O GLOBO",
+      "id": "5e4cbe60ed8b",
+      "title": "Um em cada quatro adolescentes já participou de um desafio viral: os riscos ocultos por trás de um like - O GLOBO",
       "published": "2026-07-03T03:00:19+00:00",
-      "summary": "Um em cada quatro adolescentes participou de um desafio viral: os riscos ocultos por trás de um like&nbsp;&nbsp;O GLOBO",
+      "summary": "Um em cada quatro adolescentes já participou de um desafio viral: os riscos ocultos por trás de um like&nbsp;&nbsp;O GLOBO",
       "sources": [
         {
           "name": "O GLOBO",
@@ -302,30 +374,6 @@
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNUlZtU25MRGZsZ29sNzhTNlprbkR1bDRIc0s3anVDeVFTQ3d4MHVzeV9vQ0swaXoxdXFNOFMxczZmSDluMFFIOElTSWdoX2RwQkdmZGpiMGFnRl9BcmZtTEluYmctRDhhaGhJWkY0QllTR1NrMzZEWUwzRmxoNzdoVkhWRk5HY25zRGxKOElQbnJMVm43ejdUbGJpdTVZdkJuSFdiRE9yVG9IN1dTWUNDSkF2ZXFmNnczaGdmOUZqZjVmbW0yU1FsUlkwNmY5QjJwSGZNTmZTeVBSMkVHaUFpZ095UHljNHpxNnBfeVVJeFR0ZjQ1WVHSAYQCQVVfeXFMTWx2QkhmU3Nlck9laVVSTlZMdk9aVk9TUlgtc19PVDFSZ18tWjZwdUJzWmF1NWkyMHp1M0VpUVBoLU1yTUJaTGdSQjVLS1l2c2hoSkRfTVppTl9Ub3Z4RkZYcmdDczFqQVlvMXhocmdyV3JDMEtOYlJrQkp3TDhiRUUtR3JjeHV3RlMtMlFhUGVUeVNsbHhfZ2RfZ2dRODQ2ampxMzdDdWh2Y1RuRG94UmFRLWFzY29CcktyLUswUy1SVjZIZDNQNjZrUF8tZzNCWGIzS09OR1drbXF2bXY2UzVqc05OUlRzLTJ0eXFuSjdmSjBnal9LRTZCdXJmLWw3aFBJbjk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e4c3d323a49e",
-      "title": "Florianópolis recebe pela primeira vez o Museu das Ilusões com quase 100 experiências que desafiam a mente - Agora Floripa",
-      "published": "2026-07-02T20:27:06+00:00",
-      "summary": "Florianópolis recebe pela primeira vez o Museu das Ilusões com quase 100 experiências que desafiam a mente&nbsp;&nbsp;Agora Floripa",
-      "sources": [
-        {
-          "name": "Agora Floripa",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUWF3X2NXYmV0ZV9XZ3pIY2N3eXZDU09VbF81d3ZtTWJkN3ZHTWJSUkxYZnRPQ1FtdGMxMW1iNEJGUjNOZG5obHpqZ3B3OHdxeDFPenp1cE1FODlqbzFHNWVpWS1MNkNudVVFdjRNNkxRY2RuVzIxa2NhazROanJUeVdkS3dSbXJUSmlNTlRmWWdEQ2RnOWg2cFIwRi1SMFVCNXZrT1lDdldFRDV2UFpJaG92YnQ5dmxJaUpHbXpMcUVGaXJ2VUZJZ283MFh2R1hqcXczaWpn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fc2362ae30bf",
-      "title": "Estudo associa períodos prolongados de sedentarismo ao risco de câncer - O GLOBO",
-      "published": "2026-07-02T18:00:08+00:00",
-      "summary": "Estudo associa períodos prolongados de sedentarismo ao risco de câncer&nbsp;&nbsp;O GLOBO",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUTFTQmp6bHJDM2NqRkd4elhDZXlNUF8zanJDUWtmVGl0OXotcXRhUXFGNlRzREowaUZrWG1UeUFqWFJ1SUhjR082eUVWV2c2eHNVaTVQWF9KUHpOOGlyaFVVUi1OZnZqT1B2VzlNa1dKc0RrME0tZWZBV0FmbUZ5UTJ4UV9Wa2d1RTdmaG1jVXFoUG9Yc2Z5cURlNUFCTmo4bUx1VDdWRW1POE1sZlNoYV9mTmdMcTBiYzlTQUJBYW9fTDB1UmcweTRYa0xNMEXSAd4BQVVfeXFMUEdXOWdpV2ZOTkczVnBxd1N3RjdfRzJpYlY4UXR3UFJxZVllbG4yMDZsTG1zeVVQbjk2X3p0U0ROenZ4cEplVkZtZ0hhb1NOQ3R2TmhfZUdxTEVOQUhlRnA3OE12YksyZTZKdnB0MHRoNU12UWtuY1pfeDZkSEJFcmx0Vk9BWmFPMlJzRzI3VFlJeUd0MjNrTmFrQVYxSmxPaDJuckZzb0xrOXpIZDlKLWR3M3dSZy1zelNidXA5cHZ6Nk5YZjhXbTBRcHhJNzU2OFBOYzd1MmNzZXdKLXFR?oc=5"
         }
       ]
     },
@@ -362,18 +410,6 @@
         {
           "name": "Olhar Digital",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX1hkc25wZ0dKM3p5ZEZWMVJaQUJSWWQ0SGd4VVIxYVhTRUlSd1UyLXdnWi05b3AwYkc0QXB2ZG43WGhtMXZBMDZLbTQ1TThlcFUzcDMwdHlmS0p2VzdkYW43ZUM4UXBMME04LTJGWEUycUJaanRzTWNTcDhMUUxMdG5jR2tLZlZlaHpIeUJ5TDktcXZPazZ1VndJRTlvdWh3WlZweXBYbWZ6YmdWd2gyTWhHSVhmXzZ6?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "84bd6b2197eb",
-      "title": "Cientistas da Fiocruz podem produzir vacina completa contra a malária - Agência Brasil",
-      "published": "2026-07-02T11:02:00+00:00",
-      "summary": "Cientistas da Fiocruz podem produzir vacina completa contra a malária&nbsp;&nbsp;Agência BrasilCurta&nbsp;&nbsp;Valor EconômicoVacina contra a malária: cientistas brasileiros conseguem avanço&nbsp;&nbsp;TV CulturaVacina contra malária: descoberta pode ajudar na criação de imunizante completo&nbsp;&nbsp;R7Fiocruz faz descoberta inédita que pode acelerar desenvolvimento de vacina universal contra a malária&nbsp;&nbsp;Jornal Opção",
-      "sources": [
-        {
-          "name": "Agência Brasil",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZGIyeWRnWE1uMTMtS3B6Z3dBeThlMU0zMXU2RVJlNUlJcGE4b1pjeUFRUWx5SVdxcllwcmhaaFV5c2x0TDVHMGxDLW42azVkWWMwYlV2S05iejNNNjhoQUg2dm5TSFFTX0ZWRHRjVktkRkd5ZHkxWXM5Ql9PWnU3eGM2V28yMzVEaFVobUxCd2pmTGtXN1MyQTRzRjlfLW5aSTJqejVTQ3hFRlhpRzh4VXJaZmVqb2dZX2ZGUWdVTQ?oc=5"
         }
       ]
     }
