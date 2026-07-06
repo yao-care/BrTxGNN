@@ -1,10 +1,22 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-07-06T10:26:41.898903+00:00",
-  "total_fetched": 80,
+  "fetched_at": "2026-07-06T15:37:09.777083+00:00",
+  "total_fetched": 81,
   "unique_count": 80,
-  "health_related_count": 20,
+  "health_related_count": 22,
   "news": [
+    {
+      "id": "c09cd0af8ced",
+      "title": "Planeta \"vizinho\" da Terra pode ser favorável à vida, afirma estudo - CNN Brasil",
+      "published": "2026-07-06T14:52:34+00:00",
+      "summary": "Planeta \"vizinho\" da Terra pode ser favorável à vida, afirma estudo&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNclJBSlUxenMydldFZy0tU3NqLUNGYkNqUEF2NjZLOWFfTHZoWjQxT241ZS1OY25feS1oLWw1VENwYnFHazQ2RmVsYjVXZmd6MmxhOWNWa1FjTTQwV21zOThlT1RJbXd6Rm1kU3d4akd4VkZvYXdhNnZBdnFtRXBfV0dlQWZMMF9RWjNtTV9KTlZLc0puYS1PZFR2M3h5RmZWYzBpNg?oc=5"
+        }
+      ]
+    },
     {
       "id": "35fa8eaf9759",
       "title": "A psicologia aponta que cumprimentar ao entrar em uma loja não é só educação, mas pode revelar inteligência social - Super Rádio Tupi",
@@ -14,6 +26,66 @@
         {
           "name": "Super Rádio Tupi",
           "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOekN1NGxHTTdCSnRwNzhYOUg4dVhMMWR0S0RUUTR4N3hHNUFhVTNLZlJxektWSUg4ZUtLWU1XMHFKbklWR0pGbFotV2ZxeWtUbVVqMWFjenpHcF9PU3FxOUtuQXBzRjJ2cENWSXRYem5nVFY0MWtDMy1yQV9XaXgxZUdJMHZ4ZFpzd3NuNVhBQy1Uamx1TnBENXhqYy1nY1RQWVpsSTFFSG4tcjJ4Q3htWlJ5RnpNYlBkU1h6cmJEdnFiRUlqdEQ4a0s1TlM2MGZrSjVRYV9sUXd3aEZ3QllDWUpuQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2849d32ffd18",
+      "title": "Mounjaro, Ozempic e afins também são remédios para longevidade? Veja o que diz a ciência - Estadão",
+      "published": "2026-07-06T08:30:00+00:00",
+      "summary": "Mounjaro, Ozempic e afins também são remédios para longevidade? Veja o que diz a ciência&nbsp;&nbsp;EstadãoCanetas emagrecedoras podem desacelerar o envelhecimento, aponta estudo&nbsp;&nbsp;Folha de S.PauloRembolso de Ozempic e GLP-1 em 2026: quem é elegível?&nbsp;&nbsp;Darwin NutritionO Ozempic explica tudo? o risco de confundir restrição orçamentária com revolução metabólica&nbsp;&nbsp;Monitor MercantilCanetas emagrecedoras podem retardar o envelhecimento? Estudo aponta novo benefício&nbsp;&nb",
+      "sources": [
+        {
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeVZKTlgtQkNrZmVzZDV3UUE4V3k2RjBiMVU5T0pjcEY0VDVnZkRUOGJsRkdIdk11RTdJVE1Nb1FUNFNnTGxWck1IeEJIV3NxMGFkS3F3d3V2elhMeEY5YjFIeUZkTnVYbW5WZEVCaE1sVUJRQ1c0MkdabmdIY0xVTFdCbjFiSUl0MlFZYy1RYTJwaE8wM0J1NXFST0RreDNmLUoxbElZcGhyTmdkMUZiNENtX0FucS1KRl9uVVVZM1VBQmZtTEk5M1pxR0R3eTNicFFtXzd3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cc86f372b0cd",
+      "title": "Estudo mostra que mudanças simples na dieta podem reduzir em até um terço o risco de ataques cardíacos; entenda - Extra online",
+      "published": "2026-07-06T07:30:16+00:00",
+      "summary": "Estudo mostra que mudanças simples na dieta podem reduzir em até um terço o risco de ataques cardíacos; entenda&nbsp;&nbsp;Extra online",
+      "sources": [
+        {
+          "name": "Extra online",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQTM5S0pjVkNZSVY4c3pCUVRGQ0gwaXR0UW1uY0J6S1VhdnBFXzNOZmF4dDRlZ2QxMVd5QTR3Ry1uSmpvdUlCTTVqaHh5LXFHQ1Uwckl5WGFxa3phLVcyRE9BSUxRUzZqZ0JMSnNmQjlXNnVSOG9oc0RMSF9KdDhUZ2J0YWdjUy04a2VyOEpLT1JtOFdtSDVHRnl1bzlOZ2ZCOUpsdVJzOTRnWENYNmNsR3NwNHo4bVdmUTNDY3J2cTVKVmFoRXhpRFlQS1BFMTJXRkhia0pRWmswdEdiajAyX2gtc1VsTnk4VlE5dGhhQnNBaEds0gGDAkFVX3lxTE5zUkZweFZTNWl6bHZkdnJsX0FjSlNuRkNpMHBVV25Wci1XVTdPclZucE5hb3M1UDg2RkdReEZmWFA5a0NOZ084NTFfNy1sMU9WV3h1M3BuX1otY2VDeHdYSXl4Q3J1ZnVVXzVRUkUwSVBlRXlqMUFKTi1VLUdsNGVuVnJnWVBBVzJ4dlM4YWxma0xWWFlScjJYOGFpRWNuLTlvNnptVk9NeWhxRERPaXZPMjNRWUxYLS1jUlBZcG8tUDU5OEk2WnlzRV84Z0cySzZQbkpOSFdFdlZsVklOX1ZERVpra0ZvUFlsc2tkRmJ0eEkwQ2hFejk3dkMzbmM3dnFtdDA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3fb9c2828f43",
+      "title": "Grupo de pesquisadores decifra como se originam as galáxias mais massivas do universo; veja imagens - O GLOBO",
+      "published": "2026-07-06T07:01:00+00:00",
+      "summary": "Grupo de pesquisadores decifra como se originam as galáxias mais massivas do universo; veja imagens&nbsp;&nbsp;O GLOBO",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQUVnZWpXNEg5cUNPWjZ2QzhpSWVVMDJaVm1WOFJuUUJqM250aG8xQkZtNUhiWVRxUTBoc2RXaHR3TFNWZ3BpVU5UcHBsTW5MbVlRNTNRUzBkaTg1cE0wR0ZoY0pjM2VLYzdoNmRtSWFTLTV1c0w5SjBaLTVPUFAtaHBHZGdmRTNKeXJGdFQtYVRZZm80RFR4d1hqakFVYVd3bDEtc2QzSVI1bGNZd2JfRnprSHcySXRzR1ZCSkQ3TXdzUTNVbV9ZaTNBVkNBTnVUSXFSckI4ZUVHNHVwVnRSc0JjQkhZUllSaTIxTjRFZ1NQZ9IBgAJBVV95cUxOdkZSTERFSXNPNTU2WlpFSDluY2lXdUNPYkl4Y1NCREhzLXFhNTcyZDlKdVdaVEE5NF80ejFudmhJSlF4Ni00OXE5Tk94YmltUlNDX2l6ajlBWUZpNEZtQllrd254V2xfVmsydVgyZS0zZ1Nwelhnbm05aWJRQ3kyWlVadlE1WFExM0JybVhQZFJwMkpKakNZMVEwWUJ0T2JsR3dRbE54Y19NZGZQX3ZGYkxjRm9JTGNHZFE2YzRNSDlwYkhYWndVRU94elZReWJqWlZHcGFKVnE0Y3M1bUQ1WHotRFVmYk1SQVNEWjZ1VVZGTjJvSWVpOWhBOW4yMm9B?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4e0c5f332811",
+      "title": "Falar outro idioma pode retardar o envelhecimento do cérebro, segundo um novo estudo - O GLOBO",
+      "published": "2026-07-06T07:00:33+00:00",
+      "summary": "Falar outro idioma pode retardar o envelhecimento do cérebro, segundo um novo estudo&nbsp;&nbsp;O GLOBO",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMkd3eEhHak5BZnhldVdUMFFJbXluTDdBaWZGc2EwckFLMjFrbDk3MUR6aDVYbEhKdXdJelFuWnp2T0UtVWdPN2xRNW5HQnBhM180cDktTEQ0OTNIM21sNWdEZ3pGVTA4bEJKQXJWSG5uS2VZSGo1TzUxOVpMVkpiUTROemRaWDZmcF9zamIyQktCMThlenBuMjk0QXUtOXhmQlhMeENibnhzeExaUTRNal95NTZ6UUNxb1g4eHczTGlLZmVncUZUdGFTZkgteHRFZ0sxY25B0gHkAUFVX3lxTE5Td3NwQTJ6N1lRYWtNWWdIX1JYM3Awbkl6U2lGWDhTRHdNdnN5ZkJqU2RMd3MzYi0tNHVzQktKSVJKQVQ5SWd1alVfZEJySENKNWw2LWlQX1ZObG93M1BMeVZOVjRLekMydktpa01XU1VaMzFJRnFfaktvR3VqUzJJRUZVOGk3bDJEZERRNVYxMGNhbU5XTjFmT3VFbGNxbWtXYi1YbVNGWHFSR2k5YlVhcjdZekJSNkpNc2RvWFo5MXdtdXZmS1U1MmkwMFBzMlI1RDdnNTZKbVAyTTNBZEFCNlNOWg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a43c7e96986b",
+      "title": "Nova técnica pode transformar fungos em armas contra o câncer - Olhar Digital",
+      "published": "2026-07-05T22:30:00+00:00",
+      "summary": "Nova técnica pode transformar fungos em armas contra o câncer&nbsp;&nbsp;Olhar Digital",
+      "sources": [
+        {
+          "name": "Olhar Digital",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaFZxRnNLODhQTGxSMnBySzVCM2hNWC1Vem5VZU9YMjBQYWFFaUxvQXNvdXhoSGxTdkFaaW9DV0dwUlVLYzlweENiOG9sdWZpbno0ZUJZOFgyT2Z5WlJ4cFRFRFoxNkV6MkdJdFBiLXdwV1A2MFdlVXJhRkhVWU0xYmRleVVoTU8ybUZPRXRsMm4zNVFnM1pvTWh3V2JSYUE1Q0hFanVFaUVCVFlZak83c2ltYkcyTHpoY3c?oc=5"
         }
       ]
     },
@@ -38,6 +110,18 @@
         {
           "name": "Olhar Digital",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZWtOMzl5UW0tbDBtUmdTV2ZXNFhuM2ozMThBQjFmR2p2WjUwYlFvSmgzdmpwQ01qc091MWh0V01SMWFfakVIU25iZGZfclhuQ29FMFdNc05UNnBpSUhOZUd5Q3JnNlN4UnV6dkZEMUk4Qi1mTUNXSU1Na01seWdkaTNMcFpORzQ2ZGZscVUtenc5RlU2djhmZTBZaVBUc1p2c19VUXhTOU1YWGtuZDdNQlItcG50LXNrYWszMTNn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1b9d92644126",
+      "title": "Lipedema: cortar glúten e lactose sem necessidade não trata a doença - Assine Abril",
+      "published": "2026-07-05T19:00:00+00:00",
+      "summary": "Lipedema: cortar glúten e lactose sem necessidade não trata a doença&nbsp;&nbsp;Assine AbrilLipedema: doença crônica ainda é confundida com obesidade&nbsp;&nbsp;G1Evento gratuito em Paulínia orienta população sobre lipedema e promove acolhimento às pacientes&nbsp;&nbsp;Todo DiaQuais as diferenças entre lipedema e retenção de líquidos? Veja o que dizem especialistas&nbsp;&nbsp;Diário do Nordeste",
+      "sources": [
+        {
+          "name": "Assine Abril",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE80dXRNR1dMNFJENUVrVEpjT3lGVmhlSHVUaHNJSl9DMWlLVUxJc1VzZW95WUJhTWptSGpxMHFiOTRnaTVEdFJxZVRVdWlsYXhHdWFJR2lZazJMVmlLRTlTbFNVZ1ZlUU9uVkhmZFptUEFUWVRpRkRwSG96VnN4dw?oc=5"
         }
       ]
     },
@@ -69,7 +153,7 @@
       "id": "1daa036db6ac",
       "title": "Quatro estações da CPTM terão vacinação gratuita contra o sarampo a partir desta segunda; veja locais e datas - G1",
       "published": "2026-07-05T17:18:24+00:00",
-      "summary": "Quatro estações da CPTM terão vacinação gratuita contra o sarampo a partir desta segunda; veja locais e datas&nbsp;&nbsp;G1Ministério da Saúde envia alertas sobre vacinação contra o sarampo para moradores de SP&nbsp;&nbsp;Folha de S.PauloCasos de sarampo em SP e RJ: o que você precisa saber para se proteger&nbsp;&nbsp;GZHVacinação contra o Sarampo&nbsp;&nbsp;Prefeitura de São PauloSP: CPTM terá vacina contra sarampo a partir desta segunda (6/7)&nbsp;&nbsp;Metrópoles",
+      "summary": "Quatro estações da CPTM terão vacinação gratuita contra o sarampo a partir desta segunda; veja locais e datas&nbsp;&nbsp;G1Com sete casos de sarampo em 2026, estações da CPTM em SP oferecem vacinação gratuita contra a doença&nbsp;&nbsp;CBNCampanha de vacinação contra o sarampo ocupa quatro estações da CPTM em julho&nbsp;&nbsp;VEJA SÃO PAULOSP: CPTM terá vacina contra sarampo a partir desta segunda (6/7)&nbsp;&nbsp;MetrópolesQuatro estações da CPTM recebem ação de vacinação contra o sarampo&nbsp;",
       "sources": [
         {
           "name": "G1",
@@ -98,6 +182,18 @@
         {
           "name": "CPG Click Petróleo e Gás",
           "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQWEVzNGNBbnNpbUllV0RsODJ4Q2dJdDNJZFVCa1Y2clkyNVNjSGhUUWdjdTVuVFZoSmpfQ2hGMUJvSVA5ZUhfMFg3WXFTWW93UWhLTGNsQzRSalh2NmFtZHVxMklCa2R6cWM1QjNFVndjcDFIVDdzcmh1Qm1sbHFEWDhyLURxbUhJTk1GVHRWVFVTWDA2bFlMRC1YX05HRnI2VUpacFlQb2F4a202STIxR2hiSl81SUM1QXNMdDUtWk1UaXVkZmRWY0pEWVZVTko2RnZncWJOQnNvM05yZUZCbG1ieHNYZjItQVZBemdHdWtLM2xwT0JBUl9CTzItaTFGaEpqTk5pbVRYZjIxSzVtZDVIenFsNG5GTmVyS2MtT0U1NmZBMFZQaS1NSy1ESENrdWpQVzBnR3dudHItc2YyZGo3cDY3UUU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0d2d88750b35",
+      "title": "Cabelos brancos: estudo testa medicamento para recuperar cor dos fios - Metrópoles",
+      "published": "2026-07-05T14:16:00+00:00",
+      "summary": "Cabelos brancos: estudo testa medicamento para recuperar cor dos fios&nbsp;&nbsp;MetrópolesPesquisa abre caminho para reverter cabelos brancos&nbsp;&nbsp;O HojeEstudo sugere possível reversão de cabelos brancos com medicamento, mas ainda é inicial&nbsp;&nbsp;Única News",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uMU4zcUFETGhnaE8xWUdtME13VWZSaW05YjRSVHZvRFZyLWNmMmYxaFVXWTZMLUdGNGNnMjUxMTdrYjl6ejk3eDlOZUE1UlpMV1c1REIzcVN5YmV2SEg3V0NJaUhjbFRaOEV6Mw?oc=5"
         }
       ]
     },
@@ -150,98 +246,26 @@
       ]
     },
     {
-      "id": "78857fdb08a5",
-      "title": "Estudo liga apneia do sono a maior risco de demência após os 40 anos - UOL",
-      "published": "2026-07-04T21:00:00+00:00",
-      "summary": "Estudo liga apneia do sono a maior risco de demência após os 40 anos&nbsp;&nbsp;UOLNeurocirurgião alerta que insônia aumenta o risco de AVC&nbsp;&nbsp;iG SaúdeHábito comum antes de dormir pode aumentar o risco de demência; entenda o que dizem os estudos&nbsp;&nbsp;Agência GBCSono insuficiente aumenta risco de Alzheimer, alerta estudo&nbsp;&nbsp;TerraApneia do sono e memória: a revisão de 2026 que reforça a ligação entre pausas respiratórias e cognição&nbsp;&nbsp;Tua Saúde",
+      "id": "f6dc6b32a530",
+      "title": "Astronautas que voltaram do espaço tiveram bactérias intestinais alteradas, perderam micróbios protetores e mostram risco silencioso que pode complicar missões humanas a Marte - CPG Click Petróleo e Gás",
+      "published": "2026-07-04T21:45:00+00:00",
+      "summary": "Astronautas que voltaram do espaço tiveram bactérias intestinais alteradas, perderam micróbios protetores e mostram risco silencioso que pode complicar missões humanas a Marte&nbsp;&nbsp;CPG Click Petróleo e Gás",
       "sources": [
         {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYnBHOTZOU0RTblRrQTBiMGV2UmpGdmtJM0lyZm1ZR3lLU2p0RGpieDhUTDFjZTlZMnlyQ0RSbVpFS1phZ2RkVi1ZaF9BSkg0VTZYWmFlQ0FPcmljWE5uamp4M0ppWDg3bFFZalNJaXRHZWwxbnZYZzFvX21BRWpMOHE4d2xTbUd2TzNLUkxsMlp6Q1gyYWxlYlFkeFhFVjlvWUVUcHE1V2NRV1lyZEY2MWpVQ20ydFp6NlZBd01kNHZjZEZXc0l1Mkw3YXI?oc=5"
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNbTZGakUxbHp1WGh1bzYtOGJnWk9NaTd1a0tnbzczSnRibVZVOFRfajFjbFBTamJaSzZ5emJfTFd4Ty10Y3FiS00zZWZ4S0JLNExWeWlTRFFFUHBpeVdlUVNMVEZZNnpLdDVTZHM4d1l1NTg1aEIwSURlVTlyYmFTSGVOUWpJcEdkdHlRbXVWWjdGcFVtdy16Vlh6Z2xNNWNhdXJZXy1Kcnp6eGhSU0VvLWhnREwxbXhNOFpLZVA0NHFUdlRhbU9aLUVRb0V1LVJ3cFJ0ZmUzaTRwelQ5M3pScGFNOVNDT1YtZmZMTXhfUVR3dkNzdUhxaWxjLWZ1YXNmcDlRRW9EZnF2SGtZak5tSWEwZGNyNXlGLTg1b1dVaDl2UEhjRUlWOEstNGg1VUxsVDVnWERxOUk?oc=5"
         }
       ]
     },
     {
-      "id": "8486a04740c4",
-      "title": "Fiocruz: hospitalizações por infecções respiratórias seguem em nível de alerta na maioria dos estados; veja em quais está em alta - O GLOBO",
-      "published": "2026-07-04T19:39:36+00:00",
-      "summary": "Fiocruz: hospitalizações por infecções respiratórias seguem em nível de alerta na maioria dos estados; veja em quais está em alta&nbsp;&nbsp;O GLOBOProteção e cuidado começam ainda na gestação&nbsp;&nbsp;EstadãoVírus sincicial impulsiona casos graves no Brasil; vacina tem proteção de até três anos&nbsp;&nbsp;Jornal O SulES está entre os seis Estados em nível de alerta, risco ou alto risco para gripe&nbsp;&nbsp;Grafitti NewsInfluenza A ultrapassa Covid-19 e lidera mortes em idosos, alerta Fiocruz",
+      "id": "564bb12fabd5",
+      "title": "Antas, catetos, queixadas e veados são 'engenheiros de ecossistemas', afirma pesquisador - Canal Rural",
+      "published": "2026-07-04T16:05:00+00:00",
+      "summary": "Antas, catetos, queixadas e veados são 'engenheiros de ecossistemas', afirma pesquisador&nbsp;&nbsp;Canal Rural",
       "sources": [
         {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNMXA2N25sRGNoQWkydHVKOV9hQXVwMF9WamZ3OFYxS0FQUFJoMFRKWllZMk05LUlHQlVuWFJkVVBzX3JRelpPSWdVWHRCbl9nZnVHNWF2SnVITENpT1Q3dE1kZjNPZ3VyVjAydm5DeVVrZG0zbjBfUDFsYURhY1IxRmFJS3ZLNjVuaFdNTVNQWk5FOE5MYzdjd19DYkgxWlN6VnB5TERYU1pKQXdicURKdWJwc19LbENLVDJBdU5Qd3RKdU1YaUV1YXVrOEVKSkptWm5YZVhmYzFfUnVEYjdXdHZLcGluRjRMY0JtYWI0WmJiZjY1M0E2NXNaazR0WnhtX00tR3c5a2xhU3V5UW5ZbtIBnwJBVV95cUxQTzVRbXIzNUdNa051SzlmN2lBa2xZOTZFSzJteGx5MFZhSWotZmZzUUptQTJLVl9odF9wSmFpMU9UbDZUMFFzUnkzVGZOTEZDMFZHQ090MHRuZTJseWxyUUFnOW5TUi13WEtkaFJZb05OdnFBYVJ6dnhTa1dLOEVzT3VmR2tuVk52LUQ1eWpReTlnd093LURqbEhGVlpRQXhXVzV5SEsxYy1JV1gxSExDQTI3cktlMXBjcEhiVkwxZWthbzhVWDFJY3F5X2hsVExKZzFYclNrQzNEX2RGOHdsX3NfUkFMZTB1REtkUHJOOTV0Z3VPa2V6UUNXcVlwQl8xU045QS1adkstTUc2T1lkRnRWUzNrZkUtLTIwd2ZKQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c345d86ec709",
-      "title": "Mulheres que não podem fazer terapia hormonal na menopausa se sentem excluídas - Folha de S.Paulo",
-      "published": "2026-07-04T18:30:00+00:00",
-      "summary": "Mulheres que não podem fazer terapia hormonal na menopausa se sentem excluídas&nbsp;&nbsp;Folha de S.PauloClimatério: quando a reposição hormonal é indicada e quem pode fazer o tratamento&nbsp;&nbsp;G1Reposição hormonal: benefícios, riscos e a importância do acompanhamento&nbsp;&nbsp;TerraDr. Cristiano da IntegralMed esclarece as principais dúvidas das mulheres sobre a menopausa&nbsp;&nbsp;Correio do LagoMenopausa: preservar músculos é tão importante quanto cuidar dos hormônios&nbsp;&nbsp;Assine",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPR0ljVnZ0Z0lNT3djdDFTNDhxUldMWm9Yb1o2dDlGUkNuR3AxVGdQRWVaLVRvSGQ0Tm1zWldoa3k4MVAwT0dyNDJCMFdKeEhIc2NTU3FNd1BrQ05XVEh3cm02dzcxNElZbUtyNGcyaHZMZlE4LXUwZUx3OEV0YzVocmtYclczRDNQTl9yTnY5ZWJ5RGRtRW1nd0dRWnR0a2ZpcDNpR0hQOU1WS1dCWkt1XzVUOURMdlllQ2dyZU1vVkYtbGZzSUpFeUQ3ckcwQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b4677a35d339",
-      "title": "Segundo a estudos, o animal mais fiel ao homem não é o cachorro e as demonstrações sinceras de um bicho nem sempre envolvem pulos ao redor da sala - Super Rádio Tupi",
-      "published": "2026-07-04T15:02:02+00:00",
-      "summary": "Segundo a estudos, o animal mais fiel ao homem não é o cachorro e as demonstrações sinceras de um bicho nem sempre envolvem pulos ao redor da sala&nbsp;&nbsp;Super Rádio Tupi",
-      "sources": [
-        {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQTjlSVWdRS182WTRqb3VwSnMxeFJDSmU5MjNLRXFsQ1hMQjNiSEpQNzdNaUlmWE5lT3pqTmxBSFpELWlhQjZsVWdUamhTal9oYVpuM1AybnozU2ZxUkZFNGxVVTg3MWpjVHU4UFhfM2ZneWxDTDF4WHFuXzJUSFZBMUVZSm94NlVPcWktQWFrVVZ6MFlkSDZQbU12STJ0aVNNY0NtZThHamtBaDFLNWMzSXQyTnBsY0ZRLTVkWkxRMEhaV0lPWDRNYlFFN1RRLWUxMXRnV0xrRkEwMk5KNU05RGVkbFo2aHpFQ3Jkb3VlQjkyWl9HeVRQVUd6SmpzYlNrUTFkd0VCbVFYWjZOTlE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6e1c63ca462b",
-      "title": "Canetas emagrecedoras podem desacelerar o envelhecimento, aponta estudo - Folha de S.Paulo",
-      "published": "2026-07-04T15:00:00+00:00",
-      "summary": "Canetas emagrecedoras podem desacelerar o envelhecimento, aponta estudo&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPb005cm9aMUFpNHVWS0NRRmFfN1cxS1NITVhCTWplM015ZkVVUEhmTldjbUtreHc2WU5QLXpnalBpTWhHYmM5Tld2Z1poVmpVS0NHMkhtdFRacWFBYXA1UG5COVdNMTBwU0Z5WFdNVk16X0hzd3hPZnhIS1RFUXhiNzdMZGJHZk9YRXVsZkd3Q083UW9LallrWDlBSjd3T0plbXZFby0xTnJiZG5Mb29MTnVTU0ptZnZteEZsbF84X3c5M01qSzBlVmtCVQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b9d4f7f9497a",
-      "title": "Não é o frio: o que afeta a saúde respiratória no inverno? - Estadão",
-      "published": "2026-07-04T13:00:00+00:00",
-      "summary": "Não é o frio: o que afeta a saúde respiratória no inverno?&nbsp;&nbsp;EstadãoMédicos alertam para aumento de doenças respiratórias durante o inverno&nbsp;&nbsp;G1Alergias no inverno: como prevenir crises causadas por mofo e ácaros&nbsp;&nbsp;TerraCuidados com doenças respiratórias&nbsp;&nbsp;A CríticaInverno acende alerta para aumento de casos de doenças respiratórias&nbsp;&nbsp;Assembleia Legislativa do Estado de São Paulo",
-      "sources": [
-        {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTGNkNS1EMGVET0Y2bklhc2pXZWpjQVN1MmJmY3l5Q293WWdBNUw3dThoVVltd1NqdEg2N04zS0gycl9KT2hRRElRQ0U2ZjFXTGFpZTZ3OUZ4S0ZZbzVtbVlFTk12d2U2OXhOalBQWGdWcWZnRG82NG5ISDRjelJjd0Zxdmlud24yQVV3SkNsOUY3NUd3Rko4R0QtUlM2emVQQzFNQl9JRFh3bzBkclHSAbMBQVVfeXFMT3B4dEhvQzJySDlVZG40ZmJobkJRdHc2NG53ZEVEN1ZQOFZJakhQeGpiX1Z2WWszTXRlWWNkWDVtZlZObXRqRFlHbXRrT21uOG1MRk5Va1lKY2xvZ1MxNWVpN1NfRTRMTmEwd2VXZHRjNWF0UjdOUzBHUkIwczlFV1Frd0EySE56dEhWbFJUZzVrYTA5UVgyZkVpMEdPcEx4UjZPZjZrazRINkFndWNUWEhha1E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d44510275f4f",
-      "title": "Como diferenciar gripe, resfriado e alergias respiratórias? - Terra",
-      "published": "2026-07-04T11:02:00+00:00",
-      "summary": "Como diferenciar gripe, resfriado e alergias respiratórias?&nbsp;&nbsp;TerraComo não pegar gripe: além da vacina, veja dicas infalíveis&nbsp;&nbsp;band.com.brQuando o assunto é gripe, o que é ciência e o que é mito?&nbsp;&nbsp;Valor EconômicoComo prevenir gripe e resfriado? Especialista lista cuidados essenciais&nbsp;&nbsp;Rádio ItatiaiaGripe ou resfriado? Como atravessar a temporada dos vírus respiratórios&nbsp;&nbsp;Jornal de Brasília",
-      "sources": [
-        {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOR1BZMFNIOHRsQXk3UUg0eFlHQjJTZC1IM2VldGtNSnlPdDk5STZMZ1h4cW1tbjZzLVI4NDhfOXdzWXR5SzBOcGJVM3lNWnphVnFJXzNNRzllYnVTUTZqTXhlTlFyb3Izck01MDZ6M0pBNHd2YXNxY2lDbEI4V0tiUzdVd3NMQkpNcFhqOXJ1OFlPcm5scGhHTmRIUXhXSkVrMmJ5OWNveE0wNDhQYlQxRnk2M0NFZ2RKYVNXNDdrNThQQlNTRjVuQWRNbkU5T3A5d2xGOW1wOXh6UQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b10681036f64",
-      "title": "Cientistas fazem uma descoberta histórica: tubarão de 399 anos, nascido em 1627 foi localizado no Oceano Ártico - Super Rádio Tupi",
-      "published": "2026-07-03T10:44:53+00:00",
-      "summary": "Cientistas fazem uma descoberta histórica: tubarão de 399 anos, nascido em 1627 foi localizado no Oceano Ártico&nbsp;&nbsp;Super Rádio Tupi",
-      "sources": [
-        {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUXc0M2pERWNDX2laU044NmZGQ2pSSzRnQzhXWHcyYUdTY19uMkIyVkpzNTEwVF9DZFR3MXQ3RkZMQjY5RVZvZ193Z0Jka0Rwb05kQ25RYkVudm1ZWmN3WGFOREpPdldiaFhJSEdYZjRfOUYwUmxrRndPVnBDMDB4UW5nQUhnWXVxWXd2Z0xYRDBIcGZFSnBiYVJOZGhHU1cyenZyYzFhd0RUaWlXRUpYUWpNVk9NR05vZTg3c051VXRtSkdxb3l0MV9ua0dkUDJ0U2FjaHUzdU9aZDNGdnc?oc=5"
+          "name": "Canal Rural",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMklpRzRMZy1ibDhCdlJ2dW1SY0xCZW9oUzRtYVpmNl84ajEzQmhrUWEwcE1kVzJQZDRUZkFDa3NrLTlUdUIyTFE0TWpuZmx1MXV5VU9DUmJ6Y3NUTy0wdU5KU1o4TVpiQ0o0dTZxRGZvNk4yZE12U3MtZWV3WkNsQUQ1WjhIWUsyMDRySWJ2bklBaGdkVUhVdE43b0xsOXRTZnMyR0NzaGhoTUY2X01Oc0VnZHQxaThZWjhFREtrZjBvemJwX3EwQ1VLSQ?oc=5"
         }
       ]
     }
