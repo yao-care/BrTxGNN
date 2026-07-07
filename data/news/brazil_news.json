@@ -1,10 +1,34 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-07-07T14:39:13.346169+00:00",
-  "total_fetched": 88,
-  "unique_count": 86,
-  "health_related_count": 32,
+  "fetched_at": "2026-07-07T19:57:46.104205+00:00",
+  "total_fetched": 85,
+  "unique_count": 84,
+  "health_related_count": 27,
   "news": [
+    {
+      "id": "f0c4b00670bb",
+      "title": "Grávidas têm quase o dobro do risco de sofrer violência psicológica, revela estudo - Jornal Correio",
+      "published": "2026-07-07T14:53:42+00:00",
+      "summary": "Grávidas têm quase o dobro do risco de sofrer violência psicológica, revela estudo&nbsp;&nbsp;Jornal Correio",
+      "sources": [
+        {
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWEtEX09NV2JMYTczOVNVSGtGc05Udm9vd0NyN1l1dUNHUmlLNElSY1l6R0sxZUMyX0kzejRGSjRvY19ETmltbTVfczFJMWU2c09ERm11ZDNEb3pRRHJmTkJIaXZ6VlJDU3BwQkFGdUdQVEtLYzU1azlqbFBON2lMT1lFNTlTSVJnWFJ0eUs1ZVV1akd3dXkyYmpGSm53d2tyTy1vc2d4R3VWZ3J2UzN6bEVmT2V3NXFxaEZkTEhSLXlvSHJWN1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cb26ba850eeb",
+      "title": "China desestimula publicação de estudos em revistas científicas de fora do país - Folha de S.Paulo",
+      "published": "2026-07-07T14:30:00+00:00",
+      "summary": "China desestimula publicação de estudos em revistas científicas de fora do país&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcHZWd3NJVkpxOUdRRG5xNllMeVYwd3VWaEVzMHdhRmNqMXVJQU1yVWk2MV9JbGtKTGVUbko3aFotQXF2MS1mcS1kXzhxQWxaUE1VcXUzU2xpQUk4eUpUSFcwRTBrdy1sMDNkMzdmTVY2MW1UUVUybUJTQzhHTjJSWlNvOUY3M2FQLU45clpnSWo3VHc3SURHVk8zSGYxODM2V3pkckc0X3BDeDdmbHlCMVZzUURuNlBjQnNBMHhaSmx0YWRTbzRrY2RFMA?oc=5"
+        }
+      ]
+    },
     {
       "id": "2ce2e757954d",
       "title": "Oito sintomas podem surgir até um mês antes de um ataque cardíaco; veja quais são - ICL Notícias",
@@ -18,6 +42,18 @@
       ]
     },
     {
+      "id": "6cd7ff8f8a64",
+      "title": "Mãe e filha morrem por chikungunya em um intervalo de 34 dias, em Alagoas - TNH1",
+      "published": "2026-07-07T11:41:00+00:00",
+      "summary": "Mãe e filha morrem por chikungunya em um intervalo de 34 dias, em Alagoas&nbsp;&nbsp;TNH1Mãe e filha morrem de chikungunya em intervalo de um mês em Alagoas&nbsp;&nbsp;TerraExclusivo: relatório médico e declaração de óbito confirmam causa da morte de técnica de enfermagem Crislayne Lins&nbsp;&nbsp;AlagoasWebAlerta em Alagoas: Mãe e filha morrem por complicações de chikungunya em um intervalo de 34 dias&nbsp;&nbsp;Tribuna do SertãoFilha morre 34 dias após a mãe em decorrência de complicações com ",
+      "sources": [
+        {
+          "name": "TNH1",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUVB1QW1lQ1BIZzVXQVN4OWFvaEw0dkt4S0tDNXBZazJnYlhjcXpITF94ZUM5M2hhZkJXanV5a09zTkFDeUh5WkZZQmhiSEZ5TTV0VGE2S29pbWpDZzB6bkVVRVJZMm5zd1RQU0RISEdkSVRIME50NmdLSVJUYkxvSlR1MjJ2ejdFRW9YTGhoejYxemhOSUhKQnZGQk5SYXd0Si02cDVUdWxYank30gGnAUFVX3lxTE50alZpRHpmeWRyZE44US1RMXlkWV9HcURncXFLRS1GVmhQbXd3SWRGWFZKU2wtOEV4dmhEN3hYZ2JBZFQ1S29PR2VYOTdZb2lqUUc4QUxELXBKTU91VEFUdTBsRnBqTTk3ZEVBVGNBcExKWDRVaVd4c3l3QTMtNWxmUm9Zek82XzVSbTEwUjR4YXhpRXo3cjNXZnlrNkJpaUhlQmhBREFR?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a69712f2be26",
       "title": "China testa ímãs gigantes de 582 toneladas para segurar plasma mais quente que o núcleo do Sol, reduzir o custo dos supercondutores e tentar gerar a primeira eletricidade do “sol artificial” até 2030 - CPG Click Petróleo e Gás",
       "published": "2026-07-07T11:39:00+00:00",
@@ -26,18 +62,6 @@
         {
           "name": "CPG Click Petróleo e Gás",
           "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxORlVrSW9yZ2RFOTI3Y2xXRE5Eem9Rczc4MGdxLXI5WkdYdEVrOHJKOXBxZDFHdEhfUkhyRHF4UEhrU1cwT0NQcmxURHhReDYtWTZ3RGttb0JZXzBULVNUT0JKLWhNWm1NVElySDFqd0NsOFpzcE9BTGxUdkk5ZGhiaENVMFI5WFZ3MXRSczVBTXZvU3k2aWRybHdiZFVVaE80ZG1DcVduVkFPdG9xVjBBVWttaUNKU1RJQ0czU25NWkZPcEhrOFpnNXN1Z2dQVlVLTkxka2xqRkhUSXNWU0ZySE9xZnNtSzlEa3dUUnM3ZEdyUFdRQjI2d0lseGtVNzdOcXIzNlRhaS1Qc1dva0RFWW5FVkItb2xhUTBUWkRHSjNvcVFPbHdvVXVaRkt3OUtEQ3laZjc3dnNaZ0JHTWRQOE1QVThRRXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "87f90588dfc1",
-      "title": "Invisível sob a terra por 5 mil anos, círculo ritual reaparece na Escócia depois que sensores encontram 12 marcas enterradas em Machrie Moor, revelando um “Stonehenge fantasma” onde não havia nada a olho nu - CPG Click Petróleo e Gás",
-      "published": "2026-07-07T10:03:00+00:00",
-      "summary": "Invisível sob a terra por 5 mil anos, círculo ritual reaparece na Escócia depois que sensores encontram 12 marcas enterradas em Machrie Moor, revelando um “Stonehenge fantasma” onde não havia nada a olho nu&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPQVNmUi00U1padU4ycHJRRGVMMldBMDBkVnJlSGpaTEhlTk00Sk54N1ducVM3eE9mZm52UHIxNmtjbnBTb0ZPZ2ExV0xaNlRiZkVPcER3MllpTWp2Qm1tQ3JwYW8xQV96cm42YWVZVEVwUEVCb1dMMGJoVnZPMW1TSUpJMDJ2YndpcUpNRFQxcjIwWFVHaEFwOTRSZm43YmJhQVZ1ek1YbmRIeVpwbG90c2xSSHhOUmg2UUpkV1U3OU9kVFNyM1puLWszVk51Qm40TG5UOGI2OV9TTFVyVE9uN3d3RlQxdVJoZmlfV2h4amVlMmZmcjVjMkRIeHFraERacXpVTUpWc1BXTkplbzMyczRFdWJScmszSjFQWVFYY09zUHpoMUlLUGMxXy11UzJfaWhXWXktVW1LYnRuakxWOGZfQQ?oc=5"
         }
       ]
     },
@@ -114,10 +138,22 @@
       ]
     },
     {
+      "id": "1f2f46c66c04",
+      "title": "Novo estudo indica por que a Antártica congelou milhões de anos antes do Ártico - G1",
+      "published": "2026-07-07T07:01:42+00:00",
+      "summary": "Novo estudo indica por que a Antártica congelou milhões de anos antes do Ártico&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOT003ZXZ2M1I1aDdJQnY3ZTNtWDdlRl9ybG5nM19vbnQyV3hZVjBxNG5DRjY5aTJDY2dCY19VdURraHREZWtHTFFtQm5PVVpUWGVUSDBlLU5VXzdETjc5aW1VcVZDV1E5TERpZ1h5MWp2OXhFV3hNcmlVeEw5WU5PMUtLemhDYlFvdEVkV2cxelFNVk50Z2wzTDFsSy1lc1E1Z2Y4bk1scDFqV0hXczRJOXNOMzE1SVM0Ni01b0liRXc5YUVfWmJfQm1wLXZSUjJ0dTBjYkN3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "ac65387cd93b",
       "title": "Como a tadalafila virou febre nas redes sociais e por que médicos fazem um alerta - G1",
       "published": "2026-07-07T07:00:55+00:00",
-      "summary": "Como a tadalafila virou febre nas redes sociais e por que médicos fazem um alerta&nbsp;&nbsp;G1Tadalafila e Viagra: especialistas alertam para riscos físicos e psicológicos do uso recreativo&nbsp;&nbsp;Olhar DigitalVendas de tadalafila crescem 70% em dois anos e uso sem indicação médica preocupa especialistas&nbsp;&nbsp;O TEMPOUso de tadalafila entre jovens cresce e especialistas alertam para riscos à saúde&nbsp;&nbsp;Grande PontoOs riscos da tadalafila sem prescrição&nbsp;&nbsp;G1",
+      "summary": "Como a tadalafila virou febre nas redes sociais e por que médicos fazem um alerta&nbsp;&nbsp;G1Uso indiscriminado de tadalafila no Brasil preocupa especialistas&nbsp;&nbsp;TerraTadalafila na academia? Entenda os riscos do medicamento&nbsp;&nbsp;Aqui NotíciasTadalafila e Viagra: especialistas alertam para riscos físicos e psicológicos do uso recreativo&nbsp;&nbsp;Olhar Digital'Tadala' vira febre entre jovens, mas médicos fazem alerta sobre os riscos; Veja&nbsp;&nbsp;Pagina1mt",
       "sources": [
         {
           "name": "G1",
@@ -150,18 +186,6 @@
       ]
     },
     {
-      "id": "1a16109e9084",
-      "title": "Austríaco processa governo após calor agravar doença neurológica - Correio Braziliense",
-      "published": "2026-07-07T01:29:00+00:00",
-      "summary": "Austríaco processa governo após calor agravar doença neurológica&nbsp;&nbsp;Correio Braziliense",
-      "sources": [
-        {
-          "name": "Correio Braziliense",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd3ZCakVpbEFmRmFoZ1VRbnpqZE9DRkM3WERwekRuRXQwaU9PNW5Nb3RfVVdFb1d3cmk1bzBvSWdYT0VCc0xtbUk0clNiYmNrNXF6ZjhMMzJvUmlvVTNualpmMFJMUHFaUkdxazJ3MC1JQlRoOWhEc2lDaWNGWkNWdDZMa2lBel9HN1RBdlNGWmhXLUg0d1JiQUtpRWJZYVg5dVZacGNjNHhMT1ExbnBkT1VEM3N3eWhYV0VDVjNnaC1YbTBWOUFCadIBzgFBVV95cUxNZjRWYjF5aDlwNEVpTUxrdE93TTdSM0lOdTZKMVFlZGJRaFpnbTRBYVU0YVNDNUk3M0lSUTVGUzNqUHY4TlNnVGJSeHJ3bHhmQmh3X0dqcDhORDBJT0tVMFZxS3lYOXRTWWQzMUsyQjAtckw5S0o5MmgwZUtfQ2RXZzZKMEstdjZ1N3BlcTl1WHhRRGExQllQUXgwbmlVU0F4VDlfYXhZNVg0WjVVVjVGMktrZDZUSC1OMFBSbWNyT2tSOC1GSnBjVVZneExwUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "af254b65ce27",
       "title": "Gafanhoto rosa chama atenção em descoberta rara e mostra como uma mutação pode transformar a aparência de um inseto - Super Rádio Tupi",
       "published": "2026-07-07T01:21:24+00:00",
@@ -174,14 +198,14 @@
       ]
     },
     {
-      "id": "b9347d57afd3",
-      "title": "Empresário Bryan Johnson revela diagnóstico de gastrite autoimune; entenda a doença - Folha de S.Paulo",
-      "published": "2026-07-06T22:31:00+00:00",
-      "summary": "Empresário Bryan Johnson revela diagnóstico de gastrite autoimune; entenda a doença&nbsp;&nbsp;Folha de S.PauloBryan Johnson, famoso por buscar rejuvenescer, revela diagnóstico de gastrite autoimune&nbsp;&nbsp;G1Doença de Bryan Johnson: entenda gastrite autoimune do milionário da longevidade&nbsp;&nbsp;Veja SaúdeEmpresário milionário que busca juventude eterna revela rara doença no estômago&nbsp;&nbsp;Aventuras na HistóriaDoença autoimune de bilionário causa alterações neurológicas e dor&nbsp;&n",
+      "id": "838bb7289d71",
+      "title": "Julho Amarelo reforça a prevenção e o diagnóstico das hepatites virais; confira - Portal A12",
+      "published": "2026-07-06T18:51:31+00:00",
+      "summary": "Julho Amarelo reforça a prevenção e o diagnóstico das hepatites virais; confira&nbsp;&nbsp;Portal A12Prefeitura de Manaus em campanha contra Hepatites Virais&nbsp;&nbsp;Prefeitura de ManausJulho Amarelo: campanha reforça conscientização e combate às hepatites virais&nbsp;&nbsp;G1Hepatite na manicure, conheça os cuidados para cliente e profissional&nbsp;&nbsp;Diário do RioDiadema inicia mês de lutas contra as hepatites virais | Diário do Grande ABC - Notícias e informações&nbsp;&nbsp;Diário do Gr",
       "sources": [
         {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSVBUY0puMURLbGZoT1ZVS3QtVEtzdGZ1emRsRnVqYWFaUUc3dU01eWlsR01jUjY0dG9Rb2lxTVd6a1NZeGJDRXJZcGw4b05LdjdGUlBjZkkwUnZ5RWszaXNVaFlHdjNjQ3BuZjZWYWYwcWo3QVRDazRpMTZ1RWR2akpubWVkYW1pMVBQUVpoTHAzanByUEZ4SkdzdThLb2FVcXM5V1hHSWdTXzdzb3U3TEVXVUNJVnRuZjhFdmhoNU9nZ2dMeHVhWURJVDlSWmR1MGI1Z0g2M2gxMDA?oc=5"
+          "name": "Portal A12",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObTViYUdjTWZmakh1QWkzT250NE5pOGZaalUtS0t1cDRFVC1iNDdHYWN6SzhsdnhFeXZ4Zm9ua3NkeFpuWlBJeGdneXdWNkVUelRwT1hicG5DTGRJZUUzR21jMWEycDJSWGh3c3JvQk1HVnhTamVNVVBnMGZTZXZpM0ZEbDVqbTVVUGwxSmtuU0MtQmc5RFQxNkFQdVFmak1FcUNTQXVqRnljX0t1cFBjZGNTODllTDVlbTZHQUNlOXkxdw?oc=5"
         }
       ]
     },
@@ -194,18 +218,6 @@
         {
           "name": "www.gov.br",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeHhud2tKUHZmM1ZIaVRvTXdFRHN2RkdRSlRsWlZkNFBpcW1JYkhrVElWaFNJbS1HUDVnRDRWa043Zy1JQTUySG5uVGFqaHBuVG9UUWxUY2lwX21qY1lzcFRscUlIUE9ubl9hU04tRDFDVWduSnc5bEswU2FBeEkzUE1MbGk5V2VPbHhQSFZpUVYyVzlmTWJQalJmcFF0eWhVOTRHbEVOZHI3Y3ZvQkhpeDRlV01tT1FneEJtaTE1OTN1TTYyVHcxTE9iWVZPVUMtZ2JYdE9RbTllUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "90825aa6f403",
-      "title": "Entenda as causas e qual é a diferença entre lipedema e linfedema - G1",
-      "published": "2026-07-06T18:00:21+00:00",
-      "summary": "Entenda as causas e qual é a diferença entre lipedema e linfedema&nbsp;&nbsp;G1Lipedema: cortar glúten e lactose sem necessidade não trata a doença&nbsp;&nbsp;Assine AbrilLipedema provoca dor e inchaço&nbsp;&nbsp;Agora RNEvento gratuito em Paulínia orienta população sobre lipedema e promove acolhimento às pacientes&nbsp;&nbsp;Todo DiaLipedema Challenge, em Copacabana, fecha a edição 2026 da campanha Junho Roxo&nbsp;&nbsp;Sopa Cultural",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOLTB2eF82dEJUbngyamhkM1VXQ2NBT09ORDhaZEFaYVJCa1FEaWh2QzdnOGhnVTdKbkE4T3UwLWx4NWg1WWlLZ3dDUDNjUXJhQWp5cVRwdkpHSkpqWG5BMmxsT3l0UXlHS2V5U2ZHcTFxU3VmVTlQR3BKZHU2TlJnYWpyLTBWNXFzWnp3LU9ncXpFUkxYYWJ6V3hJSTFSeGd3cE42R3hnMk1UNTVRMU1Fdk5BSmxWU3ZzTHFBbmxDdUJWWjlEU1ZzMkY0X0ZCMFBMUndEU09kYVBoREhsZEZoU0d30gHwAUFVX3lxTE1wblVqSWh6QnZQQmlOaXl0WUN3YWQ2V0ZTTjR0OENjYUg2eXB5YmFUV1l6Sm95YjhNNXZQb201clNielpmWnlmTHQ3TzVzR21tUVFYQ01nVmpDajB0TUt2ZF84Q19KX2ptMjJ4ZFVYd3hSZXo2NjFwcWlLNlBUMjNyZ2Q0LVdoTlpESXBBLWpLX0ItSGc0Nnh4eWlKNUMteVJmTkZJcm1BbklOLXlvWVAwUkQxVExZSHJoOWJnUTVleUE2eTJGa1A0RDh0SEZPald1WFl5WGwyQ1NHRGdIa3FjY0NqS3dBYmhBSGNuNjdSTg?oc=5"
         }
       ]
     },
@@ -234,14 +246,14 @@
       ]
     },
     {
-      "id": "e3b3800a9142",
-      "title": "Por que a derrota do Brasil na Copa “dói” de verdade, segundo a ciência - Veja Saúde",
-      "published": "2026-07-06T15:03:31+00:00",
-      "summary": "Por que a derrota do Brasil na Copa “dói” de verdade, segundo a ciência&nbsp;&nbsp;Veja Saúde",
+      "id": "7b71838d54a6",
+      "title": "Bilionário mundialmente famosos pela busca pela juventude descobre doença incurável; entenda - O GLOBO",
+      "published": "2026-07-06T13:37:38+00:00",
+      "summary": "Bilionário mundialmente famosos pela busca pela juventude descobre doença incurável; entenda&nbsp;&nbsp;O GLOBOBryan Johnson, famoso por buscar rejuvenescer, revela diagnóstico de gastrite autoimune&nbsp;&nbsp;G1Empresário milionário que busca juventude eterna revela rara doença no estômago&nbsp;&nbsp;Aventuras na HistóriaEmpresário Bryan Johnson revela diagnóstico de gastrite autoimune; entenda a doença&nbsp;&nbsp;Folha de S.PauloDoença de Bryan Johnson: entenda gastrite autoimune do milionário",
       "sources": [
         {
-          "name": "Veja Saúde",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSUNZLTJUMG1sRm1FMDQ4M2hILXRXNF8xSjFBTk1pR21rZ1haelRjcDFqc19BbExjTFFsWEY2WTAyZ2FtaXoxVkhEQjRpTHMxRkp0T21XQ1NlbjNjZmo0a1N2aTJwVDVsZkVDWk5Ra011OFlwYzBiUHJTUzFORXFBUkZYdHpvNUJyUVV1bTNyZG80NG9udTRFdW5kZTQtUHVVY0VnSzUzTnk?oc=5"
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeUNCVWVUbkZ2MFlFQ3R5QzR4c0U4a2Nub21Bd2FJcmxLWDRqM2s2YzdXV2dvcl9CLW5PeVo0UnlUbDVTNExMSVM2ZGZBVV9NcE5mZkpMYjg4cHgxWGh2Qm5tSnRDc3FROEtNU0VDb2FWSnVmejUzZlpqeGZjdzRkeVdhZ3BnUDIzb2ZKTEowQ1ZkYTNBQzFsOWtuLVVGd0phWXF3WkwwWUVJR0M4RWo3Ri1KQWY3NjdtUjI4ekVxZjluWWt0aHJ3T05sSk9YdHhnTl9LOTh3RW9qd1FfUWhLVdIB7wFBVV95cUxPTmhpcW0tWjVjdGwwQ0t1eWhpd2x5M1B0MXc2cFBxMExBRVUyNC1KTEt6SzBhTENESHl2YkRuaGs5SmYwa0NXbTVENnRIUmhKZ1ZLOFhuYnhEWm5fS0p5QUVKZzJ0OGRPekcxOXJTT21udUM4QU12Y0E2MzRoT3JnX0FFTmdDTl85MmUweVIzVVJOT1d4aG1fYWdGSE5Cc3RCOUdhZWF3OUI0MnNzWGlLZS1VOVlacGJmWEdQZWNWZi1PdnB0WUt5RFg4VERHYjkydEp4all1bjFHSVRIVldvdmVYOEp2bGR3SkwtQUVuUQ?oc=5"
         }
       ]
     },
@@ -249,7 +261,7 @@
       "id": "88e67523e39e",
       "title": "Novo remédio contra a calvície avança em testes; veja tratamentos disponíveis e valores - GZH",
       "published": "2026-07-06T12:16:19+00:00",
-      "summary": "Novo remédio contra a calvície avança em testes; veja tratamentos disponíveis e valores&nbsp;&nbsp;GZHDe ‘novo’ minoxidil a exossomos: o que está em alta para o controle da calvície&nbsp;&nbsp;VEJA",
+      "summary": "Novo remédio contra a calvície avança em testes; veja tratamentos disponíveis e valores&nbsp;&nbsp;GZHDe ‘novo’ minoxidil a exossomos: o que está em alta para o controle da calvície&nbsp;&nbsp;VEJANova alternativa natural promete reduzir a queda de cabelo e a oleosidade&nbsp;&nbsp;Revista Ana MariaGHK-Cu promete revolucionar o tratamento da saúde capilar&nbsp;&nbsp;Diario de PernambucoSem quedas de cabelo! Novas tecnologias prometem fazer o fio nascer mais forte&nbsp;&nbsp;Revista Ana Maria",
       "sources": [
         {
           "name": "GZH",
@@ -258,14 +270,14 @@
       ]
     },
     {
-      "id": "5c77b3cfea42",
-      "title": "A Lua está se afastando da Terra e um estudo revela como ela era há 250 anos - Revista Oeste",
-      "published": "2026-07-06T09:25:00+00:00",
-      "summary": "A Lua está se afastando da Terra e um estudo revela como ela era há 250 anos&nbsp;&nbsp;Revista Oeste",
+      "id": "84cd180080c2",
+      "title": "História humana: descoberta em cavernas da Europa pode revolucionar a arqueologia - Olhar Digital",
+      "published": "2026-07-06T12:03:00+00:00",
+      "summary": "História humana: descoberta em cavernas da Europa pode revolucionar a arqueologia&nbsp;&nbsp;Olhar Digital",
       "sources": [
         {
-          "name": "Revista Oeste",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdGNjMTBmeW9oSGpEQXNLak56cjQycm1KZ2pDcmlTcjh4YzFaRXFfSVJJY0dlYlBYbnZ4b1ZNM1YzRHlaMnpZSjVIZkxWUUZaWGdsUzRCTG9Mc0RXVVNKLXQzM2xITXVlODVrZWwwSFVYdV91b2RoOEtCU3lDV2ZjVFZ4WDd0dWl0dkRjU0ZSakIwamhkQmdEMzI4M0xwQk9jUTQ2SG1CTVJ0bmdjcUJGSUR2UXZ6b1NjV0JCeW5kRTR1Zw?oc=5"
+          "name": "Olhar Digital",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRHRXTDg4Uk9ubzhqUml4bHBsZFIwZmxVektpNnJVbTRheEFqVGJ6RWlsTk1FSXJuOGNVSGpXRDBZcFZ2aGJkRVEzNEgwaVNFMWRJOURLaUY4Z0UtbjhscnBpcWxGNTRtTEVlRkstenhnM2lsdl9NdUltb0p4MkhueXFPSXpRdEI4cUdrVW1KRjF2YWR3QkNmUUNsbkNJaUFyZldISVNmb0tkWDVOSlpkMk9PTGJBckJFam9NRlZJZXFSb0hESktyWWt0U2U4aVpfSk5N?oc=5"
         }
       ]
     },
@@ -306,42 +318,6 @@
       ]
     },
     {
-      "id": "cc86f372b0cd",
-      "title": "Estudo mostra que mudanças simples na dieta podem reduzir em até um terço o risco de ataques cardíacos; entenda - Extra online",
-      "published": "2026-07-06T07:30:16+00:00",
-      "summary": "Estudo mostra que mudanças simples na dieta podem reduzir em até um terço o risco de ataques cardíacos; entenda&nbsp;&nbsp;Extra online",
-      "sources": [
-        {
-          "name": "Extra online",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQTM5S0pjVkNZSVY4c3pCUVRGQ0gwaXR0UW1uY0J6S1VhdnBFXzNOZmF4dDRlZ2QxMVd5QTR3Ry1uSmpvdUlCTTVqaHh5LXFHQ1Uwckl5WGFxa3phLVcyRE9BSUxRUzZqZ0JMSnNmQjlXNnVSOG9oc0RMSF9KdDhUZ2J0YWdjUy04a2VyOEpLT1JtOFdtSDVHRnl1bzlOZ2ZCOUpsdVJzOTRnWENYNmNsR3NwNHo4bVdmUTNDY3J2cTVKVmFoRXhpRFlQS1BFMTJXRkhia0pRWmswdEdiajAyX2gtc1VsTnk4VlE5dGhhQnNBaEds0gGDAkFVX3lxTE5zUkZweFZTNWl6bHZkdnJsX0FjSlNuRkNpMHBVV25Wci1XVTdPclZucE5hb3M1UDg2RkdReEZmWFA5a0NOZ084NTFfNy1sMU9WV3h1M3BuX1otY2VDeHdYSXl4Q3J1ZnVVXzVRUkUwSVBlRXlqMUFKTi1VLUdsNGVuVnJnWVBBVzJ4dlM4YWxma0xWWFlScjJYOGFpRWNuLTlvNnptVk9NeWhxRERPaXZPMjNRWUxYLS1jUlBZcG8tUDU5OEk2WnlzRV84Z0cySzZQbkpOSFdFdlZsVklOX1ZERVpra0ZvUFlsc2tkRmJ0eEkwQ2hFejk3dkMzbmM3dnFtdDA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3fb9c2828f43",
-      "title": "Grupo de pesquisadores decifra como se originam as galáxias mais massivas do universo; veja imagens - O GLOBO",
-      "published": "2026-07-06T07:01:00+00:00",
-      "summary": "Grupo de pesquisadores decifra como se originam as galáxias mais massivas do universo; veja imagens&nbsp;&nbsp;O GLOBO",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQUVnZWpXNEg5cUNPWjZ2QzhpSWVVMDJaVm1WOFJuUUJqM250aG8xQkZtNUhiWVRxUTBoc2RXaHR3TFNWZ3BpVU5UcHBsTW5MbVlRNTNRUzBkaTg1cE0wR0ZoY0pjM2VLYzdoNmRtSWFTLTV1c0w5SjBaLTVPUFAtaHBHZGdmRTNKeXJGdFQtYVRZZm80RFR4d1hqakFVYVd3bDEtc2QzSVI1bGNZd2JfRnprSHcySXRzR1ZCSkQ3TXdzUTNVbV9ZaTNBVkNBTnVUSXFSckI4ZUVHNHVwVnRSc0JjQkhZUllSaTIxTjRFZ1NQZ9IBgAJBVV95cUxOdkZSTERFSXNPNTU2WlpFSDluY2lXdUNPYkl4Y1NCREhzLXFhNTcyZDlKdVdaVEE5NF80ejFudmhJSlF4Ni00OXE5Tk94YmltUlNDX2l6ajlBWUZpNEZtQllrd254V2xfVmsydVgyZS0zZ1Nwelhnbm05aWJRQ3kyWlVadlE1WFExM0JybVhQZFJwMkpKakNZMVEwWUJ0T2JsR3dRbE54Y19NZGZQX3ZGYkxjRm9JTGNHZFE2YzRNSDlwYkhYWndVRU94elZReWJqWlZHcGFKVnE0Y3M1bUQ1WHotRFVmYk1SQVNEWjZ1VVZGTjJvSWVpOWhBOW4yMm9B?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a43c7e96986b",
-      "title": "Nova técnica pode transformar fungos em armas contra o câncer - Olhar Digital",
-      "published": "2026-07-05T22:30:00+00:00",
-      "summary": "Nova técnica pode transformar fungos em armas contra o câncer&nbsp;&nbsp;Olhar Digital",
-      "sources": [
-        {
-          "name": "Olhar Digital",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaFZxRnNLODhQTGxSMnBySzVCM2hNWC1Vem5VZU9YMjBQYWFFaUxvQXNvdXhoSGxTdkFaaW9DV0dwUlVLYzlweENiOG9sdWZpbno0ZUJZOFgyT2Z5WlJ4cFRFRFoxNkV6MkdJdFBiLXdwV1A2MFdlVXJhRkhVWU0xYmRleVVoTU8ybUZPRXRsMm4zNVFnM1pvTWh3V2JSYUE1Q0hFanVFaUVCVFlZak83c2ltYkcyTHpoY3c?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c8ada02248cc",
       "title": "Pessoas com diabetes podem comer beterraba e batata-doce? Veja os alimentos que exigem mais atenção - Estadão",
       "published": "2026-07-05T21:32:00+00:00",
@@ -350,42 +326,6 @@
         {
           "name": "Estadão",
           "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQ3hidTd2MHRHZWxXZGZ6aE5DLUlZTm5yVFp6VzRZQU03OGh3YTFJZmhndnIzUVY5VURKc2ZfNjBqVnhlRzhhcUx2UF9aVVVaVW1Xc2lDMjh6RXdsQ0lqOHp6RE1mZV9ZQ3BmVkdHWEQ5VldmcEJudGN6Qkd2cWU2S1pqczA0ZUFGNjlzZ3k4VEstR1g4aXVucTRnVF8tMmNvY29VTHpZazhRaTUwNFluSFcwbGhkaElaSC1xTGNuY3V2UnRramFTZFN0c2NpaS0tdVFId1ZiQVR6NS1kM2tB0gHkAUFVX3lxTE1Hc1RKN2pFTlNyTExlTGppc1kzeUFvUlBqZDRzZU5rVXUwX3A4UnZpcGE1VndLakY2NzF3cGQwdldtaUJHM3hlcGRKcHphN3Z0RDZTN0pUSEhOMWhFNTlhZjFaTkE0QzlBZFI0NFVXcjhVcEVOWG5IelljYTItNUlrbF83MlpTT1VfVUk3bWFRQUl2ekFaWlJUYVlKMzF4UzktdzZRV0hMemFFN2hDcVJBWFJaZDlQMktEY1JUR2xkMDA1NjVJaFhNdXI3ekphODVDYVlHOWVkNkxocXBLOU5WVmFyUA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1daa036db6ac",
-      "title": "Quatro estações da CPTM terão vacinação gratuita contra o sarampo a partir desta segunda; veja locais e datas - G1",
-      "published": "2026-07-05T17:18:24+00:00",
-      "summary": "Quatro estações da CPTM terão vacinação gratuita contra o sarampo a partir desta segunda; veja locais e datas&nbsp;&nbsp;G1CPTM inicia vacinação contra o sarampo em quatro estações de São Paulo&nbsp;&nbsp;TV CulturaCPTM recebe campanha de vacinação contra o sarampo em estações&nbsp;&nbsp;G1SP: CPTM terá vacina contra sarampo a partir desta segunda (6/7)&nbsp;&nbsp;MetrópolesCampanha de vacinação contra o sarampo ocupa quatro estações da CPTM em julho&nbsp;&nbsp;VEJA SÃO PAULO",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPcjZhV1NqUktOaVFiblljXzFPbzNBUFctZ2NwQWtwV0xqblBHVTZkallwV2pOMXJLU1UzMjJRZG5rbGFkTmNqdHJ1NTBfeTB2d2JNSUZzUVo4cFF4X1EyS0hKT0NyT0R4cm1BMUJseDJqVjViVzdQTDFQNmoxUmhldWRQd3dkLVhaN1Y2UW96TkNJLW5sWGZFSnhEUHBlUU5aWDdXcS1nX1ZUR0xaWUtHNnZKNU9aVHFKWjVoSDlHYXJkVlFjX2tYdlhEeF82RENvUjRmQ0g1bFFTalRVejEtWVNfY1puVldfa2wzQkRUVkMzTnJmS0JTNjBVWdIBigJBVV95cUxNLUNnTlNVcTVhWE40SVMxYXpOcHgyUUZtd2dRc1JERXdqTTZJQUZtd1ZwSFUyNUk3cXNiazJUOWVFYlZWMml6YU14Ql9JaS05NEVSbkZBVzF6RGhqUWkxUkd6Qk1SZHNxQUQ4QzNlWWVrMnlTWUxseVllQjgzdXVxLVFjM0NyLUZrOXl0TkZYdk1ZR0tUZXhaWWVrQ2c1Wm14d2kwX0NOVTNKMG9sc0dZRWtaUHlEWGo5dUt0cVVkQXVFVnJhN3NZcVhqMUFTYUIzUDE5Z1hyOFVVVVUtX2ZlQjRqTHJabGdpS1ZmekZ2UUgyQUZidEhLQkVHMk1YNE9jdDAwQTNIakRLZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "de729b43a976",
-      "title": "A falta de sono profundo está relacionada ao acúmulo de proteínas tóxicas no cérebro, segundo neurologistas e novas pesquisas - Tua Saúde",
-      "published": "2026-07-05T16:39:00+00:00",
-      "summary": "A falta de sono profundo está relacionada ao acúmulo de proteínas tóxicas no cérebro, segundo neurologistas e novas pesquisas&nbsp;&nbsp;Tua Saúde",
-      "sources": [
-        {
-          "name": "Tua Saúde",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSTdOVXI3cVk0WDlZX2tYdlRLMHRiVTQxbUJqMC11a0Z6eXF3ZTNOdWpKcDBPbDVUR1ZEeVdLZnVRWmk4M0ZJZ2dCNjlZLXVscmpKTURVMy1oak9wZ21BWWtLUDJNZnJmdGpvbjhMQnY0SVAySWYtU29XaWdCTFlVQXJFY09wZ3ppaUVNY1NJSVVjY3ZpQnJ1cWFvZnNpNlZ3ellPWjBYWk82SVZmVHgwcWRmT3ZkZ3Z6dExrVU1VQnJXN18ySnpiQTBnNEVvTldWSFBYeHdYSkt6Vm1oS09GQ1Y1NXljUXNFOXFFWm9xVXdpNTFUQnZaZWxn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0d2d88750b35",
-      "title": "Cabelos brancos: estudo testa medicamento para recuperar cor dos fios - Metrópoles",
-      "published": "2026-07-05T14:16:00+00:00",
-      "summary": "Cabelos brancos: estudo testa medicamento para recuperar cor dos fios&nbsp;&nbsp;MetrópolesCabelos brancos podem voltar à cor natural? Estudo testa medicamento e encontra resultado promissor&nbsp;&nbsp;Catraca LivrePesquisa abre caminho para reverter cabelos brancos&nbsp;&nbsp;O HojeEstudo sugere possível reversão de cabelos brancos com medicamento, mas ainda é inicial&nbsp;&nbsp;Única News",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uMU4zcUFETGhnaE8xWUdtME13VWZSaW05YjRSVHZvRFZyLWNmMmYxaFVXWTZMLUdGNGNnMjUxMTdrYjl6ejk3eDlOZUE1UlpMV1c1REIzcVN5YmV2SEg3V0NJaUhjbFRaOEV6Mw?oc=5"
         }
       ]
     }
