@@ -1,10 +1,58 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-07-06T20:00:23.423802+00:00",
-  "total_fetched": 82,
-  "unique_count": 81,
-  "health_related_count": 25,
+  "fetched_at": "2026-07-07T03:36:13.928638+00:00",
+  "total_fetched": 83,
+  "unique_count": 82,
+  "health_related_count": 26,
   "news": [
+    {
+      "id": "af254b65ce27",
+      "title": "Gafanhoto rosa chama atenção em descoberta rara e mostra como uma mutação pode transformar a aparência de um inseto - Super Rádio Tupi",
+      "published": "2026-07-07T01:21:24+00:00",
+      "summary": "Gafanhoto rosa chama atenção em descoberta rara e mostra como uma mutação pode transformar a aparência de um inseto&nbsp;&nbsp;Super Rádio Tupi",
+      "sources": [
+        {
+          "name": "Super Rádio Tupi",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVHhKUnZiRW16NFhIbVg4OWNwZmF2ZkZfdzNvZmo5UEFfOXAzcktTMlBFTWFYLVVXOW40ckxYNzBnTUVDb1JqbnVDZnc5R2VrQnBGRTg0cTFNMFhnYV9lRWR5cm5fR3dsZkVndThidnZzSmFvdXFFd2ltbkxCSUhHSS0ySzVybUdLdDhZSnVfMVFHa0tZNnA1YkpxbWFpQmRiWGs1REtqZzRRaXYtc0FhaW9PZVVVTHNKU2N0WnNvaU9aanF2NGtBZHJuc3hmUnVHajBvZ1B6MGFfdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b8ef7f3d674d",
+      "title": "Astronautas que voltaram do espaço desenvolveram catarata mais cedo, receberam radiação na lente dos olhos e expõem risco tardio que pode pesar em missões a Marte - CPG Click Petróleo e Gás",
+      "published": "2026-07-06T21:36:00+00:00",
+      "summary": "Astronautas que voltaram do espaço desenvolveram catarata mais cedo, receberam radiação na lente dos olhos e expõem risco tardio que pode pesar em missões a Marte&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQR0VZWlAyaG56U3ZXckhmTGFIdkg0Q2haRDhCOVdwbUgzdkxOcWw4MUE2dmExRXVrWEVfVFRELVNMWlpsRW9FN3lld190M2U4bkJFUE1nREtEa3NUbEp0N3I1bmpHTEUzbmNjRkM2elMzVTlXbm5JWUtvZnU1dXVBd3FJU1F5SmpZQXJubEFYckpyNnFRNU1uMFlDSTROOTM4b0p4ZGhMYlZidVJSNFRuZC1VbEpsN3pqckNCWWNJMjlZS2xIdVdxNTRqdVExNTBOZUc2VVdaRlNFUWVwYVltTlB1S1FybEtCRjBoNjFRTDFDUEFBWFlJVGdzTmlZOVlFUFVpOVFoUmJvZy1YUWdJOUdwRjV4d2F1RnZQZlJzd2VUdG5iUlJR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e6e62ef95d77",
+      "title": "“Meu sonho era usar batom”: diz idosa que corrigiu lábio leporino com cirurgia aos 67 anos e transformou desejo guardado por décadas em exposição emocionante em Mossoró - CPG Click Petróleo e Gás",
+      "published": "2026-07-06T20:40:00+00:00",
+      "summary": "“Meu sonho era usar batom”: diz idosa que corrigiu lábio leporino com cirurgia aos 67 anos e transformou desejo guardado por décadas em exposição emocionante em Mossoró&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTm1aZEZqb1Z3YzhqanJYZ0o2dW45bHA2RUNHY280XzczSXFsWFVYeDIwaV9Kd3VDZHM1SE5QOTZITDZSLUszM1psT3pYYlJhdmdaMW9zaFRpcDlYU3lWallnVWNSTThTR0JxTzJaUFozYVJLczdJTzhITGo3T1BnalFJSQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "63f7d6992df7",
+      "title": "Encontros regionais discutem preparação do SUS para impactos do El Niño em 2026 — Ministério da Saúde - www.gov.br",
+      "published": "2026-07-06T18:02:17+00:00",
+      "summary": "Encontros regionais discutem preparação do SUS para impactos do El Niño em 2026 — Ministério da Saúde&nbsp;&nbsp;www.gov.br",
+      "sources": [
+        {
+          "name": "www.gov.br",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeHhud2tKUHZmM1ZIaVRvTXdFRHN2RkdRSlRsWlZkNFBpcW1JYkhrVElWaFNJbS1HUDVnRDRWa043Zy1JQTUySG5uVGFqaHBuVG9UUWxUY2lwX21qY1lzcFRscUlIUE9ubl9hU04tRDFDVWduSnc5bEswU2FBeEkzUE1MbGk5V2VPbHhQSFZpUVYyVzlmTWJQalJmcFF0eWhVOTRHbEVOZHI3Y3ZvQkhpeDRlV01tT1FneEJtaTE1OTN1TTYyVHcxTE9iWVZPVUMtZ2JYdE9RbTllUQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "90825aa6f403",
       "title": "Entenda as causas e qual é a diferença entre lipedema e linfedema - G1",
@@ -18,14 +66,14 @@
       ]
     },
     {
-      "id": "c4785019c468",
-      "title": "Nasce na América Latina o primeiro porco com três genes inativados para estudar futuros transplantes em humanos - Super Rádio Tupi",
-      "published": "2026-07-06T15:49:35+00:00",
-      "summary": "Nasce na América Latina o primeiro porco com três genes inativados para estudar futuros transplantes em humanos&nbsp;&nbsp;Super Rádio Tupi",
+      "id": "0e68fb10bc83",
+      "title": "Vacina contra vírus que ameaça idosos reduz internações em 75%, aponta estudo - Veja Saúde",
+      "published": "2026-07-06T17:14:04+00:00",
+      "summary": "Vacina contra vírus que ameaça idosos reduz internações em 75%, aponta estudo&nbsp;&nbsp;Veja SaúdeVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOVhibGJSVzV5dFdPS1l2cnlqZXpjaC1xT19ONllINmxiVGN4TmljbDVQMGFfSlFGVjI5RWt6UTRNNExjendDaEpkTUdXQnNHdUpFS0tTUTRPYllPY3E3c1ZuTXBqX1VsVUhvVWZ5YU54cW1pOHZBMEFhLUxUdmFwdWpTU3k3SDVHQ3g3RkNMYWNXdHBvc2JfWFVjTHh0NzFhd3ZMa3M4b0dwdzZ3TENfdVJrTG5mWVZpU09qeENkZjN2Q3oycEZMX25ER0NsMXFXbmpFUg?oc=5"
+          "name": "Veja Saúde",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbjFOTlpTbG42czRUT3AyeGhUQVR5Y0xpZTZHN1RZczFXVzdIbE9EZENwajF1dFJNZXBZbHBqVGlVTjRnZFBISnROLXFnSnkwajhRX3RKTDlPenMyVllCZU1aRDdraFBPeUJORU4yQlQyT3Juc3pEdGxoZnQ0Zm5Sb2pKempZNnVYb1VfVWNnUzJZOUJnTGVva01yNE1kWEZjajRQWXFWNC1Fc3I0bkExNC1R?oc=5"
         }
       ]
     },
@@ -54,18 +102,6 @@
       ]
     },
     {
-      "id": "c09cd0af8ced",
-      "title": "Planeta \"vizinho\" da Terra pode ser favorável à vida, afirma estudo - CNN Brasil",
-      "published": "2026-07-06T14:52:34+00:00",
-      "summary": "Planeta \"vizinho\" da Terra pode ser favorável à vida, afirma estudo&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNclJBSlUxenMydldFZy0tU3NqLUNGYkNqUEF2NjZLOWFfTHZoWjQxT241ZS1OY25feS1oLWw1VENwYnFHazQ2RmVsYjVXZmd6MmxhOWNWa1FjTTQwV21zOThlT1RJbXd6Rm1kU3d4akd4VkZvYXdhNnZBdnFtRXBfV0dlQWZMMF9RWjNtTV9KTlZLc0puYS1PZFR2M3h5RmZWYzBpNg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f214a9369c7d",
       "title": "Fazer exercício de manhã ou à noite? Estudo explica influência do relógio biológico no horário do treino - Tribuna de Minas",
       "published": "2026-07-06T14:22:40+00:00",
@@ -74,6 +110,18 @@
         {
           "name": "Tribuna de Minas",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZTdOU0czSTk1V3JhYmZiLXdVM09nVWZnTjZ1MUs0dmxsZV80d1B5VGJQWUlQRnNJbjE5VnZYdUJHRXpDNHBJM05pTWtYN2d1aTZzM0cyQkh4RmYzdjcwY0VNdjA3SUV4bjBJUnIwZEVWR3ZQaTh6RmJSQmVkZ3pUNmNSNXNnWWxabnBjM0FoY3RtMmxDcDJzSzZR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bc73897fe8d2",
+      "title": "Mestrandas da UFU criam jogo interativo para ensinar crianças sobre a pesquisa com animais de laboratório - Comunica UFU",
+      "published": "2026-07-06T14:04:00+00:00",
+      "summary": "Mestrandas da UFU criam jogo interativo para ensinar crianças sobre a pesquisa com animais de laboratório&nbsp;&nbsp;Comunica UFU",
+      "sources": [
+        {
+          "name": "Comunica UFU",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbWluY3JkVHkwMWptd1BNUi13Q3A4WjBqbTNETjRpTXRHTzJMazBpNE4zNVd1UHJTNTNqclY4VjVCMTNZN1R2MDNFcmpsRG9UOWxvZDZLemJxS1R2UkdHaTUtRjF2U1RyOHctX25FVnBUeXhUaVlOdWczTkJiQU94ZXhYNnBINVJBcVFnY3N5ZjdDakc4UEFDbXM3ZG5Jb1kxdV9ucmxhMmVrbzVKenJnU1FCV0ZEeG5HX1ZVa1lR?oc=5"
         }
       ]
     },
@@ -102,6 +150,18 @@
       ]
     },
     {
+      "id": "729ba7cb658f",
+      "title": "Médicos orientam sobre como frear doenças inflamatórias intestinais - Correio Braziliense",
+      "published": "2026-07-06T09:00:00+00:00",
+      "summary": "Médicos orientam sobre como frear doenças inflamatórias intestinais&nbsp;&nbsp;Correio Braziliense",
+      "sources": [
+        {
+          "name": "Correio Braziliense",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNHNXandzYVc5VEt0dnFmczNPUmc4RW0tRW1ObTJjSlBoQ0Rqb29SWGJVT3lnNUR5cnNvYnpaVEpHZUw2QTd5QjlfWFV0S3YteTVJTnV6WldPQTBPQk5qTEoxVDFieUEtM1VlLUwxOHhwOGlKV0FROHQzLWh6U3NHVEc1cGI5OGNrbGdweGhpVW1RVDd6UGMzNnBpb2drOGpPX0dyVlEzQlFUVS1WSTh2ZENwcFd5YWVOUjlpMHhwVlp6MFloYUVnSVNRaEM0V3Fnb3lR?oc=5"
+        }
+      ]
+    },
+    {
       "id": "35fa8eaf9759",
       "title": "A psicologia aponta que cumprimentar ao entrar em uma loja não é só educação, mas pode revelar inteligência social - Super Rádio Tupi",
       "published": "2026-07-06T08:49:22+00:00",
@@ -117,7 +177,7 @@
       "id": "2849d32ffd18",
       "title": "Mounjaro, Ozempic e afins também são remédios para longevidade? Veja o que diz a ciência - Estadão",
       "published": "2026-07-06T08:30:00+00:00",
-      "summary": "Mounjaro, Ozempic e afins também são remédios para longevidade? Veja o que diz a ciência&nbsp;&nbsp;EstadãoCanetas emagrecedoras podem desacelerar o envelhecimento, aponta estudo&nbsp;&nbsp;Folha de S.PauloRembolso de Ozempic e GLP-1 em 2026: quem é elegível?&nbsp;&nbsp;Darwin NutritionOzempic e Mounjaro entram no debate da longevidade, mas ciência pede cautela&nbsp;&nbsp;Paraíba BusinessO Ozempic explica tudo? o risco de confundir restrição orçamentária com revolução metabólica&nbsp;&nbsp;Monit",
+      "summary": "Mounjaro, Ozempic e afins também são remédios para longevidade? Veja o que diz a ciência&nbsp;&nbsp;EstadãoCanetas emagrecedoras podem desacelerar o envelhecimento, aponta estudo&nbsp;&nbsp;Folha de S.PauloRembolso de Ozempic e GLP-1 em 2026: quem é elegível?&nbsp;&nbsp;Darwin NutritionOzempic e Mounjaro entram no radar da longevidade&nbsp;&nbsp;Paraíba BusinessO Ozempic explica tudo? o risco de confundir restrição orçamentária com revolução metabólica&nbsp;&nbsp;Monitor Mercantil",
       "sources": [
         {
           "name": "Estadão",
@@ -174,18 +234,6 @@
       ]
     },
     {
-      "id": "99428d5adeea",
-      "title": "Quando a perda de memória vira sinal de alerta para Alzheimer? Médico explica - Terra",
-      "published": "2026-07-05T21:04:00+00:00",
-      "summary": "Quando a perda de memória vira sinal de alerta para Alzheimer? Médico explica&nbsp;&nbsp;Terra",
-      "sources": [
-        {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxONERIYkhpOG9XeXI4UDRHeV9ZWkdmbFp0amZrVk9KYTBZZHUwa3pSQnFqV0ZWdlFiVm8tM1pCS3VMWlVTZWJVYmFqQTRUT010eks4VzlyMnNuWE85eG1VS3NZTGtldy1qVnRvTnNycmNxc1pfUnpDak43WE1EMDJRQXdZR1V6SktHbkVrUTd4TXZmZl9kN1M3MGItVERqS1RsbW43RlBNQUYzeGpmZ1hrZGVRSWpybzZXc3h5T0gtT1FlRHVVQlJUb2xSNlBQTWVLVEJYVzRmMUQ2dnI0ZDlkdWhkNVVCY0cwcUFZNkhMaVBScEU?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1ae7f358563f",
       "title": "Ratos demonstram empatia em níveis graduais, aponta estudo alemão - Olhar Digital",
       "published": "2026-07-05T20:41:00+00:00",
@@ -213,7 +261,7 @@
       "id": "1daa036db6ac",
       "title": "Quatro estações da CPTM terão vacinação gratuita contra o sarampo a partir desta segunda; veja locais e datas - G1",
       "published": "2026-07-05T17:18:24+00:00",
-      "summary": "Quatro estações da CPTM terão vacinação gratuita contra o sarampo a partir desta segunda; veja locais e datas&nbsp;&nbsp;G1Campanha de vacinação contra o sarampo ocupa quatro estações da CPTM em julho&nbsp;&nbsp;VEJA SÃO PAULOSP: CPTM terá vacina contra sarampo a partir desta segunda (6/7)&nbsp;&nbsp;MetrópolesQuatro estações da CPTM recebem ação de vacinação contra o sarampo&nbsp;&nbsp;Band NewsParaná: saúde reforça que população fique atenta ao esquema de vacinação contra o sarampo no estado; ",
+      "summary": "Quatro estações da CPTM terão vacinação gratuita contra o sarampo a partir desta segunda; veja locais e datas&nbsp;&nbsp;G1Campanha de vacinação contra o sarampo ocupa quatro estações da CPTM em julho&nbsp;&nbsp;VEJA SÃO PAULOSP: CPTM terá vacina contra sarampo a partir desta segunda (6/7)&nbsp;&nbsp;MetrópolesCPTM inicia vacinação contra o sarampo em quatro estações de São Paulo&nbsp;&nbsp;TV CulturaNota Técnica do COSEMS/SP nº 5 – Alerta sobre Casos Confirmados de Sarampo no estado de São Paul",
       "sources": [
         {
           "name": "G1",
@@ -234,22 +282,10 @@
       ]
     },
     {
-      "id": "75265878b07b",
-      "title": "O simples ato de um cachorro comer grama esconde uma curiosidade que intrigou pesquisadores por anos e que hoje ajuda a derrubar um dos maiores mitos sobre os cães - CPG Click Petróleo e Gás",
-      "published": "2026-07-05T16:29:00+00:00",
-      "summary": "O simples ato de um cachorro comer grama esconde uma curiosidade que intrigou pesquisadores por anos e que hoje ajuda a derrubar um dos maiores mitos sobre os cães&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQWEVzNGNBbnNpbUllV0RsODJ4Q2dJdDNJZFVCa1Y2clkyNVNjSGhUUWdjdTVuVFZoSmpfQ2hGMUJvSVA5ZUhfMFg3WXFTWW93UWhLTGNsQzRSalh2NmFtZHVxMklCa2R6cWM1QjNFVndjcDFIVDdzcmh1Qm1sbHFEWDhyLURxbUhJTk1GVHRWVFVTWDA2bFlMRC1YX05HRnI2VUpacFlQb2F4a202STIxR2hiSl81SUM1QXNMdDUtWk1UaXVkZmRWY0pEWVZVTko2RnZncWJOQnNvM05yZUZCbG1ieHNYZjItQVZBemdHdWtLM2xwT0JBUl9CTzItaTFGaEpqTk5pbVRYZjIxSzVtZDVIenFsNG5GTmVyS2MtT0U1NmZBMFZQaS1NSy1ESENrdWpQVzBnR3dudHItc2YyZGo3cDY3UUU?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0d2d88750b35",
       "title": "Cabelos brancos: estudo testa medicamento para recuperar cor dos fios - Metrópoles",
       "published": "2026-07-05T14:16:00+00:00",
-      "summary": "Cabelos brancos: estudo testa medicamento para recuperar cor dos fios&nbsp;&nbsp;MetrópolesPesquisa abre caminho para reverter cabelos brancos&nbsp;&nbsp;O HojeEstudo sugere possível reversão de cabelos brancos com medicamento, mas ainda é inicial&nbsp;&nbsp;Única News",
+      "summary": "Cabelos brancos: estudo testa medicamento para recuperar cor dos fios&nbsp;&nbsp;MetrópolesCabelos brancos podem voltar à cor natural? Estudo testa medicamento e encontra resultado promissor&nbsp;&nbsp;Catraca LivrePesquisa abre caminho para reverter cabelos brancos&nbsp;&nbsp;O HojeEstudo sugere possível reversão de cabelos brancos com medicamento, mas ainda é inicial&nbsp;&nbsp;Única News",
       "sources": [
         {
           "name": "Metrópoles",
@@ -278,30 +314,6 @@
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQ0NRZnhzMTBiMnh6WGNVMG13SnZqTDJXcjd0aFpjMU9KMmp2VjFVQ1NLanI3TjkxZF9lbTRJLUZGcFRLZkxsUXNtNjJTdjM5TXpkeEtVQWx3cUhrSE5QQm1YUzJkNnFzSkNlcVQ2UXJEQk1LXzBEcU5pdlI2VEZWSTJ6Wkw5ZUNMTXdnVVhyVy0xRVZWZnpFQU04cHpHU0RmTHZrVjVsNUZJcUN5Y00wdjE1aUdHQ3VidUFTcExJdzc5b3dwQ0FjSk0tMktwZmZ1TTVjXzYta24wVlBqanFhSGs4cDQ5T2pkRmlv0gH6AUFVX3lxTE9CaVhtRk9XbE52VUk3bEttcy11Mmh0NDBJY1hNRlc0RjJjVmlNTWVDQVVtTjVMT1F1ZThYVzhYQWRnXzVGRy1xNkVnaVF0U3NQcmdQcFJJR2U2ekdWSVd3VmEzdlhEdVVrcFFiR1gtS2pjdkhSTzRVT002c2JXQUJnc05jQmJ4V0pPWExVX3V0TjY3QVdJSnBET2dUM2c3UW9pRFVYSWZwNXBGekdZNklxQ3MwQnlaNm9xUi1EWGhZLUVRdzVZUkZPRnNWOFRpWlQyVktpelZic1hXb1VXT1JWTHZXSGdGN2ljYjFFTHd6YnN2U0tSZFFYemc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bc59a94b1c49",
-      "title": "Estudo mostra o que acontece com seu sangue quando você está estressado - R7",
-      "published": "2026-07-05T05:00:00+00:00",
-      "summary": "Estudo mostra o que acontece com seu sangue quando você está estressado&nbsp;&nbsp;R7",
-      "sources": [
-        {
-          "name": "R7",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQS0xSeUI2MHdFT0swNEhDdHhMZGU1dHUtZEVVU1hoNW5HNHJIdlJOUUpjZGo0c0p1TlFPbXBQMUl0U1Zfempxc3B5SE55TzVFWTdPbTJCNm5YZUgyU0xIT2tRSTlDQmVzdk9DSXVnRF9RN05rUk5UUU5DVmxRb0hMUGNMZUU5OG5yTGdMVE9POVRjY3FYRHk0cDBUN2pFWVZmWV93cE0wS2R3ekstNnBQVTBCVXpobk9IX25lRWdBeEF4WE5uQVJNZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f6dc6b32a530",
-      "title": "Astronautas que voltaram do espaço tiveram bactérias intestinais alteradas, perderam micróbios protetores e mostram risco silencioso que pode complicar missões humanas a Marte - CPG Click Petróleo e Gás",
-      "published": "2026-07-04T21:45:00+00:00",
-      "summary": "Astronautas que voltaram do espaço tiveram bactérias intestinais alteradas, perderam micróbios protetores e mostram risco silencioso que pode complicar missões humanas a Marte&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNbTZGakUxbHp1WGh1bzYtOGJnWk9NaTd1a0tnbzczSnRibVZVOFRfajFjbFBTamJaSzZ5emJfTFd4Ty10Y3FiS00zZWZ4S0JLNExWeWlTRFFFUHBpeVdlUVNMVEZZNnpLdDVTZHM4d1l1NTg1aEIwSURlVTlyYmFTSGVOUWpJcEdkdHlRbXVWWjdGcFVtdy16Vlh6Z2xNNWNhdXJZXy1Kcnp6eGhSU0VvLWhnREwxbXhNOFpLZVA0NHFUdlRhbU9aLUVRb0V1LVJ3cFJ0ZmUzaTRwelQ5M3pScGFNOVNDT1YtZmZMTXhfUVR3dkNzdUhxaWxjLWZ1YXNmcDlRRW9EZnF2SGtZak5tSWEwZGNyNXlGLTg1b1dVaDl2UEhjRUlWOEstNGg1VUxsVDVnWERxOUk?oc=5"
         }
       ]
     }
