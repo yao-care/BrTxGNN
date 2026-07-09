@@ -1,19 +1,115 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-07-08T19:27:35.559267+00:00",
+  "fetched_at": "2026-07-09T03:29:28.734069+00:00",
   "total_fetched": 89,
-  "unique_count": 88,
-  "health_related_count": 29,
+  "unique_count": 86,
+  "health_related_count": 32,
   "news": [
+    {
+      "id": "d9f6c4efae63",
+      "title": "A relação entre câncer e exercício físico mudou, e a ciência explica o porquê - Estadão",
+      "published": "2026-07-08T23:00:00+00:00",
+      "summary": "A relação entre câncer e exercício físico mudou, e a ciência explica o porquê&nbsp;&nbsp;EstadãoMais (más) notícias sobre o sedentarismo&nbsp;&nbsp;G1Trabalha sentado? Fisioterapeuta dá dicas para evitar dores na coluna&nbsp;&nbsp;MetrópolesCada movimento conta: menos tempo sentado, mais saúde&nbsp;&nbsp;VEJA RIOQuem trabalha muito tempo sentado pode desenvolver problema relacionado ao coração&nbsp;&nbsp;A Crítica",
+      "sources": [
+        {
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYWpyVkdkcEJCM2l4WWx2eENSbTJhckJhNGFiT3NIOTBOWHJuVVJnYkZ4N21iLUhTRnY5aHFIVWJ1WGNQREFVUko2TmFPYjhuSU9zdVhxVG5JWmpvNEpSeUZMaVVRMkhpME1ROG1zZnRHTWwwTi16Sm9HdFBBdGZYYXZtRWNjb2U5RGcwWW9TZWhvbVJ2VkRtdE5CeTZzb3ROV1JkYmF5cjBXb1dicGctZEpTanNvNW8tdHc3aF9xNloyQUNWU3d2SXEzaGTSAdIBQVVfeXFMT01jdUZMRzloWlB3Zk01OGd2MV9GOXNtV1ZFd3ZNQmJnUlBGNmllbUY5endTaEwyV2Z3M092VzlIcEhrNXUyMWxSSXpBVDdWWU5ZOXdpb2lFOXBEUU1vanFiNzRFMFE5T1plSVotRUJYc2NFVWI5Y1V6WTRPSmdUdVVoaWxzcjJxeTNBeHh6eE5wOHMtYjVkVUpJUkxHNnVlUTczRGdzWmNXV2RLdnNudzJvUTRKemdGT2FrRHpFU3RzaE9PWkhLX3BmamNWT0xXaXJB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1ff86d3e1c92",
+      "title": "Quer dormir melhor? Estudo aponta qual exercício traz mais benefícios ao sono - ICL Notícias",
+      "published": "2026-07-08T19:00:53+00:00",
+      "summary": "Quer dormir melhor? Estudo aponta qual exercício traz mais benefícios ao sono&nbsp;&nbsp;ICL NotíciasDormiu mal? A ciência mostra o que fazer antes de cancelar o treino&nbsp;&nbsp;GP1O que a ciência diz sobre práticas para ajudar a dormir&nbsp;&nbsp;Nexo JornalEstudo revela a prática mais eficaz para melhorar a qualidade do sono&nbsp;&nbsp;Rádio ItatiaiaNem caminhada, nem musculação: ciência revela o melhor exercício para dormir bem&nbsp;&nbsp;Dourados News",
+      "sources": [
+        {
+          "name": "ICL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5YUx5QVNFT3pyaGdwSS1PcUxhU2Jyby1BZEpHRDJQWXFzV0tXaDBST0hlMWlqNDNvSWhUNDJVMnRVd0Y0R0NmeG9XZzFUa29kaFZDVVJqSEx3NU1BM0h1X1ZndDVoMnFMRWZnLVptQU8tUXBPM1VHNw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "30c6fcb09704",
+      "title": "Resfriado ou rinite: como diferenciar e o que fazer ao primeiro sinal de sintomas - O GLOBO",
+      "published": "2026-07-08T18:22:40+00:00",
+      "summary": "Resfriado ou rinite: como diferenciar e o que fazer ao primeiro sinal de sintomas&nbsp;&nbsp;O GLOBOÉ alergia, gripe ou resfriado?&nbsp;&nbsp;G1Gripe ou resfriado? Saiba como diferenciar os sintomas e quando buscar ajuda médica&nbsp;&nbsp;HojemaisÉ alergia ou gripe? Especialistas explicam como diferenciar&nbsp;&nbsp;Folha VitóriaDiagnóstico avançado diferencia alergia de gripe&nbsp;&nbsp;Terra",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRThnLUp5TWVzSWhzdmQ4MHB4NjRYSWRnV0xydmlNYlRPYks4Ml9YOVU3dUMzWG5rcTVtR3k1d0MzeUJjOWk1Znd3cTNpUlJhSndxS0tIN0ZiTkJzb3pQd0RoU1hwV1Q1WEgyajRTN3liZnB2SVp3aGgtaXM4VnluWHlwQ1VkRW51cDFCdWo4Y1ZhWXhabjdPR2JNLUJYal92WDBxVzNaYzMybEp1amFPRjlTMzdrVm50cTNVTlhocXJ0dVV2UHk4eW9CcDFQMTRSV3fSAeABQVVfeXFMT1U4emZYazVKZlVXc2pFVnpCUmdHT0tmeks1MHJQaEs3RE41ZXBGaTBDOERHd0dHa2NmdnoxbzlHZjU5Uzlzb1dzdDNiN21PUjAxd3JRTnk2SGZfWXN2cGk2MzUzaUZpMkxua1F1UE80Z293N3hJOGFxb19UWlhQeU5vcmVDNjQxV3Q3b3hwZWtzR3h5WnVQZWVRSlBkbDlrUnh0SUNvNDc3WXBKNWhnTVg4V2ZuZ2t1UzQ5dWN3akpHY29Xc3ZsSEtyOUh3QTItbzRRM0w2cFdDMFZRbjdmU1E?oc=5"
+        }
+      ]
+    },
     {
       "id": "e1aa6658ebb5",
       "title": "92% da população global será afetada direta ou indiretamente pelo câncer ao menos uma vez na vida, alerta OMS - G1",
       "published": "2026-07-08T17:23:22+00:00",
-      "summary": "92% da população global será afetada direta ou indiretamente pelo câncer ao menos uma vez na vida, alerta OMS&nbsp;&nbsp;G1Casos de câncer no mundo devem quase dobrar até 2050, alerta OMS&nbsp;&nbsp;Folha de S.PauloCasos de câncer devem disparar em 2050, com acentuadas desigualdades regionais&nbsp;&nbsp;Correio BrazilienseCancro vai afetar uma em cada cinco pessoas ao longo da vida&nbsp;&nbsp;RTPAlerta da OMS prevê cenário alarmante para os casos de câncer nas próximas décadas&nbsp;&nbsp;VEJA",
+      "summary": "92% da população global será afetada direta ou indiretamente pelo câncer ao menos uma vez na vida, alerta OMS&nbsp;&nbsp;G1Casos de câncer no mundo devem quase dobrar até 2050, alerta OMS&nbsp;&nbsp;Folha de S.PauloOMS alerta que novos casos de câncer podem quase duplicar até 2050&nbsp;&nbsp;MetrópolesAlerta da OMS prevê cenário alarmante para os casos de câncer nas próximas décadas&nbsp;&nbsp;VEJAOMS prevê que novos casos de câncer devem quase dobrar até 2050&nbsp;&nbsp;Correio Braziliense",
       "sources": [
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPc1pNT0FtQ0pvajFIYzMyYTZoVWN1ejRnREVnUGd5NlJXVXVVbGRrRG16TDVQcXhEdi1VUVVOSU9oclNCYXJFZWwzeXJxd2RHTjltU3JmU2dMN2lmTkV5LWdSdGtKRVNlYnZIaEpYMFBFbGdoRjlFUjBuT0g3X3hVNGNTZGNVVFZnNWFuOHMxelZsYlpybGppZXlwQlJxSGIzX25NdjRINzc1TWhmamVZRjN2eloyaGZQWFVvcW1RLUdhQW93SVY2SFBFdU11bk1uTGfSAeABQVVfeXFMTzNxWkplaUhiV2NDQldHWVE0czl1RGJrT2lMeVd0Ykt6R3BXRHV3aEhPdENBREg1TWI5Nmh2bGR4VU9VMTcxekxrRmNZMjRrckVBX2ZnSlQxWHFuU2lPcHp4R2tRS09UaklSUWlldFNXeHR3X2JmdXNTM1lYZEticXR1YWhiYVRRc1RNVUZvVDI4a0ZDdUVoNXVNdXBnamgyX1p2bEttUnJrbXVnT2EtRm1MUXVKN25SellWTTVuY0FpdHBvTllVQUJQeHM1ZzZLSW1jcU10RHlSX1JVWGg5Y08?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "00da10a6293c",
+      "title": "ARAGUATINS: Secretaria de Saúde se manifesta após vídeo de influenciador sobre suposto caso envolvendo jovem com HIV - Folha do Bico",
+      "published": "2026-07-08T17:15:29+00:00",
+      "summary": "ARAGUATINS: Secretaria de Saúde se manifesta após vídeo de influenciador sobre suposto caso envolvendo jovem com HIV&nbsp;&nbsp;Folha do Bico",
+      "sources": [
+        {
+          "name": "Folha do Bico",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNc2F1NjVtcHVaZlVkRExyR1RnN3lrS1h3dDd4TU1PTmxrcERpMERjeENhdnBFeWI3T0tIVFp1V3JVRzlfZEtrZ1Q2WWpOb0VaYk9lUHE4RzNCQTlfYW9nYzR5YzkwU0dUdm1BZTRVdlNWc1dyWk5LTmlBMXp1VHU2di12UWl1aXVmS1NYV0xlSGNPMmU3cHZKMVlyMzJ0TW10T0VNQWEtSG53R3dCVjh3b3hoRFRKRGRPZV9XMGJGUVJXbTNZOG5kYk1Vb1lQTmRpQWRKWGpnX0tEUlE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "56e107159699",
+      "title": "Médicos usam refrigerante diet e dissolvem massa do estômago de mulher - Metrópoles",
+      "published": "2026-07-08T16:05:00+00:00",
+      "summary": "Médicos usam refrigerante diet e dissolvem massa do estômago de mulher&nbsp;&nbsp;MetrópolesMédicos usam refrigerante diet para dissolver massa no estômago de paciente em caso raro&nbsp;&nbsp;GloboUso de refrigerante diet ajuda a dissolver bezoar gástrico em paciente nos EUA&nbsp;&nbsp;BH 24 HorasMassa gigante no estômago de mulher teria sido causada por remédio estilo Ozempic — e sumiu com refrigerante diet&nbsp;&nbsp;TerraMulher tem massa no estômago dissolvida com refrigerante de cola diet em",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE92UkRrN2o2aTdWeDVhOGNUc2tPVGdjeWFaekhGMzJzVWRpaHMxbzBOR1ZDX191azJkNGU4T0lOYlNFQlFSeWRqUzlGNi1zeTNlMkFtajZHcXdvQXNEWVZDN0syZ2pwTmd2dnB4SUhQekE1OTN1ZGQ3cFUzMzE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d906fbe38525",
+      "title": "Avanço na ciência: Bactérias encontradas em uma laguna do Rio de Janeiro passam a orientar pesquisas sobre Marte após cientistas identificarem características semelhantes às de ambientes extremos, ampliando as chances de compreender como a vida - CPG Click Petróleo e Gás",
+      "published": "2026-07-08T15:30:00+00:00",
+      "summary": "Avanço na ciência: Bactérias encontradas em uma laguna do Rio de Janeiro passam a orientar pesquisas sobre Marte após cientistas identificarem características semelhantes às de ambientes extremos, ampliando as chances de compreender como a vida&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQak1kZzYtTlo0QV9OWGhPQ1NaZmtJemtvamRPN1B3SnFXVzYxUlJJNnQxbWkyaGFlX2ZjTFdmMHlDTjJCNmVvR1hCM185MC0zYUJfMzl6U05zTGtnblZ5QTBBNW9MM2lENHFLTVRWeE9haktXTE50blZsSHhmR3pGTUdDNDRzWjNVTlJKQWNHNVVMX2kyTHlUODR3YnBtanNWdkRfR0ctNlNVek5sWjhyWWlkMk5DNElldWs3MmI4bzhpMklQcVNKQTlUVWQ3a1Y1aFRTYlZZVnlvcFlYTE13TnN1SUl1VlVCbGtOYmp3amJyMzk2b3lhWVh2WjJnQ09NTWpMdzNLNjBiZTVLaXZyRUpLUGdNX2JFT1RCMFE4dWhYU3VQQlBScjRfUGFzakNwQzBQeDgzLUkyRWdqeDY3NUJ3c0hXRkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e865d889b95c",
+      "title": "Sintoma 'constrangedor' pode ser sinal de alerta para câncer colorretal - Extra online",
+      "published": "2026-07-08T15:08:17+00:00",
+      "summary": "Sintoma 'constrangedor' pode ser sinal de alerta para câncer colorretal&nbsp;&nbsp;Extra online",
+      "sources": [
+        {
+          "name": "Extra online",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeWhJNEZ2a19oNTdBWmdxMUFtcE1MbkE2MlA5QzU5bVpZMDZKZmpaWm9KMUpUSG1jdlByQVFaUjFNNkwtU2ZhRDlKNDdGZ1RqdDVzeFpyR25lU0YtWGpMSXdKNXlmc3NzVkFtWmgwaXdTOE85WWJYUnVKZzRNR3Fnbkw3WG5iWmlrVTFXeUtIVW5HTE1Bcnh6R0pHYjZpYm04QUduRkNoVUF6TnN4dzRuRXFPZm1NbVZ2c0Z0OUJR0gHMAUFVX3lxTE5HeXZiUFBLa2J4WXc2WkZSUTlRYUlwUXFmeDlTZzAwRnBibFc5M0ZmNlNlMHk3VW1lMHlLUmlDc1FsYjhVN1FzdVRvQXB2WFItRHBHdHpiSUNLZ20yN3NDc25iSGljU1pYemNaRjNNajRkRWZCcVpRanB5LTAtN1FhWkdkQVdqVDRtYkxhSnUydEw4d2t4S19PYnBWTkNmTUY5VGRSbkJOeFV0V1RzZE9zTlMtWnk5QWJCYzNFckloVU5QZ1gtMTJTWW4wTg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2f001c443fd0",
+      "title": "Pesquisa liderada pelo ICMC rompe paradigma científico de mais de 400 anos sobre sincronização - ICMC - Instituto de Ciências Matemáticas e de Computação",
+      "published": "2026-07-08T15:05:16+00:00",
+      "summary": "Pesquisa liderada pelo ICMC rompe paradigma científico de mais de 400 anos sobre sincronização&nbsp;&nbsp;ICMC - Instituto de Ciências Matemáticas e de Computação",
+      "sources": [
+        {
+          "name": "ICMC - Instituto de Ciências Matemáticas e de Computação",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdEtiS2xydzBhU0k2MnhJb2xKTHowTWt5cWFCaktSV2FZNkNFMF9iaHJCR0VlRUVTQThESEl3cUZWZzFWQXhVMGd4c09jc2d5ZVM5aGxJZGF1eE1hU3QtcGxsaGNqZEFMX2d3UHNkQ1F0djZJUWdOMFJsTE5NSUhPeEc4dGh4SmxYSGFKdnZmbUc3NDdhR3U0RVpVclR3SFFoWkhFY1N2Ti1TZE82RFNtTFAyWVk0NkxMZm5YVWd2M0xlZHROQkxTRjhycXA?oc=5"
         }
       ]
     },
@@ -42,14 +138,26 @@
       ]
     },
     {
-      "id": "1ff86d3e1c92",
-      "title": "Quer dormir melhor? Estudo aponta qual exercício traz mais benefícios ao sono - ICL Notícias",
-      "published": "2026-07-08T13:44:53+00:00",
-      "summary": "Quer dormir melhor? Estudo aponta qual exercício traz mais benefícios ao sono&nbsp;&nbsp;ICL NotíciasDormiu mal? A ciência mostra o que fazer antes de cancelar o treino&nbsp;&nbsp;GP1O que a ciência diz sobre práticas para ajudar a dormir&nbsp;&nbsp;Nexo JornalEstudo revela a prática mais eficaz para melhorar a qualidade do sono&nbsp;&nbsp;Rádio ItatiaiaNem caminhada, nem musculação: ciência revela o melhor exercício para dormir bem&nbsp;&nbsp;Dourados News",
+      "id": "67e0a5814928",
+      "title": "Entre desafios e esperança, nova geração de pesquisadores reafirma o papel da ciência na construção do SUS - Abrasco – Associação Brasileira de Saúde Coletiva",
+      "published": "2026-07-08T14:15:59+00:00",
+      "summary": "Entre desafios e esperança, nova geração de pesquisadores reafirma o papel da ciência na construção do SUS&nbsp;&nbsp;Abrasco – Associação Brasileira de Saúde Coletiva",
       "sources": [
         {
-          "name": "ICL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5YUx5QVNFT3pyaGdwSS1PcUxhU2Jyby1BZEpHRDJQWXFzV0tXaDBST0hlMWlqNDNvSWhUNDJVMnRVd0Y0R0NmeG9XZzFUa29kaFZDVVJqSEx3NU1BM0h1X1ZndDVoMnFMRWZnLVptQU8tUXBPM1VHNw?oc=5"
+          "name": "Abrasco – Associação Brasileira de Saúde Coletiva",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZnUweUMzV1hSaEc5VDhkMmJEV2pDbjI0dVpTblZPYUZJc011c0dhRVQyNm50OUpYWFpqdDVYTzJHdWdRdktwM0JyYjFleTFYc3hrYXhkUGVSQ1U1NFB4YnAtWEV6WlpCQ25xMHl2WVlfbHlHcVdlRXJmNGphNnprdm1sNkVtMHFMN3hGVjBXeGhaT3loNlNtR1BtY3lBdTFWYWxNTkVrVTB0NUhvS21naGg2SDc2cEpRZl9OWkt1WXhJMlFYdXZLUg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "22519bdc7ac9",
+      "title": "Cerca viva histórica o tem mais de 300 anos, passa dos 13 metros de altura, mede 155 metros de comprimento e ganhou registro no Guinness - CPG Click Petróleo e Gás",
+      "published": "2026-07-08T13:31:00+00:00",
+      "summary": "Cerca viva histórica o tem mais de 300 anos, passa dos 13 metros de altura, mede 155 metros de comprimento e ganhou registro no Guinness&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPWDhTVTJ5Mmc5d1J2ejNvVEZmMGZvSHJsZXJZd1ZpZjFSMUNEbzFLcWNqZkhfX3dKZS1qZTJPaVVGaTU5eVVabG5pVlFLR1R2MTl1TEhxTFZNaHZXNzNkWmlxclFwUzVBaTBxMHdNWXZGa2VyblY5OU04LWxHNEZPUFREWmRvRlhFcGlvQV9rOUlhdDBRdURJVWgyaVlXN2liS0xBUnZ1VHJ0bXE4dXQtcTJXYmtTcXFCaXhNbFVSOHlfcjVuM1Awc3NoLWFrLXo5ckFFd1FYUDBkOFVoZ3pBc0hucFhMMjg2QVFBcjVybzUtcjRuWUcydTAxa0J2R2c4WV90U1Vn?oc=5"
         }
       ]
     },
@@ -93,23 +201,11 @@
       "id": "fbdc9abb611f",
       "title": "Relatos de famosas ampliam debate sobre lipedema; entenda sintomas e cuidados no inverno - O GLOBO",
       "published": "2026-07-08T07:01:22+00:00",
-      "summary": "Relatos de famosas ampliam debate sobre lipedema; entenda sintomas e cuidados no inverno&nbsp;&nbsp;O GLOBOLipedema: cortar glúten e lactose sem necessidade não trata a doença&nbsp;&nbsp;Assine AbrilLipedema provoca dor e inchaço&nbsp;&nbsp;Agora RNLipedema Challenge, em Copacabana, fecha a edição 2026 da campanha Junho Roxo&nbsp;&nbsp;aibnews.com.brEvento gratuito em Paulínia orienta população sobre lipedema e promove acolhimento às pacientes&nbsp;&nbsp;Todo Dia",
+      "summary": "Relatos de famosas ampliam debate sobre lipedema; entenda sintomas e cuidados no inverno&nbsp;&nbsp;O GLOBOLipedema provoca dor e inchaço&nbsp;&nbsp;Agora RNLipedema: cortar glúten e lactose sem necessidade não trata a doença&nbsp;&nbsp;Assine AbrilLipedema Challenge, em Copacabana, fecha a edição 2026 da campanha Junho Roxo&nbsp;&nbsp;aibnews.com.brEvento gratuito em Paulínia orienta população sobre lipedema e promove acolhimento às pacientes&nbsp;&nbsp;Todo Dia",
       "sources": [
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeGh0NWY1UGxDR0huQWdfMVJJTnRPS2F5UDdtZHhfWHNpSUtJRlUwQ3QzZmdUaVJWOGtsenR3YmxKdUw5Y1ZqOUwydU44QUk3TU1vWFJZQTJ3T1BkRFFhNDlkMklwLXhIVndiM3VRZTZ2YjZMVVBVVVQtSEc0Mm5QRUVxTGUzX1otN09wd0oteVdkMWtwUHFiOGFNUXFxUVZURWIxSFlKT0ZyRUxPbjZscEpZYkoyTUtPV0ZqN0d5VHNDcmV5WEoxRkt4Q2g4QzNiV1QyeTREcmXSAecBQVVfeXFMTVV1dk1rUW80NW9qUlpuTmg5dnZKRmZKeG9SZ2xLZC0weTVGNUEtQ3JEN2s5TS1MaXMtR1g1dVc4ZXhxM1ZoOGF5S3VpMHVubEg2ZHNkU3ZMS0VONV9wbzVmN3JDejRxWWhoa0hJSlNQeTFpM215V2U5SkNxVHAyN3NDa29OTVg2Q2hBZ0t2QmczNVlrZGJVcVFjbWthYzFJTFptZVhMd3BNeUo5LTVhdlFpenZhTW5vNnFzb3RjV25BN1luNFF3M3ZrTnhDNXFaM2NBUDJrVUhiSHpxTGNiQ3NrTWRhczFN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4d733195bc4e",
-      "title": "Dia da Ciência: CF/88 foi a primeira a dedicar capítulo ao tema - Migalhas",
-      "published": "2026-07-08T03:00:00+00:00",
-      "summary": "Dia da Ciência: CF/88 foi a primeira a dedicar capítulo ao tema&nbsp;&nbsp;Migalhas",
-      "sources": [
-        {
-          "name": "Migalhas",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbmkxdldrM2tNR1lGUlhvUjNZUEpwMHRkR3AyU1lxUzltbDNQRnE2b3FSMjZLMklZbEhpdm1XbHBXdldoTXo1T2thOGp4U3ZBOS1zNUtoa0pmS3dpRGo1X3Jkd255bDZkcHdDR3B4bWU2aUttNHJiZnJxR3ZzVU93MmdiTUdSQVBTYzFYUUMwb05reHFJZVFIeWI3NWMySFppX0hhXzcwMXE?oc=5"
         }
       ]
     },
@@ -138,6 +234,18 @@
       ]
     },
     {
+      "id": "8151fbfc7eb4",
+      "title": "Campinas vai usar mosquitos com bactéria que bloqueia transmissão da dengue no combate à doença; entenda - G1",
+      "published": "2026-07-07T21:09:20+00:00",
+      "summary": "Campinas vai usar mosquitos com bactéria que bloqueia transmissão da dengue no combate à doença; entenda&nbsp;&nbsp;G1Método Wolbachia: Campinas terá nova estratégia com mosquitos para combater arboviroses&nbsp;&nbsp;Prefeitura de CampinasMosquito é a arma de Natal contra a dengue&nbsp;&nbsp;Tribuna do NorteCCZ orienta população sobre a 2ª etapa do Método Wolbachia&nbsp;&nbsp;foz.pr.gov.brAgentes promovem ação em feiras para conscientizar população sobre o método Wolbachia no combate à dengue&nb",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPYmVwTG1PQnVQMDdiU2pqR2dDTzFoekNySEZHcFQyYkVJb3ctR1RyTHF5YWg5RVBNYmh3VVFxeGpxTXZYUDFINkxQajgtQzJUQW16QkxsbnNkYlFDdXF4aUxVa19fNTZRUWVlYXJNVVBGV1FlcFViYlFZblRPZlo4RmEtWmFxR0tvcEVwQk1pY3JWVTBDWnF6QVRJd05NS1hUQ2x5VXJNS0dnZkRDTnJQNkpiZnF4WTFYTmF5eDlRTlpxS1dvejdJY1RUdUpXWkpDMGdVcG5sWU5kaFpZVHcwa0FvNlJnVk5mWXNvMmQ1R1BDNDJHMXoyZHQwOHTSAYsCQVVfeXFMTXc1ekpXWExMVUFHdWIwX0cyZWU3a05USGZiNlR5U09kLWFvRkFrak1Kc0pzeGRzQjg4Q0FSZWVpaUZLMlNxQnA1REk0S3ZRRF9LaDVtWEpWa1FaSnIxMzNrbkhDYlB4bjZZTEI4c0hBWGNmV3V0TkFQN0RvQ0J4enc3dWRHQlh2Sy0xR0o2MTdmbXQwNG9sV04wZlJQbGd4R3AxWFI3Mno3ZnUtMTBMSXo1bHFwWnJlaFk5cVJKejJ2c2FQcDUzbzU1N3h2MHJYSHo5Q3NwQ2lTRXlWN3dQV1JKN1ZWR2xralRKUTQ0b3BoX0hISjUzRl83TmpiQngxN3pqNkkxaXhUbGpB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "2ce2e757954d",
       "title": "Oito sintomas podem surgir até um mês antes de um ataque cardíaco; veja quais são - ICL Notícias",
       "published": "2026-07-07T19:54:35+00:00",
@@ -162,26 +270,14 @@
       ]
     },
     {
-      "id": "a7ec1874afa4",
-      "title": "A vacina contra tuberculose pode reduzir o risco de Alzheimer em idosos, mostra novo estudo - O GLOBO",
-      "published": "2026-07-07T15:09:07+00:00",
-      "summary": "A vacina contra tuberculose pode reduzir o risco de Alzheimer em idosos, mostra novo estudo&nbsp;&nbsp;O GLOBO",
+      "id": "dd135464d965",
+      "title": "Como uma nova onda de imunoterapia está eliminando cânceres - BBC",
+      "published": "2026-07-07T15:17:54+00:00",
+      "summary": "Como uma nova onda de imunoterapia está eliminando cânceres&nbsp;&nbsp;BBC",
       "sources": [
         {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQloySkNPRWZ4bTRkNWxINWVsRkZDc2MwT0UydGhUMG5BV1Z1d3VCTE5zR3NFVXpkVUNaWklrQmNyLVlWd0NLM29pVTNITFpUbWVPdHlBRVpjaUh2djhzbUFsaUdCeEVJMEhPQ0d6bVZpMHIzdnhXbW9XWGF2Yzg2ajR4M1FUVW56VnRwajl6d3paVHhIUEZDdWc2WWR4dnRhUG9KUmwwRkJxMEhzbEZKVGM2eDZ5ZmEwX1JyRTNfM2NocEtNOFRTQU84Z0VCWjR6U0JWa0NfTWtPWm1RYnAw0gHuAUFVX3lxTE9ZNGZPY1FaRV9XZUxVX05pc2hLRHhOUnN2UUpFc0ZfTTM2bjUtSU1qYUZjN3BZcGJzZVlHOHBfRXFGeDdvMUQzWEJlRUw5NU42ZG9TVThTNWJHYjhWM01hZ0h4VnZFazFuQjFEVWx5eHBDcDhGVEFieFhIWmdxOUlORzQtUlBnR2s5R2Z0OUxmVHMtbm5pMmw4UnhwOVdBNmpzMWl3WGFrdlYwanVTQUVlQzZpM1g4cTJXZ0NmQ0hMOGhWYzJ3ZUFTbUMzYWNQN0pwZE9MX3FaWE1ETHotMjloOXhOZlFfTkttQnI3Wmc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f0c4b00670bb",
-      "title": "Grávidas têm quase o dobro do risco de sofrer violência psicológica, revela estudo - Jornal Correio",
-      "published": "2026-07-07T14:53:42+00:00",
-      "summary": "Grávidas têm quase o dobro do risco de sofrer violência psicológica, revela estudo&nbsp;&nbsp;Jornal Correio",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWEtEX09NV2JMYTczOVNVSGtGc05Udm9vd0NyN1l1dUNHUmlLNElSY1l6R0sxZUMyX0kzejRGSjRvY19ETmltbTVfczFJMWU2c09ERm11ZDNEb3pRRHJmTkJIaXZ6VlJDU3BwQkFGdUdQVEtLYzU1azlqbFBON2lMT1lFNTlTSVJnWFJ0eUs1ZVV1akd3dXkyYmpGSm53d2tyTy1vc2d4R3VWZ3J2UzN6bEVmT2V3NXFxaEZkTEhSLXlvSHJWN1E?oc=5"
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KQ2hVeDNvUFBuaWdGaWRrZm9veV94RVg3TUNyLUhSV0Jkck11YzNWd3I1d0ZTb19vSFpTbjhSUHBWZ1NDc2pJdllESlBZclhxVHhaSTFka0NqRTNrTFZCZGZn0gFnQVVfeXFMUC10SlFzNnpTcV9aY0tiRUhYY1lsaXFkV19oMGFldTNEdzFNYUNoSzFCVnk0aWZxSFE5ZVJTblczMEpRbXpNRmNWUjF5SVIxcG5vYm9UMzJnUVJlNC12Ti1RaTRSRmNEWQ?oc=5"
         }
       ]
     },
@@ -222,26 +318,14 @@
       ]
     },
     {
-      "id": "b0c567fe36bb",
-      "title": "Pacientes percorrem, em média, 120 km para fazer radioterapia no Brasil - UOL",
-      "published": "2026-07-07T13:22:05+00:00",
-      "summary": "Pacientes percorrem, em média, 120 km para fazer radioterapia no Brasil&nbsp;&nbsp;UOLDesigualdade racial e regional marca acesso à radioterapia no país&nbsp;&nbsp;Folha de S.PauloPacientes do Nordeste percorrem 162 km para fazer radioterapia&nbsp;&nbsp;Jornal CorreioO câncer não espera: radiofármacos devem ser prioridade na política de saúde brasileira&nbsp;&nbsp;Congresso em FocoCongresso Brasileiro de Radioterapia discutirá estudos que redefinem tratamentos contra o câncer&nbsp;&nbsp;Paranash",
+      "id": "0993977e852f",
+      "title": "Estudo destaca frutas brasileiras com potencial contra doenças do envelhecimento - Exame",
+      "published": "2026-07-07T12:05:24+00:00",
+      "summary": "Estudo destaca frutas brasileiras com potencial contra doenças do envelhecimento&nbsp;&nbsp;Exame",
       "sources": [
         {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOY295SUl6aGlsUEVlOXVDbGNFYWhOMHRoRHNSUFBYYTM2QnJ4eERlZjFyX1FmSV9CNUlLaE5NQ3FvcjNybXhGa1cwYTdnbkZJQ3F0M3lLbHd1WEVyOGZNRFVqRUNLSHo3QjV4T2RJQ0kzSzBYZEliS3c0WWk1b3ZwVEEwRmE4Um1MZXVJZ0JGWjBxUzZHTkZhMmZveTBVZVJvdklVc1Y1THhOVFZzMGw0azc1Z0pORzFFYjdtQUFMR0xWdTdQZndVSHFYM0xEUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6cd7ff8f8a64",
-      "title": "Mãe e filha morrem por chikungunya em um intervalo de 34 dias, em Alagoas - TNH1",
-      "published": "2026-07-07T11:41:00+00:00",
-      "summary": "Mãe e filha morrem por chikungunya em um intervalo de 34 dias, em Alagoas&nbsp;&nbsp;TNH1S. Miguel dos Campos: família cobra ações contra Aedes Aegypti após mortes de mãe e filha&nbsp;&nbsp;G1Mãe e filha morrem de chikungunya em intervalo de um mês em Alagoas&nbsp;&nbsp;TerraMãe e filha morrem vítimas de complicações da chikungunya em Alagoas&nbsp;&nbsp;GazetaWebExclusivo: relatório médico e declaração de óbito confirmam causa da morte de técnica de enfermagem Crislayne Lins&nbsp;&nbsp;AlagoasWe",
-      "sources": [
-        {
-          "name": "TNH1",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUVB1QW1lQ1BIZzVXQVN4OWFvaEw0dkt4S0tDNXBZazJnYlhjcXpITF94ZUM5M2hhZkJXanV5a09zTkFDeUh5WkZZQmhiSEZ5TTV0VGE2S29pbWpDZzB6bkVVRVJZMm5zd1RQU0RISEdkSVRIME50NmdLSVJUYkxvSlR1MjJ2ejdFRW9YTGhoejYxemhOSUhKQnZGQk5SYXd0Si02cDVUdWxYank30gGnAUFVX3lxTE50alZpRHpmeWRyZE44US1RMXlkWV9HcURncXFLRS1GVmhQbXd3SWRGWFZKU2wtOEV4dmhEN3hYZ2JBZFQ1S29PR2VYOTdZb2lqUUc4QUxELXBKTU91VEFUdTBsRnBqTTk3ZEVBVGNBcExKWDRVaVd4c3l3QTMtNWxmUm9Zek82XzVSbTEwUjR4YXhpRXo3cjNXZnlrNkJpaUhlQmhBREFR?oc=5"
+          "name": "Exame",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ1pPdE1rMXNMYnBXQUljQnkyQnhFbmNEdGw4MTJJUi0tM3liNFVQT1h6X1g4VFR2VG9tMFN2VkpHYXlHY01JVUJ4S1kza3piblVVUmt5M0dPM19zT3Q5X3gwNGFpTURjNnhEcGF6eS12UWdOQkppQnpRYl9xNEhrQzhpeHRnNjJlcFZudlVBWV9udUZfbkFNV1FvNTEzRkNmSEFNNnFKVTFqdVk?oc=5"
         }
       ]
     },
@@ -270,22 +354,10 @@
       ]
     },
     {
-      "id": "2cf58fcae1c9",
-      "title": "Ondas de choque e balão: hospital brasileiro testa com sucesso novo tratamento para desobstruir placas de gordura nos vasos - O GLOBO",
-      "published": "2026-07-07T07:30:15+00:00",
-      "summary": "Ondas de choque e balão: hospital brasileiro testa com sucesso novo tratamento para desobstruir placas de gordura nos vasos&nbsp;&nbsp;O GLOBO",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPUW1rZWlwNEt0Ri1RX0RjaENPM2x5NGxmOE1RdE1HQ2RFMEFLTmJTclRKdU1oekhLSjhfbTRGN0JYMDV2ZGE2el9KaUlSN21SRHNWcU5oVmlMbWdUeEMtUlJnTUxKMmNNZXdIeTlRUWNYOE5Pa0JxdnZ3VTVVQTlhdk9xNW5xdG1qMjVveG5wbUxnSTBHTGFOMWVMdzlQYUpOd0gyNHUtLXN5SWUzczFULU9sNlVXNUxRQktCdVRVUFJrdnhpQ3lBWEE0b1FoMnl1anl5RVJPWWJ4aGlQVnlXTVIteE9MVkNEblkwaEd3dUxNMC1JTUlNbVRRX0NSNGI2ZGo0VUNiR3BKQdIBmAJBVV95cUxNaTBZOEVBWjZKRERxY1M5bE5SU243MWtDc3lpeTVGRXJvYkwxYkp1c3UtYWh6U1VPVGpaVlo2SHRhN0NySVJoZk5sVGdaWVpLWXFwWmx4bVF2ODlVWE9XaDZtNV9ZNlo4ekZWblV6aktGRV92VW9WUzFFeVUyVDN6ajdLS1dNcjFMVEJNZmxRTzYxQlRpZXNOcG1CanhjOVVCOFZ3Um9mSnVEaC0wRzhObWxQZi11a21IeGI4LXFZOTQ1WVJyNUljLVR0d0ZkRHQ3WEdhX09MRG9uVVR3ZjQ1T0NqcnJocDFaWmZCTFVfUW1BWk12Nk9PTUR0U0d6eGptVENMbmFmaHBWaW92ZEpGT05PUnluX3BZ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b3a3705c7355",
       "title": "Por que perdemos energia depois dos 50? A ciência começa a responder - Globo",
       "published": "2026-07-07T07:03:08+00:00",
-      "summary": "Por que perdemos energia depois dos 50? A ciência começa a responder&nbsp;&nbsp;GloboCientistas identificam mecanismo que pode impedir envelhecimento das células do corpo&nbsp;&nbsp;Época NegóciosJuventude eterna? Pesquisa da Alemanha revela molécula que pode proteger as células&nbsp;&nbsp;Revista Fórum",
+      "summary": "Por que perdemos energia depois dos 50? A ciência começa a responder&nbsp;&nbsp;GloboCientistas identificam mecanismo que pode impedir envelhecimento das células do corpo&nbsp;&nbsp;Época NegóciosComo o nutriente presente no ovo pode ajudar a entender energia das células e envelhecimento do corpo&nbsp;&nbsp;Diário do LitoralJuventude eterna? Pesquisa da Alemanha revela molécula que pode proteger as células&nbsp;&nbsp;Revista Fórum",
       "sources": [
         {
           "name": "Globo",
@@ -309,47 +381,11 @@
       "id": "ac65387cd93b",
       "title": "Como a tadalafila virou febre nas redes sociais e por que médicos fazem um alerta - G1",
       "published": "2026-07-07T07:00:55+00:00",
-      "summary": "Como a tadalafila virou febre nas redes sociais e por que médicos fazem um alerta&nbsp;&nbsp;G1Os riscos de tomar tadalafila para melhorar o desempenho&nbsp;&nbsp;Folha de S.PauloUso indiscriminado de tadalafila no Brasil preocupa especialistas&nbsp;&nbsp;TerraTadalafila na academia? Entenda os riscos do medicamento&nbsp;&nbsp;Aqui NotíciasTadalafila vira febre entre jovens e médicos alertam para riscos do uso sem receita e como pré-treino nas academias&nbsp;&nbsp;Diário do Litoral",
+      "summary": "Como a tadalafila virou febre nas redes sociais e por que médicos fazem um alerta&nbsp;&nbsp;G1Uso de tadalafila como 'pré-treino' expõe frequentadores de academias a riscos&nbsp;&nbsp;Folha de S.PauloUso indiscriminado de tadalafila no Brasil preocupa especialistas&nbsp;&nbsp;TerraTadalafila na academia? Entenda os riscos do medicamento&nbsp;&nbsp;Aqui NotíciasTadalafila vira febre entre jovens e médicos alertam para riscos do uso sem receita e como pré-treino nas academias&nbsp;&nbsp;Diário do",
       "sources": [
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxON2VfTHMtNG14SzhSQnEtOTBHWFF0WFVxQ05YMUc2a3c0NW81bEtvQXFWbVhkX21uNURTRWp3Z3ZxV2RvSlRqXzVEMk1USGdNUVcteDk3cUhqYTRwcDV3SXVpdC1KMXdFZ3dON1diRlExZmNhWFRxQUZOQnJNSHhVNk8zS0FSTGRxdUs0V3J6LUpSREVkR0RLNEdXeWlJUEJsSkRFTWkzQ25TNUpVUUNrR2t6Ulc0UWFESjB2M0N3SFM4OEtuUTB4OG8wTUVsQdIB3AFBVV95cUxOUGdOTGpZRG1sdkw5MnNWMXJBZmhidi05Qnc4LVlVMUVtTU5iV2wzT1VBX2h6bUMta0dXTU80MFVrYlZaNTdrenRRZWg1eTR6UUxiU2pEVUNZazg3eU84R2dnaGxDQWUtOWRYMW5sYW9DSncyWjFraDdUU0VJZnF4ekRXTWh3akxFd1BhTU42OXpwOFJDQnVJTmR5M1NfaENlTXdMLTMxVW44T1dCLXpLeWdHbFd2Q3JCVTlWeFBhZWdoUzh0UlVoUDRwLUQ5NGlpdmd5ZXdTckN2OUxn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "980b0cba7573",
-      "title": "Os perigos ocultos dos peptídeos e por que as mulheres correm maior risco - Folha de S.Paulo",
-      "published": "2026-07-07T02:00:00+00:00",
-      "summary": "Os perigos ocultos dos peptídeos e por que as mulheres correm maior risco&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSHVuUFF5aXFlQ1VCZnhfNnlVLTR1WUFfMHVBZzMxMDNoY2M5LTNYSVJ2VkJwRU5JSy11UDYzZFRuLVlPaFh0ckp5NTVLbU41dVhVYnNTelp4SFlwWURBNkpvcGl3OV9RckE4LUJGV3lRNEdNX1ByWWI5S1BoV1E5M2JOUXlvMU5NSzhzYjJlRExabTZwRThaR0RQVnpwSGY0emI0SndKU2UxRTFBam02elBBV3BXQUpJT0tRVkZ0RDBkU3h0Yl9z?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "369e8a81e943",
-      "title": "A partir desta segunda (6), municípios recebem mais doses da nova vacina contra pneumonia e meningite - Portal do Estado do Rio Grande do Sul",
-      "published": "2026-07-06T20:42:00+00:00",
-      "summary": "A partir desta segunda (6), municípios recebem mais doses da nova vacina contra pneumonia e meningite&nbsp;&nbsp;Portal do Estado do Rio Grande do SulBarueri libera vacina Pneumo 20 para crianças em todas as UBSs&nbsp;&nbsp;TerraNova vacina no SUS reforça combate à pneumonia e à meningite infantil&nbsp;&nbsp;Partido dos TrabalhadoresVacina Pneumo 20 passa a integrar calendário infantil em Ponta Grossa&nbsp;&nbsp;G1São Leopoldo inicia distribuição da vacina Pneumo 20 a partir desta terça-feira - ",
-      "sources": [
-        {
-          "name": "Portal do Estado do Rio Grande do Sul",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPODZZTDZVVEl2X2FFbVpmM0h1MEk4RHhQVmRsU2VOZFBGZ0hZQWF4cE84X3RoOUNKVDM1cEY4VTVUN0RTODV1cnFTTXBja01xV0tOYUFkT3lTc1QzZzROTXV5VkJlYV9YQTRaSFV1a2hVTHdzMmRsdWZpWUNyUnd0M2lIMHFDN09GeThhemYwTTFWcFpYZGlBWjBtUzRrbTA5UXluWkxoREwyZk0zWkVpWWxuM1lESnBpZGp5Wk1Kdjk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9921a5a5bb5c",
-      "title": "Por que Curitiba se tornou a capital brasileira dos acidentes e estudos com a aranha-marrom - VEJA",
-      "published": "2026-07-06T19:33:05+00:00",
-      "summary": "Por que Curitiba se tornou a capital brasileira dos acidentes e estudos com a aranha-marrom&nbsp;&nbsp;VEJA",
-      "sources": [
-        {
-          "name": "VEJA",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT1JBbjAxUWRYdTYxM2NEa01YbXJDOThRZ3Z3Q0dHOU1KSmVwekd4MFRhc2xNMUlwU2ZVb05aUHVUUGd6VTNpVkRXeXNDR0t5SVk3WGd6d0JEeTlFMzZfenUydzFsWk9lV0dkSi1NbUxKM1ZDZzM2aTBadUN1MDQ2TWNTeDFUOFFmZl9wNVRlY2xqMGctY3ZxTTl2b01wV2pXNFFkc21DUHVPQ0hjMjFfWERZOER1di1jWWl0b2VtVjY2dw?oc=5"
         }
       ]
     }
