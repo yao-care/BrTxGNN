@@ -1,19 +1,55 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-07-09T15:13:54.459068+00:00",
-  "total_fetched": 87,
-  "unique_count": 85,
-  "health_related_count": 28,
+  "fetched_at": "2026-07-09T19:48:57.222838+00:00",
+  "total_fetched": 88,
+  "unique_count": 87,
+  "health_related_count": 35,
   "news": [
     {
-      "id": "7998c467e5b2",
-      "title": "Maçã cozida vira trend nas redes como melhor opção para a saúde que a fruta crua. Médico esclarece se é mito ou verdade - O GLOBO",
-      "published": "2026-07-09T13:45:31+00:00",
-      "summary": "Maçã cozida vira trend nas redes como melhor opção para a saúde que a fruta crua. Médico esclarece se é mito ou verdade&nbsp;&nbsp;O GLOBO",
+      "id": "b9f1cc98e024",
+      "title": "A 5.000 metros de profundidade, onde não há luz solar, pesquisadores acharam DNA antigo preservado na lama do Atlântico Sul e descobriram sinais de organismos que não batiam com os registros conhecidos - CPG Click Petróleo e Gás",
+      "published": "2026-07-09T18:27:00+00:00",
+      "summary": "A 5.000 metros de profundidade, onde não há luz solar, pesquisadores acharam DNA antigo preservado na lama do Atlântico Sul e descobriram sinais de organismos que não batiam com os registros conhecidos&nbsp;&nbsp;CPG Click Petróleo e Gás",
       "sources": [
         {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNUVJuYlRyOGRGeGdoRlBPazFWNlZWeE9RN2N2N1Y1eGM5dnUxcWp3MW51cGxjZjAxZVhLZkFtNzlhTmk4UkttaGpwU29KNGJjYlZlSlY4bzBMTnZEZ3ZGbVBBSW1mX0NSRWg4Ylo1NjUzVmE1X3JTRDJFR2ozRnVBam1Zd1NVaTBqTFNBMkg3VmJzRlo1dV9xcTBKWGxMdDZOdS1vS2YwclVMajNHT1dDVks1NzhYYlkwR2R5NHk5SWVLQzhqY1gyaXlQdy01ajJ0WElEVk5Ob2hURWYxUU9VYUZFanQ2eTVuclNVdGlBdlRSUVcxTjBTQ0ZlSlpQano4dlBwRE1kMlo3cUNkRlI5cXRR0gGgAkFVX3lxTE1DMWduUllLNndTSFNqYl91b21WWUdma3pVWEpMZXVJYkstazk2cU9VczJwRlBaR3kxOHFFQ3FFYWFrWVEwNm5aaW9kNk5Da2FXd2dqVTg2UUJXRnBXemt3M3RNdXNaQzBOdUdKYUV1aVpqZ0JseV9nTEg0dDMwSTVtd2R3RjR0XzViVGJPMnpTTjdqeGNVLUR3QUh5WDlwS0pCX3djRVF2YlhhbHJaQTZZcUo3dXZLbl9ZQXQtREVkM1gwTnpYM3lqRHNfUEV3c2F2U0dmeW9uYTJWLXpMUlU2RUNXYWVwakItSzF3QTBoVG9RZTVDWlVwenBNbkQtcDRjdEIwR0FJN0VsM2o2RzRfMl9GaWhfT3pkWV9HRWZrdw?oc=5"
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQVi1DQjVjVHlrQ3VsVzExZ0VNak1zclVVdmMtUmZrUktwUzBUaEk2dmh0dW5aaTlhOWlBRXdla3loYk1UekFrbllxc0lNQllUWlVwUVlCRUt4RDJfR2tBUFEtVDR5cW9WOGdaLWh3RVc0R3lSc01ibi1IVngyd2U2eFFpQkF3WFhLMDJwV3pvRm5ocnpQakhHRXNycVNpdGRnWkp1YWg1MXh6RGxhV0NPOVd4bXlqRmlZUnRraUdPV2pTUGlQLVFSMXNMOXcyQlBoUkZBbU1UZXhZOWJyYTlGcmNnejNEcDFhSHNJcnlMbVpMaXNBLTRSM2t4U2xjOGRvbVFualZkWnpsem9BVVd3RU5TLTdDcENCdjI0UWIyQlJURnBYVXJ2NXc4d1B2WWFhcGRMR2pmRkRvWVBfcS1CZ3M1MEh4eWM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fcba7b91b600",
+      "title": "Médico neurologista Gautama Antulio Brandão morre no DF - Metrópoles",
+      "published": "2026-07-09T18:16:00+00:00",
+      "summary": "Médico neurologista Gautama Antulio Brandão morre no DF&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdXQybDJrRk9kTElNVEpTbWFpbjVnVDhNbzFvNFpfNWh5UkM0RUx1cjljTDNUYXA1US01WmpmdEhTdzFxd3lDMGQwejA5R0ZRLVFQcmtlSVlZMm5fQW0yY0NENVlCbkxUMzhwRGFqNWxSOWs3Wk5ja05GbmhVQ25YQkVsX2tFaTJUT2J0Tm9yWmZjVmxXcGZnNkZKSkFocGF0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cd616e79f490",
+      "title": "Acostumado às altas temperaturas, Brasil menospreza riscos de ondas de calor, que têm aumentado - Terra",
+      "published": "2026-07-09T16:01:00+00:00",
+      "summary": "Acostumado às altas temperaturas, Brasil menospreza riscos de ondas de calor, que têm aumentado&nbsp;&nbsp;Terra",
+      "sources": [
+        {
+          "name": "Terra",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRTlBZ2tuSXZ1YTctVFVoT0s5c3NsZVlEM2xZeTVtdk9BU0NUOG9ZTFNzY2RSMGtUMzAzbFRZcTFndEFDQ0lYcDVzQnpodi1ScWtaNHdrRVlqeHJlcEhrZzFjcktzTkRQQTNCWEtMQXhKMkIyZUotcmZ1b2otVEVBOU5iZEZLZFRxOFRKUWoyS2M5WnZwNXNfOF9MQU1RVndpRHV4U3A3cm9JY21NZ3ZMYmhlamN6TjlSS1hjR2lwdG1SajkzZmN2aHgtb2hJY2xEVHN1R3lFdVFLLW1nSm8waUtsR2otd0sySEFXNGZKajBtQVFmVXo3OFZ0UWxIUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "851bc8eaa945",
+      "title": "Câncer: casos dobrarão até 2050 e OMS alerta que a maioria das pessoas será afetada de alguma forma - Estadão",
+      "published": "2026-07-09T13:55:21+00:00",
+      "summary": "Câncer: casos dobrarão até 2050 e OMS alerta que a maioria das pessoas será afetada de alguma forma&nbsp;&nbsp;EstadãoOMS: 92% da população global será impactada pelo câncer; entenda&nbsp;&nbsp;O GLOBO92% da população mundial será afetada pelo câncer, diz OMS&nbsp;&nbsp;SBT NewsMédico da OMS afirma que 40% dos casos de câncer podem ser prevenidos&nbsp;&nbsp;UOL NotíciasAlerta da OMS prevê cenário alarmante para os casos de câncer nas próximas décadas&nbsp;&nbsp;VEJA",
+      "sources": [
+        {
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZFkzYlVKeHhDYUVCYVZ3Vk5wWTRpVlE2OHliSlhNTmpLMURFNEQtaVVpc3hqanpEaGtBbkkxck9KY19fQ3JhajZKREw2UlVfSi1lWUJsUDRraUdRSUxsazFTNTdCVElyaVVZN0FDTndFenZhZ1NUYlZRSjJjektiM0RIZDlCVElCWVE2V3ppUnM1ZmRXVzlOeC1CSEdOcjFST0ZKM0MweUJJTDlwdmZSSnVsTFdraXkyOHA4S003YTlyWURTbDhnbTE2SFRaaHN4T281STZ5dHg3SlQ1YzVzVHd6OWV1QdIB6wFBVV95cUxQMXNRMlJYT1ZENG9fRHVsNm5MNld1WERZQ21qRURCdmZPUzA1QnhQNUNmY0VMb1R6cWFwaGc0MnIyUHhNUkdXWkxwYlA5ZTkwLXByVmxwR3hyM0RCdFdWYTFQelRKRFROek8wZmpMRHFBU1JOYnd3NjViOUNZMHRpZW1uVVh1ZGM5WnBTR3NCV3VYS09qR20tU1ZkN01CUkM5N1ZNaFEwdVVxYXp5S3FhQkE4TEhXd0wzY2cwMTZmVVYtdUYzSkdwbldMd2pVSFEtc09qRWt6SE85SmdzVk85cFBJbmtDOUswU2VJ?oc=5"
         }
       ]
     },
@@ -54,14 +90,14 @@
       ]
     },
     {
-      "id": "464a6ceb6320",
-      "title": "OMS: 92% da população global será impactada pelo câncer; entenda - O GLOBO",
-      "published": "2026-07-09T07:30:12+00:00",
-      "summary": "OMS: 92% da população global será impactada pelo câncer; entenda&nbsp;&nbsp;O GLOBOMédico da OMS afirma que 40% dos casos de câncer podem ser prevenidos&nbsp;&nbsp;UOL NotíciasCâncer: casos dobrarão até 2050 e OMS alerta que a maioria das pessoas será afetada de alguma forma&nbsp;&nbsp;Estadão92% da população mundial será afetada pelo câncer, diz OMS&nbsp;&nbsp;SBT NewsAlerta da OMS prevê cenário alarmante para os casos de câncer nas próximas décadas&nbsp;&nbsp;VEJA",
+      "id": "7998c467e5b2",
+      "title": "Maçã cozida vira trend nas redes como melhor opção para a saúde que a fruta crua. Médico esclarece se é mito ou verdade - O GLOBO",
+      "published": "2026-07-09T07:30:34+00:00",
+      "summary": "Maçã cozida vira trend nas redes como melhor opção para a saúde que a fruta crua. Médico esclarece se é mito ou verdade&nbsp;&nbsp;O GLOBO",
       "sources": [
         {
           "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZTdxUmU5SWZheXNPRXBkcWJpNWRSWXBHeTQyN0V0eWZNSGo0V000R0xfMm11Mmd5c196SW44QkZMQ3k5TkYtRGFGU2EzZVVybHZSRUhrVjdTN2dpU2hhTjRNVEtUOUI4VTZJMjJRa3hZV3Y4cDhYVERJc2FENlU5WExOX0dXOWU2VWJpS3BMLUd2amJUcVplamlKcWREcW9vck1fYU91WFl1TVlDNnZ3akd6WG5SM05mTjVJa2xfeDhlUdIB0AFBVV95cUxNbmpBelBGQV9xdEJ4eHBEbm12TUxYa1JFaUxuVXJsV2VSLUwzM2dIbTQ2RTJEbkkyaTRzZ0xTS0ZfQzVEUHUxaTlxLUwxbXlDWm9ZcjZMcU0yUWNaRW1uSlNPQzdQeUhWdFZZbjd2Q1dfdHQyOWlrSDdRUlR5ZFE2Q200V29JS1ZYbUlJWUpldHVsc25qQ0E4ZzZseVRFd0t1QTZfMnQ3dUloTzA2b2I0MVZ3TzBCbkpfUVAxemVXbW1ITVlvWDNsWUdUdmpfNFdP?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNUVJuYlRyOGRGeGdoRlBPazFWNlZWeE9RN2N2N1Y1eGM5dnUxcWp3MW51cGxjZjAxZVhLZkFtNzlhTmk4UkttaGpwU29KNGJjYlZlSlY4bzBMTnZEZ3ZGbVBBSW1mX0NSRWg4Ylo1NjUzVmE1X3JTRDJFR2ozRnVBam1Zd1NVaTBqTFNBMkg3VmJzRlo1dV9xcTBKWGxMdDZOdS1vS2YwclVMajNHT1dDVks1NzhYYlkwR2R5NHk5SWVLQzhqY1gyaXlQdy01ajJ0WElEVk5Ob2hURWYxUU9VYUZFanQ2eTVuclNVdGlBdlRSUVcxTjBTQ0ZlSlpQano4dlBwRE1kMlo3cUNkRlI5cXRR0gGgAkFVX3lxTE1DMWduUllLNndTSFNqYl91b21WWUdma3pVWEpMZXVJYkstazk2cU9VczJwRlBaR3kxOHFFQ3FFYWFrWVEwNm5aaW9kNk5Da2FXd2dqVTg2UUJXRnBXemt3M3RNdXNaQzBOdUdKYUV1aVpqZ0JseV9nTEg0dDMwSTVtd2R3RjR0XzViVGJPMnpTTjdqeGNVLUR3QUh5WDlwS0pCX3djRVF2YlhhbHJaQTZZcUo3dXZLbl9ZQXQtREVkM1gwTnpYM3lqRHNfUEV3c2F2U0dmeW9uYTJWLXpMUlU2RUNXYWVwakItSzF3QTBoVG9RZTVDWlVwenBNbkQtcDRjdEIwR0FJN0VsM2o2RzRfMl9GaWhfT3pkWV9HRWZrdw?oc=5"
         }
       ]
     },
@@ -78,14 +114,62 @@
       ]
     },
     {
+      "id": "7a0728f2085d",
+      "title": "Fóssil de lendário tubarão gigante 'Megalodon' revela detalhes com redescoberta - O GLOBO",
+      "published": "2026-07-09T06:00:42+00:00",
+      "summary": "Fóssil de lendário tubarão gigante 'Megalodon' revela detalhes com redescoberta&nbsp;&nbsp;O GLOBO",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcGQzVWZqR2pHZW4tQ2lIN3hYclM2ZEdOMHAzMzhUUGRBUGxUbjVBQnNTUWtSTkQ1YndfTERRcEs1TlRMUjlLTlJoTjdfemZfbU12WTJHX3NzdlJOVUtzSU4tMU9CcHdrd3hxbmYyQ1Y3SFhNSDdxUkktQmFrQnhCQkk3RGRIT0JKd3ZZNmpvZk8zTE1yWF9PWk5uelRIV0FXQ0xBWUxIV3ZHRENWeFAySXZ3Q0NuaEFXZG45VUVsTnB0UEJXUk1iVEFhM1ZnVXpPWGVtSHQwM01fVnR6d2ZldnFJWdIB8gFBVV95cUxOdkRmOW9vV3NET0NLbWVlaEotNEZIcnRkT0xoeDROUVNWS1dVS1RRd2k0V2JsZE1zWDY0SVhpRGJlZkVZdWU1OF9rcjVUTk0yZS1mSUFqRG50ZGZucGlvQ1Y1ejZhblJZYjRzV2psUmtrb0tjcG9BUHZBS3AtM1FNMktMQjZ1MjdibDZJOHk3WHBFOHhYZ0VSX0VKVGdJZ3VwcTlUU3dWRjVOVzBvWlVFSTlONnl3RE5faXhGWlJvU2tsMDZXNm5yTWRwRXBUQnNmQ2JHRFlaY3Z1a0FWeEszWlhkVGpERDJMTVV0VFByQjZzQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1b415f2f59f0",
+      "title": "Novo teste detecta câncer bucal em 1 hora e pode evitar mais de 90% das biópsias desnecessárias - G1",
+      "published": "2026-07-09T06:00:11+00:00",
+      "summary": "Novo teste detecta câncer bucal em 1 hora e pode evitar mais de 90% das biópsias desnecessárias&nbsp;&nbsp;G1Novo teste com cotonete pode detectar câncer de boca em uma hora&nbsp;&nbsp;MetrópolesPesquisadores desenvolvem teste que detecta câncer de boca em apenas uma hora&nbsp;&nbsp;SCC10Novo teste detecta câncer bucal em 1 hora e reduz biópsias&nbsp;&nbsp;DOLTeste rápido com cotonete pode detectar câncer de boca em uma hora&nbsp;&nbsp;Diário Goianiense",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaXVBSVJCSS1ZazlNWGt3TV9DV3YxUFVfQ1haN1hfYlBVY3ZmbnZab1VodGNqVENBWHFDbHhlMVBsazFYbXNQUkwzeG1rTGtLWVlGU1dycTlBOWVKc1JfRzdZZkhpbE0yMnJfUXJUdVlOYThzeDZPQjJmaDF5V3dNWVI4VjljSnFIMnA3b3BmT3Y3VmxIb0dnNThUcks2V1B4NkotTGFkRTBweUhPNDhUamwzUjIwMDZzQkJraHRfdmQ5NnpscVVtb1B2Q3o0T0daVllhNS1WQnVUa2lsMDV1VllzNTVzbHlX0gH3AUFVX3lxTE5zS2d6cEtvVURfR05ibHY1cE44b1FXZnlrUWhMM3VYNUNFM3g5cDAzclYtZHZJUzlaUnVIS25EMDByNUFnUEVlYk8yN2kyR1NSNjBSTFlyU3JKLTQxbjU1Z2xuaXJFM055UDFFQmRZZDNrdW9XWHJ2RDVxdGZHWFFSZHAwTEFTTmRkNnZnNUIzZFM4YUEyOXFrNlA0WW5MNlpBLU8yYnE2M2UzNzhYWkpteHNidnBNcmZ6dzMwM29Md3VadHh1WENHeTB2Mms2d3pZbTJMVE1rOG1wNkNLQzlRSEtUNi1xaFlPd2NyUzJXV2lXTGZxWDg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1137d27176f0",
+      "title": "Vacinas são essenciais após os 40 anos, principalmente para mulheres - Metrópoles",
+      "published": "2026-07-09T05:00:00+00:00",
+      "summary": "Vacinas são essenciais após os 40 anos, principalmente para mulheres&nbsp;&nbsp;MetrópolesPor que manter a caderneta de vacinação em dia é essencial após os 60 anos&nbsp;&nbsp;Veja SaúdeVacinação após os 60 anos ajuda a prevenir internações e doenças graves; entenda a importância de manter a caderneta atualizada&nbsp;&nbsp;Jornal CorreioGuia da vacinação para idosos: o que é preciso saber para manter as doses em dia&nbsp;&nbsp;NSC TotalVacinação ganha importância para mulheres após os 40 anos, a",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCM0FCdUpnMThkMmVPSGFLZHVXanZZS3podU5xM2MtdlAtN3pGVXFBaWxlY0JwUVJ5MlM2bXVmNE4tcUh6NjB4TDdacUl0YjlXcUJGMGpYbTRhOWlCRUlZQXp4aUVOTVJObFZrejhneGRRdE0?oc=5"
+        }
+      ]
+    },
+    {
       "id": "0dc34d473502",
       "title": "Uso de tadalafila como 'pré-treino' expõe frequentadores de academias a riscos - Folha de S.Paulo",
       "published": "2026-07-09T02:00:00+00:00",
-      "summary": "Uso de tadalafila como 'pré-treino' expõe frequentadores de academias a riscos&nbsp;&nbsp;Folha de S.PauloVeja mais manchetes e perspectivas no Google Notícias",
+      "summary": "Uso de tadalafila como 'pré-treino' expõe frequentadores de academias a riscos&nbsp;&nbsp;Folha de S.PauloUso indiscriminado de tadalafila no Brasil preocupa especialistas&nbsp;&nbsp;TerraComo a tadalafila virou febre nas redes sociais e por que médicos fazem um alerta&nbsp;&nbsp;G1Tadalafila vira febre entre jovens e médicos alertam para riscos do uso sem receita e como pré-treino nas academias&nbsp;&nbsp;Diário do LitoralEstudo diz que tadalafila pode estar ligada a menos mortes, infartos e de",
       "sources": [
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSWxxWGxEcWZ4WFZaMUpRME5NajRrZDZEXy1iSVdXT1ZjUG4xZG4wdnJ6amNfMm1rYjNhUlFLR3kxNExLNmszTDJfakZPWW1Id3dSclg1SHlPT0psZHFiUFk3TlRhVzlVVzBfeGJXY2kxZ2NTb0RGOUo4TDNaaXlPM3FhclhyVlZ5azQ3eEg2a3pmTnRydUNIZ1pPOVEwRTdtazVnUWhyaFF0dUdaZU5Sd1VKejYxd3RUWW9ZazNnZ2FOdWxFUWp4ancxSQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0e605b015be1",
+      "title": "Fortaleza vai ter oito postos de saúde abertos neste fim de semana para vacinação; veja lista - G1",
+      "published": "2026-07-08T23:49:26+00:00",
+      "summary": "Fortaleza vai ter oito postos de saúde abertos neste fim de semana para vacinação; veja lista&nbsp;&nbsp;G1Veja postos de saúde abertos em Fortaleza no fim de semana&nbsp;&nbsp;O POVOPrefeitura mantém seis postos de saúde abertos neste fim de semana para vacinação, entrega de medicamentos e atendimento de síndromes respiratórias&nbsp;&nbsp;Prefeitura de FortalezaFortaleza abre seis postos de saúde neste fim de semana para vacinação&nbsp;&nbsp;OpiniãoCE",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaFRVNWh2WERReW9wNkNPeTJzTDVvLVZ2T2dtdkpVNGhNeTRZWEVuT0h1UHJ1TFFWSEpOTDBUc2ZpWTBGTE5aLVczdkdwN1hHYVE3SWk2REZqVUx6eFEzdEZYY3JLQk8xbWpBY2tsRDhOYzJFUjh6cXFILXpPVDdYd1M1R3ZEZ08wcmQyVnpHbmF5VG03cHFsb2dLRWRnaFVqanRCS29ZY0paWGpkQW9QbmQ1ZkZMakxnSy1YSDVxQ1hkZ1pHdFNFb050LVlGQTlBV1HSAeABQVVfeXFMTk9kVEtWTmNQRWFheENTelRmRFpOTEtGLWRnc0pXMW96OWRUQWt3VUtZT1RuVHRnSVBxa3NNVy1aLUU3UDdfaExhRDF3dFdhNTBOMkhRLW1Dc2hVb3ZISHgxejM0MWxZVDVNV0xUU2Y5VFFzNENNamIyN1Ria1MtOWNsaXoyYUotdGFVV0pjancxTHlTbWc3WGlhWDgzNkJLS2twM0tETTRXX2JPYk9sQ19LbzZNVEhWZUJPdFBNdmpLQUl6aF94MkRiUW5pdEMzNEg1UGlRYi03U25zLXVoUGM?oc=5"
         }
       ]
     },
@@ -98,6 +182,18 @@
         {
           "name": "Estadão",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYWpyVkdkcEJCM2l4WWx2eENSbTJhckJhNGFiT3NIOTBOWHJuVVJnYkZ4N21iLUhTRnY5aHFIVWJ1WGNQREFVUko2TmFPYjhuSU9zdVhxVG5JWmpvNEpSeUZMaVVRMkhpME1ROG1zZnRHTWwwTi16Sm9HdFBBdGZYYXZtRWNjb2U5RGcwWW9TZWhvbVJ2VkRtdE5CeTZzb3ROV1JkYmF5cjBXb1dicGctZEpTanNvNW8tdHc3aF9xNloyQUNWU3d2SXEzaGQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dc7333babb35",
+      "title": "Família sem renda precisa de socorro para cuidar de mulher acamada após AVC - CGN",
+      "published": "2026-07-08T21:38:00+00:00",
+      "summary": "Família sem renda precisa de socorro para cuidar de mulher acamada após AVC&nbsp;&nbsp;CGN",
+      "sources": [
+        {
+          "name": "CGN",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY0phSjBjWU8tYkVLQ0hrOG5iWTdPck9HanJCdW5lb3BvalZ6N3oyZE9NWmtwZ3I0RXhXMlRXaEFQR3BLTWpTMkFacHZQdGt2UXBhR2tmaDV2REQ0TnhTNlhUel8ybmRlRGl4VkVRTTBjQUJIZ3ZncHFIU0J6YWVlbE9USjMyRWRiYUFTNDZQT1V4d01tQ2w5ck5SNFNnSGtwRXFqbEpRdUdBNDhHNm9N0gG0AUFVX3lxTE41bkRhaEFBQUJnWkpQZHRsN2J5LUo2ZTc1UzdlZUNFVy0xNlNwWkZmbTdxNkhWSXhjTGFfbzBKUE5CTG5tN3JYRmtKSUpCTkI4S3VvS0lFOWhDNWhFNEFBWEJ5Q0NQQkItOFZzNFpPN2RVOUlDaVFrTk5LUjBvUF9CQ0Q0ZUhBZFhMZjRvbTlycWx6empPX2I5NGIwWEVaMzdyWVJ0YkNTb3QzQkl6ZjhFR0VzMg?oc=5"
         }
       ]
     },
@@ -126,10 +222,22 @@
       ]
     },
     {
+      "id": "98dc50faf537",
+      "title": "O que é gastrite autoimune, doença de empresário que gasta milhões para não envelhecer - Estadão",
+      "published": "2026-07-08T19:01:18+00:00",
+      "summary": "O que é gastrite autoimune, doença de empresário que gasta milhões para não envelhecer&nbsp;&nbsp;EstadãoBryan Johnson, famoso por buscar rejuvenescer, revela diagnóstico de gastrite autoimune&nbsp;&nbsp;G1O que é gastrite autoimune, doença de milionário que não quer envelhecer&nbsp;&nbsp;UOLQuem é Bryan Johnson, o bilionário obcecado em voltar aos 18 anos&nbsp;&nbsp;Portal UAIO que as pessoas entenderam errado sobre o diagnóstico de Bryan Johnson&nbsp;&nbsp;Fast Company Brasil",
+      "sources": [
+        {
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUkJUOWtsMjU4QkpHMzQ3d09QODFVSVNTX29xTEdvWm82V1ZhNmY1M0lVTS1EalhFQ0s4eXlZdmx6RXVkbzFieW5udTR4b18wUmFiWHZIR29BXzdkblR1WXpUSkp6R2lBc0M0azF1QW1HbWVpenl0Ykl1QzVkNnV1VzBQLXM0U3BwdFpaMlBOa2hXZ0JkLTBJdGp4OGFLOG5EMUxlMGo0UjdRUnB5NENzYU5QVTl0aFdPX3JhZ0djQXJQRFZRTVdiNUVpN3NxdEtRN1l0bm5vczNlam_SAeABQVVfeXFMUDhiU1k5NUNraEQ1WEZfSzhub1pva0xvalNPVVR6MlYwbWNNOG1KSjY1R1p1bEFza0d0WVRDMkxJeGJ1Y0ViZ2tzT1JqX0lXR2Zja09GWl9xMmNKNnlMZEV3NXZlREpOSXhkRGtPRFBXeFJvREJmME56ZE1CXzNPX0RGWEdMd2JqU1AyZHM4a3oyRUxuOXJseW9Fc2ZFTXZjVnVzdHM0SktEd2VqVVgzMXZ3VTZSVnZMS0MtRmRmY1BXS1NlbGRZbmFvZHpsNmFTdS1qNUprUmFYXzBmcHlhdFE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1ff86d3e1c92",
       "title": "Quer dormir melhor? Estudo aponta qual exercício traz mais benefícios ao sono - ICL Notícias",
       "published": "2026-07-08T19:00:53+00:00",
-      "summary": "Quer dormir melhor? Estudo aponta qual exercício traz mais benefícios ao sono&nbsp;&nbsp;ICL NotíciasDormiu mal? A ciência mostra o que fazer antes de cancelar o treino&nbsp;&nbsp;GP1O que a ciência diz sobre práticas para ajudar a dormir&nbsp;&nbsp;Nexo JornalEstudo revela a prática mais eficaz para melhorar a qualidade do sono&nbsp;&nbsp;Rádio ItatiaiaCaminhar é bom para relaxar, mas especialistas revelam o melhor exercício físico para dormir profundamente&nbsp;&nbsp;Diário do Comércio",
+      "summary": "Quer dormir melhor? Estudo aponta qual exercício traz mais benefícios ao sono&nbsp;&nbsp;ICL NotíciasO que a ciência diz sobre práticas para ajudar a dormir&nbsp;&nbsp;Nexo JornalDormiu mal? A ciência mostra o que fazer antes de cancelar o treino&nbsp;&nbsp;GP1Exercício de alongamento supera caminhada e musculação para melhorar o sono, aponta estudo&nbsp;&nbsp;diarioesp.com.brEstudo revela a prática mais eficaz para melhorar a qualidade do sono&nbsp;&nbsp;Rádio Itatiaia",
       "sources": [
         {
           "name": "ICL Notícias",
@@ -234,18 +342,6 @@
       ]
     },
     {
-      "id": "22519bdc7ac9",
-      "title": "Cerca viva histórica o tem mais de 300 anos, passa dos 13 metros de altura, mede 155 metros de comprimento e ganhou registro no Guinness - CPG Click Petróleo e Gás",
-      "published": "2026-07-08T13:31:00+00:00",
-      "summary": "Cerca viva histórica o tem mais de 300 anos, passa dos 13 metros de altura, mede 155 metros de comprimento e ganhou registro no Guinness&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPWDhTVTJ5Mmc5d1J2ejNvVEZmMGZvSHJsZXJZd1ZpZjFSMUNEbzFLcWNqZkhfX3dKZS1qZTJPaVVGaTU5eVVabG5pVlFLR1R2MTl1TEhxTFZNaHZXNzNkWmlxclFwUzVBaTBxMHdNWXZGa2VyblY5OU04LWxHNEZPUFREWmRvRlhFcGlvQV9rOUlhdDBRdURJVWgyaVlXN2liS0xBUnZ1VHJ0bXE4dXQtcTJXYmtTcXFCaXhNbFVSOHlfcjVuM1Awc3NoLWFrLXo5ckFFd1FYUDBkOFVoZ3pBc0hucFhMMjg2QVFBcjVybzUtcjRuWUcydTAxa0J2R2c4WV90U1Vn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "05e95b124cb3",
       "title": "Cientistas descobrem possível forma de desativar progressão do câncer - Folha de S.Paulo",
       "published": "2026-07-08T13:22:00+00:00",
@@ -254,6 +350,18 @@
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYWI4Z2ZGWEJXUzlrRHFOVnVURFVCS2RpT2VMZF84SFVKbzRtSTk2RFN5R1Z3WTRoc0ZsSGd6U1dtZHV5cHdEdFlOVW5KckZkTWs1b0RaU1FnbUVjeWJBT2o2MTFVM0tVVURZbkJ3ZjZGT1BqLUFmTlBPOHJKa1RnNEdzX3VUbmVRVnc1bWVmRDNzU05LZnhXWnJKbnFhY1ZIazBaSDhVRC04YlJacjVyRktKZ0hIdWN0Rks4NDl0U0syemJHTURTMHl3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ea281253790d",
+      "title": "Perdeu a carteira de vacinação? Entenda quando é preciso tomar tudo de novo - UOL",
+      "published": "2026-07-08T10:36:37+00:00",
+      "summary": "Perdeu a carteira de vacinação? Entenda quando é preciso tomar tudo de novo&nbsp;&nbsp;UOL",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZjZvcXRONi00XzVGYmxNRy1fMDFhN0JreTlwcXNURzQ3SU9iT2lyX1o2YjUxSUVsZFJGRXZNSExObHE3Umc4WFpFQU52Z05WeEsyS3pneko2RGZEZHhjMmNJSEcyTTZ5UGRSazZVRzFUeHh0MHFuZXhPQmU3YlFjSEVYWU1vRXhJREhOR09QYS1UR3ZSQkxPdHFFY0tjd25OTy12dGdJVlJpZW5oRE14aGJsSWJzdDV0TDFtazdNTmx1eXR3SHd5VUxadEx0d0tPMTlIRQ?oc=5"
         }
       ]
     },
@@ -273,7 +381,7 @@
       "id": "5f249b9ac5d3",
       "title": "Estudos sugerem que as canetas emagrecedoras poderiam ajudar no tratamento de alguns tipos de câncer - G1",
       "published": "2026-07-08T08:03:15+00:00",
-      "summary": "Estudos sugerem que as canetas emagrecedoras poderiam ajudar no tratamento de alguns tipos de câncer&nbsp;&nbsp;G1Além da balança: canetas emagrecedoras podem ajudar contra tumores&nbsp;&nbsp;Olhar DigitalCanetas “emagrecedoras” podem ajudar a tratar o câncer? Veja o que a ciência já sabe&nbsp;&nbsp;SuperinteressanteEstudo associa caneta emagrecedora a menor risco de câncer colorretal&nbsp;&nbsp;MetrópolesCanetas para emagrecer entram no radar da oncologia&nbsp;&nbsp;Terra",
+      "summary": "Estudos sugerem que as canetas emagrecedoras poderiam ajudar no tratamento de alguns tipos de câncer&nbsp;&nbsp;G1",
       "sources": [
         {
           "name": "G1",
@@ -314,30 +422,6 @@
         {
           "name": "ICL Notícias",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBOeWNsOGZ6VGlKNEZ0dkJnWHNtTlFTM2VKeEZHUXRkR09iYm53UDRoOFZsVUZ2UmlXMUtLZlYzdXNialFhZDlVR3NVZHVzeFhvVzdQXzl1OW54ZWRQME5zVE94Ui1VRjFtRHRqU1FQUVdxVms4bFFOYmx6UW8?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e963d0cd76a9",
-      "title": "O que é gastrite autoimune, doença de milionário que não quer envelhecer - UOL",
-      "published": "2026-07-07T19:24:30+00:00",
-      "summary": "O que é gastrite autoimune, doença de milionário que não quer envelhecer&nbsp;&nbsp;UOLO que é gastrite autoimune, doença de empresário que gasta milhões para não envelhecer&nbsp;&nbsp;EstadãoBryan Johnson, famoso por buscar rejuvenescer, revela diagnóstico de gastrite autoimune&nbsp;&nbsp;G1Quem é Bryan Johnson, o bilionário obcecado em voltar aos 18 anos&nbsp;&nbsp;Portal UAIO que as pessoas entenderam errado sobre o diagnóstico de Bryan Johnson&nbsp;&nbsp;Fast Company Brasil",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYTF6VlFZMXhBeXBIUXpMYnY2MDlsTjk1TENvYWtzOXZMaGhFV2F1M2JVbTNzSGJEMjU2S1RNdTkwN3JwampBVFFLYmU2OWpKZkxyNl9JQ0ZQUlpOeE5kb3lfRmRMOXlyQ1VPRmNFYVhLd3NDSEw2b0hlQ20tcExJODRNcnMwZUdnbW5WOFhkNGQ0OXZSeHRsWWdraDZDXzlFTS1FTWIwTG1NNFF4OVBpdFl3UlNLbzBlbVFfODVxR3VDSlFoRm8yREtLbFhlUjMt?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dd135464d965",
-      "title": "Como uma nova onda de imunoterapia está eliminando cânceres - BBC",
-      "published": "2026-07-07T15:17:54+00:00",
-      "summary": "Como uma nova onda de imunoterapia está eliminando cânceres&nbsp;&nbsp;BBC",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KQ2hVeDNvUFBuaWdGaWRrZm9veV94RVg3TUNyLUhSV0Jkck11YzNWd3I1d0ZTb19vSFpTbjhSUHBWZ1NDc2pJdllESlBZclhxVHhaSTFka0NqRTNrTFZCZGZn0gFnQVVfeXFMUC10SlFzNnpTcV9aY0tiRUhYY1lsaXFkV19oMGFldTNEdzFNYUNoSzFCVnk0aWZxSFE5ZVJTblczMEpRbXpNRmNWUjF5SVIxcG5vYm9UMzJnUVJlNC12Ti1RaTRSRmNEWQ?oc=5"
         }
       ]
     }
