@@ -1,10 +1,22 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-07-09T03:29:28.734069+00:00",
-  "total_fetched": 89,
-  "unique_count": 86,
-  "health_related_count": 32,
+  "fetched_at": "2026-07-09T09:44:43.377643+00:00",
+  "total_fetched": 87,
+  "unique_count": 85,
+  "health_related_count": 27,
   "news": [
+    {
+      "id": "ebf1122381b4",
+      "title": "Sonda chinesa registra pela primeira vez imagens de perto da misteriosa 'segunda Lua' da Terra - O GLOBO",
+      "published": "2026-07-09T07:01:12+00:00",
+      "summary": "Sonda chinesa registra pela primeira vez imagens de perto da misteriosa 'segunda Lua' da Terra&nbsp;&nbsp;O GLOBO",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOUmt2WThYQm5NQ1NkOXZ4VlBPVjF2TU1ROTJCN0lIVkM0ejc0U2hOd0RfNzlZakRSWFlmVFVWX0RVdjlZM0F2T3FyYWJLQzlFd3RyVk91QkhxVGY3YlkzbEdpeXhxM0c3Q3J4aUYyUUNMU1B1UWpmajRzM01Ra3dBSEdqWEIwTFNObWc1dW9TdWlsS2QwN3RuNl84SWh2RWlzb01Zd2pnOEJzT3NLR0FlemgxMy1EUWN3enhSZ1hkT1p6VHJfdkdBbHJPd2pjaTJPTG5YR2ZCYzJrZlVDOC1zNDQ5anhlcGZZdUpxbHhDMF9DVzgxOWY40gGGAkFVX3lxTFAzX1lzZHJFekxFU1BDZDVyTmVOY2NWU1lSamkzcnVjOXhidDhpOHZXUC1hc0otZjV5QjAzWWFDbFk2NmViZ1JVdzZMQUcxWmZpalp2ZjYwakZKTFVkU2U4dkZlaWRGNWtMYXA2Vm8tNFNmRGY2bTgyaTkwWndPX3dEWVZFMlFyNmI1YTE4SUVRMVVoUFZNVGJpZmM1VDl5Vms4U0RJUk12SWJLYXJrY2FkLXg0cHNYQWk2d1JOeVoydkQ0Zk9MMVBJcXUzVTdrUy1LZEF2amNMYnlScG1PVUtqU1ZxMEZ5MzhKZmRMMlJSM2wydzhIRDZHNWppWUdEeVBwV3F4S1E?oc=5"
+        }
+      ]
+    },
     {
       "id": "d9f6c4efae63",
       "title": "A relação entre câncer e exercício físico mudou, e a ciência explica o porquê - Estadão",
@@ -30,10 +42,22 @@
       ]
     },
     {
+      "id": "061e231fa162",
+      "title": "Vacina experimental traz nova esperança contra câncer no cérebro - UOL",
+      "published": "2026-07-08T18:47:21+00:00",
+      "summary": "Vacina experimental traz nova esperança contra câncer no cérebro&nbsp;&nbsp;UOLVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQVBlZEppWEd5REpyZ2pleUN3dEZVUGFjVnhuQmpjV2tuNFdqY0dJa0xtbExOS3QwaG1IbkpZMHVpVjdDbTNCR0p4ZUxUeHgySjdPa2pVUll0TWZUNUkxQnhlRlByV0dHZWZCa3dYZjhNVTVaVjd3M1p1dkNhSHE5R1A5MzNqOHlJRWgyd0ZuVlhwNUlyX2JUN1VwTmVSQVQwLWU1ZDBJZ210VTJqWUdxTHEyRnlhOFBOdGptOTltT2lXVnFUem82ZHkta2R0LUE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "30c6fcb09704",
       "title": "Resfriado ou rinite: como diferenciar e o que fazer ao primeiro sinal de sintomas - O GLOBO",
       "published": "2026-07-08T18:22:40+00:00",
-      "summary": "Resfriado ou rinite: como diferenciar e o que fazer ao primeiro sinal de sintomas&nbsp;&nbsp;O GLOBOÉ alergia, gripe ou resfriado?&nbsp;&nbsp;G1Gripe ou resfriado? Saiba como diferenciar os sintomas e quando buscar ajuda médica&nbsp;&nbsp;HojemaisÉ alergia ou gripe? Especialistas explicam como diferenciar&nbsp;&nbsp;Folha VitóriaDiagnóstico avançado diferencia alergia de gripe&nbsp;&nbsp;Terra",
+      "summary": "Resfriado ou rinite: como diferenciar e o que fazer ao primeiro sinal de sintomas&nbsp;&nbsp;O GLOBODiagnóstico avançado diferencia alergia de gripe&nbsp;&nbsp;TerraGripe ou resfriado? Saiba como diferenciar os sintomas e quando buscar ajuda médica&nbsp;&nbsp;HojemaisÉ alergia ou gripe? Especialistas explicam como diferenciar&nbsp;&nbsp;Folha VitóriaGripe A, B, C ou D: entenda as diferenças e qual é a mais perigosa&nbsp;&nbsp;band.com.br",
       "sources": [
         {
           "name": "O GLOBO",
@@ -45,7 +69,7 @@
       "id": "e1aa6658ebb5",
       "title": "92% da população global será afetada direta ou indiretamente pelo câncer ao menos uma vez na vida, alerta OMS - G1",
       "published": "2026-07-08T17:23:22+00:00",
-      "summary": "92% da população global será afetada direta ou indiretamente pelo câncer ao menos uma vez na vida, alerta OMS&nbsp;&nbsp;G1Casos de câncer no mundo devem quase dobrar até 2050, alerta OMS&nbsp;&nbsp;Folha de S.PauloOMS alerta que novos casos de câncer podem quase duplicar até 2050&nbsp;&nbsp;MetrópolesAlerta da OMS prevê cenário alarmante para os casos de câncer nas próximas décadas&nbsp;&nbsp;VEJAOMS prevê que novos casos de câncer devem quase dobrar até 2050&nbsp;&nbsp;Correio Braziliense",
+      "summary": "92% da população global será afetada direta ou indiretamente pelo câncer ao menos uma vez na vida, alerta OMS&nbsp;&nbsp;G1OMS: 92% da população global será impactada pelo câncer; entenda&nbsp;&nbsp;O GLOBOCasos de câncer no mundo devem quase dobrar até 2050, alerta OMS&nbsp;&nbsp;Folha de S.PauloAlerta da OMS prevê cenário alarmante para os casos de câncer nas próximas décadas&nbsp;&nbsp;VEJAOMS prevê que novos casos de câncer devem quase dobrar até 2050&nbsp;&nbsp;Correio Braziliense",
       "sources": [
         {
           "name": "G1",
@@ -78,22 +102,10 @@
       ]
     },
     {
-      "id": "d906fbe38525",
-      "title": "Avanço na ciência: Bactérias encontradas em uma laguna do Rio de Janeiro passam a orientar pesquisas sobre Marte após cientistas identificarem características semelhantes às de ambientes extremos, ampliando as chances de compreender como a vida - CPG Click Petróleo e Gás",
-      "published": "2026-07-08T15:30:00+00:00",
-      "summary": "Avanço na ciência: Bactérias encontradas em uma laguna do Rio de Janeiro passam a orientar pesquisas sobre Marte após cientistas identificarem características semelhantes às de ambientes extremos, ampliando as chances de compreender como a vida&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQak1kZzYtTlo0QV9OWGhPQ1NaZmtJemtvamRPN1B3SnFXVzYxUlJJNnQxbWkyaGFlX2ZjTFdmMHlDTjJCNmVvR1hCM185MC0zYUJfMzl6U05zTGtnblZ5QTBBNW9MM2lENHFLTVRWeE9haktXTE50blZsSHhmR3pGTUdDNDRzWjNVTlJKQWNHNVVMX2kyTHlUODR3YnBtanNWdkRfR0ctNlNVek5sWjhyWWlkMk5DNElldWs3MmI4bzhpMklQcVNKQTlUVWQ3a1Y1aFRTYlZZVnlvcFlYTE13TnN1SUl1VlVCbGtOYmp3amJyMzk2b3lhWVh2WjJnQ09NTWpMdzNLNjBiZTVLaXZyRUpLUGdNX2JFT1RCMFE4dWhYU3VQQlBScjRfUGFzakNwQzBQeDgzLUkyRWdqeDY3NUJ3c0hXRkE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e865d889b95c",
       "title": "Sintoma 'constrangedor' pode ser sinal de alerta para câncer colorretal - Extra online",
       "published": "2026-07-08T15:08:17+00:00",
-      "summary": "Sintoma 'constrangedor' pode ser sinal de alerta para câncer colorretal&nbsp;&nbsp;Extra online",
+      "summary": "Sintoma 'constrangedor' pode ser sinal de alerta para câncer colorretal&nbsp;&nbsp;Extra onlineMuita atenção! Este sintoma pouco falado pode indicar cancro colorretal&nbsp;&nbsp;Notícias ao MinutoCâncer colorretal: estudo aponta que fatores presentes desde o nascimento podem influenciar risco da doença em adultos jovens&nbsp;&nbsp;guairanews.com",
       "sources": [
         {
           "name": "Extra online",
@@ -122,18 +134,6 @@
         {
           "name": "Globo",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZU9WOUc1R2h6cXpGS1ZnTTRRRnJpVExMQVpSWlo5WUpZbGZDQ055OFRHRzhQM2tkc0l2OXdwR1NYdVZRbVFEV0tLMlNSQUJlSHVPY0lOQjFYRC1GazRBN1FlT3hjYmM0YlJ2SXBwMFI1WGx4QUdValNlV3Jha1JneFZGN3lCclJkcnpRMEV5VWtEUGp3aGFpSkprNXFXZnFQSl9mNkNBcXl0ODNOZzJ1UTZPRFduOENDWkpnbGQ5dTdFYUx5c2pEQmhvSl9uUUNzbGfSAeABQVVfeXFMTWdXRnBvYXQtQXp6aG05ZDQzRkxlYjExRkdoVk9wWTJGVktpWjNUel9GT254UXpaNHFZTnpSZjF3UXgwRThvOFh0M2prWUUwMXNxdkxQTFhIT0xKYjM3WjVmTnFMazBoZ3h2QzlYLUtqdUVHeHg4ZmZVVzhfWEJSNTNqTUJKZGZVd3pnNEFlcE44U2xrR293SzdWeWt0NXY5VVVTUV9vSWhCSmk5RGZ3c2JsczQxX2RlRm51Sl9HNzVwckZLTDUtVS1CY2FWTkRyNlFsUlZXYXJXem1xT3FNSmU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "061e231fa162",
-      "title": "Vacina experimental traz nova esperança contra câncer no cérebro - UOL",
-      "published": "2026-07-08T14:47:21+00:00",
-      "summary": "Vacina experimental traz nova esperança contra câncer no cérebro&nbsp;&nbsp;UOL",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQVBlZEppWEd5REpyZ2pleUN3dEZVUGFjVnhuQmpjV2tuNFdqY0dJa0xtbExOS3QwaG1IbkpZMHVpVjdDbTNCR0p4ZUxUeHgySjdPa2pVUll0TWZUNUkxQnhlRlByV0dHZWZCa3dYZjhNVTVaVjd3M1p1dkNhSHE5R1A5MzNqOHlJRWgyd0ZuVlhwNUlyX2JUN1VwTmVSQVQwLWU1ZDBJZ210VTJqWUdxTHEyRnlhOFBOdGptOTltT2lXVnFUem82ZHkta2R0LUE?oc=5"
         }
       ]
     },
@@ -237,7 +237,7 @@
       "id": "8151fbfc7eb4",
       "title": "Campinas vai usar mosquitos com bactéria que bloqueia transmissão da dengue no combate à doença; entenda - G1",
       "published": "2026-07-07T21:09:20+00:00",
-      "summary": "Campinas vai usar mosquitos com bactéria que bloqueia transmissão da dengue no combate à doença; entenda&nbsp;&nbsp;G1Método Wolbachia: Campinas terá nova estratégia com mosquitos para combater arboviroses&nbsp;&nbsp;Prefeitura de CampinasMosquito é a arma de Natal contra a dengue&nbsp;&nbsp;Tribuna do NorteCCZ orienta população sobre a 2ª etapa do Método Wolbachia&nbsp;&nbsp;foz.pr.gov.brAgentes promovem ação em feiras para conscientizar população sobre o método Wolbachia no combate à dengue&nb",
+      "summary": "Campinas vai usar mosquitos com bactéria que bloqueia transmissão da dengue no combate à doença; entenda&nbsp;&nbsp;G1Método Wolbachia: Campinas terá nova estratégia com mosquitos para combater arboviroses&nbsp;&nbsp;Prefeitura de CampinasLondrina e Cambé se preparam para nova fase do método Wolbachia&nbsp;&nbsp;Folha de LondrinaDengue: Campinas terá nova estratégia com mosquitos com bactéria; veja como funciona&nbsp;&nbsp;ACidade ONSão Carlos intensifica preparação para uso da Wolbachia contra ",
       "sources": [
         {
           "name": "G1",
@@ -261,7 +261,7 @@
       "id": "e963d0cd76a9",
       "title": "O que é gastrite autoimune, doença de milionário que não quer envelhecer - UOL",
       "published": "2026-07-07T19:24:30+00:00",
-      "summary": "O que é gastrite autoimune, doença de milionário que não quer envelhecer&nbsp;&nbsp;UOLO que é gastrite autoimune, doença de empresário que gasta milhões para não envelhecer&nbsp;&nbsp;EstadãoBilionário mundialmente famosos pela busca pela juventude descobre doença incurável; entenda&nbsp;&nbsp;O GLOBODoença de Bryan Johnson: entenda gastrite autoimune do milionário da longevidade&nbsp;&nbsp;Veja SaúdeQuem é Bryan Johnson, o bilionário obcecado em voltar aos 18 anos&nbsp;&nbsp;Portal UAI",
+      "summary": "O que é gastrite autoimune, doença de milionário que não quer envelhecer&nbsp;&nbsp;UOLO que é gastrite autoimune, doença de empresário que gasta milhões para não envelhecer&nbsp;&nbsp;EstadãoBryan Johnson, famoso por buscar rejuvenescer, revela diagnóstico de gastrite autoimune&nbsp;&nbsp;G1Quem é Bryan Johnson, o bilionário obcecado em voltar aos 18 anos&nbsp;&nbsp;Portal UAIO que as pessoas entenderam errado sobre o diagnóstico de Bryan Johnson&nbsp;&nbsp;Fast Company Brasil",
       "sources": [
         {
           "name": "UOL",
@@ -278,6 +278,18 @@
         {
           "name": "BBC",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KQ2hVeDNvUFBuaWdGaWRrZm9veV94RVg3TUNyLUhSV0Jkck11YzNWd3I1d0ZTb19vSFpTbjhSUHBWZ1NDc2pJdllESlBZclhxVHhaSTFka0NqRTNrTFZCZGZn0gFnQVVfeXFMUC10SlFzNnpTcV9aY0tiRUhYY1lsaXFkV19oMGFldTNEdzFNYUNoSzFCVnk0aWZxSFE5ZVJTblczMEpRbXpNRmNWUjF5SVIxcG5vYm9UMzJnUVJlNC12Ti1RaTRSRmNEWQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f0c4b00670bb",
+      "title": "Grávidas têm quase o dobro do risco de sofrer violência psicológica, revela estudo - Jornal Correio",
+      "published": "2026-07-07T14:53:42+00:00",
+      "summary": "Grávidas têm quase o dobro do risco de sofrer violência psicológica, revela estudo&nbsp;&nbsp;Jornal Correio",
+      "sources": [
+        {
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWEtEX09NV2JMYTczOVNVSGtGc05Udm9vd0NyN1l1dUNHUmlLNElSY1l6R0sxZUMyX0kzejRGSjRvY19ETmltbTVfczFJMWU2c09ERm11ZDNEb3pRRHJmTkJIaXZ6VlJDU3BwQkFGdUdQVEtLYzU1azlqbFBON2lMT1lFNTlTSVJnWFJ0eUs1ZVV1akd3dXkyYmpGSm53d2tyTy1vc2d4R3VWZ3J2UzN6bEVmT2V3NXFxaEZkTEhSLXlvSHJWN1E?oc=5"
         }
       ]
     },
@@ -314,78 +326,6 @@
         {
           "name": "A Hora do Sul",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWS1HQnFoZmpBNGFLTWFHVmpHSDYzVVVFZXI4dUlza0pDRml5NlhiSzJrYUhwYmo2Z01IRXU5RmRiNWZ5MV81YnVPbkJRR0RDNml6WWoxeFp3MzdGYTNMLV9JcWRUNnlsS0RfdUxxLXQ0LXBDQ2hKODdORXhGR3FINWd4UFVTdEwxNFQzRGIyTnV3dENqOHczYTBHZklCZTNOeTNQZ1RrQm81UDFEeHFXSFdpN1NSRGs?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0993977e852f",
-      "title": "Estudo destaca frutas brasileiras com potencial contra doenças do envelhecimento - Exame",
-      "published": "2026-07-07T12:05:24+00:00",
-      "summary": "Estudo destaca frutas brasileiras com potencial contra doenças do envelhecimento&nbsp;&nbsp;Exame",
-      "sources": [
-        {
-          "name": "Exame",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ1pPdE1rMXNMYnBXQUljQnkyQnhFbmNEdGw4MTJJUi0tM3liNFVQT1h6X1g4VFR2VG9tMFN2VkpHYXlHY01JVUJ4S1kza3piblVVUmt5M0dPM19zT3Q5X3gwNGFpTURjNnhEcGF6eS12UWdOQkppQnpRYl9xNEhrQzhpeHRnNjJlcFZudlVBWV9udUZfbkFNV1FvNTEzRkNmSEFNNnFKVTFqdVk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1be0d0d7763c",
-      "title": "Estudo revela o que todas as grandes extinções em massa da Terra têm em comum - Olhar Digital",
-      "published": "2026-07-07T09:00:00+00:00",
-      "summary": "Estudo revela o que todas as grandes extinções em massa da Terra têm em comum&nbsp;&nbsp;Olhar Digital",
-      "sources": [
-        {
-          "name": "Olhar Digital",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUmRtYzVGa180d29OQm5IRy1CVWNoUXBTTUdrbVF4OHFRWGVLZkg4OFdxQnpUTDFjV2hJcGhDU1RBcGVWdXppeG9FV3RNMW5GaVhqX2RSeHFhWlVrZmZoVU8yRlo1ckpzWTBuX3dXakZpaHN3eVZtOFdHLURSTGdBVU02Y0NJdDZuMXJtUFJOYVcxNTVvS2ZHV2JTd0Jlb19PSnk2eXVQMGJPOFhBeXpYRTQwZ3Q3ekxUNUlEQnhsWGdKN3lXcTluVHZFSHdCZjg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e3e3424cc3cc",
-      "title": "Megaconstelações de satélites podem clarear o céu e ameaçar astronomia, diz estudo - Folha de S.Paulo",
-      "published": "2026-07-07T09:00:00+00:00",
-      "summary": "Megaconstelações de satélites podem clarear o céu e ameaçar astronomia, diz estudo&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaktFLU54amhYY1lFbTBhQ05RM2dvQmpUcFVsLTVxR2ZXRGJ6SkZoS2M3T1A2clE3NW9TbTRDOWowN24xSndHWDVVSC0yUkdRSWFIQks3N2d4TU5KVDAxR2NaQUl6ZVAxY2ZZZWMxSzZxX1VKdnFuNXJWVkwxNlR4SUxjbXMyWkR6WWYzcjdBaXA4c3B5em9mVDkyYURmVTFtVExEVWZMYnktYWI2RHNvc1l1aU10TmlFa2VIYndSOEhQUjhsMmxrTkNHMHJ6dw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b3a3705c7355",
-      "title": "Por que perdemos energia depois dos 50? A ciência começa a responder - Globo",
-      "published": "2026-07-07T07:03:08+00:00",
-      "summary": "Por que perdemos energia depois dos 50? A ciência começa a responder&nbsp;&nbsp;GloboCientistas identificam mecanismo que pode impedir envelhecimento das células do corpo&nbsp;&nbsp;Época NegóciosComo o nutriente presente no ovo pode ajudar a entender energia das células e envelhecimento do corpo&nbsp;&nbsp;Diário do LitoralJuventude eterna? Pesquisa da Alemanha revela molécula que pode proteger as células&nbsp;&nbsp;Revista Fórum",
-      "sources": [
-        {
-          "name": "Globo",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQW9SakRJanI5cUFKT3U3S19adHNiRkkydTlXTVluOXA5cmJaVnpzTUpKVkw0b3MzT0pZNGRCTnZiUmt3dlI5ZGpTcWpDWG9qbnprOFpnM1RsSWNDT3dTMTZmdm9TNC1saS1yWVA2V01ITkxXWk5mZVJKRDdCVjFGdmJrS1UzajMzdjVhLXFBMWZiRXJRb01mTXJKRzk3WFpSaTluRHBaOEM4bUwwMHhkZ1FfZzg4T2MxR09QSVg1eFDSAc8BQVVfeXFMTzVQQjhSaENESHp5WllvdV9KcWU3c09SRGM5clotM1pfUHBaOGJwV3FQTTdpVEw3Rmc5YjZwb0kwM2cyZ2lraWhSSEU0eHk0MjdEQWJxa1Y5ZFR5cGNEaVVTQWplTUdDUlRLcnMzNTVQU2JTdkZaSmpidERJenJJXy1TQTBKeWE1Y0NRa2JlTkZyUGxVT3BkRHR5dGJRZVhSS0RvLWF3SEtPZFJXenZTX2FuNVZXRTYxSG05VEdMS1VVei1xWVd0Z0V4RUctc004?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1f2f46c66c04",
-      "title": "Novo estudo indica por que a Antártica congelou milhões de anos antes do Ártico - G1",
-      "published": "2026-07-07T07:01:42+00:00",
-      "summary": "Novo estudo indica por que a Antártica congelou milhões de anos antes do Ártico&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOT003ZXZ2M1I1aDdJQnY3ZTNtWDdlRl9ybG5nM19vbnQyV3hZVjBxNG5DRjY5aTJDY2dCY19VdURraHREZWtHTFFtQm5PVVpUWGVUSDBlLU5VXzdETjc5aW1VcVZDV1E5TERpZ1h5MWp2OXhFV3hNcmlVeEw5WU5PMUtLemhDYlFvdEVkV2cxelFNVk50Z2wzTDFsSy1lc1E1Z2Y4bk1scDFqV0hXczRJOXNOMzE1SVM0Ni01b0liRXc5YUVfWmJfQm1wLXZSUjJ0dTBjYkN3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ac65387cd93b",
-      "title": "Como a tadalafila virou febre nas redes sociais e por que médicos fazem um alerta - G1",
-      "published": "2026-07-07T07:00:55+00:00",
-      "summary": "Como a tadalafila virou febre nas redes sociais e por que médicos fazem um alerta&nbsp;&nbsp;G1Uso de tadalafila como 'pré-treino' expõe frequentadores de academias a riscos&nbsp;&nbsp;Folha de S.PauloUso indiscriminado de tadalafila no Brasil preocupa especialistas&nbsp;&nbsp;TerraTadalafila na academia? Entenda os riscos do medicamento&nbsp;&nbsp;Aqui NotíciasTadalafila vira febre entre jovens e médicos alertam para riscos do uso sem receita e como pré-treino nas academias&nbsp;&nbsp;Diário do",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxON2VfTHMtNG14SzhSQnEtOTBHWFF0WFVxQ05YMUc2a3c0NW81bEtvQXFWbVhkX21uNURTRWp3Z3ZxV2RvSlRqXzVEMk1USGdNUVcteDk3cUhqYTRwcDV3SXVpdC1KMXdFZ3dON1diRlExZmNhWFRxQUZOQnJNSHhVNk8zS0FSTGRxdUs0V3J6LUpSREVkR0RLNEdXeWlJUEJsSkRFTWkzQ25TNUpVUUNrR2t6Ulc0UWFESjB2M0N3SFM4OEtuUTB4OG8wTUVsQdIB3AFBVV95cUxOUGdOTGpZRG1sdkw5MnNWMXJBZmhidi05Qnc4LVlVMUVtTU5iV2wzT1VBX2h6bUMta0dXTU80MFVrYlZaNTdrenRRZWg1eTR6UUxiU2pEVUNZazg3eU84R2dnaGxDQWUtOWRYMW5sYW9DSncyWjFraDdUU0VJZnF4ekRXTWh3akxFd1BhTU42OXpwOFJDQnVJTmR5M1NfaENlTXdMLTMxVW44T1dCLXpLeWdHbFd2Q3JCVTlWeFBhZWdoUzh0UlVoUDRwLUQ5NGlpdmd5ZXdTckN2OUxn?oc=5"
         }
       ]
     }
