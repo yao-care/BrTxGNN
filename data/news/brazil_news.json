@@ -1,10 +1,34 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-07-10T03:31:38.096368+00:00",
-  "total_fetched": 89,
-  "unique_count": 87,
-  "health_related_count": 33,
+  "fetched_at": "2026-07-10T09:38:19.133552+00:00",
+  "total_fetched": 85,
+  "unique_count": 84,
+  "health_related_count": 32,
   "news": [
+    {
+      "id": "e6ab60a318a4",
+      "title": "Calor faz besouros machos terem comportamento gay? Estudo analisa efeito do aquecimento - G1",
+      "published": "2026-07-10T08:04:24+00:00",
+      "summary": "Calor faz besouros machos terem comportamento gay? Estudo analisa efeito do aquecimento&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTWxMUlNENzdpMVQ5dUVzX0RHQ2lVTjdRdnhzcWllX0p0SjdOVVRPQzBkMEpPODNkZm5hZ3RqN0ppVFF2dHNnX0RuYWtab1l1aV9fSFNSM2RPZVFNb0o1MmpSS2N3bWY5WXNhQ0JTT2g0UW9mSXZvWGh2QlVZT1ZmOXMwSkRCS0hpRzZsa3NRZEowSzUzNEpUWkNlN0pXd9IBrAFBVV95cUxPcW1TWHNyM3d6N0dnX09aTmwzdUtpVW80dEJ6bC13MjBaRmRlTXdkbVBMSXVwSk01UzNEQkdSZEhla000ZEotS2RxWWpvQmZWN1VxbGhsS2tpVHI4MnpKdEVuakhyNjBUcjUxcGRHWVNOR1oxTlYzYWVyeGczN0Qyc1dVaXJxdHRFMzRyNUg3UHR6TXVqZHk4M1QzeUktNU9sWEkwZ213TnBSU29y?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b8ec10719405",
+      "title": "Cientistas pedem que todos se preparem para um fenômeno sem precedentes no Ártico: o degelo está desencadeando uma transformação química alarmante em áreas preservadas, e os primeiros sinais já preocupam pesquisadores do mundo inteiro - CPG Click Petróleo e Gás",
+      "published": "2026-07-10T02:45:00+00:00",
+      "summary": "Cientistas pedem que todos se preparem para um fenômeno sem precedentes no Ártico: o degelo está desencadeando uma transformação química alarmante em áreas preservadas, e os primeiros sinais já preocupam pesquisadores do mundo inteiro&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOLUhFclBKV2R2bnNkUDdOaTY1cWJRdXZ4LUFicFZkUGRaeGhuRHVTaHZWeWFndTh3Z0lPWTFOdUYySUE2aTR5LVdvQ25rU2xHTjRmRXpreHp3WDI0bUNNX1ZTZXZqWUd0c0M3RXNVMkZlOXZ4M3hoZ196TjVIZUJqUk5MN0VFRE9JWl91azZ0czd1akE1UTl5NTVPUTJSOVNNa0VKZkNPQUl0SC0yQmNJNy0zZWp4T0JzVjZDU2NOcVJESC1fYVhtMVFVOVgxWDFSZmZzTzFCMVdxYjc3cGFNSmZzd19SWnoxM0NGSkNDdlBGczhIbUc1VWMzdXhiUVNUM1gtWkdHX29RRHV0Q3Z5X2s1OWtmZE02ektiaXJUa2RZeFNDZGFJSVBMUjl4TkhCUDk0U1h6N0hQNDZtOTJBNnFyWjRZcXM?oc=5"
+        }
+      ]
+    },
     {
       "id": "8c2ccf43474c",
       "title": "Menino brasileiro de 10 anos descobre padrão inédito na matemática e leva pesquisa à Bienal da área - Alô Alô Bahia",
@@ -78,10 +102,22 @@
       ]
     },
     {
+      "id": "23baa0c8d635",
+      "title": "Todo mundo os tem no rosto: pesquisas revelam que os ácaros dos poros estão passando de uma relação parasitária para uma simbiótica - Terra",
+      "published": "2026-07-09T14:10:00+00:00",
+      "summary": "Todo mundo os tem no rosto: pesquisas revelam que os ácaros dos poros estão passando de uma relação parasitária para uma simbiótica&nbsp;&nbsp;Terra",
+      "sources": [
+        {
+          "name": "Terra",
+          "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPU1JBUDRubk95ZGFYTUxGWUJ3VEg0M1d5Mnd5eGdJR0JlRUo5VG4zN1A5NkhHVDA3b0I4Z1RfMkF6WVpHcm4yMDlSd1RwZXZPN1hLUEVyM0JaRnByZEMxOFZGTDJmM2p5eXZ3QzRQU2JfRnBFb3JjWUZIOVlEOVQtU0RJaDgzSldaX3JYRVRhNEIyVmVxSjdjR1AwSTQ4Y1J0TlRCNmlTWGFHS0poaWJZMDltajRWd04zRkdCb0RCRkVTX0F4YnNnZDNmMWltcEJfQlF4VTJrN0p3TmRoWC1fRGM3VkxfaDN6bXNZTWczYVBscGdhd3VkRXIxbnBmeWNqVElaZ1FFUWRtT3B5N0xNX01ZSGdQMHVqUWRfRl82aExKbFdlVDR5ZXNEWTZ6a0tKczZB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "851bc8eaa945",
       "title": "Câncer: casos dobrarão até 2050 e OMS alerta que a maioria das pessoas será afetada de alguma forma - Estadão",
       "published": "2026-07-09T13:55:21+00:00",
-      "summary": "Câncer: casos dobrarão até 2050 e OMS alerta que a maioria das pessoas será afetada de alguma forma&nbsp;&nbsp;EstadãoOMS: 92% da população global será impactada pelo câncer; entenda&nbsp;&nbsp;O GLOBOCasos de câncer devem disparar em 2050, com acentuadas desigualdades regionais&nbsp;&nbsp;Correio BrazilienseMédico da OMS afirma que 40% dos casos de câncer podem ser prevenidos&nbsp;&nbsp;UOL NotíciasOMS estima que casos de câncer podem aumentar 70% até 2050 e pede ação dos países&nbsp;&nbsp;VEJA",
+      "summary": "Câncer: casos dobrarão até 2050 e OMS alerta que a maioria das pessoas será afetada de alguma forma&nbsp;&nbsp;EstadãoOMS: 92% da população global será impactada pelo câncer; entenda&nbsp;&nbsp;O GLOBOCasos de câncer devem disparar em 2050, com acentuadas desigualdades regionais&nbsp;&nbsp;Correio BrazilienseOMS alerta: casos de cancro no mundo aumentam dois terços até 2050&nbsp;&nbsp;Euronews.comMédico da OMS afirma que 40% dos casos de câncer podem ser prevenidos&nbsp;&nbsp;UOL Notícias",
       "sources": [
         {
           "name": "Estadão",
@@ -150,10 +186,22 @@
       ]
     },
     {
+      "id": "5ace6c09cd2d",
+      "title": "Neurocirurgião alerta para impactos do álcool no cérebro - iG Saúde",
+      "published": "2026-07-09T08:46:00+00:00",
+      "summary": "Neurocirurgião alerta para impactos do álcool no cérebro&nbsp;&nbsp;iG Saúde",
+      "sources": [
+        {
+          "name": "iG Saúde",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR2dvVkdTUUxleVRsbmpscENvU1RxOVFNRHZWTDRFcVZQZGdUd2xoQ1B0WHZOY2dvUmo3Yms4MEpDRkpKejFsRmF5T3JsdEVPSFB6bkQxdTBfNjZqZEIwMzFyVjBpTHl4VjZLbERUZWtudWxXTlU5VnpHMThnc08zRkRkNEFMV2VudFFIQnFWUjJGUkhkRHNDMEFCaGI3N2hCUUtLd3o0bFhFTlcwc2d2QmVrM2hBbDDSAbwBQVVfeXFMTk42SjNLOEpsQ2t4aGlmUi1VRmhsVmV1d01PUHhDNkJneVNTMUVRWmtvWEk1ZlJOMjVscFFHLU1OdFZDTmVHeE1uNmJFaE5KZ3ZsT3ZIbmJZSnlMcWlnOTAxODdXZUh3dDlQZDRfRm05aTZzMWg1aFpuTnp3T0VGc3BfVWQ2ZU4tTlI3RERnUEZ2SWFxeVJNR2ZURzdLbTFadkxSR0JfWkhDb3R0N252NXJXYV9xcmo4QVFlWVI?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e8bb8738848d",
       "title": "Estudo revela limites das canetas emagrecedoras sem mudança de hábitos - Correio Braziliense",
       "published": "2026-07-09T07:20:00+00:00",
-      "summary": "Estudo revela limites das canetas emagrecedoras sem mudança de hábitos&nbsp;&nbsp;Correio BraziliensePesquisa: 75% dos usuários de canetas emagrecedoras aprovam efeitos no corpo&nbsp;&nbsp;Valor EconômicoEspaçolaser vê nas canetas emagrecedoras um novo motor de crescimento&nbsp;&nbsp;NeoFeedMercado bilionário de remédios para emagrecer faz explodir a busca por fórmulas manipuladas; saiba os riscos e regras&nbsp;&nbsp;TerraEra “pós-caneta” cria novas tendências de saúde e beleza&nbsp;&nbsp;Tribun",
+      "summary": "Estudo revela limites das canetas emagrecedoras sem mudança de hábitos&nbsp;&nbsp;Correio BraziliensePesquisa: 75% dos usuários de canetas emagrecedoras aprovam efeitos no corpo&nbsp;&nbsp;Valor EconômicoMercado bilionário de remédios para emagrecer faz explodir a busca por fórmulas manipuladas; saiba os riscos e regras&nbsp;&nbsp;TerraEspaçolaser vê nas canetas emagrecedoras um novo motor de crescimento&nbsp;&nbsp;NeoFeedCanetas emagrecedoras: 84% reduzem consumo de alimentos industrializados&n",
       "sources": [
         {
           "name": "Correio Braziliense",
@@ -189,7 +237,7 @@
       "id": "1b415f2f59f0",
       "title": "Novo teste detecta câncer bucal em 1 hora e pode evitar mais de 90% das biópsias desnecessárias - G1",
       "published": "2026-07-09T06:00:11+00:00",
-      "summary": "Novo teste detecta câncer bucal em 1 hora e pode evitar mais de 90% das biópsias desnecessárias&nbsp;&nbsp;G1Novo teste com cotonete pode detectar câncer de boca em uma hora&nbsp;&nbsp;MetrópolesTeste detecta câncer bucal em apenas 1 hora e pode reduzir milhares de biópsias&nbsp;&nbsp;diariodopara.com.brPesquisadores desenvolvem teste que detecta câncer de boca em apenas uma hora&nbsp;&nbsp;SCC10Novo teste detecta câncer bucal em 1 hora e reduz biópsias&nbsp;&nbsp;DOL",
+      "summary": "Novo teste detecta câncer bucal em 1 hora e pode evitar mais de 90% das biópsias desnecessárias&nbsp;&nbsp;G1Novo teste com cotonete pode detectar câncer de boca em uma hora&nbsp;&nbsp;MetrópolesTeste detecta câncer bucal em apenas 1 hora e pode reduzir milhares de biópsias&nbsp;&nbsp;diariodopara.com.brPesquisadores desenvolvem teste que detecta câncer de boca em apenas uma hora&nbsp;&nbsp;scc10.com.brNovo teste detecta câncer bucal em 1 hora e reduz biópsias&nbsp;&nbsp;DOL",
       "sources": [
         {
           "name": "G1",
@@ -206,18 +254,6 @@
         {
           "name": "Metrópoles",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCM0FCdUpnMThkMmVPSGFLZHVXanZZS3podU5xM2MtdlAtN3pGVXFBaWxlY0JwUVJ5MlM2bXVmNE4tcUh6NjB4TDdacUl0YjlXcUJGMGpYbTRhOWlCRUlZQXp4aUVOTVJObFZrejhneGRRdE0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f9e065338e9b",
-      "title": "Sensor brasileiro mede dopamina em lágrimas e mira diagnóstico de Parkinson - Diário do Centro do Mundo",
-      "published": "2026-07-09T02:12:07+00:00",
-      "summary": "Sensor brasileiro mede dopamina em lágrimas e mira diagnóstico de Parkinson&nbsp;&nbsp;Diário do Centro do Mundo",
-      "sources": [
-        {
-          "name": "Diário do Centro do Mundo",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeUkzOFI2ZXdPb0ZfTDE0c3VsR3ZvU2IybUQ0T1hSN1JsWHVKS081UHpnYldNOEhpXzNNbGZ3QU5MV2VJMjBzVmVkWTBudUpQSUZyQmpTNXQ5UmNQY3JHTHh2QVI2eFZHei1RaGpPV0VZNHVNeHdQWGV6Wk9wanFUQzJtc2VTVndnRmUzU3lvaG9JalY3TDExTzE5UE9LaHdPVEtOcGVKUkJ4NmhORUduYU5mOWctUE1vaWFjMUtjbDNRNHdPV2pFRFdUajBQUFB3WHhfSy1R?oc=5"
         }
       ]
     },
@@ -282,6 +318,18 @@
       ]
     },
     {
+      "id": "fea891f60e32",
+      "title": "Por que não temos memórias da primeira infância? Estudo explica - Aventuras na História",
+      "published": "2026-07-08T20:16:05+00:00",
+      "summary": "Por que não temos memórias da primeira infância? Estudo explica&nbsp;&nbsp;Aventuras na História",
+      "sources": [
+        {
+          "name": "Aventuras na História",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaHlia243eTZiMHBHYW5pdGwwd1ZEN2dQT3lWWmxuTVB1WHdKZFhzelFIb24tNzZxMUR1UEFlakFrMVBkcXJ1X2FNM0d4bXlYZ19VZHhXQTZObVMwc0gtX2VqdE0yLXR5RW9lemRTbHRtZmhVNU0weHRXY3ZxOTNod0JYVjFrTGVRZFlHcERsRkNaTFNGc25aVE5LdW1rcFVoQUZ3TU9hbTFGQVlfZmVsVnR2QnJoNU12Y1hsUHhKTzUzUjFr?oc=5"
+        }
+      ]
+    },
+    {
       "id": "98dc50faf537",
       "title": "O que é gastrite autoimune, doença de empresário que gasta milhões para não envelhecer - Estadão",
       "published": "2026-07-08T19:01:18+00:00",
@@ -290,18 +338,6 @@
         {
           "name": "Estadão",
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUkJUOWtsMjU4QkpHMzQ3d09QODFVSVNTX29xTEdvWm82V1ZhNmY1M0lVTS1EalhFQ0s4eXlZdmx6RXVkbzFieW5udTR4b18wUmFiWHZIR29BXzdkblR1WXpUSkp6R2lBc0M0azF1QW1HbWVpenl0Ykl1QzVkNnV1VzBQLXM0U3BwdFpaMlBOa2hXZ0JkLTBJdGp4OGFLOG5EMUxlMGo0UjdRUnB5NENzYU5QVTl0aFdPX3JhZ0djQXJQRFZRTVdiNUVpN3NxdEtRN1l0bm5vczNlam_SAeABQVVfeXFMUDhiU1k5NUNraEQ1WEZfSzhub1pva0xvalNPVVR6MlYwbWNNOG1KSjY1R1p1bEFza0d0WVRDMkxJeGJ1Y0ViZ2tzT1JqX0lXR2Zja09GWl9xMmNKNnlMZEV3NXZlREpOSXhkRGtPRFBXeFJvREJmME56ZE1CXzNPX0RGWEdMd2JqU1AyZHM4a3oyRUxuOXJseW9Fc2ZFTXZjVnVzdHM0SktEd2VqVVgzMXZ3VTZSVnZMS0MtRmRmY1BXS1NlbGRZbmFvZHpsNmFTdS1qNUprUmFYXzBmcHlhdFE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1ff86d3e1c92",
-      "title": "Quer dormir melhor? Estudo aponta qual exercício traz mais benefícios ao sono - ICL Notícias",
-      "published": "2026-07-08T19:00:53+00:00",
-      "summary": "Quer dormir melhor? Estudo aponta qual exercício traz mais benefícios ao sono&nbsp;&nbsp;ICL NotíciasDormiu mal? A ciência mostra o que fazer antes de cancelar o treino&nbsp;&nbsp;GP1Estudo revela o melhor exercício para combater a insônia; confira&nbsp;&nbsp;TerraO que a ciência diz sobre práticas para ajudar a dormir&nbsp;&nbsp;Nexo JornalExercício de alongamento supera caminhada e musculação para melhorar o sono, aponta estudo&nbsp;&nbsp;diarioesp.com.br",
-      "sources": [
-        {
-          "name": "ICL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5YUx5QVNFT3pyaGdwSS1PcUxhU2Jyby1BZEpHRDJQWXFzV0tXaDBST0hlMWlqNDNvSWhUNDJVMnRVd0Y0R0NmeG9XZzFUa29kaFZDVVJqSEx3NU1BM0h1X1ZndDVoMnFMRWZnLVptQU8tUXBPM1VHNw?oc=5"
         }
       ]
     },
@@ -318,18 +354,6 @@
       ]
     },
     {
-      "id": "30c6fcb09704",
-      "title": "Resfriado ou rinite: como diferenciar e o que fazer ao primeiro sinal de sintomas - O GLOBO",
-      "published": "2026-07-08T18:22:40+00:00",
-      "summary": "Resfriado ou rinite: como diferenciar e o que fazer ao primeiro sinal de sintomas&nbsp;&nbsp;O GLOBOÉ alergia ou gripe? Especialistas explicam como diferenciar&nbsp;&nbsp;Folha VitóriaRinite, sinusite ou gripe? Especialista explica como identificar cada doença&nbsp;&nbsp;D24AMGripe ou resfriado? Saiba como diferenciar os sintomas e quando buscar ajuda médica&nbsp;&nbsp;HojemaisDiagnóstico avançado diferencia alergia de gripe&nbsp;&nbsp;Terra",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRThnLUp5TWVzSWhzdmQ4MHB4NjRYSWRnV0xydmlNYlRPYks4Ml9YOVU3dUMzWG5rcTVtR3k1d0MzeUJjOWk1Znd3cTNpUlJhSndxS0tIN0ZiTkJzb3pQd0RoU1hwV1Q1WEgyajRTN3liZnB2SVp3aGgtaXM4VnluWHlwQ1VkRW51cDFCdWo4Y1ZhWXhabjdPR2JNLUJYal92WDBxVzNaYzMybEp1amFPRjlTMzdrVm50cTNVTlhocXJ0dVV2UHk4eW9CcDFQMTRSV3fSAeABQVVfeXFMT1U4emZYazVKZlVXc2pFVnpCUmdHT0tmeks1MHJQaEs3RE41ZXBGaTBDOERHd0dHa2NmdnoxbzlHZjU5Uzlzb1dzdDNiN21PUjAxd3JRTnk2SGZfWXN2cGk2MzUzaUZpMkxua1F1UE80Z293N3hJOGFxb19UWlhQeU5vcmVDNjQxV3Q3b3hwZWtzR3h5WnVQZWVRSlBkbDlrUnh0SUNvNDc3WXBKNWhnTVg4V2ZuZ2t1UzQ5dWN3akpHY29Xc3ZsSEtyOUh3QTItbzRRM0w2cFdDMFZRbjdmU1E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e865d889b95c",
       "title": "Sintoma 'constrangedor' pode ser sinal de alerta para câncer colorretal - Extra online",
       "published": "2026-07-08T15:08:17+00:00",
@@ -342,26 +366,14 @@
       ]
     },
     {
-      "id": "061e231fa162",
-      "title": "Vacina experimental traz nova esperança contra câncer no cérebro - UOL",
-      "published": "2026-07-08T14:47:21+00:00",
-      "summary": "Vacina experimental traz nova esperança contra câncer no cérebro&nbsp;&nbsp;UOLVeja mais manchetes e perspectivas no Google Notícias",
+      "id": "66a233fa253e",
+      "title": "O que suas lágrimas podem dizer sobre seu cérebro, segundo estudo brasileiro - Globo",
+      "published": "2026-07-08T14:55:03+00:00",
+      "summary": "O que suas lágrimas podem dizer sobre seu cérebro, segundo estudo brasileiro&nbsp;&nbsp;Globo",
       "sources": [
         {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQVBlZEppWEd5REpyZ2pleUN3dEZVUGFjVnhuQmpjV2tuNFdqY0dJa0xtbExOS3QwaG1IbkpZMHVpVjdDbTNCR0p4ZUxUeHgySjdPa2pVUll0TWZUNUkxQnhlRlByV0dHZWZCa3dYZjhNVTVaVjd3M1p1dkNhSHE5R1A5MzNqOHlJRWgyd0ZuVlhwNUlyX2JUN1VwTmVSQVQwLWU1ZDBJZ210VTJqWUdxTHEyRnlhOFBOdGptOTltT2lXVnFUem82ZHkta2R0LUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "38e7f57abdae",
-      "title": "Doença exibida em Quem Ama Cuida causa dores e nem sempre aparece em exames - UOL",
-      "published": "2026-07-08T12:05:45+00:00",
-      "summary": "Doença exibida em Quem Ama Cuida causa dores e nem sempre aparece em exames&nbsp;&nbsp;UOLDr. Fábio Batistella explica exames normais na fibromialgia e 6 formas de aliviar a dor&nbsp;&nbsp;O GLOBODor constante e cansaço sem fim de Elisa: Entenda o que é Fibromialgia&nbsp;&nbsp;TerraFibromialgia: entenda a doença de Elisa em 'Quem ama cuida' e os sintomas da crise&nbsp;&nbsp;A GazetaDor no corpo inteiro, mas exames normais? Entenda o que pode estar por trás disso&nbsp;&nbsp;Jornal Correio",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWGNibnFnd3kyQXBLcEVOUlJfaU93dUxjRE5CejVGT3VEZ1ROMnMzWE1mN19LSExlSkpVNy1HdXBrYXhiV3JiV0gyOHI3Nmllb1hWTWFnaFprZDAxREdFNWxCQXR0amJrQUNTNTFuQWpCeXFKQ01NZ2VRU09idWVLZzBWaS1BR0J2RV9ielVJZXBzUUtKeEFPSzlhN0Y3dTZvTEpIOXZ4NktZVzV0WDIzN3lWbmtwdkgzX3dEVDJadFE3cGktRWFXRTRB?oc=5"
+          "name": "Globo",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZU9WOUc1R2h6cXpGS1ZnTTRRRnJpVExMQVpSWlo5WUpZbGZDQ055OFRHRzhQM2tkc0l2OXdwR1NYdVZRbVFEV0tLMlNSQUJlSHVPY0lOQjFYRC1GazRBN1FlT3hjYmM0YlJ2SXBwMFI1WGx4QUdValNlV3Jha1JneFZGN3lCclJkcnpRMEV5VWtEUGp3aGFpSkprNXFXZnFQSl9mNkNBcXl0ODNOZzJ1UTZPRFduOENDWkpnbGQ5dTdFYUx5c2pEQmhvSl9uUUNzbGfSAeABQVVfeXFMTWdXRnBvYXQtQXp6aG05ZDQzRkxlYjExRkdoVk9wWTJGVktpWjNUel9GT254UXpaNHFZTnpSZjF3UXgwRThvOFh0M2prWUUwMXNxdkxQTFhIT0xKYjM3WjVmTnFMazBoZ3h2QzlYLUtqdUVHeHg4ZmZVVzhfWEJSNTNqTUJKZGZVd3pnNEFlcE44U2xrR293SzdWeWt0NXY5VVVTUV9vSWhCSmk5RGZ3c2JsczQxX2RlRm51Sl9HNzVwckZLTDUtVS1CY2FWTkRyNlFsUlZXYXJXem1xT3FNSmU?oc=5"
         }
       ]
     },
@@ -369,35 +381,11 @@
       "id": "ea281253790d",
       "title": "Perdeu a carteira de vacinação? Entenda quando é preciso tomar tudo de novo - UOL",
       "published": "2026-07-08T10:36:37+00:00",
-      "summary": "Perdeu a carteira de vacinação? Entenda quando é preciso tomar tudo de novo&nbsp;&nbsp;UOL",
+      "summary": "Perdeu a carteira de vacinação? Entenda quando é preciso tomar tudo de novo&nbsp;&nbsp;UOLO que fazer ao perder a carteira de vacinação? Veja quando é preciso repetir as doses | Saúde | O Liberal&nbsp;&nbsp;O Liberal",
       "sources": [
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZjZvcXRONi00XzVGYmxNRy1fMDFhN0JreTlwcXNURzQ3SU9iT2lyX1o2YjUxSUVsZFJGRXZNSExObHE3Umc4WFpFQU52Z05WeEsyS3pneko2RGZEZHhjMmNJSEcyTTZ5UGRSazZVRzFUeHh0MHFuZXhPQmU3YlFjSEVYWU1vRXhJREhOR09QYS1UR3ZSQkxPdHFFY0tjd25OTy12dGdJVlJpZW5oRE14aGJsSWJzdDV0TDFtazdNTmx1eXR3SHd5VUxadEx0d0tPMTlIRQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bbe20cd5b538",
-      "title": "Tartarugas compartilham ancestral com crocodilos e aves, sugere estudo - Folha de S.Paulo",
-      "published": "2026-07-08T09:00:00+00:00",
-      "summary": "Tartarugas compartilham ancestral com crocodilos e aves, sugere estudo&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTmxpc180aGtjalRQdWk0TE05cExLVXZvbjByVzdWZ1NYOVhZUGp2RGJReDhtMlp5Ym5wQWRwU2Jkcm5hc0ZDajg4WU5YOHY3d2JDV1lhY3o0TVV2dmVpelhzcUdJZnp4UnJ5cEllemJxMTJOcFNVYmw5M2hMUGpmbFBYNTllZWF6M2FsNGF5MmRqdUlSdDRKWFNVVGp1YXUtNTNKSVhHMUx6d3d3elVIaG1UVndGUVpvdnZ1S1FR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0c16c3082fbd",
-      "title": "Cientistas descobrem possível forma de desativar mecanismo de progressão do câncer - Agência FAPESP",
-      "published": "2026-07-08T03:00:58+00:00",
-      "summary": "Cientistas descobrem possível forma de desativar mecanismo de progressão do câncer&nbsp;&nbsp;Agência FAPESPCientistas descobrem possível forma de desativar progressão do câncer&nbsp;&nbsp;Folha de S.PauloPausa na progressão do câncer? Proteína pode ser a chave, aponta estudo&nbsp;&nbsp;Correio BrazilienseProteína pode ser principal alvo contra o avanço de células tumorais&nbsp;&nbsp;MetrópolesPesquisadores da Unifesp identificam proteína capaz de “religar” a autodestruição de células cancerosas",
-      "sources": [
-        {
-          "name": "Agência FAPESP",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUmNYOV9QRUFqX0gtOFdiSGJFSEk5RVFmSF9JNnhRSjgyc2JWWm9wdFBUenIzeGRmZHlKQzBvQS1WU0JQZzRWQllFR3c3MG43NTZRUWowNjRmbzY4ZXluaXBHenBmQTR1U0ZSSV9tWGJNMGcyZ0N0RGk2WmVLYllKQVVmM1pWNWxFNHBQLVFjc3lZczM5Q2o5VGVseWdpbkpjNS1xNHJ1WUpXM21TTlJNWHQtSlc?oc=5"
         }
       ]
     }
