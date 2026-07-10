@@ -1,10 +1,58 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-07-09T19:48:57.222838+00:00",
-  "total_fetched": 88,
+  "fetched_at": "2026-07-10T03:31:38.096368+00:00",
+  "total_fetched": 89,
   "unique_count": 87,
-  "health_related_count": 35,
+  "health_related_count": 33,
   "news": [
+    {
+      "id": "8c2ccf43474c",
+      "title": "Menino brasileiro de 10 anos descobre padrão inédito na matemática e leva pesquisa à Bienal da área - Alô Alô Bahia",
+      "published": "2026-07-09T21:32:31+00:00",
+      "summary": "Menino brasileiro de 10 anos descobre padrão inédito na matemática e leva pesquisa à Bienal da área&nbsp;&nbsp;Alô Alô Bahia",
+      "sources": [
+        {
+          "name": "Alô Alô Bahia",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQWFqaGlOLThvMkZNQnZ4YTBSM0hDREhoemlHLTNrVE9qYk91dHdUVW8wWEFMQ3ROcWRVZFVpSFhvQ2gzX2JQdDFsQTMycGpRY05CekJVbTNWZ1BuUkFzaFd1bFJvaGxoV0JsZzEyWjBGX0hFOElhaU1neFhLZGw3V0x3czVsMWFydGRVUnZDdGo0Y2R3c2pWLVlQU1dtOFNFQjZ1SG83WHowWmdmZmZGOEFka1VfclczWHJOaGVBcTJYakk5TWFDM3lFZktIeGl6eTJ0cUljbndWLV9x?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8d3f43ea38d0",
+      "title": "Primeiro teletransporte para o “passado” é testado por cientistas - Diário do Comércio",
+      "published": "2026-07-09T20:24:00+00:00",
+      "summary": "Primeiro teletransporte para o “passado” é testado por cientistas&nbsp;&nbsp;Diário do Comércio",
+      "sources": [
+        {
+          "name": "Diário do Comércio",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcnlVb2J2aUZ6UFhRSHN1cUd6d2psRkZRS1kyX2VDdzV2N0E0RS1fdDlUQXYyNzFBcFk3NlJjVTZIOGpidEpxNHN5RktzdWFrVDlqemtQZ056YTR2aTF3Rmt5c3phRk9SVmdfdWQ0c0Y0ZWYzNHhpNXkzazhMR19XZ3g3M25DdTRMRDFRVFlIMVN4S0pxS0hUNHZuX1puamhneWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "985ccb8f0ab4",
+      "title": "Família realiza rifa solidária em prol do tratamento neurológico do Pietro Eduardo - Portal Agora",
+      "published": "2026-07-09T19:07:09+00:00",
+      "summary": "Família realiza rifa solidária em prol do tratamento neurológico do Pietro Eduardo&nbsp;&nbsp;Portal Agora",
+      "sources": [
+        {
+          "name": "Portal Agora",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd0J6Um5iZ1RJX3JoNmJVcUp5VVAwVWJzN3BaMy1Da0hnOGtRSlg2LW1vbTNHaTk5bGREQ0hBM3FMcE1RWU9TRHR1LVkzVnV5VmZ1cHl0ZElIRUlrNnpWck1PZXJzWXE5VEVNbkxpZVRCMk9Kc1l4WEFlNHQ1U25nclA5VU1RUS1JWm9qblhmbHlzX0FpUy1GQjRIM0pzMzBUVUgxcXMxTVFZVVMxUFpPamNTemlLRUVENmU4LTNsVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dfff768e07cd",
+      "title": "Pesquisadores encontram planeta vizinho à Terra que pode ser habitável - Brasil Paralelo",
+      "published": "2026-07-09T18:31:04+00:00",
+      "summary": "Pesquisadores encontram planeta vizinho à Terra que pode ser habitável&nbsp;&nbsp;Brasil Paralelo",
+      "sources": [
+        {
+          "name": "Brasil Paralelo",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOS2hzY04xY01ON1l3VENwdTNGX2NXR1ZBTEJRdWFzMEZYUE53RGpLWExhMmhyYlNiMDZEalpsbXJJd1VJWk9taXZwOWdWNDZGY0hmU2hGY1M3MVhUcDRYZm1ZdWRyT2t4ajJpTngwUWtPS1V5OU5PRzJLSWotU25ES1QzT1lXYTFmemR6MEsxLWpGOWs?oc=5"
+        }
+      ]
+    },
     {
       "id": "b9f1cc98e024",
       "title": "A 5.000 metros de profundidade, onde não há luz solar, pesquisadores acharam DNA antigo preservado na lama do Atlântico Sul e descobriram sinais de organismos que não batiam com os registros conhecidos - CPG Click Petróleo e Gás",
@@ -14,18 +62,6 @@
         {
           "name": "CPG Click Petróleo e Gás",
           "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQVi1DQjVjVHlrQ3VsVzExZ0VNak1zclVVdmMtUmZrUktwUzBUaEk2dmh0dW5aaTlhOWlBRXdla3loYk1UekFrbllxc0lNQllUWlVwUVlCRUt4RDJfR2tBUFEtVDR5cW9WOGdaLWh3RVc0R3lSc01ibi1IVngyd2U2eFFpQkF3WFhLMDJwV3pvRm5ocnpQakhHRXNycVNpdGRnWkp1YWg1MXh6RGxhV0NPOVd4bXlqRmlZUnRraUdPV2pTUGlQLVFSMXNMOXcyQlBoUkZBbU1UZXhZOWJyYTlGcmNnejNEcDFhSHNJcnlMbVpMaXNBLTRSM2t4U2xjOGRvbVFualZkWnpsem9BVVd3RU5TLTdDcENCdjI0UWIyQlJURnBYVXJ2NXc4d1B2WWFhcGRMR2pmRkRvWVBfcS1CZ3M1MEh4eWM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fcba7b91b600",
-      "title": "Médico neurologista Gautama Antulio Brandão morre no DF - Metrópoles",
-      "published": "2026-07-09T18:16:00+00:00",
-      "summary": "Médico neurologista Gautama Antulio Brandão morre no DF&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdXQybDJrRk9kTElNVEpTbWFpbjVnVDhNbzFvNFpfNWh5UkM0RUx1cjljTDNUYXA1US01WmpmdEhTdzFxd3lDMGQwejA5R0ZRLVFQcmtlSVlZMm5fQW0yY0NENVlCbkxUMzhwRGFqNWxSOWs3Wk5ja05GbmhVQ25YQkVsX2tFaTJUT2J0Tm9yWmZjVmxXcGZnNkZKSkFocGF0?oc=5"
         }
       ]
     },
@@ -45,7 +81,7 @@
       "id": "851bc8eaa945",
       "title": "Câncer: casos dobrarão até 2050 e OMS alerta que a maioria das pessoas será afetada de alguma forma - Estadão",
       "published": "2026-07-09T13:55:21+00:00",
-      "summary": "Câncer: casos dobrarão até 2050 e OMS alerta que a maioria das pessoas será afetada de alguma forma&nbsp;&nbsp;EstadãoOMS: 92% da população global será impactada pelo câncer; entenda&nbsp;&nbsp;O GLOBO92% da população mundial será afetada pelo câncer, diz OMS&nbsp;&nbsp;SBT NewsMédico da OMS afirma que 40% dos casos de câncer podem ser prevenidos&nbsp;&nbsp;UOL NotíciasAlerta da OMS prevê cenário alarmante para os casos de câncer nas próximas décadas&nbsp;&nbsp;VEJA",
+      "summary": "Câncer: casos dobrarão até 2050 e OMS alerta que a maioria das pessoas será afetada de alguma forma&nbsp;&nbsp;EstadãoOMS: 92% da população global será impactada pelo câncer; entenda&nbsp;&nbsp;O GLOBOCasos de câncer devem disparar em 2050, com acentuadas desigualdades regionais&nbsp;&nbsp;Correio BrazilienseMédico da OMS afirma que 40% dos casos de câncer podem ser prevenidos&nbsp;&nbsp;UOL NotíciasOMS estima que casos de câncer podem aumentar 70% até 2050 e pede ação dos países&nbsp;&nbsp;VEJA",
       "sources": [
         {
           "name": "Estadão",
@@ -62,6 +98,30 @@
         {
           "name": "Diário do Centro do Mundo",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUzBnSzBOejhRNldkb1hzZXNSX2ExYXBGbWx5a1JRbFVSYkpyUm5oZ1VGM29EYUc0RlpUTHVNT1VmamwtQkVCTGk0ZGw2empaMXB2RzZsb1hvbnlhaVphaW1BRlhLZU1oTEJEWDJKQVhDVEM0VzIxYTBWTERiMFJEMVZkVDNiNTNDY25yR1hrZmpscXEyeGhaQms1eTN1RTlKRTVsMUhYbE5mQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "72dd0f45fd9f",
+      "title": "Família denuncia demora no tratamento de paciente com câncer e afirma que idoso morreu antes de cirurgia marcada pelo Hospital Regional de Juazeiro | Preto no Branco - Preto no Branco | Com Sibelle Fonseca",
+      "published": "2026-07-09T11:00:36+00:00",
+      "summary": "Família denuncia demora no tratamento de paciente com câncer e afirma que idoso morreu antes de cirurgia marcada pelo Hospital Regional de Juazeiro | Preto no Branco&nbsp;&nbsp;Preto no Branco | Com Sibelle Fonseca",
+      "sources": [
+        {
+          "name": "Preto no Branco | Com Sibelle Fonseca",
+          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOLTJ5Z281MG56MVlVZlNPWmpjV2hsQ1MyRlNNOTdYb2QxSlNNTVlQUmJrb2NHTXJlVl9YOWczV1NxMGh1ZmU3YkktRWc5c3JtakFiNXZYSXRsSDBOYzRROGR3elBLSk84a3dpNGZ3X0xsNEllTUhhZEZvaXFpT1BiNXNTMm82U3haQ0JJbmJaVjVRSDVFRkNFYnhYcHpuSzRtaUpJWXdhSWhaN3Vld3hMRXFfVGZ6Nk1fZ0NrMVJNN3IwNFAwMk41T3ZaaWhOMDhrZ2RURUMxdzFWc1g4bFRERkVuSW1PN3NuRjBwZDBSWHBuck1YdThVSF9XWnlsYmhUOUZOYnl3NE5iZTRFN2ExWC1Ddw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "466df8b5e4c5",
+      "title": "Pesquisa atualiza as chances de cada seleção conquistar o título da Copa; confira - G1",
+      "published": "2026-07-09T10:20:22+00:00",
+      "summary": "Pesquisa atualiza as chances de cada seleção conquistar o título da Copa; confira&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVTVtRGYyVzJZSkkxU3d2Sm9lNDBlSWxuS0RzTlNRdDZXc25NeFBjV19UNGgwOWlBVE92a1NwWlZjZE1sNzF1RVZYazN6TVo5eHVta0RlZ3JqVUhoVGM4d2lWalRRai1oNzFCZF92LWY3d0RoVkpUc25JanZuZ24zOGFBQ0d3NW5BeHoydklJU0Y5S01ZaXBkZG9JXzNOVU9tWWpmMFdnZmVHMlhxSEtrbm9BeGtQemotOFNNMU5wU3ltZ3lNU1ZrVHJVUTMydmJkSmZoaDUyajdoSjBObXJjNnFTeGHSAfMBQVVfeXFMUFE3UkE5V0Fwb01hY2g4T1c5VUpEZUZyUlo4QU1wQ2ZCajY4QlQ1UEJXclBOcTdXRlFUSGRpRlE5WEkxRmpTS1Z6bjVuTTF3ZC15UEF1ZjQyWnpvTG5NRXYyd1dITnFZQ0FUTjhkRVdOSHlXOWpDaGVaOXJzcU1OazhTVnE0UkxBUmlaZzkyd2JHV2R1dGxIMUtTeFMxVWJEMlEtNTVSVUtMdVN1MWxjOGtLU3VoZUdfT0k0ZlRCNkpib3p0NGIta2ZWNzlnUG9yNTRHWDRNSWY0cWR5NVh4Q1Z0cC1rNVFYS0I4UjU3ZDVfejRj?oc=5"
         }
       ]
     },
@@ -90,14 +150,14 @@
       ]
     },
     {
-      "id": "7998c467e5b2",
-      "title": "Maçã cozida vira trend nas redes como melhor opção para a saúde que a fruta crua. Médico esclarece se é mito ou verdade - O GLOBO",
-      "published": "2026-07-09T07:30:34+00:00",
-      "summary": "Maçã cozida vira trend nas redes como melhor opção para a saúde que a fruta crua. Médico esclarece se é mito ou verdade&nbsp;&nbsp;O GLOBO",
+      "id": "e8bb8738848d",
+      "title": "Estudo revela limites das canetas emagrecedoras sem mudança de hábitos - Correio Braziliense",
+      "published": "2026-07-09T07:20:00+00:00",
+      "summary": "Estudo revela limites das canetas emagrecedoras sem mudança de hábitos&nbsp;&nbsp;Correio BraziliensePesquisa: 75% dos usuários de canetas emagrecedoras aprovam efeitos no corpo&nbsp;&nbsp;Valor EconômicoEspaçolaser vê nas canetas emagrecedoras um novo motor de crescimento&nbsp;&nbsp;NeoFeedMercado bilionário de remédios para emagrecer faz explodir a busca por fórmulas manipuladas; saiba os riscos e regras&nbsp;&nbsp;TerraEra “pós-caneta” cria novas tendências de saúde e beleza&nbsp;&nbsp;Tribun",
       "sources": [
         {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNUVJuYlRyOGRGeGdoRlBPazFWNlZWeE9RN2N2N1Y1eGM5dnUxcWp3MW51cGxjZjAxZVhLZkFtNzlhTmk4UkttaGpwU29KNGJjYlZlSlY4bzBMTnZEZ3ZGbVBBSW1mX0NSRWg4Ylo1NjUzVmE1X3JTRDJFR2ozRnVBam1Zd1NVaTBqTFNBMkg3VmJzRlo1dV9xcTBKWGxMdDZOdS1vS2YwclVMajNHT1dDVks1NzhYYlkwR2R5NHk5SWVLQzhqY1gyaXlQdy01ajJ0WElEVk5Ob2hURWYxUU9VYUZFanQ2eTVuclNVdGlBdlRSUVcxTjBTQ0ZlSlpQano4dlBwRE1kMlo3cUNkRlI5cXRR0gGgAkFVX3lxTE1DMWduUllLNndTSFNqYl91b21WWUdma3pVWEpMZXVJYkstazk2cU9VczJwRlBaR3kxOHFFQ3FFYWFrWVEwNm5aaW9kNk5Da2FXd2dqVTg2UUJXRnBXemt3M3RNdXNaQzBOdUdKYUV1aVpqZ0JseV9nTEg0dDMwSTVtd2R3RjR0XzViVGJPMnpTTjdqeGNVLUR3QUh5WDlwS0pCX3djRVF2YlhhbHJaQTZZcUo3dXZLbl9ZQXQtREVkM1gwTnpYM3lqRHNfUEV3c2F2U0dmeW9uYTJWLXpMUlU2RUNXYWVwakItSzF3QTBoVG9RZTVDWlVwenBNbkQtcDRjdEIwR0FJN0VsM2o2RzRfMl9GaWhfT3pkWV9HRWZrdw?oc=5"
+          "name": "Correio Braziliense",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNVZ6V2s0TXRKVFgxT3dPUmlmUWV5TXFWYVprdS1lZVBIcFIzQjk2LU41QTVMRlRaSGRMbzItT0k0TktiZUJEeUU5Mm5qOTBTR3p4b1NaRlZQZnBBeWo2SEdMYUlIcTVKQWp4dUltM0pySVhuSUI5aExYa1AzYmlHVTBwek9XSkFiZl9PaDJaM0hXYWNtbEpCbW1sMVY3SFZBeEY2YkFVZmlxcXdJQjVvMWdScHR0UHJJb0dCYjc1dzNfN0gwaEdmcGQ3anJmNV91TERLM3RmRkZKV19OMVHSAeMBQVVfeXFMUEFzTFBWYnctVjFvQThqdjNDY3N0UWNKUTFTUklycmdYUEZNaWJlaWxEek9TM0JlcjdlcFRSSVhRRndpb2FkdEhOVlNXaGdGOUo4amo0ZVZBd1ZpVl9MSk5zNFNWeXhfajJLZkEyeGhuMktnWHJCYzRRQmRKM1dJU184UjJZREs2aFBjQk91UHRWdjNfWHFoSkR3V19yZVJNNXJGT1prdVJOeU03bUVFeUZvRE9SMDRtLUJ5V296SmlLM21Qd3JEaGpvRzNaU2ExTXNXSk1fbGRFODlJeF95eS1PcVU?oc=5"
         }
       ]
     },
@@ -129,7 +189,7 @@
       "id": "1b415f2f59f0",
       "title": "Novo teste detecta câncer bucal em 1 hora e pode evitar mais de 90% das biópsias desnecessárias - G1",
       "published": "2026-07-09T06:00:11+00:00",
-      "summary": "Novo teste detecta câncer bucal em 1 hora e pode evitar mais de 90% das biópsias desnecessárias&nbsp;&nbsp;G1Novo teste com cotonete pode detectar câncer de boca em uma hora&nbsp;&nbsp;MetrópolesPesquisadores desenvolvem teste que detecta câncer de boca em apenas uma hora&nbsp;&nbsp;SCC10Novo teste detecta câncer bucal em 1 hora e reduz biópsias&nbsp;&nbsp;DOLTeste rápido com cotonete pode detectar câncer de boca em uma hora&nbsp;&nbsp;Diário Goianiense",
+      "summary": "Novo teste detecta câncer bucal em 1 hora e pode evitar mais de 90% das biópsias desnecessárias&nbsp;&nbsp;G1Novo teste com cotonete pode detectar câncer de boca em uma hora&nbsp;&nbsp;MetrópolesTeste detecta câncer bucal em apenas 1 hora e pode reduzir milhares de biópsias&nbsp;&nbsp;diariodopara.com.brPesquisadores desenvolvem teste que detecta câncer de boca em apenas uma hora&nbsp;&nbsp;SCC10Novo teste detecta câncer bucal em 1 hora e reduz biópsias&nbsp;&nbsp;DOL",
       "sources": [
         {
           "name": "G1",
@@ -150,10 +210,22 @@
       ]
     },
     {
+      "id": "f9e065338e9b",
+      "title": "Sensor brasileiro mede dopamina em lágrimas e mira diagnóstico de Parkinson - Diário do Centro do Mundo",
+      "published": "2026-07-09T02:12:07+00:00",
+      "summary": "Sensor brasileiro mede dopamina em lágrimas e mira diagnóstico de Parkinson&nbsp;&nbsp;Diário do Centro do Mundo",
+      "sources": [
+        {
+          "name": "Diário do Centro do Mundo",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeUkzOFI2ZXdPb0ZfTDE0c3VsR3ZvU2IybUQ0T1hSN1JsWHVKS081UHpnYldNOEhpXzNNbGZ3QU5MV2VJMjBzVmVkWTBudUpQSUZyQmpTNXQ5UmNQY3JHTHh2QVI2eFZHei1RaGpPV0VZNHVNeHdQWGV6Wk9wanFUQzJtc2VTVndnRmUzU3lvaG9JalY3TDExTzE5UE9LaHdPVEtOcGVKUkJ4NmhORUduYU5mOWctUE1vaWFjMUtjbDNRNHdPV2pFRFdUajBQUFB3WHhfSy1R?oc=5"
+        }
+      ]
+    },
+    {
       "id": "0dc34d473502",
       "title": "Uso de tadalafila como 'pré-treino' expõe frequentadores de academias a riscos - Folha de S.Paulo",
       "published": "2026-07-09T02:00:00+00:00",
-      "summary": "Uso de tadalafila como 'pré-treino' expõe frequentadores de academias a riscos&nbsp;&nbsp;Folha de S.PauloUso indiscriminado de tadalafila no Brasil preocupa especialistas&nbsp;&nbsp;TerraComo a tadalafila virou febre nas redes sociais e por que médicos fazem um alerta&nbsp;&nbsp;G1Tadalafila vira febre entre jovens e médicos alertam para riscos do uso sem receita e como pré-treino nas academias&nbsp;&nbsp;Diário do LitoralEstudo diz que tadalafila pode estar ligada a menos mortes, infartos e de",
+      "summary": "Uso de tadalafila como 'pré-treino' expõe frequentadores de academias a riscos&nbsp;&nbsp;Folha de S.PauloUso indiscriminado de tadalafila no Brasil preocupa especialistas&nbsp;&nbsp;TerraComo a tadalafila virou febre nas redes sociais e por que médicos fazem um alerta&nbsp;&nbsp;G1Tadalafila vira febre entre jovens e médicos alertam para riscos do uso sem receita e como pré-treino nas academias&nbsp;&nbsp;Diário do LitoralOrientação Farmacêutica – Alerta importante sobre o uso indiscriminado da",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -198,26 +270,14 @@
       ]
     },
     {
-      "id": "fea891f60e32",
-      "title": "Por que não temos memórias da primeira infância? Estudo explica - Aventuras na História",
-      "published": "2026-07-08T20:16:05+00:00",
-      "summary": "Por que não temos memórias da primeira infância? Estudo explica&nbsp;&nbsp;Aventuras na História",
+      "id": "5d17912e16da",
+      "title": "MCR Amidos abre vaga para auxiliar de laboratório de classificação com diversos benefícios - Ponto da Notícia",
+      "published": "2026-07-08T20:56:29+00:00",
+      "summary": "MCR Amidos abre vaga para auxiliar de laboratório de classificação com diversos benefícios&nbsp;&nbsp;Ponto da Notícia",
       "sources": [
         {
-          "name": "Aventuras na História",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaHlia243eTZiMHBHYW5pdGwwd1ZEN2dQT3lWWmxuTVB1WHdKZFhzelFIb24tNzZxMUR1UEFlakFrMVBkcXJ1X2FNM0d4bXlYZ19VZHhXQTZObVMwc0gtX2VqdE0yLXR5RW9lemRTbHRtZmhVNU0weHRXY3ZxOTNod0JYVjFrTGVRZFlHcERsRkNaTFNGc25aVE5LdW1rcFVoQUZ3TU9hbTFGQVlfZmVsVnR2QnJoNU12Y1hsUHhKTzUzUjFr?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e4fe45fde9d4",
-      "title": "Arqueólogos encontram uma tumba de 2.500 anos com carruagem cerimonial enterrada inteira, armas de elite, vasos de bronze e vestígios que revelam um núcleo aristocrático piceno maior do que se imaginava - CPG Click Petróleo e Gás",
-      "published": "2026-07-08T19:49:00+00:00",
-      "summary": "Arqueólogos encontram uma tumba de 2.500 anos com carruagem cerimonial enterrada inteira, armas de elite, vasos de bronze e vestígios que revelam um núcleo aristocrático piceno maior do que se imaginava&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOX29qRnBlQTdWeko2aUtqOGZ3cDNWTWtLUXJZWW1MUXd6N2VZajhEQnNOUDIwUUxhdjlpMWNGc3BXYzZLNTBHNXdhYkFfOS1VY000QndxNFRkZDdMS3g3WmtVSVowOUh0YndyZkFvWEdoVE9WZE1ScFZhbVBKWktCMjUyVnlHeVNFbXBHMUlnNHk4dkNfZzVTSkFGbDgteGJWeFdWOUtuYkJJT3RHZUxsNm5wdjlCMFJON3dqTHRKaFphdTB3YjU2Ul9Xc1BPcWFNNHcwcU5ZcmRZY25JdHJNdlh4ODNhY2pZcHJiQS03VzJESzFja2lwNllJUzRETGRrTlhwMnJWOHlXSW1DTEZEeGtSNUxveFVjV3lyOC1mYkl4Z19laUxUN0QxRV9nbXpfcTFtN0N6QnVOTy1zUGxZZWFyaUNpVHc?oc=5"
+          "name": "Ponto da Notícia",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWHZyUFZlUlY1dkFRTUU1UHZfTXdUcldyYUV0UWdCWDFweHdabkJwTjgzS3BaUHZnOHFjVHJ0VExOZmZvQVV2bS1iWmdHYWlyR1dOT2VMNzRGeFNpZXJnOGJfMmY1TDluNjNBTWlpcjBIOVBYcHFZTXFMX3lGVmE5OUc4Qmp6Q0QzeVRzR0tXZFNTZ1FHSWhpTGxxcTI1cHNoWDliblk2WG5CQmZxcEgxTWZQWlhHdjNuWUEwU2drcXZFMzVkNHVxMA?oc=5"
         }
       ]
     },
@@ -237,11 +297,23 @@
       "id": "1ff86d3e1c92",
       "title": "Quer dormir melhor? Estudo aponta qual exercício traz mais benefícios ao sono - ICL Notícias",
       "published": "2026-07-08T19:00:53+00:00",
-      "summary": "Quer dormir melhor? Estudo aponta qual exercício traz mais benefícios ao sono&nbsp;&nbsp;ICL NotíciasO que a ciência diz sobre práticas para ajudar a dormir&nbsp;&nbsp;Nexo JornalDormiu mal? A ciência mostra o que fazer antes de cancelar o treino&nbsp;&nbsp;GP1Exercício de alongamento supera caminhada e musculação para melhorar o sono, aponta estudo&nbsp;&nbsp;diarioesp.com.brEstudo revela a prática mais eficaz para melhorar a qualidade do sono&nbsp;&nbsp;Rádio Itatiaia",
+      "summary": "Quer dormir melhor? Estudo aponta qual exercício traz mais benefícios ao sono&nbsp;&nbsp;ICL NotíciasDormiu mal? A ciência mostra o que fazer antes de cancelar o treino&nbsp;&nbsp;GP1Estudo revela o melhor exercício para combater a insônia; confira&nbsp;&nbsp;TerraO que a ciência diz sobre práticas para ajudar a dormir&nbsp;&nbsp;Nexo JornalExercício de alongamento supera caminhada e musculação para melhorar o sono, aponta estudo&nbsp;&nbsp;diarioesp.com.br",
       "sources": [
         {
           "name": "ICL Notícias",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5YUx5QVNFT3pyaGdwSS1PcUxhU2Jyby1BZEpHRDJQWXFzV0tXaDBST0hlMWlqNDNvSWhUNDJVMnRVd0Y0R0NmeG9XZzFUa29kaFZDVVJqSEx3NU1BM0h1X1ZndDVoMnFMRWZnLVptQU8tUXBPM1VHNw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "38aaf51737b4",
+      "title": "Chamada pública seleciona pesquisas avaliativas de políticas de saúde — Ministério da Saúde - www.gov.br",
+      "published": "2026-07-08T18:36:00+00:00",
+      "summary": "Chamada pública seleciona pesquisas avaliativas de políticas de saúde — Ministério da Saúde&nbsp;&nbsp;www.gov.br",
+      "sources": [
+        {
+          "name": "www.gov.br",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUm80U0JyMHVqZVhyODd2RTJoeWZ5Unl6amNQdjhQWVRZZG1yYjI4a1paVlJIR3gtR0V1aGk4Y3JnYWZHaVNhLVE2d0I4MFd5YVgxNGZtbXNBam1aR2hpWWNFaUowdDM0MkZ6NmRxOE9GZEdmTlNYQ1VIZGVsY25PMExyall4Rzl4YjNaUmxXNzVLMXpQMTMyNUFvbnJKajZnNzkwS0ZkVVNLazJpZFc3VWJISjI1UEpSaWdfd0dyWXp0bkF4c1EySUlmS0M?oc=5"
         }
       ]
     },
@@ -258,30 +330,6 @@
       ]
     },
     {
-      "id": "00da10a6293c",
-      "title": "ARAGUATINS: Secretaria de Saúde se manifesta após vídeo de influenciador sobre suposto caso envolvendo jovem com HIV - Folha do Bico",
-      "published": "2026-07-08T17:15:29+00:00",
-      "summary": "ARAGUATINS: Secretaria de Saúde se manifesta após vídeo de influenciador sobre suposto caso envolvendo jovem com HIV&nbsp;&nbsp;Folha do Bico",
-      "sources": [
-        {
-          "name": "Folha do Bico",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNc2F1NjVtcHVaZlVkRExyR1RnN3lrS1h3dDd4TU1PTmxrcERpMERjeENhdnBFeWI3T0tIVFp1V3JVRzlfZEtrZ1Q2WWpOb0VaYk9lUHE4RzNCQTlfYW9nYzR5YzkwU0dUdm1BZTRVdlNWc1dyWk5LTmlBMXp1VHU2di12UWl1aXVmS1NYV0xlSGNPMmU3cHZKMVlyMzJ0TW10T0VNQWEtSG53R3dCVjh3b3hoRFRKRGRPZV9XMGJGUVJXbTNZOG5kYk1Vb1lQTmRpQWRKWGpnX0tEUlE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "56e107159699",
-      "title": "Médicos usam refrigerante diet e dissolvem massa do estômago de mulher - Metrópoles",
-      "published": "2026-07-08T16:05:00+00:00",
-      "summary": "Médicos usam refrigerante diet e dissolvem massa do estômago de mulher&nbsp;&nbsp;MetrópolesMédicos usam refrigerante diet para dissolver massa no estômago de paciente em caso raro&nbsp;&nbsp;GloboUso de refrigerante diet ajuda a dissolver bezoar gástrico em paciente nos EUA&nbsp;&nbsp;BH 24 HorasMassa gigante no estômago de mulher teria sido causada por remédio estilo Ozempic — e sumiu com refrigerante diet&nbsp;&nbsp;TerraMulher tem massa no estômago dissolvida com refrigerante de cola diet em",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE92UkRrN2o2aTdWeDVhOGNUc2tPVGdjeWFaekhGMzJzVWRpaHMxbzBOR1ZDX191azJkNGU4T0lOYlNFQlFSeWRqUzlGNi1zeTNlMkFtajZHcXdvQXNEWVZDN0syZ2pwTmd2dnB4SUhQekE1OTN1ZGQ3cFUzMzE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e865d889b95c",
       "title": "Sintoma 'constrangedor' pode ser sinal de alerta para câncer colorretal - Extra online",
       "published": "2026-07-08T15:08:17+00:00",
@@ -290,30 +338,6 @@
         {
           "name": "Extra online",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeWhJNEZ2a19oNTdBWmdxMUFtcE1MbkE2MlA5QzU5bVpZMDZKZmpaWm9KMUpUSG1jdlByQVFaUjFNNkwtU2ZhRDlKNDdGZ1RqdDVzeFpyR25lU0YtWGpMSXdKNXlmc3NzVkFtWmgwaXdTOE85WWJYUnVKZzRNR3Fnbkw3WG5iWmlrVTFXeUtIVW5HTE1Bcnh6R0pHYjZpYm04QUduRkNoVUF6TnN4dzRuRXFPZm1NbVZ2c0Z0OUJR0gHMAUFVX3lxTE5HeXZiUFBLa2J4WXc2WkZSUTlRYUlwUXFmeDlTZzAwRnBibFc5M0ZmNlNlMHk3VW1lMHlLUmlDc1FsYjhVN1FzdVRvQXB2WFItRHBHdHpiSUNLZ20yN3NDc25iSGljU1pYemNaRjNNajRkRWZCcVpRanB5LTAtN1FhWkdkQVdqVDRtYkxhSnUydEw4d2t4S19PYnBWTkNmTUY5VGRSbkJOeFV0V1RzZE9zTlMtWnk5QWJCYzNFckloVU5QZ1gtMTJTWW4wTg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2f001c443fd0",
-      "title": "Pesquisa liderada pelo ICMC rompe paradigma científico de mais de 400 anos sobre sincronização - ICMC - Instituto de Ciências Matemáticas e de Computação",
-      "published": "2026-07-08T15:05:16+00:00",
-      "summary": "Pesquisa liderada pelo ICMC rompe paradigma científico de mais de 400 anos sobre sincronização&nbsp;&nbsp;ICMC - Instituto de Ciências Matemáticas e de Computação",
-      "sources": [
-        {
-          "name": "ICMC - Instituto de Ciências Matemáticas e de Computação",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdEtiS2xydzBhU0k2MnhJb2xKTHowTWt5cWFCaktSV2FZNkNFMF9iaHJCR0VlRUVTQThESEl3cUZWZzFWQXhVMGd4c09jc2d5ZVM5aGxJZGF1eE1hU3QtcGxsaGNqZEFMX2d3UHNkQ1F0djZJUWdOMFJsTE5NSUhPeEc4dGh4SmxYSGFKdnZmbUc3NDdhR3U0RVpVclR3SFFoWkhFY1N2Ti1TZE82RFNtTFAyWVk0NkxMZm5YVWd2M0xlZHROQkxTRjhycXA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "66a233fa253e",
-      "title": "O que suas lágrimas podem dizer sobre seu cérebro, segundo estudo brasileiro - Globo",
-      "published": "2026-07-08T14:55:03+00:00",
-      "summary": "O que suas lágrimas podem dizer sobre seu cérebro, segundo estudo brasileiro&nbsp;&nbsp;Globo",
-      "sources": [
-        {
-          "name": "Globo",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZU9WOUc1R2h6cXpGS1ZnTTRRRnJpVExMQVpSWlo5WUpZbGZDQ055OFRHRzhQM2tkc0l2OXdwR1NYdVZRbVFEV0tLMlNSQUJlSHVPY0lOQjFYRC1GazRBN1FlT3hjYmM0YlJ2SXBwMFI1WGx4QUdValNlV3Jha1JneFZGN3lCclJkcnpRMEV5VWtEUGp3aGFpSkprNXFXZnFQSl9mNkNBcXl0ODNOZzJ1UTZPRFduOENDWkpnbGQ5dTdFYUx5c2pEQmhvSl9uUUNzbGfSAeABQVVfeXFMTWdXRnBvYXQtQXp6aG05ZDQzRkxlYjExRkdoVk9wWTJGVktpWjNUel9GT254UXpaNHFZTnpSZjF3UXgwRThvOFh0M2prWUUwMXNxdkxQTFhIT0xKYjM3WjVmTnFMazBoZ3h2QzlYLUtqdUVHeHg4ZmZVVzhfWEJSNTNqTUJKZGZVd3pnNEFlcE44U2xrR293SzdWeWt0NXY5VVVTUV9vSWhCSmk5RGZ3c2JsczQxX2RlRm51Sl9HNzVwckZLTDUtVS1CY2FWTkRyNlFsUlZXYXJXem1xT3FNSmU?oc=5"
         }
       ]
     },
@@ -330,26 +354,14 @@
       ]
     },
     {
-      "id": "67e0a5814928",
-      "title": "Entre desafios e esperança, nova geração de pesquisadores reafirma o papel da ciência na construção do SUS - Abrasco – Associação Brasileira de Saúde Coletiva",
-      "published": "2026-07-08T14:15:59+00:00",
-      "summary": "Entre desafios e esperança, nova geração de pesquisadores reafirma o papel da ciência na construção do SUS&nbsp;&nbsp;Abrasco – Associação Brasileira de Saúde Coletiva",
+      "id": "38e7f57abdae",
+      "title": "Doença exibida em Quem Ama Cuida causa dores e nem sempre aparece em exames - UOL",
+      "published": "2026-07-08T12:05:45+00:00",
+      "summary": "Doença exibida em Quem Ama Cuida causa dores e nem sempre aparece em exames&nbsp;&nbsp;UOLDr. Fábio Batistella explica exames normais na fibromialgia e 6 formas de aliviar a dor&nbsp;&nbsp;O GLOBODor constante e cansaço sem fim de Elisa: Entenda o que é Fibromialgia&nbsp;&nbsp;TerraFibromialgia: entenda a doença de Elisa em 'Quem ama cuida' e os sintomas da crise&nbsp;&nbsp;A GazetaDor no corpo inteiro, mas exames normais? Entenda o que pode estar por trás disso&nbsp;&nbsp;Jornal Correio",
       "sources": [
         {
-          "name": "Abrasco – Associação Brasileira de Saúde Coletiva",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZnUweUMzV1hSaEc5VDhkMmJEV2pDbjI0dVpTblZPYUZJc011c0dhRVQyNm50OUpYWFpqdDVYTzJHdWdRdktwM0JyYjFleTFYc3hrYXhkUGVSQ1U1NFB4YnAtWEV6WlpCQ25xMHl2WVlfbHlHcVdlRXJmNGphNnprdm1sNkVtMHFMN3hGVjBXeGhaT3loNlNtR1BtY3lBdTFWYWxNTkVrVTB0NUhvS21naGg2SDc2cEpRZl9OWkt1WXhJMlFYdXZLUg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "05e95b124cb3",
-      "title": "Cientistas descobrem possível forma de desativar progressão do câncer - Folha de S.Paulo",
-      "published": "2026-07-08T13:22:00+00:00",
-      "summary": "Cientistas descobrem possível forma de desativar progressão do câncer&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYWI4Z2ZGWEJXUzlrRHFOVnVURFVCS2RpT2VMZF84SFVKbzRtSTk2RFN5R1Z3WTRoc0ZsSGd6U1dtZHV5cHdEdFlOVW5KckZkTWs1b0RaU1FnbUVjeWJBT2o2MTFVM0tVVURZbkJ3ZjZGT1BqLUFmTlBPOHJKa1RnNEdzX3VUbmVRVnc1bWVmRDNzU05LZnhXWnJKbnFhY1ZIazBaSDhVRC04YlJacjVyRktKZ0hIdWN0Rks4NDl0U0syemJHTURTMHl3?oc=5"
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWGNibnFnd3kyQXBLcEVOUlJfaU93dUxjRE5CejVGT3VEZ1ROMnMzWE1mN19LSExlSkpVNy1HdXBrYXhiV3JiV0gyOHI3Nmllb1hWTWFnaFprZDAxREdFNWxCQXR0amJrQUNTNTFuQWpCeXFKQ01NZ2VRU09idWVLZzBWaS1BR0J2RV9ielVJZXBzUUtKeEFPSzlhN0Y3dTZvTEpIOXZ4NktZVzV0WDIzN3lWbmtwdkgzX3dEVDJadFE3cGktRWFXRTRB?oc=5"
         }
       ]
     },
@@ -378,50 +390,14 @@
       ]
     },
     {
-      "id": "5f249b9ac5d3",
-      "title": "Estudos sugerem que as canetas emagrecedoras poderiam ajudar no tratamento de alguns tipos de câncer - G1",
-      "published": "2026-07-08T08:03:15+00:00",
-      "summary": "Estudos sugerem que as canetas emagrecedoras poderiam ajudar no tratamento de alguns tipos de câncer&nbsp;&nbsp;G1",
+      "id": "0c16c3082fbd",
+      "title": "Cientistas descobrem possível forma de desativar mecanismo de progressão do câncer - Agência FAPESP",
+      "published": "2026-07-08T03:00:58+00:00",
+      "summary": "Cientistas descobrem possível forma de desativar mecanismo de progressão do câncer&nbsp;&nbsp;Agência FAPESPCientistas descobrem possível forma de desativar progressão do câncer&nbsp;&nbsp;Folha de S.PauloPausa na progressão do câncer? Proteína pode ser a chave, aponta estudo&nbsp;&nbsp;Correio BrazilienseProteína pode ser principal alvo contra o avanço de células tumorais&nbsp;&nbsp;MetrópolesPesquisadores da Unifesp identificam proteína capaz de “religar” a autodestruição de células cancerosas",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbWlnSkVFeDJKdkVOYUFUakg2OElQVTllcDNDdmhnQzhVYkJGeE5HalNIMzZmYTF2LWh1b0piTFc1MHJKbmxEa2ZxbnFsQ00tbGQ2OEUyWFRvTHRVeHI2aHA0MzA0RzlxbDBKbFJ4OVd4LURUZ2VrVXRqaElkTEhMbzQ2aEVVLU1hZm9LY1RCMWlqNWQyRXJWREJlbkEtd1V5bHJhc1NPOU9zcjdUSWtUdmFLOExkV3JWYTk1S0Nkek1rWFFYZlNxemRRM0ZhVXR6aktycE1HUEZHdEwwdkFKUlAyUWRuTHPSAfYBQVVfeXFMT0dMdU4yRld6N0NzMFpZYzR3bkJ0RWpGYUdRSDRvSVNkZlVIVzQzbm5ZQTJCTG9aUS1WY1YwX0Z1LXAyXzh2WXFidUhDQlVidS10UnJfRGswc1VROElHQnduSzhCX2kyeFdWRHpSSWZ2SzlhUW5NXzlNNm5rdEQzdDdDaHJkS0JQTDJJQTltdkl3Ym9nM1BiZ2k1OGhYVC1FZmx4OGNXa08xNUdqMzJWRmwtdUdvbkNCQlE3MHNoNjFORmFLM1dJQm42Ql9CUnA1dXJBQ0JmVU52Y3REcDBpYk9va2Q2ZDRVN0pIdHNTaXk5UVdsUFd3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6f7825a2337b",
-      "title": "Pesquisa do ICMC une matemática e biologia para decifrar o que ocorre no cérebro durante estados alterados de consciência - ICMC - Instituto de Ciências Matemáticas e de Computação",
-      "published": "2026-07-08T01:09:45+00:00",
-      "summary": "Pesquisa do ICMC une matemática e biologia para decifrar o que ocorre no cérebro durante estados alterados de consciência&nbsp;&nbsp;ICMC - Instituto de Ciências Matemáticas e de Computação",
-      "sources": [
-        {
-          "name": "ICMC - Instituto de Ciências Matemáticas e de Computação",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTHJaUEQ5OFRVaXBhRUxmUUduRm9WRElWbzkwS2k1RHBwUksyMnZVREcycHdFMUJvbkhLNnplVDZWLUNta3JRX0ZrdzlEbWdWdzlKMXB5N2JEbnFyWFp0a1ZIdnkySVJUZms4SVpXeFNMVzlpcDk5cExTVE81MVEwQl9CZXUwamR0cFdBN0pQeXNPcU11VnFJdktlZTdpbjVzX3FMT2pHb2FMTU9xNjhwRnhzXzVaeGRsd3ZTVmNLZV95bmV0aFZwNGV6UUJtLWV1T1lDdkVwRlJidDRaUHRNTFhfQmE1a3paemswbzkzRkk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "434b2e107a11",
-      "title": "Reposição hormonal causou o câncer de Fátima Bernardes? Entenda - Correio Braziliense",
-      "published": "2026-07-07T20:16:00+00:00",
-      "summary": "Reposição hormonal causou o câncer de Fátima Bernardes? Entenda&nbsp;&nbsp;Correio Braziliense",
-      "sources": [
-        {
-          "name": "Correio Braziliense",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVVdIc01PWTY1WHJodnhCdzQ1VUJESmdoeWJYbTQwbm9LWlBCUkNoX1V3WEptREJtQ05jYUY3WUZhQTFCR3IwaGo3YVZXdW8yOW9ydG8tQkJUZmRSVC1nYmJKVlk3QS0waVdLcHVqeTdKZzRBQ0thUjYxQWx3VlZ2X2JRcWctVmtTbndkM3RvdUNyZTlrbXB1Rmo2TTdhcWFJaGFCTEZsZENGNzJ5M0h6bFJlTVlVWDRtYThOUGoyLUdXeGRyVUFqQVBCcHJmbHFsRGpJ0gHYAUFVX3lxTE1seGh5MS1mQk1RWmpDMXBTVDgtTm1HRnBrMmFTMjNsX25mSHBhUjZROGktT1hkeW9pQ2plZnpoalk4a0s0a01FNEMzMTZLam52NE9maHhObjNZb2NFdEdLNTVuWGxDN1ZlYnZDeExoV3o2QUtiNThoenFHN2RCNUEtSWZKMHhnQl9VRG92M1lDbFg5d1NfUU16UHpCS0dfcmhVX2xzNHJRaTlPYldUdm9HMEJRM1g5Wk1zbnBWS3JUUng1QmpKa2UteUFiV1RYM20tcWJ1Q3VOag?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2ce2e757954d",
-      "title": "Oito sintomas podem surgir até um mês antes de um ataque cardíaco; veja quais são - ICL Notícias",
-      "published": "2026-07-07T19:54:35+00:00",
-      "summary": "Oito sintomas podem surgir até um mês antes de um ataque cardíaco; veja quais são&nbsp;&nbsp;ICL Notícias",
-      "sources": [
-        {
-          "name": "ICL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBOeWNsOGZ6VGlKNEZ0dkJnWHNtTlFTM2VKeEZHUXRkR09iYm53UDRoOFZsVUZ2UmlXMUtLZlYzdXNialFhZDlVR3NVZHVzeFhvVzdQXzl1OW54ZWRQME5zVE94Ui1VRjFtRHRqU1FQUVdxVms4bFFOYmx6UW8?oc=5"
+          "name": "Agência FAPESP",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUmNYOV9QRUFqX0gtOFdiSGJFSEk5RVFmSF9JNnhRSjgyc2JWWm9wdFBUenIzeGRmZHlKQzBvQS1WU0JQZzRWQllFR3c3MG43NTZRUWowNjRmbzY4ZXluaXBHenBmQTR1U0ZSSV9tWGJNMGcyZ0N0RGk2WmVLYllKQVVmM1pWNWxFNHBQLVFjc3lZczM5Q2o5VGVseWdpbkpjNS1xNHJ1WUpXM21TTlJNWHQtSlc?oc=5"
         }
       ]
     }
