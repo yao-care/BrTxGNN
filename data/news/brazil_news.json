@@ -1,10 +1,58 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-07-10T09:38:19.133552+00:00",
-  "total_fetched": 85,
-  "unique_count": 84,
-  "health_related_count": 32,
+  "fetched_at": "2026-07-10T14:30:29.250883+00:00",
+  "total_fetched": 86,
+  "unique_count": 85,
+  "health_related_count": 34,
   "news": [
+    {
+      "id": "caf378c12eaf",
+      "title": "Estado deve indenizar paciente taioense por lesão neurológica após cirurgia na rede pública - portaleducadora.com",
+      "published": "2026-07-10T13:52:35+00:00",
+      "summary": "Estado deve indenizar paciente taioense por lesão neurológica após cirurgia na rede pública&nbsp;&nbsp;portaleducadora.com",
+      "sources": [
+        {
+          "name": "portaleducadora.com",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOd3N3NUItUE1JTkUtempuVHR6WWZuODdxV0VMaXRLVzNPSkx2WjhnQV9YZHVBRncwZEc4UU0zTmo3V1ZQRHRjN1lhR1UyVWxvMTNfZ1c1VG9fMXlfRUtySnNJSHl1alp6M3BNX1UwMk1XUjVrREgzT1ZPTFRCQjBSaXNtd0tveDBCSXF5SzVIWEdVRnUwZXNmVkdJOVdYa3d4X3hCak1GR21xcmVlcHp0c2VrSXZpMVA5NjYtNmdWS1c2bkdwdnpFUWgtSlU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3584a332f399",
+      "title": "Fruta ajuda a aliviar os sintomas da gripe e limpar os pulmões; saiba qual - ICL Notícias",
+      "published": "2026-07-10T11:40:59+00:00",
+      "summary": "Fruta ajuda a aliviar os sintomas da gripe e limpar os pulmões; saiba qual&nbsp;&nbsp;ICL NotíciasA fruta mais saudável do mundo que fortalece a imunidade e muita gente ainda ignora&nbsp;&nbsp;Correio Braziliense",
+      "sources": [
+        {
+          "name": "ICL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tWl9pbThoMUlFbUJLV254SUwxZFhCS0dlMnhrZ0V6dVJNRWRUSEZjakRuenAtM3hOLWxHNWNXcE10VXVGMEhvb0dSc2huOG15cDQ0UnNHOFJGRzJwTFIxNWxacjdveGZJbmlSd1B3WkZaRXZpM1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e3de2d3198f4",
+      "title": "Visto do espaço, astronauta flagra no Canadá um tapete geométrico de lavouras desenhado sobre o fundo de um lago fantasma que desapareceu há 12 mil anos, já foi maior que todos os Grandes Lagos juntos e deixou uma cicatriz de lama fértil que ainda a - CPG Click Petróleo e Gás",
+      "published": "2026-07-10T09:45:00+00:00",
+      "summary": "Visto do espaço, astronauta flagra no Canadá um tapete geométrico de lavouras desenhado sobre o fundo de um lago fantasma que desapareceu há 12 mil anos, já foi maior que todos os Grandes Lagos juntos e deixou uma cicatriz de lama fértil que ainda a&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPSXhhWkJjSmFsUFgwWWFSclpVV0RORTFDak9WZF9XcDRDVF9VYlJQYXloMTkxTkRQdThvZDZnMlVBc2xDRFBJMDBRZVhYc1dlWWpyYW5mM2dIWHFRVC1iMW0tWjN5dW93SXRNazJKNEJFZDN3Z2EtZHFZeEhaU054RDhyVmEyajZ5d3NIa2YteHJZb0tLc3NQdG1pd1Bxa2gtbGpseEZDZWV0N0E0b0g1T3doV0hOOFpqNGNqeno0SDZGdVI3eHdXRGlHekdlTWxGczEwMm0zLV9pNEltZW8xSm5kTVZqbVZDWHpzdTRlUGZxWHRpcFEydFlTeGlTX29TdkZaakM1T2pWQnY0YWZZSHR4Tzc0cUppSXdhVTVVQnpGdUhVcHQ2OTg1YnZtck5pMTlaUkdFU1E5U0VCdE5TdGlNUFd5NWM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "77e1157360b9",
+      "title": "Euclid leva à descoberta de 31 quasares, um dos objetos mais luminosos do Universo - Folha de S.Paulo",
+      "published": "2026-07-10T09:00:00+00:00",
+      "summary": "Euclid leva à descoberta de 31 quasares, um dos objetos mais luminosos do Universo&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSFVkZUl6b3N5MDZQNXdfcjJZdkxLNG56ZFo5RGxQbVkweEJFOTNUdFpMVkIyQmd5bGNHVzR5NFZjNklXc2xGdHlfRWstTTYzcDBiWEt4QnBVazAwNWJKTjQzd0I4MHQxWDhPemlaQllEbmdMbXZwcl83SW1qU0RoY3JKMFJ4UGtzSTBSRFF1TjRCWnNnVTNPemlWSEUyUGpFRUpRVWdneHBRcFZDVzNvMmZtdEwxNENvbkpCT0gxeUQyOVpXd1ktM2x5VWcxQQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "e6ab60a318a4",
       "title": "Calor faz besouros machos terem comportamento gay? Estudo analisa efeito do aquecimento - G1",
@@ -18,6 +66,30 @@
       ]
     },
     {
+      "id": "26aea11e6959",
+      "title": "Peixe olho-de-barril é filmado pela primeira vez perto do Brasil - Portal iG",
+      "published": "2026-07-10T08:00:00+00:00",
+      "summary": "Peixe olho-de-barril é filmado pela primeira vez perto do Brasil&nbsp;&nbsp;Portal iG",
+      "sources": [
+        {
+          "name": "Portal iG",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMzVqNzZNN1FLTGRkYTlvNW9FazEwSHBGZk94NXdsNG9QdktfTkM4dUh3TFpYamZ1N1hvOG9OcVFzVW5lbm9WU2wtam9mRXVucWVEMHotVmd2VllkNTMyUy1mSW5zTzRfZnprbGlQcmVJcXhob05rMF9NV2hzaExYWUxZREtaWGIzanhSTWxtTl9PdElpZG9STmx4SWxSUjRnNDRtSGVOSklueGNaell0QWx4MnlSMWhwM19wVdIBwgFBVV95cUxPeXo5RDB0aktodkhiSnF2MERBMUZtTFdvQlp1TUVpNnhlQ2dqUU9KX2hiU3lXalFEN3VVa0V0V25vYmtHdkcwTS1SQ3VNUmstU0dENlRFSlpVN1g3TlhQWWZGSElBWThTdWs2b3dpeTJWcTR3YllBNl9RckVrblJjMFF6Y1M5cE5sbkJEWmlBdU1kOUI1d2NKNHhWRDlnM2M4SF9yQlY4TGRVcDhrd2NVRk1oOFdCM2JqUWJtM01OZXZxUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "65f8ade5a62a",
+      "title": "Galáxia incomum formada por colisão cósmica é descoberta - cnnbrasil.com.br",
+      "published": "2026-07-10T06:34:26+00:00",
+      "summary": "Galáxia incomum formada por colisão cósmica é descoberta&nbsp;&nbsp;cnnbrasil.com.br",
+      "sources": [
+        {
+          "name": "cnnbrasil.com.br",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMmgwRTNqOGFFTUlRQjFCTUdTQkF1Z3hXZW50REJxT1RibmpLVC0xTFBRNUgtQzZBMzJMdEFNUUNVMTlsWE4ydG9CTUFzZkF4b2wxWmV6cTRaMmFqdWNyNFJrT0RQekV1Vk9sMXNRRVhRRDJUSXp6X3RRQjh2WkdGRVgzdlYwYWIxNTJHMjZrU2xjQ3pEU0Y4OFB3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b8ec10719405",
       "title": "Cientistas pedem que todos se preparem para um fenômeno sem precedentes no Ártico: o degelo está desencadeando uma transformação química alarmante em áreas preservadas, e os primeiros sinais já preocupam pesquisadores do mundo inteiro - CPG Click Petróleo e Gás",
       "published": "2026-07-10T02:45:00+00:00",
@@ -26,6 +98,18 @@
         {
           "name": "CPG Click Petróleo e Gás",
           "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOLUhFclBKV2R2bnNkUDdOaTY1cWJRdXZ4LUFicFZkUGRaeGhuRHVTaHZWeWFndTh3Z0lPWTFOdUYySUE2aTR5LVdvQ25rU2xHTjRmRXpreHp3WDI0bUNNX1ZTZXZqWUd0c0M3RXNVMkZlOXZ4M3hoZ196TjVIZUJqUk5MN0VFRE9JWl91azZ0czd1akE1UTl5NTVPUTJSOVNNa0VKZkNPQUl0SC0yQmNJNy0zZWp4T0JzVjZDU2NOcVJESC1fYVhtMVFVOVgxWDFSZmZzTzFCMVdxYjc3cGFNSmZzd19SWnoxM0NGSkNDdlBGczhIbUc1VWMzdXhiUVNUM1gtWkdHX29RRHV0Q3Z5X2s1OWtmZE02ektiaXJUa2RZeFNDZGFJSVBMUjl4TkhCUDk0U1h6N0hQNDZtOTJBNnFyWjRZcXM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "587097148092",
+      "title": "Para que serve a dipirona? Veja como tomar e efeitos do remédio - UOL",
+      "published": "2026-07-09T22:46:41+00:00",
+      "summary": "Para que serve a dipirona? Veja como tomar e efeitos do remédio&nbsp;&nbsp;UOL",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTVRaM2d1TEpmRWdOVVc3NHV6S0Vlblh5SDFReVNDQWJYSE1rWktGbGpybzA0QV9RSlZkOW1nWTFaSVYzM1IzazhaeGlNTkZqUUNwMFpGTGtvMVVVdVNQRUFUTkxzZFR4SkJqQ3BPQy1DQkw1RkFYU1dVUnFiTzB0dDZFRFRKUGdmRUF4QWxzdGVWNGRMV1MwdHpEWjJDUVc4a2J0clVMRnVoSHV5cE5lU0o1Y2pvUVdWbWJoWHgyOUtwVVc3?oc=5"
         }
       ]
     },
@@ -66,6 +150,18 @@
       ]
     },
     {
+      "id": "fc7c5ecc3eca",
+      "title": "Bilionário que tenta ser imortal anuncia que está com doença incurável - Brasil Paralelo",
+      "published": "2026-07-09T18:36:04+00:00",
+      "summary": "Bilionário que tenta ser imortal anuncia que está com doença incurável&nbsp;&nbsp;Brasil ParaleloO que é gastrite autoimune, doença de empresário que gasta milhões para não envelhecer&nbsp;&nbsp;EstadãoBryan Johnson, famoso por buscar rejuvenescer, revela diagnóstico de gastrite autoimune&nbsp;&nbsp;G1O que é gastrite autoimune, doença de milionário que não quer envelhecer&nbsp;&nbsp;UOLO que as pessoas entenderam errado sobre o diagnóstico de Bryan Johnson&nbsp;&nbsp;Fast Company Brasil",
+      "sources": [
+        {
+          "name": "Brasil Paralelo",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdVc3QmdVSmtSanpnbnJsRjNCRUNRRFdJUmVSZmEzZUs0UDhmOG5jRWZOYTQ4TlZuMmFwV2NabXdjRUFwZDR5WHpPSXlNZk1FOWtDZDdESi0wSWdKaldXeUNkN0JxWl94cm53Q1hrNGljWmtUV21LR0RLeFBNR2VWa3MwODc1blBhRUdtN29DWW5QbWJBYTBqNVBBQ2hEcW9rbHh3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "dfff768e07cd",
       "title": "Pesquisadores encontram planeta vizinho à Terra que pode ser habitável - Brasil Paralelo",
       "published": "2026-07-09T18:31:04+00:00",
@@ -86,6 +182,30 @@
         {
           "name": "CPG Click Petróleo e Gás",
           "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQVi1DQjVjVHlrQ3VsVzExZ0VNak1zclVVdmMtUmZrUktwUzBUaEk2dmh0dW5aaTlhOWlBRXdla3loYk1UekFrbllxc0lNQllUWlVwUVlCRUt4RDJfR2tBUFEtVDR5cW9WOGdaLWh3RVc0R3lSc01ibi1IVngyd2U2eFFpQkF3WFhLMDJwV3pvRm5ocnpQakhHRXNycVNpdGRnWkp1YWg1MXh6RGxhV0NPOVd4bXlqRmlZUnRraUdPV2pTUGlQLVFSMXNMOXcyQlBoUkZBbU1UZXhZOWJyYTlGcmNnejNEcDFhSHNJcnlMbVpMaXNBLTRSM2t4U2xjOGRvbVFualZkWnpsem9BVVd3RU5TLTdDcENCdjI0UWIyQlJURnBYVXJ2NXc4d1B2WWFhcGRMR2pmRkRvWVBfcS1CZ3M1MEh4eWM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fcba7b91b600",
+      "title": "Médico neurologista Gautama Antulio Brandão morre no DF - Metrópoles",
+      "published": "2026-07-09T18:16:00+00:00",
+      "summary": "Médico neurologista Gautama Antulio Brandão morre no DF&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdXQybDJrRk9kTElNVEpTbWFpbjVnVDhNbzFvNFpfNWh5UkM0RUx1cjljTDNUYXA1US01WmpmdEhTdzFxd3lDMGQwejA5R0ZRLVFQcmtlSVlZMm5fQW0yY0NENVlCbkxUMzhwRGFqNWxSOWs3Wk5ja05GbmhVQ25YQkVsX2tFaTJUT2J0Tm9yWmZjVmxXcGZnNkZKSkFocGF0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c37d233413e9",
+      "title": "Estudo aponta cinco subtipos de sono além de notívagos e madrugadores - Diário do Centro do Mundo",
+      "published": "2026-07-09T16:52:34+00:00",
+      "summary": "Estudo aponta cinco subtipos de sono além de notívagos e madrugadores&nbsp;&nbsp;Diário do Centro do Mundo",
+      "sources": [
+        {
+          "name": "Diário do Centro do Mundo",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMGIwSWtCaWtidjA4QUl2VEFQa2ZrUUQwa3ZnYzJhYnhYeFZtSUd0SERtaFZodmxISlo5bzR1Z2lIcEVjZVBuR0g1bndDR05tenBWb3dwcUV2RVRmdWRBVXRVTE5JS1p0QXlQSllZMlhUQkZfbUFQTGl3anZYZ19rQzBYS0s?oc=5"
         }
       ]
     },
@@ -117,7 +237,7 @@
       "id": "851bc8eaa945",
       "title": "Câncer: casos dobrarão até 2050 e OMS alerta que a maioria das pessoas será afetada de alguma forma - Estadão",
       "published": "2026-07-09T13:55:21+00:00",
-      "summary": "Câncer: casos dobrarão até 2050 e OMS alerta que a maioria das pessoas será afetada de alguma forma&nbsp;&nbsp;EstadãoOMS: 92% da população global será impactada pelo câncer; entenda&nbsp;&nbsp;O GLOBOCasos de câncer devem disparar em 2050, com acentuadas desigualdades regionais&nbsp;&nbsp;Correio BrazilienseOMS alerta: casos de cancro no mundo aumentam dois terços até 2050&nbsp;&nbsp;Euronews.comMédico da OMS afirma que 40% dos casos de câncer podem ser prevenidos&nbsp;&nbsp;UOL Notícias",
+      "summary": "Câncer: casos dobrarão até 2050 e OMS alerta que a maioria das pessoas será afetada de alguma forma&nbsp;&nbsp;EstadãoOMS: 92% da população global será impactada pelo câncer; entenda&nbsp;&nbsp;O GLOBOCasos de câncer devem disparar em 2050, com acentuadas desigualdades regionais&nbsp;&nbsp;Correio BrazilienseOMS alerta: casos de cancro no mundo aumentam dois terços até 2050&nbsp;&nbsp;EuronewsMédico da OMS afirma que 40% dos casos de câncer podem ser prevenidos&nbsp;&nbsp;UOL Notícias",
       "sources": [
         {
           "name": "Estadão",
@@ -201,23 +321,11 @@
       "id": "e8bb8738848d",
       "title": "Estudo revela limites das canetas emagrecedoras sem mudança de hábitos - Correio Braziliense",
       "published": "2026-07-09T07:20:00+00:00",
-      "summary": "Estudo revela limites das canetas emagrecedoras sem mudança de hábitos&nbsp;&nbsp;Correio BraziliensePesquisa: 75% dos usuários de canetas emagrecedoras aprovam efeitos no corpo&nbsp;&nbsp;Valor EconômicoMercado bilionário de remédios para emagrecer faz explodir a busca por fórmulas manipuladas; saiba os riscos e regras&nbsp;&nbsp;TerraEspaçolaser vê nas canetas emagrecedoras um novo motor de crescimento&nbsp;&nbsp;NeoFeedCanetas emagrecedoras: 84% reduzem consumo de alimentos industrializados&n",
+      "summary": "Estudo revela limites das canetas emagrecedoras sem mudança de hábitos&nbsp;&nbsp;Correio BraziliensePesquisa: 75% dos usuários de canetas emagrecedoras aprovam efeitos no corpo&nbsp;&nbsp;Valor EconômicoMercado bilionário de remédios para emagrecer faz explodir a busca por fórmulas manipuladas; saiba os riscos e regras&nbsp;&nbsp;TerraEspaçolaser vê nas canetas emagrecedoras um novo motor de crescimento&nbsp;&nbsp;NeoFeedEra “pós-caneta” cria novas tendências de saúde e beleza&nbsp;&nbsp;Tribun",
       "sources": [
         {
           "name": "Correio Braziliense",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNVZ6V2s0TXRKVFgxT3dPUmlmUWV5TXFWYVprdS1lZVBIcFIzQjk2LU41QTVMRlRaSGRMbzItT0k0TktiZUJEeUU5Mm5qOTBTR3p4b1NaRlZQZnBBeWo2SEdMYUlIcTVKQWp4dUltM0pySVhuSUI5aExYa1AzYmlHVTBwek9XSkFiZl9PaDJaM0hXYWNtbEpCbW1sMVY3SFZBeEY2YkFVZmlxcXdJQjVvMWdScHR0UHJJb0dCYjc1dzNfN0gwaEdmcGQ3anJmNV91TERLM3RmRkZKV19OMVHSAeMBQVVfeXFMUEFzTFBWYnctVjFvQThqdjNDY3N0UWNKUTFTUklycmdYUEZNaWJlaWxEek9TM0JlcjdlcFRSSVhRRndpb2FkdEhOVlNXaGdGOUo4amo0ZVZBd1ZpVl9MSk5zNFNWeXhfajJLZkEyeGhuMktnWHJCYzRRQmRKM1dJU184UjJZREs2aFBjQk91UHRWdjNfWHFoSkR3V19yZVJNNXJGT1prdVJOeU03bUVFeUZvRE9SMDRtLUJ5V296SmlLM21Qd3JEaGpvRzNaU2ExTXNXSk1fbGRFODlJeF95eS1PcVU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ebf1122381b4",
-      "title": "Sonda chinesa registra pela primeira vez imagens de perto da misteriosa 'segunda Lua' da Terra - O GLOBO",
-      "published": "2026-07-09T07:01:12+00:00",
-      "summary": "Sonda chinesa registra pela primeira vez imagens de perto da misteriosa 'segunda Lua' da Terra&nbsp;&nbsp;O GLOBO",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOUmt2WThYQm5NQ1NkOXZ4VlBPVjF2TU1ROTJCN0lIVkM0ejc0U2hOd0RfNzlZakRSWFlmVFVWX0RVdjlZM0F2T3FyYWJLQzlFd3RyVk91QkhxVGY3YlkzbEdpeXhxM0c3Q3J4aUYyUUNMU1B1UWpmajRzM01Ra3dBSEdqWEIwTFNObWc1dW9TdWlsS2QwN3RuNl84SWh2RWlzb01Zd2pnOEJzT3NLR0FlemgxMy1EUWN3enhSZ1hkT1p6VHJfdkdBbHJPd2pjaTJPTG5YR2ZCYzJrZlVDOC1zNDQ5anhlcGZZdUpxbHhDMF9DVzgxOWY40gGGAkFVX3lxTFAzX1lzZHJFekxFU1BDZDVyTmVOY2NWU1lSamkzcnVjOXhidDhpOHZXUC1hc0otZjV5QjAzWWFDbFk2NmViZ1JVdzZMQUcxWmZpalp2ZjYwakZKTFVkU2U4dkZlaWRGNWtMYXA2Vm8tNFNmRGY2bTgyaTkwWndPX3dEWVZFMlFyNmI1YTE4SUVRMVVoUFZNVGJpZmM1VDl5Vms4U0RJUk12SWJLYXJrY2FkLXg0cHNYQWk2d1JOeVoydkQ0Zk9MMVBJcXUzVTdrUy1LZEF2amNMYnlScG1PVUtqU1ZxMEZ5MzhKZmRMMlJSM2wydzhIRDZHNWppWUdEeVBwV3F4S1E?oc=5"
         }
       ]
     },
@@ -237,7 +345,7 @@
       "id": "1b415f2f59f0",
       "title": "Novo teste detecta câncer bucal em 1 hora e pode evitar mais de 90% das biópsias desnecessárias - G1",
       "published": "2026-07-09T06:00:11+00:00",
-      "summary": "Novo teste detecta câncer bucal em 1 hora e pode evitar mais de 90% das biópsias desnecessárias&nbsp;&nbsp;G1Novo teste com cotonete pode detectar câncer de boca em uma hora&nbsp;&nbsp;MetrópolesTeste detecta câncer bucal em apenas 1 hora e pode reduzir milhares de biópsias&nbsp;&nbsp;diariodopara.com.brPesquisadores desenvolvem teste que detecta câncer de boca em apenas uma hora&nbsp;&nbsp;scc10.com.brNovo teste detecta câncer bucal em 1 hora e reduz biópsias&nbsp;&nbsp;DOL",
+      "summary": "Novo teste detecta câncer bucal em 1 hora e pode evitar mais de 90% das biópsias desnecessárias&nbsp;&nbsp;G1Novo teste com cotonete pode detectar câncer de boca em uma hora&nbsp;&nbsp;MetrópolesPesquisadores desenvolvem teste que detecta câncer de boca em apenas uma hora&nbsp;&nbsp;SCC10Teste detecta câncer bucal em apenas 1 hora e pode reduzir milhares de biópsias&nbsp;&nbsp;diariodopara.com.brNovo teste detecta câncer bucal em 1 hora e reduz biópsias&nbsp;&nbsp;DOL",
       "sources": [
         {
           "name": "G1",
@@ -261,23 +369,11 @@
       "id": "0dc34d473502",
       "title": "Uso de tadalafila como 'pré-treino' expõe frequentadores de academias a riscos - Folha de S.Paulo",
       "published": "2026-07-09T02:00:00+00:00",
-      "summary": "Uso de tadalafila como 'pré-treino' expõe frequentadores de academias a riscos&nbsp;&nbsp;Folha de S.PauloUso indiscriminado de tadalafila no Brasil preocupa especialistas&nbsp;&nbsp;TerraComo a tadalafila virou febre nas redes sociais e por que médicos fazem um alerta&nbsp;&nbsp;G1Tadalafila vira febre entre jovens e médicos alertam para riscos do uso sem receita e como pré-treino nas academias&nbsp;&nbsp;Diário do LitoralOrientação Farmacêutica – Alerta importante sobre o uso indiscriminado da",
+      "summary": "Uso de tadalafila como 'pré-treino' expõe frequentadores de academias a riscos&nbsp;&nbsp;Folha de S.PauloUso indiscriminado de tadalafila no Brasil preocupa especialistas&nbsp;&nbsp;TerraTadalafila vira febre entre jovens e médicos alertam para riscos do uso sem receita e como pré-treino nas academias&nbsp;&nbsp;Diário do LitoralComo a tadalafila virou febre nas redes sociais e por que médicos fazem um alerta&nbsp;&nbsp;G1Orientação Farmacêutica – Alerta importante sobre o uso indiscriminado da",
       "sources": [
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSWxxWGxEcWZ4WFZaMUpRME5NajRrZDZEXy1iSVdXT1ZjUG4xZG4wdnJ6amNfMm1rYjNhUlFLR3kxNExLNmszTDJfakZPWW1Id3dSclg1SHlPT0psZHFiUFk3TlRhVzlVVzBfeGJXY2kxZ2NTb0RGOUo4TDNaaXlPM3FhclhyVlZ5azQ3eEg2a3pmTnRydUNIZ1pPOVEwRTdtazVnUWhyaFF0dUdaZU5Sd1VKejYxd3RUWW9ZazNnZ2FOdWxFUWp4ancxSQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0e605b015be1",
-      "title": "Fortaleza vai ter oito postos de saúde abertos neste fim de semana para vacinação; veja lista - G1",
-      "published": "2026-07-08T23:49:26+00:00",
-      "summary": "Fortaleza vai ter oito postos de saúde abertos neste fim de semana para vacinação; veja lista&nbsp;&nbsp;G1Veja postos de saúde abertos em Fortaleza no fim de semana&nbsp;&nbsp;O POVOPrefeitura mantém seis postos de saúde abertos neste fim de semana para vacinação, entrega de medicamentos e atendimento de síndromes respiratórias&nbsp;&nbsp;Prefeitura de FortalezaFortaleza abre seis postos de saúde neste fim de semana para vacinação&nbsp;&nbsp;OpiniãoCE",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaFRVNWh2WERReW9wNkNPeTJzTDVvLVZ2T2dtdkpVNGhNeTRZWEVuT0h1UHJ1TFFWSEpOTDBUc2ZpWTBGTE5aLVczdkdwN1hHYVE3SWk2REZqVUx6eFEzdEZYY3JLQk8xbWpBY2tsRDhOYzJFUjh6cXFILXpPVDdYd1M1R3ZEZ08wcmQyVnpHbmF5VG03cHFsb2dLRWRnaFVqanRCS29ZY0paWGpkQW9QbmQ1ZkZMakxnSy1YSDVxQ1hkZ1pHdFNFb050LVlGQTlBV1HSAeABQVVfeXFMTk9kVEtWTmNQRWFheENTelRmRFpOTEtGLWRnc0pXMW96OWRUQWt3VUtZT1RuVHRnSVBxa3NNVy1aLUU3UDdfaExhRDF3dFdhNTBOMkhRLW1Dc2hVb3ZISHgxejM0MWxZVDVNV0xUU2Y5VFFzNENNamIyN1Ria1MtOWNsaXoyYUotdGFVV0pjancxTHlTbWc3WGlhWDgzNkJLS2twM0tETTRXX2JPYk9sQ19LbzZNVEhWZUJPdFBNdmpLQUl6aF94MkRiUW5pdEMzNEg1UGlRYi03U25zLXVoUGM?oc=5"
         }
       ]
     },
@@ -294,18 +390,6 @@
       ]
     },
     {
-      "id": "dc7333babb35",
-      "title": "Família sem renda precisa de socorro para cuidar de mulher acamada após AVC - CGN",
-      "published": "2026-07-08T21:38:00+00:00",
-      "summary": "Família sem renda precisa de socorro para cuidar de mulher acamada após AVC&nbsp;&nbsp;CGN",
-      "sources": [
-        {
-          "name": "CGN",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY0phSjBjWU8tYkVLQ0hrOG5iWTdPck9HanJCdW5lb3BvalZ6N3oyZE9NWmtwZ3I0RXhXMlRXaEFQR3BLTWpTMkFacHZQdGt2UXBhR2tmaDV2REQ0TnhTNlhUel8ybmRlRGl4VkVRTTBjQUJIZ3ZncHFIU0J6YWVlbE9USjMyRWRiYUFTNDZQT1V4d01tQ2w5ck5SNFNnSGtwRXFqbEpRdUdBNDhHNm9N0gG0AUFVX3lxTE41bkRhaEFBQUJnWkpQZHRsN2J5LUo2ZTc1UzdlZUNFVy0xNlNwWkZmbTdxNkhWSXhjTGFfbzBKUE5CTG5tN3JYRmtKSUpCTkI4S3VvS0lFOWhDNWhFNEFBWEJ5Q0NQQkItOFZzNFpPN2RVOUlDaVFrTk5LUjBvUF9CQ0Q0ZUhBZFhMZjRvbTlycWx6empPX2I5NGIwWEVaMzdyWVJ0YkNTb3QzQkl6ZjhFR0VzMg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5d17912e16da",
       "title": "MCR Amidos abre vaga para auxiliar de laboratório de classificação com diversos benefícios - Ponto da Notícia",
       "published": "2026-07-08T20:56:29+00:00",
@@ -318,30 +402,6 @@
       ]
     },
     {
-      "id": "fea891f60e32",
-      "title": "Por que não temos memórias da primeira infância? Estudo explica - Aventuras na História",
-      "published": "2026-07-08T20:16:05+00:00",
-      "summary": "Por que não temos memórias da primeira infância? Estudo explica&nbsp;&nbsp;Aventuras na História",
-      "sources": [
-        {
-          "name": "Aventuras na História",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaHlia243eTZiMHBHYW5pdGwwd1ZEN2dQT3lWWmxuTVB1WHdKZFhzelFIb24tNzZxMUR1UEFlakFrMVBkcXJ1X2FNM0d4bXlYZ19VZHhXQTZObVMwc0gtX2VqdE0yLXR5RW9lemRTbHRtZmhVNU0weHRXY3ZxOTNod0JYVjFrTGVRZFlHcERsRkNaTFNGc25aVE5LdW1rcFVoQUZ3TU9hbTFGQVlfZmVsVnR2QnJoNU12Y1hsUHhKTzUzUjFr?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "98dc50faf537",
-      "title": "O que é gastrite autoimune, doença de empresário que gasta milhões para não envelhecer - Estadão",
-      "published": "2026-07-08T19:01:18+00:00",
-      "summary": "O que é gastrite autoimune, doença de empresário que gasta milhões para não envelhecer&nbsp;&nbsp;EstadãoBryan Johnson, famoso por buscar rejuvenescer, revela diagnóstico de gastrite autoimune&nbsp;&nbsp;G1O que é gastrite autoimune, doença de milionário que não quer envelhecer&nbsp;&nbsp;UOLQuem é Bryan Johnson, o bilionário obcecado em voltar aos 18 anos&nbsp;&nbsp;Portal UAIO que as pessoas entenderam errado sobre o diagnóstico de Bryan Johnson&nbsp;&nbsp;Fast Company Brasil",
-      "sources": [
-        {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUkJUOWtsMjU4QkpHMzQ3d09QODFVSVNTX29xTEdvWm82V1ZhNmY1M0lVTS1EalhFQ0s4eXlZdmx6RXVkbzFieW5udTR4b18wUmFiWHZIR29BXzdkblR1WXpUSkp6R2lBc0M0azF1QW1HbWVpenl0Ykl1QzVkNnV1VzBQLXM0U3BwdFpaMlBOa2hXZ0JkLTBJdGp4OGFLOG5EMUxlMGo0UjdRUnB5NENzYU5QVTl0aFdPX3JhZ0djQXJQRFZRTVdiNUVpN3NxdEtRN1l0bm5vczNlam_SAeABQVVfeXFMUDhiU1k5NUNraEQ1WEZfSzhub1pva0xvalNPVVR6MlYwbWNNOG1KSjY1R1p1bEFza0d0WVRDMkxJeGJ1Y0ViZ2tzT1JqX0lXR2Zja09GWl9xMmNKNnlMZEV3NXZlREpOSXhkRGtPRFBXeFJvREJmME56ZE1CXzNPX0RGWEdMd2JqU1AyZHM4a3oyRUxuOXJseW9Fc2ZFTXZjVnVzdHM0SktEd2VqVVgzMXZ3VTZSVnZMS0MtRmRmY1BXS1NlbGRZbmFvZHpsNmFTdS1qNUprUmFYXzBmcHlhdFE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "38aaf51737b4",
       "title": "Chamada pública seleciona pesquisas avaliativas de políticas de saúde — Ministério da Saúde - www.gov.br",
       "published": "2026-07-08T18:36:00+00:00",
@@ -350,42 +410,6 @@
         {
           "name": "www.gov.br",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUm80U0JyMHVqZVhyODd2RTJoeWZ5Unl6amNQdjhQWVRZZG1yYjI4a1paVlJIR3gtR0V1aGk4Y3JnYWZHaVNhLVE2d0I4MFd5YVgxNGZtbXNBam1aR2hpWWNFaUowdDM0MkZ6NmRxOE9GZEdmTlNYQ1VIZGVsY25PMExyall4Rzl4YjNaUmxXNzVLMXpQMTMyNUFvbnJKajZnNzkwS0ZkVVNLazJpZFc3VWJISjI1UEpSaWdfd0dyWXp0bkF4c1EySUlmS0M?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e865d889b95c",
-      "title": "Sintoma 'constrangedor' pode ser sinal de alerta para câncer colorretal - Extra online",
-      "published": "2026-07-08T15:08:17+00:00",
-      "summary": "Sintoma 'constrangedor' pode ser sinal de alerta para câncer colorretal&nbsp;&nbsp;Extra onlineMuita atenção! Este sintoma pouco falado pode indicar cancro colorretal&nbsp;&nbsp;Notícias ao MinutoCâncer colorretal: estudo aponta que fatores presentes desde o nascimento podem influenciar risco da doença em adultos jovens&nbsp;&nbsp;guairanews.com",
-      "sources": [
-        {
-          "name": "Extra online",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeWhJNEZ2a19oNTdBWmdxMUFtcE1MbkE2MlA5QzU5bVpZMDZKZmpaWm9KMUpUSG1jdlByQVFaUjFNNkwtU2ZhRDlKNDdGZ1RqdDVzeFpyR25lU0YtWGpMSXdKNXlmc3NzVkFtWmgwaXdTOE85WWJYUnVKZzRNR3Fnbkw3WG5iWmlrVTFXeUtIVW5HTE1Bcnh6R0pHYjZpYm04QUduRkNoVUF6TnN4dzRuRXFPZm1NbVZ2c0Z0OUJR0gHMAUFVX3lxTE5HeXZiUFBLa2J4WXc2WkZSUTlRYUlwUXFmeDlTZzAwRnBibFc5M0ZmNlNlMHk3VW1lMHlLUmlDc1FsYjhVN1FzdVRvQXB2WFItRHBHdHpiSUNLZ20yN3NDc25iSGljU1pYemNaRjNNajRkRWZCcVpRanB5LTAtN1FhWkdkQVdqVDRtYkxhSnUydEw4d2t4S19PYnBWTkNmTUY5VGRSbkJOeFV0V1RzZE9zTlMtWnk5QWJCYzNFckloVU5QZ1gtMTJTWW4wTg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "66a233fa253e",
-      "title": "O que suas lágrimas podem dizer sobre seu cérebro, segundo estudo brasileiro - Globo",
-      "published": "2026-07-08T14:55:03+00:00",
-      "summary": "O que suas lágrimas podem dizer sobre seu cérebro, segundo estudo brasileiro&nbsp;&nbsp;Globo",
-      "sources": [
-        {
-          "name": "Globo",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZU9WOUc1R2h6cXpGS1ZnTTRRRnJpVExMQVpSWlo5WUpZbGZDQ055OFRHRzhQM2tkc0l2OXdwR1NYdVZRbVFEV0tLMlNSQUJlSHVPY0lOQjFYRC1GazRBN1FlT3hjYmM0YlJ2SXBwMFI1WGx4QUdValNlV3Jha1JneFZGN3lCclJkcnpRMEV5VWtEUGp3aGFpSkprNXFXZnFQSl9mNkNBcXl0ODNOZzJ1UTZPRFduOENDWkpnbGQ5dTdFYUx5c2pEQmhvSl9uUUNzbGfSAeABQVVfeXFMTWdXRnBvYXQtQXp6aG05ZDQzRkxlYjExRkdoVk9wWTJGVktpWjNUel9GT254UXpaNHFZTnpSZjF3UXgwRThvOFh0M2prWUUwMXNxdkxQTFhIT0xKYjM3WjVmTnFMazBoZ3h2QzlYLUtqdUVHeHg4ZmZVVzhfWEJSNTNqTUJKZGZVd3pnNEFlcE44U2xrR293SzdWeWt0NXY5VVVTUV9vSWhCSmk5RGZ3c2JsczQxX2RlRm51Sl9HNzVwckZLTDUtVS1CY2FWTkRyNlFsUlZXYXJXem1xT3FNSmU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ea281253790d",
-      "title": "Perdeu a carteira de vacinação? Entenda quando é preciso tomar tudo de novo - UOL",
-      "published": "2026-07-08T10:36:37+00:00",
-      "summary": "Perdeu a carteira de vacinação? Entenda quando é preciso tomar tudo de novo&nbsp;&nbsp;UOLO que fazer ao perder a carteira de vacinação? Veja quando é preciso repetir as doses | Saúde | O Liberal&nbsp;&nbsp;O Liberal",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZjZvcXRONi00XzVGYmxNRy1fMDFhN0JreTlwcXNURzQ3SU9iT2lyX1o2YjUxSUVsZFJGRXZNSExObHE3Umc4WFpFQU52Z05WeEsyS3pneko2RGZEZHhjMmNJSEcyTTZ5UGRSazZVRzFUeHh0MHFuZXhPQmU3YlFjSEVYWU1vRXhJREhOR09QYS1UR3ZSQkxPdHFFY0tjd25OTy12dGdJVlJpZW5oRE14aGJsSWJzdDV0TDFtazdNTmx1eXR3SHd5VUxadEx0d0tPMTlIRQ?oc=5"
         }
       ]
     }
