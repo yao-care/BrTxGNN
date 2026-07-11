@@ -1,10 +1,22 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-07-11T13:23:01.637635+00:00",
+  "fetched_at": "2026-07-11T19:06:18.535370+00:00",
   "total_fetched": 86,
-  "unique_count": 86,
-  "health_related_count": 30,
+  "unique_count": 85,
+  "health_related_count": 29,
   "news": [
+    {
+      "id": "9115fccd27e3",
+      "title": "INMET alerta para risco de temporais neste sábado. Frente fria deve derrubar temperaturas na região de Marília - Visão Notícias",
+      "published": "2026-07-11T17:00:00+00:00",
+      "summary": "INMET alerta para risco de temporais neste sábado. Frente fria deve derrubar temperaturas na região de Marília&nbsp;&nbsp;Visão Notícias",
+      "sources": [
+        {
+          "name": "Visão Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWFplVEdfbmctRWkzNGctRm1abVBZdFZjY3MwamFvNDhYdUxTQVRMdjZxUW5TOEtmUWFHTGZwSVY1RE9zbkd2RTRaZ2FlejVkSWNoaGc1aVV5X3VqT0IyX0d4NHRQYm15VEFnWGo4OEl6bC1nVGZfVmZ4QWR2TG40TVVoQ0pxRUhSeDZtbkZhVWxLNDluYkpCdHQ4Z2tZbXpJRnJVSVhuR3M3d1E3M0xlVTFxOGlSTkN4eW5IUTVnWGVrQ2IxbnN6SVpSRVF0UFJxWTlKR2FvWGMweEZ2bHZYVGxCU1BxaWFX?oc=5"
+        }
+      ]
+    },
     {
       "id": "8e391a162231",
       "title": "Do hype à ciência: o que o caso Virginia revela sobre a febre da soroterapia - G1",
@@ -18,6 +30,18 @@
       ]
     },
     {
+      "id": "de7b1ccb2754",
+      "title": "Par de robôs humanoides realiza primeira cirurgia sozinhos, em marco para a medicina - TNH1",
+      "published": "2026-07-11T11:12:35+00:00",
+      "summary": "Par de robôs humanoides realiza primeira cirurgia sozinhos, em marco para a medicina&nbsp;&nbsp;TNH1",
+      "sources": [
+        {
+          "name": "TNH1",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGdPMWlqWS1mSzBXWVVYRXNlX3ZqS2pfeDhTbUlyY05Wbjc1UVNxbExGR2pxZXRXY0ZuaG9wWUpuUkpqTG5wREtNdHhlTElWRWxaOExNNjFRc3RBXzk1U0s3cG0wc241MTE0VW9NYjVFckRvNXNXZWh1RXRXR2dzNWctVXVjbUhtSHcwUDU2LWFxeFdhRkNSeG9PUUFQQ2RwbU5wb0h3VUM2UHVvRkE3MFBseENJY1FaX3A5TtIBtwFBVV95cUxQZzJrcGdKb3diUnN5czNzcGlHZzBUS0pfSzdqSWdEdDFOTC1XbE9ldHVCRjl4dHhTSUhMS1Nyc0dZQ0JKdlIwOGtmczR0eV9ocUhPWW1VRkdjZHhQTjRtckxzOWhqNUtGdDdpeFdGbEpYMHY3TjRBQjV2RHVrc2VuZWtoZGUtVjdjVUFfLU5KQ0RRRHJhSFMtMVpPVFRVWVEyNFZmWDR6MEZ2VzQwYzltWWN6Vi1CMU0?oc=5"
+        }
+      ]
+    },
+    {
       "id": "3584a332f399",
       "title": "Fruta ajuda a aliviar os sintomas da gripe e limpar os pulmões; saiba qual - ICL Notícias",
       "published": "2026-07-11T10:00:59+00:00",
@@ -26,6 +50,30 @@
         {
           "name": "ICL Notícias",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tWl9pbThoMUlFbUJLV254SUwxZFhCS0dlMnhrZ0V6dVJNRWRUSEZjakRuenAtM3hOLWxHNWNXcE10VXVGMEhvb0dSc2huOG15cDQ0UnNHOFJGRzJwTFIxNWxacjdveGZJbmlSd1B3WkZaRXZpM1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fb6a24f1a7b3",
+      "title": "Menopausa: o que muda no corpo? Especialistas explicam com Dr. Kalil - CNN Brasil",
+      "published": "2026-07-11T09:00:03+00:00",
+      "summary": "Menopausa: o que muda no corpo? Especialistas explicam com Dr. Kalil&nbsp;&nbsp;CNN BrasilSaúde do coração está ligada à menopausa: especialistas explicam relação&nbsp;&nbsp;CNN BrasilJosé Manuel Martínez, ginecologista: 'As palpitações na menopausa podem surgir devido à deficiência hormonal; se a taquicardia for persistente, é recomendável realizar um exame'&nbsp;&nbsp;TerraMenopausa e reposição hormonal: ciência atualizada e o fim de um medo antigo&nbsp;&nbsp;Correio do LagoComo equilibrar os ",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN3pNeGRQTkJ2elV3bUJpUFUzMVdGRHNtTHFLT09sQlVUSWF4eWZkSThRdDZPaDlyZnFPVVJ0Sk9TN3VJaVN6SkFtUzlkZ0RCR3VyUDByQjh5Z3RUNnJTU28wcmI2dFkxTS1oT09IM3BRME1VMUI4eEg3NWJadXVQSmc5N055ZG5jRFFRTGpMb1RuN0xnRGJlRWtVVTM1NGFSVV9r?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "31766596bd96",
+      "title": "'Superpoderes' de camundongo adaptado a altitudes extremas podem ajudar a medicina - O GLOBO",
+      "published": "2026-07-11T07:01:09+00:00",
+      "summary": "'Superpoderes' de camundongo adaptado a altitudes extremas podem ajudar a medicina&nbsp;&nbsp;O GLOBO",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZ2FFanZsSjZoOFpvaU55UERiYzFfYjhpczdxMzMxaUJYcVZvdlZkSGlzNlZ0aThQRjZsTHhDUkw1SjdHNzRDb3RJaTdCMUZaYTlfbC02cnZzSXg1NTlhRlVwajZLV0VWb0pldXhxLWVLeGpOU3d5N3lxS3Z3ZllPbWU0VTVyNmlfTEFhN2tQLVR2dU00WGllTHlPeGdJbGlsWlFmWUZnRXpWNkMyaG1NczhaMU8xVjNvdHJ1QkFfd0xPMHE5TGM4Mk5ndjRNazdVbkMxc21RQnRtYnBC0gHrAUFVX3lxTE9OLU1WWWpiemVLM0QzZTBUbmxCTDJEQXhRSUFxVERfejVPU3BpVlEySmFhVGxSMEFxUkRQVWVvb1JUdHdWQWI1eEtabHo0RjNlTVdVOWZEMGVlTXQ1WXFpV1lLcDd5UnhJZWlhZDJSdUltdy1lZG5rZThWRGhhTjljSWVPeEtJY1I4eDhyVU1UYVowNnJST2c0dnJIRU0tMzJRRWViTks5UHdQaXlzRkZTZ3VLR1Q5MFAwWGlGY2ZZUW5uSVB1MV90dnBoX3FPUmYxR29EczhUZ1FpaTE1V1VYY2VNeDVMNFh2U2s?oc=5"
         }
       ]
     },
@@ -50,6 +98,18 @@
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRGdlN1lCanQ0ZjI4T2VBVFBwdkxNaXJPQVNRbmE5dXE2Sy14U3dfdGd0cDByMmV3V2hTUWxFb0ZLM0lvLUw1ZDhubXFNYkZIWTQ4SUdOVWY2S0tnektHUWFDWU5GaXRsOWhkZEx3YXcwS1dCOVR3RmFBUWRvWGhhQ3BkUHBVOTJpTldHLVVReU5ER1ZZZ2VKWEU5OG02U2ZOZnQtRTlBRjM3Q2dDSHQwLXMwd1dEck5yMWNF0gHKAUFVX3lxTFB4aWZRTXQwNDg2OGpQcVBIcjRzMW8wemhMMHEzcFhQbUFzWlRQQWU1b1NBS2M1RFV3eWgtR0thY19TRW5KNjBSc3VTdFhweUFqaFB3NjE3bXNXMk9mWmxYeGRvMUZDcG84al9CSDZSY21vUW9mUm42czRuT21NTUxENTFGZzJoOWVRM1hqc2xRMGVsYlRseDZJY0ZMcGlCZkVzeVE1OUdMX2hieTUyNWVwWGNvTUVGUUpGVjlCZ3FxUkxGN0YzUFZFV1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3253bef621d4",
+      "title": "Você dorme pouco? Veja o efeito que isso pode ter no seu corpo - Casa Vogue",
+      "published": "2026-07-11T02:24:35+00:00",
+      "summary": "Você dorme pouco? Veja o efeito que isso pode ter no seu corpo&nbsp;&nbsp;Casa VogueQuanto tempo de redução do sono por noite já leva ao ganho de peso? Estudo revela&nbsp;&nbsp;VEJADormir menos pode levar a aumento de peso: meio quilo a cada 6 semanas, de acordo com estudo&nbsp;&nbsp;TerraDormir bem influencia na produção hormonal e fortalece a imunidade e a cognição&nbsp;&nbsp;www.gov.brDormir pouco engorda? Estudo revela efeito de perder 80 minutos de sono&nbsp;&nbsp;Exame",
+      "sources": [
+        {
+          "name": "Casa Vogue",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZU1mR2I1c1JZM0UyUXJTTGwxenJQa3RCNnZndl8wV19LYkNiMWdIZTluVmJqUFhoM2hLUjVfMzY2VGVyUG5uZ0Q1cjQ2SWp5SEFwczhxcXUyTThCSzRBMzlWZHlETldQRWFlZ2FYaVNSUXFtQ1ZCc1F3LTZuZXB0U09KMXhCMWI5NDdRQTFYOExKNEt5WlpwSV9WWWJwNTF0ZmlpbkszaTdKRU1FMS1kajhpOE80cUY00gHHAUFVX3lxTE9CeG9ydVIyaUJTV3VROEJxLWcyazVpYmRQSjhnZXVFRjI2LWJoNFNzZEJMdVZ0NzdkVjItNi1CUEJkOHVYVmcxeUxLbGdlb2FCbDQ3ckxNTktXbGJTSHVsYjkwWGp5T2ZFdDBaWEptM2FUSTlzaFN0VWJGc1pxMDNhTHI2V2l4NVBLTjBoZW40LUpTZGVnQVJpczFfV1pOMjlQM3RSelY4dzZlUk9MekR1bkpYRmFiUUh4aXUwOVhKQld3dDg4YjQ?oc=5"
         }
       ]
     },
@@ -150,6 +210,18 @@
       ]
     },
     {
+      "id": "f634df4a1b4f",
+      "title": "Pesquisadores criam guia inédito para identificar árvores nativas de MT - Rdnews",
+      "published": "2026-07-10T18:09:00+00:00",
+      "summary": "Pesquisadores criam guia inédito para identificar árvores nativas de MT&nbsp;&nbsp;Rdnews",
+      "sources": [
+        {
+          "name": "Rdnews",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYmdBeVNiQ1Y0bkdMNld4LXplMFVvMmU4WEhPZjZLa0RtWjd5eFZORHRXSjJYaVRnRXQ1QUlrbnRnVjBONXFoYTF4UTZNY0VUNnhqY2h4LVZ6VHNUdUNhVktQVVFKM0xqVVN1Nl9vYnhSZ250U1dVLTNJd0FnUXhJZXBYZklyNXdqaHcxbnFhQU5oXzFaU2pIbDJDZ04teWZTaVV5bllzMmp4LUZmWWkwZjN3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c27eaf814d44",
       "title": "Fóssil de 550 milhões de anos encontrado na Austrália revela criatura parecida com uma minhoca que já escolhia o lado direito para se mover e pode ser o primeiro animal “destro” conhecido pela ciência - CPG Click Petróleo e Gás",
       "published": "2026-07-10T18:04:00+00:00",
@@ -165,7 +237,7 @@
       "id": "62ff32e391ff",
       "title": "Câncer deve impactar mais de 92% da população: entenda os reais motivos do avanço da doença no mundo - O TEMPO",
       "published": "2026-07-10T16:53:37+00:00",
-      "summary": "Câncer deve impactar mais de 92% da população: entenda os reais motivos do avanço da doença no mundo&nbsp;&nbsp;O TEMPOCâncer: casos dobrarão até 2050 e OMS alerta que a maioria das pessoas será afetada de alguma forma&nbsp;&nbsp;Estadão“São recursos monstruosos que estão em jogo”&nbsp;&nbsp;ParaibaOnlineCâncer: É como se um bairro inteiro de Salvador desaparecesse todos os dias&nbsp;&nbsp;Jornal CorreioOMS: 92% da população global será impactada pelo câncer; entenda&nbsp;&nbsp;O GLOBO",
+      "summary": "Câncer deve impactar mais de 92% da população: entenda os reais motivos do avanço da doença no mundo&nbsp;&nbsp;O TEMPONovos casos de câncer devem quase dobrar até 2050, alerta OMS&nbsp;&nbsp;CNN Brasil“São recursos monstruosos que estão em jogo”&nbsp;&nbsp;ParaibaOnlineCâncer: É como se um bairro inteiro de Salvador desaparecesse todos os dias&nbsp;&nbsp;Jornal CorreioOMS: 92% da população global será impactada pelo câncer; entenda&nbsp;&nbsp;O GLOBO",
       "sources": [
         {
           "name": "O TEMPO",
@@ -186,50 +258,14 @@
       ]
     },
     {
-      "id": "b68173452731",
-      "title": "O sinal de demência que aparece 15 ANOS antes do diagnóstico precoce - Gazeta Brasil",
-      "published": "2026-07-10T15:41:05+00:00",
-      "summary": "O sinal de demência que aparece 15 ANOS antes do diagnóstico precoce&nbsp;&nbsp;Gazeta Brasil",
-      "sources": [
-        {
-          "name": "Gazeta Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTHN3QTd5OFRmekJQREVDeDUwc0Q4QzRERXJPSkdWNTVjbFJkMEFTQmxOMmZhamdoTDh6OFc5blNFLWcyNFBWak9vVk1fX1ZfbTlHd1Y2YlQ0dWZSUVAtYTlobmpfdVFwMXluQnZ1RmNYSFNhQkUwSHlsdHdjTjBzUGF5ZVp5aTBsbXBsZWpDRVRYVUVWaG9nM0NjQmJ3M2tWWjRGSTlJaHpGbkhwc0pjZllrWnZJZUhpbnJmUG01YzJqWUnSAcsBQVVfeXFMUDJ4SmhTcEh2amdkaW8zSVd1M3NpeTZMbmM1NHJBNlNabWlLMnFxRHU4QjUxNmc0cWlYMHRFSHpSVDJvajFhRmVsTTRoU1FrZ05VeTVtTEEyNVVuNWNNUVJ6VHp5WXBMQTNsWHNveDlwUUpIR21VYWdRRUdwVmZqbkhnelI4UUpCcHRHT05iMGsxWVRaU1BwN01ZajRIWGpmNlhrTXgxTTFBYUtDRUdjRGp0RURGWmN1WnNaM29GcXpDVHotbHFibm0zRTg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "87ba7e925032",
-      "title": "Uma lagarta recém-descoberta no Havaí veste os restos das presas que devorou como uma armadura macabra, costurando ossos e cascas de insetos ao próprio dorso para se camuflar - CPG Click Petróleo e Gás",
-      "published": "2026-07-10T15:06:00+00:00",
-      "summary": "Uma lagarta recém-descoberta no Havaí veste os restos das presas que devorou como uma armadura macabra, costurando ossos e cascas de insetos ao próprio dorso para se camuflar&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeEg0emZCVnIwYVJ0WGJNMHBkYXowaDY4ODBERUI0OGZIUnJYSEtIR1BsanNuRmlJTU8wU2JYUm5SZ0FFalAxTGRzWjdiQlM5cmhzX1BSSGJocWRKaW9Sa2ozUF9abjE4alh2WG42MnNFZHYtdlpFdHdSazlKaG5oR0p5VXdPTU5KTUkxSzR4Y1dXUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5df9f6b86a0d",
       "title": "Pesquisador brasileiro é premiado na Alemanha por descoberta que pode abrir caminho contra o câncer - G1",
       "published": "2026-07-10T15:02:50+00:00",
-      "summary": "Pesquisador brasileiro é premiado na Alemanha por descoberta que pode abrir caminho contra o câncer&nbsp;&nbsp;G1Brasileiro vence 'Oscar da pesquisa' contra o câncer na Alemanha&nbsp;&nbsp;Correio BrazilienseCientista brasileiro é premiado por estudo sobre tratamento de câncer&nbsp;&nbsp;MetrópolesCâncer: pesquisa premiada de brasileiro pode inspirar novos tratamentos&nbsp;&nbsp;Olhar DigitalCientista brasileiro recebe o Prêmio Alemão do Câncer por pesquisa que mira tumores resistentes&nbsp;&nbs",
+      "summary": "Pesquisador brasileiro é premiado na Alemanha por descoberta que pode abrir caminho contra o câncer&nbsp;&nbsp;G1Cientista brasileiro é premiado na Alemanha por descoberta contra câncer&nbsp;&nbsp;Folha de S.PauloCientista brasileiro premiado na Alemanha&nbsp;&nbsp;G1Brasileiro ganha um dos principais prêmios da Alemanha por pesquisa sobre câncer&nbsp;&nbsp;Alô Alô BahiaBrasileiro vence 'Oscar da pesquisa' contra o câncer na Alemanha&nbsp;&nbsp;Correio Braziliense",
       "sources": [
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYVVFaXVGdFNyTGJmN2JYUm5ZUDJNaXd6NGdmOHR5X3ZKSWRrU3MwVjgwMm11akR3b291SW8zRHZzdHMwUXh6WDg3TjRrLVNIb3hyWGdxUnlPb3dwTWNNWFpuS2wyWEozODY5alZRZG9keDZCRHMxeEU3QWZ6SmhPdTM4a3FVM1hkX2JNc3A5eWp6T3dzMGU4eHFjeEptNHhucjhvMUFXV2RibkRod2lWbk9fZTFlM1p0OC05YnFhcUo4RnQ5RW5tbnpJSDRfUUl4WjRHdWhaMTV6ZUQ0QUZDSVQzREZyd9IB9AFBVV95cUxNSUZhSjJaRWNIcEc1VUZZeURBRUNhNTY5LUxnOXNlZmVGRUN0bWZRbkF2WnBlY1ZLVHJYNlZTa1RIMWFlTElYUHdIVkxYelpBYThZbldUZVlUWjRtS3hZTzVvRnBrUlRucUlJU0o2Z1VVSTNEVHdLbVQteWJnM1diNDd1cGJsYVZ1ZUNYalp1eEJXZDI0X2k5QzVqN0J4aS1EWGpVU2t6UE5zTE5pSFFNNVVpNElmcVYzbXNYS3BuMnhNc0JNMVdLbkE2aHB4cGFqakJRMll2NDZIWkJOM3NnZFA0NHUydGdObElDS3BaOVRhSWVo?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ead968908566",
-      "title": "Aluno surdo de 3 anos recebeu o primeiro grau branco no Jiu-Jitsu e entendeu a conquista porque a professora aprendeu Libras para se comunicar com ele, em vídeo que passou de 7 milhões de visualizações e emocionou as redes ao mostrar inclusão aco - CPG Click Petróleo e Gás",
-      "published": "2026-07-10T14:48:00+00:00",
-      "summary": "Aluno surdo de 3 anos recebeu o primeiro grau branco no Jiu-Jitsu e entendeu a conquista porque a professora aprendeu Libras para se comunicar com ele, em vídeo que passou de 7 milhões de visualizações e emocionou as redes ao mostrar inclusão aco&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNX1Z0UWxCYWtCUGNrdGx1QTN5TGNDbUxBbDF0V1huLUlYQUJKeWkwbFJocjAxS1kySEpyTDdXcmd3blEtWThsbjh3TDVwZjdpZnplaEh2a3hRVWw2R0Y2ekgtcEYxT2hHbUZQcXlMYVRmQjNSdjFUZjY0TE1HNERPRDFmdEhNTXROM2Zha2V2LUdyTVdyMmxLRnQ3M0ZqTWg5a05oZG9EZ1dRZlB5clMwUXczY3BUV1I1WTh0cWQtaUUwYU9HRnhmclYzUGZNaWpCWVRuSzExaTlsV1ZOSWFZUm41eTNBN3F0ai1vMTluSkNHYUd1VUgwS0hVY2ViVF9fTW1yUTRlTG9oOGVpakVFSW5XQVdWcFV0V1U0WjVheEpDR2s2QlEycWViR01zYnl2M1NjdUUta3NwVXM?oc=5"
         }
       ]
     },
@@ -246,6 +282,18 @@
       ]
     },
     {
+      "id": "4f9ebef71bf7",
+      "title": "A psicologia alerta: ouvir estas 5 frases pode ser um sinal de que você está sendo manipulado - Minha Vida Saúde",
+      "published": "2026-07-10T13:10:51+00:00",
+      "summary": "A psicologia alerta: ouvir estas 5 frases pode ser um sinal de que você está sendo manipulado&nbsp;&nbsp;Minha Vida Saúde",
+      "sources": [
+        {
+          "name": "Minha Vida Saúde",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tbjJVcWZKdUROd3FHVGl2dmZ5ZHJKZGVSS2t0RVVWeENYSEFuc3B6ZFl0Y2VSTXlKOGg1cG1JTmh4UlVjTXVyUTljUW5CYkdzRm5IdWtQQVkwdGNaZXh6VdIBZkFVX3lxTFBUMjdUb2JYSWlZTlcxSzMxVlFndDUyc3hISlNsSXpPNEZFUXVKRThpR0ZIc2lyUzVPVTJ5aXdwVzVIdTI0N2oxRUFsRTEwc2oyWE5UZHFvajY3MndIRzAydnplYUg2Zw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "246572bac475",
       "title": "Médicos da Santa Casa de Maceió participam de congresso sobre avanços no tratamento do câncer de pulmão - Santa Casa de Maceió",
       "published": "2026-07-10T11:38:38+00:00",
@@ -254,30 +302,6 @@
         {
           "name": "Santa Casa de Maceió",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdUluMDViRFQ1eHdhQjVGT1hObjZUOUVCZTB0aHpabTczakNKNERObmdkZFZCWWxRMFhyaW5lamdDdjdUMFVNMy00WEZBQi0wclRJTUl5bWY2QnNhXzM1c2JZQS1oOTBGcTduaGtKVktZelA2ZktwR0FpVWZCdmdlanVRWkpkM2Z4UGFVM0lObUNKZF9Mdy1XLWN0bm1WU2hXRWJoOWE2RUtmeWYyUVFyaVJLSW5PbnpRbTFnbHdTR09PcDJ4VWVkbmZNQnZyTC1MSnNwNHNfbUZXMTdWZ0E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "77e1157360b9",
-      "title": "Euclid leva à descoberta de 31 quasares, um dos objetos mais luminosos do Universo - Folha de S.Paulo",
-      "published": "2026-07-10T09:00:00+00:00",
-      "summary": "Euclid leva à descoberta de 31 quasares, um dos objetos mais luminosos do Universo&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSFVkZUl6b3N5MDZQNXdfcjJZdkxLNG56ZFo5RGxQbVkweEJFOTNUdFpMVkIyQmd5bGNHVzR5NFZjNklXc2xGdHlfRWstTTYzcDBiWEt4QnBVazAwNWJKTjQzd0I4MHQxWDhPemlaQllEbmdMbXZwcl83SW1qU0RoY3JKMFJ4UGtzSTBSRFF1TjRCWnNnVTNPemlWSEUyUGpFRUpRVWdneHBRcFZDVzNvMmZtdEwxNENvbkpCT0gxeUQyOVpXd1ktM2x5VWcxQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e6ab60a318a4",
-      "title": "Calor faz besouros machos terem comportamento gay? Estudo analisa efeito do aquecimento - G1",
-      "published": "2026-07-10T08:04:24+00:00",
-      "summary": "Calor faz besouros machos terem comportamento gay? Estudo analisa efeito do aquecimento&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTWxMUlNENzdpMVQ5dUVzX0RHQ2lVTjdRdnhzcWllX0p0SjdOVVRPQzBkMEpPODNkZm5hZ3RqN0ppVFF2dHNnX0RuYWtab1l1aV9fSFNSM2RPZVFNb0o1MmpSS2N3bWY5WXNhQ0JTT2g0UW9mSXZvWGh2QlVZT1ZmOXMwSkRCS0hpRzZsa3NRZEowSzUzNEpUWkNlN0pXd9IBrAFBVV95cUxPcW1TWHNyM3d6N0dnX09aTmwzdUtpVW80dEJ6bC13MjBaRmRlTXdkbVBMSXVwSk01UzNEQkdSZEhla000ZEotS2RxWWpvQmZWN1VxbGhsS2tpVHI4MnpKdEVuakhyNjBUcjUxcGRHWVNOR1oxTlYzYWVyeGczN0Qyc1dVaXJxdHRFMzRyNUg3UHR6TXVqZHk4M1QzeUktNU9sWEkwZ213TnBSU29y?oc=5"
         }
       ]
     },
@@ -294,74 +318,38 @@
       ]
     },
     {
-      "id": "f80d7a66ddf0",
-      "title": "Álcool é uma das drogas mais perigosas, afirma especialista em vício - O GLOBO",
-      "published": "2026-07-10T07:30:31+00:00",
-      "summary": "Álcool é uma das drogas mais perigosas, afirma especialista em vício&nbsp;&nbsp;O GLOBORiscos do álcool: por que a bebida é tão presente na sociedade?&nbsp;&nbsp;G1Alcoolismo e trabalho: entre o estigma, a doença e a proteção dos direitos&nbsp;&nbsp;TSTConsumo de álcool cresce no Brasil: 5 dicas para mudar esse hábito&nbsp;&nbsp;O NORTÃOO consumo frequente e sem controle de álcool pode evoluir para dependência e causar prejuízos à saúde&nbsp;&nbsp;ce.gov.br",
+      "id": "b8ec10719405",
+      "title": "Cientistas pedem que todos se preparem para um fenômeno sem precedentes no Ártico: o degelo está desencadeando uma transformação química alarmante em áreas preservadas, e os primeiros sinais já preocupam pesquisadores do mundo inteiro - CPG Click Petróleo e Gás",
+      "published": "2026-07-10T02:45:00+00:00",
+      "summary": "Cientistas pedem que todos se preparem para um fenômeno sem precedentes no Ártico: o degelo está desencadeando uma transformação química alarmante em áreas preservadas, e os primeiros sinais já preocupam pesquisadores do mundo inteiro&nbsp;&nbsp;CPG Click Petróleo e Gás",
       "sources": [
         {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMF9wclcxZkMzTTJOMTJkQTdfQlBoajVSY2RRVXZyb3RaTUlSQXVaZGxBTElaRHlZZUxiXzJnWVNlMkdyX1ZEeDdGcTV1RTI5VngyN3BIMFFGLWVNY3pVdDlSMTE2ajhYNW50dkpuRmp1aDktYVQyMjBZVjloNXpfV1J6ZU5lR3VrNkwwYVpPcVZWTktBZUtyMUZOSVhMYnEtVE1wZXVJOTJCM2hEdFpwVi10TFB2RFA3aTBBRmhPNEnSAc8BQVVfeXFMTnlBZDh6YkwwckRaS3YwZVEzcXJZa01CSHItTzlkcHk3WGtBMWFOT2NYbzJNNGZQSzFaOTdTSkFodG1YczBGNUExdl9iOWhaV25rYXJEeFFTWGFRZ1hJNGJ0azdQaVhwcXJVUG5KMl9EYW9uUkFhN0lmeTlMM0p4SGVXRUpVVG4zOFNTbEh4QV9FQ0xkbmQ4WUZCQkw4Vl9XclpkeVppVDlPTzdVcVh2a0k3a1lRN0ZqU25Ca2J4WlJfcG5KcnRiTzlTS2pmbVFj?oc=5"
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOLUhFclBKV2R2bnNkUDdOaTY1cWJRdXZ4LUFicFZkUGRaeGhuRHVTaHZWeWFndTh3Z0lPWTFOdUYySUE2aTR5LVdvQ25rU2xHTjRmRXpreHp3WDI0bUNNX1ZTZXZqWUd0c0M3RXNVMkZlOXZ4M3hoZ196TjVIZUJqUk5MN0VFRE9JWl91azZ0czd1akE1UTl5NTVPUTJSOVNNa0VKZkNPQUl0SC0yQmNJNy0zZWp4T0JzVjZDU2NOcVJESC1fYVhtMVFVOVgxWDFSZmZzTzFCMVdxYjc3cGFNSmZzd19SWnoxM0NGSkNDdlBGczhIbUc1VWMzdXhiUVNUM1gtWkdHX29RRHV0Q3Z5X2s1OWtmZE02ektiaXJUa2RZeFNDZGFJSVBMUjl4TkhCUDk0U1h6N0hQNDZtOTJBNnFyWjRZcXM?oc=5"
         }
       ]
     },
     {
-      "id": "5e379f320321",
-      "title": "Galáxia incomum formada por colisão cósmica é descoberta - CNN Brasil",
-      "published": "2026-07-10T06:34:26+00:00",
-      "summary": "Galáxia incomum formada por colisão cósmica é descoberta&nbsp;&nbsp;CNN Brasil",
+      "id": "8c2ccf43474c",
+      "title": "Menino brasileiro de 10 anos descobre padrão inédito na matemática e leva pesquisa à Bienal da área - Alô Alô Bahia",
+      "published": "2026-07-09T21:32:31+00:00",
+      "summary": "Menino brasileiro de 10 anos descobre padrão inédito na matemática e leva pesquisa à Bienal da área&nbsp;&nbsp;Alô Alô Bahia",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMmgwRTNqOGFFTUlRQjFCTUdTQkF1Z3hXZW50REJxT1RibmpLVC0xTFBRNUgtQzZBMzJMdEFNUUNVMTlsWE4ydG9CTUFzZkF4b2wxWmV6cTRaMmFqdWNyNFJrT0RQekV1Vk9sMXNRRVhRRDJUSXp6X3RRQjh2WkdGRVgzdlYwYWIxNTJHMjZrU2xjQ3pEU0Y4OFB3?oc=5"
+          "name": "Alô Alô Bahia",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQWFqaGlOLThvMkZNQnZ4YTBSM0hDREhoemlHLTNrVE9qYk91dHdUVW8wWEFMQ3ROcWRVZFVpSFhvQ2gzX2JQdDFsQTMycGpRY05CekJVbTNWZ1BuUkFzaFd1bFJvaGxoV0JsZzEyWjBGX0hFOElhaU1neFhLZGw3V0x3czVsMWFydGRVUnZDdGo0Y2R3c2pWLVlQU1dtOFNFQjZ1SG83WHowWmdmZmZGOEFka1VfclczWHJOaGVBcTJYakk5TWFDM3lFZktIeGl6eTJ0cUljbndWLV9x?oc=5"
         }
       ]
     },
     {
-      "id": "fc7c5ecc3eca",
-      "title": "Bilionário que tenta ser imortal anuncia que está com doença incurável - Brasil Paralelo",
-      "published": "2026-07-09T18:36:04+00:00",
-      "summary": "Bilionário que tenta ser imortal anuncia que está com doença incurável&nbsp;&nbsp;Brasil ParaleloGastrite autoimune: os 11 sintomas da doença que acomete o bilionário americano conhecido mundialmente por buscar a juventude&nbsp;&nbsp;O GLOBOEmpresário Bryan Johnson revela diagnóstico de gastrite autoimune; entenda a doença&nbsp;&nbsp;Folha de S.PauloMultimilionário obcecado com \"juventude\" tem doença sem cura&nbsp;&nbsp;ObservadorO que é gastrite autoimune, doença de empresário que gasta milhões",
+      "id": "d61c2b1a6c88",
+      "title": "Erro no uso de Ozempic e Wegovy aumentou casos de intoxicação, diz estudo - Exame",
+      "published": "2026-07-09T20:01:39+00:00",
+      "summary": "Erro no uso de Ozempic e Wegovy aumentou casos de intoxicação, diz estudo&nbsp;&nbsp;Exame",
       "sources": [
         {
-          "name": "Brasil Paralelo",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdVc3QmdVSmtSanpnbnJsRjNCRUNRRFdJUmVSZmEzZUs0UDhmOG5jRWZOYTQ4TlZuMmFwV2NabXdjRUFwZDR5WHpPSXlNZk1FOWtDZDdESi0wSWdKaldXeUNkN0JxWl94cm53Q1hrNGljWmtUV21LR0RLeFBNR2VWa3MwODc1blBhRUdtN29DWW5QbWJBYTBqNVBBQ2hEcW9rbHh3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e68d0c57a54a",
-      "title": "INCA recomenda que população evite carnes processadas — Instituto Nacional de Câncer - INCA - www.gov.br",
-      "published": "2026-07-09T17:00:00+00:00",
-      "summary": "INCA recomenda que população evite carnes processadas — Instituto Nacional de Câncer - INCA&nbsp;&nbsp;www.gov.br",
-      "sources": [
-        {
-          "name": "www.gov.br",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLVdtd1VzbU80ejNFQTdLY2g5Ynd2QmpfN2dXSjk4TEt3NU4tTDlBcGVnY1RWSGIzZG1YVXdLYS1mWjJ4MFpCb2h2NGdzY2VtLXM5ZUJUbUUtRmdTRG94cTRWTnlIRnVOblg3eWxta29zQVhTeU5xTGxrS2x4R2czVWhBam83TFFXX2Q1XzZrV1dvcm5rV0wwN1VCajFwdGRaaTZ1LWFBaXZIdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bbcc98dab4a1",
-      "title": "Cientistas descobrem possível forma de desativar mecanismo de progressão do câncer - Globo",
-      "published": "2026-07-09T14:34:23+00:00",
-      "summary": "Cientistas descobrem possível forma de desativar mecanismo de progressão do câncer&nbsp;&nbsp;Globo",
-      "sources": [
-        {
-          "name": "Globo",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTXBZd3BqVWxvaWJIcmxRczZnV3ZXN3hLZ3pqazI2a24xZkhVdUdWMjZ3Nk54X2k4UnYzcndUWFlYTEx0OUNZRFVyTExxT2NqZkZ6UFpKdXBjd01WUmNibGxwR2s3cHZZdWUzZjF3b213RG1nSFI1cjk0M0thM0NiQXdJYVNpQXRYb1l5V2ZNYWRNUXFFTGpRT29jWU5Dci1YTGNWcHNUNC1RaW9jVWhMeGJPVjNkMVZqMFNUQUtJaDI5eFJudzZMSUp2WXRtZkE2YmtpcEs4c1lPcUXSAeoBQVVfeXFMTy0waW5NbHNhc0RHT1lIZ1FkQzluYkZ0OVpTaUk3SENSSndmR2xFQnJ2Q1FQeTZmYW5uTGJwZUVGTWlxQm9MM1hxVVlDMTBDZlNsa185emlaUW5nZHJSSWR0RUd0a01KeEpBVzk3SDBvQVo0TkZZN1BtOGRXU1RFSzBFT3lHbFVWOTNzaDhVemtpNGJrbEhoSUhrRUxHT3ZEV2gyZ2xjNEc1c2QtS2FVc0pkMkVFY1hFblpsUTJsTGwxT3NMY0pwc2lEanJ2QVU4MnNMZjFGZEROb2c2M1lqeFBlVElLcjFUcjRB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "23baa0c8d635",
-      "title": "Todo mundo os tem no rosto: pesquisas revelam que os ácaros dos poros estão passando de uma relação parasitária para uma simbiótica - Terra",
-      "published": "2026-07-09T14:10:00+00:00",
-      "summary": "Todo mundo os tem no rosto: pesquisas revelam que os ácaros dos poros estão passando de uma relação parasitária para uma simbiótica&nbsp;&nbsp;Terra",
-      "sources": [
-        {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPU1JBUDRubk95ZGFYTUxGWUJ3VEg0M1d5Mnd5eGdJR0JlRUo5VG4zN1A5NkhHVDA3b0I4Z1RfMkF6WVpHcm4yMDlSd1RwZXZPN1hLUEVyM0JaRnByZEMxOFZGTDJmM2p5eXZ3QzRQU2JfRnBFb3JjWUZIOVlEOVQtU0RJaDgzSldaX3JYRVRhNEIyVmVxSjdjR1AwSTQ4Y1J0TlRCNmlTWGFHS0poaWJZMDltajRWd04zRkdCb0RCRkVTX0F4YnNnZDNmMWltcEJfQlF4VTJrN0p3TmRoWC1fRGM3VkxfaDN6bXNZTWczYVBscGdhd3VkRXIxbnBmeWNqVElaZ1FFUWRtT3B5N0xNX01ZSGdQMHVqUWRfRl82aExKbFdlVDR5ZXNEWTZ6a0tKczZB?oc=5"
+          "name": "Exame",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVkQwWGFaSnFMTTI0N010emtScnJzWDR1N0tIN1B1RTZvVF9vNkY2R3RQV1Y5ZFdpNGF5a2lHa0JDRDFYMUhIUDhpSklOREVqZllMSTZKZEFVTm54QWFkNWxkcXA1YlQ2a1FHY0RDclNMSk9PLWgzbW9DSy1xWG94Q3BFU19KcThfVVcwSzBDSFAtUDQtd2xTMXJWQlhsd2xJVmI5RDZfUkRkMmxhdkE?oc=5"
         }
       ]
     }
