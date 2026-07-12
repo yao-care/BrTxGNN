@@ -1,10 +1,34 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-07-11T19:06:18.535370+00:00",
-  "total_fetched": 86,
+  "fetched_at": "2026-07-12T02:55:58.537659+00:00",
+  "total_fetched": 87,
   "unique_count": 85,
-  "health_related_count": 29,
+  "health_related_count": 25,
   "news": [
+    {
+      "id": "1222c233b06e",
+      "title": "Estudo aponta por que matemática pode ser mais difícil para algumas crianças - Diário do Centro do Mundo",
+      "published": "2026-07-12T01:48:02+00:00",
+      "summary": "Estudo aponta por que matemática pode ser mais difícil para algumas crianças&nbsp;&nbsp;Diário do Centro do Mundo",
+      "sources": [
+        {
+          "name": "Diário do Centro do Mundo",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcXhhQk0xWVB0aW91eXBTcHRXX1A2WWV0QVpYSGpKN29FY3F6UEkweHpwckJ1cUJNOVE4RFBFbnZqM0ZLODFvQnZ4VTRUTzZUa2dadk8tWlBZcnl2NzdGTXl6dWZXNndYV24wSXRJczlLWHFrX24xbmVSOVlScDRLNWFIdl9KS3cwR2g3c1FUYmxTR0d1cHA1U3hHd1VxVklicXFLOU9pTDVKMjF4cEd2M2cxX2pxU0Q0S1l6TXBpcWQtZVVidUU0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6ece834956db",
+      "title": "O crime mais antigo da humanidade tem 100 mil anos: um Homo sapiens levou uma facada no rosto com lâmina de pedra numa caverna de Israel, sobreviveu ao golpe e virou o registro mais antigo de violência entre pessoas - CPG Click Petróleo e Gás",
+      "published": "2026-07-11T22:24:00+00:00",
+      "summary": "O crime mais antigo da humanidade tem 100 mil anos: um Homo sapiens levou uma facada no rosto com lâmina de pedra numa caverna de Israel, sobreviveu ao golpe e virou o registro mais antigo de violência entre pessoas&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQTXdQN0N5RWFlVUl0X2RaX2MtMUFPZUFZSWJUWmRfeUVKYTBHUlNLYzQ2QjBacnU5RE95dmVEdW1aTkowRVBTMEZaUWtEaWlJOTd5UVotR1p4MGNmS2V0TXJVRjVMYl9DbWV1dlpvVDRCTmxQWGFfdWUtRXdyel83VFdiX3IwT3BmNEZUVVVfa3lnbmJEbEdnWU1FOV9LN2lIOEJ4WUVQM2UtWmswNUJDU3pBVkNZU09oMF9xbGxIY2E1X09XYUFCUlUwMGJNTGJ5SFhQam10a1E1Z0JtZEw4N0tsVXlBdzBWcWtjdG9xbFQzQmF0WC16QTR6azNzd19IZEEtejRpMzNoNFI5eXFWdkZPcGRhSFdVN2stc3RWWlJqLVo3YmZTTW15alprbnpXS1NwTEpoNE5PQ0FZcjNYMHU0RjRWbTA?oc=5"
+        }
+      ]
+    },
     {
       "id": "9115fccd27e3",
       "title": "INMET alerta para risco de temporais neste sábado. Frente fria deve derrubar temperaturas na região de Marília - Visão Notícias",
@@ -30,6 +54,18 @@
       ]
     },
     {
+      "id": "ae53cc580945",
+      "title": "Barriga estufada todos os dias: quando o inchaço deixa de ser normal e precisa de investigação - Jornal Correio",
+      "published": "2026-07-11T12:00:00+00:00",
+      "summary": "Barriga estufada todos os dias: quando o inchaço deixa de ser normal e precisa de investigação&nbsp;&nbsp;Jornal CorreioQual deficiência de nutriente está ligada a gases e barriga inchada com frequência e como corrigir&nbsp;&nbsp;Tua SaúdeUm inimigo invisível&nbsp;&nbsp;Correio BrazilienseDisbiose ou outro problema? Alerta para riscos do autodiagnóstico nas redes sociais&nbsp;&nbsp;Âncora 1Barriga inchada pode indicar problemas graves? Saiba quando investigar&nbsp;&nbsp;Terra",
+      "sources": [
+        {
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUnZZV2xpbXBCYXZzR2liR1BHSkJXeDQ5bzdsRHJZT3lCbGxQMjRMV2NLdTRuVmJxUDR5NEd5OUF0TnNXZy1hZ3JqYUZLTFpJd2p5REs3T0ZxcEpjRzA2cDVCMmlsT3ZfdWNScG9vb1ZGMzIzelljUXJZVG5NOVlWdENLS1EyTVBSYlp1Ui0zZkVURXZITnFYcXRtUldZSmZPS3B3SXhDaTBISjk0TVByUDdhbzVMZTJXUjNlbVYtUmljT196LS1YQWc3YXpzcVRGOFUtWA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "de7b1ccb2754",
       "title": "Par de robôs humanoides realiza primeira cirurgia sozinhos, em marco para a medicina - TNH1",
       "published": "2026-07-11T11:12:35+00:00",
@@ -45,7 +81,7 @@
       "id": "3584a332f399",
       "title": "Fruta ajuda a aliviar os sintomas da gripe e limpar os pulmões; saiba qual - ICL Notícias",
       "published": "2026-07-11T10:00:59+00:00",
-      "summary": "Fruta ajuda a aliviar os sintomas da gripe e limpar os pulmões; saiba qual&nbsp;&nbsp;ICL NotíciasAlimentação ajuda na imunidade&nbsp;&nbsp;G1O melhor alimento para fortalecer a imunidade e reduzir a frequência de gripes e resfriados&nbsp;&nbsp;Tua SaúdeA fruta mais saudável do mundo que fortalece a imunidade e muita gente ainda ignora&nbsp;&nbsp;Correio Braziliense",
+      "summary": "Fruta ajuda a aliviar os sintomas da gripe e limpar os pulmões; saiba qual&nbsp;&nbsp;ICL NotíciasO melhor alimento para fortalecer a imunidade e reduzir a frequência de gripes e resfriados&nbsp;&nbsp;Tua SaúdeAlimentação ajuda na imunidade&nbsp;&nbsp;G1A fruta mais saudável do mundo que fortalece a imunidade e muita gente ainda ignora&nbsp;&nbsp;Correio Braziliense",
       "sources": [
         {
           "name": "ICL Notícias",
@@ -54,14 +90,14 @@
       ]
     },
     {
-      "id": "fb6a24f1a7b3",
-      "title": "Menopausa: o que muda no corpo? Especialistas explicam com Dr. Kalil - CNN Brasil",
-      "published": "2026-07-11T09:00:03+00:00",
-      "summary": "Menopausa: o que muda no corpo? Especialistas explicam com Dr. Kalil&nbsp;&nbsp;CNN BrasilSaúde do coração está ligada à menopausa: especialistas explicam relação&nbsp;&nbsp;CNN BrasilJosé Manuel Martínez, ginecologista: 'As palpitações na menopausa podem surgir devido à deficiência hormonal; se a taquicardia for persistente, é recomendável realizar um exame'&nbsp;&nbsp;TerraMenopausa e reposição hormonal: ciência atualizada e o fim de um medo antigo&nbsp;&nbsp;Correio do LagoComo equilibrar os ",
+      "id": "3f11f60e10e6",
+      "title": "Colesterol alto? Confira trocas alimentares para o dia a dia que ajudam a manter o colesterol controlado - Terra",
+      "published": "2026-07-11T08:59:00+00:00",
+      "summary": "Colesterol alto? Confira trocas alimentares para o dia a dia que ajudam a manter o colesterol controlado&nbsp;&nbsp;TerraO pior tipo de colesterol não vem sendo pego em exames de rotina. O que você pode fazer&nbsp;&nbsp;VEJAPartícula do colesterol associada a risco mais elevado de enfarte&nbsp;&nbsp;Jornal de NotíciasColesterol alto: saiba como prevenir doenças cardiovasculares&nbsp;&nbsp;Muzambinho.com",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN3pNeGRQTkJ2elV3bUJpUFUzMVdGRHNtTHFLT09sQlVUSWF4eWZkSThRdDZPaDlyZnFPVVJ0Sk9TN3VJaVN6SkFtUzlkZ0RCR3VyUDByQjh5Z3RUNnJTU28wcmI2dFkxTS1oT09IM3BRME1VMUI4eEg3NWJadXVQSmc5N055ZG5jRFFRTGpMb1RuN0xnRGJlRWtVVTM1NGFSVV9r?oc=5"
+          "name": "Terra",
+          "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPd3E0XzNadF9vTGtxZVcxTGo5aGM0VklDTlY5eDdiTWFtQXRJOF9KM0tQNHRjcjJhMzUyd1pmeWpZUlpEYzkzZ1F2VDBLZDB4cnBLZG5GaUhGcEFFNUkycGcwSG1oZV9ubzRWaXRlYzM5UDU3N1BGakxWVUJ5ZncxZ0E0clo0QXN6WWJVUGRrRzNhMkIzQlRNT0JrX1JXZ0t0VEpudmZuQkI0MllYUTVpV0ZTY0paNEZsVENpV0RNNWVLSnl5U1FhMnRCYjBfUzZZWGt2U2NqcWh2anpOcmxWM1hSTEtYLVJuYmZhSXhsUndoSmItRklrQUlBTER0RkcwbFN0T0pjak0wU2Rsa0g5V0l5MnBlYnJjdjVxLUNfaw?oc=5"
         }
       ]
     },
@@ -93,7 +129,7 @@
       "id": "3bdc52e03d73",
       "title": "Fibras causam gases? Marcio Atalla responde essa e outras dúvidas - O GLOBO",
       "published": "2026-07-11T03:00:55+00:00",
-      "summary": "Fibras causam gases? Marcio Atalla responde essa e outras dúvidas&nbsp;&nbsp;O GLOBOQuantos gramas de fibra por dia são realmente necessários para manter o intestino e o coração saudáveis&nbsp;&nbsp;Tua SaúdeAs melhores fontes de fibras para incluir na alimentação&nbsp;&nbsp;Veja SaúdeA maioria faz errado: nutricionista revela que o segredo para consumir fibras na quantidade certa não é comer mais salada&nbsp;&nbsp;TudoGostosoQual o impacto das fibras no funcionamento do organismo? Marcio Atalla",
+      "summary": "Fibras causam gases? Marcio Atalla responde essa e outras dúvidas&nbsp;&nbsp;O GLOBOQuantos gramas de fibra por dia são realmente necessários para manter o intestino e o coração saudáveis&nbsp;&nbsp;Tua SaúdeAs melhores fontes de fibras para incluir na alimentação&nbsp;&nbsp;Veja SaúdeA maioria faz errado: nutricionista revela que o segredo para consumir fibras na quantidade certa não é comer mais salada&nbsp;&nbsp;TudoGostosoComer fibra demais faz mal? Envie suas dúvidas para o Vida Boa&nbsp;&n",
       "sources": [
         {
           "name": "O GLOBO",
@@ -162,22 +198,10 @@
       ]
     },
     {
-      "id": "60ecb90ed734",
-      "title": "Pesquisa liderada pelo ICMC rompe paradigma científico de mais de 400 anos sobre sincronização - São Carlos Agora",
-      "published": "2026-07-10T19:44:00+00:00",
-      "summary": "Pesquisa liderada pelo ICMC rompe paradigma científico de mais de 400 anos sobre sincronização&nbsp;&nbsp;São Carlos Agora",
-      "sources": [
-        {
-          "name": "São Carlos Agora",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU3B6NUxIR09qLThzTUt6M0E3dnl2Mm1GZUttVUZURzNFSTJ5STJILUlfUVF0S00zeHFoUnVJM2hOVzhiOGM4R1ZLbnk2QTM1RUhSd0QwOV9EcWx4OTAtcWVoSjVGR1RHNzRmbFVabVROcnFzRXFmQlJBVXpiQTJsZWFKakJCdDVFelVYZE1MbjZzT0RuTERtcVowSUZPNW50UllnRGVuMEh4UndSVXFuVzdFMzREcDhhTmfSAb8BQVVfeXFMTk9KTnF1NkYtZTNsWEZ4cDhGTzFkbWZ2ZXZ4TGFFWWxEMGhMZ2Z5dkwwZ1hMR2RLM3lkNktXSzE2d1M0Q3hjcG9jdXNHSXp2b0RWcm04RkFaR3VhbTdaZnFHS0FzelY5V0pkQXRYY3hRMlA3RW85YnRwN3Y2V05EbE50MVQzUk9RZDJJNTV6YVBsWkVOa0lBVlkyUnVrbTg0QWVyQlZoa1lZcGs4dVJaYnVQYzhjOHRlYzdpdjd6YWM?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ebe43c90e698",
       "title": "Câncer: pesquisa premiada de brasileiro pode inspirar novos tratamentos - Olhar Digital",
       "published": "2026-07-10T19:04:00+00:00",
-      "summary": "Câncer: pesquisa premiada de brasileiro pode inspirar novos tratamentos&nbsp;&nbsp;Olhar Digital",
+      "summary": "Câncer: pesquisa premiada de brasileiro pode inspirar novos tratamentos&nbsp;&nbsp;Olhar DigitalCientista brasileiro é premiado na Alemanha por descoberta contra câncer&nbsp;&nbsp;Folha de S.PauloCientista brasileiro premiado na Alemanha&nbsp;&nbsp;G1Brasileiro vence 'Oscar da pesquisa' contra o câncer na Alemanha&nbsp;&nbsp;Correio BrazilienseBrasileiro ganha um dos principais prêmios da Alemanha por pesquisa sobre câncer&nbsp;&nbsp;Alô Alô Bahia",
       "sources": [
         {
           "name": "Olhar Digital",
@@ -189,11 +213,23 @@
       "id": "31d1d48450f7",
       "title": "Nem todo desconforto com leite é intolerância à lactose; entenda diferenças - Folha de S.Paulo",
       "published": "2026-07-10T18:29:00+00:00",
-      "summary": "Nem todo desconforto com leite é intolerância à lactose; entenda diferenças&nbsp;&nbsp;Folha de S.PauloAdeus aos comprimidos? Novo adesivo promete aliviar intolerância à lactose por até 12 horas&nbsp;&nbsp;Grupo Rio Claro, São PauloO primeiro adesivo do mundo que libera lactase pela pele promete substituir o uso de pílulas mas levanta dúvidas sobre os verdadeiros impactos na sua saúde&nbsp;&nbsp;TerraTecnologia promete ajudar intolerantes à lactose sem mudar a alimentação&nbsp;&nbsp;Tribuna de M",
+      "summary": "Nem todo desconforto com leite é intolerância à lactose; entenda diferenças&nbsp;&nbsp;Folha de S.PauloAdeus aos comprimidos? Adesivo para intolerância à lactose promete agir por até 12 horas&nbsp;&nbsp;Só Notícia BoaTecnologia promete facilitar a vida de intolerantes à lactose&nbsp;&nbsp;DOLO primeiro adesivo do mundo que libera lactase pela pele promete substituir o uso de pílulas mas levanta dúvidas sobre os verdadeiros impactos na sua saúde&nbsp;&nbsp;TerraAdeus à cápsula? Adesivo promete 12",
       "sources": [
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPb1dEeENhZkhlVDBRZjZwX1NZXzk1cW5QNkItMGN1ZkZUTk81SlJpRm1nOVpXTXNFaVNyOWhHZmFMSE93eGVUWlp5TWJUY2tpaXdya21VNFA3azZPNUEyY1EyN2tyYVJIaVVVMkFrYnZUUVJBYTlITjhPcFA3VGxHSkpOU01Ob01zWGRxOGV4bzNfZTI3cHRKOE1hdXZneHROT0o5dm5QM044S1kzYjhRZ3VETkp4TzV3Vm5URmVKU0FlMzA0Y2hZMQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3a1c1548f142",
+      "title": "El Niño pode transformar a Amazônia de aliada em inimiga do clima, aponta pesquisa - Olhar Digital",
+      "published": "2026-07-10T18:23:00+00:00",
+      "summary": "El Niño pode transformar a Amazônia de aliada em inimiga do clima, aponta pesquisa&nbsp;&nbsp;Olhar Digital",
+      "sources": [
+        {
+          "name": "Olhar Digital",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQLWczUU5aRHd3SFV4STJ5UW1zNHZOMEVZcGMzS3hDU0VIOVZzQjZWMlFKODVkdVB2TUxoNlhTWDBrOG9JcmpMYlV4WG1XRUVvNHh5SGI1XzdaOUEzOVctQnIwX1hUTldHNnZiYUxrc0czaUJiZmpnYWxtTUZhTVdXUzRxTGpGUUY4SFQ3eXVCQ0pfNDZ5SzQwTThFNmYtOXFMYVcyNkhzd2JuMmFMTnRUX05MaGp4WU5CMER6dGZyQktFeUtfX3ZCYnBXc0RNSFpobDg5cQ?oc=5"
         }
       ]
     },
@@ -218,54 +254,6 @@
         {
           "name": "Rdnews",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYmdBeVNiQ1Y0bkdMNld4LXplMFVvMmU4WEhPZjZLa0RtWjd5eFZORHRXSjJYaVRnRXQ1QUlrbnRnVjBONXFoYTF4UTZNY0VUNnhqY2h4LVZ6VHNUdUNhVktQVVFKM0xqVVN1Nl9vYnhSZ250U1dVLTNJd0FnUXhJZXBYZklyNXdqaHcxbnFhQU5oXzFaU2pIbDJDZ04teWZTaVV5bllzMmp4LUZmWWkwZjN3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c27eaf814d44",
-      "title": "Fóssil de 550 milhões de anos encontrado na Austrália revela criatura parecida com uma minhoca que já escolhia o lado direito para se mover e pode ser o primeiro animal “destro” conhecido pela ciência - CPG Click Petróleo e Gás",
-      "published": "2026-07-10T18:04:00+00:00",
-      "summary": "Fóssil de 550 milhões de anos encontrado na Austrália revela criatura parecida com uma minhoca que já escolhia o lado direito para se mover e pode ser o primeiro animal “destro” conhecido pela ciência&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNQ1RGT1lyZWpCOTNqdjFDWmNnY01xQy04Zmt6bzNOaENrZ2NUTlNwQlF2ZlZka1FwcmlGY2s1d2VMUkJiOXVobEtPQXRvUk9BcW9PZ21yeGxTM1B4YzVIRGgtMEFETUc2c1FrRVlEVmc5NUc5c1QyazJzVnBMdkFTWWx6UHdCeURYdEVIaFhqekxZUjZjMFhYdGkyandaZHdSVkpNelJLT2VKY05xcFBrMXBFckczRVRvbFdiRElDdHlkQlIyWThzTURyRTZKUnlqRnJIV05rZW9BNGdMXy1GOE1zeU41bno0ZkpaVS1VR0c2NE5fa0Fua19vcld5Y1RoYXpBTzgwYXBDZFlNTVM1ZzFKNFQ2V1o5b3ZKNTNGZHFoRDBrb3B6Vm1ZcE43UWpCSnRwbVNCLUQ2VjBVa0lGTVV4TEs0QQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "62ff32e391ff",
-      "title": "Câncer deve impactar mais de 92% da população: entenda os reais motivos do avanço da doença no mundo - O TEMPO",
-      "published": "2026-07-10T16:53:37+00:00",
-      "summary": "Câncer deve impactar mais de 92% da população: entenda os reais motivos do avanço da doença no mundo&nbsp;&nbsp;O TEMPONovos casos de câncer devem quase dobrar até 2050, alerta OMS&nbsp;&nbsp;CNN Brasil“São recursos monstruosos que estão em jogo”&nbsp;&nbsp;ParaibaOnlineCâncer: É como se um bairro inteiro de Salvador desaparecesse todos os dias&nbsp;&nbsp;Jornal CorreioOMS: 92% da população global será impactada pelo câncer; entenda&nbsp;&nbsp;O GLOBO",
-      "sources": [
-        {
-          "name": "O TEMPO",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQU3ZJUWFkY2s3RGJ6V3J0Rk8tTGhzeGcwZ05xQmtNM3dJeDQwSXZrTVJlLUNuc2FjeE5jaGUteVowZHo3NjNnWXY0djAxLWd0T1YwWWJkUUtrWE9tZzI3UDNxdE10MmlnV2lKU2V1dkxvdjRLOEVXZHBTRmplUm9LYWxTd2JTQWZiOWVSa3dFWnZRaDNfY2dPRnVMRkFkcS0zTHpjQWxHYmQ4X2E4VDIyczBDZUdyVkVCWGhlZGVVTXgzbzdLU3JqeFAzdmkwMjRMaTF6SzEwb2pFNjZuangwbnhqZTlDVWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bc1a9142bcdb",
-      "title": "Pela primeira vez, pesquisadores flagram fundo do mar se abrindo - Olhar Digital",
-      "published": "2026-07-10T16:40:00+00:00",
-      "summary": "Pela primeira vez, pesquisadores flagram fundo do mar se abrindo&nbsp;&nbsp;Olhar Digital",
-      "sources": [
-        {
-          "name": "Olhar Digital",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQa2U1bmRWMGxOb1VPOWRiUmJOVmN2TUNJT0pqbnRJOTI1RHVIYzlobk1CSzlNaHV4MTM3TmZTNkQ2MHY2NS1IczhlOW5aYXRySWpESGlxdC1FMmZCSk1JRnBIT1JxYkM5YVoxbDhxYzB2cHh4RWZNT2NCNFo3dXFuVW8tTmRFMzlwUXpkd2IzVlBLTWExZ3o0bjFwRU1zX2NFWFoyOE1RY01DWTRva3hGZ0pIenc2T182S25tWA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5df9f6b86a0d",
-      "title": "Pesquisador brasileiro é premiado na Alemanha por descoberta que pode abrir caminho contra o câncer - G1",
-      "published": "2026-07-10T15:02:50+00:00",
-      "summary": "Pesquisador brasileiro é premiado na Alemanha por descoberta que pode abrir caminho contra o câncer&nbsp;&nbsp;G1Cientista brasileiro é premiado na Alemanha por descoberta contra câncer&nbsp;&nbsp;Folha de S.PauloCientista brasileiro premiado na Alemanha&nbsp;&nbsp;G1Brasileiro ganha um dos principais prêmios da Alemanha por pesquisa sobre câncer&nbsp;&nbsp;Alô Alô BahiaBrasileiro vence 'Oscar da pesquisa' contra o câncer na Alemanha&nbsp;&nbsp;Correio Braziliense",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYVVFaXVGdFNyTGJmN2JYUm5ZUDJNaXd6NGdmOHR5X3ZKSWRrU3MwVjgwMm11akR3b291SW8zRHZzdHMwUXh6WDg3TjRrLVNIb3hyWGdxUnlPb3dwTWNNWFpuS2wyWEozODY5alZRZG9keDZCRHMxeEU3QWZ6SmhPdTM4a3FVM1hkX2JNc3A5eWp6T3dzMGU4eHFjeEptNHhucjhvMUFXV2RibkRod2lWbk9fZTFlM1p0OC05YnFhcUo4RnQ5RW5tbnpJSDRfUUl4WjRHdWhaMTV6ZUQ0QUZDSVQzREZyd9IB9AFBVV95cUxNSUZhSjJaRWNIcEc1VUZZeURBRUNhNTY5LUxnOXNlZmVGRUN0bWZRbkF2WnBlY1ZLVHJYNlZTa1RIMWFlTElYUHdIVkxYelpBYThZbldUZVlUWjRtS3hZTzVvRnBrUlRucUlJU0o2Z1VVSTNEVHdLbVQteWJnM1diNDd1cGJsYVZ1ZUNYalp1eEJXZDI0X2k5QzVqN0J4aS1EWGpVU2t6UE5zTE5pSFFNNVVpNElmcVYzbXNYS3BuMnhNc0JNMVdLbkE2aHB4cGFqakJRMll2NDZIWkJOM3NnZFA0NHUydGdObElDS3BaOVRhSWVo?oc=5"
         }
       ]
     },
@@ -306,50 +294,14 @@
       ]
     },
     {
-      "id": "26aea11e6959",
-      "title": "Peixe olho-de-barril é filmado pela primeira vez perto do Brasil - Portal iG",
-      "published": "2026-07-10T08:00:00+00:00",
-      "summary": "Peixe olho-de-barril é filmado pela primeira vez perto do Brasil&nbsp;&nbsp;Portal iG",
+      "id": "e6ab60a318a4",
+      "title": "Calor faz besouros machos terem comportamento gay? Estudo analisa efeito do aquecimento - G1",
+      "published": "2026-07-10T08:04:24+00:00",
+      "summary": "Calor faz besouros machos terem comportamento gay? Estudo analisa efeito do aquecimento&nbsp;&nbsp;G1",
       "sources": [
         {
-          "name": "Portal iG",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMzVqNzZNN1FLTGRkYTlvNW9FazEwSHBGZk94NXdsNG9QdktfTkM4dUh3TFpYamZ1N1hvOG9OcVFzVW5lbm9WU2wtam9mRXVucWVEMHotVmd2VllkNTMyUy1mSW5zTzRfZnprbGlQcmVJcXhob05rMF9NV2hzaExYWUxZREtaWGIzanhSTWxtTl9PdElpZG9STmx4SWxSUjRnNDRtSGVOSklueGNaell0QWx4MnlSMWhwM19wVdIBwgFBVV95cUxPeXo5RDB0aktodkhiSnF2MERBMUZtTFdvQlp1TUVpNnhlQ2dqUU9KX2hiU3lXalFEN3VVa0V0V25vYmtHdkcwTS1SQ3VNUmstU0dENlRFSlpVN1g3TlhQWWZGSElBWThTdWs2b3dpeTJWcTR3YllBNl9RckVrblJjMFF6Y1M5cE5sbkJEWmlBdU1kOUI1d2NKNHhWRDlnM2M4SF9yQlY4TGRVcDhrd2NVRk1oOFdCM2JqUWJtM01OZXZxUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b8ec10719405",
-      "title": "Cientistas pedem que todos se preparem para um fenômeno sem precedentes no Ártico: o degelo está desencadeando uma transformação química alarmante em áreas preservadas, e os primeiros sinais já preocupam pesquisadores do mundo inteiro - CPG Click Petróleo e Gás",
-      "published": "2026-07-10T02:45:00+00:00",
-      "summary": "Cientistas pedem que todos se preparem para um fenômeno sem precedentes no Ártico: o degelo está desencadeando uma transformação química alarmante em áreas preservadas, e os primeiros sinais já preocupam pesquisadores do mundo inteiro&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOLUhFclBKV2R2bnNkUDdOaTY1cWJRdXZ4LUFicFZkUGRaeGhuRHVTaHZWeWFndTh3Z0lPWTFOdUYySUE2aTR5LVdvQ25rU2xHTjRmRXpreHp3WDI0bUNNX1ZTZXZqWUd0c0M3RXNVMkZlOXZ4M3hoZ196TjVIZUJqUk5MN0VFRE9JWl91azZ0czd1akE1UTl5NTVPUTJSOVNNa0VKZkNPQUl0SC0yQmNJNy0zZWp4T0JzVjZDU2NOcVJESC1fYVhtMVFVOVgxWDFSZmZzTzFCMVdxYjc3cGFNSmZzd19SWnoxM0NGSkNDdlBGczhIbUc1VWMzdXhiUVNUM1gtWkdHX29RRHV0Q3Z5X2s1OWtmZE02ektiaXJUa2RZeFNDZGFJSVBMUjl4TkhCUDk0U1h6N0hQNDZtOTJBNnFyWjRZcXM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8c2ccf43474c",
-      "title": "Menino brasileiro de 10 anos descobre padrão inédito na matemática e leva pesquisa à Bienal da área - Alô Alô Bahia",
-      "published": "2026-07-09T21:32:31+00:00",
-      "summary": "Menino brasileiro de 10 anos descobre padrão inédito na matemática e leva pesquisa à Bienal da área&nbsp;&nbsp;Alô Alô Bahia",
-      "sources": [
-        {
-          "name": "Alô Alô Bahia",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQWFqaGlOLThvMkZNQnZ4YTBSM0hDREhoemlHLTNrVE9qYk91dHdUVW8wWEFMQ3ROcWRVZFVpSFhvQ2gzX2JQdDFsQTMycGpRY05CekJVbTNWZ1BuUkFzaFd1bFJvaGxoV0JsZzEyWjBGX0hFOElhaU1neFhLZGw3V0x3czVsMWFydGRVUnZDdGo0Y2R3c2pWLVlQU1dtOFNFQjZ1SG83WHowWmdmZmZGOEFka1VfclczWHJOaGVBcTJYakk5TWFDM3lFZktIeGl6eTJ0cUljbndWLV9x?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d61c2b1a6c88",
-      "title": "Erro no uso de Ozempic e Wegovy aumentou casos de intoxicação, diz estudo - Exame",
-      "published": "2026-07-09T20:01:39+00:00",
-      "summary": "Erro no uso de Ozempic e Wegovy aumentou casos de intoxicação, diz estudo&nbsp;&nbsp;Exame",
-      "sources": [
-        {
-          "name": "Exame",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVkQwWGFaSnFMTTI0N010emtScnJzWDR1N0tIN1B1RTZvVF9vNkY2R3RQV1Y5ZFdpNGF5a2lHa0JDRDFYMUhIUDhpSklOREVqZllMSTZKZEFVTm54QWFkNWxkcXA1YlQ2a1FHY0RDclNMSk9PLWgzbW9DSy1xWG94Q3BFU19KcThfVVcwSzBDSFAtUDQtd2xTMXJWQlhsd2xJVmI5RDZfUkRkMmxhdkE?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTWxMUlNENzdpMVQ5dUVzX0RHQ2lVTjdRdnhzcWllX0p0SjdOVVRPQzBkMEpPODNkZm5hZ3RqN0ppVFF2dHNnX0RuYWtab1l1aV9fSFNSM2RPZVFNb0o1MmpSS2N3bWY5WXNhQ0JTT2g0UW9mSXZvWGh2QlVZT1ZmOXMwSkRCS0hpRzZsa3NRZEowSzUzNEpUWkNlN0pXd9IBrAFBVV95cUxPcW1TWHNyM3d6N0dnX09aTmwzdUtpVW80dEJ6bC13MjBaRmRlTXdkbVBMSXVwSk01UzNEQkdSZEhla000ZEotS2RxWWpvQmZWN1VxbGhsS2tpVHI4MnpKdEVuakhyNjBUcjUxcGRHWVNOR1oxTlYzYWVyeGczN0Qyc1dVaXJxdHRFMzRyNUg3UHR6TXVqZHk4M1QzeUktNU9sWEkwZ213TnBSU29y?oc=5"
         }
       ]
     }
