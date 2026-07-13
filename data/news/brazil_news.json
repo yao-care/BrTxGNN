@@ -1,19 +1,115 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-07-13T14:37:54.269448+00:00",
-  "total_fetched": 90,
-  "unique_count": 86,
-  "health_related_count": 34,
+  "fetched_at": "2026-07-13T19:25:05.276685+00:00",
+  "total_fetched": 94,
+  "unique_count": 91,
+  "health_related_count": 41,
   "news": [
     {
-      "id": "bbbd6e2117cb",
-      "title": "Como a demência está sendo derrotada - Folha de S.Paulo",
-      "published": "2026-07-13T11:00:00+00:00",
-      "summary": "Como a demência está sendo derrotada&nbsp;&nbsp;Folha de S.PauloVeja mais manchetes e perspectivas no Google Notícias",
+      "id": "520ff56e6ea4",
+      "title": "Qual vírus vem aí? Cientistas fazem previsões sobre nova doença perigosa - UOL",
+      "published": "2026-07-13T16:54:26+00:00",
+      "summary": "Qual vírus vem aí? Cientistas fazem previsões sobre nova doença perigosa&nbsp;&nbsp;UOLVírus de uma próxima pandemia podem já circular pelo Brasil&nbsp;&nbsp;Olhar Digital",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZ0haQWo4cGhNVnFwbHg0a0dOOGF6TmF2c1c0VUUzNVplbWxjdkVERWRFeTJ5SE9mLWxEclZSZ0d2U0VyZDY1emFYZndkME05QlF3bUoyUDRBOUdSUDdudTd1VUJaSDFyNWZSSWdLdjJXNE1McmdJY0dOVlI1RnJNVXlNUmUxbVJtU3pGdjN5SkFsMWZDcmhwemxnWXZEc21GcVAwOVRVUms0Z3lZeWNXWGVXX3NBa1lkMkRpYXFNWUxndlo5RHhUdXlmM0pwZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4e961e9b822b",
+      "title": "Peixes de criação brasileira são diagnosticados com bactéria grave - Metrópoles",
+      "published": "2026-07-13T15:14:00+00:00",
+      "summary": "Peixes de criação brasileira são diagnosticados com bactéria grave&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lTFBiQXZwOGJWX1JqWGhhcF96ZHZUMHhEcmkwLUZRUDB4bUlfUEc5UVBGQmRaVndIQjZ5dnFvZm9XV09sSXpMMkNndXZVZFV0bXlqbVJCU21qeTRDb195cWJXTExvUlphZGwtMEhQYVhHRzJuRnc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2e8c164b0a82",
+      "title": "Açúcar é detectado pela 1ª vez no espaço; descoberta sugere que 'ingredientes da vida' podem ser mais comuns no Universo - G1",
+      "published": "2026-07-13T15:00:08+00:00",
+      "summary": "Açúcar é detectado pela 1ª vez no espaço; descoberta sugere que 'ingredientes da vida' podem ser mais comuns no Universo&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSXRqSl9PUmhsS2RCTUYweF9pSWdCa1NaMFZhaDRKRlpjMGh0MWplOU56Z045c2hUcnJvVEUxU3kyaW1tbDNRWVZVUldURDJGclNMUXVIZlVlVGNUQ041bzlPRUNBaFRxRjhrNnpLclpoeTNsMExVWUIzUDgxTGVsTF8tR2dfNVBLeUVsRlRHbXNMVWpoZkU5NjBvNG5UYzZzYlNXM9IBswFBVV95cUxPazJTczVvNGtXYTBLNTNiakRoa0RJbnVUb3I2OVdNWGxKenphNnRLOGtmRDVyc1ZyZkdiS1A5STlvNjVCODhNRzNpaG9FVHZlMVZMeDBPR25rWFotR09RdHlFVGp1TnhaQXljRWZTN0xtdi1zV3RLblZSZU94UHlRNy12ZzhBc1JPT0thbzh6NHc1Z0NHYTNZcnR4VXVySTZneW9ZYmJFU0o2ZGJpT0FOdmU3RQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "af41ed49926f",
+      "title": "Cientistas do Japão descobrem bactéria em rãs que elimina o câncer em dose única - TNH1",
+      "published": "2026-07-13T14:39:35+00:00",
+      "summary": "Cientistas do Japão descobrem bactéria em rãs que elimina o câncer em dose única&nbsp;&nbsp;TNH1",
+      "sources": [
+        {
+          "name": "TNH1",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV2t2a1U0NHJLXzRuTzBTMl82RHQyMHpSbENCZTRsZmNDX3RWOGluM0NwS1UtSENpNWJ5VU81dzhaYTVRSkpFdVU1NVltcW53cWJzbF81Q1pqVzVqUTAtaW0zX3FCRkllZ05UbVdvclQxQjRGUlZKb25DMjBoQzJUZy1ZeEMxejRLcVpWTW00ZjdiSG1NQnYxb05rQXpUUXJuVHV3bzFhX1YybnktYkxHWUFOb29fUDN20gGzAUFVX3lxTFBfcjFaV0hQWE0wbl81N2tVN0xid1FzUnZMWUctbGxvMjctaHM2M2xBNXNaV0JkVXd2dGo5TkdjN045T3ZLQjUySG5vMk5aZTMyQVN0WUp3aGhoaDJUaTdCOGFGZHMxZ2dtTUpQd3hXVlZNaE1qTVo0UTlGX1ljOXdxbFlfak8ySU9KWFJMWllRallXQ08tY3NZZnBYYl9HNGJTUzh4bDJOTEVKZE5SYlRvS2dn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4d36a8cfe99e",
+      "title": "Os 9 alimentos que médicos e nutricionistas recomendam para cuidar dos rins - O GLOBO",
+      "published": "2026-07-13T14:30:16+00:00",
+      "summary": "Os 9 alimentos que médicos e nutricionistas recomendam para cuidar dos rins&nbsp;&nbsp;O GLOBOComo aliviar a retenção de líquidos naturalmente com alimentos e hábitos que estimulam os rins&nbsp;&nbsp;Tua Saúde8 alimentos que ajudam a repor líquidos e matar a sede no verão.&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSi1RNTVBNGhfYUxPanFuTkR2NF9MQVNVY09FRWRnTnZ5WWNZODhnVnpEM1hRRE5md3MtaEFjV0RqN0ozZXdBQmNfV0RQXzg0TkRGRHdJNFZJT2M1a0JsWmtiTFU0aFVPMms2VUZkcUkzUEowQnNQVVRmUG4tM29yb09oc0pJaTlWYlpHM2pPMEhkS1NMQlV1YUhBZmljemtFMFVRa0FXSnBycWFnLXEyLTZ2YVRkM0VrS1ctcXdaYUFXQk9ieWpFckZMVdIB2gFBVV95cUxNc19TRWI4OGgxOFp4WjhoaXVHOXdheWk0U1dEZGlyZUQ0dFloajYwaWM0Wlc2VU5rTkxBNVNEMExKSlN2QlJNVWVsdTRGeXNjTUIyS0F3M0cydDBrdHBjN0lDZFpWaFotMGtrYmwxZkh5N1NfeWNwZ2l4d3BEZGFPdl8wVHhoTHZKdGNGN2N6QndqRnZPR3RaaXZlaWdrYWdrUnBjNDl0ME90WS01R2JHZHpVRTQ1MEl5Z1dFNGt3dlhpYVVvM2phZ1Jha09yTzZXWUJ1c0h6UW9zdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "21298b5e0b53",
+      "title": "Oxford inicia primeiro ensaio clínico em humanos de vacina contra cepa Bundibugyo do Ebola - G1",
+      "published": "2026-07-13T14:02:03+00:00",
+      "summary": "Oxford inicia primeiro ensaio clínico em humanos de vacina contra cepa Bundibugyo do Ebola&nbsp;&nbsp;G1Oxford inicia 1º ensaio clínico em humanos de vacina contra nova cepa do ebola&nbsp;&nbsp;Folha de S.PauloEbola: Oxford inicia primeiro teste em humanos de vacina contra o vírus causador do surto atual&nbsp;&nbsp;O GLOBO13/07/2026 | Vacina Ebola, calor e riscos cardiovasculares&nbsp;&nbsp;Afya | HomeReino Unido iniciará teste em humanos de vacina contra variante do ebola&nbsp;&nbsp;OCP News",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOERRaVRNcS1DQzZZU1p5enUxbXFLcVY0QkVrRmV6QXFMemEwb3lOQ1J1eDZ1RDNLWWFaUTA2bndXTFU3VTd3R3Y3c01RRjBhWDFxNHFuWms5a3RadmxxMXg1dl8xNXlBRmJOazlYX3gtbUpEbXo3akM2NWxkVVJDTXdOV3NoOE0zVDUtMWxyakR6SHBmX0xuLXJLX3RhWE5lUUJUNUNKQWZ6Q2lqbGVYOTRvdF9mc002a0QwRGFvWGhOR2Nabk9GSERsWE1CMHZSX0RtSE9PNGhId9IB6AFBVV95cUxNa0szRElzNUhGamxmdXpGMzF6LVhxQkFWejNQajY5MUIzR1V4emp5NkR6WXVrQWx2SWtqWTB5Zjc2aTBSZTRRZWJEdk93UEdiYjBuSEJmWHJyNE9IZmU0cWFQRnk2dFpraXJNY0JHYW1IUWxaZzl4a3JBTVZIRmVmdkdQbC00ZDAta0FmODdvekdTdmtRaFZVbWVmVDNXUGxVbWo1X184Yy1abmF4UExJRjl1ZElzQUlTRTdHTHFiXzdKVktxVzVFaGZSMU1rT0pOVWhhQ1VMSWlxdkszT09VRWlma1RGWFFr?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b36b807dad7a",
+      "title": "Cinco mudanças de hábito retardam declínio cognitivo em idosos, mostra estudo latino-americano - Folha de S.Paulo",
+      "published": "2026-07-13T13:15:00+00:00",
+      "summary": "Cinco mudanças de hábito retardam declínio cognitivo em idosos, mostra estudo latino-americano&nbsp;&nbsp;Folha de S.PauloVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
           "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ0NNWDRwdVZPcXJCQXRBamk0MmFwaDVVMmIxQTUyUkh6dVduSWF0dGJfeFlZXzRaZFMzMkN5UE80ZUhqZXFlTjNQRWZ6Uno2Q0pXREx1SHNmaDg5MVd2ekx0MVBvZ1k4Ni1kaDdCTl9OSkRMY1ZicFdWakptbE5sWHVIMGZ3MG5uaE5LcXJrQ2pqWngzVmI4aFpWNTJEdw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZE1ZdWgyRThTaDVSREhLV1JDeFRNZVRVWnhMSFBYSnl4NHJYUFBFa1BVeTFadUVHYWR2N1JTcnJLZHZvN3VuTzV4OFJ5a2RGekNVREdOS0w2YlFvaWNva0lMN2dHYUpYOHFQTWxuMTZzS1JTUDMyQU9GZlR4dFRQT1NJMW9jZzJVMlBTZjE5dmtHOHZVOVJpMEpicGVmZnZUSGFRMVIxaTBfSTBHaHpaNHE0WHdFb0ZoaEQ2U3Y2dTYwRk1hVWM0QVJkSzI5U2JRclAyUVNuLXdHTW12aGRhWm9NbWFOSF9wQmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bd59cee5c0fb",
+      "title": "Pesquisadores da Amazônia sequenciam o genoma do açaí pela 1ª vez - Poder360",
+      "published": "2026-07-13T09:21:44+00:00",
+      "summary": "Pesquisadores da Amazônia sequenciam o genoma do açaí pela 1ª vez&nbsp;&nbsp;Poder360",
+      "sources": [
+        {
+          "name": "Poder360",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcmswUGpFaHY1ZVZlOGZQSVhVMTRDdGwyMWtGVllkTjBpNzdZTzZRRzVRVkRISlo5OEVZNVV5ZDU0RnJia1VMRzBBZDlWVGlyRTFpbzhpZlAtNzJRYWZPckduWG14UkVyTUpZOUkzOFk3cW5rbDltTndXakRUM3ZpR3dQZWUtaEhEWHprOFpEdzVVRmdMV19JOHJKVm9rcGpLWVl5TVZiNGkwYXpNRk1YeWxB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "755889c6acc5",
+      "title": "Quem deve ter cautela com reposição hormonal na menopausa? Kalil explica - CNN Brasil",
+      "published": "2026-07-13T09:00:22+00:00",
+      "summary": "Quem deve ter cautela com reposição hormonal na menopausa? Kalil explica&nbsp;&nbsp;CNN BrasilFogachos e cansaço? Saiba quando a reposição hormonal é indicada&nbsp;&nbsp;A GazetaDo medo à personalização: o que mudou no tratamento da menopausa desde a última Copa conquistada pelo Brasil&nbsp;&nbsp;O NORTÃOComo equilibrar os hormônios naturalmente na menopausa para reduzir as ondas de calor e melhorar o humor&nbsp;&nbsp;Tua SaúdeMenopausa: o que é mito e o que é verdade?&nbsp;&nbsp;RBA TV",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQekhrQVpHQjczdVhMRG82SHpSRHBUZHVYYjNSZ1hsN3E0QVhTcGl0T2E3WXNsdHlsUlhLX09TaEJpZG0xWUJ3WFloakVhUEk3eVRjU2dXdm4tQnBmd1dNUHBzOG01OEZkZHMzalJ3UHVVM2pSMzV3NWhRd013X3VtTWNuZTI4WlhsSVpGSGRZRnlFY3FwYk1RV21tNHYzd3RNdjN2RWozVkp1WFE?oc=5"
         }
       ]
     },
@@ -57,7 +153,7 @@
       "id": "86210b8f2374",
       "title": "Estudo do UNICEF explica por que muitas gestantes trocam o parto normal pela cesariana - G1",
       "published": "2026-07-13T03:01:18+00:00",
-      "summary": "Estudo do UNICEF explica por que muitas gestantes trocam o parto normal pela cesariana&nbsp;&nbsp;G160% são cesáreas: o que afasta a mulher do parto normal?&nbsp;&nbsp;Correio do PovoFalta de anestesia e de informação leva brasileira a trocar parto normal por cesárea, aponta Unicef&nbsp;&nbsp;Folha de S.PauloFalta de informação e de analgesia eleva cesarianas no Brasil, diz Unicef&nbsp;&nbsp;Correio BraziliensePor que tantas mulheres querem parto normal, mas acabam tendo cesáreas, explica o UNIC",
+      "summary": "Estudo do UNICEF explica por que muitas gestantes trocam o parto normal pela cesariana&nbsp;&nbsp;G1Por que Brasil é o país das cesáreas? Estudo busca entender motivos&nbsp;&nbsp;UOLPor que muitas mulheres no Brasil querem parto normal, mas fazem cesárea?&nbsp;&nbsp;CNN BrasilFalta de informação e de analgesia eleva cesarianas no Brasil, diz Unicef&nbsp;&nbsp;Correio BrazilienseFalta de anestesia e de informação leva brasileira a trocar parto normal por cesárea, aponta Unicef&nbsp;&nbsp;Jornal d",
       "sources": [
         {
           "name": "G1",
@@ -153,7 +249,7 @@
       "id": "7043358a8950",
       "title": "Macaco encontrado morto tinha febre amarela; prefeitura reforça prevenção - Estado de Minas",
       "published": "2026-07-12T21:27:00+00:00",
-      "summary": "Macaco encontrado morto tinha febre amarela; prefeitura reforça prevenção&nbsp;&nbsp;Estado de MinasUberlândia confirma febre amarela em macaco encontrado morto&nbsp;&nbsp;G1Macaco morre com febre amarela em Uberlândia&nbsp;&nbsp;Tudo Em DiaVírus da febre amarela é detectado em macaco encontrado morto em Uberlândia&nbsp;&nbsp;RegionalzãoMorte de macaco por febre amarela é confirmada em Uberlândia; veja os impactos&nbsp;&nbsp;Paranaíba Mais",
+      "summary": "Macaco encontrado morto tinha febre amarela; prefeitura reforça prevenção&nbsp;&nbsp;Estado de MinasUberlândia confirma febre amarela em macaco encontrado morto&nbsp;&nbsp;G1Macaco morre com febre amarela em Uberlândia&nbsp;&nbsp;Tudo Em DiaMacaco encontrado morto em Uberlândia testa positivo para febre amarela; Saúde reforça vacinação&nbsp;&nbsp;patosja.com.brVírus da febre amarela é detectado em macaco encontrado morto em Uberlândia&nbsp;&nbsp;Regionalzão",
       "sources": [
         {
           "name": "Estado de Minas",
@@ -188,7 +284,7 @@
     {
       "id": "c3f61a97b96b",
       "title": "O hábito silencioso que pode afetar a saúde do cérebro na velhice - Rádio Itatiaia",
-      "published": "2026-07-12T20:52:03+00:00",
+      "published": "2026-07-12T20:52:56+00:00",
       "summary": "O hábito silencioso que pode afetar a saúde do cérebro na velhice&nbsp;&nbsp;Rádio ItatiaiaEstudos de psicologia concluíram que pessoas entre 55 e 75 anos têm maior tolerância ao silêncio em comparação com outras gerações&nbsp;&nbsp;Brasil 247O bem-estar do silêncio revela por que alguns preferem agitação e outros buscam a paz&nbsp;&nbsp;Correio BrazilienseSolidão na terceira idade pode aumentar risco de doenças; especialista alerta para sinais&nbsp;&nbsp;Agora RNPessoas que preferem o silêncio ",
       "sources": [
         {
@@ -222,14 +318,14 @@
       ]
     },
     {
-      "id": "541d63233305",
-      "title": "Canetas emagrecedoras ampliam incertezas para redes de farmácia - CNN Brasil",
-      "published": "2026-07-12T18:30:28+00:00",
-      "summary": "Canetas emagrecedoras ampliam incertezas para redes de farmácia&nbsp;&nbsp;CNN BrasilSinais no prato&nbsp;&nbsp;Estado de MinasCaneta emagrecedora: especialistas explicam mudanças no apetite e na relação com a comida&nbsp;&nbsp;GloboA nova economia da saúde: Hubs de negócios organizam mercado de GLP-1 manipulado de R$ 10 bilhões&nbsp;&nbsp;Correio BrazilienseCanetas Emagrecedoras: Desafio e Negócio na Gastronomia&nbsp;&nbsp;Campo Grande News",
+      "id": "6ee8d2cb02fa",
+      "title": "Fósseis de 544 milhões de anos não eram de animais, revela novo estudo com a Unesp - Superinteressante",
+      "published": "2026-07-12T19:00:00+00:00",
+      "summary": "Fósseis de 544 milhões de anos não eram de animais, revela novo estudo com a Unesp&nbsp;&nbsp;Superinteressante",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNN3pFb2pWUG80dURsX1hhMHJTQkpyMncwQVpkRndNaVlneVB0STV4WFRVZW0tZjJPSGh3VHMyXy1BcFBJa1NtbkZmbUFBcGV1VFFGN3NmMkd3Q1VicWRiMzdXek5DN2hrWHZYMm9wR1ZnYXdfbFpPZktzR3p3LWdYM0RTcnhnMktJWmtuZS11Nmhpc0Z2cXplamtMMzJWZ25ZRzIyQTl6eEYyXzRpZGlXcQ?oc=5"
+          "name": "Superinteressante",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObGVUM21veThUOFI0YkpDWkV3cG56VjNIR2VscHV2Z2JvYVhWczVoYmktRU4xYXlXTHY1Q050UGFmZnJ0SHVpVmVsbGl5MlRvdG9fS1NabDRiR0ZJb3dpQWlMZU53dGlEbWVrWWxrUC1rX1UwX0tfYUpIQkZYZjltQk1DZE1wRHM5cVdzX2hGeWJGREQxNWVXbERpNG9RT3puXzdzTFlJajNOU0hxS3d6d1hiZXVxR3F1?oc=5"
         }
       ]
     },
@@ -258,6 +354,18 @@
       ]
     },
     {
+      "id": "fcf1c674187f",
+      "title": "Via Láctea pode ser maior do que o estimado, diz estudo - CNN Brasil",
+      "published": "2026-07-12T17:19:48+00:00",
+      "summary": "Via Láctea pode ser maior do que o estimado, diz estudo&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNFJrMzBid0t2R2NvdFpqSmpsX2ROeWlCNHV3cHlNdmM0UjhJYi1VS0FhME5wRVJkcEttWGc5dXRlUTV6RzVLNXpsTHBrd20xaElGYjJhRFAxa0xBYU1hM21wZjdXTFU3cEFkeFlnT1F0bHNPNmZZUmxOYXRrTUNobkN6TzZudnhOYUQ1bWFrNDB3dGdjZG9B?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d4f9fdf2af55",
       "title": "7 frutas com pouco açúcar para quem tem diabetes ou quer emagrecer - UOL",
       "published": "2026-07-12T17:00:00+00:00",
@@ -266,6 +374,18 @@
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSnRqWGNGTUVNdVIwTkVELWRzb2lsZGR4Vk1Da1VxY0ZWSThoTUZ4a3JjT2VXWm9EM1RXUUlnNWx0dWh6LWVBMDh0d0pobDNjaGRfMzAzeVV5WlFUTnZWS2ZzTnQ0SnpFcUp5bDBhajBlTlAzUUVVUWJqWnJoTURRclFsLVUxdGdVTGdjb0M5aVJpZmwwaFBydjNIb01YYjBDa0UwRTRvQUFKWThISDZ5NEhqOTBIT01VZWdFRXlObTQwRmo5dC11Y2xR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8d1da60395a9",
+      "title": "Além da Covid: 5 vacinas que todo adulto deveria manter em dia - Portal UAI",
+      "published": "2026-07-12T15:00:00+00:00",
+      "summary": "Além da Covid: 5 vacinas que todo adulto deveria manter em dia&nbsp;&nbsp;Portal UAIVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "Portal UAI",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWUNOX0FtWVphbWplZjBUM1diRkdoOW5NX0h1aXNTd1ZGeUYxUG9tU3Axb0p0amtmVkMxY0hJdzJLSXd6bkpZTzE2UVphYlU3a3plRm9FM0FTR3JCbW1EeDhaZ3Z3YlMtanRycWpwVjE5VTZsYThnVWdqMUVUT2FxaXBJTGZRQXdtcmliLXF2dVFrU0pyeUtjUkRn0gGfAUFVX3lxTFA0d2VoUjhlMU04LWVhTzl4dUlaYU1DdWp3bkhOZWRKRG1PakJoUi0wa1djeVpSTkdRVDRfRXY3LW5XYWFVck1SVUo0SVRsN01tWmctLWpCMmtkUXNsTHFoT0F0WlJnQ1RLTENILVRFdzZ2anFHMWJSandhcldMVGttNEQ4aTBJQVQ5djlaQzR3Z1J0RlhHVkxxcDh2bE04aw?oc=5"
         }
       ]
     },
@@ -285,7 +405,7 @@
       "id": "b874b6af1f49",
       "title": "Natal começa a aplicar vacina Pneumo 20 nesta segunda-feira 13; veja quem pode receber - G1",
       "published": "2026-07-12T13:26:25+00:00",
-      "summary": "Natal começa a aplicar vacina Pneumo 20 nesta segunda-feira 13; veja quem pode receber&nbsp;&nbsp;G1Vacinação com Pneumo 20 começa nesta segunda em Natal para crianças menores de cinco anos&nbsp;&nbsp;Tribuna do NorteSanta Bárbara aplica 118 doses da vacina Pneumo 20 e mantém imunização infantil&nbsp;&nbsp;liberal.com.brVacina Pneumo 20 começa a ser aplicada em Rio Grande e São Lourenço do Sul&nbsp;&nbsp;GZHSete Lagoas começa a aplicar a vacina Pneumo 20; confira o público-alvo&nbsp;&nbsp;Sete L",
+      "summary": "Natal começa a aplicar vacina Pneumo 20 nesta segunda-feira 13; veja quem pode receber&nbsp;&nbsp;G1Vacina Pneumo 20 chega ao SUS e primeiras doses em Palmas já acabaram&nbsp;&nbsp;G1Vacinação com Pneumo 20 começa nesta segunda em Natal para crianças menores de cinco anos&nbsp;&nbsp;Tribuna do NortePrefeitura informa que nova vacina contra pneumonia e outras infecções graves já está disponível na capital&nbsp;&nbsp;Rondoniagora.comVacina Pneumo 20 começa a ser aplicada em Rio Grande e São Louren",
       "sources": [
         {
           "name": "G1",
@@ -342,22 +462,10 @@
       ]
     },
     {
-      "id": "545bf8d6c311",
-      "title": "Via Láctea é 10% maior do que se pensava, revela novo estudo - G1",
-      "published": "2026-07-12T08:00:45+00:00",
-      "summary": "Via Láctea é 10% maior do que se pensava, revela novo estudo&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbWZBU1hncEZMSUJlUkFtU3ZxWk9GeUpXZzdxZll2WHJsM001eklDRHd2eUk1OExjWmxVRUhwWUJQelBPT3pRZmxtVFVFcGRMMHVFU2tfNkw0R3dyMUNXbXphdVhrSmpYcGk0TTRVWENtekstRkMzdktuTG83WjREUGFCVGUxd0lHZ2N1N3dHenNEcXhuMWJtcUZTRE1ldjB3RnpEMldfai1rLU95SllqNzB2Qy02WXlNRHFzMEVPa0hMU3Q0?oc=5"
-        }
-      ]
-    },
-    {
       "id": "40c36f3c3f96",
       "title": "Saiba o que é fibromialgia, doença que afeta Elisa em 'Quem Ama Cuida' - O Dia",
       "published": "2026-07-12T08:00:00+00:00",
-      "summary": "Saiba o que é fibromialgia, doença que afeta Elisa em 'Quem Ama Cuida'&nbsp;&nbsp;O DiaEspecialista elogia destaque para fibromialgia em 'Quem ama cuida': 'Marco positivo e necessário'; veja perguntas e respostas sobre a doença&nbsp;&nbsp;Extra onlineDoença exibida em Quem Ama Cuida causa dores e nem sempre aparece em exames&nbsp;&nbsp;UOLDor no corpo inteiro, mas exames normais? Entenda o que pode estar por trás disso&nbsp;&nbsp;Jornal CorreioFibromialgia: diagnóstico tardio compromete qualidad",
+      "summary": "Saiba o que é fibromialgia, doença que afeta Elisa em 'Quem Ama Cuida'&nbsp;&nbsp;O DiaComo a Elisa de ‘Quem Ama’, Franciely Freduzeski relata dificuldade no diagnóstico da fibromialgia&nbsp;&nbsp;GshowDoença exibida em Quem Ama Cuida causa dores e nem sempre aparece em exames&nbsp;&nbsp;UOLDor no corpo inteiro, mas exames normais? Entenda o que pode estar por trás disso&nbsp;&nbsp;Jornal CorreioFibromialgia: diagnóstico tardio compromete qualidade de vida e reforça importância da avaliação espe",
       "sources": [
         {
           "name": "O Dia",
@@ -386,30 +494,6 @@
         {
           "name": "Revista Oeste",
           "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQNGQ0Mm1EZVlxZkZnb3dyNTZvTjdvcVVaQWFSNm1FbGlzdnVDbzRXZGo4b09tdUowRXBlMHJmVlUyclkxQXlTZkFjejhfZU1Zc3k2R2ZKTWZXYVZubXpQWHRRNjd0VXQwY2hSWXFVR0FNT2ExM2dhWmR3SWJsRk1BZHZ0ZnJOY2NTb2xNNTROd2lNN1ZwV0ptR1NWZ19Kb2FCMGRlM0dJUlFLVFdVdnFmTVBQMUVtZWlzZHhVSWxPZndNX3RodkRRSXk2UFhVQWloYzdoYXY3ZHp2UVpkTTExRmQwdWtMZmxnMlNUMHhpcVk5ekdWTWs2ZFAtNTd2bU1IVXl6NGczaFlsaTFXd3gtRjM2LVJQTlc3azdWdHJQbjVMWGZ3ckNBUlRyamJsaXNVQ3FRZzZWSHdmb0h0c1VnOEtn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2ca4523e8173",
-      "title": "INSS faz mutirão de perícia médica para auxílio-doença e BPC-Loas neste fim de semana - VEJA",
-      "published": "2026-07-11T18:28:52+00:00",
-      "summary": "INSS faz mutirão de perícia médica para auxílio-doença e BPC-Loas neste fim de semana&nbsp;&nbsp;VEJA",
-      "sources": [
-        {
-          "name": "VEJA",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNd0k2TG1qMDZzV01yU3JZTDRhdFpRMzNJODJ5MWc2REtGeDV3RXNHNjlqeXpkZWtpR0lweVhKOG9sN3RPZGFfbi1ydXBzWVhpeUJtNGtLbW8tR0N5NG5NSTVROVZUUG0xY2szWnpXOUxYQTdMS25yNW9YZUpnN1FrTFh5OGZFOHZ6XzBnbFpaUWEwNkVGNUZpZkxuLTVTeERuVWhrQkxCRkpOUnU5cU8yZF8xVmxwakhFWHNCXzl3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9115fccd27e3",
-      "title": "INMET alerta para risco de temporais neste sábado. Frente fria deve derrubar temperaturas na região de Marília - Visão Notícias",
-      "published": "2026-07-11T17:00:00+00:00",
-      "summary": "INMET alerta para risco de temporais neste sábado. Frente fria deve derrubar temperaturas na região de Marília&nbsp;&nbsp;Visão Notícias",
-      "sources": [
-        {
-          "name": "Visão Notícias",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWFplVEdfbmctRWkzNGctRm1abVBZdFZjY3MwamFvNDhYdUxTQVRMdjZxUW5TOEtmUWFHTGZwSVY1RE9zbkd2RTRaZ2FlejVkSWNoaGc1aVV5X3VqT0IyX0d4NHRQYm15VEFnWGo4OEl6bC1nVGZfVmZ4QWR2TG40TVVoQ0pxRUhSeDZtbkZhVWxLNDluYkpCdHQ4Z2tZbXpJRnJVSVhuR3M3d1E3M0xlVTFxOGlSTkN4eW5IUTVnWGVrQ2IxbnN6SVpSRVF0UFJxWTlKR2FvWGMweEZ2bHZYVGxCU1BxaWFX?oc=5"
         }
       ]
     }
