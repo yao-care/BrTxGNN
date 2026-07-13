@@ -1,10 +1,34 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-07-13T09:30:33.266803+00:00",
-  "total_fetched": 89,
+  "fetched_at": "2026-07-13T14:37:54.269448+00:00",
+  "total_fetched": 90,
   "unique_count": 86,
-  "health_related_count": 35,
+  "health_related_count": 34,
   "news": [
+    {
+      "id": "bbbd6e2117cb",
+      "title": "Como a demência está sendo derrotada - Folha de S.Paulo",
+      "published": "2026-07-13T11:00:00+00:00",
+      "summary": "Como a demência está sendo derrotada&nbsp;&nbsp;Folha de S.PauloVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ0NNWDRwdVZPcXJCQXRBamk0MmFwaDVVMmIxQTUyUkh6dVduSWF0dGJfeFlZXzRaZFMzMkN5UE80ZUhqZXFlTjNQRWZ6Uno2Q0pXREx1SHNmaDg5MVd2ekx0MVBvZ1k4Ni1kaDdCTl9OSkRMY1ZicFdWakptbE5sWHVIMGZ3MG5uaE5LcXJrQ2pqWngzVmI4aFpWNTJEdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b31fcc777830",
+      "title": "Esclerose múltipla: como desconfiar do quadro antes dos sintomas? - Estadão",
+      "published": "2026-07-13T08:30:00+00:00",
+      "summary": "Esclerose múltipla: como desconfiar do quadro antes dos sintomas?&nbsp;&nbsp;Estadão",
+      "sources": [
+        {
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV09mdVdpeTdiR1FNdmZsc2xqa09PVklEN2J3TzRZTURZeXZXOGxxb05iYlROT0d3ZU5ZM1EyQnY2VVlzak9fMllDazlaNENqYTdqQkIxdGNYSkNmdHlzdlRSejFEOTQzcHFnc0dXZy0zbi1uNDZsbkQ5ZXU5VDJuT2kxcWJBM3BELVNVUmMtSnctb1VaeDVlY21zTWpqNlhENHZnTklKUFcxWVhEUmtWMjVCTjdfRWfSAbwBQVVfeXFMUHcxQnVheXA2R1UxVlZwUlRzWkdhTE5SOS03QzFPNGg1eTZFaTdYVXdqTEJETWFhTlh2blR6UVVNbFdTRUtrTU5zaVo5bnI5Xy12OC0wWDN6YjI5QWJrV1o0Z1FrUVphMFQ3X1AxUU9LdW1MZm5TbDZPM1N4RFFITXRaeUdiczRPcXZ1NE5Qb19nbnBRQnNGSjc4VF9mUHBzQlAzTTRIQmdpMzRlVXVMMGpsMHphUG1ZNlltZGk?oc=5"
+        }
+      ]
+    },
     {
       "id": "d04fe9f03a00",
       "title": "O que as canetas emagrecedoras têm a ver com hidratação? Entenda o cuidado que pode passar despercebido - O GLOBO",
@@ -18,10 +42,34 @@
       ]
     },
     {
+      "id": "a6c08e379b93",
+      "title": "Descoberta sobre células-tronco musculares abre caminho para terapias antienvelhecimento - R7",
+      "published": "2026-07-13T03:01:59+00:00",
+      "summary": "Descoberta sobre células-tronco musculares abre caminho para terapias antienvelhecimento&nbsp;&nbsp;R7",
+      "sources": [
+        {
+          "name": "R7",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQX0xHaEZBMUQ1T083dmc2Y0lld0lKa09qRTdDYmoxdlJpRHFkNnNpUkp1MG9JdEVpMEtkaXVqbXNDcTF4dm1HU092TUxBYlBzUl9CdEUwTTZVSElmQUNKWEp6c25uM2xZaVRnUkI4OU9scHptZWtxSXVneDdxOEgyOTRvMFVDRzg5LUsyVEFoaGFGMFE2V2JlOHRRbHkzY1NVOHRCMnBJR3F2MHJXRjJwUV9lS3RVeXdRM3J5SmFoc1V4QnY5YW9lV1cyV3Z4cVZK?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "86210b8f2374",
+      "title": "Estudo do UNICEF explica por que muitas gestantes trocam o parto normal pela cesariana - G1",
+      "published": "2026-07-13T03:01:18+00:00",
+      "summary": "Estudo do UNICEF explica por que muitas gestantes trocam o parto normal pela cesariana&nbsp;&nbsp;G160% são cesáreas: o que afasta a mulher do parto normal?&nbsp;&nbsp;Correio do PovoFalta de anestesia e de informação leva brasileira a trocar parto normal por cesárea, aponta Unicef&nbsp;&nbsp;Folha de S.PauloFalta de informação e de analgesia eleva cesarianas no Brasil, diz Unicef&nbsp;&nbsp;Correio BraziliensePor que tantas mulheres querem parto normal, mas acabam tendo cesáreas, explica o UNIC",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQ3oxNXBURng1eGl0UjFkOGNGUEVBM0NGQ2x5eHE0WkF3am80eGw2clpLdVFLNGx6SzFEOHJLWmVxWTlDOE4wT21QTW15aDViV21oNnphOFBGTTg3c0NEV28teUxEZVVabzRCbUo1bW14YWdXbFMyWnpKcjVUaGFValYyLTczVTZvQkRHSVN3OVpfUFBtM3ZBeURjYzZpV0RMQTBjNWJOQkt3X1hOaHNjVUx0blRhVTgzMTNnMWtsdU12N203REUydEtjTmV6M2FJX1l3bl8zQlTSAecBQVVfeXFMTVVlcEhULTdSa3Q1TmJTM3laS3lhV2VKZDJWaTMwMkZlWlp5RllEaHh6WTFUX3luZm00T29HcUhmem1qOHZnVDUwMVJNd1NsRlFXVFNicnNGRGp4alJPSzJTQTVQTTFtWUctc01wV1hSeHQxUFBfTHRXTDRXU001Zy1xcm9TV3c5RWNENDlVU1pqeE41eEJXN1lvWVNqMnlXLVhGa0FySVJXYVZqUkZtUU9tYnE1Szdod0l6SVFzMnM5YmZTV0NlbnhrNVRyTVc4YjZjTGpRTjIySXc2RjRaeVhmSzd1ZVNj?oc=5"
+        }
+      ]
+    },
+    {
       "id": "41f00fe89530",
       "title": "Duas em cada três pessoas com Alzheimer são mulheres; sintomas podem começar por volta dos 45 anos - G1",
       "published": "2026-07-13T00:59:56+00:00",
-      "summary": "Duas em cada três pessoas com Alzheimer são mulheres; sintomas podem começar por volta dos 45 anos&nbsp;&nbsp;G1Veja mais manchetes e perspectivas no Google Notícias",
+      "summary": "Duas em cada três pessoas com Alzheimer são mulheres; sintomas podem começar por volta dos 45 anos&nbsp;&nbsp;G1Alzheimer em mulheres pode começar antes da velhice, apontam pesquisas&nbsp;&nbsp;Diário do Centro do MundoAlzheimer em mulheres: danos cerebrais podem começar bem antes da velhice&nbsp;&nbsp;G1Duas em cada três pessoas com Alzheimer são mulheres; sintomas podem começar aos 45 anos&nbsp;&nbsp;DeFato Online",
       "sources": [
         {
           "name": "G1",
@@ -78,6 +126,18 @@
       ]
     },
     {
+      "id": "0c506eb5cd70",
+      "title": "Quem consome café todos os dias tem risco 14% menor de morrer, segundo a ciência - Diário do Comércio",
+      "published": "2026-07-12T23:09:00+00:00",
+      "summary": "Quem consome café todos os dias tem risco 14% menor de morrer, segundo a ciência&nbsp;&nbsp;Diário do Comércio",
+      "sources": [
+        {
+          "name": "Diário do Comércio",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZGFrSEY1cDA3cFFOTEk3ZFpFS1lPZGc4d3BUeHpaVTZwMXlFYmtRRnFYdWVndnkwWC1jNnZWeWpMMHRHLUdIMUgtdGdjcnhBNkZsRTRNLVVKYUFTaUZkbjBQVkxwMUVhajBWeEIwWk93R1dUd3ZGbVhkY01tV19DTFR0OGJRVjFOOUdaVEp0Y1N4cVBGRnpiMVFtNFduTTlETE13QTJuNHZZekxYSXBibks2d1ZUQQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "69f39322e481",
       "title": "Cientistas descobrem que a pressão entre 2 e 6 quilômetros nas profundezas do oceano transforma a “neve marinha” em alimento, liberando até 50% do carbono e fazendo a quantidade de bactérias crescer 30 vezes em apenas dois dias - CPG Click Petróleo e Gás",
       "published": "2026-07-12T22:12:00+00:00",
@@ -126,6 +186,18 @@
       ]
     },
     {
+      "id": "c3f61a97b96b",
+      "title": "O hábito silencioso que pode afetar a saúde do cérebro na velhice - Rádio Itatiaia",
+      "published": "2026-07-12T20:52:03+00:00",
+      "summary": "O hábito silencioso que pode afetar a saúde do cérebro na velhice&nbsp;&nbsp;Rádio ItatiaiaEstudos de psicologia concluíram que pessoas entre 55 e 75 anos têm maior tolerância ao silêncio em comparação com outras gerações&nbsp;&nbsp;Brasil 247O bem-estar do silêncio revela por que alguns preferem agitação e outros buscam a paz&nbsp;&nbsp;Correio BrazilienseSolidão na terceira idade pode aumentar risco de doenças; especialista alerta para sinais&nbsp;&nbsp;Agora RNPessoas que preferem o silêncio ",
+      "sources": [
+        {
+          "name": "Rádio Itatiaia",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNlNxaXZRQkt1Z2ViajBqQXNQeGd6SGc4ZTdNYmtreTdaRHpYRWFGbEZJS19ELWFzTU9kY2QySno5Y1EzeE9taWJ5cUlwZXk4c29PYjJkd0psYVU1LWFpZzhTbWJYampTVzhJemxqWm1zdVJoZ3NQVDh6TUVyeUJ3cmJBdC1PZnc2UXhWbG8wQkZHY3FPbUtzNFJnU000N2ZOMkxv?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f26f3cd20e67",
       "title": "Mulher diz ter desenvolvido tumor cerebral após usar contraceptivo injetável: 'Não há um dia em que eu não chore' - Terra",
       "published": "2026-07-12T20:40:00+00:00",
@@ -153,7 +225,7 @@
       "id": "541d63233305",
       "title": "Canetas emagrecedoras ampliam incertezas para redes de farmácia - CNN Brasil",
       "published": "2026-07-12T18:30:28+00:00",
-      "summary": "Canetas emagrecedoras ampliam incertezas para redes de farmácia&nbsp;&nbsp;CNN BrasilSinais no prato&nbsp;&nbsp;Estado de MinasCanetas Emagrecedoras: Desafio e Negócio na Gastronomia&nbsp;&nbsp;Campo Grande NewsWegovy é único remédio contra obesidade ligado à queda no risco de morte, diz análise&nbsp;&nbsp;ExameDa fartura às miniporções: canetas emagrecedoras começam a transformar setor gastronômico de Cuiabá&nbsp;&nbsp;Olhar Direto",
+      "summary": "Canetas emagrecedoras ampliam incertezas para redes de farmácia&nbsp;&nbsp;CNN BrasilSinais no prato&nbsp;&nbsp;Estado de MinasCaneta emagrecedora: especialistas explicam mudanças no apetite e na relação com a comida&nbsp;&nbsp;GloboA nova economia da saúde: Hubs de negócios organizam mercado de GLP-1 manipulado de R$ 10 bilhões&nbsp;&nbsp;Correio BrazilienseCanetas Emagrecedoras: Desafio e Negócio na Gastronomia&nbsp;&nbsp;Campo Grande News",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -186,14 +258,14 @@
       ]
     },
     {
-      "id": "741830b4de50",
-      "title": "Estudo revela fatores por trás de tentativas de suicídio na adolescência - Folha de S.Paulo",
-      "published": "2026-07-12T16:28:00+00:00",
-      "summary": "Estudo revela fatores por trás de tentativas de suicídio na adolescência&nbsp;&nbsp;Folha de S.Paulo",
+      "id": "d4f9fdf2af55",
+      "title": "7 frutas com pouco açúcar para quem tem diabetes ou quer emagrecer - UOL",
+      "published": "2026-07-12T17:00:00+00:00",
+      "summary": "7 frutas com pouco açúcar para quem tem diabetes ou quer emagrecer&nbsp;&nbsp;UOLComer fruta à noite faz mal? Nutricionista explica&nbsp;&nbsp;bra1.com.brFrutas podem exigir restrições em algumas condições de saúde. Entenda&nbsp;&nbsp;MetrópolesFrutas fazem bem, mas em excesso podem prejudicar a saúde; entenda&nbsp;&nbsp;DOLConsumo de frutas requer atenção em condições de saúde específicas&nbsp;&nbsp;BH 24 Horas",
       "sources": [
         {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaklnUlVSUy1JdDlHYzZkZkxydDJiVUpuUW9LbUZrV05xOFRiMDEyYlc1Q3pkZHdJWjZCVjhUNzczSElLODFmN3UzQ3dTUC1uR3RhZTQwQVd6b1RMRHpNSzFtcUkyUlNFbXpMb19BQkVwcGtmMFN2QmFpR3QyUmtHaHNZa2tHYlEyYWRTMkMyaFFjZ0EtVVBZX0tTLTFNVTROdnlaa1BuS19nVWRSUjZVQWlTbTdpc3kzSUV3ZUtSME1RQlRLbXJyUGFEVlJiZw?oc=5"
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSnRqWGNGTUVNdVIwTkVELWRzb2lsZGR4Vk1Da1VxY0ZWSThoTUZ4a3JjT2VXWm9EM1RXUUlnNWx0dWh6LWVBMDh0d0pobDNjaGRfMzAzeVV5WlFUTnZWS2ZzTnQ0SnpFcUp5bDBhajBlTlAzUUVVUWJqWnJoTURRclFsLVUxdGdVTGdjb0M5aVJpZmwwaFBydjNIb01YYjBDa0UwRTRvQUFKWThISDZ5NEhqOTBIT01VZWdFRXlObTQwRmo5dC11Y2xR?oc=5"
         }
       ]
     },
@@ -213,7 +285,7 @@
       "id": "b874b6af1f49",
       "title": "Natal começa a aplicar vacina Pneumo 20 nesta segunda-feira 13; veja quem pode receber - G1",
       "published": "2026-07-12T13:26:25+00:00",
-      "summary": "Natal começa a aplicar vacina Pneumo 20 nesta segunda-feira 13; veja quem pode receber&nbsp;&nbsp;G1Vacina Pneumo 20 começa a ser aplicada em Rio Grande e São Lourenço do Sul&nbsp;&nbsp;GZHVacinação com Pneumo 20 começa nesta segunda em Natal para crianças menores de cinco anos&nbsp;&nbsp;Tribuna do NortePREFEITURA DE ARACAJU AMPLIA PROTEÇÃO CONTRA PNEUMONIA E MENINGITE COM OFERTA DA VACINA PNEUMO 20&nbsp;&nbsp;FaxAjuA partir desta segunda (6), municípios recebem mais doses da nova vacina contra",
+      "summary": "Natal começa a aplicar vacina Pneumo 20 nesta segunda-feira 13; veja quem pode receber&nbsp;&nbsp;G1Vacinação com Pneumo 20 começa nesta segunda em Natal para crianças menores de cinco anos&nbsp;&nbsp;Tribuna do NorteSanta Bárbara aplica 118 doses da vacina Pneumo 20 e mantém imunização infantil&nbsp;&nbsp;liberal.com.brVacina Pneumo 20 começa a ser aplicada em Rio Grande e São Lourenço do Sul&nbsp;&nbsp;GZHSete Lagoas começa a aplicar a vacina Pneumo 20; confira o público-alvo&nbsp;&nbsp;Sete L",
       "sources": [
         {
           "name": "G1",
@@ -258,14 +330,14 @@
       ]
     },
     {
-      "id": "16e665477f8b",
-      "title": "Reposição hormonal na menopausa: Dr. Kalil e convidados detalham indicações - CNN Brasil",
-      "published": "2026-07-12T09:00:03+00:00",
-      "summary": "Reposição hormonal na menopausa: Dr. Kalil e convidados detalham indicações&nbsp;&nbsp;CNN BrasilTreinar alivia sintomas da menopausa?&nbsp;&nbsp;Assine AbrilFogachos e cansaço? Saiba quando a reposição hormonal é indicada&nbsp;&nbsp;A GazetaComo equilibrar os hormônios naturalmente na menopausa para reduzir as ondas de calor e melhorar o humor&nbsp;&nbsp;Tua SaúdeMenopausa: por que essa fase virou um novo começo para a mulher&nbsp;&nbsp;O GLOBO",
+      "id": "2f9b0925e943",
+      "title": "Nova espécie de peixe das nuvens é descoberta na Caatinga do sertão cearense - Movimento Econômico",
+      "published": "2026-07-12T08:06:00+00:00",
+      "summary": "Nova espécie de peixe das nuvens é descoberta na Caatinga do sertão cearense&nbsp;&nbsp;Movimento Econômico",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPajh0M2R1TGdQS1VjaHViTnRZZzhINi1lTVBMZzZCc0g1RkM4dnlhVmFsT3VtNnMxeFZYNUF5d0V5ZkY3U09fNkRSenBZa1BFN3lDOF9XYnpKRVJpcXgwejBVbW5TSWNiZmx5aWU3MV9reWI2dmdSQ1lBdGgyeVdDMVlRX1A4SXVZamJKckxXal9DX2prd1RrYmRkcW50eDVIc3Z3TjI1ZlI3M05zR2c?oc=5"
+          "name": "Movimento Econômico",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUFUxbTIzM3VjUTRNYWRpQzBJQmJoZ2RKWXpidXJnQ0stczI4Q1ZQb01PYnkwUDJxVDVmbTJFaEotSk9Sb3h4YW5IV0pSU3NTcDBLeXA2bTNNUVY2ajBISW1rblVIMXZiQk9NdDRWNVNzUUN3Tk54UHdiOGVLMHF4c3lKdUR4T0VsLUlJeEZqQkdOMzIwcEY4bDF0WE9JZExLZ3h0WVB3aFFIZ19aMXdfTXQzdUs1MXBCeEFVTFhuTmRXRHo4SDh4VzZmX0hxLXY5LUE?oc=5"
         }
       ]
     },
@@ -290,30 +362,6 @@
         {
           "name": "O Dia",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQ0dHc1JEbkRibXRsbmo3OU5WQnVPTEZtbmxOVW9aV0NZVm52Z1YwNUNwVHR2alI0Y3VDZjNlRWFlZjMtNzZYN3Y0OEVpYzRTcmE0ODhETGdMdmhYcjVvUkNkY0I5enA1aDIyUkdEN2VSeVBFQm5MWVVNYll5UzFDOGkzcUpPdkR2blJZSl8xQlZwYk5xN0IzZjNRY1BQU3VMczJJQzlyc0hJdW9nZnVPTERkVndVbkRBSHdpaExUR2hVdXd5NW03cWdTTEh5UdIB0wFBVV95cUxNZ2pWbEJ5aWVLMmhqXzlZSXFTWHJNRWhfa1hPbXh2OWlIZjNRMC1sQWZUTjRPUU1UOHhKWkREWTVTdnJoejJGLUNlSnZDT3B1X2x0SzVPbkp4UmoyWnctenAzUENVS09QMFNfbXBHSTdZclA2RUJNTmJtRzdjaXJ5allJTE5IWEYtM3VLcDRTckhzUWc5T2RvclVuaUowRFpya1NuWDY0V3dRMnFCSXVCOEREMEwtdGw3Q3dtaURKMEI3STRHcHdGLWJUZngyemQ0allN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "39453d0deb7f",
-      "title": "Dois alunos do SENAI-RS desenvolveram IA para ajudar a identificar câncer ocular raro em crianças, foram o único projeto brasileiro na final mundial da Infomatrix, na Romênia, e conquistaram 2º lugar com redes neurais que prometem mais precisão no dia - CPG Click Petróleo e Gás",
-      "published": "2026-07-12T02:24:00+00:00",
-      "summary": "Dois alunos do SENAI-RS desenvolveram IA para ajudar a identificar câncer ocular raro em crianças, foram o único projeto brasileiro na final mundial da Infomatrix, na Romênia, e conquistaram 2º lugar com redes neurais que prometem mais precisão no dia&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQbWNRblRTZTRkT0pUSnh2M3FTNDNieVBLYVBRakNuTmlVT0x3QTZpbGd5eEdFX29jV1VFSzJ6YUhWTnVkbUx6M0pOcjAzdUNuWk8zN0tqMzVpYnc0RG5yOEZBTU5yTkVtOHJTUFgzTmNYSy00NnB5SFZZNFpZSXdXV1JQZGRuUjk2eW0xMENlM3RxdThKeEd4Z3ZXRGdPZXJLU1JpNGV1QjdwanB0WGFfc3V0WXZ0T0dDeWo0RjZEX2ZmbnpRZlJPT2FUS0Vsaks5ZnJnck0tLXJGNDRIWVlaTi01T1hxTDBYSF9tM3RsWlkwaEpNTmVqYlFhSGQ1MlNKZ0xHNFo3QXdjZXJBVGI3S3lPbnFHc3RKMFg1eXpfcjF0Z0tQVmpqWURHdm5BV2d1R0djZFZ5a0txdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1222c233b06e",
-      "title": "Estudo aponta por que matemática pode ser mais difícil para algumas crianças - Diário do Centro do Mundo",
-      "published": "2026-07-12T01:48:02+00:00",
-      "summary": "Estudo aponta por que matemática pode ser mais difícil para algumas crianças&nbsp;&nbsp;Diário do Centro do Mundo",
-      "sources": [
-        {
-          "name": "Diário do Centro do Mundo",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcXhhQk0xWVB0aW91eXBTcHRXX1A2WWV0QVpYSGpKN29FY3F6UEkweHpwckJ1cUJNOVE4RFBFbnZqM0ZLODFvQnZ4VTRUTzZUa2dadk8tWlBZcnl2NzdGTXl6dWZXNndYV24wSXRJczlLWHFrX24xbmVSOVlScDRLNWFIdl9KS3cwR2g3c1FUYmxTR0d1cHA1U3hHd1VxVklicXFLOU9pTDVKMjF4cEd2M2cxX2pxU0Q0S1l6TXBpcWQtZVVidUU0?oc=5"
         }
       ]
     },
@@ -362,66 +410,6 @@
         {
           "name": "Visão Notícias",
           "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWFplVEdfbmctRWkzNGctRm1abVBZdFZjY3MwamFvNDhYdUxTQVRMdjZxUW5TOEtmUWFHTGZwSVY1RE9zbkd2RTRaZ2FlejVkSWNoaGc1aVV5X3VqT0IyX0d4NHRQYm15VEFnWGo4OEl6bC1nVGZfVmZ4QWR2TG40TVVoQ0pxRUhSeDZtbkZhVWxLNDluYkpCdHQ4Z2tZbXpJRnJVSVhuR3M3d1E3M0xlVTFxOGlSTkN4eW5IUTVnWGVrQ2IxbnN6SVpSRVF0UFJxWTlKR2FvWGMweEZ2bHZYVGxCU1BxaWFX?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6eebe7d4edda",
-      "title": "Gastrite autoimune: os 11 sintomas da doença que acomete o bilionário americano conhecido mundialmente por buscar a juventude - O GLOBO",
-      "published": "2026-07-11T12:59:16+00:00",
-      "summary": "Gastrite autoimune: os 11 sintomas da doença que acomete o bilionário americano conhecido mundialmente por buscar a juventude&nbsp;&nbsp;O GLOBOO que é gastrite autoimune, doença de milionário que não quer envelhecer&nbsp;&nbsp;UOLBryan Johnson, famoso por buscar rejuvenescer, revela diagnóstico de gastrite autoimune&nbsp;&nbsp;MSNO que é gastrite autoimune, doença de empresário que gasta milhões para não envelhecer&nbsp;&nbsp;EstadãoGastrite autoimune: sintomas e desafios da doença rara do bili",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPTlpQS0ZLdUN3bi1CcGZENEFYQ2FXYS1XS0VZdXl2Z091ODBoMFhmQzFmV05jZHVkbi1KcDBYUTc1UkJJU0xkY3Jid0I4YkoxVHkxNk5IcWtmTlM5bkMwQVpXcU1ZaHp5cDZacWFyODE4ZURQNGlzQ01oM2l2aVZTaUo1UGJ0eW9mTG5BWVBvYU9aRHV0aWFTMXZ3U0pncHMxQ2FDSS1zLWZNN19ZMFR4Ql9ZVUdMQk1hSm1VUUdNem1fYWFCcWdpU2lYMWJFNEtZTmt6YjJtbUZhV1VoUm1PTFBROUlKSTJ2amZYUDVvbDN3S09JdVdtdUt5Z2o4Ri1OVFZwdmRkeGROcHJP0gGbAkFVX3lxTE10VjZLMjdETF9pbXdsY2dFamYzWVc0aWlybk9aTktNMVlydHd3Y0QyaEgtWGo4a0xYNmNHMW1iRHJ3WGZzRTFUR19TRnloRWFadjV3anp2dmJjMHpJeTg5ZlA3S2ZDLVYxaXBIMVBPa05YY1Rnczg1c2w0VWE3Nk1YaTgwem1zUGpsTWdLb2hlWGd6U21PZG0xNzZ2S1VfOFIxYWNacER0RFppQUE3QlZJZ1ZGQWJOODVjX2pLc2prV2JUc0NrZ3VmWWkycDVGRURnZkZzd2I5SVgxb3NCX0toaHVpeEhkMkxmMEdwVV9QMzVtbm0td3dCbXhQakRwV09BbWRXcVMxQzA5cldoUDJHSVhGVWg5M0JBOG8?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8e391a162231",
-      "title": "Do hype à ciência: o que o caso Virginia revela sobre a febre da soroterapia - G1",
-      "published": "2026-07-11T12:41:42+00:00",
-      "summary": "Do hype à ciência: o que o caso Virginia revela sobre a febre da soroterapia&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSnBtSl9IZF92dGFxTWhtWmVHLWg0RkRvb2VNSTBRd1QzcjU3Wld2eXFmTDZuOWlQcHNnRU1EajJmUndqU2NCTmRfbXY0UUpnbW1Jc1NFSjlKYmVmSVhVaHc1TTBKUmc0eVk1TnhFZFhacTRiQ2dMamhKaTlyLTMxaVp5VTd4dVAxY096MVdyNzBzaVE5ai1SdGZKb2hVMHo1UU5yRmswREU3ZzNSdGpmNDdFcUNvcndYTk8zdUVabW1yc0tmaFHSAdQBQVVfeXFMT1JTWHFIbFA0WEJCTEJialpNYjY0a09TXy04UWVsUm9SbUlkOEtkMmRJTmlwZHJ3VUcwSC1GdHFZS1l1NVl2SGhqZG9temt6N2R5M3pFbjVINVBwTVhENFZJYnl6aGU5d3RCc2pEaGdDN1UxZHJVOUdMMEx3cHhsVE5CZnF5VHdoelZidG5fWHpaeEljVFJOMTgwMTdKMGlPdGZsUUltRnVjYjlCMnduNWxVcnlZM18wVERvS2ZVa3VCZmJDUGNfb2VDR0RKTnlISFlCUUI?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b6297919c78e",
-      "title": "Plantão de vacinação em Campo Grande neste fim de semana - Campo Grande News",
-      "published": "2026-07-11T11:41:00+00:00",
-      "summary": "Plantão de vacinação em Campo Grande neste fim de semana&nbsp;&nbsp;Campo Grande NewsPlantão de vacinação no Norte Sul Plaza neste domingo&nbsp;&nbsp;Campo Grande NewsVacinação terá plantão em três pontos no fim de semana – CGNotícias&nbsp;&nbsp;campogrande.ms.gov.brSesau promove mutirão de vacinação em shopping neste sábado e domingo&nbsp;&nbsp;MidiamaxMutirão de vacinação oferece diversas doses à população&nbsp;&nbsp;TVTEC Jundiaí",
-      "sources": [
-        {
-          "name": "Campo Grande News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ2ZkamloSHFsVmZadUVUZzctWXF3Y09CTTBBUUd3eVBNSzBaUFNxa2E1RDRqQURZVFowc180TjBHeFh6N1M3WTV5Um5jN1lDQjNXam1qT0tKMTB6dDBGUU1KQlJwTTFaN3YtazExejdJVzZNUFNFQWdZV1BmTlZfVkMtUEVqeVZrRk96cDhDSm53QVhveHJiQ3BfcHJhRzRwekdEN3BPcG3SAagBQVVfeXFMTUx5Qy1Ob3NmNk9GaXFIbHBIMm1uOS1DYXlUN1BVY1J1RlFselk3ZzZhSGVpWjlzcFB4WEFNSW5RdmJac1dvSkNBNko2dzFnLWtfUmRwVVdONndoZWViT0dyTFdNeDcwWExpajVyN2VGdloyeDdaX3ZlTDlYcUxxZ1FqdlJTb3BGRXNxeWpZVmdGYlR0Z21QUXVLY2Q3WnFPclJuQkhYYjhk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "848aabd3c0ab",
-      "title": "Dormir pouco engorda? Estudo revela efeito de perder 80 minutos de sono - Exame",
-      "published": "2026-07-11T11:07:55+00:00",
-      "summary": "Dormir pouco engorda? Estudo revela efeito de perder 80 minutos de sono&nbsp;&nbsp;Exame",
-      "sources": [
-        {
-          "name": "Exame",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZHdMS0F1STFXSWtKNFhhdUQ3STU1ZnFsYWxBbWRtMVNta0c3dkhUY01KNVNycEpQeUVYQ056YkNOdUtZQWpGenFVQUZwZnJwOEl4LWlqajdfOEVJb3VENGowN2dmVXpKUWJUUFV5bGN2SlFRTXVNSVQ5Si1lNEdqN1psbE1xYjV0eW5JRGtVZGlMc3dHWXhVUG5rLVJfZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3584a332f399",
-      "title": "Fruta ajuda a aliviar os sintomas da gripe e limpar os pulmões; saiba qual - ICL Notícias",
-      "published": "2026-07-11T10:00:59+00:00",
-      "summary": "Fruta ajuda a aliviar os sintomas da gripe e limpar os pulmões; saiba qual&nbsp;&nbsp;ICL NotíciasO melhor alimento para fortalecer a imunidade e reduzir a frequência de gripes e resfriados&nbsp;&nbsp;Tua SaúdeAlimentação ajuda na imunidade&nbsp;&nbsp;G1A fruta mais saudável do mundo que fortalece a imunidade e muita gente ainda ignora&nbsp;&nbsp;Correio Braziliense",
-      "sources": [
-        {
-          "name": "ICL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tWl9pbThoMUlFbUJLV254SUwxZFhCS0dlMnhrZ0V6dVJNRWRUSEZjakRuenAtM3hOLWxHNWNXcE10VXVGMEhvb0dSc2huOG15cDQ0UnNHOFJGRzJwTFIxNWxacjdveGZJbmlSd1B3WkZaRXZpM1E?oc=5"
         }
       ]
     }
