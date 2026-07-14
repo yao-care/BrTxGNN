@@ -1,15 +1,15 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-07-14T02:38:24.912253+00:00",
-  "total_fetched": 90,
-  "unique_count": 90,
-  "health_related_count": 41,
+  "fetched_at": "2026-07-14T08:08:49.490918+00:00",
+  "total_fetched": 91,
+  "unique_count": 91,
+  "health_related_count": 43,
   "news": [
     {
       "id": "9594e18329d7",
       "title": "Saiba qual a quantidade de café que você pode beber por dia sem prejudicar a saúde - ICL Notícias",
       "published": "2026-07-13T23:22:54+00:00",
-      "summary": "Saiba qual a quantidade de café que você pode beber por dia sem prejudicar a saúde&nbsp;&nbsp;ICL NotíciasTomar café logo ao acordar faz mal? Especialistas explicam o hábito&nbsp;&nbsp;GZHBeber café ao acordar faz mal? Sem comprovação, dúvida se espalha nas redes&nbsp;&nbsp;Portal de BeltrãoCafé além da cafeína: os diversos benefícios da bebida mais querida dos brasileiros&nbsp;&nbsp;A CríticaQuais são os benefícios de beber café e que cuidados devem ser tomados ao fazê-lo, segundo especialistas",
+      "summary": "Saiba qual a quantidade de café que você pode beber por dia sem prejudicar a saúde&nbsp;&nbsp;ICL NotíciasTomar café logo ao acordar faz mal? Especialistas explicam o hábito&nbsp;&nbsp;GZHBeber café ao acordar faz mal? Sem comprovação, dúvida se espalha nas redes&nbsp;&nbsp;Portal de BeltrãoNutricionista explica benefícios do café e desmistifica mitos sobre a bebida durante Tardezinha do ET em Varginha&nbsp;&nbsp;Varginha DigitalQuais são os benefícios de beber café e que cuidados devem ser toma",
       "sources": [
         {
           "name": "ICL Notícias",
@@ -66,6 +66,18 @@
       ]
     },
     {
+      "id": "d958e1079491",
+      "title": "Quando a dor deixa de ser 'normal'? Os sinais que podem indicar câncer nos ossos - Jornal Correio",
+      "published": "2026-07-13T20:09:19+00:00",
+      "summary": "Quando a dor deixa de ser 'normal'? Os sinais que podem indicar câncer nos ossos&nbsp;&nbsp;Jornal Correio",
+      "sources": [
+        {
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNX0Y4YzFsaEJJWXpnTmFncDdFNjk1VEpKRUtSeW5GNWROLThNUmQyMjJyeUZXY3JZaW9qSXZfUHFNMW5YLVQteGZJWHVwVE1rSk93cUVNU0p5NFNUSkt6TGJubXJEcTB6am9yenpZRmFTN29YRk40RTZCN0FzX294OXJxcklWVzRNUElZbTY2bDR5VHpSOFV4ZU5yTVAtQUtTTlJoZThMc2VQOEhJTldnN0NENlhUeUp1SDJoRGJ4VQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "9de26c0779b9",
       "title": "Dormir menos pode te fazer ganhar peso: veja quantos minutos é prejudicial - UOL",
       "published": "2026-07-13T19:52:56+00:00",
@@ -74,6 +86,18 @@
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNM2ZVZEhvSjdpa1FrOWtjSXhuMmRoY3FBUjBiSkN5LU5lbm1iRzF0NGpYR1k0aXdNbGptR3ZfVURCSWpCMTBpN181RGItd1JLODhLdk5fakdxUkMyRzdacV9odm9ERms2QmZ5SXFrWm1Qa2F2aERLRmpIbDNDTC01bF9rWllvLXJCOGgtTFFma3pBUjk3YUdWVlJtRTlHWVhvVGQ0ek44YW0xa01mLS1jeFpWVDlyS2FST292d3dmVEVtRFBFcGFmSzdtNzRMcHFhQWRV?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4393d7431ba8",
+      "title": "O neurocientista Ryuta Kawashima afirma que a troca manual de marchas tem \"um efeito significativo na manutenção da saúde mental e da função cognitiva\" - Terra",
+      "published": "2026-07-13T18:07:00+00:00",
+      "summary": "O neurocientista Ryuta Kawashima afirma que a troca manual de marchas tem \"um efeito significativo na manutenção da saúde mental e da função cognitiva\"&nbsp;&nbsp;Terra",
+      "sources": [
+        {
+          "name": "Terra",
+          "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQRTVTWnkxNmVDbVE2Q2hHM2wzcnduUzFsZW16aXdzUWRUZHFZdWtLdWY4UXNhUmxCNHdjRDM1bFgyUGdaekZzOHNpQk9pSnZ5ZWk5bkQ1azhYbmUtM1A0WjFrSXQ1QXAzdGVkN0xfZE5XTmNBNWJwUkdnN0ZlMHluWVI3bUExUTBldlkteDJuZ3NYcjJWcm44OGtQN20xRENEM25LemM1bEkxX2RfU2dkT2JMSXk5MWp6UERhTTh6M1lPLW4tSjhrcFFHWjBxdEpVZk0tTTJIRnRPbDREWHl1UWtqMnVGVkQ2UmFBWXdWTDBFeGlsUmQ0OXlOWTd2UDVLOFlxak1TUUNScWFmVzZnMzBPUjlmYm5lU0syTHlORHBJRW55dzU0YkhzRGhJTGZsZXRPTlFHbl9WSkVieFA5N3MzbFg1WDNPRjNfYy05STY?oc=5"
         }
       ]
     },
@@ -186,10 +210,22 @@
       ]
     },
     {
+      "id": "2091cb5d10e8",
+      "title": "Estudantes de Psicologia da Unioeste expõem pesquisas sobre ética no campus de Toledo - Toledo News",
+      "published": "2026-07-13T14:25:00+00:00",
+      "summary": "Estudantes de Psicologia da Unioeste expõem pesquisas sobre ética no campus de Toledo&nbsp;&nbsp;Toledo News",
+      "sources": [
+        {
+          "name": "Toledo News",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOGRKV0FNV3ZIUGJ6elRXZzgwUlV5bjQ3NU9pUWpfLVY1RlJQTkRFMzhkWkIyVVBqRkNNY2lYLUxtNEo3d0h0NGpOS01XejlOSW9tWmdWSG5rS3dRYmdUYndNNmhtaDBoWXcwQ09NcGJkWGRCNDNra2VzSnlpdDJRVE44dlhpc0Y3QllURnZyUTk0MkY3ekZvVGFrcTc5cU5KcmJiMGtHS0xveS1nUXpZb0FueG1wMGdlbmtEaXprOHU?oc=5"
+        }
+      ]
+    },
+    {
       "id": "21298b5e0b53",
       "title": "Oxford inicia primeiro ensaio clínico em humanos de vacina contra cepa Bundibugyo do Ebola - G1",
       "published": "2026-07-13T14:02:03+00:00",
-      "summary": "Oxford inicia primeiro ensaio clínico em humanos de vacina contra cepa Bundibugyo do Ebola&nbsp;&nbsp;G1Ebola: Oxford inicia primeiro teste em humanos de vacina contra o vírus causador do surto atual&nbsp;&nbsp;Folha PEReino Unido iniciará teste em humanos de vacina contra variante do ebola&nbsp;&nbsp;OCP NewsOxford inicia primeiro teste em humanos contra cepa do ebola&nbsp;&nbsp;R713/07/2026 | Vacina Ebola, calor e riscos cardiovasculares&nbsp;&nbsp;Afya | Home",
+      "summary": "Oxford inicia primeiro ensaio clínico em humanos de vacina contra cepa Bundibugyo do Ebola&nbsp;&nbsp;G1Oxford inicia 1º ensaio clínico em humanos de vacina contra nova cepa do ebola&nbsp;&nbsp;Folha de S.PauloEbola: Oxford inicia primeiro teste em humanos de vacina baseada na mesma plataforma da Covid-19&nbsp;&nbsp;O GLOBOReino Unido inicia testes de vacina contra nova variante do ebola&nbsp;&nbsp;R713/07/2026 | Vacina Ebola, calor e riscos cardiovasculares&nbsp;&nbsp;Afya | Home",
       "sources": [
         {
           "name": "G1",
@@ -206,6 +242,18 @@
         {
           "name": "Medscape",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaEJXZnU3ckhPNkRNU191cWdQanpMdHhLT3c5RnY0ekMyNl9NR3h5a2FzUVdxOXptMFZPSlZtMGlQN093LUlndXgzS3hvODFGNjY3NlNmWVFJS0Z0bVNjbkU1Yk0tRTJ6QkJ1RGdYVDhfRWx5T1RDWGxmWndySG5GZUhIYnJ1cG5GSDFsWGVHWFRlNDZxTXlUaTdsMHNOcVdpVXF1NGpaelBBMmVt?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0c77bf63e782",
+      "title": "Ciência prova que envelhecimento não é sinônimo de demência quando o estilo de vida muda - Jornal da USP",
+      "published": "2026-07-13T11:14:00+00:00",
+      "summary": "Ciência prova que envelhecimento não é sinônimo de demência quando o estilo de vida muda&nbsp;&nbsp;Jornal da USP",
+      "sources": [
+        {
+          "name": "Jornal da USP",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSjlaYUlPNDZMUmFSbnlHTm15dUJuME56OWlOa3BEU25ORV8wUzNBSzlCU1ZTaEtmd0NYclluOW9KZElNMVVldEVGYk9RaFlGano2ZWxTN0ctd2lndHJCWUlnT2M3OUU5RUVPcF9ScVM3cUVuS29kbFNMYlQyaURLdFVSNExScDZrVVhtcW12MW5CcXk2Q0VHY1dWTnNlU2NNVGk3N3RhX0xHUGdvUm13R0VRLV9UYXRvWjlPdA?oc=5"
         }
       ]
     },
@@ -249,7 +297,7 @@
       "id": "d04fe9f03a00",
       "title": "O que as canetas emagrecedoras têm a ver com hidratação? Entenda o cuidado que pode passar despercebido - O GLOBO",
       "published": "2026-07-13T05:30:08+00:00",
-      "summary": "O que as canetas emagrecedoras têm a ver com hidratação? Entenda o cuidado que pode passar despercebido&nbsp;&nbsp;O GLOBODescubra se o uso de caneta emagrecedora pode causar flacidez íntima&nbsp;&nbsp;GZHEmagrecimento acelerado com medicamentos vira gatilho para queda capilar intensa&nbsp;&nbsp;diaadiaes.com.brEfeito “Ozempic” no cabelo preocupa especialistas e impulsiona mercado de produtos para fios finos&nbsp;&nbsp;Jornal DR1Canetas emagrecedoras podem causar queda de cabelo? Médica explica ",
+      "summary": "O que as canetas emagrecedoras têm a ver com hidratação? Entenda o cuidado que pode passar despercebido&nbsp;&nbsp;O GLOBODescubra se o uso de caneta emagrecedora pode causar flacidez íntima&nbsp;&nbsp;GZHEfeito “Ozempic” no cabelo preocupa especialistas e impulsiona mercado de produtos para fios finos&nbsp;&nbsp;Jornal DR1Canetas emagrecedoras podem causar queda de cabelo? Médica explica | SEGS Portal Nacional de Seguros,...&nbsp;&nbsp;SEGS Portal NacionalEmagrecimento acelerado com medicamento",
       "sources": [
         {
           "name": "O GLOBO",
@@ -306,6 +354,18 @@
       ]
     },
     {
+      "id": "8567b7d329b6",
+      "title": "Enquanto a medicina ainda não consegue transplantar um olho capaz de enxergar, cientistas criam uma “máquina-coração” que faz líquido circular pelos vasos e mantém um globo ocular humano vivo por horas fora do corpo em projeto de US$ 5,3 milhões - CPG Click Petróleo e Gás",
+      "published": "2026-07-12T23:57:00+00:00",
+      "summary": "Enquanto a medicina ainda não consegue transplantar um olho capaz de enxergar, cientistas criam uma “máquina-coração” que faz líquido circular pelos vasos e mantém um globo ocular humano vivo por horas fora do corpo em projeto de US$ 5,3 milhões&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNOUJkdUZRc1N2VjZLeG80WjN0c1lGZjV1MGdKM2ppc0N6N2pxeFJGT21faEpmNjJseDNZcWZoeTJHVFpZWThDZk1WWGE3ZU9pbWR4RWZSOWE0ZlQtUkU1UmpBQ3diaVFycmx6RVR1TjJoZFBqc0d6cldIVWJfZ1dYdzVTNndlLWF1VUI2VzR5VXllOVVGd1lIcXVfaGRGcS1uMU9zbXFkNzdmOEVYdTFMMllscDc4LVJLQi1jSkhhVUZlOTlCSGltd0RoRlhoU1FSRzdTYU04MVloN09zLW1NWmdkNlJscEh1X3Jvb2F5RkNUNVVJZDlWUDZVaUF1emJLUVhyQW9LSGdqTDhNQTVSNThITmtoU194VGVjSlJpWEZzNHZMejZ1TldyWUk3VzdiMEtVWlNhV3RJdU5BdGd5cUM2R1c?oc=5"
+        }
+      ]
+    },
+    {
       "id": "0fc00f56d48a",
       "title": "Cientista brasileiro ganha um dos maiores prêmios de pesquisa contra o câncer da Alemanha por descoberta sobre ferroptose, processo que pode fazer células tumorais resistentes a remédios entrarem em colapso e abrir caminho para novos tratamentos - CPG Click Petróleo e Gás",
       "published": "2026-07-12T23:36:00+00:00",
@@ -330,18 +390,6 @@
       ]
     },
     {
-      "id": "33baa1e809f3",
-      "title": "Pesquisas da NASA confirmam que tempestades de poeira do deserto do Saara carregam toneladas de fósforo pelo ar, que podem ter sido essenciais para fertilizar a Floresta Amazônica por milênios - Revista Oeste",
-      "published": "2026-07-12T22:20:00+00:00",
-      "summary": "Pesquisas da NASA confirmam que tempestades de poeira do deserto do Saara carregam toneladas de fósforo pelo ar, que podem ter sido essenciais para fertilizar a Floresta Amazônica por milênios&nbsp;&nbsp;Revista Oeste",
-      "sources": [
-        {
-          "name": "Revista Oeste",
-          "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQa04wUEZGaWE5YUdEQTZuRnVYeEZXMU92SVRjR3BXQmxWTExHNXVka3RUYTJzQWhuSlJDN256SzNPZG9WZ3hvX28tMEFmUDhrS0QwT1U5RW9HZlJ4YXhBSTduSHQydFlCbzRFY2Q3eGV0eVVVd29ENS1hQ3oydGktb0hmWDdRMzEwOUVyc2s0M18yaGlkUWhBQm1kQkNkeC1sbFlrcnV5VElwc3hnSU4xUExFcDdPZjBFZlZFV0xfZ1M5bDZpN0VuMmN1cS1ZVDdSMngzNFlQeWgzeFFKOF94WGdRSllEN0FfN0k0NDNjTlZ4RXNmVXNELXlBZjFwQ1ZRelpPS2J3WkptUzBibUxoaXQ5Y2FIdk9Fd0ZOOHhQNEQtalRNeUFJZG5DVzRlUmxKdFNZRkdyZjZBZ0d5OHBxVTM4QlYzcVB1RW84eTVQNXdCVURVd016MFNlbw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7043358a8950",
       "title": "Macaco encontrado morto tinha febre amarela; prefeitura reforça prevenção - Estado de Minas",
       "published": "2026-07-12T21:27:00+00:00",
@@ -350,30 +398,6 @@
         {
           "name": "Estado de Minas",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRjNGaUIyQlhoYzZ2amJzUW9xYnlQc1lTY2lSd21DSUlwcGFEZDZZT0FVRVFwdmFKOGVXZTB2OTZfU252OHUwMjItckpsX3ptY1N3RWpjTnI5WGQwcXdWQjVQQjgzSHNvNWN4aWRVOEkteHlmd1lZNGFPLTM4a3ZHUHByM0liUXk4SVZiR2JxQ250THNWOGVDUk1GWVdEcng2OHA1ZVJDSFUzUXBGMWw1MktvNjRmWktsNFlZMU5Hb9IBxAFBVV95cUxQb0hQTUZtR09jZVMxdm1pU2g0emd4WFctUmQtUkZ6YkZlR0hkeVpTQnJQNVRORS1Vdjk3bTBhUDE5bTV3SlFxa25tdFNRaXJTYXZPS2ZqNVR0NVMxYWN0cm5oZTRzQi1BejI0cE0xWkNSeHp0eDlvTUdwMFZhUXNnVzU4UGt6Uk5vN1VGTzZSdldPLVctVUNWSGFZTXRrSGxOR1ZySUhSQ01WY19IVnAyY19La3dtZFFWbm41bHBzMm5YSFJT?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e5ffbf796764",
-      "title": "Pessoas que acordam cedo são mais felizes e contentes com a própria vida, aponta estudo - Rádio Itatiaia",
-      "published": "2026-07-12T21:13:27+00:00",
-      "summary": "Pessoas que acordam cedo são mais felizes e contentes com a própria vida, aponta estudo&nbsp;&nbsp;Rádio Itatiaia",
-      "sources": [
-        {
-          "name": "Rádio Itatiaia",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTDJzQ3ZxVG1kOUxNaDlCeFlDN3cxR1BkQTJCWE00UjRnRHZRUjhZNENBWnpya0FDM3NyWjB5NGRtRkdoSkdoanJjMnM1eGJXeVJsQXRvMWJwR3Bla1ljOG9iRllkLVF6RDhaVkdkaHpMRVFFa1JlT3NXc1dPREt1aEZZVFhXRzhQa0pBWV81dVY4V0tkeTBlS2RCeDdseDNzVWVIejNvR0lPTkI5VUZUQ0E5eWhVVmZ4b0h2VDlUWQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1995a8944395",
-      "title": "Cientistas criam catálogo para identificar vírus com potencial pandêmico - Folha de S.Paulo",
-      "published": "2026-07-12T21:00:00+00:00",
-      "summary": "Cientistas criam catálogo para identificar vírus com potencial pandêmico&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWUJ3ZHVEQkVHV2pHR0pmVHRrTnRDWHdIQzhMN2hYQkNzYksydXZycWJpYlA3eG1tRGM5SldodU5HUDNHUWI2ZlJTVzB5ZWVSWkNoczBUS3JVaS1WVkFzcjBOZHBjdnY5TTJ1ZHg0UDRhUmFXVHE1Zm1lSk5SUWtwRzd4QkN4endodXNobnJjeFJja2ROeE15SEdUSDk5QUl4anFZN0puVE1UOW1aNnRGUDJKNGdJNlpZaENMWnYyMzlxS1dPaWNnQ2RLNVJLdw?oc=5"
         }
       ]
     },
@@ -414,6 +438,18 @@
       ]
     },
     {
+      "id": "6ee8d2cb02fa",
+      "title": "Fósseis de 544 milhões de anos não eram de animais, revela novo estudo com a Unesp - Superinteressante",
+      "published": "2026-07-12T19:00:00+00:00",
+      "summary": "Fósseis de 544 milhões de anos não eram de animais, revela novo estudo com a Unesp&nbsp;&nbsp;Superinteressante",
+      "sources": [
+        {
+          "name": "Superinteressante",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObGVUM21veThUOFI0YkpDWkV3cG56VjNIR2VscHV2Z2JvYVhWczVoYmktRU4xYXlXTHY1Q050UGFmZnJ0SHVpVmVsbGl5MlRvdG9fS1NabDRiR0ZJb3dpQWlMZU53dGlEbWVrWWxrUC1rX1UwX0tfYUpIQkZYZjltQk1DZE1wRHM5cVdzX2hGeWJGREQxNWVXbERpNG9RT3puXzdzTFlJajNOU0hxS3d6d1hiZXVxR3F1?oc=5"
+        }
+      ]
+    },
+    {
       "id": "79ba9171c053",
       "title": "Rastreadores fitness podem causar ansiedade e transtornos alimentares - Folha de S.Paulo",
       "published": "2026-07-12T18:30:00+00:00",
@@ -441,7 +477,7 @@
       "id": "d4f9fdf2af55",
       "title": "7 frutas com pouco açúcar para quem tem diabetes ou quer emagrecer - UOL",
       "published": "2026-07-12T17:00:00+00:00",
-      "summary": "7 frutas com pouco açúcar para quem tem diabetes ou quer emagrecer&nbsp;&nbsp;UOLComer fruta à noite faz mal? Nutricionista explica&nbsp;&nbsp;bra1.com.brFrutas podem exigir restrições em algumas condições de saúde. Entenda&nbsp;&nbsp;MetrópolesFrutas fazem bem, mas em excesso podem prejudicar a saúde; entenda&nbsp;&nbsp;DOLConsumo de frutas requer atenção em condições de saúde específicas&nbsp;&nbsp;BH 24 Horas",
+      "summary": "7 frutas com pouco açúcar para quem tem diabetes ou quer emagrecer&nbsp;&nbsp;UOLComer fruta à noite faz mal? Nutricionista explica&nbsp;&nbsp;bra1.com.brFrutas podem exigir restrições em algumas condições de saúde. Entenda&nbsp;&nbsp;MetrópolesConsumo de frutas requer atenção em condições de saúde específicas&nbsp;&nbsp;BH 24 HorasComer fruta à noite faz mal? Eis o que acontece ao açúcar no sangue&nbsp;&nbsp;SIC",
       "sources": [
         {
           "name": "UOL",
@@ -450,26 +486,14 @@
       ]
     },
     {
-      "id": "8d1da60395a9",
-      "title": "Além da Covid: 5 vacinas que todo adulto deveria manter em dia - Portal UAI",
-      "published": "2026-07-12T15:00:00+00:00",
-      "summary": "Além da Covid: 5 vacinas que todo adulto deveria manter em dia&nbsp;&nbsp;Portal UAIVeja mais manchetes e perspectivas no Google Notícias",
+      "id": "60716976014b",
+      "title": "Natal começa a aplicar vacina Pneumo 20 nesta segunda-feira 13; veja quem pode receber - G1",
+      "published": "2026-07-12T13:26:25+00:00",
+      "summary": "Natal começa a aplicar vacina Pneumo 20 nesta segunda-feira 13; veja quem pode receber&nbsp;&nbsp;G1Vacina Pneumo 20 chega ao SUS e primeiras doses em Palmas já acabaram&nbsp;&nbsp;G1Vacinação com Pneumo 20 começa nesta segunda em Natal para crianças menores de cinco anos&nbsp;&nbsp;Tribuna do NortePrefeitura informa que nova vacina contra pneumonia e outras infecções graves já está disponível na capital&nbsp;&nbsp;Rondoniagora.comVacina Pneumo 20 começa a ser aplicada em Rio Grande e São Louren",
       "sources": [
         {
-          "name": "Portal UAI",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWUNOX0FtWVphbWplZjBUM1diRkdoOW5NX0h1aXNTd1ZGeUYxUG9tU3Axb0p0amtmVkMxY0hJdzJLSXd6bkpZTzE2UVphYlU3a3plRm9FM0FTR3JCbW1EeDhaZ3Z3YlMtanRycWpwVjE5VTZsYThnVWdqMUVUT2FxaXBJTGZRQXdtcmliLXF2dVFrU0pyeUtjUkRn0gGfAUFVX3lxTFA0d2VoUjhlMU04LWVhTzl4dUlaYU1DdWp3bkhOZWRKRG1PakJoUi0wa1djeVpSTkdRVDRfRXY3LW5XYWFVck1SVUo0SVRsN01tWmctLWpCMmtkUXNsTHFoT0F0WlJnQ1RLTENILVRFdzZ2anFHMWJSandhcldMVGttNEQ4aTBJQVQ5djlaQzR3Z1J0RlhHVkxxcDh2bE04aw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8a815e70e7b0",
-      "title": "Natal começa a aplicar vacina Pneumo 20 nesta segunda-feira 13; veja quem pode receber - Grande Ponto",
-      "published": "2026-07-12T14:10:00+00:00",
-      "summary": "Natal começa a aplicar vacina Pneumo 20 nesta segunda-feira 13; veja quem pode receber&nbsp;&nbsp;Grande PontoVacina Pneumo 20 chega ao SUS e primeiras doses em Palmas já acabaram&nbsp;&nbsp;G1Vacinação com Pneumo 20 começa nesta segunda em Natal para crianças menores de cinco anos&nbsp;&nbsp;Tribuna do NortePrefeitura informa que nova vacina contra pneumonia e outras infecções graves já está disponível na capital&nbsp;&nbsp;Rondoniagora.comVacina Pneumo 20 começa a ser aplicada em Rio Grande e ",
-      "sources": [
-        {
-          "name": "Grande Ponto",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaTlDZlpPNk1tZUtiOEI2WnVrcjR1MndYVERBTk1pMXNaa0ktV245RWxmZ2M1N2MzWFF0b2Y5WHJlSWxyNnpPTEhNTGNTNjlUNnNaT0RHVEZyc2ZicktQOTNvODhjN0xjaHRFdGRVLU1GcGNNU29McHpXYlE0QVFLanV5bUhTR29yY1hOMXY2NC1oLVlWdW9xb1dzRkhjUmxmR2Q3YmF5NnZMZWtvLTkwX05YZDliTDR5NURuRlhaOVB2UQ?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONm9McW5yRkhPWXNYRTZsWkZyVlFTdzdqc1NwUTVpRVFkaVFSLTBvM3h6WUJaM1BsVDRUNkwxUDZ4QzByRkh4OHBJN2RHX0tRV2F2ZVRPRmtTSEtld3Y2T2czQ0dCcHFPN29XYlNHWGQxckJCd04zRWZtczBzYVM5Q3JfeWFfcVVldkZlaWtBWUtlV2p2eklFN1d6MHlTanV0aFA2ck9JWi01T3Njb1R6U0plYjhkeVF5U3lHa3FkaHhtUWE3UFlIaWNfOG9SaEZoREU4VWRCU1IwdU1vMDRBdDlwTUdOeDdQa0E?oc=5"
         }
       ]
     },
@@ -489,7 +513,7 @@
       "id": "40c36f3c3f96",
       "title": "Saiba o que é fibromialgia, doença que afeta Elisa em 'Quem Ama Cuida' - O Dia",
       "published": "2026-07-12T08:00:00+00:00",
-      "summary": "Saiba o que é fibromialgia, doença que afeta Elisa em 'Quem Ama Cuida'&nbsp;&nbsp;O DiaComo a Elisa de ‘Quem Ama’, Franciely Freduzeski relata dificuldade no diagnóstico da fibromialgia&nbsp;&nbsp;GshowDoença exibida em Quem Ama Cuida causa dores e nem sempre aparece em exames&nbsp;&nbsp;UOLDor no corpo inteiro, mas exames normais? Entenda o que pode estar por trás disso&nbsp;&nbsp;Jornal CorreioFibromialgia: diagnóstico tardio compromete qualidade de vida e reforça importância da avaliação espe",
+      "summary": "Saiba o que é fibromialgia, doença que afeta Elisa em 'Quem Ama Cuida'&nbsp;&nbsp;O DiaComo a Elisa de ‘Quem Ama’, Franciely Freduzeski relata dificuldade no diagnóstico da fibromialgia&nbsp;&nbsp;gshow.globo.comDoença exibida em Quem Ama Cuida causa dores e nem sempre aparece em exames&nbsp;&nbsp;UOLDor no corpo inteiro, mas exames normais? Entenda o que pode estar por trás disso&nbsp;&nbsp;Jornal CorreioFibromialgia: diagnóstico tardio compromete qualidade de vida e reforça importância da aval",
       "sources": [
         {
           "name": "O Dia",
