@@ -1,10 +1,46 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-07-14T08:08:49.490918+00:00",
+  "fetched_at": "2026-07-14T13:47:41.197109+00:00",
   "total_fetched": 91,
   "unique_count": 91,
-  "health_related_count": 43,
+  "health_related_count": 37,
   "news": [
+    {
+      "id": "76360bb440b0",
+      "title": "Alzheimer: como diferenciar esquecimentos normais do dia a dia de sinais que podem indicar algo mais grave? - G1",
+      "published": "2026-07-14T11:43:23+00:00",
+      "summary": "Alzheimer: como diferenciar esquecimentos normais do dia a dia de sinais que podem indicar algo mais grave?&nbsp;&nbsp;G1Veja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUUZ6YTZEcWV1OFhFRThpS1V1WXQwLXZsSEpuT0xEWmtseXVMUnR1MkhlRkUySWxUSFRyLVR1YUZRT0s2Y1N3dkFxZzNkN3h2YXpxcmZGVzFPNEZMWkQxalMwanAxWVMweVRXSlpJVzNfZjdRY3hNSFdkNDU2Z2R5c3l3WmxyVTNzNDlVYXhDeGZNc1pLUkdESGluMW03Q2RSQkxjVXE4M09JMXppRDZJNFpzMURuSnJEZ1lqZzJveExDRkw0NmtQSlFzeTRKSVdMeHRUcmRIalByTGxRODA0SG5UeFRkQmo4YzdxZHkzNS0tQTF30gGDAkFVX3lxTE5yWkw3M0RoUnJYUnJmN1hlMmJBa0tJR0FEVTAydnFNS3Bma1NDOU8xUkxXWWtGN01vSmVWTmlhZUlHRnM1NDFXNmtNRFQ1aVJjWkJsZFB2NWRFMEpqVWFXcDcxOGx6S3N6MkxmZEIwQmhGQVYwS1BHcTJQZFJ6aVZuejE4aHFFbXJzRnBrQ1JwRHMtcmZ5eVhIbFZiOG9aelNya0lpX0tmU0I3NkhYMGxZcG95X2NmUWV6cFJSUldZRmtVZW9rRGNXOXhfc2pQTGRwWUhPeFFfd0hiWWowS3lXcGU3Y1k0bGZKYkRDaHVQdmRBTWhaNmNHd2hIa1hKT05HRG8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1ffee2ebde5a",
+      "title": "Saúde íntima feminina: por que mulheres estão buscando cuidados antes da menopausa - O GLOBO",
+      "published": "2026-07-14T10:46:38+00:00",
+      "summary": "Saúde íntima feminina: por que mulheres estão buscando cuidados antes da menopausa&nbsp;&nbsp;O GLOBO",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUWUydnVyMUllVkZNR0lnUmlFWmVLSktIYXZQWG91SkNhcTdBaHF3d1B0SHlWdzZrbFJLQTRPdkdsZU83Nm90bGt1RU5IZkctenZ5RkthUXpTSFZkQ1pNR1kyYVJVQUN5M0Y3RE51T2xnZHlwc0JFSmwtLWFJU0F2R2NfMW8yU3JrT01XVFl0RXJHWjNkVlRxd2FXdGxLUVJKYXlBZDR1LVU2bUh6VEh5dWdsNkNNTUQzWUk3b1k5WHhRNzE4TFY0OGo5VjBDTThp0gHfAUFVX3lxTE1SS1dnWjRNQ1NsNE1tX2tPVERsLTc3R2ZMOHRoNmszd1hnQi13bFAzMHF3b3F3OU5lRFZFNl9WSFpRdzlmd0hfbVd2LTNhZjIzaVN5bzlBVmNpd3JDdmpNV2taazZNbFJadzV2MkxDQXRUWTk0X1NLX05Fa1FBMjVDV19fSGRESUNhZk1ESDFBaUdTRnpTLTBHVEw1WTBVRWpFTmtvYjlqLU1NYkNRUDJXaUFwZHYyLVdGYTFzNHRwdEZSZl9Uc1RGS0dDNGFYdk9YaGctMl8yMDd3NFZodTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4dfeacce0e7c",
+      "title": "Pesquisa mostra que desigualdade social amplia barreiras à prática de atividade física - Agência FAPESP",
+      "published": "2026-07-14T03:03:42+00:00",
+      "summary": "Pesquisa mostra que desigualdade social amplia barreiras à prática de atividade física&nbsp;&nbsp;Agência FAPESP",
+      "sources": [
+        {
+          "name": "Agência FAPESP",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMXdrQkNDM3FHbHBQbnlvVzRPQmFpaUlfNjNyLXBLME9YU2lqU3ZWN1ZhSHItR1NrTE0zdlV0eWpyM1NzdXVWLXpncnU4ME0yVzU5TGtlb1BDZnVfWTFKU1FMSlNZVU1OQzcwQXc4SjFScEwwVW96Rkw3cHN6R3lVRGxTWFo3LW1TakhTUHhvYWZOQXdnSTZ1b19BT25teXA2UVVRcGNqVDhOTTlzMXdNcVN2YXBFd0ticEE?oc=5"
+        }
+      ]
+    },
     {
       "id": "9594e18329d7",
       "title": "Saiba qual a quantidade de café que você pode beber por dia sem prejudicar a saúde - ICL Notícias",
@@ -90,26 +126,26 @@
       ]
     },
     {
-      "id": "4393d7431ba8",
-      "title": "O neurocientista Ryuta Kawashima afirma que a troca manual de marchas tem \"um efeito significativo na manutenção da saúde mental e da função cognitiva\" - Terra",
-      "published": "2026-07-13T18:07:00+00:00",
-      "summary": "O neurocientista Ryuta Kawashima afirma que a troca manual de marchas tem \"um efeito significativo na manutenção da saúde mental e da função cognitiva\"&nbsp;&nbsp;Terra",
-      "sources": [
-        {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQRTVTWnkxNmVDbVE2Q2hHM2wzcnduUzFsZW16aXdzUWRUZHFZdWtLdWY4UXNhUmxCNHdjRDM1bFgyUGdaekZzOHNpQk9pSnZ5ZWk5bkQ1azhYbmUtM1A0WjFrSXQ1QXAzdGVkN0xfZE5XTmNBNWJwUkdnN0ZlMHluWVI3bUExUTBldlkteDJuZ3NYcjJWcm44OGtQN20xRENEM25LemM1bEkxX2RfU2dkT2JMSXk5MWp6UERhTTh6M1lPLW4tSjhrcFFHWjBxdEpVZk0tTTJIRnRPbDREWHl1UWtqMnVGVkQ2UmFBWXdWTDBFeGlsUmQ0OXlOWTd2UDVLOFlxak1TUUNScWFmVzZnMzBPUjlmYm5lU0syTHlORHBJRW55dzU0YkhzRGhJTGZsZXRPTlFHbl9WSkVieFA5N3MzbFg1WDNPRjNfYy05STY?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d81cd0e6e523",
       "title": "Gordura no fígado: o que acontece se você tomar três xícaras de café por dia? A ciência explica os efeitos - O GLOBO",
       "published": "2026-07-13T18:03:17+00:00",
-      "summary": "Gordura no fígado: o que acontece se você tomar três xícaras de café por dia? A ciência explica os efeitos&nbsp;&nbsp;O GLOBOCafé sem açúcar e fígado gorduroso: estudo de 2026 investiga a ligação com microbiota e risco metabólico&nbsp;&nbsp;Tua SaúdeQuem consome café todos os dias tem risco 14% menor de morrer, segundo a ciência&nbsp;&nbsp;Diário do ComércioCientistas ingleses desvendam os verdadeiros efeitos do café para o fígado&nbsp;&nbsp;Jornal Folha do ProgressoPesquisa indica que quem toma",
+      "summary": "Gordura no fígado: o que acontece se você tomar três xícaras de café por dia? A ciência explica os efeitos&nbsp;&nbsp;O GLOBOCafé sem açúcar e fígado gorduroso: estudo de 2026 investiga a ligação com microbiota e risco metabólico&nbsp;&nbsp;Tua SaúdeQuem consome café todos os dias tem risco 14% menor de morrer, segundo a ciência&nbsp;&nbsp;Diário do ComércioCientistas ingleses desvendam os verdadeiros efeitos do café para o fígado&nbsp;&nbsp;Jornal Folha do ProgressoEstudo de treze anos revela n",
       "sources": [
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYnBnX2x2aV9xN2NwVjNxS2ZVZ3BpQ3hxN1luVndIQWJ0NjcyM08zTk5sUEE2dW93eS16LWRkZVFzakowZzFnSmYwWndneVVkMnpBRmtwckpTTnNpTUdLekZHSi16RHktdnlneWs3T0oxWDZMZ3Rza2d3UEl1Ymt3TnJTTmtYcGx1ZnFfUU9LVm5OR0wwNVQycm1XVWlPc2xHUEM2U0hYOWFfd3ZnSzZYTmNnQm1yTlVlUGN0UUhHSWdTQ0tYcFhET2hkODBhd21vNXRfWXBNZXBnVXVNbzM0SklZbHlJZTdSa0FqQU56ajJrUdIBgAJBVV95cUxPdnFxdkxJRlZhNGhMUEdZN1Q5VENZR2pzX2psb3U3elNQRmJNSVZUUy1OYlpPLTBhNUJGcGFVTHltUXgtRUJ5RFNlU2dvNzlQTm44T2lRTWp5b2hQMjNVa1p6WEhXMmUxSFV5ZVVjZmpwd1M3SU5uTVRQc2Nvb2VtbDFnX0xCY1VmY3U4LTVsZmNQRFRsWXpQZG1aRnlQMG81ZmE0amxpODVEMTRCT1JjOFBNaUNhTlN5NWlYQkFpT2laZkU3bHh5d1AtVEk5WDg2RFZnUXBLMG0tLTJNcklJQ3FBNFd1a3pmazQtLVNLYkNyck5qTHhPWWE5ZFVDSmNL?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "36063c1d2690",
+      "title": "O neurocientista Ryuta Kawashima afirma que a troca manual de marchas tem \"um efeito significativo na manutenção da saúde mental e da função cognitiva\" - Xataka Brasil",
+      "published": "2026-07-13T18:00:07+00:00",
+      "summary": "O neurocientista Ryuta Kawashima afirma que a troca manual de marchas tem \"um efeito significativo na manutenção da saúde mental e da função cognitiva\"&nbsp;&nbsp;Xataka Brasil",
+      "sources": [
+        {
+          "name": "Xataka Brasil",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPekU1MFl4Q0hLY1I5QzAxTUJxa1lvZWxrbzQzQjdOYVdPYlRhLUZHZ3ZaY242YThzSEpYdmdia2J3bjVnWnh6TUtELTBjUFZGUE14WlhBcHNjcGF3VmZzNEhaMXlHblkwNlpCOUs2RjQtQW02amJnaGZ6Nm55N2piVFNxanNEWFBQMVoydkRoSFRTbl9fTXBCZDhaQnJYRkZyaFZEOEUzWGhNQVJrSXlTejY3ZFFuSG92U042X19Ib3VYUTVwaFF5VXNNZWI0R2g1bDdNd3BjNjJ3WDNYVDFISi1yU0lUeEFxSDhhWlFZMVZGOWJtc3NSNXNLN1ptZVBwSUZJTzl3bnFRSE00UVE?oc=5"
         }
       ]
     },
@@ -122,6 +158,18 @@
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZ0haQWo4cGhNVnFwbHg0a0dOOGF6TmF2c1c0VUUzNVplbWxjdkVERWRFeTJ5SE9mLWxEclZSZ0d2U0VyZDY1emFYZndkME05QlF3bUoyUDRBOUdSUDdudTd1VUJaSDFyNWZSSWdLdjJXNE1McmdJY0dOVlI1RnJNVXlNUmUxbVJtU3pGdjN5SkFsMWZDcmhwemxnWXZEc21GcVAwOVRVUms0Z3lZeWNXWGVXX3NBa1lkMkRpYXFNWUxndlo5RHhUdXlmM0pwZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "18dbcd7fbca0",
+      "title": "Estudo revela que 100% dos indígenas em todo o mundo já sentem impactos das mudanças climáticas - Brasil de Fato",
+      "published": "2026-07-13T17:29:00+00:00",
+      "summary": "Estudo revela que 100% dos indígenas em todo o mundo já sentem impactos das mudanças climáticas&nbsp;&nbsp;Brasil de Fato",
+      "sources": [
+        {
+          "name": "Brasil de Fato",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQY3N6anNoQlpTOU85Y2kweEs2UnVuUW9wTzU1SDR5M1ZvbDUxOWNQQ3VHVXphMENNWk9WTXp1X2NSVnlfcWRsckpKODNEQTByZ25DS1BoS0k4OFBKOXZ1aUVqQ1I1aEtQc2xSVXZmc3RNS3Z1a1huM1l4bENMZnZRbHVxUDA1eWRlQkNfUzh5VThkY1FObkRJVzltQkh1YldZRnhJOWNZbU5xa0IwX0RGNkw4cTdENTNaa3FNUklHeDRfWkpsYThXTjZUSHQ3UVU1VllHWW5xQ3lobjNBTFNYX043dGJxWUw1N0Y1eQ?oc=5"
         }
       ]
     },
@@ -141,23 +189,11 @@
       "id": "ac97336ddf0a",
       "title": "Anvisa aprova nova vacina contra a gripe: o que é a Fluprevli e quem deve tomar? - ND Mais",
       "published": "2026-07-13T17:12:16+00:00",
-      "summary": "Anvisa aprova nova vacina contra a gripe: o que é a Fluprevli e quem deve tomar?&nbsp;&nbsp;ND MaisAnvisa registra nova vacina contra o vírus da influenza&nbsp;&nbsp;JOTA InfoAnvisa aprova nova vacina contra gripe para adultos e crianças a partir de seis meses&nbsp;&nbsp;R7Anvisa aprova Fluprevli: Nova vacina trivalente contra gripe&nbsp;&nbsp;Campo Grande NewsAnvisa aprova nova vacina para influenza com eficácia de 73%&nbsp;&nbsp;Midiamax",
+      "summary": "Anvisa aprova nova vacina contra a gripe: o que é a Fluprevli e quem deve tomar?&nbsp;&nbsp;ND MaisAnvisa registra nova vacina contra a influenza com eficácia de até 73%&nbsp;&nbsp;CNN BrasilAnvisa aprova nova vacina contra gripe com eficácia de 73% em adultos e 65% em crianças&nbsp;&nbsp;VEJAAnvisa aprova Fluprevli: Nova vacina trivalente contra gripe&nbsp;&nbsp;Campo Grande NewsAnvisa registra nova vacina contra o vírus da influenza&nbsp;&nbsp;JOTA Info",
       "sources": [
         {
           "name": "ND Mais",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ2lmMzE4VDNFc1FQc2hiVmhKaUJPd0lvU1J5LWNWaENiZzFGUGVQZ3luY0loVUJyc0hSLWJab0Q2WTJSZ0RIRnYyQjNuQnBRZ1dkR3RHTHBhY2c0R185NHFCZzhJdUJVblEzUXF4M1JZX3NBWk0wUUNyVXQ1cHF3LVVibzUxQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "08f4a992b31f",
-      "title": "Álvaro Puche, treinador espanhol: 'Nem nadar, nem caminhar. A partir dos 50 anos, é absolutamente necessário fazer musculação' - purepeople.com.br",
-      "published": "2026-07-13T17:02:00+00:00",
-      "summary": "Álvaro Puche, treinador espanhol: 'Nem nadar, nem caminhar. A partir dos 50 anos, é absolutamente necessário fazer musculação'&nbsp;&nbsp;purepeople.com.brFotos: Álvaro Puche, treinador espanhol: 'Nem nadar, nem caminhar. A partir dos 50 anos, é absolutamente necessário fazer musculação'&nbsp;&nbsp;purepeople.com.brA melhor forma de consumir proteína para apoiar os músculos e o metabolismo depois dos 50 anos&nbsp;&nbsp;Tua SaúdeAposentadoria pode acelerar a perda de força do corpo — e muita gent",
-      "sources": [
-        {
-          "name": "purepeople.com.br",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNX2ppbjVQN3hQVDk1XzYtN280aVFyckJ6MlZhTWVlRC1YWENSSTVDNEVQNEtBSkJfNmZCRWFxLXUyOE5hRk8tWTRUaTZXZ3N0eW4wYm91YkNsRURGelEtNThtdFhNTWc5NlVVc2pLei1xWi04R0loVm95eEpGRlllWFd5bWtQcjBfX1BBRHBVcjQzWFhia3NLWTZNd3pTNXNkN1JnNS1oYy1oRF9FQkZvTUR5OENoMEpaYTF1a3hZSzJKMjJrc0FEZTJyUW45dGgzWUxxMlZHM3NvLXd3NUxERHVSZFpET2w2QjRWTTMzSk5sejJld1R5aWNDWdIBgAJBVV95cUxPcHZtaHExTjg3UjVjVHZIZXlPSld2MzhpcFdLQjdQTVIyai1nVURuUE9mWV9QQ19iSnJ5Q0tjYmh6T01UcjZfOTR6LTZYSXl6djU1TEdsaFFzTXlUS3d5bXZkWUFxZ3V0S24zdHdOZi10d2FjTjFmSUVobWZJVU9vT2ZGNkctZi1zdmJJMWFCc3h2RDRCZGk2R0dKV04yY09iS2ZXOGNmNjk5N3EyNHJzdnVBbFdfTm52bnA1bnA4YVMxWS1reHFWR2NWTXJVUHc0SXBCRjlTRDc2b0pabkFKRlFaRWgxelpVX3JrQ2VvNkV2Z0VPTVRqSTY0ZVM2Ni1n?oc=5"
         }
       ]
     },
@@ -201,7 +237,7 @@
       "id": "4d36a8cfe99e",
       "title": "Os 9 alimentos que médicos e nutricionistas recomendam para cuidar dos rins - O GLOBO",
       "published": "2026-07-13T14:30:16+00:00",
-      "summary": "Os 9 alimentos que médicos e nutricionistas recomendam para cuidar dos rins&nbsp;&nbsp;O GLOBOComo aliviar a retenção de líquidos naturalmente com alimentos e hábitos que estimulam os rins&nbsp;&nbsp;Tua Saúde",
+      "summary": "Os 9 alimentos que médicos e nutricionistas recomendam para cuidar dos rins&nbsp;&nbsp;O GLOBOVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
           "name": "O GLOBO",
@@ -225,11 +261,23 @@
       "id": "21298b5e0b53",
       "title": "Oxford inicia primeiro ensaio clínico em humanos de vacina contra cepa Bundibugyo do Ebola - G1",
       "published": "2026-07-13T14:02:03+00:00",
-      "summary": "Oxford inicia primeiro ensaio clínico em humanos de vacina contra cepa Bundibugyo do Ebola&nbsp;&nbsp;G1Oxford inicia 1º ensaio clínico em humanos de vacina contra nova cepa do ebola&nbsp;&nbsp;Folha de S.PauloEbola: Oxford inicia primeiro teste em humanos de vacina baseada na mesma plataforma da Covid-19&nbsp;&nbsp;O GLOBOReino Unido inicia testes de vacina contra nova variante do ebola&nbsp;&nbsp;R713/07/2026 | Vacina Ebola, calor e riscos cardiovasculares&nbsp;&nbsp;Afya | Home",
+      "summary": "Oxford inicia primeiro ensaio clínico em humanos de vacina contra cepa Bundibugyo do Ebola&nbsp;&nbsp;G1Oxford inicia 1º ensaio clínico em humanos de vacina contra nova cepa do ebola&nbsp;&nbsp;Folha de S.PauloReino Unido: primeira vacina contra o Ébola Bundibugyo inicia ensaios em humanos&nbsp;&nbsp;Euronews.comEbola: Oxford inicia primeiro teste em humanos de vacina baseada na mesma plataforma da Covid-19&nbsp;&nbsp;O GLOBOReino Unido inicia testes de vacina contra nova variante do ebola&nbsp;",
       "sources": [
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOERRaVRNcS1DQzZZU1p5enUxbXFLcVY0QkVrRmV6QXFMemEwb3lOQ1J1eDZ1RDNLWWFaUTA2bndXTFU3VTd3R3Y3c01RRjBhWDFxNHFuWms5a3RadmxxMXg1dl8xNXlBRmJOazlYX3gtbUpEbXo3akM2NWxkVVJDTXdOV3NoOE0zVDUtMWxyakR6SHBmX0xuLXJLX3RhWE5lUUJUNUNKQWZ6Q2lqbGVYOTRvdF9mc002a0QwRGFvWGhOR2Nabk9GSERsWE1CMHZSX0RtSE9PNGhId9IB6AFBVV95cUxNa0szRElzNUhGamxmdXpGMzF6LVhxQkFWejNQajY5MUIzR1V4emp5NkR6WXVrQWx2SWtqWTB5Zjc2aTBSZTRRZWJEdk93UEdiYjBuSEJmWHJyNE9IZmU0cWFQRnk2dFpraXJNY0JHYW1IUWxaZzl4a3JBTVZIRmVmdkdQbC00ZDAta0FmODdvekdTdmtRaFZVbWVmVDNXUGxVbWo1X184Yy1abmF4UExJRjl1ZElzQUlTRTdHTHFiXzdKVktxVzVFaGZSMU1rT0pOVWhhQ1VMSWlxdkszT09VRWlma1RGWFFr?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dcc399392478",
+      "title": "Prefeitura informa que nova vacina contra pneumonia e outras infecções graves já está disponível na capital - Rondoniagora.com",
+      "published": "2026-07-13T13:57:00+00:00",
+      "summary": "Prefeitura informa que nova vacina contra pneumonia e outras infecções graves já está disponível na capital&nbsp;&nbsp;Rondoniagora.comVacina Pneumo 20 chega ao SUS e primeiras doses em Palmas já acabaram&nbsp;&nbsp;G1Vacinação com Pneumo 20 começa nesta segunda em Natal para crianças menores de cinco anos&nbsp;&nbsp;Tribuna do NorteNatal inicia aplicação de vacina contra a pneumonia e meningite&nbsp;&nbsp;Agora RNVacina Pneumo 20 começa a ser aplicada em Rio Grande e São Lourenço do Sul&nbsp;&n",
+      "sources": [
+        {
+          "name": "Rondoniagora.com",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeHluUVMzdzVtdHFKbE43bHlzaUJDdWdLSi0xbnhuRUxOWTBzcHZXM0dZNzZiV3o3a1Q1R3hmUVNkUXlUenBqVV92dmNVQ3VQVXFxSTZMV1hKcTNiX2ZqeERfR1dJeHAzNW9xNkE0VHF4U1U4bjgxOUJmSEFYeVRtek5LQTNzM2dvSG1vTUR0TEI4Sk8wdGF4LXA2a3QweVBvSmI2VnJtdHpydnZGQnZXYXk5TWVKQkg4SmQ1SlN5cm5PX2cxNkVpSFVtT1VMQUIzRGJWeGhYa2NRQdIB2gFBVV95cUxPa0ZBc1JKWFY0N3dZVlA5aU9sMmdjQlktczZxNThzQjBDa1hMSWhCYWY1RUp1VHhkaG5YWTZIVzFrRFhWemk4bks0ZDMwOU5jZFNDYkh5ZjZab19pYjlGY0JWaEowd2RtSFpHT09oUVdFSmJSRG9GbmR2Z0xuTTdjY0hRVGY0aU1CQnJmd1dwYXJRQ0dIanBEeVlSc0Q5QjI2RUViTmxSUGxPT0FKbnFZT29BbS1QVV9UcHBxTktlM2d1dHlpYmxVWW9IN2JzMXVLdW03OE9NLWhwUQ?oc=5"
         }
       ]
     },
@@ -242,6 +290,30 @@
         {
           "name": "Medscape",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaEJXZnU3ckhPNkRNU191cWdQanpMdHhLT3c5RnY0ekMyNl9NR3h5a2FzUVdxOXptMFZPSlZtMGlQN093LUlndXgzS3hvODFGNjY3NlNmWVFJS0Z0bVNjbkU1Yk0tRTJ6QkJ1RGdYVDhfRWx5T1RDWGxmWndySG5GZUhIYnJ1cG5GSDFsWGVHWFRlNDZxTXlUaTdsMHNOcVdpVXF1NGpaelBBMmVt?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4c12ac3af39e",
+      "title": "Calor faz besouros machos tentarem acasalar entre si? Estudo dá algumas pistas - Exame",
+      "published": "2026-07-13T13:08:23+00:00",
+      "summary": "Calor faz besouros machos tentarem acasalar entre si? Estudo dá algumas pistas&nbsp;&nbsp;Exame",
+      "sources": [
+        {
+          "name": "Exame",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ19Wc0hibkJNY3FGaHRUTUc5SGZveExxZ3RIY2Z0ZVRlQW1WUGxjMkpzRTdFQ3RENGl0Y1MtZjhubWhSSjFwdnlBMVRQTkNSd2h2NGdsbXM1dF9GdnB6NE9jVU5PU3AxQ09iQlgyLThhRnZaR18tVl9kSGRtSnNSOTBRWnFXd1N4eFRJemhlbWxVc3VnUTdTTjd6SXJfc0N2SUozank5OA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ddbf2f2a51e8",
+      "title": "Rins e fígado \"nascem\" no espaço em feito inédito da biotecnologia - Olhar Digital",
+      "published": "2026-07-13T13:07:00+00:00",
+      "summary": "Rins e fígado \"nascem\" no espaço em feito inédito da biotecnologia&nbsp;&nbsp;Olhar Digital",
+      "sources": [
+        {
+          "name": "Olhar Digital",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMk5hbGdaMVlUdjlkSVlMWXE4NU9zTnpVTkpCZGVmOW5QOVpHbmxYMUJfcDdHSXpkMkc2U3hxQ05iRklWMDF0Ynl3LUlVN0RRVjR0MkxPTS0xMjN3TGVKZVdZZEpHcHhrRVk1YmZJMTUzMXJvMGFlMmJlYmNBVGNCYWNNdlJ5TldXZlN3SThZMHJTWTNCMWdZbFJfbHZFLWNuRXFmV3RheU5QLVFlaWpIaDQzMnJoWnlaNWh6dm9B?oc=5"
         }
       ]
     },
@@ -297,47 +369,11 @@
       "id": "d04fe9f03a00",
       "title": "O que as canetas emagrecedoras têm a ver com hidratação? Entenda o cuidado que pode passar despercebido - O GLOBO",
       "published": "2026-07-13T05:30:08+00:00",
-      "summary": "O que as canetas emagrecedoras têm a ver com hidratação? Entenda o cuidado que pode passar despercebido&nbsp;&nbsp;O GLOBODescubra se o uso de caneta emagrecedora pode causar flacidez íntima&nbsp;&nbsp;GZHEfeito “Ozempic” no cabelo preocupa especialistas e impulsiona mercado de produtos para fios finos&nbsp;&nbsp;Jornal DR1Canetas emagrecedoras podem causar queda de cabelo? Médica explica | SEGS Portal Nacional de Seguros,...&nbsp;&nbsp;SEGS Portal NacionalEmagrecimento acelerado com medicamento",
+      "summary": "O que as canetas emagrecedoras têm a ver com hidratação? Entenda o cuidado que pode passar despercebido&nbsp;&nbsp;O GLOBODescubra se o uso de caneta emagrecedora pode causar flacidez íntima&nbsp;&nbsp;GZHQueda de cabelo após emagrecimento rápido pode ser deficiências nutricionais&nbsp;&nbsp;Bahia Social VipEmagrecimento acelerado com medicamentos vira gatilho para queda capilar intensa&nbsp;&nbsp;diaadiaes.com.brEfeito “Ozempic” no cabelo preocupa especialistas e impulsiona mercado de produtos ",
       "sources": [
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNS3lKekUyYmVGQklaWFF1TjBVdDJ1ZXNZa0pMX0xVTEYtTnp0QmFOLTBmaGpncUV2RTVVd3ZDdlc2blJENFBCTDAwYy1UZ2J6NTdscWhhdVVGbS13OTB2aEoxRklNaWRTM3dNbkdyd29zcHFVTHpiaVFhZXhFajRFcFhMWU1idmdOZk90UWJIVWtVb21Ea3lTay1zYXdoY1VSdzliT2JiRjFUc29lN2Z5Tnc2aUJzRXlCdmc0TktNblc4MTRTend4ZXRUWXZkOWZlaUhFRE45My1Mdm9hcUlKN3dPaTBkMTR5WG9hUdIB-wFBVV95cUxNaEJlSTFyVkZIQTIxNjMxc1ZSV0VCQUFibW9JUmUzbzBYN29HOTNnYndKeHk2YW5UNG9JcDZfTEI0YWdKLTA0a1NRd0JRTl9pU21NWE5TMGxEMklCaTc5QVlCTld0UURYUWZJOC02MlhvUF80MmJvRUEzcDNSUGE1TmV3VF9HcVZHRnY0bVE1ZmJhUjB2VDY5ektObWt3ZFNxZjVtWExETVZDeU9YWWZPME94LUZ0eUpnVjROS1h4bFh0X3NSZ1ZxYU1qcDg5T1EwRmREdzNKZmRDT09PdURTWjZ1RldZV2IwckdDOExESXZZcFE1UjlTcDdmNA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a6c08e379b93",
-      "title": "Descoberta sobre células-tronco musculares abre caminho para terapias antienvelhecimento - R7",
-      "published": "2026-07-13T03:01:59+00:00",
-      "summary": "Descoberta sobre células-tronco musculares abre caminho para terapias antienvelhecimento&nbsp;&nbsp;R7",
-      "sources": [
-        {
-          "name": "R7",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQX0xHaEZBMUQ1T083dmc2Y0lld0lKa09qRTdDYmoxdlJpRHFkNnNpUkp1MG9JdEVpMEtkaXVqbXNDcTF4dm1HU092TUxBYlBzUl9CdEUwTTZVSElmQUNKWEp6c25uM2xZaVRnUkI4OU9scHptZWtxSXVneDdxOEgyOTRvMFVDRzg5LUsyVEFoaGFGMFE2V2JlOHRRbHkzY1NVOHRCMnBJR3F2MHJXRjJwUV9lS3RVeXdRM3J5SmFoc1V4QnY5YW9lV1cyV3Z4cVZK?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "41f00fe89530",
-      "title": "Duas em cada três pessoas com Alzheimer são mulheres; sintomas podem começar por volta dos 45 anos - G1",
-      "published": "2026-07-13T00:59:56+00:00",
-      "summary": "Duas em cada três pessoas com Alzheimer são mulheres; sintomas podem começar por volta dos 45 anos&nbsp;&nbsp;G1Alzheimer em mulheres pode começar antes da velhice, apontam pesquisas&nbsp;&nbsp;Diário do Centro do MundoDuas em cada três pessoas com Alzheimer são mulheres; sintomas podem começar aos 45 anos&nbsp;&nbsp;DeFato OnlineAlzheimer em mulheres: danos cerebrais podem começar bem antes da velhice&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQaTBZa2VORTJzN2VHQmhrUXZLZEE1MkdvZVRfUGtRYkFvQ20zdHZWUkg0bFlla0dVQUlNcDhYS3VDRDFNbl9NWGhpRU1LbmNtU0ZlUlhZLUsxVzcxd2RQbVF6WDJlaGE2eFl3aGlHZDZ1Qy1zQlpjRmluTkRBaW5obkc1dk1iclA1ZktpVjRfSHlkNG5DMVEzbXduWmt1ajA1dVBDMEVlUlNFTzkxQ19KcnVvdmFBbm5hZGVxSnRBajY3dW1uMm5xS3A4d1BnXzdwMGpaQnJMOW9zX1VYaFo1RHVRRDhEb3NNU1HSAfgBQVVfeXFMUGV1ZW90R3RCQ1gxNmh3OGtQaDZnQ3NsVnVyRkNKR0ZRa3NMdHhRbHVIZVV3TDBaaUxQT3Z6MjJOOFVlVlctSVhoaExFSXlRTk52MXl0ekxYZ3hjMndWekY0alJRMThuNDBfM1IwVzU4dWxVNFE1T3RzQlZ1XzcxRGU5SFFhSTdncUFLWTdDaXNHSWZyM3lBR29CTlJ5Y00yQmVTNEtOVW1HYW9yYzBHcjNnakJOWFZXa0xqUk1iWW1kRXhfc095WE9UT24wYXpacF9UUGJfOUY5WFlGeDQ0NTFTRXF5eUdVcHgxdHlxZV9TdGhZUzJqY0k?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d7559a38ab55",
-      "title": "China leva detector de uma tonelada a 2.400 metros sob uma montanha, usa partículas cósmicas para “radiografar” 3 km de rocha e transforma laboratório subterrâneo de 300 mil m³ em um scanner gigante do planeta - CPG Click Petróleo e Gás",
-      "published": "2026-07-13T00:24:00+00:00",
-      "summary": "China leva detector de uma tonelada a 2.400 metros sob uma montanha, usa partículas cósmicas para “radiografar” 3 km de rocha e transforma laboratório subterrâneo de 300 mil m³ em um scanner gigante do planeta&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQRnYzaFdITWQxWXhINERySGdzUGEzbm9Hc2ZmWFpMYnlNS0owYmx4NTlXMnNqYTJESW5PYlpwV1JwTm1fWG9kRUJOTUZiZlpQN2dNNVpCcGMwOE1OUmkyRDM0Yk1iMmVHcFBoTXJHaUhlZ2V6UUp2RGxCZW94MHhoSEZEMV9KRGlIbjFsYVVrTXJYZ0JZV3RpYW9ZS2paYzgya0Y2eXhJUkloUFRJc2w5Yi1DLWxtaHRMUWFxRHo3MmItajlER29UelN3N1V6ZldRejRRSGtTNVkxTHdPWlNKNnc5WnhodWJJYkd4YTZxSkZoVkJxMXBoUkhrLVFSeWotMXNoNi1fWkpzTXNvM0dGeEYzZS1RaXc5OGZfcDRNYUNOOUEwUUlyS1Ntei1qT2RIbmdRTlhmR1F0aUtKcmhMYmJkeU0?oc=5"
         }
       ]
     },
@@ -350,30 +386,6 @@
         {
           "name": "Super Rádio Tupi",
           "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOLWZKSWl5QmtUTzdoa09CSFpDOGtodXRSUUszZ01RZXlOTFluaDNOcW5DN0wzeEdoNWVENXZCVGdyU2FXOThGRmZKOUpSbTJjVndEUUFhUVBUTTZieUk1MThJYUIyRTJydnpYTVQ1S0dMSFJhemFGS0U3alR3Y0UtZGY1bG9UaGs5WmVzTGhkM0ZHWmhBeEdGT1hfZ3duQkZxLXM1VHdKOFNCbjhtaUNzQUtFY2lfUzNXczdTaFF4TVVKaUthV2RxbjlpMkNaaGpqS1pCcTdOcG1vVjZSNmdvYzR3ODZUYUYzVGc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8567b7d329b6",
-      "title": "Enquanto a medicina ainda não consegue transplantar um olho capaz de enxergar, cientistas criam uma “máquina-coração” que faz líquido circular pelos vasos e mantém um globo ocular humano vivo por horas fora do corpo em projeto de US$ 5,3 milhões - CPG Click Petróleo e Gás",
-      "published": "2026-07-12T23:57:00+00:00",
-      "summary": "Enquanto a medicina ainda não consegue transplantar um olho capaz de enxergar, cientistas criam uma “máquina-coração” que faz líquido circular pelos vasos e mantém um globo ocular humano vivo por horas fora do corpo em projeto de US$ 5,3 milhões&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNOUJkdUZRc1N2VjZLeG80WjN0c1lGZjV1MGdKM2ppc0N6N2pxeFJGT21faEpmNjJseDNZcWZoeTJHVFpZWThDZk1WWGE3ZU9pbWR4RWZSOWE0ZlQtUkU1UmpBQ3diaVFycmx6RVR1TjJoZFBqc0d6cldIVWJfZ1dYdzVTNndlLWF1VUI2VzR5VXllOVVGd1lIcXVfaGRGcS1uMU9zbXFkNzdmOEVYdTFMMllscDc4LVJLQi1jSkhhVUZlOTlCSGltd0RoRlhoU1FSRzdTYU04MVloN09zLW1NWmdkNlJscEh1X3Jvb2F5RkNUNVVJZDlWUDZVaUF1emJLUVhyQW9LSGdqTDhNQTVSNThITmtoU194VGVjSlJpWEZzNHZMejZ1TldyWUk3VzdiMEtVWlNhV3RJdU5BdGd5cUM2R1c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0fc00f56d48a",
-      "title": "Cientista brasileiro ganha um dos maiores prêmios de pesquisa contra o câncer da Alemanha por descoberta sobre ferroptose, processo que pode fazer células tumorais resistentes a remédios entrarem em colapso e abrir caminho para novos tratamentos - CPG Click Petróleo e Gás",
-      "published": "2026-07-12T23:36:00+00:00",
-      "summary": "Cientista brasileiro ganha um dos maiores prêmios de pesquisa contra o câncer da Alemanha por descoberta sobre ferroptose, processo que pode fazer células tumorais resistentes a remédios entrarem em colapso e abrir caminho para novos tratamentos&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOYUs4ZkhER0Q4VUhFa3lYOHptWmpKa2FzRWJaQm1FaHdYckxQSzF1VXdJVGhpUEVDTU1VeU5NQnpjUFJlMHhsR0RiVjJxemM1ZmNkYm56VV8zOUpZeUtJVXp5TG1jM3lUSlZnRmNpVXpqX3pyQjBBbng5X1lmMWdYaWY2Z1hDem0xaFBHTU1Gd2RqYjZ3OEVickF3clNDZHZMWmhSYlpxM293S0o4OUR3TXRiTFR0SE1UNVdBLUc0R09kVks4TXUzSFlMYUxrUV9GVnlVN2E3bWtTYTdFVmF3eEVTa0RDR0w5TjNocWNuVTNldkx0VjkzMVpsTTdZbTlaNmxtV1lSX1k0ckRJV3FBTzVSMlg3RElBYmdNVUVvODk1MWVQWk5ydHlqSk5wZlpIc1VCS29BRmVYU0Q3eWd5djZGRVV2elU?oc=5"
         }
       ]
     },
@@ -402,30 +414,6 @@
       ]
     },
     {
-      "id": "c3f61a97b96b",
-      "title": "O hábito silencioso que pode afetar a saúde do cérebro na velhice - Rádio Itatiaia",
-      "published": "2026-07-12T20:52:56+00:00",
-      "summary": "O hábito silencioso que pode afetar a saúde do cérebro na velhice&nbsp;&nbsp;Rádio ItatiaiaEstudos de psicologia concluíram que pessoas entre 55 e 75 anos têm maior tolerância ao silêncio em comparação com outras gerações&nbsp;&nbsp;Brasil 247O bem-estar do silêncio revela por que alguns preferem agitação e outros buscam a paz&nbsp;&nbsp;Correio BrazilienseSolidão na terceira idade pode aumentar risco de doenças; especialista alerta para sinais&nbsp;&nbsp;Agora RNPessoas que preferem o silêncio ",
-      "sources": [
-        {
-          "name": "Rádio Itatiaia",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNlNxaXZRQkt1Z2ViajBqQXNQeGd6SGc4ZTdNYmtreTdaRHpYRWFGbEZJS19ELWFzTU9kY2QySno5Y1EzeE9taWJ5cUlwZXk4c29PYjJkd0psYVU1LWFpZzhTbWJYampTVzhJemxqWm1zdVJoZ3NQVDh6TUVyeUJ3cmJBdC1PZnc2UXhWbG8wQkZHY3FPbUtzNFJnU000N2ZOMkxv?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f26f3cd20e67",
-      "title": "Mulher diz ter desenvolvido tumor cerebral após usar contraceptivo injetável: 'Não há um dia em que eu não chore' - Terra",
-      "published": "2026-07-12T20:40:00+00:00",
-      "summary": "Mulher diz ter desenvolvido tumor cerebral após usar contraceptivo injetável: 'Não há um dia em que eu não chore'&nbsp;&nbsp;TerraEstudo associa certos contraceptivos a maior risco de tumor cerebral; entenda a relação sem pânico&nbsp;&nbsp;VEJAPesquisa associa alguns contraceptivos a maior risco de tumor cerebral&nbsp;&nbsp;MetrópolesEstudo liga contraceptivos a risco de tumor cerebral&nbsp;&nbsp;Rede Onda Digital",
-      "sources": [
-        {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxObUg4Vm4tZnRhTHcxd3c3LU9za2lhRVhSWXlFenJTR1BnTElfWkRjUUFQQXlHaUdJVC1BaVp2b2tjWkNzVnBDVTM1WXlRWUUyeERob1dvSmlwMWxHX0JVUGNSNmVUdm5fbks4MW41VXhpN1E2cGFVNlNVaVBTOTVLVHZDdGNkM3l1VFUxS3BrYUhDcFRzV2w4ZlktcWU3OF9QZ0d0Q2kxeWdGazVyU1ZuYnpLNWhzSDhMa0VGYVRocGEwY1JHdkdPa2tCM1ZTUDZHVUhUV3c2UldkRk1jX1lWUWx5b1pITGNJZGdha2xhR3pmeFZSaW5DZVN2cXd1cElKQmltdjZCWXVxbEh5S1I2QXE2cmJmZVlOWjBZXy1JZ1doQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ad6d807d3c80",
       "title": "Casa Branca nomeia astrofísico de Harvard para liderar grupo de estudo sobre UAPs - Olhar Digital",
       "published": "2026-07-12T19:37:00+00:00",
@@ -450,74 +438,14 @@
       ]
     },
     {
-      "id": "79ba9171c053",
-      "title": "Rastreadores fitness podem causar ansiedade e transtornos alimentares - Folha de S.Paulo",
-      "published": "2026-07-12T18:30:00+00:00",
-      "summary": "Rastreadores fitness podem causar ansiedade e transtornos alimentares&nbsp;&nbsp;Folha de S.PauloFebre da tecnologia nos esportes pode atrapalhar&nbsp;&nbsp;correiodamanha.com.brSeu smartwatch pode estar atrapalhando seu treino? Especialista faz alerta&nbsp;&nbsp;Jornal CorreioUso de relógios inteligentes pode te colocar em risco&nbsp;&nbsp;Mais Goiás10 aplicativos fitness para acompanhar treinos e saúde&nbsp;&nbsp;TecMundo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb0RxUnZXNThSdXNEaWNUZU5Cazl5SE1Qd0JkQWdUMFFvWklDWWthUTRoZF9adDdQS096dVFJeW12RjdnZUF1ZnJIaEtfTmVDSGl5aDNCcU9QTlVlakhpVmhMMV9hN2lHV2prRkswVHplSDY3UmNySmkxMndwdEZrWkFCMHhCTWJKNHFYcmNBVktHWlZXamhRZXZ0MlhvM0ZaZkNpV0d2NXYwMV94V1ZhWlppSk16MGktNXpJSmJtQmZPQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fcf1c674187f",
-      "title": "Via Láctea pode ser maior do que o estimado, diz estudo - CNN Brasil",
-      "published": "2026-07-12T17:19:48+00:00",
-      "summary": "Via Láctea pode ser maior do que o estimado, diz estudo&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNFJrMzBid0t2R2NvdFpqSmpsX2ROeWlCNHV3cHlNdmM0UjhJYi1VS0FhME5wRVJkcEttWGc5dXRlUTV6RzVLNXpsTHBrd20xaElGYjJhRFAxa0xBYU1hM21wZjdXTFU3cEFkeFlnT1F0bHNPNmZZUmxOYXRrTUNobkN6TzZudnhOYUQ1bWFrNDB3dGdjZG9B?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d4f9fdf2af55",
       "title": "7 frutas com pouco açúcar para quem tem diabetes ou quer emagrecer - UOL",
       "published": "2026-07-12T17:00:00+00:00",
-      "summary": "7 frutas com pouco açúcar para quem tem diabetes ou quer emagrecer&nbsp;&nbsp;UOLComer fruta à noite faz mal? Nutricionista explica&nbsp;&nbsp;bra1.com.brFrutas podem exigir restrições em algumas condições de saúde. Entenda&nbsp;&nbsp;MetrópolesConsumo de frutas requer atenção em condições de saúde específicas&nbsp;&nbsp;BH 24 HorasComer fruta à noite faz mal? Eis o que acontece ao açúcar no sangue&nbsp;&nbsp;SIC",
+      "summary": "7 frutas com pouco açúcar para quem tem diabetes ou quer emagrecer&nbsp;&nbsp;UOL",
       "sources": [
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSnRqWGNGTUVNdVIwTkVELWRzb2lsZGR4Vk1Da1VxY0ZWSThoTUZ4a3JjT2VXWm9EM1RXUUlnNWx0dWh6LWVBMDh0d0pobDNjaGRfMzAzeVV5WlFUTnZWS2ZzTnQ0SnpFcUp5bDBhajBlTlAzUUVVUWJqWnJoTURRclFsLVUxdGdVTGdjb0M5aVJpZmwwaFBydjNIb01YYjBDa0UwRTRvQUFKWThISDZ5NEhqOTBIT01VZWdFRXlObTQwRmo5dC11Y2xR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "60716976014b",
-      "title": "Natal começa a aplicar vacina Pneumo 20 nesta segunda-feira 13; veja quem pode receber - G1",
-      "published": "2026-07-12T13:26:25+00:00",
-      "summary": "Natal começa a aplicar vacina Pneumo 20 nesta segunda-feira 13; veja quem pode receber&nbsp;&nbsp;G1Vacina Pneumo 20 chega ao SUS e primeiras doses em Palmas já acabaram&nbsp;&nbsp;G1Vacinação com Pneumo 20 começa nesta segunda em Natal para crianças menores de cinco anos&nbsp;&nbsp;Tribuna do NortePrefeitura informa que nova vacina contra pneumonia e outras infecções graves já está disponível na capital&nbsp;&nbsp;Rondoniagora.comVacina Pneumo 20 começa a ser aplicada em Rio Grande e São Louren",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONm9McW5yRkhPWXNYRTZsWkZyVlFTdzdqc1NwUTVpRVFkaVFSLTBvM3h6WUJaM1BsVDRUNkwxUDZ4QzByRkh4OHBJN2RHX0tRV2F2ZVRPRmtTSEtld3Y2T2czQ0dCcHFPN29XYlNHWGQxckJCd04zRWZtczBzYVM5Q3JfeWFfcVVldkZlaWtBWUtlV2p2eklFN1d6MHlTanV0aFA2ck9JWi01T3Njb1R6U0plYjhkeVF5U3lHa3FkaHhtUWE3UFlIaWNfOG9SaEZoREU4VWRCU1IwdU1vMDRBdDlwTUdOeDdQa0E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "658c686d1c80",
-      "title": "Médico vê influência da merenda dos anos 90: \"Pipoquinha e salsicha\" - MidiaNews",
-      "published": "2026-07-12T12:00:00+00:00",
-      "summary": "Médico vê influência da merenda dos anos 90: \"Pipoquinha e salsicha\"&nbsp;&nbsp;MidiaNews",
-      "sources": [
-        {
-          "name": "MidiaNews",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMFdjQW9CbmhBVmFBT2tUUW9sRnRpWUFhcENTV3RJbmExZi1vWWJWeXozR2hOeXEtVlB1YnNxU0dhSjhXOUhMVk90Z29Gd0dWMmxDLS03VHhrbjNhMGpLdHpZd2JkNkl1R1ZRYTc3cHVGMkdpTmFfSXhqcmJWNklTd2Nuci1aNzRhQWNLVlVmTDhsUTU2YkFQMHhEX3BVWUpuSlpHS3d3SnNTTTluM1lwSA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "40c36f3c3f96",
-      "title": "Saiba o que é fibromialgia, doença que afeta Elisa em 'Quem Ama Cuida' - O Dia",
-      "published": "2026-07-12T08:00:00+00:00",
-      "summary": "Saiba o que é fibromialgia, doença que afeta Elisa em 'Quem Ama Cuida'&nbsp;&nbsp;O DiaComo a Elisa de ‘Quem Ama’, Franciely Freduzeski relata dificuldade no diagnóstico da fibromialgia&nbsp;&nbsp;gshow.globo.comDoença exibida em Quem Ama Cuida causa dores e nem sempre aparece em exames&nbsp;&nbsp;UOLDor no corpo inteiro, mas exames normais? Entenda o que pode estar por trás disso&nbsp;&nbsp;Jornal CorreioFibromialgia: diagnóstico tardio compromete qualidade de vida e reforça importância da aval",
-      "sources": [
-        {
-          "name": "O Dia",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQ0dHc1JEbkRibXRsbmo3OU5WQnVPTEZtbmxOVW9aV0NZVm52Z1YwNUNwVHR2alI0Y3VDZjNlRWFlZjMtNzZYN3Y0OEVpYzRTcmE0ODhETGdMdmhYcjVvUkNkY0I5enA1aDIyUkdEN2VSeVBFQm5MWVVNYll5UzFDOGkzcUpPdkR2blJZSl8xQlZwYk5xN0IzZjNRY1BQU3VMczJJQzlyc0hJdW9nZnVPTERkVndVbkRBSHdpaExUR2hVdXd5NW03cWdTTEh5UdIB0wFBVV95cUxNZ2pWbEJ5aWVLMmhqXzlZSXFTWHJNRWhfa1hPbXh2OWlIZjNRMC1sQWZUTjRPUU1UOHhKWkREWTVTdnJoejJGLUNlSnZDT3B1X2x0SzVPbkp4UmoyWnctenAzUENVS09QMFNfbXBHSTdZclA2RUJNTmJtRzdjaXJ5allJTE5IWEYtM3VLcDRTckhzUWc5T2RvclVuaUowRFpya1NuWDY0V3dRMnFCSXVCOEREMEwtdGw3Q3dtaURKMEI3STRHcHdGLWJUZngyemQ0allN?oc=5"
         }
       ]
     }
