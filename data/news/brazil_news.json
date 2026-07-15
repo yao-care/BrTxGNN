@@ -1,9 +1,9 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-07-15T02:36:51.540613+00:00",
+  "fetched_at": "2026-07-15T08:14:40.971599+00:00",
   "total_fetched": 93,
   "unique_count": 92,
-  "health_related_count": 35,
+  "health_related_count": 36,
   "news": [
     {
       "id": "2d8e60406ecd",
@@ -21,7 +21,7 @@
       "id": "2f7d4f4c527f",
       "title": "Colesterol alto é sempre culpa da alimentação? Entenda outros fatores - Folha de S.Paulo",
       "published": "2026-07-14T20:05:00+00:00",
-      "summary": "Colesterol alto é sempre culpa da alimentação? Entenda outros fatores&nbsp;&nbsp;Folha de S.PauloColesterol alto: nova meta-análise mostra quantas gramas de fibra por dia realmente reduzem o LDL&nbsp;&nbsp;Tua SaúdeQuer baixar o colesterol? Há dois alimentos comuns que deve incluir na alimentação&nbsp;&nbsp;SICColesterol alto? Confira trocas alimentares para o dia a dia que ajudam a manter o colesterol controlado&nbsp;&nbsp;TerraColesterol alto: saiba como prevenir doenças cardiovasculares&nbsp;",
+      "summary": "Colesterol alto é sempre culpa da alimentação? Entenda outros fatores&nbsp;&nbsp;Folha de S.PauloColesterol alto: nova meta-análise mostra quantas gramas de fibra por dia realmente reduzem o LDL&nbsp;&nbsp;Tua SaúdeQuer baixar o colesterol? Há dois alimentos comuns que deve incluir na alimentação&nbsp;&nbsp;SICColesterol: sinais, controle e tratamento&nbsp;&nbsp;mauricioaraya.comColesterol alto? Confira trocas alimentares para o dia a dia que ajudam a manter o colesterol controlado&nbsp;&nbsp;Te",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -54,6 +54,42 @@
       ]
     },
     {
+      "id": "e624e6485c68",
+      "title": "Cresce o número de internações por asma no Brasil; veja como evitar crises no inverno - Portal Drauzio Varella",
+      "published": "2026-07-14T18:02:51+00:00",
+      "summary": "Cresce o número de internações por asma no Brasil; veja como evitar crises no inverno&nbsp;&nbsp;Portal Drauzio VarellaPneumologista explica sobre crises de asma no inverno&nbsp;&nbsp;G1Inverno: como evitar os perigos invisíveis da casa fechada&nbsp;&nbsp;Correio do PovoComo fortalecer a imunidade no inverno e prevenir doenças respiratórias&nbsp;&nbsp;R7Esse hábito comum no inverno pode estar te deixando doente sem você perceber&nbsp;&nbsp;Jornal Dois Irmãos",
+      "sources": [
+        {
+          "name": "Portal Drauzio Varella",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdUVlZEdsd1RuVVNFa0JweU9wRlRmR3hyNVRCdTdtZmZCTUFqS2pDU3lXb0c0STFyam1ucVVST25XSUZDMFNxTHNaNnZNelY4QjIzMk1QZEU4V2xFVzdxVzE0eU15aGNjU3BVZTlFZmM4T3FoamgxQTFfcmVTQzdiUEVzQkVyRWRLekoyV0tXdHl6R1ZoUDg1VzdfSml4Q2V1NGl6ZTJkRFRrWXlod1I0TWh1VEFMT1dxbkpyV2VwVDA3V0NMUVp6dGdhRDhJZ0l5YUxETXNvU3Q?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0ae681f2f103",
+      "title": "'Chip' com semaglutida é desenvolvido para tratar obesidade e diabetes - O GLOBO",
+      "published": "2026-07-14T18:00:10+00:00",
+      "summary": "'Chip' com semaglutida é desenvolvido para tratar obesidade e diabetes&nbsp;&nbsp;O GLOBOImplante anual de Ozempic: depois das canetas, chips são a nova promessa para tratar diabetes e obesidade&nbsp;&nbsp;VEJA'Implante de Ozempic': essa empresa quer garantir manutenção da perda de peso&nbsp;&nbsp;ExameH.C. Wainwright reitera classificação da Vivani Medical após acordo com a Novo Nordisk&nbsp;&nbsp;Investing.com Brasil - Finanças, Câmbio e Investimentos",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRmlXTlplNTgxNFV0ZVJ1LXNCdHZhVmplNVhoSEZUOW9NMU15TWNxaFd0MHhTQ2pqX0ZSaWdwMEhKQ0NKc0JxSzdSNUF4VzhXNkF2MDRRdU9tcW1MZC1xalNsdXlwMk5CXzRGN1k2eEpJNE4ySGhuY05aRERjRG95YWNCREpLWGFNZG1IME5NeHEteGd5OHp0dlE0ZGcyU1h1UllhM3pRME5heUhZV2lvbDFzYVRZNUNBbnJvSWpaMU1BQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0ee02d5901a8",
+      "title": "\"Investir em pesquisa científica é investir em vidas\", afirma jovem tetraplégica que recebeu polilaminina - Brasil Escola",
+      "published": "2026-07-14T17:41:00+00:00",
+      "summary": "\"Investir em pesquisa científica é investir em vidas\", afirma jovem tetraplégica que recebeu polilaminina&nbsp;&nbsp;Brasil Escola",
+      "sources": [
+        {
+          "name": "Brasil Escola",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWkJVWGIzMVp3d0VUbHViaDAyalE5Xy1KNURzeVFPUlVRT0NUWW9vN1lNRmtEZ1R1bk9PN09LWjVreUFGUUdRaWVLMWNoTFJ2YVIyUmN4ajg3YjlfMV91TjU3RHB5cTJoZy1Cd2M0RWZ1MlBmM2hmWW1EYl9kVHFqVmhRR1hyME1yTzFiMXZ1VkVDTEFFd2x3Sl9BMzFOeVloOTdLZnFzUzRweEtCRlppYmVlcVFEenBQ0gG-AUFVX3lxTE93Y2JNY0RabWFqN0pBVkFfWHhFdlNVeExjczZ4aFc5V294R3BxWEdMQXpCakFJY2xsRHdrREtvVUsyc2hDcnh4TXBudDNpbkNMQ09mWk9HcV84QVNTeGd0OXFKWHE4Z3NSOW1LOXZleWpJT0llUG5xNFpEMl9YbGQ0NmJQSk5EUU5kLUtRZzVqc1RyUGlpMk5wdTZVMG1hdEZEb29JOEIzVWpTZ2RLOHNQT29aaXJtaExYandfYkE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a88a778515bd",
       "title": "China aprova primeiro implante cerebral para pessoas com paralisia - Gente Seguradora",
       "published": "2026-07-14T17:01:32+00:00",
@@ -81,7 +117,7 @@
       "id": "29d30e2a769f",
       "title": "Canetas emagrecedoras: o que acontece quando você para de usar? - BBC",
       "published": "2026-07-14T15:50:36+00:00",
-      "summary": "Canetas emagrecedoras: o que acontece quando você para de usar?&nbsp;&nbsp;BBCSinais no prato&nbsp;&nbsp;Estado de MinasApreensão de canetas emagrecedoras alerta para riscos à saúde&nbsp;&nbsp;G1Preços de canetas emagrecedoras podem transformar mercado no Brasil e afetar ações&nbsp;&nbsp;InfoMoneyOs efeitos colaterais das canetas emagrecedoras no olfato e no paladar&nbsp;&nbsp;VEJA",
+      "summary": "Canetas emagrecedoras: o que acontece quando você para de usar?&nbsp;&nbsp;BBCQueda de cabelo, impotência e danos a órgãos: especialistas alertam para riscos das canetas ilegais para emagrecer&nbsp;&nbsp;G1Sinais no prato&nbsp;&nbsp;Estado de MinasPreços de canetas emagrecedoras podem transformar mercado no Brasil e afetar ações&nbsp;&nbsp;InfoMoneyOs efeitos colaterais das canetas emagrecedoras no olfato e no paladar&nbsp;&nbsp;VEJA",
       "sources": [
         {
           "name": "BBC",
@@ -105,7 +141,7 @@
       "id": "b6faec57f81b",
       "title": "Anvisa registra nova vacina contra influenza para aplicação a partir dos 6 meses - Folha de S.Paulo",
       "published": "2026-07-14T14:19:00+00:00",
-      "summary": "Anvisa registra nova vacina contra influenza para aplicação a partir dos 6 meses&nbsp;&nbsp;Folha de S.PauloAnvisa aprova nova vacina contra gripe com eficácia de 73% em adultos e 65% em crianças&nbsp;&nbsp;VEJAAnvisa libera nova vacina contra a Influenza&nbsp;&nbsp;G1Anvisa registra nova vacina contra a influenza com eficácia de até 73%&nbsp;&nbsp;CNN BrasilAnvisa registra nova vacina contra o vírus da influenza&nbsp;&nbsp;JOTA Info",
+      "summary": "Anvisa registra nova vacina contra influenza para aplicação a partir dos 6 meses&nbsp;&nbsp;Folha de S.PauloAnvisa aprova nova vacina contra gripe com eficácia de 73% em adultos e 65% em crianças&nbsp;&nbsp;VEJAAnvisa libera nova vacina contra a Influenza&nbsp;&nbsp;G1Anvisa registra nova vacina contra a influenza com eficácia de até 73%&nbsp;&nbsp;CNN BrasilGripe: Anvisa aprova nova vacina com 73% de eficácia&nbsp;&nbsp;Brasil de Fato",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -146,6 +182,18 @@
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUUZ6YTZEcWV1OFhFRThpS1V1WXQwLXZsSEpuT0xEWmtseXVMUnR1MkhlRkUySWxUSFRyLVR1YUZRT0s2Y1N3dkFxZzNkN3h2YXpxcmZGVzFPNEZMWkQxalMwanAxWVMweVRXSlpJVzNfZjdRY3hNSFdkNDU2Z2R5c3l3WmxyVTNzNDlVYXhDeGZNc1pLUkdESGluMW03Q2RSQkxjVXE4M09JMXppRDZJNFpzMURuSnJEZ1lqZzJveExDRkw0NmtQSlFzeTRKSVdMeHRUcmRIalByTGxRODA0SG5UeFRkQmo4YzdxZHkzNS0tQTF30gGDAkFVX3lxTE5yWkw3M0RoUnJYUnJmN1hlMmJBa0tJR0FEVTAydnFNS3Bma1NDOU8xUkxXWWtGN01vSmVWTmlhZUlHRnM1NDFXNmtNRFQ1aVJjWkJsZFB2NWRFMEpqVWFXcDcxOGx6S3N6MkxmZEIwQmhGQVYwS1BHcTJQZFJ6aVZuejE4aHFFbXJzRnBrQ1JwRHMtcmZ5eVhIbFZiOG9aelNya0lpX0tmU0I3NkhYMGxZcG95X2NmUWV6cFJSUldZRmtVZW9rRGNXOXhfc2pQTGRwWUhPeFFfd0hiWWowS3lXcGU3Y1k0bGZKYkRDaHVQdmRBTWhaNmNHd2hIa1hKT05HRG8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e7f6144caf6f",
+      "title": "Os 9 alimentos que médicos e nutricionistas recomendam para cuidar dos rins - Guia Muriaé",
+      "published": "2026-07-14T10:47:44+00:00",
+      "summary": "Os 9 alimentos que médicos e nutricionistas recomendam para cuidar dos rins&nbsp;&nbsp;Guia MuriaéQuantos copos de água por dia são realmente necessários para proteger os rins e evitar a retenção de líquidos&nbsp;&nbsp;Tua SaúdeSegundo estudos, beber pouca água ao longo do dia pode ter mais impacto nos rins do que se imagina&nbsp;&nbsp;Tua Saúde",
+      "sources": [
+        {
+          "name": "Guia Muriaé",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRlBWUGxqXzI1QWNSTHdfekczZW1nM0YzNnhKRUEyZ3hJMThFdVBwMlYxZ01WSnFnd2NJZktTSndfR29DSHBDeXhUMU9WbmZmV0xRWWRsQkZ1a0lYZmNLbXNQd0l4Mjg4WGtkcTR6LVExcGJFWEx1cEpFMTNyQ29NTjdvMWRiRW01anQ3TVFsakNybFNsOElxeElDM25WaTZ1cm5sd1I3cXo0bEhPQ0sxVnpBNlp3N25sdnBZWEhR?oc=5"
         }
       ]
     },
@@ -225,7 +273,7 @@
       "id": "87096559b71c",
       "title": "Cinco mudanças de hábito retardam declínio cognitivo em idosos, mostra estudo - ICL Notícias",
       "published": "2026-07-13T20:31:16+00:00",
-      "summary": "Cinco mudanças de hábito retardam declínio cognitivo em idosos, mostra estudo&nbsp;&nbsp;ICL NotíciasCinco mudanças de hábito retardam declínio cognitivo em idosos, mostra estudo latino-americano&nbsp;&nbsp;Folha de S.PauloCiência prova que envelhecimento não é sinônimo de demência quando o estilo de vida muda&nbsp;&nbsp;Jornal da USPEstudo internacional revela os principais fatores de risco para demência no Brasil — e como preveni-los&nbsp;&nbsp;VEJAEstudo revela a fórmula de 4 pilares que reju",
+      "summary": "Cinco mudanças de hábito retardam declínio cognitivo em idosos, mostra estudo&nbsp;&nbsp;ICL NotíciasComo cuidar do cérebro para reduzir o risco de Alzheimer? Especialistas explicam hábitos que fazem a diferença&nbsp;&nbsp;G1Cinco mudanças de hábito retardam declínio cognitivo em idosos, mostra estudo latino-americano&nbsp;&nbsp;Folha de S.PauloCiência prova que envelhecimento não é sinônimo de demência quando o estilo de vida muda&nbsp;&nbsp;Jornal da USPEstudo internacional revela os principai",
       "sources": [
         {
           "name": "ICL Notícias",
@@ -261,7 +309,7 @@
       "id": "9de26c0779b9",
       "title": "Dormir menos pode te fazer ganhar peso: veja quantos minutos é prejudicial - UOL",
       "published": "2026-07-13T19:52:56+00:00",
-      "summary": "Dormir menos pode te fazer ganhar peso: veja quantos minutos é prejudicial&nbsp;&nbsp;UOLPerder 80 minutos de sono pode fazer você ganhar peso, diz novo estudo&nbsp;&nbsp;SuperinteressanteDe acordo com um amplo estudo, cada noite mal dormida pode estar ligada a um risco maior de hipertensão&nbsp;&nbsp;Tua Saúde'O ayurveda pode ajudar você a ter um sono pleno', afirmam especialistas; conheça o método&nbsp;&nbsp;O GLOBOQualidade do sono influencia produtividade, imunidade...&nbsp;&nbsp;Imirante.co",
+      "summary": "Dormir menos pode te fazer ganhar peso: veja quantos minutos é prejudicial&nbsp;&nbsp;UOLPerder 80 minutos de sono pode fazer você ganhar peso, diz novo estudo&nbsp;&nbsp;SuperinteressanteDe acordo com um amplo estudo, cada noite mal dormida pode estar ligada a um risco maior de hipertensão&nbsp;&nbsp;Tua Saúde'O ayurveda pode ajudar você a ter um sono pleno', afirmam especialistas; conheça o método&nbsp;&nbsp;O GLOBODormir mal pode comprometer o cérebro, a imunidade e aumentar o risco de doença",
       "sources": [
         {
           "name": "UOL",
@@ -273,7 +321,7 @@
       "id": "d81cd0e6e523",
       "title": "Gordura no fígado: o que acontece se você tomar três xícaras de café por dia? A ciência explica os efeitos - O GLOBO",
       "published": "2026-07-13T18:03:17+00:00",
-      "summary": "Gordura no fígado: o que acontece se você tomar três xícaras de café por dia? A ciência explica os efeitos&nbsp;&nbsp;O GLOBOGordura no fígado: nova meta-análise mostra quantas xícaras de café por dia realmente reduzem o risco&nbsp;&nbsp;Tua SaúdeQuem consome café todos os dias tem risco 14% menor de morrer, segundo a ciência&nbsp;&nbsp;Diário do ComércioCafé sem açúcar e fígado gorduroso: estudo de 2026 investiga a ligação com microbiota e risco metabólico&nbsp;&nbsp;Tua SaúdeEstudo associa con",
+      "summary": "Gordura no fígado: o que acontece se você tomar três xícaras de café por dia? A ciência explica os efeitos&nbsp;&nbsp;O GLOBOO que acontece com o fígado de quem toma café todos os dias: o que uma revisão de 2025 reuniu sobre esteatose e fibrose&nbsp;&nbsp;Tua SaúdeQuem consome café todos os dias tem risco 14% menor de morrer, segundo a ciência&nbsp;&nbsp;Diário do ComércioEstudo de treze anos revela novos benefícios do café para o fígado.&nbsp;&nbsp;Vietnam.vnEstudo associa consumo de café a men",
       "sources": [
         {
           "name": "O GLOBO",
@@ -294,22 +342,10 @@
       ]
     },
     {
-      "id": "74a8be36f77e",
-      "title": "Implante anual de Ozempic: depois das canetas, chips são a nova promessa para tratar diabetes e obesidade - VEJA",
-      "published": "2026-07-13T17:31:09+00:00",
-      "summary": "Implante anual de Ozempic: depois das canetas, chips são a nova promessa para tratar diabetes e obesidade&nbsp;&nbsp;VEJA'Chip' com semaglutida é desenvolvido para tratar obesidade e diabetes&nbsp;&nbsp;O GLOBO'Implante de Ozempic': essa empresa quer garantir manutenção da perda de peso&nbsp;&nbsp;ExameH.C. Wainwright reitera classificação da Vivani Medical após acordo com a Novo Nordisk&nbsp;&nbsp;Investing.com Brasil - Finanças, Câmbio e Investimentos",
-      "sources": [
-        {
-          "name": "VEJA",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX0xsTkNyOTctODNpdElFUUlpNlEtcTV6T3pMWWpyTnl2V1pkVUFJbUc2ZlhCQ2JoNHI5QlZSVDh3S0JRanVJUGIxS09jRjBfOFFTOG9GdW5NeEVudzVoS0U4ejM3WS1HMThvZjhYVzBkaWtocjlMTHFiVGJQS1puY1VtQ0xPNDY4VGpGSjZJVnJMWTRvTWZvMzRkanlnMFpfRVZlc0UzSFI5YngzNUVDUFlCakh2SlJTWEpCaWN2LVdBbnhtTUxsTnBlNGRNMVFXeFE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "520ff56e6ea4",
       "title": "Qual vírus vem aí? Cientistas fazem previsões sobre nova doença perigosa - UOL",
       "published": "2026-07-13T17:31:05+00:00",
-      "summary": "Qual vírus vem aí? Cientistas fazem previsões sobre nova doença perigosa&nbsp;&nbsp;UOLVírus de uma próxima pandemia podem já circular pelo Brasil&nbsp;&nbsp;Olhar Digital",
+      "summary": "Qual vírus vem aí? Cientistas fazem previsões sobre nova doença perigosa&nbsp;&nbsp;UOL",
       "sources": [
         {
           "name": "UOL",
@@ -366,18 +402,6 @@
       ]
     },
     {
-      "id": "4d36a8cfe99e",
-      "title": "Os 9 alimentos que médicos e nutricionistas recomendam para cuidar dos rins - O GLOBO",
-      "published": "2026-07-13T14:30:16+00:00",
-      "summary": "Os 9 alimentos que médicos e nutricionistas recomendam para cuidar dos rins&nbsp;&nbsp;O GLOBOVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSi1RNTVBNGhfYUxPanFuTkR2NF9MQVNVY09FRWRnTnZ5WWNZODhnVnpEM1hRRE5md3MtaEFjV0RqN0ozZXdBQmNfV0RQXzg0TkRGRHdJNFZJT2M1a0JsWmtiTFU0aFVPMms2VUZkcUkzUEowQnNQVVRmUG4tM29yb09oc0pJaTlWYlpHM2pPMEhkS1NMQlV1YUhBZmljemtFMFVRa0FXSnBycWFnLXEyLTZ2YVRkM0VrS1ctcXdaYUFXQk9ieWpFckZMVdIB2gFBVV95cUxNc19TRWI4OGgxOFp4WjhoaXVHOXdheWk0U1dEZGlyZUQ0dFloajYwaWM0Wlc2VU5rTkxBNVNEMExKSlN2QlJNVWVsdTRGeXNjTUIyS0F3M0cydDBrdHBjN0lDZFpWaFotMGtrYmwxZkh5N1NfeWNwZ2l4d3BEZGFPdl8wVHhoTHZKdGNGN2N6QndqRnZPR3RaaXZlaWdrYWdrUnBjNDl0ME90WS01R2JHZHpVRTQ1MEl5Z1dFNGt3dlhpYVVvM2phZ1Jha09yTzZXWUJ1c0h6UW9zdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d6c217dc7c22",
       "title": "Testes genéticos ampliam o diagnóstico da baixa estatura infantil - Medscape",
       "published": "2026-07-13T13:33:55+00:00",
@@ -398,18 +422,6 @@
         {
           "name": "Aqui Notícias",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMVM4Ri1UUVpzVGNLdWR5MUJiOVNHVWNPQXBack5pVzJYY2NZejRkTENlQjkzVVVUS0lsQ1JLR2d0d2M2cHg4MXdmUFFZNmtnSXVhY1ZvdlVzbEdSWFFodnZGSjFjaGdCZlZrTWIySUpUYWhFYmVoS1dhUEpUVmltTFZ2RDFTb0NDUVVYOEJMYWI3U3BRaDRSclc5MmFmNFNYODFIa19pY1pXbVpCS1FrNA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4c12ac3af39e",
-      "title": "Calor faz besouros machos tentarem acasalar entre si? Estudo dá algumas pistas - Exame",
-      "published": "2026-07-13T13:08:23+00:00",
-      "summary": "Calor faz besouros machos tentarem acasalar entre si? Estudo dá algumas pistas&nbsp;&nbsp;Exame",
-      "sources": [
-        {
-          "name": "Exame",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ19Wc0hibkJNY3FGaHRUTUc5SGZveExxZ3RIY2Z0ZVRlQW1WUGxjMkpzRTdFQ3RENGl0Y1MtZjhubWhSSjFwdnlBMVRQTkNSd2h2NGdsbXM1dF9GdnB6NE9jVU5PU3AxQ09iQlgyLThhRnZaR18tVl9kSGRtSnNSOTBRWnFXd1N4eFRJemhlbWxVc3VnUTdTTjd6SXJfc0N2SUozank5OA?oc=5"
         }
       ]
     },

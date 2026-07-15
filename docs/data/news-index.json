@@ -1,15 +1,35 @@
 {
-  "generated": "2026-07-15T02:36:53.260018+00:00",
+  "generated": "2026-07-15T08:14:42.759676+00:00",
   "count": 39,
   "news": [
     {
       "id": "66a841d15663",
       "title": "Estudante do Maranhão estudava sem internet, encarou 10 horas por dia de questões, usou bolsa de R$ 100 para pagar um notebook e virou o único ouro do estado na maior olimpíada de matemática das escolas públicas do Brasil - CPG Click Petróleo e Gás",
-      "published": "2026-07-15T01:38:18+00:00",
+      "published": "2026-07-15T07:41:52+00:00",
       "sources": [
         {
           "name": "CPG Click Petróleo e Gás",
           "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQTTBPWDhIZ2NKTVpjSGRMbENVRHBWU2hPTWFoS0FEb1RIS2ZEWFZHT3FTM1hVaUM2Q2R4cjNHWFUxWlRseVJXSHJPZE5Iay1uNXJtamMzQVVxTWxYbUE4Q21QUHU4alBMTVRzVkxXc1RZOGZULUcyUnZqeXJTLUI1SFdFY096Z1M5UkpOcFNDUXpvV1pCb1JTNjhNMnN3SFJpTlhRa0RwSHlob2VoZERjNHpvdGxhd3VhblNPaFBiZks3R0JoVWtLTC1iYUtkbWUwNkVCd2hMdVA3WFFzY2FDNDh3VmYxOV9peXRVSXNyTk1MZnhaTmdESFhhaVo5ZzdYam44MDlmbXAzcjg2c3AzSkdYVElza2xDYmFOeWdLQ1JmVll3X3FtdTVUd0gxVm5iRmg0VVJqY2lTbHVMX3FleTFFVE4ybXc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
+      "id": "6af104030344",
+      "title": "O escudo térmico do planeta: como floresta antiga sobrevive a secas extremas em comparação com árvores jovens - Meteored Brasil",
+      "published": "2026-07-14T23:12:00+00:00",
+      "sources": [
+        {
+          "name": "Meteored Brasil",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUXd0ekJPRzFSeXJyQ0NHUmhjWDhuVGI1UHhqZ3A1T0ZwNms0alAtb3pDZVM0ekhrSVppdDVTSkhaNUhycGplYzBZRGs4LVpGNXFaWEc0eWZQTVl6RVJKT0E4alp1c1loRXV1c3Q4X2pBcW0zUUlaQk02R3FSS3J5NjhFMnEtSVhMMTRRVGprRXBVN3llUGE0YlY3ZFFVR1MzeEJlNVFUQ3EyNUt1ZmI3THlfWFItSmJjUGxna0JGNEVhTFBuSGhtT3NnNGJyd0NKV204allsTkJOa0E5UGpVUzVVb1pReXc?oc=5"
         }
       ],
       "keywords": [
@@ -79,26 +99,6 @@
       ]
     },
     {
-      "id": "150e3bc88633",
-      "title": "Jovem tetraplégica celebra avanço da ciência após receber polilaminina",
-      "published": "2026-07-14T21:19:10+00:00",
-      "sources": [
-        {
-          "name": "DOL",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR3dacXVlak91S1JXeWoxQmlQaHFUM2dHZ0ZoNVFMY3JzVWtEYWNmN3owbGY0UG9PbmpFUmFXOGEtMm5EQ2luNC0zUmd5X0RZTkZFSHZob0NMbVF3RWk0NDJHUGd1LWtOSENPdm42M3NqUEFLQjRuTFpRUDVSdHZIZERXT19tMVpTbE01VWtmTnJSczNyR1FhR0ROaDJabk1RZ00zbUhOTVA2NXdiNjVxcU1B0gG6AUFVX3lxTE5NR0lDS0N5eHNMd29QbDhBWHluLTdMdTV0R0tlZ2xkcHhpVkVwX0JYT3AxTG1DMWhtQjVJSnVUWkNub2VyV0NabVpYTkNwQ2dMMC1XQ3JJMkVXd19TUFdmTzZTRy1GU0o2SHpOLU1PQzVDVG95X1A1c2JCa2dqNjZtNGtuUkdSOExvekV3ZW5jVC0wTjZISXNxU2NsbDFDNHVjbmRGbFRZR1NLSHJXcDlPeEk1OG42R19hUQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "celecoxib",
-          "keyword": "CELEBRA",
-          "name": "CELECOXIB",
-          "url": "/drugs/celecoxib/"
-        }
-      ]
-    },
-    {
       "id": "2f7d4f4c527f",
       "title": "Colesterol alto é sempre culpa da alimentação? Entenda outros fatores - Folha de S.Paulo",
       "published": "2026-07-14T20:05:00+00:00",
@@ -110,39 +110,11 @@
       ],
       "keywords": [
         {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "cardiovascular",
-          "related_drugs": [
-            {
-              "slug": "travoprost",
-              "name": "Travoprost"
-            },
-            {
-              "slug": "thiamine",
-              "name": "Thiamine"
-            },
-            {
-              "slug": "tenecteplase",
-              "name": "TENECTEPLASE"
-            },
-            {
-              "slug": "alteplase",
-              "name": "ALTEPLASE"
-            },
-            {
-              "slug": "ticagrelor",
-              "name": "TICAGRELOR"
-            },
-            {
-              "slug": "tocopherol",
-              "name": "Tocopherol"
-            },
-            {
-              "slug": "gadobutrol",
-              "name": "Gadobutrol"
-            }
-          ]
+          "type": "drug",
+          "slug": "levetiracetam",
+          "keyword": "TAM",
+          "name": "LEVETIRACETAM",
+          "url": "/drugs/levetiracetam/"
         }
       ]
     },
@@ -174,6 +146,114 @@
         {
           "name": "Tribuna do Paraná",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVE9RelFNU0ExcTR6ZmZTRTZSSGRjbGhEUl9lbi1Td2N5MzRfQkh3ZEJ2UWxVV3dqbl9CTlFiaW9Mb2NqQzc3enJpazRFaDZ0emwzZGRnRkFubGliZHJKSWtfNkFQYy1wdHQ0OVNRQ3JyempUVGJoa3ZTaGh0Q3NGaUdKdTUwRldSQUkxMlpVajdETlRxWmEwWlAxcVY5bmkxY0NoNTRBdlhYcHRBNkFaT1N3dXpaUdIBuwFBVV95cUxNdG5rQU5GUWowMVRab1VEc0dUaTh0LVFRamF2ODExQVpaSHhlN1NZX3lzYVhWbGtQb3lpbjk4QzRkcXNUQ25aNEp6ckw3S0NhRTNMeHdzcnM2STE2NHdKUmVkNEdRYVg5VTRyY05nREExNDhDS2Y0Q25kTkxlSk1QbG51SW80OWJFcU52Z1RzdGJjelp2c195VmJVNkRMMGxLN0w4OEdCTGx0M0JNZUxWR1FpMW1FbmE0bDhz?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
+      "id": "e624e6485c68",
+      "title": "Cresce o número de internações por asma no Brasil; veja como evitar crises no inverno - Portal Drauzio Varella",
+      "published": "2026-07-14T18:02:51+00:00",
+      "sources": [
+        {
+          "name": "Portal Drauzio Varella",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdUVlZEdsd1RuVVNFa0JweU9wRlRmR3hyNVRCdTdtZmZCTUFqS2pDU3lXb0c0STFyam1ucVVST25XSUZDMFNxTHNaNnZNelY4QjIzMk1QZEU4V2xFVzdxVzE0eU15aGNjU3BVZTlFZmM4T3FoamgxQTFfcmVTQzdiUEVzQkVyRWRLekoyV0tXdHl6R1ZoUDg1VzdfSml4Q2V1NGl6ZTJkRFRrWXlod1I0TWh1VEFMT1dxbkpyV2VwVDA3V0NMUVp6dGdhRDhJZ0l5YUxETXNvU3Q?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "diazepam",
+          "keyword": "UNI",
+          "name": "Diazepam",
+          "url": "/drugs/diazepam/"
+        },
+        {
+          "type": "drug",
+          "slug": "zinc",
+          "keyword": "UNI",
+          "name": "ZINC",
+          "url": "/drugs/zinc/"
+        },
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
+      "id": "0ae681f2f103",
+      "title": "'Chip' com semaglutida é desenvolvido para tratar obesidade e diabetes - O GLOBO",
+      "published": "2026-07-14T18:00:10+00:00",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRmlXTlplNTgxNFV0ZVJ1LXNCdHZhVmplNVhoSEZUOW9NMU15TWNxaFd0MHhTQ2pqX0ZSaWdwMEhKQ0NKc0JxSzdSNUF4VzhXNkF2MDRRdU9tcW1MZC1xalNsdXlwMk5CXzRGN1k2eEpJNE4ySGhuY05aRERjRG95YWNCREpLWGFNZG1IME5NeHEteGd5OHp0dlE0ZGcyU1h1UllhM3pRME5heUhZV2lvbDFzYVRZNUNBbnJvSWpaMU1BQQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "golimumabe",
+          "keyword": "BIO",
+          "name": "GOLIMUMABE",
+          "url": "/drugs/golimumabe/"
+        },
+        {
+          "type": "drug",
+          "slug": "etanercepte",
+          "keyword": "BIO",
+          "name": "ETANERCEPTE",
+          "url": "/drugs/etanercepte/"
+        },
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
+      "id": "0ee02d5901a8",
+      "title": "\"Investir em pesquisa científica é investir em vidas\", afirma jovem tetraplégica que recebeu polilaminina - Brasil Escola",
+      "published": "2026-07-14T17:41:00+00:00",
+      "sources": [
+        {
+          "name": "Brasil Escola",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWkJVWGIzMVp3d0VUbHViaDAyalE5Xy1KNURzeVFPUlVRT0NUWW9vN1lNRmtEZ1R1bk9PN09LWjVreUFGUUdRaWVLMWNoTFJ2YVIyUmN4ajg3YjlfMV91TjU3RHB5cTJoZy1Cd2M0RWZ1MlBmM2hmWW1EYl9kVHFqVmhRR1hyME1yTzFiMXZ1VkVDTEFFd2x3Sl9BMzFOeVloOTdLZnFzUzRweEtCRlppYmVlcVFEenBQ0gG-AUFVX3lxTE93Y2JNY0RabWFqN0pBVkFfWHhFdlNVeExjczZ4aFc5V294R3BxWEdMQXpCakFJY2xsRHdrREtvVUsyc2hDcnh4TXBudDNpbkNMQ09mWk9HcV84QVNTeGd0OXFKWHE4Z3NSOW1LOXZleWpJT0llUG5xNFpEMl9YbGQ0NmJQSk5EUU5kLUtRZzVqc1RyUGlpMk5wdTZVMG1hdEZEb29JOEIzVWpTZ2RLOHNQT29aaXJtaExYandfYkE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
+      "id": "f443e8dc4661",
+      "title": "Curso gratuito e totalmente online, Ciência Aberta, abre 10 mil vagas e oferece certificado - Hora Brasil",
+      "published": "2026-07-14T17:36:38+00:00",
+      "sources": [
+        {
+          "name": "Hora Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaFRXNGduQ25OOG5aUDNZLWoyM19xR1ZNMnhNbkNta3oyUndOUjdtQVJ1Z3pneVVDaDR4dC1CWmV0WlUyYjJTY0tsczM4X1BCVTNERVJIVERRWm0wNC1ZZE5vdTJHRTQ2YTBkUjhSX3pzSUtBc0FVcDMtQjhUWHIwUjVjLW5xTjVoU3ZiZXFGUFd0VHdjNHJoTTBCdEdFSVlFdmhHRXp6NXZDT3dtQWlBRmo1WnI5cDBYYi1GLUVHVzBvUmJ1TkJDT0p5Zw?oc=5"
         }
       ],
       "keywords": [
@@ -253,6 +333,13 @@
       "keywords": [
         {
           "type": "drug",
+          "slug": "levetiracetam",
+          "keyword": "TAM",
+          "name": "LEVETIRACETAM",
+          "url": "/drugs/levetiracetam/"
+        },
+        {
+          "type": "drug",
           "slug": "silodosina",
           "keyword": "SIL",
           "name": "SILODOSINA",
@@ -261,7 +348,7 @@
         {
           "type": "drug",
           "slug": "tadalafil",
-          "keyword": "ASAP",
+          "keyword": "CIALIS",
           "name": "TADALAFIL",
           "url": "/drugs/tadalafil/"
         }
@@ -338,13 +425,6 @@
         }
       ],
       "keywords": [
-        {
-          "type": "drug",
-          "slug": "tioguanina",
-          "keyword": "LANVIS",
-          "name": "TIOGUANINA",
-          "url": "/drugs/tioguanina/"
-        },
         {
           "type": "drug",
           "slug": "silodosina",
@@ -457,6 +537,37 @@
           "keyword": "TAM",
           "name": "LEVETIRACETAM",
           "url": "/drugs/levetiracetam/"
+        }
+      ]
+    },
+    {
+      "id": "a1d3538f5ebb",
+      "title": "'Uma refeição nas férias me deixou com 38 parasitas no cérebro'",
+      "published": "2026-07-14T07:01:18+00:00",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPa1Fnczh0YVVaWThtSDFyMXd5X0tLVGNEeXZoQWxTX3Q2YlJtbUk3djQ3NVdVeEZXOVpIMFk0d1lXMFBaWGExT2xTU2lCMzlOYnRSQVJzQjREOHhqMlpVdjlrdzZTdzZYaDF3eU1FRm52Q0lwM19PaUgtMks4RXJ4SUp0M1M0SFVsSVhObWV5TEdQQk9CYUVlSGptQmptbnhVYWtneGpqalNTeHVVcHNmblFkc9IBwgFBVV95cUxQSWFhWlRoZnRRaUI5X1lzUE1iZGVDZXQ0VEYwbTYtLUY2Qk9TMVRrZGpIWEdlbmpZQTNUdXVBLVJua2Q3MXIySnJpRmlYSFRxTUNxNG4xZHNTTVFpOG8yZ0xKNzczck1XaElZcVdyQ2RQVHZFUTk0LVFVc3VNcXZsY29HU2V2T004UjhVZ01vZEJSc1lIM200Y1Byc3BWN2lrZ2JiWUFiVU5CbHlOdXBVYTZPYTJLRnZfc0tsMnFZSzlCQQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "celecoxib",
+          "keyword": "CELEBRA",
+          "name": "CELECOXIB",
+          "url": "/drugs/celecoxib/"
+        },
+        {
+          "type": "indication",
+          "name": "schizophrenia",
+          "keyword": "psicose",
+          "related_drugs": [
+            {
+              "slug": "dexchlorpheniramine_maleate",
+              "name": "Dexchlorpheniramine maleate"
+            }
+          ]
         }
       ]
     },
@@ -627,26 +738,6 @@
       ]
     },
     {
-      "id": "2ba357094d1a",
-      "title": "Homem reformava o porão de casa nos arredores de Paris quando desenterrou um esqueleto humano no chão de terra e chamou arqueólogos, que acharam ali embaixo 38 corpos medievais, 10 deles em sarcófagos de gesso, enterrados entre os séculos 3 - CPG Click Petróleo e Gás",
-      "published": "2026-07-14T03:03:00+00:00",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNVlpWdm9nRXVqUkNITGFPc3N4YjNpVDdXYVpDX3hyUzUxWHhHSDdLV0FPOWtKYVJ3SlF2VUlRbjRHYjRtakctMTRidnUtN3pUdlllN1BPSW1ZV2NTc0ZEcnVKRVdld2xWUF9rQ2VPMGtQVjFYVU5ZZFJJMGRpeTVjaXlZMVV6RjVuZ3NQc2pMZkFIamNMUC1XejQ2WUxYSmhUMEVyb0NqakVkbFI4TjQxZVktRWdXQ29Ha0locWcyZHU1YldkNWlXU2hjdUVLaEw2MVhNNW13MnM5d1FJY2ZBTVJlM0dfNmtNWC1Gc1BfS2tVeVhzXzZHb3B0bWVuN29XZm5TRV8xWldERnBTU01PTGo5WXhwZHRORk1hS1NLdU96V1VDTjVudjcxajhPTkJLR1RZaFBCazBTWWZUNFRZVU9SWHpqZWM?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "etodolaco",
-          "keyword": "DORE",
-          "name": "ETODOLACO",
-          "url": "/drugs/etodolaco/"
-        }
-      ]
-    },
-    {
       "id": "9594e18329d7",
       "title": "Saiba qual a quantidade de café que você pode beber por dia sem prejudicar a saúde - ICL Notícias",
       "published": "2026-07-13T23:22:54+00:00",
@@ -682,26 +773,6 @@
       ]
     },
     {
-      "id": "0e325062d090",
-      "title": "A Antártica atingiu 15,4°C em pleno inverno: como ocorreu uma onda de calor excepcional - Meteored Brasil",
-      "published": "2026-07-13T22:03:00+00:00",
-      "sources": [
-        {
-          "name": "Meteored Brasil",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZkxUWXZ3QVo0R3hacHJRNThVR0NXRDZBV0h3UDVSQUpGYjRtOFlUS3hYYUtTQzRrbVNOcmxhbmdiZ2RfN1JObm1WNkFNVXozU3FEaFl5Ry1rYUNuX3dhSUxuTmJTQWxWNkwxeFhrdzl0aEN6UjJfVktnNUFXUXprSTRXUWpqc0prQWdrRnJrSEdHcjFNNlphQmhoWjctaklTS3hIaDFNSEs3VTNtVURBMkhPWmxOT0dzWHUzQ3B0T1FsZldPS2xyXzd5SWo5SkU?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
       "id": "87096559b71c",
       "title": "Cinco mudanças de hábito retardam declínio cognitivo em idosos, mostra estudo - ICL Notícias",
       "published": "2026-07-13T20:31:16+00:00",
@@ -714,10 +785,10 @@
       "keywords": [
         {
           "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
+          "slug": "tadalafil",
+          "keyword": "CIALIS",
+          "name": "TADALAFIL",
+          "url": "/drugs/tadalafil/"
         },
         {
           "type": "indication",
@@ -1171,26 +1242,6 @@
       ]
     },
     {
-      "id": "696cdba9790d",
-      "title": "Cientistas escaneiam fóssil de 290 milhões de anos e identificam uma estrutura preservada que não era visível por fora - Super Rádio Tupi",
-      "published": "2026-07-13T19:33:46+00:00",
-      "sources": [
-        {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcEdTUVhVbmVSWDRWb1BMNFROZ0FITmgzOEFkSnpLTjVpZFladnM5bHYza0pGVy1yYzhPR05YT2h3QlhWUUNGOC1rWVZnMV85N3ZwR1BSMDdGSXNsaWVCaFRkbFJlLVlaMUlkbURNb1Q4ZWFOZUE0THB5V0g4V05NamlkR19FR2pib3NMMHZyWWJmT2VwSTRNS1Z3QmZkRUE1QzlZV2ZGeEJybmdUWTYxZVllRV95cGluWkU4RTJSNGpiOEtwb0wzbjlDNE5yck1ZSlZqS2RkdkJfcUNqc3c?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
       "id": "d81cd0e6e523",
       "title": "Gordura no fígado: o que acontece se você tomar três xícaras de café por dia? A ciência explica os efeitos - O GLOBO",
       "published": "2026-07-13T18:03:17+00:00",
@@ -1203,17 +1254,17 @@
       "keywords": [
         {
           "type": "drug",
-          "slug": "golimumabe",
-          "keyword": "BIO",
-          "name": "GOLIMUMABE",
-          "url": "/drugs/golimumabe/"
+          "slug": "diazepam",
+          "keyword": "UNI",
+          "name": "Diazepam",
+          "url": "/drugs/diazepam/"
         },
         {
           "type": "drug",
-          "slug": "etanercepte",
-          "keyword": "BIO",
-          "name": "ETANERCEPTE",
-          "url": "/drugs/etanercepte/"
+          "slug": "zinc",
+          "keyword": "UNI",
+          "name": "ZINC",
+          "url": "/drugs/zinc/"
         }
       ]
     },
@@ -1225,60 +1276,6 @@
         {
           "name": "Xataka Brasil",
           "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPekU1MFl4Q0hLY1I5QzAxTUJxa1lvZWxrbzQzQjdOYVdPYlRhLUZHZ3ZaY242YThzSEpYdmdia2J3bjVnWnh6TUtELTBjUFZGUE14WlhBcHNjcGF3VmZzNEhaMXlHblkwNlpCOUs2RjQtQW02amJnaGZ6Nm55N2piVFNxanNEWFBQMVoydkRoSFRTbl9fTXBCZDhaQnJYRkZyaFZEOEUzWGhNQVJrSXlTejY3ZFFuSG92U042X19Ib3VYUTVwaFF5VXNNZWI0R2g1bDdNd3BjNjJ3WDNYVDFISi1yU0lUeEFxSDhhWlFZMVZGOWJtc3NSNXNLN1ptZVBwSUZJTzl3bnFRSE00UVE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
-      "id": "74a8be36f77e",
-      "title": "Implante anual de Ozempic: depois das canetas, chips são a nova promessa para tratar diabetes e obesidade",
-      "published": "2026-07-13T17:31:09+00:00",
-      "sources": [
-        {
-          "name": "VEJA",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX0xsTkNyOTctODNpdElFUUlpNlEtcTV6T3pMWWpyTnl2V1pkVUFJbUc2ZlhCQ2JoNHI5QlZSVDh3S0JRanVJUGIxS09jRjBfOFFTOG9GdW5NeEVudzVoS0U4ejM3WS1HMThvZjhYVzBkaWtocjlMTHFiVGJQS1puY1VtQ0xPNDY4VGpGSjZJVnJMWTRvTWZvMzRkanlnMFpfRVZlc0UzSFI5YngzNUVDUFlCakh2SlJTWEpCaWN2LVdBbnhtTUxsTnBlNGRNMVFXeFE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "golimumabe",
-          "keyword": "BIO",
-          "name": "GOLIMUMABE",
-          "url": "/drugs/golimumabe/"
-        },
-        {
-          "type": "drug",
-          "slug": "etanercepte",
-          "keyword": "BIO",
-          "name": "ETANERCEPTE",
-          "url": "/drugs/etanercepte/"
-        },
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
-      "id": "520ff56e6ea4",
-      "title": "Qual vírus vem aí? Cientistas fazem previsões sobre nova doença perigosa",
-      "published": "2026-07-13T17:31:05+00:00",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZ0haQWo4cGhNVnFwbHg0a0dOOGF6TmF2c1c0VUUzNVplbWxjdkVERWRFeTJ5SE9mLWxEclZSZ0d2U0VyZDY1emFYZndkME05QlF3bUoyUDRBOUdSUDdudTd1VUJaSDFyNWZSSWdLdjJXNE1McmdJY0dOVlI1RnJNVXlNUmUxbVJtU3pGdjN5SkFsMWZDcmhwemxnWXZEc21GcVAwOVRVUms0Z3lZeWNXWGVXX3NBa1lkMkRpYXFNWUxndlo5RHhUdXlmM0pwZw?oc=5"
         }
       ],
       "keywords": [
