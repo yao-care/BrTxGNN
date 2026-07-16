@@ -1,10 +1,34 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-07-16T13:56:07.173905+00:00",
-  "total_fetched": 85,
-  "unique_count": 85,
-  "health_related_count": 29,
+  "fetched_at": "2026-07-16T19:14:07.077432+00:00",
+  "total_fetched": 88,
+  "unique_count": 87,
+  "health_related_count": 28,
   "news": [
+    {
+      "id": "1dd03b81ec04",
+      "title": "Amigo da família de Jacinto Lay diz que foi decretada a morte cerebral do médico - Portal AZ",
+      "published": "2026-07-16T16:35:07+00:00",
+      "summary": "Amigo da família de Jacinto Lay diz que foi decretada a morte cerebral do médico&nbsp;&nbsp;Portal AZ",
+      "sources": [
+        {
+          "name": "Portal AZ",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTkpwMWc1LVBWVTFoZ0RnZkhmZmd1Uzh5UFlPRmtMOS0xWTROLXBoaVdoclhFT01ZOE1JSHJkVFppVnBIM0pGWlBSTjBVMmdnbW0yeW1FR2xOLUVQNFlzbUhpQTVmbElTU1FTdXdDZE1NYXhncEUxVXlEVWdud1kzRjlBcllYTFFZMWRhei04N0szU2dzNW1lRUFkUDJrOHdxU0VJQzNwZHpDT1dfOFpJNlZpTVk5TWZocTNmNXFRSGxiRk9uZzZhV9IBzgFBVV95cUxPY2Z4QUZPU2Qwc1h3MG1RUE0yWVNWNUlPX2FfTDBvTG4yellCVTBTelQyUEdUMTVha0ZXajQ1TDh2bFAzOEtHMjhKeFM2bGlqaVY3TlFyc3NEYUZLcEluc0IwMnJfVmJZa2EtOFpMMkNsNEstWjNJVU5VOWdtdWNfMUJLZXd4anQ3bHVNOGg2RExfd1R5M2FOdFFKeDgwVk9PcldaYWdXUXJscWVWLXNQdFhKbVR4MENyMUFlRVFzdk1JT1dfX0dnLXNrcWp1Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dcc65b0f4cfc",
+      "title": "Pesquisadora cita pressão psicológica e vexatória e aciona Fávaro - MidiaNews",
+      "published": "2026-07-16T14:30:00+00:00",
+      "summary": "Pesquisadora cita pressão psicológica e vexatória e aciona Fávaro&nbsp;&nbsp;MidiaNews",
+      "sources": [
+        {
+          "name": "MidiaNews",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPenE3M0xnZ3NPVEtoSDMtVWRfZDY0TGs0SFo0M2xERkJBdHVFQk9CcG5uU083YktTT19oRnc5Y2dqeElCRXNQR2RBbTZMMk4zYTZGZmFpR1AwWDFWMFNHZkZHZ3NDTHNOaDJWd0RMQWZUVWlOTlBpbV9QdV9EUmFCZUJNRkhSa1NJamQ5RlhJa212S0tialFDcWR5eWJpN28wWU5kVEFjZ3RwcVVYU2Q0?oc=5"
+        }
+      ]
+    },
     {
       "id": "d37003a71214",
       "title": "Sempre é ruim? Conheça 6 mitos e verdades sobre colesterol - UOL",
@@ -14,6 +38,18 @@
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYXYyQWdkak1nYlJzUlNES3RTcHp2SDk0YmhBTGxjNUhfaVZ1VEZ0MmtCaFYtZU5yS0ZwXy1hTzlPYnhBTGdJUW0weGRkU193SkpKb1plNnp2ekJmOE1ZWTN1MF9PeDNodUtGdG9feGhZVFJQY1U2SURYZ2t3dGFFYktkUm10WndpaGNNT3dZTHdnY3pudkgwbnJlajNlV3g2MWsxR0J3b2xQbFBsT3dkaTlTZ2FDLTlYVWRGY2c5YlJ0MHg0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a0041961dd0a",
+      "title": "O que uma caminhada pode fazer pela sua saúde - 16/07/2026 - Equilíbrio - Folha de S.Paulo",
+      "published": "2026-07-16T07:00:00+00:00",
+      "summary": "O que uma caminhada pode fazer pela sua saúde - 16/07/2026 - Equilíbrio&nbsp;&nbsp;Folha de S.PauloCaminhadas de 5 dias por semana podem queimar até 78.000 calorias anuais, dizem treinadores&nbsp;&nbsp;Rádio ItatiaiaO que uma caminhada pode fazer pela sua saúde&nbsp;&nbsp;redeutv.com.brCaminhar para se exercitar: quanto tempo uma pessoa na faixa dos 50 anos deve caminhar por dia para se manter saudável?&nbsp;&nbsp;Vietnam.vnOs treinadores concordam: “Caminhar por 5 dias na semana, de segunda a s",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOenR1M0hHN1psdUEzS0kxek5uOWNfWkFBcWVIY183bTBSa0dTMDF1NkdwUUo5WE1tQ3hrVDJJQXhuRk9NNGZMelBKMUkyLWtEbXdqbnRlZUt6Y1NjUnpsdU5ra25TYmtKX2FjdzNWWHAwYkFRNUFqc0lHMEVuUUxUUmRmN0xzcWxmektjRkhwQ0FHc2cyLWlzZmVaQWRadjMwX0E?oc=5"
         }
       ]
     },
@@ -69,7 +105,7 @@
       "id": "d24891b84fac",
       "title": "Um terço das cidades da Grande SP registra alta de casos de SRAG, apesar de queda de 28% na região - G1",
       "published": "2026-07-15T22:17:37+00:00",
-      "summary": "Um terço das cidades da Grande SP registra alta de casos de SRAG, apesar de queda de 28% na região&nbsp;&nbsp;G1Casos de síndrome respiratória aguda grave aumentam durante inverno no Rio&nbsp;&nbsp;R7Distrito Federal registra alta em casos graves de influenza B&nbsp;&nbsp;Jornal de BrasíliaVacinação contra VSR reduz em 81% os casos de bronquiolite em bebês no Paraná&nbsp;&nbsp;CatveCasos de gripe atinge Eunápolis!&nbsp;&nbsp;aGazeta Bahia",
+      "summary": "Um terço das cidades da Grande SP registra alta de casos de SRAG, apesar de queda de 28% na região&nbsp;&nbsp;G1Influenza: casos recuam no país, mas MS e mais 4 estados mantêm alerta&nbsp;&nbsp;MidiamaxCasos de síndrome respiratória aguda grave aumentam durante inverno no Rio&nbsp;&nbsp;R7Minas está em alerta de alto risco para disparada de doenças respiratórias, aponta Fiocruz&nbsp;&nbsp;O TEMPOFiocruz: hospitalizações por infecções respiratórias começam a cair após cinco meses de alta&nbsp;&nb",
       "sources": [
         {
           "name": "G1",
@@ -81,7 +117,7 @@
       "id": "718c12161529",
       "title": "Até 45% dos riscos de demência poderiam ser prevenidos ou adiados, afirma OMS - Folha de S.Paulo",
       "published": "2026-07-15T22:12:00+00:00",
-      "summary": "Até 45% dos riscos de demência poderiam ser prevenidos ou adiados, afirma OMS&nbsp;&nbsp;Folha de S.PauloComo cuidar do cérebro para reduzir o risco de Alzheimer? Especialistas explicam hábitos que fazem a diferença&nbsp;&nbsp;G1Prevenção à demência: estilo de vida saudável é aliado poderoso&nbsp;&nbsp;VEJA RIOCiência prova que envelhecimento não é sinônimo de demência quando o estilo de vida muda&nbsp;&nbsp;Jornal da USPOMS atualiza diretrizes sobre demência e indica novas medidas para reduzir ",
+      "summary": "Até 45% dos riscos de demência poderiam ser prevenidos ou adiados, afirma OMS&nbsp;&nbsp;Folha de S.PauloQuase metade do risco de demência pode ser evitada, afirma OMS&nbsp;&nbsp;G1Ciência prova que envelhecimento não é sinônimo de demência quando o estilo de vida muda&nbsp;&nbsp;Jornal da USPOMS afirma que até 45% do risco de demência pode ser prevenido ou adiado&nbsp;&nbsp;UOL NotíciasPrevenção à demência: estilo de vida saudável é aliado poderoso&nbsp;&nbsp;VEJA RIO",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -114,14 +150,50 @@
       ]
     },
     {
-      "id": "18e8bde4fe8a",
-      "title": "Tempestades de poeira do deserto do Saara carregam toneladas de fósforo pelo ar que fertilizam a Floresta Amazônica há milhares de anos, revela pesquisa da Nasa - Jornal Correio",
-      "published": "2026-07-15T17:05:02+00:00",
-      "summary": "Tempestades de poeira do deserto do Saara carregam toneladas de fósforo pelo ar que fertilizam a Floresta Amazônica há milhares de anos, revela pesquisa da Nasa&nbsp;&nbsp;Jornal Correio",
+      "id": "410c41bc1499",
+      "title": "A pressão que você mede no consultório pode enganar; estudo mostra por quê - Jornal Correio",
+      "published": "2026-07-15T19:57:42+00:00",
+      "summary": "A pressão que você mede no consultório pode enganar; estudo mostra por quê&nbsp;&nbsp;Jornal Correio",
       "sources": [
         {
           "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNUzJ5em1aSjFiS0x6VGc5dzUwNWRTcmtBVzQ2T3JCMGhPU3hqQTN2b2FMcmJGZDdrSkNvNDBHU3JveDg1ZkptOFJQYWRlTXBsazlwZUEtczFieUtmeDdVOVBYdUVCbmZkeVJlYmtCRHRGZnhIbi11N0tQdGRJcG1WcTQtSzBCY0NzUlR0U2g1RzVoQ2ExeEU0NE92QVRaSndOWXZVYWZOSFBaTWw1ekRiNmtUdmhCUVd2QXBObVFPeEFQeVJfNDhidmRXWmhtazFPVzFwMnNCMjQxQVg3dDlSS1UwMkRBYnpOeFByUEllUHRCQ2VsUGVvLVcxWFNkanFwRWgyNVE2RTdXclhyaXg2TkR0YktuNlgxSVhWZGNPM1lDLUR5dWtRdzExYV96dnM?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUnNuRGxzbFZEOUNMTlRRbFdxUlZYWDRwamxOaE5BTGFyZy0teEl3TnVOTzVwSl8wSG1LUjd6ZVFhb1lySDhqbS1XNldSSHdmX1NiX2czT1YyZGJEZE55WWUxSjI4My02SzlhUU5kZEx5cHhsTTJVTXg2LTQ0U3NLNkNqNWZnRXV1aTNaMTlRWjN4bjdmUzNneWdibTZrdEhDOXRMX2c0dnpITlpqbWhtZGJfU3E3b1FRbHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "708fef8d764e",
+      "title": "Descubra três fatores de alerta que aumentam risco de doença renal crônica silenciosa - Rádio Itatiaia",
+      "published": "2026-07-15T18:49:12+00:00",
+      "summary": "Descubra três fatores de alerta que aumentam risco de doença renal crônica silenciosa&nbsp;&nbsp;Rádio ItatiaiaDois maiores inimigos dos rins são conhecidos e terceiro vem crescendo&nbsp;&nbsp;CNN BrasilInsuficiência renal crônica: entenda por que a doença afeta principalmente os idosos&nbsp;&nbsp;CartaCapitalUrina espumosa sem dor aparente pode ser uma pista frequentemente esquecida de alteração nos rins&nbsp;&nbsp;Tua SaúdeDiabetes e hipertensão lideram risco aos rins; obesidade cresce&nbsp;&n",
+      "sources": [
+        {
+          "name": "Rádio Itatiaia",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeWt5cDZLcFg2cnYzekszZ1hOellSSkRoRmFzcGlnSmFPR0ZuUHBJSThEeTRKWmhNalFCNzRjX2ZCdGZCbjdQc3JQYjBlSGljSDdheTg4aVlLc1B6VmpneDlmanMtWm1KdzJ0clpfc2R5bXVLVm9EN2RPSGlHWUVvLUtLZXNoa3cyc0F6eFVzZ1VNTC12MnI5b3RBakhRVVVXUV94c0sxZkZUU1ZqbFk3cjJkb0hnT2pEMFVBMFhR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6eeca3bf19df",
+      "title": "Entenda como funciona o licenciamento nuclear naval para a construção do primeiro SNCA brasileiro - Agência Marinha",
+      "published": "2026-07-15T17:51:40+00:00",
+      "summary": "Entenda como funciona o licenciamento nuclear naval para a construção do primeiro SNCA brasileiro&nbsp;&nbsp;Agência Marinha",
+      "sources": [
+        {
+          "name": "Agência Marinha",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQX2RLNmFWdVlDc2pVZUxiVVBwRURuMEQtd2wwSXNYNksxQUltcVBPNGFodU1aM00zNFh3ZXNXbWtvbEFjVjhIakt5TWRiaTM4MFNGVXVqTzMyaFlBTTF2LWVIbWpHMHlSdzBfdUZiMG9vbk5tbWVzTnNXdWxDMEtvWTJpN1BCcVhVcUxBWUlHa0E0ZkFnelFKRFhYM1ZyRmhGYm9UYlhhUU1wdlNxVGNuOXJZdHNERElYRTR3dHNBSVU5TVUx?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e4e237cd54be",
+      "title": "CSPE/PREG: Lista de aprovados nos cursos de Medicina (Floriano), Inteligência Artificial e Psicologia e edital com procedimentos e cronograma da Matrícula Institucional - UFPI",
+      "published": "2026-07-15T17:17:46+00:00",
+      "summary": "CSPE/PREG: Lista de aprovados nos cursos de Medicina (Floriano), Inteligência Artificial e Psicologia e edital com procedimentos e cronograma da Matrícula Institucional&nbsp;&nbsp;UFPI",
+      "sources": [
+        {
+          "name": "UFPI",
+          "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPbTNrcDRwZmt4bXpGbVpLUE5qZnpxY3pTcFJvcFdQN3ZfT1hYRWZMQWNkZkxLZFVBYXlmU3JxMFZxd2lvOC05UWFIOFgtTXRXSVF2TldPNndzQXdpSmNnZXNiTWJsSjd3QzF3Y3Y0ekpKcGVwRERESExmOEZlOHNDZ3BSOG9LcnU3Q201UHpwcXA1dkJJV1VGT0xZWXI0bTNmVXZPS2huWDZaYjM0Y1NSM2J1TnVUT2FvY1dPaWZtRkxJYUlORy1iNnBRRGFPdnJNSEI0ZEVueFU4TGhkemNjX09JNXlTUnltaU5qMkVRYy1yOU9FQThHSTF3YUduMGxCRjF2RG82aEh4UWtWRzAyWDlKX21CQi1nSm5Lcm9abVBob2NKZUE?oc=5"
         }
       ]
     },
@@ -138,6 +210,18 @@
       ]
     },
     {
+      "id": "4c2eae9ddfc3",
+      "title": "Quem foi Martha Lillard, a última americana a viver com \"pulmão de aço\" - CNN Brasil",
+      "published": "2026-07-15T14:57:16+00:00",
+      "summary": "Quem foi Martha Lillard, a última americana a viver com \"pulmão de aço\"&nbsp;&nbsp;CNN BrasilNão conseguiram encontrar peças de reposição: entenda a causa da morte da última mulher com poliomielite que vivia com pulmão de aço&nbsp;&nbsp;O GLOBOComo funcionava o ‘pulmão de aço’ de Martha Lillard, que morreu aos 78 anos&nbsp;&nbsp;Portal UAIMorte de Martha Lillard encerra era do pulmão de aço nos EUA; veja as imagens&nbsp;&nbsp;ncnews.com.brMartha Lillard: décadas de vida presa a uma máquina&nbsp;",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdmZIazRqQ3AtQk5sbmJZT0hLdlQ0Wmd2QVJfSHZzcW5ISkc1TmpCSzBDM0FiWXNXUTdVaDZPLUVKWDFTWm5SclBNUWFFM2MtMHdROXhsRU0xcVBRT3ltZjNGVmpvSVp3ZzdrcnBteGxzT0dvSXRhOV83Zm1mczhVWDU4UjF2RTVqNDBfRlFZaXp0bldYRHhnOHRJeW0wUS1BbGxjelFZZw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "ea01b9e00509",
       "title": "Conheça três fontes de proteína indicadas para manter a saúde muscular após os 50 anos - ICL Notícias",
       "published": "2026-07-15T14:04:44+00:00",
@@ -146,18 +230,6 @@
         {
           "name": "ICL Notícias",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CLUQ2NDRyRjhjWXMtZ3ViRnNYcHVsZnh1dDNXbkdlWDAzQWotRmZlTk4zSXNTcGs4VGtZWU1MZWdMOXhYV0ZtM0lEWVNIZ3F2RG1jdmRyTjNNVENOVVZuODJJdk9DTEVVeW9tMjc0WVhMelk1UjA5dHN0NXR2aGs?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4f0223e260b1",
-      "title": "Alzheimer: caso de idosa que melhorou após dose experimental de psilocibina é estudado pela ciência - Só Notícia Boa",
-      "published": "2026-07-15T13:41:00+00:00",
-      "summary": "Alzheimer: caso de idosa que melhorou após dose experimental de psilocibina é estudado pela ciência&nbsp;&nbsp;Só Notícia Boa",
-      "sources": [
-        {
-          "name": "Só Notícia Boa",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSGRDc0t3SHMtRXpPclBlU2NwblhpM0MzY2ZlaTVzdHRfbUFsOWZuckduemhoNlpzV3JsN1dlUlhILTEzeU9ZY1A4MmNfcTRQX0NGLXBqdFM3MHdNQnR4eTFGZ05jUDU3YjVidHIxLTRXbldoeU1CYnh4M0xqandtWndZTFY0c0xqMFcwU1hzNGgzNGRmX3Zjb1ozd3dRVnVINGJPcFlfY0NHUFFtTTNkYi1tNERyN0QzeExB?oc=5"
         }
       ]
     },
@@ -177,7 +249,7 @@
       "id": "abc2a23d2ba9",
       "title": "13,5 milhões de crianças não receberam nenhuma vacina no 1º ano de vida, diz OMS - UOL Notícias",
       "published": "2026-07-15T12:00:00+00:00",
-      "summary": "13,5 milhões de crianças não receberam nenhuma vacina no 1º ano de vida, diz OMS&nbsp;&nbsp;UOL NotíciasOMS e Unicef destacam avanço do Brasil em vacinação — Ministério da Saúde&nbsp;&nbsp;www.gov.brAmérica Latina recupera níveis de vacinação infantil anteriores à covid, mas cobertura contra sarampo ainda preocupa, diz Opas&nbsp;&nbsp;O GLOBOOMS: cobertura vacinal global melhora pouco em 2025 e continua abaixo dos níveis pré-pandemia&nbsp;&nbsp;Folha PEBrasil reduz número de crianças sem vacina,",
+      "summary": "13,5 milhões de crianças não receberam nenhuma vacina no 1º ano de vida, diz OMS&nbsp;&nbsp;UOL NotíciasBrasil retoma avanço na vacinação infantil e é destaque mundial&nbsp;&nbsp;Partido dos TrabalhadoresOMS e Unicef destacam avanço do Brasil em vacinação — Ministério da Saúde&nbsp;&nbsp;www.gov.brAmérica Latina recupera níveis de vacinação infantil anteriores à covid, mas cobertura contra sarampo ainda preocupa, diz Opas&nbsp;&nbsp;O GLOBOBrasil reduz número de crianças sem vacina, mas mundo ai",
       "sources": [
         {
           "name": "UOL Notícias",
@@ -206,18 +278,6 @@
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQX2FWejIzWFZvYTZTdC1xMkRNelhuYWVNRjVYLTNvc2t1N2dUMy1ma2VRN0JIWHlCUjkydm1LT1lIRXdWNy1lQnpSOC1kLXJTU290Sl9ENkxkN1g0QkNxQVhyNThRQlQtTWZOQTBmX29URTEwNWFORW81YlM5bFN4VjQwOEYzX2ZKbGRDRGZsM3JVUUF3QXotUnJBU1RtaDZrQmtZeTU0VFB4N1ZueDhqOUl1dFBIU2t1b1UwMG9uZ00zNnVFaG43VTF2SzFtSUdyV05iMkNzMFZzeFg3WkZxRlUycU3SAfMBQVVfeXFMTkJBN3VoSjNscm9fOXlkcmVrWG9Ga09mejJXc2JTbW5SLV94LXozSjd3YnI2VVdLTTlkQnEta18xZWktQldHNm1kTnZId0dLYVNPUmVmMlNlVUFfNUhCT21ucTY2blRBa1lzTEotWjExN0pQTnFDLVo2ZkxDSnFEcEtvMmtscmJVcERUR1Q4cVgxMkh6RnpHdXVJeVNKc185djVuZTYwbFQ5NzBaVnVDUEtrSURPQU5RaFRSSF9sWnRmYWc1OEZuTkpEQ2RXZ09HdEJheHZ4bnlSQjNnNUZmbHl1N2dZQzl2dEVsYlp0ZENoYnlV?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d5046bd32e79",
-      "title": "Quais médicos os homens devem procurar em cada fase da vida? - Folha de S.Paulo",
-      "published": "2026-07-15T07:00:00+00:00",
-      "summary": "Quais médicos os homens devem procurar em cada fase da vida?&nbsp;&nbsp;Folha de S.PauloDia do Homem traz debate sobre crise de masculinidade e boom de cursos 'para machos'&nbsp;&nbsp;Folha de S.PauloSAÚDE MASCULINA: No Dia do Homem, Unimed reforça prevenção&nbsp;&nbsp;G1Dia do Homem: exemplos polêmicos do gênero repletos de machismo&nbsp;&nbsp;VEJA15 de julho: por que data celebra o Dia dos Homens? Entenda&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWm1qZU0yVzhOWkozS1pvWmNVZEVVSGRqTExOQ3ZyNVJ0akREUWpvN0o1Zm9oYzM0NlFWcHpOUU5KSUxWQ0N0NFlUcVMtMzhuTFhFY3V1Q3FNSXBURmU2LWdPNVp0c2FYM3pwRThsQ0dDSFEzNXV3VXF5andvSVNQZDFpcVhaaUJfWlBIeUUzblR3WUxOR3ZpTU9FOTI4SlJSdFNOcXpuRGlWWEZyWXNTTl83bFVUMDUwRWNJeQ?oc=5"
         }
       ]
     },
@@ -258,18 +318,6 @@
       ]
     },
     {
-      "id": "c1a1fd369027",
-      "title": "GCN: Instituição de Franca participa de grupo histórico de estudos - sampi.net.br",
-      "published": "2026-07-15T01:09:15+00:00",
-      "summary": "GCN: Instituição de Franca participa de grupo histórico de estudos&nbsp;&nbsp;sampi.net.br",
-      "sources": [
-        {
-          "name": "sampi.net.br",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZk9QMEItRnFjNy1zVDljM2ZNMDhfbl9ZMnVocklRbE5PTHg2NVdXNEVtSmh5UEYyS3VJWVl0dWlkTUFmZVpXUkxyUjF5NGRMTGxFYnlpWE9BbjRtTGR5dEltX0RrVXZkTHNMVm40SjBRTktSeWhrY1NCTkNTRUVZUFQxLTFaMURvY1NZRTBZUURtNTFzVWpGNndpM2duZG5MVHVMdnluMzdsVmItdnYyVFduTVp2eXcyUXk2TmEzMGk1WVVsbm5rbUNB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "34d15a6cfc3b",
       "title": "Remédio para Alzheimer chega ao mercado com custo a partir de R$ 12 mil - CNN Brasil",
       "published": "2026-07-15T00:22:29+00:00",
@@ -290,66 +338,6 @@
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPekN1Q0ZNNzFtNjNGdUR6cUF2X1RpLU5CNDM0ZTQxVVo2eFV1SEZWSHA0MkhLT2JhUGp1VFJ4WnV2SDRNeE5sUVVsSXdkVHhINERCeXVoMFRFVjVTaEVrTmdXSHRjakJuZFJNTlZoaWM5cEMxZDB2SVdRNVNUYzFHREZtOXlnckFnVW9uZUZjcGwtMHVqeU5zQlJyTVJ5SmhlZVJ0VEhpUlpmeGR3ZHdPVzFqbGJhcC11MTZPSTRlM2NGVzFCVXdvbV9VSFA1dmNWeHFsNzh2UTN0Vk5fVElzZ2NWQ0l6eloweEVlT3ZLSzVSRW4xR0tsc3VtSVfSAYsCQVVfeXFMUF9vSnJoOXNJWHpxZjdPWE5BZ1VBX0J4cnVFWGc0bzBNSWRzV0laQ19NZ3JSUERHbXpMQ09qb20wQXBoYzZYOUdaam41ZWFxTEh5YXd3bk9wTlk2Yjh5WmNBUDIySkl0WllBblp1THBtald0WWxweHdkYTZEZE4zMnpVMHpNNld1SlJEa0VKR21QcFlSSFJMUS16eEZEc1dHSWhvTXNpbEJ4aEJsYTdmNTZNaDdQUmRabnloN2s0ZVJ4TU1NdVlmamhSdDhQQWJ1YlV3XzNONE95YUc5YWJPQXZ5RzZmWFZnLVBCWW85eW1BcnRKVjl6Y2U0TkRVU3otTmItdHcxMkp4R0s0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e624e6485c68",
-      "title": "Cresce o número de internações por asma no Brasil; veja como evitar crises no inverno - Portal Drauzio Varella",
-      "published": "2026-07-14T18:02:51+00:00",
-      "summary": "Cresce o número de internações por asma no Brasil; veja como evitar crises no inverno&nbsp;&nbsp;Portal Drauzio VarellaGatilhos no inverno podem complicar pessoas com asma&nbsp;&nbsp;Folha de LondrinaPneumologista explica sobre crises de asma no inverno&nbsp;&nbsp;G1Atendimentos por asma no SUS sobem 23% e preocupam no inverno&nbsp;&nbsp;band.com.brInverno: como evitar os perigos invisíveis da casa fechada&nbsp;&nbsp;Correio do Povo",
-      "sources": [
-        {
-          "name": "Portal Drauzio Varella",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdUVlZEdsd1RuVVNFa0JweU9wRlRmR3hyNVRCdTdtZmZCTUFqS2pDU3lXb0c0STFyam1ucVVST25XSUZDMFNxTHNaNnZNelY4QjIzMk1QZEU4V2xFVzdxVzE0eU15aGNjU3BVZTlFZmM4T3FoamgxQTFfcmVTQzdiUEVzQkVyRWRLekoyV0tXdHl6R1ZoUDg1VzdfSml4Q2V1NGl6ZTJkRFRrWXlod1I0TWh1VEFMT1dxbkpyV2VwVDA3V0NMUVp6dGdhRDhJZ0l5YUxETXNvU3Q?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0ee02d5901a8",
-      "title": "\"Investir em pesquisa científica é investir em vidas\", afirma jovem tetraplégica que recebeu polilaminina - Brasil Escola",
-      "published": "2026-07-14T17:41:00+00:00",
-      "summary": "\"Investir em pesquisa científica é investir em vidas\", afirma jovem tetraplégica que recebeu polilaminina&nbsp;&nbsp;Brasil Escola",
-      "sources": [
-        {
-          "name": "Brasil Escola",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWkJVWGIzMVp3d0VUbHViaDAyalE5Xy1KNURzeVFPUlVRT0NUWW9vN1lNRmtEZ1R1bk9PN09LWjVreUFGUUdRaWVLMWNoTFJ2YVIyUmN4ajg3YjlfMV91TjU3RHB5cTJoZy1Cd2M0RWZ1MlBmM2hmWW1EYl9kVHFqVmhRR1hyME1yTzFiMXZ1VkVDTEFFd2x3Sl9BMzFOeVloOTdLZnFzUzRweEtCRlppYmVlcVFEenBQ0gG-AUFVX3lxTE93Y2JNY0RabWFqN0pBVkFfWHhFdlNVeExjczZ4aFc5V294R3BxWEdMQXpCakFJY2xsRHdrREtvVUsyc2hDcnh4TXBudDNpbkNMQ09mWk9HcV84QVNTeGd0OXFKWHE4Z3NSOW1LOXZleWpJT0llUG5xNFpEMl9YbGQ0NmJQSk5EUU5kLUtRZzVqc1RyUGlpMk5wdTZVMG1hdEZEb29JOEIzVWpTZ2RLOHNQT29aaXJtaExYandfYkE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e24a8004f8a2",
-      "title": "Conselho Federal de Medicina libera novos tratamentos para câncer de próstata - Jornal da USP",
-      "published": "2026-07-14T16:39:00+00:00",
-      "summary": "Conselho Federal de Medicina libera novos tratamentos para câncer de próstata&nbsp;&nbsp;Jornal da USPANVISA APROVA NOVO TRATAMENTO PARA CÂNCER DE PRÓSTATA AVANÇADO&nbsp;&nbsp;- Bahia EconomicaCâncer de próstata: Anvisa aprova opção de tratamento que reduz risco de progressão ou morte em 46%&nbsp;&nbsp;Jornal O SulAnvisa aprova nova estratégia de tratamento contra o câncer de próstata que pode reduzir em 46% o risco de progressão da doença&nbsp;&nbsp;Berlinda News",
-      "sources": [
-        {
-          "name": "Jornal da USP",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOazhNN1BfYThYUmFFZmVWRk11RzVrMmhZd0lscThvUzJodXdaT2dpZ04zMlZnZlFHNGtEa1BjdVpCVjRyOE1qSHZlZlNUM04weEgtX1llQVFXdnZER1dhSjZjSEJnV2o4RDA1bXlfSVMxMkgxa1VYWEprSmZBOURxVXBhUC15QTdoeVdrT1IxTnEzX3BrSjAzeHhxN0J4Q280ejZhTmtRYlBoM1lzS3NJOUlR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "83815e50b1a4",
-      "title": "Exercícios físicos ao longo da vida reduzem o risco de depressão na velhice - Jornal da USP",
-      "published": "2026-07-14T15:01:00+00:00",
-      "summary": "Exercícios físicos ao longo da vida reduzem o risco de depressão na velhice&nbsp;&nbsp;Jornal da USP",
-      "sources": [
-        {
-          "name": "Jornal da USP",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZVdtN1VRa0Nmazlqb1hKTmtKYUMyMXBuS2dhOWYydTJXc1Zkd2o4VXFYUmhMOXJWNllaajBYM01HMWh3LWxGTm9JWW9fRkhiZUVuVEhlcXd3bkRjX2hOY0wweVBTLWVFV3ZacmRUbnIwYjFJMXpSOER2WVdaOTNpOU9hYk9OS2tlaFlJTkl2aERoS2xnOGdhTHBhaGlWNkp6UTNJSG84NlBxWEtP?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "075afa645a7e",
-      "title": "Vacinação de gestantes no SUS reduz pela metade os casos graves de bronquiolite em bebês menores de 6 meses - www.gov.br",
-      "published": "2026-07-14T14:38:00+00:00",
-      "summary": "Vacinação de gestantes no SUS reduz pela metade os casos graves de bronquiolite em bebês menores de 6 meses&nbsp;&nbsp;www.gov.brEspecialista destaca importância do imunizante para gestantes e bebês&nbsp;&nbsp;G1Vacinação reduz em 52,5% casos graves de bronquiolite em bebês&nbsp;&nbsp;Correio BrazilienseVacinar é proteger vidas&nbsp;&nbsp;Folha de LondrinaParaná registra queda de 81,1% nos casos de SRAG por VSR em bebês&nbsp;&nbsp;Associação das Emissoras de Radiodifusão do Paraná",
-      "sources": [
-        {
-          "name": "www.gov.br",
-          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOaUF4dGVvWGtXMzE4V3c2eXpuZlN4ZXRyVi1acXZLYjdBNmNUZ1o4aTQyWHhjTHRjekdUN29MTzZZTkR4TGhoM29BdHV0cHZLSDdwV0VEeTN6c1MyeHJSa05zRkhMbzEzZ2dTYW8wYlpCSm8tVUs0bFJWRnJKejlNdEZYUHhtcjBNaXJOdF9TbFZyWDBkYktsRkRZek9GdWJQU0NWa2pUaE9qUWlwLUZfeS1OdHE2OTNaWFJVVnFnYm5wdlp5enl5aVRYV3JaY1lSYTR6UmRlRnZGaTk5NUVvUVR2UUltcXBpcnh3UndlcGJDQWd2ZEFyN25vQ0FJVTg?oc=5"
         }
       ]
     }
