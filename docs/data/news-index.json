@@ -1,11 +1,119 @@
 {
-  "generated": "2026-07-17T08:12:07.562821+00:00",
-  "count": 27,
+  "generated": "2026-07-17T13:41:45.583940+00:00",
+  "count": 29,
   "news": [
+    {
+      "id": "6df365e7b302",
+      "title": "Olho seco piora no inverno e esses hábitos podem ajudar",
+      "published": "2026-07-17T12:16:18+00:00",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZnRXcmRnVkdIM04tRGI2em1raU1qQk9QczFCdXVTYXM0YXR4UDJ1SlpQNl9BU1UyY1RlV1JGNnl5TktRWkJpWFA3YnBqM0xobkVCX2U1VFEzcjJlRWs1NWF0WFA3WnQ0SjRLeFZRRzZCcDRYUWgtaE5ELWdRTDVpXzRkbnRGcWpOc1FFbUpmVGVtLUgyaWQwVnhMRS15ZzVwNlhBcTVCeVBibGhlZ1NkMThiWDNoVGM4Ml9F?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "diazepam",
+          "keyword": "UNI",
+          "name": "Diazepam",
+          "url": "/drugs/diazepam/"
+        },
+        {
+          "type": "drug",
+          "slug": "zinc",
+          "keyword": "UNI",
+          "name": "ZINC",
+          "url": "/drugs/zinc/"
+        },
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
+      "id": "d270d060899f",
+      "title": "Psiquiatras que lideram nova entidade médica indicam cetamina para fins sem respaldo científico",
+      "published": "2026-07-17T08:30:00+00:00",
+      "sources": [
+        {
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZWhaQTVLdW9UOVNjVHhwY3p0MENpSmdvTXNRTFF4ajMzLWJibWw3U2ZVc010cXdYMkRMdHBjQnl5d1Y0SS05alpocEg2RkFtWjdJblhiMFdTLUVPQUxzTmY3ZWNDZ3ZXb3lBXzRWdDl0dnc2MTlycnNrSTYwOUNKUXdObFRwM0hwT1RMcWs5dVB4T1c5dXRFdFh6anN5VS1UZXBjbG5lcTZBYkYwVFZwTHp2aGlCVjBPdmtCdTVpbWdadVdJcEFoUlhR?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "levetiracetam",
+          "keyword": "TAM",
+          "name": "LEVETIRACETAM",
+          "url": "/drugs/levetiracetam/"
+        }
+      ]
+    },
+    {
+      "id": "89568dff55de",
+      "title": "O colesterol de origem genética que a estatina não baixa (e que pode triplicar o risco de infarto)",
+      "published": "2026-07-17T08:01:16+00:00",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcXRBTzM3NmJWUjA1N1pOWnUzVUlpd1pfWUJRb0ZkNDd0THF0MExoVU1lOWdabTRoVnpYQUFEVWtqbGlveVUxUkhqamFCZmdKT19HcjkzQ0V6LXpvME5sOVVtS2RKa2dTeUVuN1RMSlFiUzNDcnJ5eFZtLWt5T3duWThDenpreDRHX3d0d2p6TFdlcllaQzU2UkhWQlFGeG4ySncwZUpEZldKNnozWF9BLTFWd3lmX20wN0xxRzF0aV9tUGQyeEdiaS0weEJrR1BDRllvdVZHQ05TMkZ4ZkhNU2hn0gHwAUFVX3lxTFB0Yko0WWpfNXZaT1dDQVNQMzFtVWVuM3dWSmRjeDhLcjVhZ0JFQzlxRTRzNXVGV0Z1TUNKeERMRTdybnlJdjRtZ0V0bnNBdDFyUGM5d3NaOUhuWTdtXzNyZHZpNzNIYXowUFItWnV3dEFOTWJYcURGT2lRaHJpR3p6THlPWnNfZ2oxWWFseHRVdWtibTI4RUZWSldiOFpBdERfcmhCTjZIbEtlQkgtYV9sZWlrWGVWdnBEN2tRbGZuUnhtdXJWRVpselVFbjlrY3Y2RlRXQ0c0NGtuOXdtakxiSFlKaXkwY2xpcUZkVURibg?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "praziquantel",
+          "keyword": "FAR",
+          "name": "Praziquantel",
+          "url": "/drugs/praziquantel/"
+        },
+        {
+          "type": "drug",
+          "slug": "zidovudina",
+          "keyword": "FAR",
+          "name": "ZIDOVUDINA",
+          "url": "/drugs/zidovudina/"
+        }
+      ]
+    },
+    {
+      "id": "b6b494dc9134",
+      "title": "Canetas emagrecedoras: quase metade dos usuários não revela ao parceiro que faz o tratamento; veja os motivos - O GLOBO",
+      "published": "2026-07-17T07:30:15+00:00",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZUVveDk0aTh1STQzTEtVbVc1X1VPNUVJRXk5dnpJbFYzRDVIRjB2QzR1T3hhWHZ5cVphUGJHckZkekJKdjRyYndrQnBhTUtBd1Bld1MwS0JyZFdTY1F2OEJOR2NHcDJEMml2VjUtOGJ2b2ZwM2xFTXhnQ3lRNnFPLVFsWG5LbmhlVG9feEsxM2dfTnlRZjkzOVp5UFlXaWFmUjZHQ0hhWW9NNUhhbmtfalRLeEtJMHN2eHF6REV6WXpvdks2enBJNUVTVlcxREZkVS1JU0g1UUVyRlk1Wl9yU0FoVlhYOUlSeTN1T0hldU9ENUctTmfSAYQCQVVfeXFMTnhJM1Z2M0VOV242Nl82NUVicXNHVEFvcUVRWWk1cll0MHRaVUowa3ZJcF8ySGdLVzlYMjJYZzZWZ1dxU0Jvd2RsTTFuVUdwNkhFN05MV18zM01lRjItSlFidVhybENlZlpoOEduTUNlYTRDSlhpMGg4dENOZU1rQ0FRRS12cWdZR1RiTlhPc05VdjhSbFJ6M2tnWW9HVXB4alJsMnkzY3p2TmdBcldIbVJlNzhETWdHUUVrTzg3RWljTzFhY3lQV3lNUDFGdk9aZ3p3RUZMSDRDaTRPWXNkYjRBd2RBUUVUTDFoaWFEN2l1dWNnWW1US05aQl83RU43NkVQdEc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "levetiracetam",
+          "keyword": "TAM",
+          "name": "LEVETIRACETAM",
+          "url": "/drugs/levetiracetam/"
+        },
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
     {
       "id": "0ee1efc432db",
       "title": "'Jornada de vida': evento de VivaBem traz caminhos para tratar obesidade",
-      "published": "2026-07-16T22:53:34+00:00",
+      "published": "2026-07-17T02:53:34+00:00",
       "sources": [
         {
           "name": "UOL",
@@ -19,6 +127,33 @@
           "keyword": "TAM",
           "name": "LEVETIRACETAM",
           "url": "/drugs/levetiracetam/"
+        }
+      ]
+    },
+    {
+      "id": "735a84a0ef48",
+      "title": "Levantamento inédito mapeia o avanço dos periódicos predatórios no Brasil - São Carlos Agora",
+      "published": "2026-07-17T02:30:00+00:00",
+      "sources": [
+        {
+          "name": "São Carlos Agora",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQei1xMnI4WUNGQVZVRFQ0c2h6SkxMcHJBMTZHS0F6VzR0QzA3REhkMm1KUW9XMHh3amdoamptV01JWWlnYllCeWRuVExlcXlQbkZWbFpQNTRyTUphNmxZdTZOTGZ3RXBHLVBBTXVlcEJ2aDFyWExsWWpfTVNkNkZaT1NHMWNMQURkQTBMdS1sY0tUY3AyeHR0WHE4d29yVjFZajc3RllzQkNRUG1TblNoMkRtS2VNQdIBuwFBVV95cUxOWUphZXU4S25DVUhQWDhFRTBCWktQOVhqODB6aDNDd0QzdzVuTlljSmpzaGVrS0dhNGVqbWd4V0ZBSm51ak5CVEpyU09WLWxxMGNhN0xYNWEtazBKdlB0ZXBPS0pHM0hOby1yc09pSHNVUU8xcWlGaUFLclFFQnhFTUlyZXNfOTFCaFZTeHB1RTdTMWJmQmM1TEtPUzVyY0hVdHRhZXEzanpiZlFDOC1xU25URlBsdHB4em1v?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "levetiracetam",
+          "keyword": "TAM",
+          "name": "LEVETIRACETAM",
+          "url": "/drugs/levetiracetam/"
+        },
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
         }
       ]
     },
@@ -178,13 +313,33 @@
       ]
     },
     {
-      "id": "16d9b16e1d13",
+      "id": "62934d35faaa",
+      "title": "Missão de sobrevoo de Plutão desperta após 6 bilhões de milhas da Terra - CNN Brasil",
+      "published": "2026-07-16T19:42:02+00:00",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNmttakp6bGUwdWVFVWZXbW9NR1hoSmpXaXNwMjdLYXUwZUUwVGMzTTR3UF9XZWdMVktOd0FBdVJuSGt5ZEJtejl5RXhxNFJ6XzlKb3ByZDVQclU4X1VNcXFxbGR2cGNGM2lTQnNGcTRzLURDcFNMbVFtZ0lUQVQ0c0xHaVlpck1TZW9kMEVDeW0xT3RvSlpDeTZCb205THhObDBNZ2FzZzdyaWIzNEE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
+      "id": "0a6df176a92b",
       "title": "Aluno do Sistema Colégio Militar desenvolve pesquisas para o enfrentamento de bactérias resistentes e indutoras de câncer colorretal - Exército Brasileiro",
       "published": "2026-07-16T19:18:00+00:00",
       "sources": [
         {
           "name": "Exército Brasileiro",
-          "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQWnI5UXVFTGhJV19pdFJxQ1FEd2NRYklhcFJpWmc4eEZCTndpbWJxOVhXbHRkUF9neUFRYWlnSFBCdmd3NWtQNWFqUzB6a1QxZDJGVUw3Ynh6UEFPQ1JJdjZmTWlvT3ZJQTYzSG1NUFdVem5MUDdDZjhtcDA2ZWg3bFFmQWVib2FSUUZXTVBSbnRKTDJ3bjh2UE4xV0QyVU1tZW5Hc19ycXBYYzV3SlZnYVlvbTkzNXBBR1p3bmUtZXRHQTRkWmpWdTJoOEpJaHBYTHVsSVliVWdDT3ZmSkd0azhUdmJPS0I1T2R3c1FLbkxFNkkxQjRlM1UwRXZCSVRXR1pINThpZHBHdVF1YWdZY0kwdXc5Y1lhXzVZV0NtV3NsYjhVRHZITk5xdDVPNnVlbElLU2RJc0k?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNYWVWZ0gtdHRJa3ZoQ25XeHVfUXlrbWZIamlBM1VNTi1WeGt0cWNfLWRjM0w5N05OcjVWZDRmeFNidl8zZUhGc1NPTUtoMTRKaEt2Si1QelNJdWtISVgyR0RpcGVaWjQ5ZHBHdTdaVHRYTnhIdTF6ai03V1RHN1pBNFEtMGI5ZXIxVkJWUXVfOGZDRzVNUEhrd3VzenNkZVltR0JYcldfQ25SdmIzMUtaSVBCU1FtSUNrSTJQaGNWTXRqMXlQT3BkLU1JVWRnSUw0b29MZlQyWHBNaVBVZ2dvSm8wRzhsdDg?oc=5"
         }
       ],
       "keywords": [
@@ -584,6 +739,26 @@
       ]
     },
     {
+      "id": "5a191fea42d0",
+      "title": "Conheça 5 cientistas brasileiros que trabalham na Nasa",
+      "published": "2026-07-16T19:00:00+00:00",
+      "sources": [
+        {
+          "name": "Superinteressante",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNXB3dW1rQTFIYnRmSjJ0SnpDLVAwRDBfRkptNDUtdENkYXh6VGc0cW1QcXdIS20yNTNfUGpqb215cW0tcDc5ZkJtRjUwNVBnYWh2WmFiRk5LMHFzQ3pCNTVrdUJXcFpDdlNWVHI3Qk83UkhWdmdGVlo1X1VUVTVhZkVOVWdtWi0ybFliRzg2WmhIem9Z?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
       "id": "097357b101d6",
       "title": "Pesquisadores da UEL são contemplados com 43 Bolsas de Produtividade - O Perobal",
       "published": "2026-07-16T17:40:00+00:00",
@@ -604,53 +779,6 @@
       ]
     },
     {
-      "id": "1dd03b81ec04",
-      "title": "Amigo da família de Jacinto Lay diz que foi decretada a morte cerebral do médico - Portal AZ",
-      "published": "2026-07-16T16:35:07+00:00",
-      "sources": [
-        {
-          "name": "Portal AZ",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTkpwMWc1LVBWVTFoZ0RnZkhmZmd1Uzh5UFlPRmtMOS0xWTROLXBoaVdoclhFT01ZOE1JSHJkVFppVnBIM0pGWlBSTjBVMmdnbW0yeW1FR2xOLUVQNFlzbUhpQTVmbElTU1FTdXdDZE1NYXhncEUxVXlEVWdud1kzRjlBcllYTFFZMWRhei04N0szU2dzNW1lRUFkUDJrOHdxU0VJQzNwZHpDT1dfOFpJNlZpTVk5TWZocTNmNXFRSGxiRk9uZzZhV9IBzgFBVV95cUxPY2Z4QUZPU2Qwc1h3MG1RUE0yWVNWNUlPX2FfTDBvTG4yellCVTBTelQyUEdUMTVha0ZXajQ1TDh2bFAzOEtHMjhKeFM2bGlqaVY3TlFyc3NEYUZLcEluc0IwMnJfVmJZa2EtOFpMMkNsNEstWjNJVU5VOWdtdWNfMUJLZXd4anQ3bHVNOGg2RExfd1R5M2FOdFFKeDgwVk9PcldaYWdXUXJscWVWLXNQdFhKbVR4MENyMUFlRVFzdk1JT1dfX0dnLXNrcWp1Zw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "tadalafil",
-          "keyword": "TADA",
-          "name": "TADALAFIL",
-          "url": "/drugs/tadalafil/"
-        }
-      ]
-    },
-    {
-      "id": "28948cdce2e8",
-      "title": "Morre Elza Berquó, referência da demografia - Jornal da Unicamp",
-      "published": "2026-07-16T15:22:45+00:00",
-      "sources": [
-        {
-          "name": "Jornal da Unicamp",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWjJydURYMWcwTXhnR3UybjFiU0dPbnhpUmUyYzFDVDlkclVTaDVFOVlCaXJZckQwa1lNYmJ5U1RGUUloYnZqd2psYWVlY0lKRERqYnhSNmxMTEt2VkJoOWs5M3VHc1ladURFc1I2R3Q1Mk9OTFpldGZLdndKS0MyNnRIUFNpY3d5ZkRSYWpTUE9Nb1E?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "diazepam",
-          "keyword": "UNI",
-          "name": "Diazepam",
-          "url": "/drugs/diazepam/"
-        },
-        {
-          "type": "drug",
-          "slug": "zinc",
-          "keyword": "UNI",
-          "name": "ZINC",
-          "url": "/drugs/zinc/"
-        }
-      ]
-    },
-    {
       "id": "b416704d8d0c",
       "title": "Dormir muitas horas está relacionado a níveis mais altos de uma proteína associada ao Alzheimer, diz estudo - O GLOBO",
       "published": "2026-07-16T15:17:24+00:00",
@@ -663,17 +791,10 @@
       "keywords": [
         {
           "type": "drug",
-          "slug": "golimumabe",
-          "keyword": "BIO",
-          "name": "GOLIMUMABE",
-          "url": "/drugs/golimumabe/"
-        },
-        {
-          "type": "drug",
-          "slug": "etanercepte",
-          "keyword": "BIO",
-          "name": "ETANERCEPTE",
-          "url": "/drugs/etanercepte/"
+          "slug": "levetiracetam",
+          "keyword": "TAM",
+          "name": "LEVETIRACETAM",
+          "url": "/drugs/levetiracetam/"
         },
         {
           "type": "drug",
@@ -722,6 +843,13 @@
         }
       ],
       "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        },
         {
           "type": "drug",
           "slug": "tadalafil",
@@ -934,26 +1062,6 @@
       ]
     },
     {
-      "id": "1b81ebf38bd7",
-      "title": "Tailândia: o ‘Vale do Silício’ da Cannabis | Cannabis & Cia",
-      "published": "2026-07-15T22:19:47+00:00",
-      "sources": [
-        {
-          "name": "VEJA",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSGE4Yzc1TXBkZ2JYNV95TlNvN0NCd3BoZEFSUm5PcmNJZjlUMmhjSW5CZ19OOE5YaGYtVjZnZ0JROGE2d0xtbWd2MGxzM1FybjJvb19XeXlaSHAzbVZPM1E4Y0F4X0pSUzJOMUNZWUpLRmtGdHEwdjZ0cnV6MTU4UWFzQ2hpdDBOMWs2R2h0eHFOZw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
       "id": "708fef8d764e",
       "title": "Descubra três fatores de alerta que aumentam risco de doença renal crônica silenciosa - Rádio Itatiaia",
       "published": "2026-07-15T18:49:12+00:00",
@@ -1060,71 +1168,17 @@
       "keywords": [
         {
           "type": "drug",
-          "slug": "tadalafil",
-          "keyword": "CIALIS",
-          "name": "TADALAFIL",
-          "url": "/drugs/tadalafil/"
-        }
-      ]
-    },
-    {
-      "id": "abc2a23d2ba9",
-      "title": "13,5 milhões de crianças não receberam nenhuma vacina no 1º ano de vida, diz OMS - UOL Notícias",
-      "published": "2026-07-15T12:00:00+00:00",
-      "sources": [
-        {
-          "name": "UOL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQVZ0UlVCdHpuVUdnM1pOWUg3MGlXNEpVQmNMMFVuY0lTQ1ZqV3VGdVJFUmtjNjltTEstaFNWYldFVzN5TWp5NlpGN0JMeFdweVNjVk9XckhPWE52OWduM2FmWDRYQWVGVUF6V0djaGVjaGRjem9BcXVQTFVTdUVQZ1QwbWFTbmdOUWxNU2lMbHVobW5lcWF1UFNoUi1KOEZZMWd1bHNEWEpvSkRwUVNHajNlWWtRbWtSbm0wNWNES1Z6UWx5TFpQejYxdE92dTB0ek03ejJoSGlHTmhRX2c?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "diazepam",
-          "keyword": "UNI",
-          "name": "Diazepam",
-          "url": "/drugs/diazepam/"
-        },
-        {
-          "type": "drug",
-          "slug": "zinc",
-          "keyword": "UNI",
-          "name": "ZINC",
-          "url": "/drugs/zinc/"
-        },
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        },
-        {
-          "type": "drug",
-          "slug": "etodolaco",
-          "keyword": "DORE",
-          "name": "ETODOLACO",
-          "url": "/drugs/etodolaco/"
-        }
-      ]
-    },
-    {
-      "id": "8eb5412a399d",
-      "title": "Robôs piezoelétricos autoconectam-se em múltiplas formas e são muito rápidos - Site Inovação Tecnológica",
-      "published": "2026-07-15T10:34:01+00:00",
-      "sources": [
-        {
-          "name": "Site Inovação Tecnológica",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSTBuQ1o0WXlOa1pxM1pMUjZ4eTZzLUJtWjE0Z1AzNmJpRGhCVnNfZUFFUnBtN1NIV3piUzhWVWU0QVNnbS0tQmNyYldnYTVrRzY5VVJzcDE1OFZHRFF5Nkx0akJaaTdONWJYR1dFVTFCS045S2hZbHNuc09Dd21GeTFrMDFCZloyLXotanFPYTBJeGRUUUUtaFAzZ2x5ZGFXYWs0SE1R?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
           "slug": "levetiracetam",
           "keyword": "TAM",
           "name": "LEVETIRACETAM",
           "url": "/drugs/levetiracetam/"
+        },
+        {
+          "type": "drug",
+          "slug": "tadalafil",
+          "keyword": "CIALIS",
+          "name": "TADALAFIL",
+          "url": "/drugs/tadalafil/"
         }
       ]
     }
