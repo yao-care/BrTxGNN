@@ -1,10 +1,94 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-07-18T13:19:02.449927+00:00",
-  "total_fetched": 92,
-  "unique_count": 92,
+  "fetched_at": "2026-07-18T19:07:23.175860+00:00",
+  "total_fetched": 91,
+  "unique_count": 90,
   "health_related_count": 39,
   "news": [
+    {
+      "id": "4b9cb951d878",
+      "title": "Pressão levemente alta: o que a ciência diz sobre combinar magnésio e potássio para reduzir a sistólica sem remédio - Tua Saúde",
+      "published": "2026-07-18T17:18:39+00:00",
+      "summary": "Pressão levemente alta: o que a ciência diz sobre combinar magnésio e potássio para reduzir a sistólica sem remédio&nbsp;&nbsp;Tua Saúde",
+      "sources": [
+        {
+          "name": "Tua Saúde",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTEhPZS1nLTloOGxwUEp4TklFdzlCMWZfOEE0Nnd5Si03aW5JY3oxTThNQzlNa0kyemFoRjZna2hwMXJYSjVpakJIdktfX3hPSEtzbkZoeTVpb3ZMX2ExN3h5YjFoY2tUSGNlV3BkYlRTSERkUWhSWUlLdFBuWXRaUUpBczc4MWkwb1h5RHFLUXlvcWtQOWVrdzVKTEZkRkxJME1qQ2hOMXJiVFNweXBvZzBhUmVNWE84MWllV1ZBUDMtQkl3X2NxWktINFc0LWhRbWw1Ukh4OFZKN3g3TWlReEpZVU01dGFBeTZxRA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "410ca3aff927",
+      "title": "Presença de microplásticos no cérebro pode estar relacionada a inflamação neurológica e problemas cognitivos - Tua Saúde",
+      "published": "2026-07-18T14:55:00+00:00",
+      "summary": "Presença de microplásticos no cérebro pode estar relacionada a inflamação neurológica e problemas cognitivos&nbsp;&nbsp;Tua Saúde",
+      "sources": [
+        {
+          "name": "Tua Saúde",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONkxnUDB4MkQtdGc1dzdoR19KdjFzc09IUDk1SkQwNlhYVWVLZ1A3dnVhenRHc1A5eEJ4NHdfR3ltSGNDU2haSmM4eG9FM2hPRjhKUGo0a202OWdGUm0wWXd3WnR5UXZaNncyYzNQLV9tQ0dGcjgyODB5U3hySWhsY09PRVRoVHA5Y0FoeVU4RGh5WWRSSFF4TTVVbmg0a0R0UDBGSGV4My05QldHbFpVU3FhcHU3NzlyRjJNYUxBZ1VxaVZwNF9fem5EakNZSlRzYlBydXZzRFRlVmpEeWhqTEQ2QlE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f17ed7c3680f",
+      "title": "Meteorito encontrado dentro de uma casa se torna uma das amostras mais raras já estudadas após preservar moléculas primitivas, minerais alterados pela água e pistas inéditas sobre a evolução dos primeiros asteroides - Folha BV",
+      "published": "2026-07-18T14:22:00+00:00",
+      "summary": "Meteorito encontrado dentro de uma casa se torna uma das amostras mais raras já estudadas após preservar moléculas primitivas, minerais alterados pela água e pistas inéditas sobre a evolução dos primeiros asteroides&nbsp;&nbsp;Folha BV",
+      "sources": [
+        {
+          "name": "Folha BV",
+          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQaU9Qd0tHdndvZnN0ZE9RMVYxblNqTGtSMTdDRkZuSkYtRjF1Q0pHNGNrTTVPd0NnRkJUS0pKaTh6Y2hpS3ROOVV4Z3VHak5nSGx6ZzgxN2lvYXFWZmlsbEU0dmtHa1ZpbDlsMzhGVVlCQmhOb2ZQcWQtMjNDNUtWYjduLXBHMjJDcFFrd2c1ejBvQkM0cHlraVo4UkYyMmZuNTdaYlpucnpjaEY3bW54cVFGZ1BRbmdZTGhPRUZpQndtTm5sek5UN3BCOV9XazlCaWpLZF9UZEZqeUI2Z25lekg1ZW05MGd6TGNKeWtoOWJ1WDdfeW1FV0ppTTdBbFFUODRKV1pzYzU2dVhhMFpBdUNqT1c4UTVpYjhFUUdja25CVUVjYXpxR2VHbTNxOEdwVlFJbnJYX3c4djZkcXl6b25ickhiamxBTGIwTS0wV0pzdnZQdjdUU3ZSczhkTi12aGQ3OEpQNFZJczYyREsw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bf5b6f13d6a2",
+      "title": "Cientistas descobrem como frear progressão do câncer - Poder360",
+      "published": "2026-07-18T12:39:37+00:00",
+      "summary": "Cientistas descobrem como frear progressão do câncer&nbsp;&nbsp;Poder360",
+      "sources": [
+        {
+          "name": "Poder360",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY2hVSXNIbWF2MVR1VmNwTExXLUg0WTBLV2gydHVaVWhkWFRCcE9OVjJhZVQ3OUI5WHhaRHRfVnhqTVYtaGREaDhXY0VYdWQ4WWwzWHdCTTFENWNQV3EybHgxQWRVZXNMaUtBVEwxYWJWY0EzWVVoZ3FnU19ZU245Zm1ZRXFuajNHWUlVb0NQNUpxcXpXdmt4UTMwMGxkenhsWnd0amttdTUzZnJleG04?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6bef8c8d378f",
+      "title": "Estudo traz novas conclusões sobre rochas de 544 milhões de anos encontradas em Corumbá - Midiamax",
+      "published": "2026-07-18T11:56:00+00:00",
+      "summary": "Estudo traz novas conclusões sobre rochas de 544 milhões de anos encontradas em Corumbá&nbsp;&nbsp;Midiamax",
+      "sources": [
+        {
+          "name": "Midiamax",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVmU1aTN2ZmI4cWtPRjNuMlB3X2RnbnRSUHpYTmJYeEpnQi1yS3FRRVZEWGFBSkhaQmpGUWMtLV9xbm5ENTdvdFZQU2M3dHlRZzU2dmJaWHBGS0hGeUFFZFBHWUtyRUI2dlZZdDUxMHc1VzNVYnJGd0hkY1BSWVRvOE03c3VZd0FNU21KT0FsanJxZld0Mm5UaS00VGF0MkZ3MFhCS0NoV0NpODVlUjJFbDBR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "03926eac7340",
+      "title": "Por que clonar porcos para o transplante de órgãos para seres humanos, e não primatas? - O TEMPO",
+      "published": "2026-07-18T11:02:00+00:00",
+      "summary": "Por que clonar porcos para o transplante de órgãos para seres humanos, e não primatas?&nbsp;&nbsp;O TEMPO",
+      "sources": [
+        {
+          "name": "O TEMPO",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdU90bzRjRzFUV2wyX3AycWRMSHJUbDl2X0FZZC1CekRFbHFtWUxKeC01VHlNN2MtZlBKV2xmXzFRSXpOT25LdHR0b0lWWFFURHhNZ2tZeHZlR3V2dHhBdGxUN1hERUJKdUFmNE5HWU9ZQzBYSEFMZS1QRXF2RVFOR3ZjY0ozMldndXE4Z2wyaE9JcTRGUmFIY2wxOEZNTnczeWNGVWlLUzNEaVRxaHZPSy1EN0xhdUdjb0xZQ0lxT25hYTNSb1HSAcsBQVVfeXFMTmUzQVUyVVJLZnYyOVpneTlvUmp0QTRqMjJJeEszYlZjTkR5U2JPVC1QMDZITTltY29JY1kxR0R3d0dsdFgyMkxzWnMzcEtjRS1WZVU5S3NGcmdxbXFJbFJzTmU0M0syVXN0MXljVmpkN3FQS1JiSDhFdGpja2pXNUlFNXJQSUtGVnpkUnJ5Z1VmS0xISFktM2ZoX1phbkFYbFhiY1lqN2ZScWFJaVctYmJoMmUyNmdnS0hPekVZMHV4MUdQVm5RV1lHYUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fcc4171ceee4",
+      "title": "Cólicas intensas podem ser um alerta; especialistas e Dr. Kalil explicam - CNN Brasil",
+      "published": "2026-07-18T09:00:53+00:00",
+      "summary": "Cólicas intensas podem ser um alerta; especialistas e Dr. Kalil explicam&nbsp;&nbsp;CNN BrasilEndometriose afeta milhões de brasileiras e desafia diagnóstico precoce&nbsp;&nbsp;R7Leandro Gugel esclarece os sinais de endometriose além da cólica&nbsp;&nbsp;band.com.br10% das mulheres tem endometriose, dizem especialistas a Dr. Kalil&nbsp;&nbsp;MSNEndometriose e saúde menstrual: chamada pública financiará pesquisas para desenvolver tratamentos acessíveis pelo SUS; inscrições até 12/08&nbsp;&nbsp;ww",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNenhaU1puTVBKYXRhWmw0ZWxkcGNkWFJUTnhtSnZTS3A1Z2F1Skw0d2J4QTF4aERmcnFPOUpzWWg2V3BFcTRpNHplRTdBRDB0VTFkNFF6bnIwc3gwZnlLNlZQNTg0S1FpYjJmNXVpcFZOVlNFN3JfVm93WkdkT2JsTU1SZkYzeUxQNG1iMGxQc28yT3IzeFgyOU9Da3phUTJibTNXYTVBVjhTQQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "7b975871b9c8",
       "title": "Estudo com camundongos leva a pistas sobre como memórias negativas atrapalham o sono - Folha de S.Paulo",
@@ -18,6 +102,42 @@
       ]
     },
     {
+      "id": "038e69fcc263",
+      "title": "Marília registra dois casos de câncer ligado ao trabalho - Marília Notícia",
+      "published": "2026-07-18T08:59:28+00:00",
+      "summary": "Marília registra dois casos de câncer ligado ao trabalho&nbsp;&nbsp;Marília Notícia",
+      "sources": [
+        {
+          "name": "Marília Notícia",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN1ctX0xhME04ZDRXSTFVOVNrUjJJR0x5UWNRdV9yakhXVFhXbU96aXFxNTFxcERlRThDSGh6R0pfYnp5dFYzY2I3WXlGRXJIandQWno4dXhDUmhYRzN4eTZTc3ptamFXcENJR1l5OUZFUTQ2TUUyeGN0akNNZFNpVU95UlNwdldsSkFPR0dyaWzSAeoCQVVfeXFMT2FfZ0NJbHRpQ1FrRW9oZXMxd2JPbmIzOG04Tm11dThfS24tSzRuMjVhT2t2bTBtajdWT2FkbklFd0JmQjFTRFJ0Sm12OXlWS1RvUm9vOWVycVpSU0ctMmlUMUtuaUtYaDFhVW5idEZ1bGtnZ0NYa1dvVGNDYWtEcXBfUWxXeTlpSl9pa1ROQXFvR0pZeEYydWpqSHFyTHZZMW9iRHRPeF9OMUVGM3pCN2tacjN0aF9ZX3gxdUtaRTdkMlIteVMwOThwYjRUdWJfeUw0dWxjMW1JY3B6UTY4ODlJNjBpbHRVNHBXb3dsZVZPUVMtWjR4UTlsaXBMQU9lTmxlVGJWLUtIRVY3VWhnbDgtV2I1c2xGSEU2dWRYc3NveEdGSUJjN251TnBSRGVtbno0akk1bHEyNXlqME5rY3d3LW1NYVBlU01IQWhKY2ExSWVHSzhIcWQtaUNUT0JEUXltcEZJcHRpblE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9a34cea29d4b",
+      "title": "Brasileiro sabe o que faz mal à saúde, mas rejeita ação do Estado para reduzir riscos - Folha de S.Paulo",
+      "published": "2026-07-18T07:00:00+00:00",
+      "summary": "Brasileiro sabe o que faz mal à saúde, mas rejeita ação do Estado para reduzir riscos&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbm1Jek1pbXpLalBRQ0FJcFV0NDdvZnVkNG9GZ01JVGZXaWtqMHp0c2lfb01ZWUF3Um9Ga21lYnh5alc0U0VRbU4xeTFjeVNIR1JnX0x6eEw1RncwX1otNnA1Z1p0UDFBem1IR19SeWRLSThlQnlWWjFPTHoyeVZ3Z1FSeUF5c0lyQi02TUUxTUFpdVVTREw5OWpkekM2MWx5U3ZXUmt4RFE3TWtmYlowaWZBWGpreThTbWRTZHI3OU9kNHhaVDQ2SXdRYlpraE1LeE5MZjVkeEVaQ01WUlE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "38627f3d4131",
+      "title": "Canetas emagrecedoras podem criar um novo tipo de dieta ioiô - R7",
+      "published": "2026-07-18T05:00:00+00:00",
+      "summary": "Canetas emagrecedoras podem criar um novo tipo de dieta ioiô&nbsp;&nbsp;R7Canetas emagrecedoras podem criar um novo tipo de 'dieta ioiô'&nbsp;&nbsp;Folha de S.PauloReganho de peso após bariátrica desafia pacientes&nbsp;&nbsp;Valor EconômicoParou o Ozempic e engordou tudo de volta? Nutri explica o que acontece&nbsp;&nbsp;MetrópolesMedicamentos para emagrecer podem causar perda de músculo? Entenda os riscos&nbsp;&nbsp;Folha Vitória",
+      "sources": [
+        {
+          "name": "R7",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObWVtOUprb0FJSzhnQVBpaVlZREpWazh6aU1NelYyRkg3SXBZazRFVE9BVlBSajNmZFlVZ0ZFN1BaT2J2ZzUzTzI0YjNXTVpLaGpqcGpiTWxzcWJmdTJHUkk2UWNZSU1nS0o2V0Z5Rkh1M0QxVkZmWUx3UDkwVEVhUXNPOWpObWE1bTlzVmhyN1lxWi1uczY5V1JZaFBqU3FSYmNLSG9seHJxUDlua2drbkpYZGQwRTgyTFE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "fe3965722fdd",
       "title": "Sonhando em ser médica numa época em que mulher só virava enfermeira ou professora, uma americana casou aos 18, criou quatro filhos adotivos e só entrou na faculdade de medicina aos 50 anos, formando-se depois de ouvir de uma escola que a idade - CPG Click Petróleo e Gás",
       "published": "2026-07-18T02:30:00+00:00",
@@ -26,6 +146,18 @@
         {
           "name": "CPG Click Petróleo e Gás",
           "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOTUdIbVlYWW5MZV9ob3pSZ0VPd2REZmpmYVU1dzV2dE5xNlZjRlFKaVpaaUFzdVJoY0FoLWZxN3RaRWlWRC1RY2Q0UGh2UDc4LUJDcTE5SnFDUFVySkhGQThEbkZvUXRDU3NOYUR6cDBQSE1yQ1dBbG9YQkZvM0syV1BXRFVwTVdOUG1PbW9YajYzTnF4TFVVZ3BtWEhhLUZqLTZGZkN0bjNsMGRnb2J5WWRmajE3UjZscmFlUkEwT0R4cjZSeXhnODRwMnYxbXFuTFRtRzNXTFZ2bkVIcFY1di0za2N3TnBOR01YdWNQMk0tNWkwMmJ1WG1GQ0xZdURzMjFCQlZaZ3NCQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e626548ee4b2",
+      "title": "O que são as conexões silenciosas do cérebro - e como elas podem ajudar na velhice - Estadão",
+      "published": "2026-07-17T23:00:00+00:00",
+      "summary": "O que são as conexões silenciosas do cérebro - e como elas podem ajudar na velhice&nbsp;&nbsp;EstadãoRir com amigos fortalece a saúde cerebral de formas que muita gente ainda desconhece, segundo a neurociência&nbsp;&nbsp;Correio BrazilienseVida moderna impõe novos desafios à saúde cerebral&nbsp;&nbsp;jornalosemanario.com.br",
+      "sources": [
+        {
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcVRQamQ0QlpET244Zk5GenI1Q1dHaFFBTE9DMlc5bVF5bWRyY09uSmlkVHFDNTcydFpwZ1ZvcmRpdXZOdE9FX3d2NjMxanpaMHlUbTdCdEV3TDNpTDJtd0lBaTFYNG5lQm16QUFIVkFyeFdyX0JlNWdHbDZwSXpuU183N1BUeklodERFT1BEUHJMNVRFdzZoR0o2bDdDbHJER1hURmFkcHRHb3VKV21ndFExWDA0SmfSAbwBQVVfeXFMTzZ0OTVNNUROUDBaSldjMmhDZDIxdjc4YXdFZTZ0ZUlQWFhIWmkxY0FNdXVHc0xVem5DVkd0bHZKaUJ0bUZ4eEx4ZDh2TzByRXM5MVdsYko1MEwxZTU0Y0FjajVGdHVZczVDck1rcVpwbDZjZUdHUmtMZTdvbnV6dWtKY2dKNGJsWnZrYUtoVlRKRVk0TkZvUDNDTWFpM0RpTXVDQUZxTDVZQXkyQ04yTC1fOFkxdHl4ek1oNHQ?oc=5"
         }
       ]
     },
@@ -126,6 +258,18 @@
       ]
     },
     {
+      "id": "51f58ee91ef9",
+      "title": "Brasil Sem Varizes: mutirão nacional de tratamento ocorre em agosto - CNN Brasil",
+      "published": "2026-07-17T16:51:49+00:00",
+      "summary": "Brasil Sem Varizes: mutirão nacional de tratamento ocorre em agosto&nbsp;&nbsp;CNN BrasilBoletim.leg - Edição das 22h&nbsp;&nbsp;SenadoSemana Nacional da Saúde Vascular vira Lei&nbsp;&nbsp;SenadoLei institui Semana Nacional da Saúde Vascular&nbsp;&nbsp;Hojemais.com.brSaúde vascular será celebrada anualmente em agosto&nbsp;&nbsp;BOM DIA SOROCABA",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX0hZamp5QkVZamRKQjBMRno3dlhLLUp3eXlVdDRWTUlVclo1ZkNjUlNBYVNvMkFFZUZJRGxuSHozSlgwSnRSMHQzdlg0RHFsd0d6bVcteE1jTmtoMHRKa096Z2F0VzZsSVNlNUROei03aGNmRzMwYUh3Q20wSlhmOFVDX0MtVkx0M0VDMTc0cUJaMVFUUVJoWVdIYUJPSHlNc0RqTg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "12e7fb56d726",
       "title": "Jovem faz apelo por ajuda para custear tratamento de doença renal crônica - portaleducadora.com",
       "published": "2026-07-17T16:44:47+00:00",
@@ -201,7 +345,7 @@
       "id": "3dec6b08410c",
       "title": "Novo remédio contra Alzheimer pode reduzir declínio cognitivo em 50% - Metrópoles",
       "published": "2026-07-17T14:40:00+00:00",
-      "summary": "Novo remédio contra Alzheimer pode reduzir declínio cognitivo em 50%&nbsp;&nbsp;MetrópolesAlzheimer: remédio com novo alvo reduz em até 50% o declínio cognitivo em testes iniciais e avança para última fase de estudos&nbsp;&nbsp;O GLOBOFDA aprova lecanemab subcutâneo semanal para Alzheimer&nbsp;&nbsp;Investing.com Brasil - Finanças, Câmbio e InvestimentosMedicamento contra Alzheimer pode retardar sintomas por até 3 anos, aponta novo estudo&nbsp;&nbsp;Jornal Folha do ProgressoRemédio para Alzheime",
+      "summary": "Novo remédio contra Alzheimer pode reduzir declínio cognitivo em 50%&nbsp;&nbsp;MetrópolesAlzheimer: remédio com novo alvo reduz em até 50% o declínio cognitivo em testes iniciais e avança para última fase de estudos&nbsp;&nbsp;O GLOBOMedicamento contra Alzheimer pode retardar sintomas por até 3 anos, aponta novo estudo&nbsp;&nbsp;Jornal Folha do ProgressoRemédio para Alzheimer chega ao mercado com custo a partir de R$ 12 mil&nbsp;&nbsp;CNN BrasilPesquisa revela avanços em terapia experimental c",
       "sources": [
         {
           "name": "Metrópoles",
@@ -258,26 +402,14 @@
       ]
     },
     {
-      "id": "45073178c3fa",
-      "title": "Ele era apenas um mistério de uma foto borrada. Agora é a mais nova espécie de macaco descoberta - Estadão",
-      "published": "2026-07-17T11:20:00+00:00",
-      "summary": "Ele era apenas um mistério de uma foto borrada. Agora é a mais nova espécie de macaco descoberta&nbsp;&nbsp;Estadão",
+      "id": "ea4a3e2eb318",
+      "title": "Mortes de fisiculturistas: o que necropsias revelam sobre os riscos dos anabolizantes - BBC",
+      "published": "2026-07-17T09:02:39+00:00",
+      "summary": "Mortes de fisiculturistas: o que necropsias revelam sobre os riscos dos anabolizantes&nbsp;&nbsp;BBCO que necropsias revelam sobre o risco de morte cardíaca entre fisiculturistas&nbsp;&nbsp;Estado de MinasRiscos do uso de anabolizantes para fins estéticos: endocrinologista explica os efeitos&nbsp;&nbsp;SenadoGoiás pode criar política de prevenção ao uso indiscriminado de anabolizantes e hormônios&nbsp;&nbsp;Tribuna do PlanaltoNecropsias revelam coração aumentado e lesões graves em fisiculturista",
       "sources": [
         {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSkhHM0hpbkxzc21qaGtBRXVLd1FxUGVLWGpDVjZSMnRSVURpUlRNbkRVeUtlNUZ6SXlUZlU0c0FHck5nMTFtem1jVl8ybWtUZ3RDSWpCWGNYdmNPTlZwY2V4d0RBUy13b0Q0aUNiSmNINHAtMkcwNU5NcllidmJtLVBvVWdFZFpnQ3FBclNjUWhMbWJkZDB0aEtjc2NqeW1sVGxLdUNHSmNzaDRIWTZXWjlPNG03NzJBT3hhMzJCREk1VEpHS0oxSVN0VdIB0AFBVV95cUxPX3pxTktXLW41d3VmeE81bU1LdnFyckViN2oyUVljZUtyWlpHdTgtMVVmMUFGSVRleFNQcFdyTDVGLVdrUkQ2ZTFQQXVGYWhJbFBNOFlCM0txMVpuOTkzSEIzTmJtenNKeldDbnVxeXliX1gwNFJqRkp3dXZ6T1ZtaEkxVWtVWWJ4WmZEMnltNnBWLUZnMG9MNmFjZFp5RHJjdXllQ0lzM3JRUWVrXzhqM2NLMklFcXAtTE9uSTJrVnc2VUdtLVNIaDZzR1cyc29y?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7d4a8db7efc4",
-      "title": "EUA aprovam pílula da Merck para reduzir colesterol - Poder360",
-      "published": "2026-07-17T10:20:43+00:00",
-      "summary": "EUA aprovam pílula da Merck para reduzir colesterol&nbsp;&nbsp;Poder360FDA aprova primeiro comprimido da classe de remédios que reduz o colesterol 'ruim' em até 60%&nbsp;&nbsp;G1Guggenheim reitera recomendação da Merck após aprovação do Lipfendra&nbsp;&nbsp;Investing.com Brasil - Finanças, Câmbio e InvestimentosO novo remédio para colesterol já está disponível no SUS?&nbsp;&nbsp;Correio BrazilienseEstados Unidos aprovam nova pílula para reduzir níveis de colesterol&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Poder360",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTGRXSGoyaTltXzRRVHljSno3UWFYbG9VT2NxOFJBTkppdklfUFN1bUVvY1dhTVl5T1pyckZSTF9BV1BsM0hNbzQwT05NeDJidWZoNG9DWVpyMTZtM3B0RHg4bGF5MXIyWWNyd1ZTY3ZoMkp4TkV6Nlc4N1FsUWYyQ095clFaRm1Qb0Y1UHRZVmVjcmpBelln?oc=5"
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5rSjFDcHVDLUF4R2JULWQ2cEV1SXVrNmFSQ2Y0bzF3SGlaQ19jTllRV3hNMlNjRnVoUndwODhiSjlrTmloa2h2by02TWF5bkdkUjRYRzc1UE9zWjNLTnJWS1Zn0gFnQVVfeXFMUDlWVWxjOW5lNmJneUdGNkhIaDJLQUZoeFNoUndtMEswRTNReGowbEgyNVhqYjBGSGQxRHpBNVZYSjNWMnZrRENoSWc2aDF5YTRyX3R0TmV6RHk2ckpfMC1wUjVVUWQ1bw?oc=5"
         }
       ]
     },
@@ -297,7 +429,7 @@
       "id": "593d79a58680",
       "title": "Vapes são tão prejudiciais para prática de exercício físico quanto cigarros convencionais; veja os efeitos na saúde - G1",
       "published": "2026-07-17T07:01:46+00:00",
-      "summary": "Vapes são tão prejudiciais para prática de exercício físico quanto cigarros convencionais; veja os efeitos na saúde&nbsp;&nbsp;G1Pneumologista alerta para sinais de doenças respiratórias, riscos do cigarro eletrônico e importância da higiene do sono&nbsp;&nbsp;rdlider.com.brCigarro eletrônico aumenta risco de doenças pulmonares e preocupa especialistas&nbsp;&nbsp;novafm103.com.brOVALE: Aghda, 24, consumidora de vape, morre após complicação pulmonar&nbsp;&nbsp;sampi.net.brCigarro eletrônico reduz",
+      "summary": "Vapes são tão prejudiciais para prática de exercício físico quanto cigarros convencionais; veja os efeitos na saúde&nbsp;&nbsp;G1",
       "sources": [
         {
           "name": "G1",
@@ -306,62 +438,26 @@
       ]
     },
     {
-      "id": "e138d4278d7f",
+      "id": "49a776789b5d",
       "title": "Paciente de Corumbá recebe transplante de rim após nove anos de hemodiálise - Diário Corumbaense",
       "published": "2026-07-17T01:51:50+00:00",
       "summary": "Paciente de Corumbá recebe transplante de rim após nove anos de hemodiálise&nbsp;&nbsp;Diário Corumbaense",
       "sources": [
         {
           "name": "Diário Corumbaense",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxR1ZIUDV2bkgweVF2bTBuZnVJNW5JOThkWjgtWWZvVEFkdE1GaFlnSXdSQVR2eFRFRjZmemlvaWR6dEdnaC1tU0xSamdBRjFMS0hGVkRKbnc2ZEFBQWZJd3ZtNkY3clJvTWhBag?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1EYV82bVBkWExZdndHV3ByZnJ1RXNDR0pFTkYzSUpSUW9Ma2dmV2Nkc0l6dzB0aG9wY1dQT2F5Mi1YMzJWbTRDdWJMV09wZFBhVVc1bk1SV0VaZWs?oc=5"
         }
       ]
     },
     {
-      "id": "a0b591cab649",
-      "title": "Alerta de temporal provoca cancelamentos em hotéis no primeiro final de semana da Fenadoce - GZH",
-      "published": "2026-07-16T23:06:58+00:00",
-      "summary": "Alerta de temporal provoca cancelamentos em hotéis no primeiro final de semana da Fenadoce&nbsp;&nbsp;GZH",
+      "id": "19ba924b5384",
+      "title": "Embora seja raro, homens também podem ter lipedema; conheça os sintomas - Portal Drauzio Varella",
+      "published": "2026-07-16T22:46:56+00:00",
+      "summary": "Embora seja raro, homens também podem ter lipedema; conheça os sintomas&nbsp;&nbsp;Portal Drauzio Varella",
       "sources": [
         {
-          "name": "GZH",
-          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNM2FTaUlYcGh4WWdkLUNnU1pwRjNCUEtucDV0QzVfejRiVWYyaWEwdzQ1THpkbWx2X3JpNFZIXzNvZnpDZ2ZMZnB3TGxkem9qVjNSRzhWc1FzbDJKMk5KSUpxSzJoMjJWWUFDODB5RnpDOE9qa1dwNkhEdzRHb3hBTzhySUtIUXBIUFo0d2loUVBCTlM3bktqY3VYZ18yMmwzTzJCSTQzM1FybjZLS3YtdEFKZGFKYml5OVQxcHBVT1RGcEZkX1JhYjJMajEtSUxYaVYyM3plNFIwSXR0dHVSNU1Jd3pSRXdmQy1lU282bjJVcHV5N0JNYTJUNUp5Vi15aGQ2dGhBYWlxQzRIWmZBX1RyQmoxdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0ee1efc432db",
-      "title": "'Jornada de vida': evento de VivaBem traz caminhos para tratar obesidade - UOL",
-      "published": "2026-07-16T22:53:34+00:00",
-      "summary": "'Jornada de vida': evento de VivaBem traz caminhos para tratar obesidade&nbsp;&nbsp;UOLObesidade em alta amplia busca por tratamentos&nbsp;&nbsp;Valor EconômicoTratamento com injetáveis exige apoio à saúde mental&nbsp;&nbsp;A CríticaPerda de peso depende da qualidade da dieta&nbsp;&nbsp;Diário TocantinensePor que pessoas com obesidade respondem de forma diferente ao mesmo tratamento?&nbsp;&nbsp;Grafitti News",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSkFFeGE5RE4tdEI1RG03bE5jQ2dzdEpGNEdnM0V1bkZZWXJzWHI1ZjhFbGFlNU45eVNxUnlScWdwNUdLdW1lM3d5aF8yR1pSWXdBem1mbl95X2pWWUpmVU9iZjFpZlk1c05FWm5ldmdhdW8tNlpIYmplakc1bjZidEh0dXBmcnJkLXNOQnktdm91bk1heFZkV0JJdDNpMlhLeDFVbEtUVWRHSk1lSWptbWVTS25MVEU4NkVSWEYyQnZKeEhhb2ZIdHVPZ091X2JmZGdvOQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bf2472cb14f8",
-      "title": "Brasil passa a produzir principal remédio para HIV do SUS - Folha de S.Paulo",
-      "published": "2026-07-16T22:24:00+00:00",
-      "summary": "Brasil passa a produzir principal remédio para HIV do SUS&nbsp;&nbsp;Folha de S.PauloFiocruz conclui produção nacional de remédio contra o HIV para o SUS&nbsp;&nbsp;Correio BrazilienseBrasil terá tecnologia para produzir principal remédio contra o HIV Por Poder360&nbsp;&nbsp;Investing.com Brasil - Finanças, Câmbio e InvestimentosDolutegravir: Brasil avança na fabricação de um dos remédios mais importantes contra o HIV&nbsp;&nbsp;VEJASUS adquire tecnologia para produzir principal remédio contra o",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbVhxN0hzaUhXeFNYaVFnYkJTQUJqZkZ4YWVHYW5kYjZRemlyRDZwZjZfMFE1WHl5bm1Sb19WWkZGVVpnNFhNZ0VVUXE3YWh6Q0p6VWJ5RkF2RU5PTW9rb0Jnd3NKRzZSMHlhRGwzZnpRcXlub1VVX2FPLVFhc2V2VGdaU2xIZU1wNXlzYWpTbGRlTnVwdk1HVWNWWGhCOUZENUxHY2RpY2F2QWdpWGI4MTJCSk40SEd1aWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f0e806ee0b71",
-      "title": "Moradores, estudantes e voluntários quebraram azulejos rejeitados por fábricas, cobriram 5 pilares com mais de 400 pés quadrados de mosaicos e transformaram em apenas 6 semanas uma ponte cinzenta sobre 4 faixas de trânsito na primeira travessia rev - CPG Click Petróleo e Gás",
-      "published": "2026-07-16T20:54:00+00:00",
-      "summary": "Moradores, estudantes e voluntários quebraram azulejos rejeitados por fábricas, cobriram 5 pilares com mais de 400 pés quadrados de mosaicos e transformaram em apenas 6 semanas uma ponte cinzenta sobre 4 faixas de trânsito na primeira travessia rev&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNZjhQVmlhemdlZXExY2t1d2MzaGhXM3hDeDJ3b3dHWUdYQTlUdlJWeDBTc0JqU09Sa0N2MnlIVmV2OHZaNmVZdzc1YUYtSzdlQkJJUVJjZUlTTnhlOEpUYlpxUVJBdy1PbWFTS2x6X3FKNUdpRXZReXhlX1NkUE5rNWlVVEJwV1FUMDVWVzU4bFA5QVFxYnZiZWtGVmpkLUdhN1RaZ3B1QVBNa0JqRkxJbmhRdUVjNUdHcWphbDRMRDhvOTVyMVRrbFVQSktsX1hPMDdITnRFWWhlRTNYRkYwVmNoc01kNTBkQmctODk1UUJoVzhBNzRBZENHWnpYanJYR3UzUDlvZUtjY3A4eTlHRW9FbWR0X1cxMlZmRFJLMXd0X3BzX2pNQ3NZRDU3d1lZbDQtYmZ0UVlHQQ?oc=5"
+          "name": "Portal Drauzio Varella",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSUloRmJ6ZEZoSmh5Y2szb3ViZ0xoVHB4bmp0RGdQaTl1M2xsRmdoVHJQQ25EQ05KemxlbFVjLU80UnI0c29NcVJ5VmgyUGE3S2JjZlFTbEpLek5IbE9zVFFTNUR5R0g3STVRN1dvZjdGTUJ6NDdJT3U4Ny1lZGlEZW41blFYeHd6M2RrRDBOeWxSUjZObndEOU5SSXdiMURwNUF3OTVZUkNqa1hrV1dkRkFpZw?oc=5"
         }
       ]
     },
@@ -374,102 +470,6 @@
         {
           "name": "Globo",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcWFNY29oT0I1T0lrTzNJdzJua3JDQ1o1ZnNaV0RieWNsOWU3Tks4Y1FxY3NsLW8tcHdOb1pLTGc4dmdZZ0dpa0VIR09VYkdXU2VHUXhnMzRNVEJ6Yi02Wl9mVXJhaWc2TWtOWkZuOUUxcUZmbjR2NnlZTjdPNi0zVUxvWk5rTFhaS3QzWFBISHdYZHFWbURrRV9iVVE5Vnp6MXBOTXM2Z01lUXZXcEhGY2ZGODloU0lEZjY5cnNjMDFTU3d1S0kzeUN2ODVHS1J1eG5j0gHiAUFVX3lxTFB0MmFNMGlKVExSVjZmVzJSWnRfX0R0SjJJWkFCRkNuaGNqS0gwX29IekhwZnpuVlNpa1ZkSkRoZHp6cTVQNFpzREtOLWU2d3R2SEI3eXBmOFB6dkd0MVNyQURLdjI4UHM0a3lhUWRDUGt5T0JaNUV3M096Qy1pRVVMTHlMbjlGcUUzQWdEUlJncTNBaDVnT1JaNlNEdVBicUtGQzF0TjRzU0w1bTdna3gxQ2w3V2REZ193TWlENGdSYU9jODZJQU1QelNVUmJOR3VrOHFfYmdDcm9waW5KZHdrMXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a6ed3d126d53",
-      "title": "Cidade Perdida: estudo revela fonte de energia escondida sob o Atlântico - Aventuras na História",
-      "published": "2026-07-16T20:02:44+00:00",
-      "summary": "Cidade Perdida: estudo revela fonte de energia escondida sob o Atlântico&nbsp;&nbsp;Aventuras na História",
-      "sources": [
-        {
-          "name": "Aventuras na História",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSzZxUUljNGttRFU1ME9JWi1PUHlnRmcyZUVpQ2t3S3NSdHU4RzlseE9kd3d1SUMyV1FIS0hUS2dSQ3UySTFoQ1Y1dS03clRpUjlWWnNIS3dnalhWT2VQbnNZejdIck82R3VYMzhqNThXS1BmbFppS3ZPTDRjU0pBaTNXak43X3RFWkZiWVNhdW5HVjFsdnF3Zm5oTXExekUyUnUwOHNtSVpBTDlyNzBTcDYzbFVKUEM5WVItSjhOTHUtNEVjRlZvZ1M5YmozSlpD?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0a6df176a92b",
-      "title": "Aluno do Sistema Colégio Militar desenvolve pesquisas para o enfrentamento de bactérias resistentes e indutoras de câncer colorretal - Exército Brasileiro",
-      "published": "2026-07-16T19:18:00+00:00",
-      "summary": "Aluno do Sistema Colégio Militar desenvolve pesquisas para o enfrentamento de bactérias resistentes e indutoras de câncer colorretal&nbsp;&nbsp;Exército Brasileiro",
-      "sources": [
-        {
-          "name": "Exército Brasileiro",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNYWVWZ0gtdHRJa3ZoQ25XeHVfUXlrbWZIamlBM1VNTi1WeGt0cWNfLWRjM0w5N05OcjVWZDRmeFNidl8zZUhGc1NPTUtoMTRKaEt2Si1QelNJdWtISVgyR0RpcGVaWjQ5ZHBHdTdaVHRYTnhIdTF6ai03V1RHN1pBNFEtMGI5ZXIxVkJWUXVfOGZDRzVNUEhrd3VzenNkZVltR0JYcldfQ25SdmIzMUtaSVBCU1FtSUNrSTJQaGNWTXRqMXlQT3BkLU1JVWRnSUw0b29MZlQyWHBNaVBVZ2dvSm8wRzhsdDg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c55438d2ca8f",
-      "title": "Pesquisadora do Inpa recebe prêmio internacional por estudo com samburá de abelha amazônica - Canal Rural",
-      "published": "2026-07-16T19:03:18+00:00",
-      "summary": "Pesquisadora do Inpa recebe prêmio internacional por estudo com samburá de abelha amazônica&nbsp;&nbsp;Canal Rural",
-      "sources": [
-        {
-          "name": "Canal Rural",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVy1TRVI5YmxOVkFELTczY0JGNXZnMGo2RU52VWEyUjRxSTlOR19KN1pmOHdiRzZISkE2ZE50cjBLbU54ZzN2eVlaVGNvbm1WWHZCb1dRR3EyYktlLV9tSnl3ZjBnVVFnQko3bUlNVkpHQ21QYXhpYnFEYTU1TXZVNzRaQ21KRl93V2x4cUlIQnpGVGpqc3pBbEEzZU8xTDdib09QZ095Q0xrSVVreTNmYlhMMTVHWWhNRF9fV2kzdy1XX3lPZy14cDNrb2VLbjQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9a5a0ba64cd1",
-      "title": "Fim da Moratória da Soja pode elevar desmate em 17%, diz estudo - Poder360",
-      "published": "2026-07-16T18:04:01+00:00",
-      "summary": "Fim da Moratória da Soja pode elevar desmate em 17%, diz estudo&nbsp;&nbsp;Poder360",
-      "sources": [
-        {
-          "name": "Poder360",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOU5FTVRYX1VqcHZvV2xnZXE5T1JPaVpsb2QtS0FhUmxnTkNGcWRyWC13U0o4UG5MN2hBUllHRzFTWU1rQ2NQNjdtRDhnc2pxWFNxS2tENTAxcUc5Wm9iSWh6U3lDdzZMTEZ1NXdZd2lxSVRxUmZPd04zSlhsVUZ4V2N0dVVrZ2ZEdHNXVlRJZXJMdlNKSTl0M0NCcGhrOWtEYVhV?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "810bdaa2a252",
-      "title": "Conheça as novas canetas emagrecedoras: mais potência, menos aplicações e músculos preservados - Veja Saúde",
-      "published": "2026-07-16T17:55:49+00:00",
-      "summary": "Conheça as novas canetas emagrecedoras: mais potência, menos aplicações e músculos preservados&nbsp;&nbsp;Veja SaúdeReganho de peso após bariátrica desafia pacientes&nbsp;&nbsp;Valor EconômicoParou o Ozempic e engordou tudo de volta? Nutri explica o que acontece&nbsp;&nbsp;MetrópolesCanetas emagrecedoras podem criar um novo tipo de 'dieta ioiô'&nbsp;&nbsp;Folha de S.PauloA balança caiu, mas e o músculo? O alerta para quem usa medicamentos para emagrecer&nbsp;&nbsp;R7 Entretenimento",
-      "sources": [
-        {
-          "name": "Veja Saúde",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZDR4RXc2UndOcHVVWWlmOWRYdnNlWmZVZ2lVSjh6N1E4TnhYenUydDEyeDI3dGdHRHNqdTRiblRYTjJXbmFaTFNVdEk1OVJCeG1VUFhzNmVqcmxmdXpwOXhUOC12SmFyZFBsWEdHQ0ZWakRubGNndndBQWVlcUk0elp6VE5WZHczbTJSYUZyVUR1WVhlWktsSWFDSTBFT015aWJGZG9xWHFHbjR1a2IwMTBFVFJsN1E4bjI3U1F5bXZDTDR5SUtMWg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3bb6b66fced5",
-      "title": "O surpreendente benefício da cerveja para a saúde - BBC",
-      "published": "2026-07-16T15:59:31+00:00",
-      "summary": "O surpreendente benefício da cerveja para a saúde&nbsp;&nbsp;BBC",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBTS2d1VHJCYVNXa2N5WEI1Y0NKTkVWU0dfdGlMeHhRNHFYS3pydWk4REs5c0RHUXU1SGlMRlJiWk5MY3RxWkQ3NFgxYmt1NU9JeG9MNlhUSHVucUhHcUtvZU5n0gFnQVVfeXFMTmVOUTNGNEFPeUtEWk5Ra3JlTHEybzdkcHA3LU0wc0VaU2UwcEYzRHlCRTJBSG0tTWZPa2lzZ053cnBXSjI4ZTg0ZHdfVEgzUWZpcWNtbmpYR3Y3VEQ3M3J6LWxnVWY1dw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b416704d8d0c",
-      "title": "Dormir muitas horas está relacionado a níveis mais altos de uma proteína associada ao Alzheimer, diz estudo - O GLOBO",
-      "published": "2026-07-16T15:17:24+00:00",
-      "summary": "Dormir muitas horas está relacionado a níveis mais altos de uma proteína associada ao Alzheimer, diz estudo&nbsp;&nbsp;O GLOBOPor que 72% dos brasileiros dormem mal? Sono virou problema de saúde pública&nbsp;&nbsp;Gazeta do PovoDormir picado e compensar o sono durante o dia prejudica o cérebro&nbsp;&nbsp;MetrópolesDormir mal pode fazer seu próprio sistema imunológico atacar o organismo, alerta especialista&nbsp;&nbsp;Jornal CorreioEstamos desaprendendo a dormir?&nbsp;&nbsp;Imagem da Ilha",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNd0YtSmVRWmZ0b2FRLXB0RkY5ZzNybDZEMDJNNl9mTjRteWozbUM3YnN3UWNIS0tka1UzS1BMZzQ1Ti0tbVZpUEppSUZMS25QRW1aOXU2NDZUWVc1Qk9ZMmVoSk1IbnQ4SFdDQ0RUcjdCQU5MeERidDFELW56S0ZuZkFCcV9fVmRKNFFILU5CQUhKTWpFcGFvbUhyU0pCLTV5Q3ZWcDlyWG0tRUFxTkxDcldPb0lnVGE0SENHaUFxTkRhWUJnSGo0S3Q5Yjh0WnZVV3YwUlF2b0NRelhZcGctWjVvM2Zud9IB9AFBVV95cUxQOXllWThyeW16QXRPZjVWU09CMW5oa3dkYjBVX2VnV0Y2Ry04S3N4ZElIWEtSd0FVQjJYRldwaTZhbERYam9lLVMzQWxpaDc4dzhXYjNHRk1uQ1hHQm13UTNOUjJiTnJ4VEFCVy1oZVdMQ2dNWXp4SW4yQ0ZiQkZxRnE4Y2JZQ3Q0Nm5DUTNUbXozb1FrcWNnZmNnend3clNiTDRpQjFKWHJYRVBjUjJUaGJUWlBWdm02dUN4RXZEaDI4NVRFcE1BVEVxMzk4Rkt6VkJkVUxoNHdscjBueXlxZ0lLUFd5bXJtNnNKWlpTSEs4TlVf?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e864b9959895",
-      "title": "Quais procedimentos íntimos Gracyanne Barbosa fez? Entenda os tratamentos que ganharam atenção - O GLOBO",
-      "published": "2026-07-16T14:08:06+00:00",
-      "summary": "Quais procedimentos íntimos Gracyanne Barbosa fez? Entenda os tratamentos que ganharam atenção&nbsp;&nbsp;O GLOBO",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNX09wcVduazd5dnVrc0hRdThzN3JQeDBORWtFNll3ZERSSFl4MVF2Um14enJUa1hnOGQ3VzNINkdDcmhtRmJVQUpqVWVLOXo2YkJBdVFsNFI2QlZDNlVkT2VjVFlLLTFSWG0xU3ZENUhJQ1V4dlFtLVJGT21BTXlhRnhraHllbTFjeE1pRkxGZC1rNlRFeERrV3VBN1EtM1B6endMUWVlRW4tWG42UGhfTjM2SXJwQVRJN3VxdmVVdmw3U0xXRnNlZjVUby1BR19WSVNQdEw3R080cGVreWFwNdIB7wFBVV95cUxQUGNnVDRPOGFvY1VkdDQxMVlaS1FuX1RGQTVQNE9hb2E5QXZ1U3JYdmdJYzQyVGtsR3hPZGRXWjlEOXRCeTJQXzBiOUw5TnVlQXpXdG9NYUNPRnl1aVNvc0luMUxEa21pdVQ4VEtZbmdGRjctcnVjbFJGZlBzQ1FHZUY1bDVCUXlpQ241VzJKUlVOZTJieU04REd6NU9zQW5lcW9nU0RxMGlPUWJkSnVSSnZkeUdqem5wajEzLWNBclIwWlFoQUhRc0JudDZRcUV0MUZrNUd6RUJMZHpzYU1WeWo4N3FuVmY5YldKRkx1Yw?oc=5"
         }
       ]
     }
