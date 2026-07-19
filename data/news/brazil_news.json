@@ -1,9 +1,9 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-07-19T02:53:14.362176+00:00",
-  "total_fetched": 90,
-  "unique_count": 90,
-  "health_related_count": 34,
+  "fetched_at": "2026-07-19T08:21:49.297910+00:00",
+  "total_fetched": 87,
+  "unique_count": 87,
+  "health_related_count": 31,
   "news": [
     {
       "id": "b995123420d8",
@@ -42,6 +42,18 @@
       ]
     },
     {
+      "id": "2a41c51ef110",
+      "title": "Canetas emagrecedoras podem criar um novo tipo de dieta ioiô - O GLOBO",
+      "published": "2026-07-18T13:52:24+00:00",
+      "summary": "Canetas emagrecedoras podem criar um novo tipo de dieta ioiô&nbsp;&nbsp;O GLOBOQuando é hora de reduzir ou parar Ozempic e Mounjaro? Primeiro consenso internacional orienta o uso dos medicamentos contra a obesidade&nbsp;&nbsp;G1Conheça as novas canetas emagrecedoras: mais potência, menos aplicações e músculos preservados&nbsp;&nbsp;Veja SaúdeParou o Ozempic e engordou tudo de volta? Nutri explica o que acontece&nbsp;&nbsp;MetrópolesCanetas emagrecedoras podem criar um novo tipo de 'dieta ioiô'&n",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcC11VDE4cEhEOGlwSUU1MFRVNDVRWWYzbklJVHJJNE9GM1BhTjU0bHhuWEpqMU9jTjRmUlhjQ29PMlBrZW5RTk1ZbXQzOExuMFVDM1NKcmdGWEtuMVFJVkxGZ2ZFa2UtcVFjQ3NONjYwZks0N3ExaG4zYnhFZ3QwcktGQzJEeWY4N1pWOGpXbW1WcU9uLS0zQUh5X2dDeXJqazE5UUJ5TW81SjVoV1BWLWdHbkJweGvSAcYBQVVfeXFMTXBHQ2RZRGNadS1GZExVSE9haHFJWFd6djRqMHM3MkFWR1lkMS1PRC1iZF96dnFjSGpjV3lDX2RjMFBUTUtRLXZWT3Y3Rm9NWWJTZzU0bmRZRjdkZFVHc09GdFdFVlRNMi1IRUJMakkxWTdtOEdONmUyRms5ZDZRWW50cUsyMVJISkE4UWkzUUhaX0drU09uWWNEYTB6eUpOSkpjdk1uSXkyUENEcjZucmo5UVkwaDc2aDdoV1JubjFLeG9kZ1d3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "084529dbfb20",
       "title": "Adoçantes podem interferir na saúde intestinal, revela nova pesquisa - O GLOBO",
       "published": "2026-07-18T13:13:09+00:00",
@@ -54,18 +66,6 @@
       ]
     },
     {
-      "id": "bf5b6f13d6a2",
-      "title": "Cientistas descobrem como frear progressão do câncer - Poder360",
-      "published": "2026-07-18T12:39:37+00:00",
-      "summary": "Cientistas descobrem como frear progressão do câncer&nbsp;&nbsp;Poder360",
-      "sources": [
-        {
-          "name": "Poder360",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY2hVSXNIbWF2MVR1VmNwTExXLUg0WTBLV2gydHVaVWhkWFRCcE9OVjJhZVQ3OUI5WHhaRHRfVnhqTVYtaGREaDhXY0VYdWQ4WWwzWHdCTTFENWNQV3EybHgxQWRVZXNMaUtBVEwxYWJWY0EzWVVoZ3FnU19ZU245Zm1ZRXFuajNHWUlVb0NQNUpxcXpXdmt4UTMwMGxkenhsWnd0amttdTUzZnJleG04?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6bef8c8d378f",
       "title": "Estudo traz novas conclusões sobre rochas de 544 milhões de anos encontradas em Corumbá - Midiamax",
       "published": "2026-07-18T11:56:00+00:00",
@@ -74,6 +74,18 @@
         {
           "name": "Midiamax",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVmU1aTN2ZmI4cWtPRjNuMlB3X2RnbnRSUHpYTmJYeEpnQi1yS3FRRVZEWGFBSkhaQmpGUWMtLV9xbm5ENTdvdFZQU2M3dHlRZzU2dmJaWHBGS0hGeUFFZFBHWUtyRUI2dlZZdDUxMHc1VzNVYnJGd0hkY1BSWVRvOE03c3VZd0FNU21KT0FsanJxZld0Mm5UaS00VGF0MkZ3MFhCS0NoV0NpODVlUjJFbDBR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d0376dac247f",
+      "title": "Trinta anos após a Dolly, Brasil clona primeiro porco da América Latina para transplante de órgãos - O TEMPO",
+      "published": "2026-07-18T11:01:00+00:00",
+      "summary": "Trinta anos após a Dolly, Brasil clona primeiro porco da América Latina para transplante de órgãos&nbsp;&nbsp;O TEMPO",
+      "sources": [
+        {
+          "name": "O TEMPO",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRXlnY1czb2QtT0h5LUtuZW1oTkgyQUc2Z1c2Vnl1VElNaENteVNOQkFKUzdWQ1VEWkF1T045dVlPYmZQWm4wM1Jka3M1bzgxR0ZEcXlFOVBzV01wSHExWEpOQnlpbVJnek5WaFdtQ2N6QzI3clVQU0xONFczVFVSUDFlRHAwZU1OT2U1T05jVEFreWNpcGVJdjYxblIyeWVPbnh2eVFUVTZjNUdBTlhHRGpxOWVkcVNNTE5sWlhnbk5IX0haMFdXNlE4S1dQQnpVTTJCdHZtRQ?oc=5"
         }
       ]
     },
@@ -102,14 +114,14 @@
       ]
     },
     {
-      "id": "038e69fcc263",
+      "id": "658ecbb386fe",
       "title": "Marília registra dois casos de câncer ligado ao trabalho - Marília Notícia",
       "published": "2026-07-18T08:59:28+00:00",
       "summary": "Marília registra dois casos de câncer ligado ao trabalho&nbsp;&nbsp;Marília Notícia",
       "sources": [
         {
           "name": "Marília Notícia",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN1ctX0xhME04ZDRXSTFVOVNrUjJJR0x5UWNRdV9yakhXVFhXbU96aXFxNTFxcERlRThDSGh6R0pfYnp5dFYzY2I3WXlGRXJIandQWno4dXhDUmhYRzN4eTZTc3ptamFXcENJR1l5OUZFUTQ2TUUyeGN0akNNZFNpVU95UlNwdldsSkFPR0dyaWzSAeoCQVVfeXFMT2FfZ0NJbHRpQ1FrRW9oZXMxd2JPbmIzOG04Tm11dThfS24tSzRuMjVhT2t2bTBtajdWT2FkbklFd0JmQjFTRFJ0Sm12OXlWS1RvUm9vOWVycVpSU0ctMmlUMUtuaUtYaDFhVW5idEZ1bGtnZ0NYa1dvVGNDYWtEcXBfUWxXeTlpSl9pa1ROQXFvR0pZeEYydWpqSHFyTHZZMW9iRHRPeF9OMUVGM3pCN2tacjN0aF9ZX3gxdUtaRTdkMlIteVMwOThwYjRUdWJfeUw0dWxjMW1JY3B6UTY4ODlJNjBpbHRVNHBXb3dsZVZPUVMtWjR4UTlsaXBMQU9lTmxlVGJWLUtIRVY3VWhnbDgtV2I1c2xGSEU2dWRYc3NveEdGSUJjN251TnBSRGVtbno0akk1bHEyNXlqME5rY3d3LW1NYVBlU01IQWhKY2ExSWVHSzhIcWQtaUNUT0JEUXltcEZJcHRpblE?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN1ctX0xhME04ZDRXSTFVOVNrUjJJR0x5UWNRdV9yakhXVFhXbU96aXFxNTFxcERlRThDSGh6R0pfYnp5dFYzY2I3WXlGRXJIandQWno4dXhDUmhYRzN4eTZTc3ptamFXcENJR1l5OUZFUTQ2TUUyeGN0akNNZFNpVU95UlNwdldsSkFPR0dyaWzSAZYBQVVfeXFMT3A5ckw3YVB2OXQ3VFBZeW1qeFBIa2Zsc0xLRHdtQ21tdjl4Y0dJWVF3ZnlwSWdyZThOZzJHUGMtWEFkZDBFUHBObFpiUFYwT2o5b2dGRl84Sm1NcGtuekpRdmNEa2Q1Vy1xd1RXZ2xfOC0zRHRnWVRoS2Jtd19FX3lfRGpkVmFOUnRzbXB3TnViNXZuZDdR?oc=5"
         }
       ]
     },
@@ -129,23 +141,11 @@
       "id": "fcc4171ceee4",
       "title": "Cólicas intensas podem ser um alerta; especialistas e Dr. Kalil explicam - CNN Brasil",
       "published": "2026-07-18T06:00:53+00:00",
-      "summary": "Cólicas intensas podem ser um alerta; especialistas e Dr. Kalil explicam&nbsp;&nbsp;CNN BrasilEndometriose afeta milhões de brasileiras e desafia diagnóstico precoce&nbsp;&nbsp;R7A luta de Cíntia contra a endometriose: sua sobrevivência depende da cirurgia para endometriose&nbsp;&nbsp;TerraEndometriose e saúde menstrual: chamada pública financiará pesquisas para desenvolver tratamentos acessíveis pelo SUS; inscrições até 12/08&nbsp;&nbsp;www.gov.brDra. Karla Mazzini lança 'Caçadores de Endometri",
+      "summary": "Cólicas intensas podem ser um alerta; especialistas e Dr. Kalil explicam&nbsp;&nbsp;CNN BrasilDr. Kalil: Ginecologistas mostram o papel do estilo de vida na endometriose&nbsp;&nbsp;CNN BrasilEndometriose afeta milhões de brasileiras e desafia diagnóstico precoce&nbsp;&nbsp;R7A luta de Cíntia contra a endometriose: sua sobrevivência depende da cirurgia para endometriose&nbsp;&nbsp;TerraEndometriose e saúde menstrual: chamada pública financiará pesquisas para desenvolver tratamentos acessíveis pel",
       "sources": [
         {
           "name": "CNN Brasil",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNenhaU1puTVBKYXRhWmw0ZWxkcGNkWFJUTnhtSnZTS3A1Z2F1Skw0d2J4QTF4aERmcnFPOUpzWWg2V3BFcTRpNHplRTdBRDB0VTFkNFF6bnIwc3gwZnlLNlZQNTg0S1FpYjJmNXVpcFZOVlNFN3JfVm93WkdkT2JsTU1SZkYzeUxQNG1iMGxQc28yT3IzeFgyOU9Da3phUTJibTNXYTVBVjhTQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f6dcf634d4a9",
-      "title": "Mistério da família Médici pode ter sido solucionado após mais de 400 anos - R7",
-      "published": "2026-07-18T05:00:00+00:00",
-      "summary": "Mistério da família Médici pode ter sido solucionado após mais de 400 anos&nbsp;&nbsp;R7DNA antigo finalmente resolve mistério de assassinato do século XVI&nbsp;&nbsp;O GLOBOAnálise genética dos Médici revela cepas de malária da Renascença e encerra antigo mistério histórico&nbsp;&nbsp;MidiamaxEstudo sugere que Francesco de' Medici morreu por malária&nbsp;&nbsp;ObservadorMistério das mortes dos Médici é desvendado por cientistas; saiba como&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "R7",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNVN1cW95S1ltYS03MlhnQzJRaDJheGd0cThZVnR0eGpoYnBRTmNpZnFrWEZRYS1HVF9jemhQRkVwMlpmSnktY1lkeDRpNWpzLUNGMzdLbUU2TzVhSUVJbVZ0blcwa0VaV1hibjd0WEZzTmt5NXlvcVl6cU9SR0V2Q3pTdFFxNk9aTVNwSFdUODhpWHFiQU04Z0Q0X2Rhdy1LV2FFZWJ5ejZheHRwYVVXaEhPUDZPZ0g5WmVicEF2UQ?oc=5"
         }
       ]
     },
@@ -165,7 +165,7 @@
       "id": "e626548ee4b2",
       "title": "O que são as conexões silenciosas do cérebro - e como elas podem ajudar na velhice - Estadão",
       "published": "2026-07-17T23:00:00+00:00",
-      "summary": "O que são as conexões silenciosas do cérebro - e como elas podem ajudar na velhice&nbsp;&nbsp;EstadãoRir com amigos fortalece a saúde cerebral de formas que muita gente ainda desconhece, segundo a neurociência&nbsp;&nbsp;Correio BrazilienseVida moderna impõe novos desafios à saúde cerebral&nbsp;&nbsp;jornalosemanario.com.br",
+      "summary": "O que são as conexões silenciosas do cérebro - e como elas podem ajudar na velhice&nbsp;&nbsp;EstadãoVida moderna impõe novos desafios à saúde cerebral&nbsp;&nbsp;jornalosemanario.com.br",
       "sources": [
         {
           "name": "Estadão",
@@ -206,6 +206,18 @@
         {
           "name": "Diário do Litoral",
           "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWndoZXdtTE84TXRQWkV1RUt0bXk0dlNQTUoxRGs1dDZEMHlLNFV6U1llMjFleTJrWVlVRjJkcDVZeEIyZnNnRDlUcmt6U1JQajhhckdBZ3kxUjJzMzFNYjI4eGNkTFRSMnU4c3FjQ1hKY3hqanNJbmlRZWhwaUZoVGhNODVjTE04dzAyemdxcVpPUjJHdm1SUkFtZVBqcHI3bWZrbk5CVUUzcXdzaFljY3VzVDFMd2JFVlhuTTcwVU16bTllOGFtbXZFekw0MzQ3MjBWOUp4clg5LXFldkltZEdnNFh0MUZ0bzRv?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "859ec214a550",
+      "title": "Ética em pesquisa e IA generativa: por uma abordagem crítica e soberana - Jornal da USP",
+      "published": "2026-07-17T19:23:00+00:00",
+      "summary": "Ética em pesquisa e IA generativa: por uma abordagem crítica e soberana&nbsp;&nbsp;Jornal da USP",
+      "sources": [
+        {
+          "name": "Jornal da USP",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdWh0ZkZObE11TS1KWkFuMnJ0dmZHV0RBbHhhRmdjSGluS3lsdWV4d19KcldfNG9GdWQxZ0RnLXloWFZ5SFE0MzJoM0RRWTdjTlViTlpfazJfLThZVGRvUFJRMnhYLUZpOGhHV1QwdzYxc1VtMGVoc3Y3X0hPV042MVZyM0c4STEyMzFGQnVXMk9XTUNWX2FCNEh2eTluRFF2RjZ0aHlBeWRGOEg3bjhqbTlaRi1fUm9TWUY3NA?oc=5"
         }
       ]
     },
@@ -273,23 +285,11 @@
       "id": "51f58ee91ef9",
       "title": "Brasil Sem Varizes: mutirão nacional de tratamento ocorre em agosto - CNN Brasil",
       "published": "2026-07-17T16:51:49+00:00",
-      "summary": "Brasil Sem Varizes: mutirão nacional de tratamento ocorre em agosto&nbsp;&nbsp;CNN BrasilBoletim.leg - Edição das 22h&nbsp;&nbsp;SenadoSemana Nacional da Saúde Vascular vira Lei&nbsp;&nbsp;SenadoLei institui Semana Nacional da Saúde Vascular&nbsp;&nbsp;Hojemais.com.brSaúde vascular será celebrada anualmente em agosto&nbsp;&nbsp;BOM DIA SOROCABA",
+      "summary": "Brasil Sem Varizes: mutirão nacional de tratamento ocorre em agosto&nbsp;&nbsp;CNN BrasilBoletim.leg - Edição das 22h&nbsp;&nbsp;SenadoSemana Nacional da Saúde Vascular vira Lei&nbsp;&nbsp;SenadoSaúde vascular será celebrada anualmente em agosto&nbsp;&nbsp;BOM DIA SOROCABALei institui Semana Nacional da Saúde Vascular&nbsp;&nbsp;Hojemais.com.br",
       "sources": [
         {
           "name": "CNN Brasil",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX0hZamp5QkVZamRKQjBMRno3dlhLLUp3eXlVdDRWTUlVclo1ZkNjUlNBYVNvMkFFZUZJRGxuSHozSlgwSnRSMHQzdlg0RHFsd0d6bVcteE1jTmtoMHRKa096Z2F0VzZsSVNlNUROei03aGNmRzMwYUh3Q20wSlhmOFVDX0MtVkx0M0VDMTc0cUJaMVFUUVJoWVdIYUJPSHlNc0RqTg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "12e7fb56d726",
-      "title": "Jovem faz apelo por ajuda para custear tratamento de doença renal crônica - portaleducadora.com",
-      "published": "2026-07-17T16:44:47+00:00",
-      "summary": "Jovem faz apelo por ajuda para custear tratamento de doença renal crônica&nbsp;&nbsp;portaleducadora.com",
-      "sources": [
-        {
-          "name": "portaleducadora.com",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSUh5Z1lRMzRLamRlRkR1UHNwT0FZbEExWjJWNy1jS3pRSHk5YXFub056SUZodkJCOUViNWRRRWNVVERnQW5yNC1KLU8yZmFyVDhfQzItOU5HcnJ2MEh5QnRPNHlkSjZBUWhZUmxRYlJYRGdHd285LUJIWHFQQlRFa3NXdXNLbV9QNms4a2ZmRDc0aC12SnZ1c3R1aW5ueUtSa0I5VHFaeHRUd09ScDdYdGQ5VXo?oc=5"
         }
       ]
     },
@@ -302,18 +302,6 @@
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPYTBkbzZJZmcwaXNYZWNPRWhYTHM0U3NOSzVxSEdxLVlla3RKcWU1UjNHTHJWV2gzdmFmWnZGUFZKc0hYSExLQW9Gc01LZTFkcWd3bEdHcHlOUVpIbEZhUFozM19adVFYdTZXMTRsckpaYk4wbUpPOFdMOEJkZlRJV21SWlBaV3pzS2dnRFpUQjNkeFNjakRsbVp6b2F4aU90NXBuVktwcm5MZ2lWekZ0WnpZWWNKM0FCNmt2dk16SzhrdlVybDBaSWNOM3RIX3ExMXJ3ZmhicWZ2VHFEZ1FNWVNyVjVoZUJDcE9kMGh5dmc2NlJvWUNJ0gGGAkFVX3lxTE9KT0JIOWN2dG56Q3FhNjV5b0E3a1V1c1NJMjVscVZ6c2pjeThCRE1sYVduR3JMSnJBUEI4VnhTNGg4azVuaG5GbmQwVFZEQ2pmWDJMdGJjUkJkR2NMUW5FQVJkQzllTFl0Q3p3MS1oVzhNZVl6TC1ZZVF5b3Bialp0bWNmMzFhUlNvLTk1ZE91X196N0s3amJndThFSlRGcVQxM0xsSHRnemZjT0kycERMR3ZDMEpQcHBYTEtlSjBrWHNtbzJVVWJCeEtJVEtmZFdjeWt0Mm1tN1FPREJsZF96ZGtUZ1BtV0ZVZFhfMjdOSGVQUXBmUEQ5OEgtYllvbWU5OVlWX0E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f7c5b27cb879",
-      "title": "Aplicativos de treino ajudam brasileiros a manter rotina de exercícios, aponta pesquisa - JC",
-      "published": "2026-07-17T15:44:00+00:00",
-      "summary": "Aplicativos de treino ajudam brasileiros a manter rotina de exercícios, aponta pesquisa&nbsp;&nbsp;JC",
-      "sources": [
-        {
-          "name": "JC",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRFZYTFowRDYzc0ZQYl9KRUxUU1lwY3VfcjVxVDZwSTI4TjlkTjVGX0lEVWZYZUZzSEpBb3JOcUxfQmF2YlNHbTRGOHNlMnpqSnFOcEpnVjNlSUJUemlUY3VaamFIQkJWWHE5R3FORG1XSXV5YkFlU0JSTFBFZzN2U1FpTXhaeld4WTFDLW5QZHdvak9fVU9lMzkwZVppd0k3Zko4aWoyR1dsSkxCMkI2SXQwdmpQcmtJNXdkZl9nU3B5UnBhZk5kelVPQXFaRUszZVU0dGlR?oc=5"
         }
       ]
     },
@@ -366,26 +354,14 @@
       ]
     },
     {
-      "id": "1f48633d3ef4",
-      "title": "Família afirma que médico Jacinto Lay está em estado gravíssimo e faz apelo por orações - 180graus",
-      "published": "2026-07-17T11:40:01+00:00",
-      "summary": "Família afirma que médico Jacinto Lay está em estado gravíssimo e faz apelo por orações&nbsp;&nbsp;180graus",
+      "id": "45073178c3fa",
+      "title": "Ele era apenas um mistério de uma foto borrada. Agora é a mais nova espécie de macaco descoberta - Estadão",
+      "published": "2026-07-17T11:20:00+00:00",
+      "summary": "Ele era apenas um mistério de uma foto borrada. Agora é a mais nova espécie de macaco descoberta&nbsp;&nbsp;Estadão",
       "sources": [
         {
-          "name": "180graus",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNGxEaWNaTkZRR1FCbWlYeXF5M0NIVTZUYTJUQU1PRWllNlZzQUJpMlhoLUhHUWJrWkJ0MjB3WXRpaWVEREdHcWRYWjBOUjlWeVMwZVZNUGpUZ2E0RVh4dFFqRl9SekJKOEIwbGt4b0Vpb2Zac0E4bzNPRklqd2JKb1d5SVFCUk51MFN3QU11VTVvMWZCcFFza2VtVC01MFR1QWRiR3pQV1BuNV8tV3dnX2FqNjgwVmcxSXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ea4a3e2eb318",
-      "title": "Mortes de fisiculturistas: o que necropsias revelam sobre os riscos dos anabolizantes - BBC",
-      "published": "2026-07-17T09:02:39+00:00",
-      "summary": "Mortes de fisiculturistas: o que necropsias revelam sobre os riscos dos anabolizantes&nbsp;&nbsp;BBCO que necropsias revelam sobre o risco de morte cardíaca entre fisiculturistas&nbsp;&nbsp;G1Goiás pode criar política de prevenção ao uso indiscriminado de anabolizantes e hormônios&nbsp;&nbsp;Tribuna do PlanaltoRiscos do uso de anabolizantes para fins estéticos: endocrinologista explica os efeitos&nbsp;&nbsp;SenadoNecropsias revelam coração aumentado e lesões graves em fisiculturistas que usaram ",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5rSjFDcHVDLUF4R2JULWQ2cEV1SXVrNmFSQ2Y0bzF3SGlaQ19jTllRV3hNMlNjRnVoUndwODhiSjlrTmloa2h2by02TWF5bkdkUjRYRzc1UE9zWjNLTnJWS1Zn0gFnQVVfeXFMUDlWVWxjOW5lNmJneUdGNkhIaDJLQUZoeFNoUndtMEswRTNReGowbEgyNVhqYjBGSGQxRHpBNVZYSjNWMnZrRENoSWc2aDF5YTRyX3R0TmV6RHk2ckpfMC1wUjVVUWQ1bw?oc=5"
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSkhHM0hpbkxzc21qaGtBRXVLd1FxUGVLWGpDVjZSMnRSVURpUlRNbkRVeUtlNUZ6SXlUZlU0c0FHck5nMTFtem1jVl8ybWtUZ3RDSWpCWGNYdmNPTlZwY2V4d0RBUy13b0Q0aUNiSmNINHAtMkcwNU5NcllidmJtLVBvVWdFZFpnQ3FBclNjUWhMbWJkZDB0aEtjc2NqeW1sVGxLdUNHSmNzaDRIWTZXWjlPNG03NzJBT3hhMzJCREk1VEpHS0oxSVN0VdIB0AFBVV95cUxPX3pxTktXLW41d3VmeE81bU1LdnFyckViN2oyUVljZUtyWlpHdTgtMVVmMUFGSVRleFNQcFdyTDVGLVdrUkQ2ZTFQQXVGYWhJbFBNOFlCM0txMVpuOTkzSEIzTmJtenNKeldDbnVxeXliX1gwNFJqRkp3dXZ6T1ZtaEkxVWtVWWJ4WmZEMnltNnBWLUZnMG9MNmFjZFp5RHJjdXllQ0lzM3JRUWVrXzhqM2NLMklFcXAtTE9uSTJrVnc2VUdtLVNIaDZzR1cyc29y?oc=5"
         }
       ]
     },
@@ -398,18 +374,6 @@
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcXRBTzM3NmJWUjA1N1pOWnUzVUlpd1pfWUJRb0ZkNDd0THF0MExoVU1lOWdabTRoVnpYQUFEVWtqbGlveVUxUkhqamFCZmdKT19HcjkzQ0V6LXpvME5sOVVtS2RKa2dTeUVuN1RMSlFiUzNDcnJ5eFZtLWt5T3duWThDenpreDRHX3d0d2p6TFdlcllaQzU2UkhWQlFGeG4ySncwZUpEZldKNnozWF9BLTFWd3lmX20wN0xxRzF0aV9tUGQyeEdiaS0weEJrR1BDRllvdVZHQ05TMkZ4ZkhNU2hn0gHwAUFVX3lxTFB0Yko0WWpfNXZaT1dDQVNQMzFtVWVuM3dWSmRjeDhLcjVhZ0JFQzlxRTRzNXVGV0Z1TUNKeERMRTdybnlJdjRtZ0V0bnNBdDFyUGM5d3NaOUhuWTdtXzNyZHZpNzNIYXowUFItWnV3dEFOTWJYcURGT2lRaHJpR3p6THlPWnNfZ2oxWWFseHRVdWtibTI4RUZWSldiOFpBdERfcmhCTjZIbEtlQkgtYV9sZWlrWGVWdnBEN2tRbGZuUnhtdXJWRVpselVFbjlrY3Y2RlRXQ0c0NGtuOXdtakxiSFlKaXkwY2xpcUZkVURibg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "593d79a58680",
-      "title": "Vapes são tão prejudiciais para prática de exercício físico quanto cigarros convencionais; veja os efeitos na saúde - G1",
-      "published": "2026-07-17T07:01:46+00:00",
-      "summary": "Vapes são tão prejudiciais para prática de exercício físico quanto cigarros convencionais; veja os efeitos na saúde&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQYWRpaDcwaUJVUkg4WF9pcWhuZkhDOERiTGVGSXBnbXJhVFlGd0Z3ZXB6N1d2d0ExN1JDNHcya2dLN1JGVEF1UXVLQjJjc2NTMTM2NW84dDU5UWFoMUpwOGUzOE9NdFM1dGgyckVwM3VYSGVUU3JhU2dwbmJQQ0R1YUJjVDR1aEtENXZlcUlCLXZGeHduRHZJdlUxUjVHTmpNZVl3NGk1RDMxYkcxWTU2TDV2N3FLbmt0UmhXSFNPajg5d0gtdnVac3dzclhaWHViUFBzYi1XRGNMcjQwZUZ4N3hCamwydDRNMXhjRzFfcnVXYzZlWjUxQkJB0gGIAkFVX3lxTFB6cTRzTUdYYzBFd0JzMnVaa3RzYzZmVVhQU3pCQzN3OElreFkyZ3NIc2Y5N3BvSENta2NFWnhyZzAweUFEYy1rbjZIcXY0eXpmaDJ6THBuODBMcC1Ra24wRXhnM1l5bThndkN0X3NoQy1MeWt0b2JRcXZUOTZkNS03Zm9tYkg0Tk5XZHUwWVgxeF8zU0k2TTBmTkpwajJDREVndkxpLXdMbGotTzNCQmprczJ5NFlXY2o0SllVSWl0bzJFT0JvNE1aay1jWi0wd3Q3dno3R3k2b2xHLWVXT3E1cG02a0F3eThoZkFVa19lSmFiYS1pd0tkdTNyTDZBamtUZTV0R2c1Mg?oc=5"
         }
       ]
     }
