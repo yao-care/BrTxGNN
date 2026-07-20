@@ -1,15 +1,87 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-07-20T14:09:10.407132+00:00",
-  "total_fetched": 97,
-  "unique_count": 95,
-  "health_related_count": 39,
+  "fetched_at": "2026-07-20T19:45:16.041187+00:00",
+  "total_fetched": 100,
+  "unique_count": 98,
+  "health_related_count": 42,
   "news": [
+    {
+      "id": "8ce6043ec0bd",
+      "title": "Estudo: biópsia líquida ajuda a identificar 4 vezes mais casos de câncer - UOL",
+      "published": "2026-07-20T16:46:15+00:00",
+      "summary": "Estudo: biópsia líquida ajuda a identificar 4 vezes mais casos de câncer&nbsp;&nbsp;UOLVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNT3pZNXNkTGFIYzUxMVl6MGFCUExCekdSM1JBeFVBeDhGRFREYi13ZHdtZTVyU3JVMF91X0tOc0FzcDF4UG5VX1lsbGJSRGplOS00ZFpuYXRwaFpOWmp3NlNzNVhscEozc2J3Q3d1M2s4cEk2Qmg3T2JZRzhoWEtGTkdVal9CXzYwaUtfTE9PbHJZc1FxdUpaNTN0N3lvbDJUa2o5ejRTSXpHc28wMXV2QldPNTNfSTdGQS1DWlJVb0RyTmpaSm5jN1NvNWhVdDk4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0e33135f8eea",
+      "title": "Quais alimentos preparados na airfryer podem formar acrilamida, ligada a prejuízos à saúde? - Estadão",
+      "published": "2026-07-20T16:00:00+00:00",
+      "summary": "Quais alimentos preparados na airfryer podem formar acrilamida, ligada a prejuízos à saúde?&nbsp;&nbsp;Estadão",
+      "sources": [
+        {
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQakw4ZGZEaUNOVk9ZSTRic1BRbncyWFBPVGY3UTJpNlpERm5CYThvSkVkT24yNnRFd1B6a3JLa1N5UUFmMm1ISEpGeFNfSTlYVVk2WjJZS3doVWJEZnRYUzJPTzFjak5BRHFQYm1mMV9qQllYRmJFSDJ6REhINnBfcndQdkJjd2pSZUNNQVkzQ1B1X3l6VTBTV21CcGRGamdobERpZ3NETGFhZ2JqTGstR1NoNVJEb00zSTkwQktzOERhOE5lYzRIYllxTUpuSGM1WXk00gHYAUFVX3lxTFBjeWg1MmpDNVhGZXROSzNBdGFneW1DOF8taWhCWU55M3A2TmxranBHNC1wYmZUSm55ekk1Qm0zdXpSdzZHN2ZFOU82VERBdnFYRWJGUUZyT0VvTi12Vm0ya0I2aG1JX04xTnVfVzJxZjdwV0pVM3U3MWdwVnJWbl9hTnh2X2FjV3YyalkyX2tGRi1SN0stN29GLXVTcXFYQTUzckV1Q2haZkdTWW1RNHZJV21oREJEUi1WcjlRMU9hR215bk8yc1luSG9KcFpqZHgwb0VOSWx2Mw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "83f6a55e21ee",
+      "title": "China faz primeiro implante cerebral para uso comercial do mundo - TecMundo",
+      "published": "2026-07-20T15:07:28+00:00",
+      "summary": "China faz primeiro implante cerebral para uso comercial do mundo&nbsp;&nbsp;TecMundo",
+      "sources": [
+        {
+          "name": "TecMundo",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdTlpOWdIaXZGNlhjTHBmV0ZXSXdQcnQxTHpCRjAta1hiVHJlS3hFRDdkTnFEMmN0SVFuNlNBSlpSLU4yS2xYT1FNcVA0R0h0clpPeUdZc3UtaEJ0eXJYT1BLbEFGYjdxX3VxOWVNc0ZDRU9yQThFbExERWxfVXVXTHU2Z2hTaXEyeTNpU184WjUySXc5Z0dsbk41WGhfZ21CbE03bTFhWTc3T1VUWThkMw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1de5d9d57d45",
+      "title": "Café é associado a menor risco de infarto, AVC e insuficiência cardíaca, diz pesquisa; saiba quantas xícaras são seguras - G1",
+      "published": "2026-07-20T12:34:53+00:00",
+      "summary": "Café é associado a menor risco de infarto, AVC e insuficiência cardíaca, diz pesquisa; saiba quantas xícaras são seguras&nbsp;&nbsp;G1Até 5 xícaras de café por dia podem reduzir riscos de doença cardíaca&nbsp;&nbsp;MetrópolesEnergético faz mal à saúde? Entenda como ele age no coração e no cérebro&nbsp;&nbsp;Veja SaúdeMédico alerta quando o cafezinho deixa de ser hábito e vira risco&nbsp;&nbsp;Gazeta DigitalCafé conta para a hidratação diária? O que nutricionistas têm a dizer&nbsp;&nbsp;Notícias ",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQd19oTUJOWC1QeHhLSVZ1YTRnM2o3U3RVNXEwQlV1SkVFV2dMcGw0UXBFUXM0c19kVzNNQkdvNDRrdVhHbHJYX1JOU1dnS3ZMcWdIMTBYNGdic2R1QVBCd3NTazg2NWJfVEVLckVEdWd6RXo4U3AxWHBPd29sUlkyT2toV1RNV1haaHZYc0lyU0JiNUdURkcwQ0J5TDVucGlKcngxaXJ3MUdFTmNMTDByQ3V1UjVNSDdzWFRuUWlSclJLMDY3TFBHRkJMUUNYMDN0MmJEQ0NtSUUxU3V5MzRhMFRMNm5sOEYyRUpLMG1OWVZIRGdENjFzNGJBdXA0QdIBjAJBVV95cUxOZFVLRDRIOFA3SXMtUE05bW9nNEw3QUpQb2Z3LU5XU013aE41Zzh2UmU1clVsVGZOelpRX1ZvMkx6b1drX3plRHlXSDJ2VG4wWlNsV09SaTdSRi1kemxBWVF1anRLcUk3ZUpMZXZrZTZWSjBSTjJsb08zNG10NFBuNW5EbmpDUDJQUVlsSXZROVBtVFJZaExtd2dJdW5HaEM5ZmIwWjNIVGkxU0tVb3ROU2Jrczlqa0NQbFJWM2R0cmlGS0RhZDR3dEg3UTBSMjhHOV91VDlNVm9WaHRZeWplYUhGT0ljTTg2Yk0xNU56Y0RvSlZzTTZTMnR0V3VnNFplem1tdUlwQ1NJeTVw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "415ca1971b37",
+      "title": "Veja os 9 alimentos mais indicados por especialistas para cuidar da saúde dos rins - ICL Notícias",
+      "published": "2026-07-20T12:21:58+00:00",
+      "summary": "Veja os 9 alimentos mais indicados por especialistas para cuidar da saúde dos rins&nbsp;&nbsp;ICL Notícias",
+      "sources": [
+        {
+          "name": "ICL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pZDJTOGI5aGVrMWVidHotbTFhOFdSUm5GcjZVTTIxYlE5dUpwSzRIaG1Qd0pySVpwR2ptajhXNTQ1cGZxbEUyV1piWkRUaVFHTlg1V0lZNmZyb2VtQ1h2elFRQms4TWluTFMzSTlydw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6401b697c881",
+      "title": "Cientistas usam satélites e IA para encontrar o “berço” de uma espécie em risco no Brasil - Revista Oeste",
+      "published": "2026-07-20T10:35:00+00:00",
+      "summary": "Cientistas usam satélites e IA para encontrar o “berço” de uma espécie em risco no Brasil&nbsp;&nbsp;Revista Oeste",
+      "sources": [
+        {
+          "name": "Revista Oeste",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUVJZY3J0b1VtRzRLWFFkRTBKU09NZHlNY0hoZzlIUWdLMWNxOGdCNi1BSzd5UW5DdEo0Rjk3YnAzSWs2enV6eTFsZWJkWERydWlSR0d3LTRGQmxQeFhkRnhkUlpiZ2stUXBDUWEyQVNlQTlIdzV5Q2pQSnRQXzVpeTA1VnJnOTBVOVBpaUJUMzlvNTkwZGNDcWFGQkp6TDdxSW5DeXBVY3VpdVRPSkIzbVV2cndaUFhXR1pqaUM3Sl9TMzhRU280N0IyVXgzcGJR?oc=5"
+        }
+      ]
+    },
     {
       "id": "6dfb3c4b1b25",
       "title": "Assistir muita TV na meia-idade pode estar ligado a alterações cerebrais associadas ao Alzheimer, aponta estudo - G1",
       "published": "2026-07-20T10:29:49+00:00",
-      "summary": "Assistir muita TV na meia-idade pode estar ligado a alterações cerebrais associadas ao Alzheimer, aponta estudo&nbsp;&nbsp;G1",
+      "summary": "Assistir muita TV na meia-idade pode estar ligado a alterações cerebrais associadas ao Alzheimer, aponta estudo&nbsp;&nbsp;G1O que acontece com o cérebro de quem assiste muita televisão&nbsp;&nbsp;Olhar DigitalEstudo liga excesso de TV na meia-idade a alterações associadas ao Alzheimer&nbsp;&nbsp;Diário do Centro do Mundo",
       "sources": [
         {
           "name": "G1",
@@ -18,14 +90,74 @@
       ]
     },
     {
+      "id": "a85cb0f69155",
+      "title": "Nasce o primeiro componente orbitrônico puro - Site Inovação Tecnológica",
+      "published": "2026-07-20T10:26:58+00:00",
+      "summary": "Nasce o primeiro componente orbitrônico puro&nbsp;&nbsp;Site Inovação Tecnológica",
+      "sources": [
+        {
+          "name": "Site Inovação Tecnológica",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWUFXUEpuWndnOEJneUVHS1c3RDl6M19iQ1VfRWk4VnYzLTF2TGdza0JOOERrUlFtUVJoNFEtSWdRUmx4Q2laMURtNHAxRUkwRVlpQ2FtNHhDZldIejhBSmozVENDelY1QWJ5RUVsajVfTUw4LVpwdjRVX2JWY2VJbW9QZHZuR1E4RnZOMjI5OXl5RFRXYlp1dk9yLVVfX0NKNUNCWm9YSVNyZnJ5Z3Yw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "0a4293e025d7",
       "title": "Diagnóstico tardio pode elevar sequelas em câncer de cabeça e pescoço - Correio do Povo",
       "published": "2026-07-20T10:05:29+00:00",
-      "summary": "Diagnóstico tardio pode elevar sequelas em câncer de cabeça e pescoço&nbsp;&nbsp;Correio do PovoCâncer de cabeça e pescoço: diagnóstico precoce pode elevar as chances de cura para até 95%&nbsp;&nbsp;GZHJulho Verde reforça importância da prevenção ao câncer de cabeça e pescoço&nbsp;&nbsp;G1Palácio dos Bandeirantes recebe luz verde pelo Julho Verde&nbsp;&nbsp;Portal ABC do ABCDor de garganta que não passa? Não ignore este sintoma&nbsp;&nbsp;Juicy Santos",
+      "summary": "Diagnóstico tardio pode elevar sequelas em câncer de cabeça e pescoço&nbsp;&nbsp;Correio do PovoCâncer de cabeça e pescoço: diagnóstico precoce pode elevar as chances de cura para até 95%&nbsp;&nbsp;GZHCampanha Julho Verde orienta população sobre prevenção do câncer de cabeça e pescoço&nbsp;&nbsp;Jornal da USP\"Achei que era gripe\", diz homem com câncer na garganta&nbsp;&nbsp;TerraRouquidão ou afta por mais de 15 dias? O aviso é sério&nbsp;&nbsp;Estado de Minas",
       "sources": [
         {
           "name": "Correio do Povo",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQTVnYmluLXhnbjdwNlhyVVViQXZaM3FKZFlWcFhJdThDWEk0d2RPcjczUGkwRkRYX2NqSmZIUnhDSTdWUFpiall2VnY4eUt2SG1IdnJzdGtqOU5RZHdXaTVJOUJJMEc4bDg3QjA2NHVpUmQ5YXlmQ0RfOWZCTGlXMUVoOUN5TUt2azZJVWNoc0VYdmx1RXQtTDNHVndwVGNXMTVDV1VDazFpVXp0Z3V2ZUhzd2dGbzZyOWJQd25MMEoxMHRraHNEZjZiZGFaUVlrdUI4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "32ff3e07451f",
+      "title": "Imagens editadas por IA ameaçam pesquisas sobre aves e preocupam cientistas; entenda - O GLOBO",
+      "published": "2026-07-20T09:40:54+00:00",
+      "summary": "Imagens editadas por IA ameaçam pesquisas sobre aves e preocupam cientistas; entenda&nbsp;&nbsp;O GLOBO",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcmpJczd4LVlRTFA2MEp0N3hjRWxzRVBUSUNMOUtUN3ZpQUtuUXZaOGZjRS1ENGd5TzktSk1EbVJxYkxHTGtfNFIzbmFjS09XekhxbjFoa20tZDFmRTF6QmkzaXZfNzNGN1VESDF4ZTVMSUZaT0VPWkppTjlHRmEteVlvRFhISnNGU2VFSTR0WHBPeVhpeTlIeGI4aUREbzZnYXYzNEkzT1NQTnduSHVhbHRhUWZLcmh2YjJPdFNhWWIwX3NYNlNtYlZza2pGWVF2NGJlamVYcU82QUluamdPWTBZUGc5V2hz0gH3AUFVX3lxTE9zUkNOamotM2k5YVA5VWNPamNpUGk0dm8tMlRzQkNzblVoX1VYODRQaG1YaWQ0NmVDWVFrMUo4bllQUTVYX3pUeU9kOHpvTjYya3B5UlZnekh6Y2JJRDJKTUlyUkh1cU1nM19YOU9iSVUtaTV5NVF3WUtTR1phWTFfdWZCdldtVXBQZnRTSWw3akE3NWhRbUl6VDVYX1JMUTFQQXUzVU1FSXIxdHV5QnJ5ZlJydEVQajZnbzhyc0M2clk1Z2p4OUV6UDh0X0NLNU45dGNnMkFqakNUVWR0ZXZNNXdBOEhUbTFIR0h6VFpVSnZybnlXd0E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "da7e20faba9f",
+      "title": "Mulheres fazem história com estudo mineiro que pode acelerar vacina universal contra a malária - O TEMPO",
+      "published": "2026-07-20T09:00:04+00:00",
+      "summary": "Mulheres fazem história com estudo mineiro que pode acelerar vacina universal contra a malária&nbsp;&nbsp;O TEMPO",
+      "sources": [
+        {
+          "name": "O TEMPO",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOb3hJcmlxMmQ0R1ljZXZFb2wwZjJHYWR0TDZQNnNVMlJWTU14bk1STHRZbHFyWVo2QXdha0trcGZ2cUVzdngtUTIwZWdsRnpETUx3NVNJT3RHQVdtUE8xVDY2TWRPT0MyelV0RmpRZkRpeDVVQlRRcVpPVWJXakdoWXlRcEEzWVlOSlV6eWFZa2lmOU5SVjBIWTVUSWcwUHZnWXFETzZSZm1SYXZPSE1RbUZKU2ZZa05tT1QwN29OTkNxVkNkQndtSkROYXhTb3JiWGEzaNIB2gFBVV95cUxPQnhhVkZWRS1mT3YzMXJQam5GZnFJSEdqTUR6YW9uTnZhMXByaVFGY0FzQ1ZlcXZKc19ydDA0dktDM204SlRKNUpQcDF0Q3otN0o4bGJxWVJRVEpUOWtJTDF6ZmZUM19mLVFZMlM2d3pTVXAwNS0xRmtGd0VuaDJ6RWJLMU1rWUpxUjRjWWZ0WTRTbll0NFk0WVV5bFc4WHhHZmZwbUVHd3JVRW1FTTNtMFdZb0w3R2ZPXy02QnBzRDZUSVRoX0FXN2tSUUV5eThmQkJMRGFOMUZhUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "27d2ee40ee94",
+      "title": "Câncer de intestino: 2 em cada 3 brasileiros não conhecem exame preventivo - UOL",
+      "published": "2026-07-20T09:00:00+00:00",
+      "summary": "Câncer de intestino: 2 em cada 3 brasileiros não conhecem exame preventivo&nbsp;&nbsp;UOLCâncer de intestino: brasileiros reconhecem sinais de alerta, mas não buscam atendimento&nbsp;&nbsp;G18 em cada 10 brasileiros reconhecem sintomas do câncer colorretal&nbsp;&nbsp;CNN BrasilUm ano após morte de Preta Gil, brasileiros desconhecem exame para diagnóstico precoce de câncer colorretal&nbsp;&nbsp;VEJAPesquisa aponta que 43% ignoram principal sintoma do câncer colorretal&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbEwyY0E4Y0FJNERHelIzRllrcDVvbWpWaDJGWEp3ZkJjM3Q5TjNHYjY1aHFDRFpqRGRkUGwxQnhhNkVlcjB3YjdKX2ZZN0trUVNQb3U2QTcxS2VwMHZPRmQxUzFXTElIQWxISzF6Z1hVdkp2RTFiQ3dOUTA5RnZtTUhvRXNxY3FhVmlhVWZDLUpoVExhU1UyOUpjaVo4SDlOYUxrb01oWi1GZFdmbUFGV3Frd0h1dFVlMHM4dDFZdEszUUk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2512f907bb1c",
+      "title": "Aos 18 anos, ela se formou com a média perfeita de 10 e vai estudar na faculdade que seleciona os vencedores do Prêmio Nobel de Medicina - Portal 6",
+      "published": "2026-07-20T08:31:52+00:00",
+      "summary": "Aos 18 anos, ela se formou com a média perfeita de 10 e vai estudar na faculdade que seleciona os vencedores do Prêmio Nobel de Medicina&nbsp;&nbsp;Portal 6",
+      "sources": [
+        {
+          "name": "Portal 6",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNM1gtVWhqZWNWLVZfbG92WVpoWVRMV3kzOTUzeXZtWG1sSm93U1lNX2RYOHlQVU1qN1dmb3h3U3JzOVcwVEJBdHJwRGsxOGtmdXU2Y2xRQU1uRTlpQmZObnh0OUFjdzFDYUZqdkZVak1rTmMyT0VSYUxGWW1XWkdGRVpLUkpqMHZNbXFkODNnMVlnVVlMbHJfLXVmZTJkZ0ZkYi1aTk01Xy03Qm1zaGVWZG95OERHMk80NVh6OXFFWlA2OGFmRWtnaHVEZUVrWjJGUDN5OGY3SXdQaXUwek9MWC1EalFqaEt3TzFKT2M2dHh2Smkyek04SHFZT3ZWYWc?oc=5"
         }
       ]
     },
@@ -45,7 +177,7 @@
       "id": "3cc4656540f8",
       "title": "Suplementos de ômega-3 são realmente benéficos para o cérebro? - Folha de S.Paulo",
       "published": "2026-07-20T07:00:00+00:00",
-      "summary": "Suplementos de ômega-3 são realmente benéficos para o cérebro?&nbsp;&nbsp;Folha de S.PauloEPA ou EPA+DHA: qual forma de ômega-3 protege mais o coração, segundo metanálise de 38 estudos&nbsp;&nbsp;Tua SaúdeÔmega 3 funciona mesmo para o coração? Grande parte ainda acredita em uma promessa antiga, porém revisões recentes mostram nuances&nbsp;&nbsp;Tua Saúde",
+      "summary": "Suplementos de ômega-3 são realmente benéficos para o cérebro?&nbsp;&nbsp;Folha de S.PauloUma análise recente aponta que o ômega-3 pode contribuir para aliviar dores crônicas que persistem por vários meses&nbsp;&nbsp;Tua SaúdeÔmega 3: conheça tipos e como escolher o ideal para você&nbsp;&nbsp;GloboEPA ou EPA+DHA: qual forma de ômega-3 protege mais o coração, segundo metanálise de 38 estudos&nbsp;&nbsp;Tua SaúdeÔmega 3 funciona mesmo para o coração? Grande parte ainda acredita em uma promessa ant",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -57,7 +189,7 @@
       "id": "dd27928e6a7b",
       "title": "Três sinais da menopausa que muitas mulheres ignoram, segundo médica - Metrópoles",
       "published": "2026-07-20T05:00:00+00:00",
-      "summary": "Três sinais da menopausa que muitas mulheres ignoram, segundo médica&nbsp;&nbsp;Metrópoles#OHospitalResponde - Perimenopausa | #DomingoEspetacular #Shorts&nbsp;&nbsp;R7“As falhas de memória e sintomas depressivos podem começar anos antes da menopausa e acabam por ser desvalorizados”&nbsp;&nbsp;ExpressoNovo medicamento dobra sobrevida em câncer de pâncreas e traz esperança aos pacientes&nbsp;&nbsp;Portal Farmacêutico - PFARMAUm terço das mulheres desconhece a perimenopausa, diz estudo&nbsp;&nbsp;",
+      "summary": "Três sinais da menopausa que muitas mulheres ignoram, segundo médica&nbsp;&nbsp;Metrópoles#OHospitalResponde - Perimenopausa | #DomingoEspetacular #Shorts&nbsp;&nbsp;R7Precisamos de falar sobre menopausa. \"Ainda se acha que as mulheres têm de se manter jovens e bonitas até ao fim da vida\"&nbsp;&nbsp;maxima.ptNovo medicamento dobra sobrevida em câncer de pâncreas e traz esperança aos pacientes&nbsp;&nbsp;Portal Farmacêutico - PFARMAUm terço das mulheres desconhece a perimenopausa, diz estudo&nbsp",
       "sources": [
         {
           "name": "Metrópoles",
@@ -66,14 +198,26 @@
       ]
     },
     {
-      "id": "427c6d9f0cb9",
-      "title": "Câncer de intestino: brasileiros reconhecem sinais de alerta, mas não buscam atendimento - G1",
-      "published": "2026-07-20T01:24:30+00:00",
-      "summary": "Câncer de intestino: brasileiros reconhecem sinais de alerta, mas não buscam atendimento&nbsp;&nbsp;G1Um ano após morte de Preta Gil, brasileiros desconhecem exame para diagnóstico precoce de câncer colorretal&nbsp;&nbsp;VEJACâncer de intestino: 2 em cada 3 brasileiros não conhecem exame preventivo&nbsp;&nbsp;UOL8 em cada 10 brasileiros reconhecem sintomas do câncer colorretal&nbsp;&nbsp;CNN BrasilCâncer de intestino: o que Preta Gil disse sobre os sintomas da doença&nbsp;&nbsp;gshow.globo.com",
+      "id": "b2438f74fed3",
+      "title": "Aspirina pode salvar vidas em caso de infarto agudo, mas exige atenção - Metrópoles",
+      "published": "2026-07-20T05:00:00+00:00",
+      "summary": "Aspirina pode salvar vidas em caso de infarto agudo, mas exige atenção&nbsp;&nbsp;MetrópolesAspirina pode ajudar nos primeiros momentos de um infarto, mas não substitui atendimento médico&nbsp;&nbsp;Fato AmazônicoAspirina pode salvar vidas em caso de infarto, mas exige cuidado; entenda&nbsp;&nbsp;Diário do Centro do Mundo",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOa3hDckFHVk5VM3NMWTNKaERCUWlzMjBoZzV2aXpVN2lBOUI0VDhIaEtPQlp6NHhTUjZyeHhaeXl1ZDZnZGdtalhPRE1wMnVxQkVVcHAtN3IxaEhuelR0RjkwVWlNcHJUdGhxdnBLNVhmaDdZX3JSVFB4QW1JcEp1X29ZbFZIWW9jRS1pUHg4Zy14VlZWcklITllYM0N2bnAteDIwQi1Majl4RUl2elhTLXE1bUdac2t0a0pxNUdZeWZvaHBSWHNnakY2Z3BBSHNfSFFaQUxZWnNNZUnSAeoBQVVfeXFMTVIzOE02RHRRbllLZEVsMjZqQVg5RFQ5Q3dROGlZaVhxQkxGOU5FNVB2VGhzRGdiTXBuY0ZSNHVtQWhua3FNNzBOT3lzaWdxcGhxZmV5VUp3MVQtMkU2Z2lvOWJMMEJPN3dpdk5QXzRQTllaYWNyV1VMdVJ4UVpPeFN1T2wzdzRpa0tFcWtyWDlsbTREVGJTdGNDalRzN0VuYVdKVlE3Rjl6VnpsMDV3LUFqZm9QMllhMFRSbVpxS1ZaTzhNcTB0WldZV3NSZzdoa25JLUM0T05ZbHAwNXhkNER5dk1PNDFmNFZR?oc=5"
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNUF3djZrNGoxR0c1QS04Tk5xaUhCQmJSS0ExQjF1N2hRVWNyTFFlZlBMX1FSYW5VNFhndmZjZjNFeS1ZTDRTbU9MRnV3YzdWRDhVSEF2MzVZb203Ukd1YXQ4R0gxX0ExNkZTcC0tdmFJd0VtUVJMV29USEQ4YlRidg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3848a2c31fd2",
+      "title": "Kardashev: índice mede desenvolvimento da sociedade pela energia gasta - Metrópoles",
+      "published": "2026-07-20T05:00:00+00:00",
+      "summary": "Kardashev: índice mede desenvolvimento da sociedade pela energia gasta&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBENjQzemtaVlRkNng4aUJXenNRcnhxbkhmcWZBLXdLaU5VR28tbmMxVlYxMTA1TEdFb2szUlpHeFdVUzExQWkwVGpLaWd6c25rY2JUV1ZCejh1ajUtNHh0eW1mUnlPWVVUZjRCTFhKUQ?oc=5"
         }
       ]
     },
@@ -86,6 +230,30 @@
         {
           "name": "CPG Click Petróleo e Gás",
           "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPb1Z4WGdLazRqZEgtWUg1N2MwOEdFLWV3S0U0cFBwem5ybVRDQ1BpaDNhQzVsT1JFU1ZmTFNXX0wtelBuSHZncFY2U1loTEFHQ1p0RFVJbWVsbXh0N1lGUDc2ZzhlT3hhdW13WV9RdzV4c2JZcFE1LVRGeklhQ0hvRXhfVWF2VGxMMWtFY1ZMdWI1Z0g5Wng4ejJTNVdyTExSeExRbTM4bERnaXFndFNjWVpGc3BYWlphRUJOZ3doOUY4ODFQZGhrYVp0UnlrZG1YOVZsUW9JM0p5VDlLM1lkdzNlbE9Jc3FzOTRuX09CblViYUNSQ0tKbVdNVGU2LWFLY0FBUldZQXVXckZlVl9yQU9nVGlhV1dYUDJueTN3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bd23b94070ca",
+      "title": "Cientistas fizeram uma descoberta revolucionaria sobre minério de ferro que redefine a história do planeta - O Antagonista",
+      "published": "2026-07-19T23:43:00+00:00",
+      "summary": "Cientistas fizeram uma descoberta revolucionaria sobre minério de ferro que redefine a história do planeta&nbsp;&nbsp;O Antagonista",
+      "sources": [
+        {
+          "name": "O Antagonista",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeTNtb0M2VTVnUzNJOU5PWExBdkdzWVFzaVBtUGc2MTRwa19pNmI3REUtbEZhRGZzb0xnUU1JdEN2Q1kzSGNpMjhEdmV4MHpEVjYtdHl5Wno4WThndjBNNk1CUXFsM2dHZzlwbV9kaHcxbWF2dG9SeGxKUVptdkpWalh6S1VKa0ZXV3dfcGNnMENDV01QNC0wQk5kNWpFYmFjN1drOEsyV0s5NkRWSzY1WDVZcVBnZDYwZ1BZeTFEX3dlZHdieXB6b2ZMTE8zZkx3M2pMQ2taWEg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fcc2aeb1970a",
+      "title": "Nísia Trindade diz que nova pandemia vai acontecer e cobra preparo do Brasil - Diário do Centro do Mundo",
+      "published": "2026-07-19T23:03:00+00:00",
+      "summary": "Nísia Trindade diz que nova pandemia vai acontecer e cobra preparo do Brasil&nbsp;&nbsp;Diário do Centro do Mundo'Uma nova pandemia vai acontecer, a questão é quando', diz ex-ministra da Saúde, que lança livro sobre crise da Covid-19&nbsp;&nbsp;O GLOBO",
+      "sources": [
+        {
+          "name": "Diário do Centro do Mundo",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORExFRGE5RGVROWNvMjlnNi1OanRnNXh2OG9sS1BEemh2NWNZU3VsVER6V2ZoYmcwV1BSUzdpbURzYmdkM1pJbktUTDJXOG5VcHE1VDhQaGF5R3cyUkthRTJpU1ZybEMzRllrdEpETFk3MlNERWZHMjNDdFdvU1JaMklWZVFJMkJTdW1QcS13?oc=5"
         }
       ]
     },
@@ -114,10 +282,22 @@
       ]
     },
     {
+      "id": "a1f5449377a3",
+      "title": "Cientistas descobrem como café ajuda na saúde e envelhecimento - Folha PE",
+      "published": "2026-07-19T17:58:32+00:00",
+      "summary": "Cientistas descobrem como café ajuda na saúde e envelhecimento&nbsp;&nbsp;Folha PEVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "Folha PE",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZEEybTV0cVVGQjliNnhQRjhJQnh3TUxjNmVDZldyMWtyR1FzSm42LTIzVm42QlF5dzZlNzlTSXJ2UXNVNGF0emVnUVZDbUQ2UDVpaS1Ubk5vNjdsN01iVmY5RVpuR0Rlb0tOcW41YlVtdUg2RmlHYmQzLXdMTW01cmkyT3NWUlZ6c2EyckE2djZkOF9RZldSLVhhQ3hJS04teVZkcThoYm92QQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1c8992c83645",
       "title": "Perder peso já não é a única meta com Ozempic; entenda - Olhar Digital",
       "published": "2026-07-19T17:30:00+00:00",
-      "summary": "Perder peso já não é a única meta com Ozempic; entenda&nbsp;&nbsp;Olhar DigitalQuando é hora de reduzir ou parar Ozempic e Mounjaro? Primeiro consenso internacional orienta o uso dos medicamentos contra a obesidade&nbsp;&nbsp;G1Julho Neon: especialista alerta sobre uso das canetas emagrecedoras e a atenção redobrada com a saúde bucal&nbsp;&nbsp;Agora RNUso indiscriminado de Ozempic pode causar dependência emocional e novos problemas de saúde, alerta médico&nbsp;&nbsp;Jornal OpçãoO que as canetas",
+      "summary": "Perder peso já não é a única meta com Ozempic; entenda&nbsp;&nbsp;Olhar DigitalQuando é hora de reduzir ou parar Ozempic e Mounjaro? Primeiro consenso internacional orienta o uso dos medicamentos contra a obesidade&nbsp;&nbsp;G1Uso indiscriminado de Ozempic pode causar dependência emocional e novos problemas de saúde, alerta médico&nbsp;&nbsp;Jornal OpçãoCanetas emagrecedoras podem criar um novo tipo de 'dieta ioiô'&nbsp;&nbsp;Folha de S.PauloParou o Ozempic e engordou tudo de volta? Nutri expli",
       "sources": [
         {
           "name": "Olhar Digital",
@@ -134,18 +314,6 @@
         {
           "name": "Tua Saúde",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWm5zOXB3bWVNcFBMN3RwRFVSRHloRXhobWJHSVdqSnozcFFfN1FzV0RSLW1CaGdKajd0N0NBQVdtNnZLMkhOc3FXQ2l5RGFNdFpBbGNSM3VIUnJSalpqdWNGQXE0bkZtMGVEcWlOMmlxeUhQeVZwTEdNSlF3cW5BS3Z2cXFJVHdMT214M1c5ckR6ZDFPU0dqSFZfbXREUzNhdFZNbGVWVFkzWVYwS0loczlDWk5EVWVJZHJoZlZrRC1xVUo1TldFanVmWWt0V2ZTUzlZTC15SlZLdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "869dbc9edcea",
-      "title": "Depois de anos usando ganchos no lugar de uma mão, menina de 10 anos ganhou braço robótico de jovem que começou treinando com LEGO aos 14 anos, passou seis anos aperfeiçoando próteses e imprimiu dedos com unhas iguais para ela deixar os ga - CPG Click Petróleo e Gás",
-      "published": "2026-07-19T16:30:00+00:00",
-      "summary": "Depois de anos usando ganchos no lugar de uma mão, menina de 10 anos ganhou braço robótico de jovem que começou treinando com LEGO aos 14 anos, passou seis anos aperfeiçoando próteses e imprimiu dedos com unhas iguais para ela deixar os ga&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNMS1sZlA3SVlZZUxUWWE2a3Q2RFg0N3lpdTFORjFYX0FVRGNoT1BTYS1iaGNxN1NZMXdyNWVERm03amhFUHVuYm1ONVI5NlBEcjBhRXFYWnZHWVVrQzBZcW51em81cGE2dGp2QWJTRERuRGxnSG9QU3FXbW5GXzJTcTlobURheGlYSGhPQjFHeVdxRGxUcVVRUGh1M0ZpT0pGazcyOGFUNVlMMGFnZDlueXJBTFZnT3FLMklqSTU3cTk2ZzZyVldjT2hkbDlzcFNTMDB6V2tUbVhEaXZKVmkzcV9YT256azJoQ05YaDJkYXBXaVhneWk0bVZXNTVtazU5TE9nTk5FWGZBZTJZcUZKcHo5TGVFZkdDX1FrWFRmV1ZNQ3MyTWdjRFRvaGxPajJVOFRfblN2b3NPeU5CMDkwU2k4dGMxWVU?oc=5"
         }
       ]
     },
@@ -174,18 +342,6 @@
       ]
     },
     {
-      "id": "38021db62538",
-      "title": "Cientistas descobrem como café ajuda na saúde e envelhecimento - O GLOBO",
-      "published": "2026-07-19T15:16:50+00:00",
-      "summary": "Cientistas descobrem como café ajuda na saúde e envelhecimento&nbsp;&nbsp;O GLOBOCafé sem açúcar e enzimas do fígado: o que a evidência recente sugere para quem tem esteatose metabólica&nbsp;&nbsp;Tua SaúdeQuem toma duas xícaras de café por dia pode reduzir o risco de câncer, aponta novo estudo&nbsp;&nbsp;Diário do ComércioQuem consome café todos os dias tem risco 14% menor de morrer, segundo a ciência&nbsp;&nbsp;tribunapopular.com.brEstudo surpreende ao revelar o que pode acontecer com quem tom",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOEJ0bGcwazRjTTA1eU9NVmtnOXVvX0p1MGh4ZWZLRXZLTUxoc0lNMUU2UTNKeFVUTG4zVHg5eDF1VWJYNGlMemh1ZlNoSHV6bXBCTUs3M1JiVF9TQUZjcEd3V2h5eENTZmhsNVNuSXVFMjhEZ3NjRlRvb2R2X3RtNUI1cGVienNTeEpMZ1g3bjZqYVJoYVJicWpmTFZuaUNCclExaURLNTQwV0tHdXg3R0ZzMzNwWWwzTnfSAcgBQVVfeXFMTTVtMnlCOXlKY05CQXUtcmlFckRJeXAzT3BEVzB1MldtR1ZXZmRyYUtOSkpXTU1CTzk3SUFudnF2Ym5RM2lJeFlnZEFmQUctX3BSU0o0bnZHVUFkT1ZTN3k5cjNRejVNWFNOZHI1RUx2ZjY2cDc4WlEzUjlScjQ4WlZPRkRNVjhFNWkzR2I2M18wUC1pQzNVTzExV29RTlpPeHBudnZ2eUZQcGRBTVpWVS12MEIxU3FkSmhubmU0eFJpcHEwRnJvbUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e1618a454b66",
       "title": "Por que nossos dedos têm comprimentos diferentes - 19/07/2026 - Ciência - Folha de S.Paulo",
       "published": "2026-07-19T15:00:00+00:00",
@@ -198,18 +354,6 @@
       ]
     },
     {
-      "id": "e50394df3b04",
-      "title": "Estudo reclassifica fósseis encontrados em Corumbá - Folha MS",
-      "published": "2026-07-19T12:38:00+00:00",
-      "summary": "Estudo reclassifica fósseis encontrados em Corumbá&nbsp;&nbsp;Folha MS",
-      "sources": [
-        {
-          "name": "Folha MS",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5laGFNZzQxQkpaRlpvRDNlbDRXOVE2ZjF5TGV5YVF1SWFkX05iNEtGdTZPUGhkWkRtUUpXVWF1cFpPT0tkZHdaWEZsZFZGdUo3MWZlM3dDeTNVdlkzVl80WDNFWUJwLUdjMjZUUngxSDFOS1pSc1JWUTVR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0bca19099be4",
       "title": "Trinta anos depois de Dolly: Nordeste brasileiro dá primeiros passos na bioimpressão de tecidos - O TEMPO",
       "published": "2026-07-19T12:33:52+00:00",
@@ -218,18 +362,6 @@
         {
           "name": "O TEMPO",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaWRWaUNzdFl4UENqal9MTUt5MFFTZnBkOXVrby1tdWNweVhTZkJZNGdWc2JHMVAwQWktS3NEa01yOE5MUTkwMmg4dUhOTVVDb1FiVEc3Ry1sWk5YbWE1Vmh2bUdfMUdVVktxRXNSNVpMeUNlRzRkUGM4STBSRHAtQWVFVHhoYTRKOEplOTI0c1FSQU5ZQkw2bHJUVFJTY0kyNjlqZFRnRExXLWRkQkdTMGk3WlFkUVROTnN1RlhNazlmTjNoaGt5ODFWVmxENmRvVUhN0gHYAUFVX3lxTE5WRUw4aEhUMlZ5c3JncFBtODZDdk5tNlNUQWVYT19mZ1ByQkIyY2FpRkpJOGw1djYxQmZmR0ZJZXBVM3c5STVWcS0zX1U5RG9sSC01TXlFRlMxLUllU2tNbXZMeWJmd1poR3N0bXpRS1hjdjcxZmxUS0Y1c0FUeExBTGpMQ2VlVmp4cE5QUnEzMjdsUlBrd2Zpb2hoM1lmT2J3c09hdnNlTFNqZ0ZpWElWNVhObXlLZDFtYWhWZXU2RFhKQjh4ODNlR0JDMVcyVDB5dEtKemlseA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "faee92a0432c",
-      "title": "Vacinação contra o sarampo, vagas de emprego e atividades de férias movimentam estações da Viamobilidade em julho - G1",
-      "published": "2026-07-19T11:47:10+00:00",
-      "summary": "Vacinação contra o sarampo, vagas de emprego e atividades de férias movimentam estações da Viamobilidade em julho&nbsp;&nbsp;G1Ministério da Saúde recomenda 'dose zero' contra sarampo em São Bernardo do Campo após casos suspeitos; entenda&nbsp;&nbsp;O GLOBOViaMobilidade terá vacinação, emprego e lazer gratuito em estações de SP&nbsp;&nbsp;Diário do Centro do MundoConfira os resultados das loterias desta segunda-feira&nbsp;&nbsp;GZHRibeirão Preto intensifica ações para prevenir o sarampo durante ",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOZTZ1UFkxMGVsUzZ1cHlBQjZtNXp3MU9NZ3hNa1pFNWNQMlF5YnYyTW42TVN3d2IwTWVBZV96VDB6WXM4U3U1NjN5ZXo2QnM5NlI5R3lTM2Q5RW5MeFkyRTUteEsyVlB6cjVkZy1UZE1yVkJZSDc5WVN3NXF2bGIzSVJGQnd5OGhoUExFeVJaWEhIQlBRUXoyaEIyWWNQRFlIdy12YUItR1BvNENPdjZ0TkZWQjhuWjRzS3NmYzUtLUNlRks1ME0tR19SY2x1anEzak5WQ1I0Z2ZUTjdna3pOd2lCb2FKbmJTb0owS3JkdzJqMm5Ic1YydjBEV1ByeWZH0gGPAkFVX3lxTE5XODhRVG9QeG0tazNlU0NzbUluLWd1V1ZWYnRwYnM4TjZhaDR5ZDZ0UTZ2Tm1YTVdZVGFZUmwtdHFLMkM1Smg0aFZZdlVjejVPbzBDci1VZjFQRHEwcFQwMkI4Nk80bElJZXdVOHc4ZWZJR3VmYXJlVkozVmNUNzNuR3FuOUY4eFotZGpTc1RrM1pyby1ETTdYU3g2S2Y2VE9FSFJZUjkwNzRkUWtsa2JIVnh2Ni1TeFNSV2R4c015OEgtRnpheTh5Rk9RUndWN2lrclVlVHZVdUxxUHV6cVVhVXlnbjBmM1JSdGxhaEN1NVFQQ0xuSzlQOUU0V2JxM0IzQ2ZWd21fZmlCd09OZzQ?oc=5"
         }
       ]
     },
@@ -273,7 +405,7 @@
       "id": "948a1e59f673",
       "title": "Não tem tempo para academia? Veja como 30 minutos de treino podem dar resultado - Jornal Correio",
       "published": "2026-07-19T10:00:00+00:00",
-      "summary": "Não tem tempo para academia? Veja como 30 minutos de treino podem dar resultado&nbsp;&nbsp;Jornal Correio5 mitos e verdades sobre os benefícios de 40 minutos de exercício&nbsp;&nbsp;MetrópolesTreinos físicos curtos de apenas 30 minutos garantem resultados reais para a saúde&nbsp;&nbsp;Jornal da FrancaTreinos rápidos ganham espaço nas academias sem abrir mão da saúde e dos resultados&nbsp;&nbsp;Agenda CapitalTreino curto funciona? Veja o que a ciência diz&nbsp;&nbsp;bomdiasc.com.br",
+      "summary": "Não tem tempo para academia? Veja como 30 minutos de treino podem dar resultado&nbsp;&nbsp;Jornal CorreioTreinos físicos curtos de apenas 30 minutos garantem resultados reais para a saúde&nbsp;&nbsp;Jornal da FrancaTreinar pouco não significa treinar mal; veja como aproveitar cada minuto&nbsp;&nbsp;Assine AbrilTreinos rápidos ganham espaço nas academias sem abrir mão da saúde e dos resultados&nbsp;&nbsp;Agenda CapitalTreino curto funciona? 5 mitos e verdades sobre como 40 minutos de exercício po",
       "sources": [
         {
           "name": "Jornal Correio",
@@ -285,7 +417,7 @@
       "id": "b8070a6d0dc4",
       "title": "Dr. Kalil e ginecologistas explicam se existem graus de endometriose - CNN Brasil",
       "published": "2026-07-19T09:00:23+00:00",
-      "summary": "Dr. Kalil e ginecologistas explicam se existem graus de endometriose&nbsp;&nbsp;CNN BrasilDr. Kalil: Ginecologistas mostram o papel do estilo de vida na endometriose&nbsp;&nbsp;CNN BrasilEndometriose afeta milhões de brasileiras e desafia diagnóstico precoce&nbsp;&nbsp;R710% das mulheres tem endometriose, dizem especialistas a Dr. Kalil&nbsp;&nbsp;MSNAlerta de saúde: Cólica intensa não é normal e diagnóstico precoce da endometriose é fundamental para as mulheres&nbsp;&nbsp;RRMAIS",
+      "summary": "Dr. Kalil e ginecologistas explicam se existem graus de endometriose&nbsp;&nbsp;CNN BrasilA luta de Cíntia contra a endometriose: sua sobrevivência depende da cirurgia para endometriose&nbsp;&nbsp;TerraEndometriose e saúde menstrual: chamada pública financiará pesquisas para desenvolver tratamentos acessíveis pelo SUS; inscrições até 12/08&nbsp;&nbsp;www.gov.brCólicas intensas podem ser um alerta; especialistas e Dr. Kalil explicam&nbsp;&nbsp;Folha de IratiEndometriose afeta milhões de brasileir",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -309,7 +441,7 @@
       "id": "1e5f34449ec6",
       "title": "Pressão alta pode cair com três hábitos que vão além dos remédios - UOL",
       "published": "2026-07-19T08:30:00+00:00",
-      "summary": "Pressão alta pode cair com três hábitos que vão além dos remédios&nbsp;&nbsp;UOLQuanto potássio por dia realmente derruba a pressão: a meta-análise dose-resposta que mediu a queda na sistólica&nbsp;&nbsp;Tua SaúdeTrês hábitos simples que ajudam a derrubar a pressão alta&nbsp;&nbsp;Diário do Centro do MundoPressão levemente alta: o que a ciência diz sobre combinar magnésio e potássio para reduzir a sistólica sem remédio&nbsp;&nbsp;Tua SaúdeEstratégias alimentares sem remédios para controlar a hip",
+      "summary": "Pressão alta pode cair com três hábitos que vão além dos remédios&nbsp;&nbsp;UOL4 proteínas vegetais que ajudam a controlar a pressão arterial&nbsp;&nbsp;Notícias ao Minuto Brasil5 proteínas (veganas) que ajudam a reduzir a pressão arterial&nbsp;&nbsp;Notícias ao MinutoEstratégias alimentares sem remédios para controlar a hipertensão, segundo pesquisas&nbsp;&nbsp;Tua SaúdeDASH e a dieta mediterrânea: veja como elas favorecem a saúde do coração&nbsp;&nbsp;GZH",
       "sources": [
         {
           "name": "UOL",
@@ -330,18 +462,6 @@
       ]
     },
     {
-      "id": "6dfadc1653e5",
-      "title": "Amazônia pode não se recuperar de seca do último El Niño mesmo após sete anos, diz estudo - Folha de S.Paulo",
-      "published": "2026-07-19T08:00:00+00:00",
-      "summary": "Amazônia pode não se recuperar de seca do último El Niño mesmo após sete anos, diz estudo&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbjNuUGt3QjJOYkVmSjdHaGNDazg3WkM0R1p0N2RCaEZxS2VNMkt4WU0tV2YxaXZvcFZjUVB4aFk2WWh5R1ZIUV9HMy1seE9qOUlxT2NES1lWMDQ4WjVNdkpzdnVMVDZOcDZ6OFB4a0RNb05qRE5TR0NVbVJ4REMwbXlKeEpzNmNoNE1lTXYtaF8tSXlwYUdISG5VdzFNdkpGelVSeERzdlRFTUhXNDlSU3ByaEZtUlJMenpaMEVDMXJoLWsycHVnSjYyUUdOQlk0eHhEM1VJa1c?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3c4635f8f5b1",
       "title": "Ciência mostra o que pode estar por trás do inchaço frequente nas pernas ao fim do dia - Tua Saúde",
       "published": "2026-07-19T07:50:00+00:00",
@@ -354,50 +474,14 @@
       ]
     },
     {
-      "id": "ee14786d9faf",
-      "title": "'Uma nova pandemia vai acontecer, a questão é quando', diz ex-ministra da Saúde, que lança livro sobre crise da Covid-19 - O GLOBO",
-      "published": "2026-07-19T07:30:21+00:00",
-      "summary": "'Uma nova pandemia vai acontecer, a questão é quando', diz ex-ministra da Saúde, que lança livro sobre crise da Covid-19&nbsp;&nbsp;O GLOBO",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOZFM0MmtEZXJIN3FGc3dqeElZMmFzZjBzNDhDSjFKc2l5dWw5b1JKdlhyRE9pbTA1cFJpQ1hwVzY1RFA0UE8zcDZyRDJZX0M0di1aVmtvS2ZTaVFKT2Izd092Z1ZYczY4OFZ3SWE4eFhSTGNtYkFxNWRMN01NaFNZRTQtc3NGc1ZjeGh4bms5dTAwUDJFQVlScmg4QXVqb29sWk9na1VXQm9xTHNhRHFwc2pzck43WkUzOWNUWmhlZG5WclhiYmk4YVJoUThNcjhwX1F6X05LbDFKaF9ETXU5V3FzdUZVMTFUa3FSakF4Qnc3NVp1TWR1cmpKX3djeWNm0gGPAkFVX3lxTFA0UV9FSnZkTDM1UlpBdmFXMGtEQkhGX3puMjk4X0dnUEJxajRnajVKaXU0ZFhIRGJqSFg0N2UwNXVZWHlCY1ZpM2FkeFh0MDhKci1nMXpWeWowQVJQRVVkQ3V5MksyeWY5Mk1UTzdPSEVoanBGT3ctS09JVXJHSUdWTTc0THUxZ09KQm14blVQUGhmRFY5U3FLaGxPQ2NCZXJiSFZaeTljSExyc3pSRFBjVHdIMEhBbk4xbEJSY2hiMXE2bTJwNmdwcndOTWV0VFBJSXdXUzl5QmN6UjlVOW05dGV3YXNSNk8xTmlQZU5aSTNPeGxmUThJVmdfNC1tMjhCdjdnUTJnanBwUGUxemc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "44097eacf9c4",
-      "title": "Fibrose pulmonar idiopática: doença rara afeta mais os idosos e exige remédio de R$ 20 mil por mês - GZH",
-      "published": "2026-07-19T07:03:16+00:00",
-      "summary": "Fibrose pulmonar idiopática: doença rara afeta mais os idosos e exige remédio de R$ 20 mil por mês&nbsp;&nbsp;GZH",
-      "sources": [
-        {
-          "name": "GZH",
-          "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPeXlSNy1PNHhycGo3NEstaWZBX01UNzlrRVpOVUdmSzVuU3VyTzVBRi0wWHBOcVIyX2JHZm5Jd0dsbjZ6NkJ1b1duemRxbFhqQ1dVN2k4SU1RQmtOS0c3OFR6SEZobnBYclFPN2lFemdva24zRGx1dGJYa05LLUJOdnBpd2RrMllhX0pSTVQtMXhIdmZleHlGSzBrdzkzQ3JOMC15cXpFMUhLUVJ2Qy1JTElBZFNBWlBCem1NS2JnYWNlRXdVb0Q3elFSTlpwY0lQY2g4MFFhZkY4aVZINHJYVno4MWxrYXZacGJTWFVoR3lwMWU2YWJSLU9rNDRzQjgxTzFVZFhjWTF5cC1iLXJVSmRlVmtZdENuMEFGWTlMbkY?oc=5"
-        }
-      ]
-    },
-    {
       "id": "dcdb75278951",
       "title": "Por que tanta gente está tomando magnésio? Saiba o que diz a ciência sobre o suplemento - O GLOBO",
       "published": "2026-07-19T07:00:11+00:00",
-      "summary": "Por que tanta gente está tomando magnésio? Saiba o que diz a ciência sobre o suplemento&nbsp;&nbsp;O GLOBOPor que tanta gente está tomando magnésio? O que a ciência realmente diz&nbsp;&nbsp;Notícia Toda HoraA forma de magnésio mais indicada para quem busca dormir melhor e reduzir a ansiedade, o que a evidência mostra&nbsp;&nbsp;Tua SaúdeMagnésio: você precisa mesmo tomar? Saiba para que ele serve&nbsp;&nbsp;Rádio PampaMagnésio além do sono: médico explica funções do mineral no organismo e difere",
+      "summary": "Por que tanta gente está tomando magnésio? Saiba o que diz a ciência sobre o suplemento&nbsp;&nbsp;O GLOBOMineral milagroso: Descubra o que o magnésio realmente faz no seu corpo e por que ele virou a maior febre de saúde&nbsp;&nbsp;Diário do LitoralPor que tanta gente está tomando magnésio? O que a ciência realmente diz&nbsp;&nbsp;Notícia Toda HoraA forma de magnésio mais indicada para quem busca dormir melhor e reduzir a ansiedade, o que a evidência mostra&nbsp;&nbsp;Tua SaúdeMagnésio: você pre",
       "sources": [
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMEZiVER5cEZGU2FGVi0wUWZ2dHVrTXZSdXlVclplRVFZeHQ4T2szM1oxX1BoM1ZVbnhZWDN4a1lrTEpsdUFuZHNYVWtkYW9QaDB2WXRhLVNQQm5HbC1tdzh1R0x0ZFZTM2l5Nkg4U3dvWG1TVkpWTzJkMWxPVEVwX3dnbnBtRFhRa0M4S00wRU1Ed0JZTWVyTHpJbnFFN285RG1XNURxYnhSOVcwYVRJY1dzVHRxY05WaTU5M0JYaUNwUEJBb1NOeWV5SHRTU2lIM0VhY2VZY05IZ9IB6AFBVV95cUxNVGlvcUpyYkJhMklNQUN6WE5SeWpTWjB0c1ZwOUpHSkVXN0w3dXpITlJ0NjFkUHA0RVN0UU5Pd3AtVVZGZHk1LTRaaFRzMGdNTUhobVdndnhlRVJIM1l0c1YwNmRuaDhSMFdhaWtMOWxDOWZCeURZZG54THNuWnRJWE1YV0F1VnVvQko2VVNNVnJlWG9XcExGR1lvUDN6QzJmd2hLXy1lRmxRZE4tSHRlbGpvdi1qejRuTWc3Rlctc1MzdWg0UEtReUNEMVl5eDBQSGdWcGpRbGUwUlltUnQ5X0ttUW05aE9U?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "75503e3ea028",
-      "title": "\"Achei que era gripe\", diz homem diagnosticado com câncer na garganta - Metrópoles",
-      "published": "2026-07-19T05:00:00+00:00",
-      "summary": "\"Achei que era gripe\", diz homem diagnosticado com câncer na garganta&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1GMjlYWFIwTjZ4OU1DeEFUdk8zYXhLSlB6OFVJWm5NemM0ZTdTaGRuSE1xUmxRUGRvZUdBajQ3SFZSRGdLdVJiTERNU2FuMVJNb1RWN01lUTRvUFFYS1pBcklxUk9Vb21TaDB3ZU1jN25jVGUtR2txYnVhdw?oc=5"
         }
       ]
     },
@@ -417,59 +501,11 @@
       "id": "24283921eecc",
       "title": "Dor de cabeça pode ser sinal de doença grave; veja quando procurar um médico - Jornal Correio",
       "published": "2026-07-18T22:55:09+00:00",
-      "summary": "Dor de cabeça pode ser sinal de doença grave; veja quando procurar um médico&nbsp;&nbsp;Jornal CorreioCefaleia: dores de cabeça podem indicar doenças, alerta neurologista&nbsp;&nbsp;Folha PETer dor de cabeça não é normal; conheça os sinais de alerta&nbsp;&nbsp;Estado de MinasEnxaquecas: “Viver com crises frequentes não deve ser encarado como normal” - Madalena Plácido – Associação MiGRA Portugal&nbsp;&nbsp;SAPODor de cabeça súbita e explosiva, \"a pior da vida\", é um sinal de alerta que não pode ",
+      "summary": "Dor de cabeça pode ser sinal de doença grave; veja quando procurar um médico&nbsp;&nbsp;Jornal CorreioCefaleia: dores de cabeça podem indicar doenças, alerta neurologista&nbsp;&nbsp;Folha PEEis as sete coisas que uma dor de cabeça matinal pode revelar sobre a sua saúde&nbsp;&nbsp;ZAP NotíciasTer dor de cabeça não é normal; conheça os sinais de alerta&nbsp;&nbsp;Estado de MinasDor de cabeça súbita e explosiva, \"a pior da vida\", é um sinal de alerta que não pode esperar: quando procurar socorro im",
       "sources": [
         {
           "name": "Jornal Correio",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVTVLcVl6SlhpbGR2R0NsbHJlWjZiYjNQNVVIeTVKdkxfWk5mWHZZZXRsT3ZzTkpaQWNuX1paSGxtUVF0ZTZjVVBYdkduVTFfM3d4eFhuclk3U096UENEaDFSNE16NlVhWW1jYjZIdVpkSk5tV1BNa2E1TVg2NFVfeThaSG12X0lTcXNUZHE0SU9faGo0TnNPUmlCeC1PRURya3hKeFZ0SHRUNDlwTmVaekNKX2MyUVh3bThNUg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e00fc4a4e497",
-      "title": "A ligação pouco falada entre microplásticos de ultraprocessados e o cérebro que cientistas começaram a investigar em 2025 - Tua Saúde",
-      "published": "2026-07-18T18:35:00+00:00",
-      "summary": "A ligação pouco falada entre microplásticos de ultraprocessados e o cérebro que cientistas começaram a investigar em 2025&nbsp;&nbsp;Tua Saúde",
-      "sources": [
-        {
-          "name": "Tua Saúde",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOQnR4OEVhczBDRGotUkw0ZndjTnVremtnZ1JJREtNQ2FndFB6aEk3Tzh1QTg0Rk9LZ3FkRHdQcFNJNC12OGliWEdnd1kyUnhQQTBaeUhYVnBHMkFyNU5lQzdpdS16Sk9ibXFQUWZKc0E2ZXU1YVVfNWFValpBYkRaTm5KdGdjeF9STW5MQjZ2Mk1rYnhWUEptcDcxdDBNWHdraDJYTlhzSjg3OWJzaXVkdnRELVRMeF85Y0MzcG8wQ0ozMWptYk85MENZOW5WeFkybC1rZ29XbDFSUHBWUlIzTng4dEptQXpqc1owMHhCRVBNSXlJVkE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d2992e909b6f",
-      "title": "O que é inteligência artificial agêntica e o que ela já é capaz de fazer na área da saúde - Estadão",
-      "published": "2026-07-18T18:00:00+00:00",
-      "summary": "O que é inteligência artificial agêntica e o que ela já é capaz de fazer na área da saúde&nbsp;&nbsp;Estadão",
-      "sources": [
-        {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeGlPdEpNdFNUMWR1UVViMW5ObGh2bHdmc2ZDVWdxZWY3R2JaWWVrZmEtWlcxMm5tcEN5X1IxekdzU0YxWTRQQ1NYRlhrMHIyazhYSVdibjI3Qnd5MUpVYnVVczRSOWd1VnRya2cwb2VGZVA3YURILVlNSi1FWHVpbUJ0dy1xSHhaY2xhOU55YVdxRXJMbzEwUHk1V3FUUTM4Vm5CdzhkbkFHOXRLZWgyOFZZeURnbjEyd2pkeW83VXBTbFJFU1J0MHZjRmpmVVBIcWE0TFRPZFE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4b9cb951d878",
-      "title": "Pressão levemente alta: o que a ciência diz sobre combinar magnésio e potássio para reduzir a sistólica sem remédio - Tua Saúde",
-      "published": "2026-07-18T16:10:00+00:00",
-      "summary": "Pressão levemente alta: o que a ciência diz sobre combinar magnésio e potássio para reduzir a sistólica sem remédio&nbsp;&nbsp;Tua Saúde",
-      "sources": [
-        {
-          "name": "Tua Saúde",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTEhPZS1nLTloOGxwUEp4TklFdzlCMWZfOEE0Nnd5Si03aW5JY3oxTThNQzlNa0kyemFoRjZna2hwMXJYSjVpakJIdktfX3hPSEtzbkZoeTVpb3ZMX2ExN3h5YjFoY2tUSGNlV3BkYlRTSERkUWhSWUlLdFBuWXRaUUpBczc4MWkwb1h5RHFLUXlvcWtQOWVrdzVKTEZkRkxJME1qQ2hOMXJiVFNweXBvZzBhUmVNWE84MWllV1ZBUDMtQkl3X2NxWktINFc0LWhRbWw1Ukh4OFZKN3g3TWlReEpZVU01dGFBeTZxRA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ca5666c97c5f",
-      "title": "Byung-Chul Han, filósofo: “A felicidade vem do trabalho manual. Sem as mãos, não há felicidade, nem pensamento, nem ação” - Minha Vida Saúde",
-      "published": "2026-07-18T15:19:59+00:00",
-      "summary": "Byung-Chul Han, filósofo: “A felicidade vem do trabalho manual. Sem as mãos, não há felicidade, nem pensamento, nem ação”&nbsp;&nbsp;Minha Vida Saúde",
-      "sources": [
-        {
-          "name": "Minha Vida Saúde",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tZUM4X2lHUmVTd2FaQVlmLWdSUFJRbHM5aHk1R3ZrVkZiTWVXc0k3LVZzQThsYW9xR0R1UTdJVjU4dlIyZmRWZXVRVFZiRVd5cW9LVUhPOEtldVhDQ0xKZtIBZkFVX3lxTE9ZNENhRnlzNE5KcjZNQmRwSy1GOW1YSm1wZDBLaV9kRjd3d3VWaGVXWXF4RDhRemFJdi1TUzdTRVNJXzA4Xzhfbi11U3FwTlh4cXI3VFRvaXdLWGpjTFhWWmxtWnMzUQ?oc=5"
         }
       ]
     }
