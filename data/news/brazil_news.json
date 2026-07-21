@@ -1,10 +1,70 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-07-20T19:45:16.041187+00:00",
-  "total_fetched": 100,
-  "unique_count": 98,
+  "fetched_at": "2026-07-21T02:49:45.960343+00:00",
+  "total_fetched": 98,
+  "unique_count": 97,
   "health_related_count": 42,
   "news": [
+    {
+      "id": "eedc8530c870",
+      "title": "Pesquisadores brasileiros quebram paradigma de 400 anos sobre sincronização - CNN Brasil",
+      "published": "2026-07-20T22:30:32+00:00",
+      "summary": "Pesquisadores brasileiros quebram paradigma de 400 anos sobre sincronização&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRU9qamtpVXRKZ2ROV0owaUhCWW9FbWo2c05DSVMyeFUtT1d4RU9vZnJsREJHT2VVVmtkSUQtdnVyeTJiQm52NTRaenZMQnEzSjVPSkg4ZDVZeWZYZGNIVXVJTy1obnRvTUVsRUhfRW9tQlIwa0dldWRWLVVIM2ZRZDBJTkdFSkhRY3dQcC1SbEpXTVZVQ04wbEc1T1FPMUY2c2lSZUpYRXoxZTZVQkFReEpuMA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a2f765cf5bfa",
+      "title": "DNA do Sudário de Turim lança luz sobre história biológica - Aventuras na História",
+      "published": "2026-07-20T20:23:34+00:00",
+      "summary": "DNA do Sudário de Turim lança luz sobre história biológica&nbsp;&nbsp;Aventuras na História",
+      "sources": [
+        {
+          "name": "Aventuras na História",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWmxXU3FEdXBpcVhxclpXNUVWQlRtSjE3WFNsMGxjVk9RZlRGaTdLa05oZklHNk1Xc1VtTVBKa3RxRTQ5SkhzVXlqZUFQQ080NERlLXpjM2NNNEhmSFE4MVpVclg0UHVxX2hSREt6dmFwMnQ3RGR0ZC1VcEJ5aWthNWhkN3hNbTBLWlJ4dDktOXlOVzBwSXRYcHd3UjZDb01wTGx0T0xLOW80WENMQnBZdzNSSTVsMVNDdk9aU3FJcw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6ffe44c23f1c",
+      "title": "Mais proteína que o ovo: o vegetal que pode ajudar seus músculos - UOL",
+      "published": "2026-07-20T20:17:14+00:00",
+      "summary": "Mais proteína que o ovo: o vegetal que pode ajudar seus músculos&nbsp;&nbsp;UOL5 benefícios do amendoim para a saúde&nbsp;&nbsp;Assine AbrilComer amendoim pode beneficiar o cérebro, sugere pesquisa&nbsp;&nbsp;sergipenoticias.comAmendoim ganha destaque na dieta dos brasileiros com foco em saúde&nbsp;&nbsp;band.com.brAmendoim melhora a memória? Confira o que os estudos dizem&nbsp;&nbsp;Bons Fluidos",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOV0xGVl9UZDZLQzc5MU5PbGlxU05QYW83OUhPZkJnOUdnak1RUFE1d3FQSWdsT3dXbFJ1RGIycjl4eGwySTk5eGVadHlLMi1ZVlZOc0dYelA4eWQtMzZQMWljOERKQWRTOV9NTFFyVVd1UzFyaGZ1a1Z0bFNlckxoQzA5X1BHcmRPYnhxVDRxVTZ2R2ZiUm9MMFljOERTWUM1RDhSak1JUWc1Y0RQQ294OGM4eUZkQ1FsZXRJTlFMMlhRengxVUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "37b60ac73161",
+      "title": "Vida moderna pode estar levando a mente humana ao limite, diz estudo - Metrópoles",
+      "published": "2026-07-20T18:44:00+00:00",
+      "summary": "Vida moderna pode estar levando a mente humana ao limite, diz estudo&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oMmlNQkpYYmM0S3BCVHJsZEVDU2pVRVZIQ1REejBVeFY2RVUtMjRkOEV1aUdscTQ2b2JmLWdaSHZ0N19qZHFRUTYxMXZQRzhVcWdaTDJCWTh5bFJtWU5uOElPcWVDQnlLYkRTUzVLZVk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f31be6d12737",
+      "title": "Hoje faz 50 anos desde que a humanidade viu Marte pela primeira vez - Olhar Digital",
+      "published": "2026-07-20T17:07:00+00:00",
+      "summary": "Hoje faz 50 anos desde que a humanidade viu Marte pela primeira vez&nbsp;&nbsp;Olhar Digital",
+      "sources": [
+        {
+          "name": "Olhar Digital",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ3ZJZldBQmlxbGh1OE9WNWM3S3NuaGJBMFNLdktieDdjb3JVaXNPUWJCdi1DUU9LMmVMZjAtNU5iaFJCWUZxUG82TzRZeXlNaUY2RmloeV9JYXU0a1F5ekZpcy00TEJrRTdIUE41ZGVrdnBPY2xjQ2ZqUHhxMG1mTEJULU0tMHM5OUwwR3JETUZjdlM2SVRscjhhVlgxOEYyV0FiRm9FSDFadjhJbUVwWWo2RDdEdnQxcEM3TGVxSXhUdw?oc=5"
+        }
+      ]
+    },
     {
       "id": "8ce6043ec0bd",
       "title": "Estudo: biópsia líquida ajuda a identificar 4 vezes mais casos de câncer - UOL",
@@ -21,7 +81,7 @@
       "id": "0e33135f8eea",
       "title": "Quais alimentos preparados na airfryer podem formar acrilamida, ligada a prejuízos à saúde? - Estadão",
       "published": "2026-07-20T16:00:00+00:00",
-      "summary": "Quais alimentos preparados na airfryer podem formar acrilamida, ligada a prejuízos à saúde?&nbsp;&nbsp;Estadão",
+      "summary": "Quais alimentos preparados na airfryer podem formar acrilamida, ligada a prejuízos à saúde?&nbsp;&nbsp;EstadãoAcrilamida: o erro comum ao preparar batatas e pães na airfryer pode prejudicar sua saúde&nbsp;&nbsp;TerraAcrilamida: que alimentos não por na air fryer para evitar riscos&nbsp;&nbsp;DOL",
       "sources": [
         {
           "name": "Estadão",
@@ -42,10 +102,22 @@
       ]
     },
     {
+      "id": "c9bb31e96f50",
+      "title": "Síndrome do coração feliz: contentamento em excesso leva mulher ao hospital em caso raro; entenda e veja os sintomas - O GLOBO",
+      "published": "2026-07-20T13:21:47+00:00",
+      "summary": "Síndrome do coração feliz: contentamento em excesso leva mulher ao hospital em caso raro; entenda e veja os sintomas&nbsp;&nbsp;O GLOBOMulher tem síndrome rara do coração feliz após casamento do filho&nbsp;&nbsp;Diário do NordesteOpinião - Drauzio Varella: Origem da síndrome do coração partido não está no coração, mas no cérebro&nbsp;&nbsp;Folha de S.PauloSíndrome do Coração Feliz: conheça rara condição que atingiu mulher após episódio de felicidade&nbsp;&nbsp;TerraFelicidade intensa desencadeou",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOc0FVeFVQRng0Qmx1QVdVR2RyQTFHN1ctVnNPTmF0eUhlZEtoSE5Xck1fTVFzclhsRldlcTBDSW9VSWQ0blpZVWJzOWw0T2tyZEotTUFyYy1zcVJLYlJ4SEcwMGdkYjVmSmpHenl5a0MtNlcyUFlmSk11b0VJdGVmUU5Ca1puczJQdEo4Vm05UXhwU2dtdFFEV0c4THRya1BDZlpMUEx3YWJvR3JOb1JnNTBHXzZrVFV2WlFNRmJ4bWswSTZwX1M1LWdydDRSTXA3ZVdsS19GcDZzMm1VYTFVN1RlMnp3TmVMTWg1YVBiWWozNUJsVUg5OF9qTHZwZENMU1B6cS03Q3dNSF94RnRzZFlB0gGgAkFVX3lxTE9kLXdwUExMUnhOVVZWVHhHWEdmWWZZNWRiLWN3NGZXZXZyU29Kamk4ZkpoT19oZm5mV1lRTVRCQkpPZHZIdU82aDlkbDhhTEg2OWdIRGFGTTRtZGs1aHl2ZDgxOFdGTVVWSDc4M2dybGlxRktvb25DRFlLc2l2Z1BmcnpaNDdKQl9sU29LcTBXbk9kZ2MwQzZQX0psMUJsSnFkYTF0TmZHWjRxenNVQk9Yb1YxSjJlNW9nNkJmcHJPakE1OXl3c01SWHphaGJVZlQ5aDZUMmd5MU80bERsV2RtRmFQNnhzNTV4MXU0Mk1HOElUZ1J3dHptTi1IR1BWUnpUT1NUd3ZMVnEyYml3ZnhKM3NKWDg3YjRUZXdpOHo3dA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1de5d9d57d45",
       "title": "Café é associado a menor risco de infarto, AVC e insuficiência cardíaca, diz pesquisa; saiba quantas xícaras são seguras - G1",
       "published": "2026-07-20T12:34:53+00:00",
-      "summary": "Café é associado a menor risco de infarto, AVC e insuficiência cardíaca, diz pesquisa; saiba quantas xícaras são seguras&nbsp;&nbsp;G1Até 5 xícaras de café por dia podem reduzir riscos de doença cardíaca&nbsp;&nbsp;MetrópolesEnergético faz mal à saúde? Entenda como ele age no coração e no cérebro&nbsp;&nbsp;Veja SaúdeMédico alerta quando o cafezinho deixa de ser hábito e vira risco&nbsp;&nbsp;Gazeta DigitalCafé conta para a hidratação diária? O que nutricionistas têm a dizer&nbsp;&nbsp;Notícias ",
+      "summary": "Café é associado a menor risco de infarto, AVC e insuficiência cardíaca, diz pesquisa; saiba quantas xícaras são seguras&nbsp;&nbsp;G1Quantas xícaras de café é seguro tomar por dia? Este estudo calculou limite&nbsp;&nbsp;Globo.comSaiba qual a quantidade de café que você pode beber por dia sem prejudicar a saúde&nbsp;&nbsp;ICL NotíciasAté 5 xícaras de café por dia podem reduzir riscos de doença cardíaca&nbsp;&nbsp;MetrópolesMédico alerta quando o cafezinho deixa de ser hábito e vira risco&nbsp;&n",
       "sources": [
         {
           "name": "G1",
@@ -54,14 +126,14 @@
       ]
     },
     {
-      "id": "415ca1971b37",
-      "title": "Veja os 9 alimentos mais indicados por especialistas para cuidar da saúde dos rins - ICL Notícias",
-      "published": "2026-07-20T12:21:58+00:00",
-      "summary": "Veja os 9 alimentos mais indicados por especialistas para cuidar da saúde dos rins&nbsp;&nbsp;ICL Notícias",
+      "id": "9cf8a6eca38c",
+      "title": "8 em cada 10 brasileiros reconhecem sintomas do câncer colorretal - CNN Brasil",
+      "published": "2026-07-20T11:00:16+00:00",
+      "summary": "8 em cada 10 brasileiros reconhecem sintomas do câncer colorretal&nbsp;&nbsp;CNN BrasilJovens envelhecem mais rápido, com maior risco de câncer - 20/07/2026 - Equilíbrio e Saúde&nbsp;&nbsp;Folha de S.PauloO sintoma de câncer de intestino que 4 em 10 brasileiros preferem não investigar&nbsp;&nbsp;Veja SaúdePesquisa revela que brasileiros reconhecem sinais do câncer de intestino, mas demoram a agir&nbsp;&nbsp;EstadãoCâncer de intestino: lições da trajetória de Preta Gil e a importância da prevençã",
       "sources": [
         {
-          "name": "ICL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pZDJTOGI5aGVrMWVidHotbTFhOFdSUm5GcjZVTTIxYlE5dUpwSzRIaG1Qd0pySVpwR2ptajhXNTQ1cGZxbEUyV1piWkRUaVFHTlg1V0lZNmZyb2VtQ1h2elFRQms4TWluTFMzSTlydw?oc=5"
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcFlrZnE0NFI5VXF2QWhDOTBGVkFYQXhmS2RrNjdBdF8yTlhYM19nYi1md1RRQzBxRmRTa0Y3RlBnYU8tY3pPa29ieC1fTFdDOExhNUNibl80QXJXU2xKYWh2NlpfWXlpMVVWSHRjcjVacXFOZ01XMWlmbF92am04cFE4cTk3d3BRWV9YZXpuUFdyVFMzdjRsaUJHanA1dG8tMWYw?oc=5"
         }
       ]
     },
@@ -105,7 +177,7 @@
       "id": "0a4293e025d7",
       "title": "Diagnóstico tardio pode elevar sequelas em câncer de cabeça e pescoço - Correio do Povo",
       "published": "2026-07-20T10:05:29+00:00",
-      "summary": "Diagnóstico tardio pode elevar sequelas em câncer de cabeça e pescoço&nbsp;&nbsp;Correio do PovoCâncer de cabeça e pescoço: diagnóstico precoce pode elevar as chances de cura para até 95%&nbsp;&nbsp;GZHCampanha Julho Verde orienta população sobre prevenção do câncer de cabeça e pescoço&nbsp;&nbsp;Jornal da USP\"Achei que era gripe\", diz homem com câncer na garganta&nbsp;&nbsp;TerraRouquidão ou afta por mais de 15 dias? O aviso é sério&nbsp;&nbsp;Estado de Minas",
+      "summary": "Diagnóstico tardio pode elevar sequelas em câncer de cabeça e pescoço&nbsp;&nbsp;Correio do PovoJulho Verde alerta sobre câncer de cabeça e pescoço&nbsp;&nbsp;Valor EconômicoCâncer de cabeça e pescoço: diagnóstico precoce pode elevar as chances de cura para até 95%&nbsp;&nbsp;GZHCampanha Julho Verde orienta população sobre prevenção do câncer de cabeça e pescoço&nbsp;&nbsp;Jornal da USP\"Achei que era gripe\", diz homem com câncer na garganta&nbsp;&nbsp;Terra",
       "sources": [
         {
           "name": "Correio do Povo",
@@ -138,18 +210,6 @@
       ]
     },
     {
-      "id": "27d2ee40ee94",
-      "title": "Câncer de intestino: 2 em cada 3 brasileiros não conhecem exame preventivo - UOL",
-      "published": "2026-07-20T09:00:00+00:00",
-      "summary": "Câncer de intestino: 2 em cada 3 brasileiros não conhecem exame preventivo&nbsp;&nbsp;UOLCâncer de intestino: brasileiros reconhecem sinais de alerta, mas não buscam atendimento&nbsp;&nbsp;G18 em cada 10 brasileiros reconhecem sintomas do câncer colorretal&nbsp;&nbsp;CNN BrasilUm ano após morte de Preta Gil, brasileiros desconhecem exame para diagnóstico precoce de câncer colorretal&nbsp;&nbsp;VEJAPesquisa aponta que 43% ignoram principal sintoma do câncer colorretal&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbEwyY0E4Y0FJNERHelIzRllrcDVvbWpWaDJGWEp3ZkJjM3Q5TjNHYjY1aHFDRFpqRGRkUGwxQnhhNkVlcjB3YjdKX2ZZN0trUVNQb3U2QTcxS2VwMHZPRmQxUzFXTElIQWxISzF6Z1hVdkp2RTFiQ3dOUTA5RnZtTUhvRXNxY3FhVmlhVWZDLUpoVExhU1UyOUpjaVo4SDlOYUxrb01oWi1GZFdmbUFGV3Frd0h1dFVlMHM4dDFZdEszUUk?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2512f907bb1c",
       "title": "Aos 18 anos, ela se formou com a média perfeita de 10 e vai estudar na faculdade que seleciona os vencedores do Prêmio Nobel de Medicina - Portal 6",
       "published": "2026-07-20T08:31:52+00:00",
@@ -158,6 +218,18 @@
         {
           "name": "Portal 6",
           "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNM1gtVWhqZWNWLVZfbG92WVpoWVRMV3kzOTUzeXZtWG1sSm93U1lNX2RYOHlQVU1qN1dmb3h3U3JzOVcwVEJBdHJwRGsxOGtmdXU2Y2xRQU1uRTlpQmZObnh0OUFjdzFDYUZqdkZVak1rTmMyT0VSYUxGWW1XWkdGRVpLUkpqMHZNbXFkODNnMVlnVVlMbHJfLXVmZTJkZ0ZkYi1aTk01Xy03Qm1zaGVWZG95OERHMk80NVh6OXFFWlA2OGFmRWtnaHVEZUVrWjJGUDN5OGY3SXdQaXUwek9MWC1EalFqaEt3TzFKT2M2dHh2Smkyek04SHFZT3ZWYWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2e7e313cb842",
+      "title": "Uma vacina contra o esquecimento? - O GLOBO",
+      "published": "2026-07-20T07:30:19+00:00",
+      "summary": "Uma vacina contra o esquecimento?&nbsp;&nbsp;O GLOBOVacina contra herpes-zóster pode ajudar a prevenir demência, aponta estudo&nbsp;&nbsp;TerraVacina contra herpes-zóster e memória: o estudo com mais de 500 mil idosos que mediu o risco de demência em quatro anos&nbsp;&nbsp;Tua SaúdeAdão Santana reforça pedido para inclusão da vacina contra Herpes Zoster no SUS e homenageia comerciantes&nbsp;&nbsp;colunapontodevista.comA vacina que protege a pele, o cérebro e o futuro: por que falar sobre herpes-",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS0oxdEdFd1NkMUNwNmsxTzY1ZkVWUDZHZ1ljbnRBVVVuYnlzWWRNMnZhc3dPR2doYV9mQXJqWTIwY3FlbGZ3eHdWVzZqX0VKczRnYnJqYVY3UnNZdF9HaDkzeWFRcXl1eUFCYzFzSHlOWXRaWHF4Y1pacGRRSFZMSWZ1VlJ2Zng4Nnh2VXByMHVuUWhJSkVyZlZkLUJWQdIBrAFBVV95cUxPMjRnNnVTVDdnWHBmR0Y4RFpTTmtnc3F6WGVMbk1UUnhBaVNBVmZIWjBjbG4yTGphX3ZJZzRkUzBqZG9QMHBOcDRabnVCR3NscUkwcFhxSm5oZXE5dEpYZkhIRjg0bjd1ZTBBN0pDZFB1eVdNY052bXdLMC16TmNTckFTRzh4U3B0djc1Q214MWpkOEFwM1JldF9nODRWVXVsSm5QMzBwNEtzazZ4?oc=5"
         }
       ]
     },
@@ -177,11 +249,23 @@
       "id": "3cc4656540f8",
       "title": "Suplementos de ômega-3 são realmente benéficos para o cérebro? - Folha de S.Paulo",
       "published": "2026-07-20T07:00:00+00:00",
-      "summary": "Suplementos de ômega-3 são realmente benéficos para o cérebro?&nbsp;&nbsp;Folha de S.PauloUma análise recente aponta que o ômega-3 pode contribuir para aliviar dores crônicas que persistem por vários meses&nbsp;&nbsp;Tua SaúdeÔmega 3: conheça tipos e como escolher o ideal para você&nbsp;&nbsp;GloboEPA ou EPA+DHA: qual forma de ômega-3 protege mais o coração, segundo metanálise de 38 estudos&nbsp;&nbsp;Tua SaúdeÔmega 3 funciona mesmo para o coração? Grande parte ainda acredita em uma promessa ant",
+      "summary": "Suplementos de ômega-3 são realmente benéficos para o cérebro?&nbsp;&nbsp;Folha de S.PauloUma análise recente aponta que o ômega-3 pode contribuir para aliviar dores crônicas que persistem por vários meses&nbsp;&nbsp;Tua SaúdeÔmega 3: conheça tipos e como escolher o ideal para você&nbsp;&nbsp;Globo.comÔmega 3: tudo o que você precisa saber antes de escolher o suplemento&nbsp;&nbsp;Assine AbrilEPA ou EPA+DHA: qual forma de ômega-3 protege mais o coração, segundo metanálise de 38 estudos&nbsp;&nbs",
       "sources": [
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSnpGUTVNRXZwU0RoS2poY2gwc3I1WUpYbTdzOVVtMERpMVBCQVBrSHI1SFB3TDI3QXJUc0JJZl95VENUeDBmOGxDYlhUYnYzZDVHby1lS1V2NU5TVi1PazNFSlI5LWlfWnFaZ2dITHZNQ28zbG9YVWtNUHU1b0YwU1R1ZklCQ0RFUjBaQ013TFFPV0d2VDE0ZExBbUc3OE04Q1pDcWVacWRKN1Jwck9BYlJSMjhvRkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0990adfd4060",
+      "title": "Japão em alerta com forte avanço da doença mão-pé-boca - Portal Mie",
+      "published": "2026-07-20T05:36:55+00:00",
+      "summary": "Japão em alerta com forte avanço da doença mão-pé-boca&nbsp;&nbsp;Portal MieDoença mão-pé-boca avança no Japão e coloca Aichi e Gifu em alerta&nbsp;&nbsp;Conexão MaríliaJapão enfrenta maior surto de mão-pé-boca em dois anos&nbsp;&nbsp;Portal Mie",
+      "sources": [
+        {
+          "name": "Portal Mie",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYkxZdkRoSFRrU1lEQXdRUHE2a3RQbkZvTGZ6bXhxemwtTy04RUl2MTVPa2Zwam9vTmc5cEZDdGdEY3RKUjlmTW1oWXhEUkxXRXNEbXNOZnpaNEs1cy1jWWFlQy1Wd084Sm5Oakg1M1BlRkZMcVJBSUxLTHNNcVNtbFM0b0lJWXA5UE5pRHBLRURyQkZRWGFQUi1fai0?oc=5"
         }
       ]
     },
@@ -210,18 +294,6 @@
       ]
     },
     {
-      "id": "3848a2c31fd2",
-      "title": "Kardashev: índice mede desenvolvimento da sociedade pela energia gasta - Metrópoles",
-      "published": "2026-07-20T05:00:00+00:00",
-      "summary": "Kardashev: índice mede desenvolvimento da sociedade pela energia gasta&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBENjQzemtaVlRkNng4aUJXenNRcnhxbkhmcWZBLXdLaU5VR28tbmMxVlYxMTA1TEdFb2szUlpHeFdVUzExQWkwVGpLaWd6c25rY2JUV1ZCejh1ajUtNHh0eW1mUnlPWVVUZjRCTFhKUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ccedf5165423",
       "title": "Mulher cega desde os 11 anos bate a cabeça ao beijar a cadela-guia e diz ter recuperado a visão, em caso raro que deixou médicos sem explicação - CPG Click Petróleo e Gás",
       "published": "2026-07-20T00:11:44+00:00",
@@ -234,26 +306,14 @@
       ]
     },
     {
-      "id": "bd23b94070ca",
-      "title": "Cientistas fizeram uma descoberta revolucionaria sobre minério de ferro que redefine a história do planeta - O Antagonista",
-      "published": "2026-07-19T23:43:00+00:00",
-      "summary": "Cientistas fizeram uma descoberta revolucionaria sobre minério de ferro que redefine a história do planeta&nbsp;&nbsp;O Antagonista",
+      "id": "f7468ea01673",
+      "title": "Paraibana que limpava os laboratórios de uma faculdade de João Pessoa saía do expediente às 17h, estudava enfermagem à noite, chegava em casa às 23h dormindo no ônibus, emendou técnico, graduação, mestrado e doutorado e hoje ensina Anatomia - CPG Click Petróleo e Gás",
+      "published": "2026-07-19T22:03:00+00:00",
+      "summary": "Paraibana que limpava os laboratórios de uma faculdade de João Pessoa saía do expediente às 17h, estudava enfermagem à noite, chegava em casa às 23h dormindo no ônibus, emendou técnico, graduação, mestrado e doutorado e hoje ensina Anatomia&nbsp;&nbsp;CPG Click Petróleo e Gás",
       "sources": [
         {
-          "name": "O Antagonista",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeTNtb0M2VTVnUzNJOU5PWExBdkdzWVFzaVBtUGc2MTRwa19pNmI3REUtbEZhRGZzb0xnUU1JdEN2Q1kzSGNpMjhEdmV4MHpEVjYtdHl5Wno4WThndjBNNk1CUXFsM2dHZzlwbV9kaHcxbWF2dG9SeGxKUVptdkpWalh6S1VKa0ZXV3dfcGNnMENDV01QNC0wQk5kNWpFYmFjN1drOEsyV0s5NkRWSzY1WDVZcVBnZDYwZ1BZeTFEX3dlZHdieXB6b2ZMTE8zZkx3M2pMQ2taWEg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fcc2aeb1970a",
-      "title": "Nísia Trindade diz que nova pandemia vai acontecer e cobra preparo do Brasil - Diário do Centro do Mundo",
-      "published": "2026-07-19T23:03:00+00:00",
-      "summary": "Nísia Trindade diz que nova pandemia vai acontecer e cobra preparo do Brasil&nbsp;&nbsp;Diário do Centro do Mundo'Uma nova pandemia vai acontecer, a questão é quando', diz ex-ministra da Saúde, que lança livro sobre crise da Covid-19&nbsp;&nbsp;O GLOBO",
-      "sources": [
-        {
-          "name": "Diário do Centro do Mundo",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORExFRGE5RGVROWNvMjlnNi1OanRnNXh2OG9sS1BEemh2NWNZU3VsVER6V2ZoYmcwV1BSUzdpbURzYmdkM1pJbktUTDJXOG5VcHE1VDhQaGF5R3cyUkthRTJpU1ZybEMzRllrdEpETFk3MlNERWZHMjNDdFdvU1JaMklWZVFJMkJTdW1QcS13?oc=5"
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxON0xTdlUtbnl3V29nN2ltNUZVbFY4SHZaNVVoX2F2cjF6WVktejh1TFBTTWtWcE95cUk3d3F5bHNhVG1kakppbGJZb1pLT3poNHZMWmQ5MU5fbHBOYUg1aFQ5NUtzdEk1OThSQmRWNXdXZnI1SjBqOEFHQ1pKVVdYZHpaR3JFRkhydU5oTGJoSGhkX05oLXRZQk14dXVUT2Z0ZzVyZUdQQXN6OVdDR29aTWQ4dGs0T2twRjE4ZHFkMUlhdlhBeTlFQzZ2MU5XZ0hobmpFci1HeG5VTDZOaTNwODdqa0M0WFNIUHprUkxoSkNLM2Q3MHVLdE9QWDZfaXF6VkFmUC01NEltTzRkSlRIRGp1UUhpN1ZLZkI5cS1LVmJSWHh2eWdjN0tDMjBiZw?oc=5"
         }
       ]
     },
@@ -297,7 +357,7 @@
       "id": "1c8992c83645",
       "title": "Perder peso já não é a única meta com Ozempic; entenda - Olhar Digital",
       "published": "2026-07-19T17:30:00+00:00",
-      "summary": "Perder peso já não é a única meta com Ozempic; entenda&nbsp;&nbsp;Olhar DigitalQuando é hora de reduzir ou parar Ozempic e Mounjaro? Primeiro consenso internacional orienta o uso dos medicamentos contra a obesidade&nbsp;&nbsp;G1Uso indiscriminado de Ozempic pode causar dependência emocional e novos problemas de saúde, alerta médico&nbsp;&nbsp;Jornal OpçãoCanetas emagrecedoras podem criar um novo tipo de 'dieta ioiô'&nbsp;&nbsp;Folha de S.PauloParou o Ozempic e engordou tudo de volta? Nutri expli",
+      "summary": "Perder peso já não é a única meta com Ozempic; entenda&nbsp;&nbsp;Olhar DigitalQuando é hora de reduzir ou parar Ozempic e Mounjaro? Primeiro consenso internacional orienta o uso dos medicamentos contra a obesidade&nbsp;&nbsp;G1Uso indiscriminado de Ozempic pode causar dependência emocional e novos problemas de saúde, alerta médico&nbsp;&nbsp;Jornal OpçãoPausa nas 'canetas' faz pacientes reconsiderarem bariátrica&nbsp;&nbsp;TerraParou o Ozempic e engordou tudo de volta? Nutri explica o que acont",
       "sources": [
         {
           "name": "Olhar Digital",
@@ -318,10 +378,22 @@
       ]
     },
     {
+      "id": "869dbc9edcea",
+      "title": "Depois de anos usando ganchos no lugar de uma mão, menina de 10 anos ganhou braço robótico de jovem que começou treinando com LEGO aos 14 anos, passou seis anos aperfeiçoando próteses e imprimiu dedos com unhas iguais para ela deixar os ga - CPG Click Petróleo e Gás",
+      "published": "2026-07-19T16:30:00+00:00",
+      "summary": "Depois de anos usando ganchos no lugar de uma mão, menina de 10 anos ganhou braço robótico de jovem que começou treinando com LEGO aos 14 anos, passou seis anos aperfeiçoando próteses e imprimiu dedos com unhas iguais para ela deixar os ga&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNMS1sZlA3SVlZZUxUWWE2a3Q2RFg0N3lpdTFORjFYX0FVRGNoT1BTYS1iaGNxN1NZMXdyNWVERm03amhFUHVuYm1ONVI5NlBEcjBhRXFYWnZHWVVrQzBZcW51em81cGE2dGp2QWJTRERuRGxnSG9QU3FXbW5GXzJTcTlobURheGlYSGhPQjFHeVdxRGxUcVVRUGh1M0ZpT0pGazcyOGFUNVlMMGFnZDlueXJBTFZnT3FLMklqSTU3cTk2ZzZyVldjT2hkbDlzcFNTMDB6V2tUbVhEaXZKVmkzcV9YT256azJoQ05YaDJkYXBXaVhneWk0bVZXNTVtazU5TE9nTk5FWGZBZTJZcUZKcHo5TGVFZkdDX1FrWFRmV1ZNQ3MyTWdjRFRvaGxPajJVOFRfblN2b3NPeU5CMDkwU2k4dGMxWVU?oc=5"
+        }
+      ]
+    },
+    {
       "id": "0b36381bb6b3",
       "title": "Musculação reprograma fígado e reduz gordura no órgão, diz estudo - Poder360",
       "published": "2026-07-19T15:43:51+00:00",
-      "summary": "Musculação reprograma fígado e reduz gordura no órgão, diz estudo&nbsp;&nbsp;Poder360Estudo aponta os melhores exercícios e a dose ideal de atividade física para reduzir gordura no fígado&nbsp;&nbsp;VEJACombinar musculação e aeróbico reduz gordura no fígado, diz estudo&nbsp;&nbsp;Grande PontoRotina ideal de exercícios para combater a gordura no fígado é revelada por estudo chinês&nbsp;&nbsp;- Portal OCorreioMusculação ajuda o fígado a reverter danos causados pela obesidade&nbsp;&nbsp;difusora95.",
+      "summary": "Musculação reprograma fígado e reduz gordura no órgão, diz estudo&nbsp;&nbsp;Poder360Estudo aponta os melhores exercícios e a dose ideal de atividade física para reduzir gordura no fígado&nbsp;&nbsp;VEJACombinar musculação e aeróbico reduz gordura no fígado, diz estudo&nbsp;&nbsp;Grande PontoRotina ideal de exercícios para combater a gordura no fígado é revelada por estudo chinês&nbsp;&nbsp;- Portal OCorreioMusculação reprograma células do fígado e ajuda a reverter danos da obesidade&nbsp;&nbsp;",
       "sources": [
         {
           "name": "Poder360",
@@ -330,14 +402,14 @@
       ]
     },
     {
-      "id": "5997cad9f1ec",
-      "title": "Duas em cada três pessoas com Alzheimer são mulheres — e a ciência aponta a menopausa como janela decisiva de prevenção - Tua Saúde",
-      "published": "2026-07-19T15:28:00+00:00",
-      "summary": "Duas em cada três pessoas com Alzheimer são mulheres — e a ciência aponta a menopausa como janela decisiva de prevenção&nbsp;&nbsp;Tua Saúde",
+      "id": "38021db62538",
+      "title": "Cientistas descobrem como café ajuda na saúde e envelhecimento - O GLOBO",
+      "published": "2026-07-19T15:16:50+00:00",
+      "summary": "Cientistas descobrem como café ajuda na saúde e envelhecimento&nbsp;&nbsp;O GLOBO",
       "sources": [
         {
-          "name": "Tua Saúde",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVVlxR3A2TmhHNlREeGo2dFE3QmhBZ2cyemNZUktGcXF3TEVOcUN1NWoxQlVlLXR6Tzl4YmdBYmsycEdocjN3R0VRMG9TeGszU2hURzgxV28yck96OUhNSHVKRUZnaU1ZeDhQaDI0QmotalR3Qk93cEFOUFlvbW1Lc2xTMUFsSEVsWlZ4aGhjZlVtMk1DV0RLVHY5eFZheXN1YkxFUWMzdkdmV1hsd1IyQi04R2hnWGs2eXFHYnQxemZYOHJpZmV6R2ROdDM0V0J3a3RVRkJzX0FQZm1Wc3ZOX2Q2OEpWY3NDbjF0ZnhUYlc?oc=5"
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOEJ0bGcwazRjTTA1eU9NVmtnOXVvX0p1MGh4ZWZLRXZLTUxoc0lNMUU2UTNKeFVUTG4zVHg5eDF1VWJYNGlMemh1ZlNoSHV6bXBCTUs3M1JiVF9TQUZjcEd3V2h5eENTZmhsNVNuSXVFMjhEZ3NjRlRvb2R2X3RtNUI1cGVienNTeEpMZ1g3bjZqYVJoYVJicWpmTFZuaUNCclExaURLNTQwV0tHdXg3R0ZzMzNwWWwzTnfSAcgBQVVfeXFMTTVtMnlCOXlKY05CQXUtcmlFckRJeXAzT3BEVzB1MldtR1ZXZmRyYUtOSkpXTU1CTzk3SUFudnF2Ym5RM2lJeFlnZEFmQUctX3BSU0o0bnZHVUFkT1ZTN3k5cjNRejVNWFNOZHI1RUx2ZjY2cDc4WlEzUjlScjQ4WlZPRkRNVjhFNWkzR2I2M18wUC1pQzNVTzExV29RTlpPeHBudnZ2eUZQcGRBTVpWVS12MEIxU3FkSmhubmU0eFJpcHEwRnJvbUQ?oc=5"
         }
       ]
     },
@@ -350,30 +422,6 @@
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNX2FLZmlMUi1lT05jdWRIUHRyeVNkUWx3UU5zVjZGZzNZWWNQVnp3elJoOEg2LWlRcWV6LTNPajUwaFdUazMwZ0lSSDRhZWQ3bjdYSERUVG1yaV9uMzhYaGxrMVlMWnhreE11Y1hjRndIdFF3X3RybHNJaWlONnNfU3k1QVd2alQwdXF4Z1FSbU1MQXJSYmxaN0tleVZUMWJaeVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0bca19099be4",
-      "title": "Trinta anos depois de Dolly: Nordeste brasileiro dá primeiros passos na bioimpressão de tecidos - O TEMPO",
-      "published": "2026-07-19T12:33:52+00:00",
-      "summary": "Trinta anos depois de Dolly: Nordeste brasileiro dá primeiros passos na bioimpressão de tecidos&nbsp;&nbsp;O TEMPO",
-      "sources": [
-        {
-          "name": "O TEMPO",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaWRWaUNzdFl4UENqal9MTUt5MFFTZnBkOXVrby1tdWNweVhTZkJZNGdWc2JHMVAwQWktS3NEa01yOE5MUTkwMmg4dUhOTVVDb1FiVEc3Ry1sWk5YbWE1Vmh2bUdfMUdVVktxRXNSNVpMeUNlRzRkUGM4STBSRHAtQWVFVHhoYTRKOEplOTI0c1FSQU5ZQkw2bHJUVFJTY0kyNjlqZFRnRExXLWRkQkdTMGk3WlFkUVROTnN1RlhNazlmTjNoaGt5ODFWVmxENmRvVUhN0gHYAUFVX3lxTE5WRUw4aEhUMlZ5c3JncFBtODZDdk5tNlNUQWVYT19mZ1ByQkIyY2FpRkpJOGw1djYxQmZmR0ZJZXBVM3c5STVWcS0zX1U5RG9sSC01TXlFRlMxLUllU2tNbXZMeWJmd1poR3N0bXpRS1hjdjcxZmxUS0Y1c0FUeExBTGpMQ2VlVmp4cE5QUnEzMjdsUlBrd2Zpb2hoM1lmT2J3c09hdnNlTFNqZ0ZpWElWNVhObXlLZDFtYWhWZXU2RFhKQjh4ODNlR0JDMVcyVDB5dEtKemlseA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b2c348a995ea",
-      "title": "Descoberta aproxima cientistas de encontrar exoplaneta habitável - Exame",
-      "published": "2026-07-19T11:38:50+00:00",
-      "summary": "Descoberta aproxima cientistas de encontrar exoplaneta habitável&nbsp;&nbsp;Exame",
-      "sources": [
-        {
-          "name": "Exame",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOblU4VjBlRzlkcDlRMlc3WWNhQllhLUJUSEVPTkJBdlpKYzhROTFXWE5aeVZuWG5aXzVjUE1KdTNKQ0ZXTVRtM0hQallBRVl2LW1qY2tUUEpWUGd1dHViSXJTTF90a3RQdVBvb0VFWW5HcV84ejJQaFJtak5zbWxrTkJYUE5tUGEydVN4dUc3M0Nuc1NuNkE?oc=5"
         }
       ]
     },
@@ -405,7 +453,7 @@
       "id": "948a1e59f673",
       "title": "Não tem tempo para academia? Veja como 30 minutos de treino podem dar resultado - Jornal Correio",
       "published": "2026-07-19T10:00:00+00:00",
-      "summary": "Não tem tempo para academia? Veja como 30 minutos de treino podem dar resultado&nbsp;&nbsp;Jornal CorreioTreinos físicos curtos de apenas 30 minutos garantem resultados reais para a saúde&nbsp;&nbsp;Jornal da FrancaTreinar pouco não significa treinar mal; veja como aproveitar cada minuto&nbsp;&nbsp;Assine AbrilTreinos rápidos ganham espaço nas academias sem abrir mão da saúde e dos resultados&nbsp;&nbsp;Agenda CapitalTreino curto funciona? 5 mitos e verdades sobre como 40 minutos de exercício po",
+      "summary": "Não tem tempo para academia? Veja como 30 minutos de treino podem dar resultado&nbsp;&nbsp;Jornal CorreioTreino curto funciona? 5 mitos e verdades sobre como 40 minutos de exercício podem fazer diferença na rotina&nbsp;&nbsp;Estadão Blue StudioTreinos físicos curtos de apenas 30 minutos garantem resultados reais para a saúde&nbsp;&nbsp;Jornal da FrancaTreinar pouco não significa treinar mal; veja como aproveitar cada minuto&nbsp;&nbsp;Assine AbrilTreinos rápidos ganham espaço nas academias sem a",
       "sources": [
         {
           "name": "Jornal Correio",
@@ -417,7 +465,7 @@
       "id": "b8070a6d0dc4",
       "title": "Dr. Kalil e ginecologistas explicam se existem graus de endometriose - CNN Brasil",
       "published": "2026-07-19T09:00:23+00:00",
-      "summary": "Dr. Kalil e ginecologistas explicam se existem graus de endometriose&nbsp;&nbsp;CNN BrasilA luta de Cíntia contra a endometriose: sua sobrevivência depende da cirurgia para endometriose&nbsp;&nbsp;TerraEndometriose e saúde menstrual: chamada pública financiará pesquisas para desenvolver tratamentos acessíveis pelo SUS; inscrições até 12/08&nbsp;&nbsp;www.gov.brCólicas intensas podem ser um alerta; especialistas e Dr. Kalil explicam&nbsp;&nbsp;Folha de IratiEndometriose afeta milhões de brasileir",
+      "summary": "Dr. Kalil e ginecologistas explicam se existem graus de endometriose&nbsp;&nbsp;CNN BrasilEstilo de vida também pode influenciar a gravidade dos sintomas da endometriose&nbsp;&nbsp;TerraEndometriose e saúde menstrual: chamada pública financiará pesquisas para desenvolver tratamentos acessíveis pelo SUS; inscrições até 12/08&nbsp;&nbsp;www.gov.brCólicas intensas podem ser um alerta; especialistas e Dr. Kalil explicam&nbsp;&nbsp;Folha de IratiEndometriose afeta milhões de brasileiras e desafia dia",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -438,38 +486,14 @@
       ]
     },
     {
-      "id": "1e5f34449ec6",
-      "title": "Pressão alta pode cair com três hábitos que vão além dos remédios - UOL",
-      "published": "2026-07-19T08:30:00+00:00",
-      "summary": "Pressão alta pode cair com três hábitos que vão além dos remédios&nbsp;&nbsp;UOL4 proteínas vegetais que ajudam a controlar a pressão arterial&nbsp;&nbsp;Notícias ao Minuto Brasil5 proteínas (veganas) que ajudam a reduzir a pressão arterial&nbsp;&nbsp;Notícias ao MinutoEstratégias alimentares sem remédios para controlar a hipertensão, segundo pesquisas&nbsp;&nbsp;Tua SaúdeDASH e a dieta mediterrânea: veja como elas favorecem a saúde do coração&nbsp;&nbsp;GZH",
+      "id": "ee14786d9faf",
+      "title": "'Uma nova pandemia vai acontecer, a questão é quando', diz ex-ministra da Saúde, que lança livro sobre crise da Covid-19 - O GLOBO",
+      "published": "2026-07-19T07:30:21+00:00",
+      "summary": "'Uma nova pandemia vai acontecer, a questão é quando', diz ex-ministra da Saúde, que lança livro sobre crise da Covid-19&nbsp;&nbsp;O GLOBO",
       "sources": [
         {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdUJuaGJSWlZiNmZLdXNLVDNLbmIwR3JBcVpPalJZRDEydWxtd3JvVHQwMkwxa0lvZUtNV2xiUGRDSURTWU5ub3JLNFVuTDExS0JLVWxMRVFmRmxlOXJMeWkyUEJOSmpFWHVYTUw0Y0w0cFk2VG44bFVaUEllOF9LODNLVnpfUHlvV01KYjctZy1GQ2gxOGh6MFpZaDlPbDdJVUxlbnBQUVc1TGVxbk10S2dTTERTWE1EM1pnRmEybEE5eHpUdl96Tg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "51b40981fadd",
-      "title": "Hábitos modernos ameaçam o fígado - Correio Braziliense",
-      "published": "2026-07-19T08:06:00+00:00",
-      "summary": "Hábitos modernos ameaçam o fígado&nbsp;&nbsp;Correio BrazilienseGordura no fígado pode aumentar risco de demência e doenças do coração&nbsp;&nbsp;folha do esUltraprocessados e fígado: a coorte de cinco anos que encontrou um platô de risco a partir de 125 gramas por dia&nbsp;&nbsp;Tua Saúde9 alimentos que favorecem a gordura no fígado e vale a pena evitar&nbsp;&nbsp;TerraA barriga inchada contínua não se deve apenas à gordura, mas sim, em alguns casos, ao acúmulo de gordura no fígado que pede ava",
-      "sources": [
-        {
-          "name": "Correio Braziliense",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb2VpY2RHY0hoS2FkQU9fX1QyODVWRE5VNVRHOUVhNEJCV1BmQUlHQzJlUHlTSHYxdk0tTEpWdXZQajlGVGp5Y1JKbE1HUmxiS0FPbEVqcEllZ2RvTkZwMGJBMThVT0Uyc09WZjFCNXBzX0RaUzR1b2dwb0FuaWU4YnM3aFE3WXJIZm5qUGxfc2V0SThub0oyRmtOUjR0Uzd6RXlFSmRsNzctLWlf0gGyAUFVX3lxTFBKOFlCX2RPNlk5NmNiOUFydmJ1UEU3Q0tzdE5fRnN4THhGUTE4dUVGclhOMHZ4OXN3Qm9tU0RxVnBpc1RGMHlpZ3pHYUxWS19UWXN2YUU2N0pxcmtfamNWdWU1Sm1QWlh4dFhISXV4UTZ5ckpId1BwX01kdHZQSVBzWHZJT2hsczJFWWd0YTRoeW1ENzA4X1BNNkotejBqTzc3c0ZGYXN5ekpUNW5YaURaUHc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3c4635f8f5b1",
-      "title": "Ciência mostra o que pode estar por trás do inchaço frequente nas pernas ao fim do dia - Tua Saúde",
-      "published": "2026-07-19T07:50:00+00:00",
-      "summary": "Ciência mostra o que pode estar por trás do inchaço frequente nas pernas ao fim do dia&nbsp;&nbsp;Tua Saúde",
-      "sources": [
-        {
-          "name": "Tua Saúde",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORUJMQVF5VldHTnpETi1NVUNGcU9XOWplT0hTY2t5QjZsTlpiNklnYU1Eb2ZrLUlVOS05U1VpeGtkd0VIZ2ZhTVo5MENWeGRQVFBwc19XdHNsRFItOGFza1ZxMlFPam02WkxzN1FaWWdoLUhHR1MwLUZMZE1YS3hkN1BDVmdUYjE5STA1MXllYjZ4VkNRRUJoQ0ZoUzF2QmlvLVhfQXZrNTQ5R1BOYTgyOVVZbm9fOVdCUjdSMmEzSVBLakxvcFV3?oc=5"
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOZFM0MmtEZXJIN3FGc3dqeElZMmFzZjBzNDhDSjFKc2l5dWw5b1JKdlhyRE9pbTA1cFJpQ1hwVzY1RFA0UE8zcDZyRDJZX0M0di1aVmtvS2ZTaVFKT2Izd092Z1ZYczY4OFZ3SWE4eFhSTGNtYkFxNWRMN01NaFNZRTQtc3NGc1ZjeGh4bms5dTAwUDJFQVlScmg4QXVqb29sWk9na1VXQm9xTHNhRHFwc2pzck43WkUzOWNUWmhlZG5WclhiYmk4YVJoUThNcjhwX1F6X05LbDFKaF9ETXU5V3FzdUZVMTFUa3FSakF4Qnc3NVp1TWR1cmpKX3djeWNm0gGPAkFVX3lxTFA0UV9FSnZkTDM1UlpBdmFXMGtEQkhGX3puMjk4X0dnUEJxajRnajVKaXU0ZFhIRGJqSFg0N2UwNXVZWHlCY1ZpM2FkeFh0MDhKci1nMXpWeWowQVJQRVVkQ3V5MksyeWY5Mk1UTzdPSEVoanBGT3ctS09JVXJHSUdWTTc0THUxZ09KQm14blVQUGhmRFY5U3FLaGxPQ2NCZXJiSFZaeTljSExyc3pSRFBjVHdIMEhBbk4xbEJSY2hiMXE2bTJwNmdwcndOTWV0VFBJSXdXUzl5QmN6UjlVOW05dGV3YXNSNk8xTmlQZU5aSTNPeGxmUThJVmdfNC1tMjhCdjdnUTJnanBwUGUxemc?oc=5"
         }
       ]
     },
@@ -477,35 +501,11 @@
       "id": "dcdb75278951",
       "title": "Por que tanta gente está tomando magnésio? Saiba o que diz a ciência sobre o suplemento - O GLOBO",
       "published": "2026-07-19T07:00:11+00:00",
-      "summary": "Por que tanta gente está tomando magnésio? Saiba o que diz a ciência sobre o suplemento&nbsp;&nbsp;O GLOBOMineral milagroso: Descubra o que o magnésio realmente faz no seu corpo e por que ele virou a maior febre de saúde&nbsp;&nbsp;Diário do LitoralPor que tanta gente está tomando magnésio? O que a ciência realmente diz&nbsp;&nbsp;Notícia Toda HoraA forma de magnésio mais indicada para quem busca dormir melhor e reduzir a ansiedade, o que a evidência mostra&nbsp;&nbsp;Tua SaúdeMagnésio: você pre",
+      "summary": "Por que tanta gente está tomando magnésio? Saiba o que diz a ciência sobre o suplemento&nbsp;&nbsp;O GLOBOMagnésio: para que serve, quem precisa suplementar e o que a ciência diz&nbsp;&nbsp;TerraMineral milagroso: Descubra o que o magnésio realmente faz no seu corpo e por que ele virou a maior febre da web&nbsp;&nbsp;Diário do LitoralA forma de magnésio mais indicada para quem busca dormir melhor e reduzir a ansiedade, o que a evidência mostra&nbsp;&nbsp;Tua SaúdeMagnésio: você precisa mesmo tom",
       "sources": [
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMEZiVER5cEZGU2FGVi0wUWZ2dHVrTXZSdXlVclplRVFZeHQ4T2szM1oxX1BoM1ZVbnhZWDN4a1lrTEpsdUFuZHNYVWtkYW9QaDB2WXRhLVNQQm5HbC1tdzh1R0x0ZFZTM2l5Nkg4U3dvWG1TVkpWTzJkMWxPVEVwX3dnbnBtRFhRa0M4S00wRU1Ed0JZTWVyTHpJbnFFN285RG1XNURxYnhSOVcwYVRJY1dzVHRxY05WaTU5M0JYaUNwUEJBb1NOeWV5SHRTU2lIM0VhY2VZY05IZ9IB6AFBVV95cUxNVGlvcUpyYkJhMklNQUN6WE5SeWpTWjB0c1ZwOUpHSkVXN0w3dXpITlJ0NjFkUHA0RVN0UU5Pd3AtVVZGZHk1LTRaaFRzMGdNTUhobVdndnhlRVJIM1l0c1YwNmRuaDhSMFdhaWtMOWxDOWZCeURZZG54THNuWnRJWE1YV0F1VnVvQko2VVNNVnJlWG9XcExGR1lvUDN6QzJmd2hLXy1lRmxRZE4tSHRlbGpvdi1qejRuTWc3Rlctc1MzdWg0UEtReUNEMVl5eDBQSGdWcGpRbGUwUlltUnQ5X0ttUW05aE9U?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bf8bd7537674",
-      "title": "Tecnologia criada no PR pode ajudar a salvar pacientes de doença letal - Tribuna do Paraná",
-      "published": "2026-07-18T23:29:00+00:00",
-      "summary": "Tecnologia criada no PR pode ajudar a salvar pacientes de doença letal&nbsp;&nbsp;Tribuna do Paraná",
-      "sources": [
-        {
-          "name": "Tribuna do Paraná",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTW9CZ2hIYUdQZmUxQ1VMZjZaMU55RVVlV2xsQ2hyWURMRld6cFJqZGZyc3lGNlN6SDFwU2tPOGx4U1JmT3p4MUItbmFYVm4xemJMWlljX0FfN0E1d3RwMHp6TVdYazhXcU9BdVpNMFdNWjEyVE1tUGQtUTVlcm00bG5vM2FuWklUUXhVV0FjQ1Fnb1HSAZgBQVVfeXFMTVBSemlwSi1hNElXczRNNUdZTV9yZTlyRldtVGt1dWlmLXBKVW81c3NZbGRSTDdfM3ItZUN5OHJWdVdrUkFPT1BoRHZYUUdiMnFoUnlOSzBpUm1IZ1hKUFl3WUJ1dDM3cUxlV19CWnBiMTU0OXBXYk1TVUR3QnlFbjdkTzdDNU9jZnRjUURDem84LVZtZUliSGc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "24283921eecc",
-      "title": "Dor de cabeça pode ser sinal de doença grave; veja quando procurar um médico - Jornal Correio",
-      "published": "2026-07-18T22:55:09+00:00",
-      "summary": "Dor de cabeça pode ser sinal de doença grave; veja quando procurar um médico&nbsp;&nbsp;Jornal CorreioCefaleia: dores de cabeça podem indicar doenças, alerta neurologista&nbsp;&nbsp;Folha PEEis as sete coisas que uma dor de cabeça matinal pode revelar sobre a sua saúde&nbsp;&nbsp;ZAP NotíciasTer dor de cabeça não é normal; conheça os sinais de alerta&nbsp;&nbsp;Estado de MinasDor de cabeça súbita e explosiva, \"a pior da vida\", é um sinal de alerta que não pode esperar: quando procurar socorro im",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVTVLcVl6SlhpbGR2R0NsbHJlWjZiYjNQNVVIeTVKdkxfWk5mWHZZZXRsT3ZzTkpaQWNuX1paSGxtUVF0ZTZjVVBYdkduVTFfM3d4eFhuclk3U096UENEaDFSNE16NlVhWW1jYjZIdVpkSk5tV1BNa2E1TVg2NFVfeThaSG12X0lTcXNUZHE0SU9faGo0TnNPUmlCeC1PRURya3hKeFZ0SHRUNDlwTmVaekNKX2MyUVh3bThNUg?oc=5"
         }
       ]
     }
