@@ -1,43 +1,187 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-07-21T13:54:56.260740+00:00",
-  "total_fetched": 94,
-  "unique_count": 93,
-  "health_related_count": 34,
+  "fetched_at": "2026-07-21T19:25:31.674089+00:00",
+  "total_fetched": 97,
+  "unique_count": 97,
+  "health_related_count": 40,
   "news": [
     {
-      "id": "894c2c5a8faa",
-      "title": "Pesquisadores estimam o limite máximo da longevidade humana; saiba quantos anos - O GLOBO",
-      "published": "2026-07-21T13:09:01+00:00",
-      "summary": "Pesquisadores estimam o limite máximo da longevidade humana; saiba quantos anos&nbsp;&nbsp;O GLOBO",
+      "id": "8a737f1cd3b2",
+      "title": "Lúcia Helena: Fratura na prótese peniana: estudo brasileiro mostra o tamanho do problema - UOL",
+      "published": "2026-07-21T19:00:00+00:00",
+      "summary": "Lúcia Helena: Fratura na prótese peniana: estudo brasileiro mostra o tamanho do problema&nbsp;&nbsp;UOL",
       "sources": [
         {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUVdQclFfaVozc0dWQllkSzh2RjBFREtWLUJfMHFjcGhXSmdiNmwyQjRmcUYwQmlmUkljR3paVzFXN1gtclJJTXFlc1lPcWhFMTkxOFNkTHRBVzJiMU00eUthdDZfcVJZOU43WU1OaHFkXzMybjBnM2twYmp5LVJxa0JaekJRNHY3Ym9PV1FKVGxOaFRoVHBpVHpRQTBfaHBQTzdVcWVMellkRS0xc1BVUTdmWEVMeThpdjEzNUNCMGt5Z1NWR3gxalBQRXI5dzDSAd4BQVVfeXFMTU9tZDJITUV4STYtRkxVczJQendnOE9lUEZmcWw3a2VwcVVPQnJmWkJFWmFrdFM1WlNQYVRmLVptREZvaGZ5WVBfNXR2VEhHOWstdDBTMFJ0TXRnVjVpaThBa1Z1ZU9pbHNBamhRcDdTS1JGQmhTcEVhVEY5NlIyZDhvSWdQSFkxRm9mTWNLMlluQ1JJME94MHMzbnlkRkFHcGRrRWp2SXJTX1dkN2dhQzQ5eE52aVFkVE5qRnVKZmpnNUlSeXJrenRjRThSeUpQN1AzNjRPcTBjZWpNYW5R?oc=5"
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQU09rTWZDd0Z0aE83TWRhTTB3OHZPNEllRTduUG5zVldkYi02aG9qSUszRlUtd1UxMUFOODFFRUk0YVRCZXRoOXdNYVhJZlJJR3JkNHludWlvYUdXb1ZKSVFwaDdReURPM2xHOTVFeDF0X2dNS2RJdWZ6dkpYUWVXd3gweV83US1kaFNKT3RqLXVrWWxyYi1scEF6SXNRMHRpWGFveG1NakRORi1kcmxlU3NfWVpiUnUydXZVdDlkYmx1RjJUdks5eWt2RUk5a3VBM2J1S2hscw?oc=5"
         }
       ]
     },
     {
-      "id": "1d53fc826209",
-      "title": "Câncer de intestino: maioria dos brasileiros desconhece exame que pode detectar precocemente doença, aponta pesquisa - G1",
-      "published": "2026-07-21T09:18:52+00:00",
-      "summary": "Câncer de intestino: maioria dos brasileiros desconhece exame que pode detectar precocemente doença, aponta pesquisa&nbsp;&nbsp;G1Câncer de intestino dá primeiros sinais no banheiro; veja hábitos de risco e como diagnosticar&nbsp;&nbsp;G1Teste usado no rastreamento do câncer de intestino é desconhecido por 67%&nbsp;&nbsp;Poder360Jovens envelhecem mais rápido, com maior risco de câncer - 20/07/2026 - Equilíbrio e Saúde&nbsp;&nbsp;Folha de S.Paulo8 em cada 10 brasileiros reconhecem sintomas do cân",
+      "id": "7cc2410956a5",
+      "title": "Humanos podem viver até qual idade? Este estudo calculou limite máximo - Globo.com",
+      "published": "2026-07-21T15:06:02+00:00",
+      "summary": "Humanos podem viver até qual idade? Este estudo calculou limite máximo&nbsp;&nbsp;Globo.com",
+      "sources": [
+        {
+          "name": "Globo.com",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYzI2WHBLM3Q3NjhWNUh4NWR4SzJVTFFRTjRyUjIxVEo2SjFrYUJpd2pMWjBQZm14M1prNHhLVnNHNEpwbE05WWFoNTdGSmRJNzlyZnBVRE5aV0pwSjFzZUYxaUx3N2NNdlVFdkJUVkpRNVQ3T3RDWGpPZlFYanJQTmRVMWtxU0NKN0dRZnozUmswbllzZXZhWU1aWkQ3N09QTTVHRzZCYm9mQVp4NDVCeTZhQXBRUlJVNFFsODBqMm53SmNkUGJKVlNn0gHYAUFVX3lxTFBPWS13V1pNSzNVZHZCYTJRelRMWmF2czcyR3Z0NFI4anVMSnRrVzR3blJhT0tDQTVHbXJyaGpBczZzRU81VV9YZEUyV2FmYlVvWi1NZDFMSHFiSHg1WXZJWVgteXlXTDVtdnc4OFE2UXJTaHV5R1pCWjNxUDdGdHpZNlA2VmFOd3NaaWlmR2czaURoeHpBN3BBc2EwS2hIeFZOLUxyeEdwM3ZzMW1EMHlKYW9veGlkQm8zeEZPODFkQUhPeV9TNnpBdDBGWk84cTNScjhfVWhyRw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "91dd3b0b58a5",
+      "title": "Vírus deixa Espanha em estado de alerta e ameaça fronteira com Portugal - UOL Notícias",
+      "published": "2026-07-21T14:40:51+00:00",
+      "summary": "Vírus deixa Espanha em estado de alerta e ameaça fronteira com Portugal&nbsp;&nbsp;UOL NotíciasVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "UOL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQW1rRk5XRU5ITVVtSzFEVlY1QlY5cm1raDNWNjlHOTBWTzNfck12WHpUMHY2MFNnLUFnQVU2eDJRR0NXcGZHT0tCNHdPOGtFVlFENjBJQ0hBNU1uWXRoVlVDVmZuaTFVa3ZZZE1MZ1JPbmROMDRQV2dMdDllemhmQk9JZmxYU0hyUFNXUngzOFpIR2tkbkpSSmZBQ0xKdUc4dXdkRW5EYU4wSF9fa3ZEUUdzUU4xVmZTVmVlblNUSTF4MHlYY2dFUXdOSmVxaEZrTUJwd0hFX1BncHV5UWtV?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "48ae45615338",
+      "title": "Novos dados mostram que injeção semestral para prevenir o HIV mantém eficácia perto de 100% - G1",
+      "published": "2026-07-21T14:00:11+00:00",
+      "summary": "Novos dados mostram que injeção semestral para prevenir o HIV mantém eficácia perto de 100%&nbsp;&nbsp;G1Gilead e Merck divulgam resultados positivos de ensaio clínico de HIV na semana 48&nbsp;&nbsp;Investing.com Brasil - Finanças, Câmbio e InvestimentosAids 2026: Lenacapavir semestral e comprimido semanal colocam prevenção e tratamento do HIV em uma nova era&nbsp;&nbsp;Agência AidsLenacapavir como opção para o tratamento de PVHIV multiexperimentados&nbsp;&nbsp;Afya | HomeNova injeção contra HIV",
       "sources": [
         {
           "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPYThaSW9qZHFydzRRTUllLWZ1bzZLZGp0YndVeVh3NTRpTGp6WS1ubGxHeVBoQzV3M1c4VHdNV21Ga2NLQU1vOGZQNG03MmdMcWRFS1M1cjl1RzZOWW5ReUtYX0UyVjdwamZxZkh1bXFfOVBURVZySXE4U0RkcXJSTGZoUHdPanZmaGFLR0RqRmVaSHh0Zm9RRHJyT3Jfc3VQckpaYVJIblY3Z19KN01nVGlXZEJZRlZObGwwYWZEZS1aQXBtSEctSC00ZlJSVXdjOFNxZS1kU2N2QXYxclM3NjBpVTNvMXdjU2dBQWZ2alNicjZhYUM2eFVWWEJ1cVZx0gGPAkFVX3lxTE5JNkw2UHNsT1BIcUF2YWRfYzI5bkNLTkloSUZjRzhINU9PWDJpY3laZUlRZ0Z5T0xSN0tzWEJjMmtXNGIzQ0NnSDNQNjNsSVFSWjZoTWRtWTlkV2tQbEs2LW5vc0JxWkw3S2xFQ09UUTBmRGRRbFBfZWI4LVpScU1iMXoxODZTSnFQTmE2dTFQX0poTWdReUZ5TGV0ZVhndWtKcGRnU3lrRmlJTkdfUDdHUkJ6NzBEU2NpUi1SV2dyUS15ZjRnbjBFM1JWWWQ5ZXVNRzRvdVBRdTB2ZHhqLU1YWmU4TkN2b3d3bENMdkNkQ2wzWjJldHJPams0Vlh0OXd4QnZQX2hibU1CMXIxZ2M?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTGhjeHY1ODUxZTNpYW81b0dnWlM1OW5TVDZHbFFSdWMwUjJUTEpaSVE0TWJLU1d3MmZ5NVIwREIzVElzdkVLRDNvSnBXLURuSnc2dUxRS25hMjhwSTlfRWN2OTc3dHpJdkxXbFEwSmx6NWFycmRTWm5BSnZ5MjEwQTVITTdZUDc2RWlBQzhfUWxwd18xVnQ1SE1LRlpNdG92WVJjbFQ4aGxHUkhUdnpUc1YzU3BTaGVUamxkTENpVzB2dGJLT3E0WjZUdndCdFdYUllFclZCUUJrMlUyeXJJcHlQONIB8gFBVV95cUxONTZRaHJkR3FmTWFmMjJqNnNvRmRkRzI0Wm1aWmtqNHd3UzJiOVhzR3JGTjNOTTBMc1BKa1RvZURZMWNVRWV4UTBqV0hKQ0JEZmJmTzI0SF8zN0owQ19uUmxxMFlLX3dVdThpbVRqR3I1UVJRaV9fSGtXRFlyd3dCY3JlMjZndnlFZi1pUm9Xb3JmYlBBYXM5NndOc3JuUi1QNThoeFBzZzBrX2M0N3ZIOUdDT3RSQVZjc2pXNkJSSVc5bXlHaTc2R0MtanVkLTZaUTViSGdXdUQyekViRmVXLU92b2UxZFlLTkF0LWVlemdzUQ?oc=5"
         }
       ]
     },
     {
-      "id": "cf04372e6a65",
-      "title": "China descobre âmbar mais antigo que os dinossauros, e ele guarda memórias da Terra primordial - tupi.fm",
-      "published": "2026-07-21T08:55:51+00:00",
-      "summary": "China descobre âmbar mais antigo que os dinossauros, e ele guarda memórias da Terra primordial&nbsp;&nbsp;tupi.fm",
+      "id": "4b12e40478ac",
+      "title": "Café da manhã rico em proteína e fibra ajuda a emagrecer, indica estudo - Folha de S.Paulo",
+      "published": "2026-07-21T14:00:00+00:00",
+      "summary": "Café da manhã rico em proteína e fibra ajuda a emagrecer, indica estudo&nbsp;&nbsp;Folha de S.Paulo",
       "sources": [
         {
-          "name": "tupi.fm",
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUk9xdndFNk5EVkE3OUdfUUNSOFNiWmlVa0k5UGt5MkJSV3NVUnJRMnEtTVJzTk5vRVlYSmNqTkQtemlPSUFjTnRtdlhUdFBYbzlCTktsUC02SXF4SmJZRjh0bURqY3R4bHQtNjNrOTF2czBBLVFHaGpoZVpIZjc1bGNfMm0zZ2w5NzZFQWxoTzU1ajJMQzVmdFNNVmI5YW05MW9XZS14ZHF5UlpvV1RQdkZta05acVJvcFRYVUtLYVNxRFk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d6d7bd13788d",
+      "title": "Células da mãe permanecem no cérebro dos filhos, sugere estudo - Metrópoles",
+      "published": "2026-07-21T13:50:00+00:00",
+      "summary": "Células da mãe permanecem no cérebro dos filhos, sugere estudo&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrUERLQXl0bV9VYnpEU3JaYlIyT0VFRDhCSU9JS21oTUpOWWFlVWtSX1NGalA4SG9CYWZhYWNMNGVEUjNlbUhLZE1VbURNcWFDdF9TNzUycENOYnNLdmNOYS1UMFpqX0J6YXVZajhaLTZlZXcybC1NdnBR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7430f264a3a9",
+      "title": "Dona do Ozempic acusa laboratório do Mounjaro de propaganda enganosa - O Dia",
+      "published": "2026-07-21T13:16:00+00:00",
+      "summary": "Dona do Ozempic acusa laboratório do Mounjaro de propaganda enganosa&nbsp;&nbsp;O Dia",
+      "sources": [
+        {
+          "name": "O Dia",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVW1Bck1uemQ0Qml0cjZXcXFCMVhVUWduN0dkWVlxQTFsTE1JZUxpdzdJX1o2V1pJeHZkbGFGZzFBTjR1Z1FKUUxaMGd3S2toMUZRRHhvR0ZQNlVad1V2by1OWXlxY3BnbTFUaWJydmR4WDFzb1dBZEdITmdtYkFOQ05uSDNpZWZyY3FWbGFMVERzT0pWOTlnV2d2R2RXdUtyTlpLcU9xVXlyTkUtSFBOXzhjVVlWSHRlZ2xTYjI4ZGFZYUoyZE1v?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d18ca3e1d6f7",
+      "title": "Doença do legionário mata quatro pessoas em Nova York; entenda o que é - UOL Notícias",
+      "published": "2026-07-21T12:51:26+00:00",
+      "summary": "Doença do legionário mata quatro pessoas em Nova York; entenda o que é&nbsp;&nbsp;UOL NotíciasTrês pessoas morrem em surto de bactéria em Nova York&nbsp;&nbsp;O GLOBOBactéria associada à pneumonia é encontrada no Met&nbsp;&nbsp;dasartes.com.brO que é doença dos legionários, que já causou 3 mortes em Nova York&nbsp;&nbsp;Veja SaúdeAutoridades de Nova York informam 3 mortes por doença dos legionários&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "UOL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbWRBaHE5UGJ1UWZZMTR5U01YMHktaUxuTndGNlByd2t1VGhOVTlnM0hOOGwxUHN5R3VYLVp0THBoak1VUjVrdEZlbWd5bjFEWjAyWThjVldkazFvaUxEbFM0dWhRNU9qQUV0RUV4WmNyZkd3dW1SeU9nZzBWd3lJeXgyVVFLdFhqSWNtTld3LTE2T1Z6WnFUTzRsVDY3bzVKeUtNZE5oVGptUTVUWkJleTFWS0U1SUcyVUVkLVp3YkFWNkp5Z01WQTV5WlI?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "64bfef053c5e",
+      "title": "Salários da ciência na Argentina perderam até 40% do poder de compra sob Milei, aponta estudo - Brasil 247",
+      "published": "2026-07-21T12:27:00+00:00",
+      "summary": "Salários da ciência na Argentina perderam até 40% do poder de compra sob Milei, aponta estudo&nbsp;&nbsp;Brasil 247",
+      "sources": [
+        {
+          "name": "Brasil 247",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWFRvWGs4UVF6TXV2YXQ0aFBpaFVuWllUbmhRdjZwSDJNVFNEVXAzM05GVGpHRm55VE8zanp3eHZwRENhc2lxN21sTXBtUmtoZ09ZeXk0di1Ldm9TYlZ3ZnplU25FSFpFaWpoYXozUlRZSEhpNWJDNDNubjdYN0FhbUZvN3dDVm9HRmVQaWZueDA1WEgxdlRlUnFQNmUyUkticFozMERhVnRiN0JNZ3puck9Qb2FxY1E4bW9kNlJwWWR3eDNadFJWdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c819a26427e7",
+      "title": "Acrilamida: como evitar a substância com potencial cancerígeno ao cozinhar, segundo a Anvisa - O GLOBO",
+      "published": "2026-07-21T11:37:16+00:00",
+      "summary": "Acrilamida: como evitar a substância com potencial cancerígeno ao cozinhar, segundo a Anvisa&nbsp;&nbsp;O GLOBOQuais alimentos preparados na airfryer podem formar acrilamida, ligada a prejuízos à saúde?&nbsp;&nbsp;EstadãoAcrilamida: o que é a substância encontrada em frituras e quais seus riscos&nbsp;&nbsp;Veja SaúdeAcrilamida: o erro comum ao preparar batatas e pães na airfryer pode prejudicar sua saúde&nbsp;&nbsp;TerraO detalhe na cor da batata frita e do pão de forma que revela se o alimento ",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPak5ZZDJJeHV2WDgwUEdST214aDVfU3VNVlJrTkhlUVlwckQ1T2hsdXphNXp6Mlg2Qm1RMVBCakQ2S2E1a19DNUthQmp3bzZ2Q3V6akw4M0tTd2g0MWtHVTdFZTJ5bzdqSjlIbE5OX0NaWE1TRjR4aU5fZ3pwY0pYT2dwYlk4cFZYVFMyZTVwRGFnVW4xdHpaR3RIc1ZYYnpjc3BGbGRRcEdad2M3VHVNUVZvcjBMb0tnSTllMmVwSXZHNGFBU2Y4cHJ0eU12SkRRZmotSl8yNWo1MVZ4dzZF0gHuAUFVX3lxTE9rdTJqM0dFcXRlSUxteDhaSmxJWFI3c2JmNlkya3RXcTNWM1c2ekN2NGt4NkhKTmVPNzRXZXRIb19XTE5IZmhHRzZ6c29zTmtTTkwwdHRVM1RKa3lfNVBObFA0RlJocTBROF9UNDdQc216WjZvYVFFb3hqNUpsbmVQUnRDdVZiOHhBWkZmZFRnZXVMRmQ3MFcySm9GV2NRejlxNHlKS1l2SDJHLWp1QUZrcDlLaUFVb2E3U0lUS3dCaHBLZnlUcFNoT0k5S0xtNWV0X1l6S1VMcjFJcU9sZXhqSU1CdGJXZTdzb0dTeXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "12948986f8eb",
+      "title": "Os tubarões sabem contar e preferem jazz: as descobertas que estão mudando a imagem desses animais - Super Rádio Tupi",
+      "published": "2026-07-21T10:40:07+00:00",
+      "summary": "Os tubarões sabem contar e preferem jazz: as descobertas que estão mudando a imagem desses animais&nbsp;&nbsp;Super Rádio Tupi",
+      "sources": [
+        {
+          "name": "Super Rádio Tupi",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRnU1SzdSemx1YlJQSFZyTHcxeEpBYUtvZXdJUlBkY3M0dUJIUzRVSFFXSVF3UGpmMmVXRHRQZU1LajVGdEdyNzFkQUJLWFFDUWM5MmpTblA0TGNZeGFMWEJlanRGUmFvejJQcjl1WWUxYXFULUFQaS1nMjl5ZTJJTVo3bXQ3ZnlIdE5sNG5rNDI1bkE0S29FMXpPSEtuUm5xTV9jN3ZBanNaU2Z4TFBXdzJVY1JlbVI5YTkyUHdDa0kzZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5fbfb0da2bcc",
+      "title": "Qdenga: Índia aprova pela primeira vez o uso de vacina contra a dengue - UOL Notícias",
+      "published": "2026-07-21T10:18:10+00:00",
+      "summary": "Qdenga: Índia aprova pela primeira vez o uso de vacina contra a dengue&nbsp;&nbsp;UOL NotíciasÍndia aprova pela primeira vez o uso de vacina contra a dengue&nbsp;&nbsp;Folha de S.PauloÍndia aprova pela primeira vez vacina contra a dengue&nbsp;&nbsp;O GLOBOÍndia autoriza primeira vacina contra dengue do país&nbsp;&nbsp;Times Brasil | CNBC",
+      "sources": [
+        {
+          "name": "UOL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbUpaaHRnY3hJRUVlMi0tMWVYU2xfOUZxVUtPVVdPUXpwa3prYlE0Y1dudUU3MWIyYWczYW5xU0RPUHBBOXhhSHF0c3BKNWZtT3kzR1ZaMXBobDNEVUhvSUZmN0g2b3dWbVhXaGdFbHExcGNTRndHOVliMUF4UGRaYlN1UTdPNG15OXRScThSaV95dHNzUVlvczUxVTNiWUxScno3Q29MT21kVGt5OGNsZkFjd3NvMmpzeUxjbEJHNlBTbEQx?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "81a05331d2e4",
+      "title": "SUS incorpora novo tratamento para pacientes com ELA em estágio inicial - G1",
+      "published": "2026-07-21T09:43:28+00:00",
+      "summary": "SUS incorpora novo tratamento para pacientes com ELA em estágio inicial&nbsp;&nbsp;G1Ministério da Saúde incorpora remédio para ELA ao SUS&nbsp;&nbsp;Poder360ELA: novo medicamento para estágio inicial da doença degenerativa chega ao SUS&nbsp;&nbsp;VEJASUS incorpora edaravona para esclerose lateral amiotrófica (ELA) em fase inicial&nbsp;&nbsp;Jornal do BrasilSUS passa a disponibilizar novo tratamento para pacientes com Esclerose Lateral Amiotrófica em fase inicial&nbsp;&nbsp;Brasil 247",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUE9NUW4tbWlxOTRCS18wZEYxaG1wV0dyTnF4aC1yTXhLcXIzM0pJMUJzb0U5MVVHd0dBbXIzMTZ1LVVRNkxROVJTdUVWSlBXa3NiaXZ5djNud05HZDk4dGh3SndlSC1tTHU0dlBxY2FyQXh0eDd6OTR2eG1wUFZVWF9HMzU0aVVSUW9ZanFDQjg5OTNPd25xS25CekdfUjF2UTdZaFROclJxRlRZT0w3bGgxTzIweXVRTlhBelRlRDfSAc8BQVVfeXFMUGJqamZMdTE2N3M0aDItXzluTVZXMURLaGhJeVBZS1B0QUpGUEVpTzg3Y1p1T1A3WXlfMTZYdVpkRXRjc3dwajRIOHdOTFRvY2FBM0FvcjV3OHpjUlpGOXRIZ1hnTWNrRHUxOXB2TDRKNDNYVmFmQnI4NUhuN2lFOFJSV0JGaDFwcUdNazZzWVVKaEQ5blRpTktMa0NFOGdaUVN3ODJkVUhVRVB6MDIxb25fcHVpcWNORnhEREVrNmUwbHhWdkFDNGlma1FlLW44?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "21ea5a855871",
+      "title": "China descobre âmbar mais antigo que os dinossauros, e ele guarda memórias da Terra primordial - Super Rádio Tupi",
+      "published": "2026-07-21T08:55:51+00:00",
+      "summary": "China descobre âmbar mais antigo que os dinossauros, e ele guarda memórias da Terra primordial&nbsp;&nbsp;Super Rádio Tupi",
+      "sources": [
+        {
+          "name": "Super Rádio Tupi",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMU1RRVB4dnA1R1lxWGJQZ3o4bFpKWkRZTFBZTXEwNl9uMV9kcU1pNEUtcHpodGJwa0kyY2dhb3poa3pOM0hhd2lTcEVvem1CdWg1UWdlMmNfQ1RQZUI3OEZQOXFMak9rdHRnVzQ3d0EyMGdYYnZTVkdpZTJ3NzhHdjlqSm5SLW1mU1lQN0tEZ05HMnRWc3NSZ2tWbWdYeFN1aTdRcERFbTQ3eXByRGtfRE8xTUhQaF9kMFNuTA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3864c9b3eb9a",
+      "title": "Estudo diz que até quatro xícaras de café por dia podem proteger coração - Correio Braziliense",
+      "published": "2026-07-21T08:00:00+00:00",
+      "summary": "Estudo diz que até quatro xícaras de café por dia podem proteger coração&nbsp;&nbsp;Correio BrazilienseQuantas xícaras de café é seguro tomar por dia? Este estudo calculou limite&nbsp;&nbsp;Globo.comAfinal, café faz bem ou mal para o coração? Grande revisão científica bate o martelo&nbsp;&nbsp;Veja SaúdeQuantas xícaras de café por dia fazem bem ao coração? Nova revisão traz a resposta&nbsp;&nbsp;ExameAté 5 xícaras de café por dia podem reduzir riscos de doença cardíaca&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "Correio Braziliense",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPN0VXaC0zWkFZSlE0Y0M3bVpfT1U4dVVuU2tYRkV4Ym1TVWlCOWlYbHNtT2RJWlVnbXRHbGhRYUlFazdjWGZMRGI4dHJpQmQxbEpROXJkSjE2RVhzX2NSS2dYdG04OGU1eXBObzB3bUY1aVBFQ1lSVVZIbm5abFNSSXBEM3BzTmJtakZfa0Q2WlBRWC0tNXNFX0hnZWh4WGRSZ0tNOVVHTlNXb283Q0k4WGFndzg2Y292WDhUd0pvYmlSdW5GUFpXS3FfdFcxTmJJeURVVXhxNzRoY2FDcUo3ctIB5gFBVV95cUxPMDJHYTJTeVFaM2RQaEN5clhDS0VOWGRMNGNWNnhNTFdQdHVFVHJLQnlqa2RSVWRrY0tlUmNST0F6R1dFMGtIUUI2clBCTW8za1lwdi1pdnJ5eVpLSWphdUtveDlsSFJSbEd2TTVjaHUxaVFvdUlzMEgtQ2dXdC1oY2VrekQ3dzNQd0R1VTJORnFkaE5pLV8zXzh2V3cyZkRkVTZsaERmSXZCTjhpb0JWb21ERUppWXQyS2FHdVhWakFIU0l3TXpLMUU1WVF0QjNiMnlHQWEtTDhlc2ZLMkdvZ0loX3NHdw?oc=5"
         }
       ]
     },
@@ -50,18 +194,6 @@
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMVN2c1gzYV9kNmtDVGlaR2NfanhWdk55NWpYNEctTkt5NU5BMDNMR0F4cndCd0VKbElsU0JYS2hFM2RIUkNETk9HdmNIanJMTDNiUWVQMmVDTHJLbzdwcjR4SUd5ZTBqTUl0M3JqV2d4RGJXbFc0NW9xM1VCbUpQdHNWb3M5TmVhRHprMnozOVFfanNFVG5MWVNTbUlLTWFUTWxYX3dBSG41c19OT3h0bWdEeGJkTlZIU25ZddIBywFBVV95cUxPNklqYkp3c2NJUGZWb1FoOUNneF91SjZLckIweGc2bE8zYTBId2RxOFVxYUhTOFV1empIa2xiWjRqamRRYWVPQkRBaFNReXY5TDAwTlRuMUZKMVRmS3lERlZfMHJUOG5SQ2d5el9RbjBjQlNKbGhZR3ZoaGN1VGFJV3lueklDdkRjMWhFaXFFNEctcXdyYTJxVmRhSUszMmZhRDI2QTUtZzRZeVQ0NWJjNWhCcTNyaG1XNnJYbldKOWpTMTcxTjJOQ0lncw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "59d21feab1e6",
-      "title": "‘Não usamos apenas 10% do cérebro. Isso é mito. Usamos 100% dele’, esclarece neurocientista ganhador do Nobel - O GLOBO",
-      "published": "2026-07-21T07:30:29+00:00",
-      "summary": "‘Não usamos apenas 10% do cérebro. Isso é mito. Usamos 100% dele’, esclarece neurocientista ganhador do Nobel&nbsp;&nbsp;O GLOBODia Mundial do Cérebro alerta para impacto da inflamação crônica sobre memória, concentração e desempenho cognitivo&nbsp;&nbsp;Correio dos MunicípiosDia Mundial do Cérebro: neurocirurgião alerta para sinais de doenças neurológicas e impacto do excesso de telas&nbsp;&nbsp;Jornal O DemocrataNeurocientista Nobel esclarece uso completo do cérebro&nbsp;&nbsp;Correio do Povo ",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQcFcxT3lTSDUxc1V1ckJ6MWRLT2FRZ1hRbGFManNJcnM5SHFuajJzVS1aM3hiYVRid1dualNVWjBlVlEtQ0M1R3VzS1NveFBBZ3FKV1NQZ1UxdnBjT1pqdzQ4MWNpZ1ROa2VkWHdOMUlySTJWX25HSlBCeE12VEhuNmJEUkhCRzRjb1pqRHZBSlROWllKaHdGSWQxN3BiY0czdjNQa3dtb1hKbDJqTDIxTGxQZUJtVXVLXzJMVldYNUR0djFnSXgzbzZXRGc2RTg3Mi1hdW9RaF9LZXFvQ2J0N183bnQwVHhyRVk0T0FONTBWWjk0Z1paZjNod3lEVnBhYlHSAZACQVVfeXFMT0s0RjUwdW9wcEZsZXMtTU5NOENnWlZrLURUTmgtb1didWd4SWZQZUstT2MxODlEbUlTNnhLQ0VkNlloUV8tWGlMcGRmOTVobVY0YmNUdTJkMVo5bEkzUkp2U1FSTGxnUWRwbnEzRmE1c2djOXh0MElRLTFNaTRXVGstNjQwTWJpQWNiTlhQV19hUkItRlRqa1k3VVoteDdvWFA3M2FjWmE5Nlo2djBIN2RsblZ5VGN1YW1UM0xaUVdyUUJYcEdlTG1BeGY4WEpOcTB3REUyckdXZmd3OFljWE5uWUN1cWlmdHVoZXNDR1RBMW03V05vMzZ0azNuY3lkWmgweGlvSlp1bzBSVXRsMUg?oc=5"
         }
       ]
     },
@@ -81,11 +213,47 @@
       "id": "8b07aa041600",
       "title": "Cientistas modificam bactérias para combater câncer - G1",
       "published": "2026-07-21T07:01:53+00:00",
-      "summary": "Cientistas modificam bactérias para combater câncer&nbsp;&nbsp;G1Nova alternativa para o tratamento de câncer&nbsp;&nbsp;G1Uma descoberta com bactéria abre caminho para novas pesquisas contra o câncer&nbsp;&nbsp;Tribuna de MinasBactéria de sapo se mostra promissora contra o câncer&nbsp;&nbsp;The Portugal NewsCientistas modificam bactéria para criar nova estratégia no combate ao câncer&nbsp;&nbsp;Jornal GGN",
+      "summary": "Cientistas modificam bactérias para combater câncer&nbsp;&nbsp;G1Nova alternativa para o tratamento de câncer&nbsp;&nbsp;G1Uma descoberta com bactéria abre caminho para novas pesquisas contra o câncer&nbsp;&nbsp;Tribuna de MinasBactéria de rã revela-se promissora no combate ao cancro&nbsp;&nbsp;The Portugal NewsCientistas modificam bactéria para criar nova estratégia no combate ao câncer&nbsp;&nbsp;Jornal GGN",
       "sources": [
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUmRoUXZGVEUybXJvNWV3cy1MYlFyR1lLLU5QOVBjLUctMDA4RS11V04zN1hvb2RncV9La2Vub3kyUVVqNFljVkhPSXJZLU1kbERiZEZoMmg4dnR2aFV0a3hMV1dnMV9fMmMxdHNCQWxpUHFJM2RGSnhoMEZyb3l6elV5LU9vSFp2X2JvdGRpT18tQkpvRmlQa003MVRvTU8xZTEzT1hn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1a0467138b2c",
+      "title": "Medicamento ou cirurgia? Os novos caminhos para tratar o crescimento da próstata - R7",
+      "published": "2026-07-21T05:00:01+00:00",
+      "summary": "Medicamento ou cirurgia? Os novos caminhos para tratar o crescimento da próstata&nbsp;&nbsp;R7Envelhecimento torna mais complexo o tratamento da próstata aumentada&nbsp;&nbsp;A Crítica",
+      "sources": [
+        {
+          "name": "R7",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbmU0TFloSVAwOHFFcnBTOF9FWUpQWWZTeTduTE5aWnluZkI1dm1UNGRXX240WFZfRk5pdmZzeVMwX0g3bzZ4dUs3MzJsdVJ2Unl1Vy1yQjFQTjJnZzdQdktCNjEyT2JZdGRqM1JzSjlmSTJ5OWY2MTlmTldmS29ERS0tNFVlQURQSEozRWhNeTlEMW5ldlBuekEwcjFZTllQZ2ZicDltd0UtOUdrVWZBQ2RnUUhrVzFUUWxULXBybWZyOFYtY0VncWVyeW5GczBMUEROSHUxSUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7b18ae29832a",
+      "title": "Frase do dia da Psicologia: 'Nem toda distância é falta de amor; às vezes, é uma forma de preservar a saúde emocional' - a reflexão inspirada na obra de Harriet Lerner sobre limites - Jornal Correio",
+      "published": "2026-07-21T03:30:00+00:00",
+      "summary": "Frase do dia da Psicologia: 'Nem toda distância é falta de amor; às vezes, é uma forma de preservar a saúde emocional' - a reflexão inspirada na obra de Harriet Lerner sobre limites&nbsp;&nbsp;Jornal Correio",
+      "sources": [
+        {
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQTHNJUnFQdzliaHUxaUFTUmhSNm4xelZ0b3lfaHRVZVlta2dOOWxXWWhiejR5ekVXcERvczhWNl9wRzZpWWFLTVMwTWM4Q0pRdzU2OXNoM3RIc3BkOWQ3dTNuTGdDVExndlpkNmc2Q0pmZl9YNjJyWGtRZV83bDNreF82dElJR2JLdU9aN2NqeE52VzRFS0JVdHZiaFJqelQ0X1hJWFY4bWhveFVxMU5seUx5V1FqNXktay1BNi0yNGg5dkt4OWpWenl1TlZYLXgwNnVzcmxoWnplSVVvUXFQamROQUlHeVpKaGZJQ2dyYm1Gdi11N2VjaVJGeGtLWHVLUWlZLTJxdUFsQUVRT25zMUdvWVBXYnBZQjl0ZDNkb2dodGFwVlhhRFZIVDl6ZktuSzhGM1NjSTdpeGU0Z0VsZU9GQ0k3UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d911a8c6410a",
+      "title": "Câncer de intestino dá primeiros sinais no banheiro; veja hábitos de risco e como diagnosticar - G1",
+      "published": "2026-07-21T03:01:11+00:00",
+      "summary": "Câncer de intestino dá primeiros sinais no banheiro; veja hábitos de risco e como diagnosticar&nbsp;&nbsp;G1Cirurgião explica como funciona rastreio para identificar o câncer de intestino&nbsp;&nbsp;G1Jovens envelhecem mais rápido, com maior risco de câncer - 20/07/2026 - Equilíbrio e Saúde&nbsp;&nbsp;Folha de S.PauloCâncer colorretal: estilo de vida e prevenção ganham destaque&nbsp;&nbsp;TerraBrasileiros reconhecem sintomas de câncer, mas demoram a ir ao médico&nbsp;&nbsp;Poder360",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZlNZZnFQc2VlYi1sLUN1WjIwbllfYklPLUpyNXZzY1lCakJ2X2dOSFdEQTA4TEdyT0tXdWpaR2FLaGV1enNmX3J5UWc3WGlVVndFUlB0WWhlTU91REdfQ3p4M0pFTUlBY2VTZHN1Sl83cXJKaFRhVDJXNnlSYXpiWERiVnJPckVUZ2lUX1NDZExOS3RiODJPMEVNNncyNU9BT2FHcFhnWktzRHdnTDJzR3pwcXI0Y0hGbzRMbW05eGZjc1hKNnVNUGF6aDNBbXF6dVAzMmVYQjM5cGFtTXfSAewBQVVfeXFMTWduUEcxZWNmRkM5UnJNWF9EZmU5R3g4MklndW95M1JHMzRkbTkyVEhuODYzX2doN19sdUZmbFRoYnlrbnJZa2ZwNXRDWVJ4QXdRUUFqbHkwVlFpcTdYTFQ5WXFTUG1fUGhxSllCQndPeGVLeVVZeHl2Zy1rQk1HV1NWUk95RWZveFVXMkR4T1J2S2x3Vm1vdFA3ZERyTU5mQVNkYVNUc2F4Ni1XSjRCUUFjSUhEaUstV2VNaWwwTnJyNHJoSnFPaGVzd2tFOXlreE9kM19JU1JYXzNldmZCNUlxbGtLUTF3STBfZ0k?oc=5"
         }
       ]
     },
@@ -105,7 +273,7 @@
       "id": "415ca1971b37",
       "title": "Veja os 9 alimentos mais indicados por especialistas para cuidar da saúde dos rins - ICL Notícias",
       "published": "2026-07-20T23:21:58+00:00",
-      "summary": "Veja os 9 alimentos mais indicados por especialistas para cuidar da saúde dos rins&nbsp;&nbsp;ICL NotíciasVeja mais manchetes e perspectivas no Google Notícias",
+      "summary": "Veja os 9 alimentos mais indicados por especialistas para cuidar da saúde dos rins&nbsp;&nbsp;ICL NotíciasDois maiores inimigos dos rins são conhecidos e terceiro vem crescendo&nbsp;&nbsp;CNN BrasilOficina capacita médicos para diagnóstico precoce da doença renal&nbsp;&nbsp;Diário da RegiãoA doença silenciosa que destrói até 80% dos rins sem apresentar nenhum sintoma claro&nbsp;&nbsp;Correio BrazilienseEspecialistas revelam os melhores alimentos para os rins e os vilões da saúde renal&nbsp;&nbsp",
       "sources": [
         {
           "name": "ICL Notícias",
@@ -129,7 +297,7 @@
       "id": "72ee83504742",
       "title": "Mulher tem síndrome rara do coração feliz após casamento do filho - Diário do Nordeste",
       "published": "2026-07-20T22:05:00+00:00",
-      "summary": "Mulher tem síndrome rara do coração feliz após casamento do filho&nbsp;&nbsp;Diário do NordesteSíndrome do coração feliz: contentamento em excesso leva mulher ao hospital em caso raro; entenda e veja os sintomas&nbsp;&nbsp;O GLOBOOpinião - Drauzio Varella: Origem da síndrome do coração partido não está no coração, mas no cérebro&nbsp;&nbsp;Folha de S.PauloSíndrome do Coração Feliz: conheça rara condição que atingiu mulher após episódio de felicidade&nbsp;&nbsp;TerraFelicidade intensa desencadeou",
+      "summary": "Mulher tem síndrome rara do coração feliz após casamento do filho&nbsp;&nbsp;Diário do NordesteSíndrome do coração feliz: contentamento em excesso leva mulher ao hospital em caso raro; entenda e veja os sintomas&nbsp;&nbsp;O GLOBOOpinião - Drauzio Varella: Origem da síndrome do coração partido não está no coração, mas no cérebro&nbsp;&nbsp;Folha de S.PauloSíndrome do Coração Feliz: conheça rara condição que atingiu mulher após episódio de felicidade&nbsp;&nbsp;TerraMulher desenvolve \"síndrome do",
       "sources": [
         {
           "name": "Diário do Nordeste",
@@ -162,26 +330,14 @@
       ]
     },
     {
-      "id": "95f254170f34",
-      "title": "Estudo projeta alta de 47% nas mortes por poluição do transporte no Brasil; reversão exige eletrificação ambiciosa da frota - O GLOBO",
-      "published": "2026-07-20T18:59:59+00:00",
-      "summary": "Estudo projeta alta de 47% nas mortes por poluição do transporte no Brasil; reversão exige eletrificação ambiciosa da frota&nbsp;&nbsp;O GLOBO",
+      "id": "8fd306aa408b",
+      "title": "Tecnologia aliada ao ensino de física revoluciona o estudo da queda de corpos - Jornal da USP",
+      "published": "2026-07-20T18:07:08+00:00",
+      "summary": "Tecnologia aliada ao ensino de física revoluciona o estudo da queda de corpos&nbsp;&nbsp;Jornal da USP",
       "sources": [
         {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxORFd5X0dJN0djWTNnem5Yb3o4UUJHcGpYRHVjaG1fS1ZzeEY3b3ZLaU9yVkVhTmhEUHhmZllIZElzOFRzX1NjRjlGNnJsZEN0N3JZeFhjbkxJWmttRG1KT3V2SHBzeXhvRGR1UmN5TUdaVVoxbVI4NjhPZ0JIcU95OXpuVm9QeDQ3R0NoU1VDdlFBTFpBWU5XOFppdFBoelNKcWJ5V3c5OVhnTVVvM2RnYUxZMU4xLWtPLVpDZzJDTkQzaGcwc1dzN1diWkZ3VjNibkVkQlJxbnhJSWF3dnFaSjAzcncwV0FYeG9rVUJNdVc0SFNXS1oyaGx0N2UwOEhhdWs0aHp6NmRtcHlPTzEzYnJDM0NNWUxMSjhYRNIBqwJBVV95cUxPQmhYeE94aW81eEU5STlpdDl6eFAzUEdsRzg4OWVqd1FNUEYyaC0xSGpGOG10dUpzZDNZbEJhdHFUcnZjN0lmVUp1U3NUbXBvOFJURk9iREFhSWI2YTU3c2lVLTVmSENOSDh4VXRlXzJ4Zy1ReGNDSVlCTS1jZG5MSVFoWHVQUk1YVXFyckp5M2VYc0VqemVzSGdDcmVEZEczVUlaS2hwS0hRaWxWbm9YMmtWQW5ueUQ4SmxfbENlLWFPOVc0SW5CaVZKTlFvZnEwbGhJQ3dqMWprMGlEMDdjLXIycWZ1eEdhak9USFBHVDdEQmhnQWF2amFUNWFQRHl3X1VvcGZ1WnZrblJkVWdOYVNaTHBDdmhTTGluSGQ3M1hPSU56clNnMWFBSQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "37b60ac73161",
-      "title": "Vida moderna pode estar levando a mente humana ao limite, diz estudo - Metrópoles",
-      "published": "2026-07-20T18:44:00+00:00",
-      "summary": "Vida moderna pode estar levando a mente humana ao limite, diz estudo&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oMmlNQkpYYmM0S3BCVHJsZEVDU2pVRVZIQ1REejBVeFY2RVUtMjRkOEV1aUdscTQ2b2JmLWdaSHZ0N19qZHFRUTYxMXZQRzhVcWdaTDJCWTh5bFJtWU5uOElPcWVDQnlLYkRTUzVLZVk?oc=5"
+          "name": "Jornal da USP",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUl9mTWlqUW12UlNoX1lPSnk1ci1oVXY3M1ZnaEZHTGlfc1d1dl94OWhSbTIxbF9TbEV0QUc4TXdCdHRjZG9FSTJZcVhmbG5ORmZFSGpLSVdNYy1fNm4xRGZNMk1OcVZheGhNcEltaW9hRGdwSTlmMGFCRGd2em1wR29OR216VzlPRnp0NmN4dVR1cEpSTk83Q0dYeS1VcVJQdk1ndUFyTXFfcmlYOEE?oc=5"
         }
       ]
     },
@@ -201,7 +357,7 @@
       "id": "60da8176016d",
       "title": "Câncer de cabeça e pescoço: diagnóstico tardio aumenta sequelas; veja sintomas - A Gazeta",
       "published": "2026-07-20T16:42:00+00:00",
-      "summary": "Câncer de cabeça e pescoço: diagnóstico tardio aumenta sequelas; veja sintomas&nbsp;&nbsp;A GazetaJulho Verde alerta sobre câncer de cabeça e pescoço&nbsp;&nbsp;Valor EconômicoCampanha Julho Verde orienta população sobre prevenção do câncer de cabeça e pescoço&nbsp;&nbsp;Jornal da USPCâncer de cabeça e pescoço: diagnóstico precoce pode elevar as chances de cura para até 95%&nbsp;&nbsp;GZH\"Achei que era gripe\", diz homem com câncer na garganta&nbsp;&nbsp;Terra",
+      "summary": "Câncer de cabeça e pescoço: diagnóstico tardio aumenta sequelas; veja sintomas&nbsp;&nbsp;A GazetaJulho Verde alerta sobre câncer de cabeça e pescoço&nbsp;&nbsp;Valor EconômicoCâncer de cabeça e pescoço: diagnóstico precoce pode elevar as chances de cura para até 95%&nbsp;&nbsp;GZHCampanha Julho Verde orienta população sobre prevenção do câncer de cabeça e pescoço&nbsp;&nbsp;Jornal da USP\"Achei que era gripe\", diz homem com câncer na garganta&nbsp;&nbsp;Terra",
       "sources": [
         {
           "name": "A Gazeta",
@@ -210,14 +366,14 @@
       ]
     },
     {
-      "id": "0e33135f8eea",
-      "title": "Quais alimentos preparados na airfryer podem formar acrilamida, ligada a prejuízos à saúde? - Estadão",
-      "published": "2026-07-20T16:00:00+00:00",
-      "summary": "Quais alimentos preparados na airfryer podem formar acrilamida, ligada a prejuízos à saúde?&nbsp;&nbsp;EstadãoAcrilamida: como evitar a substância com potencial cancerígeno ao cozinhar, segundo a Anvisa&nbsp;&nbsp;O GLOBOAcrilamida: o erro comum ao preparar batatas e pães na airfryer pode prejudicar sua saúde&nbsp;&nbsp;TerraAcrilamida: que alimentos não por na air fryer para evitar riscos&nbsp;&nbsp;DOL",
+      "id": "d7ecb8692d4d",
+      "title": "Mel: 5 efeitos importantes que ele tem no organismo e quem não deve consumi-lo - O GLOBO",
+      "published": "2026-07-20T15:54:04+00:00",
+      "summary": "Mel: 5 efeitos importantes que ele tem no organismo e quem não deve consumi-lo&nbsp;&nbsp;O GLOBO6 benefícios do mel para a saúde e como consumi-lo com segurança&nbsp;&nbsp;GZHMel: superalimento que fortalece a saúde e o sistema imunológico&nbsp;&nbsp;boca.com.br",
       "sources": [
         {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQakw4ZGZEaUNOVk9ZSTRic1BRbncyWFBPVGY3UTJpNlpERm5CYThvSkVkT24yNnRFd1B6a3JLa1N5UUFmMm1ISEpGeFNfSTlYVVk2WjJZS3doVWJEZnRYUzJPTzFjak5BRHFQYm1mMV9qQllYRmJFSDJ6REhINnBfcndQdkJjd2pSZUNNQVkzQ1B1X3l6VTBTV21CcGRGamdobERpZ3NETGFhZ2JqTGstR1NoNVJEb00zSTkwQktzOERhOE5lYzRIYllxTUpuSGM1WXk00gHYAUFVX3lxTFBjeWg1MmpDNVhGZXROSzNBdGFneW1DOF8taWhCWU55M3A2TmxranBHNC1wYmZUSm55ekk1Qm0zdXpSdzZHN2ZFOU82VERBdnFYRWJGUUZyT0VvTi12Vm0ya0I2aG1JX04xTnVfVzJxZjdwV0pVM3U3MWdwVnJWbl9hTnh2X2FjV3YyalkyX2tGRi1SN0stN29GLXVTcXFYQTUzckV1Q2haZkdTWW1RNHZJV21oREJEUi1WcjlRMU9hR215bk8yc1luSG9KcFpqZHgwb0VOSWx2Mw?oc=5"
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQVRtMkU3SEh0aklSdmp4cG44eW00bVBydVRVQ3Q3LXRfQzlYelpWODBMX1Z0WXNXSDh3ci1jejBxM0NwaV9LaGVvRm5yN1hUWFhuV0dJcHB1UWZNcWJ3a09QOTVzT2NxNlRqa1phVFdnM05mVER6aGZBaUhqUXFyQjJRcXpUSVk2djNqeTNrdGlrRDluV05MV1h6cXh3Y2pvaXVISk9Xb2xQUXV6VGVoamZLdzRueFVfNU1IeXMzZDdFTl9RMXpGd0E2WC1NQdIB3AFBVV95cUxPS2JKZk1sYS1xOWowNkt2aVU0ZDhTSTBsNnMtZGZ4NG9HU2g0WWl1V3BVQlFRdEN2Ui1BeXl2OWh1Z0drZkZSUFFpczBvTHIya3VhR1JIekVRQzZYOWZtSm5hV2FyeGkxdE81OEtqclpxRHUtd0hCTHFvR0pQUWlhd1J4M1pIQ2xRMTREWlhDaWZ0UmlxUFBCNDd3WmxUamI2SVhiZUNXOUZmOER3dTloZ3A3U2F3UzIxOFZmdkE5SThZd2lCVVBJRFFNQXU3c0RDNk1wOWFCNmpPRTJx?oc=5"
         }
       ]
     },
@@ -258,38 +414,14 @@
       ]
     },
     {
-      "id": "1de5d9d57d45",
-      "title": "Café é associado a menor risco de infarto, AVC e insuficiência cardíaca, diz pesquisa; saiba quantas xícaras são seguras - G1",
-      "published": "2026-07-20T12:34:53+00:00",
-      "summary": "Café é associado a menor risco de infarto, AVC e insuficiência cardíaca, diz pesquisa; saiba quantas xícaras são seguras&nbsp;&nbsp;G1Café: estudo robusto aponta número seguro de xícaras por dia para o coração&nbsp;&nbsp;VEJAQuantas xícaras de café por dia fazem bem ao coração? Nova revisão traz a resposta&nbsp;&nbsp;ExameAté 5 xícaras de café por dia podem reduzir riscos de doença cardíaca&nbsp;&nbsp;MetrópolesEstudo diz que até quatro xícaras de café por dia podem proteger coração&nbsp;&nbsp;C",
+      "id": "4eb815de6ef1",
+      "title": "Anvisa aprova novo medicamento para linfoma não Hodgkin — Agência Nacional de Vigilância Sanitária - Anvisa - www.gov.br",
+      "published": "2026-07-20T10:56:35+00:00",
+      "summary": "Anvisa aprova novo medicamento para linfoma não Hodgkin — Agência Nacional de Vigilância Sanitária - Anvisa&nbsp;&nbsp;www.gov.brVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQd19oTUJOWC1QeHhLSVZ1YTRnM2o3U3RVNXEwQlV1SkVFV2dMcGw0UXBFUXM0c19kVzNNQkdvNDRrdVhHbHJYX1JOU1dnS3ZMcWdIMTBYNGdic2R1QVBCd3NTazg2NWJfVEVLckVEdWd6RXo4U3AxWHBPd29sUlkyT2toV1RNV1haaHZYc0lyU0JiNUdURkcwQ0J5TDVucGlKcngxaXJ3MUdFTmNMTDByQ3V1UjVNSDdzWFRuUWlSclJLMDY3TFBHRkJMUUNYMDN0MmJEQ0NtSUUxU3V5MzRhMFRMNm5sOEYyRUpLMG1OWVZIRGdENjFzNGJBdXA0QdIBjAJBVV95cUxOZFVLRDRIOFA3SXMtUE05bW9nNEw3QUpQb2Z3LU5XU013aE41Zzh2UmU1clVsVGZOelpRX1ZvMkx6b1drX3plRHlXSDJ2VG4wWlNsV09SaTdSRi1kemxBWVF1anRLcUk3ZUpMZXZrZTZWSjBSTjJsb08zNG10NFBuNW5EbmpDUDJQUVlsSXZROVBtVFJZaExtd2dJdW5HaEM5ZmIwWjNIVGkxU0tVb3ROU2Jrczlqa0NQbFJWM2R0cmlGS0RhZDR3dEg3UTBSMjhHOV91VDlNVm9WaHRZeWplYUhGT0ljTTg2Yk0xNU56Y0RvSlZzTTZTMnR0V3VnNFplem1tdUlwQ1NJeTVw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6401b697c881",
-      "title": "Cientistas usam satélites e IA para encontrar o “berço” de uma espécie em risco no Brasil - Revista Oeste",
-      "published": "2026-07-20T10:35:00+00:00",
-      "summary": "Cientistas usam satélites e IA para encontrar o “berço” de uma espécie em risco no Brasil&nbsp;&nbsp;Revista Oeste",
-      "sources": [
-        {
-          "name": "Revista Oeste",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUVJZY3J0b1VtRzRLWFFkRTBKU09NZHlNY0hoZzlIUWdLMWNxOGdCNi1BSzd5UW5DdEo0Rjk3YnAzSWs2enV6eTFsZWJkWERydWlSR0d3LTRGQmxQeFhkRnhkUlpiZ2stUXBDUWEyQVNlQTlIdzV5Q2pQSnRQXzVpeTA1VnJnOTBVOVBpaUJUMzlvNTkwZGNDcWFGQkp6TDdxSW5DeXBVY3VpdVRPSkIzbVV2cndaUFhXR1pqaUM3Sl9TMzhRU280N0IyVXgzcGJR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6dfb3c4b1b25",
-      "title": "Assistir muita TV na meia-idade pode estar ligado a alterações cerebrais associadas ao Alzheimer, aponta estudo - G1",
-      "published": "2026-07-20T10:29:49+00:00",
-      "summary": "Assistir muita TV na meia-idade pode estar ligado a alterações cerebrais associadas ao Alzheimer, aponta estudo&nbsp;&nbsp;G1Veja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSzd3UXhFMWlfYjhpUFY4aFlHRlNGYVhfWkFEd0ZDLW1iNXJxLWx4Q1UxdEY3c3FLdEJsQ0pWeHNTNF9RX1hibmVPVXhjUmlaWmZsV3g2Unk1a3ByWlJIQmJwczhWQUt1THJLYTVlZGw0MVNGQXVKb09xdlRTMVRtaUc0eWoxRXM1Zk40SHlQZk43RnpMTjRjYmVOMF9aUjA1V1NXdkFxQmRILU9QeHZ3WmNkeFRPX2M1OW9EXzUtYUpCamRta1Fja2ozcHdDSjFGWDdEcThxSGZ5WHRnckJqUUtSWEhOaVdlTnVBcU9xNGxYVWJS0gGDAkFVX3lxTFBvcUNrSTJyZDlqeWJDT2ZwZGcwQ1RwNHdLT0NHOGQ1OElCRUdHUHRXcEd6QXJEa0RyNXlZV2NvRGJFbDhycEVkU2V2VERYMHJoM19pMnJQSW0tY1dlXzdHczY5a2xtMUhLUDdRbmlGbUdkUEJ2TVZfb09HZzVDbW9BbUlJeEN6bjRUMjl0a0htcWlZclJ2cUxpSzBpMWFWd1RUa1VXZ0tIckhzSVQzWjBaUW8zN29LOXVBQjh2d2lwVVloMDNUNlVTWGdwcXdoMXVQZGpkeXVLUFdwbmZ6OFJTX1BlM2JqSG1OMkNBWnEwUHdUaW5nbDFBbV9zMS1pd3VBZXM?oc=5"
+          "name": "www.gov.br",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQjc2Y01CdVFvSHUzYzdrbVVicDI4QUZjVXJOOGNOVndDemtMaS1nZVV3VTJ3TEtHdFB4TzlvaTlQR0hkeU40VGF2Zmpxd0NIYjJKZWJXX0Y0X1FvM0U3amNSc2k0QmJOR3lfVThGWXVIR0RZOTltZ3pxNFYzekNDVDhxNlc4S0NtQk4tMnNYWUU3RmhhMWtrQXdEbjVaOUZ3UC1GaVlraGtEeEt6YmdydjNCSEFDVHNB?oc=5"
         }
       ]
     },
@@ -350,66 +482,6 @@
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSnpGUTVNRXZwU0RoS2poY2gwc3I1WUpYbTdzOVVtMERpMVBCQVBrSHI1SFB3TDI3QXJUc0JJZl95VENUeDBmOGxDYlhUYnYzZDVHby1lS1V2NU5TVi1PazNFSlI5LWlfWnFaZ2dITHZNQ28zbG9YVWtNUHU1b0YwU1R1ZklCQ0RFUjBaQ013TFFPV0d2VDE0ZExBbUc3OE04Q1pDcWVacWRKN1Jwck9BYlJSMjhvRkE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0990adfd4060",
-      "title": "Japão em alerta com forte avanço da doença mão-pé-boca - Portal Mie",
-      "published": "2026-07-20T05:36:55+00:00",
-      "summary": "Japão em alerta com forte avanço da doença mão-pé-boca&nbsp;&nbsp;Portal MieJapão enfrenta maior surto de mão-pé-boca em dois anos&nbsp;&nbsp;Portal Mie",
-      "sources": [
-        {
-          "name": "Portal Mie",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYkxZdkRoSFRrU1lEQXdRUHE2a3RQbkZvTGZ6bXhxemwtTy04RUl2MTVPa2Zwam9vTmc5cEZDdGdEY3RKUjlmTW1oWXhEUkxXRXNEbXNOZnpaNEs1cy1jWWFlQy1Wd084Sm5Oakg1M1BlRkZMcVJBSUxLTHNNcVNtbFM0b0lJWXA5UE5pRHBLRURyQkZRWGFQUi1fai0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dd27928e6a7b",
-      "title": "Três sinais da menopausa que muitas mulheres ignoram, segundo médica - Metrópoles",
-      "published": "2026-07-20T05:00:00+00:00",
-      "summary": "Três sinais da menopausa que muitas mulheres ignoram, segundo médica&nbsp;&nbsp;MetrópolesPerimenopausa: Deixar para se cuidar só na menopausa pode ser tarde (e sofrido) demais&nbsp;&nbsp;VEJAPrecisamos de falar sobre menopausa. \"Ainda se acha que as mulheres têm de se manter jovens e bonitas até ao fim da vida\"&nbsp;&nbsp;maxima.pt'Não me reconheço mais': a crise silenciosa vivida por muitas mulheres depois dos 45&nbsp;&nbsp;Globo.comNovo medicamento dobra sobrevida em câncer de pâncreas e traz",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdGV3QlVNamlUMHBwX0dXc3BscHFaUzB2UVhYbU9vNzBMZlQ0MjM2eHJnMEx6SFNwaHhPeWNQY1J4MUJqZTQwaFJycUFPczZoNWh6WUVxNDAtN1lxeVJHR3NYbHNqU2xZQ2diUDMxQXVWQU9hSHNxVmh0blNsMlBzZExnYlhWaWRmLWVTTldHeHFqQzczbFRHbDJVU1Y2eXlVWkJtaFBrMWRhMWdW?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b2438f74fed3",
-      "title": "Aspirina pode salvar vidas em caso de infarto agudo, mas exige atenção - Metrópoles",
-      "published": "2026-07-20T05:00:00+00:00",
-      "summary": "Aspirina pode salvar vidas em caso de infarto agudo, mas exige atenção&nbsp;&nbsp;MetrópolesAspirina pode ajudar nos primeiros momentos de um infarto, mas não substitui atendimento médico&nbsp;&nbsp;Fato AmazônicoAspirina pode salvar vidas em caso de infarto, mas exige cuidado; entenda&nbsp;&nbsp;Diário do Centro do Mundo",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNUF3djZrNGoxR0c1QS04Tk5xaUhCQmJSS0ExQjF1N2hRVWNyTFFlZlBMX1FSYW5VNFhndmZjZjNFeS1ZTDRTbU9MRnV3YzdWRDhVSEF2MzVZb203Ukd1YXQ4R0gxX0ExNkZTcC0tdmFJd0VtUVJMV29USEQ4YlRidg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a1f5449377a3",
-      "title": "Cientistas descobrem como café ajuda na saúde e envelhecimento - Folha PE",
-      "published": "2026-07-19T17:58:32+00:00",
-      "summary": "Cientistas descobrem como café ajuda na saúde e envelhecimento&nbsp;&nbsp;Folha PE",
-      "sources": [
-        {
-          "name": "Folha PE",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZEEybTV0cVVGQjliNnhQRjhJQnh3TUxjNmVDZldyMWtyR1FzSm42LTIzVm42QlF5dzZlNzlTSXJ2UXNVNGF0emVnUVZDbUQ2UDVpaS1Ubk5vNjdsN01iVmY5RVpuR0Rlb0tOcW41YlVtdUg2RmlHYmQzLXdMTW01cmkyT3NWUlZ6c2EyckE2djZkOF9RZldSLVhhQ3hJS04teVZkcThoYm92QQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e1618a454b66",
-      "title": "Por que nossos dedos têm comprimentos diferentes - 19/07/2026 - Ciência - Folha de S.Paulo",
-      "published": "2026-07-19T15:00:00+00:00",
-      "summary": "Por que nossos dedos têm comprimentos diferentes - 19/07/2026 - Ciência&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNX2FLZmlMUi1lT05jdWRIUHRyeVNkUWx3UU5zVjZGZzNZWWNQVnp3elJoOEg2LWlRcWV6LTNPajUwaFdUazMwZ0lSSDRhZWQ3bjdYSERUVG1yaV9uMzhYaGxrMVlMWnhreE11Y1hjRndIdFF3X3RybHNJaWlONnNfU3k1QVd2alQwdXF4Z1FSbU1MQXJSYmxaN0tleVZUMWJaeVE?oc=5"
         }
       ]
     }
