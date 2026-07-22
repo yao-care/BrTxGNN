@@ -1,14 +1,26 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-07-22T02:47:38.470166+00:00",
-  "total_fetched": 98,
-  "unique_count": 97,
-  "health_related_count": 37,
+  "fetched_at": "2026-07-22T08:31:28.784716+00:00",
+  "total_fetched": 95,
+  "unique_count": 94,
+  "health_related_count": 33,
   "news": [
+    {
+      "id": "a20ea15cc1c0",
+      "title": "Soroterapia: o que a ciência diz sobre os 'soros da beleza' que prometem mais energia e imunidade - G1",
+      "published": "2026-07-22T06:00:12+00:00",
+      "summary": "Soroterapia: o que a ciência diz sobre os 'soros da beleza' que prometem mais energia e imunidade&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbWxZNURKZnlrcDJwR2ZkSjhQZURmb3ZELWx3NVV3Y01aY2ozeWJnbGQ1cG1WcHFPTkk3eV9QeVE0VlV6QzFTa1Q5QXFQQ3NyVW5EN1JGVkNGQngwLU5NaUhVRldFY2NFUzR3M3dZbUY3QmIteDh0QWxrSWVKbV9aRmpLaVNsN3hvc0ZMallhek5hajlmRFdWTU5sazVqU1RuLWF4aTlHNkZUbDRFRFNJb1lNdllYcldPczJDOGc1YXdkQzVQMllWQXlydm9OUVMxeGxBQ0lhSEZVQzY4Mkg00gHuAUFVX3lxTE1WaENwaWtyU3dzd0MyV1J1TEM1V0F4UVpWS3UyczNDSGVpOHlOcWNnNUdYUzBKSTZON0FrQTdBcmZ2MVdwQlduUHc5WGxaaGZRNzExQVAxQXgtTU1fMnZUZm5YaS12OUJGQVdNSFlMWktNVzgxdEhWS2RjR2VYaHZsenJoY2JUWGJ5ZEV4cWhJYmNVYloyRl9MTXRqa01HRlVscUdXSUtmZEg3RjNUOHRQaUVBNEw2b2NZRFM3TzVSV3JDOWJWZGwwVm9wMEpmMVNQcGdfSmZfTmw3MDFXendSbUxmMDlQZHp5bEFmY0E?oc=5"
+        }
+      ]
+    },
     {
       "id": "ed330a6d4c3d",
       "title": "Cientistas procuraram no cérebro e nos olhos, mas encontraram no fígado dos pombos o surpreendente mecanismo que pode explicar como essas aves voltam para casa mesmo quando o Sol desaparece - CPG Click Petróleo e Gás",
-      "published": "2026-07-22T00:49:36+00:00",
+      "published": "2026-07-22T03:54:15+00:00",
       "summary": "Cientistas procuraram no cérebro e nos olhos, mas encontraram no fígado dos pombos o surpreendente mecanismo que pode explicar como essas aves voltam para casa mesmo quando o Sol desaparece&nbsp;&nbsp;CPG Click Petróleo e Gás",
       "sources": [
         {
@@ -20,12 +32,24 @@
     {
       "id": "6aabf486690f",
       "title": "SUS terá novo remédio para tratar a esclerose lateral amiotrófica (ELA) - UOL Notícias",
-      "published": "2026-07-21T21:50:04+00:00",
-      "summary": "SUS terá novo remédio para tratar a esclerose lateral amiotrófica (ELA)&nbsp;&nbsp;UOL NotíciasSUS amplia tratamento de ELA inicial com acesso a novo medicamento&nbsp;&nbsp;CNN BrasilSUS incorpora novo tratamento para pacientes com ELA em estágio inicial&nbsp;&nbsp;G1ELA: novo medicamento para estágio inicial da doença degenerativa chega ao SUS&nbsp;&nbsp;VEJASUS terá novo remédio para tratar a esclerose lateral amiotrófica; veja como funciona&nbsp;&nbsp;Estadão",
+      "published": "2026-07-22T01:47:47+00:00",
+      "summary": "SUS terá novo remédio para tratar a esclerose lateral amiotrófica (ELA)&nbsp;&nbsp;UOL NotíciasELA: novo medicamento para estágio inicial da doença degenerativa chega ao SUS&nbsp;&nbsp;VEJASUS incorpora novo tratamento para pacientes com ELA em estágio inicial&nbsp;&nbsp;G1SUS amplia tratamento de ELA inicial com acesso a novo medicamento&nbsp;&nbsp;CNN BrasilSUS terá novo remédio para tratar a esclerose lateral amiotrófica; veja como funciona&nbsp;&nbsp;Estadão",
       "sources": [
         {
           "name": "UOL Notícias",
           "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQngzZzF1VUxlNy1YX1Y2ZmpFaTNWeUlzS3JBZVhpblFYb0RfQzgtRVJELTg4Q2N6dWNYRkQ1LWlZMTAtdzhTZGttem1iQUM2dFVRVS0tNDJCanF0a3JhaEZxbER5ck50cUxBY1IwbFFhVlNTNlU3QTR5X3FRakZQaHRGd0xPUmhMNUlxOUpPUUtpSVROZGx2VUV3Rzd6eG40UFRFSk9BNzN6VDdDTlZJYW44WFBCWDgyc1ZTQ3o2dFJqeXRSSldiMGFrVDBOVEFHYnI4V2lJbHRONUQ3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "911e2dd31fbc",
+      "title": "Soltaram 500 tartarugas-gigantes no Saara e o que aconteceu depois deixou pesquisadores sem acreditar: imagens de satélite registraram uma transformação que ninguém esperava em uma das regiões mais áridas do planeta - CPG Click Petróleo e Gás",
+      "published": "2026-07-21T20:33:00+00:00",
+      "summary": "Soltaram 500 tartarugas-gigantes no Saara e o que aconteceu depois deixou pesquisadores sem acreditar: imagens de satélite registraram uma transformação que ninguém esperava em uma das regiões mais áridas do planeta&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNbVNRakVXaEx3TWotQXBXMUZKV3A0R0NCTXh6X0JTR05aeEFWS0Uwam9qTnpYUjh1SjBidHJLdkd4eldvMG9BNkw0U1FuS2Rram5OWGsyclF0M2tMVGFWa2VCSUZaY2pwMHVyX1ByVUxsQ2pvSkJPWWJmNHY0VkpsdFJXYjh3NnljOHZ2bC13Ml9Ic05FNklGbmRuS0R2c2dheFN4UG4yVjc4RDJIMTJ4YmpIV2xkcWlsMGFGNER3SE04bFhJVVp2R2cydFBNYVN0SEprN1ZBU0kxSFp6aVRQblBTbEJkQzlTRldQY1ZnQklWbXRaeEFhRm1WcXpzbWdfV2s3eWlMNEhNTnF1Rno5Mkh1ZU5TeWxHZEZNWTBkbl81MFBpT2lMbEozNFJBdTNqOWFEWmJLYVNRN2dxY0o0aTZsQXBjU2s?oc=5"
         }
       ]
     },
@@ -38,6 +62,18 @@
         {
           "name": "Rádio Itatiaia",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT1duNE1pNFBTUWR5d2h5S2lMcXJuRkJPWWtrV1h2R2FsTUZjelVVSFlBNlZYMTBESTJIMFpBTUVnUDY4ZHlzank2UzZFM0pmMEd3bjVvQ25oN19hVUV0bEFjVXRMellTWWlDZW45UVI1MXZtV1lGaGFjb3pKSGYteTZJbm0xaXBlYTNnd3ZScmhVcUdMdkdLZ1NYbnAzb3FDNldiVjF4Q2ppT3M1blQyZEMzV3NFN0Zh?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8a737f1cd3b2",
+      "title": "Lúcia Helena: Fratura na prótese peniana: estudo brasileiro mostra o tamanho do problema - UOL",
+      "published": "2026-07-21T19:00:00+00:00",
+      "summary": "Lúcia Helena: Fratura na prótese peniana: estudo brasileiro mostra o tamanho do problema&nbsp;&nbsp;UOL",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQU09rTWZDd0Z0aE83TWRhTTB3OHZPNEllRTduUG5zVldkYi02aG9qSUszRlUtd1UxMUFOODFFRUk0YVRCZXRoOXdNYVhJZlJJR3JkNHludWlvYUdXb1ZKSVFwaDdReURPM2xHOTVFeDF0X2dNS2RJdWZ6dkpYUWVXd3gweV83US1kaFNKT3RqLXVrWWxyYi1scEF6SXNRMHRpWGFveG1NakRORi1kcmxlU3NfWVpiUnUydXZVdDlkYmx1RjJUdks5eWt2RUk5a3VBM2J1S2hscw?oc=5"
         }
       ]
     },
@@ -66,30 +102,6 @@
       ]
     },
     {
-      "id": "9991361ed0bf",
-      "title": "Doenças neurológicas estão entre as principais causas de incapacidade e morte no mundo - Notícias Interativa",
-      "published": "2026-07-21T16:54:05+00:00",
-      "summary": "Doenças neurológicas estão entre as principais causas de incapacidade e morte no mundo&nbsp;&nbsp;Notícias Interativa",
-      "sources": [
-        {
-          "name": "Notícias Interativa",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNLTNObXlqaDg2SktkTmQ5QmpIR2V6cFlLeW9PbXJjd0kyVXJxWHJCU3ZMSDJHT1ZScXpSd21oVWRyTTBlMzhLeHVaZ3NTMXFrcnlVNDJHZ2p1ZGVzN1hYZ1Z1Z3QtNW41U1NfZFRzQy1JcjZscEVQMVFXVHFzcllhTXdVeFFPekVGUVVkdEdoajhnanBxYzZSWUpJM182MWo3b1BBa2ZXY0NYTkh6bzczVGFJeF9ZLUxKSEEyclVYQy1mR1hpMENNR080dzdwVnBIZElHdjhNcGVlMmUwMnc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f75195f3927f",
-      "title": "Conheça o exame de sangue simples que pode detectar câncer de intestino antes dos sintomas - Jornal Correio",
-      "published": "2026-07-21T16:08:04+00:00",
-      "summary": "Conheça o exame de sangue simples que pode detectar câncer de intestino antes dos sintomas&nbsp;&nbsp;Jornal CorreioCâncer de intestino dá primeiros sinais no banheiro; veja hábitos de risco e como diagnosticar&nbsp;&nbsp;G1Jovens envelhecem mais rápido, com maior risco de câncer - 20/07/2026 - Equilíbrio e Saúde&nbsp;&nbsp;Folha de S.Paulo8 em cada 10 brasileiros reconhecem sintomas do câncer colorretal&nbsp;&nbsp;CNN BrasilTeste usado no rastreamento do câncer de intestino é desconhecido por 6",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNajdGRTJDVEx6MTdRX3B0NVlreW5EN2hUYl8wcm93VkVKall0N2sxRjZxdmJIbjJHeW9Ed2pYblZUTWhDa1BrZUZ1bWhFQUNRUHRiVlBCVWdnZk9vcEh0dGRfeC1IRHdsa3JSdnZkd2NBMHFUM1hQTlNjVFBaZjFpNVhHYnAxVXBEZU5Sd195Q2FSVG1mcVFSVmpxX3Fscl9qcEhGVmM4RnM5RkhLcXFxcjZMM3F2cTZMLUdPVFVPN3VMekxONUJaTUMzYUFQamUxbXEw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d1b6d76ce031",
       "title": "Humanos podem viver até qual idade? Este estudo calculou limite máximo - Globo",
       "published": "2026-07-21T15:06:02+00:00",
@@ -102,22 +114,10 @@
       ]
     },
     {
-      "id": "8a737f1cd3b2",
-      "title": "Lúcia Helena: Fratura na prótese peniana: estudo brasileiro mostra o tamanho do problema - UOL",
-      "published": "2026-07-21T15:00:00+00:00",
-      "summary": "Lúcia Helena: Fratura na prótese peniana: estudo brasileiro mostra o tamanho do problema&nbsp;&nbsp;UOL",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQU09rTWZDd0Z0aE83TWRhTTB3OHZPNEllRTduUG5zVldkYi02aG9qSUszRlUtd1UxMUFOODFFRUk0YVRCZXRoOXdNYVhJZlJJR3JkNHludWlvYUdXb1ZKSVFwaDdReURPM2xHOTVFeDF0X2dNS2RJdWZ6dkpYUWVXd3gweV83US1kaFNKT3RqLXVrWWxyYi1scEF6SXNRMHRpWGFveG1NakRORi1kcmxlU3NfWVpiUnUydXZVdDlkYmx1RjJUdks5eWt2RUk5a3VBM2J1S2hscw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "91dd3b0b58a5",
       "title": "Vírus deixa Espanha em estado de alerta e ameaça fronteira com Portugal - UOL Notícias",
       "published": "2026-07-21T14:40:51+00:00",
-      "summary": "Vírus deixa Espanha em estado de alerta e ameaça fronteira com Portugal&nbsp;&nbsp;UOL NotíciasVeja mais manchetes e perspectivas no Google Notícias",
+      "summary": "Vírus deixa Espanha em estado de alerta e ameaça fronteira com Portugal&nbsp;&nbsp;UOL NotíciasMosquitos infetados com o vírus do Nilo Ocidental estão a aumentar na Europa. E Portugal está em risco?&nbsp;&nbsp;RFMEspanha declara alerta sanitário em dois municípios de Sevilha após deteção de mosquitos infetados&nbsp;&nbsp;HealthNewsVírus do Nilo Ocidental: Espanha ativa alerta em dois municípios da Andaluzia&nbsp;&nbsp;Distrito OnlineEspanha em alerta após detetar mosquitos com vírus a 150 km do ",
       "sources": [
         {
           "name": "UOL Notícias",
@@ -174,18 +174,6 @@
       ]
     },
     {
-      "id": "0f2d82b00a65",
-      "title": "Jovem com problemas neurológicos é estuprado em Ananindeua e passa por cirurgia - romanews.com.br",
-      "published": "2026-07-21T13:33:11+00:00",
-      "summary": "Jovem com problemas neurológicos é estuprado em Ananindeua e passa por cirurgia&nbsp;&nbsp;romanews.com.br",
-      "sources": [
-        {
-          "name": "romanews.com.br",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQX0lYaG1tNnFuUndRU2d4YkoyV2FPNmZOOVk1VEJ3ZVgwaXRDVkt1eWxzVXBhalprWE5FZy1LdGZGRnV4RkZjLVNqRzkwSmNMMnhyY2VwdndYM0xqMXlrU1JBSm5IZWFVSFp4Mkk2TXBjeFBaMHZWUmFfVy1rZ0JnaFVfTDFNUnlFZUpaX19ZbC1wbFI3bVR0OUlrN0JobDZWNHJiQVlKZmUzeElqYklSaUhkRnludFVwMFV4Sg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7430f264a3a9",
       "title": "Dona do Ozempic acusa laboratório do Mounjaro de propaganda enganosa - O Dia",
       "published": "2026-07-21T13:16:00+00:00",
@@ -222,6 +210,18 @@
       ]
     },
     {
+      "id": "1d53fc826209",
+      "title": "Câncer de intestino: maioria dos brasileiros desconhece exame que pode detectar precocemente doença, aponta pesquisa - G1",
+      "published": "2026-07-21T09:18:52+00:00",
+      "summary": "Câncer de intestino: maioria dos brasileiros desconhece exame que pode detectar precocemente doença, aponta pesquisa&nbsp;&nbsp;G1Diagnóstico precoce pode curar mais de 90% dos casos de câncer de intestino; veja os sinais de alerta&nbsp;&nbsp;G1Novas gerações podem estar envelhecendo mais rápido em nível molecular, provocando cânceres precoces, diz estudo&nbsp;&nbsp;O GLOBOJovens envelhecem mais rápido, com maior risco de câncer - 20/07/2026 - Equilíbrio e Saúde&nbsp;&nbsp;Folha de S.Paulo8 em c",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPYThaSW9qZHFydzRRTUllLWZ1bzZLZGp0YndVeVh3NTRpTGp6WS1ubGxHeVBoQzV3M1c4VHdNV21Ga2NLQU1vOGZQNG03MmdMcWRFS1M1cjl1RzZOWW5ReUtYX0UyVjdwamZxZkh1bXFfOVBURVZySXE4U0RkcXJSTGZoUHdPanZmaGFLR0RqRmVaSHh0Zm9RRHJyT3Jfc3VQckpaYVJIblY3Z19KN01nVGlXZEJZRlZObGwwYWZEZS1aQXBtSEctSC00ZlJSVXdjOFNxZS1kU2N2QXYxclM3NjBpVTNvMXdjU2dBQWZ2alNicjZhYUM2eFVWWEJ1cVZx0gGPAkFVX3lxTE5JNkw2UHNsT1BIcUF2YWRfYzI5bkNLTkloSUZjRzhINU9PWDJpY3laZUlRZ0Z5T0xSN0tzWEJjMmtXNGIzQ0NnSDNQNjNsSVFSWjZoTWRtWTlkV2tQbEs2LW5vc0JxWkw3S2xFQ09UUTBmRGRRbFBfZWI4LVpScU1iMXoxODZTSnFQTmE2dTFQX0poTWdReUZ5TGV0ZVhndWtKcGRnU3lrRmlJTkdfUDdHUkJ6NzBEU2NpUi1SV2dyUS15ZjRnbjBFM1JWWWQ5ZXVNRzRvdVBRdTB2ZHhqLU1YWmU4TkN2b3d3bENMdkNkQ2wzWjJldHJPams0Vlh0OXd4QnZQX2hibU1CMXIxZ2M?oc=5"
+        }
+      ]
+    },
+    {
       "id": "21ea5a855871",
       "title": "China descobre âmbar mais antigo que os dinossauros, e ele guarda memórias da Terra primordial - Super Rádio Tupi",
       "published": "2026-07-21T08:55:51+00:00",
@@ -237,7 +237,7 @@
       "id": "3864c9b3eb9a",
       "title": "Estudo diz que até quatro xícaras de café por dia podem proteger coração - Correio Braziliense",
       "published": "2026-07-21T08:00:00+00:00",
-      "summary": "Estudo diz que até quatro xícaras de café por dia podem proteger coração&nbsp;&nbsp;Correio BrazilienseCafé é associado a menor risco de infarto, AVC e insuficiência cardíaca, diz pesquisa; saiba quantas xícaras são seguras&nbsp;&nbsp;G1Afinal, café faz bem ou mal para o coração? Grande revisão científica bate o martelo&nbsp;&nbsp;Veja SaúdeQuantas xícaras de café por dia fazem bem ao coração? Nova revisão traz a resposta&nbsp;&nbsp;ExameCientistas descobrem como café ajuda na saúde e envelhecim",
+      "summary": "Estudo diz que até quatro xícaras de café por dia podem proteger coração&nbsp;&nbsp;Correio BrazilienseCafé é associado a menor risco de infarto, AVC e insuficiência cardíaca, diz pesquisa; saiba quantas xícaras são seguras&nbsp;&nbsp;G1Afinal, café faz bem ou mal para o coração? Grande revisão científica bate o martelo&nbsp;&nbsp;Veja SaúdeCientistas descobrem como café ajuda na saúde e envelhecimento&nbsp;&nbsp;Folha PEQuantas chávenas de café por dia são seguras para o coração?&nbsp;&nbsp;Eur",
       "sources": [
         {
           "name": "Correio Braziliense",
@@ -297,23 +297,11 @@
       "id": "d0707b682472",
       "title": "Anvisa aprova novo tratamento contra tipo agressivo de câncer no sangue - CNN Brasil",
       "published": "2026-07-20T23:29:19+00:00",
-      "summary": "Anvisa aprova novo tratamento contra tipo agressivo de câncer no sangue&nbsp;&nbsp;CNN BrasilAnvisa aprova medicamento para tipo agressivo de linfoma não Hodgkin&nbsp;&nbsp;Folha de S.PauloComo funciona o novo medicamento para pacientes com linfoma não Hodgkin agressivo&nbsp;&nbsp;EstadãoAnvisa aprova novo tratamento para tipo agressivo de linfoma&nbsp;&nbsp;G1Boa Notícia: Anvisa aprova novo medicamento para câncer agressivo&nbsp;&nbsp;R7",
+      "summary": "Anvisa aprova novo tratamento contra tipo agressivo de câncer no sangue&nbsp;&nbsp;CNN BrasilAnvisa aprova medicamento para tipo agressivo de linfoma não Hodgkin&nbsp;&nbsp;Folha de S.PauloBoa Notícia: Anvisa aprova novo medicamento para câncer agressivo&nbsp;&nbsp;R7Anvisa aprova novo tratamento para tipo agressivo de linfoma&nbsp;&nbsp;G1Como funciona o novo medicamento para pacientes com linfoma não Hodgkin agressivo&nbsp;&nbsp;Estadão",
       "sources": [
         {
           "name": "CNN Brasil",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTmRhdHQzVDdCY1ZFRFFNc05TZ0sxX1FmbFBfNTNKUlVpZXFFZGg0Tzgtd3drU1VLcWlQc0R5SHYwZzh0bEZqV2F3bWgya0FKYTI0UXdYdlQ0aFlWSUc3NTJNUDUtNjBBYjBFSFpyOEN2dkxhdkVJMWRqNFY3a1o3QTgyYTBSaVJERzR1VXB1aHVTVnNTYUxra0hLTnhQRkZoMnJuYWxqQWhiOTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "415ca1971b37",
-      "title": "Veja os 9 alimentos mais indicados por especialistas para cuidar da saúde dos rins - ICL Notícias",
-      "published": "2026-07-20T23:21:58+00:00",
-      "summary": "Veja os 9 alimentos mais indicados por especialistas para cuidar da saúde dos rins&nbsp;&nbsp;ICL NotíciasDois maiores inimigos dos rins são conhecidos e terceiro vem crescendo&nbsp;&nbsp;CNN BrasilEvento aprimora busca de diagnóstico&nbsp;&nbsp;Diário da RegiãoDescubra três fatores de alerta que aumentam risco de doença renal crônica silenciosa&nbsp;&nbsp;Rádio ItatiaiaA doença silenciosa que destrói até 80% dos rins sem apresentar nenhum sintoma claro&nbsp;&nbsp;Correio Braziliense",
-      "sources": [
-        {
-          "name": "ICL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pZDJTOGI5aGVrMWVidHotbTFhOFdSUm5GcjZVTTIxYlE5dUpwSzRIaG1Qd0pySVpwR2ptajhXNTQ1cGZxbEUyV1piWkRUaVFHTlg1V0lZNmZyb2VtQ1h2elFRQms4TWluTFMzSTlydw?oc=5"
         }
       ]
     },
@@ -342,6 +330,30 @@
       ]
     },
     {
+      "id": "9fb2c6884b69",
+      "title": "Como (não) proteger o seu cérebro no envelhecimento - Nexo Jornal",
+      "published": "2026-07-20T22:04:54+00:00",
+      "summary": "Como (não) proteger o seu cérebro no envelhecimento&nbsp;&nbsp;Nexo JornalEnvelhecimento da população reforça importância da estimulação cognitiva&nbsp;&nbsp;Estado de MinasDoenças neurológicas estão entre as principais causas de incapacidade e morte no mundo&nbsp;&nbsp;Conexão TocantinsDia Mundial do Cérebro: hábitos simples ajudam a preservar memória e saúde cognitiva&nbsp;&nbsp;Repórter DiárioO valor que o cérebro e o corpo pagam para nos defender e a nossa dívida de saúde para com eles&nbsp;",
+      "sources": [
+        {
+          "name": "Nexo Jornal",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPODdWQkpiZHpCdGl2YVNicF8xY2h6cWN0WWdqa3JlREFuYlk3Z1N5bHZSZWRySnVaQVljOXZNQlpjMXR3VDAwNWpqdTlXTTA1MTBuLU5kY2NHdHhFbXJ3TEtCUjZmdjIySmMybVpGMmo0d2JrUVVrX0FUSFZoM2liNWJKX1dwdmJfUUlr?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2ef09b25a6d8",
+      "title": "Especialistas revelam os melhores alimentos para os rins e os vilões da saúde renal - Folha Vitória",
+      "published": "2026-07-20T20:59:01+00:00",
+      "summary": "Especialistas revelam os melhores alimentos para os rins e os vilões da saúde renal&nbsp;&nbsp;Folha VitóriaDois maiores inimigos dos rins são conhecidos e terceiro vem crescendo&nbsp;&nbsp;CNN BrasilEvento aprimora busca de diagnóstico&nbsp;&nbsp;Diário da RegiãoDescubra três fatores de alerta que aumentam risco de doença renal crônica silenciosa&nbsp;&nbsp;Rádio ItatiaiaInsuficiência renal crônica: entenda por que a doença afeta principalmente os idosos&nbsp;&nbsp;CartaCapital",
+      "sources": [
+        {
+          "name": "Folha Vitória",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPXzdKRTVEcHk0X290RTd2RFFPTFV3STdZUU9kMlJ0Tk9fVDBWdDY4QlYxemVTaVB5YTl3RXkwNzk2Um1vWHF1MW8xRlZuWHcxVlVuRXVnOUpyQnozSC1rZmppUGZWb19wQ2I1Sld2SmNRTm95Q2pBZzdRRzRfNmJwamJXeGlOeEtvei1MdWdUNndHN0ltXzkzN1BYU0ZEZklIMHc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a2f765cf5bfa",
       "title": "DNA do Sudário de Turim lança luz sobre história biológica - Aventuras na História",
       "published": "2026-07-20T20:23:34+00:00",
@@ -366,18 +378,6 @@
       ]
     },
     {
-      "id": "8fd306aa408b",
-      "title": "Tecnologia aliada ao ensino de física revoluciona o estudo da queda de corpos - Jornal da USP",
-      "published": "2026-07-20T18:07:08+00:00",
-      "summary": "Tecnologia aliada ao ensino de física revoluciona o estudo da queda de corpos&nbsp;&nbsp;Jornal da USP",
-      "sources": [
-        {
-          "name": "Jornal da USP",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUl9mTWlqUW12UlNoX1lPSnk1ci1oVXY3M1ZnaEZHTGlfc1d1dl94OWhSbTIxbF9TbEV0QUc4TXdCdHRjZG9FSTJZcVhmbG5ORmZFSGpLSVdNYy1fNm4xRGZNMk1OcVZheGhNcEltaW9hRGdwSTlmMGFCRGd2em1wR29OR216VzlPRnp0NmN4dVR1cEpSTk83Q0dYeS1VcVJQdk1ndUFyTXFfcmlYOEE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8ce6043ec0bd",
       "title": "Estudo: biópsia líquida ajuda a identificar 4 vezes mais casos de câncer - UOL",
       "published": "2026-07-20T16:46:15+00:00",
@@ -390,18 +390,6 @@
       ]
     },
     {
-      "id": "60da8176016d",
-      "title": "Câncer de cabeça e pescoço: diagnóstico tardio aumenta sequelas; veja sintomas - A Gazeta",
-      "published": "2026-07-20T16:42:00+00:00",
-      "summary": "Câncer de cabeça e pescoço: diagnóstico tardio aumenta sequelas; veja sintomas&nbsp;&nbsp;A GazetaJulho Verde alerta sobre câncer de cabeça e pescoço&nbsp;&nbsp;Valor EconômicoCâncer de cabeça e pescoço: diagnóstico precoce pode elevar as chances de cura para até 95%&nbsp;&nbsp;GZHCampanha Julho Verde orienta população sobre prevenção do câncer de cabeça e pescoço&nbsp;&nbsp;Jornal da USP\"Achei que era gripe\", diz homem com câncer na garganta&nbsp;&nbsp;Terra",
-      "sources": [
-        {
-          "name": "A Gazeta",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSWFXWWx1ejdNOS0xRWpBTkI3QjRiQ0tuT0ZHTU1ta0hHaEpGWTBpTTlqbWwzSVhuN1RHdzJYNm1PNjlLS2NOMTVQUlY2NUdFYWxiOWxlMlR0OVljV3BnNmxkSmFxUEQ0bTcxb2NQUUJwVzZBeUM4WlFBTlBMd3lTU21mQjRrNElhMDl2VUFVOUYtSEF2bXNVVTRJaFRkNjEzbDhoUVQ3a0F0ZUg5TTZCNG5wWmNkSUsx?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d7ecb8692d4d",
       "title": "Mel: 5 efeitos importantes que ele tem no organismo e quem não deve consumi-lo - O GLOBO",
       "published": "2026-07-20T15:54:04+00:00",
@@ -410,42 +398,6 @@
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQVRtMkU3SEh0aklSdmp4cG44eW00bVBydVRVQ3Q3LXRfQzlYelpWODBMX1Z0WXNXSDh3ci1jejBxM0NwaV9LaGVvRm5yN1hUWFhuV0dJcHB1UWZNcWJ3a09QOTVzT2NxNlRqa1phVFdnM05mVER6aGZBaUhqUXFyQjJRcXpUSVk2djNqeTNrdGlrRDluV05MV1h6cXh3Y2pvaXVISk9Xb2xQUXV6VGVoamZLdzRueFVfNU1IeXMzZDdFTl9RMXpGd0E2WC1NQdIB3AFBVV95cUxPS2JKZk1sYS1xOWowNkt2aVU0ZDhTSTBsNnMtZGZ4NG9HU2g0WWl1V3BVQlFRdEN2Ui1BeXl2OWh1Z0drZkZSUFFpczBvTHIya3VhR1JIekVRQzZYOWZtSm5hV2FyeGkxdE81OEtqclpxRHUtd0hCTHFvR0pQUWlhd1J4M1pIQ2xRMTREWlhDaWZ0UmlxUFBCNDd3WmxUamI2SVhiZUNXOUZmOER3dTloZ3A3U2F3UzIxOFZmdkE5SThZd2lCVVBJRFFNQXU3c0RDNk1wOWFCNmpPRTJx?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a85cb0f69155",
-      "title": "Nasce o primeiro componente orbitrônico puro - Site Inovação Tecnológica",
-      "published": "2026-07-20T10:26:58+00:00",
-      "summary": "Nasce o primeiro componente orbitrônico puro&nbsp;&nbsp;Site Inovação Tecnológica",
-      "sources": [
-        {
-          "name": "Site Inovação Tecnológica",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWUFXUEpuWndnOEJneUVHS1c3RDl6M19iQ1VfRWk4VnYzLTF2TGdza0JOOERrUlFtUVJoNFEtSWdRUmx4Q2laMURtNHAxRUkwRVlpQ2FtNHhDZldIejhBSmozVENDelY1QWJ5RUVsajVfTUw4LVpwdjRVX2JWY2VJbW9QZHZuR1E4RnZOMjI5OXl5RFRXYlp1dk9yLVVfX0NKNUNCWm9YSVNyZnJ5Z3Yw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2512f907bb1c",
-      "title": "Aos 18 anos, ela se formou com a média perfeita de 10 e vai estudar na faculdade que seleciona os vencedores do Prêmio Nobel de Medicina - Portal 6",
-      "published": "2026-07-20T08:31:52+00:00",
-      "summary": "Aos 18 anos, ela se formou com a média perfeita de 10 e vai estudar na faculdade que seleciona os vencedores do Prêmio Nobel de Medicina&nbsp;&nbsp;Portal 6",
-      "sources": [
-        {
-          "name": "Portal 6",
-          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNM1gtVWhqZWNWLVZfbG92WVpoWVRMV3kzOTUzeXZtWG1sSm93U1lNX2RYOHlQVU1qN1dmb3h3U3JzOVcwVEJBdHJwRGsxOGtmdXU2Y2xRQU1uRTlpQmZObnh0OUFjdzFDYUZqdkZVak1rTmMyT0VSYUxGWW1XWkdGRVpLUkpqMHZNbXFkODNnMVlnVVlMbHJfLXVmZTJkZ0ZkYi1aTk01Xy03Qm1zaGVWZG95OERHMk80NVh6OXFFWlA2OGFmRWtnaHVEZUVrWjJGUDN5OGY3SXdQaXUwek9MWC1EalFqaEt3TzFKT2M2dHh2Smkyek04SHFZT3ZWYWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c7073b74fba6",
-      "title": "Psyllium ajuda a emagrecer? O que a ciência diz sobre o suplemento apelidado de 'Ozempic natural' - O GLOBO",
-      "published": "2026-07-20T07:00:18+00:00",
-      "summary": "Psyllium ajuda a emagrecer? O que a ciência diz sobre o suplemento apelidado de 'Ozempic natural'&nbsp;&nbsp;O GLOBOAlém das fibras, psyllium é prebiótico e ajuda na saúde do intestino&nbsp;&nbsp;MetrópolesAlém do colesterol: como a fibra do psyllium também ajuda a controlar a glicose em quem tem diabetes&nbsp;&nbsp;Tua Saúde“Mounjaro de pobre”? Entenda os benefícios e cuidados no consumo de psyllium&nbsp;&nbsp;Diário do Centro do MundoApelidado de \"Ozempic natural\", o psyllium realmente funcion",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYnBUTGNLd0hRZ1hDcHZodkxmMHYxZTBBUjkteWFaeUc4TTNxTnRKTk5nWm4xVDJ3b3cwRGZYNWtMMXRaRDB1SHRNRzl5SFVaYmVZRjh0NmRIUFBVbUFVUVlzU1lsbDhRVDR1bDN0WVgwWm4zVFdCWFhEaEZKYWFxTTVPWTNTYWRRbE1lTGtJWUw1TFFoWndZSkR6NWtqTWs1ZU00NnRIOFZjNHB4d3dNbFRGTHlSYk9oaDlYUzdkN296a2FLWW02dnVEdXpyZW1iU1k2SWEyRkFqejNRX3RvOHcwWlbSAfMBQVVfeXFMUFJqcXpmazBvbHozOTZkZjdPZTIwdWpWN21BMm5pTm40ZnF3bnFvSXpPRG9JRE1iWVdSdFBDYmZKM19TWVVYeUF5R21tcUpWZVA4Wl9XQkMxWU9sWC1qcDhSWGVPNFBoMFZCbTAyYlI2VHhTa2xFekFwbkZ1LXpxNHJSM3VDOEducnB5bjN6emNwZVhmMGstMkZpXzJVQV84a2tfY25fRmxqMk9BbXkwenJkVTRmaUVXNmF3dk1EbkNvWUtFR25Id3NnN18yaFN1N0Z6bmcwc19qLU9pQjNKYjh5VmZpbWFRblJ4OHNtWkc5QTJ3?oc=5"
         }
       ]
     }
