@@ -1,31 +1,115 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-07-21T19:25:31.674089+00:00",
-  "total_fetched": 97,
+  "fetched_at": "2026-07-22T02:47:38.470166+00:00",
+  "total_fetched": 98,
   "unique_count": 97,
-  "health_related_count": 40,
+  "health_related_count": 37,
   "news": [
+    {
+      "id": "ed330a6d4c3d",
+      "title": "Cientistas procuraram no cérebro e nos olhos, mas encontraram no fígado dos pombos o surpreendente mecanismo que pode explicar como essas aves voltam para casa mesmo quando o Sol desaparece - CPG Click Petróleo e Gás",
+      "published": "2026-07-22T00:49:36+00:00",
+      "summary": "Cientistas procuraram no cérebro e nos olhos, mas encontraram no fígado dos pombos o surpreendente mecanismo que pode explicar como essas aves voltam para casa mesmo quando o Sol desaparece&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWS04RXZkV0tjb0hqQWdHRFFQR2RXUFJvRzlsdDBRR3lLck10TlZHUF9FNzFoWDl4RHlxemVBUndYb0hDMWI0dFo0eV9kLUQ1cjc3VE90N2k5NWY4ZlhfTE9IU0szcmtiRFlfNGxndGFSUWFRU0JrMjU0Tk5QWU1VOTZhd09xZVJfTE5tTjV6WkRRTmVjT2YxWWhkbw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6aabf486690f",
+      "title": "SUS terá novo remédio para tratar a esclerose lateral amiotrófica (ELA) - UOL Notícias",
+      "published": "2026-07-21T21:50:04+00:00",
+      "summary": "SUS terá novo remédio para tratar a esclerose lateral amiotrófica (ELA)&nbsp;&nbsp;UOL NotíciasSUS amplia tratamento de ELA inicial com acesso a novo medicamento&nbsp;&nbsp;CNN BrasilSUS incorpora novo tratamento para pacientes com ELA em estágio inicial&nbsp;&nbsp;G1ELA: novo medicamento para estágio inicial da doença degenerativa chega ao SUS&nbsp;&nbsp;VEJASUS terá novo remédio para tratar a esclerose lateral amiotrófica; veja como funciona&nbsp;&nbsp;Estadão",
+      "sources": [
+        {
+          "name": "UOL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQngzZzF1VUxlNy1YX1Y2ZmpFaTNWeUlzS3JBZVhpblFYb0RfQzgtRVJELTg4Q2N6dWNYRkQ1LWlZMTAtdzhTZGttem1iQUM2dFVRVS0tNDJCanF0a3JhaEZxbER5ck50cUxBY1IwbFFhVlNTNlU3QTR5X3FRakZQaHRGd0xPUmhMNUlxOUpPUUtpSVROZGx2VUV3Rzd6eG40UFRFSk9BNzN6VDdDTlZJYW44WFBCWDgyc1ZTQ3o2dFJqeXRSSldiMGFrVDBOVEFHYnI4V2lJbHRONUQ3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f9ed359088f4",
+      "title": "Como um suco matinal de 6 ingredientes se tornou rotina de um médico regenerativo - Rádio Itatiaia",
+      "published": "2026-07-21T19:21:04+00:00",
+      "summary": "Como um suco matinal de 6 ingredientes se tornou rotina de um médico regenerativo&nbsp;&nbsp;Rádio Itatiaia",
+      "sources": [
+        {
+          "name": "Rádio Itatiaia",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT1duNE1pNFBTUWR5d2h5S2lMcXJuRkJPWWtrV1h2R2FsTUZjelVVSFlBNlZYMTBESTJIMFpBTUVnUDY4ZHlzank2UzZFM0pmMEd3bjVvQ25oN19hVUV0bEFjVXRMellTWWlDZW45UVI1MXZtV1lGaGFjb3pKSGYteTZJbm0xaXBlYTNnd3ZScmhVcUdMdkdLZ1NYbnAzb3FDNldiVjF4Q2ppT3M1blQyZEMzV3NFN0Zh?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "add46a427c09",
+      "title": "Fator de risco para demência: como prevenir a perda auditiva? - Portal Drauzio Varella",
+      "published": "2026-07-21T18:07:09+00:00",
+      "summary": "Fator de risco para demência: como prevenir a perda auditiva?&nbsp;&nbsp;Portal Drauzio VarellaComo cuidar do cérebro para reduzir o risco de Alzheimer? Especialistas explicam hábitos que fazem a diferença&nbsp;&nbsp;G1O risco de demência não começa na velhice: o que a OMS diz que você precisa fazer hoje&nbsp;&nbsp;Revista FórumCiência prova que envelhecimento não é sinônimo de demência quando o estilo de vida muda&nbsp;&nbsp;Jornal da USPNovas diretrizes da OMS: até 45% do risco de demência pod",
+      "sources": [
+        {
+          "name": "Portal Drauzio Varella",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOai1penhHZ0VwcTE1a0RveGZNOHJOUWZQSWlIdjlZT0JrV0dmLUw1VUI4ZTZkdmx5NHVKZ2JuZzViYkhDNFVUc0FLUzFyNjRqbXJkSmdudEp5SnpvYkJReDI0NG9SdTNQWFFVdnZURkdPdy10MnB1UG8ycFZzVTNYdmtKZTNKOUVjbFpROGc3aHFmT251REdqV2o1cGhublBFeW1GS2hEWWU0MkJkelMzZ3ZyNHZWZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "be873e38399e",
+      "title": "Cientistas brasileiros analisam 2.870 amostras, encontram mais de 4.200 genes alterados e revelam 129 possíveis caminhos contra o Alzheimer - CPG Click Petróleo e Gás",
+      "published": "2026-07-21T17:35:00+00:00",
+      "summary": "Cientistas brasileiros analisam 2.870 amostras, encontram mais de 4.200 genes alterados e revelam 129 possíveis caminhos contra o Alzheimer&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQYXpJcTBETHlZT2NEQ3pYY1I3enkwZG5mMWFCT1RhNDlMTng5YlR2UWctMjY4S2lTVnlRRVpWX3hZZWFYZXhtNzBtT29VR1dRd3UxWTFWbDVDSlFXa3A4WXkxaUoyT09PVEpFLVc4Ry1HX0FuZzM4WEFsOVFRNVhfRndfajFIbFZQOFJ4MnRSUmFjVjZtNmkweFVfQlNDb3FTRDBmMnRWRzJURGxfZk40LXJSd2FlU1ZldWNBeTIxajRpZ0FUX3Y2QkZoME1SUVM5NmZZQ29sYUNZdzBlYW95N3BtLWF0Z0dfb05HdGNDUmptVTBvcERZcC13MXYwOW9ZZmdtTmtSamoxOUU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9991361ed0bf",
+      "title": "Doenças neurológicas estão entre as principais causas de incapacidade e morte no mundo - Notícias Interativa",
+      "published": "2026-07-21T16:54:05+00:00",
+      "summary": "Doenças neurológicas estão entre as principais causas de incapacidade e morte no mundo&nbsp;&nbsp;Notícias Interativa",
+      "sources": [
+        {
+          "name": "Notícias Interativa",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNLTNObXlqaDg2SktkTmQ5QmpIR2V6cFlLeW9PbXJjd0kyVXJxWHJCU3ZMSDJHT1ZScXpSd21oVWRyTTBlMzhLeHVaZ3NTMXFrcnlVNDJHZ2p1ZGVzN1hYZ1Z1Z3QtNW41U1NfZFRzQy1JcjZscEVQMVFXVHFzcllhTXdVeFFPekVGUVVkdEdoajhnanBxYzZSWUpJM182MWo3b1BBa2ZXY0NYTkh6bzczVGFJeF9ZLUxKSEEyclVYQy1mR1hpMENNR080dzdwVnBIZElHdjhNcGVlMmUwMnc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f75195f3927f",
+      "title": "Conheça o exame de sangue simples que pode detectar câncer de intestino antes dos sintomas - Jornal Correio",
+      "published": "2026-07-21T16:08:04+00:00",
+      "summary": "Conheça o exame de sangue simples que pode detectar câncer de intestino antes dos sintomas&nbsp;&nbsp;Jornal CorreioCâncer de intestino dá primeiros sinais no banheiro; veja hábitos de risco e como diagnosticar&nbsp;&nbsp;G1Jovens envelhecem mais rápido, com maior risco de câncer - 20/07/2026 - Equilíbrio e Saúde&nbsp;&nbsp;Folha de S.Paulo8 em cada 10 brasileiros reconhecem sintomas do câncer colorretal&nbsp;&nbsp;CNN BrasilTeste usado no rastreamento do câncer de intestino é desconhecido por 6",
+      "sources": [
+        {
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNajdGRTJDVEx6MTdRX3B0NVlreW5EN2hUYl8wcm93VkVKall0N2sxRjZxdmJIbjJHeW9Ed2pYblZUTWhDa1BrZUZ1bWhFQUNRUHRiVlBCVWdnZk9vcEh0dGRfeC1IRHdsa3JSdnZkd2NBMHFUM1hQTlNjVFBaZjFpNVhHYnAxVXBEZU5Sd195Q2FSVG1mcVFSVmpxX3Fscl9qcEhGVmM4RnM5RkhLcXFxcjZMM3F2cTZMLUdPVFVPN3VMekxONUJaTUMzYUFQamUxbXEw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d1b6d76ce031",
+      "title": "Humanos podem viver até qual idade? Este estudo calculou limite máximo - Globo",
+      "published": "2026-07-21T15:06:02+00:00",
+      "summary": "Humanos podem viver até qual idade? Este estudo calculou limite máximo&nbsp;&nbsp;Globo",
+      "sources": [
+        {
+          "name": "Globo",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYzI2WHBLM3Q3NjhWNUh4NWR4SzJVTFFRTjRyUjIxVEo2SjFrYUJpd2pMWjBQZm14M1prNHhLVnNHNEpwbE05WWFoNTdGSmRJNzlyZnBVRE5aV0pwSjFzZUYxaUx3N2NNdlVFdkJUVkpRNVQ3T3RDWGpPZlFYanJQTmRVMWtxU0NKN0dRZnozUmswbllzZXZhWU1aWkQ3N09QTTVHRzZCYm9mQVp4NDVCeTZhQXBRUlJVNFFsODBqMm53SmNkUGJKVlNn0gHYAUFVX3lxTFBPWS13V1pNSzNVZHZCYTJRelRMWmF2czcyR3Z0NFI4anVMSnRrVzR3blJhT0tDQTVHbXJyaGpBczZzRU81VV9YZEUyV2FmYlVvWi1NZDFMSHFiSHg1WXZJWVgteXlXTDVtdnc4OFE2UXJTaHV5R1pCWjNxUDdGdHpZNlA2VmFOd3NaaWlmR2czaURoeHpBN3BBc2EwS2hIeFZOLUxyeEdwM3ZzMW1EMHlKYW9veGlkQm8zeEZPODFkQUhPeV9TNnpBdDBGWk84cTNScjhfVWhyRw?oc=5"
+        }
+      ]
+    },
     {
       "id": "8a737f1cd3b2",
       "title": "Lúcia Helena: Fratura na prótese peniana: estudo brasileiro mostra o tamanho do problema - UOL",
-      "published": "2026-07-21T19:00:00+00:00",
+      "published": "2026-07-21T15:00:00+00:00",
       "summary": "Lúcia Helena: Fratura na prótese peniana: estudo brasileiro mostra o tamanho do problema&nbsp;&nbsp;UOL",
       "sources": [
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQU09rTWZDd0Z0aE83TWRhTTB3OHZPNEllRTduUG5zVldkYi02aG9qSUszRlUtd1UxMUFOODFFRUk0YVRCZXRoOXdNYVhJZlJJR3JkNHludWlvYUdXb1ZKSVFwaDdReURPM2xHOTVFeDF0X2dNS2RJdWZ6dkpYUWVXd3gweV83US1kaFNKT3RqLXVrWWxyYi1scEF6SXNRMHRpWGFveG1NakRORi1kcmxlU3NfWVpiUnUydXZVdDlkYmx1RjJUdks5eWt2RUk5a3VBM2J1S2hscw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7cc2410956a5",
-      "title": "Humanos podem viver até qual idade? Este estudo calculou limite máximo - Globo.com",
-      "published": "2026-07-21T15:06:02+00:00",
-      "summary": "Humanos podem viver até qual idade? Este estudo calculou limite máximo&nbsp;&nbsp;Globo.com",
-      "sources": [
-        {
-          "name": "Globo.com",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYzI2WHBLM3Q3NjhWNUh4NWR4SzJVTFFRTjRyUjIxVEo2SjFrYUJpd2pMWjBQZm14M1prNHhLVnNHNEpwbE05WWFoNTdGSmRJNzlyZnBVRE5aV0pwSjFzZUYxaUx3N2NNdlVFdkJUVkpRNVQ3T3RDWGpPZlFYanJQTmRVMWtxU0NKN0dRZnozUmswbllzZXZhWU1aWkQ3N09QTTVHRzZCYm9mQVp4NDVCeTZhQXBRUlJVNFFsODBqMm53SmNkUGJKVlNn0gHYAUFVX3lxTFBPWS13V1pNSzNVZHZCYTJRelRMWmF2czcyR3Z0NFI4anVMSnRrVzR3blJhT0tDQTVHbXJyaGpBczZzRU81VV9YZEUyV2FmYlVvWi1NZDFMSHFiSHg1WXZJWVgteXlXTDVtdnc4OFE2UXJTaHV5R1pCWjNxUDdGdHpZNlA2VmFOd3NaaWlmR2czaURoeHpBN3BBc2EwS2hIeFZOLUxyeEdwM3ZzMW1EMHlKYW9veGlkQm8zeEZPODFkQUhPeV9TNnpBdDBGWk84cTNScjhfVWhyRw?oc=5"
         }
       ]
     },
@@ -45,7 +129,7 @@
       "id": "48ae45615338",
       "title": "Novos dados mostram que injeção semestral para prevenir o HIV mantém eficácia perto de 100% - G1",
       "published": "2026-07-21T14:00:11+00:00",
-      "summary": "Novos dados mostram que injeção semestral para prevenir o HIV mantém eficácia perto de 100%&nbsp;&nbsp;G1Gilead e Merck divulgam resultados positivos de ensaio clínico de HIV na semana 48&nbsp;&nbsp;Investing.com Brasil - Finanças, Câmbio e InvestimentosAids 2026: Lenacapavir semestral e comprimido semanal colocam prevenção e tratamento do HIV em uma nova era&nbsp;&nbsp;Agência AidsLenacapavir como opção para o tratamento de PVHIV multiexperimentados&nbsp;&nbsp;Afya | HomeNova injeção contra HIV",
+      "summary": "Novos dados mostram que injeção semestral para prevenir o HIV mantém eficácia perto de 100%&nbsp;&nbsp;G1Novos dados mostram que a PrEP injetável tem quase 100% de eficácia&nbsp;&nbsp;MetrópolesInjeção semestral para prevenir o HIV mantém eficácia perto de 100%&nbsp;&nbsp;VEJAGilead e Merck divulgam resultados positivos de ensaio clínico de HIV na semana 48&nbsp;&nbsp;Investing.com Brasil - Finanças, Câmbio e InvestimentosNova injeção contra HIV mantém eficácia próxima de 100% após mais de um an",
       "sources": [
         {
           "name": "G1",
@@ -69,11 +153,35 @@
       "id": "d6d7bd13788d",
       "title": "Células da mãe permanecem no cérebro dos filhos, sugere estudo - Metrópoles",
       "published": "2026-07-21T13:50:00+00:00",
-      "summary": "Células da mãe permanecem no cérebro dos filhos, sugere estudo&nbsp;&nbsp;Metrópoles",
+      "summary": "Células da mãe permanecem no cérebro dos filhos, sugere estudo&nbsp;&nbsp;MetrópolesCélulas da mãe podem permanecer no cérebro dos filhos por toda a vida, sugere estudo&nbsp;&nbsp;GloboCélulas da mãe podem permanecer no cérebro dos filhos por décadas&nbsp;&nbsp;diariodopara.com.brCélulas maternas podem permanecer no cérebro dos filhos até o fim da vida&nbsp;&nbsp;Aventuras na História",
       "sources": [
         {
           "name": "Metrópoles",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrUERLQXl0bV9VYnpEU3JaYlIyT0VFRDhCSU9JS21oTUpOWWFlVWtSX1NGalA4SG9CYWZhYWNMNGVEUjNlbUhLZE1VbURNcWFDdF9TNzUycENOYnNLdmNOYS1UMFpqX0J6YXVZajhaLTZlZXcybC1NdnBR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f472ea93d79a",
+      "title": "Sorocaba amplia público para vacinação contra dengue - Prefeitura de Sorocaba",
+      "published": "2026-07-21T13:41:00+00:00",
+      "summary": "Sorocaba amplia público para vacinação contra dengue&nbsp;&nbsp;Prefeitura de SorocabaSorocaba amplia vacinação contra dengue e inclui pessoas entre 4 e 59 anos&nbsp;&nbsp;G1População de 4 a 59 anos começa a receber vacina contra a dengue em Sorocaba&nbsp;&nbsp;jornalcruzeiro.com.brVacinação contra dengue é ampliada para pessoas de 4 a 59 anos em Prudente&nbsp;&nbsp;Portal PrudentinoVacinação contra a dengue é ampliada para moradores de 4 a 59 anos em Sorocaba&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "Prefeitura de Sorocaba",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSGtoSWtnelRKanZKaHlXU2FrU2F0aG5QY1ZVWDFQUUJtSlFmc2ZEX3FPM21fTHZ2Nk1ld3BsTVpINVJhdjNGQUR2clJMQTN6Y3R5TDA5M0VvVnkxNXpkQ3FxT2c2bGxHdVdTdEFYS2l1MGx3bll3UE14SEZNSmdlTlp4SmgteE9tT0NOdUFXM053LWNwOHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0f2d82b00a65",
+      "title": "Jovem com problemas neurológicos é estuprado em Ananindeua e passa por cirurgia - romanews.com.br",
+      "published": "2026-07-21T13:33:11+00:00",
+      "summary": "Jovem com problemas neurológicos é estuprado em Ananindeua e passa por cirurgia&nbsp;&nbsp;romanews.com.br",
+      "sources": [
+        {
+          "name": "romanews.com.br",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQX0lYaG1tNnFuUndRU2d4YkoyV2FPNmZOOVk1VEJ3ZVgwaXRDVkt1eWxzVXBhalprWE5FZy1LdGZGRnV4RkZjLVNqRzkwSmNMMnhyY2VwdndYM0xqMXlrU1JBSm5IZWFVSFp4Mkk2TXBjeFBaMHZWUmFfVy1rZ0JnaFVfTDFNUnlFZUpaX19ZbC1wbFI3bVR0OUlrN0JobDZWNHJiQVlKZmUzeElqYklSaUhkRnludFVwMFV4Sg?oc=5"
         }
       ]
     },
@@ -90,50 +198,14 @@
       ]
     },
     {
-      "id": "d18ca3e1d6f7",
-      "title": "Doença do legionário mata quatro pessoas em Nova York; entenda o que é - UOL Notícias",
-      "published": "2026-07-21T12:51:26+00:00",
-      "summary": "Doença do legionário mata quatro pessoas em Nova York; entenda o que é&nbsp;&nbsp;UOL NotíciasTrês pessoas morrem em surto de bactéria em Nova York&nbsp;&nbsp;O GLOBOBactéria associada à pneumonia é encontrada no Met&nbsp;&nbsp;dasartes.com.brO que é doença dos legionários, que já causou 3 mortes em Nova York&nbsp;&nbsp;Veja SaúdeAutoridades de Nova York informam 3 mortes por doença dos legionários&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "UOL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbWRBaHE5UGJ1UWZZMTR5U01YMHktaUxuTndGNlByd2t1VGhOVTlnM0hOOGwxUHN5R3VYLVp0THBoak1VUjVrdEZlbWd5bjFEWjAyWThjVldkazFvaUxEbFM0dWhRNU9qQUV0RUV4WmNyZkd3dW1SeU9nZzBWd3lJeXgyVVFLdFhqSWNtTld3LTE2T1Z6WnFUTzRsVDY3bzVKeUtNZE5oVGptUTVUWkJleTFWS0U1SUcyVUVkLVp3YkFWNkp5Z01WQTV5WlI?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "64bfef053c5e",
-      "title": "Salários da ciência na Argentina perderam até 40% do poder de compra sob Milei, aponta estudo - Brasil 247",
-      "published": "2026-07-21T12:27:00+00:00",
-      "summary": "Salários da ciência na Argentina perderam até 40% do poder de compra sob Milei, aponta estudo&nbsp;&nbsp;Brasil 247",
-      "sources": [
-        {
-          "name": "Brasil 247",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWFRvWGs4UVF6TXV2YXQ0aFBpaFVuWllUbmhRdjZwSDJNVFNEVXAzM05GVGpHRm55VE8zanp3eHZwRENhc2lxN21sTXBtUmtoZ09ZeXk0di1Ldm9TYlZ3ZnplU25FSFpFaWpoYXozUlRZSEhpNWJDNDNubjdYN0FhbUZvN3dDVm9HRmVQaWZueDA1WEgxdlRlUnFQNmUyUkticFozMERhVnRiN0JNZ3puck9Qb2FxY1E4bW9kNlJwWWR3eDNadFJWdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c819a26427e7",
       "title": "Acrilamida: como evitar a substância com potencial cancerígeno ao cozinhar, segundo a Anvisa - O GLOBO",
       "published": "2026-07-21T11:37:16+00:00",
-      "summary": "Acrilamida: como evitar a substância com potencial cancerígeno ao cozinhar, segundo a Anvisa&nbsp;&nbsp;O GLOBOQuais alimentos preparados na airfryer podem formar acrilamida, ligada a prejuízos à saúde?&nbsp;&nbsp;EstadãoAcrilamida: o que é a substância encontrada em frituras e quais seus riscos&nbsp;&nbsp;Veja SaúdeAcrilamida: o erro comum ao preparar batatas e pães na airfryer pode prejudicar sua saúde&nbsp;&nbsp;TerraO detalhe na cor da batata frita e do pão de forma que revela se o alimento ",
+      "summary": "Acrilamida: como evitar a substância com potencial cancerígeno ao cozinhar, segundo a Anvisa&nbsp;&nbsp;O GLOBOVocê sabe o que é a acrilamida? Descubra onde ela está presente e os riscos&nbsp;&nbsp;Guia do EstudanteQuais alimentos preparados na airfryer podem formar acrilamida, ligada a prejuízos à saúde?&nbsp;&nbsp;EstadãoAcrilamida: o erro comum ao preparar batatas e pães na airfryer pode prejudicar sua saúde&nbsp;&nbsp;TerraO que é acrilamida, que levou Anvisa a emitir alerta&nbsp;&nbsp;band.",
       "sources": [
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPak5ZZDJJeHV2WDgwUEdST214aDVfU3VNVlJrTkhlUVlwckQ1T2hsdXphNXp6Mlg2Qm1RMVBCakQ2S2E1a19DNUthQmp3bzZ2Q3V6akw4M0tTd2g0MWtHVTdFZTJ5bzdqSjlIbE5OX0NaWE1TRjR4aU5fZ3pwY0pYT2dwYlk4cFZYVFMyZTVwRGFnVW4xdHpaR3RIc1ZYYnpjc3BGbGRRcEdad2M3VHVNUVZvcjBMb0tnSTllMmVwSXZHNGFBU2Y4cHJ0eU12SkRRZmotSl8yNWo1MVZ4dzZF0gHuAUFVX3lxTE9rdTJqM0dFcXRlSUxteDhaSmxJWFI3c2JmNlkya3RXcTNWM1c2ekN2NGt4NkhKTmVPNzRXZXRIb19XTE5IZmhHRzZ6c29zTmtTTkwwdHRVM1RKa3lfNVBObFA0RlJocTBROF9UNDdQc216WjZvYVFFb3hqNUpsbmVQUnRDdVZiOHhBWkZmZFRnZXVMRmQ3MFcySm9GV2NRejlxNHlKS1l2SDJHLWp1QUZrcDlLaUFVb2E3U0lUS3dCaHBLZnlUcFNoT0k5S0xtNWV0X1l6S1VMcjFJcU9sZXhqSU1CdGJXZTdzb0dTeXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "12948986f8eb",
-      "title": "Os tubarões sabem contar e preferem jazz: as descobertas que estão mudando a imagem desses animais - Super Rádio Tupi",
-      "published": "2026-07-21T10:40:07+00:00",
-      "summary": "Os tubarões sabem contar e preferem jazz: as descobertas que estão mudando a imagem desses animais&nbsp;&nbsp;Super Rádio Tupi",
-      "sources": [
-        {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRnU1SzdSemx1YlJQSFZyTHcxeEpBYUtvZXdJUlBkY3M0dUJIUzRVSFFXSVF3UGpmMmVXRHRQZU1LajVGdEdyNzFkQUJLWFFDUWM5MmpTblA0TGNZeGFMWEJlanRGUmFvejJQcjl1WWUxYXFULUFQaS1nMjl5ZTJJTVo3bXQ3ZnlIdE5sNG5rNDI1bkE0S29FMXpPSEtuUm5xTV9jN3ZBanNaU2Z4TFBXdzJVY1JlbVI5YTkyUHdDa0kzZw?oc=5"
         }
       ]
     },
@@ -146,18 +218,6 @@
         {
           "name": "UOL Notícias",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbUpaaHRnY3hJRUVlMi0tMWVYU2xfOUZxVUtPVVdPUXpwa3prYlE0Y1dudUU3MWIyYWczYW5xU0RPUHBBOXhhSHF0c3BKNWZtT3kzR1ZaMXBobDNEVUhvSUZmN0g2b3dWbVhXaGdFbHExcGNTRndHOVliMUF4UGRaYlN1UTdPNG15OXRScThSaV95dHNzUVlvczUxVTNiWUxScno3Q29MT21kVGt5OGNsZkFjd3NvMmpzeUxjbEJHNlBTbEQx?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "81a05331d2e4",
-      "title": "SUS incorpora novo tratamento para pacientes com ELA em estágio inicial - G1",
-      "published": "2026-07-21T09:43:28+00:00",
-      "summary": "SUS incorpora novo tratamento para pacientes com ELA em estágio inicial&nbsp;&nbsp;G1Ministério da Saúde incorpora remédio para ELA ao SUS&nbsp;&nbsp;Poder360ELA: novo medicamento para estágio inicial da doença degenerativa chega ao SUS&nbsp;&nbsp;VEJASUS incorpora edaravona para esclerose lateral amiotrófica (ELA) em fase inicial&nbsp;&nbsp;Jornal do BrasilSUS passa a disponibilizar novo tratamento para pacientes com Esclerose Lateral Amiotrófica em fase inicial&nbsp;&nbsp;Brasil 247",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUE9NUW4tbWlxOTRCS18wZEYxaG1wV0dyTnF4aC1yTXhLcXIzM0pJMUJzb0U5MVVHd0dBbXIzMTZ1LVVRNkxROVJTdUVWSlBXa3NiaXZ5djNud05HZDk4dGh3SndlSC1tTHU0dlBxY2FyQXh0eDd6OTR2eG1wUFZVWF9HMzU0aVVSUW9ZanFDQjg5OTNPd25xS25CekdfUjF2UTdZaFROclJxRlRZT0w3bGgxTzIweXVRTlhBelRlRDfSAc8BQVVfeXFMUGJqamZMdTE2N3M0aDItXzluTVZXMURLaGhJeVBZS1B0QUpGUEVpTzg3Y1p1T1A3WXlfMTZYdVpkRXRjc3dwajRIOHdOTFRvY2FBM0FvcjV3OHpjUlpGOXRIZ1hnTWNrRHUxOXB2TDRKNDNYVmFmQnI4NUhuN2lFOFJSV0JGaDFwcUdNazZzWVVKaEQ5blRpTktMa0NFOGdaUVN3ODJkVUhVRVB6MDIxb25fcHVpcWNORnhEREVrNmUwbHhWdkFDNGlma1FlLW44?oc=5"
         }
       ]
     },
@@ -177,7 +237,7 @@
       "id": "3864c9b3eb9a",
       "title": "Estudo diz que até quatro xícaras de café por dia podem proteger coração - Correio Braziliense",
       "published": "2026-07-21T08:00:00+00:00",
-      "summary": "Estudo diz que até quatro xícaras de café por dia podem proteger coração&nbsp;&nbsp;Correio BrazilienseQuantas xícaras de café é seguro tomar por dia? Este estudo calculou limite&nbsp;&nbsp;Globo.comAfinal, café faz bem ou mal para o coração? Grande revisão científica bate o martelo&nbsp;&nbsp;Veja SaúdeQuantas xícaras de café por dia fazem bem ao coração? Nova revisão traz a resposta&nbsp;&nbsp;ExameAté 5 xícaras de café por dia podem reduzir riscos de doença cardíaca&nbsp;&nbsp;Metrópoles",
+      "summary": "Estudo diz que até quatro xícaras de café por dia podem proteger coração&nbsp;&nbsp;Correio BrazilienseCafé é associado a menor risco de infarto, AVC e insuficiência cardíaca, diz pesquisa; saiba quantas xícaras são seguras&nbsp;&nbsp;G1Afinal, café faz bem ou mal para o coração? Grande revisão científica bate o martelo&nbsp;&nbsp;Veja SaúdeQuantas xícaras de café por dia fazem bem ao coração? Nova revisão traz a resposta&nbsp;&nbsp;ExameCientistas descobrem como café ajuda na saúde e envelhecim",
       "sources": [
         {
           "name": "Correio Braziliense",
@@ -210,22 +270,10 @@
       ]
     },
     {
-      "id": "8b07aa041600",
-      "title": "Cientistas modificam bactérias para combater câncer - G1",
-      "published": "2026-07-21T07:01:53+00:00",
-      "summary": "Cientistas modificam bactérias para combater câncer&nbsp;&nbsp;G1Nova alternativa para o tratamento de câncer&nbsp;&nbsp;G1Uma descoberta com bactéria abre caminho para novas pesquisas contra o câncer&nbsp;&nbsp;Tribuna de MinasBactéria de rã revela-se promissora no combate ao cancro&nbsp;&nbsp;The Portugal NewsCientistas modificam bactéria para criar nova estratégia no combate ao câncer&nbsp;&nbsp;Jornal GGN",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUmRoUXZGVEUybXJvNWV3cy1MYlFyR1lLLU5QOVBjLUctMDA4RS11V04zN1hvb2RncV9La2Vub3kyUVVqNFljVkhPSXJZLU1kbERiZEZoMmg4dnR2aFV0a3hMV1dnMV9fMmMxdHNCQWxpUHFJM2RGSnhoMEZyb3l6elV5LU9vSFp2X2JvdGRpT18tQkpvRmlQa003MVRvTU8xZTEzT1hn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1a0467138b2c",
       "title": "Medicamento ou cirurgia? Os novos caminhos para tratar o crescimento da próstata - R7",
       "published": "2026-07-21T05:00:01+00:00",
-      "summary": "Medicamento ou cirurgia? Os novos caminhos para tratar o crescimento da próstata&nbsp;&nbsp;R7Envelhecimento torna mais complexo o tratamento da próstata aumentada&nbsp;&nbsp;A Crítica",
+      "summary": "Medicamento ou cirurgia? Os novos caminhos para tratar o crescimento da próstata&nbsp;&nbsp;R7Envelhecimento torna mais complexo o tratamento da próstata aumentada&nbsp;&nbsp;A CríticaHomens após os 50 ignoram este sinal noturno&nbsp;&nbsp;Estado de Minas",
       "sources": [
         {
           "name": "R7",
@@ -246,26 +294,14 @@
       ]
     },
     {
-      "id": "d911a8c6410a",
-      "title": "Câncer de intestino dá primeiros sinais no banheiro; veja hábitos de risco e como diagnosticar - G1",
-      "published": "2026-07-21T03:01:11+00:00",
-      "summary": "Câncer de intestino dá primeiros sinais no banheiro; veja hábitos de risco e como diagnosticar&nbsp;&nbsp;G1Cirurgião explica como funciona rastreio para identificar o câncer de intestino&nbsp;&nbsp;G1Jovens envelhecem mais rápido, com maior risco de câncer - 20/07/2026 - Equilíbrio e Saúde&nbsp;&nbsp;Folha de S.PauloCâncer colorretal: estilo de vida e prevenção ganham destaque&nbsp;&nbsp;TerraBrasileiros reconhecem sintomas de câncer, mas demoram a ir ao médico&nbsp;&nbsp;Poder360",
+      "id": "d0707b682472",
+      "title": "Anvisa aprova novo tratamento contra tipo agressivo de câncer no sangue - CNN Brasil",
+      "published": "2026-07-20T23:29:19+00:00",
+      "summary": "Anvisa aprova novo tratamento contra tipo agressivo de câncer no sangue&nbsp;&nbsp;CNN BrasilAnvisa aprova medicamento para tipo agressivo de linfoma não Hodgkin&nbsp;&nbsp;Folha de S.PauloComo funciona o novo medicamento para pacientes com linfoma não Hodgkin agressivo&nbsp;&nbsp;EstadãoAnvisa aprova novo tratamento para tipo agressivo de linfoma&nbsp;&nbsp;G1Boa Notícia: Anvisa aprova novo medicamento para câncer agressivo&nbsp;&nbsp;R7",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZlNZZnFQc2VlYi1sLUN1WjIwbllfYklPLUpyNXZzY1lCakJ2X2dOSFdEQTA4TEdyT0tXdWpaR2FLaGV1enNmX3J5UWc3WGlVVndFUlB0WWhlTU91REdfQ3p4M0pFTUlBY2VTZHN1Sl83cXJKaFRhVDJXNnlSYXpiWERiVnJPckVUZ2lUX1NDZExOS3RiODJPMEVNNncyNU9BT2FHcFhnWktzRHdnTDJzR3pwcXI0Y0hGbzRMbW05eGZjc1hKNnVNUGF6aDNBbXF6dVAzMmVYQjM5cGFtTXfSAewBQVVfeXFMTWduUEcxZWNmRkM5UnJNWF9EZmU5R3g4MklndW95M1JHMzRkbTkyVEhuODYzX2doN19sdUZmbFRoYnlrbnJZa2ZwNXRDWVJ4QXdRUUFqbHkwVlFpcTdYTFQ5WXFTUG1fUGhxSllCQndPeGVLeVVZeHl2Zy1rQk1HV1NWUk95RWZveFVXMkR4T1J2S2x3Vm1vdFA3ZERyTU5mQVNkYVNUc2F4Ni1XSjRCUUFjSUhEaUstV2VNaWwwTnJyNHJoSnFPaGVzd2tFOXlreE9kM19JU1JYXzNldmZCNUlxbGtLUTF3STBfZ0k?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b3f4847c2b5a",
-      "title": "A 5.122 metros de profundidade no mar, pesquisadores encontram 167 objetos no ponto mais profundo do Mediterrâneo, confirmam 148 resíduos humanos e revelam impressionante concentração de 26.715 itens de lixo por quilômetro quadrado - CPG Click Petróleo e Gás",
-      "published": "2026-07-21T01:11:00+00:00",
-      "summary": "A 5.122 metros de profundidade no mar, pesquisadores encontram 167 objetos no ponto mais profundo do Mediterrâneo, confirmam 148 resíduos humanos e revelam impressionante concentração de 26.715 itens de lixo por quilômetro quadrado&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPWDQ5a01TUFhpNXppMjkwaTUzaGZ6Ymp5cmthWTBvRDltVld3Zmxna0JTVHlXQjNtZ01JSEdwRV9lV0stVFpwUUZHV2d6QXBJME1jN0QtWXRwV2NOdjJfVFkxb1pRTnF5WVliUUlyUjBLU0NlUUFnMDV0cjFBNFRnN2RwMndmQkxraWxveGo3SHRHNXpUQWhaWUQySHRRMXVnNVZrdWliMXdER2pyUklzSHp1Rm9rbVlPejVETEJmMHpPT1FYUkJVbEtxUHowV3lZd0dHZnRVYWNnb1kxS3dmeHBCNnhXdGhaR1VwYU1mOGk1RWQ0bTQtaEhzeUxsb29GY2E5VXBydXlJWnJrcmRLVHhmWGlkUXp5blpiQ1pSbEZSUzhlVkhkYUpmVTdiRWZMRXVpT1o1S3VBeTVsRE43WDdJWnBGUQ?oc=5"
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTmRhdHQzVDdCY1ZFRFFNc05TZ0sxX1FmbFBfNTNKUlVpZXFFZGg0Tzgtd3drU1VLcWlQc0R5SHYwZzh0bEZqV2F3bWgya0FKYTI0UXdYdlQ0aFlWSUc3NTJNUDUtNjBBYjBFSFpyOEN2dkxhdkVJMWRqNFY3a1o3QTgyYTBSaVJERzR1VXB1aHVTVnNTYUxra0hLTnhQRkZoMnJuYWxqQWhiOTQ?oc=5"
         }
       ]
     },
@@ -273,7 +309,7 @@
       "id": "415ca1971b37",
       "title": "Veja os 9 alimentos mais indicados por especialistas para cuidar da saúde dos rins - ICL Notícias",
       "published": "2026-07-20T23:21:58+00:00",
-      "summary": "Veja os 9 alimentos mais indicados por especialistas para cuidar da saúde dos rins&nbsp;&nbsp;ICL NotíciasDois maiores inimigos dos rins são conhecidos e terceiro vem crescendo&nbsp;&nbsp;CNN BrasilOficina capacita médicos para diagnóstico precoce da doença renal&nbsp;&nbsp;Diário da RegiãoA doença silenciosa que destrói até 80% dos rins sem apresentar nenhum sintoma claro&nbsp;&nbsp;Correio BrazilienseEspecialistas revelam os melhores alimentos para os rins e os vilões da saúde renal&nbsp;&nbsp",
+      "summary": "Veja os 9 alimentos mais indicados por especialistas para cuidar da saúde dos rins&nbsp;&nbsp;ICL NotíciasDois maiores inimigos dos rins são conhecidos e terceiro vem crescendo&nbsp;&nbsp;CNN BrasilEvento aprimora busca de diagnóstico&nbsp;&nbsp;Diário da RegiãoDescubra três fatores de alerta que aumentam risco de doença renal crônica silenciosa&nbsp;&nbsp;Rádio ItatiaiaA doença silenciosa que destrói até 80% dos rins sem apresentar nenhum sintoma claro&nbsp;&nbsp;Correio Braziliense",
       "sources": [
         {
           "name": "ICL Notícias",
@@ -342,14 +378,14 @@
       ]
     },
     {
-      "id": "f31be6d12737",
-      "title": "Hoje faz 50 anos desde que a humanidade viu Marte pela primeira vez - Olhar Digital",
-      "published": "2026-07-20T17:07:00+00:00",
-      "summary": "Hoje faz 50 anos desde que a humanidade viu Marte pela primeira vez&nbsp;&nbsp;Olhar Digital",
+      "id": "8ce6043ec0bd",
+      "title": "Estudo: biópsia líquida ajuda a identificar 4 vezes mais casos de câncer - UOL",
+      "published": "2026-07-20T16:46:15+00:00",
+      "summary": "Estudo: biópsia líquida ajuda a identificar 4 vezes mais casos de câncer&nbsp;&nbsp;UOLVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
-          "name": "Olhar Digital",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ3ZJZldBQmlxbGh1OE9WNWM3S3NuaGJBMFNLdktieDdjb3JVaXNPUWJCdi1DUU9LMmVMZjAtNU5iaFJCWUZxUG82TzRZeXlNaUY2RmloeV9JYXU0a1F5ekZpcy00TEJrRTdIUE41ZGVrdnBPY2xjQ2ZqUHhxMG1mTEJULU0tMHM5OUwwR3JETUZjdlM2SVRscjhhVlgxOEYyV0FiRm9FSDFadjhJbUVwWWo2RDdEdnQxcEM3TGVxSXhUdw?oc=5"
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNT3pZNXNkTGFIYzUxMVl6MGFCUExCekdSM1JBeFVBeDhGRFREYi13ZHdtZTVyU3JVMF91X0tOc0FzcDF4UG5VX1lsbGJSRGplOS00ZFpuYXRwaFpOWmp3NlNzNVhscEozc2J3Q3d1M2s4cEk2Qmg3T2JZRzhoWEtGTkdVal9CXzYwaUtfTE9PbHJZc1FxdUpaNTN0N3lvbDJUa2o5ejRTSXpHc28wMXV2QldPNTNfSTdGQS1DWlJVb0RyTmpaSm5jN1NvNWhVdDk4?oc=5"
         }
       ]
     },
@@ -378,54 +414,6 @@
       ]
     },
     {
-      "id": "83f6a55e21ee",
-      "title": "China faz primeiro implante cerebral para uso comercial do mundo - TecMundo",
-      "published": "2026-07-20T15:07:28+00:00",
-      "summary": "China faz primeiro implante cerebral para uso comercial do mundo&nbsp;&nbsp;TecMundo",
-      "sources": [
-        {
-          "name": "TecMundo",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdTlpOWdIaXZGNlhjTHBmV0ZXSXdQcnQxTHpCRjAta1hiVHJlS3hFRDdkTnFEMmN0SVFuNlNBSlpSLU4yS2xYT1FNcVA0R0h0clpPeUdZc3UtaEJ0eXJYT1BLbEFGYjdxX3VxOWVNc0ZDRU9yQThFbExERWxfVXVXTHU2Z2hTaXEyeTNpU184WjUySXc5Z0dsbk41WGhfZ21CbE03bTFhWTc3T1VUWThkMw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "306c8699841a",
-      "title": "Exame de sangue ajuda a identificar 4 vezes mais casos de câncer, diz estudo - Folha de S.Paulo",
-      "published": "2026-07-20T14:22:00+00:00",
-      "summary": "Exame de sangue ajuda a identificar 4 vezes mais casos de câncer, diz estudo&nbsp;&nbsp;Folha de S.PauloVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVDA2Z09SdjRhSHBybkVTdmRTUi1DNGNXdkNral9QbmRldENnWmtkbXYteUxfX0FheVBKTDl3VXQ4ZWM4RGlFRF9HRHoxeVdBMFp4cGQ0bmtGNDV0U0tXS25hX3BIVUhtX3VhV0lOYmwtQzhienZBd3pMaUhrN0x2a21LODJxVXZEeTdPTHRIX0VoM2FjWGRRS3QtYmNPSXRiZjZsanl6Q1pmRmJJMXh5aVBRMUQ2M1g3M2VtazJQdEJ4eVZwZ29VbzRJQXFXV0R4MVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3bea9246d923",
-      "title": "Xavi Batalla, especialista em medicina regenerativa: \"Todas as manhãs preparo um suco de beterraba, cenoura, laranja, limão, gengibre e cúrcuma.\" - TudoGostoso",
-      "published": "2026-07-20T13:03:00+00:00",
-      "summary": "Xavi Batalla, especialista em medicina regenerativa: \"Todas as manhãs preparo um suco de beterraba, cenoura, laranja, limão, gengibre e cúrcuma.\"&nbsp;&nbsp;TudoGostoso",
-      "sources": [
-        {
-          "name": "TudoGostoso",
-          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNeU5kTXVpNUJQZHppV29Nc0IzOGJEMTRWSEdDbnBBV0tZRncyRTF6czFMWGN3Z0VTSnlmblVCRTJRcTY0bXdwM0NTbkk1UVVRYUhtbjloMUVTN01Rd3FJUEFQMV9pSzhYalN5ZzBhY2Zfcjg1WVhwcWM0QmhOaVFObmdONml1WGhhQW5vZVI2Q09idVc0b2V1cVhtNDJsM0otTmZJYWQ0cnVDNGJFZW01SHVWZ3I2bnRYakx3a255RkZGY1A0VTRPZ1BYT040OVFvNldwQk5wLUY2Q3gzbG5iT0xkcW1xczBqM0k5M3FZYTYxV0xzdkhkQ09VcTVxU0lMeVhvRExoQWpOeDBLRjFBcjlqQzRBQdIBmwJBVV95cUxNZ1oxaEFfNU11bnA4Y082c3ZNY0tuU2lTSWF3MlpLY1dyRlJrMXlTdk81YmFSUlVXeWkyVmctM2NUTWRzOFo4VTBZNk9UbTI1QnNYM3ZNajc5UUxmNkxYcTN0QUMwYWhsY013aVhKVmpfcU1tdkpQOHU2ZThFWDhLZXd0N1FOV2FkUkgtTU96R2FoQ0NiWHVxekI5VzFVcDRSSjBfUGJQV3VkaE8tUmxkMGEtRmw0WU14ZnQ1S0V5aW9hbTJiMFd4QkNiYXNzSVYyenpoZTB0dVJ4MmZ0N2x2VG45S1FYbkRkYzhJSHU2ZlBDenRXSHJNRDB0Q0EzbDRvbi1fTlNOaWJHalJINmFMZ2VXTzJfSnZQQWVj?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4eb815de6ef1",
-      "title": "Anvisa aprova novo medicamento para linfoma não Hodgkin — Agência Nacional de Vigilância Sanitária - Anvisa - www.gov.br",
-      "published": "2026-07-20T10:56:35+00:00",
-      "summary": "Anvisa aprova novo medicamento para linfoma não Hodgkin — Agência Nacional de Vigilância Sanitária - Anvisa&nbsp;&nbsp;www.gov.brVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "www.gov.br",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQjc2Y01CdVFvSHUzYzdrbVVicDI4QUZjVXJOOGNOVndDemtMaS1nZVV3VTJ3TEtHdFB4TzlvaTlQR0hkeU40VGF2Zmpxd0NIYjJKZWJXX0Y0X1FvM0U3amNSc2k0QmJOR3lfVThGWXVIR0RZOTltZ3pxNFYzekNDVDhxNlc4S0NtQk4tMnNYWUU3RmhhMWtrQXdEbjVaOUZ3UC1GaVlraGtEeEt6YmdydjNCSEFDVHNB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a85cb0f69155",
       "title": "Nasce o primeiro componente orbitrônico puro - Site Inovação Tecnológica",
       "published": "2026-07-20T10:26:58+00:00",
@@ -450,38 +438,14 @@
       ]
     },
     {
-      "id": "2e7e313cb842",
-      "title": "Uma vacina contra o esquecimento? - O GLOBO",
-      "published": "2026-07-20T07:30:19+00:00",
-      "summary": "Uma vacina contra o esquecimento?&nbsp;&nbsp;O GLOBOVacina contra herpes-zóster pode ajudar a prevenir demência, aponta estudo&nbsp;&nbsp;TerraVacina contra herpes-zóster e memória: o estudo com mais de 500 mil idosos que mediu o risco de demência em quatro anos&nbsp;&nbsp;Tua SaúdeAdão Santana reforça pedido para inclusão da vacina contra Herpes Zoster no SUS e homenageia comerciantes&nbsp;&nbsp;colunapontodevista.comA vacina que protege a pele, o cérebro e o futuro: por que falar sobre herpes-",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS0oxdEdFd1NkMUNwNmsxTzY1ZkVWUDZHZ1ljbnRBVVVuYnlzWWRNMnZhc3dPR2doYV9mQXJqWTIwY3FlbGZ3eHdWVzZqX0VKczRnYnJqYVY3UnNZdF9HaDkzeWFRcXl1eUFCYzFzSHlOWXRaWHF4Y1pacGRRSFZMSWZ1VlJ2Zng4Nnh2VXByMHVuUWhJSkVyZlZkLUJWQdIBrAFBVV95cUxPMjRnNnVTVDdnWHBmR0Y4RFpTTmtnc3F6WGVMbk1UUnhBaVNBVmZIWjBjbG4yTGphX3ZJZzRkUzBqZG9QMHBOcDRabnVCR3NscUkwcFhxSm5oZXE5dEpYZkhIRjg0bjd1ZTBBN0pDZFB1eVdNY052bXdLMC16TmNTckFTRzh4U3B0djc1Q214MWpkOEFwM1JldF9nODRWVXVsSm5QMzBwNEtzazZ4?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c7073b74fba6",
       "title": "Psyllium ajuda a emagrecer? O que a ciência diz sobre o suplemento apelidado de 'Ozempic natural' - O GLOBO",
       "published": "2026-07-20T07:00:18+00:00",
-      "summary": "Psyllium ajuda a emagrecer? O que a ciência diz sobre o suplemento apelidado de 'Ozempic natural'&nbsp;&nbsp;O GLOBOAlém do colesterol: como a fibra do psyllium também ajuda a controlar a glicose em quem tem diabetes&nbsp;&nbsp;Tua Saúde“Mounjaro de pobre”? Entenda os benefícios e cuidados no consumo de psyllium&nbsp;&nbsp;Diário do Centro do MundoPsyllium funciona para digestão e colesterol, mas não para perda de peso&nbsp;&nbsp;Folha de S.PauloPsyllium: saiba tudo sobre a fibra vegetal que des",
+      "summary": "Psyllium ajuda a emagrecer? O que a ciência diz sobre o suplemento apelidado de 'Ozempic natural'&nbsp;&nbsp;O GLOBOAlém das fibras, psyllium é prebiótico e ajuda na saúde do intestino&nbsp;&nbsp;MetrópolesAlém do colesterol: como a fibra do psyllium também ajuda a controlar a glicose em quem tem diabetes&nbsp;&nbsp;Tua Saúde“Mounjaro de pobre”? Entenda os benefícios e cuidados no consumo de psyllium&nbsp;&nbsp;Diário do Centro do MundoApelidado de \"Ozempic natural\", o psyllium realmente funcion",
       "sources": [
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYnBUTGNLd0hRZ1hDcHZodkxmMHYxZTBBUjkteWFaeUc4TTNxTnRKTk5nWm4xVDJ3b3cwRGZYNWtMMXRaRDB1SHRNRzl5SFVaYmVZRjh0NmRIUFBVbUFVUVlzU1lsbDhRVDR1bDN0WVgwWm4zVFdCWFhEaEZKYWFxTTVPWTNTYWRRbE1lTGtJWUw1TFFoWndZSkR6NWtqTWs1ZU00NnRIOFZjNHB4d3dNbFRGTHlSYk9oaDlYUzdkN296a2FLWW02dnVEdXpyZW1iU1k2SWEyRkFqejNRX3RvOHcwWlbSAfMBQVVfeXFMUFJqcXpmazBvbHozOTZkZjdPZTIwdWpWN21BMm5pTm40ZnF3bnFvSXpPRG9JRE1iWVdSdFBDYmZKM19TWVVYeUF5R21tcUpWZVA4Wl9XQkMxWU9sWC1qcDhSWGVPNFBoMFZCbTAyYlI2VHhTa2xFekFwbkZ1LXpxNHJSM3VDOEducnB5bjN6emNwZVhmMGstMkZpXzJVQV84a2tfY25fRmxqMk9BbXkwenJkVTRmaUVXNmF3dk1EbkNvWUtFR25Id3NnN18yaFN1N0Z6bmcwc19qLU9pQjNKYjh5VmZpbWFRblJ4OHNtWkc5QTJ3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3cc4656540f8",
-      "title": "Suplementos de ômega-3 são realmente benéficos para o cérebro? - Folha de S.Paulo",
-      "published": "2026-07-20T07:00:00+00:00",
-      "summary": "Suplementos de ômega-3 são realmente benéficos para o cérebro?&nbsp;&nbsp;Folha de S.PauloUma análise recente aponta que o ômega-3 pode contribuir para aliviar dores crônicas que persistem por vários meses&nbsp;&nbsp;Tua SaúdeÔmega 3: conheça tipos e como escolher o ideal para você&nbsp;&nbsp;GloboÔmega 3: tudo o que você precisa saber antes de escolher o suplemento&nbsp;&nbsp;Assine AbrilEPA ou EPA+DHA: qual forma de ômega-3 protege mais o coração, segundo metanálise de 38 estudos&nbsp;&nbsp;Tu",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSnpGUTVNRXZwU0RoS2poY2gwc3I1WUpYbTdzOVVtMERpMVBCQVBrSHI1SFB3TDI3QXJUc0JJZl95VENUeDBmOGxDYlhUYnYzZDVHby1lS1V2NU5TVi1PazNFSlI5LWlfWnFaZ2dITHZNQ28zbG9YVWtNUHU1b0YwU1R1ZklCQ0RFUjBaQ013TFFPV0d2VDE0ZExBbUc3OE04Q1pDcWVacWRKN1Jwck9BYlJSMjhvRkE?oc=5"
         }
       ]
     }
