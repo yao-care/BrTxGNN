@@ -1,19 +1,55 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-07-22T19:23:00.770309+00:00",
-  "total_fetched": 103,
-  "unique_count": 101,
-  "health_related_count": 51,
+  "fetched_at": "2026-07-23T02:53:35.064637+00:00",
+  "total_fetched": 106,
+  "unique_count": 106,
+  "health_related_count": 52,
   "news": [
     {
-      "id": "04769cf24476",
+      "id": "6adf1511b6c3",
+      "title": "Entenda câncer raro que matou jovem de 19 anos no ES - Folha Vitória",
+      "published": "2026-07-22T22:36:42+00:00",
+      "summary": "Entenda câncer raro que matou jovem de 19 anos no ES&nbsp;&nbsp;Folha Vitória",
+      "sources": [
+        {
+          "name": "Folha Vitória",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQR0VKLUJhQ2szNHYwU3hJYWVZYkl4WXVpNWx5ajdzUkUwZnluakpvaE5xN2xlMnB2WUZoM1JkeTRZLXFmY1JkLThkcVlYZVlvVXg2MlNjeU9RTnpwNmx6X3VwRjlYUDJYdVNEOXo4aHlMdlBSSlZnOWdTbzNTRGVhNUxDYU13T0xYa0E1c2Vld0xYSmZxZU51YjhRMEl3Y2ZTb2hjZ1h2d0ZaWXlFbFB3UHl6cnZTSHg0NmlmeERR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "289b14fecac0",
+      "title": "Rivotril: quando o medicamento usado para ansiedade passa a ser um risco - Portal Drauzio Varella",
+      "published": "2026-07-22T19:05:11+00:00",
+      "summary": "Rivotril: quando o medicamento usado para ansiedade passa a ser um risco&nbsp;&nbsp;Portal Drauzio Varella",
+      "sources": [
+        {
+          "name": "Portal Drauzio Varella",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNay1PeXVMLUtnNnFrZ2NCSXgzS1laWnlXR2RFUWI2X0NuUXVXMUVLMjNIU1dMM0xScVlxdzd0UENnc1lBUkxTdXlzZ210b05Nak9GM21XeDlQRkdnU3VYbEZwc25RVi1kQl9yLTR2cTd5QTRjSXduNy1FMHJDeDJQMDRYMk1MVFNjb3FmM2hTNTFKYjFUcmozVDNZM1dLM2EtUGpSWm9oR2l3SWo1ajVGcW40VkRHVHJJbFdj?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1fa940db25c1",
+      "title": "Internado, Lito Sousa recebe diagnóstico de inflamação do sistema nervoso central; tratamento de câncer de próstata continua - G1",
+      "published": "2026-07-22T18:58:03+00:00",
+      "summary": "Internado, Lito Sousa recebe diagnóstico de inflamação do sistema nervoso central; tratamento de câncer de próstata continua&nbsp;&nbsp;G1Lito Sousa é diagnosticado com inflamação do sistema nervoso central&nbsp;&nbsp;UOLLito Sousa fará cirurgia por câncer de próstata; saiba sintomas e tratamento&nbsp;&nbsp;O POVOLito Sousa, o maior influencer de aviação do Brasil, revela que está com câncer&nbsp;&nbsp;Jornal OpçãoLito Sousa com câncer de próstata: doença mata 48 brasileiros por dia&nbsp;&nbsp;C",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOVE5XYmZPeWtRMHVocUFySXNXbnpSWmlsTjZHaWZGX21tcVpIWjBTNk1fN0VNOTFWMW9ReFdzWXRkcGl6S2FpTFp1T3ZWSGFVdWM1WmNiY1VSbDR1dUVDalQwN0I2V3BubjlnVl9yNVRjSmtPMno5NS1jSWY0LUx1NlVpUDFSdXBiOXhLbU9UU2ZaWEpQbGZMajZUeDFRNjRXVDlEMS12UVVJNHJqNWNnMVkyMzVjd21Nc0FNZlpRajMyWjRtN3h3QWtuUUo5QTVHMFV6cGIwUjc3RGdkcnVFOEhzR2xoQy1xQ1FuN2FTWndqcEdmMHNPUVNlSlJ5LU4zSGsxYmpxSTI5cHNSTGfSAZwCQVVfeXFMTkp0LXlsVk1MUlpaU1NNSDc2bHMtR3hoVlhCSjcycDFLRkd5MnRnbTBGVVFBQVVtWGFzdFdaaTU2OXFJYXJKNURmZjBoZ0xub2VNODdrY0ZHdk5tZEo4YlhTR2hCcFlIWTdsVTJoYUxTMTF5SVZUT0N0Z3o0NW5XLW5VWHZEMkNzTHR3eFdydzhxWjk2Wjd6STZOSDJocnNaaGgxMjNKTWVPUmxUN3o1THNiRFRJS1E4a2pOYWh1cmdWVEtxWnZ6Z040LTJCcHd6Y3djTWh0eExxcUhldjBCSnJ2dHB3RmR0dUtEdEI5SzBhRllIUzBjaUVhUHY2Z21LMzd4NW84d01KOE5yMU9NMXo5b2IyaVVhd2h1MjA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "280a49f79200",
       "title": "UFPI divulga resultado do vestibular de Medicina, Psicologia e IA - CidadeVerde.com",
       "published": "2026-07-22T17:45:00+00:00",
       "summary": "UFPI divulga resultado do vestibular de Medicina, Psicologia e IA&nbsp;&nbsp;CidadeVerde.com",
       "sources": [
         {
           "name": "CidadeVerde.com",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMUVVTTBiYVZOcE41bVY4dFFsUDhUWVlKbXZmVDFOVEtLalhXaU42RW5MYk9haHFaZlpIZ0hhcmRYX1ZyMFBzQjFZS0JMUWcyQmV4TjFHVTNUNWVHcERQX3djVm5rUGlDbkFncVRKTDh3dWx3cVp2T25Va0R6OEdveGNtYllDNndIcmt1NS1WSmdNalZ1bVBDdFUzMWRqWm8tOXJoamtn?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRll6Q2t1WGdaN0NPNUFGS1FUT3FncEhMTWdMNktxYUM3LVZCSjN5NkFOTTNFSXM0MmZTMjBmOHp6OXM4OEF4VlZmYVo5WUxVNzBYRGRic0VyNGZuWE90N1pSeTMzM0VJRzhMcEtHaVJONTNhWXc3NXZIV3hBT3EzandNMnpWSzZhOWpac3hfbDlxYWZHY1pEN0RobUNQRmRtZlJlVEZGRQ?oc=5"
         }
       ]
     },
@@ -33,23 +69,11 @@
       "id": "ab9795f0f036",
       "title": "Aliado popular: veja o vegetal que supera o ovo em proteína - ICL Notícias",
       "published": "2026-07-22T17:00:35+00:00",
-      "summary": "Aliado popular: veja o vegetal que supera o ovo em proteína&nbsp;&nbsp;ICL NotíciasMais proteína que o ovo: o vegetal que pode ajudar seus músculos&nbsp;&nbsp;UOL5 benefícios do amendoim para a saúde&nbsp;&nbsp;Assine AbrilOs 5 benefícios do amendoim que vão de gordura boa à saciedade&nbsp;&nbsp;Bons FluidosComer amendoim pode beneficiar o cérebro, sugere pesquisa&nbsp;&nbsp;Terra",
+      "summary": "Aliado popular: veja o vegetal que supera o ovo em proteína&nbsp;&nbsp;ICL NotíciasMais proteína que o ovo: o vegetal que pode ajudar seus músculos&nbsp;&nbsp;UOLAmendoim ganha destaque na dieta dos brasileiros com foco em saúde&nbsp;&nbsp;band.com.br5 benefícios do amendoim para a saúde&nbsp;&nbsp;Assine AbrilOs 5 benefícios do amendoim que vão de gordura boa à saciedade&nbsp;&nbsp;Bons Fluidos",
       "sources": [
         {
           "name": "ICL Notícias",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKQTVJVlgybjljdEh2aDIxaWV4WFVDY0hUdnFNb2VzU0ZaODlQamw2TGZQUmpITUt6RFNIWjdVU05jX2dwZy1ScXpIcmxUdGJpdXhTWmhYZVo2RDdHYzZQWldyVjQ0dDN5UHhUMEM1SEFGbi1DS1E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f05a770caace",
-      "title": "Ela tem hipertensão que teste no braço não mede: 'Desmaiava 6 vezes ao dia' - UOL",
-      "published": "2026-07-22T16:23:51+00:00",
-      "summary": "Ela tem hipertensão que teste no braço não mede: 'Desmaiava 6 vezes ao dia'&nbsp;&nbsp;UOL",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObWFtTU1Xby1zVTRIMjA2cGw1Rm1ha1REU3Z0UDJLVHllN2FRR0xJSzFPcGFFZnU3aGR4SUIzSXBsQVRUM3dwaUNNWGIzcE5PMDFVXzhKM0RmRHh5MV9jNVdfTGZCWVY3Zi1hYUV5N2c1QlhHNU15cGJsMHRCbHVfLXNza09YLXFfSnBvLW1ybl85cFExUVNidHQtSjQyd0JJRkdQQ2NmNkxwWW9nTlo4QmNVV2d6dHpfcVZOd3lKZUJfUnJGMVBDNzR2eDg?oc=5"
         }
       ]
     },
@@ -66,6 +90,18 @@
       ]
     },
     {
+      "id": "6c4171b0155d",
+      "title": "Sob forte comoção, médico neurocirurgião piauiense Jacinto Lay é sepultado em Teresina - 180graus",
+      "published": "2026-07-22T15:02:00+00:00",
+      "summary": "Sob forte comoção, médico neurocirurgião piauiense Jacinto Lay é sepultado em Teresina&nbsp;&nbsp;180graus",
+      "sources": [
+        {
+          "name": "180graus",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTDlLeF9PUGN1MTg5YTBJUHJ2cUl6ZlQ1clRVZWt0R3hSc2txQ1B2amlMUnc0a2tqUkdDbFBfRzEtQURKeHNCMTNyLWs3RFRhSTlra3VERXpvSU5mSnVWd0JDZVp6LTl5SWh2dVBOWE5EYTYyVllYN2dOc0Q2WGZfeWhlcGgzMWhzSUw0cm1ScUZ6OGo2aTRvTUw5dE14RUZra0pqbUZPSlJWX19wdmhvd2p5UEJ6WkVYcWc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "499ce99726bd",
       "title": "Astrônomos descobrem astro que pode ser a primeira 'lua' fora do Sistema Solar - O GLOBO",
       "published": "2026-07-22T15:00:21+00:00",
@@ -74,6 +110,18 @@
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdW1BV0ZHeWo5dkIxbEJRN1VVRHJCUVd6bnNVTGdqMXA5ajdqUE5qQnBHMlpURTlqZTZVeWtBVFhUR1A5VW1nVFV3QXRGdEtHSWNPenp4U3hTX0ZNV2MxZ0tuTVVLM21kempsd29xU1hka2Z5bUpVQzVWNWZpRER4WTN2bVNLTTRmREJuYUkxTEFwdzZDNFpTU3ZEck1lcE1mdGVNSVVDMG1WVG85TFJ1aFlsZXJKYjJIMUt1dmdfVkV3V0tNRkHSAdQBQVVfeXFMTlVaM3I2QVM0R2Y3Q09uUWtjVTMwelRYejNpcVFVS1o2N3dHdTQwTjh1aTBKbHJBSVNSRGtKZFN2Y0p1akxvaFltWkN3X2I0cmFtRC1wRFZhVC0xaDdwd3BUSjRkMnJDS3Z2M3Nxd1p4LWJCQkh4OUsyUzBHcGhUQWtKZjQ3QjNudHZodlhtSGlaOGVOY2hTMUtOaHJlV0paLUoxQmUwM1BsZWxrVkFOaWpTUmQzOWxUdFN5U0hfWWxhQUxJTjJwSk91enk2UDVYbTZaVmo?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "17efbf6cc078",
+      "title": "Mulheres com SOMP, antiga síndrome dos ovários policísticos, têm risco quatro vezes maior de doença cardíaca - O GLOBO",
+      "published": "2026-07-22T14:44:31+00:00",
+      "summary": "Mulheres com SOMP, antiga síndrome dos ovários policísticos, têm risco quatro vezes maior de doença cardíaca&nbsp;&nbsp;O GLOBOMulheres com Síndrome dos Ovários Policísticos têm maior risco de doenças cardíacas, diz estudo&nbsp;&nbsp;Terra",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbE1pNzZxV1lhVWR4TU44Yk5vaW1uMDFvekdmcHhPemNGS1lRT3RXbWk2SDhxNlB1ckRyemhiWmRWSkIwX2VpdjlheUp1TFpqQlZkTHB5TmRjZFBRcFNHOG1ONHEzaWJvR1JGeElIcTdGM29JNEE4MlFhWUdQcTRtYlBOOXZmVjJPME9CczVBRzE1OWxtcERqNXdFSWRWWnFzOUsyQTJ1NDRneWVSZ1N0TUJIdnhIMjNRMm9YaUZWVWowQWxVbnByalJKSVdIN2Joa0dfdW5OYWhzbVB2RlAyWWpWcE1EMVh5WVFWT3hOeUhVOHdh0gGDAkFVX3lxTFA5T2RxRjdnc3I0akIwZ1FSb3l3Q0NsaXVVelhReHh0U044a1VudEZUSnBJV0NwaFpBXzhiYi0tMDVTQnlXdy03Rms4QldrcmNZdUp2NVNvOVl0VDhjclozSGFfbnI0Y2NHdkxfbnRuUjdyLW90UmRodFdTQTRtSGcwdEdkZXpobkhxRUxhTUFyMFM4UnpBWE9EWEc4UTdfQlJkSUNqV1BOajBERnprbW9GbFBhZjI5d2x4bERodFdZTjRxWmNWeTVnZzRGSTU0TW92QnQwbks3dVdRODNudnVtTGF2bWZsLUFTRVJrUFBIUDhjay1BZWkwNldrT1dJck9teFk?oc=5"
         }
       ]
     },
@@ -90,26 +138,38 @@
       ]
     },
     {
-      "id": "e8212ad152d0",
+      "id": "cc4bec4c0856",
+      "title": "Estudo aponta quantidade de proteína ideal para quem usa GLP-1 - Metrópoles",
+      "published": "2026-07-22T14:00:00+00:00",
+      "summary": "Estudo aponta quantidade de proteína ideal para quem usa GLP-1&nbsp;&nbsp;MetrópolesUsa Ozempic ou Mounjaro? Especialistas definem quanto de proteína comer e recomendam musculação&nbsp;&nbsp;G1Sem acompanhamento, perda de peso com canetas traz riscos físicos e psicológicos, dizem entidades europeias&nbsp;&nbsp;Folha de S.PauloCanetas emagrecedoras e herpes: o alerta que vem de uma nova análise com milhares de usuários&nbsp;&nbsp;VEJAQuando é hora de reduzir ou parar Ozempic e Mounjaro? Primeiro ",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vUE1ibmFqZktSQ005aUhFUmk4cmRBQk9XOGxySXJKS1ktS2NFdXNjYWMtR3ZPSWd6ZDVPME5JMW0waUU1blV3bmRvai1wd2c2ZkV5ajRDNUM3SFVEZG5wTEZENFpsRHB1VnlaTlJhR0tVLVp2RWR2TE1tTjQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fee311af59c9",
       "title": "Idosa com Alzheimer recebe ajuda de neurologista após ficar sem consulta em Uberaba - JM Online",
       "published": "2026-07-22T13:47:00+00:00",
       "summary": "Idosa com Alzheimer recebe ajuda de neurologista após ficar sem consulta em Uberaba&nbsp;&nbsp;JM Online",
       "sources": [
         {
           "name": "JM Online",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMUh4eEk3dVc0U2doT2NmdzRyTFVVVk1xaDc4MkxvMUppZTE1WldDV1dpTFptSkNPZzFVTHVSSUZRMmVLLWtDcHZWTjdLQlBhTjdqeUFKU1pFZFM1S0ZtemREWng2Yms3dE9RTTVBSi1ydERvV3JXSlJVVkY4WjlxY3BMNVNlS1k0d1JEWkRSZXRvZDNnS3RaVXRZRDF0cHZvbDFBUGpPODNuLW5JakQ1NXFyZlh5SWgyTW9VRnBSVzXSAcgBQVVfeXFMUEpXb0ZSeEIzNnc0OEpIT2F5cms2V3pxZ1ZXVVpNcHhxQU5jVTNhSFRxWTZ3LVhDREVxakpJMVZoc2NZWnhxMlhQbnZtcnBNVS02WGRaM0R5NHdfX0Z3bzRwRWhERjlKQmU3cTBZYVpYX2pvTlh3WGk3SVFrcmdRY1RKWnFfQ2hKRFoxSmowSkJ5bEdFMnNsblZQV0RrVDgzY2VIcDBLTWplVjEtR2hfdmhtVFZxVTJQS0U2WEEzT3M4S0RaTThrVjU?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMUh4eEk3dVc0U2doT2NmdzRyTFVVVk1xaDc4MkxvMUppZTE1WldDV1dpTFptSkNPZzFVTHVSSUZRMmVLLWtDcHZWTjdLQlBhTjdqeUFKU1pFZFM1S0ZtemREWng2Yms3dE9RTTVBSi1ydERvV3JXSlJVVkY4WjlxY3BMNVNlS1k0d1JEWkRSZXRvZDNnS3RaVXRZRDF0cHZvbDFBUGpPODNuLW5JakQ1NXFyZlh5SWgyTW9VRnBSVzXSAdcCQVVfeXFMUHRqVlZzS3NhV29Xdm1DdjVhb1NHX3JBaVRKTUtyM2FpazRKSGUzQWloZ05weGpJY25IR0drRGx3aTNpdEV6X20zUGpZc1JTV19IT0NxS0dRVXpETEFhbDVhYmluY0k3UG83ektOQ2lMWG1LMEZOaEMybFFUaVV6dkQ3Z1NXOUFId3pzOE92cXVkV0x1VC1WSmd1bHlONE02MUxiMlhBR1dIUER6X0VvdU9pcDVUaTRfMW02Y3hXaEsxVUtqTVhDV1o5cWpGa04wemE0TWhmbHFlbjFLNU5fTGxFVlBmdGtwQkcySTFqS3h2NGxSMzJJNTI3MkFuRUhRYmRmcWducHo5T0hKQTlBdUFmZE5qQnJGWHBfQ0U0MG40YWY5Y250Y0owNE5NVkhzUUtUaFhMc2RoRHVVdVBpQy14aEVWYUdCYTNXOEowTTVpTnQwTVEwcw?oc=5"
         }
       ]
     },
     {
-      "id": "9b26c467e8f1",
-      "title": "Qual a receita de café da manhã ideal para emagrecer, segundo a ciência - Globo",
-      "published": "2026-07-22T13:38:37+00:00",
-      "summary": "Qual a receita de café da manhã ideal para emagrecer, segundo a ciência&nbsp;&nbsp;GloboCafé da manhã rico em proteína e fibra ajuda a emagrecer, indica estudo&nbsp;&nbsp;Folha de S.PauloCafé da manhã garante disposição, saciedade e nutrientes necessários para o organismo&nbsp;&nbsp;G1Café da manhã com proteína e fibra pode favorecer o emagrecimento, diz estudo&nbsp;&nbsp;TerraEstudo aponta combinação ideal no café da manhã para auxiliar no emagrecimento&nbsp;&nbsp;Fala Você Notícias",
+      "id": "96c35f66606c",
+      "title": "Pesquisa inédita aponta qual mês mais preocupante sobre o El Niño em SC e o que esperar do futuro - NSC Total",
+      "published": "2026-07-22T13:27:59+00:00",
+      "summary": "Pesquisa inédita aponta qual mês mais preocupante sobre o El Niño em SC e o que esperar do futuro&nbsp;&nbsp;NSC Total",
       "sources": [
         {
-          "name": "Globo",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVGd0MG9TOFdtcGtRaHA2OFRPVEU3VlBBVWV2VVBsOWVoZW9Ndkd3Q29qWmY2TTlYUFlxODhOY2g0ZTZIWS1DaEtVZGYteEtETlJZZFZnZDgzTk95WG1pMmJlYk5SeEhDZlFwY3ZrSzcxMEVjY2poVXI2X1Z4eE16cWlYZ0ExNUo1cGlETnRsY2hjTV9uMGExUGpiQTRoX1lYcE9IVzdWQ0JWX3JIM0EwZ2c4Y0Juc190UlVaaG83WXNqOVhJTWxn0gHWAUFVX3lxTE1jelFxQkVFTFVKTEczTE1FakNTclpCb19Bd2s4bjhRQmxWaWxfT3VOTUx4eEdZdGxXNXpRTDZRcnFBUFEzWjdWR3lybTZZRGVVUlFjU0xCZ19ZNEZjX2RHc3RvdzVOSHh5RVpYX1Z5WldNNkw2bTZ3SjVOQllDdVR1ejRJN21FbG90V05kZndqRFdLT1gtYndsc3RxTlJLangwYlJUMU1zZGpaV3VseVdaandIaHNNMFB4NEd5UHlNamlfUV9tQ2VyTzM4MktqcC1tNnhycEE?oc=5"
+          "name": "NSC Total",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNT1daVDNPcGFMNzl6TjhnU0lTMEtCaER0VHJRX2sxOXJrM0pfcGpXOUdaNXdvRUdDZGU1TEhDaHliUG15NHJJQXRBNm05blRVVkRtczBVaFRQRGpGVVJhZkcxOWhKRlYzTEREVE4yUlFXOFFtT3NMR1pZcl9qdng4Y0Q3MHozUFFwUHVDdlA3UHhuakhjY0JVMTFJWms4Y2VVc2hZV2NmaE5kQVk0R2NMRktlOXI4SUduLXYtcGFfbkIteFpDX0FRbmZRUQ?oc=5"
         }
       ]
     },
@@ -126,14 +186,26 @@
       ]
     },
     {
-      "id": "3cd69faba37c",
-      "title": "Câncer, infarto, AVC: tratar obesidade evita doenças que afetam longevidade - UOL",
-      "published": "2026-07-22T12:31:00+00:00",
-      "summary": "Câncer, infarto, AVC: tratar obesidade evita doenças que afetam longevidade&nbsp;&nbsp;UOLObesidade demanda manejo individualizado de comorbidades&nbsp;&nbsp;Valor EconômicoEmagrecer com segurança: o que avaliar antes de iniciar um tratamento&nbsp;&nbsp;Jornal PitocoNovas abordagens ampliam estratégias de emagrecimento&nbsp;&nbsp;TerraObesidade avança e acende alerta para a saúde pública&nbsp;&nbsp;Jornal Ibiá",
+      "id": "0f905bf97d47",
+      "title": "'Tive um câncer em estágio quatro aos 14 anos; hoje sou médica' - BBC",
+      "published": "2026-07-22T13:09:44+00:00",
+      "summary": "'Tive um câncer em estágio quatro aos 14 anos; hoje sou médica'&nbsp;&nbsp;BBC'Já estive nessa maca': jovem que convive com câncer raro decide ser médica para ajudar outros pacientes&nbsp;&nbsp;G1Estudante decide ser médica após tratar câncer raro por três anos&nbsp;&nbsp;RedeTV!Jovem que convive com câncer raro decide ser médica para ajudar outros pacientes&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5GbUE3SGhjeHRMNERJYVhlVGhIM3hRaG1SdWlsNHByU1QwUHRrZmNtQkVqbTZqM250U2g0WS00OXFhcjZEUmFGYXRVZkhBN20xS3ZfOE8wQTNEM2hEUTFIN1NB0gFnQVVfeXFMUGJGTFNkVE9Za0VRTUp5V3R5d0x0Y1FRUmJDNUNVWXlPWVBkeTItNkFDVVctNHoyNERSX3pzM0lWVWxBcnpUVXZSWm5xTmpNWlBnMnBwRFI3OENuQTU5ZXA0cDFCWUNXQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f05a770caace",
+      "title": "Ela tem hipertensão que teste no braço não mede: 'Desmaiava 6 vezes ao dia' - UOL",
+      "published": "2026-07-22T12:55:23+00:00",
+      "summary": "Ela tem hipertensão que teste no braço não mede: 'Desmaiava 6 vezes ao dia'&nbsp;&nbsp;UOL",
       "sources": [
         {
           "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMFh5RTJMU092T204YVFwTjFVZC1DS2x5NURBT0V1SkxWcjJVUEpRWEVfSXJlOUh1SEQ2TU16WlRyc1JSeDY3XzhuTGsySE5vT2NpUS1vc2NLWmQwclZ5b29XTTZfNVhfdVZQNVJzd042dlBkWGpYX3c0U0VpSFJaUGdBOGJTbl9KNzlSX1c5OGJWNDYxRHZYZlhpVm5OSU9odnVfZ2RmLWZjM21LUlM2cnJjOHFoY3pIdnZ2dnVVaUNTNW5lNmFKU194ckloNzA?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObWFtTU1Xby1zVTRIMjA2cGw1Rm1ha1REU3Z0UDJLVHllN2FRR0xJSzFPcGFFZnU3aGR4SUIzSXBsQVRUM3dwaUNNWGIzcE5PMDFVXzhKM0RmRHh5MV9jNVdfTGZCWVY3Zi1hYUV5N2c1QlhHNU15cGJsMHRCbHVfLXNza09YLXFfSnBvLW1ybl85cFExUVNidHQtSjQyd0JJRkdQQ2NmNkxwWW9nTlo4QmNVV2d6dHpfcVZOd3lKZUJfUnJGMVBDNzR2eDg?oc=5"
         }
       ]
     },
@@ -153,7 +225,7 @@
       "id": "cc445bb050d8",
       "title": "Saúde confirma duas mortes de crianças por meningite, mas descarta surto - Correio Braziliense",
       "published": "2026-07-22T12:02:00+00:00",
-      "summary": "Saúde confirma duas mortes de crianças por meningite, mas descarta surto&nbsp;&nbsp;Correio BrazilienseSecretaria de Saúde no DF confirma duas mortes de criança por meningite em 2026&nbsp;&nbsp;G1Duas crianças morreram por meningite este ano, segundo Secretaria de Saúde&nbsp;&nbsp;G1DF registra duas mortes de crianças por meningite em 2026&nbsp;&nbsp;MetrópolesDF registra duas mortes de crianças e amplia vacinação contra doenças pneumocócicas&nbsp;&nbsp;Jornal de Brasília",
+      "summary": "Saúde confirma duas mortes de crianças por meningite, mas descarta surto&nbsp;&nbsp;Correio BrazilienseSecretaria de Saúde no DF confirma duas mortes de criança por meningite em 2026&nbsp;&nbsp;G1DF registra duas mortes de crianças por meningite em 2026&nbsp;&nbsp;MetrópolesDF registra duas mortes de crianças e amplia vacinação contra doenças pneumocócicas&nbsp;&nbsp;Jornal de BrasíliaMeningite: Distrito Federal não apresenta surto da doença&nbsp;&nbsp;Agência Brasília",
       "sources": [
         {
           "name": "Correio Braziliense",
@@ -162,14 +234,14 @@
       ]
     },
     {
-      "id": "9a0d9a8136f7",
-      "title": "Empresário americano afirma ter criado 'clone' de si mesmo em laboratório - G1",
-      "published": "2026-07-22T11:52:39+00:00",
-      "summary": "Empresário americano afirma ter criado 'clone' de si mesmo em laboratório&nbsp;&nbsp;G1",
+      "id": "47c640f30427",
+      "title": "Caso de raiva em bovino mobiliza vigilância sanitária e reforça alerta aos produtores em SC - portaleducadora.com",
+      "published": "2026-07-22T12:01:29+00:00",
+      "summary": "Caso de raiva em bovino mobiliza vigilância sanitária e reforça alerta aos produtores em SC&nbsp;&nbsp;portaleducadora.comCaso de raiva bovina é confirmado em Itapiranga&nbsp;&nbsp;G1SC confirma 26 casos de raiva em animais de produção e Cidasc orienta vacinação; veja cidades afetadas&nbsp;&nbsp;ND MaisSC chega a 26 casos de raiva em animais e reforça alerta para vacinação&nbsp;&nbsp;OCP NewsSanta Catarina registra 26 casos de raiva em animais e reforça alerta para vacinação&nbsp;&nbsp;TopElegan",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZzFzb2sxQ1dkTlRLZ2Q5Z1RROGRQcXlsUUg2aHpiZ2kwbmpjVktUOE41TGp0cnozc2ZfZFNmZVlsaFdJbjctaEtMVDR6UGFkeTI0VS04Q3kwemxpcTQzNGxfcmd0ZzMtMFZvZlp1REJnbVNtSGJORFNsNTVlMnVHSmlkdmdlU0xuY2lmT05ROHQtWnVOM2Zsb0RMSkVBdWtvVGU3dWhKVVg2VG5EQXNvMUlBanBSYnFHNi1kUnlIR1bSAc8BQVVfeXFMUDF6VGRoa0tNSXVhUmpNZlFTSWE0UmtCRWdtQzhtNVhoSG5CSVQ0SFBqOFkxdmpnQ21hbEtFelVDR2dLTjFHNjM0ZTM0R0JIVmpuQVNIUUhwVjk1LXV4aEFOTHR5ZU5LbmpPRXNtQ091SVlHUkhHbTBiXzRPZm1JWUJpSjM1azdXbmRaWF9uVTByem45Ri1YUUdBeFZOcmlDb3BmbUdac0hETnd6V25pNWJrUmt4Y3Y4YnpCdmd1SktHZkxhVFVHaG9NZkxrRHVR?oc=5"
+          "name": "portaleducadora.com",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRFdsVzM1OVg4VXVqQ0RwSDBIOHk3R0FRSTFEcm9UU0dQNlRjWjlqMURIa0hoMXNPMGZHTW11enVOa3dMNS1jUmNhVnIzMVEtXzM5WklsQ2RlUlpGaGJjY3ZlcmFmR3U0SUZKeW92OHFYR1ZBU3NURjRUTktBVzd4azBoRzNaaS1KQ2d1MVhRTlk4a1VUSGpyWXFhZDZPUWc4bjJlZnY3SUFQd2owWFNzMEdlMWx5RU9pbUZQems2N1R1bWloNDRJT2UyT2Q?oc=5"
         }
       ]
     },
@@ -186,10 +258,22 @@
       ]
     },
     {
+      "id": "d90f701afe98",
+      "title": "Café da manhã rico em proteína e fibra ajuda a emagrecer, indica estudo - UOL",
+      "published": "2026-07-22T11:32:37+00:00",
+      "summary": "Café da manhã rico em proteína e fibra ajuda a emagrecer, indica estudo&nbsp;&nbsp;UOLQual a receita de café da manhã ideal para emagrecer, segundo a ciência&nbsp;&nbsp;GloboCafé da manhã com proteína e fibra pode favorecer o emagrecimento, diz estudo&nbsp;&nbsp;TerraCafé da manhã rico em fibras ajuda a emagrecer, segundo pesquisa&nbsp;&nbsp;Seleções Reader's DigestCafé da manhã rico em proteínas ajuda a emagrecer, diz estudo&nbsp;&nbsp;Aratu On",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOT0dJcnlDblFSczh2WU1XdFBaMFFkY1JrQWVDTUhmblZvaWE4WXp5RXBteUFVNDFiV0d3eXlEbVh6MWd2Z2Q5NTJ5Qk9iVTJhVmFfT3ViSjBBS3gzbU9fYk1kYWozXzdRM3Y3QndVNWdUTi10Q0FfUWMzRkx3T1gtZDRUd3dibll4Z0NZX0lJZ2p6NmNfempEVDBSR0xiYTlPbGdScGUydmZCaUgtSjNnUC02UkF5dk9CWjBqM3E2R0FuZEJ1WW5MUGQ4b05ic0k?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1cbfabded5b6",
       "title": "Surto de sarampo? O que se sabe sobre 13 casos em SP e alerta de vacinação - UOL",
       "published": "2026-07-22T11:18:59+00:00",
-      "summary": "Surto de sarampo? O que se sabe sobre 13 casos em SP e alerta de vacinação&nbsp;&nbsp;UOLSP recomenda vacinação após registro de 13 casos de sarampo neste ano&nbsp;&nbsp;agenciasp.sp.gov.brVacinação contra o sarampo está disponível nas 10 cidades do Alto Tietê&nbsp;&nbsp;G1Alerta para o sarampo: com fim da Copa e das férias, cresce risco de retorno da doença&nbsp;&nbsp;Veja SaúdeSão Paulo reforça a importância da vacinação contra o sarampo após confirmação de novos casos&nbsp;&nbsp;Estadão",
+      "summary": "Surto de sarampo? O que se sabe sobre 13 casos em SP e alerta de vacinação&nbsp;&nbsp;UOLSP recomenda vacinação após registro de 13 casos de sarampo neste ano&nbsp;&nbsp;agenciasp.sp.gov.brVacinação contra o sarampo está disponível nas 10 cidades do Alto Tietê&nbsp;&nbsp;G1São Caetano reforça alerta para a população se vacinar contra o sarampo&nbsp;&nbsp;Diário do Grande ABCSão Paulo reforça a importância da vacinação contra o sarampo após confirmação de novos casos&nbsp;&nbsp;Estadão",
       "sources": [
         {
           "name": "UOL",
@@ -201,11 +285,23 @@
       "id": "f9f0bf37ef8b",
       "title": "Anvisa autoriza produção de Aedes aegypti com bactéria - O Dia",
       "published": "2026-07-22T10:52:27+00:00",
-      "summary": "Anvisa autoriza produção de Aedes aegypti com bactéria&nbsp;&nbsp;O DiaWolbachia: Anvisa autoriza nova empresa a produzir mosquitos que combatem a dengue; entenda&nbsp;&nbsp;O GLOBOAnvisa autoriza empresa a produzir mosquito com bactéria antidengue&nbsp;&nbsp;MetrópolesPrefeitura prepara o Sítio Cercado para a chegada dos mosquitos que combatem a dengue&nbsp;&nbsp;Prefeitura de CuritibaItajaí divulga método wolbachia em ação na UBS Votorantim&nbsp;&nbsp;Visor Notícias",
+      "summary": "Anvisa autoriza produção de Aedes aegypti com bactéria&nbsp;&nbsp;O DiaAnvisa autoriza por 5 anos produção de mosquito com Wolbachia da Oxitec&nbsp;&nbsp;Folha de S.PauloAnvisa autoriza produção de 'mosquitos do bem' em Campinas para combate à dengue&nbsp;&nbsp;Globo RuralAnvisa autoriza nova empresa a produzir mosquitos que combatem a dengue; entenda&nbsp;&nbsp;Folha PEAnvisa autoriza empresa a produzir mosquito com bactéria antidengue&nbsp;&nbsp;Metrópoles",
       "sources": [
         {
           "name": "O Dia",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQenNFV0ZPUnVXbzBnSFBSY3lHcnNJQ3p6YkpEZ3RWRXgwYndLT25UNEVLbERTU0wtdUs2OWxrTkFNSEZ4R3RKWS0xSnZwdXNOUmc1Z0Fwa1dxaW4wR3B3a1ZCUENVOEFMOWZmSUlVUXViNE9DQzd6UExJZFdERzlkall5amkwSEw1bEdxS3drRFE0Y1FjNWdVMzVqUkFoT0hMX1FTZDZkMW7SAa4BQVVfeXFMUHk2Q1pVSzMwS21xcVBEZkhNQTZHdlRjejdCYUtnQzE2M09KYm5rVTRNZmgzUDJiMk9RcXNlRnFQOEt2LUxzUDBjUEluRTNtaDdZVlNCcEp1dVN1Uk5RN0lLSUtlc0p5eGtyUHN2OVBZOEJrYWlFNGRPeGtmaG1OTEFaNnd3cUUyM0w0YVhlUG9MbEk4TXRwcnVCZ3JEcGNMZnlwcnhiMHNqeExGWHRB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3cd69faba37c",
+      "title": "Câncer, infarto, AVC: tratar obesidade evita doenças que afetam longevidade - UOL",
+      "published": "2026-07-22T08:31:00+00:00",
+      "summary": "Câncer, infarto, AVC: tratar obesidade evita doenças que afetam longevidade&nbsp;&nbsp;UOLObesidade demanda manejo individualizado de comorbidades&nbsp;&nbsp;Valor EconômicoCanetas, proteína e academia: o novo apetite do brasileiro&nbsp;&nbsp;Tribuna de MinasPor que a saúde mental deve fazer parte do tratamento com medicações injetáveis&nbsp;&nbsp;HojePRObesidade avança e acende alerta para a saúde pública&nbsp;&nbsp;Jornal Ibiá",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMFh5RTJMU092T204YVFwTjFVZC1DS2x5NURBT0V1SkxWcjJVUEpRWEVfSXJlOUh1SEQ2TU16WlRyc1JSeDY3XzhuTGsySE5vT2NpUS1vc2NLWmQwclZ5b29XTTZfNVhfdVZQNVJzd042dlBkWGpYX3c0U0VpSFJaUGdBOGJTbl9KNzlSX1c5OGJWNDYxRHZYZlhpVm5OSU9odnVfZ2RmLWZjM21LUlM2cnJjOHFoY3pIdnZ2dnVVaUNTNW5lNmFKU194ckloNzA?oc=5"
         }
       ]
     },
@@ -222,14 +318,14 @@
       ]
     },
     {
-      "id": "15de52777305",
-      "title": "Cientistas da USP criam teste que detecta superbactéria em 6 horas e encurta o diagnóstico em até três dias - G1",
-      "published": "2026-07-22T08:03:33+00:00",
-      "summary": "Cientistas da USP criam teste que detecta superbactéria em 6 horas e encurta o diagnóstico em até três dias&nbsp;&nbsp;G1Pesquisa da USP pode reforçar o combate às superbactérias&nbsp;&nbsp;R7Teste rápido identifica superbactérias em seis horas e pode transformar rotina de UTIs&nbsp;&nbsp;Jornal CorreioUSP cria teste inédito para identificar superbactérias em 6 horas&nbsp;&nbsp;MetrópolesSuperbactérias no intestino são identificadas em \"teste de farmácia\"&nbsp;&nbsp;CNN Brasil",
+      "id": "6f0af1ae4d08",
+      "title": "Superbactérias avançam entre crianças e preocupam especialistas - Correio Braziliense",
+      "published": "2026-07-22T08:10:00+00:00",
+      "summary": "Superbactérias avançam entre crianças e preocupam especialistas&nbsp;&nbsp;Correio BrazilienseComo a ciência está se preparando para a próxima pandemia&nbsp;&nbsp;Olhar DigitalWOAH adota plano global contra resistência aos antimicrobianos para a próxima década&nbsp;&nbsp;Veterinaria AtualMembros da OMSA adotam Plano Global contra a Resistência Antimicrobiana&nbsp;&nbsp;AgrimidiaA resistência aos antibióticos em crianças está aumentando rapidamente, tornando muitas doenças comuns cada vez mais di",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOYjFOUmpTLWQ3MjQ1WDJzMEVvR1NKNVktVXlvU1FqVHBGbWhGNE5FSEs3bFRGS2NVR3NDWHQtdWw0RDFRem1EcjE2RTh4T3YwcHdxdHZoYmdBdV9yYzlUdkF4cHNiMThHdlRraWF3YzVqQUI2Y3VqU2tlVmpzSFlPMVlnWDJTdGZJN1QwdFhGbWRNTC0tOEdZYWVUaFNSb2N4YTBtQTMxOFJSa1pqaENwT0tZekdTdkZHRWczWmR3VkE5TGFORTYxVl84clo4QV9ieGlHTEk4T2F5QmpTeTB4Rm40VTYwOU55Y3hmakpxaDjSAf8BQVVfeXFMTWZvdFMzNmw2Zl9SazZGZVJTMXBQMDJnNXdLd254Y29aWW1hWEdsU2hJVEVPZENQVUZXcjI5TmxZb3VZakNFbk1qY0NJWmM4NWJrZWFIcDBYOGVtdjNDYjBFbENLU1UtamtyeDdKdmhBTkxyVzVRaDBZblRYMjUtanhYVE1IMHhObkhia1ZVS25mRGExWDk2dlhRR0NXQmZqOHo5bWwzSWNaTExTakVnNFgtQTRaenlNQlJNaVl0THZ0TTR6TkhKZDhLTkkwU0NjRGxGbUdYTGJORnI4elZJV3g4cWVlRmdYc3V6R2h3UHpHLTAwTWJPSWY0eFJScl9V?oc=5"
+          "name": "Correio Braziliense",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNc2QtWFJ5S2dBVHE5VTdjOHkxVzBONXpjXzVGQjM4S2I1T29wOFpGcmg5MWJWdHczTGFaTV81RkxRZUJJN3ZOTkFwZG5OajBVWW1iSnhNTUxfNjRmVVpBZVJ5MDdieUVxeTNueDdHSGlhM1JiV1NtWW5KcUxVOEUzMGlkUkQ4NVZmWE1DRzNmcExrZHByMnFKVElSUHhmV0NJV01CRzR1a195SDAxQVl1LVdhVi0tQV9iSzlJa1pzMUJXZ21qOG5KMjFUN005RDBKNmg1YtIB2gFBVV95cUxOQ3U2Ym5tTFg3bmdtWXZDdXBYdl9oZlhmbWJQVF9wTWhxdmtEdEdhdXRGWU9BU3F6N0g1NjZObFF4ZkgwUEFaMjNnUU9MQTFfUW5LR2phMy1oNV9LX1U5RV9MMl9BNzFGVjNFa2hZdldrY0Zrd19jMzJLMEZkVnU1M0dqZmNtNjl2SG5INXIyNzJmbUIya1RhdDdnaVcyTVpTZTM2OXBMTzRSaUF3bm5CZDVCbHJUN1JnQ3FNM2FfckNWQ3RBZlRUMUpFaWNiQVM4VHAwTU0wMm56UQ?oc=5"
         }
       ]
     },
@@ -249,7 +345,7 @@
       "id": "c8851792ba08",
       "title": "Vitamina D no inverno: 5 maneiras fáceis de manter seus níveis - O GLOBO",
       "published": "2026-07-22T07:30:32+00:00",
-      "summary": "Vitamina D no inverno: 5 maneiras fáceis de manter seus níveis&nbsp;&nbsp;O GLOBOVitamina D: quem realmente precisa de doses altas e quem pode abandonar o exame&nbsp;&nbsp;Portal UAIDeficiência de vitamina D silenciosa costuma dar sinais antes das dores ósseas&nbsp;&nbsp;Tua SaúdeConfira os benefícios da vitamina D&nbsp;&nbsp;G1Pré-diabetes é um dos poucos casos em que a diretriz sugere mais vitamina D: entenda o raciocínio por trás da exceção&nbsp;&nbsp;Tua Saúde",
+      "summary": "Vitamina D no inverno: 5 maneiras fáceis de manter seus níveis&nbsp;&nbsp;O GLOBOVitamina D: quem realmente precisa de doses altas e quem pode abandonar o exame&nbsp;&nbsp;Portal UAIDeficiência de vitamina D silenciosa costuma dar sinais antes das dores ósseas&nbsp;&nbsp;Tua SaúdePré-diabetes é um dos poucos casos em que a diretriz sugere mais vitamina D: entenda o raciocínio por trás da exceção&nbsp;&nbsp;Tua SaúdeComo tomar vitamina D do jeito certo para fortalecer a imunidade sem prejudicar s",
       "sources": [
         {
           "name": "O GLOBO",
@@ -258,14 +354,14 @@
       ]
     },
     {
-      "id": "c04d5fdfa6e0",
-      "title": "Diagnóstico precoce pode curar mais de 90% dos casos de câncer de intestino; veja os sinais de alerta - G1",
-      "published": "2026-07-22T07:01:17+00:00",
-      "summary": "Diagnóstico precoce pode curar mais de 90% dos casos de câncer de intestino; veja os sinais de alerta&nbsp;&nbsp;G1Jovens envelhecem mais rápido, com maior risco de câncer - 20/07/2026 - Equilíbrio e Saúde&nbsp;&nbsp;Folha de S.PauloCâncer colorretal: estilo de vida e prevenção ganham destaque&nbsp;&nbsp;TerraBrasileiros reconhecem sintomas de câncer, mas demoram a ir ao médico&nbsp;&nbsp;Poder360Sinais do câncer colorretal devem ser checados com rapidez&nbsp;&nbsp;Diário Corumbaense",
+      "id": "ae68e7aa485d",
+      "title": "Novas gerações podem estar envelhecendo mais rápido em nível molecular, provocando cânceres precoces, diz estudo - O GLOBO",
+      "published": "2026-07-22T07:30:17+00:00",
+      "summary": "Novas gerações podem estar envelhecendo mais rápido em nível molecular, provocando cânceres precoces, diz estudo&nbsp;&nbsp;O GLOBOJovens de 20 a 39 anos estão mais expostos a ter câncer do que idosos&nbsp;&nbsp;MetrópolesJovens envelhecem mais rápido, com maior risco de câncer - 20/07/2026 - Equilíbrio e Saúde&nbsp;&nbsp;Folha de S.PauloCâncer antes dos 50 pode ter ligação com envelhecimento molecular acelerado, diz estudo&nbsp;&nbsp;Diário do Centro do Mundo\"Câncer em pessoas jovens: estamos d",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPazVOejl0LWtMS3IyNkhqRWhWR0ZremdCWXJiZmpaVzNPcW1HSWMyV1BXSHN2ZjZpdEtfV1hGcG4weGh1M0pYSTdHYV9JYUVsaDdGSGpvOWE2RHk3dXR4VmpYM3BuU2dLb25QQ2RwbkZtNVhiQ29UUTdYMk5YMHdHd080b2s0bmMwM3lGZlhUekFkX2xiZnlrT1FMbjBrZ1ExWEhpcmJfMmdMdWxnOUxpdnNWdlBMc1VZZjBaeGhRdzUxejN0RVU5dTUzV2g3MGF5MTJqbWgyUEtVUjhOZ3hiM2RoNHJGVVBFN2RHQV9qazROcmpxWXfSAYQCQVVfeXFMTWs2NVFsOTJLUWhPZXhzOVdiUllLRTlXWlIxUTVxaFlsWWRTUk14OEk4SG9WbTdxeW1NS3N2NFJSQURBUS1uQWFQaGdwRHhTUDQ0bWh5TzZRalh3UTR3Zm1HOVlEc3AzNHZkNHVxZlRGSklYTC1vcmMzMFRYNjVEYWQxMGYwRXNqVFdyekxORnF2OHZYM0FXM3FGZHRZT1FGaWtJcVVDeXQ5QkhfT3pGRGlFS2pwbkVqaUo3VkxlQjFqNS1BTmtLSU4xWDRJUGY4UzhhTm9jRGdRSjJyX3ptYjVVRTBoTVV3czVZMm03SUtWN3pFUlktVExrWnFGdC1WUk9weXo?oc=5"
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQaU9ZYmM4Y3Q4X1lGRzRJaExHMURjUmVpWm9RMG81MTQ5WHhrZDJkZERfWEFhS2RUc1lsS29LY0xELXo1TFF4S25QOC1DcmRGT0RjVmxCQTdnV1BKWGZ3RkFSMEQyZjRWN2tfbGluX0x6YlVSWXJpbGpITWREbFNkS05EV1FsQldoODkxc29uQnN0M09samo3bjFZUjRFTEtGX0ZIcmlfaWpEdFdneXltUmF1cTNoaFo4YWJ1aHhwYWQyT3pKZ0ZyUU0xcE9BdlUxZmlVbUxiVjRUZTBxbDRIVnRhYUNUTEJWQVkzSUxIbzk2c3RGQ3FUa09R0gGIAkFVX3lxTE1qVTIxMm1SenZjMEY0eEtjbWNNTURZR3ZGUHdRUWNacnVlMWt1Y3lBNWpvbVA0VDVaVFlIZzZVNm5UNm1WcWY4RzZsQWZDTmNfN2R1MnVIbGF5dnEwSVdIWkNZdmxQWFNNekpEUUlBeDZTUnB4bnlaeW5jblZKQnRuSmlYNGNvZ3ptZ3BsZmJKZ2ZnU3V2Zml5TndTOTJtMW4yOE0tU3ZwME9ZWmg1ZDUtaWJySUNfWk9FckdMVkNEWVNYejlBOUw2QXJpX1M2SUJncG1HOEJyNnN2UG5QejZTOWpRcWc1QWFHVzFhc1R0Q3loSkwySzVSZkpUcXZWcHY2Qm9OMlJrQQ?oc=5"
         }
       ]
     },
@@ -273,23 +369,11 @@
       "id": "281b27dcf640",
       "title": "Vacinação contra HPV reduz infecção mesmo entre mulheres não imunizadas, aponta estudo brasileiro - Folha de S.Paulo",
       "published": "2026-07-22T07:00:00+00:00",
-      "summary": "Vacinação contra HPV reduz infecção mesmo entre mulheres não imunizadas, aponta estudo brasileiro&nbsp;&nbsp;Folha de S.PauloJovens têm novo prazo para atualizar vacinação contra HPV&nbsp;&nbsp;G1Campanha de vacinação contra o HPV é prorrogada até 31 de dezembro de 2026&nbsp;&nbsp;Folha BVCobertura vacinal contra o HPV na Baixada Santista está abaixo da meta nacional; veja os números&nbsp;&nbsp;A TribunaCâncer de pênis, ânus e orofaringe: vacina contra HPV também é indicada para homens&nbsp;&nbs",
+      "summary": "Vacinação contra HPV reduz infecção mesmo entre mulheres não imunizadas, aponta estudo brasileiro&nbsp;&nbsp;Folha de S.PauloJovens têm novo prazo para atualizar vacinação contra HPV&nbsp;&nbsp;G1Campanha de vacinação contra o HPV é prorrogada até 31 de dezembro de 2026&nbsp;&nbsp;Folha BVCâncer de pênis, ânus e orofaringe: vacina contra HPV também é indicada para homens&nbsp;&nbsp;BHAZArtigo de pesquisadores do LAIS analisa custo-efetividade da vacinação contra o HPV no Brasil&nbsp;&nbsp;Labora",
       "sources": [
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbVdDLTltRlVSb21pUGZ6VXBoQ2ZaeG9yZGlzSkprWnIwUThmSm5EQkY0NGxtYkpObF9ndDFyXzFGNmlrd2xlX0RtTU1xTi1MdmlLbXNJYVRfM0lHS2g2d2lHVmRhVlBrTU9tYUlMbG5oZk9DYWlWTlMyOGdXckNwbU53TmRIVW9TUks4SmdURm5qeVNfZ3lEMXNOdlVfXzVBLUF6RFhEWDNOckZqR3NaRVBDdVNyRnY1WmwxSERNOV90UlFmeEVKNGFDUmxCTVduTDc2SVNSb3Z6eFFSa2hwem1LUXc5Ukcyby1JdHRB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6bec881537aa",
-      "title": "Por que o sabiá-laranjeira canta de madrugada? Pesquisa da USP convoca escolas de São Paulo para tentar descobrir - G1",
-      "published": "2026-07-22T06:00:15+00:00",
-      "summary": "Por que o sabiá-laranjeira canta de madrugada? Pesquisa da USP convoca escolas de São Paulo para tentar descobrir&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbFJMVmN3NVBGa2Vsc3M0MVFrY3k5ZzhObWsyQ0lodmhfZGNvRWY2S2pHa1BUNjRISjFfQUkycHlzSHh4Sk93ZHl6UVJhNVFvVmRXSXRiSlgzeWJlUDhIZmZvZkdySDU2aTR0NUVSd010LVFfSzJwS2RvZThvT25yZ2hTVWtCUlhKSVBMbGtVeXkwUlJiZ2l3X2ZfdW1TNTVGUGlMdmFuUVliN2taMXdiQzA0ZUtZVXFmeXBrSU9zdlQxWXI0ZzNzMjFQYlJiMUXSAd4BQVVfeXFMT1dQaGpmYXRZUWJRSEFYc2dWc2F1aHZnckV0eUFxZzY2SzIwN2lLOFA4YkFmYmdjVTM3UUtqcTdMQ0lWVzgwbGhhZGVaUkVpQlEwVVBmR0pQT3VQN3FSQlJDemZFUkhOSkl5T1A2U0JVREpCTGpCUm5GUlpCanJFUDlJSnFKOXR4YWIyTUpydjdicTNxOFFmX3ZFa1NnWExLQjlMcklPSEVOb2hlUk8xWThBeTBaenQtcWRrWGJlaXpqaEY4WlQzU2YtempoQmVOTHB0VVdocjNnRDZkZ2Z3?oc=5"
         }
       ]
     },
@@ -302,18 +386,6 @@
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbWxZNURKZnlrcDJwR2ZkSjhQZURmb3ZELWx3NVV3Y01aY2ozeWJnbGQ1cG1WcHFPTkk3eV9QeVE0VlV6QzFTa1Q5QXFQQ3NyVW5EN1JGVkNGQngwLU5NaUhVRldFY2NFUzR3M3dZbUY3QmIteDh0QWxrSWVKbV9aRmpLaVNsN3hvc0ZMallhek5hajlmRFdWTU5sazVqU1RuLWF4aTlHNkZUbDRFRFNJb1lNdllYcldPczJDOGc1YXdkQzVQMllWQXlydm9OUVMxeGxBQ0lhSEZVQzY4Mkg00gHuAUFVX3lxTE1WaENwaWtyU3dzd0MyV1J1TEM1V0F4UVpWS3UyczNDSGVpOHlOcWNnNUdYUzBKSTZON0FrQTdBcmZ2MVdwQlduUHc5WGxaaGZRNzExQVAxQXgtTU1fMnZUZm5YaS12OUJGQVdNSFlMWktNVzgxdEhWS2RjR2VYaHZsenJoY2JUWGJ5ZEV4cWhJYmNVYloyRl9MTXRqa01HRlVscUdXSUtmZEg3RjNUOHRQaUVBNEw2b2NZRFM3TzVSV3JDOWJWZGwwVm9wMEpmMVNQcGdfSmZfTmw3MDFXendSbUxmMDlQZHp5bEFmY0E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "61c86e6dbddb",
-      "title": "Usa Ozempic ou Mounjaro? Especialistas definem quanto de proteína comer e recomendam musculação - G1",
-      "published": "2026-07-22T03:01:12+00:00",
-      "summary": "Usa Ozempic ou Mounjaro? Especialistas definem quanto de proteína comer e recomendam musculação&nbsp;&nbsp;G1Sem acompanhamento, perda de peso com canetas traz riscos físicos e psicológicos, dizem entidades europeias&nbsp;&nbsp;Folha de S.PauloCanetas emagrecedoras e herpes: o alerta que vem de uma nova análise com milhares de usuários&nbsp;&nbsp;VEJAEstudo aponta quantidade de proteína ideal para quem usa GLP-1&nbsp;&nbsp;MetrópolesQuando é hora de reduzir ou parar Ozempic e Mounjaro? Primeiro ",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOOEN3Mjh5eFpkNzBjQjRBT1RhamtMUWE3b2hvVVZoM2lTQVkxYTVlQVcybGFlQXBNVnV5b3prSGxreWFLcG0xT2JkVjFMVW0zQkFON2ZkenRpTmZxUmtTTkoydUtrWlczTS1qNWJnczhSRENyMzBXV0c4RzhSUlV4WFFJdnJ1bDkwdDFfZUhlYVZicm81Mm9sZ3JTSVlsaWJlc2hpbVVOSzAxanZnZzJCY3NRYzRVWXBTZTYyVGxkOVZUWU1PbnNHcDB2U2VMZFBZaVpHV3p5c0NNbFNQSkHSAewBQVVfeXFMT1NwanZERVZwRm9DdHIzOTdxaG9BOVBhTUNCVkRVQ0NEenFHUHg2d3NxUlRONnJldGFlS1VtRUJIbWRiR25IVDRYSW9LcVVYRjRQY3VvWVd0bkZ6TkpleXlEMXBibkEyV01CYXFOQmpBSFE3MHlrTW9EWXBtN0dtQnZnekcwaXZJYzU0MGNNQ19reTJCZDRvWmJCYk9WWjNHeVF4VG1BVWJvWTZVRk9CU3BJMkVQMmhZMlZOTDNsZ01UemdfUE80cHdlU0E0TUVVeW5pN1haOEtqTVQ3U2s3bG5hN0lVeE5ESXBhbDI?oc=5"
         }
       ]
     },
@@ -333,7 +405,7 @@
       "id": "6aabf486690f",
       "title": "SUS terá novo remédio para tratar a esclerose lateral amiotrófica (ELA) - UOL Notícias",
       "published": "2026-07-22T01:47:47+00:00",
-      "summary": "SUS terá novo remédio para tratar a esclerose lateral amiotrófica (ELA)&nbsp;&nbsp;UOL NotíciasSUS passa a oferecer edaravona para tratar ELA em fase inicial&nbsp;&nbsp;Folha de S.PauloELA: novo medicamento para estágio inicial da doença degenerativa chega ao SUS&nbsp;&nbsp;VEJASUS incorpora novo tratamento para pacientes com ELA em estágio inicial&nbsp;&nbsp;G1SUS terá novo remédio para tratar a esclerose lateral amiotrófica; veja como funciona&nbsp;&nbsp;Estadão",
+      "summary": "SUS terá novo remédio para tratar a esclerose lateral amiotrófica (ELA)&nbsp;&nbsp;UOL NotíciasSUS passa a oferecer edaravona para tratar ELA em fase inicial&nbsp;&nbsp;Folha de S.PauloELA: novo medicamento para estágio inicial da doença degenerativa chega ao SUS&nbsp;&nbsp;VEJASUS terá novo remédio para tratar a esclerose lateral amiotrófica; veja como funciona&nbsp;&nbsp;EstadãoSUS incorpora novo tratamento para pacientes com ELA em estágio inicial&nbsp;&nbsp;G1",
       "sources": [
         {
           "name": "UOL Notícias",
@@ -357,7 +429,7 @@
       "id": "6d28ad23d957",
       "title": "Julho Verde reforça prevenção e diagnóstico precoce do câncer de cabeça e pescoço — Ministério da Saúde - www.gov.br",
       "published": "2026-07-21T21:59:11+00:00",
-      "summary": "Julho Verde reforça prevenção e diagnóstico precoce do câncer de cabeça e pescoço — Ministério da Saúde&nbsp;&nbsp;www.gov.brJornal da USP no Ar Regional #424: Campanha Julho Verde orienta população sobre prevenção e diagnóstico precoce em Ribeirão Preto&nbsp;&nbsp;Jornal da USPJulho Verde alerta sobre câncer de cabeça e pescoço&nbsp;&nbsp;Valor EconômicoMutirão identifica 31 novos casos de câncer de cabeça e pescoço em Salvador&nbsp;&nbsp;Bahia Notícias\"Achei que era gripe\", diz homem com cânce",
+      "summary": "Julho Verde reforça prevenção e diagnóstico precoce do câncer de cabeça e pescoço — Ministério da Saúde&nbsp;&nbsp;www.gov.brOpinião | Câncer de cabeça e pescoço: conheça os fatores de risco e saiba como prevenir&nbsp;&nbsp;EstadãoJornal da USP no Ar Regional #424: Campanha Julho Verde orienta população sobre prevenção e diagnóstico precoce em Ribeirão Preto&nbsp;&nbsp;Jornal da USPJulho Verde alerta sobre câncer de cabeça e pescoço&nbsp;&nbsp;Valor EconômicoMutirão identifica 31 novos casos de ",
       "sources": [
         {
           "name": "www.gov.br",
@@ -366,38 +438,26 @@
       ]
     },
     {
-      "id": "5f0bbe66cfa2",
-      "title": "Novos dados mostram que a PrEP injetável tem quase 100% de eficácia - Metrópoles",
-      "published": "2026-07-21T20:38:00+00:00",
-      "summary": "Novos dados mostram que a PrEP injetável tem quase 100% de eficácia&nbsp;&nbsp;MetrópolesNovos dados mostram que injeção semestral para prevenir o HIV mantém eficácia perto de 100%&nbsp;&nbsp;G1Injeção semestral para prevenir o HIV mantém eficácia perto de 100%&nbsp;&nbsp;VEJAGilead e Merck divulgam resultados positivos de ensaio clínico de HIV na semana 48&nbsp;&nbsp;Investing.com Brasil - Finanças, Câmbio e InvestimentosAids 2026: Lenacapavir semestral e comprimido semanal colocam prevenção e ",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB4WVRQZWhzblF2WDBuYlF5Q2x6anM4RGU5MWtpNW5GOE1qMXYwUm0wWVZESGZUTE9HM0pSRUVwLVpIRFJ4a043RURsRUxBNGRqUWQ0Mm9qMVNocEloSU9ULVBRZUZzVjgzVzQtOUVVTWdiMmt5dzFoWUFTelM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "911e2dd31fbc",
-      "title": "Soltaram 500 tartarugas-gigantes no Saara e o que aconteceu depois deixou pesquisadores sem acreditar: imagens de satélite registraram uma transformação que ninguém esperava em uma das regiões mais áridas do planeta - CPG Click Petróleo e Gás",
-      "published": "2026-07-21T20:33:00+00:00",
-      "summary": "Soltaram 500 tartarugas-gigantes no Saara e o que aconteceu depois deixou pesquisadores sem acreditar: imagens de satélite registraram uma transformação que ninguém esperava em uma das regiões mais áridas do planeta&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNbVNRakVXaEx3TWotQXBXMUZKV3A0R0NCTXh6X0JTR05aeEFWS0Uwam9qTnpYUjh1SjBidHJLdkd4eldvMG9BNkw0U1FuS2Rram5OWGsyclF0M2tMVGFWa2VCSUZaY2pwMHVyX1ByVUxsQ2pvSkJPWWJmNHY0VkpsdFJXYjh3NnljOHZ2bC13Ml9Ic05FNklGbmRuS0R2c2dheFN4UG4yVjc4RDJIMTJ4YmpIV2xkcWlsMGFGNER3SE04bFhJVVp2R2cydFBNYVN0SEprN1ZBU0kxSFp6aVRQblBTbEJkQzlTRldQY1ZnQklWbXRaeEFhRm1WcXpzbWdfV2s3eWlMNEhNTnF1Rno5Mkh1ZU5TeWxHZEZNWTBkbl81MFBpT2lMbEozNFJBdTNqOWFEWmJLYVNRN2dxY0o0aTZsQXBjU2s?oc=5"
-        }
-      ]
-    },
-    {
       "id": "815b497f2b86",
       "title": "Anvisa aprova novo remédio para o tratamento de câncer de rim - CNN Brasil",
       "published": "2026-07-21T19:48:01+00:00",
-      "summary": "Anvisa aprova novo remédio para o tratamento de câncer de rim&nbsp;&nbsp;CNN BrasilCâncer de rim: Anvisa aprova nova terapia para reduzir risco de retorno da doença em pacientes de alto risco&nbsp;&nbsp;VEJAAnvisa aprova novas medicações para câncer renal e hemofilia&nbsp;&nbsp;Poder360Anvisa aprova Keytruda para tratamento complementar de câncer de rim&nbsp;&nbsp;Rádio ItatiaiaAnvisa amplia indicações de medicamentos para câncer renal e hemofilia&nbsp;&nbsp;Afya | Home",
+      "summary": "Anvisa aprova novo remédio para o tratamento de câncer de rim&nbsp;&nbsp;CNN BrasilCâncer de rim: Anvisa aprova nova terapia para reduzir risco de retorno da doença em pacientes de alto risco&nbsp;&nbsp;VEJAAnvisa aprova novas medicações para câncer renal e hemofilia&nbsp;&nbsp;Poder360Anvisa aprova Keytruda para tratamento complementar de câncer de rim&nbsp;&nbsp;Rádio ItatiaiaAnvisa aprova nova indicação terapeutica para Keytruda® (pembrolizumabe) e Hympavzi™ (marstacimabe)&nbsp;&nbsp;PFARMA.c",
       "sources": [
         {
           "name": "CNN Brasil",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ1VySnVFM3RXZG90NjlVaXNoTkhrcWJTN3Z3Tnd5QXRYTXpUU253ZG5TX1U4VUVlbnVJVjBKaHpqWEtaaUt3d1pkVDJtTWc3cDV0OEZsdndrREFobkptT0g1NS12Sl9CaWNPdklRVk45eFdIMjVvMmlTTzNncURwZ0lSWjRXUjdmcFBiclRhMWlyWTl4Um03WmdrNkF1QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1832fcde6735",
+      "title": "Sua menstruação mudou em julho? Médico explica teoria que tomou conta das redes sociais - Jornal Correio",
+      "published": "2026-07-21T19:37:51+00:00",
+      "summary": "Sua menstruação mudou em julho? Médico explica teoria que tomou conta das redes sociais&nbsp;&nbsp;Jornal Correio",
+      "sources": [
+        {
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZEVjVXdvMXh4MEVTZjY2U3JDUi14N25nVlNYS2duWDB2encxSGFXa0d6NlY4amg3OW0tRURteXhpdUFSUW8xY1hCTmUwS2lJVDI4NGxqdUxibUI2ZGdXbzBYTFJ5bFM5WnVaZnFZRFh3YnlKbnZuUmxhTmhIYkxfWkZDSjN3SVg5UWJJZy1CTlBHdTBWU05zLV9MdDdJdjBHZjd0MnZZVVVoLXhrd2Fnd19PdFhoRTJmNkZ0SU5rNmcyVjdfRnFad3lkUDdiQQ?oc=5"
         }
       ]
     },
@@ -414,38 +474,38 @@
       ]
     },
     {
-      "id": "f06b45d9521e",
-      "title": "Instituto Olga Magalhães oferece matrículas promocionais para o curso de Ciências Forenses, que une Necrópsia, Perícia Criminal e Investigação Forense, em Suzano - Hoje Diário",
-      "published": "2026-07-21T19:15:56+00:00",
-      "summary": "Instituto Olga Magalhães oferece matrículas promocionais para o curso de Ciências Forenses, que une Necrópsia, Perícia Criminal e Investigação Forense, em Suzano&nbsp;&nbsp;Hoje Diário",
-      "sources": [
-        {
-          "name": "Hoje Diário",
-          "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQeGQ2UWdDVWRaS3R5VUszZXJTUkd5aVJkU3N0MVR6cFJIclZPb01FYkdrNGdtNlpndGVmNFlmbWJpS043Ym5DRXVRam5RS0JiTTB1NjhwUWRPTWktZXpyUy1EQlExdnVpRGUwSnNkbkp3N0NSc3gtQlVkOVdOU0JiQ1l0enA0TzVWeWdZVnBDWkJOSWFTQUZRNWhmV2tUcFNsR3U2R0hDZDFNSmxZUHZMZkFDVjI0eEFPYTM2ZWRjelpHVld1UnkwTzdzamxIcEd3OWd6Q0NKRzB0VDZEMXB2bkdISGpfbUxfLWtaZEliWFFIN21naW1OWWVLc3lLenlKYklYRVYyRE5QUmZYdDlFVVEyNnQtVkJna3pjSkpR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7dcf7209885d",
-      "title": "Influencer Lito Sousa com câncer de próstata: entenda sinais e tratamento - A Gazeta",
-      "published": "2026-07-21T18:25:00+00:00",
-      "summary": "Influencer Lito Sousa com câncer de próstata: entenda sinais e tratamento&nbsp;&nbsp;A GazetaCaso de Lito Sousa: é possível descobrir câncer de próstata mesmo fazendo exames regularmente?&nbsp;&nbsp;G1Influencer Lito compartilha tratamento contra câncer: \"Propósito\"&nbsp;&nbsp;CNN BrasilCâncer de próstata, doença de Lito, pode ser silencioso: quais os sintomas?&nbsp;&nbsp;UOLQuem é Lito Sousa? Conheça o maior influenciador de aviação do Brasil que revelou diagnóstico de câncer&nbsp;&nbsp;Correio",
-      "sources": [
-        {
-          "name": "A Gazeta",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQk1jaU1lZjlUNW9ad2pGU3VpN3lieURHbjJvaTRRZm0xQjUyOTA1cGJMVm9pZy1uYXdaRHB4VW5MX1VBMzY5OG5IUm5ORUdONXo1VVhKZkRLb3pXWTE5SDFOZndrYlFfVm9ldDdZVjlTdVZOamZfZlkwSHMyanUxTWNTaFRGWm5lZFlnRFB4OVNyVWt5bVdYaGlsQVhCYTBtYlU0dzYtcVg4WmhGNFRoVU9TZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "add46a427c09",
       "title": "Fator de risco para demência: como prevenir a perda auditiva? - Portal Drauzio Varella",
       "published": "2026-07-21T18:07:09+00:00",
-      "summary": "Fator de risco para demência: como prevenir a perda auditiva?&nbsp;&nbsp;Portal Drauzio VarellaSeu cérebro envelhece como o coração: veja os hábitos que podem reduzir o risco de demência&nbsp;&nbsp;Jornal CorreioComo cuidar do cérebro para reduzir o risco de Alzheimer? Especialistas explicam hábitos que fazem a diferença&nbsp;&nbsp;G125 caminhos para fugir da demência&nbsp;&nbsp;Revista OesteNovas diretrizes da OMS: até 45% do risco de demência pode ser prevenido ou adiado&nbsp;&nbsp;Pan America",
+      "summary": "Fator de risco para demência: como prevenir a perda auditiva?&nbsp;&nbsp;Portal Drauzio VarellaSeu cérebro envelhece como o coração: veja os hábitos que podem reduzir o risco de demência&nbsp;&nbsp;Jornal CorreioComo cuidar do cérebro para reduzir o risco de Alzheimer? Especialistas explicam hábitos que fazem a diferença&nbsp;&nbsp;G125 caminhos para fugir da demência&nbsp;&nbsp;Revista OestePerda de audição pode começar antes dos 60 anos e comprometer a qualidade de vida na terceira idade&nbsp;",
       "sources": [
         {
           "name": "Portal Drauzio Varella",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOai1penhHZ0VwcTE1a0RveGZNOHJOUWZQSWlIdjlZT0JrV0dmLUw1VUI4ZTZkdmx5NHVKZ2JuZzViYkhDNFVUc0FLUzFyNjRqbXJkSmdudEp5SnpvYkJReDI0NG9SdTNQWFFVdnZURkdPdy10MnB1UG8ycFZzVTNYdmtKZTNKOUVjbFpROGc3aHFmT251REdqV2o1cGhublBFeW1GS2hEWWU0MkJkelMzZ3ZyNHZWZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3f68831cb6be",
+      "title": "Sorocaba amplia vacinação contra dengue e inclui pessoas entre 4 e 59 anos - G1",
+      "published": "2026-07-21T17:53:38+00:00",
+      "summary": "Sorocaba amplia vacinação contra dengue e inclui pessoas entre 4 e 59 anos&nbsp;&nbsp;G1Vacinação contra a dengue é ampliada para pessoas a partir de quatro anos em Presidente Prudente; confira&nbsp;&nbsp;G1Sorocaba amplia público para vacinação contra dengue – Agência de Notícias&nbsp;&nbsp;Prefeitura de SorocabaVacinação contra a dengue é ampliada para moradores de 4 a 59 anos em Sorocaba&nbsp;&nbsp;G1População de 4 a 59 anos começa a receber vacina contra a dengue em Sorocaba&nbsp;&nbsp;jorna",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWmVpUzJ6Vm5RMXRuTnhKaHVmMjY5bFpDZmNTUVphUHdGaEJQejdLZmhzMlhJWlNaNlp4eWxWNGJvVHFrNUstdnU1Qi1hUnRvbmg2bko5azFLLVZLbEtIZXJ6aGswa2dKYW1Genp1WGFrQ2JNbmtLRVAzdVgzcDNZYWRtSnFWMUppaWJCbHJLUmxIVGNYajN1R3Z3Y1VCWEJIMFloaEFpdGPSAbcBQVVfeXFMT3VYTlFBaW04eEN6ZGJBSklXdnZWeTlyazNMcUdHRFR6YlhPRkVUMU5jYnQ2aGdZOTZSbnk2ZG5jX3JOVHE4V1NBTkh1N3M1UTJtdGRLLS1MRm1sU2FnZS1xcDZZR09mMjNIMnp3YnBwV0QzdXZKZHZjbExFZTZ6WWNic3c2bEJUV0lIOTgxMFBXa0l2Yy10Z3hBVEpUUV9KQ3hHcFU2cVRLTE40RTZodU80cWpwT0JB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f75195f3927f",
+      "title": "Conheça o exame de sangue simples que pode detectar câncer de intestino antes dos sintomas - Jornal Correio",
+      "published": "2026-07-21T16:08:04+00:00",
+      "summary": "Conheça o exame de sangue simples que pode detectar câncer de intestino antes dos sintomas&nbsp;&nbsp;Jornal CorreioVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNajdGRTJDVEx6MTdRX3B0NVlreW5EN2hUYl8wcm93VkVKall0N2sxRjZxdmJIbjJHeW9Ed2pYblZUTWhDa1BrZUZ1bWhFQUNRUHRiVlBCVWdnZk9vcEh0dGRfeC1IRHdsa3JSdnZkd2NBMHFUM1hQTlNjVFBaZjFpNVhHYnAxVXBEZU5Sd195Q2FSVG1mcVFSVmpxX3Fscl9qcEhGVmM4RnM5RkhLcXFxcjZMM3F2cTZMLUdPVFVPN3VMekxONUJaTUMzYUFQamUxbXEw?oc=5"
         }
       ]
     },
@@ -462,14 +522,14 @@
       ]
     },
     {
-      "id": "5519cfe21748",
-      "title": "Estudo propõe elevar contribuição do MEI e idade mínima em reforma da Previdência - Portal Contabeis",
-      "published": "2026-07-21T14:30:02+00:00",
-      "summary": "Estudo propõe elevar contribuição do MEI e idade mínima em reforma da Previdência&nbsp;&nbsp;Portal Contabeis",
+      "id": "48ae45615338",
+      "title": "Novos dados mostram que injeção semestral para prevenir o HIV mantém eficácia perto de 100% - G1",
+      "published": "2026-07-21T14:00:11+00:00",
+      "summary": "Novos dados mostram que injeção semestral para prevenir o HIV mantém eficácia perto de 100%&nbsp;&nbsp;G1Injeção semestral para prevenir o HIV mantém eficácia perto de 100%&nbsp;&nbsp;VEJANovos dados mostram que a PrEP injetável tem quase 100% de eficácia&nbsp;&nbsp;MetrópolesGilead e Merck divulgam resultados positivos de ensaio clínico de HIV na semana 48&nbsp;&nbsp;Investing.com Brasil - Finanças, Câmbio e InvestimentosAids 2026: Lenacapavir semestral e comprimido semanal colocam prevenção e ",
       "sources": [
         {
-          "name": "Portal Contabeis",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNmNSVFpseURCUEhxdUlCMk1lemtKWFlVZWlOdVpwakFJLVVFV1NvZ2tKQmliZVlKNGc4QlhXOXZ2WWE1b2FvbUtjS0dCdGdLT0JWYzYzeDhxcGRuWkQ5S0dzZ3pPS1AxclZfazlUU1RXaE5kWDVMLVpSUmtwam00dUIxLWQtQUpEN09Eck1NNC1PYS1hYVl2R3psb0ptMzJ2aF9STV9OdU5OM01td05od3h2MXJPVlJWYy1idTBpVGczbVN6?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTGhjeHY1ODUxZTNpYW81b0dnWlM1OW5TVDZHbFFSdWMwUjJUTEpaSVE0TWJLU1d3MmZ5NVIwREIzVElzdkVLRDNvSnBXLURuSnc2dUxRS25hMjhwSTlfRWN2OTc3dHpJdkxXbFEwSmx6NWFycmRTWm5BSnZ5MjEwQTVITTdZUDc2RWlBQzhfUWxwd18xVnQ1SE1LRlpNdG92WVJjbFQ4aGxHUkhUdnpUc1YzU3BTaGVUamxkTENpVzB2dGJLT3E0WjZUdndCdFdYUllFclZCUUJrMlUyeXJJcHlQONIB8gFBVV95cUxONTZRaHJkR3FmTWFmMjJqNnNvRmRkRzI0Wm1aWmtqNHd3UzJiOVhzR3JGTjNOTTBMc1BKa1RvZURZMWNVRWV4UTBqV0hKQ0JEZmJmTzI0SF8zN0owQ19uUmxxMFlLX3dVdThpbVRqR3I1UVJRaV9fSGtXRFlyd3dCY3JlMjZndnlFZi1pUm9Xb3JmYlBBYXM5NndOc3JuUi1QNThoeFBzZzBrX2M0N3ZIOUdDT3RSQVZjc2pXNkJSSVc5bXlHaTc2R0MtanVkLTZaUTViSGdXdUQyekViRmVXLU92b2UxZFlLTkF0LWVlemdzUQ?oc=5"
         }
       ]
     },
@@ -477,23 +537,11 @@
       "id": "d6d7bd13788d",
       "title": "Células da mãe permanecem no cérebro dos filhos, sugere estudo - Metrópoles",
       "published": "2026-07-21T13:50:00+00:00",
-      "summary": "Células da mãe permanecem no cérebro dos filhos, sugere estudo&nbsp;&nbsp;MetrópolesCélulas da mãe podem permanecer no cérebro dos filhos por toda a vida, sugere estudo&nbsp;&nbsp;GloboCélulas da mãe podem permanecer no cérebro dos filhos por décadas&nbsp;&nbsp;diariodopara.com.brCélulas maternas podem permanecer no cérebro dos filhos até o fim da vida&nbsp;&nbsp;Aventuras na História",
+      "summary": "Células da mãe permanecem no cérebro dos filhos, sugere estudo&nbsp;&nbsp;Metrópoles",
       "sources": [
         {
           "name": "Metrópoles",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrUERLQXl0bV9VYnpEU3JaYlIyT0VFRDhCSU9JS21oTUpOWWFlVWtSX1NGalA4SG9CYWZhYWNMNGVEUjNlbUhLZE1VbURNcWFDdF9TNzUycENOYnNLdmNOYS1UMFpqX0J6YXVZajhaLTZlZXcybC1NdnBR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f472ea93d79a",
-      "title": "Sorocaba amplia público para vacinação contra dengue - Prefeitura de Sorocaba",
-      "published": "2026-07-21T13:41:00+00:00",
-      "summary": "Sorocaba amplia público para vacinação contra dengue&nbsp;&nbsp;Prefeitura de SorocabaSorocaba amplia vacinação contra dengue e inclui pessoas entre 4 e 59 anos&nbsp;&nbsp;G1Presidente Prudente amplia vacinação contra a dengue para pessoas de 4 a 59 anos&nbsp;&nbsp;G1População de 4 a 59 anos começa a receber vacina contra a dengue em Sorocaba&nbsp;&nbsp;jornalcruzeiro.com.brPrudente amplia vacinação contra a dengue para pessoas de 4 a 59 anos&nbsp;&nbsp;band.com.br",
-      "sources": [
-        {
-          "name": "Prefeitura de Sorocaba",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSGtoSWtnelRKanZKaHlXU2FrU2F0aG5QY1ZVWDFQUUJtSlFmc2ZEX3FPM21fTHZ2Nk1ld3BsTVpINVJhdjNGQUR2clJMQTN6Y3R5TDA5M0VvVnkxNXpkQ3FxT2c2bGxHdVdTdEFYS2l1MGx3bll3UE14SEZNSmdlTlp4SmgteE9tT0NOdUFXM053LWNwOHc?oc=5"
         }
       ]
     },
@@ -506,30 +554,6 @@
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUVdQclFfaVozc0dWQllkSzh2RjBFREtWLUJfMHFjcGhXSmdiNmwyQjRmcUYwQmlmUkljR3paVzFXN1gtclJJTXFlc1lPcWhFMTkxOFNkTHRBVzJiMU00eUthdDZfcVJZOU43WU1OaHFkXzMybjBnM2twYmp5LVJxa0JaekJRNHY3Ym9PV1FKVGxOaFRoVHBpVHpRQTBfaHBQTzdVcWVMellkRS0xc1BVUTdmWEVMeThpdjEzNUNCMGt5Z1NWR3gxalBQRXI5dzDSAd4BQVVfeXFMTU9tZDJITUV4STYtRkxVczJQendnOE9lUEZmcWw3a2VwcVVPQnJmWkJFWmFrdFM1WlNQYVRmLVptREZvaGZ5WVBfNXR2VEhHOWstdDBTMFJ0TXRnVjVpaThBa1Z1ZU9pbHNBamhRcDdTS1JGQmhTcEVhVEY5NlIyZDhvSWdQSFkxRm9mTWNLMlluQ1JJME94MHMzbnlkRkFHcGRrRWp2SXJTX1dkN2dhQzQ5eE52aVFkVE5qRnVKZmpnNUlSeXJrenRjRThSeUpQN1AzNjRPcTBjZWpNYW5R?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "503664c9a887",
-      "title": "'Flacidez e queda de cabelo indicam que algo está errado no emagrecimento' - UOL",
-      "published": "2026-07-21T12:35:00+00:00",
-      "summary": "'Flacidez e queda de cabelo indicam que algo está errado no emagrecimento'&nbsp;&nbsp;UOLCanetas emagrecedoras: queda de cabelo leva mulheres ao megahair; entenda&nbsp;&nbsp;O GLOBOComo canetas emagrecedoras impactam na pele e cabelos&nbsp;&nbsp;Tribuna OnlineCaneta emagrecedora pode comprometer a saúde dos fios?&nbsp;&nbsp;iG DelasCanetas emagrecedoras e queda de cabelo: por que isso acontece e o que realmente pode ajudar?&nbsp;&nbsp;Terra",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbjJzOGpPZjVadVVnZDg4SnVlVmNmZHJjS0NQeGxhQ0VrNnVxNWl4RERlSkpiT3NDQk9NUWJqWXluSkFLem5hOXJMdEU1d2xzS2dGQ1pBUFpHZmpsdjExNDhCUDlIZjlnd2Z1RHR3bmc5RVpBaHR5WHRqRG1KN0t0Z240aXJ0R0d4Tk05eEhROEVKeDVsOEllZ3RwcEg5YU1GNF9GeE9GVklXLWlPbW9Ka29VamhMR3ZHcFVyRVA3T2lPemx1V3diTDV2b1k?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "64bfef053c5e",
-      "title": "Salários da ciência na Argentina perderam até 40% do poder de compra sob Milei, aponta estudo - Brasil 247",
-      "published": "2026-07-21T12:27:00+00:00",
-      "summary": "Salários da ciência na Argentina perderam até 40% do poder de compra sob Milei, aponta estudo&nbsp;&nbsp;Brasil 247",
-      "sources": [
-        {
-          "name": "Brasil 247",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWFRvWGs4UVF6TXV2YXQ0aFBpaFVuWllUbmhRdjZwSDJNVFNEVXAzM05GVGpHRm55VE8zanp3eHZwRENhc2lxN21sTXBtUmtoZ09ZeXk0di1Ldm9TYlZ3ZnplU25FSFpFaWpoYXozUlRZSEhpNWJDNDNubjdYN0FhbUZvN3dDVm9HRmVQaWZueDA1WEgxdlRlUnFQNmUyUkticFozMERhVnRiN0JNZ3puck9Qb2FxY1E4bW9kNlJwWWR3eDNadFJWdw?oc=5"
         }
       ]
     },
@@ -561,7 +585,7 @@
       "id": "c9b3a85411c9",
       "title": "Supino com cabo de vassoura e agachamento na pia: personal de Itatiba cria metodologia para idosos recuperarem equilíbrio e autonomia - G1",
       "published": "2026-07-21T10:36:51+00:00",
-      "summary": "Supino com cabo de vassoura e agachamento na pia: personal de Itatiba cria metodologia para idosos recuperarem equilíbrio e autonomia&nbsp;&nbsp;G1Força muscular: entenda a importância dela para a saúde dos idosos&nbsp;&nbsp;CartaCapitalO poder do exercício no envelhecimento saudável&nbsp;&nbsp;TerraDepois dos 50, caminhar continua fazendo bem, mas um treino específico se torna decisivo para preservar força e autonomia&nbsp;&nbsp;O POVOEspecialistas derrubam mito sobre exercícios após os 60 anos",
+      "summary": "Supino com cabo de vassoura e agachamento na pia: personal de Itatiba cria metodologia para idosos recuperarem equilíbrio e autonomia&nbsp;&nbsp;G1Força muscular: entenda a importância dela para a saúde dos idosos&nbsp;&nbsp;CartaCapitalO poder do exercício no envelhecimento saudável&nbsp;&nbsp;TerraEm vez de treino com máquinas: 4 exercícios ideais para ganhar massa muscular após os 60 anos&nbsp;&nbsp;MidiamaxCada 7 kg a mais no aperto de mão reduziu em 12% o risco de morte em mulheres acima do",
       "sources": [
         {
           "name": "G1",
@@ -570,26 +594,26 @@
       ]
     },
     {
-      "id": "ed330a6d4c3d",
-      "title": "Cientistas procuraram no cérebro e nos olhos, mas encontraram no fígado dos pombos o surpreendente mecanismo que pode explicar como essas aves voltam para casa mesmo quando o Sol desaparece - CPG Click Petróleo e Gás",
-      "published": "2026-07-21T07:00:00+00:00",
-      "summary": "Cientistas procuraram no cérebro e nos olhos, mas encontraram no fígado dos pombos o surpreendente mecanismo que pode explicar como essas aves voltam para casa mesmo quando o Sol desaparece&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "id": "c788526ee5a8",
+      "title": "Assistir muita TV pode afetar estruturas cerebrais, aponta estudo - O GLOBO",
+      "published": "2026-07-21T07:30:33+00:00",
+      "summary": "Assistir muita TV pode afetar estruturas cerebrais, aponta estudo&nbsp;&nbsp;O GLOBO",
       "sources": [
         {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWS04RXZkV0tjb0hqQWdHRFFQR2RXUFJvRzlsdDBRR3lLck10TlZHUF9FNzFoWDl4RHlxemVBUndYb0hDMWI0dFo0eV9kLUQ1cjc3VE90N2k5NWY4ZlhfTE9IU0szcmtiRFlfNGxndGFSUWFRU0JrMjU0Tk5QWU1VOTZhd09xZVJfTE5tTjV6WkRRTmVjT2YxWWhkbw?oc=5"
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMVN2c1gzYV9kNmtDVGlaR2NfanhWdk55NWpYNEctTkt5NU5BMDNMR0F4cndCd0VKbElsU0JYS2hFM2RIUkNETk9HdmNIanJMTDNiUWVQMmVDTHJLbzdwcjR4SUd5ZTBqTUl0M3JqV2d4RGJXbFc0NW9xM1VCbUpQdHNWb3M5TmVhRHprMnozOVFfanNFVG5MWVNTbUlLTWFUTWxYX3dBSG41c19OT3h0bWdEeGJkTlZIU25ZddIBywFBVV95cUxPNklqYkp3c2NJUGZWb1FoOUNneF91SjZLckIweGc2bE8zYTBId2RxOFVxYUhTOFV1empIa2xiWjRqamRRYWVPQkRBaFNReXY5TDAwTlRuMUZKMVRmS3lERlZfMHJUOG5SQ2d5el9RbjBjQlNKbGhZR3ZoaGN1VGFJV3lueklDdkRjMWhFaXFFNEctcXdyYTJxVmRhSUszMmZhRDI2QTUtZzRZeVQ0NWJjNWhCcTNyaG1XNnJYbldKOWpTMTcxTjJOQ0lncw?oc=5"
         }
       ]
     },
     {
-      "id": "1a0467138b2c",
-      "title": "Medicamento ou cirurgia? Os novos caminhos para tratar o crescimento da próstata - R7",
-      "published": "2026-07-21T05:00:01+00:00",
-      "summary": "Medicamento ou cirurgia? Os novos caminhos para tratar o crescimento da próstata&nbsp;&nbsp;R7Homens após os 50 ignoram este sinal noturno&nbsp;&nbsp;Estado de MinasEnvelhecimento torna mais complexo o tratamento da próstata aumentada&nbsp;&nbsp;A Crítica",
+      "id": "8b07aa041600",
+      "title": "Cientistas modificam bactérias para combater câncer - G1",
+      "published": "2026-07-21T07:01:53+00:00",
+      "summary": "Cientistas modificam bactérias para combater câncer&nbsp;&nbsp;G1Cientistas alteram bactéria para atacar tumores&nbsp;&nbsp;O AntagonistaBactéria de sapo se mostra promissora contra o câncer&nbsp;&nbsp;The Portugal NewsCientistas modificam bactéria para criar nova estratégia no combate ao câncer&nbsp;&nbsp;Jornal GGNUma descoberta com bactéria abre caminho para novas pesquisas contra o câncer&nbsp;&nbsp;Tribuna de Minas",
       "sources": [
         {
-          "name": "R7",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbmU0TFloSVAwOHFFcnBTOF9FWUpQWWZTeTduTE5aWnluZkI1dm1UNGRXX240WFZfRk5pdmZzeVMwX0g3bzZ4dUs3MzJsdVJ2Unl1Vy1yQjFQTjJnZzdQdktCNjEyT2JZdGRqM1JzSjlmSTJ5OWY2MTlmTldmS29ERS0tNFVlQURQSEozRWhNeTlEMW5ldlBuekEwcjFZTllQZ2ZicDltd0UtOUdrVWZBQ2RnUUhrVzFUUWxULXBybWZyOFYtY0VncWVyeW5GczBMUEROSHUxSUE?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUmRoUXZGVEUybXJvNWV3cy1MYlFyR1lLLU5QOVBjLUctMDA4RS11V04zN1hvb2RncV9La2Vub3kyUVVqNFljVkhPSXJZLU1kbERiZEZoMmg4dnR2aFV0a3hMV1dnMV9fMmMxdHNCQWxpUHFJM2RGSnhoMEZyb3l6elV5LU9vSFp2X2JvdGRpT18tQkpvRmlQa003MVRvTU8xZTEzT1hn?oc=5"
         }
       ]
     },
@@ -602,18 +626,6 @@
         {
           "name": "Jornal Correio",
           "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQTHNJUnFQdzliaHUxaUFTUmhSNm4xelZ0b3lfaHRVZVlta2dOOWxXWWhiejR5ekVXcERvczhWNl9wRzZpWWFLTVMwTWM4Q0pRdzU2OXNoM3RIc3BkOWQ3dTNuTGdDVExndlpkNmc2Q0pmZl9YNjJyWGtRZV83bDNreF82dElJR2JLdU9aN2NqeE52VzRFS0JVdHZiaFJqelQ0X1hJWFY4bWhveFVxMU5seUx5V1FqNXktay1BNi0yNGg5dkt4OWpWenl1TlZYLXgwNnVzcmxoWnplSVVvUXFQamROQUlHeVpKaGZJQ2dyYm1Gdi11N2VjaVJGeGtLWHVLUWlZLTJxdUFsQUVRT25zMUdvWVBXYnBZQjl0ZDNkb2dodGFwVlhhRFZIVDl6ZktuSzhGM1NjSTdpeGU0Z0VsZU9GQ0k3UQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "415ca1971b37",
-      "title": "Veja os 9 alimentos mais indicados por especialistas para cuidar da saúde dos rins - ICL Notícias",
-      "published": "2026-07-20T23:21:58+00:00",
-      "summary": "Veja os 9 alimentos mais indicados por especialistas para cuidar da saúde dos rins&nbsp;&nbsp;ICL NotíciasDois maiores inimigos dos rins são conhecidos e terceiro vem crescendo&nbsp;&nbsp;CNN BrasilEvento aprimora busca de diagnóstico&nbsp;&nbsp;Diário da RegiãoDescubra três fatores de alerta que aumentam risco de doença renal crônica silenciosa&nbsp;&nbsp;Rádio ItatiaiaInsuficiência renal crônica: entenda por que a doença afeta principalmente os idosos&nbsp;&nbsp;CartaCapital",
-      "sources": [
-        {
-          "name": "ICL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pZDJTOGI5aGVrMWVidHotbTFhOFdSUm5GcjZVTTIxYlE5dUpwSzRIaG1Qd0pySVpwR2ptajhXNTQ1cGZxbEUyV1piWkRUaVFHTlg1V0lZNmZyb2VtQ1h2elFRQms4TWluTFMzSTlydw?oc=5"
         }
       ]
     }
