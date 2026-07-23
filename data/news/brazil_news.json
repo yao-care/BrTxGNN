@@ -1,15 +1,123 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-07-23T08:32:48.602930+00:00",
+  "fetched_at": "2026-07-23T14:04:15.605820+00:00",
   "total_fetched": 104,
-  "unique_count": 103,
-  "health_related_count": 46,
+  "unique_count": 104,
+  "health_related_count": 49,
   "news": [
+    {
+      "id": "a18c269ee287",
+      "title": "Câncer em jovens pode ter relação com envelhecimento biológico acelerado - Diário do Centro do Mundo",
+      "published": "2026-07-23T13:16:46+00:00",
+      "summary": "Câncer em jovens pode ter relação com envelhecimento biológico acelerado&nbsp;&nbsp;Diário do Centro do Mundo",
+      "sources": [
+        {
+          "name": "Diário do Centro do Mundo",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTk1rNFZWN2QtQ1JoZmQtanJ6blRVUWV0VHZOcGdUNllIVF9qTW5IYTFKSi02QnlwTkFNY0F0eWJRT2JoX3Bnc1BJN01TdW5JNkR3Z0NzWTFBUGg0R2pGR09fNGVKQUt1TlItN28zYUxwX1VOS2lrS3hhdWZUQVhXM3Z4M3Q0Y2ZFaUJIVzhCTDNfNUxQS2FNcTZZVTBXQm0xRVA1SmFqeXF6MlZ1eWRjeDEwZERMR05SZzZiZWw0TWpRQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "813d9327cb79",
+      "title": "Com câncer, Lito Sousa é diagnosticado com inflamação no sistema nervoso - CNN Brasil",
+      "published": "2026-07-23T11:20:32+00:00",
+      "summary": "Com câncer, Lito Sousa é diagnosticado com inflamação no sistema nervoso&nbsp;&nbsp;CNN BrasilInflamação no sistema nervoso e câncer de próstata: entenda o quadro do influenciador Lito Sousa, internado em SP&nbsp;&nbsp;O GLOBOInfluencer Lito Sousa com câncer de próstata: entenda sinais e tratamento&nbsp;&nbsp;A GazetaDados mostram diagnósticos avançados de câncer de próstata antes dos 50 anos&nbsp;&nbsp;Conexão TocantinsLito Sousa: Entenda inflamação no sistema nervoso central do influenciador&n",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcDlMZGRIZHFvS0xWQ2pYWXp6T2RCWVRhYl95N0RuU182b1N1akRJcWJwWHZqdDUyTHFHb0NIVk9EN1NpM2hfZjQ2blpmamJRYUFkUE8xZGtSajNqOEdncjR4aUxZSzQxMW5UcWx3S1dDUFlQRDh5ZGJkYWFDWC16bXFfQ19UNmV3SHQwUlF3WlNMcVR2OTZsMnRfWFc2MkRFZmRCMlpEeU5QVkdVdnVDZ01ZVnlnRXJ0TlE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a60fb77afdba",
+      "title": "Como manter o cérebro saudável ao envelhecer? Estudo traz respostas - CNN Brasil",
+      "published": "2026-07-23T10:00:49+00:00",
+      "summary": "Como manter o cérebro saudável ao envelhecer? Estudo traz respostas&nbsp;&nbsp;CNN BrasilEm análise: Dia Mundial do Cérebro&nbsp;&nbsp;R7Dia Mundial do Cérebro: seis experiências que ativam o sistema de recompensa e dão sensação de prazer&nbsp;&nbsp;Folha de S.PauloO papel da estimulação cognitiva diante dos desafios do envelhecimento&nbsp;&nbsp;VEJADia Mundial do Cérebro: saiba como exercitar a memória e manter a mente ativa&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWVMzazU0a09iVHNVVVVxVEJEYjFEcGNEYjBUeHpnSkp6Q2RmMzNtX2tPNVN0UldsU2pzVEVBZ1VBYzN5RkJ0bExUVW5USFhPR3BVRGlyQlZMd1VTY3UtVHVJZDVZSXc1UUJYUDBaSXdZT3NoVzR0Umh1MDVVUktsSHlZNTZCcmdpNmVkUzU3RHlCWTlNWk40UV9mcWt0ZDViaWRTeQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bbfe6a904e9f",
+      "title": "Teste de urina para prever risco de Alzheimer é confiável? Neurologistas explicam - Estadão",
+      "published": "2026-07-23T08:30:00+00:00",
+      "summary": "Teste de urina para prever risco de Alzheimer é confiável? Neurologistas explicam&nbsp;&nbsp;Estadão",
+      "sources": [
+        {
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNN0ozUHFzeDVpTE1td29mZFJlM19oUnduX0NCUXBCYVBQWGtWbmVVRzYtVWk1XzhsejRnRTIzN25XajBHcThjV1ZLdDNsT0FTLW1URkl5azdXejRDMllEclpwRU5CUFVPR2puSGptQTdYMXpNUVdRNDZFblEwRWZZMTFYMDBiQTE0VmxUT3ctRllHemV0U21kbUZYaWRzYjdwbm9VTVFIWm90cXBBSC1iTnNQUnlneF9pMHZLb0ZUUFJ4eHg2dVl2MDZ30gHPAUFVX3lxTFBBVFdGSDBHOXFlYTdfaUNLZWkxaU5hTEc0UE0yT0F0OWFZNEhTQjVkeFZCSGdXXzVzMU5OYjRSdUFZWTJjOVlnSHl3Yk5QRzB4VVd0MXZxaS01azZhVEttV0xFLW9LeUtVbklUMk55MFlBWnM3eGx3OXJqNi04eFlBcXBCQ29fNzhzVkxjZGw0MzIwdUhBWkdqMXRRczdqUmVfQjNkQ01fdG9kYzdNUkMtVm9mMjY2dlVSQlhtTVUtakFzNjRuR0I1YzJDVmV4TQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "074dccbc91dc",
+      "title": "Combinação de remédios para câncer na bexiga pode reduzir em 60% a volta do tumor, diz estudo - Terra",
+      "published": "2026-07-23T07:58:00+00:00",
+      "summary": "Combinação de remédios para câncer na bexiga pode reduzir em 60% a volta do tumor, diz estudo&nbsp;&nbsp;Terra",
+      "sources": [
+        {
+          "name": "Terra",
+          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxONldjdUtLTVhRVWlCS2syOUlVckhWeDVaTEo0QmtBR2I4cVp5RTNQWDkzUEtOVmVfbkU4UHFSLXVPLXRqSk5yblloRGkxVkhzWVFBTUdWb0prd3g0Y3NNQXI5N0gtd3lOSjVha1NvUlNyM3pxMmNJeGxvcVBaZU5NYkQyUzBlRkdGU29ZVmV6bnZXMmxpcDR6ZVNzeERXSy1vdDZGck9XeHZQd0s1RDdxRUV6amNxSGU1RmJuMzF4bVIyM2VHSk9tWjJINmkyZUdpal9BUjdjVnlEZDVYZlRQVUtFNHMtcFRTcTZEUnJYVlNHckE1dklidzVkTmpPclFTTzJVYkprSzB1aF9BNkRr?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "20cdc8915f3c",
+      "title": "Estudo revela como a gravidez muda o cérebro para viver a maternidade e criar vínculo com o bebê - O GLOBO",
+      "published": "2026-07-23T07:00:45+00:00",
+      "summary": "Estudo revela como a gravidez muda o cérebro para viver a maternidade e criar vínculo com o bebê&nbsp;&nbsp;O GLOBOComo cérebro dos homens se transforma nas primeiras semanas de paternidade&nbsp;&nbsp;UOLO cérebro não reage da mesma forma em todas as gestações, e a segunda pode deixar mudanças diferentes&nbsp;&nbsp;O POVOEstudo mostra como a gravidez muda o cérebro para criar vínculo com bebê&nbsp;&nbsp;Diário do Centro do MundoA psicologia revela que a mãe que ainda corta a fruta em pedacinhos ",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZ2M1a3phRS1oNldUU1k2OW1TVGplRWRySGJwQ2ZjR1c0aElBRUVNLWZQRS11V0p1SzQ0dWhGLVJRV3VYQTRaaS12OENZX1pZZ1VfV1BmUVRSOGFkVXpZblg2VnE1Wk9TNmIyMTZLWmtMSW52VERlRUhGNkRoeVFOMlR1bVNFbE1PN1hWaUNKTE5RcU11WGV1LVM3ckJ0cFVGQThtTWgwa2czdEk4Nm1nVUFvNUU1aFp4b1RKS3FwNWFha2ZMNnZiaVV3TU8xUThYZ3REUFprRGU1dGE0U19WMW5aNlJ1QzTSAfYBQVVfeXFMT1BPNlFnbWFyb095cHVScGhnMXNWamEtNEpjZUdlYkxxNVNXTGdPeUFhMEZMS1gtUmZhVWlrZk9KRmExeTFhVzlJMlE4WUJwZks3TnV3MzB5RzRweGI1cDY3RVU3eGFJZFZhRFVPSkgxdnBoTzJjaEpaNnpxZTU2XzRhOXFldmRNQ3d2M0VsTlFZZUozNDhmeWdtRHhkaWRCTlBZS201SURsY0UyM05WaWtlQ1JXckhmVTItXzNEN1oxM3FZY2RpRHA0a1BDSXlKeDFtZnZtX2hQbjA0R2NGZW5Vc2NVTGFPcDlFOWk4MjRRN29HOEdR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a12fa6608c22",
+      "title": "Como pesquisadores encontraram fóssil de serpente ancestral em SP - CNN Brasil",
+      "published": "2026-07-23T06:44:36+00:00",
+      "summary": "Como pesquisadores encontraram fóssil de serpente ancestral em SP&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaXJBUjVYbmI2WGVNQ0VlYm5oYm5FaVN4QmtXUWpETGk2RW04T25pUXRYREpTclJIbHpsMXRFR2FFYmNnSXVCbUlFaE5FOHhVRkwxVDQ3TXI5eFhYVTFjc21ydjNfV25DRUVJMmRhaGxQYWRWV2hmWGlRX0hsV3d4NGR5MW5KM0x0UjFFQmlQVzRVUjRpRG5jRmtrSTAyYWplcEx2SnpB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "61e0e7ddcbcf",
+      "title": "Congestionamento espacial de 18 mil satélites aumenta risco de colisões - CNN Brasil",
+      "published": "2026-07-23T06:33:26+00:00",
+      "summary": "Congestionamento espacial de 18 mil satélites aumenta risco de colisões&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZENWSGlmajZ1MWRvZ2FuTXAtcjZUdm1FLTRybDFCS0lXSGt4TTlIWnhpWmFQWlgxVkhKYU9ldktFRkVyNFRERFlSeEJtVXAxT09KbUVsTk9tWnJmVFJRTlVwa0JJZHpJR2lvbGRfY0xnQ0NlSTR6RkF2T3RtNzdVUmdwUl8yWlRSR3VySENSWm9QUjVVclVxVFdSUEFqLWVPVFczNDRpdll6X3JwTGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "34590df10d6c",
+      "title": "Cientistas registram pela primeira vez o nascimento de um trecho do fundo do oceano em tempo real - G1",
+      "published": "2026-07-23T06:00:09+00:00",
+      "summary": "Cientistas registram pela primeira vez o nascimento de um trecho do fundo do oceano em tempo real&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVV90alhBa2kxY3NCNjN4MFh6Y3YwV3E3Um9GQlZMZTlZYVhKU0FPQ21JUHZfb29iT1ZydWVQMEctdy1JalhmZWhzQTdmd0k2aTM4bFBpRXpIOHlPaGczV3Rxa0lyemlKTTZGdTFYeERWdXpnTnlfVW9nZmhvb285eGFUMjEyaF9nLVpEWTUyVjYyY0xPYXdtZjl1ZVppQVpTd01WdXFxVkhhRkJtcnV4SVgyS0t2QTRKcGVzV2c2ejM0ZTlwS0cyejZBU1phVnhMaXZMckptQktZRUhFZTZLZ2YwbW9vMmEzNUZWNUNR0gH8AUFVX3lxTE9iV2xPYVNPdmdUS0QtZ29qSjJSazJZNWtDdzNsNEt4RW55OTI3NHBEMXVkdHFDRU1QelFKa19OOTNuaUV0TkF3TTFVaHZqWWg2ZkdUdzZ1TzFwYzBJV0FYcTZTMGU1b1o5OWs2dXEwQ3Z1QzhQTl84bXJMeE5XU0Q4NlhGT0RBcjd0NmxCLWF5OGUzMkdZWTdpSUhROHNqUUJrUG92VlMyQzM4blVQZ3pzMHNXbmNDbjhVSXBuS0dlOV9ULUtlY3BqUy1JQjRVRUtYdk1Xel9ORnNncWo2NHlzTjktRzI0OXdKTk1SX2tYbDg2U2ZCUFBXdzVUcw?oc=5"
+        }
+      ]
+    },
     {
       "id": "7e6aef113895",
       "title": "Por que mais jovens estão tendo câncer? Estudo aponta envelhecimento acelerado do organismo como possível explicação - G1",
       "published": "2026-07-23T05:00:08+00:00",
-      "summary": "Por que mais jovens estão tendo câncer? Estudo aponta envelhecimento acelerado do organismo como possível explicação&nbsp;&nbsp;G1Jovens de 20 a 39 anos estão mais expostos a ter câncer do que idosos&nbsp;&nbsp;MetrópolesCâncer antes dos 50 pode ter ligação com envelhecimento molecular acelerado, diz estudo&nbsp;&nbsp;Diário do Centro do Mundo\"Câncer em pessoas jovens: estamos diante de uma nova realidade?\", por Doutor Jorge Abissamra Filho&nbsp;&nbsp;Hoje DiárioJovens estão envelhecendo mais rá",
+      "summary": "Por que mais jovens estão tendo câncer? Estudo aponta envelhecimento acelerado do organismo como possível explicação&nbsp;&nbsp;G1Jovens de 20 a 39 anos estão mais expostos a ter câncer do que idosos&nbsp;&nbsp;MetrópolesCâncer em jovens pode ter relação com envelhecimento biológico acelerado&nbsp;&nbsp;Diário do Centro do MundoNovas gerações podem estar envelhecendo mais rápido em nível molecular, provocando cânceres precoces, diz estudo&nbsp;&nbsp;Mais GoiásPor que mais jovens estão tendo cânc",
       "sources": [
         {
           "name": "G1",
@@ -30,14 +138,14 @@
       ]
     },
     {
-      "id": "fb237b57c0e7",
-      "title": "Lito Sousa segue internado em SP após diagnóstico de inflamação no sistema nervoso central - Terra",
-      "published": "2026-07-22T23:20:00+00:00",
-      "summary": "Lito Sousa segue internado em SP após diagnóstico de inflamação no sistema nervoso central&nbsp;&nbsp;TerraInternado, Lito Sousa recebe diagnóstico de inflamação do sistema nervoso central; tratamento de câncer de próstata continua&nbsp;&nbsp;G1Lito Sousa é diagnosticado com inflamação do sistema nervoso central&nbsp;&nbsp;UOLInfluencer Lito Sousa com câncer de próstata: entenda sinais e tratamento&nbsp;&nbsp;A GazetaLito Sousa fará cirurgia por câncer de próstata; saiba sintomas e tratamento&nb",
+      "id": "b907916623f7",
+      "title": "O Pacífico esquentou e os tubarões perceberam primeiro: El Niño pode levar mais tubarões-brancos às praias da Califórnia, antecipar a chegada de filhotes e criar um verão diferente entre julho e setembro de 2026, mas pesquisadores que monitoram a esp - CPG Click Petróleo e Gás",
+      "published": "2026-07-22T23:18:00+00:00",
+      "summary": "O Pacífico esquentou e os tubarões perceberam primeiro: El Niño pode levar mais tubarões-brancos às praias da Califórnia, antecipar a chegada de filhotes e criar um verão diferente entre julho e setembro de 2026, mas pesquisadores que monitoram a esp&nbsp;&nbsp;CPG Click Petróleo e Gás",
       "sources": [
         {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNcEJaU0xFRkpKbExDeWptY3lhanJ0RDA2U0dpVVJqdDUtSWZ2UFBIOEdNNzlKX1RDYjc2amZlclUxUGxydWFNcm44RnRrRTlNVlE5WjRSWERRQ2ZpNmthLThoQVlKNC1NSFE1ZG4wNU5KV0pwYnZGeXNIeWRRODdBeV9mWm1HV2pRQkdEYWhlVkhscy1VZGtLdnRSV2l4bTRzSlVkTlRzRUNZbE50X19zMTE0MGFUUFAxY1lnYXF2Z0JQemJyNThJN3NCcFk3cUZiSlZLNWFRZDREZWh4b0xCTjVJWmhjaklZWW9BUU5zRF9adzIwOVZ5Y3JDWkFLSEV1V3VYQk5EQ0Q?oc=5"
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY00wQ09fck5hT0dJVXFOd2t4V3RrLWdHLUdRNzdmeTNJVG1tbTVrZTgtMXFRM2lyS09YaXZfTmV1Q1VreHI4Y1NPYVduNlJybUItR2Jhd3k3anc2M01BS0pxa2JMdUtkdnVhZWRhLThKbWtPTVduWTNnbjVRZzE2NDV5RE9RRUZL?oc=5"
         }
       ]
     },
@@ -74,6 +182,18 @@
         {
           "name": "Portal Drauzio Varella",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNay1PeXVMLUtnNnFrZ2NCSXgzS1laWnlXR2RFUWI2X0NuUXVXMUVLMjNIU1dMM0xScVlxdzd0UENnc1lBUkxTdXlzZ210b05Nak9GM21XeDlQRkdnU3VYbEZwc25RVi1kQl9yLTR2cTd5QTRjSXduNy1FMHJDeDJQMDRYMk1MVFNjb3FmM2hTNTFKYjFUcmozVDNZM1dLM2EtUGpSWm9oR2l3SWo1ajVGcW40VkRHVHJJbFdj?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0d895587830d",
+      "title": "Libido em queda nem sempre é falta de testosterona; veja o que pode estar por trás do problema - Jornal Correio",
+      "published": "2026-07-22T18:38:34+00:00",
+      "summary": "Libido em queda nem sempre é falta de testosterona; veja o que pode estar por trás do problema&nbsp;&nbsp;Jornal CorreioConfira os cinco sintomas ocultos da baixa testosterona&nbsp;&nbsp;Valor EconômicoEstresse e obesidade aceleram queda de testosterona em homens antes dos 40&nbsp;&nbsp;Estado de MinasTestosterona masculina caiu 54% em 50 anos, aponta estudo; veja os riscos&nbsp;&nbsp;InfoMoneyTestosterona: qual nível é ideal e o que ela realmente faz&nbsp;&nbsp;Diário do Centro do Mundo",
+      "sources": [
+        {
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeEJWTXptMF9oaDlKUmRtdDIwbmxqZy1Ha0hfTThqcWlYaGlqallKYmE4el9jVG9aeGNVVjhYQmoycUZmMUZNV2t2OVY5ekZPVXVLMUVXeW5GU2YtUjFRanlLT01sbURQQ0xjd002ekZ3YkZHOUJTck04Y3IybzlWVVBGNlBCNVM3SExMVGJmOXJWamhMWTU2T3Q1c3J2ODAxS0I5UTFjN0VMU3g0RXhNYkxrYlk3eWF1MVlxdVRNZGxUcUM4SlVpc29ma3hzQkM3bWpYZg?oc=5"
         }
       ]
     },
@@ -174,14 +294,14 @@
       ]
     },
     {
-      "id": "fee311af59c9",
+      "id": "e8212ad152d0",
       "title": "Idosa com Alzheimer recebe ajuda de neurologista após ficar sem consulta em Uberaba - JM Online",
       "published": "2026-07-22T13:47:00+00:00",
       "summary": "Idosa com Alzheimer recebe ajuda de neurologista após ficar sem consulta em Uberaba&nbsp;&nbsp;JM Online",
       "sources": [
         {
           "name": "JM Online",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMUh4eEk3dVc0U2doT2NmdzRyTFVVVk1xaDc4MkxvMUppZTE1WldDV1dpTFptSkNPZzFVTHVSSUZRMmVLLWtDcHZWTjdLQlBhTjdqeUFKU1pFZFM1S0ZtemREWng2Yms3dE9RTTVBSi1ydERvV3JXSlJVVkY4WjlxY3BMNVNlS1k0d1JEWkRSZXRvZDNnS3RaVXRZRDF0cHZvbDFBUGpPODNuLW5JakQ1NXFyZlh5SWgyTW9VRnBSVzXSAdcCQVVfeXFMUHRqVlZzS3NhV29Xdm1DdjVhb1NHX3JBaVRKTUtyM2FpazRKSGUzQWloZ05weGpJY25IR0drRGx3aTNpdEV6X20zUGpZc1JTV19IT0NxS0dRVXpETEFhbDVhYmluY0k3UG83ektOQ2lMWG1LMEZOaEMybFFUaVV6dkQ3Z1NXOUFId3pzOE92cXVkV0x1VC1WSmd1bHlONE02MUxiMlhBR1dIUER6X0VvdU9pcDVUaTRfMW02Y3hXaEsxVUtqTVhDV1o5cWpGa04wemE0TWhmbHFlbjFLNU5fTGxFVlBmdGtwQkcySTFqS3h2NGxSMzJJNTI3MkFuRUhRYmRmcWducHo5T0hKQTlBdUFmZE5qQnJGWHBfQ0U0MG40YWY5Y250Y0owNE5NVkhzUUtUaFhMc2RoRHVVdVBpQy14aEVWYUdCYTNXOEowTTVpTnQwTVEwcw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMUh4eEk3dVc0U2doT2NmdzRyTFVVVk1xaDc4MkxvMUppZTE1WldDV1dpTFptSkNPZzFVTHVSSUZRMmVLLWtDcHZWTjdLQlBhTjdqeUFKU1pFZFM1S0ZtemREWng2Yms3dE9RTTVBSi1ydERvV3JXSlJVVkY4WjlxY3BMNVNlS1k0d1JEWkRSZXRvZDNnS3RaVXRZRDF0cHZvbDFBUGpPODNuLW5JakQ1NXFyZlh5SWgyTW9VRnBSVzXSAcgBQVVfeXFMUEpXb0ZSeEIzNnc0OEpIT2F5cms2V3pxZ1ZXVVpNcHhxQU5jVTNhSFRxWTZ3LVhDREVxakpJMVZoc2NZWnhxMlhQbnZtcnBNVS02WGRaM0R5NHdfX0Z3bzRwRWhERjlKQmU3cTBZYVpYX2pvTlh3WGk3SVFrcmdRY1RKWnFfQ2hKRFoxSmowSkJ5bEdFMnNsblZQV0RrVDgzY2VIcDBLTWplVjEtR2hfdmhtVFZxVTJQS0U2WEEzT3M4S0RaTThrVjU?oc=5"
         }
       ]
     },
@@ -258,6 +378,18 @@
       ]
     },
     {
+      "id": "bc9285dfaf28",
+      "title": "Suplementos de proteína e creatina além da musculação - Medscape",
+      "published": "2026-07-22T12:03:59+00:00",
+      "summary": "Suplementos de proteína e creatina além da musculação&nbsp;&nbsp;MedscapeCreatina engorda? Especialista revela o que realmente acontece&nbsp;&nbsp;TerraCreatina precisa de fase de saturação? Muitos ainda confiam em uma recomendação antiga, contudo estudos atuais contradizem&nbsp;&nbsp;Tua SaúdeCreatina para idosos: 4 benefícios do suplemento&nbsp;&nbsp;Alphaville e ArredoresNoites de insónias? A creatina pode ajudar&nbsp;&nbsp;menshealth.pt",
+      "sources": [
+        {
+          "name": "Medscape",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLVo1TUlNbnhiQlc3bHVtRXJtY3JZYWpNd1NvQVRIenE0ZHNVS2FUR2NydU1NRTI3M182SGF1WHAyRmRHNkh5S2dCM3dZZ2hrX0hHMkJLakZscklkY0VzYXdHNFdwc1cyQjBGSk1hc0tEd2ZqS3E2MTdueDVfWE9PM3FqWldmamVHcUd4R2dHX0F4cHdKcDFtVW9Jbkpxd3RTRTBSbw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "cc445bb050d8",
       "title": "Saúde confirma duas mortes de crianças por meningite, mas descarta surto - Correio Braziliense",
       "published": "2026-07-22T12:02:00+00:00",
@@ -273,7 +405,7 @@
       "id": "47c640f30427",
       "title": "Caso de raiva em bovino mobiliza vigilância sanitária e reforça alerta aos produtores em SC - portaleducadora.com",
       "published": "2026-07-22T12:01:29+00:00",
-      "summary": "Caso de raiva em bovino mobiliza vigilância sanitária e reforça alerta aos produtores em SC&nbsp;&nbsp;portaleducadora.comCaso de raiva bovina é confirmado em Itapiranga&nbsp;&nbsp;G1SC confirma 26 casos de raiva em animais de produção e Cidasc orienta vacinação; veja cidades afetadas&nbsp;&nbsp;ND MaisSC chega a 26 casos de raiva em animais e reforça alerta para vacinação&nbsp;&nbsp;OCP NewsSanta Catarina registra 26 casos de raiva em animais e reforça alerta para vacinação&nbsp;&nbsp;TopElegan",
+      "summary": "Caso de raiva em bovino mobiliza vigilância sanitária e reforça alerta aos produtores em SC&nbsp;&nbsp;portaleducadora.comCaso de raiva bovina é confirmado em Itapiranga&nbsp;&nbsp;G1Doença fatal em bovinos acende alerta no Oeste de SC e mobiliza Cidasc&nbsp;&nbsp;NSC TotalSC chega a 26 casos de raiva em animais e reforça alerta para vacinação&nbsp;&nbsp;OCP NewsSC confirma 26 casos de raiva em animais de produção e Cidasc orienta vacinação; veja cidades afetadas&nbsp;&nbsp;ND Mais",
       "sources": [
         {
           "name": "portaleducadora.com",
@@ -297,7 +429,7 @@
       "id": "1cbfabded5b6",
       "title": "Surto de sarampo? O que se sabe sobre 13 casos em SP e alerta de vacinação - UOL",
       "published": "2026-07-22T11:18:59+00:00",
-      "summary": "Surto de sarampo? O que se sabe sobre 13 casos em SP e alerta de vacinação&nbsp;&nbsp;UOLSP recomenda vacinação após registro de 13 casos de sarampo neste ano&nbsp;&nbsp;agenciasp.sp.gov.br13 casos de sarampo são registrados este ano em SP #shorts #JR24H&nbsp;&nbsp;R7Vacinação contra o sarampo está disponível nas 10 cidades do Alto Tietê&nbsp;&nbsp;G1São Paulo reforça a importância da vacinação contra o sarampo após confirmação de novos casos&nbsp;&nbsp;Estadão",
+      "summary": "Surto de sarampo? O que se sabe sobre 13 casos em SP e alerta de vacinação&nbsp;&nbsp;UOLsp-indica-vacinacao-apos-registro-de-13-casos-de-sarampo&nbsp;&nbsp;agenciasp.sp.gov.brVacinação contra o sarampo está disponível nas 10 cidades do Alto Tietê&nbsp;&nbsp;G1São Caetano reforça alerta para a população se vacinar contra o sarampo&nbsp;&nbsp;Diário do Grande ABCSão Paulo reforça a importância da vacinação contra o sarampo após confirmação de novos casos&nbsp;&nbsp;Estadão",
       "sources": [
         {
           "name": "UOL",
@@ -318,14 +450,14 @@
       ]
     },
     {
-      "id": "6f0af1ae4d08",
-      "title": "Superbactérias avançam entre crianças e preocupam especialistas - Correio Braziliense",
-      "published": "2026-07-22T08:10:00+00:00",
-      "summary": "Superbactérias avançam entre crianças e preocupam especialistas&nbsp;&nbsp;Correio BrazilienseComo a ciência está se preparando para a próxima pandemia&nbsp;&nbsp;Olhar DigitalWOAH adota plano global contra resistência aos antimicrobianos para a próxima década&nbsp;&nbsp;Veterinaria AtualMembros da OMSA adotam Plano Global contra a Resistência Antimicrobiana&nbsp;&nbsp;AgrimidiaA resistência aos antibióticos em crianças está aumentando rapidamente, tornando muitas doenças comuns cada vez mais di",
+      "id": "7efdd72e9b14",
+      "title": "Brasil pode ter tido 2 milhões de mortos pela covid-19 - ICL Notícias",
+      "published": "2026-07-22T08:20:50+00:00",
+      "summary": "Brasil pode ter tido 2 milhões de mortos pela covid-19&nbsp;&nbsp;ICL NotíciasNão foram 700 mil mortos por Covid no Brasil, mas mais de 2 milhões, afirma Dra. Dalcomo&nbsp;&nbsp;Revista FórumCovid-19 matou 2 milhões de brasileiros, afirma pesquisadora&nbsp;&nbsp;bncamazonas.com.br",
       "sources": [
         {
-          "name": "Correio Braziliense",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNc2QtWFJ5S2dBVHE5VTdjOHkxVzBONXpjXzVGQjM4S2I1T29wOFpGcmg5MWJWdHczTGFaTV81RkxRZUJJN3ZOTkFwZG5OajBVWW1iSnhNTUxfNjRmVVpBZVJ5MDdieUVxeTNueDdHSGlhM1JiV1NtWW5KcUxVOEUzMGlkUkQ4NVZmWE1DRzNmcExrZHByMnFKVElSUHhmV0NJV01CRzR1a195SDAxQVl1LVdhVi0tQV9iSzlJa1pzMUJXZ21qOG5KMjFUN005RDBKNmg1YtIB2gFBVV95cUxOQ3U2Ym5tTFg3bmdtWXZDdXBYdl9oZlhmbWJQVF9wTWhxdmtEdEdhdXRGWU9BU3F6N0g1NjZObFF4ZkgwUEFaMjNnUU9MQTFfUW5LR2phMy1oNV9LX1U5RV9MMl9BNzFGVjNFa2hZdldrY0Zrd19jMzJLMEZkVnU1M0dqZmNtNjl2SG5INXIyNzJmbUIya1RhdDdnaVcyTVpTZTM2OXBMTzRSaUF3bm5CZDVCbHJUN1JnQ3FNM2FfckNWQ3RBZlRUMUpFaWNiQVM4VHAwTU0wMm56UQ?oc=5"
+          "name": "ICL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVnFvNTBKZFB3WnMyNGV0aWJSN3NscC1aSlVJNjBFNVVEN3Y4THV0UUZGdjZEZVpJOHlXeVN1WkVFUHVzcHdTQTFMbkRyM1J1N00tWHQxSGpWdS05WWRpX2hkMHBYaFN3dW9yTzlMQXdILW1ZNFY0eTZXMjE4TE9CWA?oc=5"
         }
       ]
     },
@@ -345,7 +477,7 @@
       "id": "c04d5fdfa6e0",
       "title": "Diagnóstico precoce pode curar mais de 90% dos casos de câncer de intestino; veja os sinais de alerta - G1",
       "published": "2026-07-22T07:01:17+00:00",
-      "summary": "Diagnóstico precoce pode curar mais de 90% dos casos de câncer de intestino; veja os sinais de alerta&nbsp;&nbsp;G1Câncer colorretal aos 32 anos: os sintomas que ela ignorou&nbsp;&nbsp;TerraTeste usado no rastreamento do câncer de intestino é desconhecido por 67%&nbsp;&nbsp;Poder360Conheça o exame de sangue simples que pode detectar câncer de intestino antes dos sintomas&nbsp;&nbsp;Jornal Correio4 em cada 10 brasileiros ignoram um dos principais sinais do câncer colorretal, aponta pesquisa&nbsp;",
+      "summary": "Diagnóstico precoce pode curar mais de 90% dos casos de câncer de intestino; veja os sinais de alerta&nbsp;&nbsp;G1Brasileiros reconhecem, mas não tratam sintomas do câncer colorretal&nbsp;&nbsp;CNN BrasilTeste usado no rastreamento do câncer de intestino é desconhecido por 67%&nbsp;&nbsp;Poder360Sinais do câncer colorretal devem ser checados com rapidez&nbsp;&nbsp;Folha de LondrinaCâncer colorretal aos 32 anos: os sintomas que ela ignorou&nbsp;&nbsp;Terra",
       "sources": [
         {
           "name": "G1",
@@ -357,7 +489,7 @@
       "id": "281b27dcf640",
       "title": "Vacinação contra HPV reduz infecção mesmo entre mulheres não imunizadas, aponta estudo brasileiro - Folha de S.Paulo",
       "published": "2026-07-22T07:00:00+00:00",
-      "summary": "Vacinação contra HPV reduz infecção mesmo entre mulheres não imunizadas, aponta estudo brasileiro&nbsp;&nbsp;Folha de S.PauloJovens têm novo prazo para atualizar vacinação contra HPV&nbsp;&nbsp;G1Campanha de vacinação contra o HPV é prorrogada até 31 de dezembro de 2026&nbsp;&nbsp;Folha BVArtigo de pesquisadores do LAIS analisa custo-efetividade da vacinação contra o HPV no Brasil&nbsp;&nbsp;Laboratório de Inovação Tecnológica em SaúdeEm Pauta: Prazo para se imunizar contra o HPV foi prorrogado ",
+      "summary": "Vacinação contra HPV reduz infecção mesmo entre mulheres não imunizadas, aponta estudo brasileiro&nbsp;&nbsp;Folha de S.PauloJovens têm novo prazo para atualizar vacinação contra HPV&nbsp;&nbsp;G1Jovens de 15 a 19 anos têm até dezembro para se vacinar...&nbsp;&nbsp;Imirante.comCampanha de vacinação contra o HPV é prorrogada até 31 de dezembro de 2026&nbsp;&nbsp;Folha BVCâncer de pênis, ânus e orofaringe: vacina contra HPV também é indicada para homens&nbsp;&nbsp;BHAZ",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -378,30 +510,6 @@
       ]
     },
     {
-      "id": "cf21bf5373e6",
-      "title": "Revista Pesquisa FAPESP conquista o Prêmio José Reis de Divulgação Científica 2026 - Agência FAPESP",
-      "published": "2026-07-22T03:00:40+00:00",
-      "summary": "Revista Pesquisa FAPESP conquista o Prêmio José Reis de Divulgação Científica 2026&nbsp;&nbsp;Agência FAPESP",
-      "sources": [
-        {
-          "name": "Agência FAPESP",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQalQ4TUJlNEhsT29BQ1BzTjQ3Nnp0TlY0MlFUcDM4ZlBoc0JUbFJGUkYycjJCQ3ZETTk0SnFhMGdLcjFKcUpvTlRjdExQdG9kZ3l6TFJJZmh0aXlYTlZncjMzTzJHR093Ry1vWkw3Y0NOT3VTWlFyVjdwcktlX0NfVDY4cjhHNDFRdE5TeVY5ZHpDOHQwVjhDUWRZVWQ1SEQwY0ZlR2VCZ0llMkVSWFVOYl9TT0U?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c71179d2a85a",
-      "title": "Mais de 2 milhões morreram no Brasil por efeitos da Covid-19, afirma especialista - Diário do Centro do Mundo",
-      "published": "2026-07-22T01:27:00+00:00",
-      "summary": "Mais de 2 milhões morreram no Brasil por efeitos da Covid-19, afirma especialista&nbsp;&nbsp;Diário do Centro do MundoBrasil pode ter tido 2 milhões de mortos pela covid-19&nbsp;&nbsp;ICL NotíciasNão foram 700 mil mortos por Covid no Brasil, mas mais de 2 milhões, afirma Dra. Dalcomo&nbsp;&nbsp;Revista FórumCovid-19 matou 2 milhões de brasileiros, afirma pesquisadora&nbsp;&nbsp;bncamazonas.com.br",
-      "sources": [
-        {
-          "name": "Diário do Centro do Mundo",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOR3NRR3dfdER1THRBbmUyZllRUmJIWE8zcWVIcVprMWE0dV9zQlZaNV9VeW01Vm85cU5ZREpBTXFkcVB2UERKdFVGckIxSTh2RHJGa2Z5d29HbjBTUElMakI4bXc5d0hjR05PMXVJbUR6MWd1S09xZVplRFVORHpsc2VBRi1jSTk2eEJIY0dEdUpCUnJEcHI2cTVfb3JjN1VMNGlXZ1hGT2F3TXc4VTlTblZXNEhmWjc2RTRfc28wQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1ea55c73c947",
       "title": "Menino de 10 anos monta laboratório improvisado em casa com aparelho doméstico e descobre que a memória das borboletas pode atravessar gerações - Diário do Litoral",
       "published": "2026-07-22T01:04:00+00:00",
@@ -414,22 +522,10 @@
       ]
     },
     {
-      "id": "9d8d4e48e22e",
-      "title": "Medicamento usado para disfunção erétil pode ter efeito contra câncer, aponta estudo em Israel - GP1",
-      "published": "2026-07-21T23:56:31+00:00",
-      "summary": "Medicamento usado para disfunção erétil pode ter efeito contra câncer, aponta estudo em Israel&nbsp;&nbsp;GP1",
-      "sources": [
-        {
-          "name": "GP1",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOTmV6ZVZTZUNVaEVjeGFvOGM1bU5sS0Q2NFFKU3JtOV9kdkNfbDVFSEtiN3lDUG9VT21xQ1dXUnBzcFliYU01Ql9WTzk5eXRsVFEyMmd2OXVvSEFNNWJEWEtZLVhQT3Z4MDZteHpLRUNwYThHck9wd3ZRZHNlRjM0eWdIUU9hM1FhU3VQMGRJVERLSmUxZXZfVDlVRnc2c19EUlZOQTh4aVEwNndHODhISmV1VjdjdVpxU1poUm9Bc0FuN1VDN0hEVWhpRU1JcHdzWHl2MVhjX3lBS2VlZ21hd3pTMDNxTjB1dGxJVjZHbWs2OXhBTnlEMGhaZ9IBgAJBVV95cUxNTGYzVFZFR1RaNDRhaUxkNmw2SEE3SmY5ZGE5T3hCS0x1WWJFajBaQ3NFSDZZMllsVW9hQUJHRTdjUjJEbFVHTFZBTGRiZ2xRN2ItdFM1Q0dJWEdvWXBzbU5sSTgxZzc4X21CcEZ1QlBPMTlWOGozdW45a1ZqMk0xUHJGT3lfZC1kX2NsY2I4NVRJM1NUd0NTOUkycTkzdWFUcWlBWmk1Qy1uejhxSWx2Zi1JMVlCX2Q4SC1CR0RiLWx6U0dneU82SHJXa0xYZTdOd1cxc25Yd211YkUwbTdiQk5CS21UR1otXzFCVmZGa1luSU83VUZUcGNKNVAxckhF?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6d28ad23d957",
       "title": "Julho Verde reforça prevenção e diagnóstico precoce do câncer de cabeça e pescoço — Ministério da Saúde - www.gov.br",
       "published": "2026-07-21T21:59:11+00:00",
-      "summary": "Julho Verde reforça prevenção e diagnóstico precoce do câncer de cabeça e pescoço — Ministério da Saúde&nbsp;&nbsp;www.gov.brCâncer de cabeça e pescoço: conheça os sintomas e fatores de risco&nbsp;&nbsp;R7Jornal da USP no Ar Regional #424: Campanha Julho Verde orienta população sobre prevenção e diagnóstico precoce em Ribeirão Preto&nbsp;&nbsp;Jornal da USPMutirão identifica 31 novos casos de câncer de cabeça e pescoço em Salvador&nbsp;&nbsp;Bahia NotíciasOpinião | Câncer de cabeça e pescoço: co",
+      "summary": "Julho Verde reforça prevenção e diagnóstico precoce do câncer de cabeça e pescoço — Ministério da Saúde&nbsp;&nbsp;www.gov.brOpinião | Câncer de cabeça e pescoço: conheça os fatores de risco e saiba como prevenir&nbsp;&nbsp;EstadãoJornal da USP no Ar Regional #424: Campanha Julho Verde orienta população sobre prevenção e diagnóstico precoce em Ribeirão Preto&nbsp;&nbsp;Jornal da USPCâncer de cabeça e pescoço: conheça os sintomas e fatores de risco&nbsp;&nbsp;R7Mutirão identifica 31 novos casos d",
       "sources": [
         {
           "name": "www.gov.br",
@@ -450,38 +546,14 @@
       ]
     },
     {
-      "id": "815b497f2b86",
-      "title": "Anvisa aprova novo remédio para o tratamento de câncer de rim - CNN Brasil",
-      "published": "2026-07-21T19:48:01+00:00",
-      "summary": "Anvisa aprova novo remédio para o tratamento de câncer de rim&nbsp;&nbsp;CNN BrasilCâncer de rim: Anvisa aprova nova terapia para reduzir risco de retorno da doença em pacientes de alto risco&nbsp;&nbsp;VEJAAnvisa aprova novas medicações para câncer renal e hemofilia&nbsp;&nbsp;Poder360Anvisa aprova Keytruda para tratamento complementar de câncer de rim&nbsp;&nbsp;Rádio ItatiaiaAnvisa aprova nova indicação terapeutica para Keytruda® (pembrolizumabe) e Hympavzi™ (marstacimabe)&nbsp;&nbsp;PFARMA.c",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ1VySnVFM3RXZG90NjlVaXNoTkhrcWJTN3Z3Tnd5QXRYTXpUU253ZG5TX1U4VUVlbnVJVjBKaHpqWEtaaUt3d1pkVDJtTWc3cDV0OEZsdndrREFobkptT0g1NS12Sl9CaWNPdklRVk45eFdIMjVvMmlTTzNncURwZ0lSWjRXUjdmcFBiclRhMWlyWTl4Um03WmdrNkF1QQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "add46a427c09",
       "title": "Fator de risco para demência: como prevenir a perda auditiva? - Portal Drauzio Varella",
       "published": "2026-07-21T18:07:09+00:00",
-      "summary": "Fator de risco para demência: como prevenir a perda auditiva?&nbsp;&nbsp;Portal Drauzio VarellaPerda de audição pode começar antes dos 60 anos e comprometer a qualidade de vida na terceira idade&nbsp;&nbsp;Correio dos MunicípiosNovas diretrizes da OMS: até 45% do risco de demência pode ser prevenido ou adiado&nbsp;&nbsp;Pan American Health Organization (PAHO)Quase metade dos casos de demência têm origem em factores que podemos mudar. Sabe quais são?&nbsp;&nbsp;MarketeerO que diz a OMS sobre o us",
+      "summary": "Fator de risco para demência: como prevenir a perda auditiva?&nbsp;&nbsp;Portal Drauzio Varella",
       "sources": [
         {
           "name": "Portal Drauzio Varella",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOai1penhHZ0VwcTE1a0RveGZNOHJOUWZQSWlIdjlZT0JrV0dmLUw1VUI4ZTZkdmx5NHVKZ2JuZzViYkhDNFVUc0FLUzFyNjRqbXJkSmdudEp5SnpvYkJReDI0NG9SdTNQWFFVdnZURkdPdy10MnB1UG8ycFZzVTNYdmtKZTNKOUVjbFpROGc3aHFmT251REdqV2o1cGhublBFeW1GS2hEWWU0MkJkelMzZ3ZyNHZWZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3f68831cb6be",
-      "title": "Sorocaba amplia vacinação contra dengue e inclui pessoas entre 4 e 59 anos - G1",
-      "published": "2026-07-21T17:53:38+00:00",
-      "summary": "Sorocaba amplia vacinação contra dengue e inclui pessoas entre 4 e 59 anos&nbsp;&nbsp;G1Vacinação contra a dengue é ampliada para pessoas a partir de quatro anos em Presidente Prudente; confira&nbsp;&nbsp;G1Sorocaba amplia público para vacinação contra dengue – Agência de Notícias&nbsp;&nbsp;Prefeitura de SorocabaPopulação de 4 a 59 anos começa a receber vacina contra a dengue em Sorocaba&nbsp;&nbsp;jornalcruzeiro.com.brVacinação contra dengue é ampliada para pessoas de 4 a 59 anos em Prudente&n",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWmVpUzJ6Vm5RMXRuTnhKaHVmMjY5bFpDZmNTUVphUHdGaEJQejdLZmhzMlhJWlNaNlp4eWxWNGJvVHFrNUstdnU1Qi1hUnRvbmg2bko5azFLLVZLbEtIZXJ6aGswa2dKYW1Genp1WGFrQ2JNbmtLRVAzdVgzcDNZYWRtSnFWMUppaWJCbHJLUmxIVGNYajN1R3Z3Y1VCWEJIMFloaEFpdGPSAbcBQVVfeXFMT3VYTlFBaW04eEN6ZGJBSklXdnZWeTlyazNMcUdHRFR6YlhPRkVUMU5jYnQ2aGdZOTZSbnk2ZG5jX3JOVHE4V1NBTkh1N3M1UTJtdGRLLS1MRm1sU2FnZS1xcDZZR09mMjNIMnp3YnBwV0QzdXZKZHZjbExFZTZ6WWNic3c2bEJUV0lIOTgxMFBXa0l2Yy10Z3hBVEpUUV9KQ3hHcFU2cVRLTE40RTZodU80cWpwT0JB?oc=5"
         }
       ]
     },
@@ -501,7 +573,7 @@
       "id": "91dd3b0b58a5",
       "title": "Vírus deixa Espanha em estado de alerta e ameaça fronteira com Portugal - UOL Notícias",
       "published": "2026-07-21T14:40:51+00:00",
-      "summary": "Vírus deixa Espanha em estado de alerta e ameaça fronteira com Portugal&nbsp;&nbsp;UOL NotíciasVírus extremamente perigoso causa pânico em 2 países na Europa&nbsp;&nbsp;Diário do ComércioMosquitos infetados com o vírus do Nilo Ocidental estão a aumentar na Europa. E Portugal está em risco?&nbsp;&nbsp;RFMEspanha declara alerta sanitário em dois municípios de Sevilha após deteção de mosquitos infetados&nbsp;&nbsp;HealthNewsVírus do Nilo Ocidental: Espanha ativa alerta em dois municípios da Andaluz",
+      "summary": "Vírus deixa Espanha em estado de alerta e ameaça fronteira com Portugal&nbsp;&nbsp;UOL NotíciasVírus do Nilo Ocidental: 21 casos na Grécia, infeção espalha-se na Europa&nbsp;&nbsp;EuronewsVírus extremamente perigoso causa pânico em 2 países na Europa&nbsp;&nbsp;Diário do ComércioEspanha emite alerta para possível surto de vírus em fronteira com Portugal&nbsp;&nbsp;CrusoéMosquitos infetados com o vírus do Nilo Ocidental estão a aumentar na Europa. E Portugal está em risco?&nbsp;&nbsp;RFM",
       "sources": [
         {
           "name": "UOL Notícias",
@@ -513,47 +585,11 @@
       "id": "48ae45615338",
       "title": "Novos dados mostram que injeção semestral para prevenir o HIV mantém eficácia perto de 100% - G1",
       "published": "2026-07-21T14:00:11+00:00",
-      "summary": "Novos dados mostram que injeção semestral para prevenir o HIV mantém eficácia perto de 100%&nbsp;&nbsp;G1Injeção semestral para prevenir o HIV mantém eficácia perto de 100%&nbsp;&nbsp;VEJANovos dados mostram que a PrEP injetável tem quase 100% de eficácia&nbsp;&nbsp;MetrópolesGilead e Merck divulgam resultados positivos de ensaio clínico de HIV na semana 48&nbsp;&nbsp;Investing.com Brasil - Finanças, Câmbio e InvestimentosAids 2026: Lenacapavir semestral e comprimido semanal colocam prevenção e ",
+      "summary": "Novos dados mostram que injeção semestral para prevenir o HIV mantém eficácia perto de 100%&nbsp;&nbsp;G1Injeção semestral para prevenir o HIV mantém eficácia perto de 100%&nbsp;&nbsp;VEJANovos dados mostram que a PrEP injetável tem quase 100% de eficácia&nbsp;&nbsp;MetrópolesGilead e Merck divulgam resultados positivos de ensaio clínico de HIV na semana 48&nbsp;&nbsp;Investing.com Brasil - Finanças, Câmbio e InvestimentosUma injeção, seis meses de proteção: medicamento contra o HIV entra no rad",
       "sources": [
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTGhjeHY1ODUxZTNpYW81b0dnWlM1OW5TVDZHbFFSdWMwUjJUTEpaSVE0TWJLU1d3MmZ5NVIwREIzVElzdkVLRDNvSnBXLURuSnc2dUxRS25hMjhwSTlfRWN2OTc3dHpJdkxXbFEwSmx6NWFycmRTWm5BSnZ5MjEwQTVITTdZUDc2RWlBQzhfUWxwd18xVnQ1SE1LRlpNdG92WVJjbFQ4aGxHUkhUdnpUc1YzU3BTaGVUamxkTENpVzB2dGJLT3E0WjZUdndCdFdYUllFclZCUUJrMlUyeXJJcHlQONIB8gFBVV95cUxONTZRaHJkR3FmTWFmMjJqNnNvRmRkRzI0Wm1aWmtqNHd3UzJiOVhzR3JGTjNOTTBMc1BKa1RvZURZMWNVRWV4UTBqV0hKQ0JEZmJmTzI0SF8zN0owQ19uUmxxMFlLX3dVdThpbVRqR3I1UVJRaV9fSGtXRFlyd3dCY3JlMjZndnlFZi1pUm9Xb3JmYlBBYXM5NndOc3JuUi1QNThoeFBzZzBrX2M0N3ZIOUdDT3RSQVZjc2pXNkJSSVc5bXlHaTc2R0MtanVkLTZaUTViSGdXdUQyekViRmVXLU92b2UxZFlLTkF0LWVlemdzUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d6d7bd13788d",
-      "title": "Células da mãe permanecem no cérebro dos filhos, sugere estudo - Metrópoles",
-      "published": "2026-07-21T13:50:00+00:00",
-      "summary": "Células da mãe permanecem no cérebro dos filhos, sugere estudo&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrUERLQXl0bV9VYnpEU3JaYlIyT0VFRDhCSU9JS21oTUpOWWFlVWtSX1NGalA4SG9CYWZhYWNMNGVEUjNlbUhLZE1VbURNcWFDdF9TNzUycENOYnNLdmNOYS1UMFpqX0J6YXVZajhaLTZlZXcybC1NdnBR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c819a26427e7",
-      "title": "Acrilamida: como evitar a substância com potencial cancerígeno ao cozinhar, segundo a Anvisa - O GLOBO",
-      "published": "2026-07-21T11:37:16+00:00",
-      "summary": "Acrilamida: como evitar a substância com potencial cancerígeno ao cozinhar, segundo a Anvisa&nbsp;&nbsp;O GLOBOQuais alimentos preparados na airfryer podem formar acrilamida, ligada a prejuízos à saúde?&nbsp;&nbsp;EstadãoO que é acrilamida, que levou Anvisa a emitir alerta&nbsp;&nbsp;band.com.brAcrilamida: o erro comum ao preparar batatas e pães na airfryer pode prejudicar sua saúde&nbsp;&nbsp;TerraVocê sabe o que é a acrilamida? Descubra onde ela está presente e os riscos&nbsp;&nbsp;Guia do Est",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPak5ZZDJJeHV2WDgwUEdST214aDVfU3VNVlJrTkhlUVlwckQ1T2hsdXphNXp6Mlg2Qm1RMVBCakQ2S2E1a19DNUthQmp3bzZ2Q3V6akw4M0tTd2g0MWtHVTdFZTJ5bzdqSjlIbE5OX0NaWE1TRjR4aU5fZ3pwY0pYT2dwYlk4cFZYVFMyZTVwRGFnVW4xdHpaR3RIc1ZYYnpjc3BGbGRRcEdad2M3VHVNUVZvcjBMb0tnSTllMmVwSXZHNGFBU2Y4cHJ0eU12SkRRZmotSl8yNWo1MVZ4dzZF0gHuAUFVX3lxTE9rdTJqM0dFcXRlSUxteDhaSmxJWFI3c2JmNlkya3RXcTNWM1c2ekN2NGt4NkhKTmVPNzRXZXRIb19XTE5IZmhHRzZ6c29zTmtTTkwwdHRVM1RKa3lfNVBObFA0RlJocTBROF9UNDdQc216WjZvYVFFb3hqNUpsbmVQUnRDdVZiOHhBWkZmZFRnZXVMRmQ3MFcySm9GV2NRejlxNHlKS1l2SDJHLWp1QUZrcDlLaUFVb2E3U0lUS3dCaHBLZnlUcFNoT0k5S0xtNWV0X1l6S1VMcjFJcU9sZXhqSU1CdGJXZTdzb0dTeXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "065d3410fce5",
-      "title": "Borderline pode ter origem genética, aponta maior estudo já feito sobre o transtorno - G1",
-      "published": "2026-07-21T10:59:42+00:00",
-      "summary": "Borderline pode ter origem genética, aponta maior estudo já feito sobre o transtorno&nbsp;&nbsp;G1Estudo derruba visão de que borderline é explicado apenas por traumas e identifica possível origem genética&nbsp;&nbsp;Jornal OpçãoO maior estudo genético da história está desvendando o mistério por trás de uma doença que leva muitas pessoas a quererem cometer suicídio.&nbsp;&nbsp;Vietnam.vnMaior estudo genético sobre borderline encontra sinais de influência hereditária no transtorno&nbsp;&nbsp;JM O",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdV9PRERUZC00MEVLWEdIWkRIYVh0Y0xLaHYwdjVSZHlpcEhHdl9hR0QtSkF6b3VpbHcxa1Y1UmxvOVpUMlZ1SVdKMmJSZV80aGhSUDZuX3NNcmViNkZjczhoTDdfdGJjX2NmVG5qbnUwU1MtdnIzbTlqbVMxUGp4ejFvVENyWW5TTktGdC12TmQzWUlXV09xbVgtWmRkZ1MtQVdQRjVwOVVPMXF4clc1M0VDNkVXZWNodEw2bE9KbHRVanRuLWRSRTBiVExjdi110gHfAUFVX3lxTE1jUjU0ZWk4dS1MVUkxUFhIQUpITjdIenM2OG95U0JHOThUd0l1TEZ3MlNlbTIteWVOYkpRTUNTT3J4MjlhNE5HMlhWQzM1LTUxWEhHYTV4RVU0OEdzbXlUMnhvVDczWDdsU2xndThLdzdUUlp1UVhQdGlkbVg1NjlpNUNkWE1yTjE5TkhsQnBXYW50MGNWdU41ekUybjUxWXo4ZDVfMHFDbnI4aTl2dTVoYkJyaHlKREM0Y2JfN0VzSExETWFlTVhLVlZ0RTIxUkpjSjdZX0hYQW94RXNEU0E?oc=5"
         }
       ]
     }
