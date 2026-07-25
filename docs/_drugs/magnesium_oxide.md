@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: MAGNESIUM OXIDE
 drugbank_id: DB01377
 evidence_level: L5

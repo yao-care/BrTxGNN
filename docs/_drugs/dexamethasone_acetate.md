@@ -1,5 +1,6 @@
 ---
-layout: drug
+layout: default
+nav_exclude: true
 title: DEXAMETHASONE ACETATE
 drugbank_id: DB14649
 evidence_level: L5
