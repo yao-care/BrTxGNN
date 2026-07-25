@@ -112,7 +112,7 @@ curl https://brtxgnn.yao.care/data/search-index.json
 
 Se você utilizar estes dados em sua pesquisa, por favor cite:
 
-> BrTxGNN: Drug Repurposing Predictions for Brazil. Yao.Care, 2026. https://brtxgnn.yao.care
+> BrTxGNN: Drug Repurposing Predictions for Brazil. 藥提醒科技有限公司 (yao.care), 2026. https://brtxgnn.yao.care
 
 ---
 

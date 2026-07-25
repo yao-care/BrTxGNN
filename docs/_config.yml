@@ -27,8 +27,8 @@ twitter:
 
 # 作者資訊 (E-E-A-T)
 author:
-  name: BrTxGNN Team
-  url: https://brtxgnn.yao.care/about/
+  name: 藥提醒科技有限公司 (yao.care)
+  url: https://www.yao.care/
 
 # 允許發布未來日期的文章
 future: true
@@ -55,7 +55,7 @@ search:
   button: false
 
 # 頁尾
-footer_content: "Copyright &copy; 2026 Yao.Care. Este relatório é apenas para fins de pesquisa e não constitui aconselhamento médico. / 本報告僅供研究參考，不構成醫療建議。"
+footer_content: "Copyright &copy; 2026 藥提醒科技有限公司 (yao.care). Este relatório é apenas para fins de pesquisa e não constitui aconselhamento médico. / 本報告僅供研究參考，不構成醫療建議。"
 
 # 色彩主題
 color_scheme: light
@@ -110,3 +110,4 @@ defaults:
     values:
       layout: "default"
       nav_exclude: true
+

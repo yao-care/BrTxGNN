@@ -135,7 +135,7 @@ Se você utilizar os dados do BrTxGNN, por favor cite:
 ```bibtex
 @misc{brtxgnn2026,
   title={BrTxGNN: Drug Repurposing Predictions for Brazil},
-  author={Yao.Care},
+  author={yao.care},
   year={2026},
   url={https://brtxgnn.yao.care}
 }

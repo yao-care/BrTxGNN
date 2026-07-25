@@ -14,6 +14,24 @@ Usando IA para acelerar a validação de evidências de reposicionamento de medi
 
 ---
 
+## Sobre o Desenvolvedor
+
+Esta plataforma é desenvolvida e operada pela **藥提醒科技有限公司** (yao.care, número de registro
+empresarial 83620786, 12F, No. 220, Sec. 2, Taiwan Blvd., West Dist., Taichung City, Taiwan).
+
+O BrTxGNN é o site do Brasil da linha de produtos "TxGNN Drug Repurposing" da empresa.
+O mesmo sistema está implantado em 30 países e regiões, cada um nomeado `{CC}TxGNN`
+(JpTxGNN, UsTxGNN, DETxGNN, e assim por diante) em `{cc}txgnn.yao.care`.
+Visão geral do produto: <https://www.yao.care/medical/txgnn/>.
+
+O próprio modelo TxGNN foi desenvolvido pelo Zitnik Lab da Harvard Medical School e publicado
+na *Nature Medicine*. Esta plataforma é o sistema de produção que a 藥提醒科技有限公司 construiu sobre esse
+modelo, abrangendo a integração de dados nacionais de registro de medicamentos, predição dupla por
+grafo de conhecimento e aprendizado profundo, classificação de evidências do PubMed / ClinicalTrials
+e integração de registros eletrônicos de saúde via SMART on FHIR.
+
+---
+
 ## Contexto do Projeto
 
 <p class="key-answer" data-question="O que é BrTxGNN?">
@@ -26,7 +44,7 @@ Usando IA para acelerar a validação de evidências de reposicionamento de medi
 
 | Item | Informação |
 |------|-----------|
-| Manutenção | Yao.Care |
+| Manutenção | 藥提醒科技有限公司 (yao.care) |
 | Base do Modelo | Harvard TxGNN (Zitnik Lab) |
 | Última Atualização | Março 2026 |
 
