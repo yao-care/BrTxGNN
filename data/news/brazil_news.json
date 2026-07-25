@@ -1,10 +1,22 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-07-25T02:47:19.455166+00:00",
-  "total_fetched": 84,
-  "unique_count": 84,
-  "health_related_count": 36,
+  "fetched_at": "2026-07-25T08:08:16.202404+00:00",
+  "total_fetched": 85,
+  "unique_count": 85,
+  "health_related_count": 33,
   "news": [
+    {
+      "id": "da598c13581d",
+      "title": "Esta é a cidade mais habitável do mundo em 2026: aqui as dez primeiras do ranking - Meteored Brasil",
+      "published": "2026-07-24T23:12:00+00:00",
+      "summary": "Esta é a cidade mais habitável do mundo em 2026: aqui as dez primeiras do ranking&nbsp;&nbsp;Meteored Brasil",
+      "sources": [
+        {
+          "name": "Meteored Brasil",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQWFWczhfbl9heWNTSFAtUXpNSm1mXzdsYi1rQTY2M1FSZnRjb0ZFWHlQajh6SlZRYUREZDhJSzZ6TVFwYjIyV0xlRldrd3Rrd2k4VUZfdlQ3VG9PTXkwMVctalNXa2NGT0U2RWxjSExPSnF5YWxTT3dDcWFKRkpyZnZNdTVHRzFNYjlMbGdrRWtUVkFYREhUNS1YR2NWUmlla05rWllCc0luTmhtZTRuUjVSZ2F5RzNvM3FkNzl4MzBjc2llRlE?oc=5"
+        }
+      ]
+    },
     {
       "id": "5349a7ca8fb0",
       "title": "Descoberto mais um câncer infeccioso - Estadão",
@@ -66,30 +78,6 @@
       ]
     },
     {
-      "id": "ffd214019900",
-      "title": "Acidente na MS-080 interrompe trajetória de veterinário referência em pesquisas - O Pantaneiro",
-      "published": "2026-07-24T19:11:00+00:00",
-      "summary": "Acidente na MS-080 interrompe trajetória de veterinário referência em pesquisas&nbsp;&nbsp;O Pantaneiro",
-      "sources": [
-        {
-          "name": "O Pantaneiro",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOazRWZGJpRFhfMmUzYU9NWUl0T0VyNGc5dGdHbFU1ZlMtSE9QZzR4YWdsVzNUX0VnOXB3czQ1M2J6SU9YWmpjWk44UWxRMUNxWnBUbTFWMDFraXpqeWlCd19Db1NVRS0teEl4dDcxOTd1QmpQQnBwR0VwYWVQYm1Rc2E4Yzl1bGNJTVNteDRUUGhxLXo5aUpxWERUZmNxR1JhYlRkNHV3X2hobl9Pd1Q3Y0tR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "86a97554d22e",
-      "title": "Hemorroida: quais as causas? Há alimentos que podem piorar o quadro? Como prevenir? Tire dúvidas - Estadão",
-      "published": "2026-07-24T19:00:00+00:00",
-      "summary": "Hemorroida: quais as causas? Há alimentos que podem piorar o quadro? Como prevenir? Tire dúvidas&nbsp;&nbsp;EstadãoO tratamento minimamente invasivo ajuda as mulheres a escaparem do tormento das hemorroidas crônicas.&nbsp;&nbsp;Vietnam.vnA nova era da coloproctologia traz tecnologia, acolhimento e menos medo&nbsp;&nbsp;O GLOBOMedo da cirurgia faz pacientes adiarem tratamento de hemorroidas e aumenta risco&nbsp;&nbsp;Tribuna da BahiaHemorroidas: medo de procurar tratamento reduz chances de proced",
-      "sources": [
-        {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbElDdW1rOENjWVIybjRaNFhwUlBHWlNRbUx5Mm5jbHJqVzN1YkJRNHd4U3RhX01pSC16ZVRhRzQzSlVqQkR5V0hkcmg0dzVjaVdWZHhXTHU3SHUtUnc1dG5RWHZrdDZtV1p2aDdBa1RZNzlkdVJldWtBSENpc2c1c1dWaXhWY1M2VU0xa1RmcVMyLTRjelhnYlBPeHRPbTDSAaQBQVVfeXFMTWEyNlYzMlZucDI1YzJlZmgyLTYxVkNrTU1aNUlmTjNPbUdyQ1lJeXk1X3BGVFVrQ1dYVEtJNDlkZ1J0bGlXQ245QWVrVHNoSmRVMFMxVGM2eDJpNko1NEZobEdfV1NJWlpaZUpfUTNxeTFQYUxxZHB4TzJoQzh2V2NPQ3MySTRPWVdnTmpVMmlYN0h2SmJtWnNmNDZQWWZHMzM2c0Q?oc=5"
-        }
-      ]
-    },
-    {
       "id": "dbed7a39eb56",
       "title": "Morte de criança é ocultada após terapia genética experimental na China - Folha de S.Paulo",
       "published": "2026-07-24T18:29:00+00:00",
@@ -98,18 +86,6 @@
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRGw1eFRQM2UyMXlLWjdqcjdYd1hxTDZQN2JjLUxYc0g5NEZTUGNhZktJS3dQUDhTRXY5cExlLTBTanVmSktyQ2ZTLUlYa2swTm5wa2xNVE9Za1ZlZmxPekpVNXNNckhmVkh2Qjg4ckpqLVlLbzhtNWMxaWVNQjF6Wl9xT2VndlF2aFVpZ3JmUFFaazBaQnlFZklsMjlFRnJxd1JpT3JUemNlOGl1NmZGRWNQZ1h0Vy1jb2tFNjlQSnFydzBGMWc5YURtV24?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "91d211274476",
-      "title": "Brasileiro de 16 anos é o primeiro sul-americano a vencer Olimpíada Internacional de Economia - O GLOBO",
-      "published": "2026-07-24T18:02:15+00:00",
-      "summary": "Brasileiro de 16 anos é o primeiro sul-americano a vencer Olimpíada Internacional de Economia&nbsp;&nbsp;O GLOBO",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQS00Q0w3X0dIVUI4NW9zeUFtc205YjlhQzJZb3lYTG9iQTVZUGRDcGpUY3BCbkN1c1Q4c0N2b0RaeDBENkd0ZXdyTWhzOV9GNHE5UW5MQVEyZndMS3BDUm55M0pFZmpnWFlCTjV2UDVVdXBaUGVDSlp0QmltbFd1Tnc1SDhfYmlidkk3eURKT0FjdVoxblhWVE0tcVVFbWRmVGYzd2k2Y1NiaXhVLWUzc2xXcW9yMWZWaUhyTk9iWlZrejhLUjZmemJ5bEVibUlMVXFtNWJuSEhEamtrRE56TFlHUGoyc1hLN0U1dlFlSdIB_gFBVV95cUxQRFVRUGJjNGU0Wnd3Y1FHeElfMUtLTXdLdFVOa05TM2c0UnlQM1I5OXhMdnljMUpTRGNkVUZSVURHdUxWSmNhUWdPZUFlaDFhT05fSWsyZm9VbHZkRmctamVCdGRtV3FvVk1jazFSNE1SV3J3OVlCcHlhZDFFOUgyWnl6NGV4cW9NLTZ0NDJNU3NnaHZFbjl1dEtHQVZZaDQ0SnpZeTktRjcyMGRiRWtXUnhsdXoyUU8zc3hUUzltcldhaE9hOVcyZVVHWUxZcnoxdWpvR3NLU19fclFGTV9tWk93T2phN1MxR21GalI0dVFYN3FKblItVEpVb1B2QQ?oc=5"
         }
       ]
     },
@@ -162,26 +138,14 @@
       ]
     },
     {
-      "id": "300f087f51f1",
-      "title": "A competência e a seriedade de Dalcolmo e a desfaçatez dos Bolsonaros. Por Kakay - Diário do Centro do Mundo",
+      "id": "959e19ce9c14",
+      "title": "A competência e a seriedade de Dalcolmo e a desfaçatez dos Bolsonaros. Por Kakay - diariodocentrodomundo.com.br",
       "published": "2026-07-24T12:23:00+00:00",
-      "summary": "A competência e a seriedade de Dalcolmo e a desfaçatez dos Bolsonaros. Por Kakay&nbsp;&nbsp;Diário do Centro do MundoKakay | A competência e a seriedade de Dalcolmo e a desfaçatez dos Bolsonaros&nbsp;&nbsp;Poder360Brasil pode ter tido 2 milhões de mortos pela covid-19&nbsp;&nbsp;ICL NotíciasMais de 2 milhões morreram no Brasil por efeitos da Covid-19, afirma especialista&nbsp;&nbsp;Diário do Centro do MundoEspecialista afirma que impacto da Covid-19 no Brasil pode ter superado 2 milhões de morte",
+      "summary": "A competência e a seriedade de Dalcolmo e a desfaçatez dos Bolsonaros. Por Kakay&nbsp;&nbsp;diariodocentrodomundo.com.brKakay | A competência e a seriedade de Dalcolmo e a desfaçatez dos Bolsonaros&nbsp;&nbsp;Poder360Brasil pode ter tido 2 milhões de mortos pela covid-19&nbsp;&nbsp;ICL NotíciasMais de 2 milhões morreram no Brasil por efeitos da Covid-19, afirma especialista&nbsp;&nbsp;diariodocentrodomundo.com.brEspecialista afirma que impacto da Covid-19 no Brasil pode ter superado 2 milhões de",
       "sources": [
         {
-          "name": "Diário do Centro do Mundo",
+          "name": "diariodocentrodomundo.com.br",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdy1JREFhN3FpTFJEUS1oX2ZJTW4zaUFLenRYUXMtemZUTlVQRzA3dEw3WTFvd3NGX3hVakJ6WVExcUxieHl0eC1YNW13djI0cktXUDQ4RFU4NTBuMlRfSDNsRkFLZldYUEc2aUhFOUhuNk1GVWN5NFNkc0ZleFJLb0sxVlNUT1NfNVNlcWhMc0hhUEw0THpEZWFR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9375bc532427",
-      "title": "Desafios on-line: busca por pertencimento e adrenalina expõe jovens a riscos, diz especialista - Midiamax",
-      "published": "2026-07-24T11:15:00+00:00",
-      "summary": "Desafios on-line: busca por pertencimento e adrenalina expõe jovens a riscos, diz especialista&nbsp;&nbsp;Midiamax",
-      "sources": [
-        {
-          "name": "Midiamax",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPanJTMDFnN2s2SHF5Z05qWUp6cVgyaWxHMkE0SEdNZUhqeVNZbFZfZGVFWHNSQWgtcThacEVmTjM1V1ZESG9VV1lHY05ZcVQyWnYwdXJMV1NSd3hTV3Znb2hjZFRCMFdJblJJaHRTTDRhb2VTTG1wcGlYcEhZeURzTzlRS3VBVG9XZEc0YnZUSlQwcmlud3oyZWJWT3p4UFpoSU5ibjBBQzY5WFRjM3FtSmtmUXFlU0tLMERlYUFqcw?oc=5"
         }
       ]
     },
@@ -189,7 +153,7 @@
       "id": "e66a24d39825",
       "title": "Vila Velha promove vacinação em shopping sem agendamento neste sábado (25) - A Gazeta",
       "published": "2026-07-24T10:04:00+00:00",
-      "summary": "Vila Velha promove vacinação em shopping sem agendamento neste sábado (25)&nbsp;&nbsp;A GazetaBoulevard Shopping recebe mutirão de vacinas neste sábado (25/7)&nbsp;&nbsp;Correio BrazilienseDF terá 51 pontos de vacinação neste sábado&nbsp;&nbsp;Diário do PoderMultivacinação leva doses ao Boulevard Shopping Brasília neste sábado&nbsp;&nbsp;Jornal de BrasíliaCampanha de imunização abrange diversas faixas etárias e grupos prioritários conforme calendário de rotina&nbsp;&nbsp;PDNews",
+      "summary": "Vila Velha promove vacinação em shopping sem agendamento neste sábado (25)&nbsp;&nbsp;A GazetaDF tem campanha de multivacinação neste sábado; veja endereço, doses e o que levar&nbsp;&nbsp;G1Boulevard Shopping recebe mutirão de vacinas neste sábado (25/7)&nbsp;&nbsp;Correio BrazilienseMultivacinação leva doses ao Boulevard Shopping Brasília neste sábado&nbsp;&nbsp;Jornal de BrasíliaDF terá 51 pontos de vacinação neste sábado&nbsp;&nbsp;Diário do Poder",
       "sources": [
         {
           "name": "A Gazeta",
@@ -225,7 +189,7 @@
       "id": "8a8d2074b136",
       "title": "Como desconfiança em vacinas e queda na imunização levaram a recorde em epidemia de sarampo nos EUA - O GLOBO",
       "published": "2026-07-24T06:30:23+00:00",
-      "summary": "Como desconfiança em vacinas e queda na imunização levaram a recorde em epidemia de sarampo nos EUA&nbsp;&nbsp;O GLOBOQueda na vacinação faz epidemia de sarampo bater novos recordes nos EUA&nbsp;&nbsp;Folha de S.PauloCasos de sarampo atingem nível mais alto em 35 anos nos EUA&nbsp;&nbsp;O GLOBOEUA registra recorde de casos de sarampo em 35 anos&nbsp;&nbsp;CartaCapitalEm surto, EUA tem o maior número de casos de sarampo em 35 anos&nbsp;&nbsp;Metrópoles",
+      "summary": "Como desconfiança em vacinas e queda na imunização levaram a recorde em epidemia de sarampo nos EUA&nbsp;&nbsp;O GLOBOVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
           "name": "O GLOBO",
@@ -234,14 +198,14 @@
       ]
     },
     {
-      "id": "c5df7916f384",
-      "title": "Casos de hepatite A em SP no primeiro semestre já superam total de registros de 2025 - G1",
-      "published": "2026-07-24T06:00:14+00:00",
-      "summary": "Casos de hepatite A em SP no primeiro semestre já superam total de registros de 2025&nbsp;&nbsp;G1Veja mais manchetes e perspectivas no Google Notícias",
+      "id": "91d211274476",
+      "title": "Brasileiro de 16 anos é o primeiro sul-americano a vencer Olimpíada Internacional de Economia - O GLOBO",
+      "published": "2026-07-24T06:30:19+00:00",
+      "summary": "Brasileiro de 16 anos é o primeiro sul-americano a vencer Olimpíada Internacional de Economia&nbsp;&nbsp;O GLOBO",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMkdmM3Nqa2JiczdvaEhmM296ZTVlU1lrai1EcEJINW1ka0s3VFdhZVFZbWZoYkc0SzFwNmVyVmxXMlBRNVlKbnp3UDZOWGdtWi1RbzNKVjhqQUMwcC1iSDF3ZndpQ3FlRl9mOXMtbldsc1VweGozOEVOYU12QUZGbWozTjJNME9jTFB4MDNNWlp0LXVuN2ZfWmdoei1wR2hLeVhSX0FLeHB1Y08tQVdiRGoxT0tKSVhLVENPRW1GLW1HNHFXVDNjd0JQUGMtZWtYX1RTWno3Tm5GcmfSAeoBQVVfeXFMT01pTU5XektmVE9BZWlrenNNUDN3NS1VRXhGakdvLXFFNzhHR01kSW5tVUFMR1BWUzdmd01UTERnaWdKZGFaWnVkN2hFR19vQnF3dFBfZWFnMUoxNkNacGVkMDd6bUM5RHNER1l5TUl4bWZvRlVaclg5WjhKTVJaOC1EdC01bzFfMVUteFlCUy1vczU2dGppcWV0NmkwU1Qta1ZQWFZVRW9DUWR4S0RackJtUDZOZGxxZDN6SWp5OHNteDN2ejZQenpPX09ES3FzeldiZElnYUJWRmNqU1dncHBZNGxfdGtGRWNB?oc=5"
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQS00Q0w3X0dIVUI4NW9zeUFtc205YjlhQzJZb3lYTG9iQTVZUGRDcGpUY3BCbkN1c1Q4c0N2b0RaeDBENkd0ZXdyTWhzOV9GNHE5UW5MQVEyZndMS3BDUm55M0pFZmpnWFlCTjV2UDVVdXBaUGVDSlp0QmltbFd1Tnc1SDhfYmlidkk3eURKT0FjdVoxblhWVE0tcVVFbWRmVGYzd2k2Y1NiaXhVLWUzc2xXcW9yMWZWaUhyTk9iWlZrejhLUjZmemJ5bEVibUlMVXFtNWJuSEhEamtrRE56TFlHUGoyc1hLN0U1dlFlSdIB_gFBVV95cUxQRFVRUGJjNGU0Wnd3Y1FHeElfMUtLTXdLdFVOa05TM2c0UnlQM1I5OXhMdnljMUpTRGNkVUZSVURHdUxWSmNhUWdPZUFlaDFhT05fSWsyZm9VbHZkRmctamVCdGRtV3FvVk1jazFSNE1SV3J3OVlCcHlhZDFFOUgyWnl6NGV4cW9NLTZ0NDJNU3NnaHZFbjl1dEtHQVZZaDQ0SnpZeTktRjcyMGRiRWtXUnhsdXoyUU8zc3hUUzltcldhaE9hOVcyZVVHWUxZcnoxdWpvR3NLU19fclFGTV9tWk93T2phN1MxR21GalI0dVFYN3FKblItVEpVb1B2QQ?oc=5"
         }
       ]
     },
@@ -294,6 +258,18 @@
       ]
     },
     {
+      "id": "9060a38d9911",
+      "title": "Crianças com mutação rara que causa epilepsia melhoram após tratamento genético - Globo",
+      "published": "2026-07-23T19:26:58+00:00",
+      "summary": "Crianças com mutação rara que causa epilepsia melhoram após tratamento genético&nbsp;&nbsp;Globo",
+      "sources": [
+        {
+          "name": "Globo",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWGtJZExObTBFT3U5OU45VWdHMGxtdHhsaEFNaTN1ZnpFUDU2LWY2SVNCOTBTUC1kTnhmWWpNOUJsekVmdXNJY0pLQVBsNEdiLXRySkZONVVDaFl6ckJ4NkxKV245M29Bd2huSFBSV3BTT1pHMEZTS1VROWRrQ2RUeXFXaS0wMlVtYUtmRmk1MW85ckZ3c25zOHlaOUZvQ1NfRGpEQzdmcWlMVkhrUzh4ZlR2RFFNdnRuTFVSc0w4SEY0T3N5YnMwLXl0enF4Zzk4T0VTdk5MUdIB5gFBVV95cUxOYlA2T2c2ZUNjUU00OTRUSGpWOU9acUF3T3VRdVNLajhXT3BFNHVXdFo4Yko1WjRoWDc4VldCQzBBMUt5SUV5Vl96Mkg3UVdpRU94QnAyaUhrY1BSbjRkLWtDWldBbF9WUWUxc0VEZDBsV3FDWnFYR0VSZThiQVNHWDNEcHZ6U0hRb1k1THhTODdmY0xPTGUtbThmN1B5ekJiWDZGd05UT1lXY1NJMndkQjlHbTlQZWxJWmNjVXhXZ0s3S3hoSUhBUERMSlhLcVJwWjliWVpYUE55LW9LQXFtemhsdG5sdw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "cd5619578a9d",
       "title": "Como mulher sobreviveu por décadas com um pulmão de aço - BBC",
       "published": "2026-07-23T19:17:43+00:00",
@@ -314,18 +290,6 @@
         {
           "name": "Diário do Nordeste",
           "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUkFSZTg4cDFlb3FRUWN0MktnemRNN2NvWVRBV3dGRDZ3NUdBb0VOdmk5aTJGbXpvWHRHR2g0TFlYMWd5amt1a2VDT1VXWGRSUlU1bDJsUFhDUWFEYm1yX190azBjcnd0QlEwS3M5bHRJV1RWS1NfQ25seXpwTS1CSWFVMHNEUjg0SjBSY1RfaWwyRjFycHh4S252MVg1cEYxX0RxZ2hKSm53MFozYUVKNnRzTkZzY3BFeWd4ODBfOTFhRXp0ZWRLQmw2YjhiOGNmNk9zVXc0NHRXYTZM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "aec53560981e",
-      "title": "Viagra pode combater metástase de células cancerígenas, aponta estudo - Folha de S.Paulo",
-      "published": "2026-07-23T16:31:00+00:00",
-      "summary": "Viagra pode combater metástase de células cancerígenas, aponta estudo&nbsp;&nbsp;Folha de S.PauloViagra pode reduzir a metástase do câncer, mostra estudo&nbsp;&nbsp;O GLOBOViagra para tratar cancro? As surpreendentes conclusões de novo estudo&nbsp;&nbsp;Notícias ao MinutoViagra pode ajudar a reduzir metástases do câncer, sugere estudo&nbsp;&nbsp;MetrópolesEstudo aponta que Viagra pode reduzir a metástase do câncer&nbsp;&nbsp;Jornal O Sul",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbXRmV2d2Y01RcHcwbUNnMy1WQzdhZWxPc1VveUpYQmFwUy1zVzJ6NVBtNXExM2tGZmgzUjRfXzF3ems2Q21ZOEJGdFQydjNmQ2lUSk40WnhwcVYzaDBqTmRPclpWS3FuR21oWXJhcVpPZVVJdFpZQUdoWjEyd19CWGRFR0JtTDFYcEZBR0g4LVYwMWhGa3IwaVg3Q2hMa2tFUTZsVk54UTNrN1EzbXFWZk9WWkhnR0VXQmFEQnBrZGVfS2xUalVkOA?oc=5"
         }
       ]
     },
@@ -354,6 +318,18 @@
       ]
     },
     {
+      "id": "854b2271c3b3",
+      "title": "Viagra pode ajudar a reduzir metástases do câncer, sugere estudo - Metrópoles",
+      "published": "2026-07-23T15:11:00+00:00",
+      "summary": "Viagra pode ajudar a reduzir metástases do câncer, sugere estudo&nbsp;&nbsp;MetrópolesViagra pode combater metástase de células cancerígenas, aponta estudo&nbsp;&nbsp;Folha de S.PauloViagra pode reduzir a metástase do câncer, mostra estudo&nbsp;&nbsp;O GLOBOViagra para tratar cancro? As surpreendentes conclusões de novo estudo&nbsp;&nbsp;Notícias ao MinutoEstudo aponta que Viagra pode reduzir a metástase do câncer&nbsp;&nbsp;Jornal O Sul",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VTkd3NHVFanpoaC1PQ3N4ZmF5QTR4ZmN4SEFtNU5MamVUZi1xbVRFTEJ2LWJMREktSEQ4WWwxcVloRk1EY1k3bjZHUFluNFoxWk1BMTh0QXkwODhkRWFTWmdLbm1Xb1hpeDZOZFdYNEdfMlU4VDZOb1hnWQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "6654646e9dcc",
       "title": "5 conselhos de médicos e personal trainers para ficar em forma aos 40 anos -- e evitar erros comuns - Globo",
       "published": "2026-07-23T13:26:17+00:00",
@@ -374,6 +350,18 @@
         {
           "name": "Globo",
           "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVUVuOW1PYjdjMk5YbXNtY0UxWl9fcHp3ekxzbVhGNzczemhpa1B1X2JydWotQndKTFhGUmR2Yl9ra0w2RThMSFNoU3hHTmRKdUNTY0NlZngzOVIyaWxFdFBHMXg2dzdsOTg3dEdCVkQxSzBIZHZOREc1eld4c0JzXzQ0ZUlKcG1TaFdORk5mT0owVHdZX0ZfN1NpUS04WWxSWXVjWXdXNTctY0Y5VUh5bnNhNnNrZ0FYSFM2VEdnTHhkUV9JSHhsWnRBZGVMbXctaHg0bmRmcDE3TzJpT1FnWHdvd9IB8gFBVV95cUxOeUZQbW1JYXFfNUNDRmM2MHVEZXRGY3JqY25Ya1NJYlJTQmpDSWpjMU5OVXNjTXZ3RTI2Z3p1T09HVWVELW1zS2ZkWXE3RW9CNm0wLWdQNUNTUFdSTXhLNkRkWTlUR0FhUGRsRW1xcnJWLS1QQ290bTJsODRoYi1ncWdfZUF5VTI2UjhMMXY4cnJoMFpaRXRjMnhrNFZPNG9ZbHBhekp2bHJ3LVNJYUNualB3YkR5dGJ3RlVTeFZrZ1AtUTR1Y0F1N0lfZnpOMy1xYkdsdFZEZ2thNElIR2ZXOGdHZVlCX1J2a3psSlFVU0VGQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9ddf2c67ce7e",
+      "title": "Por que o canibalismo desapareceu em sociedades humanas? Estudo investigou - Globo",
+      "published": "2026-07-23T12:43:33+00:00",
+      "summary": "Por que o canibalismo desapareceu em sociedades humanas? Estudo investigou&nbsp;&nbsp;Globo",
+      "sources": [
+        {
+          "name": "Globo",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRmhXZG1EbDJKQ1l3a2dkQ3duNUVPcmVCSE4xLWZ4SG1tUThXZHVZaThKLTFoNDFmdU9pUGtaX2FQXzU0N2xnYVBPR21RamxIQkV2Q2tXLWFzYkdYNnhuaG41aEdSbU9VRWpyVnB1SWNSMkQtQkNrY2RhVDZVVFl1Vnh6YXIyTmFJYW9mcC14cGlKMFFVcmNsc1FBTXRhZ3QtRzJSTkZmNEhIYnpVMFd2NXVZRTRia1UzaHk4ZTlPYWxDbk03aE9GMHBRUExybzVtQ0HSAeABQVVfeXFMTS1YMXlNanl6WjJ3Uk9CMDFCU0VBX0xDNWhpdW96Z2czSjhUc1ZGcWYxLVNWMkJZRE9HbmtFMXkxbnJrSEdWbU55Y2hxRlA4RUtTU00wME4wOUF2cklTbEdWejMyajR0Q3YyM3AtVmhPQ05HQnBGOV9IZnBsSFUxLXNIbHg1SVFrWGRPNXgzZXd3M3Y4Tm4wQ2xmTk5aTWN0V2J3VDE3N2huSU9wRGNWQkV3VVFRd0dKZ2ZxLWg2akJsY2xHUkVVXzg2bTlzUGNocFY5WjJrTGt4RjFnMzdQWUQ?oc=5"
         }
       ]
     },
@@ -410,30 +398,6 @@
         {
           "name": "CNN Brasil",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWVMzazU0a09iVHNVVVVxVEJEYjFEcGNEYjBUeHpnSkp6Q2RmMzNtX2tPNVN0UldsU2pzVEVBZ1VBYzN5RkJ0bExUVW5USFhPR3BVRGlyQlZMd1VTY3UtVHVJZDVZSXc1UUJYUDBaSXdZT3NoVzR0Umh1MDVVUktsSHlZNTZCcmdpNmVkUzU3RHlCWTlNWk40UV9mcWt0ZDViaWRTeQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4bc0efcb059b",
-      "title": "Queda de cabelo com canetas emagrecedoras: por que ocorre e como prevenir - G1",
-      "published": "2026-07-23T05:00:09+00:00",
-      "summary": "Queda de cabelo com canetas emagrecedoras: por que ocorre e como prevenir&nbsp;&nbsp;G1Canetas emagrecedoras aumentam risco de queda de cabelo, aponta estudo&nbsp;&nbsp;Folha de S.PauloCanetas para emagrecer causam queda de cabelo? Entenda&nbsp;&nbsp;TerraComo canetas emagrecedoras impactam na pele e cabelos&nbsp;&nbsp;Tribuna OnlineToma medicamentos para emagrecer? Tenha atenção à queda de cabelo&nbsp;&nbsp;Correio da Manhã",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb2RJcHcyWHVpNXJVS3Y1N25VOWF5dWtzY2R1LU8wTDV0cERSWjhuOG5YU0JpWmlOTlRlQjRURjk5N0stUF9vRDhmck9yeTNBcmRDbGZ3S0VXYjN6U3JTR2Z4eHNGelpoOGNUV0NjRzktSHdIZTBPSHpxRDFETTgtRWFzNkpNYlloMXMydzNlZGdSSVp6clVoWlduRGlVSGRvVDFfQ1l6ckU4UTlKbDFFUW9oLWtrN0VEUlJpVkR2RDRYUdIB0AFBVV95cUxQWENkNWFwMjF1Ti1acE52NjhTQnVwZTFxUlV5dzBhV2hSa2ZXNlc2enh1VzR3UWRXcjdFY2hzWUNiMy1XeGEtSFhUTE1fekg0MDgxNEZVX28xUnB1a0J0TWVfS1hqakV6ZWF2SWcxWWNYLXRhakJYVEU1MXIxcVZ0M092dmlVdk9kZDBXSm5SVHFBWVBmSENuSzdtZVdvRlJPN19zaUpISzFsaXlDOEhYTlRvQ0xMLW9QR1FaNzJHTU1xYmdXNmNUTjkxRGg0TnAy?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7e6aef113895",
-      "title": "Por que mais jovens estão tendo câncer? Estudo aponta envelhecimento acelerado do organismo como possível explicação - G1",
-      "published": "2026-07-23T05:00:08+00:00",
-      "summary": "Por que mais jovens estão tendo câncer? Estudo aponta envelhecimento acelerado do organismo como possível explicação&nbsp;&nbsp;G1Fernando Maluf | Mortes por câncer colorretal crescem entre jovens no mundo&nbsp;&nbsp;Poder360Câncer em jovens pode ter relação com envelhecimento biológico acelerado&nbsp;&nbsp;Diário do Centro do MundoJovens de 20 a 39 anos estão mais expostos a ter câncer do que idosos; entenda&nbsp;&nbsp;Jornal da FrancaMédicos explicam por que câncer atinge mais jovens&nbsp;&nbs",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNenRxaGlEYlQ5aDAwUnBmb2gtcXJ1V1NVYUMzYWdvWTFWT2hIdmNVVmpmaDl6Vlh4RmI4T3VIaE5ZUXZJY2QtRzFuRDVLemZxQUhBQlBqVWlFcloxVXg2bHg0cXpia21tU1dDbGl6N3EwZE8xZHlzREpNU011cFRlQzA3QVFNTXRXdWlVN1UtY01iQmxqRm5EM2xTbVcwQm1LeUhfR0Z5NUZWRlJYZk9uVWZrczJPa1JrV1Q2WXNrZHc2UG5BcFdlRzMwb2tqMEJJNklnZ1Z4ejhUWDBDMGlTTmJCMEV6QVpHV000REdiUUlEdHU2VTZuSF8zd9IBigJBVV95cUxQa0FjeFVyNVcwRmJtSGx1My1SMmllODRaN2c0cGw2NFhWT3BrR2E5ZFhHZzI3NVc0bjJFMG8tY3JTb0djOF80cHJXOG54bjlhVTdyUDdENXk4UlhfMklFanVLbG1TNGd3d2ZZaUVoVU5WVHpXRnd2V055cXc5Vzc4eTBraWN5LTNaY2ZzUWw3LWJINW9KaWhPYzFOdzdPMlBTOF8ySDAyejlFVnE3dmdMT0xrVGNybXZBZE1zRzZJMm12T1kxeUtIZXQtVWRwY1ZuT2xOeGtUV0tsaVppeDhqakNzWE5NcnZzSTh1dW0zTzhna0hGbU1XR3UzUWFqb0g5VDBKY1FMMmtDQQ?oc=5"
         }
       ]
     }
