@@ -1,10 +1,58 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-07-26T08:28:00.275677+00:00",
-  "total_fetched": 90,
-  "unique_count": 89,
+  "fetched_at": "2026-07-26T13:25:39.371215+00:00",
+  "total_fetched": 93,
+  "unique_count": 92,
   "health_related_count": 30,
   "news": [
+    {
+      "id": "79e3586d898d",
+      "title": "Com novos tratamentos, estudo propõe mudar critério para identificar pacientes com forma mais grave de mieloma múltiplo - G1",
+      "published": "2026-07-26T07:00:59+00:00",
+      "summary": "Com novos tratamentos, estudo propõe mudar critério para identificar pacientes com forma mais grave de mieloma múltiplo&nbsp;&nbsp;G1O que há de novo no tratamento do mieloma múltiplo? – DrauzioCast #264&nbsp;&nbsp;Portal Drauzio VarellaNovo tratamento reduz em 83% risco de avanço do mieloma e busca cura&nbsp;&nbsp;CNN BrasilMieloma múltiplo: Pernambuco concentra 15% dos casos no Nordeste de câncer raro no sangue&nbsp;&nbsp;Diario de PernambucoTratamento reduz em 83% risco de progressão de cânce",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOQjU1YVExOTJyUHdvWGUzVXV0dl9rdVNiWEZ4UUlpQzV4ZWdQcjgzNzh3LURSaXV3OGd0U3BlOV9VZnRlcDJWdVFwZmJmYXRuM3JxV3pKdkNFa1M2d05DSkJyVWlxUFlEdjA5ZGoyWlR5bnBjYWdXc2FRZzRvR0xValYwSjRVTUpvY05vRVAyZnRnYXRyLVJoTFpheXI2dUs5Tk5Xc3QyT1c1bVY4bkc2RXZHZldXcXpHcDZKRHFQajdLNXRRcm9vYWZmRlZFSmtqMEhUQzJGbEMxSG5ycjlDbjhaa3dlS0NhUkFxemw5SlZCR3Fxa0Nla25zNzdoclHSAY4CQVVfeXFMTWpDU05ZbHhtZE1VNE50ekw5RzRwVG1QWmhDS0x1WjV6MktjVU51QVJ0Q05waXVHMXdrTFRmUkFmRG9IWmpfMTY3MEpwbFBOV2pNTDhiM05oN0pYZGpJeUV4Q3lFUm9BTHBEVjViOTg1a1pKRFRsOUFBblNvNUhiVEg5ZWpCMko3Y0pEemk2cjdZNnlSTnVVazhtdWp6eHFkVFdJaFVvLUtrQlpvQUVlR3F4SDVqc2FhcFBZdWhxRlhwSERRSVIzVW1PZjUzY3oyTVFKb01FYXMwS3Fnbk9lbjhJWHFUUXJYakxEb2tRcWhvVmFBRjJsNUh2allyUV9DckFGenRXWDZNSUJkcTBR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bd896afbcb5d",
+      "title": "Gelo nos testículos e doação de sangue: os mitos vendidos a homens que buscam 'melhorar' qualidade do esperma - G1",
+      "published": "2026-07-26T07:00:32+00:00",
+      "summary": "Gelo nos testículos e doação de sangue: os mitos vendidos a homens que buscam 'melhorar' qualidade do esperma&nbsp;&nbsp;G1Razões inesperadas pelas quais os homens experimentam uma diminuição na qualidade do esperma.&nbsp;&nbsp;Vietnam.vnEsperma faz bem? Veja os mitos e verdades sobre engolir sêmen&nbsp;&nbsp;Portal UAI",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNLXFyNEltV09saDd0VFhpb09TWFFJNG8xcS1RU204WnF5QVlKM3puZTgzVlEtMGowaHBVRzlENmk3TG84SWVreXRBX1RyNGNKREpqSkl2c2JvWWdIYVpMdHdMUmhDbHJGSDZYMTduVmdMNm9EY2NhNG15V0UwRWtpeWxRQUhXS3hnTE5IN0RqdkdXb3VrU3daSzI3eGktajhLZy12QXVROFhDalBueTRuQmd4NVdaSlRXcHoxejdfcDBZdS0yU055SDRQQUR0ekFKc2JZSno2M1g5RnJBNGlJNUcxeWNKVFVZYTVyMlVBVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ce0145e8ffc3",
+      "title": "Artur Avila: Único brasileiro vencedor da Medalha Fields, matemático segue em busca de descobertas - O GLOBO",
+      "published": "2026-07-26T03:12:23+00:00",
+      "summary": "Artur Avila: Único brasileiro vencedor da Medalha Fields, matemático segue em busca de descobertas&nbsp;&nbsp;O GLOBO",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPMlBCRWNubjNBbWFUemFXUG85elZmMmJDSlZPM2doeTF4OEhEcERCQnlfMGRsOXdNQ21RVW9zd0tvSW54NGt5bnB2aDltX0d2dDhYQzNrWENfYnI1SkJHbTFmbDRCbkdhRTVqeEhrSXdoMlFEZHFPNmFjRkdPQVZtUGtwenNiVldRcEczTEExMURTdXNvQW16SG1zSzhITnNNMV9tUTJBalNyZXBRREdtVTJYS2ttUG5XMGh2MDJWcy1DUTdtLUVwZmo1bVlKMXpzcHdYOTB1ZHBTY3ozSU9VTWNWR1pHMWxncXhxYmZUV1d5RGRY0gGDAkFVX3lxTE1fa19QTWxXQ0xGRXZkaVNYN1BJdzZFWV9VZEllcWxEWWkyYm9OS19Wc2JPR1FacVhGOGdWUU1sS1NwLWh4alQ1OHNzdXItbVEwUC1YVVpqMU5VZ3hZaS1UcGVLbHRnc3ZmNWNabTMxMi1UQVFCNVVUTWFIT0UtWlBMNFFLcnZSbm1xYzJyYUh2enZPU1dyZ2dFZXVKc3lCbGRvZzBuc3VWYUExeWZDZ3B5dTVIZ0lYbmZURWVEUTB0Xzd2TFNfcFZVS2pDaHdPU1F5VVFORWtYOTZoU0ZFMzdCcFlUMHAtNXlTLW02OFlFM1BQMzVYa0RKcTZRS3hDWlVPVUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a88d1f7be874",
+      "title": "Análise de esgoto revela hábitos alimentares e abre nova frente para a pesquisa em nutrição - Folha de S.Paulo",
+      "published": "2026-07-25T21:00:00+00:00",
+      "summary": "Análise de esgoto revela hábitos alimentares e abre nova frente para a pesquisa em nutrição&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTDJxLUVuWnc0Y0FtTkZwSkZyMFdKX3ZMNlZIbHhiSGprT1BPcmtwQTVzMGlpRWFkZ2lMUjhtM2tRc3dLRzhRYTdMeWhodU1mdzZBT3hUY2pPOGh2NkVQeGVLRE1YaGFfb3VjRzlVZmxyd0ktYjBLTFdjX0FBb1ZqWFUxaXJGVVlSNjRBVXVCY0I2OC1RU0lkSVM4YW5CVDVXQldidEJReG1IVlVQRDhhTXN5d3hwQVA0TVhnLWZ2dlhhcVpmSkt1U29CbzhvSjgwZV9yd0s5aFpWc3FHVU5xSG8yOUlFcUU?oc=5"
+        }
+      ]
+    },
     {
       "id": "4ec2a7184386",
       "title": "Suco verde faz detox? Médico diz que o verdadeiro \"detox\" começa quando você abandona estes hábitos - Jornal Correio",
@@ -21,23 +69,11 @@
       "id": "6521553d5428",
       "title": "Influenciador Ken de CG é hospitalizado com infecção após espremer espinha na boca - Terra",
       "published": "2026-07-25T19:18:00+00:00",
-      "summary": "Influenciador Ken de CG é hospitalizado com infecção após espremer espinha na boca&nbsp;&nbsp;Terra'Ken de CG': influencer é internado com infecção após espremer espinha na boca&nbsp;&nbsp;G1Influenciador Ken de CG é internado após espremer espinha na boca&nbsp;&nbsp;UOLQuem é Ken de CG, influenciador que foi internado após espremer espinha na boca&nbsp;&nbsp;R7 Entretenimento‘Ken de CG’: influencer é internado com infecção após espremer espinha na boca&nbsp;&nbsp;Alagoas 24 Horas",
+      "summary": "Influenciador Ken de CG é hospitalizado com infecção após espremer espinha na boca&nbsp;&nbsp;Terra'Ken de CG': influencer é internado com infecção após espremer espinha na boca&nbsp;&nbsp;G1Influenciador Ken de CG é internado após espremer espinha na boca&nbsp;&nbsp;UOLKen de CG é internado após espremer espinha&nbsp;&nbsp;Campo Grande NewsQuem é Ken de CG, influenciador que foi internado após espremer espinha na boca&nbsp;&nbsp;R7 Entretenimento",
       "sources": [
         {
           "name": "Terra",
           "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNSzNUbWxJTjZvNk5sZk83dUV3ZDRvVTBIcElxTE1RdEZIX3R3TVNWUy0tVGpiUTBtMGRzWEt3cXhWTEI5a2drSHh4cHpWazdMeVlvLXotbzRMOHp5aldMT0hreFlUeFY3Q1BKN2RReXZSbEVpOHJLRkxtVDZGTllPaVY4bVVablc4NlpkS3NrT280d1pLTmpzMGYxWDJIcHdKMERPczJiLWVrVG5CQ2YxMkROZjVkZUluVzVBbGtNdDRFR2VNcFIxdHhnWnduUG04WEIyUE00NkE3SnN1Y1Nzc0RKQm5wUlB5UXpzalNYRVh5LUFSOER4Z2NocGRSZTZ5TzNv?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "94d2fc562b20",
-      "title": "Da saúde ao abastecimento: veja o balanço dos prejuízos após devastação causada por temporal no interior de SP - G1",
-      "published": "2026-07-25T18:22:12+00:00",
-      "summary": "Da saúde ao abastecimento: veja o balanço dos prejuízos após devastação causada por temporal no interior de SP&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNR1hpVm1Rdkp2ODlRUDg5WmNkd0ZlMTVqX1BuYjRWQ09xb3VDakRDQ24wWEdpMHJIZFU5eGRiMUZHSHJRY2pSRjdnZTBvLVd3NlNraVpOUlVOMEo4bldOcTNkTlFkdElyNU45akxQY3RuWG9pQk1lQ19iSWFDNmc5bGk3V3lJNzBvRi1EMWlWYUJ0eTVwdDhjRWVYaFIxOG45RS14MEFqN3BvTVZiNTJFNDRoN00tU0s0TnBzTDNXdk1sdFhmQkxfbGZ5ekVZQVBBZTZral80aFJVT05hbGVuRVhtTkRTNzJuNnJxeWl6SnByalNVdlFrcXJEcXVuM1RGTlp2X3VRbng5Mnkt?oc=5"
         }
       ]
     },
@@ -62,18 +98,6 @@
         {
           "name": "Olhar Digital",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaF9YUkFVc1Q1TnNiUWdkR2xLSEg3UE9zWDdTR0lUQ1hqdGtkSjFPUm4yXy1aVVZkdldrZE83NDhTOUJhWFl0eEUxX3BhY09rSDJ0LXEtRF82UHZwa25aVmROYWxfbktKMm5YVC1LNGNyWWlPS1FyUDNNS0NSSG5EN3Q5ZkRPaWFneWV5akVNb1hNUTE4Z004LUlTSXNqWDEyNTliOE9wLWV5VUxiZFI0aFJpSFU2cFg0MHptc1FObGYwWjFseGlUb0ttSQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3b5788257fe5",
-      "title": "Humanidade pode já ter abrigado 75 mil idiomas, diz estudo - Aventuras na História",
-      "published": "2026-07-25T14:56:26+00:00",
-      "summary": "Humanidade pode já ter abrigado 75 mil idiomas, diz estudo&nbsp;&nbsp;Aventuras na História",
-      "sources": [
-        {
-          "name": "Aventuras na História",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVlBWZ19ibjVoRlQ1VzJWdlJfbWkteUZZQmRRWi1pNENpcXp1OWFjbVZqaGZFMTRrbnh2MlJHQ0JCYVhCalZvbjdRanZxcU9CZ29Cb1BObUdwY3NKM3BoRC1kTnFhVXpPbUhGMHIxWHV6eFR1MDNFUWhTbjc2MW50ZFROdEpVS2taRklqRjE3X05sd00yWExtd0thNkUwajV6VndLTDVKeTJFYzFzNHNfRGs3dnVIaXcyUzVGbTl3?oc=5"
         }
       ]
     },
@@ -138,6 +162,18 @@
       ]
     },
     {
+      "id": "214830f3356c",
+      "title": "Calor extremo e seca: Amazonas pode enfrentar trimestre com calor extremo e menos chuva - G1",
+      "published": "2026-07-25T08:00:13+00:00",
+      "summary": "Calor extremo e seca: Amazonas pode enfrentar trimestre com calor extremo e menos chuva&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNR21lYU1iOFlfMGZQRXBwUVRpRGdhek5NazJGS1VpZGZCcURCS1Uwbm0yYjhUNk51dFU2M1BEdTJPLVJoSXNSbjU3cnFlLUFkcTRyLTVWY0RpSThnTHowWENKMGkwU01XcDhIRnczTUp4dFRDM0V1cGhWY0dGZ0ZtanVrR000b29SYTl5QXhZM2trTmFaZUlxVnpVcEtYU3pnTE1acUR0SVlsbERrVWRwVjVtQ2N5bjlUWTVtSzZJVTJ1TjdhTExMR0d0bVlFTzZLWnFPZm14c2dPbmNx0gHrAUFVX3lxTFAxRlZhb3Y3VktRNmxsQm1Ta0xVcXg5QjVpYzJrb0hsdXdlcW1rVzllVVR2d21Yblg3ek1zQklhZE15R2FLLWxoNkE1VHRnTUY5YUx5UG83eFFqSm9xS3QxY0RLT0tNaWNFOU95dHRyOGhDclhnSUtKRjg0b3FidXljOWw3blo1c2E4d1ZidFhXdWZqdThLZzh6R0M0ZGxpWjhpZDVsb3VUcjBISHRxbDB5VW5nclNDbU53cmc4TkFiYXZxUW1WSEI1OG1iSmNDQWU2V0VROVZIdEtZQUUzTmdJYUpNeUl4MWFpckk?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e12baa035fe4",
       "title": "Geometria pode ser instintiva: estudo encontra padrão comum entre macacos e humanos - G1",
       "published": "2026-07-25T07:01:49+00:00",
@@ -153,7 +189,7 @@
       "id": "1b9ed5be7910",
       "title": "Cinco exames que toda mulher na menopausa deveria conhecer - CNN Brasil",
       "published": "2026-07-25T06:43:44+00:00",
-      "summary": "Cinco exames que toda mulher na menopausa deveria conhecer&nbsp;&nbsp;CNN BrasilMary Claire Haver sobre a perimenopausa: ‘Imagine quantas mulheres estão sendo negligenciadas todos os dias’&nbsp;&nbsp;GloboMuito além das ondas de calor: como a medicina mudou a forma de tratar a menopausa&nbsp;&nbsp;ICS – Instituto Curitiba de SaúdeA menopausa não é um colapso&nbsp;&nbsp;futurehealth.ccMenopausa: 10 mitos que toda mulher deveria deixar de acreditar&nbsp;&nbsp;Exame",
+      "summary": "Cinco exames que toda mulher na menopausa deveria conhecer&nbsp;&nbsp;CNN BrasilMary Claire Haver sobre a perimenopausa: ‘Imagine quantas mulheres estão sendo negligenciadas todos os dias’&nbsp;&nbsp;Globo.comMuito além das ondas de calor: como a medicina mudou a forma de tratar a menopausa&nbsp;&nbsp;ICS – Instituto Curitiba de SaúdeA menopausa não é um colapso&nbsp;&nbsp;futurehealth.ccMenopausa: 10 mitos que toda mulher deveria deixar de acreditar&nbsp;&nbsp;Exame",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -186,13 +222,13 @@
       ]
     },
     {
-      "id": "cb76ab14be10",
-      "title": "Nova espécie de aranha com “carinha feliz” é descoberta na Ásia; veja fotos - Globo",
+      "id": "00bb329fd1d0",
+      "title": "Nova espécie de aranha com “carinha feliz” é descoberta na Ásia; veja fotos - Globo.com",
       "published": "2026-07-24T20:36:11+00:00",
-      "summary": "Nova espécie de aranha com “carinha feliz” é descoberta na Ásia; veja fotos&nbsp;&nbsp;Globo",
+      "summary": "Nova espécie de aranha com “carinha feliz” é descoberta na Ásia; veja fotos&nbsp;&nbsp;Globo.com",
       "sources": [
         {
-          "name": "Globo",
+          "name": "Globo.com",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNi1pQ2dtUDJYTk1lXzF3bVdmMkNneE5kUWQzN2ViZ1AxYlJHd0ZuT2VVUHNfZWNTZEpVWDg5b3pkWktkYTdzbHBxTXlIbUpFc2E2blY3M0FfTlRiNkxhdzdPcHdFSzlmU3ZSM1JtZEZMbUxRWUhvV3h6Q0RWMjhLckxrYW5NTXN3SHNYWFpudjViZ0s4aWtfREZOeFQ0b050Y3ktMkU5WHRZbkk1dFdfbUV5QzZBM1U4WUYwdl9idEhPRnpJUjNNc2F5RDduMmtl0gHfAUFVX3lxTFBaNVRxZUxYVjhwdXFuV1B2VVhVOGh3YUdOdDYySnhCLXBqdkc0cjluQWwyc19lUUNXRjdZN0NMTEd4MlVtYTJraTJPS3BIUXVBdncxSVRHZDlfZV9SNG9JWXZDZ09NOWlZSHpRS2l2WnpPa0luUjJVNEN4UHkzWjA2YzZySEU5aTVMclJrTU5Oei1xOG1MRFdOZGRJMFF2QU8zV2s0Y3hRY19IX1oxLUNzcnExazZtSG5LY3RrdnVPb3NpckhxMUFiNHN3eVJoMWdsTEtKanlWbG8tN0l3NUk?oc=5"
         }
       ]
@@ -234,22 +270,10 @@
       ]
     },
     {
-      "id": "ffd214019900",
-      "title": "Acidente na MS-080 interrompe trajetória de veterinário referência em pesquisas - O Pantaneiro",
-      "published": "2026-07-24T19:11:00+00:00",
-      "summary": "Acidente na MS-080 interrompe trajetória de veterinário referência em pesquisas&nbsp;&nbsp;O Pantaneiro",
-      "sources": [
-        {
-          "name": "O Pantaneiro",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOazRWZGJpRFhfMmUzYU9NWUl0T0VyNGc5dGdHbFU1ZlMtSE9QZzR4YWdsVzNUX0VnOXB3czQ1M2J6SU9YWmpjWk44UWxRMUNxWnBUbTFWMDFraXpqeWlCd19Db1NVRS0teEl4dDcxOTd1QmpQQnBwR0VwYWVQYm1Rc2E4Yzl1bGNJTVNteDRUUGhxLXo5aUpxWERUZmNxR1JhYlRkNHV3X2hobl9Pd1Q3Y0tR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f513a6451f2d",
       "title": "comunicação sobre a implantação do CNPJ Alfanumérico — Empresas & Negócios - www.gov.br",
       "published": "2026-07-24T19:01:00+00:00",
-      "summary": "comunicação sobre a implantação do CNPJ Alfanumérico — Empresas & Negócios&nbsp;&nbsp;www.gov.brSITE - Calendário de Pagamentos INSS - Julho 2026.png — Instituto Nacional do Seguro Social - INSS&nbsp;&nbsp;www.gov.brDF orienta atualização da caderneta de vacinação infantil&nbsp;&nbsp;Jornal de BrasíliaVacimóvel leva campanha Vacikids para shopping em Juiz de Fora&nbsp;&nbsp;Rádio ItatiaiaGuaraí institui estratégia para ampliar vacinação de crianças e adolescentes nas escolas&nbsp;&nbsp;bombabomb",
+      "summary": "comunicação sobre a implantação do CNPJ Alfanumérico — Empresas & Negócios&nbsp;&nbsp;www.gov.brDF orienta atualização da caderneta de vacinação infantil&nbsp;&nbsp;Jornal de BrasíliaVacimóvel leva campanha Vacikids para shopping em Juiz de Fora&nbsp;&nbsp;Rádio ItatiaiaGuaraí institui estratégia para ampliar vacinação de crianças e adolescentes nas escolas&nbsp;&nbsp;bombabomba.com.brSAI - Notícias&nbsp;&nbsp;Prefeitura Municipal de Mata de São João",
       "sources": [
         {
           "name": "www.gov.br",
@@ -266,6 +290,18 @@
         {
           "name": "InfoMoney",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0yZ2k1R0Vma2I2d0VwWm16bnN3VUpQZk5YMjEyWlZSVTNQWUprMnpZWVNhTkdsdWdqRDlTd3FIY2k2cVhrUzNXX3BCVTNxTVdzdm50VUlTV3AtWTltYzN2SWxMUkJLa3k1dzl2ODFFeTVJX2FzY1owN9IBfkFVX3lxTE1nQXg3OHJLczhRVUxWblNqLVJJeTJQV092cGJNYUNtN1pkZjJqamFWYjFUcTAtdldGSzB2M1RzM2FqSmN1MGsway1iSDRHSGJfOWpwY2VPUnJ0UEcyRlFEaWR1TmhtV3ZxN05TSXJuaGVWb3JYQWpnS3dDZnlEUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dbed7a39eb56",
+      "title": "Morte de criança é ocultada após terapia genética experimental na China - Folha de S.Paulo",
+      "published": "2026-07-24T18:29:00+00:00",
+      "summary": "Morte de criança é ocultada após terapia genética experimental na China&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRGw1eFRQM2UyMXlLWjdqcjdYd1hxTDZQN2JjLUxYc0g5NEZTUGNhZktJS3dQUDhTRXY5cExlLTBTanVmSktyQ2ZTLUlYa2swTm5wa2xNVE9Za1ZlZmxPekpVNXNNckhmVkh2Qjg4ckpqLVlLbzhtNWMxaWVNQjF6Wl9xT2VndlF2aFVpZ3JmUFFaazBaQnlFZklsMjlFRnJxd1JpT3JUemNlOGl1NmZGRWNQZ1h0Vy1jb2tFNjlQSnFydzBGMWc5YURtV24?oc=5"
         }
       ]
     },
@@ -306,38 +342,14 @@
       ]
     },
     {
-      "id": "4c124f2ad7a1",
-      "title": "Menina de 6 anos morre após tratamento experimental de edição genética na China e abre discussão ética - O GLOBO",
-      "published": "2026-07-24T14:54:43+00:00",
-      "summary": "Menina de 6 anos morre após tratamento experimental de edição genética na China e abre discussão ética&nbsp;&nbsp;O GLOBO",
+      "id": "42323d2021ff",
+      "title": "4 pesquisas científicas que pareciam absurdas, mas tiveram resultados brilhantes - G1",
+      "published": "2026-07-24T15:08:10+00:00",
+      "summary": "4 pesquisas científicas que pareciam absurdas, mas tiveram resultados brilhantes&nbsp;&nbsp;G1",
       "sources": [
         {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQzlBdXVaTlRBT0JiVWQ3RkdveDkwaHZwcHI2MTVFTnNzdGZjQm5SUlZZUk5lTGJBQks1dHJmS1FpeWhSR25XT1NoamJmdGJibVM2V2g5V0lFZVcwT3hZMmxXazVpYnA3S3VSbjBrVU5Zd3BROWtZaTFZTW5sZjJmWnRCc1ZQZkFKRTE0aWI0c0VtemlmR2sxWmo2UDFFeVJ2R0swbUZWQWRDMGlYVWljcU9FSGY0VjZvWU9vVkt0Mnp0YUgxRTA5T1hKWWZwdlVIMzNZX2VDaDdOcVVRR19vcTlfc3NYMEthMVdUY0hPSdIB_gFBVV95cUxOc04zWTNYR1JRNTB0SERWZTBSWlFZbFNFbVQ0N0dfbVFNWHhoZlRmdDFMVHh3X2owYXlsR2tXekJRdFBvRjNUc2gzRlhxZzZFYTd5cFdwdzB2MWNUYkM5Ti1EbHljcGJ0Z3lLODZxVGlBeTduNFk3VVo3U0pBVm8xcjRQTmhqdDg1c00wamo3TUpzTml1TEN1WDl2QUc5dXkzZ2gwQ29Ga2JwVFhvUHRuMlY5a182YkV0c21KejM3VWFQZnN5Y0JzbGJTdHVTTnJuRDRqVngxeVZKbk1QWTE4UGYxZ3VzeFA4dzVyTk9Ib0xtTlA2aGRQNFlpNDRoQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f8e086eb349a",
-      "title": "Quase metade das Américas convive com doenças neurológicas - SBT News",
-      "published": "2026-07-24T14:41:19+00:00",
-      "summary": "Quase metade das Américas convive com doenças neurológicas&nbsp;&nbsp;SBT News",
-      "sources": [
-        {
-          "name": "SBT News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV2xOV3FtcnZtWWN4WXlhZ3FYcUxpYXlheHJMdzZVaUJ3Sk1GMHFiazk5U01kWGZQbmM4Wmt0NUVXZkRpVFRWS2NVVnRlLWpMZmVkMjIyS093dEZMSm1tcVpBejFKMERnSlVqMEtqbVZSUEJJdFA2N2k4UzRobWNKcnlQcjM1U2pYRW9FcGJHN0gwSXdRbmJrOTU5YjhlSmVN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9a69af047dd6",
-      "title": "4 pesquisas científicas que pareciam absurdas, mas tiveram resultados brilhantes - BBC",
-      "published": "2026-07-24T14:31:21+00:00",
-      "summary": "4 pesquisas científicas que pareciam absurdas, mas tiveram resultados brilhantes&nbsp;&nbsp;BBC",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5idlU2RkVjci1tNjB6ODFzcUJYTGM0Z3FBOGlSTTVMWWZZV3kycE85d2JLTmJVM2pVUmRqZDJKd0I3a01FRi1rY2FrY3FaUi12ajJEYzNqNjZXQU1sMWVUTUNR0gFnQVVfeXFMUGdGNG12d0RvWVZmLXlMcWlkTTF6OGxobUxXLWRWdWJ6Vl9UdE9pQ3loaVZsRFVVMTVaRkk5OElYS0JYMUc0S25CaUdiSVkwRnljeVJzMG0wdHl3T01uenZkcjYwcWJPTQ?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSjNVcmt6NldYal9xdndJc2h6bTc3Uk9RdWEtWncxMF9HZXlKWklpNnRhSlUzZnV6RXl5clE5WExkZW9KandwelR2UTlkQXVHWEhxbGlzajRndGJHSGlDNFlvODJfQ29WeDlJLUxOU0xDM3BYYWI4bmpmdDZGSnc5eXBzdXRUZmFRdGExUmhsazN2RDVsVmtUTnR5dkIxczlnRkc4a01DNGZoNWhCU0x1SktjaUxnVTVtWWQ1QW50VHVRUXRsMVpzNHl3U2pRUdIB3AFBVV95cUxQU1hld3piWjZDajZoY3FnaExtc0JyZlZhYmNzWjJ5blAwYjhaRnp3dEozRWpvNHNDWlVmQmpPR2NiRk0tR1FJbzdTM3ZTNlJjU2l1d1d5a3d6Z1JiVHZnSXJObk5QTXJOZk55QzlsMG1mMmRGSlQyVVg4WEN6MldfQjVRSDY5MmtiOWMwa0JKNVBLeXJFRzZpbnpOV0VIZS1VT1RnZDF5NFRPaHI5NXhDRGhrQmdjUF9uTkpsc0xhcFFFWnhWVmxHakNmcUFQZko5NVlHbTJuYVVjVWZI?oc=5"
         }
       ]
     },
@@ -345,23 +357,11 @@
       "id": "4c5a0fe14c3e",
       "title": "‘As pessoas que vivem mais não fazem exercícios, elas se movimentam de forma natural’, diz especialista que criou o conceito das ‘zonas azuis’ - O GLOBO",
       "published": "2026-07-24T13:49:22+00:00",
-      "summary": "‘As pessoas que vivem mais não fazem exercícios, elas se movimentam de forma natural’, diz especialista que criou o conceito das ‘zonas azuis’&nbsp;&nbsp;O GLOBOEspecialistas em longevidade revelam: pessoas que vivem mais tempo quase nunca fazem academia, mas moram em lugares onde caminhar faz parte da rotina&nbsp;&nbsp;Diário do ComércioCientistas analisam 124 estudos e revelam o que mais aparece entre quem vive até os 100 anos&nbsp;&nbsp;Dourados News#pessoas que vivem mais tempo&nbsp;&nbsp;Ca",
+      "summary": "‘As pessoas que vivem mais não fazem exercícios, elas se movimentam de forma natural’, diz especialista que criou o conceito das ‘zonas azuis’&nbsp;&nbsp;O GLOBOEspecialistas em longevidade revelam: pessoas que vivem mais tempo quase nunca fazem academia, mas moram em lugares onde caminhar faz parte da rotina&nbsp;&nbsp;Diário do ComércioCientistas analisam 124 estudos e revelam o que mais aparece entre quem vive até os 100 anos&nbsp;&nbsp;Dourados NewsOs 3 alimentos que aparecem no prato de que",
       "sources": [
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOcXRfRklmRFI2aS1fN3pkQlY1VHhJMEhGNFJHSHI5R1Y3Q09FaURIN1BPYzhtR3NDUDRtVWlKNGVJWmYwRmtkTTlLRHkwTjYxbXdkSzNtV2FDejFyajZpcmVScF9DWHZqcEp1UnN4SW5XcEEzQWRWT3lZT01iLWN2aTl2b04tZmhtUWhjNDMtS2EyTGhoNk5rai1nTE42YTNhdkw5b2w4TVZBN2R6VzhYeDdzVEJEblFfQ0pfOS1RbUpTZlpILXc0V2laZkU2TkdQM2lhUnNyUVhmT2c2SHNVNU5Ya0t5SWgtNEU2bnQxbC01YnpFVlN1R2pDX1U5bUhXUkJYckw2bkJyZ2ZRT3lORkJUX0l4M1d2eW1vctIBqwJBVV95cUxQLTNtaEtZUThvN1lXNmJlV0ZVS2xDeEFyNE5ZOEhtVy1pVEQxekFxRUQtcU9pRVNvTTNSS3RxejliWFFaZzVfWFoyUVFRbFFwdDlCa0dRbjZpQkp5UnZwQVctSUQtUFIxX1diWHI0VXhiWnEzLU5PZGJkQkRNQjl5clJtTlpYdXg4dENCUXZkaWpkb29MRFJYaHBuN0JiNFVHa3hZRnhPakdMZU83SEs0OTQ2dV81V2F0ZmxIRFBhMlNxUUtrQ3I3aXpPME92VlFWendERWlDZWdidzJpcTVpMzR1d1h3elFidkJQMWRTQ05xT3hTTG85R2FSQVVqSmEza0pfZW5kM2QxX0pmWGtOdnJ2SUFLRUU3aDRsNTB0cTREek1ib25TNm9hYw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9375bc532427",
-      "title": "Desafios on-line: busca por pertencimento e adrenalina expõe jovens a riscos, diz especialista - Midiamax",
-      "published": "2026-07-24T11:15:00+00:00",
-      "summary": "Desafios on-line: busca por pertencimento e adrenalina expõe jovens a riscos, diz especialista&nbsp;&nbsp;Midiamax",
-      "sources": [
-        {
-          "name": "Midiamax",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPanJTMDFnN2s2SHF5Z05qWUp6cVgyaWxHMkE0SEdNZUhqeVNZbFZfZGVFWHNSQWgtcThacEVmTjM1V1ZESG9VV1lHY05ZcVQyWnYwdXJMV1NSd3hTV3Znb2hjZFRCMFdJblJJaHRTTDRhb2VTTG1wcGlYcEhZeURzTzlRS3VBVG9XZEc0YnZUSlQwcmlud3oyZWJWT3p4UFpoSU5ibjBBQzY5WFRjM3FtSmtmUXFlU0tLMERlYUFqcw?oc=5"
         }
       ]
     }
