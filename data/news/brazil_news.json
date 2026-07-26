@@ -1,9 +1,9 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-07-26T02:56:25.706215+00:00",
-  "total_fetched": 93,
-  "unique_count": 90,
-  "health_related_count": 32,
+  "fetched_at": "2026-07-26T08:28:00.275677+00:00",
+  "total_fetched": 90,
+  "unique_count": 89,
+  "health_related_count": 30,
   "news": [
     {
       "id": "4ec2a7184386",
@@ -18,14 +18,26 @@
       ]
     },
     {
-      "id": "08aae69fb0b4",
-      "title": "Influenciador Ken de CG é internado após espremer espinha na boca - UOL",
-      "published": "2026-07-25T19:38:06+00:00",
-      "summary": "Influenciador Ken de CG é internado após espremer espinha na boca&nbsp;&nbsp;UOL'Ken de CG': influencer é internado com infecção após espremer espinha na boca&nbsp;&nbsp;G1Influenciador Ken de CG é hospitalizado com infecção após espremer espinha na boca&nbsp;&nbsp;TerraQuem é Ken de CG, influenciador que foi internado após espremer espinha na boca&nbsp;&nbsp;R7 EntretenimentoInfluencer 'Ken de CG' é internado com infecção após espremer espinha&nbsp;&nbsp;TNH1",
+      "id": "6521553d5428",
+      "title": "Influenciador Ken de CG é hospitalizado com infecção após espremer espinha na boca - Terra",
+      "published": "2026-07-25T19:18:00+00:00",
+      "summary": "Influenciador Ken de CG é hospitalizado com infecção após espremer espinha na boca&nbsp;&nbsp;Terra'Ken de CG': influencer é internado com infecção após espremer espinha na boca&nbsp;&nbsp;G1Influenciador Ken de CG é internado após espremer espinha na boca&nbsp;&nbsp;UOLQuem é Ken de CG, influenciador que foi internado após espremer espinha na boca&nbsp;&nbsp;R7 Entretenimento‘Ken de CG’: influencer é internado com infecção após espremer espinha na boca&nbsp;&nbsp;Alagoas 24 Horas",
       "sources": [
         {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaFozZnhMRGRsZDR1cmhRMC03Z0JMN1l5Y01vRkxaY29yUUVVZlBhMzdMMmJwNGpVZGRfb3NBMWZCczh1Z1pUNVFuOXNqS0t6RE9VZmtwTmtjWTJ1WTJVSE9sWXBJdG1rS2hLcVJnUHhjX2s5T09lS0NYSUx2bUlkaHZrd3N1Z01CbVhwOFBlRWM2OHRBWXBqaHh6ektvSmpWWHd3SjBzTlVCajRyRHZiVEYtTnhsX3lkWG9xXzRFMWFvMEw4UEJrX1lySUVIZ3dpYlE?oc=5"
+          "name": "Terra",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNSzNUbWxJTjZvNk5sZk83dUV3ZDRvVTBIcElxTE1RdEZIX3R3TVNWUy0tVGpiUTBtMGRzWEt3cXhWTEI5a2drSHh4cHpWazdMeVlvLXotbzRMOHp5aldMT0hreFlUeFY3Q1BKN2RReXZSbEVpOHJLRkxtVDZGTllPaVY4bVVablc4NlpkS3NrT280d1pLTmpzMGYxWDJIcHdKMERPczJiLWVrVG5CQ2YxMkROZjVkZUluVzVBbGtNdDRFR2VNcFIxdHhnWnduUG04WEIyUE00NkE3SnN1Y1Nzc0RKQm5wUlB5UXpzalNYRVh5LUFSOER4Z2NocGRSZTZ5TzNv?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "94d2fc562b20",
+      "title": "Da saúde ao abastecimento: veja o balanço dos prejuízos após devastação causada por temporal no interior de SP - G1",
+      "published": "2026-07-25T18:22:12+00:00",
+      "summary": "Da saúde ao abastecimento: veja o balanço dos prejuízos após devastação causada por temporal no interior de SP&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNR1hpVm1Rdkp2ODlRUDg5WmNkd0ZlMTVqX1BuYjRWQ09xb3VDakRDQ24wWEdpMHJIZFU5eGRiMUZHSHJRY2pSRjdnZTBvLVd3NlNraVpOUlVOMEo4bldOcTNkTlFkdElyNU45akxQY3RuWG9pQk1lQ19iSWFDNmc5bGk3V3lJNzBvRi1EMWlWYUJ0eTVwdDhjRWVYaFIxOG45RS14MEFqN3BvTVZiNTJFNDRoN00tU0s0TnBzTDNXdk1sdFhmQkxfbGZ5ekVZQVBBZTZral80aFJVT05hbGVuRVhtTkRTNzJuNnJxeWl6SnByalNVdlFrcXJEcXVuM1RGTlp2X3VRbng5Mnkt?oc=5"
         }
       ]
     },
@@ -50,6 +62,18 @@
         {
           "name": "Olhar Digital",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaF9YUkFVc1Q1TnNiUWdkR2xLSEg3UE9zWDdTR0lUQ1hqdGtkSjFPUm4yXy1aVVZkdldrZE83NDhTOUJhWFl0eEUxX3BhY09rSDJ0LXEtRF82UHZwa25aVmROYWxfbktKMm5YVC1LNGNyWWlPS1FyUDNNS0NSSG5EN3Q5ZkRPaWFneWV5akVNb1hNUTE4Z004LUlTSXNqWDEyNTliOE9wLWV5VUxiZFI0aFJpSFU2cFg0MHptc1FObGYwWjFseGlUb0ttSQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3b5788257fe5",
+      "title": "Humanidade pode já ter abrigado 75 mil idiomas, diz estudo - Aventuras na História",
+      "published": "2026-07-25T14:56:26+00:00",
+      "summary": "Humanidade pode já ter abrigado 75 mil idiomas, diz estudo&nbsp;&nbsp;Aventuras na História",
+      "sources": [
+        {
+          "name": "Aventuras na História",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVlBWZ19ibjVoRlQ1VzJWdlJfbWkteUZZQmRRWi1pNENpcXp1OWFjbVZqaGZFMTRrbnh2MlJHQ0JCYVhCalZvbjdRanZxcU9CZ29Cb1BObUdwY3NKM3BoRC1kTnFhVXpPbUhGMHIxWHV6eFR1MDNFUWhTbjc2MW50ZFROdEpVS2taRklqRjE3X05sd00yWExtd0thNkUwajV6VndLTDVKeTJFYzFzNHNfRGs3dnVIaXcyUzVGbTl3?oc=5"
         }
       ]
     },
@@ -114,26 +138,14 @@
       ]
     },
     {
-      "id": "214830f3356c",
-      "title": "Calor extremo e seca: Amazonas pode enfrentar trimestre com calor extremo e menos chuva - G1",
-      "published": "2026-07-25T08:00:13+00:00",
-      "summary": "Calor extremo e seca: Amazonas pode enfrentar trimestre com calor extremo e menos chuva&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNR21lYU1iOFlfMGZQRXBwUVRpRGdhek5NazJGS1VpZGZCcURCS1Uwbm0yYjhUNk51dFU2M1BEdTJPLVJoSXNSbjU3cnFlLUFkcTRyLTVWY0RpSThnTHowWENKMGkwU01XcDhIRnczTUp4dFRDM0V1cGhWY0dGZ0ZtanVrR000b29SYTl5QXhZM2trTmFaZUlxVnpVcEtYU3pnTE1acUR0SVlsbERrVWRwVjVtQ2N5bjlUWTVtSzZJVTJ1TjdhTExMR0d0bVlFTzZLWnFPZm14c2dPbmNx0gHrAUFVX3lxTFAxRlZhb3Y3VktRNmxsQm1Ta0xVcXg5QjVpYzJrb0hsdXdlcW1rVzllVVR2d21Yblg3ek1zQklhZE15R2FLLWxoNkE1VHRnTUY5YUx5UG83eFFqSm9xS3QxY0RLT0tNaWNFOU95dHRyOGhDclhnSUtKRjg0b3FidXljOWw3blo1c2E4d1ZidFhXdWZqdThLZzh6R0M0ZGxpWjhpZDVsb3VUcjBISHRxbDB5VW5nclNDbU53cmc4TkFiYXZxUW1WSEI1OG1iSmNDQWU2V0VROVZIdEtZQUUzTmdJYUpNeUl4MWFpckk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bf5358fd1fe7",
+      "id": "e12baa035fe4",
       "title": "Geometria pode ser instintiva: estudo encontra padrão comum entre macacos e humanos - G1",
       "published": "2026-07-25T07:01:49+00:00",
       "summary": "Geometria pode ser instintiva: estudo encontra padrão comum entre macacos e humanos&nbsp;&nbsp;G1",
       "sources": [
         {
           "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcXgzTlNicVl4SzhVRWp4TFVoRGNwN1lQWllTcU1xVE9RZ21lWHVXbzllUG1SYnRCcVN1eWtxZzJ0Mm96MHAwLXY3Ukc1WmkzNmc3b2xkYTcyZktjcHNjRDlsN3ZRbDJNMzhMMjRWdFF4TWdhdjlrZGZaYU9KSzVabVNhMDhLOEZSaEdtdEZaeUQybDlmenVtdEJkTE1VV09aQVBCNEd1UWxPajRGWmY4UFRwcjZKQXlDaDJHZXZmX0tCcTduVEpxdU1sMVNYUGlXNkdQaG9lcG5sUQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcXgzTlNicVl4SzhVRWp4TFVoRGNwN1lQWllTcU1xVE9RZ21lWHVXbzllUG1SYnRCcVN1eWtxZzJ0Mm96MHAwLXY3Ukc1WmkzNmc3b2xkYTcyZktjcHNjRDlsN3ZRbDJNMzhMMjRWdFF4TWdhdjlrZGZaYU9KSzVabVNhMDhLOEZSaEdtdEZaeUQybDlmenVtdEJkTE1VV09aQVBCNEd1UWxPajRGWmY4UFRwcjZKQXlDaDJHZXZmX0tCcTduVEpxdU1sMVNYUGlXNkdQaG9lcG5sUdIB6AFBVV95cUxOaWg4bXI5SVBMLWpDckxSWnZhRHUyd2k1OG9xZG1CRjV2WDZfT21hRFFuX0t2ZTZEaVRVMTlxWlVMMV9SX2dVblFwYWZTMGVTWXdnVHBuSUZpTUlRdnpEd1VELXJhV21kQURXYkxQQWxDNnJYWjYzQ1pqaE1PYkViY2xBc0Fxc1lDNHFxVWhPQ1I2a3gyMlVzMUxzVlFRLUs1UHJubGdLZlpQNHo4djhESDFObzNBXzRDb3dDX1Z2WHo5c0liZU8xQVhNeHhmSGlJczl3aXFLSmhvVmwwcEoydTVwTUtaOXVH?oc=5"
         }
       ]
     },
@@ -162,14 +174,14 @@
       ]
     },
     {
-      "id": "da598c13581d",
-      "title": "Esta é a cidade mais habitável do mundo em 2026: aqui as dez primeiras do ranking - Meteored Brasil",
-      "published": "2026-07-24T23:12:00+00:00",
-      "summary": "Esta é a cidade mais habitável do mundo em 2026: aqui as dez primeiras do ranking&nbsp;&nbsp;Meteored Brasil",
+      "id": "1b2fabaae18a",
+      "title": "Quanto tempo uma pessoa pode viver? Estudo calcula limite da vida humana - R7",
+      "published": "2026-07-25T05:00:00+00:00",
+      "summary": "Quanto tempo uma pessoa pode viver? Estudo calcula limite da vida humana&nbsp;&nbsp;R7",
       "sources": [
         {
-          "name": "Meteored Brasil",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQWFWczhfbl9heWNTSFAtUXpNSm1mXzdsYi1rQTY2M1FSZnRjb0ZFWHlQajh6SlZRYUREZDhJSzZ6TVFwYjIyV0xlRldrd3Rrd2k4VUZfdlQ3VG9PTXkwMVctalNXa2NGT0U2RWxjSExPSnF5YWxTT3dDcWFKRkpyZnZNdTVHRzFNYjlMbGdrRWtUVkFYREhUNS1YR2NWUmlla05rWllCc0luTmhtZTRuUjVSZ2F5RzNvM3FkNzl4MzBjc2llRlE?oc=5"
+          "name": "R7",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVURhV3RKdmpWTHA1VkJoT3hianh4eVhqUkRlc2VKcTR4OEJJU05ORjlFREZpM1VicXhMWFU2eFlIMzZKNVRiRkNrX0ZHZGZ6R3hKUWlqaDIzUGdBbUx5b0MybmQ4ZHVsaVpoSUdOc0IwZzlZQmN1YURLM1NEMUlmNTRsQzBoc29NM1lWcVRNWjU0a0ZGc1plSVJ3X3JRVTJRenZuZjlaS3hiUTd1a2VWS3gwWTNSWl9fLVN3?oc=5"
         }
       ]
     },
@@ -201,7 +213,7 @@
       "id": "cb47d11993e4",
       "title": "Lúcia Helena: El Niño deve aumentar casos de doenças, e a dengue é só uma delas - UOL",
       "published": "2026-07-24T20:16:55+00:00",
-      "summary": "Lúcia Helena: El Niño deve aumentar casos de doenças, e a dengue é só uma delas&nbsp;&nbsp;UOLFenômeno pode aumentar casos de dengue e chikungunya no país&nbsp;&nbsp;G1El Niño acende alerta para explosão de casos de dengue no Brasil&nbsp;&nbsp;band.com.brEl Niño e Dengue: entenda a relação entre o clima e os surtos da doença&nbsp;&nbsp;Correio BrazilienseEl Niño pode aumentar casos de chikungunya e dengue no Brasil&nbsp;&nbsp;Estado de Minas",
+      "summary": "Lúcia Helena: El Niño deve aumentar casos de doenças, e a dengue é só uma delas&nbsp;&nbsp;UOLFenômeno pode aumentar casos de dengue e chikungunya no país&nbsp;&nbsp;G1El Niño e Dengue: entenda a relação entre o clima e os surtos da doença&nbsp;&nbsp;Correio BrazilienseEl Niño pode aumentar casos de chikungunya e dengue no Brasil&nbsp;&nbsp;Estado de MinasSaúde pública enfrenta desafio de adaptação aos impactos do clima e de ‘super’ El Niño&nbsp;&nbsp;Diário do Nordeste",
       "sources": [
         {
           "name": "UOL",
@@ -318,18 +330,6 @@
       ]
     },
     {
-      "id": "3c5b07dacab8",
-      "title": "Perda muscular: cientistas descobrem molécula ligada à diminuição da musculatura pela idade (e como reverter o processo) - O GLOBO",
-      "published": "2026-07-24T14:37:01+00:00",
-      "summary": "Perda muscular: cientistas descobrem molécula ligada à diminuição da musculatura pela idade (e como reverter o processo)&nbsp;&nbsp;O GLOBOComposto que ajuda a manter músculos com avanço da idade é identificado&nbsp;&nbsp;GloboComposto encontrado no alho pode ajudar a preservar força e saúde muscular com o envelhecimento&nbsp;&nbsp;VEJACientistas descobrem composto que protege músculos do envelhecimento&nbsp;&nbsp;MetrópolesCientistas Dizem Que É Possível Evitar a Perda de Força com o Envelhecim",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPOGNXODJfaklyeVFVNTNYcGZEVy1QTmowS21MdElVTFE3Y3U3Rkl3YjBVcjczUmI3WHFGX0Vnd1FHUmI0dHNyWFNyR1lfaFVqRGswbDJ4NTVSMVM4dmI0UjFILUd3a05sRnBtUEc1dWpSWng1UGJSR2JIVXlmVmxkc01wV25weGRlYlJlcWJieGlJTkZYbGNOenhYTEtzWlIzTXAyWE1naUN6clN6TGFueVFlb2QwY09zWkVOZHpidi0yX3JISFJlcHZoUk8yMkxUXzAtVk5TZ3BhRU5CVE9iOFVScC1BLTR5cnVTWmFrZDdadWc2SG42MnFENHRxSmpnaXdv0gGSAkFVX3lxTE9uSFlOVHRmcGJVX2oteVRtcjVUWWxUUEJsTUdiYkhrdEZRbVdhRjZrY2RrSWxkTDZHMlZ1T0lDcVJhUk44WGllblZfcnZpelJPLUZ0WFhGVHBwd0RMTlFvams3MG9JazJjMDNSeWNka2RCcFJETm9LUGUwLW5penN4am81Vy1pWjZ2QWk3QzhneXBNSHVrZEJyV3pNTTRJV2VOV3pPS2hoSnNqamx6ZDVKYmlid3NRb1o0XzdVVUN1RkRVZWFmTG5vbWwwSEJyQkxGWUVVWFpqUHB2eWEyUVlhSDVaWUM5WFVwSkRGVGpFYWd6Q0JOWVU0XzFYbDJ6azY1ZVJxUmMtYS0xbkxoRGMxbFE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9a69af047dd6",
       "title": "4 pesquisas científicas que pareciam absurdas, mas tiveram resultados brilhantes - BBC",
       "published": "2026-07-24T14:31:21+00:00",
@@ -354,18 +354,6 @@
       ]
     },
     {
-      "id": "0fff666a1a4e",
-      "title": "Esquema de Sistemas Fantasmas chega à Prefeitura de Rio Branco: SGA pagou R$ 1,7 milhão por simples sistema de cadastros que não está disponível - NOTíCIAS DA HORA",
-      "published": "2026-07-24T12:56:00+00:00",
-      "summary": "Esquema de Sistemas Fantasmas chega à Prefeitura de Rio Branco: SGA pagou R$ 1,7 milhão por simples sistema de cadastros que não está disponível&nbsp;&nbsp;NOTíCIAS DA HORA",
-      "sources": [
-        {
-          "name": "NOTíCIAS DA HORA",
-          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNaUJDQ2RPUzJhejU2QklrVE9CTmRPc2w5em5MTzQtSzBWdDRGNFE5bHlqeW9oZ1MxRFhuOFpSaENyWmhGQjdySTBrSjhVaXEwRTUzdVJLVzlHaklYV0hUZWkzeHVId2VTNjE1WEhpT2Y3ZVRuX0FYY2RTZ01TeW1YdmhnSzA1d0ZaZHhVN2RRSHMtRzY4VVpwX0pKR2p4QmFiMmNKd3VsVkQwck5BNjlRNUtabXJpcEx4SXVOM0IzRi0zR2FJRFRjS2dsMmlubUdjWk1ERHNjT2tERG9rN3I5bkRUdk50amw5OHRtVXZ1LUxpR1N0NUxQSGFHTm8tc09qUWZISA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9375bc532427",
       "title": "Desafios on-line: busca por pertencimento e adrenalina expõe jovens a riscos, diz especialista - Midiamax",
       "published": "2026-07-24T11:15:00+00:00",
@@ -374,18 +362,6 @@
         {
           "name": "Midiamax",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPanJTMDFnN2s2SHF5Z05qWUp6cVgyaWxHMkE0SEdNZUhqeVNZbFZfZGVFWHNSQWgtcThacEVmTjM1V1ZESG9VV1lHY05ZcVQyWnYwdXJMV1NSd3hTV3Znb2hjZFRCMFdJblJJaHRTTDRhb2VTTG1wcGlYcEhZeURzTzlRS3VBVG9XZEc0YnZUSlQwcmlud3oyZWJWT3p4UFpoSU5ibjBBQzY5WFRjM3FtSmtmUXFlU0tLMERlYUFqcw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d700948747e9",
-      "title": "Estudo aponta auge da diversidade linguística há 3 mil anos - Correio Braziliense",
-      "published": "2026-07-24T08:00:00+00:00",
-      "summary": "Estudo aponta auge da diversidade linguística há 3 mil anos&nbsp;&nbsp;Correio Braziliense",
-      "sources": [
-        {
-          "name": "Correio Braziliense",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTVllcm0tWUlqTnNTX3ZhdHV4b1NtZEw1VnhNZVRwRGJiMy1BbFRyVjI2bzJXMl9yeTFVclMyeVF5aG5nYjVoZ1VXQWNFdEhOMUJ4MmRpMW5ab1lqRENxMURZMXNmTmc4cW1HOGl1T2pOd0ZrM1I0U3FBSy13WmtwMC1nWVdHSXktUVFDRFp4LWhKZU9oRmFCRVBoakcyQURsTjd6TF9zZ3Jsa2RGMGtfNTJaSnlGaTU5c2stdnZWZmVRWHZHTWltVkVtMFRNVUE?oc=5"
         }
       ]
     }
