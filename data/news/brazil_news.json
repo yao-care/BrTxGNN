@@ -1,19 +1,115 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-07-27T14:38:34.942050+00:00",
-  "total_fetched": 89,
-  "unique_count": 88,
-  "health_related_count": 28,
+  "fetched_at": "2026-07-27T19:35:25.370347+00:00",
+  "total_fetched": 99,
+  "unique_count": 97,
+  "health_related_count": 33,
   "news": [
+    {
+      "id": "027e52da22d0",
+      "title": "HIV: novos casos caem 43% no mundo desde 2010, mas crescem no Brasil, alerta Unaids - O GLOBO",
+      "published": "2026-07-27T17:00:08+00:00",
+      "summary": "HIV: novos casos caem 43% no mundo desde 2010, mas crescem no Brasil, alerta Unaids&nbsp;&nbsp;O GLOBOProtesto interrompe evento dos EUA em conferência de Aids no Rio&nbsp;&nbsp;Folha de S.PauloRelatório do UNAIDS alerta para risco de ressurgimento da epidemia de HIV no mundo&nbsp;&nbsp;G1América Latina fica de fora, pela terceira vez, de acordo de genéricos contra o HIV&nbsp;&nbsp;Jornal do ComércioAvanços contra o HIV perdem força com aumento de casos em 21 países&nbsp;&nbsp;Poder360",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNG9WLWpNMDRQR1AzLVh5cnI2a1VBLUtUbE1NSXZqSXFoakFfcWxfZFcxMnFDc2JETXB3dXVwQUhaWVJVdVA5bmUxa3BxT3BXeFlSTlYwVmM5dkJYZTlZNnRDcGhvUHFJTWkwdjV3UEdkUm5iVjhIN0lRUGN6QnBEdGNxQjVUZERZWlZ0QTY0SU5lMWQ4UzhPc1Y0eC1lcjAzVkI0NnFKWDRqYlVCYUM2TVJ5RlJoT001Ukp3eWU3WkdhUTM4c2E4bEVIUWctMkhXMU9fZjZWSGVJd9IB6AFBVV95cUxQRDJEM3VrTExnc1VsUzJnQnpnNEVONWFVYlVLdFFVMHRhaEdkOGFoRWJYWTNXTE9jbW9lc3JSc3hVVzB5MDVsMHlCMUVIUThRSDZfOFNpZ3dXZ0F6Qks1ZEIteVNXUFVpV2x2cFUyM1pmdm05X05TM0xYQmN1LWpHSERnMWFjVXNpMkZKakhKak9USkxncGxLRHRxV0dzaFBfdm5iWFN5dUxsbTZNQnNkeFNOVGt5MHg5Y0pwbmpFWlptdnViTVg0SC0xdVVZRTFCZG5IXzZSb0d1NGRKN3Y4NjlCRkNWQVN4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e9883f315ba9",
+      "title": "Quais os primeiros sinais de perda auditiva? Especialistas explicam a Kalil - CNN Brasil",
+      "published": "2026-07-27T16:58:21+00:00",
+      "summary": "Quais os primeiros sinais de perda auditiva? Especialistas explicam a Kalil&nbsp;&nbsp;CNN BrasilFator de risco para demência: como prevenir a perda auditiva?&nbsp;&nbsp;Portal Drauzio Varella“Escuto, mas não entendo”: sinal pode indicar perda auditiva&nbsp;&nbsp;JM OnlinePedir para repetir a frase e subir o volume da TV aos 50 anos foi ligado a queda de memória mais rápida em estudo com brasileiros&nbsp;&nbsp;Tua SaúdeSinais de perda auditiva mudam conforme a idade, alertam especialistas&nbsp;&",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTk9nUG9Xd2V4N0ZJTGZuSkFwamdKb09iT1FsdEJ4N1JUM2ZBZTZKczk3VjhZc0E2MFNJYzY5SW9xUUplckJpdUNfbG1ubzB3eVNSTWRBY2dCZkxFQWNGUk1Bd0p0MnQwQkpoTjdtdXVYRF93eG1iVjRxYkNzWGlKXzduUFVhTGNFeEtyVkRaMzItS0dhUl9RdlI3TnpKSmJmYXBXWWhoQmRvX29QMGlF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "17e1ef8bb441",
+      "title": "Estudo revela 4 tipos de pensadores. Descubra qual você é - Globo",
+      "published": "2026-07-27T16:09:17+00:00",
+      "summary": "Estudo revela 4 tipos de pensadores. Descubra qual você é&nbsp;&nbsp;Globo",
+      "sources": [
+        {
+          "name": "Globo",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYzhaanhpUkp6dHZrLUVGQk5GRUhLV1lITTRSOGUzX2pJZzl1WmNLM0w4VjhTV0pKalFPUkNWa29CdkJHeG9tWVVTbkUzS0VoUDBxeU9RZS1kdG5qaG1zQnk0RUZNcVBOa0RzY2FaT3FpRUVCSjA5S1M0aWp1RHlHT0tYY21TNmRZbkRiNGRhS2pCeF9jckFhOER0ZWxEdUpiT2NidGc5ZnNRRUdXanJaUkgzTVlnOTItZGZTLVBIUURnRU5zc0tHa3JEbnZOaUFV0gHfAUFVX3lxTFAyWVVxUHUzNnJOeGlLZ3lKWTdTenVNOTA3RUpfUldtSXQ2elV2QS1TM00tX3B3dHE4eTJ0a1Vsd29kN1Y3amhDRzZBMFFoMEFKN3AxYW5ua3hzMEZsYUlqYkF1NU1FLWFhUl9mMFZKVko0MmhqNllWRENqYnkxVFpZWnFQeEhvUzMtNmpxNDdiekctZWlOWGxISElkbjdoSmtmNk5VNHNFLVJ2ME00MEh2ajdGNnhtQzZHRUREN1RKZkdNMGVkdFYxQjVTdkl2d1pka09pU3NKd1JZYkNubjg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "eda43d17d1d6",
+      "title": "Câncer colorretal: médica alerta para sintomas e diagnóstico tardio - CNN Brasil",
+      "published": "2026-07-27T15:47:07+00:00",
+      "summary": "Câncer colorretal: médica alerta para sintomas e diagnóstico tardio&nbsp;&nbsp;CNN BrasilCâncer de intestino dá primeiros sinais no banheiro; veja hábitos de risco e como diagnosticar&nbsp;&nbsp;G1SUS adota novo exame de referência para rastreamento do câncer colorretal&nbsp;&nbsp;D24AMCâncer colorretal: quais exames fazer e quando começar&nbsp;&nbsp;TerraDiagnóstico precoce pode curar mais de 90% dos casos de câncer de intestino; veja os sinais de alerta&nbsp;&nbsp;A Gazeta do Acre",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUkFqMHNSMFkzR3ZKTVVpTE11YnRMWDl5Vm0xTHlsMi1ieFB1eHdQcUo1MGZRZEhqemZUSXZGYjFydmhIUFFwUXBaZlZmOFVrcWhVNXZDVF9UbDBrS1hnd1ZhcVpmRGg0Vk1hVkh3LUxZTjJ6QW5Kc3dtVXhKMmNndW11dENhQVAwYk4zdGcxSU9rdjFJSzk0SHVpb2REaE9kR1g4RA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3f0de2732838",
+      "title": "Estudo aponta hábitos que ajudam a proteger o cérebro no envelhecimento - Diário do Centro do Mundo",
+      "published": "2026-07-27T14:37:22+00:00",
+      "summary": "Estudo aponta hábitos que ajudam a proteger o cérebro no envelhecimento&nbsp;&nbsp;Diário do Centro do Mundo",
+      "sources": [
+        {
+          "name": "Diário do Centro do Mundo",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQclVnZGwxanVLdEtJOXZoa21RR2hOMk1nTG1iRzBldjhlbVJXWGhwU250M1k5TDVVWmtvNWRRTVZGZ1lXdGlpNUE4QWptLTdqQVlrVzVTUWdsVUVqTGNWZldqS0xxRGRpNXBCUHhxUGtQcFB3M09CdWF5czFRajR3ZmRuWjJIM0lhSUh2ZzlQSkwwa2xzV2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4bad7e79a4b0",
+      "title": "O alimento consumido pelos egípcios, ideal para a longevidade, que se destaca pelo alto teor de ferro - O GLOBO",
+      "published": "2026-07-27T13:53:33+00:00",
+      "summary": "O alimento consumido pelos egípcios, ideal para a longevidade, que se destaca pelo alto teor de ferro&nbsp;&nbsp;O GLOBOSegundo os renomados especialistas em nutrição, arroz com ovo e feijão proporciona praticamente os mesmos importantes benefícios proteicos que a saborosa carne vermelha&nbsp;&nbsp;Tua SaúdeO alimento barato que faz uma grande diferença na saúde, segundo médico&nbsp;&nbsp;Notícias ao MinutoO 'superalimento' que custa pouco e oferece 4 grandes benefícios&nbsp;&nbsp;Notícias ao Mi",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaGtIek5qWW5weDY0dXNOQUwzQUNkUTZGdDgtcDJQR1VmT3AwcUI1eml1WDZtUEM3YmQ0ZnEtNHZEdzJUVFYyc25BVnlCVmZJV3lIZmtFdnVOVVNhem1ITjk3elVoUkdRUnQyVUN6aWpaQlU1QWdYd1NDUFFra29HSENmSWprdEUwQngySVJRZ3pKeEY1N1dDeWxVWkhLbk1VWDZUbGwwbFVieENGOFpKM0twTlE5bWRmWFdSZnZ1bUhOSlBJTTRZb2YtR2NjaXQzR0hEVnJwbkhPQXdNQW5vVDZzZ0hMNE9xNThN0gH6AUFVX3lxTE5KVF9xVS1ib2VXb1M1bUttRnd6RkJ1MWhubFU2X3VmTDNWa2lrci14RXN6b1dwNnJkMmk2N0VzWWRtcFU4V3ZvZGFaNVY0d3U3bnlJMmpTVVM2SXJfeVlVU2liTkVuaHlyVWdhQ3ZFUktXdnRWQ1Z3ZmNwQWJCN0hfb0R2NGdMMTVfbmNCUnBxbXpoQ3hhbk4tS3oyQWtPQ05ZcmF1QlpFZ2ppcTA2aEZzNXk0RlFIUjRPbWJPc1htclk5Y3dHUkI2emVXVkxXbmdPSmttTERCLTZ4akpvRExNQW9aWDN1WE1jOEFuM0VkY0JyaVBEZ19VOWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6990fa60a3bb",
+      "title": "'Ken de CG': entenda os riscos de espremer uma espinha no ‘triângulo da morte’ após caso de internação do influenciador - O GLOBO",
+      "published": "2026-07-27T12:47:22+00:00",
+      "summary": "'Ken de CG': entenda os riscos de espremer uma espinha no ‘triângulo da morte’ após caso de internação do influenciador&nbsp;&nbsp;O GLOBOKen de CG é internado após espremer espinha&nbsp;&nbsp;Campo Grande NewsKen de CG: entenda os riscos de espremer espinha no “triângulo da morte”&nbsp;&nbsp;Diário do Centro do MundoInfluenciador Ken de CG é internado após espremer espinha na boca&nbsp;&nbsp;UOL‘Ken de CG’: influencer é internado com infecção após espremer espinha na boca&nbsp;&nbsp;Alagoas 24 ",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNR1owSHVmaTlKQVFxcTc5NDVBUUdSaVJuZFFSOXQzMHVYSkJMVGlyX0lJSmJHM3EzenBYRFQxejRyMTliXzhfQ3N5d2M0c2o4cU1mOWFKNGdfaHZzNGJOLVIxU04tUVFyNUlYaF8tNUxYdk9CRWZaTmFHd241MTRRT2lZSTgtNENubFNjd0doY3BfdG1VWEtWSThvMjlSYU96Rk9iY1ppWnlmWnptUlRaSEpEQVU0TlVzUTF2bzRjRXBoa2xxVmdYbVFsa05zbFc0Q0NYWUswM3pGNjI0NGRsdnA5NXBvWG41ZUE5WlJrdEhibkFDX2htd2hGZU9zWmNNQXlqZ1MwMkNSeV9B0gGbAkFVX3lxTE9VLWl4cXB6QXctX1lNV1MyRnRiTTQ1SmVvR0I5dXNXVVdHYldaaTVKcnlrUnpLczZaX01NdVQ3X25HMEk2UlRfTlc1czh3Q1BhdmpnWEVrS0VzeEd0RDVtNF9LX1dBYUFlSzJzRGdnRnN2bG5oRU9MMlZTOTdlTUpycUtmTmxkR2ZzQ2JhTEtoYkpxTjZ6UGYweEMyQ2dlVGRtdTR6RGJWblB1cko3OHptWGJCRDI0VDJxQlhzQk9BQzBWOVFqek1DdFdxYUdrVHk3ZDdtX3V4My0teGFXVWQ3OTVJM0hVcV9zdktEcXBwVFdqVjNwZ20yOFV6eVZJX0EyZGowVDN2bTU3UGFtdlVnVHhQbWZwN0RhVkk?oc=5"
+        }
+      ]
+    },
     {
       "id": "dbb98b548c8d",
       "title": "Restringir o horário das refeições pode reduzir o declínio cognitivo na velhice, sugere novo estudo; entenda - O GLOBO",
       "published": "2026-07-27T11:59:10+00:00",
-      "summary": "Restringir o horário das refeições pode reduzir o declínio cognitivo na velhice, sugere novo estudo; entenda&nbsp;&nbsp;O GLOBO",
+      "summary": "Restringir o horário das refeições pode reduzir o declínio cognitivo na velhice, sugere novo estudo; entenda&nbsp;&nbsp;O GLOBOComer em uma janela de até 9 horas pode proteger o cérebro na velhice&nbsp;&nbsp;MetrópolesRestringir horário das refeições pode proteger a memória e o raciocínio na velhice&nbsp;&nbsp;Rádio ItatiaiaLimitar a alimentação a um período mais curto do dia preserva a função cognitiva em idosos&nbsp;&nbsp;tveuropa.ptComer em uma janela de 9 horas pode beneficiar o cérebro, diz",
       "sources": [
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWC1KbXl3S2NxS2dHZ2YzcmpSWjZEbHg0d2llQkxocy1OY3JTek5oYWdTbjlLUTNjUkJDRDQxNkZwT0JCRFdRLUROZFB2bVBQVXY4U0hnYUhvLUNfclhxZHRPaXRzNUxPOWNzd3VxbE5RRlVEdjV6dTl6aGNUNDc4a2xwZVJ2VWlhYkFRUi1rQTlxSzlBMFMzQzFYS2JzOGVJaU13Tnk3OWVVWllrR1Bkdmc0NkZ3OGZJODFReTFkYUl2SnpZUWhaRjAyUUR5WW5pRW9FZ2M3aWVWaWFHOFYzSXprOVZYQkN6VTJDR2NTaTZDSWxY0gGDAkFVX3lxTE5FaVJNRWlWMnpVYkhoYUp6MTA2Vm9kdk1zREltZjI1NXJOWGtZcTVIM195bWdYU0puODFIZkxuS3NSbGNFTzVNRFVqVkg2R0J3R1FwX01iSlFNcVg0b2xKNTJPSzNPX0RaZW4yTVpwbVdraXltdVd4d0hrZnJmYzIzTXNYOUhyZmxfY3Y3dHNiUkdqUGZlQVZuT3E0bTl1R0JwN010Yl9ZZ3RlSnBHekpBdFp6b1NId2VGN3U3RHpUbjNfSk1IRWIxY01LMFJaSG5JWlZOa0VIaUpCVFBHSkxmTl9lek1idHZ6aFFQYWxBaHphNTEteTdWTW02c3cyT3lRTmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8cbd6fc7a081",
+      "title": "Soroterapia: o que a ciência diz sobre os 'soros da beleza' que prometem mais energia e imunidade - Guia Muriaé",
+      "published": "2026-07-27T11:56:26+00:00",
+      "summary": "Soroterapia: o que a ciência diz sobre os 'soros da beleza' que prometem mais energia e imunidade&nbsp;&nbsp;Guia Muriaé",
+      "sources": [
+        {
+          "name": "Guia Muriaé",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOc2c4OExDY3FEZnh4UVV3S3d3b1dIaGstRVBNeTdYYjd6MUhhMjBmcjVhUHlnUFFnWFBBOHZ0NTNMUEp2UmZCRl9tcUd6WUtMNW1hZGdTV1ZyaTA4dzZtbjhaR0VPY0NDNXFVTkRCYkowZENYd3EzdGQwQ2s4dy0wbF9HRkVWWTFMYm95WW03S0JWTEIxRjh5bXZVMjM4a1VKeTVkMllrZzJuS3QxcHM3OFhtUkx1bktBZGRmSGZiLWlfaFdHNVNBdHpERUEyZnI5QmRsYURnRQ?oc=5"
         }
       ]
     },
@@ -30,10 +126,34 @@
       ]
     },
     {
+      "id": "07995072e6b5",
+      "title": "Morre o médico José Luiz Weffort, referência na Neurologia em Uberaba - JM Online",
+      "published": "2026-07-27T10:07:32+00:00",
+      "summary": "Morre o médico José Luiz Weffort, referência na Neurologia em Uberaba&nbsp;&nbsp;JM Online",
+      "sources": [
+        {
+          "name": "JM Online",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcENuaTl5M2RJdVY0Vy1mcDhaT20yXzFCVHFQTGNyenBRZDkxZW9GSlRrNzhRY1VyWGlnOHAwMzNCMXh4SXRhSHdFYURWczJodTNhbk9Dc0Y4ZmdiWUN2ZTNNVGxjWWg1MklLQXdiQzRTMVVtcmZkSXhHRjRvb1lYTTZkMFJiTnFaTzQxS2dDRnQ0dUx0OUxLX3NTSlBiRG1xZElxM2pNVmpQcm1x0gHCAkFVX3lxTE1UVkJjZmcwSXF1U1YtOGQzSTVHMWdSM2hReHVFeXFOZE1VTlFVYm9ic29jeXJFeTA1WHdlaHR4M3lIQlVFWGtDVm5aaGVaOVZTeUd0ZEp2NkZGT1Q5R0g1MU5XMnp5VVNOWU93Skt6aG1YTlFDNmFLdWtGa21aaHlNTHpKWGpIVG9FdlNuSHZ3NndxNjJqR3Y0cEpYR0wzOG1aSkRlcEVKWFhPSThldXVqQXVOS2tsWGhvVXpET0pRZkVaWG1vaG52R18tYU4yeTdsWEVMWkhVWk9Ic2EtQ2tvTDZQVjZsOF9ibzFXVUhqanFPV3VOTFNpMTMteGpPUHZkQnVZcHhFX2lxakhQUWduckNKME52WG02OGktcm9rcnBSa3BZLWREbnJwZHlGYkZYQW83ZHJqNUhRNGJuNWgwTmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1dcf00dc8a2b",
+      "title": "Câncer de cabeça e pescoço: veja sintomas, sinais de alerta e como evitar diagnóstico tardio - A Tribuna",
+      "published": "2026-07-27T10:01:00+00:00",
+      "summary": "Câncer de cabeça e pescoço: veja sintomas, sinais de alerta e como evitar diagnóstico tardio&nbsp;&nbsp;A TribunaEstudo: diagnóstico de câncer de cabeça e pescoço é tardio em 70% dos casos&nbsp;&nbsp;CNN BrasilJulho Verde reforça prevenção e diagnóstico precoce do câncer de cabeça e pescoço — Ministério da Saúde&nbsp;&nbsp;www.gov.brAção realiza avaliação gratuita contra o câncer de cabeça e pescoço.&nbsp;&nbsp;G1Sintomas que insistem em permanecer podem esconder um câncer de cabeça e pescoço&nb",
+      "sources": [
+        {
+          "name": "A Tribuna",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcmUwTTVMMDc2UTcxS1lscDdraHdtWmpwNVRDdF9xWnRxNUViZDM2QWtKbWt6OXF3b29Xcms2ZzNNMnpyUWpDdnR3MXF6TTBJUnFHN2FmZlJ2b05JRUFseUo4S2FjWE81cEpNNTlhOS1nWVdrSnp6Y0otQ253d1QtaHhhTHJTTjYyX05ma1FIbUFrbEpHaVNldFZJc0RrejVtS2RFNnJPWWIycWVUdXF4V0lXN0huTGJ1Y2ZOTGlCRFU3TmdSOTFZTmpwZjdRYVowX2NybkdkSl9BLVJHV2NwM2lWbw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "6b3c4e2efe10",
       "title": "Isa Scherer revelou ter diabetes gestacional; condição traz riscos e não costuma dar sintomas - G1",
       "published": "2026-07-27T08:04:19+00:00",
-      "summary": "Isa Scherer revelou ter diabetes gestacional; condição traz riscos e não costuma dar sintomas&nbsp;&nbsp;G1Veja mais manchetes e perspectivas no Google Notícias",
+      "summary": "Isa Scherer revelou ter diabetes gestacional; condição traz riscos e não costuma dar sintomas&nbsp;&nbsp;G1Diabetes gestacional: saiba quais são as causas, tratamento e diagnóstico&nbsp;&nbsp;Rádio ItatiaiaIsa Scherer revela diabetes na gravidez do 3º filho; entenda a doença silenciosa&nbsp;&nbsp;Portal Leo DiasRede Municipal de Saúde oferece acompanhamento especializado para o Diabetes Gestacional&nbsp;&nbsp;Prefeitura de MaceióIsabella Scherer revela estratégia para controlar a glicemia durant",
       "sources": [
         {
           "name": "G1",
@@ -42,26 +162,26 @@
       ]
     },
     {
-      "id": "8510b3e76a07",
-      "title": "Cientistas descobrem câncer transmissível em peixe de água doce - Terra",
-      "published": "2026-07-27T07:58:00+00:00",
-      "summary": "Cientistas descobrem câncer transmissível em peixe de água doce&nbsp;&nbsp;TerraCâncer transmissível: entenda a doença identificada pela 1ª vez em peixes de lago entre EUA e Canadá&nbsp;&nbsp;O GLOBOCâncer contagioso é descoberto pela primeira vez em peixes&nbsp;&nbsp;Revista OesteForma contagiosa de câncer se espalha entre peixes, diz estudo - 23/07/2026 - Ciência&nbsp;&nbsp;UOLOpinião | Descoberto mais um câncer infeccioso&nbsp;&nbsp;Estadão",
-      "sources": [
-        {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPcEVSWnl1azhRXzFpb0kxTzNBUkJPcFZGY0dOYlItV0tpUVZvUWQtcDU4d25GWUhPTGVXdHU5MGRBQXJkSHJVNmpIcHlGcU9zVXl3V1g2T3pNMWNCMExTVFFPWndNS0FuWW9rOERuVnRlUjd2NzVoM1hUQ0NFWWhNZUVpNkgxS3E0Q19nRDRNMkZyMXRpQjlsMC1fZDN1VTMtOFM2dUJlZFNDVHk3WFdJSFpUaTFxY3BpYU5nYnQ5cTNWaU04OFdNOEV5R04tNFhwdWh1aC1MV29sLUJlV0dRNXZRRQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "62c20dc5d719",
       "title": "Creatina sai da academia e chega ao cérebro - O GLOBO",
       "published": "2026-07-27T07:30:31+00:00",
-      "summary": "Creatina sai da academia e chega ao cérebro&nbsp;&nbsp;O GLOBOSuplementos de proteína e creatina além da musculação&nbsp;&nbsp;MedscapeNoites de insónias? A creatina pode ajudar&nbsp;&nbsp;menshealth.ptCreatina além da academia: estudos apontam benefícios do suplemento ao cérebro&nbsp;&nbsp;JM OnlineCreatina precisa de fase de saturação? Muitos ainda confiam em uma recomendação antiga, contudo estudos atuais contradizem&nbsp;&nbsp;Tua Saúde",
+      "summary": "Creatina sai da academia e chega ao cérebro&nbsp;&nbsp;O GLOBOSuplementos de proteína e creatina além da musculação&nbsp;&nbsp;MedscapeNovo estudo revela que suplemento popular nas academias pode ajudar a combater doença que afeta 11,7 milhões de brasileiros&nbsp;&nbsp;Diário do ComércioNoites de insónias? A creatina pode ajudar&nbsp;&nbsp;menshealth.ptCreatina precisa de fase de saturação? Muitos ainda confiam em uma recomendação antiga, contudo estudos atuais contradizem&nbsp;&nbsp;Tua Saúde",
       "sources": [
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM3V1cTZGaHZXLXE1NVptTUstZFM4eENtaHpFNzJPNnpGRG5PZS1YWlBJWWNZU1cxdkJhRERMcVJRSm41SEItYUZFUkE4M1B4T1oxRUktak41MVJjUm5uQ2ZZaTdLZjQtTzhTQ0FVZEdGNjFVd3RBTW0yZU52Y1g3QUgtR2Qxc1h1c2hnSENXX2JrZ1NHQk1UUnJ0d1N3RDVlY0x2ekkyNnpZZEhz0gG7AUFVX3lxTE5CZWNVRmZfeWxuNnlicms0Y2pIRllqWGtmcWl0MFRnemluQmFlN0ttc1FCcW9zLTBNQzYxM1ZMU1lyMGlVaHBKc2xpc21HaGNVWGo2YmYyb0xpSXJBdkJtU1N0bTF2MWVJMGpyUUkxUlBEYWpsRGtFd1pJMklKNjVRRS1JeEdPZzhfd1lIR3VhOXRQRm5UelVQS2s5WlVmUWEtT3B6Y3FBVkd0amI1QVR4TFN5V3BiSUxwakE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "13ad678c6fe1",
+      "title": "Prevenção do HIV: PrEP injetável demonstra alta efetividade em estudo de vida real de longo prazo - O GLOBO",
+      "published": "2026-07-27T07:30:22+00:00",
+      "summary": "Prevenção do HIV: PrEP injetável demonstra alta efetividade em estudo de vida real de longo prazo&nbsp;&nbsp;O GLOBONovos dados mostram que injeção semestral para prevenir o HIV mantém eficácia perto de 100%&nbsp;&nbsp;G1Rio discute inovação médica&nbsp;&nbsp;O DiaNova injeção contra HIV se aproxima de 100% de eficácia em estudos&nbsp;&nbsp;O TEMPORemédio revolucionário contra o HIV ainda é inacessível&nbsp;&nbsp;DW.com",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVXRjU3pMeTZyN0ZoY3FOVjFXWEN1aWNBR3Qtdi1ra2hEMm9ReVBEOXlaeVhyaC1Vc1RJcWNlRlM1R0thanY1VzlLcVljcGRUSF9wWjJsRXZkdkVraEdtN3ZlcXBwXzVENV8wMjhINlBCRFY3OHJBaGtqNy1VNkw4VUs0Y2hubkpJcTJwMkhMV3paQVJMVUFab2JudWhsakxZVGZpbzBPQVkxSEV0NmV2Um1WNTJiZzBmYnM1dXh0bU9IdXNMX3JMbGF2RGUxcHBlOUtFd2VPNjNBWWg1TndlMVhmNVczclnSAfYBQVVfeXFMT2VDWFVoNkdhVmhqdTU5WHg5U05DcEREUmNyc00takd1NEhILVB0cE8xMll0VjJnOTR1QWVfX28xc1hxd1JUV0NnLWg0UUpCOXVoRlplLU9xZWdHMWIyMEpIa1hSMElaWVR5RjhHSU43ZVIxYjlSVkdZdkEwcHFwNTNXOHo1N0htTjEwQWVkZThmTHhJaC1IV1R2THlnTUtocW5xVFJaU3loMUItOVhoMG5tTl9Dd3RXeGZ1a0EwZFVleGZ1WGI3eHpYVjE5ZC1ra0RlMW1ubTdRNlZjci1ZUkFZLVVCTnVXQU1jZDNTeTBjbU9LNXZn?oc=5"
         }
       ]
     },
@@ -81,7 +201,7 @@
       "id": "0ff64b9100b0",
       "title": "Pesquisadores desenvolvem vacina para tumor raro em crianças no Paraná - Folha de S.Paulo",
       "published": "2026-07-27T07:00:00+00:00",
-      "summary": "Pesquisadores desenvolvem vacina para tumor raro em crianças no Paraná&nbsp;&nbsp;Folha de S.PauloBiobanco de Curitiba reúne 30 mil amostras de tumores e impulsiona pesquisas no exterior&nbsp;&nbsp;Bem ParanáBiobanco em Curitiba reúne 30 mil amostras de tumores pediátricos raros - 15/07/2026 - Ciência&nbsp;&nbsp;UOL",
+      "summary": "Pesquisadores desenvolvem vacina para tumor raro em crianças no Paraná&nbsp;&nbsp;Folha de S.PauloVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -134,18 +254,6 @@
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaktsWWRTTlNMQzI1RE5YWEtJR2laRk8tX1QzQkNvNVpBcEdpU1EwQ3VRT2RZaFZ6aU92cU05bjh0QjJiUDZGT0Y3SEhfS1UzaEp4MGhTUUZFOEdDUXNjYXUyaU5DaHdOa3F3Nk84bVRXZGFrb1VwOXRSX0d1SHBHX2FRem1sc2hGb0h0ZzdJWVZVeHNZdzlYX2pDYm4ySzVBbnZzMGFHX09fckx5OVZENkdqNVhxS21KajVTNnhRRk1rNTNIUUdlSXRZUEFwWEhBcTZZ0gHiAUFVX3lxTFBHdTZ0S3NLaGloTlROME1LU0dZNFpSeE0zVzd3T0xnb19kNXotdk0zSzM3WmFZYldsNi1qM1YzRE1rOXk3b1FqRi11eU5JTC02dHhqNGJrT3dQbkdKTjFKb0VnbEtGczlUbF9jcHlGXzF2cHV0aU1pSUthOF9GZ0g2aWxsblVPNDY4NlI1VFpLTElsS0FPdm11RVliMmRDYzVqalR3LU0zSXlpa2hfYmdRVFVuQ3V3ZlVNaHluX0t6aERHdmNSNFN6b2EyRkZYZHhoSnFoM1kyWDR4bzRDNnFJR0E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "aad459d12500",
-      "title": "Protesto interrompe evento dos EUA em conferência de Aids no Rio - Folha de S.Paulo",
-      "published": "2026-07-27T01:30:00+00:00",
-      "summary": "Protesto interrompe evento dos EUA em conferência de Aids no Rio&nbsp;&nbsp;Folha de S.PauloOpção pela morte&nbsp;&nbsp;CartaCapitalMenos crianças receberam auxílio contra HIV após cortes dos EUA, diz estudo&nbsp;&nbsp;CNN BrasilAIDS 2026: Destaques do congresso da International AIDS Society&nbsp;&nbsp;Afya | HomeAIDS 2026: tecnologia e estratégias comunitárias redefinem o acesso à PrEP no Brasil&nbsp;&nbsp;Agência Aids",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUDhNc3QyaEhQUjJBcXY1X3EweTNFNlQ3UTk3QjVXMXB3NkZVX1NGUWVoZUZHWVRrSkdWY2REcUFPVHhGbGxiZ045X3FDYl95b0xIbmpVUWl3ZHM0enNRQU5MaW1zdDV2UFVlS0cyUnUtaWE2Z0ltcHljRVZ2ejhrUEFaNDZtcE1yQ0ItTHR4U0oxdVVIbHlCSlMtLVZpS1BzMElKWHFlR0QwemY2U1Z5b3dUc0J5UFdoVVNya1g1Mm1HQU0?oc=5"
         }
       ]
     },
@@ -210,30 +318,6 @@
       ]
     },
     {
-      "id": "92bf3d63d541",
-      "title": "Oito em cada dez brasileiros descobrem câncer de cabeça e pescoço em estágio avançado - D24AM",
-      "published": "2026-07-26T11:45:59+00:00",
-      "summary": "Oito em cada dez brasileiros descobrem câncer de cabeça e pescoço em estágio avançado&nbsp;&nbsp;D24AMEstudo: diagnóstico de câncer de cabeça e pescoço é tardio em 70% dos casos&nbsp;&nbsp;CNN BrasilJulho verde: especialista reforça prevenção e combate ao câncer de cabeça e pescoço&nbsp;&nbsp;G1Câncer de cabeça e pescoço: veja sintomas, sinais de alerta e como evitar diagnóstico tardio&nbsp;&nbsp;A TribunaEntidade promove campanha de prevenção do câncer de cabeça e pescoço&nbsp;&nbsp;Folha de Lo",
-      "sources": [
-        {
-          "name": "D24AM",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMGhkWnVqbG16S3VTbWRpblE4cDdXcFV4Nl9iM3R6UWx5cGg1ZkZ2cWVsd21tOWxFMDNlTDRxcDJKVGVjb0ZrT3laM25qWm1keXpFTVU3cDdhUDd6WFdaOGhRQnhleGpHY0hQQzUyV3dkR0Z3ZU8wcl9XRkJfQllYODJoMnR4WFVuR0NHTjFqMGI2RzQ3TG9KYTdJVWRKazl1QkR3eFZ6cTNrQ1FkZlRn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b7575c526462",
-      "title": "Ken de CG é internado após espremer espinha; entenda riscos - Campo Grande News",
-      "published": "2026-07-26T11:42:00+00:00",
-      "summary": "Ken de CG é internado após espremer espinha; entenda riscos&nbsp;&nbsp;Campo Grande News'Zona da morte' do rosto: especialista explica riscos de espremer espinhas após caso de influencer 'Ken de CG'&nbsp;&nbsp;G1Ken de CG é internado após espremer espinha&nbsp;&nbsp;Campo Grande NewsInfluenciador Ken de CG é internado após espremer espinha na boca&nbsp;&nbsp;UOL‘Ken de CG’: influencer é internado com infecção após espremer espinha na boca&nbsp;&nbsp;Alagoas 24 Horas",
-      "sources": [
-        {
-          "name": "Campo Grande News",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcjlJU3pUQmxDREJsMEt4NzkzZUpEWFRFMExmcG5JaUZBb1UtemVjbFFMd0luek82ZWwtZllCdkp4RjR5a0dGMVBrOUVIbUJieTczZmx0NUlHLU1sbEJwZE1Da2liUm90REs3b21HM29wRHMzZzNRbUJka0xqREJsX1JHajRiUVlrVm1RSGQ0blBUQ241Ui0xbVUtVGJ5amdJRWZSU0lpUEpCaGVvWkpvVm5ITjYxd1VWRzNKQUZOM3g1cnB1a2txeWFRbEpWYVRmTXhuUkNvWkZPZnE5TDZr0gHfAUFVX3lxTE5uLWctTDZ3TTJQWjhOT0NMU3JfS295Y0o3eG5GS1hWbExyUGRBYTVnZ0c1V1hHbzEtVTVqTGYwbFFtZWsxcjNMRW1WckZiN21ESjVuTmJVWVBqOVE5N0ZTNGVjLXJFUlRwTFdmN21NWEI1VkhmTDQydVgwYjhJYlJFWUZ4Mm52YXY1bzRhbU80ZmNHUEpfaDdwR0xkV3ZESWE1eVk3V2lJRTZQZjU2ZkdwSnZSVHV1cFhxWVFOQ3pmWGdBVnlfcHoyVjlCZ2hiREVaRmFjUndwX3gzUGhmSzA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "698b6a87b8cf",
       "title": "Autismo em adultos: por que os diagnósticos estão aumentando - CidadeVerde.com",
       "published": "2026-07-26T11:40:00+00:00",
@@ -273,7 +357,7 @@
       "id": "79e3586d898d",
       "title": "Com novos tratamentos, estudo propõe mudar critério para identificar pacientes com forma mais grave de mieloma múltiplo - G1",
       "published": "2026-07-26T07:00:59+00:00",
-      "summary": "Com novos tratamentos, estudo propõe mudar critério para identificar pacientes com forma mais grave de mieloma múltiplo&nbsp;&nbsp;G1Novo tratamento reduz em 83% risco de avanço do mieloma e busca cura&nbsp;&nbsp;CNN BrasilO que há de novo no tratamento do mieloma múltiplo? – DrauzioCast #264&nbsp;&nbsp;Portal Drauzio VarellaTratamento reduz em 83% risco de progressão de câncer no sangue&nbsp;&nbsp;band.com.brMieloma múltiplo: Pernambuco concentra 15% dos casos no Nordeste de câncer raro no sang",
+      "summary": "Com novos tratamentos, estudo propõe mudar critério para identificar pacientes com forma mais grave de mieloma múltiplo&nbsp;&nbsp;G1O que há de novo no tratamento do mieloma múltiplo? – DrauzioCast #264&nbsp;&nbsp;Portal Drauzio VarellaNovo tratamento reduz em 83% risco de avanço do mieloma e busca cura&nbsp;&nbsp;CNN BrasilMieloma múltiplo: o câncer silencioso que ataca ossos e é associado à velhice&nbsp;&nbsp;A TARDEMieloma múltiplo: Pernambuco concentra 15% dos casos no Nordeste de câncer ra",
       "sources": [
         {
           "name": "G1",
@@ -306,18 +390,6 @@
       ]
     },
     {
-      "id": "ac94f39a35a1",
-      "title": "Fabiana Corsi Zuelli: Pesquisadora tem trabalho premiado relacionando psicoses a mecanismos imunológicos - O GLOBO",
-      "published": "2026-07-26T03:12:18+00:00",
-      "summary": "Fabiana Corsi Zuelli: Pesquisadora tem trabalho premiado relacionando psicoses a mecanismos imunológicos&nbsp;&nbsp;O GLOBO",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQbWROVVFGSExZYU1JbTd1S3VTbU5QcTBXbGJkY2pqNzVEcmVoZExmc3dWa1IzSjJza2NhMlMwWEtXV1NJNGpwVDhoaXVRMGFMWmhjOGVDenJLSU8zUmZjLWJKci1qSExQVlVNdzlEa0ljU2plbDlHNnNCcUJfdzFRVnhTRW1odVJhTGdzVmw0LUVBLV9kVThjNjhxZ1hYREZfYV9zMTlMakh1TDdyY1d4SjZWQjJUMXl3Wlk2d3JYS0E5Zk5mLWtpbXc5LXdXcGlnYTMtNEpTbV9FYnF6LVNiNUxtVWpzYzhrbFNoYWJlX2xVOWlqZzlvc0QwTDdrd9IBjAJBVV95cUxPd2JYUzhfY1N6bXhyVkhzNnh4d000Z3FQSnFjSTNHMjhtcm96OHVsMnVwUEZaSkNFNGZibjdzNjFSajJLeF9veTU5ZzJxQTRTZTVFNEY3akY1VjNIN0hfMFF2UTBIZjFUcUZmNHppN0JEcG5KRGJBR2xsU2dhS0tPVnZSUmdFVjgxMk91c2VYdnZoOVp0Zng2MUxWYWg5dkFCdWR1VWs1QmhuQVhhNS1kQ2hpVXRfal80T1A5eW0tSnBMY1NQZTRGc1lVS3FVcGEycDdIa2pwU2s5U3dyczdmNW44c2xEU3FaaWVPTGdqdmJRSnduOUpNMWEwS2x0TjZwWXFwMzU4OWQ3UThF?oc=5"
-        }
-      ]
-    },
-    {
       "id": "721064b1f1e1",
       "title": "Mychael Lourenço: Neurocientista, reconhecido internacionalmente por suas pesquisas sobre o Alzheimer, busca encontrar formas de enfrentar a demência - O GLOBO",
       "published": "2026-07-26T03:12:07+00:00",
@@ -326,18 +398,6 @@
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQSFlEZmRrTTBPTzhaVmFQVVBReXd6UGpJVlN4VW1mdC12SmoxdWV0NjJWcUNaWVFRZS1YajZJdTBWTHJDdF8wMnVHN2tyN29YdnN0bjRJVTFKdVA0eWM1U0NOWlpNR2xJWDI0OW5DYXE4YmVMU19JTnN6cEM3aDg2YXpyb1NhVFB5VkhJazFFb1VTRXdzbUdTdmx2Wm5Wc3BWdjVMVlR2MkZ0OTBmVWF0UFR0TXZHeDdIOHRHTjBFMzRaX1p3cjZjLXZVN2h4QTBqRWxzR3c3LVM0WVZGRkR5VW96Z2pSMHZVSW9SRlN5aWlyaGhPMFR2ZTc4azNHRWVReVRVNFl4TzNHVG13UEh1V1A3a2RReFNzOFBEV0xDUGVSaUxZbXh3UlpiejYwVFZDRlEzMDdtONIBxgJBVV95cUxOTHBsc1VvaXNMTVUwczQtdEpKNEpuX293Q01qN2xtVEFDWllIWUI5aTlNV244NURZMHFaUTV5Uk9PdjJqUXp5ZFdna0xhSURTSlV1UlpoeFY2X1A0cEFUbTZZZjhuZmVKZGVFX0ZhUUd6OHh5TlB4YkJyS0JhZmpxNkg2b1VUWTRzYTVKdXZaanJlNlN1ZzlzVTJUSWdLVHh5V3hlRVBvZVBGV2hCamVNVEJjN1BWbkNMZ2dOV2E5aDJRRXUwdUdvRE5HTjU2RlpMVlg4OHNhLWg0VHZsdVk1bkZCWlNRNU1nWktGV3A0aEE5S0ozZzMzMzZrVW5uTXNoVmN5UlNaSGw4a3N4cDlnVUVHU3ZRcXhJWE9QUTRKZ3IzRGw2T1lDclNpMExlLTZIRzRPSW5qX2dLcVhGR205RGsybUt6UQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e12baa035fe4",
-      "title": "Geometria pode ser instintiva: estudo encontra padrão comum entre macacos e humanos - G1",
-      "published": "2026-07-25T07:01:49+00:00",
-      "summary": "Geometria pode ser instintiva: estudo encontra padrão comum entre macacos e humanos&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcXgzTlNicVl4SzhVRWp4TFVoRGNwN1lQWllTcU1xVE9RZ21lWHVXbzllUG1SYnRCcVN1eWtxZzJ0Mm96MHAwLXY3Ukc1WmkzNmc3b2xkYTcyZktjcHNjRDlsN3ZRbDJNMzhMMjRWdFF4TWdhdjlrZGZaYU9KSzVabVNhMDhLOEZSaEdtdEZaeUQybDlmenVtdEJkTE1VV09aQVBCNEd1UWxPajRGWmY4UFRwcjZKQXlDaDJHZXZmX0tCcTduVEpxdU1sMVNYUGlXNkdQaG9lcG5sUdIB6AFBVV95cUxOaWg4bXI5SVBMLWpDckxSWnZhRHUyd2k1OG9xZG1CRjV2WDZfT21hRFFuX0t2ZTZEaVRVMTlxWlVMMV9SX2dVblFwYWZTMGVTWXdnVHBuSUZpTUlRdnpEd1VELXJhV21kQURXYkxQQWxDNnJYWjYzQ1pqaE1PYkViY2xBc0Fxc1lDNHFxVWhPQ1I2a3gyMlVzMUxzVlFRLUs1UHJubGdLZlpQNHo4djhESDFObzNBXzRDb3dDX1Z2WHo5c0liZU8xQVhNeHhmSGlJczl3aXFLSmhvVmwwcEoydTVwTUtaOXVH?oc=5"
         }
       ]
     }
