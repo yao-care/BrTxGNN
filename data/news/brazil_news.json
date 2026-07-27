@@ -1,43 +1,151 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-07-27T09:54:43.644053+00:00",
-  "total_fetched": 82,
-  "unique_count": 81,
-  "health_related_count": 23,
+  "fetched_at": "2026-07-27T14:38:34.942050+00:00",
+  "total_fetched": 89,
+  "unique_count": 88,
+  "health_related_count": 28,
   "news": [
     {
-      "id": "71bc9fe8c480",
-      "title": "Câncer de pâncreas: por que o tumor de menor sobrevida quase sempre é descoberto tarde - G1",
-      "published": "2026-07-27T06:00:08+00:00",
-      "summary": "Câncer de pâncreas: por que o tumor de menor sobrevida quase sempre é descoberto tarde&nbsp;&nbsp;G1",
+      "id": "dbb98b548c8d",
+      "title": "Restringir o horário das refeições pode reduzir o declínio cognitivo na velhice, sugere novo estudo; entenda - O GLOBO",
+      "published": "2026-07-27T11:59:10+00:00",
+      "summary": "Restringir o horário das refeições pode reduzir o declínio cognitivo na velhice, sugere novo estudo; entenda&nbsp;&nbsp;O GLOBO",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWC1KbXl3S2NxS2dHZ2YzcmpSWjZEbHg0d2llQkxocy1OY3JTek5oYWdTbjlLUTNjUkJDRDQxNkZwT0JCRFdRLUROZFB2bVBQVXY4U0hnYUhvLUNfclhxZHRPaXRzNUxPOWNzd3VxbE5RRlVEdjV6dTl6aGNUNDc4a2xwZVJ2VWlhYkFRUi1rQTlxSzlBMFMzQzFYS2JzOGVJaU13Tnk3OWVVWllrR1Bkdmc0NkZ3OGZJODFReTFkYUl2SnpZUWhaRjAyUUR5WW5pRW9FZ2M3aWVWaWFHOFYzSXprOVZYQkN6VTJDR2NTaTZDSWxY0gGDAkFVX3lxTE5FaVJNRWlWMnpVYkhoYUp6MTA2Vm9kdk1zREltZjI1NXJOWGtZcTVIM195bWdYU0puODFIZkxuS3NSbGNFTzVNRFVqVkg2R0J3R1FwX01iSlFNcVg0b2xKNTJPSzNPX0RaZW4yTVpwbVdraXltdVd4d0hrZnJmYzIzTXNYOUhyZmxfY3Y3dHNiUkdqUGZlQVZuT3E0bTl1R0JwN010Yl9ZZ3RlSnBHekpBdFp6b1NId2VGN3U3RHpUbjNfSk1IRWIxY01LMFJaSG5JWlZOa0VIaUpCVFBHSkxmTl9lek1idHZ6aFFQYWxBaHphNTEteTdWTW02c3cyT3lRTmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "28dc1d6fbe91",
+      "title": "Riscos dos desafios digitais: como proteger crianças - Campo Grande News",
+      "published": "2026-07-27T11:01:00+00:00",
+      "summary": "Riscos dos desafios digitais: como proteger crianças&nbsp;&nbsp;Campo Grande News",
+      "sources": [
+        {
+          "name": "Campo Grande News",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQa3VQYU52UF9Udm5lTHhUT1FqWmNUYUZFOXhZNlpMRkFRSkxQLXN2TVltbEtkSGc2Rk9nNmZCM2tzVFNFWmk1empSVGxMei1paUFrWjJZN196ZUh6TEJKek1jUWFJMGVCVTJ3cko1NE5fVHRiSjE1RUFJc0w5RzQ4cExCNXZYNElaMVFNaDZjcHdmWUdXeVZVazJIUlhxdU5zQVMzMVNDLVJBbFhwMks3dnVlVTlsOXc0S1lGSjJ4S3ZNVUdpcmwwRnRDa2lqTEZoRTJrRTlnMEJGTGViX0ow0gHfAUFVX3lxTE9KSnRyYWp2TnJOVHgxN1NpWlczWmozXzFGT2ZCTHlXc2xITi00LU9GbGYxOS1sOVNweVJIZU9hYWxobkFzbGo4UjFyQlNDYk5reG9WM3R1U3dfUlZNREhSbllyNEl1NXhlUTZMZDlSczhoM0lqeVV6RTFuVGhjUUFzbGRmZ1U5bzhYT3M4amJRNTNIZEtsZTN6X3d5Mng5S3hHdXJoeUlyeU1MdXM4ZEttU3c4RjAwbktXYkZRd0Roc0V3bGtyMXctY212Vk0tRWZSUWxHcnlPQllxdEctVm8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6b3c4e2efe10",
+      "title": "Isa Scherer revelou ter diabetes gestacional; condição traz riscos e não costuma dar sintomas - G1",
+      "published": "2026-07-27T08:04:19+00:00",
+      "summary": "Isa Scherer revelou ter diabetes gestacional; condição traz riscos e não costuma dar sintomas&nbsp;&nbsp;G1Veja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
           "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaktsWWRTTlNMQzI1RE5YWEtJR2laRk8tX1QzQkNvNVpBcEdpU1EwQ3VRT2RZaFZ6aU92cU05bjh0QjJiUDZGT0Y3SEhfS1UzaEp4MGhTUUZFOEdDUXNjYXUyaU5DaHdOa3F3Nk84bVRXZGFrb1VwOXRSX0d1SHBHX2FRem1sc2hGb0h0ZzdJWVZVeHNZdzlYX2pDYm4ySzVBbnZzMGFHX09fckx5OVZENkdqNVhxS21KajVTNnhRRk1rNTNIUUdlSXRZUEFwWEhBcTZZ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNR0FsQTJ4dXVnVDZ0WlFlNmNzXzNCaHZWWlQ4SGxrVUZFUHZrNTN4OTlRUzlWVFBPUC1JaHZUdHlTVVZoWDUtQXVKWlNoVm5TNGd0b1pNdVVUUW5aVGJsTnF4d3FNSlptbzVySHVGSFpfOWhuMWdXNVl3ZjRreXY5djl1WVd2NUVSTHVrb01SZmxXdFZOT2Fjb3NOM3BTWkRmQ2tMSjVJOTVzX3NXWDh5SGdaZjg3U0JZdjRsSU54SVp0NFh3YWVVSVBpenVLNmN3SFVDclFGbDZ3al9n0gHrAUFVX3lxTFAtSGFnVlVoVXRvaTR6NlNIdlRDUTUyOEtITm43TVdPTkVKdkNrQjNhRnhteE1XbnBxdWZzUlFrNlpneHc5a3l5QVR6bWdOSWRTNk1yX25uMjZNYlZfVkZwTzBWR0pJUzFqYlZfbU9JQkxNT3pSYk41U3JReTBGR0V0c01rU0NqbmNsdUpBR0hwRFVYTk9XWWJuNUpDWVlub1BMTEFYbUc1MDZUdF96MnhHMVFNaVd6aDVTc1locU1JNTByM29QYVViQ1Z0ajVPWEo0VG9KTWZLbG9yT0tVc1dFQ2VHeVEwdExlNTQ?oc=5"
         }
       ]
     },
     {
-      "id": "957794102cc7",
-      "title": "Câncer contagioso é descoberto pela primeira vez em peixes - Revista Oeste",
-      "published": "2026-07-27T01:06:00+00:00",
-      "summary": "Câncer contagioso é descoberto pela primeira vez em peixes&nbsp;&nbsp;Revista OesteCientistas descrevem o primeiro câncer contagioso entre peixes: as células do tumor passam de um animal para outro&nbsp;&nbsp;G1Forma contagiosa de câncer se espalha entre peixes em lago na fronteira entre EUA e Canadá&nbsp;&nbsp;Folha de S.PauloCientistas descobrem câncer transmissível em peixe de água doce&nbsp;&nbsp;TerraOpinião | Descoberto mais um câncer infeccioso&nbsp;&nbsp;Estadão",
+      "id": "8510b3e76a07",
+      "title": "Cientistas descobrem câncer transmissível em peixe de água doce - Terra",
+      "published": "2026-07-27T07:58:00+00:00",
+      "summary": "Cientistas descobrem câncer transmissível em peixe de água doce&nbsp;&nbsp;TerraCâncer transmissível: entenda a doença identificada pela 1ª vez em peixes de lago entre EUA e Canadá&nbsp;&nbsp;O GLOBOCâncer contagioso é descoberto pela primeira vez em peixes&nbsp;&nbsp;Revista OesteForma contagiosa de câncer se espalha entre peixes, diz estudo - 23/07/2026 - Ciência&nbsp;&nbsp;UOLOpinião | Descoberto mais um câncer infeccioso&nbsp;&nbsp;Estadão",
+      "sources": [
+        {
+          "name": "Terra",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPcEVSWnl1azhRXzFpb0kxTzNBUkJPcFZGY0dOYlItV0tpUVZvUWQtcDU4d25GWUhPTGVXdHU5MGRBQXJkSHJVNmpIcHlGcU9zVXl3V1g2T3pNMWNCMExTVFFPWndNS0FuWW9rOERuVnRlUjd2NzVoM1hUQ0NFWWhNZUVpNkgxS3E0Q19nRDRNMkZyMXRpQjlsMC1fZDN1VTMtOFM2dUJlZFNDVHk3WFdJSFpUaTFxY3BpYU5nYnQ5cTNWaU04OFdNOEV5R04tNFhwdWh1aC1MV29sLUJlV0dRNXZRRQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "62c20dc5d719",
+      "title": "Creatina sai da academia e chega ao cérebro - O GLOBO",
+      "published": "2026-07-27T07:30:31+00:00",
+      "summary": "Creatina sai da academia e chega ao cérebro&nbsp;&nbsp;O GLOBOSuplementos de proteína e creatina além da musculação&nbsp;&nbsp;MedscapeNoites de insónias? A creatina pode ajudar&nbsp;&nbsp;menshealth.ptCreatina além da academia: estudos apontam benefícios do suplemento ao cérebro&nbsp;&nbsp;JM OnlineCreatina precisa de fase de saturação? Muitos ainda confiam em uma recomendação antiga, contudo estudos atuais contradizem&nbsp;&nbsp;Tua Saúde",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM3V1cTZGaHZXLXE1NVptTUstZFM4eENtaHpFNzJPNnpGRG5PZS1YWlBJWWNZU1cxdkJhRERMcVJRSm41SEItYUZFUkE4M1B4T1oxRUktak41MVJjUm5uQ2ZZaTdLZjQtTzhTQ0FVZEdGNjFVd3RBTW0yZU52Y1g3QUgtR2Qxc1h1c2hnSENXX2JrZ1NHQk1UUnJ0d1N3RDVlY0x2ekkyNnpZZEhz0gG7AUFVX3lxTE5CZWNVRmZfeWxuNnlicms0Y2pIRllqWGtmcWl0MFRnemluQmFlN0ttc1FCcW9zLTBNQzYxM1ZMU1lyMGlVaHBKc2xpc21HaGNVWGo2YmYyb0xpSXJBdkJtU1N0bTF2MWVJMGpyUUkxUlBEYWpsRGtFd1pJMklKNjVRRS1JeEdPZzhfd1lIR3VhOXRQRm5UelVQS2s5WlVmUWEtT3B6Y3FBVkd0amI1QVR4TFN5V3BiSUxwakE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "087818122ed1",
+      "title": "Dois recém-nascidos foram encontrados em um antigo canal romano e a explicação surpreendeu os pesquisadores - Revista Oeste",
+      "published": "2026-07-27T07:05:00+00:00",
+      "summary": "Dois recém-nascidos foram encontrados em um antigo canal romano e a explicação surpreendeu os pesquisadores&nbsp;&nbsp;Revista Oeste",
       "sources": [
         {
           "name": "Revista Oeste",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOanB1OVA0ZEZSdnFUZWNseE9YeVdIa01WVnNKalZYbUJ6Q1pud2hjM0JRcWFkQWlzeVZhNExmSUpjSlJCc2hrT1Fha3NBNWRGYWNoLXNwNWxhTmZ4YXhtNGNtVjVSb21JLTJ0bmprOENkWmZFMDhacF9XS1FuUTF1bS05RS1VUzJlMzA0WnF3VklHQkFY?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMXpHN1p5RHpGX08xSkkwTnYyTmJ2QU9rdHJGc1F6RlNNMEdERm9neG8tZVNoa2pjME81V1V5aVRwSjN5ZGh5eTRxd0FfYzctdHNUd3NXa2d0bmpZYWtVSXhjTzdBY3pBSWpnSFNTcl96RW9FMXdEVF9hbVVTTnM1TFZGM3pBbUgzRm02VC11QW1qVWpXS09jZ0dZWV9oRnRBRHdZT0g3elNnZl9VcHdLc0RMRUQ5WFhERWNzb0NJemwzeHpRajVhWjBVbTVDMGFsbG9YamlMYlBmajAxT0VjcGNhZU52a3ZFcmV3?oc=5"
         }
       ]
     },
     {
-      "id": "5b2bf767d1dc",
-      "title": "Menino de 8 anos encontra pequenas bolinhas no quintal e contribui para descoberta inédita da ciência - Diário do Litoral",
-      "published": "2026-07-26T23:50:00+00:00",
-      "summary": "Menino de 8 anos encontra pequenas bolinhas no quintal e contribui para descoberta inédita da ciência&nbsp;&nbsp;Diário do Litoral",
+      "id": "0ff64b9100b0",
+      "title": "Pesquisadores desenvolvem vacina para tumor raro em crianças no Paraná - Folha de S.Paulo",
+      "published": "2026-07-27T07:00:00+00:00",
+      "summary": "Pesquisadores desenvolvem vacina para tumor raro em crianças no Paraná&nbsp;&nbsp;Folha de S.PauloBiobanco de Curitiba reúne 30 mil amostras de tumores e impulsiona pesquisas no exterior&nbsp;&nbsp;Bem ParanáBiobanco em Curitiba reúne 30 mil amostras de tumores pediátricos raros - 15/07/2026 - Ciência&nbsp;&nbsp;UOL",
       "sources": [
         {
-          "name": "Diário do Litoral",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQU0twSE1PVUlFNHpISFVoNnl2NDdrOXhWTjRmWjVkVnBuTUVRbUdHVUR0SkZkaGYwZGR5OG9zTWo0eENWVEpVRmt4T1B6bnpxRUhUZE9iSW80Q0d0UmpEdk5jckpKQmdyajk3ZlpPV2dydmNETzlTUm1QcmNtSEs2eUJaU2g4b25vRmQtT1NBdXNQbDlObU5haHZNQzZlbGtLOEtiUmlvTFdnRkNsd2NpUTMwQ0Fmcktnd1BvaUdzVXhYWW1RRmtKanRxSzFFQ2NqVWhGdWtTM2x3X1ducW5uSg?oc=5"
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPa1p6ay1OcFllZ19GZGpUOUtzZ2xYR0RVcXhleUxUQXVhTjUyR2MzbEFVTldVZ3FWeFc3VVktdlBWdGpmX2FoTXlaYWJmNVJiZWs3WE9zeFZvVFg1RUgxdnhpbGxTV2FDd29PdHdleFlsa2d0OGlVbEtGWEVSYVRkNXdfQjRrR0tCczZmOGlsRHFVSUdFRDJtb0lKVFZxOUpuWC1lQUZjN3Y2SGRoMGFMR1Z4eU9GWVVsdkVfb3FuNkZLS0gwdkZJSGNSOA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "729da71d47b2",
+      "title": "Os melhores e os piores hábitos para o seu fígado - 27/07/2026 - Equilíbrio - Folha de S.Paulo",
+      "published": "2026-07-27T07:00:00+00:00",
+      "summary": "Os melhores e os piores hábitos para o seu fígado - 27/07/2026 - Equilíbrio&nbsp;&nbsp;Folha de S.PauloA barriga inchada e persistente não se deve apenas a gordura localizada, mas sim em alguns casos ao depósito de gordura no fígado que pede urgente avaliação&nbsp;&nbsp;Tua SaúdePor que a doença hepática gordurosa é mais comum em pessoas que não consomem álcool?&nbsp;&nbsp;Vietnam.vnFígado também sofre com excesso de açúcar e médica faz alerta&nbsp;&nbsp;webrun.com.brGordura no fígado mudou de n",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSFRWN1hQb2NXMkVBbkJLQkRhakk1TUpfZDFoNzFPRGVLSU9wdldnZ3Y2VmFHc0E4Y1BqRFZfTjkycWRVcHJPVXE1bDFNcUM1NFBLMWZtc0g2OEZSZnFmVWExNC1IejNZSHozNlh3UUtUS3pRdEo2bksxbHR2RWJIZy0yN0hodEhLNFZSUFRhOUdPVkJoQUM0SUhSSzZhaWU4dWZLZTd5QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c4b300eae62a",
+      "title": "Um ano após chegar ao Brasil, Mounjaro muda tratamento da obesidade - CNN Brasil",
+      "published": "2026-07-27T06:45:12+00:00",
+      "summary": "Um ano após chegar ao Brasil, Mounjaro muda tratamento da obesidade&nbsp;&nbsp;CNN BrasilCaneta emagrecedora: Foz do Iguaçu quer definir regras de acesso ao Mounjaro pelo SUS&nbsp;&nbsp;InfoMoneyComissão vai elaborar diretrizes para uso da tirzepatida na Atenção Primária à Saúde&nbsp;&nbsp;foz.pr.gov.brAnvisa aprova uso do Mounjaro para adolescentes com diabetes tipo 2&nbsp;&nbsp;SenadoTirzepatida transforma tratamento da obesidade no Brasil&nbsp;&nbsp;boca.com.br",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTkpQQU1GYmkzdWk0UXB0Y0pJWjB5SHZyTnppamNyZ2hQOV8zRVU0b0d2RktLamZYTFlsbk42RXFfalRydTNwZWVYcU83MlVxaGZUZ3ZnTEFwXy0wbnljekItX3kxZlhFdXFnU291SFo4MlZKMFk0Q250dC1hUEx1SGVFVDBtSDB3SzZOWkVrVjctOE9FT19oRGJINXN4OEdCTkFZOQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b027f63ff20f",
+      "title": "Adolescentes que passam a tomar café da manhã consomem menos doces e mais nutrientes ao longo do dia, diz estudo - G1",
+      "published": "2026-07-27T06:00:09+00:00",
+      "summary": "Adolescentes que passam a tomar café da manhã consomem menos doces e mais nutrientes ao longo do dia, diz estudo&nbsp;&nbsp;G1Café da manhã rico em proteína e fibras ajuda a emagrecer, mostra estudo&nbsp;&nbsp;SuperinteressanteEstudo aponta combinação ideal no café da manhã para auxiliar no emagrecimento&nbsp;&nbsp;Fala Você NotíciasCafé da manhã rico em fibras ajuda a emagrecer, segundo pesquisa&nbsp;&nbsp;Seleções Reader's DigestCafé da manhã com proteína e fibra pode favorecer o emagrecimento",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPVUc5MkZVWjg3b3hyeC1IOHd4aV85THVHZnd5U254TkRaQ1k5YnVhNWlhR0RqZzRRMzhreEJ3RHNmQkpVTVk4R2JnUWw5VlN1bWgxOHRIYjFYeU03RUZ2MlFmb0VTaHVBcGhYaHplVmwtM3dUV05rQndwakFvNEt6MUhDNkhfNi1LMzBMZGdnUHBqbWVNR2JoakZ5b1JvWkJfM3dKUUVTN1lNLWZ3NDNaSlpaM01OQXpZZzBYbWJ2UkQzSlBrNG5TUFh0OXMtOGkwUG1xYzVGSmJhUkF4ZzVaRFAxc24tM0VXSEl2d2cyNlhZX1B3UnfSAYQCQVVfeXFMTVlVLW0tNVRKYUtudk5jSHdoLUxPTGNwTGJkNkY3S1RYRXJGUk1IZjR6MmpTTUZiVVRHSkszdWZESjlGdE10U013MWkxbXNqVzZMM0FnUzFmVXlwYjBWOFhnWkZVb3VPU2EzWExfU1I1OF9NcWVWWk4tbXc0aFdrNzFteTdqQ2ZjT1RUTjk2WjZGcDh0V2hGVDFkRVRnUmNUaXdnVUNLblR6T3lEcS0wbWp5MFVKci10WFFZSnB6WkRQNHdxUE9ydm11eTc5Z0tXNEpuRHVmVm1TamR4VUtHc2l4N2dMczdRdVJ3dWNOZm0td0k4eF9Oc2dnWGNGbVNMdjBoNEs?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f7346dd463f4",
+      "title": "Câncer de pâncreas: por que o tumor de menor sobrevida quase sempre é descoberto tarde - G1",
+      "published": "2026-07-27T06:00:08+00:00",
+      "summary": "Câncer de pâncreas: por que o tumor de menor sobrevida quase sempre é descoberto tarde&nbsp;&nbsp;G1Uma dor abdominal que irradiava para as costas levou à descoberta de um câncer pancreático que havia invadido importantes vasos sanguíneos.&nbsp;&nbsp;Vietnam.vnO sinal que levou aposentada a descobrir um câncer de pâncreas após anos de dores&nbsp;&nbsp;Diário do Centro do MundoCâncer de pâncreas: por que a doença costuma ser descoberta tarde&nbsp;&nbsp;Portal Tri NotíciasUma dor abdominal persist",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaktsWWRTTlNMQzI1RE5YWEtJR2laRk8tX1QzQkNvNVpBcEdpU1EwQ3VRT2RZaFZ6aU92cU05bjh0QjJiUDZGT0Y3SEhfS1UzaEp4MGhTUUZFOEdDUXNjYXUyaU5DaHdOa3F3Nk84bVRXZGFrb1VwOXRSX0d1SHBHX2FRem1sc2hGb0h0ZzdJWVZVeHNZdzlYX2pDYm4ySzVBbnZzMGFHX09fckx5OVZENkdqNVhxS21KajVTNnhRRk1rNTNIUUdlSXRZUEFwWEhBcTZZ0gHiAUFVX3lxTFBHdTZ0S3NLaGloTlROME1LU0dZNFpSeE0zVzd3T0xnb19kNXotdk0zSzM3WmFZYldsNi1qM1YzRE1rOXk3b1FqRi11eU5JTC02dHhqNGJrT3dQbkdKTjFKb0VnbEtGczlUbF9jcHlGXzF2cHV0aU1pSUthOF9GZ0g2aWxsblVPNDY4NlI1VFpLTElsS0FPdm11RVliMmRDYzVqalR3LU0zSXlpa2hfYmdRVFVuQ3V3ZlVNaHluX0t6aERHdmNSNFN6b2EyRkZYZHhoSnFoM1kyWDR4bzRDNnFJR0E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "aad459d12500",
+      "title": "Protesto interrompe evento dos EUA em conferência de Aids no Rio - Folha de S.Paulo",
+      "published": "2026-07-27T01:30:00+00:00",
+      "summary": "Protesto interrompe evento dos EUA em conferência de Aids no Rio&nbsp;&nbsp;Folha de S.PauloOpção pela morte&nbsp;&nbsp;CartaCapitalMenos crianças receberam auxílio contra HIV após cortes dos EUA, diz estudo&nbsp;&nbsp;CNN BrasilAIDS 2026: Destaques do congresso da International AIDS Society&nbsp;&nbsp;Afya | HomeAIDS 2026: tecnologia e estratégias comunitárias redefinem o acesso à PrEP no Brasil&nbsp;&nbsp;Agência Aids",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUDhNc3QyaEhQUjJBcXY1X3EweTNFNlQ3UTk3QjVXMXB3NkZVX1NGUWVoZUZHWVRrSkdWY2REcUFPVHhGbGxiZ045X3FDYl95b0xIbmpVUWl3ZHM0enNRQU5MaW1zdDV2UFVlS0cyUnUtaWE2Z0ltcHljRVZ2ejhrUEFaNDZtcE1yQ0ItTHR4U0oxdVVIbHlCSlMtLVZpS1BzMElKWHFlR0QwemY2U1Z5b3dUc0J5UFdoVVNya1g1Mm1HQU0?oc=5"
         }
       ]
     },
@@ -69,7 +177,7 @@
       "id": "7a9604603820",
       "title": "O psyllium realmente faz bem para a saúde? - Estadão",
       "published": "2026-07-26T18:04:00+00:00",
-      "summary": "O psyllium realmente faz bem para a saúde?&nbsp;&nbsp;EstadãoPsyllium ajuda a emagrecer? O que a ciência diz sobre o suplemento apelidado de 'Ozempic natural'&nbsp;&nbsp;O GLOBOAlém do colesterol: como a fibra do psyllium também ajuda a controlar a glicose em quem tem diabetes&nbsp;&nbsp;Tua SaúdeAlém das fibras, psyllium é prebiótico e ajuda na saúde do intestino&nbsp;&nbsp;Metrópoles“Mounjaro de pobre”? Entenda os benefícios e cuidados no consumo de psyllium&nbsp;&nbsp;Diário do Centro do Mund",
+      "summary": "O psyllium realmente faz bem para a saúde?&nbsp;&nbsp;EstadãoVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
           "name": "Estadão",
@@ -90,18 +198,6 @@
       ]
     },
     {
-      "id": "08428f32fe5d",
-      "title": "Voz dos Oceanos: Campanha alerta para impacto de microplásticos na saúde de bebês - UOL",
-      "published": "2026-07-26T12:30:00+00:00",
-      "summary": "Voz dos Oceanos: Campanha alerta para impacto de microplásticos na saúde de bebês&nbsp;&nbsp;UOL",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeVZBczJJdVR5TTNicjdkZFRSX2VfOTdfaFJ0SmxnYmNhTzZZMUpGNUtwa3lqMFhMcmFtZURDQ2lBWExob0J1YWU4ZC0xUVRZNmRmbUNYVVN3bFlKSm9GdFJvWDN2VTBjUC0yX2IzNVdGazkwZWROTHhJWGJMc2p2YUQ5NGpQT0pIOHlRQjdFQU0wMURmZXhYYm1EZEROOGJLRGpsSmdwazZhck1PRnMzQXVrNUczajJ0aGFfOFhLUGJNaXJlXzZZcmNYQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ec05b6929980",
       "title": "Médico: \"Muitos advogados tentam livrar réus com tese de surto\" - MidiaNews",
       "published": "2026-07-26T12:00:00+00:00",
@@ -117,7 +213,7 @@
       "id": "92bf3d63d541",
       "title": "Oito em cada dez brasileiros descobrem câncer de cabeça e pescoço em estágio avançado - D24AM",
       "published": "2026-07-26T11:45:59+00:00",
-      "summary": "Oito em cada dez brasileiros descobrem câncer de cabeça e pescoço em estágio avançado&nbsp;&nbsp;D24AMFernando Maluf | Julho Verde reforça a prevenção contra o câncer de cabeça e pescoço&nbsp;&nbsp;Poder360Julho Verde alerta para câncer de cabeça e pescoço&nbsp;&nbsp;G1Médico alerta sobre sintomas comuns de câncer no pescoço&nbsp;&nbsp;Gazeta DigitalPraça de Fortaleza recebe ação contra câncer de cabeça e pescoço&nbsp;&nbsp;O POVO",
+      "summary": "Oito em cada dez brasileiros descobrem câncer de cabeça e pescoço em estágio avançado&nbsp;&nbsp;D24AMEstudo: diagnóstico de câncer de cabeça e pescoço é tardio em 70% dos casos&nbsp;&nbsp;CNN BrasilJulho verde: especialista reforça prevenção e combate ao câncer de cabeça e pescoço&nbsp;&nbsp;G1Câncer de cabeça e pescoço: veja sintomas, sinais de alerta e como evitar diagnóstico tardio&nbsp;&nbsp;A TribunaEntidade promove campanha de prevenção do câncer de cabeça e pescoço&nbsp;&nbsp;Folha de Lo",
       "sources": [
         {
           "name": "D24AM",
@@ -129,7 +225,7 @@
       "id": "b7575c526462",
       "title": "Ken de CG é internado após espremer espinha; entenda riscos - Campo Grande News",
       "published": "2026-07-26T11:42:00+00:00",
-      "summary": "Ken de CG é internado após espremer espinha; entenda riscos&nbsp;&nbsp;Campo Grande News'Ken de CG': influencer é internado com infecção após espremer espinha na boca&nbsp;&nbsp;G1Influenciador Ken de CG é internado após espremer espinha na boca&nbsp;&nbsp;UOLKen de CG é internado após espremer espinha&nbsp;&nbsp;Campo Grande NewsInfluenciador Ken de CG é hospitalizado com infecção após espremer espinha na boca&nbsp;&nbsp;Terra",
+      "summary": "Ken de CG é internado após espremer espinha; entenda riscos&nbsp;&nbsp;Campo Grande News'Zona da morte' do rosto: especialista explica riscos de espremer espinhas após caso de influencer 'Ken de CG'&nbsp;&nbsp;G1Ken de CG é internado após espremer espinha&nbsp;&nbsp;Campo Grande NewsInfluenciador Ken de CG é internado após espremer espinha na boca&nbsp;&nbsp;UOL‘Ken de CG’: influencer é internado com infecção após espremer espinha na boca&nbsp;&nbsp;Alagoas 24 Horas",
       "sources": [
         {
           "name": "Campo Grande News",
@@ -146,6 +242,30 @@
         {
           "name": "CidadeVerde.com",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSHF4TG5YdVpsMUsyaGJCclpuVzFKVlNrQWU1SjJGQ1hMSFpIc2ZaSFB1N2RoZHRqa1NNWm1WeEdHSDVxNTFzU1VEcGZWSTJNTnpZTDNUMkx5NTlON0I4Um5lbXRyWHJjb2hrelExOU9pUXpsUU13SjZfUDZEaXBaVDJELTJnMFN3MkVFZlMzcDlLVmR6U0swNzgwRk5JRFU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1c5acb710a5c",
+      "title": "Bolsa não é farmácia: carregar remédios sem necessidade pode mascarar doenças - Extra online",
+      "published": "2026-07-26T08:00:14+00:00",
+      "summary": "Bolsa não é farmácia: carregar remédios sem necessidade pode mascarar doenças&nbsp;&nbsp;Extra onlineBrasileiros ainda desconhecem perigos da automedicação&nbsp;&nbsp;Correio dos MunicípiosRelaxante muscular por conta própria: por que esse hábito tão comum pode ser um perigo&nbsp;&nbsp;Rede 98Automedicação preocupa e acende alerta de saúde em Franca: hábito é muito comum&nbsp;&nbsp;Jornal da FrancaAutomedicação pode mascarar doenças graves e causar danos ao fígado, rins e coração&nbsp;&nbsp;082n",
+      "sources": [
+        {
+          "name": "Extra online",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX2xlOFB5TXZwWURqbFlEQ3hGSW16UmJEc3BXTmx5V3Ayc0g0QzBQLVh4M3dVZG96MHRuS0Q2a3dZXzRhdEpLUUZ5TG5kamNxZ0V3VTdKanUyY2RYUF9GeFBUWGpKY19VaDVCenlTMDkzcllCNk5IdjdFTVpkRkhoMlp3bWFsa0hDaDJDZElrOGVfTG9tLTQtSHVzUHNPVE13QzIxYW1tcWphbmJqNUtrSkVCTzVTUlUwTlhmcWJOQVhPUkZvQlZV0gHWAUFVX3lxTE41clV3aXFtbXFXTGM0MV9TNG5hOWZoeFRRNGZPSW55Q2lHVlRhWEVzODh1cWZNTEZaMEpad0VkVGZ1ZzhEQkdaUFYtX28yN2xJT3BqUUNRMlBycjZUcE9FRm9KRWhBelBXZUFCN1ZDQjhjamwwMURhaVdQZEthbnNnYXVhc2IxWVJ2Y2NTTHRIdlBXOG9FQTA4YmxnbXQ2VVlmOUl3YlpOS2tpVVpYOG1xX3V5c1hwanhfYkUyejVvNmF6X3hfU3RKSnpoOS1aSW80T0NRSXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "64976b064ee0",
+      "title": "El Niño vai aumentar riscos de temporais no RJ a partir da primavera; verão será mais quente que a média - G1",
+      "published": "2026-07-26T07:01:04+00:00",
+      "summary": "El Niño vai aumentar riscos de temporais no RJ a partir da primavera; verão será mais quente que a média&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQOGZLMHdQQ0FhaXRFUTMwX09tZW5oVDdBeDl2bVhwQ1FHZDJoR0lWTlR0RlVlRC1pNFFUckRtNGJsaUhGN082eFRjMHBnczdEM3BMMGZ5Wm82WjUxRy1VS0pKMEJNWXozajZHVlhQdXlEaWF5NndLcFI4cHE5TWVaUGpfMVhmUXhoU0RCS252ZUdtMTFGY3NXNGNPay1XZDRKcXFiLUIwRjkzYU5XZFpNWUEzTXk2QXNSM3AxR0I2NTBsME9pNHp2VGlSNkRqS1dVT1NBb19YMEowRl9JSlpJSHh1WWZtUTJ3bmNzWHZXTUxMRHgxNlpxbTYwSdIBigJBVV95cUxPdENrb0Jjb3VseEY5U0FVOHRpLVgtekdfMGp1QXY0MXY3NEFiVEw1SmVTQWtndUc0SC1aeEVQNmEwWUg2a2VVYVp3M1hPTXpCYWU1aHhGRzExQlI4ZGhmLV9zRkFqaEZmUzdsY0FKUDFpc3NxUFoxV3BfWHlMTjFPYTJ0a1BsVnVxZUg3VzdzYmRSV1NZTUlZb0R1aktmcFBYN2Y5U0xrYkdtWWE0cDhoOXVrazVlcnAtSmUyWF9LTklxNkhDUmNKRDAzVU1DSjBTZGRDdkhqajFPVnJwWExKQWdGRzh6Nkh1Z2NmdGV1bmQxSG9vcDhqS1pGUTVNN0EtNW1lcXRrSkczZw?oc=5"
         }
       ]
     },
@@ -210,54 +330,6 @@
       ]
     },
     {
-      "id": "4ec2a7184386",
-      "title": "Suco verde faz detox? Médico diz que o verdadeiro \"detox\" começa quando você abandona estes hábitos - Jornal Correio",
-      "published": "2026-07-25T20:00:00+00:00",
-      "summary": "Suco verde faz detox? Médico diz que o verdadeiro \"detox\" começa quando você abandona estes hábitos&nbsp;&nbsp;Jornal Correio",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQXBYazBkUWZkTWtIZjlsZndkX21kU2puLW1jdGxHYUJKN21oR0Y4RXBzY1NXczBpdHd5V183M085MGRwU1FDN2QxdEVMbzVuTl9iQ0pBMW9HSEN1MTRyWlAtamZoeE95RXc1bEZXMTF6WG5FdU9iUTZ0b1VaQ2Q1ZWNlTVp6RDE5TVQyZ3lTU0RIZlBXZlpvbmNZVkZ6NHdFRW5qQ28yeF9FVFplS0ozanZlbWJsWXh3V0Ffeko5QWRtcXBWbGNVWnZKLVZ4Z0dEOUpFWmFCUDA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ac2edce6f8c3",
-      "title": "Gordura no fígado mudou de nome e virou alerta mundial; entenda os riscos da MASLD - Terra",
-      "published": "2026-07-25T11:22:00+00:00",
-      "summary": "Gordura no fígado mudou de nome e virou alerta mundial; entenda os riscos da MASLD&nbsp;&nbsp;TerraA barriga inchada e persistente não se deve apenas a gordura localizada, mas sim em alguns casos ao depósito de gordura no fígado que pede urgente avaliação&nbsp;&nbsp;Tua SaúdeFígado também sofre com excesso de açúcar e médica faz alerta&nbsp;&nbsp;webrun.com.brHábitos modernos ameaçam o fígado&nbsp;&nbsp;Correio BrazilienseMais comum que as hepatites, gordura no fígado exige mudanças no estilo de",
-      "sources": [
-        {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPTDhrNFJHVGJPbC11Y3FfSjZOci1kcmNwSkdlbmFiSnVVTHl3amRCaDhwZHo3WUplbXloLTg0cnB2eXBZbVdxNDFnRngxcnBUT0dmekdOMmpDYjRMY2FnbEhPRDdudjl6cUhMTndHSklSbUt2b2l6N2dfMVUyak9tekRFLWlGdHFZbzg1WjVDcG1pc0xxYkE2amNDb29QanprazQwc3RzOWFvNXdjRWZiRURzTThqMnc2NzlNeURIakxNSk52MUhILUh6VXZOYkVqUUswQ1poZzM3eVlPZW02Nng1UUc0NTJ1MHRPb2ZGU0Q5cG9VR0xMMFZn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a40b1cca8fe7",
-      "title": "Minas Gerais é o segundo estado com mais amputações por câncer de pênis - O TEMPO",
-      "published": "2026-07-25T09:00:02+00:00",
-      "summary": "Minas Gerais é o segundo estado com mais amputações por câncer de pênis&nbsp;&nbsp;O TEMPO",
-      "sources": [
-        {
-          "name": "O TEMPO",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSElDdi1uX2tndmUwenF4ZEJjZ2I1aGdUUDN3aU1WcXVQNXJkRVRWcHZNWUhTOEdCeXpueWZ5RmVMNVBNdEpKT1V4ZVhOTE9LM0FScDczWXRHZ1pyRDZiYW9fZW9yWlJaUDctSEJaMXdYU1J2dG81dzRKQ29yUzdDZURMZXFMMmFCN0dFVHpodGNQSjdWaTc2dHlBRERpMEdfU3B4a09fYkpPU1p2OC1vWDFvdmJYQdIBuwFBVV95cUxQMWtyUG5hdmxfZ3duREsyb3VHd29waHQ2Q2h4Ym04a2xiX050N1YtNnZ5ZmhnaVh2NEU5UURheHZlbjVPMGhQZXVfZlh0WWdtdGljSlVkbTlKMUtmS2VLaXlCWlRCRVU4TmVjRVJycWZEb0t3R2tKWXYyejd0NWpNYThEUUE0MUZXWTlxTXRqWlYwQ3A0akp6cVk0STVDOTZGODNXMXE1bFVva1ZhMkthMVY1RlFVcjVVVEtR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "02807f0ac828",
-      "title": "\"Super El Niño\": pesquisadores alertam para efeitos climáticos extremos - CNN Brasil",
-      "published": "2026-07-25T07:30:51+00:00",
-      "summary": "\"Super El Niño\": pesquisadores alertam para efeitos climáticos extremos&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNelNkYl83MGpBRlNTVGZzYmJINXR6bUN1TWJlS0VjbHpkU2VjNjlSbmFXZERFaHlBT0xNaXdmTVRvLVVoWHNPUUw2NjQxb3RzM2U5Z1Z3aW5RM2hDRWZQUHotMXNfT0tfM2NJSFFDclFLdUxhYVVhbmdxYTQwOTI0WTI2QUpoRkZqZk1zX3BXbVFXd0phcE90eHlZZUhYYTRFUG5NYjVKdmdzdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e12baa035fe4",
       "title": "Geometria pode ser instintiva: estudo encontra padrão comum entre macacos e humanos - G1",
       "published": "2026-07-25T07:01:49+00:00",
@@ -266,18 +338,6 @@
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcXgzTlNicVl4SzhVRWp4TFVoRGNwN1lQWllTcU1xVE9RZ21lWHVXbzllUG1SYnRCcVN1eWtxZzJ0Mm96MHAwLXY3Ukc1WmkzNmc3b2xkYTcyZktjcHNjRDlsN3ZRbDJNMzhMMjRWdFF4TWdhdjlrZGZaYU9KSzVabVNhMDhLOEZSaEdtdEZaeUQybDlmenVtdEJkTE1VV09aQVBCNEd1UWxPajRGWmY4UFRwcjZKQXlDaDJHZXZmX0tCcTduVEpxdU1sMVNYUGlXNkdQaG9lcG5sUdIB6AFBVV95cUxOaWg4bXI5SVBMLWpDckxSWnZhRHUyd2k1OG9xZG1CRjV2WDZfT21hRFFuX0t2ZTZEaVRVMTlxWlVMMV9SX2dVblFwYWZTMGVTWXdnVHBuSUZpTUlRdnpEd1VELXJhV21kQURXYkxQQWxDNnJYWjYzQ1pqaE1PYkViY2xBc0Fxc1lDNHFxVWhPQ1I2a3gyMlVzMUxzVlFRLUs1UHJubGdLZlpQNHo4djhESDFObzNBXzRDb3dDX1Z2WHo5c0liZU8xQVhNeHhmSGlJczl3aXFLSmhvVmwwcEoydTVwTUtaOXVH?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9a69af047dd6",
-      "title": "4 pesquisas científicas que pareciam absurdas, mas tiveram resultados brilhantes - BBC",
-      "published": "2026-07-24T14:31:21+00:00",
-      "summary": "4 pesquisas científicas que pareciam absurdas, mas tiveram resultados brilhantes&nbsp;&nbsp;BBC",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5idlU2RkVjci1tNjB6ODFzcUJYTGM0Z3FBOGlSTTVMWWZZV3kycE85d2JLTmJVM2pVUmRqZDJKd0I3a01FRi1rY2FrY3FaUi12ajJEYzNqNjZXQU1sMWVUTUNR0gFnQVVfeXFMUGdGNG12d0RvWVZmLXlMcWlkTTF6OGxobUxXLWRWdWJ6Vl9UdE9pQ3loaVZsRFVVMTVaRkk5OElYS0JYMUc0S25CaUdiSVkwRnljeVJzMG0wdHl3T01uenZkcjYwcWJPTQ?oc=5"
         }
       ]
     }
