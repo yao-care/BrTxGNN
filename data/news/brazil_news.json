@@ -1,19 +1,115 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-07-28T14:10:08.917981+00:00",
-  "total_fetched": 107,
-  "unique_count": 103,
-  "health_related_count": 37,
+  "fetched_at": "2026-07-28T19:26:28.508364+00:00",
+  "total_fetched": 110,
+  "unique_count": 105,
+  "health_related_count": 42,
   "news": [
+    {
+      "id": "29f611bcaceb",
+      "title": "NASA encontra evidências inéditas em Marte e descoberta pode mudar a história da Terra - Diário do Comércio",
+      "published": "2026-07-28T15:05:23+00:00",
+      "summary": "NASA encontra evidências inéditas em Marte e descoberta pode mudar a história da Terra&nbsp;&nbsp;Diário do Comércio",
+      "sources": [
+        {
+          "name": "Diário do Comércio",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWmZJN3FnX0k0cm9tOGt1REhQbE1YQ1kwVWpEak1wbFFiWWxaNmhhOVZQaVJyMzE3T2tRWEs5ZGlSYTNrVVIwelMwMzIxNEZORWdYUXMtUnpoWGJON3JDbWZqM2NMaThJU3B2MndKMlZJcGREVzN3OE5Qc20yaE8weWF1WG9FRjh6Z05zTnpwX3h5N2J4YWw3aHRKNXNRYUJja2UyMk1jQkl4MGlrWGFENzIwcDRvMzMwTXBSa2RsRFU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1b8f96136769",
+      "title": "Rio inicia campanha para atualização da caderneta de vacinação - O Dia",
+      "published": "2026-07-28T14:26:07+00:00",
+      "summary": "Rio inicia campanha para atualização da caderneta de vacinação&nbsp;&nbsp;O DiaRio inicia campanha para atualizar caderneta de vacinação de crianças e adolescentes a partir de 3 de agosto&nbsp;&nbsp;O GLOBOProdução de geradores de tecnécio. Foto: Efrain Perini — Instituto de Pesquisas Energéticas e Nucleares (IPEN)&nbsp;&nbsp;www.gov.brAntes da volta às aulas: momento ideal para atualizar vacinas das crianças&nbsp;&nbsp;Estado de MinasSecretaria de Saúde de Bozano reforça horários da Sala de Vac",
+      "sources": [
+        {
+          "name": "O Dia",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMndjczdLcjl5STF6bC1hWENXUGV2ZURzUndJZ25faTBVS0lQcXJEc2Y1b3RSdmxYNjREQ3d0QU10X09uaUU5aElQSENlZExGWndIOXJ4bUl1M2hTd1VyT1cxYlM5eWt6eU5BaTJaNjNHcHh6NkY5R0FIZ1JEZllUNW1xaDVzaXpzMzFsMHByR2xOOG1zQVh6SnF2SjQ5YWlnMVdhby14emMxT0g3bVNGOVJVc2lFSHhIRDdTRkxn0gHDAUFVX3lxTFAyV0g3OV9kaUdYVV91NVRqYl9aX2ljd2ZNUTRxUE5WanVreUdzZVk1UTF5NU9fLUxnU05FNHBESW1mLWM5X1hTSnVCbXVZaFhWVzdhclg5bVdYd054UlN3dElONy1EYVlsblR4NW43TG56RkZTZnJPMnhYUk9hVXJZWDZyUlpLVnBWeVJrbTZmZDV1b3E1YWRoZDB3Y2RLQVQ0ZGEwSFdrOEZQTTgydlYyRmFWcmx1ZU9pS0l5R01xaDAwQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cc3dd11bd8eb",
+      "title": "Airfryer pode formar substância ligada ao câncer? Entenda quando a acrilamida surge nos alimentos - GZH",
+      "published": "2026-07-28T14:13:34+00:00",
+      "summary": "Airfryer pode formar substância ligada ao câncer? Entenda quando a acrilamida surge nos alimentos&nbsp;&nbsp;GZH",
+      "sources": [
+        {
+          "name": "GZH",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOcEJiUTU4cGxqMEYwTnJEdXJBckNCTlJSR1p0XzVGenhlWXRhU2tFeWZsVGFReU8xTFdMUWlwWUR4T0JSOEp2QWdieWY4ZHZTcXFnMDNzRWJiVzRBSG1pekhzenJxWW5PZXlnSmxZUUZJQlh4U0x2UVUxZXFXbDF3VTBrejE1OFdsYjFFNk1pQVJiV1d3S0UtaHZmbUloN1JfcElZeUdFU0c3M1BXdVJMU2xvTmZHZGdJc2g1SkRLOXROVHEwMDhucFFkSFIxVHR6aWlRX2I3eldNR2N1N2RNX2xDbkRkbDZmMVNQdFNTT2JSNy1ibGF3VVhuZ25WRFZsT25ZTFhURzJBSEpjVkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "804cc0f4f37b",
+      "title": "Nova espécie de peixe das nuvens é descoberta na Caatinga e mobiliza moradores para evitar extinção - G1",
+      "published": "2026-07-28T13:54:34+00:00",
+      "summary": "Nova espécie de peixe das nuvens é descoberta na Caatinga e mobiliza moradores para evitar extinção&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPb3RBNXIxdzh3WkdJMmx5bVYybnBNcnAxc1BJOEVPYmJSMENTLS1NbjhaMlZaQUpWZDlzZDNRbmZCUmRuM1pfTXdKN3VZQnI5TUZHdFJjQnFqRXBXLU4xUWQ5M1VFZTNDN0VhWUY4a3BZdHl1TmxWRTkxQnk4azEyNW9zYVc1T2Z4QmI5X0toSzhuM1NiQ2hZemd6LU5BeVB5QmJIY0JnSFNUdXFMYnZ6V2xGM0gyM09Nc2ZYZk10cTdyUmdmeUZuWnNHb05BeXlPQ0g2cm14ZGlRYWwwLWF5WUdCeFAxZl9VTU92MjdtQnpPM0hPRHp2aUVUeFVMcHdEVkp4QWFuUzc3Y3PSAZoCQVVfeXFMT2FRY1JRWUtPa0ZWLV9yV2lCQWVvbnBVRHhRZnFtS1Nvc0JqRkZNMmNyWjhzZGpmOVhHMnJvS3dmZk9Yalp5N2NGOEFCYWwzdmpqWFZITmZiTnZWbFZKLVB2X2ctOXlmTm5kTGtiYzlkdUpjd1VDSmxPajZPMk5zcmZwNkt2TlBFQmJjazFPdDVabWtqc0diRlBCRDlkZjRfdkM5VzN1UmtobWVOTDVUdWd6c3J1NHdjMmNKeDhQeU5jOVktWTZMNHM1S1ZGOXotdTBJX1ZWY2dHbnJINWQ1Mm5FMjRZbHA3ZmZCN0RfOEh5OFVWN09jSFhVbVA5U3NMcHF5Yk15dWpkd0NnQVVMRGhyX1pVU0hnNE1n?oc=5"
+        }
+      ]
+    },
     {
       "id": "f829aab1bc32",
       "title": "Seu antidepressivo não funciona? O problema pode ser uma dor não tratada - UOL",
-      "published": "2026-07-28T12:45:54+00:00",
-      "summary": "Seu antidepressivo não funciona? O problema pode ser uma dor não tratada&nbsp;&nbsp;UOLDor crônica pode influenciar no tratamento da depressão, aponta estudo&nbsp;&nbsp;Correio do PovoDor: o ponto cego da depressão que não melhora com medicamentos&nbsp;&nbsp;Veja SaúdeDor crônica não diagnosticada pode mascarar quadros de depressão resistente&nbsp;&nbsp;Diário GoianienseDor crônica não diagnosticada afeta o diagnóstico de depressão resistente&nbsp;&nbsp;Pagina1mt",
+      "published": "2026-07-28T13:00:00+00:00",
+      "summary": "Seu antidepressivo não funciona? O problema pode ser uma dor não tratada&nbsp;&nbsp;UOLDor: o ponto cego da depressão que não melhora com medicamentos&nbsp;&nbsp;Veja SaúdeDor crônica pode influenciar no tratamento da depressão, aponta estudo&nbsp;&nbsp;Correio do PovoDor crônica pode estar por trás de casos de depressão resistente, aponta estudo&nbsp;&nbsp;diaadiaes.com.br",
       "sources": [
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUGxpLWY4MzA5ZEFrTFY1ZW0tbWs2R1FXRWQyTjFhWG1pX3RpeVl6ZXo5bUYtU0xGMjhxWDctQmpVcW9qQjB0NWpJZDJHd19vdDFvcTJIVUxNLVlRMUpKT3ZBLVE3M1NqT3JHNzkwYVhSRkloRXpJMkJ1Ui1IZnFORWkyM2RjYmFCMjRJMlhwc1NYc3Z3UnJHRFI2d1J5dy0yRXM2VG8tVnYtQ3Z3T3lIRERTWGg3dk50c0dSd1lzZTZ3ZW05ZGQzbFo0ZlFyU1Vr?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bf7bc095ad63",
+      "title": "O que os aditivos dos ultraprocessados fazem com a microbiota intestinal - Medscape",
+      "published": "2026-07-28T12:35:16+00:00",
+      "summary": "O que os aditivos dos ultraprocessados fazem com a microbiota intestinal&nbsp;&nbsp;MedscapeAumento do consumo de alimentos ultraprocessados entre jovens preocupa especialistas pela saúde bucal&nbsp;&nbsp;Jornal da USPConsumo de ultraprocessados pode aumentar o risco de perda de força muscular&nbsp;&nbsp;Jornal da FrancaA maior revisão já feita ligou os ultraprocessados a mais de 30 problemas de saúde pelo corpo inteiro&nbsp;&nbsp;Tua SaúdeEstudo associa consumo de ultraprocessados à dor de dent",
+      "sources": [
+        {
+          "name": "Medscape",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTEdNN1BZb3d0RWFaQjZmd0VZVXVRZTIyYnlKd1RIQUtOaHhKQkxhd0lGRjVJVVlBX2RobDI3dGQzU3JvbHlSbi1PV2dTeHF5YXZuT3NzYnhJMUwtUEVJWXJIM2NkUTJRSlBUdUNQS01GME1aSGRjeDdqTWpCREFXdTYtRVFTZUsxTnFGR3JWejVON2NuMXFqRENXbzhCbXFkRmRVQ2MtVWZoUE9ESmQ1WVpzbw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "98f4320bd21d",
+      "title": "HIV: entenda como funciona o injetável que previne a infecção, que Ministério da Saúde quer colocar no SUS - O GLOBO",
+      "published": "2026-07-28T12:33:10+00:00",
+      "summary": "HIV: entenda como funciona o injetável que previne a infecção, que Ministério da Saúde quer colocar no SUS&nbsp;&nbsp;O GLOBOHIV: PrEP injetável aplicada somente duas vezes por ano tem alta aceitação, aponta estudo brasileiro da Fiocruz&nbsp;&nbsp;G1Governo Lula amplia estratégias de prevenção ao HIV no SUS&nbsp;&nbsp;Partido dos TrabalhadoresQual a diferença do medicamento para prevenção do HIV que o Ministério da Saúde quer oferecer no SUS&nbsp;&nbsp;EstadãoO acesso ao lenacapavir marcou a abe",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObEVKUFBFcGxoMTdnc1ZyTFQ4aXNxbnh2eUdPU28zUUk5cWlqQ1ZSMzl6a0FZWmV3d2QzeUNTZTJlTmZJRThjbV93ZlRoaUR5RXNpOFR0TndXZXpYWU5ZSThyeVFNTmVvWWhDakpCRExtVlZJcU1GQTRaWUc2U3BEaWJkM3p2SzBIM0VrSFZlME1LS0xNMmdkODh2TmpNRWRiN3VjZnNTOXRXT0NsTEtYeFoxQ1QyXy1sMzY4VDFPQnR6S0dCdTI0LU9vQWxnVEJ0QmFuMDhWcFJTdFA3bnYteFNMUUVIcm9vaVlj0gH6AUFVX3lxTFBvSDluRUU1WE5hOXFKbDR4eXJuRUowTXlYWS1UdzdVQlNQOW5pRFpiOGtsS2hpTlFEVzZlYXppTXdXaVVQeEFpVjVnR2lheWhHb1FMYjBRYVBUZWNNYUlOVDZpNHRQbFExYlhiNk9lRzVKR24zUEdSbTBybktDS3NBTmthZXNrS2ZfOE5qU01CeTJXRkVtQjZJcXZURldVR1Z0NWo0VG9neE1PTHVubEFQbVdzVGJuRm00bWRJTEpGSlpXRTZaYWFfS3Fad1VzZWc0eXM0TW84TXc1UWpoNk96UGRyMDZlTVNqemthaU95cVZBOWNYNk9RakE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c21b582ef1c9",
+      "title": "Saúde recomenda vacinação do sarampo para pessoas de seis meses a 59 anos em SP, São Bernardo e Guarulhos - Folha de S.Paulo",
+      "published": "2026-07-28T12:00:00+00:00",
+      "summary": "Saúde recomenda vacinação do sarampo para pessoas de seis meses a 59 anos em SP, São Bernardo e Guarulhos&nbsp;&nbsp;Folha de S.PauloVacinação contra o sarampo protege contra novos casos da doença&nbsp;&nbsp;G1SP: orientação de vacina do sarampo é ampliada em 3 cidades&nbsp;&nbsp;SBT NewsSarampo: veja quem deve tomar a vacina, onde se imunizar em SP e o que fazer em caso de sintomas&nbsp;&nbsp;agenciasp.sp.gov.brSão Paulo confirma 11 casos de sarampo; especialista reforça importância da vacinaçã",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNeldMRzhUeG5VcXFHUmFKWjVtVmV2M0JFNHNlelo3Rk03c0FSdjlSaDdycGFBVkJkSGhnelRpSDJNN09Fa2xDbFRlaU5YbEt2RXVPV1FBMk1MM0FWc2JQaUU0dE5HNHVHTDN3X211NThTZ0lJcEhHbEViVXRaX3cyZFhhU3VzYS1GS0NyUVppWXhLRzJzRmxINVNTSk5XQkdoMlhMMVFEdkIyQ1VNQnFnejZHdE1lYWpXeFJCVmVaWWFfQU8tT21raS1hX3c2Wi04QjFMdjJqN2tIVjA5TFN1X1lIcS1ObS1wNUlydFlpVjJhMzRSOHpN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3c528b074a74",
+      "title": "Kerline revela diagnóstico de lipedema e diz que esporte evitou depressão: 'Sou uma nova mulher' - gshow.globo.com",
+      "published": "2026-07-28T09:00:50+00:00",
+      "summary": "Kerline revela diagnóstico de lipedema e diz que esporte evitou depressão: 'Sou uma nova mulher'&nbsp;&nbsp;gshow.globo.comLipedema, uma doença vascular crônica – Bem-Estar SC&nbsp;&nbsp;Assembleia Legislativa do Estado de Santa CatarinaKerline Cardoso revela diagnóstico de lipedema e nova rotina no esporte&nbsp;&nbsp;R7 EsportesILIB Terapia: técnica com luz de baixa potência auxilia no combate ao Lipedema&nbsp;&nbsp;A CríticaGordura localizada nos quadris e coxa pode ser sintoma de lipedema&nbs",
+      "sources": [
+        {
+          "name": "gshow.globo.com",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTy1Vc1ZpWUM1TGpubmg1T2I0T2xPbzkwVHFsWk5GQ3RyMUFpa3hwcTFQWmNvR1l2RVlKeWhoTnB5TnNqQ2ROa1dDeGRudkdoX3BybVVRblBFSnJtYmQyaUF4Nk5EbHpuTGxjLXFQRmhjYnVSYVV6RDlCNzdabnBZbVNIU2dhXzAxaW5nR0dNa2tZN0ZvTFEwc254RnJwS2hhZXNMMzRnRnBabTJ4c19EYnRiekZSZ1gyZGVVYVMzTEY1akNjdUE5NVZwcG0xN0hJZzhOdkxCcldqWV9EbUI3RWlqSFQ1ckpWYWgxTzNEQVXSAf8BQVVfeXFMTmVDMjRqZExzQ3V1SlVNVm5EcERicEFtYUdNWThENjZQX3l5cThzTjdkalh3ZTRSaXkzSi1zbzRlaVhPOFJxNWJkRmRjNmoyam1CUnZza0loR3d6VnQ5eXFkMjFveUxJNlRCTG9mY0g4aHgzWVU4QUh0RkZ5UkZlLUxaMW8tSk1VZEgtalZpNnIyQXIyMGJiVlVEV21QajIwMWNVZldhN0hhTmxZMVBKWmxnajRaWlgyblV1UklDUFh1b0owRUhEcTlNSmRqR1p0RlpIQVF3d05hTDFxd2xqR0F1MmtyVDRYU290a1NnZDlFSFJydEVnbkE3WEszemhr?oc=5"
         }
       ]
     },
@@ -26,6 +122,18 @@
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObFFLVThDa0x0Sm5KeVI3Z2JGamxScjFyQTFPS3RlSDZIRnVPeFZHQmdIRWZsMXh6OHpFcGtObUFtNEl2SVJ1V1MtLXZ0R2hIeFN2bm02d0hiV055dUtzMXlGcVNYY2tnWHRxNk52dzFWa2xpT1BIWlBHX0NRcTNsdFE0WTg1cWJkZm5KWm9PWXdWLVd4cGNPbmZXTFoyVkxxNjRnbUMxZlhMNjMwMjBJbnlHMTNhS1pMTDczVkZn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1a46517906e8",
+      "title": "Mortalidade por hepatite viral atinge 1 a cada 5 pacientes com 80 anos no SUS - Folha de S.Paulo",
+      "published": "2026-07-28T07:00:00+00:00",
+      "summary": "Mortalidade por hepatite viral atinge 1 a cada 5 pacientes com 80 anos no SUS&nbsp;&nbsp;Folha de S.PauloCianorte amplia testes rápidos de hepatites em horário estendido&nbsp;&nbsp;G1Dia Mundial de Luta contra as Hepatites Virais: 6 formas de prevenir as doenças&nbsp;&nbsp;GZHInfecção grave no fígado pode ser identificada através de sintomas silenciosos, alerta especialista&nbsp;&nbsp;Bem ParanáOMS quer remover barreiras ao tratatamento e prevenção da hepatite&nbsp;&nbsp;BOL",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWUVBY0p6dnlJTEZOdUlvV19HckNVcWk2ZGJjOUVVaTc5bHV0c24taFNQWmVQbGNlOFp6NWV5YXUwVlFXN0hObGE0RzBnSFJEQ05vWThjaW9jS1FZN1loNjdoazVFN1FRcnhLQWV5RjZVd0pRLWMwMmt4VkRPZXFUREk4QkEyYkFib1NPbndlQkpiSVNOY2MtMm54MThyRVUyZ2syejB6ZTBPUEgwbnplaTJEZllvZWdGcjZCdWdoNGtiRlVPNTk1YlVPRGFXeTRmZlNJWg?oc=5"
         }
       ]
     },
@@ -54,10 +162,34 @@
       ]
     },
     {
+      "id": "f80d889fa0ff",
+      "title": "Proteínas no sangue mudam anos antes da ELA e podem prever quando a doença vai começar - G1",
+      "published": "2026-07-28T05:00:09+00:00",
+      "summary": "Proteínas no sangue mudam anos antes da ELA e podem prever quando a doença vai começar&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUjdyTG9VRFV6aHJOUjkta3VJZzdPdzllSHpUNzBJcnljT2xSNnBxYUZnQ0JTQV9lcmNLS3I5clJNSUs4OVhlNHpVTEZQc2RSQlduVWJJZC1rZnZkM3BCZHVicG50VWoxQXBBcjNSel9MNTQ4UXc5S0szei1GcElkSENqVXI2X2ZkQTR5VTFCSUJ3ajNZSWExLU5wYXJfalNZcExMODhTZ3JiWGdrbndXN0p5ZWxaTjMzd3kyVlh1YVBzYkVXbFR0a3pjdmlJc2piMDBzZNIB4wFBVV95cUxPNjVhUWFpRzZtd3NndjhrN2tPYVRNS0tCRlgtaDhxWjUwbDdaa0plbFlqbHJRbHhUNFM2cUh1XzVKdEhkNHJDSGVPc2tTMlAxcDRSUzZGMnFGTlB0dG5VbUhUZU43RmpCVnYwdmpzdzVsdGZYb3pudUtjSW96MWdVUnNkSXBIWWdwYVdBQmp0VC10NnR6bTVRdzg4bWUzQ192SFJqSlJ5bm1oRFNtZmtJcjVrejVxRzRzQl9qeDdXLUtwVDBZYlFnLU1QRjFJSmpoMThUS2hhS2s1cFdmdTJtNndSSQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "183beb39f786",
+      "title": "Pesquisadora faz vaquinha para bancar parte do doutorado e vira chacota nas redes: 'É a realidade da ciência no país' - G1",
+      "published": "2026-07-28T03:01:10+00:00",
+      "summary": "Pesquisadora faz vaquinha para bancar parte do doutorado e vira chacota nas redes: 'É a realidade da ciência no país'&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNcHNnNUlhZXYzaG56QzR6NVJGOHdrWVJNREVzUkxRcDRpdGNZTDhndVc1X19yc0tCZGg5RjFia2Z6SUZ5YThNWVFmRG5BNG1zY1RGN0xLX2ROeFpwcmRFSW1JVlFPaE1UbVFqTkEyNE02bXhnV215YUM5R3p5VkpQMzVLdEdJOEltbmtja0VXUXlaMmo1RkRRWnB5S2w2SWFwdWpYT01oMW9FTUxhV1BRR2ZiUVVEQ1VOTDhaeXFrQ2pYdkxYdXB3ZHRibWRxLUdKb3drUlIzdkMzWTJtSm9HNEdoLW9pamdTeTJNeVFZVjUtazdIY3ktVXNuenY3d9IBjAJBVV95cUxOa2lBT3B6d3lNc3ZMeWM2U1FiaTNMaDB3TVFjeGd4MG1MUXg2ZUNpMC1aeVFqdnRYQnNpZWpQTzQ4Z0loMzMzRG5xMmlYRnI1TldFRGxGX1o3d1lYRG1VRDVmUjQ1eG1UWEJMVEVvOEt1emxXSFpGNVJ6LVhhR2ZRRV9yMzc0eWZraVlNa0kxdFByOXlaQ005OGZ4VVVtU2dNaTZJdmVmSHJyZWZ0ZUJKVktqOE5FM0V3alFCdGF3Mjg3bWRBaVpIT1lKbFZ6ZkFrN1dfd2ZMR2VzWml3VnhwbkhGRFV5ZVRHZERoWnBPMDdadjVTMWlfQjRpNVN5akFoMjNLU3F3Ul9KSDd5?oc=5"
+        }
+      ]
+    },
+    {
       "id": "77b7a271e114",
       "title": "Unaids alerta para risco de ressurgimento da epidemia de HIV - Poder360",
       "published": "2026-07-28T00:40:49+00:00",
-      "summary": "Unaids alerta para risco de ressurgimento da epidemia de HIV&nbsp;&nbsp;Poder360Relatório do UNAIDS alerta para risco de ressurgimento da epidemia de HIV no mundo&nbsp;&nbsp;G1Brasil tem avanços na resposta ao HIV, mas enfrenta aumento nos casos da infecção, aponta Unaids&nbsp;&nbsp;Folha de S.Paulo‘Não é falta de recursos, é escolha política’: Conferência de Aids debate financiamento no RJ&nbsp;&nbsp;Brasil de Fato‘Real perigo para resposta ao HIV’: queda histórica no financiamento coloca em xe",
+      "summary": "Unaids alerta para risco de ressurgimento da epidemia de HIV&nbsp;&nbsp;Poder360Relatório do UNAIDS alerta para risco de ressurgimento da epidemia de HIV no mundo&nbsp;&nbsp;G1Mônica Bergamo: Documentário sobre ativismo contra HIV estreia na Conferência Internacional de Aids&nbsp;&nbsp;Folha de S.Paulo‘Real perigo para resposta ao HIV’: queda histórica no financiamento coloca em xeque combate à Aids&nbsp;&nbsp;EstadãoResposta global ao HIV perde força enquanto aumenta o risco de agravamento da e",
       "sources": [
         {
           "name": "Poder360",
@@ -69,7 +201,7 @@
       "id": "d82c2437b552",
       "title": "Quantas xícaras de café por dia são consideradas saudáveis? - Diário do Centro do Mundo",
       "published": "2026-07-27T23:10:54+00:00",
-      "summary": "Quantas xícaras de café por dia são consideradas saudáveis?&nbsp;&nbsp;Diário do Centro do MundoBeber 5 xícaras de café todos os dias pode trazer benefício inesperado ao coração, diz estudo&nbsp;&nbsp;Diário do ComércioQuanto café é saudável tomar por dia segundo estudos da cardiologia americana&nbsp;&nbsp;Rádio ItatiaiaCafé é associado a menor risco de infarto, AVC e insuficiência cardíaca, diz pesquisa; saiba quantas xícaras são seguras&nbsp;&nbsp;G1Qual café retarda o envelhecimento biológico",
+      "summary": "Quantas xícaras de café por dia são consideradas saudáveis?&nbsp;&nbsp;Diário do Centro do MundoCafé e fígado gorduroso: o que um estudo científico recente analisou sobre as enzimas hepáticas em pessoas diagnosticadas com MASLD&nbsp;&nbsp;Tua SaúdeBeber 5 xícaras de café todos os dias pode trazer benefício inesperado ao coração, diz estudo&nbsp;&nbsp;Diário do ComércioQuanto café é saudável tomar por dia segundo estudos da cardiologia americana&nbsp;&nbsp;Rádio ItatiaiaCafé é associado a menor r",
       "sources": [
         {
           "name": "Diário do Centro do Mundo",
@@ -81,7 +213,7 @@
       "id": "2bd757a29dc1",
       "title": "Morte de três bebês intensifica preocupação com vírus respiratórios em Corumbá - Diário Corumbaense",
       "published": "2026-07-27T22:16:33+00:00",
-      "summary": "Morte de três bebês intensifica preocupação com vírus respiratórios em Corumbá&nbsp;&nbsp;Diário CorumbaenseCorumbá: 61,5% de amostras positivas para vírus respiratórios&nbsp;&nbsp;Campo Grande NewsCasos de vírus respiratórios em Corumbá alertam para vacinação&nbsp;&nbsp;G1Corumbá reforça alerta contra vírus respiratório após morte de três bebês em 15 dias&nbsp;&nbsp;Top Mídia NewsCrianças de até 4 anos lideram casos de vírus respiratórios em Corumbá&nbsp;&nbsp;capitalnews.com.br",
+      "summary": "Morte de três bebês intensifica preocupação com vírus respiratórios em Corumbá&nbsp;&nbsp;Diário CorumbaenseCorumbá: 61,5% de amostras positivas para vírus respiratórios&nbsp;&nbsp;Campo Grande NewsCasos de vírus respiratórios em Corumbá alertam para vacinação&nbsp;&nbsp;G1Corumbá reforça alerta contra vírus respiratório após morte de três bebês em 15 dias&nbsp;&nbsp;Top Mídia NewsCorumbá reforça vacinação após aumento da circulação de vírus respiratórios&nbsp;&nbsp;Município de Corumbá",
       "sources": [
         {
           "name": "Diário Corumbaense",
@@ -90,26 +222,26 @@
       ]
     },
     {
-      "id": "fb40283a6dbc",
-      "title": "HIV: médicos anunciam dois novos casos de cura - O GLOBO",
-      "published": "2026-07-27T21:18:57+00:00",
-      "summary": "HIV: médicos anunciam dois novos casos de cura&nbsp;&nbsp;O GLOBOHIV: dois novos casos de cura são anunciados; total chega a 13&nbsp;&nbsp;G1Conferência sobre AIDS no Rio começa com anúncio de mais 2 casos de cura&nbsp;&nbsp;VEJA RIORemissão de HIV em dois novos pacientes é anunciada no Rio de Janeiro&nbsp;&nbsp;CNN BrasilDois novos casos de pessoas consideradas curadas do HIV são anunciados&nbsp;&nbsp;Folha de S.Paulo",
+      "id": "65daae1f5b64",
+      "title": "Influenciador é internado após espremer espinha no \"triângulo da morte\"; entenda - Folha Vitória",
+      "published": "2026-07-27T21:58:59+00:00",
+      "summary": "Influenciador é internado após espremer espinha no \"triângulo da morte\"; entenda&nbsp;&nbsp;Folha Vitória'Zona da morte': especialista explica riscos de espremer espinhas após caso de influencer 'Ken de CG'&nbsp;&nbsp;G1Antes e depois: como ficou rosto de influencer 'Ken de CG' após infecção ao espremer espinha&nbsp;&nbsp;G1Espremer espinha pode matar? Entenda caso de influenciador que viralizou&nbsp;&nbsp;Veja SaúdeKen de CG é internado após espremer espinha&nbsp;&nbsp;Campo Grande News",
       "sources": [
         {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTExpQm1uUlQwSklMSGxKV2pweG92anR2SjZqYVctd3MyVkhjMFdIVGgweEtQV0dKU1d1R1VJcGNhdnU3bzBOTXZ3cFlJQjY1VXdTc2FrTEUzN29VWFVKeFU2N3B1R00zTzZkVjFnVHZNRmNyMHpmeGdjcDNxNVotZGxEc2FUQ2RZYjk2dXFJQzRaaVZyRmRwcDZWeVJBd2llS2tB0gGyAUFVX3lxTFAtQTZNRWswX3RQa3ZVZ3I4VU9naTR2VEhTYXp0MjlzUGhUTzlPai1LcDR4NmtVbFRrY3hxRVByNk1FblctcElSbl9HRUg3cjF5TDcyV0JidHhzWWpfN0FUQ095ODE2ck9zZzd5bXJQWlRqSFpBNFNMcGtGQjc3TUtPSWlsRjJnTWtaS1dGR3o3ai1saElzWUV5THlYMmFWNG1HZDBGR0dJWDV3Y0FIck9uT3c?oc=5"
+          "name": "Folha Vitória",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbG85V0kxQUczeF9zdUpVZ1daZHRVSFV5WHdRUVlzN1JfUThYelpBUlhlRGF1bGxGdmNDUnBhajNEcmNEYlpMZVNWLUxKOGxNbmV0N0s5OVJhWW9RXzZ1c29GRU95TXp4ZmtWV0RVbzR4eTZyc0hWX1pyV0JqZEhSWGp2V1JmNHNXdXUtakxaWXdPR2dO?oc=5"
         }
       ]
     },
     {
-      "id": "b88e31f690bb",
-      "title": "Ministério da Saúde anuncia compra de PrEP injetável de longa duração contra HIV - Folha de S.Paulo",
-      "published": "2026-07-27T21:08:00+00:00",
-      "summary": "Ministério da Saúde anuncia compra de PrEP injetável de longa duração contra HIV&nbsp;&nbsp;Folha de S.PauloHIV: PrEP injetável aplicada somente duas vezes por ano tem alta aceitação, aponta estudo brasileiro da Fiocruz&nbsp;&nbsp;G1Remédio injetável que previne HIV pode entrar no SUS até o fim do ano&nbsp;&nbsp;Poder360Qual a diferença do medicamento para prevenção do HIV que o Ministério da Saúde quer oferecer no SUS&nbsp;&nbsp;EstadãoO acesso ao lenacapavir marcou a abertura da AIDS 2026, a p",
+      "id": "f81c7e8d8ae1",
+      "title": "As pessoas mais felizes do mundo têm em comum estes 4 traços de personalidade: é o que revela Estudo de Oxford com quase 80 mil pessoas de 76 países - purepeople.com.br",
+      "published": "2026-07-27T21:54:00+00:00",
+      "summary": "As pessoas mais felizes do mundo têm em comum estes 4 traços de personalidade: é o que revela Estudo de Oxford com quase 80 mil pessoas de 76 países&nbsp;&nbsp;purepeople.com.br",
       "sources": [
         {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZFUtb2VhUExyRFEwbURLcEdCWjdJRXBNN1BjYVpySm1CMHQ2XzF3dzF5N2QyM1VIWDI2QnBEb2ZSYkpPMUM1MkNVZU1qVGFxVXVWWi03dzF2eHJudmNFY3FsNllfWnVrTkFFaW9ydjA1aEM4bG03LTdReVRjZEw5S2tCZE5HWllqTTZrcmRXQ3dEemFFLXlxSVJhUmF3WjVDb0pXTDROU0VZRnMyTmpzXzRVcFh3dVFBOXJGMUJsOE83Y01PdUNKbXJmVnNxem1UT0JBdEttX1A?oc=5"
+          "name": "purepeople.com.br",
+          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNYWF4MmVIWlhySmMyTGhscmxDQ1pPVHBmQk9oaHZwTHpvVFRWVVEtQU5LMHNMNExZaHBISmR6YXdBZmpGMTF0Sm1TYURNczBoSHlseklSeldNT21zeVJRczVYV2tGWENpb3duSjl6a2ZxM3doZkdhV3ZJMm5RMG1oNWdWUjlGemRNTXdDdnpXakpOMHFNME1vYWp0RHVNY3BCem5IdS1FMVRwRkZEckxoVGRBTjNpRmxLdkJkVl9DTEhlZEZReUZ3cG5HNFlyUllLdl9PbWNKSnVIR2Y2OExNRjQxejdxNFF3d1ZNcjhsVFVFTXFJVEtXTkhuZHRLMDdmS2lNcHV2SHVPaFEwUlVLM3REYkjSAZoCQVVfeXFMUDdPNVQyZVE1RFpBeUxOU1R4YWY0c0o0cFZuN2NfdjBCTENlOElkenNfLVE5cHZqSmFBci00NGxyYjNzSDkyR1haLW5GZFBjZlRTSkVOaTRqUjBlcTVKSThuU19seDR2ZGlWdXBrQUVXWGF0U1U5N0ZPYnBtU08xZDF4al9mVmI0QnZSNVhJMFkycDhTeVVYZE5GTEZ0ZDlQZlhiNVJNdmw4dEdZcWlaLWtaUDctRVNrdGxiTWVOQ0FPcjkyamRGN2xyYkhSb1FyN3hOYlFWbmdVejMzc0xRV1AwZ0YycHRsTzZQblZ1U3Z5d3ZPV3RsNTNIY3NadG03aVl4bFN6bkpiRkprTmVBd1NXbDVneFVFTUZR?oc=5"
         }
       ]
     },
@@ -129,7 +261,7 @@
       "id": "def47623aa68",
       "title": "Cientistas criam \"quimioterapia programável\" que destrói DNA do câncer - Olhar Digital",
       "published": "2026-07-27T19:17:00+00:00",
-      "summary": "Cientistas criam \"quimioterapia programável\" que destrói DNA do câncer&nbsp;&nbsp;Olhar DigitalNova esperança contra o câncer: cientistas criam tecnologia que faz células doentes se autodestruírem&nbsp;&nbsp;Rádio Grande FMCientistas criam “quimioterapia programável” com CRISPR que reconhece o RNA do câncer, fragmenta o DNA tumoral e pode transformar o tratamento de mutações difíceis&nbsp;&nbsp;CPG Click Petróleo e GásMedicamentos inteligentes podem combater o câncer&nbsp;&nbsp;TerraCientistas d",
+      "summary": "Cientistas criam \"quimioterapia programável\" que destrói DNA do câncer&nbsp;&nbsp;Olhar DigitalNova esperança contra o câncer: cientistas criam tecnologia que faz células doentes se autodestruírem&nbsp;&nbsp;Grande FMCientistas criam “quimioterapia programável” com CRISPR que reconhece o RNA do câncer, fragmenta o DNA tumoral e pode transformar o tratamento de mutações difíceis&nbsp;&nbsp;CPG Click Petróleo e GásMedicamentos inteligentes podem combater o câncer&nbsp;&nbsp;TerraCientistas desenvo",
       "sources": [
         {
           "name": "Olhar Digital",
@@ -138,10 +270,34 @@
       ]
     },
     {
+      "id": "b25d8a7bdec3",
+      "title": "Anvisa aprova novo medicamento para tratar doenças autoinflamatórias - www.gov.br",
+      "published": "2026-07-27T19:06:00+00:00",
+      "summary": "Anvisa aprova novo medicamento para tratar doenças autoinflamatórias&nbsp;&nbsp;www.gov.br",
+      "sources": [
+        {
+          "name": "www.gov.br",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaGxBcEhkUjljNkJUamRlWlAwaFNfX1NCSUIyVzZLb0Z2ZTlCcDlnZGUteWpJTHZwRmd6dUxNWHRZVXhOdE91TTJyb183LVZHWkhyelVQZjlNU0pWLWhuWVBXSksxckxfU1hLMFlteDJkNU0wNTFoTGwtZHNzVlVHbnpXMm03S1JHM0NCM2Znc3lUR3dYZ0NDdmlSdW5sbmJfYVljaWI5eld5bmZGTnBEbjRLWkN1STl4QTlVZE1pYmQwcFdjTHhuUm1n?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3a70c7665ad0",
+      "title": "Médico José Luís Weffort morre em acidente em estrada rural de Uberaba - G1",
+      "published": "2026-07-27T18:38:54+00:00",
+      "summary": "Médico José Luís Weffort morre em acidente em estrada rural de Uberaba&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQS0JpSVItcUM0V0IzS0xWNGg3Q0xhZkwwTW11U1R4NUhReXp4TXVCMHBwSXJkQV9mS01vd0xBaTJZUVdramkxMlFiRGd3WWdlUlBqejdtQ1JUQW5DR29jTURHM2ttT0ZVTW8xRzIwQmtTT2FLLTMwTWxSRWxhZXJ6bDN1ODNmMGQ4eklxOFlWQVZicHg1TGl3UlZsWlk5SlA1RHI4aC1lTUVXTko1RlN1Y1JDSjVxTThubEZOS0RYNkZXR185emxVbDVlUVNfMEFjb09r0gHiAUFVX3lxTE1VV1JnWTZaZGVXdExKcTNRelVYWHkzNExyeXQ5bDNJdjRRa0FwSjBxSHd3bExIY1lDT0JveXJSZ2NDSkplYTdJaVdrcGFyUjkzalQwaVlaSDd3NGJ2Tjl0RFFCa1hqWXJ4dGhNT0JkaURGYXpkT29fbnlHRGVlVl84YTY5LTI0SHFxRU1iZy1tYUJaSUZEWkpOblRDcHlkeWJTTno4ZzlPamJXU1FyYVF0YkpOMGcwNFpTWVZVSmVaMGpicExHNnFFRzhBT21PeTBpMnhzMkpacUNtZXlLYjRNNlE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "8285fc49cfb9",
       "title": "Estudo alerta para transmissão de superbactéria entre pets e humanos - Metrópoles",
       "published": "2026-07-27T18:24:00+00:00",
-      "summary": "Estudo alerta para transmissão de superbactéria entre pets e humanos&nbsp;&nbsp;MetrópolesBactérias podem ser transmitidas entre pets e humanos, aponta estudo&nbsp;&nbsp;Meio NewsEstudo aponta que cães e gatos podem participar da disseminação de bactéria resistente a antibióticos&nbsp;&nbsp;Blog do ValenteEstudo alerta para transmissão de superbactéria entre pets e tutores&nbsp;&nbsp;DOLSuperbactéria resistente: pesquisa aponta potencial transmissão entre pets e humanos&nbsp;&nbsp;Sobral Online",
+      "summary": "Estudo alerta para transmissão de superbactéria entre pets e humanos&nbsp;&nbsp;MetrópolesBactérias podem ser transmitidas entre pets e humanos, aponta estudo&nbsp;&nbsp;Meio NewsEstudo aponta que cães e gatos podem participar da disseminação de bactéria resistente a antibióticos&nbsp;&nbsp;Blog do ValenteEstudo alerta para transmissão de superbactéria entre pets e tutores&nbsp;&nbsp;Jornal Folha do ProgressoSuperbactéria resistente: pesquisa aponta potencial transmissão entre pets e humanos&nbs",
       "sources": [
         {
           "name": "Metrópoles",
@@ -162,34 +318,10 @@
       ]
     },
     {
-      "id": "c3064e440bdb",
-      "title": "Surdez e demência: veja relação perigosa e como uma pode levar a outra - CNN Brasil",
-      "published": "2026-07-27T17:25:15+00:00",
-      "summary": "Surdez e demência: veja relação perigosa e como uma pode levar a outra&nbsp;&nbsp;CNN BrasilFator de risco para demência: como prevenir a perda auditiva?&nbsp;&nbsp;Portal Drauzio Varella“Escuto, mas não entendo”: sinal pode indicar perda auditiva&nbsp;&nbsp;JM OnlineSinais de perda auditiva mudam conforme a idade, alertam especialistas&nbsp;&nbsp;Diário do Centro do MundoPedir para repetir a frase e subir o volume da TV aos 50 anos foi ligado a queda de memória mais rápida em estudo com brasile",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZUE4LVI3R3VpeXFFaFhvUHI4ZTg5WmJPekVXY3NoZGl5cjEyZmFlY210cFNUYjNFTE9yTTRYbEJxRHlEWEFXSk1WWmlOaU9wcmF6ejVrb1RhNlVMRUVsUjZLMjJ0eWtjNW5pbHVIS09sN2VaaFoyTllvY2dDRVh1MnhFb2VTNWxncWRnM1Z1T3d6cHhVRmdoNFFQeHEyZGVLR0xidkNrU1c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "17e1ef8bb441",
-      "title": "Estudo revela 4 tipos de pensadores. Descubra qual você é - Globo",
-      "published": "2026-07-27T16:09:17+00:00",
-      "summary": "Estudo revela 4 tipos de pensadores. Descubra qual você é&nbsp;&nbsp;Globo",
-      "sources": [
-        {
-          "name": "Globo",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYzhaanhpUkp6dHZrLUVGQk5GRUhLV1lITTRSOGUzX2pJZzl1WmNLM0w4VjhTV0pKalFPUkNWa29CdkJHeG9tWVVTbkUzS0VoUDBxeU9RZS1kdG5qaG1zQnk0RUZNcVBOa0RzY2FaT3FpRUVCSjA5S1M0aWp1RHlHT0tYY21TNmRZbkRiNGRhS2pCeF9jckFhOER0ZWxEdUpiT2NidGc5ZnNRRUdXanJaUkgzTVlnOTItZGZTLVBIUURnRU5zc0tHa3JEbnZOaUFV0gHfAUFVX3lxTFAyWVVxUHUzNnJOeGlLZ3lKWTdTenVNOTA3RUpfUldtSXQ2elV2QS1TM00tX3B3dHE4eTJ0a1Vsd29kN1Y3amhDRzZBMFFoMEFKN3AxYW5ua3hzMEZsYUlqYkF1NU1FLWFhUl9mMFZKVko0MmhqNllWRENqYnkxVFpZWnFQeEhvUzMtNmpxNDdiekctZWlOWGxISElkbjdoSmtmNk5VNHNFLVJ2ME00MEh2ajdGNnhtQzZHRUREN1RKZkdNMGVkdFYxQjVTdkl2d1pka09pU3NKd1JZYkNubjg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "eda43d17d1d6",
       "title": "Câncer colorretal: médica alerta para sintomas e diagnóstico tardio - CNN Brasil",
       "published": "2026-07-27T15:47:07+00:00",
-      "summary": "Câncer colorretal: médica alerta para sintomas e diagnóstico tardio&nbsp;&nbsp;CNN Brasil8 em cada 10 brasileiros reconhecem sintomas do câncer colorretal&nbsp;&nbsp;CNN BrasilCâncer de intestino dá primeiros sinais no banheiro; veja hábitos de risco e como diagnosticar&nbsp;&nbsp;G1SUS adota novo exame de referência para rastreamento do câncer colorretal&nbsp;&nbsp;D24AMCâncer colorretal: quais exames fazer e quando começar&nbsp;&nbsp;Terra",
+      "summary": "Câncer colorretal: médica alerta para sintomas e diagnóstico tardio&nbsp;&nbsp;CNN BrasilCâncer de intestino dá primeiros sinais no banheiro; veja hábitos de risco e como diagnosticar&nbsp;&nbsp;G1SUS adota novo exame de referência para rastreamento do câncer colorretal&nbsp;&nbsp;D24AMCâncer colorretal: quais exames fazer e quando começar&nbsp;&nbsp;TerraSinais do câncer colorretal devem ser checados com rapidez; saiba mais&nbsp;&nbsp;ICL Notícias",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -201,7 +333,7 @@
       "id": "8370542e338b",
       "title": "Milhões de brasileiros convivem com essa doença sem saber; os sintomas vão muito além da diarreia - Jornal Correio",
       "published": "2026-07-27T15:20:41+00:00",
-      "summary": "Milhões de brasileiros convivem com essa doença sem saber; os sintomas vão muito além da diarreia&nbsp;&nbsp;Jornal Correio",
+      "summary": "Milhões de brasileiros convivem com essa doença sem saber; os sintomas vão muito além da diarreia&nbsp;&nbsp;Jornal Correio“Doença camaleão”: sintomas variados e silenciosos dificultam diagnóstico da doença celíaca na Paraíba e em todo o Brasil&nbsp;&nbsp;PBNews",
       "sources": [
         {
           "name": "Jornal Correio",
@@ -213,23 +345,11 @@
       "id": "1577bae752b1",
       "title": "Amputações por diabetes crescem 32,8% na região de Campinas e atingem maior patamar em cinco anos - G1",
       "published": "2026-07-27T14:53:47+00:00",
-      "summary": "Amputações por diabetes crescem 32,8% na região de Campinas e atingem maior patamar em cinco anos&nbsp;&nbsp;G1Rede Cuidar atua para reduzir amputações causadas pelo pé diabético em MS&nbsp;&nbsp;A Crítica de Campo GrandeProjeto em Mato Grosso do Sul busca conter alta taxa de amputações por diabetes com atendimento multidisciplinar&nbsp;&nbsp;RCN 67Prevenção do risco de amputação em pacientes diabéticos com úlceras nos pés.&nbsp;&nbsp;Vietnam.vnCassems investe em modelo humanizado e salva membro",
+      "summary": "Amputações por diabetes crescem 32,8% na região de Campinas e atingem maior patamar em cinco anos&nbsp;&nbsp;G1Com 1 amputação por hora no Brasil, Cassems consolida modelo que previne complicações e acelera cura&nbsp;&nbsp;Top Mídia NewsRede Cuidar atua para reduzir amputações causadas pelo pé diabético em MS&nbsp;&nbsp;A Crítica de Campo GrandePrevenção do risco de amputação em pacientes diabéticos com úlceras nos pés.&nbsp;&nbsp;Vietnam.vnUnidades de saúde de Vila Velha oferecem avaliação do p",
       "sources": [
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMVI5enZ2YWZtWm1QcEI0NHhDNE9lV2lpd0k4VVFmM3ltZVdFSi1Rb2FZRDNCb2ZJdHIybkJxVFVBd1cwYm81VGQxbFBrUVdrN0EySkU2dGxJMEZReC0ybzVEZXpHSkp6Ykl2YmdxTThIbk55OHJJUmxmbzhVU1JLWUk0NTktVzlxbjNpRmtDQUlMMWVzXzUzbVNYQkVHYjBsV1c1ZVNwMjBPN2psWGN0aDJNWHRxdkVPWUJpeXJXM2ZWbmN5UGo2cTZYbDBtZEVJN0d3Y2RnZXZicHhOS29RVVkxV0FmNjNQdnRhRTN3V3BfQUNoRDg5N3RjY9IBigJBVV95cUxPVkFmUFVlYTNOd0w1eG42eV8yeTZscVg4c0NzVzNNMXoyNEhFakZJeUhQTE1wUFFyQW9BOC1lMlloTTZvbWR3Si0yV1BOUzBKUHlvaXJ1RFg4QnRWQzNEZTNFM3VhNTA4V0dRWUVERXlYOC1xcmVIcFp6MVYyajRNd25LWUctTGpfR3RwRVBWd0xNMHUzQTd6VlRlRjRHT1dEczdHcjhVLUN2Q25aRzlIazM1d2lfT3FxUmtsYUV6SEpKXzNPdV9SM0wyWEV5ODd3T2ExTUNLdGM5MzdMSDhNYkNqV2pEUVFDeXFGZjBTQWdKOTU0OXZ1OUx6ZGtUeG5YTmJsYWFzUGxnUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3f0de2732838",
-      "title": "Estudo aponta hábitos que ajudam a proteger o cérebro no envelhecimento - Diário do Centro do Mundo",
-      "published": "2026-07-27T14:37:22+00:00",
-      "summary": "Estudo aponta hábitos que ajudam a proteger o cérebro no envelhecimento&nbsp;&nbsp;Diário do Centro do Mundo",
-      "sources": [
-        {
-          "name": "Diário do Centro do Mundo",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQclVnZGwxanVLdEtJOXZoa21RR2hOMk1nTG1iRzBldjhlbVJXWGhwU250M1k5TDVVWmtvNWRRTVZGZ1lXdGlpNUE4QWptLTdqQVlrVzVTUWdsVUVqTGNWZldqS0xxRGRpNXBCUHhxUGtQcFB3M09CdWF5czFRajR3ZmRuWjJIM0lhSUh2ZzlQSkwwa2xzV2c?oc=5"
         }
       ]
     },
@@ -270,18 +390,6 @@
       ]
     },
     {
-      "id": "6990fa60a3bb",
-      "title": "'Ken de CG': entenda os riscos de espremer uma espinha no ‘triângulo da morte’ após caso de internação do influenciador - O GLOBO",
-      "published": "2026-07-27T12:47:22+00:00",
-      "summary": "'Ken de CG': entenda os riscos de espremer uma espinha no ‘triângulo da morte’ após caso de internação do influenciador&nbsp;&nbsp;O GLOBO'Zona da morte': especialista explica riscos de espremer espinhas após caso de influencer 'Ken de CG'&nbsp;&nbsp;G1Ken de CG é internado após espremer espinha&nbsp;&nbsp;Campo Grande NewsInfluenciador Ken de CG é internado após espremer espinha na boca&nbsp;&nbsp;UOLInfluenciador é internado após espremer espinha no \"triângulo da morte\"; entenda&nbsp;&nbsp;Fol",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNR1owSHVmaTlKQVFxcTc5NDVBUUdSaVJuZFFSOXQzMHVYSkJMVGlyX0lJSmJHM3EzenBYRFQxejRyMTliXzhfQ3N5d2M0c2o4cU1mOWFKNGdfaHZzNGJOLVIxU04tUVFyNUlYaF8tNUxYdk9CRWZaTmFHd241MTRRT2lZSTgtNENubFNjd0doY3BfdG1VWEtWSThvMjlSYU96Rk9iY1ppWnlmWnptUlRaSEpEQVU0TlVzUTF2bzRjRXBoa2xxVmdYbVFsa05zbFc0Q0NYWUswM3pGNjI0NGRsdnA5NXBvWG41ZUE5WlJrdEhibkFDX2htd2hGZU9zWmNNQXlqZ1MwMkNSeV9B0gGbAkFVX3lxTE9VLWl4cXB6QXctX1lNV1MyRnRiTTQ1SmVvR0I5dXNXVVdHYldaaTVKcnlrUnpLczZaX01NdVQ3X25HMEk2UlRfTlc1czh3Q1BhdmpnWEVrS0VzeEd0RDVtNF9LX1dBYUFlSzJzRGdnRnN2bG5oRU9MMlZTOTdlTUpycUtmTmxkR2ZzQ2JhTEtoYkpxTjZ6UGYweEMyQ2dlVGRtdTR6RGJWblB1cko3OHptWGJCRDI0VDJxQlhzQk9BQzBWOVFqek1DdFdxYUdrVHk3ZDdtX3V4My0teGFXVWQ3OTVJM0hVcV9zdktEcXBwVFdqVjNwZ20yOFV6eVZJX0EyZGowVDN2bTU3UGFtdlVnVHhQbWZwN0RhVkk?oc=5"
-        }
-      ]
-    },
-    {
       "id": "dbb98b548c8d",
       "title": "Restringir o horário das refeições pode reduzir o declínio cognitivo na velhice, sugere novo estudo; entenda - O GLOBO",
       "published": "2026-07-27T11:59:10+00:00",
@@ -290,18 +398,6 @@
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWC1KbXl3S2NxS2dHZ2YzcmpSWjZEbHg0d2llQkxocy1OY3JTek5oYWdTbjlLUTNjUkJDRDQxNkZwT0JCRFdRLUROZFB2bVBQVXY4U0hnYUhvLUNfclhxZHRPaXRzNUxPOWNzd3VxbE5RRlVEdjV6dTl6aGNUNDc4a2xwZVJ2VWlhYkFRUi1rQTlxSzlBMFMzQzFYS2JzOGVJaU13Tnk3OWVVWllrR1Bkdmc0NkZ3OGZJODFReTFkYUl2SnpZUWhaRjAyUUR5WW5pRW9FZ2M3aWVWaWFHOFYzSXprOVZYQkN6VTJDR2NTaTZDSWxY0gGDAkFVX3lxTE5FaVJNRWlWMnpVYkhoYUp6MTA2Vm9kdk1zREltZjI1NXJOWGtZcTVIM195bWdYU0puODFIZkxuS3NSbGNFTzVNRFVqVkg2R0J3R1FwX01iSlFNcVg0b2xKNTJPSzNPX0RaZW4yTVpwbVdraXltdVd4d0hrZnJmYzIzTXNYOUhyZmxfY3Y3dHNiUkdqUGZlQVZuT3E0bTl1R0JwN010Yl9ZZ3RlSnBHekpBdFp6b1NId2VGN3U3RHpUbjNfSk1IRWIxY01LMFJaSG5JWlZOa0VIaUpCVFBHSkxmTl9lek1idHZ6aFFQYWxBaHphNTEteTdWTW02c3cyT3lRTmc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8cbd6fc7a081",
-      "title": "Soroterapia: o que a ciência diz sobre os 'soros da beleza' que prometem mais energia e imunidade - Guia Muriaé",
-      "published": "2026-07-27T11:56:26+00:00",
-      "summary": "Soroterapia: o que a ciência diz sobre os 'soros da beleza' que prometem mais energia e imunidade&nbsp;&nbsp;Guia Muriaé",
-      "sources": [
-        {
-          "name": "Guia Muriaé",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOc2c4OExDY3FEZnh4UVV3S3d3b1dIaGstRVBNeTdYYjd6MUhhMjBmcjVhUHlnUFFnWFBBOHZ0NTNMUEp2UmZCRl9tcUd6WUtMNW1hZGdTV1ZyaTA4dzZtbjhaR0VPY0NDNXFVTkRCYkowZENYd3EzdGQwQ2s4dy0wbF9HRkVWWTFMYm95WW03S0JWTEIxRjh5bXZVMjM4a1VKeTVkMllrZzJuS3QxcHM3OFhtUkx1bktBZGRmSGZiLWlfaFdHNVNBdHpERUEyZnI5QmRsYURnRQ?oc=5"
         }
       ]
     },
@@ -318,18 +414,6 @@
       ]
     },
     {
-      "id": "17beeb74be12",
-      "title": "Morre o médico José Luiz Weffort, referência na Neurologia em Uberaba - JM Online",
-      "published": "2026-07-27T09:59:00+00:00",
-      "summary": "Morre o médico José Luiz Weffort, referência na Neurologia em Uberaba&nbsp;&nbsp;JM Online",
-      "sources": [
-        {
-          "name": "JM Online",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcENuaTl5M2RJdVY0Vy1mcDhaT20yXzFCVHFQTGNyenBRZDkxZW9GSlRrNzhRY1VyWGlnOHAwMzNCMXh4SXRhSHdFYURWczJodTNhbk9Dc0Y4ZmdiWUN2ZTNNVGxjWWg1MklLQXdiQzRTMVVtcmZkSXhHRjRvb1lYTTZkMFJiTnFaTzQxS2dDRnQ0dUx0OUxLX3NTSlBiRG1xZElxM2pNVmpQcm1x0gG0AUFVX3lxTFBDYTlsQVhncVBrWTFJNW5VaGJkOGI0eDZOVnYzZ00tU2UxNVlXaW5YdndtYWpsLTVFR2JkTEdwLTZBdWtxc2o0d1lobWFIbUpxQzNQcGlFWklHX2FPeUdPWkFYUkJkNk9UeWxBRHVFcnRDM21DdThfZ1EtU0tPTlJzYTRSUEIyaGJ0ZGVFcXU4YjB3QWJvdWVRalNGUXdrWmtVdFhjeEJ4WG1WNGdkZXUtS2plWQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "62c20dc5d719",
       "title": "Creatina sai da academia e chega ao cérebro - O GLOBO",
       "published": "2026-07-27T07:30:31+00:00",
@@ -342,22 +426,10 @@
       ]
     },
     {
-      "id": "087818122ed1",
-      "title": "Dois recém-nascidos foram encontrados em um antigo canal romano e a explicação surpreendeu os pesquisadores - Revista Oeste",
-      "published": "2026-07-27T07:05:00+00:00",
-      "summary": "Dois recém-nascidos foram encontrados em um antigo canal romano e a explicação surpreendeu os pesquisadores&nbsp;&nbsp;Revista Oeste",
-      "sources": [
-        {
-          "name": "Revista Oeste",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMXpHN1p5RHpGX08xSkkwTnYyTmJ2QU9rdHJGc1F6RlNNMEdERm9neG8tZVNoa2pjME81V1V5aVRwSjN5ZGh5eTRxd0FfYzctdHNUd3NXa2d0bmpZYWtVSXhjTzdBY3pBSWpnSFNTcl96RW9FMXdEVF9hbVVTTnM1TFZGM3pBbUgzRm02VC11QW1qVWpXS09jZ0dZWV9oRnRBRHdZT0g3elNnZl9VcHdLc0RMRUQ5WFhERWNzb0NJemwzeHpRajVhWjBVbTVDMGFsbG9YamlMYlBmajAxT0VjcGNhZU52a3ZFcmV3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5e7dfbd77b5b",
       "title": "Estudo: diagnóstico de câncer de cabeça e pescoço é tardio em 70% dos casos - CNN Brasil",
       "published": "2026-07-27T07:00:03+00:00",
-      "summary": "Estudo: diagnóstico de câncer de cabeça e pescoço é tardio em 70% dos casos&nbsp;&nbsp;CNN BrasilEvento do Julho Verde em Petrópolis alerta para a importância do diagnóstico precoce do câncer de cabeça e pescoço&nbsp;&nbsp;G1Julho Verde reforça prevenção e diagnóstico precoce do câncer de cabeça e pescoço — Ministério da Saúde&nbsp;&nbsp;www.gov.brSesa reforça alerta sobre sintomas e diagnóstico do Câncer de Cabeça e Pescoço&nbsp;&nbsp;Diário do AmapáFernando Maluf | Julho Verde reforça a preven",
+      "summary": "Estudo: diagnóstico de câncer de cabeça e pescoço é tardio em 70% dos casos&nbsp;&nbsp;CNN BrasilCâncer de cabeça e pescoço&nbsp;&nbsp;G1Julho Verde: diagnóstico precoce do câncer de cabeça e pescoço eleva chances de cura para até 90%&nbsp;&nbsp;TerraFernando Maluf | Julho Verde reforça a prevenção contra o câncer de cabeça e pescoço&nbsp;&nbsp;Poder360FNCC promove evento gratuito em Petrópolis em alusão ao Julho Verde&nbsp;&nbsp;Tribuna de Petrópolis",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -366,22 +438,10 @@
       ]
     },
     {
-      "id": "0ff64b9100b0",
-      "title": "Pesquisadores desenvolvem vacina para tumor raro em crianças no Paraná - Folha de S.Paulo",
-      "published": "2026-07-27T07:00:00+00:00",
-      "summary": "Pesquisadores desenvolvem vacina para tumor raro em crianças no Paraná&nbsp;&nbsp;Folha de S.PauloVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPa1p6ay1OcFllZ19GZGpUOUtzZ2xYR0RVcXhleUxUQXVhTjUyR2MzbEFVTldVZ3FWeFc3VVktdlBWdGpmX2FoTXlaYWJmNVJiZWs3WE9zeFZvVFg1RUgxdnhpbGxTV2FDd29PdHdleFlsa2d0OGlVbEtGWEVSYVRkNXdfQjRrR0tCczZmOGlsRHFVSUdFRDJtb0lKVFZxOUpuWC1lQUZjN3Y2SGRoMGFMR1Z4eU9GWVVsdkVfb3FuNkZLS0gwdkZJSGNSOA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "729da71d47b2",
       "title": "Os melhores e os piores hábitos para o seu fígado - 27/07/2026 - Equilíbrio - Folha de S.Paulo",
       "published": "2026-07-27T07:00:00+00:00",
-      "summary": "Os melhores e os piores hábitos para o seu fígado - 27/07/2026 - Equilíbrio&nbsp;&nbsp;Folha de S.PauloA barriga inchada e persistente não se deve apenas a gordura localizada, mas sim em alguns casos ao depósito de gordura no fígado que pede urgente avaliação&nbsp;&nbsp;Tua SaúdePor que a doença hepática gordurosa é mais comum em pessoas que não consomem álcool?&nbsp;&nbsp;Vietnam.vnFígado também sofre com excesso de açúcar e médica faz alerta&nbsp;&nbsp;webrun.com.brSaúde do fígado começa no pr",
+      "summary": "Os melhores e os piores hábitos para o seu fígado - 27/07/2026 - Equilíbrio&nbsp;&nbsp;Folha de S.PauloA barriga inchada e persistente não se deve apenas a gordura localizada, mas sim em alguns casos ao depósito de gordura no fígado que pede urgente avaliação&nbsp;&nbsp;Tua SaúdeA epidemia silenciosa da gordura no fígado&nbsp;&nbsp;folha do esPor que a doença hepática gordurosa é mais comum em pessoas que não consomem álcool?&nbsp;&nbsp;Vietnam.vnSaúde do fígado começa no prato e vai muito além ",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -405,7 +465,7 @@
       "id": "b027f63ff20f",
       "title": "Adolescentes que passam a tomar café da manhã consomem menos doces e mais nutrientes ao longo do dia, diz estudo - G1",
       "published": "2026-07-27T06:00:09+00:00",
-      "summary": "Adolescentes que passam a tomar café da manhã consomem menos doces e mais nutrientes ao longo do dia, diz estudo&nbsp;&nbsp;G1Café da manhã rico em proteína e fibras ajuda a emagrecer, mostra estudo&nbsp;&nbsp;SuperinteressanteCafé da manhã melhora dieta de adolescentes, aponta estudo&nbsp;&nbsp;Aqui NotíciasCafé da manhã com proteína e fibra pode favorecer o emagrecimento, diz estudo&nbsp;&nbsp;TerraEstudo aponta combinação ideal no café da manhã para auxiliar no emagrecimento&nbsp;&nbsp;Fala V",
+      "summary": "Adolescentes que passam a tomar café da manhã consomem menos doces e mais nutrientes ao longo do dia, diz estudo&nbsp;&nbsp;G1Café da manhã rico em proteína e fibras ajuda a emagrecer, mostra estudo&nbsp;&nbsp;SuperinteressanteCafé da manhã melhora dieta de adolescentes, aponta estudo&nbsp;&nbsp;Aqui NotíciasCafé da manhã com proteína e fibra pode favorecer o emagrecimento, diz estudo&nbsp;&nbsp;TerraCafé da manhã rico em fibras ajuda a emagrecer, segundo pesquisa&nbsp;&nbsp;Seleções Reader's Di",
       "sources": [
         {
           "name": "G1",
@@ -426,6 +486,18 @@
       ]
     },
     {
+      "id": "5b2bf767d1dc",
+      "title": "Menino de 8 anos encontra pequenas bolinhas no quintal e contribui para descoberta inédita da ciência - Diário do Litoral",
+      "published": "2026-07-26T23:50:00+00:00",
+      "summary": "Menino de 8 anos encontra pequenas bolinhas no quintal e contribui para descoberta inédita da ciência&nbsp;&nbsp;Diário do Litoral",
+      "sources": [
+        {
+          "name": "Diário do Litoral",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQU0twSE1PVUlFNHpISFVoNnl2NDdrOXhWTjRmWjVkVnBuTUVRbUdHVUR0SkZkaGYwZGR5OG9zTWo0eENWVEpVRmt4T1B6bnpxRUhUZE9iSW80Q0d0UmpEdk5jckpKQmdyajk3ZlpPV2dydmNETzlTUm1QcmNtSEs2eUJaU2g4b25vRmQtT1NBdXNQbDlObU5haHZNQzZlbGtLOEtiUmlvTFdnRkNsd2NpUTMwQ0Fmcktnd1BvaUdzVXhYWW1RRmtKanRxSzFFQ2NqVWhGdWtTM2x3X1ducW5uSg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "fd37a7b2ba84",
       "title": "Neurologistas alertam: os 5 hábitos que estão destruindo a saúde do seu cérebro - Rádio Itatiaia",
       "published": "2026-07-26T19:59:09+00:00",
@@ -434,18 +506,6 @@
         {
           "name": "Rádio Itatiaia",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONlp3Mnp2MUJHWWRGZTc0Y01rd08zbWMzaWNVWGNNdnR0YWhlTk9DSE9oNzNRMTV0OEkzdndwd04tWDNvWkhzdGxkdVZ1eVkybUJWMV9oN1FFb0lrUTRxMmVjY3JONzhKM19Mb2VObkpoS1liZWQyRElOZ1BLZlFwVWlEck45bEFXRzZDbHdzZFNLSFdhUHFqZmF4b1Q1dWdic3FXSUhYc3NOdldvTlFhVDZ4bw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b5c07d017d5e",
-      "title": "A psicologia diz que pessoas que ouvem músicas tristes quando estão deprimidas buscam uma ferramenta inconsciente de regulação emocional - Super Rádio Tupi",
-      "published": "2026-07-26T19:55:44+00:00",
-      "summary": "A psicologia diz que pessoas que ouvem músicas tristes quando estão deprimidas buscam uma ferramenta inconsciente de regulação emocional&nbsp;&nbsp;Super Rádio Tupi",
-      "sources": [
-        {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQMjNIcVJoQ2dQaHZRUU5Wa0o4NlZPbHdyQTBBY29SRHFTQ2FNdVVNZm92dmE3N2V4MFdLVHZZWlJRYldiNHFqQjQzcVRER2h2V2JJNnFLX3BCeDhleXY3dE5JTkpORE1UNlJfUnRxWWlvTksyZXAxWnhJNE1CZ3JtUHAwLTJ5LTVCNll1d01LRmhWdlgzSFlEOVRXZk9vTFBqRUtvblZJRUtPRE9YemdCckMwX2szZ0hoRE95VVNkOEZTQ1piVG1HZXFMT1VuRjdtYURhaTBMbVJVdzV2Xy1KRndTRUhQb2w3c2NpV2ktelFtMmlTOURIZExwMXpjV3JLQmc?oc=5"
         }
       ]
     }
