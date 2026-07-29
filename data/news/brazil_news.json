@@ -1,9 +1,9 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-07-29T02:46:41.581264+00:00",
-  "total_fetched": 108,
-  "unique_count": 105,
-  "health_related_count": 44,
+  "fetched_at": "2026-07-29T08:42:49.998362+00:00",
+  "total_fetched": 102,
+  "unique_count": 99,
+  "health_related_count": 40,
   "news": [
     {
       "id": "90861f06b400",
@@ -66,6 +66,18 @@
       ]
     },
     {
+      "id": "97cca1c9da93",
+      "title": "Itália Registra Primeiro Transplante de Mácula Que Devolve a Visão a Mulher de 67 Anos - Forbes Brasil",
+      "published": "2026-07-28T19:31:07+00:00",
+      "summary": "Itália Registra Primeiro Transplante de Mácula Que Devolve a Visão a Mulher de 67 Anos&nbsp;&nbsp;Forbes BrasilVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "Forbes Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWU9XVmVMT05rTDE3eXJqZmYwdFo0TGF2ci1Ed2h6S2FrNUFTWlZfbzlWZG9rRm5yMERQUTJKbWY0eXpsaXpXeUxGaWcwOTc0Q3lvUE1YOFo2WnByUmdqdkhoNkFvRElFZmJZXzN2WGo5WHN4dWdvYTlxemh2OXFSaTh5ZVotQ1FFRnV5dGI4VmdrU19od1R5YnU1S2szSjZmcHZodkpyc28zTHI0dXgxcHFXb0NGekY2WEk4NUN6RDdGOUFicHQyZ293?oc=5"
+        }
+      ]
+    },
+    {
       "id": "29f611bcaceb",
       "title": "NASA encontra evidências inéditas em Marte e descoberta pode mudar a história da Terra - Diário do Comércio",
       "published": "2026-07-28T15:05:23+00:00",
@@ -93,7 +105,7 @@
       "id": "1b8f96136769",
       "title": "Rio inicia campanha para atualização da caderneta de vacinação - O Dia",
       "published": "2026-07-28T14:26:07+00:00",
-      "summary": "Rio inicia campanha para atualização da caderneta de vacinação&nbsp;&nbsp;O DiaRio inicia campanha para atualizar caderneta de vacinação de crianças e adolescentes a partir de 3 de agosto&nbsp;&nbsp;O GLOBOProdução de geradores de tecnécio. Foto: Efrain Perini — Instituto de Pesquisas Energéticas e Nucleares (IPEN)&nbsp;&nbsp;GOV.BRAntes da volta às aulas: momento ideal para atualizar vacinas das crianças&nbsp;&nbsp;Estado de MinasCrianças e adolescentes de Ametista do Sul poderão receber vacina",
+      "summary": "Rio inicia campanha para atualização da caderneta de vacinação&nbsp;&nbsp;O DiaRio inicia campanha para atualizar caderneta de vacinação de crianças e adolescentes a partir de 3 de agosto&nbsp;&nbsp;O GLOBOAntes da volta às aulas: momento ideal para atualizar vacinas das crianças&nbsp;&nbsp;Estado de MinasRio inicia campanha para atualizar vacinação de crianças e adolescentes menores de 15 anos&nbsp;&nbsp;Diário do RioSitua%C3%A7%C3%A3o%2Bde%2Bemerg%C3%AAncia.png&nbsp;&nbsp;www.gov.br",
       "sources": [
         {
           "name": "O Dia",
@@ -138,18 +150,6 @@
       ]
     },
     {
-      "id": "105805ae04fb",
-      "title": "Brasil tem avanços na resposta ao HIV, mas enfrenta aumento nos casos da infecção, aponta Unaids - Folha de S.Paulo",
-      "published": "2026-07-28T13:40:00+00:00",
-      "summary": "Brasil tem avanços na resposta ao HIV, mas enfrenta aumento nos casos da infecção, aponta Unaids&nbsp;&nbsp;Folha de S.PauloRelatório do UNAIDS alerta para risco de ressurgimento da epidemia de HIV no mundo&nbsp;&nbsp;G1Mônica Bergamo: Documentário sobre ativismo contra HIV estreia na Conferência Internacional de Aids&nbsp;&nbsp;Folha de S.Paulo“Testado no Brasil, negado aos brasileiros”: protesto toma o estande da Gilead e cobra acesso ao lenacapavir na AIDS 2026&nbsp;&nbsp;Mídia NINJAResposta ",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMjUyU1Z5Y0ptb0hhbW9pVkx1SGthSm9qTzZZZXpzN3d2Ny16a3p6STFhNmJhUGo2M3F0MDFfUzVPMElnZWdWcmNCY3hMdTJya2UzNU9qNzFfQWVWcmthNnVMSXdJajdMcWJxMGhHT1dSNmZhcjFpTjJBWkw2Z3g4SDhEM2ozYVdIbzNqdE5tc2o0WnhzNW8yajB2V29ENFVVQ1kzczh3OGNxa1I4b3hJSG8taVlRdWlUdkFURUtFZVN6eFdLbjNYSzlNSmJURk5OblRSc1NHQm5lNXRnT1Ria19VTDNEWDVHeFJF?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4d41dfbe9c5a",
       "title": "Os exames que realmente importam para quem quer envelhecer bem, segundo especialistas em longevidade - Globo.com",
       "published": "2026-07-28T13:37:38+00:00",
@@ -158,6 +158,18 @@
         {
           "name": "Globo.com",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOd0JLb21hTFNMNFJreVMzUXJ6ODRidGJoSnVrdldxVmFHMV9wZ1dYaTRyRml4akxPV1lWcnNxSmtnRGRSWFBTUFlzQWxGU0c4RVprZFh4Y2hfdHB3ZVI2UWp4T19EYWRQenVzMEJSNy1ndFRxRFZOSXlnbzhia0RVZnpaaHM1SVhxMk9qS3FabVpULUcwODV4OEl5NnhTa1FHWVo1dUVnOE91LS03TWpMdHhFaHlqSk1mZ0HSAcgBQVVfeXFMT0RQZDZCTEhLWDN5MndjeDJCVlRTTWw3eTdOYlRLYVZMQ1o1eG5oYnpSWTV0dDVsUlFBS3BiMlIxQU1MVXktUGhjZi00Y2Z6Ml9kNW9vQjVTODlTVEtEaUh0N19fNDE1dlRNNFAySW1mczZrQTBJa2k0cHpxLUptRkdHRWhMaWNSTkI5blQzTDVaRURLUG0wVF9JYTZvbDVZT3Zib1ZEaE1YYzNNd2s2RFhKcFpVeEt3TkRzTGFaWUlrVkh6LVpQaHM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cdc85c6b82c3",
+      "title": "Viagra pode reduzir progressão de metástase, aponta estudo - CNN Brasil",
+      "published": "2026-07-28T13:01:24+00:00",
+      "summary": "Viagra pode reduzir progressão de metástase, aponta estudo&nbsp;&nbsp;CNN BrasilCientistas investigam efeito do Viagra para frear metástase do câncer; entenda&nbsp;&nbsp;Rádio ItatiaiaViagra pode combater metástase de células cancerígenas, aponta estudo&nbsp;&nbsp;Folha de S.PauloEstudo aponta potencial do princípio ativo do Viagra no bloqueio da metástase do câncer&nbsp;&nbsp;Francês NewsViagra pode conter metástase, revela estudo do Instituto Weizmann&nbsp;&nbsp;Ver-o-Fato",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZHFYNUNQRjRtdjlkOHFnWFEwaDJQcWJSZHl6aWFkTkd5X2VzZWs4dkpoY1FNdU1qLTZEaXd1SXp5bUVoRVVaYW1NY0VaSHQzVTFkbWt6a252eUFNMm5sZXNhVFAwZVBXc3J2Uk5uX0hDZXUybG5uWkp0XzAtd3FmdGlmYmpqbWJYeGRwOWdOdWFKU19KUHRnRA?oc=5"
         }
       ]
     },
@@ -177,7 +189,7 @@
       "id": "bf7bc095ad63",
       "title": "O que os aditivos dos ultraprocessados fazem com a microbiota intestinal - Medscape",
       "published": "2026-07-28T12:35:16+00:00",
-      "summary": "O que os aditivos dos ultraprocessados fazem com a microbiota intestinal&nbsp;&nbsp;MedscapeAumento do consumo de alimentos ultraprocessados entre jovens preocupa especialistas pela saúde bucal&nbsp;&nbsp;Jornal da USPConsumo de ultraprocessados pode aumentar o risco de perda de força muscular&nbsp;&nbsp;Jornal da FrancaA maior revisão já feita ligou os ultraprocessados a mais de 30 problemas de saúde pelo corpo inteiro&nbsp;&nbsp;Tua SaúdeEstudo associa consumo de ultraprocessados à dor de dent",
+      "summary": "O que os aditivos dos ultraprocessados fazem com a microbiota intestinal&nbsp;&nbsp;MedscapeQuatro em cada cinco alimentos infantis são ultraprocessados&nbsp;&nbsp;CNN BrasilConsumo de ultraprocessados pode aumentar o risco de perda de força muscular&nbsp;&nbsp;Jornal da FrancaA maior revisão já feita ligou os ultraprocessados a mais de 30 problemas de saúde pelo corpo inteiro&nbsp;&nbsp;Tua SaúdeEstudo associa consumo de ultraprocessados à dor de dente&nbsp;&nbsp;G1",
       "sources": [
         {
           "name": "Medscape",
@@ -189,23 +201,11 @@
       "id": "f7d2d327c5f2",
       "title": "Saúde recomenda vacina do sarampo para pessoas de 6 meses a 59 anos em SP, São Bernardo e Guarulhos - Folha de S.Paulo",
       "published": "2026-07-28T12:00:00+00:00",
-      "summary": "Saúde recomenda vacina do sarampo para pessoas de 6 meses a 59 anos em SP, São Bernardo e Guarulhos&nbsp;&nbsp;Folha de S.PauloVeja mais manchetes e perspectivas no Google Notícias",
+      "summary": "Saúde recomenda vacina do sarampo para pessoas de 6 meses a 59 anos em SP, São Bernardo e Guarulhos&nbsp;&nbsp;Folha de S.PauloSecretaria confirma 14º caso de sarampo em São Paulo&nbsp;&nbsp;Valor EconômicoSarampo avança em SP e já soma 11 casos em quatro distritos&nbsp;&nbsp;R7Sarampo: veja quem deve tomar a vacina, onde se imunizar em SP e o que fazer em caso de sintomas&nbsp;&nbsp;agenciasp.sp.gov.brGoverno de SP confirma mais um caso de sarampo no estado&nbsp;&nbsp;Metrópoles",
       "sources": [
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNeldMRzhUeG5VcXFHUmFKWjVtVmV2M0JFNHNlelo3Rk03c0FSdjlSaDdycGFBVkJkSGhnelRpSDJNN09Fa2xDbFRlaU5YbEt2RXVPV1FBMk1MM0FWc2JQaUU0dE5HNHVHTDN3X211NThTZ0lJcEhHbEViVXRaX3cyZFhhU3VzYS1GS0NyUVppWXhLRzJzRmxINVNTSk5XQkdoMlhMMVFEdkIyQ1VNQnFnejZHdE1lYWpXeFJCVmVaWWFfQU8tT21raS1hX3c2Wi04QjFMdjJqN2tIVjA5TFN1X1lIcS1ObS1wNUlydFlpVjJhMzRSOHpN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cdc85c6b82c3",
-      "title": "Viagra pode reduzir progressão de metástase, aponta estudo - CNN Brasil",
-      "published": "2026-07-28T10:01:24+00:00",
-      "summary": "Viagra pode reduzir progressão de metástase, aponta estudo&nbsp;&nbsp;CNN BrasilCientistas investigam efeito do Viagra para frear metástase do câncer; entenda&nbsp;&nbsp;Rádio ItatiaiaViagra pode combater metástase de células cancerígenas, aponta estudo&nbsp;&nbsp;Folha de S.PauloEstudo aponta potencial do princípio ativo do Viagra no bloqueio da metástase do câncer&nbsp;&nbsp;Francês NewsViagra pode conter metástase, revela estudo do Instituto Weizmann&nbsp;&nbsp;Ver-o-Fato",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZHFYNUNQRjRtdjlkOHFnWFEwaDJQcWJSZHl6aWFkTkd5X2VzZWs4dkpoY1FNdU1qLTZEaXd1SXp5bUVoRVVaYW1NY0VaSHQzVTFkbWt6a252eUFNMm5sZXNhVFAwZVBXc3J2Uk5uX0hDZXUybG5uWkp0XzAtd3FmdGlmYmpqbWJYeGRwOWdOdWFKU19KUHRnRA?oc=5"
         }
       ]
     },
@@ -249,7 +249,7 @@
       "id": "1a46517906e8",
       "title": "Mortalidade por hepatite viral atinge 1 a cada 5 pacientes com 80 anos no SUS - Folha de S.Paulo",
       "published": "2026-07-28T07:00:00+00:00",
-      "summary": "Mortalidade por hepatite viral atinge 1 a cada 5 pacientes com 80 anos no SUS&nbsp;&nbsp;Folha de S.PauloHepatites B e C podem ficar anos sem sintomas e elevar o risco de câncer&nbsp;&nbsp;CNN BrasilPrefeitura realiza ações orientativas em consultórios odontológicos e unidades de saúde&nbsp;&nbsp;Prefeitura de ManausJulho Amarelo: testes de hepatites estão disponíveis em Juazeiro do Norte&nbsp;&nbsp;G1Vírus da hepatite mata 3.500 pessoas por dia, segundo OMS&nbsp;&nbsp;R7",
+      "summary": "Mortalidade por hepatite viral atinge 1 a cada 5 pacientes com 80 anos no SUS&nbsp;&nbsp;Folha de S.PauloPrefeitura de BH reforça prevenção às hepatites virais&nbsp;&nbsp;G1Vírus da hepatite mata 3.500 pessoas por dia, segundo OMS&nbsp;&nbsp;R7Dia Mundial de Luta contra as Hepatites Virais: 6 formas de prevenir as doenças&nbsp;&nbsp;CartaCapitalHepatites B e C podem ficar anos sem sintomas e elevar o risco de câncer&nbsp;&nbsp;CNN Brasil",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -294,14 +294,14 @@
       ]
     },
     {
-      "id": "183beb39f786",
-      "title": "Pesquisadora faz vaquinha para bancar parte do doutorado e vira chacota nas redes: 'É a realidade da ciência no país' - G1",
-      "published": "2026-07-28T03:01:10+00:00",
-      "summary": "Pesquisadora faz vaquinha para bancar parte do doutorado e vira chacota nas redes: 'É a realidade da ciência no país'&nbsp;&nbsp;G1",
+      "id": "77b7a271e114",
+      "title": "Unaids alerta para risco de ressurgimento da epidemia de HIV - Poder360",
+      "published": "2026-07-28T00:40:49+00:00",
+      "summary": "Unaids alerta para risco de ressurgimento da epidemia de HIV&nbsp;&nbsp;Poder360Relatório do UNAIDS alerta para risco de ressurgimento da epidemia de HIV no mundo&nbsp;&nbsp;G1Mônica Bergamo: Documentário sobre ativismo contra HIV estreia na Conferência Internacional de Aids&nbsp;&nbsp;Folha de S.Paulo“Testado no Brasil, negado aos brasileiros”: protesto toma o estande da Gilead e cobra acesso ao lenacapavir na AIDS 2026&nbsp;&nbsp;Mídia NINJA‘Real perigo para resposta ao HIV’: queda histórica n",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNcHNnNUlhZXYzaG56QzR6NVJGOHdrWVJNREVzUkxRcDRpdGNZTDhndVc1X19yc0tCZGg5RjFia2Z6SUZ5YThNWVFmRG5BNG1zY1RGN0xLX2ROeFpwcmRFSW1JVlFPaE1UbVFqTkEyNE02bXhnV215YUM5R3p5VkpQMzVLdEdJOEltbmtja0VXUXlaMmo1RkRRWnB5S2w2SWFwdWpYT01oMW9FTUxhV1BRR2ZiUVVEQ1VOTDhaeXFrQ2pYdkxYdXB3ZHRibWRxLUdKb3drUlIzdkMzWTJtSm9HNEdoLW9pamdTeTJNeVFZVjUtazdIY3ktVXNuenY3d9IBjAJBVV95cUxOa2lBT3B6d3lNc3ZMeWM2U1FiaTNMaDB3TVFjeGd4MG1MUXg2ZUNpMC1aeVFqdnRYQnNpZWpQTzQ4Z0loMzMzRG5xMmlYRnI1TldFRGxGX1o3d1lYRG1VRDVmUjQ1eG1UWEJMVEVvOEt1emxXSFpGNVJ6LVhhR2ZRRV9yMzc0eWZraVlNa0kxdFByOXlaQ005OGZ4VVVtU2dNaTZJdmVmSHJyZWZ0ZUJKVktqOE5FM0V3alFCdGF3Mjg3bWRBaVpIT1lKbFZ6ZkFrN1dfd2ZMR2VzWml3VnhwbkhGRFV5ZVRHZERoWnBPMDdadjVTMWlfQjRpNVN5akFoMjNLU3F3Ul9KSDd5?oc=5"
+          "name": "Poder360",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdGhKYy1KSmdjRzhoVXdrRUEtSEJ0Rl9oM1o2S2ZTNGlNU2NVek9Oa2hhMEx0WV9Sd1gwTmNidXFiOGZIYXFYRWJ0YVZpNFRMS2E5ZXJiUWxSZjdZSzJoNmtkTVQ0MUN1d2tTTkN0SzEwREtxWld3UWFMV0VJVFlSMk90UkI2UE94RjFLekM2LU43Z3JEUkl0ZDdwcWJhMjc2Q2sw?oc=5"
         }
       ]
     },
@@ -309,7 +309,7 @@
       "id": "d8a8e46adc0c",
       "title": "Morte de três bebês intensifica preocupação com vírus respiratórios em Corumbá - Diário Corumbaense",
       "published": "2026-07-27T22:16:33+00:00",
-      "summary": "Morte de três bebês intensifica preocupação com vírus respiratórios em Corumbá&nbsp;&nbsp;Diário Corumbaense3 bebês morrem por vírus respiratórios em Corumbá em 15 dias&nbsp;&nbsp;Campo Grande NewsSaúde de Corumbá reforça orientações para atualização de vacinas contra vírus respiratórios&nbsp;&nbsp;Diário CorumbaenseTrês bebês morrem por doenças respiratórias em MS, diz Secretaria de Saúde&nbsp;&nbsp;G1Corumbá reforça alerta contra vírus respiratório após morte de três bebês em 15 dias&nbsp;&nbs",
+      "summary": "Morte de três bebês intensifica preocupação com vírus respiratórios em Corumbá&nbsp;&nbsp;Diário CorumbaenseSaúde de Corumbá reforça orientações para atualização de vacinas contra vírus respiratórios&nbsp;&nbsp;Diário Corumbaense3 bebês morrem por vírus respiratórios em Corumbá em 15 dias&nbsp;&nbsp;Campo Grande NewsTrês bebês morrem por doenças respiratórias em MS, diz Secretaria de Saúde&nbsp;&nbsp;G1Três mortes de bebês acendem alerta para circulação de vírus respiratórios em Corumbá&nbsp;&nb",
       "sources": [
         {
           "name": "Diário Corumbaense",
@@ -333,7 +333,7 @@
       "id": "fb40283a6dbc",
       "title": "HIV: médicos anunciam dois novos casos de cura - O GLOBO",
       "published": "2026-07-27T21:18:57+00:00",
-      "summary": "HIV: médicos anunciam dois novos casos de cura&nbsp;&nbsp;O GLOBOHIV: dois novos casos de cura são anunciados; total chega a 13&nbsp;&nbsp;G1Remissão de HIV em dois novos pacientes é anunciada no Rio de Janeiro&nbsp;&nbsp;CNN BrasilConferência sobre AIDS no Rio começa com anúncio de mais 2 casos de cura&nbsp;&nbsp;VEJA RIODois novos casos de pessoas consideradas curadas do HIV são anunciados&nbsp;&nbsp;Folha de S.Paulo",
+      "summary": "HIV: médicos anunciam dois novos casos de cura&nbsp;&nbsp;O GLOBOVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
           "name": "O GLOBO",
@@ -366,14 +366,26 @@
       ]
     },
     {
-      "id": "a2c805d55215",
-      "title": "Anvisa aprova novo medicamento para tratar doenças autoinflamatórias - GOV.BR",
+      "id": "b25d8a7bdec3",
+      "title": "Anvisa aprova novo medicamento para tratar doenças autoinflamatórias - www.gov.br",
       "published": "2026-07-27T19:06:00+00:00",
-      "summary": "Anvisa aprova novo medicamento para tratar doenças autoinflamatórias&nbsp;&nbsp;GOV.BRAnvisa aprova novo medicamento para artrite reumatoide e outras doenças inflamatórias&nbsp;&nbsp;VEJAAnvisa aprova anacinra para o tratamento de doenças autoinflamatórias&nbsp;&nbsp;Afya | HomeAnvisa aprova novo medicamento para artrite reumatoide e outras doenças autoinflamatórias; veja a lista&nbsp;&nbsp;Portal 98 FM NatalAnvisa aprova novo medicamento para tratamento de doenças autoinflamatórias&nbsp;&nbsp;F",
+      "summary": "Anvisa aprova novo medicamento para tratar doenças autoinflamatórias&nbsp;&nbsp;www.gov.brAnvisa aprova novo medicamento para artrite reumatoide e outras doenças inflamatórias&nbsp;&nbsp;VEJAAnvisa aprova anacinra para o tratamento de doenças autoinflamatórias&nbsp;&nbsp;Afya | HomeAnvisa aprova novo medicamento para artrite reumatoide e outras doenças autoinflamatórias; veja a lista&nbsp;&nbsp;Portal 98 FM NatalAnvisa aprova novo medicamento para tratamento de doenças autoinflamatórias&nbsp;&nb",
       "sources": [
         {
-          "name": "GOV.BR",
+          "name": "www.gov.br",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaGxBcEhkUjljNkJUamRlWlAwaFNfX1NCSUIyVzZLb0Z2ZTlCcDlnZGUteWpJTHZwRmd6dUxNWHRZVXhOdE91TTJyb183LVZHWkhyelVQZjlNU0pWLWhuWVBXSksxckxfU1hLMFlteDJkNU0wNTFoTGwtZHNzVlVHbnpXMm03S1JHM0NCM2Znc3lUR3dYZ0NDdmlSdW5sbmJfYVljaWI5eld5bmZGTnBEbjRLWkN1STl4QTlVZE1pYmQwcFdjTHhuUm1n?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ffd3764bb1bf",
+      "title": "Pesquisadores identificam fósseis de 2 bilhões de anos em mármores de prédio da UFMG - Rádio Itatiaia",
+      "published": "2026-07-27T18:48:52+00:00",
+      "summary": "Pesquisadores identificam fósseis de 2 bilhões de anos em mármores de prédio da UFMG&nbsp;&nbsp;Rádio Itatiaia",
+      "sources": [
+        {
+          "name": "Rádio Itatiaia",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSmdaajgzWkZkUGFfVzUyQVNIZHNkWjZ1ak4wcl96anpvQXpVRHdTWjRUTTFPMXZQM2k5V1FuZGFrZllZRUM0T3IwZmgtcERKR3J5emltbzNPY3JqbzdFWEdvaVFUN25qLXRjOHRxT0ZLNktMc1lOTmhiYTJUUEp5cThmYzhYSkdIbHJBS3U1eWlFb19NVy1XREFTUS1leUhVbUVzc09DcHdzX3JUOC0yLWh0MXVGTktWcFktUERiMWQzQ1A0WTRueWRNRkZjOEU?oc=5"
         }
       ]
     },
@@ -414,18 +426,6 @@
       ]
     },
     {
-      "id": "eda43d17d1d6",
-      "title": "Câncer colorretal: médica alerta para sintomas e diagnóstico tardio - CNN Brasil",
-      "published": "2026-07-27T15:47:07+00:00",
-      "summary": "Câncer colorretal: médica alerta para sintomas e diagnóstico tardio&nbsp;&nbsp;CNN BrasilCâncer de intestino dá primeiros sinais no banheiro; veja hábitos de risco e como diagnosticar&nbsp;&nbsp;G1SUS adota novo exame de referência para rastreamento do câncer colorretal&nbsp;&nbsp;d24am.comCâncer colorretal: quais exames fazer e quando começar&nbsp;&nbsp;TerraCâncer colorretal: consciência precisa se converter em ação&nbsp;&nbsp;Correio Braziliense",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUkFqMHNSMFkzR3ZKTVVpTE11YnRMWDl5Vm0xTHlsMi1ieFB1eHdQcUo1MGZRZEhqemZUSXZGYjFydmhIUFFwUXBaZlZmOFVrcWhVNXZDVF9UbDBrS1hnd1ZhcVpmRGg0Vk1hVkh3LUxZTjJ6QW5Kc3dtVXhKMmNndW11dENhQVAwYk4zdGcxSU9rdjFJSzk0SHVpb2REaE9kR1g4RA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4bad7e79a4b0",
       "title": "O alimento consumido pelos egípcios, ideal para a longevidade, que se destaca pelo alto teor de ferro - O GLOBO",
       "published": "2026-07-27T13:53:33+00:00",
@@ -450,18 +450,6 @@
       ]
     },
     {
-      "id": "1dcf00dc8a2b",
-      "title": "Câncer de cabeça e pescoço: veja sintomas, sinais de alerta e como evitar diagnóstico tardio - A Tribuna",
-      "published": "2026-07-27T10:01:00+00:00",
-      "summary": "Câncer de cabeça e pescoço: veja sintomas, sinais de alerta e como evitar diagnóstico tardio&nbsp;&nbsp;A TribunaJulho Verde alerta: 80% dos casos de câncer de cabeça e pescoço são descobertos tarde&nbsp;&nbsp;TV CulturaCâncer de cabeça e pescoço&nbsp;&nbsp;G1Estudo: diagnóstico de câncer de cabeça e pescoço é tardio em 70% dos casos&nbsp;&nbsp;CNN BrasilJulho Verde: diagnóstico precoce do câncer de cabeça e pescoço eleva chances de cura para até 90%&nbsp;&nbsp;Terra",
-      "sources": [
-        {
-          "name": "A Tribuna",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcmUwTTVMMDc2UTcxS1lscDdraHdtWmpwNVRDdF9xWnRxNUViZDM2QWtKbWt6OXF3b29Xcms2ZzNNMnpyUWpDdnR3MXF6TTBJUnFHN2FmZlJ2b05JRUFseUo4S2FjWE81cEpNNTlhOS1nWVdrSnp6Y0otQ253d1QtaHhhTHJTTjYyX05ma1FIbUFrbEpHaVNldFZJc0RrejVtS2RFNnJPWWIycWVUdXF4V0lXN0huTGJ1Y2ZOTGlCRFU3TmdSOTFZTmpwZjdRYVowX2NybkdkSl9BLVJHV2NwM2lWbw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "17beeb74be12",
       "title": "Morre o médico José Luiz Weffort, referência na Neurologia em Uberaba - JM Online",
       "published": "2026-07-27T09:59:00+00:00",
@@ -477,7 +465,7 @@
       "id": "62c20dc5d719",
       "title": "Creatina sai da academia e chega ao cérebro - O GLOBO",
       "published": "2026-07-27T07:30:31+00:00",
-      "summary": "Creatina sai da academia e chega ao cérebro&nbsp;&nbsp;O GLOBOSuplementos de proteína e creatina além da musculação&nbsp;&nbsp;MedscapeNovo estudo revela que suplemento popular nas academias pode ajudar a combater doença que afeta 11,7 milhões de brasileiros&nbsp;&nbsp;Diário do ComércioCreatina e whey não são necessários para todos, alerta nutricionista&nbsp;&nbsp;Agora RNNoites de insónias? A creatina pode ajudar&nbsp;&nbsp;menshealth.pt",
+      "summary": "Creatina sai da academia e chega ao cérebro&nbsp;&nbsp;O GLOBOCreatina x HMB: qual é o melhor suplemento para conquistar e manter massa muscular?&nbsp;&nbsp;GZHSuplementos de proteína e creatina além da musculação&nbsp;&nbsp;MedscapeNovo estudo revela que suplemento popular nas academias pode ajudar a combater doença que afeta 11,7 milhões de brasileiros&nbsp;&nbsp;Diário do ComércioNoites de insónias? A creatina pode ajudar&nbsp;&nbsp;menshealth.pt",
       "sources": [
         {
           "name": "O GLOBO",
@@ -486,50 +474,14 @@
       ]
     },
     {
-      "id": "729da71d47b2",
-      "title": "Os melhores e os piores hábitos para o seu fígado - 27/07/2026 - Equilíbrio - Folha de S.Paulo",
-      "published": "2026-07-27T07:00:00+00:00",
-      "summary": "Os melhores e os piores hábitos para o seu fígado - 27/07/2026 - Equilíbrio&nbsp;&nbsp;Folha de S.PauloA barriga inchada e persistente não se deve apenas a gordura localizada, mas sim em alguns casos ao depósito de gordura no fígado que pede urgente avaliação&nbsp;&nbsp;Tua SaúdeA epidemia silenciosa da gordura no fígado&nbsp;&nbsp;folha do esSaúde do fígado começa no prato e vai muito além de evitar álcool&nbsp;&nbsp;Revista Ana MariaGordura no fígado mudou de nome e virou alerta mundial; enten",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSFRWN1hQb2NXMkVBbkJLQkRhakk1TUpfZDFoNzFPRGVLSU9wdldnZ3Y2VmFHc0E4Y1BqRFZfTjkycWRVcHJPVXE1bDFNcUM1NFBLMWZtc0g2OEZSZnFmVWExNC1IejNZSHozNlh3UUtUS3pRdEo2bksxbHR2RWJIZy0yN0hodEhLNFZSUFRhOUdPVkJoQUM0SUhSSzZhaWU4dWZLZTd5QQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c4b300eae62a",
-      "title": "Um ano após chegar ao Brasil, Mounjaro muda tratamento da obesidade - CNN Brasil",
-      "published": "2026-07-27T06:45:12+00:00",
-      "summary": "Um ano após chegar ao Brasil, Mounjaro muda tratamento da obesidade&nbsp;&nbsp;CNN BrasilCaneta emagrecedora: Foz do Iguaçu quer definir regras de acesso ao Mounjaro pelo SUS&nbsp;&nbsp;InfoMoneyMário Heringer defende Mounjaro no SUS: 'As pessoas têm direito de querer ser magras ou gordas'&nbsp;&nbsp;O TEMPOComissão vai elaborar diretrizes para uso da tirzepatida na Atenção Primária à Saúde&nbsp;&nbsp;foz.pr.gov.br\"Efeito Mounjaro\" na economia: como a tirzepatida está mudando a economia global&n",
+      "id": "5e7dfbd77b5b",
+      "title": "Estudo: diagnóstico de câncer de cabeça e pescoço é tardio em 70% dos casos - CNN Brasil",
+      "published": "2026-07-27T07:00:03+00:00",
+      "summary": "Estudo: diagnóstico de câncer de cabeça e pescoço é tardio em 70% dos casos&nbsp;&nbsp;CNN BrasilJulho Verde alerta: 80% dos casos de câncer de cabeça e pescoço são descobertos tarde&nbsp;&nbsp;TV CulturaCâncer de cabeça e pescoço&nbsp;&nbsp;G1Julho Verde: diagnóstico precoce do câncer de cabeça e pescoço eleva chances de cura para até 90%&nbsp;&nbsp;TerraFNCC promove evento gratuito em Petrópolis em alusão ao Julho Verde&nbsp;&nbsp;Tribuna de Petrópolis",
       "sources": [
         {
           "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTkpQQU1GYmkzdWk0UXB0Y0pJWjB5SHZyTnppamNyZ2hQOV8zRVU0b0d2RktLamZYTFlsbk42RXFfalRydTNwZWVYcU83MlVxaGZUZ3ZnTEFwXy0wbnljekItX3kxZlhFdXFnU291SFo4MlZKMFk0Q250dC1hUEx1SGVFVDBtSDB3SzZOWkVrVjctOE9FT19oRGJINXN4OEdCTkFZOQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b027f63ff20f",
-      "title": "Adolescentes que passam a tomar café da manhã consomem menos doces e mais nutrientes ao longo do dia, diz estudo - G1",
-      "published": "2026-07-27T06:00:09+00:00",
-      "summary": "Adolescentes que passam a tomar café da manhã consomem menos doces e mais nutrientes ao longo do dia, diz estudo&nbsp;&nbsp;G1Café da manhã rico em proteína e fibras ajuda a emagrecer, mostra estudo&nbsp;&nbsp;SuperinteressanteCafé da manhã melhora dieta de adolescentes, aponta estudo&nbsp;&nbsp;Aqui NotíciasCafé da manhã com proteína e fibra pode favorecer o emagrecimento, diz estudo&nbsp;&nbsp;TerraCafé da manhã rico em fibras ajuda a emagrecer, segundo pesquisa&nbsp;&nbsp;Seleções Reader's Di",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPVUc5MkZVWjg3b3hyeC1IOHd4aV85THVHZnd5U254TkRaQ1k5YnVhNWlhR0RqZzRRMzhreEJ3RHNmQkpVTVk4R2JnUWw5VlN1bWgxOHRIYjFYeU03RUZ2MlFmb0VTaHVBcGhYaHplVmwtM3dUV05rQndwakFvNEt6MUhDNkhfNi1LMzBMZGdnUHBqbWVNR2JoakZ5b1JvWkJfM3dKUUVTN1lNLWZ3NDNaSlpaM01OQXpZZzBYbWJ2UkQzSlBrNG5TUFh0OXMtOGkwUG1xYzVGSmJhUkF4ZzVaRFAxc24tM0VXSEl2d2cyNlhZX1B3UnfSAYQCQVVfeXFMTVlVLW0tNVRKYUtudk5jSHdoLUxPTGNwTGJkNkY3S1RYRXJGUk1IZjR6MmpTTUZiVVRHSkszdWZESjlGdE10U013MWkxbXNqVzZMM0FnUzFmVXlwYjBWOFhnWkZVb3VPU2EzWExfU1I1OF9NcWVWWk4tbXc0aFdrNzFteTdqQ2ZjT1RUTjk2WjZGcDh0V2hGVDFkRVRnUmNUaXdnVUNLblR6T3lEcS0wbWp5MFVKci10WFFZSnB6WkRQNHdxUE9ydm11eTc5Z0tXNEpuRHVmVm1TamR4VUtHc2l4N2dMczdRdVJ3dWNOZm0td0k4eF9Oc2dnWGNGbVNMdjBoNEs?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f7346dd463f4",
-      "title": "Câncer de pâncreas: por que o tumor de menor sobrevida quase sempre é descoberto tarde - G1",
-      "published": "2026-07-27T06:00:08+00:00",
-      "summary": "Câncer de pâncreas: por que o tumor de menor sobrevida quase sempre é descoberto tarde&nbsp;&nbsp;G1Câncer de pâncreas: por que a doença costuma ser descoberta tarde&nbsp;&nbsp;Portal Tri NotíciasCirurgia bem-sucedida para câncer pancreático complexo com invasão vascular.&nbsp;&nbsp;Vietnam.vnO sinal que levou aposentada a descobrir um câncer de pâncreas após anos de dores&nbsp;&nbsp;Diário do Centro do MundoUma dor abdominal persistente levou a várias consultas médicas, apenas para descobrir qu",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaktsWWRTTlNMQzI1RE5YWEtJR2laRk8tX1QzQkNvNVpBcEdpU1EwQ3VRT2RZaFZ6aU92cU05bjh0QjJiUDZGT0Y3SEhfS1UzaEp4MGhTUUZFOEdDUXNjYXUyaU5DaHdOa3F3Nk84bVRXZGFrb1VwOXRSX0d1SHBHX2FRem1sc2hGb0h0ZzdJWVZVeHNZdzlYX2pDYm4ySzVBbnZzMGFHX09fckx5OVZENkdqNVhxS21KajVTNnhRRk1rNTNIUUdlSXRZUEFwWEhBcTZZ0gHiAUFVX3lxTFBHdTZ0S3NLaGloTlROME1LU0dZNFpSeE0zVzd3T0xnb19kNXotdk0zSzM3WmFZYldsNi1qM1YzRE1rOXk3b1FqRi11eU5JTC02dHhqNGJrT3dQbkdKTjFKb0VnbEtGczlUbF9jcHlGXzF2cHV0aU1pSUthOF9GZ0g2aWxsblVPNDY4NlI1VFpLTElsS0FPdm11RVliMmRDYzVqalR3LU0zSXlpa2hfYmdRVFVuQ3V3ZlVNaHluX0t6aERHdmNSNFN6b2EyRkZYZHhoSnFoM1kyWDR4bzRDNnFJR0E?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSWVsNEhlSkVHWTVTY3ZJc0ZTUnVFM2c5c2U3SVBqU2M4Yk9HZzZobElTN3VPenFhRjFMX1pkbEVPOFdMWWNRSjVISU9Od3FEeUtrRFNDS2FmWUhMRlZORjRRRTFsa0NXSm9qTzdtMldqMkJpZ2d2TlE3bXMzRTRBZVBRZHhDNXFMZ01SZjdfSHAxazB5QmwwOUItaTZxZko1WjlVODZGazNvNDlzV3c?oc=5"
         }
       ]
     }
