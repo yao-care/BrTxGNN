@@ -1,31 +1,67 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-07-29T19:18:38.360360+00:00",
+  "fetched_at": "2026-07-30T02:31:55.818532+00:00",
   "total_fetched": 92,
   "unique_count": 91,
-  "health_related_count": 38,
+  "health_related_count": 36,
   "news": [
     {
-      "id": "62218012ecab",
-      "title": "Viagra pode ajudar a frear metástase de câncer, mostra estudo inicial - UOL",
-      "published": "2026-07-29T18:34:31+00:00",
-      "summary": "Viagra pode ajudar a frear metástase de câncer, mostra estudo inicial&nbsp;&nbsp;UOLViagra pode reduzir progressão de metástase, aponta estudo&nbsp;&nbsp;CNN BrasilCientistas investigam efeito do Viagra para frear metástase do câncer; entenda&nbsp;&nbsp;Rádio ItatiaiaEstudo aponta potencial do princípio ativo do Viagra no bloqueio da metástase do câncer&nbsp;&nbsp;Francês NewsO Viagra pode conter o conter a metástase!&nbsp;&nbsp;aGazeta Bahia",
+      "id": "4128d5dcb6c8",
+      "title": "Consumir menos açúcar na infância diminui risco de demência na velhice - Globo",
+      "published": "2026-07-29T22:48:58+00:00",
+      "summary": "Consumir menos açúcar na infância diminui risco de demência na velhice&nbsp;&nbsp;Globo",
       "sources": [
         {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcnZYMnFoR0ZacWZBMVk2cEdTbkI3NkVvTURDUG0zZWozSGlHTENMcjZyVzhwMkJtRHM1QmFOeV9wTldYanlNdjVDUGpTaERBNzExRmxnQmpFVFJFdzFrWWFZTGdvalEzRmEtY1FqSzBSZngzM2hCeVBKNl9jWjBYNEptd1p6aEhhUlJKdndHQTBDRElXcERQWThKbnpJRExxQ0U0Nm9TUjUwbkJ2THRHTVFUUTc0RkhTWF9tMkpVZ0x1NE9hd0ltTWJWYUdTT1Nram9GdVVmRTJXQzA?oc=5"
+          "name": "Globo",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQb0h6OVhXTjZORmJtSlFsdkJlaThyWVZva2E0dHdRdzZ2dktJUW1RUVhBdmFod29ibmJoN21xZ0VTVV9aczY1NEpFSm9lclRIVmhKSGFzWFdycUM5cmtiS1NWeW5JYjVGQmpfaVliWHlIajFRWmR2Nm1XQnE0Wm90V3dGTkhVMko1ckNrZlRNLTcyUnJ6MlBQWUdNQ054OGNLTVQteG9OVUJrRlNzbldERExESE9OZ3Z6dzRzVUNGRjh6SGxnMG1QVC1EWdIB2gFBVV95cUxORkV4QUdvRjM3NXVUeW9QZnJUMDh0WjVTQzU5TEhxY2J0c3M3c29IUTA4bzBnTHZOZWNmYmFEX0duTHY3b05jaXNrdUg4OWt6NTBNeDFpQldrRlc0LUFsenhlZ25abnVLNndtVXN2U3IwSTZ3Q0V1TjhOZ1c1MGNOeTdJRnFVSHJYZ2hvZXpwcTQxVUpybmFFS1F0Q3ZwVVNpemRoRjFneWxBTFNKZXY1VXFaM0RYUDI2aGpKeDlqTDg0WUU1SHNONWMwdXdnb2JlZVEwbUpzUFRKUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3a352570cb31",
+      "title": "OVALE: Por que perder peso é tão difícil? Médica explica o motivo - sampi.net.br",
+      "published": "2026-07-29T22:17:53+00:00",
+      "summary": "OVALE: Por que perder peso é tão difícil? Médica explica o motivo&nbsp;&nbsp;sampi.net.brPerdeu peso, e agora? Entenda por que cresce a busca por procedimentos após o emagrecimento&nbsp;&nbsp;O GLOBOEmagrecer com músculo: os testes e as atitudes que ajudam a lidar com o dilema das canetas&nbsp;&nbsp;VEJAUsa Mounjaro? Nutróloga revela efeitos silenciosos que a tirzepatida pode deixar para trás&nbsp;&nbsp;TerraCanetas emagrecedoras exigem acompanhamento médico&nbsp;&nbsp;Folha PE",
+      "sources": [
+        {
+          "name": "sampi.net.br",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN3Exb3pkYlpIYW5HMktZelBqMmxxaDV2X0t1aUgxenByT2xpU1F2RVJKTHhmSHZHSGtscEN0c09Bci1tYWV5WjQxSTh4X2I4YVZkSnQzS3MwS0ZrQUZ0TmtFeGYyM2s0aVBJLXdDWTlxVW5PcVdLaHI3elZrN3BzS1dEVnJQeVM2Sy1rQ1RZSVI0Q0NSYmN2TjgtMEZlQ3Q1N0NaODAwanBCcko1OWRQYjl1WWo5aEF1d1dmM2VHSEtaNnM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4e5f33366568",
+      "title": "Opinião - Drauzio Varella: Estudo dinamarquês revela que 45% dos casos de demência são evitáveis - Folha de S.Paulo",
+      "published": "2026-07-29T20:20:00+00:00",
+      "summary": "Opinião - Drauzio Varella: Estudo dinamarquês revela que 45% dos casos de demência são evitáveis&nbsp;&nbsp;Folha de S.PauloBem-Estar #361 - Como prevenir as demências sem o uso de medicamentos&nbsp;&nbsp;G1Nutrição e longevidade: o papel da dieta na preservação cognitiva e na saúde das articulações&nbsp;&nbsp;TerraMente exausta? Seu cérebro pode estar pedindo mais nutrientes&nbsp;&nbsp;CicloVivoDieta da mente: 10 alimentos para proteger seu cérebro da demência&nbsp;&nbsp;Estado de Minas",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQS1N1Y3NIcEFnaVdyN1BNTFRnUkNmYVZ3NjlEY0FVNVVpYVQ0cWZGQVdlbkI2cFlkNHVpS0l4TVFPRGNCTUJtS1NMZVozakV6TFNoVFNuNjlzOWtXc1lfUXdSaEhFUDdNTGVQRmw5cnpuQndMaEl6OXR3R2ZETUIxTFRCNTRwWXUyeVBnN0NkV0M1THRzWEJ2OEJDS214UTZ0SlRpUTAzSmI2eUZXSHhIVHU1VUVNVVlJYjNhOU9hSWVBUVgwRjI0NGxMZG54c3F4?oc=5"
         }
       ]
     },
     {
       "id": "403f862e1a6d",
       "title": "Lúcia Helena: Silencioso: você já fez teste para saber se carrega um vírus de hepatite? - UOL",
-      "published": "2026-07-29T18:25:37+00:00",
-      "summary": "Lúcia Helena: Silencioso: você já fez teste para saber se carrega um vírus de hepatite?&nbsp;&nbsp;UOLJulho Amarelo reforça orientações sobre hepatites virais nas UBSs&nbsp;&nbsp;G1Prefeitura realiza ações orientativas em consultórios odontológicos e unidades de saúde&nbsp;&nbsp;Prefeitura de ManausVírus da hepatite mata 3.500 pessoas por dia, segundo OMS&nbsp;&nbsp;R7Hepatites B e C podem ficar anos sem sintomas e elevar o risco de câncer&nbsp;&nbsp;CNN Brasil",
+      "published": "2026-07-29T19:00:00+00:00",
+      "summary": "Lúcia Helena: Silencioso: você já fez teste para saber se carrega um vírus de hepatite?&nbsp;&nbsp;UOLJulho Amarelo reforça prevenção às hepatites virais&nbsp;&nbsp;G1Prefeitura realiza ações orientativas em consultórios odontológicos e unidades de saúde&nbsp;&nbsp;Prefeitura de ManausVírus da hepatite mata 3.500 pessoas por dia, segundo OMS&nbsp;&nbsp;R7Dia Mundial de Luta contra as Hepatites Virais: 6 formas de prevenir as doenças&nbsp;&nbsp;CartaCapital",
       "sources": [
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPczRiQUxZWDN5S0tOeW9zWVIwY29GUjdwTE9nN1luUkY0ZjFSQVlZOVdvQXdZc1VNMmNoUkpCN2lydVJyOHI0cTB5ZFlUR05KVDI2VXlGWnRqUXM2UFZPQVNVdGM5SkpEaEdCc290M0paMm9EemhidkRJNmJBX3ppaWVxa0tqZzFNWjJrajFVVHByRXpMNnc3UGVJRFUwM0Q4NVdkb1VsZXNKRHBFSHFScXA5c0U2dElSLWRWcTNEY2JQUE5GdkN0eDJGdDlBSjZqc0ppXw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "62218012ecab",
+      "title": "Viagra pode ajudar a frear metástase de câncer, mostra estudo inicial - UOL",
+      "published": "2026-07-29T18:34:31+00:00",
+      "summary": "Viagra pode ajudar a frear metástase de câncer, mostra estudo inicial&nbsp;&nbsp;UOLViagra pode reduzir progressão de metástase, aponta estudo&nbsp;&nbsp;cnnbrasil.com.brCientistas investigam efeito do Viagra para frear metástase do câncer; entenda&nbsp;&nbsp;Rádio ItatiaiaEstudo aponta potencial do princípio ativo do Viagra no bloqueio da metástase do câncer&nbsp;&nbsp;Francês NewsO Viagra pode conter o conter a metástase!&nbsp;&nbsp;aGazeta Bahia",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcnZYMnFoR0ZacWZBMVk2cEdTbkI3NkVvTURDUG0zZWozSGlHTENMcjZyVzhwMkJtRHM1QmFOeV9wTldYanlNdjVDUGpTaERBNzExRmxnQmpFVFJFdzFrWWFZTGdvalEzRmEtY1FqSzBSZngzM2hCeVBKNl9jWjBYNEptd1p6aEhhUlJKdndHQTBDRElXcERQWThKbnpJRExxQ0U0Nm9TUjUwbkJ2THRHTVFUUTc0RkhTWF9tMkpVZ0x1NE9hd0ltTWJWYUdTT1Nram9GdVVmRTJXQzA?oc=5"
         }
       ]
     },
@@ -42,13 +78,13 @@
       ]
     },
     {
-      "id": "63510330436e",
-      "title": "Pressão alta: alimento rico em nitratos naturais pode auxiliar no controle da hipertensão - iclnoticias.com.br",
+      "id": "4f28849d8476",
+      "title": "Pressão alta: alimento rico em nitratos naturais pode auxiliar no controle da hipertensão - ICL Notícias",
       "published": "2026-07-29T14:50:26+00:00",
-      "summary": "Pressão alta: alimento rico em nitratos naturais pode auxiliar no controle da hipertensão&nbsp;&nbsp;iclnoticias.com.brSuco vampiro de beterraba com laranja: veja o que acontece com o corpo ao beber essa mistura todos os dias&nbsp;&nbsp;TerraPressão arterial no limite? 3 sumos vermelhos que ajudam a reduzir&nbsp;&nbsp;Notícias ao MinutoSuco de beterraba e o efeito do nitrato natural sobre a pressão arterial ao longo das semanas&nbsp;&nbsp;Tua Saúde",
+      "summary": "Pressão alta: alimento rico em nitratos naturais pode auxiliar no controle da hipertensão&nbsp;&nbsp;ICL NotíciasSuco vampiro de beterraba com laranja: veja o que acontece com o corpo ao beber essa mistura todos os dias&nbsp;&nbsp;TerraPressão arterial no limite? 3 sumos vermelhos que ajudam a reduzir&nbsp;&nbsp;Notícias ao MinutoSuco de beterraba e o efeito do nitrato natural sobre a pressão arterial ao longo das semanas&nbsp;&nbsp;Tua Saúde",
       "sources": [
         {
-          "name": "iclnoticias.com.br",
+          "name": "ICL Notícias",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUnJzY0FPVHJRVENMZWY2VkVKNEFWdEg3SG1GSWlCZmpIczhfVy1qakJhQnR4Zkt6emxBS2pJZ3ZPZmlmTHRGLXVCWW1fSDRsZjZHb2ttOVowVVV5dUFEUFB6YlA5MHRGMjBBbExhUE41VGxIcFQ1SFNZUV91UEI2Sg?oc=5"
         }
       ]
@@ -69,7 +105,7 @@
       "id": "9709a848023e",
       "title": "Com que idade os níveis de testosterona começam a cair e como prevenir, segundo Harvard - Globo",
       "published": "2026-07-29T13:19:48+00:00",
-      "summary": "Com que idade os níveis de testosterona começam a cair e como prevenir, segundo Harvard&nbsp;&nbsp;GloboSem medo ou vergonha da andropausa&nbsp;&nbsp;Universal.orgHomens estão perdendo testosterona em velocidade alarmante, mostra pesquisa&nbsp;&nbsp;BondeHomens falam mais sobre fertilidade, emoções e equilíbrio hormonal&nbsp;&nbsp;Gazeta de AlagoasTestosterona baixa por estresse: quando não é hipogonadismo?&nbsp;&nbsp;portal.afya.com.br",
+      "summary": "Com que idade os níveis de testosterona começam a cair e como prevenir, segundo Harvard&nbsp;&nbsp;GloboSem medo ou vergonha da andropausa&nbsp;&nbsp;Universal.orgHomens estão perdendo testosterona em velocidade alarmante, mostra pesquisa&nbsp;&nbsp;bonde.com.brHomens falam mais sobre fertilidade, emoções e equilíbrio hormonal&nbsp;&nbsp;Gazeta de AlagoasTestosterona baixa por estresse: quando não é hipogonadismo?&nbsp;&nbsp;portal.afya.com.br",
       "sources": [
         {
           "name": "Globo",
@@ -78,10 +114,22 @@
       ]
     },
     {
+      "id": "5fd4363dab89",
+      "title": "Anvisa aprova novo medicamento para câncer de pulmão - Litoral na Rede",
+      "published": "2026-07-29T12:21:00+00:00",
+      "summary": "Anvisa aprova novo medicamento para câncer de pulmão&nbsp;&nbsp;Litoral na RedeVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "Litoral na Rede",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQclhVOXFjRFFlWGRDdnVTaklGSUZLcnlCbWpYVzZCS0ZXSGQ5TUg5WkJPSU9jQXNwQU1lU3NwOE9zUGdKalRseF9meVhuY1dUTGY3aG1EaFZVdEQ4ejhxZzJtd01yMHZLdnozWG16ZVJyeHAxRHFfZkdFVHhMWkxoZU53UXlLdWtQbFE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c8a58e8be25c",
       "title": "Após 18 mortes, Chile decreta alerta sanitário por hantavírus em 13 regiões - UOL Notícias",
       "published": "2026-07-29T11:59:43+00:00",
-      "summary": "Após 18 mortes, Chile decreta alerta sanitário por hantavírus em 13 regiões&nbsp;&nbsp;UOL NotíciasChile decreta alerta sanitário após 18 mortes por hantavírus&nbsp;&nbsp;Midiamax",
+      "summary": "Após 18 mortes, Chile decreta alerta sanitário por hantavírus em 13 regiões&nbsp;&nbsp;UOL NotíciasChile decreta alerta sanitário após 18 mortes por hantavírus&nbsp;&nbsp;MidiamaxChile coloca 13 regiões em alerta após hantavírus matar 18 pessoas&nbsp;&nbsp;Diário de São PauloApós 18 mortes, Chile decreta alerta sanitário por hantavírus&nbsp;&nbsp;radio93.com.brAutoridades do Chile decretam alerta sanitário por hantavírus em quase todo o país&nbsp;&nbsp;Gazeta Brasil",
       "sources": [
         {
           "name": "UOL Notícias",
@@ -90,38 +138,26 @@
       ]
     },
     {
-      "id": "e54aa073f2f6",
-      "title": "Serpente escavadora brasileira Tametara Mirim reescreve a evolução dos répteis - Revista Amazônia",
-      "published": "2026-07-29T10:00:00+00:00",
-      "summary": "Serpente escavadora brasileira Tametara Mirim reescreve a evolução dos répteis&nbsp;&nbsp;Revista Amazônia",
+      "id": "afae072b46fc",
+      "title": "Segurado com HIV sem sintomas tem direito à indenização por doença - STJ",
+      "published": "2026-07-29T10:50:00+00:00",
+      "summary": "Segurado com HIV sem sintomas tem direito à indenização por doença&nbsp;&nbsp;STJSegurado assintomático com HIV tem direito a indenização por invalidez&nbsp;&nbsp;Consultor JurídicoSTJ determina pagamento de indenização por invalidez permanente para militar assintomático diagnosticado com HIV&nbsp;&nbsp;Bahia NotíciasSegurado com HIV recebe garantia de indenização&nbsp;&nbsp;Tudo Rondônia",
       "sources": [
         {
-          "name": "Revista Amazônia",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZVJOTG45SEQ2QlNvQmp2ejlZaW9fUGNjQnZJZ0c5NzVYR1FsNUJFc19iMjRhSUNoVzZ4SnBKUnRxRFdmcjBMVVZteE9GV0dROE9Od2szRG9yc05nUlp0VkNuR3NwSmVlOHk4ZUhPci10Wnd1YWdwX2lEdU1aWjFuMmJKLVlwcU91ZFoxUHZ4bG9zRUtt?oc=5"
+          "name": "STJ",
+          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPN055V01HY1cyelVobDFfUDBnVGUzNHktWXN2UnNWUFlVWWcyQlRyeXJrUXh2cVhkRjU0Qm5QbXVPc2t3cnlCazhKblJPWXpGZmRrRmFUWGF1RGs2Mi1jTEZLY3dtOVRWR2FqX1U4U3BLam1fNmR1eUJIZHpISWw5d1RMMjQ2TDl4dXBJckY1Zi1tSGtwZ181ZFQ4b25WSmVCSjkzTWRqWDZWRElJWUVOdS1rMVhjWTFqZE5NMDQ4ZXFXWUs4eGk3SDZhRXdzUXR3WlQzRm5xUDVYSElZY3JWbG1yc0E4WEMwdXNONVBNX2s2OHlxTV82d25jQVBhSDJXcEh0T1hvZVZSRm5pWk1kNlRn?oc=5"
         }
       ]
     },
     {
-      "id": "a953bedc4eee",
-      "title": "9 hábitos que especialistas recomendam na meia-idade para viver mais e envelhecer melhor - oglobo.globo.com",
+      "id": "f0b1da1ce392",
+      "title": "9 hábitos que especialistas recomendam na meia-idade para viver mais e envelhecer melhor - O GLOBO",
       "published": "2026-07-29T07:30:21+00:00",
-      "summary": "9 hábitos que especialistas recomendam na meia-idade para viver mais e envelhecer melhor&nbsp;&nbsp;oglobo.globo.comA expectativa de vida aumentou. O desafio agora é preservar a capacidade de viver bem&nbsp;&nbsp;Times Brasil | CNBCComo conciliar o envelhecimento com a saúde, de acordo com a ciência&nbsp;&nbsp;AJN1Conheça a importância dos hábitos saudáveis para um envelhecimento com mais qualidade de vida&nbsp;&nbsp;ParaibaOnlineComo viver mais e melhor? Hábitos simples para aumentar a longevid",
+      "summary": "9 hábitos que especialistas recomendam na meia-idade para viver mais e envelhecer melhor&nbsp;&nbsp;O GLOBOA expectativa de vida aumentou. O desafio agora é preservar a capacidade de viver bem&nbsp;&nbsp;Times Brasil | CNBCComo conciliar o envelhecimento com a saúde, de acordo com a ciência&nbsp;&nbsp;AJN1Conheça a importância dos hábitos saudáveis para um envelhecimento com mais qualidade de vida&nbsp;&nbsp;ParaibaOnlineComo viver mais e melhor? Hábitos simples para aumentar a longevidade&nbsp;",
       "sources": [
         {
-          "name": "oglobo.globo.com",
+          "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQ3ZOZVZnd2xrN2h6TFkzRVVWN3RnUFhzcWRMQjN1V1FVN21wSzIwcFFDQVhRUXFLRWRaLXdOTkRBRXRzMWpQYmtIcnlzSlZHMnBOOFY4TVBQdDRIU3NScm5wLVBnbVM4REoxQzlPRmI2NVpjLWxQUDRzTF9aUU1hdy1pakpGMFhDb1RlZEhKNE1ka1ZSOEpVN0FFNER6WDJLanFxbHR2NXVVRnFVQ3EyWkVlQU0zdDJlRDNKeG9oUGlFV0p3M251dkk2bGVka1c5dDl3ZTRCMlptRHgw0gHrAUFVX3lxTFBFbnpVVkFjM3NxczhzR0t1TXpCZkpNYmtobVc3UHZuUDVTa0lKa2FieV9McEFMa2trQlJQX3FwUFV5bnBnZ3JnUXdMUTZxTTI5YjI3b0k0WDFWc1JWYmI1Sm5sRTRQVDF3OWsxeEZiQkVOZjVGQi0zY1M1djlDSlhLVjJXbzVhbURxOHBieFk4U3gyLUpMUmk4eWVkNWxPZWJmY2t1dTZrT0UyTDdWQzBOOU5peHZmNTRMOTk0OWdCS2F5N0MzQ0M1SERzdFFhaHljX0ZMbGpBQk5zT1JWME5RTXV4aGRaX1c5RGM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c14d823c4891",
-      "title": "Brasil terá 1º centro de protonterapia, técnica de precisão contra o câncer; paciente do SUS, porém, ainda vai esperar anos - G1",
-      "published": "2026-07-29T06:00:17+00:00",
-      "summary": "Brasil terá 1º centro de protonterapia, técnica de precisão contra o câncer; paciente do SUS, porém, ainda vai esperar anos&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPQ1RCU3NuTUc3N3N4dE03U3IyS3ZSZEtSUk92SFoxZWZ6cWtfUS1Id044TmlwLWNneUc5UlF4WG9qMUdLMDJHczc2NTZKb0ZxNS12eEJJRDJjanlnWmlWZlFwMldkQ2tFMHZXaE05M3d0WVZRSHhVTDBTQ1ZmQi1yUER4UUp0WEhuVlp6dnlvRURjRXJlaEFXWVdGcFJENjB5cTl2cF83Y0c5U29FVmFCNTQ3UEdPejMxUXNkci1OTVg0QTdYNmlMRFBjakZZV2pNcGVPS0lod05vWFQzaGRoWm8wOFplVGlWNlZLSDMxT0tPRXNTVUhqTGdsS2lmM0Ex0gGPAkFVX3lxTE9KRk9jR0w5SnhSWjc0ME5uNzQzSXdFVHJsWWpqWEdJTmtxYmRHUHg2cFpqQU5nTHdmTzhWYWpKcTY5cmpjNjk2R25iUFROSFlxdnVXR2dYUjRURXNiV3JwOFFJdVBRcTJ0WXo4d3g1S2JtdDF6OFoxNmlKR0FHV2dkNnNrVnBLS2dpUnp3ZGtZbmJ3THhRVXBJczh3MXNReElQR0Vlb2I5azBFNEZjamhqTFlPTXJyWlQ2YTRmWWdoLTVQVWxHQUpFQ1RNS1FYSXlQVnZMc2U4Y3hoMW9CdnZyVlMwVnBISDdzM3FaNXh2LXhsM0dhRm4yZ2VGQkVSQjBzdmRhS0JueHMxRHBQTTQ?oc=5"
         }
       ]
     },
@@ -129,7 +165,7 @@
       "id": "602875255730",
       "title": "Combinação de gordura abdominal e falta de vitamina D mais que dobra risco de morte após os 50 anos - Agência FAPESP",
       "published": "2026-07-29T03:00:54+00:00",
-      "summary": "Combinação de gordura abdominal e falta de vitamina D mais que dobra risco de morte após os 50 anos&nbsp;&nbsp;Agência FAPESP",
+      "summary": "Combinação de gordura abdominal e falta de vitamina D mais que dobra risco de morte após os 50 anos&nbsp;&nbsp;Agência FAPESPGordura abdominal e baixa vitamina D dobram risco de morte após os 50&nbsp;&nbsp;MetrópolesGordura abdominal e falta de vitamina D dobra risco de morte após os 50 anos&nbsp;&nbsp;portalprudentino.com.brGordura abdominal e baixa vitamina D elevam o risco de mortalidade após os 50&nbsp;&nbsp;PrimeiroJornal",
       "sources": [
         {
           "name": "Agência FAPESP",
@@ -141,7 +177,7 @@
       "id": "2fad278fa93e",
       "title": "Ministério da Saúde recomenda vacinação geral contra o sarampo em três cidades de SP - UOL Notícias",
       "published": "2026-07-29T00:41:00+00:00",
-      "summary": "Ministério da Saúde recomenda vacinação geral contra o sarampo em três cidades de SP&nbsp;&nbsp;UOL NotíciasSarampo: veja quem deve tomar a vacina, onde se imunizar em SP e o que fazer em caso de sintomas&nbsp;&nbsp;agenciasp.sp.gov.brSarampo avança em São Paulo e já soma 11 casos em quatro distritos em 2026&nbsp;&nbsp;O TEMPOEstado de SP confirma 14º caso de sarampo neste ano; paciente é bebê não vacinado&nbsp;&nbsp;G1Ministério da Saúde amplia recomendação de vacinação contra o sarampo em três",
+      "summary": "Ministério da Saúde recomenda vacinação geral contra o sarampo em três cidades de SP&nbsp;&nbsp;UOL NotíciasEstado de SP confirma 14º caso de sarampo neste ano; paciente é bebê não vacinado&nbsp;&nbsp;G1Sarampo: veja quem deve tomar a vacina, onde se imunizar em SP e o que fazer em caso de sintomas&nbsp;&nbsp;agenciasp.sp.gov.brMinistério da Saúde amplia recomendação de vacinação contra o sarampo em três cidades de SP&nbsp;&nbsp;EstadãoMinistério amplia vacinação contra sarampo para pessoas de 6",
       "sources": [
         {
           "name": "UOL Notícias",
@@ -153,7 +189,7 @@
       "id": "f0154de66a8e",
       "title": "Lito Sousa, do Aviões e Músicas, recebe alta de internação e se prepara para luta contra o câncer - Estadão",
       "published": "2026-07-29T00:04:00+00:00",
-      "summary": "Lito Sousa, do Aviões e Músicas, recebe alta de internação e se prepara para luta contra o câncer&nbsp;&nbsp;EstadãoVeja mais manchetes e perspectivas no Google Notícias",
+      "summary": "Lito Sousa, do Aviões e Músicas, recebe alta de internação e se prepara para luta contra o câncer&nbsp;&nbsp;EstadãoLito Sousa tem alta após oito dias de internação em SP e diz que vai conscientizar homens sobre câncer de próstata&nbsp;&nbsp;G1Saiba quem é Lito Sousa, influenciador diagnosticado com câncer de próstata&nbsp;&nbsp;cnnbrasil.com.brLito Sousa recebe alta e retoma trabalho após internação&nbsp;&nbsp;Correio BrazilienseConheça a trajetória de Lito Sousa, da Manutenção de Aviões ao Fen",
       "sources": [
         {
           "name": "Estadão",
@@ -162,13 +198,13 @@
       ]
     },
     {
-      "id": "fe4c12df850d",
-      "title": "Por que seus sonhos não são aleatórios, segundo este estudo - revistagalileu.globo.com",
+      "id": "5fce71ab9018",
+      "title": "Por que seus sonhos não são aleatórios, segundo este estudo - Globo",
       "published": "2026-07-28T22:23:53+00:00",
-      "summary": "Por que seus sonhos não são aleatórios, segundo este estudo&nbsp;&nbsp;revistagalileu.globo.com",
+      "summary": "Por que seus sonhos não são aleatórios, segundo este estudo&nbsp;&nbsp;Globo",
       "sources": [
         {
-          "name": "revistagalileu.globo.com",
+          "name": "Globo",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNckNUM1pNTWdIX2w1dy1VQ1djTzJSb0NNcVpVc013UENNaDhjZEVxQWdRRlNXUTd4eXdGeWZzbUZQUHJUWVZmQVRSN1VGeFp2R2NZamJPLTlRYzJfZG8wTFB3YmhTaWJDdEw2N3Jfbmw2YVZ6NTlzZzRuTmJuWEdaSFY1N0VuLXFHZmlMbkNSRUVKczgtdWFQTXdSQWQzZmFEamZUOU1tQ3Q1NDAtS2RubENZT2lqWC0xUjZUNkVR0gHMAUFVX3lxTE1iTXREZk1NNEZCQ0lvdjktVDIxcnBTRWFxVkJBaGFnZElxcVV1cGdpSXN5NWtlTXZ1M1A5UXhNYUFUVXRHQlVMUmtxVDBqajh4Vkg1cTUwVDM2eTBENnpuME1ObzhaS01tWE1wOGt0M1BJbUFwLThlaFVLWkJjN1FHa1lKYUlweTRnVzhHdkdSaXpXZXZZVHJib1FfcWluY0dJNzNsWXloeGowS1BnRTA0cHZGYXpDM2dMcmlqeW1ZbURYTFRzQWZMRGtPcQ?oc=5"
         }
       ]
@@ -177,7 +213,7 @@
       "id": "36e4def3e538",
       "title": "Curitiba vai soltar mosquitos para reduzir a transmissão da dengue - Tribuna do Paraná",
       "published": "2026-07-28T21:37:00+00:00",
-      "summary": "Curitiba vai soltar mosquitos para reduzir a transmissão da dengue&nbsp;&nbsp;Tribuna do ParanáApós derrubar casos de dengue, prefeito Eduardo Pimentel amplia a estratégia de sucesso com a soltura dos mosquitos que combatem a doença&nbsp;&nbsp;Prefeitura de CuritibaCuritiba inicia soltura de wolbitos contra dengue&nbsp;&nbsp;Blog do EsmaelCuritiba inicia liberação de mosquitos que combatem a dengue&nbsp;&nbsp;Bem ParanáEquipes do CCZ participam de capacitação para a 2ª etapa do Método Wolbachia&",
+      "summary": "Curitiba vai soltar mosquitos para reduzir a transmissão da dengue&nbsp;&nbsp;Tribuna do ParanáApós derrubar casos de dengue, prefeito Eduardo Pimentel amplia a estratégia de sucesso com a soltura dos mosquitos que combatem a doença&nbsp;&nbsp;Prefeitura de CuritibaCuritiba inicia soltura de wolbitos contra dengue&nbsp;&nbsp;Blog do EsmaelEquipes do CCZ participam de capacitação para a 2ª etapa do Método Wolbachia&nbsp;&nbsp;foz.pr.gov.brAnvisa autoriza por 5 anos produção de mosquito com Wolbac",
       "sources": [
         {
           "name": "Tribuna do Paraná",
@@ -186,13 +222,13 @@
       ]
     },
     {
-      "id": "1dba1b2527e2",
-      "title": "Encceja 2026: veja dicas de estudo a menos de um mês das provas - Brasil Escola",
+      "id": "f67cb4e1ccbb",
+      "title": "Encceja 2026: veja dicas de estudo a menos de um mês das provas - brasilescola.uol.com.br",
       "published": "2026-07-28T21:35:00+00:00",
-      "summary": "Encceja 2026: veja dicas de estudo a menos de um mês das provas&nbsp;&nbsp;Brasil Escola",
+      "summary": "Encceja 2026: veja dicas de estudo a menos de um mês das provas&nbsp;&nbsp;brasilescola.uol.com.br",
       "sources": [
         {
-          "name": "Brasil Escola",
+          "name": "brasilescola.uol.com.br",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUk5UYkdnckpGYWRsaHQtOC0zaVVVQVR2ejFjWHRGdnh4aC1VdTVmOTR6TEx0OGdVT2pEUHIzcDJ2V2dXNzZJVjVwcndwTVlPLW1oWkc3WnJ6TlpTMm1pY1dlU0pFdW9zWkVuNDlHR2EtdF9wT3cwbGx0QkdWZVZuX1F0eDVLaENGRk9FODBhY3AzbW9INUkzTzZ0c3I4OXU0cjA3YWdJb9IBrAFBVV95cUxQNzkydUp3MlZHaUdObE5oWGFQVDl2bWJlUDVUUkJXT1N6WjNpS1BjS09zS0V1dThlMjBfVnlldDF2NTNTaE9kYUFrNWFJMHByblZLSHZ6dFlxU3g5Vk13WHZyNWY1c0F1SDZGRnlxU2ZWT0NJdndlOFJqRTRKT00zc0c4M29BRjFwc0ZVaUhtNFBGc3YzRXRiNUJvckVOVnRVVUFTQ2p5ekNTVy1M?oc=5"
         }
       ]
@@ -201,7 +237,7 @@
       "id": "c5172ee6fb6f",
       "title": "Câncer transmissível é identificado pela primeira vez em peixes - UOL Notícias",
       "published": "2026-07-28T21:18:03+00:00",
-      "summary": "Câncer transmissível é identificado pela primeira vez em peixes&nbsp;&nbsp;UOL NotíciasCâncer transmissível: alguns animais podem contrair a doença de outros; entenda por que isso não ocorre com os humanos&nbsp;&nbsp;oglobo.globo.comCâncer transmissível: entenda caso raro entre peixes em lago famoso nos EUA&nbsp;&nbsp;CNN BrasilMistério de manchas em peixes revela raro câncer contagioso&nbsp;&nbsp;TerraCâncer passa de peixe para peixe, se espalha por lago entre Estados Unidos e Canadá e se torna",
+      "summary": "Câncer transmissível é identificado pela primeira vez em peixes&nbsp;&nbsp;UOL NotíciasCâncer transmissível: alguns animais podem contrair a doença de outros; entenda por que isso não ocorre com os humanos&nbsp;&nbsp;O GLOBOMistério de manchas em peixes revela raro câncer contagioso&nbsp;&nbsp;DW.comCientistas descobrem câncer transmissível em peixe de água doce&nbsp;&nbsp;TerraCâncer transmissível: entenda caso raro entre peixes em lago famoso nos EUA&nbsp;&nbsp;cnnbrasil.com.br",
       "sources": [
         {
           "name": "UOL Notícias",
@@ -222,37 +258,37 @@
       ]
     },
     {
-      "id": "2e31cba4b8d3",
-      "title": "Estudo mostra que baratas usam memória coletiva para sobreviver - Metrópoles",
-      "published": "2026-07-28T19:49:00+00:00",
-      "summary": "Estudo mostra que baratas usam memória coletiva para sobreviver&nbsp;&nbsp;Metrópoles",
+      "id": "b859513dced0",
+      "title": "Além de tempestades e alagamentos, El Niño deve trazer vírus perigoso ao Brasil - Diário do Comércio",
+      "published": "2026-07-28T19:57:00+00:00",
+      "summary": "Além de tempestades e alagamentos, El Niño deve trazer vírus perigoso ao Brasil&nbsp;&nbsp;Diário do Comércio",
       "sources": [
         {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE04OU1jZE5DRGJjNnNHeUREY2dRRGlLeTdCbjd3QkVremxFOE1ORF9BX3VtWHNabXpGNjRubEVSYnJscVlMdEIwUXZ4RWExeDh4NWs1bWExRVVnZXNDc1h4YURRTExVRUR1QWxoN3FmTk5DV2VCMGNJ?oc=5"
+          "name": "Diário do Comércio",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNREZVOXFGLWdhUF9PYlRUazFpREpmTE5zUUhyb0Jta2RUWGNPTnFDMW42QnB6TzRCeGkxMDNIeEFEa2xkbGtjdVh6RXp1S3JWVTFDT245akFSY2pyVFZuemJ1TWFMRXdZaGlhWUlsZ2RucTNOQjQ5bF9LSU5MeExrbnF0TGJuTWktUkpEZVRUS1FmdlpTOHZQVDJ0MnVMTXBPeWZMbHFWNG9PZXZNdXJ0LWtLQS01QQ?oc=5"
         }
       ]
     },
     {
-      "id": "7e2b42bfa699",
-      "title": "Epilepsia: novo medicamento que pode zerar crises epilépticas chega às farmácias brasileiras em agosto - oglobo.globo.com",
+      "id": "0f24c671c014",
+      "title": "Epilepsia: novo medicamento que pode zerar crises epilépticas chega às farmácias brasileiras em agosto - O GLOBO",
       "published": "2026-07-28T19:32:54+00:00",
-      "summary": "Epilepsia: novo medicamento que pode zerar crises epilépticas chega às farmácias brasileiras em agosto&nbsp;&nbsp;oglobo.globo.comVeja mais manchetes e perspectivas no Google Notícias",
+      "summary": "Epilepsia: novo medicamento que pode zerar crises epilépticas chega às farmácias brasileiras em agosto&nbsp;&nbsp;O GLOBOVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
-          "name": "oglobo.globo.com",
+          "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTlVYUDJSZFZzMTlDdW5haEJ0TWpDTjgyQjVyb1Q4TW9PLXJhVFpRYXdiNVpxR01BTFJONHVEUnhuTHJDSkxmcURNaVlvOEs3cXczSzAyOWV1emkzOVR0ZFZLc3JCLUVxX2xGQnZhY194aFY0bUZWTVhPbkFiVW1YT3hxS2ZIZmduclB2Nkw1TVVXWE43LUxjMGN0bG12WVlZejZIbHJMdkg5VGM3RHRCdm0tdnNWUGFTbXd2VHFmZUVmX2ppSDBrUVpldWhLc3g0cldZRWN1OVA4ZnYwRHpyd283eFY5RTlQSU9DUGpR0gH8AUFVX3lxTE9ZdjlxeHdoVXZHck52QmlSN1ZlQWVkLXlHZ1RaRC1zcXpQUHF4UjBKRF9jc3FUaFRWM0Z3ZEl4T0hCblN2Z0lFUkVKRFFWUUVPQWxfV1liaFU5RkRIVkR6TTYzRmZLVGg4SWtoNFNYS1NlSUJUc3BNZk1oWkdaNXVsY2NtY3cxUWZmMjQ1TzdBSllibGhvczZLVnFDUnlFRW83RWY2SGpKT2did21Wa0FoNjcxZTR3alJKcUpENE02TjI0NFNaWURBRVBGLUNfaDY4a0tJeWlnR2l0d0dfRlhXNzhkNW04MEtpYlRGWkMwY2N5N3N1c3lyS0VCaw?oc=5"
         }
       ]
     },
     {
-      "id": "97cca1c9da93",
-      "title": "Itália Registra Primeiro Transplante de Mácula Que Devolve a Visão a Mulher de 67 Anos - Forbes Brasil",
+      "id": "3d672039463a",
+      "title": "Itália Registra Primeiro Transplante de Mácula Que Devolve a Visão a Mulher de 67 Anos - forbes.com.br",
       "published": "2026-07-28T19:31:07+00:00",
-      "summary": "Itália Registra Primeiro Transplante de Mácula Que Devolve a Visão a Mulher de 67 Anos&nbsp;&nbsp;Forbes BrasilVeja mais manchetes e perspectivas no Google Notícias",
+      "summary": "Itália Registra Primeiro Transplante de Mácula Que Devolve a Visão a Mulher de 67 Anos&nbsp;&nbsp;forbes.com.brVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
-          "name": "Forbes Brasil",
+          "name": "forbes.com.br",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWU9XVmVMT05rTDE3eXJqZmYwdFo0TGF2ci1Ed2h6S2FrNUFTWlZfbzlWZG9rRm5yMERQUTJKbWY0eXpsaXpXeUxGaWcwOTc0Q3lvUE1YOFo2WnByUmdqdkhoNkFvRElFZmJZXzN2WGo5WHN4dWdvYTlxemh2OXFSaTh5ZVotQ1FFRnV5dGI4VmdrU19od1R5YnU1S2szSjZmcHZodkpyc28zTHI0dXgxcHFXb0NGekY2WEk4NUN6RDdGOUFicHQyZ293?oc=5"
         }
       ]
@@ -270,14 +306,14 @@
       ]
     },
     {
-      "id": "29f611bcaceb",
-      "title": "NASA encontra evidências inéditas em Marte e descoberta pode mudar a história da Terra - Diário do Comércio",
-      "published": "2026-07-28T15:05:23+00:00",
-      "summary": "NASA encontra evidências inéditas em Marte e descoberta pode mudar a história da Terra&nbsp;&nbsp;Diário do Comércio",
+      "id": "af97ba0798ef",
+      "title": "Onde a gordura corporal se acumula está diretamente ligado ao envelhecimento do cérebro, mostra estudo inédito - O GLOBO",
+      "published": "2026-07-28T16:32:24+00:00",
+      "summary": "Onde a gordura corporal se acumula está diretamente ligado ao envelhecimento do cérebro, mostra estudo inédito&nbsp;&nbsp;O GLOBOVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
-          "name": "Diário do Comércio",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWmZJN3FnX0k0cm9tOGt1REhQbE1YQ1kwVWpEak1wbFFiWWxaNmhhOVZQaVJyMzE3T2tRWEs5ZGlSYTNrVVIwelMwMzIxNEZORWdYUXMtUnpoWGJON3JDbWZqM2NMaThJU3B2MndKMlZJcGREVzN3OE5Qc20yaE8weWF1WG9FRjh6Z05zTnpwX3h5N2J4YWw3aHRKNXNRYUJja2UyMk1jQkl4MGlrWGFENzIwcDRvMzMwTXBSa2RsRFU?oc=5"
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUHBfMEtzc1Jod3lPQTAzejVfRDZjSHh5RVoxNFZhXzdhU0wyZDY4UnZod1NjQjdKQnliSkQ0ZWtmZE1TLWVxLUkzOUVLTWxqVnRkXzlrRWZYYzQySTNDNWU1RE11NFR6bm5XWVRtcTRWOUwtY3dJU25IZWN2dTdVaUxUZVlIMVYwa3B4Ym90MzluTVdzd0NkNjVuczR4eTRzU0FWR2hVX0tWY3dyR0wybWRoZW16a2loLVQ1aHRxcWF5OFhDYkZfemRPRWY4Z2xfU0hjUGUyZ3BBV3FLUnIxTlBpY3ByTVpzSms1T2MteTRjWlhBelZIONIBhwJBVV95cUxOT0NxOFRNbWg2enpFdkNfOFEzQ2dIX21oVWc2YnByZGVzQzlMODhad010QzVNRmlVTGpINUtSSFN3U2o2MVlEY3EzUjRjNDV1b2pXZkJ2d0dJcnNqVnB2Nm5XX1I2LWRnY3d5STZRUjhGMzlsVTIxT2xIQ0RYR2d2UGdyQjhBM2JOUTMxM2xPTGlTV1lVaWV1eUt5dWxJRVJkSzB1aFBjaW9JM1BqNmVXaG1RSHpBV3BwSGhtRUJTLVV3QUN5WUdQd2RrSVVsZHpDdlhfZEdVbURQVEFra0tfQ0h0LWQ2bDlvaTh6b0F1bHpzZWZkX1FRa19DUDdPVnMzNjFjNEppQQ?oc=5"
         }
       ]
     },
@@ -285,7 +321,7 @@
       "id": "87a4ac6a23e2",
       "title": "Do inchaço extremo à recuperação: veja o antes e depois do 'Ken de CG' após infecção ao espremer espinha - G1",
       "published": "2026-07-28T14:59:25+00:00",
-      "summary": "Do inchaço extremo à recuperação: veja o antes e depois do 'Ken de CG' após infecção ao espremer espinha&nbsp;&nbsp;G1Espremer espinha pode matar? Entenda caso de influenciador que viralizou&nbsp;&nbsp;saude.abril.com.brCaso de influenciador internado acende alerta: não esprema espinhas nestes locais do rosto&nbsp;&nbsp;Folha VitóriaEspremer espinha faz mal? Dermatologistas alertam sobre os riscos e indicam alternativa mais segura&nbsp;&nbsp;Seleções Reader's DigestApós caso de influenciador, en",
+      "summary": "Do inchaço extremo à recuperação: veja o antes e depois do 'Ken de CG' após infecção ao espremer espinha&nbsp;&nbsp;G1Espremer espinha pode matar? Entenda caso de influenciador que viralizou&nbsp;&nbsp;Veja SaúdeCaso de influenciador internado acende alerta: não esprema espinhas nestes locais do rosto&nbsp;&nbsp;Folha VitóriaEspremer espinha faz mal? Dermatologistas alertam sobre os riscos e indicam alternativa mais segura&nbsp;&nbsp;Seleções Reader's DigestApós caso de influenciador, entenda po",
       "sources": [
         {
           "name": "G1",
@@ -309,7 +345,7 @@
       "id": "1b8f96136769",
       "title": "Rio inicia campanha para atualização da caderneta de vacinação - O Dia",
       "published": "2026-07-28T14:26:07+00:00",
-      "summary": "Rio inicia campanha para atualização da caderneta de vacinação&nbsp;&nbsp;O DiaRio inicia campanha para atualizar caderneta de vacinação de crianças e adolescentes a partir de 3 de agosto&nbsp;&nbsp;oglobo.globo.comAntes da volta às aulas: momento ideal para atualizar vacinas das crianças&nbsp;&nbsp;em.com.brCampinas reforça nas escolas a importância da vacinação infantojuvenil&nbsp;&nbsp;band.com.brWhatsAppImage20260729at14.02.13.jpeg — Ministério da Justiça e Segurança Pública&nbsp;&nbsp;www.g",
+      "summary": "Rio inicia campanha para atualização da caderneta de vacinação&nbsp;&nbsp;O DiaRio inicia campanha para atualizar caderneta de vacinação de crianças e adolescentes a partir de 3 de agosto&nbsp;&nbsp;O GLOBOAntes da volta às aulas: momento ideal para atualizar vacinas das crianças&nbsp;&nbsp;Estado de MinasAdmissões.jpg — Ministério do Trabalho e Emprego&nbsp;&nbsp;gov.brCampanha de Multivacinação reforça proteção contra o sarampo&nbsp;&nbsp;Prefeitura de Nova Lima",
       "sources": [
         {
           "name": "O Dia",
@@ -318,46 +354,10 @@
       ]
     },
     {
-      "id": "56939f862dfa",
-      "title": "Como funciona o cérebro de quem fala dois idiomas? Este estudo analisou - revistagalileu.globo.com",
-      "published": "2026-07-28T14:05:54+00:00",
-      "summary": "Como funciona o cérebro de quem fala dois idiomas? Este estudo analisou&nbsp;&nbsp;revistagalileu.globo.com",
-      "sources": [
-        {
-          "name": "revistagalileu.globo.com",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcTd2aWdnR09LcFVhLU1YUUw4V05VQ0V3cTNzUkR6SFpZazY2dGllUVBOb2daLVV0cDFSbEYzbEdyelZhdGZLRmFoZmdVQTlaRzZST0ZqM1RVcWJQcFpXMDR6bGNMWkMtMXRQTnAxSWt2dnlVYXV6a0VSUHFYcG1Zdzc1NU1rdVpfOHpWa3ZKY2FTbHgtWlpUNEFwM0R6S0hDdndnZ2RiMktXakx2MnFwX1A5bU56OHNzbi1oTlFQQWxEMmowOFhFaXFXOWVtUdIB3AFBVV95cUxQdzJOYUJGYWMtQ25CcmU0SnJ0VEphVTNCOHJjUDIxbGlISE8yYkxCTVdVREdRTGxURm9WMUJhdnlmVi1VR3F2QjNOV09RSDc5eWkwbXJOMU9wRmJiQ3dKa184a1dmeldIVFNFamZqZUhKY2FLVWpLalFQeThpNVktT09lZE93NFd1UXVSUXl0dUc1Rno4eDZCQ0lSZHlNT2VLYTFvSzYtZTllZ3lMSWlIV2oxdDlzM1pwN0wyUkhvSmgxeGJ3TTBOVXh1TG5XTTlLd1NpOHhZRXRPVzZh?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "804cc0f4f37b",
-      "title": "Nova espécie de peixe das nuvens é descoberta na Caatinga e mobiliza moradores para evitar extinção - G1",
-      "published": "2026-07-28T13:54:34+00:00",
-      "summary": "Nova espécie de peixe das nuvens é descoberta na Caatinga e mobiliza moradores para evitar extinção&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPb3RBNXIxdzh3WkdJMmx5bVYybnBNcnAxc1BJOEVPYmJSMENTLS1NbjhaMlZaQUpWZDlzZDNRbmZCUmRuM1pfTXdKN3VZQnI5TUZHdFJjQnFqRXBXLU4xUWQ5M1VFZTNDN0VhWUY4a3BZdHl1TmxWRTkxQnk4azEyNW9zYVc1T2Z4QmI5X0toSzhuM1NiQ2hZemd6LU5BeVB5QmJIY0JnSFNUdXFMYnZ6V2xGM0gyM09Nc2ZYZk10cTdyUmdmeUZuWnNHb05BeXlPQ0g2cm14ZGlRYWwwLWF5WUdCeFAxZl9VTU92MjdtQnpPM0hPRHp2aUVUeFVMcHdEVkp4QWFuUzc3Y3PSAZoCQVVfeXFMT2FRY1JRWUtPa0ZWLV9yV2lCQWVvbnBVRHhRZnFtS1Nvc0JqRkZNMmNyWjhzZGpmOVhHMnJvS3dmZk9Yalp5N2NGOEFCYWwzdmpqWFZITmZiTnZWbFZKLVB2X2ctOXlmTm5kTGtiYzlkdUpjd1VDSmxPajZPMk5zcmZwNkt2TlBFQmJjazFPdDVabWtqc0diRlBCRDlkZjRfdkM5VzN1UmtobWVOTDVUdWd6c3J1NHdjMmNKeDhQeU5jOVktWTZMNHM1S1ZGOXotdTBJX1ZWY2dHbnJINWQ1Mm5FMjRZbHA3ZmZCN0RfOEh5OFVWN09jSFhVbVA5U3NMcHF5Yk15dWpkd0NnQVVMRGhyX1pVU0hnNE1n?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "105805ae04fb",
-      "title": "Brasil tem avanços na resposta ao HIV, mas enfrenta aumento nos casos da infecção, aponta Unaids - Folha de S.Paulo",
-      "published": "2026-07-28T13:40:00+00:00",
-      "summary": "Brasil tem avanços na resposta ao HIV, mas enfrenta aumento nos casos da infecção, aponta Unaids&nbsp;&nbsp;Folha de S.PauloNa abertura da AIDS 2026, Winnie Byanyima cobra acesso às novas tecnologias de prevenção do HIV e questiona exclusão da América Latina&nbsp;&nbsp;Mídia NINJAHIV: Queda no investimento preocupa entidades&nbsp;&nbsp;G1Unaids alerta para risco de ressurgimento da epidemia de HIV&nbsp;&nbsp;Poder360Epidemia de HIV pode ressurgir no mundo, alerta novo relatório da ONU&nbsp;&nbsp",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMjUyU1Z5Y0ptb0hhbW9pVkx1SGthSm9qTzZZZXpzN3d2Ny16a3p6STFhNmJhUGo2M3F0MDFfUzVPMElnZWdWcmNCY3hMdTJya2UzNU9qNzFfQWVWcmthNnVMSXdJajdMcWJxMGhHT1dSNmZhcjFpTjJBWkw2Z3g4SDhEM2ozYVdIbzNqdE5tc2o0WnhzNW8yajB2V29ENFVVQ1kzczh3OGNxa1I4b3hJSG8taVlRdWlUdkFURUtFZVN6eFdLbjNYSzlNSmJURk5OblRSc1NHQm5lNXRnT1Ria19VTDNEWDVHeFJF?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a721fdfee1a5",
       "title": "Os exames que realmente importam para quem quer envelhecer bem, segundo especialistas em longevidade - Globo",
       "published": "2026-07-28T13:37:38+00:00",
-      "summary": "Os exames que realmente importam para quem quer envelhecer bem, segundo especialistas em longevidade&nbsp;&nbsp;GloboDia dos Avós: especialistas orientam idosos a não abrir mão da saúde&nbsp;&nbsp;CNN BrasilOs exames que ajudam a envelhecer com saúde, segundo especialista&nbsp;&nbsp;diariodocentrodomundo.com.brDia dos Avós: cuidado especializado em geriatria contribui para envelhecimento com mais saúde, autonomia e qualidade de vida&nbsp;&nbsp;RO AconteceExames de rotina ajudam a preservar a aut",
+      "summary": "Os exames que realmente importam para quem quer envelhecer bem, segundo especialistas em longevidade&nbsp;&nbsp;GloboDia dos Avós: especialistas orientam idosos a não abrir mão da saúde&nbsp;&nbsp;cnnbrasil.com.brOs exames que ajudam a envelhecer com saúde, segundo especialista&nbsp;&nbsp;Diário do Centro do MundoDia dos Avós: cuidado especializado em geriatria contribui para envelhecimento com mais saúde, autonomia e qualidade de vida&nbsp;&nbsp;RO AconteceExames de rotina ajudam a preservar a ",
       "sources": [
         {
           "name": "Globo",
@@ -369,7 +369,7 @@
       "id": "bf7bc095ad63",
       "title": "O que os aditivos dos ultraprocessados fazem com a microbiota intestinal - Medscape",
       "published": "2026-07-28T12:35:16+00:00",
-      "summary": "O que os aditivos dos ultraprocessados fazem com a microbiota intestinal&nbsp;&nbsp;MedscapeQuatro em cada cinco alimentos infantis são ultraprocessados&nbsp;&nbsp;CNN BrasilConsumo de ultraprocessados pode aumentar o risco de perda de força muscular&nbsp;&nbsp;Jornal da FrancaConsumo frequente de ultraprocessados está associado a mais dor dentária em adolescentes brasileiros&nbsp;&nbsp;Batatais 24hA maior revisão já feita ligou os ultraprocessados a mais de 30 problemas de saúde pelo corpo inte",
+      "summary": "O que os aditivos dos ultraprocessados fazem com a microbiota intestinal&nbsp;&nbsp;MedscapeAumento do consumo de alimentos ultraprocessados entre jovens preocupa especialistas pela saúde bucal&nbsp;&nbsp;Jornal da USPConsumo de ultraprocessados pode aumentar o risco de perda de força muscular&nbsp;&nbsp;Jornal da FrancaEstudo associa consumo de ultraprocessados à dor de dente&nbsp;&nbsp;G1A maior revisão já feita ligou os ultraprocessados a mais de 30 problemas de saúde pelo corpo inteiro&nbsp;",
       "sources": [
         {
           "name": "Medscape",
@@ -390,38 +390,14 @@
       ]
     },
     {
-      "id": "dbe6776a7985",
-      "title": "Demência aumenta em 2,6 vezes risco de morte por qualquer causa entre idosos brasileiros, diz estudo - Estadão",
-      "published": "2026-07-28T08:33:41+00:00",
-      "summary": "Demência aumenta em 2,6 vezes risco de morte por qualquer causa entre idosos brasileiros, diz estudo&nbsp;&nbsp;Estadão",
-      "sources": [
-        {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQb3IzQWQwaWNMWHFYSmljMjhpWHZVRnZCNEZGVXRpSGNVOFNKN0RRWk1LN21sN3IwOVVkWDIwZXJMLUFQVzdFcXVVanZqZnhfd0Fwd253UmpKTnZxeUZITFlsYVhkaF9GNWMyRW54UzdScWpEMEctMGQ3b3ZKalVxbHV2V2tLSDNuR1ZITzdZOVk2VXZBXzNhd1dSN2J1WUpPWENDaUFUZ0pSOVgzUllrUUthdWhuZ092QW8zZ2RQU2xGRnFIQWV2YXk1b2JLV3RobjJlWFU1UFVmcG52aFJEZmF3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "846018207983",
-      "title": "Segundo a ciência, a velocidade com que uma pessoa caminha revela muito sobre o funcionamento interno do corpo e da mente - oglobo.globo.com",
+      "id": "d99a0296da1e",
+      "title": "Segundo a ciência, a velocidade com que uma pessoa caminha revela muito sobre o funcionamento interno do corpo e da mente - O GLOBO",
       "published": "2026-07-28T07:30:34+00:00",
-      "summary": "Segundo a ciência, a velocidade com que uma pessoa caminha revela muito sobre o funcionamento interno do corpo e da mente&nbsp;&nbsp;oglobo.globo.comMikel Izquierdo, expert em Ciências da Saúde: 'As pessoas acham que caminhar significa fazer 30 minutos de exercício, mas não é assim'&nbsp;&nbsp;TerraDez mil passos por dia são mesmo necessários? Estudo aponta benefícios importantes a partir de uma meta mais alcançável&nbsp;&nbsp;Tua SaúdeFotos: Mikel Izquierdo, expert em Ciências da Saúde: 'As pes",
+      "summary": "Segundo a ciência, a velocidade com que uma pessoa caminha revela muito sobre o funcionamento interno do corpo e da mente&nbsp;&nbsp;O GLOBOMikel Izquierdo, expert em Ciências da Saúde: 'As pessoas acham que caminhar significa fazer 30 minutos de exercício, mas não é assim'&nbsp;&nbsp;TerraDez mil passos por dia são mesmo necessários? Estudo aponta benefícios importantes a partir de uma meta mais alcançável&nbsp;&nbsp;Tua SaúdeFotos: Mikel Izquierdo, expert em Ciências da Saúde: 'As pessoas acha",
       "sources": [
         {
-          "name": "oglobo.globo.com",
+          "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOTVhOaE5OSjc0WEdLWURkQjJHaklCOTU0amo5T2pSQXZZY1Y0XzFOOXlWRFBpNUhXczVWVVhaRlFrWjgyUG9kSXU2OThfcTd6SEVBcUpjT2VkSzlpcXpIdW03ZmwtZnQtNlg4dFJuRUw4eFNpWW5Gbi1FVC1RdWJwZkhyZ3E1TzNjQnozQkpJeFdyN1g4dHZMOUsyWTNoSGEybFdTT18tVTNaMHVRaHB6T3UwY1p3TWl5UVBVMVVPZXJ2YnF6T3NIOVFBYzB3TjA3c1JfSU9fMXdpeC1fTWZSdHBuUWJtRlBCMEpucTJtMlBqN2VlbGlKbWhXVkQtYktwV3F4a2wtWdIBlgJBVV95cUxQTE04VjI2MjlsNHQ0ZWVUS3VXbU1raTBGeEYwTEJTQy1fWGZ3Qlk5VFZTTWUzVVdvTUs4WlIzR2ZxckcyWmtmOWd6dTNYdW5iQlhpUW05aG5MNjhiN1A5QXRXZTU1a3hDUzNpYXpHSW1reXpjMUZsRHlldmtyRzVTMm1qZ2wxZG5WSXRIZlZSM0x2a1NjWUNtSWtJa2NxS0VNdDg5RlZncUp0TVA0SElqQWFxR1pLTVJ4OTh1akMtSGljZW5jeTVzVXpIVGs4SXFiay00UWwzWXRfdEUtYU9aSkoxakI4TUNfQWtybUNJc2UySFZJRVBKNUlmOE9CN0M5SEY1RW95UURkeWU0XzhzMHFYV1JJUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "53b73059577e",
-      "title": "Estudo documenta declínio acentuado no número de línguas no mundo - CNN Brasil",
-      "published": "2026-07-28T06:34:54+00:00",
-      "summary": "Estudo documenta declínio acentuado no número de línguas no mundo&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVm9aVm9UQmhWVW9hbzdGS0NqZzcyRHJ1cE8yRlY5NjJfT3VaZVhWTnJuR0dId0FUX091cUtoVDMtcWlkNkdrRHZKOXlXYW9ZNUhlWFZCTjNxeFJNMHJRQ0IzeUJac0p4Z2NyQ3NYUklZaDFuY0FrTE9BTy1vREFoMWRWX3RrUWxYQkVDNlNyUVBoeUliRDBadmcxRW5fMV80MV9CTFlR?oc=5"
         }
       ]
     },
@@ -450,14 +426,14 @@
       ]
     },
     {
-      "id": "b25d8a7bdec3",
-      "title": "Anvisa aprova novo medicamento para tratar doenças autoinflamatórias - www.gov.br",
-      "published": "2026-07-27T19:06:00+00:00",
-      "summary": "Anvisa aprova novo medicamento para tratar doenças autoinflamatórias&nbsp;&nbsp;www.gov.brAnvisa aprova novo medicamento para artrite reumatoide e outras doenças inflamatórias&nbsp;&nbsp;VEJAAnvisa aprova anacinra para o tratamento de doenças autoinflamatórias&nbsp;&nbsp;portal.afya.com.brAnvisa aprova novo remédio para tratar artrite reumatoide e febres&nbsp;&nbsp;Tribuna do ParanáAnvisa libera novo tratamento para doenças que provocam inflamação persistente&nbsp;&nbsp;revistaurbanova.com.br",
+      "id": "7d5a2f28c8c5",
+      "title": "Remissão de HIV em dois novos pacientes é anunciada no Rio de Janeiro - cnnbrasil.com.br",
+      "published": "2026-07-28T03:23:01+00:00",
+      "summary": "Remissão de HIV em dois novos pacientes é anunciada no Rio de Janeiro&nbsp;&nbsp;cnnbrasil.com.brDois novos casos de ‘cura’ do HIV-Aids são apresentados em conferência internacional no Rio&nbsp;&nbsp;EstadãoSaiba como cientistas \"curaram\" pacientes infectados com HIV&nbsp;&nbsp;Poder360Novos casos de possível cura do HIV&nbsp;&nbsp;G1Cura do HIV? O que os dois novos casos anunciados em congresso significam&nbsp;&nbsp;Veja Saúde",
       "sources": [
         {
-          "name": "www.gov.br",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaGxBcEhkUjljNkJUamRlWlAwaFNfX1NCSUIyVzZLb0Z2ZTlCcDlnZGUteWpJTHZwRmd6dUxNWHRZVXhOdE91TTJyb183LVZHWkhyelVQZjlNU0pWLWhuWVBXSksxckxfU1hLMFlteDJkNU0wNTFoTGwtZHNzVlVHbnpXMm03S1JHM0NCM2Znc3lUR3dYZ0NDdmlSdW5sbmJfYVljaWI5eld5bmZGTnBEbjRLWkN1STl4QTlVZE1pYmQwcFdjTHhuUm1n?oc=5"
+          "name": "cnnbrasil.com.br",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTTI0X2NFVEF2cVotRTVjdU1wdmFyRlFqbjROYjh6eXNkeDRia3hxRnlaejBiMVFJbElwaFdveXdMR1RXd09DR2o1b1REaXk0Z1hnbWYxQXBaQXdlTHNlOXI2TmVZX0c5ZnA2OV96YkU5UnBpTHFCOXoyS3ptUzZGQWtrNTRjNDlxTktvbmRNR29tLWJuQWlmNk1XVVJOdWdHdnFhNi1nZlo?oc=5"
         }
       ]
     }
