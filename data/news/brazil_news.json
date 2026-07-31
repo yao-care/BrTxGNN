@@ -1,19 +1,139 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-07-31T08:51:41.550268+00:00",
-  "total_fetched": 74,
-  "unique_count": 73,
-  "health_related_count": 30,
+  "fetched_at": "2026-07-31T14:10:27.699855+00:00",
+  "total_fetched": 84,
+  "unique_count": 83,
+  "health_related_count": 36,
   "news": [
     {
-      "id": "d03b22ba7f72",
-      "title": "A volta do fantasma da AIDS no mundo e o aumento de casos no Brasil - O Assunto #1773 - G1",
-      "published": "2026-07-31T03:30:10+00:00",
-      "summary": "A volta do fantasma da AIDS no mundo e o aumento de casos no Brasil - O Assunto #1773&nbsp;&nbsp;G1Saiba onde a epidemia de HIV tem crescimento mais rápido no mundo e o por que&nbsp;&nbsp;Folha de S.PauloMSF cobra acesso ao lenacapavir durante a Conferência Internacional de AIDS 2026&nbsp;&nbsp;Médicos Sem FronteirasNúmero de novos casos de HIV cai em todo o mundo desde 2010, mas cresce no Brasil&nbsp;&nbsp;Estadão\"Onde está o dinheiro?\" Marcha denuncia cortes na resposta ao HIV durante conferên",
+      "id": "c326dc03644f",
+      "title": "Influencer está internado após espremer espinha no “triângulo da morte” - Brasil 247",
+      "published": "2026-07-31T11:33:00+00:00",
+      "summary": "Influencer está internado após espremer espinha no “triângulo da morte”&nbsp;&nbsp;Brasil 247Influencer internado espremeu espinha no 'triângulo da morte'; veja riscos&nbsp;&nbsp;UOLInfluenciador faz alerta após ser internado por espremer espinha no rosto #BalançoGeral #Shorts&nbsp;&nbsp;R7Especialista explica riscos de espremer espinhas na ‘zona da morte’ após caso de influenci&nbsp;&nbsp;G1Espremer espinha pode matar? Entenda caso de influenciador que viralizou&nbsp;&nbsp;Veja Saúde",
+      "sources": [
+        {
+          "name": "Brasil 247",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLVl5SjNIY1NzcVluMDlhZHBfVEI4OExJenRyNGJFX0VyWEpBbEdDVk9zRjZuX2ZvLWNpYU4taGRRcmdHNk41LWJxa1BFRU1kSkw5bjQ2b3ZaQWpZWTdCUXZoNDRxdkVfZlpSRHhHYjhLMnZ5RmdJLVRJWjJPTktlU2xNd3VTaTdjeEhJOGhXNXc1SVBOOEpQaXlMcURNeEZUOGE5Tg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b16bd5cc79e8",
+      "title": "Governo de SP amplia campanha de multivacinação contra poliomielite e inclui sarampo, após 15° caso confirmado no estado - G1",
+      "published": "2026-07-31T11:07:04+00:00",
+      "summary": "Governo de SP amplia campanha de multivacinação contra poliomielite e inclui sarampo, após 15° caso confirmado no estado&nbsp;&nbsp;G15 mitos sobre a vacina do sarampo que você precisa parar de acreditar&nbsp;&nbsp;Correio BrazilienseCampanha de Multivacinação começa nos 645 municípios de SP e amplia vacinação contra o sarampo; veja os imunizantes disponíveis&nbsp;&nbsp;agenciasp.sp.gov.brO avanço do sarampo&nbsp;&nbsp;EstadãoEstado de SP confirma o 15º caso de sarampo em 2026 - 30/07/2026 - Equ",
       "sources": [
         {
           "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUERtYUcyY2NydzJMWWxuSEtaNXlBbFJnUWxQOXZYdUlzTGJ3b3RVMEVhN0VPZ2dRM3ZGMG9FNG9CUUhjb2E4cVdWQXcxLWc1aEFnU0NEb3E0YThKRkpIOHdmalQtZGRUZVpHRGdYdG9rVW1mcnZQNXBzQlktbjNqbHJLejMzYVB4QW5oUElOSjlGckhyNG1VaWZlU1FVT2ZwSV9Tb1dkUE1WSjJpMU56bGFfVzhhZlFjUm5qTVM1YV9xZEQ1VXdiTFE4czlmaUZvdFVsenhlbUhtRnVlbE440gHuAUFVX3lxTE14cUZtUDk5Q3oyT3dCWWdRWmtNSFlTbS1xLTJlYlJONGota3p2c3ZVRUhyX0pLdFJwTExtdWxYOVlYc3YzT3FUdXFyN2JwZTd1elVHMVpSX2lMOUpob1hKcEtqRktod2x1dlpvREJJZXdQYjcwQlVSa0tuZXNhUmdxdXpqTWlxZGd1S2t6UmdMeXB1Wmw2UVI1aGJyYXgxZ2JKZ2FRTmFkLVE0QmluVlBxb21DazRMOTVFTWh3QVJIaVZjTHprUHd3dWdIMXUydU5pdmtiWTktVUlNUnNHMDZocng4X0xGUi1LQXkzdHc?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOQkRKeW9jYlBsd1A1WXVKQWV4WDZ4WUU2ZXNxUms4amZtcDc2aTJfUW44U1UwOF9vT3h4bVR5VTZESUxDcDR6ZGNIQWkxZnV2eF81QTkzUGlDaVc3YjNUV09EWkJBVHVHTzNIM19hSlZUNVlkRF8waEpLSmZna2s3dVlxVjBHMmpRb3NOWFVva3U5cHVnMGhBbUhQRV9EUURmZWd5OE44RjdpNnJseV9ZMmhxZTdueG9BcXR1SzdNVEI0NndUbHhUbjN1bDFGY2FUTlVmQmtWU3lsS01oY01TcXA2N0p4a19FRHRld2NRZHZTLW92d3dpaGcwVlI2MFM1WlpwZ0VKM0PSAZcCQVVfeXFMUG85SXNpWFNrT2RNZWtPNTc3MUV1dGVVXzFldzhxTGJTR2U0b19uM2pyM0Q3TjRRNVBGNEo2VldsTlViNml0ZnFtcHNWVWVyQXBHS2pFdXlXZWFseks2Vlc4Vl8wVEtOWThUUkFEbG9RSHVmZlRveW9wSDdiOWlBTlVadlB6UEF2WC1iUTFlMFg4UzFkWDNaNTRIbGhwZTk2VnR5bXpXelRvcGdrMUIteTJjX1dzcERmYVNlaExUN05BeHlNbGhKWFdjMzNHUHU4c3VKczBGbGJvX1liUWNWXzJkRklrbS1GYXNIU0N0T2ZCbldlLWVfZ2JlTFM1enVtbUNYdkpNMXdqVzN3U2xudVNRdkl4d0I4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "adc26150dba4",
+      "title": "Cirurgia robótica devolve vida após 4 anos com mioma gigante - Campo Grande News",
+      "published": "2026-07-31T10:38:00+00:00",
+      "summary": "Cirurgia robótica devolve vida após 4 anos com mioma gigante&nbsp;&nbsp;Campo Grande News",
+      "sources": [
+        {
+          "name": "Campo Grande News",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSGQtb3hua0xMcmtOcm9Kcl9ER2FLb3pjeTRoM0c4bFlsLTItVnY1SVVMNHFFQUppQTFocjQzMG85VHZQM3Rwa3pENFMwUjVFcDBIVXN4X1dYOG41R3oxY3hmS25kX29aT1VqdG5qbUdvZDNJM00wSElXb243a29sQlZPOS1GX2NnMXJ6MHFxQzhRTDY1N1RSMldxUXE2dDJGUmM1T3FoM2pNcEpvZTg3ZWFSV2lLN2RiWmUwMk1XaUlFb1AweDQ3eNIByAFBVV95cUxOM0Z5OVZaYVdYM21yS1FtWHJ6VlNxaXZXZHdxRHY4TmduOGd3MWlkMC1NLXJFWFhPR2hqVGU1Rk5CNDlpRDBGT0gtamlZNTdQUk1tMERWQnlnSEhjb3hjOGZmOUNMWEJhd0lxWkxFbDBCNjRXR0t5bVM4clRmckJyVzVnWmtoX2J3alBXX0gwckRrZFlGbmRnMDRQejJuSFNvd2txVkx1NzBMdUFnd0ZEYVNIelRkTDlBNmlOdmhnbkM5VTBVbkVhbQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b683c7406c8f",
+      "title": "Pesquisa internacional descobre detalhes da alimentação de moradores de SC em um passado distante - NSC Total",
+      "published": "2026-07-31T10:00:00+00:00",
+      "summary": "Pesquisa internacional descobre detalhes da alimentação de moradores de SC em um passado distante&nbsp;&nbsp;NSC Total",
+      "sources": [
+        {
+          "name": "NSC Total",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOal9TWndSTHRpbm1EWXhiTEttRDd1YTczeFRVOURGV21HaFNXeDVmdkJ6T0lCXzFrU0lLbHM3eC1oQUwyRmp2VkFTT25qb2hWTjNtU2VPcE92eGpuSWRXSE8zb21pNVNRTHViNS1vcndsM25YaWlSakpYWGxnY2l3TUhFRjFwdERtblJHVlpsZHRHa1gxWTg5LXhFdzg1REhra0ZQNXp4X00xZ3VvS2ROenFjLWtCdE1Td3B5Y0FqV2d5WEI5b3NnTW42dDVTbXFZcnhjOEFRalFxRVZRX1Rv?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f18a398b8ee5",
+      "title": "Sexo como 'cardio'? Entenda o impacto da atividade sexual na saúde física - O TEMPO",
+      "published": "2026-07-31T09:00:00+00:00",
+      "summary": "Sexo como 'cardio'? Entenda o impacto da atividade sexual na saúde física&nbsp;&nbsp;O TEMPO",
+      "sources": [
+        {
+          "name": "O TEMPO",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWlk2a1Mwc3NRWmVDUXY5R2tZcTVCYmljbnV4ZFpVVTVYdXFHbUpaeHNvVlA1SHlsQVBSeWZ0M1dGS1EtcWU2NlVWZHlZRF9wOXlqdGJmS2k0cUhYMzg1WkxiWGhaNjVkWmtLWkJaTGFmaXpWR0dIRVZ3aTJQckR4U1pGTTVuSm1sazNwS3ZyMXZDT0s2TjhPVk9yQWxPXzlySGJWQmlXVE9FdVF3bFRaWVJiU0cybzDSAbwBQVVfeXFMTThxTXpxLTkzY2wtbjFSejdkQW9QR0hJcFdMNnBSVWhNYWN0b3dJU1lfQWRQTkVMZFlzV1NFSXBNR0dOejdxVjNjajFLUC1uUXMyd0o5QjV6QkxYQ1lDUk5Ua19Jd3RlNXFVUnNrN1pabEJFcG1tOXdJemctblhfV3JCaVp4anFZVTRPZDRFd2VHNnRLbEdBR1F0MEdNaWxGZVpiMkRPWGUxcUJMRW8xaTQzVWNCa2dYV0RNOHY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a645b9057a52",
+      "title": "Mulher descobre doença autoimune que atrofia os pulmões após 11 anos de sintomas: 'Me canso até para tomar banho' - G1",
+      "published": "2026-07-31T08:03:25+00:00",
+      "summary": "Mulher descobre doença autoimune que atrofia os pulmões após 11 anos de sintomas: 'Me canso até para tomar banho'&nbsp;&nbsp;G1Esclerodermia e fibrose pulmonar: ex-enfermeira descobre doença autoimune após 11 anos de sintomas&nbsp;&nbsp;RedeTV!A enfermeira que levou 11 anos para descobrir fibrose pulmonar causada por doença autoimune&nbsp;&nbsp;Diário do Centro do MundoMulher descobre doença autoimune que atrofia os pulmões após 11 anos de sintomas&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeVZ4Z3RGMk5BZ19oWG5JZC1UOVhZdjVqMnNmdVZGQmZtUGJwcVJqWkctOElOX1FKdjJtR053OVFYVnVGeVVKUUNVa3kxV0NTcmltcWJCRUpiR2V2X0dDZjlWaDlnMTdOMW1LSU41dDNsWVpGa25vZkhNbFJTMkhwdUM0ZldVaGhtTmgtUEFxYmw1b1pUYlB6OXpycHV3RFBzZlJVdERxVXlOR3hjUDM4eHVMMDFUYnRXTlJjUTZIWmw5TXIzTnA0TndIaFljU29sNlV0Nk5tZDkwZDJjWXNVMWpFOGl3bXMyd1pMM2VCd2hBMmFm0gGDAkFVX3lxTE1ldUxZejdLbGVxelNmWk5vZjR3Wk9KTF9QWEJsV01SeHJpNE9kaTBWc2VYMV9QampGeGt5LXZVbjhoQXpGYlU5RUUyd2NlalVudTJ1RWhla0MycjdyMU1EVDI0VThVdEsyNHJ0ZmMwZDZMaUFTZG9fdEtWVGRyYnkzczBZUHZvTUNwdXQ4MGc5RjR4TTdnN2FzSFNfcFotT3dRUWtBNHU2bnkyWmlNZmNoUUJpYUREUFRRY015OTQwQVgybHh4al95SkhpNjdieGlERm1fNEdJWk5CbFRoNC1DbURmczk1a2JxRGxUeGMydE5WMDVHSWZfeVY3cnRyX3BUN1U?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b109a0dd73ec",
+      "title": "Médicos explicam os 10 exames que podem revelar doenças silenciosas - Tribuna Online",
+      "published": "2026-07-31T08:00:00+00:00",
+      "summary": "Médicos explicam os 10 exames que podem revelar doenças silenciosas&nbsp;&nbsp;Tribuna OnlineO brasileiro ainda espera adoecer para agir&nbsp;&nbsp;onortao.com.brPor que o consumidor passou a investir mais em prevenção do que em tratamento&nbsp;&nbsp;foodconnection.com.brExames laboratoriais ajudam a identificar doenças silenciosas antes dos primeiros sintomas!&nbsp;&nbsp;Farol da BahiaCheck-up médico é o melhor recurso de quem busca saúde&nbsp;&nbsp;VEJA RIO",
+      "sources": [
+        {
+          "name": "Tribuna Online",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ25EVDNvV05TVEktSWhuUnMxbnlFRmNuR3oydFlnSndYVWpnUUtSSk5tUDhpNHVBeExuN2lpTDFzTUhNa1ZyQ2xsWVItb0NaaEltTDlYUEJZODRxbzRma0hLU19qdFVRZUZlbXpOSWIzLUNXRGs3SzZWSVE5Z2NwZkU1YjN6U21mRXNnUmloM0kyQ1ZWVlduVnlYNk1ITDVuM3JmRXdDU0RaQTVVOHfSAbYBQVVfeXFMTXN4ZTdQMmdIZU5oYVJiUUNCSEl3YVlKRHdycmJJVl9FdHVkWnlqSFFsVl93UWVpdk1hd2hmM0MxenZEWlZXTjFtb3A4emJXZXZzLW55ektkRzVPWnlHbUhoOUlMQ2tFWUJMcXBFN2dxV2FPVEFLTnA2eE11WDJRYlNrVmNyQTFJcXVzTFNiMS1PYXI2QUY1Z2h3QUhqSzhHMG5RcHNIYi01bkRwNElpQkc1cHZ5Rmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6e6234955406",
+      "title": "'Bumbum triste': entenda por que a menopausa pode mudar o contorno dos glúteos - O GLOBO",
+      "published": "2026-07-31T07:01:40+00:00",
+      "summary": "'Bumbum triste': entenda por que a menopausa pode mudar o contorno dos glúteos&nbsp;&nbsp;O GLOBOO que a menopausa causa nos cabelos? Especialistas esclarecem&nbsp;&nbsp;GshowPele ressecada depois dos 50: veja os cuidados simples que ajudam a recuperar o viço sem exagerar nos produtos&nbsp;&nbsp;gazetasp.com.br“Bumbum triste”: Como a menopausa pode alterar contorno dos glúteos&nbsp;&nbsp;Diário do Centro do MundoAvon imprime a menopausa em laboratório e se reforça como FemTech&nbsp;&nbsp;iG Gent",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUXRsUEZ1cGlTVC1zOFZ1TE54QWJhcHktWVRnM19PV1Q5WS1heHBnYUMzWFBRcW5jcDBsTHdXSHh0cVRpZ3lvMndEcVNIY2hDa1FjVXAtRjQ2d19vaEJkUUdlR1Rybno3dUxKSnFuSG9aQk81T0FKYkwzdy1wYkUzSGlMOVpkY0FhVlJwajFOaTM1U0EtZWY4RmY2NGlUQ1Naem1BaDc4bkMxcEtjeC1BQTAxeEUtNFdxU2xoMm91NVBCVUQ5RnJtM9IB1wFBVV95cUxPVDdEM2Fua09oMnRmS2dmUTNXQlVBY1hwQkFLQkdOOE9zNTM3X3lxU2dFXzlvX0VoZF95UGVBTm92YktMS3JuVWFPc3B3X3AzSmhONURsSG5pRDJoVk9nOVR1UkZWamF0SFVEcHJ5eHp1YnBTcXVqel9vUVg2SHdOb0w1TjU0OE52SFgxeVozcFp1MjMzTHRzS0tJRG5QSHJhY3hRaVVya3pBVWJua1JPcUFfMm9KU0xsTWZvbHplMnhzc2FDUm9YUFBOOVE2dm1FZXVWZFMxZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a1e65ab453ef",
+      "title": "Fiji registra explosão de casos de HIV impulsionada por metanfetamina - Folha de S.Paulo",
+      "published": "2026-07-31T07:00:00+00:00",
+      "summary": "Fiji registra explosão de casos de HIV impulsionada por metanfetamina&nbsp;&nbsp;Folha de S.PauloA volta do fantasma da AIDS no mundo e o aumento de casos no Brasil - O Assunto #1773&nbsp;&nbsp;G1MSF cobra acesso ao lenacapavir durante a Conferência Internacional de AIDS 2026&nbsp;&nbsp;Médicos Sem FronteirasNúmero de novos casos de HIV cai em todo o mundo desde 2010, mas cresce no Brasil&nbsp;&nbsp;Estadão\"Onde está o dinheiro?\" Marcha denuncia cortes na resposta ao HIV durante conferência&nbsp",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNczFYNDNVMGZkVmQtaE04ckl6U2FTcWM5b00yLWZxWkl0cWY3NWtieVhYZ3NoR21kRDc1OE93NTdDNkVQamNWSzVlSjBxYldubXVpTGEwSVNKcG5kQUhDRDMyM3V1WXRwdUVOaVhLWHJOaXNHaFRrNWdDTFhycEJfWndoNzVJVTRRdENKSGJhRml6VWxoZjZBWGUzcG5zMDhGS2lnNFJpVkpudExSTWhnektmNUk4UDdHNUFVQUdTN0MxSUR1eko2MDRNY0xjSzZ3OWlNaQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a205b0af028a",
+      "title": "Combinação de gordura abdominal e falta de vitamina D mais que dobra risco de morte após 50 anos - Folha de S.Paulo",
+      "published": "2026-07-31T07:00:00+00:00",
+      "summary": "Combinação de gordura abdominal e falta de vitamina D mais que dobra risco de morte após 50 anos&nbsp;&nbsp;Folha de S.PauloGordura abdominal e baixa vitamina D dobram risco de morte após os 50&nbsp;&nbsp;MetrópolesTer gordura na barriga e nível baixo de vitamina D multiplica riscos de saúde&nbsp;&nbsp;DIARINHOEstudo revela combinação ligada a risco de morte 123% maior após os 50&nbsp;&nbsp;diariodopara.com.brGordura abdominal e baixa vitamina D elevam o risco de mortalidade após os 50&nbsp;&nbs",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPakprVnlJbURWbVpLU1lLNWlRNWszeXZ3ekFpRm51R2h0RUNBM0oyZ0Qxc2ZZSldlSDRXWEdoSE1WU0NtNTRZeWQzYVhXTGtYeUZnTUM2ME5xLXdDcEZva0VFTU5RbTdWVGxLSWlDeG96ZlYwenFSTTFFSEZsNkxxOGFhYWc3QVpyQVIxZFJDTWlxZkp6X0JrXzA5RVpmQkFFTWJ0RVpVT1JpcVNoYnZVNElJNzZmMUJKd2F2c0RGQ21vLS1iczdSbmVLZmVMcVJPRzU0VlMyWUUwN2dHcDNuWVNqVGp1UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "617f53a2abe8",
+      "title": "Pesquisa aponta que 8 de cada 10 brasileiros têm medo de sair à noite - Folha de S.Paulo",
+      "published": "2026-07-31T07:00:00+00:00",
+      "summary": "Pesquisa aponta que 8 de cada 10 brasileiros têm medo de sair à noite&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeGNJdlNoa05iWUt4MzREcUYyRGFSNlFpcHdCelNqVmsxVE12ZGhhUld5X2FxSnMtZ0VqNF9maWRCTkh5VmZvSGNVTW9BWlpNUXhsZUxBS0ZRTVlnR0RxNGlKOFJaa2dkc3hoMm5ZRjRGM0FqeTZKR1ZaYmVrOXlsT3V2ZXc0T1VtVFJWaEhlY0tXM2Qxc3YwdDduRkdGcGJGRFlqalJMV2tWM081TkZfbnZKTXZCZU1BQUJoOTc5WVM?oc=5"
         }
       ]
     },
@@ -30,18 +150,6 @@
       ]
     },
     {
-      "id": "0eebf953b348",
-      "title": "Estudo revela que mulheres acima de 50 anos devem se alimentar das 10h às 18h para não perder a memória - Diário do Comércio",
-      "published": "2026-07-31T00:16:00+00:00",
-      "summary": "Estudo revela que mulheres acima de 50 anos devem se alimentar das 10h às 18h para não perder a memória&nbsp;&nbsp;Diário do ComércioLimitar horários de alimentação pode ajudar a evitar declínio cognitivo na velhice, diz estudo&nbsp;&nbsp;SuperinteressanteIntervalo de 8 horas para comer pode evitar declínio cognitivo&nbsp;&nbsp;terra.com.brRestringir o horário das refeições pode reduzir o declínio cognitivo na velhice, sugere novo estudo; entenda&nbsp;&nbsp;O GLOBOEstudo aponta que comer mais ce",
-      "sources": [
-        {
-          "name": "Diário do Comércio",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLU1aNENqVHdhRlY2c09EQlJRRk81QlViYW1keFVfY2dBdi1NMm5Sd2E1eVZqV0hSdklBcktaUHJrVF9vdU9WQ3RqSmZqRkVUWWhncFV2Q2ktX0ROeklBZ0EtN0JmWlByUkRNUWloamhhaVFnaGR1WENuVjI1YTU2d3pibGlvdldsWVVFSGVPZy1EMlEyTFdScGRHeXZoMXpZd0YwSnkyZE9CY0d4RVEwYUJ6VUJwRWdiQ2ZOakNBNy1nX2tFR3hKUkN5MVJHWDNNUDlrTEFHZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7b219c2dcce8",
       "title": "Paraná mapeia 2 mil áreas de risco e prepara simulação para o El Niño - Tribuna do Paraná",
       "published": "2026-07-30T23:53:00+00:00",
@@ -54,14 +162,14 @@
       ]
     },
     {
-      "id": "5a1806ac1fe1",
-      "title": "Influencer internado espremeu espinha no 'triângulo da morte'; veja riscos - uol.com.br",
-      "published": "2026-07-30T23:42:47+00:00",
-      "summary": "Influencer internado espremeu espinha no 'triângulo da morte'; veja riscos&nbsp;&nbsp;uol.com.brInfluenciador faz alerta após ser internado por espremer espinha no rosto #BalançoGeral #Shorts&nbsp;&nbsp;R7Especialista explica riscos de espremer espinhas na ‘zona da morte’ após caso de influenci&nbsp;&nbsp;G1Espremer espinha pode matar? Entenda caso de influenciador que viralizou&nbsp;&nbsp;Veja SaúdeEspremer espinha pode matar? Entenda o que é a 'zona da morte' do rosto&nbsp;&nbsp;terra.com.br",
+      "id": "74609dadbaeb",
+      "title": "Câncer de intestino deve atingir mais de 53 mil pessoas por ano; especialista orienta sobre colonoscopia e prevenção - GZH",
+      "published": "2026-07-30T22:40:44+00:00",
+      "summary": "Câncer de intestino deve atingir mais de 53 mil pessoas por ano; especialista orienta sobre colonoscopia e prevenção&nbsp;&nbsp;GZHPrevenção é aliada contra câncer colorretal&nbsp;&nbsp;G1Câncer de intestino deve atingir mais de 53 mil pessoas por ano; especialista lista hábitos que reduzem o risco&nbsp;&nbsp;GZHCâncer colorretal: médica alerta para sintomas e diagnóstico tardio&nbsp;&nbsp;CNN BrasilSinais do câncer colorretal devem ser checados com rapidez; saiba mais&nbsp;&nbsp;ICL Notícias",
       "sources": [
         {
-          "name": "uol.com.br",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcDlabDRWcklNcmgtOGRXMkhlNzBGSGVMR3ZvUE5EbmdOYjlfRlN3RExWQjFpRUNqa0ZYMFhpdGZ1TTJqTnFrVWVBUDdIbXN5TTRpR29lc0Z2eTF5RWlEbE5JSFVGZ2c3c0hOeENac1k2alhyYXJRUEhneDMtLTIxc2VSZHJnaV9OMnFyS3V5SWRidGZ6dWlJcVJpMGZ1YW1yejYyMXNYWjZrNVFWd1JSMVY4Y1hkWFpWcV9BS0tIRDJIcElWZFNYbnkyeVNoeHZXQ2ww?oc=5"
+          "name": "GZH",
+          "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNeUY3eDdQWGZxV21KMmtsaE1kYzdzcUVENXA0R3NELU85N1FzQzZBa295WVU5NjdHOW9UQTFpbkM5U0hHLXE5V1M0LWFJTHRCU19tQjYwT3BhNVROZURhM3hoVy1OdWItMTBNbnlIdmFxbGk2OFFSd0NOVlJWdmZ2bzdiX1dOLUJjNzFad0prekJsS2hKdkcxTF9jY09rdzV3QmdrcG1JdmgwMU94Wk9rRU9VUHJZNy1CbTZFVk92dDYzb1dqcFpLNDgyRmxjNXJXeTFyQm92VW1TTlJvU21RLXdVSjhQa3p4cHNxbjdZTnVEbE02OS1VZzZETEVSclNOTGhuZE5MRnU3LUo4aWxVQ3RGR0N6bjlNOElHeC1tS1Q?oc=5"
         }
       ]
     },
@@ -78,30 +186,6 @@
       ]
     },
     {
-      "id": "1168f0fb67e4",
-      "title": "SP confirma 15º caso de sarampo; Ministério da Saúde recomenda ampliar vacinação em três cidades - G1",
-      "published": "2026-07-30T21:17:13+00:00",
-      "summary": "SP confirma 15º caso de sarampo; Ministério da Saúde recomenda ampliar vacinação em três cidades&nbsp;&nbsp;G1Campanha de Multivacinação começa nos 645 municípios de SP e amplia vacinação contra o sarampo; veja os imunizantes disponíveis&nbsp;&nbsp;agenciasp.sp.gov.brSarampo volta a preocupar e São Paulo registra 14 casos em 2026&nbsp;&nbsp;cultura.uol.com.brO avanço do sarampo&nbsp;&nbsp;EstadãoMinistério da Saúde amplia recomendação de vacinação contra o sarampo em três municípios de São Paulo",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSTRfWXBPVmxMWjUyUXFtUlRqQlhwRlgwcWxPWlBiSFlMZXlaQ3Ffelc5TkVGa1VXbUVxMk9peXZvMG15NzhBTWxZRHdoSktfdE00dmM2MWU1MWU3X0FhaThNTkV5TktiTUNVV0ZlWnd5bkVmcTkyN0VrLUJTZ1c3dkszelBoQ1lLM0tmUmYwelE4bGg4aDhOR2JWdjg0R2tOTGJBUXhDNk9RY1VlTEJwWkoySElPc1NPVDNuSHhtWko3Q2lFU1RuX1hKMER1LXBPUHZTNkhoN29tWk5aYlBLTlQ3eFpZUGdmSFHSAfgBQVVfeXFMTTZqZkZaTlZFdXRVdjJqZnliTmd5Ym8wS01TcDFjR0hINlktbmYyMzhiZ1dFTFpqNzgwY1lvRm5UZmo5RmdBTy1Lc1A1Nl9NZDV3WU9GRW5RdEZXWW9tWHpKSW1QNkozSUZjWjVwM2JnbnZJODZhekdjNGVqbjZuaVpESjlkc0pYbGlqWVl4bWNSRGRJYm9XUUEtcnFLUnRXQzlUcjJKcjFkSHpBcDJWQW5LMXVsRlJ0dWtneXdEM1hESk9pVG5ueGlnSzZkcTdwVnJnTk9kZnJkRk1RRjNiOWs2RlIwZnhtaGs1YXNTSmpGOEtmY1I5WTI?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f47ce348ecbc",
-      "title": "DNA da varíola é recuperado de múmias da época da conquista espanhola - uol.com.br",
-      "published": "2026-07-30T20:59:55+00:00",
-      "summary": "DNA da varíola é recuperado de múmias da época da conquista espanhola&nbsp;&nbsp;uol.com.brCientistas acham DNA de vírus da varíola europeu em múmias chilenas de 500 anos&nbsp;&nbsp;O GLOBOComo DNA de múmias virou a prova da chegada de uma das doenças mais mortais da história à América&nbsp;&nbsp;EstadãoDNA de vírus da varíola é detectado em múmias chilenas do século 16&nbsp;&nbsp;Folha de S.PauloComo um vírus escondido em múmias chilenas liga a varíola à colonização das Américas&nbsp;&nbsp;VEJA",
-      "sources": [
-        {
-          "name": "uol.com.br",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZy1PZ1d1NDl1ZDB4THRZSF9UQkllaWk1c3dxWHNhMHdGNzdBejAxMjlwMjc3UklsUFFQTHFXbGtoUFNVd3F3cU5mZEV1VWI5ckRncFU0YU5WdXJIMXFFSWRySmRzZ092Rk5TU25NVmVUZFBjYS1kbE9yWjVpRVYxTXNlT2dPaFhwMGZ1Y09YZnpacTJ4Wl9WTEdCTm9uMkhiTGwxd29kbGlIRTlJOUV2eTYtRC1nbWtScV9NcGtoeXNYWmZ4RXFvdg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1b9a8519cf80",
       "title": "Pesquisadores descobrem duas espécies novas de lagostins no RS - Correio do Povo",
       "published": "2026-07-30T19:41:04+00:00",
@@ -114,14 +198,14 @@
       ]
     },
     {
-      "id": "bbed57c3a92f",
-      "title": "Participe de pesquisa de doutorado sobre gestão da Festa de Romaria - comunica.ufu.br",
-      "published": "2026-07-30T17:56:00+00:00",
-      "summary": "Participe de pesquisa de doutorado sobre gestão da Festa de Romaria&nbsp;&nbsp;comunica.ufu.br",
+      "id": "affc9f4e4320",
+      "title": "Médica transforma conhecimento tradicional sobre o barbatimão em pesquisa científica - O Pantaneiro",
+      "published": "2026-07-30T18:02:00+00:00",
+      "summary": "Médica transforma conhecimento tradicional sobre o barbatimão em pesquisa científica&nbsp;&nbsp;O Pantaneiro",
       "sources": [
         {
-          "name": "comunica.ufu.br",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVnJqQjhlYi1aRnZwcnd6N3F5MTlxUTFjOGlZdDZsVnJsV3J3NFVyc0JtYW80cGRyYXc0LWkxY2xoQ0tCRFV3bVJtVGJfVTV6OEVtUDdwbU1kcThFVDBBOG10N0N1aXRKUllBTkhlSHU2Z0k4TEM3MHdnRUJUdzlMbXY3aWQ1SkN6YjY1bDVqWU9aMkxOSXhuT3pQTnoxVm9JYUY5bUtoeVFLVWto?oc=5"
+          "name": "O Pantaneiro",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOVMxRFFZSUxTZnpBejA4TnpmQTBjbTBKMFBNbmZ1WHB1SUs3ZzRJeUpRekVnLU8zUGVwbTN1VnZLMFdBRGhRZTZaLUc4MjQ4VndkVF9ZUVFkQ243ZkVSdFhJX3AycEMwUkJ1ZGtwN0NiZFJSWDhUdGs1N0N5RjVlMXRhSXlFT1NyRnMzckFrUHJjR1l3eWsyQUd4eG9nOFdRY0VibFl6WEFiWFo5S1N1dVhn?oc=5"
         }
       ]
     },
@@ -150,14 +234,38 @@
       ]
     },
     {
-      "id": "a1d64b5d15b5",
-      "title": "O sintoma do Parkinson que muita gente ignora e pode surgir antes dos tremores - correio24horas.com.br",
+      "id": "010e3a895718",
+      "title": "O sintoma do Parkinson que muita gente ignora e pode surgir antes dos tremores - Jornal Correio",
       "published": "2026-07-30T16:54:48+00:00",
-      "summary": "O sintoma do Parkinson que muita gente ignora e pode surgir antes dos tremores&nbsp;&nbsp;correio24horas.com.brParkinson além do tremor: os sinais silenciosos que ajudam a antecipar o diagnóstico&nbsp;&nbsp;terra.com.brParkinson: “Uns terão sintomas ao longo de anos e outros podem evoluir mais rápido”, diz médica do ICS&nbsp;&nbsp;ICS – Instituto Curitiba de SaúdeOs primeiros sinais da Doença de Parkinson&nbsp;&nbsp;redeutv.com.brEspecialistas alertam que Parkinson pode apresentar sintomas antes",
+      "summary": "O sintoma do Parkinson que muita gente ignora e pode surgir antes dos tremores&nbsp;&nbsp;Jornal CorreioParkinson além do tremor: os sinais silenciosos que ajudam a antecipar o diagnóstico&nbsp;&nbsp;TerraParkinson: “Uns terão sintomas ao longo de anos e outros podem evoluir mais rápido”, diz médica do ICS&nbsp;&nbsp;ics.curitiba.org.brOs primeiros sinais da Doença de Parkinson&nbsp;&nbsp;redeutv.com.brEspecialistas alertam que Parkinson pode apresentar sintomas antes dos tremores&nbsp;&nbsp;exp",
       "sources": [
         {
-          "name": "correio24horas.com.br",
+          "name": "Jornal Correio",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT2M4V2haX3FiV1hMeVNKaVBKdnl1UnVVUlRPeGpuVmpSN1hjMUtrRnVoNE9IMFRDalFnOXlCOGJNbUFaQVl3UFZsZlFUdl9vZE92RXlnbE5Gb3RJZm5Tbm5lMmF1LXhzeTZ2Y2NyRFNob21VYllrOXJKQUg1TmZmRThwcmlQbnFBRUlZX1BCXzMyZDV6RlYtX3BnZkxfQ2xQVjZUdGxxUmxpU1l0enFveVh6UHhnc0dBSl9kVFVIb1A?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9089d6acf3a0",
+      "title": "Estudo estima limite teórico de até 194 anos para a vida humana - Diário do Centro do Mundo",
+      "published": "2026-07-30T16:08:37+00:00",
+      "summary": "Estudo estima limite teórico de até 194 anos para a vida humana&nbsp;&nbsp;Diário do Centro do Mundo",
+      "sources": [
+        {
+          "name": "Diário do Centro do Mundo",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLXNxZHFmR01Rd3V1THdhQ0s2cjQzbm56LUd6Rk91OElUUy1Ydk9iSTMxMzN3aVFsYTJINGZ4MURpSVlDN05ubkVnaTQyeEd2by1HRExhOVJpbkp0ZWVIQ2dVZ05qRkFtakdBRmFjcTVYUW5SOWl6ajJOaUhqS0RxdkxoQ20xdDVJRjhfanhaMUkwdmRwblhoSUdYbDNvOE5ienlN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "45c0df54e6a3",
+      "title": "Anvisa aprova medicamento para hipertensão pulmonar — Agência Nacional de Vigilância Sanitária - Anvisa - www.gov.br",
+      "published": "2026-07-30T15:28:00+00:00",
+      "summary": "Anvisa aprova medicamento para hipertensão pulmonar — Agência Nacional de Vigilância Sanitária - Anvisa&nbsp;&nbsp;www.gov.brAnvisa aprova medicamento para doença que causa falta de ar e cansaço&nbsp;&nbsp;VEJAAnvisa aprova novo medicamento para hipertensão pulmonar; saiba mais&nbsp;&nbsp;CNN BrasilAprovados remédios para hipertensão pulmonar e doença autoinflamatória&nbsp;&nbsp;AMM | Associação Mineira de MunicípiosAnvisa aprova remédio para tratar hipertensão pulmonar em adultos&nbsp;&nbsp;Rád",
+      "sources": [
+        {
+          "name": "www.gov.br",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNU2FISmN4Y0dVQjE2bzAxeUxGblI0UUN0Q1lHZkZjYjdVd3oyUWxQRERVSGhPLS1uNENkS1gwYWZLcC1zU0JLODJxenVqWEhaRG0xOUVoTHM3ZlF4RHhPengtaVRiV3AxRW5EZkhXZUw0NnJ3bG5jTi03aDlkOV9QM3F0UGlzR29kUWkwUmJZUmppeW1TZ2g0QmF4WlpVMnVWc2hkaGlVeGlRODdZSzl1bzlyUQ?oc=5"
         }
       ]
     },
@@ -182,18 +290,6 @@
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOW9zNi03X2p2c0N1Z0NrUmhvLV9HODBzUDZSajN0NEhneERBRWRWM05vXy1pWWl5ODhGaWdBNTdpOXpYVTVGRnNCVnc2cHJyUzlWVWNmQ0xDWHJ6SF85b21oSnVyTHhKd1FPWFhQa1p2bXJSd2hmNkdXMXJnZGh0bnNNZnNZeE1JVVZUcUZuMTBodXl2WmxLUlY5akM3TnVIVnpfdGpIYnVNTVJ3ckpfWWFiWGZWaDA3R3daVDVUc25jMmJa?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e57d00e5ae10",
-      "title": "O erro ao medir a pressão que pode esconder risco de infarto e AVC - Diário do Centro do Mundo",
-      "published": "2026-07-30T10:02:50+00:00",
-      "summary": "O erro ao medir a pressão que pode esconder risco de infarto e AVC&nbsp;&nbsp;Diário do Centro do Mundog1 em 1 Minuto: Você sabe medir a pressão corretamente? Entenda o passo mais eficaz para evitar infartos e AVCs&nbsp;&nbsp;G1Relatório da Organização Mundial da Saúde alerta para falta de controle da hipertensão&nbsp;&nbsp;Espaço do PovoA tensão arterial é um dos principais indicadores da saúde cardiovascular. A «m…&nbsp;&nbsp;SAPOA nova diretriz de 2025 baixou a meta de pressão para 130/80: os",
-      "sources": [
-        {
-          "name": "Diário do Centro do Mundo",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWlRDaDF5aHoxTWxlbFhMWGJzT0RLWm9IVkNDTzY1WHFMaDVldTAzX2lxUDB6RnZiT1RsdDVzNzdYZU5pdkF0eDNYa1ZORi1UTllKNlo0REtEOExuR3F1UjJBajBuWlFNOUtVOUF4TVZOQWhJRjAzTnRIVUh3Qm9abXZ3SEptTUNGdENJWUJxd01jeFBPa09LTndLWkxfWFhQM1A4dVdjRVo5SVRvMkxsTTN5QW9DUUVnV0E?oc=5"
         }
       ]
     },
@@ -225,7 +321,7 @@
       "id": "84e2005d5c8c",
       "title": "Estudo liga consumo de açúcar na infância a risco de demência - Correio Braziliense",
       "published": "2026-07-30T08:11:00+00:00",
-      "summary": "Estudo liga consumo de açúcar na infância a risco de demência&nbsp;&nbsp;Correio BrazilienseConsumir menos açúcar na infância diminui risco de demência na velhice&nbsp;&nbsp;GloboAçúcar pode viciar mais do que cocaína? Entenda o que dizem os estudos&nbsp;&nbsp;terra.com.brRegular açúcar na infância pode reduzir risco de Alzheimer, diz estudo&nbsp;&nbsp;MetrópolesAçúcar no sangue deixa o cérebro velho. Estudo mostra piora na idade biológica&nbsp;&nbsp;guairanews.com",
+      "summary": "Estudo liga consumo de açúcar na infância a risco de demência&nbsp;&nbsp;Correio BrazilienseConsumir menos açúcar na infância diminui risco de demência na velhice&nbsp;&nbsp;GloboAçúcar pode viciar mais do que cocaína? Entenda o que dizem os estudos&nbsp;&nbsp;TerraRegular açúcar na infância pode reduzir risco de Alzheimer, diz estudo&nbsp;&nbsp;MetrópolesAçúcar no sangue deixa o cérebro velho. Estudo mostra piora na idade biológica&nbsp;&nbsp;guairanews.com",
       "sources": [
         {
           "name": "Correio Braziliense",
@@ -246,26 +342,26 @@
       ]
     },
     {
-      "id": "1e9d2733b663",
-      "title": "Nova vacina experimental contra o HIV mira partes do vírus que não mudam - Folha de S.Paulo",
-      "published": "2026-07-30T07:00:00+00:00",
-      "summary": "Nova vacina experimental contra o HIV mira partes do vírus que não mudam&nbsp;&nbsp;Folha de S.Paulo",
+      "id": "e0f56f0f2000",
+      "title": "Você divide a vida com alguém, mas ainda se sente sozinho? Saiba o que isso pode significar - O GLOBO",
+      "published": "2026-07-30T07:01:46+00:00",
+      "summary": "Você divide a vida com alguém, mas ainda se sente sozinho? Saiba o que isso pode significar&nbsp;&nbsp;O GLOBOA solidão por trás do boné azul&nbsp;&nbsp;Brasil 247Solidão pode ser tão prejudicial quanto fumar 15 cigarros por dia, diz OMS&nbsp;&nbsp;TerraSolidão - um problema social -&nbsp;&nbsp;Capeia ArraianaSolidão cresce mesmo entre pessoas cercadas por familiares e amigos e ameaça saúde, aponta pesquisa&nbsp;&nbsp;A Tribuna",
       "sources": [
         {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWThELUE3X2x0bG5qQ3FjMGcwcHpwbUZJaF81Q1lnR20wclJuMjZWeEtReHptVGxaUTFseXdwTlQwN01aY0JNR09yX01CTUZvTnF3ZGcxMklvYzl0d1VIRnF5TFFyYm42TlJiNFRBTERUY0pYUXhGUUwybWRhTlBFMDIzVWZzN0ZLNGFTeW5fLWNwRHlicm4wdEJIZWo1UlU4clJHR2l5bndDRUhCWWFOYlFvbUo1Q2tQMWYwcS0wTU5hNnVDS2RuWnhMcXpIUQ?oc=5"
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWDl3QW9PWER3WW5PNHpUeUtqYWZfaWJQazN2WExxWnZpU2VENURya0VFbWp2Q2dfejVYdTZ5LWpnanY5dEJrQ1V1X2RIWldtMUUtT01TUVZZaTMyQ0JqNFpCWFBBdGFTZUxTQlh0Q0pEWTV4dFVIdGNPS29rYkt2RE1GWV96ek0wREJibWdsdmxVODJJTkd3MFVJcjdrYVE0S2pGSXA5anlGYUdvd3hCNDhlSFR4b3RPUWZ5eWJJVjJUdjhxQVgtcFUzWENWUWFPZkswS0piN01rWmfSAeoBQVVfeXFMT05BcEp3RlhTYUNleVM2QUMwOU9oX1RyWHFGNWFYOFZkNU8xWTRXbzI0T001WWdPLTMxNllJVm1Fek9aeElrMk5WbTU0ZHIyY0ZSaE1VT1FYODQyLTl3Q0JJODJNMWVFQzVyUDZtNWlvYVdsMmdwWXBmZlhiOXV4Y3EtVU1qUldmaE5hZmJDUWNTeG83dGZBNy1YZVdic1E2dmhCRGtxNkNpZTY2U3NXaFlDX0xVTzBBYlN4ZTd2QnRuaVAtdzVCN1E1MEE2NUVhVE10SUFxckQ0Vk9RN2hocUNSWmtQR1BpdzJn?oc=5"
         }
       ]
     },
     {
-      "id": "892ae66e0211",
-      "title": "Estudo recria última refeição de predador da época dos dinossauros - Globo",
-      "published": "2026-07-29T22:43:44+00:00",
-      "summary": "Estudo recria última refeição de predador da época dos dinossauros&nbsp;&nbsp;Globo",
+      "id": "20ac28b1fc17",
+      "title": "Até que idade o ser humano consegue viver? Ciência revela limite da longevidade, e resultado surpreende - O GLOBO",
+      "published": "2026-07-30T07:00:57+00:00",
+      "summary": "Até que idade o ser humano consegue viver? Ciência revela limite da longevidade, e resultado surpreende&nbsp;&nbsp;O GLOBOCientistas confirmam que o corpo humano pode viver até 156 anos, mas curiosidades sobre o nosso DNA revelam uma falha biológica irreversível&nbsp;&nbsp;TerraEstudo estima limite teórico de até 194 anos para a vida humana&nbsp;&nbsp;Diário do Centro do MundoHumanos podem viver até qual idade? Estudo revela que apenas dois tipos de células podem determinar o limite da vida huma",
       "sources": [
         {
-          "name": "Globo",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSDBnem0zdjZGZmxFYUFTSF9DYUlaRVZxWWxTdE9zbV85c2VxclZhSEYwR0VsYk9iV2lpQmtCb2FPd1NicUNSZnFPZkpZR3RYZkJ2cVFSRDhUdlpjTnpuY3pzN1R0ZDVIOEZTcVFrUXM3Vll0TVRWWkJHM1EzaHZKNVBtcXcwR3BwYXBNT2Fqa19CNjJ6WmFDUDRwMGU3cDM5UmRpMHpZS3NKVkUxR0ozS09TalZPVUFUTUJZcGpLMWJQQ2ZuNDRuWUw5R0habmFLd19nTW9ET3PSAecBQVVfeXFMUFpuSENMQXJ6SGpWdHBGQ1ZCZW0tVjBTdy02SVk1bjlOWUptT3F5ZVpDajExdHZsR0xTVHVTQUdZbG5IQlZ6RVRuVFpUVHQ1cEpLV0V4NkJSWWlRcDFkQWx4Y3Bob2tLeHowQnpvQXZIX25SVktRQmJqYkVhMWJtNURMQ1NWVEwwczhWVENaRE14M25odVV3RmdyWmg2eEJvWlliTDRCcW5xTkFTV0U1TzRPUnpmelMxaFA5bExNRUZpUzl1ZGp5UE1rZmtnN2l6cEtuSER3am8yWDlmMm53N1EtNnlGaFQw?oc=5"
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQUxRSk5oeXJFbmlBWmZaeU1oTDMxbXRLMnZ4dHZBSkVFLWZtSlRvRTlBOHBzUkxoY2xLT3R1ZU5vNE1CYmVXMWxaZ1Q0a1dVZ0hic1NQVXZUaU9QOTlWUi12R0NHTkFSMERwaG1kdHp3RTF4SGtZaXA5Z0FLaFFFUTF2X0hCWGNWQ3NhRW13U2RHWWRBSjVUTXZsa1F0d05lOFpvRWJEVW00SmNoVHcyUzRpaFQ3QnZSZzQ5dXdwMTRUUHJDaGltSDd2bkJxM3lQdTJFUkhadmo0dGk0Z2YxejhfdERIWmJMU0V2bkY2cXRKRzVjdHE4R9IBhwJBVV95cUxPZEJudEg3RXlWY1ZWTmVnTFRxNlBRLXVQNGFrTUVfZllrY3dGdGpSTHIyUXNQY3dyTDFwMWloMUNOTlo3Q2xPTXJFUUZ0bm5HSXhBSjVjTlc5QmhEQ1NfZmQwNm5ObXQxUVNJNWt3VkJXTTFUTUZqRTZwaU5KZDNaSUFrc3g5YVFUaDNCNlZWV2hwcW9CQm1pSVF6M3VkTENmaDhleGZOMVo1aWFSa1pIS0RQMkFaU0ROV3dtS0hNbjF3ZFVoT3FPZXFrR1BtMHlha2wtUjJfLTFxRmxhNlNUUEtHU1FBWlhQTEFRbXVBN0hGWEFSLXdCVFBmVVFGQ2ZiU1NqdkliWQ?oc=5"
         }
       ]
     },
@@ -273,7 +369,7 @@
       "id": "96743a073b7f",
       "title": "Segurado assintomático com HIV tem direito a indenização por invalidez - Consultor Jurídico",
       "published": "2026-07-29T22:37:40+00:00",
-      "summary": "Segurado assintomático com HIV tem direito a indenização por invalidez&nbsp;&nbsp;Consultor JurídicoSTJ reafirma que estabilidade clínica não impede indenização por invalidez funcional no seguro | SEGS...&nbsp;&nbsp;SEGS Portal NacionalSTJ muda entendimento sobre seguro e garante indenização por invalidez por doença mesmo sem sintomas&nbsp;&nbsp;ND MaisSTJ mantém indenização securitária a militar com HIV assintomático&nbsp;&nbsp;focuspoder.com.brSTJ determina pagamento de indenização por invalid",
+      "summary": "Segurado assintomático com HIV tem direito a indenização por invalidez&nbsp;&nbsp;Consultor JurídicoSTJ reafirma que estabilidade clínica não impede indenização por invalidez funcional no seguro | SEGS...&nbsp;&nbsp;SEGS Portal NacionalSTJ muda entendimento sobre seguro e garante indenização por invalidez por doença mesmo sem sintomas&nbsp;&nbsp;ND MaisSTJ mantém indenização securitária a militar com HIV assintomático&nbsp;&nbsp;Focus PoderSTJ determina pagamento de indenização por invalidez per",
       "sources": [
         {
           "name": "Consultor Jurídico",
@@ -285,7 +381,7 @@
       "id": "3a352570cb31",
       "title": "OVALE: Por que perder peso é tão difícil? Médica explica o motivo - sampi.net.br",
       "published": "2026-07-29T22:17:53+00:00",
-      "summary": "OVALE: Por que perder peso é tão difícil? Médica explica o motivo&nbsp;&nbsp;sampi.net.brPerdeu peso, e agora? Entenda por que cresce a busca por procedimentos após o emagrecimento&nbsp;&nbsp;O GLOBOEmagrecer com músculo: os testes e as atitudes que ajudam a lidar com o dilema das canetas&nbsp;&nbsp;VEJA\"Rosto de Ozempic\"? Tratamento ou cirurgia resolve o problema&nbsp;&nbsp;terra.com.brUsa Ozempic ou Mounjaro? Especialistas definem quanto de proteína comer e recomendam musculação&nbsp;&nbsp;Jor",
+      "summary": "OVALE: Por que perder peso é tão difícil? Médica explica o motivo&nbsp;&nbsp;sampi.net.brQuanto exercício fazer por semana ao usar canetas emagrecedoras, segundo consenso europeu&nbsp;&nbsp;Veja SaúdePerdeu peso, e agora? Entenda por que cresce a busca por procedimentos após o emagrecimento&nbsp;&nbsp;O GLOBO\"Rosto de Ozempic\"? Tratamento ou cirurgia resolve o problema&nbsp;&nbsp;TerraUsa Ozempic ou Mounjaro? Especialistas definem quanto de proteína comer e recomendam musculação&nbsp;&nbsp;Jorna",
       "sources": [
         {
           "name": "sampi.net.br",
@@ -297,7 +393,7 @@
       "id": "4f28849d8476",
       "title": "Pressão alta: alimento rico em nitratos naturais pode auxiliar no controle da hipertensão - ICL Notícias",
       "published": "2026-07-29T21:50:26+00:00",
-      "summary": "Pressão alta: alimento rico em nitratos naturais pode auxiliar no controle da hipertensão&nbsp;&nbsp;ICL NotíciasSuco vampiro de beterraba com laranja: veja o que acontece com o corpo ao beber essa mistura todos os dias&nbsp;&nbsp;terra.com.brPressão arterial no limite? 3 sumos vermelhos que ajudam a reduzir&nbsp;&nbsp;Notícias ao MinutoSuco de beterraba e o efeito do nitrato natural sobre a pressão arterial ao longo das semanas&nbsp;&nbsp;Tua Saúde",
+      "summary": "Pressão alta: alimento rico em nitratos naturais pode auxiliar no controle da hipertensão&nbsp;&nbsp;ICL NotíciasSuco vampiro de beterraba com laranja: veja o que acontece com o corpo ao beber essa mistura todos os dias&nbsp;&nbsp;TerraPressão arterial no limite? 3 sumos vermelhos que ajudam a reduzir&nbsp;&nbsp;Notícias ao MinutoSuco de beterraba e o efeito do nitrato natural sobre a pressão arterial ao longo das semanas&nbsp;&nbsp;Tua Saúde",
       "sources": [
         {
           "name": "ICL Notícias",
@@ -309,7 +405,7 @@
       "id": "4e5f33366568",
       "title": "Opinião - Drauzio Varella: Estudo dinamarquês revela que 45% dos casos de demência são evitáveis - Folha de S.Paulo",
       "published": "2026-07-29T20:20:00+00:00",
-      "summary": "Opinião - Drauzio Varella: Estudo dinamarquês revela que 45% dos casos de demência são evitáveis&nbsp;&nbsp;Folha de S.PauloBem-Estar #361 - Como prevenir as demências sem o uso de medicamentos&nbsp;&nbsp;G1Nutrição e longevidade: o papel da dieta na preservação cognitiva e na saúde das articulações&nbsp;&nbsp;terra.com.brMente exausta? Seu cérebro pode estar pedindo mais nutrientes&nbsp;&nbsp;ciclovivo.com.brDieta da mente: 10 alimentos para proteger seu cérebro da demência&nbsp;&nbsp;Estado de",
+      "summary": "Opinião - Drauzio Varella: Estudo dinamarquês revela que 45% dos casos de demência são evitáveis&nbsp;&nbsp;Folha de S.PauloNova pesquisa detalha os ingredientes para melhorar a memória e afastar o Alzheimer&nbsp;&nbsp;VEJABem-Estar #361 - Como prevenir as demências sem o uso de medicamentos&nbsp;&nbsp;G1Nutrição e longevidade: o papel da dieta na preservação cognitiva e na saúde das articulações&nbsp;&nbsp;TerraAs 4 mudanças que deram novo fôlego à cognição de idosos&nbsp;&nbsp;diariodopara.com",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -318,50 +414,26 @@
       ]
     },
     {
-      "id": "d9844ce7dd46",
-      "title": "Deficiência de vitamina B12: conheça as causas, os sintomas e como tratar - A Gazeta",
-      "published": "2026-07-29T20:15:00+00:00",
-      "summary": "Deficiência de vitamina B12: conheça as causas, os sintomas e como tratar&nbsp;&nbsp;A GazetaVeja mais manchetes e perspectivas no Google Notícias",
+      "id": "8cf015168ed2",
+      "title": "Onça Gaspar viajou 2110 km quase em linha reta na Amazônia, diz estudo - Globo",
+      "published": "2026-07-29T18:54:24+00:00",
+      "summary": "Onça Gaspar viajou 2110 km quase em linha reta na Amazônia, diz estudo&nbsp;&nbsp;Globo",
       "sources": [
         {
-          "name": "A Gazeta",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbHNtSHFqYW50NU9kS3dnOW1VQkIzMVh1ZV9SbFRXVW9Ea0lnZ011VjlmcFAxRk5hMmF6ZzNHZ2FNVkJ1SS1Xb2JGUWJMZTc1VEo0RmVpZzc5QTRSYmRGLWRtRW1fTmlvOU1Pd1BYYko4azJsc3E2VzFUQnB3Q1RwdkdyeEhKTXNCdHpzd1Bib3pvUzhxZlNaZnVPcVVMeU5HeUNNRm41LXBHTnhQUjVFcHlR?oc=5"
+          "name": "Globo",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMWwtalNLWDJBN2tDbTVwR09YVlpjS19ZS2RTRElJS0lzWjE1TTNmeS1nOTh2dXNVNVUxR1U3NDRMSGFHRWtVdDlWN3N5OXd1UENpTkpzVnljdmRycU40MEJDOEE4VFNQVWFjTGlmNHdQVVJRQlFsWXp0OVZpX0dnb0hEMzlRLVpyM3hRdEJrR0NDQ3FiSVdqRV9tQktmS1dqaXItVkJMNjcwZnFxdHhyTE9OWXktcGRMR3pCcjJlenl2TWpOVU5nUkpLY1LSAdsBQVVfeXFMT0N3cmRDcUlVLUZURGZLYUtBa19NSjg5X29yU2FfWWl4NDlwbEU3VVhaT2JQcm1lQjlPMFN2SkdlYXlqOC1Dbmlfb2c0ZGRRcjZZdWJDamdpSmIwdDdWTHR4dmZqTld3MkhJVFl4OTBoMTkxZllpelFzcXVEZm5KNWlwTmF1OHJjZkRROVoya3hPUXZyVFNpWkQ3XzBqV0FZWUpkNm92bWM3YWlPWFBFNnRFbkxWQXZIV29zdjFyQUVGeXZQa1IyaC1pd0dDcGNTZ0dxamxqdVV4VnRj?oc=5"
         }
       ]
     },
     {
-      "id": "ff80a9d52fae",
-      "title": "Viagra pode ajudar a frear metástase de câncer, mostra estudo inicial - uol.com.br",
+      "id": "62218012ecab",
+      "title": "Viagra pode ajudar a frear metástase de câncer, mostra estudo inicial - UOL",
       "published": "2026-07-29T18:34:31+00:00",
-      "summary": "Viagra pode ajudar a frear metástase de câncer, mostra estudo inicial&nbsp;&nbsp;uol.com.brViagra pode reduzir progressão de metástase, aponta estudo&nbsp;&nbsp;CNN BrasilCientistas investigam efeito do Viagra para frear metástase do câncer; entenda&nbsp;&nbsp;Rádio ItatiaiaEstudo aponta potencial do princípio ativo do Viagra no bloqueio da metástase do câncer&nbsp;&nbsp;francesnews.com.brEstudo indica que Viagra ajuda a conter metástase do câncer&nbsp;&nbsp;news.folhadoprogresso.com.br",
+      "summary": "Viagra pode ajudar a frear metástase de câncer, mostra estudo inicial&nbsp;&nbsp;UOLViagra pode reduzir progressão de metástase, aponta estudo&nbsp;&nbsp;CNN BrasilCientistas investigam efeito do Viagra para frear metástase do câncer; entenda&nbsp;&nbsp;Rádio ItatiaiaEstudo aponta potencial do princípio ativo do Viagra no bloqueio da metástase do câncer&nbsp;&nbsp;Francês NewsEstudo indica que Viagra ajuda a conter metástase do câncer&nbsp;&nbsp;news.folhadoprogresso.com.br",
       "sources": [
         {
-          "name": "uol.com.br",
+          "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcnZYMnFoR0ZacWZBMVk2cEdTbkI3NkVvTURDUG0zZWozSGlHTENMcjZyVzhwMkJtRHM1QmFOeV9wTldYanlNdjVDUGpTaERBNzExRmxnQmpFVFJFdzFrWWFZTGdvalEzRmEtY1FqSzBSZngzM2hCeVBKNl9jWjBYNEptd1p6aEhhUlJKdndHQTBDRElXcERQWThKbnpJRExxQ0U0Nm9TUjUwbkJ2THRHTVFUUTc0RkhTWF9tMkpVZ0x1NE9hd0ltTWJWYUdTT1Nram9GdVVmRTJXQzA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c8a58e8be25c",
-      "title": "Após 18 mortes, Chile decreta alerta sanitário por hantavírus em 13 regiões - UOL Notícias",
-      "published": "2026-07-29T11:59:43+00:00",
-      "summary": "Após 18 mortes, Chile decreta alerta sanitário por hantavírus em 13 regiões&nbsp;&nbsp;UOL NotíciasCom o aumento das mortes causadas pelo vírus Hanta, o Chile emite um alerta de saúde.&nbsp;&nbsp;Vietnam.vnChile decreta alerta sanitário após 18 mortes por hantavírus&nbsp;&nbsp;MidiamaxChile coloca 13 regiões em alerta após hantavírus matar 18 pessoas&nbsp;&nbsp;Diário de São PauloApós 18 mortes, Chile decreta alerta sanitário por hantavírus&nbsp;&nbsp;radio93.com.br",
-      "sources": [
-        {
-          "name": "UOL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPc3llS20wbl9HdzNESDE0SnR6UFNQSlFkbnB3R0FoTUhOWi1leUdhU0prUXpJSWgzVTQ5ems0VmJOV0kxQllVY3JhM28wZWFGa2ltUnRGQUNPeFNWRXdjVXZNaXJZcXZfUE95aEF0V18xWlNTRF90ZnRqT3VGSE5zU216eU9QaEFRRHotSWVHdXZYRlU4aWl3ejhhYmFXVno5VEN0Q0RHY0FsZWQ3LUhXcktyeVVId0hsbDlIY2REc2FKaEhya2tTeEZQNFZYWTg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "abca747de78c",
-      "title": "Lito Sousa tem alta hospitalar após diagnóstico de câncer: 'Perdi 7 kg em 15 dias' - terra.com.br",
-      "published": "2026-07-29T11:35:00+00:00",
-      "summary": "Lito Sousa tem alta hospitalar após diagnóstico de câncer: 'Perdi 7 kg em 15 dias'&nbsp;&nbsp;terra.com.brLito Sousa tem alta após oito dias de internação em SP e diz que vai conscientizar homens sobre câncer de próstata&nbsp;&nbsp;G1Lito Sousa recebe alta após diagnóstico de câncer e inflamação&nbsp;&nbsp;CNN BrasilLito Sousa recebe homenagem de famosos&nbsp;&nbsp;terra.com.brLito Sousa: entenda quadro de saúde do influenciador após diagnóstico de câncer&nbsp;&nbsp;Veja Saúde",
-      "sources": [
-        {
-          "name": "terra.com.br",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNdnp1TVpyNVk5YWhRTjVDQzU3d0V6eS1oVjl5dXFjZGRsZGtzVFNYUl9vbE5IdXRNc1NSeU5DZ1ZVRFVRX1ZPUk1ia2NFWTBSa2V6eFpvX0NpVU5SX0s1UDdvN1hNaTVNUW9nYWtBWVdXNVZpdzg1b1AyenI1YVhyNFY0NXo0bFNNcFBoY29GV0dmd1lhMmRDSVQyN2lwdGJCZHR2bHpmN3FqczlrX1p3QUFhQnlOX0ZVMjdXb2FGYy1wVEN2YTN5dkw0M0Z2ZEMwTmFEOUFkRVBPeC16TERka2liZnl5enpGekdvTjVwV3BOamdEenVUNWdkNDdTUQ?oc=5"
         }
       ]
     }
