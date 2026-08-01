@@ -1,18 +1,78 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-08-01T08:22:50.421188+00:00",
-  "total_fetched": 90,
-  "unique_count": 87,
-  "health_related_count": 36,
+  "fetched_at": "2026-08-01T13:24:15.853109+00:00",
+  "total_fetched": 94,
+  "unique_count": 91,
+  "health_related_count": 39,
   "news": [
     {
-      "id": "66982c58ee6e",
-      "title": "Gordura no fígado: médico aponta sintomas, causas e como prevenir - itatiaia.com.br",
-      "published": "2026-07-31T23:06:15+00:00",
-      "summary": "Gordura no fígado: médico aponta sintomas, causas e como prevenir&nbsp;&nbsp;itatiaia.com.brA barriga inchada e persistente não se deve apenas a gordura localizada, mas sim em alguns casos ao depósito de gordura no fígado que pede urgente avaliação&nbsp;&nbsp;Tua SaúdeGordura no fígado mudou de nome e virou alerta mundial; entenda os riscos da MASLD&nbsp;&nbsp;TerraSaúde do fígado começa no prato e vai muito além de evitar álcool&nbsp;&nbsp;Revista Ana MariaAcordar com boca amarga, barriga estuf",
+      "id": "8f47126eb786",
+      "title": "DF tem 45 pontos de vacinação neste sábado (1º/8); veja lista - Metrópoles",
+      "published": "2026-08-01T09:21:00+00:00",
+      "summary": "DF tem 45 pontos de vacinação neste sábado (1º/8); veja lista&nbsp;&nbsp;MetrópolesDF tem campanha de multivacinação neste sábado; veja endereço, doses e o que levar&nbsp;&nbsp;G1Distrito Federal terá 51 pontos de vacinação neste sábado (25)&nbsp;&nbsp;GPS BrasíliaDF inicia agosto com 45 pontos de vacinação neste sábado&nbsp;&nbsp;correiobraziliense.com.brDf terá 45 locais de vacinação neste sábado&nbsp;&nbsp;Jornal de Brasília",
       "sources": [
         {
-          "name": "itatiaia.com.br",
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMkZ6amcySjBsZ052T2dGaUtGQjR1bmtNdnNrNi10SFE3Y0tWRS1sVmFVcFozX2VtNWZJdnVyYWVoaHZlWk10ZF9Hd0NxTUhTUDIwLVhjSVZTTTFXdVNsMFhHRFV4Nzk4OHVqc3ZUNTJXMFdRU2lQUUdLOE95SlVDMW9BMVpwTjhHWGxVNFV2TjVTYUY2Tk1TZDNLLTl6dGdQaXA1Zg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4631dadf78f3",
+      "title": "Alimento comum pode reduzir risco de câncer de intestino em até 20%; saiba qual - iclnoticias.com.br",
+      "published": "2026-08-01T08:00:17+00:00",
+      "summary": "Alimento comum pode reduzir risco de câncer de intestino em até 20%; saiba qual&nbsp;&nbsp;iclnoticias.com.br",
+      "sources": [
+        {
+          "name": "iclnoticias.com.br",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE41Mk1YVnpJVzFCYmE0STEwbGJZTkxiSzJYRkRlVWh3TGdDSVJmZzExVnBxb29TandyMjhsdkQ5ZUp5VEVzejZycEl4ZWx3UWZUbFh5ODJIQlNKYy1NeGlpRHFGNkdYckxkN24zX2Z3MXE1MXVTbUxNdGlzMA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "49cbc0b1ae86",
+      "title": "Comer menos proteínas pode trazer benefícios à saúde e prolongar expectativa vida, sugere revisão de mais de 350 estudos - G1",
+      "published": "2026-08-01T07:01:52+00:00",
+      "summary": "Comer menos proteínas pode trazer benefícios à saúde e prolongar expectativa vida, sugere revisão de mais de 350 estudos&nbsp;&nbsp;G1Pesquisadores concluem que consumo elevado de proteínas não é saudável. Veja orientação&nbsp;&nbsp;Gazeta do PovoQuanto de proteína você precisa por dia?&nbsp;&nbsp;Tribuna OnlineA obsessão pela proteína e o sumiço das fibras no prato do brasileiro&nbsp;&nbsp;Veja SaúdeA moda do 'alto teor de proteína' funciona para todos? Entenda os debates na ciência&nbsp;&nbsp;",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQNVJDOGowdHZiQ05kalZIazhhblhnUmFoMHhSWXhqTTZMZWc1YWhjWnhybkhtYTc4cEVldEU0RkNrUjd5WG9XdE1fRFAyaEZOeldacnhOTTlrUmdFcG52WEVtbnF4UmF0R1ROLUw2c2gwTTRZRExaUVRYcHlzUFJVTks4eFN0ZVpBa3JVNzVMcjNtTGZVUnFZNF9xTVY3NVAxR0JtbW9vbkZzNUViSndOLW01SVhhVGkwUzZJMExQLXN4TmtlTlA3cFFEVjktZFZKYy1PTlFwSEc1aGFVamtDYzFJNjFTQW5tMXhhc3NVRG1VSUJySEpsaVgwM2VDamsw0gGPAkFVX3lxTE95QndVX0NJOUZWVWdsLUo3NmJtOUZaSlNCTnNuLUh2N0FxUnhNYzVWV25UQkczczZHMlNpWWtualRPNXczRGgwY2ZQX09yUmJ0MFdvWDFwYjIyXzRGZXhIb1RZYUlDcW1KOS1LY2g2UEhNbFVwSGJET3EwN3M3QWhaS3N6dngwVHJ1RnhqdnN3ai10UTVoTzZkR1puYm9YZkZ2NW5BQTlsS3hIRWZXWDNqZEhybUhhTUhFVDducFZ5cmZiZ21zWGRTOUxwTktOZm1YZElhaExWRGhpYUhQMDdqc0tReXZMZHJSaGJPQVlBTWFqTG44RDAyQXN0czN6ZFhOMGZLeE9Fci1yRkdMYUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1757bc12cf39",
+      "title": "Estudo brasileiro usa retrovírus HTLV-1 para investigar avanço da esclerose múltipla progressiva - G1",
+      "published": "2026-08-01T07:01:48+00:00",
+      "summary": "Estudo brasileiro usa retrovírus HTLV-1 para investigar avanço da esclerose múltipla progressiva&nbsp;&nbsp;G1Avanços na esclerose múltipla: atualizações terapêuticas e desafios futuros&nbsp;&nbsp;Afya | HomeEstudo usa retrovírus HTLV-1 para entender esclerose múltipla&nbsp;&nbsp;Correio do Povo Penedo",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNM05KRFZLaHBqaWRKeE43RGpCWGZIQTJPMXNRWHprQzZ1MkZzSzNfbVRtSTU0ejhYOGJDUDBkTUhyNk1rN19YdDJGeW9OdU9UNHlXdlB1amJFaTRWWU1KT1ZTT2s0R2RMSzdjVHlnZm9ZR1dHVUk5eVk2Rl9FMTRRemt4eGlfYnpxU3hCckMyRnBWYVdJV1FDT1ZCSFBNNGpJbWd6RWVsNk5lcWpiUFN2YXhLYjAwNHpBT1pJNGQwTW56MkJGdHV2cmhlb3pEeFZQTC1HT3lGWXRGYXBYeHlsdkF3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fc178a0fab4a",
+      "title": "Fraqueza, visão alterada ou fala enrolada por poucos minutos pode ser um breve ataque cerebral com consequências duradouras - Tua Saúde",
+      "published": "2026-08-01T07:00:00+00:00",
+      "summary": "Fraqueza, visão alterada ou fala enrolada por poucos minutos pode ser um breve ataque cerebral com consequências duradouras&nbsp;&nbsp;Tua Saúde",
+      "sources": [
+        {
+          "name": "Tua Saúde",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQcHFwM1I0akYzeHpCZkgyeVprNU5yNVBLR0hFWkp0SjVsanpyWG5BRklZYkNBU200TTdObDcxR2hNOVlTTFdFTnZxcVphdlhlRHNOWm1fMVpZS2JJdmhLajJyOTh3YUFubXViZ1M0TVlhQTNsRmN1cG9RcnFkM1pnak5KLTlGZ1VIbUdtY2ducW15NUtZZzhZVV94LTBsTjBMcnQxRkVtdm5NN0lRZTY2VzE5TWQ0TUE2ZU5zTGR1UEEybURkcm1uWC1jSHVCZ193Ylk4VFZvTEZjYzJUdUR6OExtUnlOWl8ySmJheWlSR3pDVlF5Nnp3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "53ff155f2192",
+      "title": "Gordura no fígado: médico aponta sintomas, causas e como prevenir - Rádio Itatiaia",
+      "published": "2026-07-31T23:06:15+00:00",
+      "summary": "Gordura no fígado: médico aponta sintomas, causas e como prevenir&nbsp;&nbsp;Rádio ItatiaiaA barriga inchada e persistente não se deve apenas a gordura localizada, mas sim em alguns casos ao depósito de gordura no fígado que pede urgente avaliação&nbsp;&nbsp;Tua SaúdeGordura no fígado mudou de nome e virou alerta mundial; entenda os riscos da MASLD&nbsp;&nbsp;terra.com.brSaúde do fígado começa no prato e vai muito além de evitar álcool&nbsp;&nbsp;Revista Ana MariaAcordar com boca amarga, barriga",
+      "sources": [
+        {
+          "name": "Rádio Itatiaia",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcmYxM2h6SUhEajl5ZmRYbmtRbkNpc2w1MmNlMFF0eFVjZjdCa2tvRkxIalRxbXVUSjlUeC1LbktCNmp2TnFialM5b0xhMHo2X3g4dkE4YXhUX2ZKd1FHenhxMXpMT3NreFlReUthbnUzNmJPMEVCekdDcWJ0Ny0xLVhlOTh5VzlqMEJQUUozZW1xVjM0MGlpSzlxZ2ZjTWs?oc=5"
         }
       ]
@@ -30,14 +90,26 @@
       ]
     },
     {
-      "id": "cdd31764ebc4",
-      "title": "Pesquisadores encontram fóssil de Bauruchus de 85 milhões de anos - OExtra.net",
-      "published": "2026-07-31T18:13:01+00:00",
-      "summary": "Pesquisadores encontram fóssil de Bauruchus de 85 milhões de anos&nbsp;&nbsp;OExtra.net",
+      "id": "29609658cae5",
+      "title": "Filha de um trabalhador diarista, ela estudou sozinha de quatro a cinco horas por dia sem nunca pagar cursinho, tirou 478 pontos de 500 e terminou em primeiro lugar do estado inteiro na prova final do ensino médio - CPG Click Petróleo e Gás",
+      "published": "2026-07-31T18:42:00+00:00",
+      "summary": "Filha de um trabalhador diarista, ela estudou sozinha de quatro a cinco horas por dia sem nunca pagar cursinho, tirou 478 pontos de 500 e terminou em primeiro lugar do estado inteiro na prova final do ensino médio&nbsp;&nbsp;CPG Click Petróleo e Gás",
       "sources": [
         {
-          "name": "OExtra.net",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSmFfenRTdDRoVnhZSFFjdjFRWjBSOFJSUURGb2x3b3BTOFJsY1B4TzVLMFRVUzlldFBnWURhS0MwUzhCMUpQSmFEZmplMzZET1VMR1FuTnl5WnFVTXZwTzI2SkRkdC1obG9rYXk5MUsyQjRoOTZMZGtQajFnXy0zOG54YkZvc1hPMGJOeXRyYmxqcW1j?oc=5"
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOM0M5M29GcHNpSDNJcDB3cEFHR0doaktta3ZSMkVhYzE3eFVLNHllUDFJdEVTYWcwWFhrUGlaV1Uya2NnS3hDazFoekJycERIZWd2Nmd2clFhZmJjdGcxMXFtN3ZqZGNLeTlJQXdDZExacTNSZUNzeGk2LW1GZ2J3YzlZaElZVndMUC01SkN2bWVlRnF5NGw3T1NhR2JTUUk3amZ4Vl9KNFZWUGpHUkNiZHVPdXQwal9VbmEtMUdoVkdJajNfazhCY2ZrcC1ISm5VWldkWVl3VHNhYm5jUG1SVG5SbkpQdlNOaDY5NUlmWV9INzFReWNIWUFIWXhDbUoyVnhnV0hNSlR5UlBkQnQ0YVZQUF8tRlJPc25TUXhHN2xleUFKR28yX2d3MXdmUjBvZWlUcHR2cjkxLTNzSF9DOGkzeDNpZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b4e689fd2861",
+      "title": "Triângulo da morte: caso de influenciador mostra perigo de apertar espinhas - CNN Brasil",
+      "published": "2026-07-31T17:22:45+00:00",
+      "summary": "Triângulo da morte: caso de influenciador mostra perigo de apertar espinhas&nbsp;&nbsp;CNN BrasilInfluencer internado espremeu espinha no 'triângulo da morte'; veja riscos&nbsp;&nbsp;UOLInfluenciador faz alerta após ser internado por espremer espinha no rosto #BalançoGeral #Shorts&nbsp;&nbsp;record.r7.comDo inchaço extremo à recuperação: veja o antes e depois do 'Ken de CG' após infecção ao espremer espinha&nbsp;&nbsp;G1Triângulo da morte: espremer espinha no rosto pode causar infecção&nbsp;&nbs",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWUY2R0lfWHNDaEg3M1RKd0syTVVqNk9XeUIzOVBpUFF1Tl9IRDhQTDA4UGJWc25xX2IyeDkxYjZYdVFwMTlXaWxHeHZILUhKODAwOEtPemIwLVhSVHFmS240LXZLekZodENuTDlSZDRMUWw0NDNLY1p6YXdsV2FBd1Vfb1Y3T1RDM2VwMUsyTlFqeE5lcTI2d3ZhRTQ4Qk81WDRJbXFkNVRvdGZud3dF?oc=5"
         }
       ]
     },
@@ -66,25 +138,13 @@
       ]
     },
     {
-      "id": "bdbb01429507",
-      "title": "Explosão da Bomba de Hiroshima criou material nunca antes visto, descobre estudo - Globo",
-      "published": "2026-07-31T15:00:17+00:00",
-      "summary": "Explosão da Bomba de Hiroshima criou material nunca antes visto, descobre estudo&nbsp;&nbsp;Globo",
-      "sources": [
-        {
-          "name": "Globo",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUFhrMkhaQUZ1WWxZLS1HM1pVSUtFekp1ZVowcHRyaklYa2RSOFl0b1UzYXRYTmZCQ3FDLXh5M1lGUk9lZjVVSmd2U1Q2bUVzc0MzNjhRVjYzTUFYY2lINTZWQkZKWTcyN3JQRm1qNzhhUVBwcGtCb2xsNlgtWmlleUp3aFNrYTBIWDNWcVFvYXVaWnlSSm82T3o3V1V3WDZWQ1NzcXJlRXBLdFYzd1I5V3VLeXctekQ0S3Jna0lsRzVlZlVmRW5nbnhIVUlaSm9XWWQ3VU9kQXg4UdIB6AFBVV95cUxNOEcwSm41aFFTelRVSkNPTFZxclJwNExaRktkMUFiTFdWWlFyaGhITWlDbDZoTklJZ2N1T3NjVXVucXpPQjktczdaekF5MnRfMFI2dlZqZWRCWkszUGtvdUlvV04weHRsWTdyQTZTek5XRWZuN2VDbmNyUW5aeFNtdmFSTjZtanpUR3ViMi1udkFaUG5Wd3lSR3JDcWlzZWowVzBaRVRiZ2VxQTBGMDEtMmF6OU1jd19zQ0Rfal9tZkJHYmJaNzBkZDluT3BFMnZWQllSLWJtVmM0MC13d2V3aUpaZ1pXcG8w?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "80f8cb98069e",
-      "title": "Idade fisiológica de quem vive com HIV pode superar a real em até 13 anos, aponta relatório - folha.uol.com.br",
+      "id": "b6db28aff57b",
+      "title": "Idade fisiológica de quem vive com HIV pode superar a real em até 13 anos, aponta relatório - Folha de S.Paulo",
       "published": "2026-07-31T15:00:00+00:00",
-      "summary": "Idade fisiológica de quem vive com HIV pode superar a real em até 13 anos, aponta relatório&nbsp;&nbsp;folha.uol.com.brA nova face do HIV indica que o desafio agora é envelhecer bem&nbsp;&nbsp;iG SaúdeEnvelhecimento com HIV: vírus acelera idade&nbsp;&nbsp;ES HojeA geração que sobreviveu ao HIV agora enfrenta um novo desafio: envelhecer&nbsp;&nbsp;Agência AidsAIDS 2026: HIV e envelhecimento: cognição, sarcopenia e depressão&nbsp;&nbsp;Afya | Home",
+      "summary": "Idade fisiológica de quem vive com HIV pode superar a real em até 13 anos, aponta relatório&nbsp;&nbsp;Folha de S.PauloA nova face do HIV indica que o desafio agora é envelhecer bem&nbsp;&nbsp;iG SaúdeEnvelhecimento com HIV: vírus acelera idade&nbsp;&nbsp;ES HojeA geração que sobreviveu ao HIV agora enfrenta um novo desafio: envelhecer&nbsp;&nbsp;Agência AidsAIDS 2026: HIV e envelhecimento: cognição, sarcopenia e depressão&nbsp;&nbsp;Afya | Home",
       "sources": [
         {
-          "name": "folha.uol.com.br",
+          "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMjlTNXR0QzQ5SHhyaFF3dFB2X1ZFaE5JZXdWTEItT3hCZzY0ZmhfTlE2U2FPODlYNl9LTjJKTGNOLWRJQkwxVFdjNFlha3lYSGQtdVlidjBIUUcwS0FUX2xHNTV3aFFmb2daZWppaU4zZWcwRUIzSHZRT0pJbzBLV3Y2bGk5TXc2cGlJeEpjUHBMN1JmX2tlZDBYcWNDbldVbWhmLUpoYVRzQUQtSkt6S2NnbEVTSHQ5NFg3M3VSblhnVlNFbHBUem5fanFEWlpybGxHY1dyU3oza2psb2hzQ1cwVno4dw?oc=5"
         }
       ]
@@ -93,7 +153,7 @@
       "id": "73f9f901e5b6",
       "title": "Gordura e falta de vitamina D juntas dobram risco de morte após os 50 anos - CNN Brasil",
       "published": "2026-07-31T14:45:33+00:00",
-      "summary": "Gordura e falta de vitamina D juntas dobram risco de morte após os 50 anos&nbsp;&nbsp;CNN BrasilCombinação de gordura abdominal e falta de vitamina D mais que dobra risco de morte após 50 anos&nbsp;&nbsp;folha.uol.com.brGordura abdominal e baixa vitamina D dobram risco de morte após os 50&nbsp;&nbsp;MetrópolesObesidade abdominal e falta de vitamina D dobram o risco de morte após os 50, aponta estudo&nbsp;&nbsp;viva.com.brTer gordura na barriga e nível baixo de vitamina D multiplica riscos de saú",
+      "summary": "Gordura e falta de vitamina D juntas dobram risco de morte após os 50 anos&nbsp;&nbsp;CNN BrasilCombinação de gordura abdominal e falta de vitamina D mais que dobra risco de morte após 50 anos&nbsp;&nbsp;Folha de S.PauloObesidade abdominal e falta de vitamina D dobram o risco de morte após os 50, aponta estudo&nbsp;&nbsp;viva.com.brTer gordura na barriga e nível baixo de vitamina D multiplica riscos de saúde&nbsp;&nbsp;DIARINHOGordura abdominal e falta de vitamina D mais que dobram risco de mort",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -102,13 +162,13 @@
       ]
     },
     {
-      "id": "71e34a739ca6",
-      "title": "Gordura no fígado: saiba qual fruta pode fornecer nutrientes e benefícios - ICL Notícias",
+      "id": "5a189f092363",
+      "title": "Gordura no fígado: saiba qual fruta pode fornecer nutrientes e benefícios - iclnoticias.com.br",
       "published": "2026-07-31T14:13:48+00:00",
-      "summary": "Gordura no fígado: saiba qual fruta pode fornecer nutrientes e benefícios&nbsp;&nbsp;ICL Notícias",
+      "summary": "Gordura no fígado: saiba qual fruta pode fornecer nutrientes e benefícios&nbsp;&nbsp;iclnoticias.com.br",
       "sources": [
         {
-          "name": "ICL Notícias",
+          "name": "iclnoticias.com.br",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TRTljR0Y2SUkxa3MzYm1WbEU1bGViQkZtbXBVNlFnM21hRmpwNkZJWHFjVjNYQW9yZUItbnctLTQ2VlQ4dVRmLWM5Rl9NNEFWU1ZrR2gyYzRBc05kQ2RWSzJDQ19taEwtSHI0QkY3NA?oc=5"
         }
       ]
@@ -174,18 +234,6 @@
       ]
     },
     {
-      "id": "c326dc03644f",
-      "title": "Influencer está internado após espremer espinha no “triângulo da morte” - Brasil 247",
-      "published": "2026-07-31T11:33:00+00:00",
-      "summary": "Influencer está internado após espremer espinha no “triângulo da morte”&nbsp;&nbsp;Brasil 247Influencer internado espremeu espinha no 'triângulo da morte'; veja riscos&nbsp;&nbsp;UOLTriângulo da morte: caso de influenciador mostra perigo de apertar espinhas&nbsp;&nbsp;CNN BrasilInfluenciador faz alerta após ser internado por espremer espinha no rosto #BalançoGeral #Shorts&nbsp;&nbsp;R7Do inchaço extremo à recuperação: veja o antes e depois do 'Ken de CG' após infecção ao espremer espinha&nbsp;&n",
-      "sources": [
-        {
-          "name": "Brasil 247",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLVl5SjNIY1NzcVluMDlhZHBfVEI4OExJenRyNGJFX0VyWEpBbEdDVk9zRjZuX2ZvLWNpYU4taGRRcmdHNk41LWJxa1BFRU1kSkw5bjQ2b3ZaQWpZWTdCUXZoNDRxdkVfZlpSRHhHYjhLMnZ5RmdJLVRJWjJPTktlU2xNd3VTaTdjeEhJOGhXNXc1SVBOOEpQaXlMcURNeEZUOGE5Tg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "adc26150dba4",
       "title": "Cirurgia robótica devolve vida após 4 anos com mioma gigante - Campo Grande News",
       "published": "2026-07-31T10:38:00+00:00",
@@ -237,7 +285,7 @@
       "id": "b109a0dd73ec",
       "title": "Médicos explicam os 10 exames que podem revelar doenças silenciosas - Tribuna Online",
       "published": "2026-07-31T08:00:00+00:00",
-      "summary": "Médicos explicam os 10 exames que podem revelar doenças silenciosas&nbsp;&nbsp;Tribuna OnlineMédica recomenda check-up a partir dos 25 anos para prevenção de doenças&nbsp;&nbsp;Agora RNO brasileiro ainda espera adoecer para agir&nbsp;&nbsp;O NORTÃOCheck-up médico é o melhor recurso de quem busca saúde&nbsp;&nbsp;vejario.abril.com.br",
+      "summary": "Médicos explicam os 10 exames que podem revelar doenças silenciosas&nbsp;&nbsp;Tribuna OnlineMédica recomenda check-up a partir dos 25 anos para prevenção de doenças&nbsp;&nbsp;Agora RNO brasileiro ainda espera adoecer para agir&nbsp;&nbsp;O NORTÃOCheck-up médico é o melhor recurso de quem busca saúde&nbsp;&nbsp;VEJA RIO",
       "sources": [
         {
           "name": "Tribuna Online",
@@ -258,13 +306,13 @@
       ]
     },
     {
-      "id": "8a5c01251e8e",
-      "title": "Fiji registra explosão de casos de HIV impulsionada por metanfetamina - folha.uol.com.br",
+      "id": "a1e65ab453ef",
+      "title": "Fiji registra explosão de casos de HIV impulsionada por metanfetamina - Folha de S.Paulo",
       "published": "2026-07-31T07:00:00+00:00",
-      "summary": "Fiji registra explosão de casos de HIV impulsionada por metanfetamina&nbsp;&nbsp;folha.uol.com.brA volta do fantasma da AIDS no mundo e o aumento de casos no Brasil - O Assunto #1773&nbsp;&nbsp;G1MSF e organizações da sociedade civil debatem como ampliar acesso a medicamento revolucionário de prevenção ao HIV&nbsp;&nbsp;Médicos Sem FronteirasNúmero de novos casos de HIV cai em todo o mundo desde 2010, mas cresce no Brasil&nbsp;&nbsp;Estadão\"Onde está o dinheiro?\" Marcha denuncia cortes na respos",
+      "summary": "Fiji registra explosão de casos de HIV impulsionada por metanfetamina&nbsp;&nbsp;Folha de S.PauloA volta do fantasma da AIDS no mundo e o aumento de casos no Brasil - O Assunto #1773&nbsp;&nbsp;G1MSF e organizações da sociedade civil debatem como ampliar acesso a medicamento revolucionário de prevenção ao HIV&nbsp;&nbsp;Médicos Sem FronteirasNúmero de novos casos de HIV cai em todo o mundo desde 2010, mas cresce no Brasil&nbsp;&nbsp;EstadãoHIV, avanços e desafios&nbsp;&nbsp;A Tribuna",
       "sources": [
         {
-          "name": "folha.uol.com.br",
+          "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNczFYNDNVMGZkVmQtaE04ckl6U2FTcWM5b00yLWZxWkl0cWY3NWtieVhYZ3NoR21kRDc1OE93NTdDNkVQamNWSzVlSjBxYldubXVpTGEwSVNKcG5kQUhDRDMyM3V1WXRwdUVOaVhLWHJOaXNHaFRrNWdDTFhycEJfWndoNzVJVTRRdENKSGJhRml6VWxoZjZBWGUzcG5zMDhGS2lnNFJpVkpudExSTWhnektmNUk4UDdHNUFVQUdTN0MxSUR1eko2MDRNY0xjSzZ3OWlNaQ?oc=5"
         }
       ]
@@ -273,7 +321,7 @@
       "id": "e259d25dc5df",
       "title": "Usar testosterona sem indicação médica está associado a mais infarto, AVC e morte, mostra maior estudo já feito sobre o tema - G1",
       "published": "2026-07-31T06:02:42+00:00",
-      "summary": "Usar testosterona sem indicação médica está associado a mais infarto, AVC e morte, mostra maior estudo já feito sobre o tema&nbsp;&nbsp;G1Uso de testosterona sem indicação eleva risco de infarto, AVC e morte&nbsp;&nbsp;MetrópolesO que revelam as necropsias de fisiculturistas mortos após tomar anabolizantes&nbsp;&nbsp;O POVOUso de anabolizantes cresce 700% e acende alerta sobre disfunção erétil e perda de libido | SEGS Portal...&nbsp;&nbsp;SEGS Portal NacionalO impacto silencioso do uso de anabol",
+      "summary": "Usar testosterona sem indicação médica está associado a mais infarto, AVC e morte, mostra maior estudo já feito sobre o tema&nbsp;&nbsp;G1Elixir da juventude? Aumento no uso da testosterona preocupa especialistas: quem pode utiliza-la e quem não pode?&nbsp;&nbsp;O GLOBOUso de testosterona sem indicação eleva risco de infarto, AVC e morte&nbsp;&nbsp;MetrópolesO que revelam as necropsias de fisiculturistas mortos após tomar anabolizantes&nbsp;&nbsp;O POVOO impacto silencioso do uso de anabolizante",
       "sources": [
         {
           "name": "G1",
@@ -290,6 +338,18 @@
         {
           "name": "Metrópoles",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tQkRWNXZ1QUJieXNiLUxIVnF0TEpIUXpOcVZGREU1OTlDNVo3T2pzM2YtdDFXQWtrWFN0T3FscEZTWmN0aEgxTlVyVVdHT29ZWFlGVU5lclZHWkJ3WVp5SUlVT1I0LU5Ya2k4ZDZPOG10cDA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1dd8c66c576f",
+      "title": "Descoberto há 130 anos, raio-X continua revolucionando a medicina - Metrópoles",
+      "published": "2026-07-31T05:00:00+00:00",
+      "summary": "Descoberto há 130 anos, raio-X continua revolucionando a medicina&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ObWJPd3phbDJvbkJxUHBpVm1HMTZzY2RSS3pJdjhpX1hOWkhZOGZnSndVSUZKd3Nqc253bE4zN3lrdlRycTUwQ1RwclQ1Qk4yaWtFN3lUbUkwQk51Zm1oZFFHbjlEaGJvN29rV0o4Y1pTZ3czN1g2VXhCTEpVUE0?oc=5"
         }
       ]
     },
@@ -330,6 +390,18 @@
       ]
     },
     {
+      "id": "0f93bb2b6a0c",
+      "title": "Opinião - Laura Muller: Sinais de alerta para manter a saúde sexual - Folha de S.Paulo",
+      "published": "2026-07-30T21:30:00+00:00",
+      "summary": "Opinião - Laura Muller: Sinais de alerta para manter a saúde sexual&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWEJPRjhwcnhXRURTa2NvSlVscU9pVllFMzBnNHE1RXJIbWNCQzBmWi04RFFQeFVJRFBaWmFiTmVsVTVBTzdaYXBBOGh4ckM0dVJBT3dWamczNTVtS1NGd2JURC1yaWNrcUVHUVRjZThHbVN5T0t4TTR4MGxodlFOU0JvZk9oeEw0LXFzUl9GZEp3SEdkTW1GNENWdkRvWER0SUFnVzZuTnpQZHU4?oc=5"
+        }
+      ]
+    },
+    {
       "id": "9c7c811d91ef",
       "title": "Tomar café todo dia tem benefícios diferentes para cada faixa etária - Metrópoles",
       "published": "2026-07-30T21:05:00+00:00",
@@ -342,14 +414,14 @@
       ]
     },
     {
-      "id": "07e9a1098e05",
-      "title": "DNA da varíola é recuperado de múmias da época da conquista espanhola - UOL",
-      "published": "2026-07-30T20:59:55+00:00",
-      "summary": "DNA da varíola é recuperado de múmias da época da conquista espanhola&nbsp;&nbsp;UOLDNA de vírus da varíola é detectado em múmias chilenas do século 16&nbsp;&nbsp;folha.uol.com.brCientistas acham DNA de vírus da varíola europeu em múmias chilenas de 500 anos&nbsp;&nbsp;O GLOBOChile: ADN de múmias antigas mostra que colonização levou varíola às Américas&nbsp;&nbsp;Euronews.comDNA da varíola é recuperado de múmias da época da conquista espanhola Por Reuters&nbsp;&nbsp;Investing.com Brasil - Finanç",
+      "id": "60d30454c57a",
+      "title": "Como DNA de múmias virou a prova da chegada de uma das doenças mais mortais da história à América - Estadão",
+      "published": "2026-07-30T21:00:00+00:00",
+      "summary": "Como DNA de múmias virou a prova da chegada de uma das doenças mais mortais da história à América&nbsp;&nbsp;Estadão",
       "sources": [
         {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZy1PZ1d1NDl1ZDB4THRZSF9UQkllaWk1c3dxWHNhMHdGNzdBejAxMjlwMjc3UklsUFFQTHFXbGtoUFNVd3F3cU5mZEV1VWI5ckRncFU0YU5WdXJIMXFFSWRySmRzZ092Rk5TU25NVmVUZFBjYS1kbE9yWjVpRVYxTXNlT2dPaFhwMGZ1Y09YZnpacTJ4Wl9WTEdCTm9uMkhiTGwxd29kbGlIRTlJOUV2eTYtRC1nbWtScV9NcGtoeXNYWmZ4RXFvdg?oc=5"
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZjh5elNVWlJrSzdZcTdOaTFfV0FmQjg1T25aYU9VV2NYbFlEa0ZjQVJFZG9XdXB4R3FFVTRKZUk4a3hHSEF2Vl83VFg1VXBfVTl6TjNZb2NqenJXR0pTalh5LTNoOGVwOTFjWE8zVzdBaDczNFlYSlJ2V0R3b2dpRTNrT3hJZWtXUDJQSXBoX01kX0MwazRrb3E0Y1VJYjV1ZHJWYmszNng3bVQ5czdUM2RxdXl5blBlNE5rOEdZT0x5RVdQVjlsLXZHZmZCQdIB0wFBVV95cUxPN1VFalZnN2pVdVRzRDVKOVFjYmMySDc1Nktzd05WcHlUc0paVVZuVGpFR2FyNFVqRlpyV3RhU0VmVnhqeFhwbmYtRHJKenIwSTVpRWRpNWxMcHg5dkFKeWxmQmFLN2NqVDBJRU5BdTZVdlFtbExwY3huc0txR1YwVnA0MDVydVNwTnVmX2l0UVJwaGkwNDhvUlo5VGV2Q1RzMVo5SnAxaUg4WXgwZ3lXZkt1WjgwLUVrSUJ1RWNmczlyd2staGZFbl9RcjJQYVJYSVJj?oc=5"
         }
       ]
     },
@@ -366,13 +438,13 @@
       ]
     },
     {
-      "id": "b7bb6d27a254",
-      "title": "Rio Preto inicia campanha de multivacinção nesta segunda-feira - diariodaregiao.com.br",
+      "id": "c6d2477c8765",
+      "title": "Rio Preto inicia campanha de multivacinção nesta segunda-feira - Diário da Região",
       "published": "2026-07-30T19:14:00+00:00",
-      "summary": "Rio Preto inicia campanha de multivacinção nesta segunda-feira&nbsp;&nbsp;diariodaregiao.com.brCampanha de Multivacinação 2026 para&nbsp;&nbsp;Prefeitura de ManausSarampo: Campinas tem 11,8 mil crianças com vacina pendente e fará busca ativa&nbsp;&nbsp;G1Vacinação infantil: 5 cuidados para fortalecer o sistema imunológico das crianças&nbsp;&nbsp;CartaCapitalSorocaba integra Campanha de Multivacinação para menores de 15 anos; ação também terá 2º reforço da vacina VIP contra poliomielite para cria",
+      "summary": "Rio Preto inicia campanha de multivacinção nesta segunda-feira&nbsp;&nbsp;Diário da RegiãoSão Luís inicia Campanha Nacional de Multivacinação entre 3 de agosto e 1º de setembro&nbsp;&nbsp;G1Vacinação infantil: 5 cuidados para fortalecer o sistema imunológico das crianças&nbsp;&nbsp;cartacapital.com.brSorocaba integra Campanha de Multivacinação para menores de 15 anos; ação também terá 2º reforço da vacina VIP contra poliomielite para crianças de 4 anos – Agência de Notícias&nbsp;&nbsp;Prefeitura",
       "sources": [
         {
-          "name": "diariodaregiao.com.br",
+          "name": "Diário da Região",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS3dhUG5KUWpfUG5xNW1Xc1BrZE5pMVNFamZncGZpdl9QVkozOVM0X05Dc2k3cURSQnRPOFdRVVkwMzVYeWh1aG9IejltLW9GZGUza0w4ejMxQ0JQNXd4Z01aa29CaHhSQVo3Snl0S2trS1lUeUd4djhRWVFUdy1hdjl0MUl1R0p5MWxwQjRNcWRldWdlRnlzMnFrNUIxcDBuTGZDOTNR?oc=5"
         }
       ]
@@ -390,50 +462,14 @@
       ]
     },
     {
-      "id": "affc9f4e4320",
-      "title": "Médica transforma conhecimento tradicional sobre o barbatimão em pesquisa científica - O Pantaneiro",
-      "published": "2026-07-30T18:02:00+00:00",
-      "summary": "Médica transforma conhecimento tradicional sobre o barbatimão em pesquisa científica&nbsp;&nbsp;O Pantaneiro",
-      "sources": [
-        {
-          "name": "O Pantaneiro",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOVMxRFFZSUxTZnpBejA4TnpmQTBjbTBKMFBNbmZ1WHB1SUs3ZzRJeUpRekVnLU8zUGVwbTN1VnZLMFdBRGhRZTZaLUc4MjQ4VndkVF9ZUVFkQ243ZkVSdFhJX3AycEMwUkJ1ZGtwN0NiZFJSWDhUdGs1N0N5RjVlMXRhSXlFT1NyRnMzckFrUHJjR1l3eWsyQUd4eG9nOFdRY0VibFl6WEFiWFo5S1N1dVhn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "010e3a895718",
       "title": "O sintoma do Parkinson que muita gente ignora e pode surgir antes dos tremores - Jornal Correio",
       "published": "2026-07-30T16:54:48+00:00",
-      "summary": "O sintoma do Parkinson que muita gente ignora e pode surgir antes dos tremores&nbsp;&nbsp;Jornal CorreioParkinson além do tremor: os sinais silenciosos que ajudam a antecipar o diagnóstico&nbsp;&nbsp;TerraAmanda Meirelles esclarece mitos sobre o Parkinson no Fala Doutor da Record News&nbsp;&nbsp;O Universo da TVParkinson: “Uns terão sintomas ao longo de anos e outros podem evoluir mais rápido”, diz médica do ICS&nbsp;&nbsp;ICS – Instituto Curitiba de SaúdeOs primeiros sinais da Doença de Parkins",
+      "summary": "O sintoma do Parkinson que muita gente ignora e pode surgir antes dos tremores&nbsp;&nbsp;Jornal CorreioParkinson além do tremor: os sinais silenciosos que ajudam a antecipar o diagnóstico&nbsp;&nbsp;terra.com.brAmanda Meirelles esclarece mitos sobre o Parkinson no Fala Doutor da Record News&nbsp;&nbsp;O Universo da TVParkinson: “Uns terão sintomas ao longo de anos e outros podem evoluir mais rápido”, diz médica do ICS&nbsp;&nbsp;ICS – Instituto Curitiba de SaúdeOs primeiros sinais da Doença de ",
       "sources": [
         {
           "name": "Jornal Correio",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT2M4V2haX3FiV1hMeVNKaVBKdnl1UnVVUlRPeGpuVmpSN1hjMUtrRnVoNE9IMFRDalFnOXlCOGJNbUFaQVl3UFZsZlFUdl9vZE92RXlnbE5Gb3RJZm5Tbm5lMmF1LXhzeTZ2Y2NyRFNob21VYllrOXJKQUg1TmZmRThwcmlQbnFBRUlZX1BCXzMyZDV6RlYtX3BnZkxfQ2xQVjZUdGxxUmxpU1l0enFveVh6UHhnc0dBSl9kVFVIb1A?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "45c0df54e6a3",
-      "title": "Anvisa aprova medicamento para hipertensão pulmonar — Agência Nacional de Vigilância Sanitária - Anvisa - www.gov.br",
-      "published": "2026-07-30T15:28:00+00:00",
-      "summary": "Anvisa aprova medicamento para hipertensão pulmonar — Agência Nacional de Vigilância Sanitária - Anvisa&nbsp;&nbsp;www.gov.brAnvisa aprova medicamento para doença que causa falta de ar e cansaço&nbsp;&nbsp;VEJAAnvisa aprova novo medicamento para hipertensão pulmonar; saiba mais&nbsp;&nbsp;CNN BrasilAprovados remédios para hipertensão pulmonar e doença autoinflamatória&nbsp;&nbsp;AMM | Associação Mineira de MunicípiosAnvisa aprova remédio para tratar hipertensão pulmonar em adultos&nbsp;&nbsp;ita",
-      "sources": [
-        {
-          "name": "www.gov.br",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNU2FISmN4Y0dVQjE2bzAxeUxGblI0UUN0Q1lHZkZjYjdVd3oyUWxQRERVSGhPLS1uNENkS1gwYWZLcC1zU0JLODJxenVqWEhaRG0xOUVoTHM3ZlF4RHhPengtaVRiV3AxRW5EZkhXZUw0NnJ3bG5jTi03aDlkOV9QM3F0UGlzR29kUWkwUmJZUmppeW1TZ2g0QmF4WlpVMnVWc2hkaGlVeGlRODdZSzl1bzlyUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "84466906710e",
-      "title": "'Minha dor de cabeça de 10 dias era um câncer cerebral terminal' - G1",
-      "published": "2026-07-30T08:52:58+00:00",
-      "summary": "'Minha dor de cabeça de 10 dias era um câncer cerebral terminal'&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQREhudnJ1dmhDcjlhV1FYc2ZuU2ZEWkFmSjJHWlh5Rzl1Sm84UVJOSGRUM2RUa0JQSll6Vk9QQjMzXy12VlpFTWg1WG5NLUdneW83a2FmWUR2REpuaEJrQnk5d1p2cVVMb25sa0tuQ1VOT1lJVFVDdkFReDVqN1dnU0I3NWVGTUhaODBYYi14ZTBONUZtdHFiMDZteVU4ajNFdjRRZUxrMXVnelYwTG1sdEdoUWnSAcMBQVVfeXFMT0NGbndpeXpfNi03VW5QOWdCVEwxUmwyamRuT0xOM1F3Wjg4MWhjaFZqTnZaYnVEcXF0WWVxdWZJR0t5U3ZMaXhsVl9wSTNzWG5objd4dnBQdkxVS1pFcktqQmVvRXUxSEJUVklydGptZHNqZlR6M2hsT1U3ckJzSzhQR29nRFByNklsb0lZNWhBU1VqQmVEOVM4RDFTUkJkWS1MaUk0RmEwNlBaWGdaNmhUNEhRUU1oY2ZEem9Qa0ozcDNn?oc=5"
         }
       ]
     }
