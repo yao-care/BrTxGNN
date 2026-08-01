@@ -1,41 +1,7 @@
 {
-  "generated": "2026-08-01T02:56:27.492033+00:00",
-  "count": 32,
+  "generated": "2026-08-01T08:22:51.934914+00:00",
+  "count": 30,
   "news": [
-    {
-      "id": "8be81f6490a1",
-      "title": "As mãos invisíveis que sustentam a Universidade - Jornal da USP",
-      "published": "2026-07-31T20:06:00+00:00",
-      "sources": [
-        {
-          "name": "Jornal da USP",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLTZIR3dITjFwcDhfRy05dkdJM0VjakMweGNEQ3RkOGhqQmplSjgtREhlYTZ6Mm9EZmtlSFFGR1UtWUFkblVCRjdnMU04alhoUW9rRWx1THVvTEY5WV9Fb1ZuS3FSV0VJNThiSG5PZmFLRzNWYk80Qy1tRkZpa2ZBMGYzeEs?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "levetiracetam",
-          "keyword": "TAM",
-          "name": "LEVETIRACETAM",
-          "url": "/drugs/levetiracetam/"
-        },
-        {
-          "type": "drug",
-          "slug": "diazepam",
-          "keyword": "UNI",
-          "name": "Diazepam",
-          "url": "/drugs/diazepam/"
-        },
-        {
-          "type": "drug",
-          "slug": "zinc",
-          "keyword": "UNI",
-          "name": "ZINC",
-          "url": "/drugs/zinc/"
-        }
-      ]
-    },
     {
       "id": "cdd31764ebc4",
       "title": "Pesquisadores encontram fóssil de Bauruchus de 85 milhões de anos",
@@ -54,6 +20,26 @@
           "name": "SILODOSINA",
           "url": "/drugs/silodosina/"
         },
+        {
+          "type": "drug",
+          "slug": "etodolaco",
+          "keyword": "DORE",
+          "name": "ETODOLACO",
+          "url": "/drugs/etodolaco/"
+        }
+      ]
+    },
+    {
+      "id": "0fb626658e21",
+      "title": "Aos 27 anos, jovem troca Madrid por uma aldeia com apenas 9 moradores, compra casa centenária por € 6 mil, reduz as compras do mês para cerca de € 50 e revela por que teve mais medo de permanecer na cidade do que recomeçar do zero no campo - CPG Click Petróleo e Gás",
+      "published": "2026-07-31T17:31:00+00:00",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPX085cWZMb3RFNmtoWXhqR2t2TWxja25NeEt4V1hHa2NnR2NyOHBuejBvMnlNYy1Vc1VtNWpGQnBNdEdKMWtqbkE5dUNqSTF3RFJ2NFBKLUFxMnduM2NqSTVvUkhtZ1BYV01fX1lnQTQ4VEVmc0tpX0lQQk9zdDRkNHNOMG9LRTFpc1VDU2dyUjhQWFRYWFYzeEJCamJmZWI5VHdkREZLM1VJY1hCT0VMaGhZWnZWeW4xTU50VGhGM1VWakZ0VnpkMjc4Zk5EQnhuTW1xcEI5OVNXTWJJakdkamJ2OVplaDcxUzJYV0hJSEFnY3Znc3dXOUxYNDYweElOUC1kQlpBS1ExMkg5Zkt2RzNTY2R1SUFrMUZMUi1uOGk1MjFyWlV3QVdPT2dybEFMRWlFUTU0R016NHpnVWgxQ25TUzIzeTA?oc=5"
+        }
+      ],
+      "keywords": [
         {
           "type": "drug",
           "slug": "etodolaco",
@@ -165,12 +151,12 @@
       ]
     },
     {
-      "id": "b6db28aff57b",
-      "title": "Idade fisiológica de quem vive com HIV pode superar a real em até 13 anos, aponta relatório - Folha de S.Paulo",
+      "id": "80f8cb98069e",
+      "title": "Idade fisiológica de quem vive com HIV pode superar a real em até 13 anos, aponta relatório",
       "published": "2026-07-31T15:00:00+00:00",
       "sources": [
         {
-          "name": "Folha de S.Paulo",
+          "name": "folha.uol.com.br",
           "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMjlTNXR0QzQ5SHhyaFF3dFB2X1ZFaE5JZXdWTEItT3hCZzY0ZmhfTlE2U2FPODlYNl9LTjJKTGNOLWRJQkwxVFdjNFlha3lYSGQtdVlidjBIUUcwS0FUX2xHNTV3aFFmb2daZWppaU4zZWcwRUIzSHZRT0pJbzBLV3Y2bGk5TXc2cGlJeEpjUHBMN1JmX2tlZDBYcWNDbldVbWhmLUpoYVRzQUQtSkt6S2NnbEVTSHQ5NFg3M3VSblhnVlNFbHBUem5fanFEWlpybGxHY1dyU3oza2psb2hzQ1cwVno4dw?oc=5"
         }
       ],
@@ -877,12 +863,12 @@
       ]
     },
     {
-      "id": "a1e65ab453ef",
-      "title": "Fiji registra explosão de casos de HIV impulsionada por metanfetamina - Folha de S.Paulo",
+      "id": "8a5c01251e8e",
+      "title": "Fiji registra explosão de casos de HIV impulsionada por metanfetamina",
       "published": "2026-07-31T07:00:00+00:00",
       "sources": [
         {
-          "name": "Folha de S.Paulo",
+          "name": "folha.uol.com.br",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNczFYNDNVMGZkVmQtaE04ckl6U2FTcWM5b00yLWZxWkl0cWY3NWtieVhYZ3NoR21kRDc1OE93NTdDNkVQamNWSzVlSjBxYldubXVpTGEwSVNKcG5kQUhDRDMyM3V1WXRwdUVOaVhLWHJOaXNHaFRrNWdDTFhycEJfWndoNzVJVTRRdENKSGJhRml6VWxoZjZBWGUzcG5zMDhGS2lnNFJpVkpudExSTWhnektmNUk4UDdHNUFVQUdTN0MxSUR1eko2MDRNY0xjSzZ3OWlNaQ?oc=5"
         }
       ],
@@ -980,26 +966,6 @@
               "name": "DIGOXIN"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "8739fbc47074",
-      "title": "A relação entre o El Niño e a frente de rajada, fenômeno que causou ventos de mais de 120 km/h no Brasil",
-      "published": "2026-07-31T03:00:57+00:00",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMlZmUjNqaFc3V2RNWHJiMzhnei0wTlYyRFBFNF9sZVlPaWxlUXM5UXptTEFjelN3dWlPSXZ2VGRZOEpYdmtwQzdEeW91S0VHU091N2hHNkcyTmhKWjM1NzRrSzk1SndaZUhYd3dkRWxGRi1GdDJ1bW5Sd3hQbWlMejgtb2xBUHlSUmVWOHVpU1IzNTluaXdQVXlxdllxdzZpeUlqbnhZcC1QZTY0QWlOUzllVlV3QlJJVjl5Z0RFNThoemtXX0NFYjlHOGViMm81SnNYZUlCR1g5dkUzNUlvdFVCU1hkal9aZ2EydDVQaklOOHNTbFHSAYQCQVVfeXFMT2RDSVdseXZIU21pWWxHbXJFSnRqUDNJclA5WDBoRnFYRlRZOWlsVjRUWWZHaWU5dW1rcFpPUldTRXMzWmpSem1BS1pUMUlBQ21DX0ZBQ00zazNhbVNiWmxtNXZkcDRpVFY0aW05VkQxMjlQclJZNEVKSEpTazBnbGcwUG8wbEZpRGtVLUtUN096eUFBbzRyX3VWWm01SXlLX0dlMFY4M2tmUWQtZWJ0MU9CNUtOSDFBQjYzb1l5UmNpUEZJZXlDUkFzbFE5b3VtQUpvT25pc2lqbWZfdXdKc1dsM1pNQWRnb0RNellZZGxnUkpsdEVuTmVNbld4dVN3NmRQRHY?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
         }
       ]
     },
@@ -1104,12 +1070,12 @@
       ]
     },
     {
-      "id": "c6d2477c8765",
-      "title": "Rio Preto inicia campanha de multivacinção nesta segunda-feira - Diário da Região",
+      "id": "b7bb6d27a254",
+      "title": "Rio Preto inicia campanha de multivacinção nesta segunda-feira",
       "published": "2026-07-30T19:14:00+00:00",
       "sources": [
         {
-          "name": "Diário da Região",
+          "name": "diariodaregiao.com.br",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS3dhUG5KUWpfUG5xNW1Xc1BrZE5pMVNFamZncGZpdl9QVkozOVM0X05Dc2k3cURSQnRPOFdRVVkwMzVYeWh1aG9IejltLW9GZGUza0w4ejMxQ0JQNXd4Z01aa29CaHhSQVo3Snl0S2trS1lUeUd4djhRWVFUdy1hdjl0MUl1R0p5MWxwQjRNcWRldWdlRnlzMnFrNUIxcDBuTGZDOTNR?oc=5"
         }
       ],
@@ -1192,33 +1158,6 @@
       ]
     },
     {
-      "id": "914a8d4b6ab1",
-      "title": "Guarda Municipal muda identificação de armas e endurece regras de porte em SC - ND Mais",
-      "published": "2026-07-30T16:24:57+00:00",
-      "sources": [
-        {
-          "name": "ND Mais",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcDMyTFVIUlEyNG1jb2FpeHlZVW1DOFJxbnc5Sl9aaGJ4ZTdhU3ZMWU8tMDNpX2dQTlJqRVdaUjdkOUM3aWtzTXYyQ2hHb0dlUmVGT21IY1g1UUY3eWVORDZGbTd4RWNhOU1xNTdhdHRvQ2hMRkdEZmo1OU5uN2tuRWUyY3p0M0NOWjh2anZYcFZPcmRfenF5WUxfdDZwbUlSa0RIRGdiejhiQUdBQkptWGxVWVRsODA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "diazepam",
-          "keyword": "UNI",
-          "name": "Diazepam",
-          "url": "/drugs/diazepam/"
-        },
-        {
-          "type": "drug",
-          "slug": "zinc",
-          "keyword": "UNI",
-          "name": "ZINC",
-          "url": "/drugs/zinc/"
-        }
-      ]
-    },
-    {
       "id": "45c0df54e6a3",
       "title": "Anvisa aprova medicamento para hipertensão pulmonar — Agência Nacional de Vigilância Sanitária - Anvisa",
       "published": "2026-07-30T15:28:00+00:00",
@@ -1280,13 +1219,13 @@
       ]
     },
     {
-      "id": "a22f49cf978e",
+      "id": "84466906710e",
       "title": "'Minha dor de cabeça de 10 dias era um câncer cerebral terminal'",
-      "published": "2026-07-30T08:35:00+00:00",
+      "published": "2026-07-30T08:52:58+00:00",
       "sources": [
         {
-          "name": "agazeta.com.br",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTGxpMFcyeTNhUlMxUHFqeTlsTjhIYzhmRG9fMEVtX1VUNm1kMmswWUFlVUI5akFyc0pGR25GdmtYSURxT0t0UEo4YW1OWEtUd2ltRi1oNVM1a0p0OXNEM1BJOUhsREZJSG9lU01HcktKMGc0QXFCTG44T1hwYm9mQ0R0N1FGaG1NRHlUMm5TLVRtSlpVcWZncUF0alByWTZfdXc?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQREhudnJ1dmhDcjlhV1FYc2ZuU2ZEWkFmSjJHWlh5Rzl1Sm84UVJOSGRUM2RUa0JQSll6Vk9QQjMzXy12VlpFTWg1WG5NLUdneW83a2FmWUR2REpuaEJrQnk5d1p2cVVMb25sa0tuQ1VOT1lJVFVDdkFReDVqN1dnU0I3NWVGTUhaODBYYi14ZTBONUZtdHFiMDZteVU4ajNFdjRRZUxrMXVnelYwTG1sdEdoUWnSAcMBQVVfeXFMT0NGbndpeXpfNi03VW5QOWdCVEwxUmwyamRuT0xOM1F3Wjg4MWhjaFZqTnZaYnVEcXF0WWVxdWZJR0t5U3ZMaXhsVl9wSTNzWG5objd4dnBQdkxVS1pFcktqQmVvRXUxSEJUVklydGptZHNqZlR6M2hsT1U3ckJzSzhQR29nRFByNklsb0lZNWhBU1VqQmVEOVM4RDFTUkJkWS1MaUk0RmEwNlBaWGdaNmhUNEhRUU1oY2ZEem9Qa0ozcDNn?oc=5"
         }
       ],
       "keywords": [
