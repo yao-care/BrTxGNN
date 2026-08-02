@@ -1,19 +1,31 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-08-01T19:10:04.089078+00:00",
-  "total_fetched": 96,
-  "unique_count": 94,
-  "health_related_count": 42,
+  "fetched_at": "2026-08-02T02:55:24.091608+00:00",
+  "total_fetched": 86,
+  "unique_count": 85,
+  "health_related_count": 34,
   "news": [
     {
       "id": "a5268c09af78",
       "title": "Brasileira celebra 126 anos, pode ser a mulher viva mais velha do mundo e impressiona pela longevidade, saúde e disposição, mesmo após mais de um século de vida - CPG Click Petróleo e Gás",
-      "published": "2026-08-01T13:27:00+00:00",
+      "published": "2026-08-01T13:34:46+00:00",
       "summary": "Brasileira celebra 126 anos, pode ser a mulher viva mais velha do mundo e impressiona pela longevidade, saúde e disposição, mesmo após mais de um século de vida&nbsp;&nbsp;CPG Click Petróleo e Gás",
       "sources": [
         {
           "name": "CPG Click Petróleo e Gás",
           "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPREtjQU5nRi1QTndEbDdQWWhreVRXSFpXaW04NkpIdmZ2QlBBT0hPOThsc2ZhRU5GNm03a2dTS1RtTWJvRVV4V2FMdG9DOUNLRXBfOFA0WWluVEVNNkZHM2hRNHVfYW52b3ZGMUNkWkg3SENtR19VcXZ5ZTlMbmdDQWdqZEsyNHU2ZDdYMS11Snc0a1VYdzRxdnVscFZPdHJKWkprbnF3RG92WWk2cG82RnowSWpCYkQ1a0Q0V0JRT1JVTnpheHJHRml2dFRKQWxIVlAwdFNCSHQ3QldIZFdaS25YOEU1OWJjTFY0OWZTbjFydXJ0ckVvS3drT0I5U3RxUThfai1vSUswRHJDeGZ5NnQ2c0JZdEx2eGpGSldwVlpoLWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "864754b4a098",
+      "title": "Segundo a psicologia, conferir imediatamente quem curtiu uma foto pode não ser vaidade, mas uma busca silenciosa por aprovação e pertencimento - Super Rádio Tupi",
+      "published": "2026-08-01T13:30:33+00:00",
+      "summary": "Segundo a psicologia, conferir imediatamente quem curtiu uma foto pode não ser vaidade, mas uma busca silenciosa por aprovação e pertencimento&nbsp;&nbsp;Super Rádio Tupi",
+      "sources": [
+        {
+          "name": "Super Rádio Tupi",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQSXhrVVNsQURpVExvRkJkZ0R3Tmg1dEhCbTdUNHNNdjdxNzM2LVRfYUVJcVdZR3hRZzFYWk5BaURaWldBb2l0aG1RLVRwNThKSGg3QkZMV1ZaUVEtMHhBT2xSSzdaaVZxaHhna3R2eDdSZEhHT2pQeTdZbkItZ25QVktmbExJT1JlSTEzZHBYMFZnNGdneHNFZkgzTzN3ZVgzQjVET2VmcDF2d1p4MkVHalRkZ3owbVdVdnZPcEFfOVp2RDBZN1NPczFNM2VOck5GUm5FOFdCUjdPNUhXblBNdTVsN2d2bEZNaXJ1dUNaUFllajZnMDBLOTNtNVZDaHJaZ0gyNE91aw?oc=5"
         }
       ]
     },
@@ -30,14 +42,26 @@
       ]
     },
     {
-      "id": "8ea7ec14206a",
-      "title": "Os melhores e os piores hábitos para o fígado - Estadão",
+      "id": "3a72439597c5",
+      "title": "Os melhores e os piores hábitos para o fígado - estadao.com.br",
       "published": "2026-08-01T13:00:00+00:00",
-      "summary": "Os melhores e os piores hábitos para o fígado&nbsp;&nbsp;EstadãoGordura no fígado: médico aponta sintomas, causas e como prevenir&nbsp;&nbsp;Rádio ItatiaiaA barriga inchada e persistente não se deve apenas a gordura localizada, mas sim em alguns casos ao depósito de gordura no fígado que pede urgente avaliação&nbsp;&nbsp;Tua SaúdeGordura no fígado mudou de nome e virou alerta mundial; entenda os riscos da MASLD&nbsp;&nbsp;TerraSaúde do fígado começa no prato e vai muito além de evitar álcool&nbs",
+      "summary": "Os melhores e os piores hábitos para o fígado&nbsp;&nbsp;estadao.com.brGordura no fígado: médico aponta sintomas, causas e como prevenir&nbsp;&nbsp;Rádio ItatiaiaGordura no fígado mudou de nome e virou alerta mundial; entenda os riscos da MASLD&nbsp;&nbsp;TerraSaúde do fígado começa no prato e vai muito além de evitar álcool&nbsp;&nbsp;Revista Ana MariaJulho Amarelo: Mais comum que as hepatites, gordura no fígado exige mudanças no estilo de vida, alerta especialista&nbsp;&nbsp;Bahia Recôncavo",
       "sources": [
         {
-          "name": "Estadão",
+          "name": "estadao.com.br",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSE5WMUNNSTJTR1QzS1RpaG5DWW5KejRJM0YxTDNOT21FSzlRUFp1X09qT094TXVULTVjOTVTLTRBQ1k1aEJfakJWSjhzQmU1VDlHM2lMLWQ5aE9najVwR0JTZWJoTGFhVTVjX29UQTZ4VlR0M09ONnVaR0ZveUNGSGtLaVJhLUR0RmNaeXpUcGhPVGwxOU9BN2w0TGxGNkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4951743c3206",
+      "title": "Do campo para a luta: lenda do rúgbi derruba o tabu do HIV no esporte - UOL",
+      "published": "2026-08-01T12:30:00+00:00",
+      "summary": "Do campo para a luta: lenda do rúgbi derruba o tabu do HIV no esporte&nbsp;&nbsp;UOLPobreza e racismo dificultam combate ao HIV no Brasil&nbsp;&nbsp;G1Desinformação sobre HIV dificulta tratamento e aumenta preconceito&nbsp;&nbsp;TásabendoEstigma do HIV pode causar 440 mil mortes, alerta pesquisa&nbsp;&nbsp;ISTOÉ IndependentePesquisa internacional mostra que preconceito pode custar milhares de vidas&nbsp;&nbsp;grandefm.com.br",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORVROb01vM3hBRFBzMjYxQnZ6M0g0cGxvcmFMWGNHNl92NUtsYmVCRDhWdVhHWEpYQzRtU3BqVzZEZnF6WVFTaVB5REpweWhRbE1iQTVGYmtkSW9tOXdUZ1ZQNWk0SzlRVk1jRTBROHRHZkhCcGRvQ25OajkwYWZ4cmdjeGsyY1h0dUNnOS1uamZXcklfbmxCcnhBS0pMemx4QjczR1RnUQ?oc=5"
         }
       ]
     },
@@ -54,10 +78,22 @@
       ]
     },
     {
+      "id": "39fb3905c4fe",
+      "title": "RS está entre as regiões do mundo com maior risco de tornados - Agora No Vale",
+      "published": "2026-08-01T10:18:52+00:00",
+      "summary": "RS está entre as regiões do mundo com maior risco de tornados&nbsp;&nbsp;Agora No Vale",
+      "sources": [
+        {
+          "name": "Agora No Vale",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYUVUc2lFdGh3cm5pVlBqRXRJMUlGbDdWOV80WU5Hd1N2a0cxSk9RR1k0RnZpRTFtUzJDSEhIdU1KZFA4ODFodFAwYnNoWVdHZ1FKYmpEalItbWo0WnVROVdabWVod2d2LXJueDRPeTNnTVRQWXhYVXlIdjVaVTFTeXdlOTN3TWwwcDU5Zk1ROG1SS0M4V2laYWxQMA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "8f47126eb786",
       "title": "DF tem 45 pontos de vacinação neste sábado (1º/8); veja lista - Metrópoles",
       "published": "2026-08-01T09:21:00+00:00",
-      "summary": "DF tem 45 pontos de vacinação neste sábado (1º/8); veja lista&nbsp;&nbsp;MetrópolesDF oferece vacinação em 45 pontos neste sábado com doses contra várias doenças&nbsp;&nbsp;R7DF tem campanha de multivacinação neste sábado; veja endereço, doses e o que levar&nbsp;&nbsp;G1Distrito Federal terá 51 pontos de vacinação neste sábado (25)&nbsp;&nbsp;GPS BrasíliaDF inicia agosto com 45 pontos de vacinação neste sábado&nbsp;&nbsp;Correio Braziliense",
+      "summary": "DF tem 45 pontos de vacinação neste sábado (1º/8); veja lista&nbsp;&nbsp;MetrópolesDF oferece vacinação em 45 pontos neste sábado com doses contra várias doenças&nbsp;&nbsp;noticias.r7.comDF inicia agosto com 45 pontos de vacinação neste sábado&nbsp;&nbsp;Correio BrazilienseCampanha de multivacinação vai a shopping neste sábado (25)&nbsp;&nbsp;Agita BrasíliaDf terá 45 locais de vacinação neste sábado&nbsp;&nbsp;jornaldebrasilia.com.br",
       "sources": [
         {
           "name": "Metrópoles",
@@ -66,38 +102,38 @@
       ]
     },
     {
-      "id": "8e2a1c26e049",
-      "title": "Dr Kalil: O que causa queda de cabelo? Endocrinologista enumera condições - CNN Brasil",
+      "id": "1e6490200616",
+      "title": "Dr Kalil: O que causa queda de cabelo? Endocrinologista enumera condições - cnnbrasil.com.br",
       "published": "2026-08-01T09:00:25+00:00",
-      "summary": "Dr Kalil: O que causa queda de cabelo? Endocrinologista enumera condições&nbsp;&nbsp;CNN BrasilUso das canetas emagrecedoras inauguram uma nova frente da dermatologia&nbsp;&nbsp;ELLE BrasilOzempic, Wegovy e Mounjaro fazem o cabelo cair? Especialista explica o que realmente provoca a queda dos fios&nbsp;&nbsp;Jornal CorreioCanetas emagrecedoras e queda de cabelo: estudo lança luz sobre esse possível efeito&nbsp;&nbsp;VEJAQueda de cabelo após emagrecimento rápido acende alerta para deficiências nu",
+      "summary": "Dr Kalil: O que causa queda de cabelo? Endocrinologista enumera condições&nbsp;&nbsp;cnnbrasil.com.brUso das canetas emagrecedoras inauguram uma nova frente da dermatologia&nbsp;&nbsp;ELLE BrasilOzempic, Wegovy e Mounjaro fazem o cabelo cair? Especialista explica o que realmente provoca a queda dos fios&nbsp;&nbsp;Jornal CorreioCanetas emagrecedoras e queda de cabelo: estudo lança luz sobre esse possível efeito&nbsp;&nbsp;VEJAQueda de cabelo após emagrecimento rápido acende alerta para deficiênc",
       "sources": [
         {
-          "name": "CNN Brasil",
+          "name": "cnnbrasil.com.br",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM3loOEs4d0J1SWFkS05CWkhwTG96bkRYQnRybVJ4U1VZdkRlY09RWTJvZGRUaDlHb1NockpwWWRiZHNBd1BobDI3ZDBsN3hoZ1dMU0VUVEx3SklQM2l2X3dfUVNwZElhMTFiNkNIUnB0eE5TSVJkcHJIbGNmSU83dUV2Q2dpMU5aaGE4dVRtRlZULUM0QXE2TjdiODU1OUJoZ0FhUlJYRnRRNGc?oc=5"
         }
       ]
     },
     {
-      "id": "4951743c3206",
-      "title": "Do campo para a luta: lenda do rúgbi derruba o tabu do HIV no esporte - UOL",
-      "published": "2026-08-01T08:30:00+00:00",
-      "summary": "Do campo para a luta: lenda do rúgbi derruba o tabu do HIV no esporte&nbsp;&nbsp;UOLPobreza e racismo dificultam combate ao HIV no Brasil&nbsp;&nbsp;G1Desinformação sobre HIV dificulta tratamento e aumenta preconceito&nbsp;&nbsp;TásabendoEstigma do HIV pode causar 440 mil mortes, alerta pesquisa&nbsp;&nbsp;ISTOÉ IndependentePesquisa internacional mostra que preconceito pode custar milhares de vidas&nbsp;&nbsp;Rádio Grande FM",
+      "id": "c5e74c99d23d",
+      "title": "Perdeu peso com as canetas emagrecedoras? Veja como cuidar da flacidez da pele - O GLOBO",
+      "published": "2026-08-01T07:15:08+00:00",
+      "summary": "Perdeu peso com as canetas emagrecedoras? Veja como cuidar da flacidez da pele&nbsp;&nbsp;O GLOBO\"Rosto de Ozempic\"? Tratamento ou cirurgia resolve o problema&nbsp;&nbsp;TerraQuais são as 5 cirurgias plásticas mais procuradas no Brasil&nbsp;&nbsp;em.com.brEmagrecimento acelerado exige cuidados com a pele, alerta especialista&nbsp;&nbsp;News RondôniaO \"efeito pós-caneta\" amplia a busca por cuidados com firmeza da pele e fortalecimento dos fios capilares&nbsp;&nbsp;Correio dos Municípios",
       "sources": [
         {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORVROb01vM3hBRFBzMjYxQnZ6M0g0cGxvcmFMWGNHNl92NUtsYmVCRDhWdVhHWEpYQzRtU3BqVzZEZnF6WVFTaVB5REpweWhRbE1iQTVGYmtkSW9tOXdUZ1ZQNWk0SzlRVk1jRTBROHRHZkhCcGRvQ25OajkwYWZ4cmdjeGsyY1h0dUNnOS1uamZXcklfbmxCcnhBS0pMemx4QjczR1RnUQ?oc=5"
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVUd3Z0V3aFB0V0t1ODFTWkZhOWJJX3hDVjRhUmpjN0lRczhYSlJyMUttTVByY0ZFak51c1hJaG15c0N5QldHTGlmb2VWZ0wxNWhUZlV2NThYRzA4R0FEalZQV2pOek9RUTJuc3pwYVZGNnRFblplaU01UnVTcE9rbks5ZzlKckdmQ09kOUptLWFyVXJFN2owdHhYenRkcDJDUEM1WlNmZlFmQTVxS2tLeVhHdi14ZEx6dEhQVk9hTzZ3M1RBVUdLcDFBd9IB2gFBVV95cUxOcWJnTEp6TWFzRUtaNHZpTTRrX0xqUUdiSkRJQ1NaeklpZmFFNGJ4aUxvT0NURmstRmJ5bUwxS3dKQkpIVHdLcXJhNHpMbjFjSkJHaGYzS0lISndUazgtTmFreVFxS0JQcVRhUnRRRVRSMmV1MHlBMHlqU0tKSmtwYkdrRTBzYkp4OXVOUWY5Z1NCc0pkeFVqUW9xWXF6VFRDc1ZURE5xclNQTVJlNXlHb2JVdWw3R2NxeHVUQjlWSkFZNHhwb2pPcUdyNUdka1o5Y2hhZlpBQkNvZw?oc=5"
         }
       ]
     },
     {
-      "id": "562372013d56",
-      "title": "Alimento comum pode reduzir risco de câncer de intestino em até 20%; saiba qual - ICL Notícias",
-      "published": "2026-08-01T08:00:17+00:00",
-      "summary": "Alimento comum pode reduzir risco de câncer de intestino em até 20%; saiba qual&nbsp;&nbsp;ICL Notícias",
+      "id": "2c6f1f14a883",
+      "title": "Nem todo cansaço e esquecimento na menopausa é culpa dos hormônios - Globo.com",
+      "published": "2026-08-01T07:02:09+00:00",
+      "summary": "Nem todo cansaço e esquecimento na menopausa é culpa dos hormônios&nbsp;&nbsp;Globo.comPesquisa sobre menopausa de médico sorocabano ganha destaque&nbsp;&nbsp;jornalcruzeiro.com.brSintomas da perimenopausa ainda são pouco compreendidos&nbsp;&nbsp;Correio do PovoNão pode fazer terapia hormonal na menopausa? Especialistas explicam quais são as alternativas&nbsp;&nbsp;Jornal CorreioMenopausa vai além das ondas de calor, alerta ginecologista&nbsp;&nbsp;Terra",
       "sources": [
         {
-          "name": "ICL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE41Mk1YVnpJVzFCYmE0STEwbGJZTkxiSzJYRkRlVWh3TGdDSVJmZzExVnBxb29TandyMjhsdkQ5ZUp5VEVzejZycEl4ZWx3UWZUbFh5ODJIQlNKYy1NeGlpRHFGNkdYckxkN24zX2Z3MXE1MXVTbUxNdGlzMA?oc=5"
+          "name": "Globo.com",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOR21zb1lqY0doV01ucF9SMS1HQkR5d2o2ZmtMN0JRbnhPV19teHYzc2R1Zm1GT09CbmdIbmZIQlBmb3FXRXRqMllqSFVwUno5RVpkMVBvSnZCMldCSHU2cUhnUUUyOVpLOVdCd0pWR1NYX21JR3dLN1NCdlJtS1NEZ0pYc2RtM01jTnMyN1g0b01KNmN6cDZ2YS1COGFGVmxXX3FkUVliNzloVFFUMzlsRS1qY1JtQWExMW9CMHp6TdIBzgFBVV95cUxPRW9SbFlndmJqbGZqSks5NnU2Y0J2WS1lRk40V09RYWxYQU96V3FfcHhXWXFqcVY0aFFkdXlZcFFra0tELTAwc2JDMFRfVGZTMEt0WUFiSlg2X3FIRl9UOW9jVzY2RlVUZEppa2Z1WGpsbkNhd18yQUIwZ3dSU09QRFU1QTIxZ0gyRmluS2xERzJVZHdNS0ExZHN3MllhYTB2eldtSFBHTWo4Tkh3TnFvZGtUSm5HeGhPRGF4YmJ3dDQ2Ukp0SUYwZjM5ZkYwdw?oc=5"
         }
       ]
     },
@@ -105,7 +141,7 @@
       "id": "49cbc0b1ae86",
       "title": "Comer menos proteínas pode trazer benefícios à saúde e prolongar expectativa vida, sugere revisão de mais de 350 estudos - G1",
       "published": "2026-08-01T07:01:52+00:00",
-      "summary": "Comer menos proteínas pode trazer benefícios à saúde e prolongar expectativa vida, sugere revisão de mais de 350 estudos&nbsp;&nbsp;G1Pesquisadores concluem que consumo elevado de proteínas não é saudável. Veja orientação&nbsp;&nbsp;Gazeta do PovoQuanto de proteína você precisa por dia?&nbsp;&nbsp;Tribuna OnlineA obsessão pela proteína e o sumiço das fibras no prato do brasileiro&nbsp;&nbsp;saude.abril.com.brA moda do 'alto teor de proteína' funciona para todos? Entenda os debates na ciência&nbs",
+      "summary": "Comer menos proteínas pode trazer benefícios à saúde e prolongar expectativa vida, sugere revisão de mais de 350 estudos&nbsp;&nbsp;G1Pesquisadores concluem que consumo elevado de proteínas não é saudável. Veja orientação&nbsp;&nbsp;Gazeta do PovoQuanto de proteína você precisa por dia?&nbsp;&nbsp;Tribuna OnlineA obsessão pela proteína e o sumiço das fibras no prato do brasileiro&nbsp;&nbsp;Veja SaúdeA moda do 'alto teor de proteína' funciona para todos? Entenda os debates na ciência&nbsp;&nbsp;",
       "sources": [
         {
           "name": "G1",
@@ -126,6 +162,18 @@
       ]
     },
     {
+      "id": "f4d50a7ad43b",
+      "title": "Anos após parar de fumar, um exame de rastreamento de câncer de pulmão ajudou a salvar sua vida - Folha de S.Paulo",
+      "published": "2026-08-01T07:00:00+00:00",
+      "summary": "Anos após parar de fumar, um exame de rastreamento de câncer de pulmão ajudou a salvar sua vida&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTGdhaW81Mk8yOXQ5QWI1d3dSTDdscE1Wd1c5TjVtRmQzTW5fZnhrNk5BQ3N0bDlScFRldGlNa1hqZ0djTDJtcnVzRk5ld1N3RlZqX2FvdWFlVUVhUnp1TTBjNk5hRHdmWEFlc0otcW9ObGtJYzhVYUdXcGp1Zm40cEF5T1didDNVNjVKbFZjLWpjRURtZldJeU9uNXJhcEI0Z09pN2sxX3VYb0pWdzhXUHR5ZGktMFlzYmczNllmZmUyajFtdGR5WFJyZEpZY1pqLWdzT2tQeWlxekVLOFVNZXA1bjhLUFA2bG9F?oc=5"
+        }
+      ]
+    },
+    {
       "id": "fc178a0fab4a",
       "title": "Fraqueza, visão alterada ou fala enrolada por poucos minutos pode ser um breve ataque cerebral com consequências duradouras - Tua Saúde",
       "published": "2026-08-01T07:00:00+00:00",
@@ -138,13 +186,13 @@
       ]
     },
     {
-      "id": "92ab8e89ce0e",
-      "title": "Passar muito tempo online está entristecendo as pessoas, aponta pesquisa - CNN Brasil",
+      "id": "bce2006ad980",
+      "title": "Passar muito tempo online está entristecendo as pessoas, aponta pesquisa - cnnbrasil.com.br",
       "published": "2026-08-01T06:50:16+00:00",
-      "summary": "Passar muito tempo online está entristecendo as pessoas, aponta pesquisa&nbsp;&nbsp;CNN Brasil",
+      "summary": "Passar muito tempo online está entristecendo as pessoas, aponta pesquisa&nbsp;&nbsp;cnnbrasil.com.br",
       "sources": [
         {
-          "name": "CNN Brasil",
+          "name": "cnnbrasil.com.br",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNlJqVGtMSmV5Y1haTUl4T3pTX0dfaVBBVHhLTGVPWEVNUWEyZEJ1YWRwMXVNUUMzUGNSX0NTYlpTNHJuV29aVGZ4MF9feERvUEdKai1MZzd5Ul9BbGZxcEFEYkZLOXlKdlY4WnN6TkpHTTFQSWR0SUxzSVh4T25jcXJscWtzekppS2xYdjFmV0pjeHhYTi1ieEJGd0NTZDNUc2s0dDBSSFZnZDg?oc=5"
         }
       ]
@@ -165,7 +213,7 @@
       "id": "bb58953ab3bd",
       "title": "Elixir da juventude? Aumento no uso da testosterona preocupa especialistas: quem pode utiliza-la e quem não pode? - O GLOBO",
       "published": "2026-07-31T19:45:05+00:00",
-      "summary": "Elixir da juventude? Aumento no uso da testosterona preocupa especialistas: quem pode utiliza-la e quem não pode?&nbsp;&nbsp;O GLOBOUso de testosterona sem indicação eleva risco de infarto, AVC e morte&nbsp;&nbsp;MetrópolesUso de anabolizantes cresce 700% e acende alerta sobre disfunção erétil e perda de libido | SEGS Portal...&nbsp;&nbsp;SEGS Portal NacionalO impacto silencioso do uso de anabolizantes na paternidade&nbsp;&nbsp;Eu, Rio!TESTOSTERONA VAI USAR? CONSULTE UM MÉDICO&nbsp;&nbsp;caieira",
+      "summary": "Elixir da juventude? Aumento no uso da testosterona preocupa especialistas: quem pode utiliza-la e quem não pode?&nbsp;&nbsp;O GLOBOUso de testosterona sem indicação eleva risco de infarto, AVC e morte&nbsp;&nbsp;MetrópolesUso de anabolizantes cresce 700% e acende alerta sobre disfunção erétil e perda de libido | SEGS Portal...&nbsp;&nbsp;SEGS Portal NacionalO impacto silencioso do uso de anabolizantes na paternidade&nbsp;&nbsp;Eu, Rio!TESTOSTERONA VAI USAR? CONSULTE UM MÉDICO&nbsp;&nbsp;Caieira",
       "sources": [
         {
           "name": "O GLOBO",
@@ -177,7 +225,7 @@
       "id": "fc9872a1eb0d",
       "title": "Brasília recebe caminhada pela visibilidade do lipidema neste domingo (2) - Correio Braziliense",
       "published": "2026-07-31T19:23:00+00:00",
-      "summary": "Brasília recebe caminhada pela visibilidade do lipidema neste domingo (2)&nbsp;&nbsp;Correio BrazilienseConfundido com obesidade, lipedema é tema de 1ª caminhada de conscientização em Sorocaba&nbsp;&nbsp;G1Repórter da Globo mostra pés inchados e desabafa sobre lipedema: \"Mais ativo do que nunca\"&nbsp;&nbsp;NSC TotalILIB Terapia: técnica com luz de baixa potência auxilia no combate ao Lipedema&nbsp;&nbsp;Portal Você OnlineLipedema: por que o diagnóstico ainda demora&nbsp;&nbsp;Terra",
+      "summary": "Brasília recebe caminhada pela visibilidade do lipidema neste domingo (2)&nbsp;&nbsp;Correio BrazilienseConfundido com obesidade, lipedema é tema de 1ª caminhada de conscientização em Sorocaba&nbsp;&nbsp;G1ILIB Terapia: técnica com luz de baixa potência auxilia no combate ao Lipedema&nbsp;&nbsp;Portal Você OnlineKerline Cardoso desabafa sobre diagnóstico de lipedema e rotina de treinos&nbsp;&nbsp;redetv.uol.com.brLipedema: por que o diagnóstico ainda demora&nbsp;&nbsp;Terra",
       "sources": [
         {
           "name": "Correio Braziliense",
@@ -186,37 +234,25 @@
       ]
     },
     {
-      "id": "d8928bb08b9f",
-      "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento - Estadão",
+      "id": "694384ac509e",
+      "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento - estadao.com.br",
       "published": "2026-07-31T19:20:00+00:00",
-      "summary": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento&nbsp;&nbsp;Estadão",
+      "summary": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento&nbsp;&nbsp;estadao.com.br",
       "sources": [
         {
-          "name": "Estadão",
+          "name": "estadao.com.br",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORGtTM3JMa1VLYXI4WkViNjJMbUNTZWxDcTNpVmdndkVBUFVFQllFRWVQTWlSODVTb3ZyR25ZQWVXdl9BdUlaYTRTNzFZLWxWWktkRnhRNC1yMklPbk1YT1NhYi1NOFQ0WlJtNGVSQWFFNnZHYWtCUHhsRFFfaVAxLTI4b0d0LVdGTXE2SG9EUEZxaFg3eGlxYXVpMi1MWFFnb3k0a2xQcEx6UkhrY3d2SVJPTE43c1RtVDhEaHRrTdIBxAFBVV95cUxQRk1rYzV2M2l3Y2xfdEtlSW54aVlvS3lqaTJOVW9NTXJ0VXlSNjRCa3BZY0plYjNhQWNuZkNHZ2pzY2xHNE9La0RiMEVlWGZwUWlqTFZ0RURsYjEtMDdSclplWlN4WXBDVTA5NUVSYU94RHFYWXRXOUZOQUhlZVVHSUNlY2JLZ3ByMGxxb3FRd0l0VTJ0NHVNYkFoeG8zSUt3YmI5aHJrSDd5RjdjdVY0U3poTWhZeHU4M09WUml6TkQtNFNB?oc=5"
         }
       ]
     },
     {
-      "id": "29609658cae5",
-      "title": "Filha de um trabalhador diarista, ela estudou sozinha de quatro a cinco horas por dia sem nunca pagar cursinho, tirou 478 pontos de 500 e terminou em primeiro lugar do estado inteiro na prova final do ensino médio - CPG Click Petróleo e Gás",
-      "published": "2026-07-31T18:42:00+00:00",
-      "summary": "Filha de um trabalhador diarista, ela estudou sozinha de quatro a cinco horas por dia sem nunca pagar cursinho, tirou 478 pontos de 500 e terminou em primeiro lugar do estado inteiro na prova final do ensino médio&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOM0M5M29GcHNpSDNJcDB3cEFHR0doaktta3ZSMkVhYzE3eFVLNHllUDFJdEVTYWcwWFhrUGlaV1Uya2NnS3hDazFoekJycERIZWd2Nmd2clFhZmJjdGcxMXFtN3ZqZGNLeTlJQXdDZExacTNSZUNzeGk2LW1GZ2J3YzlZaElZVndMUC01SkN2bWVlRnF5NGw3T1NhR2JTUUk3amZ4Vl9KNFZWUGpHUkNiZHVPdXQwal9VbmEtMUdoVkdJajNfazhCY2ZrcC1ISm5VWldkWVl3VHNhYm5jUG1SVG5SbkpQdlNOaDY5NUlmWV9INzFReWNIWUFIWXhDbUoyVnhnV0hNSlR5UlBkQnQ0YVZQUF8tRlJPc25TUXhHN2xleUFKR28yX2d3MXdmUjBvZWlUcHR2cjkxLTNzSF9DOGkzeDNpZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b4e689fd2861",
-      "title": "Triângulo da morte: caso de influenciador mostra perigo de apertar espinhas - CNN Brasil",
+      "id": "cf4ee9a67df8",
+      "title": "Triângulo da morte: caso de influenciador mostra perigo de apertar espinhas - cnnbrasil.com.br",
       "published": "2026-07-31T17:22:45+00:00",
-      "summary": "Triângulo da morte: caso de influenciador mostra perigo de apertar espinhas&nbsp;&nbsp;CNN BrasilInfluencer internado espremeu espinha no 'triângulo da morte'; veja riscos&nbsp;&nbsp;UOLInfluenciador faz alerta após ser internado por espremer espinha no rosto #BalançoGeral #Shorts&nbsp;&nbsp;R7Do inchaço extremo à recuperação: veja o antes e depois do 'Ken de CG' após infecção ao espremer espinha&nbsp;&nbsp;G1Triângulo da morte: espremer espinha no rosto pode causar infecção&nbsp;&nbsp;Metrópole",
+      "summary": "Triângulo da morte: caso de influenciador mostra perigo de apertar espinhas&nbsp;&nbsp;cnnbrasil.com.brInfluencer internado espremeu espinha no 'triângulo da morte'; veja riscos&nbsp;&nbsp;UOLInfluenciador faz alerta após ser internado por espremer espinha no rosto #BalançoGeral #Shorts&nbsp;&nbsp;R7Do inchaço extremo à recuperação: veja o antes e depois do 'Ken de CG' após infecção ao espremer espinha&nbsp;&nbsp;G1Triângulo da morte: espremer espinha no rosto pode causar infecção&nbsp;&nbsp;Met",
       "sources": [
         {
-          "name": "CNN Brasil",
+          "name": "cnnbrasil.com.br",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWUY2R0lfWHNDaEg3M1RKd0syTVVqNk9XeUIzOVBpUFF1Tl9IRDhQTDA4UGJWc25xX2IyeDkxYjZYdVFwMTlXaWxHeHZILUhKODAwOEtPemIwLVhSVHFmS240LXZLekZodENuTDlSZDRMUWw0NDNLY1p6YXdsV2FBd1Vfb1Y3T1RDM2VwMUsyTlFqeE5lcTI2d3ZhRTQ4Qk81WDRJbXFkNVRvdGZud3dF?oc=5"
         }
       ]
@@ -237,7 +273,7 @@
       "id": "b6db28aff57b",
       "title": "Idade fisiológica de quem vive com HIV pode superar a real em até 13 anos, aponta relatório - Folha de S.Paulo",
       "published": "2026-07-31T15:00:00+00:00",
-      "summary": "Idade fisiológica de quem vive com HIV pode superar a real em até 13 anos, aponta relatório&nbsp;&nbsp;Folha de S.PauloA nova face do HIV indica que o desafio agora é envelhecer bem&nbsp;&nbsp;iG SaúdeEnvelhecimento com HIV: vírus acelera idade&nbsp;&nbsp;ES HojeA geração que sobreviveu ao HIV agora enfrenta um novo desafio: envelhecer&nbsp;&nbsp;agenciaaids.com.brAIDS 2026: HIV e envelhecimento: cognição, sarcopenia e depressão&nbsp;&nbsp;Afya | Home",
+      "summary": "Idade fisiológica de quem vive com HIV pode superar a real em até 13 anos, aponta relatório&nbsp;&nbsp;Folha de S.PauloA nova face do HIV indica que o desafio agora é envelhecer bem&nbsp;&nbsp;iG SaúdeEnvelhecimento com HIV: vírus acelera idade&nbsp;&nbsp;ES HojeA geração que sobreviveu ao HIV agora enfrenta um novo desafio: envelhecer&nbsp;&nbsp;Agência AidsAIDS 2026: HIV e envelhecimento: cognição, sarcopenia e depressão&nbsp;&nbsp;Afya | Home",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -246,13 +282,13 @@
       ]
     },
     {
-      "id": "73f9f901e5b6",
-      "title": "Gordura e falta de vitamina D juntas dobram risco de morte após os 50 anos - CNN Brasil",
+      "id": "6461ec96e59c",
+      "title": "Gordura e falta de vitamina D juntas dobram risco de morte após os 50 anos - cnnbrasil.com.br",
       "published": "2026-07-31T14:45:33+00:00",
-      "summary": "Gordura e falta de vitamina D juntas dobram risco de morte após os 50 anos&nbsp;&nbsp;CNN BrasilCombinação de gordura abdominal e falta de vitamina D mais que dobra risco de morte após 50 anos&nbsp;&nbsp;Folha de S.PauloObesidade abdominal e falta de vitamina D dobram o risco de morte após os 50, aponta estudo&nbsp;&nbsp;viva.com.brTer gordura na barriga e nível baixo de vitamina D multiplica riscos de saúde&nbsp;&nbsp;DIARINHOGordura abdominal e falta de vitamina D elevam risco de morte em 123%",
+      "summary": "Gordura e falta de vitamina D juntas dobram risco de morte após os 50 anos&nbsp;&nbsp;cnnbrasil.com.brPor que a combinação de gordura abdominal e falta de vitamina D mais que dobra risco de morte após os 50 anos, segundo a ciência&nbsp;&nbsp;Globo.comObesidade abdominal e falta de vitamina D dobram o risco de morte após os 50, aponta estudo&nbsp;&nbsp;viva.com.brTer gordura na barriga e nível baixo de vitamina D multiplica riscos de saúde&nbsp;&nbsp;DIARINHOGordura abdominal e falta de vitamina ",
       "sources": [
         {
-          "name": "CNN Brasil",
+          "name": "cnnbrasil.com.br",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUGYzbkNUNEl0aVVBV2d4WFNfVXd2OGJnY1g0QUhGWkQtN1Q5cS1RVnVWNXVsNmRuNGtIQjJYM3Bsb2Nxdmc0MkV4clNrenRzbUN3bm5LTTNCTEFBT2tMUGVFOXB6WWpEdWJodzNUZlk5XzNxWllCWHRHWVYxNHAyRzQtaG5ENXBRWGx4VGxrUEFXUXhhcUxDVHA3b0ZPdlE2Q01fbG95emlEZHdoRmdj?oc=5"
         }
       ]
@@ -273,23 +309,11 @@
       "id": "647a268dc7a0",
       "title": "Como conseguir remédios para rinite de graça nas farmácias populares no ES - Tribuna Online",
       "published": "2026-07-31T13:37:07+00:00",
-      "summary": "Como conseguir remédios para rinite de graça nas farmácias populares no ES&nbsp;&nbsp;Tribuna OnlineBrasileiros podem retirar remédios para rinite de graça em farmácias particulares&nbsp;&nbsp;BHAZFarmácia Popular garante remédios e itens gratuitos na Drogaria Poupe Já em Araripina&nbsp;&nbsp;blogdorobertoararipina.com.brRemédios para rinite são gratuitos na Farmácia Popular; veja quem tem direito e como retirar&nbsp;&nbsp;diariodopara.com.brFarmácia Popular: aprenda a retirar gratuitamente medi",
+      "summary": "Como conseguir remédios para rinite de graça nas farmácias populares no ES&nbsp;&nbsp;Tribuna OnlineBrasileiros podem retirar remédios para rinite de graça em farmácias particulares&nbsp;&nbsp;bhaz.com.brFarmácia Popular garante remédios e itens gratuitos na Drogaria Poupe Já em Araripina&nbsp;&nbsp;Blog do Roberto GonçalvesRemédios para rinite são gratuitos na Farmácia Popular; veja quem tem direito e como retirar&nbsp;&nbsp;diariodopara.com.brFarmácia Popular: aprenda a retirar gratuitamente m",
       "sources": [
         {
           "name": "Tribuna Online",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNamFOU3FEb0lRa3BSdjJ2Y0dUWUkwRnFSNHFHay1IS1IwUWM0S3AzVUF0NWdzcUhsRXBpNjBMaFB3YVZ6SDViT1NfdF9icWJRQjh0WnBVSHVTN2hwdzlmQWxpbk1PYzBtdmhqQmJpQmFWSDZydjdiTzFxSkRfd3RqMDBFQWYzNG5WMGpsWlNXcGVlMGtoTzRaNC1kQzAtbVhnVHRHd1ZmMHJoaTBTVDdPWUlxeFUwb202M1HSAcIBQVVfeXFMTllIV3BxLWEyUkpjN2ZZN3ZNNkUzZzRyWEhORC1HX2lVdjVkYThmNENETE9tMmo2WFJyQTFpZUMzQjVOd3hFVHliRDVUSmo0TTBjVmVsZlliTTIzSEZtWjNQN3lqQzUzZ0ZfaTIyUjVLOUllbHg2S09DRU1oTnNFbFZfSXFfbWJzUVRnYm5CWllaWnBJem9QeWw0UTdmZEU2clNURkZmSW1jYkdGNzROb3FiY2NkcVZ5Z3Zkc1U3MDFaSWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e505a306f84d",
-      "title": "Ameaça silenciosa em residências, o mofo pode agravar problemas respiratórios; saiba como tratar - Acorda Cidade",
-      "published": "2026-07-31T13:17:46+00:00",
-      "summary": "Ameaça silenciosa em residências, o mofo pode agravar problemas respiratórios; saiba como tratar&nbsp;&nbsp;Acorda CidadeMudanças no clima aumentam risco de doenças respiratórias no inverno&nbsp;&nbsp;G15 hábitos que ajudam a aliviar a rinite nos dias mais secos&nbsp;&nbsp;CLAUDIA - o sentido femininoO perigo invisível do inverno está dentro de casa&nbsp;&nbsp;TerraFrente fria chegando: 7 dicas para proteger sua casa da umidade e mofo&nbsp;&nbsp;Portal UAI",
-      "sources": [
-        {
-          "name": "Acorda Cidade",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMERseEV2bjFSeW1xNDdXMmh4UWREODgySUdnX0JoRExxUzJBWkFnamNKU202MjlKU1lkRVpaMWg1Zl9lX0xHbGd0SlRoMTByMzJSQS1mSmVjREozQzFwdmlEQWhwREF6ckduRTF1RHB1bTRtS2xDNHlreW1jWlFtR2daQ01vb2dfXzF3WVI1Z2dWMk5uRGxXUnctSnJFa3A5MkVlWHAwYjY1VUw4cVlKOVlabXZBMDVDa1l3RDdkM25XTFpWWldpVHVEOURYZw?oc=5"
         }
       ]
     },
@@ -318,86 +342,50 @@
       ]
     },
     {
-      "id": "15a97c7ca751",
-      "title": "SP inicia campanha de multivacinação na 2ª; estado tem 15 casos de sarampo - UOL Notícias",
+      "id": "a39791777906",
+      "title": "SP inicia campanha de multivacinação na 2ª; estado tem 15 casos de sarampo - noticias.uol.com.br",
       "published": "2026-07-31T11:54:59+00:00",
-      "summary": "SP inicia campanha de multivacinação na 2ª; estado tem 15 casos de sarampo&nbsp;&nbsp;UOL NotíciasSecretaria recomenda vacina contra o sarampo em São Paulo, Guarulhos e São Bernardo até para quem já foi imunizado&nbsp;&nbsp;G1População de 6 meses a 59 anos deve se vacinar contra o sarampo em três cidades da Grande São Paulo&nbsp;&nbsp;agenciasp.sp.gov.brPor que até quem já foi vacinado contra o sarampo deve se imunizar novamente em três cidades de SP&nbsp;&nbsp;VEJAO avanço do sarampo&nbsp;&nbsp",
+      "summary": "SP inicia campanha de multivacinação na 2ª; estado tem 15 casos de sarampo&nbsp;&nbsp;noticias.uol.com.brCidades do interior de SP iniciam campanha de vacinação após alerta de sarampo na capital&nbsp;&nbsp;G1População de 6 meses a 59 anos deve se vacinar contra o sarampo em três cidades da Grande São Paulo&nbsp;&nbsp;agenciasp.sp.gov.brApós casos de sarampo, Ministério da Saúde recomenda vacina extra em três cidades de SP&nbsp;&nbsp;CartaCapitalPor que até quem já foi vacinado contra o sarampo d",
       "sources": [
         {
-          "name": "UOL Notícias",
+          "name": "noticias.uol.com.br",
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTlRWRDE5N0J0VDBBTE5PQlZobWNWRG5QRUFmZjJxczVNVUxvZWF4X2Y5Tmh2Q3FTbWM4TmVyLXBONkJQRTlYN0o0U3JCanpyd3ZyWHhZMVNacElnWVZqVkE1WFlISWx1VUFHOWRzN0wwSlIwM093QlU3czl3QTVicnFwSU01dFFsR1lwMU9mcHFPTWdleVdoSU1VMV9nVkVwVjZCcC04dThpT2xvd056MDNpU1ptTFE0cWpIcEU2emVwZWN4UEFBWnkzem45akRyUVhCLThSYmNHcmJSWnhYNDN3?oc=5"
         }
       ]
     },
     {
-      "id": "9d790cb25cf6",
-      "title": "Paciente é a 1ª no mundo a receber terapia contra câncer de ovário avançado - UOL Notícias",
-      "published": "2026-07-31T11:45:30+00:00",
-      "summary": "Paciente é a 1ª no mundo a receber terapia contra câncer de ovário avançado&nbsp;&nbsp;UOL Notícias",
+      "id": "b8c5eb273b85",
+      "title": "Filha de pedreiro e dona de casa da zona rural da menor cidade do Ceará, jovem de 20 anos trabalhava desde as 7h, percorria mais de 70 quilômetros por dia para cursar Odontologia e estudava de madrugada, até ser aprovada em dois cursos de Medicina - CPG Click Petróleo e Gás",
+      "published": "2026-07-31T10:57:00+00:00",
+      "summary": "Filha de pedreiro e dona de casa da zona rural da menor cidade do Ceará, jovem de 20 anos trabalhava desde as 7h, percorria mais de 70 quilômetros por dia para cursar Odontologia e estudava de madrugada, até ser aprovada em dois cursos de Medicina&nbsp;&nbsp;CPG Click Petróleo e Gás",
       "sources": [
         {
-          "name": "UOL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVlJtVFdUMVJHQ042bXlWRkRIRjczQklZcVVMTFJWc1JIN0dMbEZqU3dWMUMwd3lJdFpJQ296T1ZDSmo5Yjdjcjh1dDRiQ3p0Sk5Bd1VWelJ6Q19VRC0yeFBHb3c0aXNyaENlZlpRbWpMd3J3d3hDbmtOWHlWVFNhaDJERE93cHg0VHE4YTVKN0dwQ3lsS0szTTVvNHNfNmtiX1J4QkpRc0RXbkFBcnVKeTg1OGV0OU9yRmFXcFY1Rm9VTFlRZnVSUTRR?oc=5"
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPaUVXeUJTbUZUb3dxWTRqd3JkdWtZV1k3ZVhSdDBTQVhrblhxTVd4TWtvV1dSamtEZ0IzdjF2ODdsUE1IVVphbGFfdkJCaEZ6ZzlYa2tuazZ0dF9LWERqdy1yUXJ0MHEtYmdNZ2V4SFU1TTZ5enZJZEpvSjRFZDM5MmxOenA2cHJHTGk3bDNZQ1c5TGtHTEQ1ck5qTEVjVFFPMXJBeHNSZHV2NkZVcHIzRUFQQ3BuT0EyNmlWcElTVEN0VUJVV1FEYUszaG03R0NFWmlWazRLRkJLNHl0RGpSU1FDaXBNYVA0LWFOY28tM1JBT2x5b3FUaGNLMFZQdHRyTEdnSi1ZWE5KNEJvbWRvNjQxU3dRWkc5T2JaZWJIWUxHX2lUMW0xRlVtZGIxcUhCemRIMDN3bmRZS3VEaHQw?oc=5"
         }
       ]
     },
     {
-      "id": "6c27ea508d4b",
-      "title": "Nem lua, nem planeta? Nova descoberta questiona classificações astronômicas - Superinteressante",
-      "published": "2026-07-31T11:03:07+00:00",
-      "summary": "Nem lua, nem planeta? Nova descoberta questiona classificações astronômicas&nbsp;&nbsp;Superinteressante",
+      "id": "643fc9ba7e00",
+      "title": "A primeira cidade na Lua começa a sair do papel e pode mudar tudo na exploração espacial - Super Rádio Tupi",
+      "published": "2026-07-31T10:40:29+00:00",
+      "summary": "A primeira cidade na Lua começa a sair do papel e pode mudar tudo na exploração espacial&nbsp;&nbsp;Super Rádio Tupi",
       "sources": [
         {
-          "name": "Superinteressante",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdlZBUVQ2LTZoQTRMT1dLc0dLcTc3V19PeG4xekc5amVuazlHN0hEZ3VDSWlWS01MU2Rua00yQW5nY29Cem9CVUU2T08wcWtZVEVMX1J0QUlhdE0wRUZCM3RpQzB2aWZtVFV3OEZBaVdtTGQ4T0drNGN5ZW1rNjlFWXQ5WUVxZ09DdUNQU1M0Zmo3QkNOTWM5aDdGTTZFSmVxOG1VMjhvb2wzampBbk9CaA?oc=5"
+          "name": "Super Rádio Tupi",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQakhQX3VJUURxVWdBY3dvUUkxMFNfWl9sRjJ0ZWt1c25aYlA4UDMyM09aV0RnZHNnYmJxTFdJMl9aLVdzV1BGRDBVMkNJSWlveV9Ud1BfWWgzeWlKWE9UNE5hRURsczVjd19GZ2J1TjN3SXVaMThKNkRUZ0NaZU5lai12bk5GMWVPbjVVREtIUVUwOGhwTFZaYTBHME1TSHdrZllqbGJyblNHY0JNc3JWQkROc1pidw?oc=5"
         }
       ]
     },
     {
-      "id": "f18a398b8ee5",
-      "title": "Sexo como 'cardio'? Entenda o impacto da atividade sexual na saúde física - O TEMPO",
-      "published": "2026-07-31T09:00:00+00:00",
-      "summary": "Sexo como 'cardio'? Entenda o impacto da atividade sexual na saúde física&nbsp;&nbsp;O TEMPO",
-      "sources": [
-        {
-          "name": "O TEMPO",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWlk2a1Mwc3NRWmVDUXY5R2tZcTVCYmljbnV4ZFpVVTVYdXFHbUpaeHNvVlA1SHlsQVBSeWZ0M1dGS1EtcWU2NlVWZHlZRF9wOXlqdGJmS2k0cUhYMzg1WkxiWGhaNjVkWmtLWkJaTGFmaXpWR0dIRVZ3aTJQckR4U1pGTTVuSm1sazNwS3ZyMXZDT0s2TjhPVk9yQWxPXzlySGJWQmlXVE9FdVF3bFRaWVJiU0cybzDSAbwBQVVfeXFMTThxTXpxLTkzY2wtbjFSejdkQW9QR0hJcFdMNnBSVWhNYWN0b3dJU1lfQWRQTkVMZFlzV1NFSXBNR0dOejdxVjNjajFLUC1uUXMyd0o5QjV6QkxYQ1lDUk5Ua19Jd3RlNXFVUnNrN1pabEJFcG1tOXdJemctblhfV3JCaVp4anFZVTRPZDRFd2VHNnRLbEdBR1F0MEdNaWxGZVpiMkRPWGUxcUJMRW8xaTQzVWNCa2dYV0RNOHY?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a645b9057a52",
-      "title": "Mulher descobre doença autoimune que atrofia os pulmões após 11 anos de sintomas: 'Me canso até para tomar banho' - G1",
-      "published": "2026-07-31T08:03:25+00:00",
-      "summary": "Mulher descobre doença autoimune que atrofia os pulmões após 11 anos de sintomas: 'Me canso até para tomar banho'&nbsp;&nbsp;G1Esclerodermia e fibrose pulmonar: ex-enfermeira descobre doença autoimune após 11 anos de sintomas&nbsp;&nbsp;redetv.uol.com.brA enfermeira que levou 11 anos para descobrir fibrose pulmonar causada por doença autoimune&nbsp;&nbsp;Diário do Centro do MundoMulher descobre doença autoimune que atrofia os pulmões após 11 anos de sintomas&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeVZ4Z3RGMk5BZ19oWG5JZC1UOVhZdjVqMnNmdVZGQmZtUGJwcVJqWkctOElOX1FKdjJtR053OVFYVnVGeVVKUUNVa3kxV0NTcmltcWJCRUpiR2V2X0dDZjlWaDlnMTdOMW1LSU41dDNsWVpGa25vZkhNbFJTMkhwdUM0ZldVaGhtTmgtUEFxYmw1b1pUYlB6OXpycHV3RFBzZlJVdERxVXlOR3hjUDM4eHVMMDFUYnRXTlJjUTZIWmw5TXIzTnA0TndIaFljU29sNlV0Nk5tZDkwZDJjWXNVMWpFOGl3bXMyd1pMM2VCd2hBMmFm0gGDAkFVX3lxTE1ldUxZejdLbGVxelNmWk5vZjR3Wk9KTF9QWEJsV01SeHJpNE9kaTBWc2VYMV9QampGeGt5LXZVbjhoQXpGYlU5RUUyd2NlalVudTJ1RWhla0MycjdyMU1EVDI0VThVdEsyNHJ0ZmMwZDZMaUFTZG9fdEtWVGRyYnkzczBZUHZvTUNwdXQ4MGc5RjR4TTdnN2FzSFNfcFotT3dRUWtBNHU2bnkyWmlNZmNoUUJpYUREUFRRY015OTQwQVgybHh4al95SkhpNjdieGlERm1fNEdJWk5CbFRoNC1DbURmczk1a2JxRGxUeGMydE5WMDVHSWZfeVY3cnRyX3BUN1U?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b109a0dd73ec",
-      "title": "Médicos explicam os 10 exames que podem revelar doenças silenciosas - Tribuna Online",
-      "published": "2026-07-31T08:00:00+00:00",
-      "summary": "Médicos explicam os 10 exames que podem revelar doenças silenciosas&nbsp;&nbsp;Tribuna OnlineMédica recomenda check-up a partir dos 25 anos para prevenção de doenças&nbsp;&nbsp;Agora RNO brasileiro ainda espera adoecer para agir&nbsp;&nbsp;O NORTÃOCheck-up médico é o melhor recurso de quem busca saúde&nbsp;&nbsp;VEJA RIO",
-      "sources": [
-        {
-          "name": "Tribuna Online",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ25EVDNvV05TVEktSWhuUnMxbnlFRmNuR3oydFlnSndYVWpnUUtSSk5tUDhpNHVBeExuN2lpTDFzTUhNa1ZyQ2xsWVItb0NaaEltTDlYUEJZODRxbzRma0hLU19qdFVRZUZlbXpOSWIzLUNXRGs3SzZWSVE5Z2NwZkU1YjN6U21mRXNnUmloM0kyQ1ZWVlduVnlYNk1ITDVuM3JmRXdDU0RaQTVVOHfSAbYBQVVfeXFMTXN4ZTdQMmdIZU5oYVJiUUNCSEl3YVlKRHdycmJJVl9FdHVkWnlqSFFsVl93UWVpdk1hd2hmM0MxenZEWlZXTjFtb3A4emJXZXZzLW55ektkRzVPWnlHbUhoOUlMQ2tFWUJMcXBFN2dxV2FPVEFLTnA2eE11WDJRYlNrVmNyQTFJcXVzTFNiMS1PYXI2QUY1Z2h3QUhqSzhHMG5RcHNIYi01bkRwNElpQkc1cHZ5Rmc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6e6234955406",
-      "title": "'Bumbum triste': entenda por que a menopausa pode mudar o contorno dos glúteos - O GLOBO",
-      "published": "2026-07-31T07:01:40+00:00",
-      "summary": "'Bumbum triste': entenda por que a menopausa pode mudar o contorno dos glúteos&nbsp;&nbsp;O GLOBOO que a menopausa causa nos cabelos? Especialistas esclarecem&nbsp;&nbsp;GshowPele ressecada depois dos 50: veja os cuidados simples que ajudam a recuperar o viço sem exagerar nos produtos&nbsp;&nbsp;Gazeta de São Paulo“Bumbum triste”: Como a menopausa pode alterar contorno dos glúteos&nbsp;&nbsp;Diário do Centro do MundoAvon imprime a menopausa em laboratório e se reforça como FemTech&nbsp;&nbsp;iG ",
+      "id": "58af4d33d547",
+      "title": "Motos da madrugada: o barulho que ninguém consegue parar - O GLOBO",
+      "published": "2026-07-31T07:30:29+00:00",
+      "summary": "Motos da madrugada: o barulho que ninguém consegue parar&nbsp;&nbsp;O GLOBO",
       "sources": [
         {
           "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUXRsUEZ1cGlTVC1zOFZ1TE54QWJhcHktWVRnM19PV1Q5WS1heHBnYUMzWFBRcW5jcDBsTHdXSHh0cVRpZ3lvMndEcVNIY2hDa1FjVXAtRjQ2d19vaEJkUUdlR1Rybno3dUxKSnFuSG9aQk81T0FKYkwzdy1wYkUzSGlMOVpkY0FhVlJwajFOaTM1U0EtZWY4RmY2NGlUQ1Naem1BaDc4bkMxcEtjeC1BQTAxeEUtNFdxU2xoMm91NVBCVUQ5RnJtM9IB1wFBVV95cUxPVDdEM2Fua09oMnRmS2dmUTNXQlVBY1hwQkFLQkdOOE9zNTM3X3lxU2dFXzlvX0VoZF95UGVBTm92YktMS3JuVWFPc3B3X3AzSmhONURsSG5pRDJoVk9nOVR1UkZWamF0SFVEcHJ5eHp1YnBTcXVqel9vUVg2SHdOb0w1TjU0OE52SFgxeVozcFp1MjMzTHRzS0tJRG5QSHJhY3hRaVVya3pBVWJua1JPcUFfMm9KU0xsTWZvbHplMnhzc2FDUm9YUFBOOVE2dm1FZXVWZFMxZw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYmU2MnJaRHZDNFBfTWlhRURmbkVqaTdSSWlqeVhvX0h2c1UyWC11OVFEMEd5elN2UUtRaHlYdUoySzk4emJNbVBORGFpdFZqQ043Nk8xSkxsa2xnZUNPa1NsQ0RUeVI3UkpzNWhEMWlfOFZRV2pXYm5kMUY5T09BdGtoZU1FSnNRZ0RnSDN6cXFtMVZUVHUtelk1dUlNZnlmekw4VXI0Q1dCRVdnZV9TLWY3a1hiU1R3NlNv0gHKAUFVX3lxTE9USDFpUVdTNGxfMG02SW14WWU4a1lIQ201Ym5QVjJEZVk5cExDZjJIWXhuMEZOazFXb21ZNjYxZVNsTl9oUUkxOHlGLVB0eEFHRTBxZ1IzUXU0SU1LaFJVU0FVWlI1RGpHSGtIX0ZkUU1fRXNKai1TWWxGZWdaMkhJdnV5bWFsS3FuOFFXVFp3bTdWWVYyZUVEUFh1d2xkTHlXWFRrSWZBdFBDNHRZOFJVc1ZsYnhvaWI3MjI1cDBtbm9PcGxwbmhMcWc?oc=5"
         }
       ]
     },
@@ -414,98 +402,14 @@
       ]
     },
     {
-      "id": "1dd8c66c576f",
-      "title": "Descoberto há 130 anos, raio-X continua revolucionando a medicina - Metrópoles",
-      "published": "2026-07-31T05:00:00+00:00",
-      "summary": "Descoberto há 130 anos, raio-X continua revolucionando a medicina&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ObWJPd3phbDJvbkJxUHBpVm1HMTZzY2RSS3pJdjhpX1hOWkhZOGZnSndVSUZKd3Nqc253bE4zN3lrdlRycTUwQ1RwclQ1Qk4yaWtFN3lUbUkwQk51Zm1oZFFHbjlEaGJvN29rV0o4Y1pTZ3czN1g2VXhCTEpVUE0?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d03b22ba7f72",
       "title": "A volta do fantasma da AIDS no mundo e o aumento de casos no Brasil - O Assunto #1773 - G1",
       "published": "2026-07-31T03:30:10+00:00",
-      "summary": "A volta do fantasma da AIDS no mundo e o aumento de casos no Brasil - O Assunto #1773&nbsp;&nbsp;G1Fiji registra explosão de casos de HIV impulsionada por metanfetamina&nbsp;&nbsp;Folha de S.PauloMSF e organizações da sociedade civil debatem como ampliar acesso a medicamento revolucionário de prevenção ao HIV&nbsp;&nbsp;Médicos Sem FronteirasBrasil vai na contramão do mundo e registra alta nos casos de HIV&nbsp;&nbsp;Rádio MetrópoleNúmero de novos casos de HIV cai em todo o mundo desde 2010, mas",
+      "summary": "A volta do fantasma da AIDS no mundo e o aumento de casos no Brasil - O Assunto #1773&nbsp;&nbsp;G1Fiji registra explosão de casos de HIV impulsionada por metanfetamina&nbsp;&nbsp;Folha de S.PauloRelatório da UNAIDS: Winnie Byanyima alerta que cortes no financiamento colocam em risco décadas de avanços contra o HIV&nbsp;&nbsp;Mídia NINJAMSF e organizações da sociedade civil debatem como ampliar acesso a medicamento revolucionário de prevenção ao HIV&nbsp;&nbsp;msf.org.brNúmero de novos casos de ",
       "sources": [
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUERtYUcyY2NydzJMWWxuSEtaNXlBbFJnUWxQOXZYdUlzTGJ3b3RVMEVhN0VPZ2dRM3ZGMG9FNG9CUUhjb2E4cVdWQXcxLWc1aEFnU0NEb3E0YThKRkpIOHdmalQtZGRUZVpHRGdYdG9rVW1mcnZQNXBzQlktbjNqbHJLejMzYVB4QW5oUElOSjlGckhyNG1VaWZlU1FVT2ZwSV9Tb1dkUE1WSjJpMU56bGFfVzhhZlFjUm5qTVM1YV9xZEQ1VXdiTFE4czlmaUZvdFVsenhlbUhtRnVlbE440gHuAUFVX3lxTE14cUZtUDk5Q3oyT3dCWWdRWmtNSFlTbS1xLTJlYlJONGota3p2c3ZVRUhyX0pLdFJwTExtdWxYOVlYc3YzT3FUdXFyN2JwZTd1elVHMVpSX2lMOUpob1hKcEtqRktod2x1dlpvREJJZXdQYjcwQlVSa0tuZXNhUmdxdXpqTWlxZGd1S2t6UmdMeXB1Wmw2UVI1aGJyYXgxZ2JKZ2FRTmFkLVE0QmluVlBxb21DazRMOTVFTWh3QVJIaVZjTHprUHd3dWdIMXUydU5pdmtiWTktVUlNUnNHMDZocng4X0xGUi1LQXkzdHc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7b219c2dcce8",
-      "title": "Paraná mapeia 2 mil áreas de risco e prepara simulação para o El Niño - Tribuna do Paraná",
-      "published": "2026-07-30T23:53:00+00:00",
-      "summary": "Paraná mapeia 2 mil áreas de risco e prepara simulação para o El Niño&nbsp;&nbsp;Tribuna do Paraná",
-      "sources": [
-        {
-          "name": "Tribuna do Paraná",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUmVpcmkwd09EelNUZk93cG5EVkN6SURGalVrSm96bTU3R2oxcmxlWWJFOERMaDlJSncwNDlNWXo0Wm9sZXhkTGVkdktjMFpyeWRfcVN6NFdCMzU1YTZoOEpHWHhXc19SZDFoSm9RbWVHVURpTi03TFN6WXNtRXpaMEF4MmJVUdIBiwFBVV95cUxORTV3MjdwcVR0QUE3MmRjVDZ3dHFkY2JPZU1MZE53bl8tRm1BVUJHenltNEhqcENZaVdzb3hPVDhQOFpsX0xFR2ZnWU1ZNS11aWVfcmVTSzkyYXpiWjVHZnJmRDlFOUxDRF9aNXFOTnlYejJnTGVaZUktVl9vVnNQN25LeDNLczFQd3Zz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "489154928524",
-      "title": "Brasileiros estão tomando muito remédio para dormir, quando há alternativas eficazes - Jornal da USP",
-      "published": "2026-07-30T22:57:56+00:00",
-      "summary": "Brasileiros estão tomando muito remédio para dormir, quando há alternativas eficazes&nbsp;&nbsp;Jornal da USP",
-      "sources": [
-        {
-          "name": "Jornal da USP",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcmZUV2RaUWJ2Y2dZdkJhNGlrS2hZUThYc1F3LW9SbDZ0bUpMSEF5Z01xdThzdXg5c2V6elhEY3VMNHhtakI0am5xYUxFYzl4MzVmVFRnR0JjZThxQUFTdGY2MjNHTW92NFBNb0I1RkdqRHRxMzhucnBHMGNZdDJGWm9Tay1LZk8xTGpGRWNJbHBXZkVaOXdhRVlKZ3pnRWFSZG5nR3RKVFdCd01VY3g5V0g0QmljZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "36614cf13649",
-      "title": "Descoberta inédita revela primeiro tipo de câncer transmissível em peixes - Superinteressante",
-      "published": "2026-07-30T22:03:00+00:00",
-      "summary": "Descoberta inédita revela primeiro tipo de câncer transmissível em peixes&nbsp;&nbsp;Superinteressante",
-      "sources": [
-        {
-          "name": "Superinteressante",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYTJDRF9GUXdEYkFjMExSak5YS00tVHlaVmMydzdhS2dEY3NDa2RUSFY2N1NDWUJqVTNsMGdaX2dObW5ZdFlTN1lIUGJZVXJPcXBNeGpHUnVOZm1aVjlLQVRrVTY4REhNWEhWOGpSanJXNHVRR0prMDFOcmV3dk9IRTE2NGZjSXhvQlZQeVpwRFVwSlZWNDdCZC0tanNEWkhTdWl4cllDMEdSQW5BWUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9c7c811d91ef",
-      "title": "Tomar café todo dia tem benefícios diferentes para cada faixa etária - Metrópoles",
-      "published": "2026-07-30T21:05:00+00:00",
-      "summary": "Tomar café todo dia tem benefícios diferentes para cada faixa etária&nbsp;&nbsp;MetrópolesO café pode fazer parte da rotina sem pesar no coração, mas o limite muda conforme a xícara e o modo de preparo&nbsp;&nbsp;O POVOBeber este tipo de café pode ajudar a retardar o envelhecimento&nbsp;&nbsp;Notícias ao MinutoO café é uma \"cura milagrosa\" para proteger o fígado.&nbsp;&nbsp;vietnam.vnCafé com ou sem cafeína pode favorecer uma bactéria intestinal específica, revela estudo sobre a microbiota&nbsp;",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBEWVhPZFNzaHVkRG1UYU0xdkM3Sy03cmxyM2wxb2tYZDNKZkpYSk0waUtjdUlHWHJSWVNfdW1fX2U1VE1UbWhUOUh6Y2xaVnRIa1dKTkVleUZOUFZIMDlGc0tUT1hyamtKZTAyMzBjYWwxZl9mckN1QXdraWV0dw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "60d30454c57a",
-      "title": "Como DNA de múmias virou a prova da chegada de uma das doenças mais mortais da história à América - Estadão",
-      "published": "2026-07-30T21:00:00+00:00",
-      "summary": "Como DNA de múmias virou a prova da chegada de uma das doenças mais mortais da história à América&nbsp;&nbsp;Estadão",
-      "sources": [
-        {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZjh5elNVWlJrSzdZcTdOaTFfV0FmQjg1T25aYU9VV2NYbFlEa0ZjQVJFZG9XdXB4R3FFVTRKZUk4a3hHSEF2Vl83VFg1VXBfVTl6TjNZb2NqenJXR0pTalh5LTNoOGVwOTFjWE8zVzdBaDczNFlYSlJ2V0R3b2dpRTNrT3hJZWtXUDJQSXBoX01kX0MwazRrb3E0Y1VJYjV1ZHJWYmszNng3bVQ5czdUM2RxdXl5blBlNE5rOEdZT0x5RVdQVjlsLXZHZmZCQdIB0wFBVV95cUxPN1VFalZnN2pVdVRzRDVKOVFjYmMySDc1Nktzd05WcHlUc0paVVZuVGpFR2FyNFVqRlpyV3RhU0VmVnhqeFhwbmYtRHJKenIwSTVpRWRpNWxMcHg5dkFKeWxmQmFLN2NqVDBJRU5BdTZVdlFtbExwY3huc0txR1YwVnA0MDVydVNwTnVmX2l0UVJwaGkwNDhvUlo5VGV2Q1RzMVo5SnAxaUg4WXgwZ3lXZkt1WjgwLUVrSUJ1RWNmczlyd2staGZFbl9RcjJQYVJYSVJj?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0a7a0f27ffd5",
-      "title": "Por que células de vacas podem ajudar na busca por novos tratamentos contra o câncer - Globo",
-      "published": "2026-07-30T19:46:36+00:00",
-      "summary": "Por que células de vacas podem ajudar na busca por novos tratamentos contra o câncer&nbsp;&nbsp;Globo",
-      "sources": [
-        {
-          "name": "Globo",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMjh6RV9rX0JLbHpqS2FSci1HZGgzcDR5VS1uZkdwNlZ0OVVLMFpWWHZMN2RqRFpUZ1Vmdm5uN1Y4LXJ6MUhRZ1ZqWHVrdHlyd3FONG1FcGp1Y2VIZG1UY1VHVGR0UGcxd0Nsa0RnNUM1U3RiejdNRlJJOVB4Nm5ScTFvVF9tY3l2aWducWtZVktYWUVTRHU4WEZwYzd1ZWZNeWotbEwxOXdZVS1vODNZaEhQbGVEVkpNWFBORWc0SHhpSUZJQ1lEUzVhcXlRbHRqNHNaNkNydW5nSG5tWWfSAewBQVVfeXFMT3B5X1pkaEo3T3p5cDhpMGVRcFZWTGhtTHYzMUtVYjdlbjZiMG9OckEtRVRHQk83Qjk5QjVmR25kUHpFMUp5RjRiWjF1SkYwekREZGxMaWNoRHJCVmNaRkxNLXdDX2lyLVhLdEo5V3hGYThGMWFTanp0Mmt4bVRGdVdwMG5NN3dkYUs5UUJVN0JCaU9QTzAxbGdITVgyZkpBYkRUNzE5anZOMzB1d2xsai12LTlvek1UWW1WRTNlTUVWdkFERDV4MW5LQVlONFdUQ0Fxc1ZBT1hNd0luNVYtdW9mWWxWa0loZkJUdkE?oc=5"
         }
       ]
     }
