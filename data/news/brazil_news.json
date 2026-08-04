@@ -1,19 +1,79 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-08-03T19:39:08.608266+00:00",
-  "total_fetched": 92,
-  "unique_count": 91,
-  "health_related_count": 34,
+  "fetched_at": "2026-08-04T02:41:18.008112+00:00",
+  "total_fetched": 79,
+  "unique_count": 78,
+  "health_related_count": 26,
   "news": [
     {
-      "id": "7bead8bff011",
-      "title": "Campanha Nacional de Multivacinação começa nesta segunda; foco é atualizar imunização de crianças e adolescentes - g1.globo.com",
-      "published": "2026-08-03T17:17:58+00:00",
-      "summary": "Campanha Nacional de Multivacinação começa nesta segunda; foco é atualizar imunização de crianças e adolescentes&nbsp;&nbsp;g1.globo.comQuem deve tomar a vacina do sarampo? Quais sintomas? Tire suas dúvidas&nbsp;&nbsp;agenciasp.sp.gov.brCampanha Nacional de Multivacinação começa hoje&nbsp;&nbsp;g1.globo.comCampanha de multivacinação começa nesta segunda; veja quais vacinas estarão disponíveis&nbsp;&nbsp;veja.abril.com.brGoverno reforça vacinação contra sarampo e gripe; veja regras&nbsp;&nbsp;Ter",
+      "id": "441a0a67203e",
+      "title": "Saiba como preservar a saúde do cérebro diante do envelhecimento - ICL Notícias",
+      "published": "2026-08-03T23:41:54+00:00",
+      "summary": "Saiba como preservar a saúde do cérebro diante do envelhecimento&nbsp;&nbsp;ICL NotíciasO cérebro não deve ficar parado&nbsp;&nbsp;O GLOBOO mal que nos rouba tudo&nbsp;&nbsp;Correio BrazilienseNova pesquisa detalha os ingredientes para melhorar a memória e afastar o Alzheimer&nbsp;&nbsp;VEJAPesquisa alerta: sedentarismo pode favorecer o desenvolvimento da demência&nbsp;&nbsp;Folha BV",
       "sources": [
         {
-          "name": "g1.globo.com",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOdDRkUEl2WVh0SlBYWDVOR09aZDdTdnU2RWNLWFVmSUFxZWpVQWtWNFBnZnVOVklCeTU3RHFTdDRaZ2lhU1VOSkFpS09xUlo4TzA3Y25ZLWhjZGJ6LVFkSnhDdng4dXpWT3NITXAyUERTaXNUaUxoaDJpV0RYaWFVYmg3OGZYbXhjRjhoVS1aSVk4QnJQdnpGYzNJZDd4NG9wUERON3ZuVXl4dzNqdUQ4U1NZTmVCNHJ4V1h2alh5bmZpYnFRTC1FRmV1cTZOa25MX0V2eVJyUktubk83Yk1GOVRneEY2VFlkaE1tR0xkU1E1Z3F5T2fSAYQCQVVfeXFMTVJwSXYtaTkyQm9pRlh0cmpxaF9vWDZSRmpsYzJ2X0RqRE50OWVVRXRRcHVrWEJvdzRtdUQ3VnlqOHRVX3V4VkF2R0tSY2VzamgybzNpbUFsUS1wVF9YaXlUVWxCTmtxTHl4emMxWTV3VUVGZUFRNTljajloU09MUUlseFdkbGlrZ0RCS0tBYkplSGtCeU1PbzhTa3EtcWtRdjlpazBhZjVjUEFGR0NUR0MzYmE0aEFBXzNFaXdsMTVrdDM0bVUxc1hReXVEdUE2ZmtYVmtZbXRubm1EN0o3RkhyWDRfVUk2VE5IdERmbkJuZVJDc1ZwUlZTWE5tRmE3bDBZU0M?oc=5"
+          "name": "ICL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2UHlsMDBaZWR1YXdzOUc4bWJvZTlqYzJMeEhNcUEzaC1ZVDl3X3FqZnd4V0JxZ0YyN2RfeUs4dDRZM21vMjRqdnZQSk1jOXhKS0V0Uzk4c0YyUldMb1hnUmZ3S3FrSFRuaDgyNWVPWXhCRnEtNkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d5cc524f3359",
+      "title": "Seis anos após a pandemia, debate sobre vacina contra a Covid ressurge nas redes e reacende polarização - O GLOBO",
+      "published": "2026-08-03T18:31:56+00:00",
+      "summary": "Seis anos após a pandemia, debate sobre vacina contra a Covid ressurge nas redes e reacende polarização&nbsp;&nbsp;O GLOBO",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNbV9GNDRhOXhpX2lZU2ZxWHVrbGVhbmlpejJTUnU5bXZqRW5IWWpfcUZOZ0JoUTVxVWNRaHhoUGE1V2Z0NlNZR1BqcTAtOVIySEtBX0VWclZmVWlVQzc5RXBKQkpJYkF3NUlGT2s4MG1YTEdyUXBXSzhaUnhsWmNFdXdGM2o5SWlBb2MxWHRQQnNMaHpCeWwwRVNXMEZfTUJuZUhic3dxbFR1eWJDT2lTWkRRRHhMZ2lQRWlpWEF2Z2xjNFh6WDcxTkJOVDJtaGpldTJrNk5qQkpNSUxCbGkyS0l2V1BsLVZ5RVVQdGU5UkNoR25LbXNCNmZn0gGIAkFVX3lxTE56TEFMRm95a25IZElsT2lsMGl0UklrOEZUNUxpNVY1TzVGanVGUTBZRlFYWW1iSEtpYmtpb3R0NGJOWXYzTi1VZjNyM2haal9tOElBMURELWFLMm9HbkFSVTAtaHMtMncxTldUN2hjWVh1WkpHYmlCOTBFNEpONnJxS3dGQXFoeWQ1T2V2V1VYd0EyWEVmZ1FhRHQwVm5pUEFGb2NxTFV1bU1GMVFPYWJfWUdHQVA2aklabG5PWTJOZVdERDBFZERGV3lMa1RHWWZzeVpULTIyWGJQLTFQYXdVMGJDR3VHeEdlN0RkZWUxTk5GV3VZMTBpeWhZcElBZWh6blRSdzZpWg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2ec4a77da12c",
+      "title": "Campanha Nacional de Multivacinação começa nesta segunda-feira (3) - CNN Brasil",
+      "published": "2026-08-03T18:18:19+00:00",
+      "summary": "Campanha Nacional de Multivacinação começa nesta segunda-feira (3)&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUnpNcXVEX3EyTkZpYzhsbHU2SW82UjNqckpTNjg5WGV2ZW9YTHA2Q1lhdDhqRXZlNlJab3ZNdnExOW1wWGFyOVNZYUVmUVJISFdlRkJqbmxDQVpLaFk2SlZYUVp5Nl9sZVppX1ZMclZTV0ZZdkNYYjV0WU9CaEYyYk54a2Z2RFJFX2pFM3otM2c1Q3BxWDRSb3BCM1g3eFI5Nmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d6ce9aa4351c",
+      "title": "Campanha de Multivacinação começa na Baixada Santista; veja quais são as doses e os locais - G1",
+      "published": "2026-08-03T17:43:56+00:00",
+      "summary": "Campanha de Multivacinação começa na Baixada Santista; veja quais são as doses e os locais&nbsp;&nbsp;G1São Paulo confirma 16 casos de sarampo; maioria foi registrada na capital&nbsp;&nbsp;UOL NotíciasQuem deve tomar a vacina do sarampo? Quais sintomas? Tire suas dúvidas&nbsp;&nbsp;agenciasp.sp.gov.brCampanha Nacional de Multivacinação começa nesta segunda-feira (3)&nbsp;&nbsp;CNN BrasilComeça semana de multivacinação no ES&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPaTFaeFBOT3lmR0VPaThMUUNncDRaWWVvb0ljeTFrVlJISVpJRG5JaFFDSmpzVEU3Z05WbDRkbnlob0VsbzdJUzJHS25FNm93Z09TR25SaGtnTmd0aHA4eFJCRE4xa1k4UVpONTFMX1JyNW5xd2pQRWlRSVlyUWlnbVhzdndMeGl5Y0VkRFY0MUcyOXBRUU9tU3hvWTl4WUw4Z2N1VEMzbmtnU3JWMkJNbExYdlp3ZTJ5TnNhalNrd2hKZFJMS2s2dXg3Smh0Z3UxREd0N0EtZkxyT29YNXBuYld3WHpINF9zaVhtUno0R0NqWnVQUFHSAYQCQVVfeXFMUGNJcjBvdDQyT1ZnMG9ZTlFLaVIxckgxc1d0OTZUaGs0VXUxaGJlS2FKdGZNMHB0RHZCVlRQa0FwNnlKbXZQMEpFenhMREtSMHpzWTdyOTRLeE5PR1BrLTI5cUZxZHB1YlN0OHM5ak9TRzNNSlM0dV9uY0UyVFpUcTJWUlpaWXJXYlhVTVBZaXpEY2JuQ0gzZmpkSC1HMFQ2cFBXdkZzNjRwOHlLRlhkSzFGellpWTR4eDB4LXRJMmpLUmVwRHEtWjVUWDRFQ0JROXR5WW1WTjlFY3B2WHYxOVAzWDNyMDUwSW5iUkJka1dXd043YUxUbW9rZGhzLVJzYWtITVM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d88c5c486eda",
+      "title": "Os sinais de que a tireoide não vai bem e que quase ninguém percebe - Folha de S.Paulo",
+      "published": "2026-08-03T16:40:00+00:00",
+      "summary": "Os sinais de que a tireoide não vai bem e que quase ninguém percebe&nbsp;&nbsp;Folha de S.PauloPor que sentir frio nas mãos e nos pés o tempo todo pode ser um sinal de problema na tireoide que passa despercebido&nbsp;&nbsp;Tua SaúdeInvestigação precoce ajuda no tratamento da tireoide&nbsp;&nbsp;correiodamanha.com.brSentir frio constante nas mãos e nos pés mesmo no calor não é só circulação lenta: pode ser um dos primeiros sinais de tireoide funcionando abaixo do normal&nbsp;&nbsp;Tua SaúdeSentir",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOEVDYTZEQXlkYXRSY1N2TGxXd1lqbkZsN3V3ZjktN0gyWGNlMkdjQjVqN0hXbzVLVmpnUFkwUG1ubjlPdnZuMlNQd2dSX3hEclI5djJ3eXd5VERBcmxtQUdWS1gtdDl2aHRjXzV0R1JZMnpSdVlZMk5XakdPZ1NYSGtIMHZid3ZqM0ZUSmV3X0Q4MHYxeVhFenFmMjVmMF9sNnNrZVNZVG1LSkJPR3JEQkJDZUFRcmpJTTFJQmtFYWNrOFdNWTRr?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b10687d674cc",
+      "title": "Faculdade de Medicina abre agenda para visita das escolas públicas - jr.jor.br",
+      "published": "2026-08-03T16:11:32+00:00",
+      "summary": "Faculdade de Medicina abre agenda para visita das escolas públicas&nbsp;&nbsp;jr.jor.br",
+      "sources": [
+        {
+          "name": "jr.jor.br",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVV9FcmMxcG12WUhxNkRWVzdITGdZN0k4UHdhbjUzNHMyTjVLdW1ocHJlYno5ZDk2Qm16WW5QVTJFVUNxUGxKX2U3MlpZSFhkaklVVnI5NnJ1dmh6WGJtRWhsUlJ4eVhMR1FDeVIwLXZGQVZSRjdjaWRoNjlCMlduR2pfdHkzQVZya3ljdG11Q2VrZmFKT0Y2OHFRQng?oc=5"
         }
       ]
     },
@@ -21,23 +81,11 @@
       "id": "005ad1015b58",
       "title": "Consumo de açúcar na infância pode elevar risco de demência, aponta estudo - CNN Brasil",
       "published": "2026-08-03T14:06:48+00:00",
-      "summary": "Consumo de açúcar na infância pode elevar risco de demência, aponta estudo&nbsp;&nbsp;CNN BrasilCortar o açúcar na infância protege o cérebro por décadas e reduz risco de demência, aponta novo estudo&nbsp;&nbsp;extra.globo.comConsumo de açúcar na primeira infância aumenta risco de demência, diz estudo - 02/08/2026 - Equilíbrio e Saúde&nbsp;&nbsp;Folha de S.PauloAçúcar no sangue deixa o cérebro velho. Estudo mostra piora na idade biológica&nbsp;&nbsp;guairanews.comCortar açúcar até aos dois anos ",
+      "summary": "Consumo de açúcar na infância pode elevar risco de demência, aponta estudo&nbsp;&nbsp;CNN BrasilDemência: o hábito com açúcar antes dos 2 anos que pode ter reflexos décadas depois&nbsp;&nbsp;TerraCortar o açúcar na infância protege o cérebro por décadas e reduz risco de demência, aponta novo estudo&nbsp;&nbsp;Extra onlineAçúcar na infância pode aumentar o risco de demência e Alzheimer décadas depois, revela estudo com mais de 64 mil pessoas; entenda por que os primeiros 1.000 dias são decisivos&",
       "sources": [
         {
           "name": "CNN Brasil",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVERBNS15Q2YtRkpGUTFHYmxPbDNnV3VzdGtjeGxEQWI4cERoRXQ4YnlObWIxbWx3c3ZhYWNGc3NVTWhldHZuUTFvcTAyTzZ0NllmTWV0d2xRRFU4LWIyd1FtZGdwd284OVVGUlJvd0ZSUEdJaEJYVWhTNUdmVGc2THlwbkJVQjdPemJxVGxRMldnQnFBdklHN1Exai1PS0ZBT0FIeHdaeEJEanRrYkE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0ee93d52af88",
-      "title": "Inmet prevê El Niño intenso, com eventos extremos e risco de desastres - Metrópoles",
-      "published": "2026-08-03T13:53:00+00:00",
-      "summary": "Inmet prevê El Niño intenso, com eventos extremos e risco de desastres&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTUYxWlJnQ1d4VGNFYVVpZXo1OUVTbHdMVEZtVE5IeHlpWTdwLTJSWENISGotT05Mc3lIRGlmMEZ3RFlPS2Zzc0hucGJ6MUxBS0gzZUg4TEwtTEpkaVZqT0dMTzBxbTdiNUV2OEhMRFhocWo0SlhBc1ZrM25LNTFHQ3ZNSHZ5aTB3V09TSW12S3M0bW5VM2hvUUYyOGNfRU53WXR0cQ?oc=5"
         }
       ]
     },
@@ -66,14 +114,14 @@
       ]
     },
     {
-      "id": "569cd6e6e047",
-      "title": "Saiba como preservar a saúde do cérebro diante do envelhecimento, segundo estudo - iclnoticias.com.br",
-      "published": "2026-08-03T11:40:20+00:00",
-      "summary": "Saiba como preservar a saúde do cérebro diante do envelhecimento, segundo estudo&nbsp;&nbsp;iclnoticias.com.brO cérebro não deve ficar parado&nbsp;&nbsp;O GLOBOO mal que nos rouba tudo&nbsp;&nbsp;Correio BrazilienseNova pesquisa detalha os ingredientes para melhorar a memória e afastar o Alzheimer&nbsp;&nbsp;veja.abril.com.brPesquisa alerta: sedentarismo pode favorecer o desenvolvimento da demência&nbsp;&nbsp;Folha BV",
+      "id": "e6ee4455a1b3",
+      "title": "Nuvens artificiais podem enfraquecer El Niño, revela estudo climático - olhardigital.com.br",
+      "published": "2026-08-03T12:10:00+00:00",
+      "summary": "Nuvens artificiais podem enfraquecer El Niño, revela estudo climático&nbsp;&nbsp;olhardigital.com.br",
       "sources": [
         {
-          "name": "iclnoticias.com.br",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2UHlsMDBaZWR1YXdzOUc4bWJvZTlqYzJMeEhNcUEzaC1ZVDl3X3FqZnd4V0JxZ0YyN2RfeUs4dDRZM21vMjRqdnZQSk1jOXhKS0V0Uzk4c0YyUldMb1hnUmZ3S3FrSFRuaDgyNWVPWXhCRnEtNkE?oc=5"
+          "name": "olhardigital.com.br",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNzZWR3N2UzMxbmxETGhvUWVfZ29nM19UU3VLTkRnMGZUWHZzaHZFeFJ6VHdKZXFoWVdSR3BBU3ROYVdLQWp6S1MyLS1sSXE0SkhPdzh0RzZWS1dnclkyYkVzbjRTbDRxOHBYRmd5aVdmSFVTY0M4S0ZwdHJyQ1VYZGJqOTV5emt1NGU0SEw2WWJhNUtqVG9DN2dBNzZVUGtpaUlLNW1ieU9MNm8zcHE4ak95b0FYQzAtcUZvQ2JOQmc5TFU?oc=5"
         }
       ]
     },
@@ -90,38 +138,14 @@
       ]
     },
     {
-      "id": "6c262d99913c",
-      "title": "Novo estudo questiona explicação usada há décadas sobre corrente oceânica que regula o clima global - g1.globo.com",
+      "id": "c86825349540",
+      "title": "Novo estudo questiona explicação usada há décadas sobre corrente oceânica que regula o clima global - G1",
       "published": "2026-08-03T09:00:31+00:00",
-      "summary": "Novo estudo questiona explicação usada há décadas sobre corrente oceânica que regula o clima global&nbsp;&nbsp;g1.globo.com",
+      "summary": "Novo estudo questiona explicação usada há décadas sobre corrente oceânica que regula o clima global&nbsp;&nbsp;G1",
       "sources": [
         {
-          "name": "g1.globo.com",
+          "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNclRJZWVsb1VQWDdneWl4LW5hR3BtUjFwWXNVdnRIRHdYc09IeVFGQzVvSlhBZmt1OXBpWkF5NUwwN1liZHpvZkNNeGJvanMtQXVVSVItVjQ1c1dnVVJ0SlA2Y0xQOTNhTjZxSDJUSFZxdEpQQnZZMzc0dFg5RlppVUFyLXJqWWtTQkEyV3E5QVpyZVFvTVBKTVVEVElNWnlqaWxwQmF1cE1mUl9pWUd2cVJCbHR0bi1lM1VXMUowSlU5dU4wY3YzaGNEVFhqUWJHYTVJRjBTeEJXYl9KeW9YaVNrb2VBb0NDMy1OYW9kZ23SAf8BQVVfeXFMTXZmb1hGSjhEaXFLc0tYbGVMckdaTjVKckh3Y0Z5ZFBya1V5SGFMa2Y0QmJKS2EzYTg2R3pNa04xNGJ5MUNPRWcweUpWUmxCb0VYSU9uSW5CZVM3SWpkdnNCdzdUUVFCVzUyWE5kejVveUcybDk4VlFqaVRLbm5uWmUtd1ZBZjV3di1Vb1ZSVy1lSVprTHpmbEpnaUFNcEp1cEZxSFpMeklHUDhwU3RPUTd0Tm5vUExtcGxEVjJvdHNoNnJ4a21WWFFKdE1SQmFBUzRhVWI2UXA1U2l6UkVkRVZPUVBoSFhsYmxMN0ZYMU9JV214MnZFN040ckM2LWxn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0ecfa0fed7b1",
-      "title": "Ranking coloca 26 pesquisadores da Zona Sul entre os cientistas mais influentes do mundo - GZH",
-      "published": "2026-08-03T07:05:44+00:00",
-      "summary": "Ranking coloca 26 pesquisadores da Zona Sul entre os cientistas mais influentes do mundo&nbsp;&nbsp;GZH",
-      "sources": [
-        {
-          "name": "GZH",
-          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOSU9BZ1BxbEs2UFZXSnI3RjlnSFJzcC1GUEI0Zm5FMnNBVW92MmkwMmthV0VsVVJ2a3Fyck42bkV5UG9YbDJ1b21tMHZOaGk1RTlYa2F3a1EwS1JlRXpwNktsQlRnbk9Jb05PTlVVMXBfVERROVdpN3JlMXh3QmFyNm5Ob0N1TTRjdUZoai1VN0hKOTlud21MNVBScWY0RGRjeGRhdGlrU2s2VkhxNGVuZjRuYjlmNC1lYWFqVlk4WU1IMV9pNHhTV29xUUx4eDNvcEhWNU5FLVpEOUs5ajRtYjlvNmNLRnZuU0tEZWJMdHVzeEtuNDgxam93elRBc29kczVqbllNNjA4Ymw4T2pBRkVn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "379426bf87e0",
-      "title": "Casos e mortes por câncer de mama podem aumentar em 40% até 2050, alerta OMS - R7",
-      "published": "2026-08-03T05:00:00+00:00",
-      "summary": "Casos e mortes por câncer de mama podem aumentar em 40% até 2050, alerta OMS&nbsp;&nbsp;R7Fernando Maluf | As escolhas que vão definir o futuro do controle do câncer&nbsp;&nbsp;Poder360Casos de câncer no Brasil: o que explica o aumento dos números?&nbsp;&nbsp;TerraAvanço do câncer: por que seu CEP ainda define a chance de cura&nbsp;&nbsp;Correio BrazilienseOMS projeta alta de 70% nos casos de câncer até 2050&nbsp;&nbsp;Agora RN",
-      "sources": [
-        {
-          "name": "R7",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdllQNjZGWGRZVFpIcC1KbkNDRFlhb0cyUWVaeUNPUjB4V2ItaW5LMFBnd3JnYVlOZngzaUhYVzFCXy1MT3BabTktNkFmeFNXYVhKakZQOEpzQlpwNzFNa1h5bkE3VnBGeExoN29fdzFINlFsTlZtYW9HX0ljYU5qOEFFdmVuRnkxY0psQU54N0V2Wi1aazM0RzV3RzJta2YxZXJwRFZHamNRZEZGN19KV2hqc3dKaG5oNnFkTVp1eTFXRWdZX3c?oc=5"
         }
       ]
     },
@@ -129,7 +153,7 @@
       "id": "7f552ff023fc",
       "title": "RS e SC registram aumento de casos de SRAG por vírus respiratórios - CNN Brasil",
       "published": "2026-08-03T03:38:51+00:00",
-      "summary": "RS e SC registram aumento de casos de SRAG por vírus respiratórios&nbsp;&nbsp;CNN BrasilRio Branco está entre as duas capitais do país com alta nos casos de SRAG&nbsp;&nbsp;ContilNetCom quase 2 mil internações por SRAGs, Acre registra maior número em três anos&nbsp;&nbsp;g1.globo.comParaná reforça vacinação após queda de 15,5% nos casos&nbsp;&nbsp;Jornal do OesteInfoGripe: casos de Síndrome Respiratória Aguda Grave seguem em queda na maior parte do Brasil&nbsp;&nbsp;Brasil 61",
+      "summary": "RS e SC registram aumento de casos de SRAG por vírus respiratórios&nbsp;&nbsp;CNN BrasilRio Branco está entre as duas capitais do país com alta nos casos de SRAG&nbsp;&nbsp;ContilNet NotíciasCom quase 2 mil internações por SRAGs, Acre registra maior número em três anos&nbsp;&nbsp;G1Paraná reforça vacinação após queda de 15,5% nos casos&nbsp;&nbsp;Jornal do OesteInfoGripe: casos de Síndrome Respiratória Aguda Grave seguem em queda na maior parte do Brasil&nbsp;&nbsp;Brasil 61",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -138,26 +162,26 @@
       ]
     },
     {
-      "id": "f6dbf0a785f1",
-      "title": "Veja os sete alimentos que ajudam a baixar a pressão arterial - iclnoticias.com.br",
-      "published": "2026-08-03T02:22:39+00:00",
-      "summary": "Veja os sete alimentos que ajudam a baixar a pressão arterial&nbsp;&nbsp;iclnoticias.com.brg1 em 1 Minuto: Você sabe medir a pressão corretamente? Entenda o passo mais eficaz para evitar infartos e AVCs&nbsp;&nbsp;g1.globo.comRelatório da Organização Mundial da Saúde alerta para falta de controle da hipertensão&nbsp;&nbsp;Espaço do PovoA nova diretriz de 2025 baixou a meta de pressão para 130/80: os erros mais comuns que falseiam a medição feita em casa&nbsp;&nbsp;Tua SaúdeA tensão arterial é um",
+      "id": "ec66b85b2c47",
+      "title": "Dieta rica em açúcar pode agravar a asma já no curto prazo - Agência FAPESP",
+      "published": "2026-08-03T03:01:58+00:00",
+      "summary": "Dieta rica em açúcar pode agravar a asma já no curto prazo&nbsp;&nbsp;Agência FAPESPAçúcar age como agente inflamatório e agrava quadros de asma, diz pesquisa&nbsp;&nbsp;Folha de S.PauloGosta de leite condensado? Estudo investiga como o queridinho nacional agrava crises de asma&nbsp;&nbsp;Jornal CorreioPesquisa revela que o consumo excessivo de açúcar pode agravar a asma; entenda&nbsp;&nbsp;O LiberalVocê tem asma? Estudo faz alerta sobre o consumo de açúcar&nbsp;&nbsp;Costa Norte",
       "sources": [
         {
-          "name": "iclnoticias.com.br",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vRmZqVmcyX0doSU5ySm1qRVVSWjdwR1ZTaTE3X3M1WjFIamVtLXFXWVVtdlBkdjFXWl96QnhveEdlcWYxLWF5aUZwcEstcGJ3RTVRbVQyU3VOQnFheDM1QWFHQkt2aHpBUVpJSkduNmhhSFIwMnc?oc=5"
+          "name": "Agência FAPESP",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMXQxV2d2RVpMbjBKcWtsb19lOGVQeTg2ZGJwQnBPcjdNZVlZMFpuaktmOEpTVUZsREJIT2JxYllMYU1aQWt5VTRUaXJlMTRpTU9wYUtKYTV5enhiMGdyZjJIdmUwWlRHbFR5M1VzQWVTZno5ZG1PclJuM0lkMk9KM0ExamFueUFHMDRzWGRCZVJESk1S?oc=5"
         }
       ]
     },
     {
-      "id": "d8928bb08b9f",
-      "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento - Estadão",
-      "published": "2026-08-02T20:11:51+00:00",
-      "summary": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento&nbsp;&nbsp;Estadão",
+      "id": "896197bf460c",
+      "title": "Veja os sete alimentos que ajudam a baixar a pressão arterial - ICL Notícias",
+      "published": "2026-08-03T02:22:39+00:00",
+      "summary": "Veja os sete alimentos que ajudam a baixar a pressão arterial&nbsp;&nbsp;ICL Notíciasg1 em 1 Minuto: Você sabe medir a pressão corretamente? Entenda o passo mais eficaz para evitar infartos e AVCs&nbsp;&nbsp;G1A nova diretriz de 2025 baixou a meta de pressão para 130/80: os erros mais comuns que falseiam a medição feita em casa&nbsp;&nbsp;Tua SaúdeA tensão arterial é um dos principais indicadores da saúde cardiovascular. A «m…&nbsp;&nbsp;SAPOCuidado ao aferir a pressão: uma falha simples na medi",
       "sources": [
         {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORGtTM3JMa1VLYXI4WkViNjJMbUNTZWxDcTNpVmdndkVBUFVFQllFRWVQTWlSODVTb3ZyR25ZQWVXdl9BdUlaYTRTNzFZLWxWWktkRnhRNC1yMklPbk1YT1NhYi1NOFQ0WlJtNGVSQWFFNnZHYWtCUHhsRFFfaVAxLTI4b0d0LVdGTXE2SG9EUEZxaFg3eGlxYXVpMi1MWFFnb3k0a2xQcEx6UkhrY3d2SVJPTE43c1RtVDhEaHRrTdIBxAFBVV95cUxQRk1rYzV2M2l3Y2xfdEtlSW54aVlvS3lqaTJOVW9NTXJ0VXlSNjRCa3BZY0plYjNhQWNuZkNHZ2pzY2xHNE9La0RiMEVlWGZwUWlqTFZ0RURsYjEtMDdSclplWlN4WXBDVTA5NUVSYU94RHFYWXRXOUZOQUhlZVVHSUNlY2JLZ3ByMGxxb3FRd0l0VTJ0NHVNYkFoeG8zSUt3YmI5aHJrSDd5RjdjdVY0U3poTWhZeHU4M09WUml6TkQtNFNB?oc=5"
+          "name": "ICL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vRmZqVmcyX0doSU5ySm1qRVVSWjdwR1ZTaTE3X3M1WjFIamVtLXFXWVVtdlBkdjFXWl96QnhveEdlcWYxLWF5aUZwcEstcGJ3RTVRbVQyU3VOQnFheDM1QWFHQkt2aHpBUVpJSkduNmhhSFIwMnc?oc=5"
         }
       ]
     },
@@ -165,7 +189,7 @@
       "id": "9b19b54e97f5",
       "title": "Idosa de 63 anos usando caneta emagrecedora desenvolve pedra que ocupa estômago inteiro e médicos usam Coca-Cola no tratamento - ND Mais",
       "published": "2026-08-02T20:07:03+00:00",
-      "summary": "Idosa de 63 anos usando caneta emagrecedora desenvolve pedra que ocupa estômago inteiro e médicos usam Coca-Cola no tratamento&nbsp;&nbsp;ND MaisIdosa que usava caneta emagrecedora desenvolve pedra no estômago e médicos usam Coca-Cola diet no tratamento&nbsp;&nbsp;OCP NewsCaso raro: refrigerante diet ajuda a dissolver massa no estômago de paciente&nbsp;&nbsp;Jornal CorreioIdosa desenvolve massa no estômago durante uso de semaglutida e é tratada com Coca-Cola Diet nos EUA&nbsp;&nbsp;Jornal Opiniã",
+      "summary": "Idosa de 63 anos usando caneta emagrecedora desenvolve pedra que ocupa estômago inteiro e médicos usam Coca-Cola no tratamento&nbsp;&nbsp;ND MaisIdosa que usava caneta emagrecedora desenvolve pedra no estômago e médicos usam Coca-Cola diet no tratamento&nbsp;&nbsp;OCP NewsCaso raro: refrigerante diet ajuda a dissolver massa no estômago de paciente&nbsp;&nbsp;Jornal Correio",
       "sources": [
         {
           "name": "ND Mais",
@@ -174,22 +198,10 @@
       ]
     },
     {
-      "id": "ad74704b1189",
-      "title": "Além do ovo: 7 opções de café da manhã rico em proteínas - Diário do Centro do Mundo",
-      "published": "2026-08-02T18:34:57+00:00",
-      "summary": "Além do ovo: 7 opções de café da manhã rico em proteínas&nbsp;&nbsp;Diário do Centro do MundoCafé da manhã que sacia: o que comer para não sentir fome antes da hora&nbsp;&nbsp;GloboAlém do ovo: 7 alimentos com muita proteína para o café da manhã&nbsp;&nbsp;MetrópolesCafé da manhã rico em proteína e fibra ajuda a emagrecer, indica estudo&nbsp;&nbsp;horacampinas.com.brRicos em proteína: 4 alimentos leves que substituem o ovo na dieta&nbsp;&nbsp;A Gazeta do Acre",
-      "sources": [
-        {
-          "name": "Diário do Centro do Mundo",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa0tSOUF5UjVvNHlSOG5sU21KdzMxQ0Vya2xXVFRvaENUek9NMnFrQ2d2VFZtZ3o0OGVTak5YQndXVXFQLTMyeFNfY1pXeWVjbUgtOVg5S0pROEV4dzM2LWFvbVJUWTN0UmlfRGE5dWl4ZHdOaVZvNThVNjNGQmF3dElEa2pkOHlDOTYtaUJIb185Wjd2R2xfOQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f9492815bde5",
       "title": "Redução no consumo de proteínas pode retardar envelhecimento, mostra estudo - Revista Oeste",
       "published": "2026-08-02T18:23:00+00:00",
-      "summary": "Redução no consumo de proteínas pode retardar envelhecimento, mostra estudo&nbsp;&nbsp;Revista OesteComer menos proteínas pode trazer benefícios à saúde e prolongar expectativa vida, sugere revisão de mais de 350 estudos&nbsp;&nbsp;g1.globo.comMenos proteína pode favorecer envelhecimento saudável, indica novo estudo&nbsp;&nbsp;Euronews.comPesquisadores concluem que consumo elevado de proteínas não é saudável. Veja orientação&nbsp;&nbsp;Gazeta do PovoNem sempre mais é melhor: a proteína pode ser ",
+      "summary": "Redução no consumo de proteínas pode retardar envelhecimento, mostra estudo&nbsp;&nbsp;Revista OesteComer menos proteínas pode trazer benefícios à saúde e prolongar expectativa vida, sugere revisão de mais de 350 estudos&nbsp;&nbsp;G1Comer menos proteína retarda o envelhecimento, aponta estudo amplo&nbsp;&nbsp;MetrópolesA moda do 'alto teor de proteína' funciona para todos? Entenda os debates na ciência&nbsp;&nbsp;ExamePesquisadores concluem que consumo elevado de proteínas não é saudável. Veja ",
       "sources": [
         {
           "name": "Revista Oeste",
@@ -210,25 +222,13 @@
       ]
     },
     {
-      "id": "293c611d0b52",
-      "title": "Morre “Professor Duarte”, nome da educação em Guaraí e pesquisador da hanseníase no Brasil - Guaraí Notícias",
-      "published": "2026-08-02T18:20:00+00:00",
-      "summary": "Morre “Professor Duarte”, nome da educação em Guaraí e pesquisador da hanseníase no Brasil&nbsp;&nbsp;Guaraí Notícias",
-      "sources": [
-        {
-          "name": "Guaraí Notícias",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX3l4TFlHUGF6aS0zNllDTTREYk5tZU81S1RpZ2J3TmlqY25raFpCVDNXVVZwSWJTeG80S2dhNEVaVnhfTkRscUJsdVJoQ2FJSURRR1NndHdlaTZNdG54MnFLODZwUEY1Njh5c2dRNVJ6OEVGaFZlTmRiR2RzLWhCXzVLckdVd2I5T1BVTGlwbnV5RUxXajZMQWE4S1B3NGJVcW9qZThoU2JzOUJSdU53Skp6RDJBcEhkMjRRXzFPUGtsY28?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "94ffe5fe5ea8",
-      "title": "Menino de Ribeirão Preto, SP, ganha medalha em matemática e mãe vibra com conquista: 'Estudo tem que ser priorizado' - g1.globo.com",
+      "id": "d480247f959c",
+      "title": "Menino de Ribeirão Preto, SP, ganha medalha em matemática e mãe vibra com conquista: 'Estudo tem que ser priorizado' - G1",
       "published": "2026-08-02T18:05:49+00:00",
-      "summary": "Menino de Ribeirão Preto, SP, ganha medalha em matemática e mãe vibra com conquista: 'Estudo tem que ser priorizado'&nbsp;&nbsp;g1.globo.com",
+      "summary": "Menino de Ribeirão Preto, SP, ganha medalha em matemática e mãe vibra com conquista: 'Estudo tem que ser priorizado'&nbsp;&nbsp;G1",
       "sources": [
         {
-          "name": "g1.globo.com",
+          "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNamgxSGtLMkJxQkI3N1NnWFpBU1hubGktYVM0d2JjWDVJSnd1cVh4dXlUdkJvQlZKblVldUxMVGZ1dzVoZEQ0bkhsWlJoUG1GVnBLR29xbHotX0lEakZRZmxGOGJnYUFVdUhsUW9ULWg3d2ZDd3dGMlFaYTR4XzF2R19HZGlNY1Y5bW5XZEQ4VlE4ZVM4dEhIZFdZeDdpTDNCb2RLOG9BWW1FTFJEajZRYjhmby1sbUpkdUZMV0h5ZTBpdjVWWUF2dDd1NkVMTkY0TGVKXy01MFE5aFQ0VzU1Ui1rQVJjUldlbjd2OGVyWWJocWgta1BhUllFWWZtTHJ3b3B0dVlBdEhZcjRsTmZr0gGeAkFVX3lxTFBBT2d5OC1HRXc0bVBqMnowc1RqLTRQWDAtVDhxNHBYT1BPN3FNbVcwQ3BnTk9PR0Q0OW1HaDBUTmNXd1ZnaUc0NmdyYldUMzdCMWozQ3ZvSXpZWlZldXlwQWxWa29RTFNQV3RMS2V6M2ZRYUdwSUxlT2tid0pFZmFnOGtfY2lkVzVzNTlCdm1LX3I3aEFnN21YWS1ObGNDTFpSQjVEOXFiQ3M4T2RjVENCcEtqWkdvMWZnWTIxYWJIUDRoRlRCYVVmZGF3ZXJGRnNVVGRUc19KVWhlZEFEUWI5dzlaMkc5UmJQRnJtUGlKTk1Ba2JveW1QdWRZU3JZYlo5WGk3QW9NYUdrYjlwN3JOZ09kSnI4VElfSUdiNlE?oc=5"
         }
       ]
@@ -237,7 +237,7 @@
       "id": "aeb3868843a7",
       "title": "Idosos podem estar consumindo menos B12 do que deveriam, alerta estudo - Folha de S.Paulo",
       "published": "2026-08-02T15:39:00+00:00",
-      "summary": "Idosos podem estar consumindo menos B12 do que deveriam, alerta estudo&nbsp;&nbsp;Folha de S.PauloO formigamento frequente e constante nas mãos e nos pés nem sempre é problema de circulação sanguínea, mas pode ser sinal de deficiência de vitamina B12&nbsp;&nbsp;Tua SaúdeDeficiência de vitamina B12: conheça as causas, os sintomas e como tratar&nbsp;&nbsp;CartaCapitalDeficiência de vitamina B12: um problema silencioso que vai muito além da anemia | SEGS Portal Nacional...&nbsp;&nbsp;SEGS Portal Na",
+      "summary": "Idosos podem estar consumindo menos B12 do que deveriam, alerta estudo&nbsp;&nbsp;Folha de S.PauloO formigamento frequente e constante nas mãos e nos pés nem sempre é problema de circulação sanguínea, mas pode ser sinal de deficiência de vitamina B12&nbsp;&nbsp;Tua SaúdeDeficiência de vitamina B12: conheça as causas, os sintomas e como tratar&nbsp;&nbsp;cartacapital.com.brDeficiência de vitamina B12: um problema silencioso que vai muito além da anemia | SEGS Portal Nacional...&nbsp;&nbsp;SEGS Po",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -246,13 +246,13 @@
       ]
     },
     {
-      "id": "6c8ab97a8608",
-      "title": "Menina chinesa de 6 anos morre após experimentos com edição genética; cientistas são investigados - revistagalileu.globo.com",
+      "id": "6c0b4608ceab",
+      "title": "Menina chinesa de 6 anos morre após experimentos com edição genética; cientistas são investigados - Globo",
       "published": "2026-08-02T15:16:07+00:00",
-      "summary": "Menina chinesa de 6 anos morre após experimentos com edição genética; cientistas são investigados&nbsp;&nbsp;revistagalileu.globo.com",
+      "summary": "Menina chinesa de 6 anos morre após experimentos com edição genética; cientistas são investigados&nbsp;&nbsp;Globo",
       "sources": [
         {
-          "name": "revistagalileu.globo.com",
+          "name": "Globo",
           "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUGh1OG9DYzlNUk9rVXV5UUtLeWJnN29jd0xUQ3RYdDJGbWFpdHJxdmxXOHgwellpOVRtMXlld2taT2VFWmhCUlllSGxjOURQV0xUQUMxQTRfcU11cE8wczZYcWl1TnhIajRGVFlRc3VaYkhuOVY3LXhOVUNtLWxrbFNteDJmWnZvMGdCeS1qZjk5QVZqNW81blZOMU1aWlVpbVA2VzJMaDhQUlZaWW94M1RnUDhBOFRKTEhWdnYzNGNUemw3S3BlcHdrTlFVQzFLSHN2Q1ZQTEpsNXdpZUthM05MZkJWeUx4V0w1NjNOeUHSAf8BQVVfeXFMT1l3NFItOFQ5Y0lzQ1o4dWptb3JiOUZsUkdrWElSUlJDel90OWlncFM4STg3ZkJ5NWF6ZkFlb2JtZzdfU0laTWdLcmtxeE54TEZ3V2hacW9qNG80QmF1MlRVdThaTC1hY25lRDlMa2lyRE5aclhWbHpVQWlESWRXSXVJVm9ETVBOR3AtbXU0aHJhcVJLa1FDbW9KZHBwNnhzZ0lsR2dhMFJ4czZDRG91OFhvSFNXWVBTckxWVy1ZNGNSTHA2RmlqSVNuMUxhZEphXzhoS2d0RFBDa3FyZnhzbkxzclkzQ0QwN2lDblVTaHM1NEF3VVZtY0ZtdFl0X0FB?oc=5"
         }
       ]
@@ -270,70 +270,10 @@
       ]
     },
     {
-      "id": "6f9772bfca2d",
-      "title": "Como uma avalanche levou à descoberta do primeiro dragão marinho do Jurássico em Gales - Aventuras na História",
-      "published": "2026-08-02T13:00:34+00:00",
-      "summary": "Como uma avalanche levou à descoberta do primeiro dragão marinho do Jurássico em Gales&nbsp;&nbsp;Aventuras na História",
-      "sources": [
-        {
-          "name": "Aventuras na História",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNV0ZaSkJsQWdNbV9GMTRlVmpaR09lNmZNVGp1MnNESGN5R0U1RG03a3R2dzlrNEdhZEFjdTJfWi1UdVFkeDctWkpGN3VqT203aTN1VktwNElpWE40R1oxdFY5Y0VKOXRIMkZhNlpkc3FoYTk5RURZMjZFaV83cU84dXVYcERvdEdKS2QyZzhlSkViX1FUWVpLWXhBNlBMRk1tSmJnS3FEdUpETEcwTFJhN0tDS2tzdnNLX3pxMXdtbHdTLTFycHk4YTM2dkh3Z240TDdWVVRRMUVhUGZVVUFFVw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fe51686210e4",
-      "title": "Vício em redes sociais gera riscos para o cérebro e afeta comportamento - amazonas atual",
-      "published": "2026-08-02T12:25:26+00:00",
-      "summary": "Vício em redes sociais gera riscos para o cérebro e afeta comportamento&nbsp;&nbsp;amazonas atual",
-      "sources": [
-        {
-          "name": "amazonas atual",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTnl5WFR5bnVKbUJuLVkxM1lRSExaWk5mNVdlZ0o1VS1GVEhpZGphcmpMTkpIZUF5cXZDdWZ4V1NnaTYtcmdJaWZ1YXJzVlVCMlQ5NF90TW53azRZVS1XQUFBdUZNWjFSTWRIRzlWbEszekVyZEVwVnhFb3V5UVZUb3ZHVXJ6RzJ4NnF0aUpxa1ZtUTNBa2tRX2VaNmxvbXZHa1JR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9607eae00824",
-      "title": "'Triângulo da morte': influenciador é hospitalizado após espremer espinha no rosto - Rádio Itatiaia",
-      "published": "2026-08-02T11:31:55+00:00",
-      "summary": "'Triângulo da morte': influenciador é hospitalizado após espremer espinha no rosto&nbsp;&nbsp;Rádio ItatiaiaTriângulo da morte: caso de influenciador mostra perigo de apertar espinhas&nbsp;&nbsp;CNN BrasilTriângulo da morte: espremer espinha no rosto pode causar infecção&nbsp;&nbsp;MetrópolesInfluencer está internado após espremer espinha no “triângulo da morte”&nbsp;&nbsp;Brasil 247Influenciador é internado após espremer espinha no rosto; entenda por que isso pode ser perigoso&nbsp;&nbsp;Meio N",
-      "sources": [
-        {
-          "name": "Rádio Itatiaia",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYVljUHF4SkFZZHhzQmhxby1BaTV1SXAwUUU5Y3BQaklzNjc3X0Q1R0hRU0RJYl9YUjQzMEpsZl9rVVZHTjlqeDRqZWFlUkVFZmtkV1RjTVlsWnB3UFQtVlZzbldlX2UyRVpxdURidXRlaFR4OWZVb3VKTEdrZFBidzEtT0NtajVXejNoanliRnBtUExJSFNsU0xubkV6ZWVxWUgyWE5aQ18ta3lmbV9WVk9iZ0Vmd3luNXM3cmwzbGV0d281NExn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7ceb3e011df9",
-      "title": "Por que usuários de canetas emagrecedoras estão se exercitando menos? - Jornal Correio",
-      "published": "2026-08-02T10:00:00+00:00",
-      "summary": "Por que usuários de canetas emagrecedoras estão se exercitando menos?&nbsp;&nbsp;Jornal CorreioAcompanhamento médico reduz riscos de efeito rebote no uso de canetas emagrecedoras&nbsp;&nbsp;g1.globo.comComo evitar o “efeito rebote” após Mounjaro e outras canetas emagrecedoras?&nbsp;&nbsp;Veja SaúdeQuando é hora de parar de usar as canetas emagrecedoras? Veja o que diz consenso internacional&nbsp;&nbsp;O TEMPOCanetas emagrecedoras exigem cuidado depois do uso: descarte errado pode colocar pessoas",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdDJPbjNLQWVxeVY3R3c4LTJYWHREcEZRa1ZiWFJJelJTalhuNzYtaUVEZTI5SDVQay00SDRjVHQ1cmg0emlaUzQwWUJoaHNMZWFIWmM3UG9MQ09Qa0lYalBWZG5ab1F4Rl9XN0FOVmNtbS02NlppYXVMOXBIUHZSZjNtY0QtcnVlUjVEbHVyelotcHpOYU56anpTTlNFZlZXTW1iZGpSaWMyMTFSMERjb3lKWQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "994677a33ba0",
-      "title": "Pesquisadores citam tempo e custo como motivos para recorrer a revistas predatórias - Folha de S.Paulo",
-      "published": "2026-08-02T09:05:00+00:00",
-      "summary": "Pesquisadores citam tempo e custo como motivos para recorrer a revistas predatórias&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcDhJZXRQYlZfeUxUM2dLTHlwZm9KU2JBVElYTFpLb1kwMFVxQWNPeTd0WkxsN3lBMWJVQTlCb0dQeTVhWG1aQ2xDQzdZaEZ5bEtjV3g5M0loWVFoaXd4c2FKR0NCcXlRRXg1V0RVOVhMYk9uVG9kV2xPYmN0MGdSYzlhaUg3ZXZpNl9DSVhCdEd2alJQRkVJVjluc24yMWMyUEtkVmFWX0hjWE1BejZHUC0yemZ5WThucG5MTVVKNlhOUTBZWlZvNzRYNVRuX1hF?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c4d3622331b8",
       "title": "Transplante não é única solução para calvície; entenda com Dr. Kalil - CNN Brasil",
       "published": "2026-08-02T09:00:09+00:00",
-      "summary": "Transplante não é única solução para calvície; entenda com Dr. Kalil&nbsp;&nbsp;CNN BrasilTratamentos contra queda de cabelo avançam com terapias regenerativas e transplantes precisos&nbsp;&nbsp;NovabrasilCalvície masculina e feminina são distintas: saiba mais sobre saúde capilar&nbsp;&nbsp;aprovinciadopara.com.brTransplante capilar exige técnica e estrutura especializada&nbsp;&nbsp;Estado de MinasDermatologista diz que tratamento da calvície vai além do transplante&nbsp;&nbsp;93 Notícias",
+      "summary": "Transplante não é única solução para calvície; entenda com Dr. Kalil&nbsp;&nbsp;CNN BrasilTratamentos contra queda de cabelo avançam com terapias regenerativas e transplantes precisos&nbsp;&nbsp;NovabrasilCalvície masculina e feminina são distintas: saiba mais sobre saúde capilar&nbsp;&nbsp;A Província do ParáTransplante capilar exige técnica e estrutura especializada&nbsp;&nbsp;Estado de MinasDermatologista diz que tratamento da calvície vai além do transplante&nbsp;&nbsp;93 Notícias",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -342,50 +282,26 @@
       ]
     },
     {
-      "id": "5f3effab7962",
-      "title": "O que o esgoto tem a ver com o futuro da pesquisa em nutrição - Estadão",
-      "published": "2026-08-02T08:48:09+00:00",
-      "summary": "O que o esgoto tem a ver com o futuro da pesquisa em nutrição&nbsp;&nbsp;Estadão",
-      "sources": [
-        {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc3JNYUpjbmdabGpGLXR4WndlS3Nmb3hGVlVETjBXQVluYzNUVE5ia2pXak4wdGZaQUljSFViQVBRaFpfLVIzT0d3R2o4emhORWZsZEVUSnBoTnJRa19vcUNrTDJTelRYNkw3cVF5UXJlcV9mRGJmYjFzQnUwanN6Mk1tUG1CYXZfTUpKYktzVXRrUlBzOTd3anFKdE1kY1Z5enJ2Q1NBVQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a609d3bf9497",
-      "title": "Povos pré-históricos preferiam caçar mamutes fêmeas, diz estudo - g1.globo.com",
+      "id": "2ff1f59bf388",
+      "title": "Povos pré-históricos preferiam caçar mamutes fêmeas, diz estudo - G1",
       "published": "2026-08-02T08:00:36+00:00",
-      "summary": "Povos pré-históricos preferiam caçar mamutes fêmeas, diz estudo&nbsp;&nbsp;g1.globo.com",
+      "summary": "Povos pré-históricos preferiam caçar mamutes fêmeas, diz estudo&nbsp;&nbsp;G1",
       "sources": [
         {
-          "name": "g1.globo.com",
+          "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ0lXMi12NEJJV2xDTGJkdllKWDdJV1pvZ0hwLU8xakZzNG8xa0tfcTZJdEswcUpaQTFRbXF2RnNpVm5vdmR6OWFmUVFzaWJ4SjhMeXBsSWtLbGNfYjBJS2FPMlFIbmFSUnk4UmpLN2FUUEJTRER4c2x3dW1renYwZTgzOWRReHpQdGdWZU55QzdwWklNTkJRbU1JQ0dXRW1jdUE5TU80eVQ5VGFvYmh5V3phUi1aRUnSAcYBQVVfeXFMT0tFd1d4ekxMUDhkMDVTanlTQ0R4Vm9TLV9IeDJWcTllUng0WlNwNXc1aEVhbE9sZWVWanlHbEVCZktyalV6TGhHb2dCR0JXRG01YlJXXzdnLVlGZ1RDclM3dWFid1MwOXpiOVhWbUpBUEZIRVg3OEhhVUF6eDQ0bElQc0dwVnBfRVBRQ2JFNWxpWF96YUZvSEtKNUM1MFBvYTFyVnp0RUg4NDB3WDdNRXQ2MGZaWnM2TXVDVlFXSklaWi1hOVBR?oc=5"
         }
       ]
     },
     {
-      "id": "f96a2baf3140",
-      "title": "Pausas breves no sedentarismo salvam vidas, mostra estudo - Correio Braziliense",
-      "published": "2026-08-02T08:00:00+00:00",
-      "summary": "Pausas breves no sedentarismo salvam vidas, mostra estudo&nbsp;&nbsp;Correio Braziliense",
+      "id": "7649272e725e",
+      "title": "Mariana Sena revisita violência psicológica e patrimonial com papel em ‘Quem Ama Cuida’: ‘Já vivi um relacionamento extremamente abusivo’ - Globo.com",
+      "published": "2026-08-02T07:00:16+00:00",
+      "summary": "Mariana Sena revisita violência psicológica e patrimonial com papel em ‘Quem Ama Cuida’: ‘Já vivi um relacionamento extremamente abusivo’&nbsp;&nbsp;Globo.com",
       "sources": [
         {
-          "name": "Correio Braziliense",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc1NsZEtUQkpobnpCLTlTTzVaZDdvZmNzTkZTOHo1RmpoMldUTGZ1Zlg4WkJFNGZYcDU2dWdLdkg4cDNRemFoZXJ1eFVGYjdYVEp2c2F1eVZKdk5ld1JBenowTmFFQVlEYWo4aGFGcWx4TkExRkpBSElMNi0xb1FOREt4YXhuTHFEVmszWlZyTm5jMDd1Tmt1cllUWDNXa3dYQ3NCVUxFUVd1d0k1d1k3NlVyZWVjb0JGTUltNmVwal91MWt1RGszWUk2Z9IB0AFBVV95cUxPQ21yelNzcGYzc29hMmRNTmRid3AySlZoRloySnU0TXIxdDBRaV9DdktKZzlYWWRKX1ZsWEVLdnNfNzRsWW54bkdrbVFaZlJqR2xIY05EZlp2MDYtQ1lsWkJVWGNYYUtRbldhZlRPaXp6SG93T1BxOU5EOFY5ZDFUUVhodHd1MW9lVzJJbGo4TVNuMldQaWY3NGJOaHRWRkJtWmQ4UXQyejZ1U3Vsa1B5ekh4R005T2RYUmE1dkwxZXRjRzJ4SFFwcHJXTGJORGNs?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ad09b2bade66",
-      "title": "Coração com anabolizantes tem pequenas cicatrizes e músculos espessos - Metrópoles",
-      "published": "2026-08-02T05:00:00+00:00",
-      "summary": "Coração com anabolizantes tem pequenas cicatrizes e músculos espessos&nbsp;&nbsp;MetrópolesVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1alBOdkdHb3BrSzFqWkxxUkotZVg1QkppQVdSbG9FZ212ZzFkRVM1anNFOXhTSTRuX0FVYnJ1ZVcwcUxQLWtsTGdhS2xMQ1QzRzY4UU8zZDdJU2tCUE4tRFJCeU9UczZHeV94U21YWUgxMXJBS0s1QW9pMzc1bE0?oc=5"
+          "name": "Globo.com",
+          "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOMFhDYWR2OHdBRFJyelRzZE9iTFIwU3BhUzFJQ29VVlVyT3FvOE92MmZ0UmlHbmhnNXVyR3pUbmZCN3Q3aV91bXowYUtjc05oZFVrNnhkYUUzN0d4Q2JoWFlJX3QzX1o2QUpMb2lYY092VGFKYUtBQmhsU0d3ZHhaSDhWVVY1UVVZd2lGYTBNNU96YVAzemZ2ZDFGNmY3OG1nQmc1XzZvRDhUOGRZbjc4S2l0RnBRVFc1a0hQRmtYX1ZobjZYU0dQa1RLZi1ROE5NWnJQbUhEWHZraHMtUnlvcVdQQ19oeC13ZnRRNUk0X1NrRmZ1SXhwNXFBZDVFUWE4MzFLemNxTjRQMnAxOTVaaURuSkVfOUI4Sk9WVUg4N0tJZVFPNmfSAbQCQVVfeXFMUFVZd2haZEtnZWwxUnBEODgwSGVZZE1RSzN5ZldNWk94em5EcFA5UlJkOEp6ZHkzR0xZUTdrSi1XTEVFV3V3NHhudnFHNVVram0tQkFwNExHbm4yRzRMLUFGRWdXOUo3ZUJRQ3pSM1lfTEZkX0VNV1NJQ0VNcTdvaG02N195Q3F1UnFEWWNMYVRoUlUtRXFodkNmczZDUXZyRGdCRGRUcnVzckFMb3ZfVXNLQmgxUzFrZXpVQ21QX3A1dFNOOENzX3NURS12OUNCYmlJRmZOblJrSng5dlMzQ1RndXkyLXJqZV85Y2xkWXVid1hqaWNNTVROWHlGWmtZZjZyRnVUS2kwNVFKZmh5UlIxTDI0S1BvR2dvSlVOVGptQzZlbkN6bklsc201UjRIYmRGVTI?oc=5"
         }
       ]
     },
@@ -398,18 +314,6 @@
         {
           "name": "Metrópoles",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWDNyYkFlMTdJS2cwazJUNEp4b293YXltZG03SXJRcXd2UHk1SnMwNVNieGNfbVl0d2dodFJreG9PanYya01DY2ZTZ1dYWmxqcTdwdVpsU3RscTA4cHIxdEh1aUtUT3dKR3NtMkRfUjBuSjluLUpQSlFMMnRpOHZlMkZtekpqWjVFZUdUYnNNdE1DbHRiOWtHcV9pVVBBQ1h0Y1VDMGU5N3A5Mmt2bkFUdHNRd0ZZYlE3aFE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "94a8e5a85c02",
-      "title": "Pesquisadores descobrem peixe ‘monstruoso’ sob antiga base de armas químicas da 2ª Guerra - R7",
-      "published": "2026-08-02T05:00:00+00:00",
-      "summary": "Pesquisadores descobrem peixe ‘monstruoso’ sob antiga base de armas químicas da 2ª Guerra&nbsp;&nbsp;R7",
-      "sources": [
-        {
-          "name": "R7",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMl9tUE93Mkl3R3NBNXF2U2QzSVhZc2ZVWXoxZ0FweVZaSkpJRTVwMEd5YWVGa0hXdnkyejR3MUpnMVo2YmN2cEhiVXA1WE9na0xFQjczai1KSWxPWUFpN1ItNW9QdXR5SmJCbXdzMGduYlFRbDZRZl85aF9rS3MteGRFQk5pcmR5T0dWMGJvODJpMTBrUmpMMFBCZXNaNGExaVRndk84M1hxSFpFc3g5TnVEd0piUk5hdm5xX1FpWmVvSnEzZ3NlUlZGbURJYTg?oc=5"
         }
       ]
     }
