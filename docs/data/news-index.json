@@ -1,40 +1,71 @@
 {
-  "generated": "2026-08-04T02:41:19.066990+00:00",
+  "generated": "2026-08-04T08:39:02.713838+00:00",
   "count": 28,
   "news": [
     {
-      "id": "441a0a67203e",
-      "title": "Saiba como preservar a saúde do cérebro diante do envelhecimento - ICL Notícias",
-      "published": "2026-08-03T23:41:54+00:00",
+      "id": "98cdbc8d81cb",
+      "title": "Mais mulheres morrem em ondas de calor, mas causa vai além da biologia, indicam pesquisas",
+      "published": "2026-08-04T04:00:12+00:00",
       "sources": [
         {
-          "name": "ICL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2UHlsMDBaZWR1YXdzOUc4bWJvZTlqYzJMeEhNcUEzaC1ZVDl3X3FqZnd4V0JxZ0YyN2RfeUs4dDRZM21vMjRqdnZQSk1jOXhKS0V0Uzk4c0YyUldMb1hnUmZ3S3FrSFRuaDgyNWVPWXhCRnEtNkE?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPb1ZjcElaUWN2MmFuTWhUbGFQY2xFRGhEMG9hcEpLZGxRamVNZjhEbVJfb2hqWDlpQzZwZXlQdEE5eDk1QjAzbXV6UzBIRHN6cDVhNmVTdFJHOVQ3UWlSSDZxQXJRc1V4VWlod0RNSTdQZm45QU00OENZWi1KdVdjU0ZuSUJZcC1TTzBIbmxUdXB1ckxGMUE2TlY2RVpQemVPcGNNV1FXUUY4b21uSjYwUk5Falo1WGl5Mk1fdnF3LXRCcGdCN0k5ZUpxeFV4cDhoaDlHaTN30gHkAUFVX3lxTE1tSk1IVTVZTDZaYWZtaGpLSVU5UDBhLWJKc3NraXE0UUZBMUw3UGlTd3FfQVZkWVVnVzJ6bnUycmEzZFplTzRoWW03VnNSWllIdWlfa3lTUTdUc2o0YUtoaTl6NDhkWmRJWTRjS2lETm41RW1lR011THVIV29uUEsyeGhYUkYzYXVZQ2ZOUWpfR1dUZjFHakNQUDM1R0VGZXF5NTRleHowU0FqZGJic2VmSFV5aWNHV3FKOFZobW93Yi1oSl9fdU5fNTFGTkY3UF9aOTNzRE1kNXFCWUZpLXBMVzdSZA?oc=5"
         }
       ],
       "keywords": [
         {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "demência",
-          "related_drugs": [
-            {
-              "slug": "biperiden",
-              "name": "Biperiden"
-            },
-            {
-              "slug": "entacapone",
-              "name": "ENTACAPONE"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "albendazole",
-              "name": "Albendazole"
-            }
-          ]
+          "type": "drug",
+          "slug": "golimumabe",
+          "keyword": "BIO",
+          "name": "GOLIMUMABE",
+          "url": "/drugs/golimumabe/"
+        },
+        {
+          "type": "drug",
+          "slug": "etanercepte",
+          "keyword": "BIO",
+          "name": "ETANERCEPTE",
+          "url": "/drugs/etanercepte/"
+        }
+      ]
+    },
+    {
+      "id": "5b68504fda39",
+      "title": "\"O termo 'canetas emagrecedoras' não é recomendado\", diz endocrinologista Bruno Halpern - TV Cultura",
+      "published": "2026-08-04T01:23:00+00:00",
+      "sources": [
+        {
+          "name": "TV Cultura",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVGhkSWNIa3lMSEptNGFNcHdNZi1uQ1BfVjQyN1MwN1RfMVFjeW53bjlIRGVwTjR5b29yX25qQjNidVExeWQ1WDhzbnl2R3VlaTdHaFpkYVI3QzltNjM3V2pjYTFMUS1QMVZMbW9PeVZFVkJyS0gzZVJRTWRraFRTSF94MlFyQTRxOTk0VXp4RmFaeV9LdEthSHVTOGRwYTZsQ2FaOEx5YW45OGNic3JqWjFzdk82Q0JubHAzaEwwazNLME1LXzZKLQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "tirzepatida",
+          "keyword": "MOUNJARO",
+          "name": "TIRZEPATIDA",
+          "url": "/drugs/tirzepatida/"
+        }
+      ]
+    },
+    {
+      "id": "df5cdf42efa8",
+      "title": "Ranking coloca 26 pesquisadores da Zona Sul entre os cientistas mais influentes do mundo",
+      "published": "2026-08-03T22:11:14+00:00",
+      "sources": [
+        {
+          "name": "gauchazh.clicrbs.com.br",
+          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOSU9BZ1BxbEs2UFZXSnI3RjlnSFJzcC1GUEI0Zm5FMnNBVW92MmkwMmthV0VsVVJ2a3Fyck42bkV5UG9YbDJ1b21tMHZOaGk1RTlYa2F3a1EwS1JlRXpwNktsQlRnbk9Jb05PTlVVMXBfVERROVdpN3JlMXh3QmFyNm5Ob0N1TTRjdUZoai1VN0hKOTlud21MNVBScWY0RGRjeGRhdGlrU2s2VkhxNGVuZjRuYjlmNC1lYWFqVlk4WU1IMV9pNHhTV29xUUx4eDNvcEhWNU5FLVpEOUs5ajRtYjlvNmNLRnZuU0tEZWJMdHVzeEtuNDgxam93elRBc29kczVqbllNNjA4Ymw4T2pBRkVn?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "etodolaco",
+          "keyword": "DORE",
+          "name": "ETODOLACO",
+          "url": "/drugs/etodolaco/"
         }
       ]
     },
@@ -106,33 +137,6 @@
       ]
     },
     {
-      "id": "f8d0eee591aa",
-      "title": "UNIFAL-MG aprova 5 novos cursos de graduação e vai abrir curso de Ciência de Dados no campus de Varginha - Varginha Online",
-      "published": "2026-08-03T18:31:17+00:00",
-      "sources": [
-        {
-          "name": "Varginha Online",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPajBNek5qMDhRRmRrQjV6NE8wX2QteHBpOXY2bG5OMmM0anlSZWFXZVpia01sNW1LbTNFSkZqdTZRTVZ5Q3ZQZUdCYjg3WHFoektiRHQtWTRoR19BTk1OMEdfbS16eFAxNGsxY1NIYk9YSUpENDZhNWpjb0RYdXlPY2RtSGMtWWl6TTFnMjY0QQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "diazepam",
-          "keyword": "UNI",
-          "name": "Diazepam",
-          "url": "/drugs/diazepam/"
-        },
-        {
-          "type": "drug",
-          "slug": "zinc",
-          "keyword": "UNI",
-          "name": "ZINC",
-          "url": "/drugs/zinc/"
-        }
-      ]
-    },
-    {
       "id": "6db27496e7a0",
       "title": "Opinião - Alvaro Costa e Silva: Desastres climáticos: falta prevenção, sobra desculpa - Folha de S.Paulo",
       "published": "2026-08-03T18:30:00+00:00",
@@ -173,26 +177,6 @@
       ]
     },
     {
-      "id": "f7737508e35c",
-      "title": "NASA emite alerta urgente ao Brasil e confirma apagão de quase 100% no país em 28/08 - Diário do Comércio",
-      "published": "2026-08-03T17:53:00+00:00",
-      "sources": [
-        {
-          "name": "Diário do Comércio",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYmxJWEVha1pZTlp4LU90RkhHLUFQUm9ZcmRjS0Utc29NcGctSC03OFpldE5xZlFubkliRmdYamVtT05ZbHQtLXVINmw4YWR5QTJQZUZlX3RBM2xnbDRSbFZzRzlLQjBHTGJpdFZ3ckEwenZFamtKYjFpSEhVUWF6bzhYN053Z3o4Y3Ywbk1qMENaNE1rdlpVMW9sMjhhbWxNcHN6ZlNDSVZmZDlGb25JWEJWM3ptY1ZEZm1Gdg?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
       "id": "d6ce9aa4351c",
       "title": "Campanha de Multivacinação começa na Baixada Santista; veja quais são as doses e os locais",
       "published": "2026-08-03T17:43:56+00:00",
@@ -205,10 +189,63 @@
       "keywords": [
         {
           "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
+          "slug": "diazepam",
+          "keyword": "UNI",
+          "name": "Diazepam",
+          "url": "/drugs/diazepam/"
+        },
+        {
+          "type": "drug",
+          "slug": "zinc",
+          "keyword": "UNI",
+          "name": "ZINC",
+          "url": "/drugs/zinc/"
+        },
+        {
+          "type": "indication",
+          "name": "pneumonia",
+          "keyword": "pneumonia",
+          "related_drugs": [
+            {
+              "slug": "ganciclovir",
+              "name": "Ganciclovir"
+            },
+            {
+              "slug": "clobutinol",
+              "name": "Clobutinol"
+            },
+            {
+              "slug": "tazobactam",
+              "name": "Tazobactam"
+            },
+            {
+              "slug": "oseltamivir",
+              "name": "Oseltamivir"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "infecção pulmonar",
+          "keyword": "pneumonia",
+          "related_drugs": [
+            {
+              "slug": "ganciclovir",
+              "name": "Ganciclovir"
+            },
+            {
+              "slug": "clobutinol",
+              "name": "Clobutinol"
+            },
+            {
+              "slug": "tazobactam",
+              "name": "Tazobactam"
+            },
+            {
+              "slug": "oseltamivir",
+              "name": "Oseltamivir"
+            }
+          ]
         }
       ]
     },
@@ -346,6 +383,42 @@
           "keyword": "SIL",
           "name": "SILODOSINA",
           "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
+      "id": "441a0a67203e",
+      "title": "Saiba como preservar a saúde do cérebro diante do envelhecimento - ICL Notícias",
+      "published": "2026-08-03T11:40:20+00:00",
+      "sources": [
+        {
+          "name": "ICL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2UHlsMDBaZWR1YXdzOUc4bWJvZTlqYzJMeEhNcUEzaC1ZVDl3X3FqZnd4V0JxZ0YyN2RfeUs4dDRZM21vMjRqdnZQSk1jOXhKS0V0Uzk4c0YyUldMb1hnUmZ3S3FrSFRuaDgyNWVPWXhCRnEtNkE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "demência",
+          "related_drugs": [
+            {
+              "slug": "biperiden",
+              "name": "Biperiden"
+            },
+            {
+              "slug": "entacapone",
+              "name": "ENTACAPONE"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "albendazole",
+              "name": "Albendazole"
+            }
+          ]
         }
       ]
     },
@@ -544,26 +617,6 @@
       ]
     },
     {
-      "id": "607b1276103c",
-      "title": "As pessoas que deixam o quarto desarrumado não têm rotina e tentam fugir das responsabilidades da vida adulta sempre que podem - Super Rádio Tupi",
-      "published": "2026-08-02T23:18:57+00:00",
-      "sources": [
-        {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQV3N1eFNPZkxrVUxIcVo4TUVXZHVUa3hFMzN1SVlzSVh1VDhqT1c2V2ItbmhUc1B1OHNCbHBwSmFMZ3BvcGF4U3JWWXEyanRpeFYxQTJBcTdFYVN0WFlBLUh5OHdqS190dm9vTVFXMHBGaHZ6R29UdExtRlQ4aW1NY1FpMDNtZFdNQVdfTDBrbEVnZGFFNVptbEt5QUtQdUF1cmhRcm9UQ3pvU0ZjS1FwSXp1N282a1dPdzJjSEt4ZGhyZ1gxNVV3T3J6UkR2Y2VZZHZtV19rRTJjY2NuWUk1V2htbkszbmgtRzhjS0IydUtEYTNT?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "levetiracetam",
-          "keyword": "TAM",
-          "name": "LEVETIRACETAM",
-          "url": "/drugs/levetiracetam/"
-        }
-      ]
-    },
-    {
       "id": "62489d371cb5",
       "title": "Colégio Pedro II abre especialização EaD gratuita em Ciências Sociais - Hora Brasil",
       "published": "2026-08-02T21:00:34+00:00",
@@ -604,22 +657,22 @@
       ]
     },
     {
-      "id": "f9492815bde5",
-      "title": "Redução no consumo de proteínas pode retardar envelhecimento, mostra estudo - Revista Oeste",
-      "published": "2026-08-02T18:23:00+00:00",
+      "id": "6d30c538a65f",
+      "title": "Dinossauros foram \"assados vivos\" após asteroide atingir a Terra - CNN Brasil",
+      "published": "2026-08-02T18:38:41+00:00",
       "sources": [
         {
-          "name": "Revista Oeste",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOEtBcmZYbldBZnlNMG5LVzJJT1JoY0E2RjFreXJsOW51LVR5ekthQUpTWVlwU0c2QlpDRHJDYTJvTW5lQVBfb0x1cE1Bd3M0ejhsNGRFaF84TFE5a1VOcGpfa2pha2FleERudHNHZnJUM3VnSE1aR0loZkpzLXg3aHFpMGpoZERlTVlnalB5MjhMQzNFelItM05OVnl6NVhDcU9hVGZyWEx4cFV5NUp3RzdoYw?oc=5"
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ19vZEp5ZkRjWUZodFNFMGZ1Rkh6bE1ka3pXVjJyWTJYN3pLNzhrMzZKM2tXSXViUl9VcmdxTi1FbWRBek9YUVZ3ckNkWV91U2cxUU9EVlBRMEVRdmlhd3F2MXVscmM5S1F0blhZU2Y1MXVJdkRJcGp5NHdodUp4Y0JFWk4wR2hRNnFPM2Jvd1NRUnFrcDBRbXFON0NNc0VQaWc?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "drug",
-          "slug": "etodolaco",
-          "keyword": "DORE",
-          "name": "ETODOLACO",
-          "url": "/drugs/etodolaco/"
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
         }
       ]
     },
@@ -1016,13 +1069,33 @@
       ]
     },
     {
-      "id": "aeb3868843a7",
-      "title": "Idosos podem estar consumindo menos B12 do que deveriam, alerta estudo - Folha de S.Paulo",
-      "published": "2026-08-02T15:39:00+00:00",
+      "id": "178fb634429e",
+      "title": "Os rastros de uma civilização milenar na Amazônia brasileira",
+      "published": "2026-08-02T15:37:26+00:00",
+      "sources": [
+        {
+          "name": "dw.com",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLWJTaFlxNHZnOUJaX3pYam1QREVDaFhnS0lqYmRJSnZRYmhZRURranBZTHI3MHoxUWc3S1J4bXRPbXlxTEtScmNTVnVLZWJLcW5uMEdBMGhuWUpsYVlQaE1QZmRiRTNYanl0bmxGUTZqc2FuTmlPanRtTlNGYll2SkZLVVV3NnhwQmpjSWUwWDRBVmtxR0N1a0RwdXlrWkhPRi1INUZrby1TNVpuZVozbjVVZnFhVEFuczhGR0VOMHDSAcABQVVfeXFMTXBvXzBBdVlCeDJWdFl1TV8ySElKM1pCeHNkempDblRBVHpVamlFSzZDVGNoY0ZpZUlDTHhwNFZGcV9XeEdzX1pzNmZUOVFTaktRNXJsVUdnOHByWFdwNTNCLWJUWi1ka1dzd2c4b1NiTWdGR3h1dERjbUhabk1jaWtQUklSa2tHcEdGdHhrMG5SSk1ZbWs3cFJwdmFDUkhZRGpyYWo2NG9zUGZsUnFlNFFjbXhIdm5fcHpxMzFXeS1y?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
+      "id": "994677a33ba0",
+      "title": "Pesquisadores citam tempo e custo como motivos para recorrer a revistas predatórias - Folha de S.Paulo",
+      "published": "2026-08-02T09:05:00+00:00",
       "sources": [
         {
           "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNGU3NnFPVjUyLWttdnlLdU1rbXJhd0Y5am9kLVNrODRkeldHNXAwYlEwaDdnWkJnRUM4LUhBN3dkU0xQMnlJRU05bEN5Q1piOG92Xzh6YnNoTE9UUmp3RG5KY28xY0lsejk5TjZVVkd3eUo1Skh3dzBqTnJ4N3FkRnhaYzlyY0pDZl9JYnpfY05DX09OWF8zbTE0MmhvMXZ3NjdjbEVWNlNsRnFEQkM3U1NGX1F1TWFwS25ic2tYYWxFdw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcDhJZXRQYlZfeUxUM2dLTHlwZm9KU2JBVElYTFpLb1kwMFVxQWNPeTd0WkxsN3lBMWJVQTlCb0dQeTVhWG1aQ2xDQzdZaEZ5bEtjV3g5M0loWVFoaXd4c2FKR0NCcXlRRXg1V0RVOVhMYk9uVG9kV2xPYmN0MGdSYzlhaUg3ZXZpNl9DSVhCdEd2alJQRkVJVjluc24yMWMyUEtkVmFWX0hjWE1BejZHUC0yemZ5WThucG5MTVVKNlhOUTBZWlZvNzRYNVRuX1hF?oc=5"
         }
       ],
       "keywords": [
@@ -1035,24 +1108,10 @@
         },
         {
           "type": "drug",
-          "slug": "vitamina_b1",
-          "keyword": "vitamina b1",
-          "name": "VITAMINA B1",
-          "url": "/drugs/vitamina_b1/"
-        },
-        {
-          "type": "drug",
-          "slug": "vitamina_b12",
-          "keyword": "vitamina b12",
-          "name": "VITAMINA B12",
-          "url": "/drugs/vitamina_b12/"
-        },
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
+          "slug": "etodolaco",
+          "keyword": "DORE",
+          "name": "ETODOLACO",
+          "url": "/drugs/etodolaco/"
         }
       ]
     },
@@ -1074,26 +1133,6 @@
           "name": "LEVETIRACETAM",
           "url": "/drugs/levetiracetam/"
         },
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
-      "id": "57adf3526328",
-      "title": "Fungo que transforma formigas em \"zumbis\" é detectado em musgos - CNN Brasil",
-      "published": "2026-08-02T09:00:00+00:00",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVHZHX1lhMWJES1hVUEJmR2REUUdPaVA0ZWNKcG9vRENWQmc3U0pJX19sYXJrSFVuM0pmQ2dUcXRnVXd3Ukc3cEhwR1ZIdGtSZnBEXzY1QThGU2EtMklJaC1xQVphSlRBUHFJOGV1aDAxcFprdVZyR2dwekl2QmY2WkN1c0JEbElMVVF5Mld6eHBqRmtfTkRmbmJLUy1vblV1?oc=5"
-        }
-      ],
-      "keywords": [
         {
           "type": "drug",
           "slug": "silodosina",
