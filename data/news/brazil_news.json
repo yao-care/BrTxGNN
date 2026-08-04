@@ -1,15 +1,51 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-08-04T14:18:15.906162+00:00",
+  "fetched_at": "2026-08-04T19:39:07.486907+00:00",
   "total_fetched": 83,
-  "unique_count": 80,
-  "health_related_count": 23,
+  "unique_count": 78,
+  "health_related_count": 19,
   "news": [
+    {
+      "id": "563bb36db27b",
+      "title": "Unicamp transforma bactéria em aliada para destravar o etanol do futuro - Olhar Digital",
+      "published": "2026-08-04T13:18:00+00:00",
+      "summary": "Unicamp transforma bactéria em aliada para destravar o etanol do futuro&nbsp;&nbsp;Olhar Digital",
+      "sources": [
+        {
+          "name": "Olhar Digital",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeE1hRjk4MDFvWmVqM1lPRHZmUll1R2toZ3dDZ1RiMEJMaVpkVFFSb0NXRVZRdHEwZ0s1NzNDSE8yTG1tNVlLMTFjSnRjV0hFektiTDk0bFo4QkZzT3A2bVNlWTBBOWVDeGNfSGVQMHBFY05CQld3ZWNkb0RDR3J4RkxNemt3SGFDbS1sYmpIdDV5OGd5U1VFNm9WNlFuZ3hnRDVaX2pEc0ZPTUZNSUhPOFFuVnZ4Z0RRU3YwQ0lkOGhGVWIzUkMw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6aab97b1da72",
+      "title": "Deficiência de vitamina B12: entenda o que é e o que pode causar a doença - A Gazeta",
+      "published": "2026-08-04T12:41:00+00:00",
+      "summary": "Deficiência de vitamina B12: entenda o que é e o que pode causar a doença&nbsp;&nbsp;A GazetaComo a metformina, remédio mais usado no diabetes, pode derrubar seus níveis de B12&nbsp;&nbsp;Veja SaúdeIdosos podem estar consumindo menos B12 do que deveriam, alerta estudo&nbsp;&nbsp;GloboO formigamento frequente e constante nas mãos e nos pés nem sempre é problema de circulação sanguínea, mas pode ser sinal de deficiência de vitamina B12&nbsp;&nbsp;Tua SaúdeDeficiência de vitamina B12: um problema s",
+      "sources": [
+        {
+          "name": "A Gazeta",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc1JLQ21aTk9HVk1PYmw3andtaklDYkpwS1JUSlFzZkE2MGp3clYxZ0NFamgyaWtuMjJDdHZGT1BQS3RuQk9qcjVKRE1wUnloRXVNM1o5eGVBaVB1bkxIOUc4Y0RHU3k3RmE5Y2VLckd0UGJFT3JwZVZwMEZ1VmV1eXFzM0lveDhJVk5zTUZoTEkyX1lQVDZYOFZqY1k1U0NHdWRZdDVsaG92Qmh0cHZnZlctZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "403628ced463",
+      "title": "Desafio Diagnóstico: Mulher de 48 anos com ataxia, nistagmo, vertigem e fraqueza em todos os membros - Medscape",
+      "published": "2026-08-04T11:42:46+00:00",
+      "summary": "Desafio Diagnóstico: Mulher de 48 anos com ataxia, nistagmo, vertigem e fraqueza em todos os membros&nbsp;&nbsp;Medscape",
+      "sources": [
+        {
+          "name": "Medscape",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcnZhbFV6NUFqZVBicDc0MU13ZlpTQ05zSVc1M2wzMGRpQUdLRWtrWHBwaFpKZDF5SVJMSV84OE1GZ0xDRnBxQXg5bWROZDBZd09FZUlEUzJsYUQxMjlKc1dXRXlsVW04eDVDaVViOFBFWUpTbW50bjBNOVVNY0lHUFBSbXpFMU9xSXJGazY0OGMweUVxbDJEbnZ2NVkzejZTR3hFWW5ORS1qNmNoVF9faA?oc=5"
+        }
+      ]
+    },
     {
       "id": "61604ec82091",
       "title": "Mudanças na alimentação e exercícios podem reduzir risco de declínio cognitivo, mostra estudo da USP - Terra",
       "published": "2026-08-04T07:58:00+00:00",
-      "summary": "Mudanças na alimentação e exercícios podem reduzir risco de declínio cognitivo, mostra estudo da USP&nbsp;&nbsp;TerraEstudo inédito na América Latina mostra que demência pode ser prevenida com mudanças de estilo de vida&nbsp;&nbsp;portugues.medscape.comO cérebro não deve ficar parado&nbsp;&nbsp;O GLOBOSaiba como preservar a saúde do cérebro diante do envelhecimento&nbsp;&nbsp;ICL NotíciasO mal que nos rouba tudo&nbsp;&nbsp;Correio Braziliense",
+      "summary": "Mudanças na alimentação e exercícios podem reduzir risco de declínio cognitivo, mostra estudo da USP&nbsp;&nbsp;TerraLimitar horários de alimentação pode ajudar a evitar declínio cognitivo na velhice, diz estudo&nbsp;&nbsp;SuperinteressanteCientistas revelam o horário ideal que mulheres devem realizar as suas refeições após os 50 anos&nbsp;&nbsp;Dourados NewsAlimentação e longevidade: limitar o período diário das refeições pode ajudar a preservar a memória&nbsp;&nbsp;SIC NotíciasComer mais cedo ",
       "sources": [
         {
           "name": "Terra",
@@ -21,7 +57,7 @@
       "id": "009e25b623d3",
       "title": "Saúde de Corumbá confirma morte por chikungunya e reforça ações de combate ao Aedes aegypti - Diário Corumbaense",
       "published": "2026-08-04T06:31:20+00:00",
-      "summary": "Saúde de Corumbá confirma morte por chikungunya e reforça ações de combate ao Aedes aegypti&nbsp;&nbsp;Diário CorumbaenseCorumbá tem situação preocupante com circulação dos vírus da dengue e chikungunya&nbsp;&nbsp;MidiamaxHepatites silenciosas já causaram quase mil mortes em Mato Grosso do Sul | Notícias de Campo Grande e MS&nbsp;&nbsp;capitalnews.com.brChuva aumenta risco de criadouros do Aedes e acende alerta em Tupã&nbsp;&nbsp;radiotupa.com.brCorumbá confirma 1ª morte por chikungunya em 2026&",
+      "summary": "Saúde de Corumbá confirma morte por chikungunya e reforça ações de combate ao Aedes aegypti&nbsp;&nbsp;Diário CorumbaenseCorumbá tem situação preocupante com circulação dos vírus da dengue e chikungunya&nbsp;&nbsp;MidiamaxChuva aumenta risco de criadouros do Aedes e acende alerta em Tupã&nbsp;&nbsp;Rádio TupãEnfrentamento ao Aedes aegypti começa com a eliminação de criadouros&nbsp;&nbsp;Buriti NewsCorumbá confirma 1ª morte por chikungunya em 2026&nbsp;&nbsp;Campo Grande News",
       "sources": [
         {
           "name": "Diário Corumbaense",
@@ -69,23 +105,11 @@
       "id": "5b68504fda39",
       "title": "\"O termo 'canetas emagrecedoras' não é recomendado\", diz endocrinologista Bruno Halpern - TV Cultura",
       "published": "2026-08-04T01:23:00+00:00",
-      "summary": "\"O termo 'canetas emagrecedoras' não é recomendado\", diz endocrinologista Bruno Halpern&nbsp;&nbsp;TV CulturaAcompanhamento médico reduz riscos de efeito rebote no uso de canetas emagrecedoras&nbsp;&nbsp;G1Como evitar o “efeito rebote” após Mounjaro e outras canetas emagrecedoras?&nbsp;&nbsp;Veja SaúdePor que usuários de canetas emagrecedoras estão se exercitando menos?&nbsp;&nbsp;Jornal CorreioCanetas emagrecedoras exigem cuidado depois do uso: descarte errado pode colocar pessoas em risco&nbsp",
+      "summary": "\"O termo 'canetas emagrecedoras' não é recomendado\", diz endocrinologista Bruno Halpern&nbsp;&nbsp;TV CulturaAcompanhamento médico reduz riscos de efeito rebote no uso de canetas emagrecedoras&nbsp;&nbsp;G1Como evitar o “efeito rebote” após Mounjaro e outras canetas emagrecedoras?&nbsp;&nbsp;Veja SaúdeCanetas emagrecedoras exigem cuidado depois do uso: descarte errado pode colocar pessoas em risco&nbsp;&nbsp;Folha BVCanetas emagrecedoras: 7 erros que colocam a saúde em risco&nbsp;&nbsp;Terra",
       "sources": [
         {
           "name": "TV Cultura",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVGhkSWNIa3lMSEptNGFNcHdNZi1uQ1BfVjQyN1MwN1RfMVFjeW53bjlIRGVwTjR5b29yX25qQjNidVExeWQ1WDhzbnl2R3VlaTdHaFpkYVI3QzltNjM3V2pjYTFMUS1QMVZMbW9PeVZFVkJyS0gzZVJRTWRraFRTSF94MlFyQTRxOTk0VXp4RmFaeV9LdEthSHVTOGRwYTZsQ2FaOEx5YW45OGNic3JqWjFzdk82Q0JubHAzaEwwazNLME1LXzZKLQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "df5cdf42efa8",
-      "title": "Ranking coloca 26 pesquisadores da Zona Sul entre os cientistas mais influentes do mundo - gauchazh.clicrbs.com.br",
-      "published": "2026-08-03T22:11:14+00:00",
-      "summary": "Ranking coloca 26 pesquisadores da Zona Sul entre os cientistas mais influentes do mundo&nbsp;&nbsp;gauchazh.clicrbs.com.br",
-      "sources": [
-        {
-          "name": "gauchazh.clicrbs.com.br",
-          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOSU9BZ1BxbEs2UFZXSnI3RjlnSFJzcC1GUEI0Zm5FMnNBVW92MmkwMmthV0VsVVJ2a3Fyck42bkV5UG9YbDJ1b21tMHZOaGk1RTlYa2F3a1EwS1JlRXpwNktsQlRnbk9Jb05PTlVVMXBfVERROVdpN3JlMXh3QmFyNm5Ob0N1TTRjdUZoai1VN0hKOTlud21MNVBScWY0RGRjeGRhdGlrU2s2VkhxNGVuZjRuYjlmNC1lYWFqVlk4WU1IMV9pNHhTV29xUUx4eDNvcEhWNU5FLVpEOUs5ajRtYjlvNmNLRnZuU0tEZWJMdHVzeEtuNDgxam93elRBc29kczVqbllNNjA4Ymw4T2pBRkVn?oc=5"
         }
       ]
     },
@@ -102,22 +126,10 @@
       ]
     },
     {
-      "id": "2ec4a77da12c",
-      "title": "Campanha Nacional de Multivacinação começa nesta segunda-feira (3) - CNN Brasil",
-      "published": "2026-08-03T18:18:19+00:00",
-      "summary": "Campanha Nacional de Multivacinação começa nesta segunda-feira (3)&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUnpNcXVEX3EyTkZpYzhsbHU2SW82UjNqckpTNjg5WGV2ZW9YTHA2Q1lhdDhqRXZlNlJab3ZNdnExOW1wWGFyOVNZYUVmUVJISFdlRkJqbmxDQVpLaFk2SlZYUVp5Nl9sZVppX1ZMclZTV0ZZdkNYYjV0WU9CaEYyYk54a2Z2RFJFX2pFM3otM2c1Q3BxWDRSb3BCM1g3eFI5Nmc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d6ce9aa4351c",
       "title": "Campanha de Multivacinação começa na Baixada Santista; veja quais são as doses e os locais - G1",
       "published": "2026-08-03T17:43:56+00:00",
-      "summary": "Campanha de Multivacinação começa na Baixada Santista; veja quais são as doses e os locais&nbsp;&nbsp;G1Ministério da Saúde amplia recomendação de vacinação contra o sarampo em três municípios de São Paulo&nbsp;&nbsp;www.gov.brDia D de Multivacinação terá cinco pontos de vacinação em Jundiaí no dia 22 de agosto&nbsp;&nbsp;Prefeitura de JundiaíPopulação de 6 meses a 59 anos deve se vacinar contra o sarampo em três cidades da Grande São Paulo&nbsp;&nbsp;agenciasp.sp.gov.brCampanha para atualização",
+      "summary": "Campanha de Multivacinação começa na Baixada Santista; veja quais são as doses e os locais&nbsp;&nbsp;G1Sarampo em crianças com menos de 5 anos pode causar pneumonia e sequelas neurológicas&nbsp;&nbsp;Folha de S.PauloCampanha para atualização vacinal de crianças e adolescentes&nbsp;&nbsp;Prefeitura de ManausCuiabá realiza Dia D de Multivacinação em 22 de agosto nas 72 USFs e reforça a importância do aleitamento materno&nbsp;&nbsp;Prefeitura de CuiabáO que fazer diante da escalada de casos de sar",
       "sources": [
         {
           "name": "G1",
@@ -138,10 +150,22 @@
       ]
     },
     {
+      "id": "2915590725a1",
+      "title": "Faculdade de Medicina abre agenda para visita das escolas públicas - jornal da região",
+      "published": "2026-08-03T16:11:32+00:00",
+      "summary": "Faculdade de Medicina abre agenda para visita das escolas públicas&nbsp;&nbsp;jornal da região",
+      "sources": [
+        {
+          "name": "jornal da região",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVV9FcmMxcG12WUhxNkRWVzdITGdZN0k4UHdhbjUzNHMyTjVLdW1ocHJlYno5ZDk2Qm16WW5QVTJFVUNxUGxKX2U3MlpZSFhkaklVVnI5NnJ1dmh6WGJtRWhsUlJ4eVhMR1FDeVIwLXZGQVZSRjdjaWRoNjlCMlduR2pfdHkzQVZya3ljdG11Q2VrZmFKT0Y2OHFRQng?oc=5"
+        }
+      ]
+    },
+    {
       "id": "005ad1015b58",
       "title": "Consumo de açúcar na infância pode elevar risco de demência, aponta estudo - CNN Brasil",
       "published": "2026-08-03T14:06:48+00:00",
-      "summary": "Consumo de açúcar na infância pode elevar risco de demência, aponta estudo&nbsp;&nbsp;CNN BrasilDemência: o hábito com açúcar antes dos 2 anos que pode ter reflexos décadas depois&nbsp;&nbsp;TerraCortar o açúcar na infância protege o cérebro por décadas e reduz risco de demência, aponta novo estudo&nbsp;&nbsp;Extra onlineAçúcar na infância pode aumentar o risco de demência e Alzheimer décadas depois, revela estudo com mais de 64 mil pessoas; entenda por que os primeiros 1.000 dias são decisivos&",
+      "summary": "Consumo de açúcar na infância pode elevar risco de demência, aponta estudo&nbsp;&nbsp;CNN BrasilDemência: o hábito com açúcar antes dos 2 anos que pode ter reflexos décadas depois&nbsp;&nbsp;TerraCortar o açúcar na infância protege o cérebro por décadas e reduz risco de demência, aponta novo estudo&nbsp;&nbsp;extra.globo.comAçúcar na infância pode aumentar o risco de demência e Alzheimer décadas depois, revela estudo com mais de 64 mil pessoas; entenda por que os primeiros 1.000 dias são decisiv",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -150,49 +174,37 @@
       ]
     },
     {
-      "id": "b1911299f7b2",
-      "title": "USP desenvolve pesquisa sobre separação de terras raras em área de Caracaraí - Folha BV",
-      "published": "2026-08-03T12:15:00+00:00",
-      "summary": "USP desenvolve pesquisa sobre separação de terras raras em área de Caracaraí&nbsp;&nbsp;Folha BV",
-      "sources": [
-        {
-          "name": "Folha BV",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa0YxcVc0WlhROURoSzlZZ2V6anF4Y0tua1ljM0xqYm91LV83V1FqaV9MOVkyY0pQWFdjb0g1QUdTWjBnaTBuem11dy1wS1c0em9QTFMtRUxRLXJOVV82NmlKOW51RXBsT0JuUUZLYXh3SGcya1VPOENGZkxtVGd2VDE3cTJrVlA3RjN1MlE3c3BKS3dNQ2xiRmZIWEhDOTg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cde4546f0c1a",
-      "title": "USP seleciona Complexo Barreira, em Roraima, para estudos de separação de terras raras - Roraima em Tempo",
-      "published": "2026-08-03T12:12:00+00:00",
-      "summary": "USP seleciona Complexo Barreira, em Roraima, para estudos de separação de terras raras&nbsp;&nbsp;Roraima em Tempo",
-      "sources": [
-        {
-          "name": "Roraima em Tempo",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRU9mQTNVU1NmVmVrdkE2aFVDVThJUjFRN0I3WGlFRXVwWWdDaW5nblNMc3duU0R5OWNSZ2pWR2txdlEtYkhnaTZUTThNek14NlFSQS1pOFZIcFlCQ0k1VnJIeW9TcVNKLTRTbkQ1VmR0TG1lbTFzemxsWW5nM1BUb2ZkN3RZRVFmb2xUSklwTkc0b1V2X2NSVmdLRUpzc1d5bU9sVlFFdTBJaVZKN05WeUFreUEtc043aklfRVFLMlrSAcYBQVVfeXFMUDVYNFp4QjVoaVJlSnZKQmhwR1ltNjM3RFdXRFowcllPY2VaNWNHTEpsYVpnVlcwNnRMV1FxMEJGWUxlaHU5dzlyWV9BMTJDaXEwRk0wR002bzJuVWh0aHhXWDNiWE1mZmVoNTZRQjJoc1FKeG91VGFJVjdpUEgwcDc2aE13a2dqRjVSaEhyTnhWakowNHl2dXZUWmNXSlFIYUs2Vmo4WXZFSnpZOVliT1FJZzZPSnVCcmJ4WS1JTlN6TUlSNlRn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e6ee4455a1b3",
-      "title": "Nuvens artificiais podem enfraquecer El Niño, revela estudo climático - olhardigital.com.br",
+      "id": "c8da3785b381",
+      "title": "Nuvens artificiais podem enfraquecer El Niño, revela estudo climático - Olhar Digital",
       "published": "2026-08-03T12:10:00+00:00",
-      "summary": "Nuvens artificiais podem enfraquecer El Niño, revela estudo climático&nbsp;&nbsp;olhardigital.com.br",
+      "summary": "Nuvens artificiais podem enfraquecer El Niño, revela estudo climático&nbsp;&nbsp;Olhar Digital",
       "sources": [
         {
-          "name": "olhardigital.com.br",
+          "name": "Olhar Digital",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNzZWR3N2UzMxbmxETGhvUWVfZ29nM19UU3VLTkRnMGZUWHZzaHZFeFJ6VHdKZXFoWVdSR3BBU3ROYVdLQWp6S1MyLS1sSXE0SkhPdzh0RzZWS1dnclkyYkVzbjRTbDRxOHBYRmd5aVdmSFVTY0M4S0ZwdHJyQ1VYZGJqOTV5emt1NGU0SEw2WWJhNUtqVG9DN2dBNzZVUGtpaUlLNW1ieU9MNm8zcHE4ak95b0FYQzAtcUZvQ2JOQmc5TFU?oc=5"
         }
       ]
     },
     {
-      "id": "cb153eb27f33",
-      "title": "Estudo inédito liga mudanças climáticas aos aquíferos do Paraná - tribunapr.com.br",
-      "published": "2026-08-03T10:40:00+00:00",
-      "summary": "Estudo inédito liga mudanças climáticas aos aquíferos do Paraná&nbsp;&nbsp;tribunapr.com.br",
+      "id": "6f24c2bfed07",
+      "title": "A consciência pode existir além do cérebro? Estudo questiona os limites da neurociência - Exame",
+      "published": "2026-08-03T11:51:54+00:00",
+      "summary": "A consciência pode existir além do cérebro? Estudo questiona os limites da neurociência&nbsp;&nbsp;Exame",
       "sources": [
         {
-          "name": "tribunapr.com.br",
+          "name": "Exame",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPa2g1OC1Wa0FNQ3REWWc4dkdZRGhEeVl5dm4zSkFSQUEwOXA3QVNqTTBBVFdoUzFJX284RlJTTTk0V0VhdjEwQnhtbUJCbC1RRFlTLVhhLW1ZRE5QQWlzSTVySXBCY1VPMENBbDhVM2JPbkxzNnlmSE9CbkNxSl81TDBJMWZobmx1dXotbk9fWXh0V1Z0YlRvOFlIc0Zad0dhOWN5Q0I4c3R5ZVBSZy1aM3A1TQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3f8771868556",
+      "title": "Estudo inédito liga mudanças climáticas aos aquíferos do Paraná - Tribuna do Paraná",
+      "published": "2026-08-03T10:40:00+00:00",
+      "summary": "Estudo inédito liga mudanças climáticas aos aquíferos do Paraná&nbsp;&nbsp;Tribuna do Paraná",
+      "sources": [
+        {
+          "name": "Tribuna do Paraná",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMUdFbm5aUmpMQWJzZU9XZmNIUWN4VkotaExHSEdNMEEwQk9odF9RU3lfZmZhXzdzdnZCbGZXUldyNHFGV1JUVUJzRmhpWHR0TTYwcGlialB1dGVxZDk1X1NxVVJQSUVzbkFDODNuaTBKWFpnU3ZoN280bWpBMzQ0Wk52cXNZS3JRZ1dIZzVJdi1NUDFydHRF0gGcAUFVX3lxTFBRLUNWOXpqM1d0OXQ1eWhMRHpiY0JfUi12eVZOYm9yQWxvUFRKeDdfamk5YlFrNVZxMFM2TDdiMFJhamNEUTZFZmNZcFcwUmV0SXQ1OVlQZDJMMTJVemNGX1Zxdk9qWWMyWEQwUk9qcTJaN2JlVmQ2ZzlXbFBhMUJrX05zQlNfTHYwUUF2TEV0SGEyT3JESG5yR1BSUw?oc=5"
         }
       ]
@@ -210,18 +222,6 @@
       ]
     },
     {
-      "id": "7f552ff023fc",
-      "title": "RS e SC registram aumento de casos de SRAG por vírus respiratórios - CNN Brasil",
-      "published": "2026-08-03T03:38:51+00:00",
-      "summary": "RS e SC registram aumento de casos de SRAG por vírus respiratórios&nbsp;&nbsp;CNN BrasilRio Branco está entre as duas capitais do país com alta nos casos de SRAG&nbsp;&nbsp;ContilNet NotíciasCom quase 2 mil internações por SRAGs, Acre registra maior número em três anos&nbsp;&nbsp;G1Paraná reforça vacinação após queda de 15,5% nos casos&nbsp;&nbsp;Jornal do OesteInfoGripe: casos de Síndrome Respiratória Aguda Grave seguem em queda na maior parte do Brasil&nbsp;&nbsp;Brasil 61",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTC1tN09NenpNR1NZX3F6Z2VEU3Q4Yzg5RG1VTkF4d0JPQkppZWtvbFgtWXEweTlRVjFMMi1qVERHdWtrZ203Qm9vTTBzdzNBR2tWa0NEdVY0Y0NiT0NxdDlnMnRYYmtuQVdZeV8xMS1yRFVIMWhLOUR5ZHFId0Z6VXR2ZnlEVWxJekkteVNyMktjUmhNZ3JfbjhIRUdzeWlwYWcwRw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ec66b85b2c47",
       "title": "Dieta rica em açúcar pode agravar a asma já no curto prazo - Agência FAPESP",
       "published": "2026-08-03T03:01:58+00:00",
@@ -230,54 +230,6 @@
         {
           "name": "Agência FAPESP",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMXQxV2d2RVpMbjBKcWtsb19lOGVQeTg2ZGJwQnBPcjdNZVlZMFpuaktmOEpTVUZsREJIT2JxYllMYU1aQWt5VTRUaXJlMTRpTU9wYUtKYTV5enhiMGdyZjJIdmUwWlRHbFR5M1VzQWVTZno5ZG1PclJuM0lkMk9KM0ExamFueUFHMDRzWGRCZVJESk1S?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "896197bf460c",
-      "title": "Veja os sete alimentos que ajudam a baixar a pressão arterial - ICL Notícias",
-      "published": "2026-08-03T02:22:39+00:00",
-      "summary": "Veja os sete alimentos que ajudam a baixar a pressão arterial&nbsp;&nbsp;ICL NotíciasMenos sal e mais potássio para o controle da pressão arterial&nbsp;&nbsp;Correio BrazilienseMUDANÇAS SIMPLES NO ESTILO DE VIDA AJUDAM A CONTROLAR A PRESSÃO ARTERIAL&nbsp;&nbsp;jornalagazeta.com.brA pressão alta crônica nos adultos não se deve apenas ao excesso de sal na dieta, mas sim ao baixo consumo diário de potássio essencial que equilibra o sódio dentro das células do corpo humano&nbsp;&nbsp;Tua SaúdeEis a ",
-      "sources": [
-        {
-          "name": "ICL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vRmZqVmcyX0doSU5ySm1qRVVSWjdwR1ZTaTE3X3M1WjFIamVtLXFXWVVtdlBkdjFXWl96QnhveEdlcWYxLWF5aUZwcEstcGJ3RTVRbVQyU3VOQnFheDM1QWFHQkt2aHpBUVpJSkduNmhhSFIwMnc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d480247f959c",
-      "title": "Menino de Ribeirão Preto, SP, ganha medalha em matemática e mãe vibra com conquista: 'Estudo tem que ser priorizado' - G1",
-      "published": "2026-08-02T18:05:49+00:00",
-      "summary": "Menino de Ribeirão Preto, SP, ganha medalha em matemática e mãe vibra com conquista: 'Estudo tem que ser priorizado'&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNamgxSGtLMkJxQkI3N1NnWFpBU1hubGktYVM0d2JjWDVJSnd1cVh4dXlUdkJvQlZKblVldUxMVGZ1dzVoZEQ0bkhsWlJoUG1GVnBLR29xbHotX0lEakZRZmxGOGJnYUFVdUhsUW9ULWg3d2ZDd3dGMlFaYTR4XzF2R19HZGlNY1Y5bW5XZEQ4VlE4ZVM4dEhIZFdZeDdpTDNCb2RLOG9BWW1FTFJEajZRYjhmby1sbUpkdUZMV0h5ZTBpdjVWWUF2dDd1NkVMTkY0TGVKXy01MFE5aFQ0VzU1Ui1rQVJjUldlbjd2OGVyWWJocWgta1BhUllFWWZtTHJ3b3B0dVlBdEhZcjRsTmZr0gGeAkFVX3lxTFBBT2d5OC1HRXc0bVBqMnowc1RqLTRQWDAtVDhxNHBYT1BPN3FNbVcwQ3BnTk9PR0Q0OW1HaDBUTmNXd1ZnaUc0NmdyYldUMzdCMWozQ3ZvSXpZWlZldXlwQWxWa29RTFNQV3RMS2V6M2ZRYUdwSUxlT2tid0pFZmFnOGtfY2lkVzVzNTlCdm1LX3I3aEFnN21YWS1ObGNDTFpSQjVEOXFiQ3M4T2RjVENCcEtqWkdvMWZnWTIxYWJIUDRoRlRCYVVmZGF3ZXJGRnNVVGRUc19KVWhlZEFEUWI5dzlaMkc5UmJQRnJtUGlKTk1Ba2JveW1QdWRZU3JZYlo5WGk3QW9NYUdrYjlwN3JOZ09kSnI4VElfSUdiNlE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6c0b4608ceab",
-      "title": "Menina chinesa de 6 anos morre após experimentos com edição genética; cientistas são investigados - Globo",
-      "published": "2026-08-02T15:16:07+00:00",
-      "summary": "Menina chinesa de 6 anos morre após experimentos com edição genética; cientistas são investigados&nbsp;&nbsp;Globo",
-      "sources": [
-        {
-          "name": "Globo",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUGh1OG9DYzlNUk9rVXV5UUtLeWJnN29jd0xUQ3RYdDJGbWFpdHJxdmxXOHgwellpOVRtMXlld2taT2VFWmhCUlllSGxjOURQV0xUQUMxQTRfcU11cE8wczZYcWl1TnhIajRGVFlRc3VaYkhuOVY3LXhOVUNtLWxrbFNteDJmWnZvMGdCeS1qZjk5QVZqNW81blZOMU1aWlVpbVA2VzJMaDhQUlZaWW94M1RnUDhBOFRKTEhWdnYzNGNUemw3S3BlcHdrTlFVQzFLSHN2Q1ZQTEpsNXdpZUthM05MZkJWeUx4V0w1NjNOeUHSAf8BQVVfeXFMT1l3NFItOFQ5Y0lzQ1o4dWptb3JiOUZsUkdrWElSUlJDel90OWlncFM4STg3ZkJ5NWF6ZkFlb2JtZzdfU0laTWdLcmtxeE54TEZ3V2hacW9qNG80QmF1MlRVdThaTC1hY25lRDlMa2lyRE5aclhWbHpVQWlESWRXSXVJVm9ETVBOR3AtbXU0aHJhcVJLa1FDbW9KZHBwNnhzZ0lsR2dhMFJ4czZDRG91OFhvSFNXWVBTckxWVy1ZNGNSTHA2RmlqSVNuMUxhZEphXzhoS2d0RFBDa3FyZnhzbkxzclkzQ0QwN2lDblVTaHM1NEF3VVZtY0ZtdFl0X0FB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4ba4a2f7ccf0",
-      "title": "Acordar várias vezes para urinar: saiba quando isso é normal e quando você precisa de atendimento médico urgente - O GLOBO",
-      "published": "2026-08-02T14:23:53+00:00",
-      "summary": "Acordar várias vezes para urinar: saiba quando isso é normal e quando você precisa de atendimento médico urgente&nbsp;&nbsp;O GLOBO",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWHZneEM4cXhPX0kzeU9JNXJQbENrZ2otc0Q3OWpLaHBqTHRhVDI3b3dGODgzSjNRWlFraUpRMHZLTHAycVZCMTZUdUFacmM3Rmlub19qLWZfNGdIaHpqRFBxSUVFajEtOXRBeGNlR1J5N01QY1lrUlVSaE9YOE4ySjU5MVZxUnZQX0FLT1BGcWtXT0ZXbG5aU0ljajJpSTZCamJKLVprU3llOExLWllwc2tGeVRUdVhwaWdCTmVDYzg1SFBUMlR3M0U0MFJLSE9QbmVFbzRscFNCM2ZLd25VaGJqY0RoNy1LUlpDR3RBUGtOa3hPWGZfRHpsNNIBigJBVV95cUxNa25Xc0dDMDRtN0lwVE45OVBLVmpTdVFLYXlISXZkNTRuSUIxc09ZbDY0RkZnMDVqQTU1LXNRV0VrREt4aDUxRlViVlJXZmo1bTRqblM1RUhyUmQtY3hGdXBzV3k1cHlJbm56eGRlbVlweXI4OGRCNXhFRVZuWVlHTi1GdDZ1YVdyOXVITzlmMEZ4a3JPZHhsNFVScDZvbVk2bDNONTFxMC1zZHVfNXFDN1BmM1NNYzYtLWoxNElOd2ZFcjAxRWF1bmVscXBRZlc2dTBLN1o5b1pYQTRFTHFMLUxlc3JsYkdHRnppUnBFZjEyRm9HbEh3STJtbllRQWxSNVY4LTVENm9MUQ?oc=5"
         }
       ]
     }
