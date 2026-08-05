@@ -1,14 +1,105 @@
 {
-  "generated": "2026-08-05T14:11:52.414743+00:00",
-  "count": 30,
+  "generated": "2026-08-05T19:36:47.352028+00:00",
+  "count": 24,
   "news": [
     {
-      "id": "c524db361c45",
+      "id": "7c7ec5c489dd",
+      "title": "Lúcia Helena: Além do peso: 20 pontos que determinam o sucesso do tratamento de obesidade",
+      "published": "2026-08-05T15:00:00+00:00",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOFJteXV6VDlCN3lMMDY5MXBjOVNhbUZ3azVXYVp5X2xjSjFQWElKaXdjd3JZdDA0NmNrdnJKTW1kcVFDOG50dVBiLVFRbzh4LWhHU2E2c3I5RzRQVXpaU2dNblVnOWZQNFlGX2hQLW1XRjVlSWhhdWxkcFR4YS1EczZhbzR2S21KSzVqNmJCdngtY1NiTV9RVzRPQVVoQW5xcDRJel90dlhMRlpTV2ZRcWdnWV91TjhHWm9GQ2I4SDZxb0poaTROeGF4X29jVEdHa0R5VlVkTDQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "levetiracetam",
+          "keyword": "TAM",
+          "name": "LEVETIRACETAM",
+          "url": "/drugs/levetiracetam/"
+        }
+      ]
+    },
+    {
+      "id": "2ea26bbf3f6b",
+      "title": "Estudo aponta diferenças no risco de demência após os 90 anos",
+      "published": "2026-08-05T13:04:06+00:00",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN2E1eXJEV2tGbVBudEN0cnVmaGdVUURBLWxIV0tXQ3NCWnhBaVNoaUJ6eFBpdTNCVGNUZHZDSXc2QWdRZllSWTBmVGlyaHpBY2lXNndSenJQSkE5dFotTUdPYUZaRHE2MTVpTVpoVURBQWNxaGstLXlraXJVYnlid2xHSGlQMjB3MkgtczI0ZXExRDdlZERQTDhoSFFQWXJUSXJEcXhGd1hyNkp1YkFkTm1qbXoteF9BMjl1cENoVlBkTW8?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "demência",
+          "related_drugs": [
+            {
+              "slug": "biperiden",
+              "name": "Biperiden"
+            },
+            {
+              "slug": "entacapone",
+              "name": "ENTACAPONE"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "albendazole",
+              "name": "Albendazole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ab98e45cfab6",
+      "title": "Transtornos mentais atingem 15,6 milhões de jovens no Brasil, aponta estudo",
+      "published": "2026-08-05T12:45:37+00:00",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS0J5aG44WTU4ZHpoN1hDVzAyQWVkcUwtVEhvTTFLaUVKSXI1b3R5Wmc4dWpCaEIxM0xiWGl6dFZXOUtBZ1dnSHpiTF9uQVF4R1FOcGdaUHpyZXJxTUFBWE93b0ZXVE9ZbndJY01VdDlad196Z3RoTmpKd2VhekNXdHBhbzdwVUUwZU92RDBNWVFPRVdFMlMzUmxsRjhlVXY2MGNrU3RkaUZXdm1kTlhma2xPZlg0VFhuNXhHUy1vaTQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        },
+        {
+          "type": "indication",
+          "name": "anxiety disorder",
+          "keyword": "ansiedade",
+          "related_drugs": [
+            {
+              "slug": "flunitrazepam",
+              "name": "Flunitrazepam"
+            },
+            {
+              "slug": "centella_asiatica",
+              "name": "Centella asiatica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4079c56570be",
       "title": "Fóssil raro na China preservou órgãos internos de réptil marinho",
       "published": "2026-08-05T12:35:40+00:00",
       "sources": [
         {
-          "name": "Globo",
+          "name": "revistagalileu.globo.com",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTXI2YVRZTjZzNlFHb1dpNUZseVUtUlVvZEN0Ri16OW1IeTI0MWVBV0xsRlQ0Ym5rejR0X3VmY3FLbFllNi1jMUZ3VmFmV0dzeUpuRHFhT1B1RWJGbnloeTEwSkZKVFVRdVJEa3p2cVd2TDZyblYtVHN3N2NneWZQVGJKVU5NcEpRR0c4VzctY21lUjl3dlFJd1FNQWhoTTV3U2tsRWEtUlg2bzBnU2lCbWF5Wm1wSFBmcFFDTmtaN1NBbTg0dnfSAdQBQVVfeXFMTW8yQy1yeUVGZmxXVFdlTXFfNGs3MEMtOHpzUUxHYjdKMlo0a0ZIY0lYU1RocDd6LXRvZENCU04teE9fYzMxNXZGVnFlbnk3b2NtQTRxclpMN1VJQXhxMnVWdkRLaGR0bVdqTzFPUWJ5aGZEVDBiNFM4OEY0MGVlQW82V1RXSE5aSmdHREYzbEE5N1lxUUNyOWx2cmdVR1BNT05fQkJtcmhURGI0NlUxMWZhdjFLQ294S09zb040d2dzMnNSQXladzEzYm9IM0dKbGxkeDQ?oc=5"
         }
       ],
@@ -415,6 +506,33 @@
       ]
     },
     {
+      "id": "04b9d0e6e351",
+      "title": "Quem tem medo dos corpos trans? Entrevista com Berenice Bento - Instituto Humanitas Unisinos",
+      "published": "2026-08-05T09:28:43+00:00",
+      "sources": [
+        {
+          "name": "Instituto Humanitas Unisinos - IHU",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa1NnckhtOWVNd0VoNWZad2pRVU1sR29OR3lFNjBQZmtyVVNyeDNnelk0WkpuUDJuVmY4Unk1VWVvUFBvcWhmeW01WG9lNzluV0xFNFpuTmpsR0lnS3BGLWctX0U1QTlJRlZqVWZxQllHMi1XLThyRXV2NmZ5dVZTRGQ4WGoyLUtuampqOG9PRGd1TTBpYjk3VkEtcEdxOTRBdmRodzVxczRhR1pTWVEyMDU5RVhOa0NDVkE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "diazepam",
+          "keyword": "UNI",
+          "name": "Diazepam",
+          "url": "/drugs/diazepam/"
+        },
+        {
+          "type": "drug",
+          "slug": "zinc",
+          "keyword": "UNI",
+          "name": "ZINC",
+          "url": "/drugs/zinc/"
+        }
+      ]
+    },
+    {
       "id": "4d9e7a9d13af",
       "title": "A postura pode influenciar o humor e o comportamento, afirma estudo - O GLOBO",
       "published": "2026-08-05T07:30:21+00:00",
@@ -445,6 +563,13 @@
         }
       ],
       "keywords": [
+        {
+          "type": "drug",
+          "slug": "etodolaco",
+          "keyword": "DORE",
+          "name": "ETODOLACO",
+          "url": "/drugs/etodolaco/"
+        },
         {
           "type": "indication",
           "name": "menopause",
@@ -531,29 +656,29 @@
       ]
     },
     {
-      "id": "0e389270fd6c",
-      "title": "Saiba onde há menos filas para tomar vacina contra o sarampo na cidade de SP",
-      "published": "2026-08-05T04:00:15+00:00",
+      "id": "d015eaaeb6e9",
+      "title": "Cápsula de celulose prolonga vida útil e melhora ação de fungo usado como bioinseticida - Agência FAPESP",
+      "published": "2026-08-05T03:02:22+00:00",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbld2RjRydmJPNms0QmZNNmJxNzBHS0tMQXZlLVJLZlZlcXZXUzlJc3JQb1JZZlBCdnhYckdmcDZmTE5Na3p1NC11b3dZZ2o2RGpnZjVMLWN2ai1VdmJCV3czbmdleHFhZHNMVTNWMlNEZkR4Z2ZSaTBhX1lzTkNTOHZUdXNqUVNBVk4taUhSVzdBekRncEM3b29HQVdpdG9od3VQWnpSeDFNSW13N2gtZFdQSG5wT0V5SmR6TlZaX1AxNjBqY3YwUWQyUHQ2X3NN0gHfAUFVX3lxTE91elVBckJ6bzBzRkxsYlQ4U0t6YktEbDBCLU1yY2FoSzFDbzlydVpNOHhieDg2YkFWd1lwWjlVSkNEdzRYYzloMmJQX2ctZGx4bEx3MExPazhsanY4U3dybC11Z19HRjJvN09Cc0YxMGJrcEtRZV93MDhQSjB3WkEwX3NyMGJ5SEZuMF9MX1V6RmN6bTNWU1o1ZTNmZzNmMkJzZG5BVFQ0cFpxX2cxR1BxZDFhRTlpaDA4WWdfZ1doUlFFekhzbDc2STlfbndRUUd5QVl4Vmg0cURhX1laNWM?oc=5"
+          "name": "Agência FAPESP",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ2ZicUNWS1BVS01HdkEtS2ZDbElCR09JcUNIQkROWmExZEZwUXBkQjNDODNtN1NKTUFPeXpPMnp6RnhBYUhLTFRaNUJxSWF2R1lmUU54eEt6dzUycG9mTnUtM05zNXcxbDc2cUM0dURLU210aGVWY1FoTm1Zc0hGMkJUQXphUXJ1dEZIckRqTHAyX1NSVG8ybHdsMzJ0Q3VIZkxkTjV6UmhlNVc3OXltbld1emVPWTZHMmFv?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "drug",
-          "slug": "diazepam",
-          "keyword": "UNI",
-          "name": "Diazepam",
-          "url": "/drugs/diazepam/"
+          "slug": "golimumabe",
+          "keyword": "BIO",
+          "name": "GOLIMUMABE",
+          "url": "/drugs/golimumabe/"
         },
         {
           "type": "drug",
-          "slug": "zinc",
-          "keyword": "UNI",
-          "name": "ZINC",
-          "url": "/drugs/zinc/"
+          "slug": "etanercepte",
+          "keyword": "BIO",
+          "name": "ETANERCEPTE",
+          "url": "/drugs/etanercepte/"
         }
       ]
     },
@@ -1043,13 +1168,6 @@
         },
         {
           "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        },
-        {
-          "type": "drug",
           "slug": "tadalafil",
           "keyword": "CIALIS",
           "name": "TADALAFIL",
@@ -1061,6 +1179,41 @@
           "keyword": "FAR",
           "name": "ZIDOVUDINA",
           "url": "/drugs/zidovudina/"
+        },
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "cardiovascular",
+          "related_drugs": [
+            {
+              "slug": "travoprost",
+              "name": "Travoprost"
+            },
+            {
+              "slug": "thiamine",
+              "name": "Thiamine"
+            },
+            {
+              "slug": "tenecteplase",
+              "name": "TENECTEPLASE"
+            },
+            {
+              "slug": "alteplase",
+              "name": "ALTEPLASE"
+            },
+            {
+              "slug": "ticagrelor",
+              "name": "TICAGRELOR"
+            },
+            {
+              "slug": "tocopherol",
+              "name": "Tocopherol"
+            },
+            {
+              "slug": "gadobutrol",
+              "name": "Gadobutrol"
+            }
+          ]
         },
         {
           "type": "indication",
@@ -1123,26 +1276,6 @@
       ]
     },
     {
-      "id": "f24846f0fccb",
-      "title": "Menino brasileiro ganha ouro em olimpíada internacional de matemática e leva prêmio especial; veja - Só Notícia Boa",
-      "published": "2026-08-04T13:25:00+00:00",
-      "sources": [
-        {
-          "name": "Só Notícia Boa",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNGNGVmFaZjNQa2lBb0w2V1hET1dZWWhxbEdhS2VXUTBKRnNtSm91SkpzN20xRDdONWdIelRad0JrSE1Ob052b0FwZFo4eUpPcW1SQkFVSjE1ajM2Rl80c1BuR295N1hsZTZIbV92cmVOMEhGUFRaZTg4TDJKZXEtWnF0TXlpLXVObVRaYXl1STRyLWNPSWtpV2xkMnZ1NUo3TTVWT1piQk9jSXc2MndtVTNOMGQ4N05jYVBfWENn?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
       "id": "563bb36db27b",
       "title": "Unicamp transforma bactéria em aliada para destravar o etanol do futuro - Olhar Digital",
       "published": "2026-08-04T13:18:00+00:00",
@@ -1190,12 +1323,12 @@
       ]
     },
     {
-      "id": "8d813fe1bd90",
-      "title": "Deficiência de vitamina B12: entenda o que é e o que pode causar a doença",
+      "id": "6aab97b1da72",
+      "title": "Deficiência de vitamina B12: entenda o que é e o que pode causar a doença - A Gazeta",
       "published": "2026-08-04T12:41:00+00:00",
       "sources": [
         {
-          "name": "agazeta.com.br",
+          "name": "A Gazeta",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc1JLQ21aTk9HVk1PYmw3andtaklDYkpwS1JUSlFzZkE2MGp3clYxZ0NFamgyaWtuMjJDdHZGT1BQS3RuQk9qcjVKRE1wUnloRXVNM1o5eGVBaVB1bkxIOUc4Y0RHU3k3RmE5Y2VLckd0UGJFT3JwZVZwMEZ1VmV1eXFzM0lveDhJVk5zTUZoTEkyX1lQVDZYOFZqY1k1U0NHdWRZdDVsaG92Qmh0cHZnZlctZw?oc=5"
         }
       ],
@@ -1247,73 +1380,6 @@
       ]
     },
     {
-      "id": "d6a25ee19bb0",
-      "title": "UNIFAL-MG terá 5 novos cursos em 2027; Varginha ganha Ciência de Dados e universidade cria graduação em IA - Varginha Digital",
-      "published": "2026-08-04T11:00:00+00:00",
-      "sources": [
-        {
-          "name": "Varginha Digital",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMXJUcVY0SVItMERmN0QySTU4Y1dORVdQRl9KZUZWcW9ES0R5a0FveXFHRFEyYjNHYVdoSHRtWjJGSWh5VEpuS2xKWi1TRmt0UjlGa2t6UmVkdUNfYl9mV2VJWXhQQ1ZtajBwbXQ5d3FFTFFQYWRwUWZHZXNEUzVTekxPamI?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "diazepam",
-          "keyword": "UNI",
-          "name": "Diazepam",
-          "url": "/drugs/diazepam/"
-        },
-        {
-          "type": "drug",
-          "slug": "zinc",
-          "keyword": "UNI",
-          "name": "ZINC",
-          "url": "/drugs/zinc/"
-        }
-      ]
-    },
-    {
-      "id": "b1af050d294c",
-      "title": "Reitor da UFRJ prega pacto pela ciência e defende que o Brasil siga o modelo chinês de inovação - Brasil 247",
-      "published": "2026-08-04T10:58:00+00:00",
-      "sources": [
-        {
-          "name": "Brasil 247",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTUZBMjlqZGhrMm1Gc3puZ1RlbmNQRXQ5cExXT0FtcmRrYmUzNmtWd2FEeHhLc0N6bmZ5Y3ZGMU8ydkRnNHpnMmtlWUxSYWlLV2xOVzlSaGpQNHFNdElqeDlfNjgyWjRfX3JoeFd1Vk80RFdndHl2R19VdWdJanhOTXdEaXNwMGN1dFNvOHc5bEpZSXBQZlB3OEF3ekZCcjVuTW8waDhjSU9VX3h1R21kQktsLTFYMGI4VFA2QUpRVjFDSVNIYzRwU2FzWQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
-      "id": "3dd13268e902",
-      "title": "Nuvens de fogo, rajadas de calor e raios: o perigoso fenômeno meteorológico gerado por mega-incêndios - Meteored Brasil",
-      "published": "2026-08-04T10:13:00+00:00",
-      "sources": [
-        {
-          "name": "Meteored Brasil",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcndqMnhhb3lRMkNQdVFla2NMRTlJV1AtUEFaSWFnVGV6RzE1cERvWl9KX2dDdGtGX2hyY2xKeVEyMDE1T09iR1FmSGZObnF0dzdPUXhaekU3aFZOeDNkWmU1UkxpZHFhS3pHRlU3cms1YXllYlBPeFpGMVBBRnFWYXhYYklfdWNtSkRyelhQSHFHTERHUGV4UmR2SnI5Q08tYzhpVGlsVFA5dTB0amNsSmZZTmxsS3FZaHMtcHkxVkl0OEZMVDdqOGM3dUdTQWlBZnFzam1maUZ1NkZqTHZVaQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
       "id": "b2c8fb472a97",
       "title": "Licenciaturas em alta: as 3 disciplinas com maior falta de professores no Brasil",
       "published": "2026-08-04T09:09:07+00:00",
@@ -1334,12 +1400,12 @@
       ]
     },
     {
-      "id": "61604ec82091",
+      "id": "a6d22005fde4",
       "title": "Mudanças na alimentação e exercícios podem reduzir risco de declínio cognitivo, mostra estudo da USP",
       "published": "2026-08-04T07:58:00+00:00",
       "sources": [
         {
-          "name": "Terra",
+          "name": "terra.com.br",
           "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNanlUUUQ4bDJQQ0lFYVhwSElUM0Q0SVR2UDNtVE4wb1V0ajE4b2xpSnd1clRCd0ctb25HNGJJSFgtQTNZWk9tLTd2Tng0cndKRVE5VFFkbGdSeEpleThLNVkyUU41MnFuUl9rd0NTWXNuWVJBX2pWZlpjN2FFTXBmX0hDeE9ZSDlUb2NzZlgwX0JCcUUxNlRJeXlVWTlJMVYzSHVGYV9UWk1KUm1WRWFWb1NCeVFrMHlTUjI4OGhCR1Y3TnA1UUppaHYxRGk1a2VYeG04bXhQc0FWNVR4OThTbWpKWXJQd2tmbERBRFVYUE0yMm54Q1dUUHp0YkFsY3cxR3ZZNDVsMXRULXUwaWR6TTBQYXpKSUVaQnc?oc=5"
         }
       ],
@@ -1377,120 +1443,13 @@
       ]
     },
     {
-      "id": "03add50be97d",
-      "title": "Eclipse solar de 12 de agosto poderá ser visto do Brasil? Saiba onde o fenômeno será visível - O GLOBO",
-      "published": "2026-08-04T07:01:47+00:00",
+      "id": "98cdbc8d81cb",
+      "title": "Mais mulheres morrem em ondas de calor, mas causa vai além da biologia, indicam pesquisas",
+      "published": "2026-08-04T04:00:12+00:00",
       "sources": [
         {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNc2FYSVhIa3F1QkEwTnk2UTh5bjh2UHFaa2ZJS1Fjdy1ESWZCWE9XcXkwSFlseWY3X2tvMDdPekNYVFlmMDNranZCNDVScDZXSXpaUmluc3h4TmRsZGpVRGRvSHNWLU8xcnN2aktBNU5oN2ZKaWlWd2pZMUt2SEtvVnlkZTJ0WXIyaU5sX3ljUHNXUjZTRlJYMWU5TmRzdWlaRkZrdy11N2d5eEl5MjhmY2VpVVZQMm5OWWNhdVNJNHRQdnpsZlJDZk9UTlVEVTNPTERrRGxEVFpoeE5VbnBpMjV6Tzc3cEZG0gH3AUFVX3lxTE5XZTBxS0laSEhIdHk1RExSajhYYnMxUXFPOHdab2ItQ1hPcTMwVEEyU3lsc2ZlWDBBWk1RXzN0UXhMTEZxM2tEbW9MUEMzTDJxaUhhNDJ5NFY1c2haa3pSWEllMERHaGQ4dE0zNFlWOWVzQjNxaXlhUnplME1VdGJXbHZQNzdsZTV4YWYtYl94RUM1NUJIcXFvMERmMXJ3dGZNZHZFMmtMb2NXaUZYN1lEak1ZVU1VczRNQWJac1NVU3BBUy1pc3VwTldaS0xNaU42dlFpaEFDQlBkMFI2elhFbWdmS1JKNnVVQW1HUm94ODdWUmdoZjQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
-      "id": "9aeac946cf06",
-      "title": "7 sinais discretos de que sua tireoide precisa de atenção - Jornal Correio",
-      "published": "2026-08-04T02:36:12+00:00",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRlpadW5fMmlmdU14UGFYNFVOMUFYNkdjQVdrOW9ZOUJ0VWtRSDFTT2ZJQkVZUmpvcU96bzR6d21MOW9qMWlvTWM3U1R0VE9UczFfaHJ3blpqdFFwZDNsMGo3a3BPMGZXWFBNVDVRc2JJU2ZKMHRBaFhmZF82UVpUZ3FsMGJvYks4dUNqaDBkYmk0UE9wbW9vWVRyWElaM0ltR2hjUA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "levetiracetam",
-          "keyword": "TAM",
-          "name": "LEVETIRACETAM",
-          "url": "/drugs/levetiracetam/"
-        }
-      ]
-    },
-    {
-      "id": "53c94cead964",
-      "title": "Bruno Halpern diz que uso de canetas emagrecedoras por estética pode causar dependência psicológica",
-      "published": "2026-08-04T02:04:00+00:00",
-      "sources": [
-        {
-          "name": "cultura.uol.com.br",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOX0NXdko1cG1oU3pQSFY5SFV4TW1rN0pkMkhuNndVd0duUWRGcjVpY2Z4Vm5WTjlWeGNfMEFzR2NoN29BQWFWU1BSZkhjUEZwWHIteDE3R2dDUldOV0RSTDE1VkZuRTMwMUVsb2xGeUtfOFVKVXo1RHBiVmFMdUtmMU4xS1dFZW1CejF3ZkFKRkdTLXhaN3pUZEh0WTRZeFRVVTJ5ZjlZYUIyTUFqM01zMzRHemRYVjkxb0Jod0gwWUJ1ekY2cWxZZEFCcWJjVzFFT1N0NThseDc3VUox?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "levetiracetam",
-          "keyword": "TAM",
-          "name": "LEVETIRACETAM",
-          "url": "/drugs/levetiracetam/"
-        }
-      ]
-    },
-    {
-      "id": "4370b9f420dd",
-      "title": "Como os criadores de pombos estão ajudando os cientistas a entender as doenças pulmonares - Folha de S.Paulo",
-      "published": "2026-08-04T02:00:00+00:00",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOX05MQmhGRnhUNnh4bkRTNC1TNlVvb1QtUHJtbGw0MWtxMk96MlVlQV9RN3FHSWdzN2pxUzNyNFpLNWl1azh2bWhWc3NHNV9FSHJpWldhYzZUYjlXT01FUllTeTFJYUJnU1l2ZERTZTgyXzZENHplYmJ2THYwR2tOUTNkazVBcEV3V1B6NmtKOGIwU0ZjLXFOVFM4WjBpX0hUMWt4X25XZGduWFdTcEZsUm9qazhRZEF1LVdwYVktZE95dFFxWll2NXZ4Tm5Cc1loZmpQcDJRUGJ3X2hVTE9ZNU1BUVo?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "etodolaco",
-          "keyword": "DORE",
-          "name": "ETODOLACO",
-          "url": "/drugs/etodolaco/"
-        }
-      ]
-    },
-    {
-      "id": "4a18e400f02f",
-      "title": "Curso de IA e Ciência de Dados é lançado com foco nos impactos sociais",
-      "published": "2026-08-03T20:16:14+00:00",
-      "sources": [
-        {
-          "name": "unicamp.br",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ0NGQkhpUDNvWE9EOWJXOWtFZmxJdWRxdU8xWXZaRVQyajRHX25nTndrdTliRmUyTWxOZ2h2d3RPUGhvZG93ekUydjNDdksxVWstcXBIOURBZE1BR0ppaXkxMzFSdVdHa3F1TXBlOTZ1OFNHOWNNQkxza2Q0M05QandEdW45OTZ6eW1pOEItTEJaZWhsMGFGbVN5MHZocXpjQWtzVnFlSW5Sc2o0VWczS1JWclY?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "diazepam",
-          "keyword": "UNI",
-          "name": "Diazepam",
-          "url": "/drugs/diazepam/"
-        },
-        {
-          "type": "drug",
-          "slug": "zinc",
-          "keyword": "UNI",
-          "name": "ZINC",
-          "url": "/drugs/zinc/"
-        }
-      ]
-    },
-    {
-      "id": "2bdf110f27a3",
-      "title": "Chamada de apoio à pesquisa, desenvolvimento e inovação em biotecnologia: inscrições abertas até 18/09",
-      "published": "2026-08-03T18:39:55+00:00",
-      "sources": [
-        {
-          "name": "www.gov.br",
-          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPV3Y4bEMydmtZOFgydzdwVG9zTWRFaXFwYTJNVmFmb1FydlVGNmtIbWZWS3Z0eTl1S2x6RW9ocU5Nb0FBY2RIcGJQalU1SXJXcXJxRFo4TGd2SnJwak9QMmh6c0RRVkFRMG01aGs5MVQweW5ldl94eG5DQndyQmVnNnRMczdHeHJsbmlLcGtnM2JxV21BZmhlSTRTbHFpN0Y3V0Q2QlZHXzAtbFEyUlpVcDVOSmM5TDdidnNXM0Q5TG9Za2M3cUFubGVDZXluQnpCY1RESmt5OTRYaHNXdVpkQ1l3b2hVaW1ldmF1NUFCWk1xMnAyUkNRRVk0dkRzSFJlWmhkeQ?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPb1ZjcElaUWN2MmFuTWhUbGFQY2xFRGhEMG9hcEpLZGxRamVNZjhEbVJfb2hqWDlpQzZwZXlQdEE5eDk1QjAzbXV6UzBIRHN6cDVhNmVTdFJHOVQ3UWlSSDZxQXJRc1V4VWlod0RNSTdQZm45QU00OENZWi1KdVdjU0ZuSUJZcC1TTzBIbmxUdXB1ckxGMUE2TlY2RVpQemVPcGNNV1FXUUY4b21uSjYwUk5Falo1WGl5Mk1fdnF3LXRCcGdCN0k5ZUpxeFV4cDhoaDlHaTN30gHkAUFVX3lxTE1tSk1IVTVZTDZaYWZtaGpLSVU5UDBhLWJKc3NraXE0UUZBMUw3UGlTd3FfQVZkWVVnVzJ6bnUycmEzZFplTzRoWW03VnNSWllIdWlfa3lTUTdUc2o0YUtoaTl6NDhkWmRJWTRjS2lETm41RW1lR011THVIV29uUEsyeGhYUkYzYXVZQ2ZOUWpfR1dUZjFHakNQUDM1R0VGZXF5NTRleHowU0FqZGJic2VmSFV5aWNHV3FKOFZobW93Yi1oSl9fdU5fNTFGTkY3UF9aOTNzRE1kNXFCWUZpLXBMVzdSZA?oc=5"
         }
       ],
       "keywords": [
@@ -1511,42 +1470,22 @@
       ]
     },
     {
-      "id": "2ec4a77da12c",
-      "title": "Campanha Nacional de Multivacinação começa nesta segunda-feira (3) - CNN Brasil",
-      "published": "2026-08-03T18:18:19+00:00",
+      "id": "1fe85c7412ec",
+      "title": "Bruno Halpern diz que uso de canetas emagrecedoras por estética pode causar dependência psicológica - TV Cultura",
+      "published": "2026-08-04T02:04:00+00:00",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUnpNcXVEX3EyTkZpYzhsbHU2SW82UjNqckpTNjg5WGV2ZW9YTHA2Q1lhdDhqRXZlNlJab3ZNdnExOW1wWGFyOVNZYUVmUVJISFdlRkJqbmxDQVpLaFk2SlZYUVp5Nl9sZVppX1ZMclZTV0ZZdkNYYjV0WU9CaEYyYk54a2Z2RFJFX2pFM3otM2c1Q3BxWDRSb3BCM1g3eFI5Nmc?oc=5"
+          "name": "TV Cultura",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOX0NXdko1cG1oU3pQSFY5SFV4TW1rN0pkMkhuNndVd0duUWRGcjVpY2Z4Vm5WTjlWeGNfMEFzR2NoN29BQWFWU1BSZkhjUEZwWHIteDE3R2dDUldOV0RSTDE1VkZuRTMwMUVsb2xGeUtfOFVKVXo1RHBiVmFMdUtmMU4xS1dFZW1CejF3ZkFKRkdTLXhaN3pUZEh0WTRZeFRVVTJ5ZjlZYUIyTUFqM01zMzRHemRYVjkxb0Jod0gwWUJ1ekY2cWxZZEFCcWJjVzFFT1N0NThseDc3VUox?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
-      "id": "40fda5530799",
-      "title": "Telescópio Webb Detecta Indícios de Desastre Antigo nas Luas de Netuno - Forbes Brasil",
-      "published": "2026-08-03T16:12:01+00:00",
-      "sources": [
-        {
-          "name": "Forbes Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRnlTNG9kS2p0OVQzaWZTUjYzb1hvYW9TVVFaMk9RSWN0U09qeFBUbHowdElfWTNXN3d0T0FrbzdKbFZsUWdZZ3dTb2VxcmdsOTVEbUh0TzVodmlmbkFZVERVRXRuQ1NTakYtU1NKSnZELTdCUlhoTGgyOTRaSXNiVjZ3M0o1UThMajZ3RUFRbU50STBTd3Y5MFpUUm9hcDhPWUZkTExqODA2QnhsdmQydkxCZw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
+          "slug": "levetiracetam",
+          "keyword": "TAM",
+          "name": "LEVETIRACETAM",
+          "url": "/drugs/levetiracetam/"
         }
       ]
     }
