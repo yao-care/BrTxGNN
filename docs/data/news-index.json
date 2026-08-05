@@ -1,14 +1,48 @@
 {
-  "generated": "2026-08-04T19:39:08.528237+00:00",
-  "count": 27,
+  "generated": "2026-08-05T02:39:48.324242+00:00",
+  "count": 34,
   "news": [
     {
-      "id": "0680e375783f",
-      "title": "Juca Kfouri: Psicologia explica a perda de protagonismo do esporte coletivo brasileiro",
-      "published": "2026-08-04T17:11:28+00:00",
+      "id": "cfcccaa30936",
+      "title": "Você deve tomar? Tire suas dúvidas sobre revacinação contra o sarampo em SP - UOL Notícias",
+      "published": "2026-08-04T21:19:41+00:00",
       "sources": [
         {
-          "name": "UOL",
+          "name": "UOL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaDAwWkRhZ0FYZkw4SDFRcEF3WjlDUW41VTB3QXZIRTJiT29RSUI0TnJqaWp2c25SM3FkMzZadDhpbnVkOE03SUVzUHpKc2hlV3ZodWdKVVdXdUJWeWQ3R3VYTFlEaGc4UnVrWmcycjBSdmd2U1NTaC0wUmZpWnp6bG9FVHRocjJjR29jM2RMT29XOG04UFJ6X1ByM3RBMnc2MkRnbC1fTEd4eXpMQ0tMX0lkYmhmNE9ZN1QwWVBHUnRHZ3phT1VSR2VmSWhNS0Y3dEhzNkZ3dGNQcXhQU3BSVWhYMA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "levetiracetam",
+          "keyword": "TAM",
+          "name": "LEVETIRACETAM",
+          "url": "/drugs/levetiracetam/"
+        },
+        {
+          "type": "drug",
+          "slug": "diazepam",
+          "keyword": "UNI",
+          "name": "Diazepam",
+          "url": "/drugs/diazepam/"
+        },
+        {
+          "type": "drug",
+          "slug": "zinc",
+          "keyword": "UNI",
+          "name": "ZINC",
+          "url": "/drugs/zinc/"
+        }
+      ]
+    },
+    {
+      "id": "400f42e126d7",
+      "title": "Juca Kfouri: Psicologia explica a perda de protagonismo do esporte coletivo brasileiro",
+      "published": "2026-08-04T21:11:28+00:00",
+      "sources": [
+        {
+          "name": "uol.com.br",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUWt2NHpqenhLY3hDV3NqV2hNcGlMbjNKQ1QyNzFPWV9CWFk5ZzhUTjVQVTI1VE1hNU9rZ3hmQkZrb2xJY2JvSW9VN1YzcEh2Znh3dWVvdmlhMUlfMndjYmVHb2MwckFGaE9UQ2QtVnVUQ2xoMHMtN2pucVdBUi1IUm9Ddm9Nc1RLOVVjYzRZN0JxUmNuVjlVNkx3ZUlicXR1RWNJOERid2k3UGE1NWpXZlJTZmx3UUw0enAteGlGS0pXbmg3VnBubGo5MTBmdkZkR1pudWtFOS0xOVNKQ0E?oc=5"
         }
       ],
@@ -23,12 +57,39 @@
       ]
     },
     {
-      "id": "2d1b0dc3dfea",
-      "title": "Molécula essencial à vida também contribui para aumento de tumores",
-      "published": "2026-08-04T16:16:54+00:00",
+      "id": "5e6401bfd7c1",
+      "title": "O homem abandonado ao nascer que encontrou família biológica 65 anos depois",
+      "published": "2026-08-04T20:38:05+00:00",
       "sources": [
         {
-          "name": "UOL",
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zZzF2NXcyV3V2R3FpUWFDcGtsaVM0bDNxaW94VkhLWHFSUGs5YVI1S29Ham1KUDN4OTZ4NVpPNFhUN0pyYU5DSUo2Z3FzYzJkbXdvdlFGcHZhVTlmN1Nxam9B0gFnQVVfeXFMT1htQVV3UVVKVW5ubGRJRkppNXVWUXFhc1JXZXZTSlhsaXFBMS1WNWdybzdIbmRrT2Frc2Q1bXdfaDNRNXBYenhfRFZQSktPUmhST0NqMWYtc05QS1EzTkpHLTRnTXBnNA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "golimumabe",
+          "keyword": "BIO",
+          "name": "GOLIMUMABE",
+          "url": "/drugs/golimumabe/"
+        },
+        {
+          "type": "drug",
+          "slug": "etanercepte",
+          "keyword": "BIO",
+          "name": "ETANERCEPTE",
+          "url": "/drugs/etanercepte/"
+        }
+      ]
+    },
+    {
+      "id": "28f89cdb4deb",
+      "title": "Molécula essencial à vida também contribui para aumento de tumores",
+      "published": "2026-08-04T20:16:54+00:00",
+      "sources": [
+        {
+          "name": "uol.com.br",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQem04R3RiN0Y5UXVQRllzUVEwdDBxT3BBSnpUelRqNlB4aEhwNnBkVzZjYVZjYlROYmpwZTBZMmpJYnc0a1d6cVUxdVlUd1d2dVpQdnZid3lhdzMtOEJ5Vzk2RHJxUm8yQXhzQV80NWJZSm9OV3RPdXFHczlPSnR3SzdOZElqQU91bjJma2lqVHp5UzA0eGVteG0wWFRmSUI1UU1YZjZlM1BEZlp4QUZQaXoxc1JRZ09zc2hnZjJ4OHhZZWJUSnprNmFR?oc=5"
         }
       ],
@@ -422,6 +483,158 @@
       ]
     },
     {
+      "id": "9d70485f04ca",
+      "title": "“Cascatas de sangue”: parece IA, mas imagens são reais. Entenda o fenômeno - Brasil Paralelo",
+      "published": "2026-08-04T19:57:59+00:00",
+      "sources": [
+        {
+          "name": "Brasil Paralelo",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPazIzY0thT2tHS2RhenNzQklpdHQ3dmtxY0tMM21ubmhzWnFxdWNZNHFPTkZGcW5MYVpfUHp0eV9wcmZyWWlLUldRc0pLb1NZazV3OUE5ajV0N1pHRlNFWFNJN3l0XzBIRWJTVjhudXQ4VlFKMDdBUmtob040RHlVQm1rVklaTUkzVFVpQWlpdnFsYWNmSmYxcGlEeTJZTWpvX1R3?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
+      "id": "0364c7cbc8d3",
+      "title": "Testosterona: 5 motivos pelos quais o hormônio pode não dar os resultados prometidos",
+      "published": "2026-08-04T16:29:29+00:00",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YRnhrRENjakY0UnowR1NBZWtfeU95MkxPMXJoSU05YU14OU16em5YN2hwVEllRF9DeVFuU2E1QU9RWVNOQTR4R1IwWnlYZEJ5LWJuRzNBSVV3X0o3M1pkYXRB0gFnQVVfeXFMTzR2SldPS2xSUDg2Z1BMNU1TUVZxWGo2TENnODdjbE1CdDNqWXRrc2FqOHUtNGxGYVhjQUhfZUN0ekYyMGI5OEtaZFItUFhzdlFGNlV1bTM1Z1BSTWtNVkpNY2ZybnJKcw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "praziquantel",
+          "keyword": "FAR",
+          "name": "Praziquantel",
+          "url": "/drugs/praziquantel/"
+        },
+        {
+          "type": "drug",
+          "slug": "tadalafil",
+          "keyword": "CIALIS",
+          "name": "TADALAFIL",
+          "url": "/drugs/tadalafil/"
+        },
+        {
+          "type": "drug",
+          "slug": "zidovudina",
+          "keyword": "FAR",
+          "name": "ZIDOVUDINA",
+          "url": "/drugs/zidovudina/"
+        },
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "AVC",
+          "related_drugs": [
+            {
+              "slug": "digoxin",
+              "name": "DIGOXIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4b90c140516b",
+      "title": "Alta de ataques de macacos em Florianópolis alerta para raiva e alimentação por humanos",
+      "published": "2026-08-04T16:21:48+00:00",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLVZzZkU2WTlpQU9HWEt5aVcxb1dVT2Y3MWdPMnNLOGtObWduOGtLVlJBNzB5X0dGUG9nZkthYldQRWtBXzA2TmlxaGJvdm5rdWsyM2xhSWk5US1TWlRtS2U3NXkxRGFxQ1YwLTk0V1JlaXpTRVRkdllzckRHVEk4S1pUeUF1R2N2endEcU9rNF8tZFptQlhSRk50LUswM01rWGs5UXBpQ2ZLNmhQR051MtIBvwFBVV95cUxNNG84V3g4QzZOem01VkExcTlyQm8ycXNWdlU0MXFtNXJzaFI3V3U1eFpNRG8tdVgzRlVOenNTSnNRZE1FT29IcFYzVUFSRVZhU0dfRWkyYVZtOEJ5NTR0cF8zUnJIN3lLMmZSMUViWmNZa01KeGszcm5CVDRndnY4eF9VdG45RDJVRUdaY1BTclI3QmpfOVhjU09JYnUxZTVTVkFpa2dkOXh0dk1kMml4RFNHNFMtd21IYnhXOFVQVQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
+      "id": "294245ebadd8",
+      "title": "Faz bem até para o intestino: quem toma café tem uma microbiota mais diversa - O GLOBO",
+      "published": "2026-08-04T14:01:08+00:00",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORGhaY201c19yZzI0bXIxTnRaWTRwbGYzcDJ2XzVTMDFUNXhydjk3b2NMWWhOYVFORnB6eUM4QVRpaDdXMTUyX1c3cV9HMzM0cVEtMFVzTGpDejRid05LRTJudWVrVnk4OFRmZ2lJZ3BmLVRkcE1ibjJzZXk3eWl1dTJ1VnlHVmlpSW9ETTdVZWhZRDF2QU1yTlFiTFJBejZLMlFrNXZMWl9TMGxEVkExc0hFY3pjdWFydmFBWmdrYTRGbUlTYXFkMG9FV29rdTB5VjJTazA3TnY3WXRYY2JhakZubUROaEht0gH3AUFVX3lxTE05OVM4SFZtR0lSQ3FZdkFHUGZYOTB2TGtDUGpMM1Z6Q0pjTTlDb01kWFk1bjVkb2NGamNlajYwVnAwN2dxaS1BVFdfVVJ3WUlidkZNUFY5b3o4QnlUYWdaeTdzVG1VMGVBLVc5dTN3VnFTdXpaNGhadUZLUy1IVXVEMXFVYlNxUnJkYmRKRHAtMF9nNWg2SDdtZ0FpdGJzQlgzdHRobHI4OHRNMGx3Ym9PUjdEREFNd2R3bURDZXN2YzRNaFAzYmkzTVlRMmdyZXZvdUxnTHVpSU5hV29yc3dGVHMtZnBObXAzZGdJaTJPQ08yZmNDcms?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "golimumabe",
+          "keyword": "BIO",
+          "name": "GOLIMUMABE",
+          "url": "/drugs/golimumabe/"
+        },
+        {
+          "type": "drug",
+          "slug": "etanercepte",
+          "keyword": "BIO",
+          "name": "ETANERCEPTE",
+          "url": "/drugs/etanercepte/"
+        }
+      ]
+    },
+    {
+      "id": "55e4651d1528",
+      "title": "Fósseis guardados em museu britânico voltarão ao Brasil - 04/08/2026 - Ciência - Folha de S.Paulo",
+      "published": "2026-08-04T13:30:00+00:00",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNVHlWUndyblFEV2VxTlNNVFJ3ZUdnVEhzWmpRUlRYbUpUbGY3NnZ0VHVpcWJjQTZ3ekpadEF5cTlwNEVHbDI5aS1mSG84dHdWU2FWSW5hNkF0VUFaZTAxTUJ0WUM2VzdrbDhOMmdiR1VhYkJLc29sVER1c2QyWmNqdTF6cXh6c3FwdTZ0SDQwdHlXN01aNTg1aWdVRWdENnhVMXQ4TE55VGFVcGlMQVhWU041RG90YWxVTDEzeG81aklqeHl0bVBOa25NNHdxTnFGSDVHbERTdlJiMEE1QlBwSXZ2TUZ3SGxENVUxY3dPLVlZb2RuVDA0a1JscTRmOVA4X3A5ZjlUNmdVTFRsNkdOVjNlYw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
+      "id": "f24846f0fccb",
+      "title": "Menino brasileiro ganha ouro em olimpíada internacional de matemática e leva prêmio especial; veja - Só Notícia Boa",
+      "published": "2026-08-04T13:25:00+00:00",
+      "sources": [
+        {
+          "name": "Só Notícia Boa",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNGNGVmFaZjNQa2lBb0w2V1hET1dZWWhxbEdhS2VXUTBKRnNtSm91SkpzN20xRDdONWdIelRad0JrSE1Ob052b0FwZFo4eUpPcW1SQkFVSjE1ajM2Rl80c1BuR295N1hsZTZIbV92cmVOMEhGUFRaZTg4TDJKZXEtWnF0TXlpLXVObVRaYXl1STRyLWNPSWtpV2xkMnZ1NUo3TTVWT1piQk9jSXc2MndtVTNOMGQ4N05jYVBfWENn?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
       "id": "563bb36db27b",
       "title": "Unicamp transforma bactéria em aliada para destravar o etanol do futuro - Olhar Digital",
       "published": "2026-08-04T13:18:00+00:00",
@@ -483,33 +696,6 @@
       ]
     },
     {
-      "id": "21fb720a8cf0",
-      "title": "Coordenadora destaca mercado aquecido para estudantes de Psicologia da Uninorte",
-      "published": "2026-08-04T11:55:52+00:00",
-      "sources": [
-        {
-          "name": "ac24horas",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOV3ZXX2VFdnppMF9OUnI2UTJQZVdjVWd1VzVNbHRhS1Z4d0NuY3piZTcyRXVsZGdSYmJVUDBySVMwY0J5YkpQcnNVdERCSFBpRUt5WWFMTFR6ZGtiZG5sRVFnVndMYnQ4YWdNX3BtT1dhSjE0VjBQNEVzWktuVDRHUzRTRW0wUF9ORGJZbWpRQkVia040d1ljY1N5MktKaHU4TDdVZjhzWm93REJFWXpMbFpRcFhaMkhSWkNHaHFyXzJSdVZyV0trRWtCcDjSAdIBQVVfeXFMTVJ3TVQ3VkVTSjYwanRuMDh0RGRqbGxjNGpXaHA0Zy1VUzJwcHR1Z3JwU1pSSHRqMEtxVjV1RWdTWldqNXcyRlZfblZjbmtNQW1WVU9VTE9HWkF5b0xNb1pkTTJiNmNkeFQ2WEhqQldGbGpIZUFkMVV2VVhmelNCU0lGY1Z1UnMyUmlOczhmVkRYdFYzTmdyVV9Nb0pUVFo4RFNQOFFqQnBkZ3Rfd1ZxRlNxSjNxVFcxQUN1MmtUZ0ZnOHFkTXhxaEl5R0hweGNJVDhB?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "diazepam",
-          "keyword": "UNI",
-          "name": "Diazepam",
-          "url": "/drugs/diazepam/"
-        },
-        {
-          "type": "drug",
-          "slug": "zinc",
-          "keyword": "UNI",
-          "name": "ZINC",
-          "url": "/drugs/zinc/"
-        }
-      ]
-    },
-    {
       "id": "d6a25ee19bb0",
       "title": "UNIFAL-MG terá 5 novos cursos em 2027; Varginha ganha Ciência de Dados e universidade cria graduação em IA - Varginha Digital",
       "published": "2026-08-04T11:00:00+00:00",
@@ -537,12 +723,12 @@
       ]
     },
     {
-      "id": "0d9a8383fa1d",
-      "title": "Reitor da UFRJ prega pacto pela ciência e defende que o Brasil siga o modelo chinês de inovação",
+      "id": "b1af050d294c",
+      "title": "Reitor da UFRJ prega pacto pela ciência e defende que o Brasil siga o modelo chinês de inovação - Brasil 247",
       "published": "2026-08-04T10:58:00+00:00",
       "sources": [
         {
-          "name": "brasil247.com",
+          "name": "Brasil 247",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTUZBMjlqZGhrMm1Gc3puZ1RlbmNQRXQ5cExXT0FtcmRrYmUzNmtWd2FEeHhLc0N6bmZ5Y3ZGMU8ydkRnNHpnMmtlWUxSYWlLV2xOVzlSaGpQNHFNdElqeDlfNjgyWjRfX3JoeFd1Vk80RFdndHl2R19VdWdJanhOTXdEaXNwMGN1dFNvOHc5bEpZSXBQZlB3OEF3ekZCcjVuTW8waDhjSU9VX3h1R21kQktsLTFYMGI4VFA2QUpRVjFDSVNIYzRwU2FzWQ?oc=5"
         }
       ],
@@ -564,6 +750,62 @@
         {
           "name": "PEBSP",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NSEFjUHloSk1OVk90c3gwOHdsV09ZNVpkeFgxNDdWRHpOMU5XMTdnQWotWVRua0J2QVQ0ZVNSd25SQlp3QnVkanppMW1VY2pMWFZwQmFCYVVFQWY5T3hmLUNJWGEyNDAxeERNSE5n?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
+      "id": "61604ec82091",
+      "title": "Mudanças na alimentação e exercícios podem reduzir risco de declínio cognitivo, mostra estudo da USP",
+      "published": "2026-08-04T07:58:00+00:00",
+      "sources": [
+        {
+          "name": "Terra",
+          "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNanlUUUQ4bDJQQ0lFYVhwSElUM0Q0SVR2UDNtVE4wb1V0ajE4b2xpSnd1clRCd0ctb25HNGJJSFgtQTNZWk9tLTd2Tng0cndKRVE5VFFkbGdSeEpleThLNVkyUU41MnFuUl9rd0NTWXNuWVJBX2pWZlpjN2FFTXBmX0hDeE9ZSDlUb2NzZlgwX0JCcUUxNlRJeXlVWTlJMVYzSHVGYV9UWk1KUm1WRWFWb1NCeVFrMHlTUjI4OGhCR1Y3TnA1UUppaHYxRGk1a2VYeG04bXhQc0FWNVR4OThTbWpKWXJQd2tmbERBRFVYUE0yMm54Q1dUUHp0YkFsY3cxR3ZZNDVsMXRULXUwaWR6TTBQYXpKSUVaQnc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "demência",
+          "related_drugs": [
+            {
+              "slug": "biperiden",
+              "name": "Biperiden"
+            },
+            {
+              "slug": "entacapone",
+              "name": "ENTACAPONE"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "albendazole",
+              "name": "Albendazole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03add50be97d",
+      "title": "Eclipse solar de 12 de agosto poderá ser visto do Brasil? Saiba onde o fenômeno será visível - O GLOBO",
+      "published": "2026-08-04T07:01:47+00:00",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNc2FYSVhIa3F1QkEwTnk2UTh5bjh2UHFaa2ZJS1Fjdy1ESWZCWE9XcXkwSFlseWY3X2tvMDdPekNYVFlmMDNranZCNDVScDZXSXpaUmluc3h4TmRsZGpVRGRvSHNWLU8xcnN2aktBNU5oN2ZKaWlWd2pZMUt2SEtvVnlkZTJ0WXIyaU5sX3ljUHNXUjZTRlJYMWU5TmRzdWlaRkZrdy11N2d5eEl5MjhmY2VpVVZQMm5OWWNhdVNJNHRQdnpsZlJDZk9UTlVEVTNPTERrRGxEVFpoeE5VbnBpMjV6Tzc3cEZG0gH3AUFVX3lxTE5XZTBxS0laSEhIdHk1RExSajhYYnMxUXFPOHdab2ItQ1hPcTMwVEEyU3lsc2ZlWDBBWk1RXzN0UXhMTEZxM2tEbW9MUEMzTDJxaUhhNDJ5NFY1c2haa3pSWEllMERHaGQ4dE0zNFlWOWVzQjNxaXlhUnplME1VdGJXbHZQNzdsZTV4YWYtYl94RUM1NUJIcXFvMERmMXJ3dGZNZHZFMmtMb2NXaUZYN1lEak1ZVU1VczRNQWJac1NVU3BBUy1pc3VwTldaS0xNaU42dlFpaEFDQlBkMFI2elhFbWdmS1JKNnVVQW1HUm94ODdWUmdoZjQ?oc=5"
         }
       ],
       "keywords": [
@@ -644,6 +886,46 @@
       ]
     },
     {
+      "id": "896f84955542",
+      "title": "7 sinais discretos de que sua tireoide precisa de atenção",
+      "published": "2026-08-04T02:36:12+00:00",
+      "sources": [
+        {
+          "name": "correio24horas.com.br",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRlpadW5fMmlmdU14UGFYNFVOMUFYNkdjQVdrOW9ZOUJ0VWtRSDFTT2ZJQkVZUmpvcU96bzR6d21MOW9qMWlvTWM3U1R0VE9UczFfaHJ3blpqdFFwZDNsMGo3a3BPMGZXWFBNVDVRc2JJU2ZKMHRBaFhmZF82UVpUZ3FsMGJvYks4dUNqaDBkYmk0UE9wbW9vWVRyWElaM0ltR2hjUA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "levetiracetam",
+          "keyword": "TAM",
+          "name": "LEVETIRACETAM",
+          "url": "/drugs/levetiracetam/"
+        }
+      ]
+    },
+    {
+      "id": "1fe85c7412ec",
+      "title": "Bruno Halpern diz que uso de canetas emagrecedoras por estética pode causar dependência psicológica - TV Cultura",
+      "published": "2026-08-04T02:04:00+00:00",
+      "sources": [
+        {
+          "name": "TV Cultura",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOX0NXdko1cG1oU3pQSFY5SFV4TW1rN0pkMkhuNndVd0duUWRGcjVpY2Z4Vm5WTjlWeGNfMEFzR2NoN29BQWFWU1BSZkhjUEZwWHIteDE3R2dDUldOV0RSTDE1VkZuRTMwMUVsb2xGeUtfOFVKVXo1RHBiVmFMdUtmMU4xS1dFZW1CejF3ZkFKRkdTLXhaN3pUZEh0WTRZeFRVVTJ5ZjlZYUIyTUFqM01zMzRHemRYVjkxb0Jod0gwWUJ1ekY2cWxZZEFCcWJjVzFFT1N0NThseDc3VUox?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "tirzepatida",
+          "keyword": "MOUNJARO",
+          "name": "TIRZEPATIDA",
+          "url": "/drugs/tirzepatida/"
+        }
+      ]
+    },
+    {
       "id": "4370b9f420dd",
       "title": "Como os criadores de pombos estão ajudando os cientistas a entender as doenças pulmonares - Folha de S.Paulo",
       "published": "2026-08-04T02:00:00+00:00",
@@ -664,22 +946,43 @@
       ]
     },
     {
-      "id": "5b68504fda39",
-      "title": "\"O termo 'canetas emagrecedoras' não é recomendado\", diz endocrinologista Bruno Halpern - TV Cultura",
-      "published": "2026-08-04T01:23:00+00:00",
+      "id": "da98e5c1fda2",
+      "title": "Filho de professora e lavador de carros do interior do Piauí, jovem de 18 anos transformava as horas vagas em estudo para olimpíadas, conquistou quatro ouros nacionais em matemática, física e ciências, ganhou intercâmbio nos Estados Unidos e foi aprova - CPG Click Petróleo e Gás",
+      "published": "2026-08-04T00:24:00+00:00",
       "sources": [
         {
-          "name": "TV Cultura",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVGhkSWNIa3lMSEptNGFNcHdNZi1uQ1BfVjQyN1MwN1RfMVFjeW53bjlIRGVwTjR5b29yX25qQjNidVExeWQ1WDhzbnl2R3VlaTdHaFpkYVI3QzltNjM3V2pjYTFMUS1QMVZMbW9PeVZFVkJyS0gzZVJRTWRraFRTSF94MlFyQTRxOTk0VXp4RmFaeV9LdEthSHVTOGRwYTZsQ2FaOEx5YW45OGNic3JqWjFzdk82Q0JubHAzaEwwazNLME1LXzZKLQ?oc=5"
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOMGo3cWtudXJfUE9LdGNRazJvQXZPU3JwQVlnSTd2X29TakpSU25jVWE5WGlxMHpocXplVE5HUC0zdGpQUFdUX05zbnUzcFpvYXAtYkxHeFdEajFMYjd3V2xxbnAyMm1DR25xbHZGN0MzMzQ5Z2RMR05ZMjFkbVQtdmJ4bjVhdTkzT25pUmNwc1lvTTJUUTZTMHJjTWdFU1daeE1vTGxtaWdsSGVFdnpUeS1pT2l1d3dBODM2ZnpwVURLR0hYV0JQS2t3YnEwQ19BbVVFY0RaSzBocjI2RlRzQ2M5Zm1KWGUwa3pWbmMtbW5QSkxkNXFiN0F2dzAwZTRSTlFTNW5MVXFSMWowV2c5amswdjhiamJIQjhlVG40ZTMxNDJ1TllpNG9kWUIzdi1rUnZVSThzaVRyazJ4OFNYd1NCRW44Qkk?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "drug",
-          "slug": "tirzepatida",
-          "keyword": "MOUNJARO",
-          "name": "TIRZEPATIDA",
-          "url": "/drugs/tirzepatida/"
+          "slug": "golimumabe",
+          "keyword": "BIO",
+          "name": "GOLIMUMABE",
+          "url": "/drugs/golimumabe/"
+        },
+        {
+          "type": "drug",
+          "slug": "diazepam",
+          "keyword": "UNI",
+          "name": "Diazepam",
+          "url": "/drugs/diazepam/"
+        },
+        {
+          "type": "drug",
+          "slug": "etanercepte",
+          "keyword": "BIO",
+          "name": "ETANERCEPTE",
+          "url": "/drugs/etanercepte/"
+        },
+        {
+          "type": "drug",
+          "slug": "zinc",
+          "keyword": "UNI",
+          "name": "ZINC",
+          "url": "/drugs/zinc/"
         }
       ]
     },
@@ -731,22 +1034,29 @@
       ]
     },
     {
-      "id": "61f2dfd69071",
-      "title": "Colisão gigantesca virou sistema de Netuno \"do avesso\", revela James Webb - CNN Brasil",
-      "published": "2026-08-03T19:05:50+00:00",
+      "id": "2bdf110f27a3",
+      "title": "Chamada de apoio à pesquisa, desenvolvimento e inovação em biotecnologia: inscrições abertas até 18/09",
+      "published": "2026-08-03T18:39:55+00:00",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdC13TXB2T2NGNXZkMjE4ODZadVdrUmNCcWdtYnk4SklGc0JnSkh6WHZSZjNJWVRQejBxZURaNzZneGlzbUJ0d2VTQ0czSkE0ZjVuLUg0TDZZT2RTNGhPcUhjZkEtcXF2eWJpR1RvempxU3gtamhUeHUyNDVXYWs0MUdyLUw4Nkh1aGZsYU1hdmtlWVB3M0pWYkdZM19JaEZ5WThsUWl2bk43Zzk0?oc=5"
+          "name": "www.gov.br",
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPV3Y4bEMydmtZOFgydzdwVG9zTWRFaXFwYTJNVmFmb1FydlVGNmtIbWZWS3Z0eTl1S2x6RW9ocU5Nb0FBY2RIcGJQalU1SXJXcXJxRFo4TGd2SnJwak9QMmh6c0RRVkFRMG01aGs5MVQweW5ldl94eG5DQndyQmVnNnRMczdHeHJsbmlLcGtnM2JxV21BZmhlSTRTbHFpN0Y3V0Q2QlZHXzAtbFEyUlpVcDVOSmM5TDdidnNXM0Q5TG9Za2M3cUFubGVDZXluQnpCY1RESmt5OTRYaHNXdVpkQ1l3b2hVaW1ldmF1NUFCWk1xMnAyUkNRRVk0dkRzSFJlWmhkeQ?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
+          "slug": "golimumabe",
+          "keyword": "BIO",
+          "name": "GOLIMUMABE",
+          "url": "/drugs/golimumabe/"
+        },
+        {
+          "type": "drug",
+          "slug": "etanercepte",
+          "keyword": "BIO",
+          "name": "ETANERCEPTE",
+          "url": "/drugs/etanercepte/"
         }
       ]
     },
@@ -771,92 +1081,6 @@
       ]
     },
     {
-      "id": "f7737508e35c",
-      "title": "NASA emite alerta urgente ao Brasil e confirma apagão de quase 100% no país em 28/08 - Diário do Comércio",
-      "published": "2026-08-03T17:53:00+00:00",
-      "sources": [
-        {
-          "name": "Diário do Comércio",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYmxJWEVha1pZTlp4LU90RkhHLUFQUm9ZcmRjS0Utc29NcGctSC03OFpldE5xZlFubkliRmdYamVtT05ZbHQtLXVINmw4YWR5QTJQZUZlX3RBM2xnbDRSbFZzRzlLQjBHTGJpdFZ3ckEwenZFamtKYjFpSEhVUWF6bzhYN053Z3o4Y3Ywbk1qMENaNE1rdlpVMW9sMjhhbWxNcHN6ZlNDSVZmZDlGb25JWEJWM3ptY1ZEZm1Gdg?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
-      "id": "d6ce9aa4351c",
-      "title": "Campanha de Multivacinação começa na Baixada Santista; veja quais são as doses e os locais",
-      "published": "2026-08-03T17:43:56+00:00",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPaTFaeFBOT3lmR0VPaThMUUNncDRaWWVvb0ljeTFrVlJISVpJRG5JaFFDSmpzVEU3Z05WbDRkbnlob0VsbzdJUzJHS25FNm93Z09TR25SaGtnTmd0aHA4eFJCRE4xa1k4UVpONTFMX1JyNW5xd2pQRWlRSVlyUWlnbVhzdndMeGl5Y0VkRFY0MUcyOXBRUU9tU3hvWTl4WUw4Z2N1VEMzbmtnU3JWMkJNbExYdlp3ZTJ5TnNhalNrd2hKZFJMS2s2dXg3Smh0Z3UxREd0N0EtZkxyT29YNXBuYld3WHpINF9zaVhtUno0R0NqWnVQUFHSAYQCQVVfeXFMUGNJcjBvdDQyT1ZnMG9ZTlFLaVIxckgxc1d0OTZUaGs0VXUxaGJlS2FKdGZNMHB0RHZCVlRQa0FwNnlKbXZQMEpFenhMREtSMHpzWTdyOTRLeE5PR1BrLTI5cUZxZHB1YlN0OHM5ak9TRzNNSlM0dV9uY0UyVFpUcTJWUlpaWXJXYlhVTVBZaXpEY2JuQ0gzZmpkSC1HMFQ2cFBXdkZzNjRwOHlLRlhkSzFGellpWTR4eDB4LXRJMmpLUmVwRHEtWjVUWDRFQ0JROXR5WW1WTjlFY3B2WHYxOVAzWDNyMDUwSW5iUkJka1dXd043YUxUbW9rZGhzLVJzYWtITVM?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "levetiracetam",
-          "keyword": "TAM",
-          "name": "LEVETIRACETAM",
-          "url": "/drugs/levetiracetam/"
-        },
-        {
-          "type": "indication",
-          "name": "pneumonia",
-          "keyword": "pneumonia",
-          "related_drugs": [
-            {
-              "slug": "ganciclovir",
-              "name": "Ganciclovir"
-            },
-            {
-              "slug": "clobutinol",
-              "name": "Clobutinol"
-            },
-            {
-              "slug": "tazobactam",
-              "name": "Tazobactam"
-            },
-            {
-              "slug": "oseltamivir",
-              "name": "Oseltamivir"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "infecção pulmonar",
-          "keyword": "pneumonia",
-          "related_drugs": [
-            {
-              "slug": "ganciclovir",
-              "name": "Ganciclovir"
-            },
-            {
-              "slug": "clobutinol",
-              "name": "Clobutinol"
-            },
-            {
-              "slug": "tazobactam",
-              "name": "Tazobactam"
-            },
-            {
-              "slug": "oseltamivir",
-              "name": "Oseltamivir"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "4665e5e1d556",
       "title": "Os 4 sinais que revelam que o seu relacionamento continua apenas por inércia: a hora de tomar decisões - O GLOBO",
       "published": "2026-08-03T16:55:40+00:00",
@@ -873,26 +1097,6 @@
           "keyword": "DECI",
           "name": "DECITABINA",
           "url": "/drugs/decitabina/"
-        }
-      ]
-    },
-    {
-      "id": "d88c5c486eda",
-      "title": "Os sinais de que a tireoide não vai bem e que quase ninguém percebe - Folha de S.Paulo",
-      "published": "2026-08-03T16:40:00+00:00",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOEVDYTZEQXlkYXRSY1N2TGxXd1lqbkZsN3V3ZjktN0gyWGNlMkdjQjVqN0hXbzVLVmpnUFkwUG1ubjlPdnZuMlNQd2dSX3hEclI5djJ3eXd5VERBcmxtQUdWS1gtdDl2aHRjXzV0R1JZMnpSdVlZMk5XakdPZ1NYSGtIMHZid3ZqM0ZUSmV3X0Q4MHYxeVhFenFmMjVmMF9sNnNrZVNZVG1LSkJPR3JEQkJDZUFRcmpJTTFJQmtFYWNrOFdNWTRr?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "levetiracetam",
-          "keyword": "TAM",
-          "name": "LEVETIRACETAM",
-          "url": "/drugs/levetiracetam/"
         }
       ]
     },
@@ -924,52 +1128,22 @@
       ]
     },
     {
-      "id": "005ad1015b58",
-      "title": "Consumo de açúcar na infância pode elevar risco de demência, aponta estudo - CNN Brasil",
-      "published": "2026-08-03T14:06:48+00:00",
+      "id": "ac4131954bae",
+      "title": "A cirurgia experimental feita no útero de mãe para 'corrigir' bebê com intestino fora do corpo - Folha de S.Paulo",
+      "published": "2026-08-03T12:31:00+00:00",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVERBNS15Q2YtRkpGUTFHYmxPbDNnV3VzdGtjeGxEQWI4cERoRXQ4YnlObWIxbWx3c3ZhYWNGc3NVTWhldHZuUTFvcTAyTzZ0NllmTWV0d2xRRFU4LWIyd1FtZGdwd284OVVGUlJvd0ZSUEdJaEJYVWhTNUdmVGc2THlwbkJVQjdPemJxVGxRMldnQnFBdklHN1Exai1PS0ZBT0FIeHdaeEJEanRrYkE?oc=5"
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeGdvYVNnRTNUMkpPc2xxOEV4WGxjS2M1c1hhUWRZOEQ0WGxXUy1XcXBqYngwbm5kOGtqeTQwdEF1bEtSZF9FRTBtNGVVTU1fTUdaejEzdzB2cHFRemdlMWZqT04xTlBJbVE3cUsycTBaaDdaUmlwcDRvR3Vtc2l4R2ZXb2JKU0tPZ0wtNnV1bHd3TnNmYXNNc0daRlVhZW5NNWQzNTJGTUgyTXBUQVNhWkktOV9pdmlxbjN1X1lHbXNIdVpOaXVMNG90UG5VaUNCN1ZTUmFFZHJ6Y3pXcC1TOGdpQUx1SmxY?oc=5"
         }
       ],
       "keywords": [
-        {
-          "type": "drug",
-          "slug": "decitabina",
-          "keyword": "DECI",
-          "name": "DECITABINA",
-          "url": "/drugs/decitabina/"
-        },
         {
           "type": "drug",
           "slug": "silodosina",
           "keyword": "SIL",
           "name": "SILODOSINA",
           "url": "/drugs/silodosina/"
-        },
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "demência",
-          "related_drugs": [
-            {
-              "slug": "biperiden",
-              "name": "Biperiden"
-            },
-            {
-              "slug": "entacapone",
-              "name": "ENTACAPONE"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "albendazole",
-              "name": "Albendazole"
-            }
-          ]
         }
       ]
     },
@@ -994,62 +1168,42 @@
       ]
     },
     {
-      "id": "f46306ed3aaa",
-      "title": "Frase do dia da Psicologia: 'Quem celebra suas conquistas sem competir com elas costuma ser um amigo de verdade' - a reflexão inspirada na obra de Brené Brown sobre conexões humanas - Jornal Correio",
-      "published": "2026-08-03T03:30:00+00:00",
+      "id": "748b269288e1",
+      "title": "Estar em movimento orienta a vida, atestam profissionais - Correio Braziliense",
+      "published": "2026-08-03T08:20:00+00:00",
       "sources": [
         {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQSXdsNkFCQWJDTDNuQkVOMHVGbnFWZEMwLU1ZaFFwWERwejNibUNqbHlFWlg1bDNOVGx6NC1qaVJRR1V6VTRpdlRUbmw5aFp2UzNNMkpmYmpxOENQZkYzOWFPZHZuOVlMcnhvSTl0RWNURXpuNXREaHBuTVVKRVk4TW9Qb3MxV1A3eEhpOGxnRWxTZFNnaWRhM0ZYZU1rRElYbEt5Y2pNbGpkMEJhTHBtbmlJV1RZN0dLbjBfelJKVmpIbXJyMkVUWU9VMWV5OXJNa0lnclRBelZEQ0x6aDB2MVVRSVMtbFl3TS1nZTN4UGtURGE3YkhIci1pYU4tLU10TWxJV1NSYUxBVEJtU21PdzdUdU1fVldBYnFQeGtUU1llckItVUt4S0xRcF85RE8tR2t5eUVNMlgtYXltaWRJZHN1TWs0LTdD?oc=5"
+          "name": "Correio Braziliense",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMEh1ZXlXX0V4ZlhGRlMwdDVWZ18waWh0LWppV01TV1ZpZGVGckVTTjYxYTRFbk1NdDdLVVBIVi1QMnFpNmdncTNPNnFSRVpxUXVGQ25QU1hQZ1V1Z3RTY3RiX2gzWEF6LWpxZV82Zk9fSXVmQUZCZVVJUUlSUGFmek9tOUFUSWV6dkpMdnVqR2YyR2hkaEtMQTZoUGpJLTFGdnNGSXJMdjhqZHR2MVNtMHJWM09sNjczR28tZ3VVZ0loU1HSAcgBQVVfeXFMTmFpT2VadmNvdWFvXzZiRjdhLTlveGVCQW0tNUhJbWtJQVJJMTg3ZkxKSC1PREZzaFV2Q3JLWkRDZTlPV2x0OFRwUlJoVXF6XzBFclFPQjF0NUl5a1dCZmk2U2RhWGstdHhIY0JJdUJrQUlTbFZLV2g0Ylh4MzF0bHppZlZzamM5V2tBN0lmVTNYYmxXSEpVRUNOX2xJNVhsb3kxNzRvcENxaEZnUmNpaGdZMGlsWFlSNm4xTVUzUG1EdTljOE5mY28?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "drug",
-          "slug": "celecoxib",
-          "keyword": "CELEBRA",
-          "name": "CELECOXIB",
-          "url": "/drugs/celecoxib/"
+          "slug": "levetiracetam",
+          "keyword": "TAM",
+          "name": "LEVETIRACETAM",
+          "url": "/drugs/levetiracetam/"
         }
       ]
     },
     {
-      "id": "d3dc3616dbb2",
-      "title": "Obmep 2026: resultado da 1ª fase com lista de estudantes selecionados está disponível - Brasil Escola",
-      "published": "2026-08-03T00:00:00+00:00",
+      "id": "0ecfa0fed7b1",
+      "title": "Ranking coloca 26 pesquisadores da Zona Sul entre os cientistas mais influentes do mundo",
+      "published": "2026-08-03T07:07:06+00:00",
       "sources": [
         {
-          "name": "Brasil Escola",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbHNqaEE4cHQ4TmxlTng3RlA0REZrYkhDbnRISzE0aGhzUm5lc09Yd3RYOXpVdlBMcVU2VVRud01fZ19wU3hfVExaeVJiYzNQM1ZaWEZSRXprTW5qbkQ1SXFOeVdVd0RfTDJaYjdkdi1jaXBrZDJDUkdubmp5ZWw0M0UwN0JudGRq0gGOAUFVX3lxTE1IaVlEZmZEbWlvWVR4MFNxTUNuWW1DSVNJZXZJLXJhejN6dzlleEVzRDlMVHdoajN1QXo3SFJ3dFQ2TmU2YTFjZWRFZHBIV1NrUmlaaE5uMld0Umd4MGxnT2xlcDVveXVIUEJiVFZIRWI5Y3hQb1cxRkpXN1RobzdubkIwQ3RDQjVtOWM2SkE?oc=5"
+          "name": "GZH",
+          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOSU9BZ1BxbEs2UFZXSnI3RjlnSFJzcC1GUEI0Zm5FMnNBVW92MmkwMmthV0VsVVJ2a3Fyck42bkV5UG9YbDJ1b21tMHZOaGk1RTlYa2F3a1EwS1JlRXpwNktsQlRnbk9Jb05PTlVVMXBfVERROVdpN3JlMXh3QmFyNm5Ob0N1TTRjdUZoai1VN0hKOTlud21MNVBScWY0RGRjeGRhdGlrU2s2VkhxNGVuZjRuYjlmNC1lYWFqVlk4WU1IMV9pNHhTV29xUUx4eDNvcEhWNU5FLVpEOUs5ajRtYjlvNmNLRnZuU0tEZWJMdHVzeEtuNDgxam93elRBc29kczVqbllNNjA4Ymw4T2pBRkVn?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
-      "id": "62489d371cb5",
-      "title": "Colégio Pedro II abre especialização EaD gratuita em Ciências Sociais - Hora Brasil",
-      "published": "2026-08-02T21:00:34+00:00",
-      "sources": [
-        {
-          "name": "Hora Brasil",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbGxUR0lYMnRIaFNzZE16cEZYS0RKdjJDSXdUd01NeGlLWEpPWkZLRTZJRmhrQzRfNHFDOGtPZ3laS1hEVHB1aTV1amFxX2Jva0RkenVQdVc1allBRGt2QzFDMjZ5aUlCOTl1MFp3ODEyMlk1QjBCNU5Dakk2NjFxQjVFN2hUdWN6N1VKUVBKOVdKdzRFZFEw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
+          "slug": "etodolaco",
+          "keyword": "DORE",
+          "name": "ETODOLACO",
+          "url": "/drugs/etodolaco/"
         }
       ]
     }
