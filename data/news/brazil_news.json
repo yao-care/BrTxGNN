@@ -1,19 +1,115 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-08-06T14:13:35.646507+00:00",
-  "total_fetched": 65,
-  "unique_count": 64,
-  "health_related_count": 28,
+  "fetched_at": "2026-08-07T00:03:14.329083+00:00",
+  "total_fetched": 73,
+  "unique_count": 72,
+  "health_related_count": 37,
   "news": [
+    {
+      "id": "0e9bc68ca75c",
+      "title": "Lúcia Helena: Mesmo quando o HIV parece 'zerado', ele aumenta o risco de demência - UOL",
+      "published": "2026-08-06T23:18:14+00:00",
+      "summary": "Lúcia Helena: Mesmo quando o HIV parece 'zerado', ele aumenta o risco de demência&nbsp;&nbsp;UOL",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQLVRaU3BhMDlOU2tjZ0JTWVdPWnhxZjZHdHY5ZE5UZ1R3eHRHam5qaFNLeTk4U01pRVNwLXZaRk9jbjV5X3JuZ0t4RGtQXzVhZy1yUHprcEZLcDNKaG1sM1lnTDYydDkxaEkzVlNwcW9VSVp1clVLUFJwdjRLTVo0aEdKTU1BcGtzZkZIUjg1MGxzNklsN3VwaTdORE9OOFNvNndhR0VtYlpnM2VMRXFURnNPZmViTVlqaGFITkZiYlVZRVlQLU03Z0g3TQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8bd610899ab1",
+      "title": "Pela primeira vez, IA cria vírus que não existiam na natureza; entenda o avanço e os riscos - G1",
+      "published": "2026-08-06T19:38:04+00:00",
+      "summary": "Pela primeira vez, IA cria vírus que não existiam na natureza; entenda o avanço e os riscos&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOEJVeTU4RWkyam1jc0EybDBqLWJwcUx0bVYwM0NTbkZVZ3RVT2VxOEY5RHQwUWs1ZmMyd3F4LUFNZWdPLXFxVmFQLU9halI3TDIxX1Zad3htQm80b0tJQVYtSGltc0NzOEo1TnJnUldja3JFYWpJMWV1LU15UkYtZDlB0gGQAUFVX3lxTE92UW5rZy1xTS1iUGJQNGx6SEhOVjhhQzVabENqTjVBMVJHZ1hhbkxURWtyc3RyZWxjdTg3V1FZYlFOVXM3X3MxSnFSYXNZSEViMmJyUWhoNE5JcF9fenotcHlKSzBqdzV4Q0xEbzBTalRpbHRadUxZMGRNMkZzZlFqeHlSQWxIeDE0clE4ckdLNA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e2e92ae1c7c9",
+      "title": "Morre Mariana Siqueira, de Marilândia que mobilizou campanha por tratamento contra o câncer - TNOnline - TNOnline",
+      "published": "2026-08-06T13:55:57+00:00",
+      "summary": "Morre Mariana Siqueira, de Marilândia que mobilizou campanha por tratamento contra o câncer - TNOnline&nbsp;&nbsp;TNOnline",
+      "sources": [
+        {
+          "name": "TNOnline",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNeEVVN1dsUWVyV0JHZ1B5RlJZeXJnU0FxUExuUi1hX1E4UUMzM1pYVk9ROXdMam9kazlWVUhWYUlYQWlvQ0N2Mjh6WnB4dE0wMkU1X0NkSk9hbXhhdDlOYVc4ZHJhY2J1aEdFamZvSzcySllSZUE5Y2NEOGVnLUgwSmt1a296clZUODVTSTBfTWlyaWlEMHlNMGpjOC1PV3N3ZVB4OGdEYmQ2T3A3RDE3VjNmSnVZdmhpckpCTjQ5ZnhwMHI2RUNyU01UaG0tUUZQR1gzb05xMnFNeTEzWDBjbVZ30gHsAUFVX3lxTE9wWU5vaDE4RDNtSWVIU2FNemlUTFJxNDFWYXhIQW5kQ1ZHM1BQMEUtN0t1VXFMNldFeXhuRkcwX1pQUDhXcDlGcW1KTGhLTURweFBzZmR6eURPRHNLQTUwLW9ELXd4QUgxWm9WckNLRnlDQjh0bUFuc2FBcnp6WDZfM0ZfN2J4TWpBTWh3Ykd5QlhKVnNUZVZJVTRBMWF2WmF1NTNtbFpLU2s1amYxdjVvb0xJcUxwTXVJYTFNOXd4VjR0N1RTTGcyMGV4NTBYejEzSkNlWFo1OGxVWEdpeU02dXlZMnRLRC1FSDRk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b563bf9cd563",
+      "title": "'Não é câncer, é cálcio'; pacientes veem tumor avançar após médica indicar tratamento com testosterona - Folha de S.Paulo",
+      "published": "2026-08-06T13:30:00+00:00",
+      "summary": "'Não é câncer, é cálcio'; pacientes veem tumor avançar após médica indicar tratamento com testosterona&nbsp;&nbsp;Folha de S.PauloPacientes relatam piora de câncer após tratamento com testosterona&nbsp;&nbsp;Diário da Manhã",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWXI4WjhtaG5KNS1UeFV5OHp0MzlIUjRZVmhLSDVDRjZGMUpCMzJPTGhUeUhxV1BiODFjTEVuelhDVUo2c3ZuNUdHcTQ5cjl3LWtsdXlKTU9EeHJCUmF1eW1peUU5UFNZb0gwREc5cXAwazhFVjMwM1JvTmFmYW5ITG1fQVFQdk5qaDAwOXROZjc3VTlzdVo3bHJIQ2dRWXYxSk5yclU5NE5vWkZNOERvR0hhOWxtb0wzN2tpSU43cnlQTzdQSWhxQnZ2b1doeVNrYUxiVElMa2NXemVCeElYTWU3X3N0M0Q2bTNtQ05oNXY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "99885da1914a",
+      "title": "IA não resolve todos os problemas e traz riscos para a sociedade, diz cientista Marcelo Gleiser - Estadão",
+      "published": "2026-08-06T13:17:00+00:00",
+      "summary": "IA não resolve todos os problemas e traz riscos para a sociedade, diz cientista Marcelo Gleiser&nbsp;&nbsp;Estadão",
+      "sources": [
+        {
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZElJZDdFeFU3eGg0aUJsVVhidVN4akc2Mnl0T1NoR180T2lQbnN1VDZmTEFkeDZjMkotTmhVWExDTHJSZTdQb2QyMnUzY19xVEpjc0c0NUtVM2hrcWI0aFk1ZVVEUzJLaWJ3YjFGLU5rUlA5WUdpbEFRMFpvdUFlYjVsaXJSaWtmdFQ40gGQAUFVX3lxTE51WW5PNmIyUGY3T1BFNXlnM0oyb3ZQcE5ZX1lsTWFCcHFGX0J1LUtVcXl2RkwyaGJseFExU0tWNWNLRXRPWmV1Y2dscEZLUlc5Vm54a1RDNmRxWVozREhadzVReDZkRGdqOXJTLVQ1eFU0bXI5NEtwZzdCZXlFSzdaTFlhV25ObEF4bjUtNXFvMw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "583301e507ad",
+      "title": "UFPI divulga 1ª Chamada da Lista de Espera com 50 vagas para os cursos de Medicina (Floriano), Psicologia e Inteligência Artificial - UFPI",
+      "published": "2026-08-06T12:36:00+00:00",
+      "summary": "UFPI divulga 1ª Chamada da Lista de Espera com 50 vagas para os cursos de Medicina (Floriano), Psicologia e Inteligência Artificial&nbsp;&nbsp;UFPI",
+      "sources": [
+        {
+          "name": "UFPI",
+          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNZGJNaUJ5blVQbUthUlJtQ3JOV2RFaXoxNzdTSlhETmxEdEhRd1R3RndvMUk1dldVRnVmZ2lkN1dWSHlwLUlKZWNWQjBlX1piX1k4STZfeFpFTlhlaGlXc0NJb20tWUVyOTgtd0dXUm9hNU4ybEtVTGFDWC1kNEdFRUx3NHBTM0locnhoZ1htaXJqa1F3R1pURE1OZ2d5X1NxNTFWa25BNXdtTEc0RlpPUDFzRWFpVWhZY002TURfLXptaDJzZklSMW04OXpnLXkwd0F3WjJJRTU4TDJXZmpWQnc0MGp5OHkxdlJCVkgyLUVMcDJfM0hQczl4dVJxOWcxUFd2cm9Ha3ljZHlTX3dPcnB6RXBpbi1UNFIyQlBuWUNXUzRnQVRQNHpKMk1ySWNFYk5CbjNFYW5rZHVoRmdBYzNCVzNRaXFTY29JYUVhTVNMUHRY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a8397a7827f8",
+      "title": "Morango ajuda no controle da glicose? Veja 5 benefícios da fruta para saúde - UOL",
+      "published": "2026-08-06T12:09:24+00:00",
+      "summary": "Morango ajuda no controle da glicose? Veja 5 benefícios da fruta para saúde&nbsp;&nbsp;UOL",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNnVlN2F6UVlCbzJrRUNWclhjeFpZOG1iaG1kT09PREhKb2lKTmdSbUwzcDBMZXgxUXI0Y3BPTDZfZGo0Um9nUDVQaDdtUnYwdkZiVU9mN082OVdMVGlUNEdiLUNwM0NEWTdfc1MtS2c5T2xIa2tEMlVPSVphbUpWZGlFM1FqTTdINi1zX0RPUGdYeF92MXVVNkJPQnBqTF9Pb1JwY3Y2WnlHM0YyNFZiQ0tzWE9kNDViTzEtUmlVREZVZzZSRjVrT3Bab3NnQzFOX2lOQQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "59644f780376",
       "title": "‘Envelhecer bem vai além de não ter doenças’: especialistas listam 4 pilares para ter velhice ativa - Estadão",
       "published": "2026-08-06T11:57:04+00:00",
-      "summary": "‘Envelhecer bem vai além de não ter doenças’: especialistas listam 4 pilares para ter velhice ativa&nbsp;&nbsp;EstadãoConheça os novos hábitos saudáveis determinantes para a longevidade&nbsp;&nbsp;VEJA RIOO novo mercado da longevidade exige ciência, gestão e visão integrada&nbsp;&nbsp;Valor EconômicoLuiz Paulo Foggetti lança primeiro livro, 'Homo Longevus', e propõe reflexão sobre um futuro em que viver até 120 anos pode ser possível&nbsp;&nbsp;TerraTer diabetes, hipertensão ou artrose não signi",
+      "summary": "‘Envelhecer bem vai além de não ter doenças’: especialistas listam 4 pilares para ter velhice ativa&nbsp;&nbsp;EstadãoConheça os novos hábitos saudáveis determinantes para a longevidade&nbsp;&nbsp;VEJA RIOBrasil envelhece sem enriquecer: o ônus demográfico&nbsp;&nbsp;Campo Grande NewsO novo mercado da longevidade exige ciência, gestão e visão integrada&nbsp;&nbsp;Valor EconômicoLuiz Paulo Foggetti lança primeiro livro, 'Homo Longevus', e propõe reflexão sobre um futuro em que viver até 120 anos ",
       "sources": [
         {
           "name": "Estadão",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOUZGeGFvZm9hMzUwUnRMVGV4MTExT2lmdjFaOWE2OUxuZ2RGaFB3VFBnS05MUFhYaFdja05EZ2UwaEktOVlXNFBOSEYwNlNoNzJtLTh6aEgtQTB4QjlWOXRzUThGV2U5VDU5dlVQRUVORWdTNmpTdW9VVWd5dmRiU29YUlBpaWh1MTFDYkFkeTQySzRyNm1ncVo2NFY4d0N0Tm5tekFtRW5MYWhtbndzYnZCMTI0TGRIOHB2YnJoQVBFcUpOYl9oaWpn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dfadd2124c8b",
+      "title": "Alerta nos mares: peixe-boi-marinho volta ao nível máximo de risco de extinção - VEJA",
+      "published": "2026-08-06T11:30:58+00:00",
+      "summary": "Alerta nos mares: peixe-boi-marinho volta ao nível máximo de risco de extinção&nbsp;&nbsp;VEJA",
+      "sources": [
+        {
+          "name": "VEJA",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNTdNbHdhVzFiQ0RsXy1jZmJvbjA0eENhallNc1lTemlSY0h6eW9GY3lMVHAtRVFVM01iTm5HdkpHNXZxMmRGcVNFdVBEd2FqaVhOeldGRURCbjFsN25NYXJENGZuclNDSHh1MlRqZlBoc2U0cmJfemd2c3dTNGdTTFhobU5CM3IycFk2X1IycUkyRU42LTN5dnRJQWFNREJNeFJodmk3SWxraXhpdHBxOGdn?oc=5"
         }
       ]
     },
@@ -26,6 +122,18 @@
         {
           "name": "TecMundo",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcmZXNkJ4OG9tSU41WW9oWUgzTVEtbWZEZXBJWE1tcVc4UFZqVDNOdThVWDlqUXFZSEkyV05tZXp6WFhHU3F0M1Vod1JzYUREMDRaNlBzVjZzNDZieFdwdjZzZ09EVElpRWJTU0tIS3VlTUpZWDB1TC1qQzk1MzZobmYyQW9xaFJXeFV5TndENExWUWtZam9n?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "69573207384e",
+      "title": "Emagrecimento rápido: como evitar flacidez e queda de cabelo - Campo Grande News",
+      "published": "2026-08-06T10:30:00+00:00",
+      "summary": "Emagrecimento rápido: como evitar flacidez e queda de cabelo&nbsp;&nbsp;Campo Grande NewsSem dor e com efeito ‘Cinderela’, tecnologia coreana vira aposta de clínica de Cuiabá para firmar e redefinir o rosto&nbsp;&nbsp;Olhar DiretoPerdeu peso com as canetas emagrecedoras? Veja como cuidar da flacidez da pele&nbsp;&nbsp;O GLOBOEmagrecimento acelerado pode aumentar a flacidez facial&nbsp;&nbsp;BoqnewsQuais são as 5 cirurgias plásticas mais procuradas no Brasil&nbsp;&nbsp;Estado de Minas",
+      "sources": [
+        {
+          "name": "Campo Grande News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZFZpcURPcEhwZGhrM2lVM19kVkNlbDRHNVpXWDBOVEtTVExZNkE2YzRUYUFTeDg0cGY3RWJZSG9kaHlucWNPaElTSzF1NHBMWmhEdFNFZGxrTUxIQmFCQ0Z6S3daUUpyUWxoZkdUbnFNV1J1QVdNUnZ0QnpDYTFlVVlqUkJhbVpYbGtVZUZrTGNwQTIxZWRzRl9wWDZCZ9IBngFBVV95cUxQTDJFUGNxM2kyaXptOUFyMTJUZHNfTW5UM0doWVdnUUZRaEt2d2ptZFdIZFVkdGQzd01OSURMcTI1MW9ralRSazFoWkNoOHF2eXZ3NmV6eXZGUFZMYkQ3cUhJbUcwcU9vR0xHdGJJU0RMMXBsZXd3TTRCU2JMRzlWbWRLc3ktSnZWVkNDRlB1N1N1dTh3V3NTME91cUtzQQ?oc=5"
         }
       ]
     },
@@ -45,7 +153,7 @@
       "id": "169fe6a853cc",
       "title": "Impacto das 'canetas' vai além do peso e preocupa até cassinos, diz médico - UOL Notícias",
       "published": "2026-08-06T08:30:00+00:00",
-      "summary": "Impacto das 'canetas' vai além do peso e preocupa até cassinos, diz médico&nbsp;&nbsp;UOL NotíciasAumento expressivo de buscas online por medicamentos para emagrecer ilegais ou sem registro pode representar ameaça à saúde pública&nbsp;&nbsp;TerraArmazenamento correto é essencial para canetas emagrecedoras&nbsp;&nbsp;G1Veja quem é o entrevistado do Roda Viva nesta segunda, 3&nbsp;&nbsp;O POVOOzempic e canetas de emagrecimento: Novo efeito no rosto preocupa médicos&nbsp;&nbsp;Notícias ao Minuto",
+      "summary": "Impacto das 'canetas' vai além do peso e preocupa até cassinos, diz médico&nbsp;&nbsp;UOL NotíciasArmazenamento correto é essencial para canetas emagrecedoras&nbsp;&nbsp;G1Usa Ozempic ou Mounjaro? Novo consenso internacional mostra como deve ser a alimentação durante o tratamento&nbsp;&nbsp;Folha VitóriaCanetas emagrecedoras: 7 erros que colocam a saúde em risco&nbsp;&nbsp;TerraOzempic e canetas de emagrecimento: Novo efeito no rosto preocupa médicos&nbsp;&nbsp;Notícias ao Minuto",
       "sources": [
         {
           "name": "UOL Notícias",
@@ -54,10 +162,46 @@
       ]
     },
     {
+      "id": "4ca7011d1042",
+      "title": "Precisamos de tanta proteína? - O GLOBO",
+      "published": "2026-08-06T07:30:23+00:00",
+      "summary": "Precisamos de tanta proteína?&nbsp;&nbsp;O GLOBOProteína adicionada expande mercados e democratiza consumo&nbsp;&nbsp;Meio e MensagemSeu corpo precisa mesmo de tanta proteína? O que a ciência descobriu&nbsp;&nbsp;TerraNa meia-idade, comer mais proteína vegetal foi associado a uma chance maior de envelhecer com saúde&nbsp;&nbsp;Tua SaúdeProteína é tendência e prioridade na alimentação de 80% dos consumidores&nbsp;&nbsp;foodconnection.com.br",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZnpPNkFKY2FNeG9IVTc3SnFDTXFHWUxsUXJLWElMQmg3ZWhrRW4xaGlqaGs3dEduZHFxeTA5RWV5dVlFWWVNTTZadlJ2VHRySDczWkJVU2h5dXI5MlVFclE3Z2h6eHRqTFdBVHlHX3lOdl9BX1RUekFVNUYzRWZUNmh2UnlkTzFWbUxydGt4Y1Z5RHNWbGQ2UXZrb9IBqgFBVV95cUxOZFFBaVh1cUxaa1BNRktOLUs4V3VWSHlGOVN3TENxazJpb25kajRWTEhDN2xXOEpsYURLN3huNk41VnBaUDlmcFFoaElDaUw2NXdCN3hPU2xvR3VDcExzSHpkeHBSS1h4SkpuWG52eE9yNVdHaElzOUcyQWtZaE1meHdJZGU5eUZpeFpiUFhXRHVjSkhncjN4S1RJYllqOUpIeEVGVDZ2YUdQdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "447345f0c31a",
+      "title": "O que significa ser um 'homem de alto valor'? Pesquisa aponta atributos mais citados por mulheres - O GLOBO",
+      "published": "2026-08-06T07:01:21+00:00",
+      "summary": "O que significa ser um 'homem de alto valor'? Pesquisa aponta atributos mais citados por mulheres&nbsp;&nbsp;O GLOBO",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQM2NNRG55V2RDUTJocmdqMEdISmRWVXN5Nnk4WGdnMkI5TkNULXdFZ0V4ZVJiamZsUnJWaGNsOXBYN2Z6dTE1d0xpdExGbHR5NmRJaGFNc2xLbXFpcHJLZGx6NlA2U2RKSnZmVEt0RFZFWm56Mk9XSklhYXpFSVp4dTVFaHBaa0dmY2FMT3Rlc3lfNFRmdk1QU29GRmR3TUY4a1BpNXpSeHdOcEZpRERTa25mYWRwZVNKWThGdUJQdHFlSmZKMlFyczROWnI5UFc4RXpNWWZrLVE1clhhUHkyLV930gHwAUFVX3lxTE9QX0VmSkljTVg4alpMcW9CaElKZ0VNX3VFRVpKZGhrRFNJZWlSU2pleVMwd2JEazlFdnp1Y1pVQnNKMk5xVW1nY281N3R4S0pJb1VTUWNZbFVIZWROaV9oaFFTNXpOUUw5djhNMjl5QmdheE5XQWZBaWpUUXJrX0JoaERKX2VQTDdpYldTN0h5eGRRTjlNQ1pCaFk5SXh1bXVTckpvU0xKaDFnU21YZWZsTGk0d0hwUHBUQV8zS21jSkZJU09lNk9yaVc4aTBPclIxT0RYMDNaLUhmSm5aTS1BQVVlRzc3Zjg0Y250LVJ2aQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a35733cedb2b",
+      "title": "Evitar três fatores durante a meia-idade está associado a mais 13 anos sem demência; saiba quais - G1",
+      "published": "2026-08-06T03:01:06+00:00",
+      "summary": "Evitar três fatores durante a meia-idade está associado a mais 13 anos sem demência; saiba quais&nbsp;&nbsp;G1Hipertensão, diabetes e tabaco. Cientistas identificam três fatores a controlar para atrasar a demência&nbsp;&nbsp;RTPEvitar hipertensão, diabetes e tabagismo na meia-idade pode atrasar demência em 13 anos, diz estudo&nbsp;&nbsp;ObservadorSaúde na meia-idade pode influenciar número de anos de vida sem demência&nbsp;&nbsp;ExpressoTrês fatores de saúde na meia idade que atrasam a demência ",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZUZ4Y3hBUVQ5S2d5OTJPLW9oMkJiWUFGTlBjazBhSG5QNWlFTExvZjYyYVhvaTN3dThTVzdsdGhCWUZCbW51VHRPN1ZhQVVCQ3p1LWRzTWZVMTRMeVl6SHJicHFfWU1tanJYVGExQlNpN3lMOTY3aUpFODlYMzRiZUoyeG84V2dBZkF2dzl5WUlWeDVjM0JGQ1NlZndFYTR0ZmNYT2dOOHRBTVpmMWQwaFBlZzhfX2MyX3RaS1ZaSlJ2QW1HVU5lUlY5MHRNSzA5U2Q3NEhFRVg4b2RoYzhCM9IB7wFBVV95cUxQUGVtQS1XQ3pZVnJnNW9OV0NVQVhjNVcyaU9XVmxoMWJLd3MtTmJ0YmhwV0xPZ2VnUkhQWDRteDYwZkxYdXVaRElwMjM0NV8zRlhpamFHSWxuaEk2TkZHM0FCZER2VFhvQlRXUnNYZHVCMTRITVJ0cHdqTE1FUWoyNmRmcXVMUEpUdEFTbk03dFJTd3NBMmVBU05VYU5kSXRHeE10X2h4elRaMlR1UWxRSkYxTVEwM3hfeGdYZ09xOWp6aXpKVHNkY014UWE0V3RvMDhYM3VvckNKMTFLNTkweGpDM2tfeHlPQ2pMSVNDaw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "bf9120a29af9",
       "title": "Os riscos de dormir pouco e por que algumas pessoas precisam de menos horas de sono - Folha de S.Paulo",
       "published": "2026-08-06T01:00:00+00:00",
-      "summary": "Os riscos de dormir pouco e por que algumas pessoas precisam de menos horas de sono&nbsp;&nbsp;Folha de S.PauloVeja mais manchetes e perspectivas no Google Notícias",
+      "summary": "Os riscos de dormir pouco e por que algumas pessoas precisam de menos horas de sono&nbsp;&nbsp;Folha de S.PauloVocê dorme o suficiente? Seu cérebro pode estar mentindo; entenda&nbsp;&nbsp;Diário do Centro do MundoIr dormir e acordar sempre nos mesmos horários não é só rotina, mas um dos hábitos que mais protegem o coração e o cérebro&nbsp;&nbsp;Tua SaúdeO erro que muitas pessoas cometem ao fim de semana e que pode desregular o organismo&nbsp;&nbsp;SICCardiologista: Dormir mal aumenta risco de in",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -69,7 +213,7 @@
       "id": "d6c4500b3ab0",
       "title": "Por que mosquitos picam mais algumas pessoas do que outras? Estudo investigou - tnh1.com.br",
       "published": "2026-08-06T00:09:00+00:00",
-      "summary": "Por que mosquitos picam mais algumas pessoas do que outras? Estudo investigou&nbsp;&nbsp;tnh1.com.brVeja mais manchetes e perspectivas no Google Notícias",
+      "summary": "Por que mosquitos picam mais algumas pessoas do que outras? Estudo investigou&nbsp;&nbsp;tnh1.com.brÉ verdade que algumas pessoas atraem mais mosquitos? É o que diz um novo estudo&nbsp;&nbsp;SuperinteressanteMosquitos são mais atraídos por odores masculinos e bactérias da pele&nbsp;&nbsp;MetrópolesCientistas revelam o verdadeiro motivo que faz algumas pessoas virarem \"ímã\" de mosquitos&nbsp;&nbsp;Dourados NewsExiste um tipo de pele favorita entre os mosquitos? Estudo responde&nbsp;&nbsp;Aventura",
       "sources": [
         {
           "name": "tnh1.com.br",
@@ -102,6 +246,18 @@
       ]
     },
     {
+      "id": "bc2a2e52f85a",
+      "title": "Saúde masculina: 10 exames preventivos que os homens devem fazer aos 40 anos - A Gazeta",
+      "published": "2026-08-05T22:14:00+00:00",
+      "summary": "Saúde masculina: 10 exames preventivos que os homens devem fazer aos 40 anos&nbsp;&nbsp;A GazetaExames e hábitos que todo homem deve adotar após os 40 anos&nbsp;&nbsp;TerraA falsa segurança do exame de próstata: por que um resultado normal não garante que está tudo bem&nbsp;&nbsp;Jornal CorreioDia dos Pais: homens vão menos ao médico, e MVM10 explica como mudar isso&nbsp;&nbsp;O Diário de MogiFelipe Goulart: diagnóstico precoce amplia escolhas no câncer de próstata&nbsp;&nbsp;band.com.br",
+      "sources": [
+        {
+          "name": "A Gazeta",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUS1YU2xMN2pUdnJEN3E0ZW40czBaSmtSRVcyWndKNlk2UHprOTBMSm81S0tjTFRtVEtLVjlXWS1IU04zVTJoRHNQazJOcXBJVWZnVmI5dDMtR3lvWkxPek1SSlhpenlfUkt1NVBiNjREcWVZdlRZbG9JZVJZQXB0bFZwR2hfTGU0Nlk3RkNDQl9WME5tTzNyWERMT3owSjRMUThkT2NhYVp1Vmw3UUUwSTBJa0NFYUU?oc=5"
+        }
+      ]
+    },
+    {
       "id": "7cc646af5f2c",
       "title": "Homem descobre câncer raro após dias com o olho lacrimejando - Metrópoles",
       "published": "2026-08-05T19:14:00+00:00",
@@ -110,18 +266,6 @@
         {
           "name": "Metrópoles",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9PWXdDejNDY0poWEN2ejdFNndHdV9WUFQyQzltSnB5RVpldHBzX2NwYmFPcGxOTldzbGRTbDZ1RXZ3VU41YjBlSmt6cmhnOWo3Z0FXTnItcVAxUUtMUWdlNE95MmtvQXZReVZzWVZsZ0ExckxvX3FR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7c7ec5c489dd",
-      "title": "Lúcia Helena: Além do peso: 20 pontos que determinam o sucesso do tratamento de obesidade - UOL",
-      "published": "2026-08-05T19:00:00+00:00",
-      "summary": "Lúcia Helena: Além do peso: 20 pontos que determinam o sucesso do tratamento de obesidade&nbsp;&nbsp;UOLPor que é tão fácil voltar a ganhar o peso que perdemos após emagrecer? Entenda a explicação científica&nbsp;&nbsp;Época Negócios5 estratégias para emagrecer de forma saudável e sustentável&nbsp;&nbsp;Assine AbrilHábitos que ajudam a emagrecer e não o deixam voltar a engordar&nbsp;&nbsp;Coxim Agora",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOFJteXV6VDlCN3lMMDY5MXBjOVNhbUZ3azVXYVp5X2xjSjFQWElKaXdjd3JZdDA0NmNrdnJKTW1kcVFDOG50dVBiLVFRbzh4LWhHU2E2c3I5RzRQVXpaU2dNblVnOWZQNFlGX2hQLW1XRjVlSWhhdWxkcFR4YS1EczZhbzR2S21KSzVqNmJCdngtY1NiTV9RVzRPQVVoQW5xcDRJel90dlhMRlpTV2ZRcWdnWV91TjhHWm9GQ2I4SDZxb0poaTROeGF4X29jVEdHa0R5VlVkTDQ?oc=5"
         }
       ]
     },
@@ -150,14 +294,26 @@
       ]
     },
     {
-      "id": "9e9eb8eb3b03",
-      "title": "Por que mosquitos picam mais algumas pessoas do que outras? Estudo investigou - Globo",
-      "published": "2026-08-05T16:01:16+00:00",
-      "summary": "Por que mosquitos picam mais algumas pessoas do que outras? Estudo investigou&nbsp;&nbsp;Globo",
+      "id": "a834cf306890",
+      "title": "Rafael Cardoso agradece apoio da família durante tratamento químico - CNN Brasil",
+      "published": "2026-08-05T17:08:43+00:00",
+      "summary": "Rafael Cardoso agradece apoio da família durante tratamento químico&nbsp;&nbsp;CNN Brasil",
       "sources": [
         {
-          "name": "Globo",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNY1FqNkNza05qRE9UOFQtbDF2N294UE9jazgzQmJINHIzVDlyaFcyMmh6WlZXQnYwVlc1ZHZPRWQ3VVhIUDZ5ZjRYSGk0OUNSZXZpMC1WZUVVSTB3ekhaU2dhalFLOFVKbEttUjNtRW15cTV1a2V0OFVkT2J0UXBST0M2Q1JqcXJPWDRRZ1dhRmpBajNaajQ4RWFpWi1KNWRlVTc2Y091OTlfWWh3Z1NkTXI0OTdmcE4yaE1NcnZKcDZ0N21LeEwtWjlWcTZJUzA5V0U3NEZJeFRoU3d5OGZhYkln0gHwAUFVX3lxTE8ya3l1VExBSG1TLVZuY2R1M2ZmeGV0SHU4bFdJeGFERGdaWEl1TW95aXIxVlRVMXRoYWlEa1lTeEFlNURMdW5VN2dfVjd0bTlMajVtaUtuckZlcGZ6UEtKU1RGcmkyMlM5T0JfMGhDTnFqSS1qaXBqOEl0SkRLUUsyX25ScGVFZWpmR09nWWZVNmFENWx1dk9rSGZqWVY5MldPMU1UMWVqSHF6cUhMOTlqdjFyZG1OZ084RElTV3lKMzE2cHJSLTcwTHJvanprbGdKMWdCTk1VTW8wZjBjSlNLcV9PanFmMEtzN2dWTlRsWg?oc=5"
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSk5YZ3pDUlRJVWFoV2pjQXF5SkZ1VFN6Uzk1enpxMGlYSjZwZzlzY0NnaDBUbDhmejkwM3NDSC1Sc2lOQ3ZwaV9ZNHpsUmRicjF3c2RZaW82ckkybDBUNWlzbm91NG9QVGxJcGk5SnEwWlphMzRGeVJiNHVET3duY24tRFpIb1lpUndDaXkzbExRcUJRWVRWLUw1c3ZzSVB3bEhYdkpEU0w5OWpsZUhBRzRrMTI?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "75deec132f0f",
+      "title": "Sentiu o coração 'falhar' ou acelerar do nada? Entenda quando o sintoma pode ser um sinal de alerta - Jornal Correio",
+      "published": "2026-08-05T15:54:08+00:00",
+      "summary": "Sentiu o coração 'falhar' ou acelerar do nada? Entenda quando o sintoma pode ser um sinal de alerta&nbsp;&nbsp;Jornal Correio",
+      "sources": [
+        {
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOT3I2OThmcEJKQWZYb1oxeV9zeUhPMGpaRWQza1hnU3FQc2tNWk0zOXoyTWt1YlRjUFBEQmVGVFRrblJ3SkZfMzdGNHAteTM4NVJsTWN1MkhHMm1QWWR3UmFCbUpabHlSTWN5em9tMU9UN19XVlN1OEpXSGFUZlhFX1N4R2lPa1prN1ZmbHVyeHh6TUNrYzhFNXFzWUtSVXRLMVVVRnBRLUNRRUx1UGtQQzlpa3JRZEZLVHRqbVp6Vy1feGZnZXhlRVBjQUp2ZEFtMF9DbDRsMGs?oc=5"
         }
       ]
     },
@@ -174,26 +330,38 @@
       ]
     },
     {
-      "id": "ad846ea4481d",
-      "title": "Câncer de estômago é cada vez mais comum em adultos jovens - Folha de S.Paulo",
-      "published": "2026-08-05T13:51:00+00:00",
-      "summary": "Câncer de estômago é cada vez mais comum em adultos jovens&nbsp;&nbsp;Folha de S.PauloVeja mais manchetes e perspectivas no Google Notícias",
+      "id": "4289444b0a91",
+      "title": "Estudo da polilaminina é publicado e autores reconhecem limitações - UOL",
+      "published": "2026-08-05T13:46:20+00:00",
+      "summary": "Estudo da polilaminina é publicado e autores reconhecem limitações&nbsp;&nbsp;UOL",
       "sources": [
         {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaXllcGFjZGRuaFlWazFjNm5tbjcxZmtKWWxWYWJrREMwVXlERVNpeTktU3E1bVFDdHloOEpTU0VWTGZtdjc4c3hidzgyNnc2bVdiS0sxSmttVml5dlZ4UjJuNy1BNFg1cHRMNnE5V0hVYWZ3ZG41Vl93bXV0a2k0b1ZFYlV2M0lKY3ZxOTFGaHpmN0dNWkRKSERaM2swNi0yQWhzQnhYa2RzMVBiQ2lUSklOaU1NYzQ0WVh3?oc=5"
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQd2FIdVJCXzFreDYwUnpFb01rRmN3dzFacHlGVHR0VkVLOUg1dlJaWDFyNXl5Y1p6VE1EQUUzSkhXSy1abTl6QWhnenp6cC00TkE2cERYTU9KaHNidWtEVUY4Q0FabG14cmt4UEJadTdoVUhvUE5QV0cwUC12eUZEcFQ0SjlHNTdNdldYX3JtWWdDZ01VTmtRU01BQndSOGNVeWtaOXlmU3c2SE1vOGw1WVdwdTJYSm5yZloxRzRBZHRXbnRGbUR6bXh3?oc=5"
         }
       ]
     },
     {
-      "id": "2ea26bbf3f6b",
-      "title": "Estudo aponta diferenças no risco de demência após os 90 anos - UOL",
-      "published": "2026-08-05T13:04:06+00:00",
-      "summary": "Estudo aponta diferenças no risco de demência após os 90 anos&nbsp;&nbsp;UOL",
+      "id": "c618bb281863",
+      "title": "NAEA abre seleção para pesquisadores com bolsas de R$ 13 mil mensais - DOL",
+      "published": "2026-08-05T13:33:39+00:00",
+      "summary": "NAEA abre seleção para pesquisadores com bolsas de R$ 13 mil mensais&nbsp;&nbsp;DOL",
       "sources": [
         {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN2E1eXJEV2tGbVBudEN0cnVmaGdVUURBLWxIV0tXQ3NCWnhBaVNoaUJ6eFBpdTNCVGNUZHZDSXc2QWdRZllSWTBmVGlyaHpBY2lXNndSenJQSkE5dFotTUdPYUZaRHE2MTVpTVpoVURBQWNxaGstLXlraXJVYnlid2xHSGlQMjB3MkgtczI0ZXExRDdlZERQTDhoSFFQWXJUSXJEcXhGd1hyNkp1YkFkTm1qbXoteF9BMjl1cENoVlBkTW8?oc=5"
+          "name": "DOL",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPU3B1WTRjZ1RydUp5UW5pZGZCalZHY2t3cTF6d2o2WFQ2TE52S29rT0UyeGN6dTVmM1RPWk1Ia1M3T3dmZVVGTFFQYlY4MDd1RVRmakRJX3BScG5Ca3M3SENsOWNXM21xTEdVOTB2UEJ1UVVHT0xBTHlERVBVQ2ZLQVhJcUJCdFhmTmp1N1VJb29kOXQ3Z09ITTNjajFmYXAtQ09Ybi1HbXpucVQwcFVtY0hXNkEzUXAwVzlR0gHDAUFVX3lxTE5HMFUwRFdxa2NEZl9LU2djZ203YjNRV2JpRmdMb2xHTEhiZGtNdTAyZlpzZUxyWkVLb0tibUZTdE53X0s1dHpxTVRfWVZwTUVaODlyc3ZURTlsZjR5Uk1kaThvTEJJV1JYWWVUZEMwRGhXeE55ZUk1QW9tdm03VVU4TTdzX2tqdnJJc2o0Q21NNHJnX2dkR3RhSEpPNmprcjJmalFlUk5oMkpQV0lrcXJTMzFqNm1Fd1VwS0prZmlJa3kyMA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "da37ce44091e",
+      "title": "O câncer de estômago está mudando de perfil; veja quem mais corre risco agora - Jornal Correio",
+      "published": "2026-08-05T11:47:03+00:00",
+      "summary": "O câncer de estômago está mudando de perfil; veja quem mais corre risco agora&nbsp;&nbsp;Jornal CorreioColonoscopia: benefícios superam de longe os riscos&nbsp;&nbsp;VEJACâncer de intestino: casos em pessoas mais jovens chamam a atenção dos médicos&nbsp;&nbsp;G1Sinais do câncer colorretal devem ser checados com rapidez; saiba mais&nbsp;&nbsp;UOLCâncer colorretal é o segundo tumor de maior incidência no Brasil&nbsp;&nbsp;Jornal Cotia Agora",
+      "sources": [
+        {
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOU3RVV1g0V3ZPS1ZRZ2xneHE1R0JTY2ROeVhWdE92Yi1Ja3o4X1F0NlBmRTdYbU1mUkY2U2drN2dtemJwSHVXcTFsUDNIY2NSQTQtQ3c0TE5xM0M5YkJlYVVKd3ZyUGV5WTBNckgwb2JLT3JXRl94VlRwYlRvTXRPQ2xOWXFwNl90aXh1T0ZVMkEyaE1BejRvb0xrSGNZM1VPWVRfYkcwZzZYejhlS0tSNFdCMlE4M2lhaTMxTjNR?oc=5"
         }
       ]
     },
@@ -249,7 +417,7 @@
       "id": "0e389270fd6c",
       "title": "Saiba onde há menos filas para tomar vacina contra o sarampo na cidade de SP - G1",
       "published": "2026-08-05T04:00:15+00:00",
-      "summary": "Saiba onde há menos filas para tomar vacina contra o sarampo na cidade de SP&nbsp;&nbsp;G1Você deve tomar? Tire suas dúvidas sobre revacinação contra o sarampo em SP&nbsp;&nbsp;UOL NotíciasSarampo: especialistas avaliam risco de alastramento no país em meio a surto e baixa cobertura vacinal em SP; tire suas dúvidas&nbsp;&nbsp;O GLOBODe Olho na Fila: Como encontrar postos de vacina contra sarampo em SP&nbsp;&nbsp;EstadãoSarampo: quais são os principais sintomas e quando ir ao pronto-socorro&nbsp;",
+      "summary": "Saiba onde há menos filas para tomar vacina contra o sarampo na cidade de SP&nbsp;&nbsp;G1Surto de sarampo em SP levou à recomendação de revacinação e \"dose zero\"&nbsp;&nbsp;CNN BrasilSP: surto de sarampo gera risco de reintrodução do vírus&nbsp;&nbsp;R7Como encontrar e acompanhar fila de postos com vacina contra o sarampo em SP&nbsp;&nbsp;UOL NotíciasSarampo: buscas pela doença no Google saltam 910% no Brasil; veja as respostas para as 10 principais dúvidas&nbsp;&nbsp;O GLOBO",
       "sources": [
         {
           "name": "G1",
@@ -258,13 +426,13 @@
       ]
     },
     {
-      "id": "181025437790",
-      "title": "Cientistas despejaram 12 mil toneladas de cascas de laranja em um terreno; 16 anos depois, o resultado surpreendeu até a equipe do experimento - Diário do Litoral",
+      "id": "9daa41b0414a",
+      "title": "Cientistas despejaram 12 mil toneladas de cascas de laranja em um terreno; 16 anos depois, o resultado surpreendeu até a equipe do experimento - diariodolitoral.com.br",
       "published": "2026-08-05T03:15:00+00:00",
-      "summary": "Cientistas despejaram 12 mil toneladas de cascas de laranja em um terreno; 16 anos depois, o resultado surpreendeu até a equipe do experimento&nbsp;&nbsp;Diário do Litoral",
+      "summary": "Cientistas despejaram 12 mil toneladas de cascas de laranja em um terreno; 16 anos depois, o resultado surpreendeu até a equipe do experimento&nbsp;&nbsp;diariodolitoral.com.br",
       "sources": [
         {
-          "name": "Diário do Litoral",
+          "name": "diariodolitoral.com.br",
           "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPWWQxZjNfV3F4TldDc1ozdVVLa1VBWEVfbEJoSnFHRHRHZkxPaXJDVXZ0d3FxWDgtSktqNHFna015QmVwRnRlSDdZY3RUT1FxdmdrSlE2RWkzc3hHNzhwai1IVGFya3FHM1VYVm1JN0JqSDUzUHg1c2cyS2tPTGE5SGFwWUotSU1aRU5JVnpSeEpfT25PSWtjYzlhbFQ5V1paQ1VFMjBtWXpZbFE4QTFZdjl5WFRHYmh3VEg4X0F5M3VZVnNBZy1GckNwdjJHZ2kwdnNURkYzNUYtVmNuN1BUN1ZsWlc5UGZrOUx3cE5xN0FSOF9MSkZoblVjQktfbExhd0FscXR4NVpBSUVWUDdHcFhicHFjMVU?oc=5"
         }
       ]
@@ -273,71 +441,11 @@
       "id": "76e1b9d9a84e",
       "title": "Ansiedade é a principal causa de incapacidade entre crianças brasileiras de 5 a 9 anos - Folha de S.Paulo",
       "published": "2026-08-05T03:01:00+00:00",
-      "summary": "Ansiedade é a principal causa de incapacidade entre crianças brasileiras de 5 a 9 anos&nbsp;&nbsp;Folha de S.PauloMaior análise já feita sobre saúde mental infantojuvenil indica cenário alarmante no Brasil&nbsp;&nbsp;gauchazh.clicrbs.com.brMais de 15 milhões de crianças e jovens apresentam diagnóstico de ansiedade. #JR24H #Shorts&nbsp;&nbsp;R7Mais de 15 milhões de jovens possuem transtornos mentais no Brasil, diz estudo&nbsp;&nbsp;TerraAnsiedade infantil: saiba o momento de procurar ajuda profis",
+      "summary": "Ansiedade é a principal causa de incapacidade entre crianças brasileiras de 5 a 9 anos&nbsp;&nbsp;Folha de S.PauloMaior análise já feita sobre saúde mental infantojuvenil indica cenário alarmante no Brasil&nbsp;&nbsp;GZHMais de 15 milhões de crianças e jovens apresentam diagnóstico de ansiedade. #JR24H #Shorts&nbsp;&nbsp;R7Mais de 15 milhões de jovens possuem transtornos mentais no Brasil, diz estudo&nbsp;&nbsp;TerraAnsiedade lidera incapacidade entre crianças&nbsp;&nbsp;Agora RN",
       "sources": [
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbUlzclI5YWR1Um91RGZRVmF0MEc5NTJsaFl5d2tSZTRPOFdORkd4X05mWDJ6eGUtRk10VUV2WWt4XzlKT3BnQ1lEYzMxRHBKMUZPWUhOQ0FSWDhjNUlCOW1hZFZ4Nk1wWTBvWW8yaHVtaUhqSHNyQXdQQUhVMEdmZi03WGk5MU9YS1dlTmV2Rl80dmM3cWZaeE5Qc2NCUFhQVkItcEIzWWZieG9hbzg4bGZCZW1ycEdSaHQ1bXpXZEhQbE1HbDNsS0E5dmpfVjJXOUY0emxEMTF5aG9iZTNsWA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2f2e6beda79c",
-      "title": "A relação entre o uso de redes sociais por crianças e o desempenho escolar, segundo novo estudo - Superinteressante",
-      "published": "2026-08-04T22:00:00+00:00",
-      "summary": "A relação entre o uso de redes sociais por crianças e o desempenho escolar, segundo novo estudo&nbsp;&nbsp;Superinteressante",
-      "sources": [
-        {
-          "name": "Superinteressante",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNM01OZ2Q5ekdwODlnRTE1ODZRdXBJWTVoang1SjJONi12VWhEakhpZ1dlQ28zSXVzZ3NKajMyckRYWmRrUDU3V0ZZeFNENEM0d3BOeVJRdjZnT2NaeDYyS3o1N2tWME1qTlpCRExXX1RNWU8wbnRfbmliZXR1UUgwb1cyTGdTdVMyeWJ1X2QtcVZ0d2lBRW5oM09kYkdVUUYyN3ZHZmFGcFVpMVRHa280YkdnVEI5a3gtUmpzU1N1M0Z6Ri1hemp0QkRB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0572e96d178f",
-      "title": "Chamada CNPq/ERC financiará pesquisas em cooperação entre brasileiros e europeus; inscrições até 30/09 - gov.br",
-      "published": "2026-08-04T21:45:00+00:00",
-      "summary": "Chamada CNPq/ERC financiará pesquisas em cooperação entre brasileiros e europeus; inscrições até 30/09&nbsp;&nbsp;gov.br",
-      "sources": [
-        {
-          "name": "gov.br",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNdktrRTNnQ0Fhdjh2bE9ydUtMZEVOQm8ySS1vUUJiLWE0ZW54NFZuUVNJUGczVUx4eXlJUVlPbDJWNUUxTGJXM2I2eTlMUFl0UFFBUzRjWEdzSmFVd21xYmZpY1BzNHdJYmdiX3ctSU9CMHlGYUk0dnNITkQ3VTVpMzN2T0dKS3dRYXptRXBLLW1rcGFhRGJQSlJVLU9fbFlRRVFCUWFEanZsQ3hvZDNGWlRreDFkb3FEUjJWZWNqNDQ3c1p0ZjZkNXM5NjNxNC16cU1JZnZBY29abmZEbV9vQ09sa1RYY1l5aXVYLUhnY2RBZkZVaWItdQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "414bc32bb96f",
-      "title": "Quase ninguém cozinha inhame do jeito certo: esse método preserva os nutrientes de verdade - Minha Vida Saúde",
-      "published": "2026-08-04T17:31:40+00:00",
-      "summary": "Quase ninguém cozinha inhame do jeito certo: esse método preserva os nutrientes de verdade&nbsp;&nbsp;Minha Vida Saúde",
-      "sources": [
-        {
-          "name": "Minha Vida Saúde",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqNnhEMWd1RHlpRENHbG9BcWtLdlVMYjNiQW14WjI0RW5URFM4cEN5R2tZUFZhWHZNQlliNXF6cDlIdWJONWNLQWRoWGVzYmtPVThEdmpUa3hsZ25nOWFpcdIBZkFVX3lxTE9fOHRBaHJkR1B5YVdnWFRHazFWRGU0QWNkMkZrM3VKUUp6ZW81eHRUaVAyREVEeE1NSnM1RmlaYnNTSkoycC0wM1NMX1g3S0duRW5DSC1rY19za0FiZjlGMm1CR2loZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0364c7cbc8d3",
-      "title": "Testosterona: 5 motivos pelos quais o hormônio pode não dar os resultados prometidos - BBC",
-      "published": "2026-08-04T16:29:29+00:00",
-      "summary": "Testosterona: 5 motivos pelos quais o hormônio pode não dar os resultados prometidos&nbsp;&nbsp;BBCTestosterona pode 'falhar'? 5 motivos por que usar o hormônio nem sempre aumenta a força ou os músculos&nbsp;&nbsp;Folha de S.PauloEspecialista explica sobre o uso de testosterona sem indicação médica&nbsp;&nbsp;G1Uso de testosterona sem indicação eleva risco de infarto, AVC e morte&nbsp;&nbsp;MetrópolesTESTOSTERONA VAI USAR? CONSULTE UM MÉDICO&nbsp;&nbsp;Caieiras Press",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YRnhrRENjakY0UnowR1NBZWtfeU95MkxPMXJoSU05YU14OU16em5YN2hwVEllRF9DeVFuU2E1QU9RWVNOQTR4R1IwWnlYZEJ5LWJuRzNBSVV3X0o3M1pkYXRB0gFnQVVfeXFMTzR2SldPS2xSUDg2Z1BMNU1TUVZxWGo2TENnODdjbE1CdDNqWXRrc2FqOHUtNGxGYVhjQUhfZUN0ekYyMGI5OEtaZFItUFhzdlFGNlV1bTM1Z1BSTWtNVkpNY2ZybnJKcw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "870c814b78a3",
-      "title": "Estudo analisou traços de DNA encontrados no Santo Sudário - Globo",
-      "published": "2026-08-04T15:33:23+00:00",
-      "summary": "Estudo analisou traços de DNA encontrados no Santo Sudário&nbsp;&nbsp;Globo",
-      "sources": [
-        {
-          "name": "Globo",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcWRJc1ltMHJUY1lJbXdEWkFWbnNMWmVYYmdDX0VSZkY2eGVnLVZIVEFxN3FIZWZISGd6S3A1ZjIycDZ3dHNUSHZTNWZZczFzczdGR0d1ZGM4MmxmQUxoUl9iVDFZcmwxRFJLUHZQU1FqQi1FdHhvYWJxUy1KMVZmbTVTNnJDSXpaemNWd0JBZkp3SVRiZmM1UEN1TG9na1RYTWR5SVNNY1UwYzNtdWxBVlBYQmpjUndLM2p1QXFn0gHMAUFVX3lxTFA2WDRqNDVlMU9BRGpDUnhGcWFhWHZlZnI1bTUzUlpZc0pkNm11TmMyMi1qMjVxcXVuMy1BN1RRbzdvcDhHNVpXc1BjVndEUkRQR3AwNmtIaWRWQzMwc2NUTG9WYU5TUFhSZ0I2dUw3R25GYU9MeS05ZkVGd0g3cy0tOTd4clFkTVFHbDFKZ0dRZGd5cGREQUIxWU0zWmowTm0wbS1xV1M2b1hPOXpMSE5rekp1UHlualQ4R0tMYlpvdGEtZW1QeGtRVVhfOA?oc=5"
         }
       ]
     }
