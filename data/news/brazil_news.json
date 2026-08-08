@@ -1,15 +1,51 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-08-07T18:59:15.674265+00:00",
-  "total_fetched": 70,
-  "unique_count": 69,
+  "fetched_at": "2026-08-08T01:45:15.112142+00:00",
+  "total_fetched": 67,
+  "unique_count": 66,
   "health_related_count": 31,
   "news": [
+    {
+      "id": "24bdb0d4107c",
+      "title": "Espera por vacina contra sarampo varia de 15 minutos a 2 horas em São Paulo - UOL Notícias",
+      "published": "2026-08-07T20:53:59+00:00",
+      "summary": "Espera por vacina contra sarampo varia de 15 minutos a 2 horas em São Paulo&nbsp;&nbsp;UOL NotíciasÉ possível tomar a vacina contra o sarampo aos sábados; veja onde&nbsp;&nbsp;UOL NotíciasSão Paulo registra 23 casos de sarampo e reforça campanha de vacinação. #JR24H #Shorts&nbsp;&nbsp;R7Vacinação contra sarampo em São Paulo: preciso me vacinar e onde devo ir?&nbsp;&nbsp;CNN BrasilInfectologista Mateus Cardoso orienta pessoas vivendo com HIV sobre vacinação contra o sarampo&nbsp;&nbsp;Agência Aid",
+      "sources": [
+        {
+          "name": "UOL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUnlVQ1FHM1BFVHlTaG5XclRpMXVpWjFkM3dMdjNadU9taGtMbDBOek03eHNNaFBaWThRZkM1aTlYcDZhczllYXVWRGVaLXZqQUtET2dtV0g0NDJVR0NGcTNGb3VpMkFzUi1DVVlISk5IX2IzdWUwbnk3VlRfZl8zOWVFQTdWYnRIOGh4TGxaYnNucjRobVdHSVhtMm1tZHA5bmJuRTZGQmg3dmQ0ZnZQNi1PVU9TMU9aSUU5QWpNbk9BeDIyU2Z0MWNSUjMxUndKeWJwWUdPb0FnMmZVSFpn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ab20665ed569",
+      "title": "Cratera de Colônia: estudo da USP encontra evidências de que bairro de SP cresceu dentro de área atingida por asteroide - G1",
+      "published": "2026-08-07T19:50:32+00:00",
+      "summary": "Cratera de Colônia: estudo da USP encontra evidências de que bairro de SP cresceu dentro de área atingida por asteroide&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOZkl4MDlDS3RaR0tUb3ZZS1lBMjRUQnRqYkpXWHdUbnN4V0g5Nk9ObzBqNURndEc1VlRLQU9EWm40NGhyVzczeC1HOFUxT1NWN1I0Uk02NnJvNGtjNm82UnhSUlEzMTh1Q2NkemVUNzg2QlAxT1hLU2ZVamZzYVFMbG9pb0xVZmZBUlo5anUxMjQ4c1hiY1I0TVR3bnlNT0F0QTZ3dncwcldWZ056aGFabTR3XzRtSTc5UlduYVhMVUFPbF9qNTBrRU51MDZCMnJudjZIdE1BTGdCaHRXQl9vZ3JyOTVhVTBkUGctOVBoVWR6VUxnRjRxaTR4aENCc1VGTTg5eWZUZEzSAZcCQVVfeXFMUHVoVTNRMzBmWjcwNEJFUWltQlBGV0d2R0lobUswb3dnOWpJbVY2LTJVemVURld1eWsxQXhUNmtnYXV5UGtqU0kzS3c3RkdSSGNGUGhfZFgyNWtnM05CNFAtUVZDUEI4enQ1c1c3ek51M0VmdmRHTlN4ZUVpY05LS0NQYk9vUXBhc0NaTEFmSU5JMDR2eVdvLWtLRkpJdXRVV3RTRnZEcHB6eHB5RlNFN0VTZU5QNDVOOTFkenRtM3R6OGc3bWlUYjMwMjJCNThic2xKSzZzWDNTOXpfZW9pNkUxQlkzNG01bENMWWJycC1fTnNvZHdxZ2R1S3I3UllwNFg3MEg2cUNNTS1FdGZVVm95eHdQTWpN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "10c56fa6de2c",
+      "title": "Perder urina ao tossir ou espirrar é normal? Entenda quando o escape urinário exige atenção - Diário do Nordeste",
+      "published": "2026-08-07T18:06:00+00:00",
+      "summary": "Perder urina ao tossir ou espirrar é normal? Entenda quando o escape urinário exige atenção&nbsp;&nbsp;Diário do NordesteIncontinência urinária é comum, mas não é normal e merece atenção&nbsp;&nbsp;EstadãoIncontinência urinária: 56% das brasileiras acima de 40 anos convivem com o problema&nbsp;&nbsp;GloboPesquisa: 56% das brasileiras acima de 40 têm perda involuntária de urina&nbsp;&nbsp;Estado de MinasDia dos Pais: Pesquisa TENA revela que 30% dos homens com incontinência urinária desconhecem a",
+      "sources": [
+        {
+          "name": "Diário do Nordeste",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTmR0MUJuTEV5eG9Ic3lUdjZISjBIOXhhUFZIRmtWU0l4bjFtYmNnWVZIS0VKdVpsV2Rfd3V5cUFzUXprNFJuVS01YXQ0T1pCbHViQjFxX2FINmJzWlBBNnBhbk1rZU15RHhMSWRRYWh1b3JKSVh4WTg0VXo3dnFSRGVmQl9vamhwQmZTY2VRTTZNcFdBWVkyc0dybVZXV3NrYUFKcGJnNWFNbGZFMHlwM05jTmI2eUJseU9rT20tb2dMUDFISWxDeUJGVXV6RjlqT1F5Tnoxd3dVT0RwaHVMZVVTdkpIOFRCc3c?oc=5"
+        }
+      ]
+    },
     {
       "id": "0bb50c9c514b",
       "title": "Guarapari emite alerta de saúde para aumento de casos de catapora - A Gazeta",
       "published": "2026-08-07T17:40:00+00:00",
-      "summary": "Guarapari emite alerta de saúde para aumento de casos de catapora&nbsp;&nbsp;A Gazeta",
+      "summary": "Guarapari emite alerta de saúde para aumento de casos de catapora&nbsp;&nbsp;A GazetaCasos de catapora aumentam em Guarapari&nbsp;&nbsp;G1Guarapari emite alerta de aumento de casos de catapora; veja sintomas e prevenção&nbsp;&nbsp;Folha VitóriaGuarapari registra aumento de casos de catapora e faz alerta para vacinação&nbsp;&nbsp;ES HojeCasos de catapora em Guarapari acendem alerta para ações de prevenção e controle da doença&nbsp;&nbsp;Folhaonline.es",
       "sources": [
         {
           "name": "A Gazeta",
@@ -18,21 +54,45 @@
       ]
     },
     {
-      "id": "bac967dac33b",
-      "title": "Vacinação contra sarampo em São Paulo: preciso me vacinar e onde devo ir? - CNN Brasil",
-      "published": "2026-08-07T16:46:13+00:00",
-      "summary": "Vacinação contra sarampo em São Paulo: preciso me vacinar e onde devo ir?&nbsp;&nbsp;CNN BrasilPosso tomar a vacina contra o sarampo junto com outros imunizantes?&nbsp;&nbsp;UOL NotíciasSobe para 23 o total de casos de sarampo no estado de SP; governo diz que enviou novas doses para suprir falta de vacinas em postos de saúde&nbsp;&nbsp;G1Infectologista Mateus Cardoso orienta pessoas vivendo com HIV sobre vacinação contra o sarampo&nbsp;&nbsp;Agência AidsO avanço do sarampo pode sair do controle?",
+      "id": "52d9a178073a",
+      "title": "Os alimentos com maior presença de agrotóxicos e o alerta de \"químicos eternos\", segundo novo estudo - Revista Fórum",
+      "published": "2026-08-07T17:08:53+00:00",
+      "summary": "Os alimentos com maior presença de agrotóxicos e o alerta de \"químicos eternos\", segundo novo estudo&nbsp;&nbsp;Revista Fórum",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbDdERkNWcjNVOUpIM0xVTEo5VV9XOFMwVkR2NkVaMjdLQlNQTFBvOC1oMk9vU2xSRXpUbFp2aDFkTXFpVTV6QVZpTUcxb2t6aTRNUlN2S19MeG9Wa09NTXVsX1BTYTNORGJ1c2lNck9EZmQ3Um0za0dHemhvTS1uQmQwcmJIZG1OeEctV1RtNUhvd0ZDZm9LY3RkalZYOFFmZnVCWFpBZGVpbGM?oc=5"
+          "name": "Revista Fórum",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaUZSNlZkVTFyaGNwOGRvRkQ0ckNQampiNmhYUHl0N2twcEZsNkFPOXZlWmlMdkUxVjBTZkxGeFY3YTNPMjlDWFM0ZkNqREo4VFBBUVYxVFprbTJZZU8zUl92dmRHLUpNMVk2YWVrYm9paEZpTHNkTVpMZE01Zk5qNVhhcDhObXBrSHpOS2pBVEdBRkxYNEFSb0dxbks0aGxIbzB6ckxvOGdzbzBSYm40eVRPSDhtVUhGLTVvcXJuMVhLZ3J2LXVkaU1LR0tRSXpvUDNsMQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7882dc46c929",
+      "title": "Peixe avermelhado: biólogo explica coloração de espécie fisgada em água doce - Primeira Página",
+      "published": "2026-08-07T16:48:36+00:00",
+      "summary": "Peixe avermelhado: biólogo explica coloração de espécie fisgada em água doce&nbsp;&nbsp;Primeira Página",
+      "sources": [
+        {
+          "name": "Primeira Página",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX0JrMHVGNHdrcl8xaHFGbGZkbjg0LWQxZy1yYTNMX1JGS0k1dUk1eXp6Q2hJaXZCUlNXS1E3d2ozRHNDNlNIQ0pQTTFfamluNGJ3a04yejNpTUJlbVJxMy04OGYxbUt4WmRKMXRtbnAycktwWWRvRk5VQnlXMmMyM2tFdDdBdkoxb0tVNjRoNUgtcHoyeGVIYThYcm03ZGF5aDdEQ19jemRRbDNmVGwtU0FLSTlUY0E1M3cxRVFSYVhBcEowd2p5bQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7087ca5bbcfc",
+      "title": "Aulas suspensas, risco de falta de água e balsas paradas: os impactos do risco de vendaval - R7",
+      "published": "2026-08-07T16:31:20+00:00",
+      "summary": "Aulas suspensas, risco de falta de água e balsas paradas: os impactos do risco de vendaval&nbsp;&nbsp;R7",
+      "sources": [
+        {
+          "name": "R7",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPc0s4MUxTcGpRek9rSjJTWml5SUhBV1RBb1QxcW5wMzcwdF9LVS1aN0tDVWZCYVFkMjJIZFJXdUc5RFY4Mmo3SUp0OEpiWGE1SHVoSGFfUG1FZGctaS04QlN4bWU4ampkLVVRN1k2MjFucTdNdmNpc2xoQnM2cTdjMjZIUHB3U2NNNk9kSzhiNllsZDJwWVhXVmppMjFSUU13b1hzOV83cUtKV2JDbUNoTlZudTNEWHJLTlUwVGhyd1V0azFtcW1Yc1p3?oc=5"
         }
       ]
     },
     {
       "id": "b9769c3ca3dc",
       "title": "'Virou minha criança': ela mudou de vida para cuidar do marido com demência - UOL",
-      "published": "2026-08-07T15:17:56+00:00",
+      "published": "2026-08-07T15:59:03+00:00",
       "summary": "'Virou minha criança': ela mudou de vida para cuidar do marido com demência&nbsp;&nbsp;UOL",
       "sources": [
         {
@@ -42,10 +102,22 @@
       ]
     },
     {
+      "id": "b45958b5dc5d",
+      "title": "Ministério da Saúde reforça vacinação de crianças e adolescentes contra sarampo, pneumonias e outras doenças - www.gov.br",
+      "published": "2026-08-07T14:47:00+00:00",
+      "summary": "Ministério da Saúde reforça vacinação de crianças e adolescentes contra sarampo, pneumonias e outras doenças&nbsp;&nbsp;www.gov.brCampanha de multivacinação na Bahia&nbsp;&nbsp;G1Cuiabá realiza Dia D de Multivacinação para atualizar caderneta de crianças e adolescentes&nbsp;&nbsp;Prefeitura de CuiabáGoverno inicia campanha para atualizar vacinas de crianças e adolescentes&nbsp;&nbsp;Correio Braziliensecampanha de multivacinação busca atualizar caderneta de crianças e adolescentes&nbsp;&nbsp;Pref",
+      "sources": [
+        {
+          "name": "www.gov.br",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZkhpRWZ2ak1xcnBUUTRHM3FWejhSNGJ0cS1DaXhNVGQtXzdUM2drV0RmcEluVDdXS1JZMG5SOW5OMUxIdEQwenFtNFlWdzBCd0tmUWxaY2FaTllSdzBjWXhZeldvSElpc3FiQVdsX0tzU3hNTkZXRUhSamRhN1l6RWtTS0QzRVFIQkU0U0RYVGt3UFd4eHZvUC02T2F1WXROblUzUHJNd0RIcDhpZUFsVmQ1RmtaNlM3NDR4QmZsUDBMQ0tqTl8zQXVPR0xkY1FNc3JlU05JazhYY3VuZkR1RnZGQTNtMFFQQjVkNHM3eUs0RUs4NHpDS3V0NzVldVkz?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e13e54f0900c",
       "title": "Estudo nos EUA testa cápsulas de fezes contra alergia ao amendoim - UOL",
       "published": "2026-08-07T13:47:07+00:00",
-      "summary": "Estudo nos EUA testa cápsulas de fezes contra alergia ao amendoim&nbsp;&nbsp;UOLTransplante de fezes faz seis pessoas superarem alergia grave a amendoim e abre esperança para pacientes&nbsp;&nbsp;G1Transplante de fezes pode ajudar a tratar alergia ao amendoim, aponta estudo&nbsp;&nbsp;SuperinteressantePor que algumas alergias alimentares são mais graves? Resposta pode estar no intestino&nbsp;&nbsp;Rádio ItatiaiaTransplante de fezes consegue melhorar alergia a amendoim em 6 pessoas&nbsp;&nbsp;Met",
+      "summary": "Estudo nos EUA testa cápsulas de fezes contra alergia ao amendoim&nbsp;&nbsp;UOLTransplante fecal faz seis pessoas superarem alergia a amendoim, mas está longe de chegar aos consultórios&nbsp;&nbsp;VEJACientistas diminuíram alergia a amendoim de 6 pessoas usando cápsulas de cocô&nbsp;&nbsp;GloboPesquisa usa transplante de fezes para tentar reduzir alergias&nbsp;&nbsp;Olhar DigitalTransplante de fezes consegue melhorar alergia a amendoim em 6 pessoas&nbsp;&nbsp;Metrópoles",
       "sources": [
         {
           "name": "UOL",
@@ -54,10 +126,22 @@
       ]
     },
     {
+      "id": "91fe59298e58",
+      "title": "Lipedema afeta aparência, autoestima e saúde emocional - ES Brasil",
+      "published": "2026-08-07T13:45:53+00:00",
+      "summary": "Lipedema afeta aparência, autoestima e saúde emocional&nbsp;&nbsp;ES Brasil“Calça de lipedema” realmente funciona ou é perigosa? Médicos explicam&nbsp;&nbsp;CLAUDIA - o sentido femininoFelipe Becari detalha Política Nacional de Atenção Integral às Pessoas com Lipedema&nbsp;&nbsp;Portal da Câmara dos DeputadosConfundido com obesidade, lipedema é tema de 1ª caminhada de conscientização em Sorocaba&nbsp;&nbsp;G1Terceiro e último dia do Estetika destaca avanço no debate sobre lipedema&nbsp;&nbsp;Gaz",
+      "sources": [
+        {
+          "name": "ES Brasil",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNazVQbm9Kd2F6eDc1c1h6ZWJiRHdVRU1rOTVxQ2h2elhzYWVORU1yb3p5SXRuTWRfNFB2c0pETC11OGM1NUtNSnJjNXNGRmx2NWR5eFVDempYOFFHb0lza3FHVjgwV0xFcGJlSGoxZnB3TGpZUl9DRUhTUFZOdDhpRDVWb3k?oc=5"
+        }
+      ]
+    },
+    {
       "id": "91f2675523b3",
       "title": "Anvisa alerta que testosterona não deve ser reposta por toda mulher - UOL",
       "published": "2026-08-07T13:25:32+00:00",
-      "summary": "Anvisa alerta que testosterona não deve ser reposta por toda mulher&nbsp;&nbsp;UOLReposição de testosterona NÃO é obrigatória para mulheres — Agência Nacional de Vigilância Sanitária - Anvisa&nbsp;&nbsp;www.gov.brNotificações de efeitos adversos com testosterona sobem e Anvisa alerta sobre uso indevido em mulheres&nbsp;&nbsp;G1Anvisa alerta sobre riscos do uso de testosterona sem indicação&nbsp;&nbsp;Campo Grande NewsPode ter abuso de testosterona? Médico questiona plano dos EUA de rastrear e re",
+      "summary": "Anvisa alerta que testosterona não deve ser reposta por toda mulher&nbsp;&nbsp;UOLNotificações de efeitos adversos com testosterona sobem e Anvisa alerta sobre uso indevido em mulheres&nbsp;&nbsp;G1Anvisa alerta sobre riscos do uso de testosterona sem indicação&nbsp;&nbsp;Campo Grande NewsPode ter abuso de testosterona? Médico questiona plano dos EUA de rastrear e repor hormônio em militares&nbsp;&nbsp;Jornal O SulReposição de testosterona NÃO é obrigatória para mulheres — Agência Nacional de Vi",
       "sources": [
         {
           "name": "UOL",
@@ -69,7 +153,7 @@
       "id": "18068bd4b786",
       "title": "Não basta emagrecer: consenso aponta novos cuidados no tratamento com canetas para obesidade - Estadão",
       "published": "2026-08-07T08:30:00+00:00",
-      "summary": "Não basta emagrecer: consenso aponta novos cuidados no tratamento com canetas para obesidade&nbsp;&nbsp;Estadão'Muito risco': médico fala dos perigos de anabolizantes para fisiculturismo&nbsp;&nbsp;UOL NotíciasSociedade Brasileira de Pediatria alerta para uso sem controle de canetas emagrecedoras por crianças e adolescentes&nbsp;&nbsp;G1Usa Ozempic ou Mounjaro? Novo consenso internacional mostra como deve ser a alimentação durante o tratamento&nbsp;&nbsp;Folha VitóriaCanetas emagrecedoras e cânc",
+      "summary": "Não basta emagrecer: consenso aponta novos cuidados no tratamento com canetas para obesidade&nbsp;&nbsp;Estadão'Muito risco': médico fala dos perigos de anabolizantes para fisiculturismo&nbsp;&nbsp;UOL NotíciasSociedade Brasileira de Pediatria alerta para uso sem controle de canetas emagrecedoras por crianças e adolescentes&nbsp;&nbsp;G17 erros mais comuns de quem usa canetas emagrecedoras&nbsp;&nbsp;boaforma.abril.com.brUsa Ozempic ou Mounjaro? Novo consenso internacional mostra como deve ser a",
       "sources": [
         {
           "name": "Estadão",
@@ -126,6 +210,18 @@
       ]
     },
     {
+      "id": "d6ae5cbc317c",
+      "title": "As primeiras imagens da cratera na Lua causada por foguete da SpaceX - VEJA",
+      "published": "2026-08-06T20:51:03+00:00",
+      "summary": "As primeiras imagens da cratera na Lua causada por foguete da SpaceX&nbsp;&nbsp;VEJA",
+      "sources": [
+        {
+          "name": "VEJA",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcXNJeXFmbVpVUEpBUERTc0Q0SHJfT2kwTG1XQXpVZjRFVG82UTV1ODNWelBUSWM4TUhaclVraVlUSzFyS0xlRTNkVVdaeEJFZzAyZ3FickZvQWlZeGJZOXQ4RF9EbTA1bXJPY1V1X0NFOHFfTDdzY20zVXNLazdVQ3BtUmhiazUtRWtyYUxPcUo4bElWcmZGSDZBalFad01Nc2hMdGdB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "568ff59b80f7",
       "title": "OMM alerta sobre incêndios florestais: \"A mudança climática aumenta o risco, mas não é a única culpada\" - Meteored Brasil",
       "published": "2026-08-06T20:04:00+00:00",
@@ -141,7 +237,7 @@
       "id": "847973417ff4",
       "title": "Medicamento inovador ofertado no SUS reduz em até 85% as internações de pessoas com fibrose cística - www.gov.br",
       "published": "2026-08-06T19:59:02+00:00",
-      "summary": "Medicamento inovador ofertado no SUS reduz em até 85% as internações de pessoas com fibrose cística&nbsp;&nbsp;www.gov.brMedicamento reduz em até 85% internações no SUS por fibrose cística&nbsp;&nbsp;Folha PETrikafta reduz internações por fibrose cística em até 84,8% no SUS&nbsp;&nbsp;ISTOÉ IndependenteMedicamento usado no SUS que custa R$ 194 mil reduziu em 84% internações por fibrose cística&nbsp;&nbsp;R7Medicamento promete reduzir 85% das internações por fibrose cística&nbsp;&nbsp;Correio Bra",
+      "summary": "Medicamento inovador ofertado no SUS reduz em até 85% as internações de pessoas com fibrose cística&nbsp;&nbsp;www.gov.brMedicamento promete reduzir 85% das internações por fibrose cística&nbsp;&nbsp;Correio BrazilienseTrikafta reduz internações por fibrose cística em até 84,8% no SUS&nbsp;&nbsp;ISTOÉ IndependenteMedicamento reduz em até 85% internações no SUS por fibrose cística&nbsp;&nbsp;Folha PETrikafta reduz internações e uso de oxigênio no SUS&nbsp;&nbsp;Jornal de Brasília",
       "sources": [
         {
           "name": "www.gov.br",
@@ -162,14 +258,14 @@
       ]
     },
     {
-      "id": "8fed30fe94b8",
-      "title": "Eclipse total do Sol na próxima semana vai permitir novas pesquisas sobre a atividade da estrela - agoranovale.com.br",
-      "published": "2026-08-06T16:41:49+00:00",
-      "summary": "Eclipse total do Sol na próxima semana vai permitir novas pesquisas sobre a atividade da estrela&nbsp;&nbsp;agoranovale.com.br",
+      "id": "24703a898542",
+      "title": "Alzheimer precoce: especialista alerta para sinais além da perda de memória - A Gazeta",
+      "published": "2026-08-06T19:32:00+00:00",
+      "summary": "Alzheimer precoce: especialista alerta para sinais além da perda de memória&nbsp;&nbsp;A Gazeta",
       "sources": [
         {
-          "name": "agoranovale.com.br",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaHBSdzJ3eWd2RWxVMHVRYUdfUGQ1TlozZXdvRm5jUkRLa1dEZUZJT25IZlB4UkkxUnhjVEN5dWRTTDFQYVFfaHgxQ1JiZTNxVjBiNzB1b01QSkJ6MEdiVGhvZHdTZTZUMzdpcHJqcVBBcDZwdVBuMl9hN2lWSjZLTDczX2hvUnRkSkVqYmd2N2czZmhyU2YybEgwcnlTci00UFl6cF8tU0RNcUMwYUJ2ZGNpNlcteGtQSTFIRmVDdnhrNHF0OTJYRUpQSm94TDBGd2VHeVpR?oc=5"
+          "name": "A Gazeta",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcDdIWGhZdmlqQll6NUhSeGlxZjJHU2k3djJDT0dUUDZtUXhsN3p4VHNVSHJCZGRRSjk5RlJ1cnB5RDJvRV9ZZG11YjVYcVRRM0RJaWgySTBtZE5CclI4STZLSkt5dWJKWmc3RjVrSUNDNVBZTWZ4eG42azJsYnRiempRY1NZU0c3ZmxPT2o1VUpmNDY3d05lQTRQTkhxWWxHdE14dUVia1MyWXZVM3dha0c5SG1aQQ?oc=5"
         }
       ]
     },
@@ -182,54 +278,6 @@
         {
           "name": "Veja Saúde",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUGlSTzhnRDRwbm80R0xQOExZeUhzS0pJQ2wxcXluZ3R1ZjQ2NU1JX21hWUlFak1ycS1PMHNTLUoxZzI0WlZ4RmREUE5YMVNnZ1RGZW9nT2ZBbHhmaDlIUURBUnBNdHRWbzZMRklJRWdad002Ymc1SmhxaS1tWlAxaEdvdkxkWV84c0pRWTR5NTZpYXJmSDY4aTljdVloVWg2c0F1Y3hzOXZJZHJK?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fd6092915ce5",
-      "title": "Coreia do Sul divulga primeiras imagens após impacto do foguete da SpaceX com a Lua - Terra",
-      "published": "2026-08-06T15:24:00+00:00",
-      "summary": "Coreia do Sul divulga primeiras imagens após impacto do foguete da SpaceX com a Lua&nbsp;&nbsp;Terra",
-      "sources": [
-        {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQWmtYeXpCMzZXclVRMmZVTHNRQVlJa0k2Y2s3eGVSeWh5UXVYQjJqOU5lckQybEVZam9zdjRDeExQYTlvdlFuaDN2ZFR3R0ZsVjJ0S09wZ2V6TjJ3WUJEX2YxamRDYXhFdm1KTjdXc2h5cHpGSEQ1R3FMN1pyd3ZBWGJYRDZoMXFsMXRlMmppQ1F5YWdLMnEwR2VfQ1l6VFB3bWprb3BJLXhKX0otbXUxaVlkcm81T2kwWllaX3FEbzY2eHhQcm94MVBjOXFodjlIbE1Bb096Mk9zRG9CVVhsU3ZFckJpZTk0QnRuNEphOXJUcFViZzhJemozNnV5UFdiX2ZIUA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f8f496af248b",
-      "title": "Bactéria benéfica do útero pode melhorar fertilidade de mulheres acima dos 35, indica estudo - G1",
-      "published": "2026-08-06T15:00:13+00:00",
-      "summary": "Bactéria benéfica do útero pode melhorar fertilidade de mulheres acima dos 35, indica estudo&nbsp;&nbsp;G1Desequilíbrio de bactérias no sêmen está ligado a mais perdas gestacionais, diz estudo&nbsp;&nbsp;Folha de S.PauloEstudo aponta que bactérias do intestino e do sêmen podem influenciar as chances de gravidez&nbsp;&nbsp;paisefilhos.com.brBactéria benéfica encontrada no útero pode melhorar fertilidade de mulheres acima dos 35 anos&nbsp;&nbsp;Jornal GGNDesequilíbrio de bactérias no sêmen é assoc",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbDNWS1lQQkx0b1BTeG5qY0plOTJPeEJlM2NXNmREd0duZWdERExuU29aMS1lOVMwWThtdnFUOC1hclhycDZHOTNVYlh3T0ZNbUZMb2FEWWZRbnpmdkNsdUcxbDJNczNvTTFab2pyaDZScGhzd2ZmenVCaTFaQWZmWnc1clBNeVktSU96Ql9WalFCcWYtQmtvSHZpUVFldzJvaXl3VjhZX2hFcmowaW9tbWc4Unppb2M2VzgwYkYzZVYxQS1sbGk0b0RiTzJyQWdvX3hJVnZ3anVwbjTSAeoBQVVfeXFMT3JEQ1l2MmpEbDV5QURiTWJ1cGgzb1VLcFc2c1VrZGUyOFZkRU54dHZXQWpfV19jUWQyYXBCcnNuYmh0QjR4Y2l6T0hZMmU2UHFtVjZfMXRwUHhzNWc5Zl81ZjJJRTRDSG9SUUUtUkJXcWlqaHhva1VJWDU5dUQxZWJETElTVDgzV0tjaDNub0l3emhwbGpIemRGcDNTcEs2eFRJVVhHdm9oRDI4ZUJXb1RiNEVMdkZ6YnZRb1kybXczUEgzMTc1bGxQcC0zVmdmZFBuR3I5SWJQOGlvb2tQOGxqMTI2MDF3cGdB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "00593a586315",
-      "title": "Com robô mergulhador, trio de pesquisadores de SC vai explorar uma das regiões mais desconhecidas do Atlântico - NSC Total",
-      "published": "2026-08-06T14:03:56+00:00",
-      "summary": "Com robô mergulhador, trio de pesquisadores de SC vai explorar uma das regiões mais desconhecidas do Atlântico&nbsp;&nbsp;NSC Total",
-      "sources": [
-        {
-          "name": "NSC Total",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZThLMmFzb3RMMXRnc2NwQ3hJYnZoOFc5U3RwcUwwV21FemJncGRBdmJfTHJRUF9pdVlqMTZVcXdOWlhzRmxDS0JENkplQy1mX0sweHhxQ2FCc3ktTTY0WGk3SFh4VFpBbjFLa0Q3RktqaGp0TDVtckV5QVlIVHFUVEhLNXBvSzJBZ0xKMHNhUHhPVm5RWmJGOTZSQVM0QXl2NEZwdFVPc3NGTzdEZ3ZWYnBUWElVci1SX1dJS2pKTkFtSzVzX0ZtNEdhTEJjUFlUQk05Uy1ReTJFOGhEc3VtOExMTzNsNjRwa1ZRemRsaw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e2e92ae1c7c9",
-      "title": "Morre Mariana Siqueira, de Marilândia que mobilizou campanha por tratamento contra o câncer - TNOnline - TNOnline",
-      "published": "2026-08-06T13:55:57+00:00",
-      "summary": "Morre Mariana Siqueira, de Marilândia que mobilizou campanha por tratamento contra o câncer - TNOnline&nbsp;&nbsp;TNOnline",
-      "sources": [
-        {
-          "name": "TNOnline",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNeEVVN1dsUWVyV0JHZ1B5RlJZeXJnU0FxUExuUi1hX1E4UUMzM1pYVk9ROXdMam9kazlWVUhWYUlYQWlvQ0N2Mjh6WnB4dE0wMkU1X0NkSk9hbXhhdDlOYVc4ZHJhY2J1aEdFamZvSzcySllSZUE5Y2NEOGVnLUgwSmt1a296clZUODVTSTBfTWlyaWlEMHlNMGpjOC1PV3N3ZVB4OGdEYmQ2T3A3RDE3VjNmSnVZdmhpckpCTjQ5ZnhwMHI2RUNyU01UaG0tUUZQR1gzb05xMnFNeTEzWDBjbVZ30gHsAUFVX3lxTE9wWU5vaDE4RDNtSWVIU2FNemlUTFJxNDFWYXhIQW5kQ1ZHM1BQMEUtN0t1VXFMNldFeXhuRkcwX1pQUDhXcDlGcW1KTGhLTURweFBzZmR6eURPRHNLQTUwLW9ELXd4QUgxWm9WckNLRnlDQjh0bUFuc2FBcnp6WDZfM0ZfN2J4TWpBTWh3Ykd5QlhKVnNUZVZJVTRBMWF2WmF1NTNtbFpLU2s1amYxdjVvb0xJcUxwTXVJYTFNOXd4VjR0N1RTTGcyMGV4NTBYejEzSkNlWFo1OGxVWEdpeU02dXlZMnRLRC1FSDRk?oc=5"
         }
       ]
     },
@@ -258,30 +306,6 @@
       ]
     },
     {
-      "id": "99885da1914a",
-      "title": "IA não resolve todos os problemas e traz riscos para a sociedade, diz cientista Marcelo Gleiser - Estadão",
-      "published": "2026-08-06T13:17:00+00:00",
-      "summary": "IA não resolve todos os problemas e traz riscos para a sociedade, diz cientista Marcelo Gleiser&nbsp;&nbsp;Estadão",
-      "sources": [
-        {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZElJZDdFeFU3eGg0aUJsVVhidVN4akc2Mnl0T1NoR180T2lQbnN1VDZmTEFkeDZjMkotTmhVWExDTHJSZTdQb2QyMnUzY19xVEpjc0c0NUtVM2hrcWI0aFk1ZVVEUzJLaWJ3YjFGLU5rUlA5WUdpbEFRMFpvdUFlYjVsaXJSaWtmdFQ40gGQAUFVX3lxTE51WW5PNmIyUGY3T1BFNXlnM0oyb3ZQcE5ZX1lsTWFCcHFGX0J1LUtVcXl2RkwyaGJseFExU0tWNWNLRXRPWmV1Y2dscEZLUlc5Vm54a1RDNmRxWVozREhadzVReDZkRGdqOXJTLVQ1eFU0bXI5NEtwZzdCZXlFSzdaTFlhV25ObEF4bjUtNXFvMw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "583301e507ad",
-      "title": "UFPI divulga 1ª Chamada da Lista de Espera com 50 vagas para os cursos de Medicina (Floriano), Psicologia e Inteligência Artificial - UFPI",
-      "published": "2026-08-06T12:36:00+00:00",
-      "summary": "UFPI divulga 1ª Chamada da Lista de Espera com 50 vagas para os cursos de Medicina (Floriano), Psicologia e Inteligência Artificial&nbsp;&nbsp;UFPI",
-      "sources": [
-        {
-          "name": "UFPI",
-          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNZGJNaUJ5blVQbUthUlJtQ3JOV2RFaXoxNzdTSlhETmxEdEhRd1R3RndvMUk1dldVRnVmZ2lkN1dWSHlwLUlKZWNWQjBlX1piX1k4STZfeFpFTlhlaGlXc0NJb20tWUVyOTgtd0dXUm9hNU4ybEtVTGFDWC1kNEdFRUx3NHBTM0locnhoZ1htaXJqa1F3R1pURE1OZ2d5X1NxNTFWa25BNXdtTEc0RlpPUDFzRWFpVWhZY002TURfLXptaDJzZklSMW04OXpnLXkwd0F3WjJJRTU4TDJXZmpWQnc0MGp5OHkxdlJCVkgyLUVMcDJfM0hQczl4dVJxOWcxUFd2cm9Ha3ljZHlTX3dPcnB6RXBpbi1UNFIyQlBuWUNXUzRnQVRQNHpKMk1ySWNFYk5CbjNFYW5rZHVoRmdBYzNCVzNRaXFTY29JYUVhTVNMUHRY?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a8397a7827f8",
       "title": "Morango ajuda no controle da glicose? Veja 5 benefícios da fruta para saúde - UOL",
       "published": "2026-08-06T12:09:24+00:00",
@@ -290,18 +314,6 @@
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNnVlN2F6UVlCbzJrRUNWclhjeFpZOG1iaG1kT09PREhKb2lKTmdSbUwzcDBMZXgxUXI0Y3BPTDZfZGo0Um9nUDVQaDdtUnYwdkZiVU9mN082OVdMVGlUNEdiLUNwM0NEWTdfc1MtS2c5T2xIa2tEMlVPSVphbUpWZGlFM1FqTTdINi1zX0RPUGdYeF92MXVVNkJPQnBqTF9Pb1JwY3Y2WnlHM0YyNFZiQ0tzWE9kNDViTzEtUmlVREZVZzZSRjVrT3Bab3NnQzFOX2lOQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a0f7f53313aa",
-      "title": "Treinamento de IA: como funciona, riscos e futuro - TecMundo",
-      "published": "2026-08-06T11:15:00+00:00",
-      "summary": "Treinamento de IA: como funciona, riscos e futuro&nbsp;&nbsp;TecMundo",
-      "sources": [
-        {
-          "name": "TecMundo",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcmZXNkJ4OG9tSU41WW9oWUgzTVEtbWZEZXBJWE1tcVc4UFZqVDNOdThVWDlqUXFZSEkyV05tZXp6WFhHU3F0M1Vod1JzYUREMDRaNlBzVjZzNDZieFdwdjZzZ09EVElpRWJTU0tIS3VlTUpZWDB1TC1qQzk1MzZobmYyQW9xaFJXeFV5TndENExWUWtZam9n?oc=5"
         }
       ]
     },
@@ -321,11 +333,23 @@
       "id": "4ca7011d1042",
       "title": "Precisamos de tanta proteína? - O GLOBO",
       "published": "2026-08-06T07:30:23+00:00",
-      "summary": "Precisamos de tanta proteína?&nbsp;&nbsp;O GLOBOProteína adicionada expande mercados e democratiza consumo&nbsp;&nbsp;Meio e MensagemSeu corpo precisa mesmo de tanta proteína? O que a ciência descobriu&nbsp;&nbsp;TerraNa meia-idade, comer mais proteína vegetal foi associado a uma chance maior de envelhecer com saúde&nbsp;&nbsp;Tua SaúdeA próxima evolução da alimentação não é apenas nutricional, é comportamental&nbsp;&nbsp;gironews.com",
+      "summary": "Precisamos de tanta proteína?&nbsp;&nbsp;O GLOBOProteína adicionada expande mercados e democratiza consumo&nbsp;&nbsp;Meio e MensagemSeu corpo precisa mesmo de tanta proteína? O que a ciência descobriu&nbsp;&nbsp;TerraNa meia-idade, comer mais proteína vegetal foi associado a uma chance maior de envelhecer com saúde&nbsp;&nbsp;Tua SaúdeA próxima evolução da alimentação não é apenas nutricional, é comportamental&nbsp;&nbsp;Giro News",
       "sources": [
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZnpPNkFKY2FNeG9IVTc3SnFDTXFHWUxsUXJLWElMQmg3ZWhrRW4xaGlqaGs3dEduZHFxeTA5RWV5dVlFWWVNTTZadlJ2VHRySDczWkJVU2h5dXI5MlVFclE3Z2h6eHRqTFdBVHlHX3lOdl9BX1RUekFVNUYzRWZUNmh2UnlkTzFWbUxydGt4Y1Z5RHNWbGQ2UXZrb9IBqgFBVV95cUxOZFFBaVh1cUxaa1BNRktOLUs4V3VWSHlGOVN3TENxazJpb25kajRWTEhDN2xXOEpsYURLN3huNk41VnBaUDlmcFFoaElDaUw2NXdCN3hPU2xvR3VDcExzSHpkeHBSS1h4SkpuWG52eE9yNVdHaElzOUcyQWtZaE1meHdJZGU5eUZpeFpiUFhXRHVjSkhncjN4S1RJYllqOUpIeEVGVDZ2YUdQdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7d3acb0dcc0a",
+      "title": "Você sabe quanto cabelo perde por dia? Entenda quando a queda pode ser um sinal de alerta - O GLOBO",
+      "published": "2026-08-06T06:00:58+00:00",
+      "summary": "Você sabe quanto cabelo perde por dia? Entenda quando a queda pode ser um sinal de alerta&nbsp;&nbsp;O GLOBOQueda de cabelo: como a tricologia ajuda na saúde dos fios&nbsp;&nbsp;Correio do PovoEspecialista compartilha dicas práticas para tratar a queda de cabelo&nbsp;&nbsp;Mayo Clinic News NetworkHora de recuperar os fios&nbsp;&nbsp;R7Tricologia reflete aumento da busca por cuidado com cabelo e couro cabeludo&nbsp;&nbsp;Estado de Minas",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaDREVl9zM0oyNXB3ajdUakJXVFd3WlFZZU9pUFRQa3ZHUzE0NE9DRUxIMjU3Uk9DanhxQ0REN18tNVJaZmxBU3UwU0lSZjFpUzBCbThHMFNIcU9PVVJBcHdJMzdKZXljSTZrdzgwZkNPcm41Y1ZtQlNxOE9tM3ZkWV9FMnk4b1dicHJEak9vZHJlZ19fU0d6Ti1UOEMteHY1NE5mUTlmVDBxRzg0VlA0SDNNRkpsMUtDckVTTXVHV3Y4LUlFWGxBazM4b0FxVnJUa1hJTmxhSUJKZ9IB6AFBVV95cUxNd0MyN01hTkhhcUhKZHpySUFGVlJUYUtKZlVKS0RTZUVHRlRnR014dDllbm9TaGduaXEtanJEMUhocXU0dWlJLTItM1poRHhabjlBSDJKa1BnMU5OcGxCQkJhSVFjRFoycEhBRmxWcmUtR0ZmREJsTkV5RHljTXVTVklWbS1rT29UbEdaLUUxd0xIU1M1VzdaYVhPQ29zYkRldjBoV3BFSnc3d21GN3pJTXBzMk9SUGZHQnZxWkFyWERuZFlWQ204YmJ1UnNpVFVQOEhLZ0RWOFFEVUhrZUxyMG9CODFfRDNv?oc=5"
         }
       ]
     },
@@ -345,35 +369,11 @@
       "id": "bf9120a29af9",
       "title": "Os riscos de dormir pouco e por que algumas pessoas precisam de menos horas de sono - Folha de S.Paulo",
       "published": "2026-08-06T01:00:00+00:00",
-      "summary": "Os riscos de dormir pouco e por que algumas pessoas precisam de menos horas de sono&nbsp;&nbsp;Folha de S.PauloDormir pouco poderia estar ligado a menor expectativa de vida&nbsp;&nbsp;TerraVocê dorme o suficiente? Seu cérebro pode estar mentindo; entenda&nbsp;&nbsp;Diário do Centro do MundoInsônia frequente pode sinalizar transtornos emocionais e exige atenção especializada&nbsp;&nbsp;O HojeDormir menos de seis horas por noite e resistência à insulina: o que as pesquisas em adultos saudáveis já ",
+      "summary": "Os riscos de dormir pouco e por que algumas pessoas precisam de menos horas de sono&nbsp;&nbsp;Folha de S.PauloDormir pouco poderia estar ligado a menor expectativa de vida&nbsp;&nbsp;TerraVocê dorme o suficiente? Seu cérebro pode estar mentindo; entenda&nbsp;&nbsp;Diário do Centro do MundoPor que dormir oito horas pode não ser suficiente para descansar&nbsp;&nbsp;33giga.com.brDormir menos de seis horas por noite e resistência à insulina: o que as pesquisas em adultos saudáveis já demonstraram&n",
       "sources": [
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRHZMSDF6R3FSMGtjYW5LYU10aXR5aTJaWHhTRHhON0VQd2tBUTJDbjRjamFCcjF4anBvbDhlRmxINVVaRDNrQld1UTVqYjBGMXBUUEVYaEpiUHdJaTczYzktZWVESVR0SmtkZFIzdDk2RTVhSEhNbTdRckJaanlKaS1jMVdRcjgwbjFIckNpRjQ5c192YjR4cXlveUJfNFp6OFp2UGJLOUJaSWNEdnV3azVyelk0cmw4WElCZHg4eWhLOUxjSmxpcDdhc3hfTk9ad21vcg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "65851ac18e9f",
-      "title": "Por que mosquitos picam mais algumas pessoas do que outras? Estudo investigou - TNH1",
-      "published": "2026-08-06T00:09:00+00:00",
-      "summary": "Por que mosquitos picam mais algumas pessoas do que outras? Estudo investigou&nbsp;&nbsp;TNH1É verdade que algumas pessoas atraem mais mosquitos? É o que diz um novo estudo&nbsp;&nbsp;SuperinteressanteMosquitos são mais atraídos por odores masculinos e bactérias da pele&nbsp;&nbsp;MetrópolesCientistas revelam o verdadeiro motivo que faz algumas pessoas virarem \"ímã\" de mosquitos&nbsp;&nbsp;Dourados NewsExiste um tipo de pele favorita entre os mosquitos? Estudo responde&nbsp;&nbsp;Aventuras na Hi",
-      "sources": [
-        {
-          "name": "TNH1",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQzB4SnZKckFIMkVNTUhpRGZJQWdpSzE5aXZhRHhmYTBNNHMycS1lcUhlMFE4LXpWQkRPSkNIa29ISktYT0xfYVB4eUp2X1Jqa2MwS2FEZUthSzNCdW5QMDFRV2hKbEktUjl2ZDBZRHJReEVzVWMzWTVwd203Q1JzOGtqQ1E1NTRpREpDcWQ5Q2ZHSllDN285RWRYdjhlZTAzV1VWaTlfM19XWWU4UGphbHVzZ9IBrgFBVV95cUxNMC1HY2tSODhjdzB5UzdkeU9NWUFSYXVaaTlLLTFtM3VLVFFJSDc1ZWZtN0JLT0x5U09URFRUeEhHazRzZGNMUUx0ZWIwRVp4NDFzWW5pTldkOFVTSk8zN0lzeVZQNnZuMURRcE1UWHVrNUF6VTFEOG9oZ21VMlpqa2dFNFdNRzZNN3B6ellaMy13S1QwSjZYLXhYcmF0RHZzSDF6b0I1YkpTOWF4Rmc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fcbff5809716",
-      "title": "Câncer de peritônio: conheça os sintomas, o diagnóstico e as formas de tratamento - Portal Drauzio Varella",
-      "published": "2026-08-05T18:06:24+00:00",
-      "summary": "Câncer de peritônio: conheça os sintomas, o diagnóstico e as formas de tratamento&nbsp;&nbsp;Portal Drauzio Varella",
-      "sources": [
-        {
-          "name": "Portal Drauzio Varella",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObkFQS1lTOGpyNFpyNVlqQTZTcnlPSTF3cXUteFg5X25NemZ6WjJobkh3dXYydmJPRGxPUm9QS3FmREZucVh5dVZSNUJQODR6azRHejg4RzhfVkVZbkl1N0VYVDdxVjF2ei1VRWFGUmFYOTBMSFoxM2xnZlFmMTN4TWt1b1R5UnBGMGk2cENENUtyaGZGQnYxaFhpaVhodmpVYllOT3c1ampGUk5McjFiTUlza0xIMzlCeHo1bWtYMXRBQQ?oc=5"
         }
       ]
     }
