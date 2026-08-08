@@ -1,19 +1,55 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-08-08T01:45:15.112142+00:00",
-  "total_fetched": 67,
-  "unique_count": 66,
-  "health_related_count": 31,
+  "fetched_at": "2026-08-08T06:55:46.653768+00:00",
+  "total_fetched": 74,
+  "unique_count": 71,
+  "health_related_count": 35,
   "news": [
     {
-      "id": "24bdb0d4107c",
-      "title": "Espera por vacina contra sarampo varia de 15 minutos a 2 horas em São Paulo - UOL Notícias",
-      "published": "2026-08-07T20:53:59+00:00",
-      "summary": "Espera por vacina contra sarampo varia de 15 minutos a 2 horas em São Paulo&nbsp;&nbsp;UOL NotíciasÉ possível tomar a vacina contra o sarampo aos sábados; veja onde&nbsp;&nbsp;UOL NotíciasSão Paulo registra 23 casos de sarampo e reforça campanha de vacinação. #JR24H #Shorts&nbsp;&nbsp;R7Vacinação contra sarampo em São Paulo: preciso me vacinar e onde devo ir?&nbsp;&nbsp;CNN BrasilInfectologista Mateus Cardoso orienta pessoas vivendo com HIV sobre vacinação contra o sarampo&nbsp;&nbsp;Agência Aid",
+      "id": "5d47c0882521",
+      "title": "Insônia: 4 em cada 10 pessoas tomam medicamentos que não são indicados para o tratamento da doença, revela pesquisa - G1",
+      "published": "2026-08-08T01:00:06+00:00",
+      "summary": "Insônia: 4 em cada 10 pessoas tomam medicamentos que não são indicados para o tratamento da doença, revela pesquisa&nbsp;&nbsp;G1Seis em cada dez adultos usam medicamentos para dormir, aponta USP&nbsp;&nbsp;ICTQInsônia: a solução não deveria estar (apenas) nos medicamentos&nbsp;&nbsp;outraspalavras.netUSP alerta para uso prolongado de remédios entre pacientes com insônia&nbsp;&nbsp;Diário do Centro do MundoBrasileiros estão tomando muito remédio para dormir, aponta estudo da USP&nbsp;&nbsp;medic",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNQzVBcWxPRUNaSk10R2ZKd1dtakRia2ZMNFpzczhQWVY3bjFvbE00dUlGRHNGTE8zTjZ0MG1jbGFuMnh4RkNLdnYxTjBqcmRWVTd6QlV6bWRHRGxpSmQ4SlRZTzRZanNwVkJ5OFNHYW5EOVZWay1GQ2dDYVVxRGNZUjhqTmxSWC1QNldDbDQyd0JuME03MWpHTF83c1l2TVVIRVQ4Q0dSeHItNXZlTmlpc0RoUzJETW5MejhxNXVwdklxaG9lLVRKXzM0TzZEanFQaUZhOEJ2dVd3aTEyWU9NdjdFclZ3M0dTMUx5ZXoybmQ1b25FTmJFOVRUQVI4RmR1NTlnVzV30gGUAkFVX3lxTE9mc0p5d194Z2Z0R2FMVEJXSzNfN2U2Y0tmTVFkZmFGTDJBdjNYUXBSa1lOQ181UElscl9qZ3RITlFvNUhSREIzcXZ3ckFBWDZBSVhSV3B0MllRbkRiZEZTMFBPTE9jXzFqeUlqVU9NS21vUjVGYnU1Q0lqNWx2RUZkaElpSWFWY25LYUgtZlg0ekUwakdHdHRvWXVqekVVTWptbjRwRDhNaE5KUWZfUlV2bGd0WWV5eVRrQ1VBdDF3VkMwZi1kTW00OW5TQ2tPbEJOQ04tb25SNEltWDNzeUFIOWRLcmU3QVNWcU1EWmp2WGtGM2h0NUtfeF9TdXp1Q0RTNEM5X2tjdVdmbW50dk9mekZjSA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b8f45fe47e7b",
+      "title": "É possível tomar a vacina contra o sarampo aos sábados; veja onde - UOL Notícias",
+      "published": "2026-08-08T00:05:55+00:00",
+      "summary": "É possível tomar a vacina contra o sarampo aos sábados; veja onde&nbsp;&nbsp;UOL NotíciasVacinação contra sarampo em São Paulo: preciso me vacinar e onde devo ir?&nbsp;&nbsp;cnnbrasil.com.brInfectologista Mateus Cardoso orienta pessoas vivendo com HIV sobre vacinação contra o sarampo&nbsp;&nbsp;Agência AidsAumento de casos de sarampo em SP provoca corrida por vacinação e gera filas em ao menos 100 postos&nbsp;&nbsp;EstadãoSarampo avança no estado de São Paulo com sete novos casos confirmados; sa",
       "sources": [
         {
           "name": "UOL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUnlVQ1FHM1BFVHlTaG5XclRpMXVpWjFkM3dMdjNadU9taGtMbDBOek03eHNNaFBaWThRZkM1aTlYcDZhczllYXVWRGVaLXZqQUtET2dtV0g0NDJVR0NGcTNGb3VpMkFzUi1DVVlISk5IX2IzdWUwbnk3VlRfZl8zOWVFQTdWYnRIOGh4TGxaYnNucjRobVdHSVhtMm1tZHA5bmJuRTZGQmg3dmQ0ZnZQNi1PVU9TMU9aSUU5QWpNbk9BeDIyU2Z0MWNSUjMxUndKeWJwWUdPb0FnMmZVSFpn?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYmF4dHVFZHh5YXlpbEVMSlBRQ0VRd29xM1VPbS0tZU9lSElCM2FwakNGR0NLcEI3Yml6b1FnQ0pRMWl3bVRuVWdFTlJicGJ1NE1tV1FleDFpRFpnOF9OQm1RTzdKN2hzWWVhYWJIWGdkT1RoT09UZG91UjB3cHlzZXFXR2JxeGU3alQ0VURJN3p0VnJZUjlNa2tFQ3ZHd0ZqX3ItVi1zT1dodUN2V3RhTHFla0dLX05SSlhaZkZ4Q2U1TjFWamcwbkpjMHkxVlJsQUlV?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4a3738e926eb",
+      "title": "Tábuas de 3 mil anos são descobertas em região citada na Bíblia - Metrópoles",
+      "published": "2026-08-07T20:54:00+00:00",
+      "summary": "Tábuas de 3 mil anos são descobertas em região citada na Bíblia&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPVTlPQ0RzRWhzVi1WZXJ6NGd6aklOTU9pYVJYUXRpQTE0VlZOMlZPQVlYMUZMQTJIcDRWUjkyTWpzeG9MTlNGZkoyZnVYOE5Cb3FFQ3E5NUVlUWpUTmRONHh4eXIwNmtKc2U5MlREX3pYM2xmNGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6830295d08be",
+      "title": "Estudante de escola pública de 17 anos fazia ensino médio integral, chegava em casa e continuava estudando no quarto desde o 1º ano, além de cursinho de matemática, até conquistar vaga em Medicina na UPE e se tornar a primeira universitária da famíli - CPG Click Petróleo e Gás",
+      "published": "2026-08-07T20:09:00+00:00",
+      "summary": "Estudante de escola pública de 17 anos fazia ensino médio integral, chegava em casa e continuava estudando no quarto desde o 1º ano, além de cursinho de matemática, até conquistar vaga em Medicina na UPE e se tornar a primeira universitária da famíli&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOX1o3Z2NDUC1DZVJ6dGN6V3o3ZTlhaGg5NEpWZFI3LWp0c1l2TXJtc2NMbXQ4RGwwRzdObzFlazJVdUNncEo2bURFMGJJN0R0NkF4U3Y0N253UVhCWnU2SGhITzk3NHd1ZmNGY0lWVnoxUlZ4OGZlM2pub3JaYjdtN01LZHNGQmZsZ0VWWFRDVEVYY09uWUVHaW9NZ3hFMU1KMldJMHNXVlhlaEsyZ3pDWjZad0wxXzFPQUZyTXZzd04xR1dKWHQ0RHVqaTQ5S21QNEhUMy1WNXpRaklIeUJxMnBZcWRXXzk2UlhtMml5WE1qcTNGd0FNUHlYUWFUcEFRU0dXa2I1YWpzWjA1SElUVGp3UVVwbGRaUFRuZzIyeThoWUpsR2VWczUzcWZhNmpva055a2JlSnNkWVJYTTRtWFJZT2pGUQ?oc=5"
         }
       ]
     },
@@ -26,6 +62,18 @@
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOZkl4MDlDS3RaR0tUb3ZZS1lBMjRUQnRqYkpXWHdUbnN4V0g5Nk9ObzBqNURndEc1VlRLQU9EWm40NGhyVzczeC1HOFUxT1NWN1I0Uk02NnJvNGtjNm82UnhSUlEzMTh1Q2NkemVUNzg2QlAxT1hLU2ZVamZzYVFMbG9pb0xVZmZBUlo5anUxMjQ4c1hiY1I0TVR3bnlNT0F0QTZ3dncwcldWZ056aGFabTR3XzRtSTc5UlduYVhMVUFPbF9qNTBrRU51MDZCMnJudjZIdE1BTGdCaHRXQl9vZ3JyOTVhVTBkUGctOVBoVWR6VUxnRjRxaTR4aENCc1VGTTg5eWZUZEzSAZcCQVVfeXFMUHVoVTNRMzBmWjcwNEJFUWltQlBGV0d2R0lobUswb3dnOWpJbVY2LTJVemVURld1eWsxQXhUNmtnYXV5UGtqU0kzS3c3RkdSSGNGUGhfZFgyNWtnM05CNFAtUVZDUEI4enQ1c1c3ek51M0VmdmRHTlN4ZUVpY05LS0NQYk9vUXBhc0NaTEFmSU5JMDR2eVdvLWtLRkpJdXRVV3RTRnZEcHB6eHB5RlNFN0VTZU5QNDVOOTFkenRtM3R6OGc3bWlUYjMwMjJCNThic2xKSzZzWDNTOXpfZW9pNkUxQlkzNG01bENMWWJycC1fTnNvZHdxZ2R1S3I3UllwNFg3MEg2cUNNTS1FdGZVVm95eHdQTWpN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c5679d68bd63",
+      "title": "Por que sistema elétrico brasileiro enfrenta risco por excesso de geração de energia - bbc.com",
+      "published": "2026-08-07T18:27:01+00:00",
+      "summary": "Por que sistema elétrico brasileiro enfrenta risco por excesso de geração de energia&nbsp;&nbsp;bbc.com",
+      "sources": [
+        {
+          "name": "bbc.com",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1leW8xSDhJMUVaLU9aUDZNQWVoeng5LV9WR1pUUXdGem1pamQwU1hZcS1Cal9hQlhZUkIxay0yYUFjUU41M1l4QjlyTGhiakFxeTRfRzhyMWdTOGliN2MwcEZn0gFnQVVfeXFMUEhYeU5mcVNDWkpuQXlvTWIyOThLRGNhaW9GeC1vaWc3MUtTVWljSjhLMGxCbVlKVDFuamk0d2tZQk9IRUt5a3Npa0F5QTl2WE1sNjRoazZKaU9mdDRNN3JFUC1Tb1h1NA?oc=5"
         }
       ]
     },
@@ -45,7 +93,7 @@
       "id": "0bb50c9c514b",
       "title": "Guarapari emite alerta de saúde para aumento de casos de catapora - A Gazeta",
       "published": "2026-08-07T17:40:00+00:00",
-      "summary": "Guarapari emite alerta de saúde para aumento de casos de catapora&nbsp;&nbsp;A GazetaCasos de catapora aumentam em Guarapari&nbsp;&nbsp;G1Guarapari emite alerta de aumento de casos de catapora; veja sintomas e prevenção&nbsp;&nbsp;Folha VitóriaGuarapari registra aumento de casos de catapora e faz alerta para vacinação&nbsp;&nbsp;ES HojeCasos de catapora em Guarapari acendem alerta para ações de prevenção e controle da doença&nbsp;&nbsp;Folhaonline.es",
+      "summary": "Guarapari emite alerta de saúde para aumento de casos de catapora&nbsp;&nbsp;A GazetaCasos de catapora aumentam em Guarapari&nbsp;&nbsp;G1Guarapari emite alerta de aumento de casos de catapora; veja sintomas e prevenção&nbsp;&nbsp;Folha VitóriaGuarapari registra aumento de casos de catapora e faz alerta para vacinação&nbsp;&nbsp;eshoje.com.brCasos de catapora em Guarapari acendem alerta para ações de prevenção e controle da doença&nbsp;&nbsp;Folhaonline.es",
       "sources": [
         {
           "name": "A Gazeta",
@@ -78,18 +126,6 @@
       ]
     },
     {
-      "id": "7087ca5bbcfc",
-      "title": "Aulas suspensas, risco de falta de água e balsas paradas: os impactos do risco de vendaval - R7",
-      "published": "2026-08-07T16:31:20+00:00",
-      "summary": "Aulas suspensas, risco de falta de água e balsas paradas: os impactos do risco de vendaval&nbsp;&nbsp;R7",
-      "sources": [
-        {
-          "name": "R7",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPc0s4MUxTcGpRek9rSjJTWml5SUhBV1RBb1QxcW5wMzcwdF9LVS1aN0tDVWZCYVFkMjJIZFJXdUc5RFY4Mmo3SUp0OEpiWGE1SHVoSGFfUG1FZGctaS04QlN4bWU4ampkLVVRN1k2MjFucTdNdmNpc2xoQnM2cTdjMjZIUHB3U2NNNk9kSzhiNllsZDJwWVhXVmppMjFSUU13b1hzOV83cUtKV2JDbUNoTlZudTNEWHJLTlUwVGhyd1V0azFtcW1Yc1p3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b9769c3ca3dc",
       "title": "'Virou minha criança': ela mudou de vida para cuidar do marido com demência - UOL",
       "published": "2026-08-07T15:59:03+00:00",
@@ -102,14 +138,38 @@
       ]
     },
     {
+      "id": "c07e8431f124",
+      "title": "Divulgadas as primeiras imagens de cratera aberta na Lua pela SpaceX - Extra online",
+      "published": "2026-08-07T15:18:40+00:00",
+      "summary": "Divulgadas as primeiras imagens de cratera aberta na Lua pela SpaceX&nbsp;&nbsp;Extra online",
+      "sources": [
+        {
+          "name": "Extra online",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQV0RQSkhYX1B4ZGFYQ3hvZ3AyNVpWaWNqX2FUZV83emVsOFdYNzB4Ny1lQno3eEI5MTJXTjB3bl9sVExGaHd6dE96d1AyZURBdndNRWpVbGtTNXozRzdzU0xGNnBkMnFyTkRkMzdhNmVFUWRnamlEUmxhN0J2TTRkWE04QXpDZUJTVWRiaXpPZXpYOEZQTW1IQlFNdTZqbDB4Unl4ZkFUM3B2WnJLZHF4aU5sSGZvdzZfd2hPT09jaW85dV94UXpjd1VOXznSAdsBQVVfeXFMTkJNUVVEZTdjYk9FZThQZnk0V2RlcDMxaUIwOWlhY0dWdW1WaXltNE9GNzNHbnVlREIwV01uWDI5MWdTZzI4MmNjQU94QTB0NjROVHFfN3FtVTJrS2tNdTJUdFg3dmNxWVNyWFdnU3dXT0NCR29GV0dlbVp2MjVySnc2OGR3NUs1Z2RpbTBpZTBzQTVOQmN5ckRFV0FfdEY1RHVvQncyeWMtNmhXMGpGQUE4bVpNc0hMU2U4Um9oa2tucF84WklreG8xeXhWaFJHWG52NXlJd2VCdGow?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b45958b5dc5d",
       "title": "Ministério da Saúde reforça vacinação de crianças e adolescentes contra sarampo, pneumonias e outras doenças - www.gov.br",
       "published": "2026-08-07T14:47:00+00:00",
-      "summary": "Ministério da Saúde reforça vacinação de crianças e adolescentes contra sarampo, pneumonias e outras doenças&nbsp;&nbsp;www.gov.brCampanha de multivacinação na Bahia&nbsp;&nbsp;G1Cuiabá realiza Dia D de Multivacinação para atualizar caderneta de crianças e adolescentes&nbsp;&nbsp;Prefeitura de CuiabáGoverno inicia campanha para atualizar vacinas de crianças e adolescentes&nbsp;&nbsp;Correio Braziliensecampanha de multivacinação busca atualizar caderneta de crianças e adolescentes&nbsp;&nbsp;Pref",
+      "summary": "Ministério da Saúde reforça vacinação de crianças e adolescentes contra sarampo, pneumonias e outras doenças&nbsp;&nbsp;www.gov.brEstratégia de Multivacinação começa na segunda-feira em Tupã&nbsp;&nbsp;G1Cuiabá realiza Dia D de Multivacinação para atualizar caderneta de crianças e adolescentes&nbsp;&nbsp;Prefeitura de CuiabáGoverno inicia campanha para atualizar vacinas de crianças e adolescentes&nbsp;&nbsp;Correio BrazilienseCaraguatatuba realiza campanha de Multivacinação para atualizar cadern",
       "sources": [
         {
           "name": "www.gov.br",
           "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZkhpRWZ2ak1xcnBUUTRHM3FWejhSNGJ0cS1DaXhNVGQtXzdUM2drV0RmcEluVDdXS1JZMG5SOW5OMUxIdEQwenFtNFlWdzBCd0tmUWxaY2FaTllSdzBjWXhZeldvSElpc3FiQVdsX0tzU3hNTkZXRUhSamRhN1l6RWtTS0QzRVFIQkU0U0RYVGt3UFd4eHZvUC02T2F1WXROblUzUHJNd0RIcDhpZUFsVmQ1RmtaNlM3NDR4QmZsUDBMQ0tqTl8zQXVPR0xkY1FNc3JlU05JazhYY3VuZkR1RnZGQTNtMFFQQjVkNHM3eUs0RUs4NHpDS3V0NzVldVkz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b500bfd8a7c3",
+      "title": "Mistério resolvido: estudo explica por que alguns cérebros escapam da decomposição após a morte - Jornal Correio",
+      "published": "2026-08-07T14:11:00+00:00",
+      "summary": "Mistério resolvido: estudo explica por que alguns cérebros escapam da decomposição após a morte&nbsp;&nbsp;Jornal Correio",
+      "sources": [
+        {
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdndmYkgxNDk5ZG9jWGZlZDRUWUlucFU0MFU5TEF1UzNRWWQzb2R4bGkxUVV4U053VkZTRzlENU9uaGFrWjlSbTJUeU03dl8xUm1NSDBaN01VRWhic0JOTTNTTXJXLWl6Yl9XdnpyY1FpUkxUMUNXMDBqVm9zUHFnc3JUclBCV3A3em1FamlGRzFSOVFmM2pYNkU0dFJOWWNVb1QzZFF3Y0dVTmowVmlrWTNaajAyeWFMNjRHbGlaRDVXNVZTNEoyTkZMUkhBandGbzlhQWtxOFc?oc=5"
         }
       ]
     },
@@ -141,11 +201,23 @@
       "id": "91f2675523b3",
       "title": "Anvisa alerta que testosterona não deve ser reposta por toda mulher - UOL",
       "published": "2026-08-07T13:25:32+00:00",
-      "summary": "Anvisa alerta que testosterona não deve ser reposta por toda mulher&nbsp;&nbsp;UOLNotificações de efeitos adversos com testosterona sobem e Anvisa alerta sobre uso indevido em mulheres&nbsp;&nbsp;G1Anvisa alerta sobre riscos do uso de testosterona sem indicação&nbsp;&nbsp;Campo Grande NewsPode ter abuso de testosterona? Médico questiona plano dos EUA de rastrear e repor hormônio em militares&nbsp;&nbsp;Jornal O SulReposição de testosterona NÃO é obrigatória para mulheres — Agência Nacional de Vi",
+      "summary": "Anvisa alerta que testosterona não deve ser reposta por toda mulher&nbsp;&nbsp;UOLReposição de testosterona NÃO é obrigatória para mulheres — Agência Nacional de Vigilância Sanitária - Anvisa&nbsp;&nbsp;www.gov.brNotificações de efeitos adversos com testosterona sobem e Anvisa alerta sobre uso indevido em mulheres&nbsp;&nbsp;G1Anvisa alerta sobre riscos do uso de testosterona sem indicação&nbsp;&nbsp;Campo Grande NewsPode ter abuso de testosterona? Médico questiona plano dos EUA de rastrear e re",
       "sources": [
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeHdETHlWbWlNc1ZJUzE0b192cXlpakNEYmZ6T0lCazV1ZDFjNk14Q3l2TFlrMmNFQTNSY3duRVViUm1DTktIWjFJcmFEYzdMeWpIdVJYb1FMVEhuVVpWRHJHdl9ZVmlGV0lqUzJDVGhkMExla21qTHVISHEzLXpqaFp3YWRHMUVLc3hZLS10eXp4SC0wUUM3UVk0LVVudDgyM3JHM2pYWXRuOFNac1ViMXBmZm9uNVA0QkF2YW5SdE00X3RvTC15MkdWaw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2ec373fe3521",
+      "title": "Dependência emocional com IA: entenda riscos, privacidade e limites - TecMundo",
+      "published": "2026-08-07T11:15:00+00:00",
+      "summary": "Dependência emocional com IA: entenda riscos, privacidade e limites&nbsp;&nbsp;TecMundo",
+      "sources": [
+        {
+          "name": "TecMundo",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdVpXYkNvOXhUZHNnVllFemRLSmlDc1BJdzlkTjNfRDNaY3hwb0VRZzU2ODRlM25EVkpyaEtyMTUxQWRERTRNdXNMcVlhdUdva3RCdXRZT3pGV1N0dUpDRE8wc2ZHVWlSdC1BVmxFRWNZaWFRWmhjM1lIVjFpaTFfdTBaczkxTG9pYXRvU3U3OGxSUmZUYjBYWVAyWFR2WWZSbUR3NmczRQ?oc=5"
         }
       ]
     },
@@ -186,6 +258,18 @@
       ]
     },
     {
+      "id": "86692afb625e",
+      "title": "Da dúvida à publicação: estudos científicos seguem caminho rigoroso - Metrópoles",
+      "published": "2026-08-07T05:00:00+00:00",
+      "summary": "Da dúvida à publicação: estudos científicos seguem caminho rigoroso&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBJSzVJVmdFZUFhQUo1bVdSR19qYllobmo1WnpIZ2gwT3Z1SzBZZWYwMU5BdFV2VGdnMDBTb3JfU2V3M0Y0QzlQV1RLeUtWRDJBMWlncGJ6dTNaQ01wUVVjR0t0MWF5V1liaEdabUVCRG5RQl9OLVo0UUpJcTl1QQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "0e9bc68ca75c",
       "title": "Lúcia Helena: Mesmo quando o HIV parece 'zerado', ele aumenta o risco de demência - UOL",
       "published": "2026-08-06T23:18:14+00:00",
@@ -206,18 +290,6 @@
         {
           "name": "Estadão",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTThGTTVULVNzSXAtdUJ4bVdSTXhzMFUxNTd0RE5MTUt6dUtyQ0dFc1lpeEpGbGxlemtrY0ttamI0T2tzakFpQ2thbnAxeFI2eHdUc016bHgya3E2WFJUbHUwWnExVDIxNFFJdWFaLVV6YUtmTURpX2pCci05ekxxQ1Q0LWNfNlZFdml6b2VZUkstaU14eld1Z1hwMi1jNThjZkpucGtTdnBNVmlCVTc2SjJsdmQ2NDJPSTdxSjQ3MVY2dzc3czVLbmR30gHPAUFVX3lxTE1UMjhRYXJfdHQ5dnAzR2pROTlTUGwxYW96RUF6UnVjcXYzYkQtTzhGZ09KMEU2cTRQSVhRZi1DRUEtemhPZHdVX1c2SXhtU3dEUWI2Umd5S0wxNHo3VnFfUjdOMjdyUVFkRHlEZzVEUnZyaEplTmpnakZUOHluM24ycWVYd0cyTFhraEl4Y2t4Qk55dDFUdldCblREZmpFR01qbmczZnh1bzQ3eDU1dVZ2VzM5dF9JUXRGOUhhaXNCZzhTMl9wUDcwTm4tVDRVTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d6ae5cbc317c",
-      "title": "As primeiras imagens da cratera na Lua causada por foguete da SpaceX - VEJA",
-      "published": "2026-08-06T20:51:03+00:00",
-      "summary": "As primeiras imagens da cratera na Lua causada por foguete da SpaceX&nbsp;&nbsp;VEJA",
-      "sources": [
-        {
-          "name": "VEJA",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcXNJeXFmbVpVUEpBUERTc0Q0SHJfT2kwTG1XQXpVZjRFVG82UTV1ODNWelBUSWM4TUhaclVraVlUSzFyS0xlRTNkVVdaeEJFZzAyZ3FickZvQWlZeGJZOXQ4RF9EbTA1bXJPY1V1X0NFOHFfTDdzY20zVXNLazdVQ3BtUmhiazUtRWtyYUxPcUo4bElWcmZGSDZBalFad01Nc2hMdGdB?oc=5"
         }
       ]
     },
@@ -258,18 +330,6 @@
       ]
     },
     {
-      "id": "24703a898542",
-      "title": "Alzheimer precoce: especialista alerta para sinais além da perda de memória - A Gazeta",
-      "published": "2026-08-06T19:32:00+00:00",
-      "summary": "Alzheimer precoce: especialista alerta para sinais além da perda de memória&nbsp;&nbsp;A Gazeta",
-      "sources": [
-        {
-          "name": "A Gazeta",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcDdIWGhZdmlqQll6NUhSeGlxZjJHU2k3djJDT0dUUDZtUXhsN3p4VHNVSHJCZGRRSjk5RlJ1cnB5RDJvRV9ZZG11YjVYcVRRM0RJaWgySTBtZE5CclI4STZLSkt5dWJKWmc3RjVrSUNDNVBZTWZ4eG42azJsYnRiempRY1NZU0c3ZmxPT2o1VUpmNDY3d05lQTRQTkhxWWxHdE14dUVia1MyWXZVM3dha0c5SG1aQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c09d824d482b",
       "title": "Metade das mulheres na menopausa tem esta síndrome — e poucas sabem disso - Veja Saúde",
       "published": "2026-08-06T15:39:35+00:00",
@@ -278,6 +338,18 @@
         {
           "name": "Veja Saúde",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUGlSTzhnRDRwbm80R0xQOExZeUhzS0pJQ2wxcXluZ3R1ZjQ2NU1JX21hWUlFak1ycS1PMHNTLUoxZzI0WlZ4RmREUE5YMVNnZ1RGZW9nT2ZBbHhmaDlIUURBUnBNdHRWbzZMRklJRWdad002Ymc1SmhxaS1tWlAxaEdvdkxkWV84c0pRWTR5NTZpYXJmSDY4aTljdVloVWg2c0F1Y3hzOXZJZHJK?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2ec910ed3964",
+      "title": "Cientistas cassados pelo AI-5 são condecorados pesquisadores eméritos da Fiocruz - Aventuras na História",
+      "published": "2026-08-06T15:37:17+00:00",
+      "summary": "Cientistas cassados pelo AI-5 são condecorados pesquisadores eméritos da Fiocruz&nbsp;&nbsp;Aventuras na História",
+      "sources": [
+        {
+          "name": "Aventuras na História",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQT0FpbVA0cGtHcWxNOURfZ3NuemRkQ25ObmJWTDRGXzlYWU5DbVd4VHJteWlva05VX1FTSUQzcnNjbkJaMTVpM1I0Tmc3b0hhb0NVRm9LSTJnSl9kSmM0aWtwUnZPR2ZKVjJxNHpEX2ZFZHFzQ2lWMWJBOG45SlF2bUdEOUxsSk5kLTJLY1U4RVVPYktleXM2TVVTejlYVjQyLVUtb0t1TnA1LUR0eFlNQzRQOTVOVnVnM0ozTmo0OTdPWjFHbm9zZkQwMDNScjZZMjBhVnpyR0tHVVZr?oc=5"
         }
       ]
     },
@@ -294,13 +366,13 @@
       ]
     },
     {
-      "id": "f857564811fa",
-      "title": "Herpes-zóster: veja o calendário de vacinação da 2ª dose na Sede Social e unidades regionais - AFPESP",
+      "id": "bd8b183da5b2",
+      "title": "Herpes-zóster: veja o calendário de vacinação da 2ª dose na Sede Social e unidades regionais - afpesp.org.br",
       "published": "2026-08-06T13:26:55+00:00",
-      "summary": "Herpes-zóster: veja o calendário de vacinação da 2ª dose na Sede Social e unidades regionais&nbsp;&nbsp;AFPESP",
+      "summary": "Herpes-zóster: veja o calendário de vacinação da 2ª dose na Sede Social e unidades regionais&nbsp;&nbsp;afpesp.org.br",
       "sources": [
         {
-          "name": "AFPESP",
+          "name": "afpesp.org.br",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM1lxTE10b0Z5eGJ2bHF1UWhXeXZ0ZGVlcGU5STNqWDZrb3RmWTlxbmd0SWZTdGU5VVp0VjBjWWhfU1VUeTc2UThRXzRVUlJFYnNJenJsUFE4SEZMYkxZUkxCSGQwZTZMRS1yRnMza3VUVXQ2ei1WSXdqMGxaUktXMkpJTEo4ZVA5cFBuY0hITFJCeUNuRTAxMXhzeDVxekhieDB6bVAzWFZSRWFNTXExSEd3Wl9iQWlVM2x4bXBwOXNGcGpDMlhVc3JBeXFwZUJf?oc=5"
         }
       ]
@@ -318,14 +390,26 @@
       ]
     },
     {
-      "id": "f63f6956a035",
-      "title": "Pesquisadores da USP analisam cerca de 100 amostras de argila em área com terras raras em RR - G1",
-      "published": "2026-08-06T09:00:56+00:00",
-      "summary": "Pesquisadores da USP analisam cerca de 100 amostras de argila em área com terras raras em RR&nbsp;&nbsp;G1",
+      "id": "dfadd2124c8b",
+      "title": "Alerta nos mares: peixe-boi-marinho volta ao nível máximo de risco de extinção - VEJA",
+      "published": "2026-08-06T11:30:58+00:00",
+      "summary": "Alerta nos mares: peixe-boi-marinho volta ao nível máximo de risco de extinção&nbsp;&nbsp;VEJA",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRWI5YlVsZmxESHlqalQ5THMzSHFrNURHZldUcjFtdm9pVVVDNnFkdlRCWnEzSTZuSllITDVNcnZSdWoxTE1wZ3V4enZFdEtDeVdnS1U0czNiYWpXekdBdHlhUzhsUXlLRWxwSTAxQUMzQWJ5dGtzTjI5M3oyVlFaaWlKTkdTejJURTdXMDlmTXFLSTRCV09yclluRzFNRVJscUFJei1JNkM4bGZTRlM2c09LZnhTN29PM0NwS2s3UFBJMEVCRU16UG9majdvM1BiYWw4VVhMd2NMOEl0NlFvVVp0QdIB8gFBVV95cUxQMS1EbmRfNDFiZHRyUkJuYlFmalhjZkFwMHp1WUNFdzljNC1kR2lsQ3JxUjVTVVZwR1Jreko0Z1ptMFgzMDc2TGV6ZXVEczNwdTBHZ0JDSjBPaU1oeF9teVdhSTdHNGFJUzU3SjVILWF2aVZnNW4xSXczZkFGczNBcUhtVnFtUDVpXzNzZElLWmMzVjVwNjEwX3czdXQwM01rNnFKZC1SSkZNdXZibEJoaERNNUpaYXBfQWtBNHhyWm9GZlhibnI4dFJFOGxLQzRBeDExWTQtMWVXSXVWTEg4V2dkM1pGbkpEdFB4bXU0TWJwdw?oc=5"
+          "name": "VEJA",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNTdNbHdhVzFiQ0RsXy1jZmJvbjA0eENhallNc1lTemlSY0h6eW9GY3lMVHAtRVFVM01iTm5HdkpHNXZxMmRGcVNFdVBEd2FqaVhOeldGRURCbjFsN25NYXJENGZuclNDSHh1MlRqZlBoc2U0cmJfemd2c3dTNGdTTFhobU5CM3IycFk2X1IycUkyRU42LTN5dnRJQWFNREJNeFJodmk3SWxraXhpdHBxOGdn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a0f7f53313aa",
+      "title": "Treinamento de IA: como funciona, riscos e futuro - TecMundo",
+      "published": "2026-08-06T11:15:00+00:00",
+      "summary": "Treinamento de IA: como funciona, riscos e futuro&nbsp;&nbsp;TecMundo",
+      "sources": [
+        {
+          "name": "TecMundo",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcmZXNkJ4OG9tSU41WW9oWUgzTVEtbWZEZXBJWE1tcVc4UFZqVDNOdThVWDlqUXFZSEkyV05tZXp6WFhHU3F0M1Vod1JzYUREMDRaNlBzVjZzNDZieFdwdjZzZ09EVElpRWJTU0tIS3VlTUpZWDB1TC1qQzk1MzZobmYyQW9xaFJXeFV5TndENExWUWtZam9n?oc=5"
         }
       ]
     },
@@ -333,47 +417,11 @@
       "id": "4ca7011d1042",
       "title": "Precisamos de tanta proteína? - O GLOBO",
       "published": "2026-08-06T07:30:23+00:00",
-      "summary": "Precisamos de tanta proteína?&nbsp;&nbsp;O GLOBOProteína adicionada expande mercados e democratiza consumo&nbsp;&nbsp;Meio e MensagemSeu corpo precisa mesmo de tanta proteína? O que a ciência descobriu&nbsp;&nbsp;TerraNa meia-idade, comer mais proteína vegetal foi associado a uma chance maior de envelhecer com saúde&nbsp;&nbsp;Tua SaúdeA próxima evolução da alimentação não é apenas nutricional, é comportamental&nbsp;&nbsp;Giro News",
+      "summary": "Precisamos de tanta proteína?&nbsp;&nbsp;O GLOBOProteína adicionada expande mercados e democratiza consumo&nbsp;&nbsp;meioemensagem.com.brNa meia-idade, comer mais proteína vegetal foi associado a uma chance maior de envelhecer com saúde&nbsp;&nbsp;Tua SaúdeSeu corpo precisa mesmo de tanta proteína? O que a ciência descobriu&nbsp;&nbsp;TerraProteínas ampliam espaço no mercado e desafiam indústria a unir inovação, sabor e escala&nbsp;&nbsp;foodconnection.com.br",
       "sources": [
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZnpPNkFKY2FNeG9IVTc3SnFDTXFHWUxsUXJLWElMQmg3ZWhrRW4xaGlqaGs3dEduZHFxeTA5RWV5dVlFWWVNTTZadlJ2VHRySDczWkJVU2h5dXI5MlVFclE3Z2h6eHRqTFdBVHlHX3lOdl9BX1RUekFVNUYzRWZUNmh2UnlkTzFWbUxydGt4Y1Z5RHNWbGQ2UXZrb9IBqgFBVV95cUxOZFFBaVh1cUxaa1BNRktOLUs4V3VWSHlGOVN3TENxazJpb25kajRWTEhDN2xXOEpsYURLN3huNk41VnBaUDlmcFFoaElDaUw2NXdCN3hPU2xvR3VDcExzSHpkeHBSS1h4SkpuWG52eE9yNVdHaElzOUcyQWtZaE1meHdJZGU5eUZpeFpiUFhXRHVjSkhncjN4S1RJYllqOUpIeEVGVDZ2YUdQdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7d3acb0dcc0a",
-      "title": "Você sabe quanto cabelo perde por dia? Entenda quando a queda pode ser um sinal de alerta - O GLOBO",
-      "published": "2026-08-06T06:00:58+00:00",
-      "summary": "Você sabe quanto cabelo perde por dia? Entenda quando a queda pode ser um sinal de alerta&nbsp;&nbsp;O GLOBOQueda de cabelo: como a tricologia ajuda na saúde dos fios&nbsp;&nbsp;Correio do PovoEspecialista compartilha dicas práticas para tratar a queda de cabelo&nbsp;&nbsp;Mayo Clinic News NetworkHora de recuperar os fios&nbsp;&nbsp;R7Tricologia reflete aumento da busca por cuidado com cabelo e couro cabeludo&nbsp;&nbsp;Estado de Minas",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaDREVl9zM0oyNXB3ajdUakJXVFd3WlFZZU9pUFRQa3ZHUzE0NE9DRUxIMjU3Uk9DanhxQ0REN18tNVJaZmxBU3UwU0lSZjFpUzBCbThHMFNIcU9PVVJBcHdJMzdKZXljSTZrdzgwZkNPcm41Y1ZtQlNxOE9tM3ZkWV9FMnk4b1dicHJEak9vZHJlZ19fU0d6Ti1UOEMteHY1NE5mUTlmVDBxRzg0VlA0SDNNRkpsMUtDckVTTXVHV3Y4LUlFWGxBazM4b0FxVnJUa1hJTmxhSUJKZ9IB6AFBVV95cUxNd0MyN01hTkhhcUhKZHpySUFGVlJUYUtKZlVKS0RTZUVHRlRnR014dDllbm9TaGduaXEtanJEMUhocXU0dWlJLTItM1poRHhabjlBSDJKa1BnMU5OcGxCQkJhSVFjRFoycEhBRmxWcmUtR0ZmREJsTkV5RHljTXVTVklWbS1rT29UbEdaLUUxd0xIU1M1VzdaYVhPQ29zYkRldjBoV3BFSnc3d21GN3pJTXBzMk9SUGZHQnZxWkFyWERuZFlWQ204YmJ1UnNpVFVQOEhLZ0RWOFFEVUhrZUxyMG9CODFfRDNv?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a35733cedb2b",
-      "title": "Evitar três fatores durante a meia-idade está associado a mais 13 anos sem demência; saiba quais - G1",
-      "published": "2026-08-06T03:01:06+00:00",
-      "summary": "Evitar três fatores durante a meia-idade está associado a mais 13 anos sem demência; saiba quais&nbsp;&nbsp;G1Hipertensão, diabetes e tabaco. Cientistas identificam três fatores a controlar para atrasar a demência&nbsp;&nbsp;RTPEvitar hipertensão, diabetes e tabagismo na meia-idade pode atrasar demência em 13 anos, diz estudo&nbsp;&nbsp;ObservadorSaúde na meia-idade pode influenciar número de anos de vida sem demência&nbsp;&nbsp;ExpressoTrês fatores de saúde na meia idade que atrasam a demência ",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZUZ4Y3hBUVQ5S2d5OTJPLW9oMkJiWUFGTlBjazBhSG5QNWlFTExvZjYyYVhvaTN3dThTVzdsdGhCWUZCbW51VHRPN1ZhQVVCQ3p1LWRzTWZVMTRMeVl6SHJicHFfWU1tanJYVGExQlNpN3lMOTY3aUpFODlYMzRiZUoyeG84V2dBZkF2dzl5WUlWeDVjM0JGQ1NlZndFYTR0ZmNYT2dOOHRBTVpmMWQwaFBlZzhfX2MyX3RaS1ZaSlJ2QW1HVU5lUlY5MHRNSzA5U2Q3NEhFRVg4b2RoYzhCM9IB7wFBVV95cUxQUGVtQS1XQ3pZVnJnNW9OV0NVQVhjNVcyaU9XVmxoMWJLd3MtTmJ0YmhwV0xPZ2VnUkhQWDRteDYwZkxYdXVaRElwMjM0NV8zRlhpamFHSWxuaEk2TkZHM0FCZER2VFhvQlRXUnNYZHVCMTRITVJ0cHdqTE1FUWoyNmRmcXVMUEpUdEFTbk03dFJTd3NBMmVBU05VYU5kSXRHeE10X2h4elRaMlR1UWxRSkYxTVEwM3hfeGdYZ09xOWp6aXpKVHNkY014UWE0V3RvMDhYM3VvckNKMTFLNTkweGpDM2tfeHlPQ2pMSVNDaw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bf9120a29af9",
-      "title": "Os riscos de dormir pouco e por que algumas pessoas precisam de menos horas de sono - Folha de S.Paulo",
-      "published": "2026-08-06T01:00:00+00:00",
-      "summary": "Os riscos de dormir pouco e por que algumas pessoas precisam de menos horas de sono&nbsp;&nbsp;Folha de S.PauloDormir pouco poderia estar ligado a menor expectativa de vida&nbsp;&nbsp;TerraVocê dorme o suficiente? Seu cérebro pode estar mentindo; entenda&nbsp;&nbsp;Diário do Centro do MundoPor que dormir oito horas pode não ser suficiente para descansar&nbsp;&nbsp;33giga.com.brDormir menos de seis horas por noite e resistência à insulina: o que as pesquisas em adultos saudáveis já demonstraram&n",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRHZMSDF6R3FSMGtjYW5LYU10aXR5aTJaWHhTRHhON0VQd2tBUTJDbjRjamFCcjF4anBvbDhlRmxINVVaRDNrQld1UTVqYjBGMXBUUEVYaEpiUHdJaTczYzktZWVESVR0SmtkZFIzdDk2RTVhSEhNbTdRckJaanlKaS1jMVdRcjgwbjFIckNpRjQ5c192YjR4cXlveUJfNFp6OFp2UGJLOUJaSWNEdnV3azVyelk0cmw4WElCZHg4eWhLOUxjSmxpcDdhc3hfTk9ad21vcg?oc=5"
         }
       ]
     }
