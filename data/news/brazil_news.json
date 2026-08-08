@@ -1,15 +1,39 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-08-08T06:55:46.653768+00:00",
-  "total_fetched": 74,
-  "unique_count": 71,
-  "health_related_count": 35,
+  "fetched_at": "2026-08-08T12:51:05.550754+00:00",
+  "total_fetched": 73,
+  "unique_count": 70,
+  "health_related_count": 31,
   "news": [
+    {
+      "id": "952de300975f",
+      "title": "Rodrigo Ratier: Professores não sabem avaliar, revela pesquisa - UOL Notícias",
+      "published": "2026-08-08T11:33:10+00:00",
+      "summary": "Rodrigo Ratier: Professores não sabem avaliar, revela pesquisa&nbsp;&nbsp;UOL Notícias",
+      "sources": [
+        {
+          "name": "UOL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOckV5NlhoRjhfOGlLYUpaTlNXTWpOblZvSkI0cDM2bHM2NXpmNThBckp4cU9JLVVqZmlNbnl6NXlyQWJmZVFBc2ZVUzhVa0JQaWdqN0Q4QlNqV0o5OWlmTWVWeFhrVGo4ZjZpX281aXhLSzRneDk1MGtWbkFLR0kzRGdKLVVuNU9NeEplbjFiSkM0TmV3VVI1NlQ2bUwxWjZHSlIwUVVzYUZoN3F6bjdIdA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "41a607c74642",
+      "title": "Fiocruz concede título póstumo a dez pesquisadores alvos da ditadura militar - Folha de S.Paulo",
+      "published": "2026-08-08T07:00:00+00:00",
+      "summary": "Fiocruz concede título póstumo a dez pesquisadores alvos da ditadura militar&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcWY3ZWVtODhnYk9VOXp0SXkwVDBGN255aVdGc0pZTHFXRDNwVGFwTHd2aVV2bl96ZUFjVERDN2lpUjBLNV9RQ3p4NHZmeGU1THdld3JtOGkxUXlfRlRCR2NOV0RUbTdoS3VicDJ6V01iQmVOaHhGTnpKWEppU3lsbkdNLXJBV1h3clFRREtEbzVIdjczeFFDckJQS2dBMTB5UjlPUDJCbVBFY3lsTlNLbDNRUUQyOWd1Q3NrX2ZqeS02U2haNkJN?oc=5"
+        }
+      ]
+    },
     {
       "id": "5d47c0882521",
       "title": "Insônia: 4 em cada 10 pessoas tomam medicamentos que não são indicados para o tratamento da doença, revela pesquisa - G1",
       "published": "2026-08-08T01:00:06+00:00",
-      "summary": "Insônia: 4 em cada 10 pessoas tomam medicamentos que não são indicados para o tratamento da doença, revela pesquisa&nbsp;&nbsp;G1Seis em cada dez adultos usam medicamentos para dormir, aponta USP&nbsp;&nbsp;ICTQInsônia: a solução não deveria estar (apenas) nos medicamentos&nbsp;&nbsp;outraspalavras.netUSP alerta para uso prolongado de remédios entre pacientes com insônia&nbsp;&nbsp;Diário do Centro do MundoBrasileiros estão tomando muito remédio para dormir, aponta estudo da USP&nbsp;&nbsp;medic",
+      "summary": "Insônia: 4 em cada 10 pessoas tomam medicamentos que não são indicados para o tratamento da doença, revela pesquisa&nbsp;&nbsp;G1Seis em cada dez adultos usam medicamentos para dormir, aponta USP&nbsp;&nbsp;ICTQInsônia: a solução não deveria estar (apenas) nos medicamentos&nbsp;&nbsp;Outras PalavrasUSP alerta para uso prolongado de remédios entre pacientes com insônia&nbsp;&nbsp;Diário do Centro do MundoBrasileiros estão tomando muito remédio para dormir, aponta estudo da USP&nbsp;&nbsp;Medicina",
       "sources": [
         {
           "name": "G1",
@@ -21,7 +45,7 @@
       "id": "b8f45fe47e7b",
       "title": "É possível tomar a vacina contra o sarampo aos sábados; veja onde - UOL Notícias",
       "published": "2026-08-08T00:05:55+00:00",
-      "summary": "É possível tomar a vacina contra o sarampo aos sábados; veja onde&nbsp;&nbsp;UOL NotíciasVacinação contra sarampo em São Paulo: preciso me vacinar e onde devo ir?&nbsp;&nbsp;cnnbrasil.com.brInfectologista Mateus Cardoso orienta pessoas vivendo com HIV sobre vacinação contra o sarampo&nbsp;&nbsp;Agência AidsAumento de casos de sarampo em SP provoca corrida por vacinação e gera filas em ao menos 100 postos&nbsp;&nbsp;EstadãoSarampo avança no estado de São Paulo com sete novos casos confirmados; sa",
+      "summary": "É possível tomar a vacina contra o sarampo aos sábados; veja onde&nbsp;&nbsp;UOL NotíciasVacinação contra sarampo em São Paulo: preciso me vacinar e onde devo ir?&nbsp;&nbsp;CNN BrasilAumento de casos de sarampo em SP provoca corrida por vacinação e gera filas em ao menos 100 postos&nbsp;&nbsp;EstadãoInfectologista Mateus Cardoso orienta pessoas vivendo com HIV sobre vacinação contra o sarampo&nbsp;&nbsp;Agência AidsSarampo avança no estado de São Paulo com sete novos casos confirmados; saiba ci",
       "sources": [
         {
           "name": "UOL Notícias",
@@ -30,14 +54,14 @@
       ]
     },
     {
-      "id": "4a3738e926eb",
-      "title": "Tábuas de 3 mil anos são descobertas em região citada na Bíblia - Metrópoles",
-      "published": "2026-08-07T20:54:00+00:00",
-      "summary": "Tábuas de 3 mil anos são descobertas em região citada na Bíblia&nbsp;&nbsp;Metrópoles",
+      "id": "46240afd0508",
+      "title": "Um estudo de neurociência afirma: as crianças que aprenderam a tocar um instrumento na infância desenvolveram uma habilidade essencial para a vida - purepeople.com.br",
+      "published": "2026-08-07T22:41:00+00:00",
+      "summary": "Um estudo de neurociência afirma: as crianças que aprenderam a tocar um instrumento na infância desenvolveram uma habilidade essencial para a vida&nbsp;&nbsp;purepeople.com.br",
       "sources": [
         {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPVTlPQ0RzRWhzVi1WZXJ6NGd6aklOTU9pYVJYUXRpQTE0VlZOMlZPQVlYMUZMQTJIcDRWUjkyTWpzeG9MTlNGZkoyZnVYOE5Cb3FFQ3E5NUVlUWpUTmRONHh4eXIwNmtKc2U5MlREX3pYM2xmNGc?oc=5"
+          "name": "purepeople.com.br",
+          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQQldnLUxlT1M5ODc4M0VGVVFya0Q0QVBsZC1VQy1kVjlqMy1HcU9JcG44bUFYQ0htSUlMVGlBU01GQ0ZoWkdTaGQyN1hYdGMtb240Qm9rZXIwSmw1MWV5T0dLeU5INkhPc3J1NXRhTUMwRkJoQUlMX3loRnNVeWxvMHZxVjRJNFZRazcyZWhoYTFnYVlHdEpzcWR6UE9JMXRKXzVPQ2RNSmJBRlJGU2dHQ0NvVU9HaE05cnRJYUFiVUxyS0x4ejM1Y1F1QkUzTW1aRzdPcDVXNUF3N3A1QS00QmVtWWNzMTV2ZUZwa09tRFh2cXlNbGsybXZTY29ibHhfOTdjUHVkcFBqSjJnRmxXWjViONIBmAJBVV95cUxQUEJtUjBBU1d4aE8xNldzZ0V3SjAwTURFTXRSd2kzbkVvNnRNNzAyZ0phVUtFOVRWa0JGSmRKTlNvOHJEVVRVQ3ZhYUVQN1dMTEJnM0dVUkVvbkRzaFk3YU5tSEpWWllYVEE1Mko5M3NkZWREemFXTVNlNVUzZXJlcER5eURVakN0aWkyNkF3ekVCcHpmcmlhdnA1R2FkRllOYXBEVS0xTHJ6Uk9WMEw2NGE5NnAxNWpFdl9pZ2thYnAxM2hIaVA3RmFDNDZZUjJjR3psckJLR0NpUWw4QnZ6anVUbEU2cTY4bDRkZnFXbnowWDAyMFJJekJFOF9tZGRMQjFTeUdJbGJ2RkpTaUpZWE1xU0NXMUpV?oc=5"
         }
       ]
     },
@@ -66,14 +90,14 @@
       ]
     },
     {
-      "id": "c5679d68bd63",
-      "title": "Por que sistema elétrico brasileiro enfrenta risco por excesso de geração de energia - bbc.com",
-      "published": "2026-08-07T18:27:01+00:00",
-      "summary": "Por que sistema elétrico brasileiro enfrenta risco por excesso de geração de energia&nbsp;&nbsp;bbc.com",
+      "id": "13f2654e3188",
+      "title": "Colonoscopia: por que fazer, a partir de qual idade e quando repetir o exame - Jornal Correio",
+      "published": "2026-08-07T18:27:08+00:00",
+      "summary": "Colonoscopia: por que fazer, a partir de qual idade e quando repetir o exame&nbsp;&nbsp;Jornal CorreioCâncer de estômago é cada vez mais comum em adultos jovens&nbsp;&nbsp;TerraColonoscopia: benefícios superam de longe os riscos&nbsp;&nbsp;VEJACâncer de intestino: Renata Abreu reforça importância da conscientização para diagnóstico precoce&nbsp;&nbsp;PODE - PodemosColonoscopia sem medo: o exame que salva vidas não deve ser adiado&nbsp;&nbsp;O Bom da Notícia",
       "sources": [
         {
-          "name": "bbc.com",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1leW8xSDhJMUVaLU9aUDZNQWVoeng5LV9WR1pUUXdGem1pamQwU1hZcS1Cal9hQlhZUkIxay0yYUFjUU41M1l4QjlyTGhiakFxeTRfRzhyMWdTOGliN2MwcEZn0gFnQVVfeXFMUEhYeU5mcVNDWkpuQXlvTWIyOThLRGNhaW9GeC1vaWc3MUtTVWljSjhLMGxCbVlKVDFuamk0d2tZQk9IRUt5a3Npa0F5QTl2WE1sNjRoazZKaU9mdDRNN3JFUC1Tb1h1NA?oc=5"
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONG9CSmUxdjQ5WldkejdEZUJPU1BNOHlsV2Nvb0U2QzhFLW9LZnU1cHVkSjFBRlI2S1A2M0xKdkhVN2xLQTlLZ0kxaDcxeVNFTEo2NFdWSWs5WENIX3AyWnFpMnJTVkJoei1pcHBkbVJDa244WnlDTUV6LWZoNVlMLVpybzlRbFFBSDVZTzR5cG5iTEtMZDA0S0hZNnhrS2ZWdnNTd0FxbWdGMG56YjM0U2RHUWNGVUR5UHpr?oc=5"
         }
       ]
     },
@@ -81,7 +105,7 @@
       "id": "10c56fa6de2c",
       "title": "Perder urina ao tossir ou espirrar é normal? Entenda quando o escape urinário exige atenção - Diário do Nordeste",
       "published": "2026-08-07T18:06:00+00:00",
-      "summary": "Perder urina ao tossir ou espirrar é normal? Entenda quando o escape urinário exige atenção&nbsp;&nbsp;Diário do NordesteIncontinência urinária é comum, mas não é normal e merece atenção&nbsp;&nbsp;EstadãoIncontinência urinária: 56% das brasileiras acima de 40 anos convivem com o problema&nbsp;&nbsp;GloboPesquisa: 56% das brasileiras acima de 40 têm perda involuntária de urina&nbsp;&nbsp;Estado de MinasDia dos Pais: Pesquisa TENA revela que 30% dos homens com incontinência urinária desconhecem a",
+      "summary": "Perder urina ao tossir ou espirrar é normal? Entenda quando o escape urinário exige atenção&nbsp;&nbsp;Diário do NordesteIncontinência urinária é comum, mas não é normal e merece atenção&nbsp;&nbsp;EstadãoIncontinência urinária: 56% das brasileiras acima de 40 anos convivem com o problema&nbsp;&nbsp;Globo.comDia dos Pais: Pesquisa TENA revela que 30% dos homens com incontinência urinária desconhecem a causa da condição&nbsp;&nbsp;Correio dos MunicípiosVida sexual 40+: como recuperar a confiança ",
       "sources": [
         {
           "name": "Diário do Nordeste",
@@ -93,7 +117,7 @@
       "id": "0bb50c9c514b",
       "title": "Guarapari emite alerta de saúde para aumento de casos de catapora - A Gazeta",
       "published": "2026-08-07T17:40:00+00:00",
-      "summary": "Guarapari emite alerta de saúde para aumento de casos de catapora&nbsp;&nbsp;A GazetaCasos de catapora aumentam em Guarapari&nbsp;&nbsp;G1Guarapari emite alerta de aumento de casos de catapora; veja sintomas e prevenção&nbsp;&nbsp;Folha VitóriaGuarapari registra aumento de casos de catapora e faz alerta para vacinação&nbsp;&nbsp;eshoje.com.brCasos de catapora em Guarapari acendem alerta para ações de prevenção e controle da doença&nbsp;&nbsp;Folhaonline.es",
+      "summary": "Guarapari emite alerta de saúde para aumento de casos de catapora&nbsp;&nbsp;A GazetaCasos de catapora aumentam em Guarapari&nbsp;&nbsp;G1Guarapari emite alerta de aumento de casos de catapora; veja sintomas e prevenção&nbsp;&nbsp;Folha VitóriaGuarapari registra aumento de casos de catapora e faz alerta para vacinação&nbsp;&nbsp;ES HojeCasos de catapora em Guarapari acendem alerta para ações de prevenção e controle da doença&nbsp;&nbsp;folhaonline.es",
       "sources": [
         {
           "name": "A Gazeta",
@@ -153,7 +177,7 @@
       "id": "b45958b5dc5d",
       "title": "Ministério da Saúde reforça vacinação de crianças e adolescentes contra sarampo, pneumonias e outras doenças - www.gov.br",
       "published": "2026-08-07T14:47:00+00:00",
-      "summary": "Ministério da Saúde reforça vacinação de crianças e adolescentes contra sarampo, pneumonias e outras doenças&nbsp;&nbsp;www.gov.brEstratégia de Multivacinação começa na segunda-feira em Tupã&nbsp;&nbsp;G1Cuiabá realiza Dia D de Multivacinação para atualizar caderneta de crianças e adolescentes&nbsp;&nbsp;Prefeitura de CuiabáGoverno inicia campanha para atualizar vacinas de crianças e adolescentes&nbsp;&nbsp;Correio BrazilienseCaraguatatuba realiza campanha de Multivacinação para atualizar cadern",
+      "summary": "Ministério da Saúde reforça vacinação de crianças e adolescentes contra sarampo, pneumonias e outras doenças&nbsp;&nbsp;www.gov.brBH realiza 'Dia D' da Campanha Nacional de Multivacinação neste sábado; veja quem pode se vacinar e onde ir&nbsp;&nbsp;G1Governo inicia campanha para atualizar vacinas de crianças e adolescentes&nbsp;&nbsp;Correio BrazilienseCuiabá realiza Dia D de Multivacinação para atualizar caderneta de crianças e adolescentes&nbsp;&nbsp;Prefeitura de CuiabáBH tem Dia D de multiva",
       "sources": [
         {
           "name": "www.gov.br",
@@ -177,7 +201,7 @@
       "id": "e13e54f0900c",
       "title": "Estudo nos EUA testa cápsulas de fezes contra alergia ao amendoim - UOL",
       "published": "2026-08-07T13:47:07+00:00",
-      "summary": "Estudo nos EUA testa cápsulas de fezes contra alergia ao amendoim&nbsp;&nbsp;UOLTransplante fecal faz seis pessoas superarem alergia a amendoim, mas está longe de chegar aos consultórios&nbsp;&nbsp;VEJACientistas diminuíram alergia a amendoim de 6 pessoas usando cápsulas de cocô&nbsp;&nbsp;GloboPesquisa usa transplante de fezes para tentar reduzir alergias&nbsp;&nbsp;Olhar DigitalTransplante de fezes consegue melhorar alergia a amendoim em 6 pessoas&nbsp;&nbsp;Metrópoles",
+      "summary": "Estudo nos EUA testa cápsulas de fezes contra alergia ao amendoim&nbsp;&nbsp;UOLTransplante fecal faz seis pessoas superarem alergia a amendoim, mas está longe de chegar aos consultórios&nbsp;&nbsp;VEJACientistas diminuíram alergia a amendoim de 6 pessoas usando cápsulas de cocô&nbsp;&nbsp;revistagalileu.globo.comPesquisa usa transplante de fezes para tentar reduzir alergias&nbsp;&nbsp;Olhar DigitalTransplante de fezes consegue melhorar alergia a amendoim em 6 pessoas&nbsp;&nbsp;Metrópoles",
       "sources": [
         {
           "name": "UOL",
@@ -189,7 +213,7 @@
       "id": "91fe59298e58",
       "title": "Lipedema afeta aparência, autoestima e saúde emocional - ES Brasil",
       "published": "2026-08-07T13:45:53+00:00",
-      "summary": "Lipedema afeta aparência, autoestima e saúde emocional&nbsp;&nbsp;ES Brasil“Calça de lipedema” realmente funciona ou é perigosa? Médicos explicam&nbsp;&nbsp;CLAUDIA - o sentido femininoFelipe Becari detalha Política Nacional de Atenção Integral às Pessoas com Lipedema&nbsp;&nbsp;Portal da Câmara dos DeputadosConfundido com obesidade, lipedema é tema de 1ª caminhada de conscientização em Sorocaba&nbsp;&nbsp;G1Terceiro e último dia do Estetika destaca avanço no debate sobre lipedema&nbsp;&nbsp;Gaz",
+      "summary": "Lipedema afeta aparência, autoestima e saúde emocional&nbsp;&nbsp;ES Brasil“Calça de lipedema” realmente funciona ou é perigosa? Médicos explicam&nbsp;&nbsp;CLAUDIA - o sentido femininoRennova® apresenta soluções para compor protocolos integrados e individualizados para pacientes com lipedema&nbsp;&nbsp;PR NewswireBiomédica alerta que dor e gordura desproporcional podem ser sinais de lipedema&nbsp;&nbsp;HiperNotícias - Você bem informadoTerceiro e último dia do Estetika destaca avanço no debate ",
       "sources": [
         {
           "name": "ES Brasil",
@@ -201,7 +225,7 @@
       "id": "91f2675523b3",
       "title": "Anvisa alerta que testosterona não deve ser reposta por toda mulher - UOL",
       "published": "2026-08-07T13:25:32+00:00",
-      "summary": "Anvisa alerta que testosterona não deve ser reposta por toda mulher&nbsp;&nbsp;UOLReposição de testosterona NÃO é obrigatória para mulheres — Agência Nacional de Vigilância Sanitária - Anvisa&nbsp;&nbsp;www.gov.brNotificações de efeitos adversos com testosterona sobem e Anvisa alerta sobre uso indevido em mulheres&nbsp;&nbsp;G1Anvisa alerta sobre riscos do uso de testosterona sem indicação&nbsp;&nbsp;Campo Grande NewsPode ter abuso de testosterona? Médico questiona plano dos EUA de rastrear e re",
+      "summary": "Anvisa alerta que testosterona não deve ser reposta por toda mulher&nbsp;&nbsp;UOLNotificações de efeitos adversos com testosterona sobem e Anvisa alerta sobre uso indevido em mulheres&nbsp;&nbsp;G1Anvisa alerta sobre riscos do uso de testosterona sem indicação&nbsp;&nbsp;Campo Grande NewsMédicos alertam sobre o uso indiscriminado de testosterona por mulheres&nbsp;&nbsp;Costa NortePode ter abuso de testosterona? Médico questiona plano dos EUA de rastrear e repor hormônio em militares&nbsp;&nbsp;",
       "sources": [
         {
           "name": "UOL",
@@ -210,14 +234,14 @@
       ]
     },
     {
-      "id": "2ec373fe3521",
-      "title": "Dependência emocional com IA: entenda riscos, privacidade e limites - TecMundo",
-      "published": "2026-08-07T11:15:00+00:00",
-      "summary": "Dependência emocional com IA: entenda riscos, privacidade e limites&nbsp;&nbsp;TecMundo",
+      "id": "cd8781cdc570",
+      "title": "IAgora?: Vírus criados 100% por IA já existem - agora resta saber o tamanho do risco - UOL",
+      "published": "2026-08-07T12:30:00+00:00",
+      "summary": "IAgora?: Vírus criados 100% por IA já existem - agora resta saber o tamanho do risco&nbsp;&nbsp;UOL",
       "sources": [
         {
-          "name": "TecMundo",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdVpXYkNvOXhUZHNnVllFemRLSmlDc1BJdzlkTjNfRDNaY3hwb0VRZzU2ODRlM25EVkpyaEtyMTUxQWRERTRNdXNMcVlhdUdva3RCdXRZT3pGV1N0dUpDRE8wc2ZHVWlSdC1BVmxFRWNZaWFRWmhjM1lIVjFpaTFfdTBaczkxTG9pYXRvU3U3OGxSUmZUYjBYWVAyWFR2WWZSbUR3NmczRQ?oc=5"
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVWVDTUJxelB6UklDYlgtTzJFcUtlVlk1UnJBQWxRTEpxRVhHX0F2Wnl1ak8xaHQ2SWlWVUVHUGRBQnByOEN4Qy1YR29RcklHQkg4MWM2N1hDZGlsV2xrcnRKT3BWMnJXb0xaWUJ6T1ROM3JvVGwzM0hTQzNfWE9OeThKRWo0amFDbHh5MG5zU2pTOW55LUF6VVd5TXY0QmRHeFNKNmJ0U2EwSXBDeG5oRTdYbW9qZ0lGSldlbm1pWVA1SU5J?oc=5"
         }
       ]
     },
@@ -225,7 +249,7 @@
       "id": "18068bd4b786",
       "title": "Não basta emagrecer: consenso aponta novos cuidados no tratamento com canetas para obesidade - Estadão",
       "published": "2026-08-07T08:30:00+00:00",
-      "summary": "Não basta emagrecer: consenso aponta novos cuidados no tratamento com canetas para obesidade&nbsp;&nbsp;Estadão'Muito risco': médico fala dos perigos de anabolizantes para fisiculturismo&nbsp;&nbsp;UOL NotíciasSociedade Brasileira de Pediatria alerta para uso sem controle de canetas emagrecedoras por crianças e adolescentes&nbsp;&nbsp;G17 erros mais comuns de quem usa canetas emagrecedoras&nbsp;&nbsp;boaforma.abril.com.brUsa Ozempic ou Mounjaro? Novo consenso internacional mostra como deve ser a",
+      "summary": "Não basta emagrecer: consenso aponta novos cuidados no tratamento com canetas para obesidade&nbsp;&nbsp;EstadãoVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
           "name": "Estadão",
@@ -234,38 +258,14 @@
       ]
     },
     {
-      "id": "c122e38eef59",
-      "title": "Por que dinossauros minúsculos, do tamanho de um rato, nunca existiram? Estudo desvendou mistério - G1",
-      "published": "2026-08-07T08:05:19+00:00",
-      "summary": "Por que dinossauros minúsculos, do tamanho de um rato, nunca existiram? Estudo desvendou mistério&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOa1hUa1BVeE1tWEtYRm5hZV9YVnE4c3BzUm9NT0phbXotV2RnbUMzb1VHTzJZUWFoM2dKc2RLS3NjazhTYVlfa0dsamdyamxIZktzODExc3dzcEpoVHEwMzNPTGhGVVI3R2hqdlFPeUp3UDdFZTV4ZmJGZk5uUHQ5aDZRem41cUF4S0lPV3plZ3NKT1JoaFh6bm5ILWw4dE54aEpOdXhwTjVEb0prdXF2a3kyT1gzdzA0NzZrcS1nQTBFc1lzTGJfR1RoSGMxbE14TWRrcG5udUY4ZUdlYm9TVkJ30gHwAUFVX3lxTFBrdTFBcVFoUnREOXVzMURWWEQ1V1BJU0oxV2lmUmlraWlDa3VnY2ROaFRfVDUta3BNcFhlSTZYbDhFU3E4QkRnaFVHdlFLbkRVTlRSTlVkTEtlcGZXd0VFVmZRSTBNX2R4VE9QdHhLUTVKZEEzWTkydGZmNmFRMnlESk9NUE1LLURlU0NqVGdUUFhYMGN6aU45WC1jZjhLNG5zeWdTMm1td19RVTNGSDF2X0E3aEFSZ05xSUprWFlnSm05eHNtWnkwWWFNeGlXdncyRE40RFFaeGFtd1Yya190WjQ3MGZPQXUzWGxSZkhiYg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "50aeb8fa4917",
-      "title": "Estudo da UFRJ avalia como homens e mulheres lidam com o estresse - O GLOBO",
+      "id": "c1113bc9ffd7",
+      "title": "Estudo da UFRJ avalia como homens e mulheres lidam com o estresse - oglobo.globo.com",
       "published": "2026-08-07T07:01:18+00:00",
-      "summary": "Estudo da UFRJ avalia como homens e mulheres lidam com o estresse&nbsp;&nbsp;O GLOBOHomens ou mulheres: quem lida melhor com o estresse?&nbsp;&nbsp;G1",
+      "summary": "Estudo da UFRJ avalia como homens e mulheres lidam com o estresse&nbsp;&nbsp;oglobo.globo.comHomens ou mulheres: quem lida melhor com o estresse?&nbsp;&nbsp;G1",
       "sources": [
         {
-          "name": "O GLOBO",
+          "name": "oglobo.globo.com",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQW1XU0xqeHdibmgwOHJLLTUwdXAwVGxwam9RMEFtN2JfQnc4R2c2bmpqa1g1LU9ITFd4Z095UVBzYUtiTDVNLXcxczN1ZlNnMmZXbHhCUEpJMm1mNVZHN3R4QTRGbDl5Rkl0NHptak1GWkp5VnJkZ3g3WnpxdGJIYUtXSUxpWVFyUVkzc2s3Z0VyRWdSVmF1TkNGOW82ZndPUnFBeHZSQWx4M1pKaDhsY2VWNnp2b3RJSnl5UnF2M3N6VGJNbWhZOdIB1wFBVV95cUxNVG9fRS13aUc0cmVCaFdwZF8wTWZoYUFJbnF4MkQ4TnVIUTNoajBXQW5hWW1LUmMwSGZUSkpubThvaVMxTDJmM1NrRmNmazVpdXRJV0RfV2VlSkQzT0FORWk4T3RJY2lvY0UwOFltaFBGUDkxcThiWGFsTmtZZXZyYmxORkdkWm55a3JYa0xSYnBZMmRTVzF0enRuZ3U1ZjBWSThMT1VYa2o0dzhwUmxJcFIzR29qaDhZbmNNRUttTUk0cWM2VU4zemFPbG9MRWhLbGtwWmtVYw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "86692afb625e",
-      "title": "Da dúvida à publicação: estudos científicos seguem caminho rigoroso - Metrópoles",
-      "published": "2026-08-07T05:00:00+00:00",
-      "summary": "Da dúvida à publicação: estudos científicos seguem caminho rigoroso&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBJSzVJVmdFZUFhQUo1bVdSR19qYllobmo1WnpIZ2gwT3Z1SzBZZWYwMU5BdFV2VGdnMDBTb3JfU2V3M0Y0QzlQV1RLeUtWRDJBMWlncGJ6dTNaQ01wUVVjR0t0MWF5V1liaEdabUVCRG5RQl9OLVo0UUpJcTl1QQ?oc=5"
         }
       ]
     },
@@ -278,18 +278,6 @@
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQLVRaU3BhMDlOU2tjZ0JTWVdPWnhxZjZHdHY5ZE5UZ1R3eHRHam5qaFNLeTk4U01pRVNwLXZaRk9jbjV5X3JuZ0t4RGtQXzVhZy1yUHprcEZLcDNKaG1sM1lnTDYydDkxaEkzVlNwcW9VSVp1clVLUFJwdjRLTVo0aEdKTU1BcGtzZkZIUjg1MGxzNklsN3VwaTdORE9OOFNvNndhR0VtYlpnM2VMRXFURnNPZmViTVlqaGFITkZiYlVZRVlQLU03Z0g3TQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "36253666060b",
-      "title": "Os robôs vão substituir os médicos? Veja o que pensa o diretor da cirurgia robótica da Rede D’Or - Estadão",
-      "published": "2026-08-06T23:03:00+00:00",
-      "summary": "Os robôs vão substituir os médicos? Veja o que pensa o diretor da cirurgia robótica da Rede D’Or&nbsp;&nbsp;Estadão",
-      "sources": [
-        {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTThGTTVULVNzSXAtdUJ4bVdSTXhzMFUxNTd0RE5MTUt6dUtyQ0dFc1lpeEpGbGxlemtrY0ttamI0T2tzakFpQ2thbnAxeFI2eHdUc016bHgya3E2WFJUbHUwWnExVDIxNFFJdWFaLVV6YUtmTURpX2pCci05ekxxQ1Q0LWNfNlZFdml6b2VZUkstaU14eld1Z1hwMi1jNThjZkpucGtTdnBNVmlCVTc2SjJsdmQ2NDJPSTdxSjQ3MVY2dzc3czVLbmR30gHPAUFVX3lxTE1UMjhRYXJfdHQ5dnAzR2pROTlTUGwxYW96RUF6UnVjcXYzYkQtTzhGZ09KMEU2cTRQSVhRZi1DRUEtemhPZHdVX1c2SXhtU3dEUWI2Umd5S0wxNHo3VnFfUjdOMjdyUVFkRHlEZzVEUnZyaEplTmpnakZUOHluM24ycWVYd0cyTFhraEl4Y2t4Qk55dDFUdldCblREZmpFR01qbmczZnh1bzQ3eDU1dVZ2VzM5dF9JUXRGOUhhaXNCZzhTMl9wUDcwTm4tVDRVTQ?oc=5"
         }
       ]
     },
@@ -309,7 +297,7 @@
       "id": "847973417ff4",
       "title": "Medicamento inovador ofertado no SUS reduz em até 85% as internações de pessoas com fibrose cística - www.gov.br",
       "published": "2026-08-06T19:59:02+00:00",
-      "summary": "Medicamento inovador ofertado no SUS reduz em até 85% as internações de pessoas com fibrose cística&nbsp;&nbsp;www.gov.brMedicamento promete reduzir 85% das internações por fibrose cística&nbsp;&nbsp;Correio BrazilienseTrikafta reduz internações por fibrose cística em até 84,8% no SUS&nbsp;&nbsp;ISTOÉ IndependenteMedicamento reduz em até 85% internações no SUS por fibrose cística&nbsp;&nbsp;Folha PETrikafta reduz internações e uso de oxigênio no SUS&nbsp;&nbsp;Jornal de Brasília",
+      "summary": "Medicamento inovador ofertado no SUS reduz em até 85% as internações de pessoas com fibrose cística&nbsp;&nbsp;www.gov.brMedicamento promete reduzir 85% das internações por fibrose cística&nbsp;&nbsp;Correio BrazilienseTrikafta reduz internações por fibrose cística em até 84,8% no SUS&nbsp;&nbsp;ISTOÉ IndependenteTrikafta reduz internações e uso de oxigênio no SUS&nbsp;&nbsp;jornaldebrasilia.com.brMedicamento reduz em até 85% internações no SUS por fibrose cística&nbsp;&nbsp;Folha PE",
       "sources": [
         {
           "name": "www.gov.br",
@@ -318,14 +306,26 @@
       ]
     },
     {
-      "id": "8bd610899ab1",
-      "title": "Pela primeira vez, IA cria vírus que não existiam na natureza; entenda o avanço e os riscos - G1",
-      "published": "2026-08-06T19:38:04+00:00",
-      "summary": "Pela primeira vez, IA cria vírus que não existiam na natureza; entenda o avanço e os riscos&nbsp;&nbsp;G1",
+      "id": "cfe8d7ab2ca9",
+      "title": "Instituto de Pesquisas do Exército na Amazônia inicia primeira turma de Pós-Graduação - Exército Brasileiro",
+      "published": "2026-08-06T17:25:00+00:00",
+      "summary": "Instituto de Pesquisas do Exército na Amazônia inicia primeira turma de Pós-Graduação&nbsp;&nbsp;Exército Brasileiro",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOEJVeTU4RWkyam1jc0EybDBqLWJwcUx0bVYwM0NTbkZVZ3RVT2VxOEY5RHQwUWs1ZmMyd3F4LUFNZWdPLXFxVmFQLU9halI3TDIxX1Zad3htQm80b0tJQVYtSGltc0NzOEo1TnJnUldja3JFYWpJMWV1LU15UkYtZDlB0gGQAUFVX3lxTE92UW5rZy1xTS1iUGJQNGx6SEhOVjhhQzVabENqTjVBMVJHZ1hhbkxURWtyc3RyZWxjdTg3V1FZYlFOVXM3X3MxSnFSYXNZSEViMmJyUWhoNE5JcF9fenotcHlKSzBqdzV4Q0xEbzBTalRpbHRadUxZMGRNMkZzZlFqeHlSQWxIeDE0clE4ckdLNA?oc=5"
+          "name": "Exército Brasileiro",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNay1zR1FoY096bDVGbVhSQmthLXhoeEc5UVJ5TzZWT1llTFB3WGRjZGl0emxVT2hlWmFROEpnX3FMSnpneTlnQ0Jha3J2OXpJbEEwX3V2bno0M3RnUkFhYkItMng5bGhZWXRHR283VXZIYnVIWVVVcTRTcnoyLW1nLTlXUnd0aVJZSzRSUHdDQlg0QjFiNDdFTnVXT09KYUswaGdpb1lQMTU5aEZhWnpqQXdsR3dpaTdYc2FzRmJFbw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "87acfd495654",
+      "title": "Eclipse total do Sol na próxima semana vai permitir novas pesquisas sobre a atividade da estrela - Agora No Vale",
+      "published": "2026-08-06T16:41:49+00:00",
+      "summary": "Eclipse total do Sol na próxima semana vai permitir novas pesquisas sobre a atividade da estrela&nbsp;&nbsp;Agora No Vale",
+      "sources": [
+        {
+          "name": "Agora No Vale",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaHBSdzJ3eWd2RWxVMHVRYUdfUGQ1TlozZXdvRm5jUkRLa1dEZUZJT25IZlB4UkkxUnhjVEN5dWRTTDFQYVFfaHgxQ1JiZTNxVjBiNzB1b01QSkJ6MEdiVGhvZHdTZTZUMzdpcHJqcVBBcDZwdVBuMl9hN2lWSjZLTDczX2hvUnRkSkVqYmd2N2czZmhyU2YybEgwcnlTci00UFl6cF8tU0RNcUMwYUJ2ZGNpNlcteGtQSTFIRmVDdnhrNHF0OTJYRUpQSm94TDBGd2VHeVpR?oc=5"
         }
       ]
     },
@@ -342,18 +342,6 @@
       ]
     },
     {
-      "id": "2ec910ed3964",
-      "title": "Cientistas cassados pelo AI-5 são condecorados pesquisadores eméritos da Fiocruz - Aventuras na História",
-      "published": "2026-08-06T15:37:17+00:00",
-      "summary": "Cientistas cassados pelo AI-5 são condecorados pesquisadores eméritos da Fiocruz&nbsp;&nbsp;Aventuras na História",
-      "sources": [
-        {
-          "name": "Aventuras na História",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQT0FpbVA0cGtHcWxNOURfZ3NuemRkQ25ObmJWTDRGXzlYWU5DbVd4VHJteWlva05VX1FTSUQzcnNjbkJaMTVpM1I0Tmc3b0hhb0NVRm9LSTJnSl9kSmM0aWtwUnZPR2ZKVjJxNHpEX2ZFZHFzQ2lWMWJBOG45SlF2bUdEOUxsSk5kLTJLY1U4RVVPYktleXM2TVVTejlYVjQyLVUtb0t1TnA1LUR0eFlNQzRQOTVOVnVnM0ozTmo0OTdPWjFHbm9zZkQwMDNScjZZMjBhVnpyR0tHVVZr?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b563bf9cd563",
       "title": "'Não é câncer, é cálcio'; pacientes veem tumor avançar após médica indicar tratamento com testosterona - Folha de S.Paulo",
       "published": "2026-08-06T13:30:00+00:00",
@@ -366,13 +354,13 @@
       ]
     },
     {
-      "id": "bd8b183da5b2",
-      "title": "Herpes-zóster: veja o calendário de vacinação da 2ª dose na Sede Social e unidades regionais - afpesp.org.br",
+      "id": "f857564811fa",
+      "title": "Herpes-zóster: veja o calendário de vacinação da 2ª dose na Sede Social e unidades regionais - AFPESP",
       "published": "2026-08-06T13:26:55+00:00",
-      "summary": "Herpes-zóster: veja o calendário de vacinação da 2ª dose na Sede Social e unidades regionais&nbsp;&nbsp;afpesp.org.br",
+      "summary": "Herpes-zóster: veja o calendário de vacinação da 2ª dose na Sede Social e unidades regionais&nbsp;&nbsp;AFPESP",
       "sources": [
         {
-          "name": "afpesp.org.br",
+          "name": "AFPESP",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM1lxTE10b0Z5eGJ2bHF1UWhXeXZ0ZGVlcGU5STNqWDZrb3RmWTlxbmd0SWZTdGU5VVp0VjBjWWhfU1VUeTc2UThRXzRVUlJFYnNJenJsUFE4SEZMYkxZUkxCSGQwZTZMRS1yRnMza3VUVXQ2ei1WSXdqMGxaUktXMkpJTEo4ZVA5cFBuY0hITFJCeUNuRTAxMXhzeDVxekhieDB6bVAzWFZSRWFNTXExSEd3Wl9iQWlVM2x4bXBwOXNGcGpDMlhVc3JBeXFwZUJf?oc=5"
         }
       ]
@@ -386,42 +374,6 @@
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNnVlN2F6UVlCbzJrRUNWclhjeFpZOG1iaG1kT09PREhKb2lKTmdSbUwzcDBMZXgxUXI0Y3BPTDZfZGo0Um9nUDVQaDdtUnYwdkZiVU9mN082OVdMVGlUNEdiLUNwM0NEWTdfc1MtS2c5T2xIa2tEMlVPSVphbUpWZGlFM1FqTTdINi1zX0RPUGdYeF92MXVVNkJPQnBqTF9Pb1JwY3Y2WnlHM0YyNFZiQ0tzWE9kNDViTzEtUmlVREZVZzZSRjVrT3Bab3NnQzFOX2lOQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dfadd2124c8b",
-      "title": "Alerta nos mares: peixe-boi-marinho volta ao nível máximo de risco de extinção - VEJA",
-      "published": "2026-08-06T11:30:58+00:00",
-      "summary": "Alerta nos mares: peixe-boi-marinho volta ao nível máximo de risco de extinção&nbsp;&nbsp;VEJA",
-      "sources": [
-        {
-          "name": "VEJA",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNTdNbHdhVzFiQ0RsXy1jZmJvbjA0eENhallNc1lTemlSY0h6eW9GY3lMVHAtRVFVM01iTm5HdkpHNXZxMmRGcVNFdVBEd2FqaVhOeldGRURCbjFsN25NYXJENGZuclNDSHh1MlRqZlBoc2U0cmJfemd2c3dTNGdTTFhobU5CM3IycFk2X1IycUkyRU42LTN5dnRJQWFNREJNeFJodmk3SWxraXhpdHBxOGdn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a0f7f53313aa",
-      "title": "Treinamento de IA: como funciona, riscos e futuro - TecMundo",
-      "published": "2026-08-06T11:15:00+00:00",
-      "summary": "Treinamento de IA: como funciona, riscos e futuro&nbsp;&nbsp;TecMundo",
-      "sources": [
-        {
-          "name": "TecMundo",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcmZXNkJ4OG9tSU41WW9oWUgzTVEtbWZEZXBJWE1tcVc4UFZqVDNOdThVWDlqUXFZSEkyV05tZXp6WFhHU3F0M1Vod1JzYUREMDRaNlBzVjZzNDZieFdwdjZzZ09EVElpRWJTU0tIS3VlTUpZWDB1TC1qQzk1MzZobmYyQW9xaFJXeFV5TndENExWUWtZam9n?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4ca7011d1042",
-      "title": "Precisamos de tanta proteína? - O GLOBO",
-      "published": "2026-08-06T07:30:23+00:00",
-      "summary": "Precisamos de tanta proteína?&nbsp;&nbsp;O GLOBOProteína adicionada expande mercados e democratiza consumo&nbsp;&nbsp;meioemensagem.com.brNa meia-idade, comer mais proteína vegetal foi associado a uma chance maior de envelhecer com saúde&nbsp;&nbsp;Tua SaúdeSeu corpo precisa mesmo de tanta proteína? O que a ciência descobriu&nbsp;&nbsp;TerraProteínas ampliam espaço no mercado e desafiam indústria a unir inovação, sabor e escala&nbsp;&nbsp;foodconnection.com.br",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZnpPNkFKY2FNeG9IVTc3SnFDTXFHWUxsUXJLWElMQmg3ZWhrRW4xaGlqaGs3dEduZHFxeTA5RWV5dVlFWWVNTTZadlJ2VHRySDczWkJVU2h5dXI5MlVFclE3Z2h6eHRqTFdBVHlHX3lOdl9BX1RUekFVNUYzRWZUNmh2UnlkTzFWbUxydGt4Y1Z5RHNWbGQ2UXZrb9IBqgFBVV95cUxOZFFBaVh1cUxaa1BNRktOLUs4V3VWSHlGOVN3TENxazJpb25kajRWTEhDN2xXOEpsYURLN3huNk41VnBaUDlmcFFoaElDaUw2NXdCN3hPU2xvR3VDcExzSHpkeHBSS1h4SkpuWG52eE9yNVdHaElzOUcyQWtZaE1meHdJZGU5eUZpeFpiUFhXRHVjSkhncjN4S1RJYllqOUpIeEVGVDZ2YUdQdw?oc=5"
         }
       ]
     }
