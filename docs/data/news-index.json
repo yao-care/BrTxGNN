@@ -1,7 +1,34 @@
 {
-  "generated": "2026-08-09T01:51:12.442292+00:00",
-  "count": 46,
+  "generated": "2026-08-09T06:58:34.641838+00:00",
+  "count": 40,
   "news": [
+    {
+      "id": "2387d68feaf7",
+      "title": "Tornados são registrados em diferentes regiões do Paraná e deixam danos em ao menos cinco municípios neste sábado (8) - ND Mais",
+      "published": "2026-08-09T00:34:40+00:00",
+      "sources": [
+        {
+          "name": "ND Mais",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15M1VjRXo5X1BjdjBud2NJM0JveEVSby1wZi12VHNUQW5DemloZ2VGVWxuQ2VBTGVuWWk5WUI1N19sR25RZjNfUjh5OHFLaGdsSGNSN0NaWG85elN2N1NtdGI3aGZ1VDN4bVhR?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "diazepam",
+          "keyword": "UNI",
+          "name": "Diazepam",
+          "url": "/drugs/diazepam/"
+        },
+        {
+          "type": "drug",
+          "slug": "zinc",
+          "keyword": "UNI",
+          "name": "ZINC",
+          "url": "/drugs/zinc/"
+        }
+      ]
+    },
     {
       "id": "3f30d1e44acd",
       "title": "Paulistanos enfrentam filas para vacinação contra sarampo no primeiro sábado da campanha - O GLOBO",
@@ -110,12 +137,12 @@
       ]
     },
     {
-      "id": "8cea43611439",
-      "title": "Cientistas pintam vacas com listras de zebras para resolver mistério de 150 anos - Rádio Itatiaia",
+      "id": "b9a230be16f2",
+      "title": "Cientistas pintam vacas com listras de zebras para resolver mistério de 150 anos",
       "published": "2026-08-08T13:07:06+00:00",
       "sources": [
         {
-          "name": "Rádio Itatiaia",
+          "name": "itatiaia.com.br",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMnp5NEN6aDV1aE1reV8wMmViWEhpb2NsV2RadGc1cXVSek83WThuZ2w2UURwWV96UGh1MUNieGp5UF9BTHV6VEl4WXpIdldWYkVKNGdZeTNnbUdPTVFIMWtBdlM3VjFkWnFuRVhGSjd6d1ZXdXhHVWx3SGp6c1gteG1DQ3JvelptSE5pbi1WRUV0V3NpdDZLZUFFb1VRWUtYand3Q01Kb0JweGlxYzdMdS13blRSTlE?oc=5"
         }
       ],
@@ -171,32 +198,12 @@
       ]
     },
     {
-      "id": "62c2cab61a67",
-      "title": "Especialistas fazem alerta para fenômeno raro que vai acontecer no céu em 12/08 - Diário do Comércio",
-      "published": "2026-08-08T12:12:00+00:00",
-      "sources": [
-        {
-          "name": "Diário do Comércio",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZndGVmZ6NERRSm1CREZxZS1FWTE2Vk1BLXV5aHY5ZGR5T2lXM2hVOWpCVGV2ZFg5MW5hT2NocTdNcnNJQjZQX252UG1vU3ZXWHVIR3YwZ2t4c21LWnhFUklTSi16YnczVWsyWTNBUGNtNjUzSW9NQVpDZmJxajJoWnJsZzkxTno1Qk96VUJ1MDV4RVo0dmxUTjR1QUgxSFBwd05xTG5vZzB3MGFxNEFTRDhERnhTdFU?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "tadalafil",
-          "keyword": "CIALIS",
-          "name": "TADALAFIL",
-          "url": "/drugs/tadalafil/"
-        }
-      ]
-    },
-    {
-      "id": "ed000b6123b1",
-      "title": "Sabesp entrega estação de tratamento de esgoto em Cabreúva",
+      "id": "13dce1680416",
+      "title": "Sabesp entrega estação de tratamento de esgoto em Cabreúva - jornal da região",
       "published": "2026-08-08T11:35:02+00:00",
       "sources": [
         {
-          "name": "jr.jor.br",
+          "name": "jornal da região",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbThIUnlYV2ZCRzNFcW00ZUx4SnVfNERaZHFsajY3TDR2bkY5bUo2RWktQzVzTTQyRGdISEtVZ2NHWm9mOW11NDVKY21MX2g1cGpYQTZqa1Q0RFJGZWxJSkNaMU1MNXBDYUFTa2xRWXZxQzdfVTVKRjJ3OEd5SERZMElUQjk2ZHBOOEhublAtUG9kUQ?oc=5"
         }
       ],
@@ -657,12 +664,12 @@
       ]
     },
     {
-      "id": "eda74cd32f86",
-      "title": "Camarada Professor Lejeune",
+      "id": "43993a4ed679",
+      "title": "Camarada Professor Lejeune - Brasil 247",
       "published": "2026-08-08T09:30:00+00:00",
       "sources": [
         {
-          "name": "brasil247.com",
+          "name": "Brasil 247",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYeW5iTjBzX1JwVDBWcmFXam04RG1wM2RfVUhOd2todnU0WW9LcmdRVmtGN0poQ3pUM1gyd25TUU93LXJ6SmxZTG5oczl4RnZwcFRqb1lPbzFQV3ZvamRLTURtRzhaR3FwR3c?oc=5"
         }
       ],
@@ -1614,17 +1621,6 @@
           "keyword": "CIALIS",
           "name": "TADALAFIL",
           "url": "/drugs/tadalafil/"
-        },
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "AVC",
-          "related_drugs": [
-            {
-              "slug": "digoxin",
-              "name": "DIGOXIN"
-            }
-          ]
         }
       ]
     },
@@ -1669,12 +1665,12 @@
       ]
     },
     {
-      "id": "733f0a529aaa",
-      "title": "Vírus gerados por IA levantam debate sobre biossegurança - Revista Fórum",
+      "id": "2b026d4ad2a2",
+      "title": "Vírus gerados por IA levantam debate sobre biossegurança",
       "published": "2026-08-08T02:29:03+00:00",
       "sources": [
         {
-          "name": "Revista Fórum",
+          "name": "revistaforum.com.br",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ueWREQmxEMU9FcHlLLTl3Vl9DUF9XaEF1alBWWlFIckttV1hadjNuLTYzNVo2NE5kZlBmY0xiQ2xueGxxdkItVURlLUxJa0RGNHlYUkJhWmRhMExYdlJhcVNNeTY4UlROcjV4cWwxQVY4d2xnVXFwMFNrdmU?oc=5"
         }
       ],
@@ -1726,33 +1722,6 @@
           "keyword": "UNI",
           "name": "ZINC",
           "url": "/drugs/zinc/"
-        }
-      ]
-    },
-    {
-      "id": "5d47c0882521",
-      "title": "Insônia: 4 em cada 10 pessoas tomam medicamentos que não são indicados para o tratamento da doença, revela pesquisa",
-      "published": "2026-08-08T01:00:06+00:00",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNQzVBcWxPRUNaSk10R2ZKd1dtakRia2ZMNFpzczhQWVY3bjFvbE00dUlGRHNGTE8zTjZ0MG1jbGFuMnh4RkNLdnYxTjBqcmRWVTd6QlV6bWRHRGxpSmQ4SlRZTzRZanNwVkJ5OFNHYW5EOVZWay1GQ2dDYVVxRGNZUjhqTmxSWC1QNldDbDQyd0JuME03MWpHTF83c1l2TVVIRVQ4Q0dSeHItNXZlTmlpc0RoUzJETW5MejhxNXVwdklxaG9lLVRKXzM0TzZEanFQaUZhOEJ2dVd3aTEyWU9NdjdFclZ3M0dTMUx5ZXoybmQ1b25FTmJFOVRUQVI4RmR1NTlnVzV30gGUAkFVX3lxTE9mc0p5d194Z2Z0R2FMVEJXSzNfN2U2Y0tmTVFkZmFGTDJBdjNYUXBSa1lOQ181UElscl9qZ3RITlFvNUhSREIzcXZ3ckFBWDZBSVhSV3B0MllRbkRiZEZTMFBPTE9jXzFqeUlqVU9NS21vUjVGYnU1Q0lqNWx2RUZkaElpSWFWY25LYUgtZlg0ekUwakdHdHRvWXVqekVVTWptbjRwRDhNaE5KUWZfUlV2bGd0WWV5eVRrQ1VBdDF3VkMwZi1kTW00OW5TQ2tPbEJOQ04tb25SNEltWDNzeUFIOWRLcmU3QVNWcU1EWmp2WGtGM2h0NUtfeF9TdXp1Q0RTNEM5X2tjdVdmbW50dk9mekZjSA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "levetiracetam",
-          "keyword": "TAM",
-          "name": "LEVETIRACETAM",
-          "url": "/drugs/levetiracetam/"
-        },
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
         }
       ]
     },
@@ -1864,12 +1833,12 @@
       ]
     },
     {
-      "id": "37281f6199c6",
-      "title": "3 meses para o Enem 2026: confira assuntos que mais caem na prova - Vestibular – Brasil Escola",
+      "id": "c2515fa7b803",
+      "title": "3 meses para o Enem 2026: confira assuntos que mais caem na prova",
       "published": "2026-08-07T19:04:00+00:00",
       "sources": [
         {
-          "name": "Vestibular – Brasil Escola",
+          "name": "vestibular.brasilescola.uol.com.br",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORjRfNHNJSlhyZmE4YVg3VWsxR3duYnpkaGtUbld1T0NsOVJYdjV1eW15RE1acXNBXzUzVGxJN0pvSFY1OWZkTjJVOEpHVlhpVzVfZkRyRldESWlWbnh1c2hlMmFqVGg3TmZaclpPU3BKNVB3bnFYdXZZVUt6cVpOOGJIZ1FJQVVVQzdTYUZiX1U1dEIwQkIzeWpFVEZHYWpCNHJhQ0p3ZXc3cy1la0JCZjhoZ1NVSlE1eGVn0gHAAUFVX3lxTE8yQUdrV2lZMEJJRWpEMzl1cFMxQWl2S2hqSzdfRHRUeU13QnFvcDZwUmFsVUZFX0dPcmFPLUhEYm9vUThYVW1BVXFWSFV0dm85dTBaNXNrcmp5cHZMWDFwdS1LS1Y5WGJSZUxLUTFCSXJQZEtWdHJJcXF5cTN6Y1JocVRkMzdUT29GNk8zcWZGZHY0OGJIdFB0TkwxdVd4ZTY2YjJVdjNobXlncmxka2RBazJ4N2ZiTDhGcjJ6UDBRQQ?oc=5"
         }
       ],
@@ -1904,12 +1873,12 @@
       ]
     },
     {
-      "id": "159ae16b3e0b",
-      "title": "Quase 30% dos desertores da Coreia do Norte perto de área nuclear apresentam mutações genéticas, diz - Folha PE",
+      "id": "96b6c34d977a",
+      "title": "Quase 30% dos desertores da Coreia do Norte perto de área nuclear apresentam mutações genéticas, diz",
       "published": "2026-08-07T18:36:00+00:00",
       "sources": [
         {
-          "name": "Folha PE",
+          "name": "folhape.com.br",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZmpQbC10aU1IN1l1SHVfT3dBSWZUeGp3MmNmZDhUYXgtR2NFdk9FZDFyVXNsTGRHSkFHdFVtR2RJWm9QLWVYQXIwWTdMQnV0SS1fdXNHRzVBX3g5ZGFWUTAxdDdSYWNiZXhxanhpR0FHVTF4MXA4V1NOYVE2dTJrM3FZdlZwM3A0SWFZSGR2VkxBdk04V1Y3VUtjVndxajJiWnEzWTVvVTBjRFhR0gGwAUFVX3lxTE5sd1JkSDVIeWEzSGNBa1BSbGFRdFlsdS1lX1dsbjRieVJhdlZVc2VVaDRSRGI0T0UxVV9HdnFTZkJNSnd6SENlNTZtSThRY09LZ0dDM2tWVUFocXpQMVhnQXl2NGVMUFhQTHVmeV9kdDNzdk5wcTRQbzdqQmNHb3VRcU9pNERDREUzUEhlUzFXTkxoLUI2TUNTLWhLQVZZQ3JENHFmT1NGaHRYeUxwLUZx?oc=5"
         }
       ],
@@ -2356,39 +2325,12 @@
       ]
     },
     {
-      "id": "5c587f5134a5",
-      "title": "Tubarão bioluminescente pode usar o próprio brilho para caçar presas",
-      "published": "2026-08-07T16:31:00+00:00",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3eE1pbzM5R09zNEZFZVR6YXFFSmtVMDNhWC0zTGQ3TVYwWnpfMUxlQ0w1VnRfcDJMYU5Ecml6RENORmtsSzE4bnJSMHg0Y09VdjBEaGtSUVZBUnp3UVZUSVVqMFBLWlRaclR0OW4zeFI3MkNFR1FjRFFESGk?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "golimumabe",
-          "keyword": "BIO",
-          "name": "GOLIMUMABE",
-          "url": "/drugs/golimumabe/"
-        },
-        {
-          "type": "drug",
-          "slug": "etanercepte",
-          "keyword": "BIO",
-          "name": "ETANERCEPTE",
-          "url": "/drugs/etanercepte/"
-        }
-      ]
-    },
-    {
-      "id": "07f85930d981",
+      "id": "b9769c3ca3dc",
       "title": "'Virou minha criança': ela mudou de vida para cuidar do marido com demência",
       "published": "2026-08-07T15:59:03+00:00",
       "sources": [
         {
-          "name": "uol.com.br",
+          "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTmpWOTNZOGpXNzBHbnpxb0c2Wkg1cDY2YV9JeUlzRnJSdWh6YUg3YlkyR3Q3YXIyWC1SM3BfbzVqUzRjYktqMXdPVkpoUm9zWFA5QXM1QVl3TklCRUh0MnFxM01pZk56OWh1SlM0QUhZbDBEUjhWTjM0NFk5elFwbi1ROHluZTFrRDYwLUE3T2hMbmp3VWRoOXVSSGwwX091c2Vva3VqY3BreXYyUEtKaEVoMUNQSVhxMWpwWGFsVjhuU3U0aUZXRUlsYmNIdw?oc=5"
         }
       ],
@@ -2419,59 +2361,12 @@
       ]
     },
     {
-      "id": "2e893469c420",
-      "title": "Varginha classifica 102 alunos da rede municipal para a 2ª fase da OBMEP - Varginha Online",
-      "published": "2026-08-07T15:16:46+00:00",
-      "sources": [
-        {
-          "name": "Varginha Online",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ2dydkliWEJkVW9tZjU2djdtaXpEUk9GMFBGZDJLNTRnQ0Q5TnFKMGIxOFNQWjdUTk8yZ01GTkVjWEpjaWhNczFzUzlFYnNxNnhpU0ZzZ2xvUndrYXJQRDFrNnMtVEpLbllpczV6VDRYX210OFo2dTRveVZGRDNqa2xsbUVtTTBnSDdQYXp6VnY3ZlBFOTlUQ0lZR0VyZw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "diazepam",
-          "keyword": "UNI",
-          "name": "Diazepam",
-          "url": "/drugs/diazepam/"
-        },
-        {
-          "type": "drug",
-          "slug": "zinc",
-          "keyword": "UNI",
-          "name": "ZINC",
-          "url": "/drugs/zinc/"
-        }
-      ]
-    },
-    {
-      "id": "da42e79433e2",
-      "title": "Um ônibus espacial de quase 24 metros deixou o aeroporto, percorreu ruas de Los Angeles durante dois dias a apenas 3 km/h e transformou uma operação logística em espetáculo para milhares de pessoas - CPG Click Petróleo e Gás",
-      "published": "2026-08-07T15:13:00+00:00",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPY0Z6RW9oRWN0TUtUR0Z6WFd1SGFhbDBiN05USWloMm0yaGo5WGd5MnczenhNY3diVk5zenM2d0tETzBJX0NDdk9jeTNJekhmWGp2WE9ZUHBia2hIaTRzUTIzcU9LMFJzbEZGSVBRMzd2aGZLZmJhU3g0VlVYQTRmbWVwZ284TnFNWFBObmQtd0JnbnN4T2RXMmpUWE5vbV9UeVF1WmJUeGNUNGRnSXBaOGc0MkxqUnQyT3h3RE1zUXJRak40N1RPb2VzMmQ4UkNIT3dMX3NtQUhWQXFiRndTRjFCRmJnU3NHblhVR0VYRTAwVFN1U1Rkc3JMTjFEX2Z4UkFtX3BmVkRWYkt0eG1ySFdCbWJBNzZrVV9WczJ2T01aN0dEWVJhZ2o4ckZqcUozRmhUVTJ3X19ZSTAwMXBPOUVMWkNHZ1k?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "salbutamol",
-          "keyword": "AERO",
-          "name": "Salbutamol",
-          "url": "/drugs/salbutamol/"
-        }
-      ]
-    },
-    {
-      "id": "b45958b5dc5d",
+      "id": "5660fe6d04e9",
       "title": "Ministério da Saúde reforça vacinação de crianças e adolescentes contra sarampo, pneumonias e outras doenças",
       "published": "2026-08-07T14:47:00+00:00",
       "sources": [
         {
-          "name": "www.gov.br",
+          "name": "gov.br",
           "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZkhpRWZ2ak1xcnBUUTRHM3FWejhSNGJ0cS1DaXhNVGQtXzdUM2drV0RmcEluVDdXS1JZMG5SOW5OMUxIdEQwenFtNFlWdzBCd0tmUWxaY2FaTllSdzBjWXhZeldvSElpc3FiQVdsX0tzU3hNTkZXRUhSamRhN1l6RWtTS0QzRVFIQkU0U0RYVGt3UFd4eHZvUC02T2F1WXROblUzUHJNd0RIcDhpZUFsVmQ1RmtaNlM3NDR4QmZsUDBMQ0tqTl8zQXVPR0xkY1FNc3JlU05JazhYY3VuZkR1RnZGQTNtMFFQQjVkNHM3eUs0RUs4NHpDS3V0NzVldVkz?oc=5"
         }
       ],
@@ -2525,22 +2420,22 @@
       ]
     },
     {
-      "id": "f3496568bb24",
-      "title": "Mirando diretamente nos satélites, Rússia apresenta seu sistema para barrar a rede da Starlink",
-      "published": "2026-08-07T14:08:00+00:00",
+      "id": "61a38ec4dbaa",
+      "title": "Rio renova acordo por 25 anos com 'Cacique Cobra Coral' em meio ao El Niño - CNN Brasil",
+      "published": "2026-08-07T14:36:35+00:00",
       "sources": [
         {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPMXV6bHozSWszdjFialVxOVByY29EOFhqVlZXWERqSHNtaW92ellCelREQzNMWTV3UHlJcGdPLUNRbTByOHY0TXNHZUo1emo3cTBkNG8zOHFxdnRUOFlUR0JJZ1RKT1pROE5rNEhUVlJONk5xaGhnS0h2bTk5bGsxYkxJUkdXMU9qTmlQbFJ1elZoMjdVb3JrTXhSMkFYbVVXeFJHaHVFeG10RUp3d1NqeVZNeVRXUWpIc1FSTjYxaHprRGpLUmhSNHhXM2dvMGV2TUhjeWdGWVREUFZfUXdFWEQ0VUFRM252NjRTazB6Ulh6Sm5RU3FaUEI4Y1dDdw?oc=5"
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQkpRbUtGOEYwdlg1emFoVHVHN2Z0bWZCRzBDYlZPWUFvR3N1TmxMSERlb1NMSXRUUHlSUzlTMUJlX0NLV0M0aGdSb1JRVXdLelRnOGVUUHVVYjRyX1o1bV9FR1FNSTMyMG05UFJ4aG5CS1Q2Q2w4N3ViWE5fT0cySGs3R2pGUjdieWtNX3BmMWZ0M2ZkYktOY29yWk1MQWNZMG5hdmRxOThYaFdrSjYxN19GT2JBNGxBRmp6X1l6NA?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "drug",
-          "slug": "levetiracetam",
-          "keyword": "TAM",
-          "name": "LEVETIRACETAM",
-          "url": "/drugs/levetiracetam/"
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
         }
       ]
     },
@@ -2575,33 +2470,6 @@
           "keyword": "SIL",
           "name": "SILODOSINA",
           "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
-      "id": "79bd447dba89",
-      "title": "A chance de sobrevivência de um animal que desenvolveu raiva herbívora é praticamente nula. Mais de 10 animais morreram com a suspeita da doença em Crissiumal - Observador Regional",
-      "published": "2026-08-07T12:19:00+00:00",
-      "sources": [
-        {
-          "name": "Observador Regional",
-          "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOSjljdFF3X1RSYnNBUWtnTm9kQmRtSy1ONkZfclJ1R3AxaUo1djlKTVVSTHRIWGxPaWJzTjVoREYxM2VraXNqYzJUMGh1TERpN2E2LURXLU0yOS1Oc0RER3lDUkVpTDFuZXZ3V016ZDZ4NzZ0OTNMWWFQYXpaNXlwdDJBSmZMRXRXQ2xsRzg5a2lnaG05WlI4bE9xVHNqWFJidjRvSG4yczBYanRqQmlvclRSVnpuSHE3V2hIYUZZbm9GUi1vdmJwMTViQnY0b2htakl0M2tjS2ROUjFXYThremhmWUZOTmYxdGhiSktfRXMwVV9BWmJzVldpNGE3ODBrSjNvTkllU25DczRranV3bjR6cHpOcnlDZWs0OGxUMjlvUQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "diazepam",
-          "keyword": "UNI",
-          "name": "Diazepam",
-          "url": "/drugs/diazepam/"
-        },
-        {
-          "type": "drug",
-          "slug": "zinc",
-          "keyword": "UNI",
-          "name": "ZINC",
-          "url": "/drugs/zinc/"
         }
       ]
     },
@@ -2642,26 +2510,6 @@
           "keyword": "TAM",
           "name": "LEVETIRACETAM",
           "url": "/drugs/levetiracetam/"
-        }
-      ]
-    },
-    {
-      "id": "c78cdce591ff",
-      "title": "Um asteroide de 10 km transformou a Terra em um forno duas horas antes do grande inverno glacial - Meteored Brasil",
-      "published": "2026-08-07T08:46:00+00:00",
-      "sources": [
-        {
-          "name": "Meteored Brasil",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaXJuckxGSDVRc0tnc0c2enZMNmZZYlNyXzJzSDRVYVRqN3c5R2Y4WFk2Y25aZ0ZnYU95elFYRTBPc2Vid3k4MWZaWU1ZNmNqYS1ySUdtV2VEMXZIYzBJb1B1SDlIOTc5VmV4TUtrTVZ4MzVaeE5RMk1WSThEZjVTei1xRXhqeHRFOUNjNEYtUWZ4bzBOcXdoQmRRY2xQeDVZTzJRYU52eDZ5TlpmeXNxUnVEMTJ4RXE1bEdaRUwwVVp0Vk4xRGtwd2x4QjZiUVhQSElseDE3TQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
         }
       ]
     },

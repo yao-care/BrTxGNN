@@ -1,9 +1,9 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-08-09T01:51:10.464159+00:00",
-  "total_fetched": 96,
-  "unique_count": 96,
-  "health_related_count": 41,
+  "fetched_at": "2026-08-09T06:58:32.881841+00:00",
+  "total_fetched": 89,
+  "unique_count": 89,
+  "health_related_count": 36,
   "news": [
     {
       "id": "3f30d1e44acd",
@@ -54,6 +54,18 @@
       ]
     },
     {
+      "id": "53e6acb5dffe",
+      "title": "O que uma palmeira amazônica pode ensinar sobre inovação em saúde - Estadão",
+      "published": "2026-08-08T18:00:00+00:00",
+      "summary": "O que uma palmeira amazônica pode ensinar sobre inovação em saúde&nbsp;&nbsp;Estadão",
+      "sources": [
+        {
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUTBPZl9pSjRqQ25Ob2ZJRGdBLUZ6cjdZdzlxZjVvNXRVTUhxUVIzNERSVzJJWFNzMkdrYXZaUDNiTEQxeUV0bklsOFRHejJuekl4dzVMTU9oVGJZUkZ2VVRJRFQtVnBreUtzM1QwRDhQWTBVMWQ1cFptd1R6YTFiVDZFTDIyUFlGTlp5ZDhDUmJ2SFgtcnJ1RjAxSlBLOTd3MUl1cGNBUk1oWWlIeDU3WkduWWozY3dO0gG-AUFVX3lxTE1HYjFaSVU2b2hkZExaT1hyWEdvVGVkaHFkU1NmVmRYNlQ2WksyTXRjYXloVGJCeG1qdm5RcGVEdzFwekNEbFluRzl5TmVTLUIwN2poQnVXcm42SnMtM3h2QThvMTRUOUpBNXlIc2t0UUo4d1RIUXp2SWJBMDJRVFVHcnNTR2ZrY21tUjJjUHpGeE5wS19VVEdoeC1yTGlwc0x1NjBSSVlsRUdNM0pMSm10WFgtRWtuV2JyS2lfYnc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "6a28eb5ecd37",
       "title": "Polilaminina brasileira apresenta melhora neurológica em 6 de 8 pacientes com lesão medular completa, resultado de 75% no primeiro estudo em humanos, e pesquisa da UFRJ ganha publicação na revista científica internacional Spinal Cord enquanto nov - CPG Click Petróleo e Gás",
       "published": "2026-08-08T16:33:00+00:00",
@@ -90,37 +102,13 @@
       ]
     },
     {
-      "id": "952de300975f",
-      "title": "Rodrigo Ratier: Professores não sabem avaliar, revela pesquisa - UOL Notícias",
-      "published": "2026-08-08T12:30:00+00:00",
-      "summary": "Rodrigo Ratier: Professores não sabem avaliar, revela pesquisa&nbsp;&nbsp;UOL Notícias",
-      "sources": [
-        {
-          "name": "UOL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOckV5NlhoRjhfOGlLYUpaTlNXTWpOblZvSkI0cDM2bHM2NXpmNThBckp4cU9JLVVqZmlNbnl6NXlyQWJmZVFBc2ZVUzhVa0JQaWdqN0Q4QlNqV0o5OWlmTWVWeFhrVGo4ZjZpX281aXhLSzRneDk1MGtWbkFLR0kzRGdKLVVuNU9NeEplbjFiSkM0TmV3VVI1NlQ2bUwxWjZHSlIwUVVzYUZoN3F6bjdIdA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7ca04352ee67",
-      "title": "Não é sangue doce: biólogo explica por que algumas pessoas atraem mais mosquitos - Portal 6",
-      "published": "2026-08-08T12:04:17+00:00",
-      "summary": "Não é sangue doce: biólogo explica por que algumas pessoas atraem mais mosquitos&nbsp;&nbsp;Portal 6Por que mosquitos picam mais algumas pessoas do que outras? Estudo investigou&nbsp;&nbsp;GloboÉ verdade que algumas pessoas atraem mais mosquitos? É o que diz um novo estudo&nbsp;&nbsp;SuperinteressanteCientistas revelam o verdadeiro motivo que faz algumas pessoas virarem \"ímã\" de mosquitos&nbsp;&nbsp;Dourados NewsCiência finalmente consegue explicar por que mosquitos picam mais algumas pessoas do",
-      "sources": [
-        {
-          "name": "Portal 6",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQemM0MWZSSDU1aEYzaXVKNnVWd0lnQjJDWmdDUzFIU1d4V2ROU0VCUXJ2aWQyaDFwZmZxVHU1OS1QRFNKUnZNMlBRbHRYbElGcWdzR2pPVGpkVkUtRjRDbEVGSXBqeVN5cFJJb2tPV2M4dkFoRk9ENWJIR3JFVk5tXzA3RExfQkw4NXRHZjE1RWFVQm0zb0NpZ3FCaUx1NmUwSTd6c0VTU1gwbG9KeTR2UVoyd1Y?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ed000b6123b1",
-      "title": "Sabesp entrega estação de tratamento de esgoto em Cabreúva - jr.jor.br",
+      "id": "13dce1680416",
+      "title": "Sabesp entrega estação de tratamento de esgoto em Cabreúva - jornal da região",
       "published": "2026-08-08T11:35:02+00:00",
-      "summary": "Sabesp entrega estação de tratamento de esgoto em Cabreúva&nbsp;&nbsp;jr.jor.br",
+      "summary": "Sabesp entrega estação de tratamento de esgoto em Cabreúva&nbsp;&nbsp;jornal da região",
       "sources": [
         {
-          "name": "jr.jor.br",
+          "name": "jornal da região",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbThIUnlYV2ZCRzNFcW00ZUx4SnVfNERaZHFsajY3TDR2bkY5bUo2RWktQzVzTTQyRGdISEtVZ2NHWm9mOW11NDVKY21MX2g1cGpYQTZqa1Q0RFJGZWxJSkNaMU1MNXBDYUFTa2xRWXZxQzdfVTVKRjJ3OEd5SERZMElUQjk2ZHBOOEhublAtUG9kUQ?oc=5"
         }
       ]
@@ -165,11 +153,23 @@
       "id": "0c4ba50030ee",
       "title": "'Organismo pode rejeitar': médico faz alerta sobre 'canetas' falsificadas - UOL Notícias",
       "published": "2026-08-08T08:30:00+00:00",
-      "summary": "'Organismo pode rejeitar': médico faz alerta sobre 'canetas' falsificadas&nbsp;&nbsp;UOL NotíciasCanetas emagrecedoras escancaram luta desigual por acesso à saúde no Brasil&nbsp;&nbsp;G1Não basta emagrecer: consenso aponta novos cuidados no tratamento com canetas para obesidade&nbsp;&nbsp;Estadão7 erros mais comuns de quem usa canetas emagrecedoras&nbsp;&nbsp;Assine AbrilMÉDICA ESCLARECE: CANETAS EMAGRECEDORAS PODEM REDUZIR RISCO DE DESENVOLVIMENTO DO CÂNCER DE MAMA?&nbsp;&nbsp;FaxAju",
+      "summary": "'Organismo pode rejeitar': médico faz alerta sobre 'canetas' falsificadas&nbsp;&nbsp;UOL NotíciasCanetas emagrecedoras escancaram luta desigual por acesso à saúde no Brasil&nbsp;&nbsp;G1Não basta emagrecer: consenso aponta novos cuidados no tratamento com canetas para obesidade&nbsp;&nbsp;Estadão7 erros mais comuns de quem usa canetas emagrecedoras&nbsp;&nbsp;boaforma.abril.com.brMÉDICA ESCLARECE: CANETAS EMAGRECEDORAS PODEM REDUZIR RISCO DE DESENVOLVIMENTO DO CÂNCER DE MAMA?&nbsp;&nbsp;FaxAju",
       "sources": [
         {
           "name": "UOL Notícias",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNmRsbjhqeFJpRFZrb2Q0b2VjbTluYTJ5dXRKTGZGOUZnTW5lekpMTHU3SWZtSXpQTHNIcXg5Mkw2VmZqSHp4WERySG5ETTFySWlYSTJ2WlFnX0paMWQxOTRtS3ItMnVUTnl3Q1ZSM2lycVUzMUhqZW9lZFpleXJnTFhHdjcwRFZ3bWF0SlpsYmpsUU5PNFNjR3JIX0FLX1lZOUF2TEZST2d0QkZqQkFGLW5DcU03ZWozYmJsNzg3NXVMTjRVcUpZLTFGcThqMkxsQ3VF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "952de300975f",
+      "title": "Rodrigo Ratier: Professores não sabem avaliar, revela pesquisa - UOL Notícias",
+      "published": "2026-08-08T08:30:00+00:00",
+      "summary": "Rodrigo Ratier: Professores não sabem avaliar, revela pesquisa&nbsp;&nbsp;UOL Notícias",
+      "sources": [
+        {
+          "name": "UOL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOckV5NlhoRjhfOGlLYUpaTlNXTWpOblZvSkI0cDM2bHM2NXpmNThBckp4cU9JLVVqZmlNbnl6NXlyQWJmZVFBc2ZVUzhVa0JQaWdqN0Q4QlNqV0o5OWlmTWVWeFhrVGo4ZjZpX281aXhLSzRneDk1MGtWbkFLR0kzRGdKLVVuNU9NeEplbjFiSkM0TmV3VVI1NlQ2bUwxWjZHSlIwUVVzYUZoN3F6bjdIdA?oc=5"
         }
       ]
     },
@@ -201,7 +201,7 @@
       "id": "bf3b114f5496",
       "title": "Não tem como fugir da dieta e da atividade física para reduzir o colesterol, dizem especialistas - Folha de S.Paulo",
       "published": "2026-08-08T07:00:00+00:00",
-      "summary": "Não tem como fugir da dieta e da atividade física para reduzir o colesterol, dizem especialistas&nbsp;&nbsp;Folha de S.PauloColesterol alto aumenta risco de doenças do coração e AVC&nbsp;&nbsp;G1Excesso de gordura no sangue&nbsp;&nbsp;portal.al.go.leg.brConfira os resultados das loterias desta sexta&nbsp;&nbsp;GZHPor que olhar apenas o \"colesterol ruim\" nem sempre é suficiente&nbsp;&nbsp;CNN Brasil",
+      "summary": "Não tem como fugir da dieta e da atividade física para reduzir o colesterol, dizem especialistas&nbsp;&nbsp;Folha de S.PauloExcesso de gordura no sangue&nbsp;&nbsp;Portal da AlegoPor que olhar apenas o \"colesterol ruim\" nem sempre é suficiente&nbsp;&nbsp;CNN BrasilPrevenção e controle do colesterol: o que mudou em 2026&nbsp;&nbsp;newslab.com.brColesterol alto: entenda as causas e os riscos para a saúde do coração&nbsp;&nbsp;CartaCapital",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -234,26 +234,14 @@
       ]
     },
     {
-      "id": "733f0a529aaa",
-      "title": "Vírus gerados por IA levantam debate sobre biossegurança - Revista Fórum",
+      "id": "2b026d4ad2a2",
+      "title": "Vírus gerados por IA levantam debate sobre biossegurança - revistaforum.com.br",
       "published": "2026-08-08T02:29:03+00:00",
-      "summary": "Vírus gerados por IA levantam debate sobre biossegurança&nbsp;&nbsp;Revista Fórum",
+      "summary": "Vírus gerados por IA levantam debate sobre biossegurança&nbsp;&nbsp;revistaforum.com.br",
       "sources": [
         {
-          "name": "Revista Fórum",
+          "name": "revistaforum.com.br",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ueWREQmxEMU9FcHlLLTl3Vl9DUF9XaEF1alBWWlFIckttV1hadjNuLTYzNVo2NE5kZlBmY0xiQ2xueGxxdkItVURlLUxJa0RGNHlYUkJhWmRhMExYdlJhcVNNeTY4UlROcjV4cWwxQVY4d2xnVXFwMFNrdmU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5d47c0882521",
-      "title": "Insônia: 4 em cada 10 pessoas tomam medicamentos que não são indicados para o tratamento da doença, revela pesquisa - G1",
-      "published": "2026-08-08T01:00:06+00:00",
-      "summary": "Insônia: 4 em cada 10 pessoas tomam medicamentos que não são indicados para o tratamento da doença, revela pesquisa&nbsp;&nbsp;G1Seis em cada dez adultos usam medicamentos para dormir, aponta USP&nbsp;&nbsp;ICTQInsônia: a solução não deveria estar (apenas) nos medicamentos&nbsp;&nbsp;Outras PalavrasUSP alerta para uso prolongado de remédios entre pacientes com insônia&nbsp;&nbsp;Diário do Centro do MundoBrasileiros estão tomando muito remédio para dormir, aponta estudo da USP&nbsp;&nbsp;Medicina",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNQzVBcWxPRUNaSk10R2ZKd1dtakRia2ZMNFpzczhQWVY3bjFvbE00dUlGRHNGTE8zTjZ0MG1jbGFuMnh4RkNLdnYxTjBqcmRWVTd6QlV6bWRHRGxpSmQ4SlRZTzRZanNwVkJ5OFNHYW5EOVZWay1GQ2dDYVVxRGNZUjhqTmxSWC1QNldDbDQyd0JuME03MWpHTF83c1l2TVVIRVQ4Q0dSeHItNXZlTmlpc0RoUzJETW5MejhxNXVwdklxaG9lLVRKXzM0TzZEanFQaUZhOEJ2dVd3aTEyWU9NdjdFclZ3M0dTMUx5ZXoybmQ1b25FTmJFOVRUQVI4RmR1NTlnVzV30gGUAkFVX3lxTE9mc0p5d194Z2Z0R2FMVEJXSzNfN2U2Y0tmTVFkZmFGTDJBdjNYUXBSa1lOQ181UElscl9qZ3RITlFvNUhSREIzcXZ3ckFBWDZBSVhSV3B0MllRbkRiZEZTMFBPTE9jXzFqeUlqVU9NS21vUjVGYnU1Q0lqNWx2RUZkaElpSWFWY25LYUgtZlg0ekUwakdHdHRvWXVqekVVTWptbjRwRDhNaE5KUWZfUlV2bGd0WWV5eVRrQ1VBdDF3VkMwZi1kTW00OW5TQ2tPbEJOQ04tb25SNEltWDNzeUFIOWRLcmU3QVNWcU1EWmp2WGtGM2h0NUtfeF9TdXp1Q0RTNEM5X2tjdVdmbW50dk9mekZjSA?oc=5"
         }
       ]
     },
@@ -270,13 +258,13 @@
       ]
     },
     {
-      "id": "23ee2c2709e3",
-      "title": "As desigualdades educacionais começam na primeira infância - nexojornal.com.br",
+      "id": "cd2a77f61ed4",
+      "title": "As desigualdades educacionais começam na primeira infância - Nexo Jornal",
       "published": "2026-08-07T23:12:27+00:00",
-      "summary": "As desigualdades educacionais começam na primeira infância&nbsp;&nbsp;nexojornal.com.br",
+      "summary": "As desigualdades educacionais começam na primeira infância&nbsp;&nbsp;Nexo Jornal",
       "sources": [
         {
-          "name": "nexojornal.com.br",
+          "name": "Nexo Jornal",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSVdzeEZOUjk5eVVtVEVuQ2FZUWNXaGVHQXZyaU51VFVFN0k2ZGZwTTg2Q3pQXzJVNHJfZ1owenBlcDZFcFpEV2R2ZmxLSDk1bnN4ajF5cEx5R3U0U0IwN1c5bktIcXpXdmhnYXVNSmpESGlhcllucFFVeUdXRnNsamM2eE5pU3lQdFE?oc=5"
         }
       ]
@@ -345,7 +333,7 @@
       "id": "13f2654e3188",
       "title": "Colonoscopia: por que fazer, a partir de qual idade e quando repetir o exame - Jornal Correio",
       "published": "2026-08-07T18:27:08+00:00",
-      "summary": "Colonoscopia: por que fazer, a partir de qual idade e quando repetir o exame&nbsp;&nbsp;Jornal CorreioCâncer de estômago é cada vez mais comum em adultos jovens&nbsp;&nbsp;TerraColonoscopia: benefícios superam de longe os riscos&nbsp;&nbsp;VEJACâncer de intestino: Renata Abreu reforça importância da conscientização para diagnóstico precoce&nbsp;&nbsp;PODE - PodemosColonoscopia sem medo: o exame que salva vidas não deve ser adiado&nbsp;&nbsp;O Bom da Notícia",
+      "summary": "Colonoscopia: por que fazer, a partir de qual idade e quando repetir o exame&nbsp;&nbsp;Jornal CorreioCâncer de estômago é cada vez mais comum em adultos jovens&nbsp;&nbsp;TerraColonoscopia: benefícios superam de longe os riscos&nbsp;&nbsp;VEJACâncer de intestino: Renata Abreu reforça importância da conscientização para diagnóstico precoce&nbsp;&nbsp;PODE - PodemosColonoscopia sem medo: o exame que salva vidas não deve ser adiado&nbsp;&nbsp;obomdanoticia.com.br",
       "sources": [
         {
           "name": "Jornal Correio",
@@ -357,7 +345,7 @@
       "id": "0bb50c9c514b",
       "title": "Guarapari emite alerta de saúde para aumento de casos de catapora - A Gazeta",
       "published": "2026-08-07T17:40:00+00:00",
-      "summary": "Guarapari emite alerta de saúde para aumento de casos de catapora&nbsp;&nbsp;A GazetaCasos de catapora aumentam em Guarapari&nbsp;&nbsp;G1Marataízes reforça ações para conter surto de catapora nas escolas&nbsp;&nbsp;diaadiaes.com.brGuarapari emite alerta de aumento de casos de catapora; veja sintomas e prevenção&nbsp;&nbsp;Folha VitóriaGuarapari registra aumento de casos de catapora e faz alerta para vacinação&nbsp;&nbsp;ES Hoje",
+      "summary": "Guarapari emite alerta de saúde para aumento de casos de catapora&nbsp;&nbsp;A GazetaCasos de catapora aumentam em Guarapari&nbsp;&nbsp;G1Marataízes reforça ações para conter surto de catapora nas escolas&nbsp;&nbsp;diaadiaes.com.brGuarapari emite alerta de aumento de casos de catapora; veja sintomas e prevenção&nbsp;&nbsp;Folha VitóriaGuarapari registra aumento de casos de catapora e faz alerta para vacinação&nbsp;&nbsp;eshoje.com.br",
       "sources": [
         {
           "name": "A Gazeta",
@@ -366,13 +354,13 @@
       ]
     },
     {
-      "id": "52d9a178073a",
-      "title": "Os alimentos com maior presença de agrotóxicos e o alerta de \"químicos eternos\", segundo novo estudo - Revista Fórum",
+      "id": "1140b41fa87f",
+      "title": "Os alimentos com maior presença de agrotóxicos e o alerta de \"químicos eternos\", segundo novo estudo - revistaforum.com.br",
       "published": "2026-08-07T17:08:53+00:00",
-      "summary": "Os alimentos com maior presença de agrotóxicos e o alerta de \"químicos eternos\", segundo novo estudo&nbsp;&nbsp;Revista Fórum",
+      "summary": "Os alimentos com maior presença de agrotóxicos e o alerta de \"químicos eternos\", segundo novo estudo&nbsp;&nbsp;revistaforum.com.br",
       "sources": [
         {
-          "name": "Revista Fórum",
+          "name": "revistaforum.com.br",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaUZSNlZkVTFyaGNwOGRvRkQ0ckNQampiNmhYUHl0N2twcEZsNkFPOXZlWmlMdkUxVjBTZkxGeFY3YTNPMjlDWFM0ZkNqREo4VFBBUVYxVFprbTJZZU8zUl92dmRHLUpNMVk2YWVrYm9paEZpTHNkTVpMZE01Zk5qNVhhcDhObXBrSHpOS2pBVEdBRkxYNEFSb0dxbks0aGxIbzB6ckxvOGdzbzBSYm40eVRPSDhtVUhGLTVvcXJuMVhLZ3J2LXVkaU1LR0tRSXpvUDNsMQ?oc=5"
         }
       ]
@@ -402,38 +390,26 @@
       ]
     },
     {
-      "id": "07f85930d981",
-      "title": "'Virou minha criança': ela mudou de vida para cuidar do marido com demência - uol.com.br",
+      "id": "b9769c3ca3dc",
+      "title": "'Virou minha criança': ela mudou de vida para cuidar do marido com demência - UOL",
       "published": "2026-08-07T15:59:03+00:00",
-      "summary": "'Virou minha criança': ela mudou de vida para cuidar do marido com demência&nbsp;&nbsp;uol.com.br",
+      "summary": "'Virou minha criança': ela mudou de vida para cuidar do marido com demência&nbsp;&nbsp;UOL",
       "sources": [
         {
-          "name": "uol.com.br",
+          "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTmpWOTNZOGpXNzBHbnpxb0c2Wkg1cDY2YV9JeUlzRnJSdWh6YUg3YlkyR3Q3YXIyWC1SM3BfbzVqUzRjYktqMXdPVkpoUm9zWFA5QXM1QVl3TklCRUh0MnFxM01pZk56OWh1SlM0QUhZbDBEUjhWTjM0NFk5elFwbi1ROHluZTFrRDYwLUE3T2hMbmp3VWRoOXVSSGwwX091c2Vva3VqY3BreXYyUEtKaEVoMUNQSVhxMWpwWGFsVjhuU3U0aUZXRUlsYmNIdw?oc=5"
         }
       ]
     },
     {
-      "id": "b45958b5dc5d",
-      "title": "Ministério da Saúde reforça vacinação de crianças e adolescentes contra sarampo, pneumonias e outras doenças - www.gov.br",
+      "id": "5660fe6d04e9",
+      "title": "Ministério da Saúde reforça vacinação de crianças e adolescentes contra sarampo, pneumonias e outras doenças - gov.br",
       "published": "2026-08-07T14:47:00+00:00",
-      "summary": "Ministério da Saúde reforça vacinação de crianças e adolescentes contra sarampo, pneumonias e outras doenças&nbsp;&nbsp;www.gov.brBH realiza 'Dia D' da Campanha Nacional de Multivacinação neste sábado; veja quem pode se vacinar e onde ir&nbsp;&nbsp;G1Governo inicia campanha para atualizar vacinas de crianças e adolescentes&nbsp;&nbsp;Correio BrazilienseCuiabá realiza Dia D de Multivacinação para atualizar caderneta de crianças e adolescentes&nbsp;&nbsp;Prefeitura de CuiabáBH tem Dia D de multiva",
+      "summary": "Ministério da Saúde reforça vacinação de crianças e adolescentes contra sarampo, pneumonias e outras doenças&nbsp;&nbsp;gov.brBH realiza 'Dia D' da Campanha Nacional de Multivacinação neste sábado; veja quem pode se vacinar e onde ir&nbsp;&nbsp;G1Governo inicia campanha para atualizar vacinas de crianças e adolescentes&nbsp;&nbsp;correiobraziliense.com.brCuiabá realiza Dia D de Multivacinação para atualizar caderneta de crianças e adolescentes&nbsp;&nbsp;Prefeitura de CuiabáPraça do Papa reabre ",
       "sources": [
         {
-          "name": "www.gov.br",
+          "name": "gov.br",
           "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZkhpRWZ2ak1xcnBUUTRHM3FWejhSNGJ0cS1DaXhNVGQtXzdUM2drV0RmcEluVDdXS1JZMG5SOW5OMUxIdEQwenFtNFlWdzBCd0tmUWxaY2FaTllSdzBjWXhZeldvSElpc3FiQVdsX0tzU3hNTkZXRUhSamRhN1l6RWtTS0QzRVFIQkU0U0RYVGt3UFd4eHZvUC02T2F1WXROblUzUHJNd0RIcDhpZUFsVmQ1RmtaNlM3NDR4QmZsUDBMQ0tqTl8zQXVPR0xkY1FNc3JlU05JazhYY3VuZkR1RnZGQTNtMFFQQjVkNHM3eUs0RUs4NHpDS3V0NzVldVkz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e6846393bdee",
-      "title": "Estudo aponta tempo ideal de musculação para viver mais - VEJA RIO",
-      "published": "2026-08-07T14:35:35+00:00",
-      "summary": "Estudo aponta tempo ideal de musculação para viver mais&nbsp;&nbsp;VEJA RIOJá pensou em fazer uma poupança de músculos? Entenda por que ela pode ser o segredo para envelhecer bem&nbsp;&nbsp;Jornal CorreioMusculação retarda envelhecimento do coração em idosas&nbsp;&nbsp;Portal ABC do ABCFazer tipos diferentes de exercício foi associado a 19% menos mortalidade, mesmo após considerar o volume total&nbsp;&nbsp;Tua SaúdeQuem pratica musculação vive mais, aponta novo estudo&nbsp;&nbsp;webterra.com.br",
-      "sources": [
-        {
-          "name": "VEJA RIO",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOODhMQnluaUVoQzBhcHFTV0YzVXU4Vkh1Zy0wZ1VodzctSTdoVXN3MHFQVHR0SWdDTWpsemhYb0xNdE56LVY3a1kwV0Z3SjU3Vk1hSkZCLUtQejdKTlZCX3RndnRCNk14Tkd0T1FRWDVGdU1uUkZFWHZaVkQ5ckNlQWtaZjZTdEtVVHRSOWtCMW1IeERiaGhHdFprUHBuTU5Na1B2Q09R?oc=5"
         }
       ]
     },
@@ -446,42 +422,6 @@
         {
           "name": "ES Brasil",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNazVQbm9Kd2F6eDc1c1h6ZWJiRHdVRU1rOTVxQ2h2elhzYWVORU1yb3p5SXRuTWRfNFB2c0pETC11OGM1NUtNSnJjNXNGRmx2NWR5eFVDempYOFFHb0lza3FHVjgwV0xFcGJlSGoxZnB3TGpZUl9DRUhTUFZOdDhpRDVWb3k?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0b56fcfd8abc",
-      "title": "Anvisa alerta que testosterona não deve ser reposta por toda mulher - uol.com.br",
-      "published": "2026-08-07T13:25:32+00:00",
-      "summary": "Anvisa alerta que testosterona não deve ser reposta por toda mulher&nbsp;&nbsp;uol.com.brReposição de testosterona NÃO é obrigatória para mulheres — Agência Nacional de Vigilância Sanitária - Anvisa&nbsp;&nbsp;www.gov.brNotificações de efeitos adversos com testosterona sobem e Anvisa alerta sobre uso indevido em mulheres&nbsp;&nbsp;G1Chip de testosterona: promessa de beleza e saúde acende alerta para mulheres&nbsp;&nbsp;R7Anvisa alerta sobre riscos do uso de testosterona sem indicação&nbsp;&nbsp",
-      "sources": [
-        {
-          "name": "uol.com.br",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeHdETHlWbWlNc1ZJUzE0b192cXlpakNEYmZ6T0lCazV1ZDFjNk14Q3l2TFlrMmNFQTNSY3duRVViUm1DTktIWjFJcmFEYzdMeWpIdVJYb1FMVEhuVVpWRHJHdl9ZVmlGV0lqUzJDVGhkMExla21qTHVISHEzLXpqaFp3YWRHMUVLc3hZLS10eXp4SC0wUUM3UVk0LVVudDgyM3JHM2pYWXRuOFNac1ViMXBmZm9uNVA0QkF2YW5SdE00X3RvTC15MkdWaw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "79bd447dba89",
-      "title": "A chance de sobrevivência de um animal que desenvolveu raiva herbívora é praticamente nula. Mais de 10 animais morreram com a suspeita da doença em Crissiumal - Observador Regional",
-      "published": "2026-08-07T12:19:00+00:00",
-      "summary": "A chance de sobrevivência de um animal que desenvolveu raiva herbívora é praticamente nula. Mais de 10 animais morreram com a suspeita da doença em Crissiumal&nbsp;&nbsp;Observador RegionalConfirmado caso de raiva herbívora em bovino no município de Crissiumal&nbsp;&nbsp;GZHNot��cias - Equipe da SEAPI encontra grande foco de morcegos-vampiros no interior de Dr. Maurício Cardoso&nbsp;&nbsp;Guia CrissiumalEquipes intensificam controle do morcego transmissor da raiva em Crissiumal e região&nbsp;&nb",
-      "sources": [
-        {
-          "name": "Observador Regional",
-          "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOSjljdFF3X1RSYnNBUWtnTm9kQmRtSy1ONkZfclJ1R3AxaUo1djlKTVVSTHRIWGxPaWJzTjVoREYxM2VraXNqYzJUMGh1TERpN2E2LURXLU0yOS1Oc0RER3lDUkVpTDFuZXZ3V016ZDZ4NzZ0OTNMWWFQYXpaNXlwdDJBSmZMRXRXQ2xsRzg5a2lnaG05WlI4bE9xVHNqWFJidjRvSG4yczBYanRqQmlvclRSVnpuSHE3V2hIYUZZbm9GUi1vdmJwMTViQnY0b2htakl0M2tjS2ROUjFXYThremhmWUZOTmYxdGhiSktfRXMwVV9BWmJzVldpNGE3ODBrSjNvTkllU25DczRranV3bjR6cHpOcnlDZWs0OGxUMjlvUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2ec373fe3521",
-      "title": "Dependência emocional com IA: entenda riscos, privacidade e limites - TecMundo",
-      "published": "2026-08-07T11:15:00+00:00",
-      "summary": "Dependência emocional com IA: entenda riscos, privacidade e limites&nbsp;&nbsp;TecMundo",
-      "sources": [
-        {
-          "name": "TecMundo",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdVpXYkNvOXhUZHNnVllFemRLSmlDc1BJdzlkTjNfRDNaY3hwb0VRZzU2ODRlM25EVkpyaEtyMTUxQWRERTRNdXNMcVlhdUdva3RCdXRZT3pGV1N0dUpDRE8wc2ZHVWlSdC1BVmxFRWNZaWFRWmhjM1lIVjFpaTFfdTBaczkxTG9pYXRvU3U3OGxSUmZUYjBYWVAyWFR2WWZSbUR3NmczRQ?oc=5"
         }
       ]
     },
