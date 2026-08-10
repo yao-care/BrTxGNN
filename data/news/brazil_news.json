@@ -1,10 +1,70 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-08-09T18:42:35.852720+00:00",
-  "total_fetched": 74,
-  "unique_count": 71,
-  "health_related_count": 21,
+  "fetched_at": "2026-08-10T01:55:56.562327+00:00",
+  "total_fetched": 71,
+  "unique_count": 68,
+  "health_related_count": 18,
   "news": [
+    {
+      "id": "5a64b1a29de7",
+      "title": "Motoristas de táxi raramente morrem de Alzheimer. Entenda por que isso acontece - Época Negócios",
+      "published": "2026-08-09T18:14:17+00:00",
+      "summary": "Motoristas de táxi raramente morrem de Alzheimer. Entenda por que isso acontece&nbsp;&nbsp;Época Negócios",
+      "sources": [
+        {
+          "name": "Época Negócios",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZG5DS0JteHFKQnRvM0ZXdTB0NlVWdnl3UmpkcnZpVFBoc3lqQ0dLaENHbXIxOXZpcUxhbFJfRThidEo4MVRaMFVvTmgxVWxXTXhLRmhQYTQ3QXY0aW1TbmRmMGozWk5xMU1WOUNTcFFsbU9HbUNwLVh6eF9wa05SekpucmtJbmNzNU5hdE5PZmQzN08xSTNmWENsX3RZX2dxdmUzdDNHWFc4ZnItVVg4QXNRbTh0OGVTNVJTaXpTTDhaY1UwbUZQdU5mTFBxUE90ai1aRU1hYlZ6S01rZWdodGhR0gHwAUFVX3lxTE04QUtsbktnR2FVWlA2VjFUU2prZjBET2U4ODBXOEI1b1VFZEpoV3cwczFiaTdRa1RRRE9oZF9HR01uaWlxZ09Pb3VhZTJXNlM2eHlEUHZKX0U5S0xJQ3VKUVZ5bmVPUHpGU0FBMWZhXzVJSl9tT1VLR0tjVzNXQkpuSDNLWTlwY19DOVRhT2xXemlPU1V3SWVyb1RFektQeVZKdVVSMDJlNWcyQkFiWmdPT2FOa3pua3BGbWdyQUxJbnFma2tzX3FQblozaVBKVGJuUEtnbmNRUGZTc1N0XzdyQkhFT24tNmZCNzNraXg0RA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a3b89ab6553f",
+      "title": "Javalis criados em Goiás podem abrigar bactérias resistentes a antibióticos; entenda estudo - O GLOBO",
+      "published": "2026-08-09T15:38:01+00:00",
+      "summary": "Javalis criados em Goiás podem abrigar bactérias resistentes a antibióticos; entenda estudo&nbsp;&nbsp;O GLOBO",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTlAwMFJqX1Nib1BJTk9hM1JrMWptQW8tSmphRlNxa2pGc1BjNk5adjg0dXRWSUpCcy0zT2Z6My1sbGR5RmY5RTRGLUR6bTBjR25JNVIyZllKdFVtNE9nVHhaeVU1dGNXdVUxcFM3SHFkTHVvTnBuOVpQNkJFbzRmbEFSelhPR0VnNlQwUllBV2JObkQ3UmdLQlV6Umc4cGhnMzN4TzNtaDc2MnVuTEhqNVJLS3F2ZmU4UDVRd0E1ZnZzWlg1eU43eDR3VUZXT2w2TnZYbWdvc3k0YlkydzVwX3JSdVhjNzVsekHSAfgBQVVfeXFMTWhUdEc4UURMOEpPV0lNdmF1cXcyajFCQmhDRVR6MjhidUlNS3JUd0U2MlVkSGZkdnMxYWt3Q0J3V2RTWmJ6d3F4NHhzVXZWbEFmNXdSbmVhOVFwVmhoSktsR2hMbnRvbVU5ZkxBQWJwRWNNaHRzcFdmRXhkSkVWNnQ2dDF4UFRJWUR6QTRrTVI1S2VUeTBkd01MOUNSVWdfdXM5R2liajVWQjk5QnlOOXZOZ1lWU09iaTlyczJ2blJYVl9Va1BqWGVlT3Y4MG90NjVpajZqcmtKellMZjJNUVFSclNMeFNNaHIxWGdhbVlwd1pTalVnNkI?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f1924e81efec",
+      "title": "Cientistas vão para às profundezas do oceano e conseguem registrar, pela primeira vez na história, o ser invertebrado mais pesado da Terra - Revista Oeste",
+      "published": "2026-08-09T13:40:00+00:00",
+      "summary": "Cientistas vão para às profundezas do oceano e conseguem registrar, pela primeira vez na história, o ser invertebrado mais pesado da Terra&nbsp;&nbsp;Revista Oeste",
+      "sources": [
+        {
+          "name": "Revista Oeste",
+          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQTng4ZktBWnJoRF8tVjdHSHlCemRaQUxjY0p2TnVUazJ6Y3NheTAzNEdpcXB6M09yeTZFWDZIMTNyNGlaVGgxYUJiMkkzSzFOOE5SWGdMcmpxNkwzaXhYNGdFLUVTREdpZDYxRmY4NjJaM1B2enFXanczNXZndTBEY1lnUkV1aXRCa081c3NDN2xabEg4MFI1UWYySzFkYV9LYjYwZWd2eU1RbGNkYi0zVVA4NzhmaUdxd0FLenluVkNvcnJhanZsSGRPVmRNV2NOdGdvSDhzUW1sWnFTZ0dlXzBvRk11TWxWaldIVFZlWjl5X2szbndFTUxkZzlLd3VwOXpyTUR0c1hFZTNnWjVjT3RR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "499f739472cb",
+      "title": "Lua ficará 95% vermelha em eclipse que poderá ser visto de todo o Brasil - Primeira Página",
+      "published": "2026-08-09T13:31:11+00:00",
+      "summary": "Lua ficará 95% vermelha em eclipse que poderá ser visto de todo o Brasil&nbsp;&nbsp;Primeira Página",
+      "sources": [
+        {
+          "name": "Primeira Página",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPam5CZERvSTFMN1pGcWdXQmUtQzZGYnoydGN1dXZ6ZmxuQ3NCM1B5WF9FRUMtNDMtdTRKam9ldU14VFpBbGdMYkQ5emJ2YlozcEJVWUhBbFJWNXItTmZtQThrcGJtbWhDa25JYlJEQ0J5NENITEh2Q1otT1VLZWhsenVlNnpuejF2QzFzTmktbUhrSW5na2Z2ajh1MXhEOGJvQWFOcm42dURaREZmLU4w?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "84d92884fe28",
+      "title": "Segundo um estudo, as Cataratas de Sangue da Antártica abrigam descendentes de antigas criaturas marinhas - O Antagonista",
+      "published": "2026-08-09T13:23:00+00:00",
+      "summary": "Segundo um estudo, as Cataratas de Sangue da Antártica abrigam descendentes de antigas criaturas marinhas&nbsp;&nbsp;O Antagonista",
+      "sources": [
+        {
+          "name": "O Antagonista",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNmM3T1p0aEs0RXppcE5uVHNLNnRJUkt2Sk1wdTJlVHlHc1RMM1l2bnRSRmVuYWExblhxaTI3dUtOTnpYR1BsNTZZZXdzOVh5TnlCck9ac0lSc0wxT0xUVGs2eEY2Y05BcG5RYzB0cTdMN09XdXgzMThOekVYWmhUc0ZwRll0QXY1cDJVNXNYY1hTZjBwRnBDTDlVZm42SjFRN3lYZkhJYk5UWXRuNEJCb0RZakhYQnRyTkVkaTI5VzVuTmlKU3o2STlsc3I4WEs3SklYclplY1JMRDJWWXl0bXExbkh2RzdmN1Nj?oc=5"
+        }
+      ]
+    },
     {
       "id": "2ecbcea40f36",
       "title": "Cientistas da Universidade de Stanford criam 16 novos vírus utilizando Inteligência Artificial - Diário do Comércio",
@@ -30,22 +90,10 @@
       ]
     },
     {
-      "id": "3afb7af3b01a",
-      "title": "A destruição criativa e o futuro da pesquisa científica - Correio Braziliense",
-      "published": "2026-08-09T09:04:00+00:00",
-      "summary": "A destruição criativa e o futuro da pesquisa científica&nbsp;&nbsp;Correio Braziliense",
-      "sources": [
-        {
-          "name": "Correio Braziliense",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOa3QyMFJLMXpWZmtPUlFUeGVOZWRWUDhTdVMwNWhYcWZuZUhvRHZqT1pVeEVDZVRHaGlDb2h4aG5HZ3BqM3ZhMENLb0Q1azJqMzJsaWdYS3Y4ellRMmFBN3VnT3dMcVZ4UUZoajhYUmlROXhJaFBoLXN6MEwyYktueTRmY0ZoM1JNa3pRbEw2b0dfUm9UNVdvbm52clppdDIzeXROSXpQcWZJZ3N0ZERuTWlDM2U5MzZab0RVRXEtY9IBxAFBVV95cUxPTk9RXzlNQzdVM1JqNFp5WjQtTVpfZ1hGMU85ZWNoNTROYVB4Z3lmdnlkMlVqUV8tWjZtdW5mYTVVWHRmd1hFajN3UHg5STg3QnhVQjRjaG1URmhjZzNVaGptbVJVUi02X3ZyZjZOVjlLQ3d4QWxGbENUdUM3SzFmOGV3cUtHVUExdmpRYnBGWG5ROHZ4T0h0cTZGeEl1eURrdjhlWnNlT0N3dVViZmt5S1kwTGNEU2cydEpZRjA1Q3pQcFJQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "48f66048dda1",
       "title": "Açúcar foi tão chave quanto carne na evolução humana, aponta estudo - Folha de S.Paulo",
       "published": "2026-08-09T09:00:00+00:00",
-      "summary": "Açúcar foi tão chave quanto carne na evolução humana, aponta estudo&nbsp;&nbsp;Folha de S.PauloComo a carne, açúcar foi chave para a evolução humana, afirma estudo&nbsp;&nbsp;metropoles.comGlicose de frutas e mel pode ter impulsionado evolução do cérebro&nbsp;&nbsp;Correio BrazilienseEstudo revela que o açúcar foi tão crucial para a evolução humana quanto a carne&nbsp;&nbsp;Diário GoianienseAçúcar: o combustíve­l da EVOLUÇÃO&nbsp;&nbsp;PressReader",
+      "summary": "Açúcar foi tão chave quanto carne na evolução humana, aponta estudo&nbsp;&nbsp;Folha de S.PauloComo a carne, açúcar foi chave para a evolução humana, afirma estudo&nbsp;&nbsp;MetrópolesGlicose de frutas e mel pode ter impulsionado evolução do cérebro&nbsp;&nbsp;Correio BrazilienseAçúcar foi tão crucial quanto carne na evolução humana - 07/08/2026 - Ciência&nbsp;&nbsp;UOLEstudo revela que o açúcar foi tão crucial para a evolução humana quanto a carne&nbsp;&nbsp;Diário Goianiense",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -57,7 +105,7 @@
       "id": "d989088dd56c",
       "title": "9 coisas que os especialistas gostariam que você fizesse na meia-idade para aumentar a longevidade - Estadão",
       "published": "2026-08-09T08:30:00+00:00",
-      "summary": "9 coisas que os especialistas gostariam que você fizesse na meia-idade para aumentar a longevidade&nbsp;&nbsp;EstadãoEvitar estas três coisas na meia-idade pode atrasar em até 13 anos o risco de demência&nbsp;&nbsp;R7Evitar três fatores durante a meia-idade está associado a mais 13 anos sem demência; saiba quais&nbsp;&nbsp;G1Evitar hipertensão, diabetes e tabagismo na meia-idade pode atrasar demência em 13 anos, diz estudo&nbsp;&nbsp;ObservadorSaúde do coração após os 45 anos pode antecipar risc",
+      "summary": "9 coisas que os especialistas gostariam que você fizesse na meia-idade para aumentar a longevidade&nbsp;&nbsp;EstadãoVeja nove hábitos para adotar na meia-idade que aumentam a longevidade&nbsp;&nbsp;Folha de S.PauloEvitar três fatores durante a meia-idade está associado a mais 13 anos sem demência; saiba quais&nbsp;&nbsp;G1Evitar estas três coisas na meia-idade pode atrasar em até 13 anos o risco de demência&nbsp;&nbsp;R7Controlar pressão, diabetes e fumo adia demência em 13 anos, diz estudo&nbs",
       "sources": [
         {
           "name": "Estadão",
@@ -66,62 +114,62 @@
       ]
     },
     {
-      "id": "fb82ea4e5250",
-      "title": "Tratamento de varizes em idosos: cirurgia é possível? - GZH",
-      "published": "2026-08-09T07:08:17+00:00",
-      "summary": "Tratamento de varizes em idosos: cirurgia é possível?&nbsp;&nbsp;GZH",
+      "id": "dacf428a387e",
+      "title": "Falso milagre da ivermectina contra a covid e o Censo do IBGE - Estadão",
+      "published": "2026-08-09T08:30:00+00:00",
+      "summary": "Falso milagre da ivermectina contra a covid e o Censo do IBGE&nbsp;&nbsp;EstadãoNão há evidências de que ivermectina tenha 70% de eficácia contra a Covid-19&nbsp;&nbsp;Aos Fatos",
       "sources": [
         {
-          "name": "GZH",
-          "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPMnA4TEN6ZmRZS2E3aElKd0FYOVlCZW4yek9WTHdsZVJjVzhrUjZjX0U0cEJTU2JtTXV0ZTltSUh1U3NneUFpdGp1V1NHRFdCLS1tRTJCMU9wZHVNQ1RLdkI0RkRRa3Jkc3hwNHh2Y0FMTTZyUVp1Qkt4ejkxN2JUTmF1SVJaMmRuWWU3ekMyNU5sZ2lUMU9sWHAyWUJPQjBfTnNPbGhyNENKT3pIZzhhaklENmZLWUp2UWk3OEg0bW1INFdtZDJTcHpVLVpSQVVpMnpsYVQ4MjFHOFh1S2ZodTRJclRkV1FPa253R0VSdEEtNXkzVjRJek42TnlmZmxVSVQ1VHdBRFN0VV9HbWlSVlV6OHdsZFFybUtEb05VZm0xV0VWOEVXMV9Daw?oc=5"
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcmNfQzNmbDZyNDlLQk80X3B3b2lGS0c4U05hU1ByVElJNm80eC1QT19TTWNFNWVVZENwM1c3dmpNWVkzeXlOOGJleUJta1l5ZVU3Y1FSWEs0c3ZwSV9aVTY4bm5EeFVNUlgzTDJCTDVFcjhFR3Y2aEdVbzBkakVHTTlLTEJPTGd5T0F0UmlOT0R1MTB2VkhXTVU5LVVibnA3eWxfbFBpSUZPclZOT05ydUY4MWRWYzA?oc=5"
         }
       ]
     },
     {
-      "id": "f53a0415457b",
-      "title": "Quase 300 mil se vacinaram contra o sarampo em SP na 1ª semana da campanha, diz Prefeitura - UOL Notícias",
-      "published": "2026-08-08T19:05:00+00:00",
-      "summary": "Quase 300 mil se vacinaram contra o sarampo em SP na 1ª semana da campanha, diz Prefeitura&nbsp;&nbsp;UOL NotíciasPaulistanos enfrentam filas para vacinação contra sarampo no primeiro sábado da campanha&nbsp;&nbsp;O GLOBOQuem deve tomar a vacina contra o sarampo&nbsp;&nbsp;Poder360Vacinação contra sarampo em São Paulo: preciso me vacinar e onde devo ir?&nbsp;&nbsp;CNN BrasilBaixa cobertura vacinal eleva risco de novos surtos de sarampo&nbsp;&nbsp;metropoles.com",
+      "id": "da0cd2cf7091",
+      "title": "Posso recuperar o sono perdido dormindo 12 horas seguidas? Veja o que dizem os cientistas - Época Negócios",
+      "published": "2026-08-08T19:41:16+00:00",
+      "summary": "Posso recuperar o sono perdido dormindo 12 horas seguidas? Veja o que dizem os cientistas&nbsp;&nbsp;Época NegóciosOs riscos de dormir pouco e por que algumas pessoas precisam de menos horas de sono&nbsp;&nbsp;Folha de S.PauloVocê dorme o suficiente? Seu cérebro pode estar mentindo; entenda&nbsp;&nbsp;Diário do Centro do MundoPor que dormir oito horas pode não ser suficiente para descansar&nbsp;&nbsp;33 GigaPosso recuperar o sono perdido dormindo 12 horas seguidas? Veja resposta da Ciência&nbsp;",
       "sources": [
         {
-          "name": "UOL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOb3IwTkRWc2dGZm5pODFmeVhzZUtsRzlvbS1XUnM2X0FzaWJfT0xZRzk3b3M0QnExcnFpRmxVdW91TXA1Y1BBM1FXMTBDdWIzMm0ySDVqOWQ1MkNiTDFSSG9TTW1hdFJ5aG1sNU1QSmRFUHdiLW9id2daaEtWbmZidDBNZlFWTTE3Szh6SWNfcmFwRmZSeHZsMTROMXlQUXFrUkc4OHg2ckhIV2dPZy1DQm93WTlZSUdqMi1qNEZqY2RIY2VUQWxSVmNHeGdSLVFtTWtjTkQwTjlZWmh3b0Fzd2lTUGNHOVptQkFJNFBVM2FmVDhuM3c?oc=5"
+          "name": "Época Negócios",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMVVCYkt0YV9GaElrNGVRWG9ITDdwZi1IOGwyNWc0TmJLY0tkUUQ2Y282Q19hamtveTFmbGFOZ2dyT3hBLVhURHBPRzZVYWUyS2x0dV9PdnVVUGF4bl9qamxibzdINWFsZlBrV0NzVkMydV9nLU5haVpuQjFXTW9TS0N3MjhxanBoVzU2TVI3aEVnM0dSSlVjUWZTajBhQlJlYWxnSlZjdjF0TjdBRlEtLWQzbEZyQVVSdTMzT2lMX0JZb3ZuZ21YSGNpVkxiQ2hqM0VmZGhjR3pOdXhMdmhQb09kYnllRmc1Zl9abXU0NNIB_gFBVV95cUxOTHRMZFFlWUJkNExOWGQtaEdPMTN5eDZfanE3MW8wWGZZYkg2MDVndTg1UXZvODI0S3Jna1pyeFc5ZHR4YnZfaXpnaVRTUy1uLThKc3FuR3I4aHdKMi1qOVpBODRLSlFhTllZd0ZZMmtXYjN6OFl0ZGJpTnItU29jYm5sTERueWdJY2x2cG40QUN5eGh1aG9iR1d1UVhhT3luQ0JFOFBobDhNNUZIMHdLU1dQWW5FaXZFM0ppcEEzTkFoRnktenFOLW9oWk1ONGRyRjNKME1NZThqLWVXTXdSUDNFZjhyT2pKQXFjTFJOYlhNZEYyaGVpeW9QQUVHUQ?oc=5"
         }
       ]
     },
     {
-      "id": "72a8a69e3396",
-      "title": "Canetas emagrecedoras expõem o preço da desigualdade na saúde - Olhar Digital",
-      "published": "2026-08-08T16:15:00+00:00",
-      "summary": "Canetas emagrecedoras expõem o preço da desigualdade na saúde&nbsp;&nbsp;Olhar Digital'Organismo pode rejeitar': médico faz alerta sobre 'canetas' falsificadas&nbsp;&nbsp;UOL NotíciasCanetas emagrecedoras escancaram luta desigual por acesso à saúde no Brasil&nbsp;&nbsp;G1Não basta emagrecer: consenso aponta novos cuidados no tratamento com canetas para obesidade&nbsp;&nbsp;Estadão7 erros mais comuns de quem usa canetas emagrecedoras&nbsp;&nbsp;Assine Abril",
+      "id": "3840a67a67a1",
+      "title": "Vacina do sarampo: filas passam de uma hora com novos casos em SP - iG Último Segundo",
+      "published": "2026-08-08T18:07:00+00:00",
+      "summary": "Vacina do sarampo: filas passam de uma hora com novos casos em SP&nbsp;&nbsp;iG Último SegundoPaulistanos enfrentam filas para vacinação contra sarampo no primeiro sábado da campanha&nbsp;&nbsp;O GLOBOQuase 300 mil se vacinaram contra o sarampo em SP na 1ª semana da campanha, diz Prefeitura&nbsp;&nbsp;UOL NotíciasQuem deve tomar a vacina contra o sarampo&nbsp;&nbsp;Poder360Vacinação contra sarampo em São Paulo: preciso me vacinar e onde devo ir?&nbsp;&nbsp;CNN Brasil",
       "sources": [
         {
-          "name": "Olhar Digital",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM01YQmMwZTNRVmszcEJleVZTNGFYX0RqVjBwZDFTT3RYWDF3bFVMRUpnX0RtTnozN3NXQUNjQTdjZjVmYjE5bHp3TjBLVVFkQTBPcm42UnZYaUs0WTVSUWxRekpETzRYa3Bnc2VuVm5fcU4tM2ZtUmI2bV8wVWZsZnVBV2RTWG1ocXpFTjlmeC1jRkVLNU9lcV91cjBJMnVPZU9udTFMNTlZNXh0Y2RIWlhiX2JtbWthWnc?oc=5"
+          "name": "iG Último Segundo",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZDdRS0VIMHJ2S0hBWEUtVkZRd2VsQy15THpKVFBDWXF4QUc1V3pyQ1JyNEpLOXRobzAtWjhQRUViaUlQWG0takx6QXlnWlZjQ01DaE1RTWR1aEhocWkxLXRwdUNFeEI0aWtRZnFVV2h5VERMMmxmZGJlUkNxaFNQR0Uzb2JQUmp1TzdUZUMxakdsM0V5cVBvRmpST21UNWJ4bWRWYjczanlCY2xMU3lXSXRoVnRJUFdnRzh0MkpCM3HSAcYBQVVfeXFMT2dUaDM0VmFaNWZnSlNLZk95Z3pOOG96NkF6bWN4cVUzQjdUYmJ3NVZrcDJGYnZBX2lxTzJSZkFXakR1Y19qMGtrYl8xdnFGTVVjV1BNRDk0Zng1YUpKZU1QY3FjZzFyRk5GRjVZSVB1Zm1KVWlRTG9EM2M1Mk1hbHBKbEx6QURVNm9ONEI5UmQxb0trdmJBZlJwdS1hSXdkNndEZktiSTYtTms4eExVdWxvdjNLWnV6eXJLZWhiNkFIemJlXzFB?oc=5"
         }
       ]
     },
     {
-      "id": "e39e06e4a8c9",
-      "title": "Dinossauro no Pantanal? Espécie de mamífero gigante intriga pesquisadores - primeirapagina.com.br",
+      "id": "d001e14a22aa",
+      "title": "Dinossauro no Pantanal? Espécie de mamífero gigante intriga pesquisadores - Primeira Página",
       "published": "2026-08-08T13:27:09+00:00",
-      "summary": "Dinossauro no Pantanal? Espécie de mamífero gigante intriga pesquisadores&nbsp;&nbsp;primeirapagina.com.br",
+      "summary": "Dinossauro no Pantanal? Espécie de mamífero gigante intriga pesquisadores&nbsp;&nbsp;Primeira Página",
       "sources": [
         {
-          "name": "primeirapagina.com.br",
+          "name": "Primeira Página",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZC1zUlNMZmY5RC1VTUt2c1A3SVdfaFpLSmRUUmFHY3ljTzBKQjVWc3dURXFXOHpVT21fYmdxTWZzX01SMFBIZGRDaDdxY3J4MUU3eEdTTGUyOXpSajdaY3VoX3lHOUE1VGd4QVVaUk5OSDNzZ0lRU2gwa0IzRVBSNW5FaE16TDFJVTYwR3hfejZDY2hQYTI3Z1A4ZDNvbllaX2JVbF81WXdKMlFnRDM3cWJyQkQxQzRjb0FiSWllXzdxWjg1a1E?oc=5"
         }
       ]
     },
     {
-      "id": "d52871459a27",
-      "title": "Não é sangue doce: biólogo explica por que algumas pessoas atraem mais mosquitos - portal6.com.br",
-      "published": "2026-08-08T12:04:17+00:00",
-      "summary": "Não é sangue doce: biólogo explica por que algumas pessoas atraem mais mosquitos&nbsp;&nbsp;portal6.com.brPor que mosquitos picam mais algumas pessoas do que outras? Estudo investigou&nbsp;&nbsp;GloboÉ verdade que algumas pessoas atraem mais mosquitos? É o que diz um novo estudo&nbsp;&nbsp;SuperinteressanteCientistas revelam o verdadeiro motivo que faz algumas pessoas virarem \"ímã\" de mosquitos&nbsp;&nbsp;Dourados NewsCiência finalmente consegue explicar por que mosquitos picam mais algumas pess",
+      "id": "952de300975f",
+      "title": "Rodrigo Ratier: Professores não sabem avaliar, revela pesquisa - UOL Notícias",
+      "published": "2026-08-08T12:30:00+00:00",
+      "summary": "Rodrigo Ratier: Professores não sabem avaliar, revela pesquisa&nbsp;&nbsp;UOL Notícias",
       "sources": [
         {
-          "name": "portal6.com.br",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQemM0MWZSSDU1aEYzaXVKNnVWd0lnQjJDWmdDUzFIU1d4V2ROU0VCUXJ2aWQyaDFwZmZxVHU1OS1QRFNKUnZNMlBRbHRYbElGcWdzR2pPVGpkVkUtRjRDbEVGSXBqeVN5cFJJb2tPV2M4dkFoRk9ENWJIR3JFVk5tXzA3RExfQkw4NXRHZjE1RWFVQm0zb0NpZ3FCaUx1NmUwSTd6c0VTU1gwbG9KeTR2UVoyd1Y?oc=5"
+          "name": "UOL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOckV5NlhoRjhfOGlLYUpaTlNXTWpOblZvSkI0cDM2bHM2NXpmNThBckp4cU9JLVVqZmlNbnl6NXlyQWJmZVFBc2ZVUzhVa0JQaWdqN0Q4QlNqV0o5OWlmTWVWeFhrVGo4ZjZpX281aXhLSzRneDk1MGtWbkFLR0kzRGdKLVVuNU9NeEplbjFiSkM0TmV3VVI1NlQ2bUwxWjZHSlIwUVVzYUZoN3F6bjdIdA?oc=5"
         }
       ]
     },
@@ -138,22 +186,10 @@
       ]
     },
     {
-      "id": "8664d112dfee",
-      "title": "Fortaleza tem 52 pontos de vacinação contra raiva em cães e gatos neste sábado; confira locais - G1",
-      "published": "2026-08-08T11:22:32+00:00",
-      "summary": "Fortaleza tem 52 pontos de vacinação contra raiva em cães e gatos neste sábado; confira locais&nbsp;&nbsp;G1Contagem realiza Semana D de vacinação antirrábica para cães e gatos&nbsp;&nbsp;BHAZNatal amplia vacinação antirrábica neste sábado&nbsp;&nbsp;Agora RNSecretaria Municipal de Saúde realiza ação de vacinação antirrábica para cães e gatos na Praça Nossa Senhora dos Verdes&nbsp;&nbsp;Prefeitura Municipal de Vitória da Conquista - PMVCRenascença imuniza 250 animais contra a raiva&nbsp;&nbsp;Jo",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaWZqUmRtRnFxLWoyRjBVVmcxUHk1M3ZaZXRLaHpnbTdrc1huVE9hMTk3WFd2d0JnWmdNVzVRZzNsN2xJcndsTWRpcEd1SXp0SnBfem01OUdjLW8yX3R1em0yZzNUdlZWc1NtY2RQLUpSSEhFem9yN3dIVTNlS3F2SVhQRjBTbElSb05Md0dmamtCQUloSlFvSU84RklvRm9kSXFhSWtock0wMk5nMDI1Nnl4LXc4RlNYUHI2ckVrSTJEWTB3ZEZxZFZBOHBYZHZhNkNmV1h4UlBqaE1TaU5NUFdB0gHwAUFVX3lxTE50eHB3aHZ6dHRKV0dIRkZmRTF1WUY1eU9xMHZoVzh3LTEzYnFVbkotbm4xVEFVVTdGMHk5c3ZudzEwWm5VVHQtMkRjdTQ1ejJRb3RyMi0wem1qQVF2LUNuSng4QVJnN0hVOWxSX2VXV2VWTHRJbkJkdURZd3RpTEdONEtZeE50Qnhsbk5BOGJMNERwNk9VUlhWVkxQUjBsN0xJTllLWEFBMWV2NC1yVC1MSW9ISGc4UmFpZ0xNcGVPbGFIVG8wZkY5bkZ5ZjZVdFFqNXJUTXJab3lRQzExVGxoT2RVWXNEMU5TUWktUG9UTg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3518556a5800",
       "title": "Aos 8 anos, menina de Santos enfrenta câncer raro, perde braço e agora luta por um novo sonho no litoral de São Paulo - A Tribuna",
       "published": "2026-08-08T09:50:00+00:00",
-      "summary": "Aos 8 anos, menina de Santos enfrenta câncer raro, perde braço e agora luta por um novo sonho no litoral de São Paulo&nbsp;&nbsp;A TribunaCriança de 8 anos perde o braço para o câncer e sonha com prótese&nbsp;&nbsp;R7Áurea Bravo: Uma luta pela infância e uma nova chance com prótese robótica&nbsp;&nbsp;TerraFamília faz campanha para garantir braço mecânico à menina com câncer raro&nbsp;&nbsp;Santa PortalÁurea bravo - Prótese do braço direito&nbsp;&nbsp;vakinha.com.br",
+      "summary": "Aos 8 anos, menina de Santos enfrenta câncer raro, perde braço e agora luta por um novo sonho no litoral de São Paulo&nbsp;&nbsp;A TribunaCriança de 8 anos perde o braço para o câncer e sonha com prótese&nbsp;&nbsp;R7Áurea Bravo: Uma luta pela infância e uma nova chance com prótese robótica&nbsp;&nbsp;TerraÁurea bravo - Prótese do braço direito&nbsp;&nbsp;Vakinha",
       "sources": [
         {
           "name": "A Tribuna",
@@ -174,86 +210,14 @@
       ]
     },
     {
-      "id": "6aec33ca7353",
-      "title": "Após perder 20 parentes com ELA, homem relata melhora com nova terapia - metropoles.com",
+      "id": "a4a943026899",
+      "title": "Após perder 20 parentes com ELA, homem relata melhora com nova terapia - Metrópoles",
       "published": "2026-08-08T05:00:00+00:00",
-      "summary": "Após perder 20 parentes com ELA, homem relata melhora com nova terapia&nbsp;&nbsp;metropoles.comSUS terá novo remédio para tratar a esclerose lateral amiotrófica; veja como funciona&nbsp;&nbsp;Rádio PampaNova terapia reduz efeitos da ELA em paciente com mutação no gene SOD1&nbsp;&nbsp;180graus",
+      "summary": "Após perder 20 parentes com ELA, homem relata melhora com nova terapia&nbsp;&nbsp;Metrópoles",
       "sources": [
         {
-          "name": "metropoles.com",
+          "name": "Metrópoles",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDU2MtdTdZelVfZm56MEQ3SWFDSnR6MzFycDBJZWRlcVhKUEFpSnRRWmxDVElfNDVlb2tqbnplQjZCQmhTUHMtUHB2ejZ1MkwtUzVnaU1sQW1IamRyQ25pbDIyUDN4SkwzRjNQTTVSdnU4UHplSFE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "08bd8a950805",
-      "title": "Quase metade da população das Américas convive com pelo menos uma doença neurológica, aponta relatório - G1",
-      "published": "2026-08-08T00:52:54+00:00",
-      "summary": "Quase metade da população das Américas convive com pelo menos uma doença neurológica, aponta relatório&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQSmVmVjVGUmc4eGR5U2NORkZ1bW0wRE9YNE82UTFuQjZMU01LOEJiYi0tdFh0cGZ5cXNpZWt2Ym0ycm9HMzlCMkJpLTRZaFNjRDJudTRUeFppUEcyREpFVE1SSGVxcTdkeU52OXc5UXYwcXNKbV9LeVhIUnhNdDhocDgzWmZWSDFBTEJJY2UzWHZyYXAwNlhNUGV1bExJNUFOVkUxZjFieU5qekZlRWtteG9yTnduZjJUMV9vVWl1bzRVRzI5NDVCeHVwVEZILW9pWkJDUnBSdUpINUZrSG05aWxzcV9CV01EWk9TeWpkT2pCMVhrRmfSAYQCQVVfeXFMTmVSTEtFa1laUDlidXJVeGludWJiN1VLWXg5N1oxLXJ5VDlOQUxvejNQeE0wNXZWZHZ6ejVKbkFnbl8zRU9GMjdvR0ltQ0VqVGNZeE9zTTJxcENob3k0R0NzTDYxSE9EaVVvakRBU1ZQY2dzLTV2YXhHcG1WeHRTZm0xaEt3ajZtM0hiZld2dVJ2Vkc0Ykw0VzlhaUxXZTVYckZUdGw0YnlQLTFabkJ3aW1YZ043UFVDOGFaNS1sNmg3Q1Rqcm1UR3M2cDlUNFFkcmk3ZEFqbWtsbV9ZV0x3UF9ETDE4Qm56SHFBMEh2NWJ2b3JFY1ZhaFJQR1dESmVieXN6SlE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "46240afd0508",
-      "title": "Um estudo de neurociência afirma: as crianças que aprenderam a tocar um instrumento na infância desenvolveram uma habilidade essencial para a vida - purepeople.com.br",
-      "published": "2026-08-07T22:41:00+00:00",
-      "summary": "Um estudo de neurociência afirma: as crianças que aprenderam a tocar um instrumento na infância desenvolveram uma habilidade essencial para a vida&nbsp;&nbsp;purepeople.com.brVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "purepeople.com.br",
-          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQQldnLUxlT1M5ODc4M0VGVVFya0Q0QVBsZC1VQy1kVjlqMy1HcU9JcG44bUFYQ0htSUlMVGlBU01GQ0ZoWkdTaGQyN1hYdGMtb240Qm9rZXIwSmw1MWV5T0dLeU5INkhPc3J1NXRhTUMwRkJoQUlMX3loRnNVeWxvMHZxVjRJNFZRazcyZWhoYTFnYVlHdEpzcWR6UE9JMXRKXzVPQ2RNSmJBRlJGU2dHQ0NvVU9HaE05cnRJYUFiVUxyS0x4ejM1Y1F1QkUzTW1aRzdPcDVXNUF3N3A1QS00QmVtWWNzMTV2ZUZwa09tRFh2cXlNbGsybXZTY29ibHhfOTdjUHVkcFBqSjJnRmxXWjViONIBmAJBVV95cUxQUEJtUjBBU1d4aE8xNldzZ0V3SjAwTURFTXRSd2kzbkVvNnRNNzAyZ0phVUtFOVRWa0JGSmRKTlNvOHJEVVRVQ3ZhYUVQN1dMTEJnM0dVUkVvbkRzaFk3YU5tSEpWWllYVEE1Mko5M3NkZWREemFXTVNlNVUzZXJlcER5eURVakN0aWkyNkF3ekVCcHpmcmlhdnA1R2FkRllOYXBEVS0xTHJ6Uk9WMEw2NGE5NnAxNWpFdl9pZ2thYnAxM2hIaVA3RmFDNDZZUjJjR3psckJLR0NpUWw4QnZ6anVUbEU2cTY4bDRkZnFXbnowWDAyMFJJekJFOF9tZGRMQjFTeUdJbGJ2RkpTaUpZWE1xU0NXMUpV?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "41084bac80ff",
-      "title": "Tábuas de 3 mil anos são descobertas em região citada na Bíblia - metropoles.com",
-      "published": "2026-08-07T20:54:00+00:00",
-      "summary": "Tábuas de 3 mil anos são descobertas em região citada na Bíblia&nbsp;&nbsp;metropoles.com",
-      "sources": [
-        {
-          "name": "metropoles.com",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPVTlPQ0RzRWhzVi1WZXJ6NGd6aklOTU9pYVJYUXRpQTE0VlZOMlZPQVlYMUZMQTJIcDRWUjkyTWpzeG9MTlNGZkoyZnVYOE5Cb3FFQ3E5NUVlUWpUTmRONHh4eXIwNmtKc2U5MlREX3pYM2xmNGc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6830295d08be",
-      "title": "Estudante de escola pública de 17 anos fazia ensino médio integral, chegava em casa e continuava estudando no quarto desde o 1º ano, além de cursinho de matemática, até conquistar vaga em Medicina na UPE e se tornar a primeira universitária da famíli - CPG Click Petróleo e Gás",
-      "published": "2026-08-07T20:09:00+00:00",
-      "summary": "Estudante de escola pública de 17 anos fazia ensino médio integral, chegava em casa e continuava estudando no quarto desde o 1º ano, além de cursinho de matemática, até conquistar vaga em Medicina na UPE e se tornar a primeira universitária da famíli&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOX1o3Z2NDUC1DZVJ6dGN6V3o3ZTlhaGg5NEpWZFI3LWp0c1l2TXJtc2NMbXQ4RGwwRzdObzFlazJVdUNncEo2bURFMGJJN0R0NkF4U3Y0N253UVhCWnU2SGhITzk3NHd1ZmNGY0lWVnoxUlZ4OGZlM2pub3JaYjdtN01LZHNGQmZsZ0VWWFRDVEVYY09uWUVHaW9NZ3hFMU1KMldJMHNXVlhlaEsyZ3pDWjZad0wxXzFPQUZyTXZzd04xR1dKWHQ0RHVqaTQ5S21QNEhUMy1WNXpRaklIeUJxMnBZcWRXXzk2UlhtMml5WE1qcTNGd0FNUHlYUWFUcEFRU0dXa2I1YWpzWjA1SElUVGp3UVVwbGRaUFRuZzIyeThoWUpsR2VWczUzcWZhNmpva055a2JlSnNkWVJYTTRtWFJZT2pGUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ab20665ed569",
-      "title": "Cratera de Colônia: estudo da USP encontra evidências de que bairro de SP cresceu dentro de área atingida por asteroide - G1",
-      "published": "2026-08-07T19:50:32+00:00",
-      "summary": "Cratera de Colônia: estudo da USP encontra evidências de que bairro de SP cresceu dentro de área atingida por asteroide&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOZkl4MDlDS3RaR0tUb3ZZS1lBMjRUQnRqYkpXWHdUbnN4V0g5Nk9ObzBqNURndEc1VlRLQU9EWm40NGhyVzczeC1HOFUxT1NWN1I0Uk02NnJvNGtjNm82UnhSUlEzMTh1Q2NkemVUNzg2QlAxT1hLU2ZVamZzYVFMbG9pb0xVZmZBUlo5anUxMjQ4c1hiY1I0TVR3bnlNT0F0QTZ3dncwcldWZ056aGFabTR3XzRtSTc5UlduYVhMVUFPbF9qNTBrRU51MDZCMnJudjZIdE1BTGdCaHRXQl9vZ3JyOTVhVTBkUGctOVBoVWR6VUxnRjRxaTR4aENCc1VGTTg5eWZUZEzSAZcCQVVfeXFMUHVoVTNRMzBmWjcwNEJFUWltQlBGV0d2R0lobUswb3dnOWpJbVY2LTJVemVURld1eWsxQXhUNmtnYXV5UGtqU0kzS3c3RkdSSGNGUGhfZFgyNWtnM05CNFAtUVZDUEI4enQ1c1c3ek51M0VmdmRHTlN4ZUVpY05LS0NQYk9vUXBhc0NaTEFmSU5JMDR2eVdvLWtLRkpJdXRVV3RTRnZEcHB6eHB5RlNFN0VTZU5QNDVOOTFkenRtM3R6OGc3bWlUYjMwMjJCNThic2xKSzZzWDNTOXpfZW9pNkUxQlkzNG01bENMWWJycC1fTnNvZHdxZ2R1S3I3UllwNFg3MEg2cUNNTS1FdGZVVm95eHdQTWpN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "13f2654e3188",
-      "title": "Colonoscopia: por que fazer, a partir de qual idade e quando repetir o exame - Jornal Correio",
-      "published": "2026-08-07T18:27:08+00:00",
-      "summary": "Colonoscopia: por que fazer, a partir de qual idade e quando repetir o exame&nbsp;&nbsp;Jornal CorreioNão é só intestino: câncer de estômago é cada vez mais comum em adultos jovens&nbsp;&nbsp;Veja SaúdePor que o câncer de estômago está aparecendo cada vez mais cedo? Estudo revela mudança&nbsp;&nbsp;Folha BVO jornal do Brasil em Portugal&nbsp;&nbsp;DN BrasilCâncer de intestino: Renata Abreu reforça importância da conscientização para diagnóstico precoce&nbsp;&nbsp;PODE - Podemos",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONG9CSmUxdjQ5WldkejdEZUJPU1BNOHlsV2Nvb0U2QzhFLW9LZnU1cHVkSjFBRlI2S1A2M0xKdkhVN2xLQTlLZ0kxaDcxeVNFTEo2NFdWSWs5WENIX3AyWnFpMnJTVkJoei1pcHBkbVJDa244WnlDTUV6LWZoNVlMLVpybzlRbFFBSDVZTzR5cG5iTEtMZDA0S0hZNnhrS2ZWdnNTd0FxbWdGMG56YjM0U2RHUWNGVUR5UHpr?oc=5"
         }
       ]
     }
