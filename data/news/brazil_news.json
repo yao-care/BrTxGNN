@@ -1,19 +1,91 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-08-10T13:11:31.457514+00:00",
-  "total_fetched": 72,
-  "unique_count": 68,
-  "health_related_count": 19,
+  "fetched_at": "2026-08-10T18:59:01.965412+00:00",
+  "total_fetched": 76,
+  "unique_count": 74,
+  "health_related_count": 23,
   "news": [
     {
-      "id": "af4b8c56d15f",
-      "title": "Metrô de SP terá vacinação contra sarampo, caxumba e rubéola em cinco estações - G1",
-      "published": "2026-08-10T10:24:03+00:00",
-      "summary": "Metrô de SP terá vacinação contra sarampo, caxumba e rubéola em cinco estações&nbsp;&nbsp;G1Linhas 4-Amarela, 5-Lilás e 9-Esmeralda recebem campanha de vacinação nas estações&nbsp;&nbsp;pejornal.com.brMotiva promove vacinação gratuita contra o sarampo e outras doenças doenças em estações de São Paulo&nbsp;&nbsp;diariodotransporte.com.brMetrô de SP abre postos de vacinação contra sarampo em cinco estações a partir desta segunda (10/08)&nbsp;&nbsp;tmc.com.brMetrô de SP terá vacinação contra saramp",
+      "id": "3f302f4f0cce",
+      "title": "Queixas sexuais na menopausa têm tratamento, diz ginecologista - Litoral na Rede",
+      "published": "2026-08-10T15:18:00+00:00",
+      "summary": "Queixas sexuais na menopausa têm tratamento, diz ginecologista&nbsp;&nbsp;Litoral na RedeMetade das mulheres na menopausa tem esta síndrome — e poucas sabem disso&nbsp;&nbsp;Veja Saúde“Saúde sexual na menopausa” exige atenção, alertam médicas&nbsp;&nbsp;ISTOÉ IndependenteMenopausa: dores e perda de libido não devem ser ignoradas&nbsp;&nbsp;Imirante.comMenopausa pode afetar vida sexual, mas sintomas não devem ser vistos como inevitáveis&nbsp;&nbsp;Diário da Guanabara",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSjVrNnVJTnVoemhDREFHSG4yZ19nWkZDalhOMEVBYm1jRzYzZjVQSmVjUHl2cks5UDd4akV0Qktmd2luOGo4WUpGZ1RrdnZET09YUldYdExGcGdGUmZJdGFvbXJ5djlfTFVpWDdsNjNrNVFJRkJRZ3REMHpWZzdDelNFVVZEU3pQVU9ITTdsQlpHdTZaMFduODNvSWY3NjY5aUhCZF85cGJxNU9TZDRGNjRRUjNMTXlqOUlMOG94NUFhcTAweXlFX0wzWDdzUk9rS3fSAeABQVVfeXFMTllyeVZQMGtCUEFMWU01ZDc3SjA4Z0FVLVVmY2VXNExQOE9uOW1VUG5BRTdYZXBOelRkOENoMWdWYXdKVG1EWFlIYlBRbDVPQUlkdE1sLXhtZ01oOTg0Unp3ZEVWbndMUnNGbkc4N1QyV19zMUZ6VXBDbTJLaDg5YXlqdlhyMjdyREdFRmJ0VjM0UFZLeTh6ZjFLM0c5ckNPUTljalh4YjBHbG0zRTBBNW1HVXhuTm5zVWJVbW1QUzlqM3VDUEktN0d4cGI3UWtNeE1fMnhCUlAyc0ZGMVdSRFM?oc=5"
+          "name": "Litoral na Rede",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcEprWU9ZazMzZXFGbVlMR2YxWG1XS2xqTXFqSGNoNWlSMVNxSEt4M1dXa1A5SXZWdXVVZm1YOFVRTFZJZHluUU9YdDBUNUFhMFpDampJd09CMDRZUUNIaU9PdGdERUpvb0hTV1VVdE9xUEJadUxHa1pCck9zQTMxR0JqZ1NWTkxiX1FaTFpoak9yTFNyM1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "836db2c4cf3a",
+      "title": "Vacinação contra o sarampo chega a estações de trem e metrô de São Paulo; saiba quais - Folha de S.Paulo",
+      "published": "2026-08-10T14:22:00+00:00",
+      "summary": "Vacinação contra o sarampo chega a estações de trem e metrô de São Paulo; saiba quais&nbsp;&nbsp;Folha de S.PauloEstações do Metrô de São Paulo recebem campanha de vacinação&nbsp;&nbsp;cartacapital.com.brSarampo volta a acender alerta no Brasil: quem precisa se vacinar? Veja perguntas e respostas sobre a doença&nbsp;&nbsp;BBCMetrô de SP recebe campanha de vacinação contra sarampo, caxumba e rubéola em cinco estações&nbsp;&nbsp;agenciasp.sp.gov.brSão José reforça estratégias para vacinação contra",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNFd3d2h0aEpoRHIxTGhVNm9xR1FGVW01QkxKQklNRGdnNjZ2N25mZndpdkp2cnNTci1wMnU3YWJNMXgyWE1Hdm9YOHBlOU9GTG03N21fVXJNSFBoZ0ZXczBPODJpNE8tYTAzcmI0QmQ2QnVVMTFYYm1LdW1HOVpoTkc4c3BrQ1NBWURraThkdTE1OUJHRjJSZUlMV3pYa3lOS2ljYUE2bUEyWC1KaFgydmhPYVZiS284MF9vckdBRHBvU1ExbEpmdmhOSVF2UXpTeXMtWWFUTDFFM0pFaXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e285ccaa129a",
+      "title": "Pequenos movimentos diários fazem a diferença para a saúde e qualidade de vida - jornal da região",
+      "published": "2026-08-10T13:14:20+00:00",
+      "summary": "Pequenos movimentos diários fazem a diferença para a saúde e qualidade de vida&nbsp;&nbsp;jornal da região",
+      "sources": [
+        {
+          "name": "jornal da região",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUmlBczdqRjlDWFJlNmtoc0xaSmVDeHVtUTZ4dUVCNlZaVW9Qbmdjdkdobm1FTFBDWXVKT1U1NFdkbF9tbVM3SXlMWDEwdXczM1prU1NkNHF5dy05OFFndm5seDY0ZzkxUEZVSUhIZXpWckxFT2ZKNE9SWjZyT28xRGpvV3I5NFNKR1JQRkM1UXUxVW9CRnpHQ2ZHTTF3Qk5XUDNCVXc0NWo2b2xx?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1b8c77d649ea",
+      "title": "Por que o número de infartos tem crescido entre as mulheres? Médicos explicam - O GLOBO",
+      "published": "2026-08-10T12:19:13+00:00",
+      "summary": "Por que o número de infartos tem crescido entre as mulheres? Médicos explicam&nbsp;&nbsp;O GLOBOSintomas de infarto em mulheres diferem dos homens e exigem atenção precoce&nbsp;&nbsp;band.com.brJJ: Crescem 42% mortes por infarto entre mulheres em Jundiaí&nbsp;&nbsp;sampi.net.br",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb2dJVnVURk9BQTZacGtyOTNpSDkyWmI1MTV4Rkx0NWJhaEdrUE50VWZTb295VTQ0QmZuN2VRUHhnNldZaGM0YXNyVnZVdVJmZzBsdklHT0dNdkU3UnJoVi1ISm8wbEN2VEJqWHlHQlhiYnNUanZEdG1mWVdpWnBod2oxLUZwUHRPdXF3YUwtMWF1VHZISkUzVVl6VTV0XzFUdWhhNmVNRGM5aDdVaU01cGlPYkVLaFM0YVhFZU8wYVRhQTFzZWduLXlnMEPSAdsBQVVfeXFMTWNoTldVMjFXX3ByaHgzRE1GZDZPMHlLbjAtbU5ZWXNNdkJoNkoteHJLV0k5UXFBVW5va2JmdlFPd2hnaHlocUlkRXdSUUh5QlllaEx0RGw0bDhEUzRPelFUVGx4RUNrMi1CaDZMaTdtc2h2b3FpaUN1Zi1OZkM5SnNZUTNOS0VaRGJlVmZFdUc4Tmk0NUxQdWE1YXV1MWdaY2RTNUVzb3Z2bERfS2U1ZmNiMExYSEtmV2RmX0lvc0tZUnZ5VFVER0FsY1NYbDY2S3pSZ2R2NDdjYXV3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e4af9c99e3fe",
+      "title": "Saiba quais são os três fatores que podem retardar risco de demência em até 13 anos - ICL Notícias",
+      "published": "2026-08-10T11:19:52+00:00",
+      "summary": "Saiba quais são os três fatores que podem retardar risco de demência em até 13 anos&nbsp;&nbsp;ICL NotíciasTrês fatores do estilo de vida na meia-idade são ligados a 13 anos a mais livres de Alzheimer na velhice&nbsp;&nbsp;VEJAVeja nove hábitos para adotar na meia-idade que aumentam a longevidade&nbsp;&nbsp;Folha de S.Paulo9 coisas que os especialistas gostariam que você fizesse na meia-idade para aumentar a longevidade&nbsp;&nbsp;EstadãoEvitar estas três coisas na meia-idade pode atrasar em até",
+      "sources": [
+        {
+          "name": "ICL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBjMEo5YnNOTWxHRjc5TUdDc2o2WFRhX3JyZHNiZGt4SHM3NWFUcFNBUHlSY2FodWxpNnY5R3hycWtOMkpxSWZCVW80Yi13T2JhVXRKcG9tVHpyME1jU01HSzBQZS1MXy1SWU5BVnhKbkpiX1d0VEJTLXlweTcyZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "49dc21954b16",
+      "title": "Aos 20 anos, estudante acorda antes do amanhecer, pedala para entregar jornais em 60 casas e mantém rotina há quatro anos para pagar a faculdade e ajudar no tratamento da mãe na Índia - CPG Click Petróleo e Gás",
+      "published": "2026-08-10T11:09:00+00:00",
+      "summary": "Aos 20 anos, estudante acorda antes do amanhecer, pedala para entregar jornais em 60 casas e mantém rotina há quatro anos para pagar a faculdade e ajudar no tratamento da mãe na Índia&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNaHkwbzR1UE9xTExjTUtyUzRxNHVJTFFBVkpLTTZVdzJLcWdDWFQ1czA0QUlPSFM1UnFad0hNS0N0Wi1UNkI0b1c4WVg1c1dkNVlGVFpTUTVwbUg1eUdSR0phcUE5UlpOWFU0ejY2MDlnNG03eGUwblNaOVNBUTZRSkVtNTEyY21BODBDSVBFSmVSYndrbEo4c3ZRRUF3U1JBdWI4a1dzN3ZfbkpfNWkwQ0dza21LdE5HTlYyY01INmJtS2FaakhuQlVmSm55NFo0OEVlNm4yVjltd0dVbXJCTXlVUkxzeVcwN0dhTFViemtpQmdITzN3Rlh0NnJ6SlZLVGlIVE8wRVJyMVl0NnFfb1JWaVBwbFhGd3RuRWtIN0F6Rm1rNmdNUmJRbE8tTFB0LVdXZGdFMW1IZ2p2WXZnYy16WQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0f550d7787f2",
+      "title": "Exames para prever doenças: o que descobri com aparelho que vasculha o corpo inteiro e tem 100 mil na fila de espera - BBC",
+      "published": "2026-08-10T10:44:59+00:00",
+      "summary": "Exames para prever doenças: o que descobri com aparelho que vasculha o corpo inteiro e tem 100 mil na fila de espera&nbsp;&nbsp;BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aOEQzcHBUQzVwTFd4MUNGaGZ5a1RwR2xDZW41dWpIdlYtejFrbFFCckwwbXdIUzVISXhpTTJqbE9XYjFlUDM0dllyaWlPNHlKTG9sOEhSczM0TXJValhmM0d30gFnQVVfeXFMT0VnWnFzbWFTbUMza0I5UldCQzVXLS1JVUQtS1gyZFZwcFdfUXpKZTBEWmo0dm1IMjgtbGhvUkVnSHIxTk5JQ1djbHRCZDJmVTdqU05YN1FPajI1TEV5blBwX3RnTlBmbw?oc=5"
         }
       ]
     },
@@ -30,14 +102,50 @@
       ]
     },
     {
-      "id": "4447c2c83567",
+      "id": "32246709fc22",
       "title": "SUS inclui teste de alta tecnologia para rastreamento de câncer colorretal - G1",
       "published": "2026-08-10T09:52:35+00:00",
-      "summary": "SUS inclui teste de alta tecnologia para rastreamento de câncer colorretal&nbsp;&nbsp;G1Menos invasivo: SUS inclui teste fecal para rastrear câncer colorretal&nbsp;&nbsp;UOL NotíciasSUS passa a oferecer teste de fezes para rastrear câncer de intestino&nbsp;&nbsp;MetrópolesGoverno inclui novo teste de rastreamento de câncer colorretal no SUS&nbsp;&nbsp;O TEMPO10/08/2026 | CAR-T, rastreio colorretal no SUS e avanços contra o HIV&nbsp;&nbsp;Afya | Home",
+      "summary": "SUS inclui teste de alta tecnologia para rastreamento de câncer colorretal&nbsp;&nbsp;G1Menos invasivo: SUS inclui teste fecal para rastrear câncer colorretal&nbsp;&nbsp;UOL NotíciasSUS inclui novo teste para rastreamento de câncer colorretal&nbsp;&nbsp;Correio do PovoNovo teste com alta tecnologia para rastreamento do câncer de intestino chega ao SUS&nbsp;&nbsp;VEJAFármaco contra mutação e teste no SUS: os novos aliados no combate ao câncer colorretal&nbsp;&nbsp;GZH",
       "sources": [
         {
           "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZl9JaGhjREpDZURMMVVRT0d1NU1kNFFuc0NxaXp3X2Jkci1Nck55Zk1VYXM3TlF6UzBVTDhpdVY1al9CcGJxY2dia1VCU01pRERlRUJTU2R0Q2MxeEN2WkZ6WjZDeWdWVUpLcmcxS3ZzOHA0Z0RwaDBfaGJvY2pmQ1MxMTNzTXo2ZFVPc0V1ZHZMWXFNTFQxa0VNSGZKbG4ySlo0d1VaalBIV1lFZTBvaG5hdV9uc2h0Q2dNRWJCdzJIaEtr?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZl9JaGhjREpDZURMMVVRT0d1NU1kNFFuc0NxaXp3X2Jkci1Nck55Zk1VYXM3TlF6UzBVTDhpdVY1al9CcGJxY2dia1VCU01pRERlRUJTU2R0Q2MxeEN2WkZ6WjZDeWdWVUpLcmcxS3ZzOHA0Z0RwaDBfaGJvY2pmQ1MxMTNzTXo2ZFVPc0V1ZHZMWXFNTFQxa0VNSGZKbG4ySlo0d1VaalBIV1lFZTBvaG5hdV9uc2h0Q2dNRWJCdzJIaEtr0gHTAUFVX3lxTE93dDZYOV9DVFpYdkRvRHpaeDF3V01hbTJxMGZwQ1JSR3hUdG85blZ5LUR1YUwtZUtBeVUzdkQyZkZjZVFnVi1rUkc4X2s4QnZIN0ItdGJudVRpczJUZW9CakY5ajMxbHZNTEdBSkxQeTNNOTJsSDVwZ3VMSTYzZmRIY1pqd25UTDkyVElKdkZlZllRWmtQZzA0WGFxLXVLdHN4UXRLMXJjU1lIRnNqZ3p0aEt4M29MOWJQX1BHUEg5WGhNUDhWbjhFN0JOdGt2U2UzR1U?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0600b26324f7",
+      "title": "Começa Semana D de vacinação contra a raiva para cães e gatos em Contagem; confira locais - G1",
+      "published": "2026-08-10T09:51:07+00:00",
+      "summary": "Começa Semana D de vacinação contra a raiva para cães e gatos em Contagem; confira locais&nbsp;&nbsp;G1São Gabriel do Oeste inicia vacinação antirrábica pela zona rural nesta sexta-feira&nbsp;&nbsp;IdestBarra do Piraí promove feira de adoção e vacinação antirrábica gratuita&nbsp;&nbsp;A Voz da CidadeVacinação contra a raiva segue em Patos de Minas com novos mutirões para cães e gatos&nbsp;&nbsp;clubenoticia.com.brCampanha Antirrábica vacina mais de 2 mil animais em ação deste sábado (8) em Barra",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPcTlvaHFmZXZ2ellYd0xEVlBTb3d1V1QtbEtabmM1QURyYWVubTNTeHVWRGs3a0ZqQzZpWTVWamVoUmN1NEdfbm9GaExwb2lJX2dORlN1Tll0WmVCTlRfV2dENC1HQzFHd2xLY1pHY1FHdjJ0dDZLTnZ5d1RKcnJPTXBhQ0lKdkw2RXN3d09CeVFoSFRodEFmeHVGODA2S3B2UTdWYzk5SFNNNTF1ZDJDRHBydk1TY1hjbmVid0NYUUwzd2dyS2hfd0FNR1ZYNFllT0MwODF2V1phRHBQZDB0N1QzaXJBaXJ6OHd4LVZUTXFTMzY0UWZn0gGGAkFVX3lxTE1MTldadUI0UTYwaWhvNENlSGU2TmU2NWktMzdlbnBVZ1ZWWlZPaWtUUXBrTkd6bTdMUVg4a1MwUmVEa2FLV1o4bElBMktXRW5JdXNjWkRWZnJsUlVYZjd3SXUwTjB4RVU2eUFKUkNNR01taG9IQy1sdlFZVnRPYklmT1hoWkE0UVlhN2VwTEhyb0ppOF9haEhfSzJFX2RlTEVkT0NGT0dTb0p4NHJUN29GUERaVW5udjFwd3B3ZFdfckpRWVNGc0YxcEtEcXhxSFhXMWkzQ0RLcHRKWXZNX09HYjZGM1NSWXhfNVVuNDhtdEM3YldHY052bkRYS2xlZW5VQ1Y4Qmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dc66d7f624e0",
+      "title": "Pesquisa Registra 27 Novas Espécies de Abelhas Nativas na Soja Brasileira - Forbes Brasil",
+      "published": "2026-08-10T08:00:00+00:00",
+      "summary": "Pesquisa Registra 27 Novas Espécies de Abelhas Nativas na Soja Brasileira&nbsp;&nbsp;Forbes Brasil",
+      "sources": [
+        {
+          "name": "Forbes Brasil",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVElOVndzUzlVM2pSUW9iSDZNMWFsajN2b2JWdnBjdnREMXlLRkxMeG1lb1hvenpHeDBLWUNUNDJiazhRalRKWWkzVVEza2tnT2wtakJESnZMb3RXdklJb2lidDIyR1dMMklrTFUwUGFwclpVOGVmRENkR0hBVDlvVC16R2lVeTdKMXJRX0Zhb3pPTHFob3h5TGFLNzlsLVdsZWV0bXNqZnRISXBDRFVZZHBCUmN4Vk0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "86286fe191b1",
+      "title": "Por que tanta gente infarta na segunda-feira? - O GLOBO",
+      "published": "2026-08-10T07:30:29+00:00",
+      "summary": "Por que tanta gente infarta na segunda-feira?&nbsp;&nbsp;O GLOBOPor que o risco de infarto aumenta nas segundas-feiras&nbsp;&nbsp;Diário do Centro do MundoSegunda-feira pode aumentar risco de infarto; entenda por que o coração sofre com a mudança de rotina&nbsp;&nbsp;Blog do ValenteO que acontece com o coração na segunda-feira? Estudos apontam aumento no risco de infarto&nbsp;&nbsp;Rádio Costa Sul",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTk1uTmRfUWoxMENkaUwxUWd1aUFxbUJncEo5SVhHWTBtdzNaT3ZyZXYtOXN4d1J3YzJERXNMUTZUYURReU5YRi01WWVZN29vTHZKNjg3QkM1ZngtTkRuOXZUTkg2bUg1d0pNeHgxdHhIbnA5d2dvejhOamVKMG9vWTFHMGVZOF95UThLYmFQbzkyeUJtQjFTN0pGV1RHRjhEQkhNTWhLOVI1SHZ4MHfSAbwBQVVfeXFMT2thc2Vtb3E0aWozVS1qUW9zRnZXcHlTc2RSel92MHlBTnJjNlVvel82OGp3c1NBZEIyamszZGxvNnRhZXhpRXVzYWphcThRX2lEeUZ3TE4yakxYRm1FVUs0S2dPQlZNalcwWXRlRWpjWi0zQUw5MWxmVXhyUUl4R1UtOVJtNDYwRm1VRlZtdnFaejVBZk1jZWNsNmJ6dDNoemRTTlRlYUxzSGU5eWliLS0xVnlsbEdPLUp4UE0?oc=5"
         }
       ]
     },
@@ -66,50 +174,26 @@
       ]
     },
     {
+      "id": "ba3f30f454d2",
+      "title": "Seca prolongada ameaça uma artéria econômica vital no coração da Europa - O GLOBO",
+      "published": "2026-08-10T03:00:19+00:00",
+      "summary": "Seca prolongada ameaça uma artéria econômica vital no coração da Europa&nbsp;&nbsp;O GLOBO",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQR3N4R0VPZzhub3R5Z0Z6LXpkU3BjT085LVRzYzJ3YXEwZ0lHMElZYjhDMk0yTmNjaVJ3VUlfX0RhUFVrTmVxbmVNaHJLTTZHaEh0enpMdV9ZVW5ZeWpWb1pLdlZhU2tkZjJQdnRRVzFQT1cxd3k3T0Y5SXcteWItTkswVkwtQnBEWHU4Qm92N21MOTBWQ2QzbFc4R183TmZjSzB5b0NuTl8yd3YzVkhlaHg1dmtBVV9kN1MtQzEyZzhFU3pVVmfSAdQBQVVfeXFMTmpaQ2dJYWJMUTg3b3RUbXo1SXRmYUJYTnc0REZfRzhqNWdWNG9kdkkyN1FURVBBVWp4ejRPQmx0WHFkX2N5WXpPUWxKWWdvRVlEUXpWVDJiclN0T2JnYy13QjBGSkFlVzNsYzBiSmpEdGJJcUNmSzYwdHhlVHBPdklYR1h5TjVWVXJXSk51WEYwcURXZWdEM2tXLVIxZUlaQ3EzbG5sd2VFTWVKN1BoNWt3Wk9sU2VaMG41alljRGxQcE9JcFB3Z2ZXSS1DQ2EyN1VWb0E?oc=5"
+        }
+      ]
+    },
+    {
       "id": "7cc19f15c12a",
       "title": "'Epidemia do suco': busca por corpo perfeito leva mais pessoas aos anabolizantes e preocupa médicos - G1",
       "published": "2026-08-10T00:43:14+00:00",
-      "summary": "'Epidemia do suco': busca por corpo perfeito leva mais pessoas aos anabolizantes e preocupa médicos&nbsp;&nbsp;G1Massa muscular obtida com anabolizantes é perdida após ciclo, diz estudo&nbsp;&nbsp;CNN BrasilCardiomiopatia hipertrófica: entenda a doença do coração que pode ser agravada por anabolizantes&nbsp;&nbsp;Biored BrasilUnifesp cria projeto para ajudar usuários a abandonar anabolizantes; saiba como participar&nbsp;&nbsp;Diário do Centro do MundoDe arritmias a morte súbita: cardiologista do",
+      "summary": "'Epidemia do suco': busca por corpo perfeito leva mais pessoas aos anabolizantes e preocupa médicos&nbsp;&nbsp;G1Cardiologista alerta sobre riscos do uso de anabolizantes&nbsp;&nbsp;band.com.brMassa muscular obtida com anabolizantes é perdida após ciclo, diz estudo&nbsp;&nbsp;CNN BrasilCardiomiopatia hipertrófica: entenda a doença do coração que pode ser agravada por anabolizantes&nbsp;&nbsp;Biored BrasilUnifesp cria projeto para ajudar usuários a abandonar anabolizantes; saiba como participar&n",
       "sources": [
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeEZxYzdmb3hDM0hvaGxQVDZQdTFnR3RzVU9NTnl4X0hpLWV1UVl2STZjemh3MDc3c2o1S0g0aXdrYVpMZW05ejBuc0RPejdWUE1EWTFKN1pHNUZrYzNMMGF5Vjdjd2NBcElCcmNQTXhtVExnbVB6LUI4bkVjOE5qREh1aWRmSU9kcWVqc093S3NGTnhKMEE1Sjh4QWUwVXR4NksyOEVhWEF1aF9zZTlkTjFLbFdZX0lmOTcyaV9pNlFCbkNPV09ERWM1Vk9pZGtUZEJPb21LM09PMzh2aUJ4aXJzcVA4d0w30gH3AUFVX3lxTE9EeVB1Ti1LMDRMaVcxZml0T2V3TXlUbm5jQ1RjQUNOaG5STXV0QkhPNzNqM1BEZm1ZTDlSc0ZIY2xNZkVuXzVxdEVyUGhoRkRrMWVUc2FoZkZkN3d4VnNQZVZKNjFodmR1ei1Kbmt4Sk9VNFk0UnpEamNzLWNIdVppSkhEWDZ4c3Z2RUdnQVhnZ2hjUWF4S2VPU1QyaUFxMmZUOEtVV1pFWjdqNzNrcFhiTm5fQmUtc0VES3Qzc1hlZW4yeVY2aUZmdloyaGdONUNkYzNOd0xILUxGbUxyc3l1WklNUm81N3lvOHRMR1VwV0Q5NmQzTUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4895f4643d49",
-      "title": "Menopausa: queixas sexuais têm tratamento, diz especialista - Acorda Cidade",
-      "published": "2026-08-09T23:04:40+00:00",
-      "summary": "Menopausa: queixas sexuais têm tratamento, diz especialista&nbsp;&nbsp;Acorda CidadeMetade das mulheres na menopausa tem esta síndrome — e poucas sabem disso&nbsp;&nbsp;Veja Saúde“Saúde sexual na menopausa” exige atenção, alertam médicas&nbsp;&nbsp;ISTOÉ IndependenteMenopausa: dores e perda de libido não devem ser ignoradas&nbsp;&nbsp;Imirante.comMenopausa pode afetar vida sexual, mas sintomas não devem ser vistos como inevitáveis&nbsp;&nbsp;Diário da Guanabara",
-      "sources": [
-        {
-          "name": "Acorda Cidade",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaUNUQU83QUtjYWhyTHl0ZXdIbEw2ZzZ3d1V0bXZnZ3dqcW5ZOWFhWk10SGphdlRGOGp6N3Q4MTNlekVfNm45WmJtTy1qSjAxelBnaWdOT3U3ZmxucU9ySEEyUEx6RDZ3VUVQWGpHLTJHWkpkYUN5elpfbGV3cG1wSHROckdMZXdBX0cxZzlUcGdCaGkwN1UxYlYtS1A?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "06bd75d0c59e",
-      "title": "A psicologia aponta que pessoas \"preguiçosas\" que procrastinam até tarefas simples podem esconder um medo paralisante do fracasso e evitam começar para não correr o risco de errar - Super Rádio Tupi",
-      "published": "2026-08-09T22:56:30+00:00",
-      "summary": "A psicologia aponta que pessoas \"preguiçosas\" que procrastinam até tarefas simples podem esconder um medo paralisante do fracasso e evitam começar para não correr o risco de errar&nbsp;&nbsp;Super Rádio Tupi",
-      "sources": [
-        {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQT2VfLXNSLWtpT3A1LVBVcnZMaUJOOUkxemVNUmppTWpPTi1VMnFaLW1udFBWQXh5bnpEZFdPamY3WFB5OUxuLWRsanV5TFBZQVBBSTdFM0haUUJacHpWem5kWlhlZkQ0TzFtUlljdVBMWXhpT2lpeGJHSm9LOXo2dGFjT212RjZwUDA5czN0OG82eFJ6RC1aQ1ZnbjB6NmZTTlJkWm5RUUNPVlNGNFZjd0F3YXVnaVZ3R0ItbDFGMVJSaGhBeml2bFpxM0NzWkJYUDJWYmkwU2xzcTdQRWY1bl9kXzYxZ0hIUFEwRzQta1lXVjlJVDY3X1Q4UjVfSUVOQmdCSVNWQTdfWERqbHNVUHRaT215endMV084d3o5XzdvRXdKNmgtNlNnNElXenBJXzNNczh6Z0o?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a3b89ab6553f",
-      "title": "Javalis criados em Goiás podem abrigar bactérias resistentes a antibióticos; entenda estudo - O GLOBO",
-      "published": "2026-08-09T15:38:01+00:00",
-      "summary": "Javalis criados em Goiás podem abrigar bactérias resistentes a antibióticos; entenda estudo&nbsp;&nbsp;O GLOBO",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTlAwMFJqX1Nib1BJTk9hM1JrMWptQW8tSmphRlNxa2pGc1BjNk5adjg0dXRWSUpCcy0zT2Z6My1sbGR5RmY5RTRGLUR6bTBjR25JNVIyZllKdFVtNE9nVHhaeVU1dGNXdVUxcFM3SHFkTHVvTnBuOVpQNkJFbzRmbEFSelhPR0VnNlQwUllBV2JObkQ3UmdLQlV6Umc4cGhnMzN4TzNtaDc2MnVuTEhqNVJLS3F2ZmU4UDVRd0E1ZnZzWlg1eU43eDR3VUZXT2w2TnZYbWdvc3k0YlkydzVwX3JSdVhjNzVsekHSAfgBQVVfeXFMTWhUdEc4UURMOEpPV0lNdmF1cXcyajFCQmhDRVR6MjhidUlNS3JUd0U2MlVkSGZkdnMxYWt3Q0J3V2RTWmJ6d3F4NHhzVXZWbEFmNXdSbmVhOVFwVmhoSktsR2hMbnRvbVU5ZkxBQWJwRWNNaHRzcFdmRXhkSkVWNnQ2dDF4UFRJWUR6QTRrTVI1S2VUeTBkd01MOUNSVWdfdXM5R2liajVWQjk5QnlOOXZOZ1lWU09iaTlyczJ2blJYVl9Va1BqWGVlT3Y4MG90NjVpajZqcmtKellMZjJNUVFSclNMeFNNaHIxWGdhbVlwd1pTalVnNkI?oc=5"
         }
       ]
     },
@@ -126,26 +210,14 @@
       ]
     },
     {
-      "id": "84d92884fe28",
-      "title": "Segundo um estudo, as Cataratas de Sangue da Antártica abrigam descendentes de antigas criaturas marinhas - O Antagonista",
+      "id": "b22d943515e7",
+      "title": "Segundo um estudo, as Cataratas de Sangue da Antártica abrigam descendentes de antigas criaturas marinhas - oantagonista.com.br",
       "published": "2026-08-09T13:23:00+00:00",
-      "summary": "Segundo um estudo, as Cataratas de Sangue da Antártica abrigam descendentes de antigas criaturas marinhas&nbsp;&nbsp;O Antagonista",
+      "summary": "Segundo um estudo, as Cataratas de Sangue da Antártica abrigam descendentes de antigas criaturas marinhas&nbsp;&nbsp;oantagonista.com.br",
       "sources": [
         {
-          "name": "O Antagonista",
+          "name": "oantagonista.com.br",
           "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNmM3T1p0aEs0RXppcE5uVHNLNnRJUkt2Sk1wdTJlVHlHc1RMM1l2bnRSRmVuYWExblhxaTI3dUtOTnpYR1BsNTZZZXdzOVh5TnlCck9ac0lSc0wxT0xUVGs2eEY2Y05BcG5RYzB0cTdMN09XdXgzMThOekVYWmhUc0ZwRll0QXY1cDJVNXNYY1hTZjBwRnBDTDlVZm42SjFRN3lYZkhJYk5UWXRuNEJCb0RZakhYQnRyTkVkaTI5VzVuTmlKU3o2STlsc3I4WEs3SklYclplY1JMRDJWWXl0bXExbkh2RzdmN1Nj?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "684c0d805c20",
-      "title": "Depressão pós-parto também pode afetar pais: 'O olhar social não espera que ele esteja fragilizado” - Globo.com",
-      "published": "2026-08-09T13:21:34+00:00",
-      "summary": "Depressão pós-parto também pode afetar pais: 'O olhar social não espera que ele esteja fragilizado”&nbsp;&nbsp;Globo.comDepressão pós-parto: quando a mãe também precisa ser cuidada&nbsp;&nbsp;Blog do MagnoDepressão pós-parto também pode afetar homens; entenda&nbsp;&nbsp;Rádio ItatiaiaPoliclínica de Quirinópolis aborda saúde mental na gestação e no puerpério&nbsp;&nbsp;Diário da ManhãPara além do bebê: por que olhar para a saúde mental da mãe?&nbsp;&nbsp;Terra",
-      "sources": [
-        {
-          "name": "Globo.com",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWGU4WHJnN0w1dk5rM19Db2V6SGdBNk5iRkIzd2NTa1lWTE5qRVN4ay1vN0FSSy0yNHNUVFNHSGdqRXFfLUhTc240dW1kc05SdDBpWG9rT0E5czlwMWZVc081c3ZOdzdQNGtQMURZV0NHbUhqa3U1NGtOTVRacWVKRHFkcEptTlhURWE3U3NfNmNSTDdFTlRMcGp5WW1sZ3VTYjljRkdOMGVKR1g2ZEJRaURLX2JmR25TQUVON1hRV0dhbFpneTBZMG9aRzh1ZHA5R1h2X2VqcXZBUGNTUVJrYmVuWWROUkZPS0U40gH6AUFVX3lxTE9pampiWDZMZXRiWUEwR1dDUVFRdTZ0ZWtKaS1OamZYa09uZGhQN2JsZWFWVEk4UlA4UHEyT2tOb0dBWE9MekRuMlBuazNfbWZVRlFEVHZya1RRNzZOS19fX3pHLXRJRjhjOVRRaFJQRncxZVFHNThwWVRyaUJYSkhnMHlxejQxTTlmSHZkdDdwRHA3T3lTZ3lEN1RtQlRESEFLb0ZTQzU1VGNNQ01MZkVfUzhfVXhOLWswZzJ4U0ZPSEJEY3ppOFMxOENkVC1oU3Z5ejJ3QVNhTW1hQm1ENy1XbUFkaXM3MmRwY0NqaWFuSFdGTGJzV1lXMFE?oc=5"
         }
       ]
     },
@@ -177,23 +249,11 @@
       "id": "48f66048dda1",
       "title": "Açúcar foi tão chave quanto carne na evolução humana, aponta estudo - Folha de S.Paulo",
       "published": "2026-08-09T09:00:00+00:00",
-      "summary": "Açúcar foi tão chave quanto carne na evolução humana, aponta estudo&nbsp;&nbsp;Folha de S.PauloComo a carne, açúcar foi chave para a evolução humana, afirma estudo&nbsp;&nbsp;MetrópolesGlicose de frutas e mel pode ter impulsionado evolução do cérebro&nbsp;&nbsp;Correio BrazilienseAçúcar foi tão crucial quanto carne na evolução humana - 07/08/2026 - Ciência&nbsp;&nbsp;UOLEstudo revela que o açúcar foi tão crucial para a evolução humana quanto a carne&nbsp;&nbsp;Diário Goianiense",
+      "summary": "Açúcar foi tão chave quanto carne na evolução humana, aponta estudo&nbsp;&nbsp;Folha de S.PauloComo açúcares naturais têm sido fundamentais para o cérebro&nbsp;&nbsp;Gazeta do PovoComo a carne, açúcar foi chave para a evolução humana, afirma estudo&nbsp;&nbsp;MetrópolesDo açúcar vieste? Estudo aponta elemento chave na evolução humana&nbsp;&nbsp;CNN BrasilGlicose de frutas e mel pode ter impulsionado evolução do cérebro&nbsp;&nbsp;Correio Braziliense",
       "sources": [
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYzJIalBJZ19OX0xieVltVmVkTkVoNDMxekJMYTE4eFN6RlpBbGpkbER0ZXdyNTF1SzhFcS16S0FGTlpHenBtTFBCb2JrQVFrZ1RLS2l5cXRxeVl3Z2Y4ZlJUZFRyTGNFckxocG9faUs2Uk1WRkhaTXV0VzJnS3JHZV9fSC13UzZ3U0tERUNaaFRMTlRPd0xCYWw4NXhLUzBNQVZ3Z3hwOFkyemxTOGVic05uMmh6dXRUVVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d989088dd56c",
-      "title": "9 coisas que os especialistas gostariam que você fizesse na meia-idade para aumentar a longevidade - Estadão",
-      "published": "2026-08-09T08:30:00+00:00",
-      "summary": "9 coisas que os especialistas gostariam que você fizesse na meia-idade para aumentar a longevidade&nbsp;&nbsp;EstadãoTrês fatores do estilo de vida na meia-idade são ligados a 13 anos a mais livres de Alzheimer na velhice&nbsp;&nbsp;VEJASaiba quais são os três fatores que podem retardar risco de demência em até 13 anos&nbsp;&nbsp;ICL NotíciasVeja nove hábitos para adotar na meia-idade que aumentam a longevidade&nbsp;&nbsp;Folha de S.PauloControlar três fatores de risco na meia-idade pode adiar a",
-      "sources": [
-        {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMWJoM3pEcVJldHA5THBjbTZ1RHM4M28zOGdUbmRVdzhuUDYwakpmYW1qWW12ZTU1YUtmd2FpSE5UZWVHZUt3ckVvdnJWMDhndm4xdE5ISTItSjJ6WmtLSldiWjVBOTZvLWJkVy1uaGpRU0dJSHZyUWRzWTBXOXFpUTY1dWptVUxhWkV0cXRDUEFuRHVyOWw5MTJqUGQxWmhBMnZ2eUduWFdLQW1vaDNjY0NYOEQ3ZE5MV3d6dDN1ZmZOTk1nVElwU19tSTJRUnBTODdPSmNaSFhia0VDXzZmeXRBeGpBQdIB6wFBVV95cUxQSHBzaVZWTEdtU2M2OTRxbUlXamtrdjBXSkQ2ZFRPbzVLWldHbkVYMnRHdDFQcVlKSDV3N1pqZkduaFBZYmhpTHJxUnFTNmEzMjI3dGFhSmU1WE5qNUNYZkFlams2RXRBZnVQZEszY3J1bWZXdVlneGo4LVhYZ1ZPdk96MHZaQ0dOd0FOdElJS19fN0ZpcmdiTkFEdGRMbHVPcnFieGFHMXJ3aVYtVHRfbWFVRWxlTG4ySXYwdFdZc214ZGZGSUFnUmJMbUd0WkhYQmd6bnllcXNycktyUmpWb3VMaG1hbnV0V204?oc=5"
         }
       ]
     },
@@ -210,26 +270,14 @@
       ]
     },
     {
-      "id": "da0cd2cf7091",
-      "title": "Posso recuperar o sono perdido dormindo 12 horas seguidas? Veja o que dizem os cientistas - Época Negócios",
-      "published": "2026-08-08T19:41:16+00:00",
-      "summary": "Posso recuperar o sono perdido dormindo 12 horas seguidas? Veja o que dizem os cientistas&nbsp;&nbsp;Época NegóciosOs riscos de dormir pouco e por que algumas pessoas precisam de menos horas de sono&nbsp;&nbsp;Folha de S.PauloProcrastinação vingativa do sono: entenda o fenômeno que tem afetado chineses&nbsp;&nbsp;Rádio ItatiaiaHábito de adiar a hora de dormir preocupa especialistas&nbsp;&nbsp;Jornal A Voz da SerraDormir menos de seis horas por noite afeta o coração e o metabolismo segundo especi",
+      "id": "fb82ea4e5250",
+      "title": "Tratamento de varizes em idosos: cirurgia é possível? - GZH",
+      "published": "2026-08-09T07:08:17+00:00",
+      "summary": "Tratamento de varizes em idosos: cirurgia é possível?&nbsp;&nbsp;GZH",
       "sources": [
         {
-          "name": "Época Negócios",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMVVCYkt0YV9GaElrNGVRWG9ITDdwZi1IOGwyNWc0TmJLY0tkUUQ2Y282Q19hamtveTFmbGFOZ2dyT3hBLVhURHBPRzZVYWUyS2x0dV9PdnVVUGF4bl9qamxibzdINWFsZlBrV0NzVkMydV9nLU5haVpuQjFXTW9TS0N3MjhxanBoVzU2TVI3aEVnM0dSSlVjUWZTajBhQlJlYWxnSlZjdjF0TjdBRlEtLWQzbEZyQVVSdTMzT2lMX0JZb3ZuZ21YSGNpVkxiQ2hqM0VmZGhjR3pOdXhMdmhQb09kYnllRmc1Zl9abXU0NNIB_gFBVV95cUxOTHRMZFFlWUJkNExOWGQtaEdPMTN5eDZfanE3MW8wWGZZYkg2MDVndTg1UXZvODI0S3Jna1pyeFc5ZHR4YnZfaXpnaVRTUy1uLThKc3FuR3I4aHdKMi1qOVpBODRLSlFhTllZd0ZZMmtXYjN6OFl0ZGJpTnItU29jYm5sTERueWdJY2x2cG40QUN5eGh1aG9iR1d1UVhhT3luQ0JFOFBobDhNNUZIMHdLU1dQWW5FaXZFM0ppcEEzTkFoRnktenFOLW9oWk1ONGRyRjNKME1NZThqLWVXTXdSUDNFZjhyT2pKQXFjTFJOYlhNZEYyaGVpeW9QQUVHUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d001e14a22aa",
-      "title": "Dinossauro no Pantanal? Espécie de mamífero gigante intriga pesquisadores - Primeira Página",
-      "published": "2026-08-08T13:27:09+00:00",
-      "summary": "Dinossauro no Pantanal? Espécie de mamífero gigante intriga pesquisadores&nbsp;&nbsp;Primeira Página",
-      "sources": [
-        {
-          "name": "Primeira Página",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZC1zUlNMZmY5RC1VTUt2c1A3SVdfaFpLSmRUUmFHY3ljTzBKQjVWc3dURXFXOHpVT21fYmdxTWZzX01SMFBIZGRDaDdxY3J4MUU3eEdTTGUyOXpSajdaY3VoX3lHOUE1VGd4QVVaUk5OSDNzZ0lRU2gwa0IzRVBSNW5FaE16TDFJVTYwR3hfejZDY2hQYTI3Z1A4ZDNvbllaX2JVbF81WXdKMlFnRDM3cWJyQkQxQzRjb0FiSWllXzdxWjg1a1E?oc=5"
+          "name": "GZH",
+          "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPMnA4TEN6ZmRZS2E3aElKd0FYOVlCZW4yek9WTHdsZVJjVzhrUjZjX0U0cEJTU2JtTXV0ZTltSUh1U3NneUFpdGp1V1NHRFdCLS1tRTJCMU9wZHVNQ1RLdkI0RkRRa3Jkc3hwNHh2Y0FMTTZyUVp1Qkt4ejkxN2JUTmF1SVJaMmRuWWU3ekMyNU5sZ2lUMU9sWHAyWUJPQjBfTnNPbGhyNENKT3pIZzhhaklENmZLWUp2UWk3OEg0bW1INFdtZDJTcHpVLVpSQVVpMnpsYVQ4MjFHOFh1S2ZodTRJclRkV1FPa253R0VSdEEtNXkzVjRJek42TnlmZmxVSVQ1VHdBRFN0VV9HbWlSVlV6OHdsZFFybUtEb05VZm0xV0VWOEVXMV9Daw?oc=5"
         }
       ]
     }
