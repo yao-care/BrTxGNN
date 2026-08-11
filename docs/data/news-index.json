@@ -1,7 +1,336 @@
 {
-  "generated": "2026-08-11T07:10:05.330886+00:00",
-  "count": 22,
+  "generated": "2026-08-11T13:08:27.109882+00:00",
+  "count": 29,
   "news": [
+    {
+      "id": "7d0cf7c9f87c",
+      "title": "Conhece os sinais da baixa hidratação no organismo? Especialista explica em vídeo - O GLOBO",
+      "published": "2026-08-11T07:30:17+00:00",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMHVMRDNkR0xVNnR3amp2MHFlSEF5blhsWEF1ck9wNklEZkx1Vi1uRkVhQ3BuczljOW5ra1BNMEhfWGlOUzc1TFBtRl9KQURlc3N4T0djYU0xMW11NmFnUkdxdEdYMGxoQno1cVQyR3VRclM3NEVEQV9MdmNPT0xQeElXN1hEWThBUk9qWWcyZHQ0TnFjalVCR2wtSnBzQ1gxMlZJODdZeThLZ2pWamZicThyR1NCV0dyanZiMFlTZE83aVVPX01ubTlxNHc5bDRh0gHfAUFVX3lxTE9rWnBHZzBSV0UwbGZUcmJISUsyYTE3SlZ0TDNYSWUzaEpSanFJckZPNFVGLVdNZC10RW5fdEVzMnpkcnBtYlptbFFxSFk4bjRlUElWSmpvRlZiUVAwSFJDOUJJTHQ5VTg1QmRrWnpmTDZrMGd3ZjlxX0tHSEUxQ19aTEJ4ekN3dG1RamV6U0ZXN09nc0RnTzhwYzBBX2NHYmZEdDVWX29iM1dzdEE4QkttcEZreFN2aGgzNVp4dnpvemdWc3VEQUxhUTkwVXVBamwzRHpUOHk4eUFTeUR0dUk?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "tadalafil",
+          "keyword": "CIALIS",
+          "name": "TADALAFIL",
+          "url": "/drugs/tadalafil/"
+        }
+      ]
+    },
+    {
+      "id": "863c3d9a44a5",
+      "title": "'Ganhar uns anos a mais de vida': usuários contam por que decidiram abandonar anabolizantes",
+      "published": "2026-08-11T07:01:48+00:00",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQ0UzY1lXRkk0RWotMW1JNVhqV3EyNWg3aFd5MlJyTU9EQVdkVDRFSmhzMnpPRldNRlRlbzNQOTFyQ2NyVmIxZjhrQ0l6bEpWcjJZUzBrQ3RlNGVKdUVpUjk0Y3NsdllfSGVLaVVyckE5MWNEa01Xa0l1WHJZV2g1RjNTbDNiLVVTU1BDelFGYWFUTTNfci1naGJpQ25LaTRuTl9FQTcwMEgxRDNUZ08yRi1tOGtDalVXVmU2WFBYbVBfQ3FJX1BpZVFtUHBrSWtpT2MtRmdCeEQ4RkVpWEFtMWN5TnlqZFZI0gH3AUFVX3lxTFBLNzk2QUR3OFBmM1hacDZoTmxxd2RVX2x4dHFpLXdoSkFwTFotUmpoRXJnR3hvLTNNQmlFT1czWklmVDlhMXlNeVA4Um11Z0RURnY0U2NIVWh3RFhQUUFSWVpsZlpLYW40RXhCVkxYNFZBUFZJX2V2a3BHZGpSZkxudnhBcEJmY3RoZnlyRVFkNnRtcHdaTkdVM1NVVUlmRDNSeEJVSy1CMWJYeHE4SzZFZ3NIM0RNUi12Z2tmWGRlOGRjOWU3QW9NRlRrbUVZWTk2MHJRMjItb0xjSlh0Sl9FZElTWkxzR3VPSW5xbm94VnJvRlZnZGc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "levetiracetam",
+          "keyword": "TAM",
+          "name": "LEVETIRACETAM",
+          "url": "/drugs/levetiracetam/"
+        },
+        {
+          "type": "drug",
+          "slug": "golimumabe",
+          "keyword": "BIO",
+          "name": "GOLIMUMABE",
+          "url": "/drugs/golimumabe/"
+        },
+        {
+          "type": "drug",
+          "slug": "etanercepte",
+          "keyword": "BIO",
+          "name": "ETANERCEPTE",
+          "url": "/drugs/etanercepte/"
+        },
+        {
+          "type": "drug",
+          "slug": "decitabina",
+          "keyword": "DECI",
+          "name": "DECITABINA",
+          "url": "/drugs/decitabina/"
+        },
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        },
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "doença do coração",
+          "related_drugs": [
+            {
+              "slug": "camphor",
+              "name": "Camphor"
+            },
+            {
+              "slug": "selenium",
+              "name": "Selenium"
+            },
+            {
+              "slug": "potassium_sulfate",
+              "name": "Potassium sulfate"
+            },
+            {
+              "slug": "trimethoprim",
+              "name": "Trimethoprim"
+            },
+            {
+              "slug": "lisinopril",
+              "name": "LISINOPRIL"
+            },
+            {
+              "slug": "thiamine",
+              "name": "Thiamine"
+            },
+            {
+              "slug": "gadoteridol",
+              "name": "Gadoteridol"
+            },
+            {
+              "slug": "laronidase",
+              "name": "Laronidase"
+            },
+            {
+              "slug": "sorbitol",
+              "name": "Sorbitol"
+            },
+            {
+              "slug": "apixaban",
+              "name": "Apixaban"
+            },
+            {
+              "slug": "tenecteplase",
+              "name": "TENECTEPLASE"
+            },
+            {
+              "slug": "minoxidil",
+              "name": "Minoxidil"
+            },
+            {
+              "slug": "zinc_oxide",
+              "name": "Zinc oxide"
+            },
+            {
+              "slug": "cyproterone_acetate",
+              "name": "Cyproterone acetate"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "Telmisartan"
+            },
+            {
+              "slug": "alteplase",
+              "name": "ALTEPLASE"
+            },
+            {
+              "slug": "tobramycin",
+              "name": "Tobramycin"
+            },
+            {
+              "slug": "inositol",
+              "name": "INOSITOL"
+            },
+            {
+              "slug": "ramipril",
+              "name": "RAMIPRIL"
+            },
+            {
+              "slug": "potassium_hydroxide",
+              "name": "Potassium hydroxide"
+            },
+            {
+              "slug": "propofol",
+              "name": "Propofol"
+            },
+            {
+              "slug": "potassium",
+              "name": "Potassium"
+            },
+            {
+              "slug": "olmesartan",
+              "name": "Olmesartan"
+            },
+            {
+              "slug": "aminophylline",
+              "name": "Aminophylline"
+            },
+            {
+              "slug": "etoricoxib",
+              "name": "Etoricoxib"
+            },
+            {
+              "slug": "lumacaftor",
+              "name": "Lumacaftor"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "chlorthalidone",
+              "name": "CHLORTHALIDONE"
+            },
+            {
+              "slug": "iopamidol",
+              "name": "Iopamidol"
+            },
+            {
+              "slug": "bacitracin",
+              "name": "Bacitracin"
+            },
+            {
+              "slug": "atenolol",
+              "name": "ATENOLOL"
+            },
+            {
+              "slug": "gestodene",
+              "name": "Gestodene"
+            },
+            {
+              "slug": "carbocisteine",
+              "name": "Carbocisteine"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "TADALAFIL"
+            },
+            {
+              "slug": "tocopherol",
+              "name": "Tocopherol"
+            },
+            {
+              "slug": "prasugrel",
+              "name": "Prasugrel"
+            },
+            {
+              "slug": "digoxin",
+              "name": "DIGOXIN"
+            },
+            {
+              "slug": "doxycycline",
+              "name": "Doxycycline"
+            },
+            {
+              "slug": "memantine",
+              "name": "Memantine"
+            },
+            {
+              "slug": "valsartan",
+              "name": "VALSARTAN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "54a15ac9e188",
+      "title": "Estudante foi encontrada morta na casa do namorado uma semana após começar faculdade de biologia em SC",
+      "published": "2026-08-11T07:01:05+00:00",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTXVEdFdTSW9KSC1xN2F2QzZEQ1pDS1BUSUI4Y0Y0V2FFeFZ2OXFYd2lfSzk1c3dhNHRtWk1nejVaUFVQWVB3WS1udHp0cXUxYVg4TGdOWmdUZElHTkNwUDFSeXdmMG01UDZhakhmZ1d5OTFoOGNPSnNtVTlEUG1kbW9lQnZ2Z0NfMFYtRHlfOHc0bHZaZVRUSUZHdzRiRlJmMUJqNEk5bF9zQU5YemFFTGtNNnNqN3F2ZWp6amJJUmZaMi1BT0E4bUxqYUdvcUFmeURSUnJjeWbSAecBQVVfeXFMTkhZaWNhWmxMYktSUEFsMngyUjlqLTZaRFJMRmY1WUZNMDRQRG9hVVdUdDh5Rk5HRHowZW9kY3RCYW1zZFVNc29DT2lWYWl6cHNuTWpiLTlDV2FsVGVHQnNiWWkyQXNRS0thOU01aW9DUUc0WWFNaVB6ZDdydEdnZnFPcXVhTUJOcFJXbkpHaUV6WGUyQzNyblFpdGprekt4eVhCellJS1luQ0hWc2dsTVBFNDhuYUNiWmN5Vmh6d3hpUzhVYVFSdHBsQlZibTFEQ2p1bUJiSWk5ZlhFTUJWMzM1aUR0TVA0?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "golimumabe",
+          "keyword": "BIO",
+          "name": "GOLIMUMABE",
+          "url": "/drugs/golimumabe/"
+        },
+        {
+          "type": "drug",
+          "slug": "etanercepte",
+          "keyword": "BIO",
+          "name": "ETANERCEPTE",
+          "url": "/drugs/etanercepte/"
+        }
+      ]
+    },
+    {
+      "id": "479d8f69b710",
+      "title": "Brasil corre para ampliar medicina de desastres e fazer frente às mudanças climáticas e ao El Niño - Folha de S.Paulo",
+      "published": "2026-08-11T07:00:00+00:00",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVW1hMHhqNjhKeDN4WVJyVDNlNnZERnhOQzJOdUNpV0F2MGxobU5jVENsVHpZTkZ1SVNmck41WENMUVlGSzJjTGJVM1FnMDc0RTRyZHVjVW1fcWppUW5fMEFfYUNld2JTbjR2bGNnNXZfYVFvdjhJUFZuY0d5TmMwRGREUnNHY000YmttMDZUTjVsNGJEMWVUM0t2UWgtcXlMVGJ1SFVUcWZULXp0UnJIWlVRQ2wycl9Jc1drQ0tWcGZSM2VRamdXRzN0ZzdGTFNvYXpFWms0cjM1bHpYTDlHLTk0dGt5cUtDWmFJMWRlbUo?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
+      "id": "dd8cddc61575",
+      "title": "Sarampo: Trump assina decreto para alterar imunização com vacina tríplice viral",
+      "published": "2026-08-11T01:31:33+00:00",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nSnFrd0tQSEdWdVhjaGY3Y3F5bHNfU2FIUDY1dmNXbDk5Tjh3bHVqTEE2VzA2WHh3NjRuVm10SEU5VDhuSXp1MkR5NTNZMXZrVDB2bVdWTTFwWmxuVE9EZGln0gFnQVVfeXFMTTVTSmk5am11RGJfX2dyQlhWZ2FyQmFBWVcxSWZmU3kyblJyWGRyNXVpal9UYjdpS0xmRUlvdDBwU1BnRzVRNnZ2NlhMQUdvRGFNQXVNU2R0Nm9BcElIRzN1TWtXS0xIWQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "diazepam",
+          "keyword": "UNI",
+          "name": "Diazepam",
+          "url": "/drugs/diazepam/"
+        },
+        {
+          "type": "drug",
+          "slug": "zinc",
+          "keyword": "UNI",
+          "name": "ZINC",
+          "url": "/drugs/zinc/"
+        }
+      ]
+    },
+    {
+      "id": "9c6b59b538e0",
+      "title": "Vento derrubou torres projetadas para resistir a até 150 km/h - MetSul Meteorologia",
+      "published": "2026-08-10T23:52:01+00:00",
+      "sources": [
+        {
+          "name": "MetSul Meteorologia",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMDBFUHN4Ymx6RWk2ZTdqaUdrbGVyNzhRSjN3djFYcXlfd0RITkVBbHpLeVJIMWZFYmpiSDNPQW4ySE90TGEwcENhN3Btek9zdi1td2hSZ2w0cUJKb2NocDl0M2ZJU3gyRzlxQldaMThtUWFJTl93ZlNnNV96d2dFU3J6Y05oX2dN?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "tadalafil",
+          "keyword": "TADA",
+          "name": "TADALAFIL",
+          "url": "/drugs/tadalafil/"
+        }
+      ]
+    },
     {
       "id": "941e11392f60",
       "title": "JP1: Morre primeiro porco clonado do Brasil, criado em Piracicaba",
@@ -23,13 +352,80 @@
       ]
     },
     {
-      "id": "d4320a2a5d47",
-      "title": "SUS incorpora teste mais eficaz para rastreamento de câncer colorretal - Folha de S.Paulo",
-      "published": "2026-08-10T19:38:00+00:00",
+      "id": "576298aec623",
+      "title": "Fóssil de mais de 115 milhões de anos nomeado em homenagem a Padre Cícero voltará ao Ceará - Diário do Nordeste",
+      "published": "2026-08-10T18:36:38+00:00",
       "sources": [
         {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxON2NPalRmOFlwcDZzVFI5OXlZVHB2STFkUzlpNjlaZUNfdXgtTUhaUXJzbkxXbXBNdTlpbGNENXFxYnM0b1F1QURLYkd2MDVOYTBqMDlZU1UtWkpXYW45dHJ6SzdOU29QM0tTTVVkSmphRmhGUHM5ZkE3MlVoOHQyUE5sLTIxOE9OSHpLazhTU3lTSXlPMGVWS19KeEJ5SVlWaERqNUZmaEU2QUZsSGpPNUhCWGxtdF9JNUtmdWJZSXVESTMwT2h4UURfRQ?oc=5"
+          "name": "Diário do Nordeste",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUENjTXJwWjJZeTZoZDRFY2tvekIzZVNiSkR3YmdwdVJMRWNVcE1ZbHJIWTNRZFF2MzFSQzZheklNMmR1YWpmQXZqSkpUOWFITFNaUnZvS0RrUFFKUjRjUENtYTBrZVdhaFBIS1NLbEYzQlc3SzNFdHJIMkh4b202UDV4SF9vbk83SmRfSDdRNkRCbnhLVXpCd1JRbmtBaVpIVFZaaUxLV3JJUXNRLXkzTVVHclRqVGw3aTZyZkJhS3dVOS0xVW5sS3FBbzQtVVUzd0ctaEN3X0tIbFlybFBGRXVEZnY?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
+      "id": "9736443938ac",
+      "title": "Maior mapa 2D do Universo tem bilhões de estrelas e galáxias; veja - Olhar Digital",
+      "published": "2026-08-10T18:14:00+00:00",
+      "sources": [
+        {
+          "name": "Olhar Digital",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZlV1NkF1V0NYdkdvZk5waDVGTkh0OW1zelZ6N2tFcUZuaHl6N05pTTVmd2phbk56a2hjX2NjTGx5M1Y3cTQtYmdmY2ZnTHc1ektwMmxUekRHYmwwWXNzT0g5NUZ0VFk5c2VmOU9JNW1QZ1VYMm1IX0FqdUpuQUladVlHSUw2OVVmSzMtaUtDcnJwbUdVaUExc05wLUwxVlhBUzdFVUZ4dE8zbDU0NUVxM05SUy15ZHJobXZoaUhoRQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "diazepam",
+          "keyword": "UNI",
+          "name": "Diazepam",
+          "url": "/drugs/diazepam/"
+        },
+        {
+          "type": "drug",
+          "slug": "zinc",
+          "keyword": "UNI",
+          "name": "ZINC",
+          "url": "/drugs/zinc/"
+        }
+      ]
+    },
+    {
+      "id": "d29857f2e48b",
+      "title": "Há 14.400 anos, cinco pessoas e um cachorro atravessaram uma caverna sem tochas, mas com galhos de pinheiro - Xataka Brasil",
+      "published": "2026-08-10T16:31:16+00:00",
+      "sources": [
+        {
+          "name": "Xataka Brasil",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNR3c0bkNmdXAtXzRFNlBvdWcweFIyUUR2VXd0NUJCd1NTU1NSMVkwc1dHSENweTlaOVFYckRMVzRHYVkzNU1CTWluSUFuOXBPQzJVcWNEVldMZjRpS2QtM2xFT1BRaTVoLXVZV241Vk9nU3RBREtQOFNuRXVLQUp0OVRTX1hzSVgxVy1sUkE3dWVJRFB1R2YzbFkxdHlyWkcwZWthcDV6ZWItV1lhUDZYV19pS1otU25yeE5DeEVvLUN2bTY4RXE0QllvUnc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
+      "id": "b73a8d6e4550",
+      "title": "SUS Inclui Novo Teste para Rastreamento de Câncer Colorretal - Forbes Brasil",
+      "published": "2026-08-10T16:28:23+00:00",
+      "sources": [
+        {
+          "name": "Forbes Brasil",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcVZ0Y1Z6NEhaTG9wZ0Q1SU9kMlA1Mzh0RXQzdXFSYlZkaEJHM2N4U2lvaTJ5bjFQXzJRU0VoNWpDdGRYLUJXa1E2SFJhb3g0RGVpcDRwMEZlRlF5WjFkVTN6U3pqbjNJbmZpcTNfUjF6RGIzV01CWkdrQUZfaEhVSmxNbHUzMmt1bndlSG90VWFIRm9SQmJySUtYa0czOWl0TTdVZEpmTQ?oc=5"
         }
       ],
       "keywords": [
@@ -422,100 +818,6 @@
       ]
     },
     {
-      "id": "9736443938ac",
-      "title": "Maior mapa 2D do Universo tem bilhões de estrelas e galáxias; veja - Olhar Digital",
-      "published": "2026-08-10T18:14:00+00:00",
-      "sources": [
-        {
-          "name": "Olhar Digital",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZlV1NkF1V0NYdkdvZk5waDVGTkh0OW1zelZ6N2tFcUZuaHl6N05pTTVmd2phbk56a2hjX2NjTGx5M1Y3cTQtYmdmY2ZnTHc1ektwMmxUekRHYmwwWXNzT0g5NUZ0VFk5c2VmOU9JNW1QZ1VYMm1IX0FqdUpuQUladVlHSUw2OVVmSzMtaUtDcnJwbUdVaUExc05wLUwxVlhBUzdFVUZ4dE8zbDU0NUVxM05SUy15ZHJobXZoaUhoRQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "diazepam",
-          "keyword": "UNI",
-          "name": "Diazepam",
-          "url": "/drugs/diazepam/"
-        },
-        {
-          "type": "drug",
-          "slug": "zinc",
-          "keyword": "UNI",
-          "name": "ZINC",
-          "url": "/drugs/zinc/"
-        }
-      ]
-    },
-    {
-      "id": "2c0c702360b6",
-      "title": "Eclipse solar total acontece nesta quarta-feira, mas Brasil ficará fora da faixa de totalidade - Agora No Vale",
-      "published": "2026-08-10T17:19:40+00:00",
-      "sources": [
-        {
-          "name": "Agora No Vale",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT0loLTlnam53Njh6akRRZ3B4LW5GV1J1cWwtdUl5QnBrc0F0dms0UFVBUW02YjZnWHdLRjNvZW5FdkpnM2Z0YUpqTnc2YkltSUtZUTBCVmdUUFl1VWUxTjgtaFA0RDFKcGdkeGtHbndoT3dVajVhYzU0WGVhRnVVSmY0RnBKN3RVMEJzMGxBWXU2TE16LWhCcVZ5Xy02SkNKVWFuMU1FSmxqSmlqR0dXNnNaYTR5TnpMZ3ZYWklGZUhnc3lvMk1LdktQMElxbHcxVVNr?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
-      "id": "c9bb2328fbd2",
-      "title": "Sarampo volta a acender alerta no Brasil: quem precisa se vacinar? Veja perguntas e respostas sobre a doença",
-      "published": "2026-08-10T17:08:40+00:00",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfRnkxdE5QY0ZTZUE1WElXTUw0d1p3T0RNY2dEd1NEcC1lR2k1TFRGcndJTG9vOGNJVDV5MHhXRXNFTUZCMkM2VXlYM2VvOXdraXFxeldFajJBYlJNSVFpZklB0gFnQVVfeXFMUFBUendGbkVJLUFZTkdhUXg3SW51UGtZdnFFZmREcndRNTV4ODZDZ21NZlY0eW9DM3BrN01jcWNfc0dDc1p2Nm8yUXEtYzJ5S1h3aXM5TnVxRmcwSDRuY2Jiay15RWJROA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "levetiracetam",
-          "keyword": "TAM",
-          "name": "LEVETIRACETAM",
-          "url": "/drugs/levetiracetam/"
-        },
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
-      "id": "d29857f2e48b",
-      "title": "Há 14.400 anos, cinco pessoas e um cachorro atravessaram uma caverna sem tochas, mas com galhos de pinheiro - Xataka Brasil",
-      "published": "2026-08-10T16:31:16+00:00",
-      "sources": [
-        {
-          "name": "Xataka Brasil",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNR3c0bkNmdXAtXzRFNlBvdWcweFIyUUR2VXd0NUJCd1NTU1NSMVkwc1dHSENweTlaOVFYckRMVzRHYVkzNU1CTWluSUFuOXBPQzJVcWNEVldMZjRpS2QtM2xFT1BRaTVoLXVZV241Vk9nU3RBREtQOFNuRXVLQUp0OVRTX1hzSVgxVy1sUkE3dWVJRFB1R2YzbFkxdHlyWkcwZWthcDV6ZWItV1lhUDZYV19pS1otU25yeE5DeEVvLUN2bTY4RXE0QllvUnc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
       "id": "71d04cdf64ab",
       "title": "Brasil terá “Anel de Fogo” no céu em pleno Carnaval no ano que vem - Olhar Digital",
       "published": "2026-08-10T15:37:00+00:00",
@@ -633,22 +935,22 @@
       ]
     },
     {
-      "id": "373b5dfcc77b",
-      "title": "Quase 80% da população prisional não trabalha; egressos enfrentam barreiras para conseguir emprego - Folha de S.Paulo",
-      "published": "2026-08-10T13:00:00+00:00",
+      "id": "836db2c4cf3a",
+      "title": "Vacinação contra o sarampo chega a estações de trem e metrô de São Paulo; saiba quais - Folha de S.Paulo",
+      "published": "2026-08-10T14:22:00+00:00",
       "sources": [
         {
           "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWDc1d085YzZqWkswTFJvRHROSTFZeE1Uck1oV2k2bGdTZnUySHQ4ZXdjSkN6MlBWNXROdnpNZTF0dl9maVdyV0FoaWhES0pMbl92SEZ5TzZkMms4WFNMV1YzS1N2UGx4eVNUdS1LcXZ4Vmx4Vk1nWHl1c0lobFphM2NuM3l2b3V0ek1FOXFTd0tGU2dvQ1VZY1A4RUZJV19ZVHBZd3B4RkNieHphcWpHWlZGbnh3NHdURWZKTy1sZzd0Y21BaHprYVp2dzZTVjlSWFNiLWM1c3lteEF2d2owclM5WDQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNFd3d2h0aEpoRHIxTGhVNm9xR1FGVW01QkxKQklNRGdnNjZ2N25mZndpdkp2cnNTci1wMnU3YWJNMXgyWE1Hdm9YOHBlOU9GTG03N21fVXJNSFBoZ0ZXczBPODJpNE8tYTAzcmI0QmQ2QnVVMTFYYm1LdW1HOVpoTkc4c3BrQ1NBWURraThkdTE1OUJHRjJSZUlMV3pYa3lOS2ljYUE2bUEyWC1KaFgydmhPYVZiS284MF9vckdBRHBvU1ExbEpmdmhOSVF2UXpTeXMtWWFUTDFFM0pFaXc?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "drug",
-          "slug": "levetiracetam",
-          "keyword": "TAM",
-          "name": "LEVETIRACETAM",
-          "url": "/drugs/levetiracetam/"
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
         }
       ]
     },
@@ -691,13 +993,6 @@
       ],
       "keywords": [
         {
-          "type": "drug",
-          "slug": "etodolaco",
-          "keyword": "DORE",
-          "name": "ETODOLACO",
-          "url": "/drugs/etodolaco/"
-        },
-        {
           "type": "indication",
           "name": "anxiety disorder",
           "keyword": "ansiedade",
@@ -738,13 +1033,13 @@
       ]
     },
     {
-      "id": "a56e4d4d2793",
-      "title": "Agosto terá dois eclipses, mas só um deles poderá ser visto do Brasil",
-      "published": "2026-08-10T11:20:01+00:00",
+      "id": "adf5f9c58e92",
+      "title": "Violência psicológica contra a mulher pode ser silenciosa e exige atenção aos sinais",
+      "published": "2026-08-10T11:55:00+00:00",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVlREcmFGV1o4OWZPT2RKSEllTk5UUDc3dGtJUXByVUhsNEw4Zmp6MjV3MUJuZkp2Z3BWWUExR1VBdVRZSnFoV3VYZEJXUzcwT0FDQlJHMzZCZjd6S19sdGR0UFZFY2d2c0RMTUhzZUllZUFSd1ZEbTNQa09NRDhNbThhQ2p4d2lDeE5oNTJkSFhOVE5RdUh4dVZ5d0VyWnhoQmcyRTFCakp5alo1aXlmVFpXZXVldEZDMUlrSGNLa9IBzgFBVV95cUxOSUI4S09UWWlMNERlTEY2bVpKRlRLRmlTbFdaWGVuX3ZnOExmcWtqRlFneF8zLWItaE5sUkxINloteFRiLW03cnRrZ2xlOWZycjR2R1VOYzd6UnI5cUdjWnVvX0xDT0sydlg0Nnk3bTkyUkpPbVhCcHhyN2VWTVM5Z1NlaUVTUV9RWEkweWNuZ1BTcWQzaUo3VkhYbjM2Rk82aWIzSkpPU1I0UTJFeHM1RngtcW1YeHQ1b19lMFd3RnpQemRIU0tueWJuWlNxUQ?oc=5"
+          "name": "Senado",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRm1ycXVLRDN2T3YxQkc3WVdaTVRDMU1SQjdkOU5nSlRFV0JqU3dlQ0pzcDJ5UlZaYXFMNTY4QVJOZHF4UkYxSC0xcHNJRGJIc0J2RjljWmtCZndnX3pmZnZfTFZYek9FSTJxQVJZUkx5SW9RYVV2eFpyUXNTNThHbXhIOWpGcGNiblhDSjltWXZ4aDl0QWJfLXE4ZlA4dC05WTVvNktkaGszcDM0Q0hWbHlxWFk2bklxb3YyUTlIS3ZWVEVKa3ZaLXpvRXpuV2dIUkJJWG5iTUI3TVlpcnlJ?oc=5"
         }
       ],
       "keywords": [
@@ -804,6 +1099,26 @@
               "name": "Albendazole"
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": "d9d833a69a27",
+      "title": "Intolerância à lactose ou alergia ao leite? Veja diferenças - O TEMPO",
+      "published": "2026-08-10T10:10:00+00:00",
+      "sources": [
+        {
+          "name": "O TEMPO",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVzE3SnRLZ29qZ1dySjFCdWFVN1dGcFlhVVlBZ1FnZURtS1dnTGNjcEZyWF9LUnBvdGl6OEoycm1DUE52ZkJEWnEwRlpYLUcyYTBjSkU3aW9KVHZkRVFsOWJKeHVTWTU3SjdDYnJZWEg4T19RR0Q5LS1SQVBRQjVwdGpHekh1eFU4T0Y0VTI4TjRaY2toZEwwQkJlRWxkSkYxS0VGUDRpQQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "lactose",
+          "keyword": "lactose",
+          "name": "Lactose",
+          "url": "/drugs/lactose/"
         }
       ]
     },
@@ -961,217 +1276,22 @@
       ]
     },
     {
-      "id": "7cc19f15c12a",
-      "title": "'Epidemia do suco': busca por corpo perfeito leva mais pessoas aos anabolizantes e preocupa médicos",
-      "published": "2026-08-10T00:43:14+00:00",
+      "id": "c1dab70d1561",
+      "title": "Cientistas abrem o estômago do tubarão mais temido do mundo e descobrem que sua dieta extrema ajuda a salvar os oceanos - Xataka Brasil",
+      "published": "2026-08-09T21:01:15+00:00",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeEZxYzdmb3hDM0hvaGxQVDZQdTFnR3RzVU9NTnl4X0hpLWV1UVl2STZjemh3MDc3c2o1S0g0aXdrYVpMZW05ejBuc0RPejdWUE1EWTFKN1pHNUZrYzNMMGF5Vjdjd2NBcElCcmNQTXhtVExnbVB6LUI4bkVjOE5qREh1aWRmSU9kcWVqc093S3NGTnhKMEE1Sjh4QWUwVXR4NksyOEVhWEF1aF9zZTlkTjFLbFdZX0lmOTcyaV9pNlFCbkNPV09ERWM1Vk9pZGtUZEJPb21LM09PMzh2aUJ4aXJzcVA4d0w30gH3AUFVX3lxTE9EeVB1Ti1LMDRMaVcxZml0T2V3TXlUbm5jQ1RjQUNOaG5STXV0QkhPNzNqM1BEZm1ZTDlSc0ZIY2xNZkVuXzVxdEVyUGhoRkRrMWVUc2FoZkZkN3d4VnNQZVZKNjFodmR1ei1Kbmt4Sk9VNFk0UnpEamNzLWNIdVppSkhEWDZ4c3Z2RUdnQVhnZ2hjUWF4S2VPU1QyaUFxMmZUOEtVV1pFWjdqNzNrcFhiTm5fQmUtc0VES3Qzc1hlZW4yeVY2aUZmdloyaGdONUNkYzNOd0xILUxGbUxyc3l1WklNUm81N3lvOHRMR1VwV0Q5NmQzTUE?oc=5"
+          "name": "Xataka Brasil",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObEVsNy1FS2xybF8xS0c1OFlUUmtFMDl0NTNodVBST1FHa3NNenpHbDlGekpzZnBXMXdrdllJazQtMVdza1FYLWdsX1JaMmpPanlnWmV1cEtpVHhOME5yOHFxclkxX3p1NTdkOTFWMkM4Nm5EbFdXN1FyTWNfY0U2Xy1mTDRIcTc2VWFXT0F4ZEdETWJXSkhnTGlzUDE4dW9CWkNGQ1NtS3NDWG1iOFFtVlZEc3o1LVJsT2Jtb2hvTkZQa010MGtiMk12VXFjY1lWMkZPdFVEQ0Z0U1NQVUYyM1pyOXhGUQ?oc=5"
         }
       ],
       "keywords": [
-        {
-          "type": "drug",
-          "slug": "golimumabe",
-          "keyword": "BIO",
-          "name": "GOLIMUMABE",
-          "url": "/drugs/golimumabe/"
-        },
-        {
-          "type": "drug",
-          "slug": "diazepam",
-          "keyword": "UNI",
-          "name": "Diazepam",
-          "url": "/drugs/diazepam/"
-        },
-        {
-          "type": "drug",
-          "slug": "etanercepte",
-          "keyword": "BIO",
-          "name": "ETANERCEPTE",
-          "url": "/drugs/etanercepte/"
-        },
-        {
-          "type": "drug",
-          "slug": "zinc",
-          "keyword": "UNI",
-          "name": "ZINC",
-          "url": "/drugs/zinc/"
-        },
         {
           "type": "drug",
           "slug": "silodosina",
           "keyword": "SIL",
           "name": "SILODOSINA",
           "url": "/drugs/silodosina/"
-        },
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "doença do coração",
-          "related_drugs": [
-            {
-              "slug": "camphor",
-              "name": "Camphor"
-            },
-            {
-              "slug": "selenium",
-              "name": "Selenium"
-            },
-            {
-              "slug": "potassium_sulfate",
-              "name": "Potassium sulfate"
-            },
-            {
-              "slug": "trimethoprim",
-              "name": "Trimethoprim"
-            },
-            {
-              "slug": "lisinopril",
-              "name": "LISINOPRIL"
-            },
-            {
-              "slug": "thiamine",
-              "name": "Thiamine"
-            },
-            {
-              "slug": "gadoteridol",
-              "name": "Gadoteridol"
-            },
-            {
-              "slug": "laronidase",
-              "name": "Laronidase"
-            },
-            {
-              "slug": "sorbitol",
-              "name": "Sorbitol"
-            },
-            {
-              "slug": "apixaban",
-              "name": "Apixaban"
-            },
-            {
-              "slug": "tenecteplase",
-              "name": "TENECTEPLASE"
-            },
-            {
-              "slug": "minoxidil",
-              "name": "Minoxidil"
-            },
-            {
-              "slug": "zinc_oxide",
-              "name": "Zinc oxide"
-            },
-            {
-              "slug": "cyproterone_acetate",
-              "name": "Cyproterone acetate"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "Telmisartan"
-            },
-            {
-              "slug": "alteplase",
-              "name": "ALTEPLASE"
-            },
-            {
-              "slug": "tobramycin",
-              "name": "Tobramycin"
-            },
-            {
-              "slug": "inositol",
-              "name": "INOSITOL"
-            },
-            {
-              "slug": "ramipril",
-              "name": "RAMIPRIL"
-            },
-            {
-              "slug": "potassium_hydroxide",
-              "name": "Potassium hydroxide"
-            },
-            {
-              "slug": "propofol",
-              "name": "Propofol"
-            },
-            {
-              "slug": "potassium",
-              "name": "Potassium"
-            },
-            {
-              "slug": "olmesartan",
-              "name": "Olmesartan"
-            },
-            {
-              "slug": "aminophylline",
-              "name": "Aminophylline"
-            },
-            {
-              "slug": "etoricoxib",
-              "name": "Etoricoxib"
-            },
-            {
-              "slug": "lumacaftor",
-              "name": "Lumacaftor"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "chlorthalidone",
-              "name": "CHLORTHALIDONE"
-            },
-            {
-              "slug": "iopamidol",
-              "name": "Iopamidol"
-            },
-            {
-              "slug": "bacitracin",
-              "name": "Bacitracin"
-            },
-            {
-              "slug": "atenolol",
-              "name": "ATENOLOL"
-            },
-            {
-              "slug": "gestodene",
-              "name": "Gestodene"
-            },
-            {
-              "slug": "carbocisteine",
-              "name": "Carbocisteine"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "TADALAFIL"
-            },
-            {
-              "slug": "tocopherol",
-              "name": "Tocopherol"
-            },
-            {
-              "slug": "prasugrel",
-              "name": "Prasugrel"
-            },
-            {
-              "slug": "digoxin",
-              "name": "DIGOXIN"
-            },
-            {
-              "slug": "doxycycline",
-              "name": "Doxycycline"
-            },
-            {
-              "slug": "memantine",
-              "name": "Memantine"
-            },
-            {
-              "slug": "valsartan",
-              "name": "VALSARTAN"
-            }
-          ]
         }
       ]
     },
@@ -1196,12 +1316,32 @@
       ]
     },
     {
-      "id": "5e82c6ab3739",
-      "title": "Caso Fauci põe na mira os “donos da ciência” no Brasil",
+      "id": "b19e73905842",
+      "title": "Você agradece por tudo? A psicologia aponta o que esse comportamento pode revelar - Rádio Itatiaia",
+      "published": "2026-08-09T19:42:20+00:00",
+      "sources": [
+        {
+          "name": "Rádio Itatiaia",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbGlycVJySEd5Uk9TeGFPOVNYTVJhWDBhclE4TzIxaHo0VzY0VHY5ZHZIS3JJZmRyeS1mU0hNMUdudEI3MEJXaGZxRHBVeWhsWFhKcUpsM3lpVER6U01FSXNVRDZCVXpHTDZyMS1ITVk0QWN4YlNGbEo5S0tacUlRakstV3NYRE5FeFpyak9GSTdHLUpNdndvQlNRbHZneUl4clRjSHVqRkpjUGotcUNpcWpUUTNlLWM?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "levetiracetam",
+          "keyword": "TAM",
+          "name": "LEVETIRACETAM",
+          "url": "/drugs/levetiracetam/"
+        }
+      ]
+    },
+    {
+      "id": "7d0220cd1ba1",
+      "title": "Caso Fauci põe na mira os “donos da ciência” no Brasil - Gazeta do Povo",
       "published": "2026-08-09T14:53:00+00:00",
       "sources": [
         {
-          "name": "gazetadopovo.com.br",
+          "name": "Gazeta do Povo",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZmU1TXpCLUxodFpMM05RY0x5bFhVQ3N1QUxsQlJvX0VQbVRfcTNDQ0prY19GNms5MENmQXVkNUQyajhfWWg4bnJ3TXRkZFMwaC1jRUlETWQtUWQ0OUVPQmJqTVdQU1lXWEJYaUoxNzRoY0ZQVDk0NEhZRFVqdWZhU3E1LW5NRFpOQS1nN0FYNl9SamktY20tTC1YUDFLSUY4ejBGUA?oc=5"
         }
       ],
@@ -1216,22 +1356,22 @@
       ]
     },
     {
-      "id": "24760ba48393",
-      "title": "Por que cheiro do pai é uma das últimas lembranças que cérebro apaga? - CNN Brasil",
-      "published": "2026-08-09T09:00:34+00:00",
+      "id": "b03a79d54288",
+      "title": "Tornado no Paraná é o terceiro em 12 dias e impressiona pelo tamanho - MetSul Meteorologia",
+      "published": "2026-08-09T13:53:09+00:00",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcThxbzFSckJnOFZZZUZobHpTUFBDSl93MkJkbVhITVd5eHd6Wlk1RjNqZENXRlJWNmN3YnJmdlBOektibFE3MmRsZ2E2NXZaX1U1el9OaF9LeHAxNUpDMy03SUdTSDJLRFhIQVNvZ3hIUU9GR1UyY3Jqb2RQWXdXSE5WcVBoMlpqYTNYZUhvX0hFOHE3eTlNUGk5N0g4b09PeFFQZUoybkpwQQ?oc=5"
+          "name": "MetSul Meteorologia",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTl9rOV9NV21UYXpwWVMtZ0cyZjRsSjNGdFJsdmNJUl9MSzJsMFp0U3ctRFlXc3RRQkpUSjlSM0RZanFob28yMG54cnVUcmJNX211dGsxeDhTY01ENXIxVDFZMnhXZEFHSGdVS2EyemhYYXB5dHlWYzQ3aTFaOFFWdDVFVENoNHpvQnktaDNrNUIyZw?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
+          "slug": "levetiracetam",
+          "keyword": "TAM",
+          "name": "LEVETIRACETAM",
+          "url": "/drugs/levetiracetam/"
         }
       ]
     }

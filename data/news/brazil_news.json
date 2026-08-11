@@ -1,10 +1,46 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-08-11T07:10:04.296865+00:00",
-  "total_fetched": 71,
-  "unique_count": 71,
-  "health_related_count": 27,
+  "fetched_at": "2026-08-11T13:08:26.416831+00:00",
+  "total_fetched": 72,
+  "unique_count": 72,
+  "health_related_count": 26,
   "news": [
+    {
+      "id": "863c3d9a44a5",
+      "title": "'Ganhar uns anos a mais de vida': usuários contam por que decidiram abandonar anabolizantes - G1",
+      "published": "2026-08-11T07:01:48+00:00",
+      "summary": "'Ganhar uns anos a mais de vida': usuários contam por que decidiram abandonar anabolizantes&nbsp;&nbsp;G1Cardiologista alerta sobre riscos do uso de anabolizantes&nbsp;&nbsp;band.com.brMassa muscular obtida com anabolizantes é perdida após ciclo, diz estudo&nbsp;&nbsp;CNN BrasilCardiomiopatia hipertrófica: entenda a doença do coração que pode ser agravada por anabolizantes&nbsp;&nbsp;Biored BrasilDe arritmias a morte súbita: cardiologista do Mário Gatti alerta sobre riscos do uso de anabolizante",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQ0UzY1lXRkk0RWotMW1JNVhqV3EyNWg3aFd5MlJyTU9EQVdkVDRFSmhzMnpPRldNRlRlbzNQOTFyQ2NyVmIxZjhrQ0l6bEpWcjJZUzBrQ3RlNGVKdUVpUjk0Y3NsdllfSGVLaVVyckE5MWNEa01Xa0l1WHJZV2g1RjNTbDNiLVVTU1BDelFGYWFUTTNfci1naGJpQ25LaTRuTl9FQTcwMEgxRDNUZ08yRi1tOGtDalVXVmU2WFBYbVBfQ3FJX1BpZVFtUHBrSWtpT2MtRmdCeEQ4RkVpWEFtMWN5TnlqZFZI0gH3AUFVX3lxTFBLNzk2QUR3OFBmM1hacDZoTmxxd2RVX2x4dHFpLXdoSkFwTFotUmpoRXJnR3hvLTNNQmlFT1czWklmVDlhMXlNeVA4Um11Z0RURnY0U2NIVWh3RFhQUUFSWVpsZlpLYW40RXhCVkxYNFZBUFZJX2V2a3BHZGpSZkxudnhBcEJmY3RoZnlyRVFkNnRtcHdaTkdVM1NVVUlmRDNSeEJVSy1CMWJYeHE4SzZFZ3NIM0RNUi12Z2tmWGRlOGRjOWU3QW9NRlRrbUVZWTk2MHJRMjItb0xjSlh0Sl9FZElTWkxzR3VPSW5xbm94VnJvRlZnZGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "479d8f69b710",
+      "title": "Brasil corre para ampliar medicina de desastres e fazer frente às mudanças climáticas e ao El Niño - Folha de S.Paulo",
+      "published": "2026-08-11T07:00:00+00:00",
+      "summary": "Brasil corre para ampliar medicina de desastres e fazer frente às mudanças climáticas e ao El Niño&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVW1hMHhqNjhKeDN4WVJyVDNlNnZERnhOQzJOdUNpV0F2MGxobU5jVENsVHpZTkZ1SVNmck41WENMUVlGSzJjTGJVM1FnMDc0RTRyZHVjVW1fcWppUW5fMEFfYUNld2JTbjR2bGNnNXZfYVFvdjhJUFZuY0d5TmMwRGREUnNHY000YmttMDZUTjVsNGJEMWVUM0t2UWgtcXlMVGJ1SFVUcWZULXp0UnJIWlVRQ2wycl9Jc1drQ0tWcGZSM2VRamdXRzN0ZzdGTFNvYXpFWms0cjM1bHpYTDlHLTk0dGt5cUtDWmFJMWRlbUo?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dd8cddc61575",
+      "title": "Sarampo: Trump assina decreto para alterar imunização com vacina tríplice viral - BBC",
+      "published": "2026-08-11T01:31:33+00:00",
+      "summary": "Sarampo: Trump assina decreto para alterar imunização com vacina tríplice viral&nbsp;&nbsp;BBCTrump assina ordem que reduz vacinas recomendadas para crianças&nbsp;&nbsp;G1Após ordem de Trump, OMS reforça evidências sobre vacinação infantil&nbsp;&nbsp;Folha de S.PauloDiscurso antivacina é um crime com quem é influenciado pelas ideias e pessoas erradas&nbsp;&nbsp;gauchazh.clicrbs.com.brTrump avança na ofensiva contra vacinas para crianças&nbsp;&nbsp;Terra",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nSnFrd0tQSEdWdVhjaGY3Y3F5bHNfU2FIUDY1dmNXbDk5Tjh3bHVqTEE2VzA2WHh3NjRuVm10SEU5VDhuSXp1MkR5NTNZMXZrVDB2bVdWTTFwWmxuVE9EZGln0gFnQVVfeXFMTTVTSmk5am11RGJfX2dyQlhWZ2FyQmFBWVcxSWZmU3kyblJyWGRyNXVpal9UYjdpS0xmRUlvdDBwU1BnRzVRNnZ2NlhMQUdvRGFNQXVNU2R0Nm9BcElIRzN1TWtXS0xIWQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "941e11392f60",
       "title": "JP1: Morre primeiro porco clonado do Brasil, criado em Piracicaba - sampi.net.br",
@@ -18,26 +54,26 @@
       ]
     },
     {
-      "id": "d4320a2a5d47",
-      "title": "SUS incorpora teste mais eficaz para rastreamento de câncer colorretal - Folha de S.Paulo",
-      "published": "2026-08-10T19:38:00+00:00",
-      "summary": "SUS incorpora teste mais eficaz para rastreamento de câncer colorretal&nbsp;&nbsp;Folha de S.PauloSUS Inclui Novo Teste para Rastreamento de Câncer Colorretal&nbsp;&nbsp;Forbes BrasilNovo teste com alta tecnologia para rastreamento do câncer de intestino chega ao SUS&nbsp;&nbsp;VEJASUS passa a oferecer teste de fezes para rastrear câncer de intestino&nbsp;&nbsp;MetrópolesSUS inclui teste de alta tecnologia para rastreamento de câncer colorretal&nbsp;&nbsp;G1",
+      "id": "d6167aff84a4",
+      "title": "Descoberta incrível: o minúsculo animal que sobreviveu à pior extinção da Terra graças aos ovos - Rádio Itatiaia",
+      "published": "2026-08-10T20:08:41+00:00",
+      "summary": "Descoberta incrível: o minúsculo animal que sobreviveu à pior extinção da Terra graças aos ovos&nbsp;&nbsp;Rádio Itatiaia",
       "sources": [
         {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxON2NPalRmOFlwcDZzVFI5OXlZVHB2STFkUzlpNjlaZUNfdXgtTUhaUXJzbkxXbXBNdTlpbGNENXFxYnM0b1F1QURLYkd2MDVOYTBqMDlZU1UtWkpXYW45dHJ6SzdOU29QM0tTTVVkSmphRmhGUHM5ZkE3MlVoOHQyUE5sLTIxOE9OSHpLazhTU3lTSXlPMGVWS19KeEJ5SVlWaERqNUZmaEU2QUZsSGpPNUhCWGxtdF9JNUtmdWJZSXVESTMwT2h4UURfRQ?oc=5"
+          "name": "Rádio Itatiaia",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWUV3WHExbVhwemQ0LXhOUnhuLVg1V3M5ckl1OVd2MlpBQVprSnBpOW1YSHV4VDJVSmpGUGlGaXFyUUxTeHhQeVhQSUVoZDhUQkh6aWV4U0hLS29nSkRnanNjSHhFRmFpdFFZTlQwc2lER2xHWVN3WjN2MHZGb0tjSlZpYlhGOWxQNVNVV3BPVU9mMGRRUnBfZUY4dl9LNWo4QWI0ZVRxUUh3Yjhkakw4WXJWWWtnZGYzWEJLMkVzazJLTFZqRTFQVDhB?oc=5"
         }
       ]
     },
     {
-      "id": "c9bb2328fbd2",
-      "title": "Sarampo volta a acender alerta no Brasil: quem precisa se vacinar? Veja perguntas e respostas sobre a doença - BBC",
-      "published": "2026-08-10T17:08:40+00:00",
-      "summary": "Sarampo volta a acender alerta no Brasil: quem precisa se vacinar? Veja perguntas e respostas sobre a doença&nbsp;&nbsp;BBCMetrô de SP terá vacinação contra sarampo, caxumba e rubéola em cinco estações&nbsp;&nbsp;G1Vacinação contra o sarampo chega a estações de trem e metrô de São Paulo; saiba quais&nbsp;&nbsp;Folha de S.PauloVacina contra o sarampo: como consultar o tamanho da fila antes de ir ao posto em SP&nbsp;&nbsp;Veja SaúdeVacinação contra o sarampo chega a estações do metrô de SP; veja o",
+      "id": "b73a8d6e4550",
+      "title": "SUS Inclui Novo Teste para Rastreamento de Câncer Colorretal - Forbes Brasil",
+      "published": "2026-08-10T16:28:23+00:00",
+      "summary": "SUS Inclui Novo Teste para Rastreamento de Câncer Colorretal&nbsp;&nbsp;Forbes BrasilNovo teste com alta tecnologia para rastreamento do câncer de intestino chega ao SUS&nbsp;&nbsp;VEJAO Ministério da Saúde inclui um novo exame na rede pública para ampliar o rastreamento e a&nbsp;&nbsp;G1SUS incorpora teste mais eficaz para rastreamento de câncer colorretal&nbsp;&nbsp;Folha de S.PauloSaúde inclui novo exame para rastrear câncer colorretal na rede pública&nbsp;&nbsp;G1",
       "sources": [
         {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfRnkxdE5QY0ZTZUE1WElXTUw0d1p3T0RNY2dEd1NEcC1lR2k1TFRGcndJTG9vOGNJVDV5MHhXRXNFTUZCMkM2VXlYM2VvOXdraXFxeldFajJBYlJNSVFpZklB0gFnQVVfeXFMUFBUendGbkVJLUFZTkdhUXg3SW51UGtZdnFFZmREcndRNTV4ODZDZ21NZlY0eW9DM3BrN01jcWNfc0dDc1p2Nm8yUXEtYzJ5S1h3aXM5TnVxRmcwSDRuY2Jiay15RWJROA?oc=5"
+          "name": "Forbes Brasil",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcVZ0Y1Z6NEhaTG9wZ0Q1SU9kMlA1Mzh0RXQzdXFSYlZkaEJHM2N4U2lvaTJ5bjFQXzJRU0VoNWpDdGRYLUJXa1E2SFJhb3g0RGVpcDRwMEZlRlF5WjFkVTN6U3pqbjNJbmZpcTNfUjF6RGIzV01CWkdrQUZfaEhVSmxNbHUzMmt1bndlSG90VWFIRm9SQmJySUtYa0czOWl0TTdVZEpmTQ?oc=5"
         }
       ]
     },
@@ -57,11 +93,23 @@
       "id": "3f302f4f0cce",
       "title": "Queixas sexuais na menopausa têm tratamento, diz ginecologista - Litoral na Rede",
       "published": "2026-08-10T15:18:00+00:00",
-      "summary": "Queixas sexuais na menopausa têm tratamento, diz ginecologista&nbsp;&nbsp;Litoral na RedeMetade das mulheres na menopausa tem esta síndrome — e poucas sabem disso&nbsp;&nbsp;Veja SaúdeQueixas sexuais na menopausa têm tratamento, diz especialista&nbsp;&nbsp;Diário CorumbaenseMenopausa: dores e perda de libido não devem ser ignoradas&nbsp;&nbsp;Imirante.comMenopausa pode afetar vida sexual, mas sintomas não devem ser vistos como inevitáveis&nbsp;&nbsp;dgrj.com.br",
+      "summary": "Queixas sexuais na menopausa têm tratamento, diz ginecologista&nbsp;&nbsp;Litoral na RedeMetade das mulheres na menopausa tem esta síndrome — e poucas sabem disso&nbsp;&nbsp;Veja SaúdeQueixas sexuais na menopausa têm tratamento, diz especialista&nbsp;&nbsp;diarionline.com.brMenopausa: dores e perda de libido não devem ser ignoradas&nbsp;&nbsp;Imirante.comMenopausa pode afetar vida sexual, mas sintomas não devem ser vistos como inevitáveis&nbsp;&nbsp;dgrj.com.br",
       "sources": [
         {
           "name": "Litoral na Rede",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcEprWU9ZazMzZXFGbVlMR2YxWG1XS2xqTXFqSGNoNWlSMVNxSEt4M1dXa1A5SXZWdXVVZm1YOFVRTFZJZHluUU9YdDBUNUFhMFpDampJd09CMDRZUUNIaU9PdGdERUpvb0hTV1VVdE9xUEJadUxHa1pCck9zQTMxR0JqZ1NWTkxiX1FaTFpoak9yTFNyM1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "836db2c4cf3a",
+      "title": "Vacinação contra o sarampo chega a estações de trem e metrô de São Paulo; saiba quais - Folha de S.Paulo",
+      "published": "2026-08-10T14:22:00+00:00",
+      "summary": "Vacinação contra o sarampo chega a estações de trem e metrô de São Paulo; saiba quais&nbsp;&nbsp;Folha de S.PauloSP intensifica vacinação contra sarampo com ação em supermercados, padarias e shoppings&nbsp;&nbsp;UOL NotíciasVai viajar? Saiba como se proteger do sarampo em meio à alta da circulação do vírus&nbsp;&nbsp;CrescerSarampo volta a acender alerta no Brasil: quem precisa se vacinar? Veja perguntas e respostas sobre a doença&nbsp;&nbsp;BBCEstações do Metrô de São Paulo recebem campanha de ",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNFd3d2h0aEpoRHIxTGhVNm9xR1FGVW01QkxKQklNRGdnNjZ2N25mZndpdkp2cnNTci1wMnU3YWJNMXgyWE1Hdm9YOHBlOU9GTG03N21fVXJNSFBoZ0ZXczBPODJpNE8tYTAzcmI0QmQ2QnVVMTFYYm1LdW1HOVpoTkc4c3BrQ1NBWURraThkdTE1OUJHRjJSZUlMV3pYa3lOS2ljYUE2bUEyWC1KaFgydmhPYVZiS284MF9vckdBRHBvU1ExbEpmdmhOSVF2UXpTeXMtWWFUTDFFM0pFaXc?oc=5"
         }
       ]
     },
@@ -93,7 +141,7 @@
       "id": "1b8c77d649ea",
       "title": "Por que o número de infartos tem crescido entre as mulheres? Médicos explicam - O GLOBO",
       "published": "2026-08-10T12:19:13+00:00",
-      "summary": "Por que o número de infartos tem crescido entre as mulheres? Médicos explicam&nbsp;&nbsp;O GLOBODiabetes tipo 2 avança entre jovens, especialmente mulheres&nbsp;&nbsp;TerraSintomas de infarto em mulheres diferem dos homens e exigem atenção precoce&nbsp;&nbsp;band.com.brJJ: Crescem 42% mortes por infarto entre mulheres em Jundiaí&nbsp;&nbsp;sampi.net.brDiabetes tipo 2 avança entre jovens, especialmente entre mulheres&nbsp;&nbsp;redeutv.com.br",
+      "summary": "Por que o número de infartos tem crescido entre as mulheres? Médicos explicam&nbsp;&nbsp;O GLOBOSintomas de infarto em mulheres diferem dos homens e exigem atenção precoce&nbsp;&nbsp;band.com.brJJ: Crescem 42% mortes por infarto entre mulheres em Jundiaí&nbsp;&nbsp;sampi.net.br",
       "sources": [
         {
           "name": "O GLOBO",
@@ -105,7 +153,7 @@
       "id": "babb6fa5dff8",
       "title": "O hábito que pode proteger o cérebro contra demência e depressão, segundo estudo - Jornal Correio",
       "published": "2026-08-10T11:58:37+00:00",
-      "summary": "O hábito que pode proteger o cérebro contra demência e depressão, segundo estudo&nbsp;&nbsp;Jornal CorreioO que é 'aptidão cardiorrespiratória' e como ela pode melhorar a sua saúde, segundo pesquisadores&nbsp;&nbsp;Globo5 dicas para transformar a rotina de exercícios em uma aliada da saúde mental&nbsp;&nbsp;cartacapital.com.br5 estratégias de exercícios contra ansiedade e insônia&nbsp;&nbsp;Assine Abril27 estudos confirmam que treinar força e fazer cardio juntos melhora significativamente os sin",
+      "summary": "O hábito que pode proteger o cérebro contra demência e depressão, segundo estudo&nbsp;&nbsp;Jornal CorreioMaior aptidão cardiorrespiratória está relacionada a menor risco de depressão e demência&nbsp;&nbsp;Folha de S.Paulo5 dicas para transformar a rotina de exercícios em uma aliada da saúde mental&nbsp;&nbsp;CartaCapital5 estratégias de exercícios contra ansiedade e insônia&nbsp;&nbsp;Assine Abril27 estudos confirmam que treinar força e fazer cardio juntos melhora significativamente os sintomas",
       "sources": [
         {
           "name": "Jornal Correio",
@@ -150,26 +198,26 @@
       ]
     },
     {
-      "id": "c6d0604f5863",
-      "title": "Campanha Nacional de Multivacinação está sendo realizada em todo o país, até o dia 1º de setembro - Folha BV",
-      "published": "2026-08-10T10:00:00+00:00",
-      "summary": "Campanha Nacional de Multivacinação está sendo realizada em todo o país, até o dia 1º de setembro&nbsp;&nbsp;Folha BVMinistério da Saúde reforça vacinação de crianças e adolescentes contra sarampo, pneumonias e outras doenças&nbsp;&nbsp;www.gov.brCampanha de multivacinação começa hoje em Caxias&nbsp;&nbsp;G1Ministro da Saúde reforça importância da vacinação de crianças e adolescentes contra sarampo, pneumonias e outras doenças&nbsp;&nbsp;Correio do PovoCampanha de multivacinação para atualizar c",
+      "id": "d9d833a69a27",
+      "title": "Intolerância à lactose ou alergia ao leite? Veja diferenças - O TEMPO",
+      "published": "2026-08-10T10:10:00+00:00",
+      "summary": "Intolerância à lactose ou alergia ao leite? Veja diferenças&nbsp;&nbsp;O TEMPOLeite faz bem para a saúde? Entenda intolerância e benefícios da bebida&nbsp;&nbsp;Rádio PampaLeite após os 50 anos: entenda a importância para a longevidade e como o tipo A2 evita desconfortos&nbsp;&nbsp;Revista Ana MariaJulio Cesar, neurocientista: \"O leite é ou não é inflamatório? Esse estudo avalia outros 52 estudos e o resultado foi que para a grande maioria das pessoas que não tem nenhum tipo de problema alérgico",
       "sources": [
         {
-          "name": "Folha BV",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNU19FUEx1RkprWkhVenFRc2VXcFdHYzF0SFNtelVfbmc4RENhMTJzanRKOUZocU1MUU1KNFh2am81R3F1Tnc5OXNya3RMb1R4SjJSeUk4S1Y1Qm5sQzVSVU5KN21vY0lCaGdlbF9UczhBQVNQYXppZWJ2eEJJV01ldmdRUk15V2ljb2k5eC1RYnlWR0dVS0VkQjllQm1JR2d4R3Fhb3FLaHRDYXczYm03R2dTWmJYdDY4eTB0ZF9hZ3p0ZlA5Q3o0YVZ6bHc?oc=5"
+          "name": "O TEMPO",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVzE3SnRLZ29qZ1dySjFCdWFVN1dGcFlhVVlBZ1FnZURtS1dnTGNjcEZyWF9LUnBvdGl6OEoycm1DUE52ZkJEWnEwRlpYLUcyYTBjSkU3aW9KVHZkRVFsOWJKeHVTWTU3SjdDYnJZWEg4T19RR0Q5LS1SQVBRQjVwdGpHekh1eFU4T0Y0VTI4TjRaY2toZEwwQkJlRWxkSkYxS0VGUDRpQQ?oc=5"
         }
       ]
     },
     {
-      "id": "0600b26324f7",
-      "title": "Começa Semana D de vacinação contra a raiva para cães e gatos em Contagem; confira locais - G1",
-      "published": "2026-08-10T09:51:07+00:00",
-      "summary": "Começa Semana D de vacinação contra a raiva para cães e gatos em Contagem; confira locais&nbsp;&nbsp;G1Fortaleza terá 52 pontos de vacinação da Campanha Antirrábica no sábado (8/8); mais de 200 mil doses já foram aplicadas em 2026&nbsp;&nbsp;Prefeitura de FortalezaNatal ultrapassa 44 mil cães e gatos vacinados contra a raiva; Dia D acontece em 26 de setembro&nbsp;&nbsp;agorarn.com.brSão Gabriel do Oeste inicia vacinação antirrábica pela zona rural nesta sexta-feira&nbsp;&nbsp;idest.com.brBarra d",
+      "id": "c6d0604f5863",
+      "title": "Campanha Nacional de Multivacinação está sendo realizada em todo o país, até o dia 1º de setembro - Folha BV",
+      "published": "2026-08-10T10:00:00+00:00",
+      "summary": "Campanha Nacional de Multivacinação está sendo realizada em todo o país, até o dia 1º de setembro&nbsp;&nbsp;Folha BVSorocaba realiza Dia D de multivacinação dia 22 de agosto em 27 UBSs&nbsp;&nbsp;Prefeitura de SorocabaCampanha de multivacinação começa hoje em Caxias&nbsp;&nbsp;G1Ministro da Saúde reforça importância da vacinação de crianças e adolescentes contra sarampo, pneumonias e outras doenças&nbsp;&nbsp;Correio do PovoCampanha de multivacinação para atualizar cadernetas segue até 1º de se",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPcTlvaHFmZXZ2ellYd0xEVlBTb3d1V1QtbEtabmM1QURyYWVubTNTeHVWRGs3a0ZqQzZpWTVWamVoUmN1NEdfbm9GaExwb2lJX2dORlN1Tll0WmVCTlRfV2dENC1HQzFHd2xLY1pHY1FHdjJ0dDZLTnZ5d1RKcnJPTXBhQ0lKdkw2RXN3d09CeVFoSFRodEFmeHVGODA2S3B2UTdWYzk5SFNNNTF1ZDJDRHBydk1TY1hjbmVid0NYUUwzd2dyS2hfd0FNR1ZYNFllT0MwODF2V1phRHBQZDB0N1QzaXJBaXJ6OHd4LVZUTXFTMzY0UWZn0gGGAkFVX3lxTE1MTldadUI0UTYwaWhvNENlSGU2TmU2NWktMzdlbnBVZ1ZWWlZPaWtUUXBrTkd6bTdMUVg4a1MwUmVEa2FLV1o4bElBMktXRW5JdXNjWkRWZnJsUlVYZjd3SXUwTjB4RVU2eUFKUkNNR01taG9IQy1sdlFZVnRPYklmT1hoWkE0UVlhN2VwTEhyb0ppOF9haEhfSzJFX2RlTEVkT0NGT0dTb0p4NHJUN29GUERaVW5udjFwd3B3ZFdfckpRWVNGc0YxcEtEcXhxSFhXMWkzQ0RLcHRKWXZNX09HYjZGM1NSWXhfNVVuNDhtdEM3YldHY052bkRYS2xlZW5VQ1Y4Qmc?oc=5"
+          "name": "Folha BV",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNU19FUEx1RkprWkhVenFRc2VXcFdHYzF0SFNtelVfbmc4RENhMTJzanRKOUZocU1MUU1KNFh2am81R3F1Tnc5OXNya3RMb1R4SjJSeUk4S1Y1Qm5sQzVSVU5KN21vY0lCaGdlbF9UczhBQVNQYXppZWJ2eEJJV01ldmdRUk15V2ljb2k5eC1RYnlWR0dVS0VkQjllQm1JR2d4R3Fhb3FLaHRDYXczYm03R2dTWmJYdDY4eTB0ZF9hZ3p0ZlA5Q3o0YVZ6bHc?oc=5"
         }
       ]
     },
@@ -186,13 +234,13 @@
       ]
     },
     {
-      "id": "b1991a40875b",
-      "title": "Dia da Superdotação: diagnóstico precoce pode evitar isolamento e sofrimento psíquico - correiobraziliense.com.br",
+      "id": "551e08ecc205",
+      "title": "Dia da Superdotação: diagnóstico precoce pode evitar isolamento e sofrimento psíquico - Correio Braziliense",
       "published": "2026-08-10T08:00:00+00:00",
-      "summary": "Dia da Superdotação: diagnóstico precoce pode evitar isolamento e sofrimento psíquico&nbsp;&nbsp;correiobraziliense.com.br",
+      "summary": "Dia da Superdotação: diagnóstico precoce pode evitar isolamento e sofrimento psíquico&nbsp;&nbsp;Correio Braziliense",
       "sources": [
         {
-          "name": "correiobraziliense.com.br",
+          "name": "Correio Braziliense",
           "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOYWRlamJjYkIweWVHU2I2SEdGemx0WHl2NDdaVEdiaV9xbG1wTWI0V21fQW5RX0ktZlZ3aElUM3kzQk5Lem5Pb2VUU21HT2w4YnlCdXZOSUpGQXZSQUVGd0Zqb2podDg5TEZ6ZlZSWF9YRkliV1VqalR0S1JhUEtUd01SMlhVX05IX3hmcl91TVBGcWp3ai1halRuTktWbjhhMjdSd0tPTHd0LXlnb1FaRnlqT3ZFdGhDNmh1NV92MHExQnlQRHl4VUxONG9pb3NkWGdpWUxFRDVTQkpOTEprV3N2MA?oc=5"
         }
       ]
@@ -201,7 +249,7 @@
       "id": "86286fe191b1",
       "title": "Por que tanta gente infarta na segunda-feira? - O GLOBO",
       "published": "2026-08-10T07:30:29+00:00",
-      "summary": "Por que tanta gente infarta na segunda-feira?&nbsp;&nbsp;O GLOBOInfartos aumentam 11% nas segundas-feiras, diz pesquisa; veja motivos&nbsp;&nbsp;otempo.com.brPor que o risco de infarto aumenta nas segundas-feiras&nbsp;&nbsp;Diário do Centro do MundoSegunda-feira pode aumentar risco de infarto; entenda por que o coração sofre com a mudança de rotina&nbsp;&nbsp;Blog do ValenteO que acontece com o coração na segunda-feira? Estudos apontam aumento no risco de infarto&nbsp;&nbsp;Rádio Costa Sul",
+      "summary": "Por que tanta gente infarta na segunda-feira?&nbsp;&nbsp;O GLOBOInfartos aumentam 11% nas segundas-feiras, diz pesquisa; veja motivos&nbsp;&nbsp;O TEMPOPor que o risco de infarto aumenta nas segundas-feiras&nbsp;&nbsp;Diário do Centro do MundoSegunda-feira pode aumentar risco de infarto; entenda por que o coração sofre com a mudança de rotina&nbsp;&nbsp;Blog do ValenteO que acontece com o coração na segunda-feira? Estudos apontam aumento no risco de infarto&nbsp;&nbsp;Rádio Costa Sul",
       "sources": [
         {
           "name": "O GLOBO",
@@ -210,13 +258,13 @@
       ]
     },
     {
-      "id": "4f73fa08238c",
-      "title": "Nova espécie vegetal é descoberta na região serrana do Espírito Santo - Conexão Safra",
+      "id": "d440a93f852f",
+      "title": "Nova espécie vegetal é descoberta na região serrana do Espírito Santo - conexaosafra.com",
       "published": "2026-08-10T07:17:00+00:00",
-      "summary": "Nova espécie vegetal é descoberta na região serrana do Espírito Santo&nbsp;&nbsp;Conexão Safra",
+      "summary": "Nova espécie vegetal é descoberta na região serrana do Espírito Santo&nbsp;&nbsp;conexaosafra.com",
       "sources": [
         {
-          "name": "Conexão Safra",
+          "name": "conexaosafra.com",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdnA0eHQ3M0kwRC1sZjRfSG1ld0pNQ0J1TWRNMlp3UDlTVmRqbHlvVVJzR0VDU3U0UTFnMGVwdXR4OFdfZ1kxSDE2cWJrWlFKUkpReXFQMHhVcU83b19rZVBXcFNFd1Q1UW0xLWkwb1hxM2w1akNLN2lLOUxyUEs4aFpEbzYtZ3FFNWVUSDZ6NmR4N0dBa2Y1N1ljVHYyLXNHX3AwUmNfaXhIeUJ0VXc?oc=5"
         }
       ]
@@ -230,18 +278,6 @@
         {
           "name": "R7",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNb0RVdFNkNGZMcTh5eEhha0hpVnE4YXNkdEt3OEhORVIyeDVFNTlMcnFXcGV6aHJ5U1preDl2VnZtckRpa3d2Z0xTcmI2QnlZQ2VyR1ZrTnYzaEhiVEtpWk9UVFdyd0xnQkdRTU81b3ViajFjOHlLY2JPRVRqWTNBanhFSW1Nd1lVNXd4SEFWNURHUlk0RmwxMXpOOWk1R0MxcU9WTElDNHp0V09RMWJVRkRicWJNMUVsMEt6QWxPZldMY2ZXT2NldXFiczVCelFjaUhrbmd3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b0b31a7b2c94",
-      "title": "Maxxing: tendência da internet pode prejudicar a saúde física e mental - Metrópoles",
-      "published": "2026-08-10T05:00:00+00:00",
-      "summary": "Maxxing: tendência da internet pode prejudicar a saúde física e mental&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wTXJVaEpOQndvRnUzdzRQdllpYVc2RkViVGdUbU1WRjM0azBDcElHVFlmWmx6Q093UUhPaEktVTZhWkU1c2lac2tGc1dLdnpOV0tybGVzbG44by04d3dlUnBmVmgtakd6OXpiMWlMenZFbXFSaFE?oc=5"
         }
       ]
     },
@@ -270,30 +306,6 @@
       ]
     },
     {
-      "id": "7cc19f15c12a",
-      "title": "'Epidemia do suco': busca por corpo perfeito leva mais pessoas aos anabolizantes e preocupa médicos - G1",
-      "published": "2026-08-10T00:43:14+00:00",
-      "summary": "'Epidemia do suco': busca por corpo perfeito leva mais pessoas aos anabolizantes e preocupa médicos&nbsp;&nbsp;G1Cardiologista alerta sobre riscos do uso de anabolizantes&nbsp;&nbsp;band.com.brMassa muscular obtida com anabolizantes é perdida após ciclo, diz estudo&nbsp;&nbsp;CNN BrasilCardiomiopatia hipertrófica: entenda a doença do coração que pode ser agravada por anabolizantes&nbsp;&nbsp;Biored BrasilUnifesp cria projeto para ajudar usuários a abandonar anabolizantes; saiba como participar&n",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeEZxYzdmb3hDM0hvaGxQVDZQdTFnR3RzVU9NTnl4X0hpLWV1UVl2STZjemh3MDc3c2o1S0g0aXdrYVpMZW05ejBuc0RPejdWUE1EWTFKN1pHNUZrYzNMMGF5Vjdjd2NBcElCcmNQTXhtVExnbVB6LUI4bkVjOE5qREh1aWRmSU9kcWVqc093S3NGTnhKMEE1Sjh4QWUwVXR4NksyOEVhWEF1aF9zZTlkTjFLbFdZX0lmOTcyaV9pNlFCbkNPV09ERWM1Vk9pZGtUZEJPb21LM09PMzh2aUJ4aXJzcVA4d0w30gH3AUFVX3lxTE9EeVB1Ti1LMDRMaVcxZml0T2V3TXlUbm5jQ1RjQUNOaG5STXV0QkhPNzNqM1BEZm1ZTDlSc0ZIY2xNZkVuXzVxdEVyUGhoRkRrMWVUc2FoZkZkN3d4VnNQZVZKNjFodmR1ei1Kbmt4Sk9VNFk0UnpEamNzLWNIdVppSkhEWDZ4c3Z2RUdnQVhnZ2hjUWF4S2VPU1QyaUFxMmZUOEtVV1pFWjdqNzNrcFhiTm5fQmUtc0VES3Qzc1hlZW4yeVY2aUZmdloyaGdONUNkYzNOd0xILUxGbUxyc3l1WklNUm81N3lvOHRMR1VwV0Q5NmQzTUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5a64b1a29de7",
-      "title": "Motoristas de táxi raramente morrem de Alzheimer. Entenda por que isso acontece - Época Negócios",
-      "published": "2026-08-09T18:14:17+00:00",
-      "summary": "Motoristas de táxi raramente morrem de Alzheimer. Entenda por que isso acontece&nbsp;&nbsp;Época NegóciosO uso regular de mapas de navegação espacial ajuda a reduzir o risco de morte por doença de Alzheimer.&nbsp;&nbsp;Vietnam.vnMotoristas de táxi raramente morrem de Alzheimer: mapas mentais complexos e raciocínio espacial protegem o cérebro&nbsp;&nbsp;The ConversationPorque é que os taxistas são a prova de que a IA vai aumentar os índices de Alzheimer?&nbsp;&nbsp;ExpressoHá duas profissões que ",
-      "sources": [
-        {
-          "name": "Época Negócios",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZG5DS0JteHFKQnRvM0ZXdTB0NlVWdnl3UmpkcnZpVFBoc3lqQ0dLaENHbXIxOXZpcUxhbFJfRThidEo4MVRaMFVvTmgxVWxXTXhLRmhQYTQ3QXY0aW1TbmRmMGozWk5xMU1WOUNTcFFsbU9HbUNwLVh6eF9wa05SekpucmtJbmNzNU5hdE5PZmQzN08xSTNmWENsX3RZX2dxdmUzdDNHWFc4ZnItVVg4QXNRbTh0OGVTNVJTaXpTTDhaY1UwbUZQdU5mTFBxUE90ai1aRU1hYlZ6S01rZWdodGhR0gHwAUFVX3lxTE04QUtsbktnR2FVWlA2VjFUU2prZjBET2U4ODBXOEI1b1VFZEpoV3cwczFiaTdRa1RRRE9oZF9HR01uaWlxZ09Pb3VhZTJXNlM2eHlEUHZKX0U5S0xJQ3VKUVZ5bmVPUHpGU0FBMWZhXzVJSl9tT1VLR0tjVzNXQkpuSDNLWTlwY19DOVRhT2xXemlPU1V3SWVyb1RFektQeVZKdVVSMDJlNWcyQkFiWmdPT2FOa3pua3BGbWdyQUxJbnFma2tzX3FQblozaVBKVGJuUEtnbmNRUGZTc1N0XzdyQkhFT24tNmZCNzNraXg0RA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a3b89ab6553f",
       "title": "Javalis criados em Goiás podem abrigar bactérias resistentes a antibióticos; entenda estudo - O GLOBO",
       "published": "2026-08-09T15:38:01+00:00",
@@ -302,30 +314,6 @@
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTlAwMFJqX1Nib1BJTk9hM1JrMWptQW8tSmphRlNxa2pGc1BjNk5adjg0dXRWSUpCcy0zT2Z6My1sbGR5RmY5RTRGLUR6bTBjR25JNVIyZllKdFVtNE9nVHhaeVU1dGNXdVUxcFM3SHFkTHVvTnBuOVpQNkJFbzRmbEFSelhPR0VnNlQwUllBV2JObkQ3UmdLQlV6Umc4cGhnMzN4TzNtaDc2MnVuTEhqNVJLS3F2ZmU4UDVRd0E1ZnZzWlg1eU43eDR3VUZXT2w2TnZYbWdvc3k0YlkydzVwX3JSdVhjNzVsekHSAfgBQVVfeXFMTWhUdEc4UURMOEpPV0lNdmF1cXcyajFCQmhDRVR6MjhidUlNS3JUd0U2MlVkSGZkdnMxYWt3Q0J3V2RTWmJ6d3F4NHhzVXZWbEFmNXdSbmVhOVFwVmhoSktsR2hMbnRvbVU5ZkxBQWJwRWNNaHRzcFdmRXhkSkVWNnQ2dDF4UFRJWUR6QTRrTVI1S2VUeTBkd01MOUNSVWdfdXM5R2liajVWQjk5QnlOOXZOZ1lWU09iaTlyczJ2blJYVl9Va1BqWGVlT3Y4MG90NjVpajZqcmtKellMZjJNUVFSclNMeFNNaHIxWGdhbVlwd1pTalVnNkI?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f1924e81efec",
-      "title": "Cientistas vão para às profundezas do oceano e conseguem registrar, pela primeira vez na história, o ser invertebrado mais pesado da Terra - Revista Oeste",
-      "published": "2026-08-09T13:40:00+00:00",
-      "summary": "Cientistas vão para às profundezas do oceano e conseguem registrar, pela primeira vez na história, o ser invertebrado mais pesado da Terra&nbsp;&nbsp;Revista Oeste",
-      "sources": [
-        {
-          "name": "Revista Oeste",
-          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQTng4ZktBWnJoRF8tVjdHSHlCemRaQUxjY0p2TnVUazJ6Y3NheTAzNEdpcXB6M09yeTZFWDZIMTNyNGlaVGgxYUJiMkkzSzFOOE5SWGdMcmpxNkwzaXhYNGdFLUVTREdpZDYxRmY4NjJaM1B2enFXanczNXZndTBEY1lnUkV1aXRCa081c3NDN2xabEg4MFI1UWYySzFkYV9LYjYwZWd2eU1RbGNkYi0zVVA4NzhmaUdxd0FLenluVkNvcnJhanZsSGRPVmRNV2NOdGdvSDhzUW1sWnFTZ0dlXzBvRk11TWxWaldIVFZlWjl5X2szbndFTUxkZzlLd3VwOXpyTUR0c1hFZTNnWjVjT3RR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5e196265c039",
-      "title": "Vale a pena esperar? Estudo associa entrada tardia nas redes sociais a melhor desempenho escolar - UOL",
-      "published": "2026-08-09T10:30:34+00:00",
-      "summary": "Vale a pena esperar? Estudo associa entrada tardia nas redes sociais a melhor desempenho escolar&nbsp;&nbsp;UOL",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUGpPMmk2TFdqN0trUmhGUld0bXp5VXBjbGJPX0RPUklvRThuYkpMOVhmU0V1R2hPS3FwdFFqS2haMkF4a3NETjY2MzRaNXRpWFlsV0dMZWwtN0tsdUg5U3dyczkzTVdkQURyRWtCS0xCc0VnWWc0VExPVmozaFh5SkJOMmZ0WTQ0cDBF0gGQAUFVX3lxTE5WcTdsV2xnR2FMTzU1amFRbkI4UlVwdmNiVGRkRy1oYzF2aTVHbzJtYnRxWTdmYW5fcl9VbnM2Y0NnVklyT1BQTkcxRk9rMGF0cUNSa2dfRG8tUU5ONVNMajBOMDhBR2o2NU9fSHVEVXR3N28tUk5fQ1ZBXy1SWjY3N0NFeWxyWmJpcjJpdEJyWg?oc=5"
         }
       ]
     }
