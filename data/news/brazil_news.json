@@ -1,10 +1,46 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-08-12T13:12:24.361241+00:00",
-  "total_fetched": 64,
-  "unique_count": 63,
-  "health_related_count": 24,
+  "fetched_at": "2026-08-12T19:02:59.345186+00:00",
+  "total_fetched": 51,
+  "unique_count": 51,
+  "health_related_count": 18,
   "news": [
+    {
+      "id": "d84fec60ea2e",
+      "title": "Estudo francês testa parar remédio para baixar colesterol após os 75 anos - UOL",
+      "published": "2026-08-12T17:39:34+00:00",
+      "summary": "Estudo francês testa parar remédio para baixar colesterol após os 75 anos&nbsp;&nbsp;UOL",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONEpxYlhQemZYb3VmY0NtcHczRl85MVI2ektjemU1cC1NbWd0WHZ3YVpZYWxJQUo1MzZXbHU5NG5acVBsUFpQOGdkNW5vOTJOYVk0c3dmOUhxYVN1bVdiSXFkY0xaRkphS29DUXNoX3ZIVXB6aW1XR1RRMS1tTDRId0RsYVRHdlFHVDlxRW92SjN2VTlPdzBUdld3YnZNYUZBR0VRLXYzOVczUWpuZTVGRFNrQWpWT2M?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "857d5802a20f",
+      "title": "Sarampo: 15 perguntas e respostas sobre a vacinação e o risco da doença - UOL",
+      "published": "2026-08-12T15:46:44+00:00",
+      "summary": "Sarampo: 15 perguntas e respostas sobre a vacinação e o risco da doença&nbsp;&nbsp;UOLSP aplicará vacina contra sarampo em shoppings e outros estabelecimentos comerciais&nbsp;&nbsp;Portal Drauzio VarellaCasos de Sarampo no Brasil: FVS alerta sobre vacinação e como identificar sintomas&nbsp;&nbsp;G1SP intensifica vacinação contra sarampo com ação em supermercados e padarias&nbsp;&nbsp;InfoMoneySarampo: entenda sintomas, riscos e quando se vacinar | Diário do Grande ABC - Notícias e informações&nb",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNM0QzOHFNX1VWbTEyc29jQ1hUWE5IMmgzN0tyZ21mTndrMkdNZTFydjdQUGViRGNPQ3R6eTlibVZ5RkxBUjAtRmd6YVZ5U0p5cGl6Q0pQekNDUXk3UHpwVnQwdFZ3M2VjSkEyQThnMkpCUHpTMThXSHhEUTJiN0hNaHRHRE5yN0RVVzVQTVUxSGtvNmxIdUZuaTNKdVB4ZWJCQWFvQ2VGTWZ2ZXBFVFRfbl8zamlGeXJwTExwVFVONE1EOEFTSFNWV256OWd0aEE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2da1be0eaf18",
+      "title": "Opinião - Darwin e Deus: Estudo desvenda evolução de truque de cobras para atrair presas - Folha de S.Paulo",
+      "published": "2026-08-12T13:00:00+00:00",
+      "summary": "Opinião - Darwin e Deus: Estudo desvenda evolução de truque de cobras para atrair presas&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYjBGcGdGMHRjamZoTUVZSllUY29MWFFlU1NmbWpGRVZIVFhJTlRndm9vTmY3RXhpUkt6UTBLLVJfVjVWOUtfSE1FOU1jVXh1MllkYVpxOS1tbFkxaDVNSjNaLTZEekNmdm1ocG5xNnp3bUpUanNKaUo0N2IzOGJZUWZDRWJmd1lQWjFZUWd2Y21qcGxRWVNTRVNhTWlyaUhIdFYtWHVjcEYzbmV5Z2Q0WDNXd1llb3UzdzJBOTgwOEtqSWFiUmc?oc=5"
+        }
+      ]
+    },
     {
       "id": "cbb704784d2d",
       "title": "Qual é a atividade física que mais ajuda a combater a insônia? Nova revisão revela - O GLOBO",
@@ -18,50 +54,50 @@
       ]
     },
     {
-      "id": "88fc2dd84f08",
-      "title": "Estudo indica que casais que se exercitam juntos aprimoram aspecto crucial para a relação - O GLOBO",
-      "published": "2026-08-12T07:00:48+00:00",
-      "summary": "Estudo indica que casais que se exercitam juntos aprimoram aspecto crucial para a relação&nbsp;&nbsp;O GLOBO",
+      "id": "97d1adc00c0c",
+      "title": "Remédios para dormir aumentam as chances de Alzheimer? Confira o que a ciência já sabe - Folha de S.Paulo",
+      "published": "2026-08-12T07:00:00+00:00",
+      "summary": "Remédios para dormir aumentam as chances de Alzheimer? Confira o que a ciência já sabe&nbsp;&nbsp;Folha de S.Paulo",
       "sources": [
         {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQnVORFRkd3JSZEtlZE1ReUctMUJYbHZqSE9MVDVlam9VZ0tNdFhQSFNjSUwzdGRVeEF4UzFIdUNtR3NvZ3hhYjFfSVNkc3ZhcnRvZkFRZ2ZMWGJHdkFJTUxkdmtUNEtfMEhNZXNvNUdXQVFSZkw4bzE1b2FQWmpEZkFWVzRyZk1kT3VPaG9UN1VNSWt5T3dacjhfYWhZUFpoOGVkTGZCYjJfSTR3RHVaVmI3ZW53ZE5kTVcwUXBEUHJGWUo4TUZMR0szWFlzYVF2dnRKQVJLdTFaelFTNmoydWFlMmNJZ9IB9AFBVV95cUxNOUpDRl9ubF94UmNqMUEyN0psOUxSTERtRy1Rc2V0cktIVkdvSTVYT2F6UmlLbm41VnBKd1NkSldJNXdRZy12Nm10MTVucWlEOXgxSXYzY1FHcmVMTVQ3VDlLMDdyOHZfOXJYeTFsZGJVM1paVmxHSzFoVG82Qjl6bjZ4bTI4OVlfejdqLVRacFBtZEhPeXNxM3NTbjZtbFJyNE9fVmUwd3pYeGc0dk51a0tnSDFHRG5fc1JxT2pXOGlXUjhqR1g0YVRXQUtNOW5fZnlnLUttenJCcVN6TjczMENyUkVXS3VncF90YWZBeU81RXJt?oc=5"
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMm1JS2swVGJoSlJFTEloV0ZNcEp0ZklOVXphNWx4VFRzcXdnQlAyQVVUbV9MQW5qQVc2Y3JOQ0tPbVAxaDI5MmtaZGUtM0pIcjFhaTVIZzBUSXB1YkpWRzg3eldMdTlWdThaV3JlZ0t0QUphSWRaaS1fakRzbWNNTXQ4Um5pSG9tbDhfeHZGQTkwNU5EWnFBdlFRR1ZTRFdsZ3FoR2k4RmpFZlM2ZWtMSHc3NVQteXV5R3BRWEpZSjdBZVJzNkNhZkphd2VZZ3JlQmtpa0U1cw?oc=5"
         }
       ]
     },
     {
-      "id": "e3455dd9ec43",
-      "title": "O que decreto de Trump sobre vacinação infantil prevê e o que dizem os médicos - noticias.uol.com.br",
-      "published": "2026-08-11T22:35:13+00:00",
-      "summary": "O que decreto de Trump sobre vacinação infantil prevê e o que dizem os médicos&nbsp;&nbsp;noticias.uol.com.brOMS reforça importância da vacinação infantil após Trump reduzir imunizantes recomendados&nbsp;&nbsp;Correio do PovoSem base científica, Trump cita autismo e ‘risco de morte’ ao reduzir vacinação infantil; veja o que dizem especialistas&nbsp;&nbsp;G1Trump assina decreto para alterar imunização contra sarampo e reduzir número de vacinas para crianças&nbsp;&nbsp;bbc.comOMS defende vacinas a",
+      "id": "eafbb25ebb76",
+      "title": "Estudo aponta deformações em peixes coletados no Norte do ES - A Gazeta",
+      "published": "2026-08-11T21:57:00+00:00",
+      "summary": "Estudo aponta deformações em peixes coletados no Norte do ES&nbsp;&nbsp;A Gazeta",
       "sources": [
         {
-          "name": "noticias.uol.com.br",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQblpQNmVDdGRqa1B1eUNuQzFTMzZmYzBEZnVLMEZDNVRQLVhKYVN4MXhCYUJELXI2TVYwN0hfbFQxM0xieG52SjhwUFNpckFUWTZGRTRCcjJNdVdYd09JY2o1TnJxM2ppbDRWUFpkLW5JVjd5alE1aVRCd1pYZHg1ZEhZNFVfMDk2TzJiVEVpX0JKSDZ1cFM1MS03bVQ4djd6bEl3b2lwalhDbzIwb0JYQm44ZzBaN1dwSEg3R2RIRFhjWWtGZ1I1UnpwQzNtNXRENkxsUXE1MkNMRjhPY212Y2JONElqRHhoMTM3cU5hbnE?oc=5"
+          "name": "A Gazeta",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS2o4QXRBcXEzckI1STlCQnVKNzItYkJmck5td0V4d2tLVlVyM1BoVVdGdVBCS3VaWXRBY3ByTmwyVDk5ZGJ2TDFFOW5xVmZVTTMwV0Q5Qk5EeUU5REp6a1dySXYyR29qX3FSRTJPZ0VqNkZiUXNHZHBscng4MG90Wk5XRnRpdEdDekItemNrakhWb3JIeEFoVU45MzQzUEg0QkxfOU9pbFhtQQ?oc=5"
         }
       ]
     },
     {
-      "id": "80d7dd78a938",
-      "title": "Pesquisadora que ajudou a transformar HPV em alvo de vacina contra câncer recebe prêmio Icesp - folha.uol.com.br",
+      "id": "685395aed777",
+      "title": "Pesquisadora que ajudou a transformar HPV em alvo de vacina contra câncer recebe prêmio Icesp - Folha de S.Paulo",
       "published": "2026-08-11T21:35:00+00:00",
-      "summary": "Pesquisadora que ajudou a transformar HPV em alvo de vacina contra câncer recebe prêmio Icesp&nbsp;&nbsp;folha.uol.com.br",
+      "summary": "Pesquisadora que ajudou a transformar HPV em alvo de vacina contra câncer recebe prêmio Icesp&nbsp;&nbsp;Folha de S.PauloVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
-          "name": "folha.uol.com.br",
+          "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOc01QQWxvVHltcWdsdVRtMEppZzFqamxFMU5jZElsdzN1NTdKSXRZdkpCYVVrTHlGaXM4Q2RmdkU5clJuMm5uczRzUy05RFRHRHg5aDlDVnJZSTh6N21aTnZGdnkweVNEZ3RKbzc3UTY3dnIzNi11bldBcUplMDR4ZktJU210eF9QSmYtOVJjeDdjeXN2TDNWVGcxT01mZFJZS0VKdE1HcUhFY0pkYW5DVmcyQ2c2VktnRm9MNU85VTNsV2lxUThkNldkUmZXYng5N3dhOW9NcnhYazI3S3J4TUJocE1uXzFyR3c?oc=5"
         }
       ]
     },
     {
-      "id": "48032d00b60f",
-      "title": "Vacinação contra sarampo em SP acontece até em estações, shoppings e supermercados; veja lista completa - G1",
-      "published": "2026-08-11T20:02:03+00:00",
-      "summary": "Vacinação contra sarampo em SP acontece até em estações, shoppings e supermercados; veja lista completa&nbsp;&nbsp;G1Cidades da região de Piracicaba não atingem meta de vacinação contra o sarampo em 2026&nbsp;&nbsp;G1Sarampo: 15 perguntas e respostas sobre a vacinação e o risco da doença&nbsp;&nbsp;UOLSurto de sarampo: o legado de um governante se mede pelas consequências de suas decisões sobre a vida ou a morte das pessoas&nbsp;&nbsp;GZHSão Bernardo abre todas as UBSs no sábado (15) para ‘Dia D",
+      "id": "5b685befbaa5",
+      "title": "O que pode estar por trás da dor nas costas e quando se preocupar - Folha de S.Paulo",
+      "published": "2026-08-11T20:01:00+00:00",
+      "summary": "O que pode estar por trás da dor nas costas e quando se preocupar&nbsp;&nbsp;Folha de S.PauloHérnia de disco: prevenção e tratamento&nbsp;&nbsp;G1Hérnia de disco: 5 hábitos que ajudam a proteger a coluna e a evitar o problema&nbsp;&nbsp;cartacapital.com.brColuna em alerta: a dor que já não é “de velho” preocupa especialistas e cresce entre os jovens&nbsp;&nbsp;jornaltribuna.com.brAcordar com dor lombar, dormência nas pernas e dificuldade para levantar pode ser uma pista de hérnia de disco em fas",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcXgybVlTbWYzSUJMRVlxLWtkbTdCMktVMFlyOENkMGFGc3k3OEdyLTdHMW1Hd0NnYkdrVWhrRng2RnVuSm56b3IzZUUwajJ1elB5WXpzR1JyUVRPdUEyUUt2Rk9oQ0dSRlVMb1RuTEQ1SVJDemJTSkgtQk42X3hhWFFtQ0x4S1dGcnl5S2NQcm5TT0dpRlkxcldMZjNUYmFfZXZ4RFZtdVFFLWE3RWlGY0M4M2JvbVR4U1VoSElObnNjaUZ6Z05Qck1DWmwzcTZHSTR3WXhBOFNEUjA0c1dqOXg2S0VFbFFnS2NWYTI0anVfUdIBgAJBVV95cUxOdGpBcy1ZZGJ5ZlNtX0F0V1VwYnNlMkg0Z1pDMi12VmJKdnRLTzNNTWpWNi00TWllZGNoTTJnQ3p6djFUdFJnZ2lwdVdzdjFncm84V1Q2a3dVVTlOd0xUV1FuOGdHYUo3Szh1NngwUUZDNlhSTC12ZjJjTjY0NDlkVlNMVVRjNzRzN0xxTlBVMktZRlU0dkdWb2p2cm9EVHNPa0RPT3JLZ19wUUQ1ajl0Zmw2bzRfU0ppa091S21ER1d3N2c0Tmw4Q3ZwZ2Nod2xpUlJxOW1qTmo1d21wUTFwcTNPRW1OMGNWOUR6djQwUXNNc1o3WHFfWFV4LW5iNzVl?oc=5"
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZEVDMTlUVWhOd1BPRTJLeGczdEdqS3dXYW9JXzJYVWdKSXEzWUUwczRYcU00a0ZGZkVRMlplb3Y1RGk3VlRKb01VU2t4X1RjcWthTlRQSjRUR3ZIUi03cHc5eWI1QUVLSzFzNWhIYW55ZkU2R0dMV2FERkFzWlhfWURyb21IYW9qUVRUZHl2WFlUSG9TdUp1a1RjelJoeTVDWnVvOG16RXQ0d09pb0pvNzFRUVdkZmd2WkRDZl9XSC0xelYz?oc=5"
         }
       ]
     },
@@ -93,7 +129,7 @@
       "id": "88d456b871cd",
       "title": "A deficiência dessa vitamina pode elevar em mais de 60% seu risco de varizes - Veja Saúde",
       "published": "2026-08-11T16:45:37+00:00",
-      "summary": "A deficiência dessa vitamina pode elevar em mais de 60% seu risco de varizes&nbsp;&nbsp;Veja SaúdeMenos sol no inverno causa deficiência de vitamina D? Entenda os riscos&nbsp;&nbsp;vtvnews.com.brVITAMINA D: POR QUE ELA FUNCIONA COMO UM HORMÔNIO E VAI MUITO ALÉM DA SAÚDE ÓSSEA&nbsp;&nbsp;Grupo Longevidade SaudávelQual é o momento ideal para tomar sol e cuidar da vitamina D após os 60 anos&nbsp;&nbsp;Tua SaúdeVitamina D no inverno: 5 maneiras fáceis de manter seus níveis&nbsp;&nbsp;Jornal O Sul",
+      "summary": "A deficiência dessa vitamina pode elevar em mais de 60% seu risco de varizes&nbsp;&nbsp;Veja Saúde",
       "sources": [
         {
           "name": "Veja Saúde",
@@ -102,22 +138,10 @@
       ]
     },
     {
-      "id": "b3b5a54d8caa",
-      "title": "Pescador mergulha na praia dos Ingleses, tira do fundo raso uma botija de barro e leva pesquisadores a um navio pirata de mais de 300 anos, de onde já saíram 35 mil peças hoje expostas num museu - CPG Click Petróleo e Gás",
-      "published": "2026-08-11T15:27:00+00:00",
-      "summary": "Pescador mergulha na praia dos Ingleses, tira do fundo raso uma botija de barro e leva pesquisadores a um navio pirata de mais de 300 anos, de onde já saíram 35 mil peças hoje expostas num museu&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOTzdqRWN0eXN3SXFhWXFoVjBaWW5PN0hOVDllcVhiSXdrMG5OOTJQMjF6Mk11dXkwNEVrS1lnZVQ3V2F6eEJPX0Y2SjdESVBxajFBcjNmQ0lmODdybWNIeW9qbU1iYVl1VkJrRHBFMjQyYWpEMGJ6bVptdGhMTkFwYXlMNmE5RWxkNmg5RlpoOWEzSTY5S09LVnJXdTJoOExVSS0wSi14enN1VkN2ZFpXNkd6UkNYNDR1dnJ0V0Fid21iNWgzM2ktLUtYYTlMc2lkS3VhRGhCN1VvaG1KRk5MbXJaN3Zpekp0NGFjOUFhTHZiRGZvMEFtdkhpdlpJcG1pRzBhSDRaOG9WMWNmTkM2dlp2SHBabVZWRFg5S3VDQTllVjIydHBicTVORHR4QUNONWJnZkdsVGR5NHpNYW0tdUJwb19DZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "43cee76bee6c",
       "title": "Anabolizantes triplicam risco de morte e aumentam em 9 vezes chance de doença no coração, alerta médico; entenda - G1",
       "published": "2026-08-11T15:12:59+00:00",
-      "summary": "Anabolizantes triplicam risco de morte e aumentam em 9 vezes chance de doença no coração, alerta médico; entenda&nbsp;&nbsp;G1Cardiologista alerta sobre riscos do uso de anabolizantes&nbsp;&nbsp;band.com.brMassa muscular obtida com anabolizantes é perdida após ciclo, diz estudo&nbsp;&nbsp;CNN BrasilCardiomiopatia hipertrófica: entenda a doença do coração que pode ser agravada por anabolizantes&nbsp;&nbsp;Biored BrasilUsuários relatam abandono de anabolizantes por saúde&nbsp;&nbsp;Correio do Povo",
+      "summary": "Anabolizantes triplicam risco de morte e aumentam em 9 vezes chance de doença no coração, alerta médico; entenda&nbsp;&nbsp;G1Anabolizantes deixam de ser exclusividade do fisiculturismo e lotam consultórios de endocrinologistas: '57% desenvolvem dependência'&nbsp;&nbsp;GloboMassa muscular obtida com anabolizantes é perdida após ciclo, diz estudo&nbsp;&nbsp;CNN BrasilCardiomiopatia hipertrófica: entenda a doença do coração que pode ser agravada por anabolizantes&nbsp;&nbsp;Biored BrasilUnifesp cr",
       "sources": [
         {
           "name": "G1",
@@ -141,7 +165,7 @@
       "id": "c473bf3540c6",
       "title": "Recorde de casos de AIDS, falhas no saneamento e alerta na vacinação infantil: veja pontos do Plano Municipal de Saúde de Natal - G1",
       "published": "2026-08-11T13:08:08+00:00",
-      "summary": "Recorde de casos de AIDS, falhas no saneamento e alerta na vacinação infantil: veja pontos do Plano Municipal de Saúde de Natal&nbsp;&nbsp;G1Prefeitura de Natal aprova Plano Municipal de Saúde&nbsp;&nbsp;Tribuna do NorteConcurso SMS Natal RN: previsto em plano municipal!&nbsp;&nbsp;Blog Gran Cursos OnlineRN tem maior crescimento de diagnósticos de HIV do país no pós-pandemia; jovens estão entre os mais atingidos&nbsp;&nbsp;O PotiguarVídeo: Recorde de casos de Aids e baixa cobertura vacinal | Víd",
+      "summary": "Recorde de casos de AIDS, falhas no saneamento e alerta na vacinação infantil: veja pontos do Plano Municipal de Saúde de Natal&nbsp;&nbsp;G1Vídeo: Recorde de casos de Aids e baixa cobertura vacinal | Vídeos RNTV 2ª Edição&nbsp;&nbsp;G1Prefeitura de Natal aprova Plano Municipal de Saúde&nbsp;&nbsp;Tribuna do NorteAINDA SEM CURA: Natal faz alerta para recorde de casos de AIDS em adultos&nbsp;&nbsp;Blog do BGConcurso SMS Natal RN: previsto em plano municipal!&nbsp;&nbsp;Blog Gran Cursos Online",
       "sources": [
         {
           "name": "G1",
@@ -153,7 +177,7 @@
       "id": "aa036bbdccff",
       "title": "Evitar estas 3 coisas pode te dar 13 anos a mais de vida sem demência - UOL",
       "published": "2026-08-11T13:06:18+00:00",
-      "summary": "Evitar estas 3 coisas pode te dar 13 anos a mais de vida sem demência&nbsp;&nbsp;UOL9 coisas que os especialistas gostariam que você fizesse na meia-idade para aumentar a longevidade&nbsp;&nbsp;EstadãoSaiba quais são os três fatores que podem retardar risco de demência em até 13 anos&nbsp;&nbsp;ICL NotíciasHábitos na meia-idade influenciam a longevidade e a qualidade de vida&nbsp;&nbsp;Agora RNTrês fatores do estilo de vida na meia-idade são ligados a 13 anos a mais livres de Alzheimer na velhic",
+      "summary": "Evitar estas 3 coisas pode te dar 13 anos a mais de vida sem demência&nbsp;&nbsp;UOL45% dos casos de demência são evitáveis; veja os três fatores que concentram o risco&nbsp;&nbsp;GZH9 coisas que os especialistas gostariam que você fizesse na meia-idade para aumentar a longevidade&nbsp;&nbsp;EstadãoSaiba quais são os três fatores que podem retardar risco de demência em até 13 anos&nbsp;&nbsp;ICL NotíciasTrês fatores do estilo de vida na meia-idade são ligados a 13 anos a mais livres de Alzheimer",
       "sources": [
         {
           "name": "UOL",
@@ -162,38 +186,14 @@
       ]
     },
     {
-      "id": "af84fe1da7a7",
-      "title": "Após tratar câncer, mulher relata demissão de hospital: 'Retornei vitoriosa e me mandaram embora' - Top Mídia News",
-      "published": "2026-08-11T11:00:00+00:00",
-      "summary": "Após tratar câncer, mulher relata demissão de hospital: 'Retornei vitoriosa e me mandaram embora'&nbsp;&nbsp;Top Mídia News",
+      "id": "e9affe213faa",
+      "title": "OMS defende calendário vacinal após Trump determinar redução do número de vacinas infantis - G1",
+      "published": "2026-08-11T12:59:48+00:00",
+      "summary": "OMS defende calendário vacinal após Trump determinar redução do número de vacinas infantis&nbsp;&nbsp;G1Sem base científica, Trump cita autismo e ‘risco de morte’ ao reduzir vacinação infantil; veja o que dizem especialistas&nbsp;&nbsp;G1O que decreto de Trump sobre vacinação infantil prevê e o que dizem os médicos&nbsp;&nbsp;UOL NotíciasObjetivo de Trump de separar vacina tríplice viral pode levar uma década, dizem especialistas&nbsp;&nbsp;TerraOMS defende vacinas após Trump anunciar redução no",
       "sources": [
         {
-          "name": "Top Mídia News",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWnF5eW9TOWFRTXl5eTA3T3VDVkhmcWFSMC1aSW9ndUtMTFVhR3Jad0RVbjU4SFJiM3NXRXg0bE10TlJ5alpDekFsdkVDdzJZWUJnLWhrSjd4SnpsZTVpZGNiQUhpWlZGSnZFalJKX202MXNPSkxEc2hRczhOWm5DSTFzYjJ0a1dQWlNwNE5rZWxRSk1wS2c1QUdPeG1sZUxQZHpLSmNTWTY0RGU1bVF4a0ZXU1BTM1A5b3fSAb8BQVVfeXFMUFFRSTU5dlRyTE43MXJHTTFCTVJMbjVNRXZaTE16Z3cxa0R2V2hkQUljOEExWm50MkpJR1hqbFI5anJHRkxTcmVfMENKUFplVklFRXpocGxCeTJJZVd6MGVDOWgxdTNkal84b3V2RTQ2bFA5VVVyM3ktWHg5UDFCa2tndXY0ZkVfTWdLYkhMS3VDVFBQUE9URXkxeWc0TFdwdW5aWWU3VzBWN1BDUy01WnFzNHY5OXBIaTh1YWlCNW8?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "df3d9fe257c1",
-      "title": "Cérebro de cachorros capta várias emoções no rosto humano, segundo estudo - folha.uol.com.br",
-      "published": "2026-08-11T09:00:00+00:00",
-      "summary": "Cérebro de cachorros capta várias emoções no rosto humano, segundo estudo&nbsp;&nbsp;folha.uol.com.br",
-      "sources": [
-        {
-          "name": "folha.uol.com.br",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQXy1RUzJZenlYUTNUcWRRX2dpNUlfMXp3eElRUTNnU0VBQ0UxVjBCQ0lNLW96MF85aXNwbXNjUzZwR0pfakhhbjJ1a25QYk1PLUVNT3VXX3lNakpCSTc5Vm54eWFtcVdSZVQ2cFlNRi1fXzgyekppRV9qMFZELU9EcVRBTDhpN1JuanJGVzhxcmRCZmJtbFhneFE4M1FERkRvWGd1ZlBWM0NlME9ibF9Rd3pjeUI3eE9oc1lINlBsdk9zZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "10b2171208dc",
-      "title": "Jo Nagai, o menino japonês de 10 anos que surpreendeu a comunidade científica com um estudo sobre a memória das borboletas - O GLOBO",
-      "published": "2026-08-11T07:30:22+00:00",
-      "summary": "Jo Nagai, o menino japonês de 10 anos que surpreendeu a comunidade científica com um estudo sobre a memória das borboletas&nbsp;&nbsp;O GLOBO",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOSHlTSXBHcUJRRHNuMHBKeTl2dFctR2JIcExKdnlneVN5R2o2b3FBLUw5QUlKTklMVjJCenA1clRLVlR1czhETXVRdkFydVRjc0xQWXM1VnE1MHpvLWstV1FDY0ZKMXVGLXAtMXlSUDhwZzZqMVR5YUxOTkEwd2ZzWGplUF9ZRVFTNVhoSE5DcV83cHR3VGVFcjBIY2xPVmFMaGpKWi1IcURwVl8zQ3dhdGdUUXhfR0tIcndGUHdPM00yU2QxSDZrdVJDQTNLQ3hkcWlheE5nSlBhU1dHNUItdVI3eGhhNUNYUzFOQUhZM25seTlPMmY3RGJ2VTJVTnpic1ZOQk0zaGrSAZcCQVVfeXFMUFltSlp1OGF3S21MZFFJNjY3cEJNa3J5YTJ2V191cGlfLVJNampqTHdQUUk2eXgxei1FQk9ENWttTmlTNFduLV9Ec2VFQVZmSXhQdW55ZzhpRHNjQ21EOHlzeW5jcGJqUFhyOGQ4TTZBU09GWWUzdDZBcm1JS2JkM2diWmdZOGtaMm5vcVdiWkpKUlFBVV8zQW5FcVhhUTNCYzFTaDNZWW5yNWJYUm5xX29sRTdBazMxYTMtYzBKbUFXdjdHMHFaNlhUM2dYblRBWkFoRzkySjlHckJhXzlJR1VXLTFwZUhVM1hPR0ZVcndNRXNDZ0JpZ1U1VjhRUkt3VUNEMkExV1VQVjg4RjJSd1RPUFd4RkZN?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTjF3WkdGeHNmZlZBNnEwS1pNa21aZkdZa1lObFNSTTYxYzdDdm5sbVBnM2RkVm5udTU1VlJSaU02ekctSUhub0VZTE0xOVBJeVhiUG8wU0tMUm1IS0hicnlMc01HQjRRSzg0UUVvTC1wXzJ3bWc1WG50SjVIU3JQbEVrVU9KTU1UT2pXM1kzV2hYR3NnX3F5d1hZZ2FUYVQyUV9zd0tMQUJTUktRX0ViclByanlaRXV3YUZDYXZrZUNhZ2MzYkQtbmt4ZVM0RWpXZHZ6Rk96eHFaZ9IB6AFBVV95cUxQeXBrcGc4d1hUQlBwRldzWlhDNGRwWlk4RU1zWDVUd01WeUlNVG5TNU96VFNtbWMteHRfMGJBYWhPZ3c3MGxPLWdDcGdtNmx6emFUdzFDQ1NEcDVGVi1yV0FubF91dW8wNVk3bU5GX3R3S1hCa1N1TDdCSHp5RjZBUTJLVFVLUXZmVjItNHhqSEl5eWlEaWtad3RHMVNVQ2w3TEJfV1RvWHpBWFFuWEhnZDVDR2hPMGkzOEtWcWZkc1NWUXhHd1RQRWtZQzVmci1DNlhrNEdnQ1RzT0FmMTZoOFg0YnQyMHFB?oc=5"
         }
       ]
     },
@@ -210,30 +210,6 @@
       ]
     },
     {
-      "id": "361c3ec58c86",
-      "title": "Além da sardinha! Cardiologista aponta 10 alimentos aliados do coração - Metrópoles",
-      "published": "2026-08-11T05:00:00+00:00",
-      "summary": "Além da sardinha! Cardiologista aponta 10 alimentos aliados do coração&nbsp;&nbsp;MetrópolesVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbERqejExWkpUaFZpQ1RoSC1oOWhScWN2aENxM2NFUnJpYmJ6WjAxRFVSSF9mSllkUE80X1F6OWZ6cG4zTjlTS0FVaWhKRVJwbWlHTDZmNjFBdm5nM3FKdm1WUDkyNG5SclZ3dUZSUnBvMC1SNExTSG10Wkx5czg4UVZzNDRQTmg2Z3JINDA4M0FRVERxNENSZHNzU0FmUGFtNUhnOHlfYTZxTWJzR1dkdlhJbG5WNUhDQThoc3Zn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dfdf53712b36",
-      "title": "Obesidade pode causar 1 em cada 10 casos de câncer, aponta pesquisa - folha.uol.com.br",
-      "published": "2026-08-11T02:00:00+00:00",
-      "summary": "Obesidade pode causar 1 em cada 10 casos de câncer, aponta pesquisa&nbsp;&nbsp;folha.uol.com.brObesidade está ligada a mais de 1 em cada 10 casos de câncer, diz estudo&nbsp;&nbsp;VEJASaúde: Obesidade eleva risco de câncer Especialistas alertam que excesso de gordura corporal está associado a pelo menos 13 tipos da doença e reforçam importância da prevenção&nbsp;&nbsp;Portal Terra da Luz“Excesso de peso pode estar ligado a 11,5% dos casos de câncer”&nbsp;&nbsp;Revista PlanetaObesidade eleva risco",
-      "sources": [
-        {
-          "name": "folha.uol.com.br",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQi1zMzFlUm9EZ0M2MTBIODhiNmZYa0lFaHNsSl9NSGtGd1FhcG1vYU1LWFdpQ0RpaFJVaXFlWmtaTFdpeml2T2Z5a1ZCbW1zZGVPb1l0TkdKN1pOSVZWZFROZUZvTDFKN0t1TWtfeXdBSmxNR29Gc2FhZ1NzSWVXeEVGRHRzV3RPSmJBTUFGZFJnTWxQbjgtM3o2eHdvczRlSndfbmNmbnBNLVZuV1RqQkxUWFJrOVB4WVdaSEc0QThwRzU1TXc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "421818ba58a5",
       "title": "Ercy de Souza, aos 82 anos, morre em Aquidauana após complicações de um câncer - O Pantaneiro",
       "published": "2026-08-11T01:46:00+00:00",
@@ -242,54 +218,6 @@
         {
           "name": "O Pantaneiro",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ3JWeTVaenJfZ1BpNF9KWW5RNWRNVnFKSUZaeGRtWkR4NWFiRnJ0Z01qeEdiNnhsSU53akJmbTQ3dmUzTm5ubGlWek9IN0tZd3BNQnJkNVpkdHVEZ3dhMWF6Yjg2ajdpZXF3RHlrODhiT3l4cE1OWWIwam9rMG1xTHV3ZVYwMExTOTB1N3ZVMEpqSmZ1N3pNMTdsX1RHUzhxRExsaXZOcFJEcUNSTG5jclVXMjFsbHc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b73a8d6e4550",
-      "title": "SUS Inclui Novo Teste para Rastreamento de Câncer Colorretal - Forbes Brasil",
-      "published": "2026-08-10T16:28:23+00:00",
-      "summary": "SUS Inclui Novo Teste para Rastreamento de Câncer Colorretal&nbsp;&nbsp;Forbes BrasilSUS incorpora teste mais eficaz para rastreamento de câncer colorretal&nbsp;&nbsp;folha.uol.com.brNovo teste com alta tecnologia para rastreamento do câncer de intestino chega ao SUS&nbsp;&nbsp;VEJAComo funciona o novo exame para rastrear câncer colorretal que passa a ser oferecido pelo SUS&nbsp;&nbsp;GZHO Ministério da Saúde inclui um novo exame na rede pública para ampliar o rastreamento e a&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "Forbes Brasil",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcVZ0Y1Z6NEhaTG9wZ0Q1SU9kMlA1Mzh0RXQzdXFSYlZkaEJHM2N4U2lvaTJ5bjFQXzJRU0VoNWpDdGRYLUJXa1E2SFJhb3g0RGVpcDRwMEZlRlF5WjFkVTN6U3pqbjNJbmZpcTNfUjF6RGIzV01CWkdrQUZfaEhVSmxNbHUzMmt1bndlSG90VWFIRm9SQmJySUtYa0czOWl0TTdVZEpmTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8a08ba7e9800",
-      "title": "TDAH: o diagnóstico aumentou globalmente em todas as faixas etárias, mostra nova revisão - O GLOBO",
-      "published": "2026-08-10T13:54:17+00:00",
-      "summary": "TDAH: o diagnóstico aumentou globalmente em todas as faixas etárias, mostra nova revisão&nbsp;&nbsp;O GLOBOConheça o diagnóstico de TDAH em adultos&nbsp;&nbsp;G1Sete Lagoas recebe palestra gratuita sobre TDAH com especialistas em Neurologia e Psicologia&nbsp;&nbsp;setelagoasnoticias.com.brNem toda distração é TDAH: saiba identificar os sinais do transtorno&nbsp;&nbsp;O Dia\"Tudo o que você precisa saber sobre o TDAH\" chega às livrarias&nbsp;&nbsp;Pretessências",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSzhxZjZ6NTdUeUJfSU5wYTNIY0hGaGlOMkFCVDRoUTB3cnJUMkhNal9UdHByZHFkaDFiUkhpUzZiRElEWkZDdW5RZURWYldqMU5Ba1JHRXQ0M0U1Wk9RS2R4Mkt3bThUbGRVeVZTY1ZQZllrZ3pUeEpmYXItakgxNzNmSzM2Y3BhcTM2SXMtS0NCbkdmM002QWVwVnlDY3poSjRUWkstU0tBaXV6NHl5dGJaWDI4WmtmRTJZV2J1Tmh3R1duVmZ0MThxZEx0dF9JZF9PLXdsdTBCUdIB6AFBVV95cUxPR3ZuVFVmVVd2SEZnX0J1aW4xZ3EyV2h6alZkaF9UVXpOdEx3S2xvakQtektOcHpucjVkdkYwTDgwaS1UVXhaSTkzQU5uVnI5R29GRUFjX0czY1UweUNnQ2RYcnpkSHBxZUtwVEF2ZzZLMUpSU3J6NFlkZEx4MVNVWjc0eXJPdlQyVW9JSDNwRDk1TXJTYVVhelY4ZF9nai1IWEU5UzBBMFpYVXk2eVpWTXVOcFVVZG1mRDV3WXZJZjlSYVpvR0dRVW5vbXZERUZnSlRJQW5lektxckhROWM0TVBmOGVaclha?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "728b36a2221e",
-      "title": "O que descobri com exame tecnológico que vasculha o corpo inteiro para prever doenças e tem 100 mil pessoas na fila de espera - O POVO",
-      "published": "2026-08-10T13:37:41+00:00",
-      "summary": "O que descobri com exame tecnológico que vasculha o corpo inteiro para prever doenças e tem 100 mil pessoas na fila de espera&nbsp;&nbsp;O POVO",
-      "sources": [
-        {
-          "name": "O POVO",
-          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZ3FKeFVKMlVDZXFzd0Y3S3MzNXdyd3oyMHhHUzEzTWZIT1oyMDNkOWx1a1hOMUoyLVpycHRJLVN0LXpFU0FVNkpaRS1DVlZldlJrZkpUZkV2X3VGN2dmaEV6RkRMRUFIWG16TmhoVDdJdzFqZVIxY3hxdUx2c0ZJcVJCNHY5RERBdU1mMktkS3V5aXEwSUU2WnB3Ry1Cb1Z4R2E4M25CcGtKWVZ1aWZkS3JLMG05cEJsN0Jlem9KbFlralBZeFZ4SWtOSHgyMFNzRndUV21qYUVKQzBqV2xKU3g2NlhrU284Z3lBWmFPUS11eW41SkdFQmM1RF9tUjM1Z182a2tZTWg4UQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e6846393bdee",
-      "title": "Estudo aponta tempo ideal de musculação para viver mais - VEJA RIO",
-      "published": "2026-08-10T13:23:00+00:00",
-      "summary": "Estudo aponta tempo ideal de musculação para viver mais&nbsp;&nbsp;VEJA RIOMusculação ajuda idosos a viverem mais, porém exige de 90 a 120 minutos por semana com ritmo moderado&nbsp;&nbsp;Diário do ComércioMulheres idosas se beneficiam de músculos mais fortes&nbsp;&nbsp;TerraA força da Academia e da Educação Física: muito além do corpo, uma profissão que transforma vidas&nbsp;&nbsp;WebTerraJá pensou em fazer uma poupança de músculos? | SEGS Portal Nacional de Seguros, Saúde, Info, Ti, Educação&n",
-      "sources": [
-        {
-          "name": "VEJA RIO",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOODhMQnluaUVoQzBhcHFTV0YzVXU4Vkh1Zy0wZ1VodzctSTdoVXN3MHFQVHR0SWdDTWpsemhYb0xNdE56LVY3a1kwV0Z3SjU3Vk1hSkZCLUtQejdKTlZCX3RndnRCNk14Tkd0T1FRWDVGdU1uUkZFWHZaVkQ5ckNlQWtaZjZTdEtVVHRSOWtCMW1IeERiaGhHdFprUHBuTU5Na1B2Q09R?oc=5"
         }
       ]
     }
