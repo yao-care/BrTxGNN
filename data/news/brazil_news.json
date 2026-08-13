@@ -1,27 +1,99 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-08-13T13:14:13.945093+00:00",
-  "total_fetched": 66,
-  "unique_count": 65,
-  "health_related_count": 32,
+  "fetched_at": "2026-08-13T19:03:56.964884+00:00",
+  "total_fetched": 77,
+  "unique_count": 76,
+  "health_related_count": 35,
   "news": [
     {
-      "id": "c8a3e84045e4",
-      "title": "Cientistas fazem descoberta histórica: uma tartaruga de 188 anos nascida em 1838 é localizada em uma ilha remota do Pacífico - Super Rádio Tupi",
-      "published": "2026-08-13T10:29:28+00:00",
-      "summary": "Cientistas fazem descoberta histórica: uma tartaruga de 188 anos nascida em 1838 é localizada em uma ilha remota do Pacífico&nbsp;&nbsp;Super Rádio Tupi",
+      "id": "a29cabccca91",
+      "title": "Como nova onda de ataques às vacinas gerou efeito reverso nas redes sociais, segundo levantamento - BBC",
+      "published": "2026-08-13T16:59:41+00:00",
+      "summary": "Como nova onda de ataques às vacinas gerou efeito reverso nas redes sociais, segundo levantamento&nbsp;&nbsp;BBC",
       "sources": [
         {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMW9IME9KRTNvNVpVYVpENlllTzJoZDF5V2cyem5qeUxpMWozX2t5aFM1U0djWGFaaG9NRVJ0cHFBMmN6NjVQd2hVRURralZueU8ySmRVTEtzbkhWb25zN25kMzRkQVBmVmNzZ0NMVFJWUzQ0anktYmx4aG1DZDItRkxwQlpnaUZEX1RLUVhEZEczcHZSTWI1YXJ3QzBiN0VWN0xPUVREOHFrSmIzLW5Ec1A2MjB5YktXSVRNMzBZamxVeFBzYnlvOTRHVUE1WHNFSnh2M2pFRDVkdGtzQUp2TDRUbEM?oc=5"
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QaGw3THhvN3B3QVpDQ2xCU2Z5Y190cG14Uzc4YW9HRHVGblhrdHlwOS1tWFM3S1pqS3pLZWIzZ2JrdTVtXzhObFpFVU01SnFuRldkcjVJa2hlbl9VVXZuQThR0gFnQVVfeXFMTkNwYlJobFlVUzZ3MDlJekl5ck5zZzFBS1BQd1ZBQm1sNUllTkJhUE5PQ1pVMFBianUyUkhnYlZncGpwUmZ2RG9yeHc4X1JTekgwZDFYNVBuUFJHOFc4Wi1maTdRLUg2UQ?oc=5"
         }
       ]
     },
     {
-      "id": "50606f035538",
-      "title": "Jovem de 20 anos morre após complicações da Doença de Crohn - sulagora.com.br",
+      "id": "049b1e2ab424",
+      "title": "Metformina faz o intestino consumir mais açúcar, indica estudo - UOL",
+      "published": "2026-08-13T14:03:42+00:00",
+      "summary": "Metformina faz o intestino consumir mais açúcar, indica estudo&nbsp;&nbsp;UOL",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTDQ2VThEQmgycWdvRHE4a1pRLWhJSk8xQTZlX2dIeXNRNGJxQy1YMDFlWURZdFBMS2hPMlhxZU9helR1S0ktaC0wb2ZmaThMbXd2ek5QaFdkVGNyOUZWLWlhVEJxWjJ3RXVKSWRmZzZNZlVYaHdLMlhWNENSZDBQZEtPcDVIUHFWYnp3QXJMSDdoMjhzcV9FUUVJZlJmLVhNcDF5dVBYMHZ2VkFDTWs2Q0tQQVQ2a3FrNjN3NFV4bUtrME0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "46ac86e1819b",
+      "title": "Estudo aponta 3 fatores que podem reduzir anos vividos sem demência - Estadão",
+      "published": "2026-08-13T13:03:00+00:00",
+      "summary": "Estudo aponta 3 fatores que podem reduzir anos vividos sem demência&nbsp;&nbsp;EstadãoTrês fatores de saúde podem adiar o aparecimento da demência em até 13 anos, diz estudo&nbsp;&nbsp;Superinteressante45% dos casos de demência são evitáveis; veja os três fatores que concentram o risco&nbsp;&nbsp;GZHMédica geriatra aponta prevenção como essencial para evitar ou reduzir demência&nbsp;&nbsp;ParaibaOnlineComo cuidar do cérebro para reduzir o risco de Alzheimer? Especialistas explicam hábitos que fa",
+      "sources": [
+        {
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOV0twajE1M1pBWUhjOFMzSWJxSGR4TGJTaDJEdGZEbXNBcW5EcVJVdy04d0duRHM5cjMwbzAzVUZ1Z0docTczLW5iS3pvaGZ5U3BWQkl2ZWxJcjlCellVay1CQl9hNEFwcDh0N1RLVUNmTnVGdG1pMjNtN0I3bmlTWGhvSFNad3gwNGhzbm5UQnFKQlhoVW5ubVdMNW1WcFBGMmpRMEVSallEdHhiTUp6dHBZYnBTSk5CNEhjaEEtb9IBxAFBVV95cUxOb2pLTzVtNl9oSzY4dXZVWUpGbWtHYUJyNkJkeWZROWRlNjhlR2tjOXRvX2NUd1FZbThDMWd0NlJGVTVBa1FpcEVFRkNZTHVoWndQQVVuQVI3M1JTWW1JSmdpS3VYU0VMOWZJWHd5dzVQWHBzX2hQUnctbzVkT2Q1VDM1RzJlX1JwWnRRZVlNeHFxRHpjYjZRZnZLN3ZOWGUteXBCZlhfMU1ZbklXdGVXNmZSRDhsRTVSZ084eHVDSldmRnow?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7367916a5415",
+      "title": "Laudo aponta causa da morte de bebê que recebeu soro no lugar de vacina - Vvale",
+      "published": "2026-08-13T12:59:00+00:00",
+      "summary": "Laudo aponta causa da morte de bebê que recebeu soro no lugar de vacina&nbsp;&nbsp;Vvale",
+      "sources": [
+        {
+          "name": "Vvale",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYlNraU0tRlJLaW1BVnB6YllqZHV2N2J5UUZ1bklpZkQ1LVNvTHNhUkJiN0U3UDl5RkNMTTBENFF4N2Frb0RzU1BxSV9hemtUeUVWQWEzbWhYYmN5VmlJNkx3UkZlUktaS1hyUDJyX1NscWROczJxcE05UHRaQzFTSWhUMHBqLWVxdjQwcWxYcDc1VUx2UHFHdVg2SUN4Z0NrRVoyRw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d9b04fa6e1ce",
+      "title": "Pesquisa mostra que IAs evitam contrariar usuários - CNN Brasil",
+      "published": "2026-08-13T12:54:25+00:00",
+      "summary": "Pesquisa mostra que IAs evitam contrariar usuários&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOenNMUnhSQkVuUXdwN3VDdThFX2owdExubFk4MDI3eGRBdV9WWGtLdVZvb2FsYm5LamFIbEctWndnWU1HdG1rQkktZkRsUk9ub0hkbEo5YjV0Ymszdzg4Ql9FT2ZUdzdtMmpOeGFPZC1ldzRtcXFSTktWaG1FOE0ydE1sWk02bnNkaDNGTlNLVHhsdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1f7d00ee9d05",
+      "title": "Compulsão alimentar está ligada a ultraprocessados, indica estudo - UOL",
+      "published": "2026-08-13T12:04:21+00:00",
+      "summary": "Compulsão alimentar está ligada a ultraprocessados, indica estudo&nbsp;&nbsp;UOL",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMDY4VXd1ZTFJemxfaTluR1hQVGRfd0Q1Ums2TlNQODh2NXRHN3JCa3hpckxiVlp5QjhqYXI0cDM3WF9rT282TE1VQkF5ZkZPdzZaelZIMkVSTUxhVlRZZWtvV0Y2YzFuY3BwNjl0UlFtVHdfX19lMkVHQ2ZfOEtSb3J6MHZCRXliZms0UTU0Y0FxcDdKX3NxWE1lOXRrN2VubW85M3ZFOGN6dFR3QlRrX29qTXFhbDZza0E5SFBjOXk2YWVXR1Vj?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a918e97ed75e",
+      "title": "Cuidando da mãe, filha usa redes sociais para dar visibilidade à luta contra doença neurológica - midiamax.com.br",
+      "published": "2026-08-13T10:00:00+00:00",
+      "summary": "Cuidando da mãe, filha usa redes sociais para dar visibilidade à luta contra doença neurológica&nbsp;&nbsp;midiamax.com.br",
+      "sources": [
+        {
+          "name": "midiamax.com.br",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMGtEcnlzUFFrbzhSUDhubDRBUzJEQW80X1g5VzA3cVROcldtTllmZ1hETUlWSEppMHlWN0VlYmV3MTdTUDl6d0hhOHM0TGRqQW91a2tFTkdBTFY0WmpjakZSRS16QklwY05HN2tqR2lXMmZyT01pR0xLVHNyOEFsaV9MbjBUc1BOay1mcXRQSXlIUE9SYktWcG43OFlWVlpzZmFTOC12VmFxUmdUbkstXy1YeWI2T293SmljSFJSb0lNQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f6bcf9d96bef",
+      "title": "Jovem de 20 anos morre após complicações da doença de Crohn - sulagora.com.br",
       "published": "2026-08-13T08:55:00+00:00",
-      "summary": "Jovem de 20 anos morre após complicações da Doença de Crohn&nbsp;&nbsp;sulagora.com.brJovem de 20 anos morre após complicações da Doença de Crohn -&nbsp;&nbsp;radiotuba.com.brJovem de Pescaria Brava morre após complicações da Doença de Crohn&nbsp;&nbsp;folharegionalwebtv.comJovem de 20 anos morre após complicações da doença de Crohn em Pescaria Brava&nbsp;&nbsp;Hora Hiper",
+      "summary": "Jovem de 20 anos morre após complicações da doença de Crohn&nbsp;&nbsp;sulagora.com.brJovem de 20 anos morre após complicações da Doença de Crohn -&nbsp;&nbsp;radiotuba.com.brJovem de Pescaria Brava morre após complicações da Doença de Crohn&nbsp;&nbsp;folharegionalwebtv.comJovem de 20 anos morre após complicações da doença de Crohn em Pescaria Brava&nbsp;&nbsp;Hora Hiper",
       "sources": [
         {
           "name": "sulagora.com.br",
@@ -30,25 +102,49 @@
       ]
     },
     {
-      "id": "8869f149b669",
-      "title": "Universidade no litoral de SP reconhece centenas de diplomas de faculdade no Paraguai apontada como 'fantasma' - g1.globo.com",
+      "id": "24fe3629a11b",
+      "title": "Universidade no litoral de SP reconhece centenas de diplomas de faculdade no Paraguai apontada como 'fantasma' - G1",
       "published": "2026-08-13T08:23:12+00:00",
-      "summary": "Universidade no litoral de SP reconhece centenas de diplomas de faculdade no Paraguai apontada como 'fantasma'&nbsp;&nbsp;g1.globo.com",
+      "summary": "Universidade no litoral de SP reconhece centenas de diplomas de faculdade no Paraguai apontada como 'fantasma'&nbsp;&nbsp;G1",
       "sources": [
         {
-          "name": "g1.globo.com",
+          "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNZzExSW5jc3pyNzVyTDRCcS1QVXhDRVNjTTNBaUhTeTdlZ192eVZIMzhQeHRQR0FJZnVXWXg5YWxjWGw3S1J3ci0xS2Nkd1hJeXJwbzRkMGdRUVFic0RqVHlQc2tRV2Z0ODltdGpkc2xzYXJWRVBZaTJqMGwwN09udFB4WUtUcmlHWE85d3gtQ0Fsa2hfU283cGFQYUJMRDFHY0FJZDNORndFNjVpYkFHYW1RR2Jqa0Z1aGhja19Pckg0OGg4STVfc1YwWkx2WjJYSEhSWGZtOGFNRG1iZjR5YjVWRC1obnJtTl9GcXl5dXdFOEl5ak1iUHpuak1PSHoz0gGPAkFVX3lxTE0ydF9HbnZGQlNYaFo4RkJuc0piQzQzSGN3UlRQNVV6MEozVzVfcDFBOWpXMUhFejItbjIwQVN6YlhxbGhKbUxyM2ZnYzlKdUZPME9ER3dSV1oyemFjN25tdVhiZS01N25QekFxRXFrWjhidjZOMGt2SlRFcE0zWno5NEtETXBmanVqa0l0cy1HbnZ2ZllUN3ZzeExydUJvUElkTVpjYzg5QThRLURwajJXZXJ2TGN2STZHZ1ppZnp5a2J4cmd3MmRjbHdMQkpiZnNLb3JpRVdZeXZlQmZJS0wwM1VRZjRTMVNfZG9CTXJ0d21VQTN1UUxsalVFdlF1MlhTQ0J4c0tfQ1AwV0o1dFk?oc=5"
         }
       ]
     },
     {
-      "id": "56b022c4441c",
-      "title": "Estudo revela que células de defesa do cérebro podem ajudar a combater o Alzheimer - g1.globo.com",
-      "published": "2026-08-13T06:00:12+00:00",
-      "summary": "Estudo revela que células de defesa do cérebro podem ajudar a combater o Alzheimer&nbsp;&nbsp;g1.globo.com",
+      "id": "08c39067ff6c",
+      "title": "Vacinação contra o sarampo está abaixo da meta em cidades do Vale do Paraíba e região; veja sintomas - G1",
+      "published": "2026-08-13T08:03:40+00:00",
+      "summary": "Vacinação contra o sarampo está abaixo da meta em cidades do Vale do Paraíba e região; veja sintomas&nbsp;&nbsp;G1Bragança investiga duas suspeitas de sarampo&nbsp;&nbsp;G1Sarampo: por que os idosos ficaram fora da cobertura vacinal? Entenda&nbsp;&nbsp;EstadãoGoverno de SP alerta para o alto contágio do sarampo; conheça os sintomas e veja onde se vacinar&nbsp;&nbsp;agenciasp.sp.gov.brO Brasil piscou. O sarampo voltou&nbsp;&nbsp;Brazil Journal",
       "sources": [
         {
-          "name": "g1.globo.com",
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQR3o4YWtvT3BMWVVkS250eUxfNkNwOXlROFdwUkFvbzlNT3VIQmU5MTFsVGU5cDNScjhsMXZTZ0ltT2RhZ3ZmcW93dmtmMFZ0UHpNNlBRWnBPWF85QktCM0JCVEJKTWF4NGdkOGNka3dQRERNeVExZ2ZLRzk3SFdKb2xDczduTG1qY0dWcmNTV2x2SG5Vb2tfaEM1YWpEWlEtbEFnTEtfTmF3SThqQzNVbW5Cd01aU09IRTBlRjNiamt4VFd6Q05sb3UyOHF6bHdfamRzbXpaNVNoUThMWG1VSENsMWdIa3lTeHQ3eVd3VE43aXowRVZQT3hXYTJnQm920gGPAkFVX3lxTFBweDJjRG90aEIwelVMamRzSWtUSWVWSlBhMTJUcE5ibG94cWVTeXNHWnA2WU5NRmRJRldycC1iQnVRYWhyUWxnd2dCLXFTUmFKeG8xYVJrS2tCdG1DcU5wVzFuMmVjVDNrZklicWRTYWREMGxmOVlGb2lGRno2ejc3cmZObnhYX3gtRWc5QlZ4MFJHQTdKZlRzQ19VQzdleEJBMnJ4bGtWd0Jxc0dPeGthRV9WUE9fRlZDbHVVel9iOWpScXpfbkdYd2dpTll1UVczeWxkQUkwSTVFYWxnZmx6Z2hUMjZfdEtCdjZrYnI5Ul9XU3h1Ty1ZWURTOW5BRF9UVEswSnM4c3BOc3N4TjA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a21b164b41d9",
+      "title": "Cientistas conseguem mapear como riscos à saúde mental surgem em conversas com chatbots de IA - O GLOBO",
+      "published": "2026-08-13T07:30:26+00:00",
+      "summary": "Cientistas conseguem mapear como riscos à saúde mental surgem em conversas com chatbots de IA&nbsp;&nbsp;O GLOBO",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMlRVRzNEejJhRGkxMnJmbEw5a3BKZ0EyRGI3d21oM1lmRVdKZU15RU9Dd2VnX2VvaXQ2UG5CSThYdzJNV0h4blg5LTNTTUxQQUsxSG1yRW5XelJtY25DTUhaVnRlRmJLR1BBM1BZcDlJVzZ5QUFQcUdxUlBzb1hTZWpTN0c3MktwbjdYbHFjTzhab1RaWDJYdVhjbnh3UEFpWWNSTEt3NUFtWldfWF8zZWtsSWV5TWVCN1BNdy16UlV2QzFhd0hoYmRvRHdGZWVoTlpmUzkyTTB0dXBRQy1iMDlMQdIB8gFBVV95cUxOdGZLWjRQdXNhcXNHS2ZLazBURWRFSW9LOHVEY1RZY1Q3eFpGWkxCRUZBNnl0bHduVmVLLVpvOXJaZ0JaM2tBbF9VRy02Wno1TlZ3clBIcUV0N0pTMWttR2I4SzVYNEpCSmJzX1BUTHlKdW80STdhT0dvUnpzb2hyOWJ0Y05oQ1VRSGlXNm5xN0JJaldnLS1TN3ExUDFXRFp2cDExRDN2aFlZZzg3M0JXNTlsb3lpVXptczEwV3pONFpPclZxMXcydWVGMHRCVjktdnpjY3JEMTA4c1B1eERfOWRsQ2dkQ3l3U2JsRG1NeGJLZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f5dd884e6dfe",
+      "title": "Estudo revela que células de defesa do cérebro podem ajudar a combater o Alzheimer - G1",
+      "published": "2026-08-13T06:00:12+00:00",
+      "summary": "Estudo revela que células de defesa do cérebro podem ajudar a combater o Alzheimer&nbsp;&nbsp;G1Estudo: reprogramação de células de defesa podem combater o Alzheimer&nbsp;&nbsp;CNN BrasilEstudo identifica mecanismo cerebral comum ao Alzheimer e a doença infantil&nbsp;&nbsp;Correio BrazilienseUma célula do cérebro pode ajudar a evitar danos do Alzheimer&nbsp;&nbsp;Olhar DigitalBRASIL: Cientistas descobrem como “reprogramar” células de defesa do cérebro para combater o Alzheimer&nbsp;&nbsp;Prensa ",
+      "sources": [
+        {
+          "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOHJicmVDSWZUclpuLXo4eUwtZGp1OHFaVFhCdG5fbGRqczRhaVJCOTFzeW5MWDg0aEt6S1BPU19IY0I1cEJhbXh2cVk1aGhsNkkxdkV3RGRFYVd2NW9oLWJzQm1sWDdrdFZvYkNvNDlKRS1hZUhhOEs2WmhKTHI2QndVOWVBQmE0RWUySFFsUFdPLU9QT29TODY4UTI5YWg5eUxSQk1aZ3pNQnFYdXFJLUN6aEFNaVlFV1Y5bUZmTWdiZ2o3dnR6THdNcmQ0WU3SAd4BQVVfeXFMUE9DWU93dVhlLS1jU19qSDZEUW9GVUtPcldud1gxcU1DakJqTE41MDNObE9BZFJnZXJSMmZoNWRrd2FXUk8zUjhsdFlyREEwRVlfZUswdVYwVmRqU1pubHdTREdRNmVFNlFpTDRybnVhc2c5cC1zYnFWSmhmWGRQSXNVZjRmRjJmZzhUUGxjLTBkdU1RdnVMTjNYRDlPNDFZSHNPMTFzUjZXak03eEc0TTBfbUJWbEJsckRMNGVIdFFQNDRQUWtaazFoN0VDZk1LT25GZkNlOElDV3lLZ25n?oc=5"
         }
       ]
@@ -57,7 +153,7 @@
       "id": "c8a50af2e89e",
       "title": "Menopausa pode afetar a vida sexual? Entenda o que muda e como tratar - O GLOBO",
       "published": "2026-08-13T05:00:33+00:00",
-      "summary": "Menopausa pode afetar a vida sexual? Entenda o que muda e como tratar&nbsp;&nbsp;O GLOBOMetade das mulheres na menopausa tem esta síndrome — e poucas sabem disso&nbsp;&nbsp;Veja SaúdeRessecamento vaginal: especialista alerta para sintomas que vão além da menopausa&nbsp;&nbsp;jornaldafranca.com.brBaixa libido feminina pode ter relação com hormônios; saiba quando investigar&nbsp;&nbsp;D24AMMenopausa pode afetar vida sexual e saúde íntima&nbsp;&nbsp;brasilemfolhas.com.br",
+      "summary": "Menopausa pode afetar a vida sexual? Entenda o que muda e como tratar&nbsp;&nbsp;O GLOBORessecamento vaginal: especialista alerta para sintomas que vão além da menopausa&nbsp;&nbsp;Jornal da FrancaBaixa libido feminina pode ter relação com hormônios; saiba quando investigar&nbsp;&nbsp;D24AMDor, desejo e prazer: FEBRASGO reforça que saúde sexual também é saúde&nbsp;&nbsp;FebrasgoMenopausa pode afetar vida sexual e saúde íntima&nbsp;&nbsp;brasilemfolhas.com.br",
       "sources": [
         {
           "name": "O GLOBO",
@@ -69,7 +165,7 @@
       "id": "289fc9668848",
       "title": "Saiba o que o decreto de Trump sobre vacinação infantil prevê e o que dizem os médicos - R7",
       "published": "2026-08-13T05:00:00+00:00",
-      "summary": "Saiba o que o decreto de Trump sobre vacinação infantil prevê e o que dizem os médicos&nbsp;&nbsp;R7O que a Folha pensa: Obscurantismo antivacina avança sob Trump&nbsp;&nbsp;Folha de S.PauloOfensiva de Trump contra vacinas contradiz evidências científicas, diz OMS&nbsp;&nbsp;O GLOBOObjetivo de Trump de separar vacina tríplice viral pode levar uma década, dizem especialistas&nbsp;&nbsp;terra.com.brOMS defende vacinas após Trump anunciar redução no calendário infantil&nbsp;&nbsp;VEJA",
+      "summary": "Saiba o que o decreto de Trump sobre vacinação infantil prevê e o que dizem os médicos&nbsp;&nbsp;R7O que a Folha pensa: Obscurantismo antivacina avança sob Trump&nbsp;&nbsp;Folha de S.PauloEUA: reforma de vacinas de Trump aumenta desconfiança e expõe Europa a surtos&nbsp;&nbsp;Euronews.comOfensiva de Trump contra vacinas contradiz evidências científicas, diz OMS&nbsp;&nbsp;O GLOBOObjetivo de Trump de separar vacina tríplice viral pode levar uma década, dizem especialistas&nbsp;&nbsp;Terra",
       "sources": [
         {
           "name": "R7",
@@ -78,25 +174,25 @@
       ]
     },
     {
-      "id": "68379f2302c3",
-      "title": "Canetas antes da bariátrica não trazem perda de peso adicional após um ano, diz estudo - g1.globo.com",
+      "id": "8f3840d1e898",
+      "title": "Canetas antes da bariátrica não trazem perda de peso adicional após um ano, diz estudo - G1",
       "published": "2026-08-13T03:00:56+00:00",
-      "summary": "Canetas antes da bariátrica não trazem perda de peso adicional após um ano, diz estudo&nbsp;&nbsp;g1.globo.com",
+      "summary": "Canetas antes da bariátrica não trazem perda de peso adicional após um ano, diz estudo&nbsp;&nbsp;G1",
       "sources": [
         {
-          "name": "g1.globo.com",
+          "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUEtUSlUxaHRyUmRnOEIzY3VWU2FJZkZwelhmWlk2X1VRbUV2bld6alZwQmlhMzhVV3hQZVNyNGUwcDdhUGxpbUNOQVFncXItYkZ2am9EY1FiSnVyVU9SbVo5V180N1pwT1JhTXlFWVZzT3F2a1Q3YnhxZFRzbmhyN1BEdWpRYkFLNmNqcjk0WjVfU2dER2NDeTI5TWh5OWgwdFpNeV9OQzlTQlp3dzlBUENvSFBlQm5nV3V1WmhaWEMzamR3LWs2NFcxbHg4MWV0VnFR0gHiAUFVX3lxTE9qSERNdFhfUm9vYno0OFRPc1JYZjlENnlrV2RHd045aWpkZEt3OTVxaDE5WXl2NGttZExUbkFkS25GeFE2TERrWWNBcUNtaDIxS3hnM2k5MXV4WnF2ekxzQmpZbkJhdDVGeG1iVWFxbUk0ZlNiZXNqUmtxcFE2cXRYaVVsZk9ONTVDSWxxVnRuUlY2U0QxTlB0dWlKSEJxSVJ6aFF4NVp1aE9XOHBSUjdpR1IzTmhEZXZpN2ZDUEx1eUxaMEVjV1c3eXhVM2IwZWNWMUNDQ09FU2VWc0ZxVGpPZ2c?oc=5"
         }
       ]
     },
     {
-      "id": "1eb4e340df0f",
-      "title": "Quem são os pesquisadores (de esquerda) que querem formar a “Bancada da Ciência” - gazetadopovo.com.br",
+      "id": "3a6f9374aac1",
+      "title": "Quem são os pesquisadores (de esquerda) que querem formar a “Bancada da Ciência” - Gazeta do Povo",
       "published": "2026-08-12T23:45:00+00:00",
-      "summary": "Quem são os pesquisadores (de esquerda) que querem formar a “Bancada da Ciência”&nbsp;&nbsp;gazetadopovo.com.br",
+      "summary": "Quem são os pesquisadores (de esquerda) que querem formar a “Bancada da Ciência”&nbsp;&nbsp;Gazeta do Povo",
       "sources": [
         {
-          "name": "gazetadopovo.com.br",
+          "name": "Gazeta do Povo",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRXdZVDhQOFdjLTEwRFdjUXdyZ0RqeGxtdUtCNHI0NXRLdjZKS0dtYlhhdll4WXpRbzJsSGV6VzU5dkEwd1doNU5wQ3JhQ1FHc05zVVMyMkYxSmlLNDFSZF9uSWlZVDZmVng2THB0ODg1WGVQRkJBUTZLbWNRaGlBR3FtVHZMNTJ1OTNkM3lyWHYwc2VPako4Wm96RVdJNlFwMVd3?oc=5"
         }
       ]
@@ -105,11 +201,23 @@
       "id": "46ec2e12881c",
       "title": "Campanha de vacinação contra a raiva chega a novos bairros da Serra - Serra Noticiário",
       "published": "2026-08-12T22:38:00+00:00",
-      "summary": "Campanha de vacinação contra a raiva chega a novos bairros da Serra&nbsp;&nbsp;Serra NoticiárioVacina contra a raiva é aplicada em Contagem&nbsp;&nbsp;g1.globo.comNatal ultrapassa 44 mil cães e gatos vacinados contra a raiva em 2026&nbsp;&nbsp;Tribuna do NorteCom meta de imunizar 10 mil pets, Itabira realiza Dias D de vacinação antirrábica: Veja os locais&nbsp;&nbsp;DeFato OnlinePrefeitura finaliza etapa rural da vacinação antirrábica nesta sexta (14) e inicia fase urbana no dia 22 de agosto&nbs",
+      "summary": "Campanha de vacinação contra a raiva chega a novos bairros da Serra&nbsp;&nbsp;Serra Noticiário'É o Bicho' explica a importância da vacinação contra a raiva em cães e gatos&nbsp;&nbsp;G1Natal ultrapassa 44 mil cães e gatos vacinados contra a raiva em 2026&nbsp;&nbsp;tribunadonorte.com.brCom meta de imunizar 10 mil pets, Itabira realiza Dias D de vacinação antirrábica: Veja os locais&nbsp;&nbsp;DeFato OnlineCampanha Antirrábica 2026 chega a quatro bairros de Itabuna nesta quinta-feira&nbsp;&nbsp;",
       "sources": [
         {
           "name": "Serra Noticiário",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN2hGeVdoeHFxQVAzYnFFUzVaYW9HRWo4RXByVlVRVklENXVsUlM2TnhLcmZrWm00ZTljTXIyTzU3VU1TZWZmRG9tQnBzS2twM2daUUVhRWNGMlFVY25NRFl2WDNYUndmMDFMWHZSYjNEVklpVW9PblF3bUFvOWU3LWNPX19MczRCRU9HZXRzWWtlczRrRDJTb25kWUJobUhZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9447547a56a2",
+      "title": "O que é a \"glueball\", nova partícula descoberta em acelerador na China - Superinteressante",
+      "published": "2026-08-12T21:05:18+00:00",
+      "summary": "O que é a \"glueball\", nova partícula descoberta em acelerador na China&nbsp;&nbsp;Superinteressante",
+      "sources": [
+        {
+          "name": "Superinteressante",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZllkUGVMVzREOVdkb3hWQUpPMFA4M251Zm1MTTkyNS1JSG9pU0NhYWs2X1lFSnRvNzJ2ZU0wTlRrelA3OHB3VWh4Z25fTUNmTkc1bkVEdW55ZHNKQXlqRlJ1VDIzbW44WHlPWG1mOFBVSkFHQVZIMEtSXzMydlFlZDROUkN0eGZuX2ZQakMtM0ZOQmRXUm1MYVhkeU5OQUFxeG9wN1dR?oc=5"
         }
       ]
     },
@@ -150,10 +258,10 @@
       ]
     },
     {
-      "id": "fe5f567ba734",
-      "title": "Estudo revela que 84% dos diagnosticados tardiamente com HIV em hospital de Porto Alegre eram heterossexuais - GZH",
+      "id": "1ae5031e280a",
+      "title": "84% dos diagnosticados tardiamente com HIV em hospital de Porto Alegre eram heterossexuais, revela estudo - GZH",
       "published": "2026-08-12T18:26:28+00:00",
-      "summary": "Estudo revela que 84% dos diagnosticados tardiamente com HIV em hospital de Porto Alegre eram heterossexuais&nbsp;&nbsp;GZH",
+      "summary": "84% dos diagnosticados tardiamente com HIV em hospital de Porto Alegre eram heterossexuais, revela estudo&nbsp;&nbsp;GZH",
       "sources": [
         {
           "name": "GZH",
@@ -186,18 +294,6 @@
       ]
     },
     {
-      "id": "afb121985352",
-      "title": "Depressão tropical já tem data para se formar no Atlântico; sistema tem 70% de chance de ocorrer durante o El Niño - ND Mais",
-      "published": "2026-08-12T18:02:03+00:00",
-      "summary": "Depressão tropical já tem data para se formar no Atlântico; sistema tem 70% de chance de ocorrer durante o El Niño&nbsp;&nbsp;ND Mais",
-      "sources": [
-        {
-          "name": "ND Mais",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWkZaalk5Zi1NTW1hQk0wNTY2V0x5OXhIMFpwR3FkRnpYOXAtbm1fTnoydkdLZkpDM0JCNnBUaHllcnNnOE9qdTBRNnFHTWN5RTlWa2VHM25MeVNUUEVNRzlyUVdscHFqdlp2aFNjVVRYekJDZWJvU0t1VktUeC1tT2QwdEp4SHVTVGVTam1uclJOcVFOc3JFQjAzZDg0QWt1eFo2Zi0xYnVGNzk4WTNaQ0FSZVdUejVHNFNUOS1FaEtybEZKSFk3MndjM3pLMVhlbmwtNDB1QjU?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d84fec60ea2e",
       "title": "Estudo francês testa parar remédio para baixar colesterol após os 75 anos - UOL",
       "published": "2026-08-12T17:39:34+00:00",
@@ -210,22 +306,10 @@
       ]
     },
     {
-      "id": "431e07f216ce",
-      "title": "Sandy vira objeto de pesquisa científica em universidade - VEJA",
-      "published": "2026-08-12T17:26:00+00:00",
-      "summary": "Sandy vira objeto de pesquisa científica em universidade&nbsp;&nbsp;VEJA",
-      "sources": [
-        {
-          "name": "VEJA",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVnp6MldxN2JuOXNWSHRFUDVSYkFkUUpsVWtKMlltdFpnN2MtdE1ZTDQ0bEJlT2lydTZMUmw2UWVBdjY0V3pUXy16V0w3VW5oR0dNY0hyb1ctV0M3aExNZGtINjM1NGdnc2VvLVhabi1VUUJ3SmxnZ3FLQ0tFQTdWTTA2WXN2Y0lQZ0JhY3hFOG0xUGVPekE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3adc2e401c34",
       "title": "Exame de sangue pode detectar câncer e mostrar onde ele começou, diz estudo - UOL Notícias",
       "published": "2026-08-12T16:08:36+00:00",
-      "summary": "Exame de sangue pode detectar câncer e mostrar onde ele começou, diz estudo&nbsp;&nbsp;UOL NotíciasExame de sangue pode acusar câncer e revelar onde tumor se originou, sugere estudo&nbsp;&nbsp;GloboNovo exame de DNA pode identificar câncer e doença hepática no início&nbsp;&nbsp;MetrópolesCientistas criam exame de sangue capaz de detectar câncer&nbsp;&nbsp;diariodocentrodomundo.com.brExame de sangue ajuda a identificar 4 vezes mais casos de câncer, diz estudo&nbsp;&nbsp;Jornal O Sul",
+      "summary": "Exame de sangue pode detectar câncer e mostrar onde ele começou, diz estudo&nbsp;&nbsp;UOL NotíciasExame de sangue pode acusar câncer e revelar onde tumor se originou, sugere estudo&nbsp;&nbsp;GloboNovo exame de DNA pode identificar câncer e doença hepática no início&nbsp;&nbsp;MetrópolesCientistas criam exame de sangue capaz de detectar câncer&nbsp;&nbsp;Diário do Centro do MundoExame de sangue ajuda a identificar 4 vezes mais casos de câncer, diz estudo&nbsp;&nbsp;Jornal O Sul",
       "sources": [
         {
           "name": "UOL Notícias",
@@ -246,10 +330,22 @@
       ]
     },
     {
+      "id": "729ca75144ad",
+      "title": "15 minutos de atividade física já podem ajudar a reduzir risco de câncer - Globo",
+      "published": "2026-08-12T15:42:41+00:00",
+      "summary": "15 minutos de atividade física já podem ajudar a reduzir risco de câncer&nbsp;&nbsp;Globo",
+      "sources": [
+        {
+          "name": "Globo",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdlBuREVoWTBSR2pESkwtam1EdXlGMXFmT092cHVGWF9NcVJQVEVLMmM2ZUtoTW1hU2JnRUtDWkpBVGR4VWI5aDVyXzFRdTJsR0hQazNpbTBMRDNkZFhseGFXVlVUZXNjeEJTTUdJMTNLZVY1Q0lVZDJNbEVZeGZPT1d5b0hPX3p3N0hSSi1BcTQtRm1MQW5fVTlFajdaanRTS1JJdnBHeWRBTWhJSjNuUEVMT3NhczhjMjV4R2NtdTdQNHRpdnJzeUh0YTJIZ9IB3AFBVV95cUxQUG1vSWJCNVY1dWJqT1d2elZRRGZ1eFhRak5ReHNsWGhqUFdvVkpmNThsVVY0NUFoUXF4RnBsX0VsUUNqVFIzZEEyOVVCS1FhME1EMDBMZlZ4cENSOGFCTmN5MmVSVWZMR0tObjU5QXd2amM1OGVHbnlFS1c0RFM3N2hEU2QzT1lhN3ZpdW9jQ1JRTEtXeGE1OG9jeFNrTTdqdmZHaFJzQUs5S0s2cUh1NzBfQncxUWs4SVpOM0UzNTByUEhzeDZfSkZrM1NweXk0aGx2SnUwZ2lHRXV1?oc=5"
+        }
+      ]
+    },
+    {
       "id": "52d45cc198d8",
       "title": "Estudo nacional testa primeira polipílula brasileira para prevenir AVC e busca mais de 8 mil voluntários; veja como participar - GZH",
       "published": "2026-08-12T15:07:37+00:00",
-      "summary": "Estudo nacional testa primeira polipílula brasileira para prevenir AVC e busca mais de 8 mil voluntários; veja como participar&nbsp;&nbsp;GZHPara prevenir AVC, pesquisadores testam o uso de uma polipílula; conheça&nbsp;&nbsp;EstadãoEstudo busca voluntários para pesquisa sobre AVC&nbsp;&nbsp;gaz.com.brEstudo Gaúcho que testa a primeira polipílula brasileira contra o AVC busca voluntários em todo o país; Saiba como participar&nbsp;&nbsp;terra.com.brEstudo nacional de polipílula e prevenção de AVC ",
+      "summary": "Estudo nacional testa primeira polipílula brasileira para prevenir AVC e busca mais de 8 mil voluntários; veja como participar&nbsp;&nbsp;GZHEstadão&nbsp;&nbsp;EstadãoEstudo busca voluntários para pesquisa sobre AVC&nbsp;&nbsp;gaz.com.brPara prevenir AVC, pesquisadores testam o uso de uma polipílula; conheça&nbsp;&nbsp;EstadãoEstudo Gaúcho que testa a primeira polipílula brasileira contra o AVC busca voluntários em todo o país; Saiba como participar&nbsp;&nbsp;Terra",
       "sources": [
         {
           "name": "GZH",
@@ -270,13 +366,13 @@
       ]
     },
     {
-      "id": "4cf57a4837f3",
-      "title": "AVC e infarto podem ter aumento de casos no frio; saiba o motivo e como se proteger - atribuna.com.br",
+      "id": "bbc899ab4958",
+      "title": "AVC e infarto podem ter aumento de casos no frio; saiba o motivo e como se proteger - A Tribuna",
       "published": "2026-08-12T13:18:00+00:00",
-      "summary": "AVC e infarto podem ter aumento de casos no frio; saiba o motivo e como se proteger&nbsp;&nbsp;atribuna.com.brCasos de infarto aumentaram 24% neste ano em SC&nbsp;&nbsp;g1.globo.comFrio exige cuidados extras com coração, alerta Sesa&nbsp;&nbsp;band.com.brPrefeitura de Joinville alerta sobre os cuidados para prevenção de doenças cardiovasculares durante o inverno&nbsp;&nbsp;Prefeitura de JoinvilleFrio aumenta o risco de infarto e doenças respiratórias: saiba como prevenir e reconhecer os sinais d",
+      "summary": "AVC e infarto podem ter aumento de casos no frio; saiba o motivo e como se proteger&nbsp;&nbsp;A TribunaCasos de infarto aumentaram 24% neste ano em SC&nbsp;&nbsp;G1Frio exige cuidados extras com coração, alerta Sesa&nbsp;&nbsp;band.com.brSAMU registra aumento de 24% nos casos de infarto neste inverno em SC e alerta para sinais de emergência&nbsp;&nbsp;AcaertPrefeitura de Joinville alerta sobre os cuidados para prevenção de doenças cardiovasculares durante o inverno&nbsp;&nbsp;Prefeitura de Join",
       "sources": [
         {
-          "name": "atribuna.com.br",
+          "name": "A Tribuna",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdl9PanlsQThldTJnNVNSQlc4cHRKZ09VdjhnZklTY1ljQU81Z3J1ajdyaTVVUWFOTUtKTHRCMERtWkh0anBfS21rdk9VREQ1b0FrS1NYSWFUS3lVZDRsU3IxTk90eVdmYmNFNWV2dUlhV2hzQndCQzBrSWR2QWs1T3FManc2N3RWYjMtWlNTZDNvbDNIZFBzdW05YkdnTHI1Y092Mm9iTVprN1RoYTNfMklIZEE3OHNJWV85WmROMTVmZTY1RFhJdW10a1YzODh5aWZ1VXgzanVKZw?oc=5"
         }
       ]
@@ -306,14 +402,14 @@
       ]
     },
     {
-      "id": "cbb704784d2d",
-      "title": "Qual é a atividade física que mais ajuda a combater a insônia? Nova revisão revela - O GLOBO",
-      "published": "2026-08-12T07:30:20+00:00",
-      "summary": "Qual é a atividade física que mais ajuda a combater a insônia? Nova revisão revela&nbsp;&nbsp;O GLOBO",
+      "id": "0620fac8f97b",
+      "title": "Qual é a atividade física que mais ajuda a combater a insônia? Nova revisão revela - InfoMoney",
+      "published": "2026-08-12T11:08:47+00:00",
+      "summary": "Qual é a atividade física que mais ajuda a combater a insônia? Nova revisão revela&nbsp;&nbsp;InfoMoney",
       "sources": [
         {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQ2hONDYtLUtQLVZBTHo0MDVKdk9pWWI3eFVrNXZYWUxFWVh2MEFsQVhJc29ZU3JSc1RfZGlZU3pVM0hCR1pWbVdNSTJfaHVXb3pYbU1iVW0xYnNwTzdhUnRyYlRXNTdaZ25veTNuOFlxMlJ2aXh4SEVyUG53SHlLa2k3dW1sS21VczVBQlFMd0tGYVpSLUEzc2l5cEhxZ1dOWVhqN01KV0tJYnU3cDgxTjZWb0N6bHdmWU1NcmdUT1MxaGxweUFpdjRLYV9GMlR3SzVR0gHiAUFVX3lxTE9Sd2tnWGhUWDN3N3dNa2VrTk4xOGZ2Z3JHb1I1X2ZsN2w4VzJFejBoUFIwNFgyRVdtMHNSVXVUQWhkYU5ZRUcxTnBTYWswNnNTdURtSnVZNDhxSVh2WHNoYlNfdFRsSGRoTThEOWM3SWRpbnNHS0dseXpkQWNCM0NYQzlJOTVYQVpXMDI1NFJnWTdWU3VmY1pIR3hzalZNelg2b1RUQmNzZnhwcnFQcmhraERFc0FVZkk4TWd4ODNYWlBDMjJVMnQ0SmVDTlBmd05MVUpoaG9SNERQTXNBMjR0ZkE?oc=5"
+          "name": "InfoMoney",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQV81VEpwaC1wV21sOHJYemwzYVRwU2U4S1loS3VqVHFRQ1JhMkZIWEQwTlJsZmhUT3JVWGZZbEI2OGZCWHB3NUhxUGh3WURVUjJNVXhDVmRDcEVjVHBXREFTTUxHTDgyQ18taEtZRHZqSGV3NVVpeUFHSkZiN25BRlNmVnBodnE4TWdvUjFJczdvYnI2TzFGZFEzWjVrdTVvbmF1LVNJVnBUWFhIZktvUTJHR3VCbHQx0gG-AUFVX3lxTE5kTU9WbTNTZkhYWDhKSlNveG9fXy1QWXRPWjM4eHV4Ym14VlAzblZ4OENPR3VQTDBNU2R3Skx0aDA4OTcxMWJsUmhLWXRNRERzSFprSGdHOXY0OGRWZ292aFhFSDAxejVxNzYta0Y4S0VsT3ptVFp6SUo1c1ZXSFF0QVJ0QjE0TFRpOXRQYjFCY0xjQ2JFT0k5RVF0YTA4TktSOXVpbGstejc0VDIxLTM5Z2VicGZyNkVDNWY2akE?oc=5"
         }
       ]
     },
@@ -321,71 +417,11 @@
       "id": "97d1adc00c0c",
       "title": "Remédios para dormir aumentam as chances de Alzheimer? Confira o que a ciência já sabe - Folha de S.Paulo",
       "published": "2026-08-12T07:00:00+00:00",
-      "summary": "Remédios para dormir aumentam as chances de Alzheimer? Confira o que a ciência já sabe&nbsp;&nbsp;Folha de S.PauloDormir mais de oito horas não causa demência, mas quando isso vira rotina pode ser um sinal para observar&nbsp;&nbsp;O POVOToma remédio para dormir? Pesquisa com 720 mil pessoas investiga possível relação dos medicamentos com Alzheimer&nbsp;&nbsp;Diário do LitoralMédicos explicam por que o hábito de dormir muitas horas por dia pode indicar problemas ocultos na saúde&nbsp;&nbsp;Acorda",
+      "summary": "Remédios para dormir aumentam as chances de Alzheimer? Confira o que a ciência já sabe&nbsp;&nbsp;Folha de S.PauloSeu sono pode revelar um sinal precoce de risco de Alzheimer, sugere estudo&nbsp;&nbsp;Extra onlineDormir mais de oito horas não causa demência, mas quando isso vira rotina pode ser um sinal para observar&nbsp;&nbsp;O POVOToma remédio para dormir? Pesquisa com 720 mil pessoas investiga possível relação dos medicamentos com Alzheimer&nbsp;&nbsp;Diário do LitoralMédicos explicam por qu",
       "sources": [
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMm1JS2swVGJoSlJFTEloV0ZNcEp0ZklOVXphNWx4VFRzcXdnQlAyQVVUbV9MQW5qQVc2Y3JOQ0tPbVAxaDI5MmtaZGUtM0pIcjFhaTVIZzBUSXB1YkpWRzg3eldMdTlWdThaV3JlZ0t0QUphSWRaaS1fakRzbWNNTXQ4Um5pSG9tbDhfeHZGQTkwNU5EWnFBdlFRR1ZTRFdsZ3FoR2k4RmpFZlM2ZWtMSHc3NVQteXV5R3BRWEpZSjdBZVJzNkNhZkphd2VZZ3JlQmtpa0U1cw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "aec371bea818",
-      "title": "SP aplicará vacina contra sarampo em shoppings e outros estabelecimentos comerciais - Portal Drauzio Varella",
-      "published": "2026-08-11T23:44:36+00:00",
-      "summary": "SP aplicará vacina contra sarampo em shoppings e outros estabelecimentos comerciais&nbsp;&nbsp;Portal Drauzio VarellaSarampo: buscas pela doença no Google explodem 910% em meio a surto no Brasil; veja as 10 principais dúvidas&nbsp;&nbsp;O GLOBOO Brasil piscou. O sarampo voltou&nbsp;&nbsp;Brazil JournalDF reforça vigilância contra sarampo após casos em São Paulo&nbsp;&nbsp;Jornal de BrasíliaSarampo: entenda por que quem tem 60 anos ou mais não está no público-alvo da vacinação&nbsp;&nbsp;agencias",
-      "sources": [
-        {
-          "name": "Portal Drauzio Varella",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeEFzZTBRTmdmZXVwU1BuaExlSGUzUGpJblVXQkRTWkoyMW1uNTRmWVVOSnJ6ZlAybjQ3Smp4M3J6VGI4MEthUE9yRzhTbDNOSmkyWk1LN21pQ1RJbHdBX0s2d1dCU0dlT1FBeFNkLURZWS1HcWdsNjd5aXQtNlRZUGlJWnQ1Y0plVXdiWlFab1dpcE5sa0pya0lacE1sSkpudWhiREh1TmRqYnlPU0cyUElEUHlSSEhTNDM3QjJvTlBQTFNnU0NlZFdrOA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b2c1e5cc11bd",
-      "title": "Aos 64 anos, caminhoneiro de Nova Andradina ganha nova chance de viver após transplante de fígado - Jornal da Nova",
-      "published": "2026-08-11T19:41:00+00:00",
-      "summary": "Aos 64 anos, caminhoneiro de Nova Andradina ganha nova chance de viver após transplante de fígado&nbsp;&nbsp;Jornal da Nova",
-      "sources": [
-        {
-          "name": "Jornal da Nova",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbkljUjEzMVZrTGNtQU9UWVRsc3dybWk3dkxfUUJCVW51dV9LdU9CbEhIUkhLcjd6OWFQbkp1a01zcVowM05aelJhWW1wdDlNX3VsRmpRaElkMFFZSXJibFIweGJGN3lGZ0FjOEhQazhfV3FMV1pMNlM0eTV4bXFzRGJGcFFzdk44SHZmX1gyLWdBOUJiYXJaZUh3WjNQQ1htVjhUZUFacW81YWgzUjUzYVNSMjMwR21pU2ZQWmVEZGZfUF90eFFpOHFFWE1wOGNMcTJoMmpB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "88d456b871cd",
-      "title": "A deficiência dessa vitamina pode elevar em mais de 60% seu risco de varizes - Veja Saúde",
-      "published": "2026-08-11T16:45:37+00:00",
-      "summary": "A deficiência dessa vitamina pode elevar em mais de 60% seu risco de varizes&nbsp;&nbsp;Veja Saúde",
-      "sources": [
-        {
-          "name": "Veja Saúde",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVVdKQkdYUEh4bU9WV3Npd3p0R28tLVdRYzlaa2NzWW5DTFdWNzNFdWhPUEVndGVRNndRNGFyZHowSG04ZlRkY2ZBWVhSbnpydVdwQzZZSlh1d1A2RG44bUQwbWhINjN3MVA3V3c3VzM4QjJjT3B4N3oxNEdJNmd4UnNpeGoxNEREUGJXeVZHNm1nZkw1U3ZQbHZ3Q082NzFFaHRsY25qVEpkZjltUUpwdWNR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "567719e7f43e",
-      "title": "Anabolizantes triplicam risco de morte e aumentam em 9 vezes chance de doença no coração, alerta médico; entenda - g1.globo.com",
-      "published": "2026-08-11T15:12:59+00:00",
-      "summary": "Anabolizantes triplicam risco de morte e aumentam em 9 vezes chance de doença no coração, alerta médico; entenda&nbsp;&nbsp;g1.globo.comUso de anabolizantes sem orientação médica pode causar danos graves à saúde&nbsp;&nbsp;g1.globo.comDe arritmias a morte súbita: cardiologista do Mário Gatti alerta sobre riscos do uso de anabolizantes&nbsp;&nbsp;campinas.sp.gov.brUso de anabolizantes traz riscos graves à saúde, alertam especialistas&nbsp;&nbsp;terra.com.brMassa muscular obtida com anabolizantes ",
-      "sources": [
-        {
-          "name": "g1.globo.com",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQTndPamZ3c0lVVUI3VmhhM2JVWFFUSkw4clhMcU5aSjQ0Ymo2MlBla281RG1RTW9tN1NwX1JTZE9vUjdWREd5QzMyZ3RqOHhYOFJrdUlqYnN3NjUtcGVxZ2ZhZm1heXoxNWlnWmg4VlR3NGxVUEpEZ0xkeXJPT0dFWnRUcVpwbVhIdEppNTl0YkhzRjF3WjVodWhFUVFoYUZCbzNXb0xmMXc5ekpuZ0tGS1Foa3h6REs3b0ZzUm5zdjV3a2FpZERBNnN3RW91Slp2TkFReGJialEtelJMN1JzYnpmcS1zMER3M0tsX1pUMGxac0cwMEhIa3RQa9IBigJBVV95cUxPSE9aRWlpb1FtdnlZeDNYN2NZemJscVJfcEVLam5OZXZRMTY5T2lUVnZtRVNERFRiYUFFS25jLV9oZTdUUE1VMC1jX0VqVlg4NUdrbHlfSTBNa3FWNnRhWlpndjg3c0h1aklIQnI1Q1k4RmZQR1lQT05SMWFpS3B4ZlFibWpyU1BVNXFuaWtJQ3NrZ2Fab2IyV0RtNWxLRko2cDlRSExJOEhXQjJDTXJEWTFxTjlhdkk0cmtyb3VSYkMtbkFSblRsV2Q4Qm1zMDE3d09HTFdLaTNicXhXbWJDZnpuMXpqbW5ISGRVV1Y1MWhzNWJ4ZkFId0tBVUFkeF8zUUczQ3VrTi1VQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "aa036bbdccff",
-      "title": "Evitar estas 3 coisas pode te dar 13 anos a mais de vida sem demência - UOL",
-      "published": "2026-08-11T13:06:18+00:00",
-      "summary": "Evitar estas 3 coisas pode te dar 13 anos a mais de vida sem demência&nbsp;&nbsp;UOLTrês fatores de saúde podem adiar o aparecimento da demência em até 13 anos, diz estudo&nbsp;&nbsp;Superinteressante9 coisas que os especialistas gostariam que você fizesse na meia-idade para aumentar a longevidade&nbsp;&nbsp;EstadãoMédica geriatra aponta prevenção como essencial para evitar ou reduzir demência&nbsp;&nbsp;ParaibaOnline45% dos casos de demência são evitáveis; veja os três fatores que concentram o ",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTGQySk05TXVtdHhEb2o4MnRuYlNCbnlEQTYtb05FcVJfdTZDaWFLYlNqNWwyck5PVmhmX0lyVnQ4N2dGdG1LWTdoZm1jNC1maEI1eFBYNDlEN05zZVlNd1o1TVBJY3ZZclU0MmkxY0F0XzI4NzBxRHBXM3NrU2xQNFFjZHFRM2g0N0dmUkt5SGNSNDdVYUk3YlFzR01LQklwR2dLeGhnYWxxLVB2eDdhSjA5NWJFVDZ0U29uVg?oc=5"
         }
       ]
     }
