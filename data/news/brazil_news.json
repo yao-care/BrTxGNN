@@ -1,9 +1,9 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-08-13T02:06:13.808613+00:00",
-  "total_fetched": 58,
-  "unique_count": 57,
-  "health_related_count": 29,
+  "fetched_at": "2026-08-13T07:36:34.596986+00:00",
+  "total_fetched": 60,
+  "unique_count": 59,
+  "health_related_count": 27,
   "news": [
     {
       "id": "a9cd7ec476c4",
@@ -18,14 +18,14 @@
       ]
     },
     {
-      "id": "c9e08b924680",
-      "title": "JoNagai, menino japonês de 10 anos, cria estudo inédito sobre memória das borboletas - Rádio Itatiaia",
-      "published": "2026-08-12T19:10:35+00:00",
-      "summary": "JoNagai, menino japonês de 10 anos, cria estudo inédito sobre memória das borboletas&nbsp;&nbsp;Rádio Itatiaia",
+      "id": "e349f101207c",
+      "title": "Lenacapavir: entenda os desafios no acesso ao medicamento que pode transformar a prevenção do HIV - Portal Drauzio Varella",
+      "published": "2026-08-12T19:05:16+00:00",
+      "summary": "Lenacapavir: entenda os desafios no acesso ao medicamento que pode transformar a prevenção do HIV&nbsp;&nbsp;Portal Drauzio VarellaPrEP injetável contra HIV avança no SUS, mas traz novo desafio diagnóstico&nbsp;&nbsp;MedscapePaulo Mourão defende avanço da prevenção ao HIV e debate acesso à PrEP injetável no Tocantins&nbsp;&nbsp;Conexão TocantinsHIV: medicamento de longa duração para prevenção pode chegar ao SUS&nbsp;&nbsp;Estado de MinasFiocruz e farmacêutica assinam acordo sobre novo remédio me",
       "sources": [
         {
-          "name": "Rádio Itatiaia",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLTRzNWozcXBKYmtpMTVHeUJqQWFoN256YXh5d3EtMG1XVldlMUNYMjZsazJJamw2WEVINDgzYVdoc3czdy0xeDFFdzdCcGVQNjdtTmhBSnljRktMejRmRVVVeEx6aWpNVDYwRlBveE5JNWdScXZoQThYaXUyRkJtMU1reW55eWFhVDRBTlVacWpUOWJtaVhqV0hUT3NlekllWEZrWEdZWmZWVmdlVzYxVHprcWx0MEhGYUE?oc=5"
+          "name": "Portal Drauzio Varella",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTl81ZFJSWlQwUlYyTUVWSm82NUV6SGg0WjN5dHcydl9YODJoU2lfTjdGWFliMVM0SFZSaXVBclh4R1dRVGgwTDR3ZC1XVzJnUnQ0c1NrSy1YMXhLMFhLTGZKVTI0SnhndE9vb2ZyeGtwNzRRQnhEN2JSdFZWWFliVGVqR1FmRGticEd0bHRNOTNIRXhPb0hFc2VWNUxKODlfRTUtUDVTOFNaemp1Xzd1ejFrLUNhX1lNU2VHOTNxTlZrWmZMSVF1aHZfSUdBUVBuMlNaZzFnUVdPay1H?oc=5"
         }
       ]
     },
@@ -78,6 +78,18 @@
       ]
     },
     {
+      "id": "afb121985352",
+      "title": "Depressão tropical já tem data para se formar no Atlântico; sistema tem 70% de chance de ocorrer durante o El Niño - ND Mais",
+      "published": "2026-08-12T18:02:03+00:00",
+      "summary": "Depressão tropical já tem data para se formar no Atlântico; sistema tem 70% de chance de ocorrer durante o El Niño&nbsp;&nbsp;ND Mais",
+      "sources": [
+        {
+          "name": "ND Mais",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWkZaalk5Zi1NTW1hQk0wNTY2V0x5OXhIMFpwR3FkRnpYOXAtbm1fTnoydkdLZkpDM0JCNnBUaHllcnNnOE9qdTBRNnFHTWN5RTlWa2VHM25MeVNUUEVNRzlyUVdscHFqdlp2aFNjVVRYekJDZWJvU0t1VktUeC1tT2QwdEp4SHVTVGVTam1uclJOcVFOc3JFQjAzZDg0QWt1eFo2Zi0xYnVGNzk4WTNaQ0FSZVdUejVHNFNUOS1FaEtybEZKSFk3MndjM3pLMVhlbmwtNDB1QjU?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d84fec60ea2e",
       "title": "Estudo francês testa parar remédio para baixar colesterol após os 75 anos - UOL",
       "published": "2026-08-12T17:39:34+00:00",
@@ -105,7 +117,7 @@
       "id": "3adc2e401c34",
       "title": "Exame de sangue pode detectar câncer e mostrar onde ele começou, diz estudo - UOL Notícias",
       "published": "2026-08-12T16:08:36+00:00",
-      "summary": "Exame de sangue pode detectar câncer e mostrar onde ele começou, diz estudo&nbsp;&nbsp;UOL NotíciasExame de sangue pode acusar câncer e revelar onde tumor se originou, sugere estudo&nbsp;&nbsp;GloboNovo exame de DNA pode identificar câncer e doença hepática no início&nbsp;&nbsp;MetrópolesCientistas criam exame de sangue capaz de detectar câncer&nbsp;&nbsp;Diário do Centro do MundoExame de sangue ajuda a identificar 4 vezes mais casos de câncer, diz estudo&nbsp;&nbsp;Jornal O Sul",
+      "summary": "Exame de sangue pode detectar câncer e mostrar onde ele começou, diz estudo&nbsp;&nbsp;UOL NotíciasExame de sangue pode acusar câncer e revelar onde tumor se originou, sugere estudo&nbsp;&nbsp;revistagalileu.globo.comNovo exame de DNA pode identificar câncer e doença hepática no início&nbsp;&nbsp;MetrópolesCientistas criam exame de sangue capaz de detectar câncer&nbsp;&nbsp;Diário do Centro do MundoExame de sangue ajuda a identificar 4 vezes mais casos de câncer, diz estudo&nbsp;&nbsp;Jornal O S",
       "sources": [
         {
           "name": "UOL Notícias",
@@ -114,13 +126,13 @@
       ]
     },
     {
-      "id": "fffc06a33277",
-      "title": "Primeira crise humanitária do El Niño deixa ilha sem água - MetSul Meteorologia",
+      "id": "95db13f6985a",
+      "title": "Primeira crise humanitária do El Niño deixa ilha sem água - metsul.com",
       "published": "2026-08-12T15:55:49+00:00",
-      "summary": "Primeira crise humanitária do El Niño deixa ilha sem água&nbsp;&nbsp;MetSul Meteorologia",
+      "summary": "Primeira crise humanitária do El Niño deixa ilha sem água&nbsp;&nbsp;metsul.com",
       "sources": [
         {
-          "name": "MetSul Meteorologia",
+          "name": "metsul.com",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMTNVcWdGZnFWRXVLMmoxVWtBVWlhXzgtTWVrOUh4aGtoeGVoRy1pS0Z0M2t5cHhsTk9iZnJ5NExKQWtkZGgtWklDWHg0QzV4V3RqMmFzM3FRYXZwZ1ZtVjlBcEk5TnpOTmJZMG5iUEl4VDBkNmhVOXNtY2h0ZEgxRjlIOA?oc=5"
         }
       ]
@@ -138,26 +150,14 @@
       ]
     },
     {
-      "id": "142be4c7b075",
-      "title": "Saúde de Marília confirma três mortes por meningite em 2026 - marilianoticia.com.br",
+      "id": "1c277324bea4",
+      "title": "Saúde de Marília confirma três mortes por meningite em 2026 - Marília Notícia",
       "published": "2026-08-12T14:53:32+00:00",
-      "summary": "Saúde de Marília confirma três mortes por meningite em 2026&nbsp;&nbsp;marilianoticia.com.br",
+      "summary": "Saúde de Marília confirma três mortes por meningite em 2026&nbsp;&nbsp;Marília Notícia",
       "sources": [
         {
-          "name": "marilianoticia.com.br",
+          "name": "Marília Notícia",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUFVxNkxQNjluSERNZ3JUM3dVbnF3VjhyWVRhRzBubjcyLVVyM3pHTXJTdnQ1N1BqVFFWdTV6TTE3Q1huaWhVTmdDLWNka1ZZNmhjcmFNSVFidlZmTHQtdFBROVU4UDNxWU9KWDdPczBJR0dINGU3aHktSXpQbXg0YzFfX2pPd1ZFMU9odjh4M2tyR1lQ0gGaAUFVX3lxTE5SY1FBOFg4cUtwblJIc21NcWdUaU91RmRmYlV3dVZVNXVKWXdmRmZOOTFSdHh0SGJVSlVuUVh1aWxYT003UUpiNWhVdUVBX1lrZllIUzJoSmF3UFAybXV1RFpUV0dwMUNZT3IxQS1CYU5KUmwxQlE0THJJMDRWcm9HS0JROGtPcmMzY2hLZGVucmNHUnZKblVSTHc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "07a618c585f7",
-      "title": "Mortes de macacos por febre amarela levam à emissão de alerta para 86 cidades do Norte de MG - G1",
-      "published": "2026-08-12T13:48:40+00:00",
-      "summary": "Mortes de macacos por febre amarela levam à emissão de alerta para 86 cidades do Norte de MG&nbsp;&nbsp;G1Alerta de febre amarela no Norte de Minas atinge 86 cidades&nbsp;&nbsp;Diário do ComércioSES-MG reforça vigilância contra febre amarela após confirmação de mortes de macacos&nbsp;&nbsp;gazetanm.com.brPrimata encontrado morto em Varginha tem resultado negativo para febre amarela&nbsp;&nbsp;Varginha DigitalEstado emite alerta sobre febre amarela no Norte de Minas&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOOHItdDY3UTR0aElrVmFIYWRPZFo1Q1l5V25MUlhMNGxfcGJzemF6NW0xUkZqR2k2c19xOHlGMnVZUUJqX1QzTU9GeXZTNFBzRG53OXZsUTZ4Q2NqVG5SczZxV0NiaHk3XzcyQmVBc1k5M2FjT0xYNTU0R2N5ZUhjOHU0NEwxcmNsbkcxXzRiY3o0ejZOY2I5OGRLU1RSOTJYcThZVmN6d1dvb1RqVXVwZnpJMzVvRDJVUXFzd2JLUVQ4WVBjNFd1TnNzMmFjaGIyeTUxNjc3a2R5WmJ6X3FiU1RVUHVVa3lBN3fSAfgBQVVfeXFMTlBMN2YzQ2tiWlRORjc2LTNfeU55N1dFMVlLZmg4QUhVN3pua1Jlazh3M29TcmtjY0RnZXRqRDBobkU0QlZfckdzMzJaUGlRUUhWYXBtWEJEeHBGbVVhY2NiNGFPNVd1enZJV3R2OU00WW00VkRnS0ZMWUw1ZDI4dWZJWjBYQkFFYWZfd2RDSUJQRFZBUUlZdzNXV3Y3T1o0T2FDR1YwQ2pLYTQtTmdCcVJlRjhNcjRIUkxLTlFkMmJzVEpBZjJVVkRpSXQ3MVpUaHJlYWk1OTE0dGlET1BkU0c4Mnd1SmhMcGF0UXJHREVEZzF5MmRHRkI?oc=5"
         }
       ]
     },
@@ -177,7 +177,7 @@
       "id": "857d5802a20f",
       "title": "Sarampo: 15 perguntas e respostas sobre a vacinação e o risco da doença - UOL",
       "published": "2026-08-12T11:46:44+00:00",
-      "summary": "Sarampo: 15 perguntas e respostas sobre a vacinação e o risco da doença&nbsp;&nbsp;UOLSarampo: entenda por que quem tem 60 anos ou mais não está no público-alvo da vacinação&nbsp;&nbsp;agenciasp.sp.gov.brSarampo: por que os idosos ficaram fora da cobertura vacinal? Entenda&nbsp;&nbsp;EstadãoSP aplicará vacina contra sarampo em shoppings e outros estabelecimentos comerciais&nbsp;&nbsp;Portal Drauzio VarellaO Brasil piscou. O sarampo voltou&nbsp;&nbsp;Brazil Journal",
+      "summary": "Sarampo: 15 perguntas e respostas sobre a vacinação e o risco da doença&nbsp;&nbsp;UOLVacinação contra sarampo em SP acontece até em estações, shoppings e supermercados; veja lista completa&nbsp;&nbsp;G1O Brasil piscou. O sarampo voltou&nbsp;&nbsp;Brazil JournalDF reforça vigilância contra sarampo após casos em São Paulo&nbsp;&nbsp;Jornal de BrasíliaPrefeitura de SP leva vacinação contra sarampo a 5 estações de metrô&nbsp;&nbsp;Poder360",
       "sources": [
         {
           "name": "UOL",
@@ -234,38 +234,14 @@
       ]
     },
     {
-      "id": "a9bfab7d3084",
-      "title": "O que decreto de Trump sobre vacinação infantil prevê e o que dizem os médicos - UOL Notícias",
-      "published": "2026-08-11T22:35:13+00:00",
-      "summary": "O que decreto de Trump sobre vacinação infantil prevê e o que dizem os médicos&nbsp;&nbsp;UOL NotíciasO que a Folha pensa: Obscurantismo antivacina avança sob Trump&nbsp;&nbsp;Folha de S.PauloSem base científica, Trump cita autismo e ‘risco de morte’ ao reduzir vacinação infantil&nbsp;&nbsp;G1OMS reforça importância da vacinação infantil após Trump reduzir imunizantes recomendados nos EUA&nbsp;&nbsp;EstadãoOMS defende vacinas após Trump anunciar redução no calendário infantil&nbsp;&nbsp;VEJA",
+      "id": "eafbb25ebb76",
+      "title": "Estudo aponta deformações em peixes coletados no Norte do ES - A Gazeta",
+      "published": "2026-08-11T21:57:00+00:00",
+      "summary": "Estudo aponta deformações em peixes coletados no Norte do ES&nbsp;&nbsp;A Gazeta",
       "sources": [
         {
-          "name": "UOL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQblpQNmVDdGRqa1B1eUNuQzFTMzZmYzBEZnVLMEZDNVRQLVhKYVN4MXhCYUJELXI2TVYwN0hfbFQxM0xieG52SjhwUFNpckFUWTZGRTRCcjJNdVdYd09JY2o1TnJxM2ppbDRWUFpkLW5JVjd5alE1aVRCd1pYZHg1ZEhZNFVfMDk2TzJiVEVpX0JKSDZ1cFM1MS03bVQ4djd6bEl3b2lwalhDbzIwb0JYQm44ZzBaN1dwSEg3R2RIRFhjWWtGZ1I1UnpwQzNtNXRENkxsUXE1MkNMRjhPY212Y2JONElqRHhoMTM3cU5hbnE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1377158c0878",
-      "title": "Deixe o cérebro forte: 11 treinos mentais que qualquer um pode fazer - UOL",
-      "published": "2026-08-11T21:44:34+00:00",
-      "summary": "Deixe o cérebro forte: 11 treinos mentais que qualquer um pode fazer&nbsp;&nbsp;UOLUFMG participa de primeiro ensaio randomizado na América Latina sobre prevenção do declínio cognitivo&nbsp;&nbsp;ufmg.brJCNET: Pequenas escolhas treinam o cérebro para viver melhor&nbsp;&nbsp;sampi.net.brEstudo inédito na América Latina mostra que demência pode ser prevenida com mudanças de estilo de vida&nbsp;&nbsp;MedscapeComo cuidar do cérebro para reduzir o risco de Alzheimer? Especialistas explicam hábitos qu",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcGZvOW41b0VfbE9RTFBod2RFMzBaUjFTT1Z4WUZYMVF1d2oyRGlaN2pHOF9ZVmx4UDIwQ2pDZVk4ejIzQS1xZzVySzZJV0NQNkR4TFpOVFNtTHJST0poQVdJcFN4TEtpRUhqNzRGVDQ1am1tbjF0WkFkOUVNckduMFZZR25wa1Vrd3YwN0tvN0FWV1VOemVIZVFLTkFkNXhpT0Y1Skg1cnUxMkExSUkyenpjWUY1S2ZNdUl4WHFMUVAwQWN0a1o0WXNfMA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5b685befbaa5",
-      "title": "O que pode estar por trás da dor nas costas e quando se preocupar - Folha de S.Paulo",
-      "published": "2026-08-11T20:01:00+00:00",
-      "summary": "O que pode estar por trás da dor nas costas e quando se preocupar&nbsp;&nbsp;Folha de S.Paulo5 cuidados que ajudam na recuperação da coluna e previnem novas crises&nbsp;&nbsp;CartaCapitalHérnia de disco: prevenção e tratamento&nbsp;&nbsp;G1Hérnia de disco: 5 hábitos que ajudam a proteger a coluna e a evitar o problema&nbsp;&nbsp;GZHDor nas costas que melhora ao se movimentar nem sempre é postura: a pista que a diferencia de um problema mais sério na coluna&nbsp;&nbsp;Tua Saúde",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZEVDMTlUVWhOd1BPRTJLeGczdEdqS3dXYW9JXzJYVWdKSXEzWUUwczRYcU00a0ZGZkVRMlplb3Y1RGk3VlRKb01VU2t4X1RjcWthTlRQSjRUR3ZIUi03cHc5eWI1QUVLSzFzNWhIYW55ZkU2R0dMV2FERkFzWlhfWURyb21IYW9qUVRUZHl2WFlUSG9TdUp1a1RjelJoeTVDWnVvOG16RXQ0d09pb0pvNzFRUVdkZmd2WkRDZl9XSC0xelYz?oc=5"
+          "name": "A Gazeta",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS2o4QXRBcXEzckI1STlCQnVKNzItYkJmck5td0V4d2tLVlVyM1BoVVdGdVBCS3VaWXRBY3ByTmwyVDk5ZGJ2TDFFOW5xVmZVTTMwV0Q5Qk5EeUU5REp6a1dySXYyR29qX3FSRTJPZ0VqNkZiUXNHZHBscng4MG90Wk5XRnRpdEdDekItemNrakhWb3JIeEFoVU45MzQzUEg0QkxfOU9pbFhtQQ?oc=5"
         }
       ]
     },
@@ -282,14 +258,14 @@
       ]
     },
     {
-      "id": "18895198f319",
-      "title": "Uma conversa que pode fazer diferença: como o Pode Falar acolhe adolescentes em sofrimento mental - Portal Drauzio Varella",
-      "published": "2026-08-11T18:10:29+00:00",
-      "summary": "Uma conversa que pode fazer diferença: como o Pode Falar acolhe adolescentes em sofrimento mental&nbsp;&nbsp;Portal Drauzio Varella",
+      "id": "4a90050df23f",
+      "title": "\"Roxos aparecem do nada\": Yasmin Brunet mostra hematomas; entenda lipedema - CNN Brasil",
+      "published": "2026-08-11T18:26:24+00:00",
+      "summary": "\"Roxos aparecem do nada\": Yasmin Brunet mostra hematomas; entenda lipedema&nbsp;&nbsp;CNN BrasilLipedema pode causar hematomas nas pernas? Entenda por que isso acontece&nbsp;&nbsp;O GLOBOLipedema afeta aparência, autoestima e saúde emocional&nbsp;&nbsp;ES BrasilDor e inchaço nas pernas podem ser sinal de lipedema&nbsp;&nbsp;REDE BRASIL DE TELEVISÃOEx-BBB Kerline revela diagnóstico de lipedema após anos de dores e inchaço nas pernas&nbsp;&nbsp;Portal Márcia Piovesan",
       "sources": [
         {
-          "name": "Portal Drauzio Varella",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdG9Cb2RuSFNRUDc5RUo4aWVKakdVNkZHdEE1S0hLM2RtMGR4TkNDSktPRWMtZ3hLU3ZLSGZwbjlzR293VmdKOTRSQWZ5RmwtWVloOGRDZGYtUl84cm1oemsyaWZ2bURYc2NQM2FwclVmS3pjOHlPbkoydXVlVEdZd2pHWkloNHpCLVhvTUszYWlVWVFiejBvNGNWYlR0bTZsdS1SQlQ4dlRZdGNxTFFtZkZkOXZsRS1SdHB6RmxyY2lDWjRiaXEyVWJBdUJZTDVuMUk1LVF1Rk15alJ2?oc=5"
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT0otSVhsQ05BTzZUMXZpUjNHdURQZFZkN0w5TFJMOGlKTk1yQmNGMWRZbTBmU2s2X1V0RE9iRTBWZjJyWTFOREZzaktNREc2N2NBWDdXblRxS0RqVkN0clJISWl3UkZyalNLVjlUajB3NlVhZklBLUlnSE5xX1k3WDJpZzhqOFVXam9YTmxpUWI3dHlGdTlMTmE5dlJSNGt0X0ZNX3M2cGtGdw?oc=5"
         }
       ]
     },
@@ -302,6 +278,18 @@
         {
           "name": "Veja Saúde",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVVdKQkdYUEh4bU9WV3Npd3p0R28tLVdRYzlaa2NzWW5DTFdWNzNFdWhPUEVndGVRNndRNGFyZHowSG04ZlRkY2ZBWVhSbnpydVdwQzZZSlh1d1A2RG44bUQwbWhINjN3MVA3V3c3VzM4QjJjT3B4N3oxNEdJNmd4UnNpeGoxNEREUGJXeVZHNm1nZkw1U3ZQbHZ3Q082NzFFaHRsY25qVEpkZjltUUpwdWNR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "182475552431",
+      "title": "Sem base científica, Trump cita autismo e ‘risco de morte’ ao reduzir vacinação infantil; veja o que dizem especialistas - G1",
+      "published": "2026-08-11T16:32:37+00:00",
+      "summary": "Sem base científica, Trump cita autismo e ‘risco de morte’ ao reduzir vacinação infantil; veja o que dizem especialistas&nbsp;&nbsp;G1O que a Folha pensa: Obscurantismo antivacina avança sob Trump&nbsp;&nbsp;Folha de S.PauloSaiba o que o decreto de Trump sobre vacinação infantil prevê e o que dizem os médicos&nbsp;&nbsp;R7Ofensiva de Trump contra vacinas contradiz evidências científicas, diz OMS&nbsp;&nbsp;O GLOBOOMS defende vacinas após Trump anunciar redução no calendário infantil&nbsp;&nbsp;V",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN1pWRkRIQXhGOW9QbG9QUHRfMENEV0FFNlpLdnk5UlhVbTJwWGo4ZWhFbTVfVlNoaC01bFZLSXphS29yX1hsd1BGMEF0NHd5Sk5BYlp4VnVRcE9Kb3k0d0xoU0VSYnpvTjBaOHFjN1U1cWc0RHBRRjVqUmF4M29RWXVOaHXSAZMBQVVfeXFMUGExOU4yMS03YjN4VW03UDkzbUVtaklhLUpWYTJzeGpIODE4b0VlSWRBRFFFcWt1MERfV0ROU0pfNFI3M3pnakxwUWJCU3NEQzZoOV9JRVlLSjB1ZDV5OW9mclZSSGk2cmNfYUExa3NLc1oxTGhvdV9mWmQ0YlVGTWRHSUN6NEctcXkzQnBOY3VtOXY0?oc=5"
         }
       ]
     },
@@ -333,23 +321,11 @@
       "id": "aa036bbdccff",
       "title": "Evitar estas 3 coisas pode te dar 13 anos a mais de vida sem demência - UOL",
       "published": "2026-08-11T13:06:18+00:00",
-      "summary": "Evitar estas 3 coisas pode te dar 13 anos a mais de vida sem demência&nbsp;&nbsp;UOL45% dos casos de demência são evitáveis; veja os três fatores que concentram o risco&nbsp;&nbsp;GZH9 coisas que os especialistas gostariam que você fizesse na meia-idade para aumentar a longevidade&nbsp;&nbsp;EstadãoSaiba quais são os três fatores que podem retardar risco de demência em até 13 anos&nbsp;&nbsp;ICL NotíciasTrês fatores do estilo de vida na meia-idade são ligados a 13 anos a mais livres de Alzheimer",
+      "summary": "Evitar estas 3 coisas pode te dar 13 anos a mais de vida sem demência&nbsp;&nbsp;UOL45% dos casos de demência são evitáveis; veja os três fatores que concentram o risco&nbsp;&nbsp;GZHTrês fatores do estilo de vida na meia-idade são ligados a 13 anos a mais livres de Alzheimer na velhice&nbsp;&nbsp;VEJASaiba quais são os três fatores que podem retardar risco de demência em até 13 anos&nbsp;&nbsp;ICL Notícias9 coisas que os especialistas gostariam que você fizesse na meia-idade para aumentar a lon",
       "sources": [
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTGQySk05TXVtdHhEb2o4MnRuYlNCbnlEQTYtb05FcVJfdTZDaWFLYlNqNWwyck5PVmhmX0lyVnQ4N2dGdG1LWTdoZm1jNC1maEI1eFBYNDlEN05zZVlNd1o1TVBJY3ZZclU0MmkxY0F0XzI4NzBxRHBXM3NrU2xQNFFjZHFRM2g0N0dmUkt5SGNSNDdVYUk3YlFzR01LQklwR2dLeGhnYWxxLVB2eDdhSjA5NWJFVDZ0U29uVg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "855274890454",
-      "title": "Estudante foi encontrada morta uma semana após começar faculdade de biologia em SC; namorado confessou crime - G1",
-      "published": "2026-08-11T07:01:05+00:00",
-      "summary": "Estudante foi encontrada morta uma semana após começar faculdade de biologia em SC; namorado confessou crime&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTXVEdFdTSW9KSC1xN2F2QzZEQ1pDS1BUSUI4Y0Y0V2FFeFZ2OXFYd2lfSzk1c3dhNHRtWk1nejVaUFVQWVB3WS1udHp0cXUxYVg4TGdOWmdUZElHTkNwUDFSeXdmMG01UDZhakhmZ1d5OTFoOGNPSnNtVTlEUG1kbW9lQnZ2Z0NfMFYtRHlfOHc0bHZaZVRUSUZHdzRiRlJmMUJqNEk5bF9zQU5YemFFTGtNNnNqN3F2ZWp6amJJUmZaMi1BT0E4bUxqYUdvcUFmeURSUnJjeWbSAecBQVVfeXFMTkhZaWNhWmxMYktSUEFsMngyUjlqLTZaRFJMRmY1WUZNMDRQRG9hVVdUdDh5Rk5HRHowZW9kY3RCYW1zZFVNc29DT2lWYWl6cHNuTWpiLTlDV2FsVGVHQnNiWWkyQXNRS0thOU01aW9DUUc0WWFNaVB6ZDdydEdnZnFPcXVhTUJOcFJXbkpHaUV6WGUyQzNyblFpdGprekt4eVhCellJS1luQ0hWc2dsTVBFNDhuYUNiWmN5Vmh6d3hpUzhVYVFSdHBsQlZibTFEQ2p1bUJiSWk5ZlhFTUJWMzM1aUR0TVA0?oc=5"
         }
       ]
     }
