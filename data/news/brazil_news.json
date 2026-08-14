@@ -1,10 +1,70 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-08-14T07:26:19.154697+00:00",
-  "total_fetched": 72,
-  "unique_count": 72,
-  "health_related_count": 30,
+  "fetched_at": "2026-08-14T13:08:58.113422+00:00",
+  "total_fetched": 78,
+  "unique_count": 78,
+  "health_related_count": 33,
   "news": [
+    {
+      "id": "d5172171ae73",
+      "title": "Peixe das Nuvens: nova espécie que só vive em tempos de chuva é descoberta no CE - Diário do Nordeste",
+      "published": "2026-08-14T09:00:00+00:00",
+      "summary": "Peixe das Nuvens: nova espécie que só vive em tempos de chuva é descoberta no CE&nbsp;&nbsp;Diário do Nordeste",
+      "sources": [
+        {
+          "name": "Diário do Nordeste",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORmFObHQ0T1YzQW02WWlFeUgyYXdHNjRZc0VoWXVzZWhsS2tfdXhnWkx5cmc0SXlTYnBLRUNGVk5hc0xWd0RNemgySGZSUGNuY1dxTTQwbS1udmpsWjQzU2k3SU8yMVRobUp6dFVBTmdQRXhHNVFSOS15R2kwcmVGckh2VGJrc1BMVTVVWGdDd09mVmdDMVN2dHBvNnFDWVdaSFVPY3dNMjNNdzZhNUhIV21uYWhpQURMcWQ2MkN6US1MaW9VejNRUklSd1dEMVN0WkdKdHJn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "730432b0eb19",
+      "title": "Tosse seca e dor no peito são sinais de câncer de pulmão? Entenda a doença - UOL",
+      "published": "2026-08-14T08:30:00+00:00",
+      "summary": "Tosse seca e dor no peito são sinais de câncer de pulmão? Entenda a doença&nbsp;&nbsp;UOLAgosto Branco: Ceará pode ter 1,4 mil casos de câncer de pulmão&nbsp;&nbsp;G1Câncer de pulmão não é uma coisa só: por que é essencial conhecer as características do tumor?&nbsp;&nbsp;estadao.com.brCâncer de pulmão: fatores de risco, sinais de alerta e importância do diagnóstico precoce&nbsp;&nbsp;R7Diagnóstico tardio atinge 90% dos casos de câncer de pulmão; saiba como fazer o rastreamento na Bahia&nbsp;&nbs",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOV3NWN21qcmRoa1luTG96aENGOGRTVFk0YVpZRXhCb1IwYWJRd0hjd242N0JsX243ZXVRc2NMRjlhTDFER1V6VXhKR0pRU3liMG1EeFlTd0ZSYmozbmRiX0w1OWtiSnJ3ZHFwbjdVdFFQSm5kTTJKTHRKOURQeFptUVVVU3lILXdnS3BkbE56NFhWN1ZROVl1aGsyZGxLQTdnLXoxMjBIRS1zREhKTzJPVGZ2bEhCSGR1VE9zWGE4a2JvWWxTSW5GM1B3VnZMeG5WT3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f93778bd2122",
+      "title": "Quanto tempo de musculação por semana pode ajudar a viver mais? Estudo traz resposta - Terra",
+      "published": "2026-08-14T07:58:00+00:00",
+      "summary": "Quanto tempo de musculação por semana pode ajudar a viver mais? Estudo traz resposta&nbsp;&nbsp;TerraEstudo aponta tempo ideal de musculação para viver mais&nbsp;&nbsp;VEJA RIOExercício físico: entenda o papel dos músculos para o envelhecimento saudável&nbsp;&nbsp;G1Treino de força vira aliado da longevidade&nbsp;&nbsp;Terra7 formas de prevenir a perda muscular antes dos 50 anos&nbsp;&nbsp;CartaCapital",
+      "sources": [
+        {
+          "name": "Terra",
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNUTlJOGFtcEJ4d3VTRjMyWU9SanJzX0k3S3BQb0NnRk54TmtlVUxuUnBRM0FTMzMtdU9qQmU4ZGVMRndkVllvWlhFeEx6TENuNUQtMU9SMld2eFk0cUN0Y0k1TFIzazNvd2Z3TjJlQUotYjJ4WjhRWGpwWlI1RWwyN1N0TFBqbTBKQXozdW9BOV9RQ3NjNkl0cVBPY3VYdjBRMDZ0N1hiV1pQT2JQSU90T3ZfWENiNW1FTFRzV2hGTjY5bW5QbXUtTWNFVUFQRmhmdEhfNVNPdkp2Rkd0MWRWNzJmc0l3S3ZrYVBoQTBZUlNLdDFidHBVZU1PQzVIQ1BvUjFCWg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "71a264091403",
+      "title": "Estudo diz que cães conseguem perceber sentimentos por expressão facial - CNN Brasil",
+      "published": "2026-08-14T06:33:25+00:00",
+      "summary": "Estudo diz que cães conseguem perceber sentimentos por expressão facial&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTUs4NWVub05HX25JS08tNnRNMzFETWZaUnVrbEN6N2F0NnNrZkRrWHI2ck91QWFDTlhQTUUxS2NUQ2EydlQycGlwMDFCYXZYWXdrS3Q0dnQtNS0xdXVoY2praEd2VVo2S0JsZ2NrT0lWVnZMWmV4RVNiTDEtZy1GdmhNb3BHSDljRzI3UThIRUx3a1pxeVBsQlBhMWh2NEdvLXFVbXpkU2VQREY5LVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "65ab04c933e8",
+      "title": "Técnica de vacina da covid abre caminho para nova geração de remédios - G1",
+      "published": "2026-08-14T06:00:11+00:00",
+      "summary": "Técnica de vacina da covid abre caminho para nova geração de remédios&nbsp;&nbsp;G1Vacina de RNA mensageiro contra a influenza: o que muda com ela?&nbsp;&nbsp;Veja SaúdePrimeira vacina de RNA para gripe da história recebe aprovação para uso&nbsp;&nbsp;VEJA",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZXFERDV6VjBTam9oRlpvazFrTm00MWFQZXNpbVR5WGNZYl9OT1VhUk1lNEV1MHVaaHNJRkFCWGxNWEJ4VkxlMlBucU5zRV9Sc1BrRExTLXZFZGN2VmRIc1VjSUkwSl9FZkhQeHdhNTN0YWZVSUVQOHd3YU55R2RxWEs3cUQ3VzFDVHJvN0o3ZmJwd3lXemJmWm1IeGRfa2pyNFh2U1VCTGVGckpsaFRZeERqbU15elRCUVVZYlVQa3pUMllDZnZmeU95bG85MGc?oc=5"
+        }
+      ]
+    },
     {
       "id": "d2d1a1ab9938",
       "title": "Famosa oferece tratamento psicológico para Mara Maravilha e apresentadora aceita - Jornal Correio",
@@ -14,18 +74,6 @@
         {
           "name": "Jornal Correio",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQc2JCYl85d0pTMGZGdkxGMnBuc3Z5N253SnV0dTNfR0RVOENXcUtuQXRXQ09GR0tSQ3g3XzhJaDhJSTlaTmpCSWxZRFBKS2t1QTU2aFA2OUxIc2JzM0RxNUc0WGI2VWEyekF6S2tBS2dPWDdHdDRXcHBTX3BZQ2syS1hiMDhrNHVlc1Zob1hqVWZaU0pmdzlkcjZvZ05YVXFzM2RmYVYxRXVIQTc4cGw3SDJmaUpwTEM0UEhBYnpsbmwwMW5Bb2c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "10111b1fc171",
-      "title": "Lúcia Helena: Por que ainda é tão difícil conseguir controlar o colesterol? - UOL",
-      "published": "2026-08-13T20:28:57+00:00",
-      "summary": "Lúcia Helena: Por que ainda é tão difícil conseguir controlar o colesterol?&nbsp;&nbsp;UOL1 em cada 5 pessoas carrega risco escondido para doença cardíaca, aponta estudo&nbsp;&nbsp;GloboColesterol e saúde da mulher: entenda os riscos e saiba como se proteger&nbsp;&nbsp;D24AMColesterol alto pode afetar artérias ainda na infância, alerta cardiologista do MPHU&nbsp;&nbsp;JM OnlineConheça dicas para evitar doenças provocadas pelo colesterol alto&nbsp;&nbsp;Notícias - Canção Nova",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZV9RX3B5bFRDem16eVlsdTUzUlpFSXNlUVFRSTR6NXd6b3E5WTZGSmpmWFpMdURQS1VsTUVTaFRsQVN0ejNUZUJlNklxcWM1OTNOU3FaWk8wNjhERjMyX2pfRHZCR0pGdUtOVEZPNUJTZi1PTkZlbUpGbVV5a1ZsOU9BQ2N2QUdtX2NDMXZoODFDZUVPTkQ4TVlNejEyMjFPZE9oaXVVaHJmbWhLdG9SZzdiRm1HcVBMc1VsX2x4TGdRSzRLdXc?oc=5"
         }
       ]
     },
@@ -42,10 +90,22 @@
       ]
     },
     {
+      "id": "091553b64cba",
+      "title": "Vacinação contra pólio muda em Atibaia; veja quem precisa tomar nova dose - Portal da Cidade - Atibaia / SP",
+      "published": "2026-08-13T18:11:00+00:00",
+      "summary": "Vacinação contra pólio muda em Atibaia; veja quem precisa tomar nova dose&nbsp;&nbsp;Portal da Cidade - Atibaia / SPCampanha de multivacinação: reforço contra pólio é ofertada para crianças de 4 anos&nbsp;&nbsp;G1Campanha muda calendário da vacina contra a pólio; veja quem deve tomar&nbsp;&nbsp;Costa NorteVacinação contra a poliomielite em Jacareí: nova dose de reforço passa a ser aplicada aos 4 anos de idade&nbsp;&nbsp;PortalR3Vacina contra a pólio mudou? Saiba quem deve se imunizar&nbsp;&nbsp;",
+      "sources": [
+        {
+          "name": "Portal da Cidade - Atibaia / SP",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNLXluOXIyN0JvYVhYN2xLeDN5Rk96cFNpN3BzemJIT0VDMkpTX3JrZWtVbk5CaE05eUpqVWN5U19zdXZjYjJGZ3VrUndDbGw4Zm9tRVNfTnhGUFRheXAzVVJFcXpSSmUteWdUbGcwSW95YUFjUV9hVXFtRUZpcERIVkRsSkdBdURiS1VWLWhvRWUzQk5JSWZENTQzdmFjWjFaRVJXTmhKMVpWRC02cFhQOWxCNHVvQW9QUlRiSE1UdW9lWE96bVE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "0b78cf1faa8e",
       "title": "Seu sono pode revelar um sinal precoce de risco de Alzheimer, sugere estudo - Extra online",
       "published": "2026-08-13T17:32:45+00:00",
-      "summary": "Seu sono pode revelar um sinal precoce de risco de Alzheimer, sugere estudo&nbsp;&nbsp;Extra onlineRemédios para dormir aumentam as chances de Alzheimer? Confira o que a ciência já sabe&nbsp;&nbsp;Folha de S.PauloEstudo relaciona dormir muitas horas a níveis mais altos de uma proteína associada ao Alzheimer&nbsp;&nbsp;Jornal O SulToma remédio para dormir? Pesquisa com 720 mil pessoas investiga possível relação dos medicamentos com Alzheimer&nbsp;&nbsp;Diário do LitoralDormir mais de oito horas n",
+      "summary": "Seu sono pode revelar um sinal precoce de risco de Alzheimer, sugere estudo&nbsp;&nbsp;Extra onlineRemédios para dormir aumentam as chances de Alzheimer? Confira o que a ciência já sabe&nbsp;&nbsp;Folha de S.PauloEstudo relaciona dormir muitas horas a níveis mais altos de uma proteína associada ao Alzheimer&nbsp;&nbsp;Jornal O SulDormir mais de oito horas não causa demência, mas quando isso vira rotina pode ser um sinal para observar&nbsp;&nbsp;O POVOToma remédio para dormir? Pesquisa com 720 mi",
       "sources": [
         {
           "name": "Extra online",
@@ -57,7 +117,7 @@
       "id": "a29cabccca91",
       "title": "Como nova onda de ataques às vacinas gerou efeito reverso nas redes sociais, segundo levantamento - BBC",
       "published": "2026-08-13T16:59:41+00:00",
-      "summary": "Como nova onda de ataques às vacinas gerou efeito reverso nas redes sociais, segundo levantamento&nbsp;&nbsp;BBCO que a Folha pensa: Obscurantismo antivacina avança sob Trump&nbsp;&nbsp;Folha de S.PauloEnquanto Trump e os Bolsonaro espalham discurso antivacina, Brasil reforça imunização&nbsp;&nbsp;Partido dos TrabalhadoresOfensiva de Trump contra vacinas contradiz evidências científicas, diz OMS&nbsp;&nbsp;O GLOBOSaiba o que o decreto de Trump sobre vacinação infantil prevê e o que dizem os médi",
+      "summary": "Como nova onda de ataques às vacinas gerou efeito reverso nas redes sociais, segundo levantamento&nbsp;&nbsp;BBCO que a Folha pensa: Obscurantismo antivacina avança sob Trump&nbsp;&nbsp;Folha de S.PauloEnquanto Trump e os Bolsonaro espalham discurso antivacina, Brasil reforça imunização&nbsp;&nbsp;Partido dos Trabalhadores\"Nenhum estudo diz que tríplice viral pode causar morte\", afirma SBIm&nbsp;&nbsp;MetrópolesOfensiva de Trump contra vacinas contradiz evidências científicas, diz OMS&nbsp;&nbsp",
       "sources": [
         {
           "name": "BBC",
@@ -69,11 +129,23 @@
       "id": "217e9e2ed961",
       "title": "SP tem a menor média de idade de infarto entre cinco estados, mostra estudo - Folha de S.Paulo",
       "published": "2026-08-13T16:30:00+00:00",
-      "summary": "SP tem a menor média de idade de infarto entre cinco estados, mostra estudo&nbsp;&nbsp;Folha de S.PauloPaulistas infartam até 12 anos mais cedo que o resto do País, mostra estudo&nbsp;&nbsp;band.com.brEm São Paulo, infartos acontecem 10 anos mais cedo do que na maioria do país&nbsp;&nbsp;Veja SaúdeMédia de idade para infarto em Pernambuco é de 70 anos, aponta estudo&nbsp;&nbsp;Diario de PernambucoInfarto ocorre mais cedo em São Paulo; veja a idade média em 7 localidades&nbsp;&nbsp;diariodopara.c",
+      "summary": "SP tem a menor média de idade de infarto entre cinco estados, mostra estudo&nbsp;&nbsp;Folha de S.PauloEm São Paulo, infartos acontecem 10 anos mais cedo do que na maioria do país&nbsp;&nbsp;Veja SaúdePaulistas infartam até 12 anos mais cedo que o resto do País, mostra estudo&nbsp;&nbsp;band.com.brInfarto ocorre mais cedo em São Paulo; veja a idade média em 7 localidades&nbsp;&nbsp;diariodopara.com.brMédia de idade para infarto em Pernambuco é de 70 anos&nbsp;&nbsp;Farol de Notícias",
       "sources": [
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcmlabExqQXZENEFHM3dmeFgzbDBRVTBoVmdvSTIyY3NNNU1XTWRjeTY3clhyNnZhVnJYblRuaUtTS1BzazlPUTNtNlUtUzJYdjZ4WURjbzcyYVZfcDZRdlBPYUFwMTV1bnJ0OVZRWU1HZUlHOVFjWW9POFBDTllvVkJ5eWtHdGZvUzY2TkNjSURXWUhfYXJiX0lTRE9KMWh5RE83QWxGRl83U21uZUZnX2gtcXhjd0NkZDJrN1hlZTYwVjIwWGxZZ1FMUTVzLVg1?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "10111b1fc171",
+      "title": "Lúcia Helena: Por que ainda é tão difícil conseguir controlar o colesterol? - UOL",
+      "published": "2026-08-13T16:28:57+00:00",
+      "summary": "Lúcia Helena: Por que ainda é tão difícil conseguir controlar o colesterol?&nbsp;&nbsp;UOL1 em cada 5 pessoas carrega risco escondido para doença cardíaca, aponta estudo&nbsp;&nbsp;Globo'Semáforo Alimentar' combate colesterol infantil&nbsp;&nbsp;Jornal CorreioColesterol e saúde da mulher: entenda os riscos e saiba como se proteger&nbsp;&nbsp;D24AMConheça dicas para evitar doenças provocadas pelo colesterol alto&nbsp;&nbsp;Notícias - Canção Nova",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZV9RX3B5bFRDem16eVlsdTUzUlpFSXNlUVFRSTR6NXd6b3E5WTZGSmpmWFpMdURQS1VsTUVTaFRsQVN0ejNUZUJlNklxcWM1OTNOU3FaWk8wNjhERjMyX2pfRHZCR0pGdUtOVEZPNUJTZi1PTkZlbUpGbVV5a1ZsOU9BQ2N2QUdtX2NDMXZoODFDZUVPTkQ4TVlNejEyMjFPZE9oaXVVaHJmbWhLdG9SZzdiRm1HcVBMc1VsX2x4TGdRSzRLdXc?oc=5"
         }
       ]
     },
@@ -102,18 +174,6 @@
       ]
     },
     {
-      "id": "0a4433058608",
-      "title": "Nova pesquisa revela como o cérebro bilíngue processa dois idiomas, descoberta surpreende cientistas e mostra caminho para educação de jovens e adultos - Jornal Correio",
-      "published": "2026-08-13T14:11:00+00:00",
-      "summary": "Nova pesquisa revela como o cérebro bilíngue processa dois idiomas, descoberta surpreende cientistas e mostra caminho para educação de jovens e adultos&nbsp;&nbsp;Jornal Correio",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPWE9ZTWduWTJVWDJuWmk0M0RQVHA2Smd4Tl9OYlU4Y0wwT2ZKc2JGUWZxeUdCM1Z4Uy1qMDVoUDhTNlFLeV91MUZrZHlyZnZNV0V2S3oxZlBLamhrOHRJanl0MG10Tzhub1pObi1CMlJjVV9SNXh5QmQ1LXVqejd3clZGc2thWkdoYWhtc2RMVzBKMWswQ1NCTV9hQWNCRjJEek1zVWl0ZDJ1dmlfSGltZmo0ay03LTM4YklDYXhJWkxPVzJTbUhNTFQtZHR1X1hMb3JBU284cGFEdEdlY2txQkJLUmdERENmYk0tX1NHSk94clFtQmNXS2lORk93TGhFY21aa2l3Z2paVVlkQVFzS3ZDaFlkNERxRXllRzVXSUJ1cmM?oc=5"
-        }
-      ]
-    },
-    {
       "id": "049b1e2ab424",
       "title": "Metformina faz o intestino consumir mais açúcar, indica estudo - UOL",
       "published": "2026-08-13T14:03:42+00:00",
@@ -126,13 +186,13 @@
       ]
     },
     {
-      "id": "0df86e7a9120",
-      "title": "Por que a compulsão alimentar pode estar ligada a uma dieta de utraprocessados, segundo pesquisadores americanos - Globo",
+      "id": "49481b1cb09f",
+      "title": "Por que a compulsão alimentar pode estar ligada a uma dieta de utraprocessados, segundo pesquisadores americanos - Globo.com",
       "published": "2026-08-13T13:53:12+00:00",
-      "summary": "Por que a compulsão alimentar pode estar ligada a uma dieta de utraprocessados, segundo pesquisadores americanos&nbsp;&nbsp;Globo",
+      "summary": "Por que a compulsão alimentar pode estar ligada a uma dieta de utraprocessados, segundo pesquisadores americanos&nbsp;&nbsp;Globo.com",
       "sources": [
         {
-          "name": "Globo",
+          "name": "Globo.com",
           "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQdlJfbElyWnJ5b1pNd29wRXcyTXJ3ek40OVJ4eGRJTUFURWc3TzEwUnBzNVB3WG9rWEd2WWpkUW9ocFRSX2FkZFR1Tlg3ZGVQLTByckNvbHloclQ5R0NCR3EwZ3VxNXUxTVpmMUJmWW9CQkFXalNkN0xQMFpYMW12dmZUQ21kbG5iYXhlbGtxd29UWFRXMUpoVlc4LVNpNUpCZTF2TVRiWjNwU1R6YmhxTWxZMkRWZ21lX1FBWkstTkZrdXJsNUNoN0lLT3JQSkhpTkpsRFRibkJtMFR4WlVpRlY4T2lCblh3eThqS05iTGJ3UDBqdzNGVEZkVXNTb3PSAY4CQVVfeXFMTm1WdVQtVE43WDYyNUhkR2ZiRTZqY0hHM1liNkVmdTBhamxVdGF5Z2VfbkdqT0FuNlZzNGo5d1FMRHJ6UGwtQjNCT2luYmJNREktOTdzLVFrUVdTME1BR19Mc3dtR3U0LWlVOTgwM2tzcnp2NGpRQVFoZXRCdGlpb1MtSEhWTWNJN0dJR09ReTIzVUtMaHFpLWNiQldtaGJvbkQ5SzdLX051NmxzdTFyZ2Z1VVJHU203WUhQMWhFajBxblhGak5JU1V1U00yZXdITTRaNUhZbk5DS2U2WWQ5SUphNExQWFcxc2I0bDdiZnRLc3hzMDhJN1FHWElEc1RxbUVmX0puVWF6TUNMdWhR?oc=5"
         }
       ]
@@ -150,13 +210,13 @@
       ]
     },
     {
-      "id": "46ac86e1819b",
-      "title": "Estudo aponta 3 fatores que podem reduzir anos vividos sem demência - Estadão",
+      "id": "9da67245c4c5",
+      "title": "Estudo aponta 3 fatores que podem reduzir anos vividos sem demência - estadao.com.br",
       "published": "2026-08-13T13:03:00+00:00",
-      "summary": "Estudo aponta 3 fatores que podem reduzir anos vividos sem demência&nbsp;&nbsp;EstadãoTrês fatores de saúde podem adiar o aparecimento da demência em até 13 anos, diz estudo&nbsp;&nbsp;Superinteressante45% dos casos de demência são evitáveis; veja os três fatores que concentram o risco&nbsp;&nbsp;GZHEvitar estas 3 coisas pode te dar 13 anos a mais de vida sem demência&nbsp;&nbsp;UOLConsumo frequente de ovos pode reduzir risco de Alzheimer, aponta estudo&nbsp;&nbsp;Terra",
+      "summary": "Estudo aponta 3 fatores que podem reduzir anos vividos sem demência&nbsp;&nbsp;estadao.com.brTrês fatores de saúde podem adiar o aparecimento da demência em até 13 anos, diz estudo&nbsp;&nbsp;Superinteressante45% dos casos de demência são evitáveis; veja os três fatores que concentram o risco&nbsp;&nbsp;GZHEvitar estas 3 coisas pode te dar 13 anos a mais de vida sem demência&nbsp;&nbsp;UOLDemência: novas diretrizes da OMS mostram como prevenir até 45% dos casos&nbsp;&nbsp;Guia da Farmácia",
       "sources": [
         {
-          "name": "Estadão",
+          "name": "estadao.com.br",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOV0twajE1M1pBWUhjOFMzSWJxSGR4TGJTaDJEdGZEbXNBcW5EcVJVdy04d0duRHM5cjMwbzAzVUZ1Z0docTczLW5iS3pvaGZ5U3BWQkl2ZWxJcjlCellVay1CQl9hNEFwcDh0N1RLVUNmTnVGdG1pMjNtN0I3bmlTWGhvSFNad3gwNGhzbm5UQnFKQlhoVW5ubVdMNW1WcFBGMmpRMEVSallEdHhiTUp6dHBZYnBTSk5CNEhjaEEtb9IBxAFBVV95cUxOb2pLTzVtNl9oSzY4dXZVWUpGbWtHYUJyNkJkeWZROWRlNjhlR2tjOXRvX2NUd1FZbThDMWd0NlJGVTVBa1FpcEVFRkNZTHVoWndQQVVuQVI3M1JTWW1JSmdpS3VYU0VMOWZJWHd5dzVQWHBzX2hQUnctbzVkT2Q1VDM1RzJlX1JwWnRRZVlNeHFxRHpjYjZRZnZLN3ZOWGUteXBCZlhfMU1ZbklXdGVXNmZSRDhsRTVSZ084eHVDSldmRnow?oc=5"
         }
       ]
@@ -213,7 +273,7 @@
       "id": "08c39067ff6c",
       "title": "Vacinação contra o sarampo está abaixo da meta em cidades do Vale do Paraíba e região; veja sintomas - G1",
       "published": "2026-08-13T08:03:40+00:00",
-      "summary": "Vacinação contra o sarampo está abaixo da meta em cidades do Vale do Paraíba e região; veja sintomas&nbsp;&nbsp;G1Sarampo: quem deve tomar a vacina? quais os sintomas? Tire suas dúvidas em meio a surto da doença em SP&nbsp;&nbsp;O GLOBOSarampo: por que os idosos ficaram fora da cobertura vacinal? Entenda&nbsp;&nbsp;EstadãoAlerta sobre sarampo nas Américas reforça importância de intensificar vacinação no Brasil — Ministério da Saúde&nbsp;&nbsp;www.gov.brInfectologista fala sobre importância da va",
+      "summary": "Vacinação contra o sarampo está abaixo da meta em cidades do Vale do Paraíba e região; veja sintomas&nbsp;&nbsp;G1Sarampo na gravidez: o que muda na rotina das mulheres com a volta da doença&nbsp;&nbsp;O GLOBOBotucatu adota protocolo sanitário e bloqueio vacinal após 6 casos suspeitos de sarampo&nbsp;&nbsp;G1CB.Saúde: 'O risco do sarampo é real', alerta infectologista da UnB&nbsp;&nbsp;Correio BrazilienseAlerta sobre sarampo nas Américas reforça importância de intensificar vacinação no Brasil — ",
       "sources": [
         {
           "name": "G1",
@@ -237,11 +297,23 @@
       "id": "c8a50af2e89e",
       "title": "Menopausa pode afetar a vida sexual? Entenda o que muda e como tratar - O GLOBO",
       "published": "2026-08-13T05:00:33+00:00",
-      "summary": "Menopausa pode afetar a vida sexual? Entenda o que muda e como tratar&nbsp;&nbsp;O GLOBORessecamento vaginal: especialista alerta para sintomas que vão além da menopausa&nbsp;&nbsp;Jornal da FrancaBaixa libido feminina pode ter relação com hormônios; saiba quando investigar&nbsp;&nbsp;D24AMDor, desejo e prazer: FEBRASGO reforça que saúde sexual também é saúde&nbsp;&nbsp;FebrasgoMenopausa pode afetar vida sexual e saúde íntima&nbsp;&nbsp;brasilemfolhas.com.br",
+      "summary": "Menopausa pode afetar a vida sexual? Entenda o que muda e como tratar&nbsp;&nbsp;O GLOBOLibido baixa nem sempre é falta de interesse; hormônios podem estar por trás da queda no desejo sexual&nbsp;&nbsp;Jornal CorreioRessecamento vaginal: especialista alerta para sintomas que vão além da menopausa&nbsp;&nbsp;Jornal da FrancaDor, desejo e prazer: FEBRASGO reforça que saúde sexual também é saúde&nbsp;&nbsp;FebrasgoMenopausa pode afetar vida sexual e saúde íntima&nbsp;&nbsp;brasilemfolhas.com.br",
       "sources": [
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNandVUktCOFg3a3V4OHB0NjVVTWRyOGhuSnVWTTdNTWk1TU5PV2xXRTk1bkVBRGZJWVNDY0ktcnplSVRibC1hUDg4VWRvLURPNGEzYy13Y2ZuM3RMdlppYU1NZkU3bzN2VktLUVFhcEdBN2ZsVFpPaG5JaG52U0E2QlJRMHJGNVJYR3B0VlFYWUxROTI4OF9kLVRrX1lPRzdvYUwxSUlmVFNHaVBEQ0toTmMycjdpMnBFY3QxQ3Znb9IBzgFBVV95cUxORzhHRGlYTXY5TFhGRGQxYkZYc0JZQkREVnR3aDA3akg2UDVGbkwwYl85MUJ6c0oxalRVLTdmQzQwbmtrWkQ0enROV1ZHb0pvTmQ0M01lSTVzbFJyTWUySGUzTnlzUzNoczBFS29wUEtfUEthRndWdEdZSjUzc1JVLTNZVFlqckdNTm9nUXdlRzRWT3l0QTNMYldYNVNsUlpEUnR2VllzRnV1c0lpVHByVmdIWXdJak42QTZneWZ6UlVqS2FVcWwtMHA2eFNUQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8f3840d1e898",
+      "title": "Canetas antes da bariátrica não trazem perda de peso adicional após um ano, diz estudo - G1",
+      "published": "2026-08-13T03:00:56+00:00",
+      "summary": "Canetas antes da bariátrica não trazem perda de peso adicional após um ano, diz estudo&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUEtUSlUxaHRyUmRnOEIzY3VWU2FJZkZwelhmWlk2X1VRbUV2bld6alZwQmlhMzhVV3hQZVNyNGUwcDdhUGxpbUNOQVFncXItYkZ2am9EY1FiSnVyVU9SbVo5V180N1pwT1JhTXlFWVZzT3F2a1Q3YnhxZFRzbmhyN1BEdWpRYkFLNmNqcjk0WjVfU2dER2NDeTI5TWh5OWgwdFpNeV9OQzlTQlp3dzlBUENvSFBlQm5nV3V1WmhaWEMzamR3LWs2NFcxbHg4MWV0VnFR0gHiAUFVX3lxTE9qSERNdFhfUm9vYno0OFRPc1JYZjlENnlrV2RHd045aWpkZEt3OTVxaDE5WXl2NGttZExUbkFkS25GeFE2TERrWWNBcUNtaDIxS3hnM2k5MXV4WnF2ekxzQmpZbkJhdDVGeG1iVWFxbUk0ZlNiZXNqUmtxcFE2cXRYaVVsZk9ONTVDSWxxVnRuUlY2U0QxTlB0dWlKSEJxSVJ6aFF4NVp1aE9XOHBSUjdpR1IzTmhEZXZpN2ZDUEx1eUxaMEVjV1c3eXhVM2IwZWNWMUNDQ09FU2VWc0ZxVGpPZ2c?oc=5"
         }
       ]
     },
@@ -254,30 +326,6 @@
         {
           "name": "Gazeta do Povo",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRXdZVDhQOFdjLTEwRFdjUXdyZ0RqeGxtdUtCNHI0NXRLdjZKS0dtYlhhdll4WXpRbzJsSGV6VzU5dkEwd1doNU5wQ3JhQ1FHc05zVVMyMkYxSmlLNDFSZF9uSWlZVDZmVng2THB0ODg1WGVQRkJBUTZLbWNRaGlBR3FtVHZMNTJ1OTNkM3lyWHYwc2VPako4Wm96RVdJNlFwMVd3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "46ec2e12881c",
-      "title": "Campanha de vacinação contra a raiva chega a novos bairros da Serra - Serra Noticiário",
-      "published": "2026-08-12T22:38:00+00:00",
-      "summary": "Campanha de vacinação contra a raiva chega a novos bairros da Serra&nbsp;&nbsp;Serra NoticiárioPrefeitura finaliza etapa rural da vacinação antirrábica nesta sexta (14) e inicia fase urbana no dia 22 de agosto&nbsp;&nbsp;uberlandia.mg.gov.br'É o Bicho' explica a importância da vacinação contra a raiva em cães e gatos&nbsp;&nbsp;G1Natal ultrapassa 44 mil cães e gatos vacinados contra a raiva em 2026&nbsp;&nbsp;tribunadonorte.com.brCampanha Antirrábica 2026 chega a quatro bairros de Itabuna nesta ",
-      "sources": [
-        {
-          "name": "Serra Noticiário",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN2hGeVdoeHFxQVAzYnFFUzVaYW9HRWo4RXByVlVRVklENXVsUlM2TnhLcmZrWm00ZTljTXIyTzU3VU1TZWZmRG9tQnBzS2twM2daUUVhRWNGMlFVY25NRFl2WDNYUndmMDFMWHZSYjNEVklpVW9PblF3bUFvOWU3LWNPX19MczRCRU9HZXRzWWtlczRrRDJTb25kWUJobUhZ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3f53cc43ce69",
-      "title": "Chefes querem aumentar as equipes, contrariando as previsões de extinção de emprego, diz pesquisa - Estadão",
-      "published": "2026-08-12T21:05:49+00:00",
-      "summary": "Chefes querem aumentar as equipes, contrariando as previsões de extinção de emprego, diz pesquisa&nbsp;&nbsp;Estadão",
-      "sources": [
-        {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQa0tRaDhrNF9LelRWcmxtdEx6cHlDcFFab3ZvRnJnaS0ySGl0ZGpxRU1UOHN3N1hQZlJieFpheEpqNkxpd0I3dHZkazJLSEdwZFRjR2UteDFqSmQzTGdmckFYSDdRMmJMWVoxOXB3TnZVNW56WkZHTGhTaUdXMUdaNXpaUlE1aWhEWnI1Tlh5bHZiUDdCMy1EVlAzX1o0X1RUM1FNZFhKV1ctZ282a3VwRkU0Zm1RdTNwNlRtLTFlZW9oSXFmbGJjM0Y1YkXSAdIBQVVfeXFMTjZwOWhyTk9weFFkZHdmZ0lrTEUweEtpLVd6ckdlRUl2bVJwdjJVTU1RUFNFNTVMQjNFTEstSnNaVDZ0d2w4VDc3TlJaR2dmU1YxTFpUemRKWkI3T1l1VzRvX09BaWZWQmdETlZxWEVqMEpzWjRXeWo0Q0JPN1ZhUkFsbkcyR24wTnRjRGJOSVpnYU9VWnJWV2hDNU9vR1lFeG9HZF9VN3VtcEk0ZjZaRzlTQThYZmVtUkpJN0lTUDZmdGd1WnZFemVfQ0gtMFBQaUFn?oc=5"
         }
       ]
     },
@@ -330,18 +378,6 @@
       ]
     },
     {
-      "id": "b71261e85a8b",
-      "title": "UFMA outorga grau a 447 formandos dos Centros de Ciências Sociais e de Ciências Biológicas e da Saúde - Universidade Federal do Maranhão",
-      "published": "2026-08-12T18:07:00+00:00",
-      "summary": "UFMA outorga grau a 447 formandos dos Centros de Ciências Sociais e de Ciências Biológicas e da Saúde&nbsp;&nbsp;Universidade Federal do Maranhão",
-      "sources": [
-        {
-          "name": "Universidade Federal do Maranhão",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMnpwR1dUNTVZX3ZtZ3d0NXUwdHJXZFdmLXhtSXg2alhYZEFKOGhGLVZjeWhfZkVIbV84NTN5bnhBZ0pDMVowQktyT2tXV05adUMzNzdVX21LWjRfUUw1RkJHSlBkcDVMY241bWlYcE5GYVU4MFdNWFRYclBqZ0QySGxtRUtmNnpUemEtTjc0MEM2VmlITVV5d01sUnRnV2M2bV9tbmRnQzRUbHVzZEk3V1BDcVNCTV9UWjBNLVdjSUx0X1V2a1B2WDRWc0FMa21uQ0dmVUIxa3VMc0Ex?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d84fec60ea2e",
       "title": "Estudo francês testa parar remédio para baixar colesterol após os 75 anos - UOL",
       "published": "2026-08-12T17:39:34+00:00",
@@ -354,13 +390,13 @@
       ]
     },
     {
-      "id": "95db13f6985a",
-      "title": "Primeira crise humanitária do El Niño deixa ilha sem água - metsul.com",
+      "id": "fffc06a33277",
+      "title": "Primeira crise humanitária do El Niño deixa ilha sem água - MetSul Meteorologia",
       "published": "2026-08-12T15:55:49+00:00",
-      "summary": "Primeira crise humanitária do El Niño deixa ilha sem água&nbsp;&nbsp;metsul.com",
+      "summary": "Primeira crise humanitária do El Niño deixa ilha sem água&nbsp;&nbsp;MetSul Meteorologia",
       "sources": [
         {
-          "name": "metsul.com",
+          "name": "MetSul Meteorologia",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMTNVcWdGZnFWRXVLMmoxVWtBVWlhXzgtTWVrOUh4aGtoeGVoRy1pS0Z0M2t5cHhsTk9iZnJ5NExKQWtkZGgtWklDWHg0QzV4V3RqMmFzM3FRYXZwZ1ZtVjlBcEk5TnpOTmJZMG5iUEl4VDBkNmhVOXNtY2h0ZEgxRjlIOA?oc=5"
         }
       ]
