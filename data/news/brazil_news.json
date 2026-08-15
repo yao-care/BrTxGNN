@@ -1,10 +1,58 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-08-14T18:55:56.572121+00:00",
-  "total_fetched": 99,
-  "unique_count": 99,
-  "health_related_count": 41,
+  "fetched_at": "2026-08-15T01:18:39.321240+00:00",
+  "total_fetched": 93,
+  "unique_count": 91,
+  "health_related_count": 37,
   "news": [
+    {
+      "id": "7398ce8b023e",
+      "title": "Capes libera ferramenta de IA para pesquisadores com acesso a artigos e dados científicos - PEBSP",
+      "published": "2026-08-14T22:01:05+00:00",
+      "summary": "Capes libera ferramenta de IA para pesquisadores com acesso a artigos e dados científicos&nbsp;&nbsp;PEBSP",
+      "sources": [
+        {
+          "name": "PEBSP",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUm1kYkE4c0Zxclo4bXRWYTFsOGN0d0ZtTGtoUURNTEtPbjltNXNheXZXSjFZOTFrMDVvNGlCNWNXOWRsLXdSaDZhcjc4MUdfRGFMWU00NW50RUtqZ09KV3FuWEZhck82VzF4SU5vdHQ0NjlLQy13QWI4ZVVPLVkxbWxHN0JhVjhBRWVnbVJRakxYaV9nanhTOHdnS2dFQlVqOTZZUF9JRVd4MXphLXhaajd3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5e08fac4f5aa",
+      "title": "Cientistas encontram milhares de toneladas de lixo plástico em águas profundas e descoberta revela a dimensão da poluição marinha - Super Rádio Tupi",
+      "published": "2026-08-14T19:58:01+00:00",
+      "summary": "Cientistas encontram milhares de toneladas de lixo plástico em águas profundas e descoberta revela a dimensão da poluição marinha&nbsp;&nbsp;Super Rádio Tupi",
+      "sources": [
+        {
+          "name": "Super Rádio Tupi",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPOTZ2UnF1cFhyTkdLbWRxU3AxTE9WWElDOVFCNzA2S0U1a0lYUE1WcC1KQmRHdWdXazhJZnpBZmc0NFVIV1IyQTVBdnBVSFZITEduZ2FHMExSZjV4U2t1LUxpMVdxaGFLY2JIYWZ2MmdEUXNaQy0tbDB2VHMwZ0pzbWZSOW5MVUZCbXhFZWJmMmszV2dDQnJHMkk3LWcxVUF6dTdsS3pkMlJKVEIxTTJkdllnSDNIejZZWE9Xa2VncjdOQ0xHS1BXdEx6WU5CS0I3SjI5LWxjU0ZBZ1RqWmdUS1JUdXBvQ08tZTB4Yw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e697ca56f90d",
+      "title": "Aos 20 anos, filha de Djamila Ribeiro supera reprovação na Fuvest, conquista vaga em Matemática na USP e mãe celebra: “primeira da nossa linhagem a poder escolher” - CPG Click Petróleo e Gás",
+      "published": "2026-08-14T19:20:00+00:00",
+      "summary": "Aos 20 anos, filha de Djamila Ribeiro supera reprovação na Fuvest, conquista vaga em Matemática na USP e mãe celebra: “primeira da nossa linhagem a poder escolher”&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNbXRYZWhTX0V5TVN3SmttbEg4bWNnSWRaMXVPYjhtMkEzMjRud21wc19wZUNrc1ZiQ0VZeXk4RXgzTjVEUUtIQjRHZkFKR1Zrczl4cGxQa09VY1lGUUtoNGREYWFjLUpYcGVsRVoxSndJZGFieF83bFZTY0h5OEUwYVZKVmczUzRYRGVybU1xdFFleE1wRWFsazl5SlBndGE3SlROQldvX2dDdVNRRnVlUExGVks3bWVhOHNiT3NDUVFrTmJ6bU9TOHRRVHRTcl8wSTNDRWpYNFRhSVotRUJQcGRRSXBodHgtUVV5RXJ2YXBrY1RaU1F3Wk95S2JPWWh4UGRFVGpyR2RjWElhX0J1ZE9kX1VvUGQ0WnlmUWViRHlTU1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "89dae9d106aa",
+      "title": "Órgãos envelhecem em ritmos diferentes e têm idades distintas, diz estudo - Globo",
+      "published": "2026-08-14T18:25:30+00:00",
+      "summary": "Órgãos envelhecem em ritmos diferentes e têm idades distintas, diz estudo&nbsp;&nbsp;Globo",
+      "sources": [
+        {
+          "name": "Globo",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdnZXX1dCY1QzUTdrU25XMHdxM3lVOWNJdlE3aGVWZ0hySmhReWNIYUJsQ0pzcnBnelRsckxjNzNkN28tVlJlTWRSdkQ4NkgzNS1oVGZ5blRSbW15TXNYMENaa3FGRDhGY1JkU0pTN2tHTldzeGkxSUV1d1pWbWZ5NGlRYXlSVzdGbGRxcTRMYlJHWEVVVWZVNHB3UFJwc0dtTlNad1ZVbVk4VFVuWWNrZmc2N3FUck9DcDdiaFJ1eDJ1MVZKcHo0TlJJREhwUdIB3AFBVV95cUxONUFTUVdfbjFoNlpxWE8zd3lMN2plZGY1dFJ6RHVyN3BZaEFVcVVpUnRyX2hiVTJCZGFTa3VqNEZiUjI0Y01pM3hfVURtREphdVlxb3ZaWHRUd3RsV2l3aFBicUVZckJqbTU2U2syM25qWkJDZ1d0RklKQl9NVGtSeFM3LUxGUVJ0cmFJaDdDcE04Q2N6VVZLZHRzWXBKdzJjX1B0RkotSzdVbms2MVFtdFBPNk9zZ29Hd2tvMVBucUUxcmVkbGFFc1VuOGhlMEtvODk3V0cwQWtULUVF?oc=5"
+        }
+      ]
+    },
     {
       "id": "2f66f8704fd5",
       "title": "Cobaia do próprio estudo, homem reduz sua idade biológica em 15 anos - Metrópoles",
@@ -18,14 +66,26 @@
       ]
     },
     {
-      "id": "60b35e2d67a7",
-      "title": "Repórter exagera na proteína e conta o que aconteceu com seu corpo: 'Mais do que conseguia processar' - Globo.com",
-      "published": "2026-08-14T14:00:39+00:00",
-      "summary": "Repórter exagera na proteína e conta o que aconteceu com seu corpo: 'Mais do que conseguia processar'&nbsp;&nbsp;Globo.comExcesso de proteína: veja limites e cuidados com a popularização dos produtos “proteicos”&nbsp;&nbsp;GZHDieta rica em proteína e pobre em fibras: entenda os riscos para a saúde&nbsp;&nbsp;TerraQualidade da proteína importa mais do que volume: entenda como escolher as melhores fontes para o dia a dia&nbsp;&nbsp;Gazeta de São PauloComer pouca proteína pode afetar músculos, saci",
+      "id": "cef4fb89a975",
+      "title": "Dez pesquisadores morreram após abrir um túmulo de 500 anos: a ciência investiga o segredo da cripta de Casimiro IV - Revista Oeste",
+      "published": "2026-08-14T16:45:00+00:00",
+      "summary": "Dez pesquisadores morreram após abrir um túmulo de 500 anos: a ciência investiga o segredo da cripta de Casimiro IV&nbsp;&nbsp;Revista Oeste",
       "sources": [
         {
-          "name": "Globo.com",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPT1BBSjJMVDl5ZnNkeVhTUzU4aHVOSDhtdXVLU3ZBczVsMjZfS2NUbmRTeDBjSzZXQlV5eXJiVkM4QzF2bUNJYkFYZ3M1U0tOY093V1dFLVNibXdIWFpLUllVOGlydDFoelMwY0VlbGNPaVlzUXkxcHF2NDZxWXhScTdtNldEbm40RnM0NWVtYTNnaEFYbGJsZ1o3Smp1c3RILTR5RVUybzZNSnZrVWE2THJndHNQbzB3OTRnWG5jc0xpMU1hblhIZFRKbTRkQkdfZTgzQmtyQ1BRODV4NjMyU0R5Yk13d9IB9AFBVV95cUxQSVk4Uzd0MnZybFcwR3NIZjRpcFo4Zl9mWEZOMjVLVzZ2dFFTckZOd291LVFNTnpyeXE1ejF4TU1sR1oxQUhPeEVNVFBpeXdwdDF2bXdiZWQ3c3hzR25jUWpfRFA5TDNtcWI0aHNwcUtsTHZpSi1kbFhzOE9ITFhkWE8tNlp1dDNkNmJYY1FrVGMyX1VyclZ0Q2VKblFrWnFNeGFWU1d1TXpGVDVPRG52cmF1WnVhekpnRWxqWVM2bkhIODBMRmxGd0FPcTVWSUh4RzFRODBUUUFVd1dDdHVmOC1mSWs2M3FDVHFYU1B6bVBXNGEt?oc=5"
+          "name": "Revista Oeste",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOT2t3RUNmWUctdjZTYUkybU92UE5HcDMwOC1uSl9BWUtJczBLVFZWV2pGbnNDODFSdXM4NFA5SE1nX2VGUUEzS3ZFMmYtNHZCZ2dPTDJ6enkxc0N3R1l3THRIZ0ZzQU95eGdHUnNHQUx2UWNaWHlWZWtkeWplZzhfOHc5Uk80WlJUXzROSlhNSkNiNFJpYWMzSkNiMlpUS18yNm5QLVlEOW5aaTNwUzdYbWJ1NHU3X0Zia08zaVVONjc3dmhaNjJ4Vzg2N3hyQkdObzY2UzdKQkV1UkpaaHRKV2txUFRmQTU5TG9QdE9ERm5fMUI5?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "30923fb11b6a",
+      "title": "De comprimidos inéditos à edição genética: o que vem aí no tratamento do colesterol alto - Estadão",
+      "published": "2026-08-14T16:37:00+00:00",
+      "summary": "De comprimidos inéditos à edição genética: o que vem aí no tratamento do colesterol alto&nbsp;&nbsp;EstadãoLúcia Helena: Por que ainda é tão difícil conseguir controlar o colesterol?&nbsp;&nbsp;uol.com.brRisco cardíaco pode avançar sem sinais e exige avaliação&nbsp;&nbsp;G1Introdução alimentar e alimentação na infância é tema de encontro da Educação de Curitiba&nbsp;&nbsp;Prefeitura de CuritibaPrevenção das doenças do coração deve começar desde a infância&nbsp;&nbsp;Terra",
+      "sources": [
+        {
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWGR2bjMyNGFEOVlHb1BCWkZKejNEVlNGd0hvaGVQckFwampOV25nZm54X3JRSHVJM1hpZzZCaldubXNBbFpLUlFocnN4WHhtRkJHNUxTVllmellOVFlObHhiQlpDdVNvTi1QajAxcndya3EtM0ZzNWRGRVFQOE80SU0zdXdabHNjLUJQUFI3M2JjamJQLTJwM0lYelpPU2Vfb3ZYMC04el9mTkl0bjQ5WmRlV1pQV1o0SWdva052Vk5iNk5lXy1WaWxrS0k5cGxZaHRpeUtn?oc=5"
         }
       ]
     },
@@ -42,14 +102,50 @@
       ]
     },
     {
-      "id": "730432b0eb19",
-      "title": "Tosse seca e dor no peito são sinais de câncer de pulmão? Entenda a doença - UOL",
-      "published": "2026-08-14T08:30:00+00:00",
-      "summary": "Tosse seca e dor no peito são sinais de câncer de pulmão? Entenda a doença&nbsp;&nbsp;UOLAgosto Branco: Ceará pode ter 1,4 mil casos de câncer de pulmão&nbsp;&nbsp;G1Câncer de pulmão não é uma coisa só: por que é essencial conhecer as características do tumor?&nbsp;&nbsp;EstadãoCâncer de pulmão: fatores de risco, sinais de alerta e importância do diagnóstico precoce&nbsp;&nbsp;R7Diagnóstico tardio atinge 90% dos casos de câncer de pulmão; saiba como fazer o rastreamento na Bahia&nbsp;&nbsp;Jorna",
+      "id": "732d6098cedc",
+      "title": "Estudo faz novo alerta sobre colapso da Circulação do Atlântico - MetSul Meteorologia",
+      "published": "2026-08-14T11:01:56+00:00",
+      "summary": "Estudo faz novo alerta sobre colapso da Circulação do Atlântico&nbsp;&nbsp;MetSul Meteorologia",
       "sources": [
         {
-          "name": "UOL",
+          "name": "MetSul Meteorologia",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOWE2R2k3MllkaTVJMEt5UDRYeWE0QWd3RVMzdW1RMjVzTkxTbF81am8weEtsU2cyZUhCeU9RaHhxOVdwN3dOMkpIbWdoaVYxYzhlakVnQmpfVVgtQXZOWlFBVHFKQ2hpRWFJMXdZejNHc3NCeldsLTNEaTliS3RLbjFPWUVmNGttd1U0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d5172171ae73",
+      "title": "Peixe das Nuvens: nova espécie que só vive em tempos de chuva é descoberta no CE - Diário do Nordeste",
+      "published": "2026-08-14T09:00:00+00:00",
+      "summary": "Peixe das Nuvens: nova espécie que só vive em tempos de chuva é descoberta no CE&nbsp;&nbsp;Diário do Nordeste",
+      "sources": [
+        {
+          "name": "Diário do Nordeste",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORmFObHQ0T1YzQW02WWlFeUgyYXdHNjRZc0VoWXVzZWhsS2tfdXhnWkx5cmc0SXlTYnBLRUNGVk5hc0xWd0RNemgySGZSUGNuY1dxTTQwbS1udmpsWjQzU2k3SU8yMVRobUp6dFVBTmdQRXhHNVFSOS15R2kwcmVGckh2VGJrc1BMVTVVWGdDd09mVmdDMVN2dHBvNnFDWVdaSFVPY3dNMjNNdzZhNUhIV21uYWhpQURMcWQ2MkN6US1MaW9VejNRUklSd1dEMVN0WkdKdHJn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "459f46cfcc3c",
+      "title": "Tosse seca e dor no peito são sinais de câncer de pulmão? Entenda a doença - uol.com.br",
+      "published": "2026-08-14T08:30:00+00:00",
+      "summary": "Tosse seca e dor no peito são sinais de câncer de pulmão? Entenda a doença&nbsp;&nbsp;uol.com.brAgosto Branco: Ceará pode ter 1,4 mil casos de câncer de pulmão&nbsp;&nbsp;G1Câncer de pulmão não é uma coisa só: por que é essencial conhecer as características do tumor?&nbsp;&nbsp;EstadãoCâncer de pulmão: fatores de risco, sinais de alerta e importância do diagnóstico precoce&nbsp;&nbsp;R7Diagnóstico tardio atinge 90% dos casos de câncer de pulmão; saiba como fazer o rastreamento na Bahia&nbsp;&nbs",
+      "sources": [
+        {
+          "name": "uol.com.br",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOV3NWN21qcmRoa1luTG96aENGOGRTVFk0YVpZRXhCb1IwYWJRd0hjd242N0JsX243ZXVRc2NMRjlhTDFER1V6VXhKR0pRU3liMG1EeFlTd0ZSYmozbmRiX0w1OWtiSnJ3ZHFwbjdVdFFQSm5kTTJKTHRKOURQeFptUVVVU3lILXdnS3BkbE56NFhWN1ZROVl1aGsyZGxLQTdnLXoxMjBIRS1zREhKTzJPVGZ2bEhCSGR1VE9zWGE4a2JvWWxTSW5GM1B3VnZMeG5WT3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ccd2d6d363da",
+      "title": "Exercícios rápidos e intensos podem reduzir riscos à saúde, dizem estudos - Correio Braziliense",
+      "published": "2026-08-14T08:01:00+00:00",
+      "summary": "Exercícios rápidos e intensos podem reduzir riscos à saúde, dizem estudos&nbsp;&nbsp;Correio BraziliensePor que correr rápido tem mais impacto do que correr por vários minutos?&nbsp;&nbsp;GloboPor que treino intenso de 3 minutos traz mais benefícios que 1h30 de exercício moderado&nbsp;&nbsp;Gazeta do PovoCorrer rápido é mais benéfico do que corrida longa e moderada, diz estudo&nbsp;&nbsp;noticias.uol.com.brCultura | Estudo associa exercícios mais intensos à redução do risco de oito doenças crôni",
+      "sources": [
+        {
+          "name": "Correio Braziliense",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVjFqekVlTlBvTXBTQlBheHRxME9BYjJoZG4xTVU3Mnl1cjhsVEMteWdVeWVqanJsamtTWTlUWk1scEdBS0k1WENjd1NmbDVsUlY4dzVwd1VYUjlWSVVqcG1GNzJPWE0yazNEaXBzak9Wb3diYW5nZlBfc1l6T2lJRFFmcGZOWjg1R0FXVExkdFZfV2NERDJxMXVDc3A4aFZYVkpicDBjdFhEM2o2eEN1RzBGdXhTX0s4aDMwcHBEVnJEanJCdGFKaUgxRVNERkNCalUwQ0p6TFI4RUZqT1pYX9IB5gFBVV95cUxNMk1GRXZxLUwwa1hsc1JqYlM4VlB5MnViVnFTOWszSHBZcEFTWElabDZteHY4Wm8tYnBNSGhvUnB2YUh6a1dMM0o0ZHNDeC01ZjVEaWVSVloyMTRsbk5sZnBMdy1Wa1NpOUU2Nm9WVU5fZGhLcnVNVlhsUTl5ay1VS3phUG9IU0hOMERseTZyOTFhckFTOVBhcFM4dkw5SW96aDhEMEtBaWIxQWR4MXQ5Vjh6bDdCZmk4Z1d2ZHpoeFJEZk82VWhHM1ZqZi1DUElHRVdSZ3o2elRVXzl3WWlhbzhOTUw0Zw?oc=5"
         }
       ]
     },
@@ -57,7 +153,7 @@
       "id": "f93778bd2122",
       "title": "Quanto tempo de musculação por semana pode ajudar a viver mais? Estudo traz resposta - Terra",
       "published": "2026-08-14T07:58:00+00:00",
-      "summary": "Quanto tempo de musculação por semana pode ajudar a viver mais? Estudo traz resposta&nbsp;&nbsp;TerraEstudo aponta tempo ideal de musculação para viver mais&nbsp;&nbsp;VEJA RIOExercício físico: entenda o papel dos músculos para o envelhecimento saudável&nbsp;&nbsp;G1Treino de força vira aliado da longevidade&nbsp;&nbsp;Terra7 formas de prevenir a perda muscular antes dos 50 anos&nbsp;&nbsp;CartaCapital",
+      "summary": "Quanto tempo de musculação por semana pode ajudar a viver mais? Estudo traz resposta&nbsp;&nbsp;TerraEstudo aponta tempo ideal de musculação para viver mais&nbsp;&nbsp;VEJA RIOExercício físico: entenda o papel dos músculos para o envelhecimento saudável&nbsp;&nbsp;G1Treino de força vira aliado da longevidade&nbsp;&nbsp;jornaldeuberaba.com.brJá pensou em fazer uma poupança de músculos?&nbsp;&nbsp;jornaltribuna.com.br",
       "sources": [
         {
           "name": "Terra",
@@ -90,6 +186,18 @@
       ]
     },
     {
+      "id": "105eddb1324e",
+      "title": "Peixes têm 'impressão digital' que revela de onde vieram, mostra estudo; entenda - G1",
+      "published": "2026-08-14T06:00:47+00:00",
+      "summary": "Peixes têm 'impressão digital' que revela de onde vieram, mostra estudo; entenda&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQk5OTU5EV2FmZHVvYWxpeEdNX2ZkTlRueXZ3SFZtMGVWTlBnRUEzNHdMRHRvOEhzUFBjNVIteVhwZmYxbTRsRU1SRDhiMXZTRXNBVUFlc2gtX2owaExGX0hCNUR3ODVoOUV2VUVNeXczVjNaQmlKWC1jLUYtV2k1Y25LZTVCd1BodTY5b1IxYmNuMjNkZkdQVFd3LWVkdG5NVXBxQXp6eHNGUENxZFhwRE55QXotal9JSS1IbG0zOHB2eXN6VlBEdFRveVAwVDRUWnhkcWNSYkZFRmZv0gHrAUFVX3lxTE02Ull2bG03cEgxb2NSaWlpX0VmbVlLQm51VUM1Wkd0VWJTMW8yblhxSUVzZ0owMkdUSlVnME01UzlZaWJDZTdRQk1JYlF6T0Q1WUN1WXpUQ0RlWjQzM3ozbHdNU29FUWFkTmNtLUhTMWduSTJNd0ZBSkFDQ1l1S2lPZ3NzM1pXZ1hqWUxIRG1vbWIzdFNTb3RyQm9HbEZwZUlyMUFIYXpwdXdTTnVBcmtHVVN0Nk12NVlxNG5xOTRtTWlpVWx5Sk1xTU9HS1RLbFA2UXhKWU9JbXRlUWhabXdaRXJheEk3OVdNc2M?oc=5"
+        }
+      ]
+    },
+    {
       "id": "4622046dac59",
       "title": "Técnica de vacinas da covid-19 abre caminho para nova geração de medicamentos além da imunização - G1",
       "published": "2026-08-14T06:00:11+00:00",
@@ -102,10 +210,22 @@
       ]
     },
     {
+      "id": "9aa6a6d47538",
+      "title": "Perimenopausa: e se a ansiedade e o cansaço não forem apenas estresse? - O GLOBO",
+      "published": "2026-08-14T05:45:08+00:00",
+      "summary": "Perimenopausa: e se a ansiedade e o cansaço não forem apenas estresse?&nbsp;&nbsp;O GLOBOMenopausa: falta de informação ou décadas de silêncio e ausência de políticas?&nbsp;&nbsp;SIC NotíciasEla não está louca, está perimenopáusica&nbsp;&nbsp;bra1.com.brOscilações hormonais podem afetar sono, humor e libido durante a perimenopausa&nbsp;&nbsp;Rádio Fundação MarconiMenopausa causa esquecimento? Entenda o que muda no corpo&nbsp;&nbsp;Cenário Minas",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcjFBcnFLbVJnbWlmTUV2Qm51SGswYi1Wb2dGeDdrNG5TQUctZGRtLUZ3V1daQlJDNExPOGFWOXhaYXBSVjRmTFJpTEFNUThPN3U5Q0Nkd3pDNC11elhEdU5OZW5wck9EUFpPZlVNMlpsdzVIWjVvS1NaSVJ6NWwzeUlWdlIxYkl3U1NJRE9YQnVpZ2t6N2JRNkMtckc5ZXd6NEI1N3ZyaE85VnBteXNuYVMyREpKRnY2bVh4amFkRdIBzgFBVV95cUxNd0YyREZSaVo5ZURkM051S3E4V01MVDZ3ZVloWktiWXpiVWdBMUhieE5vVTF6UGx1aDg0OFJmOGFyOUpucVZRN1ZLcGl6b2tKbzJsUzVJR295Z1NTa0RIUUdXX2FlTjNKcURJRGx3QjBLa3N5U2JXSlNnQWQ1NklmOGhqN1p2anJlUHpkT3Fxc3dWRXZfakR0V19ybGtWVGVuZVFIOENkY0h2Q3R6bmxNLU1oQjBvcDFtVHlicE1HTjBzQktDakFQcXBwamVsZw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e86e1241dcb8",
       "title": "Quase 4 em cada 10 adultos com sintomas de insônia usam remédios de 5 a 7 noites por semana, diz estudo - G1",
       "published": "2026-08-14T03:01:06+00:00",
-      "summary": "Quase 4 em cada 10 adultos com sintomas de insônia usam remédios de 5 a 7 noites por semana, diz estudo&nbsp;&nbsp;G1Seis em cada dez pacientes com insônia relatam uso de remédios para dormir no Brasil&nbsp;&nbsp;agendadopoder.com.brPesquisa da USP revela riscos da automedicação no tratamento da insônia&nbsp;&nbsp;Rádio Clube de CanoinhasEstudo da USP alerta para uso de remédios para dormir&nbsp;&nbsp;TV CulturaSeis em cada dez adultos usam medicamentos para dormir, aponta USP&nbsp;&nbsp;ICTQ",
+      "summary": "Quase 4 em cada 10 adultos com sintomas de insônia usam remédios de 5 a 7 noites por semana, diz estudo&nbsp;&nbsp;G1Seis em cada dez pacientes com insônia relatam uso de remédios para dormir no Brasil&nbsp;&nbsp;Agenda do PoderPesquisa da USP revela riscos da automedicação no tratamento da insônia&nbsp;&nbsp;radioclubedecanoinhas.com.brEstudo da USP alerta para uso de remédios para dormir&nbsp;&nbsp;TV CulturaSeis em cada dez adultos usam medicamentos para dormir, aponta USP&nbsp;&nbsp;ICTQ",
       "sources": [
         {
           "name": "G1",
@@ -117,7 +237,7 @@
       "id": "7e0f674c03cb",
       "title": "Chikungunya cresce na Bahia em 2026 e casos aumentam mais de 280% em relação ao mesmo período do ano anterior - G1",
       "published": "2026-08-13T23:01:29+00:00",
-      "summary": "Chikungunya cresce na Bahia em 2026 e casos aumentam mais de 280% em relação ao mesmo período do ano anterior&nbsp;&nbsp;G1Chikungunya em alta, doença cresce mais de 1000% em Salvador&nbsp;&nbsp;G1Casos de Chikungunya crescem mais de 280% na Bahia&nbsp;&nbsp;Folha do Estado da BahiaCasos de Chikungunya explodem e Muritiba registra mais que dobro de ocorrências de Salvador&nbsp;&nbsp;Bahia RecôncavoCasos de chikungunya disparam mais de 300% na Bahia; veja cidades mais atingidas&nbsp;&nbsp;Bnews",
+      "summary": "Chikungunya cresce na Bahia em 2026 e casos aumentam mais de 280% em relação ao mesmo período do ano anterior&nbsp;&nbsp;G1Chikungunya em alta, doença cresce mais de 1000% em Salvador&nbsp;&nbsp;G1BA: casos de chikungunya quadruplicam e ultrapassam oito mil notificações&nbsp;&nbsp;R7Casos de Chikungunya explodem e Muritiba registra mais que dobro de ocorrências de Salvador&nbsp;&nbsp;bahiareconcavo.com.brCasos de chikungunya disparam mais de 300% na Bahia; veja cidades mais atingidas&nbsp;&nbsp;",
       "sources": [
         {
           "name": "G1",
@@ -126,13 +246,13 @@
       ]
     },
     {
-      "id": "2e3e98824d5b",
-      "title": "Por que venda de restos de múmias pode ser 'maldição' para saúde pública - Globo.com",
+      "id": "f955e053b277",
+      "title": "Por que venda de restos de múmias pode ser 'maldição' para saúde pública - Globo",
       "published": "2026-08-13T21:59:47+00:00",
-      "summary": "Por que venda de restos de múmias pode ser 'maldição' para saúde pública&nbsp;&nbsp;Globo.com",
+      "summary": "Por que venda de restos de múmias pode ser 'maldição' para saúde pública&nbsp;&nbsp;Globo",
       "sources": [
         {
-          "name": "Globo.com",
+          "name": "Globo",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUjhablplUUhTRk1hdVJJT3JBNWFqNng2OGRUeE94aEViaDJBU21fdk5NcDVzQ2ZVSVBLSHk4ZnBzN2xmWmJDUVp0SDNoS3NQR0VTVTZtUGFyMllKRkRBQnlkMXdjeE5iTkwxTVlQOUtrOEsxWWJqNUVDZndOX0ZDeEZwV0kzUkloMVF5V0l6M1lsOWo3Z3llLVdWb2ZkT05zX3BHTE9iSDBwVHd4OWlwV3BSSy1SeVUyMG1qNENpVFd3b0VmeFVKeWx4bWJFeGtHZUdRQWNkZ2pXTVd6cnfSAewBQVVfeXFMUEFGQXBaNUZVOWI1RFZGOEFVS0tDd2o3aXNTdW53QUZVQTBPRi03aUxLdmc5TjFYYUhaRW9EcTZOM2lOVEY5Rmo0Unl3bkNUTUxFQTc2RXZ6dFZwejBVNzNtc3ZpS2FuOTJ5RmhKMFJRazJOc19wcy0yb0l2aWZpdlhlbHVTb2hQcTJoaEVkdWxrSnlaQy1NaXFNMlJqM0pRR1N0NUdhd2NSa2VhT3BfRkxweUtaZWNRMGlJb2RaX19NREZZQkVaT1BvbDdBbzZuQUNqUWk4TjFMVDBrSkx0c3EwbGhXVVRfYmhHeTA?oc=5"
         }
       ]
@@ -150,18 +270,6 @@
       ]
     },
     {
-      "id": "0c87903c1932",
-      "title": "João Pessoa investiga três casos suspeitos de meningite em crianças - G1",
-      "published": "2026-08-13T21:19:28+00:00",
-      "summary": "João Pessoa investiga três casos suspeitos de meningite em crianças&nbsp;&nbsp;G1João Pessoa confirma caso de meningite e investiga doença em outras duas crianças&nbsp;&nbsp;G1Caso Pixbet, reviravolta no PDT e alerta de meningite em JP: nosso resumo&nbsp;&nbsp;ParaibaOnlineTrês crianças estão internadas com suspeitas de meningite, em João Pessoa&nbsp;&nbsp;Portal CorreioCriança morre com suspeita de meningite; Paraíba soma 156 casos suspeitos este ano&nbsp;&nbsp;R7",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVG93RHR5SnFkN09IYjJYTkJpRk5mY1pkN3dmX1FuSUVaVm5leU95UndUUEp0MW80cGo2dnR0eV9YcFBuMGU0NWtScEIzNVJVOWFVczk4bFUzTXN0bXNLb2dtQk43S0doeGlra2pkTVFqVm9fYTdFTFZ3Y0o4NTRzUUladjUzYmdCU1pxNTFwQlFyQzEwVmhnR2ZrWEVKNlFwNWdUSkZoUEFXdGN5LWxyUjJJX3pod3FqbzREdHV4VnNlUdIB0AFBVV95cUxPa3dQMGhPbFpsTmlnTVV4UzFrZFUwWFhXUld5VXEzUVdZTVVoNk5BZG5WLVQ2aTJ6TXU2ZFVuMDhDb2hnM1J6RTkzRnI3VHVqMGtLMVJ0QnZvQ1Y2SUE4QmhEZlFwVGp6TkJ0MlJlaTlLaFNCSGl2VC0wa3k0V2JUUldzT0RxOTFnVmsxbEp4YUtvckVnNXZpUW5FUl9HMUlJaWxkR001Ul9LWTdJclRwTmN3NWYzamUzX3JlNktRX1E1VFU4amZjbnF3VE1YTzA2?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d2d1a1ab9938",
       "title": "Famosa oferece tratamento psicológico para Mara Maravilha e apresentadora aceita - Jornal Correio",
       "published": "2026-08-13T20:30:36+00:00",
@@ -174,22 +282,22 @@
       ]
     },
     {
-      "id": "7cb28ba39bfc",
-      "title": "Movimento que inspira: servidores recorrem ao esporte em busca de saúde mental - Tribunal de Justiça de Santa Catarina",
+      "id": "c728eb7d610e",
+      "title": "Movimento que inspira: servidores recorrem ao esporte em busca de saúde mental - tjsc.jus.br",
       "published": "2026-08-13T18:39:00+00:00",
-      "summary": "Movimento que inspira: servidores recorrem ao esporte em busca de saúde mental&nbsp;&nbsp;Tribunal de Justiça de Santa Catarina5 dicas para transformar a rotina de exercícios em uma aliada da saúde mental&nbsp;&nbsp;CartaCapitalExercício físico ajuda a proteger a saúde mental e reduz sintomas de ansiedade, estresse e depressão&nbsp;&nbsp;RADAR DIGITAL BRASÍLIABoa aptidão cardiorrespiratória pode reduzir risco de depressão e demência, aponta estudo&nbsp;&nbsp;Blog do ValenteO que o condicionament",
+      "summary": "Movimento que inspira: servidores recorrem ao esporte em busca de saúde mental&nbsp;&nbsp;tjsc.jus.br5 dicas para transformar a rotina de exercícios em uma aliada da saúde mental&nbsp;&nbsp;CartaCapitalExercício físico ajuda a proteger a saúde mental e reduz sintomas de ansiedade, estresse e depressão&nbsp;&nbsp;RADAR DIGITAL BRASÍLIABoa aptidão cardiorrespiratória pode reduzir risco de depressão e demência, aponta estudo&nbsp;&nbsp;Blog do ValenteO que o condicionamento físico tem a ver com o c",
       "sources": [
         {
-          "name": "Tribunal de Justiça de Santa Catarina",
+          "name": "tjsc.jus.br",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdDdKNnM2ak55OXc3VkJnb01lMndWT1RXZzVad0d2a1JBTW1YV1NEWDhXYjY3WlUyd2dfV25zVy1rR3U3T25yTVZhcWR5T3c0Zmo1cEh5U1VnblVHZk1IX00zb3U1RmV5cGpWODRpRkZJek5DdzJOaG90VnZjUTBCTV9falZwSTkweEkyRzRfSjk3M2ZJWW04bTZ4SjRhekNFbXUybmpyVHg0THJpQWxtaW9TY0EwemJTb3NuSURPc3Ric1Q3NUxxZw?oc=5"
         }
       ]
     },
     {
-      "id": "b2caed0f3b5e",
-      "title": "Caso de raiva em cão que morreu é confirmado em cidade do interior de SP; é o 1º registro em 30 anos - G1",
+      "id": "d94725ab127f",
+      "title": "Cachorro morre de raiva e cidade do interior de SP tem 1º registro em 30 anos - G1",
       "published": "2026-08-13T18:38:15+00:00",
-      "summary": "Caso de raiva em cão que morreu é confirmado em cidade do interior de SP; é o 1º registro em 30 anos&nbsp;&nbsp;G1São João da Boa Vista registra caso de Raiva Animal&nbsp;&nbsp;Jornal do ParabrisaSão João da Boa Vista confirma 1º caso de raiva canina em 30 anos; animal não era vacinado&nbsp;&nbsp;jornaldaregiaoonline.com.brApós caso de raiva, São João da Boa Vista reforça vacinação contra a doença&nbsp;&nbsp;G1Prefeitura realiza bloqueio no Solário da Mantiqueira após raiva animal&nbsp;&nbsp;Jor",
+      "summary": "Cachorro morre de raiva e cidade do interior de SP tem 1º registro em 30 anos&nbsp;&nbsp;G1São João da Boa Vista registra caso de Raiva Animal&nbsp;&nbsp;Jornal do ParabrisaRaiva em cachorro acende alerta em São João da Boa Vista&nbsp;&nbsp;portoferreirahoje.com.brSão João da Boa Vista confirma 1º caso de raiva canina em 30 anos; animal não era vacinado&nbsp;&nbsp;jornaldaregiaoonline.com.brPrefeitura realiza bloqueio no Solário da Mantiqueira após raiva animal&nbsp;&nbsp;Jornal do Parabrisa",
       "sources": [
         {
           "name": "G1",
@@ -201,7 +309,7 @@
       "id": "c515d926668a",
       "title": "Alerta sobre sarampo nas Américas reforça importância de intensificar vacinação no Brasil — Ministério da Saúde - www.gov.br",
       "published": "2026-08-13T18:28:57+00:00",
-      "summary": "Alerta sobre sarampo nas Américas reforça importância de intensificar vacinação no Brasil — Ministério da Saúde&nbsp;&nbsp;www.gov.brBotucatu investiga 6 casos suspeitos de sarampo em bebês e faz bloqueio vacinal&nbsp;&nbsp;G1CB.Saúde: 'O risco do sarampo é real', alerta infectologista da UnB&nbsp;&nbsp;Correio BrazilienseCasos de sarampo em São Paulo acendem alerta no RS&nbsp;&nbsp;Jornal do ComércioSarampo: veja quem são os públicos que devem ou não tomar a vacina&nbsp;&nbsp;agenciasp.sp.gov.b",
+      "summary": "Alerta sobre sarampo nas Américas reforça importância de intensificar vacinação no Brasil — Ministério da Saúde&nbsp;&nbsp;www.gov.brVacina contra o sarampo: quem deve tomar, o que é a ‘dose zero’ e quem não pode ser imunizado&nbsp;&nbsp;G1Sarampo: Anvisa rebate fake news sobre vacina; Brasil soma 24 casos da doença&nbsp;&nbsp;VEJACB.Saúde: 'O risco do sarampo é real', alerta infectologista da UnB&nbsp;&nbsp;Correio BrazilienseSarampo: veja quem são os públicos que devem ou não tomar a vacina&nb",
       "sources": [
         {
           "name": "www.gov.br",
@@ -210,14 +318,14 @@
       ]
     },
     {
-      "id": "4e130e123336",
-      "title": "Estudo revela desigualdade no acesso à atividade física de lazer em SP - CNN Brasil",
-      "published": "2026-08-13T18:16:55+00:00",
-      "summary": "Estudo revela desigualdade no acesso à atividade física de lazer em SP&nbsp;&nbsp;CNN Brasil",
+      "id": "09ad53cbe89e",
+      "title": "Tomógrafo quebrado e superlotação: SCC SBT mostra situação do Hospital Celso Ramos - scc10.com.br",
+      "published": "2026-08-13T18:14:02+00:00",
+      "summary": "Tomógrafo quebrado e superlotação: SCC SBT mostra situação do Hospital Celso Ramos&nbsp;&nbsp;scc10.com.br",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSjNKRVR1cl9ISHE0RG52TGlqWXptRzY2UjB4TzdhcEE4Q05obVRrcUdHV0JhSWs0dGlCZkRIZ29VOEY1VmtJNkF3cE5iUlpXSWZoYXpkTEhhWmRjTE1WaTU1NF9jRFhXVXo5NG1ibnNXM1Y2UV9qdm9SdjBfSENpTGNKS2RVTnc4RE85am1oNmdXbHh3RHRXNHJXTDdpT2hLbVlRcFQ0UjRRZw?oc=5"
+          "name": "scc10.com.br",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTlhGeDNzOUU2LTI2RGNfY0xGaE9MVTJ3bkZQVzJxOWprVTFNRVZwZjh4emZicmItTGlPb24xelJURDlQQjV4STZ1X0llNkR5ME1lN05hcGRUMXVqRkhmdVp3UmhlR0IxazRZUGdZcVV2Nk9nQzRQNFRVOTRsWThXVW5rLXNmRXdZRW5DUFlR?oc=5"
         }
       ]
     },
@@ -225,7 +333,7 @@
       "id": "0b78cf1faa8e",
       "title": "Seu sono pode revelar um sinal precoce de risco de Alzheimer, sugere estudo - Extra online",
       "published": "2026-08-13T17:32:45+00:00",
-      "summary": "Seu sono pode revelar um sinal precoce de risco de Alzheimer, sugere estudo&nbsp;&nbsp;Extra onlineRemédios para dormir aumentam as chances de Alzheimer? Confira o que a ciência já sabe&nbsp;&nbsp;Folha de S.PauloEstudo relaciona dormir muitas horas a níveis mais altos de uma proteína associada ao Alzheimer&nbsp;&nbsp;Jornal O SulSonolência excessiva durante o dia pode alertar para risco de demência&nbsp;&nbsp;Правда.РуDormir mais de oito horas não causa demência, mas quando isso vira rotina pod",
+      "summary": "Seu sono pode revelar um sinal precoce de risco de Alzheimer, sugere estudo&nbsp;&nbsp;Extra onlineRemédios para dormir aumentam as chances de Alzheimer? Confira o que a ciência já sabe&nbsp;&nbsp;Folha de S.PauloEstudo relaciona dormir muitas horas a níveis mais altos de uma proteína associada ao Alzheimer&nbsp;&nbsp;Jornal O SulSonolência excessiva durante o dia pode alertar para risco de demência&nbsp;&nbsp;port.pravda.ruDormir mais de oito horas não causa demência, mas quando isso vira rotin",
       "sources": [
         {
           "name": "Extra online",
@@ -237,7 +345,7 @@
       "id": "a29cabccca91",
       "title": "Como nova onda de ataques às vacinas gerou efeito reverso nas redes sociais, segundo levantamento - BBC",
       "published": "2026-08-13T16:59:41+00:00",
-      "summary": "Como nova onda de ataques às vacinas gerou efeito reverso nas redes sociais, segundo levantamento&nbsp;&nbsp;BBCO que a Folha pensa: Obscurantismo antivacina avança sob Trump&nbsp;&nbsp;Folha de S.PauloEnquanto Trump e os Bolsonaro espalham discurso antivacina, Brasil reforça imunização&nbsp;&nbsp;Partido dos Trabalhadores\"Nenhum estudo diz que tríplice viral pode causar morte\", afirma SBIm&nbsp;&nbsp;MetrópolesOfensiva de Trump contra vacinas contradiz evidências científicas, diz OMS&nbsp;&nbsp",
+      "summary": "Como nova onda de ataques às vacinas gerou efeito reverso nas redes sociais, segundo levantamento&nbsp;&nbsp;BBCO que a Folha pensa: Obscurantismo antivacina avança sob Trump&nbsp;&nbsp;Folha de S.PauloEnquanto Trump e os Bolsonaro espalham discurso antivacina, Brasil reforça imunização&nbsp;&nbsp;Partido dos Trabalhadores\"Nenhum estudo diz que tríplice viral pode causar morte\", afirma SBIm&nbsp;&nbsp;MetrópolesSaiba o que o decreto de Trump sobre vacinação infantil prevê e o que dizem os médico",
       "sources": [
         {
           "name": "BBC",
@@ -258,22 +366,10 @@
       ]
     },
     {
-      "id": "10111b1fc171",
-      "title": "Lúcia Helena: Por que ainda é tão difícil conseguir controlar o colesterol? - UOL",
-      "published": "2026-08-13T16:28:57+00:00",
-      "summary": "Lúcia Helena: Por que ainda é tão difícil conseguir controlar o colesterol?&nbsp;&nbsp;UOLRisco cardíaco pode avançar sem sinais e exige avaliação&nbsp;&nbsp;G1De comprimidos inéditos à edição genética: o que vem aí no tratamento do colesterol alto&nbsp;&nbsp;EstadãoPrevenção das doenças do coração deve começar desde a infância&nbsp;&nbsp;TerraConheça dicas para evitar doenças provocadas pelo colesterol alto&nbsp;&nbsp;Notícias - Canção Nova",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZV9RX3B5bFRDem16eVlsdTUzUlpFSXNlUVFRSTR6NXd6b3E5WTZGSmpmWFpMdURQS1VsTUVTaFRsQVN0ejNUZUJlNklxcWM1OTNOU3FaWk8wNjhERjMyX2pfRHZCR0pGdUtOVEZPNUJTZi1PTkZlbUpGbVV5a1ZsOU9BQ2N2QUdtX2NDMXZoODFDZUVPTkQ4TVlNejEyMjFPZE9oaXVVaHJmbWhLdG9SZzdiRm1HcVBMc1VsX2x4TGdRSzRLdXc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d2897b76ed33",
       "title": "Aposentado ganha US$ 247 milhões na loteria e decide doar tudo para pesquisas sobre o câncer; veja a história - O GLOBO",
       "published": "2026-08-13T15:12:43+00:00",
-      "summary": "Aposentado ganha US$ 247 milhões na loteria e decide doar tudo para pesquisas sobre o câncer; veja a história&nbsp;&nbsp;O GLOBO",
+      "summary": "Aposentado ganha US$ 247 milhões na loteria e decide doar tudo para pesquisas sobre o câncer; veja a história&nbsp;&nbsp;O GLOBOAntes de morrer, homem ganha US$ 247 milhões na loteria e faz doação para pesquisas de câncer&nbsp;&nbsp;TerraHomem ganha R$ 1,28 bilhão na loteria e financia pesquisa contra câncer raro&nbsp;&nbsp;Diário do Centro do MundoMilionário com câncer doa US$ 247 mi de loteria e vira exemplo de filantropia&nbsp;&nbsp;BNLDataAposentado ganha 247 milhões de dólares na loteria e ",
       "sources": [
         {
           "name": "O GLOBO",
@@ -282,13 +378,13 @@
       ]
     },
     {
-      "id": "049b1e2ab424",
-      "title": "Metformina faz o intestino consumir mais açúcar, indica estudo - UOL",
+      "id": "6e2de906731d",
+      "title": "Metformina faz o intestino consumir mais açúcar, indica estudo - uol.com.br",
       "published": "2026-08-13T14:03:42+00:00",
-      "summary": "Metformina faz o intestino consumir mais açúcar, indica estudo&nbsp;&nbsp;UOL",
+      "summary": "Metformina faz o intestino consumir mais açúcar, indica estudo&nbsp;&nbsp;uol.com.br",
       "sources": [
         {
-          "name": "UOL",
+          "name": "uol.com.br",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTDQ2VThEQmgycWdvRHE4a1pRLWhJSk8xQTZlX2dIeXNRNGJxQy1YMDFlWURZdFBMS2hPMlhxZU9helR1S0ktaC0wb2ZmaThMbXd2ek5QaFdkVGNyOUZWLWlhVEJxWjJ3RXVKSWRmZzZNZlVYaHdLMlhWNENSZDBQZEtPcDVIUHFWYnp3QXJMSDdoMjhzcV9FUUVJZlJmLVhNcDF5dVBYMHZ2VkFDTWs2Q0tQQVQ2a3FrNjN3NFV4bUtrME0?oc=5"
         }
       ]
@@ -309,7 +405,7 @@
       "id": "46ac86e1819b",
       "title": "Estudo aponta 3 fatores que podem reduzir anos vividos sem demência - Estadão",
       "published": "2026-08-13T13:03:00+00:00",
-      "summary": "Estudo aponta 3 fatores que podem reduzir anos vividos sem demência&nbsp;&nbsp;EstadãoTrês fatores de saúde podem adiar o aparecimento da demência em até 13 anos, diz estudo&nbsp;&nbsp;SuperinteressanteEvitar estas 3 coisas pode te dar 13 anos a mais de vida sem demência&nbsp;&nbsp;UOLDemência: novas diretrizes da OMS mostram como prevenir até 45% dos casos&nbsp;&nbsp;guiadafarmacia.com.brDemência pode ser evitada? Estudo dinamarquês releva que quase metade dos casos poderia não acontecer&nbsp;&",
+      "summary": "Estudo aponta 3 fatores que podem reduzir anos vividos sem demência&nbsp;&nbsp;EstadãoTrês fatores de saúde podem adiar o aparecimento da demência em até 13 anos, diz estudo&nbsp;&nbsp;SuperinteressanteEvitar estas 3 coisas pode te dar 13 anos a mais de vida sem demência&nbsp;&nbsp;uol.com.brDemência: novas diretrizes da OMS mostram como prevenir até 45% dos casos&nbsp;&nbsp;guiadafarmacia.com.brDemência pode ser evitada? Estudo dinamarquês releva que quase metade dos casos poderia não acontecer",
       "sources": [
         {
           "name": "Estadão",
@@ -330,25 +426,13 @@
       ]
     },
     {
-      "id": "1f7d00ee9d05",
-      "title": "Compulsão alimentar está ligada a ultraprocessados, indica estudo - UOL",
-      "published": "2026-08-13T12:04:21+00:00",
-      "summary": "Compulsão alimentar está ligada a ultraprocessados, indica estudo&nbsp;&nbsp;UOL",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMDY4VXd1ZTFJemxfaTluR1hQVGRfd0Q1Ums2TlNQODh2NXRHN3JCa3hpckxiVlp5QjhqYXI0cDM3WF9rT282TE1VQkF5ZkZPdzZaelZIMkVSTUxhVlRZZWtvV0Y2YzFuY3BwNjl0UlFtVHdfX19lMkVHQ2ZfOEtSb3J6MHZCRXliZms0UTU0Y0FxcDdKX3NxWE1lOXRrN2VubW85M3ZFOGN6dFR3QlRrX29qTXFhbDZza0E5SFBjOXk2YWVXR1Vj?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a918e97ed75e",
-      "title": "Cuidando da mãe, filha usa redes sociais para dar visibilidade à luta contra doença neurológica - midiamax.com.br",
+      "id": "28592b7f761a",
+      "title": "Cuidando da mãe, filha usa redes sociais para dar visibilidade à luta contra doença neurológica - Midiamax",
       "published": "2026-08-13T10:00:00+00:00",
-      "summary": "Cuidando da mãe, filha usa redes sociais para dar visibilidade à luta contra doença neurológica&nbsp;&nbsp;midiamax.com.br",
+      "summary": "Cuidando da mãe, filha usa redes sociais para dar visibilidade à luta contra doença neurológica&nbsp;&nbsp;Midiamax",
       "sources": [
         {
-          "name": "midiamax.com.br",
+          "name": "Midiamax",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMGtEcnlzUFFrbzhSUDhubDRBUzJEQW80X1g5VzA3cVROcldtTllmZ1hETUlWSEppMHlWN0VlYmV3MTdTUDl6d0hhOHM0TGRqQW91a2tFTkdBTFY0WmpjakZSRS16QklwY05HN2tqR2lXMmZyT01pR0xLVHNyOEFsaV9MbjBUc1BOay1mcXRQSXlIUE9SYktWcG43OFlWVlpzZmFTOC12VmFxUmdUbkstXy1YeWI2T293SmljSFJSb0lNQQ?oc=5"
         }
       ]
@@ -362,138 +446,6 @@
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNZzExSW5jc3pyNzVyTDRCcS1QVXhDRVNjTTNBaUhTeTdlZ192eVZIMzhQeHRQR0FJZnVXWXg5YWxjWGw3S1J3ci0xS2Nkd1hJeXJwbzRkMGdRUVFic0RqVHlQc2tRV2Z0ODltdGpkc2xzYXJWRVBZaTJqMGwwN09udFB4WUtUcmlHWE85d3gtQ0Fsa2hfU283cGFQYUJMRDFHY0FJZDNORndFNjVpYkFHYW1RR2Jqa0Z1aGhja19Pckg0OGg4STVfc1YwWkx2WjJYSEhSWGZtOGFNRG1iZjR5YjVWRC1obnJtTl9GcXl5dXdFOEl5ak1iUHpuak1PSHoz0gGPAkFVX3lxTE0ydF9HbnZGQlNYaFo4RkJuc0piQzQzSGN3UlRQNVV6MEozVzVfcDFBOWpXMUhFejItbjIwQVN6YlhxbGhKbUxyM2ZnYzlKdUZPME9ER3dSV1oyemFjN25tdVhiZS01N25QekFxRXFrWjhidjZOMGt2SlRFcE0zWno5NEtETXBmanVqa0l0cy1HbnZ2ZllUN3ZzeExydUJvUElkTVpjYzg5QThRLURwajJXZXJ2TGN2STZHZ1ppZnp5a2J4cmd3MmRjbHdMQkpiZnNLb3JpRVdZeXZlQmZJS0wwM1VRZjRTMVNfZG9CTXJ0d21VQTN1UUxsalVFdlF1MlhTQ0J4c0tfQ1AwV0o1dFk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a21b164b41d9",
-      "title": "Cientistas conseguem mapear como riscos à saúde mental surgem em conversas com chatbots de IA - O GLOBO",
-      "published": "2026-08-13T07:30:26+00:00",
-      "summary": "Cientistas conseguem mapear como riscos à saúde mental surgem em conversas com chatbots de IA&nbsp;&nbsp;O GLOBO",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMlRVRzNEejJhRGkxMnJmbEw5a3BKZ0EyRGI3d21oM1lmRVdKZU15RU9Dd2VnX2VvaXQ2UG5CSThYdzJNV0h4blg5LTNTTUxQQUsxSG1yRW5XelJtY25DTUhaVnRlRmJLR1BBM1BZcDlJVzZ5QUFQcUdxUlBzb1hTZWpTN0c3MktwbjdYbHFjTzhab1RaWDJYdVhjbnh3UEFpWWNSTEt3NUFtWldfWF8zZWtsSWV5TWVCN1BNdy16UlV2QzFhd0hoYmRvRHdGZWVoTlpmUzkyTTB0dXBRQy1iMDlMQdIB8gFBVV95cUxOdGZLWjRQdXNhcXNHS2ZLazBURWRFSW9LOHVEY1RZY1Q3eFpGWkxCRUZBNnl0bHduVmVLLVpvOXJaZ0JaM2tBbF9VRy02Wno1TlZ3clBIcUV0N0pTMWttR2I4SzVYNEpCSmJzX1BUTHlKdW80STdhT0dvUnpzb2hyOWJ0Y05oQ1VRSGlXNm5xN0JJaldnLS1TN3ExUDFXRFp2cDExRDN2aFlZZzg3M0JXNTlsb3lpVXptczEwV3pONFpPclZxMXcydWVGMHRCVjktdnpjY3JEMTA4c1B1eERfOWRsQ2dkQ3l3U2JsRG1NeGJLZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f5dd884e6dfe",
-      "title": "Estudo revela que células de defesa do cérebro podem ajudar a combater o Alzheimer - G1",
-      "published": "2026-08-13T06:00:12+00:00",
-      "summary": "Estudo revela que células de defesa do cérebro podem ajudar a combater o Alzheimer&nbsp;&nbsp;G1Estudo identifica mecanismo cerebral comum ao Alzheimer e a doença infantil&nbsp;&nbsp;Correio BrazilienseEstudo: reprogramação de células de defesa podem combater o Alzheimer&nbsp;&nbsp;CNN BrasilUma célula do cérebro pode ajudar a evitar danos do Alzheimer&nbsp;&nbsp;Olhar DigitalBRASIL: Cientistas descobrem como “reprogramar” células de defesa do cérebro para combater o Alzheimer&nbsp;&nbsp;Prensa ",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOHJicmVDSWZUclpuLXo4eUwtZGp1OHFaVFhCdG5fbGRqczRhaVJCOTFzeW5MWDg0aEt6S1BPU19IY0I1cEJhbXh2cVk1aGhsNkkxdkV3RGRFYVd2NW9oLWJzQm1sWDdrdFZvYkNvNDlKRS1hZUhhOEs2WmhKTHI2QndVOWVBQmE0RWUySFFsUFdPLU9QT29TODY4UTI5YWg5eUxSQk1aZ3pNQnFYdXFJLUN6aEFNaVlFV1Y5bUZmTWdiZ2o3dnR6THdNcmQ0WU3SAd4BQVVfeXFMUE9DWU93dVhlLS1jU19qSDZEUW9GVUtPcldud1gxcU1DakJqTE41MDNObE9BZFJnZXJSMmZoNWRrd2FXUk8zUjhsdFlyREEwRVlfZUswdVYwVmRqU1pubHdTREdRNmVFNlFpTDRybnVhc2c5cC1zYnFWSmhmWGRQSXNVZjRmRjJmZzhUUGxjLTBkdU1RdnVMTjNYRDlPNDFZSHNPMTFzUjZXak03eEc0TTBfbUJWbEJsckRMNGVIdFFQNDRQUWtaazFoN0VDZk1LT25GZkNlOElDV3lLZ25n?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8f3840d1e898",
-      "title": "Canetas antes da bariátrica não trazem perda de peso adicional após um ano, diz estudo - G1",
-      "published": "2026-08-13T03:00:56+00:00",
-      "summary": "Canetas antes da bariátrica não trazem perda de peso adicional após um ano, diz estudo&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUEtUSlUxaHRyUmRnOEIzY3VWU2FJZkZwelhmWlk2X1VRbUV2bld6alZwQmlhMzhVV3hQZVNyNGUwcDdhUGxpbUNOQVFncXItYkZ2am9EY1FiSnVyVU9SbVo5V180N1pwT1JhTXlFWVZzT3F2a1Q3YnhxZFRzbmhyN1BEdWpRYkFLNmNqcjk0WjVfU2dER2NDeTI5TWh5OWgwdFpNeV9OQzlTQlp3dzlBUENvSFBlQm5nV3V1WmhaWEMzamR3LWs2NFcxbHg4MWV0VnFR0gHiAUFVX3lxTE9qSERNdFhfUm9vYno0OFRPc1JYZjlENnlrV2RHd045aWpkZEt3OTVxaDE5WXl2NGttZExUbkFkS25GeFE2TERrWWNBcUNtaDIxS3hnM2k5MXV4WnF2ekxzQmpZbkJhdDVGeG1iVWFxbUk0ZlNiZXNqUmtxcFE2cXRYaVVsZk9ONTVDSWxxVnRuUlY2U0QxTlB0dWlKSEJxSVJ6aFF4NVp1aE9XOHBSUjdpR1IzTmhEZXZpN2ZDUEx1eUxaMEVjV1c3eXhVM2IwZWNWMUNDQ09FU2VWc0ZxVGpPZ2c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "18dec9e2f75b",
-      "title": "IPEN recebe pesquisadores chineses da Southwestern Institute of Physics para fortalecer cooperação em fusão nuclear - www.gov.br",
-      "published": "2026-08-13T03:00:00+00:00",
-      "summary": "IPEN recebe pesquisadores chineses da Southwestern Institute of Physics para fortalecer cooperação em fusão nuclear&nbsp;&nbsp;www.gov.br",
-      "sources": [
-        {
-          "name": "www.gov.br",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNX0NHeHBmQTJ6M3dTeWtuaUliM3dZa0I3Z0ctQ2FrbTV1cjdHenF4WjVQakVWSnlJMDItMXJmeWd5YTlac196eVp4ZVMtb0ZGZ2djVmp6QmtVZlpuUjcxaGdhTnEwdG5fQU9JbXpBWnlyT3Z1bVFKR2dwMkgtSTlabTZOamJIUGxGeXFWNTNNY1hOd2NOa0pLbVJWTFhoTEZaZjlXTU9odVpKZF85QmlxaTN5YjNjVENGWkJQWVNTUDJvZS1MUjMza25WZzZhQlJjVHhPcldScm00ZG5jY2NsNXZOZ3lGbU9pTDJqWjZBSjJrOFQ4cWlQYk13a1A?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ca591362020a",
-      "title": "Após inflar currículo com pós-graduação inexistente, Flávio compartilha diplomas e cita 'anos de estudo e dedicação' - O GLOBO",
-      "published": "2026-08-13T02:22:54+00:00",
-      "summary": "Após inflar currículo com pós-graduação inexistente, Flávio compartilha diplomas e cita 'anos de estudo e dedicação'&nbsp;&nbsp;O GLOBO",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPMDgyWXA5dVFVVkNKWjZjOWQ5NEU1QmdnbFVuWGRpZmozZWZOWnJQTXVLcVdDZ2VvVDlLXzFlQWk4c2V4RlctOFhlQmNGX25Ga0xhalc4MFNEM1B2OU5rWnJRR3RZSGtETWpEQTNTd2ZYTElQUVFjOFBjeXdqcWUwVnljdGQ1UTdRelQwWXlMMjBvdEdDNnpjc3MzV3FlYi1WLWdUcWk3UXNicFJ6Z2RIVXNxdUNtQ29WUHZmTXh3dFluQkgxbXMxb1VtemxINU1ETWJ5dkhUZ3JSRnBFeGNEbk9CU2VaYlh0Rm1WUG5vT0t1RUJXTVB6ZWszNk1EVm9ORXBId0xaTEJyV1k3Rlh2UkRjZmtUeUJza1FTWU52WdIBrgJBVV95cUxPNUdSbElMY2VrSUhrYkxySHNYY1RiMlZNR2h5NFlFOFBIMHVhZmNkSlFFVVlaTC1SaGx1WFpjQ3pWeDVxUzhRWWFLdE1KOHVOajMwYkZCekNmMml6Y0RBc2NMelVIQldpY0x2d2RQNWJsRzRmRWZyYlNpdl9lMnRSTGxra0tLX3JxejBXaGduNlYwOHgxVjl3TlFCQTJhSzQ3NjVvbW5KdWxxYnNDUUdyM2h2bFRTM2Vtc3FPSncyN19OTzJXNkNoZFlVVjRXUE5GSi05Z1BUcDVJb2tmU05IaER2RFotdWFHMVkwSnBkY2p6d0RZV1NOWnFueFhIUm5LUGJLZWhsWmNXdmx1NXRnZkpuTnhqMDQ3WENrbUxfSzVRd080c29oM1ZPb3lzQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3a6f9374aac1",
-      "title": "Quem são os pesquisadores (de esquerda) que querem formar a “Bancada da Ciência” - Gazeta do Povo",
-      "published": "2026-08-12T23:45:00+00:00",
-      "summary": "Quem são os pesquisadores (de esquerda) que querem formar a “Bancada da Ciência”&nbsp;&nbsp;Gazeta do Povo",
-      "sources": [
-        {
-          "name": "Gazeta do Povo",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRXdZVDhQOFdjLTEwRFdjUXdyZ0RqeGxtdUtCNHI0NXRLdjZKS0dtYlhhdll4WXpRbzJsSGV6VzU5dkEwd1doNU5wQ3JhQ1FHc05zVVMyMkYxSmlLNDFSZF9uSWlZVDZmVng2THB0ODg1WGVQRkJBUTZLbWNRaGlBR3FtVHZMNTJ1OTNkM3lyWHYwc2VPako4Wm96RVdJNlFwMVd3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3f53cc43ce69",
-      "title": "Chefes querem aumentar as equipes, contrariando as previsões de extinção de emprego, diz pesquisa - Estadão",
-      "published": "2026-08-12T21:05:49+00:00",
-      "summary": "Chefes querem aumentar as equipes, contrariando as previsões de extinção de emprego, diz pesquisa&nbsp;&nbsp;Estadão",
-      "sources": [
-        {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQa0tRaDhrNF9LelRWcmxtdEx6cHlDcFFab3ZvRnJnaS0ySGl0ZGpxRU1UOHN3N1hQZlJieFpheEpqNkxpd0I3dHZkazJLSEdwZFRjR2UteDFqSmQzTGdmckFYSDdRMmJMWVoxOXB3TnZVNW56WkZHTGhTaUdXMUdaNXpaUlE1aWhEWnI1Tlh5bHZiUDdCMy1EVlAzX1o0X1RUM1FNZFhKV1ctZ282a3VwRkU0Zm1RdTNwNlRtLTFlZW9oSXFmbGJjM0Y1YkXSAdIBQVVfeXFMTjZwOWhyTk9weFFkZHdmZ0lrTEUweEtpLVd6ckdlRUl2bVJwdjJVTU1RUFNFNTVMQjNFTEstSnNaVDZ0d2w4VDc3TlJaR2dmU1YxTFpUemRKWkI3T1l1VzRvX09BaWZWQmdETlZxWEVqMEpzWjRXeWo0Q0JPN1ZhUkFsbkcyR24wTnRjRGJOSVpnYU9VWnJWV2hDNU9vR1lFeG9HZF9VN3VtcEk0ZjZaRzlTQThYZmVtUkpJN0lTUDZmdGd1WnZFemVfQ0gtMFBQaUFn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9447547a56a2",
-      "title": "O que é a \"glueball\", nova partícula descoberta em acelerador na China - Superinteressante",
-      "published": "2026-08-12T21:05:18+00:00",
-      "summary": "O que é a \"glueball\", nova partícula descoberta em acelerador na China&nbsp;&nbsp;Superinteressante",
-      "sources": [
-        {
-          "name": "Superinteressante",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZllkUGVMVzREOVdkb3hWQUpPMFA4M251Zm1MTTkyNS1JSG9pU0NhYWs2X1lFSnRvNzJ2ZU0wTlRrelA3OHB3VWh4Z25fTUNmTkc1bkVEdW55ZHNKQXlqRlJ1VDIzbW44WHlPWG1mOFBVSkFHQVZIMEtSXzMydlFlZDROUkN0eGZuX2ZQakMtM0ZOQmRXUm1MYVhkeU5OQUFxeG9wN1dR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e349f101207c",
-      "title": "Lenacapavir: entenda os desafios no acesso ao medicamento que pode transformar a prevenção do HIV - Portal Drauzio Varella",
-      "published": "2026-08-12T19:05:16+00:00",
-      "summary": "Lenacapavir: entenda os desafios no acesso ao medicamento que pode transformar a prevenção do HIV&nbsp;&nbsp;Portal Drauzio VarellaConsulta pública: SUS pode incorporar 1ª PrEP injetável&nbsp;&nbsp;TerraPrEP injetável contra HIV avança no SUS, mas traz novo desafio diagnóstico&nbsp;&nbsp;MedscapeConitec recomenda incorporação de cabotegravir injetável ao SUS para prevenção do HIV&nbsp;&nbsp;site.cff.org.brTratamento semanal do HIV: eficácia de islatravir + lenacapavir – Portal Afya&nbsp;&nbsp;Ag",
-      "sources": [
-        {
-          "name": "Portal Drauzio Varella",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTl81ZFJSWlQwUlYyTUVWSm82NUV6SGg0WjN5dHcydl9YODJoU2lfTjdGWFliMVM0SFZSaXVBclh4R1dRVGgwTDR3ZC1XVzJnUnQ0c1NrSy1YMXhLMFhLTGZKVTI0SnhndE9vb2ZyeGtwNzRRQnhEN2JSdFZWWFliVGVqR1FmRGticEd0bHRNOTNIRXhPb0hFc2VWNUxKODlfRTUtUDVTOFNaemp1Xzd1ejFrLUNhX1lNU2VHOTNxTlZrWmZMSVF1aHZfSUdBUVBuMlNaZzFnUVdPay1H?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "319c6ead2ba7",
-      "title": "Opinião - Drauzio Varella: Retirada preventiva das tubas reduz a incidência de câncer de ovário - Folha de S.Paulo",
-      "published": "2026-08-12T19:00:00+00:00",
-      "summary": "Opinião - Drauzio Varella: Retirada preventiva das tubas reduz a incidência de câncer de ovário&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVlV6VnIzVkd3UlNsUmRta3dCaWVSNm9aUGE5Uk1TcFYwSWU4OXYwUDBmcnEyZFJQYTF1cEZaSmNBQ2pLWm14MVRIRXZvY1pteWxrbGFEMjgzNkZFZDc0U0tTWUEteVM4NmFCSUVRY3hjV0tkTElhZ19USGVaVGVab2lBeHhiS1hrQzEyTjFRRGVqX0tIREl4MXpXcmhXRXBaRjZkZGl6d1pRX0xBMmZCNVBQRmxSdzlsRC1qNXdUc09IU2ZsazVHYm1UaUJKdHhY?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c2450e138ff9",
-      "title": "Plenário aprova em 1º turno novo protocolo para diagnóstico de câncer de próstata - Portal da Assembleia Legislativa de Minas Gerais",
-      "published": "2026-08-12T18:17:00+00:00",
-      "summary": "Plenário aprova em 1º turno novo protocolo para diagnóstico de câncer de próstata&nbsp;&nbsp;Portal da Assembleia Legislativa de Minas Gerais",
-      "sources": [
-        {
-          "name": "Portal da Assembleia Legislativa de Minas Gerais",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaVVtQXhLTlh2Z0l1emdXR19GT3VTM2IwUWVPWnl1VnRWWGQwS3NHUE5QVmNKclpIQkplWkpWRDdVemlramNGNmRqOFdWSnFLQnE4c05nX1cwVnVIYzZvTldMLWwtWEowTnVYcFdnN3l3eW1UTDVqOVU2cmNNby1LdjFjWXFranNDQm5nZGszSFlQcmU0Qmd4bmQyVmZLOXRrTFVZNnAxcENkVXVuUzAxTEJVdFVpdGpwWlVwbzR0UnM5eHFCSk1TZndzd245UHhP?oc=5"
         }
       ]
     }
