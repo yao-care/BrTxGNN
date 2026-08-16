@@ -1,19 +1,115 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-08-16T06:41:23.669360+00:00",
-  "total_fetched": 90,
-  "unique_count": 87,
-  "health_related_count": 29,
+  "fetched_at": "2026-08-16T12:40:52.856222+00:00",
+  "total_fetched": 94,
+  "unique_count": 89,
+  "health_related_count": 30,
   "news": [
     {
-      "id": "47b533383261",
-      "title": "Surto de sarampo leva São Paulo e cidades da Grande SP a ampliar vacinação contra a doença - g1.globo.com",
-      "published": "2026-08-16T01:35:42+00:00",
-      "summary": "Surto de sarampo leva São Paulo e cidades da Grande SP a ampliar vacinação contra a doença&nbsp;&nbsp;g1.globo.comQuem estiver de passagem por SP pode tomar vacina do sarampo, diz Padilha&nbsp;&nbsp;UOL NotíciasCepa de sarampo que circula em São Paulo veio dos EUA e Canadá, diz ministro&nbsp;&nbsp;VEJAAnvisa rebate fake news de que vacinas no Brasil são experimentais&nbsp;&nbsp;MetrópolesAlerta sobre sarampo nas Américas reforça importância de intensificar vacinação no Brasil — Ministério da Saú",
+      "id": "5ec457be1499",
+      "title": "'Estrela de buraco negro' pode ser novo tipo de objeto cósmico; entenda a descoberta - G1",
+      "published": "2026-08-16T08:00:45+00:00",
+      "summary": "'Estrela de buraco negro' pode ser novo tipo de objeto cósmico; entenda a descoberta&nbsp;&nbsp;G1",
       "sources": [
         {
-          "name": "g1.globo.com",
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaFh2RkJwWjZUYnI0RVRQRXVPU0VSZzdQckFmTjlNUjIyRHIwcFU2SU16UEh2X0wwU0ptVl9hRU9VblplcmZxNGVNRFlSaUdiemtTT0lZb2lva1FoQmp5QXg1WWpUcFpBUXF6ejVvNjAxdGxCLVV0Mm5xb3dWbzBsajFfVXBEcG5nX2U5d042SHRmWXFWWG5OMDFDLVpLYWRkQU1yeXJIczRRSmNiQWpRakN6VXM1QklfNm9OdFhJZ012M204ZVpSQUJLMThqaldC0gHfAUFVX3lxTFBSZTFxTElsUXJhNU5EWGE3MG4xWlk2TlpFNXZRWF9vMzhxMEVpcTYwUG9XTS1ubHlYMDJ4cGpmU1Q4bnV6b19wV01BQ2ZxOVhXbGVabWk3dzQzZUVfSXJKajRqWXdpV0Nmem9hWDB0dnhDY0N6eHIwMUttV0J3MGRVYlVHU3kzZ0xKblcyWFlvQWVYdXlETk5yYWw5UE9fdmlVSzFrdjdYTVVDb1JpX0VfcHpVZlVuRWFveFhkSWo3N2lJSURIc3pzMGt1R2dKaFVRUXplZzJ2TERrMW5rSEE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e2245d73d08e",
+      "title": "Está na meia-idade? As 9 coisas que os especialistas gostariam que você fizesse para aumentar a longevidade - O GLOBO",
+      "published": "2026-08-16T07:30:32+00:00",
+      "summary": "Está na meia-idade? As 9 coisas que os especialistas gostariam que você fizesse para aumentar a longevidade&nbsp;&nbsp;O GLOBOMente aberta, vida longa: estudo mostra um caminho para a velhice saudável&nbsp;&nbsp;VEJAQuem você quer ser daqui a 5 anos?&nbsp;&nbsp;jornalosemanario.com.brA expectativa de vida poderá chegar aos 194 anos; especialistas sugerem a manutenção de 4 hábitos.&nbsp;&nbsp;Vietnam.vnHábitos na meia-idade influenciam a longevidade e a qualidade de vida&nbsp;&nbsp;Agora RN",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSW9COU13cTR3eG5URXBkeVNCVVJTU2VtUHZZX0JDdGY0RHZkUE9MV3M5WUZSUjJnYV9Ua3F6T0FhVDZ2SmtFWlJ0cVNtbkpSNzR1Z1laVEtUb0hSUWduRWxuQWZxNkY1NWZEZUJ0NThvazNfazBJVERiT3ZxZVBvcWVfSVh1aDJrNGNnZ2xSYWtlbXJfQV9VZ1BaWU5qV2xkTG1YR1ItUEpCV0RiOHBaZHBTZlJCTktsLURWU0kwVHdQSnVHZWQyZFM5aklfblVfVE5sa19ZUmptcGhKUXNyXzBveG9ZSW5FQ2dFRFViSGtYTzlY0gGDAkFVX3lxTE1oczZwMnI4X1l4WVlreGk0cVd5N1Fhb0NsLWxHMEwxZF9tU0xIa2tZZGR5Ym5FTmZ6U1VRZHN6ZHBWSGZNaFoxMENJeGhuaGtRTkg1OE5JYmppejl2TC1KZ19DeWU3cTFta1I1ZVVSZW9iaVlReHdCdHdLZVVoN09jWElpOEdNZHhQQTBESmlueVlpYnFJdHZ3eXZVTnRTS3pQNzlCampZMU82ejkyR1N4RXZZT29MTlJhNTBKNEZqRjAycVM1aEtLSjlVYTBpd1BrTWhRUnppenZhbkFVLVQwOFdfMkpuYmNEVm85cWdvem9fdkxfa2haQlhsTFRnbUlhaW8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0c9141a5cb4b",
+      "title": "Tudo bem comer as mesmas coisas todos os dias? - O GLOBO",
+      "published": "2026-08-16T07:30:17+00:00",
+      "summary": "Tudo bem comer as mesmas coisas todos os dias?&nbsp;&nbsp;O GLOBOFaz mal comer as mesmas coisas todos os dias? Veja o que dizem especialistas&nbsp;&nbsp;Folha de S.PauloComer a mesma refeição todos os dias faz mal à saúde&nbsp;&nbsp;Agora RNTem problema comer a mesma coisa todos os dias? Especialistas avaliam&nbsp;&nbsp;Estadão",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOckYwMmROQVdoVW5jbjVWb3lyc0lMQU1ycWpESG9LcHNhMF9wZXpKYm5zVmlDMF9XcngtNGFmcDlqUEo2Q1I5dzhDeG9hU3VIRW5zT3QzSENieEh4R1VkeVk3cm9FWG91a2NKalFJWGRWWVViMy1MTGVSeUxXN1VhYjhwMVNMNWxkWFVjYlA2ektaQTc1WXpIck84V0xDSUxSSlhr0gGyAUFVX3lxTE1RU3V4YlNZemtLVkdlQms5dklJVVJmTWZ2MzRqMGxfUURPQzJmQkVZak5pT1FDdFRwNVh6ZEk3SmxPTUttZjQ5N1pYUjZ5OFNZdlhMbVJXN29wSXUwejBUMl9EX05vRTlZeTdXNl9PdnFPWVB1aTk0b2NxT21fWUtGSzJGcUUxRjlsOGYzSE40Wms1MnlFYWt0NmtwSGoyRV9VUTg3cnIzLWVrTHQyd19nLUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2b2842ccc02e",
+      "title": "Entenda nova ordem de Trump que reformula vacinação infantil - CNN Brasil",
+      "published": "2026-08-16T07:18:00+00:00",
+      "summary": "Entenda nova ordem de Trump que reformula vacinação infantil&nbsp;&nbsp;CNN BrasilVacinas causam autismo? Especialistas explicam o que a ciência já comprovou&nbsp;&nbsp;TerraComo nova onda de ataques às vacinas gerou efeito reverso nas redes sociais, segundo levantamento&nbsp;&nbsp;BBCO que a Folha pensa: Obscurantismo antivacina avança sob Trump&nbsp;&nbsp;Folha de S.PauloEnquanto Trump e os Bolsonaro espalham discurso antivacina, Brasil reforça imunização&nbsp;&nbsp;Partido dos Trabalhadores",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVm93YUJGTDFMT0dnOTZIc252bHlrd2NXcFVVQmZrYkxKOFU0UHYtM1JrY3NiNWpuWVVtY2RFbXRYcGlMN3VNZ0oydXd3NzhXRVNDWGxtLWMtYUVxWmk4Mm1qSkltTHZnR0JGamRlbU5xLXg0WVBBejZ1VGZwZDdKZ3JtbHpmZkRjV0JQdXdGT0JCM29JNjlqaXR2R0ZLR0Z0b2xzb1VJTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7e41c996f47f",
+      "title": "Esquizofrenia: falta de enzima na gestação pode estar ligada à origem da doença, diz Unicamp - G1",
+      "published": "2026-08-16T07:00:41+00:00",
+      "summary": "Esquizofrenia: falta de enzima na gestação pode estar ligada à origem da doença, diz Unicamp&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQRXVnUkJJZ1FOaEpnQmV6WVZCODU1Z1RhNnJkQ05WTnhyT0M0bmlTMEdlR0dGWEl6dFlNMkpnMnF0UWRKT3FJSUdDMnZ1YnM0Rk9ONVBuMnotbDB6YnNrWmdMcWJkZG5CNFdZb3JlVjZjUEhGckZfRHhRcHE0RWVDQUlvUFoxcXY3UGswcmV1WkM4T1dOQUhPTVQtQ2tNTkVxQ2V0TkNta0NWVFUxcUxfSkFmYWR6LTZXYTBnenpwaVR3Unl3VUxMYXhuYVphUEhoZDJhbUxMeW1aNzZTXzg1ZmdtOEh2WDRlQ2Y40gH6AUFVX3lxTE12TFM3Qm12RlpIVlIwZGlUc0lmVFFSdlRVblpOVTlYR1dma016SUQ5d21vdTAxQnpNRmsxd0J2dklNYm1EQjNfdE5YNG1pQXhTbG9qTjFoOGdscXhhVk9SNG1nS0NESkg2MkFWQjV6azdJYVVIc1RJU05mLThuQ3Y0d29ZVVBIcGRyVzhSQzZwS0Jvc1htWjYwYjQzX2pJdUppU3hXd1FSQkg1eFU4bVFPNlFKdjVrcnhRdi1vU2tycWl6ME1kM1VHTzBINXFwTERmeWM4RzhackRLcEhxeXA0QUYwaWRETG5MbW9RT2ZXMGRXUGE5TEpRWFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6beaabb2ed5c",
+      "title": "Segurança para quem pode pagar: como o risco climático inflaciona aluguéis e expulsa moradores - R7",
+      "published": "2026-08-16T05:00:00+00:00",
+      "summary": "Segurança para quem pode pagar: como o risco climático inflaciona aluguéis e expulsa moradores&nbsp;&nbsp;R7",
+      "sources": [
+        {
+          "name": "R7",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQT09PbFhQYlE3akNMSW83b0VDRkFDNEdnTHgwYTJtWWYteWlMVDhSSTlPanB3dHNPaUNReWExNTJFOFNfdGFueGZHZFRuaFlKOEpObWd1S0RLRnZ0M1ZMTEtHOHlpbGpIS2Q3WnRqek9DWHlPV2ttdGh5VjJtVUNzcVdHbURLb1ZnTi0wOEFHVFhOMHo1aHNCalpKc3NfT0ZNUnd4STZsVmRtRHpKTFVCTGpGbDBVeF9DdTZkeWcyNUpKSU5WMjhsYnhFWm8wUmhN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e6d14b7c1932",
+      "title": "Surto de sarampo leva São Paulo e cidades da Grande SP a ampliar vacinação contra a doença - G1",
+      "published": "2026-08-16T01:35:42+00:00",
+      "summary": "Surto de sarampo leva São Paulo e cidades da Grande SP a ampliar vacinação contra a doença&nbsp;&nbsp;G1Sarampo exige atenção a sintomas e vacinação; saiba os sinais&nbsp;&nbsp;Poder360Ministério recomenda vacina contra sarampo a quem visita São Paulo, São Bernardo e Guarulhos&nbsp;&nbsp;Folha de S.PauloCepa de sarampo que circula em São Paulo veio dos EUA e Canadá, diz ministro&nbsp;&nbsp;VEJAAnvisa rebate fake news de que vacinas no Brasil são experimentais&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOc2c2UEJfVE9MTlZFN2JaR0tPcndOMEhZQ2lUcGRJOFd4VHhXQ0RLUE5SNjl3ZWhBa21pZWd1WWpUck1vb3VNVDIybVpXUWdEekdSNWwweF9DR1dQYUFMUHZNaUwtdVFOS042YWM3UlZvOU83a04tZWVaclpvNnVWT3pJZ29nZ21WV2k3dVZvVzRWTXJFNWRrQUtlMUtlejlmeF9OSlloTnNUcTRfRUc0UzV1QnZiZExlYXlCRDhWZy1iVW5mTDJJSE9Kc2piSTZZZ1hxZV90NDBGOVJUX3JvSFBnX1ZPLTDSAfYBQVVfeXFMTkZQQ3A3WU1kTDlvZTJHNXdLUnlQRGZYY2JUVFV4R09CQmlMQzlYQ3A2ZjhwSjhiR1ptUWZGRzhiZjVMV3VybTFUMFZjSkhEdUdPaVdLa1NJSHE0dkJ5RC14V1Z4MHpwb29Gd3dMc3owcWRraWJMWU9OZXFneUFnT2VnYXhxeWFjQ0xwR19FSDJwaWthaXpOdXhaQVdwdF9INWczWDI3LVNqbU9OTThIMWZCRlVwS1ZJd19lS2VYZWdyaE5lUHozdllvcUVkS3FVRl9tamVidXJXMVhrSDFjR21YUHNaVXk2TG1SSlVLX25xbkx1RE9R?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1f831db0b7aa",
+      "title": "Estresse na adolescência causa alterações duradouras no cérebro, aponta estudo – Notícias - Porto Alegre 24 Horas",
+      "published": "2026-08-15T23:49:00+00:00",
+      "summary": "Estresse na adolescência causa alterações duradouras no cérebro, aponta estudo – Notícias&nbsp;&nbsp;Porto Alegre 24 Horas",
+      "sources": [
+        {
+          "name": "Porto Alegre 24 Horas",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaEtuWHdpWFpMLVl6SzN1NDZoME5TRnVhZGZlTkhzUFN4NFZpMHF1NnJ4SzZxbFNhUWllWjM3YmhVVWlFVlZUNThTdlFOTDVjWHFDR1NSWFBwcXhveW1nUl9uQW9OaFpaUHJMa2xuRUhIanFxOEVmQjhleEFObm5wSjFCekFYVkNtcUp4bGIwaE9GdlRmODJCU3R6dDM1bVIwTExIRVJUcmFnaElGa0RQZjlxMXllbFFWd3RVbHN3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7b6b1aa8bf21",
+      "title": "Beber água demais sobrecarrega os rins? Médica esclarece dúvidas - Diário do Centro do Mundo",
+      "published": "2026-08-15T22:39:07+00:00",
+      "summary": "Beber água demais sobrecarrega os rins? Médica esclarece dúvidas&nbsp;&nbsp;Diário do Centro do MundoVida boa: relembre 12 temas do projeto focado em alimentação&nbsp;&nbsp;O GLOBOA maioria das pessoas pensa apenas em água quando o assunto é hidratação, mas é importante variar as fontes para também repor os eletrólitos&nbsp;&nbsp;Tua Saúde“Beber dois litros de água por dia” não garante saúde se a água for a errada, diz especialista&nbsp;&nbsp;Bem ParanáVida Boa: qual o melhor jeito de consumir á",
+      "sources": [
+        {
+          "name": "Diário do Centro do Mundo",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdW1FY1o5aG4wSDYtb1lhVVMydDQycWVJdUEwcVp1ZDJCNjhXSThkdk5ZZVZ0VmtpN0N4MXRDdzNvTHN6aHdObUlBMnRxY1R6aTZKVTJsNkVDd1lLNTMySWNoNVNZRE9WS2RISVM0TnlWbW9NcWcwNng1azFMX01ta2hBSzBUcnFobGhranlOMktfeWxE?oc=5"
         }
       ]
     },
@@ -30,14 +126,26 @@
       ]
     },
     {
-      "id": "f7ffdaddbb44",
-      "title": "50 mil toneladas de água do mar foram bombeadas sobre o gelo: o experimento que conseguiu criar até 32 centímetros de nova camada no Ártico - Revista Oeste",
+      "id": "cec22e0a2508",
+      "title": "50 mil toneladas de água do mar foram bombeadas sobre o gelo: o experimento que conseguiu criar até 32 centímetros de nova camada no Ártico - revistaoeste.com",
       "published": "2026-08-15T20:35:00+00:00",
-      "summary": "50 mil toneladas de água do mar foram bombeadas sobre o gelo: o experimento que conseguiu criar até 32 centímetros de nova camada no Ártico&nbsp;&nbsp;Revista Oeste",
+      "summary": "50 mil toneladas de água do mar foram bombeadas sobre o gelo: o experimento que conseguiu criar até 32 centímetros de nova camada no Ártico&nbsp;&nbsp;revistaoeste.com",
       "sources": [
         {
-          "name": "Revista Oeste",
+          "name": "revistaoeste.com",
           "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQWGZ1SElrUjZmdmVOSEhUOFJUdWVGMWhHeDFRN0dTaVdKbFFxcmxrd000VkZUWU5PY3ZlOHAzRmlmQmJ4MkxvaHRYN2EydXFfMm5YVEszQUNha1BFeDBzVllMdE9udDY4OHZvcHIyTmcxd0ZIcU1ndEdBWmZNaU15LWFiX2lJN0RueERKOHhlQjB5ZDJCOGpEUVVkbWJDSnAzaGw2SGNmNGV2a2VieXRzVmNHMG9JWU9kUFJGQUJ6Sjg2V3NSbmZSTHZCeC0wNDIzLTFYdloyNThCRkREMUpteDRSMXZTZTBkUUI5UXBJanlicGF0ckVaNUx4ZExqVlFBcEFJQVpGak4ycHhIaW1SWkI0dEo?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f1f6529f631e",
+      "title": "Bactérias do sêmen impactam fertilidade, indica estudo - DW.com",
+      "published": "2026-08-15T15:25:22+00:00",
+      "summary": "Bactérias do sêmen impactam fertilidade, indica estudo&nbsp;&nbsp;DW.com",
+      "sources": [
+        {
+          "name": "DW.com",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYWhiN1hOczdEd0ZJNV8wejlTak9WUUdRMnpGby1aRlBxYWpmU04ta0N0cXhyUTdtOHBuZEEzdHk4eGh5QkRnb3RMcDdtRHBueUNDWVZZQ0M0bThBcXZuVGtSMkItT0FrMmNjSGN6cmVySkkyUTBtTmtGSng3Zzd0S1AtOGtwQmtaRXFMTXFMZ1h3dU5WdnhVeHFMcEExOXZP0gGgAUFVX3lxTE1uU1VoczJFZkc2aWNDLVdtWndtSTYwQnN0S2J2cTFlVEJXd3lDZ0RzbmFUazh1c2RRd0FCWHNSQ2xodEdrWWN3d2N5NTN3SkFGZ1Vwb3p3ZmJwSG56c2NvNnhDNDRkQWZxQk9PaWVwSGh2XzZPOHZrVmZfdWZjWW1FQlJhMmNxb0xuMlZKVWstcmR6VjUwMExZVUZhUnlUejA?oc=5"
         }
       ]
     },
@@ -66,6 +174,18 @@
       ]
     },
     {
+      "id": "e7a47e611334",
+      "title": "O segredo da dracena-de-madagascar: como a planta que a NASA estudou elimina os compostos no ar que atraem baratas e pragas - Super Rádio Tupi",
+      "published": "2026-08-15T14:11:35+00:00",
+      "summary": "O segredo da dracena-de-madagascar: como a planta que a NASA estudou elimina os compostos no ar que atraem baratas e pragas&nbsp;&nbsp;Super Rádio Tupi",
+      "sources": [
+        {
+          "name": "Super Rádio Tupi",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTnRzcjNzOVExSXRMQW9ZMVgwaHhleEdfNGczYXl4Ylg0QjMxQW40ekpFbUZFMVlMZllwMm9ZVFpWVXV6OTNqQVB6WEFwU3dCeWtaOEMxWFlNVGdwTi1jY01xcWRnVUpYNGpFSmxkUmFnMmpQa1p5S2c0TGNXSHctWHZHbFlvMXN5MTBTRkYyaHVkc2tSMTBGdDh3UDkxZVRKU0Q3ZDNtS1VJcWhTcHBMbEp3TXpGY0o1ak80RjlpMG5hZlpLWnhrXzJ4UnJTeERIV3Zvdm1qNTZNajhpenBET0FmZDFLWUV6elUxNmZ4QQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c11fa0b0842b",
       "title": "Lua e Vênus vão dividir o céu e fenômeno pode ser visto a olho nu em todo o Brasil; veja quando - Primeira Página",
       "published": "2026-08-15T13:15:00+00:00",
@@ -78,13 +198,25 @@
       ]
     },
     {
-      "id": "ee53f5b234b2",
-      "title": "Por que os brasileiros adoecem mais, mesmo fazendo mais exercícios; entenda - Época Negócios",
-      "published": "2026-08-15T12:28:03+00:00",
-      "summary": "Por que os brasileiros adoecem mais, mesmo fazendo mais exercícios; entenda&nbsp;&nbsp;Época NegóciosDo sedentarismo à inflamação: 4 formas como a obesidade cria um ciclo que prejudica a saúde&nbsp;&nbsp;GZHObesidade cresce no Brasil e reforça debate sobre mitos do emagrecimento&nbsp;&nbsp;33 Giga\"USO DE GLP-1 VIROU SÍMBOLO DE STATUS E EXCLUSIVIDADE\"&nbsp;&nbsp;TV CulturaSimpósio Internacional reúne lideranças médicas para discutir avanços no combate à Obesidade&nbsp;&nbsp;Associação Médica Bras",
+      "id": "bd6e1e32e57f",
+      "title": "Durante quase um século, não conseguimos resolver enigma de Einstein: pesquisador de Madri acaba de encontrar a solução - xataka.com.br",
+      "published": "2026-08-15T12:30:38+00:00",
+      "summary": "Durante quase um século, não conseguimos resolver enigma de Einstein: pesquisador de Madri acaba de encontrar a solução&nbsp;&nbsp;xataka.com.br",
       "sources": [
         {
-          "name": "Época Negócios",
+          "name": "xataka.com.br",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUTdHNzFpY1FGWDZHdFhKbUFpVXVxM2dxSTl4djNwUGh3YkF6RHFhVTlrOEF4ZWwxTHFGTk4tc1gzUXJzNmhEQ1BiX0Q3RmZ6WWFDRzI0YnVpV0E1R0pGZEgzRjE4N3BQekJpcUtoUHJ2M2VPRGhfODl0QzYwYllyMEp3QjRFTHE3VjAyeVhHa0xTajlOdFFmMTVEOFdEd3BrSElYLUYyRDNOdzBka1JCY0xsajBURXlKaGdraXE1Ty02cnZWeDdSaUJ5dkYwc0o1b1F3WE44X01DUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9a1e294d85f1",
+      "title": "Por que os brasileiros adoecem mais, mesmo fazendo mais exercícios; entenda - epocanegocios.globo.com",
+      "published": "2026-08-15T12:28:03+00:00",
+      "summary": "Por que os brasileiros adoecem mais, mesmo fazendo mais exercícios; entenda&nbsp;&nbsp;epocanegocios.globo.comDo sedentarismo à inflamação: 4 formas como a obesidade cria um ciclo que prejudica a saúde&nbsp;&nbsp;GZHObesidade cresce no Brasil e reforça debate sobre mitos do emagrecimento&nbsp;&nbsp;33 Giga\"USO DE GLP-1 VIROU SÍMBOLO DE STATUS E EXCLUSIVIDADE\"&nbsp;&nbsp;TV CulturaSimpósio Internacional reúne lideranças médicas para discutir avanços no combate à Obesidade&nbsp;&nbsp;Associação Mé",
+      "sources": [
+        {
+          "name": "epocanegocios.globo.com",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVWpheXF3VWJHUzNXN3ZibExKQ3hTNjBqQjQ2ZG1tbFIzTXpIV2FpYTVxVTF5a1Y5cjFjN1VFMDFLcGpLUERPTDF6S25oT25NZ1JZTnB0VmtWZHNvVEtEb2ZxdDF3T3JsaWQtdm1YelZjM2dPUGg3SEJYMHRTYUMxX2kwZmI3Wi1QWTRDeHYwZ1pOcExzVDdFeEFzaEo5UUJHcTNpVUs1UFpXUG9kT1NTLUdrdEFfWHM4Rm9uTzQtSkhZMUdDMmFfYy1PbWh0TFHSAd4BQVVfeXFMT2pUY3pCaS1UUDlXcEJmX2pGZEt4R0s5Q0EteXNBc185M0l4ck9GYlVEbUNvR3JReHFJWGxycW14cG9jbmZFYVg4QURFNHdNREdxcG9YLVRuaFM3c1RzXzZQT2tyZ21Xd1hTelBsQ2dhNTdRTUdNXzVGRW9hTi1BUGJua2Zzc0ZNanBMa050NjhRX3g0QkRhY0l4Q3hPR0ZqN2NLMGJaU0huXy1tb2dxUkM1VXFYLXZfVFdvWEwxYTFsWjJ6ZnJHUk5McEstanEzWVV4MTMwX0FlWlhLeU93?oc=5"
         }
       ]
@@ -114,54 +246,6 @@
       ]
     },
     {
-      "id": "699b1df0288b",
-      "title": "Beber água demais sobrecarrega os rins? Especialista esclarece principais dúvidas sobre hidratação - O GLOBO",
-      "published": "2026-08-15T07:30:31+00:00",
-      "summary": "Beber água demais sobrecarrega os rins? Especialista esclarece principais dúvidas sobre hidratação&nbsp;&nbsp;O GLOBOVida boa: relembre 12 temas do projeto focado em alimentação&nbsp;&nbsp;O GLOBOA maioria das pessoas pensa apenas em água quando o assunto é hidratação, mas é importante variar as fontes para também repor os eletrólitos&nbsp;&nbsp;Tua Saúde“Beber dois litros de água por dia” não garante saúde se a água for a errada, diz especialista&nbsp;&nbsp;Bem ParanáBeber água demais sobrecarr",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTmpOWXZ2MXV6MUtzQnppd3BvZmltd1JXWmR0WWw2T0FnaURITHJzMUtCWm5HcERzOHVqS0dPOFRBWXpKWkR0LXZFTHktVkRHamE5c0NJU1RlaWVoanFhcWFsRTBRdU93SlFlTnpOZEdGWHNiSGpVMS1ERVNNMnFQSDhjUkI1SXByMWxfTWlaM01HRXZkOGlIaGZUanJmemVWVl9IQUMwN1ZLWkcxcldKR2dYb1RmWWVjUHYtZ21XR2ZUQk1ZdjFWT3pJVXJVNXN4TmhFaXAyTlg4N0N4MGh6VTlGeEdXNEXSAfYBQVVfeXFMUDhjaWN4QUN0Tk5ZYW5vem1XYzhBaWZzQTFRUkVKSE5lbzRLekUzSDh6RjBGc0FZdmtJS1d5OU9YQzh6VGpHamlDWmdKUG1BR2NXdnRadXJaalFQcWNDb1pOLUlHVncyWHlCWVJ4U3Etdkw5Wk1KNVU0YUxORWdld0VsbUdyMlAzd3Rsa0RvTDQxQk9NQ0xNRTVxTUNfTUFseTQtbEdyZWpZSUFYVkN2dHgxUEJYeXMwcUx3Vm5nb19WR01YQmZUdDJtWG9lVHNGVFdfejdhUUlHVTM1SVF4eTA0bk9QbUJqVmxHNkpFZXU3dGxIQXh3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "43a68c1b86f1",
-      "title": "Gastrite: como proteger seu estômago para evitar complicações? Veja 5 hábitos que atrapalham - O GLOBO",
-      "published": "2026-08-15T07:30:18+00:00",
-      "summary": "Gastrite: como proteger seu estômago para evitar complicações? Veja 5 hábitos que atrapalham&nbsp;&nbsp;O GLOBOPrisão de ventre alternada com diarreia por semanas nem sempre é intestino irritável: pode ser um sinal que pede colonoscopia sem demora&nbsp;&nbsp;Tua SaúdeMédico alerta para sintomas gastrointestinais e reforça importância de avaliação&nbsp;&nbsp;Rádio Cultura Campos NovosGastrite: 5 hábitos que podem piorar o desconforto no estômago&nbsp;&nbsp;Diário do Centro do MundoQuantas vezes p",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY3hpd3Q4alI1RU0weXBoOVFMNm5LRVotRzBVUTB6UGNVQTJmc2ZkbHRVRlpYR3lrdGNqS2V1OTNvNXR1eDNHWUdWanRMWmpkNWRpYTlQTmI5UHd4N1JjZHVOc3p3aTlxS2gyU1libVloZ25pak9KaUVUR3hzYUxENEExaFB6dGxRcjVncHE3bHhUZGFQdV9HUmNRU1V2OFFmOEpWRWNZcFZWSW5iNHBxZnpQWkQtQk1vakxmalI0WGtfRU5Qa1BvdllYRUFRb1c5YjQyVXM0VF9GZ2ZMSW1J0gHuAUFVX3lxTE1SUFZYOUJQdW93ZnJiOVFFcXE0eXVOYXNDZFlRUGxaR1YydW55ZHF6QkxxVkxDUTBsN2RRakQwYjM4SFVva0FtNUlQOWpOdzZZYmpTeGhFV2FKLU9hSF80MVlKYlZLbWxEUGVYR1ptcGUteS1RRzdtWS1neVJ2amZ5aXJJOGxUOWpYaGgwNkRJaV83VzNuTlVxNXEyczFIei1pMjJwekxHOVVEMzRVSGphcWZBSzZLd2lJZGZIWVA4dGdmYjlwRW5NMmYxdGV1aExVZmMwX19oa2ViMGsyZzliNjlHVW9Ec0w5SHBLNmc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f026da5922a1",
-      "title": "Casos de bactéria ‘comedora de carne’ aumentam com aquecimento dos oceanos - g1.globo.com",
-      "published": "2026-08-15T07:02:01+00:00",
-      "summary": "Casos de bactéria ‘comedora de carne’ aumentam com aquecimento dos oceanos&nbsp;&nbsp;g1.globo.com",
-      "sources": [
-        {
-          "name": "g1.globo.com",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQTd4VlB2NkxoSk9FdzRYQXBpbUxSUTVTU01CNlVGelZCNHlOWDZvaENFbS1HTGc5Q0h4SGhTS3RES1R3QnpubEJCSGdRQXYxa3dtb2U4OEpGbFVTWnFQMndXdzdwMVlXMFQ5UWt0QUNDUFZ0Y1JkRmhTTG5ZTlBPaERRenp1bEVsbmJKblNaMmxMa0JZZE5PZ214emxoMmFyWE9zVUtBTmd4Rmt0ZTBUb1dHTHA2STJmajctLWZIUmowUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f1f6529f631e",
-      "title": "Bactérias do sêmen impactam fertilidade, indica estudo - DW.com",
-      "published": "2026-08-15T06:59:59+00:00",
-      "summary": "Bactérias do sêmen impactam fertilidade, indica estudo&nbsp;&nbsp;DW.com",
-      "sources": [
-        {
-          "name": "DW.com",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYWhiN1hOczdEd0ZJNV8wejlTak9WUUdRMnpGby1aRlBxYWpmU04ta0N0cXhyUTdtOHBuZEEzdHk4eGh5QkRnb3RMcDdtRHBueUNDWVZZQ0M0bThBcXZuVGtSMkItT0FrMmNjSGN6cmVySkkyUTBtTmtGSng3Zzd0S1AtOGtwQmtaRXFMTXFMZ1h3dU5WdnhVeHFMcEExOXZP0gGgAUFVX3lxTE1uU1VoczJFZkc2aWNDLVdtWndtSTYwQnN0S2J2cTFlVEJXd3lDZ0RzbmFUazh1c2RRd0FCWHNSQ2xodEdrWWN3d2N5NTN3SkFGZ1Vwb3p3ZmJwSG56c2NvNnhDNDRkQWZxQk9PaWVwSGh2XzZPOHZrVmZfdWZjWW1FQlJhMmNxb0xuMlZKVWstcmR6VjUwMExZVUZhUnlUejA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5790c465871c",
       "title": "Aos 14 anos, brasileiro se tornou a pessoa mais jovem a ser aprovada no ITA, colecionou primeiros lugares em Medicina, Engenharia e concursos militares, chegou aos 16 cursando duas faculdades ao mesmo tempo e agora entra para a lista das 100 crianç - CPG Click Petróleo e Gás",
       "published": "2026-08-15T05:21:00+00:00",
@@ -170,18 +254,6 @@
         {
           "name": "CPG Click Petróleo e Gás",
           "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPeDVpdlhGMWVRU1h5N1ZsNWtLMl9iaHdpWmFtVDQwNTlXcmFxNHZ1U0VoWk80dlM5bGJVM3JxNmUzc1lVbmRaWkFNVlBHYmRDTTlvSzZFelkwWFlpcFlnbkFZVDdobXhhZEVHbFYxUEZjd2MzM21KeVM1Wnp6VWJQMl8wam9CMDg4ZW5DSFpqQlZlaU9udHBDc3ZPNE1ydW5ybXE2a1l3d2dBdVdmdXRlNVZkZ2JDT3Z1Y3c2MDJIX1dDSUp1RWpOM1d6VG9QcXF5Z29GTGdlcXNZN2hSeVlCNmNQVXFJZHFBTWZuY3I3NUlxMGhtQ01vU3RfOXhGYW1FRUxoS1RjbW5GNlFJUGFTN3lUY3BRazRLajdkeDJ5azlpUm9zZ1VwMW15M1I0Y09ULVpfendGUHZQd1dhdU9FS2tPSl9Vc2c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fa68396f6915",
-      "title": "Crise de riso leva menina de 9 anos ao hospital em MG e mãe faz alerta - Metrópoles",
-      "published": "2026-08-15T05:02:00+00:00",
-      "summary": "Crise de riso leva menina de 9 anos ao hospital em MG e mãe faz alerta&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNHlhMGtIY1c5ZnpMMmNXRU9uU2hYTC16NVpGOXpmMXVGTE5CWmtka1NvUHl6YWQxRmVja2pqdmV5azBHNEJSSnZUaVlXdVBDQ3JibUl0c25wek1adjlaLVRhR2U3eW5fQ2ZpdU1CWmpzbHA0cWRGNHVLQzN2YlQwVS0wd1NyTGNlbzNvOXpkdWZGaHVIb04tS09xT1pxWkx4NUZzMlVhOUJBdTNpRlI0?oc=5"
         }
       ]
     },
@@ -198,26 +270,14 @@
       ]
     },
     {
-      "id": "2457ae780cd2",
-      "title": "Cientistas argentinos estudam uma bactéria que poderia proteger o trigo de uma doença perigosa - Meteored Brasil",
-      "published": "2026-08-14T23:48:00+00:00",
-      "summary": "Cientistas argentinos estudam uma bactéria que poderia proteger o trigo de uma doença perigosa&nbsp;&nbsp;Meteored Brasil",
+      "id": "dc5d9a8e4336",
+      "title": "Estudos psicológicos confirmam: as pessoas mais apegadas aos seus animais de estimação desenvolvem maior sensibilidade e senso de responsabilidade - Terra",
+      "published": "2026-08-14T23:55:00+00:00",
+      "summary": "Estudos psicológicos confirmam: as pessoas mais apegadas aos seus animais de estimação desenvolvem maior sensibilidade e senso de responsabilidade&nbsp;&nbsp;Terra",
       "sources": [
         {
-          "name": "Meteored Brasil",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZW9Cb1pWR3ZlQ3V3dHhsaVlLaDl4VzJXRzJuLWQ3UlBkN0dteG5TWEo2T1pfb2FXT3dIMDRWazB4Wm5oRjByUmJRLUxweVpBT1ZkTmphU0tuYy1tbUFCcGx1NHpoWlBPNjIyNVNMYzZ1Q2h5UEhvRHNxbWs1Wm9ncmJwY0dma0FrZGdMWkRjN0g0VDBNTWNKOC1ndkNZNlUwa1hBY2xfejNydjlKRHAwYzBQbG5zM2U5VHJ4RmFvUFFEZ1dZdk1oVU9QdVZMdFdNS05uYnFpajRiQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "acb120f912ab",
-      "title": "Estudos psicológicos confirmam: as pessoas mais apegadas aos seus animais de estimação desenvolvem maior sensibilidade e senso de responsabilidade - purepeople.com.br",
-      "published": "2026-08-14T23:35:00+00:00",
-      "summary": "Estudos psicológicos confirmam: as pessoas mais apegadas aos seus animais de estimação desenvolvem maior sensibilidade e senso de responsabilidade&nbsp;&nbsp;purepeople.com.br",
-      "sources": [
-        {
-          "name": "purepeople.com.br",
-          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPNUdkc1JWRndIQ0FYc1U5cHhkZHk5eWlwTjVpUWJNTUFTZk1VWHNsWW9qby1lNmUzQWsxU0ZITVhhR1dCT0syckVaVUNweXdGdXNmbmtkY1JKLWZtY1c4RHFWaFN2eTc1QkhXOHZPdVpzNDdCYlhZSGJFekRnT2l0T0hDRzFYZW16akphWjczZS1zUXhRLTEwelJaNjNyZ0JQc1VtcXRZcVp0QlVHTlJzanlzc0d3U2x0LTY5RmdiaHpwenNGSjJwLXFqby1ZTVNWcGFJVV9SR2JJWnpGdkhQWl9sY3JQTGNHajJnc0dYTHJmYTdROWVhYmFiWEp3dE1MTHBWT2FhWlFEekdtRllaZ2oyV0pIQl83a09VZWNweVJodU3SAagCQVVfeXFMTzRIblA4QVA1YWI2dHlxVkE4endTR0d6RHJ5ZlAxSVJ1eE1QRDBBc2MzQVN1X0lMZWRBZTZubk1IaUF2M3dCdmt5YTZfbmZEbzF5Uk40WFNlVnNORjRXWnhZOExqMUpRbUNPa2RubFc4OEdINF9WcnV5T0kzU200SjJIajNkZkVtVGxBVDBCaldud3pFUFpLRmNKWl95VDJXVEo0UGJ3cVBkZG9LRTFGWU5DUFlhVVV6dGhpdHFRNk1KS3RiWUxDbDQtazlHZDZNVkRxZDQ2bVBBb2xCZE12Z2QxWlBsbHBvZ2tOb2V3V21rSEpBVWJFcEJERlRjQVVxN1BYdU5TVy1vNUg5Z2hxUi1Bc3RvQkhQSkpfakhldG4wYmNkQ0xyTEo?oc=5"
+          "name": "Terra",
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOVS1GSTV1emNxRkZtcGxjbW5Ec2l0djZqeTlQSVRuTGhmdmxqa1R5RG41TFFxMTVtTnh4aTZ5T1piZ1Y4R1lBdmV3Njl5Mm1naV9zc0ZTbVI3enRfbkdCNGlXMmxBMzlHTXl4OEI0ZFZhWHhEUkJUMlo1RW93SGJPb29yLXFlR0I4OWJXeXJTVExOY251MzhCeUJDdkJYQXFreDFxajdtdkZhYUZNeHJKTkh1bmotVThuenRJblNVQXFPTmZHcUtMRmkyNUNWS2tFYTNJalNBNFIwVV9WYXlQd01Najh5a2NPMktlUU5hWGhRaXNEcU1oQndHRU5NTDFXMzBkNmhPT2RrcEZPcjFMZlJfMmJyeGxVcl9obDZPbGY0TEZ5S2VfdU1FcDlwZlpXRFdwU2lYQkFORXNGMG9WdkhuRl8ySHNndUxmNA?oc=5"
         }
       ]
     },
@@ -237,11 +297,23 @@
       "id": "ab24dfc9d3fc",
       "title": "Distrito Federal terá mais de 50 pontos de vacinação neste sábado (15/8) - Correio Braziliense",
       "published": "2026-08-14T20:13:00+00:00",
-      "summary": "Distrito Federal terá mais de 50 pontos de vacinação neste sábado (15/8)&nbsp;&nbsp;Correio BrazilienseDF terá mutirão de vacinação em 20 regiões neste sábado&nbsp;&nbsp;MetrópolesDF abre vacinação contra sarampo, covid-19 e outras doenças neste sábado&nbsp;&nbsp;Jornal de BrasíliaDF abre mais de 50 pontos de vacinação neste sábado; veja o que tem&nbsp;&nbsp;soubrasilia.comMais de 50 locais de atendimento oferecerão doses para diversas faixas etárias&nbsp;&nbsp;PDNews",
+      "summary": "Distrito Federal terá mais de 50 pontos de vacinação neste sábado (15/8)&nbsp;&nbsp;Correio BrazilienseDF terá mutirão de vacinação em 20 regiões neste sábado&nbsp;&nbsp;MetrópolesDF abre vacinação contra sarampo, covid-19 e outras doenças neste sábado&nbsp;&nbsp;Jornal de BrasíliaDF abre mais de 50 pontos de vacinação neste sábado; veja o que tem&nbsp;&nbsp;soubrasilia.comMais de 50 locais de atendimento oferecerão doses para diversas faixas etárias&nbsp;&nbsp;politicadistrital.com.br",
       "sources": [
         {
           "name": "Correio Braziliense",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTnhaTWxLQlcxYUxCM1d3TkRpX2tHbnFpUHRhTExMcTlYdlg3czZQSU9FVFpHTzZ1Zl9SbTlabjE0dW1fcVA0ZUg5NzhoSHZuMzVJcmpPUDZwV0xoMXRLZ1E5TUh2dHZNOUtxazhMUnlfZENYZFpsV0c3aDI4bUZGZmVaaTZ2MjBVVkU2YkNHQ2dhSk9XVnIteG5ZQkFKZ2ZCTlNWemxCOW1OcWU0MWxZRXlPMmk2YnpzRVBPd3M2dnVlcFRhaGpsSXhGQlZZcEZvYktjR1ktMNIB3AFBVV95cUxPY01EbndVSXpyd0gyelJBNDkwaDFoOGtGUkRrTkJsNlBJS1BiLTdlM0FmX1hTOG1la190enUtTGo4XzUwcGU0azVYSU5OX0xCMG5nenZXeFByYTFvNUpMaVlCNXl4RF9qazdJc1hTdUZ6MFotYW1keFlTbk1wYjZrUlVEV0FPbFFZTy13QW5GQXVoVVJ0bWtHMThWaEVIOEE3eVIycmV2SUJyOWkyNVlQcG5DYjZtNEI2LWh2dmVTaUpoWDBFbUJ0UVJaZVk3SG9GNTdLdFBuUlBwR3c2?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5e08fac4f5aa",
+      "title": "Cientistas encontram milhares de toneladas de lixo plástico em águas profundas e descoberta revela a dimensão da poluição marinha - Super Rádio Tupi",
+      "published": "2026-08-14T19:58:01+00:00",
+      "summary": "Cientistas encontram milhares de toneladas de lixo plástico em águas profundas e descoberta revela a dimensão da poluição marinha&nbsp;&nbsp;Super Rádio Tupi",
+      "sources": [
+        {
+          "name": "Super Rádio Tupi",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPOTZ2UnF1cFhyTkdLbWRxU3AxTE9WWElDOVFCNzA2S0U1a0lYUE1WcC1KQmRHdWdXazhJZnpBZmc0NFVIV1IyQTVBdnBVSFZITEduZ2FHMExSZjV4U2t1LUxpMVdxaGFLY2JIYWZ2MmdEUXNaQy0tbDB2VHMwZ0pzbWZSOW5MVUZCbXhFZWJmMmszV2dDQnJHMkk3LWcxVUF6dTdsS3pkMlJKVEIxTTJkdllnSDNIejZZWE9Xa2VncjdOQ0xHS1BXdEx6WU5CS0I3SjI5LWxjU0ZBZ1RqWmdUS1JUdXBvQ08tZTB4Yw?oc=5"
         }
       ]
     },
@@ -270,14 +342,14 @@
       ]
     },
     {
-      "id": "2f66f8704fd5",
-      "title": "Cobaia do próprio estudo, homem reduz sua idade biológica em 15 anos - Metrópoles",
-      "published": "2026-08-14T17:14:00+00:00",
-      "summary": "Cobaia do próprio estudo, homem reduz sua idade biológica em 15 anos&nbsp;&nbsp;Metrópoles",
+      "id": "2cd76573acab",
+      "title": "Estudo revela detalhes sobre colapso climático na Circulação do Atlântico - CNN Brasil",
+      "published": "2026-08-14T16:09:23+00:00",
+      "summary": "Estudo revela detalhes sobre colapso climático na Circulação do Atlântico&nbsp;&nbsp;CNN Brasil",
       "sources": [
         {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOVRheXhVYW0tVkhYbmxrNElydTE0eDNtQlJjemZFV21BZ3pYRXdKcExfcjhYYW1kYzdZWFd3SlhWOTJlWEd6VFFtaThSb01RUFBPS2ZFa1RObUswLWVUeHRzLXpyRFJhbVNBbVI0MDZQQTJOTjVFbmliQzJCdXZSTzZIZGlzTXR3eEJuc01icmJVZkJTX3hJa3ZTYjRsQVNnbmc?oc=5"
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZnFDS19ILVY5ZjNYSVB2bjlqSC1OYmlqcU1QZGdOcjRQdXc4NnJiX1UtenU1V0dqMFp2ZkUyOW83UndUVmNubEdkMXZQZF9sQXF3RXNQUlkwV1FZcXB3dnJCRkZPbGRYQmYtNHVHQjN4TFIyVzNLY195emVpNkJjX2FQTkhFQkdyRzB5ZkhkYU9PZ3ZHU2FSTDZIMk1tX1hqem5VTFZUSXVnWGpGVnBIVw?oc=5"
         }
       ]
     },
@@ -285,71 +357,11 @@
       "id": "7f64efd3d1c8",
       "title": "Correr rápido é mais benéfico do que corrida longa e moderada, diz estudo - UOL Notícias",
       "published": "2026-08-14T15:00:21+00:00",
-      "summary": "Correr rápido é mais benéfico do que corrida longa e moderada, diz estudo&nbsp;&nbsp;UOL NotíciasPor que correr rápido tem mais impacto do que correr por vários minutos?&nbsp;&nbsp;GloboPor que treino intenso de 3 minutos traz mais benefícios que 1h30 de exercício moderado&nbsp;&nbsp;gazetadopovo.com.brExercícios rápidos e intensos podem reduzir riscos à saúde, dizem estudos&nbsp;&nbsp;Correio BrazilienseCultura | Estudo associa exercícios mais intensos à redução do risco de oito doenças crônica",
+      "summary": "Correr rápido é mais benéfico do que corrida longa e moderada, diz estudo&nbsp;&nbsp;UOL NotíciasPor que correr rápido tem mais impacto do que correr por vários minutos?&nbsp;&nbsp;GloboPor que treino intenso de 3 minutos traz mais benefícios que 1h30 de exercício moderado&nbsp;&nbsp;Gazeta do PovoExercícios rápidos e intensos podem reduzir riscos à saúde, dizem estudos&nbsp;&nbsp;Correio BrazilienseCultura | Estudo associa exercícios mais intensos à redução do risco de oito doenças crônicas&nbs",
       "sources": [
         {
           "name": "UOL Notícias",
           "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYjREeHFjaS12Ujkyek1scHJWZ0VXalFESHFMbjRRWUVsdTBEU2pIQ3hrWmo5MkU5ZTZaMEFVSTNFM0FDRXcxUTFaTnFSbXEyeW9JNVBxcjI3ZGE3bFh1VzZNV0lkY19VcjFmS1BWcDFlak9mcnliMEp1VVduR2V4cDRqSE1TOVktWUNwcUVFT083SkliYnZmbkN2TGM2MENuc0tBbEJQVV9SaTlqdE1vMldQelQzaUZFRmYtX2x4TDRuckZoeUdIWkFMNUdYUmNUMkJ1SmxRSmpURGo5QnlR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d70cd5b46ebd",
-      "title": "Astrônomos descobrem primeira corrente estelar fora da Via Láctea - Olhar Digital",
-      "published": "2026-08-14T12:43:00+00:00",
-      "summary": "Astrônomos descobrem primeira corrente estelar fora da Via Láctea&nbsp;&nbsp;Olhar Digital",
-      "sources": [
-        {
-          "name": "Olhar Digital",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNamJVUXFJUlRtcEdVTkpSWERDaTc5QVJBWC12NnBhcndHZ2lmRTF6Zm5UY0JTemRBYW1pQVBzM3pMSU9TeFdyQlF0RkpCSjFESjJUSHpsZ1ZXWkhwcmRxc3dud3NhMVllWHNic1BDc1N0aVBpOG1keXhPSDVpRHhxUW1CR0hiVDdDMHctVXV4dEFNSmRSV1k1MVFob2lDb2U2c1RoYzFmbDFwQTVEUTlWRkVSUlBEV1FFVlNYVFRwWQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "732d6098cedc",
-      "title": "Estudo faz novo alerta sobre colapso da Circulação do Atlântico - MetSul Meteorologia",
-      "published": "2026-08-14T11:01:56+00:00",
-      "summary": "Estudo faz novo alerta sobre colapso da Circulação do Atlântico&nbsp;&nbsp;MetSul Meteorologia",
-      "sources": [
-        {
-          "name": "MetSul Meteorologia",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOWE2R2k3MllkaTVJMEt5UDRYeWE0QWd3RVMzdW1RMjVzTkxTbF81am8weEtsU2cyZUhCeU9RaHhxOVdwN3dOMkpIbWdoaVYxYzhlakVnQmpfVVgtQXZOWlFBVHFKQ2hpRWFJMXdZejNHc3NCeldsLTNEaTliS3RLbjFPWUVmNGttd1U0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d5172171ae73",
-      "title": "Peixe das Nuvens: nova espécie que só vive em tempos de chuva é descoberta no CE - Diário do Nordeste",
-      "published": "2026-08-14T09:00:00+00:00",
-      "summary": "Peixe das Nuvens: nova espécie que só vive em tempos de chuva é descoberta no CE&nbsp;&nbsp;Diário do Nordeste",
-      "sources": [
-        {
-          "name": "Diário do Nordeste",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORmFObHQ0T1YzQW02WWlFeUgyYXdHNjRZc0VoWXVzZWhsS2tfdXhnWkx5cmc0SXlTYnBLRUNGVk5hc0xWd0RNemgySGZSUGNuY1dxTTQwbS1udmpsWjQzU2k3SU8yMVRobUp6dFVBTmdQRXhHNVFSOS15R2kwcmVGckh2VGJrc1BMVTVVWGdDd09mVmdDMVN2dHBvNnFDWVdaSFVPY3dNMjNNdzZhNUhIV21uYWhpQURMcWQ2MkN6US1MaW9VejNRUklSd1dEMVN0WkdKdHJn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5a0493ec41c4",
-      "title": "Estudo encontra anomalias em 60,5% dos peixes analisados no norte do ES - conexaosafra.com",
-      "published": "2026-08-14T07:24:00+00:00",
-      "summary": "Estudo encontra anomalias em 60,5% dos peixes analisados no norte do ES&nbsp;&nbsp;conexaosafra.com",
-      "sources": [
-        {
-          "name": "conexaosafra.com",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRGNLdzA5ZVhlYzdUUGU5TDR2QjVoVWp3M1ZJZU4xVmZXUGh3NUZETFFvQk9nVC1hN2lDaEtCODNOOGdtajRoNFJTWUV1QjhIcTFoOXZLYS1fSk1vUDJacFY5cVFKTEJkcEFoYnNtcWRvd2ZpNi1INENKcjJJa19IckxBSVlXY1FLTnVhdkRyVC1qcHU1a3hZOUJrRFRTLTd5RWVB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f4a39530b7d5",
-      "title": "Técnica de vacina da covid abre caminho para nova geração de remédios - g1.globo.com",
-      "published": "2026-08-14T06:00:11+00:00",
-      "summary": "Técnica de vacina da covid abre caminho para nova geração de remédios&nbsp;&nbsp;g1.globo.comVacina de RNA mensageiro contra a influenza: o que muda com ela?&nbsp;&nbsp;Veja SaúdemRNA ganha novo papel na medicina além da vacinação&nbsp;&nbsp;Olhar DigitalPrimeira vacina de RNA para gripe da história recebe aprovação para uso&nbsp;&nbsp;VEJA",
-      "sources": [
-        {
-          "name": "g1.globo.com",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZXFERDV6VjBTam9oRlpvazFrTm00MWFQZXNpbVR5WGNZYl9OT1VhUk1lNEV1MHVaaHNJRkFCWGxNWEJ4VkxlMlBucU5zRV9Sc1BrRExTLXZFZGN2VmRIc1VjSUkwSl9FZkhQeHdhNTN0YWZVSUVQOHd3YU55R2RxWEs3cUQ3VzFDVHJvN0o3ZmJwd3lXemJmWm1IeGRfa2pyNFh2U1VCTGVGckpsaFRZeERqbU15elRCUVVZYlVQa3pUMllDZnZmeU95bG85MGc?oc=5"
         }
       ]
     }
