@@ -1,19 +1,43 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-08-16T01:23:28.107448+00:00",
-  "total_fetched": 92,
-  "unique_count": 88,
-  "health_related_count": 35,
+  "fetched_at": "2026-08-16T06:41:23.669360+00:00",
+  "total_fetched": 90,
+  "unique_count": 87,
+  "health_related_count": 29,
   "news": [
     {
-      "id": "fb00f37ff719",
-      "title": "Quem estiver de passagem por SP pode tomar vacina do sarampo, diz Padilha - UOL Notícias",
-      "published": "2026-08-15T19:26:29+00:00",
-      "summary": "Quem estiver de passagem por SP pode tomar vacina do sarampo, diz Padilha&nbsp;&nbsp;UOL NotíciasMinistério recomenda vacina contra sarampo a quem visita São Paulo, São Bernardo e Guarulhos&nbsp;&nbsp;Folha de S.PauloSão Paulo e duas cidades da região metropolitana têm mutirão de vacina contra sarampo&nbsp;&nbsp;G1Cepa de sarampo que circula em São Paulo veio dos EUA e Canadá, diz ministro&nbsp;&nbsp;VEJAAlerta sobre sarampo nas Américas reforça importância de intensificar vacinação no Brasil — ",
+      "id": "47b533383261",
+      "title": "Surto de sarampo leva São Paulo e cidades da Grande SP a ampliar vacinação contra a doença - g1.globo.com",
+      "published": "2026-08-16T01:35:42+00:00",
+      "summary": "Surto de sarampo leva São Paulo e cidades da Grande SP a ampliar vacinação contra a doença&nbsp;&nbsp;g1.globo.comQuem estiver de passagem por SP pode tomar vacina do sarampo, diz Padilha&nbsp;&nbsp;UOL NotíciasCepa de sarampo que circula em São Paulo veio dos EUA e Canadá, diz ministro&nbsp;&nbsp;VEJAAnvisa rebate fake news de que vacinas no Brasil são experimentais&nbsp;&nbsp;MetrópolesAlerta sobre sarampo nas Américas reforça importância de intensificar vacinação no Brasil — Ministério da Saú",
       "sources": [
         {
-          "name": "UOL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWl9qc1lkU2FSdUd1NGFyS3BUM2xfNjF3X0N0YzNkTzNicEZFd3JWUUg3cXFobVVTYVI1VXFQTDgtQzJ5UjF3YjlEN2lKMkRfN2JBNHNxUkt4SVEyenhTNlVrN1dHNVk5MUFXRzc0UEZZQkZNOVpZZGZ2S1paN0FtV3JhVUdMNDJMdVg2eDMtblJUQTJLRG5ZRG5tTUFZNzVPTXlkQ2Z4ek1NMFFST2RyWUF2Qy1pZE9SeG1sZ05aLWJXcFF3cFJ1RzhMSFR6UU4wUDBicVdJSno3NUhQQnVMeQ?oc=5"
+          "name": "g1.globo.com",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOc2c2UEJfVE9MTlZFN2JaR0tPcndOMEhZQ2lUcGRJOFd4VHhXQ0RLUE5SNjl3ZWhBa21pZWd1WWpUck1vb3VNVDIybVpXUWdEekdSNWwweF9DR1dQYUFMUHZNaUwtdVFOS042YWM3UlZvOU83a04tZWVaclpvNnVWT3pJZ29nZ21WV2k3dVZvVzRWTXJFNWRrQUtlMUtlejlmeF9OSlloTnNUcTRfRUc0UzV1QnZiZExlYXlCRDhWZy1iVW5mTDJJSE9Kc2piSTZZZ1hxZV90NDBGOVJUX3JvSFBnX1ZPLTDSAfYBQVVfeXFMTkZQQ3A3WU1kTDlvZTJHNXdLUnlQRGZYY2JUVFV4R09CQmlMQzlYQ3A2ZjhwSjhiR1ptUWZGRzhiZjVMV3VybTFUMFZjSkhEdUdPaVdLa1NJSHE0dkJ5RC14V1Z4MHpwb29Gd3dMc3owcWRraWJMWU9OZXFneUFnT2VnYXhxeWFjQ0xwR19FSDJwaWthaXpOdXhaQVdwdF9INWczWDI3LVNqbU9OTThIMWZCRlVwS1ZJd19lS2VYZWdyaE5lUHozdllvcUVkS3FVRl9tamVidXJXMVhrSDFjR21YUHNaVXk2TG1SSlVLX25xbkx1RE9R?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bc420cbe8a90",
+      "title": "Dez minutos de exercícios por dia podem evitar casos de demência - Folha de S.Paulo",
+      "published": "2026-08-15T22:00:00+00:00",
+      "summary": "Dez minutos de exercícios por dia podem evitar casos de demência&nbsp;&nbsp;Folha de S.Paulo10 minutos de exercícios ao dia podem reduzir casos de demência&nbsp;&nbsp;GloboMovimento que inspira: servidores recorrem ao esporte em busca de saúde mental&nbsp;&nbsp;Tribunal de Justiça de Santa CatarinaAptidão cardiorrespiratória influencia a saúde cognitiva, aponta estudo&nbsp;&nbsp;Poder360Natação pode beneficiar a memória e a saúde do cérebro&nbsp;&nbsp;Terra",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZWN2STRMTTkxUjdzQXZOWkc0Uy1WSjJZQmhJbm9QNkpyZjdTcTNqNnhST1BGdXh3Q0gxNFQzMEZRazZ4RlVwZE1XOExEOEVvS193cG1ZZ2todXp1SWJES3p0enhTbloyRGRTc0dQdTBiaUw5amtRLWphQlBVa1c3bkFJZkVRdHowNktsdVFjQ3pybU9INGp6bFNEcF9yWnZtaURESkN4Unhwb1JBMXlqUHZxUEE5QVhhZURJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f7ffdaddbb44",
+      "title": "50 mil toneladas de água do mar foram bombeadas sobre o gelo: o experimento que conseguiu criar até 32 centímetros de nova camada no Ártico - Revista Oeste",
+      "published": "2026-08-15T20:35:00+00:00",
+      "summary": "50 mil toneladas de água do mar foram bombeadas sobre o gelo: o experimento que conseguiu criar até 32 centímetros de nova camada no Ártico&nbsp;&nbsp;Revista Oeste",
+      "sources": [
+        {
+          "name": "Revista Oeste",
+          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQWGZ1SElrUjZmdmVOSEhUOFJUdWVGMWhHeDFRN0dTaVdKbFFxcmxrd000VkZUWU5PY3ZlOHAzRmlmQmJ4MkxvaHRYN2EydXFfMm5YVEszQUNha1BFeDBzVllMdE9udDY4OHZvcHIyTmcxd0ZIcU1ndEdBWmZNaU15LWFiX2lJN0RueERKOHhlQjB5ZDJCOGpEUVVkbWJDSnAzaGw2SGNmNGV2a2VieXRzVmNHMG9JWU9kUFJGQUJ6Sjg2V3NSbmZSTHZCeC0wNDIzLTFYdloyNThCRkREMUpteDRSMXZTZTBkUUI5UXBJanlicGF0ckVaNUx4ZExqVlFBcEFJQVpGak4ycHhIaW1SWkI0dEo?oc=5"
         }
       ]
     },
@@ -30,37 +54,25 @@
       ]
     },
     {
-      "id": "e7a47e611334",
-      "title": "O segredo da dracena-de-madagascar: como a planta que a NASA estudou elimina os compostos no ar que atraem baratas e pragas - Super Rádio Tupi",
-      "published": "2026-08-15T14:11:35+00:00",
-      "summary": "O segredo da dracena-de-madagascar: como a planta que a NASA estudou elimina os compostos no ar que atraem baratas e pragas&nbsp;&nbsp;Super Rádio Tupi",
+      "id": "1cd068815859",
+      "title": "Suco de fruta pode amenizar sinais de depressão? Estudo investiga possível relação - O GLOBO",
+      "published": "2026-08-15T14:34:32+00:00",
+      "summary": "Suco de fruta pode amenizar sinais de depressão? Estudo investiga possível relação&nbsp;&nbsp;O GLOBOUm copo diário de sumo de fruta pode reduzir os sintomas de depressão&nbsp;&nbsp;ZAP NotíciasSuco de frutas pode ajudar a reduzir sintomas de depressão, diz estudo&nbsp;&nbsp;difusora95.com.br",
       "sources": [
         {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTnRzcjNzOVExSXRMQW9ZMVgwaHhleEdfNGczYXl4Ylg0QjMxQW40ekpFbUZFMVlMZllwMm9ZVFpWVXV6OTNqQVB6WEFwU3dCeWtaOEMxWFlNVGdwTi1jY01xcWRnVUpYNGpFSmxkUmFnMmpQa1p5S2c0TGNXSHctWHZHbFlvMXN5MTBTRkYyaHVkc2tSMTBGdDh3UDkxZVRKU0Q3ZDNtS1VJcWhTcHBMbEp3TXpGY0o1ak80RjlpMG5hZlpLWnhrXzJ4UnJTeERIV3Zvdm1qNTZNajhpenBET0FmZDFLWUV6elUxNmZ4QQ?oc=5"
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSkJDZUhmMS1jcmVFcFZNS2dHQ3Z3djRxQWxQWnlpbmpIWk8yU3VLY1MwazhfNTdrdzBsWkxYdDhtQ1lvMk1nU0pMV2ItZ0s3RkYyMkREanRmaktHUTJYaUR2WmtlMkJXVFdxeGhsNWI5aU10U1hxaDJJejhDdEVtU1AtbXBoYW1rMlk0LS04Z3lXSG1lVXdlampPMUpyZTRXaUl0MEtxbHE2YjVrbUdaS1lKdHB0Ql91SkJEbFdHSUg5Ykk3eFYzY01fN3djTHVNdmpV0gHiAUFVX3lxTE5UdXVVM2RoWmlSaHR3UndYdWV1OUxWcVZkRWpySGV6RXFfNnp4dFNzaU4ydHlfQnFqa2VrZDJXQTdWUVF6QlYwb01LckRFSHRDbEhDbXR5Y04yaHlfMmxPb0Y4VFI1bkJVWmlNNWRZVkktVmMzZDBYTDhjbU1EQmMxbW9XQlhqdERFeXVHN2R6dWUwdG1ycE43MXpnb3NFR3ZMT3NoYTFDbUJsbUxVNzBmZ1BobTFDNloxb0hRTEpUNEdKak5GMmRGWFNMVjF3VHdHRmpVOEZzUjY1aEhtRXFKWmc?oc=5"
         }
       ]
     },
     {
-      "id": "66888e4911d3",
-      "title": "Mobilização para atualizar caderneta de vacinação em Feira de Santana segue até 1º de setembro - Acorda Cidade",
-      "published": "2026-08-15T13:30:23+00:00",
-      "summary": "Mobilização para atualizar caderneta de vacinação em Feira de Santana segue até 1º de setembro&nbsp;&nbsp;Acorda CidadeMultivacinação com foco em crianças e adolescentes ocorre neste sábado (15); confira&nbsp;&nbsp;G1Campanha de multivacinação inclui 20 imunizantes e vai até 1º de setembro&nbsp;&nbsp;Diário do Grande ABCRoraima recebe mais de 555 mil doses de vacinas em 2026&nbsp;&nbsp;Folha BVDia D de multivacinação também acontece em Itu&nbsp;&nbsp;jornalcruzeiro.com.br",
-      "sources": [
-        {
-          "name": "Acorda Cidade",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcFVLdHdWMkNOZmJlYmpmV3dpQk1xU29wZngzMHc1aFBXa1RBMFVtQmx6ZzNZemYxTWkxNWdrWkFaRGlEU3VpWkt0dWxOZ05VYlg1a0dPTm9DUlBWcE5ia3pyWnBQeVZMTFByNDZQX2VLV2pQeFl6TW1ZczhOcDF3eTZFeWt3aGdmWjBKaFAyX3dNTWJtVmFDY04xY2lUUXlBQnVETmVhUzBPWlhEUXNUd3ZpMEJXdWdsX3NSMFVnbUNvV1VxSG9qX2pDZGUtdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f7d03cd68743",
-      "title": "Lua e Vênus vão dividir o céu e fenômeno pode ser visto a olho nu em todo o Brasil; veja quando - primeirapagina.com.br",
+      "id": "c11fa0b0842b",
+      "title": "Lua e Vênus vão dividir o céu e fenômeno pode ser visto a olho nu em todo o Brasil; veja quando - Primeira Página",
       "published": "2026-08-15T13:15:00+00:00",
-      "summary": "Lua e Vênus vão dividir o céu e fenômeno pode ser visto a olho nu em todo o Brasil; veja quando&nbsp;&nbsp;primeirapagina.com.br",
+      "summary": "Lua e Vênus vão dividir o céu e fenômeno pode ser visto a olho nu em todo o Brasil; veja quando&nbsp;&nbsp;Primeira Página",
       "sources": [
         {
-          "name": "primeirapagina.com.br",
+          "name": "Primeira Página",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeFBsTGlIaTE1S1JCM1FlcmtTRlhmVVhVZWhBdEZsa1BxVEVyb2lRQmtqYjR5OVdlbmlMWkwtWlRScEM5aEUtcXF3S1YtMVlHNDB5YjQ1WG1KWHRudzUxVDNBbng3eS1LM1l1RnhJRmdLcTMxcmVFTnFENlVwd0pDVHVnSkZoTEx0TVFpeFFuUUYzQmJNUlZLUzZB?oc=5"
         }
       ]
@@ -69,7 +81,7 @@
       "id": "ee53f5b234b2",
       "title": "Por que os brasileiros adoecem mais, mesmo fazendo mais exercícios; entenda - Época Negócios",
       "published": "2026-08-15T12:28:03+00:00",
-      "summary": "Por que os brasileiros adoecem mais, mesmo fazendo mais exercícios; entenda&nbsp;&nbsp;Época NegóciosDo sedentarismo à inflamação: 4 formas como a obesidade cria um ciclo que prejudica a saúde&nbsp;&nbsp;GZHObesidade cresce no Brasil e reforça debate sobre mitos do emagrecimento&nbsp;&nbsp;33giga.com.br\"USO DE GLP-1 VIROU SÍMBOLO DE STATUS E EXCLUSIVIDADE\"&nbsp;&nbsp;TV CulturaSimpósio Internacional reúne lideranças médicas para discutir avanços no combate à Obesidade&nbsp;&nbsp;Associação Médic",
+      "summary": "Por que os brasileiros adoecem mais, mesmo fazendo mais exercícios; entenda&nbsp;&nbsp;Época NegóciosDo sedentarismo à inflamação: 4 formas como a obesidade cria um ciclo que prejudica a saúde&nbsp;&nbsp;GZHObesidade cresce no Brasil e reforça debate sobre mitos do emagrecimento&nbsp;&nbsp;33 Giga\"USO DE GLP-1 VIROU SÍMBOLO DE STATUS E EXCLUSIVIDADE\"&nbsp;&nbsp;TV CulturaSimpósio Internacional reúne lideranças médicas para discutir avanços no combate à Obesidade&nbsp;&nbsp;Associação Médica Bras",
       "sources": [
         {
           "name": "Época Negócios",
@@ -78,26 +90,14 @@
       ]
     },
     {
-      "id": "d550c2e8c254",
-      "title": "Chá ganha destaque em estudos sobre inflamação crônica; conheça - Rádio Itatiaia",
+      "id": "95ab3abbe42c",
+      "title": "Chá ganha destaque em estudos sobre inflamação crônica; conheça - itatiaia.com.br",
       "published": "2026-08-15T12:25:50+00:00",
-      "summary": "Chá ganha destaque em estudos sobre inflamação crônica; conheça&nbsp;&nbsp;Rádio Itatiaia",
+      "summary": "Chá ganha destaque em estudos sobre inflamação crônica; conheça&nbsp;&nbsp;itatiaia.com.br",
       "sources": [
         {
-          "name": "Rádio Itatiaia",
+          "name": "itatiaia.com.br",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS2EtaVRxTmh5dzNVV0VWdFJRZTcwb0hCT1B5MGFlTDF4TkxhbXVlcnlNd01PY1FvV2hUZHhjb0NKcHZWQ2xKbWRtSDBlTnVMallmVFhjczhreXF6SWNlLV8wUzE4azJoc0RhaDdCWm4tSnhPWmhpRTEzclluSU9oQVhtQmNCR0tJVHQ1aVJmZDd2ZXQ0dnhNeUJUb2czNkk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f4f8587bb8f8",
-      "title": "Sem computador, jovem cearense trabalhava das 18h30 às 4h30 em uma hamburgueria, dormia apenas quatro horas, estudava à tarde e mesmo com uma rotina intensa, conseguiu aprovação em duas universidades - clickpetroleoegas.com.br",
-      "published": "2026-08-15T11:24:00+00:00",
-      "summary": "Sem computador, jovem cearense trabalhava das 18h30 às 4h30 em uma hamburgueria, dormia apenas quatro horas, estudava à tarde e mesmo com uma rotina intensa, conseguiu aprovação em duas universidades&nbsp;&nbsp;clickpetroleoegas.com.br",
-      "sources": [
-        {
-          "name": "clickpetroleoegas.com.br",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNdkVUYnM5aFJkMDkycE5SU3RvekNVNTkwdkRBa01FOERaRkJ2bkZkQS02OG1iQTVGdTFHa0IySjFBSVlja0lsR2RaYTUyb0U2LWxuMlF3aXZ3ak04QUxhMG9nZjd1dUNLTGdGM3BCUk95ZFZ2bUwzN2dwdEdtRXhrRHdVRXhESVhkZTVQU1F4MFdQWjBwLWVDeDRBbVJob3RJX1drODFHOHhVMHE5OW1DUnJmaHJ6aVphUzBMSDU3R3dWd3pnQm8xZGVmZDVNclBXaFItTk1mVXdaR3lDdFExRjEyTXBaY2RDOU41MHdCRVd3SWZobGwyTVJUMVlvcmt0SVluc1NQaGRJZnJXT1dYTXBrX0lCbjNBMEp1bXFlYktLWnZOczc5bmJSUGRWQS1xVHc1ZUZ5bkJEZ0tMLWdNQkpvUFhSY0U?oc=5"
         }
       ]
     },
@@ -138,38 +138,38 @@
       ]
     },
     {
-      "id": "62f48a60d627",
-      "title": "Casos de bactéria ‘comedora de carne’ aumentam com aquecimento dos oceanos - G1",
+      "id": "f026da5922a1",
+      "title": "Casos de bactéria ‘comedora de carne’ aumentam com aquecimento dos oceanos - g1.globo.com",
       "published": "2026-08-15T07:02:01+00:00",
-      "summary": "Casos de bactéria ‘comedora de carne’ aumentam com aquecimento dos oceanos&nbsp;&nbsp;G1",
+      "summary": "Casos de bactéria ‘comedora de carne’ aumentam com aquecimento dos oceanos&nbsp;&nbsp;g1.globo.com",
       "sources": [
         {
-          "name": "G1",
+          "name": "g1.globo.com",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQTd4VlB2NkxoSk9FdzRYQXBpbUxSUTVTU01CNlVGelZCNHlOWDZvaENFbS1HTGc5Q0h4SGhTS3RES1R3QnpubEJCSGdRQXYxa3dtb2U4OEpGbFVTWnFQMndXdzdwMVlXMFQ5UWt0QUNDUFZ0Y1JkRmhTTG5ZTlBPaERRenp1bEVsbmJKblNaMmxMa0JZZE5PZ214emxoMmFyWE9zVUtBTmd4Rmt0ZTBUb1dHTHA2STJmajctLWZIUmowUQ?oc=5"
         }
       ]
     },
     {
-      "id": "f4ac41c47ff9",
-      "title": "Aos 14 anos, brasileiro se tornou a pessoa mais jovem a ser aprovada no ITA, colecionou primeiros lugares em Medicina, Engenharia e concursos militares, chegou aos 16 cursando duas faculdades ao mesmo tempo e agora entra para a lista das 100 crianç - clickpetroleoegas.com.br",
-      "published": "2026-08-15T05:21:00+00:00",
-      "summary": "Aos 14 anos, brasileiro se tornou a pessoa mais jovem a ser aprovada no ITA, colecionou primeiros lugares em Medicina, Engenharia e concursos militares, chegou aos 16 cursando duas faculdades ao mesmo tempo e agora entra para a lista das 100 crianç&nbsp;&nbsp;clickpetroleoegas.com.br",
+      "id": "f1f6529f631e",
+      "title": "Bactérias do sêmen impactam fertilidade, indica estudo - DW.com",
+      "published": "2026-08-15T06:59:59+00:00",
+      "summary": "Bactérias do sêmen impactam fertilidade, indica estudo&nbsp;&nbsp;DW.com",
       "sources": [
         {
-          "name": "clickpetroleoegas.com.br",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPeDVpdlhGMWVRU1h5N1ZsNWtLMl9iaHdpWmFtVDQwNTlXcmFxNHZ1U0VoWk80dlM5bGJVM3JxNmUzc1lVbmRaWkFNVlBHYmRDTTlvSzZFelkwWFlpcFlnbkFZVDdobXhhZEVHbFYxUEZjd2MzM21KeVM1Wnp6VWJQMl8wam9CMDg4ZW5DSFpqQlZlaU9udHBDc3ZPNE1ydW5ybXE2a1l3d2dBdVdmdXRlNVZkZ2JDT3Z1Y3c2MDJIX1dDSUp1RWpOM1d6VG9QcXF5Z29GTGdlcXNZN2hSeVlCNmNQVXFJZHFBTWZuY3I3NUlxMGhtQ01vU3RfOXhGYW1FRUxoS1RjbW5GNlFJUGFTN3lUY3BRazRLajdkeDJ5azlpUm9zZ1VwMW15M1I0Y09ULVpfendGUHZQd1dhdU9FS2tPSl9Vc2c?oc=5"
+          "name": "DW.com",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYWhiN1hOczdEd0ZJNV8wejlTak9WUUdRMnpGby1aRlBxYWpmU04ta0N0cXhyUTdtOHBuZEEzdHk4eGh5QkRnb3RMcDdtRHBueUNDWVZZQ0M0bThBcXZuVGtSMkItT0FrMmNjSGN6cmVySkkyUTBtTmtGSng3Zzd0S1AtOGtwQmtaRXFMTXFMZ1h3dU5WdnhVeHFMcEExOXZP0gGgAUFVX3lxTE1uU1VoczJFZkc2aWNDLVdtWndtSTYwQnN0S2J2cTFlVEJXd3lDZ0RzbmFUazh1c2RRd0FCWHNSQ2xodEdrWWN3d2N5NTN3SkFGZ1Vwb3p3ZmJwSG56c2NvNnhDNDRkQWZxQk9PaWVwSGh2XzZPOHZrVmZfdWZjWW1FQlJhMmNxb0xuMlZKVWstcmR6VjUwMExZVUZhUnlUejA?oc=5"
         }
       ]
     },
     {
-      "id": "af07a6f07240",
-      "title": "Uma nova hipótese científica postula que o cérebro humano poderia interagir com as frequências eletromagnéticas da Terra. Pesquisadores estudam se essas ressonâncias influenciam a consciência - Super Rádio Tupi",
-      "published": "2026-08-15T05:19:47+00:00",
-      "summary": "Uma nova hipótese científica postula que o cérebro humano poderia interagir com as frequências eletromagnéticas da Terra. Pesquisadores estudam se essas ressonâncias influenciam a consciência&nbsp;&nbsp;Super Rádio Tupi",
+      "id": "5790c465871c",
+      "title": "Aos 14 anos, brasileiro se tornou a pessoa mais jovem a ser aprovada no ITA, colecionou primeiros lugares em Medicina, Engenharia e concursos militares, chegou aos 16 cursando duas faculdades ao mesmo tempo e agora entra para a lista das 100 crianç - CPG Click Petróleo e Gás",
+      "published": "2026-08-15T05:21:00+00:00",
+      "summary": "Aos 14 anos, brasileiro se tornou a pessoa mais jovem a ser aprovada no ITA, colecionou primeiros lugares em Medicina, Engenharia e concursos militares, chegou aos 16 cursando duas faculdades ao mesmo tempo e agora entra para a lista das 100 crianç&nbsp;&nbsp;CPG Click Petróleo e Gás",
       "sources": [
         {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNX0U0d1RDczBZMXhWdVBnaHVxUGt2U29TdUtpeER2bG9VU1NrbU9GdkVlZHNwSmQ1WlRtdEV3aFdUSUNUU3NQbXRYdDMtckhtZ2Rkc0w0UlI2WC0yRS1FckE1STJzSE5kZkhFY3BYcW9XM25vdnl0MXllNC1FYzZsYWhnRUpVTHhTZ0xOQVZ1OG1CNjZ4c0tWbjhVbjkxbTRSaWZ6eTI4MTBleGZEYmFWZldIQ29Ba2pEaEFFZkcwaVNGbWt3a1VsSzU0U2d0QW5ZTVhGVUp4SlhBdzRZQXBzX2hhcmZ6OFIzLWJOVU9uSTlyOUtFNHRheHk5OU5IX0o5OXpqVWp6UjVWVW1iRTJXckFHcjlFUXdJNVJoNUNtRXpuSHlLaXVWN2lFZlNlM19Va1VuM3pDNG5uM3JuUHc?oc=5"
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPeDVpdlhGMWVRU1h5N1ZsNWtLMl9iaHdpWmFtVDQwNTlXcmFxNHZ1U0VoWk80dlM5bGJVM3JxNmUzc1lVbmRaWkFNVlBHYmRDTTlvSzZFelkwWFlpcFlnbkFZVDdobXhhZEVHbFYxUEZjd2MzM21KeVM1Wnp6VWJQMl8wam9CMDg4ZW5DSFpqQlZlaU9udHBDc3ZPNE1ydW5ybXE2a1l3d2dBdVdmdXRlNVZkZ2JDT3Z1Y3c2MDJIX1dDSUp1RWpOM1d6VG9QcXF5Z29GTGdlcXNZN2hSeVlCNmNQVXFJZHFBTWZuY3I3NUlxMGhtQ01vU3RfOXhGYW1FRUxoS1RjbW5GNlFJUGFTN3lUY3BRazRLajdkeDJ5azlpUm9zZ1VwMW15M1I0Y09ULVpfendGUHZQd1dhdU9FS2tPSl9Vc2c?oc=5"
         }
       ]
     },
@@ -182,18 +182,6 @@
         {
           "name": "Metrópoles",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNHlhMGtIY1c5ZnpMMmNXRU9uU2hYTC16NVpGOXpmMXVGTE5CWmtka1NvUHl6YWQxRmVja2pqdmV5azBHNEJSSnZUaVlXdVBDQ3JibUl0c25wek1adjlaLVRhR2U3eW5fQ2ZpdU1CWmpzbHA0cWRGNHVLQzN2YlQwVS0wd1NyTGNlbzNvOXpkdWZGaHVIb04tS09xT1pxWkx4NUZzMlVhOUJBdTNpRlI0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "66d8ad6e34d8",
-      "title": "Homem desenvolve câncer de pulmão depois de anos como fumante passivo - Metrópoles",
-      "published": "2026-08-15T05:00:00+00:00",
-      "summary": "Homem desenvolve câncer de pulmão depois de anos como fumante passivo&nbsp;&nbsp;MetrópolesCâncer de pulmão em não fumantes - parte 1&nbsp;&nbsp;Estado de Minas– Agosto Branco contra o Tabagismo.&nbsp;&nbsp;professorrafaelporcari.comMês de Combate ao Fumo: boca pode revelar os primeiros sinais dos danos causados pelo cigarro&nbsp;&nbsp;Revista NossaTabagismo está associado a mais de 50 doenças e aumenta risco de câncer de pulmão&nbsp;&nbsp;www.gov.br",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVmxfdC1uVmN3b3BtTFlocXAzQl9yTDRwMVR3QjZQYkczc01iZ2hDRkJsZVNpZWhRNnlTQ19OTE90V2VHU2hPWk0wR3RzMVVBemtPSUd6RW1vdGJHTElIbDNYaU9KTmJRWk9fTnA0YXdWUHFFZGFRalh2VlpTbWp6b3lfV0lzcHdBMWpGbFVETVJSZl9FVnlnbjd2X3BaY0xhTjJibQ?oc=5"
         }
       ]
     },
@@ -234,50 +222,26 @@
       ]
     },
     {
+      "id": "6387c2ce55b3",
+      "title": "Cobaia do próprio estudo, homem reduz idade biológica em 15 anos - MidiaNews",
+      "published": "2026-08-14T21:00:00+00:00",
+      "summary": "Cobaia do próprio estudo, homem reduz idade biológica em 15 anos&nbsp;&nbsp;MidiaNews",
+      "sources": [
+        {
+          "name": "MidiaNews",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbTkxM05sVTNhbC1OUW5ENXRYVHJESWNJS2U4aFZXOXFETGduNGpQZUZpenl0dk9peEQwS1RMMlZFempkelJOd3VYVFAyeUZzQ0xRT1dBbWlDUlpSZmlvdEpudmEtdm9FV1g5eU9WbjNpMVNjSEczcDNWbWlvS0xJU19UdVk2YmF5SGVaZ1hHNWpROWhNNTd4Z0JncnZSM3NBVWhmekR3dEVaQTQtcEN3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "ab24dfc9d3fc",
       "title": "Distrito Federal terá mais de 50 pontos de vacinação neste sábado (15/8) - Correio Braziliense",
       "published": "2026-08-14T20:13:00+00:00",
-      "summary": "Distrito Federal terá mais de 50 pontos de vacinação neste sábado (15/8)&nbsp;&nbsp;Correio BrazilienseDF terá mutirão de vacinação em 20 regiões neste sábado&nbsp;&nbsp;MetrópolesDF abre vacinação contra sarampo, covid-19 e outras doenças neste sábado&nbsp;&nbsp;Jornal de BrasíliaDF abre mais de 50 pontos de vacinação neste sábado; veja o que tem&nbsp;&nbsp;soubrasilia.comVacinas contra sarampo, covid-19 e outras doenças estão disponíveis neste sábado (15)&nbsp;&nbsp;Agência Brasília",
+      "summary": "Distrito Federal terá mais de 50 pontos de vacinação neste sábado (15/8)&nbsp;&nbsp;Correio BrazilienseDF terá mutirão de vacinação em 20 regiões neste sábado&nbsp;&nbsp;MetrópolesDF abre vacinação contra sarampo, covid-19 e outras doenças neste sábado&nbsp;&nbsp;Jornal de BrasíliaDF abre mais de 50 pontos de vacinação neste sábado; veja o que tem&nbsp;&nbsp;soubrasilia.comMais de 50 locais de atendimento oferecerão doses para diversas faixas etárias&nbsp;&nbsp;PDNews",
       "sources": [
         {
           "name": "Correio Braziliense",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTnhaTWxLQlcxYUxCM1d3TkRpX2tHbnFpUHRhTExMcTlYdlg3czZQSU9FVFpHTzZ1Zl9SbTlabjE0dW1fcVA0ZUg5NzhoSHZuMzVJcmpPUDZwV0xoMXRLZ1E5TUh2dHZNOUtxazhMUnlfZENYZFpsV0c3aDI4bUZGZmVaaTZ2MjBVVkU2YkNHQ2dhSk9XVnIteG5ZQkFKZ2ZCTlNWemxCOW1OcWU0MWxZRXlPMmk2YnpzRVBPd3M2dnVlcFRhaGpsSXhGQlZZcEZvYktjR1ktMNIB3AFBVV95cUxPY01EbndVSXpyd0gyelJBNDkwaDFoOGtGUkRrTkJsNlBJS1BiLTdlM0FmX1hTOG1la190enUtTGo4XzUwcGU0azVYSU5OX0xCMG5nenZXeFByYTFvNUpMaVlCNXl4RF9qazdJc1hTdUZ6MFotYW1keFlTbk1wYjZrUlVEV0FPbFFZTy13QW5GQXVoVVJ0bWtHMThWaEVIOEE3eVIycmV2SUJyOWkyNVlQcG5DYjZtNEI2LWh2dmVTaUpoWDBFbUJ0UVJaZVk3SG9GNTdLdFBuUlBwR3c2?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5e08fac4f5aa",
-      "title": "Cientistas encontram milhares de toneladas de lixo plástico em águas profundas e descoberta revela a dimensão da poluição marinha - Super Rádio Tupi",
-      "published": "2026-08-14T19:58:01+00:00",
-      "summary": "Cientistas encontram milhares de toneladas de lixo plástico em águas profundas e descoberta revela a dimensão da poluição marinha&nbsp;&nbsp;Super Rádio Tupi",
-      "sources": [
-        {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPOTZ2UnF1cFhyTkdLbWRxU3AxTE9WWElDOVFCNzA2S0U1a0lYUE1WcC1KQmRHdWdXazhJZnpBZmc0NFVIV1IyQTVBdnBVSFZITEduZ2FHMExSZjV4U2t1LUxpMVdxaGFLY2JIYWZ2MmdEUXNaQy0tbDB2VHMwZ0pzbWZSOW5MVUZCbXhFZWJmMmszV2dDQnJHMkk3LWcxVUF6dTdsS3pkMlJKVEIxTTJkdllnSDNIejZZWE9Xa2VncjdOQ0xHS1BXdEx6WU5CS0I3SjI5LWxjU0ZBZ1RqWmdUS1JUdXBvQ08tZTB4Yw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "eaea7440b7f0",
-      "title": "Aos 20 anos, filha de Djamila Ribeiro supera reprovação na Fuvest, conquista vaga em Matemática na USP e mãe celebra: “primeira da nossa linhagem a poder escolher” - clickpetroleoegas.com.br",
-      "published": "2026-08-14T19:20:00+00:00",
-      "summary": "Aos 20 anos, filha de Djamila Ribeiro supera reprovação na Fuvest, conquista vaga em Matemática na USP e mãe celebra: “primeira da nossa linhagem a poder escolher”&nbsp;&nbsp;clickpetroleoegas.com.br",
-      "sources": [
-        {
-          "name": "clickpetroleoegas.com.br",
-          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNbXRYZWhTX0V5TVN3SmttbEg4bWNnSWRaMXVPYjhtMkEzMjRud21wc19wZUNrc1ZiQ0VZeXk4RXgzTjVEUUtIQjRHZkFKR1Zrczl4cGxQa09VY1lGUUtoNGREYWFjLUpYcGVsRVoxSndJZGFieF83bFZTY0h5OEUwYVZKVmczUzRYRGVybU1xdFFleE1wRWFsazl5SlBndGE3SlROQldvX2dDdVNRRnVlUExGVks3bWVhOHNiT3NDUVFrTmJ6bU9TOHRRVHRTcl8wSTNDRWpYNFRhSVotRUJQcGRRSXBodHgtUVV5RXJ2YXBrY1RaU1F3Wk95S2JPWWh4UGRFVGpyR2RjWElhX0J1ZE9kX1VvUGQ0WnlmUWViRHlTU1E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7efff58979cc",
-      "title": "Jeito de se masturbar pode elevar risco de doença de Peyronie no pênis - Metrópoles",
-      "published": "2026-08-14T19:16:00+00:00",
-      "summary": "Jeito de se masturbar pode elevar risco de doença de Peyronie no pênis&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcGhpNEVfM0pkM3Q0SU94Y1FyTy0tWkFWN2FmdXNKRV9zNlBpR3VyeVR3R2tJVmNJbWhuWnFxcGJsVklheHo1cDBhR2dzWFM1czZTelJvRm82TzZpbU8zUE12OG83QUx1cFZ6aFo1WVJKSTdSNnBiVTNCempXXy1iTnNoMjJJQkpYdEpURVFGUlA1SlZrR2w2bkNIR045RzdzeUZUaVhYQWkyY3ZtUXFKNnJtU0tCQ3lHUHpVcQ?oc=5"
         }
       ]
     },
@@ -321,23 +285,11 @@
       "id": "7f64efd3d1c8",
       "title": "Correr rápido é mais benéfico do que corrida longa e moderada, diz estudo - UOL Notícias",
       "published": "2026-08-14T15:00:21+00:00",
-      "summary": "Correr rápido é mais benéfico do que corrida longa e moderada, diz estudo&nbsp;&nbsp;UOL NotíciasPor que correr rápido tem mais impacto do que correr por vários minutos?&nbsp;&nbsp;GloboPor que treino intenso de 3 minutos traz mais benefícios que 1h30 de exercício moderado&nbsp;&nbsp;Gazeta do PovoExercícios rápidos e intensos podem reduzir riscos à saúde, dizem estudos&nbsp;&nbsp;Correio BrazilienseCultura | Estudo associa exercícios mais intensos à redução do risco de oito doenças crônicas&nbs",
+      "summary": "Correr rápido é mais benéfico do que corrida longa e moderada, diz estudo&nbsp;&nbsp;UOL NotíciasPor que correr rápido tem mais impacto do que correr por vários minutos?&nbsp;&nbsp;GloboPor que treino intenso de 3 minutos traz mais benefícios que 1h30 de exercício moderado&nbsp;&nbsp;gazetadopovo.com.brExercícios rápidos e intensos podem reduzir riscos à saúde, dizem estudos&nbsp;&nbsp;Correio BrazilienseCultura | Estudo associa exercícios mais intensos à redução do risco de oito doenças crônica",
       "sources": [
         {
           "name": "UOL Notícias",
           "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYjREeHFjaS12Ujkyek1scHJWZ0VXalFESHFMbjRRWUVsdTBEU2pIQ3hrWmo5MkU5ZTZaMEFVSTNFM0FDRXcxUTFaTnFSbXEyeW9JNVBxcjI3ZGE3bFh1VzZNV0lkY19VcjFmS1BWcDFlak9mcnliMEp1VVduR2V4cDRqSE1TOVktWUNwcUVFT083SkliYnZmbkN2TGM2MENuc0tBbEJQVV9SaTlqdE1vMldQelQzaUZFRmYtX2x4TDRuckZoeUdIWkFMNUdYUmNUMkJ1SmxRSmpURGo5QnlR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c85dc993a605",
-      "title": "Repórter exagera na proteína e conta o que aconteceu com seu corpo: 'Mais do que conseguia processar' - Globo",
-      "published": "2026-08-14T14:00:39+00:00",
-      "summary": "Repórter exagera na proteína e conta o que aconteceu com seu corpo: 'Mais do que conseguia processar'&nbsp;&nbsp;GloboExcesso de proteína: veja limites e cuidados com a popularização dos produtos “proteicos”&nbsp;&nbsp;CartaCapitalDieta rica em proteína e pobre em fibras: entenda os riscos para a saúde&nbsp;&nbsp;GZHComer pouca proteína pode afetar músculos, saciedade e saúde? Entenda o que dizem os estudos&nbsp;&nbsp;Sete Lagoas .com.brSuplementação de proteína cresce como solução para idosos, ",
-      "sources": [
-        {
-          "name": "Globo",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPT1BBSjJMVDl5ZnNkeVhTUzU4aHVOSDhtdXVLU3ZBczVsMjZfS2NUbmRTeDBjSzZXQlV5eXJiVkM4QzF2bUNJYkFYZ3M1U0tOY093V1dFLVNibXdIWFpLUllVOGlydDFoelMwY0VlbGNPaVlzUXkxcHF2NDZxWXhScTdtNldEbm40RnM0NWVtYTNnaEFYbGJsZ1o3Smp1c3RILTR5RVUybzZNSnZrVWE2THJndHNQbzB3OTRnWG5jc0xpMU1hblhIZFRKbTRkQkdfZTgzQmtyQ1BRODV4NjMyU0R5Yk13d9IB9AFBVV95cUxQSVk4Uzd0MnZybFcwR3NIZjRpcFo4Zl9mWEZOMjVLVzZ2dFFTckZOd291LVFNTnpyeXE1ejF4TU1sR1oxQUhPeEVNVFBpeXdwdDF2bXdiZWQ3c3hzR25jUWpfRFA5TDNtcWI0aHNwcUtsTHZpSi1kbFhzOE9ITFhkWE8tNlp1dDNkNmJYY1FrVGMyX1VyclZ0Q2VKblFrWnFNeGFWU1d1TXpGVDVPRG52cmF1WnVhekpnRWxqWVM2bkhIODBMRmxGd0FPcTVWSUh4RzFRODBUUUFVd1dDdHVmOC1mSWs2M3FDVHFYU1B6bVBXNGEt?oc=5"
         }
       ]
     },
@@ -378,50 +330,26 @@
       ]
     },
     {
-      "id": "fc9524d754e3",
-      "title": "Estudo encontra anomalias em 60,5% dos peixes analisados no norte do ES - Conexão Safra",
+      "id": "5a0493ec41c4",
+      "title": "Estudo encontra anomalias em 60,5% dos peixes analisados no norte do ES - conexaosafra.com",
       "published": "2026-08-14T07:24:00+00:00",
-      "summary": "Estudo encontra anomalias em 60,5% dos peixes analisados no norte do ES&nbsp;&nbsp;Conexão Safra",
+      "summary": "Estudo encontra anomalias em 60,5% dos peixes analisados no norte do ES&nbsp;&nbsp;conexaosafra.com",
       "sources": [
         {
-          "name": "Conexão Safra",
+          "name": "conexaosafra.com",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRGNLdzA5ZVhlYzdUUGU5TDR2QjVoVWp3M1ZJZU4xVmZXUGh3NUZETFFvQk9nVC1hN2lDaEtCODNOOGdtajRoNFJTWUV1QjhIcTFoOXZLYS1fSk1vUDJacFY5cVFKTEJkcEFoYnNtcWRvd2ZpNi1INENKcjJJa19IckxBSVlXY1FLTnVhdkRyVC1qcHU1a3hZOUJrRFRTLTd5RWVB?oc=5"
         }
       ]
     },
     {
-      "id": "105eddb1324e",
-      "title": "Peixes têm 'impressão digital' que revela de onde vieram, mostra estudo; entenda - G1",
-      "published": "2026-08-14T06:00:47+00:00",
-      "summary": "Peixes têm 'impressão digital' que revela de onde vieram, mostra estudo; entenda&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQk5OTU5EV2FmZHVvYWxpeEdNX2ZkTlRueXZ3SFZtMGVWTlBnRUEzNHdMRHRvOEhzUFBjNVIteVhwZmYxbTRsRU1SRDhiMXZTRXNBVUFlc2gtX2owaExGX0hCNUR3ODVoOUV2VUVNeXczVjNaQmlKWC1jLUYtV2k1Y25LZTVCd1BodTY5b1IxYmNuMjNkZkdQVFd3LWVkdG5NVXBxQXp6eHNGUENxZFhwRE55QXotal9JSS1IbG0zOHB2eXN6VlBEdFRveVAwVDRUWnhkcWNSYkZFRmZv0gHrAUFVX3lxTE02Ull2bG03cEgxb2NSaWlpX0VmbVlLQm51VUM1Wkd0VWJTMW8yblhxSUVzZ0owMkdUSlVnME01UzlZaWJDZTdRQk1JYlF6T0Q1WUN1WXpUQ0RlWjQzM3ozbHdNU29FUWFkTmNtLUhTMWduSTJNd0ZBSkFDQ1l1S2lPZ3NzM1pXZ1hqWUxIRG1vbWIzdFNTb3RyQm9HbEZwZUlyMUFIYXpwdXdTTnVBcmtHVVN0Nk12NVlxNG5xOTRtTWlpVWx5Sk1xTU9HS1RLbFA2UXhKWU9JbXRlUWhabXdaRXJheEk3OVdNc2M?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "65ab04c933e8",
-      "title": "Técnica de vacina da covid abre caminho para nova geração de remédios - G1",
+      "id": "f4a39530b7d5",
+      "title": "Técnica de vacina da covid abre caminho para nova geração de remédios - g1.globo.com",
       "published": "2026-08-14T06:00:11+00:00",
-      "summary": "Técnica de vacina da covid abre caminho para nova geração de remédios&nbsp;&nbsp;G1Vacina de RNA mensageiro contra a influenza: o que muda com ela?&nbsp;&nbsp;Veja SaúdemRNA ganha novo papel na medicina além da vacinação&nbsp;&nbsp;Olhar DigitalPrimeira vacina de RNA para gripe da história recebe aprovação para uso&nbsp;&nbsp;VEJA",
+      "summary": "Técnica de vacina da covid abre caminho para nova geração de remédios&nbsp;&nbsp;g1.globo.comVacina de RNA mensageiro contra a influenza: o que muda com ela?&nbsp;&nbsp;Veja SaúdemRNA ganha novo papel na medicina além da vacinação&nbsp;&nbsp;Olhar DigitalPrimeira vacina de RNA para gripe da história recebe aprovação para uso&nbsp;&nbsp;VEJA",
       "sources": [
         {
-          "name": "G1",
+          "name": "g1.globo.com",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZXFERDV6VjBTam9oRlpvazFrTm00MWFQZXNpbVR5WGNZYl9OT1VhUk1lNEV1MHVaaHNJRkFCWGxNWEJ4VkxlMlBucU5zRV9Sc1BrRExTLXZFZGN2VmRIc1VjSUkwSl9FZkhQeHdhNTN0YWZVSUVQOHd3YU55R2RxWEs3cUQ3VzFDVHJvN0o3ZmJwd3lXemJmWm1IeGRfa2pyNFh2U1VCTGVGckpsaFRZeERqbU15elRCUVVZYlVQa3pUMllDZnZmeU95bG85MGc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9aa6a6d47538",
-      "title": "Perimenopausa: e se a ansiedade e o cansaço não forem apenas estresse? - O GLOBO",
-      "published": "2026-08-14T05:45:08+00:00",
-      "summary": "Perimenopausa: e se a ansiedade e o cansaço não forem apenas estresse?&nbsp;&nbsp;O GLOBOMenopausa: falta de informação ou décadas de silêncio e ausência de políticas?&nbsp;&nbsp;SIC NotíciasOscilações hormonais podem afetar sono, humor e libido durante a perimenopausa&nbsp;&nbsp;Rádio Fundação MarconiUma em cada três mulheres não sabe que está na perimenopausa&nbsp;&nbsp;Medicina S/AMenopausa causa esquecimento? Entenda o que muda no corpo&nbsp;&nbsp;Cenário Minas",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcjFBcnFLbVJnbWlmTUV2Qm51SGswYi1Wb2dGeDdrNG5TQUctZGRtLUZ3V1daQlJDNExPOGFWOXhaYXBSVjRmTFJpTEFNUThPN3U5Q0Nkd3pDNC11elhEdU5OZW5wck9EUFpPZlVNMlpsdzVIWjVvS1NaSVJ6NWwzeUlWdlIxYkl3U1NJRE9YQnVpZ2t6N2JRNkMtckc5ZXd6NEI1N3ZyaE85VnBteXNuYVMyREpKRnY2bVh4amFkRdIBzgFBVV95cUxNd0YyREZSaVo5ZURkM051S3E4V01MVDZ3ZVloWktiWXpiVWdBMUhieE5vVTF6UGx1aDg0OFJmOGFyOUpucVZRN1ZLcGl6b2tKbzJsUzVJR295Z1NTa0RIUUdXX2FlTjNKcURJRGx3QjBLa3N5U2JXSlNnQWQ1NklmOGhqN1p2anJlUHpkT3Fxc3dWRXZfakR0V19ybGtWVGVuZVFIOENkY0h2Q3R6bmxNLU1oQjBvcDFtVHlicE1HTjBzQktDakFQcXBwamVsZw?oc=5"
         }
       ]
     }
