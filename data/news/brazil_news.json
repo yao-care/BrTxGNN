@@ -1,10 +1,46 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-08-18T06:45:15.129415+00:00",
-  "total_fetched": 96,
+  "fetched_at": "2026-08-18T12:49:04.860652+00:00",
+  "total_fetched": 97,
   "unique_count": 94,
-  "health_related_count": 33,
+  "health_related_count": 31,
   "news": [
+    {
+      "id": "450b290c9d36",
+      "title": "O que o cérebro dos motoristas de táxi revela sobre o Alzheimer - Estadão",
+      "published": "2026-08-18T08:30:00+00:00",
+      "summary": "O que o cérebro dos motoristas de táxi revela sobre o Alzheimer&nbsp;&nbsp;EstadãoO uso regular de mapas de navegação espacial ajuda a reduzir o risco de morte por doença de Alzheimer.&nbsp;&nbsp;Vietnam.vnAlzheimer e profissões: estudo associa navegação a menor risco&nbsp;&nbsp;G1Andar pela cidade pode proteger o cérebro contra o Alzheimer&nbsp;&nbsp;Olhar DigitalEstudo revela duas profissões que trazem menos risco de Alzheimer; descubra quais são&nbsp;&nbsp;Aqui Notícias",
+      "sources": [
+        {
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaWVnSXJnMjZZVjlvQ2llZjJaQ0JiQXRHSC0yUWVRN184TjRxVWNFS3FBQlM5eWc5R3VpZlROQUZfbl9iNXJuQl82ZlZMOG0wdVQtYmVkWS1kendLbGhHVnAyRXRRTER6bWx2SkR1dmY4OUdkN09QcWFRV0hsWElDUlE4LUprcTVvT3hVWXVtM001aDFQRXkyRmg5Q2NtQ0NSa0dxQ0tSS0F0clZZYkxwQ1h2c9IBuAFBVV95cUxNcVpockpEY2NhU1plVk43RzFNLXBFTHJHTFhBU0RWbkU4dGJWQlhlQzlxTlg0ZXM4ckxHWWV4R3FySXlwN3RjYVJ3dFNzLUhVbnc2cjZkS2UtUzZVOWZwNjFNSi1qa19kVXFVQ2RyeWNQRVBBektIdVF4b09yZ2dDSkJubG9oa0ZHbjVfelFHZGxOSlZQWDRDNWFHOFh3RldBNWdTd0g5UlBfcGhiZENuZVZSdFVfdTlT?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "390062f70e8c",
+      "title": "Personalidade muda mais ao longo da vida do que as pessoas imaginam, aponta estudo - G1",
+      "published": "2026-08-18T05:00:22+00:00",
+      "summary": "Personalidade muda mais ao longo da vida do que as pessoas imaginam, aponta estudo&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeXJfaUNsSlYtbjFOY2l2V0ctLXZORDNLajFCVlR5akdfVG9relRnUmZsU0xPWFpSYlhSaFlfdW10ZDEtWm9QQ1F6Ym42VmxJYl9EQXJRa3hOSy1nMmZ5MUswXzBlLW5Xd3VDQkFIclRnSk05RHNnb3BpdHlpSElPNWNEempIVWVXLVFIZ3VVRWt2SUR3dW1aR0NmSjd2WEJfQWY2RmJOMTZhTVhseHNhOHVzY1UyQU5rcThCcDNTRXUwMXM4dFp1MEJqSHc0UdIB3AFBVV95cUxOWmZMSVFkTmx6S2VMVVVCMzVia0tuZGZWeTVMZTUtUy1IRktXaGV0N0toR2JzSnpfVWhlRHg2V3dfbE96UGtpeVhheXl3UmlyU196R1RzV0V5dmJjWHdvMjVqVWY4SWxlaXplaFlINmNmc19SVmZxbjJJVnQyMExJMzRKZUhDMFVyLVRUSGI5ZlF6ZWV2c0xTVHdPWjdnVFZtQzdLYk9kZjV3TlNIcnBrQnRpWnZSMS1rNFJhYWZvTmlscFB5eEwwM1N0bzlPclBSNUUxOEpSYTF1emNk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3654fc3d3623",
+      "title": "Frase do dia da Psicologia: \"Devemos amar com todo nosso coração, mesmo que não haja garantias. Isso não nos torna vulneráveis, nos torna vivos\" - reflexão de Brené Brown sobre amor - NSC Total",
+      "published": "2026-08-18T03:31:00+00:00",
+      "summary": "Frase do dia da Psicologia: \"Devemos amar com todo nosso coração, mesmo que não haja garantias. Isso não nos torna vulneráveis, nos torna vivos\" - reflexão de Brené Brown sobre amor&nbsp;&nbsp;NSC Total",
+      "sources": [
+        {
+          "name": "NSC Total",
+          "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPVmdpMmRwSkRyRXdrQTVzLVQxS1VpeGJTbEIwYnNfZGtuZy1fOW9FUTlUR2J4T2ZKdHhMdUVKX0JyQTZHNzZrUnZpUHNQSzNqYkx0NFNPQ0c1b3NWbTd5V05zQnFiNEtfMS1IcnNpMjV4STNpM1Y4Z09rMTRWZ2RjdEpDRV8tQzA2ZHNmWG5TYTlZclZFSUk0WWx3WlMtaHZDQ3ozSWw4RzdSNVJRbWRTdVRQdWhTQ1JaWFNMWHV1TDlPa2JWZkNLcGZxZ1hrajItckg1OWRlNXNQZ0ZmcnRhYTVjWFB2UW8wWFhwUjBCSnduLWd6YjBWNlFCMDJVWWpiUXZxaTBNQkl0RWZqRGh5T2hRR3RsVzFUX3ZWZ1B6cjVJVjdlOGJObGVKZG84QjZ3NHAwUncxVi1KaTQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "b5b3f4b78539",
       "title": "Os alimentos que ajudam a reduzir a gordura no fígado - Diário do Centro do Mundo",
@@ -78,22 +114,10 @@
       ]
     },
     {
-      "id": "21d9da56b973",
-      "title": "Um estudo de neurociência confirma: crianças que aprenderam a tocar um instrumento desenvolveram uma habilidade essencial para a vida - Terra",
-      "published": "2026-08-17T18:40:00+00:00",
-      "summary": "Um estudo de neurociência confirma: crianças que aprenderam a tocar um instrumento desenvolveram uma habilidade essencial para a vida&nbsp;&nbsp;Terra",
-      "sources": [
-        {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOWktuWUFQdG5PX0NraXo3RURtQjluQ1Q3X3Y0aE9PVmN2dVZta0wwdTYzU3pDOFFLbDliOXIzbHdhcjRBUlRCZHpvM0hpeTM1MlJKeVFUYzFINW9iVTZwalVOYjczbXUwMTl4SVhOeEQzelUyNTk2cnFUWUxfMnU4ZWdQZGl1WThmWDc5c2FVQnlVbVVvbEd2S055TlR1cHRFLXM5c2tMYVBaLXhNOXJYY3ViR1B5dGpPVmdGWkwzeFM2ZEFha2dzMXdTMTRGa3FhaTJxcmRLMU9LNURiWEFUc0JQaElwUy1kOU9TXzFmZWRqS3VYdUYwaV8tX2NLeEliQVkxWHRvUGZKellfNjJEaHRET3N1NzhsNUFBeXBYZGY5R09VRXMtSVhOcHdQX19ody1IYWtOaVFmbmtn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4e9a16042453",
       "title": "Doze crianças da mesma vizinhança são diagnosticadas com câncer raro - Metrópoles",
       "published": "2026-08-17T18:17:00+00:00",
-      "summary": "Doze crianças da mesma vizinhança são diagnosticadas com câncer raro&nbsp;&nbsp;MetrópolesDoze crianças da mesma vizinhança são diagnosticadas com câncer raro nos EUA&nbsp;&nbsp;Jornal OpçãoPais de jovem morta por câncer raro na Califórnia pedem investigação sobre cluster de casos&nbsp;&nbsp;Somos NotíciaPais pedem investigação após 12 jovens da mesma vizinhança terem câncer raro na Califórnia&nbsp;&nbsp;180graus.com",
+      "summary": "Doze crianças da mesma vizinhança são diagnosticadas com câncer raro&nbsp;&nbsp;MetrópolesDoze crianças da mesma vizinhança são diagnosticadas com câncer raro nos EUA&nbsp;&nbsp;Jornal OpçãoPais de jovem morta por câncer raro na Califórnia pedem investigação sobre cluster de casos&nbsp;&nbsp;Somos NotíciaPais pedem investigação após 12 jovens da mesma vizinhança terem câncer raro na Califórnia&nbsp;&nbsp;180graus",
       "sources": [
         {
           "name": "Metrópoles",
@@ -102,10 +126,22 @@
       ]
     },
     {
+      "id": "35f2361eef56",
+      "title": "Pesquisa em MS avalia qualidade e segurança de misturas de biodiesel - Campo Grande News",
+      "published": "2026-08-17T16:58:00+00:00",
+      "summary": "Pesquisa em MS avalia qualidade e segurança de misturas de biodiesel&nbsp;&nbsp;Campo Grande News",
+      "sources": [
+        {
+          "name": "Campo Grande News",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeHdQQVcyb1VPZE83OW42OEJibHZ6Tjg2WmcxR1VUeHo3YVpzbUxxbHk4ZjFkb0EzMWszaUhxbVlIVGJUU0taeGxSbWp0SnRSWnktakxDSXR0b3dZS1Y2WndUa0R0YW9sMmJER1ZjUFpmZi00UDk0TElOdFFTbkJFbGpzT3ZLeG9OTjQ2S3ZGNXczVFlkaWREYXdzVVAyLXZCUG0tcmQwSUhEaGtNVlVnN3lJaXV5d9IBtgFBVV95cUxNQXVOeTd3UmhmVHJYbkF3T2kxX2FBRWgwSEtyV2pUODFKazk5eG13NzRxR2ExREJZV3Q0b25xZ2Y1Y0VNRF9VTTAwekpzZW9ZaXNjVklZMklKRFhmWUxrSGxrSGRrbHpPWTJnamxjZGFvODB5TXY2NGF2TldmRXN2T2ZmTk82Y2RUaXZuaXJGLW5MS1IxUG92VDlZMGpmNXNHNGhYZ0RpR245ZDF6dEpid0l0SVRtZw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "2d176923c56f",
       "title": "Dia D de Multivacinação terá 39 salas abertas em Ribeirão Preto; veja quando - ACidade ON",
       "published": "2026-08-17T16:04:12+00:00",
-      "summary": "Dia D de Multivacinação terá 39 salas abertas em Ribeirão Preto; veja quando&nbsp;&nbsp;ACidade ONSarampo: morte, inflamação no cérebro e infecções; entenda os riscos da doença que pode ser evitada com vacinação&nbsp;&nbsp;G1Ministério da Saúde confirma origem de cepa do sarampo em SP&nbsp;&nbsp;TV CulturaMetrô de SP terá nova rodada de vacinação contra sarampo, caxumba e rubéola&nbsp;&nbsp;CNN BrasilSarampo tem 12 casos em apuração no Grande ABC&nbsp;&nbsp;Diário do Grande ABC",
+      "summary": "Dia D de Multivacinação terá 39 salas abertas em Ribeirão Preto; veja quando&nbsp;&nbsp;ACidade ONVacinação contra o sarampo acontece em outros pontos de São Paulo&nbsp;&nbsp;G1Ministério da Saúde confirma origem de cepa do sarampo em SP&nbsp;&nbsp;TV CulturaSarampo: preciso me vacinar de novo?&nbsp;&nbsp;BBCMetrô de SP terá nova rodada de vacinação contra sarampo, caxumba e rubéola&nbsp;&nbsp;CNN Brasil",
       "sources": [
         {
           "name": "ACidade ON",
@@ -126,10 +162,10 @@
       ]
     },
     {
-      "id": "ffa8128571ab",
-      "title": "Malária: com medicamento inovador, Brasil registra menor número de casos em quase 50 anos - www.gov.br",
+      "id": "f0d07b7c03b7",
+      "title": "Malária: com medicamento inovador, Brasil registra menor número de casos em quase 50 anos — Ministério da Saúde - www.gov.br",
       "published": "2026-08-17T14:09:00+00:00",
-      "summary": "Malária: com medicamento inovador, Brasil registra menor número de casos em quase 50 anos&nbsp;&nbsp;www.gov.brBrasil registra menor número de casos de malária em quase 50 anos&nbsp;&nbsp;Folha de S.PauloMalária atinge menor taxa em 47 anos, mas sarampo preocupa governo&nbsp;&nbsp;Correio BrazilienseBrasil registra menor número de casos de malária em 47 anos&nbsp;&nbsp;Brasil 247Brasil tem menor número de casos de malária em 48 anos&nbsp;&nbsp;G1",
+      "summary": "Malária: com medicamento inovador, Brasil registra menor número de casos em quase 50 anos — Ministério da Saúde&nbsp;&nbsp;www.gov.brCasos de malária caem ao menor nível em mais de 40 anos&nbsp;&nbsp;Valor EconômicoMalária atinge menor taxa em 47 anos, mas sarampo preocupa governo&nbsp;&nbsp;Correio BrazilienseUso de medicamento oferecido no SUS reduz casos de malária no Brasil&nbsp;&nbsp;Correio do PovoBrasil registra menor número de casos de malária em 48 anos, segundo Ministério da Saúde&nbsp",
       "sources": [
         {
           "name": "www.gov.br",
@@ -186,14 +222,14 @@
       ]
     },
     {
-      "id": "522bbacbdc7e",
-      "title": "UFPI divulga 2ª Chamada da Lista de Espera com 18 vagas para os cursos de Medicina (Floriano), Psicologia e Inteligência Artificial - ufpi.br",
-      "published": "2026-08-17T12:34:00+00:00",
-      "summary": "UFPI divulga 2ª Chamada da Lista de Espera com 18 vagas para os cursos de Medicina (Floriano), Psicologia e Inteligência Artificial&nbsp;&nbsp;ufpi.br",
+      "id": "268157f2cb36",
+      "title": "Confira datas e locais da campanha antirrábica preventiva em Poços - Poços Já",
+      "published": "2026-08-17T12:30:00+00:00",
+      "summary": "Confira datas e locais da campanha antirrábica preventiva em Poços&nbsp;&nbsp;Poços JáPoços de Caldas antecipa vacinação antirrábica para reforçar a proteção de cães e gatos&nbsp;&nbsp;Prefeitura de Poços de CaldasVacinação antirrábica começou e segue em bairros de Poços até sexta-feira&nbsp;&nbsp;TV PoçosCabeceira Grande realiza campanha de vacinação antirrábica em Palmital de Minas&nbsp;&nbsp;Jornal Panorama MinasCaso de raiva na região faz Poços antecipar vacinação de cães e gatos&nbsp;&nbsp;",
       "sources": [
         {
-          "name": "ufpi.br",
-          "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNT0NpMGVFU1A0Rl9HMXhwZnVuMUtsd08wbHd6WXdPZElIZjZfRUIyVnM0MEV1Y3k4WGxXT0hZU2NhSy16STVza0RQVzVMY1Frc3VtZEFZb3k3QUh1VHk5ZFBqd2Z5R1hSLTdIMTlXOXN6ZzhwbnpUUUNSS2hNZmdzS3AyczBkbS16UjhBQmR3ZElwUzB4WkphUFlBUmdzRHJRbjNVQnVqWnB3aEpLb1ZZb0VXdFNJWkt0RzdOUUdSUUNrdXlJN3N1T2MzUmVQcmxrSHNBWm1iQ0QzNDVEMGJ3cGZ6c01VWTVkU3lHb0ZuVll2SDR3Y0IzUHhoNGU4WEdsd2hTcUJGQkRmZkctdk1sMUdwSm1ycU02d29MS2lqdklwV0xqdGN1Yklhend6b29oN2pTMElIS1A?oc=5"
+          "name": "Poços Já",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMWJWbk5qUkdKUmlBU3YyVFFYd3JMTkhqcWJyaUxCZUxyRHcwYVBKN2Z2MDVlRWJQTFc1ZklNU0VpTm95ZWR1aWJHZmhVOWVSeGxydlhuNEZ1b0hyTmJEam1JOERzcHlkMkRoRUJEZG9qM2dBZlNWS3ZpQVJwejZGbk9zYmd2aXhiSHFNNUlQSGJMSmNXd3B3Y1Q5TklSUlRlYl9SSnFmeUdCd3ZCbzloUlJFeGM5VmZwNVYwQ1ViRQ?oc=5"
         }
       ]
     },
@@ -222,13 +258,13 @@
       ]
     },
     {
-      "id": "a787200223fe",
-      "title": "Planta medicinal comum em jardins reúne nutrientes e pode favorecer a digestão; saiba qual - ICL Notícias",
+      "id": "2a39e1e13874",
+      "title": "Planta medicinal comum em jardins reúne nutrientes e pode favorecer a digestão; saiba qual - iclnoticias.com.br",
       "published": "2026-08-17T11:29:15+00:00",
-      "summary": "Planta medicinal comum em jardins reúne nutrientes e pode favorecer a digestão; saiba qual&nbsp;&nbsp;ICL Notícias",
+      "summary": "Planta medicinal comum em jardins reúne nutrientes e pode favorecer a digestão; saiba qual&nbsp;&nbsp;iclnoticias.com.br",
       "sources": [
         {
-          "name": "ICL Notícias",
+          "name": "iclnoticias.com.br",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwLVRERW5nbm5UaGIwOFFFeTJldUhYY3NzZGpRQ2w2Qkh4Z0Zua3psdzJPaWJ2QlkxbjBOMzZ3dDFqWEx6dW5OQjA2SEVUMm4wRXM0TERTSUpSNEtuLXNUUkYxY2xvQi1tMko3R0ln?oc=5"
         }
       ]
@@ -237,7 +273,7 @@
       "id": "6bb920898fd1",
       "title": "Os casos de puberdade precoce que intrigam os médicos em todo o mundo (incluindo no Brasil) - Época Negócios",
       "published": "2026-08-17T11:00:53+00:00",
-      "summary": "Os casos de puberdade precoce que intrigam os médicos em todo o mundo (incluindo no Brasil)&nbsp;&nbsp;Época NegóciosVeja mais manchetes e perspectivas no Google Notícias",
+      "summary": "Os casos de puberdade precoce que intrigam os médicos em todo o mundo (incluindo no Brasil)&nbsp;&nbsp;Época Negócios[Ciências – 18/08] (F) (L) Diretriz internacional redefine a abordagem da puberdade precoce central&nbsp;&nbsp;Jornal da USPNova diretriz internacional atualiza diagnóstico e tratamento da puberdade precoce&nbsp;&nbsp;TV CulturaPuberdade precoce afeta mais meninas e exige diagnóstico rápido&nbsp;&nbsp;Diário do Centro do MundoLiderada por brasileira, nova diretriz internacional re",
       "sources": [
         {
           "name": "Época Negócios",
@@ -273,7 +309,7 @@
       "id": "dc33af74113b",
       "title": "‘Fico me cobrando se poderia ter feito mais por ele’, Rodrigo Góes relembra morte de Ganley e a experiência com anabolizantes - O GLOBO",
       "published": "2026-08-17T07:30:29+00:00",
-      "summary": "‘Fico me cobrando se poderia ter feito mais por ele’, Rodrigo Góes relembra morte de Ganley e a experiência com anabolizantes&nbsp;&nbsp;O GLOBO“Suco feminino”: anabolizantes podem causar mudanças irreversíveis em mulheres&nbsp;&nbsp;Diário do Centro do Mundo“Suco feminino”: anabolizantes podem acelerar ganho muscular, mas trazem riscos à saúde&nbsp;&nbsp;Francês NewsDe arritmias a morte súbita: cardiologista alerta sobre riscos do uso de anabolizantes&nbsp;&nbsp;Hora CampinasAnabolizantes: o qu",
+      "summary": "‘Fico me cobrando se poderia ter feito mais por ele’, Rodrigo Góes relembra morte de Ganley e a experiência com anabolizantes&nbsp;&nbsp;O GLOBO“Suco feminino”: anabolizantes podem causar mudanças irreversíveis em mulheres&nbsp;&nbsp;Diário do Centro do Mundo“Suco feminino”: anabolizantes podem acelerar ganho muscular, mas trazem riscos à saúde&nbsp;&nbsp;francesnews.com.brDe arritmias a morte súbita: cardiologista alerta sobre riscos do uso de anabolizantes&nbsp;&nbsp;Hora CampinasAnabolizantes",
       "sources": [
         {
           "name": "O GLOBO",
@@ -285,23 +321,11 @@
       "id": "8cc0b6bd7abf",
       "title": "Usuários de canetas emagrecedoras relatam perda de interesse em atividades que já foram prazerosas - Folha de S.Paulo",
       "published": "2026-08-17T07:00:00+00:00",
-      "summary": "Usuários de canetas emagrecedoras relatam perda de interesse em atividades que já foram prazerosas&nbsp;&nbsp;Folha de S.PauloUsuários de Mounjaro e Ozempic relatam apatia e queda da libido&nbsp;&nbsp;Diário do Centro do MundoRemédios para emagrecer: Anvisa aprova novos e ciência alerta sobre álcool&nbsp;&nbsp;DOLOzempic pode ajudar a explicar como o cérebro controla os desejos e os vícios&nbsp;&nbsp;e-global.ptCanetas emagrecedoras podem reduzir o consumo de álcool? Saiba mais&nbsp;&nbsp;Terra",
+      "summary": "Usuários de canetas emagrecedoras relatam perda de interesse em atividades que já foram prazerosas&nbsp;&nbsp;Folha de S.PauloUsuários de Mounjaro e Ozempic relatam apatia e queda da libido&nbsp;&nbsp;Diário do Centro do MundoComo as canetas emagrecedoras estão mudando a relação com o álcool&nbsp;&nbsp;BBCRemédios para emagrecer: Anvisa aprova novos e ciência alerta sobre álcool&nbsp;&nbsp;DOLOzempic pode ajudar a explicar como o cérebro controla os desejos e os vícios&nbsp;&nbsp;e-global.pt",
       "sources": [
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWGpTU0FwTGJpNDJLZGY0UGROa3R3ZUhtYmNDNTBfX1gtRnQwMlF1SlBQanRQZzZUN25tZ2JMTFlxem9jcGx0cWZUWkRIdVhBTVpTMVVMYWVsT0ppU3JXaWZzNmtDN0U0Q1FoQ1RVUnJWeVlBazN2dC1Fall2cDNPdDkwTXo2VTBrM2hNUVdhbWVXUVg2QWlqVHAteUFrV19Fd2x5aklNWTRPVlpWaVlOMDEzWjZrdzNaakQ1Rjh5a0FVR0x1dWJWRjg5NWRqVEFmQkFpUHlvQUlOX25YcGdudl9UV1dSR2lP?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3121312b9006",
-      "title": "Eclipse lunar: Planetário do Rio terá programação gratuita de madrugada com telescópios, música e mais - O GLOBO",
-      "published": "2026-08-17T06:30:33+00:00",
-      "summary": "Eclipse lunar: Planetário do Rio terá programação gratuita de madrugada com telescópios, música e mais&nbsp;&nbsp;O GLOBO",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQenZzZlRsVGZmdnU5VmJuT29nYVp6Snh4bDhlVngzaDJ3ZHh5ZFY0dUlpZ0pSYjR2WFpsNFpNcmJ1dUpzOEVZTHJ3TlBPa2xoa2MtWWJ4YTlaYTEtazZURGVzY3l2VE5QdUQxQ0RLRi1XNmhnMFVkYVhBTzdrNko3X280MUpUTzk1NzVfdXhBTDBMWmtsRjF3XzNSUF94aUV6RE9oYVJndUhKdU03NGRacDRnVDNlRE82eG8tb21oeXEzS2dUckdmTlp4VFRlTE5RenVvMWV0QmR2Q0t1R3NZeWhIMHBUUzNFa2NmaEFYSEdWQjTSAYICQVVfeXFMUGdUTEpBOGM2STJsdFVUY1J3TjQwM0g3cENWZ0hhalloS1JaaXNWXzBhWDdPUndsbHJUejJUTVRrcUxnOXBlMDhqVTczT0plSmNuSHpqaUxJTGJuanVvNzBWUVZTRmFOYW1ZdWRWMFRyN3RwZDJVWGVyNGZ6NENfMVRVYW5KVURzOGlJblVwX2dzbmFGd2dkamMzQUVQVVZvOXV3Q3JLWXFRV2tpOU9CSDRfZkpwYm8zOF9kaHFTTU9kYzZKRFZDcGY0MU1DU2NvRmg4Wng5T2c5ai10dzFkYTBKZ2RSQ1pZQzZ3dkpaXzFoWXlCSGpGWTFBNzhnQVVuMTRB?oc=5"
         }
       ]
     },
@@ -318,14 +342,14 @@
       ]
     },
     {
-      "id": "64cc4213ca0e",
-      "title": "8 brasileiros são premiados pela NASA após descoberta fascinante - diariodocomercio.com.br",
+      "id": "796fdf8f391e",
+      "title": "8 brasileiros são premiados pela NASA após descoberta fascinante - Diário do Comércio",
       "published": "2026-08-16T22:08:00+00:00",
-      "summary": "8 brasileiros são premiados pela NASA após descoberta fascinante&nbsp;&nbsp;diariodocomercio.com.br",
+      "summary": "8 brasileiros são premiados pela NASA após descoberta fascinante&nbsp;&nbsp;Diário do Comércio",
       "sources": [
         {
-          "name": "diariodocomercio.com.br",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWWd1VEI5eW8xR2ttTGVLekw3QkE4WXRwNmZkN0owclhwSUlCRlhPZmdFUTNjT2pob1E2Rjc2N1NEYzcyT1NNRU1wMm9vNHVwcmRrWXBRaFQ5Z3laekIteVo2ZlF1OUozRjFjQ1RGb3lnazhkMnpwNG5TMTNCV2JTRExMbHBlUFZZZ3k2ZDh1SVBwQ08ydzZhSzZ3VHNwYy12OUE?oc=5"
+          "name": "Diário do Comércio",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZkR6Z2xQSlNYOU1vZ3REWXhKdmc4eDZaejBMVlMxdVJ0Y2ZNNmtXWS1jdHpheHl5dlBiZE5PYTRMUmx1WHNoRksxNFF4S3dWRTFWZzFoOXRKbG9JbF80VUtqT3BEQ0VIZXBrdkUyTGNVd2Z0WnNhYU1RWDNsM3lKbUpYLTZwMXV0ZXFteVU1SVF0ak5jVVNwd2hqNDRiXzZMS3B3?oc=5"
         }
       ]
     },
@@ -342,62 +366,14 @@
       ]
     },
     {
-      "id": "41dc1b466d0d",
-      "title": "Estudo de quase 15 anos revela o que pode estar por trás de um envelhecimento mais lento - Terra",
-      "published": "2026-08-16T11:00:00+00:00",
-      "summary": "Estudo de quase 15 anos revela o que pode estar por trás de um envelhecimento mais lento&nbsp;&nbsp;Terra",
+      "id": "5fec0b243420",
+      "title": "Um estudo de neurociência confirma: crianças que aprenderam a tocar um instrumento desenvolveram uma habilidade essencial para a vida - Xataka Brasil",
+      "published": "2026-08-16T17:00:48+00:00",
+      "summary": "Um estudo de neurociência confirma: crianças que aprenderam a tocar um instrumento desenvolveram uma habilidade essencial para a vida&nbsp;&nbsp;Xataka Brasil",
       "sources": [
         {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQeDR3QUVsT2IyUDJQNmdZeXpyTXdGdE0wLXB3UG0yU195cE9CNTlieVBVT1dqWnliUE15aVh5b0p1M21wcmlILUhZNjZqeExGYVRTUm9JMW1xWnZiNkxTcVlzV3VIX3JkYXJFRVhPUnNsMGUyWmNPVE9PWWNuaVBWclJrZEVhQ0dpU19EcUNxZHpobVVPemtVS0Nqa3dUOXhuTzQ3VTZEcDFKSzYzQlM3M3lVRnB1Z3Y0NzNpVnlnOEFWdkpvUzBzbUwzeFFtN1hUcVhGN0dKTTF0ZHVRbF80bDZUTTNXSUczam9KWnFqY21wM0JaOV9DbGtQenI2WDVjZDdMZzJoVmV6THc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b8a5afe212af",
-      "title": "Depressão não está apenas na mente: ciência revela novas conexões - Correio Braziliense",
-      "published": "2026-08-16T08:02:00+00:00",
-      "summary": "Depressão não está apenas na mente: ciência revela novas conexões&nbsp;&nbsp;Correio Braziliense",
-      "sources": [
-        {
-          "name": "Correio Braziliense",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYXRpOTkzSklYTTFvQ19QSHYzak9PZUZ6UWhvbnNVdERhR2RybzJDTElNb0ZjVXoteGd2RzFXRkFDdHlQd2tjQ19sMmFPNnZzd3lKcy1YZGFmSENSOUM4RUx2MkRQNVhEdHdnVE9jN1hkTm82ZjY5a2ZNME9UR29YWnJwTDBVNVN0SzdVOVkxLW9PWWFKR09KWlhGbE1IYjl2eVRONkplc0tXRW9xdmwyYXQ0bExnNXRZeDEwc0tjLWp5TUVhVzRieTIwTTVMV285aHI3enhn0gHbAUFVX3lxTFB4eUpPSXEzcmV5NEwwOVBSS2k2djE0OGZTYkVHdk9Ha1l2MzRuMHpRZjltODNkNTVnOXFxcWhoVUliQTFQalB6SFlVVURTWWg1OWF1THRVYUs4V2I0dW96cHRnLXNpaGNKWHdkZXRiNXRaajhTTS1JNHdKTjBKYmt0T0QyNGtWTXNrdnBGQXJUaWRGQTB4dERpVjhvUlBNVC1VUjJVd2Rkb01ic1BpMU51YTY0eE1DSUI4cVF0OWd6NzJkQUZUT3lNM1pSaDE1SHY4OUczZzJLTWZXdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5ec457be1499",
-      "title": "'Estrela de buraco negro' pode ser novo tipo de objeto cósmico; entenda a descoberta - G1",
-      "published": "2026-08-16T08:00:45+00:00",
-      "summary": "'Estrela de buraco negro' pode ser novo tipo de objeto cósmico; entenda a descoberta&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaFh2RkJwWjZUYnI0RVRQRXVPU0VSZzdQckFmTjlNUjIyRHIwcFU2SU16UEh2X0wwU0ptVl9hRU9VblplcmZxNGVNRFlSaUdiemtTT0lZb2lva1FoQmp5QXg1WWpUcFpBUXF6ejVvNjAxdGxCLVV0Mm5xb3dWbzBsajFfVXBEcG5nX2U5d042SHRmWXFWWG5OMDFDLVpLYWRkQU1yeXJIczRRSmNiQWpRakN6VXM1QklfNm9OdFhJZ012M204ZVpSQUJLMThqaldC0gHfAUFVX3lxTFBSZTFxTElsUXJhNU5EWGE3MG4xWlk2TlpFNXZRWF9vMzhxMEVpcTYwUG9XTS1ubHlYMDJ4cGpmU1Q4bnV6b19wV01BQ2ZxOVhXbGVabWk3dzQzZUVfSXJKajRqWXdpV0Nmem9hWDB0dnhDY0N6eHIwMUttV0J3MGRVYlVHU3kzZ0xKblcyWFlvQWVYdXlETk5yYWw5UE9fdmlVSzFrdjdYTVVDb1JpX0VfcHpVZlVuRWFveFhkSWo3N2lJSURIc3pzMGt1R2dKaFVRUXplZzJ2TERrMW5rSEE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e2245d73d08e",
-      "title": "Está na meia-idade? As 9 coisas que os especialistas gostariam que você fizesse para aumentar a longevidade - O GLOBO",
-      "published": "2026-08-16T07:30:32+00:00",
-      "summary": "Está na meia-idade? As 9 coisas que os especialistas gostariam que você fizesse para aumentar a longevidade&nbsp;&nbsp;O GLOBOROUNDTABLE: A ciência da longevidade&nbsp;&nbsp;braziljournal.comO treino que tem de fazer a partir dos 40 anos para ser saudável o resto da vida&nbsp;&nbsp;nit.ptMente aberta, vida longa: estudo mostra um caminho para a velhice saudável&nbsp;&nbsp;VEJAA expectativa de vida poderá chegar aos 194 anos; especialistas sugerem a manutenção de 4 hábitos.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSW9COU13cTR3eG5URXBkeVNCVVJTU2VtUHZZX0JDdGY0RHZkUE9MV3M5WUZSUjJnYV9Ua3F6T0FhVDZ2SmtFWlJ0cVNtbkpSNzR1Z1laVEtUb0hSUWduRWxuQWZxNkY1NWZEZUJ0NThvazNfazBJVERiT3ZxZVBvcWVfSVh1aDJrNGNnZ2xSYWtlbXJfQV9VZ1BaWU5qV2xkTG1YR1ItUEpCV0RiOHBaZHBTZlJCTktsLURWU0kwVHdQSnVHZWQyZFM5aklfblVfVE5sa19ZUmptcGhKUXNyXzBveG9ZSW5FQ2dFRFViSGtYTzlY0gGDAkFVX3lxTE1oczZwMnI4X1l4WVlreGk0cVd5N1Fhb0NsLWxHMEwxZF9tU0xIa2tZZGR5Ym5FTmZ6U1VRZHN6ZHBWSGZNaFoxMENJeGhuaGtRTkg1OE5JYmppejl2TC1KZ19DeWU3cTFta1I1ZVVSZW9iaVlReHdCdHdLZVVoN09jWElpOEdNZHhQQTBESmlueVlpYnFJdHZ3eXZVTnRTS3pQNzlCampZMU82ejkyR1N4RXZZT29MTlJhNTBKNEZqRjAycVM1aEtLSjlVYTBpd1BrTWhRUnppenZhbkFVLVQwOFdfMkpuYmNEVm85cWdvem9fdkxfa2haQlhsTFRnbUlhaW8?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dd9683a16fdb",
-      "title": "Saiba identificar o tipo de dor no joelho e o tratamento indicado para cada condição - Folha de S.Paulo",
-      "published": "2026-08-16T07:00:00+00:00",
-      "summary": "Saiba identificar o tipo de dor no joelho e o tratamento indicado para cada condição&nbsp;&nbsp;Folha de S.PauloJoelho inchado e dolorido sem pancada pode ser uma pista frequentemente esquecida de artrose&nbsp;&nbsp;Tua SaúdeDor no joelho: quando sintomas exigem avaliação médica&nbsp;&nbsp;Diário do SudoesteO que realmente funciona para a dor no joelho?&nbsp;&nbsp;EstadãoDor no joelho nem sempre significa cirurgia: novos tratamentos podem evitar ou adiar procedimentos cirúrgicos&nbsp;&nbsp;Porta",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOUZJZ0FVQzFBTzVaNTFmaDBzdmRIZWNxQVlhOXVwTE5ORldRSE00U3JScjV3VklBRHZzWEZhTW40OUY5S2xjem54LVRieWtMVHd5NmNtSmdEUUROTWtMOG9aNEd0LXZHYTM1M21BWmpHNHc2dW8tb3BndEtaNnRjaTg0Nl9zZVIwa2Y1dThXbWIyZV80cXdmaEw4emQzY2ZBaV83MnNZTTh2N2RlU0U5R28tMTZBYUtmbFA4ZEp6WVJrTVdvcE4yYVJabWtxd25lMGN0dWF4Y1pNOHRQWUE?oc=5"
+          "name": "Xataka Brasil",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTVJONDJ4NUtWMV9jMHhIR3RSbUlXMERuaF9TSVUzeElCd0p1QzhoM3FQTGlkd1RPN1lQRGkxVm5VRHJkNHJPckc0X3ZqdG9LQ2E3SjNRNEp3dWF3ZnY0ZWJsbTVRbndoZXNEQXlHTUYzaTUwVDg1WW96QWphUWxtT3d0X0lpbkk0SzJNbENnSGllNDVzRjBoNEh1cG1zdnNwQ3lDZnZCTE1iSVVsUVJPeGJZZzlCS0VEbGdmalMyc25DTUdjSUhGbmlIN1ZoOXI5X0VHNF9mV2UzTFpjdThfRTM0SF9iSTNDdWtaSk9hZm1CV1RIUWc?oc=5"
         }
       ]
     }
