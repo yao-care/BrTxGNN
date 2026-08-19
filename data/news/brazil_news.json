@@ -1,19 +1,43 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-08-19T01:19:22.766643+00:00",
+  "fetched_at": "2026-08-19T06:45:58.636034+00:00",
   "total_fetched": 93,
   "unique_count": 91,
-  "health_related_count": 31,
+  "health_related_count": 28,
   "news": [
     {
-      "id": "412dea2ad523",
-      "title": "Cobra escapa de laboratório de ciências e causa incêndio em escola - Agora MT",
-      "published": "2026-08-19T00:04:04+00:00",
-      "summary": "Cobra escapa de laboratório de ciências e causa incêndio em escola&nbsp;&nbsp;Agora MT",
+      "id": "90190484fa9f",
+      "title": "Volta às aulas: cobra escapa de laboratório de ciências e causa incêndio em escola - R7",
+      "published": "2026-08-18T23:18:09+00:00",
+      "summary": "Volta às aulas: cobra escapa de laboratório de ciências e causa incêndio em escola&nbsp;&nbsp;R7",
       "sources": [
         {
-          "name": "Agora MT",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZGxnQkc4QW9VakJZcHdBMnc4YTV6LVJva0dFdTQzWjhJQVBXUEdOY0owVTNUMGh3ZGRReHpibXNpWVhVRFd5T3c2eC1mQUZIUDd5NVJRM0tCZGlWdnk5eHFCZFBUU3NhNnBfT3pwSUVtMDc0eUpMY2NNVmluMl9XZkdNYzdZTVNxQkJoZ2VCYzFzeEFXQjAyemlMMkpnc1JfbmpLUQ?oc=5"
+          "name": "R7",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQmhiUjBSVGg5cEplSDFBancxQ25QYVI1R1FiMU1XSXhjbW84V3RDemM0ek0xTnZpVHJRYUE4Xy1KQTVNa0ZZSnh6N05ybGRMaVptdm9pamZ4bG40ZlQ5NXVfbzdtb3h4Q0NBXzNqd1pmd0puQ25mS1ZXbVplTEtWSnY2Z3FfckFnTXBzVnhhdldxSG1QZWZGX3BoUnpHNlJKaTk3NklZZDljMjZyTjA5SmZ6Y0VJSmxBVEJWWmcxRDJxZFhmUDZ4UA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dc1b142b0cb5",
+      "title": "Médica está foragida após condenação por tortura em clínica de dependentes químicos de Ribeirão Preto - G1",
+      "published": "2026-08-18T22:42:16+00:00",
+      "summary": "Médica está foragida após condenação por tortura em clínica de dependentes químicos de Ribeirão Preto&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNcW1jRjVnNnV2UmRHQ2liWWVlTFB0NzJrdDEwbWpCTHVjdWJCQ0J4QklmQTBRaUNjTWZQdWJmdGIxUEJxRTJ5MnNhMTZucjNmZGpZXzBrclg2cno3ZWZhRjJQVmp4azV3Ql9MUDdYZWMyUmQ3M2tzOTltbVhvWVg5NjJacDhjS1gwREtoNDJRZUZqakdEa0tqenZxSDlLYU5FcWRGTUtzT2hxTTNBWEg2T3E5TXlybFd3ak5aTkNMZFpZaXFrVEJKOGYwM0pBMDl2VHNKX1c2U2IxS3hCOURaMEhBUFNBcGV5eS1XaHJNMjhnaWJkMlpRMXc2bFF0cE9OQllQXy0yT0RPVmdvZmltVzlzSjTSAaMCQVVfeXFMUGVKbkl0VnNqVXh2bVlKdGdrYkN5VGJHX1BROXFaTmk0M1MyWko0LVdRdk1RREhENHI1Q2R3TV8zMWxTT0dkZUpfVVhGTXp4RmRTSkVoZmVXSEs4dVJfRUtkRFBfRjkyQTZPVGZxZ3VIVnVYSkdMXzhuZ2tNV1puSkF2U2tQRERyaFJMV1BSU0pXelRadGhsS1Fzd2NsRDcwM1E4QkkxcHV4OS1ER0gwTUozOG5jc24yT1VQemhrVGozYTVQSk94SEdqU01DZmtIRnk5Rkc0RnVfQkRqcUFEY2JseGNYelZZVm9OS1lSNFB2MzVWLVRmaTIxYTVTeDRVTk5nSE00MmdtUHdrdHg2dkJDN3ZlQmd3b1gtOHlRV2l0ek5r?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ad5630a155e6",
+      "title": "Lúcia Helena: Intestino faminto: por que alguns perdem mais peso que outros com Mounjaro - UOL",
+      "published": "2026-08-18T21:52:22+00:00",
+      "summary": "Lúcia Helena: Intestino faminto: por que alguns perdem mais peso que outros com Mounjaro&nbsp;&nbsp;UOLIntestino faminto: conheça o tipo de obesidade que responde melhor ao Mounjaro&nbsp;&nbsp;Veja Saúde‘Intestino faminto’: estudo identifica tipo de obesidade que dobra efeito de ‘caneta emagrecedora’&nbsp;&nbsp;PE Notícias",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMWZjN1I1a3pEbUttNWRFZjRSN1Q4OW1IUmxWZDRwV0daR0FJUG0ycHByaFdBdlh6ekx2NFlFeGhrYS1IU0s2Q29yemRQd1RMRGNGOGYtRXkzaEhOZE1BcHpCeU51TEFHR3p4eU9NX3dCaGtCbzdXUUNvVVlCczBJZHFwalNDWHVxdF9hR0JCdGVqZHJaRG54LXNQU1BoTGI2OXQ0MTBPdXhYckp4QThOaXJrSHowSGg2cHp2YkF0dElDaXo5T2lXZjBGTTRjZTRXaVd2ai1Xaw?oc=5"
         }
       ]
     },
@@ -45,7 +69,7 @@
       "id": "3870248dda93",
       "title": "O que significa gordura no fígado e como identificar - 18/08/2026 - Equilíbrio e Saúde - Folha de S.Paulo",
       "published": "2026-08-18T20:00:00+00:00",
-      "summary": "O que significa gordura no fígado e como identificar - 18/08/2026 - Equilíbrio e Saúde&nbsp;&nbsp;Folha de S.PauloFígado: os 5 melhores e piores alimentos para o órgão&nbsp;&nbsp;Veja SaúdeEsta dieta é associada a até 39% menos risco de doenças no fígado, segundo estudo&nbsp;&nbsp;terra.com.brGordura no fígado: veja quais alimentos priorizar e quais evitar no tratamento da doença&nbsp;&nbsp;GZHEntenda a relação entre o consumo exagerado de açúcar e a gordura no fígado&nbsp;&nbsp;metropoles.com",
+      "summary": "O que significa gordura no fígado e como identificar - 18/08/2026 - Equilíbrio e Saúde&nbsp;&nbsp;Folha de S.PauloEsta dieta é associada a até 39% menos risco de doenças no fígado, segundo estudo&nbsp;&nbsp;TerraEntenda a relação entre o consumo exagerado de açúcar e a gordura no fígado&nbsp;&nbsp;MetrópolesEspecialistas apontam 3 hábitos matinais que ajudam a reduzir o risco de doença hepática gordurosa.&nbsp;&nbsp;Vietnam.vnTomates como protetores do fígado? Novo estudo revela descobertas surp",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -66,14 +90,14 @@
       ]
     },
     {
-      "id": "ad5630a155e6",
-      "title": "Lúcia Helena: Intestino faminto: por que alguns perdem mais peso que outros com Mounjaro - UOL",
-      "published": "2026-08-18T17:52:22+00:00",
-      "summary": "Lúcia Helena: Intestino faminto: por que alguns perdem mais peso que outros com Mounjaro&nbsp;&nbsp;UOLIntestino faminto: conheça o tipo de obesidade que responde melhor ao Mounjaro&nbsp;&nbsp;Veja Saúde‘Intestino faminto’: estudo identifica tipo de obesidade que dobra efeito de ‘caneta emagrecedora’&nbsp;&nbsp;PE Notícias",
+      "id": "a29bc2cb0d9e",
+      "title": "Insuficiência renal crônica é doença silenciosa; veja os fatores de risco - Portal Drauzio Varella",
+      "published": "2026-08-18T19:04:36+00:00",
+      "summary": "Insuficiência renal crônica é doença silenciosa; veja os fatores de risco&nbsp;&nbsp;Portal Drauzio VarellaDoença renal pode avançar por anos sem dar sinais&nbsp;&nbsp;Folha PEDoença renal silenciosa preocupa especialistas; exame simples pode ajudar a detectar problema antes de estágio avançado&nbsp;&nbsp;Diário de PetrópolisFotos - 3ª edição do FístulaTalks reuniu especialistas e movimentou Salvador em dia dedicado à saúde&nbsp;&nbsp;Anota BahiaCoceira persistente na pele sem causa aparente nem",
       "sources": [
         {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMWZjN1I1a3pEbUttNWRFZjRSN1Q4OW1IUmxWZDRwV0daR0FJUG0ycHByaFdBdlh6ekx2NFlFeGhrYS1IU0s2Q29yemRQd1RMRGNGOGYtRXkzaEhOZE1BcHpCeU51TEFHR3p4eU9NX3dCaGtCbzdXUUNvVVlCczBJZHFwalNDWHVxdF9hR0JCdGVqZHJaRG54LXNQU1BoTGI2OXQ0MTBPdXhYckp4QThOaXJrSHowSGg2cHp2YkF0dElDaXo5T2lXZjBGTTRjZTRXaVd2ai1Xaw?oc=5"
+          "name": "Portal Drauzio Varella",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQVlnSUtRUzNuNUZubVpaRmhBTkxib1pZRlJNVkpOTjJLZllDWGw3OTJEekVERkR5TC05Wkw0UmVUREhWOW9lUTVNUlZIRVEwOXNQUmRNekg1S3cwN2xXVGJZQktGODBxVm91Nl9GSWhYMWZnVDdtU25ydnZZdDIzeWsza0x3OGhLRmNTUUd4N2Rna2FGQVNKbmVNLVduV2FEd1pRc1RNZllpQnlPTU9xZUt3VFYwc25kVEE?oc=5"
         }
       ]
     },
@@ -102,13 +126,13 @@
       ]
     },
     {
-      "id": "61f4634443d4",
-      "title": "NETZSCH do Brasil participa de experimento inédito do canal Manual do Mundo - jornaldepomerode.com.br",
+      "id": "7692d5b041e1",
+      "title": "NETZSCH do Brasil participa de experimento inédito do canal Manual do Mundo - Jornal de Pomerode",
       "published": "2026-08-18T14:56:42+00:00",
-      "summary": "NETZSCH do Brasil participa de experimento inédito do canal Manual do Mundo&nbsp;&nbsp;jornaldepomerode.com.br",
+      "summary": "NETZSCH do Brasil participa de experimento inédito do canal Manual do Mundo&nbsp;&nbsp;Jornal de Pomerode",
       "sources": [
         {
-          "name": "jornaldepomerode.com.br",
+          "name": "Jornal de Pomerode",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUzNFWTlIR3JtQmw5ckxJWnc0SFV2Q1ZfYzE3VXVrN09acVEtUTg3QkhiUDhQTUdqdGF1ZVhneXVEOTU5SG1ueXVRZEdQdDdtLXhoVVJXQkl1eEhaUWI4dzg3RlRZbDQ3Qy03LTUybHgzTS1ScDVwaG1HbGx3QUxwUDF1Zy1IdTlDQ2NYRlc1Y1p3VUprV0V0UHY0UkFDWndMb25NY3U4SXgxVm51XzhQcVl3?oc=5"
         }
       ]
@@ -117,7 +141,7 @@
       "id": "74b4a84df061",
       "title": "12 crianças da mesma vizinhança são diagnosticadas com câncer raro; entenda - O GLOBO",
       "published": "2026-08-18T14:41:43+00:00",
-      "summary": "12 crianças da mesma vizinhança são diagnosticadas com câncer raro; entenda&nbsp;&nbsp;O GLOBODoze crianças da mesma vizinhança são diagnosticadas com câncer raro&nbsp;&nbsp;metropoles.comDoze crianças da mesma vizinhança são diagnosticadas com câncer raro nos EUA&nbsp;&nbsp;jornalopcao.com.brPai pede investigação após 12 jovens terem câncer raro na mesma região da Califórnia&nbsp;&nbsp;Gazeta Brazilian NewsPais de jovem morta por câncer raro na Califórnia pedem investigação sobre cluster de cas",
+      "summary": "12 crianças da mesma vizinhança são diagnosticadas com câncer raro; entenda&nbsp;&nbsp;O GLOBODoze crianças da mesma vizinhança são diagnosticadas com câncer raro&nbsp;&nbsp;MetrópolesDoze crianças da mesma vizinhança são diagnosticadas com câncer raro nos EUA&nbsp;&nbsp;jornalopcao.com.brPai pede investigação após 12 jovens terem câncer raro na mesma região da Califórnia&nbsp;&nbsp;Gazeta Brazilian NewsPais de jovem morta por câncer raro na Califórnia pedem investigação sobre cluster de casos&n",
       "sources": [
         {
           "name": "O GLOBO",
@@ -126,9 +150,21 @@
       ]
     },
     {
+      "id": "450b290c9d36",
+      "title": "O que o cérebro dos motoristas de táxi revela sobre o Alzheimer - Estadão",
+      "published": "2026-08-18T08:30:00+00:00",
+      "summary": "O que o cérebro dos motoristas de táxi revela sobre o Alzheimer&nbsp;&nbsp;EstadãoAlzheimer e profissões: estudo associa navegação a menor risco&nbsp;&nbsp;G1O uso regular de mapas de navegação espacial ajuda a reduzir o risco de morte por doença de Alzheimer.&nbsp;&nbsp;Vietnam.vnTaxistas raramente têm Alzheimer: mapas mentais complexos e raciocínio espacial protegem o cérebro&nbsp;&nbsp;redeutv.com.brTaxistas raramente têm Alzheimer: o papel dos mapas mentais&nbsp;&nbsp;SpaceMoney",
+      "sources": [
+        {
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaWVnSXJnMjZZVjlvQ2llZjJaQ0JiQXRHSC0yUWVRN184TjRxVWNFS3FBQlM5eWc5R3VpZlROQUZfbl9iNXJuQl82ZlZMOG0wdVQtYmVkWS1kendLbGhHVnAyRXRRTER6bWx2SkR1dmY4OUdkN09QcWFRV0hsWElDUlE4LUprcTVvT3hVWXVtM001aDFQRXkyRmg5Q2NtQ0NSa0dxQ0tSS0F0clZZYkxwQ1h2c9IBuAFBVV95cUxNcVpockpEY2NhU1plVk43RzFNLXBFTHJHTFhBU0RWbkU4dGJWQlhlQzlxTlg0ZXM4ckxHWWV4R3FySXlwN3RjYVJ3dFNzLUhVbnc2cjZkS2UtUzZVOWZwNjFNSi1qa19kVXFVQ2RyeWNQRVBBektIdVF4b09yZ2dDSkJubG9oa0ZHbjVfelFHZGxOSlZQWDRDNWFHOFh3RldBNWdTd0g5UlBfcGhiZENuZVZSdFVfdTlT?oc=5"
+        }
+      ]
+    },
+    {
       "id": "84899b55f1f9",
       "title": "ANS exclui terapias com vestes especiais da cobertura obrigatória para TEA - UOL Notícias",
-      "published": "2026-08-18T12:30:00+00:00",
+      "published": "2026-08-18T08:30:00+00:00",
       "summary": "ANS exclui terapias com vestes especiais da cobertura obrigatória para TEA&nbsp;&nbsp;UOL Notícias",
       "sources": [
         {
@@ -138,49 +174,25 @@
       ]
     },
     {
-      "id": "cb2042d9a4bb",
-      "title": "Esqueça a regra dos 7 anos: estudo revela a “idade humana” dos cães - olhardigital.com.br",
-      "published": "2026-08-18T10:00:00+00:00",
-      "summary": "Esqueça a regra dos 7 anos: estudo revela a “idade humana” dos cães&nbsp;&nbsp;olhardigital.com.br",
-      "sources": [
-        {
-          "name": "olhardigital.com.br",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONWtUUVlKQmthOUc3X3dLYUJrNl9YcHBjUmt6OExsaU5uRnFldjR1b0dmUHB6SkxHWmdqZjc0TnRpZmRabmRYZDBqN1ZhMnlFWTRrdTVnRkc1aFE1Z0p0S3RqLVhnWGFOdHh6LXhfUlZuWC1BRDF3RVJlUm5TMHA4ZjJ0LUtJdTZqNVZ1cVJUaTlnWENRdWJwREN6bDAtSEVnRThOX1JreGFtM2JDRUJERDAzQkJlRzNxWnRvUENZVzQtejRUSmow?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "450b290c9d36",
-      "title": "O que o cérebro dos motoristas de táxi revela sobre o Alzheimer - Estadão",
-      "published": "2026-08-18T08:30:00+00:00",
-      "summary": "O que o cérebro dos motoristas de táxi revela sobre o Alzheimer&nbsp;&nbsp;EstadãoAlzheimer e profissões: estudo associa navegação a menor risco&nbsp;&nbsp;g1.globo.comO uso regular de mapas de navegação espacial ajuda a reduzir o risco de morte por doença de Alzheimer.&nbsp;&nbsp;Vietnam.vnTaxistas raramente têm Alzheimer: mapas mentais complexos e raciocínio espacial protegem o cérebro&nbsp;&nbsp;redeutv.com.brTaxistas raramente têm Alzheimer: o papel dos mapas mentais&nbsp;&nbsp;SpaceMoney",
-      "sources": [
-        {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaWVnSXJnMjZZVjlvQ2llZjJaQ0JiQXRHSC0yUWVRN184TjRxVWNFS3FBQlM5eWc5R3VpZlROQUZfbl9iNXJuQl82ZlZMOG0wdVQtYmVkWS1kendLbGhHVnAyRXRRTER6bWx2SkR1dmY4OUdkN09QcWFRV0hsWElDUlE4LUprcTVvT3hVWXVtM001aDFQRXkyRmg5Q2NtQ0NSa0dxQ0tSS0F0clZZYkxwQ1h2c9IBuAFBVV95cUxNcVpockpEY2NhU1plVk43RzFNLXBFTHJHTFhBU0RWbkU4dGJWQlhlQzlxTlg0ZXM4ckxHWWV4R3FySXlwN3RjYVJ3dFNzLUhVbnc2cjZkS2UtUzZVOWZwNjFNSi1qa19kVXFVQ2RyeWNQRVBBektIdVF4b09yZ2dDSkJubG9oa0ZHbjVfelFHZGxOSlZQWDRDNWFHOFh3RldBNWdTd0g5UlBfcGhiZENuZVZSdFVfdTlT?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1c4d72544cb9",
-      "title": "Personalidade muda mais ao longo da vida do que as pessoas imaginam, aponta estudo - g1.globo.com",
+      "id": "390062f70e8c",
+      "title": "Personalidade muda mais ao longo da vida do que as pessoas imaginam, aponta estudo - G1",
       "published": "2026-08-18T05:00:22+00:00",
-      "summary": "Personalidade muda mais ao longo da vida do que as pessoas imaginam, aponta estudo&nbsp;&nbsp;g1.globo.com",
+      "summary": "Personalidade muda mais ao longo da vida do que as pessoas imaginam, aponta estudo&nbsp;&nbsp;G1",
       "sources": [
         {
-          "name": "g1.globo.com",
+          "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeXJfaUNsSlYtbjFOY2l2V0ctLXZORDNLajFCVlR5akdfVG9relRnUmZsU0xPWFpSYlhSaFlfdW10ZDEtWm9QQ1F6Ym42VmxJYl9EQXJRa3hOSy1nMmZ5MUswXzBlLW5Xd3VDQkFIclRnSk05RHNnb3BpdHlpSElPNWNEempIVWVXLVFIZ3VVRWt2SUR3dW1aR0NmSjd2WEJfQWY2RmJOMTZhTVhseHNhOHVzY1UyQU5rcThCcDNTRXUwMXM4dFp1MEJqSHc0UdIB3AFBVV95cUxOWmZMSVFkTmx6S2VMVVVCMzVia0tuZGZWeTVMZTUtUy1IRktXaGV0N0toR2JzSnpfVWhlRHg2V3dfbE96UGtpeVhheXl3UmlyU196R1RzV0V5dmJjWHdvMjVqVWY4SWxlaXplaFlINmNmc19SVmZxbjJJVnQyMExJMzRKZUhDMFVyLVRUSGI5ZlF6ZWV2c0xTVHdPWjdnVFZtQzdLYk9kZjV3TlNIcnBrQnRpWnZSMS1rNFJhYWZvTmlscFB5eEwwM1N0bzlPclBSNUUxOEpSYTF1emNk?oc=5"
         }
       ]
     },
     {
-      "id": "b4a40e1efef2",
-      "title": "Saiba qual a quantidade ideal de proteína para ganhar massa muscular - metropoles.com",
+      "id": "6a31b9706b38",
+      "title": "Saiba qual a quantidade ideal de proteína para ganhar massa muscular - Metrópoles",
       "published": "2026-08-18T05:00:00+00:00",
-      "summary": "Saiba qual a quantidade ideal de proteína para ganhar massa muscular&nbsp;&nbsp;metropoles.comQualidade ou quantidade de proteína? O que é mais importante?&nbsp;&nbsp;Assine AbrilQual tipo de proteína é melhor aproveitado pelos músculos após os 60 e é o mais recomendado para evitar a sarcopenia&nbsp;&nbsp;Tua SaúdeMito dos 30 gramas: saiba quanta proteína o corpo realmente aproveita por refeição&nbsp;&nbsp;Diário do Centro do MundoDieta rica em proteína e pobre em fibras: entenda os riscos para ",
+      "summary": "Saiba qual a quantidade ideal de proteína para ganhar massa muscular&nbsp;&nbsp;MetrópolesQualidade ou quantidade de proteína? O que é mais importante?&nbsp;&nbsp;Assine AbrilQual tipo de proteína é melhor aproveitado pelos músculos após os 60 e é o mais recomendado para evitar a sarcopenia&nbsp;&nbsp;Tua SaúdeMito dos 30 gramas: saiba quanta proteína o corpo realmente aproveita por refeição&nbsp;&nbsp;Diário do Centro do MundoDieta rica em proteína e pobre em fibras: entenda os riscos para a sa",
       "sources": [
         {
-          "name": "metropoles.com",
+          "name": "Metrópoles",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MMUFEZjdvM0E5ZFYwM1JJVXA1VXN2QVp3bTE3aEtJX0ZhWjljV1RlVjV1UWV1c1dXR0RZNzc5dGJCbGJlUHlQM1JKRGw3blphbXN4LWlXdFc3MlBkZVMtOUUzRzk5NHN0OFEwY1lYSVRPdw?oc=5"
         }
       ]
@@ -210,49 +222,25 @@
       ]
     },
     {
-      "id": "891752d0f674",
-      "title": "Morre professora da Unemat que foi referência em ecologia e estudos do Pantanal - Só Notícias",
-      "published": "2026-08-17T19:11:00+00:00",
-      "summary": "Morre professora da Unemat que foi referência em ecologia e estudos do Pantanal&nbsp;&nbsp;Só Notícias",
-      "sources": [
-        {
-          "name": "Só Notícias",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeVVMYlNEM2RSbmVpM0FaYXdqQjY0ZjR6bzg5Z0VaVWgxdUJpU05oeklESnhKV1k2UElLOEhKV1BkdkJhVkIxa3N0dlVjSFdhN0NGZTVSMXFiX19ra3drNkxFQllDRHBRZ2tURHZwUEFPaThoV0xZNHZlaHBzMlJiU1RLZEYzX2VtTG1FaE9VWnQ0WHdzMG1VSjNHeGRVSUdYR2poOGlZcXphZnRONG5SZGhDUFc1aUk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fd4ed820a0d2",
-      "title": "Excesso de telas na adolescência: como o uso do celular afeta o sono dos jovens - drauziovarella.uol.com.br",
+      "id": "1d27b9504bed",
+      "title": "Excesso de telas na adolescência: como o uso do celular afeta o sono dos jovens - Portal Drauzio Varella",
       "published": "2026-08-17T19:01:33+00:00",
-      "summary": "Excesso de telas na adolescência: como o uso do celular afeta o sono dos jovens&nbsp;&nbsp;drauziovarella.uol.com.brTecnologia e sono: aliados ou inimigos na busca por descanso?&nbsp;&nbsp;O POVOA insônia em adultos e idosos não se deve apenas ao uso de celular à noite, mas sim, na maioria, a fatores como ansiedade e desregulação do ritmo circadiano&nbsp;&nbsp;Tua SaúdeDormir virou artigo de luxo: rotina de trabalho, telas e relógio biológico fazem jovens e adultos sacrificare…&nbsp;&nbsp;BnewsP",
+      "summary": "Excesso de telas na adolescência: como o uso do celular afeta o sono dos jovens&nbsp;&nbsp;Portal Drauzio VarellaTecnologia e sono: aliados ou inimigos na busca por descanso?&nbsp;&nbsp;O POVOA insônia em adultos e idosos não se deve apenas ao uso de celular à noite, mas sim, na maioria, a fatores como ansiedade e desregulação do ritmo circadiano&nbsp;&nbsp;Tua SaúdeDormir virou artigo de luxo: rotina de trabalho, telas e relógio biológico fazem jovens e adultos sacrificare…&nbsp;&nbsp;BnewsPor ",
       "sources": [
         {
-          "name": "drauziovarella.uol.com.br",
+          "name": "Portal Drauzio Varella",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMVI0Wkk5STRWaWVRYW9mdWlxNEdMbUZMNm5wY0dmZjhvdFhfbFNYTUhXVHFISl8ydDcydVdnVmZ5MmZpY0lHTDh3WEVyTE5rSWlqTVVnWExmMlVTVlR6akFCdGdCclJTbnBXSjFVSjRfZnY3bUdIemRPdlRTUmM3SjhXTThWSDNiVWxwTlZlTjJ3em1uMDRxcEs0YXUyMGNIMFRZU1NEZDBNNEVUZEFLanc1UG1wRFNWdGY1LWJHQU4zdw?oc=5"
         }
       ]
     },
     {
-      "id": "35f2361eef56",
-      "title": "Pesquisa em MS avalia qualidade e segurança de misturas de biodiesel - Campo Grande News",
-      "published": "2026-08-17T16:58:00+00:00",
-      "summary": "Pesquisa em MS avalia qualidade e segurança de misturas de biodiesel&nbsp;&nbsp;Campo Grande News",
-      "sources": [
-        {
-          "name": "Campo Grande News",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeHdQQVcyb1VPZE83OW42OEJibHZ6Tjg2WmcxR1VUeHo3YVpzbUxxbHk4ZjFkb0EzMWszaUhxbVlIVGJUU0taeGxSbWp0SnRSWnktakxDSXR0b3dZS1Y2WndUa0R0YW9sMmJER1ZjUFpmZi00UDk0TElOdFFTbkJFbGpzT3ZLeG9OTjQ2S3ZGNXczVFlkaWREYXdzVVAyLXZCUG0tcmQwSUhEaGtNVlVnN3lJaXV5d9IBtgFBVV95cUxNQXVOeTd3UmhmVHJYbkF3T2kxX2FBRWgwSEtyV2pUODFKazk5eG13NzRxR2ExREJZV3Q0b25xZ2Y1Y0VNRF9VTTAwekpzZW9ZaXNjVklZMklKRFhmWUxrSGxrSGRrbHpPWTJnamxjZGFvODB5TXY2NGF2TldmRXN2T2ZmTk82Y2RUaXZuaXJGLW5MS1IxUG92VDlZMGpmNXNHNGhYZ0RpR245ZDF6dEpid0l0SVRtZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c61f9caba190",
-      "title": "Peixes do ES têm anomalias ligadas ao desastre de Mariana, diz estudo - metropoles.com",
+      "id": "49de2e7ee01d",
+      "title": "Peixes do ES têm anomalias ligadas ao desastre de Mariana, diz estudo - Metrópoles",
       "published": "2026-08-17T15:42:00+00:00",
-      "summary": "Peixes do ES têm anomalias ligadas ao desastre de Mariana, diz estudo&nbsp;&nbsp;metropoles.com",
+      "summary": "Peixes do ES têm anomalias ligadas ao desastre de Mariana, diz estudo&nbsp;&nbsp;Metrópoles",
       "sources": [
         {
-          "name": "metropoles.com",
+          "name": "Metrópoles",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWTgxZXE1R2lLNGFHaTBaclJMV0VOeEI5N0JnVGp5WDRSZFFxY25RWlA4cnFfQkU3ZDFZbnVabU82bWpvMVpabm5KWFkxRU0wb1pxWGgxY0VRWFlSWUE3VW5Ia1d2X1h3aDBZZmJSMWo1Y2NIa25wYkZXMFBNdnRUaFVsbEZnV0l2MHZVWktrS1hHbVl0b0hCMnpmYU1ibld0QnptcGh3?oc=5"
         }
       ]
@@ -261,7 +249,7 @@
       "id": "613d8b61b281",
       "title": "Exercício físico na meia-idade se associa a declínio cognitivo menor - UOL",
       "published": "2026-08-17T15:05:14+00:00",
-      "summary": "Exercício físico na meia-idade se associa a declínio cognitivo menor&nbsp;&nbsp;UOLO que o condicionamento físico tem a ver com o cérebro, segundo estudo&nbsp;&nbsp;EstadãoPor que exercícios físicos podem prevenir demência e gerar R$ 16 bilhões para a economia até 2050, segundo cientistas brasileiros&nbsp;&nbsp;gq.globo.comPoucos minutos de exercício por dia contra a demência&nbsp;&nbsp;SpaceMoneyDez minutos de exercícios por dia podem evitar casos de demência&nbsp;&nbsp;redeutv.com.br",
+      "summary": "Exercício físico na meia-idade se associa a declínio cognitivo menor&nbsp;&nbsp;UOLO que o condicionamento físico tem a ver com o cérebro, segundo estudo&nbsp;&nbsp;EstadãoPor que exercícios físicos podem prevenir demência e gerar R$ 16 bilhões para a economia até 2050, segundo cientistas brasileiros&nbsp;&nbsp;GloboPoucos minutos de exercício por dia contra a demência&nbsp;&nbsp;SpaceMoneyDez minutos de exercícios por dia podem evitar casos de demência&nbsp;&nbsp;redeutv.com.br",
       "sources": [
         {
           "name": "UOL",
@@ -273,7 +261,7 @@
       "id": "f0d07b7c03b7",
       "title": "Malária: com medicamento inovador, Brasil registra menor número de casos em quase 50 anos — Ministério da Saúde - www.gov.br",
       "published": "2026-08-17T14:09:00+00:00",
-      "summary": "Malária: com medicamento inovador, Brasil registra menor número de casos em quase 50 anos — Ministério da Saúde&nbsp;&nbsp;www.gov.brCasos de malária caem ao menor nível em mais de 40 anos&nbsp;&nbsp;Valor EconômicoBrasil registra menor número de casos de malária em 48 anos&nbsp;&nbsp;Partido dos TrabalhadoresMalária atinge menor taxa em 47 anos, mas sarampo preocupa governo&nbsp;&nbsp;Correio BrazilienseCom novo remédio, casos de malária caem 61% entre ianomâmis&nbsp;&nbsp;bncamazonas.com.br",
+      "summary": "Malária: com medicamento inovador, Brasil registra menor número de casos em quase 50 anos — Ministério da Saúde&nbsp;&nbsp;www.gov.brCasos de malária caem ao menor nível em mais de 40 anos | Brasil&nbsp;&nbsp;valor.globo.comBrasil registra menor número de casos de malária em 48 anos&nbsp;&nbsp;pt.org.brMalária atinge menor taxa em 47 anos, mas sarampo preocupa governo&nbsp;&nbsp;Correio BrazilienseCom novo remédio, casos de malária caem 61% entre ianomâmis&nbsp;&nbsp;bncamazonas.com.br",
       "sources": [
         {
           "name": "www.gov.br",
@@ -306,13 +294,13 @@
       ]
     },
     {
-      "id": "89f135f2708c",
-      "title": "‘Tudo o que a ciência conhece foi feito’, diz enfermeiro após morte de gêmeas unidas pela cabeça em cirurgia de separação no interior de SP - g1.globo.com",
+      "id": "ca85a0c7e74f",
+      "title": "‘Tudo o que a ciência conhece foi feito’, diz enfermeiro após morte de gêmeas unidas pela cabeça em cirurgia de separação no interior de SP - G1",
       "published": "2026-08-17T12:44:53+00:00",
-      "summary": "‘Tudo o que a ciência conhece foi feito’, diz enfermeiro após morte de gêmeas unidas pela cabeça em cirurgia de separação no interior de SP&nbsp;&nbsp;g1.globo.com",
+      "summary": "‘Tudo o que a ciência conhece foi feito’, diz enfermeiro após morte de gêmeas unidas pela cabeça em cirurgia de separação no interior de SP&nbsp;&nbsp;G1",
       "sources": [
         {
-          "name": "g1.globo.com",
+          "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQdnNvc0E4SFozVHFzaDg1TXRaRmwxN0dKeElkendiY2pXQXQxMmpuWkJGTEppc2hTSloxLTNwbVR5N294aXc3cE15ME94Z1BnblZ6aUtjQmVFTFlENXFlTFBmcGN5c3k3dVZIRVVSWmd2RDFRUlFHd0RxVzUwS0NhSWdKU25feGJ6QmxDNG5ya1VpSTlvRkxyVlFiT25PdmNBMlU5d0FRaXpoOXdJMmJ6NjlyTjNsWUFWTFJTNTBPXzVWOTliOTROUnUxQWljUVFmdEczNXBTQ3FJcmw4UHFTc25PbEZNRkt2TklZT3BuUXFkTGpYQktwbFBUTFF4dXQwck8yTHdaLXExMjlFMEYtSlNjSm81LU5senB3SnBlUUxGQnfSAbICQVVfeXFMUEpsdW5PN09DUG9zdkV1bm1FRU40cFZFNmItLUk4LWJaeWpCYkJuNE11RFBYWmd0SUUwb2U0ZlgwRnluRkNRcjh4X1BMWkxyX3k4VllQWTZxZzFjQThHRml4dG5JbVVnaUMxaWFiT1VLMFZwWU9PQjROLUltZXRobmZncUx1cnF0TmgwbXVMMUt4N2E5SkkxSVFfaTFnbkltcVNCT1dvWVUxTnJNMGQzRjlNRWFaTjQ1OUNEcDBRVldwWWFhTndLMGdTQkRuTm9pY2x1SzVORjlxR1lZQnY3emVVWDE1Z09oclB2clRJTzRUNWFHcnNxZGljTXdFM1RWVDVpUHNUM2JrTUs0c3VuVHUyNlFWYk5jN0hGTTllRE5wcU5yZjRDWXJ2Zmw4ZWd4aThR?oc=5"
         }
       ]
@@ -321,7 +309,7 @@
       "id": "6bb920898fd1",
       "title": "Os casos de puberdade precoce que intrigam os médicos em todo o mundo (incluindo no Brasil) - Época Negócios",
       "published": "2026-08-17T11:00:53+00:00",
-      "summary": "Os casos de puberdade precoce que intrigam os médicos em todo o mundo (incluindo no Brasil)&nbsp;&nbsp;Época NegóciosDiretriz internacional redefine a abordagem da puberdade precoce central&nbsp;&nbsp;Jornal da USPPuberdade precoce em meninas pode estar relacionado a alimentação e estresse&nbsp;&nbsp;terra.com.brNova diretriz internacional atualiza diagnóstico e tratamento da puberdade precoce&nbsp;&nbsp;TV CulturaPuberdade precoce: o que muda com a nova diretriz internacional&nbsp;&nbsp;Bons Fl",
+      "summary": "Os casos de puberdade precoce que intrigam os médicos em todo o mundo (incluindo no Brasil)&nbsp;&nbsp;Época NegóciosDiretriz internacional redefine a abordagem da puberdade precoce central&nbsp;&nbsp;Jornal da USPPuberdade precoce em meninas pode estar relacionado a alimentação e estresse&nbsp;&nbsp;TerraNova diretriz internacional atualiza diagnóstico e tratamento da puberdade precoce&nbsp;&nbsp;TV CulturaPuberdade precoce: o que muda com a nova diretriz internacional&nbsp;&nbsp;Bons Fluidos",
       "sources": [
         {
           "name": "Época Negócios",
@@ -342,34 +330,10 @@
       ]
     },
     {
-      "id": "60b282b781c7",
-      "title": "Com 271 kg, homem faz campanha para pagar hospital e fazer cirurgia bariátrica - g1.globo.com",
-      "published": "2026-08-17T10:22:43+00:00",
-      "summary": "Com 271 kg, homem faz campanha para pagar hospital e fazer cirurgia bariátrica&nbsp;&nbsp;g1.globo.com\"Até os 45 você não chega\": aos 42, Diego busca cirurgia após alerta médico&nbsp;&nbsp;terra.com.brObesidade cresce no Brasil e reforça debate sobre mitos do emagrecimento&nbsp;&nbsp;33 GigaClayton Macedo expõe desafios da obesidade e o papel da medicina ética&nbsp;&nbsp;GZHSimpósio Internacional reúne lideranças médicas para discutir avanços no combate à Obesidade&nbsp;&nbsp;Correio dos Municíp",
-      "sources": [
-        {
-          "name": "g1.globo.com",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPT2ZnSW5JQ0RKRVRXUU90ZE5TNXVUMVBlUEdVRVVzU2xtby11VXVJQzVVdFBaRzZZUUlNcjlnQTZ2VTU1TXBsbUxsUW9iX0Z2dzZEeTl1dGJ1a01hYnI4M09GNjRETVhYWXZhek1NNGRweS1tQWtkTHVQa2c4WXFfZHo4MURTSUtTVkl3ajVCMHhSLXRoeHIzVmlJUUx2WWl0b1o3WWVKaHZSYTBRYV9xX2E3eHBxWlY2NmJzOFp1TnRteGVrTjhzQzRIVDlMNjJrNHlKVUNwcXc0M0nSAeoBQVVfeXFMTko4UHRSdUhVdWFNaWszNGZQMjNBSjhvb2U1UV9VUk5TRTFXdWZ0RlFqcVNfY1dDRVFmY2VNYW13UlY3czBkMDNzUEEwcHdVaVZHOVdBbFVFbllBSUIxaHpFcm1WTngtWklXTjRVMUZrMjlfX2p0akJ0SFJ3bEZhWjd0MWxKdjdkSmhldUJBTVRRMTdMT3NHSHNyTklrS0dtMVlWVmNPWFE5U0U0ZzJUWDkzUHFaSUpGS0V5WW0xdUwwZnlsdG9QVXdfZzV0VVdfZUNyc2Y5anZnUGU5Q19heEhKQlRXdFMxUnBn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a825345dd3d2",
-      "title": "Telescópio James Webb leva à descoberta de galáxia com três buracos negros - Folha de S.Paulo",
-      "published": "2026-08-17T09:00:00+00:00",
-      "summary": "Telescópio James Webb leva à descoberta de galáxia com três buracos negros&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYjB3SGdlem1DSDZfbHpDSzlqaDcySXY0NVhKNXVQck9kYzlUZXE2ZjJNVnJOZ29ZY0ZVQk5EN0RhTmpTeGNLZGpVOWhxZURuT2hmekM2RHpyRVpuOW80czgxRFBqRlJqLVgtd2J1b0NmdE5PUlJZLU5JMWJONkxNM21ONllycGs3bjU3NEhweVFhQVNCdkt4T045TXZpaTAtcl92M2RFM1R0UmM5a3J4UDBJMEt1UWlEMjJTdll6aFA0NGt2?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8cc0b6bd7abf",
       "title": "Usuários de canetas emagrecedoras relatam perda de interesse em atividades que já foram prazerosas - Folha de S.Paulo",
       "published": "2026-08-17T07:00:00+00:00",
-      "summary": "Usuários de canetas emagrecedoras relatam perda de interesse em atividades que já foram prazerosas&nbsp;&nbsp;Folha de S.PauloComo as canetas emagrecedoras estão mudando a relação com o álcool&nbsp;&nbsp;g1.globo.comUsuários de Mounjaro e Ozempic relatam apatia e queda da libido&nbsp;&nbsp;Diário do Centro do MundoRemédios para emagrecer: Anvisa aprova novos e ciência alerta sobre álcool&nbsp;&nbsp;DOLOzempic pode ajudar a explicar como o cérebro controla os desejos e os vícios&nbsp;&nbsp;e-glob",
+      "summary": "Usuários de canetas emagrecedoras relatam perda de interesse em atividades que já foram prazerosas&nbsp;&nbsp;Folha de S.PauloComo as canetas emagrecedoras estão mudando a relação com o álcool&nbsp;&nbsp;G1Usuários de Mounjaro e Ozempic relatam apatia e queda da libido&nbsp;&nbsp;Diário do Centro do MundoRemédios para emagrecer: Anvisa aprova novos e ciência alerta sobre álcool&nbsp;&nbsp;DOLOzempic pode ajudar a explicar como o cérebro controla os desejos e os vícios&nbsp;&nbsp;e-global.pt",
       "sources": [
         {
           "name": "Folha de S.Paulo",
