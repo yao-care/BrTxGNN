@@ -1,10 +1,46 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-08-20T06:48:38.138791+00:00",
-  "total_fetched": 91,
-  "unique_count": 90,
-  "health_related_count": 31,
+  "fetched_at": "2026-08-20T12:52:20.336472+00:00",
+  "total_fetched": 93,
+  "unique_count": 93,
+  "health_related_count": 35,
   "news": [
+    {
+      "id": "d5ae53e3c25a",
+      "title": "Macacos e outros primatas parecem interagir com alguns bichos como se fossem seus pets - Folha de S.Paulo",
+      "published": "2026-08-20T09:00:00+00:00",
+      "summary": "Macacos e outros primatas parecem interagir com alguns bichos como se fossem seus pets&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbHdxaDRSUWUwdnQwMGloR1lKZzhPYVZVaG56OTRPR3lZbm5sTWlHR0ZSMGJjY3N3QjVRb002NXl3cl80cm9jeXNxcDI0TFphcjBRakd1cnk1aUt2VVVXVHE0RVRIV1JDaVM3cHhKckllU1hBNlhuR0dfVjdzT1R2UVpPS3hINFNUTG1qcmxvRG9hQmxHd2FmbDJZM05hd1FMeVFfcmMwUDRpa1VudjRwZ3d1aTNlZDVOR1Juc1pGVUZVTkZ5bllya2Z6d3Ryc21JSHhsVA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c731a0c55c53",
+      "title": "Cardiologista aponta hábitos comuns capazes de provocar pressão alta - Metrópoles",
+      "published": "2026-08-20T05:00:00+00:00",
+      "summary": "Cardiologista aponta hábitos comuns capazes de provocar pressão alta&nbsp;&nbsp;MetrópolesPressão alta: 9 hábitos do dia a dia que podem elevar os níveis&nbsp;&nbsp;O Juruá Em TempoSódio escondido em alimentos prontos pode atrapalhar o controle da pressão&nbsp;&nbsp;Tua SaúdeEstudo sugere aumentar potássio e reduzir sal para combater hipertensão: chave para um coração saudável segundo especialistas&nbsp;&nbsp;Noticias AmbientalesMais potássio, menos sal: a estratégia que pode ajudar a controlar ",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOelVYZjl2SWplQlJ1ZUR1RHhmOVVpbWIxaUYxZWw5dlp6N3BJN1BKNlZUczNVZ0lYSm5QVDJ2VzNpNXd1dzN4S0ZkSnhMdDZxYjlTUTZFMDZpLVREaXFVV2RXQ09FM1k1aGZNOHl2XzcyQmlzclkxNFFyek5qdXNzZ2twN2JKckJyMW9LQ0VabEVJZkM3TW01Mzh5Wmt5VDNYNFROaTgwZHJ6cnVZZDFJOHM2SEdfWEpKZy1xQw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a29afeb38daa",
+      "title": "Estudo descobre por que caminhar se torna mais difícil com a idade - Rádio Itatiaia",
+      "published": "2026-08-20T02:34:53+00:00",
+      "summary": "Estudo descobre por que caminhar se torna mais difícil com a idade&nbsp;&nbsp;Rádio Itatiaia",
+      "sources": [
+        {
+          "name": "Rádio Itatiaia",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcS04bVZxaG4xVEJ5LXA5VW95bXp2M3M0MFo0MEthWnVRZ1hPdGhTeHlLa05QNWRSVTl2M1hQUHNNeGdJZTYycnphTW9PZjZyb2FIRWtKZ0x3YUxOcFJqaWdFZEp1NlFOUXM4azBMYmIzbFo0X0I1ZGNqY3BDRi00UFhMQnh3ekhTNW5qMXpwNTNYcGlPRGNVbXNVMm50M2YwQ25hUQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "9a976ebe13e5",
       "title": "Cientistas fazem descoberta histórica e confirmam existência de água em Marte - Diário do Comércio",
@@ -30,6 +66,18 @@
       ]
     },
     {
+      "id": "81bb9e012b00",
+      "title": "Estudos revelam impactos do bilinguismo no cérebro infantil - CNN Brasil",
+      "published": "2026-08-20T00:45:21+00:00",
+      "summary": "Estudos revelam impactos do bilinguismo no cérebro infantil&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNjZiLWE2ODB0U2phRFBRR1cwV1pfSUV5WWtYLWhqbXp0d1dhMWZKLVZDVnRwMjdUS1RPaDcyM1NnR0tsTnM0a1IwZnhGNFd3UDNLaWphdERrLWRDRGtHbXczeEtxdEZTaWNFQ1pMek5KVEZPMG1sbzJlcDdxR0tldFROV0l2YnFpSkpSYk5BYWxjRHI4cU43ZEpicw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "73c017f74cd6",
       "title": "7 hábitos cientificamente comprovados para reduzir a gordura abdominal - UOL",
       "published": "2026-08-19T23:41:58+00:00",
@@ -42,13 +90,13 @@
       ]
     },
     {
-      "id": "937aff381d96",
-      "title": "Coxim recebe pela primeira vez etapa Regional da Olimpíada Brasileira de Robótica - coximagora.com.br",
+      "id": "809e3a430b3b",
+      "title": "Coxim recebe pela primeira vez etapa Regional da Olimpíada Brasileira de Robótica - Coxim Agora",
       "published": "2026-08-19T22:42:23+00:00",
-      "summary": "Coxim recebe pela primeira vez etapa Regional da Olimpíada Brasileira de Robótica&nbsp;&nbsp;coximagora.com.br",
+      "summary": "Coxim recebe pela primeira vez etapa Regional da Olimpíada Brasileira de Robótica&nbsp;&nbsp;Coxim Agora",
       "sources": [
         {
-          "name": "coximagora.com.br",
+          "name": "Coxim Agora",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY3BDWGpBbi1uZnQyRmNzMEhmblBDZkd4blVYRUlEXzVvcS1XWmdkUnhiVE8wUDVvZkJ2N0VxbW9iYnd2cFg1VXh3TFQyV2hkcWVOaUhuNVVHdnlzTUpiSW5GdVpxcGh2Q216Z19zeko2OC1udlpVSjNxdDhTS2pHTmdHSDNmSlFVb09SVG1YLUJzbndLRU91cG01SElqQkpGc2REZ2RjOWozNS01d1JzZFFjQWQ?oc=5"
         }
       ]
@@ -66,14 +114,14 @@
       ]
     },
     {
-      "id": "e9ab07f7538c",
-      "title": "O hábito diário comum que pode dobrar o risco de câncer de estômago, segundo estudo de 36 anos - Gazeta Brasil",
-      "published": "2026-08-19T18:15:04+00:00",
-      "summary": "O hábito diário comum que pode dobrar o risco de câncer de estômago, segundo estudo de 36 anos&nbsp;&nbsp;Gazeta BrasilTomar bebida açucarada diariamente mais que dobra risco de câncer de estômago&nbsp;&nbsp;Época NegóciosEstudo inédito nos EUA associa bebidas açucaradas ao câncer gástrico&nbsp;&nbsp;Olhar DigitalEstas bebidas podem aumentar risco de cancro do estômago, alerta estudo&nbsp;&nbsp;Notícias ao MinutoTomar bebida açucarada todo dia aumenta risco de câncer de estômago&nbsp;&nbsp;metro",
+      "id": "aff7f63992df",
+      "title": "Carolina Herrera, 87 anos: 'Caminhar é a única coisa boa que existe. Durante a caminhada de uma hora, você anda rápido por um minuto para que o coração bombeie e é fantástico': Fotos - purepeople.com.br",
+      "published": "2026-08-19T19:03:00+00:00",
+      "summary": "Carolina Herrera, 87 anos: 'Caminhar é a única coisa boa que existe. Durante a caminhada de uma hora, você anda rápido por um minuto para que o coração bombeie e é fantástico': Fotos&nbsp;&nbsp;purepeople.com.br",
       "sources": [
         {
-          "name": "Gazeta Brasil",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNGlVbmJwU0pTNHVHQ3pmWko4c0s0TGVfbWFDclY1N043N0NPYlZkVDhQdlc4ZkNFRGxCR2hLcllfS1ZlaVhwTXU4UGtwYXRtcFkzNkR4d2FfWjdFajJlU3R2ZWpmOFN3QkxNcjJOWl9JVjh3ekR3bjVhOGI3anRGa3cwd2JRMzRfWkRFSkRkc19icVdzc2hEbXhQeVkxRlhaYk5UcG12LWxqdXdrajNQSWVtNFZlbXVGaTlsSGwwM1RseGNJUWU5ZzROc3F3Ym8xMi1CcE5R0gHeAUFVX3lxTE1YeGhwaEg1NTQ1bHE4bUZmQVVnam14ZXFaZ0R0UVFJTUlDOFJ5Y3NEd191ZDUtUHJzek5MQ2lPMDBpcmFQa25yTmtyUjQwT3hibWxZNjNRQjUzajZqUlY1Q1FuRnRla1BnMVBQQ1NWazVNZkN3QWRNekV0WXhaN2tqaDE2MV8wcXdtazdXUS1IZEM1OW9BNEpKNXhtbDVWMHBDQ09JSWNOLTBmZjNLSFhRZHhuWEV3WjRua3Z6NFdtX2NYUEZKYnFOdTQ0cnpwSmRkWEFoRmRxNmwyWGxHQQ?oc=5"
+          "name": "purepeople.com.br",
+          "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNaERzNS1GdnVqMWswZ3EwXzZRRHo1ZV9UXzBoNjRyVmFUelBVZF9nOW5KLW9KMDQ4c255ME5vWmJ6WG1nNDZKUEVZSC1CX1dTLTdHdnBkTnhFQnVIZWJtTEh0bDJUSE91NEtRZFd6U3FreTh4anlKRzhlYnljbHkwLVYwYUtBWktVTlRzMkpVdkYwZlJKSUstMlo0NUhHaXV2UkxwSkp6YW84bnhGUWVjR3VIUDQwWmlsRG9neS15RUt3NGkzWFZlQUhwN21LajF3QlNicVNfai0wY2VEV05fanpKT00ydVF0Z0dDa0oxTFFPa09YUE1kSnc4WWs1WkFlSzNHY0IzS2JzZWtyaVNWTEtyb05GLVRuZ2toNUxR?oc=5"
         }
       ]
     },
@@ -86,6 +134,18 @@
         {
           "name": "GZH",
           "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOQ2phTzBnNkdDRFdoNC1RMnhrb0NzU2RpV1I4TDFjc0EtekZNMUNQZnZkVUlXY0tlRVZhQWVPcWRMMllZQXRBM1Zub0N2bG92WS1BTVdWczF5amMxSEwtZDVoM29ad0kweXFTcTJTYWN5ZjlqengyS3ktMFpzWFVTS1N1eDNHWFZHV0FBQ1NlWGFWZnNQTzhMZzNITG5WbVVPSUMxaklnV2xJODRFaTE1Z2tvbWlNMTg2bUk2R09VbVBRY3dwcmd4dlJuUV9fdmt2OTVPMklHUWNERDhjNF9wc1NwNVNPVzg2QlNObzIxbUVYLVdyX0VYb0t3MC1yaDFLV2J6OHdHOFE2MXBPQjR1SlR6aUdXSUc1aHo1Y1lHS1pLU1VVS1BpdEQ3cHhuV1IxMndhelNGdkM5WUNfd184bThR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "17c01d0e0530",
+      "title": "USP e Marinha do Brasil celebram 70 anos de parceria pelo desenvolvimento científico e tecnológico nacional - Jornal da USP",
+      "published": "2026-08-19T16:25:00+00:00",
+      "summary": "USP e Marinha do Brasil celebram 70 anos de parceria pelo desenvolvimento científico e tecnológico nacional&nbsp;&nbsp;Jornal da USP",
+      "sources": [
+        {
+          "name": "Jornal da USP",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaVVkX1I5a0RHcDRMdnNUMlBEcURKLWhqNTNnMUU5U2g4MEoyTW8wSmVULXg0ZmpCU2RYN1JSTzhabHotNTZWb0FGaUI0Y1c0V3UxLXZJVHozcmxCd0xuTFlpN09rY2ZjYVUxaEt1MjNEWmNMRFVRbWRhUWdZM3pXcElCVEhTRUtmQzlBZlBBS2g1RXBwUGxMdDBjaW93QmRERU96cnMxLURocThRYlhhbEdDaFcyWEczUE43UlcyM3BJWHI0MWZqRWpRS0xFY3BfWXIyX1htak5CN2tG?oc=5"
         }
       ]
     },
@@ -153,7 +213,7 @@
       "id": "b4b2af336a69",
       "title": "Dia D de vacinação contra 20 doenças acontece neste sábado (22) em todo o país; veja quais - O GLOBO",
       "published": "2026-08-19T12:12:46+00:00",
-      "summary": "Dia D de vacinação contra 20 doenças acontece neste sábado (22) em todo o país; veja quais&nbsp;&nbsp;O GLOBOJuazeiro do Norte realiza dia D de vacinação para crianças e adolescentes até 19 anos&nbsp;&nbsp;G1‘Dia D’ da Multivacinação da prefeitura terá oferta de doses em mais de 110 unidades básicas no sábado, 22/8&nbsp;&nbsp;Prefeitura de ManausCircuito da Criança vai transformar ida ao Dia D de multivacinação em uma jornada de cuidado e prevenção&nbsp;&nbsp;Prefeitura de CuritibaJundiaí tem Di",
+      "summary": "Dia D de vacinação contra 20 doenças acontece neste sábado (22) em todo o país; veja quais&nbsp;&nbsp;O GLOBOSábado é Dia D de vacinação no DF; saiba onde se imunizar&nbsp;&nbsp;Agência BrasíliaJuazeiro do Norte realiza dia D de vacinação para crianças e adolescentes até 19 anos&nbsp;&nbsp;G1‘Dia D’ da Multivacinação da prefeitura terá oferta de doses em mais de 110 unidades básicas no sábado, 22/8&nbsp;&nbsp;Prefeitura de ManausCircuito da Criança vai transformar ida ao Dia D de multivacinação ",
       "sources": [
         {
           "name": "O GLOBO",
@@ -165,7 +225,7 @@
       "id": "f0eb2be4c5bd",
       "title": "Doença renal silenciosa: sintomas e como prevenir - Campo Grande News",
       "published": "2026-08-19T11:55:00+00:00",
-      "summary": "Doença renal silenciosa: sintomas e como prevenir&nbsp;&nbsp;Campo Grande NewsInsuficiência renal crônica é doença silenciosa; veja os fatores de risco&nbsp;&nbsp;Portal Drauzio VarellaCuidados com os rins: como identificar sinais de alerta e prevenir complicações renais&nbsp;&nbsp;Portal do Marcos SantosHipertensão e diabetes avançam em silêncio e lideram os casos de doença renal crônica no Brasil&nbsp;&nbsp;Portal O GirassolNúmero de pacientes em diálise cresce 41% em uma década no Brasil&nbsp",
+      "summary": "Doença renal silenciosa: sintomas e como prevenir&nbsp;&nbsp;Campo Grande NewsInsuficiência renal crônica é doença silenciosa; veja os fatores de risco&nbsp;&nbsp;Portal Drauzio VarellaA importância do diagnóstico de doenças renais&nbsp;&nbsp;correiodamanha.com.brHipertensão e diabetes avançam em silêncio e lideram os casos de doença renal crônica no Brasil&nbsp;&nbsp;Portal O GirassolNúmero de pacientes em diálise cresce 41% em uma década no Brasil&nbsp;&nbsp;Medicina S/A",
       "sources": [
         {
           "name": "Campo Grande News",
@@ -210,26 +270,14 @@
       ]
     },
     {
-      "id": "b4920c32b451",
-      "title": "Por que o CE não venceu o mosquito da dengue 40 anos após o início da doença - diariodonordeste.verdesmares.com.br",
+      "id": "52b1b070178d",
+      "title": "Por que o CE não venceu o mosquito da dengue 40 anos após o início da doença - Diário do Nordeste",
       "published": "2026-08-19T09:00:43+00:00",
-      "summary": "Por que o CE não venceu o mosquito da dengue 40 anos após o início da doença&nbsp;&nbsp;diariodonordeste.verdesmares.com.br",
+      "summary": "Por que o CE não venceu o mosquito da dengue 40 anos após o início da doença&nbsp;&nbsp;Diário do NordesteDo fumacê ao ‘exército’ de mosquitos, como o combate à dengue evoluiu no CE&nbsp;&nbsp;Diário do NordesteCeará soma quase 900 mil casos e 680 mortes por dengue em quatro décadas&nbsp;&nbsp;O CafezinhoImportada do Rio de Janeiro, como a dengue se espalhou pelo Ceará?&nbsp;&nbsp;Diário do NordesteDengue chega aos 40 anos no Ceará com quase 900 mil casos e 680 mortes&nbsp;&nbsp;Diário do Nordes",
       "sources": [
         {
-          "name": "diariodonordeste.verdesmares.com.br",
+          "name": "Diário do Nordeste",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOV0NKdFhtR0tfd0YwUlRGX3BOVlpIM3V3MmU1bUxxRXI0RGxQTmVFQTB3YjZHd1EwV2RjV2R1WnV0U1R5WWJiMDM1QkNGTkdVc3pFTlNFSXBnNHZEZ2J1UmNzXzZBNFJodk14d29nS3RBSzBhVGNuLVBMMHhobC1EWnNVaVFNYlJTMTFCOHdsOTRHVHkyU29XMnFEcjlpdlVUa1ZuWURBYktIcG1oeUpldWRncm5RUzBVRGZBLXY0a1ZGRFQwUzJtNU1UblA1OWROSHc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "79d3584152c6",
-      "title": "Médica descobre esclerose múltipla após crise em vestibular e usa experiência para ajudar pacientes - G1",
-      "published": "2026-08-19T08:22:11+00:00",
-      "summary": "Médica descobre esclerose múltipla após crise em vestibular e usa experiência para ajudar pacientes&nbsp;&nbsp;G1Agosto Laranja reforça importância do diagnóstico precoce da esclerose múltipla&nbsp;&nbsp;G1Fadiga, formigamento e visão embaçada podem ser os primeiros sinais da esclerose múltipla&nbsp;&nbsp;R7Agosto Laranja promove ações gratuitas de conscientização sobre esclerose múltipla em Guarujá e Cubatão&nbsp;&nbsp;Costa NorteAgosto Laranja: Uncisal e Apemal promovem evento para conscientiz",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOTXJKbi15VDY3elV6elNLdDhNY0wxN2NUa2o4NjNHLXhVRGRXdmt5YURoa2FiUVZGMWF6clNyYWlKZWozS2NlWElCT2FqLXpCVmVhVk1pcGdhMGNzOHVRRVJzYUYxTUdNYkFCTTNwTjZ5a3Y0VENZeWtIOUQxVGpoU01jRlBSc21NNHAyV0stY3V2eWdGNEFyRkxBcW1haUFzYjhpck9DUExIaTBzME1vTDRpYzNIRjFsdjVLZ2Vta01pWTZsUFkwU19aZnJDMmRUWFBrSngySXQ3LWlTV2RGT0pjVWRnWmdlclFDdFRIR2gzbm1oWUhCekJRd05rVGpIVTBnLVhWbTXSAZcCQVVfeXFMTU9RdjlWem5pc1Axdy00d09sT3FydVhFN1BXV3FNYXZyZm1MOW5HU2YzN2o2UlNVM2JUSWRrcVFORk9QQ2NvdWZPTDV1dEgzcHhTZTVJcDdGbjdCakVva3lKZjBFSFlCZkpXNktJT2otZE1CdE1zeHg0V1dyN2I1a25ESk1Kb2xOS1ctTkpHOWxNUHBBdk12V1BtdHg0QVhDOXJiOXhLaEtKVHZOYnVWeGhtT1R2QXplQzdiLWJlYm12cUNtQzkyd3hYYTRMWGtDUDdNU3ladG5ZVlpxb0liZElEOGtDckU1TThEbUNEbmVsOFJwQmYwWXBvSUwzanhHUTJSalRLNVR0RFpFQTNBT3JudGxUbC0w?oc=5"
         }
       ]
     },
@@ -249,7 +297,7 @@
       "id": "7bc44cf4f64e",
       "title": "Como ajudar o intestino a funcionar melhor de manhã: 'um copo d'água e alguns movimentos específicos', diz especialista - O GLOBO",
       "published": "2026-08-19T07:30:19+00:00",
-      "summary": "Como ajudar o intestino a funcionar melhor de manhã: 'um copo d'água e alguns movimentos específicos', diz especialista&nbsp;&nbsp;O GLOBO6 formas simples de melhorar a digestão, segundo nutricionistas&nbsp;&nbsp;Notícias ao MinutoAliado do intestino: um alimento saudável e saboroso que deve ser consumido diariamente&nbsp;&nbsp;Tua Saúde5 cuidados simples para manter o intestino saudável&nbsp;&nbsp;Revista Ana MariaÁgua, movimento e calma: hábitos para ajudar o intestino pela manhã&nbsp;&nbsp;Di",
+      "summary": "Como ajudar o intestino a funcionar melhor de manhã: 'um copo d'água e alguns movimentos específicos', diz especialista&nbsp;&nbsp;O GLOBO6 formas simples de melhorar a digestão, segundo nutricionistas&nbsp;&nbsp;Notícias ao MinutoAliado do intestino: um alimento saudável e saboroso que deve ser consumido diariamente&nbsp;&nbsp;Tua Saúde5 cuidados simples para manter o intestino saudável&nbsp;&nbsp;Revista Ana MariaSeis hábitos simples podem melhorar a digestão e o bem-estar intestinal&nbsp;&nbs",
       "sources": [
         {
           "name": "O GLOBO",
@@ -270,10 +318,22 @@
       ]
     },
     {
+      "id": "84da65d4d3d5",
+      "title": "Jovens dos EUA desconfiam dos bilionários da inteligência artificial, enquanto pesquisa com 1.088 pessoas revela que 45% esperam prejuízos na carreira, apenas 10% preveem benefícios profissionais e maioria pede freio na expansão física que sustenta a - CPG Click Petróleo e Gás",
+      "published": "2026-08-19T03:39:00+00:00",
+      "summary": "Jovens dos EUA desconfiam dos bilionários da inteligência artificial, enquanto pesquisa com 1.088 pessoas revela que 45% esperam prejuízos na carreira, apenas 10% preveem benefícios profissionais e maioria pede freio na expansão física que sustenta a&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQcVc5Q1cyVGRSQ1pPUFlvamFjTFFmRW4wVEYzc0pHQWZEcU5BN0RyQ3lfajIyX2YxYWpteEltd3Z5WGtJbGVHd0EzelJhVmo5d04wREZOajlSMmlmSmlEaUNmSE1XVmwzUEtMWl9xVU5DdzRIbDh6c3VhbG1Da3NHSTR4Z1B6ZXhZQ1lNWm4xeXBBRUhXOHFvYzljVU9CYTNzLVVXdVNSMldyWlVudFlVOGhKa2hFLS1JY0d0LXNRb0tIMnpQelZxdExGbnhJamR5VTR3b2hQdW1JZHIzVTFOMUUwXzFXRWNLLUpwZUlTMkdPbUNuMkViS0hScXVUbDBUSzFDdWthcmRDRWZ4X294bkNuM2ZfZjFTallZeVctOFVGTkhGOGdwZ09FNHJlZzRpOFByRk9FMHprVTlvTE1neTlzUnYxNjg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "33521808071a",
       "title": "Pesquisadores criam ‘vacina inteligente’ e mais segura contra chikungunya - Agência FAPESP",
       "published": "2026-08-19T03:00:54+00:00",
-      "summary": "Pesquisadores criam ‘vacina inteligente’ e mais segura contra chikungunya&nbsp;&nbsp;Agência FAPESPNovo imunizante contra chikungunya usa vírus geneticamente modificado&nbsp;&nbsp;R7USP desenvolve vacina inovadora que bloqueia replicação do chikungunya&nbsp;&nbsp;Correio BrazilienseNovas vacinas contra chikungunya avançam no Brasil; saiba quais são&nbsp;&nbsp;UOLUSP desenvolve vacina experimental contra chikungunya com vírus modificado&nbsp;&nbsp;Costa Norte",
+      "summary": "Pesquisadores criam ‘vacina inteligente’ e mais segura contra chikungunya&nbsp;&nbsp;Agência FAPESPUSP desenvolve vacina inovadora que bloqueia replicação do chikungunya&nbsp;&nbsp;Correio BrazilienseNovas vacinas contra chikungunya avançam no Brasil; saiba quais são&nbsp;&nbsp;UOLUSP desenvolve vacina experimental contra chikungunya com vírus modificado&nbsp;&nbsp;Costa NorteSaúde promove vacinação contra Chikungunya no Riopreto Shopping&nbsp;&nbsp;Prefeitura de São José do Rio Preto",
       "sources": [
         {
           "name": "Agência FAPESP",
@@ -330,13 +390,13 @@
       ]
     },
     {
-      "id": "436404785898",
-      "title": "Aos 50 anos, mulher volta à faculdade quase três décadas depois, entra na mesma turma da filha e as duas atravessam sete anos de aulas e desafios até receberem o diploma de Psicologia em cerimônia no Rio Grande do Sul - clickpetroleoegas.com.br",
+      "id": "3853d5c729e8",
+      "title": "Aos 50 anos, mulher volta à faculdade quase três décadas depois, entra na mesma turma da filha e as duas atravessam sete anos de aulas e desafios até receberem o diploma de Psicologia em cerimônia no Rio Grande do Sul - CPG Click Petróleo e Gás",
       "published": "2026-08-18T17:16:00+00:00",
-      "summary": "Aos 50 anos, mulher volta à faculdade quase três décadas depois, entra na mesma turma da filha e as duas atravessam sete anos de aulas e desafios até receberem o diploma de Psicologia em cerimônia no Rio Grande do Sul&nbsp;&nbsp;clickpetroleoegas.com.br",
+      "summary": "Aos 50 anos, mulher volta à faculdade quase três décadas depois, entra na mesma turma da filha e as duas atravessam sete anos de aulas e desafios até receberem o diploma de Psicologia em cerimônia no Rio Grande do Sul&nbsp;&nbsp;CPG Click Petróleo e Gás",
       "sources": [
         {
-          "name": "clickpetroleoegas.com.br",
+          "name": "CPG Click Petróleo e Gás",
           "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQdkRMMkttcXJaS0hyZ0hYSTgzbDVfVm1BVnBTV1lZb0d6NS1jM3ItY1VmY2g1OHBkQkVFeTlpWXI2VV9CcWFyQ251SW9aUUxLMGE0dFFZbVdXSzNTNWxyZjVTbU9rT3cxdVJhS0I5Sk1qd0hFTFpVbHE1QnRxNWFsS3JEQXZQYUs5SURIZ0ctVjBsSi1fWG9GZHJnOU9Bb21PQUZuRlQyUHdpSm5XNkNwRHpYTHV2N29kUmFaQTh3cjIyTDR0RXpTUkpoRHpZT2x5Q0RMUFpEeVVxaUVSN0ROeVpoTjYzR1pzRTVTdlBCcmhNcEVZcE1fSVh5bXZka0Z3dnQ4cnNKMUZ3MkdRYlAyRTQ4amJUQVZzWEFWZExZU04wMFhkS3JrdXVHbVBBaU43blRoN0xvcEZWaUVrNk9wdW5kRDZKQXM?oc=5"
         }
       ]
@@ -345,7 +405,7 @@
       "id": "74b4a84df061",
       "title": "12 crianças da mesma vizinhança são diagnosticadas com câncer raro; entenda - O GLOBO",
       "published": "2026-08-18T14:41:43+00:00",
-      "summary": "12 crianças da mesma vizinhança são diagnosticadas com câncer raro; entenda&nbsp;&nbsp;O GLOBOSarcoma de Ewing: entenda o câncer diagnosticado em 12 crianças do mesmo bairro&nbsp;&nbsp;TerraRegião da Califórnia entra em alerta e abre investigação por aumento de casos raros de câncer em crianças; entenda o que se sabe&nbsp;&nbsp;G1Doze crianças da mesma vizinhança são diagnosticadas com câncer raro nos EUA&nbsp;&nbsp;Jornal OpçãoDoze crianças da mesma vizinhança são diagnosticadas com câncer raro",
+      "summary": "12 crianças da mesma vizinhança são diagnosticadas com câncer raro; entenda&nbsp;&nbsp;O GLOBOSarcoma de Ewing: entenda o câncer diagnosticado em 12 crianças do mesmo bairro&nbsp;&nbsp;TerraDoze crianças da mesma vizinhança são diagnosticadas com câncer raro nos EUA&nbsp;&nbsp;Jornal OpçãoPai pede investigação após 12 crianças e jovens terem câncer raro na mesma vizinhança&nbsp;&nbsp;GC Notícias12 crianças da mesma vizinhança são diagnosticadas com câncer raro e acendem alerta&nbsp;&nbsp;Jornal ",
       "sources": [
         {
           "name": "O GLOBO",
@@ -354,21 +414,9 @@
       ]
     },
     {
-      "id": "c00402a1f342",
-      "title": "'Bebê Gabriel' passa por primeira cirurgia cardíaca após disputa entre barriga de aluguel e pais biológicos nos EUA - O GLOBO",
-      "published": "2026-08-18T11:32:38+00:00",
-      "summary": "'Bebê Gabriel' passa por primeira cirurgia cardíaca após disputa entre barriga de aluguel e pais biológicos nos EUA&nbsp;&nbsp;O GLOBO",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNZ1RmUlhaNTgxdnJBOU56aXE2U05URU9xNHlKVTRxdDZqT3AxRFFDN2lSd3FUY2lGZnZCdnk0Z1QyMzF6cDdWQnM0UWI0UjJzV0NuTUR0T3JwQkpzUVdQUXE2aTNxcFdRajlTdm5lYklpNGFQQURaRUxkMjNJRjUtbDRWMXNBblFYWUR3N2wxUEprb296Q0VkejJMeWJ6djBaZ1hNYVZ6YXpnZlZsVEhEOFZOcFEyWmRDNGJYdm40LTk1eHZWcS1SdWoyRnV2Y1ZkdVZnSU9hYUN2VHZjcndKNWkxNnE5YnVIZ3YxWkFhMXJxeXExR3BtcjNhOFdCX1I4cFNmbHhB0gGUAkFVX3lxTE9lNkxjMlAwRmYxaGg0ZVNNTnpiTDJ5Zk4wamNVdVBYUXAza1dabHd6VVhjWFF2Qm9NaGdfMS0yY3VVTmkwRHo3S245T0JCbHB0aXlMeHV4QUYweUI5LWFCX3ZKakV4WVJ6dEhNdUM2RFM4MzFsYU5JSHJxWHNPblNsaWk5dU43clA1VzJKRE9XeFBSNU1mNTVMTlMxLUd3azNVYkRqaFoyMWdQOVBEaGFNU0lEZU9YaFFoNlhBM0NlcG5xQjl3S0VTcWVHaEhtbUFLaDVQSUk4aDZXWlZZUlBENjU5VWZ2THFNMFJyamdqanl2cnZpN3R2ckx4S0tkMV9sdTdDWWJLclZsRmpraC1fVWgxZA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "84899b55f1f9",
       "title": "ANS exclui terapias com vestes especiais da cobertura obrigatória para TEA - UOL Notícias",
-      "published": "2026-08-18T08:30:00+00:00",
+      "published": "2026-08-18T12:30:00+00:00",
       "summary": "ANS exclui terapias com vestes especiais da cobertura obrigatória para TEA&nbsp;&nbsp;UOL Notícias",
       "sources": [
         {
