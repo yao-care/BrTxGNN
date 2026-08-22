@@ -1,10 +1,22 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-08-22T01:18:04.064807+00:00",
-  "total_fetched": 85,
-  "unique_count": 82,
+  "fetched_at": "2026-08-22T06:41:21.223614+00:00",
+  "total_fetched": 80,
+  "unique_count": 77,
   "health_related_count": 36,
   "news": [
+    {
+      "id": "d36667d0217c",
+      "title": "Dia D de vacinação acontece hoje em todo o país; saiba mais - G1",
+      "published": "2026-08-22T03:01:06+00:00",
+      "summary": "Dia D de vacinação acontece hoje em todo o país; saiba mais&nbsp;&nbsp;G1Santos realiza Dia D de Multivacinação neste sábado em sete pontos&nbsp;&nbsp;Prefeitura de Santos |Prefeitura realiza Dia D de Multivacinação amanhã (22)&nbsp;&nbsp;uberlandia.mg.gov.brPrefeitura de Manaus convoca crianças e adolescentes para o ‘Dia D’ da Multivacinação neste sábado&nbsp;&nbsp;Prefeitura de ManausSecretária da Saúde atende imprensa no Dia D de Multivacinação 2026&nbsp;&nbsp;Prefeitura de Curitiba",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNXRtUEYyU01xck5rMEJkUlU4SWc2UEhsTDZ0VGcwQmRNb1ZyUzAtSXlmcGRfVkhZOGNBMlBwQ21KQkgyVGNTRkUzZkhvcnBNelc1b24zVEQ4U1gzMVN0bUVJamY5MEdKRWo0QWpiLUJSUFkxcHpWQTNlUmlaWk5XR3VvZjB5eTM5S3VYeWZNaGZsLUZ1ekhhdHB0N2hfbFNKN1Y1V3BIcmkxQXdhaXFZ0gG-AUFVX3lxTE1XRDFRYzQwdHh2cEdmU2l4ZHoxMlVVbWtib0ZCVDJIVE5Sa0hrZnl1OUkteW5qQW1pSnNoUVQ4UWFfbmg3aWdGdWlFSmhEOTNuSi1ONG90WlItSlJkUmZYRGw2ZXRTd013U3dyd1dWMTZvYnQyT09QNUIyTHZkRm1CTHJVQk9rZWlSTURqT2tEYk5yNVczX1dpTm9uMDlqVU4wcVNlVk43TE5KUDVManJBQXpNd19tbGtIWWFDcUE?oc=5"
+        }
+      ]
+    },
     {
       "id": "8800d4b890cb",
       "title": "Doença rara no cérebro diagnosticada em Lito Sousa pode evoluir em poucas semanas, explica neurologista - Terra",
@@ -14,18 +26,6 @@
         {
           "name": "Terra",
           "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOUFA5YXNZM25abGo1dE84WGNzVEx5VFlwOXNvTmp3MUZWVEhxMjNEb2NiRDI3bEhUaW50cWhidFRjZkpvRW9EaTdiWUhET2ZsSzNOMG96NzNFcHFIRHZSWlVtVEtwR3AwUnJzeklPT0hiZXRuZkprM0Q2VVFZV3pJaHVHSThYSjNVdTFHNkNkak9pNzY2STB6RmprUjh6eFVhejUzTVpnVjJISG01SXJqcGhjU3YwdHBWZVM3YWpZV2o0UHVKM0UxXzA0T3EyX0NhMDF6WFJCeTdDSXV6Q2doaE5FMHNSSzlXUDVEbWNwc0JHSHQ5YzJ0NWh1dEVqVExoUTlsRWZ4QWVWczE5dVR6SVFZZHlOSURYcVVOc093?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8ae729ba2dd8",
-      "title": "Creutzfeldt-Jakob, doença de Lito Sousa, não é a mesma que a 'vaca louca'; entenda - G1",
-      "published": "2026-08-21T21:23:12+00:00",
-      "summary": "Creutzfeldt-Jakob, doença de Lito Sousa, não é a mesma que a 'vaca louca'; entenda&nbsp;&nbsp;G1Lito: entenda o que é a doença de Creutzfeldt-Jakob; Brasil teve 547 casos confirmados em 16 anos&nbsp;&nbsp;G1Doença de Creutzfeldt-Jakob: Entenda os Sintomas da Rara Condição Diagnosticada em Lito Sousa&nbsp;&nbsp;Forbes BrasilDoença de Creutzfeldt-Jakob, que afeta Lito Sousa, tem evolução rápida; veja perguntas e respostas&nbsp;&nbsp;Folha de S.PauloEquipe de Lito Souza sobre doença rara: \"Maior tu",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSE9SYmQyUndjOVhkUTZKVjBKaFZkTTJKTllyTUstN2dKczBjTEh1RnNOMnZTMkxTWDNSejN6aTJ4LXhEN3Z3UFcwa3hsMzA3ajhiX21nVVA5VDctTEN2bmFUXzVNVkRSYXl2Y1gyNlV3UktlOTBqUTB6RHlpVHdyaDY0TFNhSUg3dGF5dk9VZjJlRVBwa0JmRE5IWUVWeTBqMTViXzhlcnNMWlRZa29lVW5HTVplYnJaZVB0Y1RpdE1ndy1uQ3BKa9IB1wFBVV95cUxOUmVHVFFTR09rOHVTVlVzMkI3bkZXalh6ZXY4RFBfeGdvTVRCTDRPUDd1OW9sV3dfNThWLThCdjF4ZFFzZ2FJaHR0aTdaZjlZRmtueC1ISXZOUHhya2lqcUlxU3pmREJqU0FsYS1uQTFtTUVrTlphUHpfLXVVZ0UzVG5WNHdSVTdzMWw1T2V2bl9HVERnLUJuUHZFUl9XcXFaTy12bkxxTVJZTEVlQk9DXzhsQ3JLYVRBZFhPUWhUdkJTdzdFaVZPUGM4M3JnLV9leDl2QUZmTQ?oc=5"
         }
       ]
     },
@@ -42,14 +42,26 @@
       ]
     },
     {
-      "id": "696c7d94b5e1",
-      "title": "Cães e gatos serão vacinados contra a raiva neste sábado (22) em mais de 280 pontos de BH - Prefeitura de Belo Horizonte",
-      "published": "2026-08-21T18:50:45+00:00",
-      "summary": "Cães e gatos serão vacinados contra a raiva neste sábado (22) em mais de 280 pontos de BH&nbsp;&nbsp;Prefeitura de Belo HorizonteUnidades de Saúde promovem campanha de vacinação para crianças na região&nbsp;&nbsp;G1Santos realiza Dia D de Multivacinação neste sábado em sete pontos&nbsp;&nbsp;Prefeitura de Santos |Prefeitura de Manaus convoca crianças e adolescentes para o ‘Dia D’ da Multivacinação neste sábado&nbsp;&nbsp;Prefeitura de ManausSecretária da Saúde atende imprensa no Dia D de Multiva",
+      "id": "3c5aea2440ee",
+      "title": "Fortaleza terá campanhas de vacinação para pessoas e animais e mutirão de saúde bucal neste sábado (22) - G1",
+      "published": "2026-08-21T19:03:18+00:00",
+      "summary": "Fortaleza terá campanhas de vacinação para pessoas e animais e mutirão de saúde bucal neste sábado (22)&nbsp;&nbsp;G1Fortaleza terá mutirão de saúde bucal e Dia D de vacinação humana e animal neste sábado (22/8)&nbsp;&nbsp;Prefeitura Municipal de Fortaleza/CEOperação Inverno: confira as unidades de saúde abertas neste fim de semana&nbsp;&nbsp;TerraVeja postos de saúde que estarão abertos no fim de semana em Fortaleza&nbsp;&nbsp;Diário do NordesteFortaleza mantém seis postos de saúde abertos nest",
       "sources": [
         {
-          "name": "Prefeitura de Belo Horizonte",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSXVMOGMyc0xBdDd4cGluQ2JxZXl4TDZWcVZVX3cxbUk4dERUem9SeFhFd2FDZzdiMXpsbHliR1NvY1ozSTBNQzkzSFh0NHBnZFRyLVNjVjE0QklpN0p5dWxoZEt2MVZlRkVvQjI4RDJ3NV9JWEdyUkM5dk1VVzN0Tkx1Vm1YdEo0V2JVY3UzclA0RlJCNEstSG01YjNZMzBPdkZvR0pXbzVGYjVvZ1U4RDhJbWhWRzN1MU5GdjA4NWhaQQ?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQ1haUWxrc2NUcTJRSjRYcVhFMHVqTzdOMTgtWFc4czFQRHlTenJ5S2d2b2tYSXJDM3RvSEdFSjZHYm9XS1hWTS1NV3JhYmM0V1F2Znd3TVJPMzlVc0pkcjhXalhaY1g5c3FUU3lfUVJHUnVib0FFT0lJU0FHT3V2UnE1SGtxb0t0M2xuamlVU21mcHlTbjVFaThWYUJNdkdOaTdaODFhb0R0Tzhfa21CczFxX3ZKZ1d3UGlxdEdPeDh5RjQ2OU9uZW54UFQ4LTNzSjgyRW9EZ3pfS01LNzBIa04wUm9fMy1zVWs1V9IB-wFBVV95cUxQVUFOMGNyUi1rSXp1VV9UdnlLajg5bjE3MEZkZFZnVDlFeHFVMDk3OFBEOFp5Y1lEQWVRWnByaUg2aXNIWlZNcEdueTdJaTI3Z2VIQ3V6V1lTV0NOVFpVWnlLSUtMbW00LW5COEdudl9zLWo2VEdOQWRGZ2lqVkJ6THFTelpuQW1UaG53Mnk1ekgxdGh5c1BEOHdSdTR0UVRBTTN4Q2I3ZlI2QnVkSlNDMFltZkhhZVRtVVhVQk0xTGxuTnpwbzc0R080RUdiUDFkZkVCZmRRMXRTUlFSdnY4VlZnRHpTUUdfQ2dmYzRVZEcwc0xuN0M2eWtCYw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f0a0ff7b3176",
+      "title": "Experimento viral de 'fantasminha de papel' surpreende crianças; entenda como funciona - Globo",
+      "published": "2026-08-21T17:34:33+00:00",
+      "summary": "Experimento viral de 'fantasminha de papel' surpreende crianças; entenda como funciona&nbsp;&nbsp;Globo",
+      "sources": [
+        {
+          "name": "Globo",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeHZKNXlSVGV2eHBBUXZYNEZlekJPdHoyem11OERSMVQzQUthUjdENkRaQjNRaEQ2TVExMlBobl95VmhzNERIcHlfMWd6bF9iZV9FTWJQY2hIV0ZSZUdydFpqVjA2b2FXVHZQbDJEWlJCREQzTVozRWswaEFEUzVhTjlaMzY5T25UNHJpVTRoVWo0VUYwSW5nc25HOTRyMW9uMGIzSFdrMlhxNmNnMkRyWjJoV1IxcUlxNG05ZDVfNmQ1eGEtWXBSWWpaYU54OG9RU2NlZl83aEVsOXhlc0Fj0gHuAUFVX3lxTFAzNnk2YWRqb3lzdUlpLUo1ZkgzOWltNU44M29wM0dwaWJZWElRdGVtTVBRbjhHSFVLR3lLOUlxbnlfV0FsTjJUcUtOZ1BVZnRIRWlCRnBYaFFOcTZsdUgwYjFBdVJuVkJYZ21LNjdNc2tqaDM1V2pzUlNDd0JLa0labmJIaFNZbXJsaFdsZ3JLdzY3YU1mX21kS3p0OEJpR2NzMFdpbFRtWDNxczFqY085LWYtbnJGbGRSVms4akFoZll2OHFsRWc4LWV1TWZiTGpGeUJBM2s5ZkptWjhSZWRnc0dXTTVIRUxfVTQ2a3c?oc=5"
         }
       ]
     },
@@ -78,38 +90,26 @@
       ]
     },
     {
-      "id": "2049218539db",
-      "title": "Covid: instituto que defendeu cloroquina tem erros em 1/3 dos estudos - Metrópoles",
-      "published": "2026-08-21T16:55:00+00:00",
-      "summary": "Covid: instituto que defendeu cloroquina tem erros em 1/3 dos estudos&nbsp;&nbsp;Metrópoles",
+      "id": "f13abafa37ba",
+      "title": "Equipe de Lito Souza sobre doença rara: \"Maior turbulência de sua vida\" - CNN Brasil",
+      "published": "2026-08-21T15:44:31+00:00",
+      "summary": "Equipe de Lito Souza sobre doença rara: \"Maior turbulência de sua vida\"&nbsp;&nbsp;CNN BrasilLito: entenda o que é a doença de Creutzfeldt-Jakob; Brasil teve 547 casos confirmados em 16 anos&nbsp;&nbsp;G1Lito Sousa faz alerta sobre vaquinha falsa após revelar doença degenerativa&nbsp;&nbsp;CNN BrasilDoença de Creutzfeldt-Jakob: Entenda os Sintomas da Rara Condição Diagnosticada em Lito Sousa&nbsp;&nbsp;Forbes BrasilDoença de Creutzfeldt-Jakob, que afeta Lito Sousa, tem evolução rápida; veja perg",
       "sources": [
         {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRXMxWVc5M1FKV2xfQWJJamdQdVhQRHNmdHVKWl9VcW8zSzFyd3o3b2kwR1B3cWRGYXlpaFJsWFpNUFJqYVlBckd2WVJBX3VhdFd5NmEtMHlQQkhSajg1ZktTRURCQm1YanFJbkU3OGJhTEZxT3RDSHFDSjF1WG1ZODNwODdJOVJjSDFiTms2bjVkTDVwTEhuZlY1UURrS1dqYzZz?oc=5"
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNVd0YTM1YW5NU3lwUWt2MTNnUGdWVDZfMzZOTUlOa21qNHFycWhIY2lBTWx4cjNGRHU0ZW5JRTV5YVdBV2FqMy0zQUJsRFRLcGJiYmJpQzY1NjJad2xpeUtwZE5EdTFuV2pwRlA0N2pyRldoQkJlai1GaTJyd19CaHoxNDhLQWJQaU1IN0FyVXdwMmtaNDdjLTdUNHhGQWlld3dKRFRCMXUtcjFFSlNLMTdRUVVhUQ?oc=5"
         }
       ]
     },
     {
-      "id": "242b00300e94",
+      "id": "7125718c201f",
       "title": "Hábito comum pode quase triplicar o risco de um câncer letal - O GLOBO",
       "published": "2026-08-21T15:07:22+00:00",
       "summary": "Hábito comum pode quase triplicar o risco de um câncer letal&nbsp;&nbsp;O GLOBOEstudo mostra que as bebidas que miúdos e adultos adoram podem causar cancro do estômago&nbsp;&nbsp;nit.ptEstudo liga bebida açucarada diária a maior risco de câncer de estômago&nbsp;&nbsp;Notícias ao Minuto BrasilEstudo inédito nos EUA associa bebidas açucaradas ao câncer gástrico&nbsp;&nbsp;Olhar DigitalO consumo diário de bebidas açucaradas aumenta o risco de câncer de estômago em 2,45 vezes?&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRVNLZl9sLVRjdktkaVp4T0gwTjM4RDRFYVp4MUtibnNjMVNOckdwR3RKWTdHWExkOGhXaGQxV01hUTdTaVZYUGdzYTJjdGlVdU4tUGVXenoyNHY5RWlCM0luRVo4aVlVajRfYzRseDhVaDVnY0JUZkVaR0ZhZHlBdVFEdzJYMnZ4X3BsSDFwOVpFVnBNdjQ2MFZ2ejBOWTVOak1OOS1wOHlZOVB4Z05nOEw5enlzVVnSAcYBQVVfeXFMT1JGRzlPNmY0ZUNKSU1YU2tZY1B3MDdfTmRZV3FtbndGejdMaDExZXRjQUd0TVJsRGFnWGlYX2JMRkROMUhDWW1OZ0tmSzJLY1hUTV9EMXljOUJsQkE2OTIzZ2NHQjdrajVGSEJFdnF3a3U1MFVQVmNYa1dyWUZuYTYyTmtZeklFaEtKeEpIRWsxR0ZQaGlabmVURkhYYWxMMEVfbkZQQ0RKQkxtSmZpTnYycUc2dGM0MWVvaDV2TzFJbjIyc1Rn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bce9b6f55f87",
-      "title": "Preço de vacinas varia até R$ 390 entre estabelecimentos de Poços - onda poços",
-      "published": "2026-08-21T14:14:40+00:00",
-      "summary": "Preço de vacinas varia até R$ 390 entre estabelecimentos de Poços&nbsp;&nbsp;onda poços",
-      "sources": [
-        {
-          "name": "onda poços",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTzJBUDFTVnh5bFdidmh2SklrcXBYVTVQTUZIc1JELVdsbE5oN0F3eUloVjVjRGp5VFZTdlFEd0lTMjNQeXNKaFRlYXhpdUlQWFAxZDloNTRMQ0JsbmlZcHpzeGVaUVNka2dCcVpDWlZGV3YwR0hVOGphU2RLY0p5VzVjSXctSEVMajlJQ095ZjI5dkJ1?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRVNLZl9sLVRjdktkaVp4T0gwTjM4RDRFYVp4MUtibnNjMVNOckdwR3RKWTdHWExkOGhXaGQxV01hUTdTaVZYUGdzYTJjdGlVdU4tUGVXenoyNHY5RWlCM0luRVo4aVlVajRfYzRseDhVaDVnY0JUZkVaR0ZhZHlBdVFEdzJYMnZ4X3BsSDFwOVpFVnBNdjQ2MFZ2ejBOWTVOak1OOS1wOHlZOVB4Z05nOEw5enlzVVk?oc=5"
         }
       ]
     },
@@ -162,10 +162,22 @@
       ]
     },
     {
+      "id": "cb84d4d582e9",
+      "title": "Depois de passar 28 anos preso em um laboratório, macaco chega a um santuário, vê o céu aberto pela primeira vez e tem uma reação tão emocionante que comove o mundo - CPG Click Petróleo e Gás",
+      "published": "2026-08-21T11:35:56+00:00",
+      "summary": "Depois de passar 28 anos preso em um laboratório, macaco chega a um santuário, vê o céu aberto pela primeira vez e tem uma reação tão emocionante que comove o mundo&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNMUZLN0FBRlUyOUkxUHlEc0Z4bGMyY2NDYTBudU82Tl9LOFRSbXdkR1FSVjRVb3ZENnZsQzZTT1MtaTRGbS1MMGg2bWNUV05FaUgxeGd0M0Z3Sy15TGptV0lFSWsyZlVqVU5pNGpYaXNISUJlVmdWcVllamlPNTQtSHlIX3ZidXMzZFJPM1Fyc3JQU2FCbW1SbjdsdHRNekJfeGF2LUxVbU1wbnVvamNTT1B6bnBuZVl4TlEyTlk3UlRjZEdJdjhMU2lEeS13VjNqWFYzSkJ3aFBVM3FhRU9mQnE2UXJ6TkFsTUpQY0JKVTNqTTBMbF90YTAyUm8xQ28xZWxhOXdB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d8e9840a69c3",
       "title": "Diretriz SBD 2026: o controle glicêmico isolado não é mais suficiente - Medscape",
       "published": "2026-08-21T11:35:22+00:00",
-      "summary": "Diretriz SBD 2026: o controle glicêmico isolado não é mais suficiente&nbsp;&nbsp;MedscapeSociedade médica atualiza tratamento para diabetes tipo 2; veja o que mudou&nbsp;&nbsp;O GLOBOSociedade de diabetes atualiza diretrizes e inclui combate à obesidade no tratamento&nbsp;&nbsp;Folha de S.PauloMédicos mudam tratamento do diabetes e passam a combater obesidade junto com a doença&nbsp;&nbsp;InfoMoneyDiretoria da Sociedade Brasileira de Diabetes no Pará participa de atualização científica em obesid",
+      "summary": "Diretriz SBD 2026: o controle glicêmico isolado não é mais suficiente&nbsp;&nbsp;MedscapeSociedade médica atualiza tratamento para diabetes tipo 2; veja o que mudou&nbsp;&nbsp;O GLOBOMédicos mudam tratamento do diabetes e passam a combater obesidade junto com a doença&nbsp;&nbsp;InfoMoneySociedade de diabetes atualiza diretrizes e inclui combate à obesidade no tratamento&nbsp;&nbsp;Folha de S.PauloPrevenção do diabetes tipo 2 em dez pontos essenciais&nbsp;&nbsp;Correio do Povo Penedo",
       "sources": [
         {
           "name": "Medscape",
@@ -189,7 +201,7 @@
       "id": "f190c91c3737",
       "title": "Dia D de Multivacinação é realizado neste sábado no Alto Tietê - G1",
       "published": "2026-08-21T09:58:45+00:00",
-      "summary": "Dia D de Multivacinação é realizado neste sábado no Alto Tietê&nbsp;&nbsp;G1Dia D de Multivacinação acontece neste sábado (22) em todo o estado de SP; veja quem deve se vacinar&nbsp;&nbsp;agenciasp.sp.gov.brDia D de vacinação acontece neste sábado (22) em todo o país&nbsp;&nbsp;G1Lúcia Helena: Sarampo: 7 coisas que você ainda não sabe sobre a ameaça dessa doença&nbsp;&nbsp;UOLMaior surto de sarampo nas Américas em duas décadas avança e já faz vítimas no Brasil&nbsp;&nbsp;VEJA",
+      "summary": "Dia D de Multivacinação é realizado neste sábado no Alto Tietê&nbsp;&nbsp;G1Dia D de Multivacinação acontece neste sábado (22) em todo o estado de SP; veja quem deve se vacinar&nbsp;&nbsp;agenciasp.sp.gov.brLúcia Helena: Sarampo: 7 coisas que você ainda não sabe sobre a ameaça dessa doença&nbsp;&nbsp;UOLMaior surto de sarampo nas Américas em duas décadas avança e já faz vítimas no Brasil&nbsp;&nbsp;VEJAJundiaí não registra casos de sarampo desde 2019 e reforça importância da vacinação&nbsp;&nbsp",
       "sources": [
         {
           "name": "G1",
@@ -201,11 +213,23 @@
       "id": "e41063e4b63a",
       "title": "Pilotos e comissários lideram mortes por câncer ligado à radiação, diz estudo - Jovem Pan",
       "published": "2026-08-21T09:58:14+00:00",
-      "summary": "Pilotos e comissários lideram mortes por câncer ligado à radiação, diz estudo&nbsp;&nbsp;Jovem PanPilotos e comissários lideram risco de morte por câncer ligado à radiação, aponta estudo&nbsp;&nbsp;G1Estudo de Harvard revela alta mortalidade por câncer ligado à radiação em tripulantes de voo&nbsp;&nbsp;AEROINA profissão com o maior risco de câncer por radiação&nbsp;&nbsp;DW.comHarvard descobre a profissão com maior risco de desenvolvimento de cancro&nbsp;&nbsp;Notícias ao Minuto",
+      "summary": "Pilotos e comissários lideram mortes por câncer ligado à radiação, diz estudo&nbsp;&nbsp;Jovem PanPilotos e comissários de voo correm riscos maiores de ter câncer causado por exposição à radiação cósmica&nbsp;&nbsp;Época NegóciosA profissão com o maior risco de câncer por radiação&nbsp;&nbsp;DW.comEstudo de Harvard revela alta mortalidade por câncer ligado à radiação em tripulantes de voo&nbsp;&nbsp;AEROINComissários e pilotos lideram risco de morte por câncer ligado à radiação, aponta estudo&nb",
       "sources": [
         {
           "name": "Jovem Pan",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaXZyVnhGTlRaWGhYNHplVG1IdzlnZV9wMklISXpIZ0JnWnl1T01MNnRCRFFvVGt3ZTVqOEtaVUxac2o0VU51dHc1NzNFQVc5WFM2TVNKMkJNNEp3dUJoeVBVTGE3T3BnZTlHNkh5ZUJLZ3p5bXVhTDIza3I5cllmbXZaX0RuTXBCcmhsMHdBSnkyME1YQUswd1FKMUtDSUd2cXpyTGFrdU5pSGM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d8828bcaa381",
+      "title": "Pais pedem respostas após 12 crianças serem diagnosticadas com o mesmo tipo raro de câncer ósseo em poucos anos na Califórnia - NSC Total",
+      "published": "2026-08-21T09:37:09+00:00",
+      "summary": "Pais pedem respostas após 12 crianças serem diagnosticadas com o mesmo tipo raro de câncer ósseo em poucos anos na Califórnia&nbsp;&nbsp;NSC Total12 crianças da mesma vizinhança são diagnosticadas com câncer raro; entenda&nbsp;&nbsp;O GLOBOSarcoma de Ewing: entenda o câncer diagnosticado em 12 crianças do mesmo bairro&nbsp;&nbsp;TerraPai pede investigação após 12 jovens terem câncer raro na mesma região da Califórnia&nbsp;&nbsp;Gazeta Brazilian News12 crianças da mesma vizinhança são diagnostica",
+      "sources": [
+        {
+          "name": "NSC Total",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSEZBUUZ4Z2daVnhyQUtUVFI2eDRsOUJCN1lMUnFDdzRUZHBWaGVsUk91QWFxcXpXRVNSTEdJU0hzMmlQU1ZHQl9UNkROUDBLeUtNRThEb2pFQ25ObzA4bHp1U1FBckZfbnF2bER5am5GUS0ta002YmUxeHhpOHNUZjA4enNwRkd3b2FLZDNjdXh3cnl1V1NySDJoMDlZbFRyUjc0WHQtR0xIN0xhd215SkJ5RHNMYXVjNC1TNG84Ti1fMUxwOHR5djVVMnA0NXJGSVQtOGNJeFhnS3llMFFBM2Zsd18xb0w0Q2RRQQ?oc=5"
         }
       ]
     },
@@ -294,38 +318,14 @@
       ]
     },
     {
-      "id": "0bd41e900845",
-      "title": "Raro e agressivo, câncer de bexiga demanda diagnóstico ágil e precoce - Folha de S.Paulo",
-      "published": "2026-08-21T00:00:00+00:00",
-      "summary": "Raro e agressivo, câncer de bexiga demanda diagnóstico ágil e precoce&nbsp;&nbsp;Folha de S.PauloVeja mais manchetes e perspectivas no Google Notícias",
+      "id": "ceaa8ffe4796",
+      "title": "Criciúma cancela shows de aniversário diante do risco climático do El Niño - 4oito",
+      "published": "2026-08-20T21:19:00+00:00",
+      "summary": "Criciúma cancela shows de aniversário diante do risco climático do El Niño&nbsp;&nbsp;4oito",
       "sources": [
         {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSl9QcWNYYmw4Y1BVWWdmMzFfdE9MQzN4eHRIRHF6X01jRjZwc0VxMUFYcU5HRVlXdExTQl96UDZkR2FPZmdKalVZQ0MwMnlrZ3FqUjVIY3hmQUpwY0tuVGJhaThyaXo1MkdSYjg1LU5HVU52N3U1RFBTdkNZVjdQTjllWjlpNzZMZTJPdDNLb2R1ZTJBZk9teW5WaWxuS2dzTnZnRjVzd0NuNzdvWENzLUlkZW1NbzB5NXp0VVE3ZGhSS3F2WXJsRw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1e2753593a50",
-      "title": "Taxistas têm menor taxa de mortes por Alzheimer, diz pesquisa - CNN Brasil",
-      "published": "2026-08-20T22:14:01+00:00",
-      "summary": "Taxistas têm menor taxa de mortes por Alzheimer, diz pesquisa&nbsp;&nbsp;CNN BrasilVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTXNKSkUxN2ozVW04MHl6aHowS0JOancyUFNXdUdSbmhBQTZZN3dpWnVVanBqZlZreDFjX1doRTJjcHV6STNHTG9Zbm1Qdlh5QlVObEg2bExhdUZUYmxKdTBrazJ5Qmx5QWdhU2U1WjByejRhelJNQ2VVNFVkamI0UG1kRkh5SGFCaEtFSEo4bTlHOHlxR2RVV216V0I?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e3fa79d5c957",
-      "title": "Criciúma declara Estado de Risco Climático e não realizará shows no aniversário de emancipação - Portal Engeplus",
-      "published": "2026-08-20T21:02:00+00:00",
-      "summary": "Criciúma declara Estado de Risco Climático e não realizará shows no aniversário de emancipação&nbsp;&nbsp;Portal Engeplus",
-      "sources": [
-        {
-          "name": "Portal Engeplus",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObXVPM0VPZU0wZnE5WmtfOTd2WjV2UVUzSDJLQzBxNkJ3VmpCVDh6WGxHQm9NVkZIVXhhbE01dmt4WUg4NXllU3p2R2NpVG53eEFEVC1zLWxGdWhjU0ZsY1JmaW1Ydk84MWd3OVlIWTdFX3NhV2djQWNFTlc4LWFKYTlBQ1VZQzlqd3NrWE43bnN0enVvQ0M4dzJGVWx2LUhHajRfaUdDd19DSUV1Z2ZwQm1ELXBnOXVsbE9qWXlDSU1vTlhvQVJDR0poT0QwOEl2Ni1ndW5B?oc=5"
+          "name": "4oito",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQWF2VjIzQ3dPY292STZaY1E5TUtxaThjV1RMNFRHRC14UjItUnlKczVER0toQWgxN21zbkx0b2VDZ3lZY21IMHlWSUdDdDhLM01TVl9yTkxrc245OUpfOUZqTk1iWEp6dk5oSDFxY1J4a3FyeDk0LXcyY2VnbDBlemVZdzU3aGFlOXpKOTlMTXRDM2RaUGxLS1BPcGlKU2Q4dC1SMkZIM0tjQ1VhUU9ybXNJMA?oc=5"
         }
       ]
     },
@@ -338,6 +338,18 @@
         {
           "name": "Olhar Digital",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdnRVcE0yRUJjV1dwQlVtZDNpUklvS2JjNWNMZWJKb3hCSGt2dHpCT0V6NXVuUkY4dWJYNnhnOUtwTjNONW9tQk1SRnJ4bVRDOGI3dEUtaS16aFExdU5YaXNEZjc5NGR5cm0tUWhib2xmck5hYkw4TmlWVnRpdVJXUHJNVkhVb1ZoeFo3ZDc5ak9WR3A2Zmdzc2lYMXdBT1psdE0wenVJeElaMDFrMTJfbE1sNHpWWFZzbkU0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a3145a1245c3",
+      "title": "Raro e agressivo, câncer de bexiga demanda diagnóstico ágil e precoce - UOL",
+      "published": "2026-08-20T17:26:13+00:00",
+      "summary": "Raro e agressivo, câncer de bexiga demanda diagnóstico ágil e precoce&nbsp;&nbsp;UOLVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRmFoaGNMd2ZpX29INThNb2QzUFIycWhzbXhWdTRPOUZhemN5akltVEJGdl9pUVpwNk5Pckp3cXlMNi01Sk5tWUlHZlhMZW5lOVFLd1RtRFljckh0TTlMa2w5VGpJc3R2TXhRLVZEYXRuQXBrU2ZSTzhRb0dYVGl4Yk9EaGRDWEwzdE54SG56Q0p3UmRCM1A0UVg2NWpJTF9YVHpUdVRCME1rblJGMVlJYjRFbEhZTUptRW5FSmVIYnRPbmNZcXVfa3Q1dW0?oc=5"
         }
       ]
     },
@@ -378,18 +390,6 @@
       ]
     },
     {
-      "id": "b3d397ca9558",
-      "title": "Após 34 anos vivendo em laboratórios e passar a adolescência preso em uma pequena gaiola metálica, chimpanzé Alex enfrenta 12 horas de viagem e finalmente chega a um santuário de 95 hectares cercado por floresta na Geórgia - CPG Click Petróleo e Gás",
-      "published": "2026-08-20T14:21:20+00:00",
-      "summary": "Após 34 anos vivendo em laboratórios e passar a adolescência preso em uma pequena gaiola metálica, chimpanzé Alex enfrenta 12 horas de viagem e finalmente chega a um santuário de 95 hectares cercado por floresta na Geórgia&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQM2NUUHRtdnR1LVItZ2JtcFBwUUs0RXB2OUdFNEJ0bzJNNmZoSVV0MEhlaC1qbndGTXM5YWJBMVBGTVhJbWdrZ3BTZVc2R3pGSkR2aktNS0xMeVFiazZmdVQ3aGxjY0lLbGNMUVRGQ2J5QWhEZGV4WHJEN0tjRHduT3o3RjFlMmNrV1JTc0hSVERXdGhSR1JzSzVMU245NDZZcFM0OWVZRTFDVFZGRExzQU9lOXhFT052NnJLbjdhc2l6a1g3cUdYTjBDMC16MXEyV3p1VmxEZWpxRVV5NUVkLVFYdHgxS08xVlhjNjY5NHFURzl1WDBZUjFFd1FMNVFkX25kM2d5bXdSandIWHdsb1g3R01lSmpxNHdRM2t3R3pfR1h1TWU4dEN2NXRTQS1oWjNUbzFn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9513859ce520",
       "title": "Vitamina D: estudo revela que altas doses podem reduzir o risco de demência - O GLOBO",
       "published": "2026-08-20T13:26:01+00:00",
@@ -414,14 +414,14 @@
       ]
     },
     {
-      "id": "e8a8c045b05b",
-      "title": "12 crianças da mesma vizinhança são diagnosticadas com câncer raro e acendem alerta - Jornal Correio",
-      "published": "2026-08-20T12:43:50+00:00",
-      "summary": "12 crianças da mesma vizinhança são diagnosticadas com câncer raro e acendem alerta&nbsp;&nbsp;Jornal Correio12 crianças da mesma vizinhança são diagnosticadas com câncer raro; entenda&nbsp;&nbsp;O GLOBOSarcoma de Ewing: entenda o câncer diagnosticado em 12 crianças do mesmo bairro&nbsp;&nbsp;TerraPai pede investigação após 12 jovens terem câncer raro na mesma região da Califórnia&nbsp;&nbsp;Gazeta Brazilian NewsPais pedem respostas após 12 crianças serem diagnosticadas com o mesmo tipo raro de ",
+      "id": "75793662f17e",
+      "title": "Clínica psicológica da UFPA está com agendamento aberto para atendimento gratuito em Belém - G1",
+      "published": "2026-08-20T10:47:47+00:00",
+      "summary": "Clínica psicológica da UFPA está com agendamento aberto para atendimento gratuito em Belém&nbsp;&nbsp;G1",
       "sources": [
         {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMlNGaEowcE1HTkVLM2w5dVllcnUzajdvTjRlWElKejJzdm0yUWxfcjh4bVlYQW02S2FZSm0wNmlTQ0MzUFJqZkw1R2taYzhjajA4X29MSk9kU3l1ZTlVSVVKRUdwRFU2cC1BTGxvaURkVVlkYUN6cmJwLXN5dWZBdU5vdDN6NDQzTWlGLXlmZEdnZ0RmeVlNMHEtS1h5WHJLMEcxTUxRVUxiOUJVaTdiNVdDNlBDTDd2VWdMWV9PdmtxMzJmVTlN?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTVpUdFJMSTdHSXZiZHdiMk5lY1NsWFFJRExaS2FOOERHbWVOdjBXQTQ3QTd1OG5aY3ZXR2FKREFTNGI2TlBienBWZkw2Z2FNSGZNci1aaU13MzJiclFGN0ZZdXJKTUprNnI2ZTlZM3EzQzFzT0VlYS11aElxWFhSY3RCR0U2MGpOSUdwUGY1dUpXQk1EcmNuMnpwU1FDR25jRlVjQXE1WmxmSVFiaHFsMjVHN29zRzBfb3Z1SEw2S3hCQWhBaUtkcG9fd3ZVOV9OUXFmdloxRTZ6c0ds0gHrAUFVX3lxTE1MZ0NudTZ3X3FTbGVJdWlwbS1qbVhMYnZhZHdMYUFka1JhR29jYnd2akc5NmdTczU0Uno0R1N0SU1yckFDaGx6bDEtMnF6OE5IWEU2ZlNWRTBkSmt1Zm96Qm5XRTZhRXZtb0ZUb1dqOURaVjdfVWZmaWRTTUFXUE9FQ3pyR3BaaEhvVUpFSTVZUXpzWnpsN282NG1UckEyVTRiaS1xZ1N5TlRCVVh1UXZZemw3MXZZNUZYVFV6LVNsVUJJOF9GNG56YmthV0ViVnFnV09LeDU4U3lOZ2kxV21tSGVlTWdSaDVmSzg?oc=5"
         }
       ]
     },
