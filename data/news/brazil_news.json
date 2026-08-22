@@ -1,8 +1,429 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-08-22T12:41:15.642039+00:00",
-  "total_fetched": 0,
-  "unique_count": 0,
-  "health_related_count": 0,
-  "news": []
+  "fetched_at": "2026-08-22T18:32:17.484420+00:00",
+  "total_fetched": 93,
+  "unique_count": 90,
+  "health_related_count": 35,
+  "news": [
+    {
+      "id": "3832df863e61",
+      "title": "Milly Lacombe: Diagnóstico recebido por Lito Sousa une as pontas soltas de um país rachado - UOL",
+      "published": "2026-08-22T17:11:11+00:00",
+      "summary": "Milly Lacombe: Diagnóstico recebido por Lito Sousa une as pontas soltas de um país rachado&nbsp;&nbsp;UOLLito Sousa está em fila para estudo em Harvard, nos EUA, diz mulher do influenciador: 'Difícil não pensar que um milagre vai acontecer'&nbsp;&nbsp;O GLOBODoença de Creutzfeldt-Jakob: Entenda os Sintomas da Rara Condição Diagnosticada em Lito Sousa&nbsp;&nbsp;Forbes BrasilInfluenciador é diagnosticado com doença rara causada por príons; proteína desafia a ciência&nbsp;&nbsp;Gazeta do PovoLito ",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRFUtT0Fpc01PT2xJTHZaZERlVDJUX3hqZnROR3FwX3ZobE02RkQzdmotX2FNaFJwYURaaE11Z05iMXdwaUViV0d6RUkyUDlJZi1Gc2tBYnFiNzBYZmFJX3ByS3U2ejNyZ1FiaVNlVV9NUVUzWHE4VGp5QXo4Nmp0OEpCMXVGUS1oclFMUDhrUzRKU0xheFY1WTE1TjFYZ0gtUnUyeHNmeGJOb0ZGNGZwazE3VFhzYUlUWkpqcFpsbjg5Ukdtd0V3TWRORkV4NHViU2k4OW1nYW1fMHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0d0b5f8f138b",
+      "title": "SP tem Dia D da vacinação com reforço contra sarampo após 23 casos da doença em 2026 - G1",
+      "published": "2026-08-22T11:36:40+00:00",
+      "summary": "SP tem Dia D da vacinação com reforço contra sarampo após 23 casos da doença em 2026&nbsp;&nbsp;G1Cuiabá realiza Dia D da Multivacinação neste sábado&nbsp;&nbsp;G1Dia D da multivacinação tenta reverter baixa adesão de crianças e adolescentes contra influenza e HPV em Caxias do Sul&nbsp;&nbsp;GZHNiterói realiza Dia D de Multivacinação neste sábado (22)&nbsp;&nbsp;Prefeitura Municipal de NiteróiDia D de Multivacinação acontece neste sábado em mais de 400 pontos de atendimento na cidade&nbsp;&nbsp;",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNN2xiaVBFaWZudkNLNG9aQW45UEw2OThfeFlZWXVGaUhQOFI2dmRyNFZhMXlWUzVmWWVFUUI3OUJfdWV4Y2JNbk9wTTJjMjM5M3JEMVAzamVGLTVnYmdNRVVjTk9xUkNCNVhLQ0s4Y0ZDWkk3MkQ1WDZfVEd5bWo2MnJ0R0ZmNm9RSzBzYlFueHItT2FaUDRWZW4tdG90MVh5WE83cEVtb2lDeUpvUlJGT2hQM1ZENzVmWmFJazNra0hlZmpHRkRwQkNvSF83dGRjS2xZNTlLbFlmYVXSAeoBQVVfeXFMTWpMNXJBOVplSmJYRUdkNmoyTEdfbUFrYl9LenBqMVpUT0NXNy1iQ1RCX2J2b3FJb1JiaFpqdDYxeVY3djhteE5MS1dkRGVObUlRYUNWUnJQWEN6bWdnb19HNnFPNUJpVWJQbWJaN3VLdTFKd1lKTXBkZmZpejZJaF9FcHNXQzRwd0N0SVFTdmttSXl2WHNfVmVRRE1vWFp1V0ZiVDVXd1g3QjJ4dlQya2NFTXZTZ1ZlcG9kVVhqMVVRV1Y0TUNEZHZ6SUp2MkMtZVBIXzNtb3F4TWpMVjZEcW5uN0R0cTgtOFlB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ed001859fb8c",
+      "title": "'A geração sóbria': por que cada vez mais jovens trocam o álcool por remédios de ansiedade — e por que isso preocupa - BBC",
+      "published": "2026-08-22T10:57:41+00:00",
+      "summary": "'A geração sóbria': por que cada vez mais jovens trocam o álcool por remédios de ansiedade — e por que isso preocupa&nbsp;&nbsp;BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3SFFLNG1rbExRYUR4bVhKaFFpTmFMaW9Ydk9PS2tvdzNuTDRBQnpXcnF5YlJNbFo1MGtKWHFFN0FJb2JsWHBMdE9ROHI0cFJVMXAySzJwaWdKUDdySHVyY2ZR0gFnQVVfeXFMUGpPdlJsZXVZZlpCVW5vdlQ4bkpHdE5FZkF1M2ZJMEt2UjVRbXZtV1FGYXF2bE5uaHZxdWMyMExtck5fQUFubEVVdWdCQnFjZ1VFNkFpem01amlYOXVXUVhSQ1pVQnVQaw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "37ddc4aa04d2",
+      "title": "Mel Robbins, especialista em desenvolvimento pessoal: 'Você precisa aprender a amar seus pais pelo que eles são, e não pelo que você gostaria que fossem' - Terra",
+      "published": "2026-08-22T09:19:00+00:00",
+      "summary": "Mel Robbins, especialista em desenvolvimento pessoal: 'Você precisa aprender a amar seus pais pelo que eles são, e não pelo que você gostaria que fossem'&nbsp;&nbsp;Terra",
+      "sources": [
+        {
+          "name": "Terra",
+          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNMk1RWldseTFwNnowMFhRWVBnREZzeWQ0WVROWFF4NFBJTjNMeEhoRVM1ZWhXX2FDRjV1YnVlcUdhMk5aVU05aFpNaFFhUE9wcklaZHNhcGVicU04QjVxdE1TNFJzWjF1eV9pYjU3bS1JbjlYMlVKQmE1U0VsM3dYTG5oU18xRHlqajhpLW11elhZT1BlUWtMdzdZdzBMeEl6anphRENwTUloR2ZyZ25OaVhjMEZlQmdaeUFtT0paOWNPV3VkVEZjUlJQTEhtUzNDYVRlbU1SR2xrUEtPdFpVWTZtYVU2Q0R4UWJQd1ZIZ0l6LWc4U1FEekJGNm1lZVBWS0hLZGR5N3hscTZoS2YxQkszVnNNbGhNcEpDV2h4NXpvMnpLcVEtSW1iWndDZjRCbkFkWnJKYm84dmF0TVNtbU9ydUhyUHRMOE5oLTBKWjdneWZW?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6d30536fd644",
+      "title": "Por que as crianças de fazendas costumam ter menos alergias - Terra",
+      "published": "2026-08-22T07:40:00+00:00",
+      "summary": "Por que as crianças de fazendas costumam ter menos alergias&nbsp;&nbsp;Terra",
+      "sources": [
+        {
+          "name": "Terra",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYXJ2dlhmYkx1SXZDdHJaRlRyNVJ6REpTLXBORGJsOG1FanJEZExkOVFDOFNwLU9JTUw0RHA4eWxocWNET0IzMnFQSTlORjROQ1dod0UtLUQwZ256MFVTaDhGRUEyUXVPcXYtM3c5OWlYenp2T19MVmZVY3NLa2UwZXBTTExJeHFUUU1nb1MzaXF2c2JzMEhrb2l5dGtjUXZ4enhfT2U2UEpNTUoxcTVKYmlDTGRWMGVhd1FKeml0dUJIOE5YNjRYeC1QS25nckUxejRkdUlHNnkyTlQ1UjZoMHNqSmk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "12ab38c35cb9",
+      "title": "‘Mini Big Bang’: cientistas recriam em laboratório estado da matéria do início do Universo - O GLOBO",
+      "published": "2026-08-22T07:01:59+00:00",
+      "summary": "‘Mini Big Bang’: cientistas recriam em laboratório estado da matéria do início do Universo&nbsp;&nbsp;O GLOBO",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQRzV1UHpnWGNDdFFjSnA5dm1UaFBTSnRUU0ZUZ1VyNFo4WDZoVVBCSlVQZEgxS0szZWFyZlp3U2lNLWRMT1RGeUJJSHdxdGctZUZkMVg5aEJnc3FpcFZ2ajJKa0praDFIMVFmSjlteVJ4elpZNjdPRWVucWpLMHd0bTZudldXbkVTTlJYR1RLcmxFeHFvYUVtM2tyMmE0Vzg5a2MxMC1NTEloTG9YdENEN2FJTWtIRzhtdzRVcXBidWt3YXU3YURNVW1yNGVxc284dFdiV3ZHTTMtQzU5OU1BS1dGT2I1RjA4R20yd2JFTWnSAf8BQVVfeXFMT2hGV1VHQ2J2U1lkc0x1THRiS0gtTkV6OEtXUkNZcTB1Wjl6UVh1Nk91TXdzZDRfMk5XWGJjVlBJOV8xSnVMQlVtQ25VUWpjWFBXLVYxbzNmaHpCSWZFLV9OczhyTTR1WnZyd2wydS1QNDNhd1Zzd3FRdkt5ZXpUZDNiR1lHcjhJdk90MG9iQy1HeWc2OGpobzgxNXAyN1V2R3c2WXFtcUpiOTR0QWlGcnJTNDlyQlYxMnMtZWlHWmVkWUlaVTYtcEdRSmZySUswSURqNVBvSVM5WkZTTWtaMWN0NDhtb2p2aUdTaGdpNmpwc3pxUmxGTzNMUDhZSl9v?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "813355bf0f3f",
+      "title": "A lenda é real: ciência confirma pela primeira vez a existência do veado preto no Pantanal; veja imagens - O GLOBO",
+      "published": "2026-08-22T06:30:25+00:00",
+      "summary": "A lenda é real: ciência confirma pela primeira vez a existência do veado preto no Pantanal; veja imagens&nbsp;&nbsp;O GLOBO",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOQm1NaEhHOC12a0lOQk1UelBzb0N6MTNXejVTZm1lMjhycWItUjRKbjl6MFY1bmV2a25LZVhzSTByQUVFNUQtbTBpcDNSSzNXcVZqTlBLemx2NU5fZEhmVEJCbGpZYzl3Uy16TnM2RE1aaFlrTjN0bHg2TUJndTdoRHJsbFNfdDlIMlRwOEhpNzJBMDdrX3l1VmZzemFLSTQyakt1Z3JTTzdDTDdDRmdKRUU3U1FRNFlrYms3enlhZVNySnJfNWtMWjQwcV9IbjYxRy1fek9nNU14MFdkS2hCWFhqb25BUy1pYmhVdTVQS1dfMUZ1TjQ3R3ViYUdPYXpycS000gGSAkFVX3lxTFBqMlZFZ2VyMThWUlB4cGdhcXhaLXBJaUZEQ3FLb0RsVXZ0dGlxQ1JXYVlUMEhpeTRxU0Z1cFd0YjZRbnNyMjd3d0VGWXZLMF9fV0NkNGc1QWxzc3c2SktPWkROUlRLNFdTa21MODhaX1NVcmx2c29FeFZObk9FbHZqVjNzcXlueWdmcjU2TXNMZnl5a25VdHBSS0twbjROalo3Q0p6ZVVZZTNqalE2ZUNUV1pQMHE2Sk1BdzRFNERvZU9Da2lMUEl5ejgxTDVrdkstZl82a2dzTG5uRWZZdzJaUXhnVkVBSE14QjlrczJ3bDJjVlZKd3Zud25pNDRiZ3IwRTdHWEdJYlFTZHNyT01rZ3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1639ddc3c3f0",
+      "title": "Câncer leva homem a descobrir síndrome genética: “Achei que era o fim” - Metrópoles",
+      "published": "2026-08-22T05:00:00+00:00",
+      "summary": "Câncer leva homem a descobrir síndrome genética: “Achei que era o fim”&nbsp;&nbsp;MetrópolesCâncer no DNA: teste genético no SUS muda prevenção e tratamento&nbsp;&nbsp;Estado de MinasA herança de um gene: como uma família quebrou um ciclo de câncer&nbsp;&nbsp;Correio BrazilienseMutação revela câncer hereditário e muda destino de família&nbsp;&nbsp;Aventuras na HistóriaTeste genético muda rumo de câncer hereditário em família acompanhada por 20 anos&nbsp;&nbsp;Época Negócios",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaEtpQzlFRnk1T1dqNEdKM2ttM2JWc2pETVhWN3VvaHcyR3Z0NlRBUkdFQVVFa3ZFZHN5TmF4dGN1OGhYUkhkS1E4T1dNZVI1eXZ3T25DdWJReklpUmVveFM4OVluWmx5TVdDSzJsajBTeFpTSi0xM0V5X1B4Ym1BdnRYQzdkRDRLM01ud1JmbG1aN01oVk15WXFEWGZFaXBkeVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6e5d2122381c",
+      "title": "Autismo pode ser um efeito colateral da evolução do cérebro humano; entenda - CNN Brasil",
+      "published": "2026-08-22T03:40:49+00:00",
+      "summary": "Autismo pode ser um efeito colateral da evolução do cérebro humano; entenda&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaGtuWHo3QnNIUkVrcFo1TGc1bkVuR0tCODZhMk5uR2VGWUN6WXUzWERZcXFrbVB2Vm56WDRLSWRMMGxOa0FaZVV6amMxcmFEQ21lYktYbzl1NzFDMXJHMk9QZUh3dnMwNndQY21aVnV1Q1AzOTNHeVp1cnpkRlQ1U2pQUGwwZXp6cVJ6N3RyQjFZajdlZ3BMc2RwZlhYY2tYRGRmX3R1ZW8wcERZWEo0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "400224312771",
+      "title": "Creutzfeldt-Jakob: por que a doença é tão rara e difícil de diagnosticar? - G1",
+      "published": "2026-08-22T03:00:41+00:00",
+      "summary": "Creutzfeldt-Jakob: por que a doença é tão rara e difícil de diagnosticar?&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLUJqSGw5SGM5UlV5ZEpmcU5wdjFOMUw0eVhORzFTZXNWeXlxVk82NU5DV254aGRyeXpZckVrX0FiaTduWG4tQ1JLSFNrcnphY3VialhkMGtIR3hJc3Rua0Y5UFBYajZrVlFYd1BFZFY1NVdwN2wtSDZEX0ZQYUJNVi1wS2x2N2lhN2JjaXk3Y1RhMjZVUVdpV0psSdIBqgFBVV95cUxPR2lNX05iVTFsb0RWWjFTWEJzTlZZV2UwbUI5MDhLR3UtelBpZVdXRjE5UXBLOUItTDZ2Z1d0Z0V1Mzh1NVhkRWtvNVZ4dE1IanVhQUJNLUJoVnpsVGZHYlJfeDRocExFMzN4Wk4ySHdzUlFXM21FYlVlU25BZW1GSlVrb0ZtTncxam9zeGd2dktleGNwa1ZRYnRfMVJoYmM0OWpzRkJYVnE5QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3ada8c6034f1",
+      "title": "Padrão na boca pode indicar risco de câncer colorretal; entenda - DOL",
+      "published": "2026-08-22T01:07:02+00:00",
+      "summary": "Padrão na boca pode indicar risco de câncer colorretal; entenda&nbsp;&nbsp;DOLSaliva pode dar pistas sobre câncer de intestino&nbsp;&nbsp;dw.comO \"padrão oculto\" na boca que pode prever desenvolvimento de cancro&nbsp;&nbsp;Notícias ao MinutoBactéria intestinal é associada a quase metade dos casos de câncer colorretal estudados no Japão&nbsp;&nbsp;portalmie.comAnálise da saliva pode identificar sinal ligado ao câncer colorretal&nbsp;&nbsp;portal lj",
+      "sources": [
+        {
+          "name": "DOL",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcllXbnlSSFdmTGtvdjhaMHNJSTl6MFVWUWIyVEdUcjl1QmlSNE1zQURQMks4cGN6YklJbmEwWjRhX1BGMC04VjdMR3N6Tm1KMWU3WjdfR1lyekRmYy1nWFAxS2hDTUdzc2xVbkk1aGFibkVoMmM2SDFObVp1X3RoY21rSWFWT2xZb3ZUbS1ScThXa05ia0E1QmFPRFdCZ2wxU2F1emhBQmpDZ9IBsgFBVV95cUxQX0dLZnVXeFJXdUhCMVNnbVFiQXZvRERPVDBVT1pGZzJTWUJKSkhRbDQxT1hDd09JN2M2M2tDMGM4WDAxTVZtdTNvUXQ0bGNpdHFoWF83Z3JwYmplY1VZRGpxbE5MNWVlSUVMVWNYc0o3VEt6ZFl3RkR5VHBzdDhvbmJoY19Sc0VGTVNWWUl5RlNYYjBWalVYYlNuTjFDOEdPV3FsNXFlcFhlYllKNjl3a0R3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0d6cb6b9a76a",
+      "title": "Envelhecimento ativo: 7 hábitos para o idoso que quer preservar autonomia e qualidade de vida - GZH",
+      "published": "2026-08-22T00:32:18+00:00",
+      "summary": "Envelhecimento ativo: 7 hábitos para o idoso que quer preservar autonomia e qualidade de vida&nbsp;&nbsp;GZHSono de qualidade pode ajudar a reduzir o risco de quedas em idosos&nbsp;&nbsp;Folha PEAlerta: após queda de idosos, três erros podem agravar situação&nbsp;&nbsp;ParaibaOnlineAlongamento e exercícios ajudam idosos a preservar autonomia e qualidade de vida&nbsp;&nbsp;Universal.org3 dicas para prevenir quedas de idosos no quarto | Como Cuidar de um Idoso? Um Guia Prático&nbsp;&nbsp;Associaçã",
+      "sources": [
+        {
+          "name": "GZH",
+          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOZ2dTNjduR0pIdjBRcXVncmlRVDRHNEVqMjNtRUk1eE1QTFZWdHdBQzlLX3dqUWxUR0pBU2NLRG1hT1ZvNi1LLXRnRDhINm9KMGRFdnBPZlZ4TEJ5ZHotUl9kMnZ6VzRyYW1hMkdLekkzTlBNTUtmWnRBRnJFUk5RaXlfWVVobWtKWTROQ3VYZWFFVmV0VDUyZFB4RkR4ampIbTBsWlltM0RfUXNuZ1lzMnF3UzZDSkNEWVZFUWNfb2ZaYkNGNm1QMlFLVC1wS0lEWDdyWVZqeldkTlJJSnNUY0xkQXE1OS1jOE9aajlhakxQd1RqRW14VUIyM2l4QnpKVFowMWZJamM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "22d23c9d30c6",
+      "title": "Doença de Creutzfeldt-Jakob: entenda o que é a condição neurológica rara, sem cura e que avança rapidamente - A Gazeta",
+      "published": "2026-08-21T20:14:00+00:00",
+      "summary": "Doença de Creutzfeldt-Jakob: entenda o que é a condição neurológica rara, sem cura e que avança rapidamente&nbsp;&nbsp;A Gazeta",
+      "sources": [
+        {
+          "name": "A Gazeta",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWm5lbDJHS1RuWmZEMU9SZUFJVG5hMmdicDdOdjZTMVctc3pfNHgxU21hS3E4bkxVeVE2d0FLMzk4YXgtOE9BVWdhckJTLWhGTFFkeDZPaWJMVU9tVDRMMGh0SjV1c1hDbW02NFp1dzJPT2N3Y3NDY3pWMWFaWWVNUEVtTWZrXzFuUjh2b3VmMWdNRHVQdWNpbXZSRWZsRTNydEk4d1JWNURzX29hdGU5Yy1aclI0VEwtdzhNbnZ1V0JLYjMwSndmLWJZY2RXT3NwYUc1UzVrSFJIQVEzY0FF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3c5aea2440ee",
+      "title": "Fortaleza terá campanhas de vacinação para pessoas e animais e mutirão de saúde bucal neste sábado (22) - G1",
+      "published": "2026-08-21T19:03:18+00:00",
+      "summary": "Fortaleza terá campanhas de vacinação para pessoas e animais e mutirão de saúde bucal neste sábado (22)&nbsp;&nbsp;G1Fortaleza terá mutirão de saúde bucal e Dia D de vacinação humana e animal neste sábado (22/8)&nbsp;&nbsp;Prefeitura de FortalezaOperação Inverno: confira as unidades de saúde abertas neste fim de semana&nbsp;&nbsp;TerraVeja postos de saúde que estarão abertos no fim de semana em Fortaleza&nbsp;&nbsp;Diário do NordesteFortaleza mantém seis postos de saúde abertos neste fim de sema",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQ1haUWxrc2NUcTJRSjRYcVhFMHVqTzdOMTgtWFc4czFQRHlTenJ5S2d2b2tYSXJDM3RvSEdFSjZHYm9XS1hWTS1NV3JhYmM0V1F2Znd3TVJPMzlVc0pkcjhXalhaY1g5c3FUU3lfUVJHUnVib0FFT0lJU0FHT3V2UnE1SGtxb0t0M2xuamlVU21mcHlTbjVFaThWYUJNdkdOaTdaODFhb0R0Tzhfa21CczFxX3ZKZ1d3UGlxdEdPeDh5RjQ2OU9uZW54UFQ4LTNzSjgyRW9EZ3pfS01LNzBIa04wUm9fMy1zVWs1V9IB-wFBVV95cUxQVUFOMGNyUi1rSXp1VV9UdnlLajg5bjE3MEZkZFZnVDlFeHFVMDk3OFBEOFp5Y1lEQWVRWnByaUg2aXNIWlZNcEdueTdJaTI3Z2VIQ3V6V1lTV0NOVFpVWnlLSUtMbW00LW5COEdudl9zLWo2VEdOQWRGZ2lqVkJ6THFTelpuQW1UaG53Mnk1ekgxdGh5c1BEOHdSdTR0UVRBTTN4Q2I3ZlI2QnVkSlNDMFltZkhhZVRtVVhVQk0xTGxuTnpwbzc0R080RUdiUDFkZkVCZmRRMXRTUlFSdnY4VlZnRHpTUUdfQ2dmYzRVZEcwc0xuN0M2eWtCYw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f0a0ff7b3176",
+      "title": "Experimento viral de 'fantasminha de papel' surpreende crianças; entenda como funciona - Globo",
+      "published": "2026-08-21T17:34:33+00:00",
+      "summary": "Experimento viral de 'fantasminha de papel' surpreende crianças; entenda como funciona&nbsp;&nbsp;Globo",
+      "sources": [
+        {
+          "name": "Globo",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeHZKNXlSVGV2eHBBUXZYNEZlekJPdHoyem11OERSMVQzQUthUjdENkRaQjNRaEQ2TVExMlBobl95VmhzNERIcHlfMWd6bF9iZV9FTWJQY2hIV0ZSZUdydFpqVjA2b2FXVHZQbDJEWlJCREQzTVozRWswaEFEUzVhTjlaMzY5T25UNHJpVTRoVWo0VUYwSW5nc25HOTRyMW9uMGIzSFdrMlhxNmNnMkRyWjJoV1IxcUlxNG05ZDVfNmQ1eGEtWXBSWWpaYU54OG9RU2NlZl83aEVsOXhlc0Fj0gHuAUFVX3lxTFAzNnk2YWRqb3lzdUlpLUo1ZkgzOWltNU44M29wM0dwaWJZWElRdGVtTVBRbjhHSFVLR3lLOUlxbnlfV0FsTjJUcUtOZ1BVZnRIRWlCRnBYaFFOcTZsdUgwYjFBdVJuVkJYZ21LNjdNc2tqaDM1V2pzUlNDd0JLa0labmJIaFNZbXJsaFdsZ3JLdzY3YU1mX21kS3p0OEJpR2NzMFdpbFRtWDNxczFqY085LWYtbnJGbGRSVms4akFoZll2OHFsRWc4LWV1TWZiTGpGeUJBM2s5ZkptWjhSZWRnc0dXTTVIRUxfVTQ2a3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3c640501d82a",
+      "title": "Família brasileira pede ajuda nos EUA após pai ser diagnosticado com doença neurológica que causa paralisia muscular - AcheiUSA",
+      "published": "2026-08-21T17:28:22+00:00",
+      "summary": "Família brasileira pede ajuda nos EUA após pai ser diagnosticado com doença neurológica que causa paralisia muscular&nbsp;&nbsp;AcheiUSA",
+      "sources": [
+        {
+          "name": "AcheiUSA",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZ3E2M09OdGxxSnFDMmN0bXpHampnQW1ETnhvcHd2NjVhQ2tGSjZiRzFfbWVQOHAtd2tzdWdWX2dtd1VzUVFpOHRCblhsUy1Bd0VLSnMzWHZBZllYSHZ5a1R3ejFIeWdIRFpsNFliLWJmcXNyeTJaN1Y1NzZMTkxXSWpQUExxQjRIejNDWE9rUEwxY3QwcEo0dVJmTkNGMEJfeWpnQ25JMGZ6WGcxaFpva0pzU1RYcjBjMHdfS1c4SVBhMXQtdW5rSkJldGVLQjQ0VkVuVHlJR0xNblFRblRLcWtjb0JxOXpteV96b2hn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8cd2d4577551",
+      "title": "Teste de fezes caseiro reduz em até 43% mortes por câncer colorretal - Metrópoles",
+      "published": "2026-08-21T17:11:00+00:00",
+      "summary": "Teste de fezes caseiro reduz em até 43% mortes por câncer colorretal&nbsp;&nbsp;MetrópolesVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNnlNVW8zb2ZCVDJMdThEZXhhdGkwYkFVcHRDRmtIMk5RdWZ1ajItYTNFXzhmRFAzdERjYk9GcHpBOXNieTV5bWJFTHplaU9lcUlhaFFTdENXM0NYZjktQmF6dXF2Vy03aWlLTDExaS1ackt0NGJIVEtPLVZkMDd3S19GLVpxUG9VRzNPeWhMaFNaWi0wYklMUzlSWktDUlRmMGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "386ce0a7b64f",
+      "title": "Uesb doa ovos de genéticas nativas para pesquisa em comunidades indígenas - uesb.br",
+      "published": "2026-08-21T16:21:52+00:00",
+      "summary": "Uesb doa ovos de genéticas nativas para pesquisa em comunidades indígenas&nbsp;&nbsp;uesb.br",
+      "sources": [
+        {
+          "name": "uesb.br",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMW1xNmRMNk9fSndxa1podGl2aWRra1B5cm5UZTk1bTNLc211SGE4VFRkWlJpZXZxLTRHbFh3M29pQUlVYTNRemZZaW1JV2dsUndVb0YxMThYdFdrUExiVU1YR1JmcEc0NFRFaTJ1dFlVVmYwamI1alVydUhrSHNoZmM0endFenZVYm9wWnR0MGJaLWdlNTlfNUNrY0FkNzhkcWhranp3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "242b00300e94",
+      "title": "Hábito comum pode quase triplicar o risco de um câncer letal - O GLOBO",
+      "published": "2026-08-21T15:07:22+00:00",
+      "summary": "Hábito comum pode quase triplicar o risco de um câncer letal&nbsp;&nbsp;O GLOBO“Líquido da morte”? Bebidas açucaradas elevam em 2,45 vezes risco de câncer&nbsp;&nbsp;CNN BrasilEstudo liga bebida açucarada diária a maior risco de câncer de estômago&nbsp;&nbsp;Notícias ao Minuto BrasilEstudo inédito nos EUA associa bebidas açucaradas ao câncer gástrico&nbsp;&nbsp;Olhar DigitalEstudo mostra que as bebidas que miúdos e adultos adoram podem causar cancro do estômago&nbsp;&nbsp;nit.pt",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRVNLZl9sLVRjdktkaVp4T0gwTjM4RDRFYVp4MUtibnNjMVNOckdwR3RKWTdHWExkOGhXaGQxV01hUTdTaVZYUGdzYTJjdGlVdU4tUGVXenoyNHY5RWlCM0luRVo4aVlVajRfYzRseDhVaDVnY0JUZkVaR0ZhZHlBdVFEdzJYMnZ4X3BsSDFwOVpFVnBNdjQ2MFZ2ejBOWTVOak1OOS1wOHlZOVB4Z05nOEw5enlzVVnSAcYBQVVfeXFMT1JGRzlPNmY0ZUNKSU1YU2tZY1B3MDdfTmRZV3FtbndGejdMaDExZXRjQUd0TVJsRGFnWGlYX2JMRkROMUhDWW1OZ0tmSzJLY1hUTV9EMXljOUJsQkE2OTIzZ2NHQjdrajVGSEJFdnF3a3U1MFVQVmNYa1dyWUZuYTYyTmtZeklFaEtKeEpIRWsxR0ZQaGlabmVURkhYYWxMMEVfbkZQQ0RKQkxtSmZpTnYycUc2dGM0MWVvaDV2TzFJbjIyc1Rn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "12e732773919",
+      "title": "Estudo aponta que uso de tadalafila pode aumentar cegueira em homens - CNN Brasil",
+      "published": "2026-08-21T13:40:27+00:00",
+      "summary": "Estudo aponta que uso de tadalafila pode aumentar cegueira em homens&nbsp;&nbsp;CNN Brasil‘Tadala’, febre entre jovens, pode levar à cegueira, indica estudo&nbsp;&nbsp;Extra onlineUso de tadalafila por jovens pode aumentar risco de glaucoma, revela estudo&nbsp;&nbsp;Rádio Itatiaia‘Tadala’, febre entre jovens, pode levar deixar usuário cego, revela estudo&nbsp;&nbsp;Alô Alô Bahia‘Tadala’ pode aumentar risco de cegueira, aponta estudo | Variedades | O Liberal&nbsp;&nbsp;O Liberal",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaFNGNklJdmhzZjMwc3Zxd0pscXJuY0hNUXlRSUNWOVNLSWltN05fYjh4aHdMSk43eW92N2QxTUFSVlVaVTF3NVFzVGRGSU9IMEpnQWlQRENNNzNYdHdmM3Nfdy1UQm1Ydk01a3NweXBpaGZQelpIX01pbWppdXA5TW5jVXBONGJ5RnVMVGpLM2tJZkhqWHpraTAtSW9NT2x0anhPaGJxaw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d7cf88b38d99",
+      "title": "Pessoas com imunidade baixa podem tomar a vacina da gripe? - UOL",
+      "published": "2026-08-21T13:22:07+00:00",
+      "summary": "Pessoas com imunidade baixa podem tomar a vacina da gripe?&nbsp;&nbsp;UOLEspecialista orienta pacientes oncológicos sobre vacinação contra a gripe&nbsp;&nbsp;CNN BrasilVacina contra gripe é segura para pacientes com câncer, afirma oncologista&nbsp;&nbsp;TerraInverno: pacientes com câncer podem tomar vacina da gripe?&nbsp;&nbsp;Estado de Minas",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcXp1b2d4ZjRwNmt5bzI0VE1iZi1ON1dabHZ0NTBJMGVKWHBZbnFTUTVsMWN3TzY0ZGFWdkFxalV6Xzl5MjY5NUk2WXFUQUhDdW9qelNxNks0cWVCa0V0eWgwLTZEWkw0emw4RVpQS2ZyR2NfUnpKU1FOUkYtTWc3Z0JBX3R2VFdhRjh5cTFycmJCc0l4S295SGVWc2RLRkc3TEl6WTFBZVZhZVI4azJKaHEwWERqNUFYOUpLbW9n?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e303bdc07625",
+      "title": "Injeção contra HIV chega à Inglaterra, mas Brasil fica sem acesso - UOL Notícias",
+      "published": "2026-08-21T12:35:30+00:00",
+      "summary": "Injeção contra HIV chega à Inglaterra, mas Brasil fica sem acesso&nbsp;&nbsp;UOL NotíciasInjeção contra HIV avança na Inglaterra e Brasil ainda busca acesso ao remédio&nbsp;&nbsp;Folha do ES",
+      "sources": [
+        {
+          "name": "UOL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNc05DaHlQQzNFN0VYcGRDQldkdnVTcHhWSkY3c2VLZ3ZYaVZNTDdxd0VueGpLVU9pRkRsUndnYlBHdVdBdUxYMWU0X1EyekxOa1ZKMGZPQzZWMGJXbU4tSWJyQ0hKQVF6NGYzYmNiNFpkQWtiTEs3VzhsSFIzZFVWa3h6aUhDYnFwVWRZTVVUWnNNRUhPLWhqWmVlZmc1NVJ3WTJmbEZfUFdwallXZ3R2b2o3RHhKZC1feTd4a0hvVWswRlQyRmFNT0JHOGpIYUFDZDJTTmdR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "280ee0c4ad1b",
+      "title": "Projeto \"De olho no céu\": estudantes passam a madrugada aprendendo astronomia na prática - G1",
+      "published": "2026-08-21T11:44:58+00:00",
+      "summary": "Projeto \"De olho no céu\": estudantes passam a madrugada aprendendo astronomia na prática&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZDNGNjhGYU1GYmJYLVJoMXVyMW5xaEhuR3dITGE1NHhDR0xidmhNSWVYWm9Rdk93RVJia214a3RBdFdlMGZKZXpZM2lDNXB6ZVBsRy0wVGZJcXVxa1BpVi1yQVlCSkxQcm02dUFqd1RtV1lEOVViWFBxOHc0OWxIYWNRbUs4di1wcS05cXFYVzdzeFJvWUZLdXU5cmxzYUJpczRVMFc0R18xVUtETnZKQzBCTFV0TDF1Y1pvUDhnb0ppZE1hOEVORlpTN2ZnMlBjRW84dGFRNXRlNVVNWHNrRTdGQ1JXV2Z2a1lKckZFa9IB_gFBVV95cUxPOVUyLWVHSjlCREZjODlzUzVockRKdGJveDNOSmxUeDJNUlM5TTRlX0VjZ0ExbUFqUVRIY0FwSEV0ZTlBMzlTR3FFVE1MX1k2WW5nMzdoR09XYTVZWU80b1dIcS1QZFhHcWxwZ3lCTS1hX085dWV0ZzE0NHRHdXpNRDJvOVZBMC00ZWhWOWxJVVlJNnA0SmpSYjhLTEF0QU1yY2JkYnhGS3dwdFF6M1BvalZiMnIxRzRjVkFXWFg5XzhSOXo5NGZrdEFSSVVkNGpLWndzY1EzYzkwWjJwMGFQbTVJYkRvUHJDM3BvZmYxMUJ2NV9uaHpKbkdCVXNpdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cb84d4d582e9",
+      "title": "Depois de passar 28 anos preso em um laboratório, macaco chega a um santuário, vê o céu aberto pela primeira vez e tem uma reação tão emocionante que comove o mundo - CPG Click Petróleo e Gás",
+      "published": "2026-08-21T11:35:56+00:00",
+      "summary": "Depois de passar 28 anos preso em um laboratório, macaco chega a um santuário, vê o céu aberto pela primeira vez e tem uma reação tão emocionante que comove o mundo&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNMUZLN0FBRlUyOUkxUHlEc0Z4bGMyY2NDYTBudU82Tl9LOFRSbXdkR1FSVjRVb3ZENnZsQzZTT1MtaTRGbS1MMGg2bWNUV05FaUgxeGd0M0Z3Sy15TGptV0lFSWsyZlVqVU5pNGpYaXNISUJlVmdWcVllamlPNTQtSHlIX3ZidXMzZFJPM1Fyc3JQU2FCbW1SbjdsdHRNekJfeGF2LUxVbU1wbnVvamNTT1B6bnBuZVl4TlEyTlk3UlRjZEdJdjhMU2lEeS13VjNqWFYzSkJ3aFBVM3FhRU9mQnE2UXJ6TkFsTUpQY0JKVTNqTTBMbF90YTAyUm8xQ28xZWxhOXdB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d8e9840a69c3",
+      "title": "Diretriz SBD 2026: o controle glicêmico isolado não é mais suficiente - Medscape",
+      "published": "2026-08-21T11:35:22+00:00",
+      "summary": "Diretriz SBD 2026: o controle glicêmico isolado não é mais suficiente&nbsp;&nbsp;MedscapeSociedade de diabetes atualiza diretrizes e inclui combate à obesidade no tratamento&nbsp;&nbsp;ICL Notíciasg1 em 1 Minuto: Dez pontos para a prevenção do diabetes tipo 2&nbsp;&nbsp;G1Médicos mudam tratamento do diabetes e passam a combater obesidade junto com a doença&nbsp;&nbsp;InfoMoneyTratamento do diabetes tipo 2 passa por mudanças no Brasil; confira novas orientações&nbsp;&nbsp;Terra",
+      "sources": [
+        {
+          "name": "Medscape",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWGVIS0FYTXU3aUhnZF9mc1htSEZoS3dXWmlCVHFFU1ZYVWhRN25uWVpjM0gtLU5iMU9CVzVYaTQxV0RKdWxNN09tU1JycHZjZXNUUUEzZlVpc1o4RjZnZGMxZEo5MGhXZWFvZk9tdk5SQTVud1JaelJiT3RITVE1a0VUemxZc0NBX195RjZnUHVNd0JzNEJFMm1LcG9FVUp6LVdvZWtWcEpUQkhMZzFPUU1fTlE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f39d6be6e74d",
+      "title": "Cães entendem quando estamos felizes ou tristes pelas nossas expressões faciais, diz estudo - Superinteressante",
+      "published": "2026-08-21T11:04:22+00:00",
+      "summary": "Cães entendem quando estamos felizes ou tristes pelas nossas expressões faciais, diz estudo&nbsp;&nbsp;Superinteressante",
+      "sources": [
+        {
+          "name": "Superinteressante",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNajI2M3ZWYmxfNU5RcHFwUTAxOXExMDBkVklmUEZ3Z1V1RkZOLXA2dlQ4S3dCbzdTWmFXaEJyaUJvYkpzZmZsUWY3OHlucjZIakpoN0RnUE54OEdtMDBZWTVWZ3loWmZ4RTMxUm9oTmR1clJ0S0RZdTNERlNFc3kwVDNOeUlCWGxtLXZ6T1pCa2RiUC1UQWphZUE2VzBJNi1wbWdhRk1PMzdwVTM1WkVqWlRPNTBfRjhmRGl1VmNYRWtpT2It?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e41063e4b63a",
+      "title": "Pilotos e comissários lideram mortes por câncer ligado à radiação, diz estudo - Jovem Pan",
+      "published": "2026-08-21T09:58:14+00:00",
+      "summary": "Pilotos e comissários lideram mortes por câncer ligado à radiação, diz estudo&nbsp;&nbsp;Jovem PanPilotos e comissários de voo correm riscos maiores de ter câncer causado por exposição à radiação cósmica&nbsp;&nbsp;Época NegóciosA profissão com o maior risco de câncer por radiação&nbsp;&nbsp;dw.comEstudo de Harvard revela alta mortalidade por câncer ligado à radiação em tripulantes de voo&nbsp;&nbsp;AEROINNem hospitais nem centrais nucleares: Estas são as profissões com maior proporção de mortes",
+      "sources": [
+        {
+          "name": "Jovem Pan",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaXZyVnhGTlRaWGhYNHplVG1IdzlnZV9wMklISXpIZ0JnWnl1T01MNnRCRFFvVGt3ZTVqOEtaVUxac2o0VU51dHc1NzNFQVc5WFM2TVNKMkJNNEp3dUJoeVBVTGE3T3BnZTlHNkh5ZUJLZ3p5bXVhTDIza3I5cllmbXZaX0RuTXBCcmhsMHdBSnkyME1YQUswd1FKMUtDSUd2cXpyTGFrdU5pSGM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d8828bcaa381",
+      "title": "Pais pedem respostas após 12 crianças serem diagnosticadas com o mesmo tipo raro de câncer ósseo em poucos anos na Califórnia - NSC Total",
+      "published": "2026-08-21T09:37:09+00:00",
+      "summary": "Pais pedem respostas após 12 crianças serem diagnosticadas com o mesmo tipo raro de câncer ósseo em poucos anos na Califórnia&nbsp;&nbsp;NSC Total12 crianças da mesma vizinhança são diagnosticadas com câncer raro; entenda&nbsp;&nbsp;O GLOBOSarcoma de Ewing: entenda o câncer diagnosticado em 12 crianças do mesmo bairro&nbsp;&nbsp;TerraPai pede investigação após 12 jovens terem câncer raro na mesma região da Califórnia&nbsp;&nbsp;Gazeta Brazilian News12 crianças da mesma vizinhança são diagnostica",
+      "sources": [
+        {
+          "name": "NSC Total",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSEZBUUZ4Z2daVnhyQUtUVFI2eDRsOUJCN1lMUnFDdzRUZHBWaGVsUk91QWFxcXpXRVNSTEdJU0hzMmlQU1ZHQl9UNkROUDBLeUtNRThEb2pFQ25ObzA4bHp1U1FBckZfbnF2bER5am5GUS0ta002YmUxeHhpOHNUZjA4enNwRkd3b2FLZDNjdXh3cnl1V1NySDJoMDlZbFRyUjc0WHQtR0xIN0xhd215SkJ5RHNMYXVjNC1TNG84Ti1fMUxwOHR5djVVMnA0NXJGSVQtOGNJeFhnS3llMFFBM2Zsd18xb0w0Q2RRQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8a93092a7325",
+      "title": "Cientistas testam vacinas para barrar câncer de intestino antes que ele se forme - G1",
+      "published": "2026-08-21T08:04:34+00:00",
+      "summary": "Cientistas testam vacinas para barrar câncer de intestino antes que ele se forme&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbXFtQVZIcG96UkpHUmFneE41bktYeDBFdjlDRWRQMnlTREFFWVptM2VadXpQa3FZTENjRWxoeklSd0tOVzR1QmVhckNPZFVudlU5VEpGN185THhiRVNlX19iN3l6bnd0cmFDVHktd1FnSU9pTHVpdHJuMklBcW9mZ1ZybDRMY1VjeG9aMFZNU0lqUUZK0gGjAUFVX3lxTE55MjVFXzRVc3gwSFhldVJLcjFSZFdzaVNOT2RyYTl4SW85bmdHY09kYVRiTk5LQXVrcUR2cXduRFFlbUpVMDN5SXdxd0JrS0UwRkdVNmlmNE1rbWJHMmk4UWRWUWlHUWhXNThyaVF5cnhPWGRWWDU1SENEMTZNS0J4anZQcGlSZ2x4NzQtS21td1BKcnlqVlE0TUxnLVpYUnVYMzg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d9d38ee5dc28",
+      "title": "Bahia terá quase 5 mil novos casos de câncer de pulmão até 2028; saiba como prevenir - Jornal Correio",
+      "published": "2026-08-21T08:00:00+00:00",
+      "summary": "Bahia terá quase 5 mil novos casos de câncer de pulmão até 2028; saiba como prevenir&nbsp;&nbsp;Jornal CorreioAgosto Branco é alerta ao tabagismo&nbsp;&nbsp;O POVOCâncer de pulmão em não fumantes - parte 2&nbsp;&nbsp;Estado de MinasAgosto Branco: veja onde realizar exames gratuitos de saúde respiratória em Salvador e Camaçari&nbsp;&nbsp;Jornal CorreioFNCC atende cerca de 200 pacientes oncológicos em Petrópolis e promove ação sobre câncer de pulmão&nbsp;&nbsp;Diário de Petrópolis",
+      "sources": [
+        {
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZXdrV2Vsa3FORVFKM01Ud0VhN0F0ZkVkLTdyZnhjZXVDSGw1cGk4NlV5MHI4LU5FNnZWVDVsak05YmpGeTN0Vjh4SGJia3c5ZmlsSFQwcW1FRzV2aGJrekxWU3NoUXdoZkppNWxrQXZuZzRpU1BQMWd2LUtuVTg1ellWR1QzYktkeW9CZ1J4V18yallsWDNaN3RRRXdUSHNPNThqbjNTajdMcmlsdDk5cU8xMTVFUUlUNnhsRTZ6Z19WUHRqOUZR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "11581f45b9b6",
+      "title": "El Niño pode gerar \"golpe de calor\" no cérebro e levar a AVCs; entenda - CNN Brasil",
+      "published": "2026-08-21T06:34:56+00:00",
+      "summary": "El Niño pode gerar \"golpe de calor\" no cérebro e levar a AVCs; entenda&nbsp;&nbsp;CNN BrasilDias mais quentes podem aumentar o risco de doenças cardiovasculares&nbsp;&nbsp;G1Calor extremo pode aumentar risco de AVC; médico alerta para sinais e explica como se proteger&nbsp;&nbsp;Jornal OpçãoInfarto, AVC e arritmias: como a crise climática afeta a saúde do coração?&nbsp;&nbsp;TerraDoenças cardiovasculares causaram 27 mil mortes; veja as três principais causas&nbsp;&nbsp;Primeira Página",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNzJtakEyUmd5VElBT1dSVW5aaVBKRVc5aTlIQjdYR2RqaXkzZC1ZUk5fVnhwc29OTDduMFllU0I5OEFudUxPRHVDUjJQMnZFQ3RxcGZkb0JHQ0NscnduRjg4cl9PekxqZWxXakc4QzBtZkQteFBQVE01aGxaY2dYSFoyLXNWaS1RZTFKeDd5RU4tQnFmNkc0Z2tLMFBoXzZoWHYwWGJB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "75fd660d5a93",
+      "title": "Vírus letal reduz em 83% população de pererecas em reserva da Mata Atlântica - Agência FAPESP",
+      "published": "2026-08-21T03:01:36+00:00",
+      "summary": "Vírus letal reduz em 83% população de pererecas em reserva da Mata Atlântica&nbsp;&nbsp;Agência FAPESP",
+      "sources": [
+        {
+          "name": "Agência FAPESP",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTTYtdGM4aHhBN2VRUjNUemNYQ3prTFNaRmhTemZkeVFHUzBVOFlBdmRiWXFqbFBrNy1xSEF1cUc3M1B6ay1XZ0U1Nk40OEFIODNoTk9CVVVrSjRSRW9icVNQc2RYM21ORzZzNjUwZmdiMUpnWHpDWkNod1JkaVYtSlhpZldDQ0VHREZYN1RlRTBWWHlxTDN2NUtYeGdBb0JtRTRvWXFWR0JuVDQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a3145a1245c3",
+      "title": "Raro e agressivo, câncer de bexiga demanda diagnóstico ágil e precoce - UOL",
+      "published": "2026-08-20T21:26:13+00:00",
+      "summary": "Raro e agressivo, câncer de bexiga demanda diagnóstico ágil e precoce&nbsp;&nbsp;UOLVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRmFoaGNMd2ZpX29INThNb2QzUFIycWhzbXhWdTRPOUZhemN5akltVEJGdl9pUVpwNk5Pckp3cXlMNi01Sk5tWUlHZlhMZW5lOVFLd1RtRFljckh0TTlMa2w5VGpJc3R2TXhRLVZEYXRuQXBrU2ZSTzhRb0dYVGl4Yk9EaGRDWEwzdE54SG56Q0p3UmRCM1A0UVg2NWpJTF9YVHpUdVRCME1rblJGMVlJYjRFbEhZTUptRW5FSmVIYnRPbmNZcXVfa3Q1dW0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8d2327963c9f",
+      "title": "Vitamina B12 tem relação complexa com o câncer, apontam estudos - Olhar Digital",
+      "published": "2026-08-20T18:31:00+00:00",
+      "summary": "Vitamina B12 tem relação complexa com o câncer, apontam estudos&nbsp;&nbsp;Olhar Digital",
+      "sources": [
+        {
+          "name": "Olhar Digital",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdnRVcE0yRUJjV1dwQlVtZDNpUklvS2JjNWNMZWJKb3hCSGt2dHpCT0V6NXVuUkY4dWJYNnhnOUtwTjNONW9tQk1SRnJ4bVRDOGI3dEUtaS16aFExdU5YaXNEZjc5NGR5cm0tUWhib2xmck5hYkw4TmlWVnRpdVJXUHJNVkhVb1ZoeFo3ZDc5ak9WR3A2Zmdzc2lYMXdBT1psdE0wenVJeElaMDFrMTJfbE1sNHpWWFZzbkU0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c4ad329f6868",
+      "title": "O que significa quando uma pessoa não quer abraçar ou ser abraçada, segundo a psicologia? - Minha Vida Saúde",
+      "published": "2026-08-20T18:11:19+00:00",
+      "summary": "O que significa quando uma pessoa não quer abraçar ou ser abraçada, segundo a psicologia?&nbsp;&nbsp;Minha Vida Saúde",
+      "sources": [
+        {
+          "name": "Minha Vida Saúde",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YSHpqdWhfZlFWYUptQmZMc05PUVNYSy1PelpPdUdxXzg5b2pSS2NsTzlmQkdPSjFaMmcxd3BIU2pIQVVBUUQ4MmNDOUZoLXBQTFZNb1lHR0w0Z3ZqMi03NdIBZkFVX3lxTE54RmcyWXdscHdLT2h6c3pkZWF4R0FMTVo3bVhzaUZNQmZ1N2tJRGtORkpEaGc0Tm1ONkE4Z3hkN2RhSWM2N0d1UWFueVJYa0RoYjhva3lWOEhVdWllU0ZDRVFFckdCQQ?oc=5"
+        }
+      ]
+    }
+  ]
 }
