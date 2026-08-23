@@ -1,7 +1,184 @@
 {
-  "generated": "2026-08-23T12:42:08.512586+00:00",
+  "generated": "2026-08-23T18:31:15.730873+00:00",
   "count": 52,
   "news": [
+    {
+      "id": "5912552c1756",
+      "title": "O que a ciência pode oferecer hoje contra a doença de Creutzfeldt?Jakob?",
+      "published": "2026-08-23T17:17:21+00:00",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcy1ubjBNTklwc0hkT2FJWVZFQ1hoODhSUFZ2dHZLb3NuS2FmWktubWRMV2NFZWZfdGFyRWJySGtsMkF4RjBDc05lVlVGVXlITU5KTkg4ZWJ0V3BtTTdnX0ZOOWR1R05NdmJGN0V2ci1IaDU1a192bVVabmQ5X0dtSzlCMDlHODAyVWpwMkxJU3ZjWDJiVWZPeGJ1c01iQzc0WER3X2gzaWNuYjAyT3R2VEo2Ry0wLW1VVzJUSHZjM0lhVkg3dUQ4aVVfTmhDMTA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "demência",
+          "related_drugs": [
+            {
+              "slug": "biperiden",
+              "name": "Biperiden"
+            },
+            {
+              "slug": "entacapone",
+              "name": "ENTACAPONE"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "albendazole",
+              "name": "Albendazole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "be2145eae008",
+      "title": "Stephen Hawking, físico teórico e cosmólogo: “As pessoas quietas e silenciosas são as que têm as mentes mais fortes e eloquentes” a reflexão sobre introversão e inteligência - Super Rádio Tupi",
+      "published": "2026-08-23T16:21:13+00:00",
+      "sources": [
+        {
+          "name": "Super Rádio Tupi",
+          "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPai10UXRTYVV5OGJUUGsxeUwtQ24wcFRmWGlkN2czZzloY1RWN2J3S1RTdlZqWnpieXdSMHFqVmt0ZnI1NHp3NXFpaElSNUd5cC0zaG5oX1ZMNlN4R0ZSSURYcldSMG5vRGM2ZjJiV1pnam5fTjNMSlh6VEkwQ3NEdTNZQVB3VV85cFZ4d1ZLZUpXTC00a1Q4c3BSV1YyQ1kxZUt2Q0tHaWZrYjhkQ2lQRWlZZHBqWk51OGluWWZQMmlGd1FmWGdRY19LZFZqRlQwZjlOZGRaQWFwTWtXUGtBVzdkZl9feV9JLTR0aFRyLVNZeno4NFFsYjNNWkdBZ2hmZEZyaGZqaWQySG5NSFlUOGhVSF9Ha2NkV1R4amhqR09WQ0tRR0ZWcFNGb1o0NWU1?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
+      "id": "615217c688fa",
+      "title": "Missões que pousaram em Vênus ajudaram a desvendar explosões de raio gama - CNN Brasil",
+      "published": "2026-08-23T15:00:29+00:00",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYTR4djFEb2JTNnhNU0tQajJ3c2gxN05LWDdmN2R5Q1hDRHI0aEFfN1BFS0pnTF9PSUFKZ1ZWUDV5MWhGcVZhMXJPSmw3QzhjNkVzbkRrc3hOd1lBZUFPZk84NGNvQnFWSGlkOXhWemZfaEFkbFNzam5TSDhtVmNRVVpEeUZZOU9PLThkOEsxUW1qZlFDZ3dNVXBRNkVMMGxSLWkxSDdiOVI3bDRTS2NqQw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
+      "id": "29d959572875",
+      "title": "Seguidores de Lito Sousa fazem campanha nas redes sociais para incluí-lo em estudo clínico com medicamento experimental",
+      "published": "2026-08-23T14:07:55+00:00",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQQlFieTV5RjlpUU90TVJrOHNGUk0ySTM4SUJvYS0zTmhLWnFPX2J4cERFUHBxSjlYN18ySmJPQWZMLVpmMjk3QWVFLVN1RmI2SVNfak85ejVBZEhiMU8xRTUxUGd4QXBCS0dvQkd0LVhDOFZpeWc5S1FMZW9jbW50Z0M4MXBid0k2QUc3WFNrRHZFT0ZrWnhodkRZTmwyQ1pvdjBZeFU2ZlpQbzE2aFY3d0h0ZzlxeU5sMU9qY2VsRXFKZGRFY1hiNkpoSVdEWXAyS1ctRThmRXEyRTFoSFk3dEdMdmxOWWRJTERBeDYzTk13RmdTOHBFTmhLemJJNzI4TEdIZjNEVjBJUdIBmAJBVV95cUxOR2ZPZVZmYklCMW9feGtROG9wQ3NsWUJmdHpkWmpKeTZMdmlIaGdjMjk3MV9HUjV1Z0xFQzRNQUdFUmNpdXk4UWFYNzdWMlpocnZDMk4wX3dMN0MxcmtTR2hscXgxTUIwMDVQcDd1cjhZS09FMGdqdVRwdXB4SUJzOTN4TzNQMkVOcUdTT3c4cUtSR1dndTVkZWZFWVd4YWxzYnRHckxNaldLZG5lelhHWkNoT3NHMTRscFRuVHQ4MkM3TDNNTzBSVFJmRm5lUENsQlYxMTRUaFhfbldmeEo0azR6SnBTME56UHc5THA0ZzlGUThnM0RETV9mV3pFS1NMY2NhTGR6S0puUDlJZlg0dDl0VUp4SHVw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "levetiracetam",
+          "keyword": "TAM",
+          "name": "LEVETIRACETAM",
+          "url": "/drugs/levetiracetam/"
+        },
+        {
+          "type": "drug",
+          "slug": "etodolaco",
+          "keyword": "DORE",
+          "name": "ETODOLACO",
+          "url": "/drugs/etodolaco/"
+        }
+      ]
+    },
+    {
+      "id": "ac45a49ff54a",
+      "title": "Aos 10 anos, jovem inventor cria sistema que funciona depois do raio X, analisa quimicamente o ar ao redor das bagagens e usa inteligência artificial para indicar sinais suspeitos, projeto que venceu ouro no Silicon Valley International Inventions Festival e p - CPG Click Petróleo e Gás",
+      "published": "2026-08-23T13:03:00+00:00",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQbU1uNFNYNmlaM0VmZmlsREthZUJQMHVEV2FXdzluMTE1cWF2eFE4R1A5U29NNU1nMFdyYzJpbHMzdVVWOVZubk9mcnh4OFo1TUI0dHFOMjNIM1hDa21MYmRuNVBYTUdZUG9sME9qbUJlT0VYRFh0XzBZMDhIVVppdXhiUDltcGZlMWhibWVvcDN4NGxKa2VuNlBoc3V4eTlhMkU4cGljTnFaeVFqLUNtV0ZjREZxQlpVandnaVJRU3ZMUUtZNEd2NTdpNTIyWTBYZC1wTTR6ODlOZWVmanhtTzZYeDFxUzRmTlRPR0NUNTdTY1lVLXhoOUdFSXdzODBiWVIyaVluaUlmUEdRMDJ0cVJyUFpFanRlVzE4SC1DSktwdUZkUm4yVDVfOHM4ZWtWaVRKQWRlSVVMaDgxWHVLUjI4bEhDRms?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
+      "id": "522a3d9ba61f",
+      "title": "China coloca robôs de 1,88 metro e 98 quilos para organizar o trânsito, identificar infrações com câmeras e radar e orientar pedestres, enquanto quase 50 unidades já atuam em oito cidades e sistema ajudou a reduzir em mais de 40% duas irregularidades m - CPG Click Petróleo e Gás",
+      "published": "2026-08-23T12:03:00+00:00",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPV2QtYVdSYXhZVGVSS2c2cnJZT1lpbng0Q3VlNXlRSVZzNDdSR2JOSXdkZFc2MzB4bElFc0JUTGxKNGpxZDhtM3QwQ2IzZ0dPcVo1eUNEQldPV05tdkdxTTl6OGg2YkxlNXE2WURiVzBySy1fVVItdnpjY2xWZWJ2a2V5SklYT016THpIb1pwS1RRcFlfYTdOT2s4VFZ1d3RFNVlqZExBOTg2a1MtZExnSDR4aXM4eUJsdVVsdXR3V3ZGOC15ejFUN2tmbWJmM3VPTVlteVAzRE5hVTBxN09SaTc5M1NuejhRT2JKNDM1TmpuX0c5a2NsSlowRnI5MFJYZXRPNFcyU0VrQ1VKTWpzdkNCeGRsbjJOdXJlYVRoMGFFQ29lbVk5anl6TmRtZzYxY3hnN1VUUHVlNktFbkNDZTRHLTFiVjg?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "diazepam",
+          "keyword": "UNI",
+          "name": "Diazepam",
+          "url": "/drugs/diazepam/"
+        },
+        {
+          "type": "drug",
+          "slug": "zinc",
+          "keyword": "UNI",
+          "name": "ZINC",
+          "url": "/drugs/zinc/"
+        }
+      ]
+    },
+    {
+      "id": "8fbc9a87fea8",
+      "title": "Jejum intermitente: o que os influenciadores não te contam (e o que a Ciência ainda não sabe)",
+      "published": "2026-08-23T11:33:19+00:00",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Hc0d1aDZKWU5SaC1NWk9BaHlpZmctYmd5clZBVThRU042TWFKakFoa3ZkWkRRNk4zc3M3Y2JISmtjb2RCZDBHeWtidDlhZXFIa2xqUmJxN3FjRUlUeDQ2UEpR0gFnQVVfeXFMTW9DSDVValFBVGRTQXJtdXBURlZyLWFqVTFZbzZ2UUxNbXZZUmRkRWJMNXRvdmk2bEtYOFpvWFhoM09oS09jeHkyZ1lyOVlJNVpDSVZNM2lfdFkzYWVnSE5SbTkydmtERQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "levetiracetam",
+          "keyword": "TAM",
+          "name": "LEVETIRACETAM",
+          "url": "/drugs/levetiracetam/"
+        },
+        {
+          "type": "drug",
+          "slug": "etodolaco",
+          "keyword": "DORE",
+          "name": "ETODOLACO",
+          "url": "/drugs/etodolaco/"
+        }
+      ]
+    },
     {
       "id": "30f1af80cf51",
       "title": "Tatiana Roque: “Precisamos de uma bancada da ciência no Congresso” - Brasil 247",
@@ -19,6 +196,53 @@
           "keyword": "SIL",
           "name": "SILODOSINA",
           "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
+      "id": "73d4c0596e8b",
+      "title": "O punk e o brutamontes: espécies invasoras prosperam à medida que o calor transforma o Mediterrâneo",
+      "published": "2026-08-23T09:05:00+00:00",
+      "sources": [
+        {
+          "name": "Público",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONThmUklfWnRlRWQwNUMwRFJEZUFEZzEtTV9HbENVOXVVSkNfRzB0UjdlaHZEdVRtQ0lkWTE4bEpna0NGRHI5dkd2NkpuSzBaaDlad3JlMjJ5ZkxYUTdyQk5xT3ZjdndyWm8tUnYyUHVNc251amoxejRLRnNYRGZfZzRXdlVCUFZvMEpXSjBjX1NCVjRFWm5ZOGJmXzhlZHhYQkJ4YmlMVmx2VWYtVUdYbkhRNFk3aWVzYkdmMktvWFItTlRPWGpNdUtlZTdnQ0tUaFB3?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "levetiracetam",
+          "keyword": "TAM",
+          "name": "LEVETIRACETAM",
+          "url": "/drugs/levetiracetam/"
+        }
+      ]
+    },
+    {
+      "id": "47357d507497",
+      "title": "O que os diários de Fauci dizem sobre ciência, comunicação e as vacinas",
+      "published": "2026-08-23T08:30:00+00:00",
+      "sources": [
+        {
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd3JjS1NQM2FJeFpSekZvUnRkdHVYRE1tN3NjWW5iY2lzSklNQVdld1RGbXh6MWR4MTRxQzNGTkJPdkVnVC1ZeFpOSWxSTmhGU1FvVGFEOUQzekR6ZkpjZG5UU19WYWxlZDNvWjByRl9ZVlNkRWRfU0d4WnlOSVR3dHk0NS1faURjdFg2YXZPUzA5Z0ROR2kyc0pJMjdEazFtakRucUJvenBLbzE0aS1COGhSMHJENUI2NmFvUWNTRkNzMzTSAcgBQVVfeXFMTy1hSkRXMlQ2eXlSY0l3bExxWHdkWHphZldXR2NtN012Qnh5ZUE1Uk85aTZ2b292cS1OMHRXbXo1eFhtbmtyLThXVGNmdFlrbGxzVVloQ3FjWTdDSnBXaFVTZllVcWtLdVlHYjRObFlPSHFPYTIxbFd3TjlXLUNJdEttVWJvODV1RWlISWs1TVJHaEhoWVhOeFRhOFZzcGpMdVNxX0hfQWU1YTFXajBsWjVETjdndzZPeTJHTk1RQVNpakxJZlJZc1E?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "diazepam",
+          "keyword": "UNI",
+          "name": "Diazepam",
+          "url": "/drugs/diazepam/"
+        },
+        {
+          "type": "drug",
+          "slug": "zinc",
+          "keyword": "UNI",
+          "name": "ZINC",
+          "url": "/drugs/zinc/"
         }
       ]
     },
@@ -471,6 +695,26 @@
       ]
     },
     {
+      "id": "522657010a7f",
+      "title": "Cientistas descobrem interruptor capaz de desligar a dor crônica no cérebro - CNN Brasil",
+      "published": "2026-08-23T06:40:54+00:00",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNlozT183cE95NTY3S2hTQlZIdzBLUVMxeUR3a28zMTFGeHpmV2xqYzI5QWs4R092Y0Y3WTVGaWQ3VFR5X29NMzBpYzdoVHRsX2ZxYTBFM0xwUGtPcnZoM2FMYUhQZUF5RmtvWDlkbjZ2M1NZT0xfa3QwQ2FzSW5pSTVwMHh2b09HYXlRNkt2RW5QS2xvTi0wbi0yY1hiQjRLQ2tXNkhYakNudmlXMFlIZA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
       "id": "1977a5ce393c",
       "title": "SP aplica mais de 222 mil doses de vacina contra o sarampo em 'Dia D' - UOL Notícias",
       "published": "2026-08-23T02:03:01+00:00",
@@ -483,20 +727,6 @@
       "keywords": [
         {
           "type": "drug",
-          "slug": "diazepam",
-          "keyword": "UNI",
-          "name": "Diazepam",
-          "url": "/drugs/diazepam/"
-        },
-        {
-          "type": "drug",
-          "slug": "zinc",
-          "keyword": "UNI",
-          "name": "ZINC",
-          "url": "/drugs/zinc/"
-        },
-        {
-          "type": "drug",
           "slug": "silodosina",
           "keyword": "SIL",
           "name": "SILODOSINA",
@@ -505,83 +735,22 @@
       ]
     },
     {
-      "id": "125fef99c7f4",
-      "title": "Polícia investiga ranking sexual que expôs 53 alunas em universidade no interior de SP - Diário do Centro do Mundo",
-      "published": "2026-08-22T23:48:00+00:00",
+      "id": "ec33c4fcdb70",
+      "title": "Tratamento da apneia do sono pode ajudar no controle da hipertensão - Folha de S.Paulo",
+      "published": "2026-08-23T02:00:00+00:00",
       "sources": [
         {
-          "name": "Diário do Centro do Mundo",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUmxUbWRkSXV5NG13by1WV2ZZR3dydXBvcFVHcjZJZVlLbTJRXzcwS1laZ2xUTEswdHRXTXE1M2lKS1BNWDNJLVdITWNwcG9tNDlWRnJaMExTczJjODN0eUlNVDVfaWpEZG5ORVozSmlUMjFFUkVvWnVjUlBnbEU1OEdMel9sNHZ4WFJHQUw5blY2Y3dPV1BVVXgtb3R1a1UtUmJrcGQtUS12Q1pkcmZFM0VlSFBCQUE1VThEWUhIaVRjUnYwcjVv?oc=5"
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOUw0LUoyZjhib2RrNHhnZVJWWmxzVFlLNEp6UUpPcEdORnlvc2pPVDZ3SjdMV3B1MEpJaFEtU25LTnN2V1BzMUpMUkR2ZWg4bU53bHlqMWUxMXFMdUdZWDFFeUdFaUpObDdBVk90bjRPTDg0T2ZaMWFxQ2xoUjRIejQweFMxdFZEdmwwVENSMDZWRENTWS1tRkc2bkFUQkdROGhmRGd5Z2ZYRUl1TVNUZGdEaldvSzU5WGFoQVg3Q0RhbmpZSzEw?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "drug",
-          "slug": "diazepam",
-          "keyword": "UNI",
-          "name": "Diazepam",
-          "url": "/drugs/diazepam/"
-        },
-        {
-          "type": "drug",
-          "slug": "zinc",
-          "keyword": "UNI",
-          "name": "ZINC",
-          "url": "/drugs/zinc/"
-        }
-      ]
-    },
-    {
-      "id": "81cfefaee804",
-      "title": "Lito Sousa entra na lista de espera de estudo de Harvard sobre doença",
-      "published": "2026-08-22T23:35:05+00:00",
-      "sources": [
-        {
-          "name": "Poder360",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMVVMSlEtSHBVeEJ4WXFTc2JTMEoyQ09uTDlsaHlLSUd4WklSZm9WQkNTSWVxSWpPbDNGcHRWUVJXWE1oSFRsZjR4UW1vUFduYVd5WW1QUDhzZnhxOTc0eEtRcGVuWE4ydW96U3p1N1Z5ZE96c1VRVEItRXRqN1p5aHh5NGlZa3dJTS1tU3U4RFdPazlpdjNWbnlFcWhSX0J5T2hWUjJGajBkYnZpbktR?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "praziquantel",
-          "keyword": "FAR",
-          "name": "Praziquantel",
-          "url": "/drugs/praziquantel/"
-        },
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        },
-        {
-          "type": "drug",
-          "slug": "zidovudina",
-          "keyword": "FAR",
-          "name": "ZIDOVUDINA",
-          "url": "/drugs/zidovudina/"
-        }
-      ]
-    },
-    {
-      "id": "a8b6de7de1fb",
-      "title": "Campanha de multivacinação mobiliza famílias e alerta para baixa cobertura vacinal no Brasil",
-      "published": "2026-08-22T23:34:28+00:00",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVU9JWXhWYlFlY3pKMjlWdVZtZTUxZVN2XzJjb1N6SDE4M0FZWDdaRHQzVmstY0pPemZPRW9sdFppaENSVW50T05YYlVkdHNxTkRzOGVjRGJ3U1A1bDVQaXh2VjdRWXBsWGJreUlibmwwWmphUHRCOS1zNjJlWjlYWFFXR3FwVkpKT1J5bjNDVmtESUxmUXAxd19YVy1CSTJGRUx0WmZiOTNOSmx5Y3pHYWVwbDl0aHlEVVhMWkhGV1lfZGxCUHYwdUVLdGYtN01mSUIxV2VDMGZleG1uX3NIN0tGZlNDazdFdnfSAfgBQVVfeXFMUEVTY3RKdVhTSENTNGRFQXhqWWFweXZ5Y1I1R1hJbDREU3h6S0hDZHRfYUx4SnZxZzlaUjk3WndtMFpuT3FuRkZDZ040U1VHcDlVbVpDU19Jcld1VUdONVEwd3RQNktYYVptem40UzkwcFA4Q0Nha05pc1FXMjZvV1NOdVludFp4ZEI1aVY3bkFxWGkzME9rTnVoNVVRNzIwMHRhNkZPbmNWWnFNV09LelI5RUpQaTNBdVRrZXdKRDNlYTk0SU5oV0tTSXlkUkdXR3VmTzBzRzljbDliYTBwZGJ2NDY0a3lCVVBfS3U1MzlaS0NxSXlCbW4?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
+          "slug": "levetiracetam",
+          "keyword": "TAM",
+          "name": "LEVETIRACETAM",
+          "url": "/drugs/levetiracetam/"
         }
       ]
     },
@@ -1093,6 +1262,26 @@
       ]
     },
     {
+      "id": "5720dc7b0b10",
+      "title": "Caí do sétimo andar, perdi a visão e parte da perna após uso de zolpidem, diz médico de Cuiabá que vive em SP - Olhar Direto",
+      "published": "2026-08-22T20:41:00+00:00",
+      "sources": [
+        {
+          "name": "Olhar Direto",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMGZNWnRNV1N4eWZUN0tMZlh6b2ZjaDNvYTNrVTZsTFY2NGV5RkVmVnFzT3hFOElhZ2NDNjVJNXplZ0NTQ3ladE5IRUhiTkszVzVYbUNkbUZoaWxlYUlCOG9rNjdJNS13MER0NnU3RC1RSFI2cjNseEFGRWloMU9ycEJZYXJsN0RhcE5iRk9fUkRNMkkzZ1hsTFFRUlNjaWZYRmpCVzBwR3hXRkd0OHBZUHdlenZSa09veGR3TXNzd2V1UUoyclpnWmlDQk9tdEF0VlRJTDRIaFpkQ0FZZGlxYQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
       "id": "d660cc6fe3f6",
       "title": "“Não deixe de ver”: eclipse vai encobrir mais de 90% da Lua; como assistir - CNN Brasil",
       "published": "2026-08-22T19:25:50+00:00",
@@ -1129,49 +1318,6 @@
           "keyword": "DECI",
           "name": "DECITABINA",
           "url": "/drugs/decitabina/"
-        }
-      ]
-    },
-    {
-      "id": "f74d61d2e60d",
-      "title": "Paraná é o 2º estado com mais notificações de Creutzfeldt-Jakob - Tribuna do Paraná",
-      "published": "2026-08-22T17:12:00+00:00",
-      "sources": [
-        {
-          "name": "Tribuna do Paraná",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNanBtdmZINER5THNJMlZhU2NxbmZFZnIyaWpuaVNHY3JQTHhlVjhvd3BkOFJGNnRBcklHRXc5TXhVZWt2SzRGdDZ2SWdyTzdMQU1QaFhYQ1dJMXI1bkxOMDJsU0pRcmY0OWZSYWczZUJGQXI4LWxmZTJIRGt1YnVtUmNDbHk0ZHl5dGMzUlJFVUJHOU1PanllNlZRYXk4d00xNTJZbmNn0gGrAUFVX3lxTE1fbXdWRzZ5MmZHZlFFY2dTQlFONmJUU25xazc5WVkyQlJhZm5uMGk2RmU0a3lzSnlyS19GT2tEU3RzR1JOclBUS015bE5DTGRGZi1fajk4RzFUUVV4WC15SHM1OHBCSTdEREZYNWxCMDJGaEI3NXkzcDN3TmFTc1FTb3d0SHBMUkVwdUtpRWFWLUZkbU1zNnl6Q0dNNWgtWVlYaGlkRV9RVXRMMA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        },
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "demência",
-          "related_drugs": [
-            {
-              "slug": "biperiden",
-              "name": "Biperiden"
-            },
-            {
-              "slug": "entacapone",
-              "name": "ENTACAPONE"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "albendazole",
-              "name": "Albendazole"
-            }
-          ]
         }
       ]
     },
@@ -1994,6 +2140,26 @@
       ]
     },
     {
+      "id": "75c92575dba3",
+      "title": "Dia D mobiliza crianças e adolescentes para atualizar a caderneta de vacinação — Ministério da Saúde",
+      "published": "2026-08-22T15:33:00+00:00",
+      "sources": [
+        {
+          "name": "www.gov.br",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZDhPUmFyakRYR2pSa2tZNFJpSGRadngxdWFHTmI0ZEc4RlVqR0lLWXFYT0RrSDlBZXZUMEY5ekROVVAyN3IxUVNGOHJyMy1PRlBaX0lCU2ZMYzIxU0ZCUFgyT0QxNjZLalg5MEd2OHNuZ2ZkRlJqZ25BU2pRTnBSNThud3p3Yjh4bWt4REU2ZV81U19ueGdZTGFWRkZraWwxM0tnRXhtNHMxRE5aaU52Sm9sLXNfQ0lFcktjOVkzaVJycHJRSG9tTHVjaW1GcXFubkREcVExZWdSdw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
       "id": "d1cbbf7fff80",
       "title": "Músculos podem ser a chave para envelhecer melhor, aponta especialista em longevidade - Rádio Itatiaia",
       "published": "2026-08-22T15:01:20+00:00",
@@ -2004,20 +2170,6 @@
         }
       ],
       "keywords": [
-        {
-          "type": "drug",
-          "slug": "diazepam",
-          "keyword": "UNI",
-          "name": "Diazepam",
-          "url": "/drugs/diazepam/"
-        },
-        {
-          "type": "drug",
-          "slug": "zinc",
-          "keyword": "UNI",
-          "name": "ZINC",
-          "url": "/drugs/zinc/"
-        },
         {
           "type": "drug",
           "slug": "tadalafil",
@@ -2068,29 +2220,30 @@
       ]
     },
     {
-      "id": "22472b0abee7",
-      "title": "Pandemias, guerras e clima extremo impulsionam sobrevivencialismo no Brasil - Diário do Centro do Mundo",
-      "published": "2026-08-22T12:03:34+00:00",
+      "id": "3842853c80de",
+      "title": "'A geração sóbria': por que cada vez mais jovens trocam o álcool por remédios de ansiedade — e por que isso preocupa",
+      "published": "2026-08-22T12:36:14+00:00",
       "sources": [
         {
-          "name": "Diário do Centro do Mundo",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaUk0RFF6WXFKUEdBRXEya2JnaGI3ME5OVEllWVpPd2tzemtORXdNOGpNZ25US2ZnM3dZUWRDTXZSY0VReWZ0b0p6cV9zSnJ1MXdfREZaNHp1alh4UG8tenhvSkdkeFc1MmZORFFKWFBoNWQxb2luN1NBaTRTaXFodXZtZjJRcVEtRUw4anhuUkdqVXFkWFllODIxelg1MzlVT1BCbGotV1RmalhVYnc?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPLTR3NC15aTYzMUVVQ2FqVWNMZEE5SWxBUjJ5dk00ZHFlOC1TdThIc3Y3ZHJ1a096TkJ0MVRCa1VoSkNaLXpid0RUdHZRVGswX0dNNUw5REtsTFdrN1hFRWk1M1R4R0h4cURtNU15Zk5XUThEeUQwRW5WZWdnUzZ0OGdjMXZxQlhFbkV1NTNDZC01OXVqSklCdnEybkhiYVY2Q0NBT2RkU1JRN3dyWnk5c01Kd2dSUmpHQ0MwNUdZam1CdTFIQTRjZXlrRGZrcEVDdC1lTGNDbkJUM3Z0SXRJaGl4dXI0cVV5dVd1VDhR0gH8AUFVX3lxTFAxOXc5VUxhU3VBY0NidTBTMGdPcWM3ZmU5LXE1OWxqVUEyRFIwakZKUFFqUnhnUTNraXNnY05iRFBtRHBycXdSR004bjFoX0J0bEd0TFR1czltOFpuMTJGQmtlb2NoZzZiSVU0aXBjamNjSU50OVo0TXBQalVJRTBTbC1hYW1iWS1iUzFNbzZMam5zTVBwa2sxNUhOMU9RbnRUZXBvZnh4S3NudWo4bzlGU1F5WHE3c0xwdUxyaGZTYzBsdmlPelBPOUV1WVRMcU1jeDItZEJyZl9WWVhDWWNyOVVWUTRRenVUNElBVHQyVzM3R0xxYWh6QVhIVw?oc=5"
         }
       ],
       "keywords": [
         {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        },
-        {
-          "type": "drug",
-          "slug": "tadalafil",
-          "keyword": "CIALIS",
-          "name": "TADALAFIL",
-          "url": "/drugs/tadalafil/"
+          "type": "indication",
+          "name": "anxiety disorder",
+          "keyword": "ansiedade",
+          "related_drugs": [
+            {
+              "slug": "flunitrazepam",
+              "name": "Flunitrazepam"
+            },
+            {
+              "slug": "centella_asiatica",
+              "name": "Centella asiatica"
+            }
+          ]
         }
       ]
     },
@@ -2111,48 +2264,6 @@
           "keyword": "SIL",
           "name": "SILODOSINA",
           "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
-      "id": "ed001859fb8c",
-      "title": "'A geração sóbria': por que cada vez mais jovens trocam o álcool por remédios de ansiedade — e por que isso preocupa",
-      "published": "2026-08-22T10:57:41+00:00",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3SFFLNG1rbExRYUR4bVhKaFFpTmFMaW9Ydk9PS2tvdzNuTDRBQnpXcnF5YlJNbFo1MGtKWHFFN0FJb2JsWHBMdE9ROHI0cFJVMXAySzJwaWdKUDdySHVyY2ZR0gFnQVVfeXFMUGpPdlJsZXVZZlpCVW5vdlQ4bkpHdE5FZkF1M2ZJMEt2UjVRbXZtV1FGYXF2bE5uaHZxdWMyMExtck5fQUFubEVVdWdCQnFjZ1VFNkFpem01amlYOXVXUVhSQ1pVQnVQaw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "levetiracetam",
-          "keyword": "TAM",
-          "name": "LEVETIRACETAM",
-          "url": "/drugs/levetiracetam/"
-        },
-        {
-          "type": "drug",
-          "slug": "tadalafil",
-          "keyword": "CIALIS",
-          "name": "TADALAFIL",
-          "url": "/drugs/tadalafil/"
-        },
-        {
-          "type": "indication",
-          "name": "anxiety disorder",
-          "keyword": "ansiedade",
-          "related_drugs": [
-            {
-              "slug": "flunitrazepam",
-              "name": "Flunitrazepam"
-            },
-            {
-              "slug": "centella_asiatica",
-              "name": "Centella asiatica"
-            }
-          ]
         }
       ]
     },
@@ -2264,12 +2375,12 @@
       ]
     },
     {
-      "id": "386f06e9c887",
-      "title": "Exercício e trabalho físico têm efeitos distintos sobre a demência",
+      "id": "e5af220e6eb5",
+      "title": "Exercício e trabalho físico têm efeitos distintos sobre a demência - Correio Braziliense",
       "published": "2026-08-22T08:01:00+00:00",
       "sources": [
         {
-          "name": "correiobraziliense.com.br",
+          "name": "Correio Braziliense",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVUtaM2JkdUw2SVFjakRNTl9TZklzWUlpVmlmUFZSeXdVT1ZILWZqaXpxZ194Y1hsVndPRllzSjVuS2lxdlpfNnJzampWa3FWdmRhb0Uxc05GbEdVMXViWFo1T2d2RkZjYUdkU0ViTDh6alNhMkZaU2dHd19vT2c0WmxfZDVTbE14NEdBeGdlMzdpR1RZMG5ZSG01SmVwelBUOFM3Rm1vQmxYczhta3RjZ1NiOGh6bkZ1M2VkM1YycTFBTGlsOUlyMFJiOU1vX3VTcjlFTmZidUzSAd4BQVVfeXFMUEpaQnBzZlB4X2Y3VDhySmFSTU44UEJ3UUVvN0lyQlE2bkU3b0N0RThsYndITmJIN0lKVFhtb0ozaVhWQm8wWUFGaEYxR21EVzBvMkZDY2pCOGl6TmdHcW9vVTZQWkEtWGVfRFlpeFJiUEV1cXpIQmNYbGRBMEpDZnFkaURfWVU4blRfRkZBcS16M09rTXFEQll4WERBWnNsZUpqVlZvRU1ScEk4b1h0Q0NjT0hmVG1NRThuZmpMN3NhVzQyMXZtYWJQOGJSdHV6Tl9EbUp0YW9oM1J4ZGtR?oc=5"
         }
       ],
@@ -2320,33 +2431,6 @@
       ]
     },
     {
-      "id": "189f9f652dfc",
-      "title": "Caí do sétimo andar, perdi a visão e parte da perna após uso de zolpidem, diz médico - Folha de S.Paulo",
-      "published": "2026-08-22T07:00:00+00:00",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdVVFZFpaR0xHaFM5bW1JSDlXSnl5YnZKZ3QzeDh3TWpiaGlyazhGLU94YzdXclIySVFQbHpOaGxwaGI4YjJabDFsYWxmaThRMzhZcENLM2VZaU01SUd4Z1BMNXk2S3VhTUJIb2pybXlfOU1xa2VaNUpsR0tseU5KUWhYT0JkTlBrZkMtdi0yUGdjVG8zQVNDRzlvRzJYYmppeHhJdldWQmNMTTQwTXVDMHV2T2xCYktkVW41WnlsWENGOFBESTh6V045QUs4U0RhODNUZ0lZWllRY1U?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "levetiracetam",
-          "keyword": "TAM",
-          "name": "LEVETIRACETAM",
-          "url": "/drugs/levetiracetam/"
-        },
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
       "id": "6e5d2122381c",
       "title": "Autismo pode ser um efeito colateral da evolução do cérebro humano; entenda - CNN Brasil",
       "published": "2026-08-22T06:40:49+00:00",
@@ -2354,26 +2438,6 @@
         {
           "name": "CNN Brasil",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaGtuWHo3QnNIUkVrcFo1TGc1bkVuR0tCODZhMk5uR2VGWUN6WXUzWERZcXFrbVB2Vm56WDRLSWRMMGxOa0FaZVV6amMxcmFEQ21lYktYbzl1NzFDMXJHMk9QZUh3dnMwNndQY21aVnV1Q1AzOTNHeVp1cnpkRlQ1U2pQUGwwZXp6cVJ6N3RyQjFZajdlZ3BMc2RwZlhYY2tYRGRmX3R1ZW8wcERZWEo0?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
-      "id": "22c3e0dbfe56",
-      "title": "\"Refrigerante sujo\" viraliza e levanta alerta sobre excesso de açúcar - CNN Brasil",
-      "published": "2026-08-22T06:37:16+00:00",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRlFsQ294YWg4MURnN1hmWTdlTGF5Tms3SWVfRE1XNVh4LWFZQ2tESUdVTTRFXzhZYlQ5ZE9wVjhKcXdjQTYzMlJxMGlIU0RudUVLTnIxaDh3NkZRbXh1dEd0WHZSSnB5QU5vZVdka2V0UDhOWmxobzlFUWNQbjc1T0huSVJzZnFhb0l4X1JCQjQ2WU9LWmdjZFhXdFlhWlFqY2JEb1pB?oc=5"
         }
       ],
       "keywords": [
@@ -2906,87 +2970,13 @@
       ]
     },
     {
-      "id": "270af2c08d38",
-      "title": "Serra Talhada ganha novo atrativo para contemplação do céu e receber turistas - Farol de Notícias",
-      "published": "2026-08-21T19:35:57+00:00",
+      "id": "fd6251cd780a",
+      "title": "Uma jovem vampira enterrada numa sepultura há 400 anos com foice na garganta e cadeado no pé tem um mistério que desafia cientistas - CNN Brasil",
+      "published": "2026-08-21T19:33:55+00:00",
       "sources": [
         {
-          "name": "Farol de Notícias",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRG5OR0FqYTB1ZklfUmNXUk5SRHh3MVdybE8xZDNuQUhaNV9mN1hub1VJTzdaRk5TQWhjZFNDYnotV0xGM3VqY1FsSkJCNkVvYkFYa3JmM0Njc183anRuTDllR0NqNGo4NmdwRjJaaGxxRFV1dlp4c19GdXRpclc4WjJTOHR5Y0tUeDNLdnRJemN6ZzlF0gGUAUFVX3lxTFBEbk5HQWphMHVmSV9SY1dSTlJEeHcxV3JsTzFkM25BSFo1X2Y3WG5vVUlPN1pGTlNBaGNkU0Niei1XTEYzdWpjUWxKQkI2RW9iQVhrcmYzQ2NzXzdqdG5MOWVHQ2o0ajg2Z3BGMlpobHFEVXV2WnhzX0Z1dGlyVzhaMlM4dHljS1R4M0t2dEl6Y3pnOUU?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "praziquantel",
-          "keyword": "FAR",
-          "name": "Praziquantel",
-          "url": "/drugs/praziquantel/"
-        },
-        {
-          "type": "drug",
-          "slug": "zidovudina",
-          "keyword": "FAR",
-          "name": "ZIDOVUDINA",
-          "url": "/drugs/zidovudina/"
-        }
-      ]
-    },
-    {
-      "id": "3c5aea2440ee",
-      "title": "Fortaleza terá campanhas de vacinação para pessoas e animais e mutirão de saúde bucal neste sábado (22)",
-      "published": "2026-08-21T19:03:18+00:00",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQ1haUWxrc2NUcTJRSjRYcVhFMHVqTzdOMTgtWFc4czFQRHlTenJ5S2d2b2tYSXJDM3RvSEdFSjZHYm9XS1hWTS1NV3JhYmM0V1F2Znd3TVJPMzlVc0pkcjhXalhaY1g5c3FUU3lfUVJHUnVib0FFT0lJU0FHT3V2UnE1SGtxb0t0M2xuamlVU21mcHlTbjVFaThWYUJNdkdOaTdaODFhb0R0Tzhfa21CczFxX3ZKZ1d3UGlxdEdPeDh5RjQ2OU9uZW54UFQ4LTNzSjgyRW9EZ3pfS01LNzBIa04wUm9fMy1zVWs1V9IB-wFBVV95cUxQVUFOMGNyUi1rSXp1VV9UdnlLajg5bjE3MEZkZFZnVDlFeHFVMDk3OFBEOFp5Y1lEQWVRWnByaUg2aXNIWlZNcEdueTdJaTI3Z2VIQ3V6V1lTV0NOVFpVWnlLSUtMbW00LW5COEdudl9zLWo2VEdOQWRGZ2lqVkJ6THFTelpuQW1UaG53Mnk1ekgxdGh5c1BEOHdSdTR0UVRBTTN4Q2I3ZlI2QnVkSlNDMFltZkhhZVRtVVhVQk0xTGxuTnpwbzc0R080RUdiUDFkZkVCZmRRMXRTUlFSdnY4VlZnRHpTUUdfQ2dmYzRVZEcwc0xuN0M2eWtCYw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "diazepam",
-          "keyword": "UNI",
-          "name": "Diazepam",
-          "url": "/drugs/diazepam/"
-        },
-        {
-          "type": "drug",
-          "slug": "zinc",
-          "keyword": "UNI",
-          "name": "ZINC",
-          "url": "/drugs/zinc/"
-        }
-      ]
-    },
-    {
-      "id": "cd65fbd30207",
-      "title": "Arte, Matemática e Ancestralidade: CEJA Casa do Marinheiro realiza oficina para celebrar o Dia Internacional dos Povos Indígenas - Fundação CECIERJ",
-      "published": "2026-08-21T18:08:33+00:00",
-      "sources": [
-        {
-          "name": "Fundação CECIERJ",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZG90c0pQdUdWU3FqenpYNmQ5bENNWmRidnZlWWxuTlZsbGdUSTZ5cGRtTzg5QVNwOVFsem5OSjJFTVl3cmNhdGE5S0JsWm5ZYksyUlZ1eDdWRjNyNTRXVjQ3Xy10UDFIWmV4N2JpSHRrUUM3V1kyc0ZYd2hlUXhfVEJVc05PSXRJaHY5TDJoNzNSbUc2TkZUOXVGa2R3NU15WUpzZ0ZxdVJMTllucUhlUjhrODdrZl9reXgxTE5GUXJCXzNpREpLaTRpQ2xHYnhSa2Z1SjhKb3RaYWtnNzB5Nk8wc1RwU05KTHFSN1lKcm4xbnM?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "celecoxib",
-          "keyword": "CELEBRA",
-          "name": "CELECOXIB",
-          "url": "/drugs/celecoxib/"
-        }
-      ]
-    },
-    {
-      "id": "3c640501d82a",
-      "title": "Família brasileira pede ajuda nos EUA após pai ser diagnosticado com doença neurológica que causa paralisia muscular",
-      "published": "2026-08-21T17:28:22+00:00",
-      "sources": [
-        {
-          "name": "AcheiUSA",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZ3E2M09OdGxxSnFDMmN0bXpHampnQW1ETnhvcHd2NjVhQ2tGSjZiRzFfbWVQOHAtd2tzdWdWX2dtd1VzUVFpOHRCblhsUy1Bd0VLSnMzWHZBZllYSHZ5a1R3ejFIeWdIRFpsNFliLWJmcXNyeTJaN1Y1NzZMTkxXSWpQUExxQjRIejNDWE9rUEwxY3QwcEo0dVJmTkNGMEJfeWpnQ25JMGZ6WGcxaFpva0pzU1RYcjBjMHdfS1c4SVBhMXQtdW5rSkJldGVLQjQ0VkVuVHlJR0xNblFRblRLcWtjb0JxOXpteV96b2hn?oc=5"
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNWlV3UHZJTDl4MFRfX1VXLVVxUnU2STRfNEtncWl5VmtFR08zME05TE0wSURRcjhsYmoxTFBkakRnN3RyNVplX2VvUk9ldTN4WnZvYmd0LUJMbDJvQW5nNVMyNGlVUE5WcGt0aEU0SkhuZ1ZlTjhCcjV5TUJKcVpyb0txV2MtcWhKSnJKWjdjaDhDUzFnMk9RSnNyLXNxUUl1TVFQTnB5M25laFZiZGQzZkVHbFZVZmpLeFNlR0JZUkViclZmYzlkM3VoZ1B2ZnlVelBBNVBqeTBGMWtGS0J2UElQaXQwcDhHaGkzZWRsNUcwNkZVeVU2R3FEaU5jUQ?oc=5"
         }
       ],
       "keywords": [
@@ -3000,13 +2990,13 @@
       ]
     },
     {
-      "id": "8cd2d4577551",
-      "title": "Teste de fezes caseiro reduz em até 43% mortes por câncer colorretal",
-      "published": "2026-08-21T17:11:00+00:00",
+      "id": "f09e24be183a",
+      "title": "‘Receita genética’: por que tecnologia de vacina em testes é aposta para tratar câncer no futuro",
+      "published": "2026-08-21T18:31:00+00:00",
       "sources": [
         {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNnlNVW8zb2ZCVDJMdThEZXhhdGkwYkFVcHRDRmtIMk5RdWZ1ajItYTNFXzhmRFAzdERjYk9GcHpBOXNieTV5bWJFTHplaU9lcUlhaFFTdENXM0NYZjktQmF6dXF2Vy03aWlLTDExaS1ackt0NGJIVEtPLVZkMDd3S19GLVpxUG9VRzNPeWhMaFNaWi0wYklMUzlSWktDUlRmMGc?oc=5"
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN1p2czhhMmxCTWtwOFdOemZTQUZyT3RXN3JkRWVzaEloaVY2ZWJkT2tMc3RLVXlVVWlQRGpDbFdnOHVYRnlZWVdEWk9aeXU0Ul9jd1lITXJsVWhsZjBPbnJOUFhwWnVYaDItLXgwZ0dteXBrMmYyTGswQlZmd2ZLblRFQ3pLX3FVNm5TbUZDVXFoZE9pZ0hOX2ZPN0VfeHVBcVduR1dWRFQxT2QxMWEtX0tCUGlYRUtWVjU4R2R1djY5SUdpZE5sRtIBzgFBVV95cUxNRE5KTHVmZXprNWhqaUhOV0dYcTNnb3VOdDhLOEVLTlhtaVZlVVBEVkxvdW9JVW1xRkVzY2RYWVh3cTdqR2J6N19oRmwzRkI2OHRyeUxMVTVfSnJwMUZheENKSThHdmJGbVV4ZVljWE5reV9JZXBKblJaUFpzZEh0dmxkRGFCQ09zdlVwcGkyUVlFVUluYXU5YXN0eWpUS2VTX1p3QWVTRktzWmVsUTFObFpnVXFxX3BScE56SktVMFppQk02djU0N05zcDNNQQ?oc=5"
         }
       ],
       "keywords": [
@@ -3392,70 +3382,16 @@
       ]
     },
     {
-      "id": "200369cb8eed",
-      "title": "Células-tronco do nariz abrem caminho para tratar lesões na medula espinhal - CNN Brasil",
-      "published": "2026-08-21T16:50:08+00:00",
+      "id": "3c640501d82a",
+      "title": "Família brasileira pede ajuda nos EUA após pai ser diagnosticado com doença neurológica que causa paralisia muscular",
+      "published": "2026-08-21T17:28:22+00:00",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOHdLUGdiOHBxam04ZEpMQUd1SGZ1RkgybW02UzltS09RU2JXZmtFQk05a2ZjcTAwMFBGZ2o4elBGNHBuejlRMmsxTEpOTlJWN2RkZzMxMzAtQW5GUVlZcTdwSXMzSU43cHc3MU9xUWNqbngxOEFzd1VaeWFCX19rdkp4NkFoOXBydUVqUy1NblJxSmRkcXhRcTFzaXJfeVRENzVWcW5PeDZqbHFnR2xQemU1UQ?oc=5"
+          "name": "AcheiUSA",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZ3E2M09OdGxxSnFDMmN0bXpHampnQW1ETnhvcHd2NjVhQ2tGSjZiRzFfbWVQOHAtd2tzdWdWX2dtd1VzUVFpOHRCblhsUy1Bd0VLSnMzWHZBZllYSHZ5a1R3ejFIeWdIRFpsNFliLWJmcXNyeTJaN1Y1NzZMTkxXSWpQUExxQjRIejNDWE9rUEwxY3QwcEo0dVJmTkNGMEJfeWpnQ25JMGZ6WGcxaFpva0pzU1RYcjBjMHdfS1c4SVBhMXQtdW5rSkJldGVLQjQ0VkVuVHlJR0xNblFRblRLcWtjb0JxOXpteV96b2hn?oc=5"
         }
       ],
       "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
-      "id": "386ce0a7b64f",
-      "title": "Uesb doa ovos de genéticas nativas para pesquisa em comunidades indígenas",
-      "published": "2026-08-21T16:21:52+00:00",
-      "sources": [
-        {
-          "name": "uesb.br",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMW1xNmRMNk9fSndxa1podGl2aWRra1B5cm5UZTk1bTNLc211SGE4VFRkWlJpZXZxLTRHbFh3M29pQUlVYTNRemZZaW1JV2dsUndVb0YxMThYdFdrUExiVU1YR1JmcEc0NFRFaTJ1dFlVVmYwamI1alVydUhrSHNoZmM0endFenZVYm9wWnR0MGJaLWdlNTlfNUNrY0FkNzhkcWhranp3?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "diazepam",
-          "keyword": "UNI",
-          "name": "Diazepam",
-          "url": "/drugs/diazepam/"
-        },
-        {
-          "type": "drug",
-          "slug": "zinc",
-          "keyword": "UNI",
-          "name": "ZINC",
-          "url": "/drugs/zinc/"
-        }
-      ]
-    },
-    {
-      "id": "7eb3a6afe95d",
-      "title": "Alunos da ETI Almirante Tamandaré avançam na Olimpíada Brasileira de Astronomia - Prefeitura de Palmas.",
-      "published": "2026-08-21T15:07:14+00:00",
-      "sources": [
-        {
-          "name": "Prefeitura de Palmas.",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWkF0S0NDaWZfN2ZOamI3Q2M5XzJoeVZfWktPOWhZeUpXM2hWN3hJQkxod1BMYWV6eDFOU0lsdTVSN1p6VHlGZkdCNVJXQjVTdldiT1VlN3cxMzREQ0pRQ2R1TEVuOGhpN3gwZ3JoQzcyOXZuakVUNmY4LS1TWHhGSzRPS2UydFpTNm8xSjI2bUVRQlIxVUNvUl9ERUVWYUpQalJORVJ5VUtmT2VoWk16WXJaRlhFQUNCYTFQUjNKLXo?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "levetiracetam",
-          "keyword": "TAM",
-          "name": "LEVETIRACETAM",
-          "url": "/drugs/levetiracetam/"
-        },
         {
           "type": "drug",
           "slug": "silodosina",
@@ -3486,94 +3422,22 @@
       ]
     },
     {
-      "id": "12e732773919",
-      "title": "Estudo aponta que uso de tadalafila pode aumentar cegueira em homens - CNN Brasil",
-      "published": "2026-08-21T13:40:27+00:00",
+      "id": "0ad759835a25",
+      "title": "Especialista lista três formas de equilibrar a dopamina e reduzir a dependência de estímulos digitais",
+      "published": "2026-08-21T05:00:16+00:00",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaFNGNklJdmhzZjMwc3Zxd0pscXJuY0hNUXlRSUNWOVNLSWltN05fYjh4aHdMSk43eW92N2QxTUFSVlVaVTF3NVFzVGRGSU9IMEpnQWlQRENNNzNYdHdmM3Nfdy1UQm1Ydk01a3NweXBpaGZQelpIX01pbWppdXA5TW5jVXBONGJ5RnVMVGpLM2tJZkhqWHpraTAtSW9NT2x0anhPaGJxaw?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcDg0Yk1DOW9nSVdsMkRPUURyUEdIZm03cnI3RFBXaFUzLVU2UjV6cmFTOHFOOXg1LUFZNDVCVEF4MFg1V3FxNnFMUzhNc3RZbVBjTFJUYlRMZkV4NTd1THEzMXQ0c1lNdlNuVkQ5bDhzWmNlUmlBTThudXZaY2NEWWs2d2J5a2Nxd3Y0RUNvTHdtWEs0YzhRMHFZbDZSYWlqM3FKMFpTZGtrVVJjV09ybUlhcFVEbmlXTXcwTnJlUFI3cHlObGFZM2dDaWp5WW90azUzdmE2Qkp6WEZzZERWVzZwdHlfS2tK0gH3AUFVX3lxTE1OMFRkdWdfY2VOTU9tWWVGdVh0OWRjM1I3b05hMGNZQl96eEZHSFc3TmNtX2c5MGNXZUdRWi1jYXRlel8xc1Y0X2ItYlZMWjNrQ1B2STcxTXNncFRIel9wX0kyTE9nejJhXzE4ekpDSGZYUDNtanY5M2tIRkdQdER4cEoyVEpuLWZadnU5dlpSdW54UzVjbVNEbHVoT0ZlMFpJMTNSUEppN3l6QzY3ZVhmczA2RFRRZHE5LXZyalE0VDlUQmpmSWRrUmJkQWEzc0tFTjB3QnB6a2FRMGo4a2dhanZiZWRYcUNxdHlGNy1VUllrUlczSVE?oc=5"
         }
       ],
       "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        },
         {
           "type": "drug",
           "slug": "tadalafil",
-          "keyword": "tadalafil",
+          "keyword": "CIALIS",
           "name": "TADALAFIL",
           "url": "/drugs/tadalafil/"
-        },
-        {
-          "type": "indication",
-          "name": "glaucoma",
-          "keyword": "glaucoma",
-          "related_drugs": [
-            {
-              "slug": "rivastigmine",
-              "name": "RIVASTIGMINE"
-            },
-            {
-              "slug": "levobunolol",
-              "name": "Levobunolol"
-            },
-            {
-              "slug": "brinzolamide",
-              "name": "Brinzolamide"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "pressão ocular alta",
-          "keyword": "glaucoma",
-          "related_drugs": [
-            {
-              "slug": "rivastigmine",
-              "name": "RIVASTIGMINE"
-            },
-            {
-              "slug": "levobunolol",
-              "name": "Levobunolol"
-            },
-            {
-              "slug": "brinzolamide",
-              "name": "Brinzolamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "11927579d016",
-      "title": "Roma V muda critérios para síndrome do intestino irritável e outros distúrbios",
-      "published": "2026-08-21T12:15:22+00:00",
-      "sources": [
-        {
-          "name": "Medscape",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTllVOU1UNUstQ0VVNFAtM0R2MVUwVGNQdUxJeFUtcFpNSmZETFNWSHRMdmxGazF1eXlWU2lhZ2hrVW5TTzlWVzR5anlTVHAtNEJyQXFqOU9Qell4bDQyNC1zOGRUbllGemppS2xWa1dGaUVOY3N2bjItQ1B4aklORGQ2VHNHQWJCSGhFNEVnOTVkUkJyS1JfWGRIRVlmRGVyMGtVekFVR05rZ0E1ZGc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "golimumabe",
-          "keyword": "BIO",
-          "name": "GOLIMUMABE",
-          "url": "/drugs/golimumabe/"
-        },
-        {
-          "type": "drug",
-          "slug": "etanercepte",
-          "keyword": "BIO",
-          "name": "ETANERCEPTE",
-          "url": "/drugs/etanercepte/"
         }
       ]
     }
