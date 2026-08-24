@@ -1,10 +1,82 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-08-24T12:52:28.145575+00:00",
-  "total_fetched": 83,
-  "unique_count": 82,
-  "health_related_count": 34,
+  "fetched_at": "2026-08-24T18:41:30.155305+00:00",
+  "total_fetched": 78,
+  "unique_count": 77,
+  "health_related_count": 30,
   "news": [
+    {
+      "id": "c12b7d492c41",
+      "title": "Quem toma pelo menos 2 xícaras de café sem açúcar todos os dias tem risco 16% menor de morrer, segundo a ciência - Diário do Comércio",
+      "published": "2026-08-24T13:45:51+00:00",
+      "summary": "Quem toma pelo menos 2 xícaras de café sem açúcar todos os dias tem risco 16% menor de morrer, segundo a ciência&nbsp;&nbsp;Diário do Comércio",
+      "sources": [
+        {
+          "name": "Diário do Comércio",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZzRhSF9FX2NCRl9DTVRpeTdiY1dQM1lDNlFzekczd3BKTWV2Skh3Q3lsc0xobjZfaHhJRXFXZGVTTENjamhjclVZTGpQXzc4V2NwQzFCSi02eTZsOF93TWxsS0FTYkhIWjhEbzdCRDRNYWZNNjhERHdLb29tdFRobEpZcUs0Z2NaUGIydFRvMjFWRVEtYmswQVEwQUVNUEY3Wmdtd2xYSHpCdnNzaldGMklVU2w1ZjBUY0l4Y1Q1X0hYNWhUSmZsTTBWNDRuUk1HTUJGVWtVY2MwcXpqUk0tWg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "caba9e5daef1",
+      "title": "Farmácias Brito retoma entrega de medicamentos 100% gratuitos através de programa federal; saiba mais - Acorda Cidade",
+      "published": "2026-08-24T13:19:02+00:00",
+      "summary": "Farmácias Brito retoma entrega de medicamentos 100% gratuitos através de programa federal; saiba mais&nbsp;&nbsp;Acorda CidadeFarmácia Popular tem novas regras em 2026; veja medicamentos gratuitos e como retirar&nbsp;&nbsp;ACidade ONFarmácia Popular pode oferecer exames e testes rápidos&nbsp;&nbsp;Folha do Povo ItatiaiuçuCFF e Ministério da Saúde discutem nova fase do Farmácia Popular e papel do farmacêutico&nbsp;&nbsp;cff.org.brEm caso de falta, 17 remédios fornecidos nas UBSs de Caxias podem s",
+      "sources": [
+        {
+          "name": "Acorda Cidade",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUEkzRkREMnhoNjd6N1RKUl9nZUc2MG9ZMlhVMDUyc1R1NmxFeGdXOWNUR2lmZGFrY2FYM3V4VS1GVzVyXzRtZVpGT0RFWEFfVTFfVENJRDg0SjAzUDg4YXdIOW5lVFBGemxpb1hGRVlwNDhXV1EtN1ozdl81LWp2cFlKR2NMaTduek5lQVBCaTRTUzVVSGdwUnFKT09oc3F3akFBZmhpZGlCTTVTOUcwbzBMcUdWUk56S3BHZjM2bFotX0FDcXpxMFk3UjhLU0pCZzV1ag?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "46fde7d6ea69",
+      "title": "Estudo descobre 40 mil novos vírus em metrô, bancos, hospitais e esgoto - CNN Brasil",
+      "published": "2026-08-24T13:09:43+00:00",
+      "summary": "Estudo descobre 40 mil novos vírus em metrô, bancos, hospitais e esgoto&nbsp;&nbsp;CNN BrasilLevantamento em 102 cidades revela mais de 40 mil novos vírus&nbsp;&nbsp;Agência FAPESPEstudo global revela 42 mil vírus em superfícies urbanas, sem risco imediato&nbsp;&nbsp;boca.com.brEstudo global identifica mais de 54 mil vírus de RNA em ambientes urbanos, incluindo São Paulo&nbsp;&nbsp;BH 24 HorasMapa global identifica mais de 54 mil vírus inéditos em várias cidades&nbsp;&nbsp;Diário da Amazônia",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQckM5RXdJeWFVLXBMOGVxOHJuamNKVjczUjBmd25VZW1tTUVXVlhCZ1NjbVRjMkZPZ3Y5WnBxSXJwWXJFamJ0WmVxX01FbER0VkdXcGFPMWZDM2ZSRDZSVkFIYjFjT21zQVVYVGVIR2ZycG1tRWFCVlFxcEFOSUlKVjE0ZWlfSUNvT3pwNjF2MjdHc21KQVVxOEtfY2l5dDhjOENiVXNmQlB0aTg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "42ede29fa243",
+      "title": "Uso de cocaína e anfetaminas dobram risco de AVC, aponta estudo - UOL",
+      "published": "2026-08-24T12:33:01+00:00",
+      "summary": "Uso de cocaína e anfetaminas dobram risco de AVC, aponta estudo&nbsp;&nbsp;UOL",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR1N6X0Q4VUVISG56bFNsOUg1SWhkTmtteTZoaXpVamVxdW9xVnpsNWVvbUhkcUtGd3FDaVdIekpLRVlzZEpwMU12NEJhYlVDdkRTS0wzbEVvUE0tS1EzcEFaNjNYWk5yZ216Ry1GMXEyaXlBZUM3aDdtblpLRHlwZ0xGc092WVJUVUtCbEJCRDFsLUNDWGR0WW44TlVfeFRRNjlzV0V5QjRuSkprMF9kZzJ0TXREOVY2aXAw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b3d31121aab7",
+      "title": "Ibuprofeno 600 não acelera alívio e faz mais mal ao estômago, alerta farmacêutica - Rádio Itatiaia",
+      "published": "2026-08-24T09:16:02+00:00",
+      "summary": "Ibuprofeno 600 não acelera alívio e faz mais mal ao estômago, alerta farmacêutica&nbsp;&nbsp;Rádio Itatiaia",
+      "sources": [
+        {
+          "name": "Rádio Itatiaia",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeFE4Z1BfSlpQRTlXQ28wVUJWRXZndTRaVndoVG5Xb2M0bWw5cUpCd0NqOWZYd3ZWY1FDVXdKcGpBTGtHUEtEVXg4R1RQZndEdVExWVNRN0hiMGNGMFd1Y2VGUjdJQ3l5WFhEd3JaYVhZZk1DVTlXUXRfODlqb0pNYTlsT0lQNXlnTy1CMUtnU1RsSkRLSG5lSF9iaTlSZHdfemtwZ1lBVHo0akNlZ29aZjJ0amJ0X28?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "19a3c4d2e1b0",
+      "title": "Fungos e bactérias podem sobreviver na Lua, mas sem proliferar, sugere estudo - Folha de S.Paulo",
+      "published": "2026-08-24T09:00:00+00:00",
+      "summary": "Fungos e bactérias podem sobreviver na Lua, mas sem proliferar, sugere estudo&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaHA4ZVY3Q1hWWkZSNG1Qbmw4N3FTOWdWWGwyYU1ZakJSWjlzbzhRbU43Nms5V240UWJOTS1VZjY0TzQyQkZ6Q216VzlfeklyNjhNRWdMQ0hjelhzc1JqZWQ3bFUzWE9CSWlWVGQyVmkzaXpGSWhMRWFXcHF6TEFYWDFud2l2cEEzdEx1VHRyeDBhdU5nUU1oUGNicjFFZ25TTTlJLUhxeFBhM2x3VnlJQTBjUHNSUlR1U1pIX29vQXdWMU1nVEE?oc=5"
+        }
+      ]
+    },
     {
       "id": "2e16126f8f3b",
       "title": "Vírus letal reduz em 83% população de pererecas em reserva da mata atlântica - Folha de S.Paulo",
@@ -30,22 +102,10 @@
       ]
     },
     {
-      "id": "a7279b33786d",
-      "title": "Medindo cerca de 2,8 cm, novo peixe amazônico é encontrado no Brasil e cientistas alertam para risco de extinção - CPG Click Petróleo e Gás",
-      "published": "2026-08-24T02:42:00+00:00",
-      "summary": "Medindo cerca de 2,8 cm, novo peixe amazônico é encontrado no Brasil e cientistas alertam para risco de extinção&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNclBuZzY3V1lJVlc5WlVXTUJNSy1VakhycGRiR25hWWp3c0xVVVNjcVJqMXhRaDVZdXFaWlVfeElEZXhCOHNBMWtMcGh6WDhIb1FOYm1hbjhGLUNHb01nbmxESHhDWGxLZjBoeXVzSjFTWEp4cWE0bHNzdjkyZE92WmI4UDg1QW5DRG1ucl8tUzVyYXRkWWt6RmEzZmFWVDJaRmMyR0p4Y19ZRzFOblJKQnIwVE1ybWl1WUhJalVNSmtRUFBSQXNvcGQwSGdUZFJYT0JwT3Nn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "812da4831af5",
       "title": "Pais de criança que morreu sem ser vacinada são investigados por homicídio culposo por omissão - R7",
       "published": "2026-08-23T23:32:00+00:00",
-      "summary": "Pais de criança que morreu sem ser vacinada são investigados por homicídio culposo por omissão&nbsp;&nbsp;R7Itália investiga pais após morte de criança não vacinada&nbsp;&nbsp;DW.comCasal é investigado por homicídio após filha de 4 anos morrer de difteria na Itália&nbsp;&nbsp;Brasil 247Pais de criança não vacinada que morreu de difteria em Itália foram constituídos arguidos&nbsp;&nbsp;PúblicoItália: pais são alvo de investigação após morte de filha não vacinada&nbsp;&nbsp;Metrópoles",
+      "summary": "Pais de criança que morreu sem ser vacinada são investigados por homicídio culposo por omissão&nbsp;&nbsp;R7Itália investiga pais após morte de criança não vacinada&nbsp;&nbsp;DW.comExame confirma difteria em menina de 4 anos morta na Itália&nbsp;&nbsp;TerraCasal é investigado por homicídio após filha de 4 anos morrer de difteria na Itália&nbsp;&nbsp;Brasil 247Pais de criança não vacinada que morreu de difteria em Itália foram constituídos arguidos&nbsp;&nbsp;Público",
       "sources": [
         {
           "name": "R7",
@@ -57,7 +117,7 @@
       "id": "51223323acf7",
       "title": "Síndrome do coração de 'Fim de Semana': saiba os riscos de tentar compensar o sedentarismo em poucos dias - Acorda Cidade",
       "published": "2026-08-23T23:00:00+00:00",
-      "summary": "Síndrome do coração de 'Fim de Semana': saiba os riscos de tentar compensar o sedentarismo em poucos dias&nbsp;&nbsp;Acorda Cidade“Síndrome do Coração de Fim de Semana”: entenda perigos de hábito&nbsp;&nbsp;CNN BrasilTreino seguro: saiba quais cuidados tomar antes de iniciar ou aumentar a intensidade dos exercícios | Belém | O Liberal&nbsp;&nbsp;O LiberalSaiba a importância do respeito aos limites corporais em exercícios de alta intensidade&nbsp;&nbsp;R7Como praticar esportes com saúde e evitar ",
+      "summary": "Síndrome do coração de 'Fim de Semana': saiba os riscos de tentar compensar o sedentarismo em poucos dias&nbsp;&nbsp;Acorda Cidade“Síndrome do Coração de Fim de Semana”: entenda perigos de hábito&nbsp;&nbsp;CNN BrasilTreino seguro: saiba quais cuidados tomar antes de iniciar ou aumentar a intensidade dos exercícios | Belém | O Liberal&nbsp;&nbsp;O LiberalAvaliação médica reduz risco de morte súbita em treinos&nbsp;&nbsp;A CríticaComo praticar esportes com saúde e evitar lesões&nbsp;&nbsp;93 Notí",
       "sources": [
         {
           "name": "Acorda Cidade",
@@ -78,18 +138,6 @@
       ]
     },
     {
-      "id": "df4074e9c31e",
-      "title": "O que a ciência pode oferecer hoje contra a doença de Creutzfeldt-Jakob? - UOL",
-      "published": "2026-08-23T21:11:28+00:00",
-      "summary": "O que a ciência pode oferecer hoje contra a doença de Creutzfeldt-Jakob?&nbsp;&nbsp;UOLDoença de Creutzfeldt-Jakob&nbsp;&nbsp;G1Doenças priônicas: como príons atacam o cérebro sem ser vírus&nbsp;&nbsp;Correio BrazilienseDoença de Creutzfeldt-Jakob: entenda o que é a condição neurológica rara, sem cura e que avança rapidamente&nbsp;&nbsp;CartaCapitalParaná é o 2º estado com mais notificações de Creutzfeldt-Jakob&nbsp;&nbsp;Tribuna do Paraná",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcy1ubjBNTklwc0hkT2FJWVZFQ1hoODhSUFZ2dHZLb3NuS2FmWktubWRMV2NFZWZfdGFyRWJySGtsMkF4RjBDc05lVlVGVXlITU5KTkg4ZWJ0V3BtTTdnX0ZOOWR1R05NdmJGN0V2ci1IaDU1a192bVVabmQ5X0dtSzlCMDlHODAyVWpwMkxJU3ZjWDJiVWZPeGJ1c01iQzc0WER3X2gzaWNuYjAyT3R2VEo2Ry0wLW1VVzJUSHZjM0lhVkg3dUQ4aVVfTmhDMTA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b9583e945fcd",
       "title": "Perda de 15% da força muscular já ameaça mobilidade na velhice, diz estudo - Folha de S.Paulo",
       "published": "2026-08-23T21:00:00+00:00",
@@ -98,18 +146,6 @@
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcTBfeU9jS2FVX0FQWmZ6VFNQVERaZXR4SDBhWHdGSEtCaGxTMDl2MFNjN1pWNGNUZk52ZWdKenFwaDVraUdzSjgyNEVncVlTVUpRVm9OUUVaUGZMS2lTSnFTVUJYMVVVODZFaWFMV3J6OUxxSmJpeGFQcUM2dDdhZ2lHNmJkQU5temppQ0JkOV9UVjB2WVNhbW1fQld1M3paWXcxbkxyNklHRVRPVjV2TTRQT0Eyb0dqaHNsRXdNRC1ycGlZV3N2UEhGU3ZMZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e3d0e59ce505",
-      "title": "Médico cuiabano cai do 7º andar e perde perna após Zolpidem - FOLHAMAX",
-      "published": "2026-08-23T19:10:00+00:00",
-      "summary": "Médico cuiabano cai do 7º andar e perde perna após Zolpidem&nbsp;&nbsp;FOLHAMAXCaí do sétimo andar, perdi a visão e parte da perna após uso de zolpidem, diz médico&nbsp;&nbsp;Folha de S.PauloUso inadequado de zolpidem acende alerta sobre riscos do remédio para insônia&nbsp;&nbsp;TVBV ONLINEMédico cai do 7º andar após uso de zolpidem e perde visão e parte da perna&nbsp;&nbsp;Jornal Extra AlagoasMédico que caiu do sétimo andar após tomar zolpidem faz exercícos de reabilitação - 21/08/2026 - Equili",
-      "sources": [
-        {
-          "name": "FOLHAMAX",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVWl6ZDRvc3FnNm9sc1JYWkZqa0JxY2ZsY2JIX1lmNWFMNnVsWkpGUV8xVHplZHlqcmE3aFRWLVRkWFFJdktwTXNEMm1mRVhnLXpIck5pOWI1SFBqeGJjSUlPYlB0bjFZLXE0cmZJVXI3V0tzQWlNbHRtUHN1ZEdrVDNDWnlHaXVXYnRucnlpamtqMnBSUmJ4UTFaTTdLVU0?oc=5"
         }
       ]
     },
@@ -174,22 +210,10 @@
       ]
     },
     {
-      "id": "80e9b6dbb389",
-      "title": "Depois de décadas servindo como cobaias em laboratórios financiados pelo governo americano, centenas de chimpanzés ganharam aposentadoria num santuário da Louisiana criado só para eles - CPG Click Petróleo e Gás",
-      "published": "2026-08-23T13:01:00+00:00",
-      "summary": "Depois de décadas servindo como cobaias em laboratórios financiados pelo governo americano, centenas de chimpanzés ganharam aposentadoria num santuário da Louisiana criado só para eles&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQanJvZlM3NV9rRlpUNlpMckYtQ2xfWGl2dmo1WHVDTXpmQlZIcUVhN1poQkstZFU4Y1V2SXlTRFBuQjhScHgzSExIeVhwMjhmLTZwUTB6MEhUaVd4VllITTVudlVmMEdWRmxyWGZKYWJld0w3S2hLR2lPTjNhSTFKanBGNUExN005SzV5RFFBNUYyZ0R1UzFab2ZJQm1GTDA0RXgtbUQyTEpnelYydjFLUWEwWGRXWENtNTlRX2pjTU41NGkyY0M5aThXeDdOM2NIZDZiWk9GeHdsRTFDU2tmc0oyeW5rZDJvUU9Wa0J6ZFg2XzF3WTVERGdRcHdVcHlDa2dsNzZRN2cwX3NrUXpHQ1RWdGIxSTd0cHBJOFFCMWcyM05oeEtqVzF3akd2d3RtUTcyQVBVY2xCbjJhRTlwNk03Zy0tZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "761cef9988f5",
       "title": "Técnica de médico capixaba evita amputações e ganha o mundo - Tribuna Online",
       "published": "2026-08-23T12:05:30+00:00",
-      "summary": "Técnica de médico capixaba evita amputações e ganha o mundo&nbsp;&nbsp;Tribuna OnlineCuidados diários com os pés podem evitar mais da metade das amputações por diabetes&nbsp;&nbsp;G1Mossoró promove “Semana Salvando Pernas” com ações de prevenção e cuidado às pessoas com diabetes&nbsp;&nbsp;Natal em FocoSociedade de Ortopedia e Traumatologia alerta para prevenção do chamado pé diabético&nbsp;&nbsp;Bem ParanáNovas tecnologias brasileiras buscam tratar e prevenir o pé diabético&nbsp;&nbsp;Folha Vit",
+      "summary": "Técnica de médico capixaba evita amputações e ganha o mundo&nbsp;&nbsp;Tribuna OnlineCuidados diários com os pés podem evitar mais da metade das amputações por diabetes&nbsp;&nbsp;G1Novas tecnologias brasileiras buscam tratar e prevenir o pé diabético&nbsp;&nbsp;Folha VitóriaMossoró promove “Semana Salvando Pernas” com ações de prevenção e cuidado às pessoas com diabetes&nbsp;&nbsp;Natal em FocoSociedade de Ortopedia e Traumatologia alerta para prevenção do chamado pé diabético&nbsp;&nbsp;Bem Pa",
       "sources": [
         {
           "name": "Tribuna Online",
@@ -201,7 +225,7 @@
       "id": "b25d32f2152c",
       "title": "Jejum intermitente: o que os influenciadores não te contam (e o que a Ciência ainda não sabe) - BBC",
       "published": "2026-08-23T11:33:19+00:00",
-      "summary": "Jejum intermitente: o que os influenciadores não te contam (e o que a Ciência ainda não sabe)&nbsp;&nbsp;BBCPor que pesquisas vêm investigando a relação entre jejum intermitente e sensibilidade à insulina&nbsp;&nbsp;Tua SaúdeJejum intermitente pode ajudar diabéticos tipo 1 a controlar níveis de açúcar no sangue&nbsp;&nbsp;tveuropa.ptJejum intermitente: o que os influenciadores não te contam&nbsp;&nbsp;redeutv.com.brJejum intermitente funciona? O que acontece no corpo quando você passa algumas ho",
+      "summary": "Jejum intermitente: o que os influenciadores não te contam (e o que a Ciência ainda não sabe)&nbsp;&nbsp;BBCNovo estudo revela idade em que o jejum intermitente pode deixar de ser eficaz&nbsp;&nbsp;O GLOBOPor que pesquisas vêm investigando a relação entre jejum intermitente e sensibilidade à insulina&nbsp;&nbsp;Tua SaúdeJejum intermitente: o que os influenciadores não te contam&nbsp;&nbsp;redeutv.com.brJejum intermitente pode ajudar diabéticos tipo 1 a controlar níveis de açúcar no sangue&nbsp;&",
       "sources": [
         {
           "name": "BBC",
@@ -237,7 +261,7 @@
       "id": "fe4236d1b91a",
       "title": "Mês do cachorro louco: entenda o mito e a importância da vacina contra raiva - Terra",
       "published": "2026-08-23T07:58:00+00:00",
-      "summary": "Mês do cachorro louco: entenda o mito e a importância da vacina contra raiva&nbsp;&nbsp;TerraPor que o mês de agosto é chamado de Mês do Cachorro Louco? Entenda a explicação&nbsp;&nbsp;Jornal da FrancaAgosto é o mês do cachorro louco: entenda os riscos da raiva e saiba como proteger seu animal&nbsp;&nbsp;bra1.com.brAgosto, mês do cachorro louco. Por carro! Coluna Chico Lelis&nbsp;&nbsp;racingonline.com.brCharge do Martins – Agosto, o mês do cachorro louco&nbsp;&nbsp;Portal da Folha",
+      "summary": "Mês do cachorro louco: entenda o mito e a importância da vacina contra raiva&nbsp;&nbsp;TerraSaúde de Palmas confirma caso de raiva canina e reforça vacinação e ações de vigilância&nbsp;&nbsp;Prefeitura de Palmas.Atividade educativa reforça importância da vacinação contra a raiva em Capitão Enéas&nbsp;&nbsp;Jornal Panorama MinasPrefeitura de Palmas orienta população sobre prevenção e cuidados com a raiva animal&nbsp;&nbsp;Folha do Jalapão -Por que agosto é o mês do cachorro louco?&nbsp;&nbsp;Com",
       "sources": [
         {
           "name": "Terra",
@@ -261,7 +285,7 @@
       "id": "cf25bf3ef020",
       "title": "Canetas emagrecedoras mudam perfil de alunos em academias e exigem adaptação dos treinos - Folha de S.Paulo",
       "published": "2026-08-23T07:00:00+00:00",
-      "summary": "Canetas emagrecedoras mudam perfil de alunos em academias e exigem adaptação dos treinos&nbsp;&nbsp;Folha de S.PauloSociedade de pediatria pede cautela a médicos ao indicar canetas emagrecedoras para crianças e adolescentes&nbsp;&nbsp;Folha de S.PauloO risco da banalização das 'canetas emagrecedoras' para crianças e adolescentes&nbsp;&nbsp;O GLOBOO corpo que muda mais rápido que o hábito&nbsp;&nbsp;Correio BrazilienseCanetas emagrecedoras nas academias: treinadores comentam&nbsp;&nbsp;VEJA RIO",
+      "summary": "Canetas emagrecedoras mudam perfil de alunos em academias e exigem adaptação dos treinos&nbsp;&nbsp;Folha de S.PauloSociedade de pediatria pede cautela a médicos ao indicar canetas emagrecedoras para crianças e adolescentes&nbsp;&nbsp;Folha de S.PauloSBP alerta para uso de canetas emagrecedoras por crianças e adolescentes&nbsp;&nbsp;Correio BrazilienseCanetas emagrecedoras nas academias: treinadores comentam&nbsp;&nbsp;VEJA RIOCanetas emagrecedoras: pediatras alertam para risco de uso em criança",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -294,38 +318,26 @@
       ]
     },
     {
-      "id": "74c607fd6a5e",
-      "title": "Comendo carcaça, abutres reciclam nutrientes e podem controlar doenças - Metrópoles",
-      "published": "2026-08-23T05:00:00+00:00",
-      "summary": "Comendo carcaça, abutres reciclam nutrientes e podem controlar doenças&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdGtmdzhuck9ySWhqUV91MWZJX3BVZzNYTHhxX3hPRjlMR1BJbktmSGRXZUQzU3JBZFVCdWdUdnRMMkZnZDBlTUVYSC1CNWREM3YtMmY3aHlHNm5KdXdOQ2haaXJTc1JpS0VfODhIY2tBdTAzM1ZSVWIxUmJ3OVlPMnpuX3o5aVpGNmhqblBzd2dlcm90dXRXa0V6c2VESTlwVkdFTFM0QQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ec33c4fcdb70",
-      "title": "Tratamento da apneia do sono pode ajudar no controle da hipertensão - Folha de S.Paulo",
-      "published": "2026-08-23T02:00:00+00:00",
-      "summary": "Tratamento da apneia do sono pode ajudar no controle da hipertensão&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOUw0LUoyZjhib2RrNHhnZVJWWmxzVFlLNEp6UUpPcEdORnlvc2pPVDZ3SjdMV3B1MEpJaFEtU25LTnN2V1BzMUpMUkR2ZWg4bU53bHlqMWUxMXFMdUdZWDFFeUdFaUpObDdBVk90bjRPTDg0T2ZaMWFxQ2xoUjRIejQweFMxdFZEdmwwVENSMDZWRENTWS1tRkc2bkFUQkdROGhmRGd5Z2ZYRUl1TVNUZGdEaldvSzU5WGFoQVg3Q0RhbmpZSzEw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a8b6de7de1fb",
       "title": "Campanha de multivacinação mobiliza famílias e alerta para baixa cobertura vacinal no Brasil - G1",
       "published": "2026-08-22T23:34:28+00:00",
-      "summary": "Campanha de multivacinação mobiliza famílias e alerta para baixa cobertura vacinal no Brasil&nbsp;&nbsp;G1Dia D de multivacinação é realizado neste sábado (22)&nbsp;&nbsp;G1Mais de 1,8 mil vacinas são aplicadas no Dia D Nacional de Multivacinação em Caxias&nbsp;&nbsp;GZHDia D supera expectativa e amplia vacinação de crianças e adolescentes em Cuiabá&nbsp;&nbsp;Prefeitura de CuiabáCuritiba aplica 8,6 mil doses de vacina no Dia D da Multivacinação&nbsp;&nbsp;Prefeitura de Curitiba",
+      "summary": "Campanha de multivacinação mobiliza famílias e alerta para baixa cobertura vacinal no Brasil&nbsp;&nbsp;G1SC realiza Dia D de multivacinação&nbsp;&nbsp;G1Prefeitura de Cuiabá aplica mais de 12 mil doses durante Dia D da Multivacinação&nbsp;&nbsp;Prefeitura de CuiabáVolta Redonda realiza mais de 3,6 mil atendimentos durante Dia D de Multivacinação&nbsp;&nbsp;Prefeitura de Volta RedondaMais de 1,8 mil vacinas são aplicadas no Dia D Nacional de Multivacinação em Caxias&nbsp;&nbsp;GZH",
       "sources": [
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVU9JWXhWYlFlY3pKMjlWdVZtZTUxZVN2XzJjb1N6SDE4M0FZWDdaRHQzVmstY0pPemZPRW9sdFppaENSVW50T05YYlVkdHNxTkRzOGVjRGJ3U1A1bDVQaXh2VjdRWXBsWGJreUlibmwwWmphUHRCOS1zNjJlWjlYWFFXR3FwVkpKT1J5bjNDVmtESUxmUXAxd19YVy1CSTJGRUx0WmZiOTNOSmx5Y3pHYWVwbDl0aHlEVVhMWkhGV1lfZGxCUHYwdUVLdGYtN01mSUIxV2VDMGZleG1uX3NIN0tGZlNDazdFdnfSAfgBQVVfeXFMUEVTY3RKdVhTSENTNGRFQXhqWWFweXZ5Y1I1R1hJbDREU3h6S0hDZHRfYUx4SnZxZzlaUjk3WndtMFpuT3FuRkZDZ040U1VHcDlVbVpDU19Jcld1VUdONVEwd3RQNktYYVptem40UzkwcFA4Q0Nha05pc1FXMjZvV1NOdVludFp4ZEI1aVY3bkFxWGkzME9rTnVoNVVRNzIwMHRhNkZPbmNWWnFNV09LelI5RUpQaTNBdVRrZXdKRDNlYTk0SU5oV0tTSXlkUkdXR3VmTzBzRzljbDliYTBwZGJ2NDY0a3lCVVBfS3U1MzlaS0NxSXlCbW4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "98155a556858",
+      "title": "Câncer gástrico e colorretal podem ser identificados por bactérias da saliva segundo estudo - Boca do Rio Magazine",
+      "published": "2026-08-22T23:33:26+00:00",
+      "summary": "Câncer gástrico e colorretal podem ser identificados por bactérias da saliva segundo estudo&nbsp;&nbsp;Boca do Rio MagazineSaliva pode dar pistas sobre câncer de intestino&nbsp;&nbsp;DW.comAnálise da saliva pode identificar sinal ligado ao câncer colorretal&nbsp;&nbsp;MetrópolesO \"padrão oculto\" na boca que pode prever desenvolvimento de cancro&nbsp;&nbsp;Notícias ao MinutoBactéria intestinal é associada a quase metade dos casos de câncer colorretal estudados no Japão&nbsp;&nbsp;Portal Mie",
+      "sources": [
+        {
+          "name": "Boca do Rio Magazine",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTVAtNFF3d3NwcUh6Wld4OV9tcE9lNWtHWWJzWWpsVUQzSEhCR2Nybm9MWWdOSGpmaHdLYzBuektYZnVpWHZmMUdTaUc3UHJZTGN6NUFtM0NxX2U5Y29SRkFTTjdVTnFpRDh4LUVhcmxwMjJpdml1eVlwc3hUbXRqWUJBYzJsRWMtX2V4Q3lPNzdfdnk5c2JOUHBKUGJWdC1sQVowVjd3N3NKUG5XRnhmSGpZLXNfUkp5M244WVdPbnQ4ZVk?oc=5"
         }
       ]
     },
@@ -342,54 +354,6 @@
       ]
     },
     {
-      "id": "4bf1aa1f2e9b",
-      "title": "Hábito que todo mundo tem (ou já teve) quase triplica risco de câncer - Revista Fórum",
-      "published": "2026-08-22T16:37:54+00:00",
-      "summary": "Hábito que todo mundo tem (ou já teve) quase triplica risco de câncer&nbsp;&nbsp;Revista Fórum“Líquido da morte”? Bebidas açucaradas elevam em 2,45 vezes risco de câncer&nbsp;&nbsp;CNN BrasilHábito comum pode quase triplicar o risco de um câncer letal&nbsp;&nbsp;O GLOBOEstudo mostra que as bebidas que miúdos e adultos adoram podem causar cancro do estômago&nbsp;&nbsp;nit.ptEstudo inédito nos EUA associa bebidas açucaradas ao câncer gástrico&nbsp;&nbsp;Olhar Digital",
-      "sources": [
-        {
-          "name": "Revista Fórum",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LVFN5T1VNYkFldDB3NEJGRDVraEFmbmFfNExGTlY3RlBIQzdSSUVDOE1MMGhPbWdrOXplMlBWUnJibkdwcmRlclB5TGxldUpTNnBlM1I3S3RIWkF5b2pkZGNkQklnUkVTanR3WklXNU1yeDBVMVBIX043TmJkLUU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ebb798ceb0b3",
-      "title": "Saliva pode dar pistas sobre câncer de intestino - DW.com",
-      "published": "2026-08-22T15:44:43+00:00",
-      "summary": "Saliva pode dar pistas sobre câncer de intestino&nbsp;&nbsp;DW.comAnálise da saliva pode identificar sinal ligado ao câncer colorretal&nbsp;&nbsp;MetrópolesO \"padrão oculto\" na boca que pode prever desenvolvimento de cancro&nbsp;&nbsp;noticiasaominuto.comBactéria intestinal é associada a quase metade dos casos de câncer colorretal estudados no Japão&nbsp;&nbsp;Portal MieO \"padrão oculto\" na boca que pode indicar risco de câncer colorretal&nbsp;&nbsp;redeutv.com.br",
-      "sources": [
-        {
-          "name": "DW.com",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObWFYQm45MlhlTFRmTXZhT011ejIxRk5MTmJDZ180ajk1YjJQLXE3YzV5MS12NXVDTUJKUmE0M1VmcHF4cGI0amlBRkdKQXl5OUktd3B1VHZ5d1RLSEIwOWcwM3I0NzBIbzNyaVl0ZjA2b2J0UnJMS0ZqR2NjdVl5U2w0UnotcF9MbWFtaHBrLVhfbmfSAZMBQVVfeXFMT05pRG5qbDg2R1F6bkpDQWxTNl9XeEJUd3h5V3l0OVJjRVEydmNVTXcyNG9FQThyVU9CX1MyQjMzMGpCRkdGeFJhdTlhejUyRmxSMGhZcmF0d21WeFhEcUx2d09wbmxaTEhlNnBrbnpaN0h5YU1mc2R4bHNqZkY2eFRlTTVGRFR0QUJBRlJhUXFmcFpj?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3842853c80de",
-      "title": "'A geração sóbria': por que cada vez mais jovens trocam o álcool por remédios de ansiedade — e por que isso preocupa - G1",
-      "published": "2026-08-22T12:36:14+00:00",
-      "summary": "'A geração sóbria': por que cada vez mais jovens trocam o álcool por remédios de ansiedade — e por que isso preocupa&nbsp;&nbsp;G1Geração Z bebe menos e contribui para perda de 830 bilhões de dólares em valor de mercado da indústria do álcool&nbsp;&nbsp;Pinga Fogo NotíciasJovens trocam álcool por remédios para ansiedade e preocupam especialistas&nbsp;&nbsp;Diário do Centro do MundoGeração sóbria: jovens reduzem consumo de álcool, mas aumentam uso de remédios para ansiedade&nbsp;&nbsp;Meio NewsJo",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPLTR3NC15aTYzMUVVQ2FqVWNMZEE5SWxBUjJ5dk00ZHFlOC1TdThIc3Y3ZHJ1a096TkJ0MVRCa1VoSkNaLXpid0RUdHZRVGswX0dNNUw5REtsTFdrN1hFRWk1M1R4R0h4cURtNU15Zk5XUThEeUQwRW5WZWdnUzZ0OGdjMXZxQlhFbkV1NTNDZC01OXVqSklCdnEybkhiYVY2Q0NBT2RkU1JRN3dyWnk5c01Kd2dSUmpHQ0MwNUdZam1CdTFIQTRjZXlrRGZrcEVDdC1lTGNDbkJUM3Z0SXRJaGl4dXI0cVV5dVd1VDhR0gH8AUFVX3lxTFAxOXc5VUxhU3VBY0NidTBTMGdPcWM3ZmU5LXE1OWxqVUEyRFIwakZKUFFqUnhnUTNraXNnY05iRFBtRHBycXdSR004bjFoX0J0bEd0TFR1czltOFpuMTJGQmtlb2NoZzZiSVU0aXBjamNjSU50OVo0TXBQalVJRTBTbC1hYW1iWS1iUzFNbzZMam5zTVBwa2sxNUhOMU9RbnRUZXBvZnh4S3NudWo4bzlGU1F5WHE3c0xwdUxyaGZTYzBsdmlPelBPOUV1WVRMcU1jeDItZEJyZl9WWVhDWWNyOVVWUTRRenVUNElBVHQyVzM3R0xxYWh6QVhIVw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6e5d2122381c",
-      "title": "Autismo pode ser um efeito colateral da evolução do cérebro humano; entenda - CNN Brasil",
-      "published": "2026-08-22T06:40:49+00:00",
-      "summary": "Autismo pode ser um efeito colateral da evolução do cérebro humano; entenda&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaGtuWHo3QnNIUkVrcFo1TGc1bkVuR0tCODZhMk5uR2VGWUN6WXUzWERZcXFrbVB2Vm56WDRLSWRMMGxOa0FaZVV6amMxcmFEQ21lYktYbzl1NzFDMXJHMk9QZUh3dnMwNndQY21aVnV1Q1AzOTNHeVp1cnpkRlQ1U2pQUGwwZXp6cVJ6N3RyQjFZajdlZ3BMc2RwZlhYY2tYRGRmX3R1ZW8wcERZWEo0?oc=5"
-        }
-      ]
-    },
-    {
       "id": "813355bf0f3f",
       "title": "A lenda é real: ciência confirma pela primeira vez a existência do veado preto no Pantanal; veja imagens - O GLOBO",
       "published": "2026-08-22T06:30:25+00:00",
@@ -398,18 +362,6 @@
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOQm1NaEhHOC12a0lOQk1UelBzb0N6MTNXejVTZm1lMjhycWItUjRKbjl6MFY1bmV2a25LZVhzSTByQUVFNUQtbTBpcDNSSzNXcVZqTlBLemx2NU5fZEhmVEJCbGpZYzl3Uy16TnM2RE1aaFlrTjN0bHg2TUJndTdoRHJsbFNfdDlIMlRwOEhpNzJBMDdrX3l1VmZzemFLSTQyakt1Z3JTTzdDTDdDRmdKRUU3U1FRNFlrYms3enlhZVNySnJfNWtMWjQwcV9IbjYxRy1fek9nNU14MFdkS2hCWFhqb25BUy1pYmhVdTVQS1dfMUZ1TjQ3R3ViYUdPYXpycS000gGSAkFVX3lxTFBqMlZFZ2VyMThWUlB4cGdhcXhaLXBJaUZEQ3FLb0RsVXZ0dGlxQ1JXYVlUMEhpeTRxU0Z1cFd0YjZRbnNyMjd3d0VGWXZLMF9fV0NkNGc1QWxzc3c2SktPWkROUlRLNFdTa21MODhaX1NVcmx2c29FeFZObk9FbHZqVjNzcXlueWdmcjU2TXNMZnl5a25VdHBSS0twbjROalo3Q0p6ZVVZZTNqalE2ZUNUV1pQMHE2Sk1BdzRFNERvZU9Da2lMUEl5ejgxTDVrdkstZl82a2dzTG5uRWZZdzJaUXhnVkVBSE14QjlrczJ3bDJjVlZKd3Zud25pNDRiZ3IwRTdHWEdJYlFTZHNyT01rZ3c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3c640501d82a",
-      "title": "Família brasileira pede ajuda nos EUA após pai ser diagnosticado com doença neurológica que causa paralisia muscular - AcheiUSA",
-      "published": "2026-08-21T17:28:22+00:00",
-      "summary": "Família brasileira pede ajuda nos EUA após pai ser diagnosticado com doença neurológica que causa paralisia muscular&nbsp;&nbsp;AcheiUSA",
-      "sources": [
-        {
-          "name": "AcheiUSA",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZ3E2M09OdGxxSnFDMmN0bXpHampnQW1ETnhvcHd2NjVhQ2tGSjZiRzFfbWVQOHAtd2tzdWdWX2dtd1VzUVFpOHRCblhsUy1Bd0VLSnMzWHZBZllYSHZ5a1R3ejFIeWdIRFpsNFliLWJmcXNyeTJaN1Y1NzZMTkxXSWpQUExxQjRIejNDWE9rUEwxY3QwcEo0dVJmTkNGMEJfeWpnQ25JMGZ6WGcxaFpva0pzU1RYcjBjMHdfS1c4SVBhMXQtdW5rSkJldGVLQjQ0VkVuVHlJR0xNblFRblRLcWtjb0JxOXpteV96b2hn?oc=5"
         }
       ]
     }
