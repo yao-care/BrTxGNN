@@ -1,19 +1,43 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-08-23T18:31:14.507640+00:00",
-  "total_fetched": 89,
-  "unique_count": 89,
-  "health_related_count": 35,
+  "fetched_at": "2026-08-24T01:22:23.033404+00:00",
+  "total_fetched": 88,
+  "unique_count": 87,
+  "health_related_count": 36,
   "news": [
     {
-      "id": "5912552c1756",
-      "title": "O que a ciência pode oferecer hoje contra a doença de Creutzfeldt?Jakob? - UOL",
-      "published": "2026-08-23T17:17:21+00:00",
-      "summary": "O que a ciência pode oferecer hoje contra a doença de Creutzfeldt?Jakob?&nbsp;&nbsp;UOLDoença de Creutzfeldt-Jakob&nbsp;&nbsp;G1Como diferenciar demência rápida de Alzheimer e outras doenças&nbsp;&nbsp;Correio BrazilienseDoença de Creutzfeldt-Jakob: entenda o que é a condição neurológica rara, sem cura e que avança rapidamente&nbsp;&nbsp;CartaCapitalParaná é o 2º estado com mais notificações de Creutzfeldt-Jakob&nbsp;&nbsp;Tribuna do Paraná",
+      "id": "df4074e9c31e",
+      "title": "O que a ciência pode oferecer hoje contra a doença de Creutzfeldt-Jakob? - UOL",
+      "published": "2026-08-23T21:11:28+00:00",
+      "summary": "O que a ciência pode oferecer hoje contra a doença de Creutzfeldt-Jakob?&nbsp;&nbsp;UOLDoença de Creutzfeldt-Jakob&nbsp;&nbsp;G1Como diferenciar demência rápida de Alzheimer e outras doenças&nbsp;&nbsp;Correio BrazilienseTudo sobre doença de Creutzfeldt-Jakob (DCJ)&nbsp;&nbsp;Forbes BrasilDoença de Creutzfeldt-Jakob: entenda o que é a condição neurológica rara, sem cura e que avança rapidamente&nbsp;&nbsp;CartaCapital",
       "sources": [
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcy1ubjBNTklwc0hkT2FJWVZFQ1hoODhSUFZ2dHZLb3NuS2FmWktubWRMV2NFZWZfdGFyRWJySGtsMkF4RjBDc05lVlVGVXlITU5KTkg4ZWJ0V3BtTTdnX0ZOOWR1R05NdmJGN0V2ci1IaDU1a192bVVabmQ5X0dtSzlCMDlHODAyVWpwMkxJU3ZjWDJiVWZPeGJ1c01iQzc0WER3X2gzaWNuYjAyT3R2VEo2Ry0wLW1VVzJUSHZjM0lhVkg3dUQ4aVVfTmhDMTA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e3d0e59ce505",
+      "title": "Médico cuiabano cai do 7º andar e perde perna após Zolpidem - FOLHAMAX",
+      "published": "2026-08-23T19:10:00+00:00",
+      "summary": "Médico cuiabano cai do 7º andar e perde perna após Zolpidem&nbsp;&nbsp;FOLHAMAXCaí do sétimo andar, perdi a visão e parte da perna após uso de zolpidem, diz médico&nbsp;&nbsp;Folha de S.PauloUso inadequado de zolpidem acende alerta sobre riscos do remédio para insônia&nbsp;&nbsp;TVBV ONLINEMédico cai do 7º andar após uso de zolpidem e perde visão e parte da perna&nbsp;&nbsp;Jornal Extra AlagoasMédico que caiu do sétimo andar após tomar zolpidem faz exercícos de reabilitação - 21/08/2026 - Equili",
+      "sources": [
+        {
+          "name": "FOLHAMAX",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVWl6ZDRvc3FnNm9sc1JYWkZqa0JxY2ZsY2JIX1lmNWFMNnVsWkpGUV8xVHplZHlqcmE3aFRWLVRkWFFJdktwTXNEMm1mRVhnLXpIck5pOWI1SFBqeGJjSUlPYlB0bjFZLXE0cmZJVXI3V0tzQWlNbHRtUHN1ZEdrVDNDWnlHaXVXYnRucnlpamtqMnBSUmJ4UTFaTTdLVU0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "eae17f743866",
+      "title": "Como você se movimenta, e não apenas com que frequência, pode afetar o risco de demência - Folha de S.Paulo",
+      "published": "2026-08-23T18:30:00+00:00",
+      "summary": "Como você se movimenta, e não apenas com que frequência, pode afetar o risco de demência&nbsp;&nbsp;Folha de S.PauloExercício e trabalho físico têm efeitos distintos sobre a demência&nbsp;&nbsp;Correio Braziliense10 minutos de atividade física por dia podem prevenir casos de demência&nbsp;&nbsp;Poder360O cérebro também precisa de exercício&nbsp;&nbsp;ParaibaOnlineSaúde não se constroi de uma vez: pequenos hábitos podem transformar a qualidade de vida | SEGS Portal...&nbsp;&nbsp;SEGS Portal Nacio",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbVpFMDBIbl9vODFmWnZrQXpOOVRfV29TOFdwZHQ0bDJpX2plZjlyblo0WTBSQS1BOHhhUzRMX2IzOE5oaXU5c2lCYXZSQ0RGbFprVk1XX1UyaFhaNG83OUxkWDdFSjR1X3QxOTFhcVRtSlpFN2tNbDlVenVRWTVoYXBDRHJNdTkyQWVtN0lFSGQtNVE0NkVKQXNnRkhBNWlwX01vanJvcVVoSHcwRUtkQTg0UC0wWFRhaXJmTzc4bzVfalpYMGVKMWtHNE12T3B1M2xaeFlfSU0?oc=5"
         }
       ]
     },
@@ -26,18 +50,6 @@
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaGJFVkVmamZkTnpYZUh0WGQ4Q3RpdTBMQy1nVnhlVHZsS2xHZXVBMzBIM1A5Y0hJbC0tWUJOaWt1SmpNNUJUTHExTmp0cU5DWFNiODZQQ3RUM0g0RE1IcW1zM3kyRTRGWkIybWFqakU4NXR1MDN2WDdhNkVjUlMtOFZxY3Uxb25Kb2JxemVoNmhFS2hXYldjczN1SGxfWVplNVl2QnYyUU16OUV4ZDNEYnFobUNCaC1qc0tXeVdDZE45THc0VEI2VG10NHgzNDY4cFE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "29d959572875",
-      "title": "Seguidores de Lito Sousa fazem campanha nas redes sociais para incluí-lo em estudo clínico com medicamento experimental - G1",
-      "published": "2026-08-23T14:07:55+00:00",
-      "summary": "Seguidores de Lito Sousa fazem campanha nas redes sociais para incluí-lo em estudo clínico com medicamento experimental&nbsp;&nbsp;G1Em primeira aparição, Lito faz apelo urgente por tratamento experimental: 'Cada minuto importa'&nbsp;&nbsp;G1Lito Sousa, do ‘Aviões e Músicas’, faz apelo por tratamento após diagnóstico de doença rara&nbsp;&nbsp;VEJA SÃO PAULOLito Sousa aparece pela 1ª vez após diagnóstico e faz apelo por estudo&nbsp;&nbsp;UOL‘Ajuda urgente!’: fãs de Lito Sousa fazem mutirão em per",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQQlFieTV5RjlpUU90TVJrOHNGUk0ySTM4SUJvYS0zTmhLWnFPX2J4cERFUHBxSjlYN18ySmJPQWZMLVpmMjk3QWVFLVN1RmI2SVNfak85ejVBZEhiMU8xRTUxUGd4QXBCS0dvQkd0LVhDOFZpeWc5S1FMZW9jbW50Z0M4MXBid0k2QUc3WFNrRHZFT0ZrWnhodkRZTmwyQ1pvdjBZeFU2ZlpQbzE2aFY3d0h0ZzlxeU5sMU9qY2VsRXFKZGRFY1hiNkpoSVdEWXAyS1ctRThmRXEyRTFoSFk3dEdMdmxOWWRJTERBeDYzTk13RmdTOHBFTmhLemJJNzI4TEdIZjNEVjBJUdIBmAJBVV95cUxOR2ZPZVZmYklCMW9feGtROG9wQ3NsWUJmdHpkWmpKeTZMdmlIaGdjMjk3MV9HUjV1Z0xFQzRNQUdFUmNpdXk4UWFYNzdWMlpocnZDMk4wX3dMN0MxcmtTR2hscXgxTUIwMDVQcDd1cjhZS09FMGdqdVRwdXB4SUJzOTN4TzNQMkVOcUdTT3c4cUtSR1dndTVkZWZFWVd4YWxzYnRHckxNaldLZG5lelhHWkNoT3NHMTRscFRuVHQ4MkM3TDNNTzBSVFJmRm5lUENsQlYxMTRUaFhfbldmeEo0azR6SnBTME56UHc5THA0ZzlGUThnM0RETV9mV3pFS1NMY2NhTGR6S0puUDlJZlg0dDl0VUp4SHVw?oc=5"
         }
       ]
     },
@@ -66,14 +78,38 @@
       ]
     },
     {
-      "id": "8fbc9a87fea8",
+      "id": "21857e0184bf",
+      "title": "Caso de Lito Sousa é atípico por começar com sintomas motores, diz especialista - G1",
+      "published": "2026-08-23T12:58:11+00:00",
+      "summary": "Caso de Lito Sousa é atípico por começar com sintomas motores, diz especialista&nbsp;&nbsp;G1'Tenho duas opções: velar o meu marido ou lutar por ele; decidi lutar', diz Mila Seidl, esposa de Lito Sousa&nbsp;&nbsp;Folha de S.PauloEm primeira aparição, Lito faz apelo urgente por tratamento experimental: 'Cada minuto importa'&nbsp;&nbsp;G1Lito Sousa: amigos se dividem para manter canal do influenciador ativo&nbsp;&nbsp;CNN Brasil\"Cada segundo conta\": Lito Sousa faz primeira aparição após diagnóstic",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbng2ZnFDVGFza1U4eTlBbnJaYzE5YklCWjdRMHdrdkQyVTFFaVBTT0ZodENieFRVZXN4WFNFc0N3RTZSQXM4a0ROTExaZFRraHlpQ2l1TU5pamVaMkVCS21CckdKUERPNnRuZVVETVFlRGZJRThWTkYxU0c5a3RYZjRCdW9NZFk4YXZKQjlWWjdtaUZjU0ZiSWdCVEdXNGhyQ0ZQS0N6VFJsZEpsRmIweGNaSXpYTlFzd0VqU1BPVmJnTVBsdXA2ZElR0gHYAUFVX3lxTE1HN1EwUm94X2tHZDh6M21ZWlVKM1dRTk4weHF2dHloSjlheWY2eHRWUnBhRTdfVFpZZU96Z2daaUdZNDFDa2dmRG1VQ2dJb2hWYnVVV2lhdndMYWVJUHYyNUlacV8wTU44LVhFRWdfZnZtLW1SWVU0Q2RfY190djFCelJpWmwtZC1DOUNzY25vN3k0SmhFM01oS2hHOGdOb2NpTkJFcXFRREpIemVITjVuTU5QYTdOY0k1Wnk1eloxTF9qZEhqWHF5T1NZY1UyblhSczZjNFUxdA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "761cef9988f5",
+      "title": "Técnica de médico capixaba evita amputações e ganha o mundo - Tribuna Online",
+      "published": "2026-08-23T12:05:30+00:00",
+      "summary": "Técnica de médico capixaba evita amputações e ganha o mundo&nbsp;&nbsp;Tribuna OnlineMossoró promove “Semana Salvando Pernas” com ações de prevenção e cuidado às pessoas com diabetes&nbsp;&nbsp;Prefeitura de MossoróO que é o ‘pé diabético’: prevenção pode evitar a maioria das amputações&nbsp;&nbsp;Bem ParanáNovas tecnologias brasileiras buscam tratar e prevenir o pé diabético&nbsp;&nbsp;Folha VitóriaTem diabetes? Olhar os pés todo dia ajuda a perceber feridas que não doem&nbsp;&nbsp;Tua Saúde",
+      "sources": [
+        {
+          "name": "Tribuna Online",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaXhuUnZ1cjFTQ0VwM3RfOUh4d1VHRmQ3cHVtWmtvZnJaQjlyRGpWcVZPVjN3THdKZlFfVTZmMWNYQzk0U3Jhc2plcFZFeGp0UktPMUNaM0JMVWgzazA5cDl6bE5iQ3FtTTJudDhaNjFUZ0Zydzc3UzJyc2hGbUdIb3V0ekp0dE9GdGlVRXhpWlhsczFwWVl1YlJuamlWcURseEdj0gGrAUFVX3lxTE02ZzE4YmwwSTE1NFdZR0FKakdaTXpoN3A2QlQ2OElja0xXaEUwRjl5aG9ydGRWUmlpazR3cVFVekxJcEpENnl5QXZXZXlWeEc3ZXk4cWEzcnY1OVgxakktY2hyWWV6c2FDVVlZLUdUWktkNUlGQWtacEpRRzFrLU1mNmU1YzcydjB2NDU5Z2pOcmh4SDBETUp6VHNpb3hCLWg2U0UxY0EtSmQtOA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b25d32f2152c",
       "title": "Jejum intermitente: o que os influenciadores não te contam (e o que a Ciência ainda não sabe) - BBC",
       "published": "2026-08-23T11:33:19+00:00",
       "summary": "Jejum intermitente: o que os influenciadores não te contam (e o que a Ciência ainda não sabe)&nbsp;&nbsp;BBCPor que pesquisas vêm investigando a relação entre jejum intermitente e sensibilidade à insulina&nbsp;&nbsp;Tua SaúdeJejum intermitente pode ajudar diabéticos tipo 1 a controlar níveis de açúcar no sangue&nbsp;&nbsp;tveuropa.ptJejum intermitente: o que os influenciadores não te contam&nbsp;&nbsp;redeutv.com.brJejum intermitente funciona? O que acontece no corpo quando você passa algumas ho",
       "sources": [
         {
           "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Hc0d1aDZKWU5SaC1NWk9BaHlpZmctYmd5clZBVThRU042TWFKakFoa3ZkWkRRNk4zc3M3Y2JISmtjb2RCZDBHeWtidDlhZXFIa2xqUmJxN3FjRUlUeDQ2UEpR0gFnQVVfeXFMTW9DSDVValFBVGRTQXJtdXBURlZyLWFqVTFZbzZ2UUxNbXZZUmRkRWJMNXRvdmk2bEtYOFpvWFhoM09oS09jeHkyZ1lyOVlJNVpDSVZNM2lfdFkzYWVnSE5SbTkydmtERQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Hc0d1aDZKWU5SaC1NWk9BaHlpZmctYmd5clZBVThRU042TWFKakFoa3ZkWkRRNk4zc3M3Y2JISmtjb2RCZDBHeWtidDlhZXFIa2xqUmJxN3FjRUlUeDQ2UEpR?oc=5"
         }
       ]
     },
@@ -117,7 +153,7 @@
       "id": "12e700af270c",
       "title": "Câncer de pulmão é descoberto em estágios já avançados em mais de 8 de cada 10 casos - G1",
       "published": "2026-08-23T07:01:44+00:00",
-      "summary": "Câncer de pulmão é descoberto em estágios já avançados em mais de 8 de cada 10 casos&nbsp;&nbsp;G1Agosto Branco: Rede D’Or integra a jornada do paciente de câncer de pulmão em projeto nacional&nbsp;&nbsp;EstadãoAgosto Branco é alerta ao tabagismo&nbsp;&nbsp;O POVOCâncer de pulmão é um dos mais agressivos; médico faz alerta&nbsp;&nbsp;Gazeta DigitalAgosto Branco: veja onde realizar exames gratuitos de saúde respiratória em Salvador e Camaçari&nbsp;&nbsp;Jornal Correio",
+      "summary": "Câncer de pulmão é descoberto em estágios já avançados em mais de 8 de cada 10 casos&nbsp;&nbsp;G1Agosto Branco: Rede D’Or integra a jornada do paciente de câncer de pulmão em projeto nacional&nbsp;&nbsp;EstadãoCâncer de pulmão é um dos mais agressivos; médico faz alerta&nbsp;&nbsp;Gazeta DigitalAgosto Branco é alerta ao tabagismo&nbsp;&nbsp;O POVOAgosto Branco: veja onde realizar exames gratuitos de saúde respiratória em Salvador e Camaçari&nbsp;&nbsp;Jornal Correio",
       "sources": [
         {
           "name": "G1",
@@ -153,7 +189,7 @@
       "id": "1977a5ce393c",
       "title": "SP aplica mais de 222 mil doses de vacina contra o sarampo em 'Dia D' - UOL Notícias",
       "published": "2026-08-23T02:03:01+00:00",
-      "summary": "SP aplica mais de 222 mil doses de vacina contra o sarampo em 'Dia D'&nbsp;&nbsp;UOL NotíciasDia D reforça vacinação contra o Sarampo&nbsp;&nbsp;G1Maior surto de sarampo nas Américas em duas décadas avança e já faz vítimas no Brasil&nbsp;&nbsp;VEJAJundiaí não registra casos de sarampo desde 2019 e reforça importância da vacinação&nbsp;&nbsp;Prefeitura de JundiaíEstação da Linha 10-Turquesa da CPTM recebe vacinação contra sarampo&nbsp;&nbsp;Diário do Grande ABC",
+      "summary": "SP aplica mais de 222 mil doses de vacina contra o sarampo em 'Dia D'&nbsp;&nbsp;UOL NotíciasAgência de Comunicação - Sarampo volta a acender alerta no Brasil: vacina é a melhor proteção contra a doença&nbsp;&nbsp;Estadão Blue StudioDia D reforça vacinação contra o Sarampo&nbsp;&nbsp;G1Maior surto de sarampo nas Américas em duas décadas avança e já faz vítimas no Brasil&nbsp;&nbsp;VEJAJundiaí não registra casos de sarampo desde 2019 e reforça importância da vacinação&nbsp;&nbsp;Prefeitura de Jun",
       "sources": [
         {
           "name": "UOL Notícias",
@@ -198,49 +234,37 @@
       ]
     },
     {
-      "id": "5720dc7b0b10",
-      "title": "Caí do sétimo andar, perdi a visão e parte da perna após uso de zolpidem, diz médico de Cuiabá que vive em SP - Olhar Direto",
-      "published": "2026-08-22T20:41:00+00:00",
-      "summary": "Caí do sétimo andar, perdi a visão e parte da perna após uso de zolpidem, diz médico de Cuiabá que vive em SP&nbsp;&nbsp;Olhar DiretoCaí do sétimo andar, perdi a visão e parte da perna após uso de zolpidem, diz médico&nbsp;&nbsp;Folha de S.PauloOs riscos do remédio para insônia mais consumido no Brasil&nbsp;&nbsp;DWConfira os destaques do jornal A Tribuna deste sábado&nbsp;&nbsp;Tribuna OnlineQuase 4 em cada 10 adultos com sintomas de insônia usam remédios de 5 a 7 noites por semana, diz estudo&",
+      "id": "df48e4bd4217",
+      "title": "Itália investiga pais após morte de criança não vacinada - DW.com",
+      "published": "2026-08-22T20:02:02+00:00",
+      "summary": "Itália investiga pais após morte de criança não vacinada&nbsp;&nbsp;DW.comPais de criança que morreu sem ser vacinada são investigados por homicídio culposo por omissão&nbsp;&nbsp;R7Casal é investigado por homicídio após filha de 4 anos morrer de difteria na Itália&nbsp;&nbsp;Brasil 247Pais de criança não vacinada que morreu de difteria foram constituídos arguidos | Itália&nbsp;&nbsp;PúblicoItália: pais são alvo de investigação após morte de filha não vacinada&nbsp;&nbsp;Metrópoles",
       "sources": [
         {
-          "name": "Olhar Direto",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMGZNWnRNV1N4eWZUN0tMZlh6b2ZjaDNvYTNrVTZsTFY2NGV5RkVmVnFzT3hFOElhZ2NDNjVJNXplZ0NTQ3ladE5IRUhiTkszVzVYbUNkbUZoaWxlYUlCOG9rNjdJNS13MER0NnU3RC1RSFI2cjNseEFGRWloMU9ycEJZYXJsN0RhcE5iRk9fUkRNMkkzZ1hsTFFRUlNjaWZYRmpCVzBwR3hXRkd0OHBZUHdlenZSa09veGR3TXNzd2V1UUoyclpnWmlDQk9tdEF0VlRJTDRIaFpkQ0FZZGlxYQ?oc=5"
+          "name": "DW.com",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMUZtSGdySF9Da3c0cUtiOEZ2SGt4OThLMVZYMVkweUJ5akM3Qm1kMWgyc3FlMW41WGd0QnFWS2otbmJvZGdBbHZiSmJMVnk5Wjcwd213UExiRVhGVzFBOHhmX1pWd1lMVXRzVGFuTzl3OG1kOGtaODhLczFEeC1GQjBrbGtXdlI5UXRNNnNtSmlRQ184VGFSZDNha2phWW4tMFdqdkw0X0ZRLWpWcnF4R1Jn0gGyAUFVX3lxTE1WaGpRQmpjVjUweXRwWXBlZWlqTDlRa2Z1MDhib3dueVlLbEExMS1pNEM1UGY1V2IxeVR3YVhlWHh4aldwSG5tU1JvUGlaTHJhWXN5R0NhQVhwYVVYOENacW15QVBGTlNLa0w3WGdYWVJjaS1pWUZsMTUyeUpWRm5LSWoyOFZPWFVweFJrQlFUTUpGUkx5YjNKVzREby0zX2J4cFV1LUhONm9oN0JJLUdmZ1E?oc=5"
         }
       ]
     },
     {
-      "id": "4ba59ced6730",
-      "title": "Doença de Creutzfeldt-Jakob: entenda o que é a condição neurológica rara, sem cura e que avança rapidamente - Tribuna do Paraná",
-      "published": "2026-08-22T16:59:00+00:00",
-      "summary": "Doença de Creutzfeldt-Jakob: entenda o que é a condição neurológica rara, sem cura e que avança rapidamente&nbsp;&nbsp;Tribuna do Paraná",
+      "id": "4bf1aa1f2e9b",
+      "title": "Hábito que todo mundo tem (ou já teve) quase triplica risco de câncer - Revista Fórum",
+      "published": "2026-08-22T16:37:54+00:00",
+      "summary": "Hábito que todo mundo tem (ou já teve) quase triplica risco de câncer&nbsp;&nbsp;Revista FórumHábito comum pode quase triplicar o risco de um câncer letal&nbsp;&nbsp;O GLOBO“Líquido da morte”? Bebidas açucaradas elevam em 2,45 vezes risco de câncer&nbsp;&nbsp;CNN BrasilEstudo liga bebida açucarada diária a maior risco de câncer de estômago&nbsp;&nbsp;Notícias ao Minuto BrasilEstudo inédito nos EUA associa bebidas açucaradas ao câncer gástrico&nbsp;&nbsp;Olhar Digital",
       "sources": [
         {
-          "name": "Tribuna do Paraná",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeXlSN0hVN21IZk5fb0FkNjUwelVyamRRMnNIY3JIVlA2Yi1ya3NodzVkSVhudV9XSENZUmN1WTlHT21BSHdJNTdFZzhNdVF4b2E0dUNWZG5jdDRWVVNwbEdneUk2THd6RnpmaTJWZmVFWWJBbmtMOGp6TWdPdF96NmZZRld2TGtCM0Nia0NWUEVUakNjUEhLbzZtQ0FETnlsTmZjUnlKZXdPZ0NHREYza3NwYnl0NktvVDVkUlJPWk9YLVp4SUhodDVB0gHPAUFVX3lxTE5yRlhXc2NNLW40TG03Q3RYNE5GNDJPU2RBazRIeEt0SFhtLWlDX2tBd2s4eFRSS1o0a21TMzBHdkRwMlBXdE5nS242WTNGX0NJUGowUlRHNDNnUWItTXdjTFBNTWwzUHVKeEllS0F2NWVRLXl6TnFxTm1nVkdBVllCTS0zejhlQmJOZThfMXBtS3ZPZ0hER3dBLTlqc2hTS2lpNGprTXF2c2M2TFo5TnU3RVZzYS02SnhxRVpJczBmUTF1emUyRHQzU3h4aHZ1UQ?oc=5"
+          "name": "Revista Fórum",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LVFN5T1VNYkFldDB3NEJGRDVraEFmbmFfNExGTlY3RlBIQzdSSUVDOE1MMGhPbWdrOXplMlBWUnJibkdwcmRlclB5TGxldUpTNnBlM1I3S3RIWkF5b2pkZGNkQklnUkVTanR3WklXNU1yeDBVMVBIX043TmJkLUU?oc=5"
         }
       ]
     },
     {
-      "id": "1f76cebcf3b8",
-      "title": "“Líquido da morte”? Bebidas açucaradas elevam em 2,45 vezes risco de câncer - CNN Brasil",
-      "published": "2026-08-22T16:21:01+00:00",
-      "summary": "“Líquido da morte”? Bebidas açucaradas elevam em 2,45 vezes risco de câncer&nbsp;&nbsp;CNN BrasilHábito comum pode quase triplicar o risco de um câncer letal&nbsp;&nbsp;O GLOBOEstudo liga bebida açucarada diária a maior risco de câncer de estômago&nbsp;&nbsp;Notícias ao Minuto BrasilEstudo inédito nos EUA associa bebidas açucaradas ao câncer gástrico&nbsp;&nbsp;Olhar DigitalHábito que todo mundo tem (ou já teve) quase triplica risco de câncer&nbsp;&nbsp;Revista Fórum",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa1JReUlQdmhJLTZyY01RYjVfR0s3SDRHMlhWdG9BbEFMX0ctV3hZNFNzTGNoN3ZVckN1eUcwZHhkR04yU2g4WS02enY4bC1MYWxwVjZfWWJSemhpV0RVREVRNDdRRE9XRTBoV1o0M0tkbE42SlVoSHdKeGctbmd3cWdDczZHOHJwQzNvdkNTc0lBclRYS1l2R2RLbHFJdExFYTVNWm0tNl9KbFk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fd9f92d76b17",
-      "title": "Saliva pode dar pistas sobre câncer de intestino - DW",
+      "id": "ebb798ceb0b3",
+      "title": "Saliva pode dar pistas sobre câncer de intestino - DW.com",
       "published": "2026-08-22T15:44:43+00:00",
-      "summary": "Saliva pode dar pistas sobre câncer de intestino&nbsp;&nbsp;DWAnálise da saliva pode identificar sinal ligado ao câncer colorretal&nbsp;&nbsp;MetrópolesO \"padrão oculto\" na boca que pode prever desenvolvimento de cancro&nbsp;&nbsp;Notícias ao MinutoBactéria intestinal é associada a quase metade dos casos de câncer colorretal estudados no Japão&nbsp;&nbsp;Portal MieO \"padrão oculto\" na boca que pode indicar risco de câncer colorretal&nbsp;&nbsp;redeutv.com.br",
+      "summary": "Saliva pode dar pistas sobre câncer de intestino&nbsp;&nbsp;DW.comAnálise da saliva pode identificar sinal ligado ao câncer colorretal&nbsp;&nbsp;MetrópolesO \"padrão oculto\" na boca que pode prever desenvolvimento de cancro&nbsp;&nbsp;Notícias ao MinutoBactéria intestinal é associada a quase metade dos casos de câncer colorretal estudados no Japão&nbsp;&nbsp;Portal MieO \"padrão oculto\" na boca que pode indicar risco de câncer colorretal&nbsp;&nbsp;redeutv.com.br",
       "sources": [
         {
-          "name": "DW",
+          "name": "DW.com",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObWFYQm45MlhlTFRmTXZhT011ejIxRk5MTmJDZ180ajk1YjJQLXE3YzV5MS12NXVDTUJKUmE0M1VmcHF4cGI0amlBRkdKQXl5OUktd3B1VHZ5d1RLSEIwOWcwM3I0NzBIbzNyaVl0ZjA2b2J0UnJMS0ZqR2NjdVl5U2w0UnotcF9MbWFtaHBrLVhfbmfSAZMBQVVfeXFMT05pRG5qbDg2R1F6bkpDQWxTNl9XeEJUd3h5V3l0OVJjRVEydmNVTXcyNG9FQThyVU9CX1MyQjMzMGpCRkdGeFJhdTlhejUyRmxSMGhZcmF0d21WeFhEcUx2d09wbmxaTEhlNnBrbnpaN0h5YU1mc2R4bHNqZkY2eFRlTTVGRFR0QUJBRlJhUXFmcFpj?oc=5"
         }
       ]
@@ -249,7 +273,7 @@
       "id": "75c92575dba3",
       "title": "Dia D mobiliza crianças e adolescentes para atualizar a caderneta de vacinação — Ministério da Saúde - www.gov.br",
       "published": "2026-08-22T15:33:00+00:00",
-      "summary": "Dia D mobiliza crianças e adolescentes para atualizar a caderneta de vacinação — Ministério da Saúde&nbsp;&nbsp;www.gov.brCampanha de multivacinação mobiliza famílias e alerta para baixa cobertura vacinal no Brasil&nbsp;&nbsp;G1Mais de 1,8 mil vacinas são aplicadas no Dia D Nacional de Multivacinação em Caxias&nbsp;&nbsp;GZHAlta procura marca o Dia D de Multivacinação em postos de saúde de São Paulo&nbsp;&nbsp;Folha de S.PauloDia D supera expectativa e amplia vacinação de crianças e adolescentes",
+      "summary": "Dia D mobiliza crianças e adolescentes para atualizar a caderneta de vacinação — Ministério da Saúde&nbsp;&nbsp;www.gov.brAlta procura marca o Dia D de Multivacinação em postos de saúde de São Paulo&nbsp;&nbsp;Folha de S.PauloDia D de multivacinação é realizado neste sábado (22)&nbsp;&nbsp;G1Mais de 1,8 mil vacinas são aplicadas no Dia D Nacional de Multivacinação em Caxias | Pioneiro&nbsp;&nbsp;GZHDia D supera expectativa e amplia vacinação de crianças e adolescentes em Cuiabá&nbsp;&nbsp;Prefei",
       "sources": [
         {
           "name": "www.gov.br",
@@ -258,14 +282,14 @@
       ]
     },
     {
-      "id": "3842853c80de",
-      "title": "'A geração sóbria': por que cada vez mais jovens trocam o álcool por remédios de ansiedade — e por que isso preocupa - G1",
-      "published": "2026-08-22T12:36:14+00:00",
-      "summary": "'A geração sóbria': por que cada vez mais jovens trocam o álcool por remédios de ansiedade — e por que isso preocupa&nbsp;&nbsp;G1Veja mais manchetes e perspectivas no Google Notícias",
+      "id": "b6131b78fa65",
+      "title": "'A geração sóbria': por que cada vez mais jovens trocam o álcool por remédios de ansiedade — e por que isso preocupa - Terra",
+      "published": "2026-08-22T10:57:00+00:00",
+      "summary": "'A geração sóbria': por que cada vez mais jovens trocam o álcool por remédios de ansiedade — e por que isso preocupa&nbsp;&nbsp;TerraVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPLTR3NC15aTYzMUVVQ2FqVWNMZEE5SWxBUjJ5dk00ZHFlOC1TdThIc3Y3ZHJ1a096TkJ0MVRCa1VoSkNaLXpid0RUdHZRVGswX0dNNUw5REtsTFdrN1hFRWk1M1R4R0h4cURtNU15Zk5XUThEeUQwRW5WZWdnUzZ0OGdjMXZxQlhFbkV1NTNDZC01OXVqSklCdnEybkhiYVY2Q0NBT2RkU1JRN3dyWnk5c01Kd2dSUmpHQ0MwNUdZam1CdTFIQTRjZXlrRGZrcEVDdC1lTGNDbkJUM3Z0SXRJaGl4dXI0cVV5dVd1VDhR0gH8AUFVX3lxTFAxOXc5VUxhU3VBY0NidTBTMGdPcWM3ZmU5LXE1OWxqVUEyRFIwakZKUFFqUnhnUTNraXNnY05iRFBtRHBycXdSR004bjFoX0J0bEd0TFR1czltOFpuMTJGQmtlb2NoZzZiSVU0aXBjamNjSU50OVo0TXBQalVJRTBTbC1hYW1iWS1iUzFNbzZMam5zTVBwa2sxNUhOMU9RbnRUZXBvZnh4S3NudWo4bzlGU1F5WHE3c0xwdUxyaGZTYzBsdmlPelBPOUV1WVRMcU1jeDItZEJyZl9WWVhDWWNyOVVWUTRRenVUNElBVHQyVzM3R0xxYWh6QVhIVw?oc=5"
+          "name": "Terra",
+          "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNVlUyM0duTDM1T0RvVTRTT1c3Wll4elltaExXMHA1YTBwd1VWaHhZMWVVX1QyZ1BDdzVTc0NxMkRQdVBYcDhxQWwxQTgzYU54TXo0NHBFMWdrNjNTOF9XWGR2VEhQdWY1TmdXSEpzb2RlLVlNMW9SX3l0TS04cS10Y04xZHBlN3dMZXljV2JwQmQ2WWZ3NG9mWVVPVm1wMXZZVWdQUnpjbEYtcW5WT2d5NXA1SEduVDZBSUxKWHEzUEhXcmVXTzlqNUh0XzEwQ0V4TGwtVDM1UjhhelROSUw4eFdOODRiYldYalJNdFRWWDNCNnVMRnhqMTN0aFR2VGc4LXRTTU9IdEd6UUY4a0ZXWThnQlBZMy12MTBsMzJKTi1VZmdmWG83UVV3?oc=5"
         }
       ]
     },
@@ -306,13 +330,13 @@
       ]
     },
     {
-      "id": "eb5ea6d0d66e",
-      "title": "Por que as crianças de fazendas costumam ter menos alergias - DW",
+      "id": "86cbdd5483e3",
+      "title": "Por que as crianças de fazendas costumam ter menos alergias - DW.com",
       "published": "2026-08-22T07:43:46+00:00",
-      "summary": "Por que as crianças de fazendas costumam ter menos alergias&nbsp;&nbsp;DW",
+      "summary": "Por que as crianças de fazendas costumam ter menos alergias&nbsp;&nbsp;DW.com",
       "sources": [
         {
-          "name": "DW",
+          "name": "DW.com",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSlBfWnZkcWRaR3dndDZ5NS1OLTNhNnVaNmJ5aUJrRS0ySU9aanRCWkVhN2lmVHB4TjhVWTk5czRocFJseG90ZFVlcmtoS2Nwa2FUcUZmcEpPSGZwbl9KT19mVGNEeWllSG5hVml3akJfOWNRMm9sc01sSkFobWw4VUQ4QjJzekJRc1hudzdiN0pUTmI4ckZ1OUs4NUFJMnNqV2fSAaIBQVVfeXFMTURNSGVkXzVJcGNJRDB4RUdpVmdnT3V2WEhzUDVqeU41M0xVOFVJQ3BiRU0tSVhtdmRIcGNXVVVpNkxFTTZ6aDUtTFQ3WWVRZWcxTlN0M0Y5WHFpOFUxaThlMGl1QUZUUHp6Z0x5NnREanhKU2xrU1AyNFVzWWc1dDJpczBuOURDWjZ5Rk11dmYxTWoyTXVqVTdhUFBmZHlNYUxB?oc=5"
         }
       ]
@@ -330,6 +354,18 @@
       ]
     },
     {
+      "id": "12ab38c35cb9",
+      "title": "‘Mini Big Bang’: cientistas recriam em laboratório estado da matéria do início do Universo - O GLOBO",
+      "published": "2026-08-22T07:01:59+00:00",
+      "summary": "‘Mini Big Bang’: cientistas recriam em laboratório estado da matéria do início do Universo&nbsp;&nbsp;O GLOBO",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQRzV1UHpnWGNDdFFjSnA5dm1UaFBTSnRUU0ZUZ1VyNFo4WDZoVVBCSlVQZEgxS0szZWFyZlp3U2lNLWRMT1RGeUJJSHdxdGctZUZkMVg5aEJnc3FpcFZ2ajJKa0praDFIMVFmSjlteVJ4elpZNjdPRWVucWpLMHd0bTZudldXbkVTTlJYR1RLcmxFeHFvYUVtM2tyMmE0Vzg5a2MxMC1NTEloTG9YdENEN2FJTWtIRzhtdzRVcXBidWt3YXU3YURNVW1yNGVxc284dFdiV3ZHTTMtQzU5OU1BS1dGT2I1RjA4R20yd2JFTWnSAf8BQVVfeXFMT2hGV1VHQ2J2U1lkc0x1THRiS0gtTkV6OEtXUkNZcTB1Wjl6UVh1Nk91TXdzZDRfMk5XWGJjVlBJOV8xSnVMQlVtQ25VUWpjWFBXLVYxbzNmaHpCSWZFLV9OczhyTTR1WnZyd2wydS1QNDNhd1Zzd3FRdkt5ZXpUZDNiR1lHcjhJdk90MG9iQy1HeWc2OGpobzgxNXAyN1V2R3c2WXFtcUpiOTR0QWlGcnJTNDlyQlYxMnMtZWlHWmVkWUlaVTYtcEdRSmZySUswSURqNVBvSVM5WkZTTWtaMWN0NDhtb2p2aUdTaGdpNmpwc3pxUmxGTzNMUDhZSl9v?oc=5"
+        }
+      ]
+    },
+    {
       "id": "6e5d2122381c",
       "title": "Autismo pode ser um efeito colateral da evolução do cérebro humano; entenda - CNN Brasil",
       "published": "2026-08-22T06:40:49+00:00",
@@ -338,18 +374,6 @@
         {
           "name": "CNN Brasil",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaGtuWHo3QnNIUkVrcFo1TGc1bkVuR0tCODZhMk5uR2VGWUN6WXUzWERZcXFrbVB2Vm56WDRLSWRMMGxOa0FaZVV6amMxcmFEQ21lYktYbzl1NzFDMXJHMk9QZUh3dnMwNndQY21aVnV1Q1AzOTNHeVp1cnpkRlQ1U2pQUGwwZXp6cVJ6N3RyQjFZajdlZ3BMc2RwZlhYY2tYRGRmX3R1ZW8wcERZWEo0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "362dc0fdedcf",
-      "title": "“Síndrome do Coração de Fim de Semana”: entenda perigos de hábito - CNN Brasil",
-      "published": "2026-08-22T06:33:59+00:00",
-      "summary": "“Síndrome do Coração de Fim de Semana”: entenda perigos de hábito&nbsp;&nbsp;CNN BrasilSaiba a importância do respeito aos limites corporais em exercícios de alta intensidade&nbsp;&nbsp;R7Treino seguro: saiba quais cuidados tomar antes de iniciar ou aumentar a intensidade dos exercícios | Belém | O Liberal&nbsp;&nbsp;O LiberalCâimbras durante exercícios exigem cuidados antes e durante a atividade&nbsp;&nbsp;G1Atleta de fim de semana: risco cardíaco e como treinar com segurança&nbsp;&nbsp;Terra",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZnY0azhYMDJjazQzVzhBYzZmcncydEZ5bU1NR015MjFaWk9mbV9EZ1FpT216dmhPbmREWThqVF9Ta2R0RWFDM3B0d3RYXzc0OFZiZENHTVRQUkJGMlAzQkJkQW1OTk9LRGJrcjhzeDBDTFNLMFIxSWE3LWpNcUdmNk5Sa3RpMTNxUkVJNjRqQkp2bDctV3draWZ1bnRUeUk?oc=5"
         }
       ]
     },
@@ -369,7 +393,7 @@
       "id": "1639ddc3c3f0",
       "title": "Câncer leva homem a descobrir síndrome genética: “Achei que era o fim” - Metrópoles",
       "published": "2026-08-22T05:00:00+00:00",
-      "summary": "Câncer leva homem a descobrir síndrome genética: “Achei que era o fim”&nbsp;&nbsp;MetrópolesA herança invisível: como a genética salvou uma família do câncer de tireoide&nbsp;&nbsp;Rádio ItatiaiaCâncer no DNA: teste genético no SUS muda prevenção e tratamento&nbsp;&nbsp;Estado de MinasMutação revela câncer hereditário e muda destino de família&nbsp;&nbsp;Aventuras na HistóriaA herança de um gene: como uma família quebrou um ciclo de câncer&nbsp;&nbsp;Correio Braziliense",
+      "summary": "Câncer leva homem a descobrir síndrome genética: “Achei que era o fim”&nbsp;&nbsp;Metrópoles",
       "sources": [
         {
           "name": "Metrópoles",
@@ -378,14 +402,14 @@
       ]
     },
     {
-      "id": "cf24a5e7a61b",
+      "id": "400224312771",
       "title": "Creutzfeldt-Jakob: por que a doença é tão rara e difícil de diagnosticar? - G1",
       "published": "2026-08-22T03:00:41+00:00",
       "summary": "Creutzfeldt-Jakob: por que a doença é tão rara e difícil de diagnosticar?&nbsp;&nbsp;G1",
       "sources": [
         {
           "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLUJqSGw5SGM5UlV5ZEpmcU5wdjFOMUw0eVhORzFTZXNWeXlxVk82NU5DV254aGRyeXpZckVrX0FiaTduWG4tQ1JLSFNrcnphY3VialhkMGtIR3hJc3Rua0Y5UFBYajZrVlFYd1BFZFY1NVdwN2wtSDZEX0ZQYUJNVi1wS2x2N2lhN2JjaXk3Y1RhMjZVUVdpV0psSQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLUJqSGw5SGM5UlV5ZEpmcU5wdjFOMUw0eVhORzFTZXNWeXlxVk82NU5DV254aGRyeXpZckVrX0FiaTduWG4tQ1JLSFNrcnphY3VialhkMGtIR3hJc3Rua0Y5UFBYajZrVlFYd1BFZFY1NVdwN2wtSDZEX0ZQYUJNVi1wS2x2N2lhN2JjaXk3Y1RhMjZVUVdpV0psSdIBqgFBVV95cUxPR2lNX05iVTFsb0RWWjFTWEJzTlZZV2UwbUI5MDhLR3UtelBpZVdXRjE5UXBLOUItTDZ2Z1d0Z0V1Mzh1NVhkRWtvNVZ4dE1IanVhQUJNLUJoVnpsVGZHYlJfeDRocExFMzN4Wk4ySHdzUlFXM21FYlVlU25BZW1GSlVrb0ZtTncxam9zeGd2dktleGNwa1ZRYnRfMVJoYmM0OWpzRkJYVnE5QQ?oc=5"
         }
       ]
     },
@@ -393,23 +417,11 @@
       "id": "b527a51bca74",
       "title": "Vacina Pneumo 23 foi liberada para todas pessoas acima de 58 anos nos postos de saúde do SUS em todo o Brasil? - Boatos.org",
       "published": "2026-08-22T01:14:17+00:00",
-      "summary": "Vacina Pneumo 23 foi liberada para todas pessoas acima de 58 anos nos postos de saúde do SUS em todo o Brasil?&nbsp;&nbsp;Boatos.orgSaúde de Goiás desmente informação sobre público-alvo da vacina Pneumo 23&nbsp;&nbsp;A RedaçãoPrefeitura de Manaus alerta sobre falsa oferta da vacina Pneumo 23 para maiores de 58 anos&nbsp;&nbsp;Amazonas1Falsa informação de oferta da vacina Pneumo 23 para maiores de 58 anos&nbsp;&nbsp;Prefeitura de ManausSecretaria de Saúde de Montes Claros desmente informação sobr",
+      "summary": "Vacina Pneumo 23 foi liberada para todas pessoas acima de 58 anos nos postos de saúde do SUS em todo o Brasil?&nbsp;&nbsp;Boatos.orgFalsa informação de oferta da vacina Pneumo 23 para maiores de 58 anos&nbsp;&nbsp;Prefeitura de ManausSaúde de Goiás desmente informação sobre público-alvo da vacina Pneumo 23&nbsp;&nbsp;A RedaçãoPrefeitura de Manaus alerta que notícia sobre vacina Pneumo 23 para idosos é falsa&nbsp;&nbsp;Portal do HolandaSecretaria de Saúde de Montes Claros desmente informação sobr",
       "sources": [
         {
           "name": "Boatos.org",
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORnp4T0xITmFmaXdWa0N1eGJTbDF3WUNsc2RMM0dxbmZfVmNVMmVTUEJGNkM5MUhoYm10VDFlTjk1Z0J0TFlkUy1pVVBVc0tsRGdJOHhackJGZ1JtLTM5Y0dIakJscWdrMFZiS1FsVi1uT1h3eHVXTG1JbWRsZEdRS3BITExvNDNscnlwdFlNMU8waXpfekFUSkZ3aG51UXItc25udnpYY05HRVJfSmxJaUVXYXJDZ0o5R2lVY2tEZ0FHM0Z3Y2RldFUtVkN5cU55TDVRMVdUNTgzWUU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f09e24be183a",
-      "title": "‘Receita genética’: por que tecnologia de vacina em testes é aposta para tratar câncer no futuro - Estadão",
-      "published": "2026-08-21T18:31:00+00:00",
-      "summary": "‘Receita genética’: por que tecnologia de vacina em testes é aposta para tratar câncer no futuro&nbsp;&nbsp;Estadão",
-      "sources": [
-        {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN1p2czhhMmxCTWtwOFdOemZTQUZyT3RXN3JkRWVzaEloaVY2ZWJkT2tMc3RLVXlVVWlQRGpDbFdnOHVYRnlZWVdEWk9aeXU0Ul9jd1lITXJsVWhsZjBPbnJOUFhwWnVYaDItLXgwZ0dteXBrMmYyTGswQlZmd2ZLblRFQ3pLX3FVNm5TbUZDVXFoZE9pZ0hOX2ZPN0VfeHVBcVduR1dWRFQxT2QxMWEtX0tCUGlYRUtWVjU4R2R1djY5SUdpZE5sRtIBzgFBVV95cUxNRE5KTHVmZXprNWhqaUhOV0dYcTNnb3VOdDhLOEVLTlhtaVZlVVBEVkxvdW9JVW1xRkVzY2RYWVh3cTdqR2J6N19oRmwzRkI2OHRyeUxMVTVfSnJwMUZheENKSThHdmJGbVV4ZVljWE5reV9JZXBKblJaUFpzZEh0dmxkRGFCQ09zdlVwcGkyUVlFVUluYXU5YXN0eWpUS2VTX1p3QWVTRktzWmVsUTFObFpnVXFxX3BScE56SktVMFppQk02djU0N05zcDNNQQ?oc=5"
         }
       ]
     },
