@@ -1,10 +1,22 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-08-26T01:23:14.310764+00:00",
-  "total_fetched": 66,
-  "unique_count": 65,
-  "health_related_count": 29,
+  "fetched_at": "2026-08-26T06:51:48.514530+00:00",
+  "total_fetched": 69,
+  "unique_count": 68,
+  "health_related_count": 27,
   "news": [
+    {
+      "id": "6bc6d7e6e79d",
+      "title": "Psicologia do garimpo: Por que a geração Z encontra satisfação em brechós - Globo",
+      "published": "2026-08-25T20:53:21+00:00",
+      "summary": "Psicologia do garimpo: Por que a geração Z encontra satisfação em brechós&nbsp;&nbsp;Globo",
+      "sources": [
+        {
+          "name": "Globo",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVUg4UlhpbHltV1RORDA5WnNCTXI1N3pmT1RTZlVaT1NqRDRsNkJ4bjlCTEg2dm1lSS10dnVWQUtzRUZadmJsNGFLM2thVGdObldrMWZ2NmFnazQtdUJSdTNSMjA3QjlMLTZHTms0bGItSDU3X3JRZXpSaGhmLW5rWG9lSzZxQngzVG9xTFVRRXB4OVJ3Mk1abEwtRHlyZTdibElhWkZWQkpEVWlIek9MZG13T0c3aVdQU0dpb0VtMXNDZDDSAdIBQVVfeXFMUFlHQjFWRmJGemtScWtCTHJEQ0FfQjNrWHJPQS1JQUxkNmc2MUxWejdZTnd5RDdMSTN4TXpPLWtOQTNwUVc3MjBJVDBKcmxxTi1mOTZzNG1IclZkY1JIa0Fuem9FYy1YdXNuWms2VmtJdEJFbWVnaDRmOWctclRZYkwycll5aWVFUXhFTUcxWk9mX1FFZkd6MmZHVUw1VWtFUmgxOGp4Z2VUWkVjUjlwSl9hUTMwTXEzdzJBZXlsdVUxT3dJdEQwLUtjc2N0dDJ0MTdB?oc=5"
+        }
+      ]
+    },
     {
       "id": "39fd34f2504a",
       "title": "Filho relata drama de perder pai para Creutzfeldt-Jakob - Campo Grande News",
@@ -18,14 +30,14 @@
       ]
     },
     {
-      "id": "d168df9cd3ef",
-      "title": "AIT: Sintomas Temporários Podem Indicar Risco de AVC - Terra",
-      "published": "2026-08-25T19:55:50+00:00",
-      "summary": "AIT: Sintomas Temporários Podem Indicar Risco de AVC&nbsp;&nbsp;Terra",
+      "id": "61ae9246c950",
+      "title": "Depressão sazonal: o que é, quais os sintomas e quem tem maior risco de desenvolver o transtorno - Portal Drauzio Varella",
+      "published": "2026-08-25T18:06:18+00:00",
+      "summary": "Depressão sazonal: o que é, quais os sintomas e quem tem maior risco de desenvolver o transtorno&nbsp;&nbsp;Portal Drauzio Varella",
       "sources": [
         {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNa3Z5UE93aFBYS1pnMnpOTTA2SXByaTJyVm1mWmJoT19xR3BBd2lPYzBoZVMzNF9RMVNxZl9YX2hEYVJoUjNpYzR3NVNBRWlSbGp5OWVvOHJ4OFV6bDZEUlROS0s0YkRLcFRCaG1WYTVGazV0UmtwM1B5OGN5VkQwYXpqSnpKeG5UZWY4REdta0RrT2VZS3JUOU9OSUVDaGdOMThEUGxHak5Rcm94aUg5Nmp5aEV6aWVVYThwQi1rZTFDMG1JNHd3b2pPalJ0MUNtWndUQ1VoVndPZw?oc=5"
+          "name": "Portal Drauzio Varella",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVjV6c3l3OVdiazNYamEzd0pnSnJoZ19PT1JSeVlQeEM0cUIyN3dXUjQ0dWU5Z3Q1TlJSZ0hIM3E0M0l1U3lkaVVGRTg1a3Azc0FZV195N3QxZFRCRmNLNFlObm4zaGVUR1VwQ1dDQmEySDZaZG9ESnNnM2tIYnBJN1RpQW5ESlRxekZQa05WMFE1UjNHdkZDSnEzQlY4bkI5bnhfdTFQNFJXbnVFVlZBZ3N6eThjMDFWNmgtLW5VSkdUV3U0RXN6dEVNWllYUXNsQXZEalFiNkVHQQ?oc=5"
         }
       ]
     },
@@ -42,14 +54,14 @@
       ]
     },
     {
-      "id": "52c0c8a8ca0d",
-      "title": "Cientistas criam Onlyfans para financiar longo estudo sobre marmotas - Metrópoles",
-      "published": "2026-08-25T17:13:00+00:00",
-      "summary": "Cientistas criam Onlyfans para financiar longo estudo sobre marmotas&nbsp;&nbsp;Metrópoles",
+      "id": "38febebbd9a0",
+      "title": "Febre do Nilo Ocidental: Ministério da Saúde investiga caso provável da doença em mulher de 35 anos no PI - G1",
+      "published": "2026-08-25T16:37:11+00:00",
+      "summary": "Febre do Nilo Ocidental: Ministério da Saúde investiga caso provável da doença em mulher de 35 anos no PI&nbsp;&nbsp;G1Febre do Nilo Ocidental: 8 perguntas e respostas sobre a doença que teve casos confirmados no Brasil&nbsp;&nbsp;BBCFebre do Nilo Ocidental: casos registrados em SP e SC podem provocar uma epidemia no país?&nbsp;&nbsp;O GLOBOPiauí investiga caso provável de Febre do Nilo Ocidental em mulher de 35 anos&nbsp;&nbsp;CidadeVerde.comFebre do Nilo Ocidental no Brasil: casos em SP e SC c",
       "sources": [
         {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVTI3SEZVWlVnSXI3bEVWQ3JnWVJ6d0V0M2p3RHk3d0hZcXdxVmpIRjhwbV9PWEwwYkRubUYzal9DSVZqWGR3RVhROEJQNWxtdVJ1ZFZ5eGNfbXV3aFY5VVlIU0o1Wi1yd05VVUlieUxpV2c1ZmxPbmtFanQtNVplNFVYLWQ0TkxMVG5uMUFQd1UtN25xY3RsajFlX29fTnJEdTA0UlFn?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qLVRzbDJrTGZ0TzExTHJSbWJfcElJb0JuVWFvV2VJVEZvUThPV0lvdTFCd3p0Q2hCekVQWUhSLXNnVlFKOVdHaTFsS2dGUzlnQ0pWZDFCbEEzR1dBdDNoTjdjeC1TWWkwLXEtVEhaR1pGcU9mNjYyNnZhSdIBigFBVV95cUxOdWpRYnRfNkhCV0VILS1WRjA5MmJTQkl3YWxEZmxaZzd4TlJ2aWRoQUdzS0JJa1pDeTZsbXBnQThvclFTdzkyQXU0dEhtcWM5SzBKOWNvTjdzd1VWam1yTGJNRFZRUkhIRWR5alF4bll4SjRJUTVrZVZqNXRyUlNmTlFENXRsS0VVSHc?oc=5"
         }
       ]
     },
@@ -81,7 +93,7 @@
       "id": "09e76edf75ae",
       "title": "Pensilvânia registra primeiras mortes por sarampo nos EUA este ano em meio a avanço de surto - UOL Notícias",
       "published": "2026-08-25T14:33:07+00:00",
-      "summary": "Pensilvânia registra primeiras mortes por sarampo nos EUA este ano em meio a avanço de surto&nbsp;&nbsp;UOL NotíciasSarampo mata duas pessoas não vacinadas em meio a recorde de casos nos EUA&nbsp;&nbsp;O GLOBOO que se sabe sobre o aumento dos casos de sarampo nos EUA&nbsp;&nbsp;TerraSarampo: Estados Unidos registram primeiras mortes de 2026&nbsp;&nbsp;VEJAEUA registram 2 mortes por sarampo na Pensilvânia, diz departamento estadual de saúde&nbsp;&nbsp;InfoMoney",
+      "summary": "Pensilvânia registra primeiras mortes por sarampo nos EUA este ano em meio a avanço de surto&nbsp;&nbsp;UOL NotíciasSarampo mata duas pessoas não vacinadas em meio a recorde de casos nos EUA&nbsp;&nbsp;O GLOBOO que se sabe sobre o aumento dos casos de sarampo nos EUA&nbsp;&nbsp;TerraSarampo: Estados Unidos registram primeiras mortes de 2026&nbsp;&nbsp;VEJAEUA relatam duas primeiras mortes por sarampo este ano, ambas de não vacinados&nbsp;&nbsp;R7",
       "sources": [
         {
           "name": "UOL Notícias",
@@ -98,30 +110,6 @@
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYlNYdGdOZEZlc1ZQaDNReTN5RVZNeXlfZDA0SFJTaFVXY09fb0ZIdUExcFZRdzY4WkYxOTZNTHZLT3NoRWlOQzFEN1RweE1qc3luOUpvYW51TFk3NHdYVjB1VE9fekpmdTY0VHd4R1NEMEo0cHhZM3dULWFCUjZZLXlOdHlnZXJGekdjajdEQTYzRmxPcDJod25rVGlhdlBXa2hsY0lNRnhUaFFDSkRGQ245eWM0b1JWZG5JTk92aEd3SW1EdVM1R0s1NGU5R2ZqbGc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f000fe1ad517",
-      "title": "Febre do Nilo Ocidental: os 8 sintomas sintomas mais conhecidos da infecção que atinge SP e SC - O GLOBO",
-      "published": "2026-08-25T11:53:54+00:00",
-      "summary": "Febre do Nilo Ocidental: os 8 sintomas sintomas mais conhecidos da infecção que atinge SP e SC&nbsp;&nbsp;O GLOBOVeja tudo o que se sabe sobre a febre do Nilo Ocidental, que tem quatro casos confirmados no país&nbsp;&nbsp;Folha de S.PauloMinistério da Saúde investiga Febre do Nilo Ocidental em mulher de 35 anos no PI&nbsp;&nbsp;G1Febre do Nilo Ocidental no Brasil: casos em SP e SC confirmados em 2026&nbsp;&nbsp;Gazeta do PovoO que é a febre do Nilo Ocidental? Especialistas tiram as principais dú",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZE5jeUwtdFI2cFdfNTVXUFNzcDRLRkkzTElsNTZ4bHdfS0JLcjFUallTRGFNcGlqZW5sLTJnYllob1l0ZnFUdXZGVXYwRGRhY2dXb3dETHpVSEhSOFF1MHJEazBxRGlCWWFoNEl4dHM1RUpJTXFrSVlwbzc2VjVvN2loS1lKM0l4SEY1LWh5dnB2djRENkZ4QVNieGh3dkQwamVud2hIOUpGUjdaT0lOUmpJWFIwNFZOYkVnY3dyU1Vvbi1keWxFMXJxQVEyaXJiWHBndzZmLTd0dHgwZkp2Y3g3NNIB8gFBVV95cUxNVzZTeWdlNXVRdmhISjQ2RklUdUliMGI4WmJuc01rNWJCNDl6SEx6am1kd0Y1TWoxbWdLN09HdVZrT2g1dHI5RUhhUFV2UzVxTkRjU2tmZzFVNjY2cjVjUnlvdGJESS1EWTIyUklUY2Uyck5CYUpaMzRtbHpHd2Z1T1JPYnJJRVlaX2J2N1VDUzJTb05jY3drZENnMmZzNkN5dHJSbFBpYkxEOGI0V2tZMzNYX1owcTQ2VUpVSU9wNzNWc2V4eGx6T2V6bUtVeWswekllaENiZ3o5ZW04ZUNHZkJMTlVhTmh2aHZBVVAxcGFPQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d95bc422abc6",
-      "title": "Avanço contra a seca: cientistas argentinos descobrem como uma bactéria pode proteger plantas - Meteored Brasil",
-      "published": "2026-08-25T10:06:00+00:00",
-      "summary": "Avanço contra a seca: cientistas argentinos descobrem como uma bactéria pode proteger plantas&nbsp;&nbsp;Meteored Brasil",
-      "sources": [
-        {
-          "name": "Meteored Brasil",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcmMzQzJUN194b3pHbjlCMzgtaWF5ZWVxSUtwNm4yemFnaHlxcXNHM2h3SGNERzBVZ3pfM0FNRl9aVlZtQ1dnVjAtUVpRelhuSFlfNHA4VVBFTmNqc3BxYXJJY1pKdTdWSWFJc3pCMUx2bE5TRWxQUmRRWlpXOS1Zc3pHLWZvYXdDQlRLWjRmZjM5R2dPNnl3YUZSZGRwVU1uZ1dDLUZsTWZ6Z0c2YVA3NDIzaDFrWTlKNUZLbE9CdnhRaFNDa1F3dDhsZm92V19vSkZWV0tNMA?oc=5"
         }
       ]
     },
@@ -150,6 +138,18 @@
       ]
     },
     {
+      "id": "9135b1192ca4",
+      "title": "A psicologia revela que crianças com menos de 1 ano de idade que dormem com os pais podem apresentar essas características no desenvolvimento - Portal 6",
+      "published": "2026-08-25T06:41:47+00:00",
+      "summary": "A psicologia revela que crianças com menos de 1 ano de idade que dormem com os pais podem apresentar essas características no desenvolvimento&nbsp;&nbsp;Portal 6",
+      "sources": [
+        {
+          "name": "Portal 6",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNY3VxbHFfQWI0N3NmS2ZxUTRLTkVzcTNDOFpyVF9Cc2tiN1pOeGpOQ0k1UTdPYUJMWGJYNHZiR28tZTBfakhESnJXWGxVeWlyUF81TnJ5ZEdlX2NESXBvWXFuTVVOaHFpc293MlpsZHB5UTYxall1bHBLXzd0RzdNODVtbUN0bVJza1lQb0x2RU9SNHljREhNVHg5MnAwZkxkMXNGT1JpT2xLb2Qxb2RHQjRVcE5mQWtSOURFQkNvSm1xRXNaR3RuNExqSTBLdGM1Ul82TkdBSl9YbXY1eFM4anFFQzM1bDlrcTJRVW1qX05SSkdDTU9VRUowUzE4ZkdCMlE5YnIwWQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "20a340f687f8",
       "title": "Doença de Peyronie: condição no pênis pode curvar e encurtar o órgão - Metrópoles",
       "published": "2026-08-25T05:00:00+00:00",
@@ -174,6 +174,18 @@
       ]
     },
     {
+      "id": "42cdf6a45e3b",
+      "title": "Nova espécie de “cão-urso” é descoberta após 16 milhões de anos e revela um predador pré-histórico desconhecido pela ciência - Super Rádio Tupi",
+      "published": "2026-08-25T01:04:46+00:00",
+      "summary": "Nova espécie de “cão-urso” é descoberta após 16 milhões de anos e revela um predador pré-histórico desconhecido pela ciência&nbsp;&nbsp;Super Rádio Tupi",
+      "sources": [
+        {
+          "name": "Super Rádio Tupi",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaURpZWx6enlNTS1kTTlwRWNVbndGSUxDZWRDN1ZHQ24td3VtYzNfR19DN3FkSkhZb2ItMi1NWjJlUTVyeUZtTG5YUWVNUnJDaElWOG84WFdZaEtXRlJkcmFCWjNUdnN3TVViNHVLSElXSXdrSU15YldIVWc5ZWEyOHVIaXplOUxzdXZoOWtwaUlRdzFnV1B5UjNuaEc2bVNBZVV6ZU16VldJRGthZ19rT0ZXZVc0NjhWZUZadUpQNWRTYTc1WURmRmRTX0VSRXQwMVlRM3VIaEhGbHh5TVFFM0wtNA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "29825ec714f7",
       "title": "Quase na velocidade da luz cientistas recriam um mini Big-Bang colidindo partículas primordiais para criação do Universo - CNN Brasil",
       "published": "2026-08-25T00:03:51+00:00",
@@ -194,18 +206,6 @@
         {
           "name": "Diário do Litoral",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPck5oX0o2bnNYdkJaQm5BLW1RUHBqUWJMOXZlaV9QZzFWbC1OSmpGUlRhMlR1Q2lobkNKb2RRZE1md2lLT3lCbWVWS2tBODUwSVR3MkZZWGdpYzNQZTJYd2dzWW9XYWt1aUlQZld5cll3aUdiMVlmcy1CdVFfQ2FQeUZJMGRmdVczYURjRnZ2TTNBWE5JTFpORlpwcFhNYXZSZzhRS0ZUenR3SHU0Q3QxOEtMTUdPYTJ1XzV5SzE1MjlkREY5RmtSTk9jZTlaUFFyb3FvQ2hsb21jZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0b78941e88e2",
-      "title": "Ela passou mal no vestibular de Medicina; 10 anos depois, é médica em Santos - A Tribuna",
-      "published": "2026-08-24T20:15:00+00:00",
-      "summary": "Ela passou mal no vestibular de Medicina; 10 anos depois, é médica em Santos&nbsp;&nbsp;A TribunaVisão dupla, tontura e mais: veja os sinais iniciais da esclerose múltipla&nbsp;&nbsp;UOLNeurologista do Hospital Santa Izabel afirma que pacientes com esclerose múltipla de surto-remissão costumam não procurar ajuda médica&nbsp;&nbsp;Rádio MetrópoleEsclerose múltipla atinge mais de 40 mil pessoas no Brasil; conheça os sintomas&nbsp;&nbsp;Costa NorteSimpósio sobre esclerose múltipla trata de informaç",
-      "sources": [
-        {
-          "name": "A Tribuna",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSWl1ZVd2bkJrVjJkbTZDWXp0elh3eXdOQWo4OU9BN0RGaUFYSEgwRDdPaDVHRFh0aFVGWWdIRXN0ME01QnZ4WWtyNEhJeEV0V0hIV0tmTkppWXZvYVBSNWljQl9qcTEyQWwyVFhmbkR2UENjNktsam5PbXJaajQyMldxamtWckJZcGpneGJkYkZPQjRyaWFoUWYyTWNtRW43WUUxR3hPSWd4WG1zTVE0dlRUa1dfTnJtU3M4cTNsdDZRcVB4?oc=5"
         }
       ]
     },
@@ -270,18 +270,6 @@
       ]
     },
     {
-      "id": "da1bf9662326",
-      "title": "Pouco ou muito sono se liga a envelhecimento de 17 órgãos, mostra estudo - UOL",
-      "published": "2026-08-24T17:42:32+00:00",
-      "summary": "Pouco ou muito sono se liga a envelhecimento de 17 órgãos, mostra estudo&nbsp;&nbsp;UOLDormir demais ou de menos acelera envelhecimento, aponta estudo&nbsp;&nbsp;Extra onlineProblemas no sono aos 40 anos podem aumentar a chance de Alzheimer aos 80&nbsp;&nbsp;CNN BrasilPadrões de sono podem revelar 'idade cerebral' e indicar risco de demência, aponta estudo&nbsp;&nbsp;TerraDormir pouco ou demais pode acelerar envelhecimento dos órgãos, revela estudo&nbsp;&nbsp;Folha do ES",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUXZnS1BVWWF1R3RFc3daOXV0WVRSaFVLbGJzZEF1cFpFOHNkYlN0UDZsMjhKeWZ5QUVDMG5tdHZqa3NvT25CSmtfUl9pVTlJWkRhYlBqQjdTeWNaTGowNUxGTEYwbDJ1NUpRcndGd2FhYUk0MnJ0OGZ3MHNpd1Y2VXFvZ2JyUjFDZlFSRzR4UXZYckFWU0FNb3cxeEdBWk4xUVF6SExtek5VaHBYeVk0RGl6V1kxd0JZd3JvZnlR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c45cbe190386",
       "title": "Novo estudo revela idade em que o jejum intermitente pode deixar de ser eficaz - O GLOBO",
       "published": "2026-08-24T16:42:55+00:00",
@@ -338,18 +326,6 @@
         {
           "name": "Estadão",
           "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWkNoZ2h6QUpTaVZURE9uQVpZR0p2Qk5JcHdKNXZGWk9HWXN0UnNhVThFWUExU3AyQ2xhYVRfdnBaWXlNR190TXh1Y3JLVG55Rk5xZEpUak9MT1V6eXhXYUlvU256dTlnd2pSVGVlYktCV1BXdDRQSEJqTkkxTG1yTjkxaGYxRGNscXJYVXpjWjBnbmhvbEN3dW5Qc3ctS1lUbVhoRUtOVlRaUEdNNF9HVWt4blgwVy1QWTZNRE5xR1VOTFh1THZ5VGhUcjRuYzZWVDJUaWxTRDhuVWxO?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2e16126f8f3b",
-      "title": "Vírus letal reduz em 83% população de pererecas em reserva da mata atlântica - Folha de S.Paulo",
-      "published": "2026-08-24T08:00:00+00:00",
-      "summary": "Vírus letal reduz em 83% população de pererecas em reserva da mata atlântica&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOby1wa3gta1JJUDhtQWVuSWtpWXlMRy1nRDV0RkxHbjV4dmF1UkxNY1R1NjdvLWUxblB0ckhGUXhSRXJPeFRuSEdiZFBYWDFqVF9pMThpQzJ2dGZac0YzM2lJUGl3MXB1UjNqaUxDZUdDNFMxZGxFSl9GSnN0alpJS0c3WWJyRU9TWFdYNTlmMDNLMlJvSWIzRW1MdFFUV19xWDk3eGkzMndDeDZ2RDRxcWV4cjlfTkIxQVpQVXlHQ0NqdWIxUkxR?oc=5"
         }
       ]
     }

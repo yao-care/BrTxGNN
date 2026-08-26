@@ -1,7 +1,27 @@
 {
-  "generated": "2026-08-26T01:23:15.194736+00:00",
-  "count": 32,
+  "generated": "2026-08-26T06:51:49.505926+00:00",
+  "count": 29,
   "news": [
+    {
+      "id": "700f3c5ba928",
+      "title": "Foguete que pode fazer 1º lançamento orbital do Brasil avança para receber 'Carteira de Habilitação' - CNN Brasil",
+      "published": "2026-08-26T01:39:30+00:00",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOc1JYMjExdjFtV2dnZUxCcVdoalNfb1UzV000NklGdHdXSVEyZUZUQzNfeUxuWTc3akxFblEyajNxWVJNTDB6ckdHTU0wX1BJT291NGhTbnFkWXJhcGVod2xiVXpOLUtOX0lrR3FLQS1wZHZBeGJWcWxZM0hQU09KRVJ2RHBMMjBCc1h2S3M5bjBSdEtubXBFcUUtOTBzU1ZmUWNFUDFHOGoyTzRYZklWbXJCSlZSdm1lbHA4QTJ4Q3liWUFtOThFbjBFUUwtdw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
     {
       "id": "1182d7e0d438",
       "title": "Oceanos batem recorde histórico de temperatura e Super El-Niño deve elevar níveis a 'nunca vistos', alerta Copernicus - CNN Brasil",
@@ -46,30 +66,6 @@
           "keyword": "SIL",
           "name": "SILODOSINA",
           "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
-      "id": "d168df9cd3ef",
-      "title": "AIT: Sintomas Temporários Podem Indicar Risco de AVC",
-      "published": "2026-08-25T19:55:50+00:00",
-      "sources": [
-        {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNa3Z5UE93aFBYS1pnMnpOTTA2SXByaTJyVm1mWmJoT19xR3BBd2lPYzBoZVMzNF9RMVNxZl9YX2hEYVJoUjNpYzR3NVNBRWlSbGp5OWVvOHJ4OFV6bDZEUlROS0s0YkRLcFRCaG1WYTVGazV0UmtwM1B5OGN5VkQwYXpqSnpKeG5UZWY4REdta0RrT2VZS3JUOU9OSUVDaGdOMThEUGxHak5Rcm94aUg5Nmp5aEV6aWVVYThwQi1rZTFDMG1JNHd3b2pPalJ0MUNtWndUQ1VoVndPZw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "AVC",
-          "related_drugs": [
-            {
-              "slug": "digoxin",
-              "name": "DIGOXIN"
-            }
-          ]
         }
       ]
     },
@@ -131,6 +127,73 @@
           "keyword": "FAR",
           "name": "ZIDOVUDINA",
           "url": "/drugs/zidovudina/"
+        }
+      ]
+    },
+    {
+      "id": "b92c20ddadaf",
+      "title": "Casal norte-americano se muda para Tavira e descobre na comunidade local o maior tesouro - Rádio Itatiaia",
+      "published": "2026-08-25T17:42:01+00:00",
+      "sources": [
+        {
+          "name": "Rádio Itatiaia",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbWJZMXNoSi12ODhhTHpTalQ1d1N0UGFwZGZvUVhyV3JzdHJfYmtzZ1VIR0wxNFVkdHNtTjIyZjZobzdDOEx6d1FmRnRTQ0ZwLUFVSXdNbWJUV2tGbTR3dDZDYWZ4OEZ3d0pfM0dURE1hLUFJVFlqejA2My1RRmVPRzBIUzFlZTd1SmxvTTRKWmtjQUxtejJETEdseERzT1duZl93ODBsOWszc2g4cW04djZIWGlqd0FkMWRNOXp2cGl5dw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "diazepam",
+          "keyword": "UNI",
+          "name": "Diazepam",
+          "url": "/drugs/diazepam/"
+        },
+        {
+          "type": "drug",
+          "slug": "zinc",
+          "keyword": "UNI",
+          "name": "ZINC",
+          "url": "/drugs/zinc/"
+        }
+      ]
+    },
+    {
+      "id": "38febebbd9a0",
+      "title": "Febre do Nilo Ocidental: Ministério da Saúde investiga caso provável da doença em mulher de 35 anos no PI",
+      "published": "2026-08-25T16:37:11+00:00",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qLVRzbDJrTGZ0TzExTHJSbWJfcElJb0JuVWFvV2VJVEZvUThPV0lvdTFCd3p0Q2hCekVQWUhSLXNnVlFKOVdHaTFsS2dGUzlnQ0pWZDFCbEEzR1dBdDNoTjdjeC1TWWkwLXEtVEhaR1pGcU9mNjYyNnZhSdIBigFBVV95cUxOdWpRYnRfNkhCV0VILS1WRjA5MmJTQkl3YWxEZmxaZzd4TlJ2aWRoQUdzS0JJa1pDeTZsbXBnQThvclFTdzkyQXU0dEhtcWM5SzBKOWNvTjdzd1VWam1yTGJNRFZRUkhIRWR5alF4bll4SjRJUTVrZVZqNXRyUlNmTlFENXRsS0VVSHc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
+      "id": "588986f4b19b",
+      "title": "Carlos Nobre: Como equilibrar produção agrícola e conservação de florestas no Brasil?",
+      "published": "2026-08-25T16:00:00+00:00",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbzJzTGpkd1ViaTVyVVV6aXdYUGdhNmpMOFFFQ3pvZjBhemozZU96N25mNXRlS0dtYzZUVWFXeUdaQW5FanZiclQzRlRIQjZSZ3pFMW1fT1JuTXd2MEExRFJzdHNLRlVDQ1BvLVlkbF9sZTBzOEV1QTAwUlZQMVd1a1dkV1VNYW1wR1BWYXFtYkFfUE1oNkRWQTl6bUxlLWpyZml6Z3poNERyaWZrOHZLTGV1ZHdnRzF4NVYtVVpn?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
         }
       ]
     },
@@ -588,26 +651,6 @@
       ]
     },
     {
-      "id": "ee35678120e0",
-      "title": "Por que uma formiga pode te ajudar a ficar melhor em tomar decisões",
-      "published": "2026-08-25T14:25:35+00:00",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVjQ2RTM2VFZCUkFZRXgxZ1puUGkyMkpaSmQzYXFyRUItR3JYTXNfSGEtRl9fTWozekJ4RExTU2pEbFFIcVc5ektLNU9INl9saFpfbWJXb0dhWnBJbENzMVFCZGlpOEwybFVERXdNdTBmRGFJUmpKSzBRN1FWbTJkNXBKN0M2MDF0bW9CVmdqeGRXUjZtVkxWQzBRNG5FSVRkNTlSSHpiYzNHdnBlVEtiYWgyM3pTR2x5eGZzVkVB0gHMAUFVX3lxTFBmWmZ5cWJ4VEZWX3FNeklLTk9YV3o1aXB5Mjg5cTlLUmcwOWkwVTdFaHRjVGE2dlNod1RiR29nVHRHWC1BQ0FwWnRFT012US1sclNPbkFlUWRscW1SNkhfUGE5YjZwaG1aUHVYU01PdnZ6U3d0S0JDX01Zc1RoTGRiSWNzQ1k2NkxwTjlIQzRmamVrZ3hqRkJ6VHROZ3JNdnJKTXBma0t5emtUcDJpd1ZicnhRLXUyS2JBdW1zOG1WZWJzcTNtdV92NkxjdA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "decitabina",
-          "keyword": "DECI",
-          "name": "DECITABINA",
-          "url": "/drugs/decitabina/"
-        }
-      ]
-    },
-    {
       "id": "2f74299272df",
       "title": "Sepultamento de acadêmica de Psicologia da Unipar é antecipado em Umuarama",
       "published": "2026-08-25T13:58:00+00:00",
@@ -662,33 +705,6 @@
       ]
     },
     {
-      "id": "f000fe1ad517",
-      "title": "Febre do Nilo Ocidental: os 8 sintomas sintomas mais conhecidos da infecção que atinge SP e SC - O GLOBO",
-      "published": "2026-08-25T11:53:54+00:00",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZE5jeUwtdFI2cFdfNTVXUFNzcDRLRkkzTElsNTZ4bHdfS0JLcjFUallTRGFNcGlqZW5sLTJnYllob1l0ZnFUdXZGVXYwRGRhY2dXb3dETHpVSEhSOFF1MHJEazBxRGlCWWFoNEl4dHM1RUpJTXFrSVlwbzc2VjVvN2loS1lKM0l4SEY1LWh5dnB2djRENkZ4QVNieGh3dkQwamVud2hIOUpGUjdaT0lOUmpJWFIwNFZOYkVnY3dyU1Vvbi1keWxFMXJxQVEyaXJiWHBndzZmLTd0dHgwZkp2Y3g3NNIB8gFBVV95cUxNVzZTeWdlNXVRdmhISjQ2RklUdUliMGI4WmJuc01rNWJCNDl6SEx6am1kd0Y1TWoxbWdLN09HdVZrT2g1dHI5RUhhUFV2UzVxTkRjU2tmZzFVNjY2cjVjUnlvdGJESS1EWTIyUklUY2Uyck5CYUpaMzRtbHpHd2Z1T1JPYnJJRVlaX2J2N1VDUzJTb05jY3drZENnMmZzNkN5dHJSbFBpYkxEOGI0V2tZMzNYX1owcTQ2VUpVSU9wNzNWc2V4eGx6T2V6bUtVeWswekllaENiZ3o5ZW04ZUNHZkJMTlVhTmh2aHZBVVAxcGFPQQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        },
-        {
-          "type": "drug",
-          "slug": "tadalafil",
-          "keyword": "CIALIS",
-          "name": "TADALAFIL",
-          "url": "/drugs/tadalafil/"
-        }
-      ]
-    },
-    {
       "id": "4b28c9f7a298",
       "title": "Delegada que emprestou viatura a marido volta a trabalhar depois de 4 meses afastada - O TEMPO",
       "published": "2026-08-25T10:11:58+00:00",
@@ -705,26 +721,6 @@
           "keyword": "TADA",
           "name": "TADALAFIL",
           "url": "/drugs/tadalafil/"
-        }
-      ]
-    },
-    {
-      "id": "d95bc422abc6",
-      "title": "Avanço contra a seca: cientistas argentinos descobrem como uma bactéria pode proteger plantas - Meteored Brasil",
-      "published": "2026-08-25T10:06:00+00:00",
-      "sources": [
-        {
-          "name": "Meteored Brasil",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcmMzQzJUN194b3pHbjlCMzgtaWF5ZWVxSUtwNm4yemFnaHlxcXNHM2h3SGNERzBVZ3pfM0FNRl9aVlZtQ1dnVjAtUVpRelhuSFlfNHA4VVBFTmNqc3BxYXJJY1pKdTdWSWFJc3pCMUx2bE5TRWxQUmRRWlpXOS1Zc3pHLWZvYXdDQlRLWjRmZjM5R2dPNnl3YUZSZGRwVU1uZ1dDLUZsTWZ6Z0c2YVA3NDIzaDFrWTlKNUZLbE9CdnhRaFNDa1F3dDhsZm92V19vSkZWV0tNMA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
         }
       ]
     },
@@ -1168,26 +1164,6 @@
       ]
     },
     {
-      "id": "7c67325c34d7",
-      "title": "Eclipse lunar 'quase' total vai encobrir a Lua de quinta para sexta; fenômeno poderá ser visto em todo o Brasil",
-      "published": "2026-08-25T03:01:13+00:00",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeFdleTBrUUl1T2tyWGJJTGhxaEZGSGlJQXRSeVJJcVptVmlvQk9qcjJGR0tBMFlHcEk2RnF4UElGc2U1QWNOZVp4d1U2X2FxdnJpS3Ewb2dieEY0ZTUyTG01QVN3aUZOYXBqTExmXzNpMHNHUXpLak8weEpTWmhfM3lTQ1RmWTBh0gGXAUFVX3lxTFBibHZPVDNjZFNGa3FyanNDeDR1WDZiVTBfZ05iamFzM0F4bTQtTFdkV2dPNVpJODFhc2FNZE9xMzR3U2J3V3FLZUdyd244TERlMF9kUU5zTW1yUXA5QnlwRnctUDA2dURLV2lhTjlJM3U4LVFhSE9OWFlRbk5ab214LXpGdFlMbU1lMXBMa0NXRGs5TmVjRVk?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
       "id": "29825ec714f7",
       "title": "Quase na velocidade da luz cientistas recriam um mini Big-Bang colidindo partículas primordiais para criação do Universo - CNN Brasil",
       "published": "2026-08-25T00:03:51+00:00",
@@ -1222,13 +1198,33 @@
       ]
     },
     {
-      "id": "0b78941e88e2",
-      "title": "Ela passou mal no vestibular de Medicina; 10 anos depois, é médica em Santos - A Tribuna",
-      "published": "2026-08-24T20:15:00+00:00",
+      "id": "e59f53a1c8a1",
+      "title": "Veterinários alertam: o gato que bebe água da torneira em vez de beber do pote não está sendo fresco, gatos preferem água em movimento porque na natureza água parada tem mais chance de estar contaminada, e a fonte elétrica para gatos reduz problem - Olhar Digital",
+      "published": "2026-08-24T23:07:00+00:00",
       "sources": [
         {
-          "name": "A Tribuna",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSWl1ZVd2bkJrVjJkbTZDWXp0elh3eXdOQWo4OU9BN0RGaUFYSEgwRDdPaDVHRFh0aFVGWWdIRXN0ME01QnZ4WWtyNEhJeEV0V0hIV0tmTkppWXZvYVBSNWljQl9qcTEyQWwyVFhmbkR2UENjNktsam5PbXJaajQyMldxamtWckJZcGpneGJkYkZPQjRyaWFoUWYyTWNtRW43WUUxR3hPSWd4WG1zTVE0dlRUa1dfTnJtU3M4cTNsdDZRcVB4?oc=5"
+          "name": "Olhar Digital",
+          "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQZEFxV3o0ZnFGbzBMRFVtUjZISWxvTjZlci1ITUJFQVBRWEwzY1Y3Zi13bVBPX3BRMFNqZmFtVDNva1hYampfdzJxS2lUem5QazVJcVhIMWlCS25jRTItZ0V1QXZ1V01seDlnVFR6MHEwOFRYX3E4UzRiMkVVdTIwSmtDOW01SU5WblBVXzd4bjBzcVF0b05hc3JWSHpIb0RTbEUxUWd0VFdySTNGZ095b0J2Q0p3elZOWVV2WEpLODR6VUU1aDhmYW4wZDduOWpyQlZyWHZNVWozWHozUG1Wb0xNTl9iYV9DT0tsRnJlWk1sbzJDUWFuZDhNUDlGQXZGVS05RmM3QjBoWWQ1WmJqT2tLWFNYY2JZenYzOVR4V2ZvNkY1YVZ2YVAtMHJ1VTZTYlhJQWtmbUJ1U1R1cjFFSENtbXVESTlYNDBZQmlIaUprd3AySGkzcXhYTVMxUkxvSDlaVnVNZnRycE0?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "levetiracetam",
+          "keyword": "TAM",
+          "name": "LEVETIRACETAM",
+          "url": "/drugs/levetiracetam/"
+        }
+      ]
+    },
+    {
+      "id": "0dcf59062594",
+      "title": "Aos 13 anos, jovem brasileiro conquista duas medalhas de ouro em Olimpíada Internacional de Matemática e supera disputa com mais de 3 mil estudantes de 37 países - Portal 6",
+      "published": "2026-08-24T21:49:08+00:00",
+      "sources": [
+        {
+          "name": "Portal 6",
+          "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNMkxkSEgwYm1oSm5rc0RVb09iSGNhSWZNWF9GSWRnMUxKOXNrQkZONmNpRkQzbWExNGRETzRyTEhaZWhaNW5VSjgxWTlfVDlwN1ZUWERTaXZBRXFsd1JNSnU1QnFMV1JWYWtqM3hiNFAxazhYeHRSeC1BX3dZT1B2b2N5UUNZVm1NNzNRaWNvZEJEZHRjQnctQVdSRlNJU2VwYS1Zem9USzlwclFKbUJGZ25yNHpTR3VNYVFlN2dTemFzSlNUUDhnNi1LWmZUZlFCMVhBSzU2WXh4cDRfUi1MejdoMmprU1NBQnBYdkNxMklSNkxXdXNUY183S1o4anZ2SkFIRXpZZk13RVNuVkI0RGVSZzVoQTZJSGl4N3g2QWw?oc=5"
         }
       ],
       "keywords": [
@@ -1819,69 +1815,6 @@
       ]
     },
     {
-      "id": "da1bf9662326",
-      "title": "Pouco ou muito sono se liga a envelhecimento de 17 órgãos, mostra estudo",
-      "published": "2026-08-24T17:42:32+00:00",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUXZnS1BVWWF1R3RFc3daOXV0WVRSaFVLbGJzZEF1cFpFOHNkYlN0UDZsMjhKeWZ5QUVDMG5tdHZqa3NvT25CSmtfUl9pVTlJWkRhYlBqQjdTeWNaTGowNUxGTEYwbDJ1NUpRcndGd2FhYUk0MnJ0OGZ3MHNpd1Y2VXFvZ2JyUjFDZlFSRzR4UXZYckFWU0FNb3cxeEdBWk4xUVF6SExtek5VaHBYeVk0RGl6V1kxd0JZd3JvZnlR?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        },
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "demência",
-          "related_drugs": [
-            {
-              "slug": "biperiden",
-              "name": "Biperiden"
-            },
-            {
-              "slug": "entacapone",
-              "name": "ENTACAPONE"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "albendazole",
-              "name": "Albendazole"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "c3dac7e20e8e",
-      "title": "Ameba \"comedora de cérebro\": entenda como parasita age e destrói neurônios - CNN Brasil",
-      "published": "2026-08-24T14:59:18+00:00",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTkR0VHRUaGF3VjFaY3pqWGRwUWx4VzFDeXFkVVZoSll1bE9FTE5na0hFaXRfckFpY25OSXV2OC1Sd1FZU2tPMjlxZzI1eTBxa0VITk5zRDFPRV84S2N2YVBzb19fS1hldEtTWVlKSDFKU3RxZGxjNlRUOEdmOEozWXdJSTRZS29DODhvcWlaRjBnNjdzTkpIY2NpdWNCUy04cmZidXVMY2VadDA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
       "id": "b7e68d681771",
       "title": "Idosa com Alzheimer morre após ataque de formigas em asilo nos EUA - UOL Notícias",
       "published": "2026-08-24T14:35:43+00:00",
@@ -2356,33 +2289,6 @@
               "name": "Methotrexate"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "32f2ead4a65d",
-      "title": "Expedição inédita vai mapear a biodiversidade do topo da Serra do Aracá, no norte do Amazonas - Agência FAPESP",
-      "published": "2026-08-24T03:01:41+00:00",
-      "sources": [
-        {
-          "name": "Agência FAPESP",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ3U2QkFtNmhOb2pxSFBsWGtVOE1GVGFFQVhVazlrOTU2RncyTFJjeGM0aW5MdmtseE5ZbG13R3pTZnpETW42Q2xjMTJPRk1fenhJcGVic251SlJoaFNpNXhnT0JPcmhfV3dESjhtRjVpZ0JsS3l2dzh2SWxBWFdUY2VxekV3U3p2eGwwM2RvUXRQV0RLMlVjQ0lVRWlEM1VIYUluWk1TT0Z3OTN5czdkZmtobzg5eGtza1pURlB6NDBvUQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "golimumabe",
-          "keyword": "BIO",
-          "name": "GOLIMUMABE",
-          "url": "/drugs/golimumabe/"
-        },
-        {
-          "type": "drug",
-          "slug": "etanercepte",
-          "keyword": "BIO",
-          "name": "ETANERCEPTE",
-          "url": "/drugs/etanercepte/"
         }
       ]
     }
