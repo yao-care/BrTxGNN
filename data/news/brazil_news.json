@@ -1,19 +1,55 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-08-25T18:40:42.810790+00:00",
-  "total_fetched": 72,
-  "unique_count": 71,
+  "fetched_at": "2026-08-26T01:23:14.310764+00:00",
+  "total_fetched": 66,
+  "unique_count": 65,
   "health_related_count": 29,
   "news": [
     {
-      "id": "42b6ed663897",
-      "title": "Lito Sousa não consegue acesso a tratamento experimental para doença de Creutzfeldt-Jakob - Folha de S.Paulo",
-      "published": "2026-08-25T16:08:00+00:00",
-      "summary": "Lito Sousa não consegue acesso a tratamento experimental para doença de Creutzfeldt-Jakob&nbsp;&nbsp;Folha de S.Paulo",
+      "id": "39fd34f2504a",
+      "title": "Filho relata drama de perder pai para Creutzfeldt-Jakob - Campo Grande News",
+      "published": "2026-08-25T20:28:00+00:00",
+      "summary": "Filho relata drama de perder pai para Creutzfeldt-Jakob&nbsp;&nbsp;Campo Grande NewsLito Sousa busca tratamento para doença de Creutzfeldt-Jakob e recebe negativas&nbsp;&nbsp;Gazeta do PovoDoença de Creutzfeldt-Jakob: como funciona o diagnóstico no Brasil&nbsp;&nbsp;Correio BrazilienseGoiás confirmou 36 casos de doença de Creutzfeldt-Jakob em 21 anos, mas nenhum ligado à “vaca louca”&nbsp;&nbsp;Jornal OpçãoDoença de Creutzfeldt-Jakob&nbsp;&nbsp;CartaCapital",
       "sources": [
         {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPLWZmcF9waGxFSmVuYnpsQkNRY0QyQ3ZyaUFEd3FEV0R4dlVQZEgtRGR3bnV1TGJWN1drME9KSUVldHJ0LUh4b2tpemlCWUVoUHdtUm1qV1dNVEpmVzBzeC1kSmQydWNrTnlXdjdzMjZpQlFFRV9nSmFXRXAyam5ITF9xLW04bGd3eEhTS09rYTBFNDJwV1VyWFhlc0tUYkZFakkxQUExSmtzbkhsYXIyNW5aOEt3UUhIOFRWQVh3cENSeld4akFzbTg4c25pM2pQdi1aY0FQSUtpTHhpUWVNd3RjQ0I?oc=5"
+          "name": "Campo Grande News",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUnV4UDJyZEQ5S3hCZDdqdThpY3JDbHR2bUxSVkQxN01wNzg5ajRjM0lCV1hkODJuQzhmalotRWQtUGVidU9PeW84WXdub2lQS2NFVE8wY3Jyd3BER3k2SThJczViVGV0VGtkd002dXhwZFRMdjNWajN3R05HbXhZWDJjRHV1bFB1Z3FPYkZZcmdIZ25ZXzZRbkxWSmVLOVg5MWJYRUd0UzVFenBXNEUyTWgtZ1E5cjFWVnByM3JyeUJqXzVueElqMdIByAFBVV95cUxQcE40OE52ZTNCR2NzSnZoMDF4cU80ZTB5eDdBQXl4b3hyelJ6RzF0X2RmczYzN2JIYUxRNHpac091aHE2RlRKWmpYWkVZNHdERUN0Xy03VVNsd194ai1BOTc1RTMzdlFPTElNa3ZPZXk4X0huQ3NJTXp3V0M3UU9sVmp2aWxVTDBJTnJiZS16ejNId3JWaF9VRzF4UHlHRFVuak9XSWNvOTUxX19yQmhjaU90T1J6Q243VGx0VHNoUEs4UjY5VGMwMQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d168df9cd3ef",
+      "title": "AIT: Sintomas Temporários Podem Indicar Risco de AVC - Terra",
+      "published": "2026-08-25T19:55:50+00:00",
+      "summary": "AIT: Sintomas Temporários Podem Indicar Risco de AVC&nbsp;&nbsp;Terra",
+      "sources": [
+        {
+          "name": "Terra",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNa3Z5UE93aFBYS1pnMnpOTTA2SXByaTJyVm1mWmJoT19xR3BBd2lPYzBoZVMzNF9RMVNxZl9YX2hEYVJoUjNpYzR3NVNBRWlSbGp5OWVvOHJ4OFV6bDZEUlROS0s0YkRLcFRCaG1WYTVGazV0UmtwM1B5OGN5VkQwYXpqSnpKeG5UZWY4REdta0RrT2VZS3JUOU9OSUVDaGdOMThEUGxHak5Rcm94aUg5Nmp5aEV6aWVVYThwQi1rZTFDMG1JNHd3b2pPalJ0MUNtWndUQ1VoVndPZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4f1e6edb18b5",
+      "title": "Ibuprofeno de 600mg não age mais rápido e faz mais dano ao estômago, alerta farmacêutica - Rádio Itatiaia",
+      "published": "2026-08-25T17:42:08+00:00",
+      "summary": "Ibuprofeno de 600mg não age mais rápido e faz mais dano ao estômago, alerta farmacêutica&nbsp;&nbsp;Rádio Itatiaia",
+      "sources": [
+        {
+          "name": "Rádio Itatiaia",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOWd6V2ZUVkRQSFpWdnNwMFZ0MzgwMHhfSUI3WFhKSDBwRWUzQXZCcGxvc3p1T2xWcnNWMGhoUU5mVWc0ZzhOZFpseXpkajRMcTBsS1paeEhfVWxOU2JhOUN5a0J2MEFEd00tYU1iSVRURmxDTGNzMmpkdEQtMUFtMk5CNTliOEhGVS1Nd3NVcGd3RV9ROUkwNS02WmNqTjRvNVVOREFPYVhjX3JidDFlWlU4MTVWVmUyekpsbE15QlE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "52c0c8a8ca0d",
+      "title": "Cientistas criam Onlyfans para financiar longo estudo sobre marmotas - Metrópoles",
+      "published": "2026-08-25T17:13:00+00:00",
+      "summary": "Cientistas criam Onlyfans para financiar longo estudo sobre marmotas&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVTI3SEZVWlVnSXI3bEVWQ3JnWVJ6d0V0M2p3RHk3d0hZcXdxVmpIRjhwbV9PWEwwYkRubUYzal9DSVZqWGR3RVhROEJQNWxtdVJ1ZFZ5eGNfbXV3aFY5VVlIU0o1Wi1yd05VVUlieUxpV2c1ZmxPbmtFanQtNVplNFVYLWQ0TkxMVG5uMUFQd1UtN25xY3RsajFlX29fTnJEdTA0UlFn?oc=5"
         }
       ]
     },
@@ -21,7 +57,7 @@
       "id": "9489ba77c250",
       "title": "Doze jovens da mesma cidade são diagnosticados com câncer - iG Último Segundo",
       "published": "2026-08-25T15:09:00+00:00",
-      "summary": "Doze jovens da mesma cidade são diagnosticados com câncer&nbsp;&nbsp;iG Último Segundo12 crianças da mesma vizinhança são diagnosticadas com câncer raro; entenda&nbsp;&nbsp;O GLOBOSarcoma de Ewing: entenda o câncer diagnosticado em 12 crianças do mesmo bairro&nbsp;&nbsp;terra.com.brDoze crianças da mesma vizinhança são diagnosticadas com câncer raro nos EUA&nbsp;&nbsp;Jornal Opção12 crianças da mesma vizinhança são diagnosticadas com câncer raro e acendem alerta&nbsp;&nbsp;Jornal Correio",
+      "summary": "Doze jovens da mesma cidade são diagnosticados com câncer&nbsp;&nbsp;iG Último Segundo12 crianças da mesma vizinhança são diagnosticadas com câncer raro; entenda&nbsp;&nbsp;O GLOBOSarcoma de Ewing: entenda o câncer diagnosticado em 12 crianças do mesmo bairro&nbsp;&nbsp;TerraDoze crianças da mesma vizinhança são diagnosticadas com câncer raro nos EUA&nbsp;&nbsp;Jornal Opção12 crianças da mesma vizinhança são diagnosticadas com câncer raro e acendem alerta&nbsp;&nbsp;Jornal Correio",
       "sources": [
         {
           "name": "iG Último Segundo",
@@ -42,10 +78,22 @@
       ]
     },
     {
+      "id": "09e76edf75ae",
+      "title": "Pensilvânia registra primeiras mortes por sarampo nos EUA este ano em meio a avanço de surto - UOL Notícias",
+      "published": "2026-08-25T14:33:07+00:00",
+      "summary": "Pensilvânia registra primeiras mortes por sarampo nos EUA este ano em meio a avanço de surto&nbsp;&nbsp;UOL NotíciasSarampo mata duas pessoas não vacinadas em meio a recorde de casos nos EUA&nbsp;&nbsp;O GLOBOO que se sabe sobre o aumento dos casos de sarampo nos EUA&nbsp;&nbsp;TerraSarampo: Estados Unidos registram primeiras mortes de 2026&nbsp;&nbsp;VEJAEUA registram 2 mortes por sarampo na Pensilvânia, diz departamento estadual de saúde&nbsp;&nbsp;InfoMoney",
+      "sources": [
+        {
+          "name": "UOL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNeFJKTGhFaTFSdFFMMVZoX0s2RGFBRkdxckdrblFxSk85WGpuSGstN2lHblRyRW5TYm5lRDEwMk5HeGlEWU5oRmJWU3kwLVEtckdyRXRDS1IxbGx4OWdpb0NYNlB3TUhqZGFkbmhIUVBpdC1PZThYOEJPMnhQMnVkazZrRm9wbE5JX1NsSEVrUmNHQnQ1WnhoV0NxdjZDTnBqMk16aHNOVWlKam5HSGZFeWdoTmltNllqQXlPVzRkZFlwVkVCMFZJNVBSWUlVUk41cm5ta1lsN0RqQWR2NHlaUXVuTnRSWEo3SkZJ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "772ff3ef688e",
       "title": "Ele ia ao banheiro 8 vezes ao dia e perdeu 10kg por doença: 'Achava normal' - UOL",
       "published": "2026-08-25T12:30:00+00:00",
-      "summary": "Ele ia ao banheiro 8 vezes ao dia e perdeu 10kg por doença: 'Achava normal'&nbsp;&nbsp;UOL",
+      "summary": "Ele ia ao banheiro 8 vezes ao dia e perdeu 10kg por doença: 'Achava normal'&nbsp;&nbsp;UOLVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
           "name": "UOL",
@@ -57,7 +105,7 @@
       "id": "f000fe1ad517",
       "title": "Febre do Nilo Ocidental: os 8 sintomas sintomas mais conhecidos da infecção que atinge SP e SC - O GLOBO",
       "published": "2026-08-25T11:53:54+00:00",
-      "summary": "Febre do Nilo Ocidental: os 8 sintomas sintomas mais conhecidos da infecção que atinge SP e SC&nbsp;&nbsp;O GLOBOVeja tudo o que se sabe sobre a febre do Nilo Ocidental, que tem quatro casos confirmados no país&nbsp;&nbsp;Folha de S.PauloFebre do Nilo Ocidental: sintomas, transmissão e casos no Brasil&nbsp;&nbsp;Gazeta do PovoFebre do Nilo Ocidental: Ministério da Saúde investiga caso provável da doença em mulher de 35 anos no PI&nbsp;&nbsp;G1Febre do Nilo Ocidental: veja locais com maior risco ",
+      "summary": "Febre do Nilo Ocidental: os 8 sintomas sintomas mais conhecidos da infecção que atinge SP e SC&nbsp;&nbsp;O GLOBOVeja tudo o que se sabe sobre a febre do Nilo Ocidental, que tem quatro casos confirmados no país&nbsp;&nbsp;Folha de S.PauloMinistério da Saúde investiga Febre do Nilo Ocidental em mulher de 35 anos no PI&nbsp;&nbsp;G1Febre do Nilo Ocidental no Brasil: casos em SP e SC confirmados em 2026&nbsp;&nbsp;Gazeta do PovoO que é a febre do Nilo Ocidental? Especialistas tiram as principais dú",
       "sources": [
         {
           "name": "O GLOBO",
@@ -90,14 +138,26 @@
       ]
     },
     {
-      "id": "9135b1192ca4",
-      "title": "A psicologia revela que crianças com menos de 1 ano de idade que dormem com os pais podem apresentar essas características no desenvolvimento - Portal 6",
-      "published": "2026-08-25T06:41:47+00:00",
-      "summary": "A psicologia revela que crianças com menos de 1 ano de idade que dormem com os pais podem apresentar essas características no desenvolvimento&nbsp;&nbsp;Portal 6",
+      "id": "4ad2c44d4777",
+      "title": "Câncer de próstata: por que uma nova tecnologia como o HIFU leva tempo para ser reconhecida? - O GLOBO",
+      "published": "2026-08-25T07:30:37+00:00",
+      "summary": "Câncer de próstata: por que uma nova tecnologia como o HIFU leva tempo para ser reconhecida?&nbsp;&nbsp;O GLOBO",
       "sources": [
         {
-          "name": "Portal 6",
-          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNY3VxbHFfQWI0N3NmS2ZxUTRLTkVzcTNDOFpyVF9Cc2tiN1pOeGpOQ0k1UTdPYUJMWGJYNHZiR28tZTBfakhESnJXWGxVeWlyUF81TnJ5ZEdlX2NESXBvWXFuTVVOaHFpc293MlpsZHB5UTYxall1bHBLXzd0RzdNODVtbUN0bVJza1lQb0x2RU9SNHljREhNVHg5MnAwZkxkMXNGT1JpT2xLb2Qxb2RHQjRVcE5mQWtSOURFQkNvSm1xRXNaR3RuNExqSTBLdGM1Ul82TkdBSl9YbXY1eFM4anFFQzM1bDlrcTJRVW1qX05SSkdDTU9VRUowUzE4ZkdCMlE5YnIwWQ?oc=5"
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSzZuandBSU15b2ZvZnhoa0ZTUEtLSTE4Ulh6ckJBQmZndW9fY1M1MDFMNDJpeEk1eW9vRm9rc0xVVm5KajVHY3FlNTJoeW9rM3hNT2Z6WVpRalJVMVc0Y2o5c25wWHdIX3lqMWlrNUxHYUxuRUZMcndpNkVCaS1iWnBqcEVzWVU0QjdyZkNZbF9TMG5BRzR4SGFQcDk2Yk8xTER3SWRLejhLemxTYksxV1ZQTGlxSDdnN3NMY25FV2VHeDhzRjBnSFA0OTZabFo1S1hDZG9mUVRhWnVwRVBfNzAybVRMN2JFWjI5cmx4Zm8zSzh3SXfSAYQCQVVfeXFMTnJlQjdhVDRwWDQ0VjBpQ1hfa1lHMG5RV2ZCd0Q0WkJlNXFyLWtVb0M3ZmZjVUNRUlkzQ0Jta1VFSnRDQnNQYWkzdjlZNlIxNEVyV3hRUmxtd3cwQ1NXMi1FaGtON211b184RDVPYUZNUG0tMGxDRTBsMG14VGhlQ1VFZmdjS1FNLXBEUEEweUZwNzVqbzlWUUpmbUhBVHRiMzlzRGtVSUtud1pNYlZEVGZTVTRWMmpPTWRqeE9ZN2ZnUkFZOVZXQmRodzZWdVVGNDZZanRvQVpTaDB5MDI5TlpOMEpTMjJuOTUxUnBWUUQydnR1QWVfTnhmRXdhekUzZXpMbUs?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "20a340f687f8",
+      "title": "Doença de Peyronie: condição no pênis pode curvar e encurtar o órgão - Metrópoles",
+      "published": "2026-08-25T05:00:00+00:00",
+      "summary": "Doença de Peyronie: condição no pênis pode curvar e encurtar o órgão&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSXZLUHpRazQ0dFlDR1h1YVkxY3A0R0dicHNTaFFUdnUtaExMTzBtMHdtNGo5bVFqWWd6ZFp4eTk3ZTBObVMybm02Y2dNTm9KcTVNaWZyTmc3Z0VnMkhHTjU5VnhCNlFmS0RZQ1RiX1c2MDF4YzFib1pDSXBCR2JscGtwS1ItVHRpdkwzQnkyZEhuNkZTY3NYQTlKdEd4WTFpNnc?oc=5"
         }
       ]
     },
@@ -105,23 +165,11 @@
       "id": "cf0dcf3ba71b",
       "title": "Aumentar os passos diários é tão eficaz quanto treino aeróbico no controle da asma - Agência FAPESP",
       "published": "2026-08-25T03:01:42+00:00",
-      "summary": "Aumentar os passos diários é tão eficaz quanto treino aeróbico no controle da asma&nbsp;&nbsp;Agência FAPESPVeja mais manchetes e perspectivas no Google Notícias",
+      "summary": "Aumentar os passos diários é tão eficaz quanto treino aeróbico no controle da asma&nbsp;&nbsp;Agência FAPESPTreino aeróbico estruturado ou aumentar exercício no cotidiano tem efeito parecido no controle da asma&nbsp;&nbsp;Jornal da USPCaminhada diária é tão eficaz quanto treino intenso no controle da asma&nbsp;&nbsp;Correio BrazilienseQuem tem asma pode fazer atividade física? Quais os cuidados necessários?&nbsp;&nbsp;EstadãoEstudo revela que aumentar número de passos diários ajuda no controle d",
       "sources": [
         {
           "name": "Agência FAPESP",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa0JmMktJZzEzTFhBU21jbWhkZ3Z5YkhCUWZCUm9tQTRuQzVDRkhoWnlHdklJd2JsMjVvNEQ4UVgxanh2OUZCQm9HdGJwLXNCWUkzcnZoLUdCZVJlRVFNX2NZOW03Tlg0MF9scVRwRDc5bzlaR05PZEVfVDdPTl9TSmlvemNuMVJZRV9NVlljOUpzY0RYajdqSzZQTUU4cVc0TFpSbC1vUkdwcDNZa29FRUVxX2M?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "42cdf6a45e3b",
-      "title": "Nova espécie de “cão-urso” é descoberta após 16 milhões de anos e revela um predador pré-histórico desconhecido pela ciência - Super Rádio Tupi",
-      "published": "2026-08-25T01:04:46+00:00",
-      "summary": "Nova espécie de “cão-urso” é descoberta após 16 milhões de anos e revela um predador pré-histórico desconhecido pela ciência&nbsp;&nbsp;Super Rádio Tupi",
-      "sources": [
-        {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaURpZWx6enlNTS1kTTlwRWNVbndGSUxDZWRDN1ZHQ24td3VtYzNfR19DN3FkSkhZb2ItMi1NWjJlUTVyeUZtTG5YUWVNUnJDaElWOG84WFdZaEtXRlJkcmFCWjNUdnN3TVViNHVLSElXSXdrSU15YldIVWc5ZWEyOHVIaXplOUxzdXZoOWtwaUlRdzFnV1B5UjNuaEc2bVNBZVV6ZU16VldJRGthZ19rT0ZXZVc0NjhWZUZadUpQNWRTYTc1WURmRmRTX0VSRXQwMVlRM3VIaEhGbHh5TVFFM0wtNA?oc=5"
         }
       ]
     },
@@ -150,38 +198,26 @@
       ]
     },
     {
-      "id": "ec52dc5890e2",
-      "title": "Paciente com câncer de pâncreas morre após diagnóstico apontar diabetes; órgão aponta falhas médicas - O GLOBO",
-      "published": "2026-08-24T20:43:28+00:00",
-      "summary": "Paciente com câncer de pâncreas morre após diagnóstico apontar diabetes; órgão aponta falhas médicas&nbsp;&nbsp;O GLOBO",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNVnc4VzlZRGJjN1hBalpzRjBXUUxzOTlmVV8teGhMRlphUS03Q3ZrVDduN2o2MTRMVjl1QnZ6NnFvak5YQU9oN2NmNEVLTmp2VnJscDdQTFp1NU5PcEYtbFAzSzdiR3VTdkMyUzVDNnN3ZDhXcDd1WG80VlNvWGFJaGE2R0xpQjVjRUJ3bzV6MnZKNi0wWTRkVWQxb2REdEtoWFhBVmNjRTY3OXdaaXNRbDRHUzhBQ0hYNm1renRBZ3NvOF80NHRIdmJKZS1DaEFUNjFMQ25RbVBzWk9ZSUVDajlXVEFsVk5iX2J0VmI2WkF1XzDSAYICQVVfeXFMTzJtZ0pIY1FqR0h4WHFOYm9Gejl0WXR1b3BkdWI1VXVHcDV1VlhYY3ZFU3g4Wl96U0dCb3NFczBmbFpKa3JucVdDNlRIbkx0dmNlNHdmamlCSHllNGJOVF8wVm90NnJCTy1NX3pMZFpoTllDdEY5amlwMnA2TU1PQmRWVDJEOGJaQlV1TUE4WnhCcGxHaUFneDNZM2lRT3NlS3F6bFN5a2dXNTJGT2NXWjdTR282dExqT2JGMkdET1dUcU54WVYyb0ZKQ0Y3OHZ5R3hJZlRtMHhsaGpteExNNDVXSnV5R0toc3ZNTl80UFRnQUpabzQ3cW41ckN2dDZTVlVR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "51a0f37184fe",
-      "title": "Estudantes do DF de 12 anos apresentarão pesquisas em Harvard - Metrópoles",
-      "published": "2026-08-24T20:33:00+00:00",
-      "summary": "Estudantes do DF de 12 anos apresentarão pesquisas em Harvard&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR0Fod0tGWlVtT1ppMG1MOFhPVnBSWlV3NmR6MnJUQ0UwcFJudG9sdW5hZ2kzS0tlZnFtZUJucHVFaE1qOFlWQmdJWDNXRkN4MHBYNTZyeFkxYjM4WHVWWDBLV2RsTVdEWFN6OVAyMFFqOTd2NU90RzU2ZlRLWnQyQmpkV1ZoX2g5YmlTaTF5N3loVzNWMnlSa2FDckM2QWt3VU90MXJybjA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0b78941e88e2",
       "title": "Ela passou mal no vestibular de Medicina; 10 anos depois, é médica em Santos - A Tribuna",
       "published": "2026-08-24T20:15:00+00:00",
-      "summary": "Ela passou mal no vestibular de Medicina; 10 anos depois, é médica em Santos&nbsp;&nbsp;A TribunaEsclerose múltipla atinge mais de 40 mil pessoas no Brasil; conheça os sintomas&nbsp;&nbsp;Costa NorteEsclerose múltipla não tem cura, mas tratamento ajuda a controlar sintomas e a reduzir risco de progressão&nbsp;&nbsp;www.gov.brSimpósio sobre esclerose múltipla trata de informação e qualidade de vida&nbsp;&nbsp;Prefeitura de CubatãoAgosto Laranja alerta para sintomas neurológicos que podem ser conf",
+      "summary": "Ela passou mal no vestibular de Medicina; 10 anos depois, é médica em Santos&nbsp;&nbsp;A TribunaVisão dupla, tontura e mais: veja os sinais iniciais da esclerose múltipla&nbsp;&nbsp;UOLNeurologista do Hospital Santa Izabel afirma que pacientes com esclerose múltipla de surto-remissão costumam não procurar ajuda médica&nbsp;&nbsp;Rádio MetrópoleEsclerose múltipla atinge mais de 40 mil pessoas no Brasil; conheça os sintomas&nbsp;&nbsp;Costa NorteSimpósio sobre esclerose múltipla trata de informaç",
       "sources": [
         {
           "name": "A Tribuna",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSWl1ZVd2bkJrVjJkbTZDWXp0elh3eXdOQWo4OU9BN0RGaUFYSEgwRDdPaDVHRFh0aFVGWWdIRXN0ME01QnZ4WWtyNEhJeEV0V0hIV0tmTkppWXZvYVBSNWljQl9qcTEyQWwyVFhmbkR2UENjNktsam5PbXJaajQyMldxamtWckJZcGpneGJkYkZPQjRyaWFoUWYyTWNtRW43WUUxR3hPSWd4WG1zTVE0dlRUa1dfTnJtU3M4cTNsdDZRcVB4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "eb726a1838e3",
+      "title": "Médico confunde sinal de câncer com diabetes e homem morre dias depois - Metrópoles",
+      "published": "2026-08-24T19:38:00+00:00",
+      "summary": "Médico confunde sinal de câncer com diabetes e homem morre dias depois&nbsp;&nbsp;MetrópolesPaciente com câncer de pâncreas morre após diagnóstico apontar diabetes; órgão aponta falhas médicas&nbsp;&nbsp;O GLOBOAtraso no diagnóstico de câncer de pâncreas leva órgão de fiscalização a determinar pedido de desculpas à família de paciente na Escócia&nbsp;&nbsp;Ceará Agora",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN1ZtSFpnclRWejdmcVlPWVdlcVNtbWRZeThUbHlVbjh4T0JsVzVEbVAwb21ENzZldG1GOEZpQnFnMjZ1OU52QnBVQ2FYeDBnNzItSC1tS3Eyd0s0QWJodFBnQUNOUUVZR19SRU14azdQVGdiSHg3T1hJN2dCN2Y5QzQ1bTRBMjZJSXZaSVN4NnZKa2lORDduYmo1Qlc2SVhzU2dxQnBB?oc=5"
         }
       ]
     },
@@ -201,23 +237,11 @@
       "id": "e7d8a33fea91",
       "title": "Novos fármacos e adesão ao tratamento são chaves contra colesterol alto - Folha de S.Paulo",
       "published": "2026-08-24T19:00:00+00:00",
-      "summary": "Novos fármacos e adesão ao tratamento são chaves contra colesterol alto&nbsp;&nbsp;Folha de S.PauloSentinela virtual vigia o colesterol e pode ajudar a evitar um novo infarto&nbsp;&nbsp;VEJACardiologista do Mater Dei afirma que colesterol LDL é fator de risco causal para doença cardiovascular&nbsp;&nbsp;Rádio MetrópoleColesterol alto: nutricionista explica o que precisa mudar na alimentação&nbsp;&nbsp;GloboSBC estima que 40% dos adultos têm colesterol alto; saiba como proteger o coração através ",
+      "summary": "Novos fármacos e adesão ao tratamento são chaves contra colesterol alto&nbsp;&nbsp;Folha de S.PauloSentinela virtual vigia o colesterol e pode ajudar a evitar um novo infarto&nbsp;&nbsp;VEJACardiologista do Mater Dei afirma que colesterol LDL é fator de risco causal para doença cardiovascular&nbsp;&nbsp;Rádio MetrópoleColesterol alto: nutricionista explica o que precisa mudar na alimentação&nbsp;&nbsp;GloboColesterol alto nem sempre é culpa da comida, mas fatores como tabagismo, obesidade e hipe",
       "sources": [
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ2pmOGU3WE95cmNSZ0ctRHh5bjJGdGI0ZTdOWDM2cGt6ZzVfc0FhZHNFeVRlSmM4WmpPVUs4Ukd3cmY3VkNsREEzUGlEWHZ1REhKbjJZSEJlZFVnSG5IYXZWOExzR0dVWlhSV2VYWVg0YXhwbXNEaDZGM1dKZTJLNXdmd2h1ZnZzRXJUTUtYcVBoN1E0ZnlLNVI3SjR2aE52MmJqUVZWZmItWWcxTTJOSGpHMFVBbFNpY2pPOV9pdUNqT1l4ZzFoRVI5UUg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4b9fe0dd14f1",
-      "title": "Veja lista de medicamentos e insumos gratuitos pela Programa Farmácia Popular - Acorda Cidade",
-      "published": "2026-08-24T18:12:44+00:00",
-      "summary": "Veja lista de medicamentos e insumos gratuitos pela Programa Farmácia Popular&nbsp;&nbsp;Acorda CidadeFarmácia Popular tem novas regras em 2026; veja medicamentos gratuitos e como retirar&nbsp;&nbsp;ACidade ONMunícipes de Cubatão podem obter medicamentos gratuitos pelo ‘Farmácia Popular’&nbsp;&nbsp;Prefeitura de CubatãoCFF e Ministério da Saúde discutem nova fase do Farmácia Popular e papel do farmacêutico&nbsp;&nbsp;cff.org.brFarmácias Brito retoma entrega de medicamentos 100% gratuitos através",
-      "sources": [
-        {
-          "name": "Acorda Cidade",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSmZPdzJNeHlzYW5hck5oYTQyUTlxRFVJRXlLT2JuRnNKeVhSdG9WYzRwbEIwRk1lOG9XMGdnMkpJZzFQVmNCR0pPY3hrQ1liNlBqOFlEQnpkYXJFemgxM1p5Vm1vWmZSZ3h0Q1JwWXM5dWRJRHNfeGlJdFhMQm5xd2V1c2NRdXNwSW1KOFVGbGhyY0tFdEYtRm1QQW8tZGdqcU1JaHI3Vnp0amZlcGI2RFk4QWhaOHM?oc=5"
         }
       ]
     },
@@ -249,7 +273,7 @@
       "id": "da1bf9662326",
       "title": "Pouco ou muito sono se liga a envelhecimento de 17 órgãos, mostra estudo - UOL",
       "published": "2026-08-24T17:42:32+00:00",
-      "summary": "Pouco ou muito sono se liga a envelhecimento de 17 órgãos, mostra estudo&nbsp;&nbsp;UOLDormir demais ou de menos acelera envelhecimento, aponta estudo&nbsp;&nbsp;Extra onlineProblemas no sono aos 40 anos podem aumentar a chance de Alzheimer aos 80&nbsp;&nbsp;CNN BrasilPadrões de sono podem revelar 'idade cerebral' e indicar risco de demência, aponta estudo&nbsp;&nbsp;terra.com.brProblemas de Sono aos 40 Anos Ligados a Maior Risco de Alzheimer aos 80, Aponta Estudo - Portal 93&nbsp;&nbsp;Portal 9",
+      "summary": "Pouco ou muito sono se liga a envelhecimento de 17 órgãos, mostra estudo&nbsp;&nbsp;UOLDormir demais ou de menos acelera envelhecimento, aponta estudo&nbsp;&nbsp;Extra onlineProblemas no sono aos 40 anos podem aumentar a chance de Alzheimer aos 80&nbsp;&nbsp;CNN BrasilPadrões de sono podem revelar 'idade cerebral' e indicar risco de demência, aponta estudo&nbsp;&nbsp;TerraDormir pouco ou demais pode acelerar envelhecimento dos órgãos, revela estudo&nbsp;&nbsp;Folha do ES",
       "sources": [
         {
           "name": "UOL",
@@ -270,30 +294,6 @@
       ]
     },
     {
-      "id": "5c1725cb159f",
-      "title": "Exame de sangue alterado não significa doença: veja os erros mais comuns ao interpretar resultados - Jornal Correio",
-      "published": "2026-08-24T16:25:36+00:00",
-      "summary": "Exame de sangue alterado não significa doença: veja os erros mais comuns ao interpretar resultados&nbsp;&nbsp;Jornal CorreioExame alterado nem sempre indica doença; entenda seis resultados que costumam preocupar&nbsp;&nbsp;ParanashopVeja quando o resultado de um exame com indicador fora da referência não precisa assustar o paciente&nbsp;&nbsp;Bem Paraná",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQ3o0d05YRG9KVmxtVWxRUTF6aVJCZ2ZwVGZJV3h5WGpqVW1fOVQ0d251SnFQU0IzbGxXYnFQOVZvWGpYcU1xUms3d2pVaVU2OFFUdy1Pa2dZUy1pNENtcDFaLXBfT3g1ZnlocEZQN1I0ZnpLNjJYZ0VxcmNna1JXVVJUcU9PWUJhZ3prYzRMN3YxUGNYR3RrN1BadkZoMXpQY3FXWE9HeWY4ZkxLNUlPNmZBMUd3RjU3RlQwZ0tmc1Q0enBTUzRFdktIVjd1R2pzS0c3Tk42X0ZQUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0bb7a40f41fd",
-      "title": "Estudo aponta redução da obesidade nos EUA pela primeira vez em anos - Folha de S.Paulo",
-      "published": "2026-08-24T15:11:00+00:00",
-      "summary": "Estudo aponta redução da obesidade nos EUA pela primeira vez em anos&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMGozRXh5cHlrME93TVQ5dlg0Z1BIRnJVN1Z6WlBNYndQY0lfV2hNWGVjZlVzWmxyZjI3cjdiLUI1S09DWWtrNTBESnQtX1RuN1BaRFl0MnZGMFd4Q1I2b3d2NGFhWEhFbWduY0NiVXlfNV9kTzk2b1B2WnJkcmx3ck03eXNfcDE4WUVBc3Q0VEZDWnUyUVdlbE9EWWg4a0stRXpCdzFhNW1wSTVid3NyYnc2TU5sSGctX0tPZFZfSlp3T2ZhS0hPNw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b7e68d681771",
       "title": "Idosa com Alzheimer morre após ataque de formigas em asilo nos EUA - UOL Notícias",
       "published": "2026-08-24T14:35:43+00:00",
@@ -302,18 +302,6 @@
         {
           "name": "UOL Notícias",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSW1qRTdZWmhBNG1DZHlsUElERU1CUEU4aExpMHpxcEZwYW5CUFIxR2RUYWF2ZnpCZkFPR2RjZWc3bEdQVlpqWlNiWkVVeEVFS0VmMkJ5UFFUZGNBYmowWWMweXdTeWxYZTJfeDhMTTRhaFBRdDdWdWh3TzA5X3ZpY0pyU3B2WmZ3LWN6U0ZGUFdGWWphTWR3V0hHX1FiYm5aQS1NbXptbGJSaEdrbHp3eUhEWS1TQWFWd2tMOVJNcjFUdkJHWnlxRU1UNy10QWl3OUZtU3J6Slc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "046534f33c23",
-      "title": "Canetas emagrecedoras: uso sem supervisão pode causar perda muscular - jornal da região",
-      "published": "2026-08-24T13:42:41+00:00",
-      "summary": "Canetas emagrecedoras: uso sem supervisão pode causar perda muscular&nbsp;&nbsp;jornal da regiãoCanetas emagrecedoras: pediatras alertam para risco de uso em crianças e adolescentes&nbsp;&nbsp;O GLOBOPediatras alertam para riscos das canetas emagrecedoras em jovens&nbsp;&nbsp;TV CulturaSociedade Brasileira de Pediatria alerta para uso inadequado de canetas GLP-1 em crianças&nbsp;&nbsp;Correio do PovoSBP alerta sobre uso inadequado de canetas emagrecedoras&nbsp;&nbsp;R7",
-      "sources": [
-        {
-          "name": "jornal da região",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRHQtS3lITVg3SzZtdlFoNGoxMlJSelBJaEp6RW1sa3M0TTYwanNVWnhHRWh0d0tBWWZqLWp5cW04TGtaXzQySEtQanI0eXVPTllCMGVndXc3M3FZYzloa2VWeGU4OWZfdTBNSjdHZ0xkSmoyQ1NlaFlpTXFFNlZWV3J6U0YtVGlDdnA1QlJiaTduXzBUR1ZqaEM5QmJMdw?oc=5"
         }
       ]
     },
@@ -333,7 +321,7 @@
       "id": "46fde7d6ea69",
       "title": "Estudo descobre 40 mil novos vírus em metrô, bancos, hospitais e esgoto - CNN Brasil",
       "published": "2026-08-24T10:09:43+00:00",
-      "summary": "Estudo descobre 40 mil novos vírus em metrô, bancos, hospitais e esgoto&nbsp;&nbsp;CNN BrasilEstudo em 102 cidades revela mais de 40 mil novos vírus; lista inclui SP&nbsp;&nbsp;GloboMapa global identifica mais de 54 mil vírus inéditos em várias cidades&nbsp;&nbsp;MetrópolesCientistas analisam metrôs, hospitais, bancos e esgoto de 102 cidades e encontram mais de 42 mil vírus de RNA que nunca haviam sido descritos pela ciência&nbsp;&nbsp;CPG Click Petróleo e GásCidades escondem milhares de vírus a",
+      "summary": "Estudo descobre 40 mil novos vírus em metrô, bancos, hospitais e esgoto&nbsp;&nbsp;CNN BrasilEstudo em 102 cidades revela mais de 40 mil novos vírus; lista inclui SP&nbsp;&nbsp;GloboMapa global identifica mais de 54 mil vírus inéditos em várias cidades&nbsp;&nbsp;MetrópolesMais de 40 mil novos vírus são descobertos após estudo feito em 100 cidades espalhadas pelo mundo&nbsp;&nbsp;CrusoéCidades escondem milhares de vírus ainda desconhecidos pela ciência&nbsp;&nbsp;Correio Braziliense",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -342,14 +330,26 @@
       ]
     },
     {
-      "id": "b3d31121aab7",
-      "title": "Ibuprofeno 600 não acelera alívio e faz mais mal ao estômago, alerta farmacêutica - Rádio Itatiaia",
-      "published": "2026-08-24T09:16:02+00:00",
-      "summary": "Ibuprofeno 600 não acelera alívio e faz mais mal ao estômago, alerta farmacêutica&nbsp;&nbsp;Rádio Itatiaia",
+      "id": "b0b698129f74",
+      "title": "Mortalidade de mulheres por câncer de pulmão dobrou em duas décadas no País; entenda por quê - Estadão",
+      "published": "2026-08-24T08:36:56+00:00",
+      "summary": "Mortalidade de mulheres por câncer de pulmão dobrou em duas décadas no País; entenda por quê&nbsp;&nbsp;Estadão",
       "sources": [
         {
-          "name": "Rádio Itatiaia",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeFE4Z1BfSlpQRTlXQ28wVUJWRXZndTRaVndoVG5Xb2M0bWw5cUpCd0NqOWZYd3ZWY1FDVXdKcGpBTGtHUEtEVXg4R1RQZndEdVExWVNRN0hiMGNGMFd1Y2VGUjdJQ3l5WFhEd3JaYVhZZk1DVTlXUXRfODlqb0pNYTlsT0lQNXlnTy1CMUtnU1RsSkRLSG5lSF9iaTlSZHdfemtwZ1lBVHo0akNlZ29aZjJ0amJ0X28?oc=5"
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWkNoZ2h6QUpTaVZURE9uQVpZR0p2Qk5JcHdKNXZGWk9HWXN0UnNhVThFWUExU3AyQ2xhYVRfdnBaWXlNR190TXh1Y3JLVG55Rk5xZEpUak9MT1V6eXhXYUlvU256dTlnd2pSVGVlYktCV1BXdDRQSEJqTkkxTG1yTjkxaGYxRGNscXJYVXpjWjBnbmhvbEN3dW5Qc3ctS1lUbVhoRUtOVlRaUEdNNF9HVWt4blgwVy1QWTZNRE5xR1VOTFh1THZ5VGhUcjRuYzZWVDJUaWxTRDhuVWxO?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2e16126f8f3b",
+      "title": "Vírus letal reduz em 83% população de pererecas em reserva da mata atlântica - Folha de S.Paulo",
+      "published": "2026-08-24T08:00:00+00:00",
+      "summary": "Vírus letal reduz em 83% população de pererecas em reserva da mata atlântica&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOby1wa3gta1JJUDhtQWVuSWtpWXlMRy1nRDV0RkxHbjV4dmF1UkxNY1R1NjdvLWUxblB0ckhGUXhSRXJPeFRuSEdiZFBYWDFqVF9pMThpQzJ2dGZac0YzM2lJUGl3MXB1UjNqaUxDZUdDNFMxZGxFSl9GSnN0alpJS0c3WWJyRU9TWFdYNTlmMDNLMlJvSWIzRW1MdFFUV19xWDk3eGkzMndDeDZ2RDRxcWV4cjlfTkIxQVpQVXlHQ0NqdWIxUkxR?oc=5"
         }
       ]
     }
