@@ -1,10 +1,94 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-08-26T06:51:48.514530+00:00",
-  "total_fetched": 69,
-  "unique_count": 68,
-  "health_related_count": 27,
+  "fetched_at": "2026-08-26T12:54:25.016794+00:00",
+  "total_fetched": 73,
+  "unique_count": 73,
+  "health_related_count": 29,
   "news": [
+    {
+      "id": "77af60abf36e",
+      "title": "Cientistas cultivam em laboratório etapa inicial do espermatozoide - UOL",
+      "published": "2026-08-26T12:29:26+00:00",
+      "summary": "Cientistas cultivam em laboratório etapa inicial do espermatozoide&nbsp;&nbsp;UOL",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQnljaFVQb3RvdzFxUnVqWGZlXzBrWFB6bXNfSUVnWDFTRE1GZllNOFV3djRIM2k5WW5UcjZBWFFiVTBMejVVM1lMVGdJNHlhbXc3NG9MdUpMZ2tLTDdEaGhTYUpMMmNUaXp0eW5vMHBzYzl3S0o4WFNuY3RZWWRTN3NSUnFKbmRiZmdTUFJLR01KaTZMSnpuY2dBTGVlMzFfTVl4U3UtZ1R0ekE4QVhrSmJBSEZfd2pHTkY1Z2FyREo5VURrYjFvbUxR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "aa56fde912f5",
+      "title": "Linfoma cutâneo de células T: câncer raro pode ser confundido com alergia - UOL",
+      "published": "2026-08-26T11:57:29+00:00",
+      "summary": "Linfoma cutâneo de células T: câncer raro pode ser confundido com alergia&nbsp;&nbsp;UOL",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPN09BSkRCajR0OVNHNldhdWtuMVpEREt5SHROWGZBZE9la01VS3J3bHlNRTJWcE45VEdGYkpWYnhTMGNfMFM1ZlJLWG5KSkZBTW5SQkpqc3pxNlU2YUlsY3M2cFd1UkVmZW9KbHpuZHNQelFSN1hSNHN3SkNDYlVPNWVTbHJkV1podWVvYmRka1RpRXpJdThGSkg5RGdWb0RHWFpxeGRlcWh4WHBzVC0zY2Zqc09SSWRFT3BjYW40MzJYSFJ4V1hCZXo2U2RmNU9mVmRGNg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ee07e6abd884",
+      "title": "EUA confirmam duas primeiras mortes por sarampo em 2026; doença é evitável com vacina - G1",
+      "published": "2026-08-26T10:33:08+00:00",
+      "summary": "EUA confirmam duas primeiras mortes por sarampo em 2026; doença é evitável com vacina&nbsp;&nbsp;G1O que se sabe sobre o aumento dos casos de sarampo nos EUA&nbsp;&nbsp;UOL NotíciasSarampo: após duas mortes, EUA registram recorde de casos da doença em 2026&nbsp;&nbsp;MetrópolesSarampo: Estados Unidos registram primeiras mortes de 2026&nbsp;&nbsp;VEJAEUA têm maior número de mortes por sarampo em 30 anos&nbsp;&nbsp;Gazeta do Povo",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUlEtaUFhV2hITlZ2Z09ibzRWSFdCRmEtbXIyQmN4M0QwQ3poQnBkdnJuR29JcjVQNHVSQWZZZzBwWEVKUWFMckFqMFNjVDliRkVJeGhvaXdMR0hROVVkQWp1dmc4ZEg5aGlmU1pxNUtuNHVHM0c2VV9SVThYUHNUa2pnMzR1TGI2N0JGT0VRdGctd01HcFJoZl9jd0VwcGfSAa4BQVVfeXFMT3dNU2JTTG1RV29SSmh4OENnTmQxaTRiM2lVS3piMWtkREZZTmVNbmxUcGNTOGhET1duNTQ1Wkk0RnVucWI5V2VrVnptU0x2c3dodTJTM0R2ZmVGcFd3ZDRFTWI2UVhuVzNZX1RYNHdRTDI0TzM4NC1lNnVoZTV2RUVhMFdSUHVfYUJwQkVHZ1BZdGlWaEpHakFZeFRjbkRva3pRQ1NmQThVVHhFb21B?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4b6d2e5afb2b",
+      "title": "Jovens têm dificuldade em identificar situações de violência psicológica e sexual, diz estudo - Diário do Nordeste",
+      "published": "2026-08-26T09:00:37+00:00",
+      "summary": "Jovens têm dificuldade em identificar situações de violência psicológica e sexual, diz estudo&nbsp;&nbsp;Diário do Nordeste",
+      "sources": [
+        {
+          "name": "Diário do Nordeste",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOX1l6NFhYN3U2MmNzSnNhWDRXX0g0Y1U0ZldaRzB4MHZtVzByRXY3ZUJZZ3Fvc1FrQWlJZ3dnaXZncWlFS3pTTURxaVA1eUExbmY5bkU2cVlILWxhMEJyRzVXdVMzS21oYjhCM3RUcHZHWksyZkxZbi13bXdBVWdtXy1EYUtoWHpyNXpsREE1dFVFNVVGYlZNaDFsS01razRtb0FsY1pRQXExWXEwU0hSTmJ3N2ZpWUtmdnhjMjdtUFdLN1dlVkpTdmpvYWpEV3ROdTZwWGw3SUZtYXN4NzNRNTlVTDkxdUU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2b608e5b3f53",
+      "title": "Febre do Nilo Ocidental é rara no Brasil, apesar da disseminação global - CNN Brasil",
+      "published": "2026-08-26T06:35:11+00:00",
+      "summary": "Febre do Nilo Ocidental é rara no Brasil, apesar da disseminação global&nbsp;&nbsp;CNN BrasilVeja tudo o que se sabe sobre a febre do Nilo Ocidental, que tem quatro casos confirmados no país&nbsp;&nbsp;Folha de S.PauloFebre do Nilo: casos registrados em SP e SC podem provocar epidemia no país?&nbsp;&nbsp;InfoMoneyMinistério da Saúde investiga Febre do Nilo Ocidental em mulher de 35 anos no PI&nbsp;&nbsp;G1O que é a febre do Nilo Ocidental? Especialistas tiram as principais dúvidas&nbsp;&nbsp;Est",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUDdNNDlCeTdDS0dKek8tX04xZ1ppZmdLbmJsOUJ6N1I1NnZBMDlKQThRVTdvY215NFVFNXBZbUM5OEdadEhZU0Itd1dQeE5WWnF3UlhzVS1QMUZ3TWEzWUYydGxLRGVXb3NtTDgwN2tSTlZJR3c4YnBPRUFENGNzRUl4Z3dEY21UOVcxUEVRZ1dHalh6LTNBNXlfV01WMUJNNm1GZjNzN3UyQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7d8c0f72ca4b",
+      "title": "Brasil constrói sua primeira armadilha de íons frios para computação quântica - Agência FAPESP",
+      "published": "2026-08-26T03:00:41+00:00",
+      "summary": "Brasil constrói sua primeira armadilha de íons frios para computação quântica&nbsp;&nbsp;Agência FAPESP",
+      "sources": [
+        {
+          "name": "Agência FAPESP",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVEphYU8xU2NUeF9VQ01UYUxmWTMxYjNlSHRNYUdteURTWjBob2E3a3pma2ZfVUFkN1NzQWsyVXpOdFg4c250TzNEN09MUExqdHh6R0FvYVVHMVQxLWNra2IwYzQyRm94S3plUVItRkxubmp1a3huNGVkZUdCbkZxMlgzSjZTbW9nbmo0S2dRSkkxSDJMTmdNQUxVbU1scjVrTGRiaE9fUXBidUc1Tmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "80fd8e0154f8",
+      "title": "O câncer que pode começar como uma simples rouquidão ou afta persistente - Diário do Centro do Mundo",
+      "published": "2026-08-26T02:45:50+00:00",
+      "summary": "O câncer que pode começar como uma simples rouquidão ou afta persistente&nbsp;&nbsp;Diário do Centro do MundoVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "Diário do Centro do Mundo",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUWRuMzN6VXBvNTVHWTdlVDgxNVRHSVN1U3dPLTZXWkZIbi1FZ0tuZnd4T25xYjhxcm80Ni02N3NTZVU2Wl83QkwwSDFneGd2UDJiOERlcHIycmMxNDFTTFpDaURvWEMybW5lQk5Ga041MVBZdkg0U2ZXTUR2ODI3ZWdoWjlyeWRBWVB0MjlNdjlFQ2F1R0cxbmxkbk8weTFOeGxZX2V5ajFrM1k2?oc=5"
+        }
+      ]
+    },
     {
       "id": "6bc6d7e6e79d",
       "title": "Psicologia do garimpo: Por que a geração Z encontra satisfação em brechós - Globo",
@@ -26,6 +110,18 @@
         {
           "name": "Campo Grande News",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUnV4UDJyZEQ5S3hCZDdqdThpY3JDbHR2bUxSVkQxN01wNzg5ajRjM0lCV1hkODJuQzhmalotRWQtUGVidU9PeW84WXdub2lQS2NFVE8wY3Jyd3BER3k2SThJczViVGV0VGtkd002dXhwZFRMdjNWajN3R05HbXhZWDJjRHV1bFB1Z3FPYkZZcmdIZ25ZXzZRbkxWSmVLOVg5MWJYRUd0UzVFenBXNEUyTWgtZ1E5cjFWVnByM3JyeUJqXzVueElqMdIByAFBVV95cUxQcE40OE52ZTNCR2NzSnZoMDF4cU80ZTB5eDdBQXl4b3hyelJ6RzF0X2RmczYzN2JIYUxRNHpac091aHE2RlRKWmpYWkVZNHdERUN0Xy03VVNsd194ai1BOTc1RTMzdlFPTElNa3ZPZXk4X0huQ3NJTXp3V0M3UU9sVmp2aWxVTDBJTnJiZS16ejNId3JWaF9VRzF4UHlHRFVuak9XSWNvOTUxX19yQmhjaU90T1J6Q243VGx0VHNoUEs4UjY5VGMwMQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "601b5553ed11",
+      "title": "Uespi abre 40 vagas para curso gratuito de mandarim online - CidadeVerde.com",
+      "published": "2026-08-25T18:25:00+00:00",
+      "summary": "Uespi abre 40 vagas para curso gratuito de mandarim online&nbsp;&nbsp;CidadeVerde.com",
+      "sources": [
+        {
+          "name": "CidadeVerde.com",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLXdUeGNWQURhT08xOGhMZTdtUnZ6WGROX2h6N0Fxa2dfUk5lS3ZydjVIM2hFWk9yM1JaZFNZVDJTYjlPWFM2bmFjM1pDOVNFQzJoOTdMNlk5Y195Sm5QTFQzSERqcFI5YkN0S0RRdTVoVW5YZGtFSjNoX3RHeWFUaHdVMWtBdDhaZlZ0ckxaamtQNmJ3WGFlaEEwNDRDZFk?oc=5"
         }
       ]
     },
@@ -54,22 +150,10 @@
       ]
     },
     {
-      "id": "38febebbd9a0",
-      "title": "Febre do Nilo Ocidental: Ministério da Saúde investiga caso provável da doença em mulher de 35 anos no PI - G1",
-      "published": "2026-08-25T16:37:11+00:00",
-      "summary": "Febre do Nilo Ocidental: Ministério da Saúde investiga caso provável da doença em mulher de 35 anos no PI&nbsp;&nbsp;G1Febre do Nilo Ocidental: 8 perguntas e respostas sobre a doença que teve casos confirmados no Brasil&nbsp;&nbsp;BBCFebre do Nilo Ocidental: casos registrados em SP e SC podem provocar uma epidemia no país?&nbsp;&nbsp;O GLOBOPiauí investiga caso provável de Febre do Nilo Ocidental em mulher de 35 anos&nbsp;&nbsp;CidadeVerde.comFebre do Nilo Ocidental no Brasil: casos em SP e SC c",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qLVRzbDJrTGZ0TzExTHJSbWJfcElJb0JuVWFvV2VJVEZvUThPV0lvdTFCd3p0Q2hCekVQWUhSLXNnVlFKOVdHaTFsS2dGUzlnQ0pWZDFCbEEzR1dBdDNoTjdjeC1TWWkwLXEtVEhaR1pGcU9mNjYyNnZhSdIBigFBVV95cUxOdWpRYnRfNkhCV0VILS1WRjA5MmJTQkl3YWxEZmxaZzd4TlJ2aWRoQUdzS0JJa1pDeTZsbXBnQThvclFTdzkyQXU0dEhtcWM5SzBKOWNvTjdzd1VWam1yTGJNRFZRUkhIRWR5alF4bll4SjRJUTVrZVZqNXRyUlNmTlFENXRsS0VVSHc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9489ba77c250",
       "title": "Doze jovens da mesma cidade são diagnosticados com câncer - iG Último Segundo",
       "published": "2026-08-25T15:09:00+00:00",
-      "summary": "Doze jovens da mesma cidade são diagnosticados com câncer&nbsp;&nbsp;iG Último Segundo12 crianças da mesma vizinhança são diagnosticadas com câncer raro; entenda&nbsp;&nbsp;O GLOBOSarcoma de Ewing: entenda o câncer diagnosticado em 12 crianças do mesmo bairro&nbsp;&nbsp;TerraDoze crianças da mesma vizinhança são diagnosticadas com câncer raro nos EUA&nbsp;&nbsp;Jornal Opção12 crianças da mesma vizinhança são diagnosticadas com câncer raro e acendem alerta&nbsp;&nbsp;Jornal Correio",
+      "summary": "Doze jovens da mesma cidade são diagnosticados com câncer&nbsp;&nbsp;iG Último Segundo12 crianças da mesma vizinhança são diagnosticadas com câncer raro; entenda&nbsp;&nbsp;O GLOBOSarcoma de Ewing: entenda o câncer diagnosticado em 12 crianças do mesmo bairro&nbsp;&nbsp;Terra12 crianças da mesma vizinhança são diagnosticadas com câncer raro e acendem alerta&nbsp;&nbsp;Jornal CorreioDoze crianças da mesma vizinhança são diagnosticadas com câncer raro&nbsp;&nbsp;Metrópoles",
       "sources": [
         {
           "name": "iG Último Segundo",
@@ -90,22 +174,10 @@
       ]
     },
     {
-      "id": "09e76edf75ae",
-      "title": "Pensilvânia registra primeiras mortes por sarampo nos EUA este ano em meio a avanço de surto - UOL Notícias",
-      "published": "2026-08-25T14:33:07+00:00",
-      "summary": "Pensilvânia registra primeiras mortes por sarampo nos EUA este ano em meio a avanço de surto&nbsp;&nbsp;UOL NotíciasSarampo mata duas pessoas não vacinadas em meio a recorde de casos nos EUA&nbsp;&nbsp;O GLOBOO que se sabe sobre o aumento dos casos de sarampo nos EUA&nbsp;&nbsp;TerraSarampo: Estados Unidos registram primeiras mortes de 2026&nbsp;&nbsp;VEJAEUA relatam duas primeiras mortes por sarampo este ano, ambas de não vacinados&nbsp;&nbsp;R7",
-      "sources": [
-        {
-          "name": "UOL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNeFJKTGhFaTFSdFFMMVZoX0s2RGFBRkdxckdrblFxSk85WGpuSGstN2lHblRyRW5TYm5lRDEwMk5HeGlEWU5oRmJWU3kwLVEtckdyRXRDS1IxbGx4OWdpb0NYNlB3TUhqZGFkbmhIUVBpdC1PZThYOEJPMnhQMnVkazZrRm9wbE5JX1NsSEVrUmNHQnQ1WnhoV0NxdjZDTnBqMk16aHNOVWlKam5HSGZFeWdoTmltNllqQXlPVzRkZFlwVkVCMFZJNVBSWUlVUk41cm5ta1lsN0RqQWR2NHlaUXVuTnRSWEo3SkZJ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "772ff3ef688e",
       "title": "Ele ia ao banheiro 8 vezes ao dia e perdeu 10kg por doença: 'Achava normal' - UOL",
       "published": "2026-08-25T12:30:00+00:00",
-      "summary": "Ele ia ao banheiro 8 vezes ao dia e perdeu 10kg por doença: 'Achava normal'&nbsp;&nbsp;UOLVeja mais manchetes e perspectivas no Google Notícias",
+      "summary": "Ele ia ao banheiro 8 vezes ao dia e perdeu 10kg por doença: 'Achava normal'&nbsp;&nbsp;UOLDoença de Crohn: novos tratamentos transformam a vida de pacientes&nbsp;&nbsp;ES HojePaciente com Doença de Crohn relata evacuações diárias acima de 40 e uso de fralda&nbsp;&nbsp;Portal TelaA urgência da cirurgia urgente de Luís Augusto Oliveira Monteiro destaca a importância da solidariedade em momentos críticos da saúde&nbsp;&nbsp;TerraAjude meu irmão na luta contra a Doença de Crohn&nbsp;&nbsp;Vakinha",
       "sources": [
         {
           "name": "UOL",
@@ -174,18 +246,6 @@
       ]
     },
     {
-      "id": "42cdf6a45e3b",
-      "title": "Nova espécie de “cão-urso” é descoberta após 16 milhões de anos e revela um predador pré-histórico desconhecido pela ciência - Super Rádio Tupi",
-      "published": "2026-08-25T01:04:46+00:00",
-      "summary": "Nova espécie de “cão-urso” é descoberta após 16 milhões de anos e revela um predador pré-histórico desconhecido pela ciência&nbsp;&nbsp;Super Rádio Tupi",
-      "sources": [
-        {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaURpZWx6enlNTS1kTTlwRWNVbndGSUxDZWRDN1ZHQ24td3VtYzNfR19DN3FkSkhZb2ItMi1NWjJlUTVyeUZtTG5YUWVNUnJDaElWOG84WFdZaEtXRlJkcmFCWjNUdnN3TVViNHVLSElXSXdrSU15YldIVWc5ZWEyOHVIaXplOUxzdXZoOWtwaUlRdzFnV1B5UjNuaEc2bVNBZVV6ZU16VldJRGthZ19rT0ZXZVc0NjhWZUZadUpQNWRTYTc1WURmRmRTX0VSRXQwMVlRM3VIaEhGbHh5TVFFM0wtNA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "29825ec714f7",
       "title": "Quase na velocidade da luz cientistas recriam um mini Big-Bang colidindo partículas primordiais para criação do Universo - CNN Brasil",
       "published": "2026-08-25T00:03:51+00:00",
@@ -198,26 +258,14 @@
       ]
     },
     {
-      "id": "5d9c2a1bba08",
-      "title": "Garimpeiro tenta serrar pedra de 17 quilos achando ser ouro, leva para casa e descobre meteorito de mais de 4 bilhões de anos - Diário do Litoral",
-      "published": "2026-08-24T21:15:00+00:00",
-      "summary": "Garimpeiro tenta serrar pedra de 17 quilos achando ser ouro, leva para casa e descobre meteorito de mais de 4 bilhões de anos&nbsp;&nbsp;Diário do Litoral",
+      "id": "c3eb0c1c7fa7",
+      "title": "Por fila do INSS, TCU coloca benefícios previdenciários em lista de ‘alto risco’ - O GLOBO",
+      "published": "2026-08-24T23:58:03+00:00",
+      "summary": "Por fila do INSS, TCU coloca benefícios previdenciários em lista de ‘alto risco’&nbsp;&nbsp;O GLOBO",
       "sources": [
         {
-          "name": "Diário do Litoral",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPck5oX0o2bnNYdkJaQm5BLW1RUHBqUWJMOXZlaV9QZzFWbC1OSmpGUlRhMlR1Q2lobkNKb2RRZE1md2lLT3lCbWVWS2tBODUwSVR3MkZZWGdpYzNQZTJYd2dzWW9XYWt1aUlQZld5cll3aUdiMVlmcy1CdVFfQ2FQeUZJMGRmdVczYURjRnZ2TTNBWE5JTFpORlpwcFhNYXZSZzhRS0ZUenR3SHU0Q3QxOEtMTUdPYTJ1XzV5SzE1MjlkREY5RmtSTk9jZTlaUFFyb3FvQ2hsb21jZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "eb726a1838e3",
-      "title": "Médico confunde sinal de câncer com diabetes e homem morre dias depois - Metrópoles",
-      "published": "2026-08-24T19:38:00+00:00",
-      "summary": "Médico confunde sinal de câncer com diabetes e homem morre dias depois&nbsp;&nbsp;MetrópolesPaciente com câncer de pâncreas morre após diagnóstico apontar diabetes; órgão aponta falhas médicas&nbsp;&nbsp;O GLOBOAtraso no diagnóstico de câncer de pâncreas leva órgão de fiscalização a determinar pedido de desculpas à família de paciente na Escócia&nbsp;&nbsp;Ceará Agora",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN1ZtSFpnclRWejdmcVlPWVdlcVNtbWRZeThUbHlVbjh4T0JsVzVEbVAwb21ENzZldG1GOEZpQnFnMjZ1OU52QnBVQ2FYeDBnNzItSC1tS3Eyd0s0QWJodFBnQUNOUUVZR19SRU14azdQVGdiSHg3T1hJN2dCN2Y5QzQ1bTRBMjZJSXZaSVN4NnZKa2lORDduYmo1Qlc2SVhzU2dxQnBB?oc=5"
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUDNzQ1JRcVExTlF6UHpaVE5CMXoyMUx6eDFvSmtqaUlod3JFbGh0NWRaRExJbVlYRVhJVzA2ZE1PM2pxa3FNNFVYMkk4RGIzN1VWaEVJMjZDVmJaSTNJTGE4X0pIeHJfamJMQjR2eVVIUXBtMDI4SnFzNjgzOUlrakR0UHRfYS1iWXhVaThvalByZ0U0eFZhdUZTNmFNdlV5ZkZmVTZaQXA2X2kzVWwzU2NMbUd3S19LV25ScHhRZUYxYTJRa3JzTVVpb0dPZWF1c3fSAeABQVVfeXFMUENSVzMtUzRpZk9wZW5rWjVGbjlScEdxZV93OEVxeFJyVkhkSWpaemlqdEw3Y0FCZU5XbmxPa2xaWmxvYlpMZ0d2enllUHNYUFNiOGNZcGhiOUVYY0R5bjlTZEpVbWVLVmVlZFhhQ2NyNWNQMlZqTkxUa0NyUTlRcVZZSWhVeGJKMWhYaUhGRzJSQk1EUkVjVnhEeS1ScGQ4MGZGcEZzdDFTSUxuaXdoeU9obWYtc0lQbkpYYmhtSXhFcHpXZnNyaUhTOTQwUjJYbURZVXBNZUxJT0tkTTc0X0U?oc=5"
         }
       ]
     },
@@ -237,23 +285,11 @@
       "id": "e7d8a33fea91",
       "title": "Novos fármacos e adesão ao tratamento são chaves contra colesterol alto - Folha de S.Paulo",
       "published": "2026-08-24T19:00:00+00:00",
-      "summary": "Novos fármacos e adesão ao tratamento são chaves contra colesterol alto&nbsp;&nbsp;Folha de S.PauloSentinela virtual vigia o colesterol e pode ajudar a evitar um novo infarto&nbsp;&nbsp;VEJACardiologista do Mater Dei afirma que colesterol LDL é fator de risco causal para doença cardiovascular&nbsp;&nbsp;Rádio MetrópoleColesterol alto: nutricionista explica o que precisa mudar na alimentação&nbsp;&nbsp;GloboColesterol alto nem sempre é culpa da comida, mas fatores como tabagismo, obesidade e hipe",
+      "summary": "Novos fármacos e adesão ao tratamento são chaves contra colesterol alto&nbsp;&nbsp;Folha de S.PauloSentinela virtual vigia o colesterol e pode ajudar a evitar um novo infarto&nbsp;&nbsp;VEJACardiologista do Mater Dei afirma que colesterol LDL é fator de risco causal para doença cardiovascular&nbsp;&nbsp;Rádio MetrópoleSBC estima que 40% dos adultos têm colesterol alto; saiba como proteger o coração através da alimentação&nbsp;&nbsp;Francês NewsColesterol alto nem sempre é culpa da comida, mas fa",
       "sources": [
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ2pmOGU3WE95cmNSZ0ctRHh5bjJGdGI0ZTdOWDM2cGt6ZzVfc0FhZHNFeVRlSmM4WmpPVUs4Ukd3cmY3VkNsREEzUGlEWHZ1REhKbjJZSEJlZFVnSG5IYXZWOExzR0dVWlhSV2VYWVg0YXhwbXNEaDZGM1dKZTJLNXdmd2h1ZnZzRXJUTUtYcVBoN1E0ZnlLNVI3SjR2aE52MmJqUVZWZmItWWcxTTJOSGpHMFVBbFNpY2pPOV9pdUNqT1l4ZzFoRVI5UUg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "193429c7f0a3",
-      "title": "Sociedade médica atualiza orientações para tratamento do diabetes tipo 2; entenda as mudanças - Estadão",
-      "published": "2026-08-24T18:07:00+00:00",
-      "summary": "Sociedade médica atualiza orientações para tratamento do diabetes tipo 2; entenda as mudanças&nbsp;&nbsp;EstadãoDiretriz SBD 2026: o controle glicêmico isolado não é mais suficiente&nbsp;&nbsp;MedscapeSociedade de diabetes atualiza diretrizes e inclui combate à obesidade no tratamento&nbsp;&nbsp;ICL NotíciasDez pontos para a prevenção do diabetes tipo 2&nbsp;&nbsp;G1Diretoria da Sociedade Brasileira de Diabetes no Pará participa de atualização científica em obesidade&nbsp;&nbsp;romanews.com.br",
-      "sources": [
-        {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZFVKdHpfQVpsSWhRQmF4amJUc2J5TUh5VV9MVUtJa2lYeTVtNFI4ZW0xckVNSUFGbDFhYW9ZV3Y0YnpSbXhQYmNtS2tPNXBmeGw0TXJta3QzYm9UM3BGR0NqcFJMSTJTUW1ZRVdDclhPcVJQVWZ6aWdueFNnYmROblhvNEhXVUpqRDNPb2s5c05jWEhOakoyUWN5aU93STh5STF0WnVSZjAyVC1PXy1UdmpHNTdTeDBiS2NNVUpER0dGbURwNl82YS1hdnpwODVTX3RRTnFGNEc2R09VaDdJZ0RBUkvSAeoBQVVfeXFMTXphS3lLbXVzVnRYd2hGUjdIWnlNeHFDU19oSW0tU3VoS2lTczZNSnFMNmdnQ3UyZTltRmZ5cVl6YTRsb1NTUE1fbFhnWnk0NFRNRWZhTXlKd09wUEN1aFBZY2c5UXZ5c3BfNUlielV6UkYtYklwUm9RdEEyd2hiZms2empRaFF0YlF6bHYyWG9sM0g5WFVfNWM1b1dfYmtiMERKd3lfR1hYWFNCQ1V0UnhxQXpfQlI2VUFOS1Fpdmh6MUNjelFrNldQQUVZSVdKMldCOHRSS3U4TXo5X1dfUElqYkZKQURseEJR?oc=5"
         }
       ]
     },
@@ -294,21 +330,9 @@
       ]
     },
     {
-      "id": "42ede29fa243",
-      "title": "Uso de cocaína e anfetaminas dobram risco de AVC, aponta estudo - UOL",
-      "published": "2026-08-24T12:33:01+00:00",
-      "summary": "Uso de cocaína e anfetaminas dobram risco de AVC, aponta estudo&nbsp;&nbsp;UOL",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR1N6X0Q4VUVISG56bFNsOUg1SWhkTmtteTZoaXpVamVxdW9xVnpsNWVvbUhkcUtGd3FDaVdIekpLRVlzZEpwMU12NEJhYlVDdkRTS0wzbEVvUE0tS1EzcEFaNjNYWk5yZ216Ry1GMXEyaXlBZUM3aDdtblpLRHlwZ0xGc092WVJUVUtCbEJCRDFsLUNDWGR0WW44TlVfeFRRNjlzV0V5QjRuSkprMF9kZzJ0TXREOVY2aXAw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "46fde7d6ea69",
       "title": "Estudo descobre 40 mil novos vírus em metrô, bancos, hospitais e esgoto - CNN Brasil",
-      "published": "2026-08-24T10:09:43+00:00",
+      "published": "2026-08-24T13:09:43+00:00",
       "summary": "Estudo descobre 40 mil novos vírus em metrô, bancos, hospitais e esgoto&nbsp;&nbsp;CNN BrasilEstudo em 102 cidades revela mais de 40 mil novos vírus; lista inclui SP&nbsp;&nbsp;GloboMapa global identifica mais de 54 mil vírus inéditos em várias cidades&nbsp;&nbsp;MetrópolesMais de 40 mil novos vírus são descobertos após estudo feito em 100 cidades espalhadas pelo mundo&nbsp;&nbsp;CrusoéCidades escondem milhares de vírus ainda desconhecidos pela ciência&nbsp;&nbsp;Correio Braziliense",
       "sources": [
         {
@@ -318,14 +342,14 @@
       ]
     },
     {
-      "id": "b0b698129f74",
-      "title": "Mortalidade de mulheres por câncer de pulmão dobrou em duas décadas no País; entenda por quê - Estadão",
-      "published": "2026-08-24T08:36:56+00:00",
-      "summary": "Mortalidade de mulheres por câncer de pulmão dobrou em duas décadas no País; entenda por quê&nbsp;&nbsp;Estadão",
+      "id": "42ede29fa243",
+      "title": "Uso de cocaína e anfetaminas dobram risco de AVC, aponta estudo - UOL",
+      "published": "2026-08-24T12:33:01+00:00",
+      "summary": "Uso de cocaína e anfetaminas dobram risco de AVC, aponta estudo&nbsp;&nbsp;UOL",
       "sources": [
         {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWkNoZ2h6QUpTaVZURE9uQVpZR0p2Qk5JcHdKNXZGWk9HWXN0UnNhVThFWUExU3AyQ2xhYVRfdnBaWXlNR190TXh1Y3JLVG55Rk5xZEpUak9MT1V6eXhXYUlvU256dTlnd2pSVGVlYktCV1BXdDRQSEJqTkkxTG1yTjkxaGYxRGNscXJYVXpjWjBnbmhvbEN3dW5Qc3ctS1lUbVhoRUtOVlRaUEdNNF9HVWt4blgwVy1QWTZNRE5xR1VOTFh1THZ5VGhUcjRuYzZWVDJUaWxTRDhuVWxO?oc=5"
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR1N6X0Q4VUVISG56bFNsOUg1SWhkTmtteTZoaXpVamVxdW9xVnpsNWVvbUhkcUtGd3FDaVdIekpLRVlzZEpwMU12NEJhYlVDdkRTS0wzbEVvUE0tS1EzcEFaNjNYWk5yZ216Ry1GMXEyaXlBZUM3aDdtblpLRHlwZ0xGc092WVJUVUtCbEJCRDFsLUNDWGR0WW44TlVfeFRRNjlzV0V5QjRuSkprMF9kZzJ0TXREOVY2aXAw?oc=5"
         }
       ]
     }
