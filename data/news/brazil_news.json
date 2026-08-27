@@ -1,8 +1,321 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-08-26T19:49:02.501578+00:00",
-  "total_fetched": 0,
-  "unique_count": 0,
-  "health_related_count": 0,
-  "news": []
+  "fetched_at": "2026-08-27T08:06:18.452288+00:00",
+  "total_fetched": 71,
+  "unique_count": 70,
+  "health_related_count": 26,
+  "news": [
+    {
+      "id": "034984eab313",
+      "title": "Pílula contra câncer de pâncreas que fez médicos chorarem é aprovada nos EUA - G1",
+      "published": "2026-08-26T23:48:05+00:00",
+      "summary": "Pílula contra câncer de pâncreas que fez médicos chorarem é aprovada nos EUA&nbsp;&nbsp;G1Opinião - Fábio Busnardo e Dov Goldenberg: O dilema das inovações em saúde&nbsp;&nbsp;Folha de S.PauloFDA aprova terapia inédita para pacientes com câncer de pâncreas avançado&nbsp;&nbsp;Gazeta do PovoCâncer de pâncreas: EUA aprovam remédio que dobra tempo de vida de pacientes&nbsp;&nbsp;VEJAOppenheimer eleva preço-alvo da Revolution Medicines após aprovação do FDA&nbsp;&nbsp;Investing.com Brasil - Finanças",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBrMjJPX05WTWg2Vi1pRk1oaUNDeFlMZEJRM2ZmTnU2bjVDVU9DZGt0ZkNBTFpsWTVsN3JtaTFnWUxvanNrNFlEZ2dGMkFGd2tWaGZjQXdaUzhWc2pDRnBSSGQ4YlR1Wm1tMlBVLVJlUFZ3RnJIUGxyVW5seWvSAYsBQVVfeXFMT1J3cWMxeEQ2OFZwUlBpSHkwa09GMEFveFFmYjhpeWlUTEtnVHdDWDRVelNXZndtSDB3WTJEeGU5enRELUJCS0VyTHZ1anl6WGJCWUpUMjJHLU5WcFFYOGFESWNpWFN3Uld2V1dibVQ1ZFFySnJjNVVlVEdDTjVYcXNKMXd6MENfekdVUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c9d7ac240d84",
+      "title": "São Paulo mantém vacinação contra sarampo até 1º de setembro - Folha de S.Paulo",
+      "published": "2026-08-26T23:08:00+00:00",
+      "summary": "São Paulo mantém vacinação contra sarampo até 1º de setembro&nbsp;&nbsp;Folha de S.PauloEstação Brás da CPTM recebe campanha de reforço de vacinação nesta semana&nbsp;&nbsp;agenciasp.sp.gov.brSão Bernardo terá quatro pontos de vacinação contra sarampo no sábado (29)&nbsp;&nbsp;Diário do Grande ABCPerdeu a carteira de vacinação? Entenda o que fazer se não souber se tomou as doses contra o sarampo&nbsp;&nbsp;O TEMPOGoiás reforça vacinação contra sarampo diante de risco de reintrodução da doença&nb",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSHZsUkJ2Q25BcmhUQTNWTmR4dmdNUEZlUGdkZElVUURnYXNIS1A5VXZSWF9tTkp6UUtlNWhhU1IwZnJkanA5UHJKVXRNWDYxSWx4bDZ6Ul9tZHJQZWJaeTh5b3BiR2xiS1Y2NEhVLThKaFFuRzZNb3cwN3lQQXRjaEd6Rlpqbks2bWU5YnlZSzVLUHRhejdGbUx2N0hXQ05Ua0Ziamk2U18xTnZabG5zaV9YcC1KT2otdlVoMkFR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ba82437373a1",
+      "title": "Dois trabalhadores do Aeroporto de Frankfurt morrem de malária após mosquito viajar em avião até a Alemanha - AEROIN",
+      "published": "2026-08-26T21:27:49+00:00",
+      "summary": "Dois trabalhadores do Aeroporto de Frankfurt morrem de malária após mosquito viajar em avião até a Alemanha&nbsp;&nbsp;AEROIN'Malária de aeroporto' deixa dois mortos em Frankfurt&nbsp;&nbsp;Folha de S.Paulo'Malária de aeroporto' deixa dois mortos na Alemanha; outros quatro foram infectados&nbsp;&nbsp;O GLOBO‘Malária de aeroporto’: duas pessoas morrem após contraírem doença em Frankfurt&nbsp;&nbsp;VEJAAeroporto de Frankfurt registra mortes de funcionários por malária transmitida por mosquito&nbsp",
+      "sources": [
+        {
+          "name": "AEROIN",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPS0xRS2N0T1ZxUzF0OEZBVHY5bDlPWU5wMmhBX0d0T2FuXzNvWlhReS1EV2ZUTTZwTG1LVWt5SUxqb2U4TTM0UzYxS1llQi1fd295QW1DTVVJd0tCZlk3SC1HWmxNRzJTWHRkUkRQb0MwX05LOXFqX0xRZTc2MkY1OTRaSVJZMG1zT2l2RjZwbF9wQjJ1Ul9rXzY1aWJ3OVRCV1BRZXlYTlZiaEVWZkxiZmtZUFo0emtwYVA4YTJ6MS1wcVhwVWfSAcYBQVVfeXFMT0tMUUtjdE9WcVMxdDhGQVR2OWw5T1lOcDJoQV9HdE9hbl8zb1pYUXktRFdmVE02cExtS1VreUlMam9lOE0zNFM2MUtZZUItX3dveUFtQ01VSXdLQmZZN0gtR1psTUcyU1h0ZFJEUG9DMF9OSzlxal9MUWU3NjJGNTk0WklSWTBtc09pdkY2cGxfcEIydVJfa182NWlidzlUQldQUWV5WE5WYmhFVmZMYmZrWVBaNHprcGFQOGEyejEtcHFYcFVn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4c452c991b3f",
+      "title": "CNPq divulga resultados de três chamadas da área de saúde - www.gov.br",
+      "published": "2026-08-26T21:20:30+00:00",
+      "summary": "CNPq divulga resultados de três chamadas da área de saúde&nbsp;&nbsp;www.gov.br",
+      "sources": [
+        {
+          "name": "www.gov.br",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWUkteEhmaFNUdUhFZkV4SVhDcVlmblFxY050VlpJcnJrdklsbFZQcGlraG43dE9Kemt0R0V4OW5XX0dMUHFUelAzTlo4ZFQyTVhvWlpCTXlMR3JjN2RHXzlpN0JFaGF4VV84Zm1MWkEyUC1jVFRPcDVIdkdRbHhYZHQwTGM0YjY3U1I1enZlNGhiaGNFY2FIcktVTUE0MlpxdmJfVFVORlExZnNu?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bc3b8c65345f",
+      "title": "Conheça a injeção em estudos que pode tratar o colesterol alto após uma única picada - Estadão",
+      "published": "2026-08-26T19:00:00+00:00",
+      "summary": "Conheça a injeção em estudos que pode tratar o colesterol alto após uma única picada&nbsp;&nbsp;Estadão",
+      "sources": [
+        {
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeDRIa3dqbERqbW1FRy02SVNoT0FJdUpIUDBwdGJmcmZiblRacUVPeDFSQVprUXBzazFBT3Jncmx1UTI2akxTazVwWG9ISTVBUFN4cnFESW1vZWFyZkxUY0RxVzNZM3pHRHYwMFhTUkxCakNwNlczNW8wRFE4V0VYd2RweWlZUGVtSGpkME95NDhRSEpQZ1J4alVRMlRiNEY3VEVoQ0xmWkR4SDJVMFBEaWZ3cTZnTl84Sm9rUXAycTlCdFVIQXhBakFGQndReXkyN1HSAdcBQVVfeXFMT29XS2MwcFFsN1hBbEtqM3NOeWlTbUJTelJyeGktT0hzcVBraHM1aXVlOTdBbUw1YVljdTRScHgyWmxDcFR6bDQ3LVZIclhxNGN0QnJVbjNiNEREaXRIR0JzZnR6cEU4SWE1YWYtUThFWElUdm9Da2gzMFVhY0FMWWJvMi02MTdlbGhDZTc4bE04eWJ4ejJNUDgtc1dvUWhCam9RVTVDbHFyd0UyZ0ctSlF1dzdvUmNoV01lUVZ3QS1lY3RXMFlUZjFaZDNYcTl1QzJkcjFvSGM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4da9296eccbe",
+      "title": "Amor à primeira vista? Entenda o segredo da atração e por que nosso cérebro decide se 'gosta' de alguém em apenas 3 segundos - CNN Brasil",
+      "published": "2026-08-26T18:13:46+00:00",
+      "summary": "Amor à primeira vista? Entenda o segredo da atração e por que nosso cérebro decide se 'gosta' de alguém em apenas 3 segundos&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNQ0xTWWhWR0pFMk56QVBZMGhpbzlaN1pSN0hxSHRKVUc5aTBtU2xWSlNYdzhUUmdsVUkyVFl0SFRBVDQxYzhHS2FrbkdsY2dOamEzQ2l0bHdlQk50UVdJNEVCU2hFcUNQc0t3NXV0V1lCd3JKSVllcGlwYkd1QldjUXJDa2k3cDRDZEhIZ2pmdXlDUV9mUlM4YVpzOWwyN0E5bXpWR2V6aW10cUhTT3dyTXhYM19TMEx4WjV6b0paa2tMWGl2R3NtbWJrN21CUUROSkdHZ1JvV2FiNm9kQ2oyQ29LdzFXTGdaTkgtQzNIVDU2Tkp1M0Rr?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "048cbabf88a0",
+      "title": "Cachorros podem usar piscadas como forma de se comunicar, sugere estudo - Globo",
+      "published": "2026-08-26T18:00:23+00:00",
+      "summary": "Cachorros podem usar piscadas como forma de se comunicar, sugere estudo&nbsp;&nbsp;Globo",
+      "sources": [
+        {
+          "name": "Globo",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeHFOc3RNdUo4SnREQXlDZnRaXzBVLUlXamRhMzBsc1loNE9wdXRvclpyMlRNU2lxZ2xHWFA5bVVwZkQ0VDU3UUdYNGhJRldZQ2psY1dTOFRORDBtMUhUZkNzeEdILVRCb0xNZFF5V0JmUGRheXRaRG9QQnFHVjRsemRBVEIxNXV3b2phX1lKTUFTSXFOVGdnYm90Z1hKQVc1eGlCeHlMMnZPbkNXRS1xbkpBeFcteEFkMndUNXJXUkh3RFBkUXpiSVdVSmNoaEh0c0ptYmVkZzB1Z9IB6AFBVV95cUxOM0Q2T0N2NHp0NWU4SEVqM0hrQ0lYMVVBYy1teU1kcFluWjhzdkZrUlZpTF9mbU1EMHp3V1Z1ejhMUC1nUWFzcUFubkhSbzNIRHQ1VEkxYXhQQ1dWN1dNU2k0MXhta2dkd25FR2tINWtZeFVFQ3FudnIxR2NSbG5kQmVtMTJQMFQ4RXhlVDNEcG9kcWp2WW90ZFBEMEJXcHZFMnh4cDQ2LWJQbHhkcXJ4TFNsT3EtWml4YkJDRnVTS0dUakhHY3VLMXZ0WnExc3R6SnZGOW53anVWbDJjWWxqc1FSY0NTYjlf?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "58935f26df7a",
+      "title": "As pessoas mais inteligentes costumam nascer nestes meses, segundo estudo - Portal 6",
+      "published": "2026-08-26T17:43:38+00:00",
+      "summary": "As pessoas mais inteligentes costumam nascer nestes meses, segundo estudo&nbsp;&nbsp;Portal 6",
+      "sources": [
+        {
+          "name": "Portal 6",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT3Q4QzFYOUpEOVhGbGpTWm1rS2Zvc2R4NDVwUTljblhrUkV1NzA0T3kwM29UdWprMldLZ3dyZERCazJsT2VwMElOSmpUTDdjNVdnVGd4eDdzdnctZURUbGpUTFdVRHZJSzUzM1A4Qk9FSWE0aHNBTE5xOXlaUmxBZFM5R2M4TGpvSmhqMkRPTG9yY1pPYnVFXzluVmNBenQydGN3TlJ0djlJUTA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "743beb5161a5",
+      "title": "Rios de Palotina são analisados pela Ciência UFPR: Índice inova ao medir qualidade dos rios pela saúde dos peixes - Portal Palotina",
+      "published": "2026-08-26T16:24:54+00:00",
+      "summary": "Rios de Palotina são analisados pela Ciência UFPR: Índice inova ao medir qualidade dos rios pela saúde dos peixes&nbsp;&nbsp;Portal Palotina",
+      "sources": [
+        {
+          "name": "Portal Palotina",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQWxKdWJsdzN2NktFbE5xSHFlZzQ2c1hDVHg4NUs4QWdlMURXVnBVWE9LTUh4SllFMkNxbDVZcWRuMmVXMnBlVldkRnZ2SlhCZ21TUVMzTThsMHUxVmNxSjZyLXJwSlJhcUd3WXNNUWlFcklyS2FfSWpQZmo5U0FycDZmaWZtOWgwVHJyekF5cFVIaG5IcjFfOWxlUHA0NFdkSkRZXzlCTy1rU3ZBQ0xhQ0V1ejNwTE9iRFptRjRVSkFtUWVybFlQYWxWYUh3ZkFYRFVIeFA3RlBOSDlocEw1Y1hzRUg2b2hnOW5YaG13bzA0VFZ5RWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bc9352f68c99",
+      "title": "Câncer de ex-comissária da Air France é reconhecido como doença profissional na França - G1",
+      "published": "2026-08-26T15:51:30+00:00",
+      "summary": "Câncer de ex-comissária da Air France é reconhecido como doença profissional na França&nbsp;&nbsp;G1Veja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMWJ1RUk5U2luY2YxSXVJU0wzYmNoNE04UFJ4X2NWT1RxRGNXSmoyQ1FJTzV3REFLQXpDdE9vX29yYWZrdzJrZnJ0RFRBSlNjUEpXbGUxZ3RMbXRVOGVIY1FRSVREcHRlWlBZLUpHaHAtc1pDZmdSeVQxSElMTmFNYXBFcWFYTjZrZl92Uko2aVJ6Nk5rckNMOVZRa3hjbm56MmFWTXlmWEF1ZDhObnpZbzd0TWxtYWV4dGdYVEtGZURiMTJvekJDU1h1OURfZm9jY191VNIB4wFBVV95cUxQMUw3S0lRb3ppaDBUWnVxWkp3N2hZUVRERU43aUlMYXE2T3ZKdHVoQTB3NHZyT0RUTE9xbF9PXzVwTFJ0Y1lIeTRhczBuZ0R4dy13bWZQY21OcTI3SXpscDd1eGh1UnlXZkM2dXNTcTNPS0FqYk1hUGxLUGEtS1N1UE1EUnpSRzZvekhjbFJCaFdzQlRpaXNfVjIwZ25zNHV6N3ZNaVNNTUV0M1ZNOVc0aXNHdU4wQUNpbGhoelB0blJEb2FUdkhDS01abmV5ejlPdXlhMVZSOUlNTkZGbS1jcVM0RQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "69e2406cb066",
+      "title": "Desafio Diagnóstico: Adolescente com hipertensão grave e diaforese - Medscape",
+      "published": "2026-08-26T15:39:06+00:00",
+      "summary": "Desafio Diagnóstico: Adolescente com hipertensão grave e diaforese&nbsp;&nbsp;Medscape",
+      "sources": [
+        {
+          "name": "Medscape",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPY2ZTY3RsUG1RTExqTFJPSlZlRDBOQTNGaHU5amN6emxCN3lZbVhodVlBSHIxRlpKNTZFckg0N3FzaE5tNjFWTnBkdXZHaHczcV9WRy01cGFkWVBLVDdjb29sZTFfZjFwRS1SblY4MllRckVtSDI4ZWI1QjlDUzR3aURKNE1VLUhQNG9NWHNHVlh5U2hTemMwSzNYZW1RbzM4MDRLSmo5eGlGY0RpRGk1NFdMdi03dw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c9211318607f",
+      "title": "Professor da UFG é o brasileiro mais influente em Inteligência Artificial, diz estudo - O Popular",
+      "published": "2026-08-26T15:33:45+00:00",
+      "summary": "Professor da UFG é o brasileiro mais influente em Inteligência Artificial, diz estudo&nbsp;&nbsp;O Popular",
+      "sources": [
+        {
+          "name": "O Popular",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQblc1c1o0cGl0clh2S2o4bkUwaTF3NFc5TnoySG9CMHJkMzZPRzVnNW9rSjF1bWJGZzhmZ3cxeXN6em9XRldyWEVBS2x1MVJEU1VKWGFmQ0tfWHBvaUFWSlp6czVNdkxSa2JFQi1HMjBZNjNKU0daWHY3WG56bDBjSmpkekJVa0JzcGlROVJnSHYtU2s5cW9MRFA3N2tXRVJybjBMZ1dwQ2RwejdIckVyQk5XQmUwMzZfQVZrT29ERHdEODhm?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "deff56450e72",
+      "title": "Qual o horário do café da manhã e do jantar ideal para aumentar a longevidade? Novo estudo mostra - O GLOBO",
+      "published": "2026-08-26T15:07:25+00:00",
+      "summary": "Qual o horário do café da manhã e do jantar ideal para aumentar a longevidade? Novo estudo mostra&nbsp;&nbsp;O GLOBOHorário das refeições influencia risco cardíaco e tempo de vida&nbsp;&nbsp;MetrópolesPesquisa com 1.500 voluntários indica riscos cardiovasculares em jantares tardios&nbsp;&nbsp;Правда.РуVocê come certo na hora errada? Entenda como o horário das refeições pode favorecer o ganho de peso&nbsp;&nbsp;CartaCapitalEstudo investiga relação entre jantar e dormir logo após&nbsp;&nbsp;Portal",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNOGhIVjZ0ZGZXOEJfd3BuTzh5QVAwaEpXbFJ0UFZQcnNqTkpteEk3Q3RUajlQZ1FGYll6WHl1My1VRXZLZjBZblBVUmItbU9sODVTQU1wdFhpTE12UDl5dDJaMEFUOURQNUdXY2lOVm13RFRSN3h3R2RQMWpqcHBpN0l6TFRoaG1QWmNxbzJYM3p4ZkhFQks0R2MwX0QwWGpsNFpOUHpHWEJMZG5xS2dqTzM0T3h6bWtMNFVSMXNWWHBwOFlpZm42VVVwU05IV0lJNEdXeTFsa3ZFb1NFTFJrXzVQMFBJUlpIOVJnZC14R19IZlRVNmpiN2FjVjV4dER40gGPAkFVX3lxTFB4dVJMbDFkU2RmcTI3RG9TSkNZTVQ2eFg2Umt6MEZJdi00RlpLV0xDa3l6Q0RJeEFxTllQRnJBS0ZWSmoxel8zMWloWVV2OW9RTlRjdGZBNGEySzE2dWlWX3pvNi0tYVZYMXMwb1hqUWJwcnpMQUczQ0lVVlRaV3lFNEN6bkdqNTJjV0hRME1uZWk5UDZCcHlpNEZ4YnJrRXlURzZnLWJ5UlN4MGliZWNrV2tMVXJQX295Skdad2JYb1VOVVNyalp0ZmI5V3JXM0Q4RmVGaFdkUkE0VEpWTFlBY0ZtXzdDNEltbk9La1ZORUUyVTBzU2U2d3Niek1JbGJBcFRwbFB5Mk14NEZiRjA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "aa56fde912f5",
+      "title": "Linfoma cutâneo de células T: câncer raro pode ser confundido com alergia - UOL",
+      "published": "2026-08-26T12:31:00+00:00",
+      "summary": "Linfoma cutâneo de células T: câncer raro pode ser confundido com alergia&nbsp;&nbsp;UOL",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPN09BSkRCajR0OVNHNldhdWtuMVpEREt5SHROWGZBZE9la01VS3J3bHlNRTJWcE45VEdGYkpWYnhTMGNfMFM1ZlJLWG5KSkZBTW5SQkpqc3pxNlU2YUlsY3M2cFd1UkVmZW9KbHpuZHNQelFSN1hSNHN3SkNDYlVPNWVTbHJkV1podWVvYmRka1RpRXpJdThGSkg5RGdWb0RHWFpxeGRlcWh4WHBzVC0zY2Zqc09SSWRFT3BjYW40MzJYSFJ4V1hCZXo2U2RmNU9mVmRGNg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "77af60abf36e",
+      "title": "Cientistas cultivam em laboratório etapa inicial do espermatozoide - UOL",
+      "published": "2026-08-26T12:30:00+00:00",
+      "summary": "Cientistas cultivam em laboratório etapa inicial do espermatozoide&nbsp;&nbsp;UOL",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQnljaFVQb3RvdzFxUnVqWGZlXzBrWFB6bXNfSUVnWDFTRE1GZllNOFV3djRIM2k5WW5UcjZBWFFiVTBMejVVM1lMVGdJNHlhbXc3NG9MdUpMZ2tLTDdEaGhTYUpMMmNUaXp0eW5vMHBzYzl3S0o4WFNuY3RZWWRTN3NSUnFKbmRiZmdTUFJLR01KaTZMSnpuY2dBTGVlMzFfTVl4U3UtZ1R0ekE4QVhrSmJBSEZfd2pHTkY1Z2FyREo5VURrYjFvbUxR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ac26b65e7c1a",
+      "title": "O dilema de Belo Monte: mudanças climáticas tendem a agravar conflito por água do rio Xingu - Revista Pesquisa Fapesp",
+      "published": "2026-08-26T12:01:00+00:00",
+      "summary": "O dilema de Belo Monte: mudanças climáticas tendem a agravar conflito por água do rio Xingu&nbsp;&nbsp;Revista Pesquisa Fapesp",
+      "sources": [
+        {
+          "name": "Revista Pesquisa Fapesp",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTTQxZTI3WUdacHdWWUJjdXBrcVRwdVVnS2NuaXJGdGhsQXN0QmN3ZFowRmt3aEh4NHY4OGpuUVVFdGlxVEZmdVFLMW5oR2lRYmdoaEotZ0RncjVsX2dNNHhBNElXNFd4dWljcHFmOXBMTjZDc1NScEdEeTAtdExaRTdmVWdqRkItOVQwYmFmM1NJcklQSHg0LUpsc05kMDZsLTdpc2tYSFhCOFUzZTUxa1hYb2lVNm5QOVJqM3A4QUlFU00?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ee07e6abd884",
+      "title": "EUA confirmam duas primeiras mortes por sarampo em 2026; doença é evitável com vacina - G1",
+      "published": "2026-08-26T10:33:08+00:00",
+      "summary": "EUA confirmam duas primeiras mortes por sarampo em 2026; doença é evitável com vacina&nbsp;&nbsp;G1Duas pessoas não vacinadas na Pensilvânia morrem de sarampo nos EUA&nbsp;&nbsp;CNN BrasilO que se sabe sobre o aumento dos casos de sarampo nos EUA&nbsp;&nbsp;UOL NotíciasEstados Unidos registram mortes por sarampo em novo surto da doença&nbsp;&nbsp;TerraDuas Pessoas Morrem de Sarampo na Pensilvânia em Meio Ao Avanço da Doença nos EUA&nbsp;&nbsp;Forbes Brasil",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUlEtaUFhV2hITlZ2Z09ibzRWSFdCRmEtbXIyQmN4M0QwQ3poQnBkdnJuR29JcjVQNHVSQWZZZzBwWEVKUWFMckFqMFNjVDliRkVJeGhvaXdMR0hROVVkQWp1dmc4ZEg5aGlmU1pxNUtuNHVHM0c2VV9SVThYUHNUa2pnMzR1TGI2N0JGT0VRdGctd01HcFJoZl9jd0VwcGfSAa4BQVVfeXFMT3dNU2JTTG1RV29SSmh4OENnTmQxaTRiM2lVS3piMWtkREZZTmVNbmxUcGNTOGhET1duNTQ1Wkk0RnVucWI5V2VrVnptU0x2c3dodTJTM0R2ZmVGcFd3ZDRFTWI2UVhuVzNZX1RYNHdRTDI0TzM4NC1lNnVoZTV2RUVhMFdSUHVfYUJwQkVHZ1BZdGlWaEpHakFZeFRjbkRva3pRQ1NmQThVVHhFb21B?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "be73b667330a",
+      "title": "Vacina contra herpes-zóster está associada a um menor risco de demência em idosos - Terra",
+      "published": "2026-08-26T09:55:00+00:00",
+      "summary": "Vacina contra herpes-zóster está associada a um menor risco de demência em idosos&nbsp;&nbsp;TerraVacina contra herpes-zóster é associada a menor risco de infarto e AVC&nbsp;&nbsp;UOLQuanto custa a vacina contra o herpes zoster na rede particular&nbsp;&nbsp;Correio BrazilienseVacina contra herpes-zóster é associada a menor risco cardiovascular, aponta estudo&nbsp;&nbsp;Rádio ItatiaiaIdosos acima dos 50 anos devem tomar vacina contra essa doença letal, mas medicamento ainda não tem no SUS&nbsp;&n",
+      "sources": [
+        {
+          "name": "Terra",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPT2R2Z01uVVNzSGx1eHhUQzE1U0xCOTd2OGF4ZEJRdnQ3aFpPNkdBdmtaWGNfNF91RHlRYjhpNEphaV83MEtYTDhIUmtDWXhfTjRGSXJXZVZqZnhSc1Q3OHd3X29ZVFNtb1ZyRlV6WVltUmJUdloxWGZWUXh2bm11M0hEU3dDSUEwMDNYWjBQM0xMRWhST0t3a1ppOWdLUmQ1NlF4b2pTUS1PYmdFWWZEYlNteUFZY3hNbDM2Wi05V0dhV1V4MEs3azItR0N3Tjl4cTE4Q3pETi1NSVRQM0Z2cFNpbWRTZVpCQVNVZzRrajRjLVktelF3Q3ZUSE1JQjZqckE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fed090f9caf3",
+      "title": "Cientistas recriam em laboratório condições semelhantes às do início do Universo - Rádio Itatiaia",
+      "published": "2026-08-26T09:29:26+00:00",
+      "summary": "Cientistas recriam em laboratório condições semelhantes às do início do Universo&nbsp;&nbsp;Rádio Itatiaia",
+      "sources": [
+        {
+          "name": "Rádio Itatiaia",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObWdwSVU4VDVVUXVVTFNXOEhZOFBWM2ZLVUZrUUJabVJXVjduMjlzNHQyWmpyb2M4SWVhcU1hYmNwNzR4dUNqenhjSmR5M2thYmNMamtseGpTdkx1dFk4bVNralhtdHgxQkIydjEzTHlIajVMZlpYTjFHaWU2SUxfWUFIR01jUU1jU1ljVW9CQm92bUVfWndzT1J3QUl4RW1NcXo0blN4aDFkODIwNUxEMEdKdHBDZkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4b6d2e5afb2b",
+      "title": "Jovens têm dificuldade em identificar situações de violência psicológica e sexual, diz estudo - Diário do Nordeste",
+      "published": "2026-08-26T09:00:37+00:00",
+      "summary": "Jovens têm dificuldade em identificar situações de violência psicológica e sexual, diz estudo&nbsp;&nbsp;Diário do Nordeste",
+      "sources": [
+        {
+          "name": "Diário do Nordeste",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOX1l6NFhYN3U2MmNzSnNhWDRXX0g0Y1U0ZldaRzB4MHZtVzByRXY3ZUJZZ3Fvc1FrQWlJZ3dnaXZncWlFS3pTTURxaVA1eUExbmY5bkU2cVlILWxhMEJyRzVXdVMzS21oYjhCM3RUcHZHWksyZkxZbi13bXdBVWdtXy1EYUtoWHpyNXpsREE1dFVFNVVGYlZNaDFsS01razRtb0FsY1pRQXExWXEwU0hSTmJ3N2ZpWUtmdnhjMjdtUFdLN1dlVkpTdmpvYWpEV3ROdTZwWGw3SUZtYXN4NzNRNTlVTDkxdUU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7d8c0f72ca4b",
+      "title": "Brasil constrói sua primeira armadilha de íons frios para computação quântica - Agência FAPESP",
+      "published": "2026-08-26T03:00:41+00:00",
+      "summary": "Brasil constrói sua primeira armadilha de íons frios para computação quântica&nbsp;&nbsp;Agência FAPESP",
+      "sources": [
+        {
+          "name": "Agência FAPESP",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVEphYU8xU2NUeF9VQ01UYUxmWTMxYjNlSHRNYUdteURTWjBob2E3a3pma2ZfVUFkN1NzQWsyVXpOdFg4c250TzNEN09MUExqdHh6R0FvYVVHMVQxLWNra2IwYzQyRm94S3plUVItRkxubmp1a3huNGVkZUdCbkZxMlgzSjZTbW9nbmo0S2dRSkkxSDJMTmdNQUxVbU1scjVrTGRiaE9fUXBidUc1Tmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "80fd8e0154f8",
+      "title": "O câncer que pode começar como uma simples rouquidão ou afta persistente - Diário do Centro do Mundo",
+      "published": "2026-08-26T02:45:50+00:00",
+      "summary": "O câncer que pode começar como uma simples rouquidão ou afta persistente&nbsp;&nbsp;Diário do Centro do MundoVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "Diário do Centro do Mundo",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUWRuMzN6VXBvNTVHWTdlVDgxNVRHSVN1U3dPLTZXWkZIbi1FZ0tuZnd4T25xYjhxcm80Ni02N3NTZVU2Wl83QkwwSDFneGd2UDJiOERlcHIycmMxNDFTTFpDaURvWEMybW5lQk5Ga041MVBZdkg0U2ZXTUR2ODI3ZWdoWjlyeWRBWVB0MjlNdjlFQ2F1R0cxbmxkbk8weTFOeGxZX2V5ajFrM1k2?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7ee29a2a52ca",
+      "title": "Secretaria de Saúde alerta sobre informação falsa relacionada à vacina Pneumo 23 - PJF - Prefeitura de Juiz de Fora",
+      "published": "2026-08-25T21:09:00+00:00",
+      "summary": "Secretaria de Saúde alerta sobre informação falsa relacionada à vacina Pneumo 23&nbsp;&nbsp;PJF - Prefeitura de Juiz de ForaSaúde de Palmas alerta população sobre informação falsa relacionada à vacina Pneumo 23&nbsp;&nbsp;Prefeitura de Palmas.SES alerta para fake news sobre vacina Pneumo 23&nbsp;&nbsp;G1Prefeitura de Apucarana esclarece critérios para aplicação da vacina Pneumo 23&nbsp;&nbsp;Prefeitura Municipal de ApucaranaFalsa informação de oferta da vacina Pneumo 23 para maiores de 58 anos&n",
+      "sources": [
+        {
+          "name": "PJF - Prefeitura de Juiz de Fora",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5mQ3BBdVdVMFlrY2QzOEpER0Jmb1gtSGhibjlpX01ZQXRWbkpWMFdxZ0RzY0V6SURCaERYWFVnUktxZjZjYk8xRUlLRWtlQTQxTlBuNWdRWlZYTDcwV1lYZ1I0eThlNER0Sm5faURrVTMzT2xfNFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "61ae9246c950",
+      "title": "Depressão sazonal: o que é, quais os sintomas e quem tem maior risco de desenvolver o transtorno - Portal Drauzio Varella",
+      "published": "2026-08-25T18:06:18+00:00",
+      "summary": "Depressão sazonal: o que é, quais os sintomas e quem tem maior risco de desenvolver o transtorno&nbsp;&nbsp;Portal Drauzio Varella",
+      "sources": [
+        {
+          "name": "Portal Drauzio Varella",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVjV6c3l3OVdiazNYamEzd0pnSnJoZ19PT1JSeVlQeEM0cUIyN3dXUjQ0dWU5Z3Q1TlJSZ0hIM3E0M0l1U3lkaVVGRTg1a3Azc0FZV195N3QxZFRCRmNLNFlObm4zaGVUR1VwQ1dDQmEySDZaZG9ESnNnM2tIYnBJN1RpQW5ESlRxekZQa05WMFE1UjNHdkZDSnEzQlY4bkI5bnhfdTFQNFJXbnVFVlZBZ3N6eThjMDFWNmgtLW5VSkdUV3U0RXN6dEVNWllYUXNsQXZEalFiNkVHQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "772ff3ef688e",
+      "title": "Ele ia ao banheiro 8 vezes ao dia e perdeu 10kg por doença: 'Achava normal' - UOL",
+      "published": "2026-08-25T12:30:00+00:00",
+      "summary": "Ele ia ao banheiro 8 vezes ao dia e perdeu 10kg por doença: 'Achava normal'&nbsp;&nbsp;UOLDoença de Crohn: novos tratamentos transformam a vida de pacientes&nbsp;&nbsp;ES HojePaciente com Doença de Crohn relata evacuações diárias acima de 40 e uso de fralda&nbsp;&nbsp;Portal TelaA urgência da cirurgia urgente de Luís Augusto Oliveira Monteiro destaca a importância da solidariedade em momentos críticos da saúde&nbsp;&nbsp;TerraAjude meu irmão na luta contra a Doença de Crohn&nbsp;&nbsp;Vakinha",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYlNYdGdOZEZlc1ZQaDNReTN5RVZNeXlfZDA0SFJTaFVXY09fb0ZIdUExcFZRdzY4WkYxOTZNTHZLT3NoRWlOQzFEN1RweE1qc3luOUpvYW51TFk3NHdYVjB1VE9fekpmdTY0VHd4R1NEMEo0cHhZM3dULWFCUjZZLXlOdHlnZXJGekdjajdEQTYzRmxPcDJod25rVGlhdlBXa2hsY0lNRnhUaFFDSkRGQ245eWM0b1JWZG5JTk92aEd3SW1EdVM1R0s1NGU5R2ZqbGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2b4272f49fa2",
+      "title": "Em 1997, 12 mil toneladas de cascas de laranja foram jogadas em uma área degradada; 16 anos depois, pesquisadores encontraram uma floresta tropical - Revista Oeste",
+      "published": "2026-08-25T11:00:00+00:00",
+      "summary": "Em 1997, 12 mil toneladas de cascas de laranja foram jogadas em uma área degradada; 16 anos depois, pesquisadores encontraram uma floresta tropical&nbsp;&nbsp;Revista Oeste",
+      "sources": [
+        {
+          "name": "Revista Oeste",
+          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPdUFpaF9jZXZUR2ZUS2c0emlKNUxlY1p3bVBuSUVLcnVSaDZzZUxIT1c0Um9RNG4xYkpOUnZkSlRMSTFMZVFvc3BMd1NjZ2RZVHQ2emxMbXNVbjg2YUlncXFZblREOTBuTmVvc3BKTDlkZ0VNRUtCc0w3NUJ2dEVkdGJGaHhBSjhLYkRkbEhTUUp2ZUFaNnVOMjlXR256amFEZHZrRTNfTFZWTm01MUhHYjNPZVptd1NfdkRYX0J5MGdLZ0J2YWxKV1BfdGk3M2sxRmhaUHVwUk5NeUJPVUxmYUEzN1gtbVdEcDh4TWgyMWhlOENNY3Badm5VcnRSNlpfejlSRUV0dUd0bEZyNDJkQTJKeDJjTHJFc0hSVQ?oc=5"
+        }
+      ]
+    }
+  ]
 }
