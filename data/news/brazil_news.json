@@ -1,10 +1,22 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-08-29T16:21:53.242757+00:00",
-  "total_fetched": 85,
-  "unique_count": 85,
-  "health_related_count": 43,
+  "fetched_at": "2026-08-29T20:34:35.840247+00:00",
+  "total_fetched": 87,
+  "unique_count": 87,
+  "health_related_count": 44,
   "news": [
+    {
+      "id": "4585a9099289",
+      "title": "Dieta cetogênica supera mediterrânea em benefício ao fígado, aponta estudo - Rádio Itatiaia",
+      "published": "2026-08-29T16:23:11+00:00",
+      "summary": "Dieta cetogênica supera mediterrânea em benefício ao fígado, aponta estudo&nbsp;&nbsp;Rádio Itatiaia",
+      "sources": [
+        {
+          "name": "Rádio Itatiaia",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRGp2SmZOUFI2RjdzZ3dwYzl6N2RtQVpNWTVvWGI1NnNqRWtaSTIwSUd2RTRCaExmN3hTbHJyWDVQUmlsWmotc2VRWkJSRWxlaHp0TlBtTUEtdld1N2lvbWRwQVE1MDJhcW1kN3FmUnV2UUpKN3dobmVqTUZwVFlaSk5TMUw0ekJ6M1pmOUt2SThIbXFrSUxrRFBTR1ViMTBXdGRrY001TEwwTjlpWFE?oc=5"
+        }
+      ]
+    },
     {
       "id": "0123da9db935",
       "title": "Água em Marte: novo estudo traz revelações surpreendentes - Rádio Itatiaia",
@@ -18,10 +30,34 @@
       ]
     },
     {
+      "id": "c7577c9f9c0b",
+      "title": "HIV em MS: maioria dos casos é entre heterossexuais - Campo Grande News",
+      "published": "2026-08-29T14:06:00+00:00",
+      "summary": "HIV em MS: maioria dos casos é entre heterossexuais&nbsp;&nbsp;Campo Grande NewsEstudo em Porto Alegre mostra que diagnóstico tardio de HIV ocorre mais em heterossexuais casados&nbsp;&nbsp;Folha de S.PauloHeterossexuais são 52% dos novos casos de HIV em Mato Grosso do Sul&nbsp;&nbsp;Folha MSEstudo de Porto Alegre mostra atraso no diagnóstico de HIV entre heterossexuais casados&nbsp;&nbsp;bra1.com.brEstudo no RS revela que maioria dos diagnósticos tardios de HIV em hospital ocorreu entre heteross",
+      "sources": [
+        {
+          "name": "Campo Grande News",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTEVtbS1jdHQ1dkNZZUpnYTlpRThzM0lUVGE5bUIzXzY3LVM1R2hWRTFfYjBrVjlweVpjdE1aTFdPSzNwcUFwa2FXLWtSTjJOOFZwYWZLZ3dWTEhRYkU2U3BsVUpRemNxb2NITXctZlI4MHZwQ21SRllHcnRmT1ZiQ0hVQlI1MkdSMFRoaWtpdFhraXFNVG9aVDZtZzJuUkp5RTZOei04T1hzTkxURUZnT1hBSnlEQdIBtgFBVV95cUxQempFUW1BZ093am41eG1VampqZUlCb0RFLVU2dEt3dFlFM0FjZzlTcEw1QXpicXVLcG83NEhIYlRXMlg1NEsxbEFOMGN3UzdRSDJvajgwazlRWFVNb2J3NGlzbGF5UVRzekNlV0dhdjVncTFVdE40QnVnT0Vidi0wTWIyRmhyYk81c0E1MS1UTGpGTlBoVmp3OHhvdUVRMWdTY1p5d2RuTE1YVWtqWFR2Qkw3M19Mdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ce26ab375f03",
+      "title": "Brasileiros que frequentam metrôs e bancos recebem alerta após nova descoberta científica - Diário do Comércio",
+      "published": "2026-08-29T13:09:00+00:00",
+      "summary": "Brasileiros que frequentam metrôs e bancos recebem alerta após nova descoberta científica&nbsp;&nbsp;Diário do Comércio",
+      "sources": [
+        {
+          "name": "Diário do Comércio",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWkZHdUtIUUt1OG00OXRJelhQdUs0RjN0XzA4T3VCbmVSLWlibE45dUxuSHg3RWZVR0NCUFg4enZ4NXd6cW1uMm5aaHlGUTFJeXVDM2UzTGZUQkdJSUVDQjMtNjVYY3d1bXIwdm5MX3EyWUJZekZYaE8zY3NJZUtzOVJ1aUVWU0VNekYyUlZUYXRpZXQxRHVORFljX0NJOFVvYUd1TUlnNVhOTGpCUjdEUVlManFQMzRNZ2lLZ2pRUnBteVJ3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e86d1b67b536",
       "title": "Canetas de GLP-1 reduzem mortes em pacientes com transtornos mentais, diz estudo - Diário do Centro do Mundo",
       "published": "2026-08-29T10:22:53+00:00",
-      "summary": "Canetas de GLP-1 reduzem mortes em pacientes com transtornos mentais, diz estudo&nbsp;&nbsp;Diário do Centro do MundoO efeito colateral das canetas emagrecedoras que os psiquiatras não esperavam&nbsp;&nbsp;VEJABem-Estar #365- Flacidez no rosto e queda de cabelo por emagrecimento rápido: o que fazer?&nbsp;&nbsp;G1Depois da caneta, a fila é para o cirurgião plástico&nbsp;&nbsp;revistaencontro.com.brCanetas emagrecedoras exigem novo modelo de gestão na saúde&nbsp;&nbsp;Medicina S/A",
+      "summary": "Canetas de GLP-1 reduzem mortes em pacientes com transtornos mentais, diz estudo&nbsp;&nbsp;Diário do Centro do MundoO efeito colateral das canetas emagrecedoras que os psiquiatras não esperavam&nbsp;&nbsp;VEJADepois da caneta, a fila é para o cirurgião plástico&nbsp;&nbsp;revistaencontro.com.brCanetas emagrecedoras exigem novo modelo de gestão na saúde&nbsp;&nbsp;Medicina S/ASociedade de pediatria faz alerta sobre uso de canetas emagrecedoras para adolescentes&nbsp;&nbsp;G1",
       "sources": [
         {
           "name": "Diário do Centro do Mundo",
@@ -30,14 +66,26 @@
       ]
     },
     {
-      "id": "56d6688370d9",
-      "title": "Conheça a fruta brasileira que ajuda a proteger o fígado e reforça as defesas do organismo - ICL Notícias",
-      "published": "2026-08-29T09:19:32+00:00",
-      "summary": "Conheça a fruta brasileira que ajuda a proteger o fígado e reforça as defesas do organismo&nbsp;&nbsp;ICL Notícias",
+      "id": "a5d76b9ed29f",
+      "title": "Estudo propõe alternativa para reposição hormonal na menopausa - Poder360",
+      "published": "2026-08-29T10:06:22+00:00",
+      "summary": "Estudo propõe alternativa para reposição hormonal na menopausa&nbsp;&nbsp;Poder360USP testa estratégia alternativa à reposição hormonal na menopausa&nbsp;&nbsp;Revista OesteEstudo aponta alternativa mais direcionada para terapia hormonal na menopausa&nbsp;&nbsp;Jornal GGNEstudo propõe alternativa mais segura para reposição hormonal na menopausa&nbsp;&nbsp;Correio BraziliensePesquisa da USP revela método que substitui reposição hormonal com mais segurança na menopausa&nbsp;&nbsp;Fato Paulista",
       "sources": [
         {
-          "name": "ICL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5UNFZ4ZW1OekViWTVlQWFCT1JyZ2RxQkprTmd1SFBZMUp4d3ZyOU1pZmRVM1owVlpKZndTMDF3cjhaUVRnOVJjdFU3R0cwOFM1SFExY0l4NnZzTWswcVhBbnlOaE8yOU1KS29TaVR3?oc=5"
+          "name": "Poder360",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbnpsenZCUUltWnNfUlc4X2w2cnk5d1VHZFBvZy1SQzBFVnpra2N2MXNJNE5TQmNxSUpRUzdrSnRqazFCU1h1bGJHT05Rc1N4dkZHaWhPUFV4RlNhajJ3LW9tczR4Q1h3SzBmRlBvcHBTSkJRYi1rT2ZlemdkaTNMeUwzdmtReWpqcXc5elNFT1Jsbnc3d01Hb3UweFZRdWRVNzRrYkhB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "02d02ee7b8d8",
+      "title": "Pílula contra o câncer que fez médicos chorarem é aprovada nos EUA - Tribuna Online",
+      "published": "2026-08-29T09:00:00+00:00",
+      "summary": "Pílula contra o câncer que fez médicos chorarem é aprovada nos EUA&nbsp;&nbsp;Tribuna OnlineQuanto vai custar a pílula contra o câncer de pâncreas aprovada nos EUA&nbsp;&nbsp;VEJAPílula contra câncer de pâncreas que fez médicos chorarem é aprovada nos EUA&nbsp;&nbsp;G1Nova pílula contra câncer de pâncreas dobra sobrevida de pacientes&nbsp;&nbsp;band.com.brUBS eleva preço-alvo da Revolution Medicines para US$ 265 após precificação de medicamento&nbsp;&nbsp;Investing.com Brasil - Finanças, Câmbio ",
+      "sources": [
+        {
+          "name": "Tribuna Online",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOVRqUTVvemRzNUtOLUdKU0ZhcW1fd2xVSWtxRWk5UzhzdXBwRlFTc0JKSk1RZzdqTXpCT21wcVN2cGFmUmU1b0NaZi0xSy1JclMwVUtSR2N5NmE0LTZGa0lFVEpoMFZSVWx6bk9QdlZfM05aajdLbzNrVzhtYkQwTldTQlRYWDM5Z3NVMzJXcU8xYnMwT0J1UFdzSlRuX1F4aGxrT1NIX0dQLTJm0gG0AUFVX3lxTE9IM29YTzFjbjlSSVktQnAwRm05SXVucWFDOHZuam1PckNpRmR4TnNLOHRuMXlCUVdsWHd3akdJTVhPUmY1T2o0SzZJeGpyRHN2OHY4aVJ3NlpmOXNQd0tuODZjYWw3b1B5WkRGWXlkVWt2Y3Z2Uk9FMDlQWm9MZDczeVV4T2ZXbkw4MVppWVBNamFlR0E0YS05dXVuQ3M4VUJ0dW83RTVEanpZUXdvX3RLTXE0eA?oc=5"
         }
       ]
     },
@@ -45,7 +93,7 @@
       "id": "ad6016e24ba6",
       "title": "Cardiologia mundial redefine o conceito de infarto e reforça: exame de sangue alterado, sozinho, não fecha o diagnóstico - G1",
       "published": "2026-08-29T08:00:39+00:00",
-      "summary": "Cardiologia mundial redefine o conceito de infarto e reforça: exame de sangue alterado, sozinho, não fecha o diagnóstico&nbsp;&nbsp;G1A nova classificação global do infarto: o que muda na forma de entender os ataques cardíacos&nbsp;&nbsp;VEJANova classificação do infarto busca facilitar diagnóstico e tratamento&nbsp;&nbsp;MetrópolesAdeus aos tipos 2 e 4c: médicos mudam linguagem do enfarte para o doente entender&nbsp;&nbsp;HealthNewsConceito de infarto é redefinido: Entenda a nova classificação&",
+      "summary": "Cardiologia mundial redefine o conceito de infarto e reforça: exame de sangue alterado, sozinho, não fecha o diagnóstico&nbsp;&nbsp;G1A nova classificação global do infarto: o que muda na forma de entender os ataques cardíacos&nbsp;&nbsp;VEJACardiologia mundial muda critérios para identificar e classificar infarto&nbsp;&nbsp;Folha BVAdeus aos tipos 2 e 4c: médicos mudam linguagem do enfarte para o doente entender&nbsp;&nbsp;HealthNewsNova classificação do infarto busca facilitar diagnóstico e tr",
       "sources": [
         {
           "name": "G1",
@@ -66,14 +114,62 @@
       ]
     },
     {
+      "id": "4ccadcf4b8a5",
+      "title": "O que a ciência oferece hoje contra a doença de Creutzfeldt‑Jakob - Poder360",
+      "published": "2026-08-29T07:46:22+00:00",
+      "summary": "O que a ciência oferece hoje contra a doença de Creutzfeldt‑Jakob&nbsp;&nbsp;Poder360",
+      "sources": [
+        {
+          "name": "Poder360",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSVViY3VRejVvUTJWa0Ftcm9MdzI0NGxyQm4wbkVVZEZiYW1obVNXaWVEaHAzNWdycUNZVEV5bXVYSHlTZ0tiTHNwYlpVeHowbHZFVTA2eE0wdTAwNmZoOWJpX3pjaC1Gc2FuSFE4YThGRzN2Tl95Q3dZTU1oM1hlTlR0ZE1xT0syRUFtV2MtLW1SZHdpUWRkd1ZZTDd4WnYwS2lKei1FTW9KUGFBeXNjVjBDLWE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "3fe21e42eaaf",
       "title": "A cultura da pressa e a explosão dos remédios para dormir - O GLOBO",
       "published": "2026-08-29T07:30:23+00:00",
-      "summary": "A cultura da pressa e a explosão dos remédios para dormir&nbsp;&nbsp;O GLOBOA relação da insônia com os nossos hábitos&nbsp;&nbsp;h2foz.com.brDescansar não é só parar: falta de recuperação pode pesar na saúde do coração&nbsp;&nbsp;THMaisPor que a saúde do sono é a chave secreta para fortalecer sua imunidade e evitar doenças virais constantes&nbsp;&nbsp;Ubiratã Online",
+      "summary": "A cultura da pressa e a explosão dos remédios para dormir&nbsp;&nbsp;O GLOBOA relação da insônia com os nossos hábitos&nbsp;&nbsp;h2foz.com.brDescansar não é só parar: falta de recuperação pode pesar na saúde do coração&nbsp;&nbsp;THMaisPor que a saúde do sono é a chave secreta para fortalecer sua imunidade e evitar doenças virais constantes&nbsp;&nbsp;Ubiratã Online Notícias",
       "sources": [
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNnk5dzV5NlNJbVlQaVNtWDlLUTBVQmhfcHVFdW9aNXFyQXhLb0p6aE5Pam9TRS1FN1FTT29PVnFpODFzODJTak8yYTgxS01VYUd4SE1nX29Nc0k0M1JNd1R5YTFPcHNWMTN0WE94OE03UDNhM0ttTTdXVW5oVkZDeVFkLXQzTllFUWZMNVhURTN1eFpTb2Z1NmE0ZkhVMHJsSUU3Y2h3Q2tzN2tfTEhZZVR3dzBLNFlZZEpRaXZn0gHMAUFVX3lxTFBORGZfTFBSR1VtNGFURURNS0VXVF9jR2RzM2s3Q0JTTi1Xd1hFc2ZxMndSMmtQU0JsYXJpS0d5SXJkSHFCSVZ1WjFkRzYyTlpIRXRUVzhXcWZFQWVQNGVzY0pJaVpQcU1LTDBaNUxSaFBDejZmZXpTZTFNQXFkdEJqMG9ZS0U5b2hjSGNDdUpMUk5DZU05aWV4d2k5a3d3cHBLNE5fYzRjcTdjYVV6LWc0ZVAxaF94ZWlfWGRRRF92ZFR1NGdNNXZCRjY3Qg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9914864e422d",
+      "title": "‘A musculação mudou a minha vida’: exercícios na academia melhoram a força muscular e dão mais autonomia aos idosos - Extra online",
+      "published": "2026-08-29T07:02:15+00:00",
+      "summary": "‘A musculação mudou a minha vida’: exercícios na academia melhoram a força muscular e dão mais autonomia aos idosos&nbsp;&nbsp;Extra onlineVonda Wright, especialista em longevidade: 'Quando você investe na sua saúde e mobilidade todos os dias, você envelhece de maneira diferente'&nbsp;&nbsp;TerraConheça os 'segredos' para viver o auge físico próximo dos 60 anos: 'Ritual diário'&nbsp;&nbsp;O DiaEntenda como o envelhecimento ativo auxilia na prevenção de queda da pessoa idosa&nbsp;&nbsp;AJN1Felipe",
+      "sources": [
+        {
+          "name": "Extra online",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQcUZZTV9ZTV9CTG5OMGdieGNxMEZrSE5Qa1RFVnZQNmZLNjE1UGxxdnkzNHNrNkJITzZ6Q0NPbWs2NDBVcUdmQ1Z6dVhLMndQdDVoUE5LOUJpXzEyWE1yc1A1OWg0NHhaVlAwZ0dkOUY0a09YdFhhVjFISXU1Zm1RODZTNVhaV2tTaHIyN0JGakpScjlVMWZKUDh1T0VXNG9WamR5M0RWMnlKa3dFeEx0MFRTNWw0WWtGVC16OURyWWZXU3V2MmpnbjU0b2lRX1VVbXU0RHluZFA0NXNGRTJKYVg4b0d3bG9kTTZXSGZ6azFGMnA4SFRN0gGGAkFVX3lxTFA1OVp4eGRxT09CU0NIS1hqT2UyUHhiQWZYcldRcG5DMV9kUG1oWDEwMGM0VTYxbDJucGlSY3lsMGZid3lRbHJPbU9xNlJUTnlibVhuX0JQN25NUUNSUTViSnhodDVyRDNLWE8tdV9VdXlSWlpqbmxEazZoQTNWUjhrWl96WWZ1MGtGMHJRTUhfQVVyOUpLSUZERHdlNkdBYXduZHlIT09FQWdsclJKampfVWo2VzQ2TzhlNlhNR0J4ZFBHbW00NlBBdHNWaEtGQ1hRYWdNSWtxTHJCbHpITXJnajNHV1EyaVJob3NkbTRNZTI0dXc1ZGMzNU1vX0FTdEltbEpYSGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fc718f33ffa7",
+      "title": "91% das mulheres do DF já sofreram violência psicológica e 82%, violência física, diz pesquisa - G1",
+      "published": "2026-08-29T05:00:40+00:00",
+      "summary": "91% das mulheres do DF já sofreram violência psicológica e 82%, violência física, diz pesquisa&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQZnUycVVycDlfTTVhZHhPSDN0WDdwVWNUektFYV91NjdnNmpodjJFSHFfQlQxVnpUaWN3VVJ4d0lpY01qQno3WWxYYVJkRVVYY21yVEtwTy12blRhWmRxNVVzMmtyYTIwaUR5b3NnVGRoOWc0eTRSQnhXbFh4VW45bUx0MG1sc2JVbTVlY0VORWpvUVhqYzRHZG9wLWNJY0pDSVpwRy1BOEdXN1k0SERzX3lrN0hReUJIYjJjbGZOdG0xX3l6cm1nU3FZc3pZdzNLUWFBWWxsWGEzakhHYThlZ0R6cE1kMW5PekNuX0hQd19LT2c3YVJ0N0hxenZnN03SAY4CQVVfeXFMTXhuRlM0TmNPVi1ELWhrMERCcnhpRDBVNjliVzRFTHhSb2tEVnVMcG5yTXZxXzJ5VGw1OWRzbnY1bVltSFlDb3ROMEF2eVNLWHduZlRPcDRVSXFBcS1rd0dnSldNTVF6ZmF3VlgwbTVDZWpNNjBVa29LRV85d010c3NsNE5RUUdlZXJzQ09oRXZlb1BoeS03aU0wLWl0SjJBclR3R2NLZXJwcVBoUThGTHdwSFZTcHFTN3RnVFhtbEZOdFMwVWozMU1NOGRHMG1lRGV4cS1ZM241c3dGaC0xSHdkeDV5XzRXdnR6NEVIQUlIakJLWkM4M1hlY0NYLUF2NmdnUzlubjJBNG1TYjhB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c951f8baf0fd",
+      "title": "Campanha de vacinação de pets contra a raiva termina neste sábado no DF; veja como participar - G1",
+      "published": "2026-08-29T05:00:21+00:00",
+      "summary": "Campanha de vacinação de pets contra a raiva termina neste sábado no DF; veja como participar&nbsp;&nbsp;G1Vacinação contra raiva é mantida após a PBH imunizar mais de 200 mil animais no Dia D&nbsp;&nbsp;Prefeitura de Belo HorizonteVacinação antirrábica para cães e gatos está disponível em três pontos de Anápolis | Notícias | Saúde&nbsp;&nbsp;Prefeitura de AnápolisVacinação antirrábica chega a quatro bairros de Linhares neste sábado&nbsp;&nbsp;Prefeitura de LinharesABC imunizou mais de 3,8 mil a",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPOW42ejZabWpqZUpfMi1sYTB1YXgyeVQwMDZZSWtuLS0yTVMxcXZCMzRWd1hLY0N1RWgtOTlBVm1yaHQ4eWQxMHhfMnZiNFpVS0hBeGVDaXdTbmJpWTVrbGhQY3hkbkNEQjdtWk1fV3VUbFlwejc2V3Y2UHFrNWZsa19mNEtWa2dxUEg2TkhrcUFLQnFsZnV0X0QxZWllbHU0Y203Tk5zTzdhQk42c3VnRlVKakcwaGxRMmFyVWxyNVdyVUFNRndIcmdnUTJnYl9JYXY0a3lBTVhhbURoNmhrcG5jYW1WNkVhTE1YUGliUdIB_gFBVV95cUxPcGR0UmU5YzFrUDd6S256eWdFUW9sQXFkeE9Fb05BV3RWZVEyQkM5Y09obl8zWk0wck1lTkxSVjgyamd5M1k5eTdIVkNldUdKTVBvVGktR0xBM0tmTXZqNy1KTG00Mm5BX3JvS0pISXhxVWJ6bDlMX0N2SDNITll5YWhFNUw1YVk2UUlKRnQzeEVfdG1kUG1NVzcxS1VPWHpqQkRvLWstSzFKQzc5amR1eHRLaG1oY0NsRi1FWWI4VUFKM2luR0d0RDM2eXVwXy1yTEUwcFhVWnZYT2pIRmItYW5YTXhSUlMzUzYxeVpacktYVFpUcXBrX2t2cFFidw?oc=5"
         }
       ]
     },
@@ -98,6 +194,18 @@
         {
           "name": "CNN Brasil",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNDNlbGR6NFN5dEFQSTFEdlB3cFcycWFidHNvYXJBd01TandlR0xobnVpRUpLU01XS290LWVzVE0yVFpTRERGSmVURWxUcXp5aXBqYlFCQXh3TmpHY2VMOVpiVjFQT0hoUTVad2Zkakkzak5pNXI5ZkFHZ0pvbGVSNGxjOEU1YlNHelFSeWduU2ZSaXBQWGlDcFVRaHlTdHdqUnNzTm1yQWpxM2tFN1hBbmg2MzRZNXRvRlZwN1R3WQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "74b72ed1f391",
+      "title": "Doença de Lito Sousa: neurologista explica urgência por tratamento experimental - Rádio Itatiaia",
+      "published": "2026-08-29T00:58:48+00:00",
+      "summary": "Doença de Lito Sousa: neurologista explica urgência por tratamento experimental&nbsp;&nbsp;Rádio Itatiaia",
+      "sources": [
+        {
+          "name": "Rádio Itatiaia",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVWpsTkFyelg0dXNBeUtkY2kwRUFYOXZHUFNZbUtnRXVmczA5MnBYa0JXSkZpcjdCT2FFZWE5QTQ3WE00a1F3SlNDMjhDZVhPelhhdzMwTWtFWkRlenk3dkNhTTlsdW51SzNZcGtvTUNLT0Z1UG1hdTB2RDZnNndKYVRFWnRIUnVEY3lQV3RqNWQwMUF3UFBrOTdfSTlkOXJ4U3lsTWxWU3g5QUNYRzlZLUNXMA?oc=5"
         }
       ]
     },
@@ -150,10 +258,22 @@
       ]
     },
     {
+      "id": "22ae0822f695",
+      "title": "As pessoas mais felizes costumam nascer nestes meses, segundo estudo - Portal 6",
+      "published": "2026-08-28T19:25:08+00:00",
+      "summary": "As pessoas mais felizes costumam nascer nestes meses, segundo estudo&nbsp;&nbsp;Portal 6",
+      "sources": [
+        {
+          "name": "Portal 6",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeVBuQVRSV2pBT2NjZmFhTEVyMGlwVExVWWFyRU9BMU8xZWo4VnJra1RhcEYzVXpQcTQySDVuY0NhNk9Eb0pzMHdUd3pudHpOU2o5eU5zM045QndsazNySnBROEN6dGhUOU5RY3VUczVDeFR6eXNhWExDcVBJQXVmQlJtWFVpUWlpQWVVbHVIalRLWDZXOUhQRUFHUXhneHU0M1RQNw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "3f6d661663a2",
       "title": "Medicamentos em comprimido são nova aposta para tratar a obesidade - Metrópoles",
       "published": "2026-08-28T19:16:00+00:00",
-      "summary": "Medicamentos em comprimido são nova aposta para tratar a obesidade&nbsp;&nbsp;MetrópolesO que o Mounjaro faz com seus gastos de saúde&nbsp;&nbsp;VEJANovos remédios contra obesidade avançam além das canetas e chegam a perdas de até 28% do peso em estudos&nbsp;&nbsp;Jornal OpçãoZepbound reduz custos de saúde em idosos, aponta estudo da Eli Lilly&nbsp;&nbsp;ADVFNTirzepatida e peptídeos: por que molécula se destaca contra a obesidade&nbsp;&nbsp;D24AM",
+      "summary": "Medicamentos em comprimido são nova aposta para tratar a obesidade&nbsp;&nbsp;MetrópolesO que o Mounjaro faz com seus gastos de saúde&nbsp;&nbsp;VEJANovos remédios contra obesidade avançam além das canetas e chegam a perdas de até 28% do peso em estudos&nbsp;&nbsp;Jornal OpçãoTirzepatida e peptídeos: por que molécula se destaca contra a obesidade&nbsp;&nbsp;D24AMRetatrutida: o que se sabe sobre a nova promessa contra a obesidade vendida ilegalmente na web&nbsp;&nbsp;ES Hoje",
       "sources": [
         {
           "name": "Metrópoles",
@@ -177,7 +297,7 @@
       "id": "c48619dbc7d5",
       "title": "Sarampo nas Américas chega ao maior nível em mais de 20 anos - UOL Notícias",
       "published": "2026-08-28T18:34:10+00:00",
-      "summary": "Sarampo nas Américas chega ao maior nível em mais de 20 anos&nbsp;&nbsp;UOL NotíciasCuritiba reforça alerta para vacinação contra o sarampo&nbsp;&nbsp;G1Com surto de sarampo em São Paulo, Saúde de Curitiba alerta para necessidade de manter vacinação em dia&nbsp;&nbsp;Prefeitura de CuritibaSão Bernardo terá vacinação contra o sarampo neste sábado (29) | Diário do Grande ABC - Notícias e informações&nbsp;&nbsp;Diário do Grande ABCSaúde reforça vacinação contra o sarampo após novos casos em São Pau",
+      "summary": "Sarampo nas Américas chega ao maior nível em mais de 20 anos&nbsp;&nbsp;UOL NotíciasEstado de SP acende alerta para surto de sarampo, com 26 casos registrados em 2026&nbsp;&nbsp;G1Ministério da Saúde reforça chamamento para vacina contra o sarampo&nbsp;&nbsp;TNH1São Bernardo terá vacinação contra o sarampo neste sábado (29) | Diário do Grande ABC - Notícias e informações&nbsp;&nbsp;Diário do Grande ABCBrasil mantém ações de resposta ao sarampo e reforça importância da vacinação — Ministério da S",
       "sources": [
         {
           "name": "UOL Notícias",
@@ -189,7 +309,7 @@
       "id": "d0ed233054e7",
       "title": "Demora no diagnóstico agrava esclerose múltipla, alerta associação - UOL",
       "published": "2026-08-28T17:41:22+00:00",
-      "summary": "Demora no diagnóstico agrava esclerose múltipla, alerta associação&nbsp;&nbsp;UOLBom Dia Responde: Esclerose múltipla doença que afeta o sistema nervoso central&nbsp;&nbsp;G1Esclerose múltipla: mulheres entre 20 e 40 anos representam 70% dos casos&nbsp;&nbsp;Estado de MinasCubatão debate esclerose múltipla com profissionais de saúde, pacientes e familiares&nbsp;&nbsp;A TribunaPalácio dos Bandeirantes recebe iluminação especial em campanha do Agosto Laranja&nbsp;&nbsp;agenciasp.sp.gov.br",
+      "summary": "Demora no diagnóstico agrava esclerose múltipla, alerta associação&nbsp;&nbsp;UOLDiagnóstico precoce ajuda a controlar avanço da esclerose múltipla&nbsp;&nbsp;G1Cubatão debate esclerose múltipla com profissionais de saúde, pacientes e familiares&nbsp;&nbsp;A TribunaEsclerose múltipla: mulheres entre 20 e 40 anos representam 70% dos casos&nbsp;&nbsp;Estado de MinasSUS oferta exames de diagnóstico, tratamento e acompanhamento multidisciplinar para esclerose múltipla&nbsp;&nbsp;www.gov.br",
       "sources": [
         {
           "name": "UOL",
@@ -210,18 +330,6 @@
       ]
     },
     {
-      "id": "0d82f4838bcb",
-      "title": "Febre maculosa avança no Brasil; veja sintomas, prevenção e quando buscar atendimento - OCP News",
-      "published": "2026-08-28T16:21:43+00:00",
-      "summary": "Febre maculosa avança no Brasil; veja sintomas, prevenção e quando buscar atendimento&nbsp;&nbsp;OCP NewsVigilância em saúde realiza ação de campo para monitorar e prevenir a febre maculosa&nbsp;&nbsp;G1Saúde intensifica conscientização sobre a febre maculosa&nbsp;&nbsp;Prefeitura de ArarasTrês Corações realiza monitoramento de carrapatos para prevenção da febre maculosa&nbsp;&nbsp;Jornal Panorama MinasAraras registra terceira morte por febre maculosa neste ano&nbsp;&nbsp;Jornal Cidade",
-      "sources": [
-        {
-          "name": "OCP News",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON3JocGxRZk5YTmp6ajk0MW1vaTZXTTAxbnJfcjk2amRJM2VWTERfOUZTTnRoend3RFQ4N0dYV2otZVd5QnVFeGJEa245OEJCRm5ZbllvVnBQb21kVXl0emhlQVItQThuelVvcVZMOEs0T2piVk80WGZ2UkUtUXIxMWJEUWVVc0hpWm44djNnZlJvNUdkVzNRdHpxaFhtb29kczZtelJCc2tIR1ptS2dR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c6c4bb937a4b",
       "title": "Agência dos EUA FDA aprova Mounjaro, da Lilly, para reduzir risco cardiovascular - InfoMoney",
       "published": "2026-08-28T15:22:50+00:00",
@@ -237,35 +345,11 @@
       "id": "0f49c1ab6847",
       "title": "Exercício físico não elimina danos do cigarro para quem continua fumando, alerta Instituto Nacional do Câncer - O GLOBO",
       "published": "2026-08-28T14:55:00+00:00",
-      "summary": "Exercício físico não elimina danos do cigarro para quem continua fumando, alerta Instituto Nacional do Câncer&nbsp;&nbsp;O GLOBO29 de agosto é Dia Nacional de Combate ao Fumo&nbsp;&nbsp;Senado FederalParar de fumar faz bem em qualquer idade, alerta especialista&nbsp;&nbsp;TerraDia Nacional de Combate ao Fumo: 7 mitos e verdades sobre o tabagismo&nbsp;&nbsp;Prefeitura de JundiaíInca alerta que exercício físico não elimina danos do cigarro para quem continua fumando&nbsp;&nbsp;Folha de S.Paulo",
+      "summary": "Exercício físico não elimina danos do cigarro para quem continua fumando, alerta Instituto Nacional do Câncer&nbsp;&nbsp;O GLOBOFumar e malhar em seguida elimina os efeitos nocivos causados pelo cigarro? veja o que dizem os especialistas&nbsp;&nbsp;CNN Brasil29 de agosto é Dia Nacional de Combate ao Fumo&nbsp;&nbsp;Senado FederalCigarro não prejudica apenas o pulmão: o hábito de fumar também afeta os vasos sanguíneos&nbsp;&nbsp;CartaCapitalDia Nacional de Combate ao Fumo: 7 mitos e verdades sobr",
       "sources": [
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOTVh4Sl9ESDRJeHg4M1hLZEFlbUxuM2ZwZlk4TlF3NWhPQVBqY0toejR6N1ZXbUQ4QWxNZ3UzNTBUWHNTR1RtNkZHd3JucGpZM1FxUmNwSXZtc1RtRXBJMGNZeTB0OW94LWlmeHR4UW5hcVhjNE9IbXZ3aVAzOEFoclJ1OVhJSkNzSEVGaHI5c010WjNUU3JaMnRwQXBKYmJXWHNYX2lCeTFlWTFrdjNKNUVGeXZVQ0pFMVBGazd3MGlZdE9OeUpiSE5sNVdmdHpYRkVWRVQ2LUZMNnVzaF9ad2pzSHFZaGF5MWo0UW9XaE84Y1poWTZ30gGGAkFVX3lxTFB1MzI3eXdDSDJOc0dvY3pXSnFxNFhSU2pIakVOTEk4Sy1zZVhFSTZLU1hzNUpzYkE1Y0RkRXd3V1RTTTBUTUpZdVVrc3ByWXZUZHRPYllrUnpjWW5iZHkwdkpGRmp3cVNvUTVSeFhYbjVUeVljYndfU2tVNTN1amVsa0NRZ2x6cDY5TnJhVTBSRXNZcVlxZXY1WU43ejF3SGxwZnRqTzRUS0prNXBfNXh0VlhrRG1FTkxteUp3bDFLVTl4QmJ0SUFTYXU2ZFRfMXBBR1FkQkM0TGQ0dGJWblVNWGpib2F2OXgxb3I1RTFJLWdyM19xVEE2TjYwS2ktMDFTRlpCRVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c46973a73cc4",
-      "title": "Ansiedade: especialistas ensinam como identificar e lidar com crises - CNN Brasil",
-      "published": "2026-08-28T14:10:34+00:00",
-      "summary": "Ansiedade: especialistas ensinam como identificar e lidar com crises&nbsp;&nbsp;CNN BrasilTensão nervosa e ansiedade estão adoecendo a população&nbsp;&nbsp;aGazeta BahiaPor que tantos adolescentes estão vivendo em estado de alerta?&nbsp;&nbsp;EstadãoAnsiedade entre os jovens não é exagero&nbsp;&nbsp;Jornal da OrlaExcesso de informação pode aumentar ansiedade e afetar a saúde mental&nbsp;&nbsp;Rádio Itatiaia",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOemoxTFN3OWM4SkxRTXEzZ2NLZUJZRk5DQWtDQzdkMGN1UWNUcGhWYU1MZnFPUmpXNWIyMWJ3dklORnV0d2JzaHd6RWNTbVV4S2V3SGlBS09zZXlUYUNLVHdSbXBaRDl6eXdpdmdKeE8wWVlhWWNFVWNWVnZHcFZTT3lMTUV6X0t3RlctZHZsbmNENXNETW5QX3FFQmY1cVhFV3R3MDlB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9d93699118b6",
-      "title": "Alagoas está em nível de alerta com casos graves de síndrome respiratória entre crianças e adolescentes, d... - TNH1",
-      "published": "2026-08-28T12:40:00+00:00",
-      "summary": "Alagoas está em nível de alerta com casos graves de síndrome respiratória entre crianças e adolescentes, d...&nbsp;&nbsp;TNH1Três estados têm alta de SRAG e oito estão em nível de alerta, aponta Fiocruz&nbsp;&nbsp;Rádio ItatiaiaMS fica de fora da lista de alerta para crescimento de síndromes respiratórias da Fiocruz&nbsp;&nbsp;MidiamaxVírus Sincicial Respiratório ainda preocupa no Paraná mesmo com queda de casos&nbsp;&nbsp;Bem ParanáInfoGripe: apenas três estados têm incidência de SRAG com sinal",
-      "sources": [
-        {
-          "name": "TNH1",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZGo3a0phZl9BRUdqQS1MekZ3dk9fZ1VtVkU3TG5VQUIyQWNzbnZwUHVnVUtKamxzV3ZlaFZXU0h6d2F2V3JQMldmSGFqeWlVa0lQejB4cjBNb0JOUW9ocjVNblFJN3JGb3JkT0NWdlhaS0pRNmhoS2IzOXNONmxsanFfTTRremxGZDRTVHBOc1E1bHI2eTN2TmtjclExNmdyS3dqeWtJNUtaSmpWNGxHZW1rdmo5YzktOFJNcEpwcGxxUDVBeHNxVlhvT21oaXZhTmd1UEwtWDVOZ1JGakw0bTR4UVN1YzjSAeIBQVVfeXFMT1lKMzdkNjllMVNiY3Bqb1E3RlR5em5MX0NDeDZXZks3cWw0UnAwd0xKTTZydzRkNXU1UUtzMm52aFV6NjNkSnd4MEVWZTFLb1RSVjRJVFBOd0NKQTk2dFhYRnRkaGxvc2tWZUIzeENOVXE0OTAzSHBVUS1VWVFkUjVrNVFLalJ3cUNGVnZJU1c0amZMTXprclNkSFN5bWFZdHBLYjF4M2V4MkpKZXREMnV2ZVpWdUlldEZSUWJGR24xUXJnS1R2YnZNcUl2bnllMG5JX0dEdF9lekNnVzJMY0YxZw?oc=5"
         }
       ]
     },
@@ -278,6 +362,18 @@
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQm14aEFBR3hyQUVnY0tCTUpPczhoY1p6RW9sR1N4ZWdTbFhnUEo5TmcxaEo1T184MnZXZlRIcmJSWS1UaFRrX2ZGbDdBa094V3hvN19XbXhkQnNoSjRVTTBWOTZTaDlYNmR6ZUx1R0piODNKeFlQX201SEZaYUxma1Z5dGRoVlZ0aWFCYV9TZHV0MHROQlhQQ0lwVW5FQlpMcXQ3aWZaRGxTbUJzdUsyMWMyTXZjX1VxaEZhcE84TnBlUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6586e71bc43d",
+      "title": "A cadeia alimentar das revistas predatórias - Revista Pesquisa Fapesp",
+      "published": "2026-08-28T11:57:00+00:00",
+      "summary": "A cadeia alimentar das revistas predatórias&nbsp;&nbsp;Revista Pesquisa Fapesp",
+      "sources": [
+        {
+          "name": "Revista Pesquisa Fapesp",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUjJ3V0xreUg4Nm1UMnpPMTZUbjdyUWs2SVlScnU5UnV6eXRITzBkMFJpQXN5ckZCTzhlYUo2NW5RLVFQc0U0MEl5Wmt4MHRDbWp6UWpjcU45UGNQTjFOSU5RQ25IQVJCOVFHcml2YVBwWHo0VUQwSlBLMjJ2QmM2OW4zOXc?oc=5"
         }
       ]
     },
@@ -297,7 +393,7 @@
       "id": "76b45d636fe0",
       "title": "O 'elixir' do café: bebida pode esconder um segredo para as bactérias do intestino - Jornal Correio",
       "published": "2026-08-28T09:07:00+00:00",
-      "summary": "O 'elixir' do café: bebida pode esconder um segredo para as bactérias do intestino&nbsp;&nbsp;Jornal CorreioNovo estudo diz que quem toma café regularmente tem uma microbiota mais diversa&nbsp;&nbsp;Jornal O SulCappuccino, café com leite ou café puro: qual é a melhor opção para quem tem refluxo e gastrite&nbsp;&nbsp;Tua SaúdeCafé melhora microbioma intestinal e saúde digestiva&nbsp;&nbsp;boca.com.brExcesso de cafeína afeta sono e saúde mental: dicas para reduzir consumo&nbsp;&nbsp;Terra",
+      "summary": "O 'elixir' do café: bebida pode esconder um segredo para as bactérias do intestino&nbsp;&nbsp;Jornal CorreioNovo estudo diz que quem toma café regularmente tem uma microbiota mais diversa&nbsp;&nbsp;Jornal O SulCafé melhora microbioma intestinal e saúde digestiva&nbsp;&nbsp;boca.com.br'Elixir' do café: como bebida pode ocultar um segredo para as bactérias do intestino&nbsp;&nbsp;CNN Brasil",
       "sources": [
         {
           "name": "Jornal Correio",
@@ -314,54 +410,6 @@
         {
           "name": "VEJA",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbFl3V1JWTEdvb2FyQlFKVE5NUUhaVjMwZ1pWamlKTzZNUWxhVWJWSzNRNVRYNzFTRzlUZ09KckJsQlFTR1VpZ2U4RHBfcEZ0cEkwT2ZVRGhIN1haYlJwNTVnZ3FEOC1BRG5jcTRfU0V6OWFZN3E5eUg4REZYNEZrRWhEV0NuMDIyYjBzMVIxZHBvUHVvRzR5WjdRVGhMX2V3ZEs4V3ZobTB0WV9odDNER1R2R2dvWTB4ZDYyNDFZVks?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1802304ead2d",
-      "title": "Cientistas propõem equipar barata para aplicar medicamento em vítima de desastre - Folha de S.Paulo",
-      "published": "2026-08-28T09:00:00+00:00",
-      "summary": "Cientistas propõem equipar barata para aplicar medicamento em vítima de desastre&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOXE2VFpUSW94dzdveThUNk5Wd3hQRnJGZE1XaHhzbUZPZnRfTGZCZWp2YmhJSllDQ21HOWNFb3V5aXVVVF9xbFNCUWZKZmNyMXRBVmFXcWxKWFdwOHJkSWZHRnY4RDVQR2RoeXRLbzJWU1VUS0JRQjZTZk9ZNENyMUlLSlhhYmtYU0J0WlMwUVh3Y0tvWUlNZWtlcWgweTltWFRDZ2VTdk1JbmxZNWhlUDk3WFcyUEt0YkRubWVUUGtBU0xIbVN6U2JRYnY?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cf5772b1480f",
-      "title": "Pesquisa chinesa leva bateria de lítio metálico a rendimento de 602,5 Wh/kg e supera em mais de 50% as células de tração atuais - Notícias Automotivas",
-      "published": "2026-08-28T08:00:16+00:00",
-      "summary": "Pesquisa chinesa leva bateria de lítio metálico a rendimento de 602,5 Wh/kg e supera em mais de 50% as células de tração atuais&nbsp;&nbsp;Notícias Automotivas",
-      "sources": [
-        {
-          "name": "Notícias Automotivas",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPcjl3Uzk4bW9PdThHNmZUVTRyVnV5N28yUFRYQjRwZ2swQWcxdGN4ckdlYnpzVXNTb3VKNWViNS1MUjJsdEVINTZsTjhYeml3N0pQemRmS3BYb2VUZjN3aEhlLUxZQ0EyN0wwcWkwUXNDc2dEd0YwaXUzZmR2VVpuMzdYS2x4RzQwUm9NcE1xeXdoM243alJXT2MwMFVmcmt0cVFsWXJCb1FLNFVod3E1enllUW10ZkpJeE9NclJodlBGQjZ3LXA2VjRlSmJTU0tueHNNZ0pydjVLbV9yQUdtanR6Y3dSM2h4cVdPZGVYX2VyaHFyd3dtag?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3adf87be43db",
-      "title": "Endocrinologista destaca nova fase no tratamento do diabetes - Correio Braziliense",
-      "published": "2026-08-28T08:00:00+00:00",
-      "summary": "Endocrinologista destaca nova fase no tratamento do diabetes&nbsp;&nbsp;Correio BrazilienseDiabetes tipo 2: novas diretrizes mandam tratar peso, coração e rins juntos&nbsp;&nbsp;Agora RNDiabetes dispara no Brasil e sinais podem surgir anos antes do diagnóstico; veja como&nbsp;&nbsp;A TribunaSaiba quais cuidados ajudam no controle do diabetes&nbsp;&nbsp;G1Diabetes pode começar sem sintomas e diagnóstico precoce evita complicações&nbsp;&nbsp;Portal SGC",
-      "sources": [
-        {
-          "name": "Correio Braziliense",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTUFYXzFxcjAzLThSZ3FsNnpCZGJfc0Z1WXo5VWgtRTRsWll4RENnMXl6UnhMMUZaQ2t0QmczM2RXWF9FcDBPWUZ6Q25tNy1wTnV3OEdXQ3RGNXpzLUtZUm1aY05RUVVCMEZlY1VTcHdRd0lPck56N3k2YkNtcW15QkJLTExhZEV3RTVWTnNjYjg2NExNS3M0QVdhOE1iUnJ0RjF0WXl4b2FEcGZzWkRmeUM1aWJmVEd4NHVxTGdhamlFMzZzS2pwd1Nn0gHPAUFVX3lxTFBmNENqM1VlLWdYZEpwSFUzQ0dJV3FjZ2hKVmxMU25wYlJ5TkJEYURHd1o4WjlCTDd1Z3ZRR3d0UktoUy1McS1zdTlWcVh1UTNKMTV2WTVwYldtMHQ3SkNHalp2M3NqaGNNd3BPSFhJY2hKR2R6MFAybDM5MlVIbWpPbUhlc2FacFJ5Q2hkOFYtTy0wcGNRUnpDTWJ3ZkZaUVJXN1NFa3BDREVxdmIxeTJiZjRtWEZRZndYVnpCWDczMW1xRUFSZ3liblZlcC04VQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b2ae0c4dd6da",
-      "title": "Febre do Nilo Ocidental: o que se sabe sobre vírus que matou uma pessoa no Brasil - O GLOBO",
-      "published": "2026-08-28T06:00:24+00:00",
-      "summary": "Febre do Nilo Ocidental: o que se sabe sobre vírus que matou uma pessoa no Brasil&nbsp;&nbsp;O GLOBOO que você precisa saber sobre o vírus que circula no país e fez uma vítima fatal&nbsp;&nbsp;SuperinteressanteBrasil registra 4 casos confirmados da Febre do Nilo Ocidental&nbsp;&nbsp;G1Quais são os sintomas da Febre do Nilo Ocidental? Entenda quando essa infecção viral aguda pode ser perigosa&nbsp;&nbsp;CartaCapitalFebre do Nilo Ocidental não tem vacina e nem remédio, diz especialista&nbsp;&nbsp;",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVE5IT0RfZ1kxZ2t1Vnlyalk5S1h3VkdNYWJQS29aRjh2WnQ0SUI2N0N1eG9LZ0lkRVJiOW9IVWtOV1h4ajNGc01sRjN4bGVTdUF4N1duSWUzVG92WUxvakRNVnZEUlJ1YjBuVVZESmRuMmlRdHRES2dGS2FCSjltejZtWG9sUG1yUmRRMEFqREswdmozbVVsVDJ4a0MzN0kwa2prUmZuakhOUThkOXBCUWFMX3JZcVVmejV4blJKSUZkRmZ3bFlGa2VzS3JHbS1xWHfSAeABQVVfeXFMTkF6OS1DS0Y3VUNqM1liZ0dkdzlaaFgtNWFtX1l5WWJJb2VXZnU0TzFWQ1R3Rmh3bnZwWjVvNVZ5SGxLbGNqUXUyOVJFTUM5WHRrMnZmbllVSE1EZFFLd3ptNE40eGJKaFdubGdLc1VpSjhSR3o4YXJFU0RfYm14R0Y0M1dtMFhiU0VoMWxOS1Vlek9Jb1NoMUZtbUZxRG9PR3ZkcDF4WXR2TzluTEstVzFkVmlTTThZV1FOU29DVTk2V0FYc0N1eGxMNHhZZWhMSXVpR0JacnBKS2duQTFYNG4?oc=5"
         }
       ]
     },
@@ -390,42 +438,6 @@
       ]
     },
     {
-      "id": "9b8158a0942d",
-      "title": "Família de Jair Marçal faz apelo para cobrir custos de tratamento neurológico de urgência - Cassilândia Notícias",
-      "published": "2026-08-28T00:02:00+00:00",
-      "summary": "Família de Jair Marçal faz apelo para cobrir custos de tratamento neurológico de urgência&nbsp;&nbsp;Cassilândia Notícias",
-      "sources": [
-        {
-          "name": "Cassilândia Notícias",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdjZtcTVHQWRwSGh1NTdjTjQ4X0tESkoyMHljX2pYZGdLcVpLcklPN05aVkthWFNCNXJDTFBYUzF3cGFIWEpYZ3ZpbEllN0QxRmk3eXQ4c2F4NW40eDM0bXRGLVNCOUJrbXVHZk5TZEdpQ0ZqM042cnR2TjBMRGh6bHllaF9NOFZ2RlFwdHhnRXBMM0xiaG9rOGJDQTN0em5STVR1YWVQZmFnbGloZzB3aUNIay1tdl84WXVKMXJ5U0dLV05mWXp5MmwyZTdUeXpkYWNIcVFuVdIB1wFBVV95cUxQcEticndLTlZIWHJsVFB2STBNTVRFY0hQUE9IaXptSF9WaXp1cUZ5aDdCQWpjeVdCTExqSWpZdkJpRFYzTGNYN0RfS0MtdDVmZjFHOGstbExXeFdvWFpGdV9FSzJsR0ZWY1ZEZEFkT3hwUWNCWWFKRTY5MU02clVnN0dYVGhlNUJlbm8xY1NDbk5SUmU5R0NpZHp1bWRLNmRmYlFhUXZkVzZ2Sng1TUhNUDROVWpweFNidDdHcDlHQ05tcEQ4TURpTlh3TVRscEhUWWl0VXdKOA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cab4c19d3257",
-      "title": "A cirurgia inédita para remover tumor cerebral feita com a ajuda de IA - BBC",
-      "published": "2026-08-27T20:26:31+00:00",
-      "summary": "A cirurgia inédita para remover tumor cerebral feita com a ajuda de IA&nbsp;&nbsp;BBCVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBabVRpWGFGV19oTE1OQXlNZUMxVUZyQkJ2clVsSGtDTXFqbm9UTS1lbzZjUWlpNVIzUlBEaGNYZjdqc1lhcVJrR1YyZFlpd1lsMzBZTXBnaXc5Q2pWeFVoODZR0gFnQVVfeXFMUFFmSl9yeVl1b240STV2V0lLaEljSDFiOUNKb3hXZnM5Y3VtSE1scE5BalJ3YTFLWkFydkhNVE1ZSWpzdHZ2Y05tR3lldkpXMDN2cGNpS2xNRnhRVHpPVzdoMGxRVVZIVQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "53d7745a3340",
-      "title": "Dois ancestrais 'fantasmas' no DNA humano moderno são identificados por pesquisadores, que buscam por respostas perdidas - CNN Brasil",
-      "published": "2026-08-27T19:01:52+00:00",
-      "summary": "Dois ancestrais 'fantasmas' no DNA humano moderno são identificados por pesquisadores, que buscam por respostas perdidas&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPLVk3cEsyRkR6X0tPSUp0MXRUYzhzeFJwSk9kTVMtM0h5V1hqbnRhQU9rbmNhdGNUeTdMOW1kUTllN0FWM0hYM2xPSDI3TXphSUpOWXlaWW96X1JmMXFQNG1Ua096c3VpQi05dXFkQUpHWk1pMkVFTDZtbHgwUjY2TFlOMHpWcGMwU1hXcHhqbnVtYzNuRFJvOWhUdlAta2N6a0VWOVBNR0dEcTZUbnFDbzhoWUo1RHE3RHMtUGt2N3p5VjlzaWlpcXJ5c004NW9UT19uNUJsWmYtYVludFFhUzRFcnBJRHJkcVhj?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5230adad24fd",
       "title": "Laboratório da polilaminina apresenta estudo inicial de vacina antitabaco - UOL",
       "published": "2026-08-27T18:18:53+00:00",
@@ -434,18 +446,6 @@
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVzhNam1sbXoyVm1RQVRyOTh3Yi1kWFV4NEh3WHVRLVFlUHFYMFdoVDlnZmxtdEdYWWlCTXpUSGJDcURYMWpGeHl6ejNCYmVMTkZYYk9WTlhLdWpiSTNHM1MzNTc1bE9kdVg3RUlZQXVKNG5XV191c3lGRnJjeWNEZ3NxN1dCNDVIZzJXUGQ5Nk1qV0kybmhXV1FfUEN6STJFSUwyM1VrM0VUcVB3MnE0OVlkZGdLVU95eVNsb3JVRnY3RVp4RWxzTkJ3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "034984eab313",
-      "title": "Pílula contra câncer de pâncreas que fez médicos chorarem é aprovada nos EUA - G1",
-      "published": "2026-08-26T23:48:05+00:00",
-      "summary": "Pílula contra câncer de pâncreas que fez médicos chorarem é aprovada nos EUA&nbsp;&nbsp;G1Quanto vai custar a pílula contra o câncer de pâncreas aprovada nos EUA&nbsp;&nbsp;VEJAOpinião - Fábio Busnardo e Dov Goldenberg: O dilema das inovações em saúde&nbsp;&nbsp;Folha de S.PauloNova pílula contra câncer de pâncreas dobra sobrevida de pacientes&nbsp;&nbsp;band.com.brUBS eleva preço-alvo da Revolution Medicines para US$ 265 após precificação de medicamento&nbsp;&nbsp;Investing.com Brasil - Finança",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBrMjJPX05WTWg2Vi1pRk1oaUNDeFlMZEJRM2ZmTnU2bjVDVU9DZGt0ZkNBTFpsWTVsN3JtaTFnWUxvanNrNFlEZ2dGMkFGd2tWaGZjQXdaUzhWc2pDRnBSSGQ4YlR1Wm1tMlBVLVJlUFZ3RnJIUGxyVW5seWvSAYsBQVVfeXFMT1J3cWMxeEQ2OFZwUlBpSHkwa09GMEFveFFmYjhpeWlUTEtnVHdDWDRVelNXZndtSDB3WTJEeGU5enRELUJCS0VyTHZ1anl6WGJCWUpUMjJHLU5WcFFYOGFESWNpWFN3Uld2V1dibVQ1ZFFySnJjNVVlVEdDTjVYcXNKMXd6MENfekdVUQ?oc=5"
         }
       ]
     },
@@ -486,6 +486,18 @@
       ]
     },
     {
+      "id": "15ec433bd7cb",
+      "title": "Febre do Nilo Ocidental: 8 perguntas e respostas sobre a doença que teve casos confirmados no Brasil - BBC",
+      "published": "2026-08-25T22:07:59+00:00",
+      "summary": "Febre do Nilo Ocidental: 8 perguntas e respostas sobre a doença que teve casos confirmados no Brasil&nbsp;&nbsp;BBCApesar de ser rara em humanos, DIVE SC orienta população sobre Febre do Nilo Ocidental&nbsp;&nbsp;G1O que você precisa saber sobre o vírus que circula no país e fez uma vítima fatal&nbsp;&nbsp;SuperinteressanteQuais são os sintomas da Febre do Nilo Ocidental? Entenda quando essa infecção viral aguda pode ser perigosa&nbsp;&nbsp;CartaCapitalFebre do Nilo Ocidental não tem vacina e ne",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LSGI2TUtoX0RKSERJTG5lanhZYlo2UVMzNUxEaVBXSkh5cHNWcHZKTDh6QnBzTk52eTRKOGotR0dJRjMwTDdKZGx3d0IyVTk1MjNtamVQZGhRUkQ5ek1YZnJB0gFnQVVfeXFMT2lxRi1JeVdVaFhXa21YbGdhUzUzSGx4Um5oZUpDTFgzQ1hiWUUwWTlSQWJxdGY3bTBkMjBfeENVVDU0NTBLU05adVRLMlBBNVBrUlBFZXk3LThhTWdTOXVOUmtGbFVHYw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "61ae9246c950",
       "title": "Depressão sazonal: o que é, quais os sintomas e quem tem maior risco de desenvolver o transtorno - Portal Drauzio Varella",
       "published": "2026-08-25T18:06:18+00:00",
@@ -513,7 +525,7 @@
       "id": "180f93e33b24",
       "title": "Risco de morrer por câncer de pulmão é até 30 vezes maior entre fumantes; veja por idade - G1",
       "published": "2026-08-23T07:01:52+00:00",
-      "summary": "Risco de morrer por câncer de pulmão é até 30 vezes maior entre fumantes; veja por idade&nbsp;&nbsp;G1Agosto branco: alerta para conscientização e prevenção ao câncer de pulmão&nbsp;&nbsp;Jornal da USPAção gratuita em Salvador oferece avaliação de risco para câncer de pulmão&nbsp;&nbsp;Rádio MetrópoleAgosto Branco: mês é marcado por campanha de prevenção ao câncer de pulmão&nbsp;&nbsp;G1Além do cigarro, o que pode causar câncer de pulmão? Conheça riscos&nbsp;&nbsp;Diário do Nordeste",
+      "summary": "Risco de morrer por câncer de pulmão é até 30 vezes maior entre fumantes; veja por idade&nbsp;&nbsp;G1Diagnóstico precoce é aliado contra câncer de pulmão&nbsp;&nbsp;G1Agosto branco: alerta para conscientização e prevenção ao câncer de pulmão&nbsp;&nbsp;Jornal da USPAção gratuita em Salvador oferece avaliação de risco para câncer de pulmão&nbsp;&nbsp;Rádio MetrópoleAgosto Branco: campanha busca conscientizar a população sobre o câncer de pulmão&nbsp;&nbsp;G1",
       "sources": [
         {
           "name": "G1",
