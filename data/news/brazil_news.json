@@ -1,19 +1,103 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-08-28T21:48:25.448532+00:00",
-  "total_fetched": 66,
-  "unique_count": 65,
-  "health_related_count": 32,
+  "fetched_at": "2026-08-29T06:08:00.262627+00:00",
+  "total_fetched": 79,
+  "unique_count": 78,
+  "health_related_count": 34,
   "news": [
     {
-      "id": "44afcff3bb4b",
-      "title": "O que uma infância com menos açúcar revelou décadas depois - DW.com",
-      "published": "2026-08-28T16:39:41+00:00",
-      "summary": "O que uma infância com menos açúcar revelou décadas depois&nbsp;&nbsp;DW.comMenos açúcar da gestação aos 2 anos de idade pode reduzir risco de demência, aponta estudo&nbsp;&nbsp;Extra onlineEstudo liga menos açúcar na infância a menor risco de câncer&nbsp;&nbsp;redeutv.com.brMenos açúcar nos primeiros anos de vida pode reduzir até 69% o risco de alguns cancros&nbsp;&nbsp;PplwareConsumo de açúcar na infância pode elevar risco de demência&nbsp;&nbsp;TV Pampa",
+      "id": "b28c116e0ce9",
+      "title": "Cientista da UFRJ diz que chora quase todos os dias após Anvisa reduzir de 90 dias para 72 horas a janela da polilaminina, tratamento experimental associado a recuperações em pacientes tetraplégicos; 500 famílias aguardam na fila, 200 já teriam perdido - CPG Click Petróleo e Gás",
+      "published": "2026-08-28T22:21:00+00:00",
+      "summary": "Cientista da UFRJ diz que chora quase todos os dias após Anvisa reduzir de 90 dias para 72 horas a janela da polilaminina, tratamento experimental associado a recuperações em pacientes tetraplégicos; 500 famílias aguardam na fila, 200 já teriam perdido&nbsp;&nbsp;CPG Click Petróleo e Gás",
       "sources": [
         {
-          "name": "DW.com",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc05lSUlqb0xxZFVqYng5MlFXY19DU3JLNWVLa2VwVEdfcXVVQ3ZoRF9VVXlxU2p5bHc4eFR0aXJOS1JaX0lldWFRaEhvbkdxVXRySEdMZi1OODdDSl8wY1BkNE9oa1h0WEU0S1lwcTVCSTh3ejk0aWp3MVh0c1gtRW9Lcy1WTS1leHRBal9CWGh2bWktT291d1IwTXZUR21JMzNzMzlkRVR3eHh2MEhwVnhkV0zSAbQBQVVfeXFMUENtSWFoQTNkVUFtMXR0YWV0U0N2cElkUHpad2hFRlhkeGV0MFRUbURVNlplNjdWMEcxQjJFazM1QkRGWXc1WVliVmtWMFJWeG45LXZ5Y2JKM05xbVZIMGpRNHlKa3dFSWFhdGY4d1Nfb3Jkb3ZpYXB6b2hlZENLOG5NSlAweVBZUWZDRzhucFZ2Y3hLcmFITFc1TnFaZW1rTU53VHNxaHE2c0hLN1h5TDhHUUU1?oc=5"
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOR0FmZ2V0ZkNBQUx4YWM5QzZPLWZPYTJfUFZRNFZyc0VGVkpnLWdkcHhvRGU4dWVVQ3cwYi14RW1yb2JvZ3JBbkxFZnI1N29zVW5lbXJHQWRHQUVxTUpGQTFhY1dmeEUwVlVfZXFiY2otTDN5VHI5Z3RvUDAyQnQweXhIS01KS0w1eDNpVXNFS3FGLWRrV2hlOERhZWo2X2s4TmRld3Bfc1FqTU9XRlhpbHhhZm1rQk9lNTNzYWdKOE5TYUxTZGVLejFCak9YLXFFMlM5TE9LbDlYenFPR1dZTE1MN1U3eDE4eWFmalVSU2ZGZkxhT2xqbTJkQm5FdWdFMTZ2SHVJRTVUYzhmalFNbHNiZ2JJOFZETEotOUR6QkdKWl9DWnFVMEpPY3JjRGtDaFZlMDF2RHU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8f1dc761072d",
+      "title": "SUS vai oferecer três novos medicamentos para o tratamento de câncer de pulmão - R7",
+      "published": "2026-08-28T21:36:33+00:00",
+      "summary": "SUS vai oferecer três novos medicamentos para o tratamento de câncer de pulmão&nbsp;&nbsp;R7SUS terá três novos medicamentos para tratamento do câncer de pulmão&nbsp;&nbsp;CNN BrasilFEMAMA defende rigor no cronograma da AF-Onco&nbsp;&nbsp;Medicina S/AAF-Onco: piloto terá três medicamentos oncológicos em setembro, com conexão entre sistemas de autorização e dispensação&nbsp;&nbsp;Futuro da SaúdeConass realiza último encontro preparatório para oficina nacional sobre a Política de Prevenção e Contr",
+      "sources": [
+        {
+          "name": "R7",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVkRoQlZOeEFpV3NIa2psX0FOMWRMRUgxOWpFVzlkR283akR1SUlYVUU3azllbjRIcVNXVkdFSWNTOEZSZXpJNHc2aG9GcEdpVi16TVZBeHhfS1NlOE5vamJqeDJFb29ubjd5cmRSajdLNDVYQWQwUHVRVURHNkVsSGw3NGhIRGZFVVd3aS1UTlNyQ1EzeEhqVTlFamRIMFpVdDA2NDJSdXZYcXdwWXpjQ1lIbV9QUTJEcVdNc19SdDVYbWJvTHZ2bzR1Yw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a8f8d56e5bb6",
+      "title": "JP1: Pesquisas da Esalq ajudam a transformar o agro brasileiro - sampi.net.br",
+      "published": "2026-08-28T20:11:45+00:00",
+      "summary": "JP1: Pesquisas da Esalq ajudam a transformar o agro brasileiro&nbsp;&nbsp;sampi.net.br",
+      "sources": [
+        {
+          "name": "sampi.net.br",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOHQtYUZFUl9YcHY5MG91T2QzaEFpSHZKRXpidDdETm1YQVpMNGtoRktYR0QyWVRMMGxRMGw4Y3hZenBkWnZnVGs0TkFoYWtqN3JRUkxjdnQ3NHlaeWpUc0cwaENqN0I1cWg1TXEtYUMzV2o5bG5KNk01MGJOeGkybmVnUldMVzktd0lpRWxWbzJJSVhfNlZtdHJHZzFLQnRTWk9wZlRzMDlXMmNFSm9hR0VLZmFCTDd1ZGJqWFp3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "22ae0822f695",
+      "title": "As pessoas mais felizes costumam nascer nestes meses, segundo estudo - Portal 6",
+      "published": "2026-08-28T19:25:08+00:00",
+      "summary": "As pessoas mais felizes costumam nascer nestes meses, segundo estudo&nbsp;&nbsp;Portal 6",
+      "sources": [
+        {
+          "name": "Portal 6",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeVBuQVRSV2pBT2NjZmFhTEVyMGlwVExVWWFyRU9BMU8xZWo4VnJra1RhcEYzVXpQcTQySDVuY0NhNk9Eb0pzMHdUd3pudHpOU2o5eU5zM045QndsazNySnBROEN6dGhUOU5RY3VUczVDeFR6eXNhWExDcVBJQXVmQlJtWFVpUWlpQWVVbHVIalRLWDZXOUhQRUFHUXhneHU0M1RQNw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8ae69050bb74",
+      "title": "Câncer de bexiga: sinais de alerta, fatores de risco e importância do diagnóstico precoce - Rádio Itatiaia",
+      "published": "2026-08-28T18:53:11+00:00",
+      "summary": "Câncer de bexiga: sinais de alerta, fatores de risco e importância do diagnóstico precoce&nbsp;&nbsp;Rádio ItatiaiaCâncer de bexiga é pouco conhecido para 81% dos idosos; veja sinais&nbsp;&nbsp;UOLCâncer de bexiga: por que falar sobre tabagismo é falar sobre prevenção?&nbsp;&nbsp;Jovem PanCâncer de bexiga: pesquisa revela que homens e idosos ignoram riscos&nbsp;&nbsp;Correio Braziliense81% das pessoas acima de 60 anos desconhecem o câncer de bexiga&nbsp;&nbsp;Medicina S/A",
+      "sources": [
+        {
+          "name": "Rádio Itatiaia",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcmkxMUZ3WG1WY2lrWVdxSVVqMVJZMkF6U21yZ3lOTDBnWnpsbGw4RkthdDJmTDRsQnd2NElIakdManRlUktqRkQ1YTJfaVE2c09xVnRxaG5qYnRrdVZraWRJWVEtdUl1SjFvbVlPUVI2MDBmMmx4N0VJOVBKaHlHQlYtaUNadUFjT3FqY1RURUttSWVXdnNieE4tTFJzYXhCYkRFWjRpLUFDOEx3OXBpekExTklpOWhMZkZmWVZ0WFc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c48619dbc7d5",
+      "title": "Sarampo nas Américas chega ao maior nível em mais de 20 anos - UOL Notícias",
+      "published": "2026-08-28T18:34:10+00:00",
+      "summary": "Sarampo nas Américas chega ao maior nível em mais de 20 anos&nbsp;&nbsp;UOL NotíciasEUA confirmam duas primeiras mortes por sarampo em 2026; doença é evitável com vacina&nbsp;&nbsp;G1Duas pessoas não vacinadas na Pensilvânia morrem de sarampo nos EUA&nbsp;&nbsp;CNN BrasilEstados Unidos registram mortes por sarampo em novo surto da doença&nbsp;&nbsp;TerraSarampo volta a preocupar após explosão de casos nos EUA; veja sintomas e riscos da doença&nbsp;&nbsp;Jornal Opção",
+      "sources": [
+        {
+          "name": "UOL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUlRqOWJmbjVBQU91WTVPeWVfY0F1T3ZFNy1tdEZXTGFmWlZtR3I1Sk1zZnlETUhHQ0VJN3dCX2lmRHFSOXktZnZxdEx1REt1R1h1QnJ2OWF3Wldub2RnRmJwZW15U2hIMEFOaFV2NjNobmhxV2JJLUhYVk0wYmZjUTBaSmZOUTVDNmtYRU9Xal9TZkNweXRmeFBJcFlCYlNYNVBnRGxHSWJwSEx4MWk5TFh1eHU2eFhFVXRLQjdjTVpENWs3anFNQXBjTDVGajQx?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d0ed233054e7",
+      "title": "Demora no diagnóstico agrava esclerose múltipla, alerta associação - UOL",
+      "published": "2026-08-28T17:41:22+00:00",
+      "summary": "Demora no diagnóstico agrava esclerose múltipla, alerta associação&nbsp;&nbsp;UOLBom Dia Responde: Esclerose múltipla doença que afeta o sistema nervoso central&nbsp;&nbsp;G1Esclerose Múltipla pode ser confundida com estresse; entenda mais sobre a doença&nbsp;&nbsp;R7Cubatão debate esclerose múltipla com profissionais de saúde, pacientes e familiares&nbsp;&nbsp;A TribunaEsclerose múltipla: mulheres entre 20 e 40 anos representam 70% dos casos&nbsp;&nbsp;Estado de Minas",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYk9HcmRYak11bHZVdmJCdWdXbmFZTnZxOUR6dTA1b2RiTTZMUk5ZU0VqSTh0QkZCMGpkUXh5Vml5MzM5Rmloem9fTVBIbUx4eTM2R0dUQ2FINDVEeW5nZ2pVUXdtbzRCY1RGRkZFbVdrdWk1N3FaZi1lcjFXVnMzZWIyMEMtWE0yV0tYUEFOT2RndUdnYXJBWks5RFNGemJqYXlkcmdER3NiZDEwWndUR2E2bDNlT3VSMmRBTUJqNnNlRTVjWTYyeA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9d912df281ce",
+      "title": "Nova diretriz muda tratamento da tireoide na gestação - UOL",
+      "published": "2026-08-28T17:37:54+00:00",
+      "summary": "Nova diretriz muda tratamento da tireoide na gestação&nbsp;&nbsp;UOLTireoide na gravidez: sociedades médicas mudam recomendações para tratamento&nbsp;&nbsp;Rádio ItatiaiaDiretriz médica desaconselha uso preventivo de levotiroxina em gestantes&nbsp;&nbsp;O CafezinhoNovas diretrizes para tratamento da tireoide em gestantes&nbsp;&nbsp;Folha BVMudança no tratamento da tireoide em gestantes com novas diretrizes&nbsp;&nbsp;Portal Piauí Hoje",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWUV2Q1k0cHRIcDNxUEI0MFdGMXBub2ZvRy1teEt0NXl4WWp0XzNwVU05SE9RZ1RUbGFwa1pZTlozYnNyUk9kUXRaOEFkdkxCQVVLVjk4cmg5Vkc3UVdVdk5feE5YTDF2Y0VYNnVZOTdtcmdWU3Z6WFZoS3Z6eG91RkczdEl3dkFJNHBsSkZsUDNrWFlzVFVNUk1mSXJubzVRWTV2ckZOLWhzb00xcV9nNUZkdUpwV3FB?oc=5"
         }
       ]
     },
@@ -54,14 +138,14 @@
       ]
     },
     {
-      "id": "d0ed233054e7",
-      "title": "Demora no diagnóstico agrava esclerose múltipla, alerta associação - UOL",
-      "published": "2026-08-28T13:41:22+00:00",
-      "summary": "Demora no diagnóstico agrava esclerose múltipla, alerta associação&nbsp;&nbsp;UOLBom Dia Responde: Esclerose múltipla doença que afeta o sistema nervoso central&nbsp;&nbsp;G1Esclerose Múltipla pode ser confundida com estresse; entenda mais sobre a doença&nbsp;&nbsp;R7Cubatão debate esclerose múltipla com profissionais de saúde, pacientes e familiares&nbsp;&nbsp;A TribunaEsclerose múltipla: mulheres entre 20 e 40 anos representam 70% dos casos&nbsp;&nbsp;Estado de Minas",
+      "id": "44afcff3bb4b",
+      "title": "O que uma infância com menos açúcar revelou décadas depois - DW.com",
+      "published": "2026-08-28T12:25:53+00:00",
+      "summary": "O que uma infância com menos açúcar revelou décadas depois&nbsp;&nbsp;DW.comEstudo liga menos açúcar na infância a menor risco de câncer&nbsp;&nbsp;redeutv.com.brConsumo de açúcar na infância pode elevar risco de demência&nbsp;&nbsp;TV PampaMenos açúcar da gestação aos 2 anos de idade pode reduzir risco de demência, aponta estudo&nbsp;&nbsp;Extra onlineMenos açúcar nos primeiros anos de vida pode reduzir até 69% o risco de alguns cancros&nbsp;&nbsp;Pplware",
       "sources": [
         {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYk9HcmRYak11bHZVdmJCdWdXbmFZTnZxOUR6dTA1b2RiTTZMUk5ZU0VqSTh0QkZCMGpkUXh5Vml5MzM5Rmloem9fTVBIbUx4eTM2R0dUQ2FINDVEeW5nZ2pVUXdtbzRCY1RGRkZFbVdrdWk1N3FaZi1lcjFXVnMzZWIyMEMtWE0yV0tYUEFOT2RndUdnYXJBWks5RFNGemJqYXlkcmdER3NiZDEwWndUR2E2bDNlT3VSMmRBTUJqNnNlRTVjWTYyeA?oc=5"
+          "name": "DW.com",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc05lSUlqb0xxZFVqYng5MlFXY19DU3JLNWVLa2VwVEdfcXVVQ3ZoRF9VVXlxU2p5bHc4eFR0aXJOS1JaX0lldWFRaEhvbkdxVXRySEdMZi1OODdDSl8wY1BkNE9oa1h0WEU0S1lwcTVCSTh3ejk0aWp3MVh0c1gtRW9Lcy1WTS1leHRBal9CWGh2bWktT291d1IwTXZUR21JMzNzMzlkRVR3eHh2MEhwVnhkV0zSAbQBQVVfeXFMUENtSWFoQTNkVUFtMXR0YWV0U0N2cElkUHpad2hFRlhkeGV0MFRUbURVNlplNjdWMEcxQjJFazM1QkRGWXc1WVliVmtWMFJWeG45LXZ5Y2JKM05xbVZIMGpRNHlKa3dFSWFhdGY4d1Nfb3Jkb3ZpYXB6b2hlZENLOG5NSlAweVBZUWZDRzhucFZ2Y3hLcmFITFc1TnFaZW1rTU53VHNxaHE2c0hLN1h5TDhHUUU1?oc=5"
         }
       ]
     },
@@ -78,14 +162,38 @@
       ]
     },
     {
+      "id": "8d407d74a75f",
+      "title": "Como cuidar da saúde de cães que chegam à terceira idade - Canal do Pet",
+      "published": "2026-08-28T10:00:00+00:00",
+      "summary": "Como cuidar da saúde de cães que chegam à terceira idade&nbsp;&nbsp;Canal do PetDica Animal: quadro fala sobre os cuidados com cães idosos&nbsp;&nbsp;G1Bom Pra Cachorro: Cão idoso pode ser ativo; saiba como ajudar seu pet a envelhecer com saúde&nbsp;&nbsp;Folha de S.PauloSeu cão idoso mudou de comportamento? Nem tudo deve ser atribuído à idade&nbsp;&nbsp;Âncora 1Seu pet parece saudável, mas está envelhecendo bem? Entenda como o cuidado preventivo transforma a longevidade&nbsp;&nbsp;Portal UAI",
+      "sources": [
+        {
+          "name": "Canal do Pet",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORnZRd3BZSkUtQWV2elJXRHBGM2NqaWNKU2VncnhaWFpyUXBHUFFsQ2l3TWxfaDFvelA1UXNUQ1lHUFRiRE5WTkh3WUVvckUzTWhnN25JYWszNlFTUEpSbFpoWmROcWlCMGdSQXJjTlVmMFgtZ1g5ZU9YbVRmTnB2UUdyZGhzUmJ0OFp3eWRVSW16dUFzZzN5eDJpVUZ3S3k4dUlv0gGoAUFVX3lxTFBsSVJ3N1ZDV0xfcWdrbTljQmZXbWNZeXpicHFjbmFBdXFEMXpQcGlIcm5kOFBZbkNSekhETFBXYU56UlhtVDY3MGtPYWQwTUlaNlpENWVGVXdjenlMV0FVV0NEdlVDV0c0N2piM0dtS18zOC1OS183SHN5XzVMVzJQbmlOMG9BS2kwcFgwUXVWTTlqdWlFT0tJUXR1SG44NzJsclRraFdsYQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "76b45d636fe0",
       "title": "O 'elixir' do café: bebida pode esconder um segredo para as bactérias do intestino - Jornal Correio",
       "published": "2026-08-28T09:07:00+00:00",
-      "summary": "O 'elixir' do café: bebida pode esconder um segredo para as bactérias do intestino&nbsp;&nbsp;Jornal CorreioExcesso de cafeína afeta sono e saúde mental: dicas para reduzir consumo&nbsp;&nbsp;TerraCafé melhora microbioma intestinal e saúde digestiva&nbsp;&nbsp;boca.com.brCappuccino, café com leite ou café puro: qual é a melhor opção para quem tem refluxo e gastrite&nbsp;&nbsp;Tua SaúdeA dívida de sono não se paga com cafeína: o custo da nossa hiperprodutividade&nbsp;&nbsp;Público",
+      "summary": "O 'elixir' do café: bebida pode esconder um segredo para as bactérias do intestino&nbsp;&nbsp;Jornal CorreioNovo estudo diz que quem toma café regularmente tem uma microbiota mais diversa&nbsp;&nbsp;Jornal O SulCappuccino, café com leite ou café puro: qual é a melhor opção para quem tem refluxo e gastrite&nbsp;&nbsp;Tua SaúdeCafé melhora microbioma intestinal e saúde digestiva&nbsp;&nbsp;boca.com.brExcesso de cafeína afeta sono e saúde mental: dicas para reduzir consumo&nbsp;&nbsp;Terra",
       "sources": [
         {
           "name": "Jornal Correio",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMGotdmU0a29nMm9MRlpfc1pFR2pCNUVfM3FOSmFJX1dsMVJNdDhWWE9PVl9zVk9uNUFLWk5wUEVEd1VBZVV3VWxZbENMSnRrUkpHSFRnSW9wR1FPM0NrNUoySjhvQUkwQ3ZlbnI5WXFIUlR5N3IxYWpFZnczNTJzTmVuMWJRcDJYZGxMMWJ2VlZvcEZKclI4NXMtX1ZXZDJOTlRJdmxlRVF2ZGtyemJ1NUNHaGxEZTVYSEpBcWRsbEhDaTRx?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "25ce8418d05b",
+      "title": "Descobertas sobre longevidade avançam, mas abrem questão: por que queremos viver sempre mais? - VEJA",
+      "published": "2026-08-28T09:00:52+00:00",
+      "summary": "Descobertas sobre longevidade avançam, mas abrem questão: por que queremos viver sempre mais?&nbsp;&nbsp;VEJA",
+      "sources": [
+        {
+          "name": "VEJA",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbFl3V1JWTEdvb2FyQlFKVE5NUUhaVjMwZ1pWamlKTzZNUWxhVWJWSzNRNVRYNzFTRzlUZ09KckJsQlFTR1VpZ2U4RHBfcEZ0cEkwT2ZVRGhIN1haYlJwNTVnZ3FEOC1BRG5jcTRfU0V6OWFZN3E5eUg4REZYNEZrRWhEV0NuMDIyYjBzMVIxZHBvUHVvRzR5WjdRVGhMX2V3ZEs4V3ZobTB0WV9odDNER1R2R2dvWTB4ZDYyNDFZVks?oc=5"
         }
       ]
     },
@@ -102,10 +210,22 @@
       ]
     },
     {
+      "id": "b458b0ca0559",
+      "title": "A cirurgia inédita para remover tumor cerebral feita com a ajuda de IA - G1",
+      "published": "2026-08-28T08:05:01+00:00",
+      "summary": "A cirurgia inédita para remover tumor cerebral feita com a ajuda de IA&nbsp;&nbsp;G1Veja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWTljelpiOEV3U2UtX3E1YUV0cFpXbzRKMEpXTnJrc0pJMGc3TDFrZENvSWpCQ3Z2MlBzX1RNdUp3M0xka2JsaGNNNW16dW9DS1ZCZHFMS3BmVHpqUmNsRnhOdjRnOFdFTzBlM21QOHZaZzhlcmk2TVhNay1Ec2VlTVV0aFByaG1pTHl5Ujd5Y3RPUTdHNzdMSzJFdEtJVFoyd3J2Rm40aVZFVU8zSFN3aTZTYnIwcXFhakZkMEVVQdIBzgFBVV95cUxPem44TklLWHhBS2x6RVdCc3AyeWxjbDlOTkdNZm8zN1dNM2I1TUFaeDV6VWdaMWFQNGxJcXJoTWZTZWY0SHBrSGlwaGlBYXhoMkRDSkNSbkVMMVhLc0hjZU9KaU1oX25WeFZzQWZmWWJSQi1wU25ZRGY4SHMxRFR2NU04WXpsaVpjTlZRRU5zRUh3bHBTaV9PYjNOdXl5cFFlTFlLSU1jbUJvRFZmNkNtRVNSOHRhVkJTWkVxRkZTSy1VT29Qazl5TmotbUxsQQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "3adf87be43db",
       "title": "Endocrinologista destaca nova fase no tratamento do diabetes - Correio Braziliense",
       "published": "2026-08-28T08:00:00+00:00",
-      "summary": "Endocrinologista destaca nova fase no tratamento do diabetes&nbsp;&nbsp;Correio BrazilienseDiabetes pode começar sem sintomas e diagnóstico precoce evita complicações&nbsp;&nbsp;Prefeitura de Porto VelhoUBS é porta de entrada para diagnóstico e tratamento do diabetes pelo SUS&nbsp;&nbsp;G1Atenção primária ajuda a identificar riscos antes que doenças se agravem&nbsp;&nbsp;Jornal O FluminenseDiabetes dispara no Brasil e sinais podem surgir anos antes do diagnóstico; veja como&nbsp;&nbsp;A Tribuna",
+      "summary": "Endocrinologista destaca nova fase no tratamento do diabetes&nbsp;&nbsp;Correio BrazilienseDiabetes pode começar sem sintomas e diagnóstico precoce evita complicações&nbsp;&nbsp;Prefeitura de Porto VelhoUBS é porta de entrada para diagnóstico e tratamento do diabetes pelo SUS&nbsp;&nbsp;G1Diabetes dispara no Brasil e sinais podem surgir anos antes do diagnóstico; veja como&nbsp;&nbsp;A TribunaDiabetes pode ser silencioso; diagnóstico precoce ajuda a prevenir complicações&nbsp;&nbsp;News Rondônia",
       "sources": [
         {
           "name": "Correio Braziliense",
@@ -117,7 +237,7 @@
       "id": "b2ae0c4dd6da",
       "title": "Febre do Nilo Ocidental: o que se sabe sobre vírus que matou uma pessoa no Brasil - O GLOBO",
       "published": "2026-08-28T06:00:24+00:00",
-      "summary": "Febre do Nilo Ocidental: o que se sabe sobre vírus que matou uma pessoa no Brasil&nbsp;&nbsp;O GLOBOQuais são os sintomas da Febre do Nilo Ocidental? Entenda quando essa infecção viral aguda pode ser perigosa&nbsp;&nbsp;CartaCapitalCentro de Vigilância Epidemiológica de São Paulo confirma dois casos de Febre do Nilo Ocidental no estado&nbsp;&nbsp;agenciasp.sp.gov.brMonitorada no Brasil, febre do Nilo Ocidental se espalha também pela Europa&nbsp;&nbsp;Folha de S.PauloDoença transmitida por mosqui",
+      "summary": "Febre do Nilo Ocidental: o que se sabe sobre vírus que matou uma pessoa no Brasil&nbsp;&nbsp;O GLOBOCentro de Vigilância Epidemiológica de São Paulo confirma dois casos de Febre do Nilo Ocidental no estado&nbsp;&nbsp;agenciasp.sp.gov.brQuais são os sintomas da Febre do Nilo Ocidental? Entenda quando essa infecção viral aguda pode ser perigosa&nbsp;&nbsp;CartaCapitalFebre do Nilo Ocidental não tem vacina e nem remédio, diz especialista&nbsp;&nbsp;CNN BrasilFebre do Nilo Ocidental: saiba como iden",
       "sources": [
         {
           "name": "O GLOBO",
@@ -162,54 +282,6 @@
       ]
     },
     {
-      "id": "cab4c19d3257",
-      "title": "A cirurgia inédita para remover tumor cerebral feita com a ajuda de IA - BBC",
-      "published": "2026-08-27T20:26:31+00:00",
-      "summary": "A cirurgia inédita para remover tumor cerebral feita com a ajuda de IA&nbsp;&nbsp;BBCVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBabVRpWGFGV19oTE1OQXlNZUMxVUZyQkJ2clVsSGtDTXFqbm9UTS1lbzZjUWlpNVIzUlBEaGNYZjdqc1lhcVJrR1YyZFlpd1lsMzBZTXBnaXc5Q2pWeFVoODZR0gFnQVVfeXFMUFFmSl9yeVl1b240STV2V0lLaEljSDFiOUNKb3hXZnM5Y3VtSE1scE5BalJ3YTFLWkFydkhNVE1ZSWpzdHZ2Y05tR3lldkpXMDN2cGNpS2xNRnhRVHpPVzdoMGxRVVZIVQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "01de93f08685",
-      "title": "Mosquito que viajou de avião mata dois por malária na Alemanha - G1",
-      "published": "2026-08-27T19:30:25+00:00",
-      "summary": "Mosquito que viajou de avião mata dois por malária na Alemanha&nbsp;&nbsp;G1\"Malária de aeroporto\" deixa dois mortos em Frankfurt&nbsp;&nbsp;Correio do Povo‘Malária de aeroporto’: duas pessoas morrem após contraírem doença em Frankfurt&nbsp;&nbsp;VEJA'Malária de aeroporto' deixa dois mortos e quatro infectados na Alemanha&nbsp;&nbsp;Correio BrazilienseAeroporto de Frankfurt registra mortes de funcionários por malária transmitida por mosquito&nbsp;&nbsp;Terra",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWFB1ZG14dU5idkg1c3dxdWgtX0VtMUo3dHNnT0lrS3AwQi02Q3Y4Nkc4WWRiSVdGbHpvNktDVzBzNTBMM0VzZ3FsQTcwYmtka0NaUWFfX1FQYUZMRERTUTgxeEo5eTJjZndBWjNKNFdhMGhXcmxzaEdBb2N6SVZhNy12RzlRWkRIVHJkRzhLZ1dyZ1NZeWZLdkM0dUx4elAyY283UzdocWVEVWJmOUVLT2JSbDbSAcMBQVVfeXFMT3dDMVpveTBFb2dhRi1lUFRRRTI3Skt4dkQ2OUVEOG01YkcwaWlydDBya3FObUI5RDY4R2tQaGtKTHUwSnRhZU5CaUFKREVTdlJ4bkJtYjROa1M5YjZOaE1maVNtUXlsQjFOV1k4Z1BIbkk0QnhUMkEwbmxwN1Z1QTNmajFHZGhQLVc4VUhraFlubUh4TFdoNlBYNkNMLWRub051NEVSRnRyQktUMkRnU05Takx3MGtvSUNQdjNMakJ4OGhF?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "53d7745a3340",
-      "title": "Dois ancestrais 'fantasmas' no DNA humano moderno são identificados por pesquisadores, que buscam por respostas perdidas - CNN Brasil",
-      "published": "2026-08-27T19:01:52+00:00",
-      "summary": "Dois ancestrais 'fantasmas' no DNA humano moderno são identificados por pesquisadores, que buscam por respostas perdidas&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPLVk3cEsyRkR6X0tPSUp0MXRUYzhzeFJwSk9kTVMtM0h5V1hqbnRhQU9rbmNhdGNUeTdMOW1kUTllN0FWM0hYM2xPSDI3TXphSUpOWXlaWW96X1JmMXFQNG1Ua096c3VpQi05dXFkQUpHWk1pMkVFTDZtbHgwUjY2TFlOMHpWcGMwU1hXcHhqbnVtYzNuRFJvOWhUdlAta2N6a0VWOVBNR0dEcTZUbnFDbzhoWUo1RHE3RHMtUGt2N3p5VjlzaWlpcXJ5c004NW9UT19uNUJsWmYtYVludFFhUzRFcnBJRHJkcVhj?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5230adad24fd",
-      "title": "Laboratório da polilaminina apresenta estudo inicial de vacina antitabaco - UOL",
-      "published": "2026-08-27T18:18:53+00:00",
-      "summary": "Laboratório da polilaminina apresenta estudo inicial de vacina antitabaco&nbsp;&nbsp;UOLVacina brasileira contra a nicotina bloqueia o vício diretamente no sangue&nbsp;&nbsp;band.com.brAlém da polilaminina: Laboratório Cristália investe R$ 150 milhões para tentar criar vacina antitabagismo&nbsp;&nbsp;O GLOBOCristália inicia estudos de vacina brasileira contra o tabagismo&nbsp;&nbsp;Guia da FarmáciaLaboratório brasileiro desenvolve vacina contra nicotina para tentar evitar recaídas de fumantes&nb",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVzhNam1sbXoyVm1RQVRyOTh3Yi1kWFV4NEh3WHVRLVFlUHFYMFdoVDlnZmxtdEdYWWlCTXpUSGJDcURYMWpGeHl6ejNCYmVMTkZYYk9WTlhLdWpiSTNHM1MzNTc1bE9kdVg3RUlZQXVKNG5XV191c3lGRnJjeWNEZ3NxN1dCNDVIZzJXUGQ5Nk1qV0kybmhXV1FfUEN6STJFSUwyM1VrM0VUcVB3MnE0OVlkZGdLVU95eVNsb3JVRnY3RVp4RWxzTkJ3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a76e58cb967e",
       "title": "Brasil vai começar a rastrear diabetes tipo 5; saiba o que é a doença - O GLOBO",
       "published": "2026-08-27T15:17:39+00:00",
@@ -222,30 +294,6 @@
       ]
     },
     {
-      "id": "4e8cd5e8a4d5",
-      "title": "Tecido adiposo pode guardar 'memória' da obesidade mesmo após emagrecimento, aponta estudo - Época Negócios",
-      "published": "2026-08-27T15:04:28+00:00",
-      "summary": "Tecido adiposo pode guardar 'memória' da obesidade mesmo após emagrecimento, aponta estudo&nbsp;&nbsp;Época Negócios",
-      "sources": [
-        {
-          "name": "Época Negócios",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMDVWWDcwR1RRTEtEVjFKcy0xcVNrb19vWDQzOHMxc3pmRHdHQ2JpRXpRVTlyQzRhLUwyTklUcmNTZnQzdWVrY2djS0xNNDYtQjBHcUNha0hqTGI5M2pSRVBYWFMwYnR5eWptdDlZckg0XzBUaDFQZTJPbEpwYkpxYmZzYUFMMGl3M3RNR0p0RXJBbjh5eERHbWhoRHB5U25QbTZpdHlHZkN3OFJhcmlvdGlrLVdMcWtxUjNneVlHd3ZJNWJNNkJxV1JxeFRnUDVLZDRDOGVuZVJ5UENtZ3NJRnhaemdYT0xYcnNGaFpB0gH8AUFVX3lxTE53TURDcWlDMnFscDNIdEhKUkpSNG5yYldKZUFIZEtsX1JQWEhpbWpjRnBQeHA4UDJMOUtRYy02a2xYLWg3N0JnSG1iMGNRUlhHU2E4LU56VWVHVUNHLWFoV2lxWDhFaXg2Y3FVNG5IZXpLa01ISUgwd3pzeXNWVU5wbVAtRXNWSTJSUGNMSlZRemZGaVhsbnE5Ui1MalRWejdJUGVHTWc5Qk5kZkZ2TWN5bEZJYWhFT2dGcVZmYmFEZWFEbWMyUTl1Z0QtemtsVXFxSGlwRXpXWFJoMGdfTjQ4WF9QVEhzZjdHWDZiZUZhLWRLcmpRRkVCSW1sUA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0d957796199c",
-      "title": "Brasileiros gastam mais de R$ 100 por mês com assinaturas, diz pesquisa - Tecnoblog",
-      "published": "2026-08-27T14:41:50+00:00",
-      "summary": "Brasileiros gastam mais de R$ 100 por mês com assinaturas, diz pesquisa&nbsp;&nbsp;Tecnoblog",
-      "sources": [
-        {
-          "name": "Tecnoblog",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZXJYWm80cFRuNnNfYmlXMlFOZ3JOSXlvNERxYmdRb1FFRlJSbUhVaW81MDNzYWlBUUVkVFVwNVRGa2NKTnhTUHY2alFMTklVbFhLa0hIS2MtYy1hRFRwSUljeVpVZmo4clFKMmQ4S2s4YXlBOXRTOFZwX1NMVWIta3BYM0RwX3dWN2R6ZElvSWJDcDdNQXZfa0pBdnhfaWhUdmtj?oc=5"
-        }
-      ]
-    },
-    {
       "id": "56d6688370d9",
       "title": "Conheça a fruta brasileira que ajuda a proteger o fígado e reforça as defesas do organismo - ICL Notícias",
       "published": "2026-08-27T13:05:06+00:00",
@@ -254,18 +302,6 @@
         {
           "name": "ICL Notícias",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5UNFZ4ZW1OekViWTVlQWFCT1JyZ2RxQkprTmd1SFBZMUp4d3ZyOU1pZmRVM1owVlpKZndTMDF3cjhaUVRnOVJjdFU3R0cwOFM1SFExY0l4NnZzTWswcVhBbnlOaE8yOU1KS29TaVR3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e126bfe137d0",
-      "title": "Estado de SP chega a 26 casos de sarampo em 2026 - 27/08/2026 - Equilíbrio e Saúde - Folha de S.Paulo",
-      "published": "2026-08-27T11:46:00+00:00",
-      "summary": "Estado de SP chega a 26 casos de sarampo em 2026 - 27/08/2026 - Equilíbrio e Saúde&nbsp;&nbsp;Folha de S.PauloSurto de sarampo em SP: sobe para 26 o número de casos confirmados da doença no estado&nbsp;&nbsp;G1São Paulo chega a 26 casos de sarampo; vacinação é reforçada&nbsp;&nbsp;TV CulturaCom surto de sarampo em São Paulo, Saúde de Curitiba alerta para necessidade de manter vacinação em dia&nbsp;&nbsp;Prefeitura de CuritibaSão Bernardo terá vacinação contra o sarampo neste sábado (29) | Diário",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWHdDU3premVBaVlaSkJGX0F4WGRzVnJuZFNiTGJUTHprbmNCdUgybGNNSkZrXzlnbm91a3hTd0tKUFdwdDlqVzdwSUpqNmxjS3pBUVVCbS1QVkZTZTJXMmhpRUlPeEtPdlRZc1JJSjZiS3lUazdzckFMTmNxUGVtc0l4QVdLbUxXSlpLaU8zUGtwNU1EVVdSWWFScm9STXJ3S0k0TDE0cE03UVdWUkE?oc=5"
         }
       ]
     },
@@ -285,7 +321,7 @@
       "id": "034984eab313",
       "title": "Pílula contra câncer de pâncreas que fez médicos chorarem é aprovada nos EUA - G1",
       "published": "2026-08-26T23:48:05+00:00",
-      "summary": "Pílula contra câncer de pâncreas que fez médicos chorarem é aprovada nos EUA&nbsp;&nbsp;G1Quanto vai custar a pílula contra o câncer de pâncreas aprovada nos EUA&nbsp;&nbsp;VEJAOpinião - Fábio Busnardo e Dov Goldenberg: O dilema das inovações em saúde&nbsp;&nbsp;Folha de S.PauloComo age no corpo a droga que dobra o tempo de vida de pessoas com câncer de pâncreas avançado recém aprovado nos EUA?&nbsp;&nbsp;O GLOBOEUA aprova tratamento promissor contra o câncer de pâncreas&nbsp;&nbsp;O POVO+",
+      "summary": "Pílula contra câncer de pâncreas que fez médicos chorarem é aprovada nos EUA&nbsp;&nbsp;G1Quanto vai custar a pílula contra o câncer de pâncreas aprovada nos EUA&nbsp;&nbsp;VEJAOpinião - Fábio Busnardo e Dov Goldenberg: O dilema das inovações em saúde&nbsp;&nbsp;Folha de S.PauloEUA aprova tratamento promissor contra o câncer de pâncreas&nbsp;&nbsp;O POVO+UBS eleva preço-alvo da Revolution Medicines para US$ 265 após precificação de medicamento&nbsp;&nbsp;Investing.com Brasil - Finanças, Câmbio e",
       "sources": [
         {
           "name": "G1",
@@ -294,21 +330,21 @@
       ]
     },
     {
-      "id": "60b1dcd90158",
-      "title": "Por que é impossível matar príons? - Superinteressante",
-      "published": "2026-08-26T21:00:00+00:00",
-      "summary": "Por que é impossível matar príons?&nbsp;&nbsp;SuperinteressanteEspecialista de Marília explica avanços e protocolo paliativo para a doença de Creutzfeldt&nbsp;&nbsp;G1Brasil teve mais de mil suspeitas da doença Creutzfeldt-Jakob em 16 anos&nbsp;&nbsp;CNN BrasilBraço dormente era sinal de DCJ? Entenda o drama!&nbsp;&nbsp;ABCtudoSuspeitas de doença de Creutzfeldt-Jakob passam de mil no Brasil em 16 anos&nbsp;&nbsp;O POVO",
+      "id": "ba82437373a1",
+      "title": "Dois trabalhadores do Aeroporto de Frankfurt morrem de malária após mosquito viajar em avião até a Alemanha - AEROIN",
+      "published": "2026-08-26T21:27:49+00:00",
+      "summary": "Dois trabalhadores do Aeroporto de Frankfurt morrem de malária após mosquito viajar em avião até a Alemanha&nbsp;&nbsp;AEROINMosquito que viajou de avião mata dois por malária na Alemanha&nbsp;&nbsp;G1\"Malária de aeroporto\" deixa dois mortos em Frankfurt&nbsp;&nbsp;Correio do Povo‘Malária de aeroporto’: duas pessoas morrem após contraírem doença em Frankfurt&nbsp;&nbsp;VEJA'Malária de aeroporto' deixa dois mortos e quatro infectados na Alemanha&nbsp;&nbsp;Correio Braziliense",
       "sources": [
         {
-          "name": "Superinteressante",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pbXgzQmdnTkV3ZkNEOW5ZSTlWejkwRzdqdllYaWQ0TzZIQ2lHSDVyX0lUem81YlJ1SnY2MUQyUXlIenhYbG5RWkhPYzVFOTVOYWtCcDZibUo2YWswRkJEOU9CU25QZDZZLU5QMk1STFNYcU5NclV2NA?oc=5"
+          "name": "AEROIN",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPS0xRS2N0T1ZxUzF0OEZBVHY5bDlPWU5wMmhBX0d0T2FuXzNvWlhReS1EV2ZUTTZwTG1LVWt5SUxqb2U4TTM0UzYxS1llQi1fd295QW1DTVVJd0tCZlk3SC1HWmxNRzJTWHRkUkRQb0MwX05LOXFqX0xRZTc2MkY1OTRaSVJZMG1zT2l2RjZwbF9wQjJ1Ul9rXzY1aWJ3OVRCV1BRZXlYTlZiaEVWZkxiZmtZUFo0emtwYVA4YTJ6MS1wcVhwVWfSAcYBQVVfeXFMT0tMUUtjdE9WcVMxdDhGQVR2OWw5T1lOcDJoQV9HdE9hbl8zb1pYUXktRFdmVE02cExtS1VreUlMam9lOE0zNFM2MUtZZUItX3dveUFtQ01VSXdLQmZZN0gtR1psTUcyU1h0ZFJEUG9DMF9OSzlxal9MUWU3NjJGNTk0WklSWTBtc09pdkY2cGxfcEIydVJfa182NWlidzlUQldQUWV5WE5WYmhFVmZMYmZrWVBaNHprcGFQOGEyejEtcHFYcFVn?oc=5"
         }
       ]
     },
     {
       "id": "69e2406cb066",
       "title": "Desafio Diagnóstico: Adolescente com hipertensão grave e diaforese - Medscape",
-      "published": "2026-08-26T15:39:06+00:00",
+      "published": "2026-08-26T14:04:41+00:00",
       "summary": "Desafio Diagnóstico: Adolescente com hipertensão grave e diaforese&nbsp;&nbsp;Medscape",
       "sources": [
         {
@@ -321,7 +357,7 @@
       "id": "74c2366ff5a5",
       "title": "Vacina contra herpes-zóster é associada a menor risco de infarto e AVC - UOL",
       "published": "2026-08-26T12:45:29+00:00",
-      "summary": "Vacina contra herpes-zóster é associada a menor risco de infarto e AVC&nbsp;&nbsp;UOLSaiba o que é herpes-zóster, doença conhecida como '\"cobreiro\"&nbsp;&nbsp;G1Vacina da herpes-zóster está ligada a menor risco de doenças cardíacas&nbsp;&nbsp;SuperinteressanteComo age no corpo a vacina contra a herpes zoster e quem pode tomar&nbsp;&nbsp;Correio BrazilienseQuanto custa a vacina contra herpes-zóster? Veja lista de valores e onde se vacinar em Fortaleza&nbsp;&nbsp;Diário do Nordeste",
+      "summary": "Vacina contra herpes-zóster é associada a menor risco de infarto e AVC&nbsp;&nbsp;UOLVacina da herpes-zóster está ligada a menor risco de doenças cardíacas&nbsp;&nbsp;SuperinteressanteA vacina contra herpes-zóster pode ter efeito no coração. O que muda para o brasileiro?&nbsp;&nbsp;TerraSaiba o que é herpes-zóster, doença conhecida como '\"cobreiro\"&nbsp;&nbsp;G1Como age no corpo a vacina contra a herpes zoster e quem pode tomar&nbsp;&nbsp;Correio Braziliense",
       "sources": [
         {
           "name": "UOL",
@@ -374,18 +410,6 @@
         {
           "name": "BBC",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3SFFLNG1rbExRYUR4bVhKaFFpTmFMaW9Ydk9PS2tvdzNuTDRBQnpXcnF5YlJNbFo1MGtKWHFFN0FJb2JsWHBMdE9ROHI0cFJVMXAySzJwaWdKUDdySHVyY2ZR0gFnQVVfeXFMUGpPdlJsZXVZZlpCVW5vdlQ4bkpHdE5FZkF1M2ZJMEt2UjVRbXZtV1FGYXF2bE5uaHZxdWMyMExtck5fQUFubEVVdWdCQnFjZ1VFNkFpem01amlYOXVXUVhSQ1pVQnVQaw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6309c01e3437",
-      "title": "Dia D da vacinação acontece neste sábado (22); saiba quais imunizantes estarão disponíveis - R7",
-      "published": "2026-08-22T05:00:01+00:00",
-      "summary": "Dia D da vacinação acontece neste sábado (22); saiba quais imunizantes estarão disponíveis&nbsp;&nbsp;R7SP amplia cobertura vacinal contra sarampo e mantém campanha nos 645 municípios até 1º de setembro&nbsp;&nbsp;G1Com aumento de mortes por doenças respiratórias, prefeitura de Caxias apela para que população se vacine contra a gripe&nbsp;&nbsp;GZHCuité aplica 325 doses em Dia D de multivacinação&nbsp;&nbsp;R7Campanha de Multivacinação para menores de 15 anos vai até o dia 1º de setembro&nbsp;&n",
-      "sources": [
-        {
-          "name": "R7",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTzYwQlZ2c3FGd2ZLbzF2Nk1aUV9NQTFEZ2JSUzVrRlJZelR4VXFaT2duU1ZZSkw2QmdQRm5haWZlQ3VuLXdKTmJfeTd2bzN4TnhsbFI3X2JkeVMzcXk3N2JiLTY2b1doUGlMdXJYSTNDX2plTEhLSzVEcHZOUEZacjZwSUk4Q1lCVjB5WVZNTmRuYm5mSXk3aWVkTHNDTkVoeDQwRE9ST2JjNzJXdEdZdktUbnNLOENEdWpjQWt1bExlTVhjT0E?oc=5"
         }
       ]
     }
