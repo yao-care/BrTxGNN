@@ -1,10 +1,46 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-08-30T04:15:44.412619+00:00",
-  "total_fetched": 91,
-  "unique_count": 91,
-  "health_related_count": 41,
+  "fetched_at": "2026-08-30T11:28:16.617936+00:00",
+  "total_fetched": 89,
+  "unique_count": 89,
+  "health_related_count": 37,
   "news": [
+    {
+      "id": "f64208937bdd",
+      "title": "Qual é o segredo dessa fruta? A ciência já descobriu benefícios para o cérebro, coração e células - Jornal Correio",
+      "published": "2026-08-30T10:00:00+00:00",
+      "summary": "Qual é o segredo dessa fruta? A ciência já descobriu benefícios para o cérebro, coração e células&nbsp;&nbsp;Jornal Correio",
+      "sources": [
+        {
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZzhtdVB2d21CVFJaYm9mMDNCanh6cGhlbXhVal9hOEMybmxpcHlHS0xieFJnQ1FhLXBwSlJUdjlEaFI1amdKaEV0VnFrNzNDLXhYOVFMalhtbFdYeHhZR29UZl9DRzl5cy1seE5rRW13STl6NmNRYzUwTEJETGIyS3kwQ1dpT1Nsb0cxUHhGUDhzd01RTzlYODZiYVc2Q09GQTM5bGdhanBpQ2NabDJaQ21ZTVlZZ3ptN1JMNWVRR1RoRXNKM21JeHJfSkVHNDJNR2Q2aEl4dw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9e87877c0298",
+      "title": "Dor pós-COVID: estudo explica os mecanismos ligados à sequela, que afeta até 40% das pessoas que têm a doença - G1",
+      "published": "2026-08-30T06:00:41+00:00",
+      "summary": "Dor pós-COVID: estudo explica os mecanismos ligados à sequela, que afeta até 40% das pessoas que têm a doença&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTHZoZ0cxV0NBcFhQTnBFZUxvUkVZd2s3ZElGckN4dzVueWlpcVpqM3Zqa2NVbml2ZlBPejllN2xIa2wxNzZSWUJsc2NWODhoYUVQdnJfVWJhV3J3WTI3dDkxMGZ3S0xKcmN2R0ppaTM5Mk1zbngwN2F4T183VXc3VHBwTHFCVGtqc3htdHB1LTBDQklKTVB6dmtRVUVlQXFQR3pxNjRlTUxmVURIUVlGUGh3RVFXa2dQMUtpZmdQZnZqNmxSLXQwQ0NYdHF3al9zaFVEb0M1VjZRTkMyODlvZE9VcGFsUklmZXlOYmJpZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1402055ee90a",
+      "title": "O que as canetas emagrecedoras têm a ver com supermercados, PIB e combustível de avião? - G1",
+      "published": "2026-08-30T05:01:39+00:00",
+      "summary": "O que as canetas emagrecedoras têm a ver com supermercados, PIB e combustível de avião?&nbsp;&nbsp;G1O efeito colateral das canetas emagrecedoras que os psiquiatras não esperavam&nbsp;&nbsp;VEJADepois da caneta, a fila é para o cirurgião plástico&nbsp;&nbsp;revistaencontro.com.brUnga Kids&nbsp;&nbsp;Gazeta DigitalPopularidade das canetas emagrecedoras faz surgir preocupação com descarte correto desse material&nbsp;&nbsp;R7",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOLXpBR0drTXFNUXRBd3BMT2dsWklEWFZMdTk0WE5NR0doRXpjU0pmZEdZSzBrekdXT1hQQUVNWUVMLWxUWlhKaFNKaTAwWkZNa2F5NXF5LTNrSEg4TFNoMWtJaWFMVGRySHowT2xCcjRTbnN1X3ItYjNIbXU3MDdvZjVpdTZmR0d2R3BPT24xWmZ0elhLZXpkSjdFQjlYeGdudGswVmVBUU1sQmJMTlpCcWdXMlVwWHRockw5U29WQ3dsaG5Zb2V4SDQ0WERrTk5zRHZhYTUtRkUtd9IB6AFBVV95cUxPbWRjZlg5MjByZ01wV0V2eHpucXdkNnIxak51UFpxYl9XN2lCRl9WM1FLeTlMejRubHJFN2MyRm9Wal80d1pTNkJRcU1iUGlSb0JUQmlBSUVlSVlZMjJCRi1qMHJ1SHlMTnZsY3FLQlgtZWNpRUpaa2FkWFBINkxpbTNUYWtMcHZVbjk0X0xWaVBxM0JKSVZLVUZBYTdkeVk4OFRHb2VuWEEzcjJDd29KbmE0bkZHQ083UFZoZmhnbWhtVDlZS3VoN3NlVmdRUlpBallhdDA5U1Q2VW9hM1NnbE1uY19qUFkx?oc=5"
+        }
+      ]
+    },
     {
       "id": "0a9fe341726c",
       "title": "Nova diretriz atualiza definição de infarto e muda critérios para diagnóstico - InfoMoney",
@@ -78,14 +114,14 @@
       ]
     },
     {
-      "id": "e86d1b67b536",
-      "title": "Canetas de GLP-1 reduzem mortes em pacientes com transtornos mentais, diz estudo - Diário do Centro do Mundo",
-      "published": "2026-08-29T10:22:53+00:00",
-      "summary": "Canetas de GLP-1 reduzem mortes em pacientes com transtornos mentais, diz estudo&nbsp;&nbsp;Diário do Centro do MundoO efeito colateral das canetas emagrecedoras que os psiquiatras não esperavam&nbsp;&nbsp;VEJADepois da caneta, a fila é para o cirurgião plástico&nbsp;&nbsp;revistaencontro.com.brCanetas emagrecedoras exigem novo modelo de gestão na saúde&nbsp;&nbsp;Medicina S/ASociedade de pediatria faz alerta sobre uso de canetas emagrecedoras para adolescentes&nbsp;&nbsp;G1",
+      "id": "a3e7c76beaa4",
+      "title": "Estudo indica data de fim do mundo em 2026! - Alagoas 24 Horas",
+      "published": "2026-08-29T12:18:00+00:00",
+      "summary": "Estudo indica data de fim do mundo em 2026!&nbsp;&nbsp;Alagoas 24 Horas",
       "sources": [
         {
-          "name": "Diário do Centro do Mundo",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYjB0UzY1aVJnbG95SU4tYWVqWEQ1NFJ4VFhOTjJFWENoU0RsalJPQU5jTTdNSmVqY05QTWN0M2xhUFhwQmFJdWFmaHNYR3laeGN5cTdCUnAzRGFrOGpuV24xMVI0YnF1UzNRWHU1QVNSdVFCV19wRWpobHhMZk13dFc3N0VBdUc5ejc5WDgtR1RnZTYzVDdhVEZNNVJjcFhFdjVYLW9jdW9UNzA?oc=5"
+          "name": "Alagoas 24 Horas",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQnBlRnJGQkdGSzFRZjZiZzJCdlZocFNPZ2RjNFZmMGtjZHhfTUZaWlBqZzI1bXRnSUxPZ1JCeHdEVklNRTU5TkhKOXV3eFkxdWRSZHVDeldUc2Zoc2stLUxPVHB1RzZEbnNEaUZ3M1NfWXpEcTI3N0ZycFZjOFAtT045aUExUnFLN0ZBMHV30gGTAUFVX3lxTE1FSzRWUUxmQjRiTlBqQzZGNTcwamhBVzc5U2RXckZrMWMyemM3OWNXemJJcjJSQ2Q1clAxb0Vpc1huNDl0Y2NFQ3lKZG8yTmxoSndNYVJVRDVFUHRKS2l5RFlHSVhnUDdXZVNMZzFYblpUU1BHWVB4aWMwTUxMQ0YtOUZDSS1URkVHb2dDM0wxTmRIUQ?oc=5"
         }
       ]
     },
@@ -105,23 +141,11 @@
       "id": "02d02ee7b8d8",
       "title": "Pílula contra o câncer que fez médicos chorarem é aprovada nos EUA - Tribuna Online",
       "published": "2026-08-29T09:00:00+00:00",
-      "summary": "Pílula contra o câncer que fez médicos chorarem é aprovada nos EUA&nbsp;&nbsp;Tribuna OnlinePílula contra câncer de pâncreas que fez médicos chorarem é aprovada nos EUA&nbsp;&nbsp;G1Nova pílula contra câncer de pâncreas dobra sobrevida de pacientes&nbsp;&nbsp;band.com.brGuggenheim eleva preço-alvo da Revolution Medicines com aprovação do FDA&nbsp;&nbsp;Investing.com Brasil - Finanças, Câmbio e InvestimentosOpinião - Fábio Busnardo e Dov Goldenberg: O dilema das inovações em saúde&nbsp;&nbsp;Folh",
+      "summary": "Pílula contra o câncer que fez médicos chorarem é aprovada nos EUA&nbsp;&nbsp;Tribuna OnlineQuanto vai custar a pílula contra o câncer de pâncreas aprovada nos EUA&nbsp;&nbsp;VEJAPílula contra câncer de pâncreas que fez médicos chorarem é aprovada nos EUA&nbsp;&nbsp;G1Nova pílula contra câncer de pâncreas dobra sobrevida de pacientes&nbsp;&nbsp;band.com.brOpinião - Fábio Busnardo e Dov Goldenberg: O dilema das inovações em saúde&nbsp;&nbsp;Folha de S.Paulo",
       "sources": [
         {
           "name": "Tribuna Online",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOVRqUTVvemRzNUtOLUdKU0ZhcW1fd2xVSWtxRWk5UzhzdXBwRlFTc0JKSk1RZzdqTXpCT21wcVN2cGFmUmU1b0NaZi0xSy1JclMwVUtSR2N5NmE0LTZGa0lFVEpoMFZSVWx6bk9QdlZfM05aajdLbzNrVzhtYkQwTldTQlRYWDM5Z3NVMzJXcU8xYnMwT0J1UFdzSlRuX1F4aGxrT1NIX0dQLTJm0gG0AUFVX3lxTE9IM29YTzFjbjlSSVktQnAwRm05SXVucWFDOHZuam1PckNpRmR4TnNLOHRuMXlCUVdsWHd3akdJTVhPUmY1T2o0SzZJeGpyRHN2OHY4aVJ3NlpmOXNQd0tuODZjYWw3b1B5WkRGWXlkVWt2Y3Z2Uk9FMDlQWm9MZDczeVV4T2ZXbkw4MVppWVBNamFlR0E0YS05dXVuQ3M4VUJ0dW83RTVEanpZUXdvX3RLTXE0eA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4f73c5433deb",
-      "title": "O que uma infância com menos açúcar revelou décadas depois - G1",
-      "published": "2026-08-29T08:00:34+00:00",
-      "summary": "O que uma infância com menos açúcar revelou décadas depois&nbsp;&nbsp;G1Estudo revela impactos de infância com menos açúcar&nbsp;&nbsp;R7Menos açúcar da gestação aos 2 anos de idade pode reduzir risco de demência, aponta estudo&nbsp;&nbsp;Extra onlineEstudo liga menos açúcar na infância a menor risco de câncer&nbsp;&nbsp;redeutv.com.brMenos açúcar nos primeiros anos de vida pode reduzir até 69% o risco de alguns cancros&nbsp;&nbsp;Pplware",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdEJ1V28xM190VnJmSWRGOWw0VmJJOWdpcU9iNG1WSEtnODB5bFhoU0lHbzhWUkx0ejlHOWNpWEFVdTA5S1BYazNmZ0QxTkJsNEQ5akVzU1VndmN5SjRNZWtqWURfSGVEQ05VSUV3SHNJWHNUcUJkM3ViNmtRcFF5UDZ2YXJ4NW80QTF0TWVVVzFfcC0tQ3YwZDh2QU5fN3MxRUxWdm1Qb01fZEw2cmRB0gG-AUFVX3lxTE1FTUhRMnU5MHdkS2FUSUwxNmhaekNWLTFHc1dJS1NLTU96QTFGcXI4WlFpeTJPZVZrLXhFZzAzUzNvbTJwZnB4d2RBdXgwSGVlZTlWX3h3dkpHdUFvd1VDa2ZxdlN4Q1M2WEtIVUZOUVpsNHBfWk9Ya2RzcVhjTEI2S0toVXJPUWNyUUlhUWZwX0tFQXpTTVdvak80RGg0Q3lENGNTQjRwYTdncTN5XzlRWUVpTzVZakgxQzJRZlE?oc=5"
         }
       ]
     },
@@ -153,7 +177,7 @@
       "id": "9914864e422d",
       "title": "‘A musculação mudou a minha vida’: exercícios na academia melhoram a força muscular e dão mais autonomia aos idosos - Extra online",
       "published": "2026-08-29T07:02:15+00:00",
-      "summary": "‘A musculação mudou a minha vida’: exercícios na academia melhoram a força muscular e dão mais autonomia aos idosos&nbsp;&nbsp;Extra onlineVonda Wright, especialista em longevidade: 'Quando você investe na sua saúde e mobilidade todos os dias, você envelhece de maneira diferente'&nbsp;&nbsp;TerraConheça os 'segredos' para viver o auge físico próximo dos 60 anos: 'Ritual diário'&nbsp;&nbsp;O DiaEntenda como o envelhecimento ativo auxilia na prevenção de queda da pessoa idosa&nbsp;&nbsp;AJN1Aos 30",
+      "summary": "‘A musculação mudou a minha vida’: exercícios na academia melhoram a força muscular e dão mais autonomia aos idosos&nbsp;&nbsp;Extra onlineComo a perda de força muscular é alerta para declínio da mobilidade&nbsp;&nbsp;Poder360Vonda Wright, especialista em longevidade: 'Quando você investe na sua saúde e mobilidade todos os dias, você envelhece de maneira diferente'&nbsp;&nbsp;TerraConheça os 'segredos' para viver o auge físico próximo dos 60 anos: 'Ritual diário'&nbsp;&nbsp;O DiaApós os 60, os m",
       "sources": [
         {
           "name": "Extra online",
@@ -177,7 +201,7 @@
       "id": "c951f8baf0fd",
       "title": "Campanha de vacinação de pets contra a raiva termina neste sábado no DF; veja como participar - G1",
       "published": "2026-08-29T05:00:21+00:00",
-      "summary": "Campanha de vacinação de pets contra a raiva termina neste sábado no DF; veja como participar&nbsp;&nbsp;G1Vacinação contra raiva é mantida após a PBH imunizar mais de 200 mil animais no Dia D&nbsp;&nbsp;Prefeitura de Belo HorizonteVacinação antirrábica para cães e gatos está disponível em três pontos de Anápolis | Notícias | Saúde&nbsp;&nbsp;Prefeitura de AnápolisVacinação antirrábica chega a quatro bairros de Linhares neste sábado&nbsp;&nbsp;Prefeitura de LinharesABC imunizou mais de 3,8 mil a",
+      "summary": "Campanha de vacinação de pets contra a raiva termina neste sábado no DF; veja como participar&nbsp;&nbsp;G1DF terá pontos de vacinação antirrábica neste sábado (29/8)&nbsp;&nbsp;MetrópolesVacinação contra raiva é mantida após a PBH imunizar mais de 200 mil animais no Dia D&nbsp;&nbsp;Prefeitura de Belo HorizonteVacinação antirrábica para cães e gatos está disponível em três pontos de Anápolis | Notícias | Saúde&nbsp;&nbsp;Prefeitura de AnápolisABC imunizou mais de 3,8 mil animais contra a raiva ",
       "sources": [
         {
           "name": "G1",
@@ -210,18 +234,6 @@
       ]
     },
     {
-      "id": "74b72ed1f391",
-      "title": "Doença de Lito Sousa: neurologista explica urgência por tratamento experimental - Rádio Itatiaia",
-      "published": "2026-08-29T00:58:48+00:00",
-      "summary": "Doença de Lito Sousa: neurologista explica urgência por tratamento experimental&nbsp;&nbsp;Rádio Itatiaia",
-      "sources": [
-        {
-          "name": "Rádio Itatiaia",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVWpsTkFyelg0dXNBeUtkY2kwRUFYOXZHUFNZbUtnRXVmczA5MnBYa0JXSkZpcjdCT2FFZWE5QTQ3WE00a1F3SlNDMjhDZVhPelhhdzMwTWtFWkRlenk3dkNhTTlsdW51SzNZcGtvTUNLT0Z1UG1hdTB2RDZnNndKYVRFWnRIUnVEY3lQV3RqNWQwMUF3UFBrOTdfSTlkOXJ4U3lsTWxWU3g5QUNYRzlZLUNXMA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c69dd85d0b72",
       "title": "Estudo associa consumo de café a mais músculos e menos gordura corporal - Diário do Centro do Mundo",
       "published": "2026-08-29T00:23:26+00:00",
@@ -246,18 +258,6 @@
       ]
     },
     {
-      "id": "8f1dc761072d",
-      "title": "SUS vai oferecer três novos medicamentos para o tratamento de câncer de pulmão - R7",
-      "published": "2026-08-28T21:36:33+00:00",
-      "summary": "SUS vai oferecer três novos medicamentos para o tratamento de câncer de pulmão&nbsp;&nbsp;R7SUS terá três novos medicamentos para tratamento do câncer de pulmão&nbsp;&nbsp;CNN BrasilFEMAMA defende rigor no cronograma da AF-Onco&nbsp;&nbsp;Medicina S/AConass realiza último encontro preparatório para oficina nacional sobre a Política de Prevenção e Controle do Câncer&nbsp;&nbsp;Conselho Nacional de Secretários de Saúde | ConassAF-Onco: piloto terá três medicamentos oncológicos em setembro, com con",
-      "sources": [
-        {
-          "name": "R7",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVkRoQlZOeEFpV3NIa2psX0FOMWRMRUgxOWpFVzlkR283akR1SUlYVUU3azllbjRIcVNXVkdFSWNTOEZSZXpJNHc2aG9GcEdpVi16TVZBeHhfS1NlOE5vamJqeDJFb29ubjd5cmRSajdLNDVYQWQwUHVRVURHNkVsSGw3NGhIRGZFVVd3aS1UTlNyQ1EzeEhqVTlFamRIMFpVdDA2NDJSdXZYcXdwWXpjQ1lIbV9QUTJEcVdNc19SdDVYbWJvTHZ2bzR1Yw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "22ae0822f695",
       "title": "As pessoas mais felizes costumam nascer nestes meses, segundo estudo - Portal 6",
       "published": "2026-08-28T19:25:08+00:00",
@@ -266,6 +266,18 @@
         {
           "name": "Portal 6",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeVBuQVRSV2pBT2NjZmFhTEVyMGlwVExVWWFyRU9BMU8xZWo4VnJra1RhcEYzVXpQcTQySDVuY0NhNk9Eb0pzMHdUd3pudHpOU2o5eU5zM045QndsazNySnBROEN6dGhUOU5RY3VUczVDeFR6eXNhWExDcVBJQXVmQlJtWFVpUWlpQWVVbHVIalRLWDZXOUhQRUFHUXhneHU0M1RQNw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8dcb02e85cc0",
+      "title": "Com a simples remoção de um gene, cientistas esperam eliminar o colesterol alto para sempre - CNN Brasil",
+      "published": "2026-08-28T19:16:53+00:00",
+      "summary": "Com a simples remoção de um gene, cientistas esperam eliminar o colesterol alto para sempre&nbsp;&nbsp;CNN BrasilCom o corte de um gene, cientistas esperam apagar o colesterol alto para toda a vida&nbsp;&nbsp;R7Cientistas criam remédio de dose única que reduz colesterol ruim por um ano&nbsp;&nbsp;MetrópolesCRISPR Therapeutics divulga dados de um ano da terapia gênica CTX310&nbsp;&nbsp;Investing.com Brasil - Finanças, Câmbio e InvestimentosConheça a injeção em estudos que pode tratar o colesterol",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORHNqSkcyejJKTEhIQll2Tlk4d0E3aFhraWpGaEJZYUJkVVQ0OUNVaGdPek4zanJkS2xyM2QxSVltV0J3NkZwNVFKUWtuLTZnVlItWHVaV2dMUzdNMWdaemVEOXVwbnFRS2FwZTVncEk2YVU4YTJsSndBQnN6Q2hQQmtHMTFmZXZKOEJFbWdtVHVrdDBQaDFaM2lJV0hWdVNDQ0szSmRyUUk5dlZyVk05Nl81elRUYkZYeEZhdHFHRTdxWVdZ?oc=5"
         }
       ]
     },
@@ -294,18 +306,6 @@
       ]
     },
     {
-      "id": "9d912df281ce",
-      "title": "Nova diretriz muda tratamento da tireoide na gestação - UOL",
-      "published": "2026-08-28T17:37:54+00:00",
-      "summary": "Nova diretriz muda tratamento da tireoide na gestação&nbsp;&nbsp;UOLVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWUV2Q1k0cHRIcDNxUEI0MFdGMXBub2ZvRy1teEt0NXl4WWp0XzNwVU05SE9RZ1RUbGFwa1pZTlozYnNyUk9kUXRaOEFkdkxCQVVLVjk4cmg5Vkc3UVdVdk5feE5YTDF2Y0VYNnVZOTdtcmdWU3Z6WFZoS3Z6eG91RkczdEl3dkFJNHBsSkZsUDNrWFlzVFVNUk1mSXJubzVRWTV2ckZOLWhzb00xcV9nNUZkdUpwV3FB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c6c4bb937a4b",
       "title": "Agência dos EUA FDA aprova Mounjaro, da Lilly, para reduzir risco cardiovascular - InfoMoney",
       "published": "2026-08-28T15:22:50+00:00",
@@ -321,7 +321,7 @@
       "id": "0f49c1ab6847",
       "title": "Exercício físico não elimina danos do cigarro para quem continua fumando, alerta Instituto Nacional do Câncer - O GLOBO",
       "published": "2026-08-28T14:55:00+00:00",
-      "summary": "Exercício físico não elimina danos do cigarro para quem continua fumando, alerta Instituto Nacional do Câncer&nbsp;&nbsp;O GLOBO29 de agosto é Dia Nacional de Combate ao Fumo&nbsp;&nbsp;Senado FederalFumar e malhar em seguida elimina os efeitos nocivos causados pelo cigarro? Veja o que dizem os especialistas&nbsp;&nbsp;CNN BrasilCigarro não prejudica apenas o pulmão: o hábito de fumar também afeta os vasos sanguíneos&nbsp;&nbsp;CartaCapitalDia Nacional de Combate ao Fumo: 7 mitos e verdades sobr",
+      "summary": "Exercício físico não elimina danos do cigarro para quem continua fumando, alerta Instituto Nacional do Câncer&nbsp;&nbsp;O GLOBOVeja dicas para romper o consumo de cigarro neste Dia de Combate ao Fumo&nbsp;&nbsp;G129 de agosto é Dia Nacional de Combate ao Fumo&nbsp;&nbsp;Senado FederalCigarro não prejudica apenas o pulmão: o hábito de fumar também afeta os vasos sanguíneos&nbsp;&nbsp;CartaCapitalFumar e malhar em seguida elimina os efeitos nocivos causados pelo cigarro? Veja o que dizem os espec",
       "sources": [
         {
           "name": "O GLOBO",
@@ -333,7 +333,7 @@
       "id": "23c9126c1d70",
       "title": "Quando a testosterona é considerada baixa? Médicos lançam 1º consenso sobre o tema - Veja Saúde",
       "published": "2026-08-28T12:24:00+00:00",
-      "summary": "Quando a testosterona é considerada baixa? Médicos lançam 1º consenso sobre o tema&nbsp;&nbsp;Veja SaúdeHormônios e fisiculturismo: o alto preço da performance&nbsp;&nbsp;O POVOProjeto cria regras para publicidade de anabolizantes e exige alertas sobre riscos à saúde&nbsp;&nbsp;TNH1Testosterona pode deixar mulher com libido descontrolada: \"Passa a desejar personal e até prestador de serviço\", alerta endócrino | RepórterMT - Notícias de Mato Grosso e Cuiabá Hoje&nbsp;&nbsp;RepórterMTCritérios par",
+      "summary": "Quando a testosterona é considerada baixa? Médicos lançam 1º consenso sobre o tema&nbsp;&nbsp;Veja SaúdeProjeto cria regras para publicidade de anabolizantes e exige alertas sobre riscos à saúde&nbsp;&nbsp;TNH1Hormônios e fisiculturismo: o alto preço da performance&nbsp;&nbsp;O POVOAnabolizantes colocam em risco a saúde dos rins&nbsp;&nbsp;Grupo A HoraTestosterona em mulheres: Anvisa alerta para riscos&nbsp;&nbsp;guairanews.com",
       "sources": [
         {
           "name": "Veja Saúde",
@@ -390,38 +390,14 @@
       ]
     },
     {
-      "id": "25ce8418d05b",
-      "title": "Descobertas sobre longevidade avançam, mas abrem questão: por que queremos viver sempre mais? - VEJA",
-      "published": "2026-08-28T09:00:52+00:00",
-      "summary": "Descobertas sobre longevidade avançam, mas abrem questão: por que queremos viver sempre mais?&nbsp;&nbsp;VEJA",
+      "id": "2f5269d85239",
+      "title": "Lito Sousa: O que se sabe sobre a progressão da doença de Creutzfeldt-Jakob - CNN Brasil",
+      "published": "2026-08-27T12:21:15+00:00",
+      "summary": "Lito Sousa: O que se sabe sobre a progressão da doença de Creutzfeldt-Jakob&nbsp;&nbsp;CNN Brasil",
       "sources": [
         {
-          "name": "VEJA",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbFl3V1JWTEdvb2FyQlFKVE5NUUhaVjMwZ1pWamlKTzZNUWxhVWJWSzNRNVRYNzFTRzlUZ09KckJsQlFTR1VpZ2U4RHBfcEZ0cEkwT2ZVRGhIN1haYlJwNTVnZ3FEOC1BRG5jcTRfU0V6OWFZN3E5eUg4REZYNEZrRWhEV0NuMDIyYjBzMVIxZHBvUHVvRzR5WjdRVGhMX2V3ZEs4V3ZobTB0WV9odDNER1R2R2dvWTB4ZDYyNDFZVks?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e0d6c05b14f1",
-      "title": "O que está por trás do caso da professora que foi denunciada por retirar amostras de vírus de laboratório da Unicamp - R7",
-      "published": "2026-08-28T05:00:01+00:00",
-      "summary": "O que está por trás do caso da professora que foi denunciada por retirar amostras de vírus de laboratório da Unicamp&nbsp;&nbsp;R7",
-      "sources": [
-        {
-          "name": "R7",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5OVnBKN1J5Yy04eWlaY1RvZWtwaUhlanEtNk1VWnJuUi1vQWpPLXo5S096d2lhRmctYTNSYUYyM0YxUGJ4VTNMM05rXzJtMjZsaDRBbjR1ODc0TFlCZUl6dk9qcVgzZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5230adad24fd",
-      "title": "Laboratório da polilaminina apresenta estudo inicial de vacina antitabaco - UOL",
-      "published": "2026-08-27T18:18:53+00:00",
-      "summary": "Laboratório da polilaminina apresenta estudo inicial de vacina antitabaco&nbsp;&nbsp;UOLAlém da polilaminina: Laboratório Cristália investe R$ 150 milhões para tentar criar vacina antitabagismo&nbsp;&nbsp;O GLOBOVacina brasileira contra a nicotina bloqueia o vício diretamente no sangue&nbsp;&nbsp;TVBV ONLINECristália inicia estudos de vacina brasileira contra o tabagismo&nbsp;&nbsp;Guia da FarmáciaEmpresa brasileira investe R$ 150 milhões em vacina que pode combater o vício em cigarro&nbsp;&nbsp",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVzhNam1sbXoyVm1RQVRyOTh3Yi1kWFV4NEh3WHVRLVFlUHFYMFdoVDlnZmxtdEdYWWlCTXpUSGJDcURYMWpGeHl6ejNCYmVMTkZYYk9WTlhLdWpiSTNHM1MzNTc1bE9kdVg3RUlZQXVKNG5XV191c3lGRnJjeWNEZ3NxN1dCNDVIZzJXUGQ5Nk1qV0kybmhXV1FfUEN6STJFSUwyM1VrM0VUcVB3MnE0OVlkZGdLVU95eVNsb3JVRnY3RVp4RWxzTkJ3?oc=5"
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNHZxV1U5T2daV1RIZ0hyZUZ1eU00YWxadVpsRndYOTdBM2NTVFNYMzNmenNJTGx6NXZqY0QzeDRJUFZlQ09na2VHNTh0ZGt4MW5yMzg2Z2U5NUJPdFZQMktHTGJ6MThURXVleXVOWW92Y0xmWW9NdzN1Z21JcUFjZHVqYVhWcXAwVlJIR2g3eUJyeHZGNVJvYlJVdER3eXVObk5YOVhObll4bkNJamZN?oc=5"
         }
       ]
     },
@@ -450,18 +426,6 @@
       ]
     },
     {
-      "id": "15ec433bd7cb",
-      "title": "Febre do Nilo Ocidental: 8 perguntas e respostas sobre a doença que teve casos confirmados no Brasil - BBC",
-      "published": "2026-08-25T22:07:59+00:00",
-      "summary": "Febre do Nilo Ocidental: 8 perguntas e respostas sobre a doença que teve casos confirmados no Brasil&nbsp;&nbsp;BBCBrasil registra 4 casos confirmados da Febre do Nilo Ocidental&nbsp;&nbsp;G1Quais são os sintomas da Febre do Nilo Ocidental? Entenda quando essa infecção viral aguda pode ser perigosa&nbsp;&nbsp;CartaCapitalFebre do Nilo Ocidental não tem vacina e nem remédio, diz especialista&nbsp;&nbsp;CNN BrasilO que você precisa saber sobre o vírus que circula no país e fez uma vítima fatal&nbs",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LSGI2TUtoX0RKSERJTG5lanhZYlo2UVMzNUxEaVBXSkh5cHNWcHZKTDh6QnBzTk52eTRKOGotR0dJRjMwTDdKZGx3d0IyVTk1MjNtamVQZGhRUkQ5ek1YZnJB0gFnQVVfeXFMT2lxRi1JeVdVaFhXa21YbGdhUzUzSGx4Um5oZUpDTFgzQ1hiWUUwWTlSQWJxdGY3bTBkMjBfeENVVDU0NTBLU05adVRLMlBBNVBrUlBFZXk3LThhTWdTOXVOUmtGbFVHYw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "61ae9246c950",
       "title": "Depressão sazonal: o que é, quais os sintomas e quem tem maior risco de desenvolver o transtorno - Portal Drauzio Varella",
       "published": "2026-08-25T18:06:18+00:00",
@@ -474,26 +438,14 @@
       ]
     },
     {
-      "id": "772ff3ef688e",
-      "title": "Ele ia ao banheiro 8 vezes ao dia e perdeu 10kg por doença: 'Achava normal' - UOL",
-      "published": "2026-08-25T12:30:00+00:00",
-      "summary": "Ele ia ao banheiro 8 vezes ao dia e perdeu 10kg por doença: 'Achava normal'&nbsp;&nbsp;UOLDiarreia recorrente pode ser sinal de doença inflamatória intestinal&nbsp;&nbsp;DOLDoença de Crohn: novos tratamentos transformam a vida de pacientes&nbsp;&nbsp;ES HojeDiarreia frequente pode esconder doença inflamatória intestinal; entenda&nbsp;&nbsp;Diário do Centro do MundoDo sofrimento à recuperação: novos tratamentos transformam a vida de pacientes com doença de Crohn&nbsp;&nbsp;Tudo Rondônia",
+      "id": "fc338b423159",
+      "title": "Febre do Nilo Ocidental: SP confirma dois primeiros casos da doença na história e SC detecta o primeiro óbito - O GLOBO",
+      "published": "2026-08-24T20:09:11+00:00",
+      "summary": "Febre do Nilo Ocidental: SP confirma dois primeiros casos da doença na história e SC detecta o primeiro óbito&nbsp;&nbsp;O GLOBOBrasil registra 4 casos confirmados da Febre do Nilo Ocidental&nbsp;&nbsp;G1Quais são os sintomas da Febre do Nilo Ocidental? Entenda quando essa infecção viral aguda pode ser perigosa&nbsp;&nbsp;CartaCapitalFebre do Nilo Ocidental não tem vacina e nem remédio, diz especialista&nbsp;&nbsp;CNN BrasilO que você precisa saber sobre o vírus que circula no país e fez uma vít",
       "sources": [
         {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYlNYdGdOZEZlc1ZQaDNReTN5RVZNeXlfZDA0SFJTaFVXY09fb0ZIdUExcFZRdzY4WkYxOTZNTHZLT3NoRWlOQzFEN1RweE1qc3luOUpvYW51TFk3NHdYVjB1VE9fekpmdTY0VHd4R1NEMEo0cHhZM3dULWFCUjZZLXlOdHlnZXJGekdjajdEQTYzRmxPcDJod25rVGlhdlBXa2hsY0lNRnhUaFFDSkRGQ245eWM0b1JWZG5JTk92aEd3SW1EdVM1R0s1NGU5R2ZqbGc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "180f93e33b24",
-      "title": "Risco de morrer por câncer de pulmão é até 30 vezes maior entre fumantes; veja por idade - G1",
-      "published": "2026-08-23T07:01:52+00:00",
-      "summary": "Risco de morrer por câncer de pulmão é até 30 vezes maior entre fumantes; veja por idade&nbsp;&nbsp;G1Diagnóstico precoce é aliado contra câncer de pulmão&nbsp;&nbsp;G1Agosto branco: alerta para conscientização e prevenção ao câncer de pulmão&nbsp;&nbsp;Jornal da USPTosse persistente pode ser sintoma de câncer de pulmão, alertam médicos&nbsp;&nbsp;MetrópolesAção gratuita em Salvador oferece avaliação de risco para câncer de pulmão&nbsp;&nbsp;Rádio Metrópole",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTWxJOXZYcTctQ3NhbzdUVzk4cXFnYUxxeWQyU2YyVS1BaFNQZ1RJRWdpd25tY2ljSFlrME95a3FVUnpLYUROY3FWbEJPa3QxaUZTODNHeHZaOUdOQUZpZVB5VHN6XzQ5Z0oxNnFGOF9tajBPeDFFa1BfYWZHMm5CSk9hd2J5MTlyMVdpOEV3eWhqNHQyV0pEMTBwYTQ0eE9ZVDJROFpwa05PNW5XQ0JQQXB0cUUzV0ZXSFZVMmVwZ1J3Q0RRM0E4a2I1c1YwMDZ5OXlGOU130gHkAUFVX3lxTE0tUXNWSEN2a2p0Ri03MElZbHF3TEpHdWFVbERJekNjeDhRa3BKdFpSa2FWVzVETnJ0bU92a0J3bThmUFdEYUN5RjE3MVduVmF4V0w1bW9vQVJYYlVvcXRWSVdtVXA2QnhJTWJVLUFJekNhX1d3TmVFRWRoOFRSRU9MWWZJNUlGZ0plS1NiRE5mYmhSU01FNWthdHhYMmsxc1UxdkpsQnhfdllTVzFkQVFfWDVXamtBb3ZqZUZEMEEyNDB1MDNiclE3TUdlSlJlcTRtMU5wMUtNQ3U3NXplV0J6ZXZDMA?oc=5"
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQOFlzWW4weWlqR0NMV05UbUhNandUOUFXdTQtdGZEZXRsVDAtN0x0aE1EVV96TVNTeU85a1l6X0UxYk9iT1JxMFhyUHc3cGQweDlQWmxKYVl0eWZXV1NLOE9yR0ZwOWYyaTVLVkowLVdXS0pmOHl6NTJkQmh1d0VsR0RUNTZxUERHNzA3RUFEUjluSFpqdVZDZmYtZjc3ZHZLVElzNER0OVBjc21TRUpLVndORkJ6SVJQZHN0WWRtN3lsSzBRUnQtSkJUOWZjeElhbE1YWG5hbnFzVGp1WEtWRjJYd1JyTHpscTZ4VnBzczk4YXFaOW5B0gGGAkFVX3lxTE95bzIwbEJJTFZhQmhkSWpxMXRzUExIb25hQzRibnZCVVNyYjBjamVhVGJYUEk0eWptQzdvdVlZN0NBS0E0TWFXa2pRckFyckpjTU9ZZ0NOdmU2VVJFZm1hMUItUEV1NkRFWHdBMjd3bkk3Vm1zVWh1Z0RnV2dIbTdVMGJFel8xa0VrbllSTzNVRjNPS21SV3hmYm0tSU5ZTlgxS3BQZk9jcndRUXp3emF4WmtlVVkyM0dLMjVXNEJQNUlLWC1HSXRSVi03YXRGTzlLNXV0bTN5cDA2RzB6Z3VrRExtQXUzTHdDUlpJdzFyZlV4U3REcEk5cXRYTjZsbnE3NjE0a2c?oc=5"
         }
       ]
     }
