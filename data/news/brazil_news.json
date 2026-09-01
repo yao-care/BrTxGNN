@@ -1,19 +1,127 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-09-01T11:16:45.999462+00:00",
-  "total_fetched": 98,
-  "unique_count": 98,
-  "health_related_count": 33,
+  "fetched_at": "2026-09-01T16:14:08.715683+00:00",
+  "total_fetched": 110,
+  "unique_count": 110,
+  "health_related_count": 40,
   "news": [
+    {
+      "id": "e0e8b093cc14",
+      "title": "Cientistas conseguem derreter diamante em laboratório e avançam em hipótese de ‘chuva de diamantes’ em Urano e Netuno; entenda - O GLOBO",
+      "published": "2026-09-01T13:31:48+00:00",
+      "summary": "Cientistas conseguem derreter diamante em laboratório e avançam em hipótese de ‘chuva de diamantes’ em Urano e Netuno; entenda&nbsp;&nbsp;O GLOBO",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPelNZcFpma2lVcXVSRTM1QWtkVlA5WVh4Y2VBcVh6WFpzd1VGSkhVR3hmS1l4elMwdTFSck5jdEoyNHZHdmJKRlhUa3lWaXZVbThzZVh0c1N3b0FJMDdRRTY1SnNWM0M4Q1h2VHp1cEVfY3YxeDNqYkdSb3V1eDUxZ290ZDRSSHJwY25oRndGbXo4SVA2UE8ySDdVVWFoclFtWFlqS0phcWhLRUdRNm02RW1rZE8tV2cxVmZMYWd2aThzdnVRMF8xS0NyRGNYdnNkN1llYkoycVVPUW4tR1VPR3VvUXA0TnFhbXlsci1hMExZV3V1TjBmYjQtS1lSeEFySFNQa2t6VTE0dU03TTd3bldQcVJ5SzdFdkotWm1hRDXSAa8CQVVfeXFMUE9iTS1CenNTSEV1OElWazJRN0RXNVhDQUhCblA1V2Fya25INm9TbnN5RThzRUxyN0lObXNMSU5pcnpwN1NaM2dsNEZpcW5waERmek96VDdMZWt4ZkRMVjNFR3dlQjhUVHhUOHBEOXRyN21yUU1GX2cxd0N3VGd6eldBX1dBekh2WVQ3a0w5M0tWR2d5RERybHR5LWFXSEJxdVA4cERteWNpUXd0TE5EcWxqandlQkRTQjdHck1yNHFvU2lkOTZ2cXpCeGxVazNmZWw0Z3Bobm1Xc1dCSG5IMjFmd2V2U1pjNkV5Wnl0MGU4RWp1cXo5TFpnWDllOWV2THZMOHRzT3MyclFNRXI5UERBVi1pZF9VN2dVOXZBakdINDgxbC1DOF9sUjVMMVBJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ae436d40ce3c",
+      "title": "Pílula para apneia reduz 44% das interrupções respiratórias, mostra estudo - UOL",
+      "published": "2026-09-01T12:01:46+00:00",
+      "summary": "Pílula para apneia reduz 44% das interrupções respiratórias, mostra estudo&nbsp;&nbsp;UOL",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOc2F0WTg5UUVXX2dySXhQeHRaN0JTTjVsYi1mRVdMRVBGQjdRV3B5VkJQRnRjSmlOYmlLV2ZpR1VpaUN4ZXV4T2ZxbFFZMXNtei1WcDdPc3NCMEllQ2pQcjR5ZzYzajZ5RzdHRHVoTGNrdkxITGx2WFNKMFptWnZfdWhjdTAxLTdjMVpqUC1tOEpONGhaZTJXX1RjRVVZX01vTmJGdE40YV8talJ1Vllrb2tZaF91RVdmY2hJeWN3LWNpbVM1UFNvTWNnYWdBZ2cyMEE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dc46db44978f",
+      "title": "Sarampo volta a preocupar e acende alerta para empresas; veja quem precisa se vacinar - Jornal Correio",
+      "published": "2026-09-01T08:30:00+00:00",
+      "summary": "Sarampo volta a preocupar e acende alerta para empresas; veja quem precisa se vacinar&nbsp;&nbsp;Jornal CorreioO retorno de um inimigo derrotado&nbsp;&nbsp;Correio BrazilienseEstado de SP acende alerta para surto de sarampo, com 26 casos registrados em 2026&nbsp;&nbsp;G1Ministério da Saúde reforça chamamento para vacinação contra o sarampo&nbsp;&nbsp;Jovem PanCasos de sarampo nas américas atingem maior nível em 22 anos&nbsp;&nbsp;Rádio Independente",
+      "sources": [
+        {
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZVlPbE1vY1hwUUU3bjJWNFA0VVJ1cVVaMlpaVWpsS2hQY2s4bmxpNzRhRkF6UUZOZGhKZS1McjNyV3F4RnBqVlNKekczSEx1RC1SaC1YdHRkNml2WnEyWmw3ejhjN3BTbEd2SDNpcmJoX0VlRkh0a0JSMWh5VVcxZTNRejZoSlEtblNtRmhCWlpQUG9PUlV2OHNmc0dXMU1jRU0zWU1URGtIRkVyMzNMRU5RUnRjTFhOUDJSNGJMZ2FMcDM0VFh4Ug?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e90592dc2e7a",
+      "title": "Diabetes tipo 5 pode estar presente no Brasil e requer tratamento diferente, diz médica canadense - estadao.com.br",
+      "published": "2026-09-01T08:30:00+00:00",
+      "summary": "Diabetes tipo 5 pode estar presente no Brasil e requer tratamento diferente, diz médica canadense&nbsp;&nbsp;estadao.com.brBrasil vai começar a rastrear diabetes tipo 5; saiba o que é a doença&nbsp;&nbsp;O GLOBODiabetes tipo 5: Brasil prepara rastreio de doença ligada à desnutrição&nbsp;&nbsp;Correio BrazilienseBrasil vai começar a rastrear diabetes tipo 5, pouco conhecido e associado a quadros de desnutrição&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "estadao.com.br",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWnV0LTZoU2xidllkZTdFZDlEQkw4azFlWDNQYU1ndG5qRHQ5VUxtaHZhMzdrQ3JVXzlYRkVEek5UZFFQcGJyOFRKZzdPYkdhOU82RFlzNmpBTEhOTW9nOG83allOM2lSMmFIZmZMdXNQWl8xNWJ2MktZaVlnS0RxTG01TldxZm9pREE5Rk12QnNwdW9TVzg5NkNtVHFwR1NtVVpfSTBveWhCQmw4YzV5LTY0SFpKTFVjS1RsNXo3R1YzYTVhRFRrZjJQRWxWV0NXLU9sbW1yNWZFb19QbkdXeUUyWdIB6AFBVV95cUxPaGFXdUxNNVhlRDBzZC1WVFBqVXpGT2xkSHZ4U0RvMHNlU1ZFdW52N21KVGZhVEdfaE1zRnZOMEQ2YndoVmVxOFlmMUhiX3ZZMUJYWnlUYXF0QjFPUzZQWmx3dGh2d1c5R2ZPczVwRHlSM2xjUTFUZDdRWmZNUHJFU2NlUldzU3Q5UWFibVpGZW5POFhWNDI4NGpTSXluVFBnaURydlJkMEl3bTVCS3JBWFhsLTBZcFVQWE55bFJnXzJabmtOVDBYcF85a3pYaTVZWGxIbld5S1p1dlBMVGIzNHI3dlFSMFE4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9b2ecbf855e1",
+      "title": "Memória começa a apresentar mudanças antes da velhice, diz estudo - Correio Braziliense",
+      "published": "2026-09-01T08:02:00+00:00",
+      "summary": "Memória começa a apresentar mudanças antes da velhice, diz estudo&nbsp;&nbsp;Correio Braziliense",
+      "sources": [
+        {
+          "name": "Correio Braziliense",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRFc0RUJMN2RwWUU1VGw5akl6QTFkYmk3MzFYVUdHMTh4X1VEX0tDQ2Ftd29zdDFUa2EzVzJlX1NCd2tLcGlzT0wyY3llejl2NXhaZ0FqQ3Fuc0Z3Y2xONmNqaWFQTUEyWXdUdGMyWXZMQWRrUnBWM3h1eEZtTFZ2NTh3Ul9zeDRxakQ4NzloeUhzXzNiLXVaa0R3cm5WWjBFa21sbjVTbUZiNUp5ZDJjaWNjTEtZZWRwOGp0amM3YWNNNzhfc1pCLWpWZzVmRHkxZVhoTFZR0gHbAUFVX3lxTE9XLUdFUll4OG1oSlBHTFp4WG9WRmEzSkoza2hGanR2bGRKTVY1ajlhM19OOU9OcEdTYnpKOWRQV1RzX2E2OEQ3d09zZDBQdnc0YmJCN1dPUURnd1F2bE0zcldDY0lzSnlGZDBXcTBDY3FzRzA1OG0wWFQ5dGdob3hpSTJnRE1QWjlSa21Qb1pGVXAwd1F5Uy1Zc1llN1NpSThpMjEwR2ZmRDE4TW5SSWM2cFluT0N1N0xwVlpZenl0S2hySnRrckJmNmtDWUJJN1VwdHVQcXI1d09IZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b739baa0b077",
+      "title": "Cérebro acompanha formato de cada respiração, revela estudo - Correio Braziliense",
+      "published": "2026-09-01T08:01:00+00:00",
+      "summary": "Cérebro acompanha formato de cada respiração, revela estudo&nbsp;&nbsp;Correio Braziliense",
+      "sources": [
+        {
+          "name": "Correio Braziliense",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVnVLRjRIT19iUkpZTlVjMTlITS1tSWdzSGRzc2NIeTBBTDlnWEdRWEpicURrLVVoLXY5cTJGUjBJVHQ3eXFCMjNnZEh4REFRdEdoX1BWOEN6YVIyM3VYMms1SWVjc2l1anhMamZSNUlkQ290bHZXS2RMdjh5TkZodnV0UzdDMzQ4UGhDMmJwSE9VSWVkMEt6ZzFUdkhYbk9kOEhiX0VCWnNvMGp5OFRhb3hNWFQzZEZwU3lPMDNtOXNsT3ZpUFZDN245VEctd9IB0wFBVV95cUxQcWdBaFh6eTd3YXlJcF8zeUt6dTdVRl9QQndPank1UTJtTHZ5aE9pckpEOFRJX2tPcmJ5YjlSdU1laEdwMVJ6elBDSlFtZnA0cGNWSVFmZzJBb0JqWWFXeGZVRTNGME5GR18tdlEwMF95UUxfeERKRnlUTGlZa0NrbFVuQmxURG00QlYwdU1ia2NuaVZCQVhWY3ROTFN4a3ZOWHVGOUlKRnBOcURPZTlSZVRZemlFNGJuNUxsUkhPdXNmekZJWkxkbWZVVS1KM01raGtJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0551a54790d6",
+      "title": "Pílula de R$ 2,4 mi por ano mostra “novo normal” dos preços de remédios contra câncer - InfoMoney",
+      "published": "2026-09-01T08:00:00+00:00",
+      "summary": "Pílula de R$ 2,4 mi por ano mostra “novo normal” dos preços de remédios contra câncer&nbsp;&nbsp;InfoMoneyFDA aprova terapia inovadora para o câncer de pâncreas, e mais pesquisas testam novas estratégias&nbsp;&nbsp;TerraA aprovação de um novo tratamento para um câncer agressivo %&nbsp;&nbsp;Poder360Needham eleva preço-alvo da Revolution Medicines após aprovação do Rasonque&nbsp;&nbsp;Investing.com Brasil - Finanças, Câmbio e InvestimentosNova pílula contra câncer de pâncreas dobra sobrevida de p",
+      "sources": [
+        {
+          "name": "InfoMoney",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUUIwbk5ZVEhvblJVMUV5QVVhbUVIblNJaU1udFQ1QWFYWFY3MmdaRzdGeXE4R3dVWjRlQzBmUFl4V1ZLd2NfeWlOZTFWemVGNEQ5UmpJdEhVdHJ2TnVxUHU2M2MyYlRjVUx0RThvdTY0Tk5IOE1vbEg4MjBUbFpycEhwNF9GYkphUFlDTUk0R0YxMXptSm9aU1FJVHVIUFMydVNWcm9QSk05OWZ2S2lfSkN6aFVoTWFuOTI1dHZRbC1VV2JwTmfSAcsBQVVfeXFMT3oxRUFWSENDLXBkdWFDYkRDdlk1MUpyZW83UHlndDQ3aldmRkVaZkhXQWZuQ1FWb2JZUTJkeWIxdGZQTHlrdmgwN29ScTVDMFlkbzAwV1NoVlVPOUZpSWhSa3VWVENyYzhZRC0xOTlKaERUalhkNEdVdkc0WEM3Mk16RktsZ1U3UF9ZcnJyV0cwT09UelFDQWVYUU11V3I3Ull3TmUwRjJyVVg1QWIySFFGdEY5X0x2MS1yNEI1UEJNZ21EUjgxV3pOb1E?oc=5"
+        }
+      ]
+    },
     {
       "id": "a5da3bffc922",
       "title": "'Músculo é patrimônio': como ele impacta para a inteligência, longevidade e autonomia - O GLOBO",
       "published": "2026-09-01T07:30:28+00:00",
-      "summary": "'Músculo é patrimônio': como ele impacta para a inteligência, longevidade e autonomia&nbsp;&nbsp;O GLOBONovas 'canetas para músculos' prometem combater perda de massa e envelhecimento; entenda&nbsp;&nbsp;O GLOBO'Canetas para músculos': novos medicamentos buscam combater a perda de massa muscular&nbsp;&nbsp;Terra'Canetas para músculos': entenda a nova aposta contra o envelhecimento&nbsp;&nbsp;Estado de MinasNovas ‘canetas para músculos’ prometem combater a perda de massa e a sarcopenia no envelhe",
+      "summary": "'Músculo é patrimônio': como ele impacta para a inteligência, longevidade e autonomia&nbsp;&nbsp;O GLOBO'Canetas para músculos': novos medicamentos buscam combater a perda de massa muscular&nbsp;&nbsp;Terra'Canetas para músculos': entenda a nova aposta contra o envelhecimento&nbsp;&nbsp;Estado de MinasAs \"canetas de músculos\" prometem resolver um dos maiores problemas da população idosa&nbsp;&nbsp;Diário do ComércioNovas “canetas para músculos” estão em testes para recuperar a perda muscular do ",
       "sources": [
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbk0wTGcxSkVHU09VWUo4QlhGZnVyUW94a09mMEsxX004X1lSODhkLVlDaTFEakY2SVotWDlhWGU0UXMtczlfaWpFZmEzSFgySnNCVWhCZzdEUWNPbFk1ZUlqSW5ORVp2RkRzQ2VfQzYzcUV3YlRKcFZJLUx3UVFkeEYtSlF6akJIMDA1Z1RTb3BySlRkUkFIVTNnRUgzYWZnazhJUzFrbkk3OEZhWk9LVEFiaVR5UWNPOEdqSENwY2RyNmM4MHFMLUdUZXk0YnozT3Jr0gHiAUFVX3lxTE9td2hCQ3J2TVlrNlZhbTBZWmN5cVBFbGxuN1lSVXJWdUtYaXBJTGRRdThidGlmMkRfWHRYcDBoaDZuNFVuVVZhUEVLZ2pBVnZncmI3TUoxbWxpX3FZT09pTmdIWmdpUkYtUVhGSnpVaG8yUDhBMmRtdTlnOEVyV2RydDJBcjJCTDBDTlN2NjlLamJ4SEZXTUl5dWlpTUJwSkNXQnkwUUJrbmk0QzltYksydWUyVUxiWHJpOUVybV9QMlJ2SF9LUEFOWVNUdGNEYmhlNUlTVGpaWTREQ0JZWEctNXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e5eccfffad60",
+      "title": "Placas de gordura que podem levar ao infarto já aparecem aos 20 anos e atingem metade dos homens aos 40 - G1",
+      "published": "2026-09-01T07:01:47+00:00",
+      "summary": "Placas de gordura que podem levar ao infarto já aparecem aos 20 anos e atingem metade dos homens aos 40&nbsp;&nbsp;G1Aterosclerose começa aos 18 anos, aponta estudo europeu&nbsp;&nbsp;campograndenews.com.brEstudo encontra alterações nas artérias de jovens de 23 anos e acende alerta para risco cardíaco precoce&nbsp;&nbsp;agorarn.com.brAterosclerose silenciosa já afeta um em cada 13 jovens entre os 18 e os 29 anos&nbsp;&nbsp;ECOAté 80% dos jovens têm sinais de lesões nas artérias, alerta estudo&nb",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUEpNREtncGszbkNGQUE0c3lQR05jMktSdVZHMjdDUm9VWm5LdkkyTmZCeF9lZ1BTMTBXUTdXUk9VcHkzY2NjZk5Kdmx2N2V1R2FYbV80bGppaUZrSmZubFVmcjlacmtQeXd4NGlKVkFYRG54QmJoWFhtYTI5YVJVbGtIaFg0Q0pFb0hjTWlwQXRBd3hZWktkX3U0c0h1M1hYSzZrc0dqNXJsa1NDZmU2OVBDV2pzWFVBZ1g1NDRqUUVFRXNjTjhsaEtsVXFyLVR1N3phVHJGTDJpWmhqSnkxNnJzMUk4RjUzTmNr0gH6AUFVX3lxTE9HWG50Z3BIWEVrTGZ5bE1WbDZTZ2lvdEVFUmJPZkJxbG9IdWpiWGd1alVuNHlYNTc0Y08wdmxtOEQyM2VLdWpod0c4MkdQTDFwY2ZqT0NnTDZFZGgxZTN6UGpUZWJrZk0xMTNrT1VJc1FONkg0ZnhkOHdxOHlUVmM0LXhQTGdDMWVxbWJRSldNaGUxRmZnb3hFQWQ5NFlPRTBUNW1aT0xKSWVSRzZYRUMxWi14OEVqdTNtV2pwbFk3WnJHNENrTzNHNVRTVVRqT2hCWTEwN2hra0tReFRKMndwZkZDdlZMdXRTQlB0LXNnSElGVVltUWkyLVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "041376d7d459",
+      "title": "Umidade baixa e recorde de calor: veja dicas de como se cuidar e evitar a desidratação - G1",
+      "published": "2026-09-01T04:00:19+00:00",
+      "summary": "Umidade baixa e recorde de calor: veja dicas de como se cuidar e evitar a desidratação&nbsp;&nbsp;G1O impacto do choque térmico e do calor extremo na saúde do corpo&nbsp;&nbsp;Correio BrazilienseTempo seco no DF: bebidas alcoólicas podem agravar desidratação; veja entrevista&nbsp;&nbsp;Jornal de BrasíliaTempo seco exige atenção redobrada com a saúde das crianças&nbsp;&nbsp;pnbonline.com.brTempo seco, fumaça e calor aumentam o desconforto nos olhos; especialista orienta sobre os cuidados&nbsp;&nb",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdGtPalBjZXNwRFo3Q2hOSl93ejU3NWktRmczQ001UmNNYnBZbVktNnFUX09LcjdHVmtveWVzSWtOOV94VUllSmdCUUZwdHRzb2JmTm5VOXQtdjlpUFRLZVJsVnZzUTZHa1dtbTlsbE5yRFNxazB4N3ZqSUx6UDlvbXJkWGxlck4yMHNjTmQ0NFM3R1MxLVF0TGdEcFZicXlZNFNxSW11ZXFRZVRJMW93bzBMaEowamw0YlpSNUc5dnR1cDZnMGlqa1V4dHNZQl9iN2stMkc0TTh6VThhVms2cHJydmViQdIB9AFBVV95cUxOY3RyMHEzSWtxVkFHUFROSXJMX1Jka0hVLTVYd2o5SjZrMDBBVEk4amVDSWlBUTFlNTZibWRxX1kyTkNmRzBYaWJNTUNneG0xZ2xNZWhkdk10YS03ajJMNGRXNy05SkZFSWh0bVQxTUxPTHVmb19CSnVmVnFONmd1Y3FNb3hkS1ZlN0tQaTN2a09FLVNVRXFCdWJCcHZka3NQT2dKTWh0RUNZMGZuVHlwUmROZlNKV3Azdk4wdHlRVTg1QjFzVDA5STE4QmE4cjc4MXRVSjliV0lPeV9QUFM5dXZLSUNObDc4bGlXZHJQUm5NcEl3?oc=5"
         }
       ]
     },
@@ -30,13 +138,13 @@
       ]
     },
     {
-      "id": "950b08caa2f7",
-      "title": "A fruta brasileira rica em vitamina C e antioxidantes que ajuda na proteção do fígado e é aliada na alimentação saudável - correio24horas.com.br",
+      "id": "aa12749cf630",
+      "title": "A fruta brasileira rica em vitamina C e antioxidantes que ajuda na proteção do fígado e é aliada na alimentação saudável - Jornal Correio",
       "published": "2026-08-31T23:55:00+00:00",
-      "summary": "A fruta brasileira rica em vitamina C e antioxidantes que ajuda na proteção do fígado e é aliada na alimentação saudável&nbsp;&nbsp;correio24horas.com.br",
+      "summary": "A fruta brasileira rica em vitamina C e antioxidantes que ajuda na proteção do fígado e é aliada na alimentação saudável&nbsp;&nbsp;Jornal Correio",
       "sources": [
         {
-          "name": "correio24horas.com.br",
+          "name": "Jornal Correio",
           "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPVml4LTlScU9Ka2x3WXg2clk2ZUJTTjVKbVdnTlROOEo4SnluUDhWdElQcFFDSG9SZ29rUWtZd3l5TDFCMTJENUpxUUFzXzJ0ZWFGOGhDYmtsQWw4eUxoeVVqTzNfOEUxRFA3RExWMGZoT3NDd3VfdkZTMzRaQ0I5SUhHZ2pvVDNESk4yR1pqZWZkelBESG1obUF6bDUtYXppc0gxNG00SlV6N2wzOTlXakx6ZjFZcFQ0NDhrOERkeWU1OHJjVjd2eVlKT1Bib2RxbTJCUzhnOWNFT1ZSWnY1R0YzcnMyVmNsd2hGUkNvV0picm9MMW5Nek9UNA?oc=5"
         }
       ]
@@ -45,7 +153,7 @@
       "id": "5695b4a67084",
       "title": "Vacina contra raiva para cães e gatos é oferecida de graça em 20 postos da cidade de SP; confira endereços - G1",
       "published": "2026-08-31T23:26:45+00:00",
-      "summary": "Vacina contra raiva para cães e gatos é oferecida de graça em 20 postos da cidade de SP; confira endereços&nbsp;&nbsp;G1Goiânia realiza campanha antirrábica com vacinas gratuitas para cães e gatos&nbsp;&nbsp;Jornal OpçãoVacinação antirrábica segue gratuita para cães e gatos no DF&nbsp;&nbsp;jornaldebrasilia.com.brPor que agosto é o mês do cachorro louco? Entenda a origem&nbsp;&nbsp;Portal Cães e GatosCampanha de vacinação antirrábica imunizou 467 animais em Itatiaia&nbsp;&nbsp;TV Prefeito",
+      "summary": "Vacina contra raiva para cães e gatos é oferecida de graça em 20 postos da cidade de SP; confira endereços&nbsp;&nbsp;G1Goiânia terá campanha de vacinação antirrábica para cães e gatos em setembro&nbsp;&nbsp;Portal iGVacinação antirrábica segue gratuita para cães e gatos no DF&nbsp;&nbsp;Jornal de BrasíliaPor que agosto é o mês do cachorro louco? Entenda a origem&nbsp;&nbsp;Portal Cães e GatosCampanha de vacinação antirrábica imunizou 467 animais em Itatiaia&nbsp;&nbsp;TV Prefeito",
       "sources": [
         {
           "name": "G1",
@@ -57,7 +165,7 @@
       "id": "6fae5cee53f6",
       "title": "Órgão regulador dos EUA libera uso do Mounjaro para reduzir risco de infarto e AVC - Terra",
       "published": "2026-08-31T22:16:00+00:00",
-      "summary": "Órgão regulador dos EUA libera uso do Mounjaro para reduzir risco de infarto e AVC&nbsp;&nbsp;TerraMounjaro: FDA libera uso para reduzir risco de infarto e AVC nos EUA; entenda&nbsp;&nbsp;O GLOBOFDA autoriza Mounjaro para reduzir risco cardíaco em pessoas com diabetes&nbsp;&nbsp;MetrópolesFDA libera uso do Mounjaro para reduzir risco de infarto e AVC nos EUA&nbsp;&nbsp;UOL NotíciasMuito além da obesidade: as doenças que Ozempic, Wegovy e Mounjaro podem ajudar a tratar&nbsp;&nbsp;Exame",
+      "summary": "Órgão regulador dos EUA libera uso do Mounjaro para reduzir risco de infarto e AVC&nbsp;&nbsp;TerraFDA aprova Mounjaro para reduzir risco cardíaco em diabéticos&nbsp;&nbsp;Folha de S.PauloFDA autoriza Mounjaro para reduzir risco cardíaco em pessoas com diabetes&nbsp;&nbsp;MetrópolesAgência dos EUA FDA aprova Mounjaro, da Lilly, para reduzir risco cardiovascular&nbsp;&nbsp;InfoMoneyFDA aprova Mounjaro para reduzir risco de infarto e AVC em pessoas com diabetes tipo 2&nbsp;&nbsp;G1",
       "sources": [
         {
           "name": "Terra",
@@ -66,26 +174,26 @@
       ]
     },
     {
-      "id": "71c4c8dd5eea",
-      "title": "Fapesp deve revogar corte de bolsas para pesquisa no exterior após polêmica - Estadão",
-      "published": "2026-08-31T18:31:22+00:00",
-      "summary": "Fapesp deve revogar corte de bolsas para pesquisa no exterior após polêmica&nbsp;&nbsp;Estadão",
+      "id": "7d8d96b79807",
+      "title": "Um processo oculto pode estar tornando o calor úmido pior do que o esperado, afirma novo estudo - Meteored Brasil",
+      "published": "2026-08-31T22:15:00+00:00",
+      "summary": "Um processo oculto pode estar tornando o calor úmido pior do que o esperado, afirma novo estudo&nbsp;&nbsp;Meteored Brasil",
       "sources": [
         {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcE96SUtIY0hLVFhNaTQzR01GcG55c2xCU05mT3dqVWMyRlB4Y18xWHhQaDV3cWpEUERYSjNxdWdaRTl0ZC1MbXBNUC1BN2lVbWU1VnI4YzlacEZ6V3Q0MlVHZUZpRjYyWmoyeHk0VGVEeE5zLUVhclBHVER2Nkc4QWhPdUJUQ2VHSXpsMDhTa0RLMlF3ZFppTjlzSFlEM09LNE9LWVhVVUlILU96T0d4WjhB0gG3AUFVX3lxTE13d1pBTUpxdUJJcE56MHB5Y2FaVWZ1UG1lODBBMk5zblFmd194c2lxQ184MXR1TkREVlM3b1VYR3hNSzVDdk9Oa1ZEMEEyaFE2dUsybHlzbEViSS11TmU1UnpsS2Z0cGNfRmJOQjVFMkstcVhCSkE4REpEeC1wd29MSDQtdU1yS2t4cV9FNmRZWHlRM2FnNk8zcmE3RlMxZnZSQ21qYzRWbmwzbDBwVlMxQXZrOGs0Zw?oc=5"
+          "name": "Meteored Brasil",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNnFlUGVON3ZHSDJCdXB0endHSnhjQkpIWGNDRzllOGxKR1UwTllSUTU4VnFkTUlKaTFQa1ZqNW1iMFNERHRHNTd6a2t0WUpRT3ZzT3NQaHlHakhKUnVLNlNUcy04eTNIQVVsUmlkWWFWMlkydUZWcElBQWVqMGZWSWdNZUswY2wzLXVKQUNQLWl4a2wxOGNfcmJMUmVmamUyd2pycDAyd0pGNDJQZEpIdjBNQXIwQ1NRckc2YWZFbmtSbERHQy1uQjFLZDFUVURvMV80aQ?oc=5"
         }
       ]
     },
     {
-      "id": "0fab2d34a83b",
-      "title": "Estudante de 21 anos em Santa Catarina vasculha quase 880 mil estrelas, ressuscita pesquisa que ficou anos na gaveta e encontra 446 pistas escondidas na Via Láctea capazes de abrir uma nova janela para entender onde e como planetas podem se form - CPG Click Petróleo e Gás",
-      "published": "2026-08-31T17:49:00+00:00",
-      "summary": "Estudante de 21 anos em Santa Catarina vasculha quase 880 mil estrelas, ressuscita pesquisa que ficou anos na gaveta e encontra 446 pistas escondidas na Via Láctea capazes de abrir uma nova janela para entender onde e como planetas podem se form&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "id": "7c659765ec52",
+      "title": "Fapesp deve revogar corte de bolsas para pesquisa no exterior após polêmica - estadao.com.br",
+      "published": "2026-08-31T18:31:22+00:00",
+      "summary": "Fapesp deve revogar corte de bolsas para pesquisa no exterior após polêmica&nbsp;&nbsp;estadao.com.br",
       "sources": [
         {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNQjFjajk3MGZ2LTZWaVpCU20tdXZlYU94bkt0WTJwR1F4dTg1eVdoYk82dDBTSkV3Z3ZSS3lxZzZWR2ZhSlNBZFVnS3NGWURjTkIxWWE1ZW9HWkV5czFpaVJkcVJWNlFUSHdGMEtHU1JOOENVQmNEYWJCU3FHN211b2Y2ajVZS2xFS0FQVlBzSUFwYWgzR3ZLTVdwbWlzbXJQaTFTOXFWdkcyUG8yUmNhTlBfSHlsZFQ0Ums3aTdsVEtmSFNhb01xaHRISXp0U0w0b0FmcTl2ZnAyM0N5UXpDTHE0NlYzbmxITkxLNzdka0c1aENpWUlKOElITEZEZkJkdGFPdUphdzlFS2VmcFFPWnpObENwQWtSVlg5V2xfZjZXdTZ1LXF3aU9laWhTQ00zX3dac0ViUnFNM2QzQTR2NVhrdzNzUGc?oc=5"
+          "name": "estadao.com.br",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcE96SUtIY0hLVFhNaTQzR01GcG55c2xCU05mT3dqVWMyRlB4Y18xWHhQaDV3cWpEUERYSjNxdWdaRTl0ZC1MbXBNUC1BN2lVbWU1VnI4YzlacEZ6V3Q0MlVHZUZpRjYyWmoyeHk0VGVEeE5zLUVhclBHVER2Nkc4QWhPdUJUQ2VHSXpsMDhTa0RLMlF3ZFppTjlzSFlEM09LNE9LWVhVVUlILU96T0d4WjhB0gG3AUFVX3lxTE13d1pBTUpxdUJJcE56MHB5Y2FaVWZ1UG1lODBBMk5zblFmd194c2lxQ184MXR1TkREVlM3b1VYR3hNSzVDdk9Oa1ZEMEEyaFE2dUsybHlzbEViSS11TmU1UnpsS2Z0cGNfRmJOQjVFMkstcVhCSkE4REpEeC1wd29MSDQtdU1yS2t4cV9FNmRZWHlRM2FnNk8zcmE3RlMxZnZSQ21qYzRWbmwzbDBwVlMxQXZrOGs0Zw?oc=5"
         }
       ]
     },
@@ -105,23 +213,11 @@
       "id": "43a6793824f0",
       "title": "SUS vai ofertar três novos medicamentos para o tratamento de câncer de pulmão — Ministério da Saúde - www.gov.br",
       "published": "2026-08-31T15:28:15+00:00",
-      "summary": "SUS vai ofertar três novos medicamentos para o tratamento de câncer de pulmão — Ministério da Saúde&nbsp;&nbsp;www.gov.brCâncer de pulmão: três medicamentos de alto custo entram para lista do SUS&nbsp;&nbsp;VEJASUS oferece novos remédios para câncer de pulmão em outubro&nbsp;&nbsp;Campo Grande NewsSUS vai ampliar tratamento do câncer de pulmão com três medicamentos; oferta deve começar em outubro&nbsp;&nbsp;G1SUS vai ampliar tratamento do câncer de pulmão com três medicamentos&nbsp;&nbsp;R7",
+      "summary": "SUS vai ofertar três novos medicamentos para o tratamento de câncer de pulmão — Ministério da Saúde&nbsp;&nbsp;www.gov.brSUS vai ampliar tratamento do câncer de pulmão com três medicamentos; oferta deve começar em outubro&nbsp;&nbsp;G1SUS terá três novos medicamentos para tratar câncer de pulmão&nbsp;&nbsp;Correio BrazilienseCâncer de pulmão: três medicamentos de alto custo entram para lista do SUS&nbsp;&nbsp;VEJASUS oferece novos remédios para câncer de pulmão em outubro&nbsp;&nbsp;campogranden",
       "sources": [
         {
           "name": "www.gov.br",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeXdGYTVCSFJiY1FNU1FibTR4STNSVzBXbm9zcmJsVXhicm9taVhOWmtUQXczODhhVnpOWTlKVUlHa3B2OGhXa0xGZHFMWC1fN3JUeDl6ckdieEhaNnYtUld0MXJnR3hzMjhZQzhEdmI1eVc3X2ZlWEZXUXRDYnVYY3AzYnJ5MWJKOEw3TWU4N0NsOU0tUS01cmZhT21hdDV0czU2SWRJcjUwX1BSRjh3a25RZnQ1aDlTSWV1ZlZPSUJsVml0Q2JvUUJNa1hQcXVydFZyTDY0LTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "eb219589e299",
-      "title": "Declínio na memória pode começar a partir da meia idade, sugere pesquisa - Metrópoles",
-      "published": "2026-08-31T15:02:00+00:00",
-      "summary": "Declínio na memória pode começar a partir da meia idade, sugere pesquisa&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTzA5NGlNTnN3aXNkMjBLOWdMRG80U3k3WlpJQXI1UHI3ZmlaYjR5WW8zTFBiX0p5QTdPWWF2eWE5NFNMazlVbXdGN0JmNnA4MTA3NkhDLWgzV2I1VXFzQkdqMnNyT1dJNEtCTEp3M1N1VGRYT29mMkZGMnYzUHU2WFZZR3ZlWmVSVW5fQ2VpcFRfdmFZeXpqYURSLVV2Uk96amNuMlFNMA?oc=5"
         }
       ]
     },
@@ -138,37 +234,25 @@
       ]
     },
     {
-      "id": "9bc8244e176e",
-      "title": "Mais de 40 anos de pesquisa brasileira na Antártica - agencia.marinha.mil.br",
+      "id": "33da81d437eb",
+      "title": "Mais de 40 anos de pesquisa brasileira na Antártica - Agência Marinha",
       "published": "2026-08-31T13:30:50+00:00",
-      "summary": "Mais de 40 anos de pesquisa brasileira na Antártica&nbsp;&nbsp;agencia.marinha.mil.br",
+      "summary": "Mais de 40 anos de pesquisa brasileira na Antártica&nbsp;&nbsp;Agência Marinha",
       "sources": [
         {
-          "name": "agencia.marinha.mil.br",
+          "name": "Agência Marinha",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTFMyOV9kZ1dSd3RBSlZsOGRacHZOUGRNOGx2aERkQjBSNXpuWVRyQXlhX0htOUs0YnRROXk4MzhtVGdYMzJBelBpYzZBSHNYeXkzaC1YcnB4S2RITi1QMWtuUFB3YWN5VmtBblhmdTFOc0VJa2dtZm9OWTB0WGJYaE13TGJqNkYteFBIMzc1YlFTdXdpRjJsb05UNEhDRVh5QTZN?oc=5"
         }
       ]
     },
     {
-      "id": "cf40a8d6b6d5",
-      "title": "Os sete alimentos que ajudam a memória e a concentração - Diário do Centro do Mundo",
-      "published": "2026-08-31T12:23:26+00:00",
-      "summary": "Os sete alimentos que ajudam a memória e a concentração&nbsp;&nbsp;Diário do Centro do MundoAlém da sardinha: 6 alimentos que ajudam na memória e concentração&nbsp;&nbsp;MetrópolesA memória começa no prato: saiba quais alimentos fazem bem para o cérebro e suas funções cognitivas&nbsp;&nbsp;GloboAbandonar dietas ricas em açúcar e gordura pode ajudar a reverter danos cognitivos?&nbsp;&nbsp;TerraLongevidade cognitiva: como a alimentação influencia a saúde cerebral&nbsp;&nbsp;Notícias ao Minuto Bras",
-      "sources": [
-        {
-          "name": "Diário do Centro do Mundo",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUlo5aDJnMFI2dXY1ZzRaTlg1S01Ob2Jkd0kxcjBEREIycEEyUkxBUXBaUlBUdUw1RHp6VVNCU2I3M0pQcmJKYkxLWEo3b21fLVR0NHU0OEsxdEhrUDlJNGhRaEFRRExmV0RoUGtDczExSXpMc1cyUFpSQWNBcnpSMHhmT2pkSnh4dE8zMS1INDMxd3c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f003090697b9",
-      "title": "'Tomava morfina para a dor até que os médicos descobriram que eu tinha endometriose aos 13 anos' - BBC",
+      "id": "5ab34a95b97e",
+      "title": "'Tomava morfina para a dor até que os médicos descobriram que eu tinha endometriose aos 13 anos' - bbc.com",
       "published": "2026-08-31T11:25:22+00:00",
-      "summary": "'Tomava morfina para a dor até que os médicos descobriram que eu tinha endometriose aos 13 anos'&nbsp;&nbsp;BBCGinecologista cita sintomas que indicam que você pode ter endometriose&nbsp;&nbsp;Metrópoles“Não podia ter tido alta”: normas para a endometriose somam mais de um ano de atraso | Saúde&nbsp;&nbsp;PúblicoTeoria do Polvo: modelo criado por médico brasileiro ajuda a explicar as dores da endometriose&nbsp;&nbsp;O TEMPOEndometriose após os 40: médico explica por que o diagnóstico costuma dem",
+      "summary": "'Tomava morfina para a dor até que os médicos descobriram que eu tinha endometriose aos 13 anos'&nbsp;&nbsp;bbc.comGinecologista cita sintomas que indicam que você pode ter endometriose&nbsp;&nbsp;MetrópolesTeoria do Polvo: modelo criado por médico brasileiro ajuda a explicar as dores da endometriose&nbsp;&nbsp;O TEMPO“Não podia ter tido alta”: normas para a endometriose somam mais de um ano de atraso | Saúde&nbsp;&nbsp;publico.ptEndometriose após os 40: médico explica por que o diagnóstico cost",
       "sources": [
         {
-          "name": "BBC",
+          "name": "bbc.com",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9tUnNCWXBwVWpMaURhcEVWNlJoMkdhY1ZTbkpjRVBDQm8xUzZ2NldVdnUxQTByczB1aGJIbm1ubEVIRWdRSWZYeDFoc25mZUNMWUZzd1E1NmpHejJ2M3FXNk1B0gFnQVVfeXFMT2ViZTVTSTFyazczMzl0QlZOMl8zSWtObjBXUGFrYmFKcWZTaTdTX0lLVEtHbk55bkZCSFoyX24xZXlnWExqX2w2Zk1TUzJMWmNlSGhLVTk4d1VzaTZIWEpEMVVYMkVqOA?oc=5"
         }
       ]
@@ -189,11 +273,23 @@
       "id": "8af4fdffeddf",
       "title": "Câncer de intestino é possível prevenir: quais exames fazer e em qual idade começar? - O TEMPO",
       "published": "2026-08-31T09:00:01+00:00",
-      "summary": "Câncer de intestino é possível prevenir: quais exames fazer e em qual idade começar?&nbsp;&nbsp;O TEMPOCaso Lúcio Mauro Filho: o que um check-up consegue encontrar antes que o corpo dê sinais?&nbsp;&nbsp;O TEMPOSUS começa a oferecer exame feito em casa que pode revelar sinais de câncer antes dos sintomas para 40 milhões de brasileiros&nbsp;&nbsp;diariodocomercio.com.brNovas diretrizes para o rastreio do câncer colorretal&nbsp;&nbsp;TerraAos 52 anos, Lúcio Mauro Filho revela doença descoberta dur",
+      "summary": "Câncer de intestino é possível prevenir: quais exames fazer e em qual idade começar?&nbsp;&nbsp;O TEMPOQuais sinais podem indicar a presença de câncer colorretal?&nbsp;&nbsp;O TEMPOSUS inclui novo teste para rastrear câncer colorretal em públicos de risco&nbsp;&nbsp;band.com.brApós caso de Lúcio Mauro Filho, médica explica quando prevenir pode mudar tudo: 'Tem um papel especial'&nbsp;&nbsp;CARAS BrasilNovo exame de sangue encontrou 92% dos cânceres de intestino e 81% das lesões antes de o tumor ",
       "sources": [
         {
           "name": "O TEMPO",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSWprX2xBVHN3MTJSeG5aWUFyLVFPallROU11RExuM0VzUEtXdUFJZmRJdjJvd3BLQzFuQ3F0MGkzang5QVI0VDBVYTQzVnFVMEdYalRYU1c1UV82d2RDT05OVjV5Q1NPNWRNUjU5eXM0Y211RUVFVHJUX2ZqZW55cFJTSURzVFBGRUFNMDFaa0IyRl9GRUE3YjNYUkk4YUo3aWJFUk9YQkp3MGVmcTh1QXJNdVhsZ0ZnTEtpLWkwMnBIUzBNc3lF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d94f49a1b068",
+      "title": "‘Tive 1% de chance de sobreviver’: catarinense que passou por 25 cirurgias no rosto enfrenta novo desafio para voltar a respirar depois do câncer de pele - ND Mais",
+      "published": "2026-08-31T08:25:08+00:00",
+      "summary": "‘Tive 1% de chance de sobreviver’: catarinense que passou por 25 cirurgias no rosto enfrenta novo desafio para voltar a respirar depois do câncer de pele&nbsp;&nbsp;ND Mais",
+      "sources": [
+        {
+          "name": "ND Mais",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOVR3cjhtbEF5eWgzQmd1cWMxaGs2TWw3ZzYwNWtLSExGQWhlY2pLZC01aXhkUE9UbEhsTDNlSWx6dEVRU0tyQm9PSGtpc1dWWm1SSkJrRUFkSHdEWVVZOVQ1aDFYcnV5Z2JBZlpyaWFHV0ZEU1JjaG1SMUZEc1c5cU5CYktLZV9nQzZjNmM2RWRRa2N1bVRmSEZ0aE9ZU1pXd0ZyUjRwR0FTYUZyZmxvSzBFcVVDUThhYVVaeGM2NHpNOGRKMjhfNkE3RmE?oc=5"
         }
       ]
     },
@@ -210,38 +306,62 @@
       ]
     },
     {
-      "id": "af56d7d3ee87",
-      "title": "Inchaço nos tornozelos sem cansaço aparente pode ser um sinal frequentemente esquecido de problemas nos rins - Tua Saúde",
-      "published": "2026-08-31T01:10:00+00:00",
-      "summary": "Inchaço nos tornozelos sem cansaço aparente pode ser um sinal frequentemente esquecido de problemas nos rins&nbsp;&nbsp;Tua SaúdePessoas com problemas renais frequentemente apresentam esses sintomas.&nbsp;&nbsp;Vietnam.vnA doença renal começa muito antes da diálise, por Rubênia Lauriza&nbsp;&nbsp;O OtimistaMédico tira dúvidas sobre doença renal&nbsp;&nbsp;G1Urina com muita espuma: quando observar e quando procurar o médico&nbsp;&nbsp;Tua Saúde",
-      "sources": [
-        {
-          "name": "Tua Saúde",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNXc2bXg4cUhNTTdsTVpLU2dwaUxfemo5YTA2MC1IU0VibERna3BENlQxV3ZBNlZxMEhraHVTOGF3UGYzZlpSOW5KT2d0RGJXT0MxU3pFajRleGViNkYzU0REZHItMTQzd0RoOG1kelBPUmt6ckJVMWNvRV9ibHdUTVV4Wm02MUFGT3AwZjg0WXJ5WUF4c2F4NlJSbnFJbVhRbDlJSFk3Tldwbjdhc0E3Q0V3WEpUdUsxM3VKYjdrVzBLbHRaX1h5WkJUZTBDMm5QWkk5TTBoMUdCY1VaVXpEdEs1QWw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "301df4ac79c7",
-      "title": "Professor de escola pública há mais de 30 anos descobre que pesquisadores da Unicamp batizaram uma borboleta rara com o seu nome, espécie que só voa em janeiro nos brejos de altitude da Mantiqueira - CPG Click Petróleo e Gás",
+      "id": "d08bd5d36ef7",
+      "title": "Professor de escola pública há mais de 30 anos descobre que pesquisadores da Unicamp batizaram uma borboleta rara com o seu nome, espécie que só voa em janeiro nos brejos de altitude da Mantiqueira - clickpetroleoegas.com.br",
       "published": "2026-08-31T00:07:00+00:00",
-      "summary": "Professor de escola pública há mais de 30 anos descobre que pesquisadores da Unicamp batizaram uma borboleta rara com o seu nome, espécie que só voa em janeiro nos brejos de altitude da Mantiqueira&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "summary": "Professor de escola pública há mais de 30 anos descobre que pesquisadores da Unicamp batizaram uma borboleta rara com o seu nome, espécie que só voa em janeiro nos brejos de altitude da Mantiqueira&nbsp;&nbsp;clickpetroleoegas.com.br",
       "sources": [
         {
-          "name": "CPG Click Petróleo e Gás",
+          "name": "clickpetroleoegas.com.br",
           "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPZE5LLXRZdHQxeGJPWGRNT1Z4RTA5QllrOGZIODQ5N1UwYzlHZHhvazB5bUNkYkY0MmdENk5mSHZjZ2piNUZDWndKNzFyUVpJYVl3aEJXVjh6WlJOd0dXNGU3N0xhSWNVblJmZmE1U1JwWl9uc0lZeVFEVmdGMGVkNUh2MHdlY05OLVBabF9tWUVQaEc5Vjc3NW1rTnowR21fTjU3eFZ0NUdLal80bDRKY05jUHpKTWZWZE9VQUt5eXhPMHlybEs2ZmtUeEM1UUNyRFFRamhrQUx6Y2o3UGFJQ0pfT3lBMkRYdVVndDNWVVhNV21CVlNHUC0yYlBNTmNXcmNGd3huam5qcFE0UzVyLU11NEFNOFViQy1GcFA4MTFCaDN3NmNzRGcyTGpIc2ZybXFCdE92Vy1lcTBZYWVsaVA0RzZJQ2M?oc=5"
         }
       ]
     },
     {
-      "id": "122a9f2694eb",
-      "title": "Cientistas fazem descoberta histórica: um tubarão de 399 anos, nascido em 1627 foi localizado no Oceano Ártico e bate recorde de longevidade entre vertebrados - Super Rádio Tupi",
-      "published": "2026-08-30T18:02:04+00:00",
-      "summary": "Cientistas fazem descoberta histórica: um tubarão de 399 anos, nascido em 1627 foi localizado no Oceano Ártico e bate recorde de longevidade entre vertebrados&nbsp;&nbsp;Super Rádio Tupi",
+      "id": "fa6b939b2c01",
+      "title": "O lado do GLP-1 que ninguém comenta nas redes, mas milhões assistem - InfoMoney",
+      "published": "2026-08-31T00:06:45+00:00",
+      "summary": "O lado do GLP-1 que ninguém comenta nas redes, mas milhões assistem&nbsp;&nbsp;InfoMoneyCanetas emagrecedoras: um terço do público nas redes sociais é homem&nbsp;&nbsp;Estado de MinasFebre de canetas para emagrecer no Brasil impulsiona mercado ilegal e preocupa autoridades&nbsp;&nbsp;UOL NotíciasCom protocolo, Vichy quer atender público de GLP-1&nbsp;&nbsp;Meio e MensagemEvento na OAB-DF debate os riscos por trás das canetas emagrecedoras&nbsp;&nbsp;Correio Braziliense",
       "sources": [
         {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPWkdSRDlzMzJnamNyR1JzT2M2VVdlZ2xUYWhwWkE3Tk5QZUYwbWIyOU1LcUV4NUx6dDByNEg0ZnVRQUxrcHEtSVZWWUlxYm80ajZSM0xsbXhVa1hJcE5EMjJLcnhuVTRiUGFXelc0M0RscGtPZ3JKMkVZU2J4emt2OTBEMVgyWHJQTkVEMUZIQVhhVERsY1NoRVQ3VS10ZUpmcTIxUmJaLVBNeDBSOXlwX2FVUWxMVG1vSWZDcU1scm1odzFTSEJlcWMyYjdxdWxsOEwybU1UdjhEWGlBcVlKdHRBNEE2QUY4QTZrTFBNeDEtR01sUXpwc3hWbzVxOFAtQVlZVWRtUUtJVEJ5eFRkZFdHQ1RabEFDc2xkbg?oc=5"
+          "name": "InfoMoney",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaVYxcEhBM1JyWllxcmowSkRoUjFtSGl1NTZaQ3RhazlVOXN5bWdXV1U1a1dIZjRpWnNXMkpqQ3JKNFFlNjJNTkw4Zm5hUGd6ZGttZ0lNOHdQQm1oVmg0TnJKSmlsYkJ2STZZYmgtZzgyblp5Z2haY0Z6amhseXhHSGVxM1ZPQXFWOHlUQnFjUWVtSl9EUG81R3FkUEhfdWhiQTVtOHZCSdIBrAFBVV95cUxQTVhXS2VjejFyTHFjTy1xMUZWZ25TZktPT3ZwaEh0VEtWZHlScFppNlBCRzJjOE0tWHA2dzRrRF9wSzBMRkM2aTgtMERiU3RHandoQ2hoMms3aktwY3JkVGRXbWlucWlQSnB0WV9EODhKSzdBakpoSGtkb3psSC1heldCOWlGU2xnVGZNN2gtY0N3eVIwTTRqZzNOUmItU21paVI4Zllhcm1OMnY2?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dd774c517ad7",
+      "title": "Tiba Camargos pede ajuda para receber aplicação de polilaminina durante cirurgia - Gazeta do Povo",
+      "published": "2026-08-30T19:54:00+00:00",
+      "summary": "Tiba Camargos pede ajuda para receber aplicação de polilaminina durante cirurgia&nbsp;&nbsp;Gazeta do Povo",
+      "sources": [
+        {
+          "name": "Gazeta do Povo",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdjBlOFRqVnpfRExDSWk0cC0tZVFZUExoZjVuZTVoR184N2w2SUE3aXBXQlhaa09hTTFFN0VBM2xUWTRhQjd3RkY1NDFSeklIMTlsVlpmN0puTE5hR28xc001dUY1MTR0LXVDZm9wWkdiVkxRM1hxcHJjYVE1dlRiWA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a27e4e689bb5",
+      "title": "Por que o risco de AVC aumenta após picada de cobra? Estudo investiga - Globo.com",
+      "published": "2026-08-30T18:00:17+00:00",
+      "summary": "Por que o risco de AVC aumenta após picada de cobra? Estudo investiga&nbsp;&nbsp;Globo.com",
+      "sources": [
+        {
+          "name": "Globo.com",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTlBrR0I1Y0Y2T1k4azc3MGN6M2ZWVDN6RlNZcjRpcEtlUkJ3UEpucEI2bGtHNnYtQTBlRGoxZnhSUk1qYml2eXQtV3FCNXUtOHNmenlRTjRRc3BsN0dybzRUeUFMNUQ4Nmw2RjVxSnF6OHRjcFk4RThXZjhtTkNoelpDc0hFQ0ZvUXlKZXRXcDVjRlRmWU54RlB6NmF5VmxicTYzWlhEalAwbDR6c243cXB3MFdzVlRtUXNzdWhRbDNna19VQ09XONIB1wFBVV95cUxNQ0p2OGh3VXRhWGJ3MTRCYzRQbVREcEJHTk0tcGJnZGJ6ZHdFNTBlTXNLQTJnLXZEUkViZ3BzcDVaY0RPc05vSXFRRTJuNFh0ZS05OG52YlhaWHUwZDZCZWtCRm80WnVfejV4UHVoUUh1WlhsOC1pQ1F6V2FCajY1OTVkWFItbk0zYjdVN1lTS3Y3ZzVNcUpZbFFZcVIyQVFFREVvYXdCdUNrZS1YSzBKYmFRaFFTTnYtMHAzak1lRUgzNi1wRHAxZnhGWWRmU05mTlhtUDctOA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "01befd011e07",
+      "title": "Pilotos da NASA voaram a aeronave de pesquisa de alta altitude WB-57F para buscar uma visão mais nítida da coroa solar - AEROIN",
+      "published": "2026-08-30T16:55:02+00:00",
+      "summary": "Pilotos da NASA voaram a aeronave de pesquisa de alta altitude WB-57F para buscar uma visão mais nítida da coroa solar&nbsp;&nbsp;AEROIN",
+      "sources": [
+        {
+          "name": "AEROIN",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbTFONnJ1UGZJNVdTdk5qMXB4MGplak1sWG1sVW1aVWpoeDZtbUFWT09ndnNMSFpHSmZmelhESzQydHZWQTlVRVZxR1ZseFZzVnB6VHBYYmd4N2ZROExSNFhLVkk3alAxMWFvR3RnbEZHa3l3UEZUSy00YUJOdTIwSTBkczEzVzkwU1hKQUNlZVJ3Y0Z1UEJ2dFFkLXl6QUVYSFR2STRhLUdtVlVQQVBYTkNwV1B5QmgwZXFWdzhRX3NWektqMjJ3aFdHNzNXMHlZdXJpS9IB1AFBVV95cUxNbTFONnJ1UGZJNVdTdk5qMXB4MGplak1sWG1sVW1aVWpoeDZtbUFWT09ndnNMSFpHSmZmelhESzQydHZWQTlVRVZxR1ZseFZzVnB6VHBYYmd4N2ZROExSNFhLVkk3alAxMWFvR3RnbEZHa3l3UEZUSy00YUJOdTIwSTBkczEzVzkwU1hKQUNlZVJ3Y0Z1UEJ2dFFkLXl6QUVYSFR2STRhLUdtVlVQQVBYTkNwV1B5QmgwZXFWdzhRX3NWektqMjJ3aFdHNzNXMHlZdXJpSw?oc=5"
         }
       ]
     },
@@ -249,7 +369,7 @@
       "id": "8509d77e5c56",
       "title": "Quem bebe café tem menos gordura e mais músculos, sugere estudo - UOL",
       "published": "2026-08-30T08:30:00+00:00",
-      "summary": "Quem bebe café tem menos gordura e mais músculos, sugere estudo&nbsp;&nbsp;UOLCafé aumenta testosterona em homens e reduz gordura, aponta estudo&nbsp;&nbsp;Época NegóciosQuem bebe café tem menos gordura e mais massa muscular, sugere estudo&nbsp;&nbsp;MetrópolesQuem bebe café tem mais músculos e menos gordura, sugere estudo&nbsp;&nbsp;SuperinteressanteEstudo aponta associação entre consumo de café, menor gordura e maior massa muscular&nbsp;&nbsp;Bacana News",
+      "summary": "Quem bebe café tem menos gordura e mais músculos, sugere estudo&nbsp;&nbsp;UOLCafé aumenta testosterona em homens e reduz gordura, aponta estudo&nbsp;&nbsp;Época NegóciosQuem bebe café tem mais músculos e menos gordura, sugere estudo&nbsp;&nbsp;SuperinteressanteCafé pode estar ligado a menos gordura e mais massa muscular, aponta estudo com 2,2 mil pessoas&nbsp;&nbsp;Jornal OpçãoQuem bebe café tem menos gordura, mais massa muscular e diferenças surpreendentes nos hormônios sexuais&nbsp;&nbsp;O An",
       "sources": [
         {
           "name": "UOL",
@@ -261,7 +381,7 @@
       "id": "9e7d9eaef6fc",
       "title": "Com o corte de um gene, cientistas esperam apagar o colesterol alto para toda a vida - R7",
       "published": "2026-08-30T07:56:55+00:00",
-      "summary": "Com o corte de um gene, cientistas esperam apagar o colesterol alto para toda a vida&nbsp;&nbsp;R7H.C. Wainwright reitera recomendação de compra para CRISPR Therapeutics&nbsp;&nbsp;Investing.com Brasil - Finanças, Câmbio e InvestimentosCientistas criam remédio de dose única que reduz colesterol ruim por um ano&nbsp;&nbsp;MetrópolesCom a simples remoção de um gene, cientistas esperam eliminar o colesterol alto para sempre&nbsp;&nbsp;CNN BrasilConheça a injeção em estudos que pode tratar o coleste",
+      "summary": "Com o corte de um gene, cientistas esperam apagar o colesterol alto para toda a vida&nbsp;&nbsp;R7H.C. Wainwright reitera recomendação de compra para CRISPR Therapeutics&nbsp;&nbsp;Investing.com Brasil - Finanças, Câmbio e InvestimentosCom a simples remoção de um gene, cientistas esperam eliminar o colesterol alto para sempre&nbsp;&nbsp;CNN BrasilConheça a injeção em estudos que pode tratar o colesterol alto após uma única picada&nbsp;&nbsp;estadao.com.brCientistas testam terapia genética que po",
       "sources": [
         {
           "name": "R7",
@@ -270,22 +390,10 @@
       ]
     },
     {
-      "id": "840b9101eec1",
-      "title": "Tirar gordura do corpo e colocar no rosto pode rejuvenescer? Veja riscos e benefícios do nanofat - Folha de S.Paulo",
-      "published": "2026-08-30T07:00:00+00:00",
-      "summary": "Tirar gordura do corpo e colocar no rosto pode rejuvenescer? Veja riscos e benefícios do nanofat&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTm4xbVczVHVIaF8yU2VxazBSUTljeW1GTXhOS183TnFUSzhFbDgyNEM2OXh4TmRiRV9WY19ldzcwQ1I3c2tLT3JSQUVOUUxOTEFMMnQtamhFUnhxV045V2ZETFFqWnlUV2FFM212QUFfYUhyTURWMlhhUUJFMkozTjJVZTZOQUFnaW5NNG9seWx3QzIxSzY4YmNlUFdqUXh6S044V3pZOGotLVNWd0JWb21JXzJSX2lTSGY4MWNHcXFYRVZWQXpJMzhzalZ6M2ZNbU1wWnJ4elR4dzVBUnJTbWdQTE8?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0a9fe341726c",
       "title": "Nova diretriz atualiza definição de infarto e muda critérios para diagnóstico - InfoMoney",
       "published": "2026-08-29T23:06:29+00:00",
-      "summary": "Nova diretriz atualiza definição de infarto e muda critérios para diagnóstico&nbsp;&nbsp;InfoMoneyCardiologia mundial redefine o conceito de infarto e reforça: exame de sangue alterado, sozinho, não fecha o diagnóstico&nbsp;&nbsp;G1Nova classificação do infarto busca facilitar diagnóstico e tratamento&nbsp;&nbsp;MetrópolesAdeus aos tipos 2 e 4c: médicos mudam linguagem do enfarte para o doente entender&nbsp;&nbsp;HealthNewsA nova classificação global do infarto: o que muda na forma de entender o",
+      "summary": "Nova diretriz atualiza definição de infarto e muda critérios para diagnóstico&nbsp;&nbsp;InfoMoneyA nova classificação global do infarto: o que muda na forma de entender os ataques cardíacos&nbsp;&nbsp;VEJACardiologia mundial redefine o conceito de infarto e reforça: exame de sangue alterado, sozinho, não fecha o diagnóstico&nbsp;&nbsp;G1Nova classificação do infarto busca facilitar diagnóstico e tratamento&nbsp;&nbsp;MetrópolesESC 2026: Quinta definição universal do infarto - o que mudou?&nbsp;",
       "sources": [
         {
           "name": "InfoMoney",
@@ -333,35 +441,11 @@
       "id": "d78cb84a2b9e",
       "title": "Médica acorda com morcego na boca e alerta sobre os riscos da raiva - UOL Notícias",
       "published": "2026-08-28T20:16:12+00:00",
-      "summary": "Médica acorda com morcego na boca e alerta sobre os riscos da raiva&nbsp;&nbsp;UOL NotíciasMédica acorda com morcego na boca durante pesadelo com camundongos, leva um grande susto e consegue prender o animal para levá-lo ao hospital&nbsp;&nbsp;ndmais.com.br'Tem um morcego na minha boca!': mulher acorda com animal em seu rosto e sua reação viraliza na internet&nbsp;&nbsp;CNN Brasil‘Tem um morcego na minha boca’: pesadelo de médica com animal viraliza&nbsp;&nbsp;R7Médica revela susto com morcego e",
+      "summary": "Médica acorda com morcego na boca e alerta sobre os riscos da raiva&nbsp;&nbsp;UOL NotíciasMédica acorda com morcego na boca durante pesadelo com camundongos, leva um grande susto e consegue prender o animal para levá-lo ao hospital&nbsp;&nbsp;ND Mais'Tem um morcego na minha boca!': mulher acorda com animal em seu rosto e sua reação viraliza na internet&nbsp;&nbsp;CNN Brasil‘Tem um morcego na minha boca’: pesadelo de médica com animal viraliza&nbsp;&nbsp;R7Médica revela susto com morcego e alert",
       "sources": [
         {
           "name": "UOL Notícias",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYVZISHNXVTJwQmpudUh2LVB0RmMzREpKcUFVekMza0RzOE5YZC1DMnlVZGhlTTlkbXJYQTYwbGQ4VVh5cmJ1TlJaUHNCdm1VRnhzVmV5SjhZcEtZRzdvWXB6aDViZTBhSl9EcHhZbmFYd2h1cVNIdS05Z0ZJaUdaX3dEaEJLOHZBV3FiZlFCSFo0STdEaHpBalJ2T3MyT3FSVmtRRzJVQUliSTkybVBkWlRjdTJDeFNtZWxKaHJmczY1RHVNOVJEbUJvYVBUbDVxNFY2UHh2UUhrUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "034984eab313",
-      "title": "Pílula contra câncer de pâncreas que fez médicos chorarem é aprovada nos EUA - G1",
-      "published": "2026-08-26T23:48:05+00:00",
-      "summary": "Pílula contra câncer de pâncreas que fez médicos chorarem é aprovada nos EUA&nbsp;&nbsp;G1A aprovação de um novo tratamento para um câncer agressivo %&nbsp;&nbsp;Poder360Needham eleva preço-alvo da Revolution Medicines após aprovação do Rasonque&nbsp;&nbsp;Investing.com Brasil - Finanças, Câmbio e Investimentos\"Um dos avanços mais promissores da oncologia\": novo remédio contra o câncer pode ir além&nbsp;&nbsp;TerraNova pílula contra câncer de pâncreas dobra sobrevida de pacientes&nbsp;&nbsp;band",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBrMjJPX05WTWg2Vi1pRk1oaUNDeFlMZEJRM2ZmTnU2bjVDVU9DZGt0ZkNBTFpsWTVsN3JtaTFnWUxvanNrNFlEZ2dGMkFGd2tWaGZjQXdaUzhWc2pDRnBSSGQ4YlR1Wm1tMlBVLVJlUFZ3RnJIUGxyVW5seWvSAYsBQVVfeXFMT1J3cWMxeEQ2OFZwUlBpSHkwa09GMEFveFFmYjhpeWlUTEtnVHdDWDRVelNXZndtSDB3WTJEeGU5enRELUJCS0VyTHZ1anl6WGJCWUpUMjJHLU5WcFFYOGFESWNpWFN3Uld2V1dibVQ1ZFFySnJjNVVlVEdDTjVYcXNKMXd6MENfekdVUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0f4268efecc6",
-      "title": "Vacinação ampliada contra o sarampo em São Paulo termina nesta terça-feira (1º) - Folha de S.Paulo",
-      "published": "2026-08-26T23:08:00+00:00",
-      "summary": "Vacinação ampliada contra o sarampo em São Paulo termina nesta terça-feira (1º)&nbsp;&nbsp;Folha de S.PauloSarampo: campanha de vacinação entra na reta final; Brasil tem 27 casos&nbsp;&nbsp;CNN BrasilO retorno de um inimigo derrotado&nbsp;&nbsp;Estado de MinasEstado de SP acende alerta para surto de sarampo, com 26 casos registrados em 2026&nbsp;&nbsp;G1Ministério da Saúde reforça chamamento para vacinação contra o sarampo&nbsp;&nbsp;Jovem Pan",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSHZsUkJ2Q25BcmhUQTNWTmR4dmdNUEZlUGdkZElVUURnYXNIS1A5VXZSWF9tTkp6UUtlNWhhU1IwZnJkanA5UHJKVXRNWDYxSWx4bDZ6Ul9tZHJQZWJaeTh5b3BiR2xiS1Y2NEhVLThKaFFuRzZNb3cwN3lQQXRjaEd6Rlpqbks2bWU5YnlZSzVLUHRhejdGbUx2N0hXQ05Ua0Ziamk2U18xTnZabG5zaV9YcC1KT2otdlVoMkFR?oc=5"
         }
       ]
     },
@@ -390,13 +474,13 @@
       ]
     },
     {
-      "id": "15ec433bd7cb",
-      "title": "Febre do Nilo Ocidental: 8 perguntas e respostas sobre a doença que teve casos confirmados no Brasil - BBC",
+      "id": "864a5ca437e6",
+      "title": "Febre do Nilo Ocidental: 8 perguntas e respostas sobre a doença que teve casos confirmados no Brasil - bbc.com",
       "published": "2026-08-25T22:07:59+00:00",
-      "summary": "Febre do Nilo Ocidental: 8 perguntas e respostas sobre a doença que teve casos confirmados no Brasil&nbsp;&nbsp;BBCO que você precisa saber sobre o vírus que circula no país e fez uma vítima fatal&nbsp;&nbsp;SuperinteressanteFebre do Nilo: especialista explica transmissão, sintomas e formas de prevenção&nbsp;&nbsp;G1Febre do Nilo Ocidental já tem casos no Brasil e ainda não possui vacina nem antiviral específico&nbsp;&nbsp;O POVOFebre do Nilo Ocidental não tem vacina e nem remédio, diz especiali",
+      "summary": "Febre do Nilo Ocidental: 8 perguntas e respostas sobre a doença que teve casos confirmados no Brasil&nbsp;&nbsp;bbc.comCasos de febre do nilo ocidental são registrado no Estado de São Paulo&nbsp;&nbsp;G1Entenda o que é a Febre do Nilo e como é transmitida&nbsp;&nbsp;G1Sintomas e transmissão da febre do Nilo Ocidental; veja no TJ Aparecida&nbsp;&nbsp;Portal A12O que você precisa saber sobre o vírus que circula no país e fez uma vítima fatal&nbsp;&nbsp;Superinteressante",
       "sources": [
         {
-          "name": "BBC",
+          "name": "bbc.com",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LSGI2TUtoX0RKSERJTG5lanhZYlo2UVMzNUxEaVBXSkh5cHNWcHZKTDh6QnBzTk52eTRKOGotR0dJRjMwTDdKZGx3d0IyVTk1MjNtamVQZGhRUkQ5ek1YZnJB0gFnQVVfeXFMT2lxRi1JeVdVaFhXa21YbGdhUzUzSGx4Um5oZUpDTFgzQ1hiWUUwWTlSQWJxdGY3bTBkMjBfeENVVDU0NTBLU05adVRLMlBBNVBrUlBFZXk3LThhTWdTOXVOUmtGbFVHYw?oc=5"
         }
       ]
