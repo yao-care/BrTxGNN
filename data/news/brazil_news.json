@@ -1,31 +1,43 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-09-03T03:29:06.993788+00:00",
-  "total_fetched": 91,
-  "unique_count": 90,
-  "health_related_count": 23,
+  "fetched_at": "2026-09-03T10:50:47.222846+00:00",
+  "total_fetched": 76,
+  "unique_count": 75,
+  "health_related_count": 25,
   "news": [
     {
-      "id": "4d01c1a83323",
-      "title": "Filippo Ongaro, médico especialista em longevidade: 'Uma pessoa sedentária de 50 anos pode compensar dois anos de inatividade com dois meses de exercícios na academia' - purepeople.com.br",
-      "published": "2026-09-02T16:33:00+00:00",
-      "summary": "Filippo Ongaro, médico especialista em longevidade: 'Uma pessoa sedentária de 50 anos pode compensar dois anos de inatividade com dois meses de exercícios na academia'&nbsp;&nbsp;purepeople.com.br",
+      "id": "1ab093ff6201",
+      "title": "Desinformação pode atrapalhar desenvolvimento de vacina contra o câncer - UOL",
+      "published": "2026-09-03T08:33:26+00:00",
+      "summary": "Desinformação pode atrapalhar desenvolvimento de vacina contra o câncer&nbsp;&nbsp;UOLVacina personalizada de mRNA contra o câncer alcança 1º resultado positivo de fase 3 e supera Keytruda sozinho em pacientes com melanoma&nbsp;&nbsp;Olhar DigitalVacina personalizada marca grande avanço contra o câncer&nbsp;&nbsp;The Portugal NewsVacina contra câncer de pele corta quase pela metade risco de retorno da doença&nbsp;&nbsp;BossaNews BrasilNova terapia personalizada corta quase pela metade risco de r",
       "sources": [
         {
-          "name": "purepeople.com.br",
-          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPcV9qX0JfOHE5aDZkSDBjY0dfRGxTeDZGMEdnQ096bTQ3d1VQN2FYMFU2SFJyNnBleGtuMFhPV2xzOURNTWNOTU5hNzQ0REhxeS1ndUw5U29XZ3Z0bDFhUkRlZFg1X19LRHpuYnotaElXU1BTQkdsWktQNEhMR2R3dkdUalM3U05XWExYQnVDN0NXYmg5WGs4QTI0V0llbEhlUlRVVHJJbFRrZlhiMGh5anhPa0xJUW1xR2VPSk04anhpR1Q5OFBySkw3Ym9HaTQtUlViRERJbVA3SGJtdGlIdzZucHZ5XzRqa0FMMG9KTGxlb0VqalV0QWxhbkVrYkVqaXhZZjVINVB0V09DcGl2emdSckjSAZoCQVVfeXFMTVpFVlU2QVFhdEZUQWFmaVVsRWpTTmRPSmF4WU5CRFhveTJmQkk4UFBOZHk4LVBfSDE3LXhmWDgwN0pCVUZrZHFxcEdNX3ExSWEzcWM5Y3pVd2o3d0RaUFl1MGNMcEpBblhDUk56VERuOG5IS0ZVUmZJMW5fd0NIYjgyRDRQc1RfbzlCenRnMGh5N0J6bGluQ3UxVzFGOHU4SnFaY3VqSW5KZEZENGFablUydWtDNVp4YTNybFJWTWJUWjkyblJ5U3hpTlpoYXF2QnVVYjFKbENZV2ppejZSOV9mcExoQ0VvakoyLURIMF9HR3JxYlVnak9CWnpLdmstUUdDMlk2aHoyQk1qN3k2cVY4cHNGc0dveEpn?oc=5"
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNM0l1ZmFadTNRY1VMYzI0Z25ERlFWaEJ0X3VrNF9pRHZCUldjZ3cwWDRBNlE4WmVlc1lDd212WkY1UHFCVXladU5OMEJLc0VBYUJ0d2tSUGJLU2xkTWZPM014LVlsMnpiNDNZQXAxeU85T3EyeTlFbjJyZFdKWDl6VU9lUEd1aDVHd1ZnLUs2a1JQWDNzTjZ2QVkzVDh3OVVZYUJfTlVGZVFzZ2hMTFlhblNxd2p4UGl6OThxalAzYWNrbVVPbHVacm9ybkFBazNr?oc=5"
         }
       ]
     },
     {
-      "id": "9624a4d4e344",
-      "title": "Diabetes aumenta risco de infarto e AVC; entenda como isso acontece - UOL",
-      "published": "2026-09-02T15:00:00+00:00",
-      "summary": "Diabetes aumenta risco de infarto e AVC; entenda como isso acontece&nbsp;&nbsp;UOL",
+      "id": "b738364d4789",
+      "title": "Tigres-da-tasmânia foram dizimados por humanos acusados de 'caçar o gado'. Agora, pesquisa científica descobre que eles não comiam os animais - CNN Brasil",
+      "published": "2026-09-02T21:09:51+00:00",
+      "summary": "Tigres-da-tasmânia foram dizimados por humanos acusados de 'caçar o gado'. Agora, pesquisa científica descobre que eles não comiam os animais&nbsp;&nbsp;CNN Brasil",
       "sources": [
         {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNkJjRWhqaHBGMXBhd21oTnhIbXp1N0hqcndTVHRMYWxVeldPeFdwZmhHSi1OWXB0WFNST0dnQ3pTWlBsSWdscTlRU1lIQmdPRERRQlVRS3NoSW5xaDlXSDFzbzlnM3pieVhoWi1leDl3U2FGaHJLbzZobjFGZUk5QWprSWxfUEJ3R2pLWkdRUXJYMUFoMmpFOVVPTTY1XzZrR3Zpbzh3LWNWamhZLUVlT1RUXzFsUjY4SlpMOElGREppcGRVcEJfUg?oc=5"
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQcC1ZRGJfUDVsWWpKS3YzV0F4dERrbkVRaDgyTFdTal8xMnJ3dS1IdldnSW54Wl9oZmJJamJKdmlqSU8wUEY4U1cwZFVJZi1IcHhhMWhGaE9xeDBZSnRjS1RCMFFDaURDNHExVU5sWDBuOXJNVzFnNXpkRmI2dEpPbnZnc1c4cHRFMjlfWElZN1AwY05ZVXl1a0wwVjdGcnQ1OEo4N2dwamhUM25TZi1iS0FMMmJYcTVGUWVzUmtvWjlCVDFiQVBNTTRTSGdKTHhPdkx5bk1PVEtCcmdZczBkUTBtSWJRYUlzR1pwUzI1OUdLdnZmRE51eUozSHpEU0o4a0IzaUNB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a01da0529844",
+      "title": "Apenas 1 em cada 10 brasileiros conhecem doença de alta letalidade causada pelo tabagismo; saiba qual - CNN Brasil",
+      "published": "2026-09-02T20:01:33+00:00",
+      "summary": "Apenas 1 em cada 10 brasileiros conhecem doença de alta letalidade causada pelo tabagismo; saiba qual&nbsp;&nbsp;CNN BrasilBrasileiros respiram mal, mas não sabem possíveis origens dos sintomas, diz pesquisa&nbsp;&nbsp;GloboPor que respirar mal virou o 'novo normal' para os brasileiros?&nbsp;&nbsp;Estado de Minas",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa2dhN3RURG5KMERudEN2Zk9VdmJLTDc4MGQ1RENGTlUxUE5fM1dGOXJSSmt4WVpvbEg2OWpxRWkwMFZFZzBBYkJVS1A1b2JOUEY2VHpTQ1k5WFpUajNiNmhsTU81SG13cTVRbTN5bmhnUjZFUU1iZVlQUUNIZVdEdW4wTk40QnFOVjI0NmEtQ0R1NXFJajg2ejFucGV5VjF4aFY5WWtLRXhJQUcyTE1GN3dZMXZIdjNiQXc0b1p6WHFOT3JVUVdKQW9GLUljSUcwWWc?oc=5"
         }
       ]
     },
@@ -33,7 +45,7 @@
       "id": "514c2e67cf0e",
       "title": "Como substâncias do café, uva e chá-verde podem ajudar o intestino a 'controlar' o cérebro, segundo este estudo - Globo",
       "published": "2026-09-02T14:14:56+00:00",
-      "summary": "Como substâncias do café, uva e chá-verde podem ajudar o intestino a 'controlar' o cérebro, segundo este estudo&nbsp;&nbsp;GloboPolifenóis: o que são e por que fazem tão bem ao intestino&nbsp;&nbsp;Bons Fluidos",
+      "summary": "Como substâncias do café, uva e chá-verde podem ajudar o intestino a 'controlar' o cérebro, segundo este estudo&nbsp;&nbsp;GloboSubstâncias presentes em uva, café e chá verde favorecem a microbiota intestinal&nbsp;&nbsp;redeutv.com.br",
       "sources": [
         {
           "name": "Globo",
@@ -45,7 +57,7 @@
       "id": "cff7f5a3880b",
       "title": "1ª do país: Fiocruz testará vacina brasileira de RNA contra covid em 2027 - UOL Notícias",
       "published": "2026-09-02T14:04:30+00:00",
-      "summary": "1ª do país: Fiocruz testará vacina brasileira de RNA contra covid em 2027&nbsp;&nbsp;UOL NotíciasBrasil vai testar 1ª vacina de mRNA em humanos e mira usar a tecnologia contra câncer e outras doenças&nbsp;&nbsp;G1Testes serão iniciados com 1ª vacina brasileira feita com RNA mensageiro&nbsp;&nbsp;Correio BrazilienseFiocruz vai iniciar testes da primeira vacina RNAm contra a covid-19&nbsp;&nbsp;Folha PEFiocruz inicia preparação para testes de vacina de mRNA contra Covid-19&nbsp;&nbsp;Diário do Pod",
+      "summary": "1ª do país: Fiocruz testará vacina brasileira de RNA contra covid em 2027&nbsp;&nbsp;UOL NotíciasAnvisa autoriza estudo clínico da Fiocruz com vacina de mRNA para Covid&nbsp;&nbsp;GOV.BRFiocruz vai iniciar testes de vacina de RNA mensageiro contra covid-19&nbsp;&nbsp;agenciabrasil.ebc.com.brMinas ganha novo centro de desenvolvimento de vacinas e terapias de câncer&nbsp;&nbsp;Estado de MinasTestes serão iniciados com 1ª vacina brasileira feita com RNA mensageiro&nbsp;&nbsp;Correio Braziliense",
       "sources": [
         {
           "name": "UOL Notícias",
@@ -69,7 +81,7 @@
       "id": "4192c56f3462",
       "title": "Brasileiro busca clínica para combater ‘rosto derretido’ - Valor Econômico",
       "published": "2026-09-02T08:01:20+00:00",
-      "summary": "Brasileiro busca clínica para combater ‘rosto derretido’&nbsp;&nbsp;Valor EconômicoRemédios para emagrecer disparam procura por cirurgia para tirar excesso de pele&nbsp;&nbsp;bra1.com.brFlacidez e pele em excesso surgem após emagrecimento rápido&nbsp;&nbsp;RADAR DIGITAL BRASÍLIAE depois do Ozempic? Quando a alegria já não acaba na balança&nbsp;&nbsp;Jornal de NotíciasEmagreceu com Mounjaro ou bariátrica? Plano de saúde pode ser obrigado a custear cirurgia reparadora, explica especialista&nbsp;&n",
+      "summary": "Brasileiro busca clínica para combater ‘rosto derretido’&nbsp;&nbsp;Valor EconômicoEmagrecimento intenso também pode mudar aparência do rosto&nbsp;&nbsp;iG DelasRemédios para emagrecer disparam procura por cirurgia para tirar excesso de pele&nbsp;&nbsp;bra1.com.brFlacidez e pele em excesso surgem após emagrecimento rápido&nbsp;&nbsp;RADAR DIGITAL BRASÍLIAE depois do Ozempic? Quando a alegria já não acaba na balança&nbsp;&nbsp;Jornal de Notícias",
       "sources": [
         {
           "name": "Valor Econômico",
@@ -78,38 +90,14 @@
       ]
     },
     {
-      "id": "ce8f9fc1579c",
-      "title": "Fígado, cérebro, pâncreas: como os músculos influenciam o funcionamento dos órgãos - O GLOBO",
-      "published": "2026-09-02T07:30:19+00:00",
-      "summary": "Fígado, cérebro, pâncreas: como os músculos influenciam o funcionamento dos órgãos&nbsp;&nbsp;O GLOBO'Canetas para músculos': novos medicamentos buscam combater a perda de massa muscular&nbsp;&nbsp;TerraNovas “canetas para músculos” prometem combater perda de massa e envelhecimento; entenda&nbsp;&nbsp;Jornal O SulNova febre? Cientistas desenvolvem \"caneta para músculos\"&nbsp;&nbsp;Diário do Centro do MundoRemédios para preservar músculos avançam na esteira das canetas emagrecedoras&nbsp;&nbsp;Mo",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNmh4OE5NNjFLLUROVTRNT0RINFVSVWd6X0pNX21yekJYcV9OSXdmSjNyUXhWeHlIRGtMcHk0UklrcFhxcXU2SE1RaWhhQVI4emRsQnZEMDJKZ29aMnB6YlItZi1GdERDMkJlNHh5ampRR2VOOHR3M0Q0UWJJTm5QR3ozcnotV0ZTRDA4U0pRdFIteWhCS0stdUdHc3RObDFfN0plTGtVUDZLVnVrWC0ta3ZWZjVJUzVkVU5lX1UzbEc2akF2eG1BSmNjVUVhdVRf0gHfAUFVX3lxTE5nZFl1eUExWHJRaVRpYlFNX29oNFcxM2Z0cDFENTd0eHpRUVl2dWdoV0FNeGZYTm9MSmxLY0tGdzFxdWxZeGViTmc4WkZNeVFoYWJnSldEWGZmdWlLcHBWTlJkVjhzMWpHTEJ5aFBHMWRVaE9IT08xZjc1Rnd3aVpFU0FMaE1jSjl2a1VDRG5yb3NPampJY1JwY3Y3TzJXOGc3SHhwV3pvTlFsQTd3R3JrSDVjQ1NLVzZoRmFiQWpMblNadFpwNXZwdk4xcWJSQWU2QnlMWmVWNUdGcEQtZkk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b73095e2b82e",
-      "title": "O que 20 minutos de exercício fazem no cérebro após uma noite sem dormir - G1",
+      "id": "d4e13bdc9bb1",
+      "title": "O que 20 minutos de exercício fazem no cérebro após uma noite sem dormir - g1.globo.com",
       "published": "2026-09-02T05:00:17+00:00",
-      "summary": "O que 20 minutos de exercício fazem no cérebro após uma noite sem dormir&nbsp;&nbsp;G1Caminhar por 20 minutos ou tirar uma soneca melhora memória, mostra estudo&nbsp;&nbsp;CNN BrasilExercício pode “substituir” um cochilo? Entenda o efeito surpreendente na memória&nbsp;&nbsp;Diário do Centro do MundoO truque do exercício para o cérebro após uma noite de pouco sono&nbsp;&nbsp;Portal UAIExercícios e soneca melhoram memória em 22%&nbsp;&nbsp;boca.com.br",
+      "summary": "O que 20 minutos de exercício fazem no cérebro após uma noite sem dormir&nbsp;&nbsp;g1.globo.comCaminhar por 20 minutos ou tirar uma soneca melhora memória, mostra estudo&nbsp;&nbsp;CNN BrasilExercício pode “substituir” um cochilo? Entenda o efeito surpreendente na memória&nbsp;&nbsp;Diário do Centro do MundoO truque do exercício para o cérebro após uma noite de pouco sono&nbsp;&nbsp;Portal UAIExercícios e soneca melhoram memória em 22%&nbsp;&nbsp;boca.com.br",
       "sources": [
         {
-          "name": "G1",
+          "name": "g1.globo.com",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNWVfUjNFYm9EVjRnQ2oweVdSOXp4eXR1YWtEQi1HQ0VPekZxdWJpSEs3V2hJRmZPUE8xdld0QzVVako1ZXJBVkxuc3RzazdXZERIcTZpekFwenRyTmFXVzFfeE1hUjFZRlplTXF6RHozYnJDV2ZUVk51eVBuWmpTTzJ5ZS1vZ2dBWlVxVmJseDBCODRLSDdOUTdIaDlNZ045c05hOFNqMS1VOEVUSVpDeTN4Mlc1czhMTFlRelZhVWJUd9IB0AFBVV95cUxPd1hHQkdoV3R2TkdSaGctY3VwZ216X0x6cWVFOVhobzl5VFk3NTBZYldLellpY1ZGRk9qblNsS1hYNWtxLVFJdmdpYmFycHQ1b2d4Z1RJc2k0UFJzeTE5NHMzQWt3RDVzek91MVg1Zk95Q2pLSExqeEhnRGxnZXJ6RUU5cUVoM2dqREE0ejc0SkpwenVMcm9Yd1NObDR6V0lmRkhyZV9ib1dLZHg4TkNZWlZoRHlua1ZZa0FPbFNyeW5aQWFPT3lya3RpQm1PcHJI?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "edb5ec9ba3c9",
-      "title": "Tubarões do Rio estão cheios de cocaína e remédios: por que isso é perigoso para todos nós - Estadão",
-      "published": "2026-09-01T23:00:00+00:00",
-      "summary": "Tubarões do Rio estão cheios de cocaína e remédios: por que isso é perigoso para todos nós&nbsp;&nbsp;Estadão",
-      "sources": [
-        {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSnlLUmtMdmVpX3NKSGFNSG9UTlBoVWVvWGRuUnBLbjZPcmFfZTlGZXR1T1dwQTJtX0JJbmlpY0xLR2RIa3ZTZGxLelVtT2swaVR0THVWVFdIRVJObU81SlBIWGNXSGJrUFRmend1X3hSWF9QUTNRSHg5MzBQNjVyaDJuSmZuY2F6TlA1S184UV9fZUl5TWFITGlIM3ZBT0hZUFM1aWx3amczYUhYbVpNQ0dETmNLckpuQm5VN29jX3A2ZGfSAcgBQVVfeXFMUFlncmJjWUxORXpWUWc5MEJ1ZWZSYXZzUjlpTkQwalpJNXZ6elNpaWNsdUJmMVFGeFVEUjRIOWxKUXZJWDVsRkdvSl9LbldoMmVTd01Vemp4cVNmVzZGRklmYThEdHZOV0VEdk9VMjVUTUdVUGxtd0hic3Z2SmZPOWx1WkJfbllJQUVkbEJkcTBMYzA2eVBXU0cyLU05SjhYNTl3Y2E2Ty1menRjN2R4Wkd3RkxGZ0VCcVVKR0U4d2kxaFZtZlB2Mlo?oc=5"
         }
       ]
     },
@@ -117,23 +105,11 @@
       "id": "286550ba07ed",
       "title": "Envelhecimento e mau hálito: veja quais são os 10 efeitos colaterais das canetas emagrecedoras - CNN Brasil",
       "published": "2026-09-01T20:25:13+00:00",
-      "summary": "Envelhecimento e mau hálito: veja quais são os 10 efeitos colaterais das canetas emagrecedoras&nbsp;&nbsp;CNN BrasilOzempic Hair: entenda a queda de cabelo ligada ao emagrecimento&nbsp;&nbsp;Correio BrazilienseMedicamentos contra obesidade de origem duvidosa e uso por conta própria são problemas crescentes de saúde pública&nbsp;&nbsp;TerraAumento do mercado clandestino de emagrecedores alerta especialistas&nbsp;&nbsp;noticias.cancaonova.comComer menos não significa comer melhor: veja 5 cuidados ",
+      "summary": "Envelhecimento e mau hálito: veja quais são os 10 efeitos colaterais das canetas emagrecedoras&nbsp;&nbsp;CNN BrasilMedicamentos contra obesidade de origem duvidosa e uso por conta própria são problemas crescentes de saúde pública&nbsp;&nbsp;TerraOzempic Hair: entenda a queda de cabelo ligada ao emagrecimento&nbsp;&nbsp;Correio BrazilienseUso de canetas emagrecedoras sem acompanhamento médico pode causar perda muscular&nbsp;&nbsp;Jornal da USPAumento do mercado clandestino de emagrecedores alert",
       "sources": [
         {
           "name": "CNN Brasil",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeWQwQzNqYUNwUHZ3cXRFUTZDRFZ6Qm9ncFNjMkxud1d2aHA0SlRDaUNVSnJueW5KNzJscGJQMy03RDN4OF9uWDM4SjdmeDY5ekRENkxHeUpXcjc3MTV0aTJKX2xrbG5zdDM5LUxCS3lBTGtOeG9PT1IzQXB4NmZIMHEtR1BHSUVUVlJqNmlUdTdGcmxnZ3dBMWlNN2FVeFF1dFBuTVBUQnVNN1FadHJVR3dFWlUxSkg0N0ZpcU9GMjEzVElHSk5CMw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cdf71040d690",
-      "title": "Comissão de Assuntos Sociais aprova vacina contra herpes-zóster no SUS - Senado Federal",
-      "published": "2026-09-01T18:09:28+00:00",
-      "summary": "Comissão de Assuntos Sociais aprova vacina contra herpes-zóster no SUS&nbsp;&nbsp;Senado FederalHerpes-zóster pode voltar e exige atenção aos primeiros sintomas&nbsp;&nbsp;G1Como age no corpo a vacina contra a herpes zoster e quem pode tomar&nbsp;&nbsp;Correio BrazilienseVacina contra herpes-zóster: quem deve considerar a imunização?&nbsp;&nbsp;Jornal PequenoVacina indicada após os 50 anos foi ligada a menor risco de infarto e AVC — e o coração nem era o alvo&nbsp;&nbsp;Diário do Comércio",
-      "sources": [
-        {
-          "name": "Senado Federal",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWmltaHRaWGM2WWJHcXhLeGM0X2g3MVFDcXQ1MTdOaXZsZEx6NXFELVlRTU95VExOanNQc1I3LVZ0Q1Z0UFdQNG5kZkpZd1drZmR2SmY1YXdEbmlkamxoWGk5LUQwREVBMXJKTzFZeGZ5aGlBc2hLZ0tYZXpYYktHNE1oUDFoeVBxZzliWDhaekJmWmQxdHR4Q3VJbVY0WFFEYUM0dDU4MTY0aXRVdFJXSnVXYlBwTy1YNWtJYTFKcmpvN2VhWVE?oc=5"
         }
       ]
     },
@@ -150,50 +126,26 @@
       ]
     },
     {
-      "id": "8436adfb3f1e",
-      "title": "O que é o \"sexo por compaixão\" e como ele afeta a saúde das mulheres - CNN Brasil",
-      "published": "2026-09-01T16:50:49+00:00",
-      "summary": "O que é o \"sexo por compaixão\" e como ele afeta a saúde das mulheres&nbsp;&nbsp;CNN BrasilEntenda o que é o “sexo por compaixão” e por que deve ser evitado&nbsp;&nbsp;MetrópolesEstudo revela que \"sexo por compaixão\" pode afetar a saúde mental de mulheres&nbsp;&nbsp;BossaNews Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUnNJQWFJMkRma3ZQdGJEUWRPUGRmRkFueU95OXctVDFRdDMwSnl0dFltdDdOWmI1a3habUd4RzJpeVBpc1VEWHlQSUdGWmRXaUJtV1hfdUNCMmZVX0oyZ2oxclQyWXFyTHZxNms4TVN3X1FnSG5CZUhNMUFQVS1fQkxtMWxxNkd3cUg5aXRyVVhyMVBtRjVMRUVFYkpOdVNyQy0yWUZQUzlPaDU4cHc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cd231eff62f4",
-      "title": "Por que o pênis é um termômetro da saúde masculina — e como prestar atenção em seus sinais - bbc.com",
+      "id": "b8061e37e7ea",
+      "title": "Por que o pênis é um termômetro da saúde masculina — e como prestar atenção em seus sinais - BBC",
       "published": "2026-09-01T14:28:52+00:00",
-      "summary": "Por que o pênis é um termômetro da saúde masculina — e como prestar atenção em seus sinais&nbsp;&nbsp;bbc.com",
+      "summary": "Por que o pênis é um termômetro da saúde masculina — e como prestar atenção em seus sinais&nbsp;&nbsp;BBC",
       "sources": [
         {
-          "name": "bbc.com",
+          "name": "BBC",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13UURDTzN1VVI4Z1lKbU9jVUxQcjNPaUpRN1RQMHQ5VGhCcV80TVc3cWhneXNUNzM3WGs4cGkwUEtqWmxWVk9PekNLNFRnTHFFM2JKTlY3VmFubVpKUzFKU2tn0gFnQVVfeXFMUFRiNGZjaEdZWC1pb2N4QnZvTTJyMEJkZ0R3elgtZVNyNGs4bThmalpST19LSDFGMXhpOEFvTXQzaUhqQXRWYUt6U0VucF9icTZTSTJUcVNNSkNjQmZxancyZFB5QmItSQ?oc=5"
         }
       ]
     },
     {
-      "id": "1b1dc7df18df",
-      "title": "Campanha Nacional de Multivacinação encerra nesta terça-feira (1º) com mais de 8 milhões de doses aplicadas - www.gov.br",
+      "id": "722ee2989dd1",
+      "title": "Campanha Nacional de Multivacinação encerra nesta terça-feira (1º) com mais de 8 milhões de doses aplicadas - GOV.BR",
       "published": "2026-09-01T13:15:00+00:00",
-      "summary": "Campanha Nacional de Multivacinação encerra nesta terça-feira (1º) com mais de 8 milhões de doses aplicadas&nbsp;&nbsp;www.gov.brMais de 400 mil paranaenses participam da campanha de vacinação&nbsp;&nbsp;G1Dia D da Multivacinação cresce 34,6% em Cuiabá e ultrapassa 13 mil doses aplicadas&nbsp;&nbsp;cuiaba.mt.gov.brCampanha de Multivacinação termina com mais de 24 mil doses aplicadas em Vitória da Conquista&nbsp;&nbsp;Prefeitura Municipal de Vitória da Conquista - PMVCCampanha de Multivacinação p",
+      "summary": "Campanha Nacional de Multivacinação encerra nesta terça-feira (1º) com mais de 8 milhões de doses aplicadas&nbsp;&nbsp;GOV.BRMais de 400 mil paranaenses participam da campanha de vacinação&nbsp;&nbsp;g1.globo.comDia D da Multivacinação cresce 34,6% em Cuiabá e ultrapassa 13 mil doses aplicadas&nbsp;&nbsp;Prefeitura de CuiabáCampanha de vacinação é prorrogada até 12 de setembro na cidade&nbsp;&nbsp;Prefeitura da Cidade do Rio de JaneiroSaúde aplica 27,7 mil doses em Londrina durante Campanha de M",
       "sources": [
         {
-          "name": "www.gov.br",
+          "name": "GOV.BR",
           "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNRHNZN3hyMk5oS3Jzck5Pby1YdGM3blp4OHB3RjhsVDItektUOTl1QXJCY05idUlXUEhXaE1qSnVnZzhfRXZSUm9VUWdlTTZYSWxMaUV2cVBkWVpZSmltZjVJRXMxUFN0ZjVBMHZXc29kd3RVRW1PWGw4VVVzY3QtNDBaeXBLODFYRWo4bmFDV3dweXJKTEpOU1c5NnpmYjR4QWxIbnlRZmhXdE1ySTl0UmFUX1FQNWVBYkhrcXl2R193eGRVOXROQnp5MW82alQ4d1pHMnVPQWQ5MUM2QjhXdFpEWEg1T0lraVphQkZCOHVrTnRfS1ZRdUZrT3VVN2xO?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "533f06934080",
-      "title": "Diabetes tipo 5 pode estar presente no Brasil e requer tratamento diferente, diz médica canadense - Estadão",
-      "published": "2026-09-01T08:30:00+00:00",
-      "summary": "Diabetes tipo 5 pode estar presente no Brasil e requer tratamento diferente, diz médica canadense&nbsp;&nbsp;EstadãoDiabetes tipo 5: como identificar e não confundir com tipo 1&nbsp;&nbsp;portugues.medscape.comDiabetes tipo 5: Brasil prepara rastreio de doença ligada à desnutrição&nbsp;&nbsp;Correio BrazilienseBrasil vai começar a rastrear diabetes tipo 5; saiba o que é a doença&nbsp;&nbsp;O GLOBOBrasil vai começar a rastrear diabetes tipo 5, pouco conhecido e associado a quadros de desnutrição&",
-      "sources": [
-        {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWnV0LTZoU2xidllkZTdFZDlEQkw4azFlWDNQYU1ndG5qRHQ5VUxtaHZhMzdrQ3JVXzlYRkVEek5UZFFQcGJyOFRKZzdPYkdhOU82RFlzNmpBTEhOTW9nOG83allOM2lSMmFIZmZMdXNQWl8xNWJ2MktZaVlnS0RxTG01TldxZm9pREE5Rk12QnNwdW9TVzg5NkNtVHFwR1NtVVpfSTBveWhCQmw4YzV5LTY0SFpKTFVjS1RsNXo3R1YzYTVhRFRrZjJQRWxWV0NXLU9sbW1yNWZFb19QbkdXeUUyWQ?oc=5"
         }
       ]
     },
@@ -201,7 +153,7 @@
       "id": "23a5b2d535ac",
       "title": "Capacidade intrínseca mede a reserva de saúde durante o envelhecimento - Folha de S.Paulo",
       "published": "2026-09-01T07:30:00+00:00",
-      "summary": "Capacidade intrínseca mede a reserva de saúde durante o envelhecimento&nbsp;&nbsp;Folha de S.PauloVeja mais manchetes e perspectivas no Google Notícias",
+      "summary": "Capacidade intrínseca mede a reserva de saúde durante o envelhecimento&nbsp;&nbsp;Folha de S.PauloQuem tem 70 anos hoje pode ter a capacidade que uma pessoa de 60 tinha há 20 anos; geriatra explica por que o envelhecimento mudou e o que precisa começar a ser observado já aos 50&nbsp;&nbsp;Tribuna de Jundiaí",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -210,50 +162,134 @@
       ]
     },
     {
-      "id": "a286620326e3",
-      "title": "Doença de Creutzfeldt-Jakob: mudança em proteína danifica neurônios 'em efeito dominó' e tem rápida evolução; entenda - G1",
-      "published": "2026-08-31T14:50:06+00:00",
-      "summary": "Doença de Creutzfeldt-Jakob: mudança em proteína danifica neurônios 'em efeito dominó' e tem rápida evolução; entenda&nbsp;&nbsp;G1",
+      "id": "e0e8b093cc14",
+      "title": "Cientistas conseguem derreter diamante em laboratório e avançam em hipótese de ‘chuva de diamantes’ em Urano e Netuno; entenda - O GLOBO",
+      "published": "2026-09-01T07:02:00+00:00",
+      "summary": "Cientistas conseguem derreter diamante em laboratório e avançam em hipótese de ‘chuva de diamantes’ em Urano e Netuno; entenda&nbsp;&nbsp;O GLOBO",
       "sources": [
         {
-          "name": "G1",
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPelNZcFpma2lVcXVSRTM1QWtkVlA5WVh4Y2VBcVh6WFpzd1VGSkhVR3hmS1l4elMwdTFSck5jdEoyNHZHdmJKRlhUa3lWaXZVbThzZVh0c1N3b0FJMDdRRTY1SnNWM0M4Q1h2VHp1cEVfY3YxeDNqYkdSb3V1eDUxZ290ZDRSSHJwY25oRndGbXo4SVA2UE8ySDdVVWFoclFtWFlqS0phcWhLRUdRNm02RW1rZE8tV2cxVmZMYWd2aThzdnVRMF8xS0NyRGNYdnNkN1llYkoycVVPUW4tR1VPR3VvUXA0TnFhbXlsci1hMExZV3V1TjBmYjQtS1lSeEFySFNQa2t6VTE0dU03TTd3bldQcVJ5SzdFdkotWm1hRDXSAa8CQVVfeXFMUE9iTS1CenNTSEV1OElWazJRN0RXNVhDQUhCblA1V2Fya25INm9TbnN5RThzRUxyN0lObXNMSU5pcnpwN1NaM2dsNEZpcW5waERmek96VDdMZWt4ZkRMVjNFR3dlQjhUVHhUOHBEOXRyN21yUU1GX2cxd0N3VGd6eldBX1dBekh2WVQ3a0w5M0tWR2d5RERybHR5LWFXSEJxdVA4cERteWNpUXd0TE5EcWxqandlQkRTQjdHck1yNHFvU2lkOTZ2cXpCeGxVazNmZWw0Z3Bobm1Xc1dCSG5IMjFmd2V2U1pjNkV5Wnl0MGU4RWp1cXo5TFpnWDllOWV2THZMOHRzT3MyclFNRXI5UERBVi1pZF9VN2dVOXZBakdINDgxbC1DOF9sUjVMMVBJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "db82c33a3e84",
+      "title": "Muito além da obesidade: as doenças que Ozempic, Wegovy e Mounjaro podem ajudar a tratar - exame.com",
+      "published": "2026-08-31T22:40:22+00:00",
+      "summary": "Muito além da obesidade: as doenças que Ozempic, Wegovy e Mounjaro podem ajudar a tratar&nbsp;&nbsp;exame.com",
+      "sources": [
+        {
+          "name": "exame.com",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON1dwaktObzhFdkliR01SX1pUbEhNZ3ZnTkR2NmpGTW93U3RIS1hlUHpIMzZBN2pFbXVhclVJeHhvRHJjM3JiNm8zTFlXbm9VbUtTVW5ONUpUNFpwUTJiYzdfeUgzcDRuTHpVRkxyWkw5cE9SSVFuaER1Z0xRY3JvdnhvNERfV213anpYMmVKMWlkWjhMdmtFVkpjTnJKc2dYVWlvVmdOcDktNW0zbkQ0WFNZcw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7c659765ec52",
+      "title": "Fapesp deve revogar corte de bolsas para pesquisa no exterior após polêmica - estadao.com.br",
+      "published": "2026-08-31T18:31:22+00:00",
+      "summary": "Fapesp deve revogar corte de bolsas para pesquisa no exterior após polêmica&nbsp;&nbsp;estadao.com.br",
+      "sources": [
+        {
+          "name": "estadao.com.br",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcE96SUtIY0hLVFhNaTQzR01GcG55c2xCU05mT3dqVWMyRlB4Y18xWHhQaDV3cWpEUERYSjNxdWdaRTl0ZC1MbXBNUC1BN2lVbWU1VnI4YzlacEZ6V3Q0MlVHZUZpRjYyWmoyeHk0VGVEeE5zLUVhclBHVER2Nkc4QWhPdUJUQ2VHSXpsMDhTa0RLMlF3ZFppTjlzSFlEM09LNE9LWVhVVUlILU96T0d4WjhB0gG3AUFVX3lxTE13d1pBTUpxdUJJcE56MHB5Y2FaVWZ1UG1lODBBMk5zblFmd194c2lxQ184MXR1TkREVlM3b1VYR3hNSzVDdk9Oa1ZEMEEyaFE2dUsybHlzbEViSS11TmU1UnpsS2Z0cGNfRmJOQjVFMkstcVhCSkE4REpEeC1wd29MSDQtdU1yS2t4cV9FNmRZWHlRM2FnNk8zcmE3RlMxZnZSQ21qYzRWbmwzbDBwVlMxQXZrOGs0Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "da0c35210b16",
+      "title": "NASA identifica exoplaneta 23 vezes mais massivo que a Terra a 53 anos-luz, com tamanho cerca de três vezes maior e órbita de 36 dias, em sistema que também abriga o primeiro planeta de tamanho terrestre descoberto pelo TESS, capaz de completar um - CPG Click Petróleo e Gás",
+      "published": "2026-08-31T18:12:00+00:00",
+      "summary": "NASA identifica exoplaneta 23 vezes mais massivo que a Terra a 53 anos-luz, com tamanho cerca de três vezes maior e órbita de 36 dias, em sistema que também abriga o primeiro planeta de tamanho terrestre descoberto pelo TESS, capaz de completar um&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNWUk0bkkwMzNkMldGaGZVM1piRjVfMnUtNmphMU1nSVNPSjl4Q041NFZLNWFMREdjS1oyX2pWNWtWZUFyd1M2T0IzS3lDRUVaT0dyV3JxenBqeWtyNjQ1OFVuUDljcjUxMjRmd1NlNVgzWHpkcUp4bnB4azNBbmJscGJwV05iQl8ySVQyUXZJUGZ2SWZrQmRhVlRDdEVRNzNVbUdJOHBwUlNRN21yN29FbWVySUlFQ2NIbnNaS3BFRGVWTWxQUXZEdjJzdnRwVjAzS2VCMEllODlQbHAxVmZKWkYyNzhTbWNMZW9nT2hLXzlTV0lVUVlQQ3VxaXVCc2dvcnA0NmFKVW9FRXowNjlOT1l0aWJ1R2pFR1p5RG1wd0UtbmxDaEM4SXR2a3ZfRjNBUlhObDlmT3NrTUpoLWdrWk8xSW4zZkU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5e6545586cad",
+      "title": "USP abre concursos para Professores Titulares nas áreas de Psicologia Clínica e Experimental - PCI Concursos",
+      "published": "2026-08-31T17:36:34+00:00",
+      "summary": "USP abre concursos para Professores Titulares nas áreas de Psicologia Clínica e Experimental&nbsp;&nbsp;PCI Concursos",
+      "sources": [
+        {
+          "name": "PCI Concursos",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPS3dxSjlGbkRJX05xNTFRTGxMdVYxc2F6MEtpcFJ5OXE4eVc2Qm5oSWVEQVhuWmlGRmVqYXBzNzNWZWg4b1BHcF9JWDlia0p6cnRVU19nWFB1bGlLakxSVi1FQlNSUW9ZZTdZSG0yLXRXX21iczV5ZnFsQ09WajJuQ0hramVLeVhraDdDZm1RclF6THBaVlFlU0hIcjZSOUlsc1h3WnF3UmlMR2NYRTRQZWVGTVBMdF9hMi13YUpFZ1M4d25IX3R3MnVrc3oxQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2bab41b34518",
+      "title": "Doença de Creutzfeldt-Jakob: mudança em proteína danifica neurônios 'em efeito dominó' e tem rápida evolução; entenda - g1.globo.com",
+      "published": "2026-08-31T14:50:06+00:00",
+      "summary": "Doença de Creutzfeldt-Jakob: mudança em proteína danifica neurônios 'em efeito dominó' e tem rápida evolução; entenda&nbsp;&nbsp;g1.globo.com",
+      "sources": [
+        {
+          "name": "g1.globo.com",
           "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRWt3LXVjTkwxbVBVU0lqTUFtUHFJLWY4QURIdnBYRlN3ZXdDejNmTlRzYmxQaTByd2h6RUtMRnZJdUFFUUFJcVRVaXdTTHFHSGRBY2FYSjNTc3BJeXZwZGJLV0hZYjZYN0tLSElTMlhpT0tOd0JBYi12d2IwTWJTcUc5ZlJjMVg4OTV1cVY0SXotNXZQY1Y3Y1hrRlJKNzdYYktKWGpGSHJHSXN0RVpFeXBKcmlXb1ZjeTJGdXhVMjl5Wnc3RjVSd212dHhXVmFPOTFlQVU0LVVnc2dqdFRYcC1LcUc3YzdlNHBLZ3NQS05aZVJId0JxNHlKc3XSAYsCQVVfeXFMTThaazlNT21EU2J4RVUwVHNaUEh3bzZVcWNFNWpjWEhwdnhoS201RW9nUWtjbTJWVktOeFJ4SGhjOUItZjVWOWlYN0xIdDZLOV94V2REOG5IX04xTGgteWF1czA2YktfOG9qQloxaEx6MkN4QS1LeVppeVBBSmF4ZDFISTdYUEpxRE9TOWp2a1RHYzdGZVFZT3kxbmN6SmZCdl85d0JhOEZwTUVIREZJbER5Z3VYVk1Zd0xSUnNHb0NXWnN0dHFHV2RZcWZPcTk2MG5RUUliZm9LYnUxOFBmSkRNeHpQc2p6X1Q5bnI4cUJtaVJ3YmlZQk10VlFjcUR0R2pzam5pNUpKNjY4?oc=5"
         }
       ]
     },
     {
-      "id": "c68a0d2f980f",
-      "title": "Anvisa aprova novo medicamento para câncer colorretal metastático - www.gov.br",
-      "published": "2026-08-31T10:07:00+00:00",
-      "summary": "Anvisa aprova novo medicamento para câncer colorretal metastático&nbsp;&nbsp;www.gov.brAnvisa aprova novo medicamento para câncer colorretal metastático; entenda&nbsp;&nbsp;Época NegóciosChega ao Brasil novo tratamento contra câncer que é o 3º mais comum do país&nbsp;&nbsp;40graus.com.brAnvisa aprova fruquintinibe para câncer colorretal metastático previamente tratado&nbsp;&nbsp;newslab.com.brAnvisa libera novo remédio para câncer com metástase que reduz a formação de vasos que alimentam o tumor",
+      "id": "33da81d437eb",
+      "title": "Mais de 40 anos de pesquisa brasileira na Antártica - Agência Marinha",
+      "published": "2026-08-31T13:30:50+00:00",
+      "summary": "Mais de 40 anos de pesquisa brasileira na Antártica&nbsp;&nbsp;Agência Marinha",
       "sources": [
         {
-          "name": "www.gov.br",
+          "name": "Agência Marinha",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTFMyOV9kZ1dSd3RBSlZsOGRacHZOUGRNOGx2aERkQjBSNXpuWVRyQXlhX0htOUs0YnRROXk4MzhtVGdYMzJBelBpYzZBSHNYeXkzaC1YcnB4S2RITi1QMWtuUFB3YWN5VmtBblhmdTFOc0VJa2dtZm9OWTB0WGJYaE13TGJqNkYteFBIMzc1YlFTdXdpRjJsb05UNEhDRVh5QTZN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5239ac69263b",
+      "title": "Anvisa aprova novo medicamento para câncer colorretal metastático - GOV.BR",
+      "published": "2026-08-31T10:07:00+00:00",
+      "summary": "Anvisa aprova novo medicamento para câncer colorretal metastático&nbsp;&nbsp;GOV.BRPacientes com câncer colorretal têm medicamento aprovado pela Anvisa&nbsp;&nbsp;agenciabrasil.ebc.com.brAnvisa aprova novo tratamento para câncer de intestino&nbsp;&nbsp;VEJAAnvisa aprova novo medicamento para câncer colorretal metastático; entenda&nbsp;&nbsp;epocanegocios.globo.comAnvisa libera novo remédio para câncer com metástase que reduz a formação de vasos que alimentam o tumor&nbsp;&nbsp;Diário do Comércio",
+      "sources": [
+        {
+          "name": "GOV.BR",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQjdXZ1dnSk1qMDNiZEFkeWVOdGd5QVhBWnBuLXpOazVyelVQMExKbFgwNDJFS1VkMGdZUzBLaElqMnUydzZGbDduUmlNNWstTE43NUtuN1YyLXVleFNLbVVkVnoyc1JlTTJBaUxOVXVJY0oxbzVxMHlQR2V3UHh4dXNFbEFVTERuQ2tsd0Y4MFQxaUx5SW5pdTJnakQ1N0NOTHQ0Nlpmc0JwdFkwdkx0RG5DcVBhejcyQ25FRVFyaFdnZVhFVlE?oc=5"
         }
       ]
     },
     {
-      "id": "05887b531e8f",
-      "title": "A ciência do perdão: estudo de Harvard revela como o hábito de deixar as mágoas de lado ajuda a viver melhor - G1",
-      "published": "2026-08-31T02:07:48+00:00",
-      "summary": "A ciência do perdão: estudo de Harvard revela como o hábito de deixar as mágoas de lado ajuda a viver melhor&nbsp;&nbsp;G1",
+      "id": "da549055a7e1",
+      "title": "Novas 'canetas para músculos' prometem combater perda de massa e envelhecimento; entenda - O GLOBO",
+      "published": "2026-08-31T07:30:26+00:00",
+      "summary": "Novas 'canetas para músculos' prometem combater perda de massa e envelhecimento; entenda&nbsp;&nbsp;O GLOBO'Canetas para músculos': novos medicamentos buscam combater a perda de massa muscular&nbsp;&nbsp;TerraNovas “canetas para músculos” prometem combater perda de massa e envelhecimento; entenda&nbsp;&nbsp;Jornal O SulNova febre? Cientistas desenvolvem \"caneta para músculos\"&nbsp;&nbsp;Diário do Centro do MundoRemédios para preservar músculos avançam na esteira das canetas emagrecedoras&nbsp;&n",
       "sources": [
         {
-          "name": "G1",
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZjZPOXdZUU5aZlNmTjBrUDlIUktjMnE3eUQ5eF8tN00ydVloOEQ1Y19PZXptT3BCcjdNVVRFc0RNNWpJWkNrNGN3bWZvcWVvU0tKRkdlSm1Zd0lnTG9yVE1rZWFxam1faEhhNWR0eWNLOHlwQ0dfVWFIZmNJLURmbVY5ZWIwQnJ6LXJSRXhqUXl5VERrcWZpU3FKUlNYWWJJaUtiY195NTZCMmlXaVRDTkQwTzRkdkF0WkxyYmhndUw3SHQta1VOSVhNVFJwVEwzSVI4YnJGaFPSAecBQVVfeXFMTzF2SlJBWEZkelIydnNIc0t0cm9NVTV6SzRBOGxWRldRUTB1eldXSkVEaVZOMHZxVlhPRXk3Zjh1dDZwVzVEbEd4cHJKUFV1UjNMZjJ0T1oyOHd2alJMOWFEWWI0a2ZtNG13S2psLTgzN2R5R3hmbTlySkVhV2g3a0Y1eDRJdElNQlh2YnVydDBmanhWYWVrVlBENmdOZ2JxWmNBQ3l4S0pEQzEweENPQk56Z0Z2QmNHU1k5SThuc3VhcmduNm9qRFRfbUFQZy1KWWJOMXJkV1ByelJKbXB0NUpOMlFRcmRn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "94b29ca97916",
+      "title": "A ciência do perdão: estudo de Harvard revela como o hábito de deixar as mágoas de lado ajuda a viver melhor - g1.globo.com",
+      "published": "2026-08-31T02:07:48+00:00",
+      "summary": "A ciência do perdão: estudo de Harvard revela como o hábito de deixar as mágoas de lado ajuda a viver melhor&nbsp;&nbsp;g1.globo.com",
+      "sources": [
+        {
+          "name": "g1.globo.com",
           "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZzhyMWJyQ1pJWVBzX0tqYW9QcHFmcmxvMW5GaWZHSUplMjlzaTBZXzVocnBtdVk3SG43ckNRa25qZjNHTDh0TXRWcTNqV3otV0xqNlJVNzhhMU5ndE1XWEw1X0pJd3NPS3Q2YmhaUTJDZGIxcFpkWEdoT1BWZVc1MlBKdDFGNFRWMEVuQUFlbWNtZWwtOVZvSkJBYXViRVBuY2xSdXBGSFNqci1sd0xCbTQ1WTNmV0F2Ykg2bDNZMm95eUpybHdYYlo4SUg5S1VMVHdoanR1bk0tQkxnWHdSbFZfdktUNzFzcjB4S01zbEFXZ9IBgAJBVV95cUxPeC1UTzVZV3BHRlpYalFpSTlMLVR4Q1BJQ2U3NkJVWUt1ZVVMMG1SN1lXSW4tS2FBY0h2R29GN0IxR1pjR1haSFJ5T3RXaUZGck43RlRtdXkwSjJtTzd2NXlJaDNndmZrZkpZeG9jdlJZaE9fTkxIZzRkQTRYbjdhR3ZaRWdvV00xQU1aSk91dHJINXdMeF8wQm5IN3Vnay1WSVMyLVNxeWhWOXE4VDhvX2ZIYy05R3ZFRjZ3cHhUa08tUm9oYjZqOUhvMnotZlZSQTFtdFdlNUlmV3NIX0dkMjRKNlJZS3ZkTG15RU1wUlZGRGVFc0ZoVGJMR0lBRkc1?oc=5"
         }
       ]
     },
     {
-      "id": "938b14375821",
-      "title": "Fiocruz Petrópolis inicia curso de formação em controle social e participação popular para agentes comunitários de saúde e de combate às endemias - Tribuna de Petrópolis",
-      "published": "2026-08-29T19:15:26+00:00",
-      "summary": "Fiocruz Petrópolis inicia curso de formação em controle social e participação popular para agentes comunitários de saúde e de combate às endemias&nbsp;&nbsp;Tribuna de Petrópolis",
+      "id": "74ed99899fcb",
+      "title": "91% das mulheres do DF já sofreram violência psicológica e 82%, violência física, diz pesquisa - g1.globo.com",
+      "published": "2026-08-29T05:00:40+00:00",
+      "summary": "91% das mulheres do DF já sofreram violência psicológica e 82%, violência física, diz pesquisa&nbsp;&nbsp;g1.globo.com",
       "sources": [
         {
-          "name": "Tribuna de Petrópolis",
-          "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQcFRFNFB3ZXI2dnZ5LUowb3lTVU94RHloc2FzZmN2ZXJpaEhKYnpXZ3Q2THpFeFdtdDBaUjFUcDFPZGVPQmxZQkdQNWY0ckFQRVd1X0Z4N0ZJVDZuRGhkeWtsa2lKaFpBRS14a2U3YXNIZENMT3VrR3lSaGdzLVo3R1ZXaVROZ0p1UTVpQjQ4emlMMjVCcE44TW9xaGIzdk90ZDJFc1ZQVW9la0FZYlI3VzB0djJ3YWE1ZjhlT3ZvUDMxT0wyeThlbEFjS2FiUTBHdmlnV3VqU0FiYnY2eTMwckNMYmk5SkQzRGcwZFQxYkpIZGQyVDZ1TnlLQTdCYS1tdHAyTXJuUDZlVGtPbTBOak1NV09nOUtCUGc?oc=5"
+          "name": "g1.globo.com",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQZnUycVVycDlfTTVhZHhPSDN0WDdwVWNUektFYV91NjdnNmpodjJFSHFfQlQxVnpUaWN3VVJ4d0lpY01qQno3WWxYYVJkRVVYY21yVEtwTy12blRhWmRxNVVzMmtyYTIwaUR5b3NnVGRoOWc0eTRSQnhXbFh4VW45bUx0MG1sc2JVbTVlY0VORWpvUVhqYzRHZG9wLWNJY0pDSVpwRy1BOEdXN1k0SERzX3lrN0hReUJIYjJjbGZOdG0xX3l6cm1nU3FZc3pZdzNLUWFBWWxsWGEzakhHYThlZ0R6cE1kMW5PekNuX0hQd19LT2c3YVJ0N0hxenZnN03SAY4CQVVfeXFMTXhuRlM0TmNPVi1ELWhrMERCcnhpRDBVNjliVzRFTHhSb2tEVnVMcG5yTXZxXzJ5VGw1OWRzbnY1bVltSFlDb3ROMEF2eVNLWHduZlRPcDRVSXFBcS1rd0dnSldNTVF6ZmF3VlgwbTVDZWpNNjBVa29LRV85d010c3NsNE5RUUdlZXJzQ09oRXZlb1BoeS03aU0wLWl0SjJBclR3R2NLZXJwcVBoUThGTHdwSFZTcHFTN3RnVFhtbEZOdFMwVWozMU1NOGRHMG1lRGV4cS1ZM241c3dGaC0xSHdkeDV5XzRXdnR6NEVIQUlIakJLWkM4M1hlY0NYLUF2NmdnUzlubjJBNG1TYjhB?oc=5"
         }
       ]
     },
@@ -266,18 +302,6 @@
         {
           "name": "UOL Notícias",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYVZISHNXVTJwQmpudUh2LVB0RmMzREpKcUFVekMza0RzOE5YZC1DMnlVZGhlTTlkbXJYQTYwbGQ4VVh5cmJ1TlJaUHNCdm1VRnhzVmV5SjhZcEtZRzdvWXB6aDViZTBhSl9EcHhZbmFYd2h1cVNIdS05Z0ZJaUdaX3dEaEJLOHZBV3FiZlFCSFo0STdEaHpBalJ2T3MyT3FSVmtRRzJVQUliSTkybVBkWlRjdTJDeFNtZWxKaHJmczY1RHVNOVJEbUJvYVBUbDVxNFY2UHh2UUhrUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d8f007470a97",
-      "title": "Febre do Nilo Ocidental: 8 perguntas e respostas sobre a doença - G1",
-      "published": "2026-08-27T08:04:28+00:00",
-      "summary": "Febre do Nilo Ocidental: 8 perguntas e respostas sobre a doença&nbsp;&nbsp;G1Entenda o que é a Febre do Nilo e como é transmitida&nbsp;&nbsp;G1Sintomas e transmissão da febre do Nilo Ocidental; veja no TJ Aparecida&nbsp;&nbsp;Portal A12Febre do Nilo faz vítima em SC e acende alerta para prevenção&nbsp;&nbsp;DIARINHOFebre do Nilo Ocidental: infectologista explica sintomas e riscos12:57&nbsp;&nbsp;deolhonacidade.net",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQUFVV0VOUm9NWHc2b1ExcjVmNWFmY2NScVVpcy1zbjNYMVI1dlVyeDZLT3ctVjhyZU1KLW5EaDJwcEdMTnNJVkRiSklFeHdTM3JNVHZEUXppMVZqZWRBeDhTRkZVcGVpWlp0RENscmx1Rjd3RUE3UUlVc0U4Vko4dXRxOTF5ckM4a3ZpZXVURUFXQmwxTmVqNVRrZUt3WVVuWFFvVnEzX1lVbVVaaVZVcnpseG_SAcMBQVVfeXFMTVJqcW0zazlLTjcyS1JtUDZiR2F3N3VFemdmSlJac2Nob1JpRDVzUXp4Z3RJSjBoRUZnanZTYTdDaVJ4bWV1TWxKVnREaGJ2Ny0wTzJCdGFvRHlicFc3YVU5d3l4dWUtYnpoTWpiMFVZVFJGV2wyeFo5UkFkV0gtU09aaFhwZkk4LXB1U0hNYmVWYmg3UmVuNXZpcld2UFlpTEg0TkRFb19yVTgtV2dmQjk5U1dULXlEaU4tYmxvM2VSME13?oc=5"
         }
       ]
     }
