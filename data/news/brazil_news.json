@@ -1,8 +1,8 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-09-05T03:28:24.083353+00:00",
-  "total_fetched": 95,
-  "unique_count": 93,
+  "fetched_at": "2026-09-05T10:08:15.700491+00:00",
+  "total_fetched": 96,
+  "unique_count": 94,
   "health_related_count": 39,
   "news": [
     {
@@ -18,10 +18,22 @@
       ]
     },
     {
+      "id": "1f30d88bd56b",
+      "title": "Estudo avalia como o hábito de escrever influencia o risco de depressão - Estadão",
+      "published": "2026-09-04T23:00:00+00:00",
+      "summary": "Estudo avalia como o hábito de escrever influencia o risco de depressão&nbsp;&nbsp;Estadão",
+      "sources": [
+        {
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcVlfSkhfTDJBbno5ZEQ4XzJqX196YS14QkNkeDVDX29pblMzbjBEOE4yck5nQ0xYTlgyamMzenBwc3RGN3pSZXhKT2JMcXZLNS1mUF9sNHAwVXhldE1kb2MtNEs0eG5FMlBjclY3RUFrb1l4aUtPdHYtdFFLalFqX054azZScGk1c2NMSjlLSmV5eUFTV1VNRXYtOWNKVGZic2h2YUpTQ3ZDZjU4TGczYTZ5NmQtbjVKS0tqSnR30gHDAUFVX3lxTFBEQy1TWnJfOXluWlB3X2Y0VXZheXBJUkR2MW5KV0RZcm9VaVZ4NGVFeXNUd05HUWJOVUJGa3E2bnVaUGl4UmVBaF9ZY0s4c1AxWVIzdVAtSUswaHcwZlRYUlZncXdWTTEyNUtWdWVwWWNZQi1tb0hBOEN0TGQ3d3paOGVjQm9acW05Nk0wRmp6QWlReTlfdDBialBkZXcxV1hRclozTTdYMTVPSmc0Wjl6ak1QNUhCS0RnYU9wS24ydzdYbw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "09670f682790",
       "title": "Sono ideal de adultos varia e põe em xeque regra das 8 horas - Folha de S.Paulo",
       "published": "2026-09-04T21:00:00+00:00",
-      "summary": "Sono ideal de adultos varia e põe em xeque regra das 8 horas&nbsp;&nbsp;Folha de S.PauloO risco ao seu coração escondido no quarto, e não na cozinha&nbsp;&nbsp;Rádio ItatiaiaDormir demais faz tão mal quanto dormir de menos? Entenda&nbsp;&nbsp;Jornal O SulA regularidade do horário de dormir vem se mostrando tão relevante quanto o total de horas em estudos recentes&nbsp;&nbsp;Tua SaúdeDormir 8 horas é dormir bem?&nbsp;&nbsp;InovaSocial",
+      "summary": "Sono ideal de adultos varia e põe em xeque regra das 8 horas&nbsp;&nbsp;Folha de S.PauloO risco ao seu coração escondido no quarto, e não na cozinha&nbsp;&nbsp;Rádio ItatiaiaPesquisas descobriram maneiras de dormir que ajudam a prevenir a hipertensão.&nbsp;&nbsp;Vietnam.vnA regularidade do horário de dormir vem se mostrando tão relevante quanto o total de horas em estudos recentes&nbsp;&nbsp;Tua SaúdeDormir demais faz tão mal quanto dormir de menos? Entenda&nbsp;&nbsp;Jornal O Sul",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -42,14 +54,14 @@
       ]
     },
     {
-      "id": "58cd88652d4b",
-      "title": "Óleo de hortelã-pimenta reduziu pressão em estudo de 20 dias - Diário do Centro do Mundo",
-      "published": "2026-09-04T20:21:09+00:00",
-      "summary": "Óleo de hortelã-pimenta reduziu pressão em estudo de 20 dias&nbsp;&nbsp;Diário do Centro do Mundo",
+      "id": "51175bbf1f90",
+      "title": "Canetas para músculos? Conheça medicamentos que prometem ganho de massa magra - Diário do Nordeste",
+      "published": "2026-09-04T20:45:00+00:00",
+      "summary": "Canetas para músculos? Conheça medicamentos que prometem ganho de massa magra&nbsp;&nbsp;Diário do NordesteAs 'pílulas do exercício' chegaram. Mas será que podem substituir a academia?&nbsp;&nbsp;O GLOBOVem aí a caneta que ajuda a não perder músculo&nbsp;&nbsp;tribunaonline.com.brComo os músculos podem influenciar a saúde do fígado, pâncreas e até do cérebro&nbsp;&nbsp;diariodocentrodomundo.com.br“Pílulas do exercício” não substituem efeitos e benefícios de academia&nbsp;&nbsp;Metrópoles",
       "sources": [
         {
-          "name": "Diário do Centro do Mundo",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRnVyVmdZNUNiaUNBWWpLYmFlNDVxMXhOZ0xvUHg4Y0I1OEVHdFNuX1cwSjkwRGFaRl9mY2IxaFU2Ym03YmZCYjY0Z1dxeU1RTnhHenlFRjVwbF9BQk1iVlBwOWhzUzhyLUVCamZrRlpKWnlpbERwQlhPZWlJTzhKWXh5QV9aaHUwSC15c3JOUWZzdExqTUtDeA?oc=5"
+          "name": "Diário do Nordeste",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbzJyek1kVlVQUWx0YkNKNU5Hak5qbEdRMzJSTTV6THhoN2NVQ1V0OUJSa2FpYVVtVVlSMzlOWm1DQktVY0t5QV9XTnhvM01NQlBvRl9TblROVERzQlBjOVBQbkllTmVxUWxWUG5Sd0RjRFdhTTVmX21QVzB5d1lxSE93a0lKakJfel8yQ3pwTE1iVTk2QVI5T1Bla3RjaUFwLW9qaF9tTk9aUk5sazRwZkR0eW5iU0VjMDF1dVctR1ZESHJRR1k4TnFtTS11QlFQRVBEUE5ZWQ?oc=5"
         }
       ]
     },
@@ -78,38 +90,26 @@
       ]
     },
     {
-      "id": "f0680170b22a",
-      "title": "O maior especialista mundial em longevidade revela os quatro alimentos que nunca comeria: \"são a receita para o fracasso\" - Terra",
-      "published": "2026-09-04T16:34:00+00:00",
-      "summary": "O maior especialista mundial em longevidade revela os quatro alimentos que nunca comeria: \"são a receita para o fracasso\"&nbsp;&nbsp;TerraO maior especialista mundial em longevidade revela os quatro alimentos que nunca comeria: “são a receita para o fracasso”&nbsp;&nbsp;Minha Vida SaúdeOs 4 hábitos alimentares que ajudam a viver mais, segundo a ciência&nbsp;&nbsp;Tua Saúde",
-      "sources": [
-        {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQRWgtOEs4eUZ4cUVpQlAySUM0cW83UTNsV0Q1SEpyWkZJc0twNnJ4YmxrT0FRWlBrcEExMnk1cHlBSnk4YmVrQVZOWW9UOTBGaFJfZkdoVHBNY2x3NG1Eb3F3Rzd2dWlLd1cyVnYzNUNyWjVvdnpVLTF6ZjN5eDBxQ0JfelBSQllncUFpXzc2dVFNQUxyanNEb3pndURGNXRUdVdDdVBia1ZscnJ3RHBYT2xYVktzSTBFcTEwYXFuaVBxSVpqWm9oRGI2bVgtXzNESERWclN3TTM1UjhfaS0waEhVMC12dllLamlveWI4WVB3Uk5ySnF0bDhVUFlSYXBTQ2FQX0gyZFNHVDQ0WVZ4eEI4bFZhV3Z3TXVJcFlQOW5FamRwZUR2WHU5eEN0WDU2MnByX2ZB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c62fe0bea5e0",
-      "title": "Peixe nativo da Amazônia ameaça o domínio da tilápia e promete mudar a aquicultura nacional após ter o seu DNA decodificado por pesquisadores - diariodolitoral.com.br",
+      "id": "0fec1cd0cc0d",
+      "title": "Peixe nativo da Amazônia ameaça o domínio da tilápia e promete mudar a aquicultura nacional após ter o seu DNA decodificado por pesquisadores - Diário do Litoral",
       "published": "2026-09-04T16:33:00+00:00",
-      "summary": "Peixe nativo da Amazônia ameaça o domínio da tilápia e promete mudar a aquicultura nacional após ter o seu DNA decodificado por pesquisadores&nbsp;&nbsp;diariodolitoral.com.br",
+      "summary": "Peixe nativo da Amazônia ameaça o domínio da tilápia e promete mudar a aquicultura nacional após ter o seu DNA decodificado por pesquisadores&nbsp;&nbsp;Diário do Litoral",
       "sources": [
         {
-          "name": "diariodolitoral.com.br",
+          "name": "Diário do Litoral",
           "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOMTdlVjhscVRjX2RjUFFwbUtmRUlSRnQ5MUVJclNTVTFYaFBqOFFCcVNPbjdfVF9VOTREUUJnRlkxVmYwQmdma3FxOEprUUdoNWc1eUJjS3h2eFQyb0xhSGhPd3I2QV9KX3E1aE5DUGVDMEgxOU1Tdl8xcnVyVXVSYXZxZmppLVNjdVlzSVV0MTJTMnhMTHoxQ1l3LXV0MzcxVlk3Z0JJMjlRdU5tR2NNTEtEZ05jSXM1ME5DdzhZN2xmMy1vT0NOcm5UbExBbGdyZ2xHSkNSWEFNQ0I0UWxhT3gxZXZFbjV1MG5UTWFhWlpQZ0taVjVqMFVRQkNtdzhGLVY4TUNTaG9TcUtteGZFVkhua2s?oc=5"
         }
       ]
     },
     {
-      "id": "a91f3c9536d6",
-      "title": "Estudo identifica supervulcão enterrado na costa da Inglaterra - revistagalileu.globo.com",
+      "id": "302baf272524",
+      "title": "Estudo identifica supervulcão enterrado na costa da Inglaterra - Globo",
       "published": "2026-09-04T16:18:22+00:00",
-      "summary": "Estudo identifica supervulcão enterrado na costa da Inglaterra&nbsp;&nbsp;revistagalileu.globo.com",
+      "summary": "Estudo identifica supervulcão enterrado na costa da Inglaterra&nbsp;&nbsp;Globo",
       "sources": [
         {
-          "name": "revistagalileu.globo.com",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSzc5dDdPckhQWGstbFFEaThrOVRkNnNvYllpQlVtQmp0bG1OQVNWMFVoRmFqQk5KRVdwbU42aEVXZGdGN095T3JndUtjdW5BMl8wQ3k1aUFUbWZFTEU0Q3NEcE1tdEIyYkoycEZzX0E3MF9VR0p5RkxxU01rdkVTSEpGVmN2a2pGMVdQQ0VBMWJ5d2JMa09GY0U3NGdSMFZaX05nd0YtYy1iMldTaDFPMUtSZmJKdTctQV9Lb2tKa1hqRWc?oc=5"
+          "name": "Globo",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSzc5dDdPckhQWGstbFFEaThrOVRkNnNvYllpQlVtQmp0bG1OQVNWMFVoRmFqQk5KRVdwbU42aEVXZGdGN095T3JndUtjdW5BMl8wQ3k1aUFUbWZFTEU0Q3NEcE1tdEIyYkoycEZzX0E3MF9VR0p5RkxxU01rdkVTSEpGVmN2a2pGMVdQQ0VBMWJ5d2JMa09GY0U3NGdSMFZaX05nd0YtYy1iMldTaDFPMUtSZmJKdTctQV9Lb2tKa1hqRWfSAdIBQVVfeXFMT2FuRHdjc3BUaElrQXlJVE1HVGI3S2l6VnN2WHl2QmZacF9SUDIxU0pNUFY4blU3Y1VJWTNKYTVTcWlURVBjSll2M0NXRDlrVTRfazUtX3VWWXdITUxjNDZZekRnbDZTSDgwOTczcjNfbGI2dFVZUzFHVlhuZDRYb2RRTWJ4eVA5VVQ2X2UwX1lPa3g2dm1PV1R3MTU2YjhwcGR5RU5RVVRocXBwUGhKZ3JJd3M4anBtOGUtaFl2S2NjV2xUcS1aZ3BnXy1vdmpPMHV3?oc=5"
         }
       ]
     },
@@ -117,7 +117,7 @@
       "id": "d50a59c17a32",
       "title": "Por que milhões de pessoas em todo mundo vão contrair sarampo em 2026 - UOL Notícias",
       "published": "2026-09-04T16:11:32+00:00",
-      "summary": "Por que milhões de pessoas em todo mundo vão contrair sarampo em 2026&nbsp;&nbsp;UOL NotíciasAumento em casos de sarampo no Brasil acende alerta no Rio Grande do Sul&nbsp;&nbsp;TerraSarampo chega a 28 casos em São Paulo | Brasil&nbsp;&nbsp;Valor EconômicoSaúde de Barra do Piraí realiza campanha de vacinação contra o sarampo&nbsp;&nbsp;O DiaVacina contra o sarampo foca em bebês de São Bernardo&nbsp;&nbsp;Portal ABC do ABC",
+      "summary": "Por que milhões de pessoas em todo mundo vão contrair sarampo em 2026&nbsp;&nbsp;UOL NotíciasAumento em casos de sarampo no Brasil acende alerta no Rio Grande do Sul&nbsp;&nbsp;TerraSP inicia campanha de multivacinação na segunda-feira (3)&nbsp;&nbsp;Agência BrasilSarampo chega a 28 casos em São Paulo | Brasil&nbsp;&nbsp;Valor EconômicoSaúde de Barra do Piraí realiza campanha de vacinação contra o sarampo&nbsp;&nbsp;O Dia",
       "sources": [
         {
           "name": "UOL Notícias",
@@ -138,14 +138,14 @@
       ]
     },
     {
-      "id": "9075e8cdc835",
-      "title": "Dia Mundial da Saúde Sexual: Paraná reforça testagem contra ISTs - Bem Paraná",
-      "published": "2026-09-04T15:33:00+00:00",
-      "summary": "Dia Mundial da Saúde Sexual: Paraná reforça testagem contra ISTs&nbsp;&nbsp;Bem ParanáCalendário: 04 de Setembro – Dia Nacional da Saúde Sexual&nbsp;&nbsp;CRF-CEDia Mundial da Saúde Sexual apela à justiça e à inclusão - Nações Unidas - ONU Portugal&nbsp;&nbsp;unricPrefeitura alerta sobre importância da prevenção e informação no Dia Mundial da Saúde Sexual&nbsp;&nbsp;REDE BRASIL DE TELEVISÃOSecretaria de Saúde de Pomerode reforça orientações, testes e tratamentos gratuitos para ISTs&nbsp;&nbsp;Te",
+      "id": "feb1137eb59c",
+      "title": "IgNobel 2026 premia estudo brasileiro que testou quando jararacas atacam - Metrópoles",
+      "published": "2026-09-04T15:39:00+00:00",
+      "summary": "IgNobel 2026 premia estudo brasileiro que testou quando jararacas atacam&nbsp;&nbsp;Metrópoles",
       "sources": [
         {
-          "name": "Bem Paraná",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWHBXWDA1bzRvNXFNR3o2Z0stdzM3NjZyZ1BYNTdUM3lRcFVtZWJJblNVSERVVURTM1hSUGk0cWUzdTNOd0ZsbUxyQ1A0N3Y3NnIyLUZrM2dnUkpnMVBOUjZjT2RtNEFhRVBwTnU3NHMtSEI3TlRzS21pdHFXMThLUXprRnd0Nmd0STJoOU9SN196Y3dWSC1QVlVJd3owdjU1b3VqWk1FRkFrTzBNbjJYZmsybWI5dm5WT1HSAb8BQVVfeXFMTUktYmltVDVtWVE1MDNmY2Y1RVVyR0dld0tmTzdNLXRhUXJxd0RDTlBIV0k2VUlZYTVueXkwS28wMHBidENGVW1SVlRRSzdVVzlhUFB1VEpHQjJnU2thc1YzY1FYQ2s5U0hUQS13MC1FTWJRcTYxS1FaWDFGbEc3RkxzVHZDbzZLUGQ5NUpLc3ZpTmt4QnVZYVBoWEh0YUtYaGFGQjQ4Y1hCd211MzdPLXFOVEhnR3l0ZzY0eW9xZWc?oc=5"
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOckFZWnpSZmQtMHQ3RVo0eWRuX2RNYzczX291SURyY3JxUTV3Qkdsb1k1MHFkV19Kc1VseDhyOUVlRzFjNVcwQUp5VTVlQ2FTZG1QNGhWWlhmWlR4MFpLcHRoUm5ocGJNS2RqUUV1LV8yc1VfUm5NT1NKSTVlM0xuTHBuVnpJWXE2Y1YxN0phTndaQ2FKQkloWWt3SEotQ2tQT0xOLVB6VHVHZUk?oc=5"
         }
       ]
     },
@@ -201,7 +201,7 @@
       "id": "56d8a7c0d109",
       "title": "Infarto acontece mais cedo em São Paulo do que em outros estados, aponta estudo - Estadão",
       "published": "2026-09-04T08:30:00+00:00",
-      "summary": "Infarto acontece mais cedo em São Paulo do que em outros estados, aponta estudo&nbsp;&nbsp;EstadãoInfarto atinge pacientes até 12 anos mais jovens em São Paulo, aponta estudo&nbsp;&nbsp;ExameMoradores de SP têm infarto mais cedo do que em outros estados, diz estudo&nbsp;&nbsp;CNN BrasilEstudo aponta infarto mais precoce em São Paulo do que em outros estados&nbsp;&nbsp;Diário do Centro do MundoPaulistas infartam até 12 anos mais cedo que o resto do País, mostra estudo&nbsp;&nbsp;band.com.br",
+      "summary": "Infarto acontece mais cedo em São Paulo do que em outros estados, aponta estudo&nbsp;&nbsp;EstadãoInfarto atinge pacientes até 12 anos mais jovens em São Paulo, aponta estudo&nbsp;&nbsp;ExameMoradores de SP têm infarto mais cedo do que em outros estados, diz estudo&nbsp;&nbsp;CNN BrasilEstudo aponta infarto mais precoce em São Paulo do que em outros estados&nbsp;&nbsp;diariodocentrodomundo.com.brPaulistas infartam até 12 anos mais cedo que o resto do País, mostra estudo&nbsp;&nbsp;band.com.br",
       "sources": [
         {
           "name": "Estadão",
@@ -222,14 +222,14 @@
       ]
     },
     {
-      "id": "3a581f03fa10",
-      "title": "As 'pílulas do exercício' chegaram. Mas será que podem substituir a academia? - O GLOBO",
-      "published": "2026-09-04T07:30:01+00:00",
-      "summary": "As 'pílulas do exercício' chegaram. Mas será que podem substituir a academia?&nbsp;&nbsp;O GLOBOCanetas para músculos? Conheça medicamentos que prometem ganho de massa magra&nbsp;&nbsp;Diário do NordesteVem aí a caneta que ajuda a não perder músculo&nbsp;&nbsp;Tribuna OnlineComo os músculos podem influenciar a saúde do fígado, pâncreas e até do cérebro&nbsp;&nbsp;Diário do Centro do Mundo“Pílulas do exercício” não substituem efeitos e benefícios de academia&nbsp;&nbsp;Metrópoles",
+      "id": "7f95954040d1",
+      "title": "Por que devemos fazer xixi depois do sexo? Veja hábitos importantes após a relação - Folha de S.Paulo",
+      "published": "2026-09-04T07:00:00+00:00",
+      "summary": "Por que devemos fazer xixi depois do sexo? Veja hábitos importantes após a relação&nbsp;&nbsp;Folha de S.PauloDia Mundial da Saúde Sexual: Paraná reforça testagem contra ISTs&nbsp;&nbsp;bemparana.com.brSecretaria de Saúde de Pomerode reforça orientações, testes e tratamentos gratuitos para ISTs&nbsp;&nbsp;testonoticias.com.brInformação e prevenção são fundamentais para o cuidado com a saúde sexual&nbsp;&nbsp;www.gov.brCalendário: 04 de Setembro – Dia Nacional da Saúde Sexual&nbsp;&nbsp;CRF-CE",
       "sources": [
         {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ0QwZzNIQXhvbWhJVmtSQTZ4b2xmbXFMYjRIMkdCcjJYTldtLXpGUmVJZm5aZ1JReTNNRUJIU0JEZ3VJNWdDQWRJYVA1eG9WX0lmWmd0NG9vTE9GLWhHSUlHVnFFdTZ5aTBTdEl5a0l5emR4Tk1PLUtoMXh5NVJOOEd6UmJQSHZMYkphOU9DcFVJcDdVck5ib19LZldlX1VEWkEwcThMVElDNnBVRFE5VU5mZTRaNjJhOTBTUmlySnVtZkQ1bTI3aNIB1wFBVV95cUxOM3RFWldrU2k4ei1weGN3WmZmdFBNdi1CRkV2UUxMbV9yUDJoNHY2QkVzNFRvNXJtMGFSOVdXUW4yTUEtZi1xUktwY2h0MkM5djlhMDBsaXRzSVR4Ml9WakVwVER1cWlOOHU2dmlHLTd2LTdGVkRYZ091aEtGdHBCb3c0WDlERHZOTTBvVUttbnkyUlMtbEtVNEU4NjBKaW5UUDFFaUtSQnpjOUFWWXJIbG9ISkV4VWRaMmZZSFhKVWhRcmR3bnp4TER6c21PQXFHYmNpckFZRQ?oc=5"
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQS19FWnhRVFBvZm5DZG5FemVGTmJFT2xIdUNfeXMzcUFOQTJrdTVBUXpUQTN4M1JvQnFRSUlabjQ1bjV1aVhFVnRpcmZhUnNvY3dDT1BCUTdMU2w3NFp3X3pyTVUwNVBrSEpiOEs4eEpHQ3FDd1dKbmpMUG9wZHFVdjN6cEt2X0ZQQUxBaVgtTXhEMUM4djVHLWxYaTlzVUpBVHk5ZHdDWEdkWXh2NjdtdWdtUDBfWmV5a1NidVctWXkzaHJINm8ySzJETWVqSnVYdkE?oc=5"
         }
       ]
     },
@@ -270,42 +270,6 @@
       ]
     },
     {
-      "id": "22fb69a22d01",
-      "title": "Apenas uma bebida por dia pode aumentar o risco de morrer de vários tipos de câncer - noticias.r7.com",
-      "published": "2026-09-04T05:00:00+00:00",
-      "summary": "Apenas uma bebida por dia pode aumentar o risco de morrer de vários tipos de câncer&nbsp;&nbsp;noticias.r7.comVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "noticias.r7.com",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTXNFRndiOElNUjlEaXRTX3FERTVIeldCUU1fc0gwVFlIalUtYWJDbmg1RHg0MUJ1a2Y2YnpJb1VFZVBlWkpicTdsY3FtTEVDMHU2RGhnRVd1Z2lPTWNTUmhHMjFObW5KczVZSkFkSVpMOU13NldfWXNxeDVfeFBTNUYzSU5PV3J5TkFuLTF2blZ3TmlCcFdESlI1cmduQ3F4ZTlSODdRNTlZRk5xMF8xWGptQXNxY1M5WGNYV1dHRUNNclg2WlB5N1VkNA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7da2879138a2",
-      "title": "Estudo brasileiro que desafia serpentes e mictórios antirrespingo estão entre vencedores do Ig Nobel - UOL Notícias",
-      "published": "2026-09-04T01:41:30+00:00",
-      "summary": "Estudo brasileiro que desafia serpentes e mictórios antirrespingo estão entre vencedores do Ig Nobel&nbsp;&nbsp;UOL Notícias",
-      "sources": [
-        {
-          "name": "UOL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRk5oQ2M3aGdQdERGMklmT3V6NFVwSVNQaW0wRHQ3MG1ycHFRWUJNQkp5eXczdWZLNTN0Um12M0JnSTVralkybDhnLXZTbzFKclJJQWtLOFNwZlpmS3pCQUVEM1AxNkJfcUNMV0JVd1k0QjNuLWtzNXBFbldzS0RJNnB6MzRIcUQtZy1Qa0JIcGFldkRIclU0TkNqYkQ3R2FRc1FwckEzXzBRaTBwVFpidU43dDNzVGRKekhDVC1ueUlCR0NmYng3cER3dFNNLWYwS3MwZGxoMlk0VGdfTjNoWWNISXVEYVJWZXN0eFJkS0pEeWtrYjNN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4ed81cb63ca5",
-      "title": "Estudos apontam as 6 datas de nascimento que são associadas à inteligência: “muitas pessoas que têm elas na certidão não sabem” - Portal 6",
-      "published": "2026-09-04T01:04:59+00:00",
-      "summary": "Estudos apontam as 6 datas de nascimento que são associadas à inteligência: “muitas pessoas que têm elas na certidão não sabem”&nbsp;&nbsp;Portal 6",
-      "sources": [
-        {
-          "name": "Portal 6",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNbDJIeUFjMURkSkI4UGd0WGl2bVhQamRZT3Zib0hIS0Mya25kbHBBcWkwOW11NWZjQ29tQndiV3NqaFZuNURLMk1FOUFQQWFGTllqSkFVbUlPNlNWSkdhZWdtTDJGZmVFWHMtSFkxRGZJRDYzOXd2bXRqU0FTZGNRUnFFbHc4TC1lWV95b1gwcU9uMkd1VXZRdEl0TUIxTnJ3ZDQxUkhHcDVOTUs1Ri0tVllFal9pM0l6cUpoNkZUNEdjYzB0MmdDZklsUjdtc210b3BQanlpUEoyd2d3aDhRbGVIa3RReExUSTZEZnNqWVo?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d7e0fbd7f476",
       "title": "O que é matéria escura e por que sua possível descoberta agita cientistas? - InfoMoney",
       "published": "2026-09-03T21:30:00+00:00",
@@ -330,6 +294,18 @@
       ]
     },
     {
+      "id": "e4825e2feb37",
+      "title": "Aos 29, jovem faz teste de DNA como brincadeira e se depara com uma descoberta inesperada - Crescer",
+      "published": "2026-09-03T17:35:07+00:00",
+      "summary": "Aos 29, jovem faz teste de DNA como brincadeira e se depara com uma descoberta inesperada&nbsp;&nbsp;Crescer",
+      "sources": [
+        {
+          "name": "Crescer",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxObWFyYjZnLXJDVUdjbGU2Vnh2UU14UTNSdjRtMjZOZk04QXFseHp2YmZ6bUYtSUhpOEVLdk93QmhjR19wMG9HLXBrVHdKdlBJdkZCdm1ILW9kUEV4UXZtZWRYdFFJZVJtNTZjdmVFNjRTaDNEcHQzc3p5MWxjLUoyU01MSjNmMVJRbWcyYTh5OFVxcldEaUhGQi1IZUVSbWVkVk5Tb1h4NVZJWXhDWnJIX3l1dVh5TDFET0IzLXQxVWVVS3Rxck00U202aWJ6YXNtUTZUT2tIeVU4UFRxdDBLQnY2TzQyMGk3NWZEVWRQTUhOd9IBgAJBVV95cUxNQ0RXZ19Sdm1MdTVvbi1iemV5MkdtRWotejdQVEtfbWZrbVFRLVFCSXFsTG8xUW5kb1NmNV93TlhVWEpTcFAweXRzbm9lTnBmSG9uYTN3RkFOU0NST2QwNk5scUhoWmJoTkpUYUtrLWVqME8zLVlnTFFsOXd6TFNQOG55dzA2Z3djcWJkemV1b3RHVG94YjhkdzhnNzFsWGxObUgtNVUzQ3dIV0lNaHpoQm82bDJpSXFGa1pXd21QelBtYV9seUJHMzJGUTRFRHB3RHA4RnU4LVBPNW4tdjNfRGZFdGJwV0RNVGJ1Mlp4b0VDc3JnQ3p3R2NoWXpmRmd3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c731fd51915c",
       "title": "Estagiária de Psicologia é presa após viver romance com interno de clínica de reabilitação - Extra online",
       "published": "2026-09-03T15:40:57+00:00",
@@ -342,10 +318,22 @@
       ]
     },
     {
+      "id": "93a27975d41d",
+      "title": "O maior especialista mundial em longevidade revela os quatro alimentos que nunca comeria: “são a receita para o fracasso” - Minha Vida Saúde",
+      "published": "2026-09-03T14:04:37+00:00",
+      "summary": "O maior especialista mundial em longevidade revela os quatro alimentos que nunca comeria: “são a receita para o fracasso”&nbsp;&nbsp;Minha Vida SaúdeO maior especialista mundial em longevidade revela os quatro alimentos que nunca comeria: \"são a receita para o fracasso\"&nbsp;&nbsp;TerraOs 4 hábitos alimentares que ajudam a viver mais, segundo a ciência&nbsp;&nbsp;Tua Saúde",
+      "sources": [
+        {
+          "name": "Minha Vida Saúde",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rSVNzQ1FzTE1VOWotdzJkSU9WalUyWk1zMVUyRnZLelNpMkZ0SkxXWjFaSFJPR1Q1eWo3MlVkMnV2Q19OUUJBbk9mNVBaSk5mQV9tWm9tZzRNWk8xd2RabdIBZkFVX3lxTE90TVZRb0NLRTR5RUZHdnlIbF96TmZ2d3ZseDIzOWdoTzNYbjdSYVlNeTFjdTZrLUlYcHJ1NTZ6SUxQNGNKT3o3TEo4V3VUeVhjamxIQ2hQeC1lWVcxYjR6bHQ1T011QQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f12b67cbd4dc",
       "title": "Seu corpo não envelhece aos poucos: estudo identifica picos de mudança nos 30 e nos 50 anos - Época Negócios",
       "published": "2026-09-03T12:37:07+00:00",
-      "summary": "Seu corpo não envelhece aos poucos: estudo identifica picos de mudança nos 30 e nos 50 anos&nbsp;&nbsp;Época NegóciosA ciência descobriu duas fases em que o corpo humano envelhece de forma rápida e drástica.&nbsp;&nbsp;Vietnam.vnEstudo revela a idade em que o corpo envelhece mais rápido&nbsp;&nbsp;DOLO corpo não envelhece inteiro ao mesmo tempo: vasos aceleram aos 30, enquanto outros tecidos esperam até os 50&nbsp;&nbsp;diariodocomercio.com.brEstudo aponta picos de envelhecimento do corpo nos 30",
+      "summary": "Seu corpo não envelhece aos poucos: estudo identifica picos de mudança nos 30 e nos 50 anos&nbsp;&nbsp;Época NegóciosA ciência descobriu duas fases em que o corpo humano envelhece de forma rápida e drástica.&nbsp;&nbsp;Vietnam.vnEstudo revela a idade em que o corpo envelhece mais rápido&nbsp;&nbsp;DOLO corpo não envelhece inteiro ao mesmo tempo: vasos aceleram aos 30, enquanto outros tecidos esperam até os 50&nbsp;&nbsp;Diário do ComércioEstudo aponta picos de envelhecimento do corpo nos 30 e no",
       "sources": [
         {
           "name": "Época Negócios",
@@ -354,14 +342,26 @@
       ]
     },
     {
-      "id": "c9f5193cc4b8",
-      "title": "O que é 'sexo por compaixão'? Estudo revela por que mulheres mantêm relações sem desejo - O GLOBO",
-      "published": "2026-09-03T11:14:52+00:00",
-      "summary": "O que é 'sexo por compaixão'? Estudo revela por que mulheres mantêm relações sem desejo&nbsp;&nbsp;O GLOBOO que é o \"sexo por compaixão\" e como ele afeta a saúde das mulheres&nbsp;&nbsp;CNN BrasilSexo sem desejo: porque há mulheres que fazem sexo por ‘pena’ do parceiro&nbsp;&nbsp;SICEstudo analisa por que mulheres mantêm relações sem desejo sexual&nbsp;&nbsp;Diário do Centro do MundoEntenda o que é o “sexo por compaixão” e por que deve ser evitado&nbsp;&nbsp;Metrópoles",
+      "id": "102c16a2fd26",
+      "title": "Uma dose de álcool todos os dias já é suficiente para aumentar as chances de diversos tipo de câncer, aponta estudo - CNN Brasil",
+      "published": "2026-09-03T12:15:14+00:00",
+      "summary": "Uma dose de álcool todos os dias já é suficiente para aumentar as chances de diversos tipo de câncer, aponta estudo&nbsp;&nbsp;CNN BrasilVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPU0JYRjg1TXZ4dDFqYW0xY3gxcm02cmVqVFQ5VThVWjF6ZUEyTURyOHJqb2g4RzVJQVpJOElRTXZzd2dzeHh5UUhoM184S3p0Ym5oTU1PbGEwRWZyOUY5Q08zRFhnYnNUZlc3TlFwS3JaYXRFb1lsaXhyUjRTNS16M2V2VUNtZTZ5bWZ1YmQ5MTN3b21Ob1FkaVFxQ0xPTWxpeGFVNjU2WTRNeDk5cTM5QUhIUUZhYkw3QzFJd1dPTjJ4TThfSk0xdi1tSElQLTlyNFpLbNIB4wFBVV95cUxORE1SRHJ0Vnc0SEV0TmdUSlhYX21jMHNXT09zTWZOTnpwMWFpd1NCMklBVVFFVkVLRTdTQ2RIelFvNjJMWWZ5Mm9FTFl3MXpuUi1HeElDNlFoYXVYYVhLRFNzOEpjT2psN1VXR0ROMGQzMm1sWUp5Uk5BSUxnM21FcjllZG9ZeGFiVUV0Z3Rzc3VrTkRycHNGWUJzOVFOQ2J5WFdQLW9TUG1qN2JMTm1hVVM4Rk90OFo4OERyLVlPTzJQcEt3MG4tRXJsYWs5TVFqMHloQmhzS2NIMVVUUnVqYWJzSQ?oc=5"
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMnVKNHQ3UTFXSnp3bmdZbENWSElpQk5lS0dLdXdsMWhzcFpkcXNIT2hKMWliV3ZpYl9IaVVzV1VEZ0FjUzVCUzZDeGJjNktvbVhmV25HaFo5Z2xYOTg2bzB3OFFZUXhWcE8xMnk2V2trOV9vYlV4dDdaOFBhZ2ZSbkptbC1oN3BWcWZlZG1abXl0UVNzVlhsTUswZjNhVTNfRDgwMjY2aVBjejA5MjliYUxUOHYyZlhZRmtNM254QkprTEIzM2JyRTA4SVVEVGhMNmlRcmItOEFZZUEzUTN0ck40WUhmWEltRk96ZGs4anEtWkpqQ2d6cjRzTlZBUjQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f2436a19a3de",
+      "title": "Tirzepatida x Semaglutida para Perda de Peso: Qual É a Diferença? - Forbes Brasil",
+      "published": "2026-09-03T08:00:00+00:00",
+      "summary": "Tirzepatida x Semaglutida para Perda de Peso: Qual É a Diferença?&nbsp;&nbsp;Forbes BrasilRemédios e bebidas ilegais viram ameaça silenciosa à saúde pública | Mercado ilegal&nbsp;&nbsp;Valor EconômicoEnvelhecimento e mau hálito: veja quais são os 10 efeitos colaterais das canetas emagrecedoras&nbsp;&nbsp;CNN BrasilEmagrecimento rápido pode provocar impactos na pele e nos cabelos&nbsp;&nbsp;Veja SaúdeAlerta: nova forma de contrabando de emagrecedores exige que comprador faça mistura em casa&nbsp;",
+      "sources": [
+        {
+          "name": "Forbes Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObjBKMUhqWUV2MHJqTXJ6TmRYbDV6LVBSdzhpeFZpRzAwajVhWlVaTlVNNFVtMTljeXg0OTlZRm0zRzFRWXVPVl9reHJrUkpCRTRXRVdBc0RYVUJfS2xGTThTVnBEUm0xM3I4NHI2RmktaWppYXI1WjN4RC1CS3VWTV9wZWRZR21JSlhyMVpOUkZkakRhZGJicVRMTWl1cHRGYzVJTkxtM2tGWTQ?oc=5"
         }
       ]
     },
@@ -390,6 +390,18 @@
       ]
     },
     {
+      "id": "e87540a5071e",
+      "title": "'Ameba devora meus olhos': jovem perde visão após banho com lentes - UOL Notícias",
+      "published": "2026-09-02T21:10:33+00:00",
+      "summary": "'Ameba devora meus olhos': jovem perde visão após banho com lentes&nbsp;&nbsp;UOL NotíciasCuidados com lentes de contato&nbsp;&nbsp;G1Campanha de conscientização alerta que uso inadequado de lentes pode levar à cegueira&nbsp;&nbsp;Correio BrazilienseJovem que usava lentes de contato fica cega após ser infectada por ameba&nbsp;&nbsp;MetrópolesTomar banho com lentes de contato pode causar infecção rara e levar à perda da visão&nbsp;&nbsp;Diário do Comércio",
+      "sources": [
+        {
+          "name": "UOL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPanQ0ajFCeVllTVhjT0J5Q2tXcW9hbmljbF9zSE9xVmFseXFaWnVPRVdfblZEb1JxVkpWMVVIaHdYZmljMkpGdWRKc0YxUHppOEdramJtVU1vcFZleUUyU2I1UnYyWEZhSktRRHlKa0VfanNmQ2gwNmZsT01wNnoyLWhjNzFHOEhValVGNmYtQmVLb0ltc21xd2E1OXFRa0ZRM3FYMTlIalB3QkdjQXdjNUgyeVdzQktKNUxKWTlFRUY4YS1CcHpCMHItMzlGdkpObkNlOQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d5a94ebf1b59",
       "title": "Cientistas descobrem possível benefício inesperado envolvendo semaglutida e saúde mental - Extra online",
       "published": "2026-09-02T19:35:16+00:00",
@@ -410,18 +422,6 @@
         {
           "name": "Portal Drauzio Varella",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRkVBVXF5YzNwVmFkZlctbUE1dDItN0RIS2ZuOXYxaFZ1Yk1TYWZFM3YxdlFiTmFOU3U3dmRYS0oyencxMFlGUHRuUnpZUTlsa3cxSTgzZVhqVEM3TF85Y2ZfMUFiT3d2d1BlOTVvSG5BUVdVb0FGZE1aX0JteEF4UEg1ZDNqNW9jU0JhOVRMN3JwNFFrNGpIb0hwSUphQXB3OUx6NnRlenhKU0U?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cd71395f396f",
-      "title": "Conheça os 10 efeitos colaterais das canetas emagrecedoras - DOL",
-      "published": "2026-09-02T01:52:43+00:00",
-      "summary": "Conheça os 10 efeitos colaterais das canetas emagrecedoras&nbsp;&nbsp;DOLRemédios e bebidas ilegais viram ameaça silenciosa à saúde pública | Mercado ilegal&nbsp;&nbsp;Valor EconômicoEnvelhecimento e mau hálito: veja quais são os 10 efeitos colaterais das canetas emagrecedoras&nbsp;&nbsp;CNN BrasilEmagrecimento rápido pode provocar impactos na pele e nos cabelos&nbsp;&nbsp;Veja SaúdeAlerta: nova forma de contrabando de emagrecedores exige que comprador faça mistura em casa&nbsp;&nbsp;noticias.r7",
-      "sources": [
-        {
-          "name": "DOL",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMFR5MjZsQnRrYS1rUm1ucHZMVzdtNzBvcEFOaGduZllxbHh0bVVMb3RxbEpZZnhTODF4Wm5TdE9JNWxWejExMWdYOFRNUS0wb3BjaDZzdUpnQVFfamFPMEMweGJkTjM0NFZ0Und1RVdJU0FjMUJ0ZEVNNWlHN1RfZEV3eFZScEdWbzNGM0tua1F2aFBVU3NhRS1EbUtoY3daRTNBZ9IBrAFBVV95cUxOM01Zd2JqMXhBY2F5NVB4MG1JanBGV283ejM4dmxRdEFZSWVaOFMxdDYwcF9NZE50THBydGJPejVOZVlpaXlwXzh3WHFQZFlvSFZFNDBvYWpMbThQU2JYbzcxdS11Z1UzSVJ0SmtUc3RrSkRlbVNiekJOQjd3XzhmZFJqVjBtMENlczJUeldaNUpGRG42VExGU3l0NTdrR1NCam1pS3B0MEZNQjVR?oc=5"
         }
       ]
     },
