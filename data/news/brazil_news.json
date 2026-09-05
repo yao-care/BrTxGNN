@@ -1,18 +1,42 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-09-05T14:46:20.855716+00:00",
-  "total_fetched": 97,
-  "unique_count": 96,
-  "health_related_count": 40,
+  "fetched_at": "2026-09-05T20:03:06.973949+00:00",
+  "total_fetched": 101,
+  "unique_count": 98,
+  "health_related_count": 35,
   "news": [
     {
-      "id": "f3eb5e3969b3",
-      "title": "Estudo com brasileiro à frente faz homem sobreviver com rim de porco por 271 dias e aponta novo caminho para os transplantes - g1.globo.com",
-      "published": "2026-09-05T13:31:26+00:00",
-      "summary": "Estudo com brasileiro à frente faz homem sobreviver com rim de porco por 271 dias e aponta novo caminho para os transplantes&nbsp;&nbsp;g1.globo.comRim de porco mantém paciente sem diálise por 271 dias após transplante&nbsp;&nbsp;Correio BrazilienseHomem sobrevive 9 meses com rim de porco até receber órgão humano&nbsp;&nbsp;iG SaúdeRim de porco mantém homem vivo por recorde de 9 meses&nbsp;&nbsp;SBT NewsComo está paciente que recebeu rim de porco em transplante e viveu com órgão por 271 dias&nbs",
+      "id": "9f89c91dd4d3",
+      "title": "Câncer após 11 de Setembro mata mais que o dobro das vítimas dos ataques - UOL Notícias",
+      "published": "2026-09-05T16:56:46+00:00",
+      "summary": "Câncer após 11 de Setembro mata mais que o dobro das vítimas dos ataques&nbsp;&nbsp;UOL Notícias",
       "sources": [
         {
-          "name": "g1.globo.com",
+          "name": "UOL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWXRkM2pPQmtRV1JjMF8wMUhjOUhEUkYxWkN6ZnRoM2VEQ3RWZW9GdE5jWXBXcFJtWkxNMU1pWkFRZUM3U2p3Q3U1ak5xU3lmcTl1d0gtbW5GT2hoRk1YaDE2dUUtZV9NaUxqYTBYMmVMRXhvdDFWUHFoRFRyTm9tWU9oSXpHSmRhTDZFWmpvSEdWX2dEY2lycUZMbWRVLTBheHA4dWdDb1ZBQUtqRzlLYzg0Sm12d0hMdjFEN0VjMjNLZ0tTYUtCM1pJM2F1V19GdlM3ejlnMl9CVWtZcUo3Mg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ebf00318fa12",
+      "title": "Clima e escassez alimentar elevam risco de guerras no mundo - G1",
+      "published": "2026-09-05T13:53:05+00:00",
+      "summary": "Clima e escassez alimentar elevam risco de guerras no mundo&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOUlPN21YWUU5Y0NHMU1YX1pHbjNiZFBTYjdJSDVGaEoyYVkwcmRpRm9DeURVSGNIS2R1SFplbmhHRTRCY0dnODZ3cEtwcWY3Vm1HUkJJZHVUMFRJY1FNNjJ6SUgxc0tLWVdqSlNxenloN05oN01PR3oyRHVvSm8yV0hNTEZidlNOWjVGWEJCeXZyV1BhdFBLZXdYZXJlQms3SkU1S2JDRVZ3R0F4UEs0NWt0TS1MLXJmZ2pv0gHKAUFVX3lxTE8wTEV4UG5MN0stNTJ4Y0ZmTUJ5Y3N0NC1YZnhLY0lhNzFpTGU1UGJESXVHLWRNV0IxaFlRQzI1QWl1bkdkSFFTbEdJLUJLRUpENUFhZFV3R0Rmc2RrbFBEX2tFb2JQVENHT0xBSFF3T3pERXl4SC1aQTNuM2ZUTmFBUlVEakZXd2tIajFIalRmUnBDcGJwR2pwWi1tUHlPUmR3dmhiY1Q2bHhjZmozRnVSU0lHTXFHWHdTaFlNdVRGbWJyYUtseEdjd1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6948792e2058",
+      "title": "Estudo com brasileiro à frente faz homem sobreviver com rim de porco por 271 dias e aponta novo caminho para os transplantes - G1",
+      "published": "2026-09-05T13:31:26+00:00",
+      "summary": "Estudo com brasileiro à frente faz homem sobreviver com rim de porco por 271 dias e aponta novo caminho para os transplantes&nbsp;&nbsp;G1Paciente viveu 271 dias com rim suíno em estudo liderado por brasileiro&nbsp;&nbsp;CNN BrasilRim de porco mantém paciente sem diálise por 271 dias após transplante&nbsp;&nbsp;Correio BrazilienseHomem sobrevive 9 meses com rim de porco até receber órgão humano&nbsp;&nbsp;iG SaúdeHomem vive 271 dias com rim de porco antes de receber transplante humano&nbsp;&nbsp",
+      "sources": [
+        {
+          "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPX2ZFaHFfcmtINnFBa2NtYlgxaXdHU0NiRlM4QVBJemktaHE3MGhHNU1NNzZIUEhiR0o4YV9sY08tTHhTWUprQmlPSDJ3R2xybHF1QThlalhmb2w4Wlk5eVBxYmkxcmNXSG1YUW9uaFR5cTduR1FZZkVwaVkxbmtZenZWVlFpbkhWVnktWnBVUmVRWEJSR3RDZFBlTGtYcmRHWVc1OHVpSElra21FeFNvX1BBVXNxbU53UnNhVTN4UEo0VXZMZGZtMnBsWmhCdGMtNlpqdkNPTEkya2FrcUV5QkQwRkFrX2pDVnV2V3NpQlRlU0dueEJJbHc5djFaUkFQNFlQam9Da9IBlgJBVV95cUxOLXNTQlpaZFBFQW5IVGF2Y1BOTHEtaTVQemt2U3pydE1hcG5tNWMtVUFDQWd2Z09sSHlQTERkV3NTRFdKd0dPRTdEbmd3REItTEduRF91WThidXBaSE9WR05EVHl5S0wyZktsakdadDRXQU9SU2FkUV9oVktwbl9XNVpJeEtkRnI2U2trU1pDd2lCZ19sTVh5ZVd0RGVJTDlzZVVualdGaVBIaHlDbmd1bFlBc2pNY2x5d0tHSlJITXI2OFBnYlplUDFaQlZJRWwtNEsydExPcWZycHlWM3lkZG9XaDlubUppbTE5MF9VVC03aXFKdEpKbWpfLVotQVJldDNpRDRmTmFZS2ZRMDY3cHQtNGcwQQ?oc=5"
         }
       ]
@@ -21,7 +45,7 @@
       "id": "bd1b1d6686d4",
       "title": "Todo corpo tem direito ao cuidado, mas saúde sexual ainda esbarra em desigualdade e estigma - Mídia NINJA",
       "published": "2026-09-05T12:29:44+00:00",
-      "summary": "Todo corpo tem direito ao cuidado, mas saúde sexual ainda esbarra em desigualdade e estigma&nbsp;&nbsp;Mídia NINJAPor que devemos fazer xixi depois do sexo? Veja hábitos importantes após a relação&nbsp;&nbsp;Folha de S.PauloDia Mundial da Saúde Sexual: Paraná reforça testagem contra ISTs&nbsp;&nbsp;Bem ParanáInformação e prevenção são fundamentais para o cuidado com a saúde sexual&nbsp;&nbsp;www.gov.brCalendário: 04 de Setembro – Dia Nacional da Saúde Sexual&nbsp;&nbsp;CRF-CE",
+      "summary": "Todo corpo tem direito ao cuidado, mas saúde sexual ainda esbarra em desigualdade e estigma&nbsp;&nbsp;Mídia NINJAPor que devemos fazer xixi depois do sexo? Veja hábitos importantes após a relação&nbsp;&nbsp;Folha de S.PauloDia Mundial da Saúde Sexual: Paraná reforça testagem contra ISTs&nbsp;&nbsp;Bem ParanáInformação e prevenção são fundamentais para o cuidado com a saúde sexual&nbsp;&nbsp;www.gov.brCalendário: 04 de Setembro – Dia Nacional da Saúde Sexual&nbsp;&nbsp;crfce.org.br",
       "sources": [
         {
           "name": "Mídia NINJA",
@@ -33,11 +57,23 @@
       "id": "63ff0b526de3",
       "title": "Ondas de calor do El Niño podem agravar sintomas de doenças neurológicas, dizem especialistas - ICL Notícias",
       "published": "2026-09-05T08:00:55+00:00",
-      "summary": "Ondas de calor do El Niño podem agravar sintomas de doenças neurológicas, dizem especialistas&nbsp;&nbsp;ICL Notícias",
+      "summary": "Ondas de calor do El Niño podem agravar sintomas de doenças neurológicas, dizem especialistas&nbsp;&nbsp;ICL NotíciasAquecimento global: ondas de calor do El Niño podem agravar sintomas de doenças neurológicas&nbsp;&nbsp;Acre in FocoOndas de calor associadas ao El Niño elevam riscos neurológicos e podem agravar sintomas de Parkinson, esclerose múltipla e demência&nbsp;&nbsp;pagina1news.com.br",
       "sources": [
         {
           "name": "ICL Notícias",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56Y2lxUllnSFhXVG5PTXdtSWV5VUNXMXgwNTN0aGRGUDI1dnhLamNzY3o4MjBxT1JNNlVJZUt1U0t5RGV1VHBvaDl5VWNncXpIdExfOHppcGs0dmw3U21DRUZ3MWZNQUxXVWY1MnNiRzRiMTVBNGtR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "afbb1926cc5c",
+      "title": "Exames de sangue para detectar Alzheimer estão disponíveis por até R$ 5.000; saiba quando há indicação - Folha de S.Paulo",
+      "published": "2026-09-05T07:00:00+00:00",
+      "summary": "Exames de sangue para detectar Alzheimer estão disponíveis por até R$ 5.000; saiba quando há indicação&nbsp;&nbsp;Folha de S.PauloVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNTzlabXpqZWhHcUVIUnBKVFRlbmh5STc4a1A5Vmkya1FXVmV0YTFuU09PSVhxbHJFdXR1YkN1aWg2VHFESXNSZzd2XzZwcjM5ZV9qaXpCTEYzNWtSQlRYX3c1VWtPU2tTRG1tZW5qWHRrRXJXN0F4VXRWVEU0eElkY2RPX0NfODJ2cDZMUXhqN3V6MkJ6OWthdjRIaUQ1RUFJeEctNDJMZXFqb2V5V1RYbkZTbEN5WFJTMm1vcGU4UXpwMTBncG5iSGlLS0hvcFM4NGJUaVlpcWxMR3U5dnFfYmZmRXdwTWlNVFdTaEx6OU1hdw?oc=5"
         }
       ]
     },
@@ -69,7 +105,7 @@
       "id": "09670f682790",
       "title": "Sono ideal de adultos varia e põe em xeque regra das 8 horas - Folha de S.Paulo",
       "published": "2026-09-04T21:00:00+00:00",
-      "summary": "Sono ideal de adultos varia e põe em xeque regra das 8 horas&nbsp;&nbsp;Folha de S.PauloO risco ao seu coração escondido no quarto, e não na cozinha&nbsp;&nbsp;Rádio ItatiaiaPesquisas descobriram maneiras de dormir que ajudam a prevenir a hipertensão.&nbsp;&nbsp;vietnam.vnA regularidade do horário de dormir vem se mostrando tão relevante quanto o total de horas em estudos recentes&nbsp;&nbsp;Tua SaúdeDormir demais faz tão mal quanto dormir de menos? Entenda&nbsp;&nbsp;Jornal O Sul",
+      "summary": "Sono ideal de adultos varia e põe em xeque regra das 8 horas&nbsp;&nbsp;Folha de S.PauloQuanto tempo de sono preciso? Por que você pode esquecer a “regra das oito horas”&nbsp;&nbsp;SuperinteressanteO risco ao seu coração escondido no quarto, e não na cozinha&nbsp;&nbsp;Rádio ItatiaiaPesquisas descobriram maneiras de dormir que ajudam a prevenir a hipertensão.&nbsp;&nbsp;Vietnam.vnSono e pressão alta: o que estudos recentes investigaram sobre os níveis de pressão em pessoas com hipertensão&nbsp;&",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -90,25 +126,25 @@
       ]
     },
     {
-      "id": "0e65d92208a5",
-      "title": "Protótipo elétrico de seaglider completa primeiro voo com tripulação sobre a baía de Narragansett e avança rumo ao transporte comercial rente à água - CPG Click Petróleo e Gás",
-      "published": "2026-09-04T20:19:00+00:00",
-      "summary": "Protótipo elétrico de seaglider completa primeiro voo com tripulação sobre a baía de Narragansett e avança rumo ao transporte comercial rente à água&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "id": "92f676e5b390",
+      "title": "Pesquisadores encontram impressão digital humana de 43.000 anos - CPG Click Petróleo e Gás",
+      "published": "2026-09-04T20:06:00+00:00",
+      "summary": "Pesquisadores encontram impressão digital humana de 43.000 anos&nbsp;&nbsp;CPG Click Petróleo e Gás",
       "sources": [
         {
           "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcVEtT2N1c1lsejlxR1Bwa1dYZEVxQi15YV9FV0doMjZZSXB1ZDA5am1vN2dQQUh1N2hNaGpfMlE1TkdZSnl4VTBuaHdTc1RGWDhsMUVZUUszd25zNFMzU2hRU2hCOUFpNWJQVlNhbHJOSThpZEV0MW9UOG5ESFNONkVYMUlMajMxQ0Ixc2tEb3ZKZw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQYXJRQUxlZW1GVExQMEQyS3JMSXEtcVA0d1BYZ1lvZDZnWXE3cjBlRXI0aENnU3lOT0RqR3dscFdQaTJFdDk3TURtOUw3b0QwYzJFY3RGQ09FVnJFSXd4Y0w2X0s5azR1aFZvNmFIQndpTy1tMHoxMG9CLXNQcjZURWdtSkxVUS1XMmdzZzlqdjNjdlJ0YzJIcldjNHRCYWRVcWwxQ0ZnWmRKTkUzU0NnMzkyWFhBckVucFF3aTRNeHpuckg5SldwcS1lU01mZ2tob0xmS3MtVTh0OXRKSjIzaDdia3NKWGxUX1EtLTlNWXdLYWp6VXZoM0x1OEp4dEdTSzYtRldvTExXNllhUDhOUnJsbmItSWczM21MRjI3OFJSaUxoTXRsQnJEQXFCZlRWc0NaU2JobElCZVdLR1dvSHFETlpVZw?oc=5"
         }
       ]
     },
     {
-      "id": "dd7b5cc90ee0",
-      "title": "Cientistas criam mini-Big Bang em laboratório (contém clickbait) - Meio Bit",
+      "id": "74c6c07defeb",
+      "title": "Cientistas criam mini-Big Bang em laboratório (contém clickbait) - meiobit.com",
       "published": "2026-09-04T17:11:56+00:00",
-      "summary": "Cientistas criam mini-Big Bang em laboratório (contém clickbait)&nbsp;&nbsp;Meio Bit",
+      "summary": "Cientistas criam mini-Big Bang em laboratório (contém clickbait)&nbsp;&nbsp;meiobit.com",
       "sources": [
         {
-          "name": "Meio Bit",
+          "name": "meiobit.com",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNV3VrM0kxclIzdjR1MGs0N2RxWjhPVUQ1UVBGdzlTUXNrSXFvcTh1WVZSZWtBMHpudmRycHFPZzB2QjVUN1F5YmExQURmaVdYODJPZURMUHVIY3ZhZ1JyNVNKRDlvRlgzWHEtYU1vWlBZS2ZyT25YYnhIbFM5SnRNVXp2QTQ0cUlJZXhJa3lENTZZSFNu?oc=5"
         }
       ]
@@ -126,22 +162,10 @@
       ]
     },
     {
-      "id": "302baf272524",
-      "title": "Estudo identifica supervulcão enterrado na costa da Inglaterra - Globo",
-      "published": "2026-09-04T16:18:22+00:00",
-      "summary": "Estudo identifica supervulcão enterrado na costa da Inglaterra&nbsp;&nbsp;Globo",
-      "sources": [
-        {
-          "name": "Globo",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSzc5dDdPckhQWGstbFFEaThrOVRkNnNvYllpQlVtQmp0bG1OQVNWMFVoRmFqQk5KRVdwbU42aEVXZGdGN095T3JndUtjdW5BMl8wQ3k1aUFUbWZFTEU0Q3NEcE1tdEIyYkoycEZzX0E3MF9VR0p5RkxxU01rdkVTSEpGVmN2a2pGMVdQQ0VBMWJ5d2JMa09GY0U3NGdSMFZaX05nd0YtYy1iMldTaDFPMUtSZmJKdTctQV9Lb2tKa1hqRWfSAdIBQVVfeXFMT2FuRHdjc3BUaElrQXlJVE1HVGI3S2l6VnN2WHl2QmZacF9SUDIxU0pNUFY4blU3Y1VJWTNKYTVTcWlURVBjSll2M0NXRDlrVTRfazUtX3VWWXdITUxjNDZZekRnbDZTSDgwOTczcjNfbGI2dFVZUzFHVlhuZDRYb2RRTWJ4eVA5VVQ2X2UwX1lPa3g2dm1PV1R3MTU2YjhwcGR5RU5RVVRocXBwUGhKZ3JJd3M4anBtOGUtaFl2S2NjV2xUcS1aZ3BnXy1vdmpPMHV3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d50a59c17a32",
       "title": "Por que milhões de pessoas em todo mundo vão contrair sarampo em 2026 - UOL Notícias",
       "published": "2026-09-04T16:11:32+00:00",
-      "summary": "Por que milhões de pessoas em todo mundo vão contrair sarampo em 2026&nbsp;&nbsp;UOL NotíciasAumento em casos de sarampo no Brasil acende alerta no Rio Grande do Sul&nbsp;&nbsp;TerraSP inicia campanha de multivacinação na segunda-feira (3)&nbsp;&nbsp;Agência BrasilSarampo chega a 28 casos em São Paulo | Brasil&nbsp;&nbsp;Valor EconômicoSaúde de Barra do Piraí realiza campanha de vacinação contra o sarampo&nbsp;&nbsp;O Dia",
+      "summary": "Por que milhões de pessoas em todo mundo vão contrair sarampo em 2026&nbsp;&nbsp;UOL NotíciasAumento em casos de sarampo no Brasil acende alerta no Rio Grande do Sul&nbsp;&nbsp;TerraSP inicia campanha de multivacinação na segunda-feira (3)&nbsp;&nbsp;Agência BrasilVacina contra o sarampo foca em bebês de São Bernardo&nbsp;&nbsp;Portal ABC do ABCSarampo chega a 28 casos em São Paulo | Brasil&nbsp;&nbsp;Valor Econômico",
       "sources": [
         {
           "name": "UOL Notícias",
@@ -177,7 +201,7 @@
       "id": "8348774d0da9",
       "title": "Gordura no fígado: fruta pode ajudar a reduzir acúmulo no órgão; saiba qual - ICL Notícias",
       "published": "2026-09-04T15:05:12+00:00",
-      "summary": "Gordura no fígado: fruta pode ajudar a reduzir acúmulo no órgão; saiba qual&nbsp;&nbsp;ICL NotíciasMédica orienta como tratar e prevenir gordura no fígado&nbsp;&nbsp;g1.globo.comGordura no fígado: veja quais alimentos priorizar e quais evitar no tratamento da doença&nbsp;&nbsp;ACidade ONHábitos modernos ameaçam o fígado&nbsp;&nbsp;Jornal O SulDois hábitos aparentemente inofensivos que muitas pessoas têm, na verdade, 'destruíram' o seu fígado.&nbsp;&nbsp;vietnam.vn",
+      "summary": "Gordura no fígado: fruta pode ajudar a reduzir acúmulo no órgão; saiba qual&nbsp;&nbsp;ICL NotíciasMédica orienta como tratar e prevenir gordura no fígado&nbsp;&nbsp;G1Gordura no fígado: veja quais alimentos priorizar e quais evitar no tratamento da doença&nbsp;&nbsp;ACidade ONHábitos modernos ameaçam o fígado&nbsp;&nbsp;osul.com.brDois hábitos aparentemente inofensivos que muitas pessoas têm, na verdade, 'destruíram' o seu fígado.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "ICL Notícias",
@@ -189,7 +213,7 @@
       "id": "e33d350c8e38",
       "title": "'Café dos campeões' nas redes sociais é bomba química para o coração - UOL",
       "published": "2026-09-04T14:06:01+00:00",
-      "summary": "'Café dos campeões' nas redes sociais é bomba química para o coração&nbsp;&nbsp;UOL",
+      "summary": "'Café dos campeões' nas redes sociais é bomba química para o coração&nbsp;&nbsp;UOLMistura de medicamentos controlados com energéticos pode causar colapso&nbsp;&nbsp;Jornal Extra AlagoasProjeto proíbe venda de bebidas energéticas para menores de 18 anos&nbsp;&nbsp;Senado FederalAnvisa alerta para riscos de misturar medicamentos controlados com energéticos&nbsp;&nbsp;clicr.com.brMistura de remédios com energéticos viraliza e preocupa Anvisa&nbsp;&nbsp;Folha do ES",
       "sources": [
         {
           "name": "UOL",
@@ -210,18 +234,6 @@
       ]
     },
     {
-      "id": "209150b3f53f",
-      "title": "Pesquisadores retiram 47 castores considerados “problemáticos” de áreas urbanas e agrícolas de Utah e os levam para regiões áridas, onde suas barragens ajudam a reter água, criar lagoas e recuperar riachos; anos depois, projeto cresce para cerca de 60 - CPG Click Petróleo e Gás",
-      "published": "2026-09-04T13:30:00+00:00",
-      "summary": "Pesquisadores retiram 47 castores considerados “problemáticos” de áreas urbanas e agrícolas de Utah e os levam para regiões áridas, onde suas barragens ajudam a reter água, criar lagoas e recuperar riachos; anos depois, projeto cresce para cerca de 60&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPVzJZa09JN2Q1cHFDakwzeTVINXBfZmJjOVFnMjMyeVAzYmRrZk0zNWVwbnBZYlBJU2NHQllZRXpjdmVzS0V1MzBiRTFPbGxmdkJQb1h0RHp1SnZXUUFTWFdLcXY1YVRDM0REZXJqa3owQjk3TW5ndGhHemthRXVlLUF3Z2xlQlJoWktGeWszMXYxdnJoVHE5M2JoSF9EaDhzbS1YTUYzSVRtNF9UOVVPb3Z5TEdiQWRsVG5TWlNVQ1hRYnNJMlBSeElkeElFSDNMWmRQaWtSTHViUlNuZ3c1OHczQnJDaHExdElZRk1SdkZrOHM5ZThGSkw5VFhMb0h2c2wxY2xacXRKMWs3bDg4dHRVZl83YzdRRWk1Z0h1cG9Nc2V6Z2F3NnRQaU1RXzhaSDNqOGhjOEtjYW5rdG9DT2Nzdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "56d8a7c0d109",
       "title": "Infarto acontece mais cedo em São Paulo do que em outros estados, aponta estudo - Estadão",
       "published": "2026-09-04T08:30:00+00:00",
@@ -234,26 +246,26 @@
       ]
     },
     {
-      "id": "46f48caf8606",
-      "title": "Quer um 'pixel' do Universo com seu nome? NASA promete cantinho nos primeiros cliques do telescópio Roman; saiba mais - g1.globo.com",
+      "id": "3254b44e8357",
+      "title": "Quer um 'pixel' do Universo com seu nome? NASA promete cantinho nos primeiros cliques do telescópio Roman; saiba mais - G1",
       "published": "2026-09-04T08:12:28+00:00",
-      "summary": "Quer um 'pixel' do Universo com seu nome? NASA promete cantinho nos primeiros cliques do telescópio Roman; saiba mais&nbsp;&nbsp;g1.globo.com",
+      "summary": "Quer um 'pixel' do Universo com seu nome? NASA promete cantinho nos primeiros cliques do telescópio Roman; saiba mais&nbsp;&nbsp;G1",
       "sources": [
         {
-          "name": "g1.globo.com",
+          "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORzd1eUp3S1VNaU5EazdURjZhUUZ6NzYzSUd0aHBndVZVVHNYTzJ0NEVPTWNzM25KODBxZVAtNVA0YlpGdDJ5V3U1cndDZTMtWGZlblFLT2l5bndBX0lSVE9WYk9LWUVsRmFzQjN1cVZFNnlqLUFWMnU1ekpaU2ZOMXJRUVNWMG1p0gGXAUFVX3lxTFBsVnpKNHZrRUIydVQ5M0Y1MjI1Sk9YQXJLQ194SzVJX0x4TjhOMEktaV9iRjM3TDhDSDVDLTFWWUpyWmw0WHNRNGNQdURWblFKbENSYjhJRnEtYnlWbnkzSFJBTWxaOUtSYTZuVlhkYXBfZnNYdGFsN3h1ck4yamRzMGZrMGl1RUl6UllLdWQ2OHh1LWVuOEU?oc=5"
         }
       ]
     },
     {
-      "id": "575b06aaebd5",
-      "title": "Genes dos morcegos podem ajudar a combater o câncer? - g1.globo.com",
-      "published": "2026-09-04T07:00:00+00:00",
-      "summary": "Genes dos morcegos podem ajudar a combater o câncer?&nbsp;&nbsp;g1.globo.comGenes de longevidade dos morcegos: pistas para saúde humana&nbsp;&nbsp;Euronews.com",
+      "id": "6f23e6ef79a8",
+      "title": "Câncer que pode dar sinais na urina ainda é desconhecido por 81% dos idosos; veja os sintomas - Jornal Correio",
+      "published": "2026-09-04T08:10:00+00:00",
+      "summary": "Câncer que pode dar sinais na urina ainda é desconhecido por 81% dos idosos; veja os sintomas&nbsp;&nbsp;Jornal CorreioMesmo sendo os mais afetados, 81% dos idosos desconhecem câncer de bexiga&nbsp;&nbsp;CNN BrasilCâncer de bexiga: nova opção de tratamento reduz risco de recorrência&nbsp;&nbsp;Terra",
       "sources": [
         {
-          "name": "g1.globo.com",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaGpBYW5hclN5cFVlLVA3QlVsU0FXbDNHVi00T1piTVkxSC1UUkVGUG1ySzhKZ1ktMXJYc0pINFFHM0VrMDdNMlFMNXEybkktWmdlVHBrYjhHdk1sVGlxRTBUX2JtYTBBV2ZTZWNQQXJqalpVeVdtUm5fT1FMSi13dlVaelJYSnY4SVRGcU9SSHlQLTBhcEtzemp1ZTRWcWUyYmhteG530gG0AUFVX3lxTE1yWllJOUVhUUFfYVo1YW9obFM4aFZLTUpJZkhxX01CTWc1blVFWm9NZE5OczZEeW93WXVjYWNyZmtnOTJBb3BxNmh1bjlZRmQ2VUJGRzdFTXVBMHVJMWhLT2pIRHZkVFNhdUZfcU5BX0pzMm5ObVJiVFRQNTdpc2wzYXNmZ0JyRHhUak5Cb2hIdnZ4Zzh4VGFZV3NDUDYtRER6NjAtaFY5NnpUOTZ6NTZBVU9Hbg?oc=5"
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQemNVZHpYQklFY2l4RlVCX1RyVktWRU1rVWRrX3RVbGhFQml0Y1ZnTHpTeGdGY0pNUFhRbXl4OGhXbU5FZ2dhaC1yYmdWOXlrai1PWFVpeVd2RWVUWWpWWlhHX3ZBd3ktSm9fdHlheTdCVGxzUnBhcGp5bXdHU1NyREFWdHh1MWlPbFptalZVZlZ4Tjg3ZDhuMGtwbEdXS3I5X3dYZVBFc3BKR09WeE5lR3FYM0VVZTRMS3hLWlV5amJCRm5YNWJ2dTlYb0NCdnEwVVE?oc=5"
         }
       ]
     },
@@ -270,25 +282,13 @@
       ]
     },
     {
-      "id": "62a25b9bf5e9",
-      "title": "Mesmo sendo os mais afetados, 81% dos idosos desconhecem câncer de bexiga - CNN Brasil",
-      "published": "2026-09-04T06:33:31+00:00",
-      "summary": "Mesmo sendo os mais afetados, 81% dos idosos desconhecem câncer de bexiga&nbsp;&nbsp;CNN BrasilCâncer que pode dar sinais na urina ainda é desconhecido por 81% dos idosos; veja os sintomas&nbsp;&nbsp;correio24horas.com.brCâncer de bexiga: nova opção de tratamento reduz risco de recorrência&nbsp;&nbsp;Terra",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVVl5ckt5WHQtazc4MVp3UTdyWDV4TEVJdmJPSWVEQ3ExRGNlR0p3MjVlZU9fZWpyU2ZrQXU0NjdXRDBvdDlfTjc5X1llU0dDMk9LQnJoM3dQOFpCRmlWbnVxSUxac3Nfb1BhTDRfc0psMVdrZ21aZjdfT0pzYUEtWHV3eXhqNmlmbEc5alRxay1XdHBHbllpUS1zMVpBYnJvMWk0MWl3LWthSGs?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d7e0fbd7f476",
-      "title": "O que é matéria escura e por que sua possível descoberta agita cientistas? - InfoMoney",
+      "id": "3ad416c2af0b",
+      "title": "O que é matéria escura e por que sua possível descoberta agita cientistas? - infomoney.com.br",
       "published": "2026-09-03T21:30:00+00:00",
-      "summary": "O que é matéria escura e por que sua possível descoberta agita cientistas?&nbsp;&nbsp;InfoMoney",
+      "summary": "O que é matéria escura e por que sua possível descoberta agita cientistas?&nbsp;&nbsp;infomoney.com.br",
       "sources": [
         {
-          "name": "InfoMoney",
+          "name": "infomoney.com.br",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONWd5bFBDdkczeUJxMnBRMllHY0ZrQVNDTXRmRzJUVVgxelRyYldyQzF3Ukg1eHp1em9NNEg1ejVaSFRWUkF4MlVaU3ZDMWFpdlFBeTd6Y0NlWUFpR1JKQlByOThDdVcwdkZjaVF6alVxS191RHBCbGxhTjhpUG51QTFHaUpBTUhHZ283anFWVFZqaG9MbkpiWXZ30gGfAUFVX3lxTE1kMF9ONG0wRU80ZDZPU2FKVm1IenB6bXJWOTBhY0NiSDYtUnQ3b1FnalNGV1VtWi1lVFlmRWo2bG5PcWRLSXpHT2stWF9BTjZsMjdRcnZIMmtfUmlkaGJOdTdXRlFZNmVBUlNwb3lzMlJVZGQwM0NXQlIwMmdpS3ZJUUkteUN2QTNrWFBFZGhyQW5XbTBEdi12NGxsV25Pcw?oc=5"
         }
       ]
@@ -302,42 +302,6 @@
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPclNfYzhURW45b3BBOEg5dDZNdWlYTE1YNGQ2NWRNMlk2c1BOMDRTMkNLMXJWOTFKTGtNajMzUG84d19Yd3hwTUFuLUQyZnRkdDI5cWxvcnUxYlRoTWhWbHNZdjJLa2c5VDcxYzVjMlIyU3dDNV96NXdzY09ITHNYbTBScDFJb2JKU2VyalZvbHRLdlFWVXl4LXpJUjNYUE1oU3VKcVRUd3VuSnVadVdQRUMySlBQa0E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "988e9df1d09e",
-      "title": "Estudo aponta picos de envelhecimento do corpo nos 30 e nos 50 anos - Diário do Centro do Mundo",
-      "published": "2026-09-03T18:11:13+00:00",
-      "summary": "Estudo aponta picos de envelhecimento do corpo nos 30 e nos 50 anos&nbsp;&nbsp;Diário do Centro do MundoSeu corpo não envelhece aos poucos: estudo identifica picos de mudança nos 30 e nos 50 anos&nbsp;&nbsp;Época NegóciosA ciência descobriu duas fases em que o corpo humano envelhece de forma rápida e drástica.&nbsp;&nbsp;vietnam.vnEstudo revela a idade em que o corpo envelhece mais rápido&nbsp;&nbsp;DOLO corpo não envelhece inteiro ao mesmo tempo: vasos aceleram aos 30, enquanto outros tecidos e",
-      "sources": [
-        {
-          "name": "Diário do Centro do Mundo",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcXhJc0liTzhrWXAzUG1VWXlndFU2Nkp3aGVSbXc4TFo4Zk1kRUM3YVlPNnY1UXZna1VBUU5kbEdCNFJsck1XMUNQNE05blI0OWhjeGZHcGVtcWw0dXBfUnZqQlZ6bFVjX0QtbEE0Nmh3Mk16V05vUFdaZmFJLUp4aWlOSDZHTUVXd1ZMdmdrNE5yU2tBejJ2NWxUWGw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e4825e2feb37",
-      "title": "Aos 29, jovem faz teste de DNA como brincadeira e se depara com uma descoberta inesperada - Crescer",
-      "published": "2026-09-03T17:35:07+00:00",
-      "summary": "Aos 29, jovem faz teste de DNA como brincadeira e se depara com uma descoberta inesperada&nbsp;&nbsp;Crescer",
-      "sources": [
-        {
-          "name": "Crescer",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxObWFyYjZnLXJDVUdjbGU2Vnh2UU14UTNSdjRtMjZOZk04QXFseHp2YmZ6bUYtSUhpOEVLdk93QmhjR19wMG9HLXBrVHdKdlBJdkZCdm1ILW9kUEV4UXZtZWRYdFFJZVJtNTZjdmVFNjRTaDNEcHQzc3p5MWxjLUoyU01MSjNmMVJRbWcyYTh5OFVxcldEaUhGQi1IZUVSbWVkVk5Tb1h4NVZJWXhDWnJIX3l1dVh5TDFET0IzLXQxVWVVS3Rxck00U202aWJ6YXNtUTZUT2tIeVU4UFRxdDBLQnY2TzQyMGk3NWZEVWRQTUhOd9IBgAJBVV95cUxNQ0RXZ19Sdm1MdTVvbi1iemV5MkdtRWotejdQVEtfbWZrbVFRLVFCSXFsTG8xUW5kb1NmNV93TlhVWEpTcFAweXRzbm9lTnBmSG9uYTN3RkFOU0NST2QwNk5scUhoWmJoTkpUYUtrLWVqME8zLVlnTFFsOXd6TFNQOG55dzA2Z3djcWJkemV1b3RHVG94YjhkdzhnNzFsWGxObUgtNVUzQ3dIV0lNaHpoQm82bDJpSXFGa1pXd21QelBtYV9seUJHMzJGUTRFRHB3RHA4RnU4LVBPNW4tdjNfRGZFdGJwV0RNVGJ1Mlp4b0VDc3JnQ3p3R2NoWXpmRmd3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c731fd51915c",
-      "title": "Estagiária de Psicologia é presa após viver romance com interno de clínica de reabilitação - Extra online",
-      "published": "2026-09-03T15:40:57+00:00",
-      "summary": "Estagiária de Psicologia é presa após viver romance com interno de clínica de reabilitação&nbsp;&nbsp;Extra online",
-      "sources": [
-        {
-          "name": "Extra online",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOLS1ueVZKbnZJVHJpbnFyUjJCMlJDdjJ1RjVVS25CeEIzQ1Y5TC1XN09YUVhxYmozVjlMa2hMc2JubE8xLUtwX3Z2YUVGOElTOVRoNDE0Y1F4QzdzeWhHQzU5ZFd4SU1WRV9XZ3NtQmJidkdiLUpZSXk5RF9xa1puS2NzU19fYTU4akZUWHhJelJmcHIzeGc3ZHgtSTVZcHo4eVdwcjlSUlVTZWZOSWZyZXZCNE1RWVU0Q1U0ZVVfMXFqY1lZc2dpekpoOG5ycGI2YXBRcE1YVnp0UVFDTV9JRlh2M0FEM0gtZlHSAfgBQVVfeXFMUEZnRUtRdHh0WlR1aHFHX2pjNVliWW92bXc3MGFfdEV1djJYY0tIUmpCZTdpNFBlaEJ0UjhmbDJYWVlzRUpNblhZR0tHNnBBRXFmaWgwN3p0cjZTY2I0d1lISkJ0QUNBZTZpZ1JnNk1nS1hVOUF5WmpPUjEwbVk2X2dEd09zQ2tUSFdCbU5WaFVLZEFoRWNTNlUwamk1anNEX0kwWHZFalJYTVQ3MXpwWFNEb3V2N2txSGU2Nnc0TmlIMWtzYlg1bWRRSWJjbnZoc2xUZDdlckVlN2VMMDI3bUJZSGUxRkUzcVpxZm5ZbHRLZi1QRlJDWEc?oc=5"
         }
       ]
     },
@@ -366,38 +330,26 @@
       ]
     },
     {
-      "id": "f2436a19a3de",
-      "title": "Tirzepatida x Semaglutida para Perda de Peso: Qual É a Diferença? - Forbes Brasil",
+      "id": "47141d9c279a",
+      "title": "Tirzepatida x Semaglutida para Perda de Peso: Qual É a Diferença? - forbes.com.br",
       "published": "2026-09-03T08:00:00+00:00",
-      "summary": "Tirzepatida x Semaglutida para Perda de Peso: Qual É a Diferença?&nbsp;&nbsp;Forbes BrasilRemédios e bebidas ilegais viram ameaça silenciosa à saúde pública | Mercado ilegal&nbsp;&nbsp;Valor EconômicoEnvelhecimento e mau hálito: veja quais são os 10 efeitos colaterais das canetas emagrecedoras&nbsp;&nbsp;CNN BrasilEmagrecimento rápido pode provocar impactos na pele e nos cabelos&nbsp;&nbsp;Veja SaúdeUso de canetas emagrecedoras sem prescrição traz riscos à saúde&nbsp;&nbsp;Poder360",
+      "summary": "Tirzepatida x Semaglutida para Perda de Peso: Qual É a Diferença?&nbsp;&nbsp;forbes.com.brRemédios e bebidas ilegais viram ameaça silenciosa à saúde pública | Mercado ilegal&nbsp;&nbsp;Valor EconômicoEnvelhecimento e mau hálito: veja quais são os 10 efeitos colaterais das canetas emagrecedoras&nbsp;&nbsp;CNN BrasilEmagrecimento rápido pode provocar impactos na pele e nos cabelos&nbsp;&nbsp;Veja SaúdeUso de canetas emagrecedoras sem prescrição traz riscos à saúde&nbsp;&nbsp;poder360.com.br",
       "sources": [
         {
-          "name": "Forbes Brasil",
+          "name": "forbes.com.br",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObjBKMUhqWUV2MHJqTXJ6TmRYbDV6LVBSdzhpeFZpRzAwajVhWlVaTlVNNFVtMTljeXg0OTlZRm0zRzFRWXVPVl9reHJrUkpCRTRXRVdBc0RYVUJfS2xGTThTVnBEUm0xM3I4NHI2RmktaWppYXI1WjN4RC1CS3VWTV9wZWRZR21JSlhyMVpOUkZkakRhZGJicVRMTWl1cHRGYzVJTkxtM2tGWTQ?oc=5"
         }
       ]
     },
     {
-      "id": "f6c0a264f655",
-      "title": "Herpes-zóster cresce 70% na Bahia; veja os primeiros sinais - correio24horas.com.br",
+      "id": "3fb79fd25265",
+      "title": "Herpes-zóster cresce 70% na Bahia; veja os primeiros sinais - Jornal Correio",
       "published": "2026-09-03T08:00:00+00:00",
-      "summary": "Herpes-zóster cresce 70% na Bahia; veja os primeiros sinais&nbsp;&nbsp;correio24horas.com.br",
+      "summary": "Herpes-zóster cresce 70% na Bahia; veja os primeiros sinais&nbsp;&nbsp;Jornal Correio",
       "sources": [
         {
-          "name": "correio24horas.com.br",
+          "name": "Jornal Correio",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWWU3OEQ2WDMzak9SY3N1VDRfRzdReEt4MUlrdkdfS19JdkJpU3I3RUJpNTE2eW1yYUtudWV4eHBjVlluMFFkdi1uNXU4RFJQNEdqTU9fNFVMYlp3Q0dmaHN1VGFLNy1uMnJEa3lGejR4QUoyTFl3T0c5SUh3VTdmZFhhdUhxTzlXY2RuR1JhcTZxLWlqcXNfZEpiYlR2T3hLbjRLYU1EQVZDanRnb29SemRB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2786a632da35",
-      "title": "Bombas para os músculos: o preço que o corpo paga pela hipertrofia, órgão por órgão - O GLOBO",
-      "published": "2026-09-03T07:30:47+00:00",
-      "summary": "Bombas para os músculos: o preço que o corpo paga pela hipertrofia, órgão por órgão&nbsp;&nbsp;O GLOBONão Tem Cabimento: Programas auxiliam no desmame de anabolizantes&nbsp;&nbsp;Folha de S.PauloT4EP.12: Anabolizantes em alta: os impactos do uso de hormônios entre jovens&nbsp;&nbsp;CRMSCProjeto cria regras para publicidade de anabolizantes e exige alertas sobre riscos à saúde&nbsp;&nbsp;CREMERJ NewsUso de anabolizantes e risco cardiovascular são desafios para cardiologistas e estarão entre os te",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOXV4WDlFQzhBRzJUNHNORXdnR2t2dFhlamhtSE5rbEZKdWxxNnVtcFdqNktkTElNN0p5UmNxVkM4SEYyX3lhb3c4cHMyc3pFRVBJMGxGUFVBRC1nbUpPNkh2cXpaR203Ump5Nkw2QWktZVFMXzVfYXZBc2VzV3BrSEhqYzRYTHBicGZzaGpMSThST2F1OEJ0MzgtLU9TaEF4N1QyR3FVRmZzVmRIb3puWGFBXzBMS0hXN2FyUzhnV0c3NGtMc2Z4dnJmaVdUd2pnbzhF0gHiAUFVX3lxTFBqb2NGYlhvekoxNDk3STFRQ3hpZFlVMmdOaElnaVJqMHlHSG1ib0lScXg2Q1lYUnZId2lzTnh1bS1fRDdYd05yalZNUE5HX1lSdUw0RFVCYnJaV1Zrd0ViZDc5empaVTBQS0hSY3docXA5SmtqWi0wcENLNThwYmpiZW9YUGxLQnZkMVkzck9wZUlTNmpQbkE3SnNZa2NKLVNDNUJQSU9DbnRzZEN3bHE4VGpVNjVEME5NTzRVbWczY1ZIT1VJYVJEMUZ3STBGOUM1M2VUSTdWQkJMU2J1SnhGQ3c?oc=5"
         }
       ]
     },
@@ -405,7 +357,7 @@
       "id": "e87540a5071e",
       "title": "'Ameba devora meus olhos': jovem perde visão após banho com lentes - UOL Notícias",
       "published": "2026-09-02T21:10:33+00:00",
-      "summary": "'Ameba devora meus olhos': jovem perde visão após banho com lentes&nbsp;&nbsp;UOL NotíciasCuidados com lentes de contato&nbsp;&nbsp;g1.globo.comCampanha de conscientização alerta que uso inadequado de lentes pode levar à cegueira&nbsp;&nbsp;Correio BrazilienseJovem que usava lentes de contato fica cega após ser infectada por ameba&nbsp;&nbsp;MetrópolesTomar banho com lentes de contato pode causar infecção rara e levar à perda da visão&nbsp;&nbsp;Diário do Comércio",
+      "summary": "'Ameba devora meus olhos': jovem perde visão após banho com lentes&nbsp;&nbsp;UOL NotíciasUso inadequado de lentes de contato pode representar riscos à saúde dos olhos&nbsp;&nbsp;G1Campanha de conscientização alerta que uso inadequado de lentes pode levar à cegueira&nbsp;&nbsp;Correio BrazilienseJovem perde visão após infecção causada por ameba em lente de contato&nbsp;&nbsp;Jornal OpçãoTomar banho com lentes de contato pode causar infecção rara e levar à perda da visão&nbsp;&nbsp;diariodocomerc",
       "sources": [
         {
           "name": "UOL Notícias",
@@ -453,7 +405,7 @@
       "id": "cdf71040d690",
       "title": "Comissão de Assuntos Sociais aprova vacina contra herpes-zóster no SUS - Senado Federal",
       "published": "2026-09-01T18:09:28+00:00",
-      "summary": "Comissão de Assuntos Sociais aprova vacina contra herpes-zóster no SUS&nbsp;&nbsp;Senado FederalVacina contra herpes-zóster passará a ser oferecida pelo SUS&nbsp;&nbsp;Senado FederalVacina contra herpes-zóster está associada à redução de doenças cardiovasculares, revela novo estudo da Nature Medicine&nbsp;&nbsp;O GLOBOComo o vírus da catapora exige vacina contra herpes zoster&nbsp;&nbsp;Correio BrazilienseVacina do herpes-zóster vai chegar ao SUS? Entenda Projeto de Lei&nbsp;&nbsp;Veja Saúde",
+      "summary": "Comissão de Assuntos Sociais aprova vacina contra herpes-zóster no SUS&nbsp;&nbsp;Senado FederalVacina contra herpes-zóster passará a ser oferecida pelo SUS&nbsp;&nbsp;Senado FederalVacina contra herpes-zóster está associada à redução de doenças cardiovasculares, revela novo estudo da Nature Medicine&nbsp;&nbsp;O GLOBOComissão do Senado aprova inclusão de vacina contra herpes-zóster no SUS&nbsp;&nbsp;Tribuna do NorteComo o vírus da catapora exige vacina contra herpes zoster&nbsp;&nbsp;Correio Br",
       "sources": [
         {
           "name": "Senado Federal",
@@ -470,18 +422,6 @@
         {
           "name": "BBC",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13UURDTzN1VVI4Z1lKbU9jVUxQcjNPaUpRN1RQMHQ5VGhCcV80TVc3cWhneXNUNzM3WGs4cGkwUEtqWmxWVk9PekNLNFRnTHFFM2JKTlY3VmFubVpKUzFKU2tn0gFnQVVfeXFMUFRiNGZjaEdZWC1pb2N4QnZvTTJyMEJkZ0R3elgtZVNyNGs4bThmalpST19LSDFGMXhpOEFvTXQzaUhqQXRWYUt6U0VucF9icTZTSTJUcVNNSkNjQmZxancyZFB5QmItSQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "45abdf772e6f",
-      "title": "Cirurgia íntima: o que leva mulheres a buscar procedimentos reconstrutivos - O GLOBO",
-      "published": "2026-08-30T12:21:15+00:00",
-      "summary": "Cirurgia íntima: o que leva mulheres a buscar procedimentos reconstrutivos&nbsp;&nbsp;O GLOBODra. Júlia Melo desmistifica a cirurgia íntima feminina e derruba tabus antigos&nbsp;&nbsp;O GLOBOQuase metade das pacientes de cirurgia íntima tem entre 18 e 34 anos; procedimentos chegam a 201 mil&nbsp;&nbsp;Jornal OpçãoCirurgia íntima e a busca por procedimentos reconstrutivos&nbsp;&nbsp;Correio do Povo PenedoHarmonização vaginal: entenda os benefícios que vão além da estética&nbsp;&nbsp;band.com.br",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTVdDZlJ1NUVSeWNITEpNc25EbVZEMjNxakh0cnFwanRfSGFTZGJiWEdLZmVwc1NzYVcwU3VsTVNzNjhqYWlxdG55UmhiUzVuaVpURHBPcURHbkpyTVJWOFlCN0ZPWGxKa2lRWGtzb0h1aXJqaHJaS2toSUZ4OGlfQk93R0NUOFZUV0JZR2xkMVJHWUJUMmdtUUtweG94SUY2dEl5b1pBUkVIQUFaYzYxeXV1ZGM1bUVJMDMwWjdaMFgtR2RySWfSAdQBQVVfeXFMT0FNaUpkUmdWbVE3SGdwQ08tdDNMZVRTWGFoWlU3d2V6Y19vd2FKckNic2xuT3V6dnB1X3lMQjRPTDRVQVcxNVZYbVRQeElFRWhaR1ZhZWs3QXJsV1BTVXBvZ0FRbEFxNlVEX1hoWEs0WmFUSk9ZWEs3SnFpRHE2amJPeWE0T3c2U2d6TThrUU9zdF9CN2doVXR3VUxDX1FscXV5SDdySkZ6b0JZUUpsQmtaYnNNQThUQkF4VGdCcEp4WnZmREI1UkcxV0NLTE1EN25IZk0?oc=5"
         }
       ]
     }
