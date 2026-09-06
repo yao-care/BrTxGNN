@@ -1,10 +1,46 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-09-05T20:03:06.973949+00:00",
-  "total_fetched": 101,
-  "unique_count": 98,
-  "health_related_count": 35,
+  "fetched_at": "2026-09-06T03:29:15.731708+00:00",
+  "total_fetched": 93,
+  "unique_count": 91,
+  "health_related_count": 31,
   "news": [
+    {
+      "id": "4421f53a70c4",
+      "title": "A psicologia afirma que quando um adulto desenvolve uma conexão muito mais profunda com animais de estimação do que com humanos, a explicação costuma estar na busca por um amor que não oferece risco de traição ou abandono - Super Rádio Tupi",
+      "published": "2026-09-05T23:40:08+00:00",
+      "summary": "A psicologia afirma que quando um adulto desenvolve uma conexão muito mais profunda com animais de estimação do que com humanos, a explicação costuma estar na busca por um amor que não oferece risco de traição ou abandono&nbsp;&nbsp;Super Rádio Tupi",
+      "sources": [
+        {
+          "name": "Super Rádio Tupi",
+          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQNEYyMkxnYjdESmZRb2s2WFNZb0UyOGxFanZNcnM5eXV2aGlpODRMN204cWJuS1dDNDA5VUFzSVRadmladGFESnNXYlFPcHJrTTM5TmxHSDRTdVZieEdjMEE0UWE2cGJnblJJMGlNU2xpUDJuN0kwSG1zRGFVQ1NveGQzdllpdDZraTh3UnY4VWttZGhpSWJqakRreG9WLTJKdU5QUGo5TW5sTDNFLVZWa3FVdDlManp2c0tvSWJnSE5OX3BPUHJkblU5VExUN1JhWHg3ZVFoOEZ1VlRsR3pQSnp4d25GYk1MVF9pbzRibHlFemNqU3I0OU42djh2UGpnTG1ZeHFIWVY2Rlp2cFpjTXNZVklRdjByMDByeEpHMUozTlF1TFpNVHRSSElFbXY5OEdnSjVIZGMzLTlSM0hnR2l1VGhSNVRoVUN6bjlLWkUzLUZ1Unc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d70ae6a52048",
+      "title": "Fundo do oceano Índico se rompe diante dos cientistas pela primeira vez: crosta se move 4,2 metros em apenas 6 dias, derrama 160 milhões de m³ de lava e revela ao vivo o nascimento de uma nova porção do planeta - CPG Click Petróleo e Gás",
+      "published": "2026-09-05T20:54:00+00:00",
+      "summary": "Fundo do oceano Índico se rompe diante dos cientistas pela primeira vez: crosta se move 4,2 metros em apenas 6 dias, derrama 160 milhões de m³ de lava e revela ao vivo o nascimento de uma nova porção do planeta&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPY1IzYmVySldqZzVGZHpQMlBQczZpT2tkTGFXWHVfZ3ZkRlVTUzF3Y0pjV2FRUkQxNGx1MjF0LTRXczI4dDUwbEJsRzlyRFpERGdvemlZdnpBSU0yNFVZb3pjbGZMbU5Jd1NXM0E4RXplenFZN1lXWkgxeXdnR0FZaFhWX25iRTFhTHpyVmowVkpoak1kOUg0TG9rekp6c0ZvdTVGc1pLMnk5M2NVRzVBdEg2ZENXbWtObXRoUXJJZndiNE4tNEdtZlk0ODZOLWhKWTZCU0kyQTN1VHJVZzhrSEJ4MkF1SHEw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "159d7bd213c5",
+      "title": "Paixão não é tudo: estudo aponta habilidade importante para relações mais duradouras - Folha BV",
+      "published": "2026-09-05T17:00:00+00:00",
+      "summary": "Paixão não é tudo: estudo aponta habilidade importante para relações mais duradouras&nbsp;&nbsp;Folha BV",
+      "sources": [
+        {
+          "name": "Folha BV",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSksxbU1UdHJLanZFRmJ2Q0V6VVE0MjNsNnE5OGZvVkVLZ0g5X1p6c0JGRjZSMThvcUF1VjRKQ0xldFdYT0ZKRmZubFBUeDFQdE5Ba2x3MzZNSWFEQzI1eldZSGQxbGdxS1ZfbjZwMXpWLUowR1Y0aEFkQnBrb3g0MGhQVFZUb2ZXTzJHVlloWjVxNkJhdkJzUGNrTWp6bm9GYUhqWUlaRGtueWdxVkI4YVJwQTBJdDJOa251VWVB?oc=5"
+        }
+      ]
+    },
     {
       "id": "9f89c91dd4d3",
       "title": "Câncer após 11 de Setembro mata mais que o dobro das vítimas dos ataques - UOL Notícias",
@@ -14,6 +50,30 @@
         {
           "name": "UOL Notícias",
           "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWXRkM2pPQmtRV1JjMF8wMUhjOUhEUkYxWkN6ZnRoM2VEQ3RWZW9GdE5jWXBXcFJtWkxNMU1pWkFRZUM3U2p3Q3U1ak5xU3lmcTl1d0gtbW5GT2hoRk1YaDE2dUUtZV9NaUxqYTBYMmVMRXhvdDFWUHFoRFRyTm9tWU9oSXpHSmRhTDZFWmpvSEdWX2dEY2lycUZMbWRVLTBheHA4dWdDb1ZBQUtqRzlLYzg0Sm12d0hMdjFEN0VjMjNLZ0tTYUtCM1pJM2F1V19GdlM3ejlnMl9CVWtZcUo3Mg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d56a8500ddb6",
+      "title": "Paciente viveu 271 dias com rim suíno em estudo liderado por brasileiro - CNN Brasil",
+      "published": "2026-09-05T16:35:10+00:00",
+      "summary": "Paciente viveu 271 dias com rim suíno em estudo liderado por brasileiro&nbsp;&nbsp;CNN BrasilEstudo com brasileiro à frente faz homem sobreviver com rim de porco por 271 dias e aponta novo caminho para os transplantes&nbsp;&nbsp;G1Rim de porco mantém paciente sem diálise por 271 dias após transplante&nbsp;&nbsp;Correio BraziliensePaciente com doença renal terminal passa 271 dias com rim de porco e volta a acampar e carregar peso&nbsp;&nbsp;Jornal CorreioPaciente fica 271 dias com rim de porco an",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSkpkUnQwMVYwZlY2eFFjY0pGQlU2NU1BYUpaTXhENy1zOWtESXN1Y1I0OWZ5eG1nSHg1b0dVRURzVVJZeURpVkwzSXBtTURiRUFQTkM5TnpxQmRBTlVsWlpXbTZJa2hCMzNVWWdPcWNfdkE4THJEelRfNzNUQVVpV1VwazhjZFZQci1zbFRkeHJFY1gyMGY4QXluQ0xyaEI3RjRCYXJ3QjhyTUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9a797f878f3b",
+      "title": "Uma única dose de tratamento de edição de DNA mantém colesterol ruim 52% menor por um ano - Época Negócios",
+      "published": "2026-09-05T14:00:52+00:00",
+      "summary": "Uma única dose de tratamento de edição de DNA mantém colesterol ruim 52% menor por um ano&nbsp;&nbsp;Época NegóciosH.C. Wainwright reitera recomendação de compra para CRISPR Therapeutics&nbsp;&nbsp;Investing.com Brasil - Finanças, Câmbio e InvestimentosTratamento experimental busca apagar colesterol alto para toda vida - Jornalismo - Sistema Opinião&nbsp;&nbsp;tvguararapes.com.brTratamento de dose única promete controlar colesterol por até um ano&nbsp;&nbsp;URB NewsColesterol alto: edição genéti",
+      "sources": [
+        {
+          "name": "Época Negócios",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZ1d1QXRjQ1BmckJWcElvM0FSNHJnOEFSZU83R1puU2JIejdtVWFNUl9JTUZpYlZnN1RaeXZRZjRlZkdwMWdCNmc1aVgxUkJZLW81Sk5PS1MtSXc4TmloZFJmTExkOC01dEtVQnhjcnlnUFd3NHR0M3cxc3dMTnRLUkRiZWlIbUV4dG16ODFkZTNrVkoxRlNmallFV3RValY5SVZDMnQwd3dXZHV6Nmk2bjFwZ01SaG9xRHlPRXQ4TGd5dHFkbm9BLUxkTXlQUTMzX29kNTFYMGhuaWI1UEo1YTRRSlRkQ0FEQ1ZwOFlKVTJuMFl3NmVOR9IBhwJBVV95cUxOT0h0NkxPdE9GN0RHRWNjX2taOEN3RGkzOWh0MnNFNGphemY1ckVoWGI5YU5DdmpDeV9HbGJiTmZ0YWhjMG9oaW1zLTJ6UjlIYkE1QU9tTnVRNTFjeVlqMHJscVpQeWlKVjJqRGNTWkZlLVQzYUE1NlpEQ2NKZFhkR3B3Y1JTU3M3U0FyWU9oeThuSXU2c0xPNXlVdFhGWDRWTy12U1gtS1VPRkpyajBCTDZuSi1XUjdpZUlMRkxqVWNnLXVaQndBeE1ESVZNT1pBSTRfc1RGLU1uRWlFR2REWmNNQUpMZmpHc1dnZWd4WkZpOGhlaVFzQ1Y0eGtucmlHblRFNzVsaw?oc=5"
         }
       ]
     },
@@ -30,22 +90,10 @@
       ]
     },
     {
-      "id": "6948792e2058",
-      "title": "Estudo com brasileiro à frente faz homem sobreviver com rim de porco por 271 dias e aponta novo caminho para os transplantes - G1",
-      "published": "2026-09-05T13:31:26+00:00",
-      "summary": "Estudo com brasileiro à frente faz homem sobreviver com rim de porco por 271 dias e aponta novo caminho para os transplantes&nbsp;&nbsp;G1Paciente viveu 271 dias com rim suíno em estudo liderado por brasileiro&nbsp;&nbsp;CNN BrasilRim de porco mantém paciente sem diálise por 271 dias após transplante&nbsp;&nbsp;Correio BrazilienseHomem sobrevive 9 meses com rim de porco até receber órgão humano&nbsp;&nbsp;iG SaúdeHomem vive 271 dias com rim de porco antes de receber transplante humano&nbsp;&nbsp",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPX2ZFaHFfcmtINnFBa2NtYlgxaXdHU0NiRlM4QVBJemktaHE3MGhHNU1NNzZIUEhiR0o4YV9sY08tTHhTWUprQmlPSDJ3R2xybHF1QThlalhmb2w4Wlk5eVBxYmkxcmNXSG1YUW9uaFR5cTduR1FZZkVwaVkxbmtZenZWVlFpbkhWVnktWnBVUmVRWEJSR3RDZFBlTGtYcmRHWVc1OHVpSElra21FeFNvX1BBVXNxbU53UnNhVTN4UEo0VXZMZGZtMnBsWmhCdGMtNlpqdkNPTEkya2FrcUV5QkQwRkFrX2pDVnV2V3NpQlRlU0dueEJJbHc5djFaUkFQNFlQam9Da9IBlgJBVV95cUxOLXNTQlpaZFBFQW5IVGF2Y1BOTHEtaTVQemt2U3pydE1hcG5tNWMtVUFDQWd2Z09sSHlQTERkV3NTRFdKd0dPRTdEbmd3REItTEduRF91WThidXBaSE9WR05EVHl5S0wyZktsakdadDRXQU9SU2FkUV9oVktwbl9XNVpJeEtkRnI2U2trU1pDd2lCZ19sTVh5ZVd0RGVJTDlzZVVualdGaVBIaHlDbmd1bFlBc2pNY2x5d0tHSlJITXI2OFBnYlplUDFaQlZJRWwtNEsydExPcWZycHlWM3lkZG9XaDlubUppbTE5MF9VVC03aXFKdEpKbWpfLVotQVJldDNpRDRmTmFZS2ZRMDY3cHQtNGcwQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "bd1b1d6686d4",
       "title": "Todo corpo tem direito ao cuidado, mas saúde sexual ainda esbarra em desigualdade e estigma - Mídia NINJA",
       "published": "2026-09-05T12:29:44+00:00",
-      "summary": "Todo corpo tem direito ao cuidado, mas saúde sexual ainda esbarra em desigualdade e estigma&nbsp;&nbsp;Mídia NINJAPor que devemos fazer xixi depois do sexo? Veja hábitos importantes após a relação&nbsp;&nbsp;Folha de S.PauloDia Mundial da Saúde Sexual: Paraná reforça testagem contra ISTs&nbsp;&nbsp;Bem ParanáInformação e prevenção são fundamentais para o cuidado com a saúde sexual&nbsp;&nbsp;www.gov.brCalendário: 04 de Setembro – Dia Nacional da Saúde Sexual&nbsp;&nbsp;crfce.org.br",
+      "summary": "Todo corpo tem direito ao cuidado, mas saúde sexual ainda esbarra em desigualdade e estigma&nbsp;&nbsp;Mídia NINJAPor que devemos fazer xixi depois do sexo? Veja hábitos importantes após a relação&nbsp;&nbsp;folha.uol.com.brDia Mundial da Saúde Sexual: Paraná reforça testagem contra ISTs&nbsp;&nbsp;bemparana.com.brInformação e prevenção são fundamentais para o cuidado com a saúde sexual&nbsp;&nbsp;www.gov.brCalendário: 04 de Setembro – Dia Nacional da Saúde Sexual&nbsp;&nbsp;CRF-CE",
       "sources": [
         {
           "name": "Mídia NINJA",
@@ -54,10 +102,22 @@
       ]
     },
     {
+      "id": "7ba5dbc97ebb",
+      "title": "IA pode ajudar a identificar precocemente risco de suicídio, diz estudo - Correio Braziliense",
+      "published": "2026-09-05T08:05:00+00:00",
+      "summary": "IA pode ajudar a identificar precocemente risco de suicídio, diz estudo&nbsp;&nbsp;Correio Braziliense",
+      "sources": [
+        {
+          "name": "Correio Braziliense",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUVZWeGtMX3Q3TFFDU19zVFZaTVpzUUFVY1RFdXdHc18xd2xYOHVubDJQOHlka2dFX2FORW5qQXMxLVFTbThVU2UxemZkb3UzZTJUQVVBdkRIRTdpYWdEOFJLRkVjWEJrWkgxdWZ0VlM5cm9FZkRHR2ZIOE9oN2syMkltSlVOZVZ1V2VIaHRQZ1BGa1FkalAya0tLU2s3WDQ4LXY4YVVRN2hNQ3pOR3NFX01HLUlxY2taNHBTVDFVX3B0eUh5dkEtbk10QWZSczZ4T1pXZjMtQ1FRX2lHX0HSAeMBQVVfeXFMTndOZWphQ2FtUFFnWkMtZEdreUtWNWlDTmlXQUVIYlJYSjh3aHlLSlQ5eVpTOHJhdmR5Z193ejJFNThVUkNmd0dhSHI5dlVyU3A1LURVSFYyZ2VUdzJnM3NxY2pnSjVjc0NBd2tBRjVoOUduS0VwVnpCY1hTZGNIazJJQlVBNEZvdzVXNXhZSUlxc05WM0JNaGtjZ1lHNWhoWk9XYUtLNC1TZU9rV2ZwR1Y5b1R6eWpnODBSeWtrRU4tRWNDVmo1VExqSVVrQkx6SGNETkZnNm5yLXRCdlNLMFZ5Smc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "63ff0b526de3",
       "title": "Ondas de calor do El Niño podem agravar sintomas de doenças neurológicas, dizem especialistas - ICL Notícias",
       "published": "2026-09-05T08:00:55+00:00",
-      "summary": "Ondas de calor do El Niño podem agravar sintomas de doenças neurológicas, dizem especialistas&nbsp;&nbsp;ICL NotíciasAquecimento global: ondas de calor do El Niño podem agravar sintomas de doenças neurológicas&nbsp;&nbsp;Acre in FocoOndas de calor associadas ao El Niño elevam riscos neurológicos e podem agravar sintomas de Parkinson, esclerose múltipla e demência&nbsp;&nbsp;pagina1news.com.br",
+      "summary": "Ondas de calor do El Niño podem agravar sintomas de doenças neurológicas, dizem especialistas&nbsp;&nbsp;ICL NotíciasVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
           "name": "ICL Notícias",
@@ -66,13 +126,13 @@
       ]
     },
     {
-      "id": "afbb1926cc5c",
-      "title": "Exames de sangue para detectar Alzheimer estão disponíveis por até R$ 5.000; saiba quando há indicação - Folha de S.Paulo",
+      "id": "6320ff085058",
+      "title": "Exames de sangue para detectar Alzheimer estão disponíveis por até R$ 5.000; saiba quando há indicação - folha.uol.com.br",
       "published": "2026-09-05T07:00:00+00:00",
-      "summary": "Exames de sangue para detectar Alzheimer estão disponíveis por até R$ 5.000; saiba quando há indicação&nbsp;&nbsp;Folha de S.PauloVeja mais manchetes e perspectivas no Google Notícias",
+      "summary": "Exames de sangue para detectar Alzheimer estão disponíveis por até R$ 5.000; saiba quando há indicação&nbsp;&nbsp;folha.uol.com.brVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
-          "name": "Folha de S.Paulo",
+          "name": "folha.uol.com.br",
           "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNTzlabXpqZWhHcUVIUnBKVFRlbmh5STc4a1A5Vmkya1FXVmV0YTFuU09PSVhxbHJFdXR1YkN1aWg2VHFESXNSZzd2XzZwcjM5ZV9qaXpCTEYzNWtSQlRYX3c1VWtPU2tTRG1tZW5qWHRrRXJXN0F4VXRWVEU0eElkY2RPX0NfODJ2cDZMUXhqN3V6MkJ6OWthdjRIaUQ1RUFJeEctNDJMZXFqb2V5V1RYbkZTbEN5WFJTMm1vcGU4UXpwMTBncG5iSGlLS0hvcFM4NGJUaVlpcWxMR3U5dnFfYmZmRXdwTWlNVFdTaEx6OU1hdw?oc=5"
         }
       ]
@@ -102,18 +162,6 @@
       ]
     },
     {
-      "id": "09670f682790",
-      "title": "Sono ideal de adultos varia e põe em xeque regra das 8 horas - Folha de S.Paulo",
-      "published": "2026-09-04T21:00:00+00:00",
-      "summary": "Sono ideal de adultos varia e põe em xeque regra das 8 horas&nbsp;&nbsp;Folha de S.PauloQuanto tempo de sono preciso? Por que você pode esquecer a “regra das oito horas”&nbsp;&nbsp;SuperinteressanteO risco ao seu coração escondido no quarto, e não na cozinha&nbsp;&nbsp;Rádio ItatiaiaPesquisas descobriram maneiras de dormir que ajudam a prevenir a hipertensão.&nbsp;&nbsp;Vietnam.vnSono e pressão alta: o que estudos recentes investigaram sobre os níveis de pressão em pessoas com hipertensão&nbsp;&",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbnhzb1h1enR1V1V6RWNuNUVfb0Q3cFNNV2ZZWmVtV2ljMFozamV6bzBlWFplUDlHalNVb1dreGxUTGdRcjdKZFpaRFh2WVBhMkNkYmdCWWZnR2k5cFg2NWJoU1EwTXdFVzhPVUdINnF3MVFDN1NZcWlmQzYyZHhsSTJoSndvbHFsTVozb1BlODVPWlhOcnlKT0c1Y1pIN0xUVWQ5SWc0RjZITXRqR2ZuVlVVa21Cdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "51175bbf1f90",
       "title": "Canetas para músculos? Conheça medicamentos que prometem ganho de massa magra - Diário do Nordeste",
       "published": "2026-09-04T20:45:00+00:00",
@@ -126,25 +174,13 @@
       ]
     },
     {
-      "id": "92f676e5b390",
-      "title": "Pesquisadores encontram impressão digital humana de 43.000 anos - CPG Click Petróleo e Gás",
-      "published": "2026-09-04T20:06:00+00:00",
-      "summary": "Pesquisadores encontram impressão digital humana de 43.000 anos&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQYXJRQUxlZW1GVExQMEQyS3JMSXEtcVA0d1BYZ1lvZDZnWXE3cjBlRXI0aENnU3lOT0RqR3dscFdQaTJFdDk3TURtOUw3b0QwYzJFY3RGQ09FVnJFSXd4Y0w2X0s5azR1aFZvNmFIQndpTy1tMHoxMG9CLXNQcjZURWdtSkxVUS1XMmdzZzlqdjNjdlJ0YzJIcldjNHRCYWRVcWwxQ0ZnWmRKTkUzU0NnMzkyWFhBckVucFF3aTRNeHpuckg5SldwcS1lU01mZ2tob0xmS3MtVTh0OXRKSjIzaDdia3NKWGxUX1EtLTlNWXdLYWp6VXZoM0x1OEp4dEdTSzYtRldvTExXNllhUDhOUnJsbmItSWczM21MRjI3OFJSaUxoTXRsQnJEQXFCZlRWc0NaU2JobElCZVdLR1dvSHFETlpVZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "74c6c07defeb",
-      "title": "Cientistas criam mini-Big Bang em laboratório (contém clickbait) - meiobit.com",
+      "id": "dd7b5cc90ee0",
+      "title": "Cientistas criam mini-Big Bang em laboratório (contém clickbait) - Meio Bit",
       "published": "2026-09-04T17:11:56+00:00",
-      "summary": "Cientistas criam mini-Big Bang em laboratório (contém clickbait)&nbsp;&nbsp;meiobit.com",
+      "summary": "Cientistas criam mini-Big Bang em laboratório (contém clickbait)&nbsp;&nbsp;Meio Bit",
       "sources": [
         {
-          "name": "meiobit.com",
+          "name": "Meio Bit",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNV3VrM0kxclIzdjR1MGs0N2RxWjhPVUQ1UVBGdzlTUXNrSXFvcTh1WVZSZWtBMHpudmRycHFPZzB2QjVUN1F5YmExQURmaVdYODJPZURMUHVIY3ZhZ1JyNVNKRDlvRlgzWHEtYU1vWlBZS2ZyT25YYnhIbFM5SnRNVXp2QTQ0cUlJZXhJa3lENTZZSFNu?oc=5"
         }
       ]
@@ -165,7 +201,7 @@
       "id": "d50a59c17a32",
       "title": "Por que milhões de pessoas em todo mundo vão contrair sarampo em 2026 - UOL Notícias",
       "published": "2026-09-04T16:11:32+00:00",
-      "summary": "Por que milhões de pessoas em todo mundo vão contrair sarampo em 2026&nbsp;&nbsp;UOL NotíciasAumento em casos de sarampo no Brasil acende alerta no Rio Grande do Sul&nbsp;&nbsp;TerraSP inicia campanha de multivacinação na segunda-feira (3)&nbsp;&nbsp;Agência BrasilVacina contra o sarampo foca em bebês de São Bernardo&nbsp;&nbsp;Portal ABC do ABCSarampo chega a 28 casos em São Paulo | Brasil&nbsp;&nbsp;Valor Econômico",
+      "summary": "Por que milhões de pessoas em todo mundo vão contrair sarampo em 2026&nbsp;&nbsp;UOL NotíciasSarampo: entenda sintomas, riscos e quando se vacinar&nbsp;&nbsp;Agência BrasilAumento em casos de sarampo no Brasil acende alerta no Rio Grande do Sul&nbsp;&nbsp;TerraVacina contra o sarampo foca em bebês de São Bernardo&nbsp;&nbsp;Portal ABC do ABCSaúde de Barra do Piraí realiza campanha de vacinação contra o sarampo&nbsp;&nbsp;O Dia",
       "sources": [
         {
           "name": "UOL Notícias",
@@ -174,50 +210,14 @@
       ]
     },
     {
-      "id": "b04790e72dee",
-      "title": "Como investir no treino de força interfere no risco de diabetes tipo 2, segundo estudo - Estadão",
-      "published": "2026-09-04T16:00:00+00:00",
-      "summary": "Como investir no treino de força interfere no risco de diabetes tipo 2, segundo estudo&nbsp;&nbsp;EstadãoAtividade física e diabetes: o que estudos recentes investigaram sobre o controle da glicose em pessoas com pré-diabetes&nbsp;&nbsp;Tua SaúdeMulher de 42 anos diz que treino de força ajudou no controle do diabetes tipo 2 e revela 7 exercícios que fazem parte da rotina&nbsp;&nbsp;Super Rádio TupiPerda de peso moderada e atividade física regular podem reverter a pré-diabetes e adiar o desenvolv",
-      "sources": [
-        {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNGVrNHREeGxoMkpiQUo4NHBsa3ZUTk5mWElJaFZzMjdEb2J2UThEcHpBVjdYYm1ZUE5WY3B3Vi1McF90REN5SXNrV01mUm9haGNhMGE5UC1Idk5PRGdsV2ZrX3M1Um5UNkFDVjROd05abng1RmNxbW5sRzVnRWpjQ3prVmh4VHZJV1c0ZzdSSUZvNl9TNi1QQmN0UzdEc3VTWVR4UUd0TUlNb0w0Qzd2VGFTYkRGalpXbGVZRjFrdFnSAcYBQVVfeXFMUC1OdXMta2pncldVbUQ5ek9SemJiTnBHUmJZdkhBcUhuaHZMWmZZcW9uSmhuS2dEcDIxNFhPdXkyUjRic2JtYV8wV2tmTnpMaXNDUXFwTDZIaXFkUmFxNkpPN0JzeFZXUWxQNllYdkZ1RmJVRUZPZUlOM2RrMlhKeGk1bVVyX3BZSnVhOHdKNi1rLVNkNVZndXNKMFlub203aHhRVG84UU1rVmwxVThvOUZkQnZiZHE0Zkl6RGdnS3lQdVlOaHVR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "feb1137eb59c",
-      "title": "IgNobel 2026 premia estudo brasileiro que testou quando jararacas atacam - Metrópoles",
-      "published": "2026-09-04T15:39:00+00:00",
-      "summary": "IgNobel 2026 premia estudo brasileiro que testou quando jararacas atacam&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOckFZWnpSZmQtMHQ3RVo0eWRuX2RNYzczX291SURyY3JxUTV3Qkdsb1k1MHFkV19Kc1VseDhyOUVlRzFjNVcwQUp5VTVlQ2FTZG1QNGhWWlhmWlR4MFpLcHRoUm5ocGJNS2RqUUV1LV8yc1VfUm5NT1NKSTVlM0xuTHBuVnpJWXE2Y1YxN0phTndaQ2FKQkloWWt3SEotQ2tQT0xOLVB6VHVHZUk?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8348774d0da9",
       "title": "Gordura no fígado: fruta pode ajudar a reduzir acúmulo no órgão; saiba qual - ICL Notícias",
       "published": "2026-09-04T15:05:12+00:00",
-      "summary": "Gordura no fígado: fruta pode ajudar a reduzir acúmulo no órgão; saiba qual&nbsp;&nbsp;ICL NotíciasMédica orienta como tratar e prevenir gordura no fígado&nbsp;&nbsp;G1Gordura no fígado: veja quais alimentos priorizar e quais evitar no tratamento da doença&nbsp;&nbsp;ACidade ONHábitos modernos ameaçam o fígado&nbsp;&nbsp;osul.com.brDois hábitos aparentemente inofensivos que muitas pessoas têm, na verdade, 'destruíram' o seu fígado.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "Gordura no fígado: fruta pode ajudar a reduzir acúmulo no órgão; saiba qual&nbsp;&nbsp;ICL NotíciasMédica orienta como tratar e prevenir gordura no fígado&nbsp;&nbsp;G1Excesso de gordura no fígado: veja 10 alimentos que devem ser evitados&nbsp;&nbsp;O POVOHábitos modernos ameaçam o fígado&nbsp;&nbsp;Jornal O SulGordura no fígado: veja quais alimentos priorizar e quais evitar no tratamento da doença&nbsp;&nbsp;ACidade ON",
       "sources": [
         {
           "name": "ICL Notícias",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OZDZfbXAxU29pYXdfdUQ0bWZhbmlQT3FvdERzWi1zbmdBb1FqNnNoZ0NNVzZLSDNHMEV3Y1JvYk8xZjNKcXpmV1BabFZzclV2RGozYlIyb0xUVUFxcnNUWERFWlg3UVduMEpxQmNCbjc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e33d350c8e38",
-      "title": "'Café dos campeões' nas redes sociais é bomba química para o coração - UOL",
-      "published": "2026-09-04T14:06:01+00:00",
-      "summary": "'Café dos campeões' nas redes sociais é bomba química para o coração&nbsp;&nbsp;UOLMistura de medicamentos controlados com energéticos pode causar colapso&nbsp;&nbsp;Jornal Extra AlagoasProjeto proíbe venda de bebidas energéticas para menores de 18 anos&nbsp;&nbsp;Senado FederalAnvisa alerta para riscos de misturar medicamentos controlados com energéticos&nbsp;&nbsp;clicr.com.brMistura de remédios com energéticos viraliza e preocupa Anvisa&nbsp;&nbsp;Folha do ES",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeTNqa2lXdFR3d1ZITFlPUTZyLVBpT1ZMQ1BTMU4tRGdZdHdKV25GRDVna2xKaEh5bTRtVDZ1ZUs2bVBOa1E1RG9PcVpzRVh2WVFYYVJ3MFZHZFMwdldZWjJadWRWUjZmdTFHMVBKdnFEcTA5ZFlBYnJfNy0xRUlSR0JYSkJFdVNCeW8zellXeFBPUGtueEY4MW1TWUxjaXZUVmxMVVFNUnNxNU4zMGdLX3BOeU40V2NOeU5hTE1CZ2stazhSSmE0WG9n?oc=5"
         }
       ]
     },
@@ -234,18 +234,6 @@
       ]
     },
     {
-      "id": "56d8a7c0d109",
-      "title": "Infarto acontece mais cedo em São Paulo do que em outros estados, aponta estudo - Estadão",
-      "published": "2026-09-04T08:30:00+00:00",
-      "summary": "Infarto acontece mais cedo em São Paulo do que em outros estados, aponta estudo&nbsp;&nbsp;EstadãoInfarto atinge pacientes até 12 anos mais jovens em São Paulo, aponta estudo&nbsp;&nbsp;ExameMoradores de SP têm infarto mais cedo do que em outros estados, diz estudo&nbsp;&nbsp;CNN BrasilEstudo aponta infarto mais precoce em São Paulo do que em outros estados&nbsp;&nbsp;Diário do Centro do MundoPaulistas infartam até 12 anos mais cedo que o resto do País, mostra estudo&nbsp;&nbsp;band.com.br",
-      "sources": [
-        {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbko0LXhZWjZacEozNVRDQkRXZjQ3MU5mQlhXVWt1RUpVNW1xUFl2RGhkMWFOWDJPZnNGX1BidG8yOEhXcjhLTXpsSnNGTGhtMGJSZ0RmbWw1ZTl0LXhiZVBNQkVTQ3J2T3FJSi1qNUlRclZELUl4ZHNlZ0E4UzN4UloxMVVNR2Z6MWtaVzAwQWdDVTlrZEp2RDQzU3Uxa0VWREx2ZHA4QUxqSU9jenFrb2FNcUEzUG9zQ2YxeWRZTkJVdXZMR0c1d0c0SFJlTGhIc2c?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3254b44e8357",
       "title": "Quer um 'pixel' do Universo com seu nome? NASA promete cantinho nos primeiros cliques do telescópio Roman; saiba mais - G1",
       "published": "2026-09-04T08:12:28+00:00",
@@ -254,18 +242,6 @@
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORzd1eUp3S1VNaU5EazdURjZhUUZ6NzYzSUd0aHBndVZVVHNYTzJ0NEVPTWNzM25KODBxZVAtNVA0YlpGdDJ5V3U1cndDZTMtWGZlblFLT2l5bndBX0lSVE9WYk9LWUVsRmFzQjN1cVZFNnlqLUFWMnU1ekpaU2ZOMXJRUVNWMG1p0gGXAUFVX3lxTFBsVnpKNHZrRUIydVQ5M0Y1MjI1Sk9YQXJLQ194SzVJX0x4TjhOMEktaV9iRjM3TDhDSDVDLTFWWUpyWmw0WHNRNGNQdURWblFKbENSYjhJRnEtYnlWbnkzSFJBTWxaOUtSYTZuVlhkYXBfZnNYdGFsN3h1ck4yamRzMGZrMGl1RUl6UllLdWQ2OHh1LWVuOEU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6f23e6ef79a8",
-      "title": "Câncer que pode dar sinais na urina ainda é desconhecido por 81% dos idosos; veja os sintomas - Jornal Correio",
-      "published": "2026-09-04T08:10:00+00:00",
-      "summary": "Câncer que pode dar sinais na urina ainda é desconhecido por 81% dos idosos; veja os sintomas&nbsp;&nbsp;Jornal CorreioMesmo sendo os mais afetados, 81% dos idosos desconhecem câncer de bexiga&nbsp;&nbsp;CNN BrasilCâncer de bexiga: nova opção de tratamento reduz risco de recorrência&nbsp;&nbsp;Terra",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQemNVZHpYQklFY2l4RlVCX1RyVktWRU1rVWRrX3RVbGhFQml0Y1ZnTHpTeGdGY0pNUFhRbXl4OGhXbU5FZ2dhaC1yYmdWOXlrai1PWFVpeVd2RWVUWWpWWlhHX3ZBd3ktSm9fdHlheTdCVGxzUnBhcGp5bXdHU1NyREFWdHh1MWlPbFptalZVZlZ4Tjg3ZDhuMGtwbEdXS3I5X3dYZVBFc3BKR09WeE5lR3FYM0VVZTRMS3hLWlV5amJCRm5YNWJ2dTlYb0NCdnEwVVE?oc=5"
         }
       ]
     },
@@ -282,26 +258,14 @@
       ]
     },
     {
-      "id": "3ad416c2af0b",
-      "title": "O que é matéria escura e por que sua possível descoberta agita cientistas? - infomoney.com.br",
-      "published": "2026-09-03T21:30:00+00:00",
-      "summary": "O que é matéria escura e por que sua possível descoberta agita cientistas?&nbsp;&nbsp;infomoney.com.br",
+      "id": "62a25b9bf5e9",
+      "title": "Mesmo sendo os mais afetados, 81% dos idosos desconhecem câncer de bexiga - CNN Brasil",
+      "published": "2026-09-04T06:33:31+00:00",
+      "summary": "Mesmo sendo os mais afetados, 81% dos idosos desconhecem câncer de bexiga&nbsp;&nbsp;CNN BrasilCâncer que pode dar sinais na urina ainda é desconhecido por 81% dos idosos; veja os sintomas&nbsp;&nbsp;Jornal CorreioCâncer de bexiga: nova opção de tratamento reduz risco de recorrência&nbsp;&nbsp;Terra",
       "sources": [
         {
-          "name": "infomoney.com.br",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONWd5bFBDdkczeUJxMnBRMllHY0ZrQVNDTXRmRzJUVVgxelRyYldyQzF3Ukg1eHp1em9NNEg1ejVaSFRWUkF4MlVaU3ZDMWFpdlFBeTd6Y0NlWUFpR1JKQlByOThDdVcwdkZjaVF6alVxS191RHBCbGxhTjhpUG51QTFHaUpBTUhHZ283anFWVFZqaG9MbkpiWXZ30gGfAUFVX3lxTE1kMF9ONG0wRU80ZDZPU2FKVm1IenB6bXJWOTBhY0NiSDYtUnQ3b1FnalNGV1VtWi1lVFlmRWo2bG5PcWRLSXpHT2stWF9BTjZsMjdRcnZIMmtfUmlkaGJOdTdXRlFZNmVBUlNwb3lzMlJVZGQwM0NXQlIwMmdpS3ZJUUkteUN2QTNrWFBFZGhyQW5XbTBEdi12NGxsV25Pcw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "636ef9fd1695",
-      "title": "Opinião - Suzana Herculano-Houzel: Há esperanças de calar as doenças de príon - Folha de S.Paulo",
-      "published": "2026-09-03T21:00:00+00:00",
-      "summary": "Opinião - Suzana Herculano-Houzel: Há esperanças de calar as doenças de príon&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPclNfYzhURW45b3BBOEg5dDZNdWlYTE1YNGQ2NWRNMlk2c1BOMDRTMkNLMXJWOTFKTGtNajMzUG84d19Yd3hwTUFuLUQyZnRkdDI5cWxvcnUxYlRoTWhWbHNZdjJLa2c5VDcxYzVjMlIyU3dDNV96NXdzY09ITHNYbTBScDFJb2JKU2VyalZvbHRLdlFWVXl4LXpJUjNYUE1oU3VKcVRUd3VuSnVadVdQRUMySlBQa0E?oc=5"
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVVl5ckt5WHQtazc4MVp3UTdyWDV4TEVJdmJPSWVEQ3ExRGNlR0p3MjVlZU9fZWpyU2ZrQXU0NjdXRDBvdDlfTjc5X1llU0dDMk9LQnJoM3dQOFpCRmlWbnVxSUxac3Nfb1BhTDRfc0psMVdrZ21aZjdfT0pzYUEtWHV3eXhqNmlmbEc5alRxay1XdHBHbllpUS1zMVpBYnJvMWk0MWl3LWthSGs?oc=5"
         }
       ]
     },
@@ -333,7 +297,7 @@
       "id": "47141d9c279a",
       "title": "Tirzepatida x Semaglutida para Perda de Peso: Qual É a Diferença? - forbes.com.br",
       "published": "2026-09-03T08:00:00+00:00",
-      "summary": "Tirzepatida x Semaglutida para Perda de Peso: Qual É a Diferença?&nbsp;&nbsp;forbes.com.brRemédios e bebidas ilegais viram ameaça silenciosa à saúde pública | Mercado ilegal&nbsp;&nbsp;Valor EconômicoEnvelhecimento e mau hálito: veja quais são os 10 efeitos colaterais das canetas emagrecedoras&nbsp;&nbsp;CNN BrasilEmagrecimento rápido pode provocar impactos na pele e nos cabelos&nbsp;&nbsp;Veja SaúdeUso de canetas emagrecedoras sem prescrição traz riscos à saúde&nbsp;&nbsp;poder360.com.br",
+      "summary": "Tirzepatida x Semaglutida para Perda de Peso: Qual É a Diferença?&nbsp;&nbsp;forbes.com.brRemédios e bebidas ilegais viram ameaça silenciosa à saúde pública | Mercado ilegal&nbsp;&nbsp;Valor EconômicoEmagrecimento rápido pode provocar impactos na pele e nos cabelos&nbsp;&nbsp;Veja SaúdeAlerta: nova forma de contrabando de emagrecedores exige que comprador faça mistura em casa&nbsp;&nbsp;R7O efeito das canetas emagrecedoras chega à indústria da beleza&nbsp;&nbsp;Exame",
       "sources": [
         {
           "name": "forbes.com.br",
@@ -357,7 +321,7 @@
       "id": "e87540a5071e",
       "title": "'Ameba devora meus olhos': jovem perde visão após banho com lentes - UOL Notícias",
       "published": "2026-09-02T21:10:33+00:00",
-      "summary": "'Ameba devora meus olhos': jovem perde visão após banho com lentes&nbsp;&nbsp;UOL NotíciasUso inadequado de lentes de contato pode representar riscos à saúde dos olhos&nbsp;&nbsp;G1Campanha de conscientização alerta que uso inadequado de lentes pode levar à cegueira&nbsp;&nbsp;Correio BrazilienseJovem perde visão após infecção causada por ameba em lente de contato&nbsp;&nbsp;Jornal OpçãoTomar banho com lentes de contato pode causar infecção rara e levar à perda da visão&nbsp;&nbsp;diariodocomerc",
+      "summary": "'Ameba devora meus olhos': jovem perde visão após banho com lentes&nbsp;&nbsp;UOL NotíciasUso inadequado de lentes de contato pode representar riscos à saúde dos olhos&nbsp;&nbsp;G1Campanha de conscientização alerta que uso inadequado de lentes pode levar à cegueira&nbsp;&nbsp;Correio BrazilienseJovem perde visão após infecção causada por ameba em lente de contato&nbsp;&nbsp;Jornal OpçãoTomar banho com lentes de contato pode causar infecção rara e levar à perda da visão&nbsp;&nbsp;Diário do Comé",
       "sources": [
         {
           "name": "UOL Notícias",
@@ -369,23 +333,11 @@
       "id": "d5a94ebf1b59",
       "title": "Cientistas descobrem possível benefício inesperado envolvendo semaglutida e saúde mental - Extra online",
       "published": "2026-09-02T19:35:16+00:00",
-      "summary": "Cientistas descobrem possível benefício inesperado envolvendo semaglutida e saúde mental&nbsp;&nbsp;Extra onlineCanetas emagrecedoras podem ajudar na prevenção do câncer, diz médico&nbsp;&nbsp;Correio BrazilienseCanetas emagrecedoras podem reduzir inflamação e consumo de álcool? Confira&nbsp;&nbsp;Gazeta do PovoEstudo aponta que remédios usados para emagrecer podem ajudar a proteger o coração em pacientes com obesidade&nbsp;&nbsp;O POVOEstudos avaliam canetas emagrecedoras como tratamento para d",
+      "summary": "Cientistas descobrem possível benefício inesperado envolvendo semaglutida e saúde mental&nbsp;&nbsp;Extra online",
       "sources": [
         {
           "name": "Extra online",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMllmUU50Y2VfbWZUNWEzSHRBcF9QV1haMHNBZ1dQdm1EVzJuaWxhWDlSV1l4dFVpbXhSSjRLc2FJSXpycWc0aGxSdUpETW9vcDlfdFY3dUNJX1p3bVpCbDNPcXFxdWd5bEF1SVNJbmNMRHJCdkJxUUstNEFGM2NaSm13eTk4WG83OUozQ2lsREZGcUl2UzQ2a3J4dkQzYnhoeUJ2b1E5UkJZcUhzdU1vSTcwbGRjSUVUM3hNdFpqYlZjN0JWU18yZWVnQmI4RDQ2ZTAtMXhuc9IB5gFBVV95cUxQTEw4LWZrZ2xqU3NCM3ZjX0JiVXhIRDBWZGRNTnRJVmxWSWxjMVdKNEIzSFFxUG9zV2t4S1dLWmgwZkRrRnhnQVlWUS1XWTVRT1M0eDN2Wkp6djExX0xfeF90RHlrMVBsVDRLd0s3MURiU2d4TlE3V0NvaWVQVTB3ZS1TUlZxZDRaaWVjLTI5OWlmSldNWlk2MEVRT3pEUVFIMEZnM1h0UEZuUy1RQURJV3pLVHUxOXR6X1FCa2lEemNxY2p1SjQ5NWVtald4cXJqWFowZG9fSlQybnNIcnpjYnM2MlFCZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "406be54abdf6",
-      "title": "Pelagra: doença pode ser causada por desnutrição e alcoolismo - Portal Drauzio Varella",
-      "published": "2026-09-02T19:07:07+00:00",
-      "summary": "Pelagra: doença pode ser causada por desnutrição e alcoolismo&nbsp;&nbsp;Portal Drauzio Varella",
-      "sources": [
-        {
-          "name": "Portal Drauzio Varella",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRkVBVXF5YzNwVmFkZlctbUE1dDItN0RIS2ZuOXYxaFZ1Yk1TYWZFM3YxdlFiTmFOU3U3dmRYS0oyencxMFlGUHRuUnpZUTlsa3cxSTgzZVhqVEM3TF85Y2ZfMUFiT3d2d1BlOTVvSG5BUVdVb0FGZE1aX0JteEF4UEg1ZDNqNW9jU0JhOVRMN3JwNFFrNGpIb0hwSUphQXB3OUx6NnRlenhKU0U?oc=5"
         }
       ]
     },
@@ -402,18 +354,6 @@
       ]
     },
     {
-      "id": "cdf71040d690",
-      "title": "Comissão de Assuntos Sociais aprova vacina contra herpes-zóster no SUS - Senado Federal",
-      "published": "2026-09-01T18:09:28+00:00",
-      "summary": "Comissão de Assuntos Sociais aprova vacina contra herpes-zóster no SUS&nbsp;&nbsp;Senado FederalVacina contra herpes-zóster passará a ser oferecida pelo SUS&nbsp;&nbsp;Senado FederalVacina contra herpes-zóster está associada à redução de doenças cardiovasculares, revela novo estudo da Nature Medicine&nbsp;&nbsp;O GLOBOComissão do Senado aprova inclusão de vacina contra herpes-zóster no SUS&nbsp;&nbsp;Tribuna do NorteComo o vírus da catapora exige vacina contra herpes zoster&nbsp;&nbsp;Correio Br",
-      "sources": [
-        {
-          "name": "Senado Federal",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWmltaHRaWGM2WWJHcXhLeGM0X2g3MVFDcXQ1MTdOaXZsZEx6NXFELVlRTU95VExOanNQc1I3LVZ0Q1Z0UFdQNG5kZkpZd1drZmR2SmY1YXdEbmlkamxoWGk5LUQwREVBMXJKTzFZeGZ5aGlBc2hLZ0tYZXpYYktHNE1oUDFoeVBxZzliWDhaekJmWmQxdHR4Q3VJbVY0WFFEYUM0dDU4MTY0aXRVdFJXSnVXYlBwTy1YNWtJYTFKcmpvN2VhWVE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b8061e37e7ea",
       "title": "Por que o pênis é um termômetro da saúde masculina — e como prestar atenção em seus sinais - BBC",
       "published": "2026-09-01T14:28:52+00:00",
@@ -422,6 +362,18 @@
         {
           "name": "BBC",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13UURDTzN1VVI4Z1lKbU9jVUxQcjNPaUpRN1RQMHQ5VGhCcV80TVc3cWhneXNUNzM3WGs4cGkwUEtqWmxWVk9PekNLNFRnTHFFM2JKTlY3VmFubVpKUzFKU2tn0gFnQVVfeXFMUFRiNGZjaEdZWC1pb2N4QnZvTTJyMEJkZ0R3elgtZVNyNGs4bThmalpST19LSDFGMXhpOEFvTXQzaUhqQXRWYUt6U0VucF9icTZTSTJUcVNNSkNjQmZxancyZFB5QmItSQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "55b45e029793",
+      "title": "Médica acorda com morcego na boca durante pesadelo com camundongos, leva um grande susto e consegue prender o animal para levá-lo ao hospital - ND Mais",
+      "published": "2026-08-31T16:59:36+00:00",
+      "summary": "Médica acorda com morcego na boca durante pesadelo com camundongos, leva um grande susto e consegue prender o animal para levá-lo ao hospital&nbsp;&nbsp;ND MaisVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "ND Mais",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMkpwU1ZCb3JhQ1MtWGFVM3lIUC1yakdFMnRpSk1UQmoyQXEtQlRjanJzT0ZpSzRvZkVNUmxUQkxhbmZPcUF0MW5rY2tGYks3S3d0ZFlCekpTNUJaM2M5bFRhQm1uM1BfMkxscmZBV1BlQTZUWnM4NnItX2xsWHE3d3llOXh1dmx1ekE?oc=5"
         }
       ]
     }
