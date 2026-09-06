@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-06T03:29:17.065746+00:00",
-  "count": 34,
+  "generated": "2026-09-06T10:29:11.743037+00:00",
+  "count": 37,
   "news": [
     {
-      "id": "a3a28cecc352",
-      "title": "Militares do Brasil testam foguete que levará equipamento de 400 kg para estudar microgravidade - CNN Brasil",
+      "id": "ce6f88b9a99d",
+      "title": "Militares do Brasil testam foguete que levará equipamento de 400 kg para estudar microgravidade",
       "published": "2026-09-05T21:37:55+00:00",
       "sources": [
         {
-          "name": "CNN Brasil",
+          "name": "cnnbrasil.com.br",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPek1jTDltV2ZqeXZsWWp6cGx1dFpqVjN2Y2dUZTIzaHcyeVlyYU1jUzNYeUF2OVl1Zm9kcDVaLU9nQ3hSdGxucjJ6X2o1SE1FYzJNT3JzZnMxUmt0VGNaMFZWMmNlMGJ6UmZtOEx2c2JhZDJXMnE3MG9DMzNGUTRlRG9pZDhBaWJVZHFCbTJ4clhkZzUtbHJ5dEg2a2cwRloxY3ZkTTlUSExPWjFaeEZtTXZFb2hPMWZMZEZxVzhkc05ySXJSSzA0LVp1djI?oc=5"
         }
       ],
@@ -20,6 +20,26 @@
           "name": "LEVETIRACETAM",
           "url": "/drugs/levetiracetam/"
         },
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
+      "id": "b5ed09799085",
+      "title": "Estudante de 18 anos usa inteligência artificial para analisar dados da NASA e acaba descobrindo mais de 1,5 milhão de objetos cósmicos desconhecidos - Xataka Brasil",
+      "published": "2026-09-05T21:33:34+00:00",
+      "sources": [
+        {
+          "name": "Xataka Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOdmFOeThzckhnb0tDWWdEWFFkU3huOGF4N1hPdEhuSFNjYllCa0tJSWg2UzhyTEFLWTNuMjE0OUhEdDdvUTF6TXJFTDBvVWJzVEJ6NFJNV1pVX1JzSW5kVHBXbVRoT3JVY1d1bFpUZHpDcjUzYlVtWkpmbUNQVnpCdE5yc240U2VLalY4cnE0VWw0VXhwMVVGNGVtS2JvN0N0MnhRMDkwamQ3R3hxeHF1NnRRMlRRcXFVSUYtVlFhdE8yaVA3bGpIYTMtOWUyM3BYTkdFWFVLWFdjZWNqZkluSmpjemlqTGlES09NTFhoOWUxcGkwN3N3WFEwVFVPTEdnLWc?oc=5"
+        }
+      ],
+      "keywords": [
         {
           "type": "drug",
           "slug": "silodosina",
@@ -476,12 +496,12 @@
       ]
     },
     {
-      "id": "d56a8500ddb6",
-      "title": "Paciente viveu 271 dias com rim suíno em estudo liderado por brasileiro - CNN Brasil",
+      "id": "d6f8ef55d671",
+      "title": "Paciente viveu 271 dias com rim suíno em estudo liderado por brasileiro",
       "published": "2026-09-05T16:35:10+00:00",
       "sources": [
         {
-          "name": "CNN Brasil",
+          "name": "cnnbrasil.com.br",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSkpkUnQwMVYwZlY2eFFjY0pGQlU2NU1BYUpaTXhENy1zOWtESXN1Y1I0OWZ5eG1nSHg1b0dVRURzVVJZeURpVkwzSXBtTURiRUFQTkM5TnpxQmRBTlVsWlpXbTZJa2hCMzNVWWdPcWNfdkE4THJEelRfNzNUQVVpV1VwazhjZFZQci1zbFRkeHJFY1gyMGY4QXluQ0xyaEI3RjRCYXJ3QjhyTUE?oc=5"
         }
       ],
@@ -549,10 +569,24 @@
         },
         {
           "type": "drug",
+          "slug": "diazepam",
+          "keyword": "UNI",
+          "name": "Diazepam",
+          "url": "/drugs/diazepam/"
+        },
+        {
+          "type": "drug",
           "slug": "etanercepte",
           "keyword": "BIO",
           "name": "ETANERCEPTE",
           "url": "/drugs/etanercepte/"
+        },
+        {
+          "type": "drug",
+          "slug": "zinc",
+          "keyword": "UNI",
+          "name": "ZINC",
+          "url": "/drugs/zinc/"
         },
         {
           "type": "drug",
@@ -564,12 +598,12 @@
       ]
     },
     {
-      "id": "232f26964e83",
-      "title": "Histórico: Brasil ganha 4 ouros na Olimpíada Ibero-americana de Biologia - UOL Educação",
+      "id": "8ed05400de29",
+      "title": "Histórico: Brasil ganha 4 ouros na Olimpíada Ibero-americana de Biologia",
       "published": "2026-09-05T11:14:56+00:00",
       "sources": [
         {
-          "name": "UOL Educação",
+          "name": "educacao.uol.com.br",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVlhNQnUyTlU3bm4xdnY2OFlaQVJOajU4M18zaTJPX0YySW44WmcxUk1jdWFCdVMwdklRMjhZeEpnTTAwSHNKX2I0T0pDMWRnMmM2T01TVThCSnVWcDZWX0ZuNXotVHp0dlZxeVZYR3FoWnQ2SGh1a2tWdmFVdG03WmRUdWNMaTRTNDdSakRyTmEyM2tEbThYVmdXLV9DbnU0UkQteWNobTJIZEhTandSSlYzWURaRmZkdExRdnFPUU1FZw?oc=5"
         }
       ],
@@ -658,12 +692,12 @@
       ]
     },
     {
-      "id": "f21fb07e3cc5",
-      "title": "Bebê falando com 3 meses? Especialista explica vídeo de recém-nascido conversando: \"Linguagem acontece antes mesmo do nascimento\" - CNN Brasil",
+      "id": "63d2ad5fb2e7",
+      "title": "Bebê falando com 3 meses? Especialista explica vídeo de recém-nascido conversando: \"Linguagem acontece antes mesmo do nascimento\"",
       "published": "2026-09-05T00:45:13+00:00",
       "sources": [
         {
-          "name": "CNN Brasil",
+          "name": "cnnbrasil.com.br",
           "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQeXdvZk02RlVzSmhjYVNQNzNiQ0l5UUhYc2xWNU5Da1FYVU1QVldZcDIyc0VzSHhjT2JSeGpnZkRWY3g0ZklFa3VldGNLZnBvTk1FSm9NaDM4ZVJwQ0k1WVl0VXhZT25SUVhVeUFJRXJPTFRFelZiRHRoMTlYVnpvTzFvVUpmWlA3X0FKQThYN2Y0b1k1em1IM2lZQ01mTmYzVHVLaHkyOWhHRE1LNkUtSVdLa3ZUOS1VaGZ2WFNWZ2dJbHVONUNRWUFDNzFZX2NNcmxaYU1oalYyZFVsWGN4dlNkT0k0M3FFZ2p0YTByb0VySVg1ZFNuUVFhNlU?oc=5"
         }
       ],
@@ -725,12 +759,12 @@
       ]
     },
     {
-      "id": "c1e7b5e75eae",
-      "title": "Índia lança novo foguete e consegue colocar satélite inédito em órbita - CNN Brasil",
+      "id": "2b4590356909",
+      "title": "Índia lança novo foguete e consegue colocar satélite inédito em órbita",
       "published": "2026-09-04T21:34:58+00:00",
       "sources": [
         {
-          "name": "CNN Brasil",
+          "name": "cnnbrasil.com.br",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPT2x6c21JdGJLMXBfSFFtUE8xcE1OeG5KdUFlaUx5NUVGU0dEdEo2NzhHRDMwdWdSSGxXaG5yTHpNbDRObVozMGFXVHUtc2hBc0R4V01lSzFQUGU5ang4NGdqMjl2YTNGbUFidXpGR2pBTzBfeXBTbVVUcjNMZHpjOXZnMUtHakJOZncyTnFYTWtrc0pBaGFGdHlKbTBJaVppUTAwSzZLcTRBdlBr?oc=5"
         }
       ],
@@ -745,13 +779,40 @@
       ]
     },
     {
-      "id": "c76e75f11d05",
-      "title": "Estado de São Paulo tem 81 municípios em epidemia de dengue",
+      "id": "aa02ca1609e1",
+      "title": "Estado de São Paulo tem 81 municípios em epidemia de dengue - Folha de S.Paulo",
       "published": "2026-09-04T21:27:00+00:00",
       "sources": [
         {
-          "name": "folha.uol.com.br",
+          "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUFlOemJvMkRfbHFmMTdiOURaVFZGUmlWV0NNNU80ZGVjMzhrZzllZ3BLSXhwZVhMdXh2YU00LVByblpyYjRZRGdwZTdwYnUyZVo3MjhOTEVOcDF1UTI1YWMxWmJLa1JIZGVrYTVCQmVLWWJrbGpqTjkybjF3VXVza2xFTjBjUXV3WDdQbl9ZUDMwaEtPa2tsd2t6cEZKa0xZZGVnT3ZoRlVvMThWMjU5S05sTl9kR25lcHZrZw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "diazepam",
+          "keyword": "UNI",
+          "name": "Diazepam",
+          "url": "/drugs/diazepam/"
+        },
+        {
+          "type": "drug",
+          "slug": "zinc",
+          "keyword": "UNI",
+          "name": "ZINC",
+          "url": "/drugs/zinc/"
+        }
+      ]
+    },
+    {
+      "id": "1247e2a37dea",
+      "title": "Secretária de Educação promove reunião de alinhamento com nova subsecretária de Ciência e Tecnologia - Prefeitura Municipal de Campos dos Goytacazes",
+      "published": "2026-09-04T20:54:00+00:00",
+      "sources": [
+        {
+          "name": "Prefeitura Municipal de Campos dos Goytacazes",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNX1hpUGhkT0E1NS1BejRMTGo0cUlpaWxDSTVscHh1dVU3ZjRpdy1kQnRmNUhlZEFFMTZoUFJFMXRWektLcGtoX0F6LUdqbVRibDVBODJiNGYwMUFkRjBxVTNwXzk4dXhVRVlYQXNXZnlYQ3FzU0lMaVZPLW8ta2xrdXJid0JGMl9FWGdJOXJxRW1FcEtWUWY5RDdmYW5GcUFuZXpfYmVMWHo4UWVsUktfVEpaTklBMXZxYW5FUGZSU0dFNmhqSm9qOGM0b2JfMUhySFhieW1MWTFJUHVESXpmTGJR?oc=5"
         }
       ],
       "keywords": [
@@ -859,26 +920,6 @@
       ]
     },
     {
-      "id": "6ad21d27e3ec",
-      "title": "Fóssil de 295 milhões de anos pode mudar o que se sabe sobre a origem das plantas com flores - Super Rádio Tupi",
-      "published": "2026-09-04T15:49:22+00:00",
-      "sources": [
-        {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSDFISWxSdm9KTkltWEZwcnVWcmFXanFTYjhzVWZpS3luSWJHelZPcHkzcEdyUXlzclJYd0c2U24yWEtlNTNnemQ1alhxdWNCQld0dTFwblhOSHNXamhWV19nODVpOTFyWnkxZW9VQW5MY0ZEMmhQT2tZbmRzcGxTMkF4b2FiMzg0MTktblRUUU1RdVctVWZCX3duYmRjUFJNX0ZVbmpYOHhxUERhLU1IUmM2ZHlYLWpjQmcw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
       "id": "7e631ac9096f",
       "title": "‘Precisamos de um projeto de país que não seja dinheiro’, defende cientista climática do INPE - Brasil de Fato",
       "published": "2026-09-04T15:18:00+00:00",
@@ -899,22 +940,56 @@
       ]
     },
     {
-      "id": "8348774d0da9",
-      "title": "Gordura no fígado: fruta pode ajudar a reduzir acúmulo no órgão; saiba qual - ICL Notícias",
-      "published": "2026-09-04T15:05:12+00:00",
+      "id": "f01bbd692733",
+      "title": "Estudante da Rede Municipal conquista menção honrosa na Olimpíada de Matemática da Bahia - Prefeitura Municipal de Vitória da Conquista",
+      "published": "2026-09-04T14:53:42+00:00",
       "sources": [
         {
-          "name": "ICL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OZDZfbXAxU29pYXdfdUQ0bWZhbmlQT3FvdERzWi1zbmdBb1FqNnNoZ0NNVzZLSDNHMEV3Y1JvYk8xZjNKcXpmV1BabFZzclV2RGozYlIyb0xUVUFxcnNUWERFWlg3UVduMEpxQmNCbjc?oc=5"
+          "name": "Prefeitura Municipal de Vitória da Conquista - PMVC",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdVFyMXNaTjhJMFBtMmlFcDhMMEVVb05fLXRZd25va2tXR1NfLWFybVdhcnhXN1B4V256aHA0Wko3MzRScVlmbXc1VmNkQm5PQ2tlQ3lwRTBpUjRkOW45SmFVYUtZWUptbFBlVVVZcUZacEw2R0lfdlRVcnpjSGtnYUMxM3ZiTlV2eHdUbG5XSE83RjR3U29DcUJCLUl2LUo3bk9GYkNERVZGemRaRUxyY3hfVkVHN1k?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "drug",
-          "slug": "levetiracetam",
-          "keyword": "TAM",
-          "name": "LEVETIRACETAM",
-          "url": "/drugs/levetiracetam/"
+          "slug": "diazepam",
+          "keyword": "UNI",
+          "name": "Diazepam",
+          "url": "/drugs/diazepam/"
+        },
+        {
+          "type": "drug",
+          "slug": "zinc",
+          "keyword": "UNI",
+          "name": "ZINC",
+          "url": "/drugs/zinc/"
+        }
+      ]
+    },
+    {
+      "id": "93580d3394f6",
+      "title": "Você pode ter um pixel do Universo com seu nome nas fotos do telescópio Roman",
+      "published": "2026-09-04T13:44:00+00:00",
+      "sources": [
+        {
+          "name": "olhardigital.com.br",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUDlzUjNGUVQyVkZBSHZHellXMVhMTGprdk0xTkNuS09zbWhLM0gwU0ExdDF6ckFyVmM4YVJ0RVV0QzFBalVWWFRSM0dsTzkxNTF3SldJVGJkZTV5SXJ4RElxM2otN2hZejNleG16aXpqSU53WWVBSGdTeHNiVGZlc285Uzc1bWpwLU1vZVdWSU5DVE5OU0JkSndZZmJKYWtwenF3Yk96bmtLQlA5MVdxNnlsNF8tLUYxSWowZWZCd2dkeWlQWVJMeGJlQXNFTE0?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "diazepam",
+          "keyword": "UNI",
+          "name": "Diazepam",
+          "url": "/drugs/diazepam/"
+        },
+        {
+          "type": "drug",
+          "slug": "zinc",
+          "keyword": "UNI",
+          "name": "ZINC",
+          "url": "/drugs/zinc/"
         }
       ]
     },
@@ -979,45 +1054,25 @@
       ]
     },
     {
-      "id": "3254b44e8357",
-      "title": "Quer um 'pixel' do Universo com seu nome? NASA promete cantinho nos primeiros cliques do telescópio Roman; saiba mais",
-      "published": "2026-09-04T08:12:28+00:00",
+      "id": "d86afa145d6d",
+      "title": "Professor capixaba está entre os melhores do Brasil - Tribuna Online",
+      "published": "2026-09-04T11:39:40+00:00",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORzd1eUp3S1VNaU5EazdURjZhUUZ6NzYzSUd0aHBndVZVVHNYTzJ0NEVPTWNzM25KODBxZVAtNVA0YlpGdDJ5V3U1cndDZTMtWGZlblFLT2l5bndBX0lSVE9WYk9LWUVsRmFzQjN1cVZFNnlqLUFWMnU1ekpaU2ZOMXJRUVNWMG1p0gGXAUFVX3lxTFBsVnpKNHZrRUIydVQ5M0Y1MjI1Sk9YQXJLQ194SzVJX0x4TjhOMEktaV9iRjM3TDhDSDVDLTFWWUpyWmw0WHNRNGNQdURWblFKbENSYjhJRnEtYnlWbnkzSFJBTWxaOUtSYTZuVlhkYXBfZnNYdGFsN3h1ck4yamRzMGZrMGl1RUl6UllLdWQ2OHh1LWVuOEU?oc=5"
+          "name": "Tribuna Online",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ05kVC1HTW5kMnp2dldETDVlelotUGtXMFFFUUdfV2hpSXdFWnduSUFCcE51VE9vZXotWHJUeXVSMUkyWklOTDhybVh2dWQxZmxYWUVsampfUW8xSC1LRlk1MmdlSF9vZHZOOUp3MXIyMWgxZzZxWDZHekdGa0ZlM3NBdGw3N2hsc012S015eFZrQUx0anNhT21KSdIBowFBVV95cUxPNWxuVklrNk5DQkY5TllBVG5xZm82SmE1V3pjaUNUcEQ1WFRNejh1a3FvMDJDLXJCckFMQndSYS1uRG9iNmtLQzdhNFhQM1pZR2RyWUUxUkxyYldwNnM1TkZJUXhhYW9Iek14aVMyWXJCa2NBNE5aLTMxWjAzUTAtTUhBLWhzMjZMcHgzNWstanJGZkc5TEZTUEhvUE82ei1JUmpF?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "drug",
-          "slug": "diazepam",
-          "keyword": "UNI",
-          "name": "Diazepam",
-          "url": "/drugs/diazepam/"
+          "slug": "rivaroxaban",
+          "keyword": "XAB",
+          "name": "Rivaroxaban",
+          "url": "/drugs/rivaroxaban/"
         },
         {
           "type": "drug",
-          "slug": "zinc",
-          "keyword": "UNI",
-          "name": "ZINC",
-          "url": "/drugs/zinc/"
-        }
-      ]
-    },
-    {
-      "id": "c10759386531",
-      "title": "Quais países sobreviveriam melhor a uma catástrofe global? Estudo aponta os mais resilientes - O GLOBO",
-      "published": "2026-09-04T07:00:00+00:00",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQaFZTZHpSeC11REU2b0kxNXU2QmZpRE1nTC1wVUxZMGhtZG9HMzZJZGFkYkY5M184Njk2Tl85TG1KcG95bGppMmF4Wmoyb0Q2bjNnR0plQ1dkaDVjN0dsY2NhOUpzRTAtb2VvdkJ1Q0ZTbGpCdkFMY0FiSmdHVmZwWmtDZGRzOTBFQ2oxVHdnM2dvdmVMRFk4S3ZodENYeXFva0J0MkkwTWx1T01jdDhWUWhiU2tvQk12REJ5ZTVZQWVLbW5Dck1rWTlUZG1Kb2dvUE95bm14YnRvT1c1OFA0eG96a0ItWkE0ZFprTXNUQVpybnVuOXfSAYQCQVVfeXFMUHhzTTg3enpJUXNUTENFa2NFNmVSMHBKUXJtNC12bjBNc0dLeUNFRWFDSlkwOXliOXNlY2g2dXZMUXVWaW94SGZIbWQwVl9HRUFKbF9Qd1RoQ0pmcHlMLTd2allKeUJLaWVEYlVkVXVlMVhoazFqdDRsOFN4LUszMEtUZzZ0ZjMyZ2d0dG9BRHlCYmt4bTVfNDI3QnRJc0RDY3BVdzZIN0tOU0Rtc2I5ZHkyUHJHUXVDeGI1dmUzOW5KOGQtemxJcDlpRFFpY3V1X0F4LWo3MzRoUlZxdkQtWDJLMUczRldRSFVfZ096THVnVnA3eWc0QVhlU0p5UTU3RHRuUW0?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
           "slug": "silodosina",
           "keyword": "SIL",
           "name": "SILODOSINA",
@@ -1026,32 +1081,12 @@
       ]
     },
     {
-      "id": "c6aa0fd33eb3",
-      "title": "Telescópio Hubble revela uma gigantesca onda atmosférica de 10 lados cercando o polo sul de Saturno - CNN Brasil",
-      "published": "2026-09-04T06:34:15+00:00",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQk9vZXM2QVhyUnc2bV9PRFF5TDFKYjhqV2JueXl1QjVoVWhOaVhSZnZtNzdrUGNlQjloZVNWWEdLd18tX0luX015ekI2RGlEblBaYnNtU2pROFZ0YVpyWXlfZzVSd09vS2pId3JkVjdvdFlRZnNxaEQxem11X1N0UXdyTnlScHFOVE42N1RjclNnU3ppaFBDY01JQmplMVNCdTFZakhNSDJvaGIwa2Fzb3RxaXdlY2pLODZCbjdzR3AzbnprVUVhNUVyOEZXOXdrZk9N?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
-      "id": "62a25b9bf5e9",
-      "title": "Mesmo sendo os mais afetados, 81% dos idosos desconhecem câncer de bexiga - CNN Brasil",
+      "id": "df5ca5693f46",
+      "title": "Mesmo sendo os mais afetados, 81% dos idosos desconhecem câncer de bexiga",
       "published": "2026-09-04T06:33:31+00:00",
       "sources": [
         {
-          "name": "CNN Brasil",
+          "name": "cnnbrasil.com.br",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVVl5ckt5WHQtazc4MVp3UTdyWDV4TEVJdmJPSWVEQ3ExRGNlR0p3MjVlZU9fZWpyU2ZrQXU0NjdXRDBvdDlfTjc5X1llU0dDMk9LQnJoM3dQOFpCRmlWbnVxSUxac3Nfb1BhTDRfc0psMVdrZ21aZjdfT0pzYUEtWHV3eXhqNmlmbEc5alRxay1XdHBHbllpUS1zMVpBYnJvMWk0MWl3LWthSGs?oc=5"
         }
       ],
@@ -1452,6 +1487,26 @@
       ]
     },
     {
+      "id": "e231ffeb9142",
+      "title": "Onda de 10 lados em Saturno: estrutura surgiu recentemente e pode mudar geometria do planeta",
+      "published": "2026-09-03T16:06:48+00:00",
+      "sources": [
+        {
+          "name": "cnnbrasil.com.br",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOVJXeDVWbi1HOHd5RlgwQzd4MDNLeE1abEFlV3p0YjNIazVvZnFZMUNBbHdiQ0o3NGpkZmpBYlRaUzBxenFLXzV3R2lnN1IxSWxPN1BxeGRkZmg1UVpoOWg4RWswOVUyZi04WnZpUTNVN3c4ZUNHQWNCamhGQzlpMEVjRDd3UFVxMV9sZFpJRkZWNGNMZkFUd1JOTkkxd2psclZjY0VkWUhUV2pzR3Z3UGV4aVNURmwxRVZLLWVlNHBVaHotMW0xelFLNWsxeUk?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
       "id": "93a27975d41d",
       "title": "O maior especialista mundial em longevidade revela os quatro alimentos que nunca comeria: “são a receita para o fracasso” - Minha Vida Saúde",
       "published": "2026-09-03T14:04:37+00:00",
@@ -1472,12 +1527,12 @@
       ]
     },
     {
-      "id": "102c16a2fd26",
-      "title": "Uma dose de álcool todos os dias já é suficiente para aumentar as chances de diversos tipo de câncer, aponta estudo - CNN Brasil",
+      "id": "4eaa609d42a3",
+      "title": "Uma dose de álcool todos os dias já é suficiente para aumentar as chances de diversos tipo de câncer, aponta estudo",
       "published": "2026-09-03T12:15:14+00:00",
       "sources": [
         {
-          "name": "CNN Brasil",
+          "name": "cnnbrasil.com.br",
           "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMnVKNHQ3UTFXSnp3bmdZbENWSElpQk5lS0dLdXdsMWhzcFpkcXNIT2hKMWliV3ZpYl9IaVVzV1VEZ0FjUzVCUzZDeGJjNktvbVhmV25HaFo5Z2xYOTg2bzB3OFFZUXhWcE8xMnk2V2trOV9vYlV4dDdaOFBhZ2ZSbkptbC1oN3BWcWZlZG1abXl0UVNzVlhsTUswZjNhVTNfRDgwMjY2aVBjejA5MjliYUxUOHYyZlhZRmtNM254QkprTEIzM2JyRTA4SVVEVGhMNmlRcmItOEFZZUEzUTN0ck40WUhmWEltRk96ZGs4anEtWkpqQ2d6cjRzTlZBUjQ?oc=5"
         }
       ],
@@ -1871,12 +1926,46 @@
       ]
     },
     {
-      "id": "47141d9c279a",
-      "title": "Tirzepatida x Semaglutida para Perda de Peso: Qual É a Diferença?",
+      "id": "46ee978aee55",
+      "title": "Glutamina: o que é o aminoácido que fortalece imunidade",
+      "published": "2026-09-03T10:43:35+00:00",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzVDZZOVRGOFV2UldDR1l0dThVcEg5YXdBNmNiZHYyYjNKU3QzcFlOdk9oMUM0bHczbzY3cG1EZ2M3aWNOajRESUJDeFQwcEg4Y3V5RldSVVNlSl8wR1pEYnhR0gFnQVVfeXFMTUhkdGtCeHlFRnVMTGZES0RqRVBfempuLU10Umd6amgyeU5VYktxZDd4Y2hFV183M2N2ZWw2aUR1WTlhUF9Sb0JYUG5lUVkwamtHR05kd2FHUjkwbEFydVp0aFhCT3pDVQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "levetiracetam",
+          "keyword": "TAM",
+          "name": "LEVETIRACETAM",
+          "url": "/drugs/levetiracetam/"
+        },
+        {
+          "type": "drug",
+          "slug": "diazepam",
+          "keyword": "UNI",
+          "name": "Diazepam",
+          "url": "/drugs/diazepam/"
+        },
+        {
+          "type": "drug",
+          "slug": "zinc",
+          "keyword": "UNI",
+          "name": "ZINC",
+          "url": "/drugs/zinc/"
+        }
+      ]
+    },
+    {
+      "id": "f2436a19a3de",
+      "title": "Tirzepatida x Semaglutida para Perda de Peso: Qual É a Diferença? - Forbes Brasil",
       "published": "2026-09-03T08:00:00+00:00",
       "sources": [
         {
-          "name": "forbes.com.br",
+          "name": "Forbes Brasil",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObjBKMUhqWUV2MHJqTXJ6TmRYbDV6LVBSdzhpeFZpRzAwajVhWlVaTlVNNFVtMTljeXg0OTlZRm0zRzFRWXVPVl9reHJrUkpCRTRXRVdBc0RYVUJfS2xGTThTVnBEUm0xM3I4NHI2RmktaWppYXI1WjN4RC1CS3VWTV9wZWRZR21JSlhyMVpOUkZkakRhZGJicVRMTWl1cHRGYzVJTkxtM2tGWTQ?oc=5"
         }
       ],
@@ -1931,6 +2020,62 @@
             {
               "slug": "trastuzumab",
               "name": "Trastuzumab"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0bb1e8ad3fba",
+      "title": "Aos 16 anos, estudante mexicana cria dispositivo que apaga fogo usando apenas ondas sonoras: tecnologia usa bateria, amplificador e corneta para alterar a pressão do ar e extinguir chamas sem usar uma gota de água",
+      "published": "2026-09-01T12:38:00+00:00",
+      "sources": [
+        {
+          "name": "Terra",
+          "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxPaDVkcmlyazhkY1dBSEgxNldRcEpMMEVYWmlheFV6dDlhZE5NS2FtMGFFdUlvWU85MV9UXzVBbU9nQ0luMDN4NFZrdlZXSnJjWVRfaXZKU0FqS2xuVU9NNVN5YWhjZ010ZWtVYmdvblM1SGpqM1BrdHRnZmQ5NjdyV1cwcXF4dVcxSTNvTllSbGE2emZXbWc4UHdjc0k3ZGFNZXozeGtMVnJYNkNIS00wOVdZS3pSTEFGV2JIekd0UzZOUnBiU21xSE9hX1RJdmRRZVZyU0NfRjl2TU1lV3RSclBKekNvdnd0ZWxtR1lZYlJuNzh3T2lrRDhzTUp0R1IzbUl1TmxvYmE2MUtIZWZFaFJRbTA5blk4aWV0V0pmaHZZeThtOTY2Rk5JQnhqLXgyNFJXdXZLaU5vb1I0VktGYzdyN1RtZnZYcUxJdU51VGlaamxCa0pGWTBJZW1zZWRNYnJyb0JCbjFfS3pScWROYUJGVkVjVEFOLWpvRTBoaUlaNmY5M3pHa2xOMkFYNEpKNW5FUTRGblN1T3Y3Uk5mdnJkeEs?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "gout",
+          "keyword": "gota",
+          "related_drugs": [
+            {
+              "slug": "potassium_sulfate",
+              "name": "Potassium sulfate"
+            },
+            {
+              "slug": "metamizole",
+              "name": "Metamizole"
+            },
+            {
+              "slug": "phenylbutazone",
+              "name": "Phenylbutazone"
+            },
+            {
+              "slug": "nimesulide",
+              "name": "Nimesulide"
+            },
+            {
+              "slug": "nomegestrol_acetate",
+              "name": "Nomegestrol acetate"
+            },
+            {
+              "slug": "amiodarone",
+              "name": "Amiodarone"
+            },
+            {
+              "slug": "rivaroxaban",
+              "name": "Rivaroxaban"
+            },
+            {
+              "slug": "piracetam",
+              "name": "Piracetam"
+            },
+            {
+              "slug": "carbocisteine",
+              "name": "Carbocisteine"
             }
           ]
         }
