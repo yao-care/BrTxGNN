@@ -1,10 +1,22 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-09-06T15:05:57.900583+00:00",
-  "total_fetched": 95,
-  "unique_count": 92,
-  "health_related_count": 32,
+  "fetched_at": "2026-09-06T20:06:54.178393+00:00",
+  "total_fetched": 90,
+  "unique_count": 88,
+  "health_related_count": 28,
   "news": [
+    {
+      "id": "580a98915fbc",
+      "title": "Dor no ombro após os 40 anos nem sempre é sinal de lesão, diz estudo - Poder360",
+      "published": "2026-09-06T12:42:39+00:00",
+      "summary": "Dor no ombro após os 40 anos nem sempre é sinal de lesão, diz estudo&nbsp;&nbsp;Poder360Dor no ombro que piora à noite: o que pode indicar?&nbsp;&nbsp;iG SaúdeDor no ombro afeta 1 em cada 4 adultos e pode comprometer atividades simples&nbsp;&nbsp;horacampinas.com.brDor no ombro após os 40 anos nem sempre é sinal de lesão, aponta estudo&nbsp;&nbsp;redeutv.com.brDor no ombro após os 40 anos nem sempre é lesão, aponta estudo&nbsp;&nbsp;Paranashop",
+      "sources": [
+        {
+          "name": "Poder360",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN19aSnFGRHBjQVNtbHFnclViX2VzZkVaSm9yVU1WWEpvclA4MHVCQXd4NkJMSnpvbktaRnJIOEhPeDZvWE5xUEtET2pGMjVjbUNCb0kxMUxQaXhlZ0tPUkJOaWhlRjE5M0djNjExQzk5YUNoUnhOeFpmdGhHU1hyMUdjdzJ2QVR0bF93ampYMHpxQmdoall5UXhqVXE3WjA5U3gxUEtpV3EwSzJO?oc=5"
+        }
+      ]
+    },
     {
       "id": "f0169f7cf3d9",
       "title": "Café da manhã pode influenciar os níveis de glicose na refeição seguinte, diz estudo - InfoMoney",
@@ -14,6 +26,30 @@
         {
           "name": "InfoMoney",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSWkxRWJaT09vMFFpcWpubjA1MzV3VG5Rcjl0ZTdxcUpLR183NzJqSEk1ZmNmZ19oT2NJQXhFMXZheldDUlNUMGRsWGpMWkpNc3UzMERMVERFOTl3RHBveGJlVG10b3BhU2xWWnNhcmdJQ3ZBNDY2Ni1lNEhTVWprakVfYl9GbDctZGZSTHFyUzE2Nko1ZTFmNU9jZnliQWZNSnVWNWl1dGFyLTRFQjhNSWNwbTdveF80TGJj0gHAAUFVX3lxTE9iWnJIeDhXWEZDd2IybE1pSkFnQ2VaZ0JhT3ZZcDhxX0haelYtQXFyQ19lRmVVQXN6XzNoUTZ2eTFYR1FmMjZycHlXd1ZUUjYxWXRzbVBwUFdXZ04wNXN1MVJ4eDdKR3owZHJncWZHXzZndXJKMmNGQ2ljWEpTMVltZHBTcEhTT3ZFQlBHNlVDZHlZTFZCYURVMEdGZGtKdjdWWGQ3a2lqQ0Ytb2xCSno0MkZ3NWNjNm12aUhCRXdqdA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "163b147f9016",
+      "title": "Ronco alto não é só incômodo: veja quando o barulho pode esconder uma doença - correio24horas.com.br",
+      "published": "2026-09-06T10:30:00+00:00",
+      "summary": "Ronco alto não é só incômodo: veja quando o barulho pode esconder uma doença&nbsp;&nbsp;correio24horas.com.brArritmia, pressão alta, problemas de memória; os impactos da apneia do sono&nbsp;&nbsp;UOLRonco alto pode indicar apneia do sono; veja os sinais de alerta&nbsp;&nbsp;Fala Você NotíciasApneia do sono pode causar arritmia, pressão alta e falhas de memória? Entenda&nbsp;&nbsp;Muzambinho.comEntenda as causas do ronco e saiba quando buscar ajuda; roncar alto pode impactar qualidade de vida&nbs",
+      "sources": [
+        {
+          "name": "correio24horas.com.br",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbndUTEVFTWZXVktvX3dSeEk0LVpwd09tVXlSNVAwSUp0a3VWWUJCdGdVeTFKT0Y4THdiMkc0SHhrRUxBMU9RU01Ud0VFTWZUM0RTTGlpTGpOQlVSLWVCb09aNHBuTzZyNjhfTkloN2ZzaWc5a01jb1FUYWVrOVkwLXhLTmNHaWRQSVdIcmlPakM3TUZLb1RwdjlXVmpHcWJUVHRXNzZmaV9iVnp6X0N0QjVwQmhkVG45Vy1nOQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "06c54617f02f",
+      "title": "Com quase 3 metros de comprimento, pesquisadores criam robôs inspirados em peixes que nadam com o mesmo mecanismo e precisam mudar apenas a espessura da cauda conforme aumentam de tamanho - CPG Click Petróleo e Gás",
+      "published": "2026-09-06T10:09:00+00:00",
+      "summary": "Com quase 3 metros de comprimento, pesquisadores criam robôs inspirados em peixes que nadam com o mesmo mecanismo e precisam mudar apenas a espessura da cauda conforme aumentam de tamanho&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNbzNuRlZueUUxcmxRVmp3WFFmU1hpaGk4Mko2UG11Smladmd0dUpyMTctV1FBeHVQNHF6QVliYW91R19QMDRPajF2bk5PQmNtelI3NGFkRWZiV0NpNVl1M0plSTE5RHlkdG9xdXlRWm1UN1ExcDF1ajlxcGFEWGZuamRLMUlBdnRhN09RRDIybE50VXZPNGU3b09mQnpGaFVkS0pTcWlad09BLTVCQVpFU1VwWFI4SzZXcVc2MjAtV2YyMkUxZVdQTVBCUy1FWWxFdkZTcjVMQ1dfZlAtdXRSbWt4bEZsZHlGWXA0cVhWNUlzVkRGYUp6SEVKMzUxUUVBLVAzenJpQ0JnWUVoVTczVGV6RkZWaWFiQTNUMA?oc=5"
         }
       ]
     },
@@ -33,7 +69,7 @@
       "id": "c7892897c08e",
       "title": "O que se sabe sobre o potencial anti-inflamatório das canetas emagrecedoras - Folha de S.Paulo",
       "published": "2026-09-06T07:00:00+00:00",
-      "summary": "O que se sabe sobre o potencial anti-inflamatório das canetas emagrecedoras&nbsp;&nbsp;Folha de S.PauloCanetas emagrecedoras podem ajudar na prevenção do câncer, diz médico&nbsp;&nbsp;Correio BrazilienseCanetas emagrecedoras reduzem inflamação, mas efeito direto ainda é incerto&nbsp;&nbsp;Diário do Centro do MundoCanetas emagrecedoras podem ajudar no controle da glicose e na remissão do diabetes, diz médica&nbsp;&nbsp;Pagina1mtEstudo associa uso de canetas emagrecedoras a redução na incidência d",
+      "summary": "O que se sabe sobre o potencial anti-inflamatório das canetas emagrecedoras&nbsp;&nbsp;Folha de S.PauloCanetas emagrecedoras podem ajudar na prevenção do câncer, diz médico&nbsp;&nbsp;Correio BrazilienseCanetas emagrecedoras reduzem inflamação, mas efeito direto ainda é incerto&nbsp;&nbsp;Diário do Centro do MundoComo as canetas emagrecedoras combatem a inflamação no organismo&nbsp;&nbsp;ES HojeCanetas emagrecedoras podem ajudar no controle da glicose e na remissão do diabetes, diz médica&nbsp;&",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -44,24 +80,12 @@
     {
       "id": "2184cd901303",
       "title": "Cientistas filmam pela primeira vez uma estranha lula do Ártico a uma profundidade de 50 metros com mais de 100 ovos - Super Rádio Tupi",
-      "published": "2026-09-06T05:11:25+00:00",
+      "published": "2026-09-06T05:38:36+00:00",
       "summary": "Cientistas filmam pela primeira vez uma estranha lula do Ártico a uma profundidade de 50 metros com mais de 100 ovos&nbsp;&nbsp;Super Rádio Tupi",
       "sources": [
         {
           "name": "Super Rádio Tupi",
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOM0xMNVN2SE8tZDh2MG9nRVdUWkd5N1lNaFBvYlpCYzdoSXB1Zjh2SU9CQzg2bnpEVHBITHlNWFEwZVpDWGRuM1RlbEZEMU02R2EwLXlaUHRyeldyQ2c4T2QzRWhvcDBWT2FDSHBJbFIxT1VsOUlKOGluRW04Y1JTdFYtR201bWVubkNQRkFMMFBDcW9QWllORTAwN1lDbENrdTVrR2RmVHdONF83bGpuS3l6bjUzVGhjWE1hSGpyaDFxcVhocnVXcWVwQ1VfeEZIV2pCbDZQd0ZOUDA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0fe297d2e825",
-      "title": "Cientistas enterram mais de 2 mil cuecas para medir saúde do solo na Suíça; saiba o motivo - Diário do Centro do Mundo",
-      "published": "2026-09-06T02:16:35+00:00",
-      "summary": "Cientistas enterram mais de 2 mil cuecas para medir saúde do solo na Suíça; saiba o motivo&nbsp;&nbsp;Diário do Centro do Mundo",
-      "sources": [
-        {
-          "name": "Diário do Centro do Mundo",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTjZocTVwYUlyWnduVHBlNmxvamVuUHBkS2p2a0EtSUpBUVh3RlZLSFNvMzNRYnV0NXdBc3EyaEh3M0xrSlhERVNValFNcjlyUmEtRDNsVk5Ud2RiM0UxcndnRTJzamlJSU1TT2hNRGJxdFdTYk9raWc5YUNoN0hFdGoxQ0FKZ1hVUXd6WTJHRGZSTWJJN1ROOWNUOHdYb0RTQzRaMFh3?oc=5"
         }
       ]
     },
@@ -102,6 +126,18 @@
       ]
     },
     {
+      "id": "92897dbab800",
+      "title": "Cientistas enterram 2 mil cuecas para estudo do solo - DW.com",
+      "published": "2026-09-05T20:38:18+00:00",
+      "summary": "Cientistas enterram 2 mil cuecas para estudo do solo&nbsp;&nbsp;DW.com",
+      "sources": [
+        {
+          "name": "DW.com",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRTQyOUh3QUp6dUJ4aThOSlhoaDZqV2ZkV1JVZ3VWb3RQeG1xazFtZmdPcVFUc0d4UlQ0cW5LZm94NUJ3V2RSTGUtSmg2UzhoaVlxQ3FKdXZCNmJ4V0dHT2lNMm1iSm03WG9JTWYxRFpnZHBxNUx5RFpheElSNDZUYTFxSHlpVnd5UTZVZFlnZmswRm9tRTUyM2hYekZXT0NjVjQxUNIBpAFBVV95cUxNampZUU1iVGpSUlVWLS1OaXRHeWsxRkdST3JLZnhXcmpzTGgyX3AzZ2MwdjkxZ19Nbm85Y3hmeTliQnhMX1RVeHhudlhHSzVZX2pjUVNZOW5hVVZxcTg5WVh6THpIRFJkSkRRUGJpRUJUV183RVVMM3cydEZHLTRCcUJmWk05cU5KMURMZjBzbVhBZU1rWE8zcl9mWjF0M1p3NXdZcg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "2c89e852126b",
       "title": "Inédito: foguete pode ser o primeiro a alcançar a órbita pelo solo europeu - Olhar Digital",
       "published": "2026-09-05T17:49:00+00:00",
@@ -126,22 +162,10 @@
       ]
     },
     {
-      "id": "9f89c91dd4d3",
-      "title": "Câncer após 11 de Setembro mata mais que o dobro das vítimas dos ataques - UOL Notícias",
-      "published": "2026-09-05T16:56:46+00:00",
-      "summary": "Câncer após 11 de Setembro mata mais que o dobro das vítimas dos ataques&nbsp;&nbsp;UOL Notícias",
-      "sources": [
-        {
-          "name": "UOL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWXRkM2pPQmtRV1JjMF8wMUhjOUhEUkYxWkN6ZnRoM2VEQ3RWZW9GdE5jWXBXcFJtWkxNMU1pWkFRZUM3U2p3Q3U1ak5xU3lmcTl1d0gtbW5GT2hoRk1YaDE2dUUtZV9NaUxqYTBYMmVMRXhvdDFWUHFoRFRyTm9tWU9oSXpHSmRhTDZFWmpvSEdWX2dEY2lycUZMbWRVLTBheHA4dWdDb1ZBQUtqRzlLYzg0Sm12d0hMdjFEN0VjMjNLZ0tTYUtCM1pJM2F1V19GdlM3ejlnMl9CVWtZcUo3Mg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d56a8500ddb6",
       "title": "Paciente viveu 271 dias com rim suíno em estudo liderado por brasileiro - CNN Brasil",
       "published": "2026-09-05T16:35:10+00:00",
-      "summary": "Paciente viveu 271 dias com rim suíno em estudo liderado por brasileiro&nbsp;&nbsp;CNN BrasilEstudo com brasileiro à frente faz homem sobreviver com rim de porco por 271 dias e aponta novo caminho para os transplantes&nbsp;&nbsp;G1Paciente vive 271 dias com rim de porco e recebe órgão humano&nbsp;&nbsp;Poder360Homem vive 271 dias com rim de porco antes de receber transplante humano&nbsp;&nbsp;metropoles.comPesquisa liderada por brasileiro faz paciente sobreviver 271 dias com rim de porco e indic",
+      "summary": "Paciente viveu 271 dias com rim suíno em estudo liderado por brasileiro&nbsp;&nbsp;CNN BrasilEstudo com brasileiro à frente faz homem sobreviver com rim de porco por 271 dias e aponta novo caminho para os transplantes&nbsp;&nbsp;G1Homem vive 271 dias com rim de porco antes de receber transplante humano&nbsp;&nbsp;MetrópolesPesquisa liderada por brasileiro faz paciente sobreviver 271 dias com rim de porco e indica revolução nos transplantes&nbsp;&nbsp;Brasil 247Paciente vive 271 dias com rim de p",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -177,7 +201,7 @@
       "id": "b3a93e1b969b",
       "title": "Todo corpo tem direito ao cuidado, mas saúde sexual ainda esbarra em desigualdade e estigma - midianinja.org",
       "published": "2026-09-05T12:29:44+00:00",
-      "summary": "Todo corpo tem direito ao cuidado, mas saúde sexual ainda esbarra em desigualdade e estigma&nbsp;&nbsp;midianinja.orgDia Mundial da Saúde Sexual: Paraná reforça testagem contra ISTs&nbsp;&nbsp;Bem ParanáPor que devemos fazer xixi depois do sexo? Veja hábitos importantes após a relação&nbsp;&nbsp;Folha de S.PauloInformação e prevenção são fundamentais para o cuidado com a saúde sexual&nbsp;&nbsp;www.gov.br",
+      "summary": "Todo corpo tem direito ao cuidado, mas saúde sexual ainda esbarra em desigualdade e estigma&nbsp;&nbsp;midianinja.orgDia Mundial da Saúde Sexual: Paraná reforça testagem contra ISTs&nbsp;&nbsp;Bem ParanáCalendário: 04 de Setembro – Dia Nacional da Saúde Sexual&nbsp;&nbsp;CRF-CEPor que devemos fazer xixi depois do sexo? Veja hábitos importantes após a relação&nbsp;&nbsp;Folha de S.PauloInformação e prevenção são fundamentais para o cuidado com a saúde sexual&nbsp;&nbsp;www.gov.br",
       "sources": [
         {
           "name": "midianinja.org",
@@ -189,7 +213,7 @@
       "id": "63ff0b526de3",
       "title": "Ondas de calor do El Niño podem agravar sintomas de doenças neurológicas, dizem especialistas - ICL Notícias",
       "published": "2026-09-05T08:00:55+00:00",
-      "summary": "Ondas de calor do El Niño podem agravar sintomas de doenças neurológicas, dizem especialistas&nbsp;&nbsp;ICL NotíciasVeja mais manchetes e perspectivas no Google Notícias",
+      "summary": "Ondas de calor do El Niño podem agravar sintomas de doenças neurológicas, dizem especialistas&nbsp;&nbsp;ICL Notícias",
       "sources": [
         {
           "name": "ICL Notícias",
@@ -210,30 +234,6 @@
       ]
     },
     {
-      "id": "af48f60b981f",
-      "title": "Cientista que faz pesquisa com enzimas de capivaras ganha \"Nobel do Brasil\" - metropoles.com",
-      "published": "2026-09-05T05:00:00+00:00",
-      "summary": "Cientista que faz pesquisa com enzimas de capivaras ganha \"Nobel do Brasil\"&nbsp;&nbsp;metropoles.com",
-      "sources": [
-        {
-          "name": "metropoles.com",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaEZLaEUtdWdqZ3VCLUt6bG92QTYtNVNJcFNjcGo3UDI5X3NnYTA3cDh0V2tRa18tYmszNkQwQlRDZHNsekNQeDQwV0o3M3R1dU80a1BTOGZqUTB6bHFocHF5R1NqWWI5NzQ1R0hHMEZkajBRMU05UU9zdVJmNXp2eGtLR2JUcTlIUnptVVVFc1hqdVduczdYOW9vd1NCMng0U05XRzh4MkdPTllz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dd7b5cc90ee0",
-      "title": "Cientistas criam mini-Big Bang em laboratório (contém clickbait) - Meio Bit",
-      "published": "2026-09-04T17:11:56+00:00",
-      "summary": "Cientistas criam mini-Big Bang em laboratório (contém clickbait)&nbsp;&nbsp;Meio Bit",
-      "sources": [
-        {
-          "name": "Meio Bit",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNV3VrM0kxclIzdjR1MGs0N2RxWjhPVUQ1UVBGdzlTUXNrSXFvcTh1WVZSZWtBMHpudmRycHFPZzB2QjVUN1F5YmExQURmaVdYODJPZURMUHVIY3ZhZ1JyNVNKRDlvRlgzWHEtYU1vWlBZS2ZyT25YYnhIbFM5SnRNVXp2QTQ0cUlJZXhJa3lENTZZSFNu?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0fec1cd0cc0d",
       "title": "Peixe nativo da Amazônia ameaça o domínio da tilápia e promete mudar a aquicultura nacional após ter o seu DNA decodificado por pesquisadores - Diário do Litoral",
       "published": "2026-09-04T16:33:00+00:00",
@@ -249,7 +249,7 @@
       "id": "62a25b9bf5e9",
       "title": "Mesmo sendo os mais afetados, 81% dos idosos desconhecem câncer de bexiga - CNN Brasil",
       "published": "2026-09-04T06:33:31+00:00",
-      "summary": "Mesmo sendo os mais afetados, 81% dos idosos desconhecem câncer de bexiga&nbsp;&nbsp;CNN BrasilCâncer de bexiga: nova opção de tratamento reduz risco de recorrência&nbsp;&nbsp;TerraCâncer que pode dar sinais na urina ainda é desconhecido por 81% dos idosos; veja os sintomas&nbsp;&nbsp;Jornal CorreioCâncer de bexiga: 81% dos idosos desconhecem a doença&nbsp;&nbsp;saudeemdia.com.br81% dos idosos desconhecem câncer de bexiga, aponta pesquisa&nbsp;&nbsp;jornaldanova.com.br",
+      "summary": "Mesmo sendo os mais afetados, 81% dos idosos desconhecem câncer de bexiga&nbsp;&nbsp;CNN BrasilCâncer de bexiga: nova opção de tratamento reduz risco de recorrência&nbsp;&nbsp;TerraCâncer que pode dar sinais na urina ainda é desconhecido por 81% dos idosos; veja os sintomas&nbsp;&nbsp;correio24horas.com.brCâncer de bexiga: 81% dos idosos desconhecem a doença&nbsp;&nbsp;saudeemdia.com.br81% dos idosos desconhecem câncer de bexiga, aponta pesquisa&nbsp;&nbsp;Jornal da Nova",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -261,7 +261,7 @@
       "id": "93a27975d41d",
       "title": "O maior especialista mundial em longevidade revela os quatro alimentos que nunca comeria: “são a receita para o fracasso” - Minha Vida Saúde",
       "published": "2026-09-03T14:04:37+00:00",
-      "summary": "O maior especialista mundial em longevidade revela os quatro alimentos que nunca comeria: “são a receita para o fracasso”&nbsp;&nbsp;Minha Vida SaúdeO maior especialista mundial em longevidade revela os quatro alimentos que nunca comeria: \"são a receita para o fracasso\"&nbsp;&nbsp;TerraOs 4 hábitos alimentares que ajudam a viver mais, segundo a ciência&nbsp;&nbsp;Tua Saúde",
+      "summary": "O maior especialista mundial em longevidade revela os quatro alimentos que nunca comeria: “são a receita para o fracasso”&nbsp;&nbsp;Minha Vida SaúdeDan Buettner, especialista em longevidade: \"As pessoas mais longevas do mundo incluem esses seis alimentos no café da manhã\"&nbsp;&nbsp;TerraO especialista em longevidade Dan Buettner: \"Este é o café da manhã mais saudável do mundo.\"&nbsp;&nbsp;TerraO maior especialista mundial em longevidade revela os quatro alimentos que nunca comeria: \"são a rece",
       "sources": [
         {
           "name": "Minha Vida Saúde",
@@ -282,22 +282,10 @@
       ]
     },
     {
-      "id": "0fb2850d0d36",
-      "title": "Arritmia, pressão alta, problemas de memória; os impactos da apneia do sono - UOL",
-      "published": "2026-09-03T08:30:00+00:00",
-      "summary": "Arritmia, pressão alta, problemas de memória; os impactos da apneia do sono&nbsp;&nbsp;UOLRonco alto não é só incômodo: veja quando o barulho pode esconder uma doença&nbsp;&nbsp;Jornal CorreioApneia do sono pode causar arritmia, pressão alta e falhas de memória? Entenda&nbsp;&nbsp;Muzambinho.comEntenda as causas do ronco e saiba quando buscar ajuda; roncar alto pode impactar qualidade de vida&nbsp;&nbsp;niddedigital.com",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQ1FnczcxNzNmaHNrejBqcG9OdXJvSnpwM2RzUm5qaVRtN1ZmLXVHUldCdjJ3ay1LTXlaVG5zajBmNmxLOHkwamV3WXhOTWp1cm0xXy1VdS1rR0xBc19zc1pUS0lZZGZlMFhDYk9GdnUtMG5vV3N1ZEFsUDhHUW9HUWpLY3JnWWdTdXhyRnRhbGtsWEtCd3JnU09HZ21SS2NxNVUwS3RGRTB2X0UzSWtQRXVPM1hPTlByZ2JUb3RRRUt5TlNQR3JqczZvNVhRVzRs?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f2436a19a3de",
       "title": "Tirzepatida x Semaglutida para Perda de Peso: Qual É a Diferença? - Forbes Brasil",
       "published": "2026-09-03T08:00:00+00:00",
-      "summary": "Tirzepatida x Semaglutida para Perda de Peso: Qual É a Diferença?&nbsp;&nbsp;Forbes BrasilRemédios e bebidas ilegais viram ameaça silenciosa à saúde pública | Mercado ilegal&nbsp;&nbsp;valor.globo.comAlerta: nova forma de contrabando de emagrecedores exige que comprador faça mistura em casa&nbsp;&nbsp;R7Envelhecimento e mau hálito: veja quais são os 10 efeitos colaterais das canetas emagrecedoras&nbsp;&nbsp;CNN BrasilUso de canetas emagrecedoras sem prescrição traz riscos à saúde&nbsp;&nbsp;Pode",
+      "summary": "Tirzepatida x Semaglutida para Perda de Peso: Qual É a Diferença?&nbsp;&nbsp;Forbes BrasilRemédios e bebidas ilegais viram ameaça silenciosa à saúde pública | Mercado ilegal&nbsp;&nbsp;Valor EconômicoEnvelhecimento e mau hálito: veja quais são os 10 efeitos colaterais das canetas emagrecedoras&nbsp;&nbsp;CNN BrasilUso de canetas emagrecedoras sem prescrição traz riscos à saúde&nbsp;&nbsp;Poder360O efeito das canetas emagrecedoras chega à indústria da beleza&nbsp;&nbsp;Exame",
       "sources": [
         {
           "name": "Forbes Brasil",
@@ -306,26 +294,14 @@
       ]
     },
     {
-      "id": "3fb79fd25265",
-      "title": "Herpes-zóster cresce 70% na Bahia; veja os primeiros sinais - Jornal Correio",
+      "id": "f6c0a264f655",
+      "title": "Herpes-zóster cresce 70% na Bahia; veja os primeiros sinais - correio24horas.com.br",
       "published": "2026-09-03T08:00:00+00:00",
-      "summary": "Herpes-zóster cresce 70% na Bahia; veja os primeiros sinais&nbsp;&nbsp;Jornal Correio",
+      "summary": "Herpes-zóster cresce 70% na Bahia; veja os primeiros sinais&nbsp;&nbsp;correio24horas.com.br",
       "sources": [
         {
-          "name": "Jornal Correio",
+          "name": "correio24horas.com.br",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWWU3OEQ2WDMzak9SY3N1VDRfRzdReEt4MUlrdkdfS19JdkJpU3I3RUJpNTE2eW1yYUtudWV4eHBjVlluMFFkdi1uNXU4RFJQNEdqTU9fNFVMYlp3Q0dmaHN1VGFLNy1uMnJEa3lGejR4QUoyTFl3T0c5SUh3VTdmZFhhdUhxTzlXY2RuR1JhcTZxLWlqcXNfZEpiYlR2T3hLbjRLYU1EQVZDanRnb29SemRB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e87540a5071e",
-      "title": "'Ameba devora meus olhos': jovem perde visão após banho com lentes - UOL Notícias",
-      "published": "2026-09-02T21:10:33+00:00",
-      "summary": "'Ameba devora meus olhos': jovem perde visão após banho com lentes&nbsp;&nbsp;UOL NotíciasUso inadequado de lentes de contato pode representar riscos à saúde dos olhos&nbsp;&nbsp;G1Campanha de conscientização alerta que uso inadequado de lentes pode levar à cegueira&nbsp;&nbsp;Correio BrazilienseSetembro Safira alerta para riscos do uso inadequado de lentes de contato&nbsp;&nbsp;ES HojeSetembro Safira alerta: hábitos comuns com lentes de contato podem colocar a visão em risco&nbsp;&nbsp;Deolhona",
-      "sources": [
-        {
-          "name": "UOL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPanQ0ajFCeVllTVhjT0J5Q2tXcW9hbmljbF9zSE9xVmFseXFaWnVPRVdfblZEb1JxVkpWMVVIaHdYZmljMkpGdWRKc0YxUHppOEdramJtVU1vcFZleUUyU2I1UnYyWEZhSktRRHlKa0VfanNmQ2gwNmZsT01wNnoyLWhjNzFHOEhValVGNmYtQmVLb0ltc21xd2E1OXFRa0ZRM3FYMTlIalB3QkdjQXdjNUgyeVdzQktKNUxKWTlFRUY4YS1CcHpCMHItMzlGdkpObkNlOQ?oc=5"
         }
       ]
     },
@@ -333,23 +309,11 @@
       "id": "d5a94ebf1b59",
       "title": "Cientistas descobrem possível benefício inesperado envolvendo semaglutida e saúde mental - Extra online",
       "published": "2026-09-02T19:35:16+00:00",
-      "summary": "Cientistas descobrem possível benefício inesperado envolvendo semaglutida e saúde mental&nbsp;&nbsp;Extra onlineCanetas emagrecedoras podem tratar compulsões? Psiquiatra explica efeitos no sistema nervoso&nbsp;&nbsp;MidiamaxNova pesquisa associa canetas emagrecedoras a redução de comportamentos violentos&nbsp;&nbsp;Notícia MaxCientistas encontram efeito inesperado no cérebro de quem usa caneta para emagrecer&nbsp;&nbsp;Diário do ComércioEstudos avaliam canetas emagrecedoras como tratamento para ",
+      "summary": "Cientistas descobrem possível benefício inesperado envolvendo semaglutida e saúde mental&nbsp;&nbsp;Extra onlineCanetas emagrecedoras podem tratar compulsões? Psiquiatra explica efeitos no sistema nervoso&nbsp;&nbsp;midiamax.com.brNova pesquisa associa canetas emagrecedoras a redução de comportamentos violentos&nbsp;&nbsp;Notícia MaxCientistas encontram efeito inesperado no cérebro de quem usa caneta para emagrecer&nbsp;&nbsp;Diário do Comércio",
       "sources": [
         {
           "name": "Extra online",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMllmUU50Y2VfbWZUNWEzSHRBcF9QV1haMHNBZ1dQdm1EVzJuaWxhWDlSV1l4dFVpbXhSSjRLc2FJSXpycWc0aGxSdUpETW9vcDlfdFY3dUNJX1p3bVpCbDNPcXFxdWd5bEF1SVNJbmNMRHJCdkJxUUstNEFGM2NaSm13eTk4WG83OUozQ2lsREZGcUl2UzQ2a3J4dkQzYnhoeUJ2b1E5UkJZcUhzdU1vSTcwbGRjSUVUM3hNdFpqYlZjN0JWU18yZWVnQmI4RDQ2ZTAtMXhuc9IB5gFBVV95cUxQTEw4LWZrZ2xqU3NCM3ZjX0JiVXhIRDBWZGRNTnRJVmxWSWxjMVdKNEIzSFFxUG9zV2t4S1dLWmgwZkRrRnhnQVlWUS1XWTVRT1M0eDN2Wkp6djExX0xfeF90RHlrMVBsVDRLd0s3MURiU2d4TlE3V0NvaWVQVTB3ZS1TUlZxZDRaaWVjLTI5OWlmSldNWlk2MEVRT3pEUVFIMEZnM1h0UEZuUy1RQURJV3pLVHUxOXR6X1FCa2lEemNxY2p1SjQ5NWVtald4cXJqWFowZG9fSlQybnNIcnpjYnM2MlFCZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "445d817feb04",
-      "title": "Dor no ombro após os 40 anos nem sempre é sinal de lesão, aponta estudo - UOL",
-      "published": "2026-09-01T14:30:13+00:00",
-      "summary": "Dor no ombro após os 40 anos nem sempre é sinal de lesão, aponta estudo&nbsp;&nbsp;UOLVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPU2wwcDF3R3lMQnFmcWt6bERBeG5wd0lyV3ZJWi1BaVNYRE5pYWVTYjFYNzhHVER0X1gwV0o3Z3NlQkZUTnZBN2RHbUdFTDNmOUI2U0l5aUh5VVNuTkVKaWQ2SWFyRFZENXVEN2pMUVEyenduQThqWkhGa2MtVm81Y3RnNmlOc1c5ZXZvb3d3eW1RWFlvUV9pckFVUVJBUzZaSTlXT0dMeFJfRGtQbldDeG9XRzdoT2ZuZjBIRmhXYlQtZmlJRW5DekFLckstbWs?oc=5"
         }
       ]
     },
@@ -374,18 +338,6 @@
         {
           "name": "ND Mais",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMkpwU1ZCb3JhQ1MtWGFVM3lIUC1yakdFMnRpSk1UQmoyQXEtQlRjanJzT0ZpSzRvZkVNUmxUQkxhbmZPcUF0MW5rY2tGYks3S3d0ZFlCekpTNUJaM2M5bFRhQm1uM1BfMkxscmZBV1BlQTZUWnM4NnItX2xsWHE3d3llOXh1dmx1ekE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f003090697b9",
-      "title": "'Tomava morfina para a dor até que os médicos descobriram que eu tinha endometriose aos 13 anos' - BBC",
-      "published": "2026-08-31T11:25:22+00:00",
-      "summary": "'Tomava morfina para a dor até que os médicos descobriram que eu tinha endometriose aos 13 anos'&nbsp;&nbsp;BBCEndometriose pode afetar a saúde mental? Entenda a relação com a doença&nbsp;&nbsp;O GLOBO“Tomava morfina para a dor até que os médicos descobriram que eu tinha endometriose aos 13 anos’&nbsp;&nbsp;Jornal O SulTeoria do Polvo: modelo criado por médico brasileiro ajuda a explicar as dores da endometriose&nbsp;&nbsp;O TEMPOJuliette, Larissa Manoela, Anitta: por que tantas famosas têm sido",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9tUnNCWXBwVWpMaURhcEVWNlJoMkdhY1ZTbkpjRVBDQm8xUzZ2NldVdnUxQTByczB1aGJIbm1ubEVIRWdRSWZYeDFoc25mZUNMWUZzd1E1NmpHejJ2M3FXNk1B0gFnQVVfeXFMT2ViZTVTSTFyazczMzl0QlZOMl8zSWtObjBXUGFrYmFKcWZTaTdTX0lLVEtHbk55bkZCSFoyX24xZXlnWExqX2w2Zk1TUzJMWmNlSGhLVTk4d1VzaTZIWEpEMVVYMkVqOA?oc=5"
         }
       ]
     }
