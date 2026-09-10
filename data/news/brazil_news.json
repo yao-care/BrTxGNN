@@ -1,19 +1,91 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-09-09T20:37:21.257949+00:00",
-  "total_fetched": 86,
-  "unique_count": 86,
-  "health_related_count": 34,
+  "fetched_at": "2026-09-10T03:36:49.224202+00:00",
+  "total_fetched": 80,
+  "unique_count": 80,
+  "health_related_count": 33,
   "news": [
     {
-      "id": "91be3fd8cbb9",
-      "title": "SP confirma dois novos casos de sarampo e soma 30 registros em 2026 - UOL Notícias",
-      "published": "2026-09-09T18:46:18+00:00",
-      "summary": "SP confirma dois novos casos de sarampo e soma 30 registros em 2026&nbsp;&nbsp;UOL NotíciasSarampo: Entenda por que os casos dispararam e os riscos para os não vacinados&nbsp;&nbsp;TerraSão Paulo chega a 30 casos de sarampo em 2026; dois novos registros são de crianças&nbsp;&nbsp;O GLOBOCasos de sarampo chegam a 30 em São Paulo e secretaria incentiva vacinação&nbsp;&nbsp;VEJASarampo: tire suas dúvidas e saiba como se proteger no estado de São Paulo&nbsp;&nbsp;Gazeta do Povo",
+      "id": "37c46ff00f78",
+      "title": "H. pylori pode estar relacionada a 22% dos casos de câncer colorretal no mundo - Medscape",
+      "published": "2026-09-09T23:17:46+00:00",
+      "summary": "H. pylori pode estar relacionada a 22% dos casos de câncer colorretal no mundo&nbsp;&nbsp;MedscapeBactéria 'H. pylori' é associada ao câncer colorretal em pesquisa&nbsp;&nbsp;Correio BrazilienseBactéria que causa câncer do estômago pode agir por anos sem apresentar sintomas; entenda riscos&nbsp;&nbsp;CNN BrasilQuando H. pylori pode virar câncer de estômago? Bactéria acende alerta para doença; veja fatores de risco e quando investigar&nbsp;&nbsp;JCDiretrizes para a prevenção da infecção e reinfec",
       "sources": [
         {
-          "name": "UOL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPV0ZjaDVCMEdwY2tTZDQ1WElkQTlzTWRPbnFKZGRaOXVMQlZ4dkpKX3drYjlpNF9YcjdySkpWU3ROaVg2SXdmdUo3WHVYQ2lWOGdvRkNydWxVZ21wMUxHemx0T3pQaFYzaFZOcC1vdDM1anUwN0syV2ZGa3h3M05QNlRnYTRqb3RrQVY2X1BtUEt0M1V6bkR5SVpfYW5BWlFxQl8xNG41UEtYTmViUGNiejR2NDRqUVVlcl9rOVFUZjU4V3dZeElaWS1pT1U0bnRaeUJqckFoa1BFUQ?oc=5"
+          "name": "Medscape",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVnkzaGs1LUNUY2x6SlEtQ1hUekxxN2dPeDFWckNENmhvVWpzNDd3Y0xYR2dMTWMyc0FVaFUzMGgzaF8xaF9jVHVLT1NpQ0duOFd1dUJNcWVIVm03dzF1OW1INy1iRGpFeXJlRnNiNVFPTm1RNmhfVmtmU21nZHo4Y01BZ3c0bHNJZ01HdVB3VWpya3ZLa1pBOURuYnhERGdKVWZwelVQWmNVUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "df81e41cd2ea",
+      "title": "O engenheiro da Anthropic que alertou para o risco de a IA exterminar a humanidade - BBC",
+      "published": "2026-09-09T23:12:51+00:00",
+      "summary": "O engenheiro da Anthropic que alertou para o risco de a IA exterminar a humanidade&nbsp;&nbsp;BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03QUlmM3JJT0JYN1YxTGVnbDB6VTJIU2d3N1ltX3ItM1JiVjM1Mkdqcjl3Rjlpa1ludl9Wd1hZUXJMRXRqbDFjOUhWa0sxcElKRjRUYWthNjVvXzVsRE01cEJ30gFnQVVfeXFMTWxQMUVTb2kxX1drVjJxaU85ZURvSmwtaDBSTVRoejJJMXZibVdXdVpYNUpkZVhzQ0tuQ3ZVNFI2SzdiWm5UUHRLT3pfXzhYdXJLQjNaZnRRUnV1MjdGZU1sU2lJbTVOTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6e20d9223cd3",
+      "title": "Opinião - Drauzio Varella: Um avanço na detecção do câncer de intestino - Folha de S.Paulo",
+      "published": "2026-09-09T21:10:00+00:00",
+      "summary": "Opinião - Drauzio Varella: Um avanço na detecção do câncer de intestino&nbsp;&nbsp;Folha de S.PauloMulher ignora sintomas por sete anos e descobre câncer terminal aos 25&nbsp;&nbsp;MetrópolesCâncer de intestino: jovem descobre doença aos 25 anos após ignorar sintomas&nbsp;&nbsp;Portal UAISetembro alerta para prevenção e diagnóstico do câncer de intestino&nbsp;&nbsp;G1Exame preventivo do trato intestinal ganha relevância na redução de diagnósticos tardios de câncer&nbsp;&nbsp;alberes xavier - blo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcVRNLUVkdE9sVUVGQ0Q3NDFpYVdUNXpoeVlNRXdPaWIwVmtyWG10V3c0TUVxeHdJOG9zb01mbU5UVHJTSHVuWFphaUVxX1NIMFlSbngzR2NIbVZxZkE2NkRmV3pyVkFvcnh3MnRxcnJ6TjJncE5tc25DSlNXRjZ2Tmw2OFZFNzVMTEppdTBIRXM0bUdnbzFOWmZERWxYamZfNk9EajRYR1FmbnpCYUc1TA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ec7e66d60cf9",
+      "title": "Quem é o ‘Nobel da Matemática’ que largou universidade e criou instituto para estudar riscos da IA - estadao.com.br",
+      "published": "2026-09-09T21:00:00+00:00",
+      "summary": "Quem é o ‘Nobel da Matemática’ que largou universidade e criou instituto para estudar riscos da IA&nbsp;&nbsp;estadao.com.br",
+      "sources": [
+        {
+          "name": "estadao.com.br",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxON1VFMl96RUJkRWJkR0VnQ0hMYW9UOTNtc3R2NGh5STNIUlZ3S29FSDIwcmlmQUhWQ1NzUlQ3SVl4V2FMZmNpLVQ1eE9WcUxObnZ0SlRvVWNvNGFPOUd5bGpvNk4zTkNGVWtwNUVPZ0tPcGRoQWdVNjNZNExZX0xMWHZSR1Z0dVZidHdSWjJrcEJMd3NsZGFEUjE2QmdrLVlXbExOenZzdDUxVjJDXzFuRzZ2Nno1Q2dBZ2tHdnFnQS02M09HdFIyREgwWVPSAdIBQVVfeXFMUEZwMndYbW9oVzIxZkpSNGlYbVp3eFMwVzd6d1NlenVNb0hsUjBldDFYVXExRGpuMUVIQ2dUUXUxa3FLX0tJS3lPelJDOGcxVy1Oa29fQjV0RWp5RWFBRjR6QWZUVXNxaUZqTG1hV0Jmd1N2Q3JzTUtfdFg1UHp6c242SGx3dWdwd0lEZ05VcUVrLXRzYWZ5TUszY25PNzZkQmNDLVlrNmxkdm1TZ2dFSHItVzZHak9Vc2Jpbnl1TU5fd09BQWlIcVV6cGgxSFIzLWZR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6c99908ecbd0",
+      "title": "SP confirma mais dois casos de sarampo em crianças e chega a 30 registros em 2026 - G1",
+      "published": "2026-09-09T20:58:37+00:00",
+      "summary": "SP confirma mais dois casos de sarampo em crianças e chega a 30 registros em 2026&nbsp;&nbsp;G1Vacina contra sarampo: quem precisa tomar e o que é a dose zero&nbsp;&nbsp;www.proteste.org.brVacinação contra o sarampo mobiliza creches em São Bernardo&nbsp;&nbsp;Portal ABC do ABCCasos de sarampo chegam a 30 em São Paulo e secretaria incentiva vacinação&nbsp;&nbsp;VEJASarampo: tire suas dúvidas e saiba como se proteger no estado de São Paulo&nbsp;&nbsp;gazetadopovo.com.br",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPN1JDZDJFT09Tam95SGVObl84REVxLVJrT0FCYzBtM0tWQXVsN0luNHRHN1hQX0xfR2FXd09ONi1SMVBHc3NtS3E2MUh4YlpOUmhWTHdaR3hVQXg4Y21SRHJtTXhMdGZCOGg4aEdDVUlSbUhXNVVEU05nSU5wYVRodlF1M2t4SmdQSVhMLUNJckVPNHVWUlA5UnJHR1FyYzRDckJuNDJZRExHMXNDbWlDUHlOWXdqRVpoLS1sSFlZMXNWOUdXTXVuRmpnZVA1M0FuXzJ0aGpPQdIB5gFBVV95cUxPQ3k1bjhVYmM3X1B1c0tWNTVqXzN1UkpEU29veW1IbGoyQWRzN19NZzlkeXF0QXRzbFJVUEt3Q1ZjYko5UU10MFdvQndPTkZyU0l1bF9wZVlpdWNwLXhMUXR1VFJMX0xYenppSDJ3QTk0amNoa2pjV0tuMTBPNzUxczFOQ1Z1Nzc0bHlCZ1QzMmxRcnM3dEVpNVlBR2djYU1PX2M4T1VSM2F4NHdiWk1idk03NnFsLW80aGxEcVI1amlWSEpLUWJXZ3gxX05jY2NPNGhLSWVzU1oxQlZDUzJzREVnb0F2Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d3879bbc2540",
+      "title": "'Fuga de realidade': trend de IA dos anos 1980 pode gerar riscos para a autoestima; entenda o que diz especialista - CNN Brasil",
+      "published": "2026-09-09T19:16:21+00:00",
+      "summary": "'Fuga de realidade': trend de IA dos anos 1980 pode gerar riscos para a autoestima; entenda o que diz especialista&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOd2VkRnRrYnFmRE1aWm9WX2ZPMUhBZDdRZ1JxcTB0UDc1bDZHWGZqV1FaVU9CUVh6OV9oR19lTUdYLXJvWmNKazJlRFE1aTNDeUw1cXhQdE93MDFidG9MTGROcjNiSzZPVklxTHBZcDhtUzQyemJraklCZzFfWHg2ckxoZDdzRzlzemptanBaU25lLTNlSTBSMUVWZURRNkNaUnlQYklwODlmQVZDM3Bja2l1aDdjR3RGeE93bjMzalNVQ0hiTHZvY3YtTDJ2MDh2SjE3MVhsZ3RmQUdkYjV1RjNhc2oySk51?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ba59837ffa8a",
+      "title": "Saiba quem pode, quem deve e onde se vacinar contra o pneumococo no DF - Correio Braziliense",
+      "published": "2026-09-09T17:38:00+00:00",
+      "summary": "Saiba quem pode, quem deve e onde se vacinar contra o pneumococo no DF&nbsp;&nbsp;Correio BrazilienseEstima-se que cerca de 166.000 crianças com menos de um ano de idade receberão a vacina pneumocócica gratuitamente.&nbsp;&nbsp;Vietnam.vnMais proteção, menos riscos: por que a nova vacina do SUS é uma notícia para comemorar&nbsp;&nbsp;Canguru NewsVacinas contra o pneumococo: veja critérios para receber imunizantes&nbsp;&nbsp;Agência BrasíliaQuem deve tomar vacina contra pneumococo: saiba como e q",
+      "sources": [
+        {
+          "name": "Correio Braziliense",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTFB3ek9yM25CUVJZeXV5Q2xDWDlQSVRuOEd0NlZIdlQtQ0RpRTNxbWRuWV9FbzVDbF9IdTllSG1wSTFVR0Y2QVM0R25TbjBWd0trY1NyLXNJcnZtNkhWbDRUVEZYZTNyRVBZZHBiS29pNV9jd3FQLWYtN09Rem45aXFTYXlfZUxzcVo2UEhXMmEzYTdlSUJ4UXJJc2pURWlkSExDOVdlMW9IekhBMlNBRXdDOUloX2Rvb0U0SXBlNHVlV0c1UlkyNWNUSjUyT1VqMlBvNFFR0gHbAUFVX3lxTFBMWlJOLTJOXy1TbThDNHhrdUh6djN4Wmd0WDRoV2JtcloyTU91a0U5TnZXZmFPMDVsR1FCenZQb0drdjRlZlpJYWdjaXB6by1tRUUzaTlzcEJOZ3RwRGNaNEhYdDNhUXpkb0VBdTlJNnE0ajFYcGxCWi1hRXIwU0RVVmpGUlltbXd2dnVidUljNTBRcHFHVDhSMlVld0FZZ3VpNFV3bFFFOERuc05fdzR3dnBiVl9peldqSzVYTGxsQ2U2Zm0tVUdXdHBidWNELVFuSDFiakYydFlCbw?oc=5"
         }
       ]
     },
@@ -30,10 +102,22 @@
       ]
     },
     {
+      "id": "743fd28694eb",
+      "title": "Desconhecimento sobre a próstata pode atrasar diagnósticos, indica estudo - Folha de S.Paulo",
+      "published": "2026-09-09T16:26:00+00:00",
+      "summary": "Desconhecimento sobre a próstata pode atrasar diagnósticos, indica estudo&nbsp;&nbsp;Folha de S.PauloVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQlNjYjdVR2hqZ29yY0djSDdnak1FQi1lOG1PbVhoN1kzT3FFZ0xUbWNxRmZST3B4bmdSNWtmeTRXbnFfZUZybzZrQU0xUS1nenVuYnowYW4zak5lUm5ScmtIY0lVZFg3d1FBbXNQTk1oYmVzbmpRTTJUOU5BR3dhWGVXYm82S2RwNmNXU1RjdnZrVTQ1dk1nbWhkVHdkSWpyR3BFT3lJTS1JZ004TEhnWjhrLTVFWmZFamNyVjQzcC11NFZKaE5OQTlCX1RuQQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a343b1013b51",
       "title": "Vitamina K: como funciona o nutriente que ajuda na saúde dos pulmões, segundo a ciência - Globo",
       "published": "2026-09-09T13:34:35+00:00",
-      "summary": "Vitamina K: como funciona o nutriente que ajuda na saúde dos pulmões, segundo a ciência&nbsp;&nbsp;GloboComer fruta pode ajudar a proteger os pulmões da poluição do ar&nbsp;&nbsp;SAPOVitamina K é associada a melhor saúde pulmonar em novo estudo&nbsp;&nbsp;redeutv.com.brA vitamina capaz de mudar a função pulmonar, segundo estudo&nbsp;&nbsp;Diário do Centro do MundoA proteção do pulmão pela alimentação não vem de uma vitamina isolada, mas sim do conjunto de frutas e verduras da rotina&nbsp;&nbsp;T",
+      "summary": "Vitamina K: como funciona o nutriente que ajuda na saúde dos pulmões, segundo a ciência&nbsp;&nbsp;GloboComer fruta pode ajudar a proteger os pulmões da poluição do ar&nbsp;&nbsp;SAPOVitamina K é associada a melhor saúde pulmonar em novo estudo&nbsp;&nbsp;redeutv.com.brA proteção do pulmão pela alimentação não vem de uma vitamina isolada, mas sim do conjunto de frutas e verduras da rotina&nbsp;&nbsp;Tua SaúdeA vitamina capaz de mudar a função pulmonar, segundo estudo&nbsp;&nbsp;Diário do Centro ",
       "sources": [
         {
           "name": "Globo",
@@ -42,26 +126,14 @@
       ]
     },
     {
-      "id": "450bf0cfe28d",
-      "title": "Anvisa amplia indicação de vacina contra meningite - agenciabrasil.ebc.com.br",
+      "id": "67ca494cddea",
+      "title": "Anvisa amplia indicação de vacina contra meningite - Agência Brasil",
       "published": "2026-09-09T12:54:00+00:00",
-      "summary": "Anvisa amplia indicação de vacina contra meningite&nbsp;&nbsp;agenciabrasil.ebc.com.brAnvisa autoriza ampliação de uso de vacina contra meningite&nbsp;&nbsp;www.gov.brAnvisa libera vacina MenQuadfi para bebês de 6 semanas&nbsp;&nbsp;Campo Grande NewsMeningite exige atenção e já matou quatro pessoas na Bahia em 2026&nbsp;&nbsp;Tribuna da BahiaAvanço do tipo B da meningite no Brasil reacende debate sobre inclusão da vacina no SUS&nbsp;&nbsp;VEJA",
+      "summary": "Anvisa amplia indicação de vacina contra meningite&nbsp;&nbsp;Agência BrasilFebre acompanhada de sintomas neurológicos exige atendimento rápido; conheça os sinais de alerta&nbsp;&nbsp;Portal Drauzio VarellaAnvisa libera vacina MenQuadfi para bebês de 6 semanas&nbsp;&nbsp;Campo Grande NewsAnvisa amplia indicação de vacina contra meningite; entenda quem poderá receber&nbsp;&nbsp;terra.com.brAvanço do tipo B da meningite no Brasil reacende debate sobre inclusão da vacina no SUS&nbsp;&nbsp;VEJA",
       "sources": [
         {
-          "name": "agenciabrasil.ebc.com.br",
+          "name": "Agência Brasil",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb3JIZGtjWlVLYkEtWURHdXhHNEl4MkFkMElEQ1RHYnFZYVhld3ZoT3BIUGhCV1huZndzdlYtTGo5eWVJdzdWWDhKek9XNE0xeFowUEVhV0tjLWVMenI0c0NPWXhLRzgzdWV6TDZoVlZxMzRGVjNfUW5ManNlczF2ZEY2REtZTFR6RGppaDNvUzYzOEw3MElsT3lkRWt0Uk1DQXdpUkdjS2g?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "37c46ff00f78",
-      "title": "H. pylori pode estar relacionada a 22% dos casos de câncer colorretal no mundo - Medscape",
-      "published": "2026-09-09T12:31:41+00:00",
-      "summary": "H. pylori pode estar relacionada a 22% dos casos de câncer colorretal no mundo&nbsp;&nbsp;MedscapeBactéria 'H. pylori' é associada ao câncer colorretal em pesquisa&nbsp;&nbsp;Correio BrazilienseBactéria que causa câncer do estômago pode agir por anos sem apresentar sintomas; entenda riscos&nbsp;&nbsp;CNN BrasilDiretrizes para a prevenção da infecção e reinfecção por H. pylori.&nbsp;&nbsp;Vietnam.vnDescoberta inesperada de lesões pré-cancerígenas no estômago, apesar da dor e do bom apetite.&nbsp;",
-      "sources": [
-        {
-          "name": "Medscape",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVnkzaGs1LUNUY2x6SlEtQ1hUekxxN2dPeDFWckNENmhvVWpzNDd3Y0xYR2dMTWMyc0FVaFUzMGgzaF8xaF9jVHVLT1NpQ0duOFd1dUJNcWVIVm03dzF1OW1INy1iRGpFeXJlRnNiNVFPTm1RNmhfVmtmU21nZHo4Y01BZ3c0bHNJZ01HdVB3VWpya3ZLa1pBOURuYnhERGdKVWZwelVQWmNVUQ?oc=5"
         }
       ]
     },
@@ -69,23 +141,11 @@
       "id": "68b42073e345",
       "title": "Beber chá ou café muito quente triplica risco de câncer de esôfago, diz estudo - G1",
       "published": "2026-09-09T11:07:58+00:00",
-      "summary": "Beber chá ou café muito quente triplica risco de câncer de esôfago, diz estudo&nbsp;&nbsp;G1Bebidas muito quentes ligadas a cancro do esófago, dizem investigadores&nbsp;&nbsp;EuronewsBeber chá ou café menos quente pode reduzir risco de câncer de esôfago, sugere estudo&nbsp;&nbsp;VEJABebidas \"muito quentes\" podem aumentar o risco de câncer, diz estudo&nbsp;&nbsp;redeutv.com.brBEBER CHÁ OU CAFÉ MUITO QUENTE PODE AUMENTAR O RISCO DE CÂNCER DE ESÔFAGO&nbsp;&nbsp;jornalagazeta.com.br",
+      "summary": "Beber chá ou café muito quente triplica risco de câncer de esôfago, diz estudo&nbsp;&nbsp;G1Bebidas muito quentes ligadas a cancro do esófago, dizem investigadores&nbsp;&nbsp;Euronews.comDo café à carne processada: dois hábitos aparecem ligados ao risco de câncer&nbsp;&nbsp;Olhar DigitalBeber chá ou café menos quente pode reduzir risco de câncer de esôfago, sugere estudo&nbsp;&nbsp;VEJABebidas \"muito quentes\" podem aumentar o risco de câncer, diz estudo&nbsp;&nbsp;redeutv.com.br",
       "sources": [
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTEJFbFJiNUdHYnJkWVhyMVpjVXZzM3M4LXJLcjBNN0xvcFhXdnRMWElwbElqWHN2RkYtZ2hFS2JhVS1KNDFJMFo0dFJCeDBORk4yTG5NWU5EQnlVUkcycXBKWGtkMWJBNmdsQUp0T1pZZ2dpcDBjclJxVlF3VjJmZmI3UXd5OEt4ZlF0RlFkWDVGY1RWdFVqWFdaUUoxc0lYTE9TRk1RZW1fLW5DV2Z0Zzc2TEVRcGhvYWsxcjJqVXR2akFtQnJ4TtIB1wFBVV95cUxOQzJjMmNaYVhwRmJYYlZ4VHNXd3V2M1BoZHZOZmJ5aXl4bVktcWotS05icFVrX0tza1FwNGRXNkhuU25ZWWpRbVlqamtlazJYRWJLaWZVQldfVndadDU0WGxIMDlMb3RFbnpsSDl2d1dPSV9tcWJDRENCUzZCVGIwZXJmc2dfSGpGLV96S1FUN0hNNGFuUk9hNl91OXR3UldJUTNCZWg1VS01OWQxMGhQWHdUNGJhQmpTLW1RTUZya2lUQWItWHE5Q041WWRiam0xUV9oOG5RMA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0be21e9d480f",
-      "title": "\"Deus ajuda quem cedo madruga\": o ditado que ensina sobre constância em quem tenta criar uma rotina nova e desiste na primeira semana - Super Rádio Tupi",
-      "published": "2026-09-09T10:01:55+00:00",
-      "summary": "\"Deus ajuda quem cedo madruga\": o ditado que ensina sobre constância em quem tenta criar uma rotina nova e desiste na primeira semana&nbsp;&nbsp;Super Rádio Tupi",
-      "sources": [
-        {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSWpwLXEtX09QYjV1VTQ1S3FkdGhHbWZsMklGb1Atb05mbWhlSlppUDlpNnBlU0tXcGZEOFQ4NkJ3bGduV2dUT0E0aHpCZXR5dlIxZVQ5ZWE2SUlqYVBNenNnbFlUaGZ1c2tscUdva0JUOGY4VlRLRnVzdE1NcHhzdUx1RERUWUpXaTNWZFU1Zi04MzhfVXJQamNuRk14Q2EzNC1uUF93RFFhRFhpVkh3Znl0cDNZa0FabmVGSnZibG1HaUxSYjFDUjRKVDJxV2dvV3ZnWjR2WkplQUtackh0NU9PZDNRdERnSVRGTmNScVl2cTJUOTJIM01B?oc=5"
         }
       ]
     },
@@ -102,14 +162,26 @@
       ]
     },
     {
-      "id": "2ecb50827fbd",
-      "title": "Mesmo com caneta emagrecedora, cirurgia bariátrica pode ser melhor opção para alguns pacientes - folha.uol.com.br",
+      "id": "585bb752b5ac",
+      "title": "Mesmo com caneta emagrecedora, cirurgia bariátrica pode ser melhor opção para alguns pacientes - Folha de S.Paulo",
       "published": "2026-09-09T07:00:00+00:00",
-      "summary": "Mesmo com caneta emagrecedora, cirurgia bariátrica pode ser melhor opção para alguns pacientes&nbsp;&nbsp;folha.uol.com.brVeja mais manchetes e perspectivas no Google Notícias",
+      "summary": "Mesmo com caneta emagrecedora, cirurgia bariátrica pode ser melhor opção para alguns pacientes&nbsp;&nbsp;Folha de S.PauloVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
-          "name": "folha.uol.com.br",
+          "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWGdDUG9nM1pUbWxUMjhNQkpUa245TC1zMm5VZXlKLUQ1Mi0xemE3UDEtUXRjTW8xVVA5SXRJSXVadTloeGw1WS1DRDROTFkyZ3BOQnRKSTA4elRGczdBamlkOHdpRk5YdWZCTmV6NGxmUTVBZ1VGZC1SWGdpVFF5S1dscUJvR0JOY0UzcVNvT2hvakhDRVZndGhfZDZJdnRVc1JVbWZEbDNDUjFZWlFwZnpDOVhKMXUyTFVVazZZaEdzRVZ3ZE1PNHJ3ZWhiUzEwVGM1OGFKWFYtdXpoaTlERF9TNG1LSVM5R1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f4c3d3abcf0b",
+      "title": "Caminhada 6-6-6: entenda como funciona o método de atividade física que combina horário, duração e regularidade - oglobo.globo.com",
+      "published": "2026-09-09T07:00:00+00:00",
+      "summary": "Caminhada 6-6-6: entenda como funciona o método de atividade física que combina horário, duração e regularidade&nbsp;&nbsp;oglobo.globo.comCaminhada 6-6-6: método que viralizou promete ajudar a emagrecer com saúde&nbsp;&nbsp;terra.com.brCaminhada 6-6-6 propõe uma hora de exercício seis vezes por semana&nbsp;&nbsp;Diário do Centro do MundoCaminhada 6-6-6: conheça o método simples que ajuda a emagrecer e manter a rotina&nbsp;&nbsp;Perfil Brasil",
+      "sources": [
+        {
+          "name": "oglobo.globo.com",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQcVU5Z3Q5ejFXTFRxWGEwR1E3TnAxYmFuaHZSaXlGMHBaV3VGQjRHOXFXX1NmNGF5aTZtR0dtYjN0RVptQlpZY2M3ZldCWGh6cEY0Y2dESFhBYU5kU0FWdDZjdDU2WjZaSWVDMWFlTkxxdzN5aTZ3ekhuZG9CWXN0T1VOSWRXa1NnT0xxWlV4VGhRblRFQUY4SUpBdmliam9LZm5HYm5kVkhQN3pFalRnRTRyRFYzTEI3d2s4RXAzTUkzTVVmUEg3azAyMVRfYkcya1ZCd3RVMzFDalNVZ24ydG5jUDE1RElKc0ZIUm82SjVvVnJYWTZNWdIBhwJBVV95cUxOa0xEbktnSlpwemhEUmFsdUxXSVJoYUhhTEoxbnF0d0ozNWpPRUwwWnR3NU9vcXlXakUwRDcxRzdCWHBxdW5jVzJaZEU2MVdqRGRSakllNjdwdGR4MmY2bXpYLVF2RGp0eDJ6aGtRNGtFdWJadjlyVHhyaDBsNl9Tbmdwc0s5bVVmeF9vcHBsTjBweVVWdmtlWTdYeS1EcVhkWHdXQkpRd2loY09mTTRTUEhuQWxuMGR4OEJhcW1EUXZCcHF6aVZVWnpwRnhZd0ppazUtOUdIbDd4SnJ5THlHQXlsWFlGaWtFM2JFeDN1eEg4Sk9ocXlPSTc3enFOUElNWlc4UHk0bw?oc=5"
         }
       ]
     },
@@ -126,14 +198,14 @@
       ]
     },
     {
-      "id": "c02e576a511b",
-      "title": "Pesquisa aponta lugar mais seguro na Terra contra uma catástrofe global - noticias.r7.com",
-      "published": "2026-09-09T05:00:01+00:00",
-      "summary": "Pesquisa aponta lugar mais seguro na Terra contra uma catástrofe global&nbsp;&nbsp;noticias.r7.com",
+      "id": "7223663d3c0e",
+      "title": "Especialistas alertam para risco de alimentar IA com informações pessoais - Metrópoles",
+      "published": "2026-09-09T05:00:00+00:00",
+      "summary": "Especialistas alertam para risco de alimentar IA com informações pessoais&nbsp;&nbsp;Metrópoles",
       "sources": [
         {
-          "name": "noticias.r7.com",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSjhSV0xtbng1THpwV2daM05DQkVQNGdvOVh1MjRldTFxUE1NMlVObVpCcGVaZFpWaXRZWXlfQmV1TVhXUjBGQnY2R1N3dVVDWjRBMEc0bUlJbVdlNzdSS1QtZU1KNzVqd2RtYkFUb3VoaWpnaU1qZFFxdF9jZVBwSDJzYlY5TmpQUkhJT25VNm96b1M5emg0eTRKbXdDRTVOUWU1WVpEWHhSOUZxMXVmamV3QVVVZlBGamY4?oc=5"
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSWJHaWxrZWhRZW9GbWM5eHZfdkdXZ2QzeUlndkl2T1lqbE5DV2diRC1YTnBvUDVPX1dJREpNelVTQ2lEbUg1RVVfSG83WHBkVVhkdjZCc2tqSFhhQVFuSHBQUGhZZU95T1Z4ODdSZFF6ME1zZXBsZEw0bkNEcjNFbXBSaXhuV3QzNkRlVlJ6dzk4X193bFBtZFJ6cU9sRFc1Sno2dlNBR24wMUI4?oc=5"
         }
       ]
     },
@@ -150,18 +222,6 @@
       ]
     },
     {
-      "id": "f5357e51061d",
-      "title": "Painel S.A.: Redes de pizzas e pastéis buscam soluções diante do fenômeno das canetas emagrecedoras - folha.uol.com.br",
-      "published": "2026-09-08T21:34:00+00:00",
-      "summary": "Painel S.A.: Redes de pizzas e pastéis buscam soluções diante do fenômeno das canetas emagrecedoras&nbsp;&nbsp;folha.uol.com.brEfeito platô no emagrecimento: 5 cuidados durante o tratamento com as canetas&nbsp;&nbsp;TerraEspecialistas orientam acompanhamento médico no consumo de canetas emagrecedoras&nbsp;&nbsp;G1A caneta que emagrece o paciente está fazendo o supermercado emagrecer o faturamento&nbsp;&nbsp;startse.comBlue Connections abordará impacto das canetas emagrecedoras&nbsp;&nbsp;meioeme",
-      "sources": [
-        {
-          "name": "folha.uol.com.br",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVDh6RTBsT0M1aUV3eDZyanJkeEN3ODBmSmJYdFRGeHBhQl9TOHRPUU8teHFMUlBVbDQ1VFJhMU04UDVlNHozRHZkQjZZenVjenFfbE1Wc0hiN2ZsTzZZVE9SZlFiRjBPcTlMUkpEMGhUV2hnRWVacFBCNlVKZWszOGhqZ1pOamJuSW1CNUNuSDh5S3Fac0VGV2RaSVdPU0dHSnNBNHJoZ2t5Xy1OUFU2b3FRWmdoNGk0WHNaX0N6Zkw5ZVg5dWRUakE2eHJXR2djUzVmR3QzX25WcHFaRzIzSQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d698b0e67919",
       "title": "Atum comum no BR com mais de 3 mi de toneladas pescadas tem 96% de contaminação por parasitas, alerta pesquisa da UFSC - NSC Total",
       "published": "2026-09-08T20:05:26+00:00",
@@ -174,14 +234,14 @@
       ]
     },
     {
-      "id": "c34f94c41292",
-      "title": "Mulher ignora sintomas por sete anos e descobre câncer terminal aos 25 - Metrópoles",
-      "published": "2026-09-08T17:48:00+00:00",
-      "summary": "Mulher ignora sintomas por sete anos e descobre câncer terminal aos 25&nbsp;&nbsp;MetrópolesCâncer de intestino: jovem descobre doença aos 25 anos após ignorar sintomas&nbsp;&nbsp;Portal UAIDiagnosticada com câncer de intestino aos 25 anos, após ignorar esses sintomas por 7 anos.&nbsp;&nbsp;Vietnam.vnMulher descobre câncer terminal aos 25 após ignorar anos de sintomas&nbsp;&nbsp;paisefilhos.com.br",
+      "id": "39646e78665e",
+      "title": "Canetas emagrecedoras: 6 efeitos no corpo que vão além da balança - uol.com.br",
+      "published": "2026-09-08T15:00:00+00:00",
+      "summary": "Canetas emagrecedoras: 6 efeitos no corpo que vão além da balança&nbsp;&nbsp;uol.com.brTribuna Livre: O corpo emagrece, o rosto sente&nbsp;&nbsp;A TribunaApós perda de peso, excesso de pele vira nova demanda nos consultórios&nbsp;&nbsp;33 GigaO que a dermatologia tem observado na era dos medicamentos para emagrecimento&nbsp;&nbsp;A GazetaAscensão do uso de medicamentos para emagrecimento impacta a cirurgia plástica&nbsp;&nbsp;ABC Repórter",
       "sources": [
         {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPT21Kc2QzRXNFdkpMU2tHYjZFc0pYNlpjZmNCY1RLU1pic2dXNkF0MTNoMUVJaEFnem5ycFBpYWRpRDRMeUFILW1Vc0JxM21pWm56QlpCRlNrbHNzbGNEb3N0WUZNdm9zNFdvRzR0WDdkZkM2bXluTmViTmU3M0JMYW03bkJQZnlrRXZBVWZCLURqQUIyaUx1c2tVNXVkVWlQZllyOER3?oc=5"
+          "name": "uol.com.br",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUi1mMkVOaVZVa2llaDJWeF9hb0VtbUVUUGVJNFVWVTlDYi1ZMTh6clFsQjdEUElBUFc4TnBiek5EZWJnX3lNb2tyOUx0U2ttUjRraHhwUnY5TDVqOV9OMEJKc2xnV2pfUlZoTDVQak1lY2pwUFlsZ21zMUhkOGU4dVhxeEFQUTdfU1ZXSHZJZ0xKX0hmc2hVWXU0N0Ruenp6OGl4WVduaEhaUFFLNzdTY1FRMm5KZERLdTlNQ1VVdENHQV9rRFE?oc=5"
         }
       ]
     },
@@ -198,37 +258,13 @@
       ]
     },
     {
-      "id": "1e0724715cb0",
-      "title": "Exame de sangue pode detectar sinais de Alzheimer antes dos esquecimentos - Gente Seguradora",
-      "published": "2026-09-08T14:32:58+00:00",
-      "summary": "Exame de sangue pode detectar sinais de Alzheimer antes dos esquecimentos&nbsp;&nbsp;Gente SeguradoraVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "Gente Seguradora",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWGx3R09icThVaEpIaGl5b0s2TmppX0RXX0t6YVowUU5DSDZpU1lCb0FYUHBQSng4UmludjdxTlNDYVlWNDgxTTZYcEMwX3BQNHhBQ2NVZmR2bkpvLXhOVkdMTnNGSmtpaGMzM2VWQzAzRmZZTk1NSE5JY0tIRGh2aHdUeXNKbElEajJMY2NkLUdUYWU1Q1puQ0ktUWJvekN2WXh3bjJZVWw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "82cb5c515f14",
-      "title": "Osteoporose silenciosa: perda da densidade óssea feminina acelera a partir dos 30 anos - Globo",
-      "published": "2026-09-08T14:03:55+00:00",
-      "summary": "Osteoporose silenciosa: perda da densidade óssea feminina acelera a partir dos 30 anos&nbsp;&nbsp;GloboOsteoporose atinge homens e mulheres de maneira diferente; veja cuidados&nbsp;&nbsp;Hora CampinasExame de densidade dos ossos: quem realmente precisa conversar com o médico sobre ele?&nbsp;&nbsp;Tua SaúdeNem toda fratura é osteoporose: a doença genética que pode passar despercebida&nbsp;&nbsp;Gazeta do PovoEspecialista alerta para diagnóstico precoce da osteoporose, doença silenciosa que afeta ",
-      "sources": [
-        {
-          "name": "Globo",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSmlaYlNCZl9OQkkzRzBQTmdiaEdaT3p4Z1RIZVlwMXZPQTY3Qzl0RktSTlNJLVljYnk3RnNkSUtWaUpTV2ZzX2VVT3I0UGRRbWNBb0w5dDZETmlvaFZSaEppVlJNSHozbUNXMW90blFjSU1KeVlnQVpMTGREaUZmLTZ1VlhVWDFHYk5NcERmbl9EZG9mbGlydVY4dFZnTjZzVktWdEVvY0pvY2NLX1BEeE12Nm5BU0pCWXpjRWhMbzNIYlIzSGdpVnhBd3F4MGZSeEhza0RHSGhPelZzTkJTWjF2cWfSAfMBQVVfeXFMT29yMERjZS1wZHZZUjVtQnpXVk9tMGYxQjFiVXdBa2hOcDJwNklzOFd6S1pnUGFvM3J5TG1tMHAxMnl0WXp5aGktRHltQ1U2NjhIU2VFOEJ2Z3VIZzNwYUFnNVlMUVdGWklMUXFyeGhwVlhzcVlHVFFMMHJLUkpORV95NDNTazVSdC1rekplOTl1akJpb0pobXBxSDR0dEZUd2xzQW4tVXJrTEg2cW5INUU4Y0RFUk1yRU5MLW8tbFdIdVRkaFZOaC1hbzFlUXNsVWNMUlo0Q1JBZWpHWE44SktULWRQamdfTEwtbENMUjRoTGdZ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7e8f38d5de3b",
-      "title": "Seu parceiro é fumante? O fumo passivo causa 1,7 milhão de mortes em todo o mundo, revela novo estudo - O GLOBO",
+      "id": "685399f4ea17",
+      "title": "Seu parceiro é fumante? O fumo passivo causa 1,7 milhão de mortes em todo o mundo, revela novo estudo - oglobo.globo.com",
       "published": "2026-09-08T13:52:49+00:00",
-      "summary": "Seu parceiro é fumante? O fumo passivo causa 1,7 milhão de mortes em todo o mundo, revela novo estudo&nbsp;&nbsp;O GLOBOFumo passivo provoca quase 1,7 milhão de mortes, aponta estudo&nbsp;&nbsp;Correio do PovoFumo passivo: estudo revela 2,7 mil milhões expostos, 767 milhões são crianças&nbsp;&nbsp;EuronewsMortes prematuras de pessoas expostas ao fumo passivo chegam a 1,6 mi em 2023&nbsp;&nbsp;InfoMoneyConsequências do tabagismo passivo&nbsp;&nbsp;Vietnam.vn",
+      "summary": "Seu parceiro é fumante? O fumo passivo causa 1,7 milhão de mortes em todo o mundo, revela novo estudo&nbsp;&nbsp;oglobo.globo.comFumo passivo causou quase 1,7 milhão de mortes, diz estudo&nbsp;&nbsp;G1Mortes prematuras de pessoas expostas ao fumo passivo chegam a 1,6 mi em 2023&nbsp;&nbsp;InfoMoneyFumo passivo provoca quase 1,7 milhão de mortes, aponta estudo&nbsp;&nbsp;Correio do PovoConsequências do tabagismo passivo&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
-          "name": "O GLOBO",
+          "name": "oglobo.globo.com",
           "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcHhRYUZLMnJKT1BWVVpJdUdMbkV3eWotRmgyVEd4VXpxSUdvWGNxam9FOEdxeHk2Qk0wcnM1UjhYZzF6aDM0M0tsajNLOG1VYzVVWUxQNXJDYTdtRGZfN3NqLUh2Xy1KNzd0aWdIMlZJZVUzUW8tcERNdmJJSzZWUVkxdktZZ2JhQ0FNZi1ZZkRqaGtRejQ3YzlpVUJTZUt2UEhuRmtscUUyU3VWQkVNbDljZkstRFFVNkVDcXJwT01vZWdoWkQzRUtrLXRBMFJlQVZoVlhoUWEwYjZvVE05RHNOUGI2bS1MOVHSAfgBQVVfeXFMUGNvUDZqRmhuY0JjNmVfOWVhM2txMHhxMnNabXd5Y0U0YkR5NU1aXzJoWE5EX0IyTFE4VXVXS1pGOTVaM3hiV0ZBemFuSTlyVXlieFJvTUtwcldsZ0ZjaERzOFN2emF2TjJBYTZUNVZFdEVwWG81VlZvTjRrTU1ZTmxtQjJHVmxBeDUtVEs5MUVFOF9KZ3RKcEhkVmR4dDUzemJORHFjYmdjb25WRDFRNGJKQWZkSkpPYWdrY3dKOXpjTE5WZUNmUmJRaGxnZkExU25lbGx2VEpGSklNdXhSSHczT2dSendpNVowXy03YllGdzBMcUUzSEU?oc=5"
         }
       ]
@@ -249,7 +285,7 @@
       "id": "f8071f50ebdf",
       "title": "Uruguai declara emergência sanitária após confirmar foco de IAAP em Colônia - Agrimidia",
       "published": "2026-09-08T11:49:09+00:00",
-      "summary": "Uruguai declara emergência sanitária após confirmar foco de IAAP em Colônia&nbsp;&nbsp;AgrimidiaUruguai confirma foco de influenza aviária H5 em aves de quintal e inspeciona 34 propriedades&nbsp;&nbsp;avinews.comGrave: Descaso com os animais no Uruguai pode disseminar gripe aviária&nbsp;&nbsp;Novo MomentoGripe aviária leva Uruguai a reforçar cuidados com animais silvestres&nbsp;&nbsp;força do valeUruguai declara emergência sanitária devido a foco de Influenza Aviária&nbsp;&nbsp;boca.com.br",
+      "summary": "Uruguai declara emergência sanitária após confirmar foco de IAAP em Colônia&nbsp;&nbsp;AgrimidiaGrave: Descaso com os animais no Uruguai pode disseminar gripe aviária&nbsp;&nbsp;novomomento.com.brGripe aviária leva Uruguai a reforçar cuidados com animais silvestres&nbsp;&nbsp;força do valePaís vizinho do Brasil toma medida de emergência após novo foco de gripe aviária ser confirmado&nbsp;&nbsp;CompreRuralUruguai declara emergência sanitária devido a foco de Influenza Aviária&nbsp;&nbsp;boca.com.",
       "sources": [
         {
           "name": "Agrimidia",
@@ -270,30 +306,6 @@
       ]
     },
     {
-      "id": "1ef99115c11e",
-      "title": "g1 20 anos: da universidade pública à pesquisa com o Hubble, a trajetória da astrônoma brasileira Duília de Mello - G1",
-      "published": "2026-09-08T03:00:00+00:00",
-      "summary": "g1 20 anos: da universidade pública à pesquisa com o Hubble, a trajetória da astrônoma brasileira Duília de Mello&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNRVJYNjRCZEJaMVNjQ1pVV0J2RWwwYTBBTlRSNUxFQVFmUGgwZmZzVGhMbmM0VlRoZGZKT1NKeG9WUXZycFF4WVNYakZ4b2JoSmRkWTFuQzR0Slp6NVdaRWY0eHg1TS1fR3E5VGY3dWtfYUMydktwTnRudlBUUnZuZnFFUFFyYzhGeEJMR0lZNEx2RGplZ3pvWFpXMGNBNGdzQnU5ajFRQVU1TEhVTUsxc05mdHljak1KQkhtakMyOWtWNW1wYzZzZ1NFZXZLUW0yLUV3UFZfZnhoZlotTnpwdXBILTRHN09Hd21PU0F5TlEtMDE2TWUtcNIBhwJBVV95cUxOaXJyTjVkczVMWXRWc1gyNW5CZ3V0a2xUdE0tbVhLWjNOLVItemZWOWMyN0lXNUllcUhvVmUwRkhNQU9VYW4yVk90eXhuRGVuQkIxUVhyLXd6Q3JGcWNfR3UxUGsza0liRzZHODFmVUx1NG1lWENlekZOQ00yTjcwcFZtMDU3N2RKV21OZThfWVNyUG9vR2doSVFCalpsYndvbVF5eTViQ0l6TG1nNmZJMVN4T3F1SUk4ZXl5aHBPWE42NmFzVGRvV3VkaGhqRjVacmc3eDdsQ01KNkFGcmFiT2gtTy16eHQ4eXdsRDVQUmM0clVqTkt1aWZpTWlyY3NPa0hWR0xmVQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3b08902aeebd",
-      "title": "Animal microscópico congelado há cerca de 24 mil anos na Sibéria é reanimado em laboratório e ainda consegue se reproduzir - Super Rádio Tupi",
-      "published": "2026-09-08T01:00:40+00:00",
-      "summary": "Animal microscópico congelado há cerca de 24 mil anos na Sibéria é reanimado em laboratório e ainda consegue se reproduzir&nbsp;&nbsp;Super Rádio Tupi",
-      "sources": [
-        {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWWMydms0al9lNGN2eVJVN2pqQWFvSEtvbjZVSGRMdGZROEtZbzRyX0F0TG82dTRpQVB4dm5OaFY1OGJad1VZVGpJclliQUViVUpEVE9nU0VLSmt3Mk1kVXdSc29lZl9Ma2hnNkVjQjR4NU9aYVozZU9IOVU3VkRRZk1USWRSMm41QUE3c3dHR2EtYnhQb1VGMjlTTmVRLUJlTmkyVmQ3X2lOY2ZpUXpvSnFfdktoV2x5NHltS0hGUjhMbGdBYi01dUxhYTlqOWZ5dFFHX0tDakdibUh2ekdzbUY5RQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "eb42e2f8afae",
       "title": "Com aprovação no Senado, vacina contra herpes zoster pode chegar ao SUS e prevenir complicações como paralisia facial - ND Mais",
       "published": "2026-09-08T00:10:40+00:00",
@@ -306,22 +318,10 @@
       ]
     },
     {
-      "id": "ddf758cf972f",
-      "title": "História das tartarugas-gigantes de Galápagos é um conto de piratas: agora, 'tartarugas alienígenas' apareceram pela primeira vez desde o século XIX - CNN Brasil",
-      "published": "2026-09-08T00:02:03+00:00",
-      "summary": "História das tartarugas-gigantes de Galápagos é um conto de piratas: agora, 'tartarugas alienígenas' apareceram pela primeira vez desde o século XIX&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQZnVBcHRva1N4ZG5LMUJLaGljaFBWNkJidDQ0MTlNRW8zMDlpRzkxMV9QWWFtNUFzMjhSOXJRQk9EN3BSZWhWZkdIUVhpbXZLNE9oRW8tRDVPSXp2RE82UFA5SDNkeGZ5ZVhLSGVpUlRSdjNOV2ZnaVhJRkFiQWlVdlBJU2prcERsVy1Id0xHQkZCcW4xZHdrRm5HRjA5YnREbE8yZFR2TkpLa3VvOElHVFJLV2lhTW5CUFdodUZsNXdySHlWUk85eVJuWVNEQzBmTEljZk5sOU8tclNlTGRJQzJWN3ZLWlpFNFdIdXlubjJhd3pWMDZJQkp3SW93TFBJclNjSHZteWtJOU84aTRz?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f01e9ffa237b",
       "title": "Adoçantes podem alterar o metabolismo e afetar gerações futuras, diz estudo - CNN Brasil",
       "published": "2026-09-07T19:47:39+00:00",
-      "summary": "Adoçantes podem alterar o metabolismo e afetar gerações futuras, diz estudo&nbsp;&nbsp;CNN BrasilSucralose e stevia afetam o metabolismo? Entenda novo estudo feito em ratos&nbsp;&nbsp;Veja SaúdeAlterações no metabolismo causadas por adoçantes podem ser transmitidas para gerações futuras, diz estudo&nbsp;&nbsp;O GLOBOO efeito invisível dos adoçantes: cientistas descobrem que sucralose e estévia mudam a microbiota e afetam a saúde de gerações futuras&nbsp;&nbsp;TerraSubstituto do açúcar sob anális",
+      "summary": "Adoçantes podem alterar o metabolismo e afetar gerações futuras, diz estudo&nbsp;&nbsp;CNN BrasilSucralose e stevia afetam o metabolismo? Entenda novo estudo feito em ratos&nbsp;&nbsp;Veja SaúdeAdoçantes naturais vs artificiais: veja diferença de impacto no organismo&nbsp;&nbsp;CNN BrasilAlterações no metabolismo causadas por adoçantes podem ser transmitidas para gerações futuras, diz estudo&nbsp;&nbsp;oglobo.globo.comO efeito invisível dos adoçantes: cientistas descobrem que sucralose e estévia",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -345,7 +345,7 @@
       "id": "afd85234750b",
       "title": "Rotinas rígidas demais atrapalham longevidade e qualidade de vida - CNN Brasil",
       "published": "2026-09-07T11:00:10+00:00",
-      "summary": "Rotinas rígidas demais atrapalham longevidade e qualidade de vida&nbsp;&nbsp;CNN BrasilCuidar sem limitar: como preservar a autonomia e a independência dos idosos&nbsp;&nbsp;InfoMoneyQuer envelhecer com mais saúde? Médico explica o que pode ser feito décadas antes dos sintomas&nbsp;&nbsp;correio24horas.com.brBrasileiros vivem mais, mas passam mais anos com doenças; musculação pode ajudar a preservar a autonomia&nbsp;&nbsp;Sala da NotíciaBrasileiros buscam cada vez mais cuidados com a saúde&nbsp;",
+      "summary": "Rotinas rígidas demais atrapalham longevidade e qualidade de vida&nbsp;&nbsp;CNN BrasilEnvelhecimento da população acelera a saúde preventiva&nbsp;&nbsp;Valor EconômicoCuidar sem limitar: como preservar a autonomia e a independência dos idosos&nbsp;&nbsp;InfoMoneyQuer envelhecer com mais saúde? Médico explica o que pode ser feito décadas antes dos sintomas&nbsp;&nbsp;Jornal CorreioBrasileiros buscam cada vez mais cuidados com a saúde&nbsp;&nbsp;Revista Cobertura",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -366,30 +366,6 @@
       ]
     },
     {
-      "id": "d9335227efa3",
-      "title": "A nova corrida para superar o Mounjaro - Revista Oeste",
-      "published": "2026-09-06T20:30:00+00:00",
-      "summary": "A nova corrida para superar o Mounjaro&nbsp;&nbsp;Revista OesteNova geração de canetas chega a resultados próximos aos da bariátrica&nbsp;&nbsp;Novo MomentoMagreza e obesidade: uma dualidade que precisa ser revista&nbsp;&nbsp;jornalosemanario.com.brMedicamentos como Mounjaro e Ozempic são tendência, mas afinal sabemos os reais efeitos? Especialista esclarece estudos&nbsp;&nbsp;versa - lifestyle",
-      "sources": [
-        {
-          "name": "Revista Oeste",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR0k0eHJuVFFDeHpad3pSa0Fzc216T0JvVmxwRzIzZW5vX3RlbmNaa21zb3RLZEUxMFFDcWhramNFcm9DdFdscElYanU3VENweHZiNXh6Z3RtTUZ1ajZMallHdGlBamluMzFxR3BrVDdPTVE5VVg2a3JCTV9JaUhBZUFtRQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "163b147f9016",
-      "title": "Ronco alto não é só incômodo: veja quando o barulho pode esconder uma doença - correio24horas.com.br",
-      "published": "2026-09-06T10:30:00+00:00",
-      "summary": "Ronco alto não é só incômodo: veja quando o barulho pode esconder uma doença&nbsp;&nbsp;correio24horas.com.brTratamento da apneia do sono pode ajudar no controle da hipertensão&nbsp;&nbsp;chicoterra.comArritmia, pressão alta, problemas de memória; os impactos da apneia do sono&nbsp;&nbsp;UOLApneia do sono pode comprometer a memória e a concentração, alerta médico&nbsp;&nbsp;O RegionalComo reconhecer apneia do sono nas crianças&nbsp;&nbsp;zap.aeiou.pt",
-      "sources": [
-        {
-          "name": "correio24horas.com.br",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbndUTEVFTWZXVktvX3dSeEk0LVpwd09tVXlSNVAwSUp0a3VWWUJCdGdVeTFKT0Y4THdiMkc0SHhrRUxBMU9RU01Ud0VFTWZUM0RTTGlpTGpOQlVSLWVCb09aNHBuTzZyNjhfTkloN2ZzaWc5a01jb1FUYWVrOVkwLXhLTmNHaWRQSVdIcmlPakM3TUZLb1RwdjlXVmpHcWJUVHRXNzZmaV9iVnp6X0N0QjVwQmhkVG45Vy1nOQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c1321151c5cb",
       "title": "Excesso de gordura no fígado: veja 10 alimentos que devem ser evitados - O POVO",
       "published": "2026-09-06T01:39:37+00:00",
@@ -402,14 +378,26 @@
       ]
     },
     {
-      "id": "3bc8dd1d7279",
-      "title": "Felipe Isidro, professor de Educação Física: 'Subir e descer escadas é seis vezes mais econômico do que qualquer outro exercício' - Terra",
+      "id": "f9fa260cf823",
+      "title": "Felipe Isidro, professor de Educação Física: 'Subir e descer escadas é seis vezes mais econômico do que qualquer outro exercício' - terra.com.br",
       "published": "2026-09-03T15:02:00+00:00",
-      "summary": "Felipe Isidro, professor de Educação Física: 'Subir e descer escadas é seis vezes mais econômico do que qualquer outro exercício'&nbsp;&nbsp;TerraSubir escadas é benéfico para o coração&nbsp;&nbsp;Estado de MinasSubir escadas faz você viver mais&nbsp;&nbsp;Diário da SaúdeNão gosta de academia, mas tarefas comuns dentro de casa podem trazer benefícios surpreendentes para a saúde, revela estudo&nbsp;&nbsp;Super Rádio TupiFaxina e subir escadas contam como atividade física? Movimento do dia a dia t",
+      "summary": "Felipe Isidro, professor de Educação Física: 'Subir e descer escadas é seis vezes mais econômico do que qualquer outro exercício'&nbsp;&nbsp;terra.com.brSubir escadas é benéfico para o coração&nbsp;&nbsp;em.com.brSubir escadas faz você viver mais&nbsp;&nbsp;Diário da SaúdeNão gosta de academia, mas tarefas comuns dentro de casa podem trazer benefícios surpreendentes para a saúde, revela estudo&nbsp;&nbsp;Super Rádio TupiFaxina e subir escadas contam como atividade física? Movimento do dia a dia ",
       "sources": [
         {
-          "name": "Terra",
+          "name": "terra.com.br",
           "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOSkhJMXN4VlotSTZXUGhDTVNITGFzSjRpRDJNQzl3N0hfOENxREtmODRUbnFiNXFyOFpyR0JrQll5WWxfdXQwdTRRT1Y0U3RzS2Z0Z04tMjR0Rkt3N0N0SVpTRDFFMlBURGdIOEhjODZ3UGZlaUtNS2dQWEgzbTZmVzlMYkJWZmlrUGxvM1VEU3FVTkxiZjduemlMeHRCT0FOOXdKZGJtNTVzN2pxcEM5V3dTZ21fbzBQcnFQZmFobXZMaUFhZU1EUmVTSzZROVROTEJhUFJxaHp1b2lFbXBxQkVvNms4YUVUbThYaWdLUWd2bDUxTkU5dEZOVkQtT3hQdzE2Mlp5TXFjLU5GWmRWc0J1TE0xdFhJUzkwSEFnLVVUNHVhQlp6SDJ2d0dDTThQcjMtLWhn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f2436a19a3de",
+      "title": "Tirzepatida x Semaglutida para Perda de Peso: Qual É a Diferença? - Forbes Brasil",
+      "published": "2026-09-03T08:00:00+00:00",
+      "summary": "Tirzepatida x Semaglutida para Perda de Peso: Qual É a Diferença?&nbsp;&nbsp;Forbes BrasilUso de canetas emagrecedoras exige cuidado com músculos, diz médico&nbsp;&nbsp;Poder360A caneta que emagrece o paciente está fazendo o supermercado emagrecer o faturamento&nbsp;&nbsp;StartSePediatras alertam sobre a febre das “canetas emagrecedoras” entre jovens&nbsp;&nbsp;Bonde‘Canetas emagrecedoras’ exigem cautela na infância e adolescência&nbsp;&nbsp;Folha de Londrina",
+      "sources": [
+        {
+          "name": "Forbes Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObjBKMUhqWUV2MHJqTXJ6TmRYbDV6LVBSdzhpeFZpRzAwajVhWlVaTlVNNFVtMTljeXg0OTlZRm0zRzFRWXVPVl9reHJrUkpCRTRXRVdBc0RYVUJfS2xGTThTVnBEUm0xM3I4NHI2RmktaWppYXI1WjN4RC1CS3VWTV9wZWRZR21JSlhyMVpOUkZkakRhZGJicVRMTWl1cHRGYzVJTkxtM2tGWTQ?oc=5"
         }
       ]
     }
