@@ -1,19 +1,103 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-09-10T20:32:18.927061+00:00",
-  "total_fetched": 94,
-  "unique_count": 93,
-  "health_related_count": 39,
+  "fetched_at": "2026-09-11T03:34:54.825574+00:00",
+  "total_fetched": 113,
+  "unique_count": 111,
+  "health_related_count": 54,
   "news": [
+    {
+      "id": "c70b0169fffb",
+      "title": "Cientistas identificam vírus no esgoto do Reino Unido que pode ser usado contra superbactéria - Folha de S.Paulo",
+      "published": "2026-09-10T21:34:00+00:00",
+      "summary": "Cientistas identificam vírus no esgoto do Reino Unido que pode ser usado contra superbactéria&nbsp;&nbsp;Folha de S.PauloVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQME5CZi1ORjQtRUtBc0pUSmlQMEF2UnNoaDBYU2RMTU1CZTBUenFwRzUwV3NNTzdfY3pGdnoxelRkUS1zbDN4TDhha2RVbjAxd1NFWDBza2FVX2xCZnpxemNCQVJ2UENFbXRxZDktT2dRbWd0MVB3NHg3dzkzaTlfMDBfV2k1ei12TTZqY19KYTRtenVPVmRkemF6UzB5Q0JSb21pekpoODE4dFFMcjdZeGhWazRXUHZ6R2o5Z1J4R3JGUFF1RzRaRi1XY1lfVnM2MkRUM2Z3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3f6d835915bf",
+      "title": "O risco oculto para o seu coração ao dormir em ambientes com pouca luz - CNN Brasil",
+      "published": "2026-09-10T19:50:57+00:00",
+      "summary": "O risco oculto para o seu coração ao dormir em ambientes com pouca luz&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWGVRRDZPVDExbXJHQW9yMUZtM2llcWhhTGFCcGlCTjhlTG5xZVNSTy1BdXZPWWpsaF9qbmUySFpqLVoyZjRJenJNcFoyM3pnYVcyQTNJQlNFMkcyeHcwWGpMTzRxM0s1bW1FRUU3Sm5iN0VWT2VOWEU1ZWtBc2JsMGpmZVJPT1N4ckFmcEdma1B4NTBMTFRzU01aWFp4OFBub1hKeGV2ZlBDUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9ab491bd3349",
+      "title": "Estudo indica que o Sol destruiu planeta 10 vezes maior que a Terra - Olhar Digital",
+      "published": "2026-09-10T19:05:00+00:00",
+      "summary": "Estudo indica que o Sol destruiu planeta 10 vezes maior que a Terra&nbsp;&nbsp;Olhar Digital",
+      "sources": [
+        {
+          "name": "Olhar Digital",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMDdYaU9vQkI2c1J6OEo0OGJCZ243cDU1cUpmd2c5UmhJZFR0d0hOd2g2emRQc0VSLVZZSzlBelJIaExZVHc3SmlkcENoRGkySEMwWjNUenJQRzJNYmlsVDRsMXVuUU5uYWg0NjZQY1ozQ1lwTm9VN3JPNGE2TGlKLWdDTDg0MjdjVUctUERxUk1rMlM0VnJzMUtjcmc0R2dBU2Nwc3U0b2tDNm5Jd0ZicEEwZ0lXSFF1NTRtS3dIeW5mdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dc5861695107",
+      "title": "Bebida açucarada por dia é associada a mais que o dobro do risco de câncer gástrico - Terra",
+      "published": "2026-09-10T19:03:00+00:00",
+      "summary": "Bebida açucarada por dia é associada a mais que o dobro do risco de câncer gástrico&nbsp;&nbsp;TerraVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "Terra",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOcmtCUmwzRFdjTlpFdGY4YmJaRzNCQzAwd0NPSzBaTVBLRzU0Qy1iQ2hiN3pzZ0lwRWd5RHdRdkZYVEJoQ0FzQmlacjF0bVN1RGk4WmI2bFBRMnFyWFFQVlkzWmgyYlU5OWh4WWdxNWRqQk5YOTdFSHg2UEo1ZlQ1ck1ITy15SVF3QkJ4dHE0RFR1clo0VG5mN01QTXRsckRXR0lYaFBTVFBCbHJReXFPOHloY01EX25fVEpXTHZyV3g2dDlJTEVtdDlXRkRQZnhhXzJSY2F0UVh1N2NVZ0hTdUxRbElOeUZ3NzhqNkw5eURwa2hUUFg3eko4Rzg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d4bdc0568814",
+      "title": "Anthropic bloqueia uso do Claude em pesquisas que podem levar a armas biológicas - Olhar Digital",
+      "published": "2026-09-10T18:37:00+00:00",
+      "summary": "Anthropic bloqueia uso do Claude em pesquisas que podem levar a armas biológicas&nbsp;&nbsp;Olhar Digital",
+      "sources": [
+        {
+          "name": "Olhar Digital",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdFRrcFhjeUxJMVhwV0JNdW03bkpIVU5yMEw1YW5DYWVIWjBValFZQ0Z3TlJZVTQ4aTZRSDJKSV8xODRibUpTNkVCNFZxV1FmN2VkV2ZPV3ZTYVFRUEZQYU1ZZTlqU2Q4RVpNUkdxSHJqazRFWXI5ZktWbXc5MFQ5Z0RMbXg3SXVlWnZrbUsxQnQzTW9vWEdwQkwyeEpKbGVxaFpRYlNhSU56MEFOSnRRdDBrNDVoZEJuQXVCMWF6Q3FzYy1ELURtX2JaSzRSRVNNelFhU01Vaw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3e07174ec045",
+      "title": "Plano de saúde terá que cobrir mamografia digital para todas as idades - Agência Brasil",
+      "published": "2026-09-10T18:30:00+00:00",
+      "summary": "Plano de saúde terá que cobrir mamografia digital para todas as idades&nbsp;&nbsp;Agência BrasilPlanos de saúde deverão ampliar cobertura de mamografia digital, decide ANS&nbsp;&nbsp;JOTA InfoPlanos de saúde terão de cobrir mamografia digital para qualquer idade a partir de outubro; entenda a medida&nbsp;&nbsp;Jornal OpçãoPlanos de saúde devem cobrir mamografia digital para todos&nbsp;&nbsp;campograndenews.com.brANS torna obrigatória a cobertura de mamografia digital para todas as idades em plan",
+      "sources": [
+        {
+          "name": "Agência Brasil",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNXzZKTnUxNE1PMDdlM3RvODBaUnlZLWswbjRaWVFTbWJhbU9YUk5MbU5MYUQwN3NUM3cyYnh0TENzT3B1aGlxOXBETmVXeE5HQmdxdTNFNmpiQVpJM3ZnZ1JGblg3MGtGM0xtOFVhbGg4V1JhRjRjVHZDRExjU1N2dkQ0RnVHc1plQmpKVlQzcy1aWlduVnR5QldXUW81eng0V0xHa1B3Z0duZnpLbS05YzNveFpGWmNpdENoNFoyNA?oc=5"
+        }
+      ]
+    },
     {
       "id": "0c42b246c87f",
       "title": "Trombose pode começar sem sinais claros e evoluir para embolia; veja sete sintomas que exigem atenção - Jornal Correio",
       "published": "2026-09-10T16:56:37+00:00",
-      "summary": "Trombose pode começar sem sinais claros e evoluir para embolia; veja sete sintomas que exigem atenção&nbsp;&nbsp;Jornal CorreioMédico vascular aponta fatores de risco e o que ajuda a prevenir a trombose&nbsp;&nbsp;MetrópolesAvanços no diagnóstico e tratamento para trombose e hemostasia são tema de simpósio internacional&nbsp;&nbsp;niddedigital.comMédica alerta para os riscos trombose e importância da prevenção&nbsp;&nbsp;Top Society - Karla CruzNova lei no Brasil exige prevenção de trombose em h",
+      "summary": "Trombose pode começar sem sinais claros e evoluir para embolia; veja sete sintomas que exigem atenção&nbsp;&nbsp;Jornal CorreioMédico vascular aponta fatores de risco e o que ajuda a prevenir a trombose&nbsp;&nbsp;MetrópolesAvanços no diagnóstico e tratamento para trombose e hemostasia são tema de simpósio internacional&nbsp;&nbsp;niddedigital.comDia Nacional de Combate e Prevenção à Trombose: os sinais que o corpo dá e não devem ser ignorados&nbsp;&nbsp;Correio dos MunicípiosMédica alerta para ",
       "sources": [
         {
           "name": "Jornal Correio",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNajlzeElvU2pJNV9RYk5LY1VIa1gwb1pRX3FXeVJGN256TWxXcWE5Z1pNZTFlNzNyM1UyU2RuQ0g4d0toQWk0bUo3Q2hkRnl3Q3FSS29EclZEZG9jLTFxMk5vdUhKZUFDUzV4QjhiMWQydHViNnVGdUVIUnpTbE1hNmZKNmZabmZRdm9GMk1ycnhKU08tc0E0bS1lcW45YTVydC1EZ005dnV3c3NFc3ZIdWdiQ1JESnRWQnFINkVNZWttYWI3elppbWh3d1k1MW9PQlcwWUNsNERmSVNxVXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0c0999e544db",
+      "title": "A psicologia sugere que sorrir automaticamente ao cumprimentar alguém pode não significar que você está feliz, mas funcionar como um sinal social de aproximação - Super Rádio Tupi",
+      "published": "2026-09-10T16:10:56+00:00",
+      "summary": "A psicologia sugere que sorrir automaticamente ao cumprimentar alguém pode não significar que você está feliz, mas funcionar como um sinal social de aproximação&nbsp;&nbsp;Super Rádio Tupi",
+      "sources": [
+        {
+          "name": "Super Rádio Tupi",
+          "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOV1Y4YV9iY0p0NmZvdGJDRzdNNENlMktCQVVQWVpPWTBpbWR1aVVSWDY4MXdSQzZieXdjYk5STklMTFoyQ21LeE5nOWdLUHd1TEJYU0tBaEI5clhoTUFsNHE2TlpybDVJTmx5U2w3TWVyRWxxQnllQjdNSmRBSmQtYzF4Q1ZqWjBTT2xVTmNteDk2azBNZl9VTGpuSW9DaW82V0JpNnBkOHJoMndtUU1WOWVTckprb1pQOWc5ejYwNXdSa3ZTYm1sR2U0aDVaYmttSWVfZFVBM1ZxM042RWIxblN3LThKbXFtM0RuVW15MG1UR0h3NWhDbEw0TlN3cGhid1pFMjJHUC1Eelk3ZXlCb092amNDRDE1NXlyMExhTXI?oc=5"
         }
       ]
     },
@@ -42,10 +126,22 @@
       ]
     },
     {
+      "id": "2a53bfc13561",
+      "title": "Cientistas estão começando a se preocupar com danos associados a suplementos populares - Extra online",
+      "published": "2026-09-10T14:45:34+00:00",
+      "summary": "Cientistas estão começando a se preocupar com danos associados a suplementos populares&nbsp;&nbsp;Extra onlineSuplementos de ômega-3 podem não oferecer benefícios na prevenção do Alzheimer&nbsp;&nbsp;TerraCientistas questionam segurança de suplementos populares&nbsp;&nbsp;Tribuna do Sertão",
+      "sources": [
+        {
+          "name": "Extra online",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaUhCN2JuZlY0cDVtaGJxWko4cml5NURkcHhZZmxkR1U0Q0hJdXN6WkhtanZNYXptbm9xN21EdHl6VFppVXdWdWpESEx5dEowMEJKMDBIUmJ5U0JmdzMwQmdyNTR1dkNfZ1I3Nno5OHQ3eXpJa2dBU3FJRXFPTFBSMV8wbXAwd3FWZjg5elNadElua0ozZy1FQUtaXzk1dXZGekhfbC1ZVmFTT2tVOEdVVHN4SWVsNE9VMVppSHVEY1RkV2pMdHhfQ1BUWGhxTmIyd3EzetIB4wFBVV95cUxPMzkzS1JHaUhEU2hjQXVGeC1oUzllS3Znb2N3Mkg0dWYtSXd4V3hGYmhKR2hOYWdFcHBESWotRDYwaHNNS05iOWVTaWZPaDRjajFqQWtiOWZLS0xsWTRUQVZhaHBBd1hwOEtpWDJxaTFNWHprMEg3VW81TWNUSVdTTDhrU3pMaFI5U3JqSkpxOXpGOVFFUGhSSE5vS1paWWVRZ29jMW5XRzNjckhzaThzcGhwX3puUHNLdDE2M2hPU0h6UzNMRGV0NXJFMG54WTBvQ1ZNckFmSjFVZE5aZDJKd2VEWQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "aa35196cde9e",
       "title": "Anvisa aprova novas indicações para remédio que trata câncer de mama - Agência Brasil",
       "published": "2026-09-10T14:20:00+00:00",
-      "summary": "Anvisa aprova novas indicações para remédio que trata câncer de mama&nbsp;&nbsp;Agência BrasilVeja mais manchetes e perspectivas no Google Notícias",
+      "summary": "Anvisa aprova novas indicações para remédio que trata câncer de mama&nbsp;&nbsp;Agência BrasilAnvisa aprova novas indicações de uso para remédio contra tipo agressivo de câncer de mama&nbsp;&nbsp;VEJAAnvisa aprova novas indicações para medicamento que trata câncer de mama&nbsp;&nbsp;R7Anvisa amplia indicação de medicamento para câncer de mama triplo-negativo&nbsp;&nbsp;Correio BrazilienseNovas indicações terapêuticas para medicamento que trata câncer de mama são aprovadas no Brasil&nbsp;&nbsp;Ba",
       "sources": [
         {
           "name": "Agência Brasil",
@@ -57,7 +153,7 @@
       "id": "3abc6b41deb3",
       "title": "Anvisa aprova vacina contra meningite para bebês a partir de 6 semanas - UOL",
       "published": "2026-09-10T12:34:52+00:00",
-      "summary": "Anvisa aprova vacina contra meningite para bebês a partir de 6 semanas&nbsp;&nbsp;UOLNova vacina contra meningite&nbsp;&nbsp;G1Anvisa autoriza ampliação de uso de vacina contra meningite para bebês a partir de 6 semanas&nbsp;&nbsp;VEJAVacinação contra meningite em BH: saiba como proteger bebês e adolescentes&nbsp;&nbsp;aqui.uai.com.brAnvisa autoriza vacina contra meningite para bebês acima de 6 semanas&nbsp;&nbsp;Agência Brasil",
+      "summary": "Anvisa aprova vacina contra meningite para bebês a partir de 6 semanas&nbsp;&nbsp;UOLNova vacina contra meningite&nbsp;&nbsp;G1Anvisa autoriza ampliação de uso de vacina contra meningite para bebês a partir de 6 semanas&nbsp;&nbsp;VEJAAnvisa amplia indicação de vacina contra meningite&nbsp;&nbsp;Tribuna do NorteAnvisa autoriza vacina contra meningite para bebês acima de 6 semanas&nbsp;&nbsp;Agência Brasil",
       "sources": [
         {
           "name": "UOL",
@@ -69,7 +165,7 @@
       "id": "94c163d9107a",
       "title": "Estudo: substância de cogumelos mágicos pode reduzir dano nervoso da químio - UOL",
       "published": "2026-09-10T12:31:45+00:00",
-      "summary": "Estudo: substância de cogumelos mágicos pode reduzir dano nervoso da químio&nbsp;&nbsp;UOLPsilocibina e quimioterapia: estudo protege nervos&nbsp;&nbsp;fastcompanybrasil.comEstudo demonstra que a psilocibina previne efeitos secundários da quimioterapia sem reduzir efeitos&nbsp;&nbsp;CNN PortugalPsilocibina pode impedir dano nos nervos causado pela quimioterapia&nbsp;&nbsp;MetrópolesPsilocibina pode prevenir danos nos nervos causados pela quimioterapia&nbsp;&nbsp;Diário do Centro do Mundo",
+      "summary": "Estudo: substância de cogumelos mágicos pode reduzir dano nervoso da químio&nbsp;&nbsp;UOLPsilocibina e quimioterapia: estudo protege nervos&nbsp;&nbsp;fastcompanybrasil.comPsilocibina pode impedir dano nos nervos causado pela quimioterapia&nbsp;&nbsp;MetrópolesPsilocibina pode prevenir danos nos nervos causados pela quimioterapia&nbsp;&nbsp;Diário do Centro do MundoPsilocibina pode prevenir danos nos nervos causados por quimioterapia&nbsp;&nbsp;Diário Goianiense",
       "sources": [
         {
           "name": "UOL",
@@ -93,7 +189,7 @@
       "id": "dc814920070a",
       "title": "Itália registra 41 mortes e 594 casos do vírus do Nilo Ocidental - O GLOBO",
       "published": "2026-09-10T10:25:49+00:00",
-      "summary": "Itália registra 41 mortes e 594 casos do vírus do Nilo Ocidental&nbsp;&nbsp;O GLOBOFebre do Nilo Ocidental&nbsp;&nbsp;Secretaria de Saúde do ParanáPrefeitura de Porto Ferreira alerta para prevenção contra a Febre do Nilo Ocidental&nbsp;&nbsp;Porto Ferreira HojeVírus do Nilo Ocidental: Itália registra 41 mortos e 600 casos; doença se espalha pela Europa&nbsp;&nbsp;Rádio ItatiaiaFebre do Nilo Ocidental registra quatro casos e um óbito no Brasil em 2026&nbsp;&nbsp;Portal N1N",
+      "summary": "Itália registra 41 mortes e 594 casos do vírus do Nilo Ocidental&nbsp;&nbsp;O GLOBOFebre do Nilo Ocidental: Itália registra 41 mortes e 594 casos da doença&nbsp;&nbsp;VEJAFebre do Nilo Ocidental&nbsp;&nbsp;Secretaria de Saúde do ParanáPrefeitura de Porto Ferreira alerta para prevenção contra a Febre do Nilo Ocidental&nbsp;&nbsp;portoferreirahoje.com.brItália eleva para 41 o número de mortos pelo vírus do Nilo Ocidental e confirma quase 600 casos&nbsp;&nbsp;cnnportugal.iol.pt",
       "sources": [
         {
           "name": "O GLOBO",
@@ -110,18 +206,6 @@
         {
           "name": "Jornal Correio",
           "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNS2ktTEdQUGlGMzdIT0VPd0NYcnlIOXB3ZkE1YWNoYWxxejEwbUMyWmxVN3hERVJaZE9kWHNtbzFoWlFUUHc3aHY1ZmJWSmNCVk5Kb0E4UFBKVUZaQUZxamFzNDRQOEtJRXVrSlNVa282UnF4cDJiSlQtMXQ3aTRvN08ycXNUV1F5TEdhSmtNVERUcVBlWjB3ZUtCMHVTTGFlUmdKMnFDSEJoMTBYOVVGeFVQWFl1UWdudlRjaTI1OFNDZ3hiQWs2WDRBZl8yYXBoSUU2RFN1NFdNbEhLZkNF?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d27e2488fc9f",
-      "title": "Cientistas brasileiros descobrem vírus que pode combater bactéria da pneumonia e sepse resistente a antibióticos; entenda - O GLOBO",
-      "published": "2026-09-10T07:30:00+00:00",
-      "summary": "Cientistas brasileiros descobrem vírus que pode combater bactéria da pneumonia e sepse resistente a antibióticos; entenda&nbsp;&nbsp;O GLOBO",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQdjZSeXNhdVFTLXktRC1ZVWxHMWZBdmtOSVdncDk0b0NWbjE1SWFpdXBVaWdMbnU2R3RCbnI1OHhxS09SS0FORTgxN25Vdi0xYmc1SWcyWTJremFRS1dHYlFuMlJYaWt4cE5fZ2dNcnd5T0ozR09NbHRZVlR5ZXBrUkZuSlJzbXhUeFJhX3hISVBhbWRfbWhpYzhLdi1xODR3X1ZkWV94VXhWYmZQMTNLOG1maEJUWlFiVVVOMWlKempGT1ZpZVhlQk1LSnktcVpNLTg3VmJZVTQ3QUhsdWJ1TWVHSG9xUE9wYXdnOHhZRUQ5MGpiT1RLUHJTQnROZTVNa2NMN09ZTdIBlgJBVV95cUxOaUd2cXd6bU9xRS1HaFpyVHpVRU9SX3cwUzlLc1c4MWFfakhUNzctel9sV0dIUy0wdC1pa2dDbjJoV2pYTzBTanJXb0JtaWl6c0lTY1FDd2kwUnlWTGU3WVpFNEN4NTVJZTUzbXE1R1l1eGZhSWRoakxrZzdOUkZUNXNTSTk5eWRjQUtGbDdtLUgyRWFRbzVXMjE3Vm1UUWl6MzVjSjQ1WllrdVBkbXVZUnRHN0JjY1lyRkM3cW5hNkFDMUxMaUZHeWNfNGduTVhPUWN2M3U4ZzVSMGlvaDNDcUtmUmpkT2FXcnZydkNiUF9ISVBMb2RNem4zanpTOWtzZDItdXpycEVXTVY1VkpqU2pKelRhQQ?oc=5"
         }
       ]
     },
@@ -150,22 +234,10 @@
       ]
     },
     {
-      "id": "567508fc0d90",
-      "title": "Estudo investiga associação de clorexidina e fitoterápicos contra fungo causador de infecção hospitalar - Agência FAPESP",
-      "published": "2026-09-10T05:12:57+00:00",
-      "summary": "Estudo investiga associação de clorexidina e fitoterápicos contra fungo causador de infecção hospitalar&nbsp;&nbsp;Agência FAPESP",
-      "sources": [
-        {
-          "name": "Agência FAPESP",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUE9lU3p6bXVnM2Z6OFRFUzZqWnFIai04RFlJYUFoX0hqN2ZMMEQ0ampxUlQ5bGp6cWh5T1lKVFhVUEZERHdQSVFXSUQ1NHZpTDM5Q0EwYVMyc1NkQ0lXa0JjdnlTT0l1QWF4aVI1THZYcVZmM1VwMGh3Xy02a296N0ljbFpvUDE0ckg1ajVERFZkZ2JyeUEwMFVHdTVzTlp5Rm13dVdtZzRmejB6ei00SHpEUU5ReV9jVGVqaW42TG9wb0FMa2NIMDc2b3ZMeTkt?oc=5"
-        }
-      ]
-    },
-    {
       "id": "cd55dd57a4e4",
       "title": "Quando o clima vira aliado dos vírus no Brasil - G1",
       "published": "2026-09-10T05:00:00+00:00",
-      "summary": "Quando o clima vira aliado dos vírus no Brasil&nbsp;&nbsp;G1GCN: El Niño coloca Franca em alerta para avanço da dengue&nbsp;&nbsp;sampi.net.brEl Niño deve provocar proliferação de mosquitos e especialistas alertam para possível aumento de casos de dengue em SC&nbsp;&nbsp;NSC TotalBarueri alerta para risco de dengue com a chegada do calor&nbsp;&nbsp;Portal ABC do ABCReforço no estoque de medicamentos entre as recomendações para reduzir impacto do El Niño na Saúde&nbsp;&nbsp;TCEES",
+      "summary": "Quando o clima vira aliado dos vírus no Brasil&nbsp;&nbsp;G1El Niño pode aumentar casos de arboviroses; SP faz plano de prevenção&nbsp;&nbsp;CNN BrasilGCN: El Niño coloca Franca em alerta para avanço da dengue&nbsp;&nbsp;sampi.net.brEl Niño deve provocar proliferação de mosquitos e especialistas alertam para possível aumento de casos de dengue em SC&nbsp;&nbsp;NSC TotalBarueri alerta para risco de dengue com a chegada do calor&nbsp;&nbsp;Portal ABC do ABC",
       "sources": [
         {
           "name": "G1",
@@ -201,7 +273,7 @@
       "id": "37c46ff00f78",
       "title": "H. pylori pode estar relacionada a 22% dos casos de câncer colorretal no mundo - Medscape",
       "published": "2026-09-09T23:17:46+00:00",
-      "summary": "H. pylori pode estar relacionada a 22% dos casos de câncer colorretal no mundo&nbsp;&nbsp;MedscapeBactéria que causa câncer do estômago pode agir por anos sem apresentar sintomas; entenda riscos&nbsp;&nbsp;CNN BrasilBactéria 'H. pylori' é associada ao câncer colorretal em pesquisa&nbsp;&nbsp;Correio BrazilienseQuando H. pylori pode virar câncer de estômago? Bactéria acende alerta para doença; veja fatores de risco e quando investigar&nbsp;&nbsp;jc.uol.com.brLiga Contra o Câncer reforça prevenção",
+      "summary": "H. pylori pode estar relacionada a 22% dos casos de câncer colorretal no mundo&nbsp;&nbsp;MedscapeBactéria que causa câncer do estômago pode agir por anos sem apresentar sintomas; entenda riscos&nbsp;&nbsp;CNN BrasilBactéria 'H. pylori' é associada ao câncer colorretal em pesquisa&nbsp;&nbsp;Correio BrazilienseQuando H. pylori pode virar câncer de estômago? Bactéria acende alerta para doença; veja fatores de risco e quando investigar&nbsp;&nbsp;JCLiga Contra o Câncer reforça prevenção do câncer ",
       "sources": [
         {
           "name": "Medscape",
@@ -225,7 +297,7 @@
       "id": "00232adf66b3",
       "title": "Opinião - Drauzio Varella: Novo exame clínico marca um avanço para detectar o câncer que afeta o intestino - Folha de S.Paulo",
       "published": "2026-09-09T21:10:00+00:00",
-      "summary": "Opinião - Drauzio Varella: Novo exame clínico marca um avanço para detectar o câncer que afeta o intestino&nbsp;&nbsp;Folha de S.PauloMulher ignora sintomas por sete anos e descobre câncer terminal aos 25&nbsp;&nbsp;MetrópolesCâncer de intestino: jovem descobre doença aos 25 anos após ignorar sintomas&nbsp;&nbsp;aqui.uai.com.brDiagnosticada com câncer de intestino aos 25 anos, após ignorar esses sintomas por 7 anos.&nbsp;&nbsp;Vietnam.vnMulher descobre câncer terminal aos 25 após ignorar anos de",
+      "summary": "Opinião - Drauzio Varella: Novo exame clínico marca um avanço para detectar o câncer que afeta o intestino&nbsp;&nbsp;Folha de S.PauloSetembro verde: os alertas para hábitos de risco ao câncer colorretal&nbsp;&nbsp;Correio BrazilienseCâncer de intestino: jovem descobre doença aos 25 anos após ignorar sintomas&nbsp;&nbsp;Portal UAIMulher ignora sintomas por sete anos e descobre câncer terminal aos 25&nbsp;&nbsp;MetrópolesDiagnosticada com câncer de intestino aos 25 anos, após ignorar esses sintom",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -242,30 +314,6 @@
         {
           "name": "Estadão",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxON1VFMl96RUJkRWJkR0VnQ0hMYW9UOTNtc3R2NGh5STNIUlZ3S29FSDIwcmlmQUhWQ1NzUlQ3SVl4V2FMZmNpLVQ1eE9WcUxObnZ0SlRvVWNvNGFPOUd5bGpvNk4zTkNGVWtwNUVPZ0tPcGRoQWdVNjNZNExZX0xMWHZSR1Z0dVZidHdSWjJrcEJMd3NsZGFEUjE2QmdrLVlXbExOenZzdDUxVjJDXzFuRzZ2Nno1Q2dBZ2tHdnFnQS02M09HdFIyREgwWVPSAdIBQVVfeXFMUEZwMndYbW9oVzIxZkpSNGlYbVp3eFMwVzd6d1NlenVNb0hsUjBldDFYVXExRGpuMUVIQ2dUUXUxa3FLX0tJS3lPelJDOGcxVy1Oa29fQjV0RWp5RWFBRjR6QWZUVXNxaUZqTG1hV0Jmd1N2Q3JzTUtfdFg1UHp6c242SGx3dWdwd0lEZ05VcUVrLXRzYWZ5TUszY25PNzZkQmNDLVlrNmxkdm1TZ2dFSHItVzZHak9Vc2Jpbnl1TU5fd09BQWlIcVV6cGgxSFIzLWZR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9343eaeef9c9",
-      "title": "OpenAI diz ter resolvido em 88h problema matemático sem resposta há 90 anos (e a acusação feita por dois pesquisadores sobre a empresa) - BBC",
-      "published": "2026-09-09T20:33:48+00:00",
-      "summary": "OpenAI diz ter resolvido em 88h problema matemático sem resposta há 90 anos (e a acusação feita por dois pesquisadores sobre a empresa)&nbsp;&nbsp;BBC",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YNm83T204Ny0xVkJtU2pVZzFPSC1KeTlzdVYxVmN3QmlDUlhhMldRZnN5YnNjUGUtaU9sZlhOS3JMNk9LU05lZEZlVVJBUVZnTXJXZXBrRW5GNGp6ZEVQU2pB0gFnQVVfeXFMTjB1NlIxYWdzOXU5MDJwTWxkY1NGcUdNVDE2UmdlYkdLZGVtbm9WdzR3Y3dvSHNHSnVYV0JISXRwQndpbnFHV1h6cmFQQ2NJQTZsM3VWbUFtU2M5OXlkUTM2RHRoVDhsTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "56445908d5b4",
-      "title": "Foguete brasileiro leva “laboratório espacial” nacional à fronteira do espaço - olhardigital.com.br",
-      "published": "2026-09-09T20:04:00+00:00",
-      "summary": "Foguete brasileiro leva “laboratório espacial” nacional à fronteira do espaço&nbsp;&nbsp;olhardigital.com.br",
-      "sources": [
-        {
-          "name": "olhardigital.com.br",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcG5URUhFbGpwVVoxVmg0R190bThvWTA1UHFkTWREb3FhZjctTUc2THo5MHdxaXhjOHFmVkFRZ1RfaWhweGE0bEVzaTJzRnFVUDB1T3hTOW1DWC1KeV9GeTVoUG9nbWotWVd5amZKamV4NHRSVUotbE53LURPaVVub3VXZDlJN1NDejVwNHM5dGRZYlVpZkxJSER4UHdiUE9DRXE1eGRlUXl1SkRzcmF1VTBNVFJHZzZUeDQ2WXl3VFZBSTc2VFdSazB4eXk?oc=5"
         }
       ]
     },
@@ -318,18 +366,6 @@
       ]
     },
     {
-      "id": "743fd28694eb",
-      "title": "Desconhecimento sobre a próstata pode atrasar diagnósticos, indica estudo - Folha de S.Paulo",
-      "published": "2026-09-09T16:26:00+00:00",
-      "summary": "Desconhecimento sobre a próstata pode atrasar diagnósticos, indica estudo&nbsp;&nbsp;Folha de S.PauloSaúde masculina pede atenção conjunta aos sintomas&nbsp;&nbsp;Valor EconômicoJato fraco e demora para urinar podem ter relação com a próstata&nbsp;&nbsp;tuasaude.comEstudo: desconhecimento sobre a próstata atrasa diagnóstico&nbsp;&nbsp;ParanashopDOENÇAS SILENCIOSAS DESAFIAM SAÚDE MASCULINA E REFORÇAM IMPORTÂNCIA DO ACOMPANHAMENTO PERIÓDICO&nbsp;&nbsp;- Bahia Economica",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQlNjYjdVR2hqZ29yY0djSDdnak1FQi1lOG1PbVhoN1kzT3FFZ0xUbWNxRmZST3B4bmdSNWtmeTRXbnFfZUZybzZrQU0xUS1nenVuYnowYW4zak5lUm5ScmtIY0lVZFg3d1FBbXNQTk1oYmVzbmpRTTJUOU5BR3dhWGVXYm82S2RwNmNXU1RjdnZrVTQ1dk1nbWhkVHdkSWpyR3BFT3lJTS1JZ004TEhnWjhrLTVFWmZFamNyVjQzcC11NFZKaE5OQTlCX1RuQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a343b1013b51",
       "title": "Vitamina K: como funciona o nutriente que ajuda na saúde dos pulmões, segundo a ciência - Globo",
       "published": "2026-09-09T13:34:35+00:00",
@@ -342,22 +378,10 @@
       ]
     },
     {
-      "id": "6902067679be",
-      "title": "Denise Duarte: Os riscos do calor extremo são um reflexo das nossas desigualdades sociais - Revista Pesquisa Fapesp",
-      "published": "2026-09-09T12:44:00+00:00",
-      "summary": "Denise Duarte: Os riscos do calor extremo são um reflexo das nossas desigualdades sociais&nbsp;&nbsp;Revista Pesquisa Fapesp",
-      "sources": [
-        {
-          "name": "Revista Pesquisa Fapesp",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQa3RNT19jZWNxZ0NUbm5zNXU2N2ZzS2xUWG1RNzZySmotdVNWSzNXbFhoa19CYzdzcUhZY1Q0bEl2bnZwbkk0SlpZNjJWZXpOT1huc2pYOUZGSmdVQzg4UF9uUzlrX1ZZaTI3TlpkbjkwN09DUHFPdnphQUNXVTRaWXNuR0JieVB2Z2l5S2lWRG5UWkRyRHIzSjAwYmFtR0hlNmJSQnMwWmYwT0k3dEFNaDhSOTcyT0tIUkh2M2RWR2o?oc=5"
-        }
-      ]
-    },
-    {
       "id": "68b42073e345",
       "title": "Beber chá ou café muito quente triplica risco de câncer de esôfago, diz estudo - G1",
       "published": "2026-09-09T11:07:58+00:00",
-      "summary": "Beber chá ou café muito quente triplica risco de câncer de esôfago, diz estudo&nbsp;&nbsp;G1Consumo de bebidas muito quentes pode triplicar o risco de câncer de esôfago, revela estudo&nbsp;&nbsp;O GLOBOBeber chá ou café menos quente pode reduzir risco de câncer de esôfago, sugere estudo&nbsp;&nbsp;VEJADo café à carne processada: dois hábitos aparecem ligados ao risco de câncer&nbsp;&nbsp;olhardigital.com.brBebidas muito quentes ligadas a cancro do esófago, dizem investigadores&nbsp;&nbsp;Euronew",
+      "summary": "Beber chá ou café muito quente triplica risco de câncer de esôfago, diz estudo&nbsp;&nbsp;G1Consumo de bebidas muito quentes pode triplicar o risco de câncer de esôfago, revela estudo&nbsp;&nbsp;O GLOBOBeber chá ou café menos quente pode reduzir risco de câncer de esôfago, sugere estudo&nbsp;&nbsp;VEJADo café à carne processada: dois hábitos aparecem ligados ao risco de câncer&nbsp;&nbsp;Olhar DigitalBebidas muito quentes ligadas a cancro do esófago, dizem investigadores&nbsp;&nbsp;Euronews.com",
       "sources": [
         {
           "name": "G1",
@@ -378,6 +402,18 @@
       ]
     },
     {
+      "id": "585bb752b5ac",
+      "title": "Mesmo com caneta emagrecedora, cirurgia bariátrica pode ser melhor opção para alguns pacientes - Folha de S.Paulo",
+      "published": "2026-09-09T07:00:00+00:00",
+      "summary": "Mesmo com caneta emagrecedora, cirurgia bariátrica pode ser melhor opção para alguns pacientes&nbsp;&nbsp;Folha de S.PauloVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWGdDUG9nM1pUbWxUMjhNQkpUa245TC1zMm5VZXlKLUQ1Mi0xemE3UDEtUXRjTW8xVVA5SXRJSXVadTloeGw1WS1DRDROTFkyZ3BOQnRKSTA4elRGczdBamlkOHdpRk5YdWZCTmV6NGxmUTVBZ1VGZC1SWGdpVFF5S1dscUJvR0JOY0UzcVNvT2hvakhDRVZndGhfZDZJdnRVc1JVbWZEbDNDUjFZWlFwZnpDOVhKMXUyTFVVazZZaEdzRVZ3ZE1PNHJ3ZWhiUzEwVGM1OGFKWFYtdXpoaTlERF9TNG1LSVM5R1E?oc=5"
+        }
+      ]
+    },
+    {
       "id": "312bcfeee298",
       "title": "Caminhada 6-6-6: entenda como funciona o método de atividade física que combina horário, duração e regularidade - O GLOBO",
       "published": "2026-09-09T07:00:00+00:00",
@@ -390,26 +426,38 @@
       ]
     },
     {
-      "id": "8f19104cecef",
-      "title": "Pesquisa aponta lugar mais seguro na Terra contra uma catástrofe global - R7",
-      "published": "2026-09-09T05:00:01+00:00",
-      "summary": "Pesquisa aponta lugar mais seguro na Terra contra uma catástrofe global&nbsp;&nbsp;R7",
+      "id": "2614d6d3c400",
+      "title": "Descobertas antigas da humanidade agora estão ganhando vida novamente com uma técnica da Nasa utilizada para manipular fotos de satélites - CNN Brasil",
+      "published": "2026-09-09T06:34:07+00:00",
+      "summary": "Descobertas antigas da humanidade agora estão ganhando vida novamente com uma técnica da Nasa utilizada para manipular fotos de satélites&nbsp;&nbsp;CNN Brasil",
       "sources": [
         {
-          "name": "R7",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSjhSV0xtbng1THpwV2daM05DQkVQNGdvOVh1MjRldTFxUE1NMlVObVpCcGVaZFpWaXRZWXlfQmV1TVhXUjBGQnY2R1N3dVVDWjRBMEc0bUlJbVdlNzdSS1QtZU1KNzVqd2RtYkFUb3VoaWpnaU1qZFFxdF9jZVBwSDJzYlY5TmpQUkhJT25VNm96b1M5emg0eTRKbXdDRTVOUWU1WVpEWHhSOUZxMXVmamV3QVVVZlBGamY4?oc=5"
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPUWtob2wtdFppWXc1Uk01d01Ga0M5ZXk3aUVxbDJWZGJLaGlaTW9WSVB6MDlkLXZicmVEMnJBX3Q0cEt3RGNnbGFBcl9aOW9tdXprMjVuZHpJaFd3dGVDTEVIaVNfMERDdy1UR2o3cVYtZ2lXNExzX01Gd0hWT2c0MDVtTDN3UFpaMVR1WUYtNkRHYVZWb1JUYlRpanVqRTZKRkdGM0dMTVhrOXFLM05fWTZqTVMyQjQxelJmc1pDcE5zUG1mdk1jQVNSWkJ6YzNSRDVnLS1UZGhNSVI0X0paaUs0RmdhNVBDNGY5UUV5TWNHRHkyWGh2Q3NHZ3lENXJ5Vy1aWkxn?oc=5"
         }
       ]
     },
     {
-      "id": "7223663d3c0e",
-      "title": "Especialistas alertam para risco de alimentar IA com informações pessoais - Metrópoles",
-      "published": "2026-09-09T05:00:00+00:00",
-      "summary": "Especialistas alertam para risco de alimentar IA com informações pessoais&nbsp;&nbsp;Metrópoles",
+      "id": "2bb634c0ad62",
+      "title": "Nem o descafeinado escapa: por que o café mexe com intestino e cérebro e o que é recomendado - Jornal Correio",
+      "published": "2026-09-08T22:57:00+00:00",
+      "summary": "Nem o descafeinado escapa: por que o café mexe com intestino e cérebro e o que é recomendado&nbsp;&nbsp;Jornal CorreioCafé, mesmo descafeinado, pode ser aliado do eixo intestino-cérebro&nbsp;&nbsp;SuperinteressanteCafé descafeinado faz mal? Veja o que a ciência diz&nbsp;&nbsp;DOLVocê toma café todos os dias? Veja o que a ciência descobriu&nbsp;&nbsp;diariodocomercio.com.brA dificuldade de relaxar nem sempre vem da rotina: o excesso de cafeína no café e nos energéticos amplia os sintomas ansiosos",
       "sources": [
         {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSWJHaWxrZWhRZW9GbWM5eHZfdkdXZ2QzeUlndkl2T1lqbE5DV2diRC1YTnBvUDVPX1dJREpNelVTQ2lEbUg1RVVfSG83WHBkVVhkdjZCc2tqSFhhQVFuSHBQUGhZZU95T1Z4ODdSZFF6ME1zZXBsZEw0bkNEcjNFbXBSaXhuV3QzNkRlVlJ6dzk4X193bFBtZFJ6cU9sRFc1Sno2dlNBR24wMUI4?oc=5"
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQM3Q0N25QMVFiVk9qQ3htZ1p0TzBvNUVnVUpiWXg4S2pSVWZ6b2RQeXotczF5em0tQ251VzloSE1jMjNWWkY1SW9IeWMtU0JWbmJBWDZPUVJyUU12U1U0dzFKc2xyRkJTcnk2V1p1X21jT2FZMVZLQ3RiTkQtSGhxcFZLLUxNbVk2TjAtcVFXSkRJemd2M3dsT0U0cmpIakVqNmY3Mnl2NWUxVDN3dk92R2l2ZWdrUjhfOFQyeVdEM1VYczNVU1JEcFJIYkpvbVFDRVRpcQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9a3064996bef",
+      "title": "El Niño está se intensificando e pode atingir intensidade excepcional: o risco de eventos climáticos extremos aumenta - Meteored Brasil",
+      "published": "2026-09-08T22:02:00+00:00",
+      "summary": "El Niño está se intensificando e pode atingir intensidade excepcional: o risco de eventos climáticos extremos aumenta&nbsp;&nbsp;Meteored Brasil",
+      "sources": [
+        {
+          "name": "Meteored Brasil",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOTDA5N0lmeGQybkVTOTFaNEdKUVE1ejNHbFdrUFVHMnl5My16TmRyLUJwT0t0TWNEOEIzNk54TG9oWDdDd3JBRTRwSnA1Y0JyOGtTUWd6NFpEUVJxWDNrajhUZ0lFNWY5T3M1TDVKeXZVM1NZc2hqV0JtWjJ4SWVsUDZhNVNBVzVvUXFJcHZ1UDJRM3djd3drRjR5azZCRVo0TElRZmVzZWE4TnB1VmNrMm1vdDhubXI1RUpncG9lM051SC15RENCdF9idTlSSjE4dzRTWjdUd1FFckYwNDY1Sjg4dDg4YnpSNG16YU9pUVk1MEU?oc=5"
         }
       ]
     },
@@ -426,14 +474,62 @@
       ]
     },
     {
-      "id": "7e8f38d5de3b",
-      "title": "Seu parceiro é fumante? O fumo passivo causa 1,7 milhão de mortes em todo o mundo, revela novo estudo - O GLOBO",
-      "published": "2026-09-08T13:52:49+00:00",
-      "summary": "Seu parceiro é fumante? O fumo passivo causa 1,7 milhão de mortes em todo o mundo, revela novo estudo&nbsp;&nbsp;O GLOBOFumo passivo causou quase 1,7 milhão de mortes, diz estudo&nbsp;&nbsp;G1Mortes prematuras de pessoas expostas ao fumo passivo chegam a 1,6 mi em 2023&nbsp;&nbsp;InfoMoneyFumo passivo provoca quase 1,7 milhão de mortes, aponta estudo&nbsp;&nbsp;Correio do PovoConsequências do tabagismo passivo&nbsp;&nbsp;Vietnam.vn",
+      "id": "4215708bcaf8",
+      "title": "Painel S.A.: Redes de pizzas e pastéis buscam soluções diante do fenômeno das canetas emagrecedoras - Folha de S.Paulo",
+      "published": "2026-09-08T21:34:00+00:00",
+      "summary": "Painel S.A.: Redes de pizzas e pastéis buscam soluções diante do fenômeno das canetas emagrecedoras&nbsp;&nbsp;Folha de S.PauloCanetas para emagrecer exigem mudança de hábitos para manter efeito&nbsp;&nbsp;Folha de S.PauloQueda de preços pode triplicar uso de canetas emagrecedoras no Brasil, diz sócio da McKinsey&nbsp;&nbsp;EstadãoEfeito platô no emagrecimento: 5 cuidados durante o tratamento com as canetas&nbsp;&nbsp;TerraDescarte incorreto de canetas emagrecedoras pode causar ferimentos #canet",
       "sources": [
         {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcHhRYUZLMnJKT1BWVVpJdUdMbkV3eWotRmgyVEd4VXpxSUdvWGNxam9FOEdxeHk2Qk0wcnM1UjhYZzF6aDM0M0tsajNLOG1VYzVVWUxQNXJDYTdtRGZfN3NqLUh2Xy1KNzd0aWdIMlZJZVUzUW8tcERNdmJJSzZWUVkxdktZZ2JhQ0FNZi1ZZkRqaGtRejQ3YzlpVUJTZUt2UEhuRmtscUUyU3VWQkVNbDljZkstRFFVNkVDcXJwT01vZWdoWkQzRUtrLXRBMFJlQVZoVlhoUWEwYjZvVE05RHNOUGI2bS1MOVHSAfgBQVVfeXFMUGNvUDZqRmhuY0JjNmVfOWVhM2txMHhxMnNabXd5Y0U0YkR5NU1aXzJoWE5EX0IyTFE4VXVXS1pGOTVaM3hiV0ZBemFuSTlyVXlieFJvTUtwcldsZ0ZjaERzOFN2emF2TjJBYTZUNVZFdEVwWG81VlZvTjRrTU1ZTmxtQjJHVmxBeDUtVEs5MUVFOF9KZ3RKcEhkVmR4dDUzemJORHFjYmdjb25WRDFRNGJKQWZkSkpPYWdrY3dKOXpjTE5WZUNmUmJRaGxnZkExU25lbGx2VEpGSklNdXhSSHczT2dSendpNVowXy03YllGdzBMcUUzSEU?oc=5"
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVDh6RTBsT0M1aUV3eDZyanJkeEN3ODBmSmJYdFRGeHBhQl9TOHRPUU8teHFMUlBVbDQ1VFJhMU04UDVlNHozRHZkQjZZenVjenFfbE1Wc0hiN2ZsTzZZVE9SZlFiRjBPcTlMUkpEMGhUV2hnRWVacFBCNlVKZWszOGhqZ1pOamJuSW1CNUNuSDh5S3Fac0VGV2RaSVdPU0dHSnNBNHJoZ2t5Xy1OUFU2b3FRWmdoNGk0WHNaX0N6Zkw5ZVg5dWRUakE2eHJXR2djUzVmR3QzX25WcHFaRzIzSQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d698b0e67919",
+      "title": "Atum comum no BR com mais de 3 mi de toneladas pescadas tem 96% de contaminação por parasitas, alerta pesquisa da UFSC - NSC Total",
+      "published": "2026-09-08T20:05:26+00:00",
+      "summary": "Atum comum no BR com mais de 3 mi de toneladas pescadas tem 96% de contaminação por parasitas, alerta pesquisa da UFSC&nbsp;&nbsp;NSC Total",
+      "sources": [
+        {
+          "name": "NSC Total",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNb0NrVmVRV1A0NmduMUlMRWlISU1RbWdvWWMtUlhZNks3TC1kZVVSUEY5aFhVbzFpVzZ2TkY4X0otYm12MzBSbnpyMUQ1QnF0N01GUzZsTjFRbmtqaTBNb0Y3azZEUm96NFVBblJyblg5UDkwT3IyRGMwUFp2b2tkVTVPVmdPMy04eVE0QlNubkdRTVd5akRkXy1wM00yV0lVaEtlMTA0QWJUbXA3X3dCSFJ5a1BKSGtMSGdzSTZvQV9HbU1vOTZFcDdUeXFhOVh1NUpSN1c2Zm04eDMtcF9sT055UHFXbkZYMEt1VGFmRQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "733c538a4970",
+      "title": "Canetas emagrecedoras: 6 efeitos no corpo que vão além da balança - UOL",
+      "published": "2026-09-08T15:00:00+00:00",
+      "summary": "Canetas emagrecedoras: 6 efeitos no corpo que vão além da balança&nbsp;&nbsp;UOLApós perda de peso, excesso de pele vira nova demanda nos consultórios&nbsp;&nbsp;33 GigaAscensão do uso de medicamentos para emagrecimento impacta a cirurgia plástica&nbsp;&nbsp;ABC RepórterEndymed trata a flacidez após uso de canetas emagrecedoras&nbsp;&nbsp;TerraCanetas emagrecedoras podem gerar flacidez da pele; especialista orienta&nbsp;&nbsp;virgula.me",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUi1mMkVOaVZVa2llaDJWeF9hb0VtbUVUUGVJNFVWVTlDYi1ZMTh6clFsQjdEUElBUFc4TnBiek5EZWJnX3lNb2tyOUx0U2ttUjRraHhwUnY5TDVqOV9OMEJKc2xnV2pfUlZoTDVQak1lY2pwUFlsZ21zMUhkOGU4dVhxeEFQUTdfU1ZXSHZJZ0xKX0hmc2hVWXU0N0Ruenp6OGl4WVduaEhaUFFLNzdTY1FRMm5KZERLdTlNQ1VVdENHQV9rRFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5c4f8c4d6017",
+      "title": "Desafio Diagnóstico: Dispneia, hipoxemia e alterações na angiografia aos 34 anos - Medscape",
+      "published": "2026-09-08T14:37:16+00:00",
+      "summary": "Desafio Diagnóstico: Dispneia, hipoxemia e alterações na angiografia aos 34 anos&nbsp;&nbsp;Medscape",
+      "sources": [
+        {
+          "name": "Medscape",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMjJHNTBySEVlVGxYbDh0dDFIcTcyeHJBM0t3MWMtNjZ0M2xhZjZQalh6cXhNWU54WjZBSC1hdDJhQjhhdTNjZU83bF9XWEx2QzM0OUtSS3N0QXlhNmVGWGlyYVQtWkhkbnloUk9QckFKQno0dGhHcVBzT2lsZEdpVlRxczVtR1RaSU5teG1ESnpNcjMtWmJ4S0tDUTBJWWw4VVFJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "82cb5c515f14",
+      "title": "Osteoporose silenciosa: perda da densidade óssea feminina acelera a partir dos 30 anos - Globo",
+      "published": "2026-09-08T14:03:55+00:00",
+      "summary": "Osteoporose silenciosa: perda da densidade óssea feminina acelera a partir dos 30 anos&nbsp;&nbsp;GloboExame de densidade dos ossos: quem realmente precisa conversar com o médico sobre ele?&nbsp;&nbsp;tuasaude.comOsteoporose atinge homens e mulheres de maneira diferente; veja cuidados&nbsp;&nbsp;Hora CampinasNem toda fratura é osteoporose: a doença genética que pode passar despercebida&nbsp;&nbsp;Gazeta do PovoEspecialista alerta para diagnóstico precoce da osteoporose, doença silenciosa que afe",
+      "sources": [
+        {
+          "name": "Globo",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSmlaYlNCZl9OQkkzRzBQTmdiaEdaT3p4Z1RIZVlwMXZPQTY3Qzl0RktSTlNJLVljYnk3RnNkSUtWaUpTV2ZzX2VVT3I0UGRRbWNBb0w5dDZETmlvaFZSaEppVlJNSHozbUNXMW90blFjSU1KeVlnQVpMTGREaUZmLTZ1VlhVWDFHYk5NcERmbl9EZG9mbGlydVY4dFZnTjZzVktWdEVvY0pvY2NLX1BEeE12Nm5BU0pCWXpjRWhMbzNIYlIzSGdpVnhBd3F4MGZSeEhza0RHSGhPelZzTkJTWjF2cWfSAfMBQVVfeXFMT29yMERjZS1wZHZZUjVtQnpXVk9tMGYxQjFiVXdBa2hOcDJwNklzOFd6S1pnUGFvM3J5TG1tMHAxMnl0WXp5aGktRHltQ1U2NjhIU2VFOEJ2Z3VIZzNwYUFnNVlMUVdGWklMUXFyeGhwVlhzcVlHVFFMMHJLUkpORV95NDNTazVSdC1rekplOTl1akJpb0pobXBxSDR0dEZUd2xzQW4tVXJrTEg2cW5INUU4Y0RFUk1yRU5MLW8tbFdIdVRkaFZOaC1hbzFlUXNsVWNMUlo0Q1JBZWpHWE44SktULWRQamdfTEwtbENMUjRoTGdZ?oc=5"
         }
       ]
     },
@@ -441,11 +537,71 @@
       "id": "f8071f50ebdf",
       "title": "Uruguai declara emergência sanitária após confirmar foco de IAAP em Colônia - Agrimidia",
       "published": "2026-09-08T11:49:09+00:00",
-      "summary": "Uruguai declara emergência sanitária após confirmar foco de IAAP em Colônia&nbsp;&nbsp;AgrimidiaUruguai confirma foco de influenza aviária H5 em aves de quintal e inspeciona 34 propriedades&nbsp;&nbsp;avinews.comGrave: Descaso com os animais no Uruguai pode disseminar gripe aviária&nbsp;&nbsp;Novo MomentoGripe aviária leva Uruguai a reforçar cuidados com animais silvestres&nbsp;&nbsp;força do valePaís vizinho do Brasil toma medida de emergência após novo foco de gripe aviária ser confirmado&nbsp",
+      "summary": "Uruguai declara emergência sanitária após confirmar foco de IAAP em Colônia&nbsp;&nbsp;AgrimidiaUruguai confirma foco de influenza aviária H5 em aves de quintal e inspeciona 34 propriedades&nbsp;&nbsp;avinews.comGrave: Descaso com os animais no Uruguai pode disseminar gripe aviária&nbsp;&nbsp;Novo MomentoGripe aviária leva Uruguai a reforçar cuidados com animais silvestres&nbsp;&nbsp;jornalforcadovale.com.brUruguai declara emergência sanitária devido a foco de Influenza Aviária&nbsp;&nbsp;boca.c",
       "sources": [
         {
           "name": "Agrimidia",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaXJBMF9tc0s2NXRmSi1VMVZyMTQ3MUllRUhuSWJtZFM5WkFkcWN5WVQ1U0l4cWh5WklPeWo3eWR4N2pTaGVhTjN0YllZS2JvQ3d0a183alpKOHZvYkhCaUxsaDVQcWxhYWFQdHRTMG5fMDBhSWRvd2hhT3h6SmQzMGE4Yk8wY2YzZ3pka2FmUFN0SFBGcGx3VkFZZmNTb01DSmFrOXNCZ2Z1Z1M4M0NKR25CSTc3cmtyU3lQMUlRQmlwbVVTRVdrU2FXZF9kVW8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fb0ddca40ad3",
+      "title": "Especialistas em psicologia afirmam que quem costuma cumprimentar os vizinhos ajuda a criar confiança, diminuir a sensação de isolamento e fortalecer a comunidade - Super Rádio Tupi",
+      "published": "2026-09-08T09:00:07+00:00",
+      "summary": "Especialistas em psicologia afirmam que quem costuma cumprimentar os vizinhos ajuda a criar confiança, diminuir a sensação de isolamento e fortalecer a comunidade&nbsp;&nbsp;Super Rádio Tupi",
+      "sources": [
+        {
+          "name": "Super Rádio Tupi",
+          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNckpTR3NWaTVBTVRGRlpHZjRnQmxnR0VpeUdpUTBRaEI1dUg1UkI0NGs4UFB5a2lHaXJxV3pNcl95U3QxcXVFZ1d6d2thUkxDSklWNkhVTjVoeXplR3FObW4za09CYWQtWmczZWt0YWNCcE1MSHlzNFdxU2FhNG1BUEFhTjZWN3hsWFJBRE1jbFVIRW5oaHNfUXM1UFJ2WDdTTU1KTlhvZi1KUVp1MzRtY2NGZnFDdWpXZGFGY3Nld0JPOXdoWEpqYWh5Z3V0NTg5cEViNGtkb085UFB5NzdyQ251Q3l6WmRLNWkyZ3lPbjFnVnE2aGx1LVhYdkh1LVFlRXNxUFY4MHJ1aDhMZGpyNk5TeUcwWnlYM2NQaG1BTEY1Z3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1ef99115c11e",
+      "title": "g1 20 anos: da universidade pública à pesquisa com o Hubble, a trajetória da astrônoma brasileira Duília de Mello - G1",
+      "published": "2026-09-08T03:00:00+00:00",
+      "summary": "g1 20 anos: da universidade pública à pesquisa com o Hubble, a trajetória da astrônoma brasileira Duília de Mello&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNRVJYNjRCZEJaMVNjQ1pVV0J2RWwwYTBBTlRSNUxFQVFmUGgwZmZzVGhMbmM0VlRoZGZKT1NKeG9WUXZycFF4WVNYakZ4b2JoSmRkWTFuQzR0Slp6NVdaRWY0eHg1TS1fR3E5VGY3dWtfYUMydktwTnRudlBUUnZuZnFFUFFyYzhGeEJMR0lZNEx2RGplZ3pvWFpXMGNBNGdzQnU5ajFRQVU1TEhVTUsxc05mdHljak1KQkhtakMyOWtWNW1wYzZzZ1NFZXZLUW0yLUV3UFZfZnhoZlotTnpwdXBILTRHN09Hd21PU0F5TlEtMDE2TWUtcNIBhwJBVV95cUxOaXJyTjVkczVMWXRWc1gyNW5CZ3V0a2xUdE0tbVhLWjNOLVItemZWOWMyN0lXNUllcUhvVmUwRkhNQU9VYW4yVk90eXhuRGVuQkIxUVhyLXd6Q3JGcWNfR3UxUGsza0liRzZHODFmVUx1NG1lWENlekZOQ00yTjcwcFZtMDU3N2RKV21OZThfWVNyUG9vR2doSVFCalpsYndvbVF5eTViQ0l6TG1nNmZJMVN4T3F1SUk4ZXl5aHBPWE42NmFzVGRvV3VkaGhqRjVacmc3eDdsQ01KNkFGcmFiT2gtTy16eHQ4eXdsRDVQUmM0clVqTkt1aWZpTWlyY3NPa0hWR0xmVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ddf758cf972f",
+      "title": "História das tartarugas-gigantes de Galápagos é um conto de piratas: agora, 'tartarugas alienígenas' apareceram pela primeira vez desde o século XIX - CNN Brasil",
+      "published": "2026-09-08T00:02:03+00:00",
+      "summary": "História das tartarugas-gigantes de Galápagos é um conto de piratas: agora, 'tartarugas alienígenas' apareceram pela primeira vez desde o século XIX&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQZnVBcHRva1N4ZG5LMUJLaGljaFBWNkJidDQ0MTlNRW8zMDlpRzkxMV9QWWFtNUFzMjhSOXJRQk9EN3BSZWhWZkdIUVhpbXZLNE9oRW8tRDVPSXp2RE82UFA5SDNkeGZ5ZVhLSGVpUlRSdjNOV2ZnaVhJRkFiQWlVdlBJU2prcERsVy1Id0xHQkZCcW4xZHdrRm5HRjA5YnREbE8yZFR2TkpLa3VvOElHVFJLV2lhTW5CUFdodUZsNXdySHlWUk85eVJuWVNEQzBmTEljZk5sOU8tclNlTGRJQzJWN3ZLWlpFNFdIdXlubjJhd3pWMDZJQkp3SW93TFBJclNjSHZteWtJOU84aTRz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f01e9ffa237b",
+      "title": "Adoçantes podem alterar o metabolismo e afetar gerações futuras, diz estudo - CNN Brasil",
+      "published": "2026-09-07T19:47:39+00:00",
+      "summary": "Adoçantes podem alterar o metabolismo e afetar gerações futuras, diz estudo&nbsp;&nbsp;CNN BrasilAlterações no metabolismo causadas por adoçantes podem ser transmitidas para gerações futuras, diz estudo&nbsp;&nbsp;O GLOBOSucralose e stevia afetam o metabolismo? Entenda novo estudo feito em ratos&nbsp;&nbsp;Veja SaúdeAdoçantes naturais vs artificiais: veja diferença de impacto no organismo&nbsp;&nbsp;CNN BrasilO efeito invisível dos adoçantes: cientistas descobrem que sucralose e estévia mudam a ",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeW81dmE1YXRtQnMwaF9lZFB6dzk3N3NWaEpSZDR3cGhrSTlxd1AtdzU0N3pBbmZyZmlJaXo3TThza2ZMN0NURk53MWNRWmJwRFZ2X0d0NW1XV3UxM0l0X2N2aE0tWlRXODZwRWljNlFMRXp2X21NVXQxbV83enp5RmJFbkpvNzhzdnhnRW9lZV9ob0FIUkp6RzBtWi1GR2VoMGJReUxzVTNFZGVwSjdn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "763cd699e263",
+      "title": "O efeito invisível dos adoçantes: cientistas descobrem que sucralose e estévia mudam a microbiota e afetam a saúde de gerações futuras - Xataka Brasil",
+      "published": "2026-09-07T13:00:29+00:00",
+      "summary": "O efeito invisível dos adoçantes: cientistas descobrem que sucralose e estévia mudam a microbiota e afetam a saúde de gerações futuras&nbsp;&nbsp;Xataka Brasil",
+      "sources": [
+        {
+          "name": "Xataka Brasil",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOUl9XczZ4WXg2WDFwNDZPRU9VempoYWd4VWtPbTM2MGJPcjg3YkthTHAzdW1mZzAxUE5ZR0cyUWlaWEFJZ2VsTEExZlZWY0FyRHlBN0s4TUlOcWh4bmJiNHpwV3oxNlRNdkVzcS1adjZpZjVUSmllLXg5RENvNFFzWVBwSnJYeXRtNWRLRWpjM0tWTWYxUlhQaEZFTERDb2x5NlRJdndEcTM5Z2ZmV0VmTlMzaUhZM0hxRUhQYXpYVGdlRlVZNFV4M0NmQjdFVDg0bXJES2gyQ3lMemZNVEx4cERHNDlac3pfZTJPSkNsaW1CNmdV?oc=5"
         }
       ]
     },
@@ -462,10 +618,34 @@
       ]
     },
     {
+      "id": "afd85234750b",
+      "title": "Rotinas rígidas demais atrapalham longevidade e qualidade de vida - CNN Brasil",
+      "published": "2026-09-07T11:00:10+00:00",
+      "summary": "Rotinas rígidas demais atrapalham longevidade e qualidade de vida&nbsp;&nbsp;CNN BrasilEnvelhecimento da população acelera a saúde preventiva&nbsp;&nbsp;Valor EconômicoCuidar sem limitar: como preservar a autonomia e a independência dos idosos&nbsp;&nbsp;InfoMoneyQuer envelhecer com mais saúde? Médico explica o que pode ser feito décadas antes dos sintomas&nbsp;&nbsp;Jornal CorreioBrasileiros buscam cada vez mais cuidados com a saúde&nbsp;&nbsp;Revista Cobertura",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQWJ0d0hwaEpMamphRl9SaE9hMTREVFVyXzJWY185dzNtQjRsWnhoSGlBcy1PcGRSOVAtbTU2LWt4aExzN3pac0VFRUJ2ZGVxZnNKUmE0LWNPX0FFNS1NLWJtTHpoem8xSEtWcE9kRGpBRHZ2bENiem81TGpEcUwxcWlZN2k5MW9XWk8td2VnSlBRQWZ3bEVFMkh5R0tSOEk2VlVv?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c9d2f53fbc8b",
+      "title": "Feira de ciências transforma curiosidade de alunas em pesquisa e incentiva iniciação científica na escola - G1",
+      "published": "2026-09-07T07:00:00+00:00",
+      "summary": "Feira de ciências transforma curiosidade de alunas em pesquisa e incentiva iniciação científica na escola&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNazlTUzJOOTdnd0VMOGRqOVkteUlZVGEzeFR5UnRGOVllNTFMOHhvdHlMNWFNcGQ5clVjODFzcUswZkR0LUtHMkJmNWJqdE1oM3EtdVRLZkR2a2NHcTJJVHdIbG56Zmk5WHF1Y2JXdi14N1F0Rmh0RzNINHhpYXR4OVVyeklYTzFDQmo5UlZPdjZsOVlRb1hyaDBMc1pRVGNPWk1XR05fbmYwLTBaQWZQS3FmaGdDclFiSTRQUk5kTS1hbFhNbXhILVV0RlVhQTZLWFo2T0xyUG9GYVZpb2xvUllqM0I0QWlRNGJoSEdfMjlYQdIBgAJBVV95cUxOZXF0UHB3d2FfRGZ6cmFYZWwxR09tYURxQkpsMXcyNVE2cHJWbUhvSHRUUjdnT3ltaGpKR1dTVHRoZ2pMbW9ZNEM3bk9UOVBDZGRWN2QwMGV6RjhlZDNwQVNyR0oxQXotTFllSlFULW9URDloTmwyamdpU1B5Zk1rSGtOcnBBNXdZM1B2dHBIUG1qeVM0MW1sYi03YWxWazJwdkU5bkNyUlhjX1VDZG8tcmhNZFRkT3FyOTNKVGZnUWdULS1iYmxqdEtJemp2VDZzUTJBN1hLNUtDR21TRUlTMU55M1oyNFJOeXJUZXVLMDlKSDdScmFQbkdOM0VCZEIz?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c1321151c5cb",
       "title": "Excesso de gordura no fígado: veja 10 alimentos que devem ser evitados - O POVO",
       "published": "2026-09-06T01:39:37+00:00",
-      "summary": "Excesso de gordura no fígado: veja 10 alimentos que devem ser evitados&nbsp;&nbsp;O POVOAlém da água, aqui estão 5 bebidas que ajudam a manter seu fígado mais saudável.&nbsp;&nbsp;Vietnam.vnA epidemia silenciosa: quando o fígado fica com excesso de gordura&nbsp;&nbsp;contacto.luMédica orienta como tratar e prevenir gordura no fígado&nbsp;&nbsp;G1",
+      "summary": "Excesso de gordura no fígado: veja 10 alimentos que devem ser evitados&nbsp;&nbsp;O POVOAlém da água, aqui estão 5 bebidas que ajudam a manter seu fígado mais saudável.&nbsp;&nbsp;Vietnam.vnA epidemia silenciosa: quando o fígado fica com excesso de gordura&nbsp;&nbsp;contacto.lu",
       "sources": [
         {
           "name": "O POVO",
