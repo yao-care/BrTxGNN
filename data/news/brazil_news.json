@@ -1,19 +1,31 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-09-11T16:03:29.144805+00:00",
-  "total_fetched": 99,
-  "unique_count": 97,
-  "health_related_count": 45,
+  "fetched_at": "2026-09-11T20:38:03.671494+00:00",
+  "total_fetched": 98,
+  "unique_count": 96,
+  "health_related_count": 41,
   "news": [
     {
-      "id": "0320bc4a5599",
-      "title": "Vila Medeiros lidera casos de sarampo na cidade de São Paulo; veja lista - UOL Notícias",
-      "published": "2026-09-11T12:46:16+00:00",
-      "summary": "Vila Medeiros lidera casos de sarampo na cidade de São Paulo; veja lista&nbsp;&nbsp;UOL NotíciasBebê com quadro vacinal incompleto é o 32º caso de sarampo em SP; veja onde se vacinar&nbsp;&nbsp;EstadãoSP confirma mais dois casos de sarampo em crianças. #JR24H #Shorts&nbsp;&nbsp;R7Sarampo: tire suas dúvidas e saiba como se proteger no estado de São Paulo&nbsp;&nbsp;MetrópolesCasos de sarampo sobem para 32 no estado de SP; bebê de 6 meses está entre novos infectados&nbsp;&nbsp;G1",
+      "id": "8b69f6510135",
+      "title": "Técnico do Senai Cimatec que opera a planta piloto de Camaçari tirou o primeiro concentrado de terras raras do depósito Monte Alto, com o instituto bancando 59% do custo da etapa seguinte - CPG Click Petróleo e Gás",
+      "published": "2026-09-11T16:04:00+00:00",
+      "summary": "Técnico do Senai Cimatec que opera a planta piloto de Camaçari tirou o primeiro concentrado de terras raras do depósito Monte Alto, com o instituto bancando 59% do custo da etapa seguinte&nbsp;&nbsp;CPG Click Petróleo e Gás",
       "sources": [
         {
-          "name": "UOL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWGFxZE82MjdDWnhXV1NGWTcxeF9PSmIzTUNVSy1halNXMk02bjhPeGY0RGFhTk45V3BPTHBMTEVLeFZHaUdEdjdOeW5QRU54djFtd2dnU0cxeGhHN1EtUUo2bWY1RGI5WTVNdWtPUzhfcG8zZnVBeUx4cU1QdGhsSFA1cDA1ajBMRHVtdEJSOGhBSVpmd2pfcXI3aFNFbFUxcmRoVUdWLVR0QQ?oc=5"
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUWE4ckg5dWJYUFNWUTZPeWlsWlowR1hGdnRxaG5ac19hTkxlNFdFbGJELXlHVnUyUnNyc2RKc1NuaVZFVEZNZk91c2ZvZi1SblFTeUItaTZqZDZPSVVFUTdJc0NVNjRWaWJINmF0SW1IV3h1b0FRa1oxNlQ0TDZaQ2hHbFdzbjVBQzNFVjJNMjdPQXFOblJUdllBOF9FcUdLR0ZaV3hPOE14OW5o?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "93b7f708de6c",
+      "title": "Plano de saúde terá que cobrir mamografia digital sem restrição de idade e de gênero - Folha de S.Paulo",
+      "published": "2026-09-11T15:14:00+00:00",
+      "summary": "Plano de saúde terá que cobrir mamografia digital sem restrição de idade e de gênero&nbsp;&nbsp;Folha de S.PauloVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbWk4NFBSSzN0elN6X3RnUEw4c05SNGk5cHNEU1N0SkcyZjJ2Mm0tZ0x3TkVBVmRFV1MwaGhiNXByblpDR0pSZEV4NWtyd3VzZ1dJZllKUl84MnByUFhBektnRVhPSWh5YUg4eVZNQ2lUS2JLNGJWbEptWWNlcl9GUnM2dkpiYzRkX2h1YnphUDdRZVhOSmJhSjFlbTBYbTJaekJhM2xFdkdKM290RTRoM0ZtSV9ncFd5NzJrYXNBclFFbTA?oc=5"
         }
       ]
     },
@@ -42,6 +54,18 @@
       ]
     },
     {
+      "id": "f2d1abc59fbf",
+      "title": "Casos de sarampo sobem para 32 no estado de SP; bebê de 6 meses está entre novos infectados - G1",
+      "published": "2026-09-11T09:40:15+00:00",
+      "summary": "Casos de sarampo sobem para 32 no estado de SP; bebê de 6 meses está entre novos infectados&nbsp;&nbsp;G1Vila Medeiros lidera casos de sarampo na cidade de São Paulo; veja lista&nbsp;&nbsp;noticias.uol.com.brCidade de SP registra 29 casos de sarampo em oito distritos; veja onde&nbsp;&nbsp;EstadãoCasos de Sarampo: vacina contra o sarampo é uma das formas mais eficazes de prevenção&nbsp;&nbsp;G1Bebê com quadro vacinal incompleto é o 32º caso de sarampo em SP; veja onde se vacinar&nbsp;&nbsp;Terra",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQS2xFeFlKOE56ZlFobUZOdUtHbWR2N2ZxbXpQUlVUclhaekJRdW5zMkU5eG1wWFpyVThGcmFQbWRCSnpXWEllc0YteXNpeEw4WUtsS3ZsWFJqUTRMQVh1UW12Qzdza0ZURUpVM1JrN2gtalc1TEFuX0ZNS2RxSm0tMnU4bW5ScXV0WHhKSkpPTFNmZUk1dktCN2Jac1hpYVozYWYwd2xKYnpfQnF2Vjk5VG9oMS15Qk9FWGJCY1pLUTVwMXh1Qm9uVnZSSXpLWDhOVXFfdjhNalg2dXlhV2VLVVRZWdIB8gFBVV95cUxQS05UdjExb1hzQzJRY3drbnlFWW44dEZzQnZpZjlKaHdPZUt2bE52UUNhc2VoRkU1UWV2Z2xoWTJVcDJBUkUtNlZXMTJrWVVaOFBkRGFZdDVJY1RyR3JmNTZXVEItUjNvRE5pbmNOMlVVUFoyYzlfN25rblBXeHFGVnBPSU9jRGloMTM3d2IxcmRWdjVjNW5vSG1uTEhJUExRaFZHR3Y2XzJ2N3pfTXJ5cnNvb1FiaEM3RUNoaU1MWjFFT2tjSEVTMTlmTVB0TnF6SWlKZTVoZVBmZWEzeUVOeWJNbTVsN2NOWlJZUWNOVEhLdw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "3f0e07e3874f",
       "title": "Mico-leão-da-cara-preta é vacinado contra febre amarela em iniciativa inédita - Folha de S.Paulo",
       "published": "2026-09-11T08:00:00+00:00",
@@ -50,6 +74,18 @@
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTGt5aXlnS0VJYVFKT1kzcUt3N2w0dzBueG44VlljZUotbnVQbWEzU01QYmc3YWlaeFdrVEplakxfY0x2cGJNQmY5cHVCdUl4ekJ4bnV5V3pCdEdCY1VFUE1NMWxJbExwRnJLWl9xRWVROHpmOWZNZl9rM1dibXlsQVJUclBzM3pjSnRMYUxReURuNjBSaDBpQUVXekY2cUFvLWtRYmxQOEpNZ1lONXdIa1U2S2o3SkwtYXdEMlRjaDFrU21SaFdOWXl3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1805d4e56f8e",
+      "title": "Alerta: Bebê e outras duas pessoas são diagnosticadas com sarampo no Amazonas - Portal do Holanda",
+      "published": "2026-09-11T07:36:00+00:00",
+      "summary": "Alerta: Bebê e outras duas pessoas são diagnosticadas com sarampo no Amazonas&nbsp;&nbsp;Portal do HolandaSarampo volta a ser registrado no AM: três casos foram confirmados em Tabatinga&nbsp;&nbsp;G1Prefeitura de Manaus alerta viajantes com destino a países com casos e surtos de sarampo para atualização vacinal&nbsp;&nbsp;Prefeitura de ManausFVS confirma três casos de sarampo em Tabatinga e reforça vacinação&nbsp;&nbsp;R7Sarampo: novos casos são confirmados em São Paulo e no Amazonas&nbsp;&nbsp;",
+      "sources": [
+        {
+          "name": "Portal do Holanda",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ0VXdTBaMUxiS2hBX3U0X3VlckhmUDE2WF92TkVlUDA4UUlGd0NDVEtCWTk3d3hWU25KRS05dmY5a3lkZS1KUGdPUXNVODVWVlpINVFkWTVyWXZvV1paamlGUUg0UG4xOHFDRTVobFIzTmZMMXFxcHhtZ2YyMElSS1JYYThhYWEyblNIcWljbDJKX1ZaZjU3OW83Q0RiSnNuNWFwN2w2aFlPSmhSb09tQ016MGpubi03YzVYNg?oc=5"
         }
       ]
     },
@@ -66,14 +102,14 @@
       ]
     },
     {
-      "id": "e0dae685f3eb",
-      "title": "O que é o vírus do Nilo, que provocou 41 mortes na Itália e já chegou ao Brasil - O GLOBO",
-      "published": "2026-09-11T06:00:00+00:00",
-      "summary": "O que é o vírus do Nilo, que provocou 41 mortes na Itália e já chegou ao Brasil&nbsp;&nbsp;O GLOBOFebre do Nilo Ocidental reaparece no Brasil com quatro casos confirmados&nbsp;&nbsp;Jornal da USPCasos de Febre do Nilo Ocidental sobem: saiba como se prevenir&nbsp;&nbsp;TerraFebre do Nilo Ocidental: Itália registra 41 mortes e 594 casos da doença&nbsp;&nbsp;VEJAFebre do Nilo Ocidental&nbsp;&nbsp;Secretaria de Saúde do Paraná",
+      "id": "99070f774198",
+      "title": "Itália registra 41 mortes por vírus do Nilo Ocidental e quase 600 casos - Diário do Centro do Mundo",
+      "published": "2026-09-10T22:45:00+00:00",
+      "summary": "Itália registra 41 mortes por vírus do Nilo Ocidental e quase 600 casos&nbsp;&nbsp;Diário do Centro do MundoO que é o vírus do Nilo, que provocou 41 mortes na Itália e já chegou ao Brasil&nbsp;&nbsp;O GLOBOFebre do Nilo Ocidental reaparece no Brasil com quatro casos confirmados&nbsp;&nbsp;Jornal da USPCasos de Febre do Nilo Ocidental sobem: saiba como se prevenir&nbsp;&nbsp;TerraFebre do Nilo Ocidental: Itália registra 41 mortes e 594 casos da doença&nbsp;&nbsp;VEJA",
       "sources": [
         {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZTVNZk1JazNVUjRBR3VRejV4bDA3TE9qOXdOQU1EMURVR1ZJTFU4ejFzeGZYY2pkYV9CRXlTVFFKV0oxNGZUUXNncGM2OWJGNDU3NnFMWFZleXptcUlwSURhTXBxTzAwcUI0TGFWUHN0VTA0Q0VmYTVDUy1FRE80MXBiN0RGVWRza3FlS3A1bU9UT19nR2ttcXdKdkxCMUd6ZXo1NFZKaURsWmJqQmdmWWF0Z1hIUnBrUmlkczEzVzZOZFZOdnpjc3lNOGw5aFnSAd4BQVVfeXFMTWtBV09PdjNhNlJvYW52TGJFOF9pNE5saTdmN1FTd2FfaENSN1FnZjdEZmZXZnpiV1dsZHVvTVdHYVd0WDFtLUlyZ3hOd3FtdmV5aFpGWDJ3OEpKM3FpMW1MZUFScTI5bGRITXJ5Vk1OMzZpYzgwQk1sOGZ0VjRlbU5wNXAtTGY5YmlSS3NkejlLaUdsbmdXWU5XbUhVMVAyOG8xMDFTQlRQV2VEdEdRdmdkZUhmc2dZNkJsUU9pY1p5YVEzWGZoSktkbnNIOGRIdUt4S3lsUkpaNmVyYmNn?oc=5"
+          "name": "Diário do Centro do Mundo",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOc0NKblRGOFNGbU9Zd2JDSFlaVERCR0kxamROQ1hCN3VpWmVjNm5Pbm9DZS10R1pIbmo4MnUzNm84RW55bG5ORTY5dFkxdHhNZVBTREhPa2lrWkRFMnNSYXpNekc4WXAtYS16Yk5NMzFKYW1MTjlpZnNodVg5cnRuekpMZDFrQVg0UklYcmd6MHRzUGs5Q3JEY1pUcnhRSXdydmJHV1p2d0FlSUlYakZ3b0F2amdXSFJpdTNTNQ?oc=5"
         }
       ]
     },
@@ -86,18 +122,6 @@
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQME5CZi1ORjQtRUtBc0pUSmlQMEF2UnNoaDBYU2RMTU1CZTBUenFwRzUwV3NNTzdfY3pGdnoxelRkUS1zbDN4TDhha2RVbjAxd1NFWDBza2FVX2xCZnpxemNCQVJ2UENFbXRxZDktT2dRbWd0MVB3NHg3dzkzaTlfMDBfV2k1ei12TTZqY19KYTRtenVPVmRkemF6UzB5Q0JSb21pekpoODE4dFFMcjdZeGhWazRXUHZ6R2o5Z1J4R3JGUFF1RzRaRi1XY1lfVnM2MkRUM2Z3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "538e5f1f377e",
-      "title": "Pessoas que cresceram com animais de estimação costumam apresentar esses 5 comportamentos - Minha Vida Saúde",
-      "published": "2026-09-10T20:49:55+00:00",
-      "summary": "Pessoas que cresceram com animais de estimação costumam apresentar esses 5 comportamentos&nbsp;&nbsp;Minha Vida Saúde",
-      "sources": [
-        {
-          "name": "Minha Vida Saúde",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HbG1vN19HaDJoMmRwcW5GQ3ZOVldlanhEQUhDREY3ZFFVeE9ROHhjbjFHOXFwc1FVWWJLdlllaE4zbTM4aTRQSXNkOEktYlppWFhyYlE3SmotUlpJMDdqZdIBZkFVX3lxTE8yeGdGM3dHN09mQTVla09tY29vOHBFSG0wSGk3RWxGV3Y4OUNQS3lCOFBIZEdPSl80aE5mdlFsOUl6OTVMZjRQTGM3eDRzWHo3a3NQZXN6WDdQOFJ5UU9VTnpIeHVEdw?oc=5"
         }
       ]
     },
@@ -138,10 +162,22 @@
       ]
     },
     {
+      "id": "daa9651701b7",
+      "title": "Médicos buscam voluntários para testar tratamento e melhorar desempenho no sexo - Tribuna Online",
+      "published": "2026-09-10T19:57:04+00:00",
+      "summary": "Médicos buscam voluntários para testar tratamento e melhorar desempenho no sexo&nbsp;&nbsp;Tribuna Online",
+      "sources": [
+        {
+          "name": "Tribuna Online",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZW5QWUl2NmlpRWJPdXphSXB5aC1Ic0JSS3hQZlFxeTdaYWdUWmRESUF6OFBVVC1sbHV0RjJ1WUtFcmFaTFZEQng0TWQyM3RsRlZEYmN1LTlwWld5eklmU0p1dVFZeG5pM0xMWm9TVnotSEZUZTBQdWRsMHpmTU9IY1Y0eWxyaWM0Wlh0aFQ3V2NSOEt3bEN5Q0x6cjlNY29BaTRoRi1CY240YXF0TG10STB2WmpORUVoblM5M3BB0gHGAUFVX3lxTE1HRW1GY1hiYW1oX29sUXFuSFRRTjVXSkRLM3dnWUQtS3VJRS1JVEgwMmFzQTJUREVKX3pIdUVrbFI0cURqcDB2Um40dUg5VzJ0M2xJMEh1bGdtSjVHR1dqNC16SGJkU2FrdTFlN241SGtmbG8xalQ1YnNQUnBNVjhjZjRTTFE1X0lYNUctemg3dUgxNXVHbjhtaHk2SUEwTUtkRWNqVWdocW0zemVSdGQwZzJabjhtQ05LTTd0UEhPQ0MzQ3BDdw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "3f6d835915bf",
       "title": "O risco oculto para o seu coração ao dormir em ambientes com pouca luz - CNN Brasil",
       "published": "2026-09-10T19:50:57+00:00",
-      "summary": "O risco oculto para o seu coração ao dormir em ambientes com pouca luz&nbsp;&nbsp;CNN BrasilNeuroarquitetura: como a luz, as cores e a temperatura da casa afetam o cérebro e sua saúde&nbsp;&nbsp;EstadãoConflitos custosos com Canadá e Irã ameaçam Trump nas eleições de meio de mandato&nbsp;&nbsp;EstadãoExposição à luz à noite pode prejudicar estrutura e função do coração&nbsp;&nbsp;Correio BrazilienseDormir com luz no quarto pode esconder risco para a saúde do coração, revela estudo&nbsp;&nbsp;Jor",
+      "summary": "O risco oculto para o seu coração ao dormir em ambientes com pouca luz&nbsp;&nbsp;CNN BrasilNeuroarquitetura: como a luz, as cores e a temperatura da casa afetam o cérebro e sua saúde&nbsp;&nbsp;EstadãoConflitos custosos com Canadá e Irã ameaçam Trump nas eleições de meio de mandato&nbsp;&nbsp;EstadãoExposição à luz à noite pode prejudicar estrutura e função do coração&nbsp;&nbsp;Correio BrazilienseDormir com as luzes acesas ou apagadas? Uma nova pesquisa tem a resposta.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -153,7 +189,7 @@
       "id": "577ef3bdd43a",
       "title": "Anvisa Aprova Genéricos de Medicamentos contra Diabetes e Obesidade - Forbes Brasil",
       "published": "2026-09-10T19:23:09+00:00",
-      "summary": "Anvisa Aprova Genéricos de Medicamentos contra Diabetes e Obesidade&nbsp;&nbsp;Forbes BrasilNova regra da Anvisa pode destravar próxima leva de genéricos de Ozempic&nbsp;&nbsp;VEJAAnvisa aprova genéricos de canetas emagrecedoras da EMS - 08/09/2026 - Equilíbrio e Saúde&nbsp;&nbsp;Folha de S.PauloAnvisa aprova registro de canetas genéricas para diabetes e obesidade&nbsp;&nbsp;Agência BrasilAnvisa aprova 9 canetas emagrecedoras nacionais em 2026: veja a lista&nbsp;&nbsp;O GLOBO",
+      "summary": "Anvisa Aprova Genéricos de Medicamentos contra Diabetes e Obesidade&nbsp;&nbsp;Forbes BrasilVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
           "name": "Forbes Brasil",
@@ -186,22 +222,10 @@
       ]
     },
     {
-      "id": "3e07174ec045",
-      "title": "Plano de saúde terá que cobrir mamografia digital para todas as idades - Agência Brasil",
-      "published": "2026-09-10T18:30:00+00:00",
-      "summary": "Plano de saúde terá que cobrir mamografia digital para todas as idades&nbsp;&nbsp;Agência BrasilVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "Agência Brasil",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNXzZKTnUxNE1PMDdlM3RvODBaUnlZLWswbjRaWVFTbWJhbU9YUk5MbU5MYUQwN3NUM3cyYnh0TENzT3B1aGlxOXBETmVXeE5HQmdxdTNFNmpiQVpJM3ZnZ1JGblg3MGtGM0xtOFVhbGg4V1JhRjRjVHZDRExjU1N2dkQ0RnVHc1plQmpKVlQzcy1aWlduVnR5QldXUW81eng0V0xHa1B3Z0duZnpLbS05YzNveFpGWmNpdENoNFoyNA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a8404dd6ac11",
       "title": "GCN: El Niño coloca Franca em alerta para avanço da dengue - sampi.net.br",
       "published": "2026-09-10T18:28:19+00:00",
-      "summary": "GCN: El Niño coloca Franca em alerta para avanço da dengue&nbsp;&nbsp;sampi.net.brEl Niño forte aumenta risco de dengue, indica Fiocruz&nbsp;&nbsp;Valor EconômicoEl Niño pode aumentar casos de arboviroses; SP faz plano de prevenção&nbsp;&nbsp;CNN BrasilEl Niño muito forte pode aumentar a presença de mosquitos e insetos dentro de casa; veja como se proteger&nbsp;&nbsp;Jornal CorreioQuando o clima vira aliado dos vírus no Brasil&nbsp;&nbsp;DW.com",
+      "summary": "GCN: El Niño coloca Franca em alerta para avanço da dengue&nbsp;&nbsp;sampi.net.brEl Niño forte aumenta risco de dengue, indica Fiocruz&nbsp;&nbsp;valor.globo.comEl Niño pode aumentar casos de arboviroses; SP faz plano de prevenção&nbsp;&nbsp;CNN BrasilEl Niño muito forte pode aumentar a presença de mosquitos e insetos dentro de casa; veja como se proteger&nbsp;&nbsp;Jornal CorreioQuando o clima vira aliado dos vírus no Brasil&nbsp;&nbsp;DW.com",
       "sources": [
         {
           "name": "sampi.net.br",
@@ -213,7 +237,7 @@
       "id": "ff215de3b7b5",
       "title": "Canetas para emagrecer exigem mudança de hábitos para manter efeito - Folha de S.Paulo",
       "published": "2026-09-10T18:00:00+00:00",
-      "summary": "Canetas para emagrecer exigem mudança de hábitos para manter efeito&nbsp;&nbsp;Folha de S.PauloRosto mudou depois de perder muito peso? Entenda por que isso pode acontecer&nbsp;&nbsp;gauchazh.clicrbs.com.brPor que a Vichy criou um 'Kit Emergência' para quem usa canetas emagrecedoras&nbsp;&nbsp;Exame\"Revolução metabólica\" alerta sobre uso indiscriminado das canetas emagrecedoras&nbsp;&nbsp;G1Queda de preços pode triplicar uso de canetas emagrecedoras no Brasil, diz sócio da McKinsey&nbsp;&nbsp;Es",
+      "summary": "Canetas para emagrecer exigem mudança de hábitos para manter efeito&nbsp;&nbsp;Folha de S.Paulo‘As farmacêuticas querem que as pessoas usem as canetas para sempre, mas elas não são a cura da obesidade’&nbsp;&nbsp;VEJARosto mudou depois de perder muito peso? Entenda por que isso pode acontecer&nbsp;&nbsp;CartaCapital\"Revolução metabólica\" alerta sobre uso indiscriminado das canetas emagrecedoras&nbsp;&nbsp;G1Queda de preços pode triplicar uso de canetas emagrecedoras no Brasil, diz sócio da McKin",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -222,10 +246,22 @@
       ]
     },
     {
+      "id": "dfe42386f087",
+      "title": "Sinais de alerta do AVC exigem socorro rápido: veja como prevenir o problema - Estado de Minas",
+      "published": "2026-09-10T17:39:00+00:00",
+      "summary": "Sinais de alerta do AVC exigem socorro rápido: veja como prevenir o problema&nbsp;&nbsp;Estado de Minas",
+      "sources": [
+        {
+          "name": "Estado de Minas",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQV2NRUExUZmw1Y2M3RHF4bkU2ZFZxb3VMSlByenl6QkJVSmVZUVJkaEg5UjB6UldpM1JrLVgzODZYeExhcWJUVVh6eXZMeW5mbGVaMmpKdWR3eWFxZlFlcklmZVN6QTlEMkVDaUJBQ3NEMDZIQWFtVmMyTUN4ZmpSNzExWFM5MVh0RlduZUFXM2ZTWVY3UHE0WUw0akhQRUZUbzFyVHB6ZmJRbnNZb3dyU1JSTG45NVRCS1lzN3k3eGNwRkdlYWhn0gHMAUFVX3lxTE01cUVnZDI3ZzV3TFNoUXNHbWNfVUtsQ1Y2ekJyVFhaeHk4RldOdHliVE84NFFydUVFd3FsaWJTckROYzBOMTR6Q3UwQ3NYenVWMTM5aXlVTGZvaWVfSFVVUEVCYTFYSm1rWm5PNF82X2dNNlVNVXNjRU4wOEtzNlhGQW9OVGF1TThPekVKX3pickdSV3hnV3JQV1J4c283ZjRiWWhDTHF3M094QU8xZTljMXBMYVB0dmNNd09HUUtXWUZaQi10enpmQWR2NQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "0c42b246c87f",
       "title": "Trombose pode começar sem sinais claros e evoluir para embolia; veja sete sintomas que exigem atenção - Jornal Correio",
       "published": "2026-09-10T16:56:37+00:00",
-      "summary": "Trombose pode começar sem sinais claros e evoluir para embolia; veja sete sintomas que exigem atenção&nbsp;&nbsp;Jornal CorreioMédico vascular aponta fatores de risco e o que ajuda a prevenir a trombose&nbsp;&nbsp;MetrópolesAvanços no diagnóstico e tratamento para trombose e hemostasia são tema de simpósio internacional&nbsp;&nbsp;niddedigital.comTROMBOSE: ESPECIALISTA DO HUSE-UNIRIO ALERTA PARA SINAIS DE RISCO E PREVENÇÃO DE COMPLICAÇÕES GRAVES&nbsp;&nbsp;O GonçalenseDia Nacional de Combate e P",
+      "summary": "Trombose pode começar sem sinais claros e evoluir para embolia; veja sete sintomas que exigem atenção&nbsp;&nbsp;Jornal CorreioMédico vascular aponta fatores de risco e o que ajuda a prevenir a trombose&nbsp;&nbsp;MetrópolesAvanços em trombose e hemostasia são apresentados em simpósio internacional | SEGS Portal Nacional de...&nbsp;&nbsp;SEGS Portal NacionalTROMBOSE: ESPECIALISTA DO HUSE-UNIRIO ALERTA PARA SINAIS DE RISCO E PREVENÇÃO DE COMPLICAÇÕES GRAVES&nbsp;&nbsp;O GonçalenseDia Nacional de ",
       "sources": [
         {
           "name": "Jornal Correio",
@@ -266,18 +302,6 @@
         {
           "name": "CNN Brasil",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMlBCV0h5NS1ON1VFVlhZNkR4WEdYX3BfNHFqR3BrcGdJNHpoTTZ1aS1vYnRUVnpIbVlneC1RTlRlRFF3VkJTa3AyRmNxYjZVQ21XbHJ4RVVxWU9OYWdYRzJMT2tFaVVLRjV3Um1YMlB5anFSMGNmN2NqeF83cUxlNWdwQURxMWVDeWNUUl9rSzM1aVNPanJ5YjhCVGhRQmIzSF9zRlhuOFFvTFZLR3c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "aa35196cde9e",
-      "title": "Anvisa aprova novas indicações para remédio que trata câncer de mama - Agência Brasil",
-      "published": "2026-09-10T14:20:00+00:00",
-      "summary": "Anvisa aprova novas indicações para remédio que trata câncer de mama&nbsp;&nbsp;Agência BrasilVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "Agência Brasil",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMUtyODcwUjJxRUVaSm1vTjYyRlpOR09MVlZ0aHBQcVIycm4zaVJIRXNXQ25RMWkyU3d4VXluc3JfTU1wQnZmQ2l0b0pKcU1EMFRJaHQ5dE9kNFFZN0I1Nkgwek11MFRTNXRhakRiVzFuZGtTTS0wUlNubGc0S1hGX0QxWjNGaEZRa1lvM0xyZWpEeGpNUjVoU0hJZW92MVJ2LWxXR1pOYU5uR200R1RyOFlYYnlIV01nM3hNN1ZqdmFRYUVEYzlN?oc=5"
         }
       ]
     },
@@ -333,7 +357,7 @@
       "id": "94c163d9107a",
       "title": "Estudo: substância de cogumelos mágicos pode reduzir dano nervoso da químio - UOL",
       "published": "2026-09-10T12:31:45+00:00",
-      "summary": "Estudo: substância de cogumelos mágicos pode reduzir dano nervoso da químio&nbsp;&nbsp;UOLPsilocibina e quimioterapia: estudo protege nervos&nbsp;&nbsp;fastcompanybrasil.comPsilocibina pode prevenir danos nos nervos causados pela quimioterapia&nbsp;&nbsp;Diário do Centro do Mundo",
+      "summary": "Estudo: substância de cogumelos mágicos pode reduzir dano nervoso da químio&nbsp;&nbsp;UOLPsilocibina e quimioterapia: estudo protege nervos&nbsp;&nbsp;Fast Company Brasil",
       "sources": [
         {
           "name": "UOL",
@@ -345,7 +369,7 @@
       "id": "b4223f5b91e0",
       "title": "Picos de envelhecimento costumam ocorrer aos 30 e aos 50 anos, diz estudo - UOL",
       "published": "2026-09-10T12:30:00+00:00",
-      "summary": "Picos de envelhecimento costumam ocorrer aos 30 e aos 50 anos, diz estudo&nbsp;&nbsp;UOLCiência tenta desvendar os mistérios do envelhecimento saudável&nbsp;&nbsp;G1O corpo não envelhece no mesmo ritmo: estudo aponta acelerações importantes nos 30 e nos 50 anos&nbsp;&nbsp;O POVOO Que a Ciência Já Sabe sobre Viver Mais e Melhor&nbsp;&nbsp;Forbes BrasilEstudo aponta picos de envelhecimento dos tecidos entre os 30 e os 50 anos&nbsp;&nbsp;Diário do Centro do Mundo",
+      "summary": "Picos de envelhecimento costumam ocorrer aos 30 e aos 50 anos, diz estudo&nbsp;&nbsp;UOL",
       "sources": [
         {
           "name": "UOL",
@@ -374,18 +398,6 @@
         {
           "name": "Agência FAPESP",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUE9lU3p6bXVnM2Z6OFRFUzZqWnFIai04RFlJYUFoX0hqN2ZMMEQ0ampxUlQ5bGp6cWh5T1lKVFhVUEZERHdQSVFXSUQ1NHZpTDM5Q0EwYVMyc1NkQ0lXa0JjdnlTT0l1QWF4aVI1THZYcVZmM1VwMGh3Xy02a296N0ljbFpvUDE0ckg1ajVERFZkZ2JyeUEwMFVHdTVzTlp5Rm13dVdtZzRmejB6ei00SHpEUU5ReV9jVGVqaW42TG9wb0FMa2NIMDc2b3ZMeTkt?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7797010038c7",
-      "title": "Médica descobre demência do pai após mudança de comportamento na sala de casa - ND Mais",
-      "published": "2026-09-10T03:45:12+00:00",
-      "summary": "Médica descobre demência do pai após mudança de comportamento na sala de casa&nbsp;&nbsp;ND Mais",
-      "sources": [
-        {
-          "name": "ND Mais",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT1hjUGdLRXNYWTFsTjNXajFTWHJQbVBMYTRZdnhJOHdFdExEbUZUWUJDY0JYRzJyaERhSVJtU3FUODM4MUlGSkhFTDl4bC1oQmdOb2xOMm5OMGpXRVRqRWRJM210LXNWOTVYUVhFWEEtamg4M0s4eW0xYkNndFRKY1Y2cEkzR1E3V3ZaZzN3Q2pwcEFMM25NUElnNEk0WUZvWWNhaVNfZlQ1QQ?oc=5"
         }
       ]
     },
@@ -426,18 +438,6 @@
       ]
     },
     {
-      "id": "c7f6f59d463b",
-      "title": "Portugal adapta-se ao calor, mas perde árvores: “O progresso é demasiado lento” | Saúde - publico.pt",
-      "published": "2026-09-09T22:31:00+00:00",
-      "summary": "Portugal adapta-se ao calor, mas perde árvores: “O progresso é demasiado lento” | Saúde&nbsp;&nbsp;publico.pt",
-      "sources": [
-        {
-          "name": "publico.pt",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcU5oMmk2YjYxd28tWGoyTFJLVm5Hd2dzR1JGWkE0R05XVmI0RTA4Y0JlOTFETzgzMlVfWmM1djlQUWg0U1cwbXdleHJjcGNLdzBTUXNGTlhyRHZxYzhOUTVqNHhYeTFWeHdmRXFPTkF0cm41MG5fRG9LdEViY1JPN0Nha3VvTE94VG1ubnB1OFhCdzdyd1NXNXdva2tJOUc0YjRQdkN2VHJPVm9FTzJYbTJSdzBlajNzdXc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "00232adf66b3",
       "title": "Opinião - Drauzio Varella: Novo exame clínico marca um avanço para detectar o câncer que afeta o intestino - Folha de S.Paulo",
       "published": "2026-09-09T21:10:00+00:00",
@@ -450,46 +450,10 @@
       ]
     },
     {
-      "id": "5493fc9be9cb",
-      "title": "Quem é o ‘Nobel da Matemática’ que largou universidade e criou instituto para estudar riscos da IA - Estadão",
-      "published": "2026-09-09T21:00:00+00:00",
-      "summary": "Quem é o ‘Nobel da Matemática’ que largou universidade e criou instituto para estudar riscos da IA&nbsp;&nbsp;Estadão",
-      "sources": [
-        {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxON1VFMl96RUJkRWJkR0VnQ0hMYW9UOTNtc3R2NGh5STNIUlZ3S29FSDIwcmlmQUhWQ1NzUlQ3SVl4V2FMZmNpLVQ1eE9WcUxObnZ0SlRvVWNvNGFPOUd5bGpvNk4zTkNGVWtwNUVPZ0tPcGRoQWdVNjNZNExZX0xMWHZSR1Z0dVZidHdSWjJrcEJMd3NsZGFEUjE2QmdrLVlXbExOenZzdDUxVjJDXzFuRzZ2Nno1Q2dBZ2tHdnFnQS02M09HdFIyREgwWVPSAdIBQVVfeXFMUEZwMndYbW9oVzIxZkpSNGlYbVp3eFMwVzd6d1NlenVNb0hsUjBldDFYVXExRGpuMUVIQ2dUUXUxa3FLX0tJS3lPelJDOGcxVy1Oa29fQjV0RWp5RWFBRjR6QWZUVXNxaUZqTG1hV0Jmd1N2Q3JzTUtfdFg1UHp6c242SGx3dWdwd0lEZ05VcUVrLXRzYWZ5TUszY25PNzZkQmNDLVlrNmxkdm1TZ2dFSHItVzZHak9Vc2Jpbnl1TU5fd09BQWlIcVV6cGgxSFIzLWZR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9343eaeef9c9",
-      "title": "OpenAI diz ter resolvido em 88h problema matemático sem resposta há 90 anos (e a acusação feita por dois pesquisadores sobre a empresa) - BBC",
-      "published": "2026-09-09T20:33:48+00:00",
-      "summary": "OpenAI diz ter resolvido em 88h problema matemático sem resposta há 90 anos (e a acusação feita por dois pesquisadores sobre a empresa)&nbsp;&nbsp;BBC",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YNm83T204Ny0xVkJtU2pVZzFPSC1KeTlzdVYxVmN3QmlDUlhhMldRZnN5YnNjUGUtaU9sZlhOS3JMNk9LU05lZEZlVVJBUVZnTXJXZXBrRW5GNGp6ZEVQU2pB0gFnQVVfeXFMTjB1NlIxYWdzOXU5MDJwTWxkY1NGcUdNVDE2UmdlYkdLZGVtbm9WdzR3Y3dvSHNHSnVYV0JISXRwQndpbnFHV1h6cmFQQ2NJQTZsM3VWbUFtU2M5OXlkUTM2RHRoVDhsTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8da4cbbe282c",
-      "title": "Foguete brasileiro leva “laboratório espacial” nacional à fronteira do espaço - Olhar Digital",
-      "published": "2026-09-09T20:04:00+00:00",
-      "summary": "Foguete brasileiro leva “laboratório espacial” nacional à fronteira do espaço&nbsp;&nbsp;Olhar Digital",
-      "sources": [
-        {
-          "name": "Olhar Digital",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcG5URUhFbGpwVVoxVmg0R190bThvWTA1UHFkTWREb3FhZjctTUc2THo5MHdxaXhjOHFmVkFRZ1RfaWhweGE0bEVzaTJzRnFVUDB1T3hTOW1DWC1KeV9GeTVoUG9nbWotWVd5amZKamV4NHRSVUotbE53LURPaVVub3VXZDlJN1NDejVwNHM5dGRZYlVpZkxJSER4UHdiUE9DRXE1eGRlUXl1SkRzcmF1VTBNVFJHZzZUeDQ2WXl3VFZBSTc2VFdSazB4eXk?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ba59837ffa8a",
       "title": "Saiba quem pode, quem deve e onde se vacinar contra o pneumococo no DF - Correio Braziliense",
       "published": "2026-09-09T17:38:00+00:00",
-      "summary": "Saiba quem pode, quem deve e onde se vacinar contra o pneumococo no DF&nbsp;&nbsp;Correio BrazilienseSaúde do DF esclarece quem tem direito a cada tipo de vacina pneumocócica&nbsp;&nbsp;Portal do HolandaEstima-se que cerca de 166.000 crianças com menos de um ano de idade receberão a vacina pneumocócica gratuitamente.&nbsp;&nbsp;Vietnam.vnMinistério da Saúde começa a vacinar crianças com a pneumo 20&nbsp;&nbsp;opantaneiro.com.brMais proteção, menos riscos: por que a nova vacina do SUS é uma notíc",
+      "summary": "Saiba quem pode, quem deve e onde se vacinar contra o pneumococo no DF&nbsp;&nbsp;Correio BrazilienseSaúde do DF esclarece quem tem direito a cada tipo de vacina pneumocócica&nbsp;&nbsp;Portal do HolandaEstima-se que cerca de 166.000 crianças com menos de um ano de idade receberão a vacina pneumocócica gratuitamente.&nbsp;&nbsp;Vietnam.vnMinistério da Saúde começa a vacinar crianças com a pneumo 20&nbsp;&nbsp;O PantaneiroMais proteção, menos riscos: por que a nova vacina do SUS é uma notícia par",
       "sources": [
         {
           "name": "Correio Braziliense",
@@ -498,13 +462,13 @@
       ]
     },
     {
-      "id": "ceb7eddae818",
-      "title": "Uruguai declara emergência sanitária após confirmar foco de IAAP em Colônia - agrimidia.com.br",
+      "id": "f8071f50ebdf",
+      "title": "Uruguai declara emergência sanitária após confirmar foco de IAAP em Colônia - Agrimidia",
       "published": "2026-09-08T11:49:09+00:00",
-      "summary": "Uruguai declara emergência sanitária após confirmar foco de IAAP em Colônia&nbsp;&nbsp;agrimidia.com.brGrave: Descaso com os animais no Uruguai pode disseminar gripe aviária&nbsp;&nbsp;Novo MomentoGripe aviária leva Uruguai a reforçar cuidados com animais silvestres&nbsp;&nbsp;força do valePaís vizinho do Brasil toma medida de emergência após novo foco de gripe aviária ser confirmado&nbsp;&nbsp;comprerural.comUruguai declara emergência sanitária devido a foco de Influenza Aviária&nbsp;&nbsp;boca",
+      "summary": "Uruguai declara emergência sanitária após confirmar foco de IAAP em Colônia&nbsp;&nbsp;AgrimidiaGrave: Descaso com os animais no Uruguai pode disseminar gripe aviária&nbsp;&nbsp;Novo MomentoGripe aviária leva Uruguai a reforçar cuidados com animais silvestres&nbsp;&nbsp;força do valePaís vizinho do Brasil toma medida de emergência após novo foco de gripe aviária ser confirmado&nbsp;&nbsp;CompreRuralUruguai declara emergência sanitária devido a foco de Influenza Aviária&nbsp;&nbsp;boca.com.br",
       "sources": [
         {
-          "name": "agrimidia.com.br",
+          "name": "Agrimidia",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaXJBMF9tc0s2NXRmSi1VMVZyMTQ3MUllRUhuSWJtZFM5WkFkcWN5WVQ1U0l4cWh5WklPeWo3eWR4N2pTaGVhTjN0YllZS2JvQ3d0a183alpKOHZvYkhCaUxsaDVQcWxhYWFQdHRTMG5fMDBhSWRvd2hhT3h6SmQzMGE4Yk8wY2YzZ3pka2FmUFN0SFBGcGx3VkFZZmNTb01DSmFrOXNCZ2Z1Z1M4M0NKR25CSTc3cmtyU3lQMUlRQmlwbVVTRVdrU2FXZF9kVW8?oc=5"
         }
       ]
@@ -518,18 +482,6 @@
         {
           "name": "ND Mais",
           "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQcmlTYk5IOHlFLU81T19veWhkWW0wbTZaMWx0VUg1dUpydzVLMW5ZeVprQzgxV3RLaXhQWVFDT0V6eVNjaENUXzk1d3NHdl9MTFhQVHpkN3g3UG1IcEM1cGxqVDF1dmRyMklrSlJiQXdxcnJqcC1FaFBtaS1vRnhjVUxSdzNnTFptTVBjZ0RhN25lQkpVdVgyVWJyTVRCVUxlRlZXSDNGblpFNERUaVBKSFpiZmFZelRuOExlR3JUdkZodm5xX0c1c01RdnBNcjgwYVBnT3lpaGRFVm5kZU8wMXhJZTdDLW1lSmtJYldXLXdBYTdrVHc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "afb5b9954fba",
-      "title": "De bebês a idosos com demência: como identificar a dor de quem não consegue se expressar? - Medscape",
-      "published": "2026-09-07T12:06:36+00:00",
-      "summary": "De bebês a idosos com demência: como identificar a dor de quem não consegue se expressar?&nbsp;&nbsp;Medscape",
-      "sources": [
-        {
-          "name": "Medscape",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd0JMUk5WODAxVW5IcFVOUXFFMndFNFR4V3BrVmJwMmFkcVc5NGxWMlRDazAyWG03X3oxWDZCMExUTTg5amdHbmhwVUNWN3Q0djRQM1ZINXZ2RUIyd0xoeEhpQ2thRXJMVy1ZdkdUaDl5d2xnVVRwSG45WVdzOHlCRTAtVWFTWkhMTkU3WkhaSzlENWF5TFg1X2RUbUtaNk1OZm9pMzJmNDVmc0Jv?oc=5"
         }
       ]
     },
