@@ -1,10 +1,22 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-09-13T15:47:03.269378+00:00",
-  "total_fetched": 105,
-  "unique_count": 105,
-  "health_related_count": 43,
+  "fetched_at": "2026-09-13T20:27:50.599125+00:00",
+  "total_fetched": 103,
+  "unique_count": 103,
+  "health_related_count": 38,
   "news": [
+    {
+      "id": "3e32dad4cc66",
+      "title": "Álcool e tabaco podem causar danos à visão; entenda os riscos - onda poços",
+      "published": "2026-09-13T13:47:28+00:00",
+      "summary": "Álcool e tabaco podem causar danos à visão; entenda os riscos&nbsp;&nbsp;onda poços",
+      "sources": [
+        {
+          "name": "onda poços",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ2w5SW1ld0ExakZkd0hnTTBsclFPWk5Hc004MzJtejExRlNQMEFFczA5M0VjamFmV0N5cVA0Nm40bWd0bkdWR09VaF84UGhlWjBvQ2VLWTdUR3pFVXhyYlU5OE9IOG5sXzdjMjZtWkxCZXFEMFdITUdwMjVyQjRSWG4ydTNpbGUyRHRYbE15VQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "c9c9f6acc4dc",
       "title": "AVC: 'O que aprendi ao ter um derrame cerebral aos 26 anos' - BBC",
@@ -18,13 +30,49 @@
       ]
     },
     {
-      "id": "cf21d539f960",
-      "title": "Nódulos de tireoide: Kalil e especialistas explicam quando ter atenção - CNN Brasil",
-      "published": "2026-09-13T09:00:03+00:00",
-      "summary": "Nódulos de tireoide: Kalil e especialistas explicam quando ter atenção&nbsp;&nbsp;CNN BrasilHipertireoidismo e hipotireoidismo: Kalil e convidadas explicam diferenças&nbsp;&nbsp;CNN BrasilCâncer de tireoide deve atingir mais de 16 mil brasileiros em 2026&nbsp;&nbsp;Bem ParanáCâncer de tireoide não é só um: entenda as diferenças entre os tipos diferenciado e medular&nbsp;&nbsp;jornaltribuna.com.brMetade da população pode ter nódulo na tireoide, diz médica a Dr. Kalil&nbsp;&nbsp;Portal R10",
+      "id": "f55258521929",
+      "title": "Enfermeira goiana morreu seis meses após receber diagnóstico de doença rara de Lito Sousa, diz amiga - G1",
+      "published": "2026-09-13T10:02:43+00:00",
+      "summary": "Enfermeira goiana morreu seis meses após receber diagnóstico de doença rara de Lito Sousa, diz amiga&nbsp;&nbsp;G1Enfermeira goiana morre com a mesma doença rara de influenciador Lito Sousa&nbsp;&nbsp;G1Enfermeira goiana morre 6 meses após diagnóstico da mesma doença de Lito&nbsp;&nbsp;MetrópolesDoenças raras: quais são os maiores desafios para quem vive com essa condição&nbsp;&nbsp;Universal.orgAgência de Comunicação - Ressonância exige olhar médico atento para identificar sinais precoces da do",
       "sources": [
         {
-          "name": "CNN Brasil",
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbGMzTDd4YU1BbjRzcTMyQ2FLY2xKcENNSTJxdDJRT0JvXzVLT0pyUHNuX2tyYnFRUm82QmU1cFJ1OGFUb1ZQWHNlbHE4eFBkWkdoWGtZbGg0OTgxdlFuTkNmOUdjQlRzUzBwTG1nbHJHajhzMFdYSzJzaVpmNWRNdmxHV2pFV0toR1k2OXNJNXUzN3BoalRBcER5SUtvaEJyY3hFWjJSNTNsdmo5djNlOVVtc0JkRTlnT0ZEd1gtdDM2RDhZcGVYRG1aWkU3cmVNWlY0Tmg3dl9ZLVZkSXfSAewBQVVfeXFMTUVicDZuYWlCWGFBMzJaeElUOUg4X1p0bWlxN2FuVDdoRWctOEZMRWVoc0kxR043Y0ExcXhkcTZEVzB5WERDakxBamFiV3NZT2hnelVTeUhtanR6SDBhLTRyTVhnSlFvVTFQaTJDeHk0UkRYeERoWjNEMmNmMnhob0w2T0JqMlhhTXZrN2x6aThGM1FHc0kyOU94bC1rcDhkSldBV0hlTGloZ2daYmRaM3dQVmtOQU93azFQZ1NOel9TbzlSN2sycW56cTdDM1l4VHJXYXpYQ2l6X2NJNGlyckRSLWVNY2lxeUM0VEo?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "19f0feebb963",
+      "title": "Personalidade é genética? O que a ciência descobriu - Veja Saúde",
+      "published": "2026-09-13T10:00:50+00:00",
+      "summary": "Personalidade é genética? O que a ciência descobriu&nbsp;&nbsp;Veja Saúde",
+      "sources": [
+        {
+          "name": "Veja Saúde",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYWNYUjBGbnJMaUZyLXN4ODFETDd1OUhZdW1WVExCN0huN1cxTTJjdE5yNFRLWGhFMnQ0ZE5fMFJUMi02Y3VHbWJZLUwzMEIwcmpzN0tGRlJBeWFzMFpwZ0pOQ3doekVDdTAzaC1wamdFRG0tdmNjc01zaVhhLWNCS0JiZkxiY0xHcEtGY0tldU1KSjlESWc3Wg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2e14af311380",
+      "title": "Café, mesmo descafeinado, pode ser aliado do eixo intestino-cérebro - Poder360",
+      "published": "2026-09-13T09:43:39+00:00",
+      "summary": "Café, mesmo descafeinado, pode ser aliado do eixo intestino-cérebro&nbsp;&nbsp;Poder360Estudo indica que café — mesmo descafeinado — altera a microbiota e beneficia o cérebro&nbsp;&nbsp;Clube NotíciaClayton Personnaz se atualiza em saúde intestinal durante aniversário&nbsp;&nbsp;GPS BrasíliaA ansiedade persistente nem sempre vem só de fatores emocionais, mas também da disfunção do eixo intestino-cérebro provocada por inflamação de baixo grau&nbsp;&nbsp;Tua SaúdeChaysavanh Manichanh, especialista",
+      "sources": [
+        {
+          "name": "Poder360",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeGNqaVUwNnlEMlN2ZHVnVnZSMTM0Y1F4cklJazh5NWZjeV9sQWwyTzZqbF95Nk1mc2xmaXJ3ZUpmZHpIckpIbFlhTV94RHNYakZSMVh3bjM4S1BPclRsTFMtOVBycURucDZhc1V6LWN6ZmdJSHUyMzNfWHZkMGkzOFZHcTBmcW1NNUZjMWZCWmJWMXg3cjcwRi1JTE1yNGNScEJxdEdhWjlDQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a7fe90ae8c96",
+      "title": "Nódulos de tireoide: Kalil e especialistas explicam quando ter atenção - cnnbrasil.com.br",
+      "published": "2026-09-13T09:00:03+00:00",
+      "summary": "Nódulos de tireoide: Kalil e especialistas explicam quando ter atenção&nbsp;&nbsp;cnnbrasil.com.brHipertireoidismo e hipotireoidismo: Kalil e convidadas explicam diferenças&nbsp;&nbsp;cnnbrasil.com.brCâncer de tireoide deve atingir mais de 16 mil brasileiros em 2026&nbsp;&nbsp;Bem ParanáCâncer de tireoide não é só um: entenda as diferenças entre os tipos diferenciado e medular&nbsp;&nbsp;jornaltribuna.com.brMetade da população pode ter nódulo na tireoide, diz médica a Dr. Kalil&nbsp;&nbsp;portal",
+      "sources": [
+        {
+          "name": "cnnbrasil.com.br",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT0FXZllvUzkyQXJIZkZzRXAwLV9WQllSeEg5emVKZEdLemVqQ3o4Q3d0TmNQaU9CQkR2MHA1YmotYU5GOWxBSTJSQW1pSl81OUp5bmdhejVERGlHdWdSYTFPcXZvTHo5S2ktbF9OOHBaNTB4RlplZmJ4Q2M3ZWYxQ1J1eGI2dFpOOVNyQmhjVmlQRkNyQ3lYa0RBQkh2VFZDaGdHR0xTcEw?oc=5"
         }
       ]
@@ -69,7 +117,7 @@
       "id": "de0a10eb04e4",
       "title": "Disfunção erétil pode estar causando estresse no trabalho, aponta estudo - O GLOBO",
       "published": "2026-09-13T07:00:00+00:00",
-      "summary": "Disfunção erétil pode estar causando estresse no trabalho, aponta estudo&nbsp;&nbsp;O GLOBOEstresse no trabalho pode causar disfunção erétil, diz estudo&nbsp;&nbsp;VEJAAmbiente de trabalho pode aumentar risco de disfunção erétil, aponta estudo&nbsp;&nbsp;MetrópolesEstresse no trabalho e disfunção erétil: novas evidências&nbsp;&nbsp;tribunadosertao.com.brEstresse no trabalho aumenta em 10 vezes risco de disfunção erétil, aponta estudo&nbsp;&nbsp;bra1.com.br",
+      "summary": "Disfunção erétil pode estar causando estresse no trabalho, aponta estudo&nbsp;&nbsp;O GLOBOEstresse no trabalho está ligado à disfunção erétil em homens jovens&nbsp;&nbsp;MetrópolesEstresse no trabalho e disfunção erétil: novas evidências&nbsp;&nbsp;Tribuna do SertãoEstresse no trabalho eleva risco de disfunção erétil; entenda&nbsp;&nbsp;Diário do Centro do MundoAmbiente de trabalho pode aumentar risco de disfunção erétil, aponta estudo&nbsp;&nbsp;GazetaWeb",
       "sources": [
         {
           "name": "O GLOBO",
@@ -78,14 +126,14 @@
       ]
     },
     {
-      "id": "604f85c89be8",
-      "title": "Escola diz que alunos que passaram por exame em feira cultural devem procurar hospital - O GLOBO",
-      "published": "2026-09-13T07:00:00+00:00",
-      "summary": "Escola diz que alunos que passaram por exame em feira cultural devem procurar hospital&nbsp;&nbsp;O GLOBO",
+      "id": "c21fe12a851b",
+      "title": "Consumir bebidas muito quentes pode triplicar o risco de câncer, revela grande estudo - R7",
+      "published": "2026-09-13T05:00:00+00:00",
+      "summary": "Consumir bebidas muito quentes pode triplicar o risco de câncer, revela grande estudo&nbsp;&nbsp;R7Consumo de bebidas muito quentes pode triplicar o risco de câncer de esôfago, revela estudo&nbsp;&nbsp;O GLOBOConsumo de chá e café ‘muito quente’ triplica risco de câncer, diz estudo&nbsp;&nbsp;ICL NotíciasBeber chá ou café menos quente pode reduzir risco de câncer de esôfago, sugere estudo&nbsp;&nbsp;VEJADo café à carne processada: dois hábitos aparecem ligados ao risco de câncer&nbsp;&nbsp;Olhar",
       "sources": [
         {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRHJzY3hlRW5IOWZRSUdQRGlIcTM5SFJvYWFLV001UHdkbDMzUHdBcEVNR0ZCanZXUlhJcF94Mmt3Vk5QWTJ3TFpGWm9IVFpQV1hfcEFLNlAzeWY1QTlxS2d2WFpqRFJtTVl4LVJRT19YZmdXMjk4LUFZWHlER3AwcTI1MkhZOGk5aVdjTjdOOUpmc2kzbmRoRjVQOWZvd3V6a3pubC1lSTZ5UjB6TDZpbk0yLUd5dXBSYmlTcWRIREJIbDZkcmxsbFFUbU1UYmZuMmdPRWJlNNIB5gFBVV95cUxPZGVNS3NYZFRxRnp3YnFMOTNWdFNNSE9hVHVJeDAwMlNzbHB0aUx1aGVWeGF3VkdKa05NTW9xS2lHR3d1d1Myc2tUc2VmVTVmbXpYV2YwblpVb1pZXzNmenJxb0hXWjMyVmxidmZsTW1VYlpxaGZBa2QtQ2hvMkE1TEtodUp1R2NwdWQ1TE9WYUVDWGs5RjVhVHVRazR3VXk2a3diY1hGU2RsT3RaSHJfLXhYTnZKQXUxOVZMY19yTU5LMTBhVE95ZUxWTENPMGNxQjc5WXRBZWU4MHFJaU5BaGt6a1pNUQ?oc=5"
+          "name": "R7",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNGpRRHA3Ylg1VnRSTmxyM0h4Z09lWFBzd0ZnZjZUNy1mdkE1Z1R1R0lFa2VKbkFFV1BITXpBS2I1dFFmQ2hKcXJleDNGYk5NV3JyeGNtNDItTGJEaFpKeGpMZzF5WWNjU3Q2Q0Nxbnk4eHRZel82c0NVU3VXX2N4RFRpaVJ4YW14V3M3QjlTWnZIblVfQTVYM3ZycDc2eEl5ZnIwRWtJWnlOUVFuQXV0TTBaOXJCQ1BuLThfeFV5UmZtZw?oc=5"
         }
       ]
     },
@@ -93,7 +141,7 @@
       "id": "da4715987b8e",
       "title": "Entenda qual o risco oculto para o seu coração ao dormir exposto a qualquer quantidade de luz - R7",
       "published": "2026-09-13T05:00:00+00:00",
-      "summary": "Entenda qual o risco oculto para o seu coração ao dormir exposto a qualquer quantidade de luz&nbsp;&nbsp;R7Ficar exposto a luz excessiva à noite pode alterar funcionamento do coração&nbsp;&nbsp;GloboO risco oculto para o seu coração ao dormir em ambientes com pouca luz&nbsp;&nbsp;CNN BrasilExposição à luz durante a noite pode trazer riscos ao coração, aponta estudo&nbsp;&nbsp;O TEMPODormir com as luzes acesas ou apagadas? Uma nova pesquisa tem a resposta.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "Entenda qual o risco oculto para o seu coração ao dormir exposto a qualquer quantidade de luz&nbsp;&nbsp;R7Ficar exposto a luz excessiva à noite pode alterar funcionamento do coração&nbsp;&nbsp;GloboO risco oculto para o seu coração ao dormir em ambientes com pouca luz&nbsp;&nbsp;cnnbrasil.com.brExposição à luz durante a noite pode trazer riscos ao coração, aponta estudo&nbsp;&nbsp;O TEMPODormir com as luzes acesas ou apagadas? Uma nova pesquisa tem a resposta.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "R7",
@@ -162,14 +210,14 @@
       ]
     },
     {
-      "id": "bc69166458fe",
-      "title": "Amamentação: o que muda no corpo da mãe durante e até depois - UOL",
-      "published": "2026-09-12T15:00:00+00:00",
-      "summary": "Amamentação: o que muda no corpo da mãe durante e até depois&nbsp;&nbsp;UOLMédico explica por que os glúteos podem diminuir durante a amamentação&nbsp;&nbsp;GazetaWebMédico esclarece por que glúteos podem diminuir durante a amamentação&nbsp;&nbsp;BossaNews Brasil",
+      "id": "10ade7e8d2a2",
+      "title": "Não é no forno, nem no fogão: cozinhar abóbora desse jeito corta o tempo de preparo pela metade - Minha Vida Saúde",
+      "published": "2026-09-12T15:10:24+00:00",
+      "summary": "Não é no forno, nem no fogão: cozinhar abóbora desse jeito corta o tempo de preparo pela metade&nbsp;&nbsp;Minha Vida Saúde",
       "sources": [
         {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRnZudFpicWI2WmdaRVptUTZEcjVLbUQtc1E5SUR5bXpWYVlLSnhFYnE5QmYwRTZZeVpBRU5XbWNtRVNjVll3RU9xYjU3Vmk3R0NYMHItMWd4emJmZ2N5T3p5dFRlY1J4VGdub3hSVGpXN0pqb2NGLVE2NGtGOC1Md2JNMng1UzRfUHFCS0dFazNCQzF6bW1Pb20tUkFKUG95TXk4YzhPYUlTaW9lVDhNR21GTlRDdjVnNENGc2h0SQ?oc=5"
+          "name": "Minha Vida Saúde",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00NXZORUI5bTdDbVlDekF2YmRENXZPeEZXaG5ZX3p6R0JnM2o0R2hGOWx0YW1tNm9Tc2ZPemlITWlXTXZ6YjJFSHNaV29FOWliNjF5am4tZXFuQ083eUM5Z9IBZkFVX3lxTE9yaGRNLWVUb05sb25yaTBfSDQ4dlRTOWdxUHFjaUdGNnNJV1FQRW9PeTdXNEtxZEFoczlkd0IyTWtMRXVVM1JVbzNRWlQ1WVdjcnVCQ3A5QnRiNGhtRVZiTlhUSEc2dw?oc=5"
         }
       ]
     },
@@ -189,7 +237,7 @@
       "id": "4227a47c7926",
       "title": "Dor no ombro após os 40 anos nem sempre é sinal de lesão, aponta estudo; entenda - Estadão",
       "published": "2026-09-12T13:00:00+00:00",
-      "summary": "Dor no ombro após os 40 anos nem sempre é sinal de lesão, aponta estudo; entenda&nbsp;&nbsp;EstadãoDor no ombro após os 40 nem sempre indica lesão, diz estudo&nbsp;&nbsp;Diário do Centro do MundoDor no ombro depois dos 40? Estudo mostra por que o exame pode enganar&nbsp;&nbsp;Olimpíada Todo Dia",
+      "summary": "Dor no ombro após os 40 anos nem sempre é sinal de lesão, aponta estudo; entenda&nbsp;&nbsp;EstadãoDor no ombro após os 40 nem sempre indica lesão, diz estudo&nbsp;&nbsp;Diário do Centro do MundoDor no ombro depois dos 40? Estudo mostra por que o exame pode enganar&nbsp;&nbsp;olimpiadatododia.com.br",
       "sources": [
         {
           "name": "Estadão",
@@ -218,18 +266,6 @@
         {
           "name": "Gazeta do Povo",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeV9ETW82NTBsLTJMMjF3LUVUQk8xSVN3RWFrbnlIOERjNnpmc0N2ZndFV1FaRktsWE43c3k4RUtjcWNlSXNfR1hWcTJHZkJiX05oXzFGcEJjYnNLc2RKdk00MVZHdTI1bDZ2cEw4a09Pa3JYcGRHUDlmdVpNNURNZzNpUEwtSFFxUFB5RUZ2SWRSVy1mcXl6aG5TX3U1RFRQR3ZXQzJxeWxTbTBMMk1BbjhmYUl1MF9TenZKYnQzeFQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1c28c8a05426",
-      "title": "Demência: hábitos saudáveis podem reduzir o risco - Terra",
-      "published": "2026-09-12T11:01:00+00:00",
-      "summary": "Demência: hábitos saudáveis podem reduzir o risco&nbsp;&nbsp;Terra",
-      "sources": [
-        {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWU9yTlRqMjFndEE2TFlrai03Z1dTN05zVFJ0eFF4VWhQbHdaRlhGay1rMFJGUERzZ0NkcGNlLWFGNzdrUk5RUnZDaFQyQzR0eVZJSGZBWV9wYk5VUUN0VnpQTVFuTDgtVjRHVVhaenNidVBPRW1rbWE0Y3dSbmYyVzBPTFR4YWxzNWtHLU1CTzN5SUIyWGVxMWFJUWlXTWwzMkdGWkxyNnEyb2UwNktpdnNmc1Z4cXhCTnZDN0Y0VmZCNnAtcTlCS1Y5NmRGQQ?oc=5"
         }
       ]
     },
@@ -297,7 +333,7 @@
       "id": "c199c263edb4",
       "title": "Benefícios e riscos: como o celular afeta a saúde dos idosos - Extra online",
       "published": "2026-09-12T07:00:01+00:00",
-      "summary": "Benefícios e riscos: como o celular afeta a saúde dos idosos&nbsp;&nbsp;Extra onlineCelular ajuda idosos, mas pode provocar dores nas mãos e no pescoço&nbsp;&nbsp;Diário do Centro do MundoDor na coluna cresce entre jovens e acende alerta&nbsp;&nbsp;Portal Terra da LuzGesto que fazemos milhares de vezes com o telemóvel causa rugas cada vez mais cedo&nbsp;&nbsp;New in PortoOrtopedista alerta: uso excessivo do celular se associa a dores no pescoço&nbsp;&nbsp;Belém.com.br",
+      "summary": "Benefícios e riscos: como o celular afeta a saúde dos idosos&nbsp;&nbsp;Extra onlineCelular ajuda idosos, mas pode provocar dores nas mãos e no pescoço&nbsp;&nbsp;Diário do Centro do MundoDor na coluna cresce entre jovens e acende alerta&nbsp;&nbsp;Portal Terra da LuzGesto que fazemos milhares de vezes com o telemóvel causa rugas cada vez mais cedo&nbsp;&nbsp;New in PortoOrtopedista alerta: uso excessivo do celular se associa a dores no pescoço&nbsp;&nbsp;belem.com.br",
       "sources": [
         {
           "name": "Extra online",
@@ -314,18 +350,6 @@
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQ3p2cG5TeUNKUS1BOVNURTBkbHdvVTd4azdJcFJVS2U1eHdiYTJoZ1MzcGxxWndBWHdmdWR6aGF4MnlSU3JDVUo1XzczREFTYVdXNENNdDRnalZBcXNvbndqZWpDMTUzNXo0YnJfb1hJcFhlbjBnUUxKbDN4dW9icWE2T2h0dGkwMWRSRk11RDdDQ1BfdWJCYTFQanlKcThsSFpncE1fSFA3UkxDcnR3QTVzZHRNY0RBal9IU2xvZFhmWERGY0Y5Y3FhUFFFeVBicVBZNg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a478f2fd3e46",
-      "title": "Como uma polipílula brasileira pode ajudar a prevenir o AVC e a demência - CNN Brasil",
-      "published": "2026-09-12T06:34:34+00:00",
-      "summary": "Como uma polipílula brasileira pode ajudar a prevenir o AVC e a demência&nbsp;&nbsp;CNN BrasilEstudo nacional recruta participantes em São Paulo para avaliar polipílula desenvolvida no Brasil para…&nbsp;&nbsp;Gazeta da SemanaHC de Ribeirão Preto busca voluntários para pesquisa inédita sobre prevenção de AVC&nbsp;&nbsp;G1Pesquisa sobre AVC busca voluntários para testar combinação de medicamentos&nbsp;&nbsp;R7HC de Ribeirão Preto recruta voluntários para pesquisa com polipílula contra AVC&nbsp;&nb",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSkdGdy1tYkFvYjVDR1RCcWdwWC1NVlVablA1UXBuc1ZacFFJTk52Q09aZ2luR0hMX0dVMDZUTUVyZ3AyNXlJdTNoejVpSkpWdExZelhMbFBSZVlnRldCQzJRc0NOWFI5S2lXRjhmaWxnLTJXeVVVMXRRVi1YOThaSW1WcGwwWlRjYlMydEdObUV5eGYwR1MyWS05Q2E0TUtOcTZlVjVxRkFwOE0x?oc=5"
         }
       ]
     },
@@ -354,58 +378,10 @@
       ]
     },
     {
-      "id": "c69bcd581680",
-      "title": "Estudo aponta que manchas amareladas nos olhos podem indicar risco de AVC - Terra",
-      "published": "2026-09-12T01:41:00+00:00",
-      "summary": "Estudo aponta que manchas amareladas nos olhos podem indicar risco de AVC&nbsp;&nbsp;TerraSinais amarelados nos olhos podem indicar risco de AVC e infarto, diz estudo&nbsp;&nbsp;GloboEste sinal nos seus olhos pode ser um alerta para infarto e AVC&nbsp;&nbsp;Estado de MinasSinais faciais que alertam para o risco de ataque cardíaco ou acidente vascular cerebral.&nbsp;&nbsp;Vietnam.vnManchas ao redor dos olhos acendem alerta de risco de infarto e derrame&nbsp;&nbsp;Olhar Digital",
-      "sources": [
-        {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPeFhyNVh4STRVR0dET1owRzJXVTZpZWN1U0J3OXdpSEl5YXkzVng1VmNaQ09RSFR4YXpMX195a3NCR0F5b0VhZVVILWxVRTNVc2ROYk45STZQZUs5UU4ybk10bmRod25TdFZFUkx6WjMwTi1Ub2lrUF9QMy1ZMGhwb3dyMU1GQW9wVU1IbW93TzRWZXZDWEV6dktZNkFxeThsWXZKM05DdGc0UHpmTjNEMmUyOS14ZFFfWEVZLWEzUG1lMlljNVN3TmN1ZWliazFJZkRNcnFBQVBUV2dWYmNmU2hsV3gyc3Jid0dXek1CeHNBRUJEQXJv?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3951226996b4",
-      "title": "Claude AI pode ter sido usado para desenvolvimento de armas biológicas e sistemas de mísseis - Superinteressante",
-      "published": "2026-09-11T22:47:00+00:00",
-      "summary": "Claude AI pode ter sido usado para desenvolvimento de armas biológicas e sistemas de mísseis&nbsp;&nbsp;Superinteressante",
-      "sources": [
-        {
-          "name": "Superinteressante",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ1cxVFdxSXg4ZENBYW9SYlV1VWw2NUFDRWdPRHRsUzVVUEtBbXJuUXNwWHM5Z19IQnA3dExrZC1Pd21CODJRdmwxNzFKTnJDS0oyQzNBbUtTVkNPY2lzaXVNWXhmcDBnVFpvaGVaZ0JQMTVBby1LZ2k4WVFyM01JOXZOQWhnMk80OHpwVzN3VUpqQUVvX2hlaVl0ZEFiQlI4RWJITi1uTng3TkgyeFI5R3dtRE93UVhadzJnUTN4cXpnWXVCbEt4RGN6Yw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "776a3c2cc1fb",
-      "title": "Mortes: Um dos primeiros neurocirurgiões de Campo Grande, atuou por décadas na Apae - Folha de S.Paulo",
-      "published": "2026-09-11T19:46:00+00:00",
-      "summary": "Mortes: Um dos primeiros neurocirurgiões de Campo Grande, atuou por décadas na Apae&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOX3ltNjZhcnNVbGxBWS1VZVNkSDYwWnhObUtPZzM4WlpYVjRHVWxpTll4bm1wemdWbTRLbmJnSUVYWGhYRFNLRW9EWTlQWEdhelRJQkJfdTB5YTVGUkE3R1FLNmpqaVpEUzFUa1RKSHZlUW1wSlNnWVR5U0FidkszSkZvcTBZdXZTV3NPZDl2MkZqZHdCRnRlcGs1eXlnYnlkdEhoSjFiWHZtdWJFc2tQTTROY1BRcFQ5ZUlTamMxU2hDcThnYzhPNEw1b1lPRlp0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0e7adbb6930d",
-      "title": "Celine Dion volta aos palcos em Paris após hiato por doença neurológica rara - UOL",
-      "published": "2026-09-11T17:51:56+00:00",
-      "summary": "Celine Dion volta aos palcos em Paris após hiato por doença neurológica rara&nbsp;&nbsp;UOL",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQV2JxalNocDlnVGdfQzJfY1p6QnpkUHdZSU5QTEZ5OGZWUmRYcktnbHBfODRRaW10ZkpRQXR4Ni1HVG1DVVZ2UVA3TjZad1RqVUJReXFVeDNVWG84QnVpR1VuYVQ5YUZ6ek45Sk1tQWVlc3dHOHpxRHV5djJuN1FNTnVjNmN6OEpIRFQtTER2TmRHUWZjdk9nNm5paG0yczVtVWloNkV2NDhUWDZPZ0Q5bW5NWVR6Vm83TVpLV1RQLXR5eUNKRzA3ODhvYVB0WDAwaVdvN19pdDZhX3M?oc=5"
-        }
-      ]
-    },
-    {
       "id": "cb9ec8954577",
       "title": "Cérebro passa por mudanças semelhantes na menarca e na gestação, mas não na menopausa - Medscape",
       "published": "2026-09-11T13:00:32+00:00",
-      "summary": "Cérebro passa por mudanças semelhantes na menarca e na gestação, mas não na menopausa&nbsp;&nbsp;MedscapeEntrar cedo na menopausa pode afetar envelhecimento do cérebro, indica estudo&nbsp;&nbsp;Folha de S.PauloMulheres que entram na menopausa precocemente têm envelhecimento cerebral mais rápido e diagnóstico de Alzheimer mais jovens; entenda&nbsp;&nbsp;O GLOBOMenopausa muda o cérebro de forma diferente da puberdade e gravidez&nbsp;&nbsp;Correio BrazilienseEstudo liga menopausa precoce a alteraçõ",
+      "summary": "Cérebro passa por mudanças semelhantes na menarca e na gestação, mas não na menopausa&nbsp;&nbsp;MedscapeMomento do início da terapia hormonal afeta o risco de demência&nbsp;&nbsp;MedscapeEntrar cedo na menopausa pode afetar envelhecimento do cérebro, indica estudo&nbsp;&nbsp;Folha de S.PauloMulheres que entram na menopausa precocemente têm envelhecimento cerebral mais rápido e diagnóstico de Alzheimer mais jovens; entenda&nbsp;&nbsp;O GLOBOMenopausa muda o cérebro de forma diferente da puberdad",
       "sources": [
         {
           "name": "Medscape",
@@ -438,18 +414,6 @@
       ]
     },
     {
-      "id": "1eb632921ac3",
-      "title": "Lúcia Helena: Infarto: risco é maior no idoso que pegou o vírus 'mais leve' da covid-19 - UOL",
-      "published": "2026-09-11T12:30:00+00:00",
-      "summary": "Lúcia Helena: Infarto: risco é maior no idoso que pegou o vírus 'mais leve' da covid-19&nbsp;&nbsp;UOL",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZ19feHE0S0hwSVo0WFRBendpNmFLU1lzRVRQRTVSWkdwOXdmY01UOTBrS2JIZEE1MTV3eGFxV1ZZODJyT1R1bUxPZHRjVkNsalVmN1NIMWNoZ3V2X0V6Rl83RDFLWFM2dGhPZmJudXpJSHltOTdaUEJkZ0lpS3FBd1lBRlFLWWZMSFVybjhwVndGSGxuQS10OGlnclRBVWdJRVJGR2RvUVU1cnJQX2tlb0s2RjlOSzJpelVyQllmaTRrenBGMlBoaW03NkpQX1hhcXlr?oc=5"
-        }
-      ]
-    },
-    {
       "id": "577ef3bdd43a",
       "title": "Anvisa Aprova Genéricos de Medicamentos contra Diabetes e Obesidade - Forbes Brasil",
       "published": "2026-09-10T19:23:09+00:00",
@@ -474,30 +438,6 @@
       ]
     },
     {
-      "id": "7c978aa6059f",
-      "title": "Consumo de chá e café ‘muito quente’ triplica risco de câncer, diz estudo - ICL Notícias",
-      "published": "2026-09-10T08:00:00+00:00",
-      "summary": "Consumo de chá e café ‘muito quente’ triplica risco de câncer, diz estudo&nbsp;&nbsp;ICL NotíciasConsumo de bebidas muito quentes pode triplicar o risco de câncer de esôfago, revela estudo&nbsp;&nbsp;O GLOBOConsumir bebidas muito quentes pode triplicar o risco de câncer, revela grande estudo&nbsp;&nbsp;R7Beber chá ou café menos quente pode reduzir risco de câncer de esôfago, sugere estudo&nbsp;&nbsp;VEJADo café à carne processada: dois hábitos aparecem ligados ao risco de câncer&nbsp;&nbsp;Olhar",
-      "sources": [
-        {
-          "name": "ICL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAzelpTVzNDUjR0UTRiekhZb0RsMnNoVUswcHpTeEVjWVlEcnBHYkxKcVl0aVotMmpaMUN6X3c5R1FQQ2FodzZfUndCR0xaNllpeUZZS2VuNHU2czRhZFhPUG1jR0R6cnljY2E3QV9sQXNYQTE0SzZwX210WQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "37c46ff00f78",
-      "title": "H. pylori pode estar relacionada a 22% dos casos de câncer colorretal no mundo - Medscape",
-      "published": "2026-09-09T23:17:46+00:00",
-      "summary": "H. pylori pode estar relacionada a 22% dos casos de câncer colorretal no mundo&nbsp;&nbsp;MedscapeBactéria H. pylori vive no estômago de boa parte da população adulta e nem sempre provoca sintomas, o que retarda o diagnóstico&nbsp;&nbsp;Tua SaúdeBactéria que causa câncer do estômago pode agir por anos sem apresentar sintomas; entenda riscos&nbsp;&nbsp;CNN BrasilLiga Contra o Câncer reforça prevenção do câncer gástrico em evento científico nesta quinta-feira&nbsp;&nbsp;natalemfoco.com.brBactéria ",
-      "sources": [
-        {
-          "name": "Medscape",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVnkzaGs1LUNUY2x6SlEtQ1hUekxxN2dPeDFWckNENmhvVWpzNDd3Y0xYR2dMTWMyc0FVaFUzMGgzaF8xaF9jVHVLT1NpQ0duOFd1dUJNcWVIVm03dzF1OW1INy1iRGpFeXJlRnNiNVFPTm1RNmhfVmtmU21nZHo4Y01BZ3c0bHNJZ01HdVB3VWpya3ZLa1pBOURuYnhERGdKVWZwelVQWmNVUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c96f8f9ee790",
       "title": "O engenheiro da Anthropic que alertou para o risco de a IA exterminar a humanidade: 'Mais de 10% de chance' - BBC",
       "published": "2026-09-09T23:12:51+00:00",
@@ -513,7 +453,7 @@
       "id": "ba59837ffa8a",
       "title": "Saiba quem pode, quem deve e onde se vacinar contra o pneumococo no DF - Correio Braziliense",
       "published": "2026-09-09T17:38:00+00:00",
-      "summary": "Saiba quem pode, quem deve e onde se vacinar contra o pneumococo no DF&nbsp;&nbsp;Correio BrazilienseSUS chega a mais de um milhão de crianças vacinadas contra doenças pneumocócicas&nbsp;&nbsp;metro1.com.brSUS vacina mais de 1 milhão de crianças com Pneumo 20&nbsp;&nbsp;D24AMMais de 1 milhão de crianças já foram protegidas pela Pneumo 20 no SUS&nbsp;&nbsp;costanorte.com.brPneumo 20: Montes Claros vacina a criança 1 milhão e SUS amplia proteção para idosos com 85 anos ou mais&nbsp;&nbsp;geraisnew",
+      "summary": "Saiba quem pode, quem deve e onde se vacinar contra o pneumococo no DF&nbsp;&nbsp;Correio Braziliense",
       "sources": [
         {
           "name": "Correio Braziliense",
