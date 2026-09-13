@@ -1,10 +1,22 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-09-12T20:18:11.331364+00:00",
-  "total_fetched": 100,
-  "unique_count": 99,
-  "health_related_count": 39,
+  "fetched_at": "2026-09-13T03:46:43.628636+00:00",
+  "total_fetched": 98,
+  "unique_count": 97,
+  "health_related_count": 32,
   "news": [
+    {
+      "id": "69d80aafa2ca",
+      "title": "Três medicamentos que podem estar sendo usados em excesso por idosos - Folha de S.Paulo",
+      "published": "2026-09-12T21:00:00+00:00",
+      "summary": "Três medicamentos que podem estar sendo usados em excesso por idosos&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPa2JGZGxraHZpa3RjOEdtaWtLcXA1UUpKd0s2aV9UeGNmOXpiUGp5Q1ZuQ0dBWVNYVUhhdXF4UzNPbU5zVHhKam9CTnN0WlFhbkJvOTMwVHlOQWdXVnNsT0oxNFBZRGV3LXk4RVVEd2pCa3R6c2FrczdFMVhfS3lMVUFBWTZVX3ZPNGJrR20zSmdXWHNMYkNtOXZ4N3V0MzhnUFBnTlA0MmdYMnRnR2RSMFk4Z29DcDg4LWxIeEdoTC1JekVNS3A4TQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "e8ab941bc1f8",
       "title": "Estudo aponta que autonomia é peça-chave para uma vida mais feliz - Diário do Centro do Mundo",
@@ -18,26 +30,14 @@
       ]
     },
     {
-      "id": "a478f2fd3e46",
-      "title": "Como uma polipílula brasileira pode ajudar a prevenir o AVC e a demência - CNN Brasil",
-      "published": "2026-09-12T18:23:38+00:00",
-      "summary": "Como uma polipílula brasileira pode ajudar a prevenir o AVC e a demência&nbsp;&nbsp;CNN BrasilHC de Ribeirão Preto busca voluntários para pesquisa inédita sobre prevenção de AVC&nbsp;&nbsp;G1Pesquisa sobre AVC busca voluntários para testar combinação de medicamentos&nbsp;&nbsp;R7Pesquisa de polipílula para prevenção do AVC busca 8,5 mil voluntários&nbsp;&nbsp;Agência BrasilHC de Ribeirão Preto recruta voluntários para pesquisa com polipílula contra AVC&nbsp;&nbsp;CBN Ribeirão",
+      "id": "cb64604c736b",
+      "title": "Ciência revela como o cérebro interpreta a beleza artística - Folha de S.Paulo",
+      "published": "2026-09-12T14:00:00+00:00",
+      "summary": "Ciência revela como o cérebro interpreta a beleza artística&nbsp;&nbsp;Folha de S.PauloEstudo revela como o cérebro separa imagem e prazer ao julgar a beleza artística&nbsp;&nbsp;Diário do Centro do MundoO que acontece no cérebro quando você acha uma arte bela&nbsp;&nbsp;SpaceMoney",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSkdGdy1tYkFvYjVDR1RCcWdwWC1NVlVablA1UXBuc1ZacFFJTk52Q09aZ2luR0hMX0dVMDZUTUVyZ3AyNXlJdTNoejVpSkpWdExZelhMbFBSZVlnRldCQzJRc0NOWFI5S2lXRjhmaWxnLTJXeVVVMXRRVi1YOThaSW1WcGwwWlRjYlMydEdObUV5eGYwR1MyWS05Q2E0TUtOcTZlVjVxRkFwOE0x?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bc69166458fe",
-      "title": "Amamentação: o que muda no corpo da mãe durante e até depois - UOL",
-      "published": "2026-09-12T15:00:00+00:00",
-      "summary": "Amamentação: o que muda no corpo da mãe durante e até depois&nbsp;&nbsp;UOLMédico explica por que os glúteos podem diminuir durante a amamentação&nbsp;&nbsp;GazetaWebMédico esclarece por que glúteos podem diminuir durante a amamentação&nbsp;&nbsp;BossaNews Brasil",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRnZudFpicWI2WmdaRVptUTZEcjVLbUQtc1E5SUR5bXpWYVlLSnhFYnE5QmYwRTZZeVpBRU5XbWNtRVNjVll3RU9xYjU3Vmk3R0NYMHItMWd4emJmZ2N5T3p5dFRlY1J4VGdub3hSVGpXN0pqb2NGLVE2NGtGOC1Md2JNMng1UzRfUHFCS0dFazNCQzF6bW1Pb20tUkFKUG95TXk4YzhPYUlTaW9lVDhNR21GTlRDdjVnNENGc2h0SQ?oc=5"
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZkstd3hiYXlSTnBrYlBMd0VrQk5UdVZLTjk4RnBidDQ5WGdUYU9SZGlQSFVDZ1FyVG9NRnM1RXVjeUR5TDhTdHI5eExkeDdXTnRGTjhRQk5tcl9Rdm1GSlEySEc0aGxXQkZ3NHlqQ01INEZIRnNVaFZhbzRBUTRSajdCMFRzcFdBSXFvelBNSWJRa2VOblVNYmZrc20tZktfOXNCWi1sZkxRNVZocWV5Nw?oc=5"
         }
       ]
     },
@@ -45,11 +45,23 @@
       "id": "4227a47c7926",
       "title": "Dor no ombro após os 40 anos nem sempre é sinal de lesão, aponta estudo; entenda - Estadão",
       "published": "2026-09-12T13:00:00+00:00",
-      "summary": "Dor no ombro após os 40 anos nem sempre é sinal de lesão, aponta estudo; entenda&nbsp;&nbsp;Estadão",
+      "summary": "Dor no ombro após os 40 anos nem sempre é sinal de lesão, aponta estudo; entenda&nbsp;&nbsp;EstadãoDor no ombro após os 40 nem sempre indica lesão, diz estudo&nbsp;&nbsp;Diário do Centro do MundoDor no ombro depois dos 40? Estudo mostra por que o exame pode enganar&nbsp;&nbsp;Olimpíada Todo Dia",
       "sources": [
         {
           "name": "Estadão",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYVpHWU1CMmptdVZ4ckFvRkoyanlKdkh2QnJXTWdNNll2THJ4bmNwaXFhRElkNzI0X3NmOVh6TENqR1BWYUlnOWhsUGdFcmhQcjhyNVVtSHRxSEJxUUhHZEJqeV9WZGU3QjgtWHJKa0JDQlJPUmo5ZmZJeGRwSlI3aU02UGxtM3NDYkpSanRLVnRJbkF5a3h2YkVjSmdJTkc1aEk0cDRMcmtjaUhOY3RpZm5TajFaUHhiRTk4V2pQNVRuVW5ISDNIVDBZYw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2831fd8a95ee",
+      "title": "Influencer diz que perdeu 124 kg e vira coach de emagrecimento - uol.com.br",
+      "published": "2026-09-12T12:50:27+00:00",
+      "summary": "Influencer diz que perdeu 124 kg e vira coach de emagrecimento&nbsp;&nbsp;uol.com.brJovem consegue perder 124 quilos sem cirurgia ou caneta e se torna coach de emagrecimento&nbsp;&nbsp;Extra onlineJovem perde 124 quilos sem cirurgia nem caneta emagrecedora; veja como&nbsp;&nbsp;Mais Goiás‘Realmente vivendo’: jovem perde 124 kg sem cirurgia ou canetas emagrecedoras&nbsp;&nbsp;O TEMPOJovem elimina 124 kg sem cirurgia e vira coach de emagrecimento&nbsp;&nbsp;redetv.uol.com.br",
+      "sources": [
+        {
+          "name": "uol.com.br",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWjNFd1lnTGdHb3Y4Y3RfNHhyZTJaREJGcEZnLVI1YTdyYVViNHMwVUtJR01GdHp2NVdJb0U0XzlGaDVqQlgzWlpESEFLVjJXek1WMGgtMFZsVjRXY2VPb3NzYmMzMTV2cnFtNVlzMTVxaURIUkFvcXZNSzJZZW1TTW5CT3paMGtHa2dwY3M3aUxLdWstaWNBTzIxMTNRN2N3NHFyUm9ZSWhPdVZJMmFUY0NjSFhPa1ItZGhFU1FwYm5kQzd3R2c?oc=5"
         }
       ]
     },
@@ -66,6 +78,18 @@
       ]
     },
     {
+      "id": "f8c96cfec7b4",
+      "title": "Maior imagem já feita do coração da Via Láctea revela mais de 60 milhões de estrelas - Gazeta do Povo",
+      "published": "2026-09-12T12:00:00+00:00",
+      "summary": "Maior imagem já feita do coração da Via Láctea revela mais de 60 milhões de estrelas&nbsp;&nbsp;Gazeta do Povo",
+      "sources": [
+        {
+          "name": "Gazeta do Povo",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeV9ETW82NTBsLTJMMjF3LUVUQk8xSVN3RWFrbnlIOERjNnpmc0N2ZndFV1FaRktsWE43c3k4RUtjcWNlSXNfR1hWcTJHZkJiX05oXzFGcEJjYnNLc2RKdk00MVZHdTI1bDZ2cEw4a09Pa3JYcGRHUDlmdVpNNURNZzNpUEwtSFFxUFB5RUZ2SWRSVy1mcXl6aG5TX3U1RFRQR3ZXQzJxeWxTbTBMMk1BbjhmYUl1MF9TenZKYnQzeFQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1c28c8a05426",
       "title": "Demência: hábitos saudáveis podem reduzir o risco - Terra",
       "published": "2026-09-12T11:01:00+00:00",
@@ -78,37 +102,25 @@
       ]
     },
     {
-      "id": "04ae30bbaec6",
-      "title": "Madrugada de fortes chuvas em SP teve ventos de até 92,6 km/h, alagamentos e deslizamentos de terra - Terra",
-      "published": "2026-09-12T10:32:00+00:00",
-      "summary": "Madrugada de fortes chuvas em SP teve ventos de até 92,6 km/h, alagamentos e deslizamentos de terra&nbsp;&nbsp;Terra",
-      "sources": [
-        {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNVkdiUUZHUV9nRGR1c0lVNVZMQng1NGNWa0pHeUZDU0RiMnBiUVVKeHRiejZYQnhMX3g1VENfV1NQeWU0VTQ1d1dGQ3FyTl9zVGNYakU5Z3FINXdnNGpSa2JNYWpwajQ1LVdTc2NBX0ExbmpieXhGamRfQmdTUjlIVm4zYW82Z0tSanRwdzBwWGVnSTdCRjRmM2F6YkNtNTA1cnRHU1RoYlRhUVU3SUdOeVFXVTM0TFhqM3NJcUxKaF9Mc29pSkhOVmhGb2NXSG55dGRKaFFRNXhwQzcyM2hWNUFBc2hCMjBXV0k4cnhwSHdxRjc1Yy1hODN4cTRiV25TM19KUjFhRlpUbkFuVXpkS0liTWx2SjhvSk5B?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5a1a0fb0fdcb",
-      "title": "Estruturas nunca vistas foram encontradas em bactérias que vivem dentro de besouros. Elas ajudam a transportar carboidratos e garantem energia para o inseto - tupi.fm",
+      "id": "8691fdd9a0b4",
+      "title": "Estruturas nunca vistas foram encontradas em bactérias que vivem dentro de besouros. Elas ajudam a transportar carboidratos e garantem energia para o inseto - Super Rádio Tupi",
       "published": "2026-09-12T10:27:23+00:00",
-      "summary": "Estruturas nunca vistas foram encontradas em bactérias que vivem dentro de besouros. Elas ajudam a transportar carboidratos e garantem energia para o inseto&nbsp;&nbsp;tupi.fm",
+      "summary": "Estruturas nunca vistas foram encontradas em bactérias que vivem dentro de besouros. Elas ajudam a transportar carboidratos e garantem energia para o inseto&nbsp;&nbsp;Super Rádio Tupi",
       "sources": [
         {
-          "name": "tupi.fm",
+          "name": "Super Rádio Tupi",
           "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNeG9YUTgtb3E2RlhnSW1fWGhfc1U0THNESUxreUtvbjJVMURma2pTN254ODFvdWpoOVZkUUNjNUdMMkVtbjlDSWxHVEJ6U1F5N3VNUGtwaEQ4UkhUWll1em9UX1NpNDFrbFJiczJlMUdlZ25FWDdHdHN0M2ZWV1FuRkdYeXhwSlZRS2U3U0R2dEh6VlhuLVh4SEJERWNfTUdzWXpmVzlxOWpKaVlSX0pPZEs4cEJCZHBDQ21QYUlCYVZpamJITW5SaE1oZFRvR3JtbU1FLTFxbjFJbUY1bVF4ZEdCa1VQTEhrMk95MnVjT2JDei1JNGYwcjh6M3liQ2x0eVlORmQ3YzRPYWpFQTJz?oc=5"
         }
       ]
     },
     {
-      "id": "33523ab0bca6",
-      "title": "DF terá 48 locais de vacinação neste sábado (12/9); confira os endereços - metropoles.com",
+      "id": "6bc57c384683",
+      "title": "DF terá 48 locais de vacinação neste sábado (12/9); confira os endereços - Metrópoles",
       "published": "2026-09-12T09:30:00+00:00",
-      "summary": "DF terá 48 locais de vacinação neste sábado (12/9); confira os endereços&nbsp;&nbsp;metropoles.comDF terá 48 pontos de vacinação em 20 RA's neste sábado (12/9)&nbsp;&nbsp;Correio BrazilienseDF supera 20 milhões de doses de vacinas aplicadas&nbsp;&nbsp;Tudo ok NotíciasDF abre 40 locais de vacinação neste sábado&nbsp;&nbsp;Jornal de BrasíliaSábado (12) é dia de reforçar a proteção: DF oferece vacinação em 20 regiões administrativas&nbsp;&nbsp;Agência Brasília",
+      "summary": "DF terá 48 locais de vacinação neste sábado (12/9); confira os endereços&nbsp;&nbsp;MetrópolesDF terá 48 pontos de vacinação em 20 RA's neste sábado (12/9)&nbsp;&nbsp;Correio BrazilienseDF supera 20 milhões de doses de vacinas aplicadas&nbsp;&nbsp;tudooknoticias.com.brDF abre 40 locais de vacinação neste sábado&nbsp;&nbsp;Jornal de BrasíliaSábado (12) é dia de reforçar a proteção: DF oferece vacinação em 20 regiões administrativas&nbsp;&nbsp;agenciabrasilia.df.gov.br",
       "sources": [
         {
-          "name": "metropoles.com",
+          "name": "Metrópoles",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVDBSNDhTbmFheXdMcnR2Rm03aTdlVzBYdHJiTXVnajdrX19YY2NQVVZ5Z3hfdG9uOTUtSjV4YV9xZFBFYmM2WDFKX0JKMWQxV3FKR2NpZnRZSHlvNUUxUHhxV0ZrWkRCSXJtSWw3OVYyaGplZVhrLTV5MW1QVmVxdXdDcVFPOXAxbWlmNFdzcU9lTGd1UlpudG5GSklXUHQ4bE9CN3lISTZ3MHpiaG5NR3ZNTQ?oc=5"
         }
       ]
@@ -126,37 +138,25 @@
       ]
     },
     {
-      "id": "444d37b39466",
-      "title": "Cientistas identificam vírus no esgoto do Reino Unido que pode ser usado contra superbactéria - ICL Notícias",
+      "id": "1a21db9411c0",
+      "title": "Cientistas identificam vírus no esgoto do Reino Unido que pode ser usado contra superbactéria - iclnoticias.com.br",
       "published": "2026-09-12T08:00:33+00:00",
-      "summary": "Cientistas identificam vírus no esgoto do Reino Unido que pode ser usado contra superbactéria&nbsp;&nbsp;ICL Notícias",
+      "summary": "Cientistas identificam vírus no esgoto do Reino Unido que pode ser usado contra superbactéria&nbsp;&nbsp;iclnoticias.com.br",
       "sources": [
         {
-          "name": "ICL Notícias",
+          "name": "iclnoticias.com.br",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1MN3UxRDJIZ1F6U0JIUmRzOThaLTNjZG9zTHRTWHotU2gtWDVBTWd0RlZrcjZkVEh3dmNpWEJmT25HamNZaUVxZFNTUC1PTjNWQXRLampwalRwckpuRUNLblI4d29sck14azdwV0JaaTZZNWc?oc=5"
         }
       ]
     },
     {
-      "id": "bbe34a7daccb",
-      "title": "Quando sentir tristeza passa a ser um sinal de alerta? Psiquiatra cita dificuldade para reconhecer sentimento - Terra",
-      "published": "2026-09-12T07:58:00+00:00",
-      "summary": "Quando sentir tristeza passa a ser um sinal de alerta? Psiquiatra cita dificuldade para reconhecer sentimento&nbsp;&nbsp;TerraReconhece a ansiedade, mas adia a busca por ajuda? Entenda o que pode estar por trás&nbsp;&nbsp;GZHSaúde mental: como diferenciar tristeza cotidiana de um sofrimento psíquico grave&nbsp;&nbsp;G1Seu corpo pode estar dando sinais de estresse; veja quando a tensão vira problema de saúde”&nbsp;&nbsp;A TribunaSaúde mental: irritação e esquecimento podem indicar sofrimento emoc",
-      "sources": [
-        {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQTFJGNHM2U01KZ3QtQTFpR1dkZFdzMHczRThtd04zTzVYREROMlN4MDZqY3hIMm1PUmtBTlJVcTRMSVFaZjNXQlpmMWx0ZWYyS0dEcllzOTRhSmxBS0stRlZGZ294dk8zS3VSeU11bDBsekRXcm10UW5OWG9SOFVScHY5cDgwQ2pHWVdFRXVpb3g0NmMxOWlWZVhsZTZmUjRHZ2JnMkE2cU9HY0dKOGotM1FRN1JVeXVIX3lqVDBrazZTX2hmb0o1MV9NNlFfbTl0aENhVU1qc0pONEtZaDA2LWI0Sk5WaXYzYzR0TlhOb3dFdVJYcm9zZTFtZkNHeWl0RzZXME5mbjVWaDRtWGlGZEFZTlJkQzQ4WjN5U0tn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a20e0ac45dcd",
-      "title": "Vício em bets faz procura por atendimento médico e psicológico aumentar em 104% no Brasil; quais são os tratamentos mais eficazes? - O GLOBO",
+      "id": "be41f4831280",
+      "title": "Vício em bets faz procura por atendimento médico e psicológico aumentar em 104% no Brasil; quais são os tratamentos mais eficazes? - oglobo.globo.com",
       "published": "2026-09-12T07:30:00+00:00",
-      "summary": "Vício em bets faz procura por atendimento médico e psicológico aumentar em 104% no Brasil; quais são os tratamentos mais eficazes?&nbsp;&nbsp;O GLOBO",
+      "summary": "Vício em bets faz procura por atendimento médico e psicológico aumentar em 104% no Brasil; quais são os tratamentos mais eficazes?&nbsp;&nbsp;oglobo.globo.com",
       "sources": [
         {
-          "name": "O GLOBO",
+          "name": "oglobo.globo.com",
           "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNeEpNWFBfUFFRQ0xWb0RSS2RPa1oxU3ZGdFAwMC1leEVySzU1M3FTZnNMZWdvS0FRMXNxbkh3NUdySlZBWW5vS21xRjdwRVdodGRBOTJBZnkxdUVLdGJsRlVuM3BQWWYxVXpIMjVqQjNzZ0JqTWVWYUlXclFkamwzUFNtdnRrVHlkWmY4R2V5U3FyMWxRMXZCTjROdk9tYVQwVmVlRjMwTlpxakxCd0NSNUl0eGhVSjhIM0Y3WjgxM2ZtWFhzalpITHRpZHZKM3BzdVpNa3pOUDFlemY2VHJtaWt0SXRCZEI0NkJhOWlQV0gyME9MR2tzOXNFRld5c08xdTZhLVdVQWgtZm50NzIyMlNmb2Y4M2JSMEHSAagCQVVfeXFMTmJrazFMekM1QXlNcndVYVFuaGRhN0ZDQ3AwdDQyNkJXbFdnS0NGWVZxUkdZcUxwV2RxTmlWSnlUbmpNb2pkQjI0ZmFySXhaSDJ3ODRiYjl6Y1AtRlRrNzJoMmhRNllCVXhkVXJjdnFYTlB6cmdpdzBZY3lYM0YzUmp3MmNqQ0xVMlJLUHdVdWYwYU1HU1ZyQnpMbEg2NEwzQVM4YlpJaHpkVzhoSG4tTjVPdlBxOUpTTlF5ZjJIR3Z5V091dW9fR1ZscWRBWjdNNS1aWkZVelRsQVhmZ1V4TTduMFFabDRVZXdiM1BuVDBmSlFKWmdJT0VDOVppaHRlMEZTaWNXSkhNWFJHM2t2RGxuVHRsNU9YYVZmYzRzeVRFR3JaZGk0eEM?oc=5"
         }
       ]
@@ -174,14 +174,38 @@
       ]
     },
     {
-      "id": "906b7a2e7f9c",
-      "title": "Estudo de Harvard aponta que características do baço podem indicar risco de doença cardíaca - O GLOBO",
-      "published": "2026-09-12T06:00:00+00:00",
-      "summary": "Estudo de Harvard aponta que características do baço podem indicar risco de doença cardíaca&nbsp;&nbsp;O GLOBO",
+      "id": "a478f2fd3e46",
+      "title": "Como uma polipílula brasileira pode ajudar a prevenir o AVC e a demência - CNN Brasil",
+      "published": "2026-09-12T06:34:34+00:00",
+      "summary": "Como uma polipílula brasileira pode ajudar a prevenir o AVC e a demência&nbsp;&nbsp;CNN BrasilEstudo nacional recruta participantes em São Paulo para avaliar polipílula desenvolvida no Brasil para…&nbsp;&nbsp;gazetadasemana.com.brHC de Ribeirão Preto busca voluntários para pesquisa inédita sobre prevenção de AVC&nbsp;&nbsp;G1Pesquisa sobre AVC busca voluntários para testar combinação de medicamentos&nbsp;&nbsp;R7HC de Ribeirão Preto recruta voluntários para pesquisa com polipílula contra AVC&nbs",
       "sources": [
         {
-          "name": "O GLOBO",
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSkdGdy1tYkFvYjVDR1RCcWdwWC1NVlVablA1UXBuc1ZacFFJTk52Q09aZ2luR0hMX0dVMDZUTUVyZ3AyNXlJdTNoejVpSkpWdExZelhMbFBSZVlnRldCQzJRc0NOWFI5S2lXRjhmaWxnLTJXeVVVMXRRVi1YOThaSW1WcGwwWlRjYlMydEdObUV5eGYwR1MyWS05Q2E0TUtOcTZlVjVxRkFwOE0x?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bf965536536f",
+      "title": "Estudo de Harvard aponta que características do baço podem indicar risco de doença cardíaca - oglobo.globo.com",
+      "published": "2026-09-12T06:00:00+00:00",
+      "summary": "Estudo de Harvard aponta que características do baço podem indicar risco de doença cardíaca&nbsp;&nbsp;oglobo.globo.com",
+      "sources": [
+        {
+          "name": "oglobo.globo.com",
           "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZVZybzRsY2hKaUF4aHozcVB4ZFFJaGxwbWNQYlNjTC1OZlBac2JaUl9USTdJT0tFQ010Z0hzX2tzZF9wTUZMTWhFNUxBczVDcWY3eGljNGxXNDhjcmVxQzNrbm9OUm9LN2wzajIyY3NJQ0JzSzdYTGJBSFpmZHlLTTdkM0VPWXR2XzU3TDVCdFBadEJoMFFEU0EteVI0TjNvT0NuM054Qzkxd204M2RPWmdpRnlidU5CYktPcDZtVExfUmd0Y09ucEJzTWZmUlQwZVgxN1VjSmZwMUFsS1E3dNIB7wFBVV95cUxOUnRneU5uSkdiN2NTNk5kSUJxQWVUV3VGY1JBRk42M0NQYVdMMmt3dDhoTV9SMDlYVEdUMmhycTl2Ym01MDNhN0VfUTVUUW45NjBxbGdkbU9lMVFDcXVUeHlPVlJQZlVxY0MtTWZHTGRGWXIzeHlkQ2F6c0gyY2dhOEZVME96OE0tcDJMNFcwN2poUkJULXZwaUhWVjY3UXlpdXYtb2ZtczRHRThETWluSE5IT2JEVWo4aG5uNm5pdGZicEVaeHEtYklGU3gwODFNZEQ1a2tiNHNDR3g1Zm1SZHJNbFdqX1F1Ql9uWjBJYw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "49f42ecaf731",
+      "title": "Homem faz teste genético por saúde aos 45 anos e descobre irmãos biológicos - Metrópoles",
+      "published": "2026-09-12T05:00:00+00:00",
+      "summary": "Homem faz teste genético por saúde aos 45 anos e descobre irmãos biológicos&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONmwzd0hOQ0Zzd2FaMW1BYmJMeGdVcHpDNjNpRWcxSlhXWGNKanAzalRCMEVmdHJwWmd5V2RaRzZsTU9qZmxCVTFLRVlnakt4N3dJWTZYNV8xNHRvQUFreDNVYnp3VmZmX1ZnLW9raWVsZUdDbk10QjYyamQ4ZVptVWhuenRPWjV3b01KLUNuRUtRaUY3OUZZZXRpVVYtdkktOEVDWTcyN1JjaVZo?oc=5"
         }
       ]
     },
@@ -201,23 +225,11 @@
       "id": "2abdb0907461",
       "title": "Como as canetas emagrecedoras já impactam o varejo, a indústria e os hábitos de consumo no Brasil - Estadão",
       "published": "2026-09-11T23:08:45+00:00",
-      "summary": "Como as canetas emagrecedoras já impactam o varejo, a indústria e os hábitos de consumo no Brasil&nbsp;&nbsp;Estadão‘As farmacêuticas querem que as pessoas usem as canetas para sempre, mas elas não são a cura da obesidade’&nbsp;&nbsp;VEJA\"Revolução metabólica\" alerta sobre uso indiscriminado das canetas emagrecedoras&nbsp;&nbsp;G1Canetas para emagrecer exigem mudança de hábitos para manter efeito&nbsp;&nbsp;Folha de S.PauloPor que não adianta usar canetas emagrecedoras sem mudar o estilo de vida",
+      "summary": "Como as canetas emagrecedoras já impactam o varejo, a indústria e os hábitos de consumo no Brasil&nbsp;&nbsp;EstadãoPediatras alertam para uso de canetas emagrecedoras&nbsp;&nbsp;G1Canetas para emagrecer exigem mudança de hábitos para manter efeito&nbsp;&nbsp;Folha de S.PauloRosto mudou depois de perder muito peso? Entenda por que isso pode acontecer&nbsp;&nbsp;catracalivre.com.br‘As farmacêuticas querem que as pessoas usem as canetas para sempre, mas elas não são a cura da obesidade’&nbsp;&nbsp",
       "sources": [
         {
           "name": "Estadão",
           "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPLWExWEdKb2RSaEJySl9Ea282TF8xRTU2Y2JTdUdocDZ2dXpsZmhLTnBIeWVlYzMxY1Z1aHJvUXhPRng1aURtS2J4elZTcEdINnc4d3BhZnpLc21CWUlaTUpBMmc2XzF3TUpvQVZFajVNcTVOZmFCTUtIVWlyeDdqWTFqejJwME94WjUyVjdpUVhVa0lfYUgzNmRZT1lJeVItcEREYklMOWRyVjEyRWtnMlRxNHNTdUhBekctME1mOGdwZllJaE15amdQQWw5WDh6X29ickdQZmZCamFm0gHiAUFVX3lxTE11UkQtMnMtMmlYVDdIVjNOaVNIVi00SGJuV0t0VU15bm5UQmVsM1ZMUXhWbGpCVV93VGZyXzhTTFVlZkFMOUxIQ2JoRmNLZkNVVlh0LWktRXY5by1Oc2NKVWItVjl2ekVGR0QwNDBHbVFCb2ZVZUt0aEZiVGhwR2dJcldibC1SZXBUV0hOS0M0dVNmZnRqdVphWF9tZDNHUlNNUS1lU3Z3aGc4OUtZWWN2V25sS01Sbkd5WHpQOFRZWi12OGtkN2tKUDk2Y0Z1clpYVThGbXl2WmZ1VnV2UHVweVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e40cf0ccfcba",
-      "title": "A psicologia diz que pais cujos filhos foram mais bem-sucedidos do que eles sentem uma distância que nenhum dos lados consegue explicar; Pesquisadores chamam isso de culpa pela conquista familiar, e a criança geralmente sente isso do outro lado - O Antagonista",
-      "published": "2026-09-11T22:23:00+00:00",
-      "summary": "A psicologia diz que pais cujos filhos foram mais bem-sucedidos do que eles sentem uma distância que nenhum dos lados consegue explicar; Pesquisadores chamam isso de culpa pela conquista familiar, e a criança geralmente sente isso do outro lado&nbsp;&nbsp;O Antagonista",
-      "sources": [
-        {
-          "name": "O Antagonista",
-          "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQbjFDTXlwVnN3MjBwWWJFdEE4Y19NYUpxbzgxd2Q1aEM1TlE3VkItMlNHQndJb2t6aHJVODNIeHpSakJMNHNLN3J1Tmc1Tm1peXVNajI4WDZIc1BiZXZnUWp0VHRvbHV5dlYtelA3cWZsbk5aelpDNThRa1NrSTMwQUJiV19FWE1zaXNKN1B6LWJSa3R5NGpYeTd6TjUyY1dnWVU0S1NTY0J0ZjVRNWstNmJ2ZHhPbmdqQ3FYVENmSkZUQnF0Wmg1MFVyV2ZCRWtkYm9DalIwMEFiRU82U0JZbXE2THBkRy1UQ3F0Uk1xQ1ZvR0gwcXplRlB6U0sxT0pFUTFWM21MV2hsVTNXWDRFQ3JEMzZPcFB3Wi02NHRCYXAtclB2a0VBLW5GalpHVm92ZEx3dVB6Sm5SWlFtTVpZS2VOS0EzRTl4OWZNbEw3R01hUV9IZmQ3ZG9fYnJoaVgxRFppTTQtamU?oc=5"
         }
       ]
     },
@@ -234,50 +246,14 @@
       ]
     },
     {
-      "id": "0e7adbb6930d",
-      "title": "Celine Dion volta aos palcos em Paris após hiato por doença neurológica rara - UOL",
+      "id": "ea1a21df68a8",
+      "title": "Celine Dion volta aos palcos em Paris após hiato por doença neurológica rara - uol.com.br",
       "published": "2026-09-11T17:51:56+00:00",
-      "summary": "Celine Dion volta aos palcos em Paris após hiato por doença neurológica rara&nbsp;&nbsp;UOL",
+      "summary": "Celine Dion volta aos palcos em Paris após hiato por doença neurológica rara&nbsp;&nbsp;uol.com.br",
       "sources": [
         {
-          "name": "UOL",
+          "name": "uol.com.br",
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQV2JxalNocDlnVGdfQzJfY1p6QnpkUHdZSU5QTEZ5OGZWUmRYcktnbHBfODRRaW10ZkpRQXR4Ni1HVG1DVVZ2UVA3TjZad1RqVUJReXFVeDNVWG84QnVpR1VuYVQ5YUZ6ek45Sk1tQWVlc3dHOHpxRHV5djJuN1FNTnVjNmN6OEpIRFQtTER2TmRHUWZjdk9nNm5paG0yczVtVWloNkV2NDhUWDZPZ0Q5bW5NWVR6Vm83TVpLV1RQLXR5eUNKRzA3ODhvYVB0WDAwaVdvN19pdDZhX3M?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8b69f6510135",
-      "title": "Técnico do Senai Cimatec que opera a planta piloto de Camaçari tirou o primeiro concentrado de terras raras do depósito Monte Alto, com o instituto bancando 59% do custo da etapa seguinte - CPG Click Petróleo e Gás",
-      "published": "2026-09-11T16:04:00+00:00",
-      "summary": "Técnico do Senai Cimatec que opera a planta piloto de Camaçari tirou o primeiro concentrado de terras raras do depósito Monte Alto, com o instituto bancando 59% do custo da etapa seguinte&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUWE4ckg5dWJYUFNWUTZPeWlsWlowR1hGdnRxaG5ac19hTkxlNFdFbGJELXlHVnUyUnNyc2RKc1NuaVZFVEZNZk91c2ZvZi1SblFTeUItaTZqZDZPSVVFUTdJc0NVNjRWaWJINmF0SW1IV3h1b0FRa1oxNlQ0TDZaQ2hHbFdzbjVBQzNFVjJNMjdPQXFOblJUdllBOF9FcUdLR0ZaV3hPOE14OW5o?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "894aefa73466",
-      "title": "O âmbar mais antigo do mundo tem 385 milhões de anos e foi encontrado em carvão. A descoberta recua em 65 milhões de anos a história conhecida da resina produzida pelas primeiras plantas - tupi.fm",
-      "published": "2026-09-11T15:51:24+00:00",
-      "summary": "O âmbar mais antigo do mundo tem 385 milhões de anos e foi encontrado em carvão. A descoberta recua em 65 milhões de anos a história conhecida da resina produzida pelas primeiras plantas&nbsp;&nbsp;tupi.fm",
-      "sources": [
-        {
-          "name": "tupi.fm",
-          "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQVy1PVGZuaHZ6WElnRmpHVGpFWFp2TnU3MHZKOUV1Qk9aTHFjb3hDc0JzeVRhWW9lUWVzS0RtUTZnbmN1YVo3NHpwcU9ZTFJXSVhlQ2xZaGJvSUxWaE54VV9KMEd5Sm9sWGVpc2pQMFV4clNIT3l6WXlOeXB2YTNCMmdPRkpzNFBGY3pmcUlxYjRVUnRFYVRpdWhPeEJDbUxUVlhqZmNndVAtSXZINV9WMzhoU2wtQnN6THl1bFJER1EzWTJtT2Frakx4V2F2YXJnM2laaXNQZXQ2MmhIckNBSHllelllTkdWb1VLYjVnTEh1YVFXcVFFU3hPcjZkYkliV3dmT2dIZ0Jjc2k0RVRtZ2hNQmI4aGRUNmdUNTFGVEpBSnZhMndCaVlVVXl6U0lEcG9IdTZVMA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "93b7f708de6c",
-      "title": "Plano de saúde terá que cobrir mamografia digital sem restrição de idade e de gênero - Folha de S.Paulo",
-      "published": "2026-09-11T15:14:00+00:00",
-      "summary": "Plano de saúde terá que cobrir mamografia digital sem restrição de idade e de gênero&nbsp;&nbsp;Folha de S.PauloANS amplia cobertura de mamografia digital nos planos de saúde&nbsp;&nbsp;Correio BraziliensePlano de saúde terá que cobrir mamografia digital para todas as idades&nbsp;&nbsp;Extra onlineMamografia sem faixa etária (novo episódio)&nbsp;&nbsp;Portal da Câmara dos DeputadosPlanos de saúde vão cobrir mamografia sem restrição de idade; saiba mais&nbsp;&nbsp;Tribuna Online",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbWk4NFBSSzN0elN6X3RnUEw4c05SNGk5cHNEU1N0SkcyZjJ2Mm0tZ0x3TkVBVmRFV1MwaGhiNXByblpDR0pSZEV4NWtyd3VzZ1dJZllKUl84MnByUFhBektnRVhPSWh5YUg4eVZNQ2lUS2JLNGJWbEptWWNlcl9GUnM2dkpiYzRkX2h1YnphUDdRZVhOSmJhSjFlbTBYbTJaekJhM2xFdkdKM290RTRoM0ZtSV9ncFd5NzJrYXNBclFFbTA?oc=5"
         }
       ]
     },
@@ -285,7 +261,7 @@
       "id": "cb9ec8954577",
       "title": "Cérebro passa por mudanças semelhantes na menarca e na gestação, mas não na menopausa - Medscape",
       "published": "2026-09-11T12:59:42+00:00",
-      "summary": "Cérebro passa por mudanças semelhantes na menarca e na gestação, mas não na menopausa&nbsp;&nbsp;MedscapeEntrar cedo na menopausa pode afetar envelhecimento do cérebro, indica estudo&nbsp;&nbsp;Folha de S.PauloMulheres que entram na menopausa precocemente têm envelhecimento cerebral mais rápido e diagnóstico de Alzheimer mais jovens; entenda&nbsp;&nbsp;O GLOBOMenopausa muda o cérebro de forma diferente da puberdade e gravidez&nbsp;&nbsp;Correio BrazilienseMenopausa precoce está ligada a uma memó",
+      "summary": "Cérebro passa por mudanças semelhantes na menarca e na gestação, mas não na menopausa&nbsp;&nbsp;MedscapeEntrar cedo na menopausa pode afetar envelhecimento do cérebro, indica estudo&nbsp;&nbsp;Folha de S.PauloMulheres que entram na menopausa precocemente têm envelhecimento cerebral mais rápido e diagnóstico de Alzheimer mais jovens; entenda&nbsp;&nbsp;oglobo.globo.comMenopausa muda o cérebro de forma diferente da puberdade e gravidez&nbsp;&nbsp;Correio BrazilienseEstudo liga menopausa precoce a",
       "sources": [
         {
           "name": "Medscape",
@@ -306,18 +282,6 @@
       ]
     },
     {
-      "id": "0320bc4a5599",
-      "title": "Vila Medeiros lidera casos de sarampo na cidade de São Paulo; veja lista - UOL Notícias",
-      "published": "2026-09-11T12:46:16+00:00",
-      "summary": "Vila Medeiros lidera casos de sarampo na cidade de São Paulo; veja lista&nbsp;&nbsp;UOL NotíciasSarampo se espalha por oito distritos do município de São Paulo&nbsp;&nbsp;Folha de S.PauloCasos de sarampo sobem para 32 no estado de SP; bebê de 6 meses está entre novos infectados&nbsp;&nbsp;G1Vacinação contra sarampo em SP: saiba quem deve se vacinar e quantas doses são necessárias&nbsp;&nbsp;agenciasp.sp.gov.brCidade de SP registra 29 casos de sarampo em oito distritos; veja onde&nbsp;&nbsp;Estad",
-      "sources": [
-        {
-          "name": "UOL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWGFxZE82MjdDWnhXV1NGWTcxeF9PSmIzTUNVSy1halNXMk02bjhPeGY0RGFhTk45V3BPTHBMTEVLeFZHaUdEdjdOeW5QRU54djFtd2dnU0cxeGhHN1EtUUo2bWY1RGI5WTVNdWtPUzhfcG8zZnVBeUx4cU1QdGhsSFA1cDA1ajBMRHVtdEJSOGhBSVpmd2pfcXI3aFNFbFUxcmRoVUdWLVR0QQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b87f0e876b4e",
       "title": "De diagnóstico devastador ao ZERO TUMOR: o caso que está chocando a ciência - Rádio Itatiaia",
       "published": "2026-09-11T12:35:12+00:00",
@@ -330,74 +294,38 @@
       ]
     },
     {
-      "id": "1eb632921ac3",
-      "title": "Lúcia Helena: Infarto: risco é maior no idoso que pegou o vírus 'mais leve' da covid-19 - UOL",
+      "id": "be7e48701f92",
+      "title": "Lúcia Helena: Infarto: risco é maior no idoso que pegou o vírus 'mais leve' da covid-19 - uol.com.br",
       "published": "2026-09-11T12:30:00+00:00",
-      "summary": "Lúcia Helena: Infarto: risco é maior no idoso que pegou o vírus 'mais leve' da covid-19&nbsp;&nbsp;UOL",
+      "summary": "Lúcia Helena: Infarto: risco é maior no idoso que pegou o vírus 'mais leve' da covid-19&nbsp;&nbsp;uol.com.br",
       "sources": [
         {
-          "name": "UOL",
+          "name": "uol.com.br",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZ19feHE0S0hwSVo0WFRBendpNmFLU1lzRVRQRTVSWkdwOXdmY01UOTBrS2JIZEE1MTV3eGFxV1ZZODJyT1R1bUxPZHRjVkNsalVmN1NIMWNoZ3V2X0V6Rl83RDFLWFM2dGhPZmJudXpJSHltOTdaUEJkZ0lpS3FBd1lBRlFLWWZMSFVybjhwVndGSGxuQS10OGlnclRBVWdJRVJGR2RvUVU1cnJQX2tlb0s2RjlOSzJpelVyQllmaTRrenBGMlBoaW03NkpQX1hhcXlr?oc=5"
         }
       ]
     },
     {
-      "id": "6b6c024e1062",
-      "title": "Avanço da inteligência artificial ou ‘roubo’ de pesquisa acadêmica? - O GLOBO",
+      "id": "d2be09d356e1",
+      "title": "Avanço da inteligência artificial ou ‘roubo’ de pesquisa acadêmica? - oglobo.globo.com",
       "published": "2026-09-11T10:10:54+00:00",
-      "summary": "Avanço da inteligência artificial ou ‘roubo’ de pesquisa acadêmica?&nbsp;&nbsp;O GLOBO",
+      "summary": "Avanço da inteligência artificial ou ‘roubo’ de pesquisa acadêmica?&nbsp;&nbsp;oglobo.globo.com",
       "sources": [
         {
-          "name": "O GLOBO",
+          "name": "oglobo.globo.com",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVFpPUFdlMU9ieWFmLW5wSzkyZ2ZBQ1dwQUdwNE53c09IR3BIMGh6RWtHZXZfeFo1cFgwY2tLM2dZc0Y2NUFQd2d0TkhabXhGdXpKejYtU0E5cTdxdFRQdzFTOXpaWEJGSFU2dXFVQzZQWmpWZVZjNnAzYTE0ZGtzSjVEQThaN3J3UW1Oa0NLdVM1UVFFYU1rY3BKdXU0Y0VLYXBGXzQwNXFONVhZSkt0by1ER1ZOV2w2cDVrcW53cjFnUmVWYnlNNWNmdzRNUGvSAd4BQVVfeXFMTUE3cUpLUTQxS0N1N0xHNl9BbjgzSXpnOGFWS2EwWkFnUFUzbHg0VjA4dVoyTDBwYk1yRjlUS2M4UDQ3UnhMYkpwWW1XMTE4MTV3YzMzQzZNTXdEd2Q3VmZZMDhpaEROODlPcy00Z29Tbnh6UEVxMlNYZEZHYW41bXl4eGxnZTdadmtILXJ5dmRNTWl1ZTV5TEFBb0R4THhOaGZBX2xTTXlvYjJHblJyRmxKTFBSNkpjcDRNMlhWYnlwMl9yeU44c3MtQy12c1dCcHcwcGpYdUtteFBRNE5n?oc=5"
         }
       ]
     },
     {
-      "id": "a391a4eb5960",
-      "title": "Pesquisa descobre que seres humanos usam drogas há pelo menos 25 mil anos; saiba como isso começou - G1",
-      "published": "2026-09-11T07:00:01+00:00",
-      "summary": "Pesquisa descobre que seres humanos usam drogas há pelo menos 25 mil anos; saiba como isso começou&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQV1B2TG1Pa2tNZU5sWFVJMGhfektqd05fc1ctODc4YUhJOXptdmtTWWNRT29OQTFzOEVaZUhGdjVBdXZfdWhhaWFWblN1djlQVV9NZFBWSDk4SDNwRnZqblRuZndNYjZOSFJnRUIwLUdaWEs1S1p6eVpsZHdIVnFOV3lTY3ZlV3VRVmQxUlhhYVZ1dDhUVnZBSmNEeEFRWXJJQkRHZnRtT2tJdU1Ob3FmSDZFVWowMlpneXZNdlhzU2RKYzBsYWpDUWMyN1RKLS1LVlFfbVMzOHVDX2VJcVhndl9MVUJhZ9IB9AFBVV95cUxQaFJsWjBFZER6WmlUTFZxWjNmSWZiYWhqS2dVamNpdlNRaHdhQjBwdDIwYW1sUWx1ekl2bWxKNHNzcUF3UG5qR2pPTTNDT1dLTjdVYmpUZlJrVk55aVVZYmt4dF9jSDg4Y25PbXJweGdpemNERGhYT2ttLV9yZkZzMzBJQm81WXJqclZXcElMMVptaWsxUW1mbVY1U2ViMXE1WkVHX2ZKaGFJMTdSSFpmUy10emV4SnU4a2ZOdHNCOWVPemtfajd3QmNRRTZyWk9LLTREY2VsM2tSczM3RjV5cnhvYW13OVh6ZWlfUl9fQ0xtQmNZ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e0dae685f3eb",
-      "title": "O que é o vírus do Nilo, que provocou 41 mortes na Itália e já chegou ao Brasil - O GLOBO",
+      "id": "4cd6b096c727",
+      "title": "O que é o vírus do Nilo, que provocou 41 mortes na Itália e já chegou ao Brasil - oglobo.globo.com",
       "published": "2026-09-11T06:00:00+00:00",
-      "summary": "O que é o vírus do Nilo, que provocou 41 mortes na Itália e já chegou ao Brasil&nbsp;&nbsp;O GLOBOFebre do Nilo Ocidental reaparece no Brasil com quatro casos confirmados&nbsp;&nbsp;Jornal da USPVírus do Nilo Ocidental pode causar epidemia no Brasil? Infectologista responde&nbsp;&nbsp;Rádio ItatiaiaCasos de Febre do Nilo Ocidental sobem: saiba como se prevenir&nbsp;&nbsp;TerraFebre do Nilo Ocidental: Itália registra 41 mortes e 594 casos da doença&nbsp;&nbsp;VEJA",
+      "summary": "O que é o vírus do Nilo, que provocou 41 mortes na Itália e já chegou ao Brasil&nbsp;&nbsp;oglobo.globo.comFebre do Nilo Ocidental reaparece no Brasil com quatro casos confirmados&nbsp;&nbsp;Jornal da USPVírus do Nilo Ocidental pode causar epidemia no Brasil? Infectologista responde&nbsp;&nbsp;Rádio ItatiaiaCasos de Febre do Nilo Ocidental sobem: saiba como se prevenir&nbsp;&nbsp;TerraFebre do Nilo Ocidental: Itália registra 41 mortes e 594 casos da doença&nbsp;&nbsp;VEJA",
       "sources": [
         {
-          "name": "O GLOBO",
+          "name": "oglobo.globo.com",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZTVNZk1JazNVUjRBR3VRejV4bDA3TE9qOXdOQU1EMURVR1ZJTFU4ejFzeGZYY2pkYV9CRXlTVFFKV0oxNGZUUXNncGM2OWJGNDU3NnFMWFZleXptcUlwSURhTXBxTzAwcUI0TGFWUHN0VTA0Q0VmYTVDUy1FRE80MXBiN0RGVWRza3FlS3A1bU9UT19nR2ttcXdKdkxCMUd6ZXo1NFZKaURsWmJqQmdmWWF0Z1hIUnBrUmlkczEzVzZOZFZOdnpjc3lNOGw5aFnSAd4BQVVfeXFMTWtBV09PdjNhNlJvYW52TGJFOF9pNE5saTdmN1FTd2FfaENSN1FnZjdEZmZXZnpiV1dsZHVvTVdHYVd0WDFtLUlyZ3hOd3FtdmV5aFpGWDJ3OEpKM3FpMW1MZUFScTI5bGRITXJ5Vk1OMzZpYzgwQk1sOGZ0VjRlbU5wNXAtTGY5YmlSS3NkejlLaUdsbmdXWU5XbUhVMVAyOG8xMDFTQlRQV2VEdEdRdmdkZUhmc2dZNkJsUU9pY1p5YVEzWGZoSktkbnNIOGRIdUt4S3lsUkpaNmVyYmNn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cea533c935e7",
-      "title": "Byung-Chul Han, filósofo: “A felicidade vem do trabalho manual. Sem as mãos, não há felicidade, nem pensamento, nem ação” - Minha Vida Saúde",
-      "published": "2026-09-10T21:21:46+00:00",
-      "summary": "Byung-Chul Han, filósofo: “A felicidade vem do trabalho manual. Sem as mãos, não há felicidade, nem pensamento, nem ação”&nbsp;&nbsp;Minha Vida Saúde",
-      "sources": [
-        {
-          "name": "Minha Vida Saúde",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Fd2cxOHE5RU1GaV92VW8zWnVSOWtBQkJoSlBBVkNtS2lyel9JWVFHSF8wVE52ZDJBUkR0T21PVVU1REFNMnpscndfOGJoa2RFVkxSNDUxWEhHNVMwaDNQV9IBZkFVX3lxTE9LNmFQTGdWbTgwNjhSVzZFdk9wQ3N2emllNDFOOVUtOVJMcDdzVHJhb0VXU3BOVTdLNUJQX2xhN2lKNU9MQjY1WTZBNWlqVnNTeFdqR2FIbkcybVhMOWRxQmlpWUcyQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3f6d835915bf",
-      "title": "O risco oculto para o seu coração ao dormir em ambientes com pouca luz - CNN Brasil",
-      "published": "2026-09-10T19:50:57+00:00",
-      "summary": "O risco oculto para o seu coração ao dormir em ambientes com pouca luz&nbsp;&nbsp;CNN BrasilFicar exposto a luz excessiva à noite pode alterar funcionamento do coração&nbsp;&nbsp;GloboDormir com as luzes acesas ou apagadas? Uma nova pesquisa tem a resposta.&nbsp;&nbsp;vietnam.vnExposição à luz à noite pode prejudicar estrutura e função do coração&nbsp;&nbsp;Correio BrazilienseDormir com luz no quarto pode esconder risco para a saúde do coração, revela estudo&nbsp;&nbsp;Jornal da Franca",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWGVRRDZPVDExbXJHQW9yMUZtM2llcWhhTGFCcGlCTjhlTG5xZVNSTy1BdXZPWWpsaF9qbmUySFpqLVoyZjRJenJNcFoyM3pnYVcyQTNJQlNFMkcyeHcwWGpMTzRxM0s1bW1FRUU3Sm5iN0VWT2VOWEU1ZWtBc2JsMGpmZVJPT1N4ckFmcEdma1B4NTBMTFRzU01aWFp4OFBub1hKeGV2ZlBDUQ?oc=5"
         }
       ]
     },
@@ -414,37 +342,25 @@
       ]
     },
     {
-      "id": "53ad5c8d1ad4",
-      "title": "É mais fácil engolir comprimidos com água se você inclinar a cabeça para baixo; entenda técnica - CNN Brasil",
-      "published": "2026-09-10T15:14:42+00:00",
-      "summary": "É mais fácil engolir comprimidos com água se você inclinar a cabeça para baixo; entenda técnica&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSHFFYkIyWF9NUGxJcUt6SlpwbWlNbnNhb2hqd0owMEpkeW9TaGViY0pUQm4xbHRudk9mTFJnaHA5bFlMLXdlcU92M1Bwem9uUFRLa1FfcllpNl8wajVDb2o3N29vRGNLd2hiZ3J5ZVdOVXg1cnMtVS1KRmZiT1ExNWVxT1ZzQnlmeklNR2NTUHJQSmNEVFFGdnZ2aXZWRzVZYzdDU0JCQWR1REkwX0Q4WWU0bXBaaW53WTRGNFNTTUx0WDVNYnhWems1VmpQam5ycTRn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3abc6b41deb3",
-      "title": "Anvisa aprova vacina contra meningite para bebês a partir de 6 semanas - UOL",
+      "id": "390fe8b74049",
+      "title": "Anvisa aprova vacina contra meningite para bebês a partir de 6 semanas - uol.com.br",
       "published": "2026-09-10T12:34:52+00:00",
-      "summary": "Anvisa aprova vacina contra meningite para bebês a partir de 6 semanas&nbsp;&nbsp;UOLAnvisa aprova indicação de uma vacina contra meningite para bebês com 6 semanas&nbsp;&nbsp;G1Vacinação contra meningite em BH: saiba como proteger bebês e adolescentes&nbsp;&nbsp;Portal UAIMeningite: vacinação é a principal forma de prevenção contra a forma mais grave da doença&nbsp;&nbsp;Estadão Blue StudioAnvisa autoriza ampliação de uso de vacina contra meningite para bebês a partir de 6 semanas&nbsp;&nbsp;VE",
+      "summary": "Anvisa aprova vacina contra meningite para bebês a partir de 6 semanas&nbsp;&nbsp;uol.com.brAnvisa aprova indicação de uma vacina contra meningite para bebês com 6 semanas&nbsp;&nbsp;G1Vacinação contra meningite em BH: saiba como proteger bebês e adolescentes&nbsp;&nbsp;Portal UAIMeningite: vacinação é a principal forma de prevenção contra a forma mais grave da doença&nbsp;&nbsp;Estadão Blue StudioAnvisa autoriza ampliação de uso de vacina contra meningite para bebês a partir de 6 semanas&nbsp;&",
       "sources": [
         {
-          "name": "UOL",
+          "name": "uol.com.br",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRG91cHBEXzlYdGxpX2FMbUNUSXlVRnBON0JFTXJBUktlazFCbWs4bnU4V0NEYUNmQlFNWUR5ZkxOQVRXR1lLazFDc0ZzRGM2WktYRHRBcFJlUWpValdrbGtJLU10YzVWSGphaGtwOXNCSnExSkEycHJuazE0Ykh1eDdwZWtqLTFTMTdrSVhqZ1k2TkpKUldnc252MUZCazkyMXRMcUpnU1prckx5WVNRTFZsOHU0ODRGR0dKeDl1ZmpWYm9DWWloN0Y3UVZwUQ?oc=5"
         }
       ]
     },
     {
-      "id": "7c978aa6059f",
-      "title": "Consumo de chá e café ‘muito quente’ triplica risco de câncer, diz estudo - ICL Notícias",
+      "id": "06a24e528e45",
+      "title": "Consumo de chá e café ‘muito quente’ triplica risco de câncer, diz estudo - iclnoticias.com.br",
       "published": "2026-09-10T08:00:00+00:00",
-      "summary": "Consumo de chá e café ‘muito quente’ triplica risco de câncer, diz estudo&nbsp;&nbsp;ICL NotíciasConsumo de bebidas muito quentes pode triplicar o risco de câncer de esôfago&nbsp;&nbsp;InfoMoneyBeber chá ou café muito quente triplica risco de câncer de esôfago, diz estudo&nbsp;&nbsp;G1Do café à carne processada: dois hábitos aparecem ligados ao risco de câncer&nbsp;&nbsp;Olhar DigitalBeber chá ou café menos quente pode reduzir risco de câncer de esôfago, sugere estudo&nbsp;&nbsp;VEJA",
+      "summary": "Consumo de chá e café ‘muito quente’ triplica risco de câncer, diz estudo&nbsp;&nbsp;iclnoticias.com.brConsumo de bebidas muito quentes pode triplicar o risco de câncer de esôfago&nbsp;&nbsp;InfoMoneyBeber chá ou café muito quente triplica risco de câncer de esôfago, diz estudo&nbsp;&nbsp;G1Do café à carne processada: dois hábitos aparecem ligados ao risco de câncer&nbsp;&nbsp;Olhar DigitalBeber chá ou café menos quente pode reduzir risco de câncer de esôfago, sugere estudo&nbsp;&nbsp;VEJA",
       "sources": [
         {
-          "name": "ICL Notícias",
+          "name": "iclnoticias.com.br",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAzelpTVzNDUjR0UTRiekhZb0RsMnNoVUswcHpTeEVjWVlEcnBHYkxKcVl0aVotMmpaMUN6X3c5R1FQQ2FodzZfUndCR0xaNllpeUZZS2VuNHU2czRhZFhPUG1jR0R6cnljY2E3QV9sQXNYQTE0SzZwX210WQ?oc=5"
         }
       ]
@@ -465,7 +381,7 @@
       "id": "ba59837ffa8a",
       "title": "Saiba quem pode, quem deve e onde se vacinar contra o pneumococo no DF - Correio Braziliense",
       "published": "2026-09-09T17:38:00+00:00",
-      "summary": "Saiba quem pode, quem deve e onde se vacinar contra o pneumococo no DF&nbsp;&nbsp;Correio BrazilienseSUS alcança mais de 1 milhão de crianças vacinadas contra doenças pneumocócicas — Ministério da Saúde&nbsp;&nbsp;www.gov.brSUS vacina mais de 1 milhão de crianças com Pneumo 20&nbsp;&nbsp;Imirante.comMinistro celebra em Minas 1 milhão de crianças vacinadas com a Pneumo 20&nbsp;&nbsp;Estado de MinasO Ministério da Saúde está a instar a acelerar o processo de inclusão do lote da vacina pneumocócica",
+      "summary": "Saiba quem pode, quem deve e onde se vacinar contra o pneumococo no DF&nbsp;&nbsp;Correio BrazilienseSUS vacina mais de 1 milhão de crianças com Pneumo 20&nbsp;&nbsp;Folha PESUS alcança mais de 1 milhão de crianças vacinadas contra doenças pneumocócicas — Ministério da Saúde&nbsp;&nbsp;www.gov.brMinistro celebra em Minas 1 milhão de crianças vacinadas com a Pneumo 20&nbsp;&nbsp;Estado de MinasSUS ultrapassa marca de 1 milhão de crianças vacinadas com a Pneumo 20&nbsp;&nbsp;Fato Paulista",
       "sources": [
         {
           "name": "Correio Braziliense",

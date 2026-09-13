@@ -1,69 +1,35 @@
 {
-  "generated": "2026-09-12T20:18:12.613968+00:00",
-  "count": 45,
+  "generated": "2026-09-13T03:46:45.168333+00:00",
+  "count": 43,
   "news": [
     {
-      "id": "a478f2fd3e46",
-      "title": "Como uma polipílula brasileira pode ajudar a prevenir o AVC e a demência - CNN Brasil",
-      "published": "2026-09-12T18:23:38+00:00",
+      "id": "aa28b39a6ca2",
+      "title": "Especialistas em psicologia afirmam: \"Quem sempre empurra a cadeira de volta para a mesa pode não estar só sendo gentil, mas demonstrando cuidado com o espaço compartilhado\" - Super Rádio Tupi",
+      "published": "2026-09-13T00:09:34+00:00",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSkdGdy1tYkFvYjVDR1RCcWdwWC1NVlVablA1UXBuc1ZacFFJTk52Q09aZ2luR0hMX0dVMDZUTUVyZ3AyNXlJdTNoejVpSkpWdExZelhMbFBSZVlnRldCQzJRc0NOWFI5S2lXRjhmaWxnLTJXeVVVMXRRVi1YOThaSW1WcGwwWlRjYlMydEdObUV5eGYwR1MyWS05Q2E0TUtOcTZlVjVxRkFwOE0x?oc=5"
+          "name": "Super Rádio Tupi",
+          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPTlJwRFdCSTZ6dlZnYlA2V3NuZGVzSlNiYVoydGdqRXRDbTV2M3pRTGJLN3dGQkFuVXdxeDdJa1NvZFB0Sm5qWG50WHJteEF4dW5YRURTcHZrZlhsQUJ2Q0JHR1d3OWV2MmtaSlZCTlJnS0dibGlHSjlCaW5jV3o2WGtlYTZOQ080WnJ6MGpuZk1VT2hyMnViblUwME0wS1dJRGYxTkQ0V0NmU3lDNjF3MXF0ZjQ0SFU3dEQzc2RDZzB3RV9DeVBWd0kzNXdoZUlQLWpna0RTenNheXFNb1lsLWVpOE9CbkxvV0FoQl9TRlFQMk0tdkNsWVg2Y1MzVXhmOXI0Z0QteVBYSUV3dS1JVm1PUnJHVDl4Q0FFSG16UWtQcjdoRHhMNVB3T3ZQQQ?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        },
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "AVC",
-          "related_drugs": [
-            {
-              "slug": "digoxin",
-              "name": "DIGOXIN"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "demência",
-          "related_drugs": [
-            {
-              "slug": "biperiden",
-              "name": "Biperiden"
-            },
-            {
-              "slug": "entacapone",
-              "name": "ENTACAPONE"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "albendazole",
-              "name": "Albendazole"
-            }
-          ]
+          "slug": "tadalafil",
+          "keyword": "CIALIS",
+          "name": "TADALAFIL",
+          "url": "/drugs/tadalafil/"
         }
       ]
     },
     {
-      "id": "bc69166458fe",
-      "title": "Amamentação: o que muda no corpo da mãe durante e até depois",
-      "published": "2026-09-12T15:00:00+00:00",
+      "id": "e8ff55470149",
+      "title": "Cientistas analisam dados de mais de 60 anos e fazem alerta grave sobre fenômeno que pode \"mudar\" o Brasil até 2100 - Diário do Comércio",
+      "published": "2026-09-12T21:01:00+00:00",
       "sources": [
         {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRnZudFpicWI2WmdaRVptUTZEcjVLbUQtc1E5SUR5bXpWYVlLSnhFYnE5QmYwRTZZeVpBRU5XbWNtRVNjVll3RU9xYjU3Vmk3R0NYMHItMWd4emJmZ2N5T3p5dFRlY1J4VGdub3hSVGpXN0pqb2NGLVE2NGtGOC1Md2JNMng1UzRfUHFCS0dFazNCQzF6bW1Pb20tUkFKUG95TXk4YzhPYUlTaW9lVDhNR21GTlRDdjVnNENGc2h0SQ?oc=5"
+          "name": "Diário do Comércio",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaG1vSjhTc3o1YWJ4VHNJa0pmVmZsbERyYXdqVWh2d3RfVlhMbU1qLUFrZHA0aTFHZTlkNW80VUNzMEd6dmJPNWE1RkZTRllKMGVJN1BJV3JHWm5CNTllRHFHdC1MTmk3ay02Z1prd0lMLUlCMlFnSmoxRnFNSVJES29RdWxyYWxuel8tbmF2OVNyLXVaM19mZ3JxcWtQSk5kU1NpYjY3ZGZMSVZjaEhvVGUwSTVKTGd1MGljMFM2eldkejFndXVWcUx6M3Awbkhfa2NYV1RTRno2Tm1EU0dwV00wR2I?oc=5"
         }
       ],
       "keywords": [
@@ -73,6 +39,46 @@
           "keyword": "SIL",
           "name": "SILODOSINA",
           "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
+      "id": "88b3406d3955",
+      "title": "Cientistas descem a quase 4.000 metros da Argentina, descobrem uma água-viva do tamanho de um ônibus e cerca de 40 possíveis espécies novas - Super Rádio Tupi",
+      "published": "2026-09-12T19:56:21+00:00",
+      "sources": [
+        {
+          "name": "Super Rádio Tupi",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQNkNPUWZ1SlBUSlVaVTFZUVc2dlVQREpZWkdKYWFDUjByRVRCME80RjdyLWJjZUU5Tml4NTY3eEgwckRYb01SWTJ4ZjdmRVhxY1hXSFlhTWo4cnFucWN2V0JEclpHdkU5VXJ0bjZTRlFVQXh2OUJuTmlxQ2pva0loaDlObmZjRV8waFpMT290eGJvMWZfbnd2dGxnVU1LMHJuOXd1amthSXphcUVFcmZ4eGxqNEJiZlZUM1AwQ3Z4OXpoRVkyM0pGUFNFSm1MTWM0VWczZUVMS2NvQmhoenB1YzZaanp3NVV4cUVjN0w1MG9JOGdRb1YxaA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "levetiracetam",
+          "keyword": "TAM",
+          "name": "LEVETIRACETAM",
+          "url": "/drugs/levetiracetam/"
+        }
+      ]
+    },
+    {
+      "id": "549fc41a1de8",
+      "title": "Qual é a melhor maneira de remover cravos? Não é espremendo em casa, dizem especialistas - Folha de S.Paulo",
+      "published": "2026-09-12T15:00:00+00:00",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbXNtTE44RWJoQW5fNkpjUFRMLXJzZU1CTGVSdGx0T1FFai1mMFBwS2hFTjRVbnN0ZHBHT0FLcWl5alNMdmJ4Z1ZjY0NfMGtfaVlLejllTnByY3NyRlkzNUFLNlVfMWhJSEh1MWVSMzdTWTB6OFJzaUJuWGFLM0k0YnpsLVpvTnU4TFBkcVpWWlNEdVJkUW5zM2QtWlcxVkI4eXVVRUZiMDJLc3hOTy1FRWE2aVJlaWhteUs4VnlfaW5RSjBvQXdwaFllaWRuak9CdkU5bzIxcHg?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "tadalafil",
+          "keyword": "CIALIS",
+          "name": "TADALAFIL",
+          "url": "/drugs/tadalafil/"
         }
       ]
     },
@@ -84,6 +90,26 @@
         {
           "name": "Meteored Brasil",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNa1k0UjczZFJiTGYyYmx3WlFkcmpWZDFNU2NReHdXMl83TXNYQ2p2cmJGVDdueHlabzd2aVVGUVRWUkUxX0FBZGlrMlB5S0FCWUMzclFVSnJsQUg0ZFpndTl4bkNOQ1FMVzkySXZyMm0zQzFEMmYtOXAxWV96VHFsWkxnaEJjZTZuZDBqT2xOMTVyN0JobkF0VUpUeEVTRXBlWkV0SDZiR19HbDBTXzV6TkpHZTUxLS1LbmhfNw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
+      "id": "6accd597d528",
+      "title": "Mosassauro, um salvador?* – Heraldo Campos",
+      "published": "2026-09-12T13:24:00+00:00",
+      "sources": [
+        {
+          "name": "brasil247.com",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1tUEJFVnJZVWwzLVNBTVpZSFNCR2JmRzNRUnVqZUJCaEEzLW5GTm9oWDlhZ1JxcVlGWEpFa3ZMZ0JEUzVLNlppcjhnR0NXX2cxSXhfcWM1dlNpbU5UdVJCdnJadDA?oc=5"
         }
       ],
       "keywords": [
@@ -153,12 +179,32 @@
       ]
     },
     {
-      "id": "444d37b39466",
-      "title": "Cientistas identificam vírus no esgoto do Reino Unido que pode ser usado contra superbactéria - ICL Notícias",
+      "id": "6bc57c384683",
+      "title": "DF terá 48 locais de vacinação neste sábado (12/9); confira os endereços",
+      "published": "2026-09-12T09:30:00+00:00",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVDBSNDhTbmFheXdMcnR2Rm03aTdlVzBYdHJiTXVnajdrX19YY2NQVVZ5Z3hfdG9uOTUtSjV4YV9xZFBFYmM2WDFKX0JKMWQxV3FKR2NpZnRZSHlvNUUxUHhxV0ZrWkRCSXJtSWw3OVYyaGplZVhrLTV5MW1QVmVxdXdDcVFPOXAxbWlmNFdzcU9lTGd1UlpudG5GSklXUHQ4bE9CN3lISTZ3MHpiaG5NR3ZNTQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
+      "id": "1a21db9411c0",
+      "title": "Cientistas identificam vírus no esgoto do Reino Unido que pode ser usado contra superbactéria",
       "published": "2026-09-12T08:00:33+00:00",
       "sources": [
         {
-          "name": "ICL Notícias",
+          "name": "iclnoticias.com.br",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1MN3UxRDJIZ1F6U0JIUmRzOThaLTNjZG9zTHRTWHotU2gtWDVBTWd0RlZrcjZkVEh3dmNpWEJmT25HamNZaUVxZFNTUC1PTjNWQXRLampwalRwckpuRUNLblI4d29sck14azdwV0JaaTZZNWc?oc=5"
         }
       ],
@@ -200,40 +246,12 @@
       ]
     },
     {
-      "id": "bbe34a7daccb",
-      "title": "Quando sentir tristeza passa a ser um sinal de alerta? Psiquiatra cita dificuldade para reconhecer sentimento",
-      "published": "2026-09-12T07:58:00+00:00",
-      "sources": [
-        {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQTFJGNHM2U01KZ3QtQTFpR1dkZFdzMHczRThtd04zTzVYREROMlN4MDZqY3hIMm1PUmtBTlJVcTRMSVFaZjNXQlpmMWx0ZWYyS0dEcllzOTRhSmxBS0stRlZGZ294dk8zS3VSeU11bDBsekRXcm10UW5OWG9SOFVScHY5cDgwQ2pHWVdFRXVpb3g0NmMxOWlWZVhsZTZmUjRHZ2JnMkE2cU9HY0dKOGotM1FRN1JVeXVIX3lqVDBrazZTX2hmb0o1MV9NNlFfbTl0aENhVU1qc0pONEtZaDA2LWI0Sk5WaXYzYzR0TlhOb3dFdVJYcm9zZTFtZkNHeWl0RzZXME5mbjVWaDRtWGlGZEFZTlJkQzQ4WjN5U0tn?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "anxiety disorder",
-          "keyword": "ansiedade",
-          "related_drugs": [
-            {
-              "slug": "flunitrazepam",
-              "name": "Flunitrazepam"
-            },
-            {
-              "slug": "centella_asiatica",
-              "name": "Centella asiatica"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "a20e0ac45dcd",
-      "title": "Vício em bets faz procura por atendimento médico e psicológico aumentar em 104% no Brasil; quais são os tratamentos mais eficazes? - O GLOBO",
+      "id": "be41f4831280",
+      "title": "Vício em bets faz procura por atendimento médico e psicológico aumentar em 104% no Brasil; quais são os tratamentos mais eficazes?",
       "published": "2026-09-12T07:30:00+00:00",
       "sources": [
         {
-          "name": "O GLOBO",
+          "name": "oglobo.globo.com",
           "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNeEpNWFBfUFFRQ0xWb0RSS2RPa1oxU3ZGdFAwMC1leEVySzU1M3FTZnNMZWdvS0FRMXNxbkh3NUdySlZBWW5vS21xRjdwRVdodGRBOTJBZnkxdUVLdGJsRlVuM3BQWWYxVXpIMjVqQjNzZ0JqTWVWYUlXclFkamwzUFNtdnRrVHlkWmY4R2V5U3FyMWxRMXZCTjROdk9tYVQwVmVlRjMwTlpxakxCd0NSNUl0eGhVSjhIM0Y3WjgxM2ZtWFhzalpITHRpZHZKM3BzdVpNa3pOUDFlemY2VHJtaWt0SXRCZEI0NkJhOWlQV0gyME9MR2tzOXNFRld5c08xdTZhLVdVQWgtZm50NzIyMlNmb2Y4M2JSMEHSAagCQVVfeXFMTmJrazFMekM1QXlNcndVYVFuaGRhN0ZDQ3AwdDQyNkJXbFdnS0NGWVZxUkdZcUxwV2RxTmlWSnlUbmpNb2pkQjI0ZmFySXhaSDJ3ODRiYjl6Y1AtRlRrNzJoMmhRNllCVXhkVXJjdnFYTlB6cmdpdzBZY3lYM0YzUmp3MmNqQ0xVMlJLUHdVdWYwYU1HU1ZyQnpMbEg2NEwzQVM4YlpJaHpkVzhoSG4tTjVPdlBxOUpTTlF5ZjJIR3Z5V091dW9fR1ZscWRBWjdNNS1aWkZVelRsQVhmZ1V4TTduMFFabDRVZXdiM1BuVDBmSlFKWmdJT0VDOVppaHRlMEZTaWNXSkhNWFJHM2t2RGxuVHRsNU9YYVZmYzRzeVRFR3JaZGk0eEM?oc=5"
         }
       ],
@@ -255,12 +273,12 @@
       ]
     },
     {
-      "id": "c6beab4c7642",
-      "title": "Depois das canetas, o espelho: por que o rosto pode mudar com o emagrecimento - O GLOBO",
+      "id": "7bed5b5122e2",
+      "title": "Depois das canetas, o espelho: por que o rosto pode mudar com o emagrecimento",
       "published": "2026-09-12T06:45:00+00:00",
       "sources": [
         {
-          "name": "O GLOBO",
+          "name": "oglobo.globo.com",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQV1loc1J0MjlDM2w4TUNYcVNXOWNDSzJOSXZEdENKakgyOWpha2stZHA4cW53RmUzLVR4Nk8zLWFYajhDOFhaT2t6VHo0Mnc3S3FsYWIycm4xQjdpMkxnX0RteGtsV3lHdlAtWEV6bm1wdkZqNDV2ajM3U0x5dGNobkcwTm5IRTJjc0tGRDZ4OEppM01Gb2piOHZsQk1SZzdORF85Xy11MDdKQUZJdEZ2T1JBdjg2Q1I3RFhxQ1huRFIzWGZ3OFVHcNIB1wFBVV95cUxOdS0zYWlkcmJnTHE3SWtQdGY5VVBjc1RBNjNyZEQwb1FjcHhKdDctd2FOREN2OW1HT3BXeDhBcWdHQW52TW9CdUpBOGpwSVNXOFVfemlVVlBOX1lreFA1WHpUSFB2UlNZTzJvODJ5R3ZGUGZDNm9xRklRUGxGdkMxQkZRQzBlMGdLV1NHZEV3bUx4ckp0VUpSMGx1YlVOT3lZdHE4Vnl0cWdDS2NuVnZ6Ym9xX3JKdnI3N1FWWEc4c3NwQmg2TkN5WW9ZN1Vad01BZDFEZzl2RQ?oc=5"
         }
       ],
@@ -275,12 +293,73 @@
       ]
     },
     {
-      "id": "906b7a2e7f9c",
-      "title": "Estudo de Harvard aponta que características do baço podem indicar risco de doença cardíaca - O GLOBO",
+      "id": "a478f2fd3e46",
+      "title": "Como uma polipílula brasileira pode ajudar a prevenir o AVC e a demência - CNN Brasil",
+      "published": "2026-09-12T06:34:34+00:00",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSkdGdy1tYkFvYjVDR1RCcWdwWC1NVlVablA1UXBuc1ZacFFJTk52Q09aZ2luR0hMX0dVMDZUTUVyZ3AyNXlJdTNoejVpSkpWdExZelhMbFBSZVlnRldCQzJRc0NOWFI5S2lXRjhmaWxnLTJXeVVVMXRRVi1YOThaSW1WcGwwWlRjYlMydEdObUV5eGYwR1MyWS05Q2E0TUtOcTZlVjVxRkFwOE0x?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        },
+        {
+          "type": "drug",
+          "slug": "tadalafil",
+          "keyword": "TADA",
+          "name": "TADALAFIL",
+          "url": "/drugs/tadalafil/"
+        },
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "AVC",
+          "related_drugs": [
+            {
+              "slug": "digoxin",
+              "name": "DIGOXIN"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "demência",
+          "related_drugs": [
+            {
+              "slug": "biperiden",
+              "name": "Biperiden"
+            },
+            {
+              "slug": "entacapone",
+              "name": "ENTACAPONE"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "albendazole",
+              "name": "Albendazole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bf965536536f",
+      "title": "Estudo de Harvard aponta que características do baço podem indicar risco de doença cardíaca",
       "published": "2026-09-12T06:00:00+00:00",
       "sources": [
         {
-          "name": "O GLOBO",
+          "name": "oglobo.globo.com",
           "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZVZybzRsY2hKaUF4aHozcVB4ZFFJaGxwbWNQYlNjTC1OZlBac2JaUl9USTdJT0tFQ010Z0hzX2tzZF9wTUZMTWhFNUxBczVDcWY3eGljNGxXNDhjcmVxQzNrbm9OUm9LN2wzajIyY3NJQ0JzSzdYTGJBSFpmZHlLTTdkM0VPWXR2XzU3TDVCdFBadEJoMFFEU0EteVI0TjNvT0NuM054Qzkxd204M2RPWmdpRnlidU5CYktPcDZtVExfUmd0Y09ucEJzTWZmUlQwZVgxN1VjSmZwMUFsS1E3dNIB7wFBVV95cUxOUnRneU5uSkdiN2NTNk5kSUJxQWVUV3VGY1JBRk42M0NQYVdMMmt3dDhoTV9SMDlYVEdUMmhycTl2Ym01MDNhN0VfUTVUUW45NjBxbGdkbU9lMVFDcXVUeHlPVlJQZlVxY0MtTWZHTGRGWXIzeHlkQ2F6c0gyY2dhOEZVME96OE0tcDJMNFcwN2poUkJULXZwaUhWVjY3UXlpdXYtb2ZtczRHRThETWluSE5IT2JEVWo4aG5uNm5pdGZicEVaeHEtYklGU3gwODFNZEQ1a2tiNHNDR3g1Zm1SZHJNbFdqX1F1Ql9uWjBJYw?oc=5"
         }
       ],
@@ -455,6 +534,33 @@
       ]
     },
     {
+      "id": "49f42ecaf731",
+      "title": "Homem faz teste genético por saúde aos 45 anos e descobre irmãos biológicos",
+      "published": "2026-09-12T05:00:00+00:00",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONmwzd0hOQ0Zzd2FaMW1BYmJMeGdVcHpDNjNpRWcxSlhXWGNKanAzalRCMEVmdHJwWmd5V2RaRzZsTU9qZmxCVTFLRVlnakt4N3dJWTZYNV8xNHRvQUFreDNVYnp3VmZmX1ZnLW9raWVsZUdDbk10QjYyamQ4ZVptVWhuenRPWjV3b01KLUNuRUtRaUY3OUZZZXRpVVYtdkktOEVDWTcyN1JjaVZo?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "golimumabe",
+          "keyword": "BIO",
+          "name": "GOLIMUMABE",
+          "url": "/drugs/golimumabe/"
+        },
+        {
+          "type": "drug",
+          "slug": "etanercepte",
+          "keyword": "BIO",
+          "name": "ETANERCEPTE",
+          "url": "/drugs/etanercepte/"
+        }
+      ]
+    },
+    {
       "id": "b2829d44b6be",
       "title": "Frase do dia da Psicologia: 'Permanecer em um lugar que já não faz você crescer também é uma decisão, mesmo quando você prefere chamar isso de medo de mudar' - a reflexão inspirada em Carl Rogers - Jornal Correio",
       "published": "2026-09-12T03:30:00+00:00",
@@ -549,12 +655,12 @@
       ]
     },
     {
-      "id": "f5b794a2d2be",
-      "title": "Durante décadas, o gigante dos mares antigos foi associado a até 25 metros. Novos cálculos com fósseis mostram que seu tamanho real era bem menor",
+      "id": "5879f49eeb1d",
+      "title": "Durante décadas, o gigante dos mares antigos foi associado a até 25 metros. Novos cálculos com fósseis mostram que seu tamanho real era bem menor - Super Rádio Tupi",
       "published": "2026-09-12T01:23:15+00:00",
       "sources": [
         {
-          "name": "tupi.fm",
+          "name": "Super Rádio Tupi",
           "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPa3owNGhlcUpDZDFQTVZzMHRUaUVOOXg2TEMzODdYVkFEOWd3WDliWURkZm5Sdjk5cmxmNjBYTWZmUUw5bHNsV1B5cHgyU3dXM0VJbjJVckhRNS1aWlJyZkJnZ0hYX3BMdl9STE0ySF96WUdLMVN1bjg5UFJTVndtTFJ4by1pdVBaaEh1XzdNMVZSMmF2MnczcExqNlM1OUVEWWNXamN5dU0tSDdKUkgyVy01aUhBRWxzb1oyeGo4YktRWW1oQ0hmWC0xc2Z4N3dDdzBrbl9sdDRkSE1QYVY0bnhpdV9ibTF1NXVmNUVjT2lYXzJCNjkxZWgwcGlDekE?oc=5"
         }
       ],
@@ -606,26 +712,6 @@
           "keyword": "FAR",
           "name": "ZIDOVUDINA",
           "url": "/drugs/zidovudina/"
-        }
-      ]
-    },
-    {
-      "id": "e40cf0ccfcba",
-      "title": "A psicologia diz que pais cujos filhos foram mais bem-sucedidos do que eles sentem uma distância que nenhum dos lados consegue explicar; Pesquisadores chamam isso de culpa pela conquista familiar, e a criança geralmente sente isso do outro lado - O Antagonista",
-      "published": "2026-09-11T22:23:00+00:00",
-      "sources": [
-        {
-          "name": "O Antagonista",
-          "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQbjFDTXlwVnN3MjBwWWJFdEE4Y19NYUpxbzgxd2Q1aEM1TlE3VkItMlNHQndJb2t6aHJVODNIeHpSakJMNHNLN3J1Tmc1Tm1peXVNajI4WDZIc1BiZXZnUWp0VHRvbHV5dlYtelA3cWZsbk5aelpDNThRa1NrSTMwQUJiV19FWE1zaXNKN1B6LWJSa3R5NGpYeTd6TjUyY1dnWVU0S1NTY0J0ZjVRNWstNmJ2ZHhPbmdqQ3FYVENmSkZUQnF0Wmg1MFVyV2ZCRWtkYm9DalIwMEFiRU82U0JZbXE2THBkRy1UQ3F0Uk1xQ1ZvR0gwcXplRlB6U0sxT0pFUTFWM21MV2hsVTNXWDRFQ3JEMzZPcFB3Wi02NHRCYXAtclB2a0VBLW5GalpHVm92ZEx3dVB6Sm5SWlFtTVpZS2VOS0EzRTl4OWZNbEw3R01hUV9IZmQ3ZG9fYnJoaVgxRFppTTQtamU?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "etodolaco",
-          "keyword": "DORE",
-          "name": "ETODOLACO",
-          "url": "/drugs/etodolaco/"
         }
       ]
     },
@@ -784,12 +870,12 @@
       ]
     },
     {
-      "id": "3970ef3b137d",
+      "id": "4b88c86d1cb5",
       "title": "Suplemento de glutamina melhora resultado do treino? O que a ciência sabe",
       "published": "2026-09-11T15:00:00+00:00",
       "sources": [
         {
-          "name": "UOL",
+          "name": "uol.com.br",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZXJfTGtoUWg3VElwQ095SW1VVUNZbnJ3dzZxTHppVnI5YmRoa28xaGlfT1UzY2Z1S2l5WEQxRjNVNzNBUm1MejZTSHZjQ2NUX1FSMWM2MlYxV2FERnhtcm1ER3M3TlZLVmk2cmd1UmNYbGN4ck1sOEdwWDZRd3NfZDNMOXlpUGNmdllndnVVRkVuQnRhb1ZiRFFpOTA4XzdRd3dPWHotU0F3VWtsLUw1SU1UbW5KbTBKUlhBU0d4V1dJa0ZVMTJ6UkNHeTZ4RkU?oc=5"
         }
       ],
@@ -903,33 +989,6 @@
               "name": "Ambroxol"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "0320bc4a5599",
-      "title": "Vila Medeiros lidera casos de sarampo na cidade de São Paulo; veja lista - UOL Notícias",
-      "published": "2026-09-11T12:46:16+00:00",
-      "sources": [
-        {
-          "name": "UOL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWGFxZE82MjdDWnhXV1NGWTcxeF9PSmIzTUNVSy1halNXMk02bjhPeGY0RGFhTk45V3BPTHBMTEVLeFZHaUdEdjdOeW5QRU54djFtd2dnU0cxeGhHN1EtUUo2bWY1RGI5WTVNdWtPUzhfcG8zZnVBeUx4cU1QdGhsSFA1cDA1ajBMRHVtdEJSOGhBSVpmd2pfcXI3aFNFbFUxcmRoVUdWLVR0QQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "diazepam",
-          "keyword": "UNI",
-          "name": "Diazepam",
-          "url": "/drugs/diazepam/"
-        },
-        {
-          "type": "drug",
-          "slug": "zinc",
-          "keyword": "UNI",
-          "name": "ZINC",
-          "url": "/drugs/zinc/"
         }
       ]
     },
@@ -1326,12 +1385,12 @@
       ]
     },
     {
-      "id": "1eb632921ac3",
+      "id": "be7e48701f92",
       "title": "Lúcia Helena: Infarto: risco é maior no idoso que pegou o vírus 'mais leve' da covid-19",
       "published": "2026-09-11T12:30:00+00:00",
       "sources": [
         {
-          "name": "UOL",
+          "name": "uol.com.br",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZ19feHE0S0hwSVo0WFRBendpNmFLU1lzRVRQRTVSWkdwOXdmY01UOTBrS2JIZEE1MTV3eGFxV1ZZODJyT1R1bUxPZHRjVkNsalVmN1NIMWNoZ3V2X0V6Rl83RDFLWFM2dGhPZmJudXpJSHltOTdaUEJkZ0lpS3FBd1lBRlFLWWZMSFVybjhwVndGSGxuQS10OGlnclRBVWdJRVJGR2RvUVU1cnJQX2tlb0s2RjlOSzJpelVyQllmaTRrenBGMlBoaW03NkpQX1hhcXlr?oc=5"
         }
       ],
@@ -1376,6 +1435,26 @@
           "keyword": "SIL",
           "name": "SILODOSINA",
           "url": "/drugs/silodosina/"
+        }
+      ]
+    },
+    {
+      "id": "835bb2623a65",
+      "title": "O passado influencia nossa sexualidade, mas não define quem somos, diz especialista - O TEMPO",
+      "published": "2026-09-11T09:09:00+00:00",
+      "sources": [
+        {
+          "name": "O TEMPO",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaXRjRjJEU205bUZ0OUZWcWRCRDlfQnB1c3VWWUM4QWw1eFh5UFlsSWlWTVZod3JBSmRVeGZJdUhxUTFMZ3BPWEtQZGh5dUxlMVRGTFhLdVZudlU5V3p6MzZyR1NpMko2M1lNMUg5V0ZMNGZqYkZWaElRdnhULWlJbkMtb2V4RTJJRkpXTE5aS0dfTG9WdlBrMU1RMjNmMzdIWXczaXV6Ql9KTTF3Z2ZYUkt2amRQQTJSdXBLdGg3S0RsUnVYeXfSAcsBQVVfeXFMUFpwUW5PRTdTZld5c0I5emp6cDdmeVhaQkJKbDN4MU8yX2kyelRsWURKbWtkM1g5V1hMXzU3SjdfZXR1SnNvcDZfSHdxTk80LUd5THhXQzZaSHhqOG1vNDUtdW0zdkthUTAtbFEtY0VDeGRNa0pUeUR2blRWU0hYOUx5LWMwQjQtNlJ4VXpGeWxZaG5rVjhNQzdaWW9IRTR2eGh2emY5NHlGWlBpeXBick91VnpQY3FKT0FRd0UtMUd5cUpVZ3RtNE5ZZTg?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "tadalafil",
+          "keyword": "CIALIS",
+          "name": "TADALAFIL",
+          "url": "/drugs/tadalafil/"
         }
       ]
     },
@@ -1447,93 +1526,13 @@
       ]
     },
     {
-      "id": "e0dae685f3eb",
-      "title": "O que é o vírus do Nilo, que provocou 41 mortes na Itália e já chegou ao Brasil - O GLOBO",
+      "id": "4cd6b096c727",
+      "title": "O que é o vírus do Nilo, que provocou 41 mortes na Itália e já chegou ao Brasil",
       "published": "2026-09-11T06:00:00+00:00",
       "sources": [
         {
-          "name": "O GLOBO",
+          "name": "oglobo.globo.com",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZTVNZk1JazNVUjRBR3VRejV4bDA3TE9qOXdOQU1EMURVR1ZJTFU4ejFzeGZYY2pkYV9CRXlTVFFKV0oxNGZUUXNncGM2OWJGNDU3NnFMWFZleXptcUlwSURhTXBxTzAwcUI0TGFWUHN0VTA0Q0VmYTVDUy1FRE80MXBiN0RGVWRza3FlS3A1bU9UT19nR2ttcXdKdkxCMUd6ZXo1NFZKaURsWmJqQmdmWWF0Z1hIUnBrUmlkczEzVzZOZFZOdnpjc3lNOGw5aFnSAd4BQVVfeXFMTWtBV09PdjNhNlJvYW52TGJFOF9pNE5saTdmN1FTd2FfaENSN1FnZjdEZmZXZnpiV1dsZHVvTVdHYVd0WDFtLUlyZ3hOd3FtdmV5aFpGWDJ3OEpKM3FpMW1MZUFScTI5bGRITXJ5Vk1OMzZpYzgwQk1sOGZ0VjRlbU5wNXAtTGY5YmlSS3NkejlLaUdsbmdXWU5XbUhVMVAyOG8xMDFTQlRQV2VEdEdRdmdkZUhmc2dZNkJsUU9pY1p5YVEzWGZoSktkbnNIOGRIdUt4S3lsUkpaNmVyYmNn?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
-      "id": "dc3bd0415452",
-      "title": "Esta é a Swiftiephylus, nova espécie de inseto em homenagem a Taylor Swift - CNN Brasil",
-      "published": "2026-09-11T00:33:53+00:00",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQemFvcmhlRkFWYkJYbWw1UWl1SFNpcHo3amY3TXpsNjg3Y2Rhc1NPLUdaaGloWUNHaEhoN0xhQTNxN2tXYkh3dnQ3UVNVNUdHMG5DNWZLYnU3d2sxVHg5REZETGZOQXEzN2pmN09kNzh5X0UyZnRVdnR6ZTh6eUxMelN2Y0pxcTNNanFUX2RpRk01V3hQSDhXb3JxS3gzeWNFSVZNNnNBeHpneEJ5Z3hmTw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
-      "id": "5384375d85f9",
-      "title": "Astronauta Don Pettit compara como as luzes noturnas das cidades mudaram apos 23 anos no espaço - Meteored Brasil",
-      "published": "2026-09-10T23:16:00+00:00",
-      "sources": [
-        {
-          "name": "Meteored Brasil",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONlJrWnhGWXpRTUtNLTN4MElSbm1haE90WktiU2ppblViNWlwLXRsdlgtY2ZVcVdMbms1bThIbDMwVW4wWHJjRl8ySE50QTBRVVQxUkx3Q09wZk0wSHNSUk9idEZSenBOeHY3WmZnalNqdWFHX3NCdm5vWUl2cUJtaDk3NzdrVGQ5eGZ1dHJ5blV2MTVzRlVKRzFuRnRDTDlRZmkwajJ2UmNlT2JuRkRWY1BMTy02dkZwbmxlQjJnUlpPZWZGZ2J4VERyeTk3eGFLX0tJLVVyOG1JUzA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
-      "id": "c04d52ddfd32",
-      "title": "Gestantes de Petrolina contam com apoio psicológico gratuito - Blog Nossa Voz",
-      "published": "2026-09-10T22:00:00+00:00",
-      "sources": [
-        {
-          "name": "Blog Nossa Voz",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNX25hRjh1cEZrbU9INkFickdFNXg3SlNpUkRoc3c1c21qTVBVVFRjRzFmcFJMUTdPZFh6T0NzM0d4TzdMSlFLS1RwbFhnMFVmUjRFQlV5Rkh1dTFlRzJWQVJBNVB0dnhod1hzdXBUdDNfTmk0Wk0ydGhrNFA4WTdEemI4WG9ESndBdlJfZk5aakZ0eXc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "levetiracetam",
-          "keyword": "TAM",
-          "name": "LEVETIRACETAM",
-          "url": "/drugs/levetiracetam/"
-        }
-      ]
-    },
-    {
-      "id": "3f6d835915bf",
-      "title": "O risco oculto para o seu coração ao dormir em ambientes com pouca luz - CNN Brasil",
-      "published": "2026-09-10T19:50:57+00:00",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWGVRRDZPVDExbXJHQW9yMUZtM2llcWhhTGFCcGlCTjhlTG5xZVNSTy1BdXZPWWpsaF9qbmUySFpqLVoyZjRJenJNcFoyM3pnYVcyQTNJQlNFMkcyeHcwWGpMTzRxM0s1bW1FRUU3Sm5iN0VWT2VOWEU1ZWtBc2JsMGpmZVJPT1N4ckFmcEdma1B4NTBMTFRzU01aWFp4OFBub1hKeGV2ZlBDUQ?oc=5"
         }
       ],
       "keywords": [
@@ -1567,52 +1566,12 @@
       ]
     },
     {
-      "id": "53ad5c8d1ad4",
-      "title": "É mais fácil engolir comprimidos com água se você inclinar a cabeça para baixo; entenda técnica - CNN Brasil",
-      "published": "2026-09-10T15:14:42+00:00",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSHFFYkIyWF9NUGxJcUt6SlpwbWlNbnNhb2hqd0owMEpkeW9TaGViY0pUQm4xbHRudk9mTFJnaHA5bFlMLXdlcU92M1Bwem9uUFRLa1FfcllpNl8wajVDb2o3N29vRGNLd2hiZ3J5ZVdOVXg1cnMtVS1KRmZiT1ExNWVxT1ZzQnlmeklNR2NTUHJQSmNEVFFGdnZ2aXZWRzVZYzdDU0JCQWR1REkwX0Q4WWU0bXBaaW53WTRGNFNTTUx0WDVNYnhWems1VmpQam5ycTRn?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
-      "id": "3abc6b41deb3",
-      "title": "Anvisa aprova vacina contra meningite para bebês a partir de 6 semanas",
-      "published": "2026-09-10T12:34:52+00:00",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRG91cHBEXzlYdGxpX2FMbUNUSXlVRnBON0JFTXJBUktlazFCbWs4bnU4V0NEYUNmQlFNWUR5ZkxOQVRXR1lLazFDc0ZzRGM2WktYRHRBcFJlUWpValdrbGtJLU10YzVWSGphaGtwOXNCSnExSkEycHJuazE0Ykh1eDdwZWtqLTFTMTdrSVhqZ1k2TkpKUldnc252MUZCazkyMXRMcUpnU1prckx5WVNRTFZsOHU0ODRGR0dKeDl1ZmpWYm9DWWloN0Y3UVZwUQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "tioguanina",
-          "keyword": "LANVIS",
-          "name": "TIOGUANINA",
-          "url": "/drugs/tioguanina/"
-        }
-      ]
-    },
-    {
-      "id": "7c978aa6059f",
-      "title": "Consumo de chá e café ‘muito quente’ triplica risco de câncer, diz estudo - ICL Notícias",
+      "id": "06a24e528e45",
+      "title": "Consumo de chá e café ‘muito quente’ triplica risco de câncer, diz estudo",
       "published": "2026-09-10T08:00:00+00:00",
       "sources": [
         {
-          "name": "ICL Notícias",
+          "name": "iclnoticias.com.br",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAzelpTVzNDUjR0UTRiekhZb0RsMnNoVUswcHpTeEVjWVlEcnBHYkxKcVl0aVotMmpaMUN6X3c5R1FQQ2FodzZfUndCR0xaNllpeUZZS2VuNHU2czRhZFhPUG1jR0R6cnljY2E3QV9sQXNYQTE0SzZwX210WQ?oc=5"
         }
       ],
@@ -2418,12 +2377,12 @@
       ]
     },
     {
-      "id": "ab1b25cccab4",
-      "title": "Menino de 2 anos morre de sepse após ser diagnosticado com prisão de ventre no Reino Unido - O GLOBO",
+      "id": "20f127d44542",
+      "title": "Menino de 2 anos morre de sepse após ser diagnosticado com prisão de ventre no Reino Unido",
       "published": "2026-09-09T11:35:23+00:00",
       "sources": [
         {
-          "name": "O GLOBO",
+          "name": "oglobo.globo.com",
           "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVkFObWRNbVZlbTFOZWdFc3BHdUZlSzBvNWJoNmc2eHpsdm1RNmFEbmJ2ckF3T0xjQjk5bGhCd2FfOGllOTZLMjFLVm1HTXdFODlsLTZnenFINlZLQmxuY2dESzFnNzBya0cySlhQN0Z3QS1TV2tjNU1IcU9XdTlYLVpsNE43Y0YxMVBmWHg4R0VmSE8yRDhaYlVFTVZqMXNWRy1JRUJ0SlFuSUxnbHFIZmpWQUk3R19pNkM4STVZeVlQelRHR2ZGbEJ6a1RiTi1sN0NGbDZGcmpwM1ZVcldCekdDdWVjU2vSAfYBQVVfeXFMTno5cVlQckN1dG55SXVpLVFYMGFTajloNTBYbFJpOEh5UzVqSHRXbGVHdm01eWhSa01sbXRubFZaU0NSWHpTYUc1bnMwQkRBcjdjNjdtYUdyRUN6SHJOR1I5RUxsRDRRUEFGN1dYV0kzMW1IYmNWbURFQnkyTzZENndyQ2RYZGZrU1l1bFN5UXBsQ1NLOXpYSHJpbElxRWZiWTl4ODAxUXNsYzJQWjR5LW55VGN4cU11cmtPaUlBYU9QMERyWWY3Zjl3ekFjOW9JY1FmWlh1cUs3Z3AxWlJFUVhwbG5ORXpOVTNLbGVjSnBOQWVYVGx3?oc=5"
         }
       ],
