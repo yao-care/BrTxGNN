@@ -1,19 +1,103 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-09-13T20:27:50.599125+00:00",
-  "total_fetched": 103,
-  "unique_count": 103,
-  "health_related_count": 38,
+  "fetched_at": "2026-09-14T03:55:14.508702+00:00",
+  "total_fetched": 100,
+  "unique_count": 100,
+  "health_related_count": 43,
   "news": [
     {
-      "id": "3e32dad4cc66",
-      "title": "Álcool e tabaco podem causar danos à visão; entenda os riscos - onda poços",
-      "published": "2026-09-13T13:47:28+00:00",
-      "summary": "Álcool e tabaco podem causar danos à visão; entenda os riscos&nbsp;&nbsp;onda poços",
+      "id": "f41a828e3eb7",
+      "title": "\"Vovó maromba\" de 101 anos diz que cortou açúcar e farinha da dieta - Diário do Centro do Mundo",
+      "published": "2026-09-13T21:28:14+00:00",
+      "summary": "\"Vovó maromba\" de 101 anos diz que cortou açúcar e farinha da dieta&nbsp;&nbsp;Diário do Centro do Mundo'Vovó maromba' de 101 anos revela os 2 alimentos que cortou da dieta para viver mais&nbsp;&nbsp;CrescerEspanhola começou a treinar aos 94 anos e continua na academia aos 101: ‘Gosto muito de saber que sirvo de exemplo’&nbsp;&nbsp;Correio BrazilienseVovó 'maromba' de 101 anos que venceu o câncer e a Covid-19 revela segredo da dieta&nbsp;&nbsp;Rádio ItatiaiaEspanhola começou a treinar aos 94 ano",
       "sources": [
         {
-          "name": "onda poços",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ2w5SW1ld0ExakZkd0hnTTBsclFPWk5Hc004MzJtejExRlNQMEFFczA5M0VjamFmV0N5cVA0Nm40bWd0bkdWR09VaF84UGhlWjBvQ2VLWTdUR3pFVXhyYlU5OE9IOG5sXzdjMjZtWkxCZXFEMFdITUdwMjVyQjRSWG4ydTNpbGUyRHRYbE15VQ?oc=5"
+          "name": "Diário do Centro do Mundo",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdzVJUW9sMkppZDNtZDQtaWtxdVJHR2ZjYmpkbEdPTE1taGN3RmZheDB5eDNjNkdiZURzWE9leUh2b3hkWVJBX2hQczU3X1o2VDJEaGVVZ1lDcUE5eHZEZ1RKcjZpb21QNndFcnpJRkJwRE5WUWJZNDZpSmVzYTFDbWl1ZVBrOFFZLURieGp4VWw2dk8zdVRyUjFn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "67463ef66db0",
+      "title": "Ministério Público aponta irregularidades e recomenda suspender internações em clínica no interior de MT - G1",
+      "published": "2026-09-13T20:56:30+00:00",
+      "summary": "Ministério Público aponta irregularidades e recomenda suspender internações em clínica no interior de MT&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPVHFCOURjcHZWemxvQWNhVU9qOTF0bmdLWTVwSmRCVWhFZ3hVZWNpV1AyUU1nRlozR1Ztd1phLWUxMVZmQ3AwQWYyYnpKWjlpejk5Z3VsRFN4YkZkMkNiay1sTTczTV9oVnEwVmNMUndrVGYyM1BMaThjc2dLdS1PWjVheDdodTJJVmRHQ1AxQS1jUG5meW5RLU9CUW4wRGMyQW5iTUZjdUo0Y2hXTVJ1TWdUUmNTS1ZHRkhlZXRuNmhIOXlwbTRIVVI1bEpIX0pqNkFZazZUSVk2RWVpN0lma2FBcWhzM1FvLUlPR1BPeE95cHdWY3Qyb9IBhwJBVV95cUxQVUxIT1VaamZHbVo4TjFxS20xS1U0OGhzN1lhaTJFNk5xZ2J6b0hKLTZ1bjJvOEk3dWV5dmIzck1jOGhrRlkybFJjaTdvNERoOHlKbDZnUWdqclRoempBVWx1d3BIanZEN2NrcHVwRHdFellwZEdaWTkzMkM2WUFXVS1NWkY0STJETXB3aWxGM3dfem1IRFBobURMUDBkWGVpa1VpbVZWWUgtTndmZnhzRFhQdGhoeVd1VDVrVDBCVDdHUTdfaVIwWnBidDd2dW1JamVVaE5VQUFORy1xUE54NTM2Z1NfS1FrMGczaWlPaWw0ZGFZal9faG9fMENCRXN5XzR1RkNkdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7ea51441e7c7",
+      "title": "DNA de morcegos dá pistas sobre longevidade e resistência ao câncer - Metrópoles",
+      "published": "2026-09-13T20:40:00+00:00",
+      "summary": "DNA de morcegos dá pistas sobre longevidade e resistência ao câncer&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR0N3V1dhd1E5Y0ViZnVUQnNIM0RqS2NuZGJNTUtMSEtjZVlsRy0xTmZDLWoxdWFUUEhRcm5GWU8wc1p0RHBrRWJ3cmY3TVVXemFnSllEYzNLM1lWZEwwSE5qQllmb01kV3NDdDJnRHQzbFhzdlFLenA1MVdjZjJiTzdTSmkzV05GajhQelR4MDN6R3JKazZfcVREU2VoMFF1d1VlTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "99868eeb1d6b",
+      "title": "Jovem superdotado de 19 anos que cresceu em fazenda de suínos e estudou na rede pública ganha bolsa de mais de R$ 1,7 milhão para estudar engenharia na Duke, após criar alimentador e irrigação aos 10 anos, desenvolver dispositivo para Parkinson e - CPG Click Petróleo e Gás",
+      "published": "2026-09-13T17:42:00+00:00",
+      "summary": "Jovem superdotado de 19 anos que cresceu em fazenda de suínos e estudou na rede pública ganha bolsa de mais de R$ 1,7 milhão para estudar engenharia na Duke, após criar alimentador e irrigação aos 10 anos, desenvolver dispositivo para Parkinson e&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOVWRpVENvSEVBa1pRRl9kVUtieDlDb2NqcmZ5cFQ4c1hHZFd0MVJvWENWakdJWFJ3ZlR2WllYdGxZMXVrYjFYVEVodWVLem5FMnl2bXNDTUFVX2dQeEdzRnRIejlPQnNlMG01cU9rWGh2RURwZWhkZlpScXBPbmZXdDlMWkpQSWVLMl9HU1VYbzNmYnU1U2kyYmNJUE9WMFZWYlBwTXdiTjZSNVVDUzhJN3hyNGgxaGV0VzBSVXZMMEVQeE9nMmFNbUROT2RpcmFHUXM3aWtUSnJWcjh5T0dvaGh6eGpvNUVZdXB1Y0lKcFZlUE5FbUlzMWxCWHNSMFkwTHJVbWhvNnpRSDNadm8tclNIVl9Ja2NBMGpER095aEdYS3ZzWDAxV0hrY0M1YzRCN3loeTN4eG8wNlZQd1VBY0ZObEU3bkU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ec59decb567f",
+      "title": "'O que aprendi ao ter um AVC aos 26 anos' - Folha de S.Paulo",
+      "published": "2026-09-13T14:38:00+00:00",
+      "summary": "'O que aprendi ao ter um AVC aos 26 anos'&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOc2Y3WjlIQ1huam94RlhsWDNYenlENmVBTS1vY2drcEVXLUlnVDUyUXNmVzN3UV9hdE4wTjc4bC0wbjRJMnhuZDVzMHhIQUZLVFB2QnNtcEZYVGJneVE0TVpEaEgySlhSV0Qzcm45WlU1QzhIcUc2d1BlaEZEWU01Z0FETnQ0WUNKQkdxMlQta09uNFJuZGk4dGhqQUJ0eHNxZXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4c134a023f9b",
+      "title": "El Niño: estudo aponta 163 medidas para reduzir impactos de seca, calor e excesso de chuva - Primeira Página",
+      "published": "2026-09-13T13:50:37+00:00",
+      "summary": "El Niño: estudo aponta 163 medidas para reduzir impactos de seca, calor e excesso de chuva&nbsp;&nbsp;Primeira Página",
+      "sources": [
+        {
+          "name": "Primeira Página",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMklxY2VWNFU4bzAtQms4LU5fN1RNUWk5MDVMY3dPRGJfUDlORVlULTFzdU1BVlB2T21ESTNLMWdvMUk5ZU81MXRwdVlhblRQTTRmTEx2bF83eXJyTFJVUkRxS3VtTW1YaWxFX2wzNWEzdnVsX0loNWhtVjZQWkZsZHYyYjNhMUZnWkJMMVBzRTJTNzJJRXI5RVVqSXV3c3ZkLXNPSlFETmJ4VWpuMFU1cE5haGlEY3dXOVkzYUdDQTNxdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8714904fb736",
+      "title": "Profissionais de IA estão 'genuinamente assustados' com futuro da humanidade, diz pesquisador que se demitiu da Anthropic - BBC",
+      "published": "2026-09-13T12:54:02+00:00",
+      "summary": "Profissionais de IA estão 'genuinamente assustados' com futuro da humanidade, diz pesquisador que se demitiu da Anthropic&nbsp;&nbsp;BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMdWlub240RW9UTWNTaHpfR21zQU1DT2wtcVRKV0JPOEFHdkhJeWZOY2h4Q3V5S1dVYjR6dlpyMFZnZTg3WlMwTGdSR1Z2ZmRQMUhBc0ZIbnBsUTFrYWlVV1Jn0gFnQVVfeXFMTVMwMm55SW1BSmhha0JwUk5HTUFyRWF0Y1JJRm9Uc0FLaWZ5NWlXMGNrOUo1dkdWbHNxXzljdEV1NjFWc2RzV3l1RDBzMWNSMW9CVElKNVR0SjczQll3YWE1aXhqbkg1UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e82d34a05482",
+      "title": "Mortes por meningite na RPT já superam todo o ano de 2025 - liberal.com.br",
+      "published": "2026-09-13T10:55:59+00:00",
+      "summary": "Mortes por meningite na RPT já superam todo o ano de 2025&nbsp;&nbsp;liberal.com.brAtenção à meningite&nbsp;&nbsp;liberal.com.brAnvisa aprova indicação de uma vacina contra meningite para bebês com 6 semanas&nbsp;&nbsp;G1Vacinação contra meningite em BH: saiba como proteger bebês e adolescentes&nbsp;&nbsp;Portal UAIMeningite: vacinação é a principal forma de prevenção contra a forma mais grave da doença&nbsp;&nbsp;Estadão Blue Studio",
+      "sources": [
+        {
+          "name": "liberal.com.br",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPckZUdVFQYU5ESWRhSzhCWDlscXhPU3l0SlJSYzgwalZjcGlEVlJJNmRjMVVZRUQ1VF9SNTd4SThUR0VFdEI5WDNfLUxtOWdJSDBFWGxXQV9MeXBYSnJudHU4TmZxdU1NTUV5R3BQbElneGtWa0ZPdEVUZ1NabGcwMjl4eDBJR0xOdW9JRFRzOHkwc1NqMVZLN3FMdw?oc=5"
         }
       ]
     },
@@ -26,18 +110,6 @@
         {
           "name": "BBC",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE56T3RDQ0RtVXVsSXktVTFEWHVKWlI3V3RUeUhPTE0xQnFSODRnNXE2M1FXSG5GVVBaazFaa2JKeFVDWmtJWjE2WnJlSHZOQmUyUDNHZ0Z4c2Y3SWFaRnJBWERB0gFnQVVfeXFMT1pfSGZEZXJ3V0lLZThXY2VoN01fbGZUbzNOVHZmenBxaUVpSTJHaTA0bHBUV1dEcGFSa3l1Tk1HOWppamdfQ0ZtSTRPM1BvUkdldE1xLTdNUXN6U1BmVVA4RXpVRFpGSQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f55258521929",
-      "title": "Enfermeira goiana morreu seis meses após receber diagnóstico de doença rara de Lito Sousa, diz amiga - G1",
-      "published": "2026-09-13T10:02:43+00:00",
-      "summary": "Enfermeira goiana morreu seis meses após receber diagnóstico de doença rara de Lito Sousa, diz amiga&nbsp;&nbsp;G1Enfermeira goiana morre com a mesma doença rara de influenciador Lito Sousa&nbsp;&nbsp;G1Enfermeira goiana morre 6 meses após diagnóstico da mesma doença de Lito&nbsp;&nbsp;MetrópolesDoenças raras: quais são os maiores desafios para quem vive com essa condição&nbsp;&nbsp;Universal.orgAgência de Comunicação - Ressonância exige olhar médico atento para identificar sinais precoces da do",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbGMzTDd4YU1BbjRzcTMyQ2FLY2xKcENNSTJxdDJRT0JvXzVLT0pyUHNuX2tyYnFRUm82QmU1cFJ1OGFUb1ZQWHNlbHE4eFBkWkdoWGtZbGg0OTgxdlFuTkNmOUdjQlRzUzBwTG1nbHJHajhzMFdYSzJzaVpmNWRNdmxHV2pFV0toR1k2OXNJNXUzN3BoalRBcER5SUtvaEJyY3hFWjJSNTNsdmo5djNlOVVtc0JkRTlnT0ZEd1gtdDM2RDhZcGVYRG1aWkU3cmVNWlY0Tmg3dl9ZLVZkSXfSAewBQVVfeXFMTUVicDZuYWlCWGFBMzJaeElUOUg4X1p0bWlxN2FuVDdoRWctOEZMRWVoc0kxR043Y0ExcXhkcTZEVzB5WERDakxBamFiV3NZT2hnelVTeUhtanR6SDBhLTRyTVhnSlFvVTFQaTJDeHk0UkRYeERoWjNEMmNmMnhob0w2T0JqMlhhTXZrN2x6aThGM1FHc0kyOU94bC1rcDhkSldBV0hlTGloZ2daYmRaM3dQVmtOQU93azFQZ1NOel9TbzlSN2sycW56cTdDM1l4VHJXYXpYQ2l6X2NJNGlyckRSLWVNY2lxeUM0VEo?oc=5"
         }
       ]
     },
@@ -66,13 +138,13 @@
       ]
     },
     {
-      "id": "a7fe90ae8c96",
-      "title": "Nódulos de tireoide: Kalil e especialistas explicam quando ter atenção - cnnbrasil.com.br",
+      "id": "cf21d539f960",
+      "title": "Nódulos de tireoide: Kalil e especialistas explicam quando ter atenção - CNN Brasil",
       "published": "2026-09-13T09:00:03+00:00",
-      "summary": "Nódulos de tireoide: Kalil e especialistas explicam quando ter atenção&nbsp;&nbsp;cnnbrasil.com.brHipertireoidismo e hipotireoidismo: Kalil e convidadas explicam diferenças&nbsp;&nbsp;cnnbrasil.com.brCâncer de tireoide deve atingir mais de 16 mil brasileiros em 2026&nbsp;&nbsp;Bem ParanáCâncer de tireoide não é só um: entenda as diferenças entre os tipos diferenciado e medular&nbsp;&nbsp;jornaltribuna.com.brMetade da população pode ter nódulo na tireoide, diz médica a Dr. Kalil&nbsp;&nbsp;portal",
+      "summary": "Nódulos de tireoide: Kalil e especialistas explicam quando ter atenção&nbsp;&nbsp;CNN BrasilCâncer de tireoide deve atingir mais de 16 mil brasileiros em 2026&nbsp;&nbsp;Bem ParanáCâncer de tireoide não é só um: entenda as diferenças entre os tipos diferenciado e medular&nbsp;&nbsp;jornaltribuna.com.brNovas recomendações mudam tratamento da tireoide na gravidez&nbsp;&nbsp;O NorteTireoide e iodo na gravidez: Dr. Kalil e especialistas explicam riscos&nbsp;&nbsp;ContilNet",
       "sources": [
         {
-          "name": "cnnbrasil.com.br",
+          "name": "CNN Brasil",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT0FXZllvUzkyQXJIZkZzRXAwLV9WQllSeEg5emVKZEdLemVqQ3o4Q3d0TmNQaU9CQkR2MHA1YmotYU5GOWxBSTJSQW1pSl81OUp5bmdhejVERGlHdWdSYTFPcXZvTHo5S2ktbF9OOHBaNTB4RlplZmJ4Q2M3ZWYxQ1J1eGI2dFpOOVNyQmhjVmlQRkNyQ3lYa0RBQkh2VFZDaGdHR0xTcEw?oc=5"
         }
       ]
@@ -102,22 +174,10 @@
       ]
     },
     {
-      "id": "7bf21c198427",
-      "title": "Esquizofrenia e transtorno bipolar têm semelhanças no funcionamento do cérebro, mostra estudo - O GLOBO",
-      "published": "2026-09-13T07:30:00+00:00",
-      "summary": "Esquizofrenia e transtorno bipolar têm semelhanças no funcionamento do cérebro, mostra estudo&nbsp;&nbsp;O GLOBO",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRy1kb0RJZkZlTzhRUzJSaEhPdlpxcG4zTHNYUW1IYVNXUzVyejVfaUhRQ1NFZzFqX083Y08zcklhWFhXbjNWMUZLNVNhM0lVeDJfMWIwNFk4cTVWeFN0M240YWxUdzhNeGc3YjdLSkZscnNDUld4NnkyU0MydkJoQ2t3LUZEZnQyOFc2aE4zTnNZeDRPaUk3YmxZUS1YaGpONFRJb0ZsMEJzbVBGRllXSXF5YWRxSzFGejJFYnZhamwtbWR4TW50QkZaYWZpSUpBTlBuVWJpQ2FHaElLd2g4WE5R0gHwAUFVX3lxTE54OWFIekhFN3ppQlZGMnp4bnpWV3M5WUVENmgtZjJfeHZVUzNXdk1Fc1BGNkJqZ2hFMGVBZVdnR2tBVDliX2tyaWxWanAya1FRNnRBNi1WTHhqb0xBYVNjNV9ycWpORGl4ell0cUxDRzkxQ2RUMXJ3RkxhaVZweno4MmEyb29IZFVpSlNoNjFsUXpxZUN1SlJaM2JQYlhRTVRlX29keHJwZ2tTQldUV0lMQXJFVG9fRTFibXQwQ2x6Zk43Xy1vcTZaYUdFdkh2Vmd2amQzWThacnZDTWR1NW1uWDctYUFKSjJQXzNXcmFJeQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "de0a10eb04e4",
       "title": "Disfunção erétil pode estar causando estresse no trabalho, aponta estudo - O GLOBO",
       "published": "2026-09-13T07:00:00+00:00",
-      "summary": "Disfunção erétil pode estar causando estresse no trabalho, aponta estudo&nbsp;&nbsp;O GLOBOEstresse no trabalho está ligado à disfunção erétil em homens jovens&nbsp;&nbsp;MetrópolesEstresse no trabalho e disfunção erétil: novas evidências&nbsp;&nbsp;Tribuna do SertãoEstresse no trabalho eleva risco de disfunção erétil; entenda&nbsp;&nbsp;Diário do Centro do MundoAmbiente de trabalho pode aumentar risco de disfunção erétil, aponta estudo&nbsp;&nbsp;GazetaWeb",
+      "summary": "Disfunção erétil pode estar causando estresse no trabalho, aponta estudo&nbsp;&nbsp;O GLOBOEstresse no trabalho está ligado à disfunção erétil em homens jovens&nbsp;&nbsp;MetrópolesEstresse no trabalho e disfunção erétil: novas evidências&nbsp;&nbsp;Tribuna do SertãoEstresse no trabalho pode causar disfunção erétil, diz estudo&nbsp;&nbsp;VEJAEstresse no trabalho aumenta em 10 vezes risco de disfunção erétil, aponta estudo&nbsp;&nbsp;bra1.com.br",
       "sources": [
         {
           "name": "O GLOBO",
@@ -126,10 +186,22 @@
       ]
     },
     {
+      "id": "604f85c89be8",
+      "title": "Escola diz que alunos que passaram por exame em feira cultural devem procurar hospital - O GLOBO",
+      "published": "2026-09-13T07:00:00+00:00",
+      "summary": "Escola diz que alunos que passaram por exame em feira cultural devem procurar hospital&nbsp;&nbsp;O GLOBO",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRHJzY3hlRW5IOWZRSUdQRGlIcTM5SFJvYWFLV001UHdkbDMzUHdBcEVNR0ZCanZXUlhJcF94Mmt3Vk5QWTJ3TFpGWm9IVFpQV1hfcEFLNlAzeWY1QTlxS2d2WFpqRFJtTVl4LVJRT19YZmdXMjk4LUFZWHlER3AwcTI1MkhZOGk5aVdjTjdOOUpmc2kzbmRoRjVQOWZvd3V6a3pubC1lSTZ5UjB6TDZpbk0yLUd5dXBSYmlTcWRIREJIbDZkcmxsbFFUbU1UYmZuMmdPRWJlNNIB5gFBVV95cUxPZGVNS3NYZFRxRnp3YnFMOTNWdFNNSE9hVHVJeDAwMlNzbHB0aUx1aGVWeGF3VkdKa05NTW9xS2lHR3d1d1Myc2tUc2VmVTVmbXpYV2YwblpVb1pZXzNmenJxb0hXWjMyVmxidmZsTW1VYlpxaGZBa2QtQ2hvMkE1TEtodUp1R2NwdWQ1TE9WYUVDWGs5RjVhVHVRazR3VXk2a3diY1hGU2RsT3RaSHJfLXhYTnZKQXUxOVZMY19yTU5LMTBhVE95ZUxWTENPMGNxQjc5WXRBZWU4MHFJaU5BaGt6a1pNUQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c21fe12a851b",
       "title": "Consumir bebidas muito quentes pode triplicar o risco de câncer, revela grande estudo - R7",
       "published": "2026-09-13T05:00:00+00:00",
-      "summary": "Consumir bebidas muito quentes pode triplicar o risco de câncer, revela grande estudo&nbsp;&nbsp;R7Consumo de bebidas muito quentes pode triplicar o risco de câncer de esôfago, revela estudo&nbsp;&nbsp;O GLOBOConsumo de chá e café ‘muito quente’ triplica risco de câncer, diz estudo&nbsp;&nbsp;ICL NotíciasBeber chá ou café menos quente pode reduzir risco de câncer de esôfago, sugere estudo&nbsp;&nbsp;VEJADo café à carne processada: dois hábitos aparecem ligados ao risco de câncer&nbsp;&nbsp;Olhar",
+      "summary": "Consumir bebidas muito quentes pode triplicar o risco de câncer, revela grande estudo&nbsp;&nbsp;R7Consumo de chá e café ‘muito quente’ triplica risco de câncer, diz estudo&nbsp;&nbsp;iclnoticias.com.brDo café à carne processada: dois hábitos aparecem ligados ao risco de câncer&nbsp;&nbsp;Olhar DigitalBeber chá ou café menos quente pode reduzir risco de câncer de esôfago, sugere estudo&nbsp;&nbsp;VEJAEstudo. Ingerir bebidas muito quentes pode trazer problemas no esófago e contribuir para o apare",
       "sources": [
         {
           "name": "R7",
@@ -141,7 +213,7 @@
       "id": "da4715987b8e",
       "title": "Entenda qual o risco oculto para o seu coração ao dormir exposto a qualquer quantidade de luz - R7",
       "published": "2026-09-13T05:00:00+00:00",
-      "summary": "Entenda qual o risco oculto para o seu coração ao dormir exposto a qualquer quantidade de luz&nbsp;&nbsp;R7Ficar exposto a luz excessiva à noite pode alterar funcionamento do coração&nbsp;&nbsp;GloboO risco oculto para o seu coração ao dormir em ambientes com pouca luz&nbsp;&nbsp;cnnbrasil.com.brExposição à luz durante a noite pode trazer riscos ao coração, aponta estudo&nbsp;&nbsp;O TEMPODormir com as luzes acesas ou apagadas? Uma nova pesquisa tem a resposta.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "Entenda qual o risco oculto para o seu coração ao dormir exposto a qualquer quantidade de luz&nbsp;&nbsp;R7Ficar exposto a luz excessiva à noite pode alterar funcionamento do coração&nbsp;&nbsp;GloboO risco oculto para o seu coração ao dormir em ambientes com pouca luz&nbsp;&nbsp;CNN BrasilExposição à luz durante a noite pode trazer riscos ao coração, aponta estudo&nbsp;&nbsp;O TEMPODormir com as luzes acesas ou apagadas? Uma nova pesquisa tem a resposta.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "R7",
@@ -153,7 +225,7 @@
       "id": "54e5524df366",
       "title": "Principais fatores e sinais de alerta antes de um AVC: saiba como agir - Terra",
       "published": "2026-09-13T00:07:00+00:00",
-      "summary": "Principais fatores e sinais de alerta antes de um AVC: saiba como agir&nbsp;&nbsp;TerraAVC causa 11 mortes por dia em Minas: como reduzir os riscos?&nbsp;&nbsp;Estado de MinasFraqueza de um lado que passa em minutos continua sendo urgência&nbsp;&nbsp;Tua SaúdeAcompanhamento multidisciplinar é fundamental para recuperar pacientes com AVC&nbsp;&nbsp;G1Reconheça os sinais de alerta súbitos de AVC: agir rapidamente pode salvar uma vida&nbsp;&nbsp;Mayo Clinic News Network",
+      "summary": "Principais fatores e sinais de alerta antes de um AVC: saiba como agir&nbsp;&nbsp;TerraAVC causa 11 mortes por dia em Minas: como reduzir os riscos?&nbsp;&nbsp;Estado de MinasFraqueza de um lado que passa em minutos continua sendo urgência&nbsp;&nbsp;Tua SaúdeAcompanhamento multidisciplinar é fundamental para recuperar pacientes com AVC&nbsp;&nbsp;G1Reconheça os sinais de alerta súbitos de AVC: agir rapidamente pode salvar uma vida&nbsp;&nbsp;newsnetwork.mayoclinic.org",
       "sources": [
         {
           "name": "Terra",
@@ -174,18 +246,6 @@
       ]
     },
     {
-      "id": "e8ab941bc1f8",
-      "title": "Estudo aponta que autonomia é peça-chave para uma vida mais feliz - Diário do Centro do Mundo",
-      "published": "2026-09-12T18:32:00+00:00",
-      "summary": "Estudo aponta que autonomia é peça-chave para uma vida mais feliz&nbsp;&nbsp;Diário do Centro do Mundo",
-      "sources": [
-        {
-          "name": "Diário do Centro do Mundo",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM0RBZ1BhYnFHdG5VUlJDQjMyUE9OeUlBTUxITDJxMzVVR2J5Y0tBamZrbE9vdDhuaWkwOHJGdW9BSmFKR3ZWM0RNVFJnc202Y1A5OXRkekFRX0FGSU9NSE05OXFuOFhjOGpROGNCNnBXd1ZNUVRSa09nMzVkcE5hYXhWR2steUxRRjY0SHM1M0tKYmQweXVJeEdXVzMxSy1YN19JbTUwaENPN1U?oc=5"
-        }
-      ]
-    },
-    {
       "id": "02875599c1b6",
       "title": "Remédio descoberto com IA pode reduzir sinais de envelhecimento, mostra estudo - Gazeta do Povo",
       "published": "2026-09-12T17:00:00+00:00",
@@ -194,18 +254,6 @@
         {
           "name": "Gazeta do Povo",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN3h4cDVpMENrU1pEWlZ2VklEODBUYkNDa0ROZ0gxZ2VCem5LdXFYeVE1SlQ2ejZRYkVra1VqNWxwZ0NnMUdXRW1xVEd0VjByWDdzdkhkVjQ5OGJ6QUtoejNPV2YxMV94UldvVHNBMTRIRDdNXzdrNTItaW41VHFTYTJLSXByUjJEdm9tellLUG9SdG02SzJyRjd1MA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9da71884bc1d",
-      "title": "Vacinação contra raiva de cães e gatos ocorre em 22 postos fixos de Manaus; confira os locais - G1",
-      "published": "2026-09-12T15:49:51+00:00",
-      "summary": "Vacinação contra raiva de cães e gatos ocorre em 22 postos fixos de Manaus; confira os locais&nbsp;&nbsp;G1Ponto fixo no Estrela do Sul oferta vacina antirrábica hoje – CGNotícias&nbsp;&nbsp;Prefeitura de Campo GrandeDois bairros de Campo Grande recebem vacinação contra raiva nesta terça-feira; confira cronograma&nbsp;&nbsp;MidiamaxManaus mantém 22 pontos de vacinação antirrábica; veja onde levar seu pet&nbsp;&nbsp;Portal do HolandaCampanha da prefeitura oferta vacina contra raiva em 22 postos f",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOazBxS2JubGFBYzRnRlhPZWx5NWxwRkNYdHFFaFBxb2dUTnFmcDgxRW9DM2VRM045cVNHcWZrMzlkUjVJYWJUZXJoeGRDcVYwTVpGQ2VlOHpzZ3ZWVnZQRnp4N1lOaWtpUi1iVlB6dEpPTUpWeDdfV3JZVzNXM3ZwZ1BSdFRKQUc2TUw1NXZqVkNJLXVFQXd3aWJiY1EteS1TSm1oQWJoVjhjbHBGbkl1ZGRpUWpYQ25QVTdsSVZKU3BZYXVYd19CY29sbVpJTC1OVHRETFJjbHp1MjRxLUh6MXFLOGbSAfMBQVVfeXFMTkZnQkZMYWhhOTg4OW5vQVVhR012SVhyMFlSRnZpVDJsSUwxTm1RVWdPaGFyU19NVkRvOXdPcC1oQVVHMDc2NjhhaE5mcVpRQjlvZmxYcGNDN3Q1Y2l1ZXFkYWZlcDNTalpoQ1ZWdE9QbzJSbFl4eHcwZlV0ME9qWVhSX1dDYUFLU3E2b2g5YkRLTURONENid3JBbnZac0NBTFZ6Sm5uQU9iYUlVMW83MlFvQjBWN1E0QndqbGhWN01YcmI4bThqRmZ5VWh3MlNESWZnWDFmc0JhdlJrSWI0cVJ0Wmg1bWNfbVNJaUdaZ05JMWpj?oc=5"
         }
       ]
     },
@@ -222,22 +270,10 @@
       ]
     },
     {
-      "id": "cb64604c736b",
-      "title": "Ciência revela como o cérebro interpreta a beleza artística - Folha de S.Paulo",
-      "published": "2026-09-12T14:00:00+00:00",
-      "summary": "Ciência revela como o cérebro interpreta a beleza artística&nbsp;&nbsp;Folha de S.PauloEstudo revela como o cérebro separa imagem e prazer ao julgar a beleza artística&nbsp;&nbsp;Diário do Centro do MundoO que acontece no cérebro quando você acha uma arte bela&nbsp;&nbsp;SpaceMoney",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZkstd3hiYXlSTnBrYlBMd0VrQk5UdVZLTjk4RnBidDQ5WGdUYU9SZGlQSFVDZ1FyVG9NRnM1RXVjeUR5TDhTdHI5eExkeDdXTnRGTjhRQk5tcl9Rdm1GSlEySEc0aGxXQkZ3NHlqQ01INEZIRnNVaFZhbzRBUTRSajdCMFRzcFdBSXFvelBNSWJRa2VOblVNYmZrc20tZktfOXNCWi1sZkxRNVZocWV5Nw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4227a47c7926",
       "title": "Dor no ombro após os 40 anos nem sempre é sinal de lesão, aponta estudo; entenda - Estadão",
       "published": "2026-09-12T13:00:00+00:00",
-      "summary": "Dor no ombro após os 40 anos nem sempre é sinal de lesão, aponta estudo; entenda&nbsp;&nbsp;EstadãoDor no ombro após os 40 nem sempre indica lesão, diz estudo&nbsp;&nbsp;Diário do Centro do MundoDor no ombro depois dos 40? Estudo mostra por que o exame pode enganar&nbsp;&nbsp;olimpiadatododia.com.br",
+      "summary": "Dor no ombro após os 40 anos nem sempre é sinal de lesão, aponta estudo; entenda&nbsp;&nbsp;EstadãoDor no ombro após os 40 nem sempre indica lesão, diz estudo&nbsp;&nbsp;Diário do Centro do MundoDor no ombro depois dos 40? Estudo mostra por que o exame pode enganar&nbsp;&nbsp;Olimpíada Todo Dia",
       "sources": [
         {
           "name": "Estadão",
@@ -266,6 +302,18 @@
         {
           "name": "Gazeta do Povo",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeV9ETW82NTBsLTJMMjF3LUVUQk8xSVN3RWFrbnlIOERjNnpmc0N2ZndFV1FaRktsWE43c3k4RUtjcWNlSXNfR1hWcTJHZkJiX05oXzFGcEJjYnNLc2RKdk00MVZHdTI1bDZ2cEw4a09Pa3JYcGRHUDlmdVpNNURNZzNpUEwtSFFxUFB5RUZ2SWRSVy1mcXl6aG5TX3U1RFRQR3ZXQzJxeWxTbTBMMk1BbjhmYUl1MF9TenZKYnQzeFQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f3eff135dca6",
+      "title": "Pesquisadores revelam novo fator decisivo para a felicidade - dw.com",
+      "published": "2026-09-12T11:43:26+00:00",
+      "summary": "Pesquisadores revelam novo fator decisivo para a felicidade&nbsp;&nbsp;dw.com",
+      "sources": [
+        {
+          "name": "dw.com",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbXlYdUdYMVpZSHJpS2dyNmg1a3RNTjRxZkNwSllrX1BjSkIzWEZyWG9HbHFOb3BvcDJFZktTSHJtYnVLZXZfZEZTZ1FVdDhBTEh5SUZITWQwREstaW82OXpPOElWY3dZWXM4UFYtUHRNSEFBS205V2t0OVgxa3QtWFNGVkEtR3QzSDA1djBJMW5VZ0kxLUhjLVl2NNIBmwFBVV95cUxQUjVpeFRfcnpILXZyZHZrMXZ6aGdZTEM3SEVZekFtajVXV2IyT0NHR201U01jTV9Gd2hFazMxX2o2MjI3eXBuaVRlV3BfS1ZYbW94dnRwYzR2eF96em5lTlppNzh6WnAzcjdXVXVESE42U3VjTDNyS1kwYUhteXp4ZXMxbnhxM2RWYmd1OHltLS1GMkE0Slo0bS1qdw?oc=5"
         }
       ]
     },
@@ -306,13 +354,13 @@
       ]
     },
     {
-      "id": "444d37b39466",
-      "title": "Cientistas identificam vírus no esgoto do Reino Unido que pode ser usado contra superbactéria - ICL Notícias",
+      "id": "1a21db9411c0",
+      "title": "Cientistas identificam vírus no esgoto do Reino Unido que pode ser usado contra superbactéria - iclnoticias.com.br",
       "published": "2026-09-12T08:00:33+00:00",
-      "summary": "Cientistas identificam vírus no esgoto do Reino Unido que pode ser usado contra superbactéria&nbsp;&nbsp;ICL Notícias",
+      "summary": "Cientistas identificam vírus no esgoto do Reino Unido que pode ser usado contra superbactéria&nbsp;&nbsp;iclnoticias.com.br",
       "sources": [
         {
-          "name": "ICL Notícias",
+          "name": "iclnoticias.com.br",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1MN3UxRDJIZ1F6U0JIUmRzOThaLTNjZG9zTHRTWHotU2gtWDVBTWd0RlZrcjZkVEh3dmNpWEJmT25HamNZaUVxZFNTUC1PTjNWQXRLampwalRwckpuRUNLblI4d29sck14azdwV0JaaTZZNWc?oc=5"
         }
       ]
@@ -333,7 +381,7 @@
       "id": "c199c263edb4",
       "title": "Benefícios e riscos: como o celular afeta a saúde dos idosos - Extra online",
       "published": "2026-09-12T07:00:01+00:00",
-      "summary": "Benefícios e riscos: como o celular afeta a saúde dos idosos&nbsp;&nbsp;Extra onlineCelular ajuda idosos, mas pode provocar dores nas mãos e no pescoço&nbsp;&nbsp;Diário do Centro do MundoDor na coluna cresce entre jovens e acende alerta&nbsp;&nbsp;Portal Terra da LuzGesto que fazemos milhares de vezes com o telemóvel causa rugas cada vez mais cedo&nbsp;&nbsp;New in PortoOrtopedista alerta: uso excessivo do celular se associa a dores no pescoço&nbsp;&nbsp;belem.com.br",
+      "summary": "Benefícios e riscos: como o celular afeta a saúde dos idosos&nbsp;&nbsp;Extra onlineCelular ajuda idosos, mas pode provocar dores nas mãos e no pescoço&nbsp;&nbsp;Diário do Centro do MundoDor na coluna cresce entre jovens e acende alerta&nbsp;&nbsp;Portal Terra da LuzGesto que fazemos milhares de vezes com o telemóvel causa rugas cada vez mais cedo&nbsp;&nbsp;New in PortoUso prolongado do celular pode causar dores no pescoço, ombros e costas&nbsp;&nbsp;A Crítica de Campo Grande",
       "sources": [
         {
           "name": "Extra online",
@@ -350,6 +398,18 @@
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQ3p2cG5TeUNKUS1BOVNURTBkbHdvVTd4azdJcFJVS2U1eHdiYTJoZ1MzcGxxWndBWHdmdWR6aGF4MnlSU3JDVUo1XzczREFTYVdXNENNdDRnalZBcXNvbndqZWpDMTUzNXo0YnJfb1hJcFhlbjBnUUxKbDN4dW9icWE2T2h0dGkwMWRSRk11RDdDQ1BfdWJCYTFQanlKcThsSFpncE1fSFA3UkxDcnR3QTVzZHRNY0RBal9IU2xvZFhmWERGY0Y5Y3FhUFFFeVBicVBZNg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c6beab4c7642",
+      "title": "Depois das canetas, o espelho: por que o rosto pode mudar com o emagrecimento - O GLOBO",
+      "published": "2026-09-12T06:45:00+00:00",
+      "summary": "Depois das canetas, o espelho: por que o rosto pode mudar com o emagrecimento&nbsp;&nbsp;O GLOBORosto mudou depois de perder muito peso? Entenda por que isso pode acontecer&nbsp;&nbsp;CartaCapitalPor que a Vichy criou um 'Kit Emergência' para quem usa canetas emagrecedoras&nbsp;&nbsp;ExameCanetas emagrecedoras: 6 efeitos no corpo que vão além da balança&nbsp;&nbsp;UOLCirurgia plástica pós-emagrecimento: uma nova era do contorno corporal&nbsp;&nbsp;Fator Brasil",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQV1loc1J0MjlDM2w4TUNYcVNXOWNDSzJOSXZEdENKakgyOWpha2stZHA4cW53RmUzLVR4Nk8zLWFYajhDOFhaT2t6VHo0Mnc3S3FsYWIycm4xQjdpMkxnX0RteGtsV3lHdlAtWEV6bm1wdkZqNDV2ajM3U0x5dGNobkcwTm5IRTJjc0tGRDZ4OEppM01Gb2piOHZsQk1SZzdORF85Xy11MDdKQUZJdEZ2T1JBdjg2Q1I3RFhxQ1huRFIzWGZ3OFVHcNIB1wFBVV95cUxOdS0zYWlkcmJnTHE3SWtQdGY5VVBjc1RBNjNyZEQwb1FjcHhKdDctd2FOREN2OW1HT3BXeDhBcWdHQW52TW9CdUpBOGpwSVNXOFVfemlVVlBOX1lreFA1WHpUSFB2UlNZTzJvODJ5R3ZGUGZDNm9xRklRUGxGdkMxQkZRQzBlMGdLV1NHZEV3bUx4ckp0VUpSMGx1YlVOT3lZdHE4Vnl0cWdDS2NuVnZ6Ym9xX3JKdnI3N1FWWEc4c3NwQmg2TkN5WW9ZN1Vad01BZDFEZzl2RQ?oc=5"
         }
       ]
     },
@@ -378,18 +438,6 @@
       ]
     },
     {
-      "id": "cb9ec8954577",
-      "title": "Cérebro passa por mudanças semelhantes na menarca e na gestação, mas não na menopausa - Medscape",
-      "published": "2026-09-11T13:00:32+00:00",
-      "summary": "Cérebro passa por mudanças semelhantes na menarca e na gestação, mas não na menopausa&nbsp;&nbsp;MedscapeMomento do início da terapia hormonal afeta o risco de demência&nbsp;&nbsp;MedscapeEntrar cedo na menopausa pode afetar envelhecimento do cérebro, indica estudo&nbsp;&nbsp;Folha de S.PauloMulheres que entram na menopausa precocemente têm envelhecimento cerebral mais rápido e diagnóstico de Alzheimer mais jovens; entenda&nbsp;&nbsp;O GLOBOMenopausa muda o cérebro de forma diferente da puberdad",
-      "sources": [
-        {
-          "name": "Medscape",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX0x0YkRZWTdQSFdYeVc4MzByeGlCZDRMM19hVHFRdUQwWVV1VnV1Y042anlDeWRGM1M4MDZVRjVpQkhXTkVOSVBNV2tIUUV4VTNCcVpidmx0U0hIOGhvdDVIbWhjcGE0cnhEeWJoQnJuS3N2NDA3elQ4X3lCWWExT1QtckY1UzdMZXp5S1paYWJGZldJVW1qUy1oTXN0ekZWN1lveWdXV3FzR3ZVNzVV?oc=5"
-        }
-      ]
-    },
-    {
       "id": "72d10f962827",
       "title": "Do intestino às articulações: o impacto dos microplásticos nas doenças reumatológicas - Medscape",
       "published": "2026-09-11T12:59:42+00:00",
@@ -414,6 +462,18 @@
       ]
     },
     {
+      "id": "e351453a93f7",
+      "title": "Ozivy: o que é, para que serve, quais os efeitos colaterais e quanto custa - Veja Saúde",
+      "published": "2026-09-11T07:00:00+00:00",
+      "summary": "Ozivy: o que é, para que serve, quais os efeitos colaterais e quanto custa&nbsp;&nbsp;Veja SaúdeNova caneta da Mantecorp ganha outdoors pelo Brasil e viraliza nas redes&nbsp;&nbsp;portalleodias.comSemavy chega às farmácias por R$ 333 com semaglutida sintética e desconto de até 67% sobre medicamento de referência&nbsp;&nbsp;revistabusiness.com.brMantecorp anuncia Semavy, sua \"caneta emagrecedora\"&nbsp;&nbsp;Grandes Nomes da PropagandaSemaglutida sintética: entenda o que muda com as novas opções&n",
+      "sources": [
+        {
+          "name": "Veja Saúde",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdWdJWGVQd2dtY1lTZ3RWcG1LNEpHeUMxVEdYSXlNaU5xdkFGOHpSd2E3U2dpdGw3SXJYbXBoQ2tFYUFmcERETlREUXV0OUdRUkxJbWtKUTFoQ1RuenRQdm1PS2ZwbDdtQU5LVjhHTmdTbXA2SFhST2JTMHpxNk5EcWx3TWtNUGNnV2ZXSEJpdnNSNFRqaXl1NHlnVnY3Tk91aVd1RDctTENWTmtq?oc=5"
+        }
+      ]
+    },
+    {
       "id": "577ef3bdd43a",
       "title": "Anvisa Aprova Genéricos de Medicamentos contra Diabetes e Obesidade - Forbes Brasil",
       "published": "2026-09-10T19:23:09+00:00",
@@ -426,26 +486,26 @@
       ]
     },
     {
-      "id": "9ab491bd3349",
-      "title": "Estudo indica que o Sol destruiu planeta 10 vezes maior que a Terra - Olhar Digital",
-      "published": "2026-09-10T19:05:00+00:00",
-      "summary": "Estudo indica que o Sol destruiu planeta 10 vezes maior que a Terra&nbsp;&nbsp;Olhar Digital",
+      "id": "e3f17bb1ec72",
+      "title": "Momento do início da terapia hormonal afeta o risco de demência - Medscape",
+      "published": "2026-09-10T14:08:56+00:00",
+      "summary": "Momento do início da terapia hormonal afeta o risco de demência&nbsp;&nbsp;MedscapeEntrar cedo na menopausa pode afetar envelhecimento do cérebro, indica estudo&nbsp;&nbsp;Folha de S.PauloMulheres que entram na menopausa precocemente têm envelhecimento cerebral mais rápido e diagnóstico de Alzheimer mais jovens; entenda&nbsp;&nbsp;O GLOBOMenopausa muda o cérebro de forma diferente da puberdade e gravidez&nbsp;&nbsp;Correio BrazilienseEstudo liga menopausa precoce a alterações e declínio cognitiv",
       "sources": [
         {
-          "name": "Olhar Digital",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMDdYaU9vQkI2c1J6OEo0OGJCZ243cDU1cUpmd2c5UmhJZFR0d0hOd2g2emRQc0VSLVZZSzlBelJIaExZVHc3SmlkcENoRGkySEMwWjNUenJQRzJNYmlsVDRsMXVuUU5uYWg0NjZQY1ozQ1lwTm9VN3JPNGE2TGlKLWdDTDg0MjdjVUctUERxUk1rMlM0VnJzMUtjcmc0R2dBU2Nwc3U0b2tDNm5Jd0ZicEEwZ0lXSFF1NTRtS3dIeW5mdw?oc=5"
+          "name": "Medscape",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLU5DclNxODVHU3lDRm9vaXFtTkNFaEUtTG9jeEFKeEE4UnJ6SHNJZ19LblQ2dHRJZDJIQjg0YV9NaGhyOEhjaTJWbEdpM25NWGdwd181OGM1UEVTUXFYcmRuVkRJelUtVXJLU1poVUFKR2hXWld5MmxrM0lqa3lrLUl0eWhyVm1TbDBQaUt6MjgwUHVwM0tGVlQ5djR1YmpkYUVfZlpKN19sX2M?oc=5"
         }
       ]
     },
     {
-      "id": "c96f8f9ee790",
-      "title": "O engenheiro da Anthropic que alertou para o risco de a IA exterminar a humanidade: 'Mais de 10% de chance' - BBC",
-      "published": "2026-09-09T23:12:51+00:00",
-      "summary": "O engenheiro da Anthropic que alertou para o risco de a IA exterminar a humanidade: 'Mais de 10% de chance'&nbsp;&nbsp;BBC",
+      "id": "9343eaeef9c9",
+      "title": "OpenAI diz ter resolvido em 88h problema matemático sem resposta há 90 anos (e a acusação feita por dois pesquisadores sobre a empresa) - BBC",
+      "published": "2026-09-09T20:33:48+00:00",
+      "summary": "OpenAI diz ter resolvido em 88h problema matemático sem resposta há 90 anos (e a acusação feita por dois pesquisadores sobre a empresa)&nbsp;&nbsp;BBC",
       "sources": [
         {
           "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03QUlmM3JJT0JYN1YxTGVnbDB6VTJIU2d3N1ltX3ItM1JiVjM1Mkdqcjl3Rjlpa1ludl9Wd1hZUXJMRXRqbDFjOUhWa0sxcElKRjRUYWthNjVvXzVsRE01cEJ30gFnQVVfeXFMTWxQMUVTb2kxX1drVjJxaU85ZURvSmwtaDBSTVRoejJJMXZibVdXdVpYNUpkZVhzQ0tuQ3ZVNFI2SzdiWm5UUHRLT3pfXzhYdXJLQjNaZnRRUnV1MjdGZU1sU2lJbTVOTQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YNm83T204Ny0xVkJtU2pVZzFPSC1KeTlzdVYxVmN3QmlDUlhhMldRZnN5YnNjUGUtaU9sZlhOS3JMNk9LU05lZEZlVVJBUVZnTXJXZXBrRW5GNGp6ZEVQU2pB0gFnQVVfeXFMTjB1NlIxYWdzOXU5MDJwTWxkY1NGcUdNVDE2UmdlYkdLZGVtbm9WdzR3Y3dvSHNHSnVYV0JISXRwQndpbnFHV1h6cmFQQ2NJQTZsM3VWbUFtU2M5OXlkUTM2RHRoVDhsTQ?oc=5"
         }
       ]
     },
@@ -453,7 +513,7 @@
       "id": "ba59837ffa8a",
       "title": "Saiba quem pode, quem deve e onde se vacinar contra o pneumococo no DF - Correio Braziliense",
       "published": "2026-09-09T17:38:00+00:00",
-      "summary": "Saiba quem pode, quem deve e onde se vacinar contra o pneumococo no DF&nbsp;&nbsp;Correio Braziliense",
+      "summary": "Saiba quem pode, quem deve e onde se vacinar contra o pneumococo no DF&nbsp;&nbsp;Correio BrazilienseSUS vacina mais de 1 milhão de crianças com Pneumo 20&nbsp;&nbsp;Diário CorumbaenseSUS alcança mais de 1 milhão de crianças vacinadas contra doenças pneumocócicas — Ministério da Saúde&nbsp;&nbsp;www.gov.brSUS chega a mais de um milhão de crianças vacinadas contra doenças pneumocócicas&nbsp;&nbsp;Rádio MetrópoleMais de 1 milhão de crianças já foram protegidas pela Pneumo 20 no SUS&nbsp;&nbsp;Cost",
       "sources": [
         {
           "name": "Correio Braziliense",
