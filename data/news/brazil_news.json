@@ -1,10 +1,22 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-09-16T03:51:41.748712+00:00",
-  "total_fetched": 96,
-  "unique_count": 94,
+  "fetched_at": "2026-09-16T11:01:14.474677+00:00",
+  "total_fetched": 98,
+  "unique_count": 97,
   "health_related_count": 35,
   "news": [
+    {
+      "id": "81841931765b",
+      "title": "'Restaurante a céu aberto' de tuiuius impressiona turistas no Pantanal de MT - Primeira Página",
+      "published": "2026-09-16T01:31:47+00:00",
+      "summary": "'Restaurante a céu aberto' de tuiuius impressiona turistas no Pantanal de MT&nbsp;&nbsp;Primeira Página",
+      "sources": [
+        {
+          "name": "Primeira Página",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQV0daLTVWTzdFYTVQVkJNeC1tcUZnaGJvbFVHZ2duU0xOdVI1OVhJNnl1YnpuNm5pNTVvSFVDemRRZld2cXc0eGtGZkh4MHRQNXE0Q2MzM2Fpc3U3WWNiam9UOV8weVRZX3RFXzlXTVNEWG1CQm9JRXFqRTF4OXJMM0xDYUVlbFpFV3kwRjczbnpmZ3Yzc0pTTy1xYVF2U1l5WUhnbjlPbFpJYmk4RlI3WHZ0VEhzOEZCWmJid016S2xCMVh1UldnOHhyUW9abW1VNmpNWV9YejJKS0NYQlE?oc=5"
+        }
+      ]
+    },
     {
       "id": "35eded87d841",
       "title": "SpaceX fará primeira tentativa de colocar Starship em órbita da Terra - Olhar Digital",
@@ -21,23 +33,11 @@
       "id": "f04895f9d1a3",
       "title": "Lúcia Helena: Vacinação na gravidez: o que você precisa saber e o que precisa esquecer - UOL",
       "published": "2026-09-15T23:32:18+00:00",
-      "summary": "Lúcia Helena: Vacinação na gravidez: o que você precisa saber e o que precisa esquecer&nbsp;&nbsp;UOLOs anticorpos que atravessam a placenta: como vacina da mãe protege o bebê antes mesmo do parto&nbsp;&nbsp;G1“Vi meu filho desfalecer em meus braços”: falta de vacinas na gravidez expõe bebês a doenças graves&nbsp;&nbsp;Veja SaúdeVacina contra VSR em grávidas reduz número de internações e óbitos em menores de dois anos&nbsp;&nbsp;O TEMPOCidade de São Paulo supera meta de vacinação contra vírus si",
+      "summary": "Lúcia Helena: Vacinação na gravidez: o que você precisa saber e o que precisa esquecer&nbsp;&nbsp;UOL“Vi meu filho desfalecer em meus braços”: falta de vacinas na gravidez expõe bebês a doenças graves&nbsp;&nbsp;saude.abril.com.brOs anticorpos que atravessam a placenta: como vacina da mãe protege o bebê antes mesmo do parto&nbsp;&nbsp;G1Vacina contra VSR em grávidas reduz número de internações e óbitos em menores de dois anos&nbsp;&nbsp;O TEMPOCidade de São Paulo supera meta de vacinação contra ",
       "sources": [
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPclZ4NklTSS1XOEd0ckRWNF9VSnZnQzFYRjZTcHpuWFJ3aGZLUERncW9SdGwxZzJHQ0d3c2p2dlhvbEpjNHdUVTViZXVwVmtzeWRqMm01VFV3QnlPLUwwWC03ZXo4NTZDbXVHbDUwbUw0STBWYVVaSENvNk9KUUpQc01sb0lOTS0xWUNzM29nMWxYZm1hVURuRW9adFluX2tTelMtLTNteld2ZVFBbmlvd3djQnZCdGdhNGxkV3h3Nk9sd1ludUFwYlhfRnB4WGU5QmhyXw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dddfeec6bf6b",
-      "title": "Estudo propõe que Vênus engoliu lua própria bilhões de anos atrás - Diário do Centro do Mundo",
-      "published": "2026-09-15T23:11:51+00:00",
-      "summary": "Estudo propõe que Vênus engoliu lua própria bilhões de anos atrás&nbsp;&nbsp;Diário do Centro do Mundo",
-      "sources": [
-        {
-          "name": "Diário do Centro do Mundo",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUW5uRXlUQVgzOTNNQlc5cUdYNmZpakR2OXVkX0Q0WXVENmVXY3VPQmpJTlZJdEU3T2RTVlNOR3c1eTlGc2dBRWI1bEM3TGhQR0NaVFV1b3lHeVk1RTZaSU56b2NtbGNpc0VoMUpZa01BMFB3MjlqUG45c05QTnFaRXhMNVRfM1h2V20yV0tCdkwtOE02c2s1MUlB?oc=5"
         }
       ]
     },
@@ -57,11 +57,23 @@
       "id": "c20fd54e5fb4",
       "title": "Acordo entre Opas e farmacêutica abre caminho para injeção semestral contra HIV chegar ao Brasil - Folha de S.Paulo",
       "published": "2026-09-15T18:45:00+00:00",
-      "summary": "Acordo entre Opas e farmacêutica abre caminho para injeção semestral contra HIV chegar ao Brasil&nbsp;&nbsp;Folha de S.PauloHIV: farmacêutica que desenvolve medicamento semestral de prevenção se compromete a avançar em negociações para produção no Brasil, diz Opas&nbsp;&nbsp;O GLOBOOpas anuncia parceria para ampliar acesso à injeção bianual que previne o HIV&nbsp;&nbsp;VEJALenacapavir: Acordo pode trazer nova PrEP injetável ao Brasil&nbsp;&nbsp;Campo Grande NewsGilead e OPAS firmam acordo para a",
+      "summary": "Acordo entre Opas e farmacêutica abre caminho para injeção semestral contra HIV chegar ao Brasil&nbsp;&nbsp;Folha de S.PauloOPAS anuncia ampliação do acesso ao lenacapavir para prevenção do HIV na América Latina; Brasil pode ser beneficiado&nbsp;&nbsp;G1Opas anuncia parceria para ampliar acesso à injeção bianual que previne o HIV&nbsp;&nbsp;VEJALenacapavir: Acordo pode trazer nova PrEP injetável ao Brasil&nbsp;&nbsp;Campo Grande NewsInjeção que previne HIV por seis meses pode ser produzida no Br",
       "sources": [
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSHBVQk1IdlBTMXpVdzI3YmJULXh0eWlVOXZiUFBlekpKOWlBZ1NlMnZoazdpZ3NFMW1OTElIMmpKd2lsRjhzTjN6YTRCeGdXVGk0RVVkNlE0Ym5ZSGRRR1dTMWJDS2poTEJpUXFFb0NlOHJ5UWxtT01kVmNTX1ROem4xakRvVjlPbGVZT3hqVlppQ0p0WlRXMGhsSXJaV3dzWHlTT1MzaVdCQXFQQUxrellVRzJFWEMxczlnXzNwNGFOdmt1Mmt3eXNlZ1kzTHZwVW9ldE96aF9QdUZDNXJQTHFuc3V0QzZzaDc0Vw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cee6e2a36d33",
+      "title": "Canibalismo celestial poderia explicar Vênus não ter lua, mostra estudo - Folha de S.Paulo",
+      "published": "2026-09-15T18:05:00+00:00",
+      "summary": "Canibalismo celestial poderia explicar Vênus não ter lua, mostra estudo&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMnlZR2d4d0xKZFJSNi1wcF9falBzaUo3QzJWSUFnWlRhSnI1Z29zSXhjWFRfdEVHd0Q4X2Zoc242SENwNXltel9OejRVUEd5VFZtY3FyUTJ4QTltdjZVUkxVT3dLUDFxU1dXTDlKYzRDSFpuQzNoMXdrV3c1MkJoUHcyTmp6TnJkYk5TaFk5eVBGVEdzQU41eGg1bFE0SnkwTkpQc3BLaVlrMzgtblB4TlVQdldndkZPWUQyY0l5WQ?oc=5"
         }
       ]
     },
@@ -81,7 +93,7 @@
       "id": "a52aff49096f",
       "title": "São Paulo chega a 36 casos de sarampo em 2026; 26 não tinham vacinação completa - Folha de S.Paulo",
       "published": "2026-09-15T15:34:00+00:00",
-      "summary": "São Paulo chega a 36 casos de sarampo em 2026; 26 não tinham vacinação completa&nbsp;&nbsp;Folha de S.PauloBoletim.leg - Edição das 22h&nbsp;&nbsp;SenadoMais dois bebês com esquema vacinal incompleto são diagnosticados com sarampo em SP&nbsp;&nbsp;EstadãoBebês com diagnóstico de sarampo não tomaram vacina&nbsp;&nbsp;jornalcruzeiro.com.brSão Paulo registra quatro novos casos de sarampo; total em 36&nbsp;&nbsp;Correio do Povo",
+      "summary": "São Paulo chega a 36 casos de sarampo em 2026; 26 não tinham vacinação completa&nbsp;&nbsp;Folha de S.PauloBoletim.leg - Edição das 22h&nbsp;&nbsp;SenadoBebês com diagnóstico de sarampo não tomaram vacina&nbsp;&nbsp;jornalcruzeiro.com.brSP confirma quatro casos de sarampo&nbsp;&nbsp;R7Mais dois bebês com esquema vacinal incompleto são diagnosticados com sarampo em SP&nbsp;&nbsp;Terra",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -105,7 +117,7 @@
       "id": "2acd6d0a3cf2",
       "title": "SOP agora é SOMP: riscos além da fertilidade e diabetes - Campo Grande News",
       "published": "2026-09-15T13:22:00+00:00",
-      "summary": "SOP agora é SOMP: riscos além da fertilidade e diabetes&nbsp;&nbsp;Campo Grande NewsVeja mais manchetes e perspectivas no Google Notícias",
+      "summary": "SOP agora é SOMP: riscos além da fertilidade e diabetes&nbsp;&nbsp;Campo Grande NewsSíndrome dos ovários policísticos ganha novo nome e reforça alerta para risco de diabetes&nbsp;&nbsp;JD1 NotíciasComecei a sentir dor pélvica aos 8 anos e perdi um ovário por diagnóstico tardio, diz jovem com Somp&nbsp;&nbsp;Folha de S.Paulo",
       "sources": [
         {
           "name": "Campo Grande News",
@@ -117,7 +129,7 @@
       "id": "db0585906e3b",
       "title": "Nova vacina: SUS vai oferecer imunizante contra a pneumonia para quem tem mais de 85 anos; veja taxa de letalidade da doença - O GLOBO",
       "published": "2026-09-15T12:22:32+00:00",
-      "summary": "Nova vacina: SUS vai oferecer imunizante contra a pneumonia para quem tem mais de 85 anos; veja taxa de letalidade da doença&nbsp;&nbsp;O GLOBOVacina pneumocócica: conheça o imunizante liberado para idosos com 85 anos ou mais&nbsp;&nbsp;UOL NotíciasPneumo 20: vacina ‘turbinada’ contra pneumonia será oferecida para idosos com mais de 85 anos&nbsp;&nbsp;VEJASUS amplia vacinação contra pneumonia e meningite para idosos de 85 anos&nbsp;&nbsp;CNN BrasilPneumo 20: MS vacina 21 mil crianças pelo SUS&nb",
+      "summary": "Nova vacina: SUS vai oferecer imunizante contra a pneumonia para quem tem mais de 85 anos; veja taxa de letalidade da doença&nbsp;&nbsp;O GLOBOVacina pneumocócica: conheça o imunizante liberado para idosos com 85 anos ou mais&nbsp;&nbsp;UOL NotíciasVeja como vai funcionar vacinação contra pneumonia para idosos com 85 anos ou mais&nbsp;&nbsp;G1Nova vacina: Ministério da Saúde vai ofertar pneumo20 para quem tem mais de 85 anos&nbsp;&nbsp;www.gov.brPneumo 20: vacina ‘turbinada’ contra pneumonia ser",
       "sources": [
         {
           "name": "O GLOBO",
@@ -138,6 +150,18 @@
       ]
     },
     {
+      "id": "fd3da5818f3c",
+      "title": "Testosterona feminina: entenda o uso científico e os riscos do excesso - folhavitoria.com.br",
+      "published": "2026-09-15T11:00:27+00:00",
+      "summary": "Testosterona feminina: entenda o uso científico e os riscos do excesso&nbsp;&nbsp;folhavitoria.com.br",
+      "sources": [
+        {
+          "name": "folhavitoria.com.br",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWE80UEdnMEVoeDZ5NGZibjJYZFhpVDFPUGN6UnBvVzZmZjY0UDk4Q1RIUWRhZHhZRUdFUFNjVWtJdlBPY01PdzFTdExXbDJtM0szdUY0UERkUzJsQ1BUd0w1bWYyTUNJM05Dc0NpcnZsRGhsajY2U1VwcmdHd0hKckxmNkczdVU?oc=5"
+        }
+      ]
+    },
+    {
       "id": "473231ed4f23",
       "title": "Sarampo volta a matar nos EUA e confiança em vacina cai - UOL Notícias",
       "published": "2026-09-15T10:45:45+00:00",
@@ -150,25 +174,37 @@
       ]
     },
     {
-      "id": "015fe3859a68",
-      "title": "Venda de ‘canetas emagrecedoras’ cresce 41% no Ceará e responde por até 8,6% do faturamento de redes - diariodonordeste.verdesmares.com.br",
+      "id": "34dc51360b85",
+      "title": "Venda de ‘canetas emagrecedoras’ cresce 41% no Ceará e responde por até 8,6% do faturamento de redes - Diário do Nordeste",
       "published": "2026-09-15T09:00:00+00:00",
-      "summary": "Venda de ‘canetas emagrecedoras’ cresce 41% no Ceará e responde por até 8,6% do faturamento de redes&nbsp;&nbsp;diariodonordeste.verdesmares.com.brCanetas antiobesidade: entenda diferenças de moléculas, categorias e regras&nbsp;&nbsp;UOLCanetas emagrecedoras impactam tratamento de obesidade&nbsp;&nbsp;Correio BrazilienseDe nicho à transformação social: a nova função das canetas emagrecedoras&nbsp;&nbsp;Meio e MensagemEntenda os riscos do uso de canetas emagrecedoras na infância&nbsp;&nbsp;G1",
+      "summary": "Venda de ‘canetas emagrecedoras’ cresce 41% no Ceará e responde por até 8,6% do faturamento de redes&nbsp;&nbsp;Diário do NordesteCanetas antiobesidade: entenda diferenças de moléculas, categorias e regras&nbsp;&nbsp;UOLCanetas emagrecedoras impactam tratamento de obesidade&nbsp;&nbsp;Correio BrazilienseDe nicho à transformação social: a nova função das canetas emagrecedoras&nbsp;&nbsp;Meio e MensagemComida rica em nutrientes e baixa em calorias: conheça a tendência&nbsp;&nbsp;Terra",
       "sources": [
         {
-          "name": "diariodonordeste.verdesmares.com.br",
+          "name": "Diário do Nordeste",
           "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSnlpV0s2ZDJHMm9qT3FkOEdXZ0tid3pEYXR2a2ZTdzExeHhsMVBvLVUzRVFWZ0tTTHpsNWxjMjBiZVplX2pCeDlUV09DY0tNQUhfT2tQOG1sUGlQMDB6azhKNFo0djdKQlBEQnM2VXRFR0JGTkhndEFFV2htMjVOUi1iaTVFT3N1MjBmX3ZRdXhJQzd6NTdIZ2Y0X2lmNlAzU1lzUTRaRGUtWExuTEhWb3BxenVZSkdWT3EzQXVQLUxlT1F2M1A3ejFUSEtrSWVNaUF1SHNGSHNicmd3TXBLdHFHZHdUaV9vNFNFUXJvSQ?oc=5"
         }
       ]
     },
     {
-      "id": "f28f6fd47f9d",
-      "title": "Empresas de alimentos deixam de monitorar riscos do clima para o abastecimento, diz estudo - Globo Rural",
-      "published": "2026-09-15T08:46:00+00:00",
-      "summary": "Empresas de alimentos deixam de monitorar riscos do clima para o abastecimento, diz estudo&nbsp;&nbsp;Globo Rural",
+      "id": "f2454c751496",
+      "title": "Programa de incentivo à indústria precisa de metas, monitoramento e coordenação com política monetária, aponta estudo da UFMG - O GLOBO",
+      "published": "2026-09-15T09:00:00+00:00",
+      "summary": "Programa de incentivo à indústria precisa de metas, monitoramento e coordenação com política monetária, aponta estudo da UFMG&nbsp;&nbsp;O GLOBO",
       "sources": [
         {
-          "name": "Globo Rural",
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQV1FJMzhWa3N1aktKR1RUS09EdGU5azVwQkE1VUJVUGZLOWFGZldkYTE4dXQ0SUVqTXdueWloSWtrbFM1N1d3S3hhUVhYUzlEaUVhVTc4b3ZyT2VvbXFjOHZva2VIajFXYTV2QTBkb3ZkaGlKYVZhRjhqUVJIbDRUMG5NaHBLRnRCVV9zcWdEdnRDREJ4NmNCaHBzRHdWLWUwTkVPR24ta0NOUHdUYk1GUkFRdmdUOWRDTjV0OVhlMWZSUk9ZN094N2pFbVRKQUVuUF84a1hRVV9hQVRtRGZlR3I0VC01aTBPdFNaV0JjaHFDcDFsQVpTTWNmdGNIUmJzVzRNcS0tOUszT3hrWUN6eHh2QWFFS1Fn0gGnAkFVX3lxTFBxTHdTNEdZNERxOWpUWjNEWmhiem1lWjZRR1FINVVwQ0hHMlJZSEJ4NzZ3NFV2Y3ZqOXZiUXRtR2JQa1BSanhJSnp5QWpCX05nMHVNbzlPNUVHRVUtM1lxN3hidTlzdjFfaGNBU1JLcldtZDBjUTVpSFo5TmxkMHpTYXdqT2MwREdwWnpWdWptemU2VkdBeFlwRG1DMkl3SmR2bWtxQnlvRmE4NkRtNk1NNm1kbFBOYlZNS2hRMnJBVVRtSFUyTS1PWjgyVjZ4eVZxUGNTaE9uRVRoVkRJaVJLak02bzkza2thSE5JTURXVTJpOFVwR3A2MDJXQTI2dzAwdW1PZDV2cE1HM2k0amc1S3laUTRCSkhDZEltWFo5VWdrZVhUTnM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "22f7babdd457",
+      "title": "Empresas de alimentos deixam de monitorar riscos do clima para o abastecimento, diz estudo - globorural.globo.com",
+      "published": "2026-09-15T08:46:00+00:00",
+      "summary": "Empresas de alimentos deixam de monitorar riscos do clima para o abastecimento, diz estudo&nbsp;&nbsp;globorural.globo.com",
+      "sources": [
+        {
+          "name": "globorural.globo.com",
           "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOWJWcFREaFo3ZXFmeFRuLWZhNWl2dDFGWlNicloxR05zdjM1SGJOeDFOd2twNDVMMjRWdnpBOG9jTy16eW5NRlhWODlkVmlXSW1KV1gxMUVTRlFEd3h6T3hLMy1CR0tyRUwycnpUQXNlQTB1LUNEUnBXeDZ2aHZvMzVldmdvRnZ5TDJKSE9ZUU05bi04V3RHZWZvc3hsbWw5UzRQZ2dudUtvUVdIQi1QWXlSZmNSVTEtQnNTRDkybWRsU1F0V1VkYl9ZNU9JTjZiRWNYOURITWd4Uk9wLWhZ0gHuAUFVX3lxTFBqWF80VnI5c2RlbDFmYnhjY3lIT1NpUDVvMDRoeHh3U0NNLUpJOVRiS1lWMmFXby1XcHY4V3hUNFJveDRyZE5XQl9VSjRqU25RTDdmc2ZzTS1pUGs4X0hWQVZEa0FxdVJYVlJGdFdoWHM4NHZQaE9GQ1RsNE9rTWVaYXF2RXp0VUZVR1Z5ekF0ZXJUTGZyMUtxMGlDQTBIVmkzZHJacHdjS1NLcmRWVnBUekdvSS1WTkd2U0FIQ1JXbjVpNzdvUmlFOG9MSU5HREFVa3FkbE96R25qSUQ4VzZEWHpyYlU2eW9PZXJnTVE?oc=5"
         }
       ]
@@ -177,7 +213,7 @@
       "id": "08d477d56476",
       "title": "Diversificar os Exercícios Pode Aumentar os Benefícios para a Saúde - Forbes Brasil",
       "published": "2026-09-15T08:00:00+00:00",
-      "summary": "Diversificar os Exercícios Pode Aumentar os Benefícios para a Saúde&nbsp;&nbsp;Forbes BrasilMusculação realmente pode ajudar a viver mais?&nbsp;&nbsp;BBCPor que fazer vários tipos de exercício pode ser a chave para uma vida mais longa&nbsp;&nbsp;G1Musculação se consolida como aliada de idosos que buscam autonomia e longevidade&nbsp;&nbsp;R7Marcos Vázquez, personal trainer: 'Uma pessoa de 80 anos que se mantém em forma pode ter a força, a resistência e a vitalidade de alguém de 45 anos'&nbsp;&nbs",
+      "summary": "Diversificar os Exercícios Pode Aumentar os Benefícios para a Saúde&nbsp;&nbsp;Forbes BrasilMusculação realmente pode ajudar a viver mais?&nbsp;&nbsp;BBCEste é o principal exercício para promover a longevidade, segundo especialistas&nbsp;&nbsp;GloboTreino de força e atividade aeróbica juntos aparecem ligados a resultados mais favoráveis para a saúde, apontam pesquisadores em novo estudo&nbsp;&nbsp;Correio BrazilienseMusculação se consolida como aliada de idosos que buscam autonomia e longevidade",
       "sources": [
         {
           "name": "Forbes Brasil",
@@ -225,11 +261,23 @@
       "id": "f210d3fcca81",
       "title": "Alzheimer não é apenas esquecimento: veja 10 sinais que podem aparecer no dia a dia - Jornal Correio",
       "published": "2026-09-15T00:29:57+00:00",
-      "summary": "Alzheimer não é apenas esquecimento: veja 10 sinais que podem aparecer no dia a dia&nbsp;&nbsp;Jornal CorreioAlzheimer: exame de sangue auxilia na investigação&nbsp;&nbsp;Veja SaúdeSetembro Lilás: especialista explica sintomas, diagnóstico e tratamento do Alzheimer&nbsp;&nbsp;G1É normal a memória falhar depois dos 50 anos?&nbsp;&nbsp;Tribuna OnlineSegunda doença mais temida no Brasil, Alzheimer exige diagnóstico precoce e acolhimento, destaca Sindifato&nbsp;&nbsp;Conexão Tocantins",
+      "summary": "Alzheimer não é apenas esquecimento: veja 10 sinais que podem aparecer no dia a dia&nbsp;&nbsp;Jornal CorreioAlzheimer: exame de sangue auxilia na investigação&nbsp;&nbsp;saude.abril.com.brSetembro Lilás: especialista explica sintomas, diagnóstico e tratamento do Alzheimer&nbsp;&nbsp;G1É normal a memória falhar depois dos 50 anos?&nbsp;&nbsp;Tribuna OnlineComo identificar o Alzheimer no início? Veja os sinais sutis de alerta&nbsp;&nbsp;A Gazeta",
       "sources": [
         {
           "name": "Jornal Correio",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxON25KZmNwNXBCSU9UeV9Tdm43ZHl3M3R3ME5BRjR0U1VnQmpFVTBDeDFYamU0OHBob2tGR0s1V0FTNDcySFJ6TlBIZjk3OEdyODdaWmJtZWVJYm5acU9xRjR3OWlrbXJyZUNWMWpvUFRDVGtrU21kZjdLN3ZrTjFIM2xEZm9SYlFmT0FZeFBJaWU3bkpXM3g0aEstc3pqMjhWTkJxMkJuSDNxU2VsOTZEQ3RmSlBHb1dUeEgzQjktczlYMTlwdHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d3688246fcfd",
+      "title": "Câncer de pâncreas pode começar sem sintomas; veja sete sinais de alerta e os novos tratamentos - Jornal Correio",
+      "published": "2026-09-14T23:51:45+00:00",
+      "summary": "Câncer de pâncreas pode começar sem sintomas; veja sete sinais de alerta e os novos tratamentos&nbsp;&nbsp;Jornal CorreioCâncer de pâncreas ganha novas opções de tratamento com avanços na tecnologia&nbsp;&nbsp;HojePRCâncer de pâncreas: sintomas discretos dificultam diagnóstico precoce; entenda fatores de risco e avanços no…&nbsp;&nbsp;brandnews.com.br",
+      "sources": [
+        {
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQ3NFTVZ0aFdPLXVObFZsR1BjZThsOHc0UEVHS1NUSnVJYWhLZ2dPX3JFR3lLQmFJUVRxaTA4UzNNLXBvSzlVLWg3UFFHRXRYWFRhbXAweFVzeGZvQlZfcVRXTEN4elpWbE4tOV9URUY0eDVhRWNlc204WW4wakNvVVVDVmpXbms0bGlVNXBldUc3UXhRRmg3eUtTSGtPcnNSdmFsOElJc3d2Tjd0dV9uM3BXdGpIcnJxNnp2Q25yMmtSZU1rVUQ2dDcxdWd1VWRBLVB2a2VR?oc=5"
         }
       ]
     },
@@ -246,18 +294,6 @@
       ]
     },
     {
-      "id": "4c74cc209b5c",
-      "title": "Estudo relaciona remédios emagrecedores a depressão e pensamentos suicidas - Metrópoles",
-      "published": "2026-09-14T21:06:00+00:00",
-      "summary": "Estudo relaciona remédios emagrecedores a depressão e pensamentos suicidas&nbsp;&nbsp;MetrópolesOzempic e Wegovy podem ter efeito inesperado no transtorno bipolar, aponta estudo&nbsp;&nbsp;ExameCientistas descobrem possível benefício inesperado envolvendo semaglutida e saúde mental&nbsp;&nbsp;Jornal O SulEstudo encontra associação entre remédios para emagrecer e problemas de saúde mental&nbsp;&nbsp;Portal SGCAlém do emagrecimento, canetas emagrecedoras podem reduzir depressão e ansiedade&nbsp;&n",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR0hqWFl5c0R4TDd2SWJhZEN4bUdudlhhR3JGM0tLU2VINFNXal92V3dtTlBEeU5tZVhFWjdCQk9QUE9XcHdiODAyMGV3T19RS2tCTm5MSVl4NEJNX051RVZUaEpyUTh6ZkZ4N2tKTFZZY3lfVnk3QUJVdGVGTnhRNGFmWE9CdFFvNDVvTU1lclQ1eEEwM3lCd0V4cTRGRWl1dU5wdFNoelZCN0E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "13cc5db38676",
       "title": "Semanas após ser picado por um carrapato, ele não conseguia falar nem se mexer. Uma série de exames finalmente lhe deu um diagnóstico - CNN Brasil",
       "published": "2026-09-14T19:34:35+00:00",
@@ -266,18 +302,6 @@
         {
           "name": "CNN Brasil",
           "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPUVRRbWRPUzRzYm5aTWE5SW5OaUNkUFROSVRvRS1xSFpfNHBlZUdSQjNPNUtQSmdJd1V1SEpGV3dybmtacW1ZWjRNY1dxODdRbmdHak1OS09KUks1dEhGRFVaM0s3VE9tYVNKVlhER2diVFhrZTdPRTJfdU5uV1RuVk1yZHA4Yjl3OXB0M1dqUUJ3ZUxJckpJNWdvLWlHTS0xdWxRSkdyb21oZnBnaFdOYURCYUtOM3BLblEwbnYzU293cVhEYm5SMG1vTXdBeVlkZWdHaGx6TkRkSTRrdlV6WDlCMU5EUmxjeGJKQWE1ZVRiOTFacXVvQi1VLUQ3QQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "df3bd93da7ff",
-      "title": "Pesquisa mostra como a primeira ave levantou voo há 150 milhões de anos - CNN Brasil",
-      "published": "2026-09-14T16:49:16+00:00",
-      "summary": "Pesquisa mostra como a primeira ave levantou voo há 150 milhões de anos&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZTVfd3RTMC1LdVRJc2pRVW1MM3F5S0FRaGVOYkFaN09kN3YxZFF2NWNxSk1UcHI4WDN0OGJnS2VaNFhtdndZems2Zld5T3VzdS00cDJ0ck1LWHRMTVo1ZEdaRTB1cC1Cbzd6OEgzOXZjdlRHUENsTTFyamJaRC1qODRoRkpwUkVwbm1ld0lCNGVyRldTNERlQ3pGcTlRdkZRdDdncHphVjFLY25hcHc?oc=5"
         }
       ]
     },
@@ -306,62 +330,26 @@
       ]
     },
     {
-      "id": "28eb7d6702de",
-      "title": "China põe cientistas em outdoors para atrair jovens à pesquisa - VEJA",
-      "published": "2026-09-14T13:53:32+00:00",
-      "summary": "China põe cientistas em outdoors para atrair jovens à pesquisa&nbsp;&nbsp;VEJA",
+      "id": "4a913489caab",
+      "title": "Irmãs cariocas, recordistas do Guinness como o trio mais longevo do mundo, são escolhidas para estudo científico - CNN Brasil",
+      "published": "2026-09-14T14:03:29+00:00",
+      "summary": "Irmãs cariocas, recordistas do Guinness como o trio mais longevo do mundo, são escolhidas para estudo científico&nbsp;&nbsp;CNN Brasil",
       "sources": [
         {
-          "name": "VEJA",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV3dMNDdYYU5aVDMyZVlONHkxVXhldGlPNGtjU3lhSGVQdHNNMkdXTVpNXzNDUlRTUW9mUy1BaGtWSFZ4M1RvMHh3ampRYUpJb0tEQkhINGxaQl9QZERHZXF2Mmp3VVVBalVHTDFoeGs0R2VUamxxYzltQ2pJV01vQWQ3SHVIQ0NjU2FCZDdnTmhmSTdTN3FZLXhfa25XS0hlMkRGUjBxNlA2eV9aM0RFc2FGM08?oc=5"
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdUZjZTFSRFl4b0xqaVNxdkNXelhibGY3bUQxVEs0MzRNMHZ1TVQxQk8wWXJxSWZDd2tMbC14eGJtV1dheVRQZGlzbHZHYmJqUUJneUF0MjFXWGZTRGpoVzF1MzhWUmZjVHhmcFYyM1Z6MlhvYnkwV2FMWmZhTlo1S1pPZFlKLVRzZ1h0cG1MV3BzZE5yVXFLNEJOYlVYaG85VTRncGhrb0ZPdGN1MkZsZlU5bGRLbHA0YWhNb056TlNReGxDY0J4aTE0UUZaSHkyT3pnMjRtR1JQazlacnVnem9wZERwYzhz?oc=5"
         }
       ]
     },
     {
-      "id": "f22faed6e4cc",
-      "title": "34, 60 ou 78? Ciência divide o envelhecimento em três fases - O GLOBO",
-      "published": "2026-09-14T13:47:28+00:00",
-      "summary": "34, 60 ou 78? Ciência divide o envelhecimento em três fases&nbsp;&nbsp;O GLOBOCiência acaba com o mistério e revela quais são as 3 idades em que o corpo realmente envelhece e muda mais&nbsp;&nbsp;Diário do ComércioExames prometem medir a idade biológica, mas especialista alerta: nem todo biomarcador de longevidade tem benefício comprovado&nbsp;&nbsp;SBPC/MLO corpo não envelhece no mesmo ritmo: estudo aponta acelerações importantes nos 30 e nos 50 anos&nbsp;&nbsp;O POVO",
+      "id": "d8053f7bba1c",
+      "title": "Novos fósseis revelam como viviam os denisovanos, primos extintos dos sapiens - Superinteressante",
+      "published": "2026-09-14T11:00:00+00:00",
+      "summary": "Novos fósseis revelam como viviam os denisovanos, primos extintos dos sapiens&nbsp;&nbsp;Superinteressante",
       "sources": [
         {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZGZKcXZLYzlGMjBhZi1zTzRBU2pXa2dVSlBRX3c3RXo2b09QWjBWV0JxRUV1TVN2QjBHY0pTTGNOdDVqY0N2cnF6OF9jbHhiYVdWN2tjNW10ZHlDREYwd3l4U3JGaHdsUXU3MXpKT29TMzlyMHhONGV1aW8wOGJvTVpmbnhkTkV0cXhqeWJVcDdGQXduTWhCaUI5akpBeGZoTFhGdk13MHVLUUQyWUFlYzV4NNIBwgFBVV95cUxNQWlOR1lwWTNNc3FiaW9iQ2RWXzVDcjV1eTdvcXFLU2RoVDlUOVhNU1JGbklhbjZvZXljODhhdXRKTUtZMWJoWmlOaWxmbmdNZWR6Y19iT29pX3VyemZZUnE5b19rSzFXNS1kcDY3cGllTHF6b1BPc25WRi0xNGkwdGRWLVRuekhlQWE1ejcwa3NjcVJqZVEzdVFoWG9IcEI1WVZTcFFPakpRVkJlbk5FZFl5Z2hGd3EzNnJrMDUzUnF4QQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cc6db218f30f",
-      "title": "Médicos explicam doença da filha do cantor Junior Lima - Tribuna Online",
-      "published": "2026-09-14T12:06:49+00:00",
-      "summary": "Médicos explicam doença da filha do cantor Junior Lima&nbsp;&nbsp;Tribuna Online",
-      "sources": [
-        {
-          "name": "Tribuna Online",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYWwzTTExM09LSi0tWF9oOUQ1N3RVTW9KMGRESjVWcVo5M3lWMmh6XzUtU2VMSW1sNHBLWXZnRVdWTURhNHRqNFNUY2llSHhGVExOUHRpMXd0bzlnV2RSYm5vWUtjSDZoa1NVYmRZOE5YNGJWVm1VRVhlSzlNbEJrZ21kbDk0SjhHQUc0UF9yalBINUNmdmpQRklsTm7SAaQBQVVfeXFMTzdCZ1lYenBOSWs2aXh3TFNWNDVkeDhnLVVNbWRiQ3c3Nk0wOUsxczV3Yy1vSm93VTNqV1pibUQ2TjNyOHUwLTE2cE9uQk10TllJWlo3b0ROYXM4Qk51a3R2SDVDeURqcDFVOFY5V0tVWnVsZlN1V2lUWGNmSlYtS2lteDFrUGNPb0k3ZGFRaFlQUGVNOUo4Vjh5MFY0UU0zMldCVmY?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "28ccb3c83fd8",
-      "title": "Casos de câncer de pâncreas crescem entre jovens, aponta estudo - Terra",
-      "published": "2026-09-14T11:15:00+00:00",
-      "summary": "Casos de câncer de pâncreas crescem entre jovens, aponta estudo&nbsp;&nbsp;TerraCâncer de pâncreas pode começar sem sintomas; veja sete sinais de alerta e os novos tratamentos&nbsp;&nbsp;Jornal CorreioCâncer de pâncreas ganha novas opções de tratamento com avanços na tecnologia&nbsp;&nbsp;HojePRCâncer de pâncreas: sintomas discretos dificultam diagnóstico precoce; entenda fatores de risco e avanços no…&nbsp;&nbsp;brandnews.com.br",
-      "sources": [
-        {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRTJzV2c1Z3pZSkdsZVFFMlVTdzhhUE9sZGhEbTFfRURDd3VRUlZiYm9KZ0VaZnJSN0duM1JOQnZXQklRdWxHU000RTJlWFJMbGw2amZiWVlUc2hBNzJCLWU4LThsNmhpcTJYUG5FNkw5OERmU2hIZ1ZPSzVVaUZ6TU9fcjJNRmc2Y0lLTUNyM0hMMF9OYUk4VTBlQ3MzcWZ0RHZyRmI1SlItamE4VHE5dklvRUo5aGkwWVZwM2tyYUI3UFUtVFFONnFNUTd1TG4tS2lNVEJxUE1oWkp4ZHpLSw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4a11b90a4dbe",
-      "title": "Jovem passou 11 anos em quimioterapia após diagnóstico errado de câncer cerebral no Reino Unido - O GLOBO",
-      "published": "2026-09-14T09:48:28+00:00",
-      "summary": "Jovem passou 11 anos em quimioterapia após diagnóstico errado de câncer cerebral no Reino Unido&nbsp;&nbsp;O GLOBOMulher faz quimioterapia durante 11 anos e descobre que afinal nunca teve cancro&nbsp;&nbsp;cmjornal.ptDisseram-lhe que tinha um tumor terminal e ia morrer: 11 anos depois, descobre que nunca teve cancro&nbsp;&nbsp;Flash.ptMulher engoliu sofrimento por 11 anos por tratamento de câncer que não existia&nbsp;&nbsp;bra1.com.brMulher realiza quimioterapia durante 11 anos para câncer que n",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTFFhM2tIWGFKVFJ5VWFOd0RVdGxOUkE3eFZQdG5pbUZyczBjcnlrUGxqTkFiY0RXSzZjVDFVUm1ZTUFsYU95ejhSc2xCUVJySXRKRWJHS3BqOERYYk9zOVBqemtTOVRLV2hBVmNjN1JqNDQxbmpnQUYxVGtZYVhCcENISDYtNGxvblg2bzhoVVJ0cDhINjRwUmMyTThUZDk2U1BxYU42WU5tSTNyT01LRUlYWlRiNTFWcFpKLXhzeURTU3VRMDhOVmJhX1JUdFJJckZyaDVESE9aVWstakl0OUFvek02Y2haYzRaLXVB0gH8AUFVX3lxTFBxN0V3S0FTMGxFMnFObXJwdExOYllzV1c1VWJMclVDU0NNWElZaTNSXzdDbVFyUTJLRTFQRk1UQjZNWjYtWC1jaElMbF9JU0pRR29mMnhiaG9idm13QmpycXVpSVhpcnJ5Z1g4bmFNcHgwOVQ2NE9GclVTX1ZBcFdnemk4T2t0UmVjMGl5SkJvd3lPdVlBUTlXX0dmOGFsdlpCYkI0blp2SFpwTm5xQzZQZTN3X0h5U0lVMHdQQTgzNzMtQkwzZE44ZVZhcDg3NVBOMWYwanBfLTc0YV9lSzllaHhoWWtEejhfOFIzWUhNaGpRTUF6QWdqVnNmeg?oc=5"
+          "name": "Superinteressante",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZzk2dXZaVjJXek5tTHNubEItQ2RvSkdlbnNCRXlhMW5MZkppNjhCOUpQWlMwVTdnbkUzdWZULWVHMlM1VTFHMkp4NS1LNHlHOFFtd0ZBM0xDZVRyMXNvdGExUWlOUUtkck03MEE4RzFsRTdjZ0ZRMmFocU9tT0xrRmkwOExSUmctT0VGV2hRclV1alRzSFdiQ0o3aW1nNmlseFRHSWJ3aXNXM3Vrblo0UzNn?oc=5"
         }
       ]
     },
@@ -369,7 +357,7 @@
       "id": "449335f6ceb4",
       "title": "Síndrome de Hashimoto não tem cura; Dr. Kalil e especialistas explicam - CNN Brasil",
       "published": "2026-09-14T09:00:57+00:00",
-      "summary": "Síndrome de Hashimoto não tem cura; Dr. Kalil e especialistas explicam&nbsp;&nbsp;CNN BrasilCâncer de tireoide não é só um: entenda as diferenças entre os tipos diferenciado e medular&nbsp;&nbsp;jornaltribuna.com.brSetembro é o Mês da Sensibilização para o Cancro da Tiroide&nbsp;&nbsp;Associação das Doenças da TiroideCâncer de tireoide deve atingir mais de 16 mil brasileiros em 2026&nbsp;&nbsp;Bem ParanáSíndrome de Hashimoto não tem cura, mas pode ser controlada&nbsp;&nbsp;AcreNews",
+      "summary": "Síndrome de Hashimoto não tem cura; Dr. Kalil e especialistas explicam&nbsp;&nbsp;CNN BrasilCâncer de tireoide: Não subestime o bócio quando você é jovem.&nbsp;&nbsp;Vietnam.vnSetembro é o Mês da Sensibilização para o Cancro da Tiroide&nbsp;&nbsp;Associação das Doenças da TiroideCâncer de tireoide deve atingir mais de 16 mil brasileiros em 2026&nbsp;&nbsp;Bem ParanáCâncer de tireoide não é só um: entenda as diferenças entre os tipos diferenciado e medular&nbsp;&nbsp;jornaltribuna.com.br",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -393,7 +381,7 @@
       "id": "5fa708e36ca4",
       "title": "Precisamos mesmo dar 10 mil passos por dia? - O GLOBO",
       "published": "2026-09-14T07:30:00+00:00",
-      "summary": "Precisamos mesmo dar 10 mil passos por dia?&nbsp;&nbsp;O GLOBOA regra dos 10 mil passos por dia está errada? Novo estudo responde&nbsp;&nbsp;TerraCaminhar faz bem após os 60, mas pesquisas indicam que o treino de força traz ganhos que a caminhada sozinha não oferece&nbsp;&nbsp;Catraca LivrePassou dos 70? Personal trainer revela como 20 minutos de caminhada podem transformar sua saúde&nbsp;&nbsp;Rádio ItatiaiaPressão está alta e você anda pouco? Caminhar com regularidade pode ajudar no controle&n",
+      "summary": "Precisamos mesmo dar 10 mil passos por dia?&nbsp;&nbsp;O GLOBOCaminhar faz bem após os 60, mas pesquisas indicam que o treino de força traz ganhos que a caminhada sozinha não oferece&nbsp;&nbsp;Catraca Livre30 minutos de caminhada por dia podem melhorar saúde física e mental&nbsp;&nbsp;Jornal O candeeiroMuitas horas sentado? Quantos passos ajudam a reduzir riscos&nbsp;&nbsp;Olimpíada Todo Dia10 mil passos por dia ou menos? Ciência explica qual é a quantidade ideal para se movimentar&nbsp;&nbsp;D",
       "sources": [
         {
           "name": "O GLOBO",
@@ -405,11 +393,23 @@
       "id": "211756f844b4",
       "title": "Anvisa aprova 14 novas canetas para diabetes e obesidade em 2026; veja quais são e seus preços - Folha de S.Paulo",
       "published": "2026-09-14T07:00:00+00:00",
-      "summary": "Anvisa aprova 14 novas canetas para diabetes e obesidade em 2026; veja quais são e seus preços&nbsp;&nbsp;Folha de S.PauloConheça as canetas nacionais de semaglutida aprovadas pela Anvisa e seus respectivos preços&nbsp;&nbsp;VEJABrasil tem 14 novas opções de canetas para diabetes e obesidade&nbsp;&nbsp;MetrópolesAnvisa amplia mercado de análogos de GLP-1 e aprova primeiros genéricos de liraglutida no Brasil&nbsp;&nbsp;Época NegóciosTudo sobre 14 novas canetas - Folha do Estado da Bahia&nbsp;&nbs",
+      "summary": "Anvisa aprova 14 novas canetas para diabetes e obesidade em 2026; veja quais são e seus preços&nbsp;&nbsp;Folha de S.PauloConheça as canetas nacionais de semaglutida aprovadas pela Anvisa e seus respectivos preços&nbsp;&nbsp;VEJABrasil tem 14 novas opções de canetas para diabetes e obesidade&nbsp;&nbsp;MetrópolesAnvisa amplia mercado de análogos de GLP-1 e aprova primeiros genéricos de liraglutida no Brasil&nbsp;&nbsp;Época NegóciosAnvisa aprova 14 remédios para diabetes e obesidade e eleva conc",
       "sources": [
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRk5BbnhzR0swYTJ1bENFRGtqY1lKU3A2Tk9keG12ZWFtT01yejBRbUJ5amVEQjRQTHRCc19qdTVPOWRBUDZYNm9NSjJfMEQ4SU5GSkRWZG9Eak1aZUo3S1pYQU56VTNmOEtwWVcyRkVrSzJDcjh6d0FZOC0xQUJMazNVVWdSTG9SYkxjUjJTOHVOZVJmLXR3cFhvSEJIYjExZWlldnpkWWJjOWgxeDJUTTRWU25SLVo1d1A1engyamVWeHAxSkJPcWE3U2VpN3QyN1dMR2NkTzRxQTh0ejJXR2xXaUs2dTN1anc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c9c9f6acc4dc",
+      "title": "AVC: 'O que aprendi ao ter um derrame cerebral aos 26 anos' - BBC",
+      "published": "2026-09-13T10:19:31+00:00",
+      "summary": "AVC: 'O que aprendi ao ter um derrame cerebral aos 26 anos'&nbsp;&nbsp;BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE56T3RDQ0RtVXVsSXktVTFEWHVKWlI3V3RUeUhPTE0xQnFSODRnNXE2M1FXSG5GVVBaazFaa2JKeFVDWmtJWjE2WnJlSHZOQmUyUDNHZ0Z4c2Y3SWFaRnJBWERB0gFnQVVfeXFMT1pfSGZEZXJ3V0lLZThXY2VoN01fbGZUbzNOVHZmenBxaUVpSTJHaTA0bHBUV1dEcGFSa3l1Tk1HOWppamdfQ0ZtSTRPM1BvUkdldE1xLTdNUXN6U1BmVVA4RXpVRFpGSQ?oc=5"
         }
       ]
     },
