@@ -1,7 +1,500 @@
 {
-  "generated": "2026-09-17T16:28:31.681310+00:00",
-  "count": 40,
+  "generated": "2026-09-17T21:02:52.298318+00:00",
+  "count": 41,
   "news": [
+    {
+      "id": "e1076cdacc1d",
+      "title": "Feiras de Ciências mobilizam alunos da rede municipal de Cabo Frio - Prefeitura de Cabo Frio",
+      "published": "2026-09-17T19:02:59+00:00",
+      "sources": [
+        {
+          "name": "Prefeitura de Cabo Frio",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRng1VnJ0anNqTkxnUkVMUkRaYVg5QWFSbGREUHFjY0FJVkpkNW9EN0h3TW52Qkcyc1dXcVZDRFJMZXE2ZnowMHRyb0ZVT0FwMEZybmV1ZEpZa1BYNElPemtvc3Ria1hUamJ0X01QTVA4aExuZGExcGVVWktBYll1OHZnUk5nTkU0OGFCSFdXdlVVUERzbGhrbjh3NHZJMmZVX1RYVllB?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "diazepam",
+          "keyword": "UNI",
+          "name": "Diazepam",
+          "url": "/drugs/diazepam/"
+        },
+        {
+          "type": "drug",
+          "slug": "zinc",
+          "keyword": "UNI",
+          "name": "ZINC",
+          "url": "/drugs/zinc/"
+        }
+      ]
+    },
+    {
+      "id": "6f7ff3f0657a",
+      "title": "O debate do ovo ou da galinha já não é filosófico: a biologia molecular acaba de encerrá-lo para sempre",
+      "published": "2026-09-17T18:45:00+00:00",
+      "sources": [
+        {
+          "name": "Terra",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPcnphWUEtRHgxT2ExeWNtZ2JpVzJaTU5NbC12WklsUEUyVHFZX2Q1OTkxMV9POU1adWhuM082cjFna1M5Nk13YXR6eFNQYjZBM3hOVTNycFVodzVFdks3RG11LUlKWE9hSmRnUXpzYVI0M3dORnVzVGpxTlM4V0JzQmRfU1JmZTBRTmJMdklXc1Faa2tjNVhqb3h2Rkwyc25yal9XZmpKQ1dnQ0wzdEdrcGhZbG5laTlXRTV1aXJ0NDRIbUF6RjNoZ2ROWHhNc0tMVnVJUVViVHMxUWJ5VVBVUjVISGhVLURpbEFfU3VmR3V6NVlrSXdyY3VldFp3T1Q1NjNyMzdKY3N6Y1k3X3c?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "golimumabe",
+          "keyword": "BIO",
+          "name": "GOLIMUMABE",
+          "url": "/drugs/golimumabe/"
+        },
+        {
+          "type": "drug",
+          "slug": "etanercepte",
+          "keyword": "BIO",
+          "name": "ETANERCEPTE",
+          "url": "/drugs/etanercepte/"
+        }
+      ]
+    },
+    {
+      "id": "b5d697f142cc",
+      "title": "Novo exame de sangue detecta câncer de pâncreas em estágio inicial em 87% dos casos",
+      "published": "2026-09-17T17:40:19+00:00",
+      "sources": [
+        {
+          "name": "InfoMoney",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUDJ5Qng3YXpWallyTVJYR3NGbEtmUEVFZHlnZmRjckcySkY4MC1Ja0p4eGpVV2JleHJHQkxrbldrSVFJLXZlT0xrTFIxT0VNY1kzekoxYmlXQ3pPbjBwWi1zTW1Jdlp2N1M1cE8wZmJDOV9WTlJZZ21BM2xlbEFWamQ3anpLck4zNmZfMzFrTEM5em5nanVSTFZORWladENXcmJRcm9ocmVXR1k3d1NUX1Uxd21VSHdLQmfSAb8BQVVfeXFMUHpVWXlRRTZmSHZSR3NkejI0dUZvbGVCV28zaVRWX1Vxcm9NNzJnQUNkVDY3ZlhuTGZYZXZRZHNmUHpIVTMyU0tjV0Y3VFZCeml5TEZrMEdTeUhSamI5cERxdjZVX3djSU5seVM3YXRXZDYtQWYtVEFlYUF5TF9YZV95REhlYW5mVDZTNE9yWWYxTk1CRXQ4MTJjYUstVHJIXzFpZldDcEVLUG1pVkN4NnpPS0pKU0FHNl9nbmFUV3c?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "levetiracetam",
+          "keyword": "TAM",
+          "name": "LEVETIRACETAM",
+          "url": "/drugs/levetiracetam/"
+        },
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "câncer",
+          "related_drugs": [
+            {
+              "slug": "imatinib",
+              "name": "Imatinib"
+            },
+            {
+              "slug": "oxaliplatin",
+              "name": "Oxaliplatin"
+            },
+            {
+              "slug": "ampicillin",
+              "name": "Ampicillin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "ceftriaxone",
+              "name": "Ceftriaxone"
+            },
+            {
+              "slug": "pegaspargase",
+              "name": "PEGASPARGASE"
+            },
+            {
+              "slug": "potassium_sulfate",
+              "name": "Potassium sulfate"
+            },
+            {
+              "slug": "plerixafor",
+              "name": "PLERIXAFOR"
+            },
+            {
+              "slug": "tisagenlecleucel",
+              "name": "Tisagenlecleucel"
+            },
+            {
+              "slug": "phenytoin",
+              "name": "PHENYTOIN"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "phenobarbital",
+              "name": "Phenobarbital"
+            },
+            {
+              "slug": "risdiplam",
+              "name": "Risdiplam"
+            },
+            {
+              "slug": "letermovir",
+              "name": "Letermovir"
+            },
+            {
+              "slug": "lisinopril",
+              "name": "LISINOPRIL"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "IRBESARTAN"
+            },
+            {
+              "slug": "cefaclor",
+              "name": "Cefaclor"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "sodium_chloride",
+              "name": "Sodium chloride"
+            },
+            {
+              "slug": "tamoxifen",
+              "name": "Tamoxifen"
+            },
+            {
+              "slug": "methotrexate",
+              "name": "Methotrexate"
+            },
+            {
+              "slug": "relebactam",
+              "name": "Relebactam"
+            },
+            {
+              "slug": "imiglucerase",
+              "name": "Imiglucerase"
+            },
+            {
+              "slug": "secnidazole",
+              "name": "Secnidazole"
+            },
+            {
+              "slug": "clonazepam",
+              "name": "CLONAZEPAM"
+            },
+            {
+              "slug": "captopril",
+              "name": "CAPTOPRIL"
+            },
+            {
+              "slug": "fluconazole",
+              "name": "Fluconazole"
+            },
+            {
+              "slug": "hesperidin",
+              "name": "Hesperidin"
+            },
+            {
+              "slug": "cysteine",
+              "name": "Cysteine"
+            },
+            {
+              "slug": "sorbitol",
+              "name": "Sorbitol"
+            },
+            {
+              "slug": "dantrolene",
+              "name": "Dantrolene"
+            },
+            {
+              "slug": "cefdinir",
+              "name": "Cefdinir"
+            },
+            {
+              "slug": "basiliximab",
+              "name": "Basiliximab"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "azithromycin",
+              "name": "Azithromycin"
+            },
+            {
+              "slug": "everolimus",
+              "name": "Everolimus"
+            },
+            {
+              "slug": "colchicine",
+              "name": "COLCHICINE"
+            },
+            {
+              "slug": "mometasone",
+              "name": "Mometasone"
+            },
+            {
+              "slug": "topiramate",
+              "name": "TOPIRAMATE"
+            },
+            {
+              "slug": "baclofen",
+              "name": "Baclofen"
+            },
+            {
+              "slug": "penciclovir",
+              "name": "Penciclovir"
+            },
+            {
+              "slug": "nitazoxanide",
+              "name": "Nitazoxanide"
+            },
+            {
+              "slug": "nomegestrol_acetate",
+              "name": "Nomegestrol acetate"
+            },
+            {
+              "slug": "isotretinoin",
+              "name": "ISOTRETINOIN"
+            },
+            {
+              "slug": "cabazitaxel",
+              "name": "Cabazitaxel"
+            },
+            {
+              "slug": "aztreonam",
+              "name": "Aztreonam"
+            },
+            {
+              "slug": "lorazepam",
+              "name": "LORAZEPAM"
+            },
+            {
+              "slug": "calcipotriol",
+              "name": "CALCIPOTRIOL"
+            },
+            {
+              "slug": "serine",
+              "name": "Serine"
+            },
+            {
+              "slug": "clarithromycin",
+              "name": "Clarithromycin"
+            },
+            {
+              "slug": "albendazole",
+              "name": "Albendazole"
+            },
+            {
+              "slug": "carbamazepine",
+              "name": "CARBAMAZEPINE"
+            },
+            {
+              "slug": "lactulose",
+              "name": "LACTULOSE"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "Telmisartan"
+            },
+            {
+              "slug": "amoxicillin",
+              "name": "Amoxicillin"
+            },
+            {
+              "slug": "adapalene",
+              "name": "Adapalene"
+            },
+            {
+              "slug": "elafibranor",
+              "name": "Elafibranor"
+            },
+            {
+              "slug": "trastuzumab",
+              "name": "Trastuzumab"
+            },
+            {
+              "slug": "ramipril",
+              "name": "RAMIPRIL"
+            },
+            {
+              "slug": "praziquantel",
+              "name": "Praziquantel"
+            },
+            {
+              "slug": "deferasirox",
+              "name": "DEFERASIROX"
+            },
+            {
+              "slug": "potassium",
+              "name": "Potassium"
+            },
+            {
+              "slug": "tetracycline",
+              "name": "Tetracycline"
+            },
+            {
+              "slug": "sorafenib",
+              "name": "Sorafenib"
+            },
+            {
+              "slug": "vinblastine",
+              "name": "Vinblastine"
+            },
+            {
+              "slug": "tezacaftor",
+              "name": "Tezacaftor"
+            },
+            {
+              "slug": "bisoprolol",
+              "name": "BISOPROLOL"
+            },
+            {
+              "slug": "vancomycin",
+              "name": "Vancomycin"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "letrozole",
+              "name": "Letrozole"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "Capecitabine"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "chlorthalidone",
+              "name": "CHLORTHALIDONE"
+            },
+            {
+              "slug": "ciprofloxacin",
+              "name": "Ciprofloxacin"
+            },
+            {
+              "slug": "lamotrigine",
+              "name": "LAMOTRIGINE"
+            },
+            {
+              "slug": "iopamidol",
+              "name": "Iopamidol"
+            },
+            {
+              "slug": "atenolol",
+              "name": "ATENOLOL"
+            },
+            {
+              "slug": "doxorubicin",
+              "name": "Doxorubicin"
+            },
+            {
+              "slug": "megestrol_acetate",
+              "name": "Megestrol acetate"
+            },
+            {
+              "slug": "gestodene",
+              "name": "Gestodene"
+            },
+            {
+              "slug": "carvedilol",
+              "name": "CARVEDILOL"
+            },
+            {
+              "slug": "levofloxacin",
+              "name": "Levofloxacin"
+            },
+            {
+              "slug": "ambroxol",
+              "name": "Ambroxol"
+            },
+            {
+              "slug": "polymyxin_b",
+              "name": "Polymyxin B"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "avibactam",
+              "name": "Avibactam"
+            },
+            {
+              "slug": "calcium",
+              "name": "Calcium"
+            },
+            {
+              "slug": "norfloxacin",
+              "name": "Norfloxacin"
+            },
+            {
+              "slug": "sirolimus",
+              "name": "Sirolimus"
+            },
+            {
+              "slug": "venetoclax",
+              "name": "Venetoclax"
+            },
+            {
+              "slug": "valsartan",
+              "name": "VALSARTAN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "26e85d333b67",
+      "title": "Alunos da Escola Quinze de Novembro apresentam projetos em Feira Multidisciplinar de Educação - Acorda Cidade",
+      "published": "2026-09-17T15:13:37+00:00",
+      "sources": [
+        {
+          "name": "Acorda Cidade",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOak12RVB3SEZhRTVKVmFrblBSOXNiSFdUbEdxeWNkQ2pNVzFuNUdvbFlabXdUaXdEY0k1akd1U0pBQU9EQ3BycVpZalRSMUtRbWxoZ0RnblNLbnFDZXdXZkdFOWlrbjNyYXVDSkhfTGJHMjdlM2VRVURJb2FEc1N0MkcyNXNpd1gyYW9ZTHU5SnVmbGs5cHAwbDBMYWFaem0yVmtGVkg3XzFNLUxCa3Z5U1ItUWVLQThQVVBTTU5DYVl1NHVnLUFXNDNOa08ySXlH?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "levetiracetam",
+          "keyword": "TAM",
+          "name": "LEVETIRACETAM",
+          "url": "/drugs/levetiracetam/"
+        }
+      ]
+    },
+    {
+      "id": "b9d93e0a349f",
+      "title": "HPV: dose é indicada a vítimas de violência sexual a partir de 2 anos - UOL Notícias",
+      "published": "2026-09-17T14:25:49+00:00",
+      "sources": [
+        {
+          "name": "UOL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbUx6VkpPQ3N0bnBONVVlUUJ2eFBKMzZhaUc3TVZIUjBQa1JKcXBoT0RUbDBKNWk2aGk1QWRxbVRQNFRnVnlWNEl0cWJFSGIzWnNzdHdIUVFYSGliWDZ0NE1ldmlESUVsemE2dnlmVnd3bXl1c3BKOS02cFdNMHZnOVQyRDF4YnZ1VzNxdkNETlJzckx3ZzItNDVXcE1wRXFMWUlxaVZPYXNyS0phUWd0SjdtNFUyNS1idkpVTHotbnJJOVVkcjZvWEFGT0pBUXBiQXNVWDJJQkpfMHM?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "tadalafil",
+          "keyword": "TADA",
+          "name": "TADALAFIL",
+          "url": "/drugs/tadalafil/"
+        }
+      ]
+    },
     {
       "id": "5ff6e491d6d6",
       "title": "Estudante brasileira leva pesquisa sobre ora-pro-nóbis a disputa internacional: 'Incentivo'",
@@ -63,6 +556,100 @@
       ]
     },
     {
+      "id": "8c37374ac423",
+      "title": "Quanta proteína você realmente precisa? Nutricionista explica o erro de considerar apenas carne, peixe e ovos - O GLOBO",
+      "published": "2026-09-17T07:30:00+00:00",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNY0VnbVQ0b3lid3ZtZE1TcTJkeEp6S0MwQzhkTHloVWZyRjZLMldFSmtIdk9vX1Y4UHN6M0JqR29vVVFBRU5ZVVRQMjl5R3Y2cGV6ZXJUN2s4NG16d1l3Mkt4a3FLeDVKaDA3bFgwRk42WmxGNXJWc0FBbkpUTmNzZS0tSW9MT1M4anhPQU01dzYya2hESTZjM3lYNE1xTzE2ZldPNkZlczVpZ01zZmItNkxpa2hHLUhWNFdRSVpXdkc3YngxU0swMWtIdGJaSC1hX2RUVlN1ZE13bDRmQTZzX3huTE1ZQ3RiQjBWUkRVaTZWTG9KWGfSAYQCQVVfeXFMUGhvZnFDX0FCbmtCVXhzWFhBVlU4NHVkTVQwMEtodnhGM2FfM01BdjVsZU8xbGw3b0dPVTAyU2Ewa2x0RDhPOUNVdmJRaWpVc2UyWXBsRy1QaWdEVW4xSUZCZ25LbG5XNXN6XzVQclc4Y2s1XzY2TGpGVnU2aW9qRF9HMHlxS0Rwc1JTUFh2SXpiaXg3WGE4TGs2ZUh2MG9od2x0MmN0Nm5xeHpMSHBlMWVvQjlzOVBvdkdqXzVRWUZ0R0x3MHlOTWVKUG9LVnpYMjVyNmJQZkZVSk1DTkk3ZmtQdEtRTHM1NmUwVE96Wkk5aGh1RUd1amNIUjE3WU8zVkRLLWg?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "etodolaco",
+          "keyword": "DORE",
+          "name": "ETODOLACO",
+          "url": "/drugs/etodolaco/"
+        }
+      ]
+    },
+    {
+      "id": "f6a8423c0cfc",
+      "title": "Prefeitos sul-americanos, incluindo o do Rio, fazem reunião de emergência sobre extremos do El Niño - O GLOBO",
+      "published": "2026-09-17T07:30:00+00:00",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZ0EzalBPTGF4NVhTNDhXUUV4YUZkYXVMM1lMVWgwXy1PSGlyUEdzWTd0SVIyNF9PN1hOQkRIdDB2QTJpbFVneHVERElzZXNZU3RjTkhkMWZqbmRBMUJDb1YyS0lFbVVvcDhuYzBoekNMdVZfaGlJdkVnLVJIUTNGbzd3LXdVODNEaE9DX1VTY1Z5dzIxd1RqRXp6Uk83SmYtTXZiYVBjT2NtTVlWamFuUUVKMzlYcVF3NjFJcG9qeDBjazE1Z0VvYXBJSlV3S1JCXzEzc0VlQjRvdmQzTXR0ay03V3hjWU3SAfYBQVVfeXFMT256VlhZWHZiS2psbkRCNWRHRV93dE9oQWYwa3NXdFdTb0d6X0hZN29EWXB5aW9pb1lPeGtSZGdqMVRMRUFNcDdrUTBub2FUX3dyVDNfSTlTR05FWS1GWkhudUpUb0pJZzA5bnR4MjFobFJSUHVDb2xNelBrSWRJNTFwX2NUV3lfVzRhMGZfaWI2UGxtSjFMVzZEcDNNUzBpa3E4QUpkQ2FfdWxMWUR3UWhBME9pREZ1anJWbDFQS3ZpeFo1LTZPOUVieDNwYlhhWkwwb0UzWWpPMXpCaUZVZm5sMTMzODl5QW14SW9xZ1JXREpvVzNB?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "diazepam",
+          "keyword": "UNI",
+          "name": "Diazepam",
+          "url": "/drugs/diazepam/"
+        },
+        {
+          "type": "drug",
+          "slug": "zinc",
+          "keyword": "UNI",
+          "name": "ZINC",
+          "url": "/drugs/zinc/"
+        }
+      ]
+    },
+    {
+      "id": "df458d918250",
+      "title": "Com um em cada 60 adultos no país infectado, Fiji declara crise nacional de HIV - O GLOBO",
+      "published": "2026-09-17T06:16:36+00:00",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdll5YTNTVWRWNmNla1ZXRWFKb1hOcTV6bDcyaWxCdWJrWDZ6VkpHQllDdFB5R1VLN21UbS1JT0lOdy1sMmktNThXSmNCWFYtTVdiY053a2lVSnRYcGU2UEc1dXpQZlZoakRfUV9xUThseXljVHIxVDl4X0MyZ2NfclBsckJZQVNpbE5uQ3pxbl8zbUdTZFJmbWN6Mk5YdzB0cUxWT3RqR3RTZ20xQXFjczl3TndLbTJSQW1YdDB0dXBuMWhRb0Vfd3FFOGwtNkHSAd4BQVVfeXFMTmNlVTBzY3prY0pBZWxXSXJIRWVLQ1NKdTR2MWtoVnEwdlhWNFVQSEJhaVF4Y0xsVEg2VmpKcDFSMnlHM2U1Mnh1UTllRnZ6dzBKR0FtdDBueFhYQTBoZ2lYZ2dJcVd2M2ZGYWF4Nl9CZURXQXlxdS1yTEgzT09oUUVNUFdRN1dMU01qUldwYTA3TGJVdVFndHlVc1M0YzltN0RTcUx4cUpJN1pWdTlNV0tvU2FLWEJZMmc2cG42UGxyTzMwZzk4T3ptN1dBdXF5eGdkd05hbGhSakhMTlFn?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
+        },
+        {
+          "type": "drug",
+          "slug": "tadalafil",
+          "keyword": "TADA",
+          "name": "TADALAFIL",
+          "url": "/drugs/tadalafil/"
+        }
+      ]
+    },
+    {
+      "id": "2ff0a4db0647",
+      "title": "Calistenia não é só moda: treino com peso corporal melhora força e função física, apontam estudos",
+      "published": "2026-09-17T06:00:00+00:00",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOU1daTkdhOGMzc2J3TDF1eEd6SjJVWEo4UGlPMGFNN1M2RWlOS043MWlvaWpGeGJiSHoxMEZKQ3phOWZrRi13eUxkWXFVeDlLNkhIcmJkR2tfNzVTT2NCSXdJNzVIVlhMSDNPT0hHWnpaWGhvNDhZWTJzQWI0VGVsTEc2bWMxOVF1LXl5STlWSlI2T3gtZ2xINWRvcXkzN1hDaldjOUtSTHJwZ0xqTzVLQkNVbjkyVmZhZG85OHJsSjhNWUJ4V0Fic3QwWENVdm5uV0gtWnhjbDRwd3lOTEltdQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "levetiracetam",
+          "keyword": "TAM",
+          "name": "LEVETIRACETAM",
+          "url": "/drugs/levetiracetam/"
+        }
+      ]
+    },
+    {
       "id": "05b4ff015b57",
       "title": "Garoto de 11 anos encontrou uma peça no chão, mas especialistas descobriram que o achado guardava 48 milhões de anos de história - Super Rádio Tupi",
       "published": "2026-09-17T05:18:03+00:00",
@@ -79,6 +666,69 @@
           "keyword": "CIALIS",
           "name": "TADALAFIL",
           "url": "/drugs/tadalafil/"
+        }
+      ]
+    },
+    {
+      "id": "c365dec7f412",
+      "title": "Alzheimer: exame de sangue auxilia na investigação - Veja Saúde",
+      "published": "2026-09-17T03:08:09+00:00",
+      "sources": [
+        {
+          "name": "Veja Saúde",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTXpFZnZVcmVGVkVIQ0FFa2wwQ3J0TVZBUXFuV2NKMlJVV0VKdVNYLVBjSlpqc2RvUU9rcjVldFpTVnU5LVJZVlQzTDNJeWxBVDRsOTB4cXdHalE4ajhnaXo2QjBJd3p0QWxmUGR4ZHVqUTdHeHBKSTVVRVhCUzlnTWU2UVF0Yl8tTzBHUDVkTQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "demência",
+          "related_drugs": [
+            {
+              "slug": "biperiden",
+              "name": "Biperiden"
+            },
+            {
+              "slug": "entacapone",
+              "name": "ENTACAPONE"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "albendazole",
+              "name": "Albendazole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cd8dee196102",
+      "title": "Caso raro de ataque de morcego-vampiro no Rio acende alerta sobre raiva - Diário do Centro do Mundo",
+      "published": "2026-09-17T03:00:22+00:00",
+      "sources": [
+        {
+          "name": "Diário do Centro do Mundo",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWWZTMlNwWnFJUFM3T1p4czd2SmZXeTUxUXludGdVdGVXaWZHV0JpZFlDek44bkJQQ0hmWVZ2eDkySXNQWEVhdkp5eS1lMVhUbDRNU0VadWwtam8xMFRQUnAxaDFJV2lDRVJUM3lwMFhGWkF4VUQ5bG1VY3BzT21xWW0zMGs5aHRRZDY2OXFqNXlES25FMXc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "levetiracetam",
+          "keyword": "TAM",
+          "name": "LEVETIRACETAM",
+          "url": "/drugs/levetiracetam/"
+        },
+        {
+          "type": "drug",
+          "slug": "silodosina",
+          "keyword": "SIL",
+          "name": "SILODOSINA",
+          "url": "/drugs/silodosina/"
         }
       ]
     },
@@ -137,40 +787,6 @@
       ]
     },
     {
-      "id": "f9759af330ef",
-      "title": "Uma em cada 60 pessoas agora está infectada com HIV, enquanto a crise de drogas alimenta o surto nesse pequeno país insular - CNN Brasil",
-      "published": "2026-09-16T21:10:12+00:00",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVmpickp5bGZNX0NoNkxNZ2V4V3VzTS1ZUTU3TWxpMzBuVjBvdC1jVWc3VE1ZVDJaMzJHOWRiMlhILS1pZjlKOXNHX3RqbzRYTmFNQ3VMcnF3SUc4OHdHQ2N5VDI3bXhhZVh3R2lzeG9KQ3ZTQzQ3dzVQUWtHbFVlNXpUYmZQVktwSDBSd0RsNWh0RkdoUXhhRWp2ZVkyV012M0pCcmlqaGZhbTJjRU9RNENVRHo4cWlseFlMS213VG4tblhZSnZUTmFxZFBUZnJhdGpOT01XQURmOGtLelNDdi1WQ2ZOdWhzenVYQjhNZw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "levetiracetam",
-          "keyword": "TAM",
-          "name": "LEVETIRACETAM",
-          "url": "/drugs/levetiracetam/"
-        },
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        },
-        {
-          "type": "drug",
-          "slug": "tadalafil",
-          "keyword": "TADA",
-          "name": "TADALAFIL",
-          "url": "/drugs/tadalafil/"
-        }
-      ]
-    },
-    {
       "id": "5e27564337ae",
       "title": "A psicologia aponta que pessoas que viram a trend dos anos 80 do ChatGPT em todos os lugares, mas decidiram não participar, não são necessariamente sem graça, mas podem valorizar mais autonomia e individualidade - Super Rádio Tupi",
       "published": "2026-09-16T21:00:16+00:00",
@@ -191,39 +807,12 @@
       ]
     },
     {
-      "id": "f0839e539099",
-      "title": "O debate do ovo ou da galinha já não é filosófico: a biologia molecular acaba de encerrá-lo para sempre",
-      "published": "2026-09-16T21:00:12+00:00",
-      "sources": [
-        {
-          "name": "xataka.com.br",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMmc5RDNzb0EzMDRFZGpSRXkwQ0JEVkVnZEJDUWx4d3ZuVEYtNGRIdXJ2V2M5d3FuNVV2R0VTRmZWN1ZIcnh4Wm55OUVJWG5NWlBKUUE2WGN2QlF3UnBkcVNrcDMxVU9USEY5TUhqWEFiM1BfWTJQak13THFGcmkyV1VzQ1VqVUVNRUt4ZUZfc1FCREJqYTd3QjNJSVVkMjlkMkxFR2ZaaUZ5NTFtSllVOE1fMVhjdEN2UnM1dC1xRHJOd09TX1NPUg?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "golimumabe",
-          "keyword": "BIO",
-          "name": "GOLIMUMABE",
-          "url": "/drugs/golimumabe/"
-        },
-        {
-          "type": "drug",
-          "slug": "etanercepte",
-          "keyword": "BIO",
-          "name": "ETANERCEPTE",
-          "url": "/drugs/etanercepte/"
-        }
-      ]
-    },
-    {
-      "id": "c2c2aa5bed86",
-      "title": "Desfile celebra superação de câncer no Hospital de Amor - Campo Grande News",
+      "id": "5f58be42b2d9",
+      "title": "Desfile celebra superação de câncer no Hospital de Amor",
       "published": "2026-09-16T20:37:00+00:00",
       "sources": [
         {
-          "name": "Campo Grande News",
+          "name": "campograndenews.com.br",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNkdQTV92R1ozTlluc3FtX3B3TnZkYXZmNDZQY01wRWR3NFN6ZmI3V0diaE02eUJ6VjhkNzZjMmcwa2QyYW1VYzNPU0tTNGpjZ3otVFF2Q2pBZXhVUEhRcmoweGZqTkpyeFRHQzNqRHlrM3ZWaGsySlotWUlZNEdFVkFUZFc3UWZjZUlYcC1VTmJzQzlnVHByWnVLTWNIaU5PSnNEamMwdTFmVDFVOXB2dkc2RE1xQ1Q4SzhV0gG7AUFVX3lxTE5YbnBHU3BKNmw3ZTFoZlBnN0ZQaGdMQnFKZk55UEFzY2dKb3h4c2FweG8tYlB4YUpfWFJVUGR1WlN3VUlYT0Z0YTFCdjl5VXY5Vi0xV3lHUW1wdXdLa2ZqRldNM3U4VEJ3V1lEbTFXTVVPTUJ2OGlSMEhYbVMxb1RvWm5HYXR2SHpwWW5DYldPQ25GX2hjbU1VU1RMZGRWQjJSZVRaLXAtbmxqR01VWHQ3anpzMVNBZi1CUHc?oc=5"
         }
       ],
@@ -657,26 +1246,6 @@
       ]
     },
     {
-      "id": "4f222710624d",
-      "title": "Imagens impressionantes do movimento anormal de células nos pulmões ganham o prêmio de videomicroscopia da Nikon de 2026 - CNN Brasil",
-      "published": "2026-09-16T19:14:29+00:00",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxONTVweS1NeldUY29aTkFueVNweC1JSEI5TE5QbmFDSmM4Um9uZUJrejZoTHQxMzNRaVJ5TEItSnpjTUhXUjZHNGFoSEFNVEsyaWR3UVlKbk9fWkdVUktNU2JSbzM0c0Z3MUVIUmFpLWk1YjFJMWdkZVJrYW51ZnRVZnkwU01sR1pxOXVGa3YwM0QyYmh2Y3hRVTJHQ3U0WWJMbVdsMEVRendDdG5mSXd2NkdXYUpsb0JrazJZQThNSFdoLTVweHQyVjFKM2JYblFJNmRNVGFwSGdsdmJYMkRGUjhKNjdWckpJaGh6NE41dw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
       "id": "c4b2db887e83",
       "title": "Pegadas em Marte? O que são as cavidades inéditas no planeta vermelho encontradas pela Nasa - CNN Brasil",
       "published": "2026-09-16T18:54:51+00:00",
@@ -687,40 +1256,6 @@
         }
       ],
       "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
-      "id": "0150e579dc54",
-      "title": "Eusébio conquista 41 medalhas na Olimpíada Brasileira de Astronomia e Astronáutica - Prefeitura de Eusébio",
-      "published": "2026-09-16T17:56:22+00:00",
-      "sources": [
-        {
-          "name": "Prefeitura de Eusébio",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbmhTaUFQMm01QTBVdURUZU9INEt5VUpfX0VCSFRKSDkxbkQ3M2Q0SEZXZnJKcE1sTTNEVHphV3R5QVMwU0dqUnJTN2xCUEpLTC1HWTVDY0oyNG9UNjRidGJSWWZWSFdRQWlFaWNhQktEXzdTdlM2MXJsaXc4Unp6Ml81T2pxWFB1NGo1ak9SS2lsOVE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "golimumabe",
-          "keyword": "BIO",
-          "name": "GOLIMUMABE",
-          "url": "/drugs/golimumabe/"
-        },
-        {
-          "type": "drug",
-          "slug": "etanercepte",
-          "keyword": "BIO",
-          "name": "ETANERCEPTE",
-          "url": "/drugs/etanercepte/"
-        },
         {
           "type": "drug",
           "slug": "silodosina",
@@ -747,47 +1282,6 @@
           "keyword": "TAM",
           "name": "LEVETIRACETAM",
           "url": "/drugs/levetiracetam/"
-        },
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
-      "id": "ac881fed4162",
-      "title": "Covid-19: Rio amplia vacinação contra a doença; veja quem pode se imunizar - O GLOBO",
-      "published": "2026-09-16T15:19:46+00:00",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQnNxekJHZnNublpzMlBUa2lzS3p4ZThjN2E1RC1kRnNDcDNWOGpIMVREX1F2UkprdkJqdUN6Z0pDX1dZTW11dVp0RXpWQThiUTl5VnA4ZkU4QkxNM2pCVGE0a1U3LU50bEVwZ2R1MlhrU293LVNQUkZXazJsdEt0QnVMWjVtRjZfWmlHQVlDWW1oeUd4V0UycnZWMURySFY0Y1lBZVlkaU05MERkb0tDUGVhTlNaTmpUeHdDX3hjeDZoWnFv0gHTAUFVX3lxTE04RUdlYU1NUm9oT191WEtsNUFSOWhsUklwVlFvb1czVER2aktCSFo1VHVlOURodXZzNk9SWTdiVVBJVEJMMFFzZm9yMEtKUVRjSmZNOFFPeVE4MFZWWDBiMXlndmI1OXRKOW1fb0pmUERjc1NFWFB6SVdqMngtR3k4aXowQmdpVFRWOU4yOE54dlE0SVYtNGtUR0drQVFJeU5XSDM3czJ0dmZiWV9WbWxLSVY1c1FHdExlV1pVZGV4WHRLemNTVjAycWtZdDNqaWcwTVU?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "diazepam",
-          "keyword": "UNI",
-          "name": "Diazepam",
-          "url": "/drugs/diazepam/"
-        },
-        {
-          "type": "drug",
-          "slug": "zinc",
-          "keyword": "UNI",
-          "name": "ZINC",
-          "url": "/drugs/zinc/"
-        },
-        {
-          "type": "drug",
-          "slug": "etodolaco",
-          "keyword": "DORE",
-          "name": "ETODOLACO",
-          "url": "/drugs/etodolaco/"
         }
       ]
     },
@@ -890,6 +1384,65 @@
       ]
     },
     {
+      "id": "38e52bf89e49",
+      "title": "Vacina pneumo 20 é ampliada para pessoas com 85 anos ou mais; confira como fica o esquema vacinal",
+      "published": "2026-09-16T14:55:59+00:00",
+      "sources": [
+        {
+          "name": "agenciasp.sp.gov.br",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbUJsYl9zVlE4Zm5GZXJnaTlDSHozQm15QjJTRlE1V2tQeVNLZHQtLUloMHZMVTdsUnNpQ0w4QXJpY2lUeVlEbGx6X3dnbnd4RHJMNXUwbjIzNUQ2VE9QT3ZLRmU0eEVEeDNqTVJFNDh3VnVLekNPYjczZjBTTk42c1Z4NzRVMXFtZnl1dWVKZkwwcDF3YzUtbHZEVm9iemQwV2dzRUIycUM3NGpEZ2pVT01JWjltaWxWeW1wOFJrUms3MkZqdm9Xaw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "pneumonia",
+          "keyword": "pneumonia",
+          "related_drugs": [
+            {
+              "slug": "ganciclovir",
+              "name": "Ganciclovir"
+            },
+            {
+              "slug": "clobutinol",
+              "name": "Clobutinol"
+            },
+            {
+              "slug": "tazobactam",
+              "name": "Tazobactam"
+            },
+            {
+              "slug": "oseltamivir",
+              "name": "Oseltamivir"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "infecção pulmonar",
+          "keyword": "pneumonia",
+          "related_drugs": [
+            {
+              "slug": "ganciclovir",
+              "name": "Ganciclovir"
+            },
+            {
+              "slug": "clobutinol",
+              "name": "Clobutinol"
+            },
+            {
+              "slug": "tazobactam",
+              "name": "Tazobactam"
+            },
+            {
+              "slug": "oseltamivir",
+              "name": "Oseltamivir"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "d97d8ff3e964",
       "title": "Google usa 200 mil hectares de arroz no Brasil contra mudanças climáticas - CNN Brasil",
       "published": "2026-09-16T13:13:18+00:00",
@@ -910,13 +1463,13 @@
       ]
     },
     {
-      "id": "00212e401614",
-      "title": "Dor, sangramento, urgência urinária: veja sinais de cânceres ginecológicos",
-      "published": "2026-09-16T12:31:00+00:00",
+      "id": "1e87fa21a572",
+      "title": "Anvisa alerta para risco de deficiência de vitamina B6 - O Dia",
+      "published": "2026-09-16T12:57:15+00:00",
       "sources": [
         {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONG81a2c1TllKVl9kNDRiQTg2d0JUdTFJeFRxLW1kVmlZdFAyWXppRm9nM0liSnF0dC1kWU1waXQ2b1NaWl80dk9sNjhmZzgtdHRNazl5dWNhODdVQ1J3ZXB4eEtHMjMyYlFtbjF6amdEdzZQaUFqemJpQjZ6X2lYcnE3MjBDT0hPZS1udkpFZUE0QWk4anFrWnFGYkZmblpveTVmLWxLVXFTYThoNlRDWWJES2tGcjF4bGZ3bDZNd1VVU1RhUEtBb3lxbDJCbDF5?oc=5"
+          "name": "O Dia",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOWpGeVJQejRDbldQZWd1WHhCdC14SlFGZHlubExwOW00ZGN3elVMV1A0SlNRR05OdnZsVlIxN2xycWJTNTVaUllvQk5IX2hsRFRpZFVhUDgtUFFNMkJZQWN0NVBoVEdJd1MxZ2x2YncyQXNXZUF6bF92ZEhJM2hVLU5OMzFmdDRFRXkzZEh1bE5HMEdDWUxXUDFQSnJfSHB0Mk83aVMxazbSAa4BQVVfeXFMTi1aZEh2R0RpMzdZT3daY1lUUFlBYkt5cDYzOENZdndqQzRsaG9WbzlIT1B2QU1nVFpoaDM0NmlNak9aSmxGcGc3QjdqeHlpZmp2SkxFVjNwSW9IX3Q5cmRyc3Q1X200T2JfbjhiM05zTjNfZkxkMFdpZjlBYlZtVTdORUJfQ0RJMVJYaGlGX2VRWmRVdGtPZG5JM1YybllEVjg2UXF4bXJiS3ZZOXhB?oc=5"
         }
       ],
       "keywords": [
@@ -928,393 +1481,35 @@
           "url": "/drugs/levetiracetam/"
         },
         {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "câncer",
-          "related_drugs": [
-            {
-              "slug": "imatinib",
-              "name": "Imatinib"
-            },
-            {
-              "slug": "oxaliplatin",
-              "name": "Oxaliplatin"
-            },
-            {
-              "slug": "ampicillin",
-              "name": "Ampicillin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "ceftriaxone",
-              "name": "Ceftriaxone"
-            },
-            {
-              "slug": "pegaspargase",
-              "name": "PEGASPARGASE"
-            },
-            {
-              "slug": "potassium_sulfate",
-              "name": "Potassium sulfate"
-            },
-            {
-              "slug": "plerixafor",
-              "name": "PLERIXAFOR"
-            },
-            {
-              "slug": "tisagenlecleucel",
-              "name": "Tisagenlecleucel"
-            },
-            {
-              "slug": "phenytoin",
-              "name": "PHENYTOIN"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "phenobarbital",
-              "name": "Phenobarbital"
-            },
-            {
-              "slug": "risdiplam",
-              "name": "Risdiplam"
-            },
-            {
-              "slug": "letermovir",
-              "name": "Letermovir"
-            },
-            {
-              "slug": "lisinopril",
-              "name": "LISINOPRIL"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "IRBESARTAN"
-            },
-            {
-              "slug": "cefaclor",
-              "name": "Cefaclor"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "sodium_chloride",
-              "name": "Sodium chloride"
-            },
-            {
-              "slug": "tamoxifen",
-              "name": "Tamoxifen"
-            },
-            {
-              "slug": "methotrexate",
-              "name": "Methotrexate"
-            },
-            {
-              "slug": "relebactam",
-              "name": "Relebactam"
-            },
-            {
-              "slug": "imiglucerase",
-              "name": "Imiglucerase"
-            },
-            {
-              "slug": "secnidazole",
-              "name": "Secnidazole"
-            },
-            {
-              "slug": "clonazepam",
-              "name": "CLONAZEPAM"
-            },
-            {
-              "slug": "captopril",
-              "name": "CAPTOPRIL"
-            },
-            {
-              "slug": "fluconazole",
-              "name": "Fluconazole"
-            },
-            {
-              "slug": "hesperidin",
-              "name": "Hesperidin"
-            },
-            {
-              "slug": "cysteine",
-              "name": "Cysteine"
-            },
-            {
-              "slug": "sorbitol",
-              "name": "Sorbitol"
-            },
-            {
-              "slug": "dantrolene",
-              "name": "Dantrolene"
-            },
-            {
-              "slug": "cefdinir",
-              "name": "Cefdinir"
-            },
-            {
-              "slug": "basiliximab",
-              "name": "Basiliximab"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "azithromycin",
-              "name": "Azithromycin"
-            },
-            {
-              "slug": "everolimus",
-              "name": "Everolimus"
-            },
-            {
-              "slug": "colchicine",
-              "name": "COLCHICINE"
-            },
-            {
-              "slug": "mometasone",
-              "name": "Mometasone"
-            },
-            {
-              "slug": "topiramate",
-              "name": "TOPIRAMATE"
-            },
-            {
-              "slug": "baclofen",
-              "name": "Baclofen"
-            },
-            {
-              "slug": "penciclovir",
-              "name": "Penciclovir"
-            },
-            {
-              "slug": "nitazoxanide",
-              "name": "Nitazoxanide"
-            },
-            {
-              "slug": "nomegestrol_acetate",
-              "name": "Nomegestrol acetate"
-            },
-            {
-              "slug": "isotretinoin",
-              "name": "ISOTRETINOIN"
-            },
-            {
-              "slug": "cabazitaxel",
-              "name": "Cabazitaxel"
-            },
-            {
-              "slug": "aztreonam",
-              "name": "Aztreonam"
-            },
-            {
-              "slug": "lorazepam",
-              "name": "LORAZEPAM"
-            },
-            {
-              "slug": "calcipotriol",
-              "name": "CALCIPOTRIOL"
-            },
-            {
-              "slug": "serine",
-              "name": "Serine"
-            },
-            {
-              "slug": "clarithromycin",
-              "name": "Clarithromycin"
-            },
-            {
-              "slug": "albendazole",
-              "name": "Albendazole"
-            },
-            {
-              "slug": "carbamazepine",
-              "name": "CARBAMAZEPINE"
-            },
-            {
-              "slug": "lactulose",
-              "name": "LACTULOSE"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "Telmisartan"
-            },
-            {
-              "slug": "amoxicillin",
-              "name": "Amoxicillin"
-            },
-            {
-              "slug": "adapalene",
-              "name": "Adapalene"
-            },
-            {
-              "slug": "elafibranor",
-              "name": "Elafibranor"
-            },
-            {
-              "slug": "trastuzumab",
-              "name": "Trastuzumab"
-            },
-            {
-              "slug": "ramipril",
-              "name": "RAMIPRIL"
-            },
-            {
-              "slug": "praziquantel",
-              "name": "Praziquantel"
-            },
-            {
-              "slug": "deferasirox",
-              "name": "DEFERASIROX"
-            },
-            {
-              "slug": "potassium",
-              "name": "Potassium"
-            },
-            {
-              "slug": "tetracycline",
-              "name": "Tetracycline"
-            },
-            {
-              "slug": "sorafenib",
-              "name": "Sorafenib"
-            },
-            {
-              "slug": "vinblastine",
-              "name": "Vinblastine"
-            },
-            {
-              "slug": "tezacaftor",
-              "name": "Tezacaftor"
-            },
-            {
-              "slug": "bisoprolol",
-              "name": "BISOPROLOL"
-            },
-            {
-              "slug": "vancomycin",
-              "name": "Vancomycin"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "letrozole",
-              "name": "Letrozole"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "Capecitabine"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "chlorthalidone",
-              "name": "CHLORTHALIDONE"
-            },
-            {
-              "slug": "ciprofloxacin",
-              "name": "Ciprofloxacin"
-            },
-            {
-              "slug": "lamotrigine",
-              "name": "LAMOTRIGINE"
-            },
-            {
-              "slug": "iopamidol",
-              "name": "Iopamidol"
-            },
-            {
-              "slug": "atenolol",
-              "name": "ATENOLOL"
-            },
-            {
-              "slug": "doxorubicin",
-              "name": "Doxorubicin"
-            },
-            {
-              "slug": "megestrol_acetate",
-              "name": "Megestrol acetate"
-            },
-            {
-              "slug": "gestodene",
-              "name": "Gestodene"
-            },
-            {
-              "slug": "carvedilol",
-              "name": "CARVEDILOL"
-            },
-            {
-              "slug": "levofloxacin",
-              "name": "Levofloxacin"
-            },
-            {
-              "slug": "ambroxol",
-              "name": "Ambroxol"
-            },
-            {
-              "slug": "polymyxin_b",
-              "name": "Polymyxin B"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "avibactam",
-              "name": "Avibactam"
-            },
-            {
-              "slug": "calcium",
-              "name": "Calcium"
-            },
-            {
-              "slug": "norfloxacin",
-              "name": "Norfloxacin"
-            },
-            {
-              "slug": "sirolimus",
-              "name": "Sirolimus"
-            },
-            {
-              "slug": "venetoclax",
-              "name": "Venetoclax"
-            },
-            {
-              "slug": "valsartan",
-              "name": "VALSARTAN"
-            }
-          ]
+          "type": "drug",
+          "slug": "levodopa",
+          "keyword": "levodopa",
+          "name": "LEVODOPA",
+          "url": "/drugs/levodopa/"
+        },
+        {
+          "type": "drug",
+          "slug": "vitamina_b6",
+          "keyword": "vitamina b6",
+          "name": "VITAMINA B6",
+          "url": "/drugs/vitamina_b6/"
+        },
+        {
+          "type": "drug",
+          "slug": "carbidopa",
+          "keyword": "carbidopa",
+          "name": "CARBIDOPA",
+          "url": "/drugs/carbidopa/"
         }
       ]
     },
     {
-      "id": "56ac5e92c837",
+      "id": "51f38c5311ef",
       "title": "O que considerar na conduta da ‘síndrome musculoesquelética da menopausa’",
       "published": "2026-09-16T11:58:36+00:00",
       "sources": [
         {
-          "name": "Medscape",
+          "name": "portugues.medscape.com",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR1l2UHczZHRwMEpXUzVIUUdvM2NUUEhGWWwtR2VCb0RMR0MtLU85TXpsUVg0RExLZkFWUFh4QmlPQlY2eDhBNTE0RVJBZTlydGNBdTZjbGVHcUNrMjdXR0x1QU8xczZmd2IyZGM5b05qOHpkaXItN2lxUDNBMXp4ekpTY1JpSXUzS0pfeXVSd2Q0RnNDZnB1OFRIQXJ6dmJKbWQ0YmxEbWVoZVRUb3ZETER3?oc=5"
         }
       ],
@@ -1399,85 +1594,6 @@
       ]
     },
     {
-      "id": "7fb6e59fe04f",
-      "title": "Na Noruega, fenômeno raro no céu faz Vênus 'desaparecer' em pleno dia e intriga moradores: esse evento bizarro que só acontece pouquíssimas vezes a cada década na Terra",
-      "published": "2026-09-16T11:13:19+00:00",
-      "sources": [
-        {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxObU5YTk1oNVlJd2xvZTBCTVJsLWp2bGVlQ3V3QnBxSnp3bXRjblJudU1ELXJOVDRPeUVTVnZfaDgzY2FHbVNJMV9oV2ZoRGxnMm1tUUpPaXRvZi1tWWRvVjNMQUZsaTJGVTJ3MGhqaFJrQWR0REQ5WmxnRElmWC1EaGtTcHozRmpoemluRzBaRFhYWkYxSmhSVGpGYlVqcVVWV2xXM0pKbXRlVzQ1dGlCQzlFajZuWmdEVnZXcFRhckNDVXVxNEV5UDM5NWNiTElmYklHSnBrUEFXUFVFSVFxUUV5T2c3ZmRwb2JJOUVfZFR5ZW1PZFlnR05NZWFER3BHTWRrbGxYTDBmNGszMm82TnNSTUFJVGJTZW9FUDJXdTEyY2R4dXlRdmN3aDc4QXFEeklfTUhJVFBock9xcGQ5SDNLTHIxOHhVTmRDMklwT21wY1lFWjZjOWlmWGc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "etodolaco",
-          "keyword": "DORE",
-          "name": "ETODOLACO",
-          "url": "/drugs/etodolaco/"
-        }
-      ]
-    },
-    {
-      "id": "4ef4b6154f3d",
-      "title": "Vacina é liberada para idosos acima de 85 anos - Tribuna Online",
-      "published": "2026-09-16T11:11:17+00:00",
-      "sources": [
-        {
-          "name": "Tribuna Online",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVldNTF9GRVNxOTJVdjNrRFVfZzFuTkFWWHF0V2NmSHBsT2YxWmoyQWNyWWlGdFoxOXoxamFMcHNMZGtDUTdUTEFnblpBTDdEVFFYOVRMYjE3dG5qd0VtUzJDaEEwT2Z6MVNseGRqVVJueHlfQnpCdzhRbmZqaDk1dHdOVDRJM29WdS10S25UUUpNUdIBmgFBVV95cUxPZEpXeF9SNTJic2xkRDhMRVZYWGJNRHFkaGVyR2VwT3duZ3gyYWQtdjg3LUk4S0pZbkxfVXY3VnA0cDB0YzNZNm9mSzktZ19TQUtBLTYwSTY2VXgzQXFLSUgwazJ2Y1dhRHU1dENhWC15eUtvc05NbE5PU2hoWjEyNWtDbWlEaDNzdUc0UTFXT1FiY2g1UzFMbmhn?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "pneumonia",
-          "keyword": "pneumonia",
-          "related_drugs": [
-            {
-              "slug": "ganciclovir",
-              "name": "Ganciclovir"
-            },
-            {
-              "slug": "clobutinol",
-              "name": "Clobutinol"
-            },
-            {
-              "slug": "tazobactam",
-              "name": "Tazobactam"
-            },
-            {
-              "slug": "oseltamivir",
-              "name": "Oseltamivir"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "infecção pulmonar",
-          "keyword": "pneumonia",
-          "related_drugs": [
-            {
-              "slug": "ganciclovir",
-              "name": "Ganciclovir"
-            },
-            {
-              "slug": "clobutinol",
-              "name": "Clobutinol"
-            },
-            {
-              "slug": "tazobactam",
-              "name": "Tazobactam"
-            },
-            {
-              "slug": "oseltamivir",
-              "name": "Oseltamivir"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "1dbbbd9e9e46",
       "title": "Injeção semestral contra HIV poderá ser feita no Brasil; entenda - UOL Notícias",
       "published": "2026-09-16T11:08:33+00:00",
@@ -1512,12 +1628,12 @@
       ]
     },
     {
-      "id": "2fa4b33da2c3",
+      "id": "350e1728aad2",
       "title": "'Fiz quimioterapia por 11 anos para tratar um câncer que eu não tinha'",
       "published": "2026-09-16T10:24:56+00:00",
       "sources": [
         {
-          "name": "bbc.com",
+          "name": "BBC",
           "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WV2N3alR2WGI1T0o3c0dvZ2E2Y25GRzd5bERpeXNsYXZjenIwcHprVngyeXZKZmduc2JOMnU2SThxVU02cGptUUxqSU85UU9TOC1RNGs1eU9VckhPT0VwLVVPc9IBaEFVX3lxTE16dVBRZUF4b09SZ3h5WUdPM0poWThXSy03M2JjUEY5OEhST0thRWRydE5rUkFaVDN4dVhXMXNreWVjeVFsb2liUXQwZkg4cWdveG5feGJWaUF5VFFoQ0hEeXY5T1liT0NK?oc=5"
         }
       ],
@@ -1936,20 +2052,6 @@
       "keywords": [
         {
           "type": "drug",
-          "slug": "diazepam",
-          "keyword": "UNI",
-          "name": "Diazepam",
-          "url": "/drugs/diazepam/"
-        },
-        {
-          "type": "drug",
-          "slug": "zinc",
-          "keyword": "UNI",
-          "name": "ZINC",
-          "url": "/drugs/zinc/"
-        },
-        {
-          "type": "drug",
           "slug": "silodosina",
           "keyword": "SIL",
           "name": "SILODOSINA",
@@ -1963,42 +2065,6 @@
             {
               "slug": "digoxin",
               "name": "DIGOXIN"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "c365dec7f412",
-      "title": "Alzheimer: exame de sangue auxilia na investigação - Veja Saúde",
-      "published": "2026-09-16T07:00:00+00:00",
-      "sources": [
-        {
-          "name": "Veja Saúde",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTXpFZnZVcmVGVkVIQ0FFa2wwQ3J0TVZBUXFuV2NKMlJVV0VKdVNYLVBjSlpqc2RvUU9rcjVldFpTVnU5LVJZVlQzTDNJeWxBVDRsOTB4cXdHalE4ajhnaXo2QjBJd3p0QWxmUGR4ZHVqUTdHeHBKSTVVRVhCUzlnTWU2UVF0Yl8tTzBHUDVkTQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "demência",
-          "related_drugs": [
-            {
-              "slug": "biperiden",
-              "name": "Biperiden"
-            },
-            {
-              "slug": "entacapone",
-              "name": "ENTACAPONE"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "albendazole",
-              "name": "Albendazole"
             }
           ]
         }
@@ -2074,6 +2140,26 @@
       ]
     },
     {
+      "id": "74a586239cb9",
+      "title": "Caminhar é ótimo após os 60 anos, mas esse exercício trabalha o corpo inteiro: ele protege o coração, fortalece músculos, melhora o humor e ainda preserva a função cognitiva",
+      "published": "2026-09-15T22:56:04+00:00",
+      "sources": [
+        {
+          "name": "xataka.com.br",
+          "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQZnFuQkZNZTl2TTZlRzZ6N28zdXdaV25sT3NfZUJwUXpJWWNvMWVQREJjRmYtd3FTV0RkYVMybzZtXzBaeFh6MXJVcUJPOFljN2JvQ3NMUXMwNlVJaXdmZ2VyeDRlLUt3b181R1h0b05QVlRSdDVaWk12Z2hUV0VRWk1vd3I4d19RdjdSME9oRk45VEl5VmRUMEE0T2I1V0RxSmRTczVPZV9Dd1hmbm1KbS1zb1MtY0xSS25WYlZSdTd1RUtqSGo1QkVDakJHUDJSOS1IUGJPbkZUamxLWjBjREd5bmpicHRmTnJGbHg1YVktU0hpUU9IOGszelk2a2Z5bTJtRDMtb05CZXgyaTFUX0t6dVFjaFhfTFE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "iron",
+          "keyword": "iron",
+          "name": "IRON",
+          "url": "/drugs/iron/"
+        }
+      ]
+    },
+    {
       "id": "6f89530a7578",
       "title": "Caligrafia ilegível não é sinal de desleixo, mas um indício de que o raciocínio é mais veloz do que a capacidade motora de escrever, segundo a psicologia - CNN Brasil",
       "published": "2026-09-15T22:19:33+00:00",
@@ -2094,12 +2180,46 @@
       ]
     },
     {
-      "id": "a8b900f881c5",
-      "title": "Psiquiatria não é só cérebro: como a saúde física interfere no tratamento de transtornos mentais - Portal Drauzio Varella",
+      "id": "7c0f0a629a41",
+      "title": "Vacina atualizada da covid-19 é liberada para novos grupos no Rio - O Dia",
+      "published": "2026-09-15T18:47:27+00:00",
+      "sources": [
+        {
+          "name": "O Dia",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZVVLUkxUZnlYci1ZNW10Q2Q0T0JiWmNCTkZlRFRybTJIcnlUU1pjeVowRDE5MWhUbjNBbkdwNWtuWXdVTDliUEtyMzZFUGIxZE9CSVVHOE9UaTAwblpQWllPME5TR2VZclpYVExtUlpEMW5FQjBUc0R6N01OVjVkTGQ4TnBBdGhBOVJ2OWE3Zk5kR05DWjBHQldlV0Y1YWctQ1JScFAtQ0Z6WC1HS2RiQ2F0WmtMcFpsWGlkRnp6MnJHQdIBxwFBVV95cUxQUlo2V2JPQVBBSGJIS1JvaTRDVEdmd1k5UEZsOHdDMjNBTEVYQzI0c3d1XzU1ZUZ0VlVLLUJRWGN1ZlRGVm92NFhEVlloaWh5Tk5NN2ZLajdVX3NmMWhkTnBqdGJWUmxiaGl0SFFXcmZ6emhkM1B4YVFlZHhxWmNTal9UQnVoQnpFZ1FaYjdfblhrU2ZOMDcySzBkZlQwaG1FNFlQTkhrOXVzcTBHSkNSZ3F1cERWRHRJZndaQUtzWjVGVDdnRWFn?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "diazepam",
+          "keyword": "UNI",
+          "name": "Diazepam",
+          "url": "/drugs/diazepam/"
+        },
+        {
+          "type": "drug",
+          "slug": "zinc",
+          "keyword": "UNI",
+          "name": "ZINC",
+          "url": "/drugs/zinc/"
+        },
+        {
+          "type": "drug",
+          "slug": "etodolaco",
+          "keyword": "DORE",
+          "name": "ETODOLACO",
+          "url": "/drugs/etodolaco/"
+        }
+      ]
+    },
+    {
+      "id": "7d758f81a4e6",
+      "title": "Psiquiatria não é só cérebro: como a saúde física interfere no tratamento de transtornos mentais",
       "published": "2026-09-15T18:02:05+00:00",
       "sources": [
         {
-          "name": "Portal Drauzio Varella",
+          "name": "drauziovarella.uol.com.br",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcWdPcF93U3ZaQVhockdkR2ZCX2U2aFZwLWV4Z01XVEx0ZVotczhkeTJUTDFJUUtFU0FlU0pMaGxQbDREU0lTWXFxc2RKVmVTMG1jNmEtZVpYNWNFUDhqMWVrN25ScGJnRjZsY2N6bmxJMHNUTVE0Sld2clJjaFNlcmlnbk85dFpBNXNqc2JWQnk2bFk2cFI4M2pkaE0zcW1uOUdBalBHenpJZlNvSEdQVGMtNjdLWmFzdTBrTnZRdUFqZndzX25TdEY5N29COFlUQThFeTR0YkttUQ?oc=5"
         }
       ],
@@ -2137,513 +2257,6 @@
             {
               "slug": "centella_asiatica",
               "name": "Centella asiatica"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "86888efe875b",
-      "title": "Nova biografia de Stephen Hawking mostra 'lado obscuro' do gênio",
-      "published": "2026-09-15T17:40:08+00:00",
-      "sources": [
-        {
-          "name": "Globo",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZW5zb2FBT09HZEFGYnFlT3hXOHpsaXI4Vy1KWkNudmMtUkx4NFU1dUpZTmJIbEQwSWZGYnZtc1ZGTjJLX2kxT2QtRUVwNVFWUjI3QnZLV291U3Zjc2x5UG5fWEdJNTdzUTU3aXprOVRtRjVZUHlvZklzU29lbmxGOEJoUUZ2OW9fX0NxWEJ5cy1TZU5KdEVRM0k2eldaeUszNmYyOTg2T2wxRk0wMHZmTjJDd3plUlFuY2E1bUlpMTVLWFBfUWYyUHVRbjREdkpuRGNQNEtB0gHkAUFVX3lxTFBZVVdmRzZlOUtmVE5lN1JwNzBXeV92cmZzRVBNY0xPVS1BaWJwcEZadmdXOFhHZEtpU2pZS2c1bW5idC1DZ3E1MkRick1Iczd5YXhsdzdibnFzMEtUZlljQTNfNXJtUmJaNWtlejlVelYtdGdJRXNaN2JiQU8zZEUwZnFMOUtfamktUkpkakc1ZTFWc2QxbFVvMktXYkUwYUlWaFlrYWtGclZoVGFZQ0hQYUF5R3k1SUtUSTB2ZWQ0OTFIZW1OX08yLUNqb3NEa2dKdVBYNTl2VmJmeWJRWXJxVHFKbg?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "golimumabe",
-          "keyword": "BIO",
-          "name": "GOLIMUMABE",
-          "url": "/drugs/golimumabe/"
-        },
-        {
-          "type": "drug",
-          "slug": "etanercepte",
-          "keyword": "BIO",
-          "name": "ETANERCEPTE",
-          "url": "/drugs/etanercepte/"
-        }
-      ]
-    },
-    {
-      "id": "08d477d56476",
-      "title": "Diversificar os Exercícios Pode Aumentar os Benefícios para a Saúde - Forbes Brasil",
-      "published": "2026-09-15T08:00:00+00:00",
-      "sources": [
-        {
-          "name": "Forbes Brasil",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcVRrVm9reE44MnZnUmpyNS00d2lKRnM2ZDg4N21kNktfZUtzX3RHdzZMT3VvcG9ZZUlIWG5EZDdBR2FRSHJjVUZ5SDk5TERBUUozNjFXV1lOck9ZNC1aTVNaN1hPVGJxTnREZm84S3pxQWpuM2s0bmF5dlB3dTVudWVocmQ1bmJjRHJvQmt2R1VkYThLbzMxSy1BdWpkRFNfUTVVR2lEVHFmal9ZamlvMQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "levetiracetam",
-          "keyword": "TAM",
-          "name": "LEVETIRACETAM",
-          "url": "/drugs/levetiracetam/"
-        },
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        },
-        {
-          "type": "drug",
-          "slug": "tadalafil",
-          "keyword": "CIALIS",
-          "name": "TADALAFIL",
-          "url": "/drugs/tadalafil/"
-        },
-        {
-          "type": "drug",
-          "slug": "etodolaco",
-          "keyword": "DORE",
-          "name": "ETODOLACO",
-          "url": "/drugs/etodolaco/"
-        }
-      ]
-    },
-    {
-      "id": "caf156aa7257",
-      "title": "Cientistas jogaram soda cáustica no oceano. Resultados surpreenderam ao mostrar elevação da capacidade de absorver o excesso de CO2 - CNN Brasil",
-      "published": "2026-09-14T19:43:34+00:00",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMThQeHVnT0lrVFlEbWtsYXl0M052SUFDb0dFWmZuSkRJQjFTakRrR2N3ZjFLWlFwU0RHSDBnOEl3WkxTeEFXMUdDWEVGZlpQd2NBV0MtN2w0QkJkVy1BOV9rVWxBUGc5QnhTaWVpM0o1OVY2Z1pXOFpBQlpCalJvRjJOdGdleWQ4dWFfUmF4VTJQVVlUaTBGZ29hTEFySkRJQnBtVEV4MUExUk03clJ5T2tJMGtfNldXenh3VzlrY1ZaX1hOOUpkckI2dndUYV9TVFNwYWF5a0QxQUN0VVMwZVN6SjFYbld5VzFjbkJDQXpCaHNhQnltUnNKdVU?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
-      "id": "4a913489caab",
-      "title": "Irmãs cariocas, recordistas do Guinness como o trio mais longevo do mundo, são escolhidas para estudo científico - CNN Brasil",
-      "published": "2026-09-14T14:03:29+00:00",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdUZjZTFSRFl4b0xqaVNxdkNXelhibGY3bUQxVEs0MzRNMHZ1TVQxQk8wWXJxSWZDd2tMbC14eGJtV1dheVRQZGlzbHZHYmJqUUJneUF0MjFXWGZTRGpoVzF1MzhWUmZjVHhmcFYyM1Z6MlhvYnkwV2FMWmZhTlo1S1pPZFlKLVRzZ1h0cG1MV3BzZE5yVXFLNEJOYlVYaG85VTRncGhrb0ZPdGN1MkZsZlU5bGRLbHA0YWhNb056TlNReGxDY0J4aTE0UUZaSHkyT3pnMjRtR1JQazlacnVnem9wZERwYzhz?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
-        }
-      ]
-    },
-    {
-      "id": "28ccb3c83fd8",
-      "title": "Casos de câncer de pâncreas crescem entre jovens, aponta estudo",
-      "published": "2026-09-14T11:15:00+00:00",
-      "sources": [
-        {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRTJzV2c1Z3pZSkdsZVFFMlVTdzhhUE9sZGhEbTFfRURDd3VRUlZiYm9KZ0VaZnJSN0duM1JOQnZXQklRdWxHU000RTJlWFJMbGw2amZiWVlUc2hBNzJCLWU4LThsNmhpcTJYUG5FNkw5OERmU2hIZ1ZPSzVVaUZ6TU9fcjJNRmc2Y0lLTUNyM0hMMF9OYUk4VTBlQ3MzcWZ0RHZyRmI1SlItamE4VHE5dklvRUo5aGkwWVZwM2tyYUI3UFUtVFFONnFNUTd1TG4tS2lNVEJxUE1oWkp4ZHpLSw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "levetiracetam",
-          "keyword": "TAM",
-          "name": "LEVETIRACETAM",
-          "url": "/drugs/levetiracetam/"
-        },
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "câncer",
-          "related_drugs": [
-            {
-              "slug": "imatinib",
-              "name": "Imatinib"
-            },
-            {
-              "slug": "oxaliplatin",
-              "name": "Oxaliplatin"
-            },
-            {
-              "slug": "ampicillin",
-              "name": "Ampicillin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "ceftriaxone",
-              "name": "Ceftriaxone"
-            },
-            {
-              "slug": "pegaspargase",
-              "name": "PEGASPARGASE"
-            },
-            {
-              "slug": "potassium_sulfate",
-              "name": "Potassium sulfate"
-            },
-            {
-              "slug": "plerixafor",
-              "name": "PLERIXAFOR"
-            },
-            {
-              "slug": "tisagenlecleucel",
-              "name": "Tisagenlecleucel"
-            },
-            {
-              "slug": "phenytoin",
-              "name": "PHENYTOIN"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "phenobarbital",
-              "name": "Phenobarbital"
-            },
-            {
-              "slug": "risdiplam",
-              "name": "Risdiplam"
-            },
-            {
-              "slug": "letermovir",
-              "name": "Letermovir"
-            },
-            {
-              "slug": "lisinopril",
-              "name": "LISINOPRIL"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "IRBESARTAN"
-            },
-            {
-              "slug": "cefaclor",
-              "name": "Cefaclor"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "sodium_chloride",
-              "name": "Sodium chloride"
-            },
-            {
-              "slug": "tamoxifen",
-              "name": "Tamoxifen"
-            },
-            {
-              "slug": "methotrexate",
-              "name": "Methotrexate"
-            },
-            {
-              "slug": "relebactam",
-              "name": "Relebactam"
-            },
-            {
-              "slug": "imiglucerase",
-              "name": "Imiglucerase"
-            },
-            {
-              "slug": "secnidazole",
-              "name": "Secnidazole"
-            },
-            {
-              "slug": "clonazepam",
-              "name": "CLONAZEPAM"
-            },
-            {
-              "slug": "captopril",
-              "name": "CAPTOPRIL"
-            },
-            {
-              "slug": "fluconazole",
-              "name": "Fluconazole"
-            },
-            {
-              "slug": "hesperidin",
-              "name": "Hesperidin"
-            },
-            {
-              "slug": "cysteine",
-              "name": "Cysteine"
-            },
-            {
-              "slug": "sorbitol",
-              "name": "Sorbitol"
-            },
-            {
-              "slug": "dantrolene",
-              "name": "Dantrolene"
-            },
-            {
-              "slug": "cefdinir",
-              "name": "Cefdinir"
-            },
-            {
-              "slug": "basiliximab",
-              "name": "Basiliximab"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "azithromycin",
-              "name": "Azithromycin"
-            },
-            {
-              "slug": "everolimus",
-              "name": "Everolimus"
-            },
-            {
-              "slug": "colchicine",
-              "name": "COLCHICINE"
-            },
-            {
-              "slug": "mometasone",
-              "name": "Mometasone"
-            },
-            {
-              "slug": "topiramate",
-              "name": "TOPIRAMATE"
-            },
-            {
-              "slug": "baclofen",
-              "name": "Baclofen"
-            },
-            {
-              "slug": "penciclovir",
-              "name": "Penciclovir"
-            },
-            {
-              "slug": "nitazoxanide",
-              "name": "Nitazoxanide"
-            },
-            {
-              "slug": "nomegestrol_acetate",
-              "name": "Nomegestrol acetate"
-            },
-            {
-              "slug": "isotretinoin",
-              "name": "ISOTRETINOIN"
-            },
-            {
-              "slug": "cabazitaxel",
-              "name": "Cabazitaxel"
-            },
-            {
-              "slug": "aztreonam",
-              "name": "Aztreonam"
-            },
-            {
-              "slug": "lorazepam",
-              "name": "LORAZEPAM"
-            },
-            {
-              "slug": "calcipotriol",
-              "name": "CALCIPOTRIOL"
-            },
-            {
-              "slug": "serine",
-              "name": "Serine"
-            },
-            {
-              "slug": "clarithromycin",
-              "name": "Clarithromycin"
-            },
-            {
-              "slug": "albendazole",
-              "name": "Albendazole"
-            },
-            {
-              "slug": "carbamazepine",
-              "name": "CARBAMAZEPINE"
-            },
-            {
-              "slug": "lactulose",
-              "name": "LACTULOSE"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "Telmisartan"
-            },
-            {
-              "slug": "amoxicillin",
-              "name": "Amoxicillin"
-            },
-            {
-              "slug": "adapalene",
-              "name": "Adapalene"
-            },
-            {
-              "slug": "elafibranor",
-              "name": "Elafibranor"
-            },
-            {
-              "slug": "trastuzumab",
-              "name": "Trastuzumab"
-            },
-            {
-              "slug": "ramipril",
-              "name": "RAMIPRIL"
-            },
-            {
-              "slug": "praziquantel",
-              "name": "Praziquantel"
-            },
-            {
-              "slug": "deferasirox",
-              "name": "DEFERASIROX"
-            },
-            {
-              "slug": "potassium",
-              "name": "Potassium"
-            },
-            {
-              "slug": "tetracycline",
-              "name": "Tetracycline"
-            },
-            {
-              "slug": "sorafenib",
-              "name": "Sorafenib"
-            },
-            {
-              "slug": "vinblastine",
-              "name": "Vinblastine"
-            },
-            {
-              "slug": "tezacaftor",
-              "name": "Tezacaftor"
-            },
-            {
-              "slug": "bisoprolol",
-              "name": "BISOPROLOL"
-            },
-            {
-              "slug": "vancomycin",
-              "name": "Vancomycin"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "letrozole",
-              "name": "Letrozole"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "Capecitabine"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "chlorthalidone",
-              "name": "CHLORTHALIDONE"
-            },
-            {
-              "slug": "ciprofloxacin",
-              "name": "Ciprofloxacin"
-            },
-            {
-              "slug": "lamotrigine",
-              "name": "LAMOTRIGINE"
-            },
-            {
-              "slug": "iopamidol",
-              "name": "Iopamidol"
-            },
-            {
-              "slug": "atenolol",
-              "name": "ATENOLOL"
-            },
-            {
-              "slug": "doxorubicin",
-              "name": "Doxorubicin"
-            },
-            {
-              "slug": "megestrol_acetate",
-              "name": "Megestrol acetate"
-            },
-            {
-              "slug": "gestodene",
-              "name": "Gestodene"
-            },
-            {
-              "slug": "carvedilol",
-              "name": "CARVEDILOL"
-            },
-            {
-              "slug": "levofloxacin",
-              "name": "Levofloxacin"
-            },
-            {
-              "slug": "ambroxol",
-              "name": "Ambroxol"
-            },
-            {
-              "slug": "polymyxin_b",
-              "name": "Polymyxin B"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "avibactam",
-              "name": "Avibactam"
-            },
-            {
-              "slug": "calcium",
-              "name": "Calcium"
-            },
-            {
-              "slug": "norfloxacin",
-              "name": "Norfloxacin"
-            },
-            {
-              "slug": "sirolimus",
-              "name": "Sirolimus"
-            },
-            {
-              "slug": "venetoclax",
-              "name": "Venetoclax"
-            },
-            {
-              "slug": "valsartan",
-              "name": "VALSARTAN"
             }
           ]
         }
@@ -3075,10 +2688,10 @@
         },
         {
           "type": "drug",
-          "slug": "silodosina",
-          "keyword": "SIL",
-          "name": "SILODOSINA",
-          "url": "/drugs/silodosina/"
+          "slug": "bisoprolol",
+          "keyword": "CONCOR",
+          "name": "BISOPROLOL",
+          "url": "/drugs/bisoprolol/"
         },
         {
           "type": "drug",
