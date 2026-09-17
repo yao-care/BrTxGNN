@@ -1,19 +1,91 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-09-17T03:57:03.483529+00:00",
-  "total_fetched": 99,
-  "unique_count": 98,
-  "health_related_count": 35,
+  "fetched_at": "2026-09-17T11:11:41.692792+00:00",
+  "total_fetched": 101,
+  "unique_count": 101,
+  "health_related_count": 42,
   "news": [
     {
-      "id": "35eded87d841",
-      "title": "SpaceX fará primeira tentativa de colocar Starship em órbita da Terra - Olhar Digital",
-      "published": "2026-09-17T02:45:00+00:00",
-      "summary": "SpaceX fará primeira tentativa de colocar Starship em órbita da Terra&nbsp;&nbsp;Olhar Digital",
+      "id": "ce766c19dcad",
+      "title": "Estudo revela maravilhas da rede viária de 300 mil km do Império Romano - Folha de S.Paulo",
+      "published": "2026-09-17T09:00:00+00:00",
+      "summary": "Estudo revela maravilhas da rede viária de 300 mil km do Império Romano&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdWxfbW9iTkQwanZqZVZ1MUFlTi10Q2ZQVFpaRVJLS2ZIMzdrZnE2SWF2NVlKRTlYRmR0WUlfZ2k4MkNsd1ZkWmNwYl92OWQyVWh1WnNzOXNscXFRUkJNOF9NeFZGOHlLS2VLMGdzaEh5ZlRWV3pwQlZKbGJRVEt3MTdnYS02MDctclJBVXV2R0pMRUw5d0Q1UkdJTk0xMUNCVkNOazAzSDhsZndRNVo5MU1DWGhIN0RwNFNfSk5yTzc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "84d0551c4e77",
+      "title": "'Descobri que tinha uma doença rara depois de um match no Tinder' - BBC",
+      "published": "2026-09-17T08:06:33+00:00",
+      "summary": "'Descobri que tinha uma doença rara depois de um match no Tinder'&nbsp;&nbsp;BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hR1N6aVYyODFlc0I2Nnh0aWU2aGFHdTlaTnFEU3hialY4bS1PMmRJWWdkcEZ1VXZVR0t6ZTBwdEV2NngtNENReGpOWGZPSDg5a2lMcnpXU3FaYTdpb3dfby1R0gFnQVVfeXFMT1FlR3BwSEI0UHEtbWFNWHVpZXY1am5yWWVGMFI3R01kQXNQUGt3V1gwZWJIZWIwN2lsSTU3d2xiZnNBelVEYm41enNZRFVveHEzVHltVDJvelEzSTdwS1piYzNxQ0R6MA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4254892ddfb4",
+      "title": "Os casos de puberdade precoce que intrigam os médicos em todo o mundo (incluindo no Brasil) - G1",
+      "published": "2026-09-17T06:00:00+00:00",
+      "summary": "Os casos de puberdade precoce que intrigam os médicos em todo o mundo (incluindo no Brasil)&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPT05jZDM3NG5vSEV2R2tNQW1HMGtvQ25PdE1RT1YzdDdxYXVwMFJuU1FjeEpMT2d6Zm5HWDdNdTVuSFpkNDZULTB2VTdRaUNWVUpGemZXWENGb29SUEdRNTRsZWxHRkI2QTY2bE5objRLTExzVFRkVi0ySHhZbmdXOF8xaUdrUllGZ0JhOENINTZ3UXZhODJvc3NJcFNoaHBFQWF1OWlMVEtQTlBxNTJHMGRGN0M3d0hQdTZpd2ZMVERCM0hlb2pXcmlSaDFBMEJERFNsbm9YdjHSAecBQVVfeXFMUHkyTjBmekhkT2hScnE2ZkMxTVFtMW1xQW5URVdxR09Ia1FMcWpmM0xHYlpqT1R0dnlfMVhaWFhwdE9XNmRua1k5bVRCMENGdFZtNXUta3dUV0pFNXlKMUpibktwWDl6QTJrdldIcmpfdTd1RXF1eWYyY1Y4TGVTeTMwNmt3VW9BeE8tTEpkUXpzeS16bVZYMU1vSW9OcS1sbUV5NktyS19PQTlLem1EVTRrUjR3MjEzSlNJcXJUbEhfUTJuc1NMX0p1YkdTSXFHSjRLblNyV2xjTVA3cVhvM3lhZVVUVnRj?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c07f0e0f275e",
+      "title": "Bahia prorroga estado de emergência zoossanitária por gripe aviária H5N1 por mais 180 dias - G1",
+      "published": "2026-09-16T22:03:47+00:00",
+      "summary": "Bahia prorroga estado de emergência zoossanitária por gripe aviária H5N1 por mais 180 dias&nbsp;&nbsp;G1Bahia prorroga estado de emergência zoossanitária para conter avanço da gripe aviária H5N1; veja os prazos&nbsp;&nbsp;Bahia NotíciasBahia estende alerta contra circulação do vírus H5N1&nbsp;&nbsp;A TARDEOito municípios do Bico terão propriedades monitoradas contra doenças de aves&nbsp;&nbsp;Folha do BicoTocantins inicia monitoramento sanitário para prevenir Influenza Aviária e Doença de Newcas",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbWpXTHY4LVl3YlBsOHZBWTNaVzNFZERRWFZzWDBKenFIUkpjTGNHSFdzSEw4SW1xYVpKa0VUUzJHTFZLdmloLTFMcTdZQ2wwR2c3YUlWaHdsQzFwbnBvUUJNT2xPT3ZoNGNxRE5SMm9CMnVuRDJPMGt6VWdBczd4aHlNQnliNVBXSkhZb1h1cUZzR251QndTc1ptUkhGTkhmV0EwTWg2d2V1ZUxSTEZMM0VPUlF4akkyNGdhSU9nOFRvZmZ6eVHSAdQBQVVfeXFMTTRtYWdtcEFHV3R5UFdOa3drUGRVZVpCN19aamExdzhwS2dXUWh4Wl8tV1FRR0Zzc21zQUtkbFFHV3E0OEFXVVc2RU1RcmZMTXVwM0EyV2lDaDlMMkRweHpSRkVGSDBSM2E2NmhkRmZhUjQyOXJLR29jNFl4ZVVpcVVySGlZN3JENEFXb2JoQmp4dFpIOG5MckFKN3ZCQ2RhZUhySFJXX0dfRmVhNFJJaDFwZWtnSWFSb1Y5aF9lb1JLNmJ0M2Mzem5iQjZHUDlDZ2xZblE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c2c2aa5bed86",
+      "title": "Desfile celebra superação de câncer no Hospital de Amor - Campo Grande News",
+      "published": "2026-09-16T20:37:00+00:00",
+      "summary": "Desfile celebra superação de câncer no Hospital de Amor&nbsp;&nbsp;Campo Grande News",
+      "sources": [
+        {
+          "name": "Campo Grande News",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNkdQTV92R1ozTlluc3FtX3B3TnZkYXZmNDZQY01wRWR3NFN6ZmI3V0diaE02eUJ6VjhkNzZjMmcwa2QyYW1VYzNPU0tTNGpjZ3otVFF2Q2pBZXhVUEhRcmoweGZqTkpyeFRHQzNqRHlrM3ZWaGsySlotWUlZNEdFVkFUZFc3UWZjZUlYcC1VTmJzQzlnVHByWnVLTWNIaU5PSnNEamMwdTFmVDFVOXB2dkc2RE1xQ1Q4SzhV0gG7AUFVX3lxTE5YbnBHU3BKNmw3ZTFoZlBnN0ZQaGdMQnFKZk55UEFzY2dKb3h4c2FweG8tYlB4YUpfWFJVUGR1WlN3VUlYT0Z0YTFCdjl5VXY5Vi0xV3lHUW1wdXdLa2ZqRldNM3U4VEJ3V1lEbTFXTVVPTUJ2OGlSMEhYbVMxb1RvWm5HYXR2SHpwWW5DYldPQ25GX2hjbU1VU1RMZGRWQjJSZVRaLXAtbmxqR01VWHQ3anpzMVNBZi1CUHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "961c87bbdeed",
+      "title": "A primeira luz do Roman: telescópio da NASA se prepara para observar exoplanetas, estrelas e galáxias - Olhar Digital",
+      "published": "2026-09-16T19:07:00+00:00",
+      "summary": "A primeira luz do Roman: telescópio da NASA se prepara para observar exoplanetas, estrelas e galáxias&nbsp;&nbsp;Olhar Digital",
       "sources": [
         {
           "name": "Olhar Digital",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdTh1VjRNUFVRWHJ0M1RIeV9WRlNKNmhGWWtJaGh1OXFmTTJlNC1pbXhLaVhlV043bnNiYnI1RElOUGlEdVdLZWZ2SWtMUzR5MzVWcVRrMXVuZDRXT01nMUd2cHhuZ1liTnJxNTliSTBHVWxNd0RtNGdISlZic296bGFJZVhPZmZid3ExekNzUXdaeTZWbXdQYnBIQzMyOEl3ZWtFNFpLcElBQUdOUTJIQU45RVNpR3AtNUxYaGsxNUpWNkE4?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOE8xSVUyMS1wWlZiREl0c25keUUtUjZ2TlltSXNJdlpJdzNKekVJbzZ3eVFTN1BBRnI4UjZmcHFac0VvUnFZdklad3gySlRpTUt0VURhNkg0Y0EtLXBHRkYtQzVkMU9udGdKdm01aVpFV1hDcGNjbVd4djJHd2ZTSWFRSEtsczJHWGhNQkNRU1FKcWZoMUdVdjhGZEx0UGJ0aS1pTm9VcmZzZmhHR1g0eDVGR2VMSjNYRkgxd1hJcFFONG92QWloQ1hzay1USG5GdXlJeEY1UWMwT1dXRmlrRWdZQlQtNHdPNUhR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bc04c39c9785",
+      "title": "SpaceX se prepara para primeiro voo orbital do megafoguete Starship - Folha de S.Paulo",
+      "published": "2026-09-16T18:49:00+00:00",
+      "summary": "SpaceX se prepara para primeiro voo orbital do megafoguete Starship&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaXc4aHhXNFRNTlFrRlRkQjNnMFRDSi1peWF0LURlalNIZkpzNDBSMDlNSGtvYnZTWGVTeFVlYXllUFRJcF9sZU9Eeko5TmYwN0JodXpjQllnd01qYWpIWlE4dUZVdGhGM2c2clNOcnAxcHR4cVFuNTUtWEM2MFR6M0tuRWhndzlnbThsOTh1VXA3dTd5b0tjeDZfb2VhY2RLSWdrNHk3RVFVVl9MUDBpR215aXRicjl4Z2k0?oc=5"
         }
       ]
     },
@@ -26,18 +98,6 @@
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbXdReTkzVm9SVW1DVzV2WnFnSGZVTGlIY1hRak9pekV6cW42X2hiN2dHanB3ZEdUejFabXd2amZmd29iNUFXTGtnZnBKWE5tSFlCeTZOemdtNnEzMnZKWlJ0WFlrNEh6RVZZOTlRYkZkbU1EOVA4R01pY1l1bjFGMEtKeDNPc2UzNHl4ckJhWVd3eHdnbnlOejM1SklPNzdKQWFBcENYanNPTkdlMVNWbnQ4RmdOZkUzc2xEelBQclQ1Q3pH0gHTAUFVX3lxTE9uUVJUbS1FdHhQZk16RDVKMXJ4SENkMnloRFdNV3ROQ2VDZXBvQWhYZGZRZmpQZXNmTnRaNVVMSy1iV3dfWXpJXzcxQnMtZDMxYTZ4YXZnWmdOSUZyWGNmV1BFNDI5ckdBZGNsNkNMR2drMnFLTEw2bFpwVmllQ2V2T1pndUo0MGJ2TU1qT0YzNFN4eEh1alJxZEg0bEE4NjhFTmNVanZBTVVBLU5kVS1WUzF1bFVqZmxTaFBxYzg0MTlXN0R3TnBpdUZUOFlJRHM3UVk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6d0f288eea6c",
-      "title": "Vacinação antirrábica gratuita terá 141 postos no Rio neste sábado; veja bairros - Diário do Rio",
-      "published": "2026-09-16T16:24:00+00:00",
-      "summary": "Vacinação antirrábica gratuita terá 141 postos no Rio neste sábado; veja bairros&nbsp;&nbsp;Diário do RioCampanha de vacinação antirrábica acontece nas zonas Norte e Sudoeste&nbsp;&nbsp;O DiaManaus oferta vacina contra raiva em 22 postos fixos e clínicas parceiras, inclusive aos sábados&nbsp;&nbsp;Portal No Ar!",
-      "sources": [
-        {
-          "name": "Diário do Rio",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVGFid0lJQ2tjN0NmeFI2RllQNFM0U3ItSEZIZDJvekRtQS1oM2trQU5vVXo4eWxEMEdGMmF6SjFRYXlzNlhPcHNrdDJkTUtWMVRCS1RjUnZyUjYzVEJRYXBXNENsYTNzZm9RRmdNVkVybU1KVE5USGYycmI3WXNnNTlhRXRCbTJyWE9rTlMyUS1CQ2c1TDNOOHA3bWQ0YWp1WVpkLS14ZkFxQXF5dU9VZTdESlpzc2loMWNsakYwMHJTam9rZ3VZNTlTWk1pUQ?oc=5"
         }
       ]
     },
@@ -90,18 +150,6 @@
       ]
     },
     {
-      "id": "2174d8e84a28",
-      "title": "Descoberta nova espécie de cobra gigante letal: cientistas descobrem nova espécie de sucuri-verde gigante na Amazônia - Terra",
-      "published": "2026-09-16T13:22:00+00:00",
-      "summary": "Descoberta nova espécie de cobra gigante letal: cientistas descobrem nova espécie de sucuri-verde gigante na Amazônia&nbsp;&nbsp;Terra",
-      "sources": [
-        {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOSk9aMXJ6NURDek5sTzMxTUNOUkgtMzVMNlNYOXl2VGtqb2VSZnR3Tk5pQzI3Z1FCNzVUSFVxMmdyOThsczFibkdyZUNRTlpBb0tKT2c1dklkc1cwbk1kUnpiZ0ZUV3h3aDVDMUY5REtpRndPdGh3b3RNZm4zUEtVa1czeGVhbWp0U2VUTklkYUVWV0J2aUVfc0J0eWVWRWp1NjFJeDN4S3hlRnJmRExTNUZldzB3YTJYQjFYNkJEajZib2lfOHJKV0U3MmhPa0JBS0gyRDhPcE9TMWY3bDN4Sl91NG55dmdDbDZESmRMckNTLUpHVmRmNWMwVzBGdWNlM04ydFBTV3RVV3pOc09iX0p6M3luR2tGVkNwMHhkZUh2MXhmMzZJ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "374d63a96abd",
       "title": "TozziniFreire anuncia dois novos sócios em Ciências da Vida e Saúde - Migalhas",
       "published": "2026-09-16T13:02:00+00:00",
@@ -138,26 +186,14 @@
       ]
     },
     {
-      "id": "00212e401614",
-      "title": "Dor, sangramento, urgência urinária: veja sinais de cânceres ginecológicos - UOL",
+      "id": "e8a62cf2ce74",
+      "title": "Dor, sangramento, urgência urinária: veja sinais de cânceres ginecológicos - uol.com.br",
       "published": "2026-09-16T12:31:00+00:00",
-      "summary": "Dor, sangramento, urgência urinária: veja sinais de cânceres ginecológicos&nbsp;&nbsp;UOLOpinião | Cânceres ginecológicos: o que mudou na prevenção, no diagnóstico e no tratamento&nbsp;&nbsp;EstadãoBom dia Dr: cânceres ginecológicos&nbsp;&nbsp;G1Cânceres ginecológicos: seis mitos e verdades sobre sinais e riscos&nbsp;&nbsp;Correio do PovoAmazonas lidera casos de câncer de colo de útero; atendimento&nbsp;&nbsp;Portal Você Online",
+      "summary": "Dor, sangramento, urgência urinária: veja sinais de cânceres ginecológicos&nbsp;&nbsp;uol.com.brOpinião | Cânceres ginecológicos: o que mudou na prevenção, no diagnóstico e no tratamento&nbsp;&nbsp;EstadãoBom dia Dr: cânceres ginecológicos&nbsp;&nbsp;G1Cânceres ginecológicos: seis mitos e verdades sobre sinais e riscos&nbsp;&nbsp;Correio do PovoAmazonas lidera casos de câncer de colo de útero; atendimento&nbsp;&nbsp;Portal Você Online",
       "sources": [
         {
-          "name": "UOL",
+          "name": "uol.com.br",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONG81a2c1TllKVl9kNDRiQTg2d0JUdTFJeFRxLW1kVmlZdFAyWXppRm9nM0liSnF0dC1kWU1waXQ2b1NaWl80dk9sNjhmZzgtdHRNazl5dWNhODdVQ1J3ZXB4eEtHMjMyYlFtbjF6amdEdzZQaUFqemJpQjZ6X2lYcnE3MjBDT0hPZS1udkpFZUE0QWk4anFrWnFGYkZmblpveTVmLWxLVXFTYThoNlRDWWJES2tGcjF4bGZ3bDZNd1VVU1RhUEtBb3lxbDJCbDF5?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d644d7014a97",
-      "title": "Fiz quimioterapia por 11 anos para tratar um câncer que eu não tinha - Folha de S.Paulo",
-      "published": "2026-09-16T12:18:00+00:00",
-      "summary": "Fiz quimioterapia por 11 anos para tratar um câncer que eu não tinha&nbsp;&nbsp;Folha de S.PauloVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeUkxdnI5UnlaaDNOTk9GdDVTel9pNlNLR240NVlCSUNoZzZPZTRnNHA2ZmhvZGxBeWhvTWwyRk54MFpMX2tySzBvZnBxaVhWU3NNWmV0MFlXaDhMX2JHV0hnOGlIVjhFZ0RmcWhoMnpySGh1Z1lDVFRxRE5UZTZKMzh5WnlLZHVZNXgzTld4Y1dnOWRNbkF1dVRKM1BwSVUwdGtfemhRc3hCTzRVVkwxdlRBRUM4UDNUSnlVWWVEMnFzZl9lVU5uSQ?oc=5"
         }
       ]
     },
@@ -186,6 +222,18 @@
       ]
     },
     {
+      "id": "56ac5e92c837",
+      "title": "O que considerar na conduta da ‘síndrome musculoesquelética da menopausa’ - Medscape",
+      "published": "2026-09-16T11:58:36+00:00",
+      "summary": "O que considerar na conduta da ‘síndrome musculoesquelética da menopausa’&nbsp;&nbsp;MedscapeDores no corpo na menopausa: causas e alternativas de tratamento&nbsp;&nbsp;boca.com.brDores nas articulações aumentaram na menopausa? Entenda a relação com a queda do estrogênio&nbsp;&nbsp;terra.com.br",
+      "sources": [
+        {
+          "name": "Medscape",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR1l2UHczZHRwMEpXUzVIUUdvM2NUUEhGWWwtR2VCb0RMR0MtLU85TXpsUVg0RExLZkFWUFh4QmlPQlY2eDhBNTE0RVJBZTlydGNBdTZjbGVHcUNrMjdXR0x1QU8xczZmd2IyZGM5b05qOHpkaXItN2lxUDNBMXp4ekpTY1JpSXUzS0pfeXVSd2Q0RnNDZnB1OFRIQXJ6dmJKbWQ0YmxEbWVoZVRUb3ZETER3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "4ef4b6154f3d",
       "title": "Vacina é liberada para idosos acima de 85 anos - Tribuna Online",
       "published": "2026-09-16T11:11:17+00:00",
@@ -198,10 +246,34 @@
       ]
     },
     {
+      "id": "1dbbbd9e9e46",
+      "title": "Injeção semestral contra HIV poderá ser feita no Brasil; entenda - UOL Notícias",
+      "published": "2026-09-16T11:08:33+00:00",
+      "summary": "Injeção semestral contra HIV poderá ser feita no Brasil; entenda&nbsp;&nbsp;UOL NotíciasOpas anuncia parceria para ampliar acesso à injeção bianual que previne o HIV&nbsp;&nbsp;VEJAHIV: farmacêutica que desenvolve medicamento semestral de prevenção se compromete a avançar em negociações para produção no Brasil, diz Opas&nbsp;&nbsp;O GLOBOLenacapavir: Acordo pode trazer nova PrEP injetável ao Brasil&nbsp;&nbsp;Campo Grande NewsOpas amplia acesso a injeção que previne HIV para Brasil e 13 países&n",
+      "sources": [
+        {
+          "name": "UOL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRUUxaHhFMEJSTDJYVGQ4WXJ2R0drWlFSZU9MZE0xN1M5ejJjSWYyMjR0MjlIZUtCalRycHl0Mko4cHZUQXBRXzVnNEJsQTlRbGtjZ3FWbnYyR2puY0lJX0JXdHVnOVpJMXd0aWpiWWxYejhsR01BZ0FiaGk5eDNWWl9Ya3ItOFBRTlNUWnlzRHQ3aHFsRkIwblctOGUteTBHekoxTnAwOFRtV3lUSDY5Q21veXZ6R3FaSVV2NUJZS25oMVctaDhR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "350e1728aad2",
+      "title": "'Fiz quimioterapia por 11 anos para tratar um câncer que eu não tinha' - BBC",
+      "published": "2026-09-16T10:24:56+00:00",
+      "summary": "'Fiz quimioterapia por 11 anos para tratar um câncer que eu não tinha'&nbsp;&nbsp;BBCMulher passa 11 anos em quimioterapia após diagnóstico de câncer cerebral e descobre que doença nunca existiu&nbsp;&nbsp;ND MaisMais de 40 pacientes processam hospital por tratamentos desnecessários contra o câncer&nbsp;&nbsp;BnewsDisseram-lhe que tinha um tumor terminal e ia morrer: 11 anos depois, descobre que nunca teve cancro&nbsp;&nbsp;Flash.ptFiz quimioterapia por 11 anos para tratar um câncer que eu não t",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WV2N3alR2WGI1T0o3c0dvZ2E2Y25GRzd5bERpeXNsYXZjenIwcHprVngyeXZKZmduc2JOMnU2SThxVU02cGptUUxqSU85UU9TOC1RNGs1eU9VckhPT0VwLVVPc9IBaEFVX3lxTE16dVBRZUF4b09SZ3h5WUdPM0poWThXSy03M2JjUEY5OEhST0thRWRydE5rUkFaVDN4dVhXMXNreWVjeVFsb2liUXQwZkg4cWdveG5feGJWaUF5VFFoQ0hEeXY5T1liT0NK?oc=5"
+        }
+      ]
+    },
+    {
       "id": "49ab14716c42",
       "title": "Viagens longas podem causar trombose; veja dicas de como se proteger - Folha de S.Paulo",
       "published": "2026-09-16T07:00:00+00:00",
-      "summary": "Viagens longas podem causar trombose; veja dicas de como se proteger&nbsp;&nbsp;Folha de S.PauloDia da Prevenção à Trombose: saiba como se prevenir&nbsp;&nbsp;G1Trabalhar sentado pode causar trombose? Doença pode causar AVC e até amputação&nbsp;&nbsp;CNN BrasilDor e inchaço em uma perna podem ser sinais de trombose&nbsp;&nbsp;Jornal O FluminenseFicar muito tempo sentado pode aumentar risco de trombose? Médica explica&nbsp;&nbsp;Folha Vitória",
+      "summary": "Viagens longas podem causar trombose; veja dicas de como se proteger&nbsp;&nbsp;Folha de S.PauloDia da Prevenção à Trombose: saiba como se prevenir&nbsp;&nbsp;G1Trabalhar sentado pode causar trombose? Doença pode causar AVC e até amputação&nbsp;&nbsp;CNN BrasilTrombose: dor e inchaço em uma perna exigem atenção&nbsp;&nbsp;Jornal O FluminenseFicar muito tempo sentado pode aumentar risco de trombose? Médica explica&nbsp;&nbsp;Folha Vitória",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -246,30 +318,6 @@
       ]
     },
     {
-      "id": "0c3ac293a13f",
-      "title": "Pensilvânia confirma quarta morte por sarampo nos Estados Unidos em meio à epidemia - O GLOBO",
-      "published": "2026-09-16T00:27:39+00:00",
-      "summary": "Pensilvânia confirma quarta morte por sarampo nos Estados Unidos em meio à epidemia&nbsp;&nbsp;O GLOBOPensilvânia confirma quarta morte por sarampo nos EUA&nbsp;&nbsp;Folha de S.PauloSenador republicano culpa política de vacinas de Trump por mortes por sarampo nos EUA | Mundo&nbsp;&nbsp;Valor EconômicoConfiança nas vacinas contra sarampo cai nos EUA, mostra pesquisa Reuters Ipsos&nbsp;&nbsp;Terra3ª morte ligada ao sarampo é registrada na Pensilvânia; surto nos EUA pode se espalhar?&nbsp;&nbsp;VE",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeHk3bHVLMzBoeGl2cDNSNDNaTzdTQ0JRUXJnZERjU0tFc0RYeVVqTnMxOHpGem90MkJtdmc0dGVsd2FSUE5jYXFUVktYU0p6MzBGZ2lDcWZscy1VdFZJRnRra3BTaE5HamZnTnZYeFV2SmtyUE5Hb04zUjRPdWR6S2ZWRWZtLUU3NGtpNlZvZnI2V1l5SEEtM25KQlFXTWhDbm9XeEhmNUhiNm5rcFp1TFRLUVdmWk0zTU05MmZKdjdPUkl6T0FiT2lUa0N6eXpJSnZzY2l30gHkAUFVX3lxTFAzdGRoMjRzOFhvWnQzWjllN04yTmhlVnZBcmJRNk9SOENyVFkydkM2MWNvYlpzcUdSRUgzeVN3VF9jMjAxVV96c1E0TjlDZFBBYlFvelJIdTdNbkdiam1yRTFTdDZHeGNra1VfWjk1TGR1S3FHbjFZVTV5Z3EtTnVxSlFCTkN0MDRoWGZqWGVuQ3p6R21IeWk5TFQzbDJiblpWcVh3WWRsejR5RUdQVlV2SmVQSDhuSW5EaTB6S0doU1JhNEFNdTgxTFIxVXhHaVJPSWNaTE1MWktlcENqMkEwZ3VNcA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f04895f9d1a3",
-      "title": "Lúcia Helena: Vacinação na gravidez: o que você precisa saber e o que precisa esquecer - UOL",
-      "published": "2026-09-15T23:32:18+00:00",
-      "summary": "Lúcia Helena: Vacinação na gravidez: o que você precisa saber e o que precisa esquecer&nbsp;&nbsp;UOLOs anticorpos que atravessam a placenta: como vacina da mãe protege o bebê antes mesmo do parto&nbsp;&nbsp;G1“Vi meu filho desfalecer em meus braços”: falta de vacinas na gravidez expõe bebês a doenças graves&nbsp;&nbsp;Veja SaúdeEscudo materno: quando e onde grávidas devem se vacinar contra o VSR no DF&nbsp;&nbsp;MetrópolesVacina contra VSR em grávidas reduz número de internações e óbitos em men",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPclZ4NklTSS1XOEd0ckRWNF9VSnZnQzFYRjZTcHpuWFJ3aGZLUERncW9SdGwxZzJHQ0d3c2p2dlhvbEpjNHdUVTViZXVwVmtzeWRqMm01VFV3QnlPLUwwWC03ZXo4NTZDbXVHbDUwbUw0STBWYVVaSENvNk9KUUpQc01sb0lOTS0xWUNzM29nMWxYZm1hVURuRW9adFluX2tTelMtLTNteld2ZVFBbmlvd3djQnZCdGdhNGxkV3h3Nk9sd1ludUFwYlhfRnB4WGU5QmhyXw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "12790e8aec07",
       "title": "Descoberta urna funerária de 600 anos no Peru - VEJA",
       "published": "2026-09-15T23:12:19+00:00",
@@ -282,13 +330,25 @@
       ]
     },
     {
-      "id": "fcde72e8f87e",
-      "title": "Câncer na família exige fazer mais exames? Saiba quando é indicado - UOL",
-      "published": "2026-09-15T18:53:37+00:00",
-      "summary": "Câncer na família exige fazer mais exames? Saiba quando é indicado&nbsp;&nbsp;UOLExame genético pelo SUS no DF: quem tem direito e como conseguir&nbsp;&nbsp;soubrasilia.com",
+      "id": "e1915408df5c",
+      "title": "Caminhar é ótimo após os 60 anos, mas esse exercício trabalha o corpo inteiro: ele protege o coração, fortalece músculos, melhora o humor e ainda preserva a função cognitiva - Xataka Brasil",
+      "published": "2026-09-15T22:56:04+00:00",
+      "summary": "Caminhar é ótimo após os 60 anos, mas esse exercício trabalha o corpo inteiro: ele protege o coração, fortalece músculos, melhora o humor e ainda preserva a função cognitiva&nbsp;&nbsp;Xataka Brasil",
       "sources": [
         {
-          "name": "UOL",
+          "name": "Xataka Brasil",
+          "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQZnFuQkZNZTl2TTZlRzZ6N28zdXdaV25sT3NfZUJwUXpJWWNvMWVQREJjRmYtd3FTV0RkYVMybzZtXzBaeFh6MXJVcUJPOFljN2JvQ3NMUXMwNlVJaXdmZ2VyeDRlLUt3b181R1h0b05QVlRSdDVaWk12Z2hUV0VRWk1vd3I4d19RdjdSME9oRk45VEl5VmRUMEE0T2I1V0RxSmRTczVPZV9Dd1hmbm1KbS1zb1MtY0xSS25WYlZSdTd1RUtqSGo1QkVDakJHUDJSOS1IUGJPbkZUamxLWjBjREd5bmpicHRmTnJGbHg1YVktU0hpUU9IOGszelk2a2Z5bTJtRDMtb05CZXgyaTFUX0t6dVFjaFhfTFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2b05db1381e4",
+      "title": "Câncer na família exige fazer mais exames? Saiba quando é indicado - uol.com.br",
+      "published": "2026-09-15T18:53:37+00:00",
+      "summary": "Câncer na família exige fazer mais exames? Saiba quando é indicado&nbsp;&nbsp;uol.com.brExame genético pelo SUS no DF: quem tem direito e como conseguir&nbsp;&nbsp;soubrasilia.com",
+      "sources": [
+        {
+          "name": "uol.com.br",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM19idFVXZkRQbktXSEVJbURPZzYwYTVZdzlha3NpOHpualFZa2o3cUlLcHdzMTRPNXM1cllteWkzQndWcmlYUDhrcEUyc0diSW43ZHhYbHdfSEcyMWZfM2kxT0d6V2g1LUIzQmt3Q21pNF84RDd2dHJVb1BJM19GUFc2dk55N2d5YzhpNUxNSlcxTHdBMUVCcFRhMkw2UV9faTQ2SDNNLTQ5ZDg3YzNZOFZUZ3hDeVR4ZlBXd3VEb01zYTlSRDJpMw?oc=5"
         }
       ]
@@ -309,7 +369,7 @@
       "id": "a8b900f881c5",
       "title": "Psiquiatria não é só cérebro: como a saúde física interfere no tratamento de transtornos mentais - Portal Drauzio Varella",
       "published": "2026-09-15T18:02:05+00:00",
-      "summary": "Psiquiatria não é só cérebro: como a saúde física interfere no tratamento de transtornos mentais&nbsp;&nbsp;Portal Drauzio VarellaSetembro Amarelo: Exercício Físico Ajuda na Saúde Mental, Apontam Estudos&nbsp;&nbsp;TerraAgência de Comunicação - Setembro Amarelo: praticar esportes também é uma forma de cuidar da saúde mental&nbsp;&nbsp;Estadão Blue StudioVÍDEO: Psicóloga cita hábitos diários e explica como pensamentos podem impactar na saúde mental&nbsp;&nbsp;Diário do SertãoESF Tancredo promove ",
+      "summary": "Psiquiatria não é só cérebro: como a saúde física interfere no tratamento de transtornos mentais&nbsp;&nbsp;Portal Drauzio VarellaSetembro Amarelo: Exercício Físico Ajuda na Saúde Mental, Apontam Estudos&nbsp;&nbsp;terra.com.brAgência de Comunicação - Setembro Amarelo: praticar esportes também é uma forma de cuidar da saúde mental&nbsp;&nbsp;Estadão Blue StudioAnsiedade, estresse e isolamento: veja 10 hábitos que podem ajudar a cuidar da saúde mental&nbsp;&nbsp;Jornal CorreioVÍDEO: Psicóloga cit",
       "sources": [
         {
           "name": "Portal Drauzio Varella",
@@ -318,14 +378,14 @@
       ]
     },
     {
-      "id": "ff4a158fb232",
-      "title": "IA tem potencial de ‘matar todos’ os humanos, diz ex-pesquisador do Google - Estadão",
-      "published": "2026-09-15T17:00:00+00:00",
-      "summary": "IA tem potencial de ‘matar todos’ os humanos, diz ex-pesquisador do Google&nbsp;&nbsp;Estadão",
+      "id": "6a0373f99d15",
+      "title": "Descoberta nova espécie de cobra gigante letal: cientistas descobrem nova espécie de sucuri-verde gigante na Amazônia - terra.com.br",
+      "published": "2026-09-15T16:42:00+00:00",
+      "summary": "Descoberta nova espécie de cobra gigante letal: cientistas descobrem nova espécie de sucuri-verde gigante na Amazônia&nbsp;&nbsp;terra.com.br",
       "sources": [
         {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSEltaGNlbWFMME52Q3djc2N2aWY1WGlPVlZNWm1GdE5PV3gydDdKN1RDbjk5TTRKekZIdW5TQ0RKMU1FNmpHV1ByelhmWURjWGJwSzZFZm5iMVJ6RGJScTF2TEVYeEY3VFhrRzE4QVJOR3o0aHkzZUlveEM2UENKN3ZObXZQN3d1eTdQTV9fSDRZWVpMLXozRy10TkRraV9TNUJKbnBHMExGZFY5TUR4SUR4UzZPUjhLX3JKNzlTVTVTaDY4MERKcmNjd2fSAdIBQVVfeXFMUGRTM1VzN1pFaGZiaHRIaHNQYzJ3NEdjS2hGNnBTNHlsSTBxWWZKWml5c3p6YzFzeVNtOUotYlNJd1hTNWN3cjk0QXU5dGxHQmNSMm1CVnBjLU96QURRelFnVjNPbjhubHBaX3RpV2UxYUtoclZ3ajdVTjAwSDZGMG5qVUtpbThsNlhTeGRRYlBSNWpCa3NSN1k3bW9iMms2WWNrZ1lhSGRfT19xWWpjQkhkaG9lMDdHN1MxT3lfZjYyOGg4ZUlnNThUQ1dHQU1WNjJ3?oc=5"
+          "name": "terra.com.br",
+          "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOSk9aMXJ6NURDek5sTzMxTUNOUkgtMzVMNlNYOXl2VGtqb2VSZnR3Tk5pQzI3Z1FCNzVUSFVxMmdyOThsczFibkdyZUNRTlpBb0tKT2c1dklkc1cwbk1kUnpiZ0ZUV3h3aDVDMUY5REtpRndPdGh3b3RNZm4zUEtVa1czeGVhbWp0U2VUTklkYUVWV0J2aUVfc0J0eWVWRWp1NjFJeDN4S3hlRnJmRExTNUZldzB3YTJYQjFYNkJEajZib2lfOHJKV0U3MmhPa0JBS0gyRDhPcE9TMWY3bDN4Sl91NG55dmdDbDZESmRMckNTLUpHVmRmNWMwVzBGdWNlM04ydFBTV3RVV3pOc09iX0p6M3luR2tGVkNwMHhkZUh2MXhmMzZJ?oc=5"
         }
       ]
     },
@@ -333,7 +393,7 @@
       "id": "a52aff49096f",
       "title": "São Paulo chega a 36 casos de sarampo em 2026; 26 não tinham vacinação completa - Folha de S.Paulo",
       "published": "2026-09-15T15:34:00+00:00",
-      "summary": "São Paulo chega a 36 casos de sarampo em 2026; 26 não tinham vacinação completa&nbsp;&nbsp;Folha de S.PauloBoletim.leg - Edição das 22h&nbsp;&nbsp;senado.leg.brMais dois bebês com esquema vacinal incompleto são diagnosticados com sarampo em SP&nbsp;&nbsp;EstadãoSão Paulo tem 4 novos casos de sarampo confirmados&nbsp;&nbsp;G1Mortes por sarampo nos EUA acendem alerta com alta de casos no Brasil&nbsp;&nbsp;Metrópoles",
+      "summary": "São Paulo chega a 36 casos de sarampo em 2026; 26 não tinham vacinação completa&nbsp;&nbsp;Folha de S.PauloSão Paulo tem 4 novos casos de sarampo confirmados&nbsp;&nbsp;G1Boletim.leg - Edição das 22h&nbsp;&nbsp;SenadoMais dois bebês com esquema vacinal incompleto são diagnosticados com sarampo em SP&nbsp;&nbsp;EstadãoMortes por sarampo nos EUA acendem alerta com alta de casos no Brasil&nbsp;&nbsp;Metrópoles",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -342,14 +402,26 @@
       ]
     },
     {
-      "id": "2acd6d0a3cf2",
-      "title": "SOP agora é SOMP: riscos além da fertilidade e diabetes - Campo Grande News",
-      "published": "2026-09-15T13:22:00+00:00",
-      "summary": "SOP agora é SOMP: riscos além da fertilidade e diabetes&nbsp;&nbsp;Campo Grande NewsSíndrome dos ovários policísticos ganha novo nome e reforça alerta para risco de diabetes&nbsp;&nbsp;jd1noticias.comComecei a sentir dor pélvica aos 8 anos e perdi um ovário por diagnóstico tardio, diz jovem com Somp&nbsp;&nbsp;Folha de S.Paulo",
+      "id": "bd470cd56ab3",
+      "title": "Quanto da sua personalidade está escrito no DNA? Grande estudo traz pistas - Estadão",
+      "published": "2026-09-15T15:00:00+00:00",
+      "summary": "Quanto da sua personalidade está escrito no DNA? Grande estudo traz pistas&nbsp;&nbsp;Estadão",
       "sources": [
         {
-          "name": "Campo Grande News",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcGdLYlpxRDRMdzZGcElIZHRsQlc5dkhoeWJxaG1PRXAzOXhTYUxwYzJpRTRSMnY1ZXVrQmE3ZmxJbWh4THFoMC1wTmVjQnNoNm9WeTdNVFVIck8yYWNOa1BsWUJMZkNGaTl6bzB5endOV3Z5Ul9UeU9QcDhNajI2eTZNMzdSZE4ybm5NSUFETk9UQ1I4NGp1MTkydGZQN19qN3hpcmRXSzVlSmJxZ1lsdmgwLUpySzZWYmFKcUtrMHpBRkdI0gHEAUFVX3lxTE10TFMyMmhEZjR0WmR2dS1qOEJLaWZxU19ua0kzdGZTZkhkRUhMakFfX2FxUGpNMjV4WWpFc24xdkZsVzFIUGdnOXlYQWFpTlRzMWVNbTVfcXo4WDVBQ016emRiRXJIcWZqX0RVQ0VQR2dIanR0Rk9ZdURKNm84akFvbHZfRFIyQUdkS0hqN3FDekhKbmNydEs0cDh3ck9KUTM0dndvSHdiSWFVQW92VjJxbW90VDNXU0NjbG5jTVR1N0c1U1g?oc=5"
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaC1lMVpyYlR5eVlXajl6X2R3X3ZEWV9BTGEyZEtZSWdUUzBBRjBCVXBFN2I2cGJXNkZ5UDAtWEltYVNScTNtSXVTc0FFV25JU19XUTQ2UlN0N04tazhpX0lPRTB2aHZCY2ZtME1IYkp1TmlJaU9mMUltT2xtbE90RGZ6VGFDODFvT2lvWW9FeS1aMTFGRW9iQkg2S1FlQjhHZG9rX3VBc3dRb2g0OGfSAbMBQVVfeXFMTzNVU0VjdlBXOUtCa1I4NjJjUWpzMFVva2dJTWJhdDYybGpNRHBQUE5UQUh1WTdXMHZpOTN3NTViQ0ZLRV9JaFJZeUNYYzFaY05PSTdWWks0b0FVdWZ6X2hKS2ZQNmVyWUVJS0ZzN2c5Ry1kVU9pNWs3bHBrdVJBMUJFYjZfYldiaWtWNlZNNDRDazJ0UlVsQ0RYT3VSY1VId1pEdjBfWUxTZmRjMVBqTjgwaEU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0efe6a9eddf3",
+      "title": "Por que há o temor sobre IA acabar com a humanidade — e existe mesmo o risco? - BBC",
+      "published": "2026-09-15T11:31:01+00:00",
+      "summary": "Por que há o temor sobre IA acabar com a humanidade — e existe mesmo o risco?&nbsp;&nbsp;BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBScGdjZ0lXc3FSc3FzZnVNNUNHU1NsMW9PMVNqMkVENEk4RGdOb2RtMUNrSU1fMlVzRHJNUDQwd3RYVDFBUVVYMXJzcWZRNmstNGxSQ1U0SGkxeHBCa2RUak1DVdIBaEFVX3lxTFB2cnhOdzd5N0FRUjRmMXNINHNVa3NqNkZyTk12SV9rZjFlQTdTM001RVdNdzJLQmJELVZmVUdtWFZGeGJtcjFyOVFGb29Ra2JGbV9KaHVud0lNQmM0eUJjWGRIMERBVG96?oc=5"
         }
       ]
     },
@@ -357,7 +429,7 @@
       "id": "08d477d56476",
       "title": "Diversificar os Exercícios Pode Aumentar os Benefícios para a Saúde - Forbes Brasil",
       "published": "2026-09-15T08:00:00+00:00",
-      "summary": "Diversificar os Exercícios Pode Aumentar os Benefícios para a Saúde&nbsp;&nbsp;Forbes BrasilMusculação realmente pode ajudar a viver mais?&nbsp;&nbsp;BBCTreino de força e atividade aeróbica juntos aparecem ligados a resultados mais favoráveis para a saúde, apontam pesquisadores em novo estudo&nbsp;&nbsp;Correio BrazilienseEste é o principal exercício para promover a longevidade, segundo especialistas&nbsp;&nbsp;GloboMusculação se consolida como aliada de idosos que buscam autonomia e longevidade",
+      "summary": "Diversificar os Exercícios Pode Aumentar os Benefícios para a Saúde&nbsp;&nbsp;Forbes BrasilMusculação realmente pode ajudar a viver mais?&nbsp;&nbsp;BBCTreino de força e atividade aeróbica juntos aparecem ligados a resultados mais favoráveis para a saúde, apontam pesquisadores em novo estudo&nbsp;&nbsp;correiobraziliense.com.brEste é o principal exercício para promover a longevidade, segundo especialistas&nbsp;&nbsp;GloboMusculação se consolida como aliada de idosos que buscam autonomia e longe",
       "sources": [
         {
           "name": "Forbes Brasil",
@@ -366,14 +438,38 @@
       ]
     },
     {
-      "id": "f74435fda949",
-      "title": "Teve pedra nos rins? Veja por que risco de passar por isso de novo é alto - UOL",
-      "published": "2026-09-14T15:00:00+00:00",
-      "summary": "Teve pedra nos rins? Veja por que risco de passar por isso de novo é alto&nbsp;&nbsp;UOLInchaço nas pernas, urina espumosa e cansaço persistente estão entre os sinais mais associados a problemas nos rins&nbsp;&nbsp;Tua SaúdePedra nos rins voltou? O motivo pode estar em hábitos e alterações metabólicas que favorecem novas crises&nbsp;&nbsp;O POVOPedra nos rins pode voltar em até metade dos casos em cinco anos&nbsp;&nbsp;Diário do Centro do MundoPedra nos rins ou dor lombar? Saiba diferenciar&nbsp",
+      "id": "4a913489caab",
+      "title": "Irmãs cariocas, recordistas do Guinness como o trio mais longevo do mundo, são escolhidas para estudo científico - CNN Brasil",
+      "published": "2026-09-14T14:03:29+00:00",
+      "summary": "Irmãs cariocas, recordistas do Guinness como o trio mais longevo do mundo, são escolhidas para estudo científico&nbsp;&nbsp;CNN Brasil",
       "sources": [
         {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOenZEWnZuQU1LUy0wcmNsS1k2R0pqSW5IMHZKSTVlaGpfd01rQTZDR2hrdzBRb0ZfcmM3RE1hOGp4NlZQNG10ZExkNzNVNVdxMlF5cTVKWDZNRXJERnBwSXpwR2ZPT2VYV1F0ay1adjdXY3RSeDFldkRRM2I3TmlzZWlPUW9BSXFwTUh5ekhnN3F1TVFvQ2xkVm5iTG1EaW9TWnF0VFg1VUZDWEI5SDBzWnl6Q2NmejRQZ2ZJcmtScklOMlRoWTBoNlh3?oc=5"
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdUZjZTFSRFl4b0xqaVNxdkNXelhibGY3bUQxVEs0MzRNMHZ1TVQxQk8wWXJxSWZDd2tMbC14eGJtV1dheVRQZGlzbHZHYmJqUUJneUF0MjFXWGZTRGpoVzF1MzhWUmZjVHhmcFYyM1Z6MlhvYnkwV2FMWmZhTlo1S1pPZFlKLVRzZ1h0cG1MV3BzZE5yVXFLNEJOYlVYaG85VTRncGhrb0ZPdGN1MkZsZlU5bGRLbHA0YWhNb056TlNReGxDY0J4aTE0UUZaSHkyT3pnMjRtR1JQazlacnVnem9wZERwYzhz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e6f574f7920e",
+      "title": "Casos de câncer de pâncreas crescem entre jovens, aponta estudo - terra.com.br",
+      "published": "2026-09-14T11:15:00+00:00",
+      "summary": "Casos de câncer de pâncreas crescem entre jovens, aponta estudo&nbsp;&nbsp;terra.com.brCâncer de pâncreas pode começar sem sintomas; veja sete sinais de alerta e os novos tratamentos&nbsp;&nbsp;Jornal CorreioCâncer de pâncreas ganha novas opções de tratamento com avanços na tecnologia&nbsp;&nbsp;HojePRSetembro Roxo: câncer de pâncreas desafia a oncologia e ganha novas terapias&nbsp;&nbsp;ParanashopCâncer de pâncreas: sintomas discretos dificultam diagnóstico precoce; entenda fatores de risco e a",
+      "sources": [
+        {
+          "name": "terra.com.br",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRTJzV2c1Z3pZSkdsZVFFMlVTdzhhUE9sZGhEbTFfRURDd3VRUlZiYm9KZ0VaZnJSN0duM1JOQnZXQklRdWxHU000RTJlWFJMbGw2amZiWVlUc2hBNzJCLWU4LThsNmhpcTJYUG5FNkw5OERmU2hIZ1ZPSzVVaUZ6TU9fcjJNRmc2Y0lLTUNyM0hMMF9OYUk4VTBlQ3MzcWZ0RHZyRmI1SlItamE4VHE5dklvRUo5aGkwWVZwM2tyYUI3UFUtVFFONnFNUTd1TG4tS2lNVEJxUE1oWkp4ZHpLSw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "aca4fa04497f",
+      "title": "Mulher de 40 anos morre nos EUA devido a complicações causadas por sarampo - Público",
+      "published": "2026-09-14T10:41:09+00:00",
+      "summary": "Mulher de 40 anos morre nos EUA devido a complicações causadas por sarampo&nbsp;&nbsp;PúblicoPensilvânia confirma quarta morte por sarampo nos EUA&nbsp;&nbsp;Folha de S.PauloSenador republicano culpa política de vacinas de Trump por mortes por sarampo nos EUA | Mundo&nbsp;&nbsp;Valor EconômicoVacinação sarampo EUA: Confiança em queda com surto recorde&nbsp;&nbsp;ISTOÉ DINHEIROMulher de 40 anos morre por sarampo nos EUA; é o 3º caso registrado na Pensilvânia em 2026&nbsp;&nbsp;Estadão",
+      "sources": [
+        {
+          "name": "Público",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTk5xaEptUFgyOTFRa2xXeXptWk9LM3ZlQzBVWEFGN0F1bHdfTUlpRnJ6al9KQ01BZDgtZlVDZnpUckZSYVlzMy1fb2J4aGlCX2Z5WkQ3bnhQanRJWmlzYVlBVjdwTGlhYXJCOEdFU2NKM2pMbUNGRlRJOGRhMkwtd1R3Y2ZYNnJ6QVVnU3F0bEgwUmcxQVdzanZVTWV5YzlraFR6Z3MtRWFWRUY5Tm1oczhmci1qckNvcUJZ?oc=5"
         }
       ]
     },
@@ -405,23 +501,11 @@
       "id": "211756f844b4",
       "title": "Anvisa aprova 14 novas canetas para diabetes e obesidade em 2026; veja quais são e seus preços - Folha de S.Paulo",
       "published": "2026-09-14T07:00:00+00:00",
-      "summary": "Anvisa aprova 14 novas canetas para diabetes e obesidade em 2026; veja quais são e seus preços&nbsp;&nbsp;Folha de S.PauloBrasil tem 14 novas opções de canetas para diabetes e obesidade&nbsp;&nbsp;MetrópolesConheça as canetas nacionais de semaglutida aprovadas pela Anvisa e seus respectivos preços&nbsp;&nbsp;VEJAAnvisa amplia mercado de análogos de GLP-1 e aprova primeiros genéricos de liraglutida no Brasil&nbsp;&nbsp;Época NegóciosAnvisa aprova 14 remédios para diabetes e obesidade e eleva conc",
+      "summary": "Anvisa aprova 14 novas canetas para diabetes e obesidade em 2026; veja quais são e seus preços&nbsp;&nbsp;Folha de S.PauloOzivy: o que é, para que serve, quais os efeitos colaterais e quanto custa&nbsp;&nbsp;Veja SaúdeBrasil tem 14 novas opções de canetas para diabetes e obesidade&nbsp;&nbsp;MetrópolesAnvisa amplia mercado de análogos de GLP-1 e aprova primeiros genéricos de liraglutida no Brasil&nbsp;&nbsp;Época NegóciosAnvisa aprova 14 remédios para diabetes e obesidade e eleva concorrência ap",
       "sources": [
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRk5BbnhzR0swYTJ1bENFRGtqY1lKU3A2Tk9keG12ZWFtT01yejBRbUJ5amVEQjRQTHRCc19qdTVPOWRBUDZYNm9NSjJfMEQ4SU5GSkRWZG9Eak1aZUo3S1pYQU56VTNmOEtwWVcyRkVrSzJDcjh6d0FZOC0xQUJMazNVVWdSTG9SYkxjUjJTOHVOZVJmLXR3cFhvSEJIYjExZWlldnpkWWJjOWgxeDJUTTRWU25SLVo1d1A1engyamVWeHAxSkJPcWE3U2VpN3QyN1dMR2NkTzRxQTh0ejJXR2xXaUs2dTN1anc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "604f85c89be8",
-      "title": "Escola diz que alunos que passaram por exame em feira cultural devem procurar hospital - O GLOBO",
-      "published": "2026-09-13T07:00:00+00:00",
-      "summary": "Escola diz que alunos que passaram por exame em feira cultural devem procurar hospital&nbsp;&nbsp;O GLOBO",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRHJzY3hlRW5IOWZRSUdQRGlIcTM5SFJvYWFLV001UHdkbDMzUHdBcEVNR0ZCanZXUlhJcF94Mmt3Vk5QWTJ3TFpGWm9IVFpQV1hfcEFLNlAzeWY1QTlxS2d2WFpqRFJtTVl4LVJRT19YZmdXMjk4LUFZWHlER3AwcTI1MkhZOGk5aVdjTjdOOUpmc2kzbmRoRjVQOWZvd3V6a3pubC1lSTZ5UjB6TDZpbk0yLUd5dXBSYmlTcWRIREJIbDZkcmxsbFFUbU1UYmZuMmdPRWJlNNIB5gFBVV95cUxPZGVNS3NYZFRxRnp3YnFMOTNWdFNNSE9hVHVJeDAwMlNzbHB0aUx1aGVWeGF3VkdKa05NTW9xS2lHR3d1d1Myc2tUc2VmVTVmbXpYV2YwblpVb1pZXzNmenJxb0hXWjMyVmxidmZsTW1VYlpxaGZBa2QtQ2hvMkE1TEtodUp1R2NwdWQ1TE9WYUVDWGs5RjVhVHVRazR3VXk2a3diY1hGU2RsT3RaSHJfLXhYTnZKQXUxOVZMY19yTU5LMTBhVE95ZUxWTENPMGNxQjc5WXRBZWU4MHFJaU5BaGt6a1pNUQ?oc=5"
         }
       ]
     }
