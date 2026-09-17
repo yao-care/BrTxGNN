@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Brigatinibe
-parent: 僅模型預測 (L5)
+parent: Apenas Predição do Modelo (L5)
 nav_order: 131
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Brigatinibe
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Nível de evidência: **L5** | Indicações previstas: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Índice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relatório de avaliação farmacêutica
 
 </div>
 
@@ -45,7 +45,7 @@ Brigatinibe (BRIGATINIBE) é um inibidor de tirosina quinase ALK, originalmente 
 | Nova Indicação Prevista | **Nenhuma previsão disponível** |
 | Pontuação de Previsão TxGNN | — |
 | Nível de Evidência | **L5** (sem previsão do modelo nem estudos associados) |
-| Situação no Mercado Brasileiro | ✓ Comercializado (已上市) |
+| Situação no Mercado Brasileiro | ✓ Comercializado (Marketed) |
 | Número de Registros | 1 |
 | Decisão Recomendada | **Hold** |
 
@@ -79,7 +79,7 @@ Atualmente não há literatura relacionada a novas indicações disponível no E
 |---------|------|------|-----------|
 | (não informado) | (não informado) | (não informado) | (não informado) |
 
-> **Nota:** O registro consta como existente (1 licença ativa, status "已上市"), porém os campos detalhados não foram preenchidos no Evidence Pack. Recomenda-se consultar diretamente a base da ANVISA para obter as informações completas.
+> **Nota:** O registro consta como existente (1 licença ativa, status "Marketed"), porém os campos detalhados não foram preenchidos no Evidence Pack. Recomenda-se consultar diretamente a base da ANVISA para obter as informações completas.
 
 ---
 

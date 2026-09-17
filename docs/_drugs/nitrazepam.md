@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Nitrazepam
-parent: 僅模型預測 (L5)
+parent: Evidência Alta (L1-L2)
 nav_order: 360
-evidence_level: L5
+evidence_level: L1
 indication_count: 3
 ---
 
 # Nitrazepam
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+Nível de evidência: **L1** | Indicações previstas: **3** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Índice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 3
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relatório de avaliação farmacêutica
 
 </div>
 

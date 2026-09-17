@@ -5,6 +5,7 @@ title: DEXAMETHASONE ACETATE
 drugbank_id: DB14649
 evidence_level: L5
 permalink: /drugs/dexamethasone_acetate/
+search_exclude: true
 ---
 
 # DEXAMETHASONE ACETATE

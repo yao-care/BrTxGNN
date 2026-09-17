@@ -5,6 +5,7 @@ title: LIRAGLUTIDE
 drugbank_id: DB06655
 evidence_level: L5
 permalink: /drugs/liraglutide/
+search_exclude: true
 ---
 
 # LIRAGLUTIDE

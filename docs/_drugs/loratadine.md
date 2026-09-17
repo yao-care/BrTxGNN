@@ -5,6 +5,7 @@ title: LORATADINE
 drugbank_id: DB00455
 evidence_level: L5
 permalink: /drugs/loratadine/
+search_exclude: true
 ---
 
 # LORATADINE

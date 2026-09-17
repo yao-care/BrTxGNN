@@ -5,6 +5,7 @@ title: NALOXONE
 drugbank_id: DB01183
 evidence_level: L5
 permalink: /drugs/naloxone/
+search_exclude: true
 ---
 
 # NALOXONE

@@ -5,6 +5,7 @@ title: RITUXIMAB
 drugbank_id: DB00073
 evidence_level: L5
 permalink: /drugs/rituximab/
+search_exclude: true
 ---
 
 # RITUXIMAB

@@ -5,6 +5,7 @@ title: CILOSTAZOL
 drugbank_id: DB01166
 evidence_level: L5
 permalink: /drugs/cilostazol/
+search_exclude: true
 ---
 
 # CILOSTAZOL

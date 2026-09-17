@@ -5,6 +5,7 @@ title: DROSPIRENONE
 drugbank_id: DB01395
 evidence_level: L5
 permalink: /drugs/drospirenone/
+search_exclude: true
 ---
 
 # DROSPIRENONE

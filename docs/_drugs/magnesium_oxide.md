@@ -5,6 +5,7 @@ title: MAGNESIUM OXIDE
 drugbank_id: DB01377
 evidence_level: L5
 permalink: /drugs/magnesium_oxide/
+search_exclude: true
 ---
 
 # MAGNESIUM OXIDE

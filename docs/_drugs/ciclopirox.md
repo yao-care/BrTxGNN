@@ -5,6 +5,7 @@ title: CICLOPIROX
 drugbank_id: DB01188
 evidence_level: L5
 permalink: /drugs/ciclopirox/
+search_exclude: true
 ---
 
 # CICLOPIROX

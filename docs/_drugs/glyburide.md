@@ -5,6 +5,7 @@ title: GLYBURIDE
 drugbank_id: DB01016
 evidence_level: L5
 permalink: /drugs/glyburide/
+search_exclude: true
 ---
 
 # GLYBURIDE

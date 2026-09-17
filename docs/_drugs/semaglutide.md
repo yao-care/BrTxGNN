@@ -5,6 +5,7 @@ title: SEMAGLUTIDE
 drugbank_id: DB13928
 evidence_level: L5
 permalink: /drugs/semaglutide/
+search_exclude: true
 ---
 
 # SEMAGLUTIDE
