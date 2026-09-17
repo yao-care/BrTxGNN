@@ -1,15 +1,39 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-09-16T20:59:39.153261+00:00",
-  "total_fetched": 101,
-  "unique_count": 100,
-  "health_related_count": 40,
+  "fetched_at": "2026-09-17T03:57:03.483529+00:00",
+  "total_fetched": 99,
+  "unique_count": 98,
+  "health_related_count": 35,
   "news": [
+    {
+      "id": "35eded87d841",
+      "title": "SpaceX fará primeira tentativa de colocar Starship em órbita da Terra - Olhar Digital",
+      "published": "2026-09-17T02:45:00+00:00",
+      "summary": "SpaceX fará primeira tentativa de colocar Starship em órbita da Terra&nbsp;&nbsp;Olhar Digital",
+      "sources": [
+        {
+          "name": "Olhar Digital",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdTh1VjRNUFVRWHJ0M1RIeV9WRlNKNmhGWWtJaGh1OXFmTTJlNC1pbXhLaVhlV043bnNiYnI1RElOUGlEdVdLZWZ2SWtMUzR5MzVWcVRrMXVuZDRXT01nMUd2cHhuZ1liTnJxNTliSTBHVWxNd0RtNGdISlZic296bGFJZVhPZmZid3ExekNzUXdaeTZWbXdQYnBIQzMyOEl3ZWtFNFpLcElBQUdOUTJIQU45RVNpR3AtNUxYaGsxNUpWNkE4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "446782b8fa81",
+      "title": "Laboratório anuncia início do teste clínico com polilaminina para cinco voluntários ainda em setembro - G1",
+      "published": "2026-09-16T18:00:21+00:00",
+      "summary": "Laboratório anuncia início do teste clínico com polilaminina para cinco voluntários ainda em setembro&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbXdReTkzVm9SVW1DVzV2WnFnSGZVTGlIY1hRak9pekV6cW42X2hiN2dHanB3ZEdUejFabXd2amZmd29iNUFXTGtnZnBKWE5tSFlCeTZOemdtNnEzMnZKWlJ0WFlrNEh6RVZZOTlRYkZkbU1EOVA4R01pY1l1bjFGMEtKeDNPc2UzNHl4ckJhWVd3eHdnbnlOejM1SklPNzdKQWFBcENYanNPTkdlMVNWbnQ4RmdOZkUzc2xEelBQclQ1Q3pH0gHTAUFVX3lxTE9uUVJUbS1FdHhQZk16RDVKMXJ4SENkMnloRFdNV3ROQ2VDZXBvQWhYZGZRZmpQZXNmTnRaNVVMSy1iV3dfWXpJXzcxQnMtZDMxYTZ4YXZnWmdOSUZyWGNmV1BFNDI5ckdBZGNsNkNMR2drMnFLTEw2bFpwVmllQ2V2T1pndUo0MGJ2TU1qT0YzNFN4eEh1alJxZEg0bEE4NjhFTmNVanZBTVVBLU5kVS1WUzF1bFVqZmxTaFBxYzg0MTlXN0R3TnBpdUZUOFlJRHM3UVk?oc=5"
+        }
+      ]
+    },
     {
       "id": "6d0f288eea6c",
       "title": "Vacinação antirrábica gratuita terá 141 postos no Rio neste sábado; veja bairros - Diário do Rio",
       "published": "2026-09-16T16:24:00+00:00",
-      "summary": "Vacinação antirrábica gratuita terá 141 postos no Rio neste sábado; veja bairros&nbsp;&nbsp;Diário do RioCampanha de vacinação antirrábica acontece nas zonas Norte e Sudoeste&nbsp;&nbsp;odia.ig.com.brManaus oferta vacina contra raiva em 22 postos fixos e clínicas parceiras, inclusive aos sábados&nbsp;&nbsp;Portal No Ar!",
+      "summary": "Vacinação antirrábica gratuita terá 141 postos no Rio neste sábado; veja bairros&nbsp;&nbsp;Diário do RioCampanha de vacinação antirrábica acontece nas zonas Norte e Sudoeste&nbsp;&nbsp;O DiaManaus oferta vacina contra raiva em 22 postos fixos e clínicas parceiras, inclusive aos sábados&nbsp;&nbsp;Portal No Ar!",
       "sources": [
         {
           "name": "Diário do Rio",
@@ -26,6 +50,18 @@
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQnNxekJHZnNublpzMlBUa2lzS3p4ZThjN2E1RC1kRnNDcDNWOGpIMVREX1F2UkprdkJqdUN6Z0pDX1dZTW11dVp0RXpWQThiUTl5VnA4ZkU4QkxNM2pCVGE0a1U3LU50bEVwZ2R1MlhrU293LVNQUkZXazJsdEt0QnVMWjVtRjZfWmlHQVlDWW1oeUd4V0UycnZWMURySFY0Y1lBZVlkaU05MERkb0tDUGVhTlNaTmpUeHdDX3hjeDZoWnFv0gHTAUFVX3lxTE04RUdlYU1NUm9oT191WEtsNUFSOWhsUklwVlFvb1czVER2aktCSFo1VHVlOURodXZzNk9SWTdiVVBJVEJMMFFzZm9yMEtKUVRjSmZNOFFPeVE4MFZWWDBiMXlndmI1OXRKOW1fb0pmUERjc1NFWFB6SVdqMngtR3k4aXowQmdpVFRWOU4yOE54dlE0SVYtNGtUR0drQVFJeU5XSDM3czJ0dmZiWV9WbWxLSVY1c1FHdExlV1pVZGV4WHRLemNTVjAycWtZdDNqaWcwTVU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "222a4e18bf3b",
+      "title": "Tadalafila: doenças cardiovasculares podem aumentar riscos durante o sexo? - Rádio Itatiaia",
+      "published": "2026-09-16T15:13:09+00:00",
+      "summary": "Tadalafila: doenças cardiovasculares podem aumentar riscos durante o sexo?&nbsp;&nbsp;Rádio ItatiaiaDisfunção erétil requer investigação médica personalizada&nbsp;&nbsp;Valor EconômicoEreção ficou mais difícil de manter? Vale olhar além da idade&nbsp;&nbsp;Tua SaúdeDificuldade de ereção depois dos 40 também pode ter relação com a circulação&nbsp;&nbsp;Tua Saúde",
+      "sources": [
+        {
+          "name": "Rádio Itatiaia",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSXc0VTBMWE5CZGpEaVBSVjEyb01oN256N0FKaWlVaV95WWxtZFpKZmg3TXdJUmlRQkdCbFVGTWh3eXlyLVJSTVBWYTRGQUNSYkNCVFNIMkV1NG1YVUtyZnFxNmtEOHJ1b3BOWEhoMDhnSW11emhicFE1NlFRUm1QUVo2bHhnbVdQYlQ4c2JvUGh0aEFUZ2pNeEhhbl80UDktTm5Ga05pN1h0MDg?oc=5"
         }
       ]
     },
@@ -54,13 +90,37 @@
       ]
     },
     {
-      "id": "1efb82d148f8",
-      "title": "Anvisa alerta para risco de deficiência de vitamina B6 - odia.ig.com.br",
-      "published": "2026-09-16T12:57:15+00:00",
-      "summary": "Anvisa alerta para risco de deficiência de vitamina B6&nbsp;&nbsp;odia.ig.com.brAnvisa alerta para falta de vitamina B6 com remédio para Parkinson&nbsp;&nbsp;Poder360Anvisa alerta sobre risco de deficiência de vitamina B6 em pacientes com Parkinson&nbsp;&nbsp;Metrô News JornalAnvisa alerta sobre deficiência de vitamina B6 associada à carbidopa/levodopa&nbsp;&nbsp;Costa NorteAnvisa emite alerta sobre risco da carbidopa/levodopa e vitamina b6&nbsp;&nbsp;Diário Goianiense",
+      "id": "2174d8e84a28",
+      "title": "Descoberta nova espécie de cobra gigante letal: cientistas descobrem nova espécie de sucuri-verde gigante na Amazônia - Terra",
+      "published": "2026-09-16T13:22:00+00:00",
+      "summary": "Descoberta nova espécie de cobra gigante letal: cientistas descobrem nova espécie de sucuri-verde gigante na Amazônia&nbsp;&nbsp;Terra",
       "sources": [
         {
-          "name": "odia.ig.com.br",
+          "name": "Terra",
+          "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOSk9aMXJ6NURDek5sTzMxTUNOUkgtMzVMNlNYOXl2VGtqb2VSZnR3Tk5pQzI3Z1FCNzVUSFVxMmdyOThsczFibkdyZUNRTlpBb0tKT2c1dklkc1cwbk1kUnpiZ0ZUV3h3aDVDMUY5REtpRndPdGh3b3RNZm4zUEtVa1czeGVhbWp0U2VUTklkYUVWV0J2aUVfc0J0eWVWRWp1NjFJeDN4S3hlRnJmRExTNUZldzB3YTJYQjFYNkJEajZib2lfOHJKV0U3MmhPa0JBS0gyRDhPcE9TMWY3bDN4Sl91NG55dmdDbDZESmRMckNTLUpHVmRmNWMwVzBGdWNlM04ydFBTV3RVV3pOc09iX0p6M3luR2tGVkNwMHhkZUh2MXhmMzZJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "374d63a96abd",
+      "title": "TozziniFreire anuncia dois novos sócios em Ciências da Vida e Saúde - Migalhas",
+      "published": "2026-09-16T13:02:00+00:00",
+      "summary": "TozziniFreire anuncia dois novos sócios em Ciências da Vida e Saúde&nbsp;&nbsp;Migalhas",
+      "sources": [
+        {
+          "name": "Migalhas",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTzE3YWZoTDEydUUyY1kzNTVncnVNNmNGbk14aDVoVDJsTHBqVlp6UUZRV2VlN1BHRkQyeTNmbmVlT184amkxc09sT01remV6MVVpcXExQmJ1R2g1Z045T0RweTJkWHNfdWtRV1dsbzMyWGFsYWEzak4yb2JNUXZFenQxb1lORGlRbENqM3d5b1RncF9KSWpteTlWNkNGajJVZ0QtcGJpUFVlNm9iVld3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1e87fa21a572",
+      "title": "Anvisa alerta para risco de deficiência de vitamina B6 - O Dia",
+      "published": "2026-09-16T12:57:15+00:00",
+      "summary": "Anvisa alerta para risco de deficiência de vitamina B6&nbsp;&nbsp;O DiaAnvisa alerta para falta de vitamina B6 com remédio para Parkinson&nbsp;&nbsp;Poder360Anvisa aponta perigo de falta de vitamina B6 em pacientes com Parkinson sob uso de carbidopa/levodopa&nbsp;&nbsp;Fato PaulistaAnvisa alerta sobre deficiência de vitamina B6 associada à carbidopa/levodopa&nbsp;&nbsp;Costa NorteAnvisa alerta sobre efeitos do tratamento de Parkinson&nbsp;&nbsp;Jornal Ibiá",
+      "sources": [
+        {
+          "name": "O Dia",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOWpGeVJQejRDbldQZWd1WHhCdC14SlFGZHlubExwOW00ZGN3elVMV1A0SlNRR05OdnZsVlIxN2xycWJTNTVaUllvQk5IX2hsRFRpZFVhUDgtUFFNMkJZQWN0NVBoVEdJd1MxZ2x2YncyQXNXZUF6bF92ZEhJM2hVLU5OMzFmdDRFRXkzZEh1bE5HMEdDWUxXUDFQSnJfSHB0Mk83aVMxazbSAa4BQVVfeXFMTi1aZEh2R0RpMzdZT3daY1lUUFlBYkt5cDYzOENZdndqQzRsaG9WbzlIT1B2QU1nVFpoaDM0NmlNak9aSmxGcGc3QjdqeHlpZmp2SkxFVjNwSW9IX3Q5cmRyc3Q1X200T2JfbjhiM05zTjNfZkxkMFdpZjlBYlZtVTdORUJfQ0RJMVJYaGlGX2VRWmRVdGtPZG5JM1YybllEVjg2UXF4bXJiS3ZZOXhB?oc=5"
         }
       ]
@@ -81,7 +141,7 @@
       "id": "00212e401614",
       "title": "Dor, sangramento, urgência urinária: veja sinais de cânceres ginecológicos - UOL",
       "published": "2026-09-16T12:31:00+00:00",
-      "summary": "Dor, sangramento, urgência urinária: veja sinais de cânceres ginecológicos&nbsp;&nbsp;UOLBom dia Dr: cânceres ginecológicos&nbsp;&nbsp;G1Cânceres ginecológicos: seis mitos e verdades sobre sinais e riscos&nbsp;&nbsp;Correio do PovoCâncer ginecológico: quase 4 mil mulheres foram diagnosticadas no ES em cinco anos&nbsp;&nbsp;Folha VitóriaDr. Marcelo Caballero alerta para sintomas silenciosos do câncer de colo de útero&nbsp;&nbsp;Rádio Acústica FM",
+      "summary": "Dor, sangramento, urgência urinária: veja sinais de cânceres ginecológicos&nbsp;&nbsp;UOLOpinião | Cânceres ginecológicos: o que mudou na prevenção, no diagnóstico e no tratamento&nbsp;&nbsp;EstadãoBom dia Dr: cânceres ginecológicos&nbsp;&nbsp;G1Cânceres ginecológicos: seis mitos e verdades sobre sinais e riscos&nbsp;&nbsp;Correio do PovoAmazonas lidera casos de câncer de colo de útero; atendimento&nbsp;&nbsp;Portal Você Online",
       "sources": [
         {
           "name": "UOL",
@@ -90,13 +150,13 @@
       ]
     },
     {
-      "id": "8fbd1d52a413",
-      "title": "Fiz quimioterapia por 11 anos para tratar um câncer que eu não tinha - folha.uol.com.br",
+      "id": "d644d7014a97",
+      "title": "Fiz quimioterapia por 11 anos para tratar um câncer que eu não tinha - Folha de S.Paulo",
       "published": "2026-09-16T12:18:00+00:00",
-      "summary": "Fiz quimioterapia por 11 anos para tratar um câncer que eu não tinha&nbsp;&nbsp;folha.uol.com.brVeja mais manchetes e perspectivas no Google Notícias",
+      "summary": "Fiz quimioterapia por 11 anos para tratar um câncer que eu não tinha&nbsp;&nbsp;Folha de S.PauloVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
-          "name": "folha.uol.com.br",
+          "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeUkxdnI5UnlaaDNOTk9GdDVTel9pNlNLR240NVlCSUNoZzZPZTRnNHA2ZmhvZGxBeWhvTWwyRk54MFpMX2tySzBvZnBxaVhWU3NNWmV0MFlXaDhMX2JHV0hnOGlIVjhFZ0RmcWhoMnpySGh1Z1lDVFRxRE5UZTZKMzh5WnlLZHVZNXgzTld4Y1dnOWRNbkF1dVRKM1BwSVUwdGtfemhRc3hCTzRVVkwxdlRBRUM4UDNUSnlVWWVEMnFzZl9lVU5uSQ?oc=5"
         }
       ]
@@ -129,7 +189,7 @@
       "id": "4ef4b6154f3d",
       "title": "Vacina é liberada para idosos acima de 85 anos - Tribuna Online",
       "published": "2026-09-16T11:11:17+00:00",
-      "summary": "Vacina é liberada para idosos acima de 85 anos&nbsp;&nbsp;Tribuna OnlineNova vacina: Ministério da Saúde vai ofertar pneumo20 para quem tem mais de 85 anos&nbsp;&nbsp;www.gov.brVacina pneumo 20 é ampliada para pessoas com 85 anos ou mais; confira como fica o esquema vacinal&nbsp;&nbsp;agenciasp.sp.gov.brSão Paulo amplia vacinação contra pneumococo para idosos&nbsp;&nbsp;TV CulturaNova vacina contra pneumonia será aplicada em idosos pelo SUS&nbsp;&nbsp;G1",
+      "summary": "Vacina é liberada para idosos acima de 85 anos&nbsp;&nbsp;Tribuna OnlineNova vacina: Ministério da Saúde vai ofertar pneumo20 para quem tem mais de 85 anos&nbsp;&nbsp;www.gov.brSão Paulo amplia vacinação contra pneumococo para idosos&nbsp;&nbsp;TV CulturaNova vacina contra pneumonia será aplicada em idosos pelo SUS&nbsp;&nbsp;G1Vacina pneumo 20 é ampliada para pessoas com 85 anos ou mais; confira como fica o esquema vacinal&nbsp;&nbsp;agenciasp.sp.gov.br",
       "sources": [
         {
           "name": "Tribuna Online",
@@ -138,25 +198,13 @@
       ]
     },
     {
-      "id": "1dbbbd9e9e46",
-      "title": "Injeção semestral contra HIV poderá ser feita no Brasil; entenda - UOL Notícias",
-      "published": "2026-09-16T11:08:33+00:00",
-      "summary": "Injeção semestral contra HIV poderá ser feita no Brasil; entenda&nbsp;&nbsp;UOL NotíciasOpas anuncia parceria para ampliar acesso à injeção bianual que previne o HIV&nbsp;&nbsp;VEJAHIV: farmacêutica que desenvolve medicamento semestral de prevenção se compromete a avançar em negociações para produção no Brasil, diz Opas&nbsp;&nbsp;O GLOBOLenacapavir: Acordo pode trazer nova PrEP injetável ao Brasil&nbsp;&nbsp;Campo Grande NewsPrEP injetável no SUS: vulneráveis serão prioridade?&nbsp;&nbsp;IstoÉ",
-      "sources": [
-        {
-          "name": "UOL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRUUxaHhFMEJSTDJYVGQ4WXJ2R0drWlFSZU9MZE0xN1M5ejJjSWYyMjR0MjlIZUtCalRycHl0Mko4cHZUQXBRXzVnNEJsQTlRbGtjZ3FWbnYyR2puY0lJX0JXdHVnOVpJMXd0aWpiWWxYejhsR01BZ0FiaGk5eDNWWl9Ya3ItOFBRTlNUWnlzRHQ3aHFsRkIwblctOGUteTBHekoxTnAwOFRtV3lUSDY5Q21veXZ6R3FaSVV2NUJZS25oMVctaDhR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b3e9e3037f31",
-      "title": "Viagens longas podem causar trombose; veja dicas de como se proteger - folha.uol.com.br",
+      "id": "49ab14716c42",
+      "title": "Viagens longas podem causar trombose; veja dicas de como se proteger - Folha de S.Paulo",
       "published": "2026-09-16T07:00:00+00:00",
-      "summary": "Viagens longas podem causar trombose; veja dicas de como se proteger&nbsp;&nbsp;folha.uol.com.brTrabalhar sentado pode causar trombose? Doença pode causar AVC e até amputação&nbsp;&nbsp;CNN BrasilTrombose: veja os principais fatores de risco e como prevenir a doença&nbsp;&nbsp;G1Hoje em Dia alerta para os riscos da trombose no quadro Você e o Doutor desta terça (15)&nbsp;&nbsp;R7Dor e inchaço em uma perna podem ser sinais de trombose&nbsp;&nbsp;Jornal O Fluminense",
+      "summary": "Viagens longas podem causar trombose; veja dicas de como se proteger&nbsp;&nbsp;Folha de S.PauloDia da Prevenção à Trombose: saiba como se prevenir&nbsp;&nbsp;G1Trabalhar sentado pode causar trombose? Doença pode causar AVC e até amputação&nbsp;&nbsp;CNN BrasilDor e inchaço em uma perna podem ser sinais de trombose&nbsp;&nbsp;Jornal O FluminenseFicar muito tempo sentado pode aumentar risco de trombose? Médica explica&nbsp;&nbsp;Folha Vitória",
       "sources": [
         {
-          "name": "folha.uol.com.br",
+          "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQVBqMmZ6MHFVQ21OY3BrVVFwSHBwVUN4TUk5Y2Z3M0lacEdvaEFsaDlUOEpKXzBjLXRyVUpzcE8wMEhWUXdOSzFLdTFUUlE5eFhFa255YXUwWUFmaGc4UENVOEhoMFdNcVhQNjlDWHNqSUg5R2tCRGN2VVBSYldNZEpLS29tajFqVmE0T3ZwN01GNGVTUGMxcFFsdkNxQ3NFd2cwYkxpdWdJTDRGT1BaTXR2Vk9ZM1Fsc2xmRHZtMHJrb2RTd3hn?oc=5"
         }
       ]
@@ -165,7 +213,7 @@
       "id": "b2cf74cfb31c",
       "title": "Dormir bem pode ajudar no desempenho escolar de adolescentes, mostra estudo - G1",
       "published": "2026-09-16T07:00:00+00:00",
-      "summary": "Dormir bem pode ajudar no desempenho escolar de adolescentes, mostra estudo&nbsp;&nbsp;G1",
+      "summary": "Dormir bem pode ajudar no desempenho escolar de adolescentes, mostra estudo&nbsp;&nbsp;G1“Jet lag social”: horários de sono desajustados aumentam ansiedade nos adolescentes&nbsp;&nbsp;Euronews.comPsiquiatra alerta para hábitos que prejudicam aprendizado de universitários&nbsp;&nbsp;Diário dos CamposBoas noites de sono podem ser fundamentais para desempenho escolar de adolescentes, mostra estudo&nbsp;&nbsp;LeiaJá",
       "sources": [
         {
           "name": "G1",
@@ -201,23 +249,11 @@
       "id": "0c3ac293a13f",
       "title": "Pensilvânia confirma quarta morte por sarampo nos Estados Unidos em meio à epidemia - O GLOBO",
       "published": "2026-09-16T00:27:39+00:00",
-      "summary": "Pensilvânia confirma quarta morte por sarampo nos Estados Unidos em meio à epidemia&nbsp;&nbsp;O GLOBOPensilvânia confirma quarta morte por sarampo nos EUA&nbsp;&nbsp;folha.uol.com.brSenador republicano culpa política de vacinas de Trump por mortes por sarampo nos EUA | Mundo&nbsp;&nbsp;Valor EconômicoConfiança nas vacinas contra sarampo cai nos EUA, mostra pesquisa Reuters Ipsos&nbsp;&nbsp;Terra3ª morte ligada ao sarampo é registrada na Pensilvânia; surto nos EUA pode se espalhar?&nbsp;&nbsp;VE",
+      "summary": "Pensilvânia confirma quarta morte por sarampo nos Estados Unidos em meio à epidemia&nbsp;&nbsp;O GLOBOPensilvânia confirma quarta morte por sarampo nos EUA&nbsp;&nbsp;Folha de S.PauloSenador republicano culpa política de vacinas de Trump por mortes por sarampo nos EUA | Mundo&nbsp;&nbsp;Valor EconômicoConfiança nas vacinas contra sarampo cai nos EUA, mostra pesquisa Reuters Ipsos&nbsp;&nbsp;Terra3ª morte ligada ao sarampo é registrada na Pensilvânia; surto nos EUA pode se espalhar?&nbsp;&nbsp;VE",
       "sources": [
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeHk3bHVLMzBoeGl2cDNSNDNaTzdTQ0JRUXJnZERjU0tFc0RYeVVqTnMxOHpGem90MkJtdmc0dGVsd2FSUE5jYXFUVktYU0p6MzBGZ2lDcWZscy1VdFZJRnRra3BTaE5HamZnTnZYeFV2SmtyUE5Hb04zUjRPdWR6S2ZWRWZtLUU3NGtpNlZvZnI2V1l5SEEtM25KQlFXTWhDbm9XeEhmNUhiNm5rcFp1TFRLUVdmWk0zTU05MmZKdjdPUkl6T0FiT2lUa0N6eXpJSnZzY2l30gHkAUFVX3lxTFAzdGRoMjRzOFhvWnQzWjllN04yTmhlVnZBcmJRNk9SOENyVFkydkM2MWNvYlpzcUdSRUgzeVN3VF9jMjAxVV96c1E0TjlDZFBBYlFvelJIdTdNbkdiam1yRTFTdDZHeGNra1VfWjk1TGR1S3FHbjFZVTV5Z3EtTnVxSlFCTkN0MDRoWGZqWGVuQ3p6R21IeWk5TFQzbDJiblpWcVh3WWRsejR5RUdQVlV2SmVQSDhuSW5EaTB6S0doU1JhNEFNdTgxTFIxVXhHaVJPSWNaTE1MWktlcENqMkEwZ3VNcA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "35eded87d841",
-      "title": "SpaceX fará primeira tentativa de colocar Starship em órbita da Terra - Olhar Digital",
-      "published": "2026-09-15T23:49:00+00:00",
-      "summary": "SpaceX fará primeira tentativa de colocar Starship em órbita da Terra&nbsp;&nbsp;Olhar Digital",
-      "sources": [
-        {
-          "name": "Olhar Digital",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdTh1VjRNUFVRWHJ0M1RIeV9WRlNKNmhGWWtJaGh1OXFmTTJlNC1pbXhLaVhlV043bnNiYnI1RElOUGlEdVdLZWZ2SWtMUzR5MzVWcVRrMXVuZDRXT01nMUd2cHhuZ1liTnJxNTliSTBHVWxNd0RtNGdISlZic296bGFJZVhPZmZid3ExekNzUXdaeTZWbXdQYnBIQzMyOEl3ZWtFNFpLcElBQUdOUTJIQU45RVNpR3AtNUxYaGsxNUpWNkE4?oc=5"
         }
       ]
     },
@@ -246,18 +282,6 @@
       ]
     },
     {
-      "id": "47e294e56129",
-      "title": "Foguete brasileiro com 'laboratório espacial' recuperável é lançado no Rio Grande do Norte; sistema conta com paraquedas para retorno - CNN Brasil",
-      "published": "2026-09-15T22:11:35+00:00",
-      "summary": "Foguete brasileiro com 'laboratório espacial' recuperável é lançado no Rio Grande do Norte; sistema conta com paraquedas para retorno&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOd0ZZVkRBUmJSaWEzaEFXX2FSVTVDY2thSmhpT2FCYktCVDZJeFRGZmhjd1piSWNhSVhXZkJsZ2NnY3ZGbXRDMFNFWGVBSHlNX1VsMjU3TFlUVm05RlBRdUF2b2R4V0R6LWtzRHczRHRuUkZrTF9QX1lzNV95akpPc2kzSDBHQXhLVWo0VU04WGpsalhkRGpwUTBDel9Vc0tyTXViLV9LSUlWOHBzNG41cHNOT3hhcl9DdUY2N2FpV3B6b2hfRzNHa2FvcVBkcjdleVc1VElQcGlHM2VjeXM4d09pVWdvaS1Tams4eVg1VmZYTnp1dkZabnVvS2M?oc=5"
-        }
-      ]
-    },
-    {
       "id": "fcde72e8f87e",
       "title": "Câncer na família exige fazer mais exames? Saiba quando é indicado - UOL",
       "published": "2026-09-15T18:53:37+00:00",
@@ -270,13 +294,13 @@
       ]
     },
     {
-      "id": "1f6b8e100ad2",
-      "title": "Canibalismo celestial poderia explicar Vênus não ter lua, mostra estudo - folha.uol.com.br",
+      "id": "cee6e2a36d33",
+      "title": "Canibalismo celestial poderia explicar Vênus não ter lua, mostra estudo - Folha de S.Paulo",
       "published": "2026-09-15T18:05:00+00:00",
-      "summary": "Canibalismo celestial poderia explicar Vênus não ter lua, mostra estudo&nbsp;&nbsp;folha.uol.com.br",
+      "summary": "Canibalismo celestial poderia explicar Vênus não ter lua, mostra estudo&nbsp;&nbsp;Folha de S.Paulo",
       "sources": [
         {
-          "name": "folha.uol.com.br",
+          "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMnlZR2d4d0xKZFJSNi1wcF9falBzaUo3QzJWSUFnWlRhSnI1Z29zSXhjWFRfdEVHd0Q4X2Zoc242SENwNXltel9OejRVUEd5VFZtY3FyUTJ4QTltdjZVUkxVT3dLUDFxU1dXTDlKYzRDSFpuQzNoMXdrV3c1MkJoUHcyTmp6TnJkYk5TaFk5eVBGVEdzQU41eGg1bFE0SnkwTkpQc3BLaVlrMzgtblB4TlVQdldndkZPWUQyY0l5WQ?oc=5"
         }
       ]
@@ -285,7 +309,7 @@
       "id": "a8b900f881c5",
       "title": "Psiquiatria não é só cérebro: como a saúde física interfere no tratamento de transtornos mentais - Portal Drauzio Varella",
       "published": "2026-09-15T18:02:05+00:00",
-      "summary": "Psiquiatria não é só cérebro: como a saúde física interfere no tratamento de transtornos mentais&nbsp;&nbsp;Portal Drauzio VarellaAgência de Comunicação - Setembro Amarelo: praticar esportes também é uma forma de cuidar da saúde mental&nbsp;&nbsp;Estadão Blue StudioVÍDEO: Psicóloga cita hábitos diários e explica como pensamentos podem impactar na saúde mental&nbsp;&nbsp;diariodosertao.com.brESF Tancredo promove ação interativa sobre cuidados com a saúde mental&nbsp;&nbsp;saovicente.sp.gov.brSete",
+      "summary": "Psiquiatria não é só cérebro: como a saúde física interfere no tratamento de transtornos mentais&nbsp;&nbsp;Portal Drauzio VarellaSetembro Amarelo: Exercício Físico Ajuda na Saúde Mental, Apontam Estudos&nbsp;&nbsp;TerraAgência de Comunicação - Setembro Amarelo: praticar esportes também é uma forma de cuidar da saúde mental&nbsp;&nbsp;Estadão Blue StudioVÍDEO: Psicóloga cita hábitos diários e explica como pensamentos podem impactar na saúde mental&nbsp;&nbsp;Diário do SertãoESF Tancredo promove ",
       "sources": [
         {
           "name": "Portal Drauzio Varella",
@@ -294,38 +318,26 @@
       ]
     },
     {
-      "id": "2174d8e84a28",
-      "title": "Descoberta nova espécie de cobra gigante letal: cientistas descobrem nova espécie de sucuri-verde gigante na Amazônia - Terra",
-      "published": "2026-09-15T16:42:00+00:00",
-      "summary": "Descoberta nova espécie de cobra gigante letal: cientistas descobrem nova espécie de sucuri-verde gigante na Amazônia&nbsp;&nbsp;Terra",
-      "sources": [
-        {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOSk9aMXJ6NURDek5sTzMxTUNOUkgtMzVMNlNYOXl2VGtqb2VSZnR3Tk5pQzI3Z1FCNzVUSFVxMmdyOThsczFibkdyZUNRTlpBb0tKT2c1dklkc1cwbk1kUnpiZ0ZUV3h3aDVDMUY5REtpRndPdGh3b3RNZm4zUEtVa1czeGVhbWp0U2VUTklkYUVWV0J2aUVfc0J0eWVWRWp1NjFJeDN4S3hlRnJmRExTNUZldzB3YTJYQjFYNkJEajZib2lfOHJKV0U3MmhPa0JBS0gyRDhPcE9TMWY3bDN4Sl91NG55dmdDbDZESmRMckNTLUpHVmRmNWMwVzBGdWNlM04ydFBTV3RVV3pOc09iX0p6M3luR2tGVkNwMHhkZUh2MXhmMzZJ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f73225f8a656",
-      "title": "São Paulo chega a 36 casos de sarampo em 2026; 26 não tinham vacinação completa - folha.uol.com.br",
-      "published": "2026-09-15T15:34:00+00:00",
-      "summary": "São Paulo chega a 36 casos de sarampo em 2026; 26 não tinham vacinação completa&nbsp;&nbsp;folha.uol.com.brSão Paulo tem 4 novos casos de sarampo confirmados&nbsp;&nbsp;G1Boletim.leg - Edição das 22h&nbsp;&nbsp;SenadoMortes por sarampo nos EUA acendem alerta com alta de casos no Brasil&nbsp;&nbsp;MetrópolesSão Paulo registra quatro novos casos de sarampo; total em 36&nbsp;&nbsp;Correio do Povo",
-      "sources": [
-        {
-          "name": "folha.uol.com.br",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYmF3Y1lBN0RtYURxMFJ5UHN3SVNoZUQxZllsUmdrSWYtbnB2cjFYVVRpZmV5dUoxY1UyUjF0dmdfUk1XbW1Kd1pxNTZaS1FhZmdyV01ZbTZzdWZ5bkpqMVlzTU5Ram1GTmdpOGNOWjk5dHJrUlNwNm1LZkZETFRUZEM0Z0dRdG5VY2tlYTB5OUxVTjdVQk9HMFdJUEpXMVRpZFBiNjVHX19HV2xVLTlRN1pPR3R1TGF4b0ZuU3VQak9yMnlHMXdvMWpZM3c0RlBCcFQ2RlJR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bd470cd56ab3",
-      "title": "Quanto da sua personalidade está escrito no DNA? Grande estudo traz pistas - Estadão",
-      "published": "2026-09-15T15:00:00+00:00",
-      "summary": "Quanto da sua personalidade está escrito no DNA? Grande estudo traz pistas&nbsp;&nbsp;Estadão",
+      "id": "ff4a158fb232",
+      "title": "IA tem potencial de ‘matar todos’ os humanos, diz ex-pesquisador do Google - Estadão",
+      "published": "2026-09-15T17:00:00+00:00",
+      "summary": "IA tem potencial de ‘matar todos’ os humanos, diz ex-pesquisador do Google&nbsp;&nbsp;Estadão",
       "sources": [
         {
           "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaC1lMVpyYlR5eVlXajl6X2R3X3ZEWV9BTGEyZEtZSWdUUzBBRjBCVXBFN2I2cGJXNkZ5UDAtWEltYVNScTNtSXVTc0FFV25JU19XUTQ2UlN0N04tazhpX0lPRTB2aHZCY2ZtME1IYkp1TmlJaU9mMUltT2xtbE90RGZ6VGFDODFvT2lvWW9FeS1aMTFGRW9iQkg2S1FlQjhHZG9rX3VBc3dRb2g0OGfSAbMBQVVfeXFMTzNVU0VjdlBXOUtCa1I4NjJjUWpzMFVva2dJTWJhdDYybGpNRHBQUE5UQUh1WTdXMHZpOTN3NTViQ0ZLRV9JaFJZeUNYYzFaY05PSTdWWks0b0FVdWZ6X2hKS2ZQNmVyWUVJS0ZzN2c5Ry1kVU9pNWs3bHBrdVJBMUJFYjZfYldiaWtWNlZNNDRDazJ0UlVsQ0RYT3VSY1VId1pEdjBfWUxTZmRjMVBqTjgwaEU?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSEltaGNlbWFMME52Q3djc2N2aWY1WGlPVlZNWm1GdE5PV3gydDdKN1RDbjk5TTRKekZIdW5TQ0RKMU1FNmpHV1ByelhmWURjWGJwSzZFZm5iMVJ6RGJScTF2TEVYeEY3VFhrRzE4QVJOR3o0aHkzZUlveEM2UENKN3ZObXZQN3d1eTdQTV9fSDRZWVpMLXozRy10TkRraV9TNUJKbnBHMExGZFY5TUR4SUR4UzZPUjhLX3JKNzlTVTVTaDY4MERKcmNjd2fSAdIBQVVfeXFMUGRTM1VzN1pFaGZiaHRIaHNQYzJ3NEdjS2hGNnBTNHlsSTBxWWZKWml5c3p6YzFzeVNtOUotYlNJd1hTNWN3cjk0QXU5dGxHQmNSMm1CVnBjLU96QURRelFnVjNPbjhubHBaX3RpV2UxYUtoclZ3ajdVTjAwSDZGMG5qVUtpbThsNlhTeGRRYlBSNWpCa3NSN1k3bW9iMms2WWNrZ1lhSGRfT19xWWpjQkhkaG9lMDdHN1MxT3lfZjYyOGg4ZUlnNThUQ1dHQU1WNjJ3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a52aff49096f",
+      "title": "São Paulo chega a 36 casos de sarampo em 2026; 26 não tinham vacinação completa - Folha de S.Paulo",
+      "published": "2026-09-15T15:34:00+00:00",
+      "summary": "São Paulo chega a 36 casos de sarampo em 2026; 26 não tinham vacinação completa&nbsp;&nbsp;Folha de S.PauloBoletim.leg - Edição das 22h&nbsp;&nbsp;senado.leg.brMais dois bebês com esquema vacinal incompleto são diagnosticados com sarampo em SP&nbsp;&nbsp;EstadãoSão Paulo tem 4 novos casos de sarampo confirmados&nbsp;&nbsp;G1Mortes por sarampo nos EUA acendem alerta com alta de casos no Brasil&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYmF3Y1lBN0RtYURxMFJ5UHN3SVNoZUQxZllsUmdrSWYtbnB2cjFYVVRpZmV5dUoxY1UyUjF0dmdfUk1XbW1Kd1pxNTZaS1FhZmdyV01ZbTZzdWZ5bkpqMVlzTU5Ram1GTmdpOGNOWjk5dHJrUlNwNm1LZkZETFRUZEM0Z0dRdG5VY2tlYTB5OUxVTjdVQk9HMFdJUEpXMVRpZFBiNjVHX19HV2xVLTlRN1pPR3R1TGF4b0ZuU3VQak9yMnlHMXdvMWpZM3c0RlBCcFQ2RlJR?oc=5"
         }
       ]
     },
@@ -333,35 +345,11 @@
       "id": "2acd6d0a3cf2",
       "title": "SOP agora é SOMP: riscos além da fertilidade e diabetes - Campo Grande News",
       "published": "2026-09-15T13:22:00+00:00",
-      "summary": "SOP agora é SOMP: riscos além da fertilidade e diabetes&nbsp;&nbsp;Campo Grande NewsSíndrome dos ovários policísticos ganha novo nome e reforça alerta para risco de diabetes&nbsp;&nbsp;jd1noticias.comComecei a sentir dor pélvica aos 8 anos e perdi um ovário por diagnóstico tardio, diz jovem com Somp&nbsp;&nbsp;folha.uol.com.br",
+      "summary": "SOP agora é SOMP: riscos além da fertilidade e diabetes&nbsp;&nbsp;Campo Grande NewsSíndrome dos ovários policísticos ganha novo nome e reforça alerta para risco de diabetes&nbsp;&nbsp;jd1noticias.comComecei a sentir dor pélvica aos 8 anos e perdi um ovário por diagnóstico tardio, diz jovem com Somp&nbsp;&nbsp;Folha de S.Paulo",
       "sources": [
         {
           "name": "Campo Grande News",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcGdLYlpxRDRMdzZGcElIZHRsQlc5dkhoeWJxaG1PRXAzOXhTYUxwYzJpRTRSMnY1ZXVrQmE3ZmxJbWh4THFoMC1wTmVjQnNoNm9WeTdNVFVIck8yYWNOa1BsWUJMZkNGaTl6bzB5endOV3Z5Ul9UeU9QcDhNajI2eTZNMzdSZE4ybm5NSUFETk9UQ1I4NGp1MTkydGZQN19qN3hpcmRXSzVlSmJxZ1lsdmgwLUpySzZWYmFKcUtrMHpBRkdI0gHEAUFVX3lxTE10TFMyMmhEZjR0WmR2dS1qOEJLaWZxU19ua0kzdGZTZkhkRUhMakFfX2FxUGpNMjV4WWpFc24xdkZsVzFIUGdnOXlYQWFpTlRzMWVNbTVfcXo4WDVBQ016emRiRXJIcWZqX0RVQ0VQR2dIanR0Rk9ZdURKNm84akFvbHZfRFIyQUdkS0hqN3FDekhKbmNydEs0cDh3ck9KUTM0dndvSHdiSWFVQW92VjJxbW90VDNXU0NjbG5jTVR1N0c1U1g?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0efe6a9eddf3",
-      "title": "Por que há o temor sobre IA acabar com a humanidade — e existe mesmo o risco? - BBC",
-      "published": "2026-09-15T11:31:01+00:00",
-      "summary": "Por que há o temor sobre IA acabar com a humanidade — e existe mesmo o risco?&nbsp;&nbsp;BBC",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBScGdjZ0lXc3FSc3FzZnVNNUNHU1NsMW9PMVNqMkVENEk4RGdOb2RtMUNrSU1fMlVzRHJNUDQwd3RYVDFBUVVYMXJzcWZRNmstNGxSQ1U0SGkxeHBCa2RUak1DVdIBaEFVX3lxTFB2cnhOdzd5N0FRUjRmMXNINHNVa3NqNkZyTk12SV9rZjFlQTdTM001RVdNdzJLQmJELVZmVUdtWFZGeGJtcjFyOVFGb29Ra2JGbV9KaHVud0lNQmM0eUJjWGRIMERBVG96?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "34dc51360b85",
-      "title": "Venda de ‘canetas emagrecedoras’ cresce 41% no Ceará e responde por até 8,6% do faturamento de redes - Diário do Nordeste",
-      "published": "2026-09-15T09:00:00+00:00",
-      "summary": "Venda de ‘canetas emagrecedoras’ cresce 41% no Ceará e responde por até 8,6% do faturamento de redes&nbsp;&nbsp;Diário do NordesteDos alimentos à beleza: os efeitos das canetas emagrecedoras&nbsp;&nbsp;Meio e MensagemCanetas emagrecedoras impactam tratamento de obesidade&nbsp;&nbsp;Correio BrazilienseCanetas antiobesidade: entenda diferenças de moléculas, categorias e regras&nbsp;&nbsp;UOLCuidados com as chamadas “canetas emagrecedoras”&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "Diário do Nordeste",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSnlpV0s2ZDJHMm9qT3FkOEdXZ0tid3pEYXR2a2ZTdzExeHhsMVBvLVUzRVFWZ0tTTHpsNWxjMjBiZVplX2pCeDlUV09DY0tNQUhfT2tQOG1sUGlQMDB6azhKNFo0djdKQlBEQnM2VXRFR0JGTkhndEFFV2htMjVOUi1iaTVFT3N1MjBmX3ZRdXhJQzd6NTdIZ2Y0X2lmNlAzU1lzUTRaRGUtWExuTEhWb3BxenVZSkdWT3EzQXVQLUxlT1F2M1A3ejFUSEtrSWVNaUF1SHNGSHNicmd3TXBLdHFHZHdUaV9vNFNFUXJvSQ?oc=5"
         }
       ]
     },
@@ -378,50 +366,14 @@
       ]
     },
     {
-      "id": "65d4f2a594f5",
-      "title": "Até que ponto as tatuagens são seguras? Pesquisas investigam como elas interagem com o organismo - folha.uol.com.br",
-      "published": "2026-09-15T02:00:00+00:00",
-      "summary": "Até que ponto as tatuagens são seguras? Pesquisas investigam como elas interagem com o organismo&nbsp;&nbsp;folha.uol.com.br",
-      "sources": [
-        {
-          "name": "folha.uol.com.br",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbXIxQzVxb0J1ejdMRWw0U2lXNzl1TVVKNkMxRFV5eE5TbjFudS1xdUViMnpBc3FvWXJ1VFVhbUdUMFV2Sk85S3UyZW1URS1URW1PWVZGRFJ6WHJZVmU1RWJrYlp6RHVOZHZvZU9Vc2VLVE0wV3FKb0xra09EbUJHZmh1a3B5b0ZUamxVTFhyUWUteFZCZ0poWU14MFBxOWV3MzQwekZKV2RxM1JXZzUyS3ZfY1lORExHaU9VUFg3QVc4TGt1eEJnZUlrbGt0ejh4d2RGWmtUQzR6QU81YnFGOHpaWEQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ae7b2069e9b6",
-      "title": "Feira de ciências termina com 20 pessoas no hospital após compartilhamento de agulha no RJ - Rádio Itatiaia",
-      "published": "2026-09-14T21:48:46+00:00",
-      "summary": "Feira de ciências termina com 20 pessoas no hospital após compartilhamento de agulha no RJ&nbsp;&nbsp;Rádio Itatiaia",
-      "sources": [
-        {
-          "name": "Rádio Itatiaia",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcERfVkU5Ulc2WHlHUnJQYURFdDFnYXVqQmxQUUZDWjFmQlR6SlVlRUJtNTRaR2ZCdmhtQUVlSXB5V3FIR0NkcjFod3o3eHFJZ0ZlOUlDWVhfV2FzTk9ib1c4akFiUklQUHgxOTFoeVF3UXBRRGphNlllZlRlb1d1S3l6M0hBUHVZOExnSnNYbVNYSDFiNDc5aUcwMVRSdGE2NEhyMWlYOGNrWm9MVjRiLWxyemNydEE1bDY0QXJrcGluazFWTzdKekh5ckFOWnowRUdB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f74435fda949",
       "title": "Teve pedra nos rins? Veja por que risco de passar por isso de novo é alto - UOL",
       "published": "2026-09-14T15:00:00+00:00",
-      "summary": "Teve pedra nos rins? Veja por que risco de passar por isso de novo é alto&nbsp;&nbsp;UOLInchaço nas pernas, urina espumosa e cansaço persistente estão entre os sinais mais associados a problemas nos rins&nbsp;&nbsp;Tua SaúdePedra nos rins voltou? O motivo pode estar em hábitos e alterações metabólicas que favorecem novas crises&nbsp;&nbsp;O POVOPedra nos rins pode atingir até 15% da população e dor é frequentemente confundida com problema de coluna&nbsp;&nbsp;intertvweb.com.brPedra nos rins pode",
+      "summary": "Teve pedra nos rins? Veja por que risco de passar por isso de novo é alto&nbsp;&nbsp;UOLInchaço nas pernas, urina espumosa e cansaço persistente estão entre os sinais mais associados a problemas nos rins&nbsp;&nbsp;Tua SaúdePedra nos rins voltou? O motivo pode estar em hábitos e alterações metabólicas que favorecem novas crises&nbsp;&nbsp;O POVOPedra nos rins pode voltar em até metade dos casos em cinco anos&nbsp;&nbsp;Diário do Centro do MundoPedra nos rins ou dor lombar? Saiba diferenciar&nbsp",
       "sources": [
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOenZEWnZuQU1LUy0wcmNsS1k2R0pqSW5IMHZKSTVlaGpfd01rQTZDR2hrdzBRb0ZfcmM3RE1hOGp4NlZQNG10ZExkNzNVNVdxMlF5cTVKWDZNRXJERnBwSXpwR2ZPT2VYV1F0ay1adjdXY3RSeDFldkRRM2I3TmlzZWlPUW9BSXFwTUh5ekhnN3F1TVFvQ2xkVm5iTG1EaW9TWnF0VFg1VUZDWEI5SDBzWnl6Q2NmejRQZ2ZJcmtScklOMlRoWTBoNlh3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "28ccb3c83fd8",
-      "title": "Casos de câncer de pâncreas crescem entre jovens, aponta estudo - Terra",
-      "published": "2026-09-14T11:15:00+00:00",
-      "summary": "Casos de câncer de pâncreas crescem entre jovens, aponta estudo&nbsp;&nbsp;TerraCâncer de pâncreas pode começar sem sintomas; veja sete sinais de alerta e os novos tratamentos&nbsp;&nbsp;Jornal CorreioCâncer de pâncreas ganha novas opções de tratamento com avanços na tecnologia&nbsp;&nbsp;HojePRCâncer de pâncreas: sintomas discretos dificultam diagnóstico precoce; entenda fatores de risco e avanços no…&nbsp;&nbsp;brandnews.com.br",
-      "sources": [
-        {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRTJzV2c1Z3pZSkdsZVFFMlVTdzhhUE9sZGhEbTFfRURDd3VRUlZiYm9KZ0VaZnJSN0duM1JOQnZXQklRdWxHU000RTJlWFJMbGw2amZiWVlUc2hBNzJCLWU4LThsNmhpcTJYUG5FNkw5OERmU2hIZ1ZPSzVVaUZ6TU9fcjJNRmc2Y0lLTUNyM0hMMF9OYUk4VTBlQ3MzcWZ0RHZyRmI1SlItamE4VHE5dklvRUo5aGkwWVZwM2tyYUI3UFUtVFFONnFNUTd1TG4tS2lNVEJxUE1oWkp4ZHpLSw?oc=5"
         }
       ]
     },
@@ -438,22 +390,10 @@
       ]
     },
     {
-      "id": "449335f6ceb4",
-      "title": "Síndrome de Hashimoto não tem cura; Dr. Kalil e especialistas explicam - CNN Brasil",
-      "published": "2026-09-14T09:00:57+00:00",
-      "summary": "Síndrome de Hashimoto não tem cura; Dr. Kalil e especialistas explicam&nbsp;&nbsp;CNN BrasilCâncer de tireoide: Não subestime o bócio quando você é jovem.&nbsp;&nbsp;Vietnam.vnSetembro é o Mês da Sensibilização para o Cancro da Tiroide&nbsp;&nbsp;Associação das Doenças da TiroideCâncer de tireoide deve atingir mais de 16 mil brasileiros em 2026&nbsp;&nbsp;Bem ParanáCâncer de tireoide não é só um: entenda as diferenças entre os tipos diferenciado e medular&nbsp;&nbsp;jornaltribuna.com.br",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPN3hkUDJaQm9QQTV6dzZqcC02RmF0bnpHTjFBaUhmajhMN3gwVzV5ZlNTZkZQVmJxSzQwV3NRR08yMVVqcDVPazVtMzFNUU9CeFVFOTFPazk5LVRWVnF5QzlyekRPTFREcF91ME94QzRnTmxGQzZxRGVNcklFbkgxVjlxOTZ0OVZwOTc3c0NqZGVlWGlJNVJlamIyWjRhbFJ3NV9XY2hwQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5fa708e36ca4",
       "title": "Precisamos mesmo dar 10 mil passos por dia? - O GLOBO",
       "published": "2026-09-14T07:30:00+00:00",
-      "summary": "Precisamos mesmo dar 10 mil passos por dia?&nbsp;&nbsp;O GLOBOOMS alerta sobre problema de coração: hábito diário pode prevenir problemas cardiovasculares e ajudar na condição física&nbsp;&nbsp;Olhar DigitalPressão está alta e você anda pouco? Caminhar com regularidade pode ajudar no controle&nbsp;&nbsp;Tua Saúde30 minutos de caminhada por dia podem melhorar saúde física e mental&nbsp;&nbsp;Jornal O candeeiroPersonal trainer explica por que 20 minutos de caminhada já fazem diferença para a saúde",
+      "summary": "Precisamos mesmo dar 10 mil passos por dia?&nbsp;&nbsp;O GLOBOOMS alerta sobre problema de coração: hábito diário pode prevenir problemas cardiovasculares e ajudar na condição física&nbsp;&nbsp;Olhar DigitalPressão está alta e você anda pouco? Caminhar com regularidade pode ajudar no controle&nbsp;&nbsp;Tua Saúde30 minutos de caminhada por dia podem melhorar saúde física e mental&nbsp;&nbsp;Jornal O candeeiro10 mil passos por dia ou menos? Ciência explica qual é a quantidade ideal para se movime",
       "sources": [
         {
           "name": "O GLOBO",
@@ -462,26 +402,26 @@
       ]
     },
     {
-      "id": "1c6197ead3ab",
-      "title": "Anvisa aprova 14 novas canetas para diabetes e obesidade em 2026; veja quais são e seus preços - folha.uol.com.br",
+      "id": "211756f844b4",
+      "title": "Anvisa aprova 14 novas canetas para diabetes e obesidade em 2026; veja quais são e seus preços - Folha de S.Paulo",
       "published": "2026-09-14T07:00:00+00:00",
-      "summary": "Anvisa aprova 14 novas canetas para diabetes e obesidade em 2026; veja quais são e seus preços&nbsp;&nbsp;folha.uol.com.brBrasil tem 14 novas opções de canetas para diabetes e obesidade&nbsp;&nbsp;MetrópolesConheça as canetas nacionais de semaglutida aprovadas pela Anvisa e seus respectivos preços&nbsp;&nbsp;VEJAAnvisa amplia mercado de análogos de GLP-1 e aprova primeiros genéricos de liraglutida no Brasil&nbsp;&nbsp;Época NegóciosAnvisa aprova 14 remédios para diabetes e obesidade e eleva conc",
+      "summary": "Anvisa aprova 14 novas canetas para diabetes e obesidade em 2026; veja quais são e seus preços&nbsp;&nbsp;Folha de S.PauloBrasil tem 14 novas opções de canetas para diabetes e obesidade&nbsp;&nbsp;MetrópolesConheça as canetas nacionais de semaglutida aprovadas pela Anvisa e seus respectivos preços&nbsp;&nbsp;VEJAAnvisa amplia mercado de análogos de GLP-1 e aprova primeiros genéricos de liraglutida no Brasil&nbsp;&nbsp;Época NegóciosAnvisa aprova 14 remédios para diabetes e obesidade e eleva conc",
       "sources": [
         {
-          "name": "folha.uol.com.br",
+          "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRk5BbnhzR0swYTJ1bENFRGtqY1lKU3A2Tk9keG12ZWFtT01yejBRbUJ5amVEQjRQTHRCc19qdTVPOWRBUDZYNm9NSjJfMEQ4SU5GSkRWZG9Eak1aZUo3S1pYQU56VTNmOEtwWVcyRkVrSzJDcjh6d0FZOC0xQUJMazNVVWdSTG9SYkxjUjJTOHVOZVJmLXR3cFhvSEJIYjExZWlldnpkWWJjOWgxeDJUTTRWU25SLVo1d1A1engyamVWeHAxSkJPcWE3U2VpN3QyN1dMR2NkTzRxQTh0ejJXR2xXaUs2dTN1anc?oc=5"
         }
       ]
     },
     {
-      "id": "c9c9f6acc4dc",
-      "title": "AVC: 'O que aprendi ao ter um derrame cerebral aos 26 anos' - BBC",
-      "published": "2026-09-13T10:19:31+00:00",
-      "summary": "AVC: 'O que aprendi ao ter um derrame cerebral aos 26 anos'&nbsp;&nbsp;BBCVeja mais manchetes e perspectivas no Google Notícias",
+      "id": "604f85c89be8",
+      "title": "Escola diz que alunos que passaram por exame em feira cultural devem procurar hospital - O GLOBO",
+      "published": "2026-09-13T07:00:00+00:00",
+      "summary": "Escola diz que alunos que passaram por exame em feira cultural devem procurar hospital&nbsp;&nbsp;O GLOBO",
       "sources": [
         {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE56T3RDQ0RtVXVsSXktVTFEWHVKWlI3V3RUeUhPTE0xQnFSODRnNXE2M1FXSG5GVVBaazFaa2JKeFVDWmtJWjE2WnJlSHZOQmUyUDNHZ0Z4c2Y3SWFaRnJBWERB0gFnQVVfeXFMT1pfSGZEZXJ3V0lLZThXY2VoN01fbGZUbzNOVHZmenBxaUVpSTJHaTA0bHBUV1dEcGFSa3l1Tk1HOWppamdfQ0ZtSTRPM1BvUkdldE1xLTdNUXN6U1BmVVA4RXpVRFpGSQ?oc=5"
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRHJzY3hlRW5IOWZRSUdQRGlIcTM5SFJvYWFLV001UHdkbDMzUHdBcEVNR0ZCanZXUlhJcF94Mmt3Vk5QWTJ3TFpGWm9IVFpQV1hfcEFLNlAzeWY1QTlxS2d2WFpqRFJtTVl4LVJRT19YZmdXMjk4LUFZWHlER3AwcTI1MkhZOGk5aVdjTjdOOUpmc2kzbmRoRjVQOWZvd3V6a3pubC1lSTZ5UjB6TDZpbk0yLUd5dXBSYmlTcWRIREJIbDZkcmxsbFFUbU1UYmZuMmdPRWJlNNIB5gFBVV95cUxPZGVNS3NYZFRxRnp3YnFMOTNWdFNNSE9hVHVJeDAwMlNzbHB0aUx1aGVWeGF3VkdKa05NTW9xS2lHR3d1d1Myc2tUc2VmVTVmbXpYV2YwblpVb1pZXzNmenJxb0hXWjMyVmxidmZsTW1VYlpxaGZBa2QtQ2hvMkE1TEtodUp1R2NwdWQ1TE9WYUVDWGs5RjVhVHVRazR3VXk2a3diY1hGU2RsT3RaSHJfLXhYTnZKQXUxOVZMY19yTU5LMTBhVE95ZUxWTENPMGNxQjc5WXRBZWU4MHFJaU5BaGt6a1pNUQ?oc=5"
         }
       ]
     }
