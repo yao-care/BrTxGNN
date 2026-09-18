@@ -1,75 +1,39 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-09-17T21:02:50.606725+00:00",
-  "total_fetched": 102,
-  "unique_count": 102,
-  "health_related_count": 41,
+  "fetched_at": "2026-09-18T03:44:01.141467+00:00",
+  "total_fetched": 101,
+  "unique_count": 101,
+  "health_related_count": 33,
   "news": [
     {
-      "id": "b5d697f142cc",
-      "title": "Novo exame de sangue detecta câncer de pâncreas em estágio inicial em 87% dos casos - InfoMoney",
-      "published": "2026-09-17T17:40:19+00:00",
-      "summary": "Novo exame de sangue detecta câncer de pâncreas em estágio inicial em 87% dos casos&nbsp;&nbsp;InfoMoneyExame de sangue detecta câncer de pâncreas inicial em 87% dos casos&nbsp;&nbsp;UOLCâncer de pâncreas pode começar sem sintomas; veja sete sinais de alerta e os novos tratamentos&nbsp;&nbsp;Jornal CorreioCasos de câncer de pâncreas crescem entre jovens, aponta estudo&nbsp;&nbsp;TerraNovo exame de sangue detecta câncer de pâncreas em estágio inicial em 87% dos casos, diz estudo da Nature&nbsp;&n",
+      "id": "6b67194a236b",
+      "title": "Val Marchiori quebra o silêncio sobre diagnóstico e levanta questão envolvendo vacina da Covid - Terra",
+      "published": "2026-09-17T23:04:00+00:00",
+      "summary": "Val Marchiori quebra o silêncio sobre diagnóstico e levanta questão envolvendo vacina da Covid&nbsp;&nbsp;Terra",
       "sources": [
         {
-          "name": "InfoMoney",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUDJ5Qng3YXpWallyTVJYR3NGbEtmUEVFZHlnZmRjckcySkY4MC1Ja0p4eGpVV2JleHJHQkxrbldrSVFJLXZlT0xrTFIxT0VNY1kzekoxYmlXQ3pPbjBwWi1zTW1Jdlp2N1M1cE8wZmJDOV9WTlJZZ21BM2xlbEFWamQ3anpLck4zNmZfMzFrTEM5em5nanVSTFZORWladENXcmJRcm9ocmVXR1k3d1NUX1Uxd21VSHdLQmfSAb8BQVVfeXFMUHpVWXlRRTZmSHZSR3NkejI0dUZvbGVCV28zaVRWX1Vxcm9NNzJnQUNkVDY3ZlhuTGZYZXZRZHNmUHpIVTMyU0tjV0Y3VFZCeml5TEZrMEdTeUhSamI5cERxdjZVX3djSU5seVM3YXRXZDYtQWYtVEFlYUF5TF9YZV95REhlYW5mVDZTNE9yWWYxTk1CRXQ4MTJjYUstVHJIXzFpZldDcEVLUG1pVkN4NnpPS0pKU0FHNl9nbmFUV3c?oc=5"
+          "name": "Terra",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNNEYwZlNPcGtCT0hOUFU2bFJLS3Z3Z0RXV3lZajhiVXd2N0o1cWNSVkxwMnlTYXdMQmZxUkFDeFBXQjdlRnNiUjZ6eTFBdkRfb0ZVTE55eV9zY2FiaXl5dDdDcjNaVDVfRWVSR3hiaHAzWXdhT2w1ZXRIVExBWG1ka1prelBtV1VDOEQ4RkdQQXAxTEF5MDNIdllWZW9QcXpJc3ZSTGxZTUVmT2hTNW9vZDh3d1RrUy1KZUtrMDFhb08tREhXMUh4RGk5MU41OVp2S0d3UVhOcXR6ZlJzX0NXbGxOZ2hLVF9reHNOTHdVX2dkWFVXekN6T2NERkQ5RjZYS2lPZlJIczdWbFll?oc=5"
         }
       ]
     },
     {
-      "id": "b24659d6dadb",
-      "title": "Peixes deste lago conseguem viver mais de 400 anos, descobre novo estudo - Globo",
-      "published": "2026-09-17T17:20:20+00:00",
-      "summary": "Peixes deste lago conseguem viver mais de 400 anos, descobre novo estudo&nbsp;&nbsp;Globo",
+      "id": "d4b9dd2272ec",
+      "title": "Adolescente de 12 anos morre de meningite em Quixeramobim; CE registra 22 óbitos em 2026 - Diário do Nordeste",
+      "published": "2026-09-17T18:24:24+00:00",
+      "summary": "Adolescente de 12 anos morre de meningite em Quixeramobim; CE registra 22 óbitos em 2026&nbsp;&nbsp;Diário do NordesteCeará registra 243 casos de meningite em 2026&nbsp;&nbsp;O POVOIrmão de jovem que morreu por meningite em Quixeramobim testa negativo para a doença&nbsp;&nbsp;Quixeramobim AgoraMeningite pneumocócica causa morte de menina de 12 anos em Quixeramobim&nbsp;&nbsp;avozdesantaquiteria.com.brJovem de 12 anos morre após agravamento do quadro de saúde em Quixeramobim&nbsp;&nbsp;sala de im",
       "sources": [
         {
-          "name": "Globo",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTHl6eENCX0x1NUFQZ1JySGdsN0tINGFCbzN4MTNPTXIza0FMV3hTNkVTemdZRjZSVXp0QloxN1NHbGlaLWpuc3FzMHExTHNqSC1aWTNvemI3UE5pbEY3M2RvX1RmS0VuQmlkTGFISklyYmtxUWpHV3dLRGFuTS1UY3VoeE5QT0gyYzEtempjSGsweEo3Sl9yRm5JZkVLSzB0UkJDZnB6a2dNalVpOWJmTnhjSDY5b3lDNmd1Uk1LS0FPakMwaHBSUVFNbEFGd9IB3AFBVV95cUxPMGU0VjdFRlhhLTBxRjhCX1MwbTBEVmVTZ0RKT0IyeVFVYVVGTWhaVEpocEZqT1ltbFRNbEY4Vjd3bUdaSHJEY0hOdElfMzhDcUFCNkRmT1JiczlhZUhTMnh1LVhkYnBSZGEyWFZ4S09WdzlpWlRJQXdiVGlOWWxuczJHUy1MTVJINVBOdThKXzlWOE9oVFQ5MmlMamNMd1V3LV9NWGdmb3VRQ21mUlZRR1NXY3JBOGN4d0E1TEFUNllWV1puSHc0SF90OEN5YVBEWjl1NEFtMmRVbFMy?oc=5"
+          "name": "Diário do Nordeste",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOeC1vc1lkdk1Ha0c1eGhnLXFkZGZRR3JCTUFqc1p4UUFpeHd2bE96cjk2cU94SGNxWmQ1SHBienJsWDF6ME42cEJPYkhZZk1tUGpuVnBwTzBGbmQyNE5palFkcmhYR09HQ09NdWJKeTQ5ZlRHdktod0t1TXBBYjJYZng1NnNZMHVEM1JMWWY3b2YwVFFWV2daYzgybTdhVURmYkdKd2ZfUDNvbGxUbHZXX1EycWhjVURSYmVsczZ1amMwT3ZfSFExUEJ1YnpER2dqcmhxWllxWWJFYkRKTVpWWg?oc=5"
         }
       ]
     },
     {
-      "id": "a019f7f69c66",
-      "title": "Onça em miniatura: Conheça o tilcayo, primeira espécie de felino descrita em mais de 100 anos que de pet nada tem - O GLOBO",
-      "published": "2026-09-17T15:00:00+00:00",
-      "summary": "Onça em miniatura: Conheça o tilcayo, primeira espécie de felino descrita em mais de 100 anos que de pet nada tem&nbsp;&nbsp;O GLOBO",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPV3k0R1llQnpmNTlmVnhzZmNISzRHcERiQ2ZMUzlIdFRIc3FhUnphbURCdVFRNXdPY2d4Y2tKNnY4aE5BNUh4dXdHdGVMVHdZU3d2b19lVnlvNlIxNVZiWU9LQURIbXh0d0swNlNPSHFpT0NKU3d0YmU2OVczS0xWV0JNZjFMQWVuWHdLRE56NTZranVEQ2FLdTJpTjlNWHU1UW81dzRTQ3NqTnJQUEFjVjUycE5fbWxQTV9RTUppSFA5bUQ3WW55SEJQZnJxdTlsd2RpYUxlVVZDVzhWYUs1dFVQczhhZldzT2R4MFdUbGZYQUU1LWNReV8zX05lNlFuQ1VmZjFUNTJQQUo4Y1llMNIBnwJBVV95cUxQYkNYZU56UnJ4eFhaMVJOM3RmeDdUak9NcVFTeXY3WWN2dXNDWkVXNmJ0Z2pOejRUZTRKdmZwUFBwYkpGRUxrWElidFNDWVRJekpTMmhjeXZlVlVvdEgtUnc0eW43T1BSNGVBcmxmSVR1ck94SDFCR1A3aWhDTHd6UnBMMk95NDZ2WlIzTnRBNThWUkkwYm41RjliWWNudGJyTHBmSGN4OXctaG5yU0x6S18zU2RtSU1PQzNJWF9JcjBEMzBGbG9nenVkUzZIWUw0UHJtbG9FN0lWQ3JHODZNUnNodzhHSmFnTk1jRVR4WjdMbloyclhJa3Rzc2hiQzNOLXRWZ292UzJ1dktBOFdKZkdRVWE4eS1vN1owMWFENA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9f0b0d1344d8",
-      "title": "Alzheimer não apaga tudo: o que a doença preserva no cérebro - campograndenews.com.br",
-      "published": "2026-09-17T14:44:00+00:00",
-      "summary": "Alzheimer não apaga tudo: o que a doença preserva no cérebro&nbsp;&nbsp;campograndenews.com.br",
-      "sources": [
-        {
-          "name": "campograndenews.com.br",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQemNnN2EyWXg1Ul9MXzk0SFgzSzY1WW1wb2VyMjNiR3FBUVNjWDNuM1FUUmpDaTg1SzdPcTBMUVdqLVNZYkktQVB0aVE3SWRoMlRaRjZia1luZXZzZ2ZoeV9fczRIWDVMRjVKWmwyQTJqUUdtd0lvTFBkeEd2UVF5XzBsTGlHc21rMk82UlBEbUVBajduRER6VTgxaU9xYmpkNlFaT21TckNDempqUThYTUVwZHc5bTQyUEQ2M9IBvAFBVV95cUxPM3NMbDcxRVlBN1R0WjRBYWxDMnU3WThQMTdaSkl4SWc1dHlfWC1zOVkteUxLMTFVY0FpVFVKNTljejBvZ3VqaHlfV1FmbjA3UmxlelhGQnlsMU9DTWFSLTN1U2s4TWUtNHR1QkF0ME8tT0l2T3Vkcnk3T0o0Y044N3loSlBoZ3dBWFVKbVBRYy1hTGNzV3c1R0RoQ0IzZGF4Q251MUQwamtjNzhUT3NaamZibzFxVFpMdi1CRw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "305349d4493a",
-      "title": "Dos primeiros humanos até você: quantas pessoas já passaram pela Terra? - Olhar Digital",
-      "published": "2026-09-17T14:42:00+00:00",
-      "summary": "Dos primeiros humanos até você: quantas pessoas já passaram pela Terra?&nbsp;&nbsp;Olhar Digital",
-      "sources": [
-        {
-          "name": "Olhar Digital",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQy0tLUNiOGRITndoc2ZadkVtNWZGTmc5ZWdJbGJrOHdMY1V2Y2VfYTViMnc5aUwzZDhFTmR4cTkzZ0t4SEdfMEl3c1QxTlkzVkpOZDU5a0hPbUZ1QUhsbEJmMnpZNEJVOXQydHZrbGNwV1BCSE1oUXZtR2c4TndTVWJXbXJFekFXYWhibTRuWFd6bzZmWGtIRFQyTW9UYlhHb1FsZmNOZkRJR2hyMGlERDNlbGlMWTdQN1V5TVVENVN3OXcy?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b9d93e0a349f",
-      "title": "HPV: dose é indicada a vítimas de violência sexual a partir de 2 anos - UOL Notícias",
-      "published": "2026-09-17T14:25:49+00:00",
-      "summary": "HPV: dose é indicada a vítimas de violência sexual a partir de 2 anos&nbsp;&nbsp;UOL NotíciasVacina HPV para crianças a partir de 2 anos vítimas de abuso&nbsp;&nbsp;campograndenews.com.brCrianças vítimas de violência sexual podem se vacinar contra HPV&nbsp;&nbsp;G1Vacinação gratuita contra HPV acontece em Aracaju nos dias 16 e 17&nbsp;&nbsp;infonet.com.brVacina contra o HPV será ofertada na rede de saúde de Manaus para crianças vítimas de violência sexual&nbsp;&nbsp;manaus.am.gov.br",
+      "id": "38161761a3a1",
+      "title": "HPV: vacina é indicada a vítimas de violência sexual a partir de 2 anos - UOL Notícias",
+      "published": "2026-09-17T18:24:04+00:00",
+      "summary": "HPV: vacina é indicada a vítimas de violência sexual a partir de 2 anos&nbsp;&nbsp;UOL NotíciasCrianças vítimas de violência sexual podem se vacinar contra HPV&nbsp;&nbsp;g1.globo.comVacina HPV para crianças a partir de 2 anos vítimas de abuso&nbsp;&nbsp;Campo Grande NewsVacinação gratuita contra HPV acontece em Aracaju nos dias 16 e 17&nbsp;&nbsp;InfonetVacina contra o HPV será ofertada na rede de saúde de Manaus para crianças vítimas de violência sexual&nbsp;&nbsp;Prefeitura de Manaus",
       "sources": [
         {
           "name": "UOL Notícias",
@@ -78,37 +42,157 @@
       ]
     },
     {
-      "id": "5ff6e491d6d6",
-      "title": "Estudante brasileira leva pesquisa sobre ora-pro-nóbis a disputa internacional: 'Incentivo' - G1",
-      "published": "2026-09-17T10:14:34+00:00",
-      "summary": "Estudante brasileira leva pesquisa sobre ora-pro-nóbis a disputa internacional: 'Incentivo'&nbsp;&nbsp;G1",
+      "id": "5f74a35d837d",
+      "title": "O paciente além da diálise: avanços no tratamento da doença renal crônica permitem uma vida com mais autonomia - Portal Drauzio Varella",
+      "published": "2026-09-17T18:04:21+00:00",
+      "summary": "O paciente além da diálise: avanços no tratamento da doença renal crônica permitem uma vida com mais autonomia&nbsp;&nbsp;Portal Drauzio VarellaVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
-          "name": "G1",
+          "name": "Portal Drauzio Varella",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWnBEOFlvLWNVdzZBdlJKVkt0akhsT1cxdkdSVUZOVjBsbDRGZnMzWmEyaXFjaXFEd2JqZ0hEdEc0XzBnODlqelVtdC0zVW9iLVVkZVgwUHRVYmxSSG1WcUVrc3Y1ZEU1LW9mcWhJMFRSYWlqYVNmOHo0MjJsM1hrY1hSQ1p5Y3Z5Wm50ZjFYVE1KZng3YkN0ZFJhaU5uMlA5cWJxVFNpZkFMLXg4N2VGbWVPeFV3RzZZVXZLeWczcEZpYzJWaE9xdXlrM05WbUtsUnFlSGhzV1ByQmVCTzN6NVE2dUkyako3UGpB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b5d697f142cc",
+      "title": "Novo exame de sangue detecta câncer de pâncreas em estágio inicial em 87% dos casos - InfoMoney",
+      "published": "2026-09-17T17:40:19+00:00",
+      "summary": "Novo exame de sangue detecta câncer de pâncreas em estágio inicial em 87% dos casos&nbsp;&nbsp;InfoMoneyExame de sangue detecta câncer de pâncreas inicial em 87% dos casos&nbsp;&nbsp;uol.com.brCasos de câncer de pâncreas crescem entre jovens, aponta estudo&nbsp;&nbsp;TerraNovo exame de sangue detecta câncer de pâncreas em estágio inicial em 87% dos casos, diz estudo da Nature&nbsp;&nbsp;O GLOBOCâncer de pâncreas: sintomas discretos dificultam diagnóstico precoce; entenda fatores de risco e avanç",
+      "sources": [
+        {
+          "name": "InfoMoney",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUDJ5Qng3YXpWallyTVJYR3NGbEtmUEVFZHlnZmRjckcySkY4MC1Ja0p4eGpVV2JleHJHQkxrbldrSVFJLXZlT0xrTFIxT0VNY1kzekoxYmlXQ3pPbjBwWi1zTW1Jdlp2N1M1cE8wZmJDOV9WTlJZZ21BM2xlbEFWamQ3anpLck4zNmZfMzFrTEM5em5nanVSTFZORWladENXcmJRcm9ocmVXR1k3d1NUX1Uxd21VSHdLQmfSAb8BQVVfeXFMUHpVWXlRRTZmSHZSR3NkejI0dUZvbGVCV28zaVRWX1Vxcm9NNzJnQUNkVDY3ZlhuTGZYZXZRZHNmUHpIVTMyU0tjV0Y3VFZCeml5TEZrMEdTeUhSamI5cERxdjZVX3djSU5seVM3YXRXZDYtQWYtVEFlYUF5TF9YZV95REhlYW5mVDZTNE9yWWYxTk1CRXQ4MTJjYUstVHJIXzFpZldDcEVLUG1pVkN4NnpPS0pKU0FHNl9nbmFUV3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a1932ed30e73",
+      "title": "Peixes deste lago conseguem viver mais de 400 anos, descobre novo estudo - revistagalileu.globo.com",
+      "published": "2026-09-17T17:20:20+00:00",
+      "summary": "Peixes deste lago conseguem viver mais de 400 anos, descobre novo estudo&nbsp;&nbsp;revistagalileu.globo.com",
+      "sources": [
+        {
+          "name": "revistagalileu.globo.com",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTHl6eENCX0x1NUFQZ1JySGdsN0tINGFCbzN4MTNPTXIza0FMV3hTNkVTemdZRjZSVXp0QloxN1NHbGlaLWpuc3FzMHExTHNqSC1aWTNvemI3UE5pbEY3M2RvX1RmS0VuQmlkTGFISklyYmtxUWpHV3dLRGFuTS1UY3VoeE5QT0gyYzEtempjSGsweEo3Sl9yRm5JZkVLSzB0UkJDZnB6a2dNalVpOWJmTnhjSDY5b3lDNmd1Uk1LS0FPakMwaHBSUVFNbEFGd9IB3AFBVV95cUxPMGU0VjdFRlhhLTBxRjhCX1MwbTBEVmVTZ0RKT0IyeVFVYVVGTWhaVEpocEZqT1ltbFRNbEY4Vjd3bUdaSHJEY0hOdElfMzhDcUFCNkRmT1JiczlhZUhTMnh1LVhkYnBSZGEyWFZ4S09WdzlpWlRJQXdiVGlOWWxuczJHUy1MTVJINVBOdThKXzlWOE9oVFQ5MmlMamNMd1V3LV9NWGdmb3VRQ21mUlZRR1NXY3JBOGN4d0E1TEFUNllWV1puSHc0SF90OEN5YVBEWjl1NEFtMmRVbFMy?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2703ba1ea36e",
+      "title": "Peptídeos: o que são, o que prometem e o que a ciência diz - Veja Saúde",
+      "published": "2026-09-17T17:05:19+00:00",
+      "summary": "Peptídeos: o que são, o que prometem e o que a ciência diz&nbsp;&nbsp;Veja Saúde",
+      "sources": [
+        {
+          "name": "Veja Saúde",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQWFYS002OWtoVVhfOXUxSHllQVdad2w1VXd0ZVp2YUhJZVFacVZwNTVVUEJnbVhPQjhWM1VLRHBjMG81UWVOajFxS2lmOGRzZjBWSlhVNmFDZm1QMUZMcWZJSXNOMUpiSFoxQUNKWHJfSmpDdmpXX3ZRTkFfcTJRV3UxY2xIY1NlWklCTTJkSE1hRzdPMlFFNklTbw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "71d035144512",
+      "title": "Nova espécie de felino, primeira descoberta em um século, é achada por brasileiro - folha.uol.com.br",
+      "published": "2026-09-17T15:00:00+00:00",
+      "summary": "Nova espécie de felino, primeira descoberta em um século, é achada por brasileiro&nbsp;&nbsp;folha.uol.com.br",
+      "sources": [
+        {
+          "name": "folha.uol.com.br",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMGN2XzFZcXE1dF9tQzBfM053N1FTX2k3eEMtTU05SVI1b21LYm1IY0VRVGtlUU1Ya01aem1fR1AxWVJGSG5Za3BCbHlzOHZrcmliekxnLVRCMkxjLThCemVUMzRMMUhWeWNiQ2J5YTdsU1F1WVFuajZhRkYxVzkwTEUyUGt3cGFXS2EwTW0yTlplNEZuS0FCdGN5UldtNUJFLUQwNEZrblg2ZmNZREFXaFBSY002aW9mczVwZHZVZXkweUpTZzZiVDltYw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d74199c9255f",
+      "title": "Alzheimer não apaga tudo: o que a doença preserva no cérebro - Campo Grande News",
+      "published": "2026-09-17T14:44:00+00:00",
+      "summary": "Alzheimer não apaga tudo: o que a doença preserva no cérebro&nbsp;&nbsp;Campo Grande News",
+      "sources": [
+        {
+          "name": "Campo Grande News",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQemNnN2EyWXg1Ul9MXzk0SFgzSzY1WW1wb2VyMjNiR3FBUVNjWDNuM1FUUmpDaTg1SzdPcTBMUVdqLVNZYkktQVB0aVE3SWRoMlRaRjZia1luZXZzZ2ZoeV9fczRIWDVMRjVKWmwyQTJqUUdtd0lvTFBkeEd2UVF5XzBsTGlHc21rMk82UlBEbUVBajduRER6VTgxaU9xYmpkNlFaT21TckNDempqUThYTUVwZHc5bTQyUEQ2M9IBvAFBVV95cUxPM3NMbDcxRVlBN1R0WjRBYWxDMnU3WThQMTdaSkl4SWc1dHlfWC1zOVkteUxLMTFVY0FpVFVKNTljejBvZ3VqaHlfV1FmbjA3UmxlelhGQnlsMU9DTWFSLTN1U2s4TWUtNHR1QkF0ME8tT0l2T3Vkcnk3T0o0Y044N3loSlBoZ3dBWFVKbVBRYy1hTGNzV3c1R0RoQ0IzZGF4Q251MUQwamtjNzhUT3NaamZibzFxVFpMdi1CRw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b28e7e9ebcbb",
+      "title": "Dos primeiros humanos até você: quantas pessoas já passaram pela Terra? - olhardigital.com.br",
+      "published": "2026-09-17T14:42:00+00:00",
+      "summary": "Dos primeiros humanos até você: quantas pessoas já passaram pela Terra?&nbsp;&nbsp;olhardigital.com.br",
+      "sources": [
+        {
+          "name": "olhardigital.com.br",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQy0tLUNiOGRITndoc2ZadkVtNWZGTmc5ZWdJbGJrOHdMY1V2Y2VfYTViMnc5aUwzZDhFTmR4cTkzZ0t4SEdfMEl3c1QxTlkzVkpOZDU5a0hPbUZ1QUhsbEJmMnpZNEJVOXQydHZrbGNwV1BCSE1oUXZtR2c4TndTVWJXbXJFekFXYWhibTRuWFd6bzZmWGtIRFQyTW9UYlhHb1FsZmNOZkRJR2hyMGlERDNlbGlMWTdQN1V5TVVENVN3OXcy?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6e576cf8d3e9",
+      "title": "Quem é o pesquisador que deixou a Anthropic e alertou sobre os riscos da IA - VEJA",
+      "published": "2026-09-17T14:20:44+00:00",
+      "summary": "Quem é o pesquisador que deixou a Anthropic e alertou sobre os riscos da IA&nbsp;&nbsp;VEJA",
+      "sources": [
+        {
+          "name": "VEJA",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVTVoNVJ2WXdTZXl4bHFtSmtjR0NfS2w4WmV1WHN5czdEX3Q4MEJudG5JeDNqWVN5anNTWW5uZC1sbkxMZWw4aWZuZ2dvNEE2UEYyVkcwZDJmV3pnUTVFWG9HOGlkdW9VaEZuSW5NWWw2TFVwOWFadVJqa18zMW5oU1h2MUdNNzl4Y213NnA4YTFLekJ2QmhhRFBxUnZtWC1zTlZ2aDBITEhfZHBCS2RJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "02f559d3e308",
+      "title": "Hábitos para adotar aos 40 anos em busca de um envelhecimento mais saudável - GZH",
+      "published": "2026-09-17T13:00:44+00:00",
+      "summary": "Hábitos para adotar aos 40 anos em busca de um envelhecimento mais saudável&nbsp;&nbsp;GZHO que fazemos aos 40 conta aos 70: nove hábitos para uma longevidade com mais saúde&nbsp;&nbsp;ExpressoO treino que tem de fazer a partir dos 40 anos para ser saudável o resto da vida&nbsp;&nbsp;New in Évora",
+      "sources": [
+        {
+          "name": "GZH",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdG54QWF5WVFzTXdBOEQzaWotYl82dnI1Wk5XYWdHQWNzam5vWUd3Yk9KZkVCSDB1SUc4elp5NjVpRUs3NmRaZmZkZWVla0VBTU1zS0ZBNkpxLWNzZWRsVTNrMVEtUDluXzFXUmE5clVpcTJNdF9XdUs2WWI5SEdoZkd2czJSN096eEU5c1ZYN2RWTmtMUldXcDJvaElUOENlS09xRTlWWm53eUk2YVNLSGtVRDdxSGpzVzVmelJoWGtBT014SDh6R0lzd2xreEJya1JsU1A5QjVQS1d3NHNRcnA0bWY0UjZjc29LWV83cmtlQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "608e2d19ecec",
+      "title": "Estudante brasileira leva pesquisa sobre ora-pro-nóbis a disputa internacional: 'Incentivo' - g1.globo.com",
+      "published": "2026-09-17T10:14:34+00:00",
+      "summary": "Estudante brasileira leva pesquisa sobre ora-pro-nóbis a disputa internacional: 'Incentivo'&nbsp;&nbsp;g1.globo.com",
+      "sources": [
+        {
+          "name": "g1.globo.com",
           "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVUdsV20xTE81SWRJVlZUV1I3ZVVYWmU4ajYtZXkxWTlMOHpvandVUFBFTFdsU1JEcU9HcjY3X01YSnVLT213MEp6NEM2MXdVS2Joei1WeG1iejRoM2dtZk1DTU14OERwUHU4eEF5SWJEdEJ1NURSdGFVa0tHRm16ZVA3cXNMWGVqZmJwcjh1aERyNWl5OHRYbzgxMVhFOVlCSVhTU0FHWktfTnQ1NjNNbWFEaFF3UTFza180cnVPM0NZZW9iYVhUdmVsemJYUmQzZUEwVmJ4MmVNWUU1VFBGMGFuWHNlYy1FYjdwU2hB0gH8AUFVX3lxTE1kMy13M013Zi1WWlVtTkRGVnBKNDh2ODhwX3FDM1liWHVRRHRQbFB2MDYtbTd4VUhwY3REYk5OLW01Qnc0TV84YS1SSjloNjY0SzBOcjVndjVQX1RjTG9vSDM3eEI3Z0E3UENlSWhtZFFfdkJmMWlmeFZUcEFhdHlYbUNOYjh1X3gzUTFBWFJXMk9UY3A4NjlDTlZXRHJoQW5qaEktbG12SkQ0aFJHMldoSlNtLURjTlJodmZNejc2cWFyNncxc1JIbWZDWm5uYUc2VGI5aHVwYnZrY3pSQWlkaWZYOXNRN19xUFlnQmY3WkNPODIxdEJ6RGRxSQ?oc=5"
         }
       ]
     },
     {
-      "id": "ce766c19dcad",
-      "title": "Estudo revela maravilhas da rede viária de 300 mil km do Império Romano - Folha de S.Paulo",
+      "id": "ef0d44a92cb5",
+      "title": "Estudo revela maravilhas da rede viária de 300 mil km do Império Romano - folha.uol.com.br",
       "published": "2026-09-17T09:00:00+00:00",
-      "summary": "Estudo revela maravilhas da rede viária de 300 mil km do Império Romano&nbsp;&nbsp;Folha de S.Paulo",
+      "summary": "Estudo revela maravilhas da rede viária de 300 mil km do Império Romano&nbsp;&nbsp;folha.uol.com.br",
       "sources": [
         {
-          "name": "Folha de S.Paulo",
+          "name": "folha.uol.com.br",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdWxfbW9iTkQwanZqZVZ1MUFlTi10Q2ZQVFpaRVJLS2ZIMzdrZnE2SWF2NVlKRTlYRmR0WUlfZ2k4MkNsd1ZkWmNwYl92OWQyVWh1WnNzOXNscXFRUkJNOF9NeFZGOHlLS2VLMGdzaEh5ZlRWV3pwQlZKbGJRVEt3MTdnYS02MDctclJBVXV2R0pMRUw5d0Q1UkdJTk0xMUNCVkNOazAzSDhsZndRNVo5MU1DWGhIN0RwNFNfSk5yTzc?oc=5"
         }
       ]
     },
     {
-      "id": "14a4d7962378",
-      "title": "Como experimento com bebês geneticamente modificados levou a condenação de cientista chinês - G1",
+      "id": "15f8826a708e",
+      "title": "Tive medo de não poder ter filhos, diz homem após uso prolongado de testosterona - folha.uol.com.br",
       "published": "2026-09-17T07:00:00+00:00",
-      "summary": "Como experimento com bebês geneticamente modificados levou a condenação de cientista chinês&nbsp;&nbsp;G1",
+      "summary": "Tive medo de não poder ter filhos, diz homem após uso prolongado de testosterona&nbsp;&nbsp;folha.uol.com.brTestosterona: uso sem indicação pode afetar o coração, diz estudo&nbsp;&nbsp;TerraUso de testosterona sem indicação médica pode elevar em 51% risco cardiovascular, aponta estudo&nbsp;&nbsp;Jornal Opção'Tive medo de não poder ter filhos', diz homem após uso prolongado de testosterona&nbsp;&nbsp;redeutv.com.br",
       "sources": [
         {
-          "name": "G1",
+          "name": "folha.uol.com.br",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYTByaDlEZTFxeDkwWVVQRFM3MUJGR1NCd2R2VXNrZHJKNXZfYnRsblFLOEVwOE5kNmFFZ0RFcmNyZ1VZaFBTWVZrdmlmcVRkb3NaVFNnTUgzV3R2WUhPTi1qS2YyMHNjN1NDSFRJM2NFTFY4aDEweUxKbkk3TTdYY1ZpaTROdXFqblRZenBad0VXX1hlMWtIYXFldjNGTU4xY1VlR25XRGF5R2xZaGF4Vmpzek4zaEptNUhhODljVktvTTJ1YU0yQldRZDVTNHpZa05KTlBDSQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0f054a7b7267",
+      "title": "Como experimento com bebês geneticamente modificados levou a condenação de cientista chinês - g1.globo.com",
+      "published": "2026-09-17T07:00:00+00:00",
+      "summary": "Como experimento com bebês geneticamente modificados levou a condenação de cientista chinês&nbsp;&nbsp;g1.globo.com",
+      "sources": [
+        {
+          "name": "g1.globo.com",
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMzViOEdxWXRKNHh0UjYwZ1N1alRVTjdVVXM5MmNEQWlfWGdhVnFCUlR4NUpSR0tZb0VMUUVBbE50VEJoTk5SWVh3bWdDR0N3MWVxYzVEUkFRQ2ZxSzVOODhjZm1EVWVUUjU1ZF9kYVlNdl9OR0F4T2RkMFpmVGNQUG1aX0VQUFYtdk1HSERSQjdwY2laNTNuUjNFT2RfZ2oteWpYV0wtNFFfWjNHdzZjOElSZ3VTTDhMcndBdnVaQXQ0QzlrQWFLQ1ZldjVaRnZRLWI0TnlYSmNnZUxia0M4RkZn0gHwAUFVX3lxTE1kTlo0QkJlcWhDdUZycVFyM2EyVXN3SmVYSjcycDFrVzY2U19RZHFLY2dkQko4MzRvMDV5M1g1ZHp6a0tWZUFkQlBNRWM5RklyekM4Vl94bWF0aWk1RjJvY1hxeHFhX2hKcWdDR2Q2YTJueGZ5OHA4eU54LTlJU1hhb1pnNUFtUFlwVmRZSWV1YWVDc1BXT1lndzVzOGZUVGlNbGJ2LWhEc0ZTOXBtR3hXZUhVOEd2NUZoSFVWSW1rMXRBeXlkd2hyQ0p1M0p5Rzk1dzVMUzBpaXlCSkRFQ0ZhMWpMR3RfNUREYjBTLVFEOQ?oc=5"
         }
       ]
@@ -117,7 +201,7 @@
       "id": "df458d918250",
       "title": "Com um em cada 60 adultos no país infectado, Fiji declara crise nacional de HIV - O GLOBO",
       "published": "2026-09-17T06:16:36+00:00",
-      "summary": "Com um em cada 60 adultos no país infectado, Fiji declara crise nacional de HIV&nbsp;&nbsp;O GLOBOUma em cada 60 pessoas agora está infectada com HIV, enquanto a crise de drogas alimenta o surto nesse pequeno país insular&nbsp;&nbsp;CNN BrasilFiji declara emergência nacional por alta de casos de HIV - 17/09/2026 - Equilíbrio e Saúde&nbsp;&nbsp;Folha de S.PauloFiji declara emergência nacional de VIH após disparo de novos casos&nbsp;&nbsp;Euronews.comFiji declara emergência nacional após aumento d",
+      "summary": "Com um em cada 60 adultos no país infectado, Fiji declara crise nacional de HIV&nbsp;&nbsp;O GLOBOFiji declara emergência nacional por alta de casos de HIV - 17/09/2026 - Equilíbrio e Saúde&nbsp;&nbsp;folha.uol.com.brUma em cada 60 pessoas agora está infectada com HIV, enquanto a crise de drogas alimenta o surto nesse pequeno país insular&nbsp;&nbsp;CNN BrasilFiji declara emergência nacional de VIH após disparo de novos casos&nbsp;&nbsp;Euronews.com“É preciso entender o que acontece em Fiji”: in",
       "sources": [
         {
           "name": "O GLOBO",
@@ -126,13 +210,13 @@
       ]
     },
     {
-      "id": "2ff0a4db0647",
-      "title": "Calistenia não é só moda: treino com peso corporal melhora força e função física, apontam estudos - G1",
+      "id": "6f041aafcd6f",
+      "title": "Calistenia não é só moda: treino com peso corporal melhora força e função física, apontam estudos - g1.globo.com",
       "published": "2026-09-17T06:00:00+00:00",
-      "summary": "Calistenia não é só moda: treino com peso corporal melhora força e função física, apontam estudos&nbsp;&nbsp;G1",
+      "summary": "Calistenia não é só moda: treino com peso corporal melhora força e função física, apontam estudos&nbsp;&nbsp;g1.globo.com",
       "sources": [
         {
-          "name": "G1",
+          "name": "g1.globo.com",
           "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOU1daTkdhOGMzc2J3TDF1eEd6SjJVWEo4UGlPMGFNN1M2RWlOS043MWlvaWpGeGJiSHoxMEZKQ3phOWZrRi13eUxkWXFVeDlLNkhIcmJkR2tfNzVTT2NCSXdJNzVIVlhMSDNPT0hHWnpaWGhvNDhZWTJzQWI0VGVsTEc2bWMxOVF1LXl5STlWSlI2T3gtZ2xINWRvcXkzN1hDaldjOUtSTHJwZ0xqTzVLQkNVbjkyVmZhZG85OHJsSjhNWUJ4V0Fic3QwWENVdm5uV0gtWnhjbDRwd3lOTEltdQ?oc=5"
         }
       ]
@@ -150,110 +234,74 @@
       ]
     },
     {
-      "id": "c365dec7f412",
-      "title": "Alzheimer: exame de sangue auxilia na investigação - Veja Saúde",
-      "published": "2026-09-17T03:08:09+00:00",
-      "summary": "Alzheimer: exame de sangue auxilia na investigação&nbsp;&nbsp;Veja SaúdeAlzheimer não apaga tudo: o que a doença preserva no cérebro&nbsp;&nbsp;campograndenews.com.brAtividade física pode proteger o cérebro contra o Alzheimer? Entenda o que se sabe&nbsp;&nbsp;cartacapital.com.br“A doença causa alterações de memória, dificuldades de nomeação e desorientação espacial”: neurologista explica quando o esquecimento pode indicar Alzheimer&nbsp;&nbsp;jornalopcao.com.brAlzheimer e demência são a mesma co",
+      "id": "ef7a7b24fd93",
+      "title": "Mulher passa 11 anos em quimioterapia após diagnóstico de câncer cerebral e descobre que doença nunca existiu - ND Mais",
+      "published": "2026-09-16T23:56:58+00:00",
+      "summary": "Mulher passa 11 anos em quimioterapia após diagnóstico de câncer cerebral e descobre que doença nunca existiu&nbsp;&nbsp;ND Mais'Fiz quimioterapia por 11 anos para tratar um câncer que eu não tinha'&nbsp;&nbsp;BBCJovem passou 11 anos em quimioterapia após diagnóstico errado de câncer cerebral no Reino Unido&nbsp;&nbsp;O GLOBODisseram-lhe que tinha um tumor terminal e ia morrer: 11 anos depois, descobre que nunca teve cancro&nbsp;&nbsp;Flash.ptQuinta, 17 Setembro 2026&nbsp;&nbsp;Radio Sanca Web T",
       "sources": [
         {
-          "name": "Veja Saúde",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTXpFZnZVcmVGVkVIQ0FFa2wwQ3J0TVZBUXFuV2NKMlJVV0VKdVNYLVBjSlpqc2RvUU9rcjVldFpTVnU5LVJZVlQzTDNJeWxBVDRsOTB4cXdHalE4ajhnaXo2QjBJd3p0QWxmUGR4ZHVqUTdHeHBKSTVVRVhCUzlnTWU2UVF0Yl8tTzBHUDVkTQ?oc=5"
+          "name": "ND Mais",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNamdmNFBuUFBJZnB0WnE5TWQ5eUVEYXozbkIzTjFIakhZeXkzN2pESzIxOS1hMTRSWHgyTjF1LWl1STk2eVlRSERuRG1qemRiMVVTWUktZ2w4bjNsMlVrR3B3OGZncmM0YmlYSjY2V0pzZTd6cm8yZGFUelJ4amE0N29naDhSNnBzRmxiQnI1d1h5THFsZGdsR2R3VG1RcmxiczJsT3BkOHpSZU5NazdkTUlHUE5BTU9MWWh2X2xMTnJhQVdvdVdqR1VGUm1UN1doanRMSQ?oc=5"
         }
       ]
     },
     {
-      "id": "cd8dee196102",
-      "title": "Caso raro de ataque de morcego-vampiro no Rio acende alerta sobre raiva - Diário do Centro do Mundo",
-      "published": "2026-09-17T03:00:22+00:00",
-      "summary": "Caso raro de ataque de morcego-vampiro no Rio acende alerta sobre raiva&nbsp;&nbsp;Diário do Centro do MundoCaso de homem atacado por morcego-vampiro é descrito pela ciência; entenda o comportamento&nbsp;&nbsp;G1Homem é mordido por Morcego em Ilha Grande, no Rio&nbsp;&nbsp;ultimosegundo.ig.com.brMorcego 'vampiro' ataca e suga sangue de morador no Rio de Janeiro. Caso vira estudo científico&nbsp;&nbsp;CNN Brasil",
+      "id": "fac65da148d4",
+      "title": "Caneta emagrecedora vira risco grave sem endocrinologia, alerta médica Dra Carolina Ziliotto - OBemdito",
+      "published": "2026-09-16T23:36:00+00:00",
+      "summary": "Caneta emagrecedora vira risco grave sem endocrinologia, alerta médica Dra Carolina Ziliotto&nbsp;&nbsp;OBemditoDos alimentos à beleza: os efeitos das canetas emagrecedoras&nbsp;&nbsp;meioemensagem.com.brQuem faz uso de caneta emagrecedora precisa fazer algum ajuste na alimentação?&nbsp;&nbsp;Assine AbrilCanetas emagrecedoras impactam tratamento de obesidade&nbsp;&nbsp;Correio BrazilienseCanetas antiobesidade: entenda diferenças de moléculas, categorias e regras&nbsp;&nbsp;uol.com.br",
       "sources": [
         {
-          "name": "Diário do Centro do Mundo",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWWZTMlNwWnFJUFM3T1p4czd2SmZXeTUxUXludGdVdGVXaWZHV0JpZFlDek44bkJQQ0hmWVZ2eDkySXNQWEVhdkp5eS1lMVhUbDRNU0VadWwtam8xMFRQUnAxaDFJV2lDRVJUM3lwMFhGWkF4VUQ5bG1VY3BzT21xWW0zMGs5aHRRZDY2OXFqNXlES25FMXc?oc=5"
+          "name": "OBemdito",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ3JMZ3ROTmtOYU9sQl9LWWdFb3p6UW1XYmliWnF4WDNPUFFEeFE1bGlkeDVqc05sblhRaDV3eHdPWEJ5dmJXbTdrU2dGN0JYcGhpZWxnNFNBYmNvOFkxdTFrb2lOWU1pUWoyeWlEVVg5SG1sdjhmMEtJSFRrdTdJd0F3ekRHNW4wNWxjSnMzZV9qUkJyaHc?oc=5"
         }
       ]
     },
     {
-      "id": "73ca9ef0cfdb",
-      "title": "Mudanças climáticas contribuíram para colapso de geleira no Nepal, aponta estudo - G1",
-      "published": "2026-09-17T03:00:00+00:00",
-      "summary": "Mudanças climáticas contribuíram para colapso de geleira no Nepal, aponta estudo&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeW5TSjI1enVDazFTdkNVcm0ybHpibUwtdUxaWm1HeVRZVFNreERZbWQ3X1hLWWtkM3AybHZvcklVU3l6dDlLekpWLXVSbWZtZlZmSmxJVVJlZWRyb3lVU0JxYjRYd0ZJMm9pcEpwek9FMkh6SjJsYVdDLXhaTGZybW1rNlllTzJhVy1DaHE3MFVSXzJyMTE3NkxBRWJZZ3c4OWJxTkxORVYwTWtOR2JyVVl1UDRsUTBWc3JaQmNwY2ZaNUt1MzVaMk5UWF9ZMHE3bXphZ3N30gHkAUFVX3lxTFBwcy1Gd0VBdXZvakJKeXk2RTdHeWEyNkNlTTFGRWZzQWIzWHcyUHZOalNWdzdhTzJUcWlGSU9EV2ZZdzFFeGtEcUwxTXFQNjYyaWNjR0FmWGJ6RHhBdEp1SDhZUGVoNEdSbE5jVF9leHVNckNBZUhRaHhWaWItQnA4YWNRbzdLX3pEMVU1SmVSNlBaNFEtUGc1aVI2ZlppT09kZWdRRHhGb1lIS2hQV3dKTk1xVWRROEU4WjQtdk1uX1BLU1NoLXdqZEF5b0c4ejE4Mm5rZEl3WExPMVhIWnFWV3Rfdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2156733dae44",
-      "title": "PrEP injetável no SUS: quem deve receber as primeiras doses - Folha de S.Paulo",
+      "id": "4088792850b3",
+      "title": "PrEP injetável no SUS: quem deve receber as primeiras doses - folha.uol.com.br",
       "published": "2026-09-16T22:30:00+00:00",
-      "summary": "PrEP injetável no SUS: quem deve receber as primeiras doses&nbsp;&nbsp;Folha de S.Paulo",
+      "summary": "PrEP injetável no SUS: quem deve receber as primeiras doses&nbsp;&nbsp;folha.uol.com.br",
       "sources": [
         {
-          "name": "Folha de S.Paulo",
+          "name": "folha.uol.com.br",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZUFzV25GenFyeEZkczhYakJPZ3BpNEJsWlpIVmZPaEVFcFU4RmxjTDVKckl5TmlEeno2ZTgyTF9FN3NUYnZ0S2JuTXV6UmdhTDFOdlpZNGRxUV9tZ2lhUk5RMmIwbVNyd2RxZ0R5T2cycXBVSnZ5UzFjblloSEFia1hKakpiZERmclk1U0pzSlVTZF9lYk8wMzg2cFozSHBXUHRraW1OeHAwblYwM1hNRE9yckhXU05YNHc4?oc=5"
         }
       ]
     },
     {
-      "id": "c07f0e0f275e",
-      "title": "Bahia prorroga estado de emergência zoossanitária por gripe aviária H5N1 por mais 180 dias - G1",
-      "published": "2026-09-16T22:03:47+00:00",
-      "summary": "Bahia prorroga estado de emergência zoossanitária por gripe aviária H5N1 por mais 180 dias&nbsp;&nbsp;G1Bahia prorroga estado de emergência zoossanitária para conter avanço da gripe aviária H5N1; veja os prazos&nbsp;&nbsp;Bahia NotíciasBahia estende alerta contra circulação do vírus H5N1&nbsp;&nbsp;A TARDEOito municípios do Bico terão propriedades monitoradas contra doenças de aves&nbsp;&nbsp;Folha do BicoTocantins inicia monitoramento sanitário para prevenir Influenza Aviária e Doença de Newcas",
+      "id": "7fa7add9ec7a",
+      "title": "Creatina pode ter efeito contra a privação do sono e até a depressão; entenda - CNN Brasil",
+      "published": "2026-09-16T21:22:02+00:00",
+      "summary": "Creatina pode ter efeito contra a privação do sono e até a depressão; entenda&nbsp;&nbsp;CNN BrasilCreatina tem efeito contra a privação do sono; entenda&nbsp;&nbsp;O GLOBOBenefícios da creatina além da academia: o que a ciência tem investigado?&nbsp;&nbsp;Assine AbrilCreatina pode beneficiar o cérebro? Veja o que diz a ciência&nbsp;&nbsp;TerraCreatina pode ter efeito contra insônia e depressão; entenda&nbsp;&nbsp;DOL",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbWpXTHY4LVl3YlBsOHZBWTNaVzNFZERRWFZzWDBKenFIUkpjTGNHSFdzSEw4SW1xYVpKa0VUUzJHTFZLdmloLTFMcTdZQ2wwR2c3YUlWaHdsQzFwbnBvUUJNT2xPT3ZoNGNxRE5SMm9CMnVuRDJPMGt6VWdBczd4aHlNQnliNVBXSkhZb1h1cUZzR251QndTc1ptUkhGTkhmV0EwTWg2d2V1ZUxSTEZMM0VPUlF4akkyNGdhSU9nOFRvZmZ6eVHSAdQBQVVfeXFMTTRtYWdtcEFHV3R5UFdOa3drUGRVZVpCN19aamExdzhwS2dXUWh4Wl8tV1FRR0Zzc21zQUtkbFFHV3E0OEFXVVc2RU1RcmZMTXVwM0EyV2lDaDlMMkRweHpSRkVGSDBSM2E2NmhkRmZhUjQyOXJLR29jNFl4ZVVpcVVySGlZN3JENEFXb2JoQmp4dFpIOG5MckFKN3ZCQ2RhZUhySFJXX0dfRmVhNFJJaDFwZWtnSWFSb1Y5aF9lb1JLNmJ0M2Mzem5iQjZHUDlDZ2xZblE?oc=5"
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOWFXeUxvVjVLNjc5dmZ5TmJra3NMYkRndWh2a2wwRnJPYVJLd2ZLMjE3VXFVNDU5amNaTlYtQlhHZlVaLVhacG50Y19BUkIwTUNWWkJjOXBHSzh1NDhGVkZlU0h0TlBBWXFSdEpWdmdIZUdBNEV1S1lyTC1yRV82amNITHc5Y0RIZzhmYV9YRUFYN1VOLXJ6RlVNV3FpMVJxY1REc3ZmMVhNa1V6aThFVHNlTkthS05mYnRV?oc=5"
         }
       ]
     },
     {
-      "id": "5f58be42b2d9",
-      "title": "Desfile celebra superação de câncer no Hospital de Amor - campograndenews.com.br",
+      "id": "c2c2aa5bed86",
+      "title": "Desfile celebra superação de câncer no Hospital de Amor - Campo Grande News",
       "published": "2026-09-16T20:37:00+00:00",
-      "summary": "Desfile celebra superação de câncer no Hospital de Amor&nbsp;&nbsp;campograndenews.com.br",
+      "summary": "Desfile celebra superação de câncer no Hospital de Amor&nbsp;&nbsp;Campo Grande News",
       "sources": [
         {
-          "name": "campograndenews.com.br",
+          "name": "Campo Grande News",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNkdQTV92R1ozTlluc3FtX3B3TnZkYXZmNDZQY01wRWR3NFN6ZmI3V0diaE02eUJ6VjhkNzZjMmcwa2QyYW1VYzNPU0tTNGpjZ3otVFF2Q2pBZXhVUEhRcmoweGZqTkpyeFRHQzNqRHlrM3ZWaGsySlotWUlZNEdFVkFUZFc3UWZjZUlYcC1VTmJzQzlnVHByWnVLTWNIaU5PSnNEamMwdTFmVDFVOXB2dkc2RE1xQ1Q4SzhV0gG7AUFVX3lxTE5YbnBHU3BKNmw3ZTFoZlBnN0ZQaGdMQnFKZk55UEFzY2dKb3h4c2FweG8tYlB4YUpfWFJVUGR1WlN3VUlYT0Z0YTFCdjl5VXY5Vi0xV3lHUW1wdXdLa2ZqRldNM3U4VEJ3V1lEbTFXTVVPTUJ2OGlSMEhYbVMxb1RvWm5HYXR2SHpwWW5DYldPQ25GX2hjbU1VU1RMZGRWQjJSZVRaLXAtbmxqR01VWHQ3anpzMVNBZi1CUHc?oc=5"
         }
       ]
     },
     {
-      "id": "961c87bbdeed",
-      "title": "A primeira luz do Roman: telescópio da NASA se prepara para observar exoplanetas, estrelas e galáxias - Olhar Digital",
+      "id": "732da9da0f2a",
+      "title": "A primeira luz do Roman: telescópio da NASA se prepara para observar exoplanetas, estrelas e galáxias - olhardigital.com.br",
       "published": "2026-09-16T19:07:00+00:00",
-      "summary": "A primeira luz do Roman: telescópio da NASA se prepara para observar exoplanetas, estrelas e galáxias&nbsp;&nbsp;Olhar Digital",
+      "summary": "A primeira luz do Roman: telescópio da NASA se prepara para observar exoplanetas, estrelas e galáxias&nbsp;&nbsp;olhardigital.com.br",
       "sources": [
         {
-          "name": "Olhar Digital",
+          "name": "olhardigital.com.br",
           "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOE8xSVUyMS1wWlZiREl0c25keUUtUjZ2TlltSXNJdlpJdzNKekVJbzZ3eVFTN1BBRnI4UjZmcHFac0VvUnFZdklad3gySlRpTUt0VURhNkg0Y0EtLXBHRkYtQzVkMU9udGdKdm01aVpFV1hDcGNjbVd4djJHd2ZTSWFRSEtsczJHWGhNQkNRU1FKcWZoMUdVdjhGZEx0UGJ0aS1pTm9VcmZzZmhHR1g0eDVGR2VMSjNYRkgxd1hJcFFONG92QWloQ1hzay1USG5GdXlJeEY1UWMwT1dXRmlrRWdZQlQtNHdPNUhR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bc04c39c9785",
-      "title": "SpaceX se prepara para primeiro voo orbital do megafoguete Starship - Folha de S.Paulo",
-      "published": "2026-09-16T18:49:00+00:00",
-      "summary": "SpaceX se prepara para primeiro voo orbital do megafoguete Starship&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaXc4aHhXNFRNTlFrRlRkQjNnMFRDSi1peWF0LURlalNIZkpzNDBSMDlNSGtvYnZTWGVTeFVlYXllUFRJcF9sZU9Eeko5TmYwN0JodXpjQllnd01qYWpIWlE4dUZVdGhGM2c2clNOcnAxcHR4cVFuNTUtWEM2MFR6M0tuRWhndzlnbThsOTh1VXA3dTd5b0tjeDZfb2VhY2RLSWdrNHk3RVFVVl9MUDBpR215aXRicjl4Z2k0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "446782b8fa81",
-      "title": "Laboratório anuncia início do teste clínico com polilaminina para cinco voluntários ainda em setembro - G1",
-      "published": "2026-09-16T18:00:21+00:00",
-      "summary": "Laboratório anuncia início do teste clínico com polilaminina para cinco voluntários ainda em setembro&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbXdReTkzVm9SVW1DVzV2WnFnSGZVTGlIY1hRak9pekV6cW42X2hiN2dHanB3ZEdUejFabXd2amZmd29iNUFXTGtnZnBKWE5tSFlCeTZOemdtNnEzMnZKWlJ0WFlrNEh6RVZZOTlRYkZkbU1EOVA4R01pY1l1bjFGMEtKeDNPc2UzNHl4ckJhWVd3eHdnbnlOejM1SklPNzdKQWFBcENYanNPTkdlMVNWbnQ4RmdOZkUzc2xEelBQclQ1Q3pH0gHTAUFVX3lxTE9uUVJUbS1FdHhQZk16RDVKMXJ4SENkMnloRFdNV3ROQ2VDZXBvQWhYZGZRZmpQZXNmTnRaNVVMSy1iV3dfWXpJXzcxQnMtZDMxYTZ4YXZnWmdOSUZyWGNmV1BFNDI5ckdBZGNsNkNMR2drMnFLTEw2bFpwVmllQ2V2T1pndUo0MGJ2TU1qT0YzNFN4eEh1alJxZEg0bEE4NjhFTmNVanZBTVVBLU5kVS1WUzF1bFVqZmxTaFBxYzg0MTlXN0R3TnBpdUZUOFlJRHM3UVk?oc=5"
         }
       ]
     },
@@ -270,34 +318,10 @@
       ]
     },
     {
-      "id": "222a4e18bf3b",
-      "title": "Tadalafila: doenças cardiovasculares podem aumentar riscos durante o sexo? - Rádio Itatiaia",
-      "published": "2026-09-16T15:13:09+00:00",
-      "summary": "Tadalafila: doenças cardiovasculares podem aumentar riscos durante o sexo?&nbsp;&nbsp;Rádio ItatiaiaDisfunção erétil requer investigação médica personalizada&nbsp;&nbsp;Valor EconômicoEreção ficou mais difícil de manter? Vale olhar além da idade&nbsp;&nbsp;tuasaude.comDificuldade de ereção depois dos 40 também pode ter relação com a circulação&nbsp;&nbsp;tuasaude.com",
-      "sources": [
-        {
-          "name": "Rádio Itatiaia",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSXc0VTBMWE5CZGpEaVBSVjEyb01oN256N0FKaWlVaV95WWxtZFpKZmg3TXdJUmlRQkdCbFVGTWh3eXlyLVJSTVBWYTRGQUNSYkNCVFNIMkV1NG1YVUtyZnFxNmtEOHJ1b3BOWEhoMDhnSW11emhicFE1NlFRUm1QUVo2bHhnbVdQYlQ4c2JvUGh0aEFUZ2pNeEhhbl80UDktTm5Ga05pN1h0MDg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "134ade80cf56",
-      "title": "Palestra em Cuiabá aborda riscos e prevenção das demências - MidiaNews",
-      "published": "2026-09-16T14:57:00+00:00",
-      "summary": "Palestra em Cuiabá aborda riscos e prevenção das demências&nbsp;&nbsp;MidiaNews",
-      "sources": [
-        {
-          "name": "MidiaNews",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWE55bTcyeVN3anc4WlBaRkN4eEZCSEdEMV9FNWtzTTU1c3hldHJvZ2lNcDI3WHhqVjhHNXljVzRqMXI1U09DeGJFTHpnZzZwd0poT1NZSXZ4TEpRN3k4cjhMbkxIa1dXclU5Y0J5SERyUmhkaUNMOWprTlVSZWxNYU8wSEIwVDU0LW5kLW9ld3JDcHEtbktIOGNzeW9mYWlhOVNyTGRuaw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "38e52bf89e49",
       "title": "Vacina pneumo 20 é ampliada para pessoas com 85 anos ou mais; confira como fica o esquema vacinal - agenciasp.sp.gov.br",
       "published": "2026-09-16T14:55:59+00:00",
-      "summary": "Vacina pneumo 20 é ampliada para pessoas com 85 anos ou mais; confira como fica o esquema vacinal&nbsp;&nbsp;agenciasp.sp.gov.brMais de 4,5 mil crianças são vacinadas contra pneumonia e meningite no Acre&nbsp;&nbsp;G1São Paulo amplia vacinação contra pneumococo para idosos&nbsp;&nbsp;TV CulturaNova vacina: Ministério da Saúde vai ofertar pneumo20 para quem tem mais de 85 anos&nbsp;&nbsp;gov.brSP amplia vacinação contra doença pneumocócica para idosos com 85 anos ou mais; veja esquema&nbsp;&nbsp;",
+      "summary": "Vacina pneumo 20 é ampliada para pessoas com 85 anos ou mais; confira como fica o esquema vacinal&nbsp;&nbsp;agenciasp.sp.gov.brMais de 4,5 mil crianças são vacinadas contra pneumonia e meningite no Acre&nbsp;&nbsp;g1.globo.comSP amplia vacinação contra doença pneumocócica para idosos com 85 anos ou mais; veja esquema&nbsp;&nbsp;EstadãoNova vacina: Ministério da Saúde vai ofertar pneumo20 para quem tem mais de 85 anos&nbsp;&nbsp;www.gov.brCuiabá inicia vacinação com Pneumo 20 para idosos a parti",
       "sources": [
         {
           "name": "agenciasp.sp.gov.br",
@@ -306,170 +330,50 @@
       ]
     },
     {
-      "id": "ada0e81fdbf2",
-      "title": "Primeiro Polo de Ciência e Tecnologia em Feira de Santana é inaugurado pela Funtitec - Acorda Cidade",
-      "published": "2026-09-16T14:45:53+00:00",
-      "summary": "Primeiro Polo de Ciência e Tecnologia em Feira de Santana é inaugurado pela Funtitec&nbsp;&nbsp;Acorda Cidade",
-      "sources": [
-        {
-          "name": "Acorda Cidade",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObWZ6cEs0QXI0cHgzV1lXT2h2bUVWUDlYTUs5QmkzTkpmV3h6N3U1NjZKMGRaRG96dDJpajVzNi1MUV93N2lOMXBILXZQaVFWU01rV3E5Xzl0MTZQenlWV0h2dnB4RzdxZzNMUUtUOUVIQkE5WGV4QWNuRDBraUxzTmtlOWpfVTNFNmxmZkdTTTBKNGpVUktndlZpQWtybmk2cl9IUzRQNW5XWk90bnVDZm1Ka2pjUTRXYlZLdmdFVHE4OFdfdlhrRzR3MDgxY1U?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1e87fa21a572",
-      "title": "Anvisa alerta para risco de deficiência de vitamina B6 - O Dia",
+      "id": "1efb82d148f8",
+      "title": "Anvisa alerta para risco de deficiência de vitamina B6 - odia.ig.com.br",
       "published": "2026-09-16T12:57:15+00:00",
-      "summary": "Anvisa alerta para risco de deficiência de vitamina B6&nbsp;&nbsp;O DiaAnvisa alerta para falta de vitamina B6 com remédio para Parkinson&nbsp;&nbsp;poder360.com.brAnvisa alerta sobre deficiência de vitamina B6 associada à carbidopa/levodopa&nbsp;&nbsp;costanorte.com.brAnvisa alerta para risco de deficiência de vitamina B6 em remédio para Parkinson&nbsp;&nbsp;Portal UAIAnvisa alerta sobre efeitos do tratamento de Parkinson&nbsp;&nbsp;jornalibia.com.br",
+      "summary": "Anvisa alerta para risco de deficiência de vitamina B6&nbsp;&nbsp;odia.ig.com.brAnvisa alerta para falta de vitamina B6 com remédio para Parkinson&nbsp;&nbsp;Poder360Anvisa alerta sobre deficiência de vitamina B6 associada à carbidopa/levodopa&nbsp;&nbsp;Costa NorteAnvisa alerta sobre risco de convulsões ligado a medicamento para Parkinson&nbsp;&nbsp;Gazeta BrasilAnvisa alerta para risco de deficiência de vitamina B6 em remédio para Parkinson&nbsp;&nbsp;Portal UAI",
       "sources": [
         {
-          "name": "O Dia",
+          "name": "odia.ig.com.br",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOWpGeVJQejRDbldQZWd1WHhCdC14SlFGZHlubExwOW00ZGN3elVMV1A0SlNRR05OdnZsVlIxN2xycWJTNTVaUllvQk5IX2hsRFRpZFVhUDgtUFFNMkJZQWN0NVBoVEdJd1MxZ2x2YncyQXNXZUF6bF92ZEhJM2hVLU5OMzFmdDRFRXkzZEh1bE5HMEdDWUxXUDFQSnJfSHB0Mk83aVMxazbSAa4BQVVfeXFMTi1aZEh2R0RpMzdZT3daY1lUUFlBYkt5cDYzOENZdndqQzRsaG9WbzlIT1B2QU1nVFpoaDM0NmlNak9aSmxGcGc3QjdqeHlpZmp2SkxFVjNwSW9IX3Q5cmRyc3Q1X200T2JfbjhiM05zTjNfZkxkMFdpZjlBYlZtVTdORUJfQ0RJMVJYaGlGX2VRWmRVdGtPZG5JM1YybllEVjg2UXF4bXJiS3ZZOXhB?oc=5"
         }
       ]
     },
     {
-      "id": "11ca54f4cc36",
-      "title": "IBM fecha acordo de US$ 1 bi com o governo para construir a primeira fábrica de computação quântica dos EUA - Valor Econômico",
-      "published": "2026-09-16T12:13:32+00:00",
-      "summary": "IBM fecha acordo de US$ 1 bi com o governo para construir a primeira fábrica de computação quântica dos EUA&nbsp;&nbsp;Valor Econômico",
-      "sources": [
-        {
-          "name": "Valor Econômico",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPaHVmZ09sRmNWTzF6MHJSX3NrdjFKaHNVcjJuY1J2blc2aDUzTEltMGI3cW82Nm5HeHBHYlVyYUJmOU5IVWJUMG53Mmx4WDh2U3NnNEpVX1didFBOd3RQSDJhNTVUYTg0ZWRXZE1EankyUk90Rkc3cTRtZWhpX1BudC1rNjJOQndoWk1mSjdXcFJfQUR5YjJOY0h6Z0NqT3RlV0dmZG9Ma3Eza2hzYWx6UnFjQlFybU5UdUlTWHdmSnhaNUI3Z0RVRWR1NTZRYkxJX0tjWl9qdnBDU2hlbmlnYnE2S1BCUEJhOWVaSnluYzkyT3FBbFZz0gGGAkFVX3lxTE1ELUUwNXluUndjdzJMQUlDckJqQVRmTTN5dDhkVUxYNG9Xb2xBY1ktdUNaeFhwd0RDOHlBUWFxYUl4QzBLbnB6YTlqLUxXQ1ZWNk1HSExvMFZseG9KNktKcWJieEV1ZlBuODhuVUEyVjFKaExkU1BvYmpFTjBOanUzRllJYnZVbWxXZEJCMGZQelhlQm1mYTl1a2g3aHhpYTJjcXAwYmVPV3p3NkJ6Y3BydGE3eEpYMk9oUk9vSGRMZmpYcXlOY28yeGV4SVA5cUVLajdCUHlVajBjdXprcnFCd3BkUkZiMHhXdHZPc1dxOWV5STlJMWoyMHZja2l3Zmx5NWhXNEE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "51f38c5311ef",
-      "title": "O que considerar na conduta da ‘síndrome musculoesquelética da menopausa’ - portugues.medscape.com",
+      "id": "56ac5e92c837",
+      "title": "O que considerar na conduta da ‘síndrome musculoesquelética da menopausa’ - Medscape",
       "published": "2026-09-16T11:58:36+00:00",
-      "summary": "O que considerar na conduta da ‘síndrome musculoesquelética da menopausa’&nbsp;&nbsp;portugues.medscape.comDores no corpo na menopausa: causas e alternativas de tratamento&nbsp;&nbsp;boca.com.brDores nas articulações aumentaram na menopausa? Entenda a relação com a queda do estrogênio&nbsp;&nbsp;Terra",
+      "summary": "O que considerar na conduta da ‘síndrome musculoesquelética da menopausa’&nbsp;&nbsp;MedscapeDores no corpo na menopausa: causas e alternativas de tratamento&nbsp;&nbsp;boca.com.brDores nas articulações aumentaram na menopausa? Entenda a relação com a queda do estrogênio&nbsp;&nbsp;Terra",
       "sources": [
         {
-          "name": "portugues.medscape.com",
+          "name": "Medscape",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR1l2UHczZHRwMEpXUzVIUUdvM2NUUEhGWWwtR2VCb0RMR0MtLU85TXpsUVg0RExLZkFWUFh4QmlPQlY2eDhBNTE0RVJBZTlydGNBdTZjbGVHcUNrMjdXR0x1QU8xczZmd2IyZGM5b05qOHpkaXItN2lxUDNBMXp4ekpTY1JpSXUzS0pfeXVSd2Q0RnNDZnB1OFRIQXJ6dmJKbWQ0YmxEbWVoZVRUb3ZETER3?oc=5"
         }
       ]
     },
     {
-      "id": "1dbbbd9e9e46",
-      "title": "Injeção semestral contra HIV poderá ser feita no Brasil; entenda - UOL Notícias",
-      "published": "2026-09-16T11:08:33+00:00",
-      "summary": "Injeção semestral contra HIV poderá ser feita no Brasil; entenda&nbsp;&nbsp;UOL NotíciasOpas anuncia parceria para ampliar acesso à injeção bianual que previne o HIV&nbsp;&nbsp;VEJAHIV: farmacêutica que desenvolve medicamento semestral de prevenção se compromete a avançar em negociações para produção no Brasil, diz Opas&nbsp;&nbsp;O GLOBOLenacapavir: Acordo pode trazer nova PrEP injetável ao Brasil&nbsp;&nbsp;campograndenews.com.brOpas amplia acesso a injeção que previne HIV para Brasil e 13 paí",
-      "sources": [
-        {
-          "name": "UOL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRUUxaHhFMEJSTDJYVGQ4WXJ2R0drWlFSZU9MZE0xN1M5ejJjSWYyMjR0MjlIZUtCalRycHl0Mko4cHZUQXBRXzVnNEJsQTlRbGtjZ3FWbnYyR2puY0lJX0JXdHVnOVpJMXd0aWpiWWxYejhsR01BZ0FiaGk5eDNWWl9Ya3ItOFBRTlNUWnlzRHQ3aHFsRkIwblctOGUteTBHekoxTnAwOFRtV3lUSDY5Q21veXZ6R3FaSVV2NUJZS25oMVctaDhR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "350e1728aad2",
-      "title": "'Fiz quimioterapia por 11 anos para tratar um câncer que eu não tinha' - BBC",
-      "published": "2026-09-16T10:24:56+00:00",
-      "summary": "'Fiz quimioterapia por 11 anos para tratar um câncer que eu não tinha'&nbsp;&nbsp;BBCVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WV2N3alR2WGI1T0o3c0dvZ2E2Y25GRzd5bERpeXNsYXZjenIwcHprVngyeXZKZmduc2JOMnU2SThxVU02cGptUUxqSU85UU9TOC1RNGs1eU9VckhPT0VwLVVPc9IBaEFVX3lxTE16dVBRZUF4b09SZ3h5WUdPM0poWThXSy03M2JjUEY5OEhST0thRWRydE5rUkFaVDN4dVhXMXNreWVjeVFsb2liUXQwZkg4cWdveG5feGJWaUF5VFFoQ0hEeXY5T1liT0NK?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "49ab14716c42",
-      "title": "Viagens longas podem causar trombose; veja dicas de como se proteger - Folha de S.Paulo",
+      "id": "5f8e97f315d7",
+      "title": "Dormir bem pode ajudar no desempenho escolar de adolescentes, mostra estudo - g1.globo.com",
       "published": "2026-09-16T07:00:00+00:00",
-      "summary": "Viagens longas podem causar trombose; veja dicas de como se proteger&nbsp;&nbsp;Folha de S.PauloDiagnóstico precoce da trombose previne complicações graves como embolia&nbsp;&nbsp;G1Trombose: varizes e sedentarismo são fatores de risco&nbsp;&nbsp;radionacional.ebc.com.brTrabalhar sentado pode causar trombose? Doença pode causar AVC e até amputação&nbsp;&nbsp;CNN BrasilMédico orienta população a reconhecer sinais e fatores de risco da trombose&nbsp;&nbsp;diariodoamapa.com.br",
+      "summary": "Dormir bem pode ajudar no desempenho escolar de adolescentes, mostra estudo&nbsp;&nbsp;g1.globo.com“Jet lag social”: horários de sono desajustados aumentam ansiedade nos adolescentes&nbsp;&nbsp;Euronews.comPsiquiatra alerta para hábitos que prejudicam aprendizado de universitários&nbsp;&nbsp;Diário dos CamposSono pode ser o segredo para melhorar o desempenho escolar dos adolescentes, aponta estudo&nbsp;&nbsp;portalgiro.comBoas noites de sono podem ser fundamentais para desempenho escolar de adol",
       "sources": [
         {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQVBqMmZ6MHFVQ21OY3BrVVFwSHBwVUN4TUk5Y2Z3M0lacEdvaEFsaDlUOEpKXzBjLXRyVUpzcE8wMEhWUXdOSzFLdTFUUlE5eFhFa255YXUwWUFmaGc4UENVOEhoMFdNcVhQNjlDWHNqSUg5R2tCRGN2VVBSYldNZEpLS29tajFqVmE0T3ZwN01GNGVTUGMxcFFsdkNxQ3NFd2cwYkxpdWdJTDRGT1BaTXR2Vk9ZM1Fsc2xmRHZtMHJrb2RTd3hn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b2cf74cfb31c",
-      "title": "Dormir bem pode ajudar no desempenho escolar de adolescentes, mostra estudo - G1",
-      "published": "2026-09-16T07:00:00+00:00",
-      "summary": "Dormir bem pode ajudar no desempenho escolar de adolescentes, mostra estudo&nbsp;&nbsp;G1“Jet lag social”: horários de sono desajustados aumentam ansiedade nos adolescentes&nbsp;&nbsp;Euronews.comPsiquiatra alerta para hábitos que prejudicam aprendizado de universitários&nbsp;&nbsp;Diário dos CamposSono pode ser o segredo para melhorar o desempenho escolar dos adolescentes, aponta estudo&nbsp;&nbsp;portalgiro.comBoas noites de sono podem ser fundamentais para desempenho escolar de adolescentes, ",
-      "sources": [
-        {
-          "name": "G1",
+          "name": "g1.globo.com",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbTR6b3o0QjBWR3Q2dFZiT29BVE14NDJWQzBqZ2lfYld0TVhFVHNEUVNRcTd4QmlWT0tGbC13VWtyaWYtNDJVYlVPWW5JNzF0bEZLbzVQSTZhLU9WNWQ5T19pSVAzM2Y1bUlUNkhzSjVjRUJmVWNwQmtUYUp0UnRzYzdkVjQ1QS1HZXZWbjcwX1hOa0UxUE54T0RZenkxeVdjVUdYV2lnbVBHNUxKQ3Jha1d3REpuZWZ5bTJDcmlHaEF4Z09SUnZTadIB1wFBVV95cUxOTGw2NFVvbkNmYlM2LXptVkpRWXRfaHR6Vkp6aDZKdlpuZnkwanBNVlRjRzBUWlc1NGlia2ZFMmVRNHlNUDhRaGkyWXFpZ3dUVU44MFpZdmFYY3JIYVNMX0w0NmZxellXWDA2WHY0LXV2QlNFenNhbFRpNlJqdXhpV2Z3bnBGQUxpc3VqT1NiMHpIMWpRU3hZUTlsQlIwNkJjSl9mUy0tbkJrWGtyRWZMYXJlNHdnM1VVY200RWhYRGhQZF8yOE1lUndweG5PNmVVd2Viby05SQ?oc=5"
         }
       ]
     },
     {
-      "id": "2c5206acdba4",
-      "title": "Estudo detalha evolução gradual das defesas químicas em rãs venenosas - agencia.fapesp.br",
-      "published": "2026-09-16T03:02:39+00:00",
-      "summary": "Estudo detalha evolução gradual das defesas químicas em rãs venenosas&nbsp;&nbsp;agencia.fapesp.br",
-      "sources": [
-        {
-          "name": "agencia.fapesp.br",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU3Q1Mi1tV0dGOFZqdE4xSUFQNkNiSy1UR3FSU01aTm04dmptU3BfT1hfTzd4LXppVFNSQ3luZ2VGbEwzalRSdV9VQkhTSi11RktMakZXelV3aU1haDFZSkpZZDBmSFJPTU1TckF6elhaMW5yRm8xdS1kVFIwZXB1bUlrMjFGcU1xdEV3dVBYTVA1Q0dTbndVTER4U1BoQVN2ZVgw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "74a586239cb9",
-      "title": "Caminhar é ótimo após os 60 anos, mas esse exercício trabalha o corpo inteiro: ele protege o coração, fortalece músculos, melhora o humor e ainda preserva a função cognitiva - xataka.com.br",
+      "id": "e1915408df5c",
+      "title": "Caminhar é ótimo após os 60 anos, mas esse exercício trabalha o corpo inteiro: ele protege o coração, fortalece músculos, melhora o humor e ainda preserva a função cognitiva - Xataka Brasil",
       "published": "2026-09-15T22:56:04+00:00",
-      "summary": "Caminhar é ótimo após os 60 anos, mas esse exercício trabalha o corpo inteiro: ele protege o coração, fortalece músculos, melhora o humor e ainda preserva a função cognitiva&nbsp;&nbsp;xataka.com.brO que fazemos aos 40 conta aos 70: nove hábitos para uma longevidade com saúde&nbsp;&nbsp;ExpressoAtividade física regular ajuda idosos a preservar autonomia, mobilidade e qualidade de vida&nbsp;&nbsp;Jornal O candeeiroNem só caminhar, nem só nadar: as atividades que ajudam a cuidar da saúde após os 6",
+      "summary": "Caminhar é ótimo após os 60 anos, mas esse exercício trabalha o corpo inteiro: ele protege o coração, fortalece músculos, melhora o humor e ainda preserva a função cognitiva&nbsp;&nbsp;Xataka BrasilO que fazemos aos 40 conta aos 70: nove hábitos para uma longevidade com saúde&nbsp;&nbsp;ExpressoAtividade física regular ajuda idosos a preservar autonomia, mobilidade e qualidade de vida&nbsp;&nbsp;Jornal O candeeiroNem só caminhar, nem só nadar: as atividades que ajudam a cuidar da saúde após os 6",
       "sources": [
         {
-          "name": "xataka.com.br",
+          "name": "Xataka Brasil",
           "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQZnFuQkZNZTl2TTZlRzZ6N28zdXdaV25sT3NfZUJwUXpJWWNvMWVQREJjRmYtd3FTV0RkYVMybzZtXzBaeFh6MXJVcUJPOFljN2JvQ3NMUXMwNlVJaXdmZ2VyeDRlLUt3b181R1h0b05QVlRSdDVaWk12Z2hUV0VRWk1vd3I4d19RdjdSME9oRk45VEl5VmRUMEE0T2I1V0RxSmRTczVPZV9Dd1hmbm1KbS1zb1MtY0xSS25WYlZSdTd1RUtqSGo1QkVDakJHUDJSOS1IUGJPbkZUamxLWjBjREd5bmpicHRmTnJGbHg1YVktU0hpUU9IOGszelk2a2Z5bTJtRDMtb05CZXgyaTFUX0t6dVFjaFhfTFE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7c0f0a629a41",
-      "title": "Vacina atualizada da covid-19 é liberada para novos grupos no Rio - O Dia",
-      "published": "2026-09-15T18:47:27+00:00",
-      "summary": "Vacina atualizada da covid-19 é liberada para novos grupos no Rio&nbsp;&nbsp;O DiaCovid-19: Rio amplia vacinação contra a doença; veja quem pode se imunizar&nbsp;&nbsp;O GLOBOTrabalhadores da Saúde e pessoas com comorbidade podem se vacinar contra a cepa LP.8.1 da Covid-19 nos postos da Prefeitura&nbsp;&nbsp;diariodorio.comVacina atualizada da Covid-19 é liberada para novos grupos&nbsp;&nbsp;vozdosmunicipios.com.brRio de Janeiro amplia vacinação contra covid-19 para idosos e trabalhadores da saú",
-      "sources": [
-        {
-          "name": "O Dia",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZVVLUkxUZnlYci1ZNW10Q2Q0T0JiWmNCTkZlRFRybTJIcnlUU1pjeVowRDE5MWhUbjNBbkdwNWtuWXdVTDliUEtyMzZFUGIxZE9CSVVHOE9UaTAwblpQWllPME5TR2VZclpYVExtUlpEMW5FQjBUc0R6N01OVjVkTGQ4TnBBdGhBOVJ2OWE3Zk5kR05DWjBHQldlV0Y1YWctQ1JScFAtQ0Z6WC1HS2RiQ2F0WmtMcFpsWGlkRnp6MnJHQdIBxwFBVV95cUxQUlo2V2JPQVBBSGJIS1JvaTRDVEdmd1k5UEZsOHdDMjNBTEVYQzI0c3d1XzU1ZUZ0VlVLLUJRWGN1ZlRGVm92NFhEVlloaWh5Tk5NN2ZLajdVX3NmMWhkTnBqdGJWUmxiaGl0SFFXcmZ6emhkM1B4YVFlZHhxWmNTal9UQnVoQnpFZ1FaYjdfblhrU2ZOMDcySzBkZlQwaG1FNFlQTkhrOXVzcTBHSkNSZ3F1cERWRHRJZndaQUtzWjVGVDdnRWFn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7d758f81a4e6",
-      "title": "Psiquiatria não é só cérebro: como a saúde física interfere no tratamento de transtornos mentais - drauziovarella.uol.com.br",
-      "published": "2026-09-15T18:02:05+00:00",
-      "summary": "Psiquiatria não é só cérebro: como a saúde física interfere no tratamento de transtornos mentais&nbsp;&nbsp;drauziovarella.uol.com.brSetembro Amarelo: Exercício Físico Ajuda na Saúde Mental, Apontam Estudos&nbsp;&nbsp;TerraAgência de Comunicação - Setembro Amarelo: praticar esportes também é uma forma de cuidar da saúde mental&nbsp;&nbsp;Estadão Blue StudioAnsiedade, estresse e isolamento: veja 10 hábitos que podem ajudar a cuidar da saúde mental&nbsp;&nbsp;Jornal CorreioVÍDEO: Psicóloga cita há",
-      "sources": [
-        {
-          "name": "drauziovarella.uol.com.br",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcWdPcF93U3ZaQVhockdkR2ZCX2U2aFZwLWV4Z01XVEx0ZVotczhkeTJUTDFJUUtFU0FlU0pMaGxQbDREU0lTWXFxc2RKVmVTMG1jNmEtZVpYNWNFUDhqMWVrN25ScGJnRjZsY2N6bmxJMHNUTVE0Sld2clJjaFNlcmlnbk85dFpBNXNqc2JWQnk2bFk2cFI4M2pkaE0zcW1uOUdBalBHenpJZlNvSEdQVGMtNjdLWmFzdTBrTnZRdUFqZndzX25TdEY5N29COFlUQThFeTR0YkttUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0efe6a9eddf3",
-      "title": "Por que há o temor sobre IA acabar com a humanidade — e existe mesmo o risco? - BBC",
-      "published": "2026-09-15T11:31:01+00:00",
-      "summary": "Por que há o temor sobre IA acabar com a humanidade — e existe mesmo o risco?&nbsp;&nbsp;BBC",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBScGdjZ0lXc3FSc3FzZnVNNUNHU1NsMW9PMVNqMkVENEk4RGdOb2RtMUNrSU1fMlVzRHJNUDQwd3RYVDFBUVVYMXJzcWZRNmstNGxSQ1U0SGkxeHBCa2RUak1DVdIBaEFVX3lxTFB2cnhOdzd5N0FRUjRmMXNINHNVa3NqNkZyTk12SV9rZjFlQTdTM001RVdNdzJLQmJELVZmVUdtWFZGeGJtcjFyOVFGb29Ra2JGbV9KaHVud0lNQmM0eUJjWGRIMERBVG96?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b1d68d66f612",
-      "title": "Sono: como o ronco do seu parceiro pode prejudicar sua saúde - BBC",
-      "published": "2026-09-14T09:09:08+00:00",
-      "summary": "Sono: como o ronco do seu parceiro pode prejudicar sua saúde&nbsp;&nbsp;BBCVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CelVZMXF1Zmp5T2Nud2ktS1hPM1J0TU9OdnZIZ2xhQmd6cm81dVI0SWozb2NvQlQ5eEZiM1B5LW5TMy0wd3FTbGRCSndtQW5aZ3JyZXhVd1BuUHQ5UkcweTR30gFnQVVfeXFMTWdnUHhBdllHejRDczZmYlRBbzhBT1BaQzNHRHFsbW1nNjVTbVdnN1Z0X282TGRoaVUtQjZsLTFsd3NzYUwzWjVqb1k2RHM2Z1NkMjFvd3BKUEU3NmlXMEtXa21SWllkWQ?oc=5"
         }
       ]
     },
@@ -486,13 +390,13 @@
       ]
     },
     {
-      "id": "211756f844b4",
-      "title": "Anvisa aprova 14 novas canetas para diabetes e obesidade em 2026; veja quais são e seus preços - Folha de S.Paulo",
+      "id": "1c6197ead3ab",
+      "title": "Anvisa aprova 14 novas canetas para diabetes e obesidade em 2026; veja quais são e seus preços - folha.uol.com.br",
       "published": "2026-09-14T07:00:00+00:00",
-      "summary": "Anvisa aprova 14 novas canetas para diabetes e obesidade em 2026; veja quais são e seus preços&nbsp;&nbsp;Folha de S.PauloA caneta de semaglutida vai destronar o comprimido de metformina?&nbsp;&nbsp;VEJAAnvisa aprova dois genéricos de liraglutida para obesidade e diabetes e amplia concorrência&nbsp;&nbsp;O POVOHypera amplia estratégia do Semavy para além da caneta&nbsp;&nbsp;Guia da FarmáciaCanetas de semaglutida: Anvisa aprova 14 opções em 2026&nbsp;&nbsp;Agora RN",
+      "summary": "Anvisa aprova 14 novas canetas para diabetes e obesidade em 2026; veja quais são e seus preços&nbsp;&nbsp;folha.uol.com.brA caneta de semaglutida vai destronar o comprimido de metformina?&nbsp;&nbsp;VEJAAnvisa aprova 12 novas canetas para diabetes e obesidade em 2026; veja preços&nbsp;&nbsp;ICL NotíciasAnvisa aprova 14 canetas em 2026, e fim da patente derruba o preço da semaglutida&nbsp;&nbsp;Agora RNHypera amplia estratégia do Semavy para além da caneta&nbsp;&nbsp;Guia da Farmácia",
       "sources": [
         {
-          "name": "Folha de S.Paulo",
+          "name": "folha.uol.com.br",
           "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRk5BbnhzR0swYTJ1bENFRGtqY1lKU3A2Tk9keG12ZWFtT01yejBRbUJ5amVEQjRQTHRCc19qdTVPOWRBUDZYNm9NSjJfMEQ4SU5GSkRWZG9Eak1aZUo3S1pYQU56VTNmOEtwWVcyRkVrSzJDcjh6d0FZOC0xQUJMazNVVWdSTG9SYkxjUjJTOHVOZVJmLXR3cFhvSEJIYjExZWlldnpkWWJjOWgxeDJUTTRWU25SLVo1d1A1engyamVWeHAxSkJPcWE3U2VpN3QyN1dMR2NkTzRxQTh0ejJXR2xXaUs2dTN1anc?oc=5"
         }
       ]
