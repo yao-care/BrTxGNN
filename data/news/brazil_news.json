@@ -1,43 +1,91 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-09-18T16:00:31.250280+00:00",
+  "fetched_at": "2026-09-18T20:34:07.927726+00:00",
   "total_fetched": 100,
-  "unique_count": 98,
-  "health_related_count": 35,
+  "unique_count": 99,
+  "health_related_count": 37,
   "news": [
     {
-      "id": "ded48e83df89",
-      "title": "Estudo mostra combinações perigosas de remédios para idosos - Tribuna Online",
-      "published": "2026-09-18T10:21:22+00:00",
-      "summary": "Estudo mostra combinações perigosas de remédios para idosos&nbsp;&nbsp;Tribuna OnlineVeja mais manchetes e perspectivas no Google Notícias",
+      "id": "cb3e74e89189",
+      "title": "Mulher tem ausência quase total de gordura aparente causada por doença rara; entenda - oglobo.globo.com",
+      "published": "2026-09-18T19:37:10+00:00",
+      "summary": "Mulher tem ausência quase total de gordura aparente causada por doença rara; entenda&nbsp;&nbsp;oglobo.globo.com",
       "sources": [
         {
-          "name": "Tribuna Online",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdkNDUHQxU0ZRSTQ2SXhIXzBvT3hKQ0RZaFVYSlFfVXp1QWJ1NFR3LXNnMXNOZzlOYTNYOHhGb1hXQ1U2TzNvTHJHS2s1XzB2c1RoeTVfeVNhRjZ5UjRuQldtMHo1aXZtX1RCUmVYMldIeXp6N2FtSVhZSEM0OWNoLTl6WXZyM0JvVVpIell1UzNjZExLTmxLZ2hPLTItR1Z1c0130gGrAUFVX3lxTE1ibGhlbWpYbkdtZmpaZG9fM1hzRDFoaEtTR3ZyZHRIdnFhdUxEYjRvSFg4V3kycjlmVUpUZF9HenVMeU9wTi1LWHB0aEJUc0FIM2NxYTdXNUFmbUQ3NmJGVmJBQnlxeXpCdWI0ZFpQbTRMRUpNdi1ZVkFteDdLQlVYbzIwT3hGNXc4Sk5fNlprdjV2NE5iWjZDVWRaNUdZUV9WRHM4R0FqM3g3VQ?oc=5"
+          "name": "oglobo.globo.com",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOclRPOFRjVlI1cmIyZHd3ZlFnLUNIS2ZMSGtsTjFjMndLb2dfWDFLWkJUa3Robnl6c2FpVjk0bFhKR1lVSzdteFo1OHdHQmRWM3NTaXUtWDRucllkeWNXcW1YRmNzSW9kMF95RHA5RDlfaVI4NXlwZFRHaS1DSTVacVVEYUJEVTBCWk1peThyWGlkR3lsNldsdmdLOUk4Sm9aYm1pdnlFVTN3ZjRYbnFQcHhWa1JTUEdlOVJUNFlubjNRZ3ZndHNQTC1FXy0yZXhsTjJjMWJn0gHkAUFVX3lxTE1QR3VCTmI2LVE4d2dxd25PRXdFRUQxNDgxdVJvbXlSdDhDWEFGM0VZWDZTdTVFei12VERkbTl0UWV0ZmFJM0pkbDZwOXg0SWpLaWtfLWJPcm9PQnUyQW5mS2R4RmRLLVdBU0kxdmtEWDVHQTJNR2JTUldlVVVoeTVZd0R5VWxKNzFVX1dlQXFoNVFDeVA3VWdfY2E5dmFHMXZGUzJfRWdfd284UWVpUlRGUUdKMVJuNHpZaXNmNHZsQkt4bzN4QW9ORjJkSzA2bjM1V0hZcmNPaFlTeldZbFFFa2NQbA?oc=5"
         }
       ]
     },
     {
-      "id": "68b7297f5717",
-      "title": "Vinte mulheres tiveram mamas removidas sem necessidade em tratamento de câncer no Reino Unido; entenda - O GLOBO",
-      "published": "2026-09-18T09:27:47+00:00",
-      "summary": "Vinte mulheres tiveram mamas removidas sem necessidade em tratamento de câncer no Reino Unido; entenda&nbsp;&nbsp;O GLOBO",
+      "id": "1e7b1cd6a70d",
+      "title": "Vinte mulheres tiveram mamas removidas sem necessidade em tratamento de câncer no Reino Unido; entenda - oglobo.globo.com",
+      "published": "2026-09-18T19:28:22+00:00",
+      "summary": "Vinte mulheres tiveram mamas removidas sem necessidade em tratamento de câncer no Reino Unido; entenda&nbsp;&nbsp;oglobo.globo.com",
       "sources": [
         {
-          "name": "O GLOBO",
+          "name": "oglobo.globo.com",
           "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPUExmSU1MdmlWLWEzU20zaGJ1SlBPXzFSa0RQOWxjbHhCaXFqREdaNEplQlNTWHNJNndwc3VtUzlGNmE1Q19jRnJ6czlpYkZoUmlYWkM2UGRRc3lSUGJoakl5dGVXemFhNkZDSUpoTWY1TGFMd2VOdUl1V012VElMSEFkM1FqMlQxeDlEeWx1ZENrWFMyeWd5U3ZDUlBvXzdVNXh6VzJ2WlpURTVkcl9oQzdFdzNsYlJRNUZhREpZZ053SGtweHZBLXlsd25wS2FhVDRhLVBONW5jcW45akNVck5vbDN1UEVTYmNtSVRQcm9QZ0F2eVpCVk9VNUN3a3RlaXoyWXpibUHSAZcCQVVfeXFMUFZKeDR3TGxCc2dDNWVhN1pHWXVleVFiWFFtWGdzWTVrT2tyN0E0S19IRGNZLVM3eGk3NXZWREJNLTI5My1PM0JZZDRxc1M1dmx0ZnFfemR4by1iNml1czAyMDZHSTRnU0tNZFkyUHc3Y3dsd0c5YWJXRW9jNm95RGJlR3RtaW5yOFl0eEdGN2JNeENyZXo1UFluM094QkZreHdSakNRNWtxRjF3dnZ6cXRUOVpGYllkaUh4S1g3LWFjalZGMGMwQ0JCZUJSNW5kMi1aS19yMVh6VTdmSllDSkZEV0hBOC00X1YxUEdYRDNhSV81akVfcE9Ick1nZlFmZFktUkhEbzZCTTJiZFBXSXk0ZF85MWpN?oc=5"
         }
       ]
     },
     {
-      "id": "e3e8e345c1eb",
+      "id": "b125afaea90a",
+      "title": "Parceria inédita aproxima pesquisa da UFSC e mercado de Biotecnologia - Notícias da UFSC",
+      "published": "2026-09-18T18:48:00+00:00",
+      "summary": "Parceria inédita aproxima pesquisa da UFSC e mercado de Biotecnologia&nbsp;&nbsp;Notícias da UFSC",
+      "sources": [
+        {
+          "name": "Notícias da UFSC",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSlI5X3hMRWZrQkZRU0N4S3JnQTRMcGNBUlgybldSNHNUMzFobGlDQkg5b1hqZ0VuTTRXbXpBLWxYc2piS0JCVlVEMEp3QzlQME80VUVqblhqM19FNmRkQ3Y0QkJ0X0hmcUdrUVp3cmRTUDNzSVV3WkVPRmplZ29ycnp0d0lidC1FSEg5ZXBBZVNQeXluZG95RUozQVUtWW5keHFTQWx3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b0193b538127",
+      "title": "Você dorme com alguma luz ligada? Estudo revela que dormir na escuridão completa pode alterar a estrutura do coração e cientistas recomendam mudança simples para proteger a saúde - Terra",
+      "published": "2026-09-18T16:37:00+00:00",
+      "summary": "Você dorme com alguma luz ligada? Estudo revela que dormir na escuridão completa pode alterar a estrutura do coração e cientistas recomendam mudança simples para proteger a saúde&nbsp;&nbsp;Terra",
+      "sources": [
+        {
+          "name": "Terra",
+          "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxPZ1VzSEh5SndTWHRPMmRwYUM0MDZfdG1xUWF6cGFPeVdlemFraUlBYUN3ejBsQnIzV3hyUHhaZXJSOEgxdHFOOWZuSDBEOHg1RUNrQnMweEZWcDNyMDFQQjFuRzUtLXVfX1B4VTd6UGVJamZhMTFsd2ZqUGdQaElORHVOY2ZjTi1PSTJ4SXprTTJXSC1YSU5DajBDamZWT05zZS1kYnUwMnBWd2JXamRoRzFGSUl1am5iZkJuM0p1R0ZiQS1CMTFWd1JsaThxOWtTTDNkVFhEZnVER25kVEx4MUttbHYxNmE3d2Y1MEM5OGQ0NjQzeVNBZGtlSVZjaWFfVVpLQms5NGd3VTZFMGQxRG51UE5keVIya2Z4bkNyYjR0SG1oWXFPZHpNVjVPS3ZvNVZfcWlEM09HTXJBOVN4TXowSTIyWE9QVDE5QWlIaWhiM1JCel9CbDcwa1VIc3Z6eUV6cGwzVVJCcFU0Tnk1dFpseVFCRzBG?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "84191550f20e",
+      "title": "Atividade física produz novos neurônios (o efeito começa a partir de 3 meses); mostra novo estudo - oglobo.globo.com",
+      "published": "2026-09-18T14:12:45+00:00",
+      "summary": "Atividade física produz novos neurônios (o efeito começa a partir de 3 meses); mostra novo estudo&nbsp;&nbsp;oglobo.globo.com",
+      "sources": [
+        {
+          "name": "oglobo.globo.com",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWWY0WTU3NDVFZnhaTjlTTThSNy16TnBxVkZPbEJTdlA1NnVpYVRwbXI4NlNSeXRDQ3pVOFlraDhjZHc4YWx4RDhMZ0J1LXJpWThmQzhldTdEdmNGeXZGNzA0N0JZQ2k4UWczZmhpcVMzWEV0T2htRE9IcVZla25PeHdfMVJDYk8xcDkzYU5odEFkMUVsUHZYSUhFMEM3a2tfUXI5Vk1tYUtINzBHcWQtT0Q5Y01saVU0U0pkMUZyS294TF9lTnBWTXY2d19kbVhVWExOb3lEVFkyaWdsV1JtS0lRVW3SAfMBQVVfeXFMTjNqRVJleU5UdTd1dUt3c1NQRElMUjNucGZKcFVrNUNfWXkzTlJBOGdsdWFLcFZkQTBkbElsWDI5TnFtTWxlaXpmLV9Dbm1rZktFUjVmTUFPWXhLRTJGbm9FMllTOTB4Z3EwUmVxUnQtZEpxV0hfRUdPT19DYmhZeDNpNkVudUo3QXRGaExaM0hTWUVoZXVTamx1d0pNTDVYTjhBRGxmNjZEcE1aa0ExTHJ2MnRnQ0RnSnJjLUJjd014cHhxY1FwWkJvREhjU2RsY0NuOGs5MUZnS041SWxGVDZ0SlgyUEpmSExLaXZURmJadlZr?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "662dbfce967f",
+      "title": "Estudo mostra combinações perigosas de remédios para idosos - tribunaonline.com.br",
+      "published": "2026-09-18T10:21:22+00:00",
+      "summary": "Estudo mostra combinações perigosas de remédios para idosos&nbsp;&nbsp;tribunaonline.com.brVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "tribunaonline.com.br",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdkNDUHQxU0ZRSTQ2SXhIXzBvT3hKQ0RZaFVYSlFfVXp1QWJ1NFR3LXNnMXNOZzlOYTNYOHhGb1hXQ1U2TzNvTHJHS2s1XzB2c1RoeTVfeVNhRjZ5UjRuQldtMHo1aXZtX1RCUmVYMldIeXp6N2FtSVhZSEM0OWNoLTl6WXZyM0JvVVpIell1UzNjZExLTmxLZ2hPLTItR1Z1c0130gGrAUFVX3lxTE1ibGhlbWpYbkdtZmpaZG9fM1hzRDFoaEtTR3ZyZHRIdnFhdUxEYjRvSFg4V3kycjlmVUpUZF9HenVMeU9wTi1LWHB0aEJUc0FIM2NxYTdXNUFmbUQ3NmJGVmJBQnlxeXpCdWI0ZFpQbTRMRUpNdi1ZVkFteDdLQlVYbzIwT3hGNXc4Sk5fNlprdjV2NE5iWjZDVWRaNUdZUV9WRHM4R0FqM3g3VQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "175d26dab32f",
       "title": "Chuva que não para e tempo fechado: como isso afeta a saúde mental? - Estadão",
       "published": "2026-09-18T08:30:00+00:00",
       "summary": "Chuva que não para e tempo fechado: como isso afeta a saúde mental?&nbsp;&nbsp;Estadão",
       "sources": [
         {
           "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWVgzZEZLVjR6eXNBVlF0X0N0WWJXOWVjMWpwdlljNjZVMF9mZ3lZdnlHcE1yQmpfN2lCMkF0TFZNeE5PT3BHTy10V0JsZm44Ymctc1FmTkh4c2M3YzRVQjdFc3NtMV9LZHZYbXBkbTdKblF5Z1ZwZlNlb09ESGRYb0FoekZ3cjlVSF83X3lwenhjbFpjYlVfcGhNU3Y2bXEwbWVuTi1PWWpLQl9QOFJQN0JFNDE2Z9IBuwFBVV95cUxQTjJ0LV9iTGEwckpsLUZTU1NqSmRibXpjZVNPYThJZnZ1NVdnR0NWTWRGUVA3WUh5U3d4WWl6SWNMSkVSQ0pkM2F4dGdjNWdmc1dldUdQSTU2Y2Yzb3JFQThWVl9zeTJiSHhDT05YUGFXNFVUV0xfMi1rLWttTGIxUFNkTW9LOU5VLVp6enpYMjNaQk9PYS12VDVqYTE1NDlZYzNENVRiTDRfTC13SmcyNWFxNHBnWjRCdHZZ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWVgzZEZLVjR6eXNBVlF0X0N0WWJXOWVjMWpwdlljNjZVMF9mZ3lZdnlHcE1yQmpfN2lCMkF0TFZNeE5PT3BHTy10V0JsZm44Ymctc1FmTkh4c2M3YzRVQjdFc3NtMV9LZHZYbXBkbTdKblF5Z1ZwZlNlb09ESGRYb0FoekZ3cjlVSF83X3lwenhjbFpjYlVfcGhNU3Y2bXEwbWVuTi1PWWpLQl9QOFJQN0JFNDE2Zw?oc=5"
         }
       ]
     },
@@ -54,25 +102,25 @@
       ]
     },
     {
-      "id": "c2c2859ddbcf",
-      "title": "Quando a ansiedade adoece o corpo - O GLOBO",
-      "published": "2026-09-18T07:30:01+00:00",
-      "summary": "Quando a ansiedade adoece o corpo&nbsp;&nbsp;O GLOBOSaúde mental ganha espaço na medicina e expõe novos desafios&nbsp;&nbsp;FOLHAMAXTerapia no celular? Apps de saúde mental ocupam cada vez mais espaço&nbsp;&nbsp;band.com.brConsumo de remédios para saúde mental dispara no Brasil e psiquiatra alerta: 'Nem todo sofrimento precisa de medicação'&nbsp;&nbsp;Jornal CorreioAnsiedade: quando a preocupação deixa de ser normal e é hora de buscar ajuda médica&nbsp;&nbsp;Jornal da Franca",
+      "id": "65bebfbc1fa5",
+      "title": "Creatina pode ajudar o cérebro após uma noite sem dormir? Estudo revela efeito inesperado - Terra",
+      "published": "2026-09-18T07:58:00+00:00",
+      "summary": "Creatina pode ajudar o cérebro após uma noite sem dormir? Estudo revela efeito inesperado&nbsp;&nbsp;TerraCreatina tem efeito contra a privação do sono; entenda&nbsp;&nbsp;oglobo.globo.comBenefícios da creatina além da academia: o que a ciência tem investigado?&nbsp;&nbsp;Assine AbrilCreatina pode ter efeito contra a privação do sono e até a depressão; entenda&nbsp;&nbsp;CNN BrasilCreatina: Novo estudo analisa os impactos positivos do uso do suplemento no combate aos efeitos da privação de sono ",
       "sources": [
         {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWms2bUNVN3JuWU9ldWZJUEVQU25xTlVpU3Qwb0lTYXViSGx1VEVRdzFxRl9vbndBRGlTVGVlajlsekxiLTkzQlFlOVVpUzFmY05RMmlRTFc0WHBGeFVzNDZiU0lUT1YzaGxzUXFDQWJjclZObFI5N1dOSUNoZVY2RUdkTHFaaDA4LVlGN3NncG42WXJuc2w5MXlFSEZtOUx30gGvAUFVX3lxTE5tSGJkaTJZcGdBM1M4bjllVUNCOXR0VzNoWHpsUV9uRU4xZ08tb0xkbVFYbkFkeUFiaVhrSVhVVk5oRTAweWNPWTZMVkZEODdmcFA0VHVpTzRUbVk5cUcxZFpBM09LbGVOZjUwMFRKbGgwdTRXcnlGTk5wa3NvcDlKbmF2dTRjN0FVanRiQ1hSMUp1Yl9ZQ1RNNUVCcDB1T3RzWTNqYU1meFZDQS00X2s?oc=5"
+          "name": "Terra",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQNGtGcnkyM2wtS3VnVG9mSEtlcjVMbFJ2Qmc1WFRYVXFzWnZXcHB5MUMyckRfYVpPd0lKd0tfWHdmeDBTM1VwU3NXSnBvd2RpVlZDdDVaQXk5SlFLTmU1VGFkY3NWMWtQSnNoT2lZV2NFWUNwYlVUb3k5VFdiMTZmVGdkZ1hyX3I2V2ZBcnYtRzhXeXhVdVFaY0ZLQ2VkZ09QZURRTFlQWnB5OURSSGNuSE5la0YxVGxvY2MwYXFQaVJja1VvZ1VST1RhaHMwLUJmRm5RRUpxVVd1eG1lNmxkNVc2VXN2RG5UUjN2TGd1ZzFwQWxRRDVkcXhpUlhPdXlyOUVuMm9YY3pxVUU?oc=5"
         }
       ]
     },
     {
-      "id": "7115cc9ae5ca",
-      "title": "É possível sofrer um ataque de morcego? Caso raro em Ilha Grande (RJ) vira estudo científico; saiba mais - O GLOBO",
+      "id": "6dc9ec5dd639",
+      "title": "É possível sofrer um ataque de morcego? Caso raro em Ilha Grande (RJ) vira estudo científico; saiba mais - oglobo.globo.com",
       "published": "2026-09-18T07:00:01+00:00",
-      "summary": "É possível sofrer um ataque de morcego? Caso raro em Ilha Grande (RJ) vira estudo científico; saiba mais&nbsp;&nbsp;O GLOBOHomem é mordido por Morcego em Ilha Grande, no Rio&nbsp;&nbsp;iG Último SegundoMorcego 'vampiro' ataca e suga sangue de morador no Rio de Janeiro. Caso vira estudo científico&nbsp;&nbsp;CNN BrasilCaso raro de ataque de morcego-vampiro no Rio acende alerta sobre raiva&nbsp;&nbsp;Diário do Centro do MundoBrasileiro, morador do RJ, alega ter sido atacado por “vampiro” e cientis",
+      "summary": "É possível sofrer um ataque de morcego? Caso raro em Ilha Grande (RJ) vira estudo científico; saiba mais&nbsp;&nbsp;oglobo.globo.comRJ1 explica sobre raiva transmitida por morcegos nesta sexta-feira&nbsp;&nbsp;G1Homem é mordido por Morcego em Ilha Grande, no Rio&nbsp;&nbsp;iG Último SegundoMorcego 'vampiro' ataca e suga sangue de morador no Rio de Janeiro. Caso vira estudo científico&nbsp;&nbsp;CNN BrasilCaso raro de ataque de morcego-vampiro no Rio acende alerta sobre raiva&nbsp;&nbsp;Diário do",
       "sources": [
         {
-          "name": "O GLOBO",
+          "name": "oglobo.globo.com",
           "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSFdHbHpmSWxKdGR4bUQ1bHpma1pNQU9Wc3p4T2RXZVlwZjBfbjhhUThwb1pvMWQzaGdKM0NfTDZsMkNCOTMxT3FfTmNDdzFITW9ISGs4cTN1S3YxdmRseDVhRVNLSzQxNWJES3FObWU3VFozQUIwOTV5eVVPMW9pZjRYeHVXTjdPcU1sS2VnLWQzV3luU3BiN0ExcmpkdzRwTkpVbWJSRHk1ZDVNeVVMenBseDU2OGRqSEt4czgyaTd2NzFwemtKMVk2SXRTWG1JcFl6UTFFeU5kU2ZjWXVpRlJqaXpaRV9qajlubTg4VFFxczZPalNj0gGGAkFVX3lxTE5nVVIycUl4amJmMlZCS19yekljazZwRkM5aVpvS21MUzNfWkdlbWozTktobUtrdjJjY3paN281WV9WeW9pVVI3YUhJZjBsMW9udUV0cDhnbks1Nm9EZ0FZMElXS3lKeTcweUpPby1tVjdHSmd0eHdRemlJeDl2UEx5Zk90WWZnYzZVMHZScFl5SVk2bzRlMGUyNjFib3FpaGZHMWtwZFByZlJLYmpsQjViNXV4b1ZxU3RfZS1URmRCbGJvek91TlM4MXhkdEJKdklhYmc4Z0JacEE5dWtfQjIxbFpmLXJnR0RRbGJGQU80YW4ySjNlaXVKQkk1RHZjYXk0RGg3Zmc?oc=5"
         }
       ]
@@ -102,6 +150,18 @@
       ]
     },
     {
+      "id": "d1eaa7896a8d",
+      "title": "Conheça alimentos que aceleram declínio cognitivo em quem tem risco genético de Alzheimer - Rádio Itatiaia",
+      "published": "2026-09-18T01:30:12+00:00",
+      "summary": "Conheça alimentos que aceleram declínio cognitivo em quem tem risco genético de Alzheimer&nbsp;&nbsp;Rádio Itatiaia",
+      "sources": [
+        {
+          "name": "Rádio Itatiaia",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbklPMWRmamdTUjdFcmU4U1JQa2hCZ3Z2bjZ6bTNGVDIxLWM4a0Z2Znc3V3BXQ0hqX19KTk5lX1FQNEtnckE2RmM1amtOM2ZVTjJXbG9CRWdVQkFNOGxlTW5ncTIzMlpMbXN3SjlwT1dsSXF4bWRnRFZGT0VjQlJXQTdGc2NrR2poeFBwZ1I2elhlRkQ4VDdYQ1c4dEJXRTVJeXdPMXU2cHJmQUNxbVYzVE5JRWQ4NFdoT2IzLXRVRQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e8f641767bc8",
       "title": "Aos 60 anos, ela recebeu diagnóstico de câncer se espalhando em todo corpo e um ano de vida, mas acabou curada, e agora o caso intriga os cientistas - CNN Brasil",
       "published": "2026-09-17T23:11:17+00:00",
@@ -110,18 +170,6 @@
         {
           "name": "CNN Brasil",
           "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPQ3RUbFJlNkNqbXRNMXJLNUhuQ1FEWkFGTmdKTUdad3VULWx0QWhEc1h3UW4zMmczQnBaV2RBaXd2VE1wV1dORF9QMHNnWEhEY3RNUkIwenJBeUxTd29XV2N1eUI2b0xISzRpTGl4SjI5NUlua0ZZUkYtN19UVUxTSjNGeFczWFlKcDV6UDZYUGJDZ1J0dVlhTlZBZFp1ZXdWTzE5YWN1bEM5VDlLSUw3T2lKVFktcVdnWk13THM2WnFYMEhhd0VnT0M5TVdQZVd3SHRYS3Q2THZLWDVDZl9wNTQzMGRLbGhmRHRvYkZWN3NpNVRmUG1UY045M09SeXJEWUs4TzZkMUhjTnNIdzRuUXBLaEg0WjQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6b67194a236b",
-      "title": "Val Marchiori quebra o silêncio sobre diagnóstico e levanta questão envolvendo vacina da Covid - Terra",
-      "published": "2026-09-17T23:04:00+00:00",
-      "summary": "Val Marchiori quebra o silêncio sobre diagnóstico e levanta questão envolvendo vacina da Covid&nbsp;&nbsp;TerraVal Marchiori relaciona casos de câncer a vacina da covid: “Eu tomei”&nbsp;&nbsp;MetrópolesVal Marchiori sugere relação entre vacina da Covid e aumento de casos de câncer&nbsp;&nbsp;Jornal CorreioVal Marchiori relaciona câncer com vacina da covid: \"Eu tomei\"&nbsp;&nbsp;Bnews",
-      "sources": [
-        {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNNEYwZlNPcGtCT0hOUFU2bFJLS3Z3Z0RXV3lZajhiVXd2N0o1cWNSVkxwMnlTYXdMQmZxUkFDeFBXQjdlRnNiUjZ6eTFBdkRfb0ZVTE55eV9zY2FiaXl5dDdDcjNaVDVfRWVSR3hiaHAzWXdhT2w1ZXRIVExBWG1ka1prelBtV1VDOEQ4RkdQQXAxTEF5MDNIdllWZW9QcXpJc3ZSTGxZTUVmT2hTNW9vZDh3d1RrUy1KZUtrMDFhb08tREhXMUh4RGk5MU41OVp2S0d3UVhOcXR6ZlJzX0NXbGxOZ2hLVF9reHNOTHdVX2dkWFVXekN6T2NERkQ5RjZYS2lPZlJIczdWbFll?oc=5"
         }
       ]
     },
@@ -138,6 +186,30 @@
       ]
     },
     {
+      "id": "a5d507d99daa",
+      "title": "Jovem morre de meningite após procurar UPA cinco vezes na Serra - A Gazeta",
+      "published": "2026-09-17T22:03:00+00:00",
+      "summary": "Jovem morre de meningite após procurar UPA cinco vezes na Serra&nbsp;&nbsp;A GazetaPrefeitura da Serra afasta médicos que atuaram no caso de jovem morta por meningite&nbsp;&nbsp;G1Jovem morre de meningite após buscar atendimento cinco vezes na Serra&nbsp;&nbsp;Folha do ES",
+      "sources": [
+        {
+          "name": "A Gazeta",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN1g2MHVNbzZSMmRtUFFCY0o5VF93TnR0T3FJbV9zS2FqS2dMVVNOYWJ2Qk5YNGd3RHFObzZHaFlrSC1JQnhjSDVvVVlYRFBqRTRCS3lVOXBnYVA0R3d5QVlCMEoycjNWWkJZb2hLSTA4M3B3VWUtMkJPZmpUNU9FVWVTMVFXeldJSUJVaXhjR0tNSk9JNFYzMmRNR2N5MHpNZVp5VngzeVZ0dXRT?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bb395ba2c27f",
+      "title": "Lúcia Helena: Cientistas desenvolvem 1º remédio muito eficaz para tipo mais comum de DPOC - UOL",
+      "published": "2026-09-17T21:47:26+00:00",
+      "summary": "Lúcia Helena: Cientistas desenvolvem 1º remédio muito eficaz para tipo mais comum de DPOC&nbsp;&nbsp;UOL",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOX3V3N0JZcUZXVUNiV00ta25ueXRIU2ViZGlsZm5QalYzLW4wbWRTZll3aVh0QUg4TVlpbnlrQl9Hd18zRHRRNTlUMzNpaW9NYUpfMF9xSVJwNzhqVnA5cC11dE9yZHVLU05zN3EyZG9DdFB5OVZEd1ZiSXhHOFFaazdHVkhPZ1F0b1ZpVWFXRVZmSlZIR2JfMkVZSW14bS1kNzNLMlIybzFFWHZSdHc2MFMyWkZzbDhvRklxRm1fM1BzYW1ORFBkeTRUZWs4cGM3VWhVM2FWSm4?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d34de6288a75",
       "title": "Saúde da mulher: os riscos do excesso de exames - Portal Drauzio Varella",
       "published": "2026-09-17T21:32:47+00:00",
@@ -150,25 +222,13 @@
       ]
     },
     {
-      "id": "6fbf822c35e2",
-      "title": "Atendimentos e internações de crianças por excesso de vitaminas crescem no Brasil - Estadão",
-      "published": "2026-09-17T19:15:02+00:00",
-      "summary": "Atendimentos e internações de crianças por excesso de vitaminas crescem no Brasil&nbsp;&nbsp;EstadãoSuplementos e saúde renal: uso exige orientação e cuidados&nbsp;&nbsp;TerraEspecialista alerta sobre os efeitos colaterais do uso de suplementos&nbsp;&nbsp;G1Nutrição: Uso inadequado de vitaminas pode mascarar doenças e acarretar problemas sérios de saúde&nbsp;&nbsp;Portal Mídia",
-      "sources": [
-        {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONEV1aG5WX0lDRXdPeUU4eG11VloxUlhBVVN4ejAtRjB5dnRpU2ZqYUx4U1ZVZzBTcDNhdWZVRFBvVDZieXFITl80VDF3S0FXWS1waS1JRlJYVVBOQTl0M1pSS3lzbDBtRVR4YjZXVlBlUy1mNkpUUW9MRzlZR0Jha25vd0tyQnVtak1QR2tlRWhvY2ZqQzN5NTYtN1l2Qkg5aXBjNWoyZ29OY0xCSVh3c1RoZFZFSmlFVmR4SDlUQnRlUdIBxwFBVV95cUxPMEFJZDdEOUlYQWREb1JNaEJQelh3NjE0N2Z0aTMyRXpZTi1PdUNOVzZmMHhEeE01VkVmcXBKWldMaktneGdfeE5FUUk2cURRMm0yN1lSbmxVR2lBZkc1Q2c2UnNGQmhaVk9wQ1BTZUt3RzNIeHJ1aXIyV3FxelBGNEt4NlIyZGU1QWxkWC1QMFlaRVdkWl84Y0ExNnlWbEc4MXdlR2F5MzNhX01XMWJsRjlqWlV5dEZaQW9qNERfdzhSQVlXcThJ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8050e9c466cf",
-      "title": "Adolescente de 12 anos morre de meningite em Quixeramobim; CE registra 22 óbitos em 2026 - diariodonordeste.verdesmares.com.br",
+      "id": "d4b9dd2272ec",
+      "title": "Adolescente de 12 anos morre de meningite em Quixeramobim; CE registra 22 óbitos em 2026 - Diário do Nordeste",
       "published": "2026-09-17T18:24:24+00:00",
-      "summary": "Adolescente de 12 anos morre de meningite em Quixeramobim; CE registra 22 óbitos em 2026&nbsp;&nbsp;diariodonordeste.verdesmares.com.brCeará registra 243 casos de meningite em 2026&nbsp;&nbsp;mais.opovo.com.brIrmão de jovem que morreu por meningite em Quixeramobim testa negativo para a doença&nbsp;&nbsp;Quixeramobim AgoraMeningite pneumocócica causa morte de menina de 12 anos em Quixeramobim&nbsp;&nbsp;A Voz de Santa QuitériaJovem de 12 anos morre após agravamento do quadro de saúde em Quixeramo",
+      "summary": "Adolescente de 12 anos morre de meningite em Quixeramobim; CE registra 22 óbitos em 2026&nbsp;&nbsp;Diário do NordesteCeará registra 243 casos de meningite em 2026&nbsp;&nbsp;O POVOIrmão de jovem que morreu por meningite em Quixeramobim testa negativo para a doença&nbsp;&nbsp;quixeramobimagora.com.brJovem de 12 anos morre após agravamento do quadro de saúde em Quixeramobim&nbsp;&nbsp;sala de imprensaIrmão de adolescente que morreu com meningite em Quixeramobim é transferido para Fortaleza após a",
       "sources": [
         {
-          "name": "diariodonordeste.verdesmares.com.br",
+          "name": "Diário do Nordeste",
           "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOeC1vc1lkdk1Ha0c1eGhnLXFkZGZRR3JCTUFqc1p4UUFpeHd2bE96cjk2cU94SGNxWmQ1SHBienJsWDF6ME42cEJPYkhZZk1tUGpuVnBwTzBGbmQyNE5palFkcmhYR09HQ09NdWJKeTQ5ZlRHdktod0t1TXBBYjJYZng1NnNZMHVEM1JMWWY3b2YwVFFWV2daYzgybTdhVURmYkdKd2ZfUDNvbGxUbHZXX1EycWhjVURSYmVsczZ1amMwT3ZfSFExUEJ1YnpER2dqcmhxWllxWWJFYkRKTVpWWg?oc=5"
         }
       ]
@@ -177,7 +237,7 @@
       "id": "38161761a3a1",
       "title": "HPV: vacina é indicada a vítimas de violência sexual a partir de 2 anos - UOL Notícias",
       "published": "2026-09-17T18:24:04+00:00",
-      "summary": "HPV: vacina é indicada a vítimas de violência sexual a partir de 2 anos&nbsp;&nbsp;UOL NotíciasVacina HPV para crianças a partir de 2 anos vítimas de abuso&nbsp;&nbsp;Campo Grande NewsSUS passa a indicar vacina contra HPV para crianças de 2 anos vítimas de abuso sexual&nbsp;&nbsp;Portal 27Vacinação gratuita contra HPV acontece em Aracaju nos dias 16 e 17&nbsp;&nbsp;InfonetMinistério da Saúde amplia vacinação contra HPV para crianças a partir de 2 anos&nbsp;&nbsp;G1",
+      "summary": "HPV: vacina é indicada a vítimas de violência sexual a partir de 2 anos&nbsp;&nbsp;UOL NotíciasMinistério da Saúde amplia vacinação contra HPV para crianças a partir de 2 anos&nbsp;&nbsp;G1Vacina HPV para crianças a partir de 2 anos vítimas de abuso&nbsp;&nbsp;Campo Grande NewsSUS passa a indicar vacina contra HPV para crianças de 2 anos vítimas de abuso sexual&nbsp;&nbsp;Portal 27“Não é uma vacina recomendada na rotina a partir de 2 anos”, diz infectologista sobre quando imunização contra HPV é",
       "sources": [
         {
           "name": "UOL Notícias",
@@ -201,7 +261,7 @@
       "id": "b5d697f142cc",
       "title": "Novo exame de sangue detecta câncer de pâncreas em estágio inicial em 87% dos casos - InfoMoney",
       "published": "2026-09-17T17:40:19+00:00",
-      "summary": "Novo exame de sangue detecta câncer de pâncreas em estágio inicial em 87% dos casos&nbsp;&nbsp;InfoMoneyNovo exame de sangue detecta câncer de pâncreas em estágio inicial em 87% dos casos, diz estudo da Nature&nbsp;&nbsp;O GLOBOExame de sangue detecta câncer de pâncreas inicial em 87% dos casos&nbsp;&nbsp;uol.com.brSetembro Roxo: novas pesquisas ampliam as perspectivas de tratamento de câncer de pâncreas, um dos mais letais&nbsp;&nbsp;Bem ParanáCâncer de pâncreas pode começar sem sintomas; veja ",
+      "summary": "Novo exame de sangue detecta câncer de pâncreas em estágio inicial em 87% dos casos&nbsp;&nbsp;InfoMoneyExame de sangue detecta câncer de pâncreas inicial em 87% dos casos&nbsp;&nbsp;folha.uol.com.brSetembro Roxo: novas pesquisas ampliam as perspectivas de tratamento de câncer de pâncreas, um dos mais letais&nbsp;&nbsp;Bem ParanáCâncer de pâncreas pode começar sem sintomas; veja sete sinais de alerta e os novos tratamentos&nbsp;&nbsp;Jornal CorreioCasos de câncer de pâncreas crescem entre jovens",
       "sources": [
         {
           "name": "InfoMoney",
@@ -222,18 +282,6 @@
       ]
     },
     {
-      "id": "56bfb72281e5",
-      "title": "Como um \"fracasso\" da década de 1980 se tornou a maior revolução da medicina moderna e salvou milhões de vidas - Olhar Digital",
-      "published": "2026-09-17T17:08:00+00:00",
-      "summary": "Como um \"fracasso\" da década de 1980 se tornou a maior revolução da medicina moderna e salvou milhões de vidas&nbsp;&nbsp;Olhar Digital",
-      "sources": [
-        {
-          "name": "Olhar Digital",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNRGRLemJ4SHlmYmQ5cE10TFlyME92enFxUU9Mc0ktVDBhRFd3YW1feThhLXp1b1QyS1lad0pWb2NYOTdULWQ0X1FEb2p2UjZvMkVvTmFyUnlUN3FZZlhtTVZHTUN0bjJlUG5pQ3VEc0RRNlZhb2ZHRnB0N1NqM0NfaVVfdk52ODZuelVmSHQ0UF9Vem9lYUlVTmxHbE5KNXpXTVBoNFhCam1HM0lza3F1REYyS1gwM2VmN2RRYUw0Ym1SNDFveUFoNWl4OVNaZXFYTWlVMXpIa3NmWERZcXZyWEFibXg2NWFyY29oc2xidmY2aFBhZnB3VQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9785aea2ab22",
       "title": "Mulher depila virilha, espreme pelo encravado e quase morre em hospital - Estado de Minas",
       "published": "2026-09-17T16:11:00+00:00",
@@ -242,54 +290,6 @@
         {
           "name": "Estado de Minas",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQV280amd0bHRZQ2ZCWkZkUjBFSmh3bTFjTnc3YTJ0Y2hDeHNsSXVWcmh5TlhkZ0xmV2FNUlNYZzZ4VmdXRkRGMVlmR3hkcGx6cWI0LXk0aG1zdlg1TjJoMTN4eUVLUlhMcnE4dG9acS1LZFZQYXBlZWNXRUFoMXFrdmZqZUwyRi1zY185eGNhOWhzTkozYTI5UFd2a0FuaFBQeHNpX1FJYkxqRnV2N2M0aERiREZhWUEwdEdPU0s3VzQ0UzRPNGfSAcsBQVVfeXFMTVZmNWd6TE5zWWNPNmZjZkExbkNodXNyUjhSVWkyRG42Y09iYUNfRko1Q0I1WEFrNDZ4QU41azl1SjJiZGVLTXg5SVJIX3lkYU9MSWpDNVo3Q0w2MlVMV0RGWk9vTU5XYTlrbXA0dDJQakxCanpnNUxIOENOQzZ2UjUtSnFmT3F1VlNSdm5mdFo4ZERTRFNERmx5VzJjdHBQdjJ5YmdWQjVCN0hNVXZ0aEcyVlkyMjZuWF9YZTN1SmpYSUJMVDdzbXhVc1U?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a174f93d66e9",
-      "title": "Nova espécie de felino, primeira descoberta em um século, é achada por brasileiro - Folha de S.Paulo",
-      "published": "2026-09-17T15:00:00+00:00",
-      "summary": "Nova espécie de felino, primeira descoberta em um século, é achada por brasileiro&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMGN2XzFZcXE1dF9tQzBfM053N1FTX2k3eEMtTU05SVI1b21LYm1IY0VRVGtlUU1Ya01aem1fR1AxWVJGSG5Za3BCbHlzOHZrcmliekxnLVRCMkxjLThCemVUMzRMMUhWeWNiQ2J5YTdsU1F1WVFuajZhRkYxVzkwTEUyUGt3cGFXS2EwTW0yTlplNEZuS0FCdGN5UldtNUJFLUQwNEZrblg2ZmNZREFXaFBSY002aW9mczVwZHZVZXkweUpTZzZiVDltYw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d74199c9255f",
-      "title": "Alzheimer não apaga tudo: o que a doença preserva no cérebro - Campo Grande News",
-      "published": "2026-09-17T14:44:00+00:00",
-      "summary": "Alzheimer não apaga tudo: o que a doença preserva no cérebro&nbsp;&nbsp;Campo Grande News",
-      "sources": [
-        {
-          "name": "Campo Grande News",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQemNnN2EyWXg1Ul9MXzk0SFgzSzY1WW1wb2VyMjNiR3FBUVNjWDNuM1FUUmpDaTg1SzdPcTBMUVdqLVNZYkktQVB0aVE3SWRoMlRaRjZia1luZXZzZ2ZoeV9fczRIWDVMRjVKWmwyQTJqUUdtd0lvTFBkeEd2UVF5XzBsTGlHc21rMk82UlBEbUVBajduRER6VTgxaU9xYmpkNlFaT21TckNDempqUThYTUVwZHc5bTQyUEQ2M9IBvAFBVV95cUxPM3NMbDcxRVlBN1R0WjRBYWxDMnU3WThQMTdaSkl4SWc1dHlfWC1zOVkteUxLMTFVY0FpVFVKNTljejBvZ3VqaHlfV1FmbjA3UmxlelhGQnlsMU9DTWFSLTN1U2s4TWUtNHR1QkF0ME8tT0l2T3Vkcnk3T0o0Y044N3loSlBoZ3dBWFVKbVBRYy1hTGNzV3c1R0RoQ0IzZGF4Q251MUQwamtjNzhUT3NaamZibzFxVFpMdi1CRw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "305349d4493a",
-      "title": "Dos primeiros humanos até você: quantas pessoas já passaram pela Terra? - Olhar Digital",
-      "published": "2026-09-17T14:42:00+00:00",
-      "summary": "Dos primeiros humanos até você: quantas pessoas já passaram pela Terra?&nbsp;&nbsp;Olhar Digital",
-      "sources": [
-        {
-          "name": "Olhar Digital",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQy0tLUNiOGRITndoc2ZadkVtNWZGTmc5ZWdJbGJrOHdMY1V2Y2VfYTViMnc5aUwzZDhFTmR4cTkzZ0t4SEdfMEl3c1QxTlkzVkpOZDU5a0hPbUZ1QUhsbEJmMnpZNEJVOXQydHZrbGNwV1BCSE1oUXZtR2c4TndTVWJXbXJFekFXYWhibTRuWFd6bzZmWGtIRFQyTW9UYlhHb1FsZmNOZkRJR2hyMGlERDNlbGlMWTdQN1V5TVVENVN3OXcy?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6e576cf8d3e9",
-      "title": "Quem é o pesquisador que deixou a Anthropic e alertou sobre os riscos da IA - VEJA",
-      "published": "2026-09-17T14:20:44+00:00",
-      "summary": "Quem é o pesquisador que deixou a Anthropic e alertou sobre os riscos da IA&nbsp;&nbsp;VEJA",
-      "sources": [
-        {
-          "name": "VEJA",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVTVoNVJ2WXdTZXl4bHFtSmtjR0NfS2w4WmV1WHN5czdEX3Q4MEJudG5JeDNqWVN5anNTWW5uZC1sbkxMZWw4aWZuZ2dvNEE2UEYyVkcwZDJmV3pnUTVFWG9HOGlkdW9VaEZuSW5NWWw2TFVwOWFadVJqa18zMW5oU1h2MUdNNzl4Y213NnA4YTFLekJ2QmhhRFBxUnZtWC1zTlZ2aDBITEhfZHBCS2RJ?oc=5"
         }
       ]
     },
@@ -306,26 +306,38 @@
       ]
     },
     {
-      "id": "ce766c19dcad",
-      "title": "Estudo revela maravilhas da rede viária de 300 mil km do Império Romano - Folha de S.Paulo",
+      "id": "ef0d44a92cb5",
+      "title": "Estudo revela maravilhas da rede viária de 300 mil km do Império Romano - folha.uol.com.br",
       "published": "2026-09-17T09:00:00+00:00",
-      "summary": "Estudo revela maravilhas da rede viária de 300 mil km do Império Romano&nbsp;&nbsp;Folha de S.Paulo",
+      "summary": "Estudo revela maravilhas da rede viária de 300 mil km do Império Romano&nbsp;&nbsp;folha.uol.com.br",
       "sources": [
         {
-          "name": "Folha de S.Paulo",
+          "name": "folha.uol.com.br",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdWxfbW9iTkQwanZqZVZ1MUFlTi10Q2ZQVFpaRVJLS2ZIMzdrZnE2SWF2NVlKRTlYRmR0WUlfZ2k4MkNsd1ZkWmNwYl92OWQyVWh1WnNzOXNscXFRUkJNOF9NeFZGOHlLS2VLMGdzaEh5ZlRWV3pwQlZKbGJRVEt3MTdnYS02MDctclJBVXV2R0pMRUw5d0Q1UkdJTk0xMUNCVkNOazAzSDhsZndRNVo5MU1DWGhIN0RwNFNfSk5yTzc?oc=5"
         }
       ]
     },
     {
-      "id": "df458d918250",
-      "title": "Com um em cada 60 adultos no país infectado, Fiji declara crise nacional de HIV - O GLOBO",
+      "id": "b8e4c8a2799b",
+      "title": "Com um em cada 60 adultos no país infectado, Fiji declara crise nacional de HIV - oglobo.globo.com",
       "published": "2026-09-17T06:16:36+00:00",
-      "summary": "Com um em cada 60 adultos no país infectado, Fiji declara crise nacional de HIV&nbsp;&nbsp;O GLOBOFiji declara emergência nacional por alta de casos de HIV - 17/09/2026 - Equilíbrio e Saúde&nbsp;&nbsp;Folha de S.PauloUma em cada 60 pessoas agora está infectada com HIV, enquanto a crise de drogas alimenta o surto nesse pequeno país insular&nbsp;&nbsp;CNN Brasil“É preciso entender o que acontece em Fiji”: infectologista explica disparada de casos de HIV&nbsp;&nbsp;jornalopcao.com.brHIV avança em F",
+      "summary": "Com um em cada 60 adultos no país infectado, Fiji declara crise nacional de HIV&nbsp;&nbsp;oglobo.globo.comFiji declara emergência nacional por alta de casos de HIV - 17/09/2026 - Equilíbrio e Saúde&nbsp;&nbsp;folha.uol.com.brUma em cada 60 pessoas agora está infectada com HIV, enquanto a crise de drogas alimenta o surto nesse pequeno país insular&nbsp;&nbsp;CNN BrasilFiji declara emergência nacional de VIH após disparo de novos casos&nbsp;&nbsp;Euronews.com“É preciso entender o que acontece em ",
       "sources": [
         {
-          "name": "O GLOBO",
+          "name": "oglobo.globo.com",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdll5YTNTVWRWNmNla1ZXRWFKb1hOcTV6bDcyaWxCdWJrWDZ6VkpHQllDdFB5R1VLN21UbS1JT0lOdy1sMmktNThXSmNCWFYtTVdiY053a2lVSnRYcGU2UEc1dXpQZlZoakRfUV9xUThseXljVHIxVDl4X0MyZ2NfclBsckJZQVNpbE5uQ3pxbl8zbUdTZFJmbWN6Mk5YdzB0cUxWT3RqR3RTZ20xQXFjczl3TndLbTJSQW1YdDB0dXBuMWhRb0Vfd3FFOGwtNkHSAd4BQVVfeXFMTmNlVTBzY3prY0pBZWxXSXJIRWVLQ1NKdTR2MWtoVnEwdlhWNFVQSEJhaVF4Y0xsVEg2VmpKcDFSMnlHM2U1Mnh1UTllRnZ6dzBKR0FtdDBueFhYQTBoZ2lYZ2dJcVd2M2ZGYWF4Nl9CZURXQXlxdS1yTEgzT09oUUVNUFdRN1dMU01qUldwYTA3TGJVdVFndHlVc1M0YzltN0RTcUx4cUpJN1pWdTlNV0tvU2FLWEJZMmc2cG42UGxyTzMwZzk4T3ptN1dBdXF5eGdkd05hbGhSakhMTlFn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4254892ddfb4",
+      "title": "Os casos de puberdade precoce que intrigam os médicos em todo o mundo (incluindo no Brasil) - G1",
+      "published": "2026-09-17T06:00:00+00:00",
+      "summary": "Os casos de puberdade precoce que intrigam os médicos em todo o mundo (incluindo no Brasil)&nbsp;&nbsp;G1Puberdade precoce: sinais antes dos 8 anos exigem atenção&nbsp;&nbsp;Belém.com.brFórmulas infantis, leite em pó, leite fresco... não estão relacionados com a puberdade precoce.&nbsp;&nbsp;Vietnam.vnMuitos pais entram em pânico ao verem seus filhos crescendo, desenvolvendo acne ou com os seios se formando... a surpreendente verdade.&nbsp;&nbsp;Vietnam.vnHá muita desinformação online sobre pube",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPT05jZDM3NG5vSEV2R2tNQW1HMGtvQ25PdE1RT1YzdDdxYXVwMFJuU1FjeEpMT2d6Zm5HWDdNdTVuSFpkNDZULTB2VTdRaUNWVUpGemZXWENGb29SUEdRNTRsZWxHRkI2QTY2bE5objRLTExzVFRkVi0ySHhZbmdXOF8xaUdrUllGZ0JhOENINTZ3UXZhODJvc3NJcFNoaHBFQWF1OWlMVEtQTlBxNTJHMGRGN0M3d0hQdTZpd2ZMVERCM0hlb2pXcmlSaDFBMEJERFNsbm9YdjHSAecBQVVfeXFMUHkyTjBmekhkT2hScnE2ZkMxTVFtMW1xQW5URVdxR09Ia1FMcWpmM0xHYlpqT1R0dnlfMVhaWFhwdE9XNmRua1k5bVRCMENGdFZtNXUta3dUV0pFNXlKMUpibktwWDl6QTJrdldIcmpfdTd1RXF1eWYyY1Y4TGVTeTMwNmt3VW9BeE8tTEpkUXpzeS16bVZYMU1vSW9OcS1sbUV5NktyS19PQTlLem1EVTRrUjR3MjEzSlNJcXJUbEhfUTJuc1NMX0p1YkdTSXFHSjRLblNyV2xjTVA3cVhvM3lhZVVUVnRj?oc=5"
         }
       ]
     },
@@ -342,25 +354,13 @@
       ]
     },
     {
-      "id": "dc7a069602b2",
-      "title": "Doença rara faz mulher ter ausência quase total de gordura aparente - Metrópoles",
-      "published": "2026-09-17T05:00:00+00:00",
-      "summary": "Doença rara faz mulher ter ausência quase total de gordura aparente&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaldwUGxEMjFOMnA3ekpOUlpkUklNcVZVcXFYQTBKU1BnZVo0VU96NC1UaXBfczhCVFZCbEJhR1R1WUVtNDdZX3ZTM0Z6TjdkaGdQRWNOUlpTOXoyeFZCSkgzcGpsbEp4dms2bUtUTmpfelNVa01KU09yWkEtRlhuWlpUSl9QdzZTREhVZjJWUE52VlpXdkt4SGd1YUwyWVRwcUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2156733dae44",
-      "title": "PrEP injetável no SUS: quem deve receber as primeiras doses - Folha de S.Paulo",
+      "id": "4088792850b3",
+      "title": "PrEP injetável no SUS: quem deve receber as primeiras doses - folha.uol.com.br",
       "published": "2026-09-16T22:30:00+00:00",
-      "summary": "PrEP injetável no SUS: quem deve receber as primeiras doses&nbsp;&nbsp;Folha de S.Paulo",
+      "summary": "PrEP injetável no SUS: quem deve receber as primeiras doses&nbsp;&nbsp;folha.uol.com.brVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
-          "name": "Folha de S.Paulo",
+          "name": "folha.uol.com.br",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZUFzV25GenFyeEZkczhYakJPZ3BpNEJsWlpIVmZPaEVFcFU4RmxjTDVKckl5TmlEeno2ZTgyTF9FN3NUYnZ0S2JuTXV6UmdhTDFOdlpZNGRxUV9tZ2lhUk5RMmIwbVNyd2RxZ0R5T2cycXBVSnZ5UzFjblloSEFia1hKakpiZERmclk1U0pzSlVTZF9lYk8wMzg2cFozSHBXUHRraW1OeHAwblYwM1hNRE9yckhXU05YNHc4?oc=5"
         }
       ]
@@ -390,10 +390,34 @@
       ]
     },
     {
+      "id": "a8b900f881c5",
+      "title": "Psiquiatria não é só cérebro: como a saúde física interfere no tratamento de transtornos mentais - Portal Drauzio Varella",
+      "published": "2026-09-15T18:02:05+00:00",
+      "summary": "Psiquiatria não é só cérebro: como a saúde física interfere no tratamento de transtornos mentais&nbsp;&nbsp;Portal Drauzio VarellaSetembro Amarelo: Exercício Físico Ajuda na Saúde Mental, Apontam Estudos&nbsp;&nbsp;TerraAnsiedade, estresse e isolamento: veja 10 hábitos que podem ajudar a cuidar da saúde mental&nbsp;&nbsp;Jornal CorreioVÍDEO: Psicóloga cita hábitos diários e explica como pensamentos podem impactar na saúde mental&nbsp;&nbsp;Diário do SertãoSetembro Amarelo: Prefeitura de Cabedelo",
+      "sources": [
+        {
+          "name": "Portal Drauzio Varella",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcWdPcF93U3ZaQVhockdkR2ZCX2U2aFZwLWV4Z01XVEx0ZVotczhkeTJUTDFJUUtFU0FlU0pMaGxQbDREU0lTWXFxc2RKVmVTMG1jNmEtZVpYNWNFUDhqMWVrN25ScGJnRjZsY2N6bmxJMHNUTVE0Sld2clJjaFNlcmlnbk85dFpBNXNqc2JWQnk2bFk2cFI4M2pkaE0zcW1uOUdBalBHenpJZlNvSEdQVGMtNjdLWmFzdTBrTnZRdUFqZndzX25TdEY5N29COFlUQThFeTR0YkttUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d1af6694974d",
+      "title": "Ismael Galancho, nutricionista de Messi: \"O problema com as proteínas é que muitas pessoas só têm em conta a carne, o peixe e os ovos\" - National Geographic Portugal",
+      "published": "2026-09-15T15:53:00+00:00",
+      "summary": "Ismael Galancho, nutricionista de Messi: \"O problema com as proteínas é que muitas pessoas só têm em conta a carne, o peixe e os ovos\"&nbsp;&nbsp;National Geographic PortugalProteinmaxxing: o que é essa tendência e quais são seus possíveis riscos a longo prazo?&nbsp;&nbsp;oglobo.globo.comProteína do café da manhã ao jantar: 5 dicas para incluir o nutriente&nbsp;&nbsp;CidadeVerde.comProteína no emagrecimento: por que comer mais nem sempre é uma tarefa simples&nbsp;&nbsp;Revista Ana MariaSpaten Pr",
+      "sources": [
+        {
+          "name": "National Geographic Portugal",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbEZTRkhsLU0tdVYtZFFSRXV4TkwwRGpoMFg0LUt4S1YtQXc4YlRKRXBkZG5vTjlwZWxCZklGRGNJSnVKNVJVZWJhMGhlbUV6b19SbXVCN21kSERJWmdXU0FGdDdFV0RnUUtaWlFnU093YmpPUTUzVktsU25aWEZSSTkwUTZmMm1pUVVBc2JTQnJTUU5Pb3dQNHJSVWw2ZWZFTWV0bGVKdUNoYWh0Um5pOG8xT29ZMVNpWExkclROUTNjWVBTWEJpbWV3SVpXcVlWV2xESXdIaUh0SDludXlOcg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "125f18ecafeb",
       "title": "Nova vacina: Ministério da Saúde vai ofertar pneumo20 para quem tem mais de 85 anos - www.gov.br",
       "published": "2026-09-14T19:25:00+00:00",
-      "summary": "Nova vacina: Ministério da Saúde vai ofertar pneumo20 para quem tem mais de 85 anos&nbsp;&nbsp;www.gov.brSUS libera imunizante contra pneumonia para pessoas a partir de 85 anos&nbsp;&nbsp;G1Vacina Pneumocócica 20-valente (VPC20): Prefeitura orienta crianças e pessoas com 85 anos ou mais&nbsp;&nbsp;jundiai.sp.gov.brCuiabá inicia vacinação com Pneumo 20 para idosos a partir de 85 anos; 72 USFs com doses disponíveis&nbsp;&nbsp;Prefeitura de CuiabáPneumo 20: DF receberá 13 mil doses para vacinar ido",
+      "summary": "Nova vacina: Ministério da Saúde vai ofertar pneumo20 para quem tem mais de 85 anos&nbsp;&nbsp;www.gov.brPneumo 20: vacina contra pneumonia começa a ser aplicada em idosos de 85+&nbsp;&nbsp;CNN BrasilMais de 4,5 mil crianças são vacinadas contra pneumonia e meningite no Acre&nbsp;&nbsp;G1Pneumo 20: DF receberá 13 mil doses para vacinar idosos de 85 anos ou mais&nbsp;&nbsp;MetrópolesVacina Pneumocócica 20-valente (VPC20): Prefeitura orienta crianças e pessoas com 85 anos ou mais&nbsp;&nbsp;Prefei",
       "sources": [
         {
           "name": "www.gov.br",
