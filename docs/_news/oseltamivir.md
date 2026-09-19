@@ -14,7 +14,7 @@ permalink: /news/oseltamivir/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Oseltamivir?">
-<strong>Oseltamivir</strong> tem atualmente <strong>1 notícias</strong> e 10 indicações previstas.
+<strong>Oseltamivir</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,7 @@ Esta página combina as indicações previstas por IA para Oseltamivir com as no
 <li>tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria (95.1%)</li>
 <li>staphylococcus aureus infection (95.0%)</li>
 <li>cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency (93.9%)</li>
-<li class="indication-matched">pneumonia (92.1%)<span class="indication-tag">📰 pneumonia</span></li>
+<li>pneumonia (92.1%)</li>
 <li>streptococcal pneumonia (90.5%)</li>
 <li>susceptibility to HIV infection (89.8%)</li>
 </ul></li>
@@ -40,15 +40,9 @@ Esta página combina as indicações previstas por IA para Oseltamivir com as no
 <p><a href="{{ '/drugs/oseltamivir/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (1)
+## Notícias relacionadas (0)
 
-### [Nova vacina: Ministério da Saúde vai ofertar pneumo20 para quem tem mais de 85 anos](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNR0doWkpqNDltdjJ6VU1nY19TVXJtMGNhbmNaYktqVEZOR2NKN0xBUThXX1NMTURmWDhnSy13QjFaVnVDT2xYYng0QjNsOTdBMHZyNVVWWHAtZEROcFNUSExmR2NOVExlWFFlUGgxTUNMRWVXLXdiZThVX2NOSko2Mk8zZ0JSTFZ6UldhWXBzeEpSR3oyNXFtcDhCMnR1Q0YwODJCQV9IejkxVEhDNURfMVJkM21GbWxHbzhkV0pQdnQ1eFR4UGxYMS10dmdyM1lXcVp0Q2xwUTdsSTlOVFBOeU5R?oc=5)
-
-2026-09-14 <span class="news-indication-tag">pneumonia</span> <span class="news-indication-tag">pneumonia</span>
-
-Fonte: [www.gov.br](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNR0doWkpqNDltdjJ6VU1nY19TVXJtMGNhbmNaYktqVEZOR2NKN0xBUThXX1NMTURmWDhnSy13QjFaVnVDT2xYYng0QjNsOTdBMHZyNVVWWHAtZEROcFNUSExmR2NOVExlWFFlUGgxTUNMRWVXLXdiZThVX2NOSko2Mk8zZ0JSTFZ6UldhWXBzeEpSR3oyNXFtcDhCMnR1Q0YwODJCQV9IejkxVEhDNURfMVJkM21GbWxHbzhkV0pQdnQ1eFR4UGxYMS10dmdyM1lXcVp0Q2xwUTdsSTlOVFBOeU5R?oc=5)
-
----
+*Ainda não há notícias relacionadas. Quando uma notícia mencionar este medicamento, ela será recolhida e exibida aqui automaticamente.*
 
 
 <div class="disclaimer">
