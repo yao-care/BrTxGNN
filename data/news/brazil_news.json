@@ -1,19 +1,55 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-09-20T10:51:19.216831+00:00",
-  "total_fetched": 102,
+  "fetched_at": "2026-09-20T15:38:53.327822+00:00",
+  "total_fetched": 104,
   "unique_count": 102,
-  "health_related_count": 38,
+  "health_related_count": 35,
   "news": [
     {
-      "id": "b98a12d91ce4",
-      "title": "Nem todo ultraprocessado é igual: interpretar o rótulo é fundamental - UOL",
-      "published": "2026-09-20T08:30:00+00:00",
-      "summary": "Nem todo ultraprocessado é igual: interpretar o rótulo é fundamental&nbsp;&nbsp;UOLAlimentos ultraprocessados: preço impacta escolhas menos saudáveis&nbsp;&nbsp;G1Alimentos “fit” podem aumentar risco de doenças crônicas&nbsp;&nbsp;Correio do PovoUltraprocessados: uma política regulatória para o Brasil&nbsp;&nbsp;JOTA InfoAlimentos com aspecto de plástico, os ultraprocessados caem no gosto dos jovens&nbsp;&nbsp;Jornal da USP",
+      "id": "0e67662e3cac",
+      "title": "Minas tem 4 municípios entre os 20 com menor cobertura vacinal contra sarampo no país; veja quais - O TEMPO",
+      "published": "2026-09-20T10:00:00+00:00",
+      "summary": "Minas tem 4 municípios entre os 20 com menor cobertura vacinal contra sarampo no país; veja quais&nbsp;&nbsp;O TEMPO",
       "sources": [
         {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbF9jX3RMckdQS2w4eVdUSUUyUmFEWmduMURHRnVBc1gyaE51SXlJQXhWZ0JCYXVwU1lCY2N1NDlIZEJMS0tGdi03VDFjX2d4UHpBZ1JXS1dvVXgyVDFEeHlDXy1tdkNtWHNXYWFHdGVwODJoUm9sb1VCaEJLZnJpd2xQYm1TYk9UaW1kMEJhN3dJakFjUXlVWGlvWnZJdzJpNWE3aWhkeFpsMWliME1LVTNOZmZSbXEzMFpRMTBST3dBNHF6SnlvOTVvNA?oc=5"
+          "name": "O TEMPO",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPM0R3Z2h6cW4xa1RQS2I4emhOaHdYMXAtT0xRV3JVb2FjTzVVTlV1Z1N6eXBOZFB5SERjZEFKTi02RGRuTFJpdmxJT2NKdVppVmZybENRM2xGQlVZVHBORGNOM0Z6WnIxMkxRWjVmZ1FkUDlYZFNlVkx6ZXEyU3d4cXpXTnVKeE9iRXkwLTBVVzV6YWw1elA4WnRXWi1SdDIxbzIwN2pYVVJxMVItS1ZiNE1wbzNfblJjbE5SYnlfbUt2R1p3NzhQNkxndi1pOFdZdnhjLTlaalhWQThMalFaNWtmeDA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "51ce5975de9c",
+      "title": "Pessoas falam menos a cada ano, e especialistas veem riscos para o cérebro - Folha de S.Paulo",
+      "published": "2026-09-20T07:00:00+00:00",
+      "summary": "Pessoas falam menos a cada ano, e especialistas veem riscos para o cérebro&nbsp;&nbsp;Folha de S.PauloVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOU2hqVEdQRkxwWEIwNk9kSi1PeUhRUWsyNTljbzZ4ZjFTVkpYUmkxT3Bwb1JFLU5KMHZ6LWo2cjZqYzRrd0tFXzJnTmVfdnFReU1aQUU5SWFMZzRxaGFJbWh2NHJTYW9MR2o3MzV0X2JmX19zSUdYTXpWRkc2eFRKOVZjUGFVUGF2TmlFX3RNM1p0aktwSEZ6bThXQVhVQ2hQbXlXNWo3NTE0b1RjS3U0ejBZQ2pqbUJFdVJXZXQ1VDhRTEJ4Snpn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "313b729ad43c",
+      "title": "'Só não quero retroceder', diz paciente que usa novo medicamento para Alzheimer - Folha de S.Paulo",
+      "published": "2026-09-20T07:00:00+00:00",
+      "summary": "'Só não quero retroceder', diz paciente que usa novo medicamento para Alzheimer&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLXJNb0V5cmozMVRjVHVTTG1lMlVnU2ZueWZIZnVDX3J2aVlFSGRURTZnWjRVXzhQeGN5VUNUWlBqbVFRSnIzbDk4Qm9uUFB4TzlRdHhtRHhsVG5WaTdsbDVxYjZuRmJ6ajBRT3pvT1RQallhTmhCRG5WRF91TDBqck91X1J3ZGd4MHdNeUF0MGNQQWRLYXRHNk9KUF9MTGIzTU5yeVVHS1pOSUJSVG1samxpS3FCOGZMZGZsQ1lxWVVTOTZDdHc2bTVKUVpERFRLUF9F?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "39091ea5c8f8",
+      "title": "Maus hábitos entre brasileiros acendem alerta para câncer de estômago - CNN Brasil",
+      "published": "2026-09-20T06:00:00+00:00",
+      "summary": "Maus hábitos entre brasileiros acendem alerta para câncer de estômago&nbsp;&nbsp;CNN BrasilBrasileiro se sente mais saudável do que de fato é, aponta pesquisa&nbsp;&nbsp;Hoje em DiaBebem, estão acima do peso, não fazem exercícios e se consideram saudáveis: pesquisa revela hábitos dos brasileiros que aumentam o risco de câncer&nbsp;&nbsp;Jornal Correio49% das mulheres brasileiras não praticam exercícios, aponta pesquisa&nbsp;&nbsp;Terra64% dos brasileiros que bebem de 5 a 7 dias por semana consid",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdmZNeXRKSm9MV3R5a3NURzRsMFdBcnppZDhyNjRpaWxxM3EyNjdGaHJGUWJyaFRBTVVOTmtNVzBhSVR3MzdwVGwtQkdiblNsQTA3LThyQXptYTFGNERndkZrWnhFeEc3R0tlZHVTMHVrRjJHbVA3VUNrVnpYazY4NzlzU1RfSjB5dnh3bHF2TDBhS0JxZUJKcU4yNXF6WTFHdHFmenpBUEg?oc=5"
         }
       ]
     },
@@ -21,7 +57,7 @@
       "id": "21a370940dc9",
       "title": "Estudo associa café a efeitos no intestino, humor e memória - Diário do Centro do Mundo",
       "published": "2026-09-20T02:58:13+00:00",
-      "summary": "Estudo associa café a efeitos no intestino, humor e memória&nbsp;&nbsp;Diário do Centro do MundoDo intestino ao cérebro: como o café pode mexer com os dois&nbsp;&nbsp;EstadãoO segredo no seu café diário que transforma o cérebro mesmo na versão descafeinada&nbsp;&nbsp;terra.com.brAroma especial: Só o cheirinho do café já é capaz de melhorar tensão, ansiedade e desânimo, mostra estudo&nbsp;&nbsp;O GLOBOCheiro de café recém-passado pode despertar uma reação no organismo que mexe com o humor antes m",
+      "summary": "Estudo associa café a efeitos no intestino, humor e memória&nbsp;&nbsp;Diário do Centro do MundoDo intestino ao cérebro: como o café pode mexer com os dois&nbsp;&nbsp;EstadãoEstudos comprovam: café faz bem para a microbiota humana&nbsp;&nbsp;TerraAroma especial: Só o cheirinho do café já é capaz de melhorar tensão, ansiedade e desânimo, mostra estudo&nbsp;&nbsp;O GLOBOCheiro de café recém-passado pode despertar uma reação no organismo que mexe com o humor antes mesmo do primeiro gole; entenda&nb",
       "sources": [
         {
           "name": "Diário do Centro do Mundo",
@@ -30,14 +66,26 @@
       ]
     },
     {
-      "id": "71fce49e74cd",
-      "title": "[VÍDEO] Estudante de medicina é flagrada praticando furto em loja de luxo em Natal - Blog do BG",
+      "id": "3d92067f5176",
+      "title": "[VÍDEO] Estudante de medicina é flagrada praticando furto em loja de luxo em Natal - blogdobg.com.br",
       "published": "2026-09-20T00:34:45+00:00",
-      "summary": "[VÍDEO] Estudante de medicina é flagrada praticando furto em loja de luxo em Natal&nbsp;&nbsp;Blog do BG",
+      "summary": "[VÍDEO] Estudante de medicina é flagrada praticando furto em loja de luxo em Natal&nbsp;&nbsp;blogdobg.com.br",
       "sources": [
         {
-          "name": "Blog do BG",
+          "name": "blogdobg.com.br",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcGxuQ2xJUk1fOEtYejhGaEl4c0ZLYlN3U1A0R08xX3QwM21FemMzMC1ZUlVFUWh4NkJkVkxVVkFMbktjZzdzTEFuNW1tSms1S2lwZFdoZlo1WU5FMkZaUl9oQUdIZmkwOC0xbzd4aTZ6RjNLU3VndXRCcHgwcWJBN041ZXJpOWgyWUtiWkpodnpUemV2VElab2hrYlRHVFpSM1JCcVpaaEdkZEZvOUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2fe7bdacb905",
+      "title": "Remédio aprovado nos EUA pode minimizar efeitos colaterais do Mounjaro; entenda - InfoMoney",
+      "published": "2026-09-19T22:30:00+00:00",
+      "summary": "Remédio aprovado nos EUA pode minimizar efeitos colaterais do Mounjaro; entenda&nbsp;&nbsp;InfoMoneyEUA aprovam medicamento contra perda de massa muscular; droga é testada em pacientes que usam Mounjaro&nbsp;&nbsp;G1FDA aprova medicamento que impede perda de músculos em pacientes com atrofia muscular espinhal&nbsp;&nbsp;Folha de S.PauloRemédio é estudado para manter massa muscular no emagrecimento&nbsp;&nbsp;aqui.uai.com.brEUA aprovam tratamento para doença rara que provoca perda muscular&nbsp;&",
+      "sources": [
+        {
+          "name": "InfoMoney",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNalRmcU5oWlhzMGdDbWNsaXBKLWNWaFlqQzhoVF9KU2pyemUyZDRRd3hOSjB2Y0o2SThMLUUwZkVPLXV0aWlrZzN2VXRocmpKRTBHcFZNcWtVbUdZZVNSbl9PR0ROcnhQLUdFOE1aV24wS05WbWtCTExsTmFnRXpYRzlxY0RQWTNWQVpXM1Rqc0FFTHRTTU1xTEY1RHRkZXo5VFBzM3ln0gGrAUFVX3lxTE9QN3M3R0N3WWItbThaQXVEb0p1NXQ0YnI4NklQZFB1RTVZR1ZmYWZHbnhkcEc4Qnh5M3JraHRZTmE3S3BieGpUTDViQ2x4a0FRSG1tNFhiZzVwV2FlR01mQ2pBeFlDaWlOa29ZMHFaeXR0RGlxWlBsY1BNM1ExcmVRZGt1N1d1cVRTZ2pBOTBhTGtmSUdaYlhEQ29RWWdyTHV0eGRYVEVoWmszNA?oc=5"
         }
       ]
     },
@@ -45,11 +93,23 @@
       "id": "ff005d08ac49",
       "title": "Morre Paulo Roberto Teixeira, médico que ajudou a criar resposta do Brasil à aids - Jornal Correio",
       "published": "2026-09-19T22:02:27+00:00",
-      "summary": "Morre Paulo Roberto Teixeira, médico que ajudou a criar resposta do Brasil à aids&nbsp;&nbsp;Jornal CorreioMédico atuou na criação de políticas de prevenção e tratamento&nbsp;&nbsp;CartaCapitalMorre Paulo Roberto Teixeira, líder no combate à aids&nbsp;&nbsp;Imirante.comMorre aos 77 anos Paulo Roberto Teixeira, filho de pioneiros de Dourados&nbsp;&nbsp;Dourados AgoraPara falar de Paulo Roberto Teixeira&nbsp;&nbsp;Agência Aids",
+      "summary": "Morre Paulo Roberto Teixeira, médico que ajudou a criar resposta do Brasil à aids&nbsp;&nbsp;Jornal CorreioMédico atuou na criação de políticas de prevenção e tratamento&nbsp;&nbsp;CartaCapitalMorre aos 77 anos Paulo Roberto Teixeira, filho de pioneiros de Dourados&nbsp;&nbsp;Dourados AgoraMinistério da Saúde lamenta falecimento de Paulo Roberto Teixeira&nbsp;&nbsp;minutomt.com.brPara falar de Paulo Roberto Teixeira&nbsp;&nbsp;Agência Aids",
       "sources": [
         {
           "name": "Jornal Correio",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaUpvVmR5UVZKQmJpbEIzeDlSajZZRGRMY1pQZzlqdVM4bl9tbnI4RTYyTl9sUVhHNERIeWEwRW02Z0todHZTN0J3V3U5STdQVGNXenhpYnZaeERJU3pNWm9sY1JobzNpdnBUNVdyRnM0ZGIzVkdHU1VtSzlxdWgtYmtYeFFiQURLcmRCM1pJWGpNd0c3bU9LY1B3M1hGZWJ4WmIzNk8xODFsaDFHUDZ6clNoZGRMcUtMeWp2VGtZUWR4VWVS?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3a3c9cfd421b",
+      "title": "Novo exame de sangue detecta câncer de pâncreas precoce em 87% dos casos - CNN Brasil",
+      "published": "2026-09-19T20:54:51+00:00",
+      "summary": "Novo exame de sangue detecta câncer de pâncreas precoce em 87% dos casos&nbsp;&nbsp;CNN BrasilExame de sangue detecta câncer de pâncreas inicial em 87% dos casos&nbsp;&nbsp;Folha de S.PauloSetembro Roxo: novas pesquisas ampliam as perspectivas de tratamento de câncer de pâncreas, um dos mais letais&nbsp;&nbsp;Bem ParanáTeste inovador: exame de sangue para câncer de pâncreas atinge alta precisão em estudo&nbsp;&nbsp;TerraCâncer de pâncreas pode começar sem sintomas; veja sete sinais de alerta e o",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNamY4S1dSVmNEX3lPdTI3RUpTcm9OVFlmU2ZkcE0ySVh6N3VqXzlIdXZUZ0swUHdMY1ItLTVGSkI5U1hqV19DVkV4bkRvUlNVYWtYRGpJOXZXa0xMUXJTNWNUa2R4NjVXdWZFSXg2TkNBMVFTRlpqUC1ISF9xVHFIeUlGWUFwaV9HWW1RelE0c3pLLXlSeFRjYnhPSTdqTVBFeGFDb196VG93QTg?oc=5"
         }
       ]
     },
@@ -62,6 +122,18 @@
         {
           "name": "Rádio Itatiaia",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV2ROc0ZtR2J1SHRncUtMVDhpNV9uaG8wa1ZVdHRVMnc1TVNwTGhmRmF5RFJxRXl3RVFONENaX092N3FvTVF5WFhocDJmT3Z5Q2RjTm44WHF6NUFUZzZzXy13ajNWeGtxSkJkMHNZVUFkdmdDRnhrbS1iM1FubEJjdFFYQUdDUVlWbEdJLWR5OUlUNXBaUVBMM004VkhHYUhHMHVQUUdhV1Bqd1BUV0tTSUNiY1lFRktYWHlsQg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3acfb94ee61b",
+      "title": "O que os movimentos do corpo podem revelar sobre os níveis de ansiedade - Folha de S.Paulo",
+      "published": "2026-09-19T15:00:00+00:00",
+      "summary": "O que os movimentos do corpo podem revelar sobre os níveis de ansiedade&nbsp;&nbsp;Folha de S.PauloSeu jeito de caminhar pode dar pistas sobre ansiedade e depressão&nbsp;&nbsp;TerraMovimentos que você faz sem perceber podem ser sinais de ansiedade, dizem especialistas&nbsp;&nbsp;Diário do Comércio",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM0xqSW91S2ZvV3VFcEthc09RUzZCcENBVEhXdzRyeEozNmxYT2p1ZGxtTjZ6WmJYN0hPb0NpY3MyQTFQblZPVy05NGwzbU5RZzV0NnNfVW9vaGJOSWhmUjJ1ZExoUHZGdVNUZzItczk3b282SkctSTdzQ1hPamVPSklHcWVFYmVFNHkyLUlVaEI1YlhrZ1RPYXRzdVRUczF3WFBzVThRNlZDWmNxSXI4dTEzNEpHQUZJUy1TM0FjNml6NFpo?oc=5"
         }
       ]
     },
@@ -93,7 +165,7 @@
       "id": "b6ea8031ee3d",
       "title": "Mulher infarta? Médicos explicam sintomas no sexo feminino ao Dr. Kalil - CNN Brasil",
       "published": "2026-09-19T10:00:44+00:00",
-      "summary": "Mulher infarta? Médicos explicam sintomas no sexo feminino ao Dr. Kalil&nbsp;&nbsp;CNN BrasilSinais sutis de infarto: saiba quando procurar a urgência médica&nbsp;&nbsp;Notícias - Canção NovaSintomas de infarto podem ser discretos&nbsp;&nbsp;Imagem da IlhaO coração da mulher é diferente. Tanto os fatores de risco como os sintomas das …&nbsp;&nbsp;SAPOInfarto nem sempre começa com dor forte: demora para buscar ajuda pode custar músculo cardíaco | SEGS...&nbsp;&nbsp;SEGS Portal Nacional",
+      "summary": "Mulher infarta? Médicos explicam sintomas no sexo feminino ao Dr. Kalil&nbsp;&nbsp;CNN BrasilInfarto: veja os sinais e saiba quando buscar atendimento&nbsp;&nbsp;TerraO coração da mulher é diferente. Tanto os fatores de risco como os sintomas das …&nbsp;&nbsp;sapo.ptInfarto nem sempre começa com dor forte: demora para buscar ajuda pode custar músculo cardíaco | SEGS...&nbsp;&nbsp;SEGS Portal NacionalSaúde cardíaca: Especialistas alertam sinais e medidas ao Dr. Kalil&nbsp;&nbsp;ContilNet",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -129,7 +201,7 @@
       "id": "b92ca31b5e30",
       "title": "Participar de atividades sociais ajuda a prevenir e tratar a depressão em idosos - Extra online",
       "published": "2026-09-19T08:00:00+00:00",
-      "summary": "Participar de atividades sociais ajuda a prevenir e tratar a depressão em idosos&nbsp;&nbsp;Extra onlineSaiba como a saúde mental afeta a longevidade&nbsp;&nbsp;GZHDepressão atinge 30% dos idosos em Mato Grosso aponta pesquisa realizada por universidades&nbsp;&nbsp;SapicuáSaúde mental na terceira idade: 4 cuidados que merecem atenção&nbsp;&nbsp;33 GigaDepressão em idosos: como identificar os primeiros sinais&nbsp;&nbsp;AJN1",
+      "summary": "Participar de atividades sociais ajuda a prevenir e tratar a depressão em idosos&nbsp;&nbsp;Extra onlineSaiba como a saúde mental afeta a longevidade&nbsp;&nbsp;GZHDepressão em idosos: como identificar os primeiros sinais&nbsp;&nbsp;AJN1Fim da rotina de trabalho e declínio funcional afetam o emocional dos idosos&nbsp;&nbsp;Hora CampinasDepressão em pessoas idosas têm sintomas diferentes&nbsp;&nbsp;Instituto de Longevidade MAG",
       "sources": [
         {
           "name": "Extra online",
@@ -138,14 +210,14 @@
       ]
     },
     {
-      "id": "ff6726d85fe5",
-      "title": "Menopausa: além das ondas de calor, entenda os impactos no sono, no corpo e na sexualidade - O GLOBO",
-      "published": "2026-09-19T06:30:01+00:00",
-      "summary": "Menopausa: além das ondas de calor, entenda os impactos no sono, no corpo e na sexualidade&nbsp;&nbsp;O GLOBOMitos e verdades sobre a menopausa&nbsp;&nbsp;Jornal da USP“A perda da proteção estrogênica favorece o ganho de peso”, diz médico sobre menopausa e uso de canetas emagrecedoras&nbsp;&nbsp;Jornal OpçãoReposição hormonal exige avaliação individualizada e atenção aos riscos à saúde&nbsp;&nbsp;ACidade ONTratamento hormonal para menopausa e agonistas de GLP-1: associação pode potencializar res",
+      "id": "97cc7c997b09",
+      "title": "O que se sabe sobre a descoberta de novo planeta que ganhou o apelido de ‘bebê’ - R7",
+      "published": "2026-09-19T05:00:00+00:00",
+      "summary": "O que se sabe sobre a descoberta de novo planeta que ganhou o apelido de ‘bebê’&nbsp;&nbsp;R7",
       "sources": [
         {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQenAxZXRMaElsUnpNNkpsc2hrMnZRNjNyRGptMWQtOHRvNnYxcjZLTUdzdmJyMVpIdktIVnhSTXM4a3hFbTBZUTVGZ3dndTIyRVhSSXFtQTlpYVA4V2M4ZXZQYUZOb05MX3JmeVMwakczV3RRVE5NVGQxZlRVWlVubE15RmNSYnRObXBKSnNhZHJucHNfQ1VNekUzYlJSNmx3cGo5Y3NxQVFsdW9jc01nNmUtcjRJWHRvQ21PVGgtb2tsdUlibm1fcDhzWWhibGp3cDRlMThWb27SAecBQVVfeXFMTTJWWEQ4eHpIbnJQZExjN19sWlh0Z3BGdUN0djNDSDNUTkI5SjZaMFJ2RGxpbDhDZ185ZlJLMXNDWDlWNmpiSE5lZVhMa3gyNjVoZmVuRkpWOUtMVng3dGRHN1g3NDZyM05rMkg3S1dGbTA4SXBMUzRHVTA2UWUyeDE2RkdTYmN6UHRPeHNzQkluV2t1a0VTUlNsY0o4X2lYdlowdzZtQ3BOUXpUa0tTNmVzQVZZLXF6S0tVRUdfMU45QldKbFprZU4zUkhoamczeVhSWmVxdS1QZ01zRjlyWGtUMGJFOXBF?oc=5"
+          "name": "R7",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ05kTm1HTW90Z1pIOE9WRFNXbFlmSEp4c01HMTh3YjQ4OTVCSTQ4blhVMnFoeTRtZWpZcnRSZU94X1Q4ajlBTUZKVU9NQjVzb1djLTZBaTZpbTVmUVc0dFJyZ1phY0ZtZ2c4Q01jWWl1YkRMclFwOG44YkRHN0dDQlhNM2loM3lYSm54SXh1TlVvSlBTRWlqWk9vZ0F6TFhHY0xwdQ?oc=5"
         }
       ]
     },
@@ -158,18 +230,6 @@
         {
           "name": "Minha Vida Saúde",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yTzd2WW42Q0pldkwtQ0h0aUVOQXJJZ2o4dFYyX2dUUmFaS3RhWENnRGEwTFp3NHVRRFdkdE02SzBVUzFCMnFkVFkyVGg0R2tzM1pfeWNQNnM5bWxYOVBjetIBZkFVX3lxTE1HZjQybnNDSkhjZ0hWTjFKTWlRR3FuUnhhblQ3Z0JhNjl5MXNJSHJWUUdCeEhEWXVucWtEWVlTVWhaNDFZNFNjYkV4NjFObHZzZGJaR3NiUXVLelBxTnNCMUNQOTJTZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6c1bb3813a00",
-      "title": "'Tigrinho' boliviano: quem é o professor brasileiro que fez a primeira descoberta de felino em mais de 100 anos - G1",
-      "published": "2026-09-19T03:00:00+00:00",
-      "summary": "'Tigrinho' boliviano: quem é o professor brasileiro que fez a primeira descoberta de felino em mais de 100 anos&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMVFUcHZrNWQtX2tSODduS0xxWThfSTFWUDFuYzQxMm83a090Q3FvS0ExejZmUW9MZFhiVGJQQlhzMGNMbzBOYnVFTFJVaGdGeHhWNWh1allsZWV0a1RQMWpKY2w4bVo1RzFNZE1hU21Pa1IzYWhnbHhOZFBlaUNMN2pnRjlGOEtrN29PdDdqQmJmODhfVWpJWEFfdG5qLWNFQWUtTVJzS0FSNlcwWGpEc3VGN1VLQ1k2RGd0aHFwUXlOTzc4c1FDd25tR0xLYmEwb281UWRxMFNNQUx2azBVMFVyXy1IcGQxWUJCVVlnYnpocTFMX2FBN9IBhwJBVV95cUxOYnRjRXUzZDd5Zk5vbTZMQU02bDRJMkF6dDlwTEtuZncxOHE5cFFqTm1ZQ2pfRC1aaFdsS01CY2pnQmxTcFkzcnduYmhTZTQtb3NkNHNNZ3hVazlKdWl3R19GNG01dmxISlVFLWdNX1l1MkZSZW56d0lCRjExY0puQUk2d2NUTzNRVEF4SzZ3MndFcEt5WU1CdTgyQ3hUcE0yY3dYUkRfWTZib3ZFOFZSdmc1WVM1cTlOblhqVC1Ia0M3ejZwUXRGOWVZdnRuWjBQWWt6R25CcS03WUxQOUp1YmdOMnA3YVJ5ZVk3R0ZJZ3ZsSVdrLVNzd0lHVjVNQ1BKSDBlXzVwdw?oc=5"
         }
       ]
     },
@@ -218,18 +278,6 @@
         {
           "name": "sampi.net.br",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZDZValUyZjVISUxfeG8yQi11dnhmUlJYNGFubmdKb3BMUmI1TXdFRUtnTGlZVHpqOWVoZmtFYXRqT0Z3Y3pvcmprQWJhdWh6MWRXcWwxUFhyY2t0bURCUmVkMXluQVJJbEtJTWJwRGxNcFA3VVJiYVVhQzc4ZmdubXhqU2tkakstN2RLT0plc0cwdHdNSzBJZVZLWTlPTFJJamlUZWxOV2tDXzZJTkZDTXBxTVE1WFp2bTRrX2dR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ec69476dd2a2",
-      "title": "Sinais no corpo podem ajudar a identificar câncer ginecológico - iG Delas",
-      "published": "2026-09-18T22:00:00+00:00",
-      "summary": "Sinais no corpo podem ajudar a identificar câncer ginecológico&nbsp;&nbsp;iG DelasVídeo: Papo Íntimo: prevenção e diagnóstico dos cânceres ginecológicos | Vídeos Bom Dia Paraíba&nbsp;&nbsp;G1Opinião | Cânceres ginecológicos: o que mudou na prevenção, no diagnóstico e no tratamento&nbsp;&nbsp;EstadãoRN deve registrar 630 novos casos de cânceres ginecológicos&nbsp;&nbsp;Tribuna do NorteSetembro em Flor e o câncer que podemos evitar&nbsp;&nbsp;FOLHAMAX",
-      "sources": [
-        {
-          "name": "iG Delas",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS2lublFwQVBMUEZld1hMdXhKd2Nma2lzVDFRWm9ZNklDN1k5RDl5cEo0c3NuZ1F5eW5XN3JHanVpUXZoVTdrM0V2Q00xYW1qYldaM1VlY0ZuRVpjVzVOV0FqTkZjaTBYTmhiNW54Y0NHRlpFYUJaYThBOV9oRXNSYkZsQmlxUXlJa2VNblNBcmlQdXM4NVU5QVYzbXNMd0I3clE0a9IBqgFBVV95cUxNRWRyYjRtZW5kUEl0VUxsbGt3UUF1QmRnLWlmT01WNGZ2MVNObGZTSUhyazJXN0tkR2RsOE16MTB5Y250SHlEaVVJS213WWh1djYwOW5pWW1zUU1JU01Tb0RTTlV1eW1uQ1Z0MmkyM0ZsVXhNRE1LdWVOOG1zcWdBbndwQ2RwcG1LUmhjNUtjbTJXcDl3c0ZReGoyazRfTG1nRWFVOXVkQWpGZw?oc=5"
         }
       ]
     },
@@ -294,61 +342,13 @@
       ]
     },
     {
-      "id": "8fd15d468673",
-      "title": "Astrônomos Confirmam a Descoberta do Planeta Mais Jovem já Encontrado - forbes.com.br",
-      "published": "2026-09-18T15:13:22+00:00",
-      "summary": "Astrônomos Confirmam a Descoberta do Planeta Mais Jovem já Encontrado&nbsp;&nbsp;forbes.com.br",
-      "sources": [
-        {
-          "name": "forbes.com.br",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX25MaHYzZ0xHaWh5Zng4VXEzZlAwb3hmYlpjUGtCRW80ZkdjcDZhS1Y2dl9pbmFrZmdBYnhJVUJxeUJCQnpVN0lmVFByNWVzdFNoUm5RZGl6WHJ5ZngwUjE5cXhOcDhhWnJiNlR6aGRDMnRXMG5mdzZtYVFNRy1SX25Fa29HN2E5MFNaY21KWG11RjBYTXZ4YWwxVGkxY3VNNnlpY3JyOGN5TWdMazRpaEl3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "290528e9d24b",
-      "title": "Por que deixamos tudo para a última hora? Conjunto de estudos em psicologia e neurociência vem sustentando explicação - CNN Brasil",
-      "published": "2026-09-18T15:03:09+00:00",
-      "summary": "Por que deixamos tudo para a última hora? Conjunto de estudos em psicologia e neurociência vem sustentando explicação&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQk54WXdmZ255U3VXZWxpaGZFZUYtNWs4Q0FpQWllaC1BREhOMUlKZ2ZWT016Z05ZMVNNekFETnJDeVFPYTRFb3J5bzhwcWlybG9tX3NQbm9JNDVLaVBQTmFnTU91anMxcWZmTHNCbkhicTVDSTc3M25JYVhtT2lfbi1NVjdGUk1WZzN0c0daWXBoU1RYQXV0WXNINzZBNnc1ZHNqRW0xbDZjNDQ5S2dFd25nTDNsU0F5dGZFS0tETzRDZmJoRlVob1QydEw0NGlLLS1yVk1QZzBzcm13Q2s0eDJXLXhGNDlCVW5Lem9DX1U?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8db4d645ceb3",
-      "title": "Atividade física produz novos neurônios (o efeito começa a partir de 3 meses); mostra novo estudo - O GLOBO",
-      "published": "2026-09-18T14:12:45+00:00",
-      "summary": "Atividade física produz novos neurônios (o efeito começa a partir de 3 meses); mostra novo estudo&nbsp;&nbsp;O GLOBO",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWWY0WTU3NDVFZnhaTjlTTThSNy16TnBxVkZPbEJTdlA1NnVpYVRwbXI4NlNSeXRDQ3pVOFlraDhjZHc4YWx4RDhMZ0J1LXJpWThmQzhldTdEdmNGeXZGNzA0N0JZQ2k4UWczZmhpcVMzWEV0T2htRE9IcVZla25PeHdfMVJDYk8xcDkzYU5odEFkMUVsUHZYSUhFMEM3a2tfUXI5Vk1tYUtINzBHcWQtT0Q5Y01saVU0U0pkMUZyS294TF9lTnBWTXY2d19kbVhVWExOb3lEVFkyaWdsV1JtS0lRVW3SAfMBQVVfeXFMTjNqRVJleU5UdTd1dUt3c1NQRElMUjNucGZKcFVrNUNfWXkzTlJBOGdsdWFLcFZkQTBkbElsWDI5TnFtTWxlaXpmLV9Dbm1rZktFUjVmTUFPWXhLRTJGbm9FMllTOTB4Z3EwUmVxUnQtZEpxV0hfRUdPT19DYmhZeDNpNkVudUo3QXRGaExaM0hTWUVoZXVTamx1d0pNTDVYTjhBRGxmNjZEcE1aa0ExTHJ2MnRnQ0RnSnJjLUJjd014cHhxY1FwWkJvREhjU2RsY0NuOGs5MUZnS041SWxGVDZ0SlgyUEpmSExLaXZURmJadlZr?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ded48e83df89",
-      "title": "Estudo mostra combinações perigosas de remédios para idosos - Tribuna Online",
-      "published": "2026-09-18T10:21:22+00:00",
-      "summary": "Estudo mostra combinações perigosas de remédios para idosos&nbsp;&nbsp;Tribuna OnlineEfeitos de remédios podem ser confundidos com novas doenças, alerta estudo&nbsp;&nbsp;Veja SaúdeNovo estudo identifica combinações de medicamentos potencialmente prejudiciais para os idosos&nbsp;&nbsp;G1JP1: Remédios podem criar um efeito cascata perigoso em idosos; Veja&nbsp;&nbsp;sampi.net.brTontura começou depois de um remédio novo? Em pessoas mais velhas isso também aumenta o risco de queda&nbsp;&nbsp;Tua Sa",
-      "sources": [
-        {
-          "name": "Tribuna Online",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdkNDUHQxU0ZRSTQ2SXhIXzBvT3hKQ0RZaFVYSlFfVXp1QWJ1NFR3LXNnMXNOZzlOYTNYOHhGb1hXQ1U2TzNvTHJHS2s1XzB2c1RoeTVfeVNhRjZ5UjRuQldtMHo1aXZtX1RCUmVYMldIeXp6N2FtSVhZSEM0OWNoLTl6WXZyM0JvVVpIell1UzNjZExLTmxLZ2hPLTItR1Z1c0130gGrAUFVX3lxTE1ibGhlbWpYbkdtZmpaZG9fM1hzRDFoaEtTR3ZyZHRIdnFhdUxEYjRvSFg4V3kycjlmVUpUZF9HenVMeU9wTi1LWHB0aEJUc0FIM2NxYTdXNUFmbUQ3NmJGVmJBQnlxeXpCdWI0ZFpQbTRMRUpNdi1ZVkFteDdLQlVYbzIwT3hGNXc4Sk5fNlprdjV2NE5iWjZDVWRaNUdZUV9WRHM4R0FqM3g3VQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f377f2085643",
-      "title": "Creatina pode ajudar o cérebro após uma noite sem dormir? Estudo revela efeito inesperado - terra.com.br",
+      "id": "65bebfbc1fa5",
+      "title": "Creatina pode ajudar o cérebro após uma noite sem dormir? Estudo revela efeito inesperado - Terra",
       "published": "2026-09-18T07:58:00+00:00",
-      "summary": "Creatina pode ajudar o cérebro após uma noite sem dormir? Estudo revela efeito inesperado&nbsp;&nbsp;terra.com.brCreatina pode ter efeito contra a privação do sono e até a depressão; entenda&nbsp;&nbsp;CNN BrasilBenefícios da creatina além da academia: o que a ciência tem investigado?&nbsp;&nbsp;Assine AbrilCreatina tem efeito contra a privação do sono; entenda&nbsp;&nbsp;O GLOBOCreatina: Novo estudo analisa os impactos positivos do uso do suplemento no combate aos efeitos da privação de sono no",
+      "summary": "Creatina pode ajudar o cérebro após uma noite sem dormir? Estudo revela efeito inesperado&nbsp;&nbsp;TerraCreatina pode ter efeito contra a privação do sono e até a depressão; entenda&nbsp;&nbsp;CNN BrasilCreatina além da academia: 3 benefícios que a ciência está investigando&nbsp;&nbsp;Assine AbrilCreatina tem efeito contra a privação do sono; entenda&nbsp;&nbsp;O GLOBOCreatina: Novo estudo analisa os impactos positivos do uso do suplemento no combate aos efeitos da privação de sono no organism",
       "sources": [
         {
-          "name": "terra.com.br",
+          "name": "Terra",
           "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQNGtGcnkyM2wtS3VnVG9mSEtlcjVMbFJ2Qmc1WFRYVXFzWnZXcHB5MUMyckRfYVpPd0lKd0tfWHdmeDBTM1VwU3NXSnBvd2RpVlZDdDVaQXk5SlFLTmU1VGFkY3NWMWtQSnNoT2lZV2NFWUNwYlVUb3k5VFdiMTZmVGdkZ1hyX3I2V2ZBcnYtRzhXeXhVdVFaY0ZLQ2VkZ09QZURRTFlQWnB5OURSSGNuSE5la0YxVGxvY2MwYXFQaVJja1VvZ1VST1RhaHMwLUJmRm5RRUpxVVd1eG1lNmxkNVc2VXN2RG5UUjN2TGd1ZzFwQWxRRDVkcXhpUlhPdXlyOUVuMm9YY3pxVUU?oc=5"
         }
       ]
@@ -357,7 +357,7 @@
       "id": "7115cc9ae5ca",
       "title": "É possível sofrer um ataque de morcego? Caso raro em Ilha Grande (RJ) vira estudo científico; saiba mais - O GLOBO",
       "published": "2026-09-18T07:00:01+00:00",
-      "summary": "É possível sofrer um ataque de morcego? Caso raro em Ilha Grande (RJ) vira estudo científico; saiba mais&nbsp;&nbsp;O GLOBOHomem é mordido por Morcego em Ilha Grande, no Rio&nbsp;&nbsp;iG Último SegundoSuspeita de ataque de morcego-vampiro surge após homem encontrar sangue no chão e ferimento no pé sem sentir dor; caso vira estudo científico&nbsp;&nbsp;diariodolitoral.com.brCaso de homem atacado por morcego-vampiro é descrito pela ciência; entenda o comportamento&nbsp;&nbsp;redeutv.com.brBrasile",
+      "summary": "É possível sofrer um ataque de morcego? Caso raro em Ilha Grande (RJ) vira estudo científico; saiba mais&nbsp;&nbsp;O GLOBOSuspeita de ataque de morcego-vampiro surge após homem encontrar sangue no chão e ferimento no pé sem sentir dor; caso vira estudo científico&nbsp;&nbsp;Diário do LitoralBrasileiro, morador do RJ, alega ter sido atacado por “vampiro” e cientistas investigam o caso&nbsp;&nbsp;Diário do ComércioHomem é mordido por Morcego em Ilha Grande, no Rio&nbsp;&nbsp;iG Último SegundoCaso",
       "sources": [
         {
           "name": "O GLOBO",
@@ -369,7 +369,7 @@
       "id": "af66c19b5e19",
       "title": "Ministério da Saúde qualifica assistência para prevenir progressão da doença renal - www.gov.br",
       "published": "2026-09-18T00:29:57+00:00",
-      "summary": "Ministério da Saúde qualifica assistência para prevenir progressão da doença renal&nbsp;&nbsp;www.gov.brSUS vai integrar tratamento de doença renal crônica em meio a avanço de casos no país&nbsp;&nbsp;Folha de S.PauloMinistério da Saúde reestrutura atendimento a pacientes renais no SUS e reajusta repasses em até 360%&nbsp;&nbsp;Região NoroesteMinistério da Saúde qualifica assistência para prevenir progressão de doença renal crônica&nbsp;&nbsp;portalmarcossantos.com.brSUS amplia atendimento para ",
+      "summary": "Ministério da Saúde qualifica assistência para prevenir progressão da doença renal&nbsp;&nbsp;www.gov.brSUS vai integrar tratamento de doença renal crônica em meio a avanço de casos no país&nbsp;&nbsp;Folha de S.PauloMinistério da Saúde reestrutura atendimento a pacientes renais no SUS e reajusta repasses em até 360%&nbsp;&nbsp;Região NoroesteMinistério da Saúde qualifica assistência para prevenir progressão de doença renal crônica&nbsp;&nbsp;portalmarcossantos.com.brDoença renal: SUS amplia cui",
       "sources": [
         {
           "name": "www.gov.br",
@@ -393,23 +393,11 @@
       "id": "5f74a35d837d",
       "title": "O paciente além da diálise: avanços no tratamento da doença renal crônica permitem uma vida com mais autonomia - Portal Drauzio Varella",
       "published": "2026-09-17T18:04:21+00:00",
-      "summary": "O paciente além da diálise: avanços no tratamento da doença renal crônica permitem uma vida com mais autonomia&nbsp;&nbsp;Portal Drauzio VarellaNo Brasil, apenas 4% dos transplantes renais são em pacientes pediátricos&nbsp;&nbsp;AJN1Doença renal atinge cerca de 1 em cada 10 brasileiros: veja mitos e verdades sobre o transplante de rim&nbsp;&nbsp;ACidade ON",
+      "summary": "O paciente além da diálise: avanços no tratamento da doença renal crônica permitem uma vida com mais autonomia&nbsp;&nbsp;Portal Drauzio VarellaVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
           "name": "Portal Drauzio Varella",
           "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWnBEOFlvLWNVdzZBdlJKVkt0akhsT1cxdkdSVUZOVjBsbDRGZnMzWmEyaXFjaXFEd2JqZ0hEdEc0XzBnODlqelVtdC0zVW9iLVVkZVgwUHRVYmxSSG1WcUVrc3Y1ZEU1LW9mcWhJMFRSYWlqYVNmOHo0MjJsM1hrY1hSQ1p5Y3Z5Wm50ZjFYVE1KZng3YkN0ZFJhaU5uMlA5cWJxVFNpZkFMLXg4N2VGbWVPeFV3RzZZVXZLeWczcEZpYzJWaE9xdXlrM05WbUtsUnFlSGhzV1ByQmVCTzN6NVE2dUkyako3UGpB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "57d0fcf73db1",
-      "title": "'Descobri doença rara com um match no Tinder, após 30 anos sem diagnóstico' - BBC",
-      "published": "2026-09-17T08:06:33+00:00",
-      "summary": "'Descobri doença rara com um match no Tinder, após 30 anos sem diagnóstico'&nbsp;&nbsp;BBCMulher passou quase 30 anos sem diagnóstico e descobriu doença rara após dar match com estudante de medicina no Tinder&nbsp;&nbsp;Diário do ComércioEla deu match com médico no Tinder e descobriu doença rara que causava dores e queimação na pele desde os 3 anos&nbsp;&nbsp;ND MaisMatch no Tinder ajuda mulher a descobrir doença rara após quase 30 anos sem diagnóstico&nbsp;&nbsp;Diário do Centro do MundoMulher ",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hR1N6aVYyODFlc0I2Nnh0aWU2aGFHdTlaTnFEU3hialY4bS1PMmRJWWdkcEZ1VXZVR0t6ZTBwdEV2NngtNENReGpOWGZPSDg5a2lMcnpXU3FaYTdpb3dfby1R0gFnQVVfeXFMT1FlR3BwSEI0UHEtbWFNWHVpZXY1am5yWWVGMFI3R01kQXNQUGt3V1gwZWJIZWIwN2lsSTU3d2xiZnNBelVEYm41enNZRFVveHEzVHltVDJvelEzSTdwS1piYzNxQ0R6MA?oc=5"
         }
       ]
     },
@@ -434,30 +422,6 @@
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeWoxbjhYRDlyQ3g4RDVGWjJGcGhMNGZYUTN6RXpPTUU5dDhubEY2YW9qNG4xeENJR3hyRmw3elJOM1RHMGhfNndDaDZUQU1kY3Q1dVIwVGVDNVNQcFF6MGdwNzJNb3ZzcjE5MDlUZWdXSnpiQ1A1eEs1QWQyOG12dUF6cS13MmN3alZoQnRmOVo4U1FDZVB4R01hdnhEclM5Z2FxVEFxLXQxcEE1aHpQbmhqWGRhVmZlTncwMdIBywFBVV95cUxNUzhTOU5oNGJxZUdmMWttbGJWbUY4ZHRqSWJHdXVtakQ2eUEzS1J6dzBiM212QUtHeXRBNzRlcEhmMnB0LTZEWXhUWHhveFVldV9zdEZYM0hBM3plUmNyeGZvYkpoUGJ6WFN1UWpJb2VleHQyRDE1eURtd3d6WTdpckVtODdKaWpjbU9ZV0drVjFwcFNaZV8yX1ZlNHNkb2VNal9BZzdSZExjNHhJVGRBdllmbGFncGRFRnJ3aWpOcGNRY2lvNHpzbVRVaw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0efe6a9eddf3",
-      "title": "Por que há o temor sobre IA acabar com a humanidade — e existe mesmo o risco? - BBC",
-      "published": "2026-09-15T11:31:01+00:00",
-      "summary": "Por que há o temor sobre IA acabar com a humanidade — e existe mesmo o risco?&nbsp;&nbsp;BBC",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBScGdjZ0lXc3FSc3FzZnVNNUNHU1NsMW9PMVNqMkVENEk4RGdOb2RtMUNrSU1fMlVzRHJNUDQwd3RYVDFBUVVYMXJzcWZRNmstNGxSQ1U0SGkxeHBCa2RUak1DVdIBaEFVX3lxTFB2cnhOdzd5N0FRUjRmMXNINHNVa3NqNkZyTk12SV9rZjFlQTdTM001RVdNdzJLQmJELVZmVUdtWFZGeGJtcjFyOVFGb29Ra2JGbV9KaHVud0lNQmM0eUJjWGRIMERBVG96?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e6f574f7920e",
-      "title": "Casos de câncer de pâncreas crescem entre jovens, aponta estudo - terra.com.br",
-      "published": "2026-09-14T11:15:00+00:00",
-      "summary": "Casos de câncer de pâncreas crescem entre jovens, aponta estudo&nbsp;&nbsp;terra.com.brExame de sangue detecta câncer de pâncreas inicial em 87% dos casos&nbsp;&nbsp;Folha de S.PauloSetembro Roxo: novas pesquisas ampliam as perspectivas de tratamento de câncer de pâncreas, um dos mais letais&nbsp;&nbsp;Bem ParanáTeste inovador: exame de sangue para câncer de pâncreas atinge alta precisão em estudo&nbsp;&nbsp;terra.com.brCâncer de pâncreas pode começar sem sintomas; veja sete sinais de alerta e o",
-      "sources": [
-        {
-          "name": "terra.com.br",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRTJzV2c1Z3pZSkdsZVFFMlVTdzhhUE9sZGhEbTFfRURDd3VRUlZiYm9KZ0VaZnJSN0duM1JOQnZXQklRdWxHU000RTJlWFJMbGw2amZiWVlUc2hBNzJCLWU4LThsNmhpcTJYUG5FNkw5OERmU2hIZ1ZPSzVVaUZ6TU9fcjJNRmc2Y0lLTUNyM0hMMF9OYUk4VTBlQ3MzcWZ0RHZyRmI1SlItamE4VHE5dklvRUo5aGkwWVZwM2tyYUI3UFUtVFFONnFNUTd1TG4tS2lNVEJxUE1oWkp4ZHpLSw?oc=5"
         }
       ]
     }
