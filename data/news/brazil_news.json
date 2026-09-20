@@ -1,31 +1,55 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-09-20T03:56:31.118015+00:00",
-  "total_fetched": 101,
-  "unique_count": 99,
-  "health_related_count": 36,
+  "fetched_at": "2026-09-20T10:51:19.216831+00:00",
+  "total_fetched": 102,
+  "unique_count": 102,
+  "health_related_count": 38,
   "news": [
     {
-      "id": "ff005d08ac49",
-      "title": "Morre Paulo Roberto Teixeira, médico que ajudou a criar resposta do Brasil à aids - Jornal Correio",
-      "published": "2026-09-19T22:02:27+00:00",
-      "summary": "Morre Paulo Roberto Teixeira, médico que ajudou a criar resposta do Brasil à aids&nbsp;&nbsp;Jornal CorreioO adeus ao Dr. Paulo Roberto Teixeira, o médico que transformou a luta contra a aids em política de cuidado e direitos&nbsp;&nbsp;Agência AidsMédico atuou na criação de políticas de prevenção e tratamento&nbsp;&nbsp;CartaCapitalMorre Paulo Roberto Teixeira, líder no combate à aids&nbsp;&nbsp;Imirante.comPaulo Roberto Teixeira, uma das referências em saúde pública no Brasil. Ele faleceu aos ",
+      "id": "b98a12d91ce4",
+      "title": "Nem todo ultraprocessado é igual: interpretar o rótulo é fundamental - UOL",
+      "published": "2026-09-20T08:30:00+00:00",
+      "summary": "Nem todo ultraprocessado é igual: interpretar o rótulo é fundamental&nbsp;&nbsp;UOLAlimentos ultraprocessados: preço impacta escolhas menos saudáveis&nbsp;&nbsp;G1Alimentos “fit” podem aumentar risco de doenças crônicas&nbsp;&nbsp;Correio do PovoUltraprocessados: uma política regulatória para o Brasil&nbsp;&nbsp;JOTA InfoAlimentos com aspecto de plástico, os ultraprocessados caem no gosto dos jovens&nbsp;&nbsp;Jornal da USP",
       "sources": [
         {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaUpvVmR5UVZKQmJpbEIzeDlSajZZRGRMY1pQZzlqdVM4bl9tbnI4RTYyTl9sUVhHNERIeWEwRW02Z0todHZTN0J3V3U5STdQVGNXenhpYnZaeERJU3pNWm9sY1JobzNpdnBUNVdyRnM0ZGIzVkdHU1VtSzlxdWgtYmtYeFFiQURLcmRCM1pJWGpNd0c3bU9LY1B3M1hGZWJ4WmIzNk8xODFsaDFHUDZ6clNoZGRMcUtMeWp2VGtZUWR4VWVS?oc=5"
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbF9jX3RMckdQS2w4eVdUSUUyUmFEWmduMURHRnVBc1gyaE51SXlJQXhWZ0JCYXVwU1lCY2N1NDlIZEJMS0tGdi03VDFjX2d4UHpBZ1JXS1dvVXgyVDFEeHlDXy1tdkNtWHNXYWFHdGVwODJoUm9sb1VCaEJLZnJpd2xQYm1TYk9UaW1kMEJhN3dJakFjUXlVWGlvWnZJdzJpNWE3aWhkeFpsMWliME1LVTNOZmZSbXEzMFpRMTBST3dBNHF6SnlvOTVvNA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "21a370940dc9",
+      "title": "Estudo associa café a efeitos no intestino, humor e memória - Diário do Centro do Mundo",
+      "published": "2026-09-20T02:58:13+00:00",
+      "summary": "Estudo associa café a efeitos no intestino, humor e memória&nbsp;&nbsp;Diário do Centro do MundoDo intestino ao cérebro: como o café pode mexer com os dois&nbsp;&nbsp;EstadãoO segredo no seu café diário que transforma o cérebro mesmo na versão descafeinada&nbsp;&nbsp;terra.com.brAroma especial: Só o cheirinho do café já é capaz de melhorar tensão, ansiedade e desânimo, mostra estudo&nbsp;&nbsp;O GLOBOCheiro de café recém-passado pode despertar uma reação no organismo que mexe com o humor antes m",
+      "sources": [
+        {
+          "name": "Diário do Centro do Mundo",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQemFISF9ZTHJfdENEVzJJNVgyNUJwQkx3WUtDbVpoQ0dSbWJjZlRBWVpEaTk3VHJRRUM0S3NsVTl0dkNZa1dDRDN3dDlKX3pnak4wdEVkWFBGYVlmQnhZbXkzdmtXZ2JrRUFDQnZpT19GUG45MkN4ckNQTUVGUWMxR1dVcFlXSThGMlZ1YTN6QTdCUjNCVm1pOHRkbXByazg?oc=5"
         }
       ]
     },
     {
       "id": "71fce49e74cd",
       "title": "[VÍDEO] Estudante de medicina é flagrada praticando furto em loja de luxo em Natal - Blog do BG",
-      "published": "2026-09-19T21:36:38+00:00",
+      "published": "2026-09-20T00:34:45+00:00",
       "summary": "[VÍDEO] Estudante de medicina é flagrada praticando furto em loja de luxo em Natal&nbsp;&nbsp;Blog do BG",
       "sources": [
         {
           "name": "Blog do BG",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcGxuQ2xJUk1fOEtYejhGaEl4c0ZLYlN3U1A0R08xX3QwM21FemMzMC1ZUlVFUWh4NkJkVkxVVkFMbktjZzdzTEFuNW1tSms1S2lwZFdoZlo1WU5FMkZaUl9oQUdIZmkwOC0xbzd4aTZ6RjNLU3VndXRCcHgwcWJBN041ZXJpOWgyWUtiWkpodnpUemV2VElab2hrYlRHVFpSM1JCcVpaaEdkZEZvOUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ff005d08ac49",
+      "title": "Morre Paulo Roberto Teixeira, médico que ajudou a criar resposta do Brasil à aids - Jornal Correio",
+      "published": "2026-09-19T22:02:27+00:00",
+      "summary": "Morre Paulo Roberto Teixeira, médico que ajudou a criar resposta do Brasil à aids&nbsp;&nbsp;Jornal CorreioMédico atuou na criação de políticas de prevenção e tratamento&nbsp;&nbsp;CartaCapitalMorre Paulo Roberto Teixeira, líder no combate à aids&nbsp;&nbsp;Imirante.comMorre aos 77 anos Paulo Roberto Teixeira, filho de pioneiros de Dourados&nbsp;&nbsp;Dourados AgoraPara falar de Paulo Roberto Teixeira&nbsp;&nbsp;Agência Aids",
+      "sources": [
+        {
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaUpvVmR5UVZKQmJpbEIzeDlSajZZRGRMY1pQZzlqdVM4bl9tbnI4RTYyTl9sUVhHNERIeWEwRW02Z0todHZTN0J3V3U5STdQVGNXenhpYnZaeERJU3pNWm9sY1JobzNpdnBUNVdyRnM0ZGIzVkdHU1VtSzlxdWgtYmtYeFFiQURLcmRCM1pJWGpNd0c3bU9LY1B3M1hGZWJ4WmIzNk8xODFsaDFHUDZ6clNoZGRMcUtMeWp2VGtZUWR4VWVS?oc=5"
         }
       ]
     },
@@ -45,7 +69,7 @@
       "id": "52d969d33b88",
       "title": "Bactéria comum no estômago pode estar ligada a um em cada cinco casos de câncer de intestino; entenda - Jornal Correio",
       "published": "2026-09-19T14:24:04+00:00",
-      "summary": "Bactéria comum no estômago pode estar ligada a um em cada cinco casos de câncer de intestino; entenda&nbsp;&nbsp;Jornal CorreioEstudo relaciona bactéria que afeta estômago a um em cada cinco casos de câncer colorretal&nbsp;&nbsp;VEJABactéria pode agir por anos no estômago sem apresentar sintomas&nbsp;&nbsp;G1Bactéria silenciosa costuma estar por trás do câncer de estômago; veja como se proteger&nbsp;&nbsp;EstadãoMutirão gratuito em Belém oferece teste e avaliação para H. pylori&nbsp;&nbsp;diario",
+      "summary": "Bactéria comum no estômago pode estar ligada a um em cada cinco casos de câncer de intestino; entenda&nbsp;&nbsp;Jornal CorreioEstudo relaciona bactéria que afeta estômago a um em cada cinco casos de câncer colorretal&nbsp;&nbsp;VEJABactéria pode agir por anos no estômago sem apresentar sintomas&nbsp;&nbsp;G1Bactéria silenciosa costuma estar por trás do câncer de estômago; veja como se proteger&nbsp;&nbsp;EstadãoA dor melhorou depois do tratamento da H. pylori, mas isso não confirma que a bactér",
       "sources": [
         {
           "name": "Jornal Correio",
@@ -102,6 +126,18 @@
       ]
     },
     {
+      "id": "b92ca31b5e30",
+      "title": "Participar de atividades sociais ajuda a prevenir e tratar a depressão em idosos - Extra online",
+      "published": "2026-09-19T08:00:00+00:00",
+      "summary": "Participar de atividades sociais ajuda a prevenir e tratar a depressão em idosos&nbsp;&nbsp;Extra onlineSaiba como a saúde mental afeta a longevidade&nbsp;&nbsp;GZHDepressão atinge 30% dos idosos em Mato Grosso aponta pesquisa realizada por universidades&nbsp;&nbsp;SapicuáSaúde mental na terceira idade: 4 cuidados que merecem atenção&nbsp;&nbsp;33 GigaDepressão em idosos: como identificar os primeiros sinais&nbsp;&nbsp;AJN1",
+      "sources": [
+        {
+          "name": "Extra online",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNc0REc2VEX29sQWZUX1hVRkdkRDVCMHZPYThpY2l5X0psNHJwVm81S2RXMXlkeGtZWVhPLTQtM0EzeUdzMktaalZhQm5pXy1QcFJFQThlRFVILUNTMEJjUmEwXzR6ZHJxcUhuamNSTTlzOXFwTlQxbFpMOWF1OVVQTF9TUjJDSGhqbDhycnZRMEpZMHVLUUxoS2QtMVI5Tk5ORHNOenRkTml4T1BFNXowa1lkWVZwREg0emxPLXI0OU5idHgxaTlCa1FNa2LSAdsBQVVfeXFMUG40Nm9qQy1tN2kydS1RZTJORzlvUmx1TUNuQmJ3emRwbTdjUm1IUUhwMWdmQ3k1Zk9uR1NyU1ZaeU5NRGRuN3E2VHUzUE1rSUFjQ1gxZTZKUVlTOXlPbUJkakNacS1fQUVyWmZURkVHNEJjOGhoMUt0Z0FoOXZmQWlrNW1FN01CRU5oVjVoZ19RWnlvWXVIZkJkeGtKTkhNMktjQXZteUN6SDNwaXVuOXFEYk5ncWlJZFFYZDRNYmtwV1lYd1V5OTlSVVlLdFdZRlhJYjVFU0VPUFFJ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "ff6726d85fe5",
       "title": "Menopausa: além das ondas de calor, entenda os impactos no sono, no corpo e na sexualidade - O GLOBO",
       "published": "2026-09-19T06:30:01+00:00",
@@ -110,6 +146,18 @@
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQenAxZXRMaElsUnpNNkpsc2hrMnZRNjNyRGptMWQtOHRvNnYxcjZLTUdzdmJyMVpIdktIVnhSTXM4a3hFbTBZUTVGZ3dndTIyRVhSSXFtQTlpYVA4V2M4ZXZQYUZOb05MX3JmeVMwakczV3RRVE5NVGQxZlRVWlVubE15RmNSYnRObXBKSnNhZHJucHNfQ1VNekUzYlJSNmx3cGo5Y3NxQVFsdW9jc01nNmUtcjRJWHRvQ21PVGgtb2tsdUlibm1fcDhzWWhibGp3cDRlMThWb27SAecBQVVfeXFMTTJWWEQ4eHpIbnJQZExjN19sWlh0Z3BGdUN0djNDSDNUTkI5SjZaMFJ2RGxpbDhDZ185ZlJLMXNDWDlWNmpiSE5lZVhMa3gyNjVoZmVuRkpWOUtMVng3dGRHN1g3NDZyM05rMkg3S1dGbTA4SXBMUzRHVTA2UWUyeDE2RkdTYmN6UHRPeHNzQkluV2t1a0VTUlNsY0o4X2lYdlowdzZtQ3BOUXpUa0tTNmVzQVZZLXF6S0tVRUdfMU45QldKbFprZU4zUkhoamczeVhSWmVxdS1QZ01zRjlyWGtUMGJFOXBF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "26674d9c19f0",
+      "title": "Albert Einstein, físico: \"Uma vida tranquila e modesta traz mais felicidade do que a busca pelo sucesso.\" - Minha Vida Saúde",
+      "published": "2026-09-19T03:51:06+00:00",
+      "summary": "Albert Einstein, físico: \"Uma vida tranquila e modesta traz mais felicidade do que a busca pelo sucesso.\"&nbsp;&nbsp;Minha Vida Saúde",
+      "sources": [
+        {
+          "name": "Minha Vida Saúde",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yTzd2WW42Q0pldkwtQ0h0aUVOQXJJZ2o4dFYyX2dUUmFaS3RhWENnRGEwTFp3NHVRRFdkdE02SzBVUzFCMnFkVFkyVGg0R2tzM1pfeWNQNnM5bWxYOVBjetIBZkFVX3lxTE1HZjQybnNDSkhjZ0hWTjFKTWlRR3FuUnhhblQ3Z0JhNjl5MXNJSHJWUUdCeEhEWXVucWtEWVlTVWhaNDFZNFNjYkV4NjFObHZzZGJaR3NiUXVLelBxTnNCMUNQOTJTZw?oc=5"
         }
       ]
     },
@@ -129,7 +177,7 @@
       "id": "666287308428",
       "title": "Jovem morre por meningite e profissionais de saúde são afastados na Serra - Folha Vitória",
       "published": "2026-09-19T02:09:56+00:00",
-      "summary": "Jovem morre por meningite e profissionais de saúde são afastados na Serra&nbsp;&nbsp;Folha VitóriaPrefeitura da Serra afasta médicos que atuaram no caso de jovem morta por meningite&nbsp;&nbsp;G1Jovem morre de meningite após procurar UPA cinco vezes na Serra&nbsp;&nbsp;A GazetaJovem morre por meningite e profissionais de saúde são afastados no ES&nbsp;&nbsp;espiritosantonoticias.com.brFamília pede investigação após morte de jovem por meningite&nbsp;&nbsp;Tribuna Online",
+      "summary": "Jovem morre por meningite e profissionais de saúde são afastados na Serra&nbsp;&nbsp;Folha VitóriaPrefeitura da Serra afasta médicos que atuaram no caso de jovem morta por meningite&nbsp;&nbsp;G1Jovem morre de meningite após procurar UPA cinco vezes na Serra&nbsp;&nbsp;A GazetaJovem morre por meningite e profissionais de saúde são afastados no ES&nbsp;&nbsp;Jornal Espírito Santo NotíciasFamília pede investigação após morte de jovem por meningite&nbsp;&nbsp;Tribuna Online",
       "sources": [
         {
           "name": "Folha Vitória",
@@ -198,18 +246,6 @@
       ]
     },
     {
-      "id": "87980d31b840",
-      "title": "Exame de sangue detecta câncer de pâncreas inicial em 87% dos casos - Folha de S.Paulo",
-      "published": "2026-09-18T19:42:00+00:00",
-      "summary": "Exame de sangue detecta câncer de pâncreas inicial em 87% dos casos&nbsp;&nbsp;Folha de S.PauloSetembro Roxo: novas pesquisas ampliam as perspectivas de tratamento de câncer de pâncreas, um dos mais letais&nbsp;&nbsp;Bem ParanáTeste inovador: exame de sangue para câncer de pâncreas atinge alta precisão em estudo&nbsp;&nbsp;TerraCâncer de pâncreas pode começar sem sintomas; veja sete sinais de alerta e os novos tratamentos&nbsp;&nbsp;Jornal CorreioNovo exame de sangue detecta câncer de pâncreas e",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONWhpV0ZtMFhFOXhjTlBOaXRPWU5QT19pQTZ2ekwydEtnSjNqazJQWXhPbm81M3N0QndqcHFOYVJrM2pBdFhNaDYzS1BpaVhVY3BHYmxQS1hYX0xxTmZ6NW5JWXo2MWhvZ3RMV0h3S3hyZjJwR1FlM1ZQRFExUmtJYWdkd2pVY0RpaHVJMGU1Y1NZRWdUdWc4aEtFdTVEMlp4SWNsdHY3VmhJb2dpVXc1REl0bkJxZl9LeDJYR0dSQXV3cmFVSEE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "687d4231bd55",
       "title": "Atividade física frequente reduz risco de diabetes tipo 2 em pessoas 60+ - viva.com.br",
       "published": "2026-09-18T19:18:00+00:00",
@@ -218,18 +254,6 @@
         {
           "name": "viva.com.br",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYUhMNG11d2M4cV81c3dnTldCWUx1Q3RzNVpwcVY4QVRLZXNVcXFNUnE1a0RsbUprQzVLX3JiV0Y5dVR5UE9FYVctd0NfeDVJcTlyVFpEdHRkaHZ1d3RrY0gtcmQtMkNMWWUway1zWW1fbUJfeF9QS18zZnhzNS03V2pZRFpqeEJsOFZJYUhkTlJsXzJULV8xaDBIYVM5OTFlUS0tUlliT3doaGY1M29iRjZrLU8?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7d00356d13d9",
-      "title": "Do intestino ao cérebro: como o café pode mexer com os dois - Estadão",
-      "published": "2026-09-18T19:04:26+00:00",
-      "summary": "Do intestino ao cérebro: como o café pode mexer com os dois&nbsp;&nbsp;EstadãoO segredo no seu café diário que transforma o cérebro mesmo na versão descafeinada&nbsp;&nbsp;TerraCheiro de café recém-passado pode despertar uma reação no organismo que mexe com o humor antes mesmo do primeiro gole; entenda&nbsp;&nbsp;CNN BrasilAroma especial: Só o cheirinho do café já é capaz de melhorar tensão, ansiedade e desânimo, mostra estudo&nbsp;&nbsp;O GLOBOCafé pode alimentar bactérias benéficas do intestin",
-      "sources": [
-        {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc2tHc1U2dkpBLUFBYU9qcExsdnltVTBtU2xyaFdBTHVkam85UkI1QW1FTWVhb2ItUGJjNGJ5WU02WXlBM3ctT2UycXVFNXIzdjRQUXBiYThnSnc3c2RKbDdmSWE5OE9aTUlSOHAxMm9ISURQUmNqdE5INW5ienNRYTJDV2ZlNjhhblUtRzZudlJGWTEycUFSYU9aalhQUk1oRmVB0gGoAUFVX3lxTE5VYVY2MndaMTAzbVBrckxGNmJNQ0RHSzhadEEzN2MtWHVSX2NiUm92YU1faExVS0pwUGctSlBnYlhmM0hqNW9BWnBzTzl5TGQyb2NEeWFHODlxMHB1RDk5ZG43d3FfVWxFRWtCSnJ6dDdtQWNNVkNWSFBSWWI2NUFvc0hfUVVZYlo3cXJQX1F2QnE1WmpBcloya0JteHZod2Ffb0hKaUs5Qw?oc=5"
         }
       ]
     },
@@ -270,13 +294,13 @@
       ]
     },
     {
-      "id": "a2e3537304b5",
-      "title": "Astrônomos Confirmam a Descoberta do Planeta Mais Jovem já Encontrado - Forbes Brasil",
+      "id": "8fd15d468673",
+      "title": "Astrônomos Confirmam a Descoberta do Planeta Mais Jovem já Encontrado - forbes.com.br",
       "published": "2026-09-18T15:13:22+00:00",
-      "summary": "Astrônomos Confirmam a Descoberta do Planeta Mais Jovem já Encontrado&nbsp;&nbsp;Forbes Brasil",
+      "summary": "Astrônomos Confirmam a Descoberta do Planeta Mais Jovem já Encontrado&nbsp;&nbsp;forbes.com.br",
       "sources": [
         {
-          "name": "Forbes Brasil",
+          "name": "forbes.com.br",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX25MaHYzZ0xHaWh5Zng4VXEzZlAwb3hmYlpjUGtCRW80ZkdjcDZhS1Y2dl9pbmFrZmdBYnhJVUJxeUJCQnpVN0lmVFByNWVzdFNoUm5RZGl6WHJ5ZngwUjE5cXhOcDhhWnJiNlR6aGRDMnRXMG5mdzZtYVFNRy1SX25Fa29HN2E5MFNaY21KWG11RjBYTXZ4YWwxVGkxY3VNNnlpY3JyOGN5TWdMazRpaEl3?oc=5"
         }
       ]
@@ -318,37 +342,13 @@
       ]
     },
     {
-      "id": "68b7297f5717",
-      "title": "Vinte mulheres tiveram mamas removidas sem necessidade em tratamento de câncer no Reino Unido; entenda - O GLOBO",
-      "published": "2026-09-18T09:27:47+00:00",
-      "summary": "Vinte mulheres tiveram mamas removidas sem necessidade em tratamento de câncer no Reino Unido; entenda&nbsp;&nbsp;O GLOBO",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPUExmSU1MdmlWLWEzU20zaGJ1SlBPXzFSa0RQOWxjbHhCaXFqREdaNEplQlNTWHNJNndwc3VtUzlGNmE1Q19jRnJ6czlpYkZoUmlYWkM2UGRRc3lSUGJoakl5dGVXemFhNkZDSUpoTWY1TGFMd2VOdUl1V012VElMSEFkM1FqMlQxeDlEeWx1ZENrWFMyeWd5U3ZDUlBvXzdVNXh6VzJ2WlpURTVkcl9oQzdFdzNsYlJRNUZhREpZZ053SGtweHZBLXlsd25wS2FhVDRhLVBONW5jcW45akNVck5vbDN1UEVTYmNtSVRQcm9QZ0F2eVpCVk9VNUN3a3RlaXoyWXpibUHSAZcCQVVfeXFMUFZKeDR3TGxCc2dDNWVhN1pHWXVleVFiWFFtWGdzWTVrT2tyN0E0S19IRGNZLVM3eGk3NXZWREJNLTI5My1PM0JZZDRxc1M1dmx0ZnFfemR4by1iNml1czAyMDZHSTRnU0tNZFkyUHc3Y3dsd0c5YWJXRW9jNm95RGJlR3RtaW5yOFl0eEdGN2JNeENyZXo1UFluM094QkZreHdSakNRNWtxRjF3dnZ6cXRUOVpGYllkaUh4S1g3LWFjalZGMGMwQ0JCZUJSNW5kMi1aS19yMVh6VTdmSllDSkZEV0hBOC00X1YxUEdYRDNhSV81akVfcE9Ick1nZlFmZFktUkhEbzZCTTJiZFBXSXk0ZF85MWpN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e36ce4154834",
-      "title": "El Niño afeta ciclo da água de forma imprevisível, mostra estudo - Correio Braziliense",
-      "published": "2026-09-18T08:02:00+00:00",
-      "summary": "El Niño afeta ciclo da água de forma imprevisível, mostra estudo&nbsp;&nbsp;Correio Braziliense",
-      "sources": [
-        {
-          "name": "Correio Braziliense",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQS2NVX2dVSzhQcUdFMTlFaHFheEJpYURJTHJNOUIweHAtNzhzdHVnaGJ3UXRkOGFLYW1Jb2NaWFM1Z1lXckN6SHNVcldXVDgwU1lvUzBhd3VEVXRpZS1paGdMMDBObE9VU3prcTJLVmdEQUVmdl9zTWhiWmZRN1BkeGtkMXNvVURGaXMxdDNVQ0sxSnowS2tlbFN3S3RBRy14QjRWYWxSdzg1LVptaEthNEZfYUxuLWVaczR3ZlY0M2NEZWljVHdrYnAzX1Rxcy01QnlzRtIB2gFBVV95cUxPbUNrSFJvNEFTOVY3U2dKaUNPRDlpaDNFUmZ5RktVNHZxTGpnN0pmbjJTOUUxaG5GVEoxVkdCUzhxZlpkVmFQNVpYVDhFbklleTcxYVpMVTc2cEViQ2VXWnFfWjVmTEgxeldkMVprSGNVbWVQei1JN3NJY0M5YmdvVzBiVTAzUHVDaF9kbm9oSWV5aXlWZWd1RWJRczhIQXpZY3ZqZUR0NjdYOGtiOTlKMEgwYWt2UjFCTHFSTkxyUDk3VTFrdElDQXM5UndnbkNBeEFDWWxKNy1UUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "65bebfbc1fa5",
-      "title": "Creatina pode ajudar o cérebro após uma noite sem dormir? Estudo revela efeito inesperado - Terra",
+      "id": "f377f2085643",
+      "title": "Creatina pode ajudar o cérebro após uma noite sem dormir? Estudo revela efeito inesperado - terra.com.br",
       "published": "2026-09-18T07:58:00+00:00",
-      "summary": "Creatina pode ajudar o cérebro após uma noite sem dormir? Estudo revela efeito inesperado&nbsp;&nbsp;TerraCreatina pode ter efeito contra a privação do sono e até a depressão; entenda&nbsp;&nbsp;CNN BrasilBenefícios da creatina além da academia: o que a ciência tem investigado?&nbsp;&nbsp;Assine AbrilCreatina tem efeito contra a privação do sono; entenda&nbsp;&nbsp;O GLOBOCreatina: Novo estudo analisa os impactos positivos do uso do suplemento no combate aos efeitos da privação de sono no organi",
+      "summary": "Creatina pode ajudar o cérebro após uma noite sem dormir? Estudo revela efeito inesperado&nbsp;&nbsp;terra.com.brCreatina pode ter efeito contra a privação do sono e até a depressão; entenda&nbsp;&nbsp;CNN BrasilBenefícios da creatina além da academia: o que a ciência tem investigado?&nbsp;&nbsp;Assine AbrilCreatina tem efeito contra a privação do sono; entenda&nbsp;&nbsp;O GLOBOCreatina: Novo estudo analisa os impactos positivos do uso do suplemento no combate aos efeitos da privação de sono no",
       "sources": [
         {
-          "name": "Terra",
+          "name": "terra.com.br",
           "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQNGtGcnkyM2wtS3VnVG9mSEtlcjVMbFJ2Qmc1WFRYVXFzWnZXcHB5MUMyckRfYVpPd0lKd0tfWHdmeDBTM1VwU3NXSnBvd2RpVlZDdDVaQXk5SlFLTmU1VGFkY3NWMWtQSnNoT2lZV2NFWUNwYlVUb3k5VFdiMTZmVGdkZ1hyX3I2V2ZBcnYtRzhXeXhVdVFaY0ZLQ2VkZ09QZURRTFlQWnB5OURSSGNuSE5la0YxVGxvY2MwYXFQaVJja1VvZ1VST1RhaHMwLUJmRm5RRUpxVVd1eG1lNmxkNVc2VXN2RG5UUjN2TGd1ZzFwQWxRRDVkcXhpUlhPdXlyOUVuMm9YY3pxVUU?oc=5"
         }
       ]
@@ -357,7 +357,7 @@
       "id": "7115cc9ae5ca",
       "title": "É possível sofrer um ataque de morcego? Caso raro em Ilha Grande (RJ) vira estudo científico; saiba mais - O GLOBO",
       "published": "2026-09-18T07:00:01+00:00",
-      "summary": "É possível sofrer um ataque de morcego? Caso raro em Ilha Grande (RJ) vira estudo científico; saiba mais&nbsp;&nbsp;O GLOBOHomem é mordido por Morcego em Ilha Grande, no Rio&nbsp;&nbsp;iG Último SegundoSuspeita de ataque de morcego-vampiro surge após homem encontrar sangue no chão e ferimento no pé sem sentir dor; caso vira estudo científico&nbsp;&nbsp;Diário do LitoralMorcego 'vampiro' ataca e suga sangue de morador no Rio de Janeiro. Caso vira estudo científico&nbsp;&nbsp;CNN BrasilCaso de hom",
+      "summary": "É possível sofrer um ataque de morcego? Caso raro em Ilha Grande (RJ) vira estudo científico; saiba mais&nbsp;&nbsp;O GLOBOHomem é mordido por Morcego em Ilha Grande, no Rio&nbsp;&nbsp;iG Último SegundoSuspeita de ataque de morcego-vampiro surge após homem encontrar sangue no chão e ferimento no pé sem sentir dor; caso vira estudo científico&nbsp;&nbsp;diariodolitoral.com.brCaso de homem atacado por morcego-vampiro é descrito pela ciência; entenda o comportamento&nbsp;&nbsp;redeutv.com.brBrasile",
       "sources": [
         {
           "name": "O GLOBO",
@@ -366,22 +366,10 @@
       ]
     },
     {
-      "id": "fa82fa907f70",
-      "title": "A psicologia aponta que pessoas que enchem a geladeira de ímãs não fazem isso apenas por decoração, mas podem estar exibindo memórias, identidade e experiências importantes da própria vida - Super Rádio Tupi",
-      "published": "2026-09-18T03:33:58+00:00",
-      "summary": "A psicologia aponta que pessoas que enchem a geladeira de ímãs não fazem isso apenas por decoração, mas podem estar exibindo memórias, identidade e experiências importantes da própria vida&nbsp;&nbsp;Super Rádio Tupi",
-      "sources": [
-        {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNMXlTU0dJc2JRS2pqTnYxRnZGVUM3ajNDOF9DekdlRWtSNVJTY012RU5WVGxUSUxCRlJ4VDJuVVlqUXNfaEdmT1o4SDZHOGpDamEzVXQ1LVNZcVVHQTJNbXJtWWtfOWsyalhzODdCejk3a05FUFhkSXpOY1RRR3MzX3pHelhuMGk4bDRpdmVNSUpvbTBtVENaN2xBMkw4NUp3NHYyTTZLa0VDWURlRDdTeTNqcER2cjNIWkxTb1ZyMkRkUXRuMGFYZUhCTkNpTXlXUDk0ZnpSdGl1Zy12cnh6TS1LajBDOGppZnZrNVdOV0VOYmZaTmdISnVBdDBsY0ZvYVJyblU4Y1FSOVNNYkstU24wdGNqeEFMWE5VYXZiQ3RFSzhxNFhGNFJndzJ5cXh0eXpKZDhraGt3b1BZOHdFdm5fZ3c?oc=5"
-        }
-      ]
-    },
-    {
       "id": "af66c19b5e19",
       "title": "Ministério da Saúde qualifica assistência para prevenir progressão da doença renal - www.gov.br",
       "published": "2026-09-18T00:29:57+00:00",
-      "summary": "Ministério da Saúde qualifica assistência para prevenir progressão da doença renal&nbsp;&nbsp;www.gov.brSUS vai integrar tratamento de doença renal crônica em meio a avanço de casos no país&nbsp;&nbsp;Folha de S.PauloMinistério da Saúde reestrutura atendimento a pacientes renais no SUS e reajusta repasses em até 360%&nbsp;&nbsp;Região NoroesteMinistério da Saúde qualifica assistência para prevenir progressão de doença renal crônica&nbsp;&nbsp;Portal do Marcos SantosSUS amplia atendimento para pa",
+      "summary": "Ministério da Saúde qualifica assistência para prevenir progressão da doença renal&nbsp;&nbsp;www.gov.brSUS vai integrar tratamento de doença renal crônica em meio a avanço de casos no país&nbsp;&nbsp;Folha de S.PauloMinistério da Saúde reestrutura atendimento a pacientes renais no SUS e reajusta repasses em até 360%&nbsp;&nbsp;Região NoroesteMinistério da Saúde qualifica assistência para prevenir progressão de doença renal crônica&nbsp;&nbsp;portalmarcossantos.com.brSUS amplia atendimento para ",
       "sources": [
         {
           "name": "www.gov.br",
@@ -405,7 +393,7 @@
       "id": "5f74a35d837d",
       "title": "O paciente além da diálise: avanços no tratamento da doença renal crônica permitem uma vida com mais autonomia - Portal Drauzio Varella",
       "published": "2026-09-17T18:04:21+00:00",
-      "summary": "O paciente além da diálise: avanços no tratamento da doença renal crônica permitem uma vida com mais autonomia&nbsp;&nbsp;Portal Drauzio VarellaNo Brasil, apenas 4% dos transplantes renais são em pacientes pediátricos&nbsp;&nbsp;ajn1.com.brDoença renal atinge cerca de 1 em cada 10 brasileiros: veja mitos e verdades sobre o transplante de rim&nbsp;&nbsp;ACidade ON",
+      "summary": "O paciente além da diálise: avanços no tratamento da doença renal crônica permitem uma vida com mais autonomia&nbsp;&nbsp;Portal Drauzio VarellaNo Brasil, apenas 4% dos transplantes renais são em pacientes pediátricos&nbsp;&nbsp;AJN1Doença renal atinge cerca de 1 em cada 10 brasileiros: veja mitos e verdades sobre o transplante de rim&nbsp;&nbsp;ACidade ON",
       "sources": [
         {
           "name": "Portal Drauzio Varella",
@@ -426,6 +414,18 @@
       ]
     },
     {
+      "id": "bd5cf2649f1a",
+      "title": "Marie Curie, duas vezes vencedora do Prêmio Nobel: \"A vida não é fácil para ninguém, mas você precisa ter confiança e acreditar que tem um dom para alguma coisa\" - Minha Vida Saúde",
+      "published": "2026-09-16T18:01:25+00:00",
+      "summary": "Marie Curie, duas vezes vencedora do Prêmio Nobel: \"A vida não é fácil para ninguém, mas você precisa ter confiança e acreditar que tem um dom para alguma coisa\"&nbsp;&nbsp;Minha Vida Saúde",
+      "sources": [
+        {
+          "name": "Minha Vida Saúde",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EUVhOcFhLTVJjWGdTRlQ2dERzbTJFNTFOQlBGaF9zcEdZbDA3RV9UM3hWdFh5SWdVUUpHQnJjenlzM2l4Ti14cEZtY3BYS3FHdi1UVWpJZVRVeWRLTnhLRtIBZkFVX3lxTE1pd0JuRkRNMlFwQ0xRcVpfUlVrYXZtc1lQcHpoR2FWOWk2MWttOVVQRHI3UUF6SHdmSGZxX1NuclpUOV8xMVN0NkNjMmdFaU5IZ2p1ay1ITlhwY1U0Y2M0X0N4ZXJOdw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "873be68a9282",
       "title": "'Fiz quimioterapia por 11 anos para tratar um câncer que eu não tinha' - G1",
       "published": "2026-09-16T11:11:44+00:00",
@@ -434,6 +434,30 @@
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeWoxbjhYRDlyQ3g4RDVGWjJGcGhMNGZYUTN6RXpPTUU5dDhubEY2YW9qNG4xeENJR3hyRmw3elJOM1RHMGhfNndDaDZUQU1kY3Q1dVIwVGVDNVNQcFF6MGdwNzJNb3ZzcjE5MDlUZWdXSnpiQ1A1eEs1QWQyOG12dUF6cS13MmN3alZoQnRmOVo4U1FDZVB4R01hdnhEclM5Z2FxVEFxLXQxcEE1aHpQbmhqWGRhVmZlTncwMdIBywFBVV95cUxNUzhTOU5oNGJxZUdmMWttbGJWbUY4ZHRqSWJHdXVtakQ2eUEzS1J6dzBiM212QUtHeXRBNzRlcEhmMnB0LTZEWXhUWHhveFVldV9zdEZYM0hBM3plUmNyeGZvYkpoUGJ6WFN1UWpJb2VleHQyRDE1eURtd3d6WTdpckVtODdKaWpjbU9ZV0drVjFwcFNaZV8yX1ZlNHNkb2VNal9BZzdSZExjNHhJVGRBdllmbGFncGRFRnJ3aWpOcGNRY2lvNHpzbVRVaw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0efe6a9eddf3",
+      "title": "Por que há o temor sobre IA acabar com a humanidade — e existe mesmo o risco? - BBC",
+      "published": "2026-09-15T11:31:01+00:00",
+      "summary": "Por que há o temor sobre IA acabar com a humanidade — e existe mesmo o risco?&nbsp;&nbsp;BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBScGdjZ0lXc3FSc3FzZnVNNUNHU1NsMW9PMVNqMkVENEk4RGdOb2RtMUNrSU1fMlVzRHJNUDQwd3RYVDFBUVVYMXJzcWZRNmstNGxSQ1U0SGkxeHBCa2RUak1DVdIBaEFVX3lxTFB2cnhOdzd5N0FRUjRmMXNINHNVa3NqNkZyTk12SV9rZjFlQTdTM001RVdNdzJLQmJELVZmVUdtWFZGeGJtcjFyOVFGb29Ra2JGbV9KaHVud0lNQmM0eUJjWGRIMERBVG96?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e6f574f7920e",
+      "title": "Casos de câncer de pâncreas crescem entre jovens, aponta estudo - terra.com.br",
+      "published": "2026-09-14T11:15:00+00:00",
+      "summary": "Casos de câncer de pâncreas crescem entre jovens, aponta estudo&nbsp;&nbsp;terra.com.brExame de sangue detecta câncer de pâncreas inicial em 87% dos casos&nbsp;&nbsp;Folha de S.PauloSetembro Roxo: novas pesquisas ampliam as perspectivas de tratamento de câncer de pâncreas, um dos mais letais&nbsp;&nbsp;Bem ParanáTeste inovador: exame de sangue para câncer de pâncreas atinge alta precisão em estudo&nbsp;&nbsp;terra.com.brCâncer de pâncreas pode começar sem sintomas; veja sete sinais de alerta e o",
+      "sources": [
+        {
+          "name": "terra.com.br",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRTJzV2c1Z3pZSkdsZVFFMlVTdzhhUE9sZGhEbTFfRURDd3VRUlZiYm9KZ0VaZnJSN0duM1JOQnZXQklRdWxHU000RTJlWFJMbGw2amZiWVlUc2hBNzJCLWU4LThsNmhpcTJYUG5FNkw5OERmU2hIZ1ZPSzVVaUZ6TU9fcjJNRmc2Y0lLTUNyM0hMMF9OYUk4VTBlQ3MzcWZ0RHZyRmI1SlItamE4VHE5dklvRUo5aGkwWVZwM2tyYUI3UFUtVFFONnFNUTd1TG4tS2lNVEJxUE1oWkp4ZHpLSw?oc=5"
         }
       ]
     }
