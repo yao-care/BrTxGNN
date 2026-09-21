@@ -1,15 +1,75 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-09-21T03:53:57.107482+00:00",
-  "total_fetched": 101,
-  "unique_count": 100,
-  "health_related_count": 27,
+  "fetched_at": "2026-09-21T12:15:44.339492+00:00",
+  "total_fetched": 97,
+  "unique_count": 95,
+  "health_related_count": 32,
   "news": [
+    {
+      "id": "0dc196ea8f77",
+      "title": "Noite virada: o que fazer para \"sobreviver\" no trabalho depois de uma crise de insônia - CNN Brasil",
+      "published": "2026-09-21T07:31:00+00:00",
+      "summary": "Noite virada: o que fazer para \"sobreviver\" no trabalho depois de uma crise de insônia&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPblFaa2xXcGROdjJTYjR5dG01OWk5czBBakhMM1dIQTY3c25VYTdTbmxZckdHVEVPRzlWc0Zja2pmSXhpVzBPU21KY2ZCWWFtYkQzYW5IOUFVWmZ3T3dPTFd1NXltZmxGekcxYThqNmpPNl8zUkFZZ05BZ3NxanJxeDRVN1Flc3dkY194TEZlTnp0cDZsdlpacWdjT1l0OEZVb1J1aXFxZFRlNExiUWQ3Z0ZxeUNFY1NSNUxwbHZMZ2NTU1VE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b1b6bf25b898",
+      "title": "Por que o câncer de intestino está aumentando entre os jovens? - O GLOBO",
+      "published": "2026-09-21T07:30:00+00:00",
+      "summary": "Por que o câncer de intestino está aumentando entre os jovens?&nbsp;&nbsp;O GLOBO",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVFFUOVBRaEhPaXJTYjBaY183MUZVbGNSMUNYZlRxSDNFZkx3QVA5R3dlZ1hmMmdUMW5URlZ4SDhfNmdZblpnUmE3RWdjRml6VEhJS2QxLWpjdEItaHBLVVQwWkU2ZXR4anhPNWRNeUR3aVZUMlBzM0RoV0dpNGl6ZW5RcjYyd1J6UE1NdEIzZndzRHEtSTJSdjBCZlA2SWREenBGQkVIWHpLN1YwOWRqWTY3RmwwLXktQUh1VXJGQ0c2elhC0gHTAUFVX3lxTE91MTN5SGpiaWVqVTk4NUdkcTlFdDJxQ2RKbXlyUHBXaHVTMV93Vy1NMXctRkotYUtsTnY3WHlIcFB0UlFpUDVyMEk4NUxVTElpVEU2YkZCODhDRUktVmFaMWQxS3FJUWJCT0dQOFZxbUZaZGxMaEV6RlpEeVZMVmNNT0NSWjJvNFk1dWNBRmVaRlVFSlJvSC1rdlNISDNWSXhQc3NCNFBYVWhYY2ZqbEFLaHZmZUdHSjZFRVRVdGF6TTZ5cTdsRTV2TGhMbkJwcDdfVjA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "be5549c8b219",
+      "title": "Pesquisadores observam salto quântico no som em tempo real pela primeira vez - G1",
+      "published": "2026-09-21T06:00:01+00:00",
+      "summary": "Pesquisadores observam salto quântico no som em tempo real pela primeira vez&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUTZocFdLX3ExTl9NNFdaN1dzbGdQMDE0NDJFU3BnYlVnRnpOMC1hQzFISkNRZlptcG1WUXAtRk9qWW5VTDVqTDJPVk04Vk50U05zSnBlQlNoZ2RBamJjTkhPLW40c2ZvRThPZE5DNDJNWGJKZXNveTc1NFZvb1EyZEpvSTd5aFpna3o5YWpsNEdoY1pNZWEyNlRrcGdYckFrMEIyTXNPemFzWEg3aGNXNFNtWTRjbWcxVWpmNWNsV0d5a1MzQlJrSmVR0gHYAUFVX3lxTE5fTXU5dm9vejRjVWh2Z2hELWR4NW5yNVQ0NmI5ZXRINGR1dnlPX1QxMG93RXJQS1NkVjBjd2JITENyYU1ZTzZMOVBpYklrSjc0UklweWQ4R0pQYTUxWFRoN084U3pCWU1pQ0pfTFlfVGZWM0RJZ1U2dWpxdVJhQVd4T082ZnYtbDFuVDJUY0VNZVpMZjNuNE1iTVFGb0ttNXFMYWpKMGF4X2ZXZEs4TjlHSEJkNGo4Tk0xRUFJNVRjWjlHOFl6dmdrWnR6dVpEUUxSQ1preUltbQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ec9dd028e148",
+      "title": "Como proteger a saúde em meio à 'gangorra térmica' que deve atingir São Paulo - Folha de S.Paulo",
+      "published": "2026-09-21T02:05:00+00:00",
+      "summary": "Como proteger a saúde em meio à 'gangorra térmica' que deve atingir São Paulo&nbsp;&nbsp;Folha de S.PauloComo proteger a saúde em meio à ‘gangorra térmica’ que deve atingir São Paulo&nbsp;&nbsp;THMais",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTEVvWVJPREl5Qk9ZUFlEZktwSEd5QjhUOVg2d0I4VU0xRWQ3ZlhSSWFGVFZYMEdUSFM1WFJxWklFZGRYV283RmlfWGNsX3dmazZ6UlBFVnVLUkM2c3RrSGFpTHhuWTJ2ZUN1OXZBdHZQdC1neWF6dGpzRDlkNUhOaDZ6TG5Qa3Z1SkZaYmpIcHF5NmRCajdaVXc2MmhhSGV1VkFUVEdWNE5BMWVwRWZkZXRFdUNJNTVFUDZYa0ZHR1E2eGxKdm5oZzBnTnZ1eVJyM1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dc44c11d4321",
+      "title": "Cientistas fazem descoberta histórica: um tubarão de 399 anos, nascido em 1627 foi localizado no Oceano Ártico e bate recorde de longevidade entre animais vertebrados - Super Rádio Tupi",
+      "published": "2026-09-21T00:40:58+00:00",
+      "summary": "Cientistas fazem descoberta histórica: um tubarão de 399 anos, nascido em 1627 foi localizado no Oceano Ártico e bate recorde de longevidade entre animais vertebrados&nbsp;&nbsp;Super Rádio Tupi",
+      "sources": [
+        {
+          "name": "Super Rádio Tupi",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaVIySjFZb0lnQVNjb3d2cGUtOVRVRENnd0lEWkdmcTZET1BzZElrc3lZZG1mTlJXSDdtOGRtb2pmUTM4ZjZ0SF85OWVsOXNVZHktTUUyRmhZcklKeXdHdm5yZGl0TWx5Y21lbXJ0aFNTelNzVVp4Z3o3R1RqekJPZm1jV1BRdmxmanc?oc=5"
+        }
+      ]
+    },
     {
       "id": "637f4a5213a2",
       "title": "Morre médico Paulo Roberto Teixeira, pioneiro no combate à Aids no Brasil - CNN Brasil",
       "published": "2026-09-20T21:50:15+00:00",
-      "summary": "Morre médico Paulo Roberto Teixeira, pioneiro no combate à Aids no Brasil&nbsp;&nbsp;CNN BrasilMorre Paulo Roberto Teixeira, médico pioneiro no enfrentamento ao HIV e à Aids no Brasil&nbsp;&nbsp;Folha de S.PauloMorre Paulo Roberto Teixeira, médico sanitarista que atuou na construção das políticas de combate ao HIV e à Aids no Brasil&nbsp;&nbsp;G1Morre aos 77 anos médico que foi referência no combate ao HIV e à Aids no Brasil&nbsp;&nbsp;Alô Alô BahiaMédico atuou na criação de políticas de prevenç",
+      "summary": "Morre médico Paulo Roberto Teixeira, pioneiro no combate à Aids no Brasil&nbsp;&nbsp;CNN BrasilMorre Paulo Roberto Teixeira, médico pioneiro no enfrentamento ao HIV e à Aids no Brasil&nbsp;&nbsp;Folha de S.PauloMorre Paulo Roberto Teixeira, médico sanitarista que atuou na construção das políticas de combate ao HIV e à Aids no Brasil&nbsp;&nbsp;G1Médico atuou na criação de políticas de prevenção e tratamento&nbsp;&nbsp;CartaCapitalAgradecimentos, palavras de afeto e reverências na despedida de Pa",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -21,23 +81,11 @@
       "id": "10ae4bcb6013",
       "title": "Jovem de 25 anos morre de meningite após procurar UPA cinco vezes na Serra - Serra Noticiário",
       "published": "2026-09-20T21:21:00+00:00",
-      "summary": "Jovem de 25 anos morre de meningite após procurar UPA cinco vezes na Serra&nbsp;&nbsp;Serra NoticiárioPrefeitura da Serra afasta médicos que atuaram no caso de jovem morta por meningite&nbsp;&nbsp;G1Jovem morre por meningite e profissionais de saúde são afastados no ES&nbsp;&nbsp;Jornal Espírito Santo NotíciasFamília pede investigação após morte de jovem por meningite&nbsp;&nbsp;Tribuna OnlineSerra afasta e vai investigar profissionais após morte de jovem por meningite&nbsp;&nbsp;Portal Tempo No",
+      "summary": "Jovem de 25 anos morre de meningite após procurar UPA cinco vezes na Serra&nbsp;&nbsp;Serra NoticiárioPrefeitura da Serra afasta médicos que atuaram no caso de jovem morta por meningite&nbsp;&nbsp;G1Jovem morre por meningite e profissionais de saúde são afastados no ES&nbsp;&nbsp;espiritosantonoticias.com.brFamília pede investigação após morte de jovem por meningite&nbsp;&nbsp;Tribuna OnlineSerra afasta e vai investigar profissionais após morte de jovem por meningite&nbsp;&nbsp;Portal Tempo Novo",
       "sources": [
         {
           "name": "Serra Noticiário",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMmloTE9ZaWRncGJjbjJ3VkFxNzNRcmVGSXR5aWVPZmM3cHNYWERWSFZseDVGYVpTbk5UelNmMVdIV18wQXhTM0dHay1KSk9wS21SelZNa1lqTzFGandoOFBPWVhZWG9GdXRLX0JCTW4yanROYVBTQ1ZmNmZWT1hDLVI1VnpuM2tjUFpVV1VDdnVKNjVxMnUxX1lVZHBhY1Z0c1ZnYzNHN1gwZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7ecbd01332cc",
-      "title": "O que é a doença de Alzheimer: sintomas, diagnóstico e tratamentos atuais - Rádio Itatiaia",
-      "published": "2026-09-20T19:05:57+00:00",
-      "summary": "O que é a doença de Alzheimer: sintomas, diagnóstico e tratamentos atuais&nbsp;&nbsp;Rádio ItatiaiaEstimulação cognitiva pode retardar perda de funções no Alzheimer&nbsp;&nbsp;MetrópolesPreservar a identidade e a autonomia é essencial no cuidado de pacientes com Alzheimer&nbsp;&nbsp;MidiamaxAlzheimer: quando os esquecimentos merecem atenção?&nbsp;&nbsp;engeplus.com.brDia Nacional de Conscientização da Doença de Alzheimer: entenda a importância da data&nbsp;&nbsp;Terra",
-      "sources": [
-        {
-          "name": "Rádio Itatiaia",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ2VTN2xsS08yV0JGalZLV1hmbVRBcEw1RXk5RFA4ZXo5UmFHUjZ4RmZKdm5kMldRcmxaUEJ2bkNpUUlZUklRaW9BN2gwdzY0MU5ZQ1NrR3UxaUo1VlVCRVBxcDY2ckRvRzBDb0RFREFkUDZKaVVKejJMYjhSYzhVYnBEZGJINHhZV2kzWl93VUVOQUxDZzQwOFlGYkhDeE9CbVZkN1FmSjJEczA?oc=5"
         }
       ]
     },
@@ -78,25 +126,25 @@
       ]
     },
     {
-      "id": "b176d41beb0e",
-      "title": "O Japão bate um recorde histórico: pela primeira vez, ultrapassa a marca de 100 mil pessoas com 100 anos ou mais - tempo.com",
+      "id": "898e87697bf3",
+      "title": "O Japão bate um recorde histórico: pela primeira vez, ultrapassa a marca de 100 mil pessoas com 100 anos ou mais - Meteored Brasil",
       "published": "2026-09-20T14:17:00+00:00",
-      "summary": "O Japão bate um recorde histórico: pela primeira vez, ultrapassa a marca de 100 mil pessoas com 100 anos ou mais&nbsp;&nbsp;tempo.com",
+      "summary": "O Japão bate um recorde histórico: pela primeira vez, ultrapassa a marca de 100 mil pessoas com 100 anos ou mais&nbsp;&nbsp;Meteored Brasil",
       "sources": [
         {
-          "name": "tempo.com",
+          "name": "Meteored Brasil",
           "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQN21FT1JiZkNweGs0VjctYTl1MVNZU2RrNkVfd2dMRUlhUXhzMXhqOGhVMnk3SnBwWDJhNHE1T1U0Vm5HUHFBWW1JbHhoMDRMLWZCRWljUUU2YUdkU191VnNiZ0c2Q19kNHZPYkVCS2NnX1BtYnlrVTE4UmdBM3V1UGVNOTRlcU1SXzJYX1BRUy0yU3YzTlZvcktXUEIxbDQ4Y2poY01RRWhzT3JDUG9Sa2s1Rlp1STdxQTAycERnUFJYNFBiOXhPakV1UEJQT1NIYUZqdmgxQndyeGxjMTkzWTlteGV3aUs2bFVlV29mNA?oc=5"
         }
       ]
     },
     {
-      "id": "5fe7bf8dbb80",
-      "title": "Câncer levou à amputação do pênis de 2 homens por dia em 2025 - noticias.r7.com",
+      "id": "c18ef3b674af",
+      "title": "Câncer levou à amputação do pênis de 2 homens por dia em 2025 - R7",
       "published": "2026-09-20T12:00:00+00:00",
-      "summary": "Câncer levou à amputação do pênis de 2 homens por dia em 2025&nbsp;&nbsp;noticias.r7.com",
+      "summary": "Câncer levou à amputação do pênis de 2 homens por dia em 2025&nbsp;&nbsp;R7",
       "sources": [
         {
-          "name": "noticias.r7.com",
+          "name": "R7",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVmJGTzA2Y0Eya0ZIaVY0dEhBVU5fY1hubUIwQzlNdUNnQ2dYdi10VzJtVmZ4d2FLQlY1RWpwREZIeXAzdjZZcTVmMno4cHAwUThURXJuVFBrRlM3UXU3V254OTlVR2psRW4zcVJLcElrdHdkTVhXYmFqbUdoYVNERjI4Rlc3c3FyaFEwaDJuVUFnYTlZVWxDNzNBeEp2cVl1VkFEaDNIZWF0LUhabERqRXctWW8?oc=5"
         }
       ]
@@ -105,7 +153,7 @@
       "id": "1d5e99f2d4af",
       "title": "‘Crânio apertando meu cérebro’: como é viver com crises de enxaqueca que mudam a rotina - Diário do Nordeste",
       "published": "2026-09-20T11:00:58+00:00",
-      "summary": "‘Crânio apertando meu cérebro’: como é viver com crises de enxaqueca que mudam a rotina&nbsp;&nbsp;Diário do NordesteAnvisa amplia opções contra enxaqueca, obesidade e diabetes com novos medicamentos aprovados&nbsp;&nbsp;O POVOAtogepant ou topiramato para prevenir enxaqueca? Ensaio comparou os dois tratamentos&nbsp;&nbsp;Tua SaúdeAnvisa aprova novo medicamento para tratar e prevenir crises de enxaqueca em adultos&nbsp;&nbsp;Portal Revista Kdea 360Viver com enxaqueca é o pesadelo de quem se vê pa",
+      "summary": "‘Crânio apertando meu cérebro’: como é viver com crises de enxaqueca que mudam a rotina&nbsp;&nbsp;Diário do NordesteAnvisa amplia opções contra enxaqueca, obesidade e diabetes com novos medicamentos aprovados&nbsp;&nbsp;opovo.com.brAtogepant ou topiramato para prevenir enxaqueca? Ensaio comparou os dois tratamentos&nbsp;&nbsp;Tua SaúdeAnvisa aprova novo medicamento para tratar e prevenir crises de enxaqueca em adultos&nbsp;&nbsp;Portal Revista Kdea 360Viver com enxaqueca é o pesadelo de quem se",
       "sources": [
         {
           "name": "Diário do Nordeste",
@@ -114,13 +162,13 @@
       ]
     },
     {
-      "id": "0e67662e3cac",
-      "title": "Minas tem 4 municípios entre os 20 com menor cobertura vacinal contra sarampo no país; veja quais - O TEMPO",
+      "id": "7f00585810ce",
+      "title": "Minas tem 4 municípios entre os 20 com menor cobertura vacinal contra sarampo no país; veja quais - otempo.com.br",
       "published": "2026-09-20T10:00:00+00:00",
-      "summary": "Minas tem 4 municípios entre os 20 com menor cobertura vacinal contra sarampo no país; veja quais&nbsp;&nbsp;O TEMPO",
+      "summary": "Minas tem 4 municípios entre os 20 com menor cobertura vacinal contra sarampo no país; veja quais&nbsp;&nbsp;otempo.com.br",
       "sources": [
         {
-          "name": "O TEMPO",
+          "name": "otempo.com.br",
           "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPM0R3Z2h6cW4xa1RQS2I4emhOaHdYMXAtT0xRV3JVb2FjTzVVTlV1Z1N6eXBOZFB5SERjZEFKTi02RGRuTFJpdmxJT2NKdVppVmZybENRM2xGQlVZVHBORGNOM0Z6WnIxMkxRWjVmZ1FkUDlYZFNlVkx6ZXEyU3d4cXpXTnVKeE9iRXkwLTBVVzV6YWw1elA4WnRXWi1SdDIxbzIwN2pYVVJxMVItS1ZiNE1wbzNfblJjbE5SYnlfbUt2R1p3NzhQNkxndi1pOFdZdnhjLTlaalhWQThMalFaNWtmeDA?oc=5"
         }
       ]
@@ -129,7 +177,7 @@
       "id": "4996be4fb965",
       "title": "Vitamina D: a chave da vitalidade para todo o organismo - Correio Braziliense",
       "published": "2026-09-20T09:00:00+00:00",
-      "summary": "Vitamina D: a chave da vitalidade para todo o organismo&nbsp;&nbsp;Correio BrazilienseVitamina D em dose alta e memória: o que o novo dado sugere e por que não vira receita&nbsp;&nbsp;Tua SaúdeMenos sol no inverno significa menos vitamina D? Entenda quando repor&nbsp;&nbsp;gauchazh.clicrbs.com.brEndocrinologista responde às perguntas mais importantes sobre a Vitamina D&nbsp;&nbsp;Correio Braziliense",
+      "summary": "Vitamina D: a chave da vitalidade para todo o organismo&nbsp;&nbsp;Correio BrazilienseVitamina D em dose alta e memória: o que o novo dado sugere e por que não vira receita&nbsp;&nbsp;Tua SaúdeMenos sol no inverno significa menos vitamina D? Entenda quando repor&nbsp;&nbsp;GZHEndocrinologista responde às perguntas mais importantes sobre a Vitamina D&nbsp;&nbsp;Correio Braziliense",
       "sources": [
         {
           "name": "Correio Braziliense",
@@ -165,7 +213,7 @@
       "id": "39091ea5c8f8",
       "title": "Maus hábitos entre brasileiros acendem alerta para câncer de estômago - CNN Brasil",
       "published": "2026-09-20T06:00:00+00:00",
-      "summary": "Maus hábitos entre brasileiros acendem alerta para câncer de estômago&nbsp;&nbsp;CNN BrasilBrasileiro se sente mais saudável do que de fato é, aponta pesquisa&nbsp;&nbsp;Hoje em DiaBebem, estão acima do peso, não fazem exercícios e se consideram saudáveis: pesquisa revela hábitos dos brasileiros que aumentam o risco de câncer&nbsp;&nbsp;Jornal CorreioFrituras, álcool e sedentarismo elevam alerta para câncer de estômago&nbsp;&nbsp;Tribuna do Planalto64% dos brasileiros que bebem de 5 a 7 dias por",
+      "summary": "Maus hábitos entre brasileiros acendem alerta para câncer de estômago&nbsp;&nbsp;CNN BrasilMaioria da população brasileira se acha saudável, mas um estudo discorda&nbsp;&nbsp;CNN BrasilBrasileiro se sente mais saudável do que de fato é, aponta pesquisa&nbsp;&nbsp;Hoje em Dia64% dos brasileiros que bebem de 5 a 7 dias por semana consideram ter boa saúde&nbsp;&nbsp;VEJAFrituras, álcool e sedentarismo elevam alerta para câncer de estômago&nbsp;&nbsp;tribunadoplanalto.com.br",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -189,7 +237,7 @@
       "id": "21a370940dc9",
       "title": "Estudo associa café a efeitos no intestino, humor e memória - Diário do Centro do Mundo",
       "published": "2026-09-20T02:58:13+00:00",
-      "summary": "Estudo associa café a efeitos no intestino, humor e memória&nbsp;&nbsp;Diário do Centro do MundoDo intestino ao cérebro: como o café pode mexer com os dois&nbsp;&nbsp;EstadãoEstudos comprovam: café faz bem para a microbiota humana&nbsp;&nbsp;TerraAroma especial: Só o cheirinho do café já é capaz de melhorar tensão, ansiedade e desânimo, mostra estudo&nbsp;&nbsp;O GLOBOCheiro de café recém-passado pode despertar uma reação no organismo que mexe com o humor antes mesmo do primeiro gole; entenda&nb",
+      "summary": "Estudo associa café a efeitos no intestino, humor e memória&nbsp;&nbsp;Diário do Centro do MundoDo intestino ao cérebro: como o café pode mexer com os dois&nbsp;&nbsp;EstadãoEstudos comprovam: café faz bem para a microbiota humana&nbsp;&nbsp;TerraCheiro de café recém-passado pode despertar uma reação no organismo que mexe com o humor antes mesmo do primeiro gole; entenda&nbsp;&nbsp;CNN BrasilSem tomar sequer um gole: estudo mostra que cheiro de café pode aliviar cansaço e tensão em cinco minutos",
       "sources": [
         {
           "name": "Diário do Centro do Mundo",
@@ -210,14 +258,14 @@
       ]
     },
     {
-      "id": "3acfb94ee61b",
-      "title": "O que os movimentos do corpo podem revelar sobre os níveis de ansiedade - Folha de S.Paulo",
-      "published": "2026-09-19T15:00:00+00:00",
-      "summary": "O que os movimentos do corpo podem revelar sobre os níveis de ansiedade&nbsp;&nbsp;Folha de S.PauloSeu jeito de caminhar pode dar pistas sobre ansiedade e depressão&nbsp;&nbsp;TerraMovimentos que você faz sem perceber podem ser sinais de ansiedade, dizem especialistas&nbsp;&nbsp;Diário do Comércio",
+      "id": "30a396657a96",
+      "title": "Estudo revela os 10 nomes masculinos considerados mais bonitos de ouvir; veja a lista - Rádio Itatiaia",
+      "published": "2026-09-19T17:46:43+00:00",
+      "summary": "Estudo revela os 10 nomes masculinos considerados mais bonitos de ouvir; veja a lista&nbsp;&nbsp;Rádio Itatiaia",
       "sources": [
         {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM0xqSW91S2ZvV3VFcEthc09RUzZCcENBVEhXdzRyeEozNmxYT2p1ZGxtTjZ6WmJYN0hPb0NpY3MyQTFQblZPVy05NGwzbU5RZzV0NnNfVW9vaGJOSWhmUjJ1ZExoUHZGdVNUZzItczk3b282SkctSTdzQ1hPamVPSklHcWVFYmVFNHkyLUlVaEI1YlhrZ1RPYXRzdVRUczF3WFBzVThRNlZDWmNxSXI4dTEzNEpHQUZJUy1TM0FjNml6NFpo?oc=5"
+          "name": "Rádio Itatiaia",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV2ROc0ZtR2J1SHRncUtMVDhpNV9uaG8wa1ZVdHRVMnc1TVNwTGhmRmF5RFJxRXl3RVFONENaX092N3FvTVF5WFhocDJmT3Z5Q2RjTm44WHF6NUFUZzZzXy13ajNWeGtxSkJkMHNZVUFkdmdDRnhrbS1iM1FubEJjdFFYQUdDUVlWbEdJLWR5OUlUNXBaUVBMM004VkhHYUhHMHVQUUdhV1Bqd1BUV0tTSUNiY1lFRktYWHlsQg?oc=5"
         }
       ]
     },
@@ -246,6 +294,18 @@
       ]
     },
     {
+      "id": "d6b46629ba44",
+      "title": "Para aumentar a autoestima das crianças, os pais devem dizer estas 7 frases no dia a dia - Minha Vida Saúde",
+      "published": "2026-09-18T19:43:19+00:00",
+      "summary": "Para aumentar a autoestima das crianças, os pais devem dizer estas 7 frases no dia a dia&nbsp;&nbsp;Minha Vida Saúde",
+      "sources": [
+        {
+          "name": "Minha Vida Saúde",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RY0tNYmQtdHJRbnJjUWhzckpTYlFPLW42cUtXVU5pZHBfdzZZOWlQcmlydHdwWnJVNy13bDNIeVFjQW1jSFE3elhuNHBhaHBncVBWbXdZVFl5cm11eFhyT9IBZkFVX3lxTE85RXFwZzRaMlpERkdIZHRwZjk0N0R3Tzg3Wm5fYmdDMWlpeFdraFBNdWdGOFNCOG96Zy11UG9fdW1ERWcxTnhFMUpPS290SmYzMnY5dkJFYnExT1dsSFExUmd5M3JRdw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f6764c299dc0",
       "title": "Mulher tem ausência quase total de gordura aparente causada por doença rara; entenda - O GLOBO",
       "published": "2026-09-18T16:15:01+00:00",
@@ -258,14 +318,14 @@
       ]
     },
     {
-      "id": "65bebfbc1fa5",
-      "title": "Creatina pode ajudar o cérebro após uma noite sem dormir? Estudo revela efeito inesperado - Terra",
-      "published": "2026-09-18T07:58:00+00:00",
-      "summary": "Creatina pode ajudar o cérebro após uma noite sem dormir? Estudo revela efeito inesperado&nbsp;&nbsp;TerraCreatina tem efeito contra a privação do sono; entenda&nbsp;&nbsp;O GLOBOBenefícios da creatina além da academia: o que a ciência tem investigado?&nbsp;&nbsp;Assine AbrilCreatina além da academia: 3 benefícios que estão chamando a atenção da ciência | SEGS Portal Nacional de...&nbsp;&nbsp;SEGS Portal NacionalCreatina pode ter efeito contra a privação do sono e até a depressão; entenda&nbsp;&",
+      "id": "c4f0d4a47882",
+      "title": "Seu cérebro é uma combinação de dois órgãos diferentes, diz novo estudo - revistagalileu.globo.com",
+      "published": "2026-09-18T14:52:33+00:00",
+      "summary": "Seu cérebro é uma combinação de dois órgãos diferentes, diz novo estudo&nbsp;&nbsp;revistagalileu.globo.com",
       "sources": [
         {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQNGtGcnkyM2wtS3VnVG9mSEtlcjVMbFJ2Qmc1WFRYVXFzWnZXcHB5MUMyckRfYVpPd0lKd0tfWHdmeDBTM1VwU3NXSnBvd2RpVlZDdDVaQXk5SlFLTmU1VGFkY3NWMWtQSnNoT2lZV2NFWUNwYlVUb3k5VFdiMTZmVGdkZ1hyX3I2V2ZBcnYtRzhXeXhVdVFaY0ZLQ2VkZ09QZURRTFlQWnB5OURSSGNuSE5la0YxVGxvY2MwYXFQaVJja1VvZ1VST1RhaHMwLUJmRm5RRUpxVVd1eG1lNmxkNVc2VXN2RG5UUjN2TGd1ZzFwQWxRRDVkcXhpUlhPdXlyOUVuMm9YY3pxVUU?oc=5"
+          "name": "revistagalileu.globo.com",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOem9kTDJGYU95bnNmdHlTTzNGWW9ibTdVUkJuMWJHSFM2V0tKSW1BSDF4aUZOUGlTOUJvZzR5R20wQlNRN0ZXRnVSY09uZEpqdktyZDRGWHMwNnM5OV83S21qT1BFTmpWVE04VTktSlBhamgyNWF1cWdXRVhJaEZqU1JYdXVEUlp0SmpxUlpuVWwxRVQ4ZHE0aF81dHdXcmtSMHFUM1h4WDI0X2V2VTQ0T09SNFZvWkJ2QTlnd0x4Q0NHRHNuXzNVVHhONG5Dd9IB3AFBVV95cUxPRzZxd0FHcXhUVnpWTi1OU0I2UHY4eGpHSmNScm1uVGdIT1RxMEJRVWRsa215MzlKYjZtQWRZb29Jb3ZVZVRSb0kyN2NNTkE1c09zbHRjMmVSdmpzelNJbUt5anR0UEx2RjY5dzUtdlA3UlJiQ1BJX0JKd0RPSFpMcXMxT2ItTnB2Z2pkWm40Mkl0YmtVYmp2QU5vSGxiWGpFT2E3aDhFLTlCTmlxSTF2dU9YQ2Y5bGVJUGNWRElrdWxRbnAydjdxVFl6Q2MteVJvelpBa0hXVkxEb3Zl?oc=5"
         }
       ]
     },
@@ -273,7 +333,7 @@
       "id": "7115cc9ae5ca",
       "title": "É possível sofrer um ataque de morcego? Caso raro em Ilha Grande (RJ) vira estudo científico; saiba mais - O GLOBO",
       "published": "2026-09-18T07:00:01+00:00",
-      "summary": "É possível sofrer um ataque de morcego? Caso raro em Ilha Grande (RJ) vira estudo científico; saiba mais&nbsp;&nbsp;O GLOBOSuspeita de ataque de morcego-vampiro surge após homem encontrar sangue no chão e ferimento no pé sem sentir dor; caso vira estudo científico&nbsp;&nbsp;Diário do LitoralBrasileiro, morador do RJ, alega ter sido atacado por “vampiro” e cientistas investigam o caso&nbsp;&nbsp;Diário do ComércioHomem é mordido por Morcego em Ilha Grande, no Rio&nbsp;&nbsp;ultimosegundo.ig.com.",
+      "summary": "É possível sofrer um ataque de morcego? Caso raro em Ilha Grande (RJ) vira estudo científico; saiba mais&nbsp;&nbsp;O GLOBOSuspeita de ataque de morcego-vampiro surge após homem encontrar sangue no chão e ferimento no pé sem sentir dor; caso vira estudo científico&nbsp;&nbsp;Diário do LitoralBrasileiro, morador do RJ, alega ter sido atacado por “vampiro” e cientistas investigam o caso&nbsp;&nbsp;Diário do ComércioHomem é mordido por Morcego em Ilha Grande, no Rio&nbsp;&nbsp;iG Último SegundoCaso",
       "sources": [
         {
           "name": "O GLOBO",
@@ -282,26 +342,38 @@
       ]
     },
     {
-      "id": "d34de6288a75",
-      "title": "Saúde da mulher: os riscos do excesso de exames - Portal Drauzio Varella",
+      "id": "fac4a1811d67",
+      "title": "Saúde da mulher: os riscos do excesso de exames - drauziovarella.uol.com.br",
       "published": "2026-09-17T21:32:47+00:00",
-      "summary": "Saúde da mulher: os riscos do excesso de exames&nbsp;&nbsp;Portal Drauzio Varella",
+      "summary": "Saúde da mulher: os riscos do excesso de exames&nbsp;&nbsp;drauziovarella.uol.com.br",
       "sources": [
         {
-          "name": "Portal Drauzio Varella",
+          "name": "drauziovarella.uol.com.br",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON18wMmxFTy1YdXdQLUVBOFZXUVFpYXdjQ1g0cXZyVTViLWpodE5va0hMX1VVR29TQ2w0RVFPdFRjOGJrYzlWN0ZqeW1kVS05UWsyaVNoRTJGb0F1QTlIcUgyUXBOc2loSmtwQXhkZnBoOXNfWFd5WmUybkJjN3pwWUhnSXZ4V1VGeTlLd3NacU51dw?oc=5"
         }
       ]
     },
     {
-      "id": "5f74a35d837d",
-      "title": "O paciente além da diálise: avanços no tratamento da doença renal crônica permitem uma vida com mais autonomia - Portal Drauzio Varella",
+      "id": "d859ca3a716d",
+      "title": "O paciente além da diálise: avanços no tratamento da doença renal crônica permitem uma vida com mais autonomia - drauziovarella.uol.com.br",
       "published": "2026-09-17T18:04:21+00:00",
-      "summary": "O paciente além da diálise: avanços no tratamento da doença renal crônica permitem uma vida com mais autonomia&nbsp;&nbsp;Portal Drauzio VarellaVeja mais manchetes e perspectivas no Google Notícias",
+      "summary": "O paciente além da diálise: avanços no tratamento da doença renal crônica permitem uma vida com mais autonomia&nbsp;&nbsp;drauziovarella.uol.com.brVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
-          "name": "Portal Drauzio Varella",
+          "name": "drauziovarella.uol.com.br",
           "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWnBEOFlvLWNVdzZBdlJKVkt0akhsT1cxdkdSVUZOVjBsbDRGZnMzWmEyaXFjaXFEd2JqZ0hEdEc0XzBnODlqelVtdC0zVW9iLVVkZVgwUHRVYmxSSG1WcUVrc3Y1ZEU1LW9mcWhJMFRSYWlqYVNmOHo0MjJsM1hrY1hSQ1p5Y3Z5Wm50ZjFYVE1KZng3YkN0ZFJhaU5uMlA5cWJxVFNpZkFMLXg4N2VGbWVPeFV3RzZZVXZLeWczcEZpYzJWaE9xdXlrM05WbUtsUnFlSGhzV1ByQmVCTzN6NVE2dUkyako3UGpB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2174d8e84a28",
+      "title": "Descoberta nova espécie de cobra gigante letal: cientistas descobrem nova espécie de sucuri-verde gigante na Amazônia - Terra",
+      "published": "2026-09-16T13:22:00+00:00",
+      "summary": "Descoberta nova espécie de cobra gigante letal: cientistas descobrem nova espécie de sucuri-verde gigante na Amazônia&nbsp;&nbsp;Terra",
+      "sources": [
+        {
+          "name": "Terra",
+          "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOSk9aMXJ6NURDek5sTzMxTUNOUkgtMzVMNlNYOXl2VGtqb2VSZnR3Tk5pQzI3Z1FCNzVUSFVxMmdyOThsczFibkdyZUNRTlpBb0tKT2c1dklkc1cwbk1kUnpiZ0ZUV3h3aDVDMUY5REtpRndPdGh3b3RNZm4zUEtVa1czeGVhbWp0U2VUTklkYUVWV0J2aUVfc0J0eWVWRWp1NjFJeDN4S3hlRnJmRExTNUZldzB3YTJYQjFYNkJEajZib2lfOHJKV0U3MmhPa0JBS0gyRDhPcE9TMWY3bDN4Sl91NG55dmdDbDZESmRMckNTLUpHVmRmNWMwVzBGdWNlM04ydFBTV3RVV3pOc09iX0p6M3luR2tGVkNwMHhkZUh2MXhmMzZJ?oc=5"
         }
       ]
     },
@@ -314,18 +386,6 @@
         {
           "name": "BBC",
           "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WV2N3alR2WGI1T0o3c0dvZ2E2Y25GRzd5bERpeXNsYXZjenIwcHprVngyeXZKZmduc2JOMnU2SThxVU02cGptUUxqSU85UU9TOC1RNGs1eU9VckhPT0VwLVVPcw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "211756f844b4",
-      "title": "Anvisa aprova 14 novas canetas para diabetes e obesidade em 2026; veja quais são e seus preços - Folha de S.Paulo",
-      "published": "2026-09-14T07:00:00+00:00",
-      "summary": "Anvisa aprova 14 novas canetas para diabetes e obesidade em 2026; veja quais são e seus preços&nbsp;&nbsp;Folha de S.PauloMesmo com descontos nas nacionais, canetas do Paraguai ainda custam menos&nbsp;&nbsp;MidiamaxConheça as canetas nacionais de semaglutida aprovadas pela Anvisa e seus respectivos preços&nbsp;&nbsp;VEJAHypera amplia estratégia do Semavy para além da caneta&nbsp;&nbsp;Guia da FarmáciaAnvisa aprova 14 medicamentos genéricos para diabetes e obesidade após fim da patente do Ozempic",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRk5BbnhzR0swYTJ1bENFRGtqY1lKU3A2Tk9keG12ZWFtT01yejBRbUJ5amVEQjRQTHRCc19qdTVPOWRBUDZYNm9NSjJfMEQ4SU5GSkRWZG9Eak1aZUo3S1pYQU56VTNmOEtwWVcyRkVrSzJDcjh6d0FZOC0xQUJMazNVVWdSTG9SYkxjUjJTOHVOZVJmLXR3cFhvSEJIYjExZWlldnpkWWJjOWgxeDJUTTRWU25SLVo1d1A1engyamVWeHAxSkJPcWE3U2VpN3QyN1dMR2NkTzRxQTh0ejJXR2xXaUs2dTN1anc?oc=5"
         }
       ]
     }
