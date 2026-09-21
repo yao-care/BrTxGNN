@@ -1,19 +1,43 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-09-20T20:28:24.610240+00:00",
-  "total_fetched": 105,
-  "unique_count": 104,
-  "health_related_count": 33,
+  "fetched_at": "2026-09-21T03:53:57.107482+00:00",
+  "total_fetched": 101,
+  "unique_count": 100,
+  "health_related_count": 27,
   "news": [
     {
-      "id": "ea8f702ca1e4",
-      "title": "Morre Paulo Roberto Teixeira, médico pioneiro no enfrentamento ao HIV e à Aids no Brasil - folha.uol.com.br",
-      "published": "2026-09-20T17:48:00+00:00",
-      "summary": "Morre Paulo Roberto Teixeira, médico pioneiro no enfrentamento ao HIV e à Aids no Brasil&nbsp;&nbsp;folha.uol.com.brMédico atuou na criação de políticas de prevenção e tratamento&nbsp;&nbsp;CartaCapitalMorre Paulo Roberto Teixeira, médico que ajudou a criar resposta do Brasil à aids&nbsp;&nbsp;correio24horas.com.brMinistério da Saúde lamenta falecimento de Paulo Roberto Teixeira&nbsp;&nbsp;MINUTO MTPara falar de Paulo Roberto Teixeira&nbsp;&nbsp;Agência Aids",
+      "id": "637f4a5213a2",
+      "title": "Morre médico Paulo Roberto Teixeira, pioneiro no combate à Aids no Brasil - CNN Brasil",
+      "published": "2026-09-20T21:50:15+00:00",
+      "summary": "Morre médico Paulo Roberto Teixeira, pioneiro no combate à Aids no Brasil&nbsp;&nbsp;CNN BrasilMorre Paulo Roberto Teixeira, médico pioneiro no enfrentamento ao HIV e à Aids no Brasil&nbsp;&nbsp;Folha de S.PauloMorre Paulo Roberto Teixeira, médico sanitarista que atuou na construção das políticas de combate ao HIV e à Aids no Brasil&nbsp;&nbsp;G1Morre aos 77 anos médico que foi referência no combate ao HIV e à Aids no Brasil&nbsp;&nbsp;Alô Alô BahiaMédico atuou na criação de políticas de prevenç",
       "sources": [
         {
-          "name": "folha.uol.com.br",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPOXFtTnV0bGlTRzhmZE1BNmxSX1lSUlAzc0NHc0tMcFBjS3E2MU5wS3R2a21XRHRvS0JnbkFBaVFpSng5TklQTmpNTTVqeEg2SUVQWVE5X2d5WDNwWV9tdkpqVzlua0p5eW5ZdWFXeHBkelZsMkt0eVVXTl81WE1EQUp4UnRBejRtekVid2NIclBMTU5Yb29udWJCNVlJQzJFb1pET0ZsWlM3YUFudzNiOGR0Q3otM2NOS2lubzlSY2NvbWdQOU9paHpOc0sydS03RmVPazh4cGs3S1czRXp5T1ln?oc=5"
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNTU4QUR1WlpIR3FYLWpSV2Q4NGcwdE1EVHBWdXdSbHYwaG1KUUtHTGtwUHRqTjRjVjNmQmdTVkRPZXFDY3ctX19HQ1NkN2pCcW9jcnUxNnZTTkU5UHQ5OG5pelVZNlZfRXRVcUxPdk9NdU40UEEwbXphckdkQnFqSGhIS3EydXFfRGpiZUtZdV9ESXVRVGRfQjgwdzVWSVhLdXpKREgycjVQNFpp?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "10ae4bcb6013",
+      "title": "Jovem de 25 anos morre de meningite após procurar UPA cinco vezes na Serra - Serra Noticiário",
+      "published": "2026-09-20T21:21:00+00:00",
+      "summary": "Jovem de 25 anos morre de meningite após procurar UPA cinco vezes na Serra&nbsp;&nbsp;Serra NoticiárioPrefeitura da Serra afasta médicos que atuaram no caso de jovem morta por meningite&nbsp;&nbsp;G1Jovem morre por meningite e profissionais de saúde são afastados no ES&nbsp;&nbsp;Jornal Espírito Santo NotíciasFamília pede investigação após morte de jovem por meningite&nbsp;&nbsp;Tribuna OnlineSerra afasta e vai investigar profissionais após morte de jovem por meningite&nbsp;&nbsp;Portal Tempo No",
+      "sources": [
+        {
+          "name": "Serra Noticiário",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMmloTE9ZaWRncGJjbjJ3VkFxNzNRcmVGSXR5aWVPZmM3cHNYWERWSFZseDVGYVpTbk5UelNmMVdIV18wQXhTM0dHay1KSk9wS21SelZNa1lqTzFGandoOFBPWVhZWG9GdXRLX0JCTW4yanROYVBTQ1ZmNmZWT1hDLVI1VnpuM2tjUFpVV1VDdnVKNjVxMnUxX1lVZHBhY1Z0c1ZnYzNHN1gwZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7ecbd01332cc",
+      "title": "O que é a doença de Alzheimer: sintomas, diagnóstico e tratamentos atuais - Rádio Itatiaia",
+      "published": "2026-09-20T19:05:57+00:00",
+      "summary": "O que é a doença de Alzheimer: sintomas, diagnóstico e tratamentos atuais&nbsp;&nbsp;Rádio ItatiaiaEstimulação cognitiva pode retardar perda de funções no Alzheimer&nbsp;&nbsp;MetrópolesPreservar a identidade e a autonomia é essencial no cuidado de pacientes com Alzheimer&nbsp;&nbsp;MidiamaxAlzheimer: quando os esquecimentos merecem atenção?&nbsp;&nbsp;engeplus.com.brDia Nacional de Conscientização da Doença de Alzheimer: entenda a importância da data&nbsp;&nbsp;Terra",
+      "sources": [
+        {
+          "name": "Rádio Itatiaia",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ2VTN2xsS08yV0JGalZLV1hmbVRBcEw1RXk5RFA4ZXo5UmFHUjZ4RmZKdm5kMldRcmxaUEJ2bkNpUUlZUklRaW9BN2gwdzY0MU5ZQ1NrR3UxaUo1VlVCRVBxcDY2ckRvRzBDb0RFREFkUDZKaVVKejJMYjhSYzhVYnBEZGJINHhZV2kzWl93VUVOQUxDZzQwOFlGYkhDeE9CbVZkN1FmSjJEczA?oc=5"
         }
       ]
     },
@@ -21,11 +45,35 @@
       "id": "81840184d177",
       "title": "Os cinco melhores alimentos para cuidar da saúde do cérebro, segundo um neurologista - Rádio Itatiaia",
       "published": "2026-09-20T16:26:37+00:00",
-      "summary": "Os cinco melhores alimentos para cuidar da saúde do cérebro, segundo um neurologista&nbsp;&nbsp;Rádio Itatiaia",
+      "summary": "Os cinco melhores alimentos para cuidar da saúde do cérebro, segundo um neurologista&nbsp;&nbsp;Rádio ItatiaiaCarne processada, batata-frita, cerveja: dieta é associada a declínio cognitivo mais rápido em pessoas com risco genético de Alzheimer&nbsp;&nbsp;O GLOBOPreocupação com a saúde cerebral cresce entre todas as gerações&nbsp;&nbsp;AJN1Idoso emagrecendo sem querer e esquecendo mais pode precisar olhar também para a alimentação&nbsp;&nbsp;Tua SaúdeDe frituras à cerveja: dieta é associada à pi",
       "sources": [
         {
           "name": "Rádio Itatiaia",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPREdWVEJ3dFg5T2xHYkw4S3FHTTEwRGQ0QjR4eG4tWVRIcEFRMTU4aE5tamlkeG9rN0s5dDBBSF9HckFxQ2R2X1FLdTlRSnVrcDA1Sm9zUTdSRVlpQXVVeDhjSmZRTUR2RDg5OXNXNDJzdHBFRjR0Q0JYT2VDVUlOU29lb3BER0ZkaGV6WjlMSGNWTkdfOTd5U3JsaDdUSVRILVJ4dFlXTmJvMFRTMXVITnFCaXhRejM2MWg0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "67b15c35955c",
+      "title": "A forma correta de recuperar o sono perdido - 20/09/2026 - Equilíbrio - Folha de S.Paulo",
+      "published": "2026-09-20T15:39:00+00:00",
+      "summary": "A forma correta de recuperar o sono perdido - 20/09/2026 - Equilíbrio&nbsp;&nbsp;Folha de S.PauloDormir demais faz tão mal quanto dormir de menos? Entenda&nbsp;&nbsp;Rádio PampaColchão inadequado e noites mal dormidas podem intensificar significativamente os sintomas de ansiedade, indica estudo; saiba escolher o modelo certo&nbsp;&nbsp;Gazeta de São PauloRecuperar o sono no fim de semana ajuda, mas exige cuidado&nbsp;&nbsp;Diário do Centro do MundoA forma correta de recuperar o sono perdido&nbsp",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaS1nb0prTGYwQjRYWjB4bDNDVDNORFNsdnNxSUxOZlYtSmpfXzFhUGtGUzljTi1jOTZpYmRPTnVTMVB0MnVoQWsyVWFNdV9tVlpnRi1KeUVPdk5raVB3Q0lwRW1aVGZsbG9QUTBEbnpoY0FQQnR3SmhsNVM5dlk3LTYxbERWZEJEcFpac3FheDY5MVhGcG1jRnVLQU5pLUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d30f95b89ef5",
+      "title": "NASA anuncia a descoberta na Lua da maior cratera recente do Sistema Solar - Estadão",
+      "published": "2026-09-20T15:00:00+00:00",
+      "summary": "NASA anuncia a descoberta na Lua da maior cratera recente do Sistema Solar&nbsp;&nbsp;Estadão",
+      "sources": [
+        {
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeTdiNnU0LXBEalB6STljNmNuUmxXakVWNERleTRhejd3MEFJQUtHUjFfX0ZGUzI3dklZb3EyUU5fSHc0dkZ4QzNRcVhxWURXX0RHbGFUakpIZ0dHeHFnUVBvNzFqc3VJUUkyLXVlV1hjOXJuaE5USXR0REZkVUJ5WTlCUmM1ZWFBUkpzZTlCck5NYUJ5NmNKQ3ZMRUZuX2FiMEpXYlFRZE5PTTM2TGs1SWtkTDFyQ0HSAbwBQVVfeXFMTms1aklWclcxX3psalRLQ3hzcVNMQ3hkMnBiTERkRzItbkg3ckxMRUhZMHpLbllWSHhoMERUVVFtRHRaWTNBQ1NkVVJRZ2RYZWxCZ05rNlBnenJMemJIdU5KVFd6eGs5RTJhY1NhYmQtWkdpbERXOE9PbmhkZjRBSnpyUm9wa1lRTGZMLVZMOFpXeGs3YnpXbWp2OXY5bmNGa0dvbFp4VGZWck9qSnQ5eEViUWlfQjdjbGRzQlY?oc=5"
         }
       ]
     },
@@ -42,37 +90,73 @@
       ]
     },
     {
-      "id": "7f00585810ce",
-      "title": "Minas tem 4 municípios entre os 20 com menor cobertura vacinal contra sarampo no país; veja quais - otempo.com.br",
-      "published": "2026-09-20T10:00:00+00:00",
-      "summary": "Minas tem 4 municípios entre os 20 com menor cobertura vacinal contra sarampo no país; veja quais&nbsp;&nbsp;otempo.com.br",
+      "id": "5fe7bf8dbb80",
+      "title": "Câncer levou à amputação do pênis de 2 homens por dia em 2025 - noticias.r7.com",
+      "published": "2026-09-20T12:00:00+00:00",
+      "summary": "Câncer levou à amputação do pênis de 2 homens por dia em 2025&nbsp;&nbsp;noticias.r7.com",
       "sources": [
         {
-          "name": "otempo.com.br",
+          "name": "noticias.r7.com",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVmJGTzA2Y0Eya0ZIaVY0dEhBVU5fY1hubUIwQzlNdUNnQ2dYdi10VzJtVmZ4d2FLQlY1RWpwREZIeXAzdjZZcTVmMno4cHAwUThURXJuVFBrRlM3UXU3V254OTlVR2psRW4zcVJLcElrdHdkTVhXYmFqbUdoYVNERjI4Rlc3c3FyaFEwaDJuVUFnYTlZVWxDNzNBeEp2cVl1VkFEaDNIZWF0LUhabERqRXctWW8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1d5e99f2d4af",
+      "title": "‘Crânio apertando meu cérebro’: como é viver com crises de enxaqueca que mudam a rotina - Diário do Nordeste",
+      "published": "2026-09-20T11:00:58+00:00",
+      "summary": "‘Crânio apertando meu cérebro’: como é viver com crises de enxaqueca que mudam a rotina&nbsp;&nbsp;Diário do NordesteAnvisa amplia opções contra enxaqueca, obesidade e diabetes com novos medicamentos aprovados&nbsp;&nbsp;O POVOAtogepant ou topiramato para prevenir enxaqueca? Ensaio comparou os dois tratamentos&nbsp;&nbsp;Tua SaúdeAnvisa aprova novo medicamento para tratar e prevenir crises de enxaqueca em adultos&nbsp;&nbsp;Portal Revista Kdea 360Viver com enxaqueca é o pesadelo de quem se vê pa",
+      "sources": [
+        {
+          "name": "Diário do Nordeste",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUE5kbUxjdm1wQnZld0ZDU3BwVU1ubkVrYmJ1NE40MEVqZ2w0dTI1TFcxa202TlZnMVY5dnBUcU1Fbk45QUpMQWpJV2dZOU1lSk1wS0pDMWpQWk8xNVUzYVdzSWlDZkJvbkdFLU1IcnREQWJfRTZuVFJoOGpOTzlpU2hZSWxuc3p1bklmdkZTdGxOUlF5Sk1sU1o5bUJCemNZMFFUZUY5bU5Fa2poUVlTbGRJR2tPd0NFZ0JiTmVFc29GYXFJUlgtS2gxRW9GZ01ObDJhVHdXVDhfbm9W?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0e67662e3cac",
+      "title": "Minas tem 4 municípios entre os 20 com menor cobertura vacinal contra sarampo no país; veja quais - O TEMPO",
+      "published": "2026-09-20T10:00:00+00:00",
+      "summary": "Minas tem 4 municípios entre os 20 com menor cobertura vacinal contra sarampo no país; veja quais&nbsp;&nbsp;O TEMPO",
+      "sources": [
+        {
+          "name": "O TEMPO",
           "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPM0R3Z2h6cW4xa1RQS2I4emhOaHdYMXAtT0xRV3JVb2FjTzVVTlV1Z1N6eXBOZFB5SERjZEFKTi02RGRuTFJpdmxJT2NKdVppVmZybENRM2xGQlVZVHBORGNOM0Z6WnIxMkxRWjVmZ1FkUDlYZFNlVkx6ZXEyU3d4cXpXTnVKeE9iRXkwLTBVVzV6YWw1elA4WnRXWi1SdDIxbzIwN2pYVVJxMVItS1ZiNE1wbzNfblJjbE5SYnlfbUt2R1p3NzhQNkxndi1pOFdZdnhjLTlaalhWQThMalFaNWtmeDA?oc=5"
         }
       ]
     },
     {
-      "id": "35c7f0e2a78f",
-      "title": "Pessoas falam menos a cada ano, e especialistas veem riscos para o cérebro - folha.uol.com.br",
-      "published": "2026-09-20T07:00:00+00:00",
-      "summary": "Pessoas falam menos a cada ano, e especialistas veem riscos para o cérebro&nbsp;&nbsp;folha.uol.com.brVeja mais manchetes e perspectivas no Google Notícias",
+      "id": "4996be4fb965",
+      "title": "Vitamina D: a chave da vitalidade para todo o organismo - Correio Braziliense",
+      "published": "2026-09-20T09:00:00+00:00",
+      "summary": "Vitamina D: a chave da vitalidade para todo o organismo&nbsp;&nbsp;Correio BrazilienseVitamina D em dose alta e memória: o que o novo dado sugere e por que não vira receita&nbsp;&nbsp;Tua SaúdeMenos sol no inverno significa menos vitamina D? Entenda quando repor&nbsp;&nbsp;gauchazh.clicrbs.com.brEndocrinologista responde às perguntas mais importantes sobre a Vitamina D&nbsp;&nbsp;Correio Braziliense",
       "sources": [
         {
-          "name": "folha.uol.com.br",
+          "name": "Correio Braziliense",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWjFPSjJyaExoa01UUzU0VWg3b0RLem9MRE9qTm9leFlYeUpUTGxkZ0VqMU5LM29YaVgwYWU4MDBxcHdfYmlIWWpJeHBSQ2p0X2Y4c0lTNE9iQi12NmxIWlU5T0pGOVZEMnAwYkRqOW1sSk5PZVlxbTl1am50OTJ4cEJjTk5ubXVZS1BieUtJRTVleEJwVjdzYlREX1J5T2NkUWt0cWV4VHZNOG5ZVm9zMkRFMDZiV280bDRPUVc5ako4cF95QmpZYnNUMjjSAdIBQVVfeXFMTTFXTFBDSkpGZFpmb0RDMEl3Um5WOWxqMm4tMmxRajNhZnBWU28tQk1UbzJwblE1Y0VXbk1WZ2ZKLXRjc25rUlV1WDVjN29CVlAySmJhU2MtT3JOTy1HSndsUkQ1Nm1QVUtZeTlOZklES3pnR3luc0pZTzlKeFhQcUJnYnBEei0yQU9VUUt2LWk5OG9hSWZheUgxSHpORVhBNEFmSWRFMnBmT2xzNFRkYUtWM1hHOUpSSTdvNElKaGRMR2JIZjhuTWRBT2pfWTFoa0VR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "51ce5975de9c",
+      "title": "Pessoas falam menos a cada ano, e especialistas veem riscos para o cérebro - Folha de S.Paulo",
+      "published": "2026-09-20T07:00:00+00:00",
+      "summary": "Pessoas falam menos a cada ano, e especialistas veem riscos para o cérebro&nbsp;&nbsp;Folha de S.PauloVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOU2hqVEdQRkxwWEIwNk9kSi1PeUhRUWsyNTljbzZ4ZjFTVkpYUmkxT3Bwb1JFLU5KMHZ6LWo2cjZqYzRrd0tFXzJnTmVfdnFReU1aQUU5SWFMZzRxaGFJbWh2NHJTYW9MR2o3MzV0X2JmX19zSUdYTXpWRkc2eFRKOVZjUGFVUGF2TmlFX3RNM1p0aktwSEZ6bThXQVhVQ2hQbXlXNWo3NTE0b1RjS3U0ejBZQ2pqbUJFdVJXZXQ1VDhRTEJ4Snpn?oc=5"
         }
       ]
     },
     {
-      "id": "f9d8916db72d",
-      "title": "'Só não quero retroceder', diz paciente que usa novo medicamento para Alzheimer - folha.uol.com.br",
+      "id": "313b729ad43c",
+      "title": "'Só não quero retroceder', diz paciente que usa novo medicamento para Alzheimer - Folha de S.Paulo",
       "published": "2026-09-20T07:00:00+00:00",
-      "summary": "'Só não quero retroceder', diz paciente que usa novo medicamento para Alzheimer&nbsp;&nbsp;folha.uol.com.br",
+      "summary": "'Só não quero retroceder', diz paciente que usa novo medicamento para Alzheimer&nbsp;&nbsp;Folha de S.Paulo",
       "sources": [
         {
-          "name": "folha.uol.com.br",
+          "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLXJNb0V5cmozMVRjVHVTTG1lMlVnU2ZueWZIZnVDX3J2aVlFSGRURTZnWjRVXzhQeGN5VUNUWlBqbVFRSnIzbDk4Qm9uUFB4TzlRdHhtRHhsVG5WaTdsbDVxYjZuRmJ6ajBRT3pvT1RQallhTmhCRG5WRF91TDBqck91X1J3ZGd4MHdNeUF0MGNQQWRLYXRHNk9KUF9MTGIzTU5yeVVHS1pOSUJSVG1samxpS3FCOGZMZGZsQ1lxWVVTOTZDdHc2bTVKUVpERFRLUF9F?oc=5"
         }
       ]
@@ -81,7 +165,7 @@
       "id": "39091ea5c8f8",
       "title": "Maus hábitos entre brasileiros acendem alerta para câncer de estômago - CNN Brasil",
       "published": "2026-09-20T06:00:00+00:00",
-      "summary": "Maus hábitos entre brasileiros acendem alerta para câncer de estômago&nbsp;&nbsp;CNN BrasilBrasileiro se sente mais saudável do que de fato é, aponta pesquisa&nbsp;&nbsp;Hoje em DiaBebem, estão acima do peso, não fazem exercícios e se consideram saudáveis: pesquisa revela hábitos dos brasileiros que aumentam o risco de câncer&nbsp;&nbsp;correio24horas.com.br49% das mulheres brasileiras não praticam exercícios, aponta pesquisa&nbsp;&nbsp;terra.com.br64% dos brasileiros que bebem de 5 a 7 dias por",
+      "summary": "Maus hábitos entre brasileiros acendem alerta para câncer de estômago&nbsp;&nbsp;CNN BrasilBrasileiro se sente mais saudável do que de fato é, aponta pesquisa&nbsp;&nbsp;Hoje em DiaBebem, estão acima do peso, não fazem exercícios e se consideram saudáveis: pesquisa revela hábitos dos brasileiros que aumentam o risco de câncer&nbsp;&nbsp;Jornal CorreioFrituras, álcool e sedentarismo elevam alerta para câncer de estômago&nbsp;&nbsp;Tribuna do Planalto64% dos brasileiros que bebem de 5 a 7 dias por",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -105,7 +189,7 @@
       "id": "21a370940dc9",
       "title": "Estudo associa café a efeitos no intestino, humor e memória - Diário do Centro do Mundo",
       "published": "2026-09-20T02:58:13+00:00",
-      "summary": "Estudo associa café a efeitos no intestino, humor e memória&nbsp;&nbsp;Diário do Centro do MundoDo intestino ao cérebro: como o café pode mexer com os dois&nbsp;&nbsp;EstadãoEstudos comprovam: café faz bem para a microbiota humana&nbsp;&nbsp;terra.com.brAroma especial: Só o cheirinho do café já é capaz de melhorar tensão, ansiedade e desânimo, mostra estudo&nbsp;&nbsp;O GLOBOCheiro de café recém-passado pode despertar uma reação no organismo que mexe com o humor antes mesmo do primeiro gole; ent",
+      "summary": "Estudo associa café a efeitos no intestino, humor e memória&nbsp;&nbsp;Diário do Centro do MundoDo intestino ao cérebro: como o café pode mexer com os dois&nbsp;&nbsp;EstadãoEstudos comprovam: café faz bem para a microbiota humana&nbsp;&nbsp;TerraAroma especial: Só o cheirinho do café já é capaz de melhorar tensão, ansiedade e desânimo, mostra estudo&nbsp;&nbsp;O GLOBOCheiro de café recém-passado pode despertar uma reação no organismo que mexe com o humor antes mesmo do primeiro gole; entenda&nb",
       "sources": [
         {
           "name": "Diário do Centro do Mundo",
@@ -114,22 +198,10 @@
       ]
     },
     {
-      "id": "71fce49e74cd",
-      "title": "[VÍDEO] Estudante de medicina é flagrada praticando furto em loja de luxo em Natal - Blog do BG",
-      "published": "2026-09-20T00:34:45+00:00",
-      "summary": "[VÍDEO] Estudante de medicina é flagrada praticando furto em loja de luxo em Natal&nbsp;&nbsp;Blog do BG",
-      "sources": [
-        {
-          "name": "Blog do BG",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcGxuQ2xJUk1fOEtYejhGaEl4c0ZLYlN3U1A0R08xX3QwM21FemMzMC1ZUlVFUWh4NkJkVkxVVkFMbktjZzdzTEFuNW1tSms1S2lwZFdoZlo1WU5FMkZaUl9oQUdIZmkwOC0xbzd4aTZ6RjNLU3VndXRCcHgwcWJBN041ZXJpOWgyWUtiWkpodnpUemV2VElab2hrYlRHVFpSM1JCcVpaaEdkZEZvOUE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3a3c9cfd421b",
       "title": "Novo exame de sangue detecta câncer de pâncreas precoce em 87% dos casos - CNN Brasil",
       "published": "2026-09-19T20:54:51+00:00",
-      "summary": "Novo exame de sangue detecta câncer de pâncreas precoce em 87% dos casos&nbsp;&nbsp;CNN BrasilExame de sangue detecta câncer de pâncreas inicial em 87% dos casos&nbsp;&nbsp;folha.uol.com.brSetembro Roxo: novas pesquisas ampliam as perspectivas de tratamento de câncer de pâncreas, um dos mais letais&nbsp;&nbsp;Bem ParanáTeste inovador: exame de sangue para câncer de pâncreas atinge alta precisão em estudo&nbsp;&nbsp;terra.com.brCâncer de pâncreas pode começar sem sintomas; veja sete sinais de ale",
+      "summary": "Novo exame de sangue detecta câncer de pâncreas precoce em 87% dos casos&nbsp;&nbsp;CNN BrasilVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -138,146 +210,38 @@
       ]
     },
     {
-      "id": "30a396657a96",
-      "title": "Estudo revela os 10 nomes masculinos considerados mais bonitos de ouvir; veja a lista - Rádio Itatiaia",
-      "published": "2026-09-19T17:46:43+00:00",
-      "summary": "Estudo revela os 10 nomes masculinos considerados mais bonitos de ouvir; veja a lista&nbsp;&nbsp;Rádio Itatiaia",
-      "sources": [
-        {
-          "name": "Rádio Itatiaia",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV2ROc0ZtR2J1SHRncUtMVDhpNV9uaG8wa1ZVdHRVMnc1TVNwTGhmRmF5RFJxRXl3RVFONENaX092N3FvTVF5WFhocDJmT3Z5Q2RjTm44WHF6NUFUZzZzXy13ajNWeGtxSkJkMHNZVUFkdmdDRnhrbS1iM1FubEJjdFFYQUdDUVlWbEdJLWR5OUlUNXBaUVBMM004VkhHYUhHMHVQUUdhV1Bqd1BUV0tTSUNiY1lFRktYWHlsQg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d9fa90b30bfe",
-      "title": "O que os movimentos do corpo podem revelar sobre os níveis de ansiedade - folha.uol.com.br",
+      "id": "3acfb94ee61b",
+      "title": "O que os movimentos do corpo podem revelar sobre os níveis de ansiedade - Folha de S.Paulo",
       "published": "2026-09-19T15:00:00+00:00",
-      "summary": "O que os movimentos do corpo podem revelar sobre os níveis de ansiedade&nbsp;&nbsp;folha.uol.com.brSeu jeito de caminhar pode dar pistas sobre ansiedade e depressão&nbsp;&nbsp;terra.com.brMovimentos que você faz sem perceber podem ser sinais de ansiedade, dizem especialistas&nbsp;&nbsp;Diário do Comércio",
+      "summary": "O que os movimentos do corpo podem revelar sobre os níveis de ansiedade&nbsp;&nbsp;Folha de S.PauloSeu jeito de caminhar pode dar pistas sobre ansiedade e depressão&nbsp;&nbsp;TerraMovimentos que você faz sem perceber podem ser sinais de ansiedade, dizem especialistas&nbsp;&nbsp;Diário do Comércio",
       "sources": [
         {
-          "name": "folha.uol.com.br",
+          "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM0xqSW91S2ZvV3VFcEthc09RUzZCcENBVEhXdzRyeEozNmxYT2p1ZGxtTjZ6WmJYN0hPb0NpY3MyQTFQblZPVy05NGwzbU5RZzV0NnNfVW9vaGJOSWhmUjJ1ZExoUHZGdVNUZzItczk3b282SkctSTdzQ1hPamVPSklHcWVFYmVFNHkyLUlVaEI1YlhrZ1RPYXRzdVRUczF3WFBzVThRNlZDWmNxSXI4dTEzNEpHQUZJUy1TM0FjNml6NFpo?oc=5"
         }
       ]
     },
     {
-      "id": "5f6c280a217a",
-      "title": "Bactéria comum no estômago pode estar ligada a um em cada cinco casos de câncer de intestino; entenda - correio24horas.com.br",
+      "id": "52d969d33b88",
+      "title": "Bactéria comum no estômago pode estar ligada a um em cada cinco casos de câncer de intestino; entenda - Jornal Correio",
       "published": "2026-09-19T14:24:04+00:00",
-      "summary": "Bactéria comum no estômago pode estar ligada a um em cada cinco casos de câncer de intestino; entenda&nbsp;&nbsp;correio24horas.com.brEstudo relaciona bactéria que afeta estômago a um em cada cinco casos de câncer colorretal&nbsp;&nbsp;VEJABactéria pode agir por anos no estômago sem apresentar sintomas&nbsp;&nbsp;G1Bactéria silenciosa costuma estar por trás do câncer de estômago; veja como se proteger&nbsp;&nbsp;EstadãoA dor melhorou depois do tratamento da H. pylori, mas isso não confirma que a",
+      "summary": "Bactéria comum no estômago pode estar ligada a um em cada cinco casos de câncer de intestino; entenda&nbsp;&nbsp;Jornal CorreioEstudo relaciona bactéria que afeta estômago a um em cada cinco casos de câncer colorretal&nbsp;&nbsp;VEJABactéria pode agir por anos no estômago sem apresentar sintomas&nbsp;&nbsp;G1Bactéria silenciosa costuma estar por trás do câncer de estômago; veja como se proteger&nbsp;&nbsp;EstadãoA dor melhorou depois do tratamento da H. pylori, mas isso não confirma que a bactér",
       "sources": [
         {
-          "name": "correio24horas.com.br",
+          "name": "Jornal Correio",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZmozTDM2Sy1ZaTBuRFp6OVl4MkdYTjhRM0tjZ1BnbjRlUmhNWGlPYk1zcWxlRmZGNmVua2NoU3JMeWhlR0RtNENRMjBFcnhYSFJnazlTUC1kRUhieFFyRnBsMTJ2YUFlZGIwellma0xVajdEWHJ1Y1FaOHNxVXZqeEtuV2FQU0lFV1FBb1hFaVcwZFF5X09pZXlyYklCOV90NGZNdW50NUpDa3dBemZrX3ZqSGFhSm5FVTFSZDk0QVhLM2p3WlktYktzYkV6dXpzWDBpYWZLOUVUbndpQ2c?oc=5"
         }
       ]
     },
     {
-      "id": "4643f37b9827",
-      "title": "Atendimentos por câncer de pênis aumentam mais de cinco vezes em dez anos - R7",
-      "published": "2026-09-19T12:00:00+00:00",
-      "summary": "Atendimentos por câncer de pênis aumentam mais de cinco vezes em dez anos&nbsp;&nbsp;R7",
-      "sources": [
-        {
-          "name": "R7",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaXBfZFpvTjRiWDc0c2JiU2l2bEl2cmxPTDR4ampVSEtXUVp4NHhyOVFjekViZkxFem1pMURBUk05dWlXMER3bEpKNFNLcDhRb0FhWEQxZkh2dVVWQkpaTlJnSFg1WEJxbHV6c2FNcGFnaHdjZEUxdnV3VXlkeFkyTVZVUTdEZVp2bS1xLTZkWGFwOGFvb01oc241YXZFM3ZKbm40TllpVnl5dVdZUUEzalp2bEEzTDhwMXB6aVJUbWJhT1Ut?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b6ea8031ee3d",
-      "title": "Mulher infarta? Médicos explicam sintomas no sexo feminino ao Dr. Kalil - CNN Brasil",
-      "published": "2026-09-19T10:00:44+00:00",
-      "summary": "Mulher infarta? Médicos explicam sintomas no sexo feminino ao Dr. Kalil&nbsp;&nbsp;CNN BrasilInfarto: veja os sinais e saiba quando buscar atendimento&nbsp;&nbsp;terra.com.brO coração da mulher é diferente. Tanto os fatores de risco como os sintomas das …&nbsp;&nbsp;SAPOInfarto nem sempre começa com dor forte: demora para buscar ajuda pode custar músculo cardíaco | SEGS...&nbsp;&nbsp;segs.com.brSaúde cardíaca: Especialistas alertam sinais e medidas ao Dr. Kalil&nbsp;&nbsp;contilnetnoticias.com.b",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY0MtRFFtZVFCNVFwR3BNNFg1TUVHQzhPbnBaN253RUlUbTVwOUJFTUJGWkFyWFJqZGp5QXJtLW9Bajg2NXRjRm9DRXBLdW5tSGdsZzBXRnBqclViNmNJemw5cnhOdTJCUnlHYjBnTGtzMDkwUmZZY09nSzE3Wm9iQUhTNGJpOEI2N3pMOE1HekVfU2pUcE16c0pweVBkZFBNT3Jvd2pUY08?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "56bc21022758",
-      "title": "Opinião - Reinaldo José Lopes: Criar supervírus letal é fácil no papel e dificílimo na prática - folha.uol.com.br",
+      "id": "131ead75bf9a",
+      "title": "Opinião - Reinaldo José Lopes: Criar supervírus letal é fácil no papel e dificílimo na prática - Folha de S.Paulo",
       "published": "2026-09-19T10:00:00+00:00",
-      "summary": "Opinião - Reinaldo José Lopes: Criar supervírus letal é fácil no papel e dificílimo na prática&nbsp;&nbsp;folha.uol.com.br",
+      "summary": "Opinião - Reinaldo José Lopes: Criar supervírus letal é fácil no papel e dificílimo na prática&nbsp;&nbsp;Folha de S.Paulo",
       "sources": [
         {
-          "name": "folha.uol.com.br",
+          "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQjdnWGU2dDZpa3h2S0JhTWZGOGZ3ZndoVlRDN3JXS1NGc1RTWkh0U3dxaHkyemFCYTVjY3Vxem1JSEg0VFl2ZVVrRjhmTXZqWWNhZENPX1RsOXdKUlNHY1k4Vmc5UUlrZlc3X0tUR29QMVZaamllNXU4ODJUNlBxSXlUTHFXNnZkU0pxUGJVa003RjItVzluTVpFaG0tRDd6b3NacUpNdUhCQU5RMVgwSmM3Q3VWcTY1eVB0Y3FKRkJ4U19nb2lENlVCSllUQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ca799b8a2973",
-      "title": "Estudo propõe nova origem para o cérebro - Correio Braziliense",
-      "published": "2026-09-19T08:06:00+00:00",
-      "summary": "Estudo propõe nova origem para o cérebro&nbsp;&nbsp;Correio BrazilienseSeu cérebro é uma combinação de dois órgãos diferentes, diz novo estudo&nbsp;&nbsp;revistagalileu.globo.comCérebro humano é formado por dois órgãos distintos com origens evolutivas separadas&nbsp;&nbsp;Rádio ItatiaiaEstudo sugere que cérebro tem duas origens distintas no desenvolvimento&nbsp;&nbsp;MetrópolesEstudo revela novas possibilidades na investigação cerebral de doenças degenerativas&nbsp;&nbsp;Diario de Pernambuco",
-      "sources": [
-        {
-          "name": "Correio Braziliense",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX2lqa2hTS1IzTVExbEV1MURsYXB2NHNhRmlhdzdSQTZvNnl6SjBRTXRaWnc5NHdIRmFHaHAtR3kxYTBYcHRPVEtDdkFhWjBCemFnMW1nTXNRQUFDNkZEWnBwTHowY01MV0l1M0EzVkxMSkpnWERobW9mbFV0YjBybGROZU4yeEdHb2ZxaXptbEN0bG02TXR5UjJ30gGfAUFVX3lxTFBVcDZoc0ptamtlcXJvQW5LT1RkWnhsdU4xVmFVNUszV0JNN3g2ZjBpUlV0MUdieW11dUt1RHdZRG5zczJ2U1YtQ2haMEFVczFJSk9yUVQ0bEtTalVPQmRvQzM1dEhicW5QQXRCT25xYlhWakRIOHN3RjR4SHBFRDVlQUdwYnpQT0NjQlE5SXMtcUJqaUVRLWZRa1lOeU80WQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b92ca31b5e30",
-      "title": "Participar de atividades sociais ajuda a prevenir e tratar a depressão em idosos - Extra online",
-      "published": "2026-09-19T08:00:00+00:00",
-      "summary": "Participar de atividades sociais ajuda a prevenir e tratar a depressão em idosos&nbsp;&nbsp;Extra onlineSaiba como a saúde mental afeta a longevidade&nbsp;&nbsp;GZHUm em cada três idosos urbanos tem sinais de depressão&nbsp;&nbsp;REDE BRASIL DE TELEVISÃOFim da rotina de trabalho e declínio funcional afetam o emocional dos idosos&nbsp;&nbsp;Hora CampinasDepressão em idosos: como identificar os primeiros sinais&nbsp;&nbsp;AJN1",
-      "sources": [
-        {
-          "name": "Extra online",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNc0REc2VEX29sQWZUX1hVRkdkRDVCMHZPYThpY2l5X0psNHJwVm81S2RXMXlkeGtZWVhPLTQtM0EzeUdzMktaalZhQm5pXy1QcFJFQThlRFVILUNTMEJjUmEwXzR6ZHJxcUhuamNSTTlzOXFwTlQxbFpMOWF1OVVQTF9TUjJDSGhqbDhycnZRMEpZMHVLUUxoS2QtMVI5Tk5ORHNOenRkTml4T1BFNXowa1lkWVZwREg0emxPLXI0OU5idHgxaTlCa1FNa2LSAdsBQVVfeXFMUG40Nm9qQy1tN2kydS1RZTJORzlvUmx1TUNuQmJ3emRwbTdjUm1IUUhwMWdmQ3k1Zk9uR1NyU1ZaeU5NRGRuN3E2VHUzUE1rSUFjQ1gxZTZKUVlTOXlPbUJkakNacS1fQUVyWmZURkVHNEJjOGhoMUt0Z0FoOXZmQWlrNW1FN01CRU5oVjVoZ19RWnlvWXVIZkJkeGtKTkhNMktjQXZteUN6SDNwaXVuOXFEYk5ncWlJZFFYZDRNYmtwV1lYd1V5OTlSVVlLdFdZRlhJYjVFU0VPUFFJ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0347776f9078",
-      "title": "Idosa morre de dengue em segundo maior surto da doença na Flórida, nos EUA - UOL Notícias",
-      "published": "2026-09-19T00:45:13+00:00",
-      "summary": "Idosa morre de dengue em segundo maior surto da doença na Flórida, nos EUA&nbsp;&nbsp;UOL Notícias",
-      "sources": [
-        {
-          "name": "UOL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOT3c5QW9hUkNRYzAyQWtCd0VDN05FdDhfNkJBQ19NbjdGbms0UmhhVXUycXhkYXctWk1KZlVvWTdwazNVa1E1cUxOb2w1YVRmdm5YSWRDWkp5SVFzUUxlcFZRbm9mNlNGSEk0V0Z3V2cyS1I1blVybXRGTWpkbFR4YlFhY1djRm1ZTVdmZFlTQll6ZWJXT0lmTGpqT1RnbEhMd0lCMDZIM0otdEJkemNWT0xwcGRHUXU4VkhCbjhqWUQxa3Z0RU4yUWpaaGQtSTF6emQ1aw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8fa8c989d536",
-      "title": "A relação pouco conhecida entre demência e epilepsia - Estadão",
-      "published": "2026-09-18T23:00:00+00:00",
-      "summary": "A relação pouco conhecida entre demência e epilepsia&nbsp;&nbsp;Estadão",
-      "sources": [
-        {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQd0cwbEx0Y3ZTNHVaZS1oQklXWm1IMEVGSlJTdzZFanRZQjdUeXdFR2JrRVhYWHQ0LUxqVjM5M1FaVFM3dkZMb3BTR0FrallkUnZGSHUwZEx1SVlsSGRYczRaUnFmSVctSWZTcTZvMkFhbF9iVVRsTUtVczdHWHh0ZHc2MzZwNWRKTVltbnNaUGxDejNFT20zTGdWSG8wcFFPbUtES9IBqgFBVV95cUxNRFFjZUdiWGdncGNvRmZrNF9xQjlmMzVpNlR5MnFYVXBHbnBiLTc2UkFSZnpkWUJ2bWhWckNNakEyTDdwajRZXzl1eTR4RDNKbnpRUWRxMk4wei1uVnVyUGsxVktibFk5TEZRWVgxb0ZZVmNFMWkwMkNpSnhRWkgxSnBFQzJNYzRHUUJoaDh2bjA4akk4TWJKM1BfbzFXamFkRHFqeUVNSW5DQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8e5d0ec317e7",
-      "title": "JP1: Nova diretriz muda tratamento do diabetes; Veja o que muda - sampi.net.br",
-      "published": "2026-09-18T22:14:09+00:00",
-      "summary": "JP1: Nova diretriz muda tratamento do diabetes; Veja o que muda&nbsp;&nbsp;sampi.net.brO que diz a mais recente diretriz para controle do diabetes tipo 2&nbsp;&nbsp;VEJAMetformina ainda é a primeira opção para tratamento do diabetes? Entenda&nbsp;&nbsp;UOLA caneta de semaglutida vai destronar o comprimido de metformina?&nbsp;&nbsp;penoticias.com.brO que mudou na diretriz brasileira 2026 sobre diabetes e gestação?&nbsp;&nbsp;Afya | Home",
-      "sources": [
-        {
-          "name": "sampi.net.br",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZDZValUyZjVISUxfeG8yQi11dnhmUlJYNGFubmdKb3BMUmI1TXdFRUtnTGlZVHpqOWVoZmtFYXRqT0Z3Y3pvcmprQWJhdWh6MWRXcWwxUFhyY2t0bURCUmVkMXluQVJJbEtJTWJwRGxNcFA3VVJiYVVhQzc4ZmdubXhqU2tkakstN2RLT0plc0cwdHdNSzBJZVZLWTlPTFJJamlUZWxOV2tDXzZJTkZDTXBxTVE1WFp2bTRrX2dR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d6b46629ba44",
-      "title": "Para aumentar a autoestima das crianças, os pais devem dizer estas 7 frases no dia a dia - Minha Vida Saúde",
-      "published": "2026-09-18T19:43:19+00:00",
-      "summary": "Para aumentar a autoestima das crianças, os pais devem dizer estas 7 frases no dia a dia&nbsp;&nbsp;Minha Vida Saúde",
-      "sources": [
-        {
-          "name": "Minha Vida Saúde",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RY0tNYmQtdHJRbnJjUWhzckpTYlFPLW42cUtXVU5pZHBfdzZZOWlQcmlydHdwWnJVNy13bDNIeVFjQW1jSFE3elhuNHBhaHBncVBWbXdZVFl5cm11eFhyT9IBZkFVX3lxTE85RXFwZzRaMlpERkdIZHRwZjk0N0R3Tzg3Wm5fYmdDMWlpeFdraFBNdWdGOFNCOG96Zy11UG9fdW1ERWcxTnhFMUpPS290SmYzMnY5dkJFYnExT1dsSFExUmd5M3JRdw?oc=5"
         }
       ]
     },
@@ -294,13 +258,13 @@
       ]
     },
     {
-      "id": "f377f2085643",
-      "title": "Creatina pode ajudar o cérebro após uma noite sem dormir? Estudo revela efeito inesperado - terra.com.br",
+      "id": "65bebfbc1fa5",
+      "title": "Creatina pode ajudar o cérebro após uma noite sem dormir? Estudo revela efeito inesperado - Terra",
       "published": "2026-09-18T07:58:00+00:00",
-      "summary": "Creatina pode ajudar o cérebro após uma noite sem dormir? Estudo revela efeito inesperado&nbsp;&nbsp;terra.com.brCreatina tem efeito contra a privação do sono; entenda&nbsp;&nbsp;O GLOBOBenefícios da creatina além da academia: o que a ciência tem investigado?&nbsp;&nbsp;Assine AbrilCreatina além da academia: 3 benefícios que estão chamando a atenção da ciência | SEGS Portal Nacional de...&nbsp;&nbsp;segs.com.brCreatina pode ter efeito contra a privação do sono e até a depressão; entenda&nbsp;&nb",
+      "summary": "Creatina pode ajudar o cérebro após uma noite sem dormir? Estudo revela efeito inesperado&nbsp;&nbsp;TerraCreatina tem efeito contra a privação do sono; entenda&nbsp;&nbsp;O GLOBOBenefícios da creatina além da academia: o que a ciência tem investigado?&nbsp;&nbsp;Assine AbrilCreatina além da academia: 3 benefícios que estão chamando a atenção da ciência | SEGS Portal Nacional de...&nbsp;&nbsp;SEGS Portal NacionalCreatina pode ter efeito contra a privação do sono e até a depressão; entenda&nbsp;&",
       "sources": [
         {
-          "name": "terra.com.br",
+          "name": "Terra",
           "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQNGtGcnkyM2wtS3VnVG9mSEtlcjVMbFJ2Qmc1WFRYVXFzWnZXcHB5MUMyckRfYVpPd0lKd0tfWHdmeDBTM1VwU3NXSnBvd2RpVlZDdDVaQXk5SlFLTmU1VGFkY3NWMWtQSnNoT2lZV2NFWUNwYlVUb3k5VFdiMTZmVGdkZ1hyX3I2V2ZBcnYtRzhXeXhVdVFaY0ZLQ2VkZ09QZURRTFlQWnB5OURSSGNuSE5la0YxVGxvY2MwYXFQaVJja1VvZ1VST1RhaHMwLUJmRm5RRUpxVVd1eG1lNmxkNVc2VXN2RG5UUjN2TGd1ZzFwQWxRRDVkcXhpUlhPdXlyOUVuMm9YY3pxVUU?oc=5"
         }
       ]
@@ -309,23 +273,11 @@
       "id": "7115cc9ae5ca",
       "title": "É possível sofrer um ataque de morcego? Caso raro em Ilha Grande (RJ) vira estudo científico; saiba mais - O GLOBO",
       "published": "2026-09-18T07:00:01+00:00",
-      "summary": "É possível sofrer um ataque de morcego? Caso raro em Ilha Grande (RJ) vira estudo científico; saiba mais&nbsp;&nbsp;O GLOBOSuspeita de ataque de morcego-vampiro surge após homem encontrar sangue no chão e ferimento no pé sem sentir dor; caso vira estudo científico&nbsp;&nbsp;Diário do LitoralBrasileiro, morador do RJ, alega ter sido atacado por “vampiro” e cientistas investigam o caso&nbsp;&nbsp;Diário do ComércioHomem é mordido por Morcego em Ilha Grande, no Rio&nbsp;&nbsp;iG Último SegundoCaso",
+      "summary": "É possível sofrer um ataque de morcego? Caso raro em Ilha Grande (RJ) vira estudo científico; saiba mais&nbsp;&nbsp;O GLOBOSuspeita de ataque de morcego-vampiro surge após homem encontrar sangue no chão e ferimento no pé sem sentir dor; caso vira estudo científico&nbsp;&nbsp;Diário do LitoralBrasileiro, morador do RJ, alega ter sido atacado por “vampiro” e cientistas investigam o caso&nbsp;&nbsp;Diário do ComércioHomem é mordido por Morcego em Ilha Grande, no Rio&nbsp;&nbsp;ultimosegundo.ig.com.",
       "sources": [
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSFdHbHpmSWxKdGR4bUQ1bHpma1pNQU9Wc3p4T2RXZVlwZjBfbjhhUThwb1pvMWQzaGdKM0NfTDZsMkNCOTMxT3FfTmNDdzFITW9ISGs4cTN1S3YxdmRseDVhRVNLSzQxNWJES3FObWU3VFozQUIwOTV5eVVPMW9pZjRYeHVXTjdPcU1sS2VnLWQzV3luU3BiN0ExcmpkdzRwTkpVbWJSRHk1ZDVNeVVMenBseDU2OGRqSEt4czgyaTd2NzFwemtKMVk2SXRTWG1JcFl6UTFFeU5kU2ZjWXVpRlJqaXpaRV9qajlubTg4VFFxczZPalNj0gGGAkFVX3lxTE5nVVIycUl4amJmMlZCS19yekljazZwRkM5aVpvS21MUzNfWkdlbWozTktobUtrdjJjY3paN281WV9WeW9pVVI3YUhJZjBsMW9udUV0cDhnbks1Nm9EZ0FZMElXS3lKeTcweUpPby1tVjdHSmd0eHdRemlJeDl2UEx5Zk90WWZnYzZVMHZScFl5SVk2bzRlMGUyNjFib3FpaGZHMWtwZFByZlJLYmpsQjViNXV4b1ZxU3RfZS1URmRCbGJvek91TlM4MXhkdEJKdklhYmc4Z0JacEE5dWtfQjIxbFpmLXJnR0RRbGJGQU80YW4ySjNlaXVKQkk1RHZjYXk0RGg3Zmc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "af66c19b5e19",
-      "title": "Ministério da Saúde qualifica assistência para prevenir progressão da doença renal - www.gov.br",
-      "published": "2026-09-18T00:29:57+00:00",
-      "summary": "Ministério da Saúde qualifica assistência para prevenir progressão da doença renal&nbsp;&nbsp;www.gov.brSUS vai integrar tratamento de doença renal crônica em meio a avanço de casos no país&nbsp;&nbsp;folha.uol.com.brDoença renal: SUS amplia cuidados para evitar avanço do problema&nbsp;&nbsp;Aqui NotíciasMinistério da Saúde qualifica assistência para prevenir progressão de doença renal crônica&nbsp;&nbsp;Portal do Marcos SantosSUS amplia atendimento para pessoas com doença renal crônica&nbsp;&nb",
-      "sources": [
-        {
-          "name": "www.gov.br",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOVdyLTFhZ190SUI2dTFIZmRhenp1aXg4a1dldFRpaGpJcFVoT2RPQ2FjUXpZT0xYSXBlbjBRTEZuUFVjUXpQSEJTemZEMUQ3cHdhNkJSek5UdGJOUFltOHZOTEpZdklCdVI1SzFBNm8xRzM3dmN0d0g0cGpfMUMzSmJyZGxOaWk5WnYxNC1EcFNZaC1WWlNBaXVtQVM0eEVmV0FTQUVTVzI0cUMxbFR6d2d0NW4yMUcza2ZSN3c5QW0ydHBFbkZQSnVZbWdZb3VpX0Q1VWFyb2hpd3RtRDNDMjF3?oc=5"
         }
       ]
     },
@@ -354,49 +306,25 @@
       ]
     },
     {
-      "id": "4d48ff209843",
-      "title": "Estudo investiga temperatura do sangue do dinossauro T.rex - Correio Braziliense",
-      "published": "2026-09-17T08:02:00+00:00",
-      "summary": "Estudo investiga temperatura do sangue do dinossauro T.rex&nbsp;&nbsp;Correio Braziliense",
+      "id": "aa1bb70863e4",
+      "title": "'Fiz quimioterapia por 11 anos para tratar um câncer que eu não tinha' - BBC",
+      "published": "2026-09-16T10:24:56+00:00",
+      "summary": "'Fiz quimioterapia por 11 anos para tratar um câncer que eu não tinha'&nbsp;&nbsp;BBCVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
-          "name": "Correio Braziliense",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYncxRm83SjVYX0FKUW5VOFl0cFJNdHVqXzNIYmx0bjI1NnVxUkE0V0ItZnZiaVZpZm5EQXB3TWZvZDdLZXhEUm5sQ3dBUk1XUGt1YjhQazRvWXNqMi0zNXRRalFTTGM4Y19YTThuZFhwMVNucnpPVzNIUTNpS1hlMURvV0ZwOTFzeS1EUXpFMjhHay1QWThyTHpoVW1OcEFyRUpONDY3VmFoSjRPMTJrdkREeVlkaHdSWEJwVWtTVkZaaE5RZXNOONIBzgFBVV95cUxQQ2U5Yy1PWG9LSEFkT0lzZVdOMmJKRGl6MFVkWXRsbHRtdjMySndtUHBuZ3BSM09mTTJJYXJZbHJ6T3dpTHRIY2xEV0t2bGp5dmxYaXZTQ1l4YWE0M19kUldabG01UndORGVOMWo2Q1FBc0xzNEpYeDJCVE5WVDJSbEJtbkJjbXQ2YndJMGlNNmNobUVkaDVCMzFhYW1LcjRUWkoxQkpybUkxZkhEWlVmTTVDTjdjSF9JcHJJMHVTRWlYT2U0bU1CVTRYVUttQQ?oc=5"
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WV2N3alR2WGI1T0o3c0dvZ2E2Y25GRzd5bERpeXNsYXZjenIwcHprVngyeXZKZmduc2JOMnU2SThxVU02cGptUUxqSU85UU9TOC1RNGs1eU9VckhPT0VwLVVPcw?oc=5"
         }
       ]
     },
     {
-      "id": "bd5cf2649f1a",
-      "title": "Marie Curie, duas vezes vencedora do Prêmio Nobel: \"A vida não é fácil para ninguém, mas você precisa ter confiança e acreditar que tem um dom para alguma coisa\" - Minha Vida Saúde",
-      "published": "2026-09-16T18:01:25+00:00",
-      "summary": "Marie Curie, duas vezes vencedora do Prêmio Nobel: \"A vida não é fácil para ninguém, mas você precisa ter confiança e acreditar que tem um dom para alguma coisa\"&nbsp;&nbsp;Minha Vida Saúde",
-      "sources": [
-        {
-          "name": "Minha Vida Saúde",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EUVhOcFhLTVJjWGdTRlQ2dERzbTJFNTFOQlBGaF9zcEdZbDA3RV9UM3hWdFh5SWdVUUpHQnJjenlzM2l4Ti14cEZtY3BYS3FHdi1UVWpJZVRVeWRLTnhLRtIBZkFVX3lxTE1pd0JuRkRNMlFwQ0xRcVpfUlVrYXZtc1lQcHpoR2FWOWk2MWttOVVQRHI3UUF6SHdmSGZxX1NuclpUOV8xMVN0NkNjMmdFaU5IZ2p1ay1ITlhwY1U0Y2M0X0N4ZXJOdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "873be68a9282",
-      "title": "'Fiz quimioterapia por 11 anos para tratar um câncer que eu não tinha' - G1",
-      "published": "2026-09-16T11:11:44+00:00",
-      "summary": "'Fiz quimioterapia por 11 anos para tratar um câncer que eu não tinha'&nbsp;&nbsp;G1Disseram-lhe que tinha um tumor terminal e ia morrer: 11 anos depois, descobre que nunca teve cancro&nbsp;&nbsp;Flash.ptMais de 40 pacientes processam hospital por tratamentos desnecessários contra o câncer&nbsp;&nbsp;BnewsMulher faz quimioterapia por 11 anos até descobrir que nunca teve câncer&nbsp;&nbsp;ExameFiz quimioterapia por 11 anos para tratar um câncer que eu não tinha&nbsp;&nbsp;redeutv.com.br",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeWoxbjhYRDlyQ3g4RDVGWjJGcGhMNGZYUTN6RXpPTUU5dDhubEY2YW9qNG4xeENJR3hyRmw3elJOM1RHMGhfNndDaDZUQU1kY3Q1dVIwVGVDNVNQcFF6MGdwNzJNb3ZzcjE5MDlUZWdXSnpiQ1A1eEs1QWQyOG12dUF6cS13MmN3alZoQnRmOVo4U1FDZVB4R01hdnhEclM5Z2FxVEFxLXQxcEE1aHpQbmhqWGRhVmZlTncwMdIBywFBVV95cUxNUzhTOU5oNGJxZUdmMWttbGJWbUY4ZHRqSWJHdXVtakQ2eUEzS1J6dzBiM212QUtHeXRBNzRlcEhmMnB0LTZEWXhUWHhveFVldV9zdEZYM0hBM3plUmNyeGZvYkpoUGJ6WFN1UWpJb2VleHQyRDE1eURtd3d6WTdpckVtODdKaWpjbU9ZV0drVjFwcFNaZV8yX1ZlNHNkb2VNal9BZzdSZExjNHhJVGRBdllmbGFncGRFRnJ3aWpOcGNRY2lvNHpzbVRVaw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1c6197ead3ab",
-      "title": "Anvisa aprova 14 novas canetas para diabetes e obesidade em 2026; veja quais são e seus preços - folha.uol.com.br",
+      "id": "211756f844b4",
+      "title": "Anvisa aprova 14 novas canetas para diabetes e obesidade em 2026; veja quais são e seus preços - Folha de S.Paulo",
       "published": "2026-09-14T07:00:00+00:00",
-      "summary": "Anvisa aprova 14 novas canetas para diabetes e obesidade em 2026; veja quais são e seus preços&nbsp;&nbsp;folha.uol.com.brMesmo com descontos nas nacionais, canetas do Paraguai ainda custam menos&nbsp;&nbsp;MidiamaxConheça as canetas nacionais de semaglutida aprovadas pela Anvisa e seus respectivos preços&nbsp;&nbsp;VEJAHypera amplia estratégia do Semavy para além da caneta&nbsp;&nbsp;guiadafarmacia.com.brAnvisa aprova 14 medicamentos genéricos para diabetes e obesidade após fim da patente do Oz",
+      "summary": "Anvisa aprova 14 novas canetas para diabetes e obesidade em 2026; veja quais são e seus preços&nbsp;&nbsp;Folha de S.PauloMesmo com descontos nas nacionais, canetas do Paraguai ainda custam menos&nbsp;&nbsp;MidiamaxConheça as canetas nacionais de semaglutida aprovadas pela Anvisa e seus respectivos preços&nbsp;&nbsp;VEJAHypera amplia estratégia do Semavy para além da caneta&nbsp;&nbsp;Guia da FarmáciaAnvisa aprova 14 medicamentos genéricos para diabetes e obesidade após fim da patente do Ozempic",
       "sources": [
         {
-          "name": "folha.uol.com.br",
+          "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRk5BbnhzR0swYTJ1bENFRGtqY1lKU3A2Tk9keG12ZWFtT01yejBRbUJ5amVEQjRQTHRCc19qdTVPOWRBUDZYNm9NSjJfMEQ4SU5GSkRWZG9Eak1aZUo3S1pYQU56VTNmOEtwWVcyRkVrSzJDcjh6d0FZOC0xQUJMazNVVWdSTG9SYkxjUjJTOHVOZVJmLXR3cFhvSEJIYjExZWlldnpkWWJjOWgxeDJUTTRWU25SLVo1d1A1engyamVWeHAxSkJPcWE3U2VpN3QyN1dMR2NkTzRxQTh0ejJXR2xXaUs2dTN1anc?oc=5"
         }
       ]
