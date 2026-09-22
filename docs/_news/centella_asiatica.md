@@ -14,7 +14,7 @@ permalink: /news/centella_asiatica/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Centella asiatica?">
-<strong>Centella asiatica</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Centella asiatica</strong> tem atualmente <strong>1 notícias</strong> e 10 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ Esta página combina as indicações previstas por IA para Centella asiatica com
 <ul>
 <li><strong>Indicações previstas (10)</strong>:<ul>
 <li>insomnia (disease) (99.9%)</li>
-<li>anxiety (99.1%)</li>
+<li class="indication-matched">anxiety (99.1%)<span class="indication-tag">📰 anxiety</span></li>
 <li>sleep disorder, initiating and maintaining sleep (99.0%)</li>
 <li>agoraphobia (98.1%)</li>
 <li>rheumatoid arthritis (98.0%)</li>
@@ -40,9 +40,15 @@ Esta página combina as indicações previstas por IA para Centella asiatica com
 <p><a href="{{ '/drugs/centella_asiatica/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (0)
+## Notícias relacionadas (1)
 
-*Ainda não há notícias relacionadas. Quando uma notícia mencionar este medicamento, ela será recolhida e exibida aqui automaticamente.*
+### [O que é a ‘hanganxiety’? Neuropsiquiatra explica como o cérebro reage depois de consumir álcool - O GLOBO](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQU1hDY2Y0SXJFeUkyWm4xT3JGbXRONE5oMGZQOHhHSElsR0s1NzBMc1FqQzBOX2M5UmZ3UEQ1bTcyVTMyWmhyZXdReXhSZ0hGSDlyamhMbnRHZFpMTnNIc3duR0ZUVjJqRDI1eVhWTWFVeTRrLVdha0kzMzZRbUFYYmdIR2xvQ2Zoc3c5T2pzTVU3eEhndENuOGRHZy1qR21TUVhCVkpzZkg4aFFLa0N0Yk9QQmRHUE9leDRuLTUzMnBVRURwNEFEdmhzekQwZEs2SXRsZmF5U05KZTktUkg3cGRR0gHwAUFVX3lxTE5EcTBic1lmcE1VaUhzMHh5SWJnZW5lQWQ1TGZseHh0NHhqc3lobndabUNZd0RWU0FqdHdqNDJQc0VXcV9ia2xZTndnT2pPaFdDd0pjYTFycU5LRXZwSFNIblpFV0ZyUnRlbUpib0c1c0luN1RsMzBlWk9GV2FTMVRvMVhNcUtRRVhTUWsxSThxMDVHV2tCekFLTS1yZm03QXRyeDUyOER0bmVJLVhFNnozcERQQk5kdTd6ZFl4b0luM05TT2JtSk94cmlLT0g0SGw0WjFUbG56U0F2NDdGeFB3bjc2alV5UlIwUk9HSC1OSA?oc=5)
+
+2026-09-22 <span class="news-indication-tag">anxiety</span>
+
+Fonte: [O GLOBO](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQU1hDY2Y0SXJFeUkyWm4xT3JGbXRONE5oMGZQOHhHSElsR0s1NzBMc1FqQzBOX2M5UmZ3UEQ1bTcyVTMyWmhyZXdReXhSZ0hGSDlyamhMbnRHZFpMTnNIc3duR0ZUVjJqRDI1eVhWTWFVeTRrLVdha0kzMzZRbUFYYmdIR2xvQ2Zoc3c5T2pzTVU3eEhndENuOGRHZy1qR21TUVhCVkpzZkg4aFFLa0N0Yk9QQmRHUE9leDRuLTUzMnBVRURwNEFEdmhzekQwZEs2SXRsZmF5U05KZTktUkg3cGRR0gHwAUFVX3lxTE5EcTBic1lmcE1VaUhzMHh5SWJnZW5lQWQ1TGZseHh0NHhqc3lobndabUNZd0RWU0FqdHdqNDJQc0VXcV9ia2xZTndnT2pPaFdDd0pjYTFycU5LRXZwSFNIblpFV0ZyUnRlbUpib0c1c0luN1RsMzBlWk9GV2FTMVRvMVhNcUtRRVhTUWsxSThxMDVHV2tCekFLTS1yZm03QXRyeDUyOER0bmVJLVhFNnozcERQQk5kdTd6ZFl4b0luM05TT2JtSk94cmlLT0g0SGw0WjFUbG56U0F2NDdGeFB3bjc2alV5UlIwUk9HSC1OSA?oc=5)
+
+---
 
 
 <div class="disclaimer">
