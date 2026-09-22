@@ -46,7 +46,7 @@ Esta página combina as indicações previstas por IA para Levobunolol com as no
 
 2026-09-21 <span class="news-indication-tag">glaucoma</span> <span class="news-indication-tag">glaucoma</span>
 
-Fonte: [www.gov.br](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS3V5SGNCSE02aFdtN2FoNDNMREEwTWtNRWtLVGNvMTFBZHNhNFRiUFFpRFg3Vy04ZHp6S29DV2gtYVRVN0g5OVlPVXJRRWlLRlZBZnVKdG9TTlRRTi1QS0t4MFMtNGdDVmNKWDdPNWFfUDVPUVRpd0dCdFJ2NFNOb05zR0dab1BjUkJETmxORkJqSkdqY3o2VlYzcVdvd1VfeGlWR25QdkVYLThmNmM0dExmRm1yeDA2TDRZY2RubFR1RDNnTmFaM25JODVvWEx3SFE?oc=5)
+Fonte: [gov.br](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS3V5SGNCSE02aFdtN2FoNDNMREEwTWtNRWtLVGNvMTFBZHNhNFRiUFFpRFg3Vy04ZHp6S29DV2gtYVRVN0g5OVlPVXJRRWlLRlZBZnVKdG9TTlRRTi1QS0t4MFMtNGdDVmNKWDdPNWFfUDVPUVRpd0dCdFJ2NFNOb05zR0dab1BjUkJETmxORkJqSkdqY3o2VlYzcVdvd1VfeGlWR25QdkVYLThmNmM0dExmRm1yeDA2TDRZY2RubFR1RDNnTmFaM25JODVvWEx3SFE?oc=5)
 
 ---
 
