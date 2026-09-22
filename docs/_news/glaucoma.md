@@ -33,11 +33,11 @@ Esta página reúne as notícias de saúde mais recentes sobre «glaucoma» e li
 
 ## Notícias relacionadas (1)
 
-### [SUS vai oferecer cirurgia que trata glaucoma e catarata ao mesmo tempo — Ministério da Saúde](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS3V5SGNCSE02aFdtN2FoNDNMREEwTWtNRWtLVGNvMTFBZHNhNFRiUFFpRFg3Vy04ZHp6S29DV2gtYVRVN0g5OVlPVXJRRWlLRlZBZnVKdG9TTlRRTi1QS0t4MFMtNGdDVmNKWDdPNWFfUDVPUVRpd0dCdFJ2NFNOb05zR0dab1BjUkJETmxORkJqSkdqY3o2VlYzcVdvd1VfeGlWR25QdkVYLThmNmM0dExmRm1yeDA2TDRZY2RubFR1RDNnTmFaM25JODVvWEx3SFE?oc=5)
+### [Cirurgia única para tratar glaucoma e catarata será oferecida pelo SUS - CNN Brasil](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdGNDalNPYVhoWlZIeHhOTFN3TGhqSjNQcVREN18tMExUZ2Z2eHk5dUxxN2Z5T0tqMmlYZnJzOURWY0Zoa1FGU2FqRzJHTkFST3dfWnVEZDlLcnkwbDhDTnpESUFWTEpxY3d4eW5hV0lTMHFYRDJDVUtxWTNUblNYWDdMdnBEeHlicHdtTVBtWnYwRWdrd292NEN2ZXppS3VpMy1wd0hhRXlZUQ?oc=5)
 
 2026-09-21
 
-Fonte: [gov.br](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS3V5SGNCSE02aFdtN2FoNDNMREEwTWtNRWtLVGNvMTFBZHNhNFRiUFFpRFg3Vy04ZHp6S29DV2gtYVRVN0g5OVlPVXJRRWlLRlZBZnVKdG9TTlRRTi1QS0t4MFMtNGdDVmNKWDdPNWFfUDVPUVRpd0dCdFJ2NFNOb05zR0dab1BjUkJETmxORkJqSkdqY3o2VlYzcVdvd1VfeGlWR25QdkVYLThmNmM0dExmRm1yeDA2TDRZY2RubFR1RDNnTmFaM25JODVvWEx3SFE?oc=5)
+Fonte: [CNN Brasil](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdGNDalNPYVhoWlZIeHhOTFN3TGhqSjNQcVREN18tMExUZ2Z2eHk5dUxxN2Z5T0tqMmlYZnJzOURWY0Zoa1FGU2FqRzJHTkFST3dfWnVEZDlLcnkwbDhDTnpESUFWTEpxY3d4eW5hV0lTMHFYRDJDVUtxWTNUblNYWDdMdnBEeHlicHdtTVBtWnYwRWdrd292NEN2ZXppS3VpMy1wd0hhRXlZUQ?oc=5)
 
 ---
 
