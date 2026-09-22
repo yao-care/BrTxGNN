@@ -14,7 +14,7 @@ permalink: /news/levobunolol/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Levobunolol?">
-<strong>Levobunolol</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Levobunolol</strong> tem atualmente <strong>1 notícias</strong> e 10 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -34,15 +34,21 @@ Esta página combina as indicações previstas por IA para Levobunolol com as no
 <li>chronic tic disorder (93.4%)</li>
 <li>extrapyramidal and movement disease (93.2%)</li>
 <li>benign shuddering attacks (93.2%)</li>
-<li>glaucoma (91.7%)</li>
+<li class="indication-matched">glaucoma (91.7%)<span class="indication-tag">📰 glaucoma</span></li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/levobunolol/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (0)
+## Notícias relacionadas (1)
 
-*Ainda não há notícias relacionadas. Quando uma notícia mencionar este medicamento, ela será recolhida e exibida aqui automaticamente.*
+### [SUS vai oferecer cirurgia que trata glaucoma e catarata ao mesmo tempo — Ministério da Saúde](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS3V5SGNCSE02aFdtN2FoNDNMREEwTWtNRWtLVGNvMTFBZHNhNFRiUFFpRFg3Vy04ZHp6S29DV2gtYVRVN0g5OVlPVXJRRWlLRlZBZnVKdG9TTlRRTi1QS0t4MFMtNGdDVmNKWDdPNWFfUDVPUVRpd0dCdFJ2NFNOb05zR0dab1BjUkJETmxORkJqSkdqY3o2VlYzcVdvd1VfeGlWR25QdkVYLThmNmM0dExmRm1yeDA2TDRZY2RubFR1RDNnTmFaM25JODVvWEx3SFE?oc=5)
+
+2026-09-21 <span class="news-indication-tag">glaucoma</span> <span class="news-indication-tag">glaucoma</span>
+
+Fonte: [www.gov.br](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS3V5SGNCSE02aFdtN2FoNDNMREEwTWtNRWtLVGNvMTFBZHNhNFRiUFFpRFg3Vy04ZHp6S29DV2gtYVRVN0g5OVlPVXJRRWlLRlZBZnVKdG9TTlRRTi1QS0t4MFMtNGdDVmNKWDdPNWFfUDVPUVRpd0dCdFJ2NFNOb05zR0dab1BjUkJETmxORkJqSkdqY3o2VlYzcVdvd1VfeGlWR25QdkVYLThmNmM0dExmRm1yeDA2TDRZY2RubFR1RDNnTmFaM25JODVvWEx3SFE?oc=5)
+
+---
 
 
 <div class="disclaimer">

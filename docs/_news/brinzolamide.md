@@ -14,7 +14,7 @@ permalink: /news/brinzolamide/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Brinzolamide?">
-<strong>Brinzolamide</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Brinzolamide</strong> tem atualmente <strong>1 notícias</strong> e 10 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ Esta página combina as indicações previstas por IA para Brinzolamide com as n
 <li><strong>Indicações previstas (10)</strong>:<ul>
 <li>primary hereditary glaucoma (99.5%)</li>
 <li>glaucoma 1, open angle (97.7%)</li>
-<li>glaucoma (96.9%)</li>
+<li class="indication-matched">glaucoma (96.9%)<span class="indication-tag">📰 glaucoma</span></li>
 <li>open angle glaucoma (96.7%)</li>
 <li>closed-angle glaucoma (96.6%)</li>
 <li>hydrophthalmos (96.5%)</li>
@@ -40,9 +40,15 @@ Esta página combina as indicações previstas por IA para Brinzolamide com as n
 <p><a href="{{ '/drugs/brinzolamide/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (0)
+## Notícias relacionadas (1)
 
-*Ainda não há notícias relacionadas. Quando uma notícia mencionar este medicamento, ela será recolhida e exibida aqui automaticamente.*
+### [SUS vai oferecer cirurgia que trata glaucoma e catarata ao mesmo tempo — Ministério da Saúde](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS3V5SGNCSE02aFdtN2FoNDNMREEwTWtNRWtLVGNvMTFBZHNhNFRiUFFpRFg3Vy04ZHp6S29DV2gtYVRVN0g5OVlPVXJRRWlLRlZBZnVKdG9TTlRRTi1QS0t4MFMtNGdDVmNKWDdPNWFfUDVPUVRpd0dCdFJ2NFNOb05zR0dab1BjUkJETmxORkJqSkdqY3o2VlYzcVdvd1VfeGlWR25QdkVYLThmNmM0dExmRm1yeDA2TDRZY2RubFR1RDNnTmFaM25JODVvWEx3SFE?oc=5)
+
+2026-09-21 <span class="news-indication-tag">glaucoma</span> <span class="news-indication-tag">glaucoma</span>
+
+Fonte: [www.gov.br](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS3V5SGNCSE02aFdtN2FoNDNMREEwTWtNRWtLVGNvMTFBZHNhNFRiUFFpRFg3Vy04ZHp6S29DV2gtYVRVN0g5OVlPVXJRRWlLRlZBZnVKdG9TTlRRTi1QS0t4MFMtNGdDVmNKWDdPNWFfUDVPUVRpd0dCdFJ2NFNOb05zR0dab1BjUkJETmxORkJqSkdqY3o2VlYzcVdvd1VfeGlWR25QdkVYLThmNmM0dExmRm1yeDA2TDRZY2RubFR1RDNnTmFaM25JODVvWEx3SFE?oc=5)
+
+---
 
 
 <div class="disclaimer">

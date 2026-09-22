@@ -1,15 +1,15 @@
 {
-  "generated": "2026-09-21T21:47:12.121060+00:00",
-  "count": 1,
+  "generated": "2026-09-22T03:51:06.474549+00:00",
+  "count": 2,
   "news": [
     {
-      "id": "02ee1f99dc8d",
-      "title": "Rio inicia vacinação de Pneumo 20 para idosos com 85 anos ou mais - O Dia",
-      "published": "2026-09-21T13:51:00+00:00",
+      "id": "b0d05dc0029d",
+      "title": "Rio começa a vacinar idosos a partir de 85 anos com Pneumo 20; veja onde encontrar o imunizante - O GLOBO",
+      "published": "2026-09-21T17:14:26+00:00",
       "sources": [
         {
-          "name": "O Dia",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNXg2WWlpNml6WXJKUWJ6SXZEd25naEJJSkRQY2lEWnBjSWdRVmRycjlmR2lDdUNIdkJaWlRjV2J1UUlwNzdsX2w1NEYtU1FNQ2JQbVJHLTlheE1ZTmdFUlZ6dEk1SkkySjQyMHMtbDBSaURpbzN0a1liYmFSSGNDanowa082QlpPRWhWTV96cy1qeHV6TTZCTlhBZUtUNTh2YnBBMlFZbExuWmVheWI0cTh5Z2x1Zld4bzlRSnRRcnNCQdIBxwFBVV95cUxQV1B1ZDN1bWdnTUJoYUEteWQ4bU1DZWRiYlVXaThTakZBVFRENzZaNmJ6UWJfc3F5c2dRZ29XeEVqYUNQUUNmNG1UaFB3Y3lHMFA2SFdHSGNVaG40ZmN0VHhVbnVXRXI0cWFnbEsxZV83bUNxZHNwcENnaGhXVEV4SURlemZ4Q1FraVNYek1FR1FXMUl2dm4wemZCbk1Rd2JTODNINGVLazZfcXRtdlYxZVI1S3pEN1I5c1kxb1ZMTDR3MDRRYXpR?oc=5"
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRDBHZU1QZzNTV1lsYm8tZXR2OW1MTHdMZHp4SVVuM1FWM1dEV1ZicXA3R0hvOVE1RXplNzhnYTRYYTkyMEp3Vzc3cldJLVVFTk1kTDlKajUyd0dqUDljaEYyTC1MY0RNZkJXOE1qMVN3THNBWjlUTjh1MmNna3FlaEV0a1FkLVBkM3htbUZlNmZ0V0ktaUJjcllfYlI1RTRDQURJSlB5TGQ4S1FnQ01UOHItWXpRWlFieHU3Z0VSLVYxOE1GV3IwWFR4Uk9laW5pVk92UW9oOEtaTXBwMTduMmJ30gHwAUFVX3lxTE1wZlVTZ0RhTXlFTEJ6NWVzUzRkMzZydlpaRXB2WFlKb1A3U19BdGtOd0VxRzREeXJyTU9rS2FWdDR6cTdmN0o3YldsSHVJQTB1VTJtSUoyd0FrZjRLZU1PZHRVN1g2ZXZUZmk2N2gtdy03S2VHNWRaU1ZHSmM1eERwaVdERlZBMG9BdVBQUjNXN3VGcXc4ZnVYbWtXbkUzalBSTXQzWDBHcVJYRzk0bk1ZZEdWb2FTZHZRbWYwUFF2ZjZPeWRDdXpmSkt3TXU1ZjlRQlFQc3hCTEgwMEUxUmlhMDNOaVBLbVJfQmFfNjRFdg?oc=5"
         }
       ],
       "keywords": [
@@ -56,6 +56,57 @@
             {
               "slug": "oseltamivir",
               "name": "Oseltamivir"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9dcca1c785bc",
+      "title": "SUS vai oferecer cirurgia que trata glaucoma e catarata ao mesmo tempo — Ministério da Saúde",
+      "published": "2026-09-21T14:43:00+00:00",
+      "sources": [
+        {
+          "name": "www.gov.br",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS3V5SGNCSE02aFdtN2FoNDNMREEwTWtNRWtLVGNvMTFBZHNhNFRiUFFpRFg3Vy04ZHp6S29DV2gtYVRVN0g5OVlPVXJRRWlLRlZBZnVKdG9TTlRRTi1QS0t4MFMtNGdDVmNKWDdPNWFfUDVPUVRpd0dCdFJ2NFNOb05zR0dab1BjUkJETmxORkJqSkdqY3o2VlYzcVdvd1VfeGlWR25QdkVYLThmNmM0dExmRm1yeDA2TDRZY2RubFR1RDNnTmFaM25JODVvWEx3SFE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "glaucoma",
+          "keyword": "glaucoma",
+          "related_drugs": [
+            {
+              "slug": "rivastigmine",
+              "name": "RIVASTIGMINE"
+            },
+            {
+              "slug": "levobunolol",
+              "name": "Levobunolol"
+            },
+            {
+              "slug": "brinzolamide",
+              "name": "Brinzolamide"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "pressão ocular alta",
+          "keyword": "glaucoma",
+          "related_drugs": [
+            {
+              "slug": "rivastigmine",
+              "name": "RIVASTIGMINE"
+            },
+            {
+              "slug": "levobunolol",
+              "name": "Levobunolol"
+            },
+            {
+              "slug": "brinzolamide",
+              "name": "Brinzolamide"
             }
           ]
         }

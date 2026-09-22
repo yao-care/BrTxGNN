@@ -1,31 +1,67 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-09-21T21:47:10.439897+00:00",
-  "total_fetched": 107,
-  "unique_count": 106,
-  "health_related_count": 44,
+  "fetched_at": "2026-09-22T03:51:05.066931+00:00",
+  "total_fetched": 90,
+  "unique_count": 89,
+  "health_related_count": 38,
   "news": [
     {
-      "id": "a335e669074b",
-      "title": "Por que o cérebro confunde as lembranças? Estudo investiga como memórias são arquivadas - folha.uol.com.br",
-      "published": "2026-09-21T18:00:00+00:00",
-      "summary": "Por que o cérebro confunde as lembranças? Estudo investiga como memórias são arquivadas&nbsp;&nbsp;folha.uol.com.br",
+      "id": "afd5a310c407",
+      "title": "Um avanço na detecção do câncer de intestino - Portal Drauzio Varella",
+      "published": "2026-09-21T18:05:49+00:00",
+      "summary": "Um avanço na detecção do câncer de intestino&nbsp;&nbsp;Portal Drauzio Varella",
       "sources": [
         {
-          "name": "folha.uol.com.br",
+          "name": "Portal Drauzio Varella",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRGlBeEtWS0ZIZWdvR0dRbFl1YWZWUF9YTW0yNnc1Z3lneXNodEUya0hiZnJqT3ZDekgxUnRQdjl5R203SEhMMlJBN0RYcDlQUFNtUDdXNjJwTzFadnhRSHJrY1RiMkVHVkR0SHo1WDYzX1MzSGtzWUt2dU5iM2ZrZVFXN2gteWlDT3VyYnpMaw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c0f166675430",
+      "title": "Por que o cérebro confunde as lembranças? Estudo investiga como memórias são arquivadas - Folha de S.Paulo",
+      "published": "2026-09-21T18:00:00+00:00",
+      "summary": "Por que o cérebro confunde as lembranças? Estudo investiga como memórias são arquivadas&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQ1JsU0tYVnBoMnMyQnZDNkMtZ0RsT2Z2SEFTa3RSMGRoZUNjN3ZRRDNYMk9zZFdmakdFTjAzSHdYb1FMY2ExSm1tc1g3ZWNnR2tLYWpYblhLNVlaT2ZaNUxuOEVCZ0NiTF9OdVRsRE01eUVPTjdKZ2JzWjBKcWkzRzNqbmliOEZFSEUwd1NxWEtkaXoySEpuQ1ZwTXJRVnZmTFZUR0IzYmtmYmxNT2lyUC1BUzRWYi1ZYjQwcXVqR1ZMUFJma0h0QWl6UWg4b01oSXVaSzBCLWg?oc=5"
         }
       ]
     },
     {
-      "id": "7891b70b378b",
-      "title": "Que bicho é esse? Cecílias estão entre 50 tipos de anfíbios do Xingu - primeirapagina.com.br",
-      "published": "2026-09-21T15:04:23+00:00",
-      "summary": "Que bicho é esse? Cecílias estão entre 50 tipos de anfíbios do Xingu&nbsp;&nbsp;primeirapagina.com.br",
+      "id": "b0d05dc0029d",
+      "title": "Rio começa a vacinar idosos a partir de 85 anos com Pneumo 20; veja onde encontrar o imunizante - O GLOBO",
+      "published": "2026-09-21T17:14:26+00:00",
+      "summary": "Rio começa a vacinar idosos a partir de 85 anos com Pneumo 20; veja onde encontrar o imunizante&nbsp;&nbsp;O GLOBORio amplia vacinação com Pneumo 20 para idosos a partir de 85 anos&nbsp;&nbsp;G1SUS amplia vacinação contra pneumonia para idosos acima de 85 anos&nbsp;&nbsp;TerraJoão Pessoa inicia estratégia para vacinação de acamados com a pneumocócica 20&nbsp;&nbsp;ClickPBGuarulhos inicia vacinação com pneumo 20 para pessoas com 85 anos ou mais&nbsp;&nbsp;Guarulhos Hoje",
       "sources": [
         {
-          "name": "primeirapagina.com.br",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRUVZOExzZndUYTdEckJzUDhTOFJEcmREQVh5M28xdThTX0NER3QzNVVQSm9LSTlnSThCbUY1MWNvaFdsV0s0SWdoNnRfUW1xOTVzRTRTQlAxalFnNHJTMWF5ZFZucldSSEptZFRRVDNjX2tRTnA5YVNhUGRSZ1d2ZGFwc3VTXzBBWW5GaElYeFNpak15aWR0TGhqVFJpMlBKcl9jYjREUThXUDlzN2lQb18zUzlDcnd2M3lreUVfbDNLWlVoNjZFX21rbXRYZ2dyMjhMMQ?oc=5"
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRDBHZU1QZzNTV1lsYm8tZXR2OW1MTHdMZHp4SVVuM1FWM1dEV1ZicXA3R0hvOVE1RXplNzhnYTRYYTkyMEp3Vzc3cldJLVVFTk1kTDlKajUyd0dqUDljaEYyTC1MY0RNZkJXOE1qMVN3THNBWjlUTjh1MmNna3FlaEV0a1FkLVBkM3htbUZlNmZ0V0ktaUJjcllfYlI1RTRDQURJSlB5TGQ4S1FnQ01UOHItWXpRWlFieHU3Z0VSLVYxOE1GV3IwWFR4Uk9laW5pVk92UW9oOEtaTXBwMTduMmJ30gHwAUFVX3lxTE1wZlVTZ0RhTXlFTEJ6NWVzUzRkMzZydlpaRXB2WFlKb1A3U19BdGtOd0VxRzREeXJyTU9rS2FWdDR6cTdmN0o3YldsSHVJQTB1VTJtSUoyd0FrZjRLZU1PZHRVN1g2ZXZUZmk2N2gtdy03S2VHNWRaU1ZHSmM1eERwaVdERlZBMG9BdVBQUjNXN3VGcXc4ZnVYbWtXbkUzalBSTXQzWDBHcVJYRzk0bk1ZZEdWb2FTZHZRbWYwUFF2ZjZPeWRDdXpmSkt3TXU1ZjlRQlFQc3hCTEgwMEUxUmlhMDNOaVBLbVJfQmFfNjRFdg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4f5e9c6ff259",
+      "title": "Médico lista medicamentos que não podem ser misturados por hipertensos - Metrópoles",
+      "published": "2026-09-21T16:19:00+00:00",
+      "summary": "Médico lista medicamentos que não podem ser misturados por hipertensos&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVmtnY29ocGJqM0JOYTBCM2JldUx6ZFZMNzFhX0laeVc3b1pBUDVYRWtMeHFLZzNMRzAyaWQ2S1pxMzlCWFRTQ3hBM244UWFRTm5RX0RjMmFlbmxXQWN4Sm84ZXlIanRiQ3BnaGlKckgzVk5HQl84WDlvU2FfLVlfSE1qY1JzVW5aQW1nM1RPV0xHN2h4Q2xwYUpheFJvdmlJMWZ1ZFhtbHdPV25QemtSZ0tWTld3TERzZHFZbjFwUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9dcca1c785bc",
+      "title": "SUS vai oferecer cirurgia que trata glaucoma e catarata ao mesmo tempo — Ministério da Saúde - www.gov.br",
+      "published": "2026-09-21T14:43:00+00:00",
+      "summary": "SUS vai oferecer cirurgia que trata glaucoma e catarata ao mesmo tempo — Ministério da Saúde&nbsp;&nbsp;www.gov.brVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "www.gov.br",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS3V5SGNCSE02aFdtN2FoNDNMREEwTWtNRWtLVGNvMTFBZHNhNFRiUFFpRFg3Vy04ZHp6S29DV2gtYVRVN0g5OVlPVXJRRWlLRlZBZnVKdG9TTlRRTi1QS0t4MFMtNGdDVmNKWDdPNWFfUDVPUVRpd0dCdFJ2NFNOb05zR0dab1BjUkJETmxORkJqSkdqY3o2VlYzcVdvd1VfeGlWR25QdkVYLThmNmM0dExmRm1yeDA2TDRZY2RubFR1RDNnTmFaM25JODVvWEx3SFE?oc=5"
         }
       ]
     },
@@ -42,26 +78,14 @@
       ]
     },
     {
-      "id": "2cbb11637727",
-      "title": "Após sofrer AVC durante sessão de quimioterapia em Cuiabá, contabilista morre em hospital de Vilhena aos 47 anos - folhadosulonline.com.br",
+      "id": "137174ec210f",
+      "title": "Após sofrer AVC durante sessão de quimioterapia em Cuiabá, contabilista morre em hospital de Vilhena aos 47 anos - Folha do Sul",
       "published": "2026-09-21T14:26:00+00:00",
-      "summary": "Após sofrer AVC durante sessão de quimioterapia em Cuiabá, contabilista morre em hospital de Vilhena aos 47 anos&nbsp;&nbsp;folhadosulonline.com.br",
+      "summary": "Após sofrer AVC durante sessão de quimioterapia em Cuiabá, contabilista morre em hospital de Vilhena aos 47 anos&nbsp;&nbsp;Folha do Sul",
       "sources": [
         {
-          "name": "folhadosulonline.com.br",
+          "name": "Folha do Sul",
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbmxMX0t1UDI1NGVoVEEzd2g5SGNac0I2VnRaS2FmOS1kZjRsYnE0amM0eWNkLWJmMXpwbnZDbG1CWVlPWkNNSjhoN09lYVV0bXlkRTZKY201aFFWTzBLekp3ZHVrM2pTVzA5VlFZc2Jjd0xrcFpnMy1aUUtzTW1PbkVhaXNudko5TVQwX2UxRzhhLU5ZZVhwSUdiV3VNY09KbG5CQ2lrdFNMUkYweEtEc296dWNOamx1OEw3LW1Zd1FrNEJaWUlKd20xNFJ1WU9UV2lELUN4dzZoUzg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "02ee1f99dc8d",
-      "title": "Rio inicia vacinação de Pneumo 20 para idosos com 85 anos ou mais - O Dia",
-      "published": "2026-09-21T13:51:00+00:00",
-      "summary": "Rio inicia vacinação de Pneumo 20 para idosos com 85 anos ou mais&nbsp;&nbsp;O DiaRio começa a vacinar idosos a partir de 85 anos com Pneumo 20; veja onde encontrar o imunizante&nbsp;&nbsp;oglobo.globo.comSUS amplia vacinação contra pneumonia para idosos acima de 85 anos&nbsp;&nbsp;terra.com.brJoão Pessoa inicia estratégia para vacinação de acamados com a pneumocócica 20&nbsp;&nbsp;ClickPBPneumo 20 chega a idosos de 85 anos em Americana e Santa Bárbara&nbsp;&nbsp;liberal.com.br",
-      "sources": [
-        {
-          "name": "O Dia",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNXg2WWlpNml6WXJKUWJ6SXZEd25naEJJSkRQY2lEWnBjSWdRVmRycjlmR2lDdUNIdkJaWlRjV2J1UUlwNzdsX2w1NEYtU1FNQ2JQbVJHLTlheE1ZTmdFUlZ6dEk1SkkySjQyMHMtbDBSaURpbzN0a1liYmFSSGNDanowa082QlpPRWhWTV96cy1qeHV6TTZCTlhBZUtUNTh2YnBBMlFZbExuWmVheWI0cTh5Z2x1Zld4bzlRSnRRcnNCQdIBxwFBVV95cUxQV1B1ZDN1bWdnTUJoYUEteWQ4bU1DZWRiYlVXaThTakZBVFRENzZaNmJ6UWJfc3F5c2dRZ29XeEVqYUNQUUNmNG1UaFB3Y3lHMFA2SFdHSGNVaG40ZmN0VHhVbnVXRXI0cWFnbEsxZV83bUNxZHNwcENnaGhXVEV4SURlemZ4Q1FraVNYek1FR1FXMUl2dm4wemZCbk1Rd2JTODNINGVLazZfcXRtdlYxZVI1S3pEN1I5c1kxb1ZMTDR3MDRRYXpR?oc=5"
         }
       ]
     },
@@ -93,23 +117,11 @@
       "id": "830de4b69354",
       "title": "Alzheimer pode ser prevenido? 14 fatores que ajudam a reduzir o risco - CNN Brasil",
       "published": "2026-09-21T12:00:45+00:00",
-      "summary": "Alzheimer pode ser prevenido? 14 fatores que ajudam a reduzir o risco&nbsp;&nbsp;CNN BrasilSaiba como a doença de Alzheimer afeta a memória&nbsp;&nbsp;G1Hoje em Dia aborda Alzheimer e outras demências no quadro Você e o Doutor desta terça (22)&nbsp;&nbsp;R7Ampliar a conscientização&nbsp;&nbsp;Portal da AlegoHoje é dia de Refletir Sobre as Demências&nbsp;&nbsp;blogs.correiobraziliense.com.br",
+      "summary": "Alzheimer pode ser prevenido? 14 fatores que ajudam a reduzir o risco&nbsp;&nbsp;CNN BrasilAmpliar a conscientização&nbsp;&nbsp;Portal da AlegoHoje é dia de Refletir Sobre as Demências&nbsp;&nbsp;blogs.correiobraziliense.com.brSaiba como a doença de Alzheimer afeta a memória&nbsp;&nbsp;G1Opinião - Thiago Bahia Vargas: Ainda faltam conhecimento e acesso ao Alzheimer&nbsp;&nbsp;Folha de S.Paulo",
       "sources": [
         {
           "name": "CNN Brasil",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYVVhVDA4Q0h3RTVFNk1PWjZ4dGpTVW5MR3pQRmxQR0FLY3pidWxHQndHRFIwVU9VNjJuaVd2YUwzb2xvRFp3TEZkXzEzUlc1TGEyTTV1TmJ5NVRVNE5fX05GUzVVaUZIM2E1cDNnd3BwNjlqTHg1Wks4SnZFbWVQdEVrbzFDdkRvOTBpOEtKazU0LXRBNVFuREg2cUdtOWw1MEJpWV9saw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1504d1a5a23d",
-      "title": "VÍDEO: Mais de 2,3 mil raios são registrados nesta madrugada em Santa Maria - Diário de Santa Maria",
-      "published": "2026-09-21T11:10:00+00:00",
-      "summary": "VÍDEO: Mais de 2,3 mil raios são registrados nesta madrugada em Santa Maria&nbsp;&nbsp;Diário de Santa Maria",
-      "sources": [
-        {
-          "name": "Diário de Santa Maria",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdVE3QmlvV2pQWWtFY3pmbHdhZ0xmU2xiSnRtcFNlcnhCbFNhVFpPOTJsVS1qRERuaGxvVkZsMHRWR1BOUWRPZ3lWZEh1V0JXV19JTlFKR2tkVjNJLVNJN2FtX2tTX2tRWkIxWDAxZEQ0TFp2aWJtUHV1M3oxUDgyN2JjS2RoLW1YYUNTZ3pKbW5mbnhQTWxBSkhFaEZZZ1RpTFp6ZUQxbTd5UFlWNzNzamtxQlZJa0pHVW8xWWVVVQ?oc=5"
         }
       ]
     },
@@ -141,7 +153,7 @@
       "id": "7afc94b400dc",
       "title": "O smartwatch detectou batimentos acelerados: e agora? Devo ir ao pronto-socorro? - Estadão",
       "published": "2026-09-21T08:35:08+00:00",
-      "summary": "O smartwatch detectou batimentos acelerados: e agora? Devo ir ao pronto-socorro?&nbsp;&nbsp;EstadãoEntenda como smartwatches podem ajudar a identificar arritmias&nbsp;&nbsp;CNN BrasilRelógio fitness diz que você está pronto para treinar. E se não estiver?&nbsp;&nbsp;terra.com.brSmartwatches ajudam a detectar Fibrilação Atrial e AVC precocemente&nbsp;&nbsp;boca.com.brAgência de Comunicação - Seu smartwatch diz que sua pressão está normal. Dá para confiar?&nbsp;&nbsp;Estadão Blue Studio",
+      "summary": "O smartwatch detectou batimentos acelerados: e agora? Devo ir ao pronto-socorro?&nbsp;&nbsp;EstadãoEntenda como smartwatches podem ajudar a identificar arritmias&nbsp;&nbsp;CNN BrasilSmartwatch avisou que seu coração acelerou? Saiba quando o alerta exige atendimento&nbsp;&nbsp;ncnews.com.brRelógio fitness diz que você está pronto para treinar. E se não estiver?&nbsp;&nbsp;TerraAlerta de smartwatch por batimento acelerado exige avaliação do contexto&nbsp;&nbsp;diariodocentrodomundo.com.br",
       "sources": [
         {
           "name": "Estadão",
@@ -150,22 +162,10 @@
       ]
     },
     {
-      "id": "353850421ead",
-      "title": "Qual pássaro tem o canto mais musical? Novo estudo tem a resposta - CNN Brasil",
-      "published": "2026-09-21T07:45:06+00:00",
-      "summary": "Qual pássaro tem o canto mais musical? Novo estudo tem a resposta&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMkR6X2VQYVVMTzd2OGZIOUFSck5IQWlrVzN6UG1yN3BSWmVlTU95cDRVMW9KMFlTWjV1cU5UREl4X1c2MEFONnh4R3A4M3JoOGxwSG1TWTVRT3YwMlJ4VUZBekVOMmcwR2Y4WXNYZ1A1YjdMSGJNanlwWDB5WUNYQU5qTjd1ZGlwZFIwZFZvWThJOXczaE9JM19Kc0pUeTJiZExTUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0dc196ea8f77",
       "title": "Noite virada: o que fazer para \"sobreviver\" no trabalho depois de uma crise de insônia - CNN Brasil",
       "published": "2026-09-21T07:31:00+00:00",
-      "summary": "Noite virada: o que fazer para \"sobreviver\" no trabalho depois de uma crise de insônia&nbsp;&nbsp;CNN BrasilA forma correta de recuperar o sono perdido - 20/09/2026 - Equilíbrio&nbsp;&nbsp;folha.uol.com.brDormiu mal? Veja o que fazer no dia seguinte para enfrentar a 'ressaca' do sono&nbsp;&nbsp;terra.com.brDormir demais faz tão mal quanto dormir de menos? Entenda&nbsp;&nbsp;radiocaicara.com.brComo dormir a noite inteira? Veja 3 recomendações para vencer a insônia&nbsp;&nbsp;folhadeirati.com.br",
+      "summary": "Noite virada: o que fazer para \"sobreviver\" no trabalho depois de uma crise de insônia&nbsp;&nbsp;CNN BrasilA forma correta de recuperar o sono perdido - 20/09/2026 - Equilíbrio&nbsp;&nbsp;Folha de S.PauloDormiu mal? Veja o que fazer no dia seguinte para enfrentar a 'ressaca' do sono&nbsp;&nbsp;TerraDormir demais faz tão mal quanto dormir de menos? Entenda&nbsp;&nbsp;radiocaicara.com.brComo dormir a noite inteira? Veja 3 recomendações para vencer a insônia&nbsp;&nbsp;folhadeirati.com.br",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -174,26 +174,38 @@
       ]
     },
     {
-      "id": "7670763cc2af",
-      "title": "Por que o câncer de intestino está aumentando entre os jovens? - oglobo.globo.com",
+      "id": "b1b6bf25b898",
+      "title": "Por que o câncer de intestino está aumentando entre os jovens? - O GLOBO",
       "published": "2026-09-21T07:30:00+00:00",
-      "summary": "Por que o câncer de intestino está aumentando entre os jovens?&nbsp;&nbsp;oglobo.globo.com",
+      "summary": "Por que o câncer de intestino está aumentando entre os jovens?&nbsp;&nbsp;O GLOBO",
       "sources": [
         {
-          "name": "oglobo.globo.com",
+          "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVFFUOVBRaEhPaXJTYjBaY183MUZVbGNSMUNYZlRxSDNFZkx3QVA5R3dlZ1hmMmdUMW5URlZ4SDhfNmdZblpnUmE3RWdjRml6VEhJS2QxLWpjdEItaHBLVVQwWkU2ZXR4anhPNWRNeUR3aVZUMlBzM0RoV0dpNGl6ZW5RcjYyd1J6UE1NdEIzZndzRHEtSTJSdjBCZlA2SWREenBGQkVIWHpLN1YwOWRqWTY3RmwwLXktQUh1VXJGQ0c2elhC0gHTAUFVX3lxTE91MTN5SGpiaWVqVTk4NUdkcTlFdDJxQ2RKbXlyUHBXaHVTMV93Vy1NMXctRkotYUtsTnY3WHlIcFB0UlFpUDVyMEk4NUxVTElpVEU2YkZCODhDRUktVmFaMWQxS3FJUWJCT0dQOFZxbUZaZGxMaEV6RlpEeVZMVmNNT0NSWjJvNFk1dWNBRmVaRlVFSlJvSC1rdlNISDNWSXhQc3NCNFBYVWhYY2ZqbEFLaHZmZUdHSjZFRVRVdGF6TTZ5cTdsRTV2TGhMbkJwcDdfVjA?oc=5"
         }
       ]
     },
     {
-      "id": "2fe52b239212",
-      "title": "Pesquisadores desenvolvem método para prever Alzheimer antes dos primeiros sinais - folha.uol.com.br",
+      "id": "73549932ddcd",
+      "title": "Pesquisadores desenvolvem método para prever Alzheimer antes dos primeiros sinais - Folha de S.Paulo",
       "published": "2026-09-21T07:00:00+00:00",
-      "summary": "Pesquisadores desenvolvem método para prever Alzheimer antes dos primeiros sinais&nbsp;&nbsp;folha.uol.com.brVeja mais manchetes e perspectivas no Google Notícias",
+      "summary": "Pesquisadores desenvolvem método para prever Alzheimer antes dos primeiros sinais&nbsp;&nbsp;Folha de S.PauloVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
-          "name": "folha.uol.com.br",
+          "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdUxheVE2cUVkWUVzT0ZLRURlaFNudktuZmQ4NHhUZ3pFcV9pVmRlS0laNEUwd3lRVW5WNFJOQnF1elcwS2VRX0tQbTlWOFIwRThIWUVaTHJsZElxNHBsWWhyN3lnZXRxNk5UbmptRXVPSndqbnRtcUJsaU1jYXlUNF8zekU3NUUxNWNLLXpERDhqNk9GR3g0Vk5Ua1FzM09ybU5XQXZyb3dYSGdqam1LWjAtQTk3QzdqUFQ0TTJ1Q1hfdXlDekFFT2E3elFCVS1jLTFBemxJSHJaZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4d0129628154",
+      "title": "Uso diário de suplementos pode afetar saúde dos rins? Especialista explica - CNN Brasil",
+      "published": "2026-09-21T06:33:45+00:00",
+      "summary": "Uso diário de suplementos pode afetar saúde dos rins? Especialista explica&nbsp;&nbsp;CNN BrasilNa era dos suplementos alimentares, busca por saúde pode colocar a vida em risco&nbsp;&nbsp;Gazeta do PovoAtendimentos e internações de crianças por excesso de vitaminas crescem no Brasil&nbsp;&nbsp;EstadãoSuplementos do dia a dia podem fazer mal aos rins? Especialista explica os cuidados&nbsp;&nbsp;folhajornal.com.brVitaminas demais também fazem mal?&nbsp;&nbsp;Assine Abril",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdnA0YzFnWTlCcl8xZEFSZmZYX2o1YW0yZHplQ2plVjc5RndsaDRKUm1KUUZ1c0w2WHV2dkF3bVFnTmR3WXVTWFh1MGdIaGpWUnRXaFk0Z1JIZjU4TTFRSVhxSWp4QlBaMG5BWERHVWY0WFJUSTJOYTJhLVB5ei1oNFBSRVl0LW93dDZXTkh0NzA2cHRETHNncldSTHNITnBUTjJKS3VkVTZJTkpYSUE?oc=5"
         }
       ]
     },
@@ -210,49 +222,25 @@
       ]
     },
     {
-      "id": "4269ccf07de4",
-      "title": "Exossomas: as pequenas bolsas de sinalização que detectam doenças - Metrópoles",
-      "published": "2026-09-21T05:00:00+00:00",
-      "summary": "Exossomas: as pequenas bolsas de sinalização que detectam doenças&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT3NWX2ROc2ZpNy11Q2RUTllVZFk3M2pnNFVtb2hGNFRaQUdGdnNDeTJHczA3X3lCMXNyemR2MzFqcE8xMHV0a0lqS09uRUZjWHZURkRyQ0lFUTg4UVphT2NYcWFxZkJPT1ZkNG1ndTRKczhxWHowUm1ueWgtVDVXYWlkbXlPTkVMVFc1XzlnVkxQS1VzTGRUMmZBMDN2dw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f875d1019ce4",
-      "title": "Como proteger a saúde em meio à 'gangorra térmica' que deve atingir São Paulo - folha.uol.com.br",
+      "id": "ec9dd028e148",
+      "title": "Como proteger a saúde em meio à 'gangorra térmica' que deve atingir São Paulo - Folha de S.Paulo",
       "published": "2026-09-21T02:05:00+00:00",
-      "summary": "Como proteger a saúde em meio à 'gangorra térmica' que deve atingir São Paulo&nbsp;&nbsp;folha.uol.com.brChuva e saúde respiratória: cuidados no Sudeste nesta semana&nbsp;&nbsp;Climatempo“Gangorra térmica” em São Paulo eleva risco de crises respiratórias; veja cuidados&nbsp;&nbsp;Diário do Centro do MundoAr seco pode intensificar crises em pacientes com asma, aponta revisão científica&nbsp;&nbsp;Tua SaúdeQueda brusca de temperatura acende alerta para a saúde respiratória&nbsp;&nbsp;Jornal da Fra",
+      "summary": "Como proteger a saúde em meio à 'gangorra térmica' que deve atingir São Paulo&nbsp;&nbsp;Folha de S.PauloChuva e saúde respiratória: cuidados no Sudeste nesta semana&nbsp;&nbsp;Climatempo“Gangorra térmica” em São Paulo eleva risco de crises respiratórias; veja cuidados&nbsp;&nbsp;diariodocentrodomundo.com.brAr seco pode intensificar crises em pacientes com asma, aponta revisão científica&nbsp;&nbsp;tuasaude.comQueda brusca de temperatura acende alerta para a saúde respiratória&nbsp;&nbsp;Jornal ",
       "sources": [
         {
-          "name": "folha.uol.com.br",
+          "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTEVvWVJPREl5Qk9ZUFlEZktwSEd5QjhUOVg2d0I4VU0xRWQ3ZlhSSWFGVFZYMEdUSFM1WFJxWklFZGRYV283RmlfWGNsX3dmazZ6UlBFVnVLUkM2c3RrSGFpTHhuWTJ2ZUN1OXZBdHZQdC1neWF6dGpzRDlkNUhOaDZ6TG5Qa3Z1SkZaYmpIcHF5NmRCajdaVXc2MmhhSGV1VkFUVEdWNE5BMWVwRWZkZXRFdUNJNTVFUDZYa0ZHR1E2eGxKdm5oZzBnTnZ1eVJyM1E?oc=5"
         }
       ]
     },
     {
-      "id": "dc44c11d4321",
-      "title": "Cientistas fazem descoberta histórica: um tubarão de 399 anos, nascido em 1627 foi localizado no Oceano Ártico e bate recorde de longevidade entre animais vertebrados - Super Rádio Tupi",
-      "published": "2026-09-21T00:40:58+00:00",
-      "summary": "Cientistas fazem descoberta histórica: um tubarão de 399 anos, nascido em 1627 foi localizado no Oceano Ártico e bate recorde de longevidade entre animais vertebrados&nbsp;&nbsp;Super Rádio Tupi",
-      "sources": [
-        {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaVIySjFZb0lnQVNjb3d2cGUtOVRVRENnd0lEWkdmcTZET1BzZElrc3lZZG1mTlJXSDdtOGRtb2pmUTM4ZjZ0SF85OWVsOXNVZHktTUUyRmhZcklKeXdHdm5yZGl0TWx5Y21lbXJ0aFNTelNzVVp4Z3o3R1RqekJPZm1jV1BRdmxmanc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c8cc57e29866",
-      "title": "Morre Paulo Roberto Teixeira, médico referência no combate ao HIV e à Aids no Brasil - terra.com.br",
+      "id": "ae15e6981656",
+      "title": "Morre Paulo Roberto Teixeira, médico referência no combate ao HIV e à Aids no Brasil - Terra",
       "published": "2026-09-20T23:28:00+00:00",
-      "summary": "Morre Paulo Roberto Teixeira, médico referência no combate ao HIV e à Aids no Brasil&nbsp;&nbsp;terra.com.brMorre Paulo Roberto Teixeira, médico pioneiro no enfrentamento ao HIV e à Aids no Brasil&nbsp;&nbsp;folha.uol.com.brMorre Paulo Roberto Teixeira, médico sanitarista que atuou na construção das políticas de combate ao HIV e à Aids no Brasil&nbsp;&nbsp;G1Quem foi Paulo Roberto Teixeira, médico referência no tratamento contra HIV e aids&nbsp;&nbsp;Veja SaúdeMorre médico Paulo Roberto Teixeira",
+      "summary": "Morre Paulo Roberto Teixeira, médico referência no combate ao HIV e à Aids no Brasil&nbsp;&nbsp;TerraMorre Paulo Roberto Teixeira, médico pioneiro no enfrentamento ao HIV e à Aids no Brasil&nbsp;&nbsp;Folha de S.PauloMorre Paulo Roberto Teixeira, médico sanitarista que atuou na construção das políticas de combate ao HIV e à Aids no Brasil&nbsp;&nbsp;G1Quem foi Paulo Roberto Teixeira, médico referência no tratamento contra HIV e aids&nbsp;&nbsp;Veja SaúdeMorre médico Paulo Roberto Teixeira, pione",
       "sources": [
         {
-          "name": "terra.com.br",
+          "name": "Terra",
           "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPTGhLTUtyaXNybTVMMFh6QlRCdkd6aXN1X0t6SE9MaGNCUkU4eTV4cThELXRZMDVvNmZiTTQxYXVCMXZ4SVFHMU5SYzVWSnFyWDBBemhENlgzLWZyRmh3ZEhQS24yRzkweTU4QzV0dlVRVU1MckxCVVNKek84LUkwTGRmUGRvV045dlRreHBBRGEtLTE3T2QxV2hHVEZzNkhCbjVDWDdkcVphRE5VNW4yM1pTVF9uWTlSWDMwX2RvRzN0LU5mUk9XM0tseE96cWp4Y3VBY1VzMEpLREpVdlZQOUt2UHlndWxJczNZUEZOeHNTRko5Yjkya0t0VXJ6elhOSmd3QQ?oc=5"
         }
       ]
@@ -261,23 +249,11 @@
       "id": "10ae4bcb6013",
       "title": "Jovem de 25 anos morre de meningite após procurar UPA cinco vezes na Serra - Serra Noticiário",
       "published": "2026-09-20T21:21:00+00:00",
-      "summary": "Jovem de 25 anos morre de meningite após procurar UPA cinco vezes na Serra&nbsp;&nbsp;Serra NoticiárioPrefeitura da Serra afasta médicos que atuaram no caso de jovem morta por meningite&nbsp;&nbsp;G1Jovem morre por meningite e profissionais de saúde são afastados no ES&nbsp;&nbsp;Jornal Espírito Santo NotíciasFamília pede investigação após morte de jovem por meningite&nbsp;&nbsp;Tribuna OnlineSerra afasta e vai investigar profissionais após morte de jovem por meningite&nbsp;&nbsp;portaltemponovo",
+      "summary": "Jovem de 25 anos morre de meningite após procurar UPA cinco vezes na Serra&nbsp;&nbsp;Serra NoticiárioPrefeitura da Serra afasta médicos que atuaram no caso de jovem morta por meningite&nbsp;&nbsp;G1Jovem morre por meningite e profissionais de saúde são afastados no ES&nbsp;&nbsp;Jornal Espírito Santo NotíciasFamília pede investigação após morte de jovem por meningite&nbsp;&nbsp;Tribuna OnlineSerra afasta e vai investigar profissionais após morte de jovem por meningite&nbsp;&nbsp;Portal Tempo No",
       "sources": [
         {
           "name": "Serra Noticiário",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMmloTE9ZaWRncGJjbjJ3VkFxNzNRcmVGSXR5aWVPZmM3cHNYWERWSFZseDVGYVpTbk5UelNmMVdIV18wQXhTM0dHay1KSk9wS21SelZNa1lqTzFGandoOFBPWVhZWG9GdXRLX0JCTW4yanROYVBTQ1ZmNmZWT1hDLVI1VnpuM2tjUFpVV1VDdnVKNjVxMnUxX1lVZHBhY1Z0c1ZnYzNHN1gwZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d3fd1dda6ebc",
-      "title": "Morador encontra fósseis em sua propriedade, e pesquisadores descobrem dinossauro de 20 metros com anatomia surpreendente, resultado de uma combinação inesperada entre duas linhagens pré-históricas - Super Rádio Tupi",
-      "published": "2026-09-20T19:55:10+00:00",
-      "summary": "Morador encontra fósseis em sua propriedade, e pesquisadores descobrem dinossauro de 20 metros com anatomia surpreendente, resultado de uma combinação inesperada entre duas linhagens pré-históricas&nbsp;&nbsp;Super Rádio Tupi",
-      "sources": [
-        {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPUWd0UWlCcXlPMUtDX3dkNjhlUnB4MnNucmNpOExEQnBnc1lrVWEwcHdpZUJLOFE0bTByRGZPcnJIQ0YybzVNOFFBaTAzcHN6NVgtTk9JNU5HOWNhd3RsOG5wbE1MZkpUN1QyaWVyODFNcEF5VC1xRlluN2gtUGtuRHVFUUNCYldVOGRoWlk2NG5QdHluam9nX0U1RFYyd0paemNaMWFucm96d2gza1BmbXh2bl9VZ056RnJ6a3Z3b2ZvajFoTzdaZktvdjRrZ01EdGdKM3NtLTZKaVA4OXRrdF9zYVNSd083Z2JLLTcyWHFJZnFNbUNZRE5aN2JSSldwQWVPeENVM0FvMlZjZUZ5dGVTa2d3WFpSdV9mSFMtOXBSYWZWRkZpWlhwMWFOMmw3R3M0MmxlR1Z4TldUM0U4UThuVm8?oc=5"
         }
       ]
     },
@@ -294,26 +270,26 @@
       ]
     },
     {
-      "id": "bbcc0f5effc1",
-      "title": "Os cinco melhores alimentos para cuidar da saúde do cérebro, segundo um neurologista - itatiaia.com.br",
+      "id": "81840184d177",
+      "title": "Os cinco melhores alimentos para cuidar da saúde do cérebro, segundo um neurologista - Rádio Itatiaia",
       "published": "2026-09-20T16:26:37+00:00",
-      "summary": "Os cinco melhores alimentos para cuidar da saúde do cérebro, segundo um neurologista&nbsp;&nbsp;itatiaia.com.brHábitos saudáveis podem proteger o cérebro e o coração&nbsp;&nbsp;G1Estimulação cognitiva auxilia na autonomia dos idosos&nbsp;&nbsp;rbtv.com.brDe frituras à cerveja: dieta é associada à piora da atenção em grupo com risco de Alzheimer&nbsp;&nbsp;ExamePreocupação com a saúde cerebral cresce entre todas as gerações&nbsp;&nbsp;ajn1.com.br",
+      "summary": "Os cinco melhores alimentos para cuidar da saúde do cérebro, segundo um neurologista&nbsp;&nbsp;Rádio ItatiaiaHábitos saudáveis podem proteger o cérebro e o coração&nbsp;&nbsp;G1Estimulação cognitiva auxilia na autonomia dos idosos&nbsp;&nbsp;REDE BRASIL DE TELEVISÃODe frituras à cerveja: dieta é associada à piora da atenção em grupo com risco de Alzheimer&nbsp;&nbsp;ExamePreocupação com a saúde cerebral cresce entre todas as gerações&nbsp;&nbsp;AJN1",
       "sources": [
         {
-          "name": "itatiaia.com.br",
+          "name": "Rádio Itatiaia",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPREdWVEJ3dFg5T2xHYkw4S3FHTTEwRGQ0QjR4eG4tWVRIcEFRMTU4aE5tamlkeG9rN0s5dDBBSF9HckFxQ2R2X1FLdTlRSnVrcDA1Sm9zUTdSRVlpQXVVeDhjSmZRTUR2RDg5OXNXNDJzdHBFRjR0Q0JYT2VDVUlOU29lb3BER0ZkaGV6WjlMSGNWTkdfOTd5U3JsaDdUSVRILVJ4dFlXTmJvMFRTMXVITnFCaXhRejM2MWg0?oc=5"
         }
       ]
     },
     {
-      "id": "fb8815e1acf3",
-      "title": "Ama café? Pesquisa revela o limite diário para não afetar os ossos - Exame",
-      "published": "2026-09-20T15:07:26+00:00",
-      "summary": "Ama café? Pesquisa revela o limite diário para não afetar os ossos&nbsp;&nbsp;Exame",
+      "id": "119383be6945",
+      "title": "Estação espacial chinesa ganha primeira air fryer do espaço - dw.com",
+      "published": "2026-09-20T14:40:35+00:00",
+      "summary": "Estação espacial chinesa ganha primeira air fryer do espaço&nbsp;&nbsp;dw.com",
       "sources": [
         {
-          "name": "Exame",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOFRMR0twWnlDQms2cmFmcW96Ulk3Uy05Xy0wakZMX2owS1hsOVlhYjVhM2RmVGNaN1RHUGhQcHZlZmlDN0huSjRfUXpMbWt0NmI3Wi1sQ0hQalA2bHVBU1NOWmoyUWU2dTBIRHlCQTlmUk5PT2ZEbzlhN25weDlaMWNCQUtSN0RYWnh3NzBlZHdRVEZlZVYw?oc=5"
+          "name": "dw.com",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWE9hVHN6LXdldnRYUHliejM4akRaX0Itb3dwMUR1QTBNSWk1Wk1CWTFrSVpIT0xra1p3MTZZS2FObUZ1QTR6VExxRWFsYi10VXBHUE8yZ1NlQ1JRV3BuSzYyN2otb1hTcGlENFlUUTZCdllqT1JLYmowZEJ0Y3JSdTdCRENwMGYtQlRhTmI5RDVtN1p4R2hMN3cyczJ1U0NsUzVmRU1aTVVCc254QzByNHotQjRZcDBtdzBYMnNaakpxd9IBwgFBVV95cUxQOXE4UExMLXhha3kzV0dYMFZBakxLYW1LMkMwNmFpZFRFckJXd0xubFVuR2NfNURKZDVuaUFRdXhmUG5USTRmTVh2TkNnV0ZzcFdhVmJLVF9Yc0VuZnVjLWhqbjBObzN4b3dDRVowaUhJR1JuMVBEdmEteFhLdUJPZkhtWXZSMkJsTW01cC1VNUo1R0lOdXBCM2xLSkZoNDY1blp4amh4X3k0cjFmYkhVeDlobnkzUllHNlhJSTJWN21iUQ?oc=5"
         }
       ]
     },
@@ -342,26 +318,14 @@
       ]
     },
     {
-      "id": "65fd9f09fefa",
-      "title": "‘Crânio apertando meu cérebro’: como é viver com crises de enxaqueca que mudam a rotina - diariodonordeste.verdesmares.com.br",
+      "id": "1d5e99f2d4af",
+      "title": "‘Crânio apertando meu cérebro’: como é viver com crises de enxaqueca que mudam a rotina - Diário do Nordeste",
       "published": "2026-09-20T11:00:58+00:00",
-      "summary": "‘Crânio apertando meu cérebro’: como é viver com crises de enxaqueca que mudam a rotina&nbsp;&nbsp;diariodonordeste.verdesmares.com.brAnvisa aprova comprimido diário para prevenir enxaqueca frequente, mas remédio ainda não tem preço nem data nas farmácias&nbsp;&nbsp;O POVOMigrânea não tratada altera tônus vascular e pode levar a AVC, alertam médicos&nbsp;&nbsp;Правда.РуAtogepant ou topiramato para prevenir enxaqueca? Ensaio comparou os dois tratamentos&nbsp;&nbsp;Tua SaúdeDiretriz atualiza a pre",
+      "summary": "‘Crânio apertando meu cérebro’: como é viver com crises de enxaqueca que mudam a rotina&nbsp;&nbsp;Diário do NordesteAnvisa aprova comprimido diário para prevenir enxaqueca frequente, mas remédio ainda não tem preço nem data nas farmácias&nbsp;&nbsp;O POVOMigrânea não tratada altera tônus vascular e pode levar a AVC, alertam médicos&nbsp;&nbsp;port.pravda.ruAtogepant ou topiramato para prevenir enxaqueca? Ensaio comparou os dois tratamentos&nbsp;&nbsp;tuasaude.comDiretriz atualiza a prevenção da",
       "sources": [
         {
-          "name": "diariodonordeste.verdesmares.com.br",
+          "name": "Diário do Nordeste",
           "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUE5kbUxjdm1wQnZld0ZDU3BwVU1ubkVrYmJ1NE40MEVqZ2w0dTI1TFcxa202TlZnMVY5dnBUcU1Fbk45QUpMQWpJV2dZOU1lSk1wS0pDMWpQWk8xNVUzYVdzSWlDZkJvbkdFLU1IcnREQWJfRTZuVFJoOGpOTzlpU2hZSWxuc3p1bklmdkZTdGxOUlF5Sk1sU1o5bUJCemNZMFFUZUY5bU5Fa2poUVlTbGRJR2tPd0NFZ0JiTmVFc29GYXFJUlgtS2gxRW9GZ01ObDJhVHdXVDhfbm9W?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7f00585810ce",
-      "title": "Minas tem 4 municípios entre os 20 com menor cobertura vacinal contra sarampo no país; veja quais - otempo.com.br",
-      "published": "2026-09-20T10:00:00+00:00",
-      "summary": "Minas tem 4 municípios entre os 20 com menor cobertura vacinal contra sarampo no país; veja quais&nbsp;&nbsp;otempo.com.br",
-      "sources": [
-        {
-          "name": "otempo.com.br",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPM0R3Z2h6cW4xa1RQS2I4emhOaHdYMXAtT0xRV3JVb2FjTzVVTlV1Z1N6eXBOZFB5SERjZEFKTi02RGRuTFJpdmxJT2NKdVppVmZybENRM2xGQlVZVHBORGNOM0Z6WnIxMkxRWjVmZ1FkUDlYZFNlVkx6ZXEyU3d4cXpXTnVKeE9iRXkwLTBVVzV6YWw1elA4WnRXWi1SdDIxbzIwN2pYVVJxMVItS1ZiNE1wbzNfblJjbE5SYnlfbUt2R1p3NzhQNkxndi1pOFdZdnhjLTlaalhWQThMalFaNWtmeDA?oc=5"
         }
       ]
     },
@@ -369,7 +333,7 @@
       "id": "4996be4fb965",
       "title": "Vitamina D: a chave da vitalidade para todo o organismo - Correio Braziliense",
       "published": "2026-09-20T09:00:00+00:00",
-      "summary": "Vitamina D: a chave da vitalidade para todo o organismo&nbsp;&nbsp;Correio BrazilienseVitamina D em dose alta e memória: o que o novo dado sugere e por que não vira receita&nbsp;&nbsp;Tua SaúdeMenos sol no inverno significa menos vitamina D? Entenda quando repor&nbsp;&nbsp;Diário GaúchoNovas descobertas sobre os benefícios da vitamina D para a saúde cerebral em adultos mais velhos.&nbsp;&nbsp;vietnam.vnEndocrinologista responde às perguntas mais importantes sobre a Vitamina D&nbsp;&nbsp;Correio ",
+      "summary": "Vitamina D: a chave da vitalidade para todo o organismo&nbsp;&nbsp;Correio BrazilienseVitamina D em dose alta e memória: o que o novo dado sugere e por que não vira receita&nbsp;&nbsp;tuasaude.comMenos sol no inverno significa menos vitamina D? Entenda quando repor&nbsp;&nbsp;Diário GaúchoNovas descobertas sobre os benefícios da vitamina D para a saúde cerebral em adultos mais velhos.&nbsp;&nbsp;Vietnam.vnEndocrinologista responde às perguntas mais importantes sobre a Vitamina D&nbsp;&nbsp;Corre",
       "sources": [
         {
           "name": "Correio Braziliense",
@@ -378,26 +342,14 @@
       ]
     },
     {
-      "id": "35c7f0e2a78f",
-      "title": "Pessoas falam menos a cada ano, e especialistas veem riscos para o cérebro - folha.uol.com.br",
+      "id": "51ce5975de9c",
+      "title": "Pessoas falam menos a cada ano, e especialistas veem riscos para o cérebro - Folha de S.Paulo",
       "published": "2026-09-20T07:00:00+00:00",
-      "summary": "Pessoas falam menos a cada ano, e especialistas veem riscos para o cérebro&nbsp;&nbsp;folha.uol.com.brVeja mais manchetes e perspectivas no Google Notícias",
+      "summary": "Pessoas falam menos a cada ano, e especialistas veem riscos para o cérebro&nbsp;&nbsp;Folha de S.PauloVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
-          "name": "folha.uol.com.br",
+          "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOU2hqVEdQRkxwWEIwNk9kSi1PeUhRUWsyNTljbzZ4ZjFTVkpYUmkxT3Bwb1JFLU5KMHZ6LWo2cjZqYzRrd0tFXzJnTmVfdnFReU1aQUU5SWFMZzRxaGFJbWh2NHJTYW9MR2o3MzV0X2JmX19zSUdYTXpWRkc2eFRKOVZjUGFVUGF2TmlFX3RNM1p0aktwSEZ6bThXQVhVQ2hQbXlXNWo3NTE0b1RjS3U0ejBZQ2pqbUJFdVJXZXQ1VDhRTEJ4Snpn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f9d8916db72d",
-      "title": "'Só não quero retroceder', diz paciente que usa novo medicamento para Alzheimer - folha.uol.com.br",
-      "published": "2026-09-20T07:00:00+00:00",
-      "summary": "'Só não quero retroceder', diz paciente que usa novo medicamento para Alzheimer&nbsp;&nbsp;folha.uol.com.br",
-      "sources": [
-        {
-          "name": "folha.uol.com.br",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLXJNb0V5cmozMVRjVHVTTG1lMlVnU2ZueWZIZnVDX3J2aVlFSGRURTZnWjRVXzhQeGN5VUNUWlBqbVFRSnIzbDk4Qm9uUFB4TzlRdHhtRHhsVG5WaTdsbDVxYjZuRmJ6ajBRT3pvT1RQallhTmhCRG5WRF91TDBqck91X1J3ZGd4MHdNeUF0MGNQQWRLYXRHNk9KUF9MTGIzTU5yeVVHS1pOSUJSVG1samxpS3FCOGZMZGZsQ1lxWVVTOTZDdHc2bTVKUVpERFRLUF9F?oc=5"
         }
       ]
     },
@@ -414,34 +366,10 @@
       ]
     },
     {
-      "id": "1765ab3bb5af",
-      "title": "Segundo um novo estudo, as Cataratas de Sangue da Antártida abrigam descendentes de antigas criaturas marinhas - O Antagonista",
-      "published": "2026-09-20T04:43:00+00:00",
-      "summary": "Segundo um novo estudo, as Cataratas de Sangue da Antártida abrigam descendentes de antigas criaturas marinhas&nbsp;&nbsp;O Antagonista",
-      "sources": [
-        {
-          "name": "O Antagonista",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdVYtd0FUXzRfUDJYUWRaRU9VVVFXeWZNaUp1NTBtX2xUVmVxWHNsNWFYZ2M4UlpUSjJBeUpSY3ZFR0hzVUlkdUJmZXcxQ3VxT09tbWpEejZyalJaVzVqNFZhU0kxY3pPUHBXWW13NzBpYmh2SDlGZ0pxWGlkcllycEdILVVsYTRxNmVrOXRDU2ppbTlEQ0xwaUxtbE9QRTdjbEVrd0xsOExJWjVXOUE2d09jS2ZqLWd1WWktY1NtOWdzODg1dng4b3lmejFoZ0ZnZ3BrazVibEZRVl9WaTdJ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5f6c280a217a",
-      "title": "Bactéria comum no estômago pode estar ligada a um em cada cinco casos de câncer de intestino; entenda - correio24horas.com.br",
-      "published": "2026-09-19T14:24:04+00:00",
-      "summary": "Bactéria comum no estômago pode estar ligada a um em cada cinco casos de câncer de intestino; entenda&nbsp;&nbsp;correio24horas.com.brEstudo relaciona bactéria que afeta estômago a um em cada cinco casos de câncer colorretal&nbsp;&nbsp;VEJABactéria pode agir por anos no estômago sem apresentar sintomas&nbsp;&nbsp;G1A dor melhorou depois do tratamento da H. pylori, mas isso não confirma que a bactéria saiu&nbsp;&nbsp;Tua SaúdeMutirão gratuito em Belém oferece teste e avaliação para H. pylori&nbsp",
-      "sources": [
-        {
-          "name": "correio24horas.com.br",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZmozTDM2Sy1ZaTBuRFp6OVl4MkdYTjhRM0tjZ1BnbjRlUmhNWGlPYk1zcWxlRmZGNmVua2NoU3JMeWhlR0RtNENRMjBFcnhYSFJnazlTUC1kRUhieFFyRnBsMTJ2YUFlZGIwellma0xVajdEWHJ1Y1FaOHNxVXZqeEtuV2FQU0lFV1FBb1hFaVcwZFF5X09pZXlyYklCOV90NGZNdW50NUpDa3dBemZrX3ZqSGFhSm5FVTFSZDk0QVhLM2p3WlktYktzYkV6dXpzWDBpYWZLOUVUbndpQ2c?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ca799b8a2973",
       "title": "Estudo propõe nova origem para o cérebro - Correio Braziliense",
       "published": "2026-09-19T08:06:00+00:00",
-      "summary": "Estudo propõe nova origem para o cérebro&nbsp;&nbsp;Correio BrazilienseSeu cérebro é uma combinação de dois órgãos diferentes, diz novo estudo&nbsp;&nbsp;revistagalileu.globo.comCélulas-tronco e neurônios: como a ciência recupera o cérebro&nbsp;&nbsp;Correio BrazilienseDuas origens? A nova descoberta sobre o cérebro que pegou os cientistas de surpresa&nbsp;&nbsp;itatiaia.com.brO cérebro humano é, na verdade, composto por dois órgãos separados?&nbsp;&nbsp;vietnam.vn",
+      "summary": "Estudo propõe nova origem para o cérebro&nbsp;&nbsp;Correio BrazilienseSeu cérebro é uma combinação de dois órgãos diferentes, diz novo estudo&nbsp;&nbsp;revistagalileu.globo.comCélulas-tronco e neurônios: como a ciência recupera o cérebro&nbsp;&nbsp;Correio BrazilienseDuas origens? A nova descoberta sobre o cérebro que pegou os cientistas de surpresa&nbsp;&nbsp;Rádio ItatiaiaO cérebro humano é, na verdade, composto por dois órgãos separados?&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "Correio Braziliense",
@@ -450,37 +378,25 @@
       ]
     },
     {
-      "id": "7d00356d13d9",
-      "title": "Do intestino ao cérebro: como o café pode mexer com os dois - Estadão",
-      "published": "2026-09-18T19:04:26+00:00",
-      "summary": "Do intestino ao cérebro: como o café pode mexer com os dois&nbsp;&nbsp;EstadãoEstudos comprovam: café faz bem para a microbiota humana&nbsp;&nbsp;terra.com.brCheiro de café recém-passado pode despertar uma reação no organismo que mexe com o humor antes mesmo do primeiro gole; entenda&nbsp;&nbsp;CNN BrasilSem tomar sequer um gole: estudo mostra que cheiro de café pode aliviar cansaço e tensão em cinco minutos&nbsp;&nbsp;Época NegóciosCafé pode alimentar bactérias benéficas do intestino, mas efeit",
-      "sources": [
-        {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc2tHc1U2dkpBLUFBYU9qcExsdnltVTBtU2xyaFdBTHVkam85UkI1QW1FTWVhb2ItUGJjNGJ5WU02WXlBM3ctT2UycXVFNXIzdjRQUXBiYThnSnc3c2RKbDdmSWE5OE9aTUlSOHAxMm9ISURQUmNqdE5INW5ienNRYTJDV2ZlNjhhblUtRzZudlJGWTEycUFSYU9aalhQUk1oRmVB0gGoAUFVX3lxTE5VYVY2MndaMTAzbVBrckxGNmJNQ0RHSzhadEEzN2MtWHVSX2NiUm92YU1faExVS0pwUGctSlBnYlhmM0hqNW9BWnBzTzl5TGQyb2NEeWFHODlxMHB1RDk5ZG43d3FfVWxFRWtCSnJ6dDdtQWNNVkNWSFBSWWI2NUFvc0hfUVVZYlo3cXJQX1F2QnE1WmpBcloya0JteHZod2Ffb0hKaUs5Qw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cb3e74e89189",
-      "title": "Mulher tem ausência quase total de gordura aparente causada por doença rara; entenda - oglobo.globo.com",
+      "id": "f6764c299dc0",
+      "title": "Mulher tem ausência quase total de gordura aparente causada por doença rara; entenda - O GLOBO",
       "published": "2026-09-18T16:15:01+00:00",
-      "summary": "Mulher tem ausência quase total de gordura aparente causada por doença rara; entenda&nbsp;&nbsp;oglobo.globo.com",
+      "summary": "Mulher tem ausência quase total de gordura aparente causada por doença rara; entenda&nbsp;&nbsp;O GLOBO",
       "sources": [
         {
-          "name": "oglobo.globo.com",
+          "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOclRPOFRjVlI1cmIyZHd3ZlFnLUNIS2ZMSGtsTjFjMndLb2dfWDFLWkJUa3Robnl6c2FpVjk0bFhKR1lVSzdteFo1OHdHQmRWM3NTaXUtWDRucllkeWNXcW1YRmNzSW9kMF95RHA5RDlfaVI4NXlwZFRHaS1DSTVacVVEYUJEVTBCWk1peThyWGlkR3lsNldsdmdLOUk4Sm9aYm1pdnlFVTN3ZjRYbnFQcHhWa1JTUEdlOVJUNFlubjNRZ3ZndHNQTC1FXy0yZXhsTjJjMWJn0gHkAUFVX3lxTE1QR3VCTmI2LVE4d2dxd25PRXdFRUQxNDgxdVJvbXlSdDhDWEFGM0VZWDZTdTVFei12VERkbTl0UWV0ZmFJM0pkbDZwOXg0SWpLaWtfLWJPcm9PQnUyQW5mS2R4RmRLLVdBU0kxdmtEWDVHQTJNR2JTUldlVVVoeTVZd0R5VWxKNzFVX1dlQXFoNVFDeVA3VWdfY2E5dmFHMXZGUzJfRWdfd284UWVpUlRGUUdKMVJuNHpZaXNmNHZsQkt4bzN4QW9ORjJkSzA2bjM1V0hZcmNPaFlTeldZbFFFa2NQbA?oc=5"
         }
       ]
     },
     {
-      "id": "6dc9ec5dd639",
-      "title": "É possível sofrer um ataque de morcego? Caso raro em Ilha Grande (RJ) vira estudo científico; saiba mais - oglobo.globo.com",
+      "id": "7115cc9ae5ca",
+      "title": "É possível sofrer um ataque de morcego? Caso raro em Ilha Grande (RJ) vira estudo científico; saiba mais - O GLOBO",
       "published": "2026-09-18T07:00:01+00:00",
-      "summary": "É possível sofrer um ataque de morcego? Caso raro em Ilha Grande (RJ) vira estudo científico; saiba mais&nbsp;&nbsp;oglobo.globo.comMorcego-vampiro suga sangue de homem no Rio de Janeiro; caso raro vira estudo&nbsp;&nbsp;ExameCaso de homem atacado por morcego-vampiro é descrito pela ciência; entenda o comportamento&nbsp;&nbsp;redeutv.com.brHomem é mordido por Morcego em Ilha Grande, no Rio&nbsp;&nbsp;iG Último SegundoSuspeita de ataque de morcego-vampiro surge após homem encontrar sangue no chão",
+      "summary": "É possível sofrer um ataque de morcego? Caso raro em Ilha Grande (RJ) vira estudo científico; saiba mais&nbsp;&nbsp;O GLOBOMorcego-vampiro suga sangue de homem no Rio de Janeiro; caso raro vira estudo&nbsp;&nbsp;ExameCaso de homem atacado por morcego-vampiro é descrito pela ciência; entenda o comportamento&nbsp;&nbsp;redeutv.com.brHomem é mordido por Morcego em Ilha Grande, no Rio&nbsp;&nbsp;iG Último SegundoSuspeita de ataque de morcego-vampiro surge após homem encontrar sangue no chão e ferime",
       "sources": [
         {
-          "name": "oglobo.globo.com",
+          "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSFdHbHpmSWxKdGR4bUQ1bHpma1pNQU9Wc3p4T2RXZVlwZjBfbjhhUThwb1pvMWQzaGdKM0NfTDZsMkNCOTMxT3FfTmNDdzFITW9ISGs4cTN1S3YxdmRseDVhRVNLSzQxNWJES3FObWU3VFozQUIwOTV5eVVPMW9pZjRYeHVXTjdPcU1sS2VnLWQzV3luU3BiN0ExcmpkdzRwTkpVbWJSRHk1ZDVNeVVMenBseDU2OGRqSEt4czgyaTd2NzFwemtKMVk2SXRTWG1JcFl6UTFFeU5kU2ZjWXVpRlJqaXpaRV9qajlubTg4VFFxczZPalNj0gGGAkFVX3lxTE5nVVIycUl4amJmMlZCS19yekljazZwRkM5aVpvS21MUzNfWkdlbWozTktobUtrdjJjY3paN281WV9WeW9pVVI3YUhJZjBsMW9udUV0cDhnbks1Nm9EZ0FZMElXS3lKeTcweUpPby1tVjdHSmd0eHdRemlJeDl2UEx5Zk90WWZnYzZVMHZScFl5SVk2bzRlMGUyNjFib3FpaGZHMWtwZFByZlJLYmpsQjViNXV4b1ZxU3RfZS1URmRCbGJvek91TlM4MXhkdEJKdklhYmc4Z0JacEE5dWtfQjIxbFpmLXJnR0RRbGJGQU80YW4ySjNlaXVKQkk1RHZjYXk0RGg3Zmc?oc=5"
         }
       ]
@@ -522,14 +438,26 @@
       ]
     },
     {
-      "id": "aa1bb70863e4",
+      "id": "7fa7add9ec7a",
+      "title": "Creatina pode ter efeito contra a privação do sono e até a depressão; entenda - CNN Brasil",
+      "published": "2026-09-16T21:22:02+00:00",
+      "summary": "Creatina pode ter efeito contra a privação do sono e até a depressão; entenda&nbsp;&nbsp;CNN BrasilCreatina tem efeito contra a privação do sono; entenda&nbsp;&nbsp;O GLOBOCreatina pode ajudar o cérebro após uma noite sem dormir? Estudo revela efeito inesperado&nbsp;&nbsp;TerraCreatina além da academia: 3 benefícios que a ciência está investigando&nbsp;&nbsp;Assine AbrilCreatina além da academia: 3 benefícios que estão chamando a atenção da ciência | SEGS Portal Nacional de...&nbsp;&nbsp;SEGS Po",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOWFXeUxvVjVLNjc5dmZ5TmJra3NMYkRndWh2a2wwRnJPYVJLd2ZLMjE3VXFVNDU5amNaTlYtQlhHZlVaLVhacG50Y19BUkIwTUNWWkJjOXBHSzh1NDhGVkZlU0h0TlBBWXFSdEpWdmdIZUdBNEV1S1lyTC1yRV82amNITHc5Y0RIZzhmYV9YRUFYN1VOLXJ6RlVNV3FpMVJxY1REc3ZmMVhNa1V6aThFVHNlTkthS05mYnRV?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "350e1728aad2",
       "title": "'Fiz quimioterapia por 11 anos para tratar um câncer que eu não tinha' - BBC",
       "published": "2026-09-16T10:24:56+00:00",
       "summary": "'Fiz quimioterapia por 11 anos para tratar um câncer que eu não tinha'&nbsp;&nbsp;BBCVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
           "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WV2N3alR2WGI1T0o3c0dvZ2E2Y25GRzd5bERpeXNsYXZjenIwcHprVngyeXZKZmduc2JOMnU2SThxVU02cGptUUxqSU85UU9TOC1RNGs1eU9VckhPT0VwLVVPcw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WV2N3alR2WGI1T0o3c0dvZ2E2Y25GRzd5bERpeXNsYXZjenIwcHprVngyeXZKZmduc2JOMnU2SThxVU02cGptUUxqSU85UU9TOC1RNGs1eU9VckhPT0VwLVVPc9IBaEFVX3lxTE16dVBRZUF4b09SZ3h5WUdPM0poWThXSy03M2JjUEY5OEhST0thRWRydE5rUkFaVDN4dVhXMXNreWVjeVFsb2liUXQwZkg4cWdveG5feGJWaUF5VFFoQ0hEeXY5T1liT0NK?oc=5"
         }
       ]
     }
