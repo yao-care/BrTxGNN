@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-22T20:59:24.490785+00:00",
+  "generated": "2026-09-23T03:49:04.878711+00:00",
   "count": 3,
   "news": [
     {
@@ -29,6 +29,65 @@
             {
               "slug": "tapentadol",
               "name": "Tapentadol"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "506e9024b9c5",
+      "title": "ES recebe vacinas contra pneumonia e meningite para idosos; veja quem pode ser vacinado - Folha Vitória",
+      "published": "2026-09-21T18:45:02+00:00",
+      "sources": [
+        {
+          "name": "Folha Vitória",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMXowZ25WSjZQdEF0SWhOenpINENyNWthS1EyZmJFTDFDOE9NOTlVVEdRYVpLSUdva3d4WEJIUXZLZ1Z3UjdIWjQxel9sR3lvQ2Npc0lMWkk1US1ucVJsd3dIU0o4QnVMem1MN08taHFBNTBybDZDa3RqUUszZnVzSnpldjlPeVg4RXo0YnBDNExvZjBSWG5iMzFhSll2ZXQ5TkV4OF9Fd2w?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "pneumonia",
+          "keyword": "pneumonia",
+          "related_drugs": [
+            {
+              "slug": "ganciclovir",
+              "name": "Ganciclovir"
+            },
+            {
+              "slug": "clobutinol",
+              "name": "Clobutinol"
+            },
+            {
+              "slug": "tazobactam",
+              "name": "Tazobactam"
+            },
+            {
+              "slug": "oseltamivir",
+              "name": "Oseltamivir"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "infecção pulmonar",
+          "keyword": "pneumonia",
+          "related_drugs": [
+            {
+              "slug": "ganciclovir",
+              "name": "Ganciclovir"
+            },
+            {
+              "slug": "clobutinol",
+              "name": "Clobutinol"
+            },
+            {
+              "slug": "tazobactam",
+              "name": "Tazobactam"
+            },
+            {
+              "slug": "oseltamivir",
+              "name": "Oseltamivir"
             }
           ]
         }
@@ -80,65 +139,6 @@
             {
               "slug": "brinzolamide",
               "name": "Brinzolamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "b0d05dc0029d",
-      "title": "Rio começa a vacinar idosos a partir de 85 anos com Pneumo 20; veja onde encontrar o imunizante - O GLOBO",
-      "published": "2026-09-21T17:14:26+00:00",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRDBHZU1QZzNTV1lsYm8tZXR2OW1MTHdMZHp4SVVuM1FWM1dEV1ZicXA3R0hvOVE1RXplNzhnYTRYYTkyMEp3Vzc3cldJLVVFTk1kTDlKajUyd0dqUDljaEYyTC1MY0RNZkJXOE1qMVN3THNBWjlUTjh1MmNna3FlaEV0a1FkLVBkM3htbUZlNmZ0V0ktaUJjcllfYlI1RTRDQURJSlB5TGQ4S1FnQ01UOHItWXpRWlFieHU3Z0VSLVYxOE1GV3IwWFR4Uk9laW5pVk92UW9oOEtaTXBwMTduMmJ30gHwAUFVX3lxTE1wZlVTZ0RhTXlFTEJ6NWVzUzRkMzZydlpaRXB2WFlKb1A3U19BdGtOd0VxRzREeXJyTU9rS2FWdDR6cTdmN0o3YldsSHVJQTB1VTJtSUoyd0FrZjRLZU1PZHRVN1g2ZXZUZmk2N2gtdy03S2VHNWRaU1ZHSmM1eERwaVdERlZBMG9BdVBQUjNXN3VGcXc4ZnVYbWtXbkUzalBSTXQzWDBHcVJYRzk0bk1ZZEdWb2FTZHZRbWYwUFF2ZjZPeWRDdXpmSkt3TXU1ZjlRQlFQc3hCTEgwMEUxUmlhMDNOaVBLbVJfQmFfNjRFdg?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "pneumonia",
-          "keyword": "pneumonia",
-          "related_drugs": [
-            {
-              "slug": "ganciclovir",
-              "name": "Ganciclovir"
-            },
-            {
-              "slug": "clobutinol",
-              "name": "Clobutinol"
-            },
-            {
-              "slug": "tazobactam",
-              "name": "Tazobactam"
-            },
-            {
-              "slug": "oseltamivir",
-              "name": "Oseltamivir"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "infecção pulmonar",
-          "keyword": "pneumonia",
-          "related_drugs": [
-            {
-              "slug": "ganciclovir",
-              "name": "Ganciclovir"
-            },
-            {
-              "slug": "clobutinol",
-              "name": "Clobutinol"
-            },
-            {
-              "slug": "tazobactam",
-              "name": "Tazobactam"
-            },
-            {
-              "slug": "oseltamivir",
-              "name": "Oseltamivir"
             }
           ]
         }

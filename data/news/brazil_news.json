@@ -1,15 +1,39 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-09-22T20:59:22.969152+00:00",
-  "total_fetched": 91,
-  "unique_count": 91,
-  "health_related_count": 41,
+  "fetched_at": "2026-09-23T03:49:03.527624+00:00",
+  "total_fetched": 98,
+  "unique_count": 97,
+  "health_related_count": 48,
   "news": [
+    {
+      "id": "907478283183",
+      "title": "Câncer de pulmão exige cuidado além da prevenção - Estadão",
+      "published": "2026-09-23T01:49:59+00:00",
+      "summary": "Câncer de pulmão exige cuidado além da prevenção&nbsp;&nbsp;EstadãoUma exposição invisível, um impacto real: o impacto do fumo passivo na incidência do cancro do pulmão&nbsp;&nbsp;News FarmaTabaco é culpado por 90% dos casos de câncer de pulmão no mundo&nbsp;&nbsp;Jornal da Franca8 em cada 10 casos de câncer de pulmão em SP são descobertos em estágio avançado, revela estudo&nbsp;&nbsp;O GLOBOMulher e o câncer de pulmão: o perigo do diagnóstico tardio&nbsp;&nbsp;VEJA RIO",
+      "sources": [
+        {
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMjN1NFEydDVJZm5rNWY1anVaUHhZdENKMUNra0VtMzVNMFJiempFYXozN3FFaE4zNHNCeVZEbXg0T1FFWmVkX2l3Sk91dm43TnhSQ1ZRNzlzUlhZb3VqajQ2dkVrSmlCd1NGdkk4a05wUjB5Q0w5VG94cGxtUmtERDZkY3Z6OGVRczFBbGhyVWVuQVHSAZgBQVVfeXFMT3VjR0QzdkRzQkRhWmNQZVpZSllWSlEyLU5QRUltcTlMQ0Njb0pjQzFsQ0xsRVp3T2ZUX3NXM1NMRXBzNERlY1dzV0NhUE05TkFGZUc3OTVwYllNcXlJTEJaWHd2U2ZaU2djeUZJcHZmSkFkN3FhaGFvX3JXMWxqYXpNNEIwYmZZaWZPUmRUN1lVMUh1MXNSRmg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e022a32f313f",
+      "title": "É possível prevenir demências? Neurologista fala sobre hábitos que ajudam a proteger a saúde do cérebro - GZH",
+      "published": "2026-09-22T22:34:00+00:00",
+      "summary": "É possível prevenir demências? Neurologista fala sobre hábitos que ajudam a proteger a saúde do cérebro&nbsp;&nbsp;GZH",
+      "sources": [
+        {
+          "name": "GZH",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUXF3ZUV5M245dGFPQU9NSThSM2c2bWpmZzZiak9fUFNJN2dqSzRXaDdvNDdOOWlqSHVleExjQWhjMU1wa2FVa3RwWXQ0dFQ1aWRHc3BlVjhGOFlwTnNfTzVOUVMtTmNKQ3JRc2tkM1diZHEwTFNUclExWDJad1ZiV3RldjNnUnJtR1VHVHFJd2Ribk4yd2tEUzlYdTZUdlpJdVN2elJ3V2F4ckF6VGVnTmFLMkQ1NFFGaGt3dXNEd3VvZGRad19EbFJUYnoxNE9Ec0NtVGRHOWZpMjBQandfTVdEYUlRMlZidk1xLVl3?oc=5"
+        }
+      ]
+    },
     {
       "id": "3d667d9e76aa",
       "title": "O que é a ‘hanganxiety’? Neuropsiquiatra explica como o cérebro reage depois de consumir álcool - O GLOBO",
       "published": "2026-09-22T20:23:21+00:00",
-      "summary": "O que é a ‘hanganxiety’? Neuropsiquiatra explica como o cérebro reage depois de consumir álcool&nbsp;&nbsp;O GLOBOAcordou ansioso após beber? Álcool pode provocar a chamada 'hanganxiety'&nbsp;&nbsp;TerraÁlcool pode piorar ansiedade, depressão e insônia; veja quando o consumo vira um sinal de alerta&nbsp;&nbsp;Jornal CorreioVício ultrapassa a saúde e afeta trabalho e família&nbsp;&nbsp;Maringá PostConsumo frequente ou excessivo de álcool aumenta sintomas depressivos&nbsp;&nbsp;Estado de Minas",
+      "summary": "O que é a ‘hanganxiety’? Neuropsiquiatra explica como o cérebro reage depois de consumir álcool&nbsp;&nbsp;O GLOBOAcordou ansioso após beber? Álcool pode provocar a chamada 'hanganxiety'&nbsp;&nbsp;TerraÁlcool pode piorar ansiedade, depressão e insônia; veja quando o consumo vira um sinal de alerta&nbsp;&nbsp;Jornal CorreioVício ultrapassa a saúde e afeta trabalho e família&nbsp;&nbsp;maringapost.com.brConsumo frequente ou excessivo de álcool aumenta sintomas depressivos&nbsp;&nbsp;Estado de Min",
       "sources": [
         {
           "name": "O GLOBO",
@@ -21,11 +45,23 @@
       "id": "dc70c1e711b6",
       "title": "Anvisa aprova novo medicamento oral para câncer de mama avançado - Folha de S.Paulo",
       "published": "2026-09-22T19:56:00+00:00",
-      "summary": "Anvisa aprova novo medicamento oral para câncer de mama avançado&nbsp;&nbsp;Folha de S.PauloNovo medicamento para câncer de mama é aprovado pela Anvisa&nbsp;&nbsp;O POVOAnvisa aprova novo medicamento para câncer de mama&nbsp;&nbsp;R7Novo remédio para câncer de mama avançado é aprovado no Brasil&nbsp;&nbsp;MetrópolesAnvisa aprova camizestranto para câncer de mama avançado&nbsp;&nbsp;Afya | Home",
+      "summary": "Anvisa aprova novo medicamento oral para câncer de mama avançado&nbsp;&nbsp;Folha de S.PauloAnvisa aprova Etcamah, novo medicamento para câncer de mama&nbsp;&nbsp;Campo Grande NewsAnvisa aprova novo remédio oral para câncer de mama avançado&nbsp;&nbsp;band.com.brNovo medicamento para câncer de mama é aprovado pela Anvisa&nbsp;&nbsp;O POVOAnvisa aprova novo medicamento para câncer de mama&nbsp;&nbsp;R7",
       "sources": [
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcGFTWlVJUExjTmk1YWduemZSS21FMGZtRmdUcTV6bnlfS3VFcWlOZ0VlMUF4bUlwYVh5YW1uV2RxNHRuRXloNkhBUnk4SlZwMzRWTk1tY3R6VW5oNDhSQkxBZ0pZZGx0Vk9WVDJzbDZnVDdLRDhGbmUwd0N4RVBUWklmdUJmY0NqY0FnSlo5dTBaNEI0cGpzQy1MYXgxckJjdy1JOEVqenlJS2UweVVGeU5NZUpsVFEyTXNqbmp3dVRXNkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ba3893f40958",
+      "title": "Lúcia Helena: Prevenção do câncer: o brasileiro se acha mais saudável do que é de verdade - UOL",
+      "published": "2026-09-22T19:17:01+00:00",
+      "summary": "Lúcia Helena: Prevenção do câncer: o brasileiro se acha mais saudável do que é de verdade&nbsp;&nbsp;UOLMaus hábitos entre brasileiros acendem alerta para câncer de estômago&nbsp;&nbsp;CNN BrasilBebem, estão acima do peso, não fazem exercícios e se consideram saudáveis: pesquisa revela hábitos dos brasileiros que aumentam o risco de câncer&nbsp;&nbsp;Jornal CorreioMaioria da população brasileira se acha saudável, mas um estudo discorda&nbsp;&nbsp;Correio de CarajásBrasileiro se sente mais saudáv",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPT1hwNnlEb08xX0Q2bXp4SlNyQnZoclNud3J0Z1M4SEZSeUZPdEoyNFBSQWhEdzdDU0lTakE5M1NnRGNmMVZUcFBzMHl3UE1VMHJGNE9NZm9PNU9yN0s3VHhhNndWWWt6MnNDRlJQVUgwOE55MVUzUlY1VnRCNjVHOEplX0YzNURJeTdyc0ZRalQ5NFRvVFR2S28wT0pSLThCN0ZSMXY1NHo4TGlKOUZUbzlGbUt2RTdzQzZ6dk5FMHU0Mzhvemc2MDdEb0FnOVZJeDJHNmFxaUs?oc=5"
         }
       ]
     },
@@ -42,14 +78,14 @@
       ]
     },
     {
-      "id": "0fb382728d28",
-      "title": "Carlos Nobre: Seca, aridificação e risco de desertificação no Nordeste do Brasil - UOL",
-      "published": "2026-09-22T16:00:00+00:00",
-      "summary": "Carlos Nobre: Seca, aridificação e risco de desertificação no Nordeste do Brasil&nbsp;&nbsp;UOL",
+      "id": "d5daa5a7467a",
+      "title": "Depressão atípica: por que ela pode passar despercebida - Portal Drauzio Varella",
+      "published": "2026-09-22T18:05:28+00:00",
+      "summary": "Depressão atípica: por que ela pode passar despercebida&nbsp;&nbsp;Portal Drauzio Varella",
       "sources": [
         {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOVF3eE5pLUZEX0REUFlFTXRDVU5vT014cGFkTXVybHdiTnZGdXZQd0FRb0lVd2trZ1QzNENnbmI5WHBIb0E1VGJFN18zS1Uya2hyYTlEbkRDRFNVNG5pXzB0UFYzd0ZXTlJNcDFzdDBfUnUwM0NVSDhlc0F4Qm9nUjlpUHBoaUtqQm04VGtBUGlsVVJWajhSS1BSV3NyNkFNUVA0WjBlVW41cnN3NjdXcTlRMkZ0NnJBRWhnZkd1SS1HQmNEOW1DTQ?oc=5"
+          "name": "Portal Drauzio Varella",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOFlrM0NrbWZ2NDBoR1NEOElqdERyUFFMU1BtVVhnd1BsQUVyckhzZjMzWnExdFZZQjFqbHNoSDRQcE11TzJMX3Y3bDEzMjY4WmJsZWFGOTRXbzFnUTRaZHRFbzJPQmRoNVZ0WTZBQ1lqOUVXbGhUeDRTWUZHSlFZaE1kWV94YjAxcGk2SkxtN01paHJLNF9tVi1oeDBDU1hMWEVXNw?oc=5"
         }
       ]
     },
@@ -66,13 +102,25 @@
       ]
     },
     {
-      "id": "f93028b7bb7e",
-      "title": "Excesso de proteína pode estar fazendo mal ao seu intestino; entenda os riscos - gq.globo.com",
-      "published": "2026-09-22T14:24:36+00:00",
-      "summary": "Excesso de proteína pode estar fazendo mal ao seu intestino; entenda os riscos&nbsp;&nbsp;gq.globo.comO que acontece com o corpo que treina, mas não faz ingestão de proteína&nbsp;&nbsp;Assine AbrilMais proteína ajuda na menopausa? Entenda o que os estudos mostram&nbsp;&nbsp;GZHWhey pra quê? E pra quem? – Chico Junior&nbsp;&nbsp;Brasil 247Euromonitor projeta alta de 11% na demanda global por proteínas até 2029&nbsp;&nbsp;Portal Revista Kdea 360",
+      "id": "f2a6b345324c",
+      "title": "Musculação faz células de gordura encolherem antes mesmo da perda de peso, mostra novo estudo - O GLOBO",
+      "published": "2026-09-22T14:30:14+00:00",
+      "summary": "Musculação faz células de gordura encolherem antes mesmo da perda de peso, mostra novo estudo&nbsp;&nbsp;O GLOBO",
       "sources": [
         {
-          "name": "gq.globo.com",
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQmVadzlFbDNBV2wtdnlVVlZ2dWV5blNUM3ZXbGpKaTlhTThhMFJ6bXdVb3FkTEV3SGFLMHB1WGpvTWhoZUgtblVoeDBNUHhkQ24yQnJTTlcwckQ2YVVIY3VPUjNBY0RKNldzeWNuYlBYejBWdFJ2TEV4cTg1c2xNamc4M05yMHhNQnJhUHV5QlQxbmJUbHBYVE5KeVhfb2VZUlhkNDJOYVpSSldzblpVTHNWdGhta2VDVzNHbUpWYk1PUlhldV9PLWRBanV0bHh3dzZSb1V6TlVqN0o0WklTcDlR0gHwAUFVX3lxTFBkUmVLYVUzM1J4Tm5zZlNOVXVkSEg3aHJnaFpHMVlTa0ZWNDl4LWVHbUFYdU1KY1dhX3VOaktUU0M0dDN2TzhTYjA2SWN2MW1QQnRBSHBQMlV0bmdpaktQMmN3OG5PRDVRdURoS29KWHZJa3V2c29GVW9DMzFFUDhKbjVmV2dxVC1QZnVEbVBTdE5vN3lFa2lkTEw0X3psd2FrSU9jM3ViSDdES2NMSW10dlJXeWZSWTVfYVR1d3RxTnktZ0xHc2d6RXR2UjJPeHZTZHkzTmdFaV8xd3JsLUdseHd5SjdMWll4dldTMHA4UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "af9c7d6b328e",
+      "title": "Excesso de proteína pode estar fazendo mal ao seu intestino; entenda os riscos - Globo",
+      "published": "2026-09-22T14:24:36+00:00",
+      "summary": "Excesso de proteína pode estar fazendo mal ao seu intestino; entenda os riscos&nbsp;&nbsp;GloboO que acontece com o corpo que treina, mas não faz ingestão de proteína&nbsp;&nbsp;Assine AbrilMais proteína ajuda na menopausa? Entenda o que os estudos mostram&nbsp;&nbsp;GZHWhey pra quê? E pra quem? – Chico Junior&nbsp;&nbsp;Brasil 247Euromonitor projeta alta de 11% na demanda global por proteínas até 2029&nbsp;&nbsp;Portal Revista Kdea 360",
+      "sources": [
+        {
+          "name": "Globo",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQnV1Z1JvWlBSQ0JBQUZneEM0aGIwVlVCVThEZjdrUVZ4QlBFT0VKMlU0UUxYRFdXUWdXT1ZnTGpNUnB3TGFXeXNUNDFPYW5qNzFJSFVTX3hsWW1zeVR3eEpxWVAwSTUyczlmTGdjaHZwdmdPOWoxQ0R4MFM4X3EyM0tfMTVRcGhxUU5RWkt3TFVKWEJkcjJFc05OcVl2NncyVXJ5ekNwUFNkaU94RnhxUHg3X1I4Y3hESkRnaHZWeFBXMmRp0gHTAUFVX3lxTE5LYTVJTnV2WDlHZ0kyejN6Z21tT2xMY1pIcXRJMDZ6MzJ2X2RuV2ZUZThSNGhZRy1JOU5aVTgtbkxSLUotVlN1TFFZLWJJcDhDdzRCUFZPN25NSmprcHJZbnlVNVJJczE0Z3QzOW96QmQ2OWNoUndFNDBYNVpTM1NIdDZfemppbksyNzlwQ3JyZjJLTWVTcGxVWVlNYnZJN0k3bmdVUVlXOFRnQlB1RGpwY3pobGlIZFdsNW8zODMzdE9TSDFHcmlNWnNBZTlxdzd4VEk?oc=5"
         }
       ]
@@ -102,26 +150,14 @@
       ]
     },
     {
-      "id": "5f4595ccf296",
-      "title": "Os números das pesquisas precisam ser corrigidos? - Gazeta do Povo",
-      "published": "2026-09-22T13:04:00+00:00",
-      "summary": "Os números das pesquisas precisam ser corrigidos?&nbsp;&nbsp;Gazeta do Povo",
+      "id": "50be5529e581",
+      "title": "8 conservantes alimentares comuns são associados à pressão alta, em estudo inédito; veja lista - O GLOBO",
+      "published": "2026-09-22T13:22:25+00:00",
+      "summary": "8 conservantes alimentares comuns são associados à pressão alta, em estudo inédito; veja lista&nbsp;&nbsp;O GLOBO",
       "sources": [
         {
-          "name": "Gazeta do Povo",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLXdBN3FydkdHVTJQM1dWcXo2eS1OYXBrdW13cGZFMVYzV3ZrRE53YlE2MlJfTzZMdEg5a0k1WW5PVEtzeE9vaXBPa0tPZFd5TnZNUlpQUjZWQmlaY3lEVFgyb2s1Z05UMXN3LWduWnVEcHkxVHdaV0tKWElreVQtdVlWZzNVbmhMZHp2dU8xdlNOcVRpSzloTkdtZlVOVC1sRV80?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "38730cfe54fa",
-      "title": "Astrônomos captam sinal de rádio vindo de exoplaneta gigante pela primeira vez na história - Olhar Digital",
-      "published": "2026-09-22T13:02:00+00:00",
-      "summary": "Astrônomos captam sinal de rádio vindo de exoplaneta gigante pela primeira vez na história&nbsp;&nbsp;Olhar Digital",
-      "sources": [
-        {
-          "name": "Olhar Digital",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTC15WmFFVWFYMHd2ZjV1Sk1fN1BaU0wzbmlLaDctV0Z4UGd5ZkNhdE1OTnpETnBoUkNGZDVzekh3aWhPQjh2azV2dzlRTVFYT01LaVJDR3RBWlRwZ1ZJdjFMcnFHYm9qVzVVRUM5eTRESEMwdThVUG9MR1A5dVJMNE5QdEpWNzRuM3RLaEJidVhQTjYySHRmX0Nqd2VKckZ0X1JNUDYzYWotVDR0WkVmdEZ2ZDltSF90S1JIbG04aFhXMlZnRVAzVlR5Z2V2ajNpcmtrNkVzSk1QSjg3RXpfczNOVVBocmgyVjlpTXpqNWZPOUJQVGV3QkJqUQ?oc=5"
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX1FfRVludlc2MERKalBpeXdTOVNlVFc1d1Jua2wxVTFyb2lYdlVBSS1aSC00OVpia3NuNUtnemRfcHo1bkJ1Uy1ObG83ZW1GYmo2RHFvSnVxaG1CT3NaR3VRMExsY1hkMDZiQzdFbWgtT0NIRjVtWWN3a240M2Z3UWg0NzBhZVVEcTVqczlEVXFYUFFMdVNVZjZQcFVoT3VXSTY3c1diN2pJUExIZVBqMXowMW1WaU5UYWNoN1ZnWGN4eERmQkl6eVlkcjVJRFhNWVQ40gHiAUFVX3lxTE9JUjM4RkhQRTFuQzA5UEs1MzhlenlXN3lkbXdldFVUSWlXckFrdjdOeVNBcFN1bWg1Tk1ITjk0QUFwTW0wLWczcVJYX3VuWnVTY2QxNG1SUUNwcEFzZjMtY291d0s0bFViTjN0ZUFFQTVxUkVNcXRxNFU2cld4VmQzdEdpTTNLQlNsODdqTHhIZ01vMVlFVkFyR1dRdFJjNzlxb1hHelNQNWtEMGZpNmc3V1FJRTNSdUFoTTF3dHE3SVBCODRib3R3b3dnc3Q0Z0Y0YTRJTTJvN21PQ3hucDgtakE?oc=5"
         }
       ]
     },
@@ -138,13 +174,25 @@
       ]
     },
     {
-      "id": "d23f4b86caef",
-      "title": "Vai começar a correr em provas? Saiba os riscos e como se preparar, segundo especialistas - gq.globo.com",
-      "published": "2026-09-22T12:00:09+00:00",
-      "summary": "Vai começar a correr em provas? Saiba os riscos e como se preparar, segundo especialistas&nbsp;&nbsp;gq.globo.com",
+      "id": "37190cbd62c5",
+      "title": "Astrônomos detectam pela primeira vez sinal de rádio emitido por planeta fora do Sistema Solar - Época Negócios",
+      "published": "2026-09-22T12:17:18+00:00",
+      "summary": "Astrônomos detectam pela primeira vez sinal de rádio emitido por planeta fora do Sistema Solar&nbsp;&nbsp;Época Negócios",
       "sources": [
         {
-          "name": "gq.globo.com",
+          "name": "Época Negócios",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNSFc3eGt5M21jdVAweEJ0UUw1TF83NXpRbXZ6MnIxTDNoVDFHb0d3alpVVl9VZ2k3TDZwZVltMm9nOGt4elhCMUQ3djVPWklhY0VzZHA0akZDRTFkQ1ljZ0Q4aGRSeUlZcG5fdHp1QXc5Uk85VnhNcXdmV01oaGRWVlVid0IweUVmbzAweVZwa0RZWHJVbk9zNVI1TFFQTW5EakthdlF5MEE0ZUViYW9LYWM5M3RnWjJJSFZ1eEhUWlFvbkIzRVN2aVRKWTN2UzJfS0RGc0FaQTJ5QjdmYmFrWlBHR1ZDcGZkSFo1WS1RdlZrbWlIalYw0gGGAkFVX3lxTFBLN2pPQVB2QnJ5VExaSVdwTFppTzAtLTZWOEs2TzJ5Z01HVnNxeC00WjVWdDVtT0E5X1dnSV9fVVpLemJLdnFkNC1NM2JHODdCeVN6VE44UzY0UkRnNlZfNG9pLUVBclRvYm1zRmxRWElrYm5nOWNvSF9BMmZuVUtKQUJNUUJMWDVYRUdEeXdfV3EtaktFYUE1M2JPVlJZamEtcERtY1EzMmlXcEkwdGJPLTJwVzlJUnJtOFNsQ2JIOFF0YkxnMFlPOTE1MEhMMDBrdWZRWVBzR2UxVWtiN0VqRHdLS1dYeGdGcUJVa2RoSm14cE94OW05YVFGX082eVFhaGdRbUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "980c2275550d",
+      "title": "Vai começar a correr em provas? Saiba os riscos e como se preparar, segundo especialistas - Globo",
+      "published": "2026-09-22T12:00:09+00:00",
+      "summary": "Vai começar a correr em provas? Saiba os riscos e como se preparar, segundo especialistas&nbsp;&nbsp;Globo",
+      "sources": [
+        {
+          "name": "Globo",
           "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZjA5V2x4d29odldLYTdkcFh6VXNvNXpqVkJ5a1ppR2lXUU5wcFFOVDRhNElGbzR1c0hESXJsVElwMHpDWERnYUFSUGpIcXpJWk5YWmR1Vjh6ejdTTC1IUWRZa1U2cjlwTXVZOUtCYmtVcWxTNndfVXpTdnlzZG9tLWR0UDBxVEVZeUFtc3hBMEVzX2k0NnF5RHhrYXNLT045QmZNcHRBOHM5bkxocm9RMTFISUtscTNJa2lJMDc4Qm4zbklUcXVINGhhSGNpNXpCOG41VFhZTVpheF8xMzVz0gHuAUFVX3lxTFB2OGNGZDE4UGVHQm9TbVpjcy1RWnNtTFdxQ2k4bXR3bUY2RGY4UnBCZmdSa0lfbVpPc0ZhZVE5RGcyMXNLMndJMTRQVmtKZDZ0Vl9PejBSSGcxendxa3RVcm1jam9lRXM5cHlTbVo4TmJtdi1YcUQ3c01qYVZ4Z1dvX0NkMWhkUm9DRUlNNUk2OHRNLWd2dmZ0QTNBNGhBUG1OUGt6MkNiN2d5MEhOR01QdHdrNFNzVnFaYjV1S0tGaHowSFVJeW9IWkVZd0N5ODhXeUh6YkFJb1RJcTNtdVF6N3pLUU1JOU9lZjJMa3c?oc=5"
         }
       ]
@@ -162,10 +210,34 @@
       ]
     },
     {
+      "id": "49675bea9442",
+      "title": "Planos de saúde terão de cobrir DIU hormonal para pacientes com endometriose; veja os critérios - G1",
+      "published": "2026-09-22T10:05:39+00:00",
+      "summary": "Planos de saúde terão de cobrir DIU hormonal para pacientes com endometriose; veja os critérios&nbsp;&nbsp;G1Planos de saúde passam a cobrir DIU hormonal contra endometriose&nbsp;&nbsp;Folha de S.PauloEndometriose: planos de saúde vão cobrir DIU hormonal para mulheres com a doença&nbsp;&nbsp;VEJAPlanos de saúde têm novas coberturas obrigatórias para DIU hormonal, remédios e exames&nbsp;&nbsp;TerraANS obriga planos a cobrir DIU hormonal para endometriose&nbsp;&nbsp;Campo Grande News",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUHA3U2wxemRyaTBhS1l4a2kzNHhJai1VRUY1c2x2cHdTZkNHTmFROGxQRzV6cHd2M0FEbFFDdzZVMmVkYU1MRFZ0a2RiVFR0blFCeVg5LUJfTUVZOE1fLWpkWi1LQ3VJck5FLV8yTjlVNkdaRnJnYTVESTNVbHR4QUg4Vm9FdkZzWVU5OEhnM2dNZ0gybkVUNzhocWdtR3ktU2llSVBNM0pkcjRhUlR2VGZaTEZ6NjVBRXpnRkl0YjJoQ3NpWTdiYkE2V25kRDVVak5pMTVORy1qdC05Nklv0gHuAUFVX3lxTFBFckJ0RDJDLVJaRXR1Y2I0U1hRV3ZuZlRNcHRKTFBRZzRSdDE0VXI1a00xa0V4SmJkUURObmdaNFRsZXBGbmVvWDY0c0tmQV9ZUG1NaHZ2My1ZTENhbWhza2pmblBWR2p0U2M1c3A5ZWZXRjlkTURROXNqeElaazM1ejJXQWVSMmJiU2NVQ1NhVFJQTEJKTnhrREFpZkJaa3E3Qm9iZFBfbDhOeHRUQnZxNlhNMkpqM3hmeTYxTFV3b0x4UmpySDltc1dQSjA5MVNudkU1RkVkMVd4a2ZPQWNyeXNYSmZvSV9Ral9CX1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "65dd4b33227c",
+      "title": "Experimento da NASA levou 3.300 abelhas ao espaço - iG Último Segundo",
+      "published": "2026-09-22T09:00:00+00:00",
+      "summary": "Experimento da NASA levou 3.300 abelhas ao espaço&nbsp;&nbsp;iG Último Segundo",
+      "sources": [
+        {
+          "name": "iG Último Segundo",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQT2N4Y3VERnRMSFVuQnpQN3dUREs4TDJQMmZ3NEEzWVZBWlN2YkV2eE83MWdPNkdGYU40YXlteG1iWVBlVGNidThMNWVnZ3FUa2lrWFk3MmF3TlZCS1lMN0xObWUyYWZjVUwtdTdRd09TZGctajB2ejdzakRHVzZFdC1HckFpcXQxS0hSeVY5eHEwUG8yVWJveXZVckZmTXdWU05tS25EX07SAa4BQVVfeXFMTTVmdlYtUEp2WC1MVWtOXzJuVVZHOXBQNEtkUlFPT2xZU3lMZkJDRmV4QUNwd0pxMEhtU0dzd1c0TC1uRmNVU01kRGVsWDVzZG5ROGFrRjlGOHhrRGJmalNtUl8tandHbW85N0hkdWZDTG1Mekx5V0NnSGtCUEZ1V00xTXVrX0pwTUVuQkZoWTFjdlIwRjZGYW4yZ2xUSzZ3LWloaTZQcExPdXN4X2N3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "6ab0a9c306ce",
       "title": "'Tem cura': confusão com doenças comuns atrasa detecção de câncer infantil - UOL",
       "published": "2026-09-22T08:38:00+00:00",
-      "summary": "'Tem cura': confusão com doenças comuns atrasa detecção de câncer infantil&nbsp;&nbsp;UOLSetembro Dourado: mês de combate aos cânceres infantojuvenis marca avanços na prevenção e no tratamento&nbsp;&nbsp;TerraSinais que parecem comuns podem esconder câncer infantil, alerta médico&nbsp;&nbsp;Gazeta DigitalProfissionais de saúde participam de capacitação para diagnóstico precoce do câncer infantojuvenil&nbsp;&nbsp;Prefeitura Municipal do NatalCâncer infantil: por que a doença é diferente em crianç",
+      "summary": "'Tem cura': confusão com doenças comuns atrasa detecção de câncer infantil&nbsp;&nbsp;UOLSetembro Dourado: mês de combate aos cânceres infantojuvenis marca avanços na prevenção e no tratamento&nbsp;&nbsp;TerraSetembro Dourado completa 10 anos em Bento Gonçalves com alerta sobre câncer infantojuvenil&nbsp;&nbsp;LeouveCâncer infantil: por que a doença é diferente em crianças e adultos&nbsp;&nbsp;G1Secretarias de Saúde, Educação e Assistência Social se unem ao GACC-RN em palestra sobre câncer infan",
       "sources": [
         {
           "name": "UOL",
@@ -225,7 +297,7 @@
       "id": "9083f9b50889",
       "title": "Ciência busca novos tratamentos e exames para cânceres causados pelo HPV - Folha de S.Paulo",
       "published": "2026-09-22T02:00:00+00:00",
-      "summary": "Ciência busca novos tratamentos e exames para cânceres causados pelo HPV&nbsp;&nbsp;Folha de S.PauloNovo em Folha: Especial discute avanços e desafios para prevenir, detectar e tratar doenças causadas pelo HPV&nbsp;&nbsp;Folha de S.PauloHospital Araújo Jorge passa a oferecer testes moleculares de HPV a 1.200 pacientes do SUS em Goiânia&nbsp;&nbsp;Jornal OpçãoPrefeitura participa do ‘Setembro em Flor’ em alusão ao Dia D de vacinação contra o HPV&nbsp;&nbsp;REDE BRASIL DE TELEVISÃOMarituba é pione",
+      "summary": "Ciência busca novos tratamentos e exames para cânceres causados pelo HPV&nbsp;&nbsp;Folha de S.PauloNovo em Folha: Especial discute avanços e desafios para prevenir, detectar e tratar doenças causadas pelo HPV&nbsp;&nbsp;Folha de S.PauloHospital Araújo Jorge passa a oferecer testes moleculares de HPV a 1.200 pacientes do SUS em Goiânia&nbsp;&nbsp;jornalopcao.com.brPrefeitura participa do ‘Setembro em Flor’ em alusão ao Dia D de vacinação contra o HPV&nbsp;&nbsp;REDE BRASIL DE TELEVISÃOMarituba é",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -249,7 +321,7 @@
       "id": "6907d59b4da2",
       "title": "Demência cresce na América Latina e não é explicada só pelo envelhecimento - Folha de S.Paulo",
       "published": "2026-09-21T22:00:00+00:00",
-      "summary": "Demência cresce na América Latina e não é explicada só pelo envelhecimento&nbsp;&nbsp;Folha de S.PauloSaiba como a doença de Alzheimer afeta a memória&nbsp;&nbsp;G1Ampliar a conscientização&nbsp;&nbsp;Portal da AlegoHoje é dia de Refletir Sobre as Demências&nbsp;&nbsp;Correio BrazilienseAlzheimer pode ser prevenido? 14 fatores que ajudam a reduzir o risco&nbsp;&nbsp;CNN Brasil",
+      "summary": "Demência cresce na América Latina e não é explicada só pelo envelhecimento&nbsp;&nbsp;Folha de S.PauloÉ possível prevenir demências? Neurologista fala sobre hábitos que ajudam a proteger a saúde do cérebro&nbsp;&nbsp;GZHDia Mundial do Alzheimer reforça importância do diagnóstico precoce da doença&nbsp;&nbsp;G1Ampliar a conscientização&nbsp;&nbsp;Portal da AlegoPrevenção da Doença de Alzheimer começa antes dos primeiros sinais&nbsp;&nbsp;Prefeitura de Curitiba",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -258,13 +330,25 @@
       ]
     },
     {
-      "id": "b134a7bcefaa",
-      "title": "Saiba como reconhecer sinais de câncer de cabeça e pescoço a tempo de curar - Rádio Itatiaia",
-      "published": "2026-09-21T18:57:27+00:00",
-      "summary": "Saiba como reconhecer sinais de câncer de cabeça e pescoço a tempo de curar&nbsp;&nbsp;Rádio ItatiaiaCancro da cabeça e pescoço: actor Rui Santos alerta para importância de diagnóstico precoce&nbsp;&nbsp;PúblicoRastreios e sensibilização para cancro da cabeça e pescoço em Coimbra&nbsp;&nbsp;Diário de CoimbraCancro da cabeça e pescoço pode ter taxas de cura até 90% quando detetado cedo&nbsp;&nbsp;SAPOCampanha promove rastreios ao cancro da cabeça e pescoço na próxima semana&nbsp;&nbsp;rtp.pt",
+      "id": "c72b18f0ffec",
+      "title": "Criatura com braços gigantes aparece na escuridão, assusta a mais de 3 mil metros de profundidade e mistério intriga cientistas e pesquisadores - Jornal Correio",
+      "published": "2026-09-21T20:55:00+00:00",
+      "summary": "Criatura com braços gigantes aparece na escuridão, assusta a mais de 3 mil metros de profundidade e mistério intriga cientistas e pesquisadores&nbsp;&nbsp;Jornal Correio",
       "sources": [
         {
-          "name": "Rádio Itatiaia",
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNVVhBbFVhS0xnRnVOR0xIOHBERXhSeUVRZ3FlRm96a0x3dGFCYWRfVEJrak4tWEtCWkR4U2ZsZWVRMEh5aUhuNDZnblFPZXhiSTFCRE9yRGRGcEg1Z19tTVJqZmliazUxOWpRdlZMWF9VZ0VoTlRUYjMxSTlMQ2syRzFPelBwUkk3Mk1tQS1yZXUxVkpJazVNbFdTUC16Qk9PVC11TDhKSHk3ZzZSaW4yc0loellTZW1DOUpIZldkTU1Fa3JsSnJwTFVOUVFpT0ZtMjNfM21qTTVuM1o2S2pOdzRLelJGTHhjTGVWc2Vnc0hXcDgwNExCWUVCR28tYjRvSWRoUV9LUlQ3QXdFcWNfQ2o5WDJQbFlu?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5a60d212f110",
+      "title": "Saiba como reconhecer sinais de câncer de cabeça e pescoço a tempo de curar - itatiaia.com.br",
+      "published": "2026-09-21T18:57:27+00:00",
+      "summary": "Saiba como reconhecer sinais de câncer de cabeça e pescoço a tempo de curar&nbsp;&nbsp;itatiaia.com.brCancro da cabeça e pescoço: actor Rui Santos alerta para importância de diagnóstico precoce&nbsp;&nbsp;PúblicoRastreios e sensibilização para cancro da cabeça e pescoço em Coimbra&nbsp;&nbsp;Diário de CoimbraCancro da cabeça e pescoço pode ter taxas de cura até 90% quando detetado cedo&nbsp;&nbsp;SAPOCampanha promove rastreios ao cancro da cabeça e pescoço na próxima semana&nbsp;&nbsp;rtp.pt",
+      "sources": [
+        {
+          "name": "itatiaia.com.br",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ0ZWMU12Slpwekc2bDA2eGxtWGtrTHhzNjNCQ3k4WjItR2Z3eVFUbUxLYXEteGdJTk43TU15T1lKdnVjZ2dBNjNqaE9id1QxUzJLM0FuNlJxdi1MVXpobFNKdHJyRzlzU2M4VEZockR6VjA1dXJ3Wkg5LXpZWXVfSWg2SU1uaUdmT0dET2hrelRNVVBUYlBVaHl2VkJXWTJWcTgyckUxZzM3b2Y2OXBnSg?oc=5"
         }
       ]
@@ -282,6 +366,18 @@
       ]
     },
     {
+      "id": "506e9024b9c5",
+      "title": "ES recebe vacinas contra pneumonia e meningite para idosos; veja quem pode ser vacinado - Folha Vitória",
+      "published": "2026-09-21T18:45:02+00:00",
+      "summary": "ES recebe vacinas contra pneumonia e meningite para idosos; veja quem pode ser vacinado&nbsp;&nbsp;Folha VitóriaPneumo 20 está disponível para idosos acima de 85 anos em Cuiabá&nbsp;&nbsp;G1SUS amplia vacinação contra pneumonia para idosos acima de 85 anos&nbsp;&nbsp;TerraGuarulhos inicia vacinação com pneumo 20 para pessoas com 85 anos ou mais&nbsp;&nbsp;Guarulhos HojeVacinação com Pneumo 20 é ampliada para idosos a partir de 85 anos na Paraíba&nbsp;&nbsp;Jornal da Paraíba",
+      "sources": [
+        {
+          "name": "Folha Vitória",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMXowZ25WSjZQdEF0SWhOenpINENyNWthS1EyZmJFTDFDOE9NOTlVVEdRYVpLSUdva3d4WEJIUXZLZ1Z3UjdIWjQxel9sR3lvQ2Npc0lMWkk1US1ucVJsd3dIU0o4QnVMem1MN08taHFBNTBybDZDa3RqUUszZnVzSnpldjlPeVg4RXo0YnBDNExvZjBSWG5iMzFhSll2ZXQ5TkV4OF9Fd2w?oc=5"
+        }
+      ]
+    },
+    {
       "id": "afd5a310c407",
       "title": "Um avanço na detecção do câncer de intestino - Portal Drauzio Varella",
       "published": "2026-09-21T18:05:49+00:00",
@@ -294,10 +390,22 @@
       ]
     },
     {
+      "id": "d0d717f391ef",
+      "title": "Sem diagnóstico correto, até dor nas pernas vira 'exagero' e orientação passa a ser dieta e exercício - Midiamax",
+      "published": "2026-09-21T17:30:00+00:00",
+      "summary": "Sem diagnóstico correto, até dor nas pernas vira 'exagero' e orientação passa a ser dieta e exercício&nbsp;&nbsp;MidiamaxMitos e verdades sobre lipedema: o que você realmente precisa saber&nbsp;&nbsp;Assine AbrilMédicos lançam protocolo de atendimento para lipedema no Recife&nbsp;&nbsp;fiquesabendope.comLipedema pode atingir uma em cada oito mulheres brasileiras e ainda é confundido com obesidade | SEGS...&nbsp;&nbsp;SEGS Portal NacionalLipedema pode ser confundido com excesso de peso. Veja! #Ho",
+      "sources": [
+        {
+          "name": "Midiamax",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQb0NsaFU4NGoyZ3BnWEY3WlJ4WUd1OVFZTFl3cGtzTnpMQUg4a2NrMFJQSmplSTBmOWFUZWpTYWliUmJMVWgtdW1hYlhGYkJMdk9nT2t5M3RTdjRtWENueE83bVQyOVdzd21qV1dLczhMaUtUdVg0TmtTZ2pNV0FPNnp0bDIwekJma1lqTFlfSU5zZlZiSnVUVG9IMU9XdklqVmFNRWFLWEdybDJZRXhSbEVFeWM3bEszZnZOS2oxSldMTE9FclBjZzZLQVdaQQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "effeb4de3d7c",
       "title": "Cirurgia única para tratar glaucoma e catarata será oferecida pelo SUS - CNN Brasil",
       "published": "2026-09-21T17:29:38+00:00",
-      "summary": "Cirurgia única para tratar glaucoma e catarata será oferecida pelo SUS&nbsp;&nbsp;CNN BrasilSUS vai oferecer cirurgia que trata glaucoma e catarata ao mesmo tempo — Ministério da Saúde&nbsp;&nbsp;www.gov.brSUS incorpora cirurgia combinada para glaucoma e catarata&nbsp;&nbsp;VEJACirurgia que trata glaucoma e catarata ao mesmo tempo será incorporada ao SUS&nbsp;&nbsp;correiobraziliense.com.brSUS oferece cirurgia que trata glaucoma e catarata ao mesmo tempo&nbsp;&nbsp;Rádio Metrópole",
+      "summary": "Cirurgia única para tratar glaucoma e catarata será oferecida pelo SUS&nbsp;&nbsp;CNN BrasilSUS vai oferecer cirurgia que trata glaucoma e catarata ao mesmo tempo — Ministério da Saúde&nbsp;&nbsp;www.gov.brSUS incorpora cirurgia combinada para glaucoma e catarata&nbsp;&nbsp;VEJACirurgia que trata glaucoma e catarata ao mesmo tempo será incorporada ao SUS&nbsp;&nbsp;Correio BrazilienseSUS oferece cirurgia que trata glaucoma e catarata ao mesmo tempo&nbsp;&nbsp;Rádio Metrópole",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -306,14 +414,26 @@
       ]
     },
     {
-      "id": "b0d05dc0029d",
-      "title": "Rio começa a vacinar idosos a partir de 85 anos com Pneumo 20; veja onde encontrar o imunizante - O GLOBO",
-      "published": "2026-09-21T17:14:26+00:00",
-      "summary": "Rio começa a vacinar idosos a partir de 85 anos com Pneumo 20; veja onde encontrar o imunizante&nbsp;&nbsp;O GLOBOParaíba amplia vacinação com Pneumo 20 para idosos a partir de 85 anos&nbsp;&nbsp;G1SUS amplia vacinação contra pneumonia para idosos acima de 85 anos&nbsp;&nbsp;TerraIdosos com 85 anos ou mais poderão se vacinar contra pneumonia e meningite no ES&nbsp;&nbsp;A GazetaGuarulhos inicia vacinação com pneumo 20 para pessoas com 85 anos ou mais&nbsp;&nbsp;Guarulhos Hoje",
+      "id": "c39558fc8096",
+      "title": "USP sediará 14 dos novos Centros de Ciência para o Desenvolvimento da Fapesp - Jornal da USP",
+      "published": "2026-09-21T17:18:00+00:00",
+      "summary": "USP sediará 14 dos novos Centros de Ciência para o Desenvolvimento da Fapesp&nbsp;&nbsp;Jornal da USP",
       "sources": [
         {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRDBHZU1QZzNTV1lsYm8tZXR2OW1MTHdMZHp4SVVuM1FWM1dEV1ZicXA3R0hvOVE1RXplNzhnYTRYYTkyMEp3Vzc3cldJLVVFTk1kTDlKajUyd0dqUDljaEYyTC1MY0RNZkJXOE1qMVN3THNBWjlUTjh1MmNna3FlaEV0a1FkLVBkM3htbUZlNmZ0V0ktaUJjcllfYlI1RTRDQURJSlB5TGQ4S1FnQ01UOHItWXpRWlFieHU3Z0VSLVYxOE1GV3IwWFR4Uk9laW5pVk92UW9oOEtaTXBwMTduMmJ30gHwAUFVX3lxTE1wZlVTZ0RhTXlFTEJ6NWVzUzRkMzZydlpaRXB2WFlKb1A3U19BdGtOd0VxRzREeXJyTU9rS2FWdDR6cTdmN0o3YldsSHVJQTB1VTJtSUoyd0FrZjRLZU1PZHRVN1g2ZXZUZmk2N2gtdy03S2VHNWRaU1ZHSmM1eERwaVdERlZBMG9BdVBQUjNXN3VGcXc4ZnVYbWtXbkUzalBSTXQzWDBHcVJYRzk0bk1ZZEdWb2FTZHZRbWYwUFF2ZjZPeWRDdXpmSkt3TXU1ZjlRQlFQc3hCTEgwMEUxUmlhMDNOaVBLbVJfQmFfNjRFdg?oc=5"
+          "name": "Jornal da USP",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS3ViUENoV212bm1iemlNcDFhUXV2QkY5YVlTNUJyWjducHJkSDdyQ3ZWdHRGal9WOHgzdkJrc2ljemRwVzhpU1I5NmpqSm5RQThGTmQ2YzZvT0VmTTBBaFBuY2h0bHFkUGszam00MGtuTGdHNEsyUFBfQk4wTHRMZEhCZ3VZa0s5Z1FWUHdUM1oxa2prR1ctbGlKbDB6NzMtb1RiYlJVVWQwdTdjcHp2LTFDMA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "02f9ed58fd69",
+      "title": "Canetas emagrecedoras mudam hábitos e movimentam novos mercados - Correio Braziliense",
+      "published": "2026-09-21T15:22:00+00:00",
+      "summary": "Canetas emagrecedoras mudam hábitos e movimentam novos mercados&nbsp;&nbsp;Correio BrazilienseFuncionários optam por canetas emagrecedoras nos benefícios de medicamentos oferecidos por empresas | Carreira&nbsp;&nbsp;Valor EconômicoA Dasa quer \"uma dose\" do mercado de R$ 18 bilhões das canetas emagrecedoras&nbsp;&nbsp;NeoFeedQuando as canetas emagrecedoras são indicadas para crianças e adolescentes?&nbsp;&nbsp;TerraO que a mudança de consumo em restaurantes de Fortaleza tem a ver com as canetas e",
+      "sources": [
+        {
+          "name": "Correio Braziliense",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYlA3MWhZNzQ4ZHN2Wi01TWloeExSV2c0U0NxSXp5STVGOTcwZnU4cGlka2VRcXhlQzNWd0lnVEJDRFh2czN3dVNDMm9maU5wTDc3b1NkTFM2dFRVVXdFT014S3RpLVVjajVTamRkMWZxa29SZEg4NGRJOTZJYnN2TFFWSTBQemwwLXdOZ0kzOHVkSnRHaTdXMzZNaVBTZ0MxOGZHbDB2bktHalMyRzJpaVU5MXhTSGsyQ1RYbnJzZjlLZTZhejJSZGw1anEtMnF6NU5ydHJqN3bSAd4BQVVfeXFMUE0wcURqUUs4Y0pPQ1pnV0MwVVlhT3d4QmpwYVF0R05FQzFwTFhMenZKbEwwUXYzckVzZFdyLXBsekQ1OUxQaUpqb1JRZm9FLXVIUHBMbEtSck0xMjBLTHExSl9xNF8zMGFYSmZ4MWFVSkJUMUdJaTNzMnFYM3NRS2NOem5sa0lKZkpULWVqeHVvV1ZrZm1nUFBVZVg3Q0tsOXBpYlhHRW9nbjVPaVE0Q1FwODVZUEh1dnVVNllFWkdGczFjdW16MlBLNWFSckdPYUsxZXJqODNtWWZEY0NR?oc=5"
         }
       ]
     },
@@ -333,7 +453,7 @@
       "id": "8e17591f47e5",
       "title": "Parar o uso das canetas eleva risco cardíaco em estudo com veteranos - UOL",
       "published": "2026-09-21T14:30:51+00:00",
-      "summary": "Parar o uso das canetas eleva risco cardíaco em estudo com veteranos&nbsp;&nbsp;UOLParar com o Mounjaro pode aumentar risco de problemas no coração, diz estudo com diabéticos&nbsp;&nbsp;GloboInterromper o uso do Ozempic pode elevar o risco de infarto e AVC, aponta estudo&nbsp;&nbsp;O TEMPOParar de usar Ozempic pode elevar risco cardiovascular em até 22%, diz estudo&nbsp;&nbsp;ExameParar de tomar Ozempic pode aumentar risco de infarto e AVC, revela estudo&nbsp;&nbsp;JM Online",
+      "summary": "Parar o uso das canetas eleva risco cardíaco em estudo com veteranos&nbsp;&nbsp;UOLParar com o Mounjaro pode aumentar risco de problemas no coração, diz estudo com diabéticos&nbsp;&nbsp;GloboInterromper o uso do Ozempic pode elevar o risco de infarto e AVC, aponta estudo&nbsp;&nbsp;O TEMPOParar de usar Ozempic pode elevar risco cardiovascular em até 22%, diz estudo&nbsp;&nbsp;exame.comParar de tomar Ozempic pode aumentar risco de infarto e AVC, revela estudo&nbsp;&nbsp;JM Online",
       "sources": [
         {
           "name": "UOL",
@@ -378,18 +498,6 @@
       ]
     },
     {
-      "id": "296d7257fb46",
-      "title": "A Dasa quer \"uma dose\" do mercado de R$ 18 bilhões das canetas emagrecedoras - NeoFeed",
-      "published": "2026-09-21T10:57:00+00:00",
-      "summary": "A Dasa quer \"uma dose\" do mercado de R$ 18 bilhões das canetas emagrecedoras&nbsp;&nbsp;NeoFeedFuncionários optam por canetas emagrecedoras nos benefícios de medicamentos oferecidos por empresas | Carreira&nbsp;&nbsp;Valor EconômicoO que a mudança de consumo em restaurantes de Fortaleza tem a ver com as canetas emagrecedoras?&nbsp;&nbsp;diariodonordeste.verdesmares.com.brQuando as canetas emagrecedoras são indicadas para crianças e adolescentes?&nbsp;&nbsp;TerraCanetas emagrecedoras mudam hábito",
-      "sources": [
-        {
-          "name": "NeoFeed",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVUZsYUxHWHZ1VEJuS05pRmdvdXZvT3pfMXBpNnpwZE9hbE84eHNUdVUzRzFNTl9tUUJGM21xU1ljZ0V2UzlDcl8wbEYxM05VYkFJMVMzOWtWT05MM01jZkhfdDZaUmVJcEZlRlZybDhqV0xOUmlWZG5DWDBxMV8xcVlCQWtuVzhaMDgtaFRMS2l4cnVhdGN5NUhlMzNSdHRJS21SWXMxNlVaZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "462858ab9fb4",
       "title": "\"Parecia a planta de uma cidade\": a surpreendente descoberta da NASA a 30 metros sob o gelo da Groenlândia - Meteored Brasil",
       "published": "2026-09-21T10:05:00+00:00",
@@ -398,18 +506,6 @@
         {
           "name": "Meteored Brasil",
           "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQ1dwSWFUX3RNdjVNYURVZ0JidFFwbDRpV3pJQWd0VlpWYk5ZaXBqSzNlYURZZlFPTFZScW1WSWJ6dGREWG0zdVJqSTRYdEphTlFVU08xNHRsOG1zYjdQMHpFR3hGYWthdHhzODhGeFk5T1JoNXdYR1hFVVNyQWpLUUQtdXBSaHdVOFBSV3R5T3QyYXRVMXh6bk12bEdCTmppazBJYnZSWVF4Yk1WdVJ5WEZJUWtCSS1qSmQ2aUtrMndWeHlOaHJ1RC1zQzlmUVVTQlE3UV9uMUt1eXZ2cTZHV2Z0U3hNdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "353850421ead",
-      "title": "Qual pássaro tem o canto mais musical? Novo estudo tem a resposta - CNN Brasil",
-      "published": "2026-09-21T07:45:06+00:00",
-      "summary": "Qual pássaro tem o canto mais musical? Novo estudo tem a resposta&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMkR6X2VQYVVMTzd2OGZIOUFSck5IQWlrVzN6UG1yN3BSWmVlTU95cDRVMW9KMFlTWjV1cU5UREl4X1c2MEFONnh4R3A4M3JoOGxwSG1TWTVRT3YwMlJ4VUZBekVOMmcwR2Y4WXNYZ1A1YjdMSGJNanlwWDB5WUNYQU5qTjd1ZGlwZFIwZFZvWThJOXczaE9JM19Kc0pUeTJiZExTUQ?oc=5"
         }
       ]
     },
@@ -438,18 +534,6 @@
       ]
     },
     {
-      "id": "dc44c11d4321",
-      "title": "Cientistas fazem descoberta histórica: um tubarão de 399 anos, nascido em 1627 foi localizado no Oceano Ártico e bate recorde de longevidade entre animais vertebrados - Super Rádio Tupi",
-      "published": "2026-09-21T00:40:58+00:00",
-      "summary": "Cientistas fazem descoberta histórica: um tubarão de 399 anos, nascido em 1627 foi localizado no Oceano Ártico e bate recorde de longevidade entre animais vertebrados&nbsp;&nbsp;Super Rádio Tupi",
-      "sources": [
-        {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaVIySjFZb0lnQVNjb3d2cGUtOVRVRENnd0lEWkdmcTZET1BzZElrc3lZZG1mTlJXSDdtOGRtb2pmUTM4ZjZ0SF85OWVsOXNVZHktTUUyRmhZcklKeXdHdm5yZGl0TWx5Y21lbXJ0aFNTelNzVVp4Z3o3R1RqekJPZm1jV1BRdmxmanc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c18ef3b674af",
       "title": "Câncer levou à amputação do pênis de 2 homens por dia em 2025 - R7",
       "published": "2026-09-20T12:00:00+00:00",
@@ -465,7 +549,7 @@
       "id": "7115cc9ae5ca",
       "title": "É possível sofrer um ataque de morcego? Caso raro em Ilha Grande (RJ) vira estudo científico; saiba mais - O GLOBO",
       "published": "2026-09-18T07:00:01+00:00",
-      "summary": "É possível sofrer um ataque de morcego? Caso raro em Ilha Grande (RJ) vira estudo científico; saiba mais&nbsp;&nbsp;O GLOBOMorcego-vampiro suga sangue de homem no Rio de Janeiro; caso raro vira estudo&nbsp;&nbsp;ExameCaso de homem atacado por morcego-vampiro é descrito pela ciência; entenda o comportamento&nbsp;&nbsp;redeutv.com.brHomem é mordido por Morcego em Ilha Grande, no Rio&nbsp;&nbsp;iG Último SegundoSuspeita de ataque de morcego-vampiro surge após homem encontrar sangue no chão e ferime",
+      "summary": "É possível sofrer um ataque de morcego? Caso raro em Ilha Grande (RJ) vira estudo científico; saiba mais&nbsp;&nbsp;O GLOBOMorcego-vampiro suga sangue de homem no Rio de Janeiro; caso raro vira estudo&nbsp;&nbsp;exame.comCaso de homem atacado por morcego-vampiro é descrito pela ciência; entenda o comportamento&nbsp;&nbsp;redeutv.com.brHomem é mordido por Morcego em Ilha Grande, no Rio&nbsp;&nbsp;iG Último SegundoSuspeita de ataque de morcego-vampiro surge após homem encontrar sangue no chão e fe",
       "sources": [
         {
           "name": "O GLOBO",
