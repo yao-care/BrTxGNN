@@ -14,7 +14,7 @@ permalink: /news/oseltamivir/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Oseltamivir?">
-<strong>Oseltamivir</strong> tem atualmente <strong>1 notícias</strong> e 10 indicações previstas.
+<strong>Oseltamivir</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,7 @@ Esta página combina as indicações previstas por IA para Oseltamivir com as no
 <li>tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria (95.1%)</li>
 <li>staphylococcus aureus infection (95.0%)</li>
 <li>cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency (93.9%)</li>
-<li class="indication-matched">pneumonia (92.1%)<span class="indication-tag">📰 pneumonia</span></li>
+<li>pneumonia (92.1%)</li>
 <li>streptococcal pneumonia (90.5%)</li>
 <li>susceptibility to HIV infection (89.8%)</li>
 </ul></li>
@@ -40,15 +40,9 @@ Esta página combina as indicações previstas por IA para Oseltamivir com as no
 <p><a href="{{ '/drugs/oseltamivir/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (1)
+## Notícias relacionadas (0)
 
-### [Rio inicia vacinação de Pneumo 20 para idosos com 85 anos ou mais - O Dia](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNXg2WWlpNml6WXJKUWJ6SXZEd25naEJJSkRQY2lEWnBjSWdRVmRycjlmR2lDdUNIdkJaWlRjV2J1UUlwNzdsX2w1NEYtU1FNQ2JQbVJHLTlheE1ZTmdFUlZ6dEk1SkkySjQyMHMtbDBSaURpbzN0a1liYmFSSGNDanowa082QlpPRWhWTV96cy1qeHV6TTZCTlhBZUtUNTh2YnBBMlFZbExuWmVheWI0cTh5Z2x1Zld4bzlRSnRRcnNCQdIBxwFBVV95cUxQV1B1ZDN1bWdnTUJoYUEteWQ4bU1DZWRiYlVXaThTakZBVFRENzZaNmJ6UWJfc3F5c2dRZ29XeEVqYUNQUUNmNG1UaFB3Y3lHMFA2SFdHSGNVaG40ZmN0VHhVbnVXRXI0cWFnbEsxZV83bUNxZHNwcENnaGhXVEV4SURlemZ4Q1FraVNYek1FR1FXMUl2dm4wemZCbk1Rd2JTODNINGVLazZfcXRtdlYxZVI1S3pEN1I5c1kxb1ZMTDR3MDRRYXpR?oc=5)
-
-2026-09-21 <span class="news-indication-tag">pneumonia</span> <span class="news-indication-tag">pneumonia</span>
-
-Fonte: [O Dia](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNXg2WWlpNml6WXJKUWJ6SXZEd25naEJJSkRQY2lEWnBjSWdRVmRycjlmR2lDdUNIdkJaWlRjV2J1UUlwNzdsX2w1NEYtU1FNQ2JQbVJHLTlheE1ZTmdFUlZ6dEk1SkkySjQyMHMtbDBSaURpbzN0a1liYmFSSGNDanowa082QlpPRWhWTV96cy1qeHV6TTZCTlhBZUtUNTh2YnBBMlFZbExuWmVheWI0cTh5Z2x1Zld4bzlRSnRRcnNCQdIBxwFBVV95cUxQV1B1ZDN1bWdnTUJoYUEteWQ4bU1DZWRiYlVXaThTakZBVFRENzZaNmJ6UWJfc3F5c2dRZ29XeEVqYUNQUUNmNG1UaFB3Y3lHMFA2SFdHSGNVaG40ZmN0VHhVbnVXRXI0cWFnbEsxZV83bUNxZHNwcENnaGhXVEV4SURlemZ4Q1FraVNYek1FR1FXMUl2dm4wemZCbk1Rd2JTODNINGVLazZfcXRtdlYxZVI1S3pEN1I5c1kxb1ZMTDR3MDRRYXpR?oc=5)
-
----
+*Ainda não há notícias relacionadas. Quando uma notícia mencionar este medicamento, ela será recolhida e exibida aqui automaticamente.*
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/tapentadol/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Tapentadol?">
-<strong>Tapentadol</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Tapentadol</strong> tem atualmente <strong>1 notícias</strong> e 10 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -34,15 +34,21 @@ Esta página combina as indicações previstas por IA para Tapentadol com as not
 <li>headache disorder (98.3%)</li>
 <li>nephrogenic syndrome of inappropriate antidiuresis (97.9%)</li>
 <li>trigeminal autonomic cephalalgia (97.8%)</li>
-<li>anxiety (96.8%)</li>
+<li class="indication-matched">anxiety (96.8%)<span class="indication-tag">📰 anxiety</span></li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tapentadol/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (0)
+## Notícias relacionadas (1)
 
-*Ainda não há notícias relacionadas. Quando uma notícia mencionar este medicamento, ela será recolhida e exibida aqui automaticamente.*
+### [Álcool na adolescência afeta maturação do cérebro e deixa marcas até a vida adulta - Agência FAPESP](https://news.google.com/rss/articles/CBMitAFBVV95cUxNQkxGcW90MUZ2Y25nWXRDdEVRZ0psamhLTHVUNDltSnhjSk1vNzZTd0t5SkVBM1BsYlJsZUdLNWM2YnZsT3VBWjZmZmczc0VBM0NWOFppa3YyQzdFVVg5Z1JpeEhXQzFwMGNJY0JObjVqeVhLSmxfdzJFYkNvQ2dCZ3BCWTNyY2lWRHk0OHRHTW9PNl9vMmd4Z3dSNWU1SHVkSG15SF9nNm9mRWYtTGpYYlNuTkQ?oc=5)
+
+2026-09-23 <span class="news-indication-tag">anxiety</span>
+
+Fonte: [Agência FAPESP](https://news.google.com/rss/articles/CBMitAFBVV95cUxNQkxGcW90MUZ2Y25nWXRDdEVRZ0psamhLTHVUNDltSnhjSk1vNzZTd0t5SkVBM1BsYlJsZUdLNWM2YnZsT3VBWjZmZmczc0VBM0NWOFppa3YyQzdFVVg5Z1JpeEhXQzFwMGNJY0JObjVqeVhLSmxfdzJFYkNvQ2dCZ3BCWTNyY2lWRHk0OHRHTW9PNl9vMmd4Z3dSNWU1SHVkSG15SF9nNm9mRWYtTGpYYlNuTkQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

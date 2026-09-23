@@ -1,31 +1,115 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-09-23T10:58:59.609401+00:00",
-  "total_fetched": 99,
-  "unique_count": 98,
-  "health_related_count": 46,
+  "fetched_at": "2026-09-23T16:19:39.826456+00:00",
+  "total_fetched": 103,
+  "unique_count": 100,
+  "health_related_count": 41,
   "news": [
     {
-      "id": "6212a6642a6e",
-      "title": "Provérbio tupi-guarani sobre paciência: 'A árvore que cresce depressa quebra com o primeiro vento' — uma reflexão sobre pressa, raízes e resultados que duram - Super Rádio Tupi",
-      "published": "2026-09-23T08:52:49+00:00",
-      "summary": "Provérbio tupi-guarani sobre paciência: 'A árvore que cresce depressa quebra com o primeiro vento' — uma reflexão sobre pressa, raízes e resultados que duram&nbsp;&nbsp;Super Rádio Tupi",
+      "id": "669aa1810cf1",
+      "title": "Pesquisas mentem? Saiba o que está por trás dos números | Triturando Dados #1 - Estadão",
+      "published": "2026-09-23T12:30:00+00:00",
+      "summary": "Pesquisas mentem? Saiba o que está por trás dos números | Triturando Dados #1&nbsp;&nbsp;Estadão",
       "sources": [
         {
-          "name": "Super Rádio Tupi",
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWXAyT2xhNWFqcTNpai1xUDIzb2YtN1hwQ09fRXJGVHdlMkt0OFlKVUlxQmk3UlpxNjBUQWNvd1JsaDlOUUkydjBfSDhTZVF1blk2cTYyam5ERUJ4S01EbllVUC00R0ljRnpRZW91MnV1UVEyamRCWExqbGRqYnpJb1pESFZvVEdYdjQ5SVZkNkVCUWt5a0JlU2RUTEY0TUl1U1JSSy12TUhoT2FPWk9NcGVkY3JubU16WkFkTF95OXJvNXQ2OWd0Uw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "81aa728d02d5",
+      "title": "Provérbio tupi-guarani sobre paciência: 'A árvore que cresce depressa quebra com o primeiro vento' — uma reflexão sobre pressa, raízes e resultados que duram - tupi.fm",
+      "published": "2026-09-23T08:54:29+00:00",
+      "summary": "Provérbio tupi-guarani sobre paciência: 'A árvore que cresce depressa quebra com o primeiro vento' — uma reflexão sobre pressa, raízes e resultados que duram&nbsp;&nbsp;tupi.fm",
+      "sources": [
+        {
+          "name": "tupi.fm",
           "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPblFGcVdCTk9PMUUxVXpKQW5zUllTUEkwSUlPYXN6cGRHakM1MElWUU0xRjc2VHJzZHdGTm1keDZLczU0bExIdENFZ2xkdGhjZVhpQ2xKSTJ0bzZjc003SUdUS0ZpVmdndGlyeExzMDZIYS1YUl9MNXN1X0V3aXljcFBWbXRISENwMWN6OXVMNzZtTVB3UEdOdnZINElRMldVeUxSdWZxakRZSVVxdXFOdGJqTEJGV3dMaVBoZG05Ql9ZZkpONUFFRDV2Q21pYmhXN2c5U0VnTmtrRWVza3VaWHV6c2tMWUdtUm94dkVLdU1NdlRrcmlOOXp2dVR2ZWxNQ1dsdUFNaUpjc21CWl9hSXI3ZUtyQQ?oc=5"
         }
       ]
     },
     {
-      "id": "907478283183",
-      "title": "Câncer de pulmão exige cuidado além da prevenção - Estadão",
-      "published": "2026-09-23T01:49:59+00:00",
-      "summary": "Câncer de pulmão exige cuidado além da prevenção&nbsp;&nbsp;EstadãoUma exposição invisível, um impacto real: o impacto do fumo passivo na incidência do cancro do pulmão&nbsp;&nbsp;News FarmaTabaco é culpado por 90% dos casos de câncer de pulmão no mundo&nbsp;&nbsp;Jornal da Franca8 em cada 10 casos de câncer de pulmão em SP são descobertos em estágio avançado, revela estudo&nbsp;&nbsp;O GLOBOMulher e o câncer de pulmão: o perigo do diagnóstico tardio&nbsp;&nbsp;VEJA RIO",
+      "id": "a994f020f72f",
+      "title": "Estudos indicam que beber pouca água pode piorar o estresse e o humor - UOL",
+      "published": "2026-09-23T08:30:00+00:00",
+      "summary": "Estudos indicam que beber pouca água pode piorar o estresse e o humor&nbsp;&nbsp;UOLDores de cabeça e cansaço frequentes? Médica alerta que a causa pode estar num hábito que ignoras&nbsp;&nbsp;versa - lifestyleBeber água apenas quando sente sede pode ser tarde demais, alertam especialistas&nbsp;&nbsp;Tua Saúde",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSWZQNW40QnhrVlZmMTY3ekk3TWxDXzY2LXk0bVFVcDlRV0xaOElyUWNrdHdhTWVYajZIRXdmb1dfYldXSk5ZeDQtMnZudy02ZFcwR3lNS2pPNThNblc5QkFFcFlTTDdvMTV1T2FhU0t1Vk11MGhFTUNHeC02aVRIVHhSOEtNREs0QkhIMjdjanhRcnVKUC1HTTVMQWpMQ3NrRUpzNjFEU2wyWG80dW5TZWxWbE5ZXzA3RkdSLS1rbHR6VjRNX0d3Q1VXT2U?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "94d3ccdbf8e1",
+      "title": "'Cada dia que passa eu pioro': jornalista com câncer raro luta por tratamento de R$ 6 milhões - G1",
+      "published": "2026-09-23T08:00:44+00:00",
+      "summary": "'Cada dia que passa eu pioro': jornalista com câncer raro luta por tratamento de R$ 6 milhões&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVko0QkZDaDdEZ0VVVXNEd2Y1ZUdQQzJKNFI1dWtnWjFGYW9XeGRJQnNta0VXdVU0U2JXbFN3UURrNzhLdzZaRGt2cXBUam0yWGRmMFRac1ctdlpjSkMzcVctYTBOb2prenl4RGFuUFJsX1hqczR6MG9EaGo5UFB2cGRNanNuem41bWthVVV1cFdEcnNTejJwX2Fwc2JnQXEzRzFlU1gzaXpyWnRtS1lJY3NUSjhMeHNud3JVWVVVbzlKdHlXa1ZOZXVXYk9PVlYwb3VEa2JObjZpcXhQWmQ0c1QzU0NEeDNGaFI4U1VR0gH8AUFVX3lxTE5JcWlQYmdpX1BmT3hLdW16RjQzTVRkZWpGbGlWV1pzcGRTdDVibUtyaE5mblh6eDhISHRjVlkxUXFQX0pJcU5yZ0pPWWhDU2FVdE9xRjBxdlozLTFBQUJXYU5CT1dCOE04YUZuX2N5RzRvWm1oT2l3Ynp3cVlKbHNZY05MWkdNWGdzNzhZUEhuU3NKVXl6ZWZzQ3dxbi1MbTc3bUhDYVAxbWhRUzAzQWQxeEZTckpvUk9QM3JGSUFnMjBBcTQ5UEgyR3A5SlRmdU5scDdhS0NYT3BwTkc2SGIwMlA1b3VPWEdLQXZ3OU82R2pORHJCNEpFTDVJdg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "14c1c8ce12e0",
+      "title": "Memória ruim na gravidez? Fenômeno pode ter explicação biológica, indica estudo - O GLOBO",
+      "published": "2026-09-23T06:00:00+00:00",
+      "summary": "Memória ruim na gravidez? Fenômeno pode ter explicação biológica, indica estudo&nbsp;&nbsp;O GLOBO",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPekdHS0hMLUczZ0xsbE1UMG04T0NfWkxWNHFqQVJxR3N3c3JjTWNna2gyZUxfd3hPS0ViZ3c1YUdMNTZNd2g2WUFzeVVrNHQzeURpTE9nQ3B4RzF6ekczZEdxR01rdGRDeVJhSUQ5Sk03VFVEcWhya1c3Zm1ESWFnYkhLbHdkMXNVUFVvQU1vVkxNWXF0S3hzOTMzbHZQUDV1bE1TTXNuRVJ6b015Qlh1ZlZQSVBTaWhaazF2RmV1YXdzajkyaDNHb3c1OUtlZ9IB3AFBVV95cUxPTnMzOXZMZmYyTXNzZ01VVVVzZzRQR0FScXdkdkRzZ1AtRmM2ZlRrSGxudm1ZNlpaMERWRWJLY015ai04RFhQVXhGZng2SkZJMDVUMFgwdUNXcE5LcUZHYWN0UXlIYWRmNExJSGt3MFhvbkFxRG92SE5ORGxHZURXY3pkMDF2NHRITEszTlQ0M3FtVW1aSEgxWU1UQWNfRDZIbUc0NFJXYmsxVmdrSXZyY29xeGJBT0lPZm45eWtRVUtrOTNHcW5LajN2eUMwRkFmNU52TGZobVkxWmhZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3b1e4c4d8029",
+      "title": "Câncer de tireoide cresce por 7 anos até mulher descobrir metástases - Metrópoles",
+      "published": "2026-09-23T05:00:00+00:00",
+      "summary": "Câncer de tireoide cresce por 7 anos até mulher descobrir metástases&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX2VqSDgyOGg3aGJQaGtwZ1pTZXZfMHIzc0UzTzd3SmJlRGsxUzltUnFvcGt0aG1LdVNuM2JZM0cxQmVXNFlvOWpfeFJrZ0IyX0xFT3JnY2twUEdKM3RDbTFKT2VvN04zNklwMkFEVm10VWdxRlJiY2ZjQ0ZEcy1PUXFNYjlQT3ZtYjJJSjZnWDZvcVAwRmZnNW5mMzEzcDQxLVhJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c4f44aa4eb24",
+      "title": "Álcool na adolescência afeta maturação do cérebro e deixa marcas até a vida adulta - Agência FAPESP",
+      "published": "2026-09-23T03:00:26+00:00",
+      "summary": "Álcool na adolescência afeta maturação do cérebro e deixa marcas até a vida adulta&nbsp;&nbsp;Agência FAPESPÁlcool na adolescência deixa marcas até a vida adulta&nbsp;&nbsp;Correio BrazilienseAcordou ansioso após beber? Álcool pode provocar a chamada 'hanganxiety'&nbsp;&nbsp;TerraVício ultrapassa a saúde e afeta trabalho e família&nbsp;&nbsp;maringapost.com.brÁlcool pode piorar ansiedade, depressão e insônia; veja quando o consumo vira um sinal de alerta&nbsp;&nbsp;Jornal Correio",
+      "sources": [
+        {
+          "name": "Agência FAPESP",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQkxGcW90MUZ2Y25nWXRDdEVRZ0psamhLTHVUNDltSnhjSk1vNzZTd0t5SkVBM1BsYlJsZUdLNWM2YnZsT3VBWjZmZmczc0VBM0NWOFppa3YyQzdFVVg5Z1JpeEhXQzFwMGNJY0JObjVqeVhLSmxfdzJFYkNvQ2dCZ3BCWTNyY2lWRHk0OHRHTW9PNl9vMmd4Z3dSNWU1SHVkSG15SF9nNm9mRWYtTGpYYlNuTkQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e737027bb70f",
+      "title": "FAPESP lança chamada para atrair jovens pesquisadores do exterior - Agência FAPESP",
+      "published": "2026-09-23T03:00:26+00:00",
+      "summary": "FAPESP lança chamada para atrair jovens pesquisadores do exterior&nbsp;&nbsp;Agência FAPESP",
+      "sources": [
+        {
+          "name": "Agência FAPESP",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZFhWbmRMZEVvRzhSZW9JS3BQbDh3VGFaRnBIcXotT19EMXhGc0J2Wk5xV3RWTTczeDZmRExCWkZ5WlZTMFA5eVZOLWdtR0N5Zm9jRHNDR2pSYjN6OUZsVFh3UUNDeEhCVlpTdTMzRWVpZjBfYnNub1czM0JCZk5qdUtoRW5DajZjMkJGMzRCUnViY1ZOZmVQMVJCeEpGdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "898df5be2f9e",
+      "title": "Enxaqueca refratária: entenda a condição neurológica que levou Michelle Bolsonaro ao hospital - Estadão",
+      "published": "2026-09-22T23:38:00+00:00",
+      "summary": "Enxaqueca refratária: entenda a condição neurológica que levou Michelle Bolsonaro ao hospital&nbsp;&nbsp;Estadão",
       "sources": [
         {
           "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMjN1NFEydDVJZm5rNWY1anVaUHhZdENKMUNra0VtMzVNMFJiempFYXozN3FFaE4zNHNCeVZEbXg0T1FFWmVkX2l3Sk91dm43TnhSQ1ZRNzlzUlhZb3VqajQ2dkVrSmlCd1NGdkk4a05wUjB5Q0w5VG94cGxtUmtERDZkY3Z6OGVRczFBbGhyVWVuQVHSAZgBQVVfeXFMT3VjR0QzdkRzQkRhWmNQZVpZSllWSlEyLU5QRUltcTlMQ0Njb0pjQzFsQ0xsRVp3T2ZUX3NXM1NMRXBzNERlY1dzV0NhUE05TkFGZUc3OTVwYllNcXlJTEJaWHd2U2ZaU2djeUZJcHZmSkFkN3FhaGFvX3JXMWxqYXpNNEIwYmZZaWZPUmRUN1lVMUh1MXNSRmg?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQclI5WWhzNU5lMU95N3pNdWhrbkNqSklDU3JyTkptc3BmX2k4QW01SHZKQmc0ZVZyMjRxM2NhLXJiOU5VMXRMT3FGdGFGeERhV2Q5Zldlc2Zlb1BnZ3pqa3RkMXZZZU5QaXdCSmFQdGtlWnpZYnFHdnNXS2cxUTBxT1oyT2pURzA2dVpDcnhwa0FOR3V5cFJtRW9iTWw3WjVCdDQxaFktQ3FyZnlvZ2FuWXF1eld0cGtiYjlRMXJ0b9IBxAFBVV95cUxNQzJhMFZweE5Kdk96NnMyT2hMUnNvREozM0RKcE9MMFN3Z2Z3Uy15V1FISGJKMXRNdzFsek1fczdscHpKb21tS19QcGZndFFJSWNfWUJhazdjUlMwTUdYVC01X2pCWWZPVHg4SER1aXB5bWJpOHBxcDVPM2FLSVBSTmIzbk1GVjRwRjB6YURaWl9CbWQ2aVc3LVNZWEZKX0tvVFVfekNYTXBtakxDVVBZTzYzeXJTYW1Da2xvWW9XbGt1MHBX?oc=5"
         }
       ]
     },
@@ -42,34 +126,10 @@
       ]
     },
     {
-      "id": "e022a32f313f",
-      "title": "É possível prevenir demências? Neurologista fala sobre hábitos que ajudam a proteger a saúde do cérebro - GZH",
-      "published": "2026-09-22T22:34:00+00:00",
-      "summary": "É possível prevenir demências? Neurologista fala sobre hábitos que ajudam a proteger a saúde do cérebro&nbsp;&nbsp;GZH",
-      "sources": [
-        {
-          "name": "GZH",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUXF3ZUV5M245dGFPQU9NSThSM2c2bWpmZzZiak9fUFNJN2dqSzRXaDdvNDdOOWlqSHVleExjQWhjMU1wa2FVa3RwWXQ0dFQ1aWRHc3BlVjhGOFlwTnNfTzVOUVMtTmNKQ3JRc2tkM1diZHEwTFNUclExWDJad1ZiV3RldjNnUnJtR1VHVHFJd2Ribk4yd2tEUzlYdTZUdlpJdVN2elJ3V2F4ckF6VGVnTmFLMkQ1NFFGaGt3dXNEd3VvZGRad19EbFJUYnoxNE9Ec0NtVGRHOWZpMjBQandfTVdEYUlRMlZidk1xLVl3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0fb382728d28",
-      "title": "Carlos Nobre: Seca, aridificação e risco de desertificação no Nordeste do Brasil - UOL",
-      "published": "2026-09-22T20:00:00+00:00",
-      "summary": "Carlos Nobre: Seca, aridificação e risco de desertificação no Nordeste do Brasil&nbsp;&nbsp;UOL",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOVF3eE5pLUZEX0REUFlFTXRDVU5vT014cGFkTXVybHdiTnZGdXZQd0FRb0lVd2trZ1QzNENnbmI5WHBIb0E1VGJFN18zS1Uya2hyYTlEbkRDRFNVNG5pXzB0UFYzd0ZXTlJNcDFzdDBfUnUwM0NVSDhlc0F4Qm9nUjlpUHBoaUtqQm04VGtBUGlsVVJWajhSS1BSV3NyNkFNUVA0WjBlVW41cnN3NjdXcTlRMkZ0NnJBRWhnZkd1SS1HQmNEOW1DTQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "dc70c1e711b6",
       "title": "Anvisa aprova novo medicamento oral para câncer de mama avançado - Folha de S.Paulo",
       "published": "2026-09-22T19:56:00+00:00",
-      "summary": "Anvisa aprova novo medicamento oral para câncer de mama avançado&nbsp;&nbsp;Folha de S.PauloAnvisa aprova Etcamah, novo medicamento para câncer de mama&nbsp;&nbsp;campograndenews.com.brAnvisa aprova novo medicamento para câncer de mama avançado&nbsp;&nbsp;SBT NewsNovo medicamento para câncer de mama é aprovado pela Anvisa&nbsp;&nbsp;O POVOAnvisa aprova novo remédio oral para câncer de mama avançado&nbsp;&nbsp;band.com.br",
+      "summary": "Anvisa aprova novo medicamento oral para câncer de mama avançado&nbsp;&nbsp;Folha de S.PauloAnvisa aprova Etcamah, novo medicamento para câncer de mama&nbsp;&nbsp;Campo Grande NewsAnvisa aprova novo medicamento para câncer de mama avançado&nbsp;&nbsp;SBT NewsNovo medicamento para câncer de mama é aprovado pela Anvisa&nbsp;&nbsp;O POVONovo remédio para câncer de mama avançado é aprovado no Brasil&nbsp;&nbsp;Metrópoles",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -114,10 +174,22 @@
       ]
     },
     {
+      "id": "e2d186b9f619",
+      "title": "Nova espécie de “lobo-marinho” é descoberta após 9 milhões de anos e revela um caçador pré-histórico desconhecido pela ciência - tupi.fm",
+      "published": "2026-09-22T15:36:17+00:00",
+      "summary": "Nova espécie de “lobo-marinho” é descoberta após 9 milhões de anos e revela um caçador pré-histórico desconhecido pela ciência&nbsp;&nbsp;tupi.fm",
+      "sources": [
+        {
+          "name": "tupi.fm",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSWQ0S0kwWFZ3Z0hSdzFHZ09DV1djWTVDWE5JbVNKLTVpM3Y1NWVNOGxqZGJNR0hrcE15T2dFUk1POEZpOUc1aEViRTNLZldHT05uSXNUaWxESDJIT0xtMWgtNTdRYzM1QlZhNU9HUjdvS1B4RDlRaEszUUY0OE5Nc3NIRFcwLVBmSEVTRTNLcWdKWDhaSzNpNjlCMjJYcGgwQW9Tb3ZncWtlVTlpQ2thU2o3LXdWS2Fuck1uMkV4a1JvVFg2ZVgxbW1CTjBHVU5KUjJGYXowQ2hUWk5PRF9VQlhFUFpkUQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "4ce78399c49c",
       "title": "Beth Goulart sobre Alzheimer: “Cuidar do cérebro começa antes dos sintomas” - CNN Brasil",
       "published": "2026-09-22T15:07:17+00:00",
-      "summary": "Beth Goulart sobre Alzheimer: “Cuidar do cérebro começa antes dos sintomas”&nbsp;&nbsp;CNN Brasil'O afeto é o cuidado da alma', diz Beth Goulart em fórum sobre Alzheimer&nbsp;&nbsp;viva.com.brEvento gratuito reúne a atriz Beth Goulart e especialistas em São Paulo&nbsp;&nbsp;Estado de MinasEvento gratuito reúne Beth Goulart e especialistas em saúde do cérebro&nbsp;&nbsp;viva.com.br",
+      "summary": "Beth Goulart sobre Alzheimer: “Cuidar do cérebro começa antes dos sintomas”&nbsp;&nbsp;CNN Brasil'O afeto é o cuidado da alma', diz Beth Goulart em fórum sobre Alzheimer&nbsp;&nbsp;viva.com.brEvento gratuito reúne a atriz Beth Goulart e especialistas em São Paulo&nbsp;&nbsp;Estado de Minas",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -126,22 +198,10 @@
       ]
     },
     {
-      "id": "f2a6b345324c",
-      "title": "Musculação faz células de gordura encolherem antes mesmo da perda de peso, mostra novo estudo - O GLOBO",
-      "published": "2026-09-22T14:30:14+00:00",
-      "summary": "Musculação faz células de gordura encolherem antes mesmo da perda de peso, mostra novo estudo&nbsp;&nbsp;O GLOBO",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQmVadzlFbDNBV2wtdnlVVlZ2dWV5blNUM3ZXbGpKaTlhTThhMFJ6bXdVb3FkTEV3SGFLMHB1WGpvTWhoZUgtblVoeDBNUHhkQ24yQnJTTlcwckQ2YVVIY3VPUjNBY0RKNldzeWNuYlBYejBWdFJ2TEV4cTg1c2xNamc4M05yMHhNQnJhUHV5QlQxbmJUbHBYVE5KeVhfb2VZUlhkNDJOYVpSSldzblpVTHNWdGhta2VDVzNHbUpWYk1PUlhldV9PLWRBanV0bHh3dzZSb1V6TlVqN0o0WklTcDlR0gHwAUFVX3lxTFBkUmVLYVUzM1J4Tm5zZlNOVXVkSEg3aHJnaFpHMVlTa0ZWNDl4LWVHbUFYdU1KY1dhX3VOaktUU0M0dDN2TzhTYjA2SWN2MW1QQnRBSHBQMlV0bmdpaktQMmN3OG5PRDVRdURoS29KWHZJa3V2c29GVW9DMzFFUDhKbjVmV2dxVC1QZnVEbVBTdE5vN3lFa2lkTEw0X3psd2FrSU9jM3ViSDdES2NMSW10dlJXeWZSWTVfYVR1d3RxTnktZ0xHc2d6RXR2UjJPeHZTZHkzTmdFaV8xd3JsLUdseHd5SjdMWll4dldTMHA4UQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "af9c7d6b328e",
       "title": "Excesso de proteína pode estar fazendo mal ao seu intestino; entenda os riscos - Globo",
       "published": "2026-09-22T14:24:36+00:00",
-      "summary": "Excesso de proteína pode estar fazendo mal ao seu intestino; entenda os riscos&nbsp;&nbsp;GloboMais proteína ajuda na menopausa? Entenda o que os estudos mostram&nbsp;&nbsp;CartaCapitalO que acontece com o corpo que treina, mas não faz ingestão de proteína&nbsp;&nbsp;Assine AbrilConfira os resultados das loterias desta segunda-feira&nbsp;&nbsp;GZHWhey pra quê? E pra quem? – Chico Junior&nbsp;&nbsp;Brasil 247",
+      "summary": "Excesso de proteína pode estar fazendo mal ao seu intestino; entenda os riscos&nbsp;&nbsp;GloboMais proteína ajuda na menopausa? Entenda o que os estudos mostram&nbsp;&nbsp;cartacapital.com.brConfira os resultados das loterias desta segunda-feira&nbsp;&nbsp;GZHO que acontece com o corpo que treina, mas não faz ingestão de proteína&nbsp;&nbsp;Assine AbrilProteína do café da manhã ao jantar: 5 dicas para incluir o nutriente em todas as refeições&nbsp;&nbsp;AJN1",
       "sources": [
         {
           "name": "Globo",
@@ -150,34 +210,10 @@
       ]
     },
     {
-      "id": "a3f0a743a180",
-      "title": "Pesquisadores usam fezes humanas para criar concreto mais resistente - Folha de S.Paulo",
-      "published": "2026-09-22T14:00:00+00:00",
-      "summary": "Pesquisadores usam fezes humanas para criar concreto mais resistente&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR3VIc0ViWkktNFQyS2RraTRqLWNtRUpfaFVhWUVhdjBDemtpalZQUmM1bWlUMDNNRTdmblBTVUtxak01ODVZNEludTJwR2tBOHUzai1HcTFCdXA2bk5JejJ2QU4zQkpUYmtUdER3em1aYWk2akVxTDh3YnJ3TlNaOHlBaksyWFF4RnRkblRfc1VWdWl5UWRsN2tMdk9BTF9UeWlvUHp5ci1xcktsWGxoUEdtVmFFVDROdkJ5aA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "be5d8930b257",
-      "title": "Após passar quase seis anos no espaço, sementes de tomate enviadas pela NASA em 1984 retornaram à Terra para experimento inédito - CNN Brasil",
-      "published": "2026-09-22T13:50:34+00:00",
-      "summary": "Após passar quase seis anos no espaço, sementes de tomate enviadas pela NASA em 1984 retornaram à Terra para experimento inédito&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPakRldDJkQUNKRXVTa1loS3k2U01BVmg5bk5paXJyV1NhblE0ay1HeDE3QlhaSElyaUNkR1RITVNDREl0Mzg5a2d5ZnlTWE9fMGZlUUkxVXpuSXoycWpKZFdSYzhVYVVkY2VfdW9YV3pzZjctVk50SXVxQ3VEQTBNZUZOWEFYZTZ6Q1UwTEt1R3dQMnlyRzY4enB6MUtLbHdkczZFMGtZVE92QUFVMVkxM2djVkxVRWk3RjJFT2V2ampKZnJESGZRWVB6WnI5WVhRRmxreVQ5ZU9ieURZcmlma2ZKVmIxTTlVWEtvaUZGNXpBZTVqODdRSUtoaF9vTEE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "50be5529e581",
       "title": "8 conservantes alimentares comuns são associados à pressão alta, em estudo inédito; veja lista - O GLOBO",
       "published": "2026-09-22T13:22:25+00:00",
-      "summary": "8 conservantes alimentares comuns são associados à pressão alta, em estudo inédito; veja lista&nbsp;&nbsp;O GLOBOUltraprocessados: estudo aponta maior risco de doenças e morte precoce&nbsp;&nbsp;Correio BrazilienseAditivos em ultraprocessados podem estar ligados a maior risco cardíaco&nbsp;&nbsp;MetrópolesEstudo da Unesp e Unicamp associa ultraprocessados ao avanço de doenças inflamatórias no intestino&nbsp;&nbsp;O TEMPOEstudo associa 8 aditivos alimentares comuns a risco cardíaco e pressão alta",
+      "summary": "8 conservantes alimentares comuns são associados à pressão alta, em estudo inédito; veja lista&nbsp;&nbsp;O GLOBOUltraprocessados: estudo aponta maior risco de doenças e morte precoce&nbsp;&nbsp;Correio BrazilienseAditivos em ultraprocessados podem estar ligados a maior risco cardíaco&nbsp;&nbsp;MetrópolesEstudo associa 8 aditivos alimentares comuns a risco cardíaco e pressão alta&nbsp;&nbsp;TerraUma nova investigação alerta sobre o consumo de ultraprocesados: elevam o risco de morte prematura&n",
       "sources": [
         {
           "name": "O GLOBO",
@@ -186,14 +222,26 @@
       ]
     },
     {
-      "id": "37190cbd62c5",
-      "title": "Astrônomos detectam pela primeira vez sinal de rádio emitido por planeta fora do Sistema Solar - Época Negócios",
-      "published": "2026-09-22T12:17:18+00:00",
-      "summary": "Astrônomos detectam pela primeira vez sinal de rádio emitido por planeta fora do Sistema Solar&nbsp;&nbsp;Época Negócios",
+      "id": "38730cfe54fa",
+      "title": "Astrônomos captam sinal de rádio vindo de exoplaneta gigante pela primeira vez na história - Olhar Digital",
+      "published": "2026-09-22T13:02:00+00:00",
+      "summary": "Astrônomos captam sinal de rádio vindo de exoplaneta gigante pela primeira vez na história&nbsp;&nbsp;Olhar Digital",
       "sources": [
         {
-          "name": "Época Negócios",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNSFc3eGt5M21jdVAweEJ0UUw1TF83NXpRbXZ6MnIxTDNoVDFHb0d3alpVVl9VZ2k3TDZwZVltMm9nOGt4elhCMUQ3djVPWklhY0VzZHA0akZDRTFkQ1ljZ0Q4aGRSeUlZcG5fdHp1QXc5Uk85VnhNcXdmV01oaGRWVlVid0IweUVmbzAweVZwa0RZWHJVbk9zNVI1TFFQTW5EakthdlF5MEE0ZUViYW9LYWM5M3RnWjJJSFZ1eEhUWlFvbkIzRVN2aVRKWTN2UzJfS0RGc0FaQTJ5QjdmYmFrWlBHR1ZDcGZkSFo1WS1RdlZrbWlIalYw0gGGAkFVX3lxTFBLN2pPQVB2QnJ5VExaSVdwTFppTzAtLTZWOEs2TzJ5Z01HVnNxeC00WjVWdDVtT0E5X1dnSV9fVVpLemJLdnFkNC1NM2JHODdCeVN6VE44UzY0UkRnNlZfNG9pLUVBclRvYm1zRmxRWElrYm5nOWNvSF9BMmZuVUtKQUJNUUJMWDVYRUdEeXdfV3EtaktFYUE1M2JPVlJZamEtcERtY1EzMmlXcEkwdGJPLTJwVzlJUnJtOFNsQ2JIOFF0YkxnMFlPOTE1MEhMMDBrdWZRWVBzR2UxVWtiN0VqRHdLS1dYeGdGcUJVa2RoSm14cE94OW05YVFGX082eVFhaGdRbUE?oc=5"
+          "name": "Olhar Digital",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTC15WmFFVWFYMHd2ZjV1Sk1fN1BaU0wzbmlLaDctV0Z4UGd5ZkNhdE1OTnpETnBoUkNGZDVzekh3aWhPQjh2azV2dzlRTVFYT01LaVJDR3RBWlRwZ1ZJdjFMcnFHYm9qVzVVRUM5eTRESEMwdThVUG9MR1A5dVJMNE5QdEpWNzRuM3RLaEJidVhQTjYySHRmX0Nqd2VKckZ0X1JNUDYzYWotVDR0WkVmdEZ2ZDltSF90S1JIbG04aFhXMlZnRVAzVlR5Z2V2ajNpcmtrNkVzSk1QSjg3RXpfczNOVVBocmgyVjlpTXpqNWZPOUJQVGV3QkJqUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6f21c9a37c2e",
+      "title": "Gramado vai sediar maior congresso de criminalística da América Latina - GZH",
+      "published": "2026-09-22T12:59:36+00:00",
+      "summary": "Gramado vai sediar maior congresso de criminalística da América Latina&nbsp;&nbsp;GZH",
+      "sources": [
+        {
+          "name": "GZH",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPVng2QjdaaVJLcGRxTFFqN3VTN1FZeExxMHFHb19CZElyQUFBLWNETVYtX2w0ZXU5cGNfYTB1aHFiUmYxck4yNjNTYkJlejdMVnM1aFp4S0p1UVpLT1FhMUhjeUx2aEhEcUpSQ1FudjlOcHlJWGdCaktIb29US1kyYnFPOUVhVjhjTEx5S3ljay1jUmlHTnZqaXg3dk45Vk1oeXNFb0dzWmlZd3Ffc2ljaXY3QVFoZUY1NThmMjRaMXdkcUhIM01wSlJkQkd6LW85RkdISDNkMDRSaWdZQmJQQ1BOSTRkcHZyTWNTWXRnVUYyUWFzLWp6MGg4ZHV2WWNpUVAtMG9LOA?oc=5"
         }
       ]
     },
@@ -210,14 +258,26 @@
       ]
     },
     {
-      "id": "04ce9a3b5d56",
-      "title": "Pesquisadores removem cópia extra do cromossomo 21 em células com Síndrome de Down - Folha Vitória",
-      "published": "2026-09-22T10:23:47+00:00",
-      "summary": "Pesquisadores removem cópia extra do cromossomo 21 em células com Síndrome de Down&nbsp;&nbsp;Folha Vitória",
+      "id": "f506b0d1ce9e",
+      "title": "Cientistas acompanham idosos por 7 anos e descobrem que dieta rica em ultraprocessados aceleram o declínio em pessoas com gene do Alzheimer - Terra",
+      "published": "2026-09-22T11:12:00+00:00",
+      "summary": "Cientistas acompanham idosos por 7 anos e descobrem que dieta rica em ultraprocessados aceleram o declínio em pessoas com gene do Alzheimer&nbsp;&nbsp;Terra",
       "sources": [
         {
-          "name": "Folha Vitória",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVnFucWJUa0JQalMzdXdZTnpGSnVCLV9NT0RRb0w5ckhmaGpEdER5eXZBMjc3YzFQQ2o2TTQzQlcxSG5Pa19fdHI1VnNlMGNUbUJZcDA2bFNndS16bk9PSGVHNXlFcTJiUHJRVnVKYkQtRnJTT0d5SDNyVk1PV2VBMTNBREZRanZrRlBfVmxFSTk2STg?oc=5"
+          "name": "Terra",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNVzVsSmpqdUxtNFpEbmpLbUIxVTMxS3lBaFdZd3YzSHZaenVPVGhZMEFPNzdLZTk1dFZjWnRUcE1Fekh5WGh5UEUxdy1XNURWYUVuODVBRy15WElrX0hRSzloVjVzLWd1WTlrZmk1dFByYS1lbl9feGNTWk56Z0tDUFV6N1NSMjJ5TXBZRTBKX2FDdmI3YnAtcjAwYjlxbVo3ZkR4V0J3YUNES0pfdmVDWWNUREg0SGRENnFxUU9uVWk3dUlqWS1WaU8wR3Zic3ZtYVFpZXdmYlVwTmtudjdJc2tRWTEtUG5NdW5CNFhpWUZFclJWQTYxR3dSSTA5aXIwZm03WmFkNGJDeWYwaG5SSzRhQlZUOHJoM2pFbGV5ZFFEQ19WNzI1U1B1YXFudURCTHZJejZVaVZXcV94WFNHZlRROFJPZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "be5d8930b257",
+      "title": "Após passar quase seis anos no espaço, sementes de tomate enviadas pela NASA em 1984 retornaram à Terra para experimento inédito - CNN Brasil",
+      "published": "2026-09-22T10:50:34+00:00",
+      "summary": "Após passar quase seis anos no espaço, sementes de tomate enviadas pela NASA em 1984 retornaram à Terra para experimento inédito&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPakRldDJkQUNKRXVTa1loS3k2U01BVmg5bk5paXJyV1NhblE0ay1HeDE3QlhaSElyaUNkR1RITVNDREl0Mzg5a2d5ZnlTWE9fMGZlUUkxVXpuSXoycWpKZFdSYzhVYVVkY2VfdW9YV3pzZjctVk50SXVxQ3VEQTBNZUZOWEFYZTZ6Q1UwTEt1R3dQMnlyRzY4enB6MUtLbHdkczZFMGtZVE92QUFVMVkxM2djVkxVRWk3RjJFT2V2ampKZnJESGZRWVB6WnI5WVhRRmxreVQ5ZU9ieURZcmlma2ZKVmIxTTlVWEtvaUZGNXpBZTVqODdRSUtoaF9vTEE?oc=5"
         }
       ]
     },
@@ -237,7 +297,7 @@
       "id": "6ab0a9c306ce",
       "title": "'Tem cura': confusão com doenças comuns atrasa detecção de câncer infantil - UOL",
       "published": "2026-09-22T08:38:00+00:00",
-      "summary": "'Tem cura': confusão com doenças comuns atrasa detecção de câncer infantil&nbsp;&nbsp;UOLSetembro Dourado: mês de combate aos cânceres infantojuvenis marca avanços na prevenção e no tratamento&nbsp;&nbsp;TerraSetembro Dourado completa 10 anos em Bento Gonçalves com alerta sobre câncer infantojuvenil&nbsp;&nbsp;LeouveCâncer infantil: por que a doença é diferente em crianças e adultos&nbsp;&nbsp;G1Secretarias de Saúde, Educação e Assistência Social se unem ao GACC-RN em palestra sobre câncer infan",
+      "summary": "'Tem cura': confusão com doenças comuns atrasa detecção de câncer infantil&nbsp;&nbsp;UOLSetembro Dourado: mês de combate aos cânceres infantojuvenis marca avanços na prevenção e no tratamento&nbsp;&nbsp;TerraSetembro Dourado completa 10 anos em Bento Gonçalves com alerta sobre câncer infantojuvenil&nbsp;&nbsp;LeouveCâncer infantil: por que a doença é diferente em crianças e adultos&nbsp;&nbsp;G1Do Agreste para o Congresso Nacional: ICIA ganha destaque na mobilização pelo Setembro Dourado&nbsp;&",
       "sources": [
         {
           "name": "UOL",
@@ -261,7 +321,7 @@
       "id": "c1061e33ba8c",
       "title": "Você lava a carne na pia? Veja cinco hábitos na cozinha que podem colocar sua saúde em risco - Jornal Correio",
       "published": "2026-09-22T08:30:00+00:00",
-      "summary": "Você lava a carne na pia? Veja cinco hábitos na cozinha que podem colocar sua saúde em risco&nbsp;&nbsp;Jornal CorreioVeja mais manchetes e perspectivas no Google Notícias",
+      "summary": "Você lava a carne na pia? Veja cinco hábitos na cozinha que podem colocar sua saúde em risco&nbsp;&nbsp;Jornal CorreioComo fazer o manuseio correto dos alimentos nas refeições dentro de casa&nbsp;&nbsp;Arquivo SAUm pano de prato úmido e usado por dias pode espalhar microrganismos pela cozinha sem ninguém perceber&nbsp;&nbsp;O POVO",
       "sources": [
         {
           "name": "Jornal Correio",
@@ -273,7 +333,7 @@
       "id": "ecb598240de2",
       "title": "Infarto pode começar sem dor forte no peito; veja cinco sinais que podem passar despercebidos - Jornal Correio",
       "published": "2026-09-22T08:20:00+00:00",
-      "summary": "Infarto pode começar sem dor forte no peito; veja cinco sinais que podem passar despercebidos&nbsp;&nbsp;Jornal CorreioMulher infarta? Médicos explicam sintomas no sexo feminino ao Dr. Kalil&nbsp;&nbsp;CNN BrasilInfarto: veja os sinais e saiba quando buscar atendimento&nbsp;&nbsp;TerraInfarto: quanto tempo esperar após os primeiros sintomas para procurar ajuda?&nbsp;&nbsp;folhajornal.com.brInfarto nem sempre começa com dor forte: demora para buscar ajuda pode custar músculo cardíaco&nbsp;&nbsp;T",
+      "summary": "Infarto pode começar sem dor forte no peito; veja cinco sinais que podem passar despercebidos&nbsp;&nbsp;Jornal CorreioSaúde cardíaca: Especialistas alertam sinais e medidas ao Dr. Kalil&nbsp;&nbsp;CNN BrasilInfarto: quanto tempo esperar após os primeiros sintomas para procurar ajuda?&nbsp;&nbsp;folhajornal.com.brInfarto nem sempre começa com dor forte: demora para buscar ajuda pode custar músculo cardíaco&nbsp;&nbsp;Tua RádioSinais sutis de infarto: saiba quando procurar a urgência médica&nbsp;",
       "sources": [
         {
           "name": "Jornal Correio",
@@ -294,14 +354,14 @@
       ]
     },
     {
-      "id": "9083f9b50889",
-      "title": "Ciência busca novos tratamentos e exames para cânceres causados pelo HPV - Folha de S.Paulo",
-      "published": "2026-09-22T02:00:00+00:00",
-      "summary": "Ciência busca novos tratamentos e exames para cânceres causados pelo HPV&nbsp;&nbsp;Folha de S.PauloNovo em Folha: Especial discute avanços e desafios para prevenir, detectar e tratar doenças causadas pelo HPV&nbsp;&nbsp;Folha de S.PauloHospital Araújo Jorge passa a oferecer testes moleculares de HPV a 1.200 pacientes do SUS em Goiânia&nbsp;&nbsp;Jornal OpçãoPrefeitura participa do ‘Setembro em Flor’ em alusão ao Dia D de vacinação contra o HPV&nbsp;&nbsp;REDE BRASIL DE TELEVISÃOMarituba é pione",
+      "id": "907478283183",
+      "title": "Câncer de pulmão exige cuidado além da prevenção - Estadão",
+      "published": "2026-09-22T07:00:00+00:00",
+      "summary": "Câncer de pulmão exige cuidado além da prevenção&nbsp;&nbsp;EstadãoUma exposição invisível, um impacto real: o impacto do fumo passivo na incidência do cancro do pulmão&nbsp;&nbsp;News FarmaTabaco é culpado por 90% dos casos de câncer de pulmão no mundo&nbsp;&nbsp;Jornal da FrancaMulher e o câncer de pulmão: o perigo do diagnóstico tardio&nbsp;&nbsp;vejario.abril.com.brAgência de Comunicação - Agosto Branco: como reconhecer riscos e saber quando investigar o câncer de pulmão&nbsp;&nbsp;Estadão B",
       "sources": [
         {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOd2dFcUpkUHNpd3dZdE9zcmFnUGtvR243WTl4WkF5NlhKYTJsUTUxVTdpLTRMZDBid05ZNGJIM0pkbnpNaVhXNkNneHRfRjFVTDJoZmlHVlZnZGMtNmIyYjlSX1J1YWNta3Rjal9QdjBYNTMwcV9NSEtoek5HaDRpbVh2SmVnRHpzcFBDcUkxWkhQZFpaNXNjZE5IRWFiNWVGdEhtcmtYOWdid2ZFR1NteElwNXBoVzBLOVFXTm56TTk0YXBtUGcybnZXazR2dw?oc=5"
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMjN1NFEydDVJZm5rNWY1anVaUHhZdENKMUNra0VtMzVNMFJiempFYXozN3FFaE4zNHNCeVZEbXg0T1FFWmVkX2l3Sk91dm43TnhSQ1ZRNzlzUlhZb3VqajQ2dkVrSmlCd1NGdkk4a05wUjB5Q0w5VG94cGxtUmtERDZkY3Z6OGVRczFBbGhyVWVuQVHSAZgBQVVfeXFMT3VjR0QzdkRzQkRhWmNQZVpZSllWSlEyLU5QRUltcTlMQ0Njb0pjQzFsQ0xsRVp3T2ZUX3NXM1NMRXBzNERlY1dzV0NhUE05TkFGZUc3OTVwYllNcXlJTEJaWHd2U2ZaU2djeUZJcHZmSkFkN3FhaGFvX3JXMWxqYXpNNEIwYmZZaWZPUmRUN1lVMUh1MXNSRmg?oc=5"
         }
       ]
     },
@@ -318,62 +378,26 @@
       ]
     },
     {
-      "id": "95aaac927a98",
-      "title": "Marco Orsini reforça atuação em doenças neuromusculares raras no Niterói D’Or - colunadogilson.com.br",
-      "published": "2026-09-22T01:47:02+00:00",
-      "summary": "Marco Orsini reforça atuação em doenças neuromusculares raras no Niterói D’Or&nbsp;&nbsp;colunadogilson.com.br",
+      "id": "192b63e9989c",
+      "title": "Por que jovem perdeu os movimentos após andar na montanha-russa do Hopi Hari? Médico explica - exame.com",
+      "published": "2026-09-21T20:19:25+00:00",
+      "summary": "Por que jovem perdeu os movimentos após andar na montanha-russa do Hopi Hari? Médico explica&nbsp;&nbsp;exame.com",
       "sources": [
         {
-          "name": "colunadogilson.com.br",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeS04bHdCT0NvbmY1UlJkLThlLUNvYXdXVXpNay1xYnFoaDNFNFQzNVNiaVdSTHotUkhaVlpGUTJRNGRvWjdfdjVBajBGbEdvSUtZR2toN3hwZThNM2FzTnh1WlBWNjR0SnpvRkdETWtuZnZGSENwM3VFbGtvY2hkWVQ0QjZWekVaZHVZSkpWd0RmZWFJZ1VIT09jYk8wemJwX3hZV250by1zWTA?oc=5"
+          "name": "exame.com",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSFZlUnk2c0g3RzhyRVpYRTBWUUl4YnFjTUNnaEtVcXhVd0VQYjkyYTZXNDc2QUhTTGNiLUJkRlV3cF9mdTZDOXhJNDZjT01FMGY3TjE4c19fU200MEl0YWZzZEpZQks3VFFUTGt4UEROVmlHRG1xRU5PVENNMHN6MTEzVVhGWlVFY2x1SFpFX185M0dSQ192ZEVlUXFFdU1CU195Y1g4UnhlMDNzLXZwSkl6a3MxdXFSYkE?oc=5"
         }
       ]
     },
     {
-      "id": "55f455cb90bc",
-      "title": "A quase 4 km de profundidade, pesquisadores encontram embalagens, sacolas e até uma bota no fundo do mar e revelam até onde a poluição já chegou - Diário do Comércio",
-      "published": "2026-09-21T21:48:00+00:00",
-      "summary": "A quase 4 km de profundidade, pesquisadores encontram embalagens, sacolas e até uma bota no fundo do mar e revelam até onde a poluição já chegou&nbsp;&nbsp;Diário do Comércio",
-      "sources": [
-        {
-          "name": "Diário do Comércio",
-          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPT2JwVmJLMk5vLXFVci1zZU80Z19hV3dBckZMRTlHNGJRR2RSUlh5WGtrclNDRVRsYnRTeFNHZ1ZIMmh1cXQwWkJJM05kdEVRWkZQLVNkaERtOUU3YlJNQ2xtWjJUaWY0SEFxNl9VejE5VnpqZ1pZS05aUmw4R2pQUVhCbXBOelFfYTBhVHp6TzNwaGZxQkRMZmpTaFdibEp1cWE2Q19EWUYtVkJ0S1RHcndudFNRLXhkT0t1YWxhZ3liS3FPMWpFM2FnbjFKOUpvUC1HOVNDU29DQW9xcnFOSk4xYjh5aEtKRVVFSVZFOGlYckpWSGJZM2ZXRUk3anZUVW96MENsM0JhVkk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c72b18f0ffec",
-      "title": "Criatura com braços gigantes aparece na escuridão, assusta a mais de 3 mil metros de profundidade e mistério intriga cientistas e pesquisadores - Jornal Correio",
-      "published": "2026-09-21T20:55:00+00:00",
-      "summary": "Criatura com braços gigantes aparece na escuridão, assusta a mais de 3 mil metros de profundidade e mistério intriga cientistas e pesquisadores&nbsp;&nbsp;Jornal Correio",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNVVhBbFVhS0xnRnVOR0xIOHBERXhSeUVRZ3FlRm96a0x3dGFCYWRfVEJrak4tWEtCWkR4U2ZsZWVRMEh5aUhuNDZnblFPZXhiSTFCRE9yRGRGcEg1Z19tTVJqZmliazUxOWpRdlZMWF9VZ0VoTlRUYjMxSTlMQ2syRzFPelBwUkk3Mk1tQS1yZXUxVkpJazVNbFdTUC16Qk9PVC11TDhKSHk3ZzZSaW4yc0loellTZW1DOUpIZldkTU1Fa3JsSnJwTFVOUVFpT0ZtMjNfM21qTTVuM1o2S2pOdzRLelJGTHhjTGVWc2Vnc0hXcDgwNExCWUVCR28tYjRvSWRoUV9LUlQ3QXdFcWNfQ2o5WDJQbFlu?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5a60d212f110",
-      "title": "Saiba como reconhecer sinais de câncer de cabeça e pescoço a tempo de curar - itatiaia.com.br",
+      "id": "b134a7bcefaa",
+      "title": "Saiba como reconhecer sinais de câncer de cabeça e pescoço a tempo de curar - Rádio Itatiaia",
       "published": "2026-09-21T18:57:27+00:00",
-      "summary": "Saiba como reconhecer sinais de câncer de cabeça e pescoço a tempo de curar&nbsp;&nbsp;itatiaia.com.brCancro da cabeça e pescoço: actor Rui Santos alerta para importância de diagnóstico precoce&nbsp;&nbsp;PúblicoRastreios e sensibilização para cancro da cabeça e pescoço em Coimbra&nbsp;&nbsp;Diário de CoimbraCancro da cabeça e pescoço pode ter taxas de cura até 90% quando detetado cedo&nbsp;&nbsp;SAPOCampanha promove rastreios ao cancro da cabeça e pescoço na próxima semana&nbsp;&nbsp;RTP",
+      "summary": "Saiba como reconhecer sinais de câncer de cabeça e pescoço a tempo de curar&nbsp;&nbsp;Rádio ItatiaiaCancro da cabeça e pescoço: actor Rui Santos alerta para importância de diagnóstico precoce&nbsp;&nbsp;PúblicoRastreios e sensibilização para cancro da cabeça e pescoço em Coimbra&nbsp;&nbsp;diariocoimbra.ptCancro da cabeça e pescoço pode ter taxas de cura até 90% quando detetado cedo&nbsp;&nbsp;SAPOCampanha promove rastreios ao cancro da cabeça e pescoço na próxima semana&nbsp;&nbsp;RTP",
       "sources": [
         {
-          "name": "itatiaia.com.br",
+          "name": "Rádio Itatiaia",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ0ZWMU12Slpwekc2bDA2eGxtWGtrTHhzNjNCQ3k4WjItR2Z3eVFUbUxLYXEteGdJTk43TU15T1lKdnVjZ2dBNjNqaE9id1QxUzJLM0FuNlJxdi1MVXpobFNKdHJyRzlzU2M4VEZockR6VjA1dXJ3Wkg5LXpZWXVfSWg2SU1uaUdmT0dET2hrelRNVVBUYlBVaHl2VkJXWTJWcTgyckUxZzM3b2Y2OXBnSg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ad44ee35ad0a",
-      "title": "Doença rara faz influencer depender de remédio que pode custar R$ 900 mil - Portal UAI",
-      "published": "2026-09-21T18:49:00+00:00",
-      "summary": "Doença rara faz influencer depender de remédio que pode custar R$ 900 mil&nbsp;&nbsp;Portal UAI",
-      "sources": [
-        {
-          "name": "Portal UAI",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPVWFDZjRCMm8xald1LThkQ3lkMHF3ZGR2aU9rLXJfS1hQaWZuN2VxV0JMZTJyaFAxQnhkM0VfTEdtSFVjTV9MSld0OEt3SzZtM0ZFLUhvN2RjZzhsU0lPbXNYR2RlLU5wbzhHSDVENDZ6cTdpbzZzSnkwd01WRFY3b250V3NuYUNvVFhuaUhuRVB0UVRpdk0tZm5sRTlPam1PS2pvQ1NZS2Z0T0k4Nk1nZmVHY25RQk45WDMxbml2blFJSHRVQ3RyWlNVWVBrU0xCN1FKTmJ2anRIWWlHaTY5bWZNQnN5LTF2Q3k2dFJTWdIB7wFBVV95cUxPWGZ6ZmZZcm5ncDJhdE1QYXFyRkJLRF9EUGJJZFpKY3B6Tl9NaDVqSVI1MGRLRFJGLTJqM2U5dmFkNWJZN2dEZ3Eyd1NJcWd0UG1Fbzk3ZUhlOXFnVkNhcUVQWC0wSU9XcksyQXBhZmNYR1kyR1B0eHhkcWFwZVE2SnJ5N0ZmNGlzZkVnejFla0k2TzMyOWlEbG5Qd3dJWTBhQWFDTG5FZ1gtN2dxdVd1RXBMTFRnRDNKdHdaXzB2NGV2Vzl0ZmRoTVJIOVhDNE1WUndlUEdzZkVWaklqM3k2cnNYc0lvMnpzRlZwc042SQ?oc=5"
         }
       ]
     },
@@ -381,7 +405,7 @@
       "id": "afd5a310c407",
       "title": "Um avanço na detecção do câncer de intestino - Portal Drauzio Varella",
       "published": "2026-09-21T18:05:49+00:00",
-      "summary": "Um avanço na detecção do câncer de intestino&nbsp;&nbsp;Portal Drauzio VarellaAtenção aos sinais&nbsp;&nbsp;EstadãoPor que o câncer de intestino está aumentando entre os jovens?&nbsp;&nbsp;O GLOBOCerca de metade dos casos de câncer colorretal poderia ser evitável, diz especialista&nbsp;&nbsp;MidiamaxCâncer colorretal avança entre adultos jovens e acende alerta para diagnóstico precoce&nbsp;&nbsp;Revista Let's Go Bahia",
+      "summary": "Um avanço na detecção do câncer de intestino&nbsp;&nbsp;Portal Drauzio VarellaAtenção aos sinais&nbsp;&nbsp;EstadãoPor que o câncer de intestino está aumentando entre os jovens?&nbsp;&nbsp;O GLOBOTumor em jovens cresce e desafia diagnóstico e prevenção&nbsp;&nbsp;Jornal O SulCâncer colorretal avança entre adultos jovens e acende alerta para diagnóstico precoce&nbsp;&nbsp;Revista Let's Go Bahia",
       "sources": [
         {
           "name": "Portal Drauzio Varella",
@@ -393,7 +417,7 @@
       "id": "effeb4de3d7c",
       "title": "Cirurgia única para tratar glaucoma e catarata será oferecida pelo SUS - CNN Brasil",
       "published": "2026-09-21T17:29:38+00:00",
-      "summary": "Cirurgia única para tratar glaucoma e catarata será oferecida pelo SUS&nbsp;&nbsp;CNN BrasilSUS vai oferecer cirurgia que trata glaucoma e catarata ao mesmo tempo — Ministério da Saúde&nbsp;&nbsp;www.gov.brSUS incorpora cirurgia combinada para glaucoma e catarata&nbsp;&nbsp;VEJACirurgia que trata glaucoma e catarata ao mesmo tempo será incorporada ao SUS&nbsp;&nbsp;Correio Braziliense23/09/2026 | Cirurgia combinada glaucoma e catarata no SUS&nbsp;&nbsp;Afya | Home",
+      "summary": "Cirurgia única para tratar glaucoma e catarata será oferecida pelo SUS&nbsp;&nbsp;CNN BrasilSUS incorpora cirurgia combinada para glaucoma e catarata&nbsp;&nbsp;VEJASUS vai oferecer cirurgia que trata glaucoma e catarata ao mesmo tempo — Ministério da Saúde&nbsp;&nbsp;www.gov.brCirurgia que trata glaucoma e catarata ao mesmo tempo será incorporada ao SUS&nbsp;&nbsp;Correio BrazilienseSUS oferece cirurgia que trata glaucoma e catarata ao mesmo tempo&nbsp;&nbsp;Rádio Metrópole",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -402,34 +426,10 @@
       ]
     },
     {
-      "id": "3e82e83fc3ff",
-      "title": "USP sediará 14 dos novos Centros de Ciência para o Desenvolvimento da Fapesp - jornal.usp.br",
-      "published": "2026-09-21T17:18:00+00:00",
-      "summary": "USP sediará 14 dos novos Centros de Ciência para o Desenvolvimento da Fapesp&nbsp;&nbsp;jornal.usp.br",
-      "sources": [
-        {
-          "name": "jornal.usp.br",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS3ViUENoV212bm1iemlNcDFhUXV2QkY5YVlTNUJyWjducHJkSDdyQ3ZWdHRGal9WOHgzdkJrc2ljemRwVzhpU1I5NmpqSm5RQThGTmQ2YzZvT0VmTTBBaFBuY2h0bHFkUGszam00MGtuTGdHNEsyUFBfQk4wTHRMZEhCZ3VZa0s5Z1FWUHdUM1oxa2prR1ctbGlKbDB6NzMtb1RiYlJVVWQwdTdjcHp2LTFDMA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f3ff48fcbde4",
-      "title": "Que bicho é esse? Cecílias estão entre 50 tipos de anfíbios do Xingu - Primeira Página",
-      "published": "2026-09-21T15:04:23+00:00",
-      "summary": "Que bicho é esse? Cecílias estão entre 50 tipos de anfíbios do Xingu&nbsp;&nbsp;Primeira Página",
-      "sources": [
-        {
-          "name": "Primeira Página",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRUVZOExzZndUYTdEckJzUDhTOFJEcmREQVh5M28xdThTX0NER3QzNVVQSm9LSTlnSThCbUY1MWNvaFdsV0s0SWdoNnRfUW1xOTVzRTRTQlAxalFnNHJTMWF5ZFZucldSSEptZFRRVDNjX2tRTnA5YVNhUGRSZ1d2ZGFwc3VTXzBBWW5GaElYeFNpak15aWR0TGhqVFJpMlBKcl9jYjREUThXUDlzN2lQb18zUzlDcnd2M3lreUVfbDNLWlVoNjZFX21rbXRYZ2dyMjhMMQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8e17591f47e5",
       "title": "Parar o uso das canetas eleva risco cardíaco em estudo com veteranos - UOL",
       "published": "2026-09-21T14:30:51+00:00",
-      "summary": "Parar o uso das canetas eleva risco cardíaco em estudo com veteranos&nbsp;&nbsp;UOLParar com o Mounjaro pode aumentar risco de problemas no coração, diz estudo com diabéticos&nbsp;&nbsp;GloboInterromper o uso do Ozempic pode elevar o risco de infarto e AVC, aponta estudo&nbsp;&nbsp;O TEMPOParar de usar Ozempic pode elevar risco cardiovascular em até 22%, diz estudo&nbsp;&nbsp;ExameParar de tomar Ozempic pode aumentar risco de infarto e AVC, revela estudo&nbsp;&nbsp;jmonline.com.br",
+      "summary": "Parar o uso das canetas eleva risco cardíaco em estudo com veteranos&nbsp;&nbsp;UOLParar com o Mounjaro pode aumentar risco de problemas no coração, diz estudo com diabéticos&nbsp;&nbsp;GloboInterromper o uso do Ozempic pode elevar o risco de infarto e AVC, aponta estudo&nbsp;&nbsp;O TEMPOParar de usar Ozempic pode elevar risco cardiovascular em até 22%, diz estudo&nbsp;&nbsp;exame.comParar de tomar Ozempic pode aumentar risco de infarto e AVC, revela estudo&nbsp;&nbsp;jmonline.com.br",
       "sources": [
         {
           "name": "UOL",
@@ -450,18 +450,6 @@
       ]
     },
     {
-      "id": "02ee1f99dc8d",
-      "title": "Rio inicia vacinação de Pneumo 20 para idosos com 85 anos ou mais - O Dia",
-      "published": "2026-09-21T13:51:00+00:00",
-      "summary": "Rio inicia vacinação de Pneumo 20 para idosos com 85 anos ou mais&nbsp;&nbsp;O DiaPneumo 20 está disponível para idosos acima de 85 anos em Cuiabá&nbsp;&nbsp;G1Paraíba amplia vacinação com Pneumo20 para idosos a partir de 85 anos&nbsp;&nbsp;noticias.r7.comSUS amplia vacinação contra pneumonia para idosos acima de 85 anos&nbsp;&nbsp;TerraGuarulhos inicia vacinação com pneumo 20 para pessoas com 85 anos ou mais&nbsp;&nbsp;Guarulhos Hoje",
-      "sources": [
-        {
-          "name": "O Dia",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNXg2WWlpNml6WXJKUWJ6SXZEd25naEJJSkRQY2lEWnBjSWdRVmRycjlmR2lDdUNIdkJaWlRjV2J1UUlwNzdsX2w1NEYtU1FNQ2JQbVJHLTlheE1ZTmdFUlZ6dEk1SkkySjQyMHMtbDBSaURpbzN0a1liYmFSSGNDanowa082QlpPRWhWTV96cy1qeHV6TTZCTlhBZUtUNTh2YnBBMlFZbExuWmVheWI0cTh5Z2x1Zld4bzlRSnRRcnNCQdIBxwFBVV95cUxQV1B1ZDN1bWdnTUJoYUEteWQ4bU1DZWRiYlVXaThTakZBVFRENzZaNmJ6UWJfc3F5c2dRZ29XeEVqYUNQUUNmNG1UaFB3Y3lHMFA2SFdHSGNVaG40ZmN0VHhVbnVXRXI0cWFnbEsxZV83bUNxZHNwcENnaGhXVEV4SURlemZ4Q1FraVNYek1FR1FXMUl2dm4wemZCbk1Rd2JTODNINGVLazZfcXRtdlYxZVI1S3pEN1I5c1kxb1ZMTDR3MDRRYXpR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "90d69303e3ce",
       "title": "Síndromes respiratórias exigem vigilância integrada na suinocultura - Agrimidia",
       "published": "2026-09-21T12:33:01+00:00",
@@ -470,18 +458,6 @@
         {
           "name": "Agrimidia",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTTJTdEhlY3RsMC1KbnAzc2wyd3paMzlPclpFcDRQM3d4RnBlaHItSHpfVWFnYWV0RkNqZ1VMb1p0Zlo2RWktVm9xaWdRb1FVYlBLbGE4M1AwcVNWN1hRWFNZRGo2VUVvbmRKOU15TlFNM1dNTTR6U2VZZzR1dFp6aXNJbGgwUmFzZFZwQkxlSXAyMmJkcDFzaE1YYjFFeDVsd0dQcjBpamd6SE5wMk1lSGpSVWE4X1hEall3Y21ySWwzTkxFQlZF?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2db49838b60c",
-      "title": "Ameaça de um ‘super El Niño’ desafia cidades brasileiras a se preparar para eventos extremos - Revista Pesquisa FAPESP",
-      "published": "2026-09-21T12:32:20+00:00",
-      "summary": "Ameaça de um ‘super El Niño’ desafia cidades brasileiras a se preparar para eventos extremos&nbsp;&nbsp;Revista Pesquisa FAPESP",
-      "sources": [
-        {
-          "name": "Revista Pesquisa FAPESP",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUlZ3R25qY2xqT3FiWW9IQmtpb2lNdzFFUVl4aC1rQUtYX0NESzJZYlg0Rlc2bDRpZ0RPSDZ6di1pQlF1ZzNJREt4U051NTVZUU9lZVF0YWlDOWJ0bkJYVUJldmUtSngxa2Uxak45a0pIMFNPWVdVZ1l4VEVRQzgyY0lsV0FQWWM1dHRoOHpwV3VxTFlXeU9FcndtTWhfUVczckdwREhNRmZBMzJmaGlsMDdCRnlDS3pDZUxndkgwTDZHZE0?oc=5"
         }
       ]
     },
@@ -501,7 +477,7 @@
       "id": "830de4b69354",
       "title": "Alzheimer pode ser prevenido? 14 fatores que ajudam a reduzir o risco - CNN Brasil",
       "published": "2026-09-21T12:00:45+00:00",
-      "summary": "Alzheimer pode ser prevenido? 14 fatores que ajudam a reduzir o risco&nbsp;&nbsp;CNN BrasilDemência cresce na América Latina e não é explicada só pelo envelhecimento&nbsp;&nbsp;Folha de S.PauloDia Mundial do Alzheimer alerta para avanço da doença no Brasil e no mundo; confira&nbsp;&nbsp;Portal A12Saiba como a doença de Alzheimer afeta a memória&nbsp;&nbsp;G1Prevenção da Doença de Alzheimer começa antes dos primeiros sinais&nbsp;&nbsp;Prefeitura de Curitiba",
+      "summary": "Alzheimer pode ser prevenido? 14 fatores que ajudam a reduzir o risco&nbsp;&nbsp;CNN BrasilDemência cresce na América Latina e não é explicada só pelo envelhecimento&nbsp;&nbsp;Folha de S.PauloPesquisa sobre Alzheimer avança e expõe desigualdades&nbsp;&nbsp;Estado de MinasDia Mundial do Alzheimer alerta para avanço da doença no Brasil e no mundo; confira&nbsp;&nbsp;Portal A12Saiba como a doença de Alzheimer afeta a memória&nbsp;&nbsp;G1",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -510,50 +486,14 @@
       ]
     },
     {
-      "id": "5fe7bf8dbb80",
-      "title": "Câncer levou à amputação do pênis de 2 homens por dia em 2025 - noticias.r7.com",
-      "published": "2026-09-20T12:00:00+00:00",
-      "summary": "Câncer levou à amputação do pênis de 2 homens por dia em 2025&nbsp;&nbsp;noticias.r7.com",
-      "sources": [
-        {
-          "name": "noticias.r7.com",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVmJGTzA2Y0Eya0ZIaVY0dEhBVU5fY1hubUIwQzlNdUNnQ2dYdi10VzJtVmZ4d2FLQlY1RWpwREZIeXAzdjZZcTVmMno4cHAwUThURXJuVFBrRlM3UXU3V254OTlVR2psRW4zcVJLcElrdHdkTVhXYmFqbUdoYVNERjI4Rlc3c3FyaFEwaDJuVUFnYTlZVWxDNzNBeEp2cVl1VkFEaDNIZWF0LUhabERqRXctWW8?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7115cc9ae5ca",
-      "title": "É possível sofrer um ataque de morcego? Caso raro em Ilha Grande (RJ) vira estudo científico; saiba mais - O GLOBO",
-      "published": "2026-09-18T07:00:01+00:00",
-      "summary": "É possível sofrer um ataque de morcego? Caso raro em Ilha Grande (RJ) vira estudo científico; saiba mais&nbsp;&nbsp;O GLOBOMorcego-vampiro suga sangue de homem no Rio de Janeiro; caso raro vira estudo&nbsp;&nbsp;ExameCaso de homem atacado por morcego-vampiro é descrito pela ciência; entenda o comportamento&nbsp;&nbsp;redeutv.com.brHomem é mordido por Morcego em Ilha Grande, no Rio&nbsp;&nbsp;iG Último SegundoSuspeita de ataque de morcego-vampiro surge após homem encontrar sangue no chão e ferime",
+      "id": "f6764c299dc0",
+      "title": "Mulher tem ausência quase total de gordura aparente causada por doença rara; entenda - O GLOBO",
+      "published": "2026-09-18T16:15:01+00:00",
+      "summary": "Mulher tem ausência quase total de gordura aparente causada por doença rara; entenda&nbsp;&nbsp;O GLOBO",
       "sources": [
         {
           "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSFdHbHpmSWxKdGR4bUQ1bHpma1pNQU9Wc3p4T2RXZVlwZjBfbjhhUThwb1pvMWQzaGdKM0NfTDZsMkNCOTMxT3FfTmNDdzFITW9ISGs4cTN1S3YxdmRseDVhRVNLSzQxNWJES3FObWU3VFozQUIwOTV5eVVPMW9pZjRYeHVXTjdPcU1sS2VnLWQzV3luU3BiN0ExcmpkdzRwTkpVbWJSRHk1ZDVNeVVMenBseDU2OGRqSEt4czgyaTd2NzFwemtKMVk2SXRTWG1JcFl6UTFFeU5kU2ZjWXVpRlJqaXpaRV9qajlubTg4VFFxczZPalNj0gGGAkFVX3lxTE5nVVIycUl4amJmMlZCS19yekljazZwRkM5aVpvS21MUzNfWkdlbWozTktobUtrdjJjY3paN281WV9WeW9pVVI3YUhJZjBsMW9udUV0cDhnbks1Nm9EZ0FZMElXS3lKeTcweUpPby1tVjdHSmd0eHdRemlJeDl2UEx5Zk90WWZnYzZVMHZScFl5SVk2bzRlMGUyNjFib3FpaGZHMWtwZFByZlJLYmpsQjViNXV4b1ZxU3RfZS1URmRCbGJvek91TlM4MXhkdEJKdklhYmc4Z0JacEE5dWtfQjIxbFpmLXJnR0RRbGJGQU80YW4ySjNlaXVKQkk1RHZjYXk0RGg3Zmc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5f74a35d837d",
-      "title": "O paciente além da diálise: avanços no tratamento da doença renal crônica permitem uma vida com mais autonomia - Portal Drauzio Varella",
-      "published": "2026-09-17T18:04:21+00:00",
-      "summary": "O paciente além da diálise: avanços no tratamento da doença renal crônica permitem uma vida com mais autonomia&nbsp;&nbsp;Portal Drauzio VarellaVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "Portal Drauzio Varella",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWnBEOFlvLWNVdzZBdlJKVkt0akhsT1cxdkdSVUZOVjBsbDRGZnMzWmEyaXFjaXFEd2JqZ0hEdEc0XzBnODlqelVtdC0zVW9iLVVkZVgwUHRVYmxSSG1WcUVrc3Y1ZEU1LW9mcWhJMFRSYWlqYVNmOHo0MjJsM1hrY1hSQ1p5Y3Z5Wm50ZjFYVE1KZng3YkN0ZFJhaU5uMlA5cWJxVFNpZkFMLXg4N2VGbWVPeFV3RzZZVXZLeWczcEZpYzJWaE9xdXlrM05WbUtsUnFlSGhzV1ByQmVCTzN6NVE2dUkyako3UGpB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "873be68a9282",
-      "title": "'Fiz quimioterapia por 11 anos para tratar um câncer que eu não tinha' - G1",
-      "published": "2026-09-16T11:11:44+00:00",
-      "summary": "'Fiz quimioterapia por 11 anos para tratar um câncer que eu não tinha'&nbsp;&nbsp;G1Paciente foi submetida a quimio por 11 anos sem ter câncer&nbsp;&nbsp;Pleno.NewsMais de 40 pacientes processam hospital por tratamentos desnecessários contra o câncer&nbsp;&nbsp;BnewsMulher passa 11 anos em quimioterapia após diagnóstico de câncer cerebral e descobre que doença nunca existiu&nbsp;&nbsp;ND MaisFiz quimioterapia por 11 anos para tratar um câncer que eu não tinha&nbsp;&nbsp;redeutv.com.br",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeWoxbjhYRDlyQ3g4RDVGWjJGcGhMNGZYUTN6RXpPTUU5dDhubEY2YW9qNG4xeENJR3hyRmw3elJOM1RHMGhfNndDaDZUQU1kY3Q1dVIwVGVDNVNQcFF6MGdwNzJNb3ZzcjE5MDlUZWdXSnpiQ1A1eEs1QWQyOG12dUF6cS13MmN3alZoQnRmOVo4U1FDZVB4R01hdnhEclM5Z2FxVEFxLXQxcEE1aHpQbmhqWGRhVmZlTncwMdIBywFBVV95cUxNUzhTOU5oNGJxZUdmMWttbGJWbUY4ZHRqSWJHdXVtakQ2eUEzS1J6dzBiM212QUtHeXRBNzRlcEhmMnB0LTZEWXhUWHhveFVldV9zdEZYM0hBM3plUmNyeGZvYkpoUGJ6WFN1UWpJb2VleHQyRDE1eURtd3d6WTdpckVtODdKaWpjbU9ZV0drVjFwcFNaZV8yX1ZlNHNkb2VNal9BZzdSZExjNHhJVGRBdllmbGFncGRFRnJ3aWpOcGNRY2lvNHpzbVRVaw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOclRPOFRjVlI1cmIyZHd3ZlFnLUNIS2ZMSGtsTjFjMndLb2dfWDFLWkJUa3Robnl6c2FpVjk0bFhKR1lVSzdteFo1OHdHQmRWM3NTaXUtWDRucllkeWNXcW1YRmNzSW9kMF95RHA5RDlfaVI4NXlwZFRHaS1DSTVacVVEYUJEVTBCWk1peThyWGlkR3lsNldsdmdLOUk4Sm9aYm1pdnlFVTN3ZjRYbnFQcHhWa1JTUEdlOVJUNFlubjNRZ3ZndHNQTC1FXy0yZXhsTjJjMWJn0gHkAUFVX3lxTE1QR3VCTmI2LVE4d2dxd25PRXdFRUQxNDgxdVJvbXlSdDhDWEFGM0VZWDZTdTVFei12VERkbTl0UWV0ZmFJM0pkbDZwOXg0SWpLaWtfLWJPcm9PQnUyQW5mS2R4RmRLLVdBU0kxdmtEWDVHQTJNR2JTUldlVVVoeTVZd0R5VWxKNzFVX1dlQXFoNVFDeVA3VWdfY2E5dmFHMXZGUzJfRWdfd284UWVpUlRGUUdKMVJuNHpZaXNmNHZsQkt4bzN4QW9ORjJkSzA2bjM1V0hZcmNPaFlTeldZbFFFa2NQbA?oc=5"
         }
       ]
     }
