@@ -14,7 +14,7 @@ permalink: /news/centella_asiatica/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Centella asiatica?">
-<strong>Centella asiatica</strong> tem atualmente <strong>1 notícias</strong> e 10 indicações previstas.
+<strong>Centella asiatica</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ Esta página combina as indicações previstas por IA para Centella asiatica com
 <ul>
 <li><strong>Indicações previstas (10)</strong>:<ul>
 <li>insomnia (disease) (99.9%)</li>
-<li class="indication-matched">anxiety (99.1%)<span class="indication-tag">📰 anxiety</span></li>
+<li>anxiety (99.1%)</li>
 <li>sleep disorder, initiating and maintaining sleep (99.0%)</li>
 <li>agoraphobia (98.1%)</li>
 <li>rheumatoid arthritis (98.0%)</li>
@@ -40,15 +40,9 @@ Esta página combina as indicações previstas por IA para Centella asiatica com
 <p><a href="{{ '/drugs/centella_asiatica/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (1)
+## Notícias relacionadas (0)
 
-### [Álcool na adolescência afeta maturação do cérebro e deixa marcas até a vida adulta - Agência FAPESP](https://news.google.com/rss/articles/CBMitAFBVV95cUxNQkxGcW90MUZ2Y25nWXRDdEVRZ0psamhLTHVUNDltSnhjSk1vNzZTd0t5SkVBM1BsYlJsZUdLNWM2YnZsT3VBWjZmZmczc0VBM0NWOFppa3YyQzdFVVg5Z1JpeEhXQzFwMGNJY0JObjVqeVhLSmxfdzJFYkNvQ2dCZ3BCWTNyY2lWRHk0OHRHTW9PNl9vMmd4Z3dSNWU1SHVkSG15SF9nNm9mRWYtTGpYYlNuTkQ?oc=5)
-
-2026-09-23 <span class="news-indication-tag">anxiety</span>
-
-Fonte: [Agência FAPESP](https://news.google.com/rss/articles/CBMitAFBVV95cUxNQkxGcW90MUZ2Y25nWXRDdEVRZ0psamhLTHVUNDltSnhjSk1vNzZTd0t5SkVBM1BsYlJsZUdLNWM2YnZsT3VBWjZmZmczc0VBM0NWOFppa3YyQzdFVVg5Z1JpeEhXQzFwMGNJY0JObjVqeVhLSmxfdzJFYkNvQ2dCZ3BCWTNyY2lWRHk0OHRHTW9PNl9vMmd4Z3dSNWU1SHVkSG15SF9nNm9mRWYtTGpYYlNuTkQ?oc=5)
-
----
+*Ainda não há notícias relacionadas. Quando uma notícia mencionar este medicamento, ela será recolhida e exibida aqui automaticamente.*
 
 
 <div class="disclaimer">
