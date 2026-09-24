@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-24T03:41:11.421291+00:00",
-  "count": 2,
+  "generated": "2026-09-24T11:17:50.544056+00:00",
+  "count": 1,
   "news": [
     {
-      "id": "f9411723dd97",
-      "title": "Álcool na adolescência afeta maturação do cérebro e deixa marcas até a vida adulta",
+      "id": "c4f44aa4eb24",
+      "title": "Álcool na adolescência afeta maturação do cérebro e deixa marcas até a vida adulta - Agência FAPESP",
       "published": "2026-09-23T03:00:26+00:00",
       "sources": [
         {
-          "name": "agencia.fapesp.br",
+          "name": "Agência FAPESP",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQkxGcW90MUZ2Y25nWXRDdEVRZ0psamhLTHVUNDltSnhjSk1vNzZTd0t5SkVBM1BsYlJsZUdLNWM2YnZsT3VBWjZmZmczc0VBM0NWOFppa3YyQzdFVVg5Z1JpeEhXQzFwMGNJY0JObjVqeVhLSmxfdzJFYkNvQ2dCZ3BCWTNyY2lWRHk0OHRHTW9PNl9vMmd4Z3dSNWU1SHVkSG15SF9nNm9mRWYtTGpYYlNuTkQ?oc=5"
         }
       ],
@@ -29,57 +29,6 @@
             {
               "slug": "tapentadol",
               "name": "Tapentadol"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "9dcca1c785bc",
-      "title": "SUS vai oferecer cirurgia que trata glaucoma e catarata ao mesmo tempo — Ministério da Saúde",
-      "published": "2026-09-21T14:43:00+00:00",
-      "sources": [
-        {
-          "name": "www.gov.br",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS3V5SGNCSE02aFdtN2FoNDNMREEwTWtNRWtLVGNvMTFBZHNhNFRiUFFpRFg3Vy04ZHp6S29DV2gtYVRVN0g5OVlPVXJRRWlLRlZBZnVKdG9TTlRRTi1QS0t4MFMtNGdDVmNKWDdPNWFfUDVPUVRpd0dCdFJ2NFNOb05zR0dab1BjUkJETmxORkJqSkdqY3o2VlYzcVdvd1VfeGlWR25QdkVYLThmNmM0dExmRm1yeDA2TDRZY2RubFR1RDNnTmFaM25JODVvWEx3SFE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "glaucoma",
-          "keyword": "glaucoma",
-          "related_drugs": [
-            {
-              "slug": "rivastigmine",
-              "name": "RIVASTIGMINE"
-            },
-            {
-              "slug": "levobunolol",
-              "name": "Levobunolol"
-            },
-            {
-              "slug": "brinzolamide",
-              "name": "Brinzolamide"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "pressão ocular alta",
-          "keyword": "glaucoma",
-          "related_drugs": [
-            {
-              "slug": "rivastigmine",
-              "name": "RIVASTIGMINE"
-            },
-            {
-              "slug": "levobunolol",
-              "name": "Levobunolol"
-            },
-            {
-              "slug": "brinzolamide",
-              "name": "Brinzolamide"
             }
           ]
         }

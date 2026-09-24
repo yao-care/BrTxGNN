@@ -14,7 +14,7 @@ permalink: /news/rivastigmine/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre RIVASTIGMINE?">
-<strong>RIVASTIGMINE</strong> tem atualmente <strong>1 notícias</strong> e 1 indicações previstas.
+<strong>RIVASTIGMINE</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -25,21 +25,15 @@ Esta página combina as indicações previstas por IA para RIVASTIGMINE com as n
 <strong>Informações do medicamento</strong>
 <ul>
 <li><strong>Indicações previstas (1)</strong>:<ul>
-<li class="indication-matched">glaucoma (99.3%)<span class="indication-tag">📰 glaucoma</span></li>
+<li>glaucoma (99.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/rivastigmine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (1)
+## Notícias relacionadas (0)
 
-### [SUS vai oferecer cirurgia que trata glaucoma e catarata ao mesmo tempo — Ministério da Saúde](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS3V5SGNCSE02aFdtN2FoNDNMREEwTWtNRWtLVGNvMTFBZHNhNFRiUFFpRFg3Vy04ZHp6S29DV2gtYVRVN0g5OVlPVXJRRWlLRlZBZnVKdG9TTlRRTi1QS0t4MFMtNGdDVmNKWDdPNWFfUDVPUVRpd0dCdFJ2NFNOb05zR0dab1BjUkJETmxORkJqSkdqY3o2VlYzcVdvd1VfeGlWR25QdkVYLThmNmM0dExmRm1yeDA2TDRZY2RubFR1RDNnTmFaM25JODVvWEx3SFE?oc=5)
-
-2026-09-21 <span class="news-indication-tag">glaucoma</span> <span class="news-indication-tag">glaucoma</span>
-
-Fonte: [www.gov.br](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS3V5SGNCSE02aFdtN2FoNDNMREEwTWtNRWtLVGNvMTFBZHNhNFRiUFFpRFg3Vy04ZHp6S29DV2gtYVRVN0g5OVlPVXJRRWlLRlZBZnVKdG9TTlRRTi1QS0t4MFMtNGdDVmNKWDdPNWFfUDVPUVRpd0dCdFJ2NFNOb05zR0dab1BjUkJETmxORkJqSkdqY3o2VlYzcVdvd1VfeGlWR25QdkVYLThmNmM0dExmRm1yeDA2TDRZY2RubFR1RDNnTmFaM25JODVvWEx3SFE?oc=5)
-
----
+*Ainda não há notícias relacionadas. Quando uma notícia mencionar este medicamento, ela será recolhida e exibida aqui automaticamente.*
 
 
 <div class="disclaimer">
