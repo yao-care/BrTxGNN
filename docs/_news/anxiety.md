@@ -33,11 +33,11 @@ Esta página reúne as notícias de saúde mais recentes sobre «anxiety» e lis
 
 ## Notícias relacionadas (1)
 
-### [Álcool na adolescência afeta maturação do cérebro e deixa marcas até a vida adulta - Agência FAPESP](https://news.google.com/rss/articles/CBMitAFBVV95cUxNQkxGcW90MUZ2Y25nWXRDdEVRZ0psamhLTHVUNDltSnhjSk1vNzZTd0t5SkVBM1BsYlJsZUdLNWM2YnZsT3VBWjZmZmczc0VBM0NWOFppa3YyQzdFVVg5Z1JpeEhXQzFwMGNJY0JObjVqeVhLSmxfdzJFYkNvQ2dCZ3BCWTNyY2lWRHk0OHRHTW9PNl9vMmd4Z3dSNWU1SHVkSG15SF9nNm9mRWYtTGpYYlNuTkQ?oc=5)
+### [Álcool na adolescência afeta maturação do cérebro e deixa marcas até a vida adulta](https://news.google.com/rss/articles/CBMitAFBVV95cUxNQkxGcW90MUZ2Y25nWXRDdEVRZ0psamhLTHVUNDltSnhjSk1vNzZTd0t5SkVBM1BsYlJsZUdLNWM2YnZsT3VBWjZmZmczc0VBM0NWOFppa3YyQzdFVVg5Z1JpeEhXQzFwMGNJY0JObjVqeVhLSmxfdzJFYkNvQ2dCZ3BCWTNyY2lWRHk0OHRHTW9PNl9vMmd4Z3dSNWU1SHVkSG15SF9nNm9mRWYtTGpYYlNuTkQ?oc=5)
 
 2026-09-23
 
-Fonte: [Agência FAPESP](https://news.google.com/rss/articles/CBMitAFBVV95cUxNQkxGcW90MUZ2Y25nWXRDdEVRZ0psamhLTHVUNDltSnhjSk1vNzZTd0t5SkVBM1BsYlJsZUdLNWM2YnZsT3VBWjZmZmczc0VBM0NWOFppa3YyQzdFVVg5Z1JpeEhXQzFwMGNJY0JObjVqeVhLSmxfdzJFYkNvQ2dCZ3BCWTNyY2lWRHk0OHRHTW9PNl9vMmd4Z3dSNWU1SHVkSG15SF9nNm9mRWYtTGpYYlNuTkQ?oc=5)
+Fonte: [agencia.fapesp.br](https://news.google.com/rss/articles/CBMitAFBVV95cUxNQkxGcW90MUZ2Y25nWXRDdEVRZ0psamhLTHVUNDltSnhjSk1vNzZTd0t5SkVBM1BsYlJsZUdLNWM2YnZsT3VBWjZmZmczc0VBM0NWOFppa3YyQzdFVVg5Z1JpeEhXQzFwMGNJY0JObjVqeVhLSmxfdzJFYkNvQ2dCZ3BCWTNyY2lWRHk0OHRHTW9PNl9vMmd4Z3dSNWU1SHVkSG15SF9nNm9mRWYtTGpYYlNuTkQ?oc=5)
 
 ---
 
