@@ -1,19 +1,67 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-09-24T21:15:37.584942+00:00",
+  "fetched_at": "2026-09-25T03:57:32.096879+00:00",
   "total_fetched": 94,
-  "unique_count": 91,
-  "health_related_count": 31,
+  "unique_count": 89,
+  "health_related_count": 33,
   "news": [
+    {
+      "id": "6587bdd1a256",
+      "title": "FAPERJ lança editais para pesquisas sobre obesidade e envelhecimento saudável - FAPERJ",
+      "published": "2026-09-24T22:58:57+00:00",
+      "summary": "FAPERJ lança editais para pesquisas sobre obesidade e envelhecimento saudável&nbsp;&nbsp;FAPERJ",
+      "sources": [
+        {
+          "name": "FAPERJ",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9LQ2ZsSnBIQ1I5ay1RMUREQldyOEdwVmc5R3p4ZGxxUXA4MGxUQWRkc1VYQUtpOUY0VElISm9qbWNJNFMyVkdNaWFB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "38c7b0be8107",
+      "title": "Esclerose múltipla: sintomas podem desaparecer e dificultar diagnóstico, alerta médico - Rádio Itatiaia",
+      "published": "2026-09-24T22:46:37+00:00",
+      "summary": "Esclerose múltipla: sintomas podem desaparecer e dificultar diagnóstico, alerta médico&nbsp;&nbsp;Rádio Itatiaia",
+      "sources": [
+        {
+          "name": "Rádio Itatiaia",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZjNTWXZZRW52Zy0yUFNsMWpBd29IRTNSeUpxUnpxNzEtOFJiblF2Z0tjNXZPUTEyR19KX2dlbEphSE4xUzMzN3FYLWZVMlYtTTZObENVLXloY0oySjF0ZmVzbUljNlctSnp2a2dwdXlaakJidGFLVnhlTkZaSHVLMW84RG1PeEFsWHk2R0dsU21fZGRIc0o4dFJDcTJEYmdXWTVuVGtoTnpOa01FM0ZCbFV2aFJOUnQwYVhr?oc=5"
+        }
+      ]
+    },
     {
       "id": "d994b4ef3860",
       "title": "Lúcia Helena: Dormir pouco compromete a longevidade, mas dormir demais também faz mal - UOL",
-      "published": "2026-09-24T21:04:24+00:00",
+      "published": "2026-09-24T22:02:37+00:00",
       "summary": "Lúcia Helena: Dormir pouco compromete a longevidade, mas dormir demais também faz mal&nbsp;&nbsp;UOLSono ruim aumenta risco de infarto antes dos 40 anos&nbsp;&nbsp;Campo Grande NewsDormir mal afeta o corpo e a mente: conheça 6 impactos da insônia&nbsp;&nbsp;CartaCapitalNoite virada: o que fazer para \"sobreviver\" no trabalho depois de uma crise de insônia&nbsp;&nbsp;CNN BrasilDormiu mal? Uma noite mais longa ajuda na recuperação, mas não apaga completamente a dívida de sono&nbsp;&nbsp;O POVO",
       "sources": [
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOHdpcDJ3VEtoaEZ2QzN0Qzc1RVFBRGw0MTdoSFI1bmJad0xhdHdId09TQUxQaG9SYmFLVDdhQkt5MU11U0I1UTVCQkFQSm1mMFZCbS0tdWhjdTRkdFdWdl8tZjdwZjNOdDFFMEpmbnVKNUNFNWxxM0h0cW5XZU0xT0FvSlFYRmV6cGZkTnRXSUkzallvaGc4Z3FOQ0pqaGZTOTN3T1djX1FEZGlrblh5SlZvYkU1V2NSTWhhZ0JKRFVtYjlXRldGbEFDT2NYQU1HZUxV?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dfd6ccd545ac",
+      "title": "Astrônomos detectaram pela primeira vez sinais de rádio provenientes de um exoplaneta a 63,4 anos-luz da Terra - Catraca Livre",
+      "published": "2026-09-24T13:35:09+00:00",
+      "summary": "Astrônomos detectaram pela primeira vez sinais de rádio provenientes de um exoplaneta a 63,4 anos-luz da Terra&nbsp;&nbsp;Catraca Livre",
+      "sources": [
+        {
+          "name": "Catraca Livre",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdTVyN0JGbnFuQUdxSDdiQi1RcE1IUFUtQzJkNzRmRUdDUDRRQlA2UGhjck5kSXRNU01UQk12V1ROdklQaDJ1YTBFZjQtSS1aRUhlZUdIQVQ5eC1paERYcUhuMlBkUzdpcm9MOHk1QTBvbnFKSVlKUTUxTWNRSHFoV1Z2dm5ud1laMm8zSGs4TVVrd2dqbG9lcHpEcnl6UnNXN0JKaGUyQ0VQRjZDODlaTlhHeG80ckg2UWhnNDhHeWpLbTM0QkNiV3l1eVBLYjRROUc1Wld5MUdxMWdQOF8ybg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "eb80ac071185",
+      "title": "Você tem alergia ao próprio pet? Especialistas do interior de SP reforçam cuidados para aliviar sintomas - G1",
+      "published": "2026-09-24T13:32:09+00:00",
+      "summary": "Você tem alergia ao próprio pet? Especialistas do interior de SP reforçam cuidados para aliviar sintomas&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPck41MXFpU2hoQjVrZUh0Y09kMS1ab2VyZ2VSQ3BfLWJ0dTVKTGZsTWRKeTJwbXdIcnBnZzllUWU3MjU1a3pwZ0RPeG12OXo4TXdLcVZFNFNmUkJaQjhWcGdpZlpwMjBZUk9jd20zX1pSaW9oMVY4SXVHM1VuZVA0YUN4NGlkRDhEVDhhZEpiRE5nY1ppb3hGRFNEaHYyaGdxLXpfZVppMkctV2UyM25ueUZILWdGdE5qZHo2SVYzVnJhZjJpRFNlRnBQLWI1VXlpTGxlNWpzUmdaYVdvTkg3NUptVWtRWHZ4c3F6RlZZTTJ5dHF4RFZQbTNIaTYxNDRZcFBSLTkwQml2UHJOMXE40gGeAkFVX3lxTE1ZR0RVV1NkTjN2b0ZqT0QwX29zUllFNS1xaXp2TF9ONDN4VTJpMVJ3dFJNY3A4cU14ZUZSdFJTc1FsQ25QR2xWbkJmbFh3QWdsUFFWaGg0cEMyZW1Xd2thbnZZdkh5c2F1NmhxaExQZWRxbmJFM2t2SGY1YV9HaldpTjczc3h6SVBReUxLc21oN2pQUzNYTkFIX1FmQlp5bEhCTC1NWXNmbmFKNmx5cGM1aE5NZklzRU9aRFpWeHRGblZRQVdBU2hLWHRCOWdWUmtCT1k4RW9tYjlja1NuOFVTQlRjb3lLX1oxczRCRHZEcXJwbWR1aW9yNVVUbnQ2SWxidzZMMm1vamNLSFJMaElYTG92amt4cjRnNVZEdVE?oc=5"
         }
       ]
     },
@@ -42,13 +90,25 @@
       ]
     },
     {
-      "id": "b670a5a0eeed",
-      "title": "Canetas emagrecedoras na gravidez: o que se sabe sobre riscos e quando interromper o uso - g1.globo.com",
-      "published": "2026-09-24T08:00:00+00:00",
-      "summary": "Canetas emagrecedoras na gravidez: o que se sabe sobre riscos e quando interromper o uso&nbsp;&nbsp;g1.globo.comVeja mais manchetes e perspectivas no Google Notícias",
+      "id": "8d0c1f3c1927",
+      "title": "Longe dos pratos e das receitas, conheça o poder do inhame contra o câncer - G1",
+      "published": "2026-09-24T08:35:16+00:00",
+      "summary": "Longe dos pratos e das receitas, conheça o poder do inhame contra o câncer&nbsp;&nbsp;G1",
       "sources": [
         {
-          "name": "g1.globo.com",
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU3RKUUFNdldwNldUU2Q5WGFfY1l4Q1NfTC1VaFpaUk1RNXpxS0FhUnV5d1BScVd4MmltdXpVVXpxdmhBemhCTjFHZ3JzcDMzQmYxSWtHVVJHQ2RzMXlqSlFMS3lmVUJYY2xpc3R5ZWhEOHFzbzdOdFB6dE1YX2lFMG4tZi13MW1HQ1dTS2ZoaHliVm9zR1RKZUpNTDFiR2FGVEJjRnpULVl1dlh3NUN1MEFMdG5rdUFNM1lKdHFaMlJIZm8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0404512ffc5b",
+      "title": "Canetas emagrecedoras na gravidez: o que se sabe sobre riscos e quando interromper o uso - G1",
+      "published": "2026-09-24T08:00:00+00:00",
+      "summary": "Canetas emagrecedoras na gravidez: o que se sabe sobre riscos e quando interromper o uso&nbsp;&nbsp;G1Veja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMUtFaEFKVHpsNkJuRS1PQ3ZkTTZqNThmXzNGY3NZeV94TmUzVmFsN2d4eFVadFdWWk1UOTBwbUs5WG5zWUNFdHhtaGNDRHhFTW9zWUJIYnhSU1FyQkhQUG9qRS0tZWRxR1pnendDUlhCZTUzcnVHSVBDLTkwTkFjTjM5SWt4VEZzQV9KQzZ2NEtfSEJSMGdoMzZSVkdDcUJQaU5RMm0wVm5lNmxCZW51WjJjalpXUm5lVlhVWXNHSHJ2M1lsemtWS2tNdzRmRkN1ZmdHYzBB0gHkAUFVX3lxTE5LNVZpUUhVWWo0ZzViUlloejJQNjhvZjE4dldXaHFKYUxpVGpaN0VLZk5iWGYxeFdVUEgtTlRQMVdtaVVfLS1NSnh3RlpUbGI5RzZqc2RwcnR5bFRObDdXeDV3dldxVWpVcDBiVkx1aWdvbDNneXViaTNtcm96UGZZbTVkWmlRNi1IaDNxYXRuMDRoSEQ1V3BKd1EyTkFPSWJjeWI0T3pCOVJyTE1xc1lzQ2wwSVZ0cGNUQ0tyU0xZT2phVC1kM0ZYV1Rmd1dEWFZuSG1iOEZneDB6amROb0NNbjJ1MQ?oc=5"
         }
       ]
@@ -81,7 +141,7 @@
       "id": "cdfa3a9f9b7b",
       "title": "Silicose representa 85% dos casos de doenças pulmonares ligadas à poeira no ES - A Gazeta",
       "published": "2026-09-24T01:07:00+00:00",
-      "summary": "Silicose representa 85% dos casos de doenças pulmonares ligadas à poeira no ES&nbsp;&nbsp;A GazetaSaiba o que é silicose, doença provocada pelo pó das rochas&nbsp;&nbsp;g1.globo.comCalifórnia pretende proibir bancadas de pedra artificial e reduzir os casos de silicose&nbsp;&nbsp;IQAirSilicose responde por 85% das doenças pulmonares causadas por poeira no ES&nbsp;&nbsp;Folha do ES",
+      "summary": "Silicose representa 85% dos casos de doenças pulmonares ligadas à poeira no ES&nbsp;&nbsp;A GazetaSaiba o que é silicose, doença provocada pelo pó das rochas&nbsp;&nbsp;G1Califórnia pretende proibir bancadas de pedra artificial e reduzir os casos de silicose&nbsp;&nbsp;IQAirSilicose responde por 85% das doenças pulmonares causadas por poeira no ES&nbsp;&nbsp;Folha do ES",
       "sources": [
         {
           "name": "A Gazeta",
@@ -93,7 +153,7 @@
       "id": "fbf2bcc47e96",
       "title": "Combate ao estresse: quando a tensão do dia a dia começa a afetar a saúde? - CNN Brasil",
       "published": "2026-09-24T00:06:57+00:00",
-      "summary": "Combate ao estresse: quando a tensão do dia a dia começa a afetar a saúde?&nbsp;&nbsp;CNN BrasilDia Mundial do Combate ao Estresse alerta para riscos à saúde física e mental&nbsp;&nbsp;g1.globo.comDia de Combate ao estresse com Leão no Z4 | Charges | O Liberal&nbsp;&nbsp;O LiberalEstresse prolongado pode afetar saúde do coração, alertam especialistas&nbsp;&nbsp;JCSua cabeça dói sempre? O estresse pode estar envolvido&nbsp;&nbsp;Folha do ES",
+      "summary": "Combate ao estresse: quando a tensão do dia a dia começa a afetar a saúde?&nbsp;&nbsp;CNN BrasilDia Mundial do Combate ao Estresse alerta para riscos à saúde física e mental&nbsp;&nbsp;G1Dia de Combate ao estresse com Leão no Z4 | Charges | O Liberal&nbsp;&nbsp;O LiberalEstresse prolongado pode afetar saúde do coração, alertam especialistas&nbsp;&nbsp;JCSua cabeça dói sempre? O estresse pode estar envolvido&nbsp;&nbsp;Folha do ES",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -114,26 +174,14 @@
       ]
     },
     {
-      "id": "0f7aae78066b",
-      "title": "SC registra 2ª morte por hantavirose em 2026; doença é transmitida por ratos silvestres - g1.globo.com",
+      "id": "f835c069076f",
+      "title": "SC registra 2ª morte por hantavirose em 2026; doença é transmitida por ratos silvestres - G1",
       "published": "2026-09-23T22:20:03+00:00",
-      "summary": "SC registra 2ª morte por hantavirose em 2026; doença é transmitida por ratos silvestres&nbsp;&nbsp;g1.globo.comMorte misteriosa de jovem foi causada por doença que havia sumido de cidade em SC há quase 20 anos&nbsp;&nbsp;NSC TotalHomem de 28 anos morre de hantavirose em Itajaí; cidade não tinha caso desde 2007&nbsp;&nbsp;DIARINHOItajaí confirma morte de homem de 28 anos por hantavirose: último caso havia sido registrado em 2007&nbsp;&nbsp;camboriu.com.brSC confirma segunda morte no ano por hanta",
+      "summary": "SC registra 2ª morte por hantavirose em 2026; doença é transmitida por ratos silvestres&nbsp;&nbsp;G1Morte misteriosa de jovem foi causada por doença que havia sumido de cidade em SC há quase 20 anos&nbsp;&nbsp;nsctotal.com.brHomem de 28 anos morre de hantavirose em Itajaí; cidade não tinha caso desde 2007&nbsp;&nbsp;DIARINHOItajaí confirma morte de homem de 28 anos por hantavirose: último caso havia sido registrado em 2007&nbsp;&nbsp;camboriu.com.brSC confirma segunda morte no ano por hantaviro",
       "sources": [
         {
-          "name": "g1.globo.com",
+          "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbElISUZSMG9JT09UdjNmRGdYbURtdVFiLXk4SHkwVXpfUXdZYURRUzVfdkt5RHlvQVk0bnY2WEVuUWtRS2RhenFtaWd3di00MWlfaTVhejNKNGpuTXdseHZsSjlkN2VhN3RNaXdzR0FQalNpMjJiOWpCVTZRTWE3N3p0U3d3ZVRpQzV3My1zUzJId2t6a3NtdzBVTklHTDRSWGNLeVU2MXFzTWlXWEZVbVVlcy1UZHB5eDJkN2hldUR6QjhPRjFUR2kxbWlGZ9IB3AFBVV95cUxPMmlzYTBORkhqLU53c0l0Y0Nmd3RPWnVsV2kxcm5PSFNsSkg1MWREUHFEajBxbWxXSHBnM1lodHZRNWhBaEM2Z0F1TnN3dGI3RTktUGstRUp6ZlZROXRrOFE2Z2dsQzZxX3doUm1UcnRHNWYyTnhrN3BVZ0ktQTVRRTZZcVNVVEx5azRKRFdfWEl5YTVJWm9BSThwVk9jSGswNFUxYmxfNndCd1BDN2VOek1KTDZ3QjRlUXF3SE0wQ1VMZHluLWlYZlVkSzI3TTNta1NpY3RZYnoxTll0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bfb163504b00",
-      "title": "Feira de Ciências valoriza pesquisa e destaca contribuição de mulheres cientistas - Prefeitura de Macaé",
-      "published": "2026-09-23T22:02:00+00:00",
-      "summary": "Feira de Ciências valoriza pesquisa e destaca contribuição de mulheres cientistas&nbsp;&nbsp;Prefeitura de Macaé",
-      "sources": [
-        {
-          "name": "Prefeitura de Macaé",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWGRtS1lTdGJiWWlYT21IZUtJdW9EYm5USlNwZVNZWjVqdWRVOEhmbnpvSEs5Y0J4dEhHX0MteFBCT213Q1BxYXRyZGp0NnEwaGR0ekFNNmhndXA2M2ItY1Y3VWM0RGVNUmpwNVcwS3A4MThjSHFKYTgzTVVyYldJZTVBamMxeGJZdl9hX1JaNlFXUWFxLVJWeDQ0VlJzbGlDSGxmLWZaNEowTzN3VEFOZ2pzUWpVR2Y3eVJiXzNTeFlnakhGa1BCWm9mcXdVZzA?oc=5"
         }
       ]
     },
@@ -150,6 +198,18 @@
       ]
     },
     {
+      "id": "f45659ba2bac",
+      "title": "Beber \"goró\" na adolescência pode deixar marcas no cérebro para o resto da vida; entenda - CNN Brasil",
+      "published": "2026-09-23T20:07:48+00:00",
+      "summary": "Beber \"goró\" na adolescência pode deixar marcas no cérebro para o resto da vida; entenda&nbsp;&nbsp;CNN BrasilÁlcool na adolescência afeta maturação do cérebro e deixa marcas até a vida adulta&nbsp;&nbsp;Agência FAPESPÁlcool na adolescência pode afetar comportamento na vida adulta, diz estudo&nbsp;&nbsp;Correio BrazilienseO que é a ‘hanganxiety’? Neuropsiquiatra explica como o cérebro reage depois de consumir álcool&nbsp;&nbsp;O GLOBOConsumo de álcool na adolescência altera cérebro e estimula co",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeXhBSFlkTkN1ck1XcXJGT0NmUGNUUFdnU09zWXBCSXl5XzUyeEVOSVdYbWs3c3BXdTRicmVBQ0VILXg1d1hvNUp6MGZIcXpJNlh4djNkb3owa214dlNWREZiTUliVGNhMFBJNm5HQ2dUY1VGaUNhX2QweC13S1hxeW5oNHliREhWWmdUaVdkdG8wanlPcEJxbDZkQVNjanY1VHF2UlZhaThoWGtNY0tsZHdxRHM0S1dxLTJBdk91X29nbTVjUzhR?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e2f3cf1455a6",
       "title": "Sair do sedentarismo: dicas simples para criar uma rotina ativa - Terra",
       "published": "2026-09-23T19:52:00+00:00",
@@ -162,13 +222,25 @@
       ]
     },
     {
-      "id": "d2dbf8d041f6",
-      "title": "Infarto silencioso: 5 sinais que podem passar despercebidos - dol.com.br",
-      "published": "2026-09-23T18:48:41+00:00",
-      "summary": "Infarto silencioso: 5 sinais que podem passar despercebidos&nbsp;&nbsp;dol.com.brReconhecer sintomas de infarto e AVC pode salvar vidas&nbsp;&nbsp;g1.globo.comDores no peito ou indigestão? Cardiologista alerta para sinais de infarto&nbsp;&nbsp;TerraDor no peito é sempre infarto? Veja como diferenciar os sinais de ansiedade e problemas cardíacos&nbsp;&nbsp;Jornal CorreioSaúde cardíaca: Especialistas alertam sinais e medidas ao Dr. Kalil&nbsp;&nbsp;CNN Brasil",
+      "id": "345e647d240c",
+      "title": "O cérebro é composto por dois órgãos? Neurologistas explicam nova pesquisa - viva.com.br",
+      "published": "2026-09-23T19:11:00+00:00",
+      "summary": "O cérebro é composto por dois órgãos? Neurologistas explicam nova pesquisa&nbsp;&nbsp;viva.com.br",
       "sources": [
         {
-          "name": "dol.com.br",
+          "name": "viva.com.br",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZi1JMUxqU2ZJTEhXb1BtV25KYUFkb3ViUkxiTEQtVjdTUzY0TFhRdGRDSDdYV1FpR283c3NUdnIxYVRlYTZVNXBqZ0c5emlOVVNDQ3RJRi1KeFFJQ1lwbTJzTGxrYThWQVRIakVDQ1RoZUI3OVMyd1FwVUU5Z1E2VXVBWUtQTXp0VjRqdTNEWjNGV3pGMXhOS3kxdC1FV3Z5Tk1WS2c2b3h2UEdMMS1OMGVEdkFaUHM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f23e4bdeba15",
+      "title": "Infarto silencioso: 5 sinais que podem passar despercebidos - DOL",
+      "published": "2026-09-23T18:48:41+00:00",
+      "summary": "Infarto silencioso: 5 sinais que podem passar despercebidos&nbsp;&nbsp;DOLReconhecer sintomas de infarto e AVC pode salvar vidas&nbsp;&nbsp;G1Dores no peito ou indigestão? Cardiologista alerta para sinais de infarto&nbsp;&nbsp;TerraDor no peito é sempre infarto? Veja como diferenciar os sinais de ansiedade e problemas cardíacos&nbsp;&nbsp;Jornal CorreioSaúde cardíaca: Especialistas alertam sinais e medidas ao Dr. Kalil&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "DOL",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNk9XWEctNllNRnFLWUloZU8yTjVib214dUZLVHYtY3E0LUdfS2tVbVRrVW12QkUtNFNiSXd5a3FjRWw4T1lmSXRwM1M4UElpeWpfLS04SVJKNG91ek9PU2xGR2pyMURlTWxYVFZZM0Y3RE9paFFCUkxuU3llNWhROGRlRHlITUhEMlBUc2pTUEx4Vmpac2hWZ1NneE12d3hyTGMwdNIBrAFBVV95cUxOZEE3czdjOHloNTFFcnJJaTdRUVY4N0RUVGZBZEJsaHNxMEhTdEtyMmY5dWNMV1E3SHRpWThlS2hJZVUxaUR1X0EzVDhLLUwzbE4zY3l2Nl9ZN0hiVVBWY01rd1lHajZMQkFTMmV2S1lGOWxzY092bEtselBpWl9HWDFEYk1hRFJUd19qV3dWdm1obkM2R1hLaW9Heldna1o0OTBmTGVhQ29mdG9o?oc=5"
         }
       ]
@@ -186,74 +258,38 @@
       ]
     },
     {
-      "id": "030f2ce559c7",
-      "title": "A fase do sono que pode estar ligada a um menor risco de 83 doenças - estadao.com.br",
+      "id": "d88f7781f198",
+      "title": "A fase do sono que pode estar ligada a um menor risco de 83 doenças - Estadão",
       "published": "2026-09-23T16:09:00+00:00",
-      "summary": "A fase do sono que pode estar ligada a um menor risco de 83 doenças&nbsp;&nbsp;estadao.com.brSono REM é associado a menor risco de 83 doenças; entenda o que a ciência descobriu&nbsp;&nbsp;ncnews.com.brQualidade do sono influencia risco de mais de 80 doenças, diz estudo&nbsp;&nbsp;MetrópolesSono REM e profundo associados a menor risco de doenças&nbsp;&nbsp;HealthNewsMais tempo em sono REM foi associado a menor risco de doenças em estudo com 95 mil adultos&nbsp;&nbsp;Tua Saúde",
+      "summary": "A fase do sono que pode estar ligada a um menor risco de 83 doenças&nbsp;&nbsp;EstadãoDormir melhor diminui risco de 83 doenças, descobre estudo&nbsp;&nbsp;TNH1Sono REM é associado a menor risco de 83 doenças; entenda o que a ciência descobriu&nbsp;&nbsp;ncnews.com.brQualidade do sono influencia risco de mais de 80 doenças, diz estudo&nbsp;&nbsp;MetrópolesSono REM e profundo associados a menor risco de doenças&nbsp;&nbsp;HealthNews",
       "sources": [
         {
-          "name": "estadao.com.br",
+          "name": "Estadão",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONkVCNU5mRnBXN2kyQlZNZl9JNEYwX3h2VjVtOTVuc2M2bENmTHhETmdwZEFTcW9SdEJHOGFxMjI3RGNSc0pqY2VDS2VRWUtweU1aZVVDSmhVOTJOTXowTmUzckxBSWVrMUZBQnMtcFhqLXAzRXFnWUh3bU5Hc3AyaVN2RWNkekNwbEJMS2txWUI4WXVJaGtVc3Ridk53N2lJSDhiMnFTYllLSVVzQWJ3Y2RqRFVINnpobncyN2xwUdIBxAFBVV95cUxNSmRRQjNZYVJHd2d4Z2ozR3JKa1hMTmJYOGNHSy1hakltYjN2VnloZ1BCUGJjeFA5a3N4aVlPRXFFWEF4eV94UzRmMHd6V1QtNGtqNVMyYWk3TU9iWjVnUndvZ014bkJOLXpJNUZCZ2QwSHFOWjhjZ3RnTi1fOW9tWVprV0lrc1hWMFJmWjg5bXcyZlJqby1OTXRTd19rTUZfT1pjZmNSeThOU3E4cVYzQm9EWGtfM3dUSThmV3VyMU1iQjEt?oc=5"
         }
       ]
     },
     {
-      "id": "b79525dc6d9a",
-      "title": "Reduzir o sono em 80 minutos por noite afeta o metabolismo, aponta estudo - Folha de S.Paulo",
-      "published": "2026-09-23T13:54:00+00:00",
-      "summary": "Reduzir o sono em 80 minutos por noite afeta o metabolismo, aponta estudo&nbsp;&nbsp;Folha de S.PauloDormir mais garante maior perda de peso? Revisão mostra que a resposta não é tão simples&nbsp;&nbsp;Tua SaúdeSono curto pode favorecer ganho de peso, aponta pesquisa&nbsp;&nbsp;comunhao.com.brReduzir o sono afeta o metabolismo&nbsp;&nbsp;Estado de Minas",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdzdiWHdqUjVyQ094N09pWU9La0lvdEM1dU5zTlF2R3h0XzV5c1ZuQW5aWm91SWNyVjF5dnQ0SWQ4elRKLUdIbC1EQ0xsRmZ5QWMyVElfOUhfWS13NlU5bThleC1xWUZtSXNRbjh0eG1tSE1wNk1YOFBrZFpfM0JReG16TjVPQnhHVlVaQVgwUzB0Z1B2b0lhVjR6eWdLRlNUWmNwbnl5WkRpRHRxMGV6Ym53V0w4Yi0yOGx6UzVXLWhMd25QUWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ea82e7763928",
-      "title": "Pesquisas mentem? Saiba o que está por trás dos números | Triturando Dados #1 - estadao.com.br",
+      "id": "669aa1810cf1",
+      "title": "Pesquisas mentem? Saiba o que está por trás dos números | Triturando Dados #1 - Estadão",
       "published": "2026-09-23T12:30:00+00:00",
-      "summary": "Pesquisas mentem? Saiba o que está por trás dos números | Triturando Dados #1&nbsp;&nbsp;estadao.com.br",
+      "summary": "Pesquisas mentem? Saiba o que está por trás dos números | Triturando Dados #1&nbsp;&nbsp;Estadão",
       "sources": [
         {
-          "name": "estadao.com.br",
+          "name": "Estadão",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWXAyT2xhNWFqcTNpai1xUDIzb2YtN1hwQ09fRXJGVHdlMkt0OFlKVUlxQmk3UlpxNjBUQWNvd1JsaDlOUUkydjBfSDhTZVF1blk2cTYyam5ERUJ4S01EbllVUC00R0ljRnpRZW91MnV1UVEyamRCWExqbGRqYnpJb1pESFZvVEdYdjQ5SVZkNkVCUWt5a0JlU2RUTEY0TUl1U1JSSy12TUhoT2FPWk9NcGVkY3JubU16WkFkTF95OXJvNXQ2OWd0Uw?oc=5"
         }
       ]
     },
     {
-      "id": "6212a6642a6e",
-      "title": "Provérbio tupi-guarani sobre paciência: 'A árvore que cresce depressa quebra com o primeiro vento' — uma reflexão sobre pressa, raízes e resultados que duram - Super Rádio Tupi",
-      "published": "2026-09-23T08:54:29+00:00",
-      "summary": "Provérbio tupi-guarani sobre paciência: 'A árvore que cresce depressa quebra com o primeiro vento' — uma reflexão sobre pressa, raízes e resultados que duram&nbsp;&nbsp;Super Rádio Tupi",
-      "sources": [
-        {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPblFGcVdCTk9PMUUxVXpKQW5zUllTUEkwSUlPYXN6cGRHakM1MElWUU0xRjc2VHJzZHdGTm1keDZLczU0bExIdENFZ2xkdGhjZVhpQ2xKSTJ0bzZjc003SUdUS0ZpVmdndGlyeExzMDZIYS1YUl9MNXN1X0V3aXljcFBWbXRISENwMWN6OXVMNzZtTVB3UEdOdnZINElRMldVeUxSdWZxakRZSVVxdXFOdGJqTEJGV3dMaVBoZG05Ql9ZZkpONUFFRDV2Q21pYmhXN2c5U0VnTmtrRWVza3VaWHV6c2tMWUdtUm94dkVLdU1NdlRrcmlOOXp2dVR2ZWxNQ1dsdUFNaUpjc21CWl9hSXI3ZUtyQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4a22734fce5e",
-      "title": "Tomar multivitamínicos todo dia aumenta a longevidade? Não é bem assim - UOL",
+      "id": "a994f020f72f",
+      "title": "Estudos indicam que beber pouca água pode piorar o estresse e o humor - UOL",
       "published": "2026-09-23T08:30:00+00:00",
-      "summary": "Tomar multivitamínicos todo dia aumenta a longevidade? Não é bem assim&nbsp;&nbsp;UOLUso de vitaminas e suplementos exige de orientação médica&nbsp;&nbsp;g1.globo.comUso diário de suplementos pode afetar saúde dos rins? Especialista explica&nbsp;&nbsp;CNN BrasilCresce consumo de suplementos, mas especialistas questionam benefícios&nbsp;&nbsp;Folha de S.PauloSuplementos: alimentar-se bem continua a ser o melhor ponto de partida&nbsp;&nbsp;Correio da Manhã",
+      "summary": "Estudos indicam que beber pouca água pode piorar o estresse e o humor&nbsp;&nbsp;UOLVocê bebeu água hoje? Hábito evita a desidratação, mas também cuida da saúde do coração&nbsp;&nbsp;Portal Drauzio VarellaBeber água antes de dormir pode ser a solução para quem acorda sempre de mau humor&nbsp;&nbsp;CNN BrasilComo beber pouca água pode afetar o estresse, o humor e a concentração&nbsp;&nbsp;Diário do Centro do MundoBeber água apenas quando sente sede pode ser tarde demais, alertam especialistas&nbs",
       "sources": [
         {
           "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcnI5MkZyeWxHQzVIS2dOc0wyQ3QwRkJSZDhGVkpNUnVoYjlTaGwybGZ1Y19HeFRpMEV0MjJ6eVktT2pUYlRBRDJvREJSaWl0MjNSTUR2Sm1va3Vyc25iSV9YLXhDMk0tNG1vV04wRGE5d2ppYTdzQlBsLVI5eWlSZy1pRlR4OTJ1TEY5bWttSFd4Z2I0SktqYng4Slp6SWx4b1B2eDFGNXpadUxHcVY5NDhncE9UdkFnQmNPQmQzVE9Ua3JickZBWG52S3p6SkE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "07d646cd22ac",
-      "title": "Vida Boa: você sabia que pode ser magro por fora e gordo por dentro? Médico explica o fenômeno - O GLOBO",
-      "published": "2026-09-23T07:00:04+00:00",
-      "summary": "Vida Boa: você sabia que pode ser magro por fora e gordo por dentro? Médico explica o fenômeno&nbsp;&nbsp;O GLOBO",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZGxXNXRUYjBmcTM4WUU0Zy05UDhyX2t1dXJGNU9oWm1scGVwMVZBUktGUlE3VFdkenJkUW8weW10M3B2YTg0RWl3X1ZzR1VQZUlDOG1oMWkxRXJZSHVTZzNFNkR4TlZUd1VyWTNmX1NNc0ttNFNSUjVQVmUwZHJKdXA0bEpjVEdzNEZLdkxRT09QbmduZUZqbUU1T0Y4bG5vRHZhaDhCS2R3bEhQWEFVaF90bFc0b3YyTnpMSWZYX3dRNkMzSUFRNzN0VnVZVlh3UnlpRVV2ZW1PVHU3bHUxUEJQUFJYWU1rTlVxQ2Zn0gH8AUFVX3lxTE5qMHVwTUpCZ2VDemlaNnRfdjFva19aMWE4NUhkelU2bnRwNVdZVGFWd2RmdUZjT0xfeHNRLThoSWRQTzBfOHlyOXZ1elNKTGxyNU5mT0d5MkVEcnFOY1Q2TFEtVXdoQ2MxYlZvUExlUHBoWjZSVF9nMFZGWVpCQzREajZJNzd3OEhmRGNGcWdSWm5zS2xWd2V1b1JOczFmNm1sRGZVNzV3djBySW1VTEs5TWxYOVoxMXNkSXNMeXM5U3VtZGlFSWpyLVFHQVVPWERrMTY5TWlSQnB0Q1Z2VG5ZaHVMNS0tNHc5UVpZLVhkcWRwY2ZHTVVOVU9nMg?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSWZQNW40QnhrVlZmMTY3ekk3TWxDXzY2LXk0bVFVcDlRV0xaOElyUWNrdHdhTWVYajZIRXdmb1dfYldXSk5ZeDQtMnZudy02ZFcwR3lNS2pPNThNblc5QkFFcFlTTDdvMTV1T2FhU0t1Vk11MGhFTUNHeC02aVRIVHhSOEtNREs0QkhIMjdjanhRcnVKUC1HTTVMQWpMQ3NrRUpzNjFEU2wyWG80dW5TZWxWbE5ZXzA3RkdSLS1rbHR6VjRNX0d3Q1VXT2U?oc=5"
         }
       ]
     },
@@ -270,34 +306,10 @@
       ]
     },
     {
-      "id": "3b1e4c4d8029",
-      "title": "Câncer de tireoide cresce por 7 anos até mulher descobrir metástases - Metrópoles",
-      "published": "2026-09-23T05:00:00+00:00",
-      "summary": "Câncer de tireoide cresce por 7 anos até mulher descobrir metástases&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX2VqSDgyOGg3aGJQaGtwZ1pTZXZfMHIzc0UzTzd3SmJlRGsxUzltUnFvcGt0aG1LdVNuM2JZM0cxQmVXNFlvOWpfeFJrZ0IyX0xFT3JnY2twUEdKM3RDbTFKT2VvN04zNklwMkFEVm10VWdxRlJiY2ZjQ0ZEcy1PUXFNYjlQT3ZtYjJJSjZnWDZvcVAwRmZnNW5mMzEzcDQxLVhJ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e737027bb70f",
-      "title": "FAPESP lança chamada para atrair jovens pesquisadores do exterior - Agência FAPESP",
-      "published": "2026-09-23T03:00:26+00:00",
-      "summary": "FAPESP lança chamada para atrair jovens pesquisadores do exterior&nbsp;&nbsp;Agência FAPESP",
-      "sources": [
-        {
-          "name": "Agência FAPESP",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZFhWbmRMZEVvRzhSZW9JS3BQbDh3VGFaRnBIcXotT19EMXhGc0J2Wk5xV3RWTTczeDZmRExCWkZ5WlZTMFA5eVZOLWdtR0N5Zm9jRHNDR2pSYjN6OUZsVFh3UUNDeEhCVlpTdTMzRWVpZjBfYnNub1czM0JCZk5qdUtoRW5DajZjMkJGMzRCUnViY1ZOZmVQMVJCeEpGdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d5daa5a7467a",
       "title": "Depressão atípica: por que ela pode passar despercebida - Portal Drauzio Varella",
       "published": "2026-09-22T18:05:28+00:00",
-      "summary": "Depressão atípica: por que ela pode passar despercebida&nbsp;&nbsp;Portal Drauzio Varella",
+      "summary": "Depressão atípica: por que ela pode passar despercebida&nbsp;&nbsp;Portal Drauzio VarellaA depressão e a pergunta que falta em quase toda consulta médica&nbsp;&nbsp;VEJAAlém da tristeza: os sinais da depressão atípica que muita gente desconhece&nbsp;&nbsp;Terra",
       "sources": [
         {
           "name": "Portal Drauzio Varella",
@@ -330,13 +342,13 @@
       ]
     },
     {
-      "id": "1a546e74264b",
-      "title": "Câncer de pulmão exige cuidado além da prevenção - estadao.com.br",
+      "id": "907478283183",
+      "title": "Câncer de pulmão exige cuidado além da prevenção - Estadão",
       "published": "2026-09-22T07:00:00+00:00",
-      "summary": "Câncer de pulmão exige cuidado além da prevenção&nbsp;&nbsp;estadao.com.brAgência de Comunicação - Da suspeita ao tratamento do câncer de pulmão&nbsp;&nbsp;Estadão Blue StudioOpinião | Medicina de precisão e novas drogas ampliam as possibilidades de tratamento do câncer de pulmão&nbsp;&nbsp;estadao.com.brAgência de Comunicação - O perfil do tumor orienta o tratamento&nbsp;&nbsp;Estadão Blue StudioUma exposição invisível, um impacto real: o impacto do fumo passivo na incidência do cancro do pulmã",
+      "summary": "Câncer de pulmão exige cuidado além da prevenção&nbsp;&nbsp;EstadãoAgência de Comunicação - Da suspeita ao tratamento do câncer de pulmão&nbsp;&nbsp;Estadão Blue StudioOpinião | Medicina de precisão e novas drogas ampliam as possibilidades de tratamento do câncer de pulmão&nbsp;&nbsp;EstadãoAgência de Comunicação - O perfil do tumor orienta o tratamento&nbsp;&nbsp;Estadão Blue StudioUma exposição invisível, um impacto real: o impacto do fumo passivo na incidência do cancro do pulmão&nbsp;&nbsp;N",
       "sources": [
         {
-          "name": "estadao.com.br",
+          "name": "Estadão",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMjN1NFEydDVJZm5rNWY1anVaUHhZdENKMUNra0VtMzVNMFJiempFYXozN3FFaE4zNHNCeVZEbXg0T1FFWmVkX2l3Sk91dm43TnhSQ1ZRNzlzUlhZb3VqajQ2dkVrSmlCd1NGdkk4a05wUjB5Q0w5VG94cGxtUmtERDZkY3Z6OGVRczFBbGhyVWVuQVHSAZgBQVVfeXFMT3VjR0QzdkRzQkRhWmNQZVpZSllWSlEyLU5QRUltcTlMQ0Njb0pjQzFsQ0xsRVp3T2ZUX3NXM1NMRXBzNERlY1dzV0NhUE05TkFGZUc3OTVwYllNcXlJTEJaWHd2U2ZaU2djeUZJcHZmSkFkN3FhaGFvX3JXMWxqYXpNNEIwYmZZaWZPUmRUN1lVMUh1MXNSRmg?oc=5"
         }
       ]
@@ -345,7 +357,7 @@
       "id": "afd5a310c407",
       "title": "Um avanço na detecção do câncer de intestino - Portal Drauzio Varella",
       "published": "2026-09-21T18:05:49+00:00",
-      "summary": "Um avanço na detecção do câncer de intestino&nbsp;&nbsp;Portal Drauzio VarellaAvanço na detecção do câncer de intestino na população brasileira&nbsp;&nbsp;GZHCâncer colorretal expõe distância entre alerta e ação&nbsp;&nbsp;estadao.com.brPor que o câncer de intestino está aumentando entre os jovens?&nbsp;&nbsp;O GLOBOSetembro Verde - Os sinais do intestino que não podem esperar&nbsp;&nbsp;Rdnews",
+      "summary": "Um avanço na detecção do câncer de intestino&nbsp;&nbsp;Portal Drauzio VarellaAvanço na detecção do câncer de intestino na população brasileira&nbsp;&nbsp;GZHCâncer colorretal expõe distância entre alerta e ação&nbsp;&nbsp;EstadãoPor que o câncer de intestino está aumentando entre os jovens?&nbsp;&nbsp;O GLOBOSetembro Verde - Os sinais do intestino que não podem esperar&nbsp;&nbsp;Rdnews",
       "sources": [
         {
           "name": "Portal Drauzio Varella",
@@ -374,6 +386,18 @@
         {
           "name": "Medscape",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRjM2OFFIbUpQdUt0LUJCcVVjRzE1TXkzZG1odUc4UzZqU1FrT091c3dSOHJTSllEd1dIbGc5dllfWndTVVN3LUlkYU5hMG8tSGxIYUYxSmstMkZqT29BMHdOMm10VjVFTWNoNG4xaHpWSUg5OXJnbW55OFd6YVRuME94YVprVEdhOVg2OVVYR01fb1luNE1uelNTWWp3aUVHUTg2UzRlOA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fbc23887c00a",
+      "title": "Cancro da cabeça e pescoço: actor Rui Santos alerta para importância de diagnóstico precoce - Público",
+      "published": "2026-09-21T09:58:34+00:00",
+      "summary": "Cancro da cabeça e pescoço: actor Rui Santos alerta para importância de diagnóstico precoce&nbsp;&nbsp;PúblicoSaiba como reconhecer sinais de câncer de cabeça e pescoço a tempo de curar&nbsp;&nbsp;Rádio ItatiaiaRastreios e sensibilização para cancro da cabeça e pescoço em Coimbra&nbsp;&nbsp;Diário de CoimbraCancro da cabeça e pescoço pode ter taxas de cura até 90% quando detetado cedo&nbsp;&nbsp;sapo.ptCampanha promove rastreios ao cancro da cabeça e pescoço na próxima semana&nbsp;&nbsp;RTP",
+      "sources": [
+        {
+          "name": "Público",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQS3RrUkRXcWhsT1pocDFxektXYjE5MTlmYXBiMDFKeHU0NXZDeVZ3UmtiMWFwZnRLS29yR3hlY2JXWVBtcFFMVDJsZVppcE9PZFFqOFRaVm1HOVdudGd2dUpLV1dCSkFZajdaQXNnN2ZlQ3NEZDRIcEpraHQ3VUh3eDJfYzJac2ZwQTlzRGZVTGRCcW11cVI2dWIxb2tFYzdMZWhqb0JNSlRBT1Z5NWVSZVhJMS1iVGVIOGQ1N1hHY3BUR0pkWW1XdGcxOFVVZw?oc=5"
         }
       ]
     }
