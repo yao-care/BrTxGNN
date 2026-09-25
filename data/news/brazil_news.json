@@ -1,15 +1,39 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-09-25T16:46:54.084253+00:00",
-  "total_fetched": 96,
-  "unique_count": 93,
-  "health_related_count": 32,
+  "fetched_at": "2026-09-25T21:13:15.608541+00:00",
+  "total_fetched": 102,
+  "unique_count": 99,
+  "health_related_count": 37,
   "news": [
+    {
+      "id": "fae26b886fc0",
+      "title": "Estudo: pilotos e comissários morrem mais de câncer ligado à radiação - UOL",
+      "published": "2026-09-25T17:37:42+00:00",
+      "summary": "Estudo: pilotos e comissários morrem mais de câncer ligado à radiação&nbsp;&nbsp;UOL",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMUZqdldHY2I0QWhKc1ZYc3NwVThnSDdoa2c0TmNnTDh3TjQ3NUJ6c0R6T3ZXSi00Q2tyMkYyUWJaVi1JZHM5bE1vaU81clY4TXlsWUlubU9FWnRsTm5XY0pFaUh6OU04VlJESHpwcGxBbUhnOFpmOGRwLXM4ang3VVluTXJjTm1aQ2xfdjFhNjI5M0FqNFpUT2daWS1YVG1zZGhCMk03OTBGMkxqWi1FWnotcGdqcE5YekY0NjJZMzlwYVNyQmRUdURTMDQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9b0574108c3d",
+      "title": "Saltos quânticos do som são observados pela primeira vez - 25/09/2026 - Ciência - Folha de S.Paulo",
+      "published": "2026-09-25T16:00:00+00:00",
+      "summary": "Saltos quânticos do som são observados pela primeira vez - 25/09/2026 - Ciência&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTjZyUUFWUUNFQUowZEdMZmljR0otSTJZX0JrSENkSUZGMUpzWmY2Uk1JRU1OaGZJSmtxaW5ibDFsQldYUkdNR0hxOTRYd1REUExycFU4bEI3cWxmVURiMkpfTnU2V1dPb3lrWUJxS3FmMkRuZGlFMXgtQWkyOURlRXlTSjZjQ0c4R3ZHNklWSUR3N1dwNlN0UjMwVGV4VlIxdDg4d1ZhWjNIeFRy?oc=5"
+        }
+      ]
+    },
     {
       "id": "78a1b8bd4277",
       "title": "Doenças inflamatórias intestinais crescem mais de cinco vezes no Brasil em 13 anos - G1",
       "published": "2026-09-25T13:42:18+00:00",
-      "summary": "Doenças inflamatórias intestinais crescem mais de cinco vezes no Brasil em 13 anos&nbsp;&nbsp;G1Casos de doença inflamatória intestinal crescem mais de cinco vezes no Brasil&nbsp;&nbsp;TerraTerapia celular pode ser aliada no tratamento da incontinência fecal&nbsp;&nbsp;em.com.brEm 13 anos, doença inflamatória intestinal cresce 5 vezes no Brasil&nbsp;&nbsp;tribunadonorte.com.brNúmero de brasileiros com doenças inflamatórias intestinais cresce mais de 400% em 13 anos&nbsp;&nbsp;Folha de S.Paulo",
+      "summary": "Doenças inflamatórias intestinais crescem mais de cinco vezes no Brasil em 13 anos&nbsp;&nbsp;G1Número de brasileiros com doenças inflamatórias intestinais cresce mais de 400% em 13 anos&nbsp;&nbsp;Folha de S.PauloEm 13 anos, doença inflamatória intestinal cresce 5 vezes no Brasil&nbsp;&nbsp;Tribuna do NorteCasos de doenças inflamatórias intestinais aumentam 5 vezes em 13 anos no País; entenda por quê&nbsp;&nbsp;EstadãoCasos de doença inflamatória intestinal crescem mais de cinco vezes no Brasil",
       "sources": [
         {
           "name": "G1",
@@ -30,13 +54,37 @@
       ]
     },
     {
-      "id": "bf52795a68a6",
-      "title": "Corpo humano vira 'cabo elétrico' natural para implantes médicos - correiobraziliense.com.br",
-      "published": "2026-09-25T08:05:00+00:00",
-      "summary": "Corpo humano vira 'cabo elétrico' natural para implantes médicos&nbsp;&nbsp;correiobraziliense.com.br",
+      "id": "9333dd11bb2d",
+      "title": "Novo aplicativo da Prefeitura de Fortaleza facilita acesso a serviços de saúde; veja como funciona - G1",
+      "published": "2026-09-25T11:34:35+00:00",
+      "summary": "Novo aplicativo da Prefeitura de Fortaleza facilita acesso a serviços de saúde; veja como funciona&nbsp;&nbsp;G1Aplicativo permite confirmar consulta por WhatsApp em Fortaleza&nbsp;&nbsp;O POVOUsuários do SUS em Fortaleza poderão confirmar consultas e exames por aplicativo; saiba como&nbsp;&nbsp;Diário do NordesteSaúde que Cuida Digital: inteligência artificial e outros avanços tecnológicos a favor do SUS em Fortaleza&nbsp;&nbsp;Contexto NotíciasCerca de 30% dos fortalezenses faltam a consultas,",
       "sources": [
         {
-          "name": "correiobraziliense.com.br",
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRnRwbUJ1TldWa1lvSVdhcS1DY3JnSjBzTW84UExMSmI3RkxtQ0FJVWlRNmdQNXdUX0dFTzlvcVA1S2NJdjl1RWc0UGRvTzNqTWVsT2NrN2gyQmgwa0pLbnNhY1RmcVYwVHo5dFc3Z2liYXNTY0dGZHZnY0FMR1FHX29ickEyYlBNVW9LSzRxb2FSaFBFZVlSbmtEbXF2VTB6Mjh2Nnk2NkF3T3V1LUtUam1lRDRVLUNtWEt0ZVRpUGZ6a1J3N0ZkaEhzcnNLY3BWc1otWEcxMzhZQ01aZ3hTMGFjbWNFV2vSAfYBQVVfeXFMUGJocjhqT0xWc0cxakhib05kNDVDb0RXdGpoc29zZzRRRC1xdDh4cXdJMk9uMzNIWXg2d1dlMU8wcTBDMzlJY3dmdXp6LTVIOGpaZ0wxbV9faXRsRDVlY1kyTUUwMkhBN3p2OVNGSm1oX1NmUlBHdXlFNm95aGdwXzgxTUtyQXlrektwYlBNUWUwQUVnUEVmWXktbHctbndjMk5JMG1uUUNnMjZrRVlGOWdDeUktV19naXNCNGh3enNFb0dwcFVib2g2NG9ndWEwQmVnbFQ4ZzY0UE1UN3d2VGtpenBnNXllNmFqZG0tT0RzWmVpcXRR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2d651aaff444",
+      "title": "Casca de jabuticaba reduz glicose e inflamações; veja como fazer o chá - UOL",
+      "published": "2026-09-25T08:30:00+00:00",
+      "summary": "Casca de jabuticaba reduz glicose e inflamações; veja como fazer o chá&nbsp;&nbsp;UOLReceitas criativas para fazer com jabuticaba&nbsp;&nbsp;EstadãoEstudo revela que casca de jabuticaba reduz glicose e inflamações; veja receitas&nbsp;&nbsp;TVBV ONLINEPara que serve a jabuticaba? Veja 3 benefícios e receitas&nbsp;&nbsp;Estadão",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZXdrZHA3eGNhTDQzb25YWG9KT0Y0WU9xTVlIdVVIVXNDekVMOGN0MTh5NXdsX0JZSC0wcTY3eEV1SllOWjRxOXpIYm5JZDhPT0JLY2ZrY1I2Ym1JX0VWY0NabnJKdG1GM243UUwxUDFKaEkxcU9lT2paQXlBakIxc1R0RG9EM28zVm51OG5yMmpPOV9XUHZzaVhhTUppY0daR0RKaF9xZmFINmVCa3hrUUxwYVBBM0VubVRqcVFkMzdUd3NLVnFIdUppUXA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0bd97d196439",
+      "title": "Corpo humano vira 'cabo elétrico' natural para implantes médicos - Correio Braziliense",
+      "published": "2026-09-25T08:05:00+00:00",
+      "summary": "Corpo humano vira 'cabo elétrico' natural para implantes médicos&nbsp;&nbsp;Correio Braziliense",
+      "sources": [
+        {
+          "name": "Correio Braziliense",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNU2lxMV9Mak5LNmVnUW9naXRDMGFwQmExYy1kdkl6bGdhOGdzNEN0dTNUT28zWmI3bFNZZy1ZRGVJM2dvajk5eC1xbW8yZTJTblgydmJKR2pHM1RRajlxV0dxUmF1MWpfcHlSenBfWDNOdVFvbTlTSWU3MEJqb0Z4ckV2SkdJaHV4SWkzZHBCMTlmZWw0cmtDbFE1T2p0aWF2NzNLUEhVMDY5VmpGSVYzeHphcl9MdGFLSmNoOFdsMndfMElvbkRSczgwQ2libkI1VVpj0gHYAUFVX3lxTE5yVXdtdXhtSGdrRjZwT2gzMDFTSFk4dmNqRTJUZlJoWFpYTGZZSmk5ZUt5cU5xQWlYaDNla29iX3IwalUzdFE3NEpvZWZiR2xkanFUWGZJcFJPZnZ2RDJTUUd1Z3h4bG9LZVdxYml2SEpIVWZuN3g1c2tLM0pzRGR3TjZIR1p1RF9wQ3J3azN0Y0hkSjAweWU4VDUtVndsYjdJWWVXcmVVeFhnTjVzRVNZdlZieXRraG5VMlJaSUZLVy02TXBRWU0xdjRNVWgwLUZUWWtJZjNxNg?oc=5"
         }
       ]
@@ -45,7 +93,7 @@
       "id": "0f147cde8abc",
       "title": "Endometriose: A história da doença ignorada desde a Antiguidade - G1",
       "published": "2026-09-25T08:00:01+00:00",
-      "summary": "Endometriose: A história da doença ignorada desde a Antiguidade&nbsp;&nbsp;G1Dor na lombar, quadril e pernas pode ser endometriose; veja por que a doença passa despercebida&nbsp;&nbsp;correio24horas.com.brGrupo Santa Helena amplia ações para diagnóstico e tratamento da endometriose em Sergipe&nbsp;&nbsp;Click SergipeEndometriose na gestação: consenso orienta manejo obstétrico | Juína News - A notícia certa, na hora certa&nbsp;&nbsp;Juína NewsEndometriose atinge 15% das brasileiras, mas diagnósti",
+      "summary": "Endometriose: A história da doença ignorada desde a Antiguidade&nbsp;&nbsp;G1Cólica forte é normal? Saiba quando a dor merece investigação&nbsp;&nbsp;G1Dor na lombar, quadril e pernas pode ser endometriose; veja por que a doença passa despercebida&nbsp;&nbsp;Jornal CorreioEndometriose na gestação: consenso orienta manejo obstétrico | Juína News - A notícia certa, na hora certa&nbsp;&nbsp;Juína NewsEndometriose atinge 15% das brasileiras, mas diagnóstico leva até 7 anos&nbsp;&nbsp;band.com.br",
       "sources": [
         {
           "name": "G1",
@@ -54,14 +102,26 @@
       ]
     },
     {
-      "id": "cdf1f72a511e",
-      "title": "Saúde do pai pode interferir no desenvolvimento dos filhos até a velhice, diz estudo - Terra",
-      "published": "2026-09-25T07:58:00+00:00",
-      "summary": "Saúde do pai pode interferir no desenvolvimento dos filhos até a velhice, diz estudo&nbsp;&nbsp;Terra",
+      "id": "aa6013d0db82",
+      "title": "Pesquisadores usam 'botão de volume' para tratar doenças ligando ou desligando trechos de DNA - G1",
+      "published": "2026-09-25T07:00:00+00:00",
+      "summary": "Pesquisadores usam 'botão de volume' para tratar doenças ligando ou desligando trechos de DNA&nbsp;&nbsp;G1Pesquisador gaúcho participa de estudo que pode revolucionar tratamento de doenças raras&nbsp;&nbsp;GZHCirurgia no DNA: a edição genômica deixou de ser ficção&nbsp;&nbsp;MedscapePesquisadores usam \"botão de volume\" para tratar doenças ligando ou desligando trechos de DNA&nbsp;&nbsp;G1",
       "sources": [
         {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQbWtJVUY4SDNlTHJwNk1iMlBaZ0VETlJhZnA5SGF0SnNLRno0ZzBfVFE4ZVJzQWdtYXIzUEsxRC1Ka2lRbTRpS1lBTThRRFluZXNmQmszTjFjMW41TEpZbDJ3NktjSl9rU3VyN3V0RkxTQ1AzMGlPdWFGNGZLajU1TEl4bDFZUklFVWE3NVNzNldHbGltajdUY1J1RWJScWlQSVM2d1BSNUE0bmJnYTFuMzMzRV9jN3NWOTZiaVhhRUlqZjZqc0tSR1NBaTk0SEd6c19sc0lZZk40VUptUHdBX0ZlUE9zOEJuZTdyLTZjOGdwaWFqLVJHSU9rRHNUR2tpZU80dA?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPODNYeXdsUTJyZndKSFVoeDJ5RDBzYXRiVGdJSzJpek9mbU5jSEdZdklLaGF2dkdDNWNvNUlEQU5zUmlocThZcW1VcXdBQ3dabTMySC16RWYwRDUyOG1CZWliTTJHQmJsVXVOckFYMG05Qnd4dHdhdGo4MWdZSm1SOVdmMkJaV3ZxeXppMXA4am5CaU5sU0RmRmw4MVZjLXh1aC1RZ2l0b1dSRVF0UEJyRVFwWlhvZ3F6OTJ5VlBYNkdBd0k0QUxGMC0wQjAtN3FtLVNVQm4xXzA3OGJHaHhNbVZn0gHwAUFVX3lxTE11TWdOaUtKZ3RlLWtRNHRZX19zRTlpdUZPczRQTU9Kdld4dDh1N1ZreW1vbnJuOWh5LUZlV1hyVDhvS0E1bVg4Tmltd0V1ZFZpX1VGZXdGS3NPelVKSE96RkVEVldXbVJUT0xMYVpNLWNxeFJ3TzNJeURJUmxMSkpRY1g0c3gwcnZLaFBYRTlNaVIzc2gyenJfVXU1ZUg5UjhQVHh0SjIxdVNjamFUZDlUMzdzNjRNS2x1TndyWkw4TUQ4bVZ2TjZDQ2FfRXowNzl2TU1ONWl2RUdsYjAxSm9OZVNTa2RXVjV4WFRZbXZTZA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a4dd6f7be369",
+      "title": "Estresse no trabalho pode elevar em até 10 vezes o risco de disfunção erétil, aponta estudo - G1",
+      "published": "2026-09-25T06:00:00+00:00",
+      "summary": "Estresse no trabalho pode elevar em até 10 vezes o risco de disfunção erétil, aponta estudo&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQ0VDTmR6NV9TOFRPY3RXR204ZWJLVy02WjRFRUZGT3FYUV9ZOTB6WGJubnlJREVGQmFPU3dCQ0txWDlaMjZicGYxUjFlek9YSXgxek9oaWYzcVN5ZF9MRXpXczA3VnA5b0FvdDhJZ1FJTXF4cENpU3N5V2tCcGpkSjRsbWNIVVZXYWVyMVpXQnJ3WDUxTGhYU1QyU2FLTHNhMlRpcVRfNnhvdnV6cUFxWmtHTFNoM2FfTGhsVjZza3ZBX3lZWG5DYm43TklfT3ptRGdibjBTMWZYUdIB6AFBVV95cUxPLTh6aXBxUzVvbVRSUDVNQ3RxeGR2TDFGQ183WW9qTGV0OHVhd0s4TDZlQ0ZxemRQVkFrSW9fbEh2aEc0aDNmUXctQ0V1cjhKcXBtSlAtbjZYUEZlcVFlX1R1ZnNHXy13SGxtaDdBNlJxOEJnQTBYYXNxc2UyT1ROazZ0X0FrUlE0TVBKQVQwTzVJZmtBcUJRMU5qYVNSR1FDaU9qQk4wLWx2aGN1c09ZbjdQaXRrMGZId0NGaFU2M010YjBWeUVlZG5EN01UcG1wdDB0ZTA2TkhtVkY1VGNhN0tFUnJwSXc3?oc=5"
         }
       ]
     },
@@ -81,7 +141,7 @@
       "id": "250eee871951",
       "title": "Estudo da Fiocruz mostra alta adesão à PrEP injetável e menor incidência de HIV - G1",
       "published": "2026-09-25T03:00:00+00:00",
-      "summary": "Estudo da Fiocruz mostra alta adesão à PrEP injetável e menor incidência de HIV&nbsp;&nbsp;G1Estudo brasileiro mostra eficácia de medicamento contra HIV&nbsp;&nbsp;SBT NewsManaus está entre cidades brasileiras de estudo sobre nova prevenção contra o HIV&nbsp;&nbsp;Portal do HolandaFiocruz: PrEP injetável tem alta adesão e reduz incidência de HIV&nbsp;&nbsp;correiobraziliense.com.brOpas amplia acesso ao lenacapavir para prevenir HIV na América Latina&nbsp;&nbsp;Radio Sanca Web TV",
+      "summary": "Estudo da Fiocruz mostra alta adesão à PrEP injetável e menor incidência de HIV&nbsp;&nbsp;G1PrEP injetável tem maior adesão e menor exposição ao HIV, mostra estudo da Fiocruz&nbsp;&nbsp;Folha de S.PauloEstudo brasileiro mostra eficácia de medicamento contra HIV&nbsp;&nbsp;SBT NewsPrEP de longa duração reduz incidência do HIV, mostra estudo da Fiocruz&nbsp;&nbsp;CNN BrasilFiocruz: PrEP injetável tem alta adesão e reduz incidência de HIV&nbsp;&nbsp;Correio Braziliense",
       "sources": [
         {
           "name": "G1",
@@ -90,14 +150,14 @@
       ]
     },
     {
-      "id": "1f1fb9f65efe",
-      "title": "Astrônomos captam pela primeira vez sinais de rádio de um planeta fora do Sistema Solar - Gazeta de São Paulo",
-      "published": "2026-09-24T23:15:00+00:00",
-      "summary": "Astrônomos captam pela primeira vez sinais de rádio de um planeta fora do Sistema Solar&nbsp;&nbsp;Gazeta de São Paulo",
+      "id": "dfef82e608a2",
+      "title": "Oncologistas listam 7 sintomas de câncer mais ignorados - DOL",
+      "published": "2026-09-25T02:49:58+00:00",
+      "summary": "Oncologistas listam 7 sintomas de câncer mais ignorados&nbsp;&nbsp;DOL",
       "sources": [
         {
-          "name": "Gazeta de São Paulo",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOc243MkdCdEhvX0hpeUd2QzFobHdFX3Y4UWMyb1UtTlpEbnVBZnNSS01wd3JtckVrTUJFVUx5RGFwQzRQSmpCWXQ0SVRaNno0RzhLMGFfZXd4c2NDRmRWbDVNdjRsWEtyVXNBUmgyaG5VbzgyaEFEVnNiamhCazBZcGd5X2FQTDkweDVMcUxiWWxoZlh2SE4teE9pcEw0eTNpVk80Yi1MSWlGeFB1SlhKMkZoTjYzcUdMSDJ5a1FEcWdiSGpt?oc=5"
+          "name": "DOL",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVHVFQVJZd0J3c0dqSzdxN29VSmxLNzdGa0EzTTVQZGJ4cExNakJwcGl1d1lUdm9TSGtwMXhETzNNRFpQOHpxVVQxVjJvVGJHY0ItZVdhVDg1cUZjbmhHMVhNR0ttY1NUTF8tVldpdEU0MnNVaFpHRkpTLVpkSDFXM290ODctcXg1N284aktnZU1vVng1YVZBQlc1b0dfOXFW0gGoAUFVX3lxTFAyTGcybTJ1VzIwT0FKRlFHTTZsLTRTN0dRb3ZpZFFjaThpRExHNnNSRXRBaE1DUWt3d1REY1ZSWlY3WURTUlFNOW5CTlhidXBhdFVGZWUtU1FQX2wyUWQ1dDNPeWhoTl8wVFEzbExMU0pIeWRDUDdhT1Q5X1FxcU5NNW9HMk5zWUxGdHlpWHJEc3lTVWVzQ2F6UXZqaXFtQV9rTXVSbWN1Vg?oc=5"
         }
       ]
     },
@@ -146,6 +206,18 @@
         {
           "name": "www.gov.br",
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOM2pfT0dHdDJOeHp6dlRmZlRoakh5ZkZ5c0VuOXk1d0wzQ2RDQlFNMjVQXzVwTGhCYW5FSFFBWVlXU202ZENuV1VQZWt6bzFSRkN6eWRZTVI1bHVyRC1HdjNyLWJJNXRMMlo0S2N0b1Fyb0pEMlppMHRUQUJoMWJKdnRrMFRrb2hJMU5kNUtHTk53NEYtSlNBc09nZWE2dWFsYlV4aGVKeDVoYWJDMVFjUV9uZXdaaGhNM0V6akNfRDZ3UUxWOGpoUnkwWi1TekhXcFZJYUJWY3ExTE1tSHdaZ19R?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3a3012ca4a3a",
+      "title": "Caminhada mais icônica de Curitiba acontece neste domingo e deve reunir milhares de pessoas - Bem Paraná",
+      "published": "2026-09-24T15:56:00+00:00",
+      "summary": "Caminhada mais icônica de Curitiba acontece neste domingo e deve reunir milhares de pessoas&nbsp;&nbsp;Bem ParanáCaminhar devagar adianta? O que a ciência diz sobre o ritmo que protege o coração&nbsp;&nbsp;TerraQuantos passos você deve dar por dia para se manter saudável, ativo e evitar doenças?&nbsp;&nbsp;Rádio ItatiaiaParaná promove mutirão gratuito de saúde cardíaca em seis cidades//&nbsp;&nbsp;Associação das Emissoras de Radiodifusão do ParanáNão consegue dar 10.000 passos? A velocidade da m",
+      "sources": [
+        {
+          "name": "Bem Paraná",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSVNweHR1NFhtM25MREtKNldGSG9VVzlaU1ltUkpqMVE5ZDdVdGZIRW9SLThwMG12YzV2Y1l1UmI0VGJXcFhSN3NmYlZKVVR4Z0pWR2ZDQm1XMmtkNTNIRVBVSDZfcXR1aHlfZ1ZBS21hX0oyOFVmX0tfLTloZXhKd3RndFlfNWFYNk1DODFaUTJxUnNqMkNONkU0WVBuREhNQ0pmY0NLckJDTU1HYVZVWWd5bnBaSE1KdUpVWHRoQzJiUWgzVVRNeVdSbjd6Vmp4aFFV0gHYAUFVX3lxTE1kZ2xYMDdBbEhDVmh4MTNOMTF4RWZ1LXczeW5jSWdEUmVTRzdOZUxNTEZ2RFNZWUpZT3liOVRfb1hRbXlCTXQ2TkZzNE5pLUNZOTJDVmtOelJ5dzR5WVNCaGNoU3NTRjJobTVtMFZJMWJ6MjU2c2J0RGdOb2lEcGc5UUpNSjR4aFpOeGRFd1RPamRRLWdhaHFZZ1M0eGc2SllhTUFFcGtEU2ZwQlBsLUlwTWRnVi1oMnMxUGY5WFNWUW5yZkVVSHhCcnFzdl8wVm4tc2ZfZGRyMg?oc=5"
         }
       ]
     },
@@ -210,22 +282,10 @@
       ]
     },
     {
-      "id": "77fb7cfb10c9",
-      "title": "A mente travou? Correr devagar por apenas 10 minutos pode ajudar a pensar mais rápido e a se sentir mais feliz, aponta estudo - O GLOBO",
-      "published": "2026-09-24T06:00:00+00:00",
-      "summary": "A mente travou? Correr devagar por apenas 10 minutos pode ajudar a pensar mais rápido e a se sentir mais feliz, aponta estudo&nbsp;&nbsp;O GLOBOCorrida leve por 10 minutos pode deixar o cérebro mais ágil, diz pesquisa&nbsp;&nbsp;TerraLevantar peso pode ser um exercício para o cérebro também!&nbsp;&nbsp;GP1Exercício por 3 meses melhorou o humor, mas não o principal teste de memória em adultos de meia-idade&nbsp;&nbsp;Tua SaúdeChá ajuda na concentração, mas 10 minutos de corrida devagar podem ser ",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPdjF2WmV4MllOOXExUEhkbTdGVzFpMDZveldPLTZvTHZCcjZSOHFRSUdqQmlFeTJEYU9obXBxZzd6SVJVQmRFVXJNOWFWYk5GaUl6cDhuY1g5UllOa1lvY3Q0eGF5ODVLcUVuenRrcXZsZGgtRlM0V1ZuS3dvZmlhelFqWTlwbFozUnJNcl92SmZRV2FyQnRqa2dqVlVjZGRqU2dEekt4cnUxbmptYkNwMG4xWnMxcE1adVVJc2hZWm9nRXROeDlzazIyTzFpOE1fb3ZtS2hMY1BLdVBTM3ZIQUlTakJZcDhhS3p5RTlvUjZFQkpIM2FzSEpPUFpuMnV6UlRaRnZtaTJYbTjSAZoCQVVfeXFMTzV6cjVPR0pMYWVJbllPVnJ3d0l6Qy1GNlpPckM4MWJhNXFJQ1JoSGpHZHpENktHQU9KcnFLQmxtX3l5cEdSZ29LY0Jwd01NQ0g0b1dKby12WGRxWG90MkwxVFh2MEtGX2JuSDhpalktUjI3dldJNllkTWFyNUZHaHROcnd5WjJQOXlpR1V6VFY4OGUzTnVGSGw2SnptX3BScDZfb20wY1ZaYVo3ck9KYnRiTENwTVhEaXdnOHg5RVoxUVFOXzJCbjBQU0Z6MHlraUFqTDlnNWlhZ2pzc1FEV1ZvUmNEdi1GMnFzMjNRZ3dsMVJDZlNSQk5vbG4xVjNwRzh2dzk4ZzM0OHJpUElqcU1TWlJHLU05c1FR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "16467a381e55",
       "title": "Revendo os Dados: Vitamina D - Medscape",
       "published": "2026-09-24T01:42:41+00:00",
-      "summary": "Revendo os Dados: Vitamina D&nbsp;&nbsp;MedscapeA falta de vitamina D nem sempre é só falta de sol: o intestino também conta&nbsp;&nbsp;Tua SaúdeVitamina D: a chave da vitalidade para todo o organismo&nbsp;&nbsp;correiobraziliense.com.brVitamina D pode reduzir o risco de demência, aponta estudo&nbsp;&nbsp;Jornal O SulProtetor solar bloqueia realmente a vitamina D? O que dizem os médicos&nbsp;&nbsp;em.com.br",
+      "summary": "Revendo os Dados: Vitamina D&nbsp;&nbsp;MedscapeA falta de vitamina D nem sempre é só falta de sol: o intestino também conta&nbsp;&nbsp;Tua SaúdeVitamina D: a chave da vitalidade para todo o organismo&nbsp;&nbsp;Correio BrazilienseVitamina D pode reduzir o risco de demência, aponta estudo&nbsp;&nbsp;Jornal O SulProtetor solar bloqueia realmente a vitamina D? O que dizem os médicos&nbsp;&nbsp;Estado de Minas",
       "sources": [
         {
           "name": "Medscape",
@@ -258,18 +318,6 @@
       ]
     },
     {
-      "id": "f835c069076f",
-      "title": "SC registra 2ª morte por hantavirose em 2026; doença é transmitida por ratos silvestres - G1",
-      "published": "2026-09-23T22:20:03+00:00",
-      "summary": "SC registra 2ª morte por hantavirose em 2026; doença é transmitida por ratos silvestres&nbsp;&nbsp;G1Itajaí cofirma morte de homem de 28 anos por hantavirose&nbsp;&nbsp;G1Morte misteriosa de jovem foi causada por doença que havia sumido de cidade em SC há quase 20 anos&nbsp;&nbsp;NSC TotalMorte por hantavirose acende alerta para cuidados em Itajaí&nbsp;&nbsp;DIARINHOJovem de 28 anos é a segunda vítima fatal de hantavirose em SC em 2026&nbsp;&nbsp;folharegionalwebtv.com",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbElISUZSMG9JT09UdjNmRGdYbURtdVFiLXk4SHkwVXpfUXdZYURRUzVfdkt5RHlvQVk0bnY2WEVuUWtRS2RhenFtaWd3di00MWlfaTVhejNKNGpuTXdseHZsSjlkN2VhN3RNaXdzR0FQalNpMjJiOWpCVTZRTWE3N3p0U3d3ZVRpQzV3My1zUzJId2t6a3NtdzBVTklHTDRSWGNLeVU2MXFzTWlXWEZVbVVlcy1UZHB5eDJkN2hldUR6QjhPRjFUR2kxbWlGZ9IB3AFBVV95cUxPMmlzYTBORkhqLU53c0l0Y0Nmd3RPWnVsV2kxcm5PSFNsSkg1MWREUHFEajBxbWxXSHBnM1lodHZRNWhBaEM2Z0F1TnN3dGI3RTktUGstRUp6ZlZROXRrOFE2Z2dsQzZxX3doUm1UcnRHNWYyTnhrN3BVZ0ktQTVRRTZZcVNVVEx5azRKRFdfWEl5YTVJWm9BSThwVk9jSGswNFUxYmxfNndCd1BDN2VOek1KTDZ3QjRlUXF3SE0wQ1VMZHluLWlYZlVkSzI3TTNta1NpY3RZYnoxTll0?oc=5"
-        }
-      ]
-    },
-    {
       "id": "60136e032d78",
       "title": "Nova espécie de rã-de-vidro é descoberta no Cerrado - Campo Grande News",
       "published": "2026-09-23T21:46:00+00:00",
@@ -282,22 +330,10 @@
       ]
     },
     {
-      "id": "f45659ba2bac",
-      "title": "Beber \"goró\" na adolescência pode deixar marcas no cérebro para o resto da vida; entenda - CNN Brasil",
-      "published": "2026-09-23T20:07:48+00:00",
-      "summary": "Beber \"goró\" na adolescência pode deixar marcas no cérebro para o resto da vida; entenda&nbsp;&nbsp;CNN BrasilÁlcool na adolescência afeta maturação do cérebro e deixa marcas até a vida adulta&nbsp;&nbsp;Agência FAPESPÁlcool na adolescência pode afetar comportamento na vida adulta, diz estudo&nbsp;&nbsp;correiobraziliense.com.brO que é a ‘hanganxiety’? Neuropsiquiatra explica como o cérebro reage depois de consumir álcool&nbsp;&nbsp;O GLOBOConsumo de álcool na adolescência altera cérebro e estim",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeXhBSFlkTkN1ck1XcXJGT0NmUGNUUFdnU09zWXBCSXl5XzUyeEVOSVdYbWs3c3BXdTRicmVBQ0VILXg1d1hvNUp6MGZIcXpJNlh4djNkb3owa214dlNWREZiTUliVGNhMFBJNm5HQ2dUY1VGaUNhX2QweC13S1hxeW5oNHliREhWWmdUaVdkdG8wanlPcEJxbDZkQVNjanY1VHF2UlZhaThoWGtNY0tsZHdxRHM0S1dxLTJBdk91X29nbTVjUzhR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e2f3cf1455a6",
       "title": "Sair do sedentarismo: dicas simples para criar uma rotina ativa - Terra",
       "published": "2026-09-23T19:52:00+00:00",
-      "summary": "Sair do sedentarismo: dicas simples para criar uma rotina ativa&nbsp;&nbsp;TerraNem todo corpo suporta um treino intenso&nbsp;&nbsp;Imagem da Ilha6 dicas práticas para largar o sedentarismo&nbsp;&nbsp;boaforma.abril.com.brExercício intenso faz bem para todo mundo? Entenda os riscos e cuidados&nbsp;&nbsp;boaforma.abril.com.br",
+      "summary": "Sair do sedentarismo: dicas simples para criar uma rotina ativa&nbsp;&nbsp;TerraNem todo corpo suporta um treino intenso&nbsp;&nbsp;Imagem da Ilha6 dicas práticas para largar o sedentarismo&nbsp;&nbsp;Assine AbrilExercício intenso faz bem para todo mundo? Entenda os riscos e cuidados&nbsp;&nbsp;Assine Abril",
       "sources": [
         {
           "name": "Terra",
@@ -309,7 +345,7 @@
       "id": "f23e4bdeba15",
       "title": "Infarto silencioso: 5 sinais que podem passar despercebidos - DOL",
       "published": "2026-09-23T18:48:41+00:00",
-      "summary": "Infarto silencioso: 5 sinais que podem passar despercebidos&nbsp;&nbsp;DOLReconhecer sintomas de infarto e AVC pode salvar vidas&nbsp;&nbsp;G1Dores no peito ou indigestão? Cardiologista alerta para sinais de infarto&nbsp;&nbsp;TerraDor no peito é sempre infarto? Veja como diferenciar os sinais de ansiedade e problemas cardíacos&nbsp;&nbsp;correio24horas.com.brSaúde cardíaca: Especialistas alertam sinais e medidas ao Dr. Kalil&nbsp;&nbsp;CNN Brasil",
+      "summary": "Infarto silencioso: 5 sinais que podem passar despercebidos&nbsp;&nbsp;DOLReconhecer sintomas de infarto e AVC pode salvar vidas&nbsp;&nbsp;G1Dores no peito ou indigestão? Cardiologista alerta para sinais de infarto&nbsp;&nbsp;TerraDor no peito é sempre infarto? Veja como diferenciar os sinais de ansiedade e problemas cardíacos&nbsp;&nbsp;Jornal CorreioMulher infarta? Médicos explicam sintomas no sexo feminino ao Dr. Kalil&nbsp;&nbsp;CNN Brasil",
       "sources": [
         {
           "name": "DOL",
@@ -321,7 +357,7 @@
       "id": "d5daa5a7467a",
       "title": "Depressão atípica: por que ela pode passar despercebida - Portal Drauzio Varella",
       "published": "2026-09-22T18:05:28+00:00",
-      "summary": "Depressão atípica: por que ela pode passar despercebida&nbsp;&nbsp;Portal Drauzio VarellaA depressão e a pergunta que falta em quase toda consulta médica&nbsp;&nbsp;VEJAAlém da tristeza: os sinais da depressão atípica que muita gente desconhece&nbsp;&nbsp;Terra",
+      "summary": "Depressão atípica: por que ela pode passar despercebida&nbsp;&nbsp;Portal Drauzio Varella",
       "sources": [
         {
           "name": "Portal Drauzio Varella",
@@ -333,7 +369,7 @@
       "id": "f2a6b345324c",
       "title": "Musculação faz células de gordura encolherem antes mesmo da perda de peso, mostra novo estudo - O GLOBO",
       "published": "2026-09-22T14:30:14+00:00",
-      "summary": "Musculação faz células de gordura encolherem antes mesmo da perda de peso, mostra novo estudo&nbsp;&nbsp;O GLOBOMusculação ativa mecanismos de queima de gordura em 7 dias, diz estudo&nbsp;&nbsp;correiobraziliense.com.brMusculação pode reduzir gordura mesmo que a balança mostre o mesmo peso&nbsp;&nbsp;Diário do Centro do MundoSete dias de musculação já alteram a queima de gordura, aponta estudo&nbsp;&nbsp;Tribuna do PlanaltoMusculação pode reduzir gordura abdominal antes mesmo da perda de peso, a",
+      "summary": "Musculação faz células de gordura encolherem antes mesmo da perda de peso, mostra novo estudo&nbsp;&nbsp;O GLOBOMusculação ativa mecanismos de queima de gordura em 7 dias, diz estudo&nbsp;&nbsp;Correio BrazilienseMusculação pode reduzir gordura mesmo que a balança mostre o mesmo peso&nbsp;&nbsp;diariodocentrodomundo.com.brSete dias de musculação já alteram a queima de gordura, aponta estudo&nbsp;&nbsp;Tribuna do PlanaltoMusculação pode reduzir gordura abdominal antes mesmo da perda de peso, apon",
       "sources": [
         {
           "name": "O GLOBO",
@@ -345,7 +381,7 @@
       "id": "50be5529e581",
       "title": "8 conservantes alimentares comuns são associados à pressão alta, em estudo inédito; veja lista - O GLOBO",
       "published": "2026-09-22T13:22:25+00:00",
-      "summary": "8 conservantes alimentares comuns são associados à pressão alta, em estudo inédito; veja lista&nbsp;&nbsp;O GLOBOCada 100g a mais de ultraprocessados por dia pode elevar em 4% risco de câncer&nbsp;&nbsp;VEJAUltraprocessados: estudo aponta maior risco de doenças e morte precoce&nbsp;&nbsp;correiobraziliense.com.brAditivos em ultraprocessados podem estar ligados a maior risco cardíaco&nbsp;&nbsp;MetrópolesEstudo associa consumo de conservantes em excesso a maior risco de pressão alta&nbsp;&nbsp;tr",
+      "summary": "8 conservantes alimentares comuns são associados à pressão alta, em estudo inédito; veja lista&nbsp;&nbsp;O GLOBOCada 100g a mais de ultraprocessados por dia pode elevar em 4% risco de câncer&nbsp;&nbsp;veja.abril.com.brUltraprocessados: estudo aponta maior risco de doenças e morte precoce&nbsp;&nbsp;Correio BrazilienseAditivos em ultraprocessados podem estar ligados a maior risco cardíaco&nbsp;&nbsp;MetrópolesEstudo associa consumo de conservantes em excesso a maior risco de pressão alta&nbsp;&",
       "sources": [
         {
           "name": "O GLOBO",
@@ -357,7 +393,7 @@
       "id": "907478283183",
       "title": "Câncer de pulmão exige cuidado além da prevenção - Estadão",
       "published": "2026-09-22T07:00:00+00:00",
-      "summary": "Câncer de pulmão exige cuidado além da prevenção&nbsp;&nbsp;EstadãoAvanços no tratamento do câncer de pulmão em 2026 - parte 2&nbsp;&nbsp;em.com.brFernando Maluf | Câncer de pulmão expõe diferenças entre SUS e rede privada&nbsp;&nbsp;Poder360Uma exposição invisível, um impacto real: o impacto do fumo passivo na incidência do cancro do pulmão&nbsp;&nbsp;News FarmaAvanços no tratamento do câncer de pulmão em 2026: inovações e perspectivas recentes&nbsp;&nbsp;Minas Informa",
+      "summary": "Câncer de pulmão exige cuidado além da prevenção&nbsp;&nbsp;EstadãoAvanços no tratamento do câncer de pulmão em 2026 - parte 2&nbsp;&nbsp;Estado de MinasFernando Maluf | Câncer de pulmão expõe diferenças entre SUS e rede privada&nbsp;&nbsp;Poder360Uma exposição invisível, um impacto real: o impacto do fumo passivo na incidência do cancro do pulmão&nbsp;&nbsp;News FarmaAvanços no tratamento do câncer de pulmão em 2026: inovações e perspectivas recentes&nbsp;&nbsp;Minas Informa",
       "sources": [
         {
           "name": "Estadão",
@@ -378,6 +414,18 @@
       ]
     },
     {
+      "id": "31e4f7332a8b",
+      "title": "Menos peso, menos exercício: o dilema dos agonistas do GLP-1 - Medscape",
+      "published": "2026-09-21T12:22:23+00:00",
+      "summary": "Menos peso, menos exercício: o dilema dos agonistas do GLP-1&nbsp;&nbsp;MedscapePor que os remédios para obesidade não funcionam para todos&nbsp;&nbsp;CartaCapitalAgonistas do GLP-1: perda de peso levanta questões sobre massa muscular e estado nutricional&nbsp;&nbsp;Jornal Médico",
+      "sources": [
+        {
+          "name": "Medscape",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQc1pjOUJ4VFNzbHdXSkg3Q1NsdzFsb0dNbW8tY09Yamo3Q1hKT2hBQkMxZzBMZk1xTmtFeEZpS3VFeEd0UDdlRjRnazAzOVMtekYyREI2S2hhZUFORkI3S003UmpHS1h1UHNZejBKT1VUWE5nTFBPMHAzM0FiUFNtZlRwSXJZcHdmMjhyT1lTbGZVZGNnNFdGck9yMnNQVDV3VEdXTVU2c1lCeVhkWW4xQzFDOXRDdw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a2bd60231ffa",
       "title": "Antibiótico antigo voltou a ser a eficaz contra uma superbactéria - Medscape",
       "published": "2026-09-21T12:22:23+00:00",
@@ -386,6 +434,18 @@
         {
           "name": "Medscape",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRjM2OFFIbUpQdUt0LUJCcVVjRzE1TXkzZG1odUc4UzZqU1FrT091c3dSOHJTSllEd1dIbGc5dllfWndTVVN3LUlkYU5hMG8tSGxIYUYxSmstMkZqT29BMHdOMm10VjVFTWNoNG4xaHpWSUg5OXJnbW55OFd6YVRuME94YVprVEdhOVg2OVVYR01fb1luNE1uelNTWWp3aUVHUTg2UzRlOA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "52f637c77e14",
+      "title": "Por que a cafeína deixa algumas pessoas em alerta e outras não sentem nada? - BBC",
+      "published": "2026-09-19T18:59:46+00:00",
+      "summary": "Por que a cafeína deixa algumas pessoas em alerta e outras não sentem nada?&nbsp;&nbsp;BBC6 benefícios comprovados do café e quem deve ter cautela&nbsp;&nbsp;UOLCafé faz muito mais do que tirar o sono: bebida pode acelerar o intestino, alterar o colesterol e até interferir na absorção de ferro e em alguns medicamentos&nbsp;&nbsp;Diário do ComércioVeja sete efeitos estranhos do café no seu corpo, como alterar digestão, absorção de ferro e de remédios&nbsp;&nbsp;redeutv.com.brCafé e energético não",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tTDFpWm85eTgxcEpKNl9mbW1vMGpGLVg0UHo4bUZNdk9IZ3BmMnhnc2w2RHNZNi1oYlU3NlBMOGZsQ3RWeFp0OW1Pd2ExcnV5akhPU3FFYnZYN2g1LUxtMXo2UdIBaEFVX3lxTFBpUExmcklfMDlzQk44aUV2RkFfNDBnQ19CSTV6U181Um1qVlI0aG91b0tmcGdXZ3Y5WEN6enNlckltUEkyVjN4eFdFZW53bktsanlvRXg1bS1ud1p4UUFCaWhqTzVjM19Z?oc=5"
         }
       ]
     }

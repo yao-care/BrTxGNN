@@ -14,7 +14,7 @@ permalink: /news/flunitrazepam/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Flunitrazepam?">
-<strong>Flunitrazepam</strong> tem atualmente <strong>1 notícias</strong> e 10 indicações previstas.
+<strong>Flunitrazepam</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -28,7 +28,7 @@ Esta página combina as indicações previstas por IA para Flunitrazepam com as 
 <li>insomnia (disease) (99.9%)</li>
 <li>migraine disorder (99.7%)</li>
 <li>migraine with brainstem aura (99.6%)</li>
-<li class="indication-matched">anxiety (99.6%)<span class="indication-tag">📰 anxiety</span></li>
+<li>anxiety (99.6%)</li>
 <li>anxiety disorder (99.6%)</li>
 <li>alcohol withdrawal delirium (99.5%)</li>
 <li>migraine with or without aura, susceptibility to (99.5%)</li>
@@ -40,15 +40,9 @@ Esta página combina as indicações previstas por IA para Flunitrazepam com as 
 <p><a href="{{ '/drugs/flunitrazepam/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (1)
+## Notícias relacionadas (0)
 
-### [Beber "goró" na adolescência pode deixar marcas no cérebro para o resto da vida; entenda - CNN Brasil](https://news.google.com/rss/articles/CBMixwFBVV95cUxPeXhBSFlkTkN1ck1XcXJGT0NmUGNUUFdnU09zWXBCSXl5XzUyeEVOSVdYbWs3c3BXdTRicmVBQ0VILXg1d1hvNUp6MGZIcXpJNlh4djNkb3owa214dlNWREZiTUliVGNhMFBJNm5HQ2dUY1VGaUNhX2QweC13S1hxeW5oNHliREhWWmdUaVdkdG8wanlPcEJxbDZkQVNjanY1VHF2UlZhaThoWGtNY0tsZHdxRHM0S1dxLTJBdk91X29nbTVjUzhR?oc=5)
-
-2026-09-23 <span class="news-indication-tag">anxiety</span>
-
-Fonte: [CNN Brasil](https://news.google.com/rss/articles/CBMixwFBVV95cUxPeXhBSFlkTkN1ck1XcXJGT0NmUGNUUFdnU09zWXBCSXl5XzUyeEVOSVdYbWs3c3BXdTRicmVBQ0VILXg1d1hvNUp6MGZIcXpJNlh4djNkb3owa214dlNWREZiTUliVGNhMFBJNm5HQ2dUY1VGaUNhX2QweC13S1hxeW5oNHliREhWWmdUaVdkdG8wanlPcEJxbDZkQVNjanY1VHF2UlZhaThoWGtNY0tsZHdxRHM0S1dxLTJBdk91X29nbTVjUzhR?oc=5)
-
----
+*Ainda não há notícias relacionadas. Quando uma notícia mencionar este medicamento, ela será recolhida e exibida aqui automaticamente.*
 
 
 <div class="disclaimer">
