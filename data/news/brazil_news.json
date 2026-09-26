@@ -1,10 +1,22 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-09-25T21:13:15.608541+00:00",
-  "total_fetched": 102,
-  "unique_count": 99,
-  "health_related_count": 37,
+  "fetched_at": "2026-09-26T04:02:11.317729+00:00",
+  "total_fetched": 98,
+  "unique_count": 95,
+  "health_related_count": 28,
   "news": [
+    {
+      "id": "021aec46d03f",
+      "title": "Doenças inflamatórias intestinais disparam no Brasil em 13 anos; pesquisador suspeita de poluição e conservantes - O GLOBO",
+      "published": "2026-09-25T17:44:15+00:00",
+      "summary": "Doenças inflamatórias intestinais disparam no Brasil em 13 anos; pesquisador suspeita de poluição e conservantes&nbsp;&nbsp;O GLOBOAntes consideradas raras, doenças intestinais como a de Evaristo Costa crescem no país&nbsp;&nbsp;GloboNúmero de brasileiros com doenças inflamatórias intestinais cresce mais de 400% em 13 anos&nbsp;&nbsp;Folha de S.PauloDoenças inflamatórias intestinais disparam mais de cinco vezes no Brasil&nbsp;&nbsp;VEJACasos de doenças inflamatórias intestinais aumentam 5 vezes ",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQQ2FySGpDV24wcVVIVFBpek45VUNKWWZscng0MExZV3k0NXVYQWFnUnNMOXRvMHNMOWdoM2pVQnJZNk9pTThBUExDVjlzQXNmeXZsZVg4Q21yN3VNYlVHUVBXS1pHNXpmaEhmSXF4cDg4UThlRldONDJwbWhPUEJ1XzhVb2pnZ1M0MlZoN2lmNXRFMVhZVVJlT1F4LUd2MHJJbS15WGx6d2JlQjZQUHBOWmN0amN5NUIyWE4zWXhxdUhfUHBfN1dhLTBzRU5MckFpLXRwNGNpaXhlbDE2dFJFaXlwcU5laTVxeHhJME1FeHBjMURDVDByWDJHZ9IBigJBVV95cUxNOXJxWHd1NlZLQzByS3Yyd1FMUHVoZk43NzU3SlBQdm5CNURRbzAzcXdMejVqVm1qZ2xqTG9iYjYtZU1paEhmamNhdGpWLWR5REhseWFYX3c5M1lGa2VVS003MmFaaWVKbkZRUkdrMXRaQkFXZXNNNlNLTG5EM2NEZTFldUNDMVB5LU9OZ05ESDVEZ3Bia0txNzc0eURpR2pKM0hVa3h4QnZ2N0VncXNDMDZqZ2ZDakVvZ2N5eVBVa25CMlJqSlo2M1NBZ2RNS1lNdldSdHcweTh1MDBhZ1VhLTBjYVFQOEdFMjJVT1dpdzhtLWlQZ2JpTVBPeVpuMW5qUE8xclFRcXBDZw?oc=5"
+        }
+      ]
+    },
     {
       "id": "fae26b886fc0",
       "title": "Estudo: pilotos e comissários morrem mais de câncer ligado à radiação - UOL",
@@ -14,6 +26,18 @@
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMUZqdldHY2I0QWhKc1ZYc3NwVThnSDdoa2c0TmNnTDh3TjQ3NUJ6c0R6T3ZXSi00Q2tyMkYyUWJaVi1JZHM5bE1vaU81clY4TXlsWUlubU9FWnRsTm5XY0pFaUh6OU04VlJESHpwcGxBbUhnOFpmOGRwLXM4ang3VVluTXJjTm1aQ2xfdjFhNjI5M0FqNFpUT2daWS1YVG1zZGhCMk03OTBGMkxqWi1FWnotcGdqcE5YekY0NjJZMzlwYVNyQmRUdURTMDQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "96b1ff7cd17b",
+      "title": "Terapia hormonal na menopausa: dose e via de administração determinam risco de trombose - portugues.medscape.com",
+      "published": "2026-09-25T16:24:46+00:00",
+      "summary": "Terapia hormonal na menopausa: dose e via de administração determinam risco de trombose&nbsp;&nbsp;portugues.medscape.comTerapia hormonal na menopausa é perigosa? Especialista explica&nbsp;&nbsp;iG DelasSuplementos para Menopausa: Guia de Segurança para Fogachos&nbsp;&nbsp;Kantesti AI Blood Test AnalyzerExiste tratamento sem hormônio para os calorões da menopausa?&nbsp;&nbsp;Tua SaúdeHormônios para menopausa via oral elevam risco de trombose em comparação à via transdérmica&nbsp;&nbsp;Правда.Ру",
+      "sources": [
+        {
+          "name": "portugues.medscape.com",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTXlZRkVRRkczaDYxekVGT01VMVZVSnAtLTRwMldQYWkwUGd4TjlMV045eks1YnpzNTh0WkxOQkZUOE5zcGdxQUM4T21sZkVtakhJV2hTODlmYjRiMmpRb0xCU19uaHg2T05OUHB4dDduZ1Jtamo4V3ZhYUZRN25qQ1A3b2FhNUhydkIwWFoybWgycTU4QzNPVg?oc=5"
         }
       ]
     },
@@ -30,18 +54,6 @@
       ]
     },
     {
-      "id": "78a1b8bd4277",
-      "title": "Doenças inflamatórias intestinais crescem mais de cinco vezes no Brasil em 13 anos - G1",
-      "published": "2026-09-25T13:42:18+00:00",
-      "summary": "Doenças inflamatórias intestinais crescem mais de cinco vezes no Brasil em 13 anos&nbsp;&nbsp;G1Número de brasileiros com doenças inflamatórias intestinais cresce mais de 400% em 13 anos&nbsp;&nbsp;Folha de S.PauloEm 13 anos, doença inflamatória intestinal cresce 5 vezes no Brasil&nbsp;&nbsp;Tribuna do NorteCasos de doenças inflamatórias intestinais aumentam 5 vezes em 13 anos no País; entenda por quê&nbsp;&nbsp;EstadãoCasos de doença inflamatória intestinal crescem mais de cinco vezes no Brasil",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPb0VXSlBjYlJ0cGRjMWdyYk5sV012WlFHbXlZOEc4cFBVTVV5bGE5WnZTaVRxNnZBYUF4UXNiUmxVSkoyQVdNTlRjZnpTNUVydDZCbjdxbHdrbTYzWEZGQVloSzctOV9yQmdDSmdOd3p0LUJzZlJzZE0wS0dWLW54VU5SM05aRGRFTUJuV2J5UDkxel9HZWxoUEdMN3lGYXlfY19kOGlQUVlQOEUtVEZwSHU0ZW5OT3dBSDVUT0ZHb2pud0ltWTRaUUFpVXVFZWvSAd4BQVVfeXFMTlJBZi1JZ0VkMGRIOWt1eGEydWRmNXc3Ny05eGQ3c1NrdGp0ZGlCdWVvLTF3aTJxb2pkNDhsQUhOVWdhMXQ0UUtBTGY0TjhIMHVSNzNzUFowWnU1ZjRDYkEyc2lqSFVJckc3UnFnVDVHS1h0ZXdOd25NX1B2OWJSZFNOSWczaTBtVExYVjhaZ3l6SV8wVlFtMlNTYnZsLVNaVWhtMWZHUEhPVm8yZmRVTENFbzloeFlOdGVSa2dDQk8yeFg2TGRZSWk0MC1nb3BOempCUHpLcmMxcXZoNTd3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "cba59f8d4c21",
       "title": "Cientistas descobrem rota 'impossível' nas células que pode tornar células cancerosas mais vulneráveis - Época Negócios",
       "published": "2026-09-25T13:02:42+00:00",
@@ -54,22 +66,10 @@
       ]
     },
     {
-      "id": "9333dd11bb2d",
-      "title": "Novo aplicativo da Prefeitura de Fortaleza facilita acesso a serviços de saúde; veja como funciona - G1",
-      "published": "2026-09-25T11:34:35+00:00",
-      "summary": "Novo aplicativo da Prefeitura de Fortaleza facilita acesso a serviços de saúde; veja como funciona&nbsp;&nbsp;G1Aplicativo permite confirmar consulta por WhatsApp em Fortaleza&nbsp;&nbsp;O POVOUsuários do SUS em Fortaleza poderão confirmar consultas e exames por aplicativo; saiba como&nbsp;&nbsp;Diário do NordesteSaúde que Cuida Digital: inteligência artificial e outros avanços tecnológicos a favor do SUS em Fortaleza&nbsp;&nbsp;Contexto NotíciasCerca de 30% dos fortalezenses faltam a consultas,",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRnRwbUJ1TldWa1lvSVdhcS1DY3JnSjBzTW84UExMSmI3RkxtQ0FJVWlRNmdQNXdUX0dFTzlvcVA1S2NJdjl1RWc0UGRvTzNqTWVsT2NrN2gyQmgwa0pLbnNhY1RmcVYwVHo5dFc3Z2liYXNTY0dGZHZnY0FMR1FHX29ickEyYlBNVW9LSzRxb2FSaFBFZVlSbmtEbXF2VTB6Mjh2Nnk2NkF3T3V1LUtUam1lRDRVLUNtWEt0ZVRpUGZ6a1J3N0ZkaEhzcnNLY3BWc1otWEcxMzhZQ01aZ3hTMGFjbWNFV2vSAfYBQVVfeXFMUGJocjhqT0xWc0cxakhib05kNDVDb0RXdGpoc29zZzRRRC1xdDh4cXdJMk9uMzNIWXg2d1dlMU8wcTBDMzlJY3dmdXp6LTVIOGpaZ0wxbV9faXRsRDVlY1kyTUUwMkhBN3p2OVNGSm1oX1NmUlBHdXlFNm95aGdwXzgxTUtyQXlrektwYlBNUWUwQUVnUEVmWXktbHctbndjMk5JMG1uUUNnMjZrRVlGOWdDeUktV19naXNCNGh3enNFb0dwcFVib2g2NG9ndWEwQmVnbFQ4ZzY0UE1UN3d2VGtpenBnNXllNmFqZG0tT0RzWmVpcXRR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2d651aaff444",
       "title": "Casca de jabuticaba reduz glicose e inflamações; veja como fazer o chá - UOL",
       "published": "2026-09-25T08:30:00+00:00",
-      "summary": "Casca de jabuticaba reduz glicose e inflamações; veja como fazer o chá&nbsp;&nbsp;UOLReceitas criativas para fazer com jabuticaba&nbsp;&nbsp;EstadãoEstudo revela que casca de jabuticaba reduz glicose e inflamações; veja receitas&nbsp;&nbsp;TVBV ONLINEPara que serve a jabuticaba? Veja 3 benefícios e receitas&nbsp;&nbsp;Estadão",
+      "summary": "Casca de jabuticaba reduz glicose e inflamações; veja como fazer o chá&nbsp;&nbsp;UOLEstudo revela que casca de jabuticaba reduz glicose e inflamações; veja receitas&nbsp;&nbsp;TVBV ONLINE",
       "sources": [
         {
           "name": "UOL",
@@ -102,10 +102,22 @@
       ]
     },
     {
+      "id": "cdf1f72a511e",
+      "title": "Saúde do pai pode interferir no desenvolvimento dos filhos até a velhice, diz estudo - Terra",
+      "published": "2026-09-25T07:58:00+00:00",
+      "summary": "Saúde do pai pode interferir no desenvolvimento dos filhos até a velhice, diz estudo&nbsp;&nbsp;Terra",
+      "sources": [
+        {
+          "name": "Terra",
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQbWtJVUY4SDNlTHJwNk1iMlBaZ0VETlJhZnA5SGF0SnNLRno0ZzBfVFE4ZVJzQWdtYXIzUEsxRC1Ka2lRbTRpS1lBTThRRFluZXNmQmszTjFjMW41TEpZbDJ3NktjSl9rU3VyN3V0RkxTQ1AzMGlPdWFGNGZLajU1TEl4bDFZUklFVWE3NVNzNldHbGltajdUY1J1RWJScWlQSVM2d1BSNUE0bmJnYTFuMzMzRV9jN3NWOTZiaVhhRUlqZjZqc0tSR1NBaTk0SEd6c19sc0lZZk40VUptUHdBX0ZlUE9zOEJuZTdyLTZjOGdwaWFqLVJHSU9rRHNUR2tpZU80dA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "aa6013d0db82",
       "title": "Pesquisadores usam 'botão de volume' para tratar doenças ligando ou desligando trechos de DNA - G1",
       "published": "2026-09-25T07:00:00+00:00",
-      "summary": "Pesquisadores usam 'botão de volume' para tratar doenças ligando ou desligando trechos de DNA&nbsp;&nbsp;G1Pesquisador gaúcho participa de estudo que pode revolucionar tratamento de doenças raras&nbsp;&nbsp;GZHCirurgia no DNA: a edição genômica deixou de ser ficção&nbsp;&nbsp;MedscapePesquisadores usam \"botão de volume\" para tratar doenças ligando ou desligando trechos de DNA&nbsp;&nbsp;G1",
+      "summary": "Pesquisadores usam 'botão de volume' para tratar doenças ligando ou desligando trechos de DNA&nbsp;&nbsp;G1Pesquisador gaúcho participa de estudo que pode revolucionar tratamento de doenças raras&nbsp;&nbsp;GZHCirurgia no DNA: a edição genômica deixou de ser ficção&nbsp;&nbsp;portugues.medscape.comCurando o código do corpo: terapia de RNA surpreende e melhora primeiro caso de ELA&nbsp;&nbsp;bra1.com.brPaciente com tipo raro de esclerose mantém movimentos e segue trabalhando um ano após tratament",
       "sources": [
         {
           "name": "G1",
@@ -141,7 +153,7 @@
       "id": "250eee871951",
       "title": "Estudo da Fiocruz mostra alta adesão à PrEP injetável e menor incidência de HIV - G1",
       "published": "2026-09-25T03:00:00+00:00",
-      "summary": "Estudo da Fiocruz mostra alta adesão à PrEP injetável e menor incidência de HIV&nbsp;&nbsp;G1PrEP injetável tem maior adesão e menor exposição ao HIV, mostra estudo da Fiocruz&nbsp;&nbsp;Folha de S.PauloEstudo brasileiro mostra eficácia de medicamento contra HIV&nbsp;&nbsp;SBT NewsPrEP de longa duração reduz incidência do HIV, mostra estudo da Fiocruz&nbsp;&nbsp;CNN BrasilFiocruz: PrEP injetável tem alta adesão e reduz incidência de HIV&nbsp;&nbsp;Correio Braziliense",
+      "summary": "Estudo da Fiocruz mostra alta adesão à PrEP injetável e menor incidência de HIV&nbsp;&nbsp;G1PrEP injetável tem maior adesão e menor exposição ao HIV, mostra estudo da Fiocruz&nbsp;&nbsp;Folha de S.PauloEstudo brasileiro mostra eficácia de medicamento contra HIV&nbsp;&nbsp;SBT NewsManaus está entre cidades brasileiras de estudo sobre nova prevenção contra o HIV&nbsp;&nbsp;portaldoholanda.com.brPrEP de longa duração reduz incidência do HIV, mostra estudo da Fiocruz&nbsp;&nbsp;CNN Brasil",
       "sources": [
         {
           "name": "G1",
@@ -150,13 +162,13 @@
       ]
     },
     {
-      "id": "dfef82e608a2",
-      "title": "Oncologistas listam 7 sintomas de câncer mais ignorados - DOL",
+      "id": "7e01ae37abbc",
+      "title": "Oncologistas listam 7 sintomas de câncer mais ignorados - dol.com.br",
       "published": "2026-09-25T02:49:58+00:00",
-      "summary": "Oncologistas listam 7 sintomas de câncer mais ignorados&nbsp;&nbsp;DOL",
+      "summary": "Oncologistas listam 7 sintomas de câncer mais ignorados&nbsp;&nbsp;dol.com.br",
       "sources": [
         {
-          "name": "DOL",
+          "name": "dol.com.br",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVHVFQVJZd0J3c0dqSzdxN29VSmxLNzdGa0EzTTVQZGJ4cExNakJwcGl1d1lUdm9TSGtwMXhETzNNRFpQOHpxVVQxVjJvVGJHY0ItZVdhVDg1cUZjbmhHMVhNR0ttY1NUTF8tVldpdEU0MnNVaFpHRkpTLVpkSDFXM290ODctcXg1N284aktnZU1vVng1YVZBQlc1b0dfOXFW0gGoAUFVX3lxTFAyTGcybTJ1VzIwT0FKRlFHTTZsLTRTN0dRb3ZpZFFjaThpRExHNnNSRXRBaE1DUWt3d1REY1ZSWlY3WURTUlFNOW5CTlhidXBhdFVGZWUtU1FQX2wyUWQ1dDNPeWhoTl8wVFEzbExMU0pIeWRDUDdhT1Q5X1FxcU5NNW9HMk5zWUxGdHlpWHJEc3lTVWVzQ2F6UXZqaXFtQV9rTXVSbWN1Vg?oc=5"
         }
       ]
@@ -174,22 +186,10 @@
       ]
     },
     {
-      "id": "38c7b0be8107",
-      "title": "Esclerose múltipla: sintomas podem desaparecer e dificultar diagnóstico, alerta médico - Rádio Itatiaia",
-      "published": "2026-09-24T22:46:37+00:00",
-      "summary": "Esclerose múltipla: sintomas podem desaparecer e dificultar diagnóstico, alerta médico&nbsp;&nbsp;Rádio Itatiaia",
-      "sources": [
-        {
-          "name": "Rádio Itatiaia",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZjNTWXZZRW52Zy0yUFNsMWpBd29IRTNSeUpxUnpxNzEtOFJiblF2Z0tjNXZPUTEyR19KX2dlbEphSE4xUzMzN3FYLWZVMlYtTTZObENVLXloY0oySjF0ZmVzbUljNlctSnp2a2dwdXlaakJidGFLVnhlTkZaSHVLMW84RG1PeEFsWHk2R0dsU21fZGRIc0o4dFJDcTJEYmdXWTVuVGtoTnpOa01FM0ZCbFV2aFJOUnQwYVhr?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d994b4ef3860",
       "title": "Lúcia Helena: Dormir pouco compromete a longevidade, mas dormir demais também faz mal - UOL",
       "published": "2026-09-24T22:02:37+00:00",
-      "summary": "Lúcia Helena: Dormir pouco compromete a longevidade, mas dormir demais também faz mal&nbsp;&nbsp;UOLSono ruim aumenta risco de infarto antes dos 40 anos&nbsp;&nbsp;Campo Grande NewsDormir mal afeta o corpo e a mente: conheça 6 impactos da insônia&nbsp;&nbsp;CartaCapitalNoite virada: o que fazer para \"sobreviver\" no trabalho depois de uma crise de insônia&nbsp;&nbsp;CNN BrasilDormiu mal? Uma noite mais longa ajuda na recuperação, mas não apaga completamente a dívida de sono&nbsp;&nbsp;O POVO",
+      "summary": "Lúcia Helena: Dormir pouco compromete a longevidade, mas dormir demais também faz mal&nbsp;&nbsp;UOLSono ruim aumenta risco de infarto antes dos 40 anos&nbsp;&nbsp;Campo Grande NewsDormir mal afeta o corpo e a mente: conheça 6 impactos da insônia&nbsp;&nbsp;CartaCapitalNoite virada: o que fazer para \"sobreviver\" no trabalho depois de uma crise de insônia&nbsp;&nbsp;CNN BrasilDuas horas a mais de sono já ajudam a reverter parte dos danos de uma noite ruim&nbsp;&nbsp;Tua Saúde",
       "sources": [
         {
           "name": "UOL",
@@ -210,18 +210,6 @@
       ]
     },
     {
-      "id": "3a3012ca4a3a",
-      "title": "Caminhada mais icônica de Curitiba acontece neste domingo e deve reunir milhares de pessoas - Bem Paraná",
-      "published": "2026-09-24T15:56:00+00:00",
-      "summary": "Caminhada mais icônica de Curitiba acontece neste domingo e deve reunir milhares de pessoas&nbsp;&nbsp;Bem ParanáCaminhar devagar adianta? O que a ciência diz sobre o ritmo que protege o coração&nbsp;&nbsp;TerraQuantos passos você deve dar por dia para se manter saudável, ativo e evitar doenças?&nbsp;&nbsp;Rádio ItatiaiaParaná promove mutirão gratuito de saúde cardíaca em seis cidades//&nbsp;&nbsp;Associação das Emissoras de Radiodifusão do ParanáNão consegue dar 10.000 passos? A velocidade da m",
-      "sources": [
-        {
-          "name": "Bem Paraná",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSVNweHR1NFhtM25MREtKNldGSG9VVzlaU1ltUkpqMVE5ZDdVdGZIRW9SLThwMG12YzV2Y1l1UmI0VGJXcFhSN3NmYlZKVVR4Z0pWR2ZDQm1XMmtkNTNIRVBVSDZfcXR1aHlfZ1ZBS21hX0oyOFVmX0tfLTloZXhKd3RndFlfNWFYNk1DODFaUTJxUnNqMkNONkU0WVBuREhNQ0pmY0NLckJDTU1HYVZVWWd5bnBaSE1KdUpVWHRoQzJiUWgzVVRNeVdSbjd6Vmp4aFFV0gHYAUFVX3lxTE1kZ2xYMDdBbEhDVmh4MTNOMTF4RWZ1LXczeW5jSWdEUmVTRzdOZUxNTEZ2RFNZWUpZT3liOVRfb1hRbXlCTXQ2TkZzNE5pLUNZOTJDVmtOelJ5dzR5WVNCaGNoU3NTRjJobTVtMFZJMWJ6MjU2c2J0RGdOb2lEcGc5UUpNSjR4aFpOeGRFd1RPamRRLWdhaHFZZ1M0eGc2SllhTUFFcGtEU2ZwQlBsLUlwTWRnVi1oMnMxUGY5WFNWUW5yZkVVSHhCcnFzdl8wVm4tc2ZfZGRyMg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "eb80ac071185",
       "title": "Você tem alergia ao próprio pet? Especialistas do interior de SP reforçam cuidados para aliviar sintomas - G1",
       "published": "2026-09-24T13:32:09+00:00",
@@ -230,18 +218,6 @@
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPck41MXFpU2hoQjVrZUh0Y09kMS1ab2VyZ2VSQ3BfLWJ0dTVKTGZsTWRKeTJwbXdIcnBnZzllUWU3MjU1a3pwZ0RPeG12OXo4TXdLcVZFNFNmUkJaQjhWcGdpZlpwMjBZUk9jd20zX1pSaW9oMVY4SXVHM1VuZVA0YUN4NGlkRDhEVDhhZEpiRE5nY1ppb3hGRFNEaHYyaGdxLXpfZVppMkctV2UyM25ueUZILWdGdE5qZHo2SVYzVnJhZjJpRFNlRnBQLWI1VXlpTGxlNWpzUmdaYVdvTkg3NUptVWtRWHZ4c3F6RlZZTTJ5dHF4RFZQbTNIaTYxNDRZcFBSLTkwQml2UHJOMXE40gGeAkFVX3lxTE1ZR0RVV1NkTjN2b0ZqT0QwX29zUllFNS1xaXp2TF9ONDN4VTJpMVJ3dFJNY3A4cU14ZUZSdFJTc1FsQ25QR2xWbkJmbFh3QWdsUFFWaGg0cEMyZW1Xd2thbnZZdkh5c2F1NmhxaExQZWRxbmJFM2t2SGY1YV9HaldpTjczc3h6SVBReUxLc21oN2pQUzNYTkFIX1FmQlp5bEhCTC1NWXNmbmFKNmx5cGM1aE5NZklzRU9aRFpWeHRGblZRQVdBU2hLWHRCOWdWUmtCT1k4RW9tYjlja1NuOFVTQlRjb3lLX1oxczRCRHZEcXJwbWR1aW9yNVVUbnQ2SWxidzZMMm1vamNLSFJMaElYTG92amt4cjRnNVZEdVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "728575096861",
-      "title": "Vacina contra herpes-zóster é associada a menor risco de demência em idosos - Folha de S.Paulo",
-      "published": "2026-09-24T13:00:00+00:00",
-      "summary": "Vacina contra herpes-zóster é associada a menor risco de demência em idosos&nbsp;&nbsp;Folha de S.PauloVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcXhnMjJ6U3FPZG5pSUhXZUpld0trN2MwYVJRZmR3SEpfM3dVQklMSjVZY1JYakR3TEJFMDdRS2FwZFNBcnBzc3lQQ2xVRlZnYlVwQzhoRmFhZUc2TFRYc1p0cVcxWS0tVWlDSnpZM3R6UkstdVppZmJKLUNIbTR1WlJtbl91VEtQd3VKTzl0OUxURHRzOGV0NUNtZXgyWnl2ZE1HbUR1a3JVdy0zYU5CWk1GVlBMOUVKSEJVZHRfdGdDOVFEaXR0c3NfZmRheENFcnc?oc=5"
         }
       ]
     },
@@ -270,25 +246,13 @@
       ]
     },
     {
-      "id": "0404512ffc5b",
-      "title": "Canetas emagrecedoras na gravidez: o que se sabe sobre riscos e quando interromper o uso - G1",
-      "published": "2026-09-24T08:00:00+00:00",
-      "summary": "Canetas emagrecedoras na gravidez: o que se sabe sobre riscos e quando interromper o uso&nbsp;&nbsp;G1Veja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMUtFaEFKVHpsNkJuRS1PQ3ZkTTZqNThmXzNGY3NZeV94TmUzVmFsN2d4eFVadFdWWk1UOTBwbUs5WG5zWUNFdHhtaGNDRHhFTW9zWUJIYnhSU1FyQkhQUG9qRS0tZWRxR1pnendDUlhCZTUzcnVHSVBDLTkwTkFjTjM5SWt4VEZzQV9KQzZ2NEtfSEJSMGdoMzZSVkdDcUJQaU5RMm0wVm5lNmxCZW51WjJjalpXUm5lVlhVWXNHSHJ2M1lsemtWS2tNdzRmRkN1ZmdHYzBB0gHkAUFVX3lxTE5LNVZpUUhVWWo0ZzViUlloejJQNjhvZjE4dldXaHFKYUxpVGpaN0VLZk5iWGYxeFdVUEgtTlRQMVdtaVVfLS1NSnh3RlpUbGI5RzZqc2RwcnR5bFRObDdXeDV3dldxVWpVcDBiVkx1aWdvbDNneXViaTNtcm96UGZZbTVkWmlRNi1IaDNxYXRuMDRoSEQ1V3BKd1EyTkFPSWJjeWI0T3pCOVJyTE1xc1lzQ2wwSVZ0cGNUQ0tyU0xZT2phVC1kM0ZYV1Rmd1dEWFZuSG1iOEZneDB6amROb0NNbjJ1MQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "16467a381e55",
-      "title": "Revendo os Dados: Vitamina D - Medscape",
+      "id": "f2cb14c985e2",
+      "title": "Revendo os Dados: Vitamina D - portugues.medscape.com",
       "published": "2026-09-24T01:42:41+00:00",
-      "summary": "Revendo os Dados: Vitamina D&nbsp;&nbsp;MedscapeA falta de vitamina D nem sempre é só falta de sol: o intestino também conta&nbsp;&nbsp;Tua SaúdeVitamina D: a chave da vitalidade para todo o organismo&nbsp;&nbsp;Correio BrazilienseVitamina D pode reduzir o risco de demência, aponta estudo&nbsp;&nbsp;Jornal O SulProtetor solar bloqueia realmente a vitamina D? O que dizem os médicos&nbsp;&nbsp;Estado de Minas",
+      "summary": "Revendo os Dados: Vitamina D&nbsp;&nbsp;portugues.medscape.comVitamina D: a chave da vitalidade para todo o organismo&nbsp;&nbsp;Correio BrazilienseVitamina D pode reduzir o risco de demência, aponta estudo&nbsp;&nbsp;Jornal O SulA falta de vitamina D nem sempre é só falta de sol: o intestino também conta&nbsp;&nbsp;Tua SaúdeProtetor solar bloqueia realmente a vitamina D? O que dizem os médicos&nbsp;&nbsp;Estado de Minas",
       "sources": [
         {
-          "name": "Medscape",
+          "name": "portugues.medscape.com",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdkdNX01ONHVRZ0JIdDZZQXhzT3l5Q3B6Zmt0cGdVMWJwZFVyLVR3NFpsVmhiQkFBdkpNX3ZnWWU4LUg5S3laTjZGZWNEbUVLMWJrLWl3cWZLVjRwaEdJSURLXzkyVGVIUVBmLWJwand3d1ZRbG9Pd1NrdElTdkJMVXRIRGFmZkU?oc=5"
         }
       ]
@@ -297,7 +261,7 @@
       "id": "cdfa3a9f9b7b",
       "title": "Silicose representa 85% dos casos de doenças pulmonares ligadas à poeira no ES - A Gazeta",
       "published": "2026-09-24T01:07:00+00:00",
-      "summary": "Silicose representa 85% dos casos de doenças pulmonares ligadas à poeira no ES&nbsp;&nbsp;A GazetaSaiba o que é silicose, doença provocada pelo pó das rochas&nbsp;&nbsp;G1Califórnia pretende proibir bancadas de pedra artificial e reduzir os casos de silicose&nbsp;&nbsp;IQAirSilicose responde por 85% das doenças pulmonares causadas por poeira no ES&nbsp;&nbsp;Folha do ES",
+      "summary": "Silicose representa 85% dos casos de doenças pulmonares ligadas à poeira no ES&nbsp;&nbsp;A Gazeta",
       "sources": [
         {
           "name": "A Gazeta",
@@ -306,49 +270,13 @@
       ]
     },
     {
-      "id": "6c1c59ecb51f",
-      "title": "Vírus mais contagioso do mundo atinge aeroporto internacional - iG Último Segundo",
-      "published": "2026-09-23T22:21:00+00:00",
-      "summary": "Vírus mais contagioso do mundo atinge aeroporto internacional&nbsp;&nbsp;iG Último Segundo",
-      "sources": [
-        {
-          "name": "iG Último Segundo",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORUVCbEpLNDBHbWFTVG9sZmppdXZncUFUbXlRODZXSjFJS25lSnZkR1JRcXgwNjMxT2h4VnhpVllwVkJEMC13MklaZFM4TUFZREgwM3ZTNWtRazg2dHA3SG0zWldZdGVWZWV3eF9VcnFUSmtyN2F0Tmk4X1VLTF9iWk1iLTU3WlJqQkJ5ekxhY0RQOGxmaWhLQmxGWl9YY3RfR2pxNHVadUlmTE44ODJFVDFXajI4X3PSAbwBQVVfeXFMUDY2amRESlFTRlhRUmVzdHVkeFVjOHpWN2pqc1RVVTlIcFdMNTkwVnFZanE3ZV9Kdzd3ZlRWWXphQUFwQkZTLUtBWmVkMFduTnhRVHlpYVJfRjV3SUVVdE5maGdpcW1FSm9lZnFkTm00cGNEZk5MaVlxTDJ1SGpXVm0yaEZJVDEwWHhJN1NZSU1tUzhyTE9nRkNieWlueW5oY0k5T0xydjhjSXVlTGEwOXZBY3ZwZm54OFFlbDA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "60136e032d78",
-      "title": "Nova espécie de rã-de-vidro é descoberta no Cerrado - Campo Grande News",
-      "published": "2026-09-23T21:46:00+00:00",
-      "summary": "Nova espécie de rã-de-vidro é descoberta no Cerrado&nbsp;&nbsp;Campo Grande News",
-      "sources": [
-        {
-          "name": "Campo Grande News",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcUU1UnJrSnZkRlhwTzRxWGltMFVtMUpjRGotOVZUajJvVndlZUVQeUlGaFUxMWk5cjUzUHctZnFvbjhwRERab0NoZjNvSWNBQV9yZnBwX2RFckdWNDlVUUM2UFZIbWFYSW9MQ0J1aTJLbFAwYUtPejFvczZLRU9kYmhlU3BOMkN0bkZPbmJ4TWpPUXp0RjAwTE5RQVh4bjBlbVBIbmlHZldscUMzWkw4UHg4WnF5bE3SAbcBQVVfeXFMTWRJSms3c3dGS29malAzTFEtcnl5UHRUMG12Wi1VYnZVNVRibVdrdjl4a2hpOVdUVTdFVldPVENhU3o4eTdFVFRsYTMwT2tjSHZkMXVCbnFaNVBxQi1FUktpV3hDazJyYjFUWm1vak8wZkpVRVA4VUFlR0M4VzQ3TF9aMVRxcllhODRIQm5TWjRoR0wwVElMLXRuaVA2NzhvWjBzR3BKYk42RkJ5RHpqRnFzeFktcUJV?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e2f3cf1455a6",
-      "title": "Sair do sedentarismo: dicas simples para criar uma rotina ativa - Terra",
-      "published": "2026-09-23T19:52:00+00:00",
-      "summary": "Sair do sedentarismo: dicas simples para criar uma rotina ativa&nbsp;&nbsp;TerraNem todo corpo suporta um treino intenso&nbsp;&nbsp;Imagem da Ilha6 dicas práticas para largar o sedentarismo&nbsp;&nbsp;Assine AbrilExercício intenso faz bem para todo mundo? Entenda os riscos e cuidados&nbsp;&nbsp;Assine Abril",
-      "sources": [
-        {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRVRWWXBlbFpoeTZMVVQyRW52UVVfVXhrM1VzTHFUdnZpbjFjWlJyaTllb1RyMnhqTUlsaUJhUDZzWmZDWm5UdzhqTEFtUW91UklNNkJ1VVlWV2ZJckFwWjlEdVRqMmtDU0Uwd0xWYVV6WjhMR1kwek5taDNHbFFFWkgwREkxcFRYTmluSDlLdjM2TFhsQ3hpSVd5YURvblFNUVpLNGpRZHNPMkd4dExWak00Y1NBcXhaRlJuamZDdXFXZWcxMklrNGNSSzR0dEdjdndqXzhvSEhUbXVyMVpodVMyTGhLNVpj?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f23e4bdeba15",
-      "title": "Infarto silencioso: 5 sinais que podem passar despercebidos - DOL",
+      "id": "d2dbf8d041f6",
+      "title": "Infarto silencioso: 5 sinais que podem passar despercebidos - dol.com.br",
       "published": "2026-09-23T18:48:41+00:00",
-      "summary": "Infarto silencioso: 5 sinais que podem passar despercebidos&nbsp;&nbsp;DOLReconhecer sintomas de infarto e AVC pode salvar vidas&nbsp;&nbsp;G1Dores no peito ou indigestão? Cardiologista alerta para sinais de infarto&nbsp;&nbsp;TerraDor no peito é sempre infarto? Veja como diferenciar os sinais de ansiedade e problemas cardíacos&nbsp;&nbsp;Jornal CorreioMulher infarta? Médicos explicam sintomas no sexo feminino ao Dr. Kalil&nbsp;&nbsp;CNN Brasil",
+      "summary": "Infarto silencioso: 5 sinais que podem passar despercebidos&nbsp;&nbsp;dol.com.brReconhecer sintomas de infarto e AVC pode salvar vidas&nbsp;&nbsp;G1Dores no peito ou indigestão? Cardiologista alerta para sinais de infarto&nbsp;&nbsp;TerraDor no peito é sempre infarto? Veja como diferenciar os sinais de ansiedade e problemas cardíacos&nbsp;&nbsp;Jornal CorreioMulher infarta? Médicos explicam sintomas no sexo feminino ao Dr. Kalil&nbsp;&nbsp;CNN Brasil",
       "sources": [
         {
-          "name": "DOL",
+          "name": "dol.com.br",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNk9XWEctNllNRnFLWUloZU8yTjVib214dUZLVHYtY3E0LUdfS2tVbVRrVW12QkUtNFNiSXd5a3FjRWw4T1lmSXRwM1M4UElpeWpfLS04SVJKNG91ek9PU2xGR2pyMURlTWxYVFZZM0Y3RE9paFFCUkxuU3llNWhROGRlRHlITUhEMlBUc2pTUEx4Vmpac2hWZ1NneE12d3hyTGMwdNIBrAFBVV95cUxOZEE3czdjOHloNTFFcnJJaTdRUVY4N0RUVGZBZEJsaHNxMEhTdEtyMmY5dWNMV1E3SHRpWThlS2hJZVUxaUR1X0EzVDhLLUwzbE4zY3l2Nl9ZN0hiVVBWY01rd1lHajZMQkFTMmV2S1lGOWxzY092bEtselBpWl9HWDFEYk1hRFJUd19qV3dWdm1obkM2R1hLaW9Heldna1o0OTBmTGVhQ29mdG9o?oc=5"
         }
       ]
@@ -369,7 +297,7 @@
       "id": "f2a6b345324c",
       "title": "Musculação faz células de gordura encolherem antes mesmo da perda de peso, mostra novo estudo - O GLOBO",
       "published": "2026-09-22T14:30:14+00:00",
-      "summary": "Musculação faz células de gordura encolherem antes mesmo da perda de peso, mostra novo estudo&nbsp;&nbsp;O GLOBOMusculação ativa mecanismos de queima de gordura em 7 dias, diz estudo&nbsp;&nbsp;Correio BrazilienseMusculação pode reduzir gordura mesmo que a balança mostre o mesmo peso&nbsp;&nbsp;diariodocentrodomundo.com.brSete dias de musculação já alteram a queima de gordura, aponta estudo&nbsp;&nbsp;Tribuna do PlanaltoMusculação pode reduzir gordura abdominal antes mesmo da perda de peso, apon",
+      "summary": "Musculação faz células de gordura encolherem antes mesmo da perda de peso, mostra novo estudo&nbsp;&nbsp;O GLOBOMusculação ativa mecanismos de queima de gordura em 7 dias, diz estudo&nbsp;&nbsp;Correio BrazilienseEstudo mostra que musculação encolhe células de gordura antes mesmo da perda de peso na balança&nbsp;&nbsp;Rede AtlântidaMusculação pode reduzir gordura mesmo que a balança mostre o mesmo peso&nbsp;&nbsp;Diário do Centro do MundoSete dias de musculação já alteram a queima de gordura, ap",
       "sources": [
         {
           "name": "O GLOBO",
@@ -378,22 +306,10 @@
       ]
     },
     {
-      "id": "50be5529e581",
-      "title": "8 conservantes alimentares comuns são associados à pressão alta, em estudo inédito; veja lista - O GLOBO",
-      "published": "2026-09-22T13:22:25+00:00",
-      "summary": "8 conservantes alimentares comuns são associados à pressão alta, em estudo inédito; veja lista&nbsp;&nbsp;O GLOBOCada 100g a mais de ultraprocessados por dia pode elevar em 4% risco de câncer&nbsp;&nbsp;veja.abril.com.brUltraprocessados: estudo aponta maior risco de doenças e morte precoce&nbsp;&nbsp;Correio BrazilienseAditivos em ultraprocessados podem estar ligados a maior risco cardíaco&nbsp;&nbsp;MetrópolesEstudo associa consumo de conservantes em excesso a maior risco de pressão alta&nbsp;&",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX1FfRVludlc2MERKalBpeXdTOVNlVFc1d1Jua2wxVTFyb2lYdlVBSS1aSC00OVpia3NuNUtnemRfcHo1bkJ1Uy1ObG83ZW1GYmo2RHFvSnVxaG1CT3NaR3VRMExsY1hkMDZiQzdFbWgtT0NIRjVtWWN3a240M2Z3UWg0NzBhZVVEcTVqczlEVXFYUFFMdVNVZjZQcFVoT3VXSTY3c1diN2pJUExIZVBqMXowMW1WaU5UYWNoN1ZnWGN4eERmQkl6eVlkcjVJRFhNWVQ40gHiAUFVX3lxTE9JUjM4RkhQRTFuQzA5UEs1MzhlenlXN3lkbXdldFVUSWlXckFrdjdOeVNBcFN1bWg1Tk1ITjk0QUFwTW0wLWczcVJYX3VuWnVTY2QxNG1SUUNwcEFzZjMtY291d0s0bFViTjN0ZUFFQTVxUkVNcXRxNFU2cld4VmQzdEdpTTNLQlNsODdqTHhIZ01vMVlFVkFyR1dRdFJjNzlxb1hHelNQNWtEMGZpNmc3V1FJRTNSdUFoTTF3dHE3SVBCODRib3R3b3dnc3Q0Z0Y0YTRJTTJvN21PQ3hucDgtakE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "907478283183",
       "title": "Câncer de pulmão exige cuidado além da prevenção - Estadão",
       "published": "2026-09-22T07:00:00+00:00",
-      "summary": "Câncer de pulmão exige cuidado além da prevenção&nbsp;&nbsp;EstadãoAvanços no tratamento do câncer de pulmão em 2026 - parte 2&nbsp;&nbsp;Estado de MinasFernando Maluf | Câncer de pulmão expõe diferenças entre SUS e rede privada&nbsp;&nbsp;Poder360Uma exposição invisível, um impacto real: o impacto do fumo passivo na incidência do cancro do pulmão&nbsp;&nbsp;News FarmaAvanços no tratamento do câncer de pulmão em 2026: inovações e perspectivas recentes&nbsp;&nbsp;Minas Informa",
+      "summary": "Câncer de pulmão exige cuidado além da prevenção&nbsp;&nbsp;EstadãoAvanços no tratamento do câncer de pulmão em 2026 - parte 2&nbsp;&nbsp;Estado de MinasFernando Maluf | Câncer de pulmão expõe diferenças entre SUS e rede privada&nbsp;&nbsp;Poder360Uma exposição invisível, um impacto real: o impacto do fumo passivo na incidência do cancro do pulmão&nbsp;&nbsp;newsfarma.ptAvanços no tratamento do câncer de pulmão em 2026: inovações e perspectivas recentes&nbsp;&nbsp;Minas Informa",
       "sources": [
         {
           "name": "Estadão",
@@ -414,38 +330,14 @@
       ]
     },
     {
-      "id": "31e4f7332a8b",
-      "title": "Menos peso, menos exercício: o dilema dos agonistas do GLP-1 - Medscape",
+      "id": "430dec67bfbb",
+      "title": "Menos peso, menos exercício: o dilema dos agonistas do GLP-1 - portugues.medscape.com",
       "published": "2026-09-21T12:22:23+00:00",
-      "summary": "Menos peso, menos exercício: o dilema dos agonistas do GLP-1&nbsp;&nbsp;MedscapePor que os remédios para obesidade não funcionam para todos&nbsp;&nbsp;CartaCapitalAgonistas do GLP-1: perda de peso levanta questões sobre massa muscular e estado nutricional&nbsp;&nbsp;Jornal Médico",
+      "summary": "Menos peso, menos exercício: o dilema dos agonistas do GLP-1&nbsp;&nbsp;portugues.medscape.comPor que os remédios para obesidade não funcionam para todos&nbsp;&nbsp;CartaCapital",
       "sources": [
         {
-          "name": "Medscape",
+          "name": "portugues.medscape.com",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQc1pjOUJ4VFNzbHdXSkg3Q1NsdzFsb0dNbW8tY09Yamo3Q1hKT2hBQkMxZzBMZk1xTmtFeEZpS3VFeEd0UDdlRjRnazAzOVMtekYyREI2S2hhZUFORkI3S003UmpHS1h1UHNZejBKT1VUWE5nTFBPMHAzM0FiUFNtZlRwSXJZcHdmMjhyT1lTbGZVZGNnNFdGck9yMnNQVDV3VEdXTVU2c1lCeVhkWW4xQzFDOXRDdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a2bd60231ffa",
-      "title": "Antibiótico antigo voltou a ser a eficaz contra uma superbactéria - Medscape",
-      "published": "2026-09-21T12:22:23+00:00",
-      "summary": "Antibiótico antigo voltou a ser a eficaz contra uma superbactéria&nbsp;&nbsp;Medscape",
-      "sources": [
-        {
-          "name": "Medscape",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRjM2OFFIbUpQdUt0LUJCcVVjRzE1TXkzZG1odUc4UzZqU1FrT091c3dSOHJTSllEd1dIbGc5dllfWndTVVN3LUlkYU5hMG8tSGxIYUYxSmstMkZqT29BMHdOMm10VjVFTWNoNG4xaHpWSUg5OXJnbW55OFd6YVRuME94YVprVEdhOVg2OVVYR01fb1luNE1uelNTWWp3aUVHUTg2UzRlOA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "52f637c77e14",
-      "title": "Por que a cafeína deixa algumas pessoas em alerta e outras não sentem nada? - BBC",
-      "published": "2026-09-19T18:59:46+00:00",
-      "summary": "Por que a cafeína deixa algumas pessoas em alerta e outras não sentem nada?&nbsp;&nbsp;BBC6 benefícios comprovados do café e quem deve ter cautela&nbsp;&nbsp;UOLCafé faz muito mais do que tirar o sono: bebida pode acelerar o intestino, alterar o colesterol e até interferir na absorção de ferro e em alguns medicamentos&nbsp;&nbsp;Diário do ComércioVeja sete efeitos estranhos do café no seu corpo, como alterar digestão, absorção de ferro e de remédios&nbsp;&nbsp;redeutv.com.brCafé e energético não",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tTDFpWm85eTgxcEpKNl9mbW1vMGpGLVg0UHo4bUZNdk9IZ3BmMnhnc2w2RHNZNi1oYlU3NlBMOGZsQ3RWeFp0OW1Pd2ExcnV5akhPU3FFYnZYN2g1LUxtMXo2UdIBaEFVX3lxTFBpUExmcklfMDlzQk44aUV2RkFfNDBnQ19CSTV6U181Um1qVlI0aG91b0tmcGdXZ3Y5WEN6enNlckltUEkyVjN4eFdFZW53bktsanlvRXg1bS1ud1p4UUFCaWhqTzVjM19Z?oc=5"
         }
       ]
     }
