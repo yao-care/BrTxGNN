@@ -30,7 +30,7 @@ Esta página combina as indicações previstas por IA para NICOTINA com as notí
 
 ## Notícias relacionadas (1)
 
-### [Movimento pró-nicotina transforma droga que causa dependência em produto de 'bem-estar' | G1](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUkJyWk5LSFk0V0FWMDhwOEx0c2I4MVFnVzJ2d1NTOU5CSENDWTJqSlIxenhraFZVd29vRVJNYTFjcXZHYmY3V2U5YS1CeTVqeWNaOTMtYnNEeWhUUFdyNjBOd053Q3BQNG1ObERtMFV2MnRYZ1Z4YkJ6bnR6RklZRzREckdZQnREaE1fVG5kMUMtTDcyeDE2MWNHeFRzQTZFRFp3YXVfOHBWMDZ0dGpmY04wNGNRRnJCRXNfaFFEek9oUDNiYjdlazJmVFFUcnVGcVhz?oc=5)
+### [Movimento pró-nicotina transforma droga que causa dependência em produto de ‘bem-estar’](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUkJyWk5LSFk0V0FWMDhwOEx0c2I4MVFnVzJ2d1NTOU5CSENDWTJqSlIxenhraFZVd29vRVJNYTFjcXZHYmY3V2U5YS1CeTVqeWNaOTMtYnNEeWhUUFdyNjBOd053Q3BQNG1ObERtMFV2MnRYZ1Z4YkJ6bnR6RklZRzREckdZQnREaE1fVG5kMUMtTDcyeDE2MWNHeFRzQTZFRFp3YXVfOHBWMDZ0dGpmY04wNGNRRnJCRXNfaFFEek9oUDNiYjdlazJmVFFUcnVGcVhz?oc=5)
 
 2026-09-25 <span class="news-drug-tag">NICOTINA</span>
 

@@ -1,9 +1,9 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-09-26T15:59:10.324764+00:00",
-  "total_fetched": 91,
-  "unique_count": 90,
-  "health_related_count": 24,
+  "fetched_at": "2026-09-26T20:45:49.854101+00:00",
+  "total_fetched": 89,
+  "unique_count": 89,
+  "health_related_count": 26,
   "news": [
     {
       "id": "934efef65a52",
@@ -18,10 +18,46 @@
       ]
     },
     {
+      "id": "2c6cfcae6416",
+      "title": "Pesquisa identifica bactéria capaz de reduzir em 67,8% nematoide na soja - CNN Brasil",
+      "published": "2026-09-26T08:00:04+00:00",
+      "summary": "Pesquisa identifica bactéria capaz de reduzir em 67,8% nematoide na soja&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVHl0M0JWdjFoUy1hSTA3U3ppVkQ2TXBrX2dzZl9wd0wtR0hlaDJJdkVXbjFHZmZmX0QwcTAycTR0WVdlNjhpeDNPMGgxWTI4QTVVdENIYjBqb2NObjZnT0lLLWNWTG9qaThQa3V3eUp1anZtdHJET0RMMm1ab185dUVSS2JXZzhyQTlhLW96VVJtTDFvbjFZMFJ3RFdZTGw4Qkp3eTFTaXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fb1829b8646b",
+      "title": "Osteoporose não causa dor: especialistas alertam para a importância da prevenção - extra.globo.com",
+      "published": "2026-09-26T07:30:00+00:00",
+      "summary": "Osteoporose não causa dor: especialistas alertam para a importância da prevenção&nbsp;&nbsp;extra.globo.comNem só beber leite, nem tomar sol: o que realmente importa para preservar a saúde dos ossos depois dos 50&nbsp;&nbsp;Portal UAISaúde dos ossos depende de mais do que cálcio; veja cinco nutrientes importantes&nbsp;&nbsp;Jornal da FronteiraPor que encolhemos com o tempo? Ortopedista explica e faz alerta sobre osteoporose&nbsp;&nbsp;Rádio ItatiaiaSGC TV: Osteoporose: a doença silenciosa que en",
+      "sources": [
+        {
+          "name": "extra.globo.com",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZW1JOHFYN0hrNW52NzQxWkRXQlJiLXZlNGJVVzFsenh6T19zX28zR2Jva3pkS1c1cDFJRmczNUJfMWVmdkxibWxrWGJFX21JMmdrLS1hUE43cDQ1dWZwQnJOdFQ1clpzNVREOXdadWcxdm1iZkhNWV95OW54T3JkUER5RktiX3VJTlZLSFFfeDZHUnB1V21zLXVoaXVUM0tqS1IxUUhTUEV6NUVoTU1uLUR4TUZXNnVJTWNFN2FDS0s1dFJXRi0yWC0wSkNwMnBiZG5mQTNKc0YxRlhs0gHrAUFVX3lxTE1Pc0RwSFBwQ2dFUDUwWDZtSUZFVi1kdXhzZC1pZmRwZmxYT1h1Mkx2WDE4em1mRURaZFd1RG52Q3d3MEJmV2lzaG5IV01BWWRxRHpCLVF3bVBuekJ4TURSU01taEdSekYtaW9ldjlpSG9aYmh1cy1lNzlIbm1sMFlYenpiTGpzRXJXUFNPc1hmSkJvZlNQQnFqUUtBNDhGMFFObDNJNFQzajMweDBDZmF6Mk9rSUsyMEs5NUI4T3ZkV3otTW11Z184cGV4Q2daMUpLR3ZYR3lia3JCLTlXWWt1dlJXeUhXbTl5cEU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cfbcc96b5e57",
+      "title": "Ghosting, ansiedade e autoestima: pesquisa revela como solteiros lidam com a paquera - O GLOBO",
+      "published": "2026-09-26T07:30:00+00:00",
+      "summary": "Ghosting, ansiedade e autoestima: pesquisa revela como solteiros lidam com a paquera&nbsp;&nbsp;O GLOBO",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbEpxQVRiT1pDb0QyZkNwWUJxbE1ySU1WUW42QXRaY29NZGIxTEdiLXpqc3RYd0JWam9YMV84M2VLOEdYdk9UVXd6VlA2Yl9veHprTmh6eFN5VmJOUjF3VWx3eHFlbkttaGJfVkREN0o2NWVGQWdPUkNsd2tGM3lzMjZ1MFoycFRjM1RuUFhPZkQ3REs5S2t0WU1tRUMyYkZYN09iYWVNWDdoYzdlZGxOQ0dvRXRENnBCRVVLZHdWaUh2ajdTM3QxQURQNjF0X3FCV0HSAeABQVVfeXFMUC15dmNnOVV2UGRfZVFRM2xyX2dUb2tPMDdaVl9yTXl1emZXdnZ4VnhoaGdzc19vM09GYkJmdnNkQndzdWFBU1FRN1JRSi1DQWNBekpjMTR3c2NKUkl2dTlSc28zYlB3alJqUjBjN1JmcDgtNGVScUQzeTJkc01NbUhoWWdDZGFnM2NEbnBmSDdzS2prUm4xaHBuNHpWQjBrY0dGQVhsbHdoeWMzYWhha0tMVWZSMXVXYzNobW5YSWtkYy1HRExQRXpKWTVRX3hfQk5WZ2JGRGw1UjluUDgyS1I?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a529f446b80b",
       "title": "Câncer de endométrio: estudo do INCA identifica marcador ligado ao risco de recorrência - G1",
       "published": "2026-09-26T07:00:00+00:00",
-      "summary": "Câncer de endométrio: estudo do INCA identifica marcador ligado ao risco de recorrência&nbsp;&nbsp;G1Estilo de vida saudável e vacinas podem erradicar câncer ginecológico&nbsp;&nbsp;senado.leg.brParaná deve registrar mais de 2 mil novos casos de câncer de útero e ovário em 2026&nbsp;&nbsp;Bem ParanáCâncer ginecológico: os sinais e cuidados para cada tipo&nbsp;&nbsp;Correio BraziliensePara além do diagnóstico, existe uma mulher&nbsp;&nbsp;A Gazeta",
+      "summary": "Câncer de endométrio: estudo do INCA identifica marcador ligado ao risco de recorrência&nbsp;&nbsp;G1Perspectivas para o tratamento do câncer de endométrio no Brasil&nbsp;&nbsp;Folha de S.PauloEspecialista tira dúvidas sobre cânceres ginecológicos no jornal da EPTV&nbsp;&nbsp;G1Estilo de vida saudável e vacinas podem erradicar câncer ginecológico&nbsp;&nbsp;Senado FederalParaná deve registrar mais de 2 mil novos casos de câncer de útero e ovário em 2026&nbsp;&nbsp;Bem Paraná",
       "sources": [
         {
           "name": "G1",
@@ -30,14 +66,14 @@
       ]
     },
     {
-      "id": "dc3bfa15f7e7",
-      "title": "Plutão ainda não completou uma volta ao redor do Sol desde sua descoberta e só fará isso em 2178 após uma jornada orbital de 248 anos - Super Rádio Tupi",
-      "published": "2026-09-26T05:20:02+00:00",
-      "summary": "Plutão ainda não completou uma volta ao redor do Sol desde sua descoberta e só fará isso em 2178 após uma jornada orbital de 248 anos&nbsp;&nbsp;Super Rádio Tupi",
+      "id": "bc476eb8801b",
+      "title": "Promotoria recomenda intervenção na Feira da Madrugada por dívida de R$ 164 milhões - Folha de S.Paulo",
+      "published": "2026-09-25T23:15:00+00:00",
+      "summary": "Promotoria recomenda intervenção na Feira da Madrugada por dívida de R$ 164 milhões&nbsp;&nbsp;Folha de S.Paulo",
       "sources": [
         {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZEY1Q2tlLUNGXzV4Q1FpcEtuNmZjdG4xMnp6TlAzT0Q5eVZoME5NNFhTMHAydDZwVkMxSlk2Q3UtZy1uMzdfWjVKR2c0ZFR0WHI5Qk1RQ2YzMEVDWFRmaWpEQ29kWU1SaXd6OUFqV09rMUQxbVlGSGVSNXQyejJINnNhNk5sdVFJUURRcWJsVVl3LXRvVDFrdENjR3ZGWmJ3azVuLVFYWVA3U1B2emJpZFE1WHc0c3g0ZUFiekZ0NWMwQ01oSjZlRzBwM0dSaDlnQ0pDeUFGYnByZVFiejVja1R4SVJCaW5lSlRqRmJVZ0lVdw?oc=5"
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMDFuTzBScEoxeUVXWm5PTE1lWFA1TXZ5YTRDMkpyd080ZER3RkVwTU1oY0w0eUtNYVVWd21NOTRYLW5QWThYRU5aUmZzcTNJTWhCRGNXeHVrMFQ0UmNYS21LOHQzYzVHVWZCYTNTYkVxN1YxS3JYX1JLeDdLTVpVX2dTbFFvTDhvTGN4dWtCdEVoYVZhMWk1TmowbXU2RXI1aFc1dkhlT2FpaTVTdnRqc0JGQkk5YUtqMzNHUHRPQkpfQ1hDdFVibDlwR0s5RHFaZ1E?oc=5"
         }
       ]
     },
@@ -102,10 +138,22 @@
       ]
     },
     {
+      "id": "a542b4f1f8ff",
+      "title": "Estudo brasileiro mostra como ondas gravitacionais podem desvendar a expansão do Universo - www.gov.br",
+      "published": "2026-09-25T11:37:00+00:00",
+      "summary": "Estudo brasileiro mostra como ondas gravitacionais podem desvendar a expansão do Universo&nbsp;&nbsp;www.gov.br",
+      "sources": [
+        {
+          "name": "www.gov.br",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYlgwZnJvRzZXNUJQZVRIUEcwc0RFZzlzWmZJY1JERzBlWFNPamhKZFJRMHIxczYyVzdhYWhDaUdVTEFpUVZSa3Rac1BHTExPNUhvSE01MS12dUlJTkp5Uloxdk9yTk9mdmV6R2oxMlViNjBVR0FjeFJQS052dEx2MDJsN3JNNVRNODdldkljenU0c3pHVjctMk1RNk1lVWdUUGxRYW9uUnBndFhfZ3lMeFFFOU1Nblp5Tlhmam5YeERDMFdnQ2JXT0MzSUdwM1JrOU1VQVcxek8tZFo0ekE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "2d651aaff444",
       "title": "Casca de jabuticaba reduz glicose e inflamações; veja como fazer o chá - UOL",
       "published": "2026-09-25T08:30:00+00:00",
-      "summary": "Casca de jabuticaba reduz glicose e inflamações; veja como fazer o chá&nbsp;&nbsp;UOLJabuticaba: benefícios, safra, como higienizar e receitas | Paladar&nbsp;&nbsp;EstadãoEsqueça a uva: essa fruta de casca escura e polpa clara adocicada lembra uma bala natural cheia de antioxidantes&nbsp;&nbsp;Tua SaúdeÉpoca da jabuticaba já começou; conheça os benefícios e onde comprar na Capital&nbsp;&nbsp;enfoquems.com.brEstudo revela que casca de jabuticaba reduz glicose e inflamações; veja receita&nbsp;&nbs",
+      "summary": "Casca de jabuticaba reduz glicose e inflamações; veja como fazer o chá&nbsp;&nbsp;UOLJabuticaba: benefícios, safra, como higienizar e receitas | Paladar&nbsp;&nbsp;EstadãoEsqueça a uva: essa fruta de casca escura e polpa clara adocicada lembra uma bala natural cheia de antioxidantes&nbsp;&nbsp;Tua SaúdeEstudo revela que casca de jabuticaba reduz glicose e inflamações; veja receita&nbsp;&nbsp;TVBV ONLINEJabuticaba: o que a casca escura dessa fruta tão comum pode oferecer para o seu coração&nbsp;&",
       "sources": [
         {
           "name": "UOL",
@@ -114,26 +162,26 @@
       ]
     },
     {
-      "id": "0f147cde8abc",
-      "title": "Endometriose: A história da doença ignorada desde a Antiguidade - G1",
-      "published": "2026-09-25T08:00:01+00:00",
-      "summary": "Endometriose: A história da doença ignorada desde a Antiguidade&nbsp;&nbsp;G1Cólica forte é normal? Saiba quando a dor merece investigação&nbsp;&nbsp;G1Dor na lombar, quadril e pernas pode ser endometriose; veja por que a doença passa despercebida&nbsp;&nbsp;Jornal CorreioGrupo Santa Helena amplia ações para diagnóstico e tratamento da endometriose em Sergipe&nbsp;&nbsp;Click SergipeEndometriose: novo consenso reforça importância de ouvir e validar a dor das doentes&nbsp;&nbsp;News Farma",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVFJ0eEVPU21GZ0ZpNmEwdk1oVUJtdkdpekFQSWh0VDlNQ2FDVTItTlRRX2VYVUVIYlgwMHBoVFVwN0luMzBNMGVpUjJpTWVQOUN4NmpvOFc1ck1HNkhKRk14YVNYb2g0ekRUWC1sRS0xbG5wQmRUNTktSDFJX19uenJob04zQTdzVV9ZQzZXWl9DTUVRcU5fdDNlaWtyY1FJaHo2VlByVHJZSkw5UllSVFppS0NxSEdSazZ3eTZwT1ZrSVEyZW43X0hVR2lXcWY2?oc=5"
-        }
-      ]
-    },
-    {
       "id": "aa6013d0db82",
       "title": "Pesquisadores usam 'botão de volume' para tratar doenças ligando ou desligando trechos de DNA - G1",
       "published": "2026-09-25T07:00:00+00:00",
-      "summary": "Pesquisadores usam 'botão de volume' para tratar doenças ligando ou desligando trechos de DNA&nbsp;&nbsp;G1Pesquisador gaúcho participa de estudo que pode revolucionar tratamento de doenças raras&nbsp;&nbsp;gauchazh.clicrbs.com.brCirurgia no DNA: a edição genômica deixou de ser ficção&nbsp;&nbsp;MedscapeCurando o código do corpo: terapia de RNA surpreende e melhora primeiro caso de ELA&nbsp;&nbsp;bra1.com.brPaciente com tipo raro de esclerose mantém movimentos e segue trabalhando um ano após tra",
+      "summary": "Pesquisadores usam 'botão de volume' para tratar doenças ligando ou desligando trechos de DNA&nbsp;&nbsp;G1Pesquisador gaúcho participa de estudo que pode revolucionar tratamento de doenças raras&nbsp;&nbsp;GZHCirurgia no DNA: a edição genômica deixou de ser ficção&nbsp;&nbsp;MedscapeCurando o código do corpo: terapia de RNA surpreende e melhora primeiro caso de ELA&nbsp;&nbsp;bra1.com.brPaciente com tipo raro de esclerose mantém movimentos e segue trabalhando um ano após tratamento com medicame",
       "sources": [
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPODNYeXdsUTJyZndKSFVoeDJ5RDBzYXRiVGdJSzJpek9mbU5jSEdZdklLaGF2dkdDNWNvNUlEQU5zUmlocThZcW1VcXdBQ3dabTMySC16RWYwRDUyOG1CZWliTTJHQmJsVXVOckFYMG05Qnd4dHdhdGo4MWdZSm1SOVdmMkJaV3ZxeXppMXA4am5CaU5sU0RmRmw4MVZjLXh1aC1RZ2l0b1dSRVF0UEJyRVFwWlhvZ3F6OTJ5VlBYNkdBd0k0QUxGMC0wQjAtN3FtLVNVQm4xXzA3OGJHaHhNbVZn0gHwAUFVX3lxTE11TWdOaUtKZ3RlLWtRNHRZX19zRTlpdUZPczRQTU9Kdld4dDh1N1ZreW1vbnJuOWh5LUZlV1hyVDhvS0E1bVg4Tmltd0V1ZFZpX1VGZXdGS3NPelVKSE96RkVEVldXbVJUT0xMYVpNLWNxeFJ3TzNJeURJUmxMSkpRY1g0c3gwcnZLaFBYRTlNaVIzc2gyenJfVXU1ZUg5UjhQVHh0SjIxdVNjamFUZDlUMzdzNjRNS2x1TndyWkw4TUQ4bVZ2TjZDQ2FfRXowNzl2TU1ONWl2RUdsYjAxSm9OZVNTa2RXVjV4WFRZbXZTZA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3433ba4e9fc1",
+      "title": "Canetas emagrecedoras mudam consumo e abrem novo mercado para o agro - CNN Brasil",
+      "published": "2026-09-25T06:42:02+00:00",
+      "summary": "Canetas emagrecedoras mudam consumo e abrem novo mercado para o agro&nbsp;&nbsp;CNN BrasilSente que é a única a não usar as canetinhas para emagrecer? Conheça quem escolheu ficar sem elas&nbsp;&nbsp;O GLOBOVivemos a 2ª ‘epidemia de queda de cabelo’, avaliam dermatologistas; descubra o motivo&nbsp;&nbsp;EstadãoO avanço das canetas emagrecedoras e os riscos do uso banalizado&nbsp;&nbsp;Revista OestePor Que Não Adianta Usar Canetas para Emagrecer sem Mudar o Estilo de Vida&nbsp;&nbsp;Forbes Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObmNObGs4Z2pqVUdZNlFJRW9GS2ttTnBuVGxHS2owWFhIc1J6UjVaUGdlNlFfN0tFZWpOaTZRVEdDeHpOMEFicHBIOUtXYW9uLVNYR2E5N3BzM04xMzY0RlBnQlBmU3JxbjNuVFlqY1lrTmJIcXpYYnVzTDVtanFyTXdNcjJzZ3d1MHZWclFCdkZjRmlZNVBRcXlqWlAxZ250M01HU0Nn?oc=5"
         }
       ]
     },
@@ -150,13 +198,13 @@
       ]
     },
     {
-      "id": "7f8b6a76c701",
-      "title": "Por que Virginia recebeu 31 aplicações de botox na cabeça? Neurologista explica tratamento para enxaqueca - Gshow",
+      "id": "886c4f1c91a5",
+      "title": "Por que Virginia recebeu 31 aplicações de botox na cabeça? Neurologista explica tratamento para enxaqueca - gshow.globo.com",
       "published": "2026-09-25T03:00:01+00:00",
-      "summary": "Por que Virginia recebeu 31 aplicações de botox na cabeça? Neurologista explica tratamento para enxaqueca&nbsp;&nbsp;Gshow",
+      "summary": "Por que Virginia recebeu 31 aplicações de botox na cabeça? Neurologista explica tratamento para enxaqueca&nbsp;&nbsp;gshow.globo.com",
       "sources": [
         {
-          "name": "Gshow",
+          "name": "gshow.globo.com",
           "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPc3ZsVHN4Ny1QRkxzWm92QklSYzBMa1JJRmJ2ZHBNZldYRmVHTmpmZXNMYmlpNXRYU0NuMjA0X2IzLVFmVlYtR0VLZU9PR3l3ZUJ3X2xGOVVyVzlJMGcyTFBndHhHWnNxNktsUXNJQi1PeTd0a0xkTUdKRzVrWHNaT2VNTkpwMVktb0hWOE9DRHNEY3VwbjFxaXdIakRtd2l3dnZCTzZJcGhZQjJjOUVSVS1ESjhWUlVLVUFBVDlJaWdMeVloY3lMV0NodU9GTEdnX01WVGJNNWp2NWZYNFhqanFfeUh6eWhGeWZsNVZEM2pRaHhs0gGDAkFVX3lxTFBydjNJMldLQk5BTS1pbWdyalpGRW1USjdQdmlaa0RpZk1GWUIwakk5SGp3WkRFbFhKUlhxN1lEZllqSmxITWVaSlUzanh1YWg4cnVHaWM0N1VNVlp2VDRHd1owbFZQanV3c0pFMnpoczFESHluNE13V0lzRWhoVTl6YjdoZU9JZjEyMVpWVVdSZWhMRVhaSENMUGRSeFM0NnB5ZXpHYl95YTYtQnZHU3lienc1eWZ2WDNLY0lLVW54TTMwMHBBZWJRbWdKR0huZUYyS1ZmTDJXaVBCTncwODN6dks5SUJ0SUVfbU5uLWVjc2FGeTNxdDU4MnBaRktmekxwV3M?oc=5"
         }
       ]
@@ -210,14 +258,14 @@
       ]
     },
     {
-      "id": "eb80ac071185",
-      "title": "Você tem alergia ao próprio pet? Especialistas do interior de SP reforçam cuidados para aliviar sintomas - G1",
-      "published": "2026-09-24T13:32:09+00:00",
-      "summary": "Você tem alergia ao próprio pet? Especialistas do interior de SP reforçam cuidados para aliviar sintomas&nbsp;&nbsp;G1",
+      "id": "20958c9455fc",
+      "title": "Experimento de saúde pública vai soltar 90 mil mosquitos machos para reduzir população a longo prazo - CNN Brasil",
+      "published": "2026-09-24T16:36:08+00:00",
+      "summary": "Experimento de saúde pública vai soltar 90 mil mosquitos machos para reduzir população a longo prazo&nbsp;&nbsp;CNN BrasilLisboa vai ser invadida por mais de 30 mil mosquitos — pela nossa saúde&nbsp;&nbsp;nit.ptADN exige explicações sobre 90 mil mosquitos libertados em Alvalade&nbsp;&nbsp;SAPOLargada de 90 mil mosquitos-tigre-asiáticos em Lisboa pelo INSA terá sido feita à margem da lei&nbsp;&nbsp;Página UMProjeto experimental liberta 30 mil mosquitos em Lisboa para travar reprodução da espécie&",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPck41MXFpU2hoQjVrZUh0Y09kMS1ab2VyZ2VSQ3BfLWJ0dTVKTGZsTWRKeTJwbXdIcnBnZzllUWU3MjU1a3pwZ0RPeG12OXo4TXdLcVZFNFNmUkJaQjhWcGdpZlpwMjBZUk9jd20zX1pSaW9oMVY4SXVHM1VuZVA0YUN4NGlkRDhEVDhhZEpiRE5nY1ppb3hGRFNEaHYyaGdxLXpfZVppMkctV2UyM25ueUZILWdGdE5qZHo2SVYzVnJhZjJpRFNlRnBQLWI1VXlpTGxlNWpzUmdaYVdvTkg3NUptVWtRWHZ4c3F6RlZZTTJ5dHF4RFZQbTNIaTYxNDRZcFBSLTkwQml2UHJOMXE40gGeAkFVX3lxTE1ZR0RVV1NkTjN2b0ZqT0QwX29zUllFNS1xaXp2TF9ONDN4VTJpMVJ3dFJNY3A4cU14ZUZSdFJTc1FsQ25QR2xWbkJmbFh3QWdsUFFWaGg0cEMyZW1Xd2thbnZZdkh5c2F1NmhxaExQZWRxbmJFM2t2SGY1YV9HaldpTjczc3h6SVBReUxLc21oN2pQUzNYTkFIX1FmQlp5bEhCTC1NWXNmbmFKNmx5cGM1aE5NZklzRU9aRFpWeHRGblZRQVdBU2hLWHRCOWdWUmtCT1k4RW9tYjlja1NuOFVTQlRjb3lLX1oxczRCRHZEcXJwbWR1aW9yNVVUbnQ2SWxidzZMMm1vamNLSFJMaElYTG92amt4cjRnNVZEdVE?oc=5"
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOLXVVbmRuTk9XR2ZURk1xczd6OHR1VGhXSWFNNlhkUjE4bnNLMzRCeEFkSTJYejBxa2RMaEhPUWZrSzZNcVB2UHM5WHdyWWJMU2otZDVlNy1ta09Yak5LTGZZcHRCMFRrc0lxNXVIa3JvcldWTmk3cFVyQXhNZXFDYUdkWnF5MVFNR0d4aFoybU40aHF2V1p3SXRTYnZTNU9ndHlERldiam9Sc1pxRzFnZWwyZ01oQnphOWF2M09US25fbEg2bENIMWNHcHZmcW9qNUx1ODdWek1TXzA?oc=5"
         }
       ]
     },
@@ -225,7 +273,7 @@
       "id": "16467a381e55",
       "title": "Revendo os Dados: Vitamina D - Medscape",
       "published": "2026-09-24T01:42:41+00:00",
-      "summary": "Revendo os Dados: Vitamina D&nbsp;&nbsp;MedscapeVitamina D: a chave da vitalidade para todo o organismo&nbsp;&nbsp;Correio BrazilienseVitamina D pode reduzir o risco de demência, aponta estudo&nbsp;&nbsp;Jornal O SulA falta de vitamina D nem sempre é só falta de sol: o intestino também conta&nbsp;&nbsp;Tua SaúdeProtetor solar bloqueia realmente a vitamina D? O que dizem os médicos&nbsp;&nbsp;Estado de Minas",
+      "summary": "Revendo os Dados: Vitamina D&nbsp;&nbsp;MedscapeVitamina D: a chave da vitalidade para todo o organismo&nbsp;&nbsp;Correio BrazilienseVitamina D pode reduzir o risco de demência, aponta estudo&nbsp;&nbsp;Jornal O SulVitamina D: novas diretrizes mostram quem realmente precisa suplementar&nbsp;&nbsp;Tua SaúdeProtetor solar bloqueia realmente a vitamina D? O que dizem os médicos&nbsp;&nbsp;Estado de Minas",
       "sources": [
         {
           "name": "Medscape",
@@ -234,25 +282,13 @@
       ]
     },
     {
-      "id": "cdfa3a9f9b7b",
-      "title": "Silicose representa 85% dos casos de doenças pulmonares ligadas à poeira no ES - A Gazeta",
-      "published": "2026-09-24T01:07:00+00:00",
-      "summary": "Silicose representa 85% dos casos de doenças pulmonares ligadas à poeira no ES&nbsp;&nbsp;A Gazeta",
-      "sources": [
-        {
-          "name": "A Gazeta",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPd1diUVhJX2tab2RSaDJkLWF4aC05YXViTGhwZmxLVkRuRWZva05rYlgwbW5oSmNrMTFnZTc5aVNfbmN3STNhUWFXLV9zRHdkV0p2Y25odkFJNFdWMHdvd3c5WnhEMHVqTU1qVFZvMGw3eWZ3Yk4zME1lY3BWVGtybVFfZ1FYaW40Ym9CcHJXRF9UcDA4Y1N6aFphaTFlcDV0MGFHYnAyQ1g5a1E4N1NyREFUOFNwdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f23e4bdeba15",
-      "title": "Infarto silencioso: 5 sinais que podem passar despercebidos - DOL",
+      "id": "d2dbf8d041f6",
+      "title": "Infarto silencioso: 5 sinais que podem passar despercebidos - dol.com.br",
       "published": "2026-09-23T18:48:41+00:00",
-      "summary": "Infarto silencioso: 5 sinais que podem passar despercebidos&nbsp;&nbsp;DOLO coração não espera; saiba reconhecer os riscos e sinais das doenças cardiovasculares&nbsp;&nbsp;EstadãoAção de saúde em Botucatu oferece eletrocardiograma gratuito na Praça do Bosque&nbsp;&nbsp;G1Campanha do Dia Mundial do Coração oferece exames gratuitos na Rodoviária de Ribeirão Preto&nbsp;&nbsp;Jornal da USPDia Mundial do Coração: 7 sintomas que pedem avaliação médica rápida&nbsp;&nbsp;JC",
+      "summary": "Infarto silencioso: 5 sinais que podem passar despercebidos&nbsp;&nbsp;dol.com.brO coração não espera; saiba reconhecer os riscos e sinais das doenças cardiovasculares&nbsp;&nbsp;EstadãoAção de saúde em Botucatu oferece eletrocardiograma gratuito na Praça do Bosque&nbsp;&nbsp;G1Campanha do Dia Mundial do Coração oferece exames gratuitos na Rodoviária de Ribeirão Preto&nbsp;&nbsp;Jornal da USPDia Mundial do Coração: 7 sintomas que pedem avaliação médica rápida&nbsp;&nbsp;JC",
       "sources": [
         {
-          "name": "DOL",
+          "name": "dol.com.br",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNk9XWEctNllNRnFLWUloZU8yTjVib214dUZLVHYtY3E0LUdfS2tVbVRrVW12QkUtNFNiSXd5a3FjRWw4T1lmSXRwM1M4UElpeWpfLS04SVJKNG91ek9PU2xGR2pyMURlTWxYVFZZM0Y3RE9paFFCUkxuU3llNWhROGRlRHlITUhEMlBUc2pTUEx4Vmpac2hWZ1NneE12d3hyTGMwdNIBrAFBVV95cUxOZEE3czdjOHloNTFFcnJJaTdRUVY4N0RUVGZBZEJsaHNxMEhTdEtyMmY5dWNMV1E3SHRpWThlS2hJZVUxaUR1X0EzVDhLLUwzbE4zY3l2Nl9ZN0hiVVBWY01rd1lHajZMQkFTMmV2S1lGOWxzY092bEtselBpWl9HWDFEYk1hRFJUd19qV3dWdm1obkM2R1hLaW9Heldna1o0OTBmTGVhQ29mdG9o?oc=5"
         }
       ]
@@ -261,23 +297,11 @@
       "id": "907478283183",
       "title": "Câncer de pulmão exige cuidado além da prevenção - Estadão",
       "published": "2026-09-22T07:00:00+00:00",
-      "summary": "Câncer de pulmão exige cuidado além da prevenção&nbsp;&nbsp;EstadãoOs novos alvos e possibilidades no tratamento do câncer de pulmão&nbsp;&nbsp;Poder360Avanços no tratamento do câncer de pulmão em 2026 - parte 2&nbsp;&nbsp;Estado de MinasAvanços no tratamento do câncer de pulmão em 2026: inovações e perspectivas recentes&nbsp;&nbsp;minasinforma.comAgência de Comunicação - Da suspeita ao tratamento do câncer de pulmão&nbsp;&nbsp;bluestudio.estadao.com.br",
+      "summary": "Câncer de pulmão exige cuidado além da prevenção&nbsp;&nbsp;EstadãoOs novos alvos e possibilidades no tratamento do câncer de pulmão&nbsp;&nbsp;Poder360Avanços no tratamento do câncer de pulmão em 2026 - parte 2&nbsp;&nbsp;Estado de MinasAvanços no tratamento do câncer de pulmão em 2026: inovações e perspectivas recentes&nbsp;&nbsp;Minas InformaAgência de Comunicação - Da suspeita ao tratamento do câncer de pulmão&nbsp;&nbsp;Estadão Blue Studio",
       "sources": [
         {
           "name": "Estadão",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMjN1NFEydDVJZm5rNWY1anVaUHhZdENKMUNra0VtMzVNMFJiempFYXozN3FFaE4zNHNCeVZEbXg0T1FFWmVkX2l3Sk91dm43TnhSQ1ZRNzlzUlhZb3VqajQ2dkVrSmlCd1NGdkk4a05wUjB5Q0w5VG94cGxtUmtERDZkY3Z6OGVRczFBbGhyVWVuQVHSAZgBQVVfeXFMT3VjR0QzdkRzQkRhWmNQZVpZSllWSlEyLU5QRUltcTlMQ0Njb0pjQzFsQ0xsRVp3T2ZUX3NXM1NMRXBzNERlY1dzV0NhUE05TkFGZUc3OTVwYllNcXlJTEJaWHd2U2ZaU2djeUZJcHZmSkFkN3FhaGFvX3JXMWxqYXpNNEIwYmZZaWZPUmRUN1lVMUh1MXNSRmg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "df3e7c133bfe",
-      "title": "Um avanço na detecção do câncer de intestino - drauziovarella.uol.com.br",
-      "published": "2026-09-21T18:05:49+00:00",
-      "summary": "Um avanço na detecção do câncer de intestino&nbsp;&nbsp;drauziovarella.uol.com.brCâncer colorretal expõe distância entre alerta e ação&nbsp;&nbsp;EstadãoPor que o câncer de intestino está aumentando entre os jovens?&nbsp;&nbsp;O GLOBOSetembro Verde - Os sinais do intestino que não podem esperar&nbsp;&nbsp;RdnewsAvanço na detecção do câncer de intestino na população brasileira&nbsp;&nbsp;gauchazh.clicrbs.com.br",
-      "sources": [
-        {
-          "name": "drauziovarella.uol.com.br",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRGlBeEtWS0ZIZWdvR0dRbFl1YWZWUF9YTW0yNnc1Z3lneXNodEUya0hiZnJqT3ZDekgxUnRQdjl5R203SEhMMlJBN0RYcDlQUFNtUDdXNjJwTzFadnhRSHJrY1RiMkVHVkR0SHo1WDYzX1MzSGtzWUt2dU5iM2ZrZVFXN2gteWlDT3VyYnpMaw?oc=5"
         }
       ]
     },
