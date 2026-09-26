@@ -1,15 +1,27 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-09-26T10:59:15.503892+00:00",
-  "total_fetched": 93,
-  "unique_count": 91,
-  "health_related_count": 26,
+  "fetched_at": "2026-09-26T15:59:10.324764+00:00",
+  "total_fetched": 91,
+  "unique_count": 90,
+  "health_related_count": 24,
   "news": [
+    {
+      "id": "934efef65a52",
+      "title": "Professor de ciências precisa de formação constante, diz pesquisadora - Agência Brasil",
+      "published": "2026-09-26T12:37:00+00:00",
+      "summary": "Professor de ciências precisa de formação constante, diz pesquisadora&nbsp;&nbsp;Agência Brasil",
+      "sources": [
+        {
+          "name": "Agência Brasil",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaFd2TTJCR24xU1l0YU1qV0tGQ0VzRk90eTZpYXdZelp5bi1JYm56UE9FVlZ1SnJwMjllYzVzNFkxQkgwczNZN3FjTjU2TnViWU1CNUNuVk1aSFZtNFRfNXY1OTN3OTctM1RSSGFBNm9sVGJibjhvU2h5cTE3MzFBOWJiLWdyb3E4R25oWktRVkJYWW9uaFhGZUVLUnphajB2WVZCRUNrWXdmbThXWFNiN0ZfWV95aTcteFRNVlNidDBOdm9K?oc=5"
+        }
+      ]
+    },
     {
       "id": "a529f446b80b",
       "title": "Câncer de endométrio: estudo do INCA identifica marcador ligado ao risco de recorrência - G1",
       "published": "2026-09-26T07:00:00+00:00",
-      "summary": "Câncer de endométrio: estudo do INCA identifica marcador ligado ao risco de recorrência&nbsp;&nbsp;G1Estilo de vida saudável e vacinas podem erradicar câncer ginecológico&nbsp;&nbsp;Senado FederalParaná deve registrar mais de 2 mil novos casos de câncer de útero e ovário em 2026&nbsp;&nbsp;Bem ParanáCâncer ginecológico: os sinais e cuidados para cada tipo&nbsp;&nbsp;Correio BrazilienseCoceira e sangramento podem ser sinais de câncer de vulva e vagina&nbsp;&nbsp;Rdnews",
+      "summary": "Câncer de endométrio: estudo do INCA identifica marcador ligado ao risco de recorrência&nbsp;&nbsp;G1Estilo de vida saudável e vacinas podem erradicar câncer ginecológico&nbsp;&nbsp;senado.leg.brParaná deve registrar mais de 2 mil novos casos de câncer de útero e ovário em 2026&nbsp;&nbsp;Bem ParanáCâncer ginecológico: os sinais e cuidados para cada tipo&nbsp;&nbsp;Correio BraziliensePara além do diagnóstico, existe uma mulher&nbsp;&nbsp;A Gazeta",
       "sources": [
         {
           "name": "G1",
@@ -54,13 +66,13 @@
       ]
     },
     {
-      "id": "96b1ff7cd17b",
-      "title": "Terapia hormonal na menopausa: dose e via de administração determinam risco de trombose - portugues.medscape.com",
+      "id": "1f1c3e2ff3f0",
+      "title": "Terapia hormonal na menopausa: dose e via de administração determinam risco de trombose - Medscape",
       "published": "2026-09-25T16:24:46+00:00",
-      "summary": "Terapia hormonal na menopausa: dose e via de administração determinam risco de trombose&nbsp;&nbsp;portugues.medscape.comMenopausa: terapia hormonal é segura? Entenda os riscos&nbsp;&nbsp;TerraTerapia hormonal na menopausa é perigosa? Especialista explica&nbsp;&nbsp;iG DelasJá teve trombose e pensa em fazer reposição hormonal? Esse histórico muda a conversa com o médico&nbsp;&nbsp;Tua SaúdeSuplementos para Menopausa: Guia de Segurança para Fogachos&nbsp;&nbsp;Kantesti AI Blood Test Analyzer",
+      "summary": "Terapia hormonal na menopausa: dose e via de administração determinam risco de trombose&nbsp;&nbsp;MedscapeMenopausa: terapia hormonal é segura? Entenda os riscos&nbsp;&nbsp;TerraTerapia hormonal na menopausa é perigosa? Especialista explica&nbsp;&nbsp;iG DelasJá teve trombose e pensa em fazer reposição hormonal? Esse histórico muda a conversa com o médico&nbsp;&nbsp;Tua SaúdeSuplementos para Menopausa: Guia de Segurança para Fogachos&nbsp;&nbsp;Kantesti AI Blood Test Analyzer",
       "sources": [
         {
-          "name": "portugues.medscape.com",
+          "name": "Medscape",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTXlZRkVRRkczaDYxekVGT01VMVZVSnAtLTRwMldQYWkwUGd4TjlMV045eks1YnpzNTh0WkxOQkZUOE5zcGdxQUM4T21sZkVtakhJV2hTODlmYjRiMmpRb0xCU19uaHg2T05OUHB4dDduZ1Jtamo4V3ZhYUZRN25qQ1A3b2FhNUhydkIwWFoybWgycTU4QzNPVg?oc=5"
         }
       ]
@@ -93,7 +105,7 @@
       "id": "2d651aaff444",
       "title": "Casca de jabuticaba reduz glicose e inflamações; veja como fazer o chá - UOL",
       "published": "2026-09-25T08:30:00+00:00",
-      "summary": "Casca de jabuticaba reduz glicose e inflamações; veja como fazer o chá&nbsp;&nbsp;UOLEstudo revela que casca de jabuticaba reduz glicose e inflamações; veja receitas&nbsp;&nbsp;TVBV ONLINE",
+      "summary": "Casca de jabuticaba reduz glicose e inflamações; veja como fazer o chá&nbsp;&nbsp;UOLJabuticaba: benefícios, safra, como higienizar e receitas | Paladar&nbsp;&nbsp;EstadãoEsqueça a uva: essa fruta de casca escura e polpa clara adocicada lembra uma bala natural cheia de antioxidantes&nbsp;&nbsp;Tua SaúdeÉpoca da jabuticaba já começou; conheça os benefícios e onde comprar na Capital&nbsp;&nbsp;enfoquems.com.brEstudo revela que casca de jabuticaba reduz glicose e inflamações; veja receita&nbsp;&nbs",
       "sources": [
         {
           "name": "UOL",
@@ -105,7 +117,7 @@
       "id": "0f147cde8abc",
       "title": "Endometriose: A história da doença ignorada desde a Antiguidade - G1",
       "published": "2026-09-25T08:00:01+00:00",
-      "summary": "Endometriose: A história da doença ignorada desde a Antiguidade&nbsp;&nbsp;G1Cólica forte é normal? Saiba quando a dor merece investigação&nbsp;&nbsp;G1Dor na lombar, quadril e pernas pode ser endometriose; veja por que a doença passa despercebida&nbsp;&nbsp;Jornal CorreioGrupo Santa Helena amplia ações para diagnóstico e tratamento da endometriose em Sergipe&nbsp;&nbsp;Click SergipeEndometriose: novo consenso reforça importância de ouvir e validar a dor das doentes&nbsp;&nbsp;newsfarma.pt",
+      "summary": "Endometriose: A história da doença ignorada desde a Antiguidade&nbsp;&nbsp;G1Cólica forte é normal? Saiba quando a dor merece investigação&nbsp;&nbsp;G1Dor na lombar, quadril e pernas pode ser endometriose; veja por que a doença passa despercebida&nbsp;&nbsp;Jornal CorreioGrupo Santa Helena amplia ações para diagnóstico e tratamento da endometriose em Sergipe&nbsp;&nbsp;Click SergipeEndometriose: novo consenso reforça importância de ouvir e validar a dor das doentes&nbsp;&nbsp;News Farma",
       "sources": [
         {
           "name": "G1",
@@ -114,22 +126,10 @@
       ]
     },
     {
-      "id": "cdf1f72a511e",
-      "title": "Saúde do pai pode interferir no desenvolvimento dos filhos até a velhice, diz estudo - Terra",
-      "published": "2026-09-25T07:58:00+00:00",
-      "summary": "Saúde do pai pode interferir no desenvolvimento dos filhos até a velhice, diz estudo&nbsp;&nbsp;Terra",
-      "sources": [
-        {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQbWtJVUY4SDNlTHJwNk1iMlBaZ0VETlJhZnA5SGF0SnNLRno0ZzBfVFE4ZVJzQWdtYXIzUEsxRC1Ka2lRbTRpS1lBTThRRFluZXNmQmszTjFjMW41TEpZbDJ3NktjSl9rU3VyN3V0RkxTQ1AzMGlPdWFGNGZLajU1TEl4bDFZUklFVWE3NVNzNldHbGltajdUY1J1RWJScWlQSVM2d1BSNUE0bmJnYTFuMzMzRV9jN3NWOTZiaVhhRUlqZjZqc0tSR1NBaTk0SEd6c19sc0lZZk40VUptUHdBX0ZlUE9zOEJuZTdyLTZjOGdwaWFqLVJHSU9rRHNUR2tpZU80dA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "aa6013d0db82",
       "title": "Pesquisadores usam 'botão de volume' para tratar doenças ligando ou desligando trechos de DNA - G1",
       "published": "2026-09-25T07:00:00+00:00",
-      "summary": "Pesquisadores usam 'botão de volume' para tratar doenças ligando ou desligando trechos de DNA&nbsp;&nbsp;G1Pesquisador gaúcho participa de estudo que pode revolucionar tratamento de doenças raras&nbsp;&nbsp;GZHCirurgia no DNA: a edição genômica deixou de ser ficção&nbsp;&nbsp;portugues.medscape.comCurando o código do corpo: terapia de RNA surpreende e melhora primeiro caso de ELA&nbsp;&nbsp;bra1.com.brPaciente com tipo raro de esclerose mantém movimentos e segue trabalhando um ano após tratament",
+      "summary": "Pesquisadores usam 'botão de volume' para tratar doenças ligando ou desligando trechos de DNA&nbsp;&nbsp;G1Pesquisador gaúcho participa de estudo que pode revolucionar tratamento de doenças raras&nbsp;&nbsp;gauchazh.clicrbs.com.brCirurgia no DNA: a edição genômica deixou de ser ficção&nbsp;&nbsp;MedscapeCurando o código do corpo: terapia de RNA surpreende e melhora primeiro caso de ELA&nbsp;&nbsp;bra1.com.brPaciente com tipo raro de esclerose mantém movimentos e segue trabalhando um ano após tra",
       "sources": [
         {
           "name": "G1",
@@ -162,26 +162,14 @@
       ]
     },
     {
-      "id": "250eee871951",
-      "title": "Estudo da Fiocruz mostra alta adesão à PrEP injetável e menor incidência de HIV - G1",
-      "published": "2026-09-25T03:00:00+00:00",
-      "summary": "Estudo da Fiocruz mostra alta adesão à PrEP injetável e menor incidência de HIV&nbsp;&nbsp;G1PrEP injetável tem maior adesão e menor exposição ao HIV, mostra estudo da Fiocruz&nbsp;&nbsp;Folha de S.PauloEstudo brasileiro mostra eficácia de medicamento contra HIV&nbsp;&nbsp;SBT NewsManaus entra em estudo da Fiocruz que avalia nova estratégia de prevenção ao HIV&nbsp;&nbsp;Amazonas1PrEP de longa duração reduz incidência do HIV, mostra estudo da Fiocruz&nbsp;&nbsp;CNN Brasil",
+      "id": "f8672557f9f4",
+      "title": "Brasileiros se sentem mais saudáveis do que são, diz pesquisa - Agência Brasil",
+      "published": "2026-09-24T23:52:00+00:00",
+      "summary": "Brasileiros se sentem mais saudáveis do que são, diz pesquisa&nbsp;&nbsp;Agência Brasil",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVjkwOFYtbXNYX0xHSnpfaVBsR0Q3WmZzeUliTW9uUk43WVZqNHhPYUJuT1JTcmZWWEtTcEtUUlY4ZjI0dUVzaE82SGUtcDNtNkl0akZyTldwYTZpMEpCZV82RXJqd2xtUzNKVVhKbEo2SFNzZGZ1MGI2TnE2d2pUOEZQWHhaSnVJT3hBRjZqNjRhTDQ2bE1PWUE1eHRZYS1VWmhGd1ZiUVNpUHpNc1I3WXRjRkFPZW02VUs4Mi1LTC11LTdRMWdiOWVBVdIB2gFBVV95cUxNaDFSZEwwNi1nU0VZa1dpNWdSbEdmV2xOVWxqQnBXNmluWjdfU2h5TmZKMmVoel95UDljN2pNMVc5cFJBcjlMd3p4dVJ2RHRYMzhUdmdtWmR4QndZY2FyUWZkRXJPYVAyOEdDUDhiUkhiUkl5VUNCQVFoYnkxejd6QlQ0Um1mYVVPU3Q5TDAzcDN0MFVOMk5fWjZFZkFUQUJZdUlHR1R6ZlFzd0pvQXlXckNod3RSV3djcHJFRzFEZTVHM1hQbjBDeFpHdDFEWUdsZEhYSGZVenhyUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dfef82e608a2",
-      "title": "Oncologistas listam 7 sintomas de câncer mais ignorados - DOL",
-      "published": "2026-09-25T02:49:58+00:00",
-      "summary": "Oncologistas listam 7 sintomas de câncer mais ignorados&nbsp;&nbsp;DOL",
-      "sources": [
-        {
-          "name": "DOL",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVHVFQVJZd0J3c0dqSzdxN29VSmxLNzdGa0EzTTVQZGJ4cExNakJwcGl1d1lUdm9TSGtwMXhETzNNRFpQOHpxVVQxVjJvVGJHY0ItZVdhVDg1cUZjbmhHMVhNR0ttY1NUTF8tVldpdEU0MnNVaFpHRkpTLVpkSDFXM290ODctcXg1N284aktnZU1vVng1YVZBQlc1b0dfOXFW0gGoAUFVX3lxTFAyTGcybTJ1VzIwT0FKRlFHTTZsLTRTN0dRb3ZpZFFjaThpRExHNnNSRXRBaE1DUWt3d1REY1ZSWlY3WURTUlFNOW5CTlhidXBhdFVGZWUtU1FQX2wyUWQ1dDNPeWhoTl8wVFEzbExMU0pIeWRDUDdhT1Q5X1FxcU5NNW9HMk5zWUxGdHlpWHJEc3lTVWVzQ2F6UXZqaXFtQV9rTXVSbWN1Vg?oc=5"
+          "name": "Agência Brasil",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVVlweVowemVJYUxTb1Vzd0tXQmt4UzUwYVJXNWpMNEVZMGNRc05lNjMzbVliRlBZS0FpdDBNV2k4WFB1QnFxSE1odDNjc1VNS3dZX21LQW9ZeUtBVnBHaGY1bURsTmJqUmhaS255a0p6aEhuYkVpN2RvaFNoQzNITTRYQlZNaGtSOU9XSGt0WlRBb0hsNko0dzE0ZEg5dzZPV05hc3Z6NzJSMkxnNDZqNWtXV3ZRQQ?oc=5"
         }
       ]
     },
@@ -234,13 +222,13 @@
       ]
     },
     {
-      "id": "f2cb14c985e2",
-      "title": "Revendo os Dados: Vitamina D - portugues.medscape.com",
+      "id": "16467a381e55",
+      "title": "Revendo os Dados: Vitamina D - Medscape",
       "published": "2026-09-24T01:42:41+00:00",
-      "summary": "Revendo os Dados: Vitamina D&nbsp;&nbsp;portugues.medscape.comVitamina D: a chave da vitalidade para todo o organismo&nbsp;&nbsp;Correio BrazilienseVitamina D pode reduzir o risco de demência, aponta estudo&nbsp;&nbsp;Jornal O SulA falta de vitamina D nem sempre é só falta de sol: o intestino também conta&nbsp;&nbsp;Tua SaúdeProtetor solar bloqueia realmente a vitamina D? O que dizem os médicos&nbsp;&nbsp;Estado de Minas",
+      "summary": "Revendo os Dados: Vitamina D&nbsp;&nbsp;MedscapeVitamina D: a chave da vitalidade para todo o organismo&nbsp;&nbsp;Correio BrazilienseVitamina D pode reduzir o risco de demência, aponta estudo&nbsp;&nbsp;Jornal O SulA falta de vitamina D nem sempre é só falta de sol: o intestino também conta&nbsp;&nbsp;Tua SaúdeProtetor solar bloqueia realmente a vitamina D? O que dizem os médicos&nbsp;&nbsp;Estado de Minas",
       "sources": [
         {
-          "name": "portugues.medscape.com",
+          "name": "Medscape",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdkdNX01ONHVRZ0JIdDZZQXhzT3l5Q3B6Zmt0cGdVMWJwZFVyLVR3NFpsVmhiQkFBdkpNX3ZnWWU4LUg5S3laTjZGZWNEbUVLMWJrLWl3cWZLVjRwaEdJSURLXzkyVGVIUVBmLWJwand3d1ZRbG9Pd1NrdElTdkJMVXRIRGFmZkU?oc=5"
         }
       ]
@@ -261,7 +249,7 @@
       "id": "f23e4bdeba15",
       "title": "Infarto silencioso: 5 sinais que podem passar despercebidos - DOL",
       "published": "2026-09-23T18:48:41+00:00",
-      "summary": "Infarto silencioso: 5 sinais que podem passar despercebidos&nbsp;&nbsp;DOLReconhecer sintomas de infarto e AVC pode salvar vidas&nbsp;&nbsp;G1Dores no peito ou indigestão? Cardiologista alerta para sinais de infarto&nbsp;&nbsp;TerraDor no peito é sempre infarto? Veja como diferenciar os sinais de ansiedade e problemas cardíacos&nbsp;&nbsp;Jornal CorreioInfarto silencioso exige atenção a sinais atípicos&nbsp;&nbsp;RedePará",
+      "summary": "Infarto silencioso: 5 sinais que podem passar despercebidos&nbsp;&nbsp;DOLO coração não espera; saiba reconhecer os riscos e sinais das doenças cardiovasculares&nbsp;&nbsp;EstadãoAção de saúde em Botucatu oferece eletrocardiograma gratuito na Praça do Bosque&nbsp;&nbsp;G1Campanha do Dia Mundial do Coração oferece exames gratuitos na Rodoviária de Ribeirão Preto&nbsp;&nbsp;Jornal da USPDia Mundial do Coração: 7 sintomas que pedem avaliação médica rápida&nbsp;&nbsp;JC",
       "sources": [
         {
           "name": "DOL",
@@ -270,22 +258,10 @@
       ]
     },
     {
-      "id": "f2a6b345324c",
-      "title": "Musculação faz células de gordura encolherem antes mesmo da perda de peso, mostra novo estudo - O GLOBO",
-      "published": "2026-09-22T14:30:14+00:00",
-      "summary": "Musculação faz células de gordura encolherem antes mesmo da perda de peso, mostra novo estudo&nbsp;&nbsp;O GLOBOFaz musculação e não perde peso? Estudo mostra o que acontece com a gordura&nbsp;&nbsp;ExameEstudo mostra que musculação encolhe células de gordura antes mesmo da perda de peso na balança&nbsp;&nbsp;Rede AtlântidaMusculação ativa mecanismos de queima de gordura em 7 dias, diz estudo&nbsp;&nbsp;Correio BrazilienseMusculação pode reduzir gordura mesmo que a balança mostre o mesmo peso&nb",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQmVadzlFbDNBV2wtdnlVVlZ2dWV5blNUM3ZXbGpKaTlhTThhMFJ6bXdVb3FkTEV3SGFLMHB1WGpvTWhoZUgtblVoeDBNUHhkQ24yQnJTTlcwckQ2YVVIY3VPUjNBY0RKNldzeWNuYlBYejBWdFJ2TEV4cTg1c2xNamc4M05yMHhNQnJhUHV5QlQxbmJUbHBYVE5KeVhfb2VZUlhkNDJOYVpSSldzblpVTHNWdGhta2VDVzNHbUpWYk1PUlhldV9PLWRBanV0bHh3dzZSb1V6TlVqN0o0WklTcDlR0gHwAUFVX3lxTFBkUmVLYVUzM1J4Tm5zZlNOVXVkSEg3aHJnaFpHMVlTa0ZWNDl4LWVHbUFYdU1KY1dhX3VOaktUU0M0dDN2TzhTYjA2SWN2MW1QQnRBSHBQMlV0bmdpaktQMmN3OG5PRDVRdURoS29KWHZJa3V2c29GVW9DMzFFUDhKbjVmV2dxVC1QZnVEbVBTdE5vN3lFa2lkTEw0X3psd2FrSU9jM3ViSDdES2NMSW10dlJXeWZSWTVfYVR1d3RxTnktZ0xHc2d6RXR2UjJPeHZTZHkzTmdFaV8xd3JsLUdseHd5SjdMWll4dldTMHA4UQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "907478283183",
       "title": "Câncer de pulmão exige cuidado além da prevenção - Estadão",
       "published": "2026-09-22T07:00:00+00:00",
-      "summary": "Câncer de pulmão exige cuidado além da prevenção&nbsp;&nbsp;EstadãoOs novos alvos e possibilidades no tratamento do câncer de pulmão&nbsp;&nbsp;Poder360Avanços no tratamento do câncer de pulmão em 2026 - parte 2&nbsp;&nbsp;Estado de MinasAvanços no tratamento do câncer de pulmão em 2026: inovações e perspectivas recentes&nbsp;&nbsp;Minas InformaAgência de Comunicação - Da suspeita ao tratamento do câncer de pulmão&nbsp;&nbsp;Estadão Blue Studio",
+      "summary": "Câncer de pulmão exige cuidado além da prevenção&nbsp;&nbsp;EstadãoOs novos alvos e possibilidades no tratamento do câncer de pulmão&nbsp;&nbsp;Poder360Avanços no tratamento do câncer de pulmão em 2026 - parte 2&nbsp;&nbsp;Estado de MinasAvanços no tratamento do câncer de pulmão em 2026: inovações e perspectivas recentes&nbsp;&nbsp;minasinforma.comAgência de Comunicação - Da suspeita ao tratamento do câncer de pulmão&nbsp;&nbsp;bluestudio.estadao.com.br",
       "sources": [
         {
           "name": "Estadão",
@@ -294,25 +270,25 @@
       ]
     },
     {
-      "id": "afd5a310c407",
-      "title": "Um avanço na detecção do câncer de intestino - Portal Drauzio Varella",
+      "id": "df3e7c133bfe",
+      "title": "Um avanço na detecção do câncer de intestino - drauziovarella.uol.com.br",
       "published": "2026-09-21T18:05:49+00:00",
-      "summary": "Um avanço na detecção do câncer de intestino&nbsp;&nbsp;Portal Drauzio VarellaCâncer colorretal expõe distância entre alerta e ação&nbsp;&nbsp;EstadãoPor que o câncer de intestino está aumentando entre os jovens?&nbsp;&nbsp;O GLOBOSetembro Verde - Os sinais do intestino que não podem esperar&nbsp;&nbsp;RdnewsAvanço na detecção do câncer de intestino na população brasileira&nbsp;&nbsp;GZH",
+      "summary": "Um avanço na detecção do câncer de intestino&nbsp;&nbsp;drauziovarella.uol.com.brCâncer colorretal expõe distância entre alerta e ação&nbsp;&nbsp;EstadãoPor que o câncer de intestino está aumentando entre os jovens?&nbsp;&nbsp;O GLOBOSetembro Verde - Os sinais do intestino que não podem esperar&nbsp;&nbsp;RdnewsAvanço na detecção do câncer de intestino na população brasileira&nbsp;&nbsp;gauchazh.clicrbs.com.br",
       "sources": [
         {
-          "name": "Portal Drauzio Varella",
+          "name": "drauziovarella.uol.com.br",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRGlBeEtWS0ZIZWdvR0dRbFl1YWZWUF9YTW0yNnc1Z3lneXNodEUya0hiZnJqT3ZDekgxUnRQdjl5R203SEhMMlJBN0RYcDlQUFNtUDdXNjJwTzFadnhRSHJrY1RiMkVHVkR0SHo1WDYzX1MzSGtzWUt2dU5iM2ZrZVFXN2gteWlDT3VyYnpMaw?oc=5"
         }
       ]
     },
     {
-      "id": "430dec67bfbb",
-      "title": "Menos peso, menos exercício: o dilema dos agonistas do GLP-1 - portugues.medscape.com",
+      "id": "31e4f7332a8b",
+      "title": "Menos peso, menos exercício: o dilema dos agonistas do GLP-1 - Medscape",
       "published": "2026-09-21T12:22:23+00:00",
-      "summary": "Menos peso, menos exercício: o dilema dos agonistas do GLP-1&nbsp;&nbsp;portugues.medscape.comPor que os remédios para obesidade não funcionam para todos&nbsp;&nbsp;CartaCapitalGLP-1 no desporto: canetas para emagrecer na zona cinzenta do doping&nbsp;&nbsp;Tribuna ExpressoA nova declaração científica da Endocrine Society sobre a obesidade&nbsp;&nbsp;portugues.medscape.com",
+      "summary": "Menos peso, menos exercício: o dilema dos agonistas do GLP-1&nbsp;&nbsp;MedscapePor que os remédios para obesidade não funcionam para todos&nbsp;&nbsp;CartaCapitalGLP-1 no desporto: como as canetas para emagrecer estão na zona cinzenta do doping&nbsp;&nbsp;Tribuna ExpressoA nova declaração científica da Endocrine Society sobre a obesidade&nbsp;&nbsp;Medscape",
       "sources": [
         {
-          "name": "portugues.medscape.com",
+          "name": "Medscape",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQc1pjOUJ4VFNzbHdXSkg3Q1NsdzFsb0dNbW8tY09Yamo3Q1hKT2hBQkMxZzBMZk1xTmtFeEZpS3VFeEd0UDdlRjRnazAzOVMtekYyREI2S2hhZUFORkI3S003UmpHS1h1UHNZejBKT1VUWE5nTFBPMHAzM0FiUFNtZlRwSXJZcHdmMjhyT1lTbGZVZGNnNFdGck9yMnNQVDV3VEdXTVU2c1lCeVhkWW4xQzFDOXRDdw?oc=5"
         }
       ]

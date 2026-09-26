@@ -14,7 +14,7 @@ permalink: /news/nicotina/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre NICOTINA?">
-<strong>NICOTINA</strong> tem atualmente <strong>0 notícias</strong> e 0 indicações previstas.
+<strong>NICOTINA</strong> tem atualmente <strong>1 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -28,9 +28,15 @@ Esta página combina as indicações previstas por IA para NICOTINA com as notí
 <p><a href="{{ '/drugs/nicotina/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (0)
+## Notícias relacionadas (1)
 
-*Ainda não há notícias relacionadas. Quando uma notícia mencionar este medicamento, ela será recolhida e exibida aqui automaticamente.*
+### [Movimento pró-nicotina transforma droga que causa dependência em produto de 'bem-estar' | G1](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUkJyWk5LSFk0V0FWMDhwOEx0c2I4MVFnVzJ2d1NTOU5CSENDWTJqSlIxenhraFZVd29vRVJNYTFjcXZHYmY3V2U5YS1CeTVqeWNaOTMtYnNEeWhUUFdyNjBOd053Q3BQNG1ObERtMFV2MnRYZ1Z4YkJ6bnR6RklZRzREckdZQnREaE1fVG5kMUMtTDcyeDE2MWNHeFRzQTZFRFp3YXVfOHBWMDZ0dGpmY04wNGNRRnJCRXNfaFFEek9oUDNiYjdlazJmVFFUcnVGcVhz?oc=5)
+
+2026-09-25 <span class="news-drug-tag">NICOTINA</span>
+
+Fonte: [G1](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUkJyWk5LSFk0V0FWMDhwOEx0c2I4MVFnVzJ2d1NTOU5CSENDWTJqSlIxenhraFZVd29vRVJNYTFjcXZHYmY3V2U5YS1CeTVqeWNaOTMtYnNEeWhUUFdyNjBOd053Q3BQNG1ObERtMFV2MnRYZ1Z4YkJ6bnR6RklZRzREckdZQnREaE1fVG5kMUMtTDcyeDE2MWNHeFRzQTZFRFp3YXVfOHBWMDZ0dGpmY04wNGNRRnJCRXNfaFFEek9oUDNiYjdlazJmVFFUcnVGcVhz?oc=5)
+
+---
 
 
 <div class="disclaimer">
