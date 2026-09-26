@@ -1,19 +1,31 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-09-26T04:02:11.317729+00:00",
-  "total_fetched": 98,
-  "unique_count": 95,
-  "health_related_count": 28,
+  "fetched_at": "2026-09-26T10:59:15.503892+00:00",
+  "total_fetched": 93,
+  "unique_count": 91,
+  "health_related_count": 26,
   "news": [
     {
-      "id": "021aec46d03f",
-      "title": "Doenças inflamatórias intestinais disparam no Brasil em 13 anos; pesquisador suspeita de poluição e conservantes - O GLOBO",
-      "published": "2026-09-25T17:44:15+00:00",
-      "summary": "Doenças inflamatórias intestinais disparam no Brasil em 13 anos; pesquisador suspeita de poluição e conservantes&nbsp;&nbsp;O GLOBOAntes consideradas raras, doenças intestinais como a de Evaristo Costa crescem no país&nbsp;&nbsp;GloboNúmero de brasileiros com doenças inflamatórias intestinais cresce mais de 400% em 13 anos&nbsp;&nbsp;Folha de S.PauloDoenças inflamatórias intestinais disparam mais de cinco vezes no Brasil&nbsp;&nbsp;VEJACasos de doenças inflamatórias intestinais aumentam 5 vezes ",
+      "id": "a529f446b80b",
+      "title": "Câncer de endométrio: estudo do INCA identifica marcador ligado ao risco de recorrência - G1",
+      "published": "2026-09-26T07:00:00+00:00",
+      "summary": "Câncer de endométrio: estudo do INCA identifica marcador ligado ao risco de recorrência&nbsp;&nbsp;G1Estilo de vida saudável e vacinas podem erradicar câncer ginecológico&nbsp;&nbsp;Senado FederalParaná deve registrar mais de 2 mil novos casos de câncer de útero e ovário em 2026&nbsp;&nbsp;Bem ParanáCâncer ginecológico: os sinais e cuidados para cada tipo&nbsp;&nbsp;Correio BrazilienseCoceira e sangramento podem ser sinais de câncer de vulva e vagina&nbsp;&nbsp;Rdnews",
       "sources": [
         {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQQ2FySGpDV24wcVVIVFBpek45VUNKWWZscng0MExZV3k0NXVYQWFnUnNMOXRvMHNMOWdoM2pVQnJZNk9pTThBUExDVjlzQXNmeXZsZVg4Q21yN3VNYlVHUVBXS1pHNXpmaEhmSXF4cDg4UThlRldONDJwbWhPUEJ1XzhVb2pnZ1M0MlZoN2lmNXRFMVhZVVJlT1F4LUd2MHJJbS15WGx6d2JlQjZQUHBOWmN0amN5NUIyWE4zWXhxdUhfUHBfN1dhLTBzRU5MckFpLXRwNGNpaXhlbDE2dFJFaXlwcU5laTVxeHhJME1FeHBjMURDVDByWDJHZ9IBigJBVV95cUxNOXJxWHd1NlZLQzByS3Yyd1FMUHVoZk43NzU3SlBQdm5CNURRbzAzcXdMejVqVm1qZ2xqTG9iYjYtZU1paEhmamNhdGpWLWR5REhseWFYX3c5M1lGa2VVS003MmFaaWVKbkZRUkdrMXRaQkFXZXNNNlNLTG5EM2NEZTFldUNDMVB5LU9OZ05ESDVEZ3Bia0txNzc0eURpR2pKM0hVa3h4QnZ2N0VncXNDMDZqZ2ZDakVvZ2N5eVBVa25CMlJqSlo2M1NBZ2RNS1lNdldSdHcweTh1MDBhZ1VhLTBjYVFQOEdFMjJVT1dpdzhtLWlQZ2JpTVBPeVpuMW5qUE8xclFRcXBDZw?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWlBoamtldFFGUUxXV0dzSENRN1RYUEdEbkktMkNHTDAyT0xFMUVyQW9ObVdOZllpam1HdG1yMklPdXVXY2E5NGxTa25IN2ctbURXVlA1eGMxNEphMjlBRURid1ptTTYxbU8tS3VBazhMMEY4QVN4Ri0wRTVKNTVkYjV2anZmbTR0dzdlX2k2ZV9hYXBtVWRNMkV1Y0NOX0dDWl9mWXRXMGk0UzlaNy1VZEdRbjlhZzRHdzlhSlE2TXRlYUtfbGpJUURKdWdxS1FseXZNSg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dc3bfa15f7e7",
+      "title": "Plutão ainda não completou uma volta ao redor do Sol desde sua descoberta e só fará isso em 2178 após uma jornada orbital de 248 anos - Super Rádio Tupi",
+      "published": "2026-09-26T05:20:02+00:00",
+      "summary": "Plutão ainda não completou uma volta ao redor do Sol desde sua descoberta e só fará isso em 2178 após uma jornada orbital de 248 anos&nbsp;&nbsp;Super Rádio Tupi",
+      "sources": [
+        {
+          "name": "Super Rádio Tupi",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZEY1Q2tlLUNGXzV4Q1FpcEtuNmZjdG4xMnp6TlAzT0Q5eVZoME5NNFhTMHAydDZwVkMxSlk2Q3UtZy1uMzdfWjVKR2c0ZFR0WHI5Qk1RQ2YzMEVDWFRmaWpEQ29kWU1SaXd6OUFqV09rMUQxbVlGSGVSNXQyejJINnNhNk5sdVFJUURRcWJsVVl3LXRvVDFrdENjR3ZGWmJ3azVuLVFYWVA3U1B2emJpZFE1WHc0c3g0ZUFiekZ0NWMwQ01oSjZlRzBwM0dSaDlnQ0pDeUFGYnByZVFiejVja1R4SVJCaW5lSlRqRmJVZ0lVdw?oc=5"
         }
       ]
     },
@@ -30,10 +42,22 @@
       ]
     },
     {
+      "id": "dedccae52aee",
+      "title": "Especialistas defendem tratamento da obesidade focado na atividade física, sono de qualidade e ingestão adequada de proteínas - Tribuna do Norte",
+      "published": "2026-09-25T16:46:56+00:00",
+      "summary": "Especialistas defendem tratamento da obesidade focado na atividade física, sono de qualidade e ingestão adequada de proteínas&nbsp;&nbsp;Tribuna do Norte",
+      "sources": [
+        {
+          "name": "Tribuna do Norte",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPY2Yyd3lHaUtpVU1TZE1KQVF3SVJTUXRkWjRvd0tUWnluMkxtSEZXQWlFVmMxR3A1QzFuaVZfaXIxSTZVbVN2MlpSM3pJN0wxakdUMFdSM21MTDRZcEFrRmRtbFZRNVhzYms3b3RqM0ZsajZlSzRCdnAyWlphbGVCbjlnX0cwZlVKcDB1ZlRLQWtWbUJiSDBNcS1HOVlUTGVtWlAyNmFELXpTZVhEaWNpdzh2TmUxc0ZXNVBSUFZpR2p2MmN1eWxJNVpYLXRQRWlUd0diUFEwS0tDZ1F2YXlEVldjUmQ4NkZCaEtLMVpfa0VUV3Q0?oc=5"
+        }
+      ]
+    },
+    {
       "id": "96b1ff7cd17b",
       "title": "Terapia hormonal na menopausa: dose e via de administração determinam risco de trombose - portugues.medscape.com",
       "published": "2026-09-25T16:24:46+00:00",
-      "summary": "Terapia hormonal na menopausa: dose e via de administração determinam risco de trombose&nbsp;&nbsp;portugues.medscape.comTerapia hormonal na menopausa é perigosa? Especialista explica&nbsp;&nbsp;iG DelasSuplementos para Menopausa: Guia de Segurança para Fogachos&nbsp;&nbsp;Kantesti AI Blood Test AnalyzerExiste tratamento sem hormônio para os calorões da menopausa?&nbsp;&nbsp;Tua SaúdeHormônios para menopausa via oral elevam risco de trombose em comparação à via transdérmica&nbsp;&nbsp;Правда.Ру",
+      "summary": "Terapia hormonal na menopausa: dose e via de administração determinam risco de trombose&nbsp;&nbsp;portugues.medscape.comMenopausa: terapia hormonal é segura? Entenda os riscos&nbsp;&nbsp;TerraTerapia hormonal na menopausa é perigosa? Especialista explica&nbsp;&nbsp;iG DelasJá teve trombose e pensa em fazer reposição hormonal? Esse histórico muda a conversa com o médico&nbsp;&nbsp;Tua SaúdeSuplementos para Menopausa: Guia de Segurança para Fogachos&nbsp;&nbsp;Kantesti AI Blood Test Analyzer",
       "sources": [
         {
           "name": "portugues.medscape.com",
@@ -78,22 +102,10 @@
       ]
     },
     {
-      "id": "0bd97d196439",
-      "title": "Corpo humano vira 'cabo elétrico' natural para implantes médicos - Correio Braziliense",
-      "published": "2026-09-25T08:05:00+00:00",
-      "summary": "Corpo humano vira 'cabo elétrico' natural para implantes médicos&nbsp;&nbsp;Correio Braziliense",
-      "sources": [
-        {
-          "name": "Correio Braziliense",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNU2lxMV9Mak5LNmVnUW9naXRDMGFwQmExYy1kdkl6bGdhOGdzNEN0dTNUT28zWmI3bFNZZy1ZRGVJM2dvajk5eC1xbW8yZTJTblgydmJKR2pHM1RRajlxV0dxUmF1MWpfcHlSenBfWDNOdVFvbTlTSWU3MEJqb0Z4ckV2SkdJaHV4SWkzZHBCMTlmZWw0cmtDbFE1T2p0aWF2NzNLUEhVMDY5VmpGSVYzeHphcl9MdGFLSmNoOFdsMndfMElvbkRSczgwQ2libkI1VVpj0gHYAUFVX3lxTE5yVXdtdXhtSGdrRjZwT2gzMDFTSFk4dmNqRTJUZlJoWFpYTGZZSmk5ZUt5cU5xQWlYaDNla29iX3IwalUzdFE3NEpvZWZiR2xkanFUWGZJcFJPZnZ2RDJTUUd1Z3h4bG9LZVdxYml2SEpIVWZuN3g1c2tLM0pzRGR3TjZIR1p1RF9wQ3J3azN0Y0hkSjAweWU4VDUtVndsYjdJWWVXcmVVeFhnTjVzRVNZdlZieXRraG5VMlJaSUZLVy02TXBRWU0xdjRNVWgwLUZUWWtJZjNxNg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0f147cde8abc",
       "title": "Endometriose: A história da doença ignorada desde a Antiguidade - G1",
       "published": "2026-09-25T08:00:01+00:00",
-      "summary": "Endometriose: A história da doença ignorada desde a Antiguidade&nbsp;&nbsp;G1Cólica forte é normal? Saiba quando a dor merece investigação&nbsp;&nbsp;G1Dor na lombar, quadril e pernas pode ser endometriose; veja por que a doença passa despercebida&nbsp;&nbsp;Jornal CorreioEndometriose na gestação: consenso orienta manejo obstétrico | Juína News - A notícia certa, na hora certa&nbsp;&nbsp;Juína NewsEndometriose atinge 15% das brasileiras, mas diagnóstico leva até 7 anos&nbsp;&nbsp;band.com.br",
+      "summary": "Endometriose: A história da doença ignorada desde a Antiguidade&nbsp;&nbsp;G1Cólica forte é normal? Saiba quando a dor merece investigação&nbsp;&nbsp;G1Dor na lombar, quadril e pernas pode ser endometriose; veja por que a doença passa despercebida&nbsp;&nbsp;Jornal CorreioGrupo Santa Helena amplia ações para diagnóstico e tratamento da endometriose em Sergipe&nbsp;&nbsp;Click SergipeEndometriose: novo consenso reforça importância de ouvir e validar a dor das doentes&nbsp;&nbsp;newsfarma.pt",
       "sources": [
         {
           "name": "G1",
@@ -153,7 +165,7 @@
       "id": "250eee871951",
       "title": "Estudo da Fiocruz mostra alta adesão à PrEP injetável e menor incidência de HIV - G1",
       "published": "2026-09-25T03:00:00+00:00",
-      "summary": "Estudo da Fiocruz mostra alta adesão à PrEP injetável e menor incidência de HIV&nbsp;&nbsp;G1PrEP injetável tem maior adesão e menor exposição ao HIV, mostra estudo da Fiocruz&nbsp;&nbsp;Folha de S.PauloEstudo brasileiro mostra eficácia de medicamento contra HIV&nbsp;&nbsp;SBT NewsManaus está entre cidades brasileiras de estudo sobre nova prevenção contra o HIV&nbsp;&nbsp;portaldoholanda.com.brPrEP de longa duração reduz incidência do HIV, mostra estudo da Fiocruz&nbsp;&nbsp;CNN Brasil",
+      "summary": "Estudo da Fiocruz mostra alta adesão à PrEP injetável e menor incidência de HIV&nbsp;&nbsp;G1PrEP injetável tem maior adesão e menor exposição ao HIV, mostra estudo da Fiocruz&nbsp;&nbsp;Folha de S.PauloEstudo brasileiro mostra eficácia de medicamento contra HIV&nbsp;&nbsp;SBT NewsManaus entra em estudo da Fiocruz que avalia nova estratégia de prevenção ao HIV&nbsp;&nbsp;Amazonas1PrEP de longa duração reduz incidência do HIV, mostra estudo da Fiocruz&nbsp;&nbsp;CNN Brasil",
       "sources": [
         {
           "name": "G1",
@@ -162,13 +174,13 @@
       ]
     },
     {
-      "id": "7e01ae37abbc",
-      "title": "Oncologistas listam 7 sintomas de câncer mais ignorados - dol.com.br",
+      "id": "dfef82e608a2",
+      "title": "Oncologistas listam 7 sintomas de câncer mais ignorados - DOL",
       "published": "2026-09-25T02:49:58+00:00",
-      "summary": "Oncologistas listam 7 sintomas de câncer mais ignorados&nbsp;&nbsp;dol.com.br",
+      "summary": "Oncologistas listam 7 sintomas de câncer mais ignorados&nbsp;&nbsp;DOL",
       "sources": [
         {
-          "name": "dol.com.br",
+          "name": "DOL",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVHVFQVJZd0J3c0dqSzdxN29VSmxLNzdGa0EzTTVQZGJ4cExNakJwcGl1d1lUdm9TSGtwMXhETzNNRFpQOHpxVVQxVjJvVGJHY0ItZVdhVDg1cUZjbmhHMVhNR0ttY1NUTF8tVldpdEU0MnNVaFpHRkpTLVpkSDFXM290ODctcXg1N284aktnZU1vVng1YVZBQlc1b0dfOXFW0gGoAUFVX3lxTFAyTGcybTJ1VzIwT0FKRlFHTTZsLTRTN0dRb3ZpZFFjaThpRExHNnNSRXRBaE1DUWt3d1REY1ZSWlY3WURTUlFNOW5CTlhidXBhdFVGZWUtU1FQX2wyUWQ1dDNPeWhoTl8wVFEzbExMU0pIeWRDUDdhT1Q5X1FxcU5NNW9HMk5zWUxGdHlpWHJEc3lTVWVzQ2F6UXZqaXFtQV9rTXVSbWN1Vg?oc=5"
         }
       ]
@@ -222,30 +234,6 @@
       ]
     },
     {
-      "id": "46f924855f39",
-      "title": "Estudo da Manipueira Selvagem põe a ciência brasileira no mapa da cerveja, diz pesquisador - Guia da Cerveja",
-      "published": "2026-09-24T09:00:00+00:00",
-      "summary": "Estudo da Manipueira Selvagem põe a ciência brasileira no mapa da cerveja, diz pesquisador&nbsp;&nbsp;Guia da Cerveja",
-      "sources": [
-        {
-          "name": "Guia da Cerveja",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lTHZFNFNWbWI3WjlndmVTZ2pvTzJzZU1wZGRYbkM2d1FidFhST1VoYlp3MjBiWTFDVlBLMHZaM2IwSk1LR3VCSlpGLVBTTGU4QU1KbDBFNll2b0gtMUVxbzZDN05CbzFFOUZLYXZPaGJHYUduOHlYZnJrLU5jOUk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8d0c1f3c1927",
-      "title": "Longe dos pratos e das receitas, conheça o poder do inhame contra o câncer - G1",
-      "published": "2026-09-24T08:35:16+00:00",
-      "summary": "Longe dos pratos e das receitas, conheça o poder do inhame contra o câncer&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU3RKUUFNdldwNldUU2Q5WGFfY1l4Q1NfTC1VaFpaUk1RNXpxS0FhUnV5d1BScVd4MmltdXpVVXpxdmhBemhCTjFHZ3JzcDMzQmYxSWtHVVJHQ2RzMXlqSlFMS3lmVUJYY2xpc3R5ZWhEOHFzbzdOdFB6dE1YX2lFMG4tZi13MW1HQ1dTS2ZoaHliVm9zR1RKZUpNTDFiR2FGVEJjRnpULVl1dlh3NUN1MEFMdG5rdUFNM1lKdHFaMlJIZm8?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f2cb14c985e2",
       "title": "Revendo os Dados: Vitamina D - portugues.medscape.com",
       "published": "2026-09-24T01:42:41+00:00",
@@ -270,26 +258,14 @@
       ]
     },
     {
-      "id": "d2dbf8d041f6",
-      "title": "Infarto silencioso: 5 sinais que podem passar despercebidos - dol.com.br",
+      "id": "f23e4bdeba15",
+      "title": "Infarto silencioso: 5 sinais que podem passar despercebidos - DOL",
       "published": "2026-09-23T18:48:41+00:00",
-      "summary": "Infarto silencioso: 5 sinais que podem passar despercebidos&nbsp;&nbsp;dol.com.brReconhecer sintomas de infarto e AVC pode salvar vidas&nbsp;&nbsp;G1Dores no peito ou indigestão? Cardiologista alerta para sinais de infarto&nbsp;&nbsp;TerraDor no peito é sempre infarto? Veja como diferenciar os sinais de ansiedade e problemas cardíacos&nbsp;&nbsp;Jornal CorreioMulher infarta? Médicos explicam sintomas no sexo feminino ao Dr. Kalil&nbsp;&nbsp;CNN Brasil",
+      "summary": "Infarto silencioso: 5 sinais que podem passar despercebidos&nbsp;&nbsp;DOLReconhecer sintomas de infarto e AVC pode salvar vidas&nbsp;&nbsp;G1Dores no peito ou indigestão? Cardiologista alerta para sinais de infarto&nbsp;&nbsp;TerraDor no peito é sempre infarto? Veja como diferenciar os sinais de ansiedade e problemas cardíacos&nbsp;&nbsp;Jornal CorreioInfarto silencioso exige atenção a sinais atípicos&nbsp;&nbsp;RedePará",
       "sources": [
         {
-          "name": "dol.com.br",
+          "name": "DOL",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNk9XWEctNllNRnFLWUloZU8yTjVib214dUZLVHYtY3E0LUdfS2tVbVRrVW12QkUtNFNiSXd5a3FjRWw4T1lmSXRwM1M4UElpeWpfLS04SVJKNG91ek9PU2xGR2pyMURlTWxYVFZZM0Y3RE9paFFCUkxuU3llNWhROGRlRHlITUhEMlBUc2pTUEx4Vmpac2hWZ1NneE12d3hyTGMwdNIBrAFBVV95cUxOZEE3czdjOHloNTFFcnJJaTdRUVY4N0RUVGZBZEJsaHNxMEhTdEtyMmY5dWNMV1E3SHRpWThlS2hJZVUxaUR1X0EzVDhLLUwzbE4zY3l2Nl9ZN0hiVVBWY01rd1lHajZMQkFTMmV2S1lGOWxzY092bEtselBpWl9HWDFEYk1hRFJUd19qV3dWdm1obkM2R1hLaW9Heldna1o0OTBmTGVhQ29mdG9o?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d5daa5a7467a",
-      "title": "Depressão atípica: por que ela pode passar despercebida - Portal Drauzio Varella",
-      "published": "2026-09-22T18:05:28+00:00",
-      "summary": "Depressão atípica: por que ela pode passar despercebida&nbsp;&nbsp;Portal Drauzio Varella",
-      "sources": [
-        {
-          "name": "Portal Drauzio Varella",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOFlrM0NrbWZ2NDBoR1NEOElqdERyUFFMU1BtVVhnd1BsQUVyckhzZjMzWnExdFZZQjFqbHNoSDRQcE11TzJMX3Y3bDEzMjY4WmJsZWFGOTRXbzFnUTRaZHRFbzJPQmRoNVZ0WTZBQ1lqOUVXbGhUeDRTWUZHSlFZaE1kWV94YjAxcGk2SkxtN01paHJLNF9tVi1oeDBDU1hMWEVXNw?oc=5"
         }
       ]
     },
@@ -297,7 +273,7 @@
       "id": "f2a6b345324c",
       "title": "Musculação faz células de gordura encolherem antes mesmo da perda de peso, mostra novo estudo - O GLOBO",
       "published": "2026-09-22T14:30:14+00:00",
-      "summary": "Musculação faz células de gordura encolherem antes mesmo da perda de peso, mostra novo estudo&nbsp;&nbsp;O GLOBOMusculação ativa mecanismos de queima de gordura em 7 dias, diz estudo&nbsp;&nbsp;Correio BrazilienseEstudo mostra que musculação encolhe células de gordura antes mesmo da perda de peso na balança&nbsp;&nbsp;Rede AtlântidaMusculação pode reduzir gordura mesmo que a balança mostre o mesmo peso&nbsp;&nbsp;Diário do Centro do MundoSete dias de musculação já alteram a queima de gordura, ap",
+      "summary": "Musculação faz células de gordura encolherem antes mesmo da perda de peso, mostra novo estudo&nbsp;&nbsp;O GLOBOFaz musculação e não perde peso? Estudo mostra o que acontece com a gordura&nbsp;&nbsp;ExameEstudo mostra que musculação encolhe células de gordura antes mesmo da perda de peso na balança&nbsp;&nbsp;Rede AtlântidaMusculação ativa mecanismos de queima de gordura em 7 dias, diz estudo&nbsp;&nbsp;Correio BrazilienseMusculação pode reduzir gordura mesmo que a balança mostre o mesmo peso&nb",
       "sources": [
         {
           "name": "O GLOBO",
@@ -309,7 +285,7 @@
       "id": "907478283183",
       "title": "Câncer de pulmão exige cuidado além da prevenção - Estadão",
       "published": "2026-09-22T07:00:00+00:00",
-      "summary": "Câncer de pulmão exige cuidado além da prevenção&nbsp;&nbsp;EstadãoAvanços no tratamento do câncer de pulmão em 2026 - parte 2&nbsp;&nbsp;Estado de MinasFernando Maluf | Câncer de pulmão expõe diferenças entre SUS e rede privada&nbsp;&nbsp;Poder360Uma exposição invisível, um impacto real: o impacto do fumo passivo na incidência do cancro do pulmão&nbsp;&nbsp;newsfarma.ptAvanços no tratamento do câncer de pulmão em 2026: inovações e perspectivas recentes&nbsp;&nbsp;Minas Informa",
+      "summary": "Câncer de pulmão exige cuidado além da prevenção&nbsp;&nbsp;EstadãoOs novos alvos e possibilidades no tratamento do câncer de pulmão&nbsp;&nbsp;Poder360Avanços no tratamento do câncer de pulmão em 2026 - parte 2&nbsp;&nbsp;Estado de MinasAvanços no tratamento do câncer de pulmão em 2026: inovações e perspectivas recentes&nbsp;&nbsp;Minas InformaAgência de Comunicação - Da suspeita ao tratamento do câncer de pulmão&nbsp;&nbsp;Estadão Blue Studio",
       "sources": [
         {
           "name": "Estadão",
@@ -333,7 +309,7 @@
       "id": "430dec67bfbb",
       "title": "Menos peso, menos exercício: o dilema dos agonistas do GLP-1 - portugues.medscape.com",
       "published": "2026-09-21T12:22:23+00:00",
-      "summary": "Menos peso, menos exercício: o dilema dos agonistas do GLP-1&nbsp;&nbsp;portugues.medscape.comPor que os remédios para obesidade não funcionam para todos&nbsp;&nbsp;CartaCapital",
+      "summary": "Menos peso, menos exercício: o dilema dos agonistas do GLP-1&nbsp;&nbsp;portugues.medscape.comPor que os remédios para obesidade não funcionam para todos&nbsp;&nbsp;CartaCapitalGLP-1 no desporto: canetas para emagrecer na zona cinzenta do doping&nbsp;&nbsp;Tribuna ExpressoA nova declaração científica da Endocrine Society sobre a obesidade&nbsp;&nbsp;portugues.medscape.com",
       "sources": [
         {
           "name": "portugues.medscape.com",
