@@ -1,9 +1,9 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-09-27T11:37:10.485296+00:00",
-  "total_fetched": 82,
-  "unique_count": 82,
-  "health_related_count": 24,
+  "fetched_at": "2026-09-27T16:35:40.957582+00:00",
+  "total_fetched": 85,
+  "unique_count": 85,
+  "health_related_count": 19,
   "news": [
     {
       "id": "62b32091fb5a",
@@ -18,14 +18,26 @@
       ]
     },
     {
-      "id": "3e6999f4287f",
-      "title": "\"Harvest Moon\": primeira Lua cheia da primavera chega a seu maior tamanho neste sábado - GZH",
-      "published": "2026-09-27T02:08:24+00:00",
-      "summary": "\"Harvest Moon\": primeira Lua cheia da primavera chega a seu maior tamanho neste sábado&nbsp;&nbsp;GZH",
+      "id": "6bccd211a20b",
+      "title": "Obesidade + Envelhecimento: uma Bomba para o SUS - Estadão",
+      "published": "2026-09-27T08:30:00+00:00",
+      "summary": "Obesidade + Envelhecimento: uma Bomba para o SUS&nbsp;&nbsp;EstadãoEstudo mostra que dois em cada três adultos têm excesso de peso&nbsp;&nbsp;G1Em 30 anos, obesidade triplica e atinge 1/4 da população adulta&nbsp;&nbsp;Agência BrasilObesidade triplica no Brasil; 1,5 milhão de amazonenses adultos estão acima do peso&nbsp;&nbsp;Portal Você OnlineObesidade e envelhecimento devem pressionar gastos do SUS&nbsp;&nbsp;SpaceMoney",
       "sources": [
         {
-          "name": "GZH",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPUEc4VjlnQXJGTndOVU9Ed0J5aFptYTZpSk0wS2tUSkZHUEZlQlYtMlB2ZXFjVGVsdGFLbkl4NHM5RU1KVDY5b3AwdUdnR21EeER1TnVncmdGSnpoazhObW9Ta215MWw1TEd2NVpSRUJjR0ctbXhTNWktNTFSR19WQ1ByaUFsMG9vVzhqTGRWdkdRc0xhcEc2UTJqQTNqUkJSdTljME53X3JhYXB5R2E2X1NCX0hoTHBROFFjRXlab2hZc0tmRGN5RTZRWFY2SUcwLVZoajZMSGxVYmlhRDE0ZUMwODlvQXZWM1RMbjl3XzhoZFdoM25BX2FPRVZJelZB?oc=5"
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWk5DQVJ5ODA1UXVmOGU3elR6cXZScV83eTJaVHJCUC1YVlNKZTd5aUU4QWJiZG1aYThqRTFrdmhfeV9xTk5BVDFQSFUyTndOREVqcEV4aDdrT2t3VmVNYzFDZXdlQ3ZpT2p4MUREQ0NaRG5KWm5vMW5OVVIwRlBTUW4zaWVweUcwVTJGREQ3MDlBdF9mSVhXNHItYUlMNlpDY21j?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2432084c8e6c",
+      "title": "Anvisa investiga 13 notificações de doença que causa perda de visão associadas a canetas emagrecedoras - G1",
+      "published": "2026-09-27T06:00:00+00:00",
+      "summary": "Anvisa investiga 13 notificações de doença que causa perda de visão associadas a canetas emagrecedoras&nbsp;&nbsp;G1Anvisa investiga perda de visão associada a canetas emagrecedoras&nbsp;&nbsp;Poder360Doentes processam fabricante do Wegovy e Ozempic após casos de perda de visão&nbsp;&nbsp;24 NotíciasAnvisa investiga 13 casos de doença ligada a perda de visão em usuários de canetas emagrecedoras&nbsp;&nbsp;Diário do NordesteGazeta de Limeira&nbsp;&nbsp;Gazeta de Limeira",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQU5feVFRQU40dlRlQ3VQTDJvb0pFeVBla1gtQzNtYkN4VFRVR25LSm5SSFBPQ0NZVUExeUZXcjh5TlNFd3YxNjBzMlBqLXczY1JLVW5iTGpwVHBXZms4OE0yalBjS0hfQy10bk5ES0lieTBiRF9XNjBWTjVyNlg0LUc2cXZwU1o1bHpyNDZ2enh3OTlreVVSNlZvZXpYZkZ2ZkVsZ3lRZDhmWDQ1bk8ybWpUVU5ISVpJRXRZU19iQ0tac0o4c0cwVVpSZ0FGUi1MZVhMVWt2Qkw2ZlNTSi1sdks0ZWQxQdIB9AFBVV95cUxNckpkenV6VDBldGtwdFljYlJ6M2VLdlRjTW8xTjd4THU3X2x2X0FzMmJudmRpdHQ2bEppVV94UEZBMjJFZDVpR3hKSXZUNERnZXUxV0x6Z19sUHU0dkRtUjFUWlA1dzdRTkZxN2Zfc2F4YU5ONktHU2VfMVpDc2daTXktSlBDREVaQXRSMkl2RF9NbDlMTnFKdEk0TmVITE1TU3Q1TnkySGpNR3B4WnRmcHVSekMzZTFMZVlCeVlWcktvT3Y0WGt3WjZiczhBNE1rSzJNaHVEYWc5Z3NUdXI1STF4WGdIX2E3VUNKWXpSOXRQNF8y?oc=5"
         }
       ]
     },
@@ -50,18 +62,6 @@
         {
           "name": "Globo",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWjdEazBhbl9lRnpmejRBTW81VHdza1RLdWNQb3p5VDdfZV9aWk0yNzZJR2dVN2FOaXZzLWZIdTRFVm1Ta0NkdEtBY1dwREVETThQUTdnbUkxU2c5d0UwTW9ucUdsamVrVVpxRG92MWxkSlNDNU82Ynl4MllyNmhmVXJFREpjSHlUU3FGeHFPYV9fNExPakFWcUVwWkRHa0R0Vzhic3JGWW9zQUw1dVNFZE5ybExxVzhjSVdiM3VJUFA1b21peDhOd1FkS2tENm84THfSAeABQVVfeXFMUGhPYWNwRWNGTHFJTzlISUJQb3NaenkzZWYybVFfUlRkMFJOd2doeVBnNEpyZzg4dldMcVU5dlcyaDBka25hajQ5TTBEQ01JZFYzMzlGWHYwUDJGNUZaRGl1UF9XSVluNzI4bjJOWFFSUWJTTDJLWWpfQlF3bVFEdV9QMXlqdWdvNlc1OGJCd2VLb1RWeDhSS3V6ZDlPSUdnX1ZuYmJFeWtIeGl1bEZkQ3AtTi1UZ2t3VG9YeU9Gdi1TYzRPZGpZODNvRE1HTnRNNklRelAtMGk2QnU5amt6clY?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e3e899e9b4ad",
-      "title": "Após anos de viagem pelo espaço, a primeira missão a alcançar Mercúrio com dois satélites finalmente chega ao destino e inicia uma nova era de descobertas - Super Rádio Tupi",
-      "published": "2026-09-26T19:50:22+00:00",
-      "summary": "Após anos de viagem pelo espaço, a primeira missão a alcançar Mercúrio com dois satélites finalmente chega ao destino e inicia uma nova era de descobertas&nbsp;&nbsp;Super Rádio Tupi",
-      "sources": [
-        {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQbUQzX2tOOHpMdmlNOGJZX1hvRjQ0alpSZTVLeW9oRjE2aDNvZXdVNkkxMXhuaGZwSDRjbGRkeFNpMmhuUFJCTHJQVU5Jb3Rqc2lIR3Rla1Vqcjl6TU9xNGlsdklJdFBiaHhjVjkxTmRFYjcxMFFKVGctbVpiQXFTRHVtYk9CakhZVHhiTEs3UTQ2NGJUNFBRVmpPUG1DRnhfYm5sSFU0bmVIdFpFWl9BTlJyTTVFSDFMUTR1UkpXcVRPOXNGQmd5NUV1YVhHWEF4NDFmeFBpcHRFMUk3RmFXX3hsamF6OXk5a1pSQTR1cldLT1UxR19tSENhNmxfMDMzeVdJNTF3TktEcHg1?oc=5"
         }
       ]
     },
@@ -126,13 +126,13 @@
       ]
     },
     {
-      "id": "6804abecc8b2",
-      "title": "Mais de 11 mil exames e consultas estão há mais de dois anos na fila da Secretaria de Saúde - Tribuna de Petrópolis",
+      "id": "7362b7bb615f",
+      "title": "Mais de 11 mil exames e consultas estão há mais de dois anos na fila da Secretaria de Saúde - tribunadepetropolis.com.br",
       "published": "2026-09-26T07:34:09+00:00",
-      "summary": "Mais de 11 mil exames e consultas estão há mais de dois anos na fila da Secretaria de Saúde&nbsp;&nbsp;Tribuna de Petrópolis",
+      "summary": "Mais de 11 mil exames e consultas estão há mais de dois anos na fila da Secretaria de Saúde&nbsp;&nbsp;tribunadepetropolis.com.br",
       "sources": [
         {
-          "name": "Tribuna de Petrópolis",
+          "name": "tribunadepetropolis.com.br",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSUVGZ0RlTEJTQW5NTVExY1pzX0VOTlpiTEJiUXBXczRXcXY4cktqS2RWZ2VSN0QyQy1xdTBvemxaXzU3eXlJZklsZjZCNzVBeWxLa0RSTk44WThneDZCdk5Rd2JVVTBadjJBbTlIQlVDRzdOYjJ0SkxkMDVwUHBGdkVBWXNFMGxsaFd5ZHRNbU13RkNkVUFYUzMwVHRsTkRDZm1panNLT0FUNUtUemRMZE5VeXUyTjQ1Y0dkQm5LYWhpUlRwR0tHSFlFYW94TkhyRlE?oc=5"
         }
       ]
@@ -153,7 +153,7 @@
       "id": "a529f446b80b",
       "title": "Câncer de endométrio: estudo do INCA identifica marcador ligado ao risco de recorrência - G1",
       "published": "2026-09-26T07:00:00+00:00",
-      "summary": "Câncer de endométrio: estudo do INCA identifica marcador ligado ao risco de recorrência&nbsp;&nbsp;G1Setembro em Flor: combate aos cânceres ginecológicos&nbsp;&nbsp;O POVOEstilo de vida saudável e vacinas podem erradicar câncer ginecológico&nbsp;&nbsp;SenadoParaná deve registrar mais de 2 mil novos casos de câncer de útero e ovário em 2026&nbsp;&nbsp;Bem ParanáPara além do diagnóstico, existe uma mulher&nbsp;&nbsp;A Gazeta",
+      "summary": "Câncer de endométrio: estudo do INCA identifica marcador ligado ao risco de recorrência&nbsp;&nbsp;G1Perspectivas para o tratamento do câncer de endométrio no Brasil&nbsp;&nbsp;Folha de S.PauloEspecialista tira dúvidas sobre cânceres ginecológicos no jornal da EPTV&nbsp;&nbsp;G1Setembro em Flor: combate aos cânceres ginecológicos&nbsp;&nbsp;O POVOParaná deve registrar mais de 2 mil novos casos de câncer de útero e ovário em 2026&nbsp;&nbsp;Bem Paraná",
       "sources": [
         {
           "name": "G1",
@@ -174,50 +174,14 @@
       ]
     },
     {
-      "id": "be071fa674c7",
-      "title": "Especialistas defendem tratamento da obesidade focado na atividade física, sono de qualidade e ingestão adequada de proteínas - tribunadonorte.com.br",
-      "published": "2026-09-25T16:46:56+00:00",
-      "summary": "Especialistas defendem tratamento da obesidade focado na atividade física, sono de qualidade e ingestão adequada de proteínas&nbsp;&nbsp;tribunadonorte.com.br",
-      "sources": [
-        {
-          "name": "tribunadonorte.com.br",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPY2Yyd3lHaUtpVU1TZE1KQVF3SVJTUXRkWjRvd0tUWnluMkxtSEZXQWlFVmMxR3A1QzFuaVZfaXIxSTZVbVN2MlpSM3pJN0wxakdUMFdSM21MTDRZcEFrRmRtbFZRNVhzYms3b3RqM0ZsajZlSzRCdnAyWlphbGVCbjlnX0cwZlVKcDB1ZlRLQWtWbUJiSDBNcS1HOVlUTGVtWlAyNmFELXpTZVhEaWNpdzh2TmUxc0ZXNVBSUFZpR2p2MmN1eWxJNVpYLXRQRWlUd0diUFEwS0tDZ1F2YXlEVldjUmQ4NkZCaEtLMVpfa0VUV3Q0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1f1c3e2ff3f0",
-      "title": "Terapia hormonal na menopausa: dose e via de administração determinam risco de trombose - Medscape",
+      "id": "96b1ff7cd17b",
+      "title": "Terapia hormonal na menopausa: dose e via de administração determinam risco de trombose - portugues.medscape.com",
       "published": "2026-09-25T16:24:46+00:00",
-      "summary": "Terapia hormonal na menopausa: dose e via de administração determinam risco de trombose&nbsp;&nbsp;MedscapeMenopausa: terapia hormonal é segura? Entenda os riscos&nbsp;&nbsp;TerraTerapia hormonal na menopausa é perigosa? Especialista explica&nbsp;&nbsp;iG DelasJá teve trombose e pensa em fazer reposição hormonal? Esse histórico muda a conversa com o médico&nbsp;&nbsp;tuasaude.comSuplementos para Menopausa: Guia de Segurança para Fogachos&nbsp;&nbsp;Kantesti AI Blood Test Analyzer",
+      "summary": "Terapia hormonal na menopausa: dose e via de administração determinam risco de trombose&nbsp;&nbsp;portugues.medscape.comSuplementos para Menopausa: Guia de Segurança para Fogachos&nbsp;&nbsp;Kantesti AI Blood Test AnalyzerReposição hormonal pode aliviar sintomas durante a menopausa&nbsp;&nbsp;G1Usa hormônio para menopausa em comprimido? A via pode mudar o risco de trombose&nbsp;&nbsp;Tua SaúdeTerapia hormonal na menopausa é perigosa? Especialista explica&nbsp;&nbsp;delas.ig.com.br",
       "sources": [
         {
-          "name": "Medscape",
+          "name": "portugues.medscape.com",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTXlZRkVRRkczaDYxekVGT01VMVZVSnAtLTRwMldQYWkwUGd4TjlMV045eks1YnpzNTh0WkxOQkZUOE5zcGdxQUM4T21sZkVtakhJV2hTODlmYjRiMmpRb0xCU19uaHg2T05OUHB4dDduZ1Jtamo4V3ZhYUZRN25qQ1A3b2FhNUhydkIwWFoybWgycTU4QzNPVg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9b0574108c3d",
-      "title": "Saltos quânticos do som são observados pela primeira vez - 25/09/2026 - Ciência - Folha de S.Paulo",
-      "published": "2026-09-25T16:00:00+00:00",
-      "summary": "Saltos quânticos do som são observados pela primeira vez - 25/09/2026 - Ciência&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTjZyUUFWUUNFQUowZEdMZmljR0otSTJZX0JrSENkSUZGMUpzWmY2Uk1JRU1OaGZJSmtxaW5ibDFsQldYUkdNR0hxOTRYd1REUExycFU4bEI3cWxmVURiMkpfTnU2V1dPb3lrWUJxS3FmMkRuZGlFMXgtQWkyOURlRXlTSjZjQ0c4R3ZHNklWSUR3N1dwNlN0UjMwVGV4VlIxdDg4d1ZhWjNIeFRy?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cba59f8d4c21",
-      "title": "Cientistas descobrem rota 'impossível' nas células que pode tornar células cancerosas mais vulneráveis - Época Negócios",
-      "published": "2026-09-25T13:02:42+00:00",
-      "summary": "Cientistas descobrem rota 'impossível' nas células que pode tornar células cancerosas mais vulneráveis&nbsp;&nbsp;Época Negócios",
-      "sources": [
-        {
-          "name": "Época Negócios",
-          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNNFpOaUd6RVVrenA0MmVDVDM4a1JfZXF5c1drMy1nc0ZIZWRzXzNBSjd5bDk1MjExbnRhYXdVTkl1UkhQcTFGcmVkZ0dhVXNJWmpzQ25oeUhWSzhsUE1Yem95blRCc2tZdWo0Vm9WM1VBNmpLRVpYb0k5TnNvNXU3SERfdnF2cjhaWTdsR2ZkSndqQWctLUctUFpYT3VjZm5jN3VNbTI4QUllaVg5T2dXRUF4RmZCNkdlZnZmZnF0Y2c3WWlFaFhYQmowYmZIOTBTdl9kWDdyb2R3TjhjNnNla0dfV0NTMFdnVWhCc1RnTTI3WGwtRFFHSDFQd3U0eEXSAY4CQVVfeXFMUGw3MHVWSjNSNUhReUlhbUsxbHY5VjZ5UXpIN0hxQXRXR0tEcm5aSW5iQ1hOZVNoNHdCaDNaNjhpRjUtVjU1ZENvTUZ2SVBpNXBfTUxtMnNGRXlBYno4RERyeVJVYk42TnVZaWJFSUVVMVV0X09RMk1DbzBQVGNuUmhSRG0tcER6QXRMclp2TWFZSFp6WVlkTk9LZTB1NmJ3cnk1QmZ2WDVzeWtEb0FwTllaT19FUXhjOGU2WnlwaVZHcWdQSTR6V1RHNmE2eTRGRDJ1cUtmWFN1azBWdW9ST2RRYmQyYUVkUWdLUnpUNEJVNXY1WTRJT19RSHVMRzJISWQ4blE2YWJDVHFHMHlB?oc=5"
         }
       ]
     },
@@ -225,7 +189,7 @@
       "id": "2d651aaff444",
       "title": "Casca de jabuticaba reduz glicose e inflamações; veja como fazer o chá - UOL",
       "published": "2026-09-25T08:30:00+00:00",
-      "summary": "Casca de jabuticaba reduz glicose e inflamações; veja como fazer o chá&nbsp;&nbsp;UOLGuia prático da jabuticaba: experts listam benefícios, cuidados e receitas infalíveis com a fruta&nbsp;&nbsp;EstadãoJabuticaba: o que a casca escura dessa fruta tão comum pode oferecer para o seu coração&nbsp;&nbsp;tuasaude.comEstudo revela que casca de jabuticaba reduz glicose e inflamações; veja receita&nbsp;&nbsp;TVBV ONLINEÉpoca da jabuticaba já começou; conheça os benefícios e onde comprar na Capital&nbsp;&",
+      "summary": "Casca de jabuticaba reduz glicose e inflamações; veja como fazer o chá&nbsp;&nbsp;UOLJabuticaba: benefícios, safra, como higienizar e receitas | Paladar&nbsp;&nbsp;EstadãoJabuticaba: o que a casca escura dessa fruta tão comum pode oferecer para o seu coração&nbsp;&nbsp;Tua SaúdeEstudo revela que casca de jabuticaba reduz glicose e inflamações; veja receita&nbsp;&nbsp;TVBV ONLINEÉpoca da jabuticaba já começou; conheça os benefícios e onde comprar na Capital&nbsp;&nbsp;Enfoque MS",
       "sources": [
         {
           "name": "UOL",
@@ -237,7 +201,7 @@
       "id": "d994b4ef3860",
       "title": "Lúcia Helena: Dormir pouco compromete a longevidade, mas dormir demais também faz mal - UOL",
       "published": "2026-09-24T22:02:37+00:00",
-      "summary": "Lúcia Helena: Dormir pouco compromete a longevidade, mas dormir demais também faz mal&nbsp;&nbsp;UOLSono ruim aumenta risco de infarto antes dos 40 anos&nbsp;&nbsp;Campo Grande NewsDormir mal afeta o corpo e a mente: conheça 6 impactos da insônia&nbsp;&nbsp;CartaCapitalNoite virada: o que fazer para \"sobreviver\" no trabalho depois de uma crise de insônia&nbsp;&nbsp;CNN BrasilDormir pouco ou demais compromete a longevidade, segundo a ciência do sono&nbsp;&nbsp;Rádio Itatiaia",
+      "summary": "Lúcia Helena: Dormir pouco compromete a longevidade, mas dormir demais também faz mal&nbsp;&nbsp;UOLSono ruim aumenta risco de infarto antes dos 40 anos&nbsp;&nbsp;Campo Grande NewsDormir mal afeta o corpo e a mente: conheça 6 impactos da insônia&nbsp;&nbsp;CartaCapitalNoite virada: o que fazer para \"sobreviver\" no trabalho depois de uma crise de insônia&nbsp;&nbsp;CNN BrasilDormir pouco ou demais compromete a longevidade, segundo a ciência do sono&nbsp;&nbsp;itatiaia.com.br",
       "sources": [
         {
           "name": "UOL",
@@ -258,38 +222,14 @@
       ]
     },
     {
-      "id": "16467a381e55",
-      "title": "Revendo os Dados: Vitamina D - Medscape",
+      "id": "f2cb14c985e2",
+      "title": "Revendo os Dados: Vitamina D - portugues.medscape.com",
       "published": "2026-09-24T01:42:41+00:00",
-      "summary": "Revendo os Dados: Vitamina D&nbsp;&nbsp;MedscapeVitamina D pode reduzir o risco de demência, aponta estudo&nbsp;&nbsp;Jornal O SulVitamina D: novas diretrizes mostram quem realmente precisa suplementar&nbsp;&nbsp;tuasaude.comProtetor solar bloqueia realmente a vitamina D? O que dizem os médicos&nbsp;&nbsp;Estado de MinasA falta de vitamina D nem sempre é só falta de sol: o intestino também conta&nbsp;&nbsp;tuasaude.com",
+      "summary": "Revendo os Dados: Vitamina D&nbsp;&nbsp;portugues.medscape.comVitamina D pode reduzir o risco de demência, aponta estudo&nbsp;&nbsp;Jornal O SulVitamina D: novas diretrizes mostram quem realmente precisa suplementar&nbsp;&nbsp;Tua SaúdeProtetor solar bloqueia realmente a vitamina D? O que dizem os médicos&nbsp;&nbsp;Estado de MinasA falta de vitamina D nem sempre é só falta de sol: o intestino também conta&nbsp;&nbsp;Tua Saúde",
       "sources": [
         {
-          "name": "Medscape",
+          "name": "portugues.medscape.com",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdkdNX01ONHVRZ0JIdDZZQXhzT3l5Q3B6Zmt0cGdVMWJwZFVyLVR3NFpsVmhiQkFBdkpNX3ZnWWU4LUg5S3laTjZGZWNEbUVLMWJrLWl3cWZLVjRwaEdJSURLXzkyVGVIUVBmLWJwand3d1ZRbG9Pd1NrdElTdkJMVXRIRGFmZkU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "907478283183",
-      "title": "Câncer de pulmão exige cuidado além da prevenção - Estadão",
-      "published": "2026-09-22T07:00:00+00:00",
-      "summary": "Câncer de pulmão exige cuidado além da prevenção&nbsp;&nbsp;EstadãoOs novos alvos e possibilidades no tratamento do câncer de pulmão&nbsp;&nbsp;Poder360Avanços no tratamento do câncer de pulmão em 2026 - parte 2&nbsp;&nbsp;Estado de MinasAvanços no tratamento do câncer de pulmão em 2026: inovações e perspectivas recentes&nbsp;&nbsp;Minas InformaAgência de Comunicação - Da suspeita ao tratamento do câncer de pulmão&nbsp;&nbsp;Estadão Blue Studio",
-      "sources": [
-        {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMjN1NFEydDVJZm5rNWY1anVaUHhZdENKMUNra0VtMzVNMFJiempFYXozN3FFaE4zNHNCeVZEbXg0T1FFWmVkX2l3Sk91dm43TnhSQ1ZRNzlzUlhZb3VqajQ2dkVrSmlCd1NGdkk4a05wUjB5Q0w5VG94cGxtUmtERDZkY3Z6OGVRczFBbGhyVWVuQVHSAZgBQVVfeXFMT3VjR0QzdkRzQkRhWmNQZVpZSllWSlEyLU5QRUltcTlMQ0Njb0pjQzFsQ0xsRVp3T2ZUX3NXM1NMRXBzNERlY1dzV0NhUE05TkFGZUc3OTVwYllNcXlJTEJaWHd2U2ZaU2djeUZJcHZmSkFkN3FhaGFvX3JXMWxqYXpNNEIwYmZZaWZPUmRUN1lVMUh1MXNSRmg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "31e4f7332a8b",
-      "title": "Menos peso, menos exercício: o dilema dos agonistas do GLP-1 - Medscape",
-      "published": "2026-09-21T12:22:23+00:00",
-      "summary": "Menos peso, menos exercício: o dilema dos agonistas do GLP-1&nbsp;&nbsp;MedscapePor que os remédios para obesidade não funcionam para todos&nbsp;&nbsp;CartaCapitalGLP-1 no desporto: como as canetas para emagrecer estão na zona cinzenta do doping&nbsp;&nbsp;Tribuna ExpressoA nova declaração científica da Endocrine Society sobre a obesidade&nbsp;&nbsp;Medscape",
-      "sources": [
-        {
-          "name": "Medscape",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQc1pjOUJ4VFNzbHdXSkg3Q1NsdzFsb0dNbW8tY09Yamo3Q1hKT2hBQkMxZzBMZk1xTmtFeEZpS3VFeEd0UDdlRjRnazAzOVMtekYyREI2S2hhZUFORkI3S003UmpHS1h1UHNZejBKT1VUWE5nTFBPMHAzM0FiUFNtZlRwSXJZcHdmMjhyT1lTbGZVZGNnNFdGck9yMnNQVDV3VEdXTVU2c1lCeVhkWW4xQzFDOXRDdw?oc=5"
         }
       ]
     }
