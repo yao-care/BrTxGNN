@@ -1,10 +1,46 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-09-26T20:45:49.854101+00:00",
-  "total_fetched": 89,
-  "unique_count": 89,
-  "health_related_count": 26,
+  "fetched_at": "2026-09-27T04:15:29.280769+00:00",
+  "total_fetched": 82,
+  "unique_count": 82,
+  "health_related_count": 23,
   "news": [
+    {
+      "id": "aa4289b9c160",
+      "title": "Primeiro sinal de rádio de planeta fora do Sistema Solar é detectado após décadas de busca - G1",
+      "published": "2026-09-26T22:23:42+00:00",
+      "summary": "Primeiro sinal de rádio de planeta fora do Sistema Solar é detectado após décadas de busca&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMkplcGkyamZQOER2T2FkOW52cHkwV0dqOU9BdldLT2dpVEJoUktVcWVkZ3JZbWVVTy1lTTFiei1Rb1B6M19PWjhZRVlhR3ZPVEZkTm9lLTRZTi1TeUsxa2FLVUE1WVhiOTl5Ync4ZkxPNW9rWGI3dFdHa3lpa2VULXdPNy13VFVhZHJrNEdkaGFoRW94UU9MNm5YT25TZ2xQX3FxV1BFSG9PTUVyNHR2aWh4eGxRRjc1X2QyRDZOT2Zydlctc2wwbVNJNnZrVDlzcmwxX19mYklZQdIB6AFBVV95cUxOSDJsTktlQW9pR0QyUThJQlJ2cV9faUd3dnRnMzhwWHItcXRTdHNUMjFpSE1JUF91WFN5Sy1vV2xILU9jUmVLdElvYkF2M1FMbHUwR0k1d3B1VExreHAtRXZlTHZ2NTluYVhMcHM1OEtjeHZmbW5HbE90MTBjcW5BUVIzUVRPRWxvV3RRbEtfdWdDNzJrcjljOUNDWG55Ui1HOFd0b3B1Q0NCZURwdUp6X2hlQzVLc1JCLVZWQ0dBbWpvNzcwSEozWUtDQzNkY0h1STBtQ1VwazFwdEo1R3BmQlFYVWJuM0p0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "098987f91f4f",
+      "title": "Por que o 'cheiro de casa limpa' pode fazer mal para você, segundo este estudo - Globo",
+      "published": "2026-09-26T21:50:00+00:00",
+      "summary": "Por que o 'cheiro de casa limpa' pode fazer mal para você, segundo este estudo&nbsp;&nbsp;Globo",
+      "sources": [
+        {
+          "name": "Globo",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWjdEazBhbl9lRnpmejRBTW81VHdza1RLdWNQb3p5VDdfZV9aWk0yNzZJR2dVN2FOaXZzLWZIdTRFVm1Ta0NkdEtBY1dwREVETThQUTdnbUkxU2c5d0UwTW9ucUdsamVrVVpxRG92MWxkSlNDNU82Ynl4MllyNmhmVXJFREpjSHlUU3FGeHFPYV9fNExPakFWcUVwWkRHa0R0Vzhic3JGWW9zQUw1dVNFZE5ybExxVzhjSVdiM3VJUFA1b21peDhOd1FkS2tENm84THfSAeABQVVfeXFMUGhPYWNwRWNGTHFJTzlISUJQb3NaenkzZWYybVFfUlRkMFJOd2doeVBnNEpyZzg4dldMcVU5dlcyaDBka25hajQ5TTBEQ01JZFYzMzlGWHYwUDJGNUZaRGl1UF9XSVluNzI4bjJOWFFSUWJTTDJLWWpfQlF3bVFEdV9QMXlqdWdvNlc1OGJCd2VLb1RWeDhSS3V6ZDlPSUdnX1ZuYmJFeWtIeGl1bEZkQ3AtTi1UZ2t3VG9YeU9Gdi1TYzRPZGpZODNvRE1HTnRNNklRelAtMGk2QnU5amt6clY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5742562c3e5f",
+      "title": "Suco verde: nutri ensina bebida que desincha e ajuda a proteger o fígado - Metrópoles",
+      "published": "2026-09-26T15:49:00+00:00",
+      "summary": "Suco verde: nutri ensina bebida que desincha e ajuda a proteger o fígado&nbsp;&nbsp;MetrópolesCouve e gengibre no liquidificador: para que serve e por que tomar&nbsp;&nbsp;EstadãoO suco verde com couve e hortelã que pode ajudar na digestão e no inchaço&nbsp;&nbsp;Diário do Centro do MundoCouve e gengibre no liquidificador: para que serve e por que beber&nbsp;&nbsp;Estadão",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcUQ4Z25EZVptMTdPTDZrM3EwWnZ3ajhPUmJVX0tjb1R1U2NTYmNoTnd6NE1pdjJDUWZlTjlRdlN1eExFOWktR0hFNnI1M1Uwd0dPcEZzeUlLUEJUb195T0NnX19yYUFJTlI3dG1tLThDLVA2YVN5cFljSy05QXpnRmZCUjYzYmVUd01QUmpKUWdnc1BwT25ObDZuYzRfbEJQVGFHMkFJMDV4MTFQZmRkRzN3?oc=5"
+        }
+      ]
+    },
     {
       "id": "934efef65a52",
       "title": "Professor de ciências precisa de formação constante, diz pesquisadora - Agência Brasil",
@@ -14,6 +50,18 @@
         {
           "name": "Agência Brasil",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaFd2TTJCR24xU1l0YU1qV0tGQ0VzRk90eTZpYXdZelp5bi1JYm56UE9FVlZ1SnJwMjllYzVzNFkxQkgwczNZN3FjTjU2TnViWU1CNUNuVk1aSFZtNFRfNXY1OTN3OTctM1RSSGFBNm9sVGJibjhvU2h5cTE3MzFBOWJiLWdyb3E4R25oWktRVkJYWW9uaFhGZUVLUnphajB2WVZCRUNrWXdmbThXWFNiN0ZfWV95aTcteFRNVlNidDBOdm9K?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3aa6e37225aa",
+      "title": "Super El Niño e ondas de calor aumentam risco de encontros com serpentes; especialista ensina como reagir - CNN Brasil",
+      "published": "2026-09-26T10:00:11+00:00",
+      "summary": "Super El Niño e ondas de calor aumentam risco de encontros com serpentes; especialista ensina como reagir&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQOW0zLVhnWkVTdzhFa0VEM1NZZ3NkenhBQVMyek5pcllUaC1mSFd1UDNwc2lRR0YwZDhGRWQ3cWVmMWo2Zk1HRWlpSnNYcHEzUExjUjZPQy1RanFnb3pMYW1GZzRkN01kd2lJZkF1TEVXRDJUYi1GdWRITzBtVUxjWnBJS2JNbENSTlpMSlFYOE00dS13dXQyd2hRQjFPc3cyMWR6UUhUc2VFSDNqUVlXWlNfLVh0VzVRWnNUTlZVeFBTVXhoaWd2M1JJNEpuYUEwVGZaaTNpR1IzZw?oc=5"
         }
       ]
     },
@@ -33,7 +81,7 @@
       "id": "fb1829b8646b",
       "title": "Osteoporose não causa dor: especialistas alertam para a importância da prevenção - extra.globo.com",
       "published": "2026-09-26T07:30:00+00:00",
-      "summary": "Osteoporose não causa dor: especialistas alertam para a importância da prevenção&nbsp;&nbsp;extra.globo.comNem só beber leite, nem tomar sol: o que realmente importa para preservar a saúde dos ossos depois dos 50&nbsp;&nbsp;Portal UAISaúde dos ossos depende de mais do que cálcio; veja cinco nutrientes importantes&nbsp;&nbsp;Jornal da FronteiraPor que encolhemos com o tempo? Ortopedista explica e faz alerta sobre osteoporose&nbsp;&nbsp;Rádio ItatiaiaSGC TV: Osteoporose: a doença silenciosa que en",
+      "summary": "Osteoporose não causa dor: especialistas alertam para a importância da prevenção&nbsp;&nbsp;extra.globo.comNem só beber leite, nem tomar sol: o que realmente importa para preservar a saúde dos ossos depois dos 50&nbsp;&nbsp;Portal UAIPor que encolhemos com o tempo? Ortopedista explica e faz alerta sobre osteoporose&nbsp;&nbsp;Rádio ItatiaiaSGC TV: Osteoporose: a doença silenciosa que enfraquece os ossos e aumenta o risco de fraturas&nbsp;&nbsp;Portal SGCSaúde dos ossos depende de mais do que cál",
       "sources": [
         {
           "name": "extra.globo.com",
@@ -57,7 +105,7 @@
       "id": "a529f446b80b",
       "title": "Câncer de endométrio: estudo do INCA identifica marcador ligado ao risco de recorrência - G1",
       "published": "2026-09-26T07:00:00+00:00",
-      "summary": "Câncer de endométrio: estudo do INCA identifica marcador ligado ao risco de recorrência&nbsp;&nbsp;G1Perspectivas para o tratamento do câncer de endométrio no Brasil&nbsp;&nbsp;Folha de S.PauloEspecialista tira dúvidas sobre cânceres ginecológicos no jornal da EPTV&nbsp;&nbsp;G1Estilo de vida saudável e vacinas podem erradicar câncer ginecológico&nbsp;&nbsp;Senado FederalParaná deve registrar mais de 2 mil novos casos de câncer de útero e ovário em 2026&nbsp;&nbsp;Bem Paraná",
+      "summary": "Câncer de endométrio: estudo do INCA identifica marcador ligado ao risco de recorrência&nbsp;&nbsp;G1Perspectivas para o tratamento do câncer de endométrio no Brasil&nbsp;&nbsp;Folha de S.PauloEspecialista tira dúvidas sobre cânceres ginecológicos no jornal da EPTV&nbsp;&nbsp;G1Estilo de vida saudável e vacinas podem erradicar câncer ginecológico&nbsp;&nbsp;SenadoParaná deve registrar mais de 2 mil novos casos de câncer de útero e ovário em 2026&nbsp;&nbsp;Bem Paraná",
       "sources": [
         {
           "name": "G1",
@@ -78,6 +126,18 @@
       ]
     },
     {
+      "id": "d5995c09f150",
+      "title": "Família faz arrecadação para comprar medicamento para homem com esclerose múltipla - Riomafra Mix",
+      "published": "2026-09-25T20:41:21+00:00",
+      "summary": "Família faz arrecadação para comprar medicamento para homem com esclerose múltipla&nbsp;&nbsp;Riomafra Mix",
+      "sources": [
+        {
+          "name": "Riomafra Mix",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZWtaa2lfQlNnR1pRaE54VjZBbmRNdkE4cnRWblBsNXh6Z3k2MmJVODhpUkFHNExZY3lNWUotZDFySXZ6SHRTanFZdjhUdGVpN3NCaWZfZGRkWHMwYjFRcEo4WmdnVENVYk9JWlV1OENySmFaNEJ6cjk1RnkyMGItdlc3dzVaUDRkQ0ZMZWtNd19kV2V4ZFBoLTA4VHd0VnhqNDBXeEU1eVA3MUlRT1BNMjh6OXhtdFFHWUJYcmxhWmZHQXJ5YnFz?oc=5"
+        }
+      ]
+    },
+    {
       "id": "fae26b886fc0",
       "title": "Estudo: pilotos e comissários morrem mais de câncer ligado à radiação - UOL",
       "published": "2026-09-25T17:37:42+00:00",
@@ -90,22 +150,10 @@
       ]
     },
     {
-      "id": "dedccae52aee",
-      "title": "Especialistas defendem tratamento da obesidade focado na atividade física, sono de qualidade e ingestão adequada de proteínas - Tribuna do Norte",
-      "published": "2026-09-25T16:46:56+00:00",
-      "summary": "Especialistas defendem tratamento da obesidade focado na atividade física, sono de qualidade e ingestão adequada de proteínas&nbsp;&nbsp;Tribuna do Norte",
-      "sources": [
-        {
-          "name": "Tribuna do Norte",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPY2Yyd3lHaUtpVU1TZE1KQVF3SVJTUXRkWjRvd0tUWnluMkxtSEZXQWlFVmMxR3A1QzFuaVZfaXIxSTZVbVN2MlpSM3pJN0wxakdUMFdSM21MTDRZcEFrRmRtbFZRNVhzYms3b3RqM0ZsajZlSzRCdnAyWlphbGVCbjlnX0cwZlVKcDB1ZlRLQWtWbUJiSDBNcS1HOVlUTGVtWlAyNmFELXpTZVhEaWNpdzh2TmUxc0ZXNVBSUFZpR2p2MmN1eWxJNVpYLXRQRWlUd0diUFEwS0tDZ1F2YXlEVldjUmQ4NkZCaEtLMVpfa0VUV3Q0?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1f1c3e2ff3f0",
       "title": "Terapia hormonal na menopausa: dose e via de administração determinam risco de trombose - Medscape",
       "published": "2026-09-25T16:24:46+00:00",
-      "summary": "Terapia hormonal na menopausa: dose e via de administração determinam risco de trombose&nbsp;&nbsp;MedscapeMenopausa: terapia hormonal é segura? Entenda os riscos&nbsp;&nbsp;TerraTerapia hormonal na menopausa é perigosa? Especialista explica&nbsp;&nbsp;iG DelasJá teve trombose e pensa em fazer reposição hormonal? Esse histórico muda a conversa com o médico&nbsp;&nbsp;Tua SaúdeSuplementos para Menopausa: Guia de Segurança para Fogachos&nbsp;&nbsp;Kantesti AI Blood Test Analyzer",
+      "summary": "Terapia hormonal na menopausa: dose e via de administração determinam risco de trombose&nbsp;&nbsp;MedscapeMenopausa: terapia hormonal é segura? Entenda os riscos&nbsp;&nbsp;TerraTerapia hormonal na menopausa é perigosa? Especialista explica&nbsp;&nbsp;iG DelasJá teve trombose e pensa em fazer reposição hormonal? Esse histórico muda a conversa com o médico&nbsp;&nbsp;tuasaude.comSuplementos para Menopausa: Guia de Segurança para Fogachos&nbsp;&nbsp;Kantesti AI Blood Test Analyzer",
       "sources": [
         {
           "name": "Medscape",
@@ -126,18 +174,6 @@
       ]
     },
     {
-      "id": "cba59f8d4c21",
-      "title": "Cientistas descobrem rota 'impossível' nas células que pode tornar células cancerosas mais vulneráveis - Época Negócios",
-      "published": "2026-09-25T13:02:42+00:00",
-      "summary": "Cientistas descobrem rota 'impossível' nas células que pode tornar células cancerosas mais vulneráveis&nbsp;&nbsp;Época Negócios",
-      "sources": [
-        {
-          "name": "Época Negócios",
-          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNNFpOaUd6RVVrenA0MmVDVDM4a1JfZXF5c1drMy1nc0ZIZWRzXzNBSjd5bDk1MjExbnRhYXdVTkl1UkhQcTFGcmVkZ0dhVXNJWmpzQ25oeUhWSzhsUE1Yem95blRCc2tZdWo0Vm9WM1VBNmpLRVpYb0k5TnNvNXU3SERfdnF2cjhaWTdsR2ZkSndqQWctLUctUFpYT3VjZm5jN3VNbTI4QUllaVg5T2dXRUF4RmZCNkdlZnZmZnF0Y2c3WWlFaFhYQmowYmZIOTBTdl9kWDdyb2R3TjhjNnNla0dfV0NTMFdnVWhCc1RnTTI3WGwtRFFHSDFQd3U0eEXSAY4CQVVfeXFMUGw3MHVWSjNSNUhReUlhbUsxbHY5VjZ5UXpIN0hxQXRXR0tEcm5aSW5iQ1hOZVNoNHdCaDNaNjhpRjUtVjU1ZENvTUZ2SVBpNXBfTUxtMnNGRXlBYno4RERyeVJVYk42TnVZaWJFSUVVMVV0X09RMk1DbzBQVGNuUmhSRG0tcER6QXRMclp2TWFZSFp6WVlkTk9LZTB1NmJ3cnk1QmZ2WDVzeWtEb0FwTllaT19FUXhjOGU2WnlwaVZHcWdQSTR6V1RHNmE2eTRGRDJ1cUtmWFN1azBWdW9ST2RRYmQyYUVkUWdLUnpUNEJVNXY1WTRJT19RSHVMRzJISWQ4blE2YWJDVHFHMHlB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a542b4f1f8ff",
       "title": "Estudo brasileiro mostra como ondas gravitacionais podem desvendar a expansão do Universo - www.gov.br",
       "published": "2026-09-25T11:37:00+00:00",
@@ -153,7 +189,7 @@
       "id": "2d651aaff444",
       "title": "Casca de jabuticaba reduz glicose e inflamações; veja como fazer o chá - UOL",
       "published": "2026-09-25T08:30:00+00:00",
-      "summary": "Casca de jabuticaba reduz glicose e inflamações; veja como fazer o chá&nbsp;&nbsp;UOLJabuticaba: benefícios, safra, como higienizar e receitas | Paladar&nbsp;&nbsp;EstadãoEsqueça a uva: essa fruta de casca escura e polpa clara adocicada lembra uma bala natural cheia de antioxidantes&nbsp;&nbsp;Tua SaúdeEstudo revela que casca de jabuticaba reduz glicose e inflamações; veja receita&nbsp;&nbsp;TVBV ONLINEJabuticaba: o que a casca escura dessa fruta tão comum pode oferecer para o seu coração&nbsp;&",
+      "summary": "Casca de jabuticaba reduz glicose e inflamações; veja como fazer o chá&nbsp;&nbsp;UOLJabuticaba: benefícios, safra, como higienizar e receitas | Paladar&nbsp;&nbsp;EstadãoJabuticaba: o que a casca escura dessa fruta tão comum pode oferecer para o seu coração&nbsp;&nbsp;tuasaude.comEstudo revela que casca de jabuticaba reduz glicose e inflamações; veja receita&nbsp;&nbsp;TVBV ONLINEÉpoca da jabuticaba já começou; conheça os benefícios e onde comprar na Capital&nbsp;&nbsp;Enfoque MS",
       "sources": [
         {
           "name": "UOL",
@@ -162,22 +198,10 @@
       ]
     },
     {
-      "id": "aa6013d0db82",
-      "title": "Pesquisadores usam 'botão de volume' para tratar doenças ligando ou desligando trechos de DNA - G1",
-      "published": "2026-09-25T07:00:00+00:00",
-      "summary": "Pesquisadores usam 'botão de volume' para tratar doenças ligando ou desligando trechos de DNA&nbsp;&nbsp;G1Pesquisador gaúcho participa de estudo que pode revolucionar tratamento de doenças raras&nbsp;&nbsp;GZHCirurgia no DNA: a edição genômica deixou de ser ficção&nbsp;&nbsp;MedscapeCurando o código do corpo: terapia de RNA surpreende e melhora primeiro caso de ELA&nbsp;&nbsp;bra1.com.brPaciente com tipo raro de esclerose mantém movimentos e segue trabalhando um ano após tratamento com medicame",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPODNYeXdsUTJyZndKSFVoeDJ5RDBzYXRiVGdJSzJpek9mbU5jSEdZdklLaGF2dkdDNWNvNUlEQU5zUmlocThZcW1VcXdBQ3dabTMySC16RWYwRDUyOG1CZWliTTJHQmJsVXVOckFYMG05Qnd4dHdhdGo4MWdZSm1SOVdmMkJaV3ZxeXppMXA4am5CaU5sU0RmRmw4MVZjLXh1aC1RZ2l0b1dSRVF0UEJyRVFwWlhvZ3F6OTJ5VlBYNkdBd0k0QUxGMC0wQjAtN3FtLVNVQm4xXzA3OGJHaHhNbVZn0gHwAUFVX3lxTE11TWdOaUtKZ3RlLWtRNHRZX19zRTlpdUZPczRQTU9Kdld4dDh1N1ZreW1vbnJuOWh5LUZlV1hyVDhvS0E1bVg4Tmltd0V1ZFZpX1VGZXdGS3NPelVKSE96RkVEVldXbVJUT0xMYVpNLWNxeFJ3TzNJeURJUmxMSkpRY1g0c3gwcnZLaFBYRTlNaVIzc2gyenJfVXU1ZUg5UjhQVHh0SjIxdVNjamFUZDlUMzdzNjRNS2x1TndyWkw4TUQ4bVZ2TjZDQ2FfRXowNzl2TU1ONWl2RUdsYjAxSm9OZVNTa2RXVjV4WFRZbXZTZA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3433ba4e9fc1",
       "title": "Canetas emagrecedoras mudam consumo e abrem novo mercado para o agro - CNN Brasil",
       "published": "2026-09-25T06:42:02+00:00",
-      "summary": "Canetas emagrecedoras mudam consumo e abrem novo mercado para o agro&nbsp;&nbsp;CNN BrasilSente que é a única a não usar as canetinhas para emagrecer? Conheça quem escolheu ficar sem elas&nbsp;&nbsp;O GLOBOVivemos a 2ª ‘epidemia de queda de cabelo’, avaliam dermatologistas; descubra o motivo&nbsp;&nbsp;EstadãoO avanço das canetas emagrecedoras e os riscos do uso banalizado&nbsp;&nbsp;Revista OestePor Que Não Adianta Usar Canetas para Emagrecer sem Mudar o Estilo de Vida&nbsp;&nbsp;Forbes Brasil",
+      "summary": "Canetas emagrecedoras mudam consumo e abrem novo mercado para o agro&nbsp;&nbsp;CNN BrasilSente que é a única a não usar as canetinhas para emagrecer? Conheça quem escolheu ficar sem elas&nbsp;&nbsp;O GLOBOPor Que Não Adianta Usar Canetas para Emagrecer sem Mudar o Estilo de Vida&nbsp;&nbsp;Forbes BrasilVivemos a 2ª ‘epidemia de queda de cabelo’, avaliam dermatologistas; descubra o motivo&nbsp;&nbsp;EstadãoO avanço das canetas emagrecedoras e os riscos do uso banalizado&nbsp;&nbsp;Revista Oeste",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -186,74 +210,14 @@
       ]
     },
     {
-      "id": "a4dd6f7be369",
-      "title": "Estresse no trabalho pode elevar em até 10 vezes o risco de disfunção erétil, aponta estudo - G1",
-      "published": "2026-09-25T06:00:00+00:00",
-      "summary": "Estresse no trabalho pode elevar em até 10 vezes o risco de disfunção erétil, aponta estudo&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQ0VDTmR6NV9TOFRPY3RXR204ZWJLVy02WjRFRUZGT3FYUV9ZOTB6WGJubnlJREVGQmFPU3dCQ0txWDlaMjZicGYxUjFlek9YSXgxek9oaWYzcVN5ZF9MRXpXczA3VnA5b0FvdDhJZ1FJTXF4cENpU3N5V2tCcGpkSjRsbWNIVVZXYWVyMVpXQnJ3WDUxTGhYU1QyU2FLTHNhMlRpcVRfNnhvdnV6cUFxWmtHTFNoM2FfTGhsVjZza3ZBX3lZWG5DYm43TklfT3ptRGdibjBTMWZYUdIB6AFBVV95cUxPLTh6aXBxUzVvbVRSUDVNQ3RxeGR2TDFGQ183WW9qTGV0OHVhd0s4TDZlQ0ZxemRQVkFrSW9fbEh2aEc0aDNmUXctQ0V1cjhKcXBtSlAtbjZYUEZlcVFlX1R1ZnNHXy13SGxtaDdBNlJxOEJnQTBYYXNxc2UyT1ROazZ0X0FrUlE0TVBKQVQwTzVJZmtBcUJRMU5qYVNSR1FDaU9qQk4wLWx2aGN1c09ZbjdQaXRrMGZId0NGaFU2M010YjBWeUVlZG5EN01UcG1wdDB0ZTA2TkhtVkY1VGNhN0tFUnJwSXc3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "886c4f1c91a5",
-      "title": "Por que Virginia recebeu 31 aplicações de botox na cabeça? Neurologista explica tratamento para enxaqueca - gshow.globo.com",
-      "published": "2026-09-25T03:00:01+00:00",
-      "summary": "Por que Virginia recebeu 31 aplicações de botox na cabeça? Neurologista explica tratamento para enxaqueca&nbsp;&nbsp;gshow.globo.com",
-      "sources": [
-        {
-          "name": "gshow.globo.com",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPc3ZsVHN4Ny1QRkxzWm92QklSYzBMa1JJRmJ2ZHBNZldYRmVHTmpmZXNMYmlpNXRYU0NuMjA0X2IzLVFmVlYtR0VLZU9PR3l3ZUJ3X2xGOVVyVzlJMGcyTFBndHhHWnNxNktsUXNJQi1PeTd0a0xkTUdKRzVrWHNaT2VNTkpwMVktb0hWOE9DRHNEY3VwbjFxaXdIakRtd2l3dnZCTzZJcGhZQjJjOUVSVS1ESjhWUlVLVUFBVDlJaWdMeVloY3lMV0NodU9GTEdnX01WVGJNNWp2NWZYNFhqanFfeUh6eWhGeWZsNVZEM2pRaHhs0gGDAkFVX3lxTFBydjNJMldLQk5BTS1pbWdyalpGRW1USjdQdmlaa0RpZk1GWUIwakk5SGp3WkRFbFhKUlhxN1lEZllqSmxITWVaSlUzanh1YWg4cnVHaWM0N1VNVlp2VDRHd1owbFZQanV3c0pFMnpoczFESHluNE13V0lzRWhoVTl6YjdoZU9JZjEyMVpWVVdSZWhMRVhaSENMUGRSeFM0NnB5ZXpHYl95YTYtQnZHU3lienc1eWZ2WDNLY0lLVW54TTMwMHBBZWJRbWdKR0huZUYyS1ZmTDJXaVBCTncwODN6dks5SUJ0SUVfbU5uLWVjc2FGeTNxdDU4MnBaRktmekxwV3M?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f8672557f9f4",
-      "title": "Brasileiros se sentem mais saudáveis do que são, diz pesquisa - Agência Brasil",
-      "published": "2026-09-24T23:52:00+00:00",
-      "summary": "Brasileiros se sentem mais saudáveis do que são, diz pesquisa&nbsp;&nbsp;Agência Brasil",
-      "sources": [
-        {
-          "name": "Agência Brasil",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVVlweVowemVJYUxTb1Vzd0tXQmt4UzUwYVJXNWpMNEVZMGNRc05lNjMzbVliRlBZS0FpdDBNV2k4WFB1QnFxSE1odDNjc1VNS3dZX21LQW9ZeUtBVnBHaGY1bURsTmJqUmhaS255a0p6aEhuYkVpN2RvaFNoQzNITTRYQlZNaGtSOU9XSGt0WlRBb0hsNko0dzE0ZEg5dzZPV05hc3Z6NzJSMkxnNDZqNWtXV3ZRQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6587bdd1a256",
-      "title": "FAPERJ lança editais para pesquisas sobre obesidade e envelhecimento saudável - FAPERJ",
-      "published": "2026-09-24T22:58:57+00:00",
-      "summary": "FAPERJ lança editais para pesquisas sobre obesidade e envelhecimento saudável&nbsp;&nbsp;FAPERJ",
-      "sources": [
-        {
-          "name": "FAPERJ",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9LQ2ZsSnBIQ1I5ay1RMUREQldyOEdwVmc5R3p4ZGxxUXA4MGxUQWRkc1VYQUtpOUY0VElISm9qbWNJNFMyVkdNaWFB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d994b4ef3860",
       "title": "Lúcia Helena: Dormir pouco compromete a longevidade, mas dormir demais também faz mal - UOL",
       "published": "2026-09-24T22:02:37+00:00",
-      "summary": "Lúcia Helena: Dormir pouco compromete a longevidade, mas dormir demais também faz mal&nbsp;&nbsp;UOLSono ruim aumenta risco de infarto antes dos 40 anos&nbsp;&nbsp;Campo Grande NewsDormir mal afeta o corpo e a mente: conheça 6 impactos da insônia&nbsp;&nbsp;CartaCapitalNoite virada: o que fazer para \"sobreviver\" no trabalho depois de uma crise de insônia&nbsp;&nbsp;CNN BrasilDuas horas a mais de sono já ajudam a reverter parte dos danos de uma noite ruim&nbsp;&nbsp;Tua Saúde",
+      "summary": "Lúcia Helena: Dormir pouco compromete a longevidade, mas dormir demais também faz mal&nbsp;&nbsp;UOLSono ruim aumenta risco de infarto antes dos 40 anos&nbsp;&nbsp;Campo Grande NewsDormir mal afeta o corpo e a mente: conheça 6 impactos da insônia&nbsp;&nbsp;cartacapital.com.brNoite virada: o que fazer para \"sobreviver\" no trabalho depois de uma crise de insônia&nbsp;&nbsp;CNN BrasilDormir pouco ou demais compromete a longevidade, segundo a ciência do sono&nbsp;&nbsp;Rádio Itatiaia",
       "sources": [
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOHdpcDJ3VEtoaEZ2QzN0Qzc1RVFBRGw0MTdoSFI1bmJad0xhdHdId09TQUxQaG9SYmFLVDdhQkt5MU11U0I1UTVCQkFQSm1mMFZCbS0tdWhjdTRkdFdWdl8tZjdwZjNOdDFFMEpmbnVKNUNFNWxxM0h0cW5XZU0xT0FvSlFYRmV6cGZkTnRXSUkzallvaGc4Z3FOQ0pqaGZTOTN3T1djX1FEZGlrblh5SlZvYkU1V2NSTWhhZ0JKRFVtYjlXRldGbEFDT2NYQU1HZUxV?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fb6bea096cbd",
-      "title": "ANSN emite primeira autorização para operação de depósito intermediário de rejeitos radioativos - www.gov.br",
-      "published": "2026-09-24T20:44:00+00:00",
-      "summary": "ANSN emite primeira autorização para operação de depósito intermediário de rejeitos radioativos&nbsp;&nbsp;www.gov.br",
-      "sources": [
-        {
-          "name": "www.gov.br",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOM2pfT0dHdDJOeHp6dlRmZlRoakh5ZkZ5c0VuOXk1d0wzQ2RDQlFNMjVQXzVwTGhCYW5FSFFBWVlXU202ZENuV1VQZWt6bzFSRkN6eWRZTVI1bHVyRC1HdjNyLWJJNXRMMlo0S2N0b1Fyb0pEMlppMHRUQUJoMWJKdnRrMFRrb2hJMU5kNUtHTk53NEYtSlNBc09nZWE2dWFsYlV4aGVKeDVoYWJDMVFjUV9uZXdaaGhNM0V6akNfRDZ3UUxWOGpoUnkwWi1TekhXcFZJYUJWY3ExTE1tSHdaZ19R?oc=5"
         }
       ]
     },
@@ -273,7 +237,7 @@
       "id": "16467a381e55",
       "title": "Revendo os Dados: Vitamina D - Medscape",
       "published": "2026-09-24T01:42:41+00:00",
-      "summary": "Revendo os Dados: Vitamina D&nbsp;&nbsp;MedscapeVitamina D: a chave da vitalidade para todo o organismo&nbsp;&nbsp;Correio BrazilienseVitamina D pode reduzir o risco de demência, aponta estudo&nbsp;&nbsp;Jornal O SulVitamina D: novas diretrizes mostram quem realmente precisa suplementar&nbsp;&nbsp;Tua SaúdeProtetor solar bloqueia realmente a vitamina D? O que dizem os médicos&nbsp;&nbsp;Estado de Minas",
+      "summary": "Revendo os Dados: Vitamina D&nbsp;&nbsp;MedscapeVitamina D: a chave da vitalidade para todo o organismo&nbsp;&nbsp;Correio BrazilienseVitamina D pode reduzir o risco de demência, aponta estudo&nbsp;&nbsp;Jornal O SulVitamina D: novas diretrizes mostram quem realmente precisa suplementar&nbsp;&nbsp;tuasaude.comProtetor solar bloqueia realmente a vitamina D? O que dizem os médicos&nbsp;&nbsp;Estado de Minas",
       "sources": [
         {
           "name": "Medscape",
@@ -282,13 +246,13 @@
       ]
     },
     {
-      "id": "d2dbf8d041f6",
-      "title": "Infarto silencioso: 5 sinais que podem passar despercebidos - dol.com.br",
+      "id": "f23e4bdeba15",
+      "title": "Infarto silencioso: 5 sinais que podem passar despercebidos - DOL",
       "published": "2026-09-23T18:48:41+00:00",
-      "summary": "Infarto silencioso: 5 sinais que podem passar despercebidos&nbsp;&nbsp;dol.com.brO coração não espera; saiba reconhecer os riscos e sinais das doenças cardiovasculares&nbsp;&nbsp;EstadãoAção de saúde em Botucatu oferece eletrocardiograma gratuito na Praça do Bosque&nbsp;&nbsp;G1Campanha do Dia Mundial do Coração oferece exames gratuitos na Rodoviária de Ribeirão Preto&nbsp;&nbsp;Jornal da USPDia Mundial do Coração: 7 sintomas que pedem avaliação médica rápida&nbsp;&nbsp;JC",
+      "summary": "Infarto silencioso: 5 sinais que podem passar despercebidos&nbsp;&nbsp;DOLO coração não espera; saiba reconhecer os riscos e sinais das doenças cardiovasculares&nbsp;&nbsp;EstadãoAção de saúde em Botucatu oferece eletrocardiograma gratuito na Praça do Bosque&nbsp;&nbsp;G1Campanha do Dia Mundial do Coração oferece exames gratuitos na Rodoviária de Ribeirão Preto&nbsp;&nbsp;Jornal da USPDia Mundial do Coração: 7 sintomas que pedem avaliação médica rápida&nbsp;&nbsp;JC",
       "sources": [
         {
-          "name": "dol.com.br",
+          "name": "DOL",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNk9XWEctNllNRnFLWUloZU8yTjVib214dUZLVHYtY3E0LUdfS2tVbVRrVW12QkUtNFNiSXd5a3FjRWw4T1lmSXRwM1M4UElpeWpfLS04SVJKNG91ek9PU2xGR2pyMURlTWxYVFZZM0Y3RE9paFFCUkxuU3llNWhROGRlRHlITUhEMlBUc2pTUEx4Vmpac2hWZ1NneE12d3hyTGMwdNIBrAFBVV95cUxOZEE3czdjOHloNTFFcnJJaTdRUVY4N0RUVGZBZEJsaHNxMEhTdEtyMmY5dWNMV1E3SHRpWThlS2hJZVUxaUR1X0EzVDhLLUwzbE4zY3l2Nl9ZN0hiVVBWY01rd1lHajZMQkFTMmV2S1lGOWxzY092bEtselBpWl9HWDFEYk1hRFJUd19qV3dWdm1obkM2R1hLaW9Heldna1o0OTBmTGVhQ29mdG9o?oc=5"
         }
       ]
@@ -309,7 +273,7 @@
       "id": "31e4f7332a8b",
       "title": "Menos peso, menos exercício: o dilema dos agonistas do GLP-1 - Medscape",
       "published": "2026-09-21T12:22:23+00:00",
-      "summary": "Menos peso, menos exercício: o dilema dos agonistas do GLP-1&nbsp;&nbsp;MedscapePor que os remédios para obesidade não funcionam para todos&nbsp;&nbsp;CartaCapitalGLP-1 no desporto: como as canetas para emagrecer estão na zona cinzenta do doping&nbsp;&nbsp;Tribuna ExpressoA nova declaração científica da Endocrine Society sobre a obesidade&nbsp;&nbsp;Medscape",
+      "summary": "Menos peso, menos exercício: o dilema dos agonistas do GLP-1&nbsp;&nbsp;MedscapePor que os remédios para obesidade não funcionam para todos&nbsp;&nbsp;cartacapital.com.brGLP-1 no desporto: como as canetas para emagrecer estão na zona cinzenta do doping&nbsp;&nbsp;Tribuna ExpressoA nova declaração científica da Endocrine Society sobre a obesidade&nbsp;&nbsp;Medscape",
       "sources": [
         {
           "name": "Medscape",
