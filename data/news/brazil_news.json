@@ -1,10 +1,34 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-09-27T04:15:29.280769+00:00",
+  "fetched_at": "2026-09-27T11:37:10.485296+00:00",
   "total_fetched": 82,
   "unique_count": 82,
-  "health_related_count": 23,
+  "health_related_count": 24,
   "news": [
+    {
+      "id": "62b32091fb5a",
+      "title": "A psicologia aponta que quem cumprimenta as pessoas ao entrar no elevador, mesmo sem conhecê-las, não está apenas sendo educado, mas reduzindo a tensão de espaços fechados e compartilhados - Super Rádio Tupi",
+      "published": "2026-09-27T08:50:53+00:00",
+      "summary": "A psicologia aponta que quem cumprimenta as pessoas ao entrar no elevador, mesmo sem conhecê-las, não está apenas sendo educado, mas reduzindo a tensão de espaços fechados e compartilhados&nbsp;&nbsp;Super Rádio Tupi",
+      "sources": [
+        {
+          "name": "Super Rádio Tupi",
+          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNanVhdEF4VlNMVWRwV3lfWTZiSVQxdUk4TzhsNzVhUVppLWUxMHRjN0R1OEVrNy1kYXlZQUZIc3RWUlJKR0NKLWUyMzFRekN4YXBIU0FhWXE4bmt5NHZLTl9HZkZJazR3OFdCSjFIbnhMNTdDUUpMMlhCejJaSkZHY1hSNk85c1dfblNiTTJfS2ExRnBIOVFGMEdYNUhwNDZUOEMtM2poTExXNzNQRXZJam4xcjNqa19jSGlPeVp4X1piQnVMQ0hVNHVXMFdQdTJrQnRLNlBwUnZCcXhhbWJIQnNIZlJ4WURuUDBfcC1keC1hYTJIcTBhajlocmVfY1Nrc2d1Qm5YV1dVYXBLX1BtbXNUUjRuZ2RheWp5bFVjRFlJaUNpR1dIbzd1UkhnNUdfN3F0VVNGREt1d2VMRGgwc1REdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3e6999f4287f",
+      "title": "\"Harvest Moon\": primeira Lua cheia da primavera chega a seu maior tamanho neste sábado - GZH",
+      "published": "2026-09-27T02:08:24+00:00",
+      "summary": "\"Harvest Moon\": primeira Lua cheia da primavera chega a seu maior tamanho neste sábado&nbsp;&nbsp;GZH",
+      "sources": [
+        {
+          "name": "GZH",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPUEc4VjlnQXJGTndOVU9Ed0J5aFptYTZpSk0wS2tUSkZHUEZlQlYtMlB2ZXFjVGVsdGFLbkl4NHM5RU1KVDY5b3AwdUdnR21EeER1TnVncmdGSnpoazhObW9Ta215MWw1TEd2NVpSRUJjR0ctbXhTNWktNTFSR19WQ1ByaUFsMG9vVzhqTGRWdkdRc0xhcEc2UTJqQTNqUkJSdTljME53X3JhYXB5R2E2X1NCX0hoTHBROFFjRXlab2hZc0tmRGN5RTZRWFY2SUcwLVZoajZMSGxVYmlhRDE0ZUMwODlvQXZWM1RMbjl3XzhoZFdoM25BX2FPRVZJelZB?oc=5"
+        }
+      ]
+    },
     {
       "id": "aa4289b9c160",
       "title": "Primeiro sinal de rádio de planeta fora do Sistema Solar é detectado após décadas de busca - G1",
@@ -30,6 +54,18 @@
       ]
     },
     {
+      "id": "e3e899e9b4ad",
+      "title": "Após anos de viagem pelo espaço, a primeira missão a alcançar Mercúrio com dois satélites finalmente chega ao destino e inicia uma nova era de descobertas - Super Rádio Tupi",
+      "published": "2026-09-26T19:50:22+00:00",
+      "summary": "Após anos de viagem pelo espaço, a primeira missão a alcançar Mercúrio com dois satélites finalmente chega ao destino e inicia uma nova era de descobertas&nbsp;&nbsp;Super Rádio Tupi",
+      "sources": [
+        {
+          "name": "Super Rádio Tupi",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQbUQzX2tOOHpMdmlNOGJZX1hvRjQ0alpSZTVLeW9oRjE2aDNvZXdVNkkxMXhuaGZwSDRjbGRkeFNpMmhuUFJCTHJQVU5Jb3Rqc2lIR3Rla1Vqcjl6TU9xNGlsdklJdFBiaHhjVjkxTmRFYjcxMFFKVGctbVpiQXFTRHVtYk9CakhZVHhiTEs3UTQ2NGJUNFBRVmpPUG1DRnhfYm5sSFU0bmVIdFpFWl9BTlJyTTVFSDFMUTR1UkpXcVRPOXNGQmd5NUV1YVhHWEF4NDFmeFBpcHRFMUk3RmFXX3hsamF6OXk5a1pSQTR1cldLT1UxR19tSENhNmxfMDMzeVdJNTF3TktEcHg1?oc=5"
+        }
+      ]
+    },
+    {
       "id": "5742562c3e5f",
       "title": "Suco verde: nutri ensina bebida que desincha e ajuda a proteger o fígado - Metrópoles",
       "published": "2026-09-26T15:49:00+00:00",
@@ -38,6 +74,18 @@
         {
           "name": "Metrópoles",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcUQ4Z25EZVptMTdPTDZrM3EwWnZ3ajhPUmJVX0tjb1R1U2NTYmNoTnd6NE1pdjJDUWZlTjlRdlN1eExFOWktR0hFNnI1M1Uwd0dPcEZzeUlLUEJUb195T0NnX19yYUFJTlI3dG1tLThDLVA2YVN5cFljSy05QXpnRmZCUjYzYmVUd01QUmpKUWdnc1BwT25ObDZuYzRfbEJQVGFHMkFJMDV4MTFQZmRkRzN3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "44037719eb2d",
+      "title": "Substância presente no inhame foi encapsulada em nanopartículas para investigar uma possível ação contra câncer - Acorda Cidade",
+      "published": "2026-09-26T13:02:00+00:00",
+      "summary": "Substância presente no inhame foi encapsulada em nanopartículas para investigar uma possível ação contra câncer&nbsp;&nbsp;Acorda Cidade",
+      "sources": [
+        {
+          "name": "Acorda Cidade",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPejhNOUcxUVVpbkJvX2pBelVnMEttZlhsdXphb0pLc0F3V2tkckt0bjRkME93YnVRVHZNMl9VYnVQTkNvaVk4Tlh1eGJHN3VyZTV6eVJ3RnBzNjE4QjBGa1hleHNnem1qRFJ3ZF9FV2ZpNnRVcFhHWXFzZGt5c2xBUWZCVWpJeGUtRzV6NEJGTVRDWVo1eDZDRFg2R2V1RXJZR1BoWFQ2czNsRXhxREdTUGdvRkRXYm0taWktYm1KVVYyWGpweWVlVHZwVmI3OHYzNEt5Ym02RURfZWJqbkF6NGM1bllJUW9YMkE?oc=5"
         }
       ]
     },
@@ -78,14 +126,14 @@
       ]
     },
     {
-      "id": "fb1829b8646b",
-      "title": "Osteoporose não causa dor: especialistas alertam para a importância da prevenção - extra.globo.com",
-      "published": "2026-09-26T07:30:00+00:00",
-      "summary": "Osteoporose não causa dor: especialistas alertam para a importância da prevenção&nbsp;&nbsp;extra.globo.comNem só beber leite, nem tomar sol: o que realmente importa para preservar a saúde dos ossos depois dos 50&nbsp;&nbsp;Portal UAIPor que encolhemos com o tempo? Ortopedista explica e faz alerta sobre osteoporose&nbsp;&nbsp;Rádio ItatiaiaSGC TV: Osteoporose: a doença silenciosa que enfraquece os ossos e aumenta o risco de fraturas&nbsp;&nbsp;Portal SGCSaúde dos ossos depende de mais do que cál",
+      "id": "6804abecc8b2",
+      "title": "Mais de 11 mil exames e consultas estão há mais de dois anos na fila da Secretaria de Saúde - Tribuna de Petrópolis",
+      "published": "2026-09-26T07:34:09+00:00",
+      "summary": "Mais de 11 mil exames e consultas estão há mais de dois anos na fila da Secretaria de Saúde&nbsp;&nbsp;Tribuna de Petrópolis",
       "sources": [
         {
-          "name": "extra.globo.com",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZW1JOHFYN0hrNW52NzQxWkRXQlJiLXZlNGJVVzFsenh6T19zX28zR2Jva3pkS1c1cDFJRmczNUJfMWVmdkxibWxrWGJFX21JMmdrLS1hUE43cDQ1dWZwQnJOdFQ1clpzNVREOXdadWcxdm1iZkhNWV95OW54T3JkUER5RktiX3VJTlZLSFFfeDZHUnB1V21zLXVoaXVUM0tqS1IxUUhTUEV6NUVoTU1uLUR4TUZXNnVJTWNFN2FDS0s1dFJXRi0yWC0wSkNwMnBiZG5mQTNKc0YxRlhs0gHrAUFVX3lxTE1Pc0RwSFBwQ2dFUDUwWDZtSUZFVi1kdXhzZC1pZmRwZmxYT1h1Mkx2WDE4em1mRURaZFd1RG52Q3d3MEJmV2lzaG5IV01BWWRxRHpCLVF3bVBuekJ4TURSU01taEdSekYtaW9ldjlpSG9aYmh1cy1lNzlIbm1sMFlYenpiTGpzRXJXUFNPc1hmSkJvZlNQQnFqUUtBNDhGMFFObDNJNFQzajMweDBDZmF6Mk9rSUsyMEs5NUI4T3ZkV3otTW11Z184cGV4Q2daMUpLR3ZYR3lia3JCLTlXWWt1dlJXeUhXbTl5cEU?oc=5"
+          "name": "Tribuna de Petrópolis",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSUVGZ0RlTEJTQW5NTVExY1pzX0VOTlpiTEJiUXBXczRXcXY4cktqS2RWZ2VSN0QyQy1xdTBvemxaXzU3eXlJZklsZjZCNzVBeWxLa0RSTk44WThneDZCdk5Rd2JVVTBadjJBbTlIQlVDRzdOYjJ0SkxkMDVwUHBGdkVBWXNFMGxsaFd5ZHRNbU13RkNkVUFYUzMwVHRsTkRDZm1panNLT0FUNUtUemRMZE5VeXUyTjQ1Y0dkQm5LYWhpUlRwR0tHSFlFYW94TkhyRlE?oc=5"
         }
       ]
     },
@@ -105,7 +153,7 @@
       "id": "a529f446b80b",
       "title": "Câncer de endométrio: estudo do INCA identifica marcador ligado ao risco de recorrência - G1",
       "published": "2026-09-26T07:00:00+00:00",
-      "summary": "Câncer de endométrio: estudo do INCA identifica marcador ligado ao risco de recorrência&nbsp;&nbsp;G1Perspectivas para o tratamento do câncer de endométrio no Brasil&nbsp;&nbsp;Folha de S.PauloEspecialista tira dúvidas sobre cânceres ginecológicos no jornal da EPTV&nbsp;&nbsp;G1Estilo de vida saudável e vacinas podem erradicar câncer ginecológico&nbsp;&nbsp;SenadoParaná deve registrar mais de 2 mil novos casos de câncer de útero e ovário em 2026&nbsp;&nbsp;Bem Paraná",
+      "summary": "Câncer de endométrio: estudo do INCA identifica marcador ligado ao risco de recorrência&nbsp;&nbsp;G1Setembro em Flor: combate aos cânceres ginecológicos&nbsp;&nbsp;O POVOEstilo de vida saudável e vacinas podem erradicar câncer ginecológico&nbsp;&nbsp;SenadoParaná deve registrar mais de 2 mil novos casos de câncer de útero e ovário em 2026&nbsp;&nbsp;Bem ParanáPara além do diagnóstico, existe uma mulher&nbsp;&nbsp;A Gazeta",
       "sources": [
         {
           "name": "G1",
@@ -126,26 +174,14 @@
       ]
     },
     {
-      "id": "d5995c09f150",
-      "title": "Família faz arrecadação para comprar medicamento para homem com esclerose múltipla - Riomafra Mix",
-      "published": "2026-09-25T20:41:21+00:00",
-      "summary": "Família faz arrecadação para comprar medicamento para homem com esclerose múltipla&nbsp;&nbsp;Riomafra Mix",
+      "id": "be071fa674c7",
+      "title": "Especialistas defendem tratamento da obesidade focado na atividade física, sono de qualidade e ingestão adequada de proteínas - tribunadonorte.com.br",
+      "published": "2026-09-25T16:46:56+00:00",
+      "summary": "Especialistas defendem tratamento da obesidade focado na atividade física, sono de qualidade e ingestão adequada de proteínas&nbsp;&nbsp;tribunadonorte.com.br",
       "sources": [
         {
-          "name": "Riomafra Mix",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZWtaa2lfQlNnR1pRaE54VjZBbmRNdkE4cnRWblBsNXh6Z3k2MmJVODhpUkFHNExZY3lNWUotZDFySXZ6SHRTanFZdjhUdGVpN3NCaWZfZGRkWHMwYjFRcEo4WmdnVENVYk9JWlV1OENySmFaNEJ6cjk1RnkyMGItdlc3dzVaUDRkQ0ZMZWtNd19kV2V4ZFBoLTA4VHd0VnhqNDBXeEU1eVA3MUlRT1BNMjh6OXhtdFFHWUJYcmxhWmZHQXJ5YnFz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fae26b886fc0",
-      "title": "Estudo: pilotos e comissários morrem mais de câncer ligado à radiação - UOL",
-      "published": "2026-09-25T17:37:42+00:00",
-      "summary": "Estudo: pilotos e comissários morrem mais de câncer ligado à radiação&nbsp;&nbsp;UOL",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMUZqdldHY2I0QWhKc1ZYc3NwVThnSDdoa2c0TmNnTDh3TjQ3NUJ6c0R6T3ZXSi00Q2tyMkYyUWJaVi1JZHM5bE1vaU81clY4TXlsWUlubU9FWnRsTm5XY0pFaUh6OU04VlJESHpwcGxBbUhnOFpmOGRwLXM4ang3VVluTXJjTm1aQ2xfdjFhNjI5M0FqNFpUT2daWS1YVG1zZGhCMk03OTBGMkxqWi1FWnotcGdqcE5YekY0NjJZMzlwYVNyQmRUdURTMDQ?oc=5"
+          "name": "tribunadonorte.com.br",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPY2Yyd3lHaUtpVU1TZE1KQVF3SVJTUXRkWjRvd0tUWnluMkxtSEZXQWlFVmMxR3A1QzFuaVZfaXIxSTZVbVN2MlpSM3pJN0wxakdUMFdSM21MTDRZcEFrRmRtbFZRNVhzYms3b3RqM0ZsajZlSzRCdnAyWlphbGVCbjlnX0cwZlVKcDB1ZlRLQWtWbUJiSDBNcS1HOVlUTGVtWlAyNmFELXpTZVhEaWNpdzh2TmUxc0ZXNVBSUFZpR2p2MmN1eWxJNVpYLXRQRWlUd0diUFEwS0tDZ1F2YXlEVldjUmQ4NkZCaEtLMVpfa0VUV3Q0?oc=5"
         }
       ]
     },
@@ -174,14 +210,14 @@
       ]
     },
     {
-      "id": "a542b4f1f8ff",
-      "title": "Estudo brasileiro mostra como ondas gravitacionais podem desvendar a expansão do Universo - www.gov.br",
-      "published": "2026-09-25T11:37:00+00:00",
-      "summary": "Estudo brasileiro mostra como ondas gravitacionais podem desvendar a expansão do Universo&nbsp;&nbsp;www.gov.br",
+      "id": "cba59f8d4c21",
+      "title": "Cientistas descobrem rota 'impossível' nas células que pode tornar células cancerosas mais vulneráveis - Época Negócios",
+      "published": "2026-09-25T13:02:42+00:00",
+      "summary": "Cientistas descobrem rota 'impossível' nas células que pode tornar células cancerosas mais vulneráveis&nbsp;&nbsp;Época Negócios",
       "sources": [
         {
-          "name": "www.gov.br",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYlgwZnJvRzZXNUJQZVRIUEcwc0RFZzlzWmZJY1JERzBlWFNPamhKZFJRMHIxczYyVzdhYWhDaUdVTEFpUVZSa3Rac1BHTExPNUhvSE01MS12dUlJTkp5Uloxdk9yTk9mdmV6R2oxMlViNjBVR0FjeFJQS052dEx2MDJsN3JNNVRNODdldkljenU0c3pHVjctMk1RNk1lVWdUUGxRYW9uUnBndFhfZ3lMeFFFOU1Nblp5Tlhmam5YeERDMFdnQ2JXT0MzSUdwM1JrOU1VQVcxek8tZFo0ekE?oc=5"
+          "name": "Época Negócios",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNNFpOaUd6RVVrenA0MmVDVDM4a1JfZXF5c1drMy1nc0ZIZWRzXzNBSjd5bDk1MjExbnRhYXdVTkl1UkhQcTFGcmVkZ0dhVXNJWmpzQ25oeUhWSzhsUE1Yem95blRCc2tZdWo0Vm9WM1VBNmpLRVpYb0k5TnNvNXU3SERfdnF2cjhaWTdsR2ZkSndqQWctLUctUFpYT3VjZm5jN3VNbTI4QUllaVg5T2dXRUF4RmZCNkdlZnZmZnF0Y2c3WWlFaFhYQmowYmZIOTBTdl9kWDdyb2R3TjhjNnNla0dfV0NTMFdnVWhCc1RnTTI3WGwtRFFHSDFQd3U0eEXSAY4CQVVfeXFMUGw3MHVWSjNSNUhReUlhbUsxbHY5VjZ5UXpIN0hxQXRXR0tEcm5aSW5iQ1hOZVNoNHdCaDNaNjhpRjUtVjU1ZENvTUZ2SVBpNXBfTUxtMnNGRXlBYno4RERyeVJVYk42TnVZaWJFSUVVMVV0X09RMk1DbzBQVGNuUmhSRG0tcER6QXRMclp2TWFZSFp6WVlkTk9LZTB1NmJ3cnk1QmZ2WDVzeWtEb0FwTllaT19FUXhjOGU2WnlwaVZHcWdQSTR6V1RHNmE2eTRGRDJ1cUtmWFN1azBWdW9ST2RRYmQyYUVkUWdLUnpUNEJVNXY1WTRJT19RSHVMRzJISWQ4blE2YWJDVHFHMHlB?oc=5"
         }
       ]
     },
@@ -189,7 +225,7 @@
       "id": "2d651aaff444",
       "title": "Casca de jabuticaba reduz glicose e inflamações; veja como fazer o chá - UOL",
       "published": "2026-09-25T08:30:00+00:00",
-      "summary": "Casca de jabuticaba reduz glicose e inflamações; veja como fazer o chá&nbsp;&nbsp;UOLJabuticaba: benefícios, safra, como higienizar e receitas | Paladar&nbsp;&nbsp;EstadãoJabuticaba: o que a casca escura dessa fruta tão comum pode oferecer para o seu coração&nbsp;&nbsp;tuasaude.comEstudo revela que casca de jabuticaba reduz glicose e inflamações; veja receita&nbsp;&nbsp;TVBV ONLINEÉpoca da jabuticaba já começou; conheça os benefícios e onde comprar na Capital&nbsp;&nbsp;Enfoque MS",
+      "summary": "Casca de jabuticaba reduz glicose e inflamações; veja como fazer o chá&nbsp;&nbsp;UOLGuia prático da jabuticaba: experts listam benefícios, cuidados e receitas infalíveis com a fruta&nbsp;&nbsp;EstadãoJabuticaba: o que a casca escura dessa fruta tão comum pode oferecer para o seu coração&nbsp;&nbsp;tuasaude.comEstudo revela que casca de jabuticaba reduz glicose e inflamações; veja receita&nbsp;&nbsp;TVBV ONLINEÉpoca da jabuticaba já começou; conheça os benefícios e onde comprar na Capital&nbsp;&",
       "sources": [
         {
           "name": "UOL",
@@ -198,22 +234,10 @@
       ]
     },
     {
-      "id": "3433ba4e9fc1",
-      "title": "Canetas emagrecedoras mudam consumo e abrem novo mercado para o agro - CNN Brasil",
-      "published": "2026-09-25T06:42:02+00:00",
-      "summary": "Canetas emagrecedoras mudam consumo e abrem novo mercado para o agro&nbsp;&nbsp;CNN BrasilSente que é a única a não usar as canetinhas para emagrecer? Conheça quem escolheu ficar sem elas&nbsp;&nbsp;O GLOBOPor Que Não Adianta Usar Canetas para Emagrecer sem Mudar o Estilo de Vida&nbsp;&nbsp;Forbes BrasilVivemos a 2ª ‘epidemia de queda de cabelo’, avaliam dermatologistas; descubra o motivo&nbsp;&nbsp;EstadãoO avanço das canetas emagrecedoras e os riscos do uso banalizado&nbsp;&nbsp;Revista Oeste",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObmNObGs4Z2pqVUdZNlFJRW9GS2ttTnBuVGxHS2owWFhIc1J6UjVaUGdlNlFfN0tFZWpOaTZRVEdDeHpOMEFicHBIOUtXYW9uLVNYR2E5N3BzM04xMzY0RlBnQlBmU3JxbjNuVFlqY1lrTmJIcXpYYnVzTDVtanFyTXdNcjJzZ3d1MHZWclFCdkZjRmlZNVBRcXlqWlAxZ250M01HU0Nn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d994b4ef3860",
       "title": "Lúcia Helena: Dormir pouco compromete a longevidade, mas dormir demais também faz mal - UOL",
       "published": "2026-09-24T22:02:37+00:00",
-      "summary": "Lúcia Helena: Dormir pouco compromete a longevidade, mas dormir demais também faz mal&nbsp;&nbsp;UOLSono ruim aumenta risco de infarto antes dos 40 anos&nbsp;&nbsp;Campo Grande NewsDormir mal afeta o corpo e a mente: conheça 6 impactos da insônia&nbsp;&nbsp;cartacapital.com.brNoite virada: o que fazer para \"sobreviver\" no trabalho depois de uma crise de insônia&nbsp;&nbsp;CNN BrasilDormir pouco ou demais compromete a longevidade, segundo a ciência do sono&nbsp;&nbsp;Rádio Itatiaia",
+      "summary": "Lúcia Helena: Dormir pouco compromete a longevidade, mas dormir demais também faz mal&nbsp;&nbsp;UOLSono ruim aumenta risco de infarto antes dos 40 anos&nbsp;&nbsp;Campo Grande NewsDormir mal afeta o corpo e a mente: conheça 6 impactos da insônia&nbsp;&nbsp;CartaCapitalNoite virada: o que fazer para \"sobreviver\" no trabalho depois de uma crise de insônia&nbsp;&nbsp;CNN BrasilDormir pouco ou demais compromete a longevidade, segundo a ciência do sono&nbsp;&nbsp;Rádio Itatiaia",
       "sources": [
         {
           "name": "UOL",
@@ -237,23 +261,11 @@
       "id": "16467a381e55",
       "title": "Revendo os Dados: Vitamina D - Medscape",
       "published": "2026-09-24T01:42:41+00:00",
-      "summary": "Revendo os Dados: Vitamina D&nbsp;&nbsp;MedscapeVitamina D: a chave da vitalidade para todo o organismo&nbsp;&nbsp;Correio BrazilienseVitamina D pode reduzir o risco de demência, aponta estudo&nbsp;&nbsp;Jornal O SulVitamina D: novas diretrizes mostram quem realmente precisa suplementar&nbsp;&nbsp;tuasaude.comProtetor solar bloqueia realmente a vitamina D? O que dizem os médicos&nbsp;&nbsp;Estado de Minas",
+      "summary": "Revendo os Dados: Vitamina D&nbsp;&nbsp;MedscapeVitamina D pode reduzir o risco de demência, aponta estudo&nbsp;&nbsp;Jornal O SulVitamina D: novas diretrizes mostram quem realmente precisa suplementar&nbsp;&nbsp;tuasaude.comProtetor solar bloqueia realmente a vitamina D? O que dizem os médicos&nbsp;&nbsp;Estado de MinasA falta de vitamina D nem sempre é só falta de sol: o intestino também conta&nbsp;&nbsp;tuasaude.com",
       "sources": [
         {
           "name": "Medscape",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdkdNX01ONHVRZ0JIdDZZQXhzT3l5Q3B6Zmt0cGdVMWJwZFVyLVR3NFpsVmhiQkFBdkpNX3ZnWWU4LUg5S3laTjZGZWNEbUVLMWJrLWl3cWZLVjRwaEdJSURLXzkyVGVIUVBmLWJwand3d1ZRbG9Pd1NrdElTdkJMVXRIRGFmZkU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f23e4bdeba15",
-      "title": "Infarto silencioso: 5 sinais que podem passar despercebidos - DOL",
-      "published": "2026-09-23T18:48:41+00:00",
-      "summary": "Infarto silencioso: 5 sinais que podem passar despercebidos&nbsp;&nbsp;DOLO coração não espera; saiba reconhecer os riscos e sinais das doenças cardiovasculares&nbsp;&nbsp;EstadãoAção de saúde em Botucatu oferece eletrocardiograma gratuito na Praça do Bosque&nbsp;&nbsp;G1Campanha do Dia Mundial do Coração oferece exames gratuitos na Rodoviária de Ribeirão Preto&nbsp;&nbsp;Jornal da USPDia Mundial do Coração: 7 sintomas que pedem avaliação médica rápida&nbsp;&nbsp;JC",
-      "sources": [
-        {
-          "name": "DOL",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNk9XWEctNllNRnFLWUloZU8yTjVib214dUZLVHYtY3E0LUdfS2tVbVRrVW12QkUtNFNiSXd5a3FjRWw4T1lmSXRwM1M4UElpeWpfLS04SVJKNG91ek9PU2xGR2pyMURlTWxYVFZZM0Y3RE9paFFCUkxuU3llNWhROGRlRHlITUhEMlBUc2pTUEx4Vmpac2hWZ1NneE12d3hyTGMwdNIBrAFBVV95cUxOZEE3czdjOHloNTFFcnJJaTdRUVY4N0RUVGZBZEJsaHNxMEhTdEtyMmY5dWNMV1E3SHRpWThlS2hJZVUxaUR1X0EzVDhLLUwzbE4zY3l2Nl9ZN0hiVVBWY01rd1lHajZMQkFTMmV2S1lGOWxzY092bEtselBpWl9HWDFEYk1hRFJUd19qV3dWdm1obkM2R1hLaW9Heldna1o0OTBmTGVhQ29mdG9o?oc=5"
         }
       ]
     },
@@ -273,7 +285,7 @@
       "id": "31e4f7332a8b",
       "title": "Menos peso, menos exercício: o dilema dos agonistas do GLP-1 - Medscape",
       "published": "2026-09-21T12:22:23+00:00",
-      "summary": "Menos peso, menos exercício: o dilema dos agonistas do GLP-1&nbsp;&nbsp;MedscapePor que os remédios para obesidade não funcionam para todos&nbsp;&nbsp;cartacapital.com.brGLP-1 no desporto: como as canetas para emagrecer estão na zona cinzenta do doping&nbsp;&nbsp;Tribuna ExpressoA nova declaração científica da Endocrine Society sobre a obesidade&nbsp;&nbsp;Medscape",
+      "summary": "Menos peso, menos exercício: o dilema dos agonistas do GLP-1&nbsp;&nbsp;MedscapePor que os remédios para obesidade não funcionam para todos&nbsp;&nbsp;CartaCapitalGLP-1 no desporto: como as canetas para emagrecer estão na zona cinzenta do doping&nbsp;&nbsp;Tribuna ExpressoA nova declaração científica da Endocrine Society sobre a obesidade&nbsp;&nbsp;Medscape",
       "sources": [
         {
           "name": "Medscape",
