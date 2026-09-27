@@ -1,18 +1,90 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-09-27T16:35:40.957582+00:00",
+  "fetched_at": "2026-09-27T21:02:03.381402+00:00",
   "total_fetched": 85,
   "unique_count": 85,
-  "health_related_count": 19,
+  "health_related_count": 23,
   "news": [
     {
-      "id": "62b32091fb5a",
-      "title": "A psicologia aponta que quem cumprimenta as pessoas ao entrar no elevador, mesmo sem conhecê-las, não está apenas sendo educado, mas reduzindo a tensão de espaços fechados e compartilhados - Super Rádio Tupi",
-      "published": "2026-09-27T08:50:53+00:00",
-      "summary": "A psicologia aponta que quem cumprimenta as pessoas ao entrar no elevador, mesmo sem conhecê-las, não está apenas sendo educado, mas reduzindo a tensão de espaços fechados e compartilhados&nbsp;&nbsp;Super Rádio Tupi",
+      "id": "f88d187277c8",
+      "title": "Uma nova espécie de aranha-do-mar com três lábios, espinhos nas patas e aspecto \"peludo\" é descoberta no Canadá - CNN Brasil",
+      "published": "2026-09-27T18:47:25+00:00",
+      "summary": "Uma nova espécie de aranha-do-mar com três lábios, espinhos nas patas e aspecto \"peludo\" é descoberta no Canadá&nbsp;&nbsp;CNN Brasil",
       "sources": [
         {
-          "name": "Super Rádio Tupi",
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRHBBeDlvWEc1OUJZbWdQQXFSRmR3QVlrYTNDalJGYWx3S21oYVhJdHlBbHppY1Q5Y2pSd0RHVzkzN3JnS01QSmRrdlliVTNLanQxaktqQXZlZ1JzamtJS3pLX2VpOEItQXV6VVFsSGtwMUJZcDlUZHdsQVRvRldFYzR5UElrZkJhcERKbkpURC1mbDF5aUtkN3I4N2xjRW5SVFRNb3FiR2tEeTZWcWRtUHh2RUQ1azhiZkpCRkJRNlF6REY5YmNyU3lUTjdKN0JzT2pXY0JtRGZWbzgtVnVv?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8921dbe911bf",
+      "title": "Noia: o que é a doença rara que pode levar à perda de visão investigada como possível efeito raro das canetas emagrecedoras pela Anvisa? - O GLOBO",
+      "published": "2026-09-27T17:39:12+00:00",
+      "summary": "Noia: o que é a doença rara que pode levar à perda de visão investigada como possível efeito raro das canetas emagrecedoras pela Anvisa?&nbsp;&nbsp;O GLOBOVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQdkFWZWw3NjhjOTJzUDRzSkxMTURUcnJsZ0NSdVlIck5XdFRJVDZrX1FNaFBIU21HLVVJZTVMU3VrX1NRNDByR3hHYnVISVZuOTVSUm5rVThBb18yNGF2T2hnVVlKVjlGOTdYM1Bia0JYUFFPbU03MHRFU3FVUnZNQlZxQm9uekF5VjUwWnBLcFh4d1VQZTNlWEZ1RnNWVWhlZTlrWHpsTkxJdk5LOEVUNWJtUjhXOWJHUWc5RzhUaU8yQnI1cl9Ud0xEaXVoMWE2QmxaVE5fWlBwMFhscnctMmtqNzVYUGdtelN4Q3FfMWxNQk5MOTQzWFNKb0lzd2Q1Wjk2TG5EYWtVbVZ4V1ZzaERuSDBYbXd5WFHSAagCQVVfeXFMT0NvQUQxQi1IbTNzcEpjN0xWZER3ZmtyQXQzeGhWVFVSX1pQXzNEMmplMDNPQ1JqLTJoUUJ3Z21SVHA5UW9YdFhSdzJoUVF4eGRzZmRFSHVtOVpkTGxfc3JuaGRMc25hZ3BEeDNrOVhrQURXRzJVc1p6allIZ290ZEpkdUt3azZLdmJyQjZMeXFGZlN2Y3AwR3hVU1ZwSWdtTlRpdU4tejJOamQ2NW8zUzlGVkMyTnJpT1RVcVhJNXpUREFDM2x5Ui1zeEJnVXZyUmkwVnJuUk5ROHQtazk5eGVtaXdQNDdQUTFRZ1hBSlZFa05BcW9ZcEFaSkcwd0owVGlETDhxRGVlX2JUVlJOa0doQTdsR1pnVTl6X1E0a3lCY2NQRE1FYXg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b7f0f78cf259",
+      "title": "Em 1989, dois macacos passaram 14 dias no espaço, mas um problema de temperatura acabou destruindo experimentos com formigas e minhocas - tupi.fm",
+      "published": "2026-09-27T16:51:59+00:00",
+      "summary": "Em 1989, dois macacos passaram 14 dias no espaço, mas um problema de temperatura acabou destruindo experimentos com formigas e minhocas&nbsp;&nbsp;tupi.fm",
+      "sources": [
+        {
+          "name": "tupi.fm",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQc0FLaWlDbGZTVVYwMmFwZzFVX2lKYXdZak4tRjBLcG9neVZPaVVwNEhUWENxOGxHREFuQnYyWkFTNjNGQUdtaVpkbHZYUUxaUU5pemhUSE9wd3ZKQlFzclF1Y2RKU1prV2xpZWgyZTJPTk5DMXptY0d3SjFIcWstaTdENmF3el85YnctQ2RWQ2ZpaWw3R2xpbFZTRHc3TzFyVHc3ck5ObHNhWEIzSU13MDllbDdJNFpYdjQzZFFabU5oQnNlQ2ROWFZ5aDFjYkMxTHpBZ2pVRnJBNGd4eVE3T0JiT3lVbnlDWDJRVjFVN1dzU2MzOU8xSTVzUEllUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b647d39e0197",
+      "title": "Cansaço, coceira e inchaço podem indicar problema no fígado - Folha de S.Paulo",
+      "published": "2026-09-27T16:00:00+00:00",
+      "summary": "Cansaço, coceira e inchaço podem indicar problema no fígado&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUGR5TUFLS05iVXMtU0FvY09nUWpOYXhPQnZBSUlRaVdoWmZGZkxySnZJZVVvaVVPZl9rMmh4NXNqam5kTUc4TlFDcU9WdFdUeF9lbEJKWmJWYWFad09ScVFibmJFTThsYUVJRVd3UWFLb0JwYy11b1p4dGQybWxTNy1WVE9UMUVvZFdpekpoWWtiekotdThlbXRwMXNVbUxlT2tERm81eURSWGpOZU9nM3ZNSEUxckN3Ykln?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b474b6a24c4a",
+      "title": "Anvisa investiga risco de cegueira súbita ligado a canetas emagrecedoras - Exame",
+      "published": "2026-09-27T14:28:12+00:00",
+      "summary": "Anvisa investiga risco de cegueira súbita ligado a canetas emagrecedoras&nbsp;&nbsp;Exame",
+      "sources": [
+        {
+          "name": "Exame",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdEh5Sk9uSEFPc294M3J2bEtGWFQtOFFsSmxVaHg4dU9LaE11UXhJelBLZDFzS1pOOWZPY09ER2lKVjR0ODVPdjUxTkpYX0tKVGdjSmZQSnRHN19LWHNBNU9QcVV3NVJRcnR3V21hTWtVanNmUkdSTHNHbGZkck5KRURyZUUzRlhHVWsxX3JoX1ZKdkR2QWI0VjdqUjhVcjAt?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5f09584cc503",
+      "title": "Aluna de Manaus que fez projeto sobre câncer na adolescência inicia graduação em Columbia - Folha de S.Paulo",
+      "published": "2026-09-27T13:00:00+00:00",
+      "summary": "Aluna de Manaus que fez projeto sobre câncer na adolescência inicia graduação em Columbia&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNlgzTGpyZ241Y2h1SFJtb2NmZ2dJZHlDd2M5OTZBbkJFUlFRNmJOajJNQ0kxMk1OOHhtVzhzNmpCaEZMQ3I4ZTZWaUxuYk5mMnlSMVJLUllNMWpzQnFTTFhzMkVIUy1VNEtyMVZXM2tzQ283bldHTGVUcE9PZy1LbWxiQ2JyS0xteUZncW9qSVJGNmlrbW85WjB2SzB5RU1ERzdwY1p0bWNMT1FJc0NOYjd2eEVsVE80ZTVZaWpUVjZPSXNwYmVjMHdvR3oxNThiWHJwczZXSnlXZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e7ab22514eef",
+      "title": "A psicologia aponta que quem cumprimenta as pessoas ao entrar no elevador, mesmo sem conhecê-las, não está apenas sendo educado, mas reduzindo a tensão de espaços fechados e compartilhados - tupi.fm",
+      "published": "2026-09-27T08:50:53+00:00",
+      "summary": "A psicologia aponta que quem cumprimenta as pessoas ao entrar no elevador, mesmo sem conhecê-las, não está apenas sendo educado, mas reduzindo a tensão de espaços fechados e compartilhados&nbsp;&nbsp;tupi.fm",
+      "sources": [
+        {
+          "name": "tupi.fm",
           "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNanVhdEF4VlNMVWRwV3lfWTZiSVQxdUk4TzhsNzVhUVppLWUxMHRjN0R1OEVrNy1kYXlZQUZIc3RWUlJKR0NKLWUyMzFRekN4YXBIU0FhWXE4bmt5NHZLTl9HZkZJazR3OFdCSjFIbnhMNTdDUUpMMlhCejJaSkZHY1hSNk85c1dfblNiTTJfS2ExRnBIOVFGMEdYNUhwNDZUOEMtM2poTExXNzNQRXZJam4xcjNqa19jSGlPeVp4X1piQnVMQ0hVNHVXMFdQdTJrQnRLNlBwUnZCcXhhbWJIQnNIZlJ4WURuUDBfcC1keC1hYTJIcTBhajlocmVfY1Nrc2d1Qm5YV1dVYXBLX1BtbXNUUjRuZ2RheWp5bFVjRFlJaUNpR1dIbzd1UkhnNUdfN3F0VVNGREt1d2VMRGgwc1REdw?oc=5"
         }
       ]
@@ -26,18 +98,6 @@
         {
           "name": "Estadão",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWk5DQVJ5ODA1UXVmOGU3elR6cXZScV83eTJaVHJCUC1YVlNKZTd5aUU4QWJiZG1aYThqRTFrdmhfeV9xTk5BVDFQSFUyTndOREVqcEV4aDdrT2t3VmVNYzFDZXdlQ3ZpT2p4MUREQ0NaRG5KWm5vMW5OVVIwRlBTUW4zaWVweUcwVTJGREQ3MDlBdF9mSVhXNHItYUlMNlpDY21j?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2432084c8e6c",
-      "title": "Anvisa investiga 13 notificações de doença que causa perda de visão associadas a canetas emagrecedoras - G1",
-      "published": "2026-09-27T06:00:00+00:00",
-      "summary": "Anvisa investiga 13 notificações de doença que causa perda de visão associadas a canetas emagrecedoras&nbsp;&nbsp;G1Anvisa investiga perda de visão associada a canetas emagrecedoras&nbsp;&nbsp;Poder360Doentes processam fabricante do Wegovy e Ozempic após casos de perda de visão&nbsp;&nbsp;24 NotíciasAnvisa investiga 13 casos de doença ligada a perda de visão em usuários de canetas emagrecedoras&nbsp;&nbsp;Diário do NordesteGazeta de Limeira&nbsp;&nbsp;Gazeta de Limeira",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQU5feVFRQU40dlRlQ3VQTDJvb0pFeVBla1gtQzNtYkN4VFRVR25LSm5SSFBPQ0NZVUExeUZXcjh5TlNFd3YxNjBzMlBqLXczY1JLVW5iTGpwVHBXZms4OE0yalBjS0hfQy10bk5ES0lieTBiRF9XNjBWTjVyNlg0LUc2cXZwU1o1bHpyNDZ2enh3OTlreVVSNlZvZXpYZkZ2ZkVsZ3lRZDhmWDQ1bk8ybWpUVU5ISVpJRXRZU19iQ0tac0o4c0cwVVpSZ0FGUi1MZVhMVWt2Qkw2ZlNTSi1sdks0ZWQxQdIB9AFBVV95cUxNckpkenV6VDBldGtwdFljYlJ6M2VLdlRjTW8xTjd4THU3X2x2X0FzMmJudmRpdHQ2bEppVV94UEZBMjJFZDVpR3hKSXZUNERnZXUxV0x6Z19sUHU0dkRtUjFUWlA1dzdRTkZxN2Zfc2F4YU5ONktHU2VfMVpDc2daTXktSlBDREVaQXRSMkl2RF9NbDlMTnFKdEk0TmVITE1TU3Q1TnkySGpNR3B4WnRmcHVSekMzZTFMZVlCeVlWcktvT3Y0WGt3WjZiczhBNE1rSzJNaHVEYWc5Z3NUdXI1STF4WGdIX2E3VUNKWXpSOXRQNF8y?oc=5"
         }
       ]
     },
@@ -66,6 +126,30 @@
       ]
     },
     {
+      "id": "d018c2314c50",
+      "title": "Como a IA pode ajudar no diagnóstico precoce de câncer - Estadão",
+      "published": "2026-09-26T18:00:00+00:00",
+      "summary": "Como a IA pode ajudar no diagnóstico precoce de câncer&nbsp;&nbsp;Estadão",
+      "sources": [
+        {
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcGJRUE5IT2xIMmdCdUtDb0FybW1UQUlUems3NFFiX2xXZFk3ak1uNjNiY3ZNRkRhNF8xbXV0VFVXVWFOMm5kSzFCUDk0S0F2MW50Mmw4NURqX1JQa2RSMHptNXVRblhKRkhQbU1paExkck5NRzE4LTZlSGhMT25jOVZpeTlxLU1KMGN3emNZN0JlVGVZdDlsM2Ztb1hrdkRnd0FCekdvNzNSQdIBrwFBVV95cUxPODV5RWM3akVtcGR1VDNiTVlhOVpIY196UF80TGxtZ2k1aHhlNVI5aEl5T21FdkFMbUFTbEZTRTFBTlZsejJFdXZaRURoNmdiWGZncVBfSHFPd3JqTWt4TTNUa3BDYU5UZTlyUjVKWFF2ZGVxRld6UHpZSzkxbG9JQUhzWFZLcEtBcTVmY2tHMDktUFZabVJIMmlpZ1ZtZFpmN3duOVV4bjFvY1FpV0Yw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6e5c8629261d",
+      "title": "Assim é viver e trabalhar a 4.000 m acima do nível do mar: “Aqui as doenças nem sequer chegam” - Meteored Brasil",
+      "published": "2026-09-26T17:12:00+00:00",
+      "summary": "Assim é viver e trabalhar a 4.000 m acima do nível do mar: “Aqui as doenças nem sequer chegam”&nbsp;&nbsp;Meteored Brasil",
+      "sources": [
+        {
+          "name": "Meteored Brasil",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZEc4VTNYMXJRTDg1ajNMU0JVekl4OUQ3MXdIeFV1Q3QwRklNc0VYSk9ZZjNMLVVORW9sa2pBUlBKLWI1bkNXZFFCbU9hWTk0dl9iUzVYbVZLSGJROXVOQTFGQzdYclQ2M0k4SFlhNDNETEhLQWEyRVhwNHBndWtVbkRMRjVXX0JNMktNQ01SUEtqMG8xNkZUeUNJMXZBLUFPcU5USnJsdlNMMkxGWlY2anQyX0pBdkh6TVQwSy05Y1ZaQVJmZ3VjLW44dGVtTUR1WkJ0MDJ3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "5742562c3e5f",
       "title": "Suco verde: nutri ensina bebida que desincha e ajuda a proteger o fígado - Metrópoles",
       "published": "2026-09-26T15:49:00+00:00",
@@ -74,18 +158,6 @@
         {
           "name": "Metrópoles",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcUQ4Z25EZVptMTdPTDZrM3EwWnZ3ajhPUmJVX0tjb1R1U2NTYmNoTnd6NE1pdjJDUWZlTjlRdlN1eExFOWktR0hFNnI1M1Uwd0dPcEZzeUlLUEJUb195T0NnX19yYUFJTlI3dG1tLThDLVA2YVN5cFljSy05QXpnRmZCUjYzYmVUd01QUmpKUWdnc1BwT25ObDZuYzRfbEJQVGFHMkFJMDV4MTFQZmRkRzN3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "44037719eb2d",
-      "title": "Substância presente no inhame foi encapsulada em nanopartículas para investigar uma possível ação contra câncer - Acorda Cidade",
-      "published": "2026-09-26T13:02:00+00:00",
-      "summary": "Substância presente no inhame foi encapsulada em nanopartículas para investigar uma possível ação contra câncer&nbsp;&nbsp;Acorda Cidade",
-      "sources": [
-        {
-          "name": "Acorda Cidade",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPejhNOUcxUVVpbkJvX2pBelVnMEttZlhsdXphb0pLc0F3V2tkckt0bjRkME93YnVRVHZNMl9VYnVQTkNvaVk4Tlh1eGJHN3VyZTV6eVJ3RnBzNjE4QjBGa1hleHNnem1qRFJ3ZF9FV2ZpNnRVcFhHWXFzZGt5c2xBUWZCVWpJeGUtRzV6NEJGTVRDWVo1eDZDRFg2R2V1RXJZR1BoWFQ2czNsRXhxREdTUGdvRkRXYm0taWktYm1KVVYyWGpweWVlVHZwVmI3OHYzNEt5Ym02RURfZWJqbkF6NGM1bllJUW9YMkE?oc=5"
         }
       ]
     },
@@ -126,13 +198,13 @@
       ]
     },
     {
-      "id": "7362b7bb615f",
-      "title": "Mais de 11 mil exames e consultas estão há mais de dois anos na fila da Secretaria de Saúde - tribunadepetropolis.com.br",
+      "id": "6804abecc8b2",
+      "title": "Mais de 11 mil exames e consultas estão há mais de dois anos na fila da Secretaria de Saúde - Tribuna de Petrópolis",
       "published": "2026-09-26T07:34:09+00:00",
-      "summary": "Mais de 11 mil exames e consultas estão há mais de dois anos na fila da Secretaria de Saúde&nbsp;&nbsp;tribunadepetropolis.com.br",
+      "summary": "Mais de 11 mil exames e consultas estão há mais de dois anos na fila da Secretaria de Saúde&nbsp;&nbsp;Tribuna de Petrópolis",
       "sources": [
         {
-          "name": "tribunadepetropolis.com.br",
+          "name": "Tribuna de Petrópolis",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSUVGZ0RlTEJTQW5NTVExY1pzX0VOTlpiTEJiUXBXczRXcXY4cktqS2RWZ2VSN0QyQy1xdTBvemxaXzU3eXlJZklsZjZCNzVBeWxLa0RSTk44WThneDZCdk5Rd2JVVTBadjJBbTlIQlVDRzdOYjJ0SkxkMDVwUHBGdkVBWXNFMGxsaFd5ZHRNbU13RkNkVUFYUzMwVHRsTkRDZm1panNLT0FUNUtUemRMZE5VeXUyTjQ1Y0dkQm5LYWhpUlRwR0tHSFlFYW94TkhyRlE?oc=5"
         }
       ]
@@ -150,18 +222,6 @@
       ]
     },
     {
-      "id": "a529f446b80b",
-      "title": "Câncer de endométrio: estudo do INCA identifica marcador ligado ao risco de recorrência - G1",
-      "published": "2026-09-26T07:00:00+00:00",
-      "summary": "Câncer de endométrio: estudo do INCA identifica marcador ligado ao risco de recorrência&nbsp;&nbsp;G1Perspectivas para o tratamento do câncer de endométrio no Brasil&nbsp;&nbsp;Folha de S.PauloEspecialista tira dúvidas sobre cânceres ginecológicos no jornal da EPTV&nbsp;&nbsp;G1Setembro em Flor: combate aos cânceres ginecológicos&nbsp;&nbsp;O POVOParaná deve registrar mais de 2 mil novos casos de câncer de útero e ovário em 2026&nbsp;&nbsp;Bem Paraná",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWlBoamtldFFGUUxXV0dzSENRN1RYUEdEbkktMkNHTDAyT0xFMUVyQW9ObVdOZllpam1HdG1yMklPdXVXY2E5NGxTa25IN2ctbURXVlA1eGMxNEphMjlBRURid1ptTTYxbU8tS3VBazhMMEY4QVN4Ri0wRTVKNTVkYjV2anZmbTR0dzdlX2k2ZV9hYXBtVWRNMkV1Y0NOX0dDWl9mWXRXMGk0UzlaNy1VZEdRbjlhZzRHdzlhSlE2TXRlYUtfbGpJUURKdWdxS1FseXZNSg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "bc476eb8801b",
       "title": "Promotoria recomenda intervenção na Feira da Madrugada por dívida de R$ 164 milhões - Folha de S.Paulo",
       "published": "2026-09-25T23:15:00+00:00",
@@ -174,13 +234,13 @@
       ]
     },
     {
-      "id": "96b1ff7cd17b",
-      "title": "Terapia hormonal na menopausa: dose e via de administração determinam risco de trombose - portugues.medscape.com",
+      "id": "1f1c3e2ff3f0",
+      "title": "Terapia hormonal na menopausa: dose e via de administração determinam risco de trombose - Medscape",
       "published": "2026-09-25T16:24:46+00:00",
-      "summary": "Terapia hormonal na menopausa: dose e via de administração determinam risco de trombose&nbsp;&nbsp;portugues.medscape.comSuplementos para Menopausa: Guia de Segurança para Fogachos&nbsp;&nbsp;Kantesti AI Blood Test AnalyzerReposição hormonal pode aliviar sintomas durante a menopausa&nbsp;&nbsp;G1Usa hormônio para menopausa em comprimido? A via pode mudar o risco de trombose&nbsp;&nbsp;Tua SaúdeTerapia hormonal na menopausa é perigosa? Especialista explica&nbsp;&nbsp;delas.ig.com.br",
+      "summary": "Terapia hormonal na menopausa: dose e via de administração determinam risco de trombose&nbsp;&nbsp;MedscapeSuplementos para Menopausa: Guia de Segurança para Fogachos&nbsp;&nbsp;Kantesti AI Blood Test AnalyzerReposição hormonal pode aliviar sintomas durante a menopausa&nbsp;&nbsp;G1Usa hormônio para menopausa em comprimido? A via pode mudar o risco de trombose&nbsp;&nbsp;Tua SaúdeTerapia hormonal na menopausa é perigosa? Especialista explica&nbsp;&nbsp;iG Delas",
       "sources": [
         {
-          "name": "portugues.medscape.com",
+          "name": "Medscape",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTXlZRkVRRkczaDYxekVGT01VMVZVSnAtLTRwMldQYWkwUGd4TjlMV045eks1YnpzNTh0WkxOQkZUOE5zcGdxQUM4T21sZkVtakhJV2hTODlmYjRiMmpRb0xCU19uaHg2T05OUHB4dDduZ1Jtamo4V3ZhYUZRN25qQ1A3b2FhNUhydkIwWFoybWgycTU4QzNPVg?oc=5"
         }
       ]
@@ -201,7 +261,7 @@
       "id": "d994b4ef3860",
       "title": "Lúcia Helena: Dormir pouco compromete a longevidade, mas dormir demais também faz mal - UOL",
       "published": "2026-09-24T22:02:37+00:00",
-      "summary": "Lúcia Helena: Dormir pouco compromete a longevidade, mas dormir demais também faz mal&nbsp;&nbsp;UOLSono ruim aumenta risco de infarto antes dos 40 anos&nbsp;&nbsp;Campo Grande NewsDormir mal afeta o corpo e a mente: conheça 6 impactos da insônia&nbsp;&nbsp;CartaCapitalNoite virada: o que fazer para \"sobreviver\" no trabalho depois de uma crise de insônia&nbsp;&nbsp;CNN BrasilDormir pouco ou demais compromete a longevidade, segundo a ciência do sono&nbsp;&nbsp;itatiaia.com.br",
+      "summary": "Lúcia Helena: Dormir pouco compromete a longevidade, mas dormir demais também faz mal&nbsp;&nbsp;UOLSono ruim aumenta risco de infarto antes dos 40 anos&nbsp;&nbsp;Campo Grande NewsDormir mal afeta o corpo e a mente: conheça 6 impactos da insônia&nbsp;&nbsp;CartaCapitalNoite virada: o que fazer para \"sobreviver\" no trabalho depois de uma crise de insônia&nbsp;&nbsp;CNN BrasilDormir pouco ou demais compromete a longevidade, segundo a ciência do sono&nbsp;&nbsp;Rádio Itatiaia",
       "sources": [
         {
           "name": "UOL",
@@ -218,18 +278,6 @@
         {
           "name": "CNN Brasil",
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOLXVVbmRuTk9XR2ZURk1xczd6OHR1VGhXSWFNNlhkUjE4bnNLMzRCeEFkSTJYejBxa2RMaEhPUWZrSzZNcVB2UHM5WHdyWWJMU2otZDVlNy1ta09Yak5LTGZZcHRCMFRrc0lxNXVIa3JvcldWTmk3cFVyQXhNZXFDYUdkWnF5MVFNR0d4aFoybU40aHF2V1p3SXRTYnZTNU9ndHlERldiam9Sc1pxRzFnZWwyZ01oQnphOWF2M09US25fbEg2bENIMWNHcHZmcW9qNUx1ODdWek1TXzA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f2cb14c985e2",
-      "title": "Revendo os Dados: Vitamina D - portugues.medscape.com",
-      "published": "2026-09-24T01:42:41+00:00",
-      "summary": "Revendo os Dados: Vitamina D&nbsp;&nbsp;portugues.medscape.comVitamina D pode reduzir o risco de demência, aponta estudo&nbsp;&nbsp;Jornal O SulVitamina D: novas diretrizes mostram quem realmente precisa suplementar&nbsp;&nbsp;Tua SaúdeProtetor solar bloqueia realmente a vitamina D? O que dizem os médicos&nbsp;&nbsp;Estado de MinasA falta de vitamina D nem sempre é só falta de sol: o intestino também conta&nbsp;&nbsp;Tua Saúde",
-      "sources": [
-        {
-          "name": "portugues.medscape.com",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdkdNX01ONHVRZ0JIdDZZQXhzT3l5Q3B6Zmt0cGdVMWJwZFVyLVR3NFpsVmhiQkFBdkpNX3ZnWWU4LUg5S3laTjZGZWNEbUVLMWJrLWl3cWZLVjRwaEdJSURLXzkyVGVIUVBmLWJwand3d1ZRbG9Pd1NrdElTdkJMVXRIRGFmZkU?oc=5"
         }
       ]
     }
