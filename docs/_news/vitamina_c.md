@@ -14,7 +14,7 @@ permalink: /news/vitamina_c/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre VITAMINA C?">
-<strong>VITAMINA C</strong> tem atualmente <strong>0 notícias</strong> e 0 indicações previstas.
+<strong>VITAMINA C</strong> tem atualmente <strong>1 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -28,9 +28,15 @@ Esta página combina as indicações previstas por IA para VITAMINA C com as not
 <p><a href="{{ '/drugs/vitamina_c/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (0)
+## Notícias relacionadas (1)
 
-*Ainda não há notícias relacionadas. Quando uma notícia mencionar este medicamento, ela será recolhida e exibida aqui automaticamente.*
+### [Vitamina C está associada a cérebro mais saudável em idosos, indica estudo](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMGVwRlRWdVIwOTZFQXU0TG1pZ1AyVWEyakNpcWRUM0lXS01nWnFNTWVVaUtuVlFlUVZTQS1WU3dycGd1dTU5cTdiWTBYNVU1QlVLY0FzR2R3ZDVmVG5fNVY2UU9NT0Y2VWN0bWRWdUF2dXdLLW5NaE9hSlo4dkZDcEFWMkx2aEZHajZiU1lKT2YwUHNtSk52OXJSQTY1YXJhdmlEdjc1S0Zsdw?oc=5)
+
+2026-09-27 <span class="news-drug-tag">VITAMINA C</span>
+
+Fonte: [Exame](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMGVwRlRWdVIwOTZFQXU0TG1pZ1AyVWEyakNpcWRUM0lXS01nWnFNTWVVaUtuVlFlUVZTQS1WU3dycGd1dTU5cTdiWTBYNVU1QlVLY0FzR2R3ZDVmVG5fNVY2UU9NT0Y2VWN0bWRWdUF2dXdLLW5NaE9hSlo4dkZDcEFWMkx2aEZHajZiU1lKT2YwUHNtSk52OXJSQTY1YXJhdmlEdjc1S0Zsdw?oc=5)
+
+---
 
 
 <div class="disclaimer">
