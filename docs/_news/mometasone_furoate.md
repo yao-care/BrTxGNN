@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre MOMETASONE FUROATE"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com MOMETASONE FUROATE. Indicação original: . 0 indicações previstas."
+description: "Notícias de saúde relacionadas com MOMETASONE FUROATE. Indicação original: . 20 indicações previstas."
 permalink: /news/mometasone_furoate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/mometasone_furoate/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre MOMETASONE FUROATE?">
-<strong>MOMETASONE FUROATE</strong> tem atualmente <strong>0 notícias</strong> e 0 indicações previstas.
+<strong>MOMETASONE FUROATE</strong> tem atualmente <strong>0 notícias</strong> e 20 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,28 @@ Esta página combina as indicações previstas por IA para MOMETASONE FUROATE co
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Indicações previstas (20)</strong>:<ul>
+<li>lichen disease (99.0%)</li>
+<li>seborrheic dermatitis (99.0%)</li>
+<li>neurodermatitis (99.0%)</li>
+<li>dermatitis, atopic (99.0%)</li>
+<li>vasomotor rhinitis (99.0%)</li>
+<li>occupational dermatitis (99.0%)</li>
+<li>contact dermatitis (99.0%)</li>
+<li>atopic eczema (99.0%)</li>
+<li>lupus erythematosus (99.0%)</li>
+<li>discoid lupus erythematosus (99.0%)</li>
+<li>asthma (99.0%)</li>
+<li>seborrheic keratosis (99.0%)</li>
+<li>allergic asthma (99.0%)</li>
+<li>chronic cutaneous lupus erythematosus (99.0%)</li>
+<li>intrinsic asthma (99.0%)</li>
+<li>allergic rhinitis (99.0%)</li>
+<li>granuloma annulare (99.0%)</li>
+<li>exanthem (disease) (99.0%)</li>
+<li>primary cutaneous T-cell non-Hodgkin lymphoma (99.0%)</li>
+<li>primary cutaneous T-cell lymphoma (99.0%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/mometasone_furoate/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>

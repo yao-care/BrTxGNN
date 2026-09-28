@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre LORATADINE"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com LORATADINE. Indicação original: . 0 indicações previstas."
+description: "Notícias de saúde relacionadas com LORATADINE. Indicação original: . 9 indicações previstas."
 permalink: /news/loratadine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/loratadine/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre LORATADINE?">
-<strong>LORATADINE</strong> tem atualmente <strong>0 notícias</strong> e 0 indicações previstas.
+<strong>LORATADINE</strong> tem atualmente <strong>0 notícias</strong> e 9 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,17 @@ Esta página combina as indicações previstas por IA para LORATADINE com as not
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Indicações previstas (9)</strong>:<ul>
+<li>pharyngitis (99.0%)</li>
+<li>vernal conjunctivitis (99.0%)</li>
+<li>idiopathic urticaria (99.0%)</li>
+<li>vasomotor rhinitis (99.0%)</li>
+<li>nasopharyngitis (99.0%)</li>
+<li>atopic conjunctivitis (99.0%)</li>
+<li>papillary conjunctivitis (99.0%)</li>
+<li>common cold (99.0%)</li>
+<li>allergic rhinitis (99.0%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/loratadine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>

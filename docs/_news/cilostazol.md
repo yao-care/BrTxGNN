@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre CILOSTAZOL"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com CILOSTAZOL. Indicação original: . 0 indicações previstas."
+description: "Notícias de saúde relacionadas com CILOSTAZOL. Indicação original: . 1 indicações previstas."
 permalink: /news/cilostazol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cilostazol/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre CILOSTAZOL?">
-<strong>CILOSTAZOL</strong> tem atualmente <strong>0 notícias</strong> e 0 indicações previstas.
+<strong>CILOSTAZOL</strong> tem atualmente <strong>0 notícias</strong> e 1 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,9 @@ Esta página combina as indicações previstas por IA para CILOSTAZOL com as not
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Indicações previstas (1)</strong>:<ul>
+<li>intermittent vascular claudication (99.0%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/cilostazol/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>

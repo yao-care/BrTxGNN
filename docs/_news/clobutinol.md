@@ -14,7 +14,7 @@ permalink: /news/clobutinol/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Clobutinol?">
-<strong>Clobutinol</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Clobutinol</strong> tem atualmente <strong>1 notícias</strong> e 10 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ Esta página combina as indicações previstas por IA para Clobutinol com as not
 <li>mucocutaneous leishmaniasis (100.0%)</li>
 <li>leishmaniasis, diffuse cutaneous (100.0%)</li>
 <li>diffuse scleroderma (100.0%)</li>
-<li>pneumonia (99.9%)</li>
+<li class="indication-matched">pneumonia (99.9%)<span class="indication-tag">📰 pneumonia</span></li>
 <li>trigonitis (99.9%)</li>
 <li>bronchiolitis obliterans with obstructive pulmonary disease (99.9%)</li>
 <li>paratyphoid fever (99.9%)</li>
@@ -40,9 +40,15 @@ Esta página combina as indicações previstas por IA para Clobutinol com as not
 <p><a href="{{ '/drugs/clobutinol/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (0)
+## Notícias relacionadas (1)
 
-*Ainda não há notícias relacionadas. Quando uma notícia mencionar este medicamento, ela será recolhida e exibida aqui automaticamente.*
+### [Anvisa aprova vacina contra 21 sorotipos da bactéria causadora de pneumonia e meningite](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWUJzVGV1OWNuMXdaYUZPTkRPaFUyWTVrMjJGSnhWSFM2WkZUSXRuYmhkb3JvMWxNczNoN3NjVDNibERLemFadlNKaUxPVWdDVnBhM0NHcXFlMnJMQVc4d1Joc1lTR003ZFYzTFhHMlNhVUhUNnNtdndWRUk3UnJ4SkotMVVTWXZZUU85aXg2M0ZBR2ZrMl9DYjZQYW5OSDhDSFlGVzVrTl9ROXpFWWEtQnVSTjkzMGt4X3VSSllubnlCZGI0djVTVmxJWHJhTGNxNnA2MlN2MEpRb0FMSUkzTVlDbw?oc=5)
+
+2026-09-28 <span class="news-indication-tag">pneumonia</span> <span class="news-indication-tag">pneumonia</span>
+
+Fonte: [www.gov.br](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWUJzVGV1OWNuMXdaYUZPTkRPaFUyWTVrMjJGSnhWSFM2WkZUSXRuYmhkb3JvMWxNczNoN3NjVDNibERLemFadlNKaUxPVWdDVnBhM0NHcXFlMnJMQVc4d1Joc1lTR003ZFYzTFhHMlNhVUhUNnNtdndWRUk3UnJ4SkotMVVTWXZZUU85aXg2M0ZBR2ZrMl9DYjZQYW5OSDhDSFlGVzVrTl9ROXpFWWEtQnVSTjkzMGt4X3VSSllubnlCZGI0djVTVmxJWHJhTGNxNnA2MlN2MEpRb0FMSUkzTVlDbw?oc=5)
+
+---
 
 
 <div class="disclaimer">

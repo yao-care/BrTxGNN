@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre DROSPIRENONE"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com DROSPIRENONE. Indicação original: . 0 indicações previstas."
+description: "Notícias de saúde relacionadas com DROSPIRENONE. Indicação original: . 3 indicações previstas."
 permalink: /news/drospirenone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/drospirenone/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre DROSPIRENONE?">
-<strong>DROSPIRENONE</strong> tem atualmente <strong>0 notícias</strong> e 0 indicações previstas.
+<strong>DROSPIRENONE</strong> tem atualmente <strong>0 notícias</strong> e 3 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,11 @@ Esta página combina as indicações previstas por IA para DROSPIRENONE com as n
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Indicações previstas (3)</strong>:<ul>
+<li>obsolete atrophic vulva (99.0%)</li>
+<li>postmenopausal atrophic vaginitis (99.0%)</li>
+<li>acne (disease) (99.0%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/drospirenone/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>

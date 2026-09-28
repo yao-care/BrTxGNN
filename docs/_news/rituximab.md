@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre RITUXIMAB"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com RITUXIMAB. Indicação original: . 0 indicações previstas."
+description: "Notícias de saúde relacionadas com RITUXIMAB. Indicação original: . 10 indicações previstas."
 permalink: /news/rituximab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/rituximab/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre RITUXIMAB?">
-<strong>RITUXIMAB</strong> tem atualmente <strong>0 notícias</strong> e 0 indicações previstas.
+<strong>RITUXIMAB</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,18 @@ Esta página combina as indicações previstas por IA para RITUXIMAB com as not�
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Indicações previstas (10)</strong>:<ul>
+<li>lymphoma, non-Hodgkin, familial (99.0%)</li>
+<li>acute lymphoblastic/lymphocytic leukemia (99.0%)</li>
+<li>Richter syndrome (99.0%)</li>
+<li>rheumatoid arthritis (99.0%)</li>
+<li>lymphosarcoma (99.0%)</li>
+<li>non-Hodgkin lymphoma (99.0%)</li>
+<li>B-cell neoplasm (99.0%)</li>
+<li>mantle cell lymphoma (99.0%)</li>
+<li>Langerhans cell histiocytosis (99.0%)</li>
+<li>lymphoma (99.0%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/rituximab/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>

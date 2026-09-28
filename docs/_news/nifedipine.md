@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre NIFEDIPINE"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com NIFEDIPINE. Indicação original: . 0 indicações previstas."
+description: "Notícias de saúde relacionadas com NIFEDIPINE. Indicação original: . 3 indicações previstas."
 permalink: /news/nifedipine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/nifedipine/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre NIFEDIPINE?">
-<strong>NIFEDIPINE</strong> tem atualmente <strong>0 notícias</strong> e 0 indicações previstas.
+<strong>NIFEDIPINE</strong> tem atualmente <strong>0 notícias</strong> e 3 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,11 @@ Esta página combina as indicações previstas por IA para NIFEDIPINE com as not
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Indicações previstas (3)</strong>:<ul>
+<li>hypertensive disorder (99.0%)</li>
+<li>Prinzmetal angina (99.0%)</li>
+<li>hypertension (99.0%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/nifedipine/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>

@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre NALOXONE"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com NALOXONE. Indicação original: . 0 indicações previstas."
+description: "Notícias de saúde relacionadas com NALOXONE. Indicação original: . 3 indicações previstas."
 permalink: /news/naloxone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/naloxone/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre NALOXONE?">
-<strong>NALOXONE</strong> tem atualmente <strong>0 notícias</strong> e 0 indicações previstas.
+<strong>NALOXONE</strong> tem atualmente <strong>0 notícias</strong> e 3 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,11 @@ Esta página combina as indicações previstas por IA para NALOXONE com as notí
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Indicações previstas (3)</strong>:<ul>
+<li>morphine dependence (99.0%)</li>
+<li>substance abuse/dependence (99.0%)</li>
+<li>opiate dependence (99.0%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/naloxone/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>

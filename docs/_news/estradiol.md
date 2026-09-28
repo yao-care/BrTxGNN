@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre ESTRADIOL"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com ESTRADIOL. Indicação original: . 0 indicações previstas."
+description: "Notícias de saúde relacionadas com ESTRADIOL. Indicação original: . 6 indicações previstas."
 permalink: /news/estradiol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/estradiol/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre ESTRADIOL?">
-<strong>ESTRADIOL</strong> tem atualmente <strong>0 notícias</strong> e 0 indicações previstas.
+<strong>ESTRADIOL</strong> tem atualmente <strong>0 notícias</strong> e 6 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,14 @@ Esta página combina as indicações previstas por IA para ESTRADIOL com as not�
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Indicações previstas (6)</strong>:<ul>
+<li>obsolete atrophic vulva (99.0%)</li>
+<li>postmenopausal atrophic vaginitis (99.0%)</li>
+<li>acne (disease) (99.0%)</li>
+<li>primary ovarian failure (99.0%)</li>
+<li>postmenopausal osteoporosis (99.0%)</li>
+<li>osteoporosis (99.0%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/estradiol/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>

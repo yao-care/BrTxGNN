@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre SEMAGLUTIDE"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com SEMAGLUTIDE. Indicação original: . 0 indicações previstas."
+description: "Notícias de saúde relacionadas com SEMAGLUTIDE. Indicação original: . 2 indicações previstas."
 permalink: /news/semaglutide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre SEMAGLUTIDE?">
-<strong>SEMAGLUTIDE</strong> tem atualmente <strong>0 notícias</strong> e 0 indicações previstas.
+<strong>SEMAGLUTIDE</strong> tem atualmente <strong>0 notícias</strong> e 2 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,10 @@ Esta página combina as indicações previstas por IA para SEMAGLUTIDE com as no
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Indicações previstas (2)</strong>:<ul>
+<li>type 2 diabetes mellitus (99.0%)</li>
+<li>diabetes mellitus (disease) (99.0%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>

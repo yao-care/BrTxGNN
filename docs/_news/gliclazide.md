@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre GLICLAZIDE"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com GLICLAZIDE. Indicação original: . 0 indicações previstas."
+description: "Notícias de saúde relacionadas com GLICLAZIDE. Indicação original: . 2 indicações previstas."
 permalink: /news/gliclazide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/gliclazide/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre GLICLAZIDE?">
-<strong>GLICLAZIDE</strong> tem atualmente <strong>0 notícias</strong> e 0 indicações previstas.
+<strong>GLICLAZIDE</strong> tem atualmente <strong>0 notícias</strong> e 2 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,10 @@ Esta página combina as indicações previstas por IA para GLICLAZIDE com as not
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Indicações previstas (2)</strong>:<ul>
+<li>type 2 diabetes mellitus (99.0%)</li>
+<li>diabetes mellitus (disease) (99.0%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/gliclazide/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>

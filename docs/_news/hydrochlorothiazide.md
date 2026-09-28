@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre HYDROCHLOROTHIAZIDE"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde relacionadas com HYDROCHLOROTHIAZIDE. Indicação original: . 0 indicações previstas."
+description: "Notícias de saúde relacionadas com HYDROCHLOROTHIAZIDE. Indicação original: . 3 indicações previstas."
 permalink: /news/hydrochlorothiazide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hydrochlorothiazide/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre HYDROCHLOROTHIAZIDE?">
-<strong>HYDROCHLOROTHIAZIDE</strong> tem atualmente <strong>0 notícias</strong> e 0 indicações previstas.
+<strong>HYDROCHLOROTHIAZIDE</strong> tem atualmente <strong>0 notícias</strong> e 3 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,11 @@ Esta página combina as indicações previstas por IA para HYDROCHLOROTHIAZIDE c
 <div class="drug-info-card">
 <strong>Informações do medicamento</strong>
 <ul>
+<li><strong>Indicações previstas (3)</strong>:<ul>
+<li>hypertensive disorder (99.0%)</li>
+<li>hypertension (99.0%)</li>
+<li>congestive heart failure (99.0%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/hydrochlorothiazide/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
