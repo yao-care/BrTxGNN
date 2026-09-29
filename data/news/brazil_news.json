@@ -1,31 +1,91 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-09-28T23:00:40.579059+00:00",
-  "total_fetched": 92,
-  "unique_count": 92,
-  "health_related_count": 38,
+  "fetched_at": "2026-09-29T04:47:51.771118+00:00",
+  "total_fetched": 94,
+  "unique_count": 94,
+  "health_related_count": 40,
   "news": [
     {
-      "id": "3aaa36fcdd83",
-      "title": "Anvisa aprova caneta que combina insulina e semaglutida para diabetes tipo 2 - Folha de S.Paulo",
-      "published": "2026-09-28T17:52:00+00:00",
-      "summary": "Anvisa aprova caneta que combina insulina e semaglutida para diabetes tipo 2&nbsp;&nbsp;Folha de S.PauloAnvisa aprova medicamento semanal para diabetes com insulina e semaglutida&nbsp;&nbsp;CNN BrasilAnvisa aprova registro de medicamento para diabetes que combina insulina e semaglutida&nbsp;&nbsp;G1Ozempic mais insulina numa caneta só: o que muda no tratamento do diabetes&nbsp;&nbsp;VEJAAnvisa registra caneta para diabetes que combina insulina e semaglutida&nbsp;&nbsp;www.gov.br",
+      "id": "34bff2214925",
+      "title": "Anvisa investiga 13 casos de cegueira ligados ao uso de canetas emagrecedoras - ICL Notícias",
+      "published": "2026-09-28T23:10:50+00:00",
+      "summary": "Anvisa investiga 13 casos de cegueira ligados ao uso de canetas emagrecedoras&nbsp;&nbsp;ICL NotíciasAnvisa apura relação entre canetas emagrecedoras e 13 casos de cegueira&nbsp;&nbsp;folha.uol.com.brCanetas e perda de visão: o que se sabe sobre os 13 casos suspeitos de Noia investigados no Brasil&nbsp;&nbsp;G1Anvisa investiga 13 casos de doença ocular após uso de caneta emagrecedora&nbsp;&nbsp;CNN BrasilOzempic, Wegovy e Mounjaro podem causar perda de visão? O que se sabe até agora&nbsp;&nbsp;E",
       "sources": [
         {
-          "name": "Folha de S.Paulo",
+          "name": "ICL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcUxKbC10V3RfNFhLSjJvSWF6clI2NlcydFU2aFVaeXZSdnNpb2JYRFBLYnAxUVBldFlmQzJRdkJxTDNlLVh1UlpzV2llVmZwYS1RSno3eGtaLXdWUEtyWmdCYWVORWY0RWlEbFpnX0tXUFNXU19mZVBRMWJzbHZBTA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b98d87dbd2f9",
+      "title": "Dor nas costas nem sempre tem origem na coluna; conheça possíveis causas - Portal Drauzio Varella",
+      "published": "2026-09-28T21:32:35+00:00",
+      "summary": "Dor nas costas nem sempre tem origem na coluna; conheça possíveis causas&nbsp;&nbsp;Portal Drauzio VarellaDor na lombar: entenda as causas e o momento adequado para cirurgia&nbsp;&nbsp;Folha PESeis exercícios para aliviar dores nas costas&nbsp;&nbsp;Assine AbrilDor nas costas pode ser aliviada com ponte de glúteos: veja como fazer&nbsp;&nbsp;MetrópolesLombalgia na prática: quando investigar e como tratar&nbsp;&nbsp;Medscape",
+      "sources": [
+        {
+          "name": "Portal Drauzio Varella",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOc2tHcEhQbDQyS3VSQzl6eExTdGRsR3lNRDFJWGtrYW0wenVHNTc2RHk5ZExjU1Y5WVY2eUpnbXlxcnMydXowb1RxZEVLWDFfbG5ybDlZQWphd0RwWDhZemtfdExhQ0Z3V2I4emF3WmZYd0otYjNEV3FPZGlvbXlpZEswR0xFM1R0YW5vVVYzcEJwejktT0R3Q2tFc2V4X0UzeTlxbEpkN1RNTGZmQm04UzNEelRGeFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3ba9a714d068",
+      "title": "Bangladesh tem 900 mortes por suspeita de sarampo e acende alerta em países onde vacinação caiu - folha.uol.com.br",
+      "published": "2026-09-28T21:00:00+00:00",
+      "summary": "Bangladesh tem 900 mortes por suspeita de sarampo e acende alerta em países onde vacinação caiu&nbsp;&nbsp;folha.uol.com.brVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "folha.uol.com.br",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxORndBZnFHOVNoeFBjYVMtUklNN3ZSQ0VkSUdlX1E1N25aaDlJYThqMGdzcWM3b2VScW9LNXVLdmdqN0NTdmtHQ29zQkZuTjIzZ2xwalVraEV6YTV4RUdLdHZiM1NlVUp1dHFZQlZmQm0tMmpabGRFSTE3cFFnRUE3ZWUzWG50WDdDWVVSTTdmcXlobzJ1ZG9rRElFVnZTMHJ2dHNiSVZlTDlqSUlkMDdKd2V0a2gyR3dLc0gwZEVjdG96RnctZDZpOVRzTVI1MUR2NXVxa29Na1R3Nk9YOTR1ZHczWUR1RHVXMndRdA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f1b91c2d7b76",
+      "title": "Médicos de Roraima ameaçam paralisação por atrasos de salários - Folha BV",
+      "published": "2026-09-28T18:00:00+00:00",
+      "summary": "Médicos de Roraima ameaçam paralisação por atrasos de salários&nbsp;&nbsp;Folha BV",
+      "sources": [
+        {
+          "name": "Folha BV",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaEN1NDhBbjRRcTdYRHh4eldPLThjWlZRQVdfeXYtWGlvQ0RFU0xVZUltaGlfOUVzaGJXNVhPRHlBZTFkaGNQWjFHQ19VZHJFZE4xVUdnSjlBZXpFRXFXX2Z3NFFIZzdybkx0ZUpTVTcwLXJVMXh2Q0x1U3BJY0ZHLWVFcVFjY292SXg2VTBEWnZ0aUV2NkVPcjUxMGpyX0VxbTg0SEhEZUtyWVk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bc16ae1c4725",
+      "title": "Anvisa aprova caneta que combina insulina e semaglutida para diabetes tipo 2 - folha.uol.com.br",
+      "published": "2026-09-28T17:52:00+00:00",
+      "summary": "Anvisa aprova caneta que combina insulina e semaglutida para diabetes tipo 2&nbsp;&nbsp;folha.uol.com.brAnvisa aprova medicamento semanal para diabetes com insulina e semaglutida&nbsp;&nbsp;CNN BrasilOzempic mais insulina numa caneta só: o que muda no tratamento do diabetes&nbsp;&nbsp;VEJAAnvisa aprova registro de medicamento para diabetes que combina insulina e semaglutida&nbsp;&nbsp;G1Anvisa registra caneta para diabetes que combina insulina e semaglutida&nbsp;&nbsp;www.gov.br",
+      "sources": [
+        {
+          "name": "folha.uol.com.br",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUkN2aGRjRVI3X1pwb3h1THlPTjZYSU4wRXdHNWJ3RWNGd3NYSVROeExoNkdZMGNwa19MVGI5MW5NYjh2Q1dKRUJiV1lFckllRjJpQ09Ganc3dXA3Vmdlek5WNFRVLXN0cWc2bTAxUGhVNFUtSXZxcDFMQUZqQWdzc2dMcjhoeE85YmVGbkZJQU9hcl8wS0l2VWsxRmRjVGF3RnhhM3ZWRkpiYThvV2tSVUJqOTBNNXRsUGlNVXAweGZTX0tKbnNBY1p6eldIVC1mTU40?oc=5"
         }
       ]
     },
     {
-      "id": "e280ad70ad8b",
-      "title": "Anvisa investiga 13 casos de doença ocular após uso de caneta emagrecedora - CNN Brasil",
-      "published": "2026-09-28T17:41:59+00:00",
-      "summary": "Anvisa investiga 13 casos de doença ocular após uso de caneta emagrecedora&nbsp;&nbsp;CNN BrasilAnvisa investiga 13 notificações de doença que causa perda de visão associadas a canetas emagrecedoras&nbsp;&nbsp;G1Anvisa investiga 13 casos de cegueira ligados ao uso de canetas emagrecedoras&nbsp;&nbsp;Folha de S.PauloAnvisa investiga 13 casos suspeitos de cegueira associada à semaglutida&nbsp;&nbsp;Gazeta do PovoUso de canetas emagrecedoras pode estar ligado a risco de perda de visão&nbsp;&nbsp;Te",
+      "id": "6761f96c024a",
+      "title": "Consumir duas fatias de frios embutidos por dia está associado a um risco 44% maior de demência - oglobo.globo.com",
+      "published": "2026-09-28T17:04:16+00:00",
+      "summary": "Consumir duas fatias de frios embutidos por dia está associado a um risco 44% maior de demência&nbsp;&nbsp;oglobo.globo.com",
+      "sources": [
+        {
+          "name": "oglobo.globo.com",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQUkFGb05feDJOMDlVenFzakROeDJqRkJBNy1ZOUVfVk44Vm9MWWRmc3czLWIyWjNxcGVzaFVWMnlGcXZaUGo4U3dxMEtzZjlhMnRlMnh1bU9EWkJBRTFzT1NfamN0OHRwMmtTNThnZnZYMWdOeU12Z1JqWUZFQk1yS21iLWJEYlJpVUt5TXlPWl9aSUFpOVJUYTNKS01JYmVkVXF4dEhEeVhOOVI0M0lzMXBLWDl5bGhTZktES09HN1lVcnhybElyT0NRb0hpRWJmNGZna2RXYlkyWC1ldW5HZDRFWC1GUDFlUE9PcWlOazBvTzQ1bVJFUHl30gGIAkFVX3lxTE11SThCbXNQM05aQTN4bE1vakVuc1VJSEczZkdvb1pJMG93M3BfWXA4bWd5bDZwRE9aUW9tdkt5LTkwZFd2WEZIaFo5OFdUT1JWb3NLM0RGUGdzalZBT25rT1NiTnJEWEZyVEkxR2ppcmdPd09QRHZha2NLVEtzWWp6QTdlN0R0Tms3ay1pZDB2ZHkwOHBFUHF2TDFSaExvbDZHQXprd2FybnF6UENpVXkzemVVTFgtV2tnZDh1T0x5TzZXVXlabFBoTmYwSDhCcU9iNFpRbmVEaldtMFByTnBieW9ieUJ2U1RDcmNHSHlLT2FjU0ZfemJiRTRsTlFGVW83QTdIR0FoSw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d1be9308e5d8",
+      "title": "Musculação \"queima\" gordura antes mesmo da perda de peso, diz estudo - CNN Brasil",
+      "published": "2026-09-28T16:22:14+00:00",
+      "summary": "Musculação \"queima\" gordura antes mesmo da perda de peso, diz estudo&nbsp;&nbsp;CNN BrasilMusculação faz células de gordura encolherem antes mesmo da perda de peso&nbsp;&nbsp;folha.uol.com.brUma semana de musculação reduz gordura visceral antes do emagrecimento, revela estudo&nbsp;&nbsp;Região NoroesteEstudo revela que musculação reduz gordura visceral em camundongos&nbsp;&nbsp;planetaosasco.comMusculação Surpreende: Células de Gordura Encolhem em 7 Dias, Mesmo Sem Perda de Peso Visível&nbsp;&nb",
       "sources": [
         {
           "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQakI5cmpjV25JX29yUEFNYUxPekR4amtaUUNIRFNEdU5mWTZRUjg1dFpKQkFmX1JrR0VtUnFkTGUwa1dNRm0yX3hidFk0bkg4MFRFVklwT0RBT0ViR0tjVjRSeDltODZrNEZfRjQ1ckpFZFZ0OElRcUZhb0diNXBXMzA2ZTF6a2xxRWJqRDBlN21vRmVqajBsZW5iZ1pzSEdVUVlIengySDd4SzY5TTBN?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR2xrNTBIWWJNSVVXRFY1VE02c3dwa3BERW1UVDhaUHRFTTNHN0RJUnpkUGVmNTQxNjl0TW1rUkQxVFRLS1hkYmM4YUpkUEo4T0UyVmNkVzZHeWpvcDZ6bEdURml4aGx6SDF6dDVNTUN0eGwzVENsNE1Rb2g2UWIzQk9CX3ZXUWcwYXlpMU0xdzNRckVDY1lWX1hVMlpEYWlBLTlr?oc=5"
         }
       ]
     },
@@ -42,13 +102,13 @@
       ]
     },
     {
-      "id": "f0cc9858d206",
-      "title": "Surto de sarampo na Pensilvânia se aproxima de 900 casos - 28/09/2026 - Equilíbrio e Saúde - Folha de S.Paulo",
+      "id": "95bb2ad573c3",
+      "title": "Surto de sarampo na Pensilvânia se aproxima de 900 casos - 28/09/2026 - Equilíbrio e Saúde - folha.uol.com.br",
       "published": "2026-09-28T16:10:00+00:00",
-      "summary": "Surto de sarampo na Pensilvânia se aproxima de 900 casos - 28/09/2026 - Equilíbrio e Saúde&nbsp;&nbsp;Folha de S.PauloVeja mais manchetes e perspectivas no Google Notícias",
+      "summary": "Surto de sarampo na Pensilvânia se aproxima de 900 casos - 28/09/2026 - Equilíbrio e Saúde&nbsp;&nbsp;folha.uol.com.brVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
-          "name": "Folha de S.Paulo",
+          "name": "folha.uol.com.br",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd3JMcW5qbTFxc2J1ckx1Nkx3X1liald1Mm9tSzBSUVpqcDE5TENnVmFoejdvSFg1S1l1b1d4T0tySno0S2tKUDhoWXBRWVlueDVuQV90bEswenB4eHp1X3Jab1dxM0c5Q2RhRzlhXzBKc2xyaU92bTg3SHpjUi1hTGduT3p1NzZGb3NfRDVndkgtSGczcnFVcWxoOWRUejllOVItUnRWdExSWnkwYWxQMXJXQkpSNjhS?oc=5"
         }
       ]
@@ -69,7 +129,7 @@
       "id": "ea12899775b1",
       "title": "Colesterol alto: veja 11 alimentos que ajudam a proteger o coração - ICL Notícias",
       "published": "2026-09-28T13:55:40+00:00",
-      "summary": "Colesterol alto: veja 11 alimentos que ajudam a proteger o coração&nbsp;&nbsp;ICL Notícias3 hábitos aparentemente não relacionados que, na verdade, afetam o colesterol.&nbsp;&nbsp;Vietnam.vnVilão incompreendido: por que seu corpo pararia de funcionar sem colesterol&nbsp;&nbsp;UOLColesterol: Três hábitos do cotidiano que podem piorar os níveis&nbsp;&nbsp;portalvoce.comAB Saúde: Colesterol&nbsp;&nbsp;G1",
+      "summary": "Colesterol alto: veja 11 alimentos que ajudam a proteger o coração&nbsp;&nbsp;ICL Notícias3 hábitos aparentemente não relacionados que, na verdade, afetam o colesterol.&nbsp;&nbsp;Vietnam.vnVilão incompreendido: por que seu corpo pararia de funcionar sem colesterol&nbsp;&nbsp;UOLColesterol: Três hábitos do cotidiano que podem piorar os níveis&nbsp;&nbsp;Portal Você OnlineAB Saúde: Colesterol&nbsp;&nbsp;G1",
       "sources": [
         {
           "name": "ICL Notícias",
@@ -90,38 +150,38 @@
       ]
     },
     {
-      "id": "ba34973af4d9",
-      "title": "Combinação de ômega-3 e AAS tem eficácia semelhante à de antibióticos contra periodontite grave - Folha de S.Paulo",
-      "published": "2026-09-28T13:07:00+00:00",
-      "summary": "Combinação de ômega-3 e AAS tem eficácia semelhante à de antibióticos contra periodontite grave&nbsp;&nbsp;Folha de S.Paulo",
+      "id": "26ed35236ea3",
+      "title": "Placa tectônica se rompe no Pacífico e aumenta risco de terremoto no Brasil, dizem cientistas - Correio do Estado",
+      "published": "2026-09-28T13:48:00+00:00",
+      "summary": "Placa tectônica se rompe no Pacífico e aumenta risco de terremoto no Brasil, dizem cientistas&nbsp;&nbsp;Correio do Estado",
       "sources": [
         {
-          "name": "Folha de S.Paulo",
+          "name": "Correio do Estado",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc0ZqeDIxRzZrTG5RSkE5alljTnNTaVZpRDNMd280YXl1elQ2czkybDBtTGJyb0dkb1dkT1hNbUw4YWotOWJXQW9BWXN6S3pKT2F0elpESmJtWHFPYWVsUl91ZVZKNE1WUzdrUFZqWFVDdVdkczkxdEFlVlBCNlJjY0JUWGp4V2tSWjZ0MUZrTmJxMmNONjM2Yi1wQUhwVUFvVE1JcFFLLVBCRDFSbzYtUVRlT2M?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2ebbc97c0c42",
+      "title": "Combinação de ômega-3 e AAS tem eficácia semelhante à de antibióticos contra periodontite grave - folha.uol.com.br",
+      "published": "2026-09-28T13:07:00+00:00",
+      "summary": "Combinação de ômega-3 e AAS tem eficácia semelhante à de antibióticos contra periodontite grave&nbsp;&nbsp;folha.uol.com.br",
+      "sources": [
+        {
+          "name": "folha.uol.com.br",
           "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPeE1HRzNYVENBbHBtZFVURnB6SFQ4NGFMQUJodE1ROFpxRUNadWNuTkJWUzFVWFVIVXgwOE56c1VVanhJRGtrQk5qTnJMa1VWUnU3U3JjV3daT0xTVlZIcmNSdzNKaVdTeGhscVF3WEdyc3ZCSHowUWUxa3h3ZkxySy00eWFudDdiZnVSTzF2bTFBQWZhY0VnYUpSYUlXR1ppaGVRa3F3OENOSjVKZXhmdG81RFhuWm5lOXVtZlBHb25YQy11cU1lMTQwSVFkYjlKNUtIVEpYQ1VVNHpfYXZPckpPeHdyRTYtb1hiUw?oc=5"
         }
       ]
     },
     {
-      "id": "59a0a1def8fb",
-      "title": "Musculação para saúde e aparência: como equilibrar os treinos - campograndenews.com.br",
+      "id": "0c84ad1359c8",
+      "title": "Musculação para saúde e aparência: como equilibrar os treinos - Campo Grande News",
       "published": "2026-09-28T12:15:00+00:00",
-      "summary": "Musculação para saúde e aparência: como equilibrar os treinos&nbsp;&nbsp;campograndenews.com.br",
+      "summary": "Musculação para saúde e aparência: como equilibrar os treinos&nbsp;&nbsp;Campo Grande News",
       "sources": [
         {
-          "name": "campograndenews.com.br",
+          "name": "Campo Grande News",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaVZlWXdfQVJnZEM3dDlrZ3NzWUJDZ285cUJwYTNCMVVBbFNqVzRjdVhBRDJLckdiRkRoZWtXTkZsdnM1U0ZWOHpRdFlFM3Nlc2VpZzgtQlZHbk0zbkhCYlpQdjJlamUyR2kzY2tUVnlkSGZUanhYOWxOdDg3cENDTFEtS002aE9WWHItb0U5bFZOUWJsX1dGSUtmY2QyRkFKdHd5bDVlY2lVelY5c2dTOFNyUU1fbFZJRHlYOVlFdEpyRWVoR2dyWdIByAFBVV95cUxPdWZRNkVEM1JaVm1xWmdqc0FnenRldE90NlcwMlJVQ3gyQ1BYaHppOWNNUkNFd1pyc2RuS3lwWFJKZzl5MFVwYXVPem1NV3ZsRDZwUDRHSU5reGRONFpibi1vSjktbUdPU0NqdFpUUjlUNGgtQWM0YzNMTTR3MUYydDN6YjZjOGRPU21Fck9CVzY1cVJoT095dzM4SXBTV0N4aURaa0JmdllrbkM5eHo4Z3dfRUpscDBQazJvWEl1UVNpaDBteXp2RQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0ef5a153e264",
-      "title": "Anvisa aprova vacina contra 21 sorotipos da bactéria causadora de pneumonia e meningite - www.gov.br",
-      "published": "2026-09-28T12:13:00+00:00",
-      "summary": "Anvisa aprova vacina contra 21 sorotipos da bactéria causadora de pneumonia e meningite&nbsp;&nbsp;www.gov.brAnvisa aprova registro de vacina contra bactéria causadora de pneumonia e meningite&nbsp;&nbsp;R7Vacina contra 21 sorotipos de bactéria da pneumonia é aprovada&nbsp;&nbsp;Aqui NotíciasAnvisa aprova nova vacina para adultos contra 21 tipos de pneumococo que podem causar pneumonia, meningite e sepse&nbsp;&nbsp;Sou de PalmasAnvisa aprova vacina pneumocócica contra 21 sorotipos&nbsp;&nbsp;por",
-      "sources": [
-        {
-          "name": "www.gov.br",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWUJzVGV1OWNuMXdaYUZPTkRPaFUyWTVrMjJGSnhWSFM2WkZUSXRuYmhkb3JvMWxNczNoN3NjVDNibERLemFadlNKaUxPVWdDVnBhM0NHcXFlMnJMQVc4d1Joc1lTR003ZFYzTFhHMlNhVUhUNnNtdndWRUk3UnJ4SkotMVVTWXZZUU85aXg2M0ZBR2ZrMl9DYjZQYW5OSDhDSFlGVzVrTl9ROXpFWWEtQnVSTjkzMGt4X3VSSllubnlCZGI0djVTVmxJWHJhTGNxNnA2MlN2MEpRb0FMSUkzTVlDbw?oc=5"
         }
       ]
     },
@@ -141,11 +201,23 @@
       "id": "a11ffd9e212a",
       "title": "Novo teste pode identificar tipo de tumor cerebral em menos de duas horas e acelerar diagnóstico - G1",
       "published": "2026-09-28T10:11:56+00:00",
-      "summary": "Novo teste pode identificar tipo de tumor cerebral em menos de duas horas e acelerar diagnóstico&nbsp;&nbsp;G1Testes genéticos identificam tumores cerebrais em menos de 2 horas.&nbsp;&nbsp;Vietnam.vnNovo teste promete fazer diagnóstico de tumor cerebral cair para duas horas&nbsp;&nbsp;MetrópolesNovo teste pode identificar tipo de tumor cerebral mais rápido; entenda&nbsp;&nbsp;Rádio ItatiaiaNovo teste identifica tipo de tumor cerebral em horas&nbsp;&nbsp;Portal Terra da Luz",
+      "summary": "Novo teste pode identificar tipo de tumor cerebral em menos de duas horas e acelerar diagnóstico&nbsp;&nbsp;G1Testes genéticos identificam tumores cerebrais em menos de 2 horas.&nbsp;&nbsp;Vietnam.vnNovo teste promete fazer diagnóstico de tumor cerebral cair para duas horas&nbsp;&nbsp;MetrópolesNovo teste pode identificar tipo de tumor cerebral mais rápido; entenda&nbsp;&nbsp;Rádio ItatiaiaNovo teste identifica tipo de tumor cerebral em horas&nbsp;&nbsp;portalterradaluz.com.br",
       "sources": [
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPN2JLMEQ5b3dMb0tDZGNrLWhDYnRub3NmX0IyZkVyc2t3YlJsN0Zha0pubzd4c0pUUVVxS1h3QkhjbE8tWGZGdGI3d09oTnlDd25aVlY4SlB3Z1d6WDNVS093NVdVQ2NWNWtlMDlBY0J3S1BxSTRUUjJsbW9STEY5cmJNb2xaMVNIYmRybkg3UkFidWhfREYxXzk2czhtb3VKRk82ZXNnRUY0dUdGc19Tempnc0otM2lrNGFPNE0zc0dLRGZzb2pVOGJCcXZtdlZfTGxKa1BSd05qelhCWENOTl9n0gHwAUFVX3lxTE1MTkZEZFVwM29CU0pseHBqZ3NOei15WXZuZ0JNUmZvZzZDVmpKUkpON0doWkJKbnROb01sQWpUcW11Unh0Wk9QSEpxMzJ4YURpVWFNa2FNODl5cVZmZnRvZ28ycGlfODVSLU5pMHd6TWhSVEw2bVcxSTlNM3VtMElOREozbk1UUWtUWHN4VUp2UWVldHN6QjhqQ1laTU1Pd19OQzRhNXFRZElJSllSemJIcjlyZUJmdUUyaVFRSEVWNmh3TGJnOFQ0Z3F0NXVlMW5PT2Iyc1dwOVkzN2cxdDV5cDdUUDhZU0FMWE50bXlJcQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ffee678c8ac4",
+      "title": "Quem estudou matemática nos anos 80 e 90 deveria lembrar desta regra: quanto é 7 × 7 + 7 − 7 ÷ 7? - Super Rádio Tupi",
+      "published": "2026-09-28T09:31:06+00:00",
+      "summary": "Quem estudou matemática nos anos 80 e 90 deveria lembrar desta regra: quanto é 7 × 7 + 7 − 7 ÷ 7?&nbsp;&nbsp;Super Rádio Tupi",
+      "sources": [
+        {
+          "name": "Super Rádio Tupi",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdmY3eHZPVmN4SUl4WV9PYXhqMkNEcjBfazZJMVd2Y21lQktnaWtselV6Rk0tOFRwakZjLUh5OTNDSFFJOEJDMjZmUktnemVaSzNNeTFIRUdlR3FicWFBM0N3dzkyandaandzc1BpNDlYMk0tVVNfWFlKQTFWUjRHUUltWlpOLUQ0ODRmazlqNnZScmc0NFRIY3dwdXB5cTF4WU5NTGlIMW41eVpmNnF5S2JFTkVDcDRLQnlQOHY3d18?oc=5"
         }
       ]
     },
@@ -162,85 +234,73 @@
       ]
     },
     {
-      "id": "e33d3c723eb5",
-      "title": "Hipertensão pode não dar sintomas e aumentar risco de AVC; saiba quando a pressão alta é mais difícil de controlar - Jornal Correio",
+      "id": "9565504293a0",
+      "title": "Hipertensão pode não dar sintomas e aumentar risco de AVC; saiba quando a pressão alta é mais difícil de controlar - correio24horas.com.br",
       "published": "2026-09-28T08:30:00+00:00",
-      "summary": "Hipertensão pode não dar sintomas e aumentar risco de AVC; saiba quando a pressão alta é mais difícil de controlar&nbsp;&nbsp;Jornal CorreioEspecialista fala sobre o desafio de controlar a hipertensão no Brasil&nbsp;&nbsp;niddedigital.comQuase 60% dos hipertensos abandonam o tratamento quando a pressão melhora; cardiologista explica o erro&nbsp;&nbsp;ohoje.comDepartamento de Hipertensão Arterial vai às ruas para incentivar o diagnóstico precoce da pressão alta&nbsp;&nbsp;Estadão Blue StudioQuase",
+      "summary": "Hipertensão pode não dar sintomas e aumentar risco de AVC; saiba quando a pressão alta é mais difícil de controlar&nbsp;&nbsp;correio24horas.com.brEspecialista fala sobre o desafio de controlar a hipertensão no Brasil&nbsp;&nbsp;niddedigital.comQuase 60% dos hipertensos abandonam o tratamento quando a pressão melhora; cardiologista explica o erro&nbsp;&nbsp;O HojeDepartamento de Hipertensão Arterial vai às ruas para incentivar o diagnóstico precoce da pressão alta&nbsp;&nbsp;Estadão Blue StudioH",
       "sources": [
         {
-          "name": "Jornal Correio",
+          "name": "correio24horas.com.br",
           "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOdm1lZUhHNEFfT2ZxdHctTnliaDJtWnZELV96UDBGVGZzcFVRRVIwQWtyNWRKckhEdE85YjNwRU9XTUJkRjRxTDBhNDgyV1pSaDFMQkp6S2lScmxNSmZiYzc1UXNzQWZlOWR5c0F6MWlNZnVmSHMxaV9EaVM4bzVHSUhXMzBIMWZXUVRNZTUtOXQwWnZjQ3RDWm5UUjlqZDdGc0ZTeERVTWpYd1l2eGd3Z1Z1TlRUSXRHb2JSTm0tMjlxdG96eERLaFNUbDZ1MS1SSlZuTUVjNFRsd3ZYQ1h6UktYNUY4My1oN01xWDB4SQ?oc=5"
         }
       ]
     },
     {
-      "id": "0abaeb2912ad",
-      "title": "Caneta emagrecedora abre oportunidades para o setor de beleza - Valor Econômico",
-      "published": "2026-09-28T08:00:00+00:00",
-      "summary": "Caneta emagrecedora abre oportunidades para o setor de beleza&nbsp;&nbsp;Valor EconômicoDepois das canetas, “kit Mounjaro” começa a ganhar espaço nas farmácias&nbsp;&nbsp;NeoFeedPor Que Não Adianta Usar Canetas para Emagrecer sem Mudar o Estilo de Vida&nbsp;&nbsp;Forbes BrasilCanetas emagrecedoras mudam hábitos alimentares em Campo Grande&nbsp;&nbsp;campograndenews.com.brCanetas emagrecedoras acendem alerta também para a saúde bucal&nbsp;&nbsp;Estado de Minas",
+      "id": "0ef5a153e264",
+      "title": "Anvisa aprova vacina contra 21 sorotipos da bactéria causadora de pneumonia e meningite - www.gov.br",
+      "published": "2026-09-28T08:13:00+00:00",
+      "summary": "Anvisa aprova vacina contra 21 sorotipos da bactéria causadora de pneumonia e meningite&nbsp;&nbsp;www.gov.brAnvisa aprova registro de vacina contra bactéria causadora de pneumonia e meningite&nbsp;&nbsp;noticias.r7.comVacina contra 21 sorotipos de bactéria da pneumonia é aprovada&nbsp;&nbsp;Aqui NotíciasAnvisa aprova nova vacina para adultos contra 21 tipos de pneumococo que podem causar pneumonia, meningite e sepse&nbsp;&nbsp;Sou de PalmasAnvisa aprova vacina pneumocócica contra 21 sorotipos&n",
       "sources": [
         {
-          "name": "Valor Econômico",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR0NlQmtBYkpUSWNoOExGUFVzUGpicEg3dVU5Tm5DcWZTWTVSTXVFOHFISHEyS2NuamN4ZmV2UzMzeTg1VmNIZXpFUjQ0WWd3WDRQNjBXVVBiMWdFVFVyVmtwN0c0c1hPakIzRVFpSDRvRmhLTjBfZnJIUUhDVzFScVVZUkt5RUdlOEdOVXNiRjV4NnVwRnN6d0dBS1lLYWZwZlRMb1JkMzdTSnRmRTVPMC1pVDdmUWJPa2F30gHKAUFVX3lxTE1Da2NFX2FuUzVrRldrUkJLYktrZElYcVNDdXVEOHNwbXBGazNsSTN0VGVXa0pnRkI1RVZYUlVhaVBlVFVyZVdfTUVIM25qRlR1VmlqM3UzdHBTaWFwUUQwQklRaGhNc2J3WTlySFo1bjJmTjhWYlRlOGlDX25Oa1E5QmVUa2FTdVN0Q3BNQmQ4d1ZXYXJ2UkhBdlJVTlBCck1KT3FsWW9uZWF3eHdaaFhiZ19Ydnp1RmJFR2VWZDdVT3Jmc2xWUUgyYXc?oc=5"
+          "name": "www.gov.br",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWUJzVGV1OWNuMXdaYUZPTkRPaFUyWTVrMjJGSnhWSFM2WkZUSXRuYmhkb3JvMWxNczNoN3NjVDNibERLemFadlNKaUxPVWdDVnBhM0NHcXFlMnJMQVc4d1Joc1lTR003ZFYzTFhHMlNhVUhUNnNtdndWRUk3UnJ4SkotMVVTWXZZUU85aXg2M0ZBR2ZrMl9DYjZQYW5OSDhDSFlGVzVrTl9ROXpFWWEtQnVSTjkzMGt4X3VSSllubnlCZGI0djVTVmxJWHJhTGNxNnA2MlN2MEpRb0FMSUkzTVlDbw?oc=5"
         }
       ]
     },
     {
-      "id": "ed3b8cddf177",
-      "title": "Musculação faz células de gordura encolherem antes mesmo da perda de peso - Folha de S.Paulo",
-      "published": "2026-09-28T07:00:00+00:00",
-      "summary": "Musculação faz células de gordura encolherem antes mesmo da perda de peso&nbsp;&nbsp;Folha de S.PauloMusculação faz células de gordura encolherem antes mesmo da perda de peso, mostra novo estudo&nbsp;&nbsp;O GLOBOMusculação ativa mecanismos de queima de gordura em 7 dias, diz estudo&nbsp;&nbsp;Correio BrazilienseUma semana de musculação reduz gordura visceral antes do emagrecimento, revela estudo&nbsp;&nbsp;Região NoroesteFaz musculação e não perde peso? Estudo mostra o que acontece com a gordur",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdFJVQ0tma1pTTV9mQVdvQ3F0dEhZSWlyTTY5ekhkOFRaMWV6aXlvbHVBLXdzVTdoT0ZnVkpiemNxYkpFd2ZMUlB6dnQxVmFNLWdaOWR4c2h5VmRNT09ZYWNSanJua2VPTkZpcHRkUEZvTUt5RkhpWG9hcldBM2FNZVEzeFNrSGJBOE5ZR3pjOGw1SEEyREdtZ0JxSWhqQTg4NG81OW80V3VmM3dqeG5HM2gtaU50MW9zS1RJQjRKRXU4Tnl0NDZZ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6b6ea7a62602",
-      "title": "AVC está se tornando mais comum entre jovens adultos; o que os especialistas querem que eles saibam - R7",
+      "id": "7a72a17e3401",
+      "title": "AVC está se tornando mais comum entre jovens adultos; o que os especialistas querem que eles saibam - noticias.r7.com",
       "published": "2026-09-28T05:00:00+00:00",
-      "summary": "AVC está se tornando mais comum entre jovens adultos; o que os especialistas querem que eles saibam&nbsp;&nbsp;R7AVC se torna preocupação também entre jovens&nbsp;&nbsp;Jornal O candeeiroAVC cresce entre adultos jovens e especialistas alertam para prevenção precoce&nbsp;&nbsp;Porto Ferreira HojeEspecialistas alertam para risco de AVC em jovens e adultos&nbsp;&nbsp;TV Guararapes",
+      "summary": "AVC está se tornando mais comum entre jovens adultos; o que os especialistas querem que eles saibam&nbsp;&nbsp;noticias.r7.comAVC se torna preocupação também entre jovens&nbsp;&nbsp;Jornal O candeeiroAVC cresce entre adultos jovens e especialistas alertam para prevenção precoce&nbsp;&nbsp;Porto Ferreira HojeEspecialistas alertam para risco de AVC em jovens e adultos&nbsp;&nbsp;TV Guararapes",
       "sources": [
         {
-          "name": "R7",
+          "name": "noticias.r7.com",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUzBYSmwxa0pjMWxnY2pkcGl3c1gwTGJIOXlWbXkxWVRZOFpySXJVUHVxek5mVi1QN3VHbUx4Y0w4R1haUmJMQ1JjMEpSRHRZUXBqM3VRd0ZKSTlBNlNRMnNfdTZNMkNjNlJYNUxmQ1BxUVk5Qm5HRlFDa202bG9FTkVlTElpZjRqNWNTTHNMNE1GaDdyaTlxTWxGYm5tR2c2ZDlNX3MydGU0ZzRndkJhTmR1eUtaU0dsdkRVeVdVd0V1aGthTG5sUDdUeTdjaFJUVUd1Zg?oc=5"
         }
       ]
     },
     {
-      "id": "e2a16b9140b4",
-      "title": "Falha no reparo do DNA materno compromete desenvolvimento embrionário e gera mutações pós-fecundação - Agência FAPESP",
+      "id": "98dd6054576a",
+      "title": "Falha no reparo do DNA materno compromete desenvolvimento embrionário e gera mutações pós-fecundação - agencia.fapesp.br",
       "published": "2026-09-28T03:02:14+00:00",
-      "summary": "Falha no reparo do DNA materno compromete desenvolvimento embrionário e gera mutações pós-fecundação&nbsp;&nbsp;Agência FAPESP",
+      "summary": "Falha no reparo do DNA materno compromete desenvolvimento embrionário e gera mutações pós-fecundação&nbsp;&nbsp;agencia.fapesp.br",
       "sources": [
         {
-          "name": "Agência FAPESP",
+          "name": "agencia.fapesp.br",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdVhOVWhWN1BMS3NyOHVDSEZIZ2pqMmxSTUNLek9aTkFjOER2YUNqMFUtLWZxRXRheG56RWF4dndwck1ocnB4ZTBpa0MtZjE1YktZVkFUaHBrY2pXaHVWdWtqWFZoNUp0djFOUktaTHR3dTRXZUtjaHBRQUlsUk9mVldEWTh2M0xvdXItSkNVQkRsRW1KZ1JrX2Y5WVJMSEVlN0VTQ3lEYUk3NTB5TmNfeHBPanhYOThhQWN1eFRQWnVCNXdvMDB1ZjdiaVM?oc=5"
         }
       ]
     },
     {
-      "id": "266db96c018f",
-      "title": "Bactérias formam ‘escudo microbiológico’ e protegem o trigo contra fungo patogênico - Agência FAPESP",
+      "id": "c9436d1cc14a",
+      "title": "Bactérias formam ‘escudo microbiológico’ e protegem o trigo contra fungo patogênico - agencia.fapesp.br",
       "published": "2026-09-28T03:02:14+00:00",
-      "summary": "Bactérias formam ‘escudo microbiológico’ e protegem o trigo contra fungo patogênico&nbsp;&nbsp;Agência FAPESP",
+      "summary": "Bactérias formam ‘escudo microbiológico’ e protegem o trigo contra fungo patogênico&nbsp;&nbsp;agencia.fapesp.br",
       "sources": [
         {
-          "name": "Agência FAPESP",
+          "name": "agencia.fapesp.br",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeWtSbmhBZElPMThGeHBlVU5SQTVCU0tNX1RKMXRXOG8zTjhYcWJ1eEhudGZUTDcybS01OEt6MmFmVVFpUk1IWlJoUEFYWEE1dDlzX2hDb0l1Q21TdmRCWGdPb3NzdXc4bER4ZlBBNGhvMWwyX2RfTGlkX2FWbEtVY3JWY2RRLWY3VXo1c0wzSDVxcEI5SUpJVGY3cjVZZV9IUGI4S0JvbUFveEFJdDBUMHFYTQ?oc=5"
         }
       ]
     },
     {
-      "id": "5fc2aa22c555",
-      "title": "Mônica Bergamo: Pesquisa brasileira identifica novo alvo contra doença de Chagas - Folha de S.Paulo",
+      "id": "b9989ec57f85",
+      "title": "Mônica Bergamo: Pesquisa brasileira identifica novo alvo contra doença de Chagas - folha.uol.com.br",
       "published": "2026-09-28T02:00:00+00:00",
-      "summary": "Mônica Bergamo: Pesquisa brasileira identifica novo alvo contra doença de Chagas&nbsp;&nbsp;Folha de S.Paulo",
+      "summary": "Mônica Bergamo: Pesquisa brasileira identifica novo alvo contra doença de Chagas&nbsp;&nbsp;folha.uol.com.br",
       "sources": [
         {
-          "name": "Folha de S.Paulo",
+          "name": "folha.uol.com.br",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaFF5TUtac2cwb2xSaGNXREVmeWJJQXBTb3NLNmtHUG51ckpxNDEzbW1QWWdBSEJyLVJFTWk4SFR5T3F2NnJxblVwU1gzcFRYU1JSb3VkdWdUbVQ5SW56dndMR0pWN1BHaXhCWVBLQWdSdkJ4SU5DRUxURDAyX2oxd2tRczRQZVJhQlVNQVlZNlczQlBWcl9WQjVnSnJFZGJ5WkNZRjhwbXBQaV9QU3JRTlZCNjlXc1lIamczRnhWSmJsWUtsS3ZvcmdR?oc=5"
         }
       ]
@@ -282,38 +342,26 @@
       ]
     },
     {
-      "id": "b7f0f78cf259",
-      "title": "Em 1989, dois macacos passaram 14 dias no espaço, mas um problema de temperatura acabou destruindo experimentos com formigas e minhocas - tupi.fm",
+      "id": "c9335111171b",
+      "title": "Em 1989, dois macacos passaram 14 dias no espaço, mas um problema de temperatura acabou destruindo experimentos com formigas e minhocas - Super Rádio Tupi",
       "published": "2026-09-27T16:51:59+00:00",
-      "summary": "Em 1989, dois macacos passaram 14 dias no espaço, mas um problema de temperatura acabou destruindo experimentos com formigas e minhocas&nbsp;&nbsp;tupi.fm",
+      "summary": "Em 1989, dois macacos passaram 14 dias no espaço, mas um problema de temperatura acabou destruindo experimentos com formigas e minhocas&nbsp;&nbsp;Super Rádio Tupi",
       "sources": [
         {
-          "name": "tupi.fm",
+          "name": "Super Rádio Tupi",
           "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQc0FLaWlDbGZTVVYwMmFwZzFVX2lKYXdZak4tRjBLcG9neVZPaVVwNEhUWENxOGxHREFuQnYyWkFTNjNGQUdtaVpkbHZYUUxaUU5pemhUSE9wd3ZKQlFzclF1Y2RKU1prV2xpZWgyZTJPTk5DMXptY0d3SjFIcWstaTdENmF3el85YnctQ2RWQ2ZpaWw3R2xpbFZTRHc3TzFyVHc3ck5ObHNhWEIzSU13MDllbDdJNFpYdjQzZFFabU5oQnNlQ2ROWFZ5aDFjYkMxTHpBZ2pVRnJBNGd4eVE3T0JiT3lVbnlDWDJRVjFVN1dzU2MzOU8xSTVzUEllUQ?oc=5"
         }
       ]
     },
     {
-      "id": "beba605d725f",
-      "title": "Canetas emagrecedoras podem afetar ovulação e ciclo menstrual, sugere estudo - Exame",
-      "published": "2026-09-27T16:12:34+00:00",
-      "summary": "Canetas emagrecedoras podem afetar ovulação e ciclo menstrual, sugere estudo&nbsp;&nbsp;Exame",
+      "id": "355210dfba0e",
+      "title": "Pesquisadores encontraram no Amazonas restos de estradas retas de 2 quilômetros ligando aldeias que a floresta cobriu, e a descoberta muda o que se ensinava sobre a ocupação da região - Olhar Digital",
+      "published": "2026-09-27T14:47:00+00:00",
+      "summary": "Pesquisadores encontraram no Amazonas restos de estradas retas de 2 quilômetros ligando aldeias que a floresta cobriu, e a descoberta muda o que se ensinava sobre a ocupação da região&nbsp;&nbsp;Olhar Digital",
       "sources": [
         {
-          "name": "Exame",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWnh0YlJoYXo3ZkhQSVdKdTRxYVFDcktydElOcWJCWDRzSDFkTFVReFNwUDlqa19Jc3lLVGhuTU9mVzRBTkU3RG9UdEhYdG83bU9haUZzTm9aSlEtUXdyd0UzLXc4RWVKalZWNmM0WnFXUk9RZXA5aFhQN204VWp1aENSTHo5bzBScmgyd3FnMWpZRzRLeGpsUEQweWQ3NGJPb2daaA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c164aacc9dd4",
-      "title": "Infertilidade masculina é um problema silencioso e ainda ignorado; mas por quê? - UOL",
-      "published": "2026-09-27T14:38:08+00:00",
-      "summary": "Infertilidade masculina é um problema silencioso e ainda ignorado; mas por quê?&nbsp;&nbsp;UOLInfertilidade masculina: um problema silencioso e ainda ignorado&nbsp;&nbsp;DW.comEstilo de vida do pai pode afetar a saúde do filho até a velhice, aponta estudo&nbsp;&nbsp;TVBV ONLINEInfertilidade masculina é um problema silencioso e ainda ignorado&nbsp;&nbsp;redeutv.com.brSaúde do pai antes da gravidez pode deixar marcas nos espermatozoides, aponta pesquisa&nbsp;&nbsp;portalviu.com.br",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMVo3a256c2J6Unh4NXZuS1BXZERHLWpfTkczZnRNTUFiN0RFU0xYbjhkZWtpeEdDQ0c1Wm9aTXUxY2ZXNDRCcGNzanRfbkZCaF9GVUhNaFpBVFd2N2ZpQ1FuNlNjaDZlSWRYVlQ1bEI3b3hSaXZUVDBLeWk2U0hmb0VGS0l5Sks5YTg3UENLRWM3Vm0zWHlfb0FFRlF6V1RTNUVpanJaLUlRSEstV2xpVWdQbDBZRG56TzZhV3VYNS1rcHFwc0tkLVFsNlZLeV8w?oc=5"
+          "name": "Olhar Digital",
+          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPOFlQM21vc1hmajZOVl85ekJNSTZXaWlmc3Q5aEdUcW1pVEVlRTVaNFR5SlVFOTZWWlRNQUl6TjdsaWhNU25NaGtnTXBleGpEMmpRN0lfeDN1MXhDc3YxWVFlZ2EyU1VqLV8xUnRZZ3ZBNUdTQ1M1eWFoaG52MEVIVFg4Q21DOTE0RDVQWHRFa0J6eVFCVGpYRVZxZ0J0NkxkUW5LU0ZTcldTVEJnOWxzRXAtZGp3M0xudGRJRHBlcjVVanQ4MUx4Uy1wakxYUjV0MVh6RGdVbVlRaWw0WTNlUGtTYVUzYXV3OXdnemRaNFZBOWp5YTJzT2NxekdCaUZXUER5NzNjcVBfb3hCWlVQTExRZ3kybmsteFZNakRuUUprNzhiWS1fSEp2b0dBeGowR2dmWUc5RWhrcnlFVmxwbUlRX2VROGgtZE45NDlzSmluRFh6N2c?oc=5"
         }
       ]
     },
@@ -330,50 +378,14 @@
       ]
     },
     {
-      "id": "5f09584cc503",
-      "title": "Aluna de Manaus que fez projeto sobre câncer na adolescência inicia graduação em Columbia - Folha de S.Paulo",
+      "id": "22d09ba48df7",
+      "title": "Aluna de Manaus que fez projeto sobre câncer na adolescência inicia graduação em Columbia - folha.uol.com.br",
       "published": "2026-09-27T13:00:00+00:00",
-      "summary": "Aluna de Manaus que fez projeto sobre câncer na adolescência inicia graduação em Columbia&nbsp;&nbsp;Folha de S.Paulo",
+      "summary": "Aluna de Manaus que fez projeto sobre câncer na adolescência inicia graduação em Columbia&nbsp;&nbsp;folha.uol.com.br",
       "sources": [
         {
-          "name": "Folha de S.Paulo",
+          "name": "folha.uol.com.br",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNlgzTGpyZ241Y2h1SFJtb2NmZ2dJZHlDd2M5OTZBbkJFUlFRNmJOajJNQ0kxMk1OOHhtVzhzNmpCaEZMQ3I4ZTZWaUxuYk5mMnlSMVJLUllNMWpzQnFTTFhzMkVIUy1VNEtyMVZXM2tzQ283bldHTGVUcE9PZy1LbWxiQ2JyS0xteUZncW9qSVJGNmlrbW85WjB2SzB5RU1ERzdwY1p0bWNMT1FJc0NOYjd2eEVsVE80ZTVZaWpUVjZPSXNwYmVjMHdvR3oxNThiWHJwczZXSnlXZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ebf93afc6cdb",
-      "title": "Estudos indicam número ideal de passos para emagrecer e ter mais saúde - Tribuna Online",
-      "published": "2026-09-27T11:26:32+00:00",
-      "summary": "Estudos indicam número ideal de passos para emagrecer e ter mais saúde&nbsp;&nbsp;Tribuna Online",
-      "sources": [
-        {
-          "name": "Tribuna Online",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUHZMbHVLNHdJZm5ETm9oNmc3M25iVUc2QjE0T3laN2VHZkVoUlBVZGtQalpPVDlITzh2QnV1WWZpeE1WRUhlcjdmSUhYWDM5ZDQtSk45Ym9NRl9kOElIa3J1TW1IS0pLSW1BM2l1VkZhUHQwOEFyZjVmNEFRWE9RelpNdEdxYnU2NWJjYVhjQWw0WHpXdk4xWkVtVHNwY3BIUFBJaEFiVlNmM1N5UVJqdW9n0gG6AUFVX3lxTE11Y3NBV3otVTdQYTFOcTl3QVF1Uk56cklQMVFybXg2VkZNNzJrLVJWRkJLU09mNjBWNkhfQUpneW9hMDlHTmtOMWlxeUhsYVhxTzFBcFhGcWNjRjV4MGc3TDRpQldwWk9rNGxPZ3loTEh6azZMRlZiWWtHSFVMYlkzRDhzbEhnZUZVMTY3SnowXzNaSzNheWRpcFVnUzA2UXJsZFNZSnRpRnVaWHE3TVdyTXloal9aMUxrdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "eea3c7760cad",
-      "title": "Histórico: cientistas captam o primeiro sinal de rádio de um planeta fora do Sistema Solar - tudocelular.com",
-      "published": "2026-09-27T10:42:20+00:00",
-      "summary": "Histórico: cientistas captam o primeiro sinal de rádio de um planeta fora do Sistema Solar&nbsp;&nbsp;tudocelular.com",
-      "sources": [
-        {
-          "name": "tudocelular.com",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLTZ0QmQybThvcGRDMVNBaFc4d0dnTF9peDVPbk0wZkU0TlJ1ZkdNTjNHdFVlN1RVT0lnWUp5U21wVUplMXFJQnlRUjIwcmhNbm84QWotTzI0TXlsazFkZ19TMTJQTlRkeXVmSG9pNVl0WG5ndU01aWFnVVhyYW54d2UxT2tjX3kxajN6aXpwTndtTzRweVFCQWNKcFZOUVEwb2drbkFR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8ab353782701",
-      "title": "Cabelo não cresce de dentro para fora, mas é puxado para cima, diz estudo - CNN Brasil",
-      "published": "2026-09-27T09:30:02+00:00",
-      "summary": "Cabelo não cresce de dentro para fora, mas é puxado para cima, diz estudo&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVDJuTHhZSDEtT2FVVWRURk1UdXhWUWphaHRDck5hYUFnU2t0clpHMEx4Zk9obzc3c1BTcHRUYzJBSDdkOGRsV25aZVRpVll2cUFZVk4wampTZnU4bFFUUnJuZi1GWXh1c3VsMzRZbHJzNVNOSUZ5N0tmd203Uk1QdmN5dDJuMjFidFo4RzJ5b29YWUZjS0hleFJvWGJZTy1jYzRnMVI5OFJjd296RGRZQjNqTGU?oc=5"
         }
       ]
     },
@@ -390,18 +402,6 @@
       ]
     },
     {
-      "id": "ca6f6cbf8c6c",
-      "title": "Azeite extravirgem tem propriedades anti-inflamatórias? Saiba o que a ciência já descobriu - Jornal Correio",
-      "published": "2026-09-27T09:00:00+00:00",
-      "summary": "Azeite extravirgem tem propriedades anti-inflamatórias? Saiba o que a ciência já descobriu&nbsp;&nbsp;Jornal CorreioBrasil bate recorde de azeite e teme 2027; entenda&nbsp;&nbsp;R7Oito mitos e verdades sobre o azeite que todo consumidor deveria conhecer&nbsp;&nbsp;Assine AbrilAquecer o azeite não o faz perder os benefícios, apontam nutricionistas&nbsp;&nbsp;MetrópolesAzeite de oliva no lugar da manteiga: o que pesquisadores viram na pressão arterial&nbsp;&nbsp;Tua Saúde",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZEZPakNWMUlpYng3Vnc3S2lOcmNOS3J1WXJma3VjX0Nua0M3OGtVbUFZX1Fra1M5Z0NWMTNnVWY4QU16WnVOYXZ5M1NFVU1UODBOUzk3RmNtOXlOZjZicWtsYktXNzlCLTdXbHctbzd6N1NSOVlGSDlTRUVRdG5jOE9LSlVtbGxPNVhFQk5RNEFCenREeDcxblhfWGV5VS1aZzFLeElKZXZNRlA0cVRST3VvZS1GSTBmQTJfS1BteWNiV2JEUl9kdFhzZFN5dw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6bccd211a20b",
       "title": "Obesidade + Envelhecimento: uma Bomba para o SUS - Estadão",
       "published": "2026-09-27T08:30:00+00:00",
@@ -410,6 +410,18 @@
         {
           "name": "Estadão",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWk5DQVJ5ODA1UXVmOGU3elR6cXZScV83eTJaVHJCUC1YVlNKZTd5aUU4QWJiZG1aYThqRTFrdmhfeV9xTk5BVDFQSFUyTndOREVqcEV4aDdrT2t3VmVNYzFDZXdlQ3ZpT2p4MUREQ0NaRG5KWm5vMW5OVVIwRlBTUW4zaWVweUcwVTJGREQ3MDlBdF9mSVhXNHItYUlMNlpDY21j?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c6b0ed9d4ec1",
+      "title": "Infertilidade masculina: um problema silencioso e ainda ignorado - DW.com",
+      "published": "2026-09-26T15:23:03+00:00",
+      "summary": "Infertilidade masculina: um problema silencioso e ainda ignorado&nbsp;&nbsp;DW.comSaúde do pai pode interferir no desenvolvimento dos filhos até a velhice, diz estudo&nbsp;&nbsp;TerraSaúde do pai antes da gravidez pode deixar marcas nos espermatozoides, aponta pesquisa&nbsp;&nbsp;portalviu.com.brInfertilidade masculina é um problema silencioso e ainda ignorado&nbsp;&nbsp;redeutv.com.brEstilo de vida do pai pode afetar a saúde do filho até a velhice, aponta estudo&nbsp;&nbsp;TVBV ONLINE",
+      "sources": [
+        {
+          "name": "DW.com",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdHJJVlo0LTZCMjlsbS13aXB0X2sxZjVwWFVkY2dJZ0g3Um1tYjdZRUtlWVdHYkVOd0FuWmNYMGhzR21PX1JtY0NKTldSckExajRsZGZTaVEycXY5MDA1bzlnb1FrWk9GWTJQeGFxMjFDZjh3VnlVZ0lPSExKdkk5a21uT0QtNWpjd0VaTGtNRVRVeGxYRUpneERkRGExcThFblpnRjZfOW1fd9IBqgFBVV95cUxNQ3FXU0RNd0tHM2lmN28wQXhHZUxxamVUSy1wdTBhY00yY05JaXFaUC1OQnZaWnR3N3ZCM1VLZnZpQ3FoS3RFR1JVdzExZDdwaldlRGdsVWRvNG5aVE9rN0VXSDY2QlVYUXpfNWxMS0NONTJleW8xRUNFOEtPZHdQWXA5bUNCWHo5ZVBGQk52enoyNkgzTWR3aHlLVzZTck83TkhmT0xtUjE2Zw?oc=5"
         }
       ]
     },
@@ -429,7 +441,7 @@
       "id": "1f1c3e2ff3f0",
       "title": "Terapia hormonal na menopausa: dose e via de administração determinam risco de trombose - Medscape",
       "published": "2026-09-25T16:24:46+00:00",
-      "summary": "Terapia hormonal na menopausa: dose e via de administração determinam risco de trombose&nbsp;&nbsp;MedscapeO momento de começar a reposição hormonal pode fazer diferença para o coração&nbsp;&nbsp;GloboSuplementos para Menopausa: Guia de Segurança para Fogachos&nbsp;&nbsp;Kantesti AI Blood Test AnalyzerUsa hormônio para menopausa em comprimido? A via pode mudar o risco de trombose&nbsp;&nbsp;Tua SaúdeMenopausa: terapia hormonal é segura? Entenda os riscos&nbsp;&nbsp;Terra",
+      "summary": "Terapia hormonal na menopausa: dose e via de administração determinam risco de trombose&nbsp;&nbsp;MedscapeVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
           "name": "Medscape",
@@ -438,13 +450,13 @@
       ]
     },
     {
-      "id": "e1e871f49159",
-      "title": "O que novo estudo diz sobre efeito da maconha contra estresse - Diário do Centro do Mundo",
+      "id": "66206fe849e0",
+      "title": "O que novo estudo diz sobre efeito da maconha contra estresse - diariodocentrodomundo.com.br",
       "published": "2026-09-25T16:16:56+00:00",
-      "summary": "O que novo estudo diz sobre efeito da maconha contra estresse&nbsp;&nbsp;Diário do Centro do MundoEstudo de 2026 revela que uso de maconha para problemas mentais ainda não tem provas científicas&nbsp;&nbsp;bra1.com.br",
+      "summary": "O que novo estudo diz sobre efeito da maconha contra estresse&nbsp;&nbsp;diariodocentrodomundo.com.brEstudo de 2026 revela que uso de maconha para problemas mentais ainda não tem provas científicas&nbsp;&nbsp;bra1.com.br",
       "sources": [
         {
-          "name": "Diário do Centro do Mundo",
+          "name": "diariodocentrodomundo.com.br",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ2ZTel9qdjdKNlA0TXNJYk9Da29GdFBTMVNHZGg3b1FZd1A5eDl4OFA0WkpPYzZDUGtLRUpEYzVpZzFPc0laeEpPbm8taTlpM2lCLWxmQWlVdlIySTdjSE8ySWs4SGhacmc2elpzMnpuQmZ3aDBidGtjNmRMY21JUjJGU0VmTkkzTHR6NnZwN3FySmRZVVY2SFFCaTdkb1NpMHBsdA?oc=5"
         }
       ]
@@ -453,11 +465,23 @@
       "id": "d994b4ef3860",
       "title": "Lúcia Helena: Dormir pouco compromete a longevidade, mas dormir demais também faz mal - UOL",
       "published": "2026-09-24T22:02:37+00:00",
-      "summary": "Lúcia Helena: Dormir pouco compromete a longevidade, mas dormir demais também faz mal&nbsp;&nbsp;UOLPor que noites maldormidas podem estar afetando a sua saúde cardiovascular?&nbsp;&nbsp;Agora RNSono ruim aumenta risco de infarto antes dos 40 anos&nbsp;&nbsp;campograndenews.com.brQuantas horas de sono você precisa em cada idade, e por que dormir demais também faz mal&nbsp;&nbsp;Tua SaúdeDormir demais também pode ser um alerta: veja quando o sono começa a preocupar&nbsp;&nbsp;JETSS ENTRETENIMENTO",
+      "summary": "Lúcia Helena: Dormir pouco compromete a longevidade, mas dormir demais também faz mal&nbsp;&nbsp;UOLPor que noites maldormidas podem estar afetando a sua saúde cardiovascular?&nbsp;&nbsp;agorarn.com.brSono ruim aumenta risco de infarto antes dos 40 anos&nbsp;&nbsp;Campo Grande NewsQuantas horas de sono você precisa em cada idade, e por que dormir demais também faz mal&nbsp;&nbsp;Tua SaúdeDormir demais também pode ser um alerta: veja quando o sono começa a preocupar&nbsp;&nbsp;jetss.com.br",
       "sources": [
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOHdpcDJ3VEtoaEZ2QzN0Qzc1RVFBRGw0MTdoSFI1bmJad0xhdHdId09TQUxQaG9SYmFLVDdhQkt5MU11U0I1UTVCQkFQSm1mMFZCbS0tdWhjdTRkdFdWdl8tZjdwZjNOdDFFMEpmbnVKNUNFNWxxM0h0cW5XZU0xT0FvSlFYRmV6cGZkTnRXSUkzallvaGc4Z3FOQ0pqaGZTOTN3T1djX1FEZGlrblh5SlZvYkU1V2NSTWhhZ0JKRFVtYjlXRldGbEFDT2NYQU1HZUxV?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ed0a72ce9459",
+      "title": "Mais proteína que o ovo: o vegetal que pode ajudar seus músculos - UOL",
+      "published": "2026-09-23T21:34:23+00:00",
+      "summary": "Mais proteína que o ovo: o vegetal que pode ajudar seus músculos&nbsp;&nbsp;UOLNutricionista explica mitos e verdades sobre alimentação e emagrecimento&nbsp;&nbsp;TerraExcesso de proteína pode estar fazendo mal ao seu intestino; entenda os riscos&nbsp;&nbsp;GloboProteína em tudo: estamos a consumir mais do que precisamos?&nbsp;&nbsp;RenascençaSaúde e Nutrição com Dr. Clayton Personnaz: Você já come a proteína de que precisa&nbsp;&nbsp;GPS Brasília",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeDQ3QzJZd2l1M2s3ZkJwTGRxLVZDYnZhc3dUb0Rza095WlE1a1dYcHhGS3AwVEN2VjFJQk9xQmk4ajJzTTFYNEVjT05iQTFrd0FlS1EwSkpYR3V4WHpXc19fWVRORmFZZklXVTBJTjdzbXdHNWdlX0NyZ1hIZVdLSmlZSm1TYXp0VXFHaFY1cXlMOWNWMkprZWVFV2ZDYVQ0c05FR3FkNHRjb2hDVWRNczlWMERVV01LbW5ONnk1Q3ZjTFY3bmc?oc=5"
         }
       ]
     }
