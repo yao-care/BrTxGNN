@@ -30,11 +30,11 @@ Esta página combina as indicações previstas por IA para NICOTINA com as notí
 
 ## Notícias relacionadas (1)
 
-### [Como o movimento pró-nicotina do 'bem-estar' tenta reformular a imagem de uma droga viciante](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeUVkUW5PQTZrMGFlckJfa1JUT2FJY2NyM29BZ1YtUUh2RUhtNDdKVXI5SGFQU0NlZnJtWVhseUZRNEVJQjloNkVKbVZVMUhrTC16aHpzam5GcXNjTy1ud0FncjlhOWNKbW5nMWttYXNDRXRLZUlQcF91MTVabnZva1lDclYxVlZsY0RfQWtZVzJQYzB4UUVPNWRDMWJsZG9fcVlXXzlIMmx6TndkdzVJb0RMVjhyYVVaUmFpWTVvWk9UZmowUGhhamQ0N1lCeXh4STdITFRMeTdJSG0xQWc?oc=5)
+### [Como o movimento pró-nicotina do 'bem-estar' tenta reformular a imagem de uma droga viciante - Folha de S.Paulo](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeUVkUW5PQTZrMGFlckJfa1JUT2FJY2NyM29BZ1YtUUh2RUhtNDdKVXI5SGFQU0NlZnJtWVhseUZRNEVJQjloNkVKbVZVMUhrTC16aHpzam5GcXNjTy1ud0FncjlhOWNKbW5nMWttYXNDRXRLZUlQcF91MTVabnZva1lDclYxVlZsY0RfQWtZVzJQYzB4UUVPNWRDMWJsZG9fcVlXXzlIMmx6TndkdzVJb0RMVjhyYVVaUmFpWTVvWk9UZmowUGhhamQ0N1lCeXh4STdITFRMeTdJSG0xQWc?oc=5)
 
 2026-09-28 <span class="news-drug-tag">NICOTINA</span>
 
-Fonte: [folha.uol.com.br](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeUVkUW5PQTZrMGFlckJfa1JUT2FJY2NyM29BZ1YtUUh2RUhtNDdKVXI5SGFQU0NlZnJtWVhseUZRNEVJQjloNkVKbVZVMUhrTC16aHpzam5GcXNjTy1ud0FncjlhOWNKbW5nMWttYXNDRXRLZUlQcF91MTVabnZva1lDclYxVlZsY0RfQWtZVzJQYzB4UUVPNWRDMWJsZG9fcVlXXzlIMmx6TndkdzVJb0RMVjhyYVVaUmFpWTVvWk9UZmowUGhhamQ0N1lCeXh4STdITFRMeTdJSG0xQWc?oc=5)
+Fonte: [Folha de S.Paulo](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeUVkUW5PQTZrMGFlckJfa1JUT2FJY2NyM29BZ1YtUUh2RUhtNDdKVXI5SGFQU0NlZnJtWVhseUZRNEVJQjloNkVKbVZVMUhrTC16aHpzam5GcXNjTy1ud0FncjlhOWNKbW5nMWttYXNDRXRLZUlQcF91MTVabnZva1lDclYxVlZsY0RfQWtZVzJQYzB4UUVPNWRDMWJsZG9fcVlXXzlIMmx6TndkdzVJb0RMVjhyYVVaUmFpWTVvWk9UZmowUGhhamQ0N1lCeXh4STdITFRMeTdJSG0xQWc?oc=5)
 
 ---
 
