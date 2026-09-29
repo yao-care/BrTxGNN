@@ -315,9 +315,9 @@ class DrugBundleAggregator:
         """Lazy-load collectors as needed."""
         if name not in self._collectors:
             if name == "tfda":
-                # Use ANVISA collector for Brazil instead of TFDA
-                from .anvisa import ANVISACollector
-                self._collectors[name] = ANVISACollector()
+                # 本國藥證（Phase 5 標準收集器，讀 Phase 1 的 loader / fields.yaml / drug_mapping）
+                from .brfda import LocalFDACollector
+                self._collectors[name] = LocalFDACollector()
             elif name == "tfda_package_insert":
                 # Skip package insert collector (not available for ANVISA)
                 return None
