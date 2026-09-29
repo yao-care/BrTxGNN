@@ -139,7 +139,7 @@ Para perguntas ou sugestões, entre em contato através dos seguintes canais:
 ---
 
 <div class="disclaimer">
-<strong>Aviso Legal / 免責聲明</strong><br>
+<strong>Aviso Legal</strong><br>
 Este relatório é apenas para fins de pesquisa acadêmica e <strong>não constitui aconselhamento médico</strong>. O uso de medicamentos deve seguir orientação médica. Qualquer decisão de reposicionamento de medicamentos requer validação clínica completa e aprovação regulatória.
 <br><br>
 本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。
