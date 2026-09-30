@@ -14,7 +14,7 @@ permalink: /news/ganciclovir/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Ganciclovir?">
-<strong>Ganciclovir</strong> tem atualmente <strong>2 notícias</strong> e 10 indicações previstas.
+<strong>Ganciclovir</strong> tem atualmente <strong>1 notícias</strong> e 10 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -40,15 +40,7 @@ Esta página combina as indicações previstas por IA para Ganciclovir com as no
 <p><a href="{{ '/drugs/ganciclovir/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (2)
-
-### [Idosos com mais de 85 anos podem receber vacina contra pneumonia em BH - O TEMPO](https://news.google.com/rss/articles/CBMitAFBVV95cUxQdkVGS0lFaGRvT3BVUDl4NHEyNURFSi1oSzNUbWpKSFhvUEFRbHVKWUJBRkJNR3k5Mm5mN01GY2QzNElOSF9xYm1yWjlQbEIzdmY0eVpPME5UNWE0eG53UnFiTFBJOXRHUGlBNnctYzcwZlJ3NnhTbEFUbUp2dFdaRzhVWFhRcjNPNWs0aFJqN0llUDJ1dVNkbmZHemcxeE9LUjFlNUlEemlUWmhYUnh0dldNTko?oc=5)
-
-2026-09-28 <span class="news-indication-tag">pneumonia</span> <span class="news-indication-tag">pneumonia</span>
-
-Fonte: [O TEMPO](https://news.google.com/rss/articles/CBMitAFBVV95cUxQdkVGS0lFaGRvT3BVUDl4NHEyNURFSi1oSzNUbWpKSFhvUEFRbHVKWUJBRkJNR3k5Mm5mN01GY2QzNElOSF9xYm1yWjlQbEIzdmY0eVpPME5UNWE0eG53UnFiTFBJOXRHUGlBNnctYzcwZlJ3NnhTbEFUbUp2dFdaRzhVWFhRcjNPNWs0aFJqN0llUDJ1dVNkbmZHemcxeE9LUjFlNUlEemlUWmhYUnh0dldNTko?oc=5)
-
----
+## Notícias relacionadas (1)
 
 ### [Anvisa aprova vacina contra 21 sorotipos da bactéria causadora de pneumonia e meningite](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWUJzVGV1OWNuMXdaYUZPTkRPaFUyWTVrMjJGSnhWSFM2WkZUSXRuYmhkb3JvMWxNczNoN3NjVDNibERLemFadlNKaUxPVWdDVnBhM0NHcXFlMnJMQVc4d1Joc1lTR003ZFYzTFhHMlNhVUhUNnNtdndWRUk3UnJ4SkotMVVTWXZZUU85aXg2M0ZBR2ZrMl9DYjZQYW5OSDhDSFlGVzVrTl9ROXpFWWEtQnVSTjkzMGt4X3VSSllubnlCZGI0djVTVmxJWHJhTGNxNnA2MlN2MEpRb0FMSUkzTVlDbw?oc=5)
 

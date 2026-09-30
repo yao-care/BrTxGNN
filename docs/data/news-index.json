@@ -1,66 +1,7 @@
 {
-  "generated": "2026-09-29T21:59:08.120326+00:00",
-  "count": 3,
+  "generated": "2026-09-30T04:33:50.004765+00:00",
+  "count": 1,
   "news": [
-    {
-      "id": "b9f388f231c1",
-      "title": "Idosos com mais de 85 anos podem receber vacina contra pneumonia em BH - O TEMPO",
-      "published": "2026-09-28T19:50:27+00:00",
-      "sources": [
-        {
-          "name": "O TEMPO",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdkVGS0lFaGRvT3BVUDl4NHEyNURFSi1oSzNUbWpKSFhvUEFRbHVKWUJBRkJNR3k5Mm5mN01GY2QzNElOSF9xYm1yWjlQbEIzdmY0eVpPME5UNWE0eG53UnFiTFBJOXRHUGlBNnctYzcwZlJ3NnhTbEFUbUp2dFdaRzhVWFhRcjNPNWs0aFJqN0llUDJ1dVNkbmZHemcxeE9LUjFlNUlEemlUWmhYUnh0dldNTko?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "pneumonia",
-          "keyword": "pneumonia",
-          "related_drugs": [
-            {
-              "slug": "ganciclovir",
-              "name": "Ganciclovir"
-            },
-            {
-              "slug": "clobutinol",
-              "name": "Clobutinol"
-            },
-            {
-              "slug": "tazobactam",
-              "name": "Tazobactam"
-            },
-            {
-              "slug": "oseltamivir",
-              "name": "Oseltamivir"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "infecção pulmonar",
-          "keyword": "pneumonia",
-          "related_drugs": [
-            {
-              "slug": "ganciclovir",
-              "name": "Ganciclovir"
-            },
-            {
-              "slug": "clobutinol",
-              "name": "Clobutinol"
-            },
-            {
-              "slug": "tazobactam",
-              "name": "Tazobactam"
-            },
-            {
-              "slug": "oseltamivir",
-              "name": "Oseltamivir"
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "0ef5a153e264",
       "title": "Anvisa aprova vacina contra 21 sorotipos da bactéria causadora de pneumonia e meningite",
@@ -117,26 +58,6 @@
               "name": "Oseltamivir"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "40c605b22204",
-      "title": "Como o movimento pró-nicotina do 'bem-estar' tenta reformular a imagem de uma droga viciante - Folha de S.Paulo",
-      "published": "2026-09-28T02:00:00+00:00",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeUVkUW5PQTZrMGFlckJfa1JUT2FJY2NyM29BZ1YtUUh2RUhtNDdKVXI5SGFQU0NlZnJtWVhseUZRNEVJQjloNkVKbVZVMUhrTC16aHpzam5GcXNjTy1ud0FncjlhOWNKbW5nMWttYXNDRXRLZUlQcF91MTVabnZva1lDclYxVlZsY0RfQWtZVzJQYzB4UUVPNWRDMWJsZG9fcVlXXzlIMmx6TndkdzVJb0RMVjhyYVVaUmFpWTVvWk9UZmowUGhhamQ0N1lCeXh4STdITFRMeTdJSG0xQWc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "nicotina",
-          "keyword": "nicotina",
-          "name": "NICOTINA",
-          "url": "/drugs/nicotina/"
         }
       ]
     }
