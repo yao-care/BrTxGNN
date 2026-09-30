@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-30T12:05:56.909023+00:00",
-  "count": 2,
+  "generated": "2026-09-30T21:58:16.666704+00:00",
+  "count": 3,
   "news": [
     {
       "id": "b642cff41c47",
@@ -58,6 +58,33 @@
               "name": "Oseltamivir"
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": "cc3c6f5ed571",
+      "title": "Vitamina B12 é melhor em comprimido ou injeção? Consenso define indicações - Veja Saúde",
+      "published": "2026-09-29T15:17:00+00:00",
+      "sources": [
+        {
+          "name": "Veja Saúde",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1YWU5xMGFpNWhPY2FOSVoxTEVXa3M3TlpoU1dvUVpFMTk1ekt5TDlEOU9NUmo5em9TSjFLNVpxY0twX2xTa0hJQWJlcTJabmd1QmNvWW0wU1NTcHRqOXlzZUhVN3lpNFRBVGwxaU9FSE1hcWszOXJBNUNMZw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "vitamina_b1",
+          "keyword": "vitamina b1",
+          "name": "VITAMINA B1",
+          "url": "/drugs/vitamina_b1/"
+        },
+        {
+          "type": "drug",
+          "slug": "vitamina_b12",
+          "keyword": "vitamina b12",
+          "name": "VITAMINA B12",
+          "url": "/drugs/vitamina_b12/"
         }
       ]
     },
