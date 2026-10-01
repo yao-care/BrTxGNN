@@ -3,7 +3,7 @@ layout: default
 title: "Notícias sobre pneumonia (infecção pulmonar)"
 parent: Notícias de Saúde
 nav_exclude: true
-description: "Notícias de saúde sobre pneumonia (infecção pulmonar). 2 notícias, 4 medicamentos relacionados."
+description: "Notícias de saúde sobre pneumonia (infecção pulmonar). 1 notícias, 4 medicamentos relacionados."
 permalink: /news/infecção-pulmonar/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/infecção-pulmonar/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre pneumonia (infecção pulmonar)?">
-<strong>pneumonia (infecção pulmonar)</strong> tem atualmente <strong>2 notícias</strong> e 4 medicamentos relacionados.
+<strong>pneumonia (infecção pulmonar)</strong> tem atualmente <strong>1 notícias</strong> e 4 medicamentos relacionados.
 </p>
 
 <div class="key-takeaway">
@@ -32,21 +32,13 @@ Esta página reúne as notícias de saúde mais recentes sobre «pneumonia» e l
 </ul>
 </div>
 
-## Notícias relacionadas (2)
+## Notícias relacionadas (1)
 
 ### [Salvador começa a vacinar pessoas com 85 anos ou mais contra pneumonia nesta quarta-feira (30)](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX0JmU05KbTFmWG9mcDdhS3JwdWRwWEhFU3cwYkFvQlRRb0xoczhEOWpCZkVUY093X2xtVjZXOFFTRHE0c2xsTHhaWUJfQkg1ZVVaZEVPU3pCQ1VyMXI5ZG12dkp0Z3FXQUZsWFRHQ2xvSWMzRUFnd2VFWFNCTEI4ejRLRFI0REh0X1ljcHBtZ0dQeDZKMjFTRkxIanRfa2N5V2ZIRkFsUmNPNFpXaE4xdDczZnRCMU1IakVwMzVfaHQ1X3JWVjl6YUhjT1lSMnhmRFY4ZdIB4wFBVV95cUxORUNqTkhaQjNZNVZMLWxHUDZObmx4dmVJX2hwY1FPV0E3dHhWeEtUVUh4bGZJaTlKQWlicjB0SFM0QjRoM1Q0cURBLWZ1aUVhM0NYOFdvSTVBYmxPRzE0R3lyaTVJWTQ1RFZHT2dndG9CNnVpRl9IQTM5dzBZZzJPMWE0b3hjM0NrQWtkMDdkZXVhMG1BeHlLUTZVdy00X1BNU1VYakJkNVRoWnVvYmtUcnA2ZUthWWFCemZjY0NfaWd2SlBCcVZGbFlfZGZNLXVDOG1qQXFZSWQzWHhDSGZDcmdwZw?oc=5)
 
 2026-09-30
 
 Fonte: [G1](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX0JmU05KbTFmWG9mcDdhS3JwdWRwWEhFU3cwYkFvQlRRb0xoczhEOWpCZkVUY093X2xtVjZXOFFTRHE0c2xsTHhaWUJfQkg1ZVVaZEVPU3pCQ1VyMXI5ZG12dkp0Z3FXQUZsWFRHQ2xvSWMzRUFnd2VFWFNCTEI4ejRLRFI0REh0X1ljcHBtZ0dQeDZKMjFTRkxIanRfa2N5V2ZIRkFsUmNPNFpXaE4xdDczZnRCMU1IakVwMzVfaHQ1X3JWVjl6YUhjT1lSMnhmRFY4ZdIB4wFBVV95cUxORUNqTkhaQjNZNVZMLWxHUDZObmx4dmVJX2hwY1FPV0E3dHhWeEtUVUh4bGZJaTlKQWlicjB0SFM0QjRoM1Q0cURBLWZ1aUVhM0NYOFdvSTVBYmxPRzE0R3lyaTVJWTQ1RFZHT2dndG9CNnVpRl9IQTM5dzBZZzJPMWE0b3hjM0NrQWtkMDdkZXVhMG1BeHlLUTZVdy00X1BNU1VYakJkNVRoWnVvYmtUcnA2ZUthWWFCemZjY0NfaWd2SlBCcVZGbFlfZGZNLXVDOG1qQXFZSWQzWHhDSGZDcmdwZw?oc=5)
-
----
-
-### [Anvisa aprova vacina contra 21 sorotipos da bactéria causadora de pneumonia e meningite](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWUJzVGV1OWNuMXdaYUZPTkRPaFUyWTVrMjJGSnhWSFM2WkZUSXRuYmhkb3JvMWxNczNoN3NjVDNibERLemFadlNKaUxPVWdDVnBhM0NHcXFlMnJMQVc4d1Joc1lTR003ZFYzTFhHMlNhVUhUNnNtdndWRUk3UnJ4SkotMVVTWXZZUU85aXg2M0ZBR2ZrMl9DYjZQYW5OSDhDSFlGVzVrTl9ROXpFWWEtQnVSTjkzMGt4X3VSSllubnlCZGI0djVTVmxJWHJhTGNxNnA2MlN2MEpRb0FMSUkzTVlDbw?oc=5)
-
-2026-09-28
-
-Fonte: [www.gov.br](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWUJzVGV1OWNuMXdaYUZPTkRPaFUyWTVrMjJGSnhWSFM2WkZUSXRuYmhkb3JvMWxNczNoN3NjVDNibERLemFadlNKaUxPVWdDVnBhM0NHcXFlMnJMQVc4d1Joc1lTR003ZFYzTFhHMlNhVUhUNnNtdndWRUk3UnJ4SkotMVVTWXZZUU85aXg2M0ZBR2ZrMl9DYjZQYW5OSDhDSFlGVzVrTl9ROXpFWWEtQnVSTjkzMGt4X3VSSllubnlCZGI0djVTVmxJWHJhTGNxNnA2MlN2MEpRb0FMSUkzTVlDbw?oc=5)
 
 ---
 
