@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-01T22:26:21.439997+00:00",
-  "count": 2,
+  "generated": "2026-10-02T04:36:27.626772+00:00",
+  "count": 1,
   "news": [
     {
       "id": "9da97b63c793",
@@ -199,65 +199,6 @@
             {
               "slug": "ambroxol",
               "name": "Ambroxol"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "b642cff41c47",
-      "title": "Salvador começa a vacinar pessoas com 85 anos ou mais contra pneumonia nesta quarta-feira (30)",
-      "published": "2026-09-30T09:26:41+00:00",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX0JmU05KbTFmWG9mcDdhS3JwdWRwWEhFU3cwYkFvQlRRb0xoczhEOWpCZkVUY093X2xtVjZXOFFTRHE0c2xsTHhaWUJfQkg1ZVVaZEVPU3pCQ1VyMXI5ZG12dkp0Z3FXQUZsWFRHQ2xvSWMzRUFnd2VFWFNCTEI4ejRLRFI0REh0X1ljcHBtZ0dQeDZKMjFTRkxIanRfa2N5V2ZIRkFsUmNPNFpXaE4xdDczZnRCMU1IakVwMzVfaHQ1X3JWVjl6YUhjT1lSMnhmRFY4ZdIB4wFBVV95cUxORUNqTkhaQjNZNVZMLWxHUDZObmx4dmVJX2hwY1FPV0E3dHhWeEtUVUh4bGZJaTlKQWlicjB0SFM0QjRoM1Q0cURBLWZ1aUVhM0NYOFdvSTVBYmxPRzE0R3lyaTVJWTQ1RFZHT2dndG9CNnVpRl9IQTM5dzBZZzJPMWE0b3hjM0NrQWtkMDdkZXVhMG1BeHlLUTZVdy00X1BNU1VYakJkNVRoWnVvYmtUcnA2ZUthWWFCemZjY0NfaWd2SlBCcVZGbFlfZGZNLXVDOG1qQXFZSWQzWHhDSGZDcmdwZw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "pneumonia",
-          "keyword": "pneumonia",
-          "related_drugs": [
-            {
-              "slug": "ganciclovir",
-              "name": "Ganciclovir"
-            },
-            {
-              "slug": "clobutinol",
-              "name": "Clobutinol"
-            },
-            {
-              "slug": "tazobactam",
-              "name": "Tazobactam"
-            },
-            {
-              "slug": "oseltamivir",
-              "name": "Oseltamivir"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "infecção pulmonar",
-          "keyword": "pneumonia",
-          "related_drugs": [
-            {
-              "slug": "ganciclovir",
-              "name": "Ganciclovir"
-            },
-            {
-              "slug": "clobutinol",
-              "name": "Clobutinol"
-            },
-            {
-              "slug": "tazobactam",
-              "name": "Tazobactam"
-            },
-            {
-              "slug": "oseltamivir",
-              "name": "Oseltamivir"
             }
           ]
         }
