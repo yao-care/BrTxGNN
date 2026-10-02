@@ -14,7 +14,7 @@ permalink: /news/letrozole/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Letrozole?">
-<strong>Letrozole</strong> tem atualmente <strong>1 notícias</strong> e 10 indicações previstas.
+<strong>Letrozole</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -40,15 +40,9 @@ Esta página combina as indicações previstas por IA para Letrozole com as not�
 <p><a href="{{ '/drugs/letrozole/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (1)
+## Notícias relacionadas (0)
 
-### [Pele, ossos, unhas, memória, foco e mais: 7 mudanças comuns na menopausa](https://news.google.com/rss/articles/CBMivAFBVV95cUxNelBGQlJqNDZmaE9BbEFkZEtOVWNOU0dkV1FvUkxQem5TMXlXdVB1Q3R5bHRnNGxnTWVFNFlzRk1uaGtUcGlka0djZk1TMENtRE1UT005MVR3Y2p0V2hSOEpTdTlHU0ZmYW04c2F2OEN1NDBmQ2JYNlljS0xqUnRibWJDZ0lTT3ZaaDZNNmVzUDk5MURWc3ZTR2QybklSNFJ2SzZVVmtQaVRKR21GQko1RzA4TlcxT1V2dlNHZw?oc=5)
-
-2026-09-30 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
-
-Fonte: [UOL](https://news.google.com/rss/articles/CBMivAFBVV95cUxNelBGQlJqNDZmaE9BbEFkZEtOVWNOU0dkV1FvUkxQem5TMXlXdVB1Q3R5bHRnNGxnTWVFNFlzRk1uaGtUcGlka0djZk1TMENtRE1UT005MVR3Y2p0V2hSOEpTdTlHU0ZmYW04c2F2OEN1NDBmQ2JYNlljS0xqUnRibWJDZ0lTT3ZaaDZNNmVzUDk5MURWc3ZTR2QybklSNFJ2SzZVVmtQaVRKR21GQko1RzA4TlcxT1V2dlNHZw?oc=5)
-
----
+*Ainda não há notícias relacionadas. Quando uma notícia mencionar este medicamento, ela será recolhida e exibida aqui automaticamente.*
 
 
 <div class="disclaimer">

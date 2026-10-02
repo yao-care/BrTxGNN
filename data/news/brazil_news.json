@@ -1,10 +1,82 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-10-02T12:03:31.207374+00:00",
-  "total_fetched": 96,
-  "unique_count": 95,
-  "health_related_count": 39,
+  "fetched_at": "2026-10-02T21:55:49.072584+00:00",
+  "total_fetched": 90,
+  "unique_count": 89,
+  "health_related_count": 29,
   "news": [
+    {
+      "id": "881bb952178c",
+      "title": "Estudo da USP aponta: dormir mal não é apenas questão de rotina, mas também pode estar ligado a traços de personalidade - Super Rádio Tupi",
+      "published": "2026-10-02T20:48:45+00:00",
+      "summary": "Estudo da USP aponta: dormir mal não é apenas questão de rotina, mas também pode estar ligado a traços de personalidade&nbsp;&nbsp;Super Rádio Tupi",
+      "sources": [
+        {
+          "name": "Super Rádio Tupi",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRUk1bGVIdGhaRE55TVp1c015RVZjcy1jSlpJeVhYR0tPMWlJTHU1ODY5Yy0xSzUtXzBWSmVmMGlaMGl4YzZ0eW5MdFRwT2FET2UwUEV5MFFSNVYxYkN2bmNzODFRZWVyU3hMdGFHdFJBZERoSHk0c1pwbzNBbmpIenRGbUdNSEZLZVlSTDRvOFdILXNibmpSS0FpVmIyUFI5YUpvZ1NhaHZOQnRhQmIwSlN4VTJNVl91bUxEbVpoSmZWZGJXaXZ3Q2Q1bTNEQ3N4bEFBWmZpd3hrUHpMLXp4OGt3YVYtUUVf?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "53dec0e1d68d",
+      "title": "Voz mais grave deixa o homem mais forte e atraente? Estudo investigou - UOL Notícias",
+      "published": "2026-10-02T20:05:31+00:00",
+      "summary": "Voz mais grave deixa o homem mais forte e atraente? Estudo investigou&nbsp;&nbsp;UOL Notícias",
+      "sources": [
+        {
+          "name": "UOL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNam40NkQxR0VIV01sNVJ1SmZyVXpIMmFNN05UYUcxRExmWUYySFJhRlFvSWxLbnFrSGZPQW5oaWxjcE9YaFJnamZuTmxEOGd1SFo1OTNha3hYN05kazRHd1JoVmxMMEdRS0xPa1lrSkhZZGhBenNDTS1FS1Q4ZU1uUUVONjJ3RDdUVGhoNWkyTmV2RlJDWTh1QUwyRTFqQS1CQW50cnZoUDlZaXhsbTQ2VE9rYzBrakJ0eTZRSjRjdkh3SU9CcU9HWHl2UmJ1T0NESXJaR2lTa1RSWVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0371f1d21860",
+      "title": "Cientistas encontram 150 mil toneladas de resíduos químicos escondidas no fundo do oceano e descoberta revela um problema ambiental gigantesco - Super Rádio Tupi",
+      "published": "2026-10-02T19:50:11+00:00",
+      "summary": "Cientistas encontram 150 mil toneladas de resíduos químicos escondidas no fundo do oceano e descoberta revela um problema ambiental gigantesco&nbsp;&nbsp;Super Rádio Tupi",
+      "sources": [
+        {
+          "name": "Super Rádio Tupi",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNalhRSklud3ZuQTItZ0N3Y2lVVC0tZ2RwTjgzbmR0SW1fYWN4eXVKSnRYZzh5cTNoYlV1dnNJRVVhZkRVQjlGX2FYS2RGSFNNSFJFNFBRYzNReFRRRFp2Y3ktUXBGcGZQUmV6Q0lZZTh1bEM1TWdWUVphakxiSEJ4MWt2NmxKZm9Zd0cxTmd2UFUxTEZnWnVmS3dCaGhHOEgzTEIwNmxvOVlVMndJQldLMUY1bmdNVzhuT1E5S2tvQXNZTnp0M0laVHlmMGRBOTJYYTNtZUo1Z0sxRVFNck5EOHhZdG5NUXhjd1dPdDVETGZSOC14VzhvNHNUZVhvZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "df67bca12dd1",
+      "title": "Em vírus, cientistas descobrem o que pode vir a ser uma nova ferramenta de edição genética - Folha de S.Paulo",
+      "published": "2026-10-02T16:00:00+00:00",
+      "summary": "Em vírus, cientistas descobrem o que pode vir a ser uma nova ferramenta de edição genética&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYUUtTGlZQ0NFanJFeGpJQkwteE9RSHhZQUI1aWJ6elB0Vm5XbC01cG1HT29pSk5RTFJlSktraW52SzRYakRfbjV5eXF2YkplWGE5eldaN1BRdlJ2cEFwc056UFJZNDR6QjRTZTR3V2tRTm93Z0hRaG8tdTRocmczR2dsRWFLWTgzelpLOGxlWVJrZ1FlUkRRejdQbDdpbDdYY2pmakh2bVBVM1hhaUxzZWlRUzVucWtfU251YzQ4eF9Bb2liQzRZd19TOTQzQjNkc3doeDhnSGE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bb11c03e52f3",
+      "title": "Homem sofre infarto aos 46 anos e alerta para sintomas incomuns - Metrópoles",
+      "published": "2026-10-02T14:26:00+00:00",
+      "summary": "Homem sofre infarto aos 46 anos e alerta para sintomas incomuns&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ2N3aTMzSVFGZmN1WkNXY1l1T05hdkFUal9xZUdSdFVpN1hkNll2cWhjMHVJZGhhQlQzcFNnSVRhTEFBRXhIcXZwcXo0dTBCaW0xbE1JS3BHVFlzdHMzbVQyRGtKRUszVk01QWF5TVJFVTh6eERUNFZpRnNURHgwcEdncmFoVDNRUzFyb3dWTFEyNFNlalY0WGJfXzU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "21c6498128a3",
+      "title": "Equipes assistenciais da Santa Casa de Assis participam de treinamento sobre oxigenoterapia - Assiscity",
+      "published": "2026-10-02T14:02:54+00:00",
+      "summary": "Equipes assistenciais da Santa Casa de Assis participam de treinamento sobre oxigenoterapia&nbsp;&nbsp;Assiscity",
+      "sources": [
+        {
+          "name": "Assiscity",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNWlKMF9LSk1DMGdIbS0zSFF1UlpwSlhnZVBCTkd1N0ZFN2pIZXBKVlRKSzZQd1UyMmpNWTNJNDAxNEY2OGpSVjl2Y0d6MC1tVTlDLUJDY3ptalF0Yk9sZ3dkMU1pXzV5VlpOLWdXWmJSTGVvTzRXUDZvemRFVVcyUTZ3TkJISHJFeTRjREVoazdBMlpRSHN2TVgwSHRmbFhMQjZDNUFjUTFtVzI0VjFlcTlXRzZaZlVQZ1E?oc=5"
+        }
+      ]
+    },
     {
       "id": "47c5b8eeffb2",
       "title": "Cientista diz que usava Claude para investigar tema de descoberta atribuída pela Anthropic à IA - Folha de S.Paulo",
@@ -18,34 +90,34 @@
       ]
     },
     {
-      "id": "012a2abcc05c",
-      "title": "Corrupção é problema mais grave do Brasil para 87%, mostra pesquisa - valor.globo.com",
-      "published": "2026-10-02T08:00:01+00:00",
-      "summary": "Corrupção é problema mais grave do Brasil para 87%, mostra pesquisa&nbsp;&nbsp;valor.globo.com",
-      "sources": [
-        {
-          "name": "valor.globo.com",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMHItcS1iVXQ5UzVHZkFPb3ZaMEx0THZFU1VtalpOekdQRW1tTTdzaHJlZEdMV3pSVk5GZGlLbWZDVnBBX0tYeDFUOVN6NlhIN213Mmxlbk1OaWtjSlpsYWgzRThtV2w2YnpEZkxHNVJjLXpzZWhBVjBvY0dOOFh1aF9TaWx2SmtOTmowVFh0OWo1YXYtZEFOZnZPS2dMbnhkRlR5cHBaa2VIbXhlSkh5dWhualZLb21PYkd3Umt6Tkw1ZVY1ZkdF0gHWAUFVX3lxTE1fOFlwcnltLWpsTXp5VVVsQWVOdFVWRW1odHJsbkFfZHY0cjdyTGM4Ql92cElvOHBLM3ZURU82Wm9NMWNFek13T1h2UlZkU0dpeXhLUDVHc0U5ejZMMFYyWVAtMTFEMDl6ZnhrYUd5RzhaM1dmNEgtZnhUUy1peVJ4WHN5NV9oa0g1MERYbkxjY2ZVeE5KWm9fWDdfVnk2aXpBNGs1VjZwRUZCSm5WbDBPRFZ6U3RvWURRejNxa21BQzhhb2tIbGZMRHU2QkI4ZjBmbEE1ckE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "42f750361c0f",
-      "title": "Como o TDAH muda com a idade? Veja a diferença nos sintomas - O GLOBO",
+      "id": "d69bf3aff1fc",
+      "title": "Intestino irritável: a doença que não aparece nos exames - O GLOBO",
       "published": "2026-10-02T07:30:00+00:00",
-      "summary": "Como o TDAH muda com a idade? Veja a diferença nos sintomas&nbsp;&nbsp;O GLOBO",
+      "summary": "Intestino irritável: a doença que não aparece nos exames&nbsp;&nbsp;O GLOBO",
       "sources": [
         {
           "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYWtDbzFXRC03WWgtZG1weWJXUUF3Y3ZDcTNncnlZbHlPbkYzLUE2OHBpMFNlNTB6LW02NUdYdjdMbWhrZW83UjRFWHYzZFdoU1ZXMTYwS2ZndFJtYW5vdnR5Z2JxTGdXaXZ2WnFNelBWX2RsVlEyZlpfc2h4ekxTX0ZFa2tZSUxRRTNWbGw4T2lqT2lPdFEtbDctbUhJOTB1RFc2QXFCaFlMRkRFRy1tb3lvLULSAcMBQVVfeXFMTzdZMmN5ZG9nRmJrTWtudzlEaTdkOHZtXzZLR1JxZnU2UFVsZ01INmZvRDhZWmVpaUlVTzR1SFF1RVBxd0hWLWF5eVR2N1pNNEZ4Q2VfcDBIODlaQTFncDY0czhua0JfaDFNTVFMVGdvVWNIS0s0NXh1cWRtbUduaW5vU29wS0pIQk0xR1FzX1E3d1M0NS1aS0U5T0JnallwYnhEQWY4cEs1WEJiUzVfNUlaeXk4WFBxX2FURG1VME94RUpv?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQ1lDeVNsV1pmdzRnb0RDMzdzcHhSeVhVYUFZRmxVMDhNYVo3V19FYkpfNHBiaTU4SW9WdHFmdUREQnBqbHNiUlNhbF9sWnpBdnNCMHFvYkNNQkxBS1FMTWhMWFN3NmVpZ0xPMmpoNHc0elR3Yzhrbzh4VTdjeW9pWkxGMjNFM0Z3eC13a3k4VnRzWDNSdURDRHdNTzBETU1JYk1OYmNRLVA4RnVLZHFlUE9yekRMMEtsdUtuQWp30gHMAUFVX3lxTFBaLV9nVHdMTmQ5MEk2dkpVNlZZU08tTGtMaUJQbkxLdVNNYTJzREVIdmFIOXByRkhPbmxCZWFRMUlaRUhZLTdRanFwaGIwVnBGTG8zS29GZVNQSEhnMVZDYm1QQmpGSVBtdXZRNFpEVjhBR0xyN3c5LV84S0x3VWVPSXh5TmVoTUt3SkxoLU81QUU3X01ORE5UdFg4VUNKeWF4SWtGNGgwbVp4TG5VOE1CUjlFNElnUVRfTnBTcjk1cWNVUE5SbzdqWjBFMQ?oc=5"
         }
       ]
     },
     {
-      "id": "8a1140f7c02a",
-      "title": "Expedição aos cânions submarinos do Mar Argentino confirma descoberta de 57 novas espécies - O GLOBO",
+      "id": "dac6aa402d0e",
+      "title": "Previsão de Riscos Geo-Hidrológicos para os dias 02/10, 03/10 e 04/10/2026 - www.gov.br",
+      "published": "2026-10-02T07:18:23+00:00",
+      "summary": "Previsão de Riscos Geo-Hidrológicos para os dias 02/10, 03/10 e 04/10/2026&nbsp;&nbsp;www.gov.br",
+      "sources": [
+        {
+          "name": "www.gov.br",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOGhSdDhwMENOV1RoTHAzREVkdjl6WUg2dWFaMzk0TXNGX2lIV0I1Z3dnbFA0YXJrYnlOcFBQZjczOTNnTmpuQVF4Y2djNW5wQnRpX2dpRzlmLUh4aDRSdG1sdnZ2dHpZdDVWYXpkVDFYSGZ0WVRVVzJTQkUwTWFHNzVLUVlnbDhJX0RCdlRReE12WmFwMHdZSENac1RaU1FGV3dkdXNBSWxPWk5weWVXTDdXTk5YaFBYSzg3c2pkUk93bmhVTlNQU3dkSDgzbE1lcWdSSFFaNWY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "064c603ebbaf",
+      "title": "Expedição aos cânions submarinos de mar argentino confirma descoberta de 57 novas espécies - O GLOBO",
       "published": "2026-10-02T07:00:02+00:00",
-      "summary": "Expedição aos cânions submarinos do Mar Argentino confirma descoberta de 57 novas espécies&nbsp;&nbsp;O GLOBO",
+      "summary": "Expedição aos cânions submarinos de mar argentino confirma descoberta de 57 novas espécies&nbsp;&nbsp;O GLOBO",
       "sources": [
         {
           "name": "O GLOBO",
@@ -54,26 +126,26 @@
       ]
     },
     {
-      "id": "f8d2969f2b65",
-      "title": "Obesidade é quase 3 vezes maior entre mulheres com insegurança alimentar, aponta estudo - G1",
+      "id": "82bf6739e775",
+      "title": "Obesidade é quase 3 vezes maior entre mulheres com insegurança alimentar, aponta estudo - g1.globo.com",
       "published": "2026-10-02T07:00:00+00:00",
-      "summary": "Obesidade é quase 3 vezes maior entre mulheres com insegurança alimentar, aponta estudo&nbsp;&nbsp;G1",
+      "summary": "Obesidade é quase 3 vezes maior entre mulheres com insegurança alimentar, aponta estudo&nbsp;&nbsp;g1.globo.comVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
-          "name": "G1",
+          "name": "g1.globo.com",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWjljZUFGZ2dPOHNwZDdCQjMwZUtVSnVob3JCTWFtYzJjSE1ISElReHoza3kzOEgtdk04dENWYWF6bWxJVldXcS1FX3JHamttbWtIWC1KOVJUd0tqT0llREhTMG1vNWNJNi1nQVJkNUEyR0t6eTVBOE15VkJINzNkY1R4WGVnMF92MHNpWERaRFdRQS02QmgzRk9MSG1oeUV6U3FhUmJNTDJ4ZDJBVkN6US1FTnFETDRyendXS0RUYmhIbXRwOG92aWhzSWR6WGNuQ2VCRA?oc=5"
         }
       ]
     },
     {
-      "id": "b58483eb6671",
-      "title": "Doença de Creutzfeldt-Jakob: entenda a condição rara e de rápida evolução que matou Lito Sousa - Jornal Correio",
-      "published": "2026-10-01T23:36:03+00:00",
-      "summary": "Doença de Creutzfeldt-Jakob: entenda a condição rara e de rápida evolução que matou Lito Sousa&nbsp;&nbsp;Jornal Correio",
+      "id": "ff7e075b1a1e",
+      "title": "Creutzfeldt-Jakob: entenda a doença rara que evolui rápido e pode ser fatal em poucos meses - g1.globo.com",
+      "published": "2026-10-01T22:01:42+00:00",
+      "summary": "Creutzfeldt-Jakob: entenda a doença rara que evolui rápido e pode ser fatal em poucos meses&nbsp;&nbsp;g1.globo.com",
       "sources": [
         {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeHVpU1hDMXM4UGRhOTZ4OVBuS0Foak5GNF9pSUpjZFBXeHZNRWxjRC1HZmd2TGxKcG9ZelRucDJfdjgzMmJTcHNILUJQb1M5a2tfLXl0X3ktaG5oY0RlZlJYOURnNndmWFlpaTRsZnBlZDZIMDVXMmxqZTFsWTB6eU5HSkp3aVhsT1VSMjdkMk5RVzNVOHFKTmZTZkwzQ05iQTI4dDVTVGxEQVNWM2dLcm82ZkVVTmVMRVlMRmJFREJOOGlpWUFQeXBmVFhVaWhRNGVzaQ?oc=5"
+          "name": "g1.globo.com",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNTRINThUaFRzRGx1eGN1N1pIaXBvZHFjVnZZY180TFBPb1ZRRGtzVmswWmZPc09tVG1qandTb0Z1ZHZ2V1dJdlB5TDVHa2I0SHFCUl9jeEQ1NEpsTmxlOTNBU1ZTX01RZFJ4YzNNZmdRR1pBdHB2UlNsRlZQR1JtQ1dnRzFPNnJDVV8wS2I5dXQ4VUHSAaIBQVVfeXFMTXFzcy1xTVZpWHB2N29tbGVYc2hDMy13NFo1SHc5RldocEFxR2tWWm42UDVJS0NKMkJiOTVyM0VYLUJLRVpYN0pERmpfUlh2WWk1c3FMcE1FajQ1TzJfQVNMMk01X293aVBMaTltd3FfR1laR29hWWh3TE9NZS16X050dWJraEJjdlJHZE5EYV9KdW9hVTNPZzJ4NzVwenhIR1hB?oc=5"
         }
       ]
     },
@@ -90,26 +162,26 @@
       ]
     },
     {
-      "id": "685cc556c2c3",
-      "title": "Quem é a brasileira que vai assumir cargo de destaque na Unesco pela primeira vez em 80 anos - Jornal Correio",
-      "published": "2026-10-01T18:33:57+00:00",
-      "summary": "Quem é a brasileira que vai assumir cargo de destaque na Unesco pela primeira vez em 80 anos&nbsp;&nbsp;Jornal Correio",
+      "id": "753feaec0056",
+      "title": "Sociedades médicas pedem à Anvisa proibição total de implantes hormonais manipulados no Brasil - g1.globo.com",
+      "published": "2026-10-01T18:24:14+00:00",
+      "summary": "Sociedades médicas pedem à Anvisa proibição total de implantes hormonais manipulados no Brasil&nbsp;&nbsp;g1.globo.comEntidades médicas pedem à Anvisa proibição de chips da beleza&nbsp;&nbsp;Folha de S.PauloMédicos alertam contra uso de implantes hormonais manipulados na menopausa&nbsp;&nbsp;saude.abril.com.br‘Chip da beleza’: entidades médicas pedem proibição de implantes hormonais manipulados no Brasil&nbsp;&nbsp;EstadãoEntidades médicas nacionais e internacionais pedem para Anvisa a proibição",
       "sources": [
         {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTlZVX2ljUlM3U0lCV3JPTG55aERBNzBRcVU4OEY3a1IyMThpMUExaGZGdjlBN3JoXzdvRmRrUW5sbDI0eExOU2YydDU1SHRYZUI0YzBmZzl0MVpVZ2w5RS1XMzRtNVY0OTRoMzE3d1pXelItNlUxRzJtcHJ4dmJBN1NiczNTRXlvdWVWVnNRYXZ0ZHRya3Vfb0V6a0RBSUVwcVJyYkQtd0FGT0lHN215bjNIclpBSU51M3RHZzljeHR2ZDhUR0ZEM1F4LUQ3VDJkOEVEdzl1MA?oc=5"
+          "name": "g1.globo.com",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMU5GT051S2l3NjdsTlpNajY4bS1nMU1IY0hsYThoVkxSd0R0b05EVWlaX3FXZHdPQ2tlQXV0c2tWSEFUbE10cEU0SFdWdXAzVTBrVXJZd1ZTdERvenp1ZDc3bW9kc053ZDZSZ0d6QlFjSEUzcGlVZ2ZuTGNITTdPc0wyak1FeG1uWHV2SUZaLTJrY1FNVy1EUlYyNkxzUGNyV3lJdDcwQl8wTFJ0ZjFrMWRQYnJJYW1CLXFCWmxMZDJ4SEFMM2tBUW1BWmllS2Z1bjZfYU5KLTJFcXAyak1r0gHuAUFVX3lxTFBKcWpmZzdqTXBQQmlrZlVmZkFUX3V2MVdzaDZUT3pBcUZLTE9MdTRPdTVfX2ttaE1UUVhaUkF6Q2tHajcxUHJic19qVU1iOVJNTVJ4RHZYZVBGcnllc3gwQ04xQVlWQ3MzR3YtRTdqSm9fLUJJanVBdmctZk1oam80T0lma0k4czFkTTNNRGFHcFlLZ1dWdWNDcGRLT0ZLSzg1eDJGUDJ0T2xQR3RiWWkyN01PaGhjdm5kc2V6SzR1MTFKQl9MNXZnOFBIdXUzNlg0TTRGSzRQT0ZEQkJWaTdXcHR5RHJVdUozRXNwNlE?oc=5"
         }
       ]
     },
     {
-      "id": "5d35333bb0bd",
-      "title": "Sociedades médicas pedem à Anvisa proibição total de implantes hormonais manipulados no Brasil - G1",
-      "published": "2026-10-01T18:24:14+00:00",
-      "summary": "Sociedades médicas pedem à Anvisa proibição total de implantes hormonais manipulados no Brasil&nbsp;&nbsp;G1Entidades médicas pedem à Anvisa proibição de chips da beleza&nbsp;&nbsp;Folha de S.PauloMédicos alertam contra uso de implantes hormonais manipulados na menopausa&nbsp;&nbsp;Veja Saúde‘Chip da beleza’: entidades médicas pedem proibição de implantes hormonais manipulados no Brasil&nbsp;&nbsp;EstadãoEntidades médicas nacionais e internacionais pedem para Anvisa a proibição total de implante",
+      "id": "5611746c79fe",
+      "title": "AFFA é homenageado pelo CRMV-GO por relevantes serviços à ciência veterinária e ao desenvolvimento agropecuário do país - Anffa Sindical",
+      "published": "2026-10-01T17:16:19+00:00",
+      "summary": "AFFA é homenageado pelo CRMV-GO por relevantes serviços à ciência veterinária e ao desenvolvimento agropecuário do país&nbsp;&nbsp;Anffa Sindical",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMU5GT051S2l3NjdsTlpNajY4bS1nMU1IY0hsYThoVkxSd0R0b05EVWlaX3FXZHdPQ2tlQXV0c2tWSEFUbE10cEU0SFdWdXAzVTBrVXJZd1ZTdERvenp1ZDc3bW9kc053ZDZSZ0d6QlFjSEUzcGlVZ2ZuTGNITTdPc0wyak1FeG1uWHV2SUZaLTJrY1FNVy1EUlYyNkxzUGNyV3lJdDcwQl8wTFJ0ZjFrMWRQYnJJYW1CLXFCWmxMZDJ4SEFMM2tBUW1BWmllS2Z1bjZfYU5KLTJFcXAyak1r0gHuAUFVX3lxTFBKcWpmZzdqTXBQQmlrZlVmZkFUX3V2MVdzaDZUT3pBcUZLTE9MdTRPdTVfX2ttaE1UUVhaUkF6Q2tHajcxUHJic19qVU1iOVJNTVJ4RHZYZVBGcnllc3gwQ04xQVlWQ3MzR3YtRTdqSm9fLUJJanVBdmctZk1oam80T0lma0k4czFkTTNNRGFHcFlLZ1dWdWNDcGRLT0ZLSzg1eDJGUDJ0T2xQR3RiWWkyN01PaGhjdm5kc2V6SzR1MTFKQl9MNXZnOFBIdXUzNlg0TTRGSzRQT0ZEQkJWaTdXcHR5RHJVdUozRXNwNlE?oc=5"
+          "name": "Anffa Sindical",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWERWNWtCNjlUd0xJN21ha0pkWWpXazV0elFZT1RvcmRqNzNTWkxmdk1MY2dtWUFabWdyS0FNUFR2ZDBJMVBhTFZoS2VPbVNpekMxYUk4NVd0Sk5IVkQ3VkNXamlwOGp3WXNqM2pjaHlmc0hsc1duQ0xfV1gzNUlpVXBXR3RzNWJjaXZOM09mZUp4SmpCVHRIUlpwcGZHZU0yTGxlNGZIYzZlWmFubXRYOWJKZ1BlRFlVX2NIdWhmMElXMHI3cm0weHlqS2tPOE9KT1lnM290bG5WMGFaNGVnQ2ktUQ?oc=5"
         }
       ]
     },
@@ -138,74 +210,14 @@
       ]
     },
     {
-      "id": "1bd4ceac3c5d",
-      "title": "Como o consumo de álcool afeta o risco de demência - Estadão",
-      "published": "2026-10-01T16:05:00+00:00",
-      "summary": "Como o consumo de álcool afeta o risco de demência&nbsp;&nbsp;Estadão",
-      "sources": [
-        {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVk1YZUwwUUk0S3JHbWhjZmdZUVR4SURvdDZoUjRFOXNHcUlGMG9tV1BLSDJOa2xNNnFJemFFa0NJY2ZVWUFwNk1WcHZ6SjktZHBWSWFSTV8xV2xKNkZiYWxWYWtrMEh0dENOcGtTM0hyNGFSN1Q1X3lTZ1RaTlAzdXhlOU9VQjJqNmVpT01mUEFqS1QyVzBWWjVyX20yWjlOT1HSAacBQVVfeXFMT3BKWDAxMEFFSi1RQ0NqNkh1TW5RbDVHRktXUmlHN0FtcUlQdEFONW1CWU13TUhmVWphWHlKUVdCckJUaDQ1YklZRkJtRXpUWjl6b0VrejJwWXZlWU4xallRTnJMSzVNT3JXb3R4c3VJV0tZX3hia3MtdmdsM2hmRXh5eWxONmNyRExwSjh4a3lyRkVqcWU1NDNYR0lvS1FMQk1jeXc5a1U?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dbdd3367c44b",
-      "title": "Além das amêndoas e nozes: veja opção de lanche saudável recomendada para baixar o colesterol ruim - O GLOBO",
-      "published": "2026-10-01T15:19:03+00:00",
-      "summary": "Além das amêndoas e nozes: veja opção de lanche saudável recomendada para baixar o colesterol ruim&nbsp;&nbsp;O GLOBOColesterol alto: veja 11 alimentos que ajudam a proteger o coração&nbsp;&nbsp;ICL NotíciasVocê passa por eles no supermercado e nem imagina: 12 alimentos que podem fazer bem ao coração&nbsp;&nbsp;Revista OesteQuatro alimentos ricos em fibra solúvel ajudam a baixar o colesterol ruim e proteger o coração&nbsp;&nbsp;Tua SaúdeO alimento que cardiologistas indicam para baixar o coleste",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdEVReExHWFFXSWxIa1laZWhzSnU2bGRFZjE3NjlHWExFR3lMTndKUHhMU3llMTNaVFcyNV9PS2NFQV9uOVFfaGc2VkFGeDQ0a2thM0tRaU1BWjk4VlZHUTlGNktrOHlZZTNrY2o2QWRFcVhqOVl5ZzB5dmlid3hFUmtOS0JUSGlrbXc4dHJKS1VKTUl1ZkE3RHE4b2E5dWVjRDZHUkZHVEdZZHB6QTBlV3FtRzRONTlDNkE2SENxZTJOdWE5a0dPN21KRlloWXFXUkFTal96LWJaT2RrdGxPM2tYUTFySVNk0gH3AUFVX3lxTE53b0Vmam5WUGpSdnBER2Y5YTZ4NENZWnFBQVVhcEMwSlVSSnR6dXNwQ1BaNFBBWThNZG9JMzUwS0E4V0NXX3FKbUZvM3FRRjJfMG1RUjRWS3NMX0kwc0J5Q3hseE1QWXhmcW45YV9LMmdMYzNhZXBHTkF2VWhzdTg3S2FxVjNUUTJsMVBKd0Rya2dFSHN0eFl1MUlmUVdpX3FlT1ZKeXhhQVc1c3lJbFhub08wcVVEMktuRVFVb1VuNVlqdUFrOWxkWG9WR09UX1BIWjN4MnJlUzE5dXI1NjlqbjhzSnJVMm9sbHJ4YVlTQ3lTMDVpMHM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "71778636881c",
-      "title": "Estudo indica que vida na Terra pode ter surgido há 4,33 bilhões de anos - Metrópoles",
-      "published": "2026-10-01T15:08:00+00:00",
-      "summary": "Estudo indica que vida na Terra pode ter surgido há 4,33 bilhões de anos&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcG9uR3YxN2NRa2RTSkp0dmFUSHotajlVam1iMlc4WHZ6UGNPdmJjNzdicGlTMTZUeUZYbURDT0FhY2xNdUJZUUlsNUg2VzNlZ2R4ZlBtZEphVmotam84WGNZTGMycWM3cHBkVmd6aFV4dzdfeFRLa1ZMb1BlSEpoOVlGX2w1MEI4d0tYWVJUSEppcFJqY1ZuWTBGdE96MVE2NWlvanRFVzB3QQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d1d8a01ffb2b",
-      "title": "Sete em cada dez mulheres de 20 a 29 anos com câncer de mama no SUS descobrem a doença em estágio avançado - G1",
-      "published": "2026-10-01T12:00:00+00:00",
-      "summary": "Sete em cada dez mulheres de 20 a 29 anos com câncer de mama no SUS descobrem a doença em estágio avançado&nbsp;&nbsp;G1A distância que separa as mulheres do diagnóstico precoce de câncer de mama&nbsp;&nbsp;R7 EntretenimentoOutubro Rosa: levantamento aponta queda nas mamografias entre mulheres de 50 a 69 anos&nbsp;&nbsp;Medicina S/AMais da metade das mulheres entre 20 e 29 anos descobrem câncer de mama no SUS em estágio avançado&nbsp;&nbsp;Rádio MetrópolePará tem uma das menores coberturas de ma",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdmM0WjZyaXNZNHh6NzVOVXZpTUI0Y0NSWUp2Q2ZfTFZQSmJBLTZHaFF6UVI3ZkdhSDBZS0NZRmRTMDc4aFZKVkRfMl9BVnVPd1RBbFoxTXl3eW5oMHFQekZiYTBWUmU1aG5MalRfZ0Y1SGo3dGdMenpMc1luRmMya0ZPQTNEelRvTEx3M1F0a3ZCLW85eHNiZUEwbHgyTWRubW90NkE4X3luYWdKaUdJYWs2cEVNOTd0bmY4ODJ5aUJVQllpLWtWU2FsOHI1SnBrcnZMRXFzVEMxdUN2WFN6V2NIWXR2ckFRUHJEdkJuSdIB_gFBVV95cUxNVTllMUY1dWtVX2JYR01MWC1Va3dBdHNidy1yNTJOWmZIaTZfanlLcDNQcXJBbVBGNXVnNmkyZ2NrLXpQMkVYOHpJOEY2UVJIMEF4Y1ZhaWNzQy00QkxmMEZUeWNHbHNQVFVzR2oydE5aalFaS0lydVJqM1NWRWdQTnFieFRUMXlJRjFqanhqOW93c0MxeEh1VVNobFJtTFlhZmxrTnU2d0xrNWlDRTV1V2tlUXp3LVhCZldvRkdHdDBBYkIyWGlaaEt6cERVS09OZFpnNDdDbEZsV2VROUJwblVBbnhEZnBhSHBqS1BvSlV6eGhLTjdibUYtdlJUQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ea276dddc673",
-      "title": "EUA confirmam 5ª morte por sarampo este ano; entenda o que leva país ao pior surto desde os anos 2000 - G1",
+      "id": "1e252dd84c8a",
+      "title": "EUA confirmam 5ª morte por sarampo este ano; entenda o que leva país ao pior surto desde os anos 2000 - g1.globo.com",
       "published": "2026-10-01T10:36:35+00:00",
-      "summary": "EUA confirmam 5ª morte por sarampo este ano; entenda o que leva país ao pior surto desde os anos 2000&nbsp;&nbsp;G1Pensilvânia confirma quinta morte por sarampo em pior surto dos EUA&nbsp;&nbsp;Folha de S.PauloEUA confirmam 5ª morte por sarampo; vítima não tinha recebido vacina&nbsp;&nbsp;VEJAEUA confirmam 5ª morte por sarampo em 2026; queda na vacinação levou país ao pior surto em 35 anos&nbsp;&nbsp;EstadãoComo a hermética comunidade amish combate o surto de sarampo mais mortal da história rece",
+      "summary": "EUA confirmam 5ª morte por sarampo este ano; entenda o que leva país ao pior surto desde os anos 2000&nbsp;&nbsp;g1.globo.comPensilvânia confirma quinta morte por sarampo em pior surto dos EUA&nbsp;&nbsp;Folha de S.PauloEUA confirmam 5ª morte por sarampo; vítima não tinha recebido vacina&nbsp;&nbsp;VEJAEUA confirmam 5ª morte por sarampo em 2026; queda na vacinação levou país ao pior surto em 35 anos&nbsp;&nbsp;EstadãoComo a hermética comunidade amish combate o surto de sarampo mais mortal da his",
       "sources": [
         {
-          "name": "G1",
+          "name": "g1.globo.com",
           "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRjNZSkc4TWxuZ0xJaXdHQnRvWUF4Rnk1RGJSZlVBVFZtVVhNb3RTSldwcnRfdFo5bGtKU0tvamlSWVdxQk5YY0t2ajZtc3IwekpQMTdMMl9RMnZLbTY2d3NXdXkwWjZBRGNVNFdyNnRnNDdybmQtRl9ndTNHX1RULUhmLUJZVHFtZkZUQnBMVy1uZF9YLVpMSW5nTm5MSGpHbVhnQmhQdWptMzJ5c2tFRzMyS3Rwa1d5UnpNSGpuV3RvQjR5VkUzLTllbVlSN3JNN3JEX25td1lUVmQtdDNxaDgwT3p5WTBRRHAwdUlLWm5QVGVQV1HSAYQCQVVfeXFMT1Q2OWNKVFZkb0kxU3p0WjdkRVVERHdDUzhEcUZKTmYzUEdlZ0lHemhkWmJvMjhDOE5FUXFLbDhxVG0yS3NpckU5Y0tWdUNxVHVOS0lRV1ZHLVJiVjNYRDNtQk52WC1BTHA3dFVaWkVpTGprOUxyblB0b2RXajJRbDRPRE1KVTFlVF9RbTBmSEFGTjlDNmJ5enBETjV1ajNLTnBwZS11amlqOV9QbmJ4SnNPdnZOQkc1cnFlVlh4S2lMeUE3YXcwZGFva2k4UWxZVUJVdFVmMzJTNkhTRFQzeU5aeVh4Q3Q2OGczSVZfenB2NEM3ekc3TnA3bHpRa2Q5VkViMU0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "07851c1682a9",
-      "title": "Dia do Idoso: como prevenir, tratar e identificar tipo de câncer que mais mata homens no mundo - Extra online",
-      "published": "2026-10-01T09:00:00+00:00",
-      "summary": "Dia do Idoso: como prevenir, tratar e identificar tipo de câncer que mais mata homens no mundo&nbsp;&nbsp;Extra onlineAvanço do câncer de pulmão exige atenção ao diagnóstico precoce e novos tratamentos&nbsp;&nbsp;TerraNovo medicamento contra câncer de pulmão aumenta sobrevida em estudo com mais de 500 pacientes&nbsp;&nbsp;BossaNews BrasilBiomarcadores sanguíneos ajudam a estimar resposta ao tratamento de câncer&nbsp;&nbsp;Poder360Imunoterapia traz novas perspectivas contra câncer de pulmão&nbsp;",
-      "sources": [
-        {
-          "name": "Extra online",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPRG9YbUx6Z0ZiYmlvNnptdUtOQUg5MHJpU25YTU44VWRPdENiRGhDWXYyRi1VT1JyWGp1bDJQaW5HOTdpMUQyYldiNXJ0cHluRGtjeGNPNV9EWWNjemROSC1BcDY0SnAxaWc5UFpfbnh6eDJjTTBOMmVEcTVHdnk5RmlCcVF3YUM4WC1tSWRMMVpjbnE5a2xJd3N5QUlFaHdidGVFaTBSLVlnZXFGRk40WHBTcU9WUk9YTHhaSzJ2MTdld3Y2TDBWY0FXZFJiOXk4dzMzLUNTV1prRmdfZE5IR0JPVzBOR3pCQnZXOFJn0gH8AUFVX3lxTE5MbnFIbVdNS0pFdTZtd3N1S1BDYXVaQWlPdzlLcXFoU0pFdFJuWVNET1JyOXBYT2ZXcndkNDZkdzNEdUdCaHoyclNORG5PMTVzR2JpenZVOVpoN0sxampwd1E1ZGJCZ3M5Ul8wclJhcXdoaHRDbkJmMC1Qd2g1RmxNZmdNellWVFNzWHFXX0psZjlvNW1NWTNMNjZNSEhJaXZiaGFLaEFBdUFpU09IZVBULV9wZkR0bHdSSG1GdUJMYjVpSl85cEJ2VnpNZGQ1ajMyTzFUclZ1SDR1NUJQZ2lmd2pZaEh0eEVBN3FLcktyTERQclZ3RzBQVXRZUA?oc=5"
         }
       ]
     },
@@ -213,7 +225,7 @@
       "id": "5b9ddfb0276a",
       "title": "Boca seca, mau hálito e desgaste dos dentes: efeitos das canetas para obesidade na saúde bucal - Estadão",
       "published": "2026-10-01T08:30:00+00:00",
-      "summary": "Boca seca, mau hálito e desgaste dos dentes: efeitos das canetas para obesidade na saúde bucal&nbsp;&nbsp;Estadão",
+      "summary": "Boca seca, mau hálito e desgaste dos dentes: efeitos das canetas para obesidade na saúde bucal&nbsp;&nbsp;EstadãoUso de canetas emagrecedoras por jovens gera alerta de pediatras&nbsp;&nbsp;saude.abril.com.brQueda de cabelo após emagrecer? Saiba o motivo&nbsp;&nbsp;TerraGrupo Boticário anuncia primeira pesquisa brasileira sobre impacto das canetas emagrecedoras na pele e nos cabelos&nbsp;&nbsp;GloboUso de canetas emagrecedoras chama atenção para impactos na saúde vascular&nbsp;&nbsp;Revide",
       "sources": [
         {
           "name": "Estadão",
@@ -222,14 +234,14 @@
       ]
     },
     {
-      "id": "2d49eab4f9f7",
-      "title": "Dormir pouco ou demais pode acelerar envelhecimento; veja quantas horas de sono são indicadas - Jornal Correio",
-      "published": "2026-10-01T08:30:00+00:00",
-      "summary": "Dormir pouco ou demais pode acelerar envelhecimento; veja quantas horas de sono são indicadas&nbsp;&nbsp;Jornal CorreioVeja quais hábitos podem estar ameaçando a sua saúde cardíaca&nbsp;&nbsp;CNN BrasilAVC, hospitalização e o que a insônia tem a ver com isso&nbsp;&nbsp;TerraDormir mal pode afetar memória, humor e Saúde Mental, alerta Psiquiatra&nbsp;&nbsp;jornaldosudoeste.comEspecialista explica como noites mal dormidas podem prejudicar o coração&nbsp;&nbsp;Rede Onda Digital",
+      "id": "d4357cbb9799",
+      "title": "EUA aprovam remédio para Parkinson que age de jeito inédito no cérebro - g1.globo.com",
+      "published": "2026-10-01T08:00:00+00:00",
+      "summary": "EUA aprovam remédio para Parkinson que age de jeito inédito no cérebro&nbsp;&nbsp;g1.globo.com",
       "sources": [
         {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNU3UwRWhPaWlBTmlaQkw2c3pXM2gzNDBkUFdQcmVlbWZOaUdjdDZQNU83NkdXcktia2E1cHpKM0lCVDhhMmVGTUtVNDZ5MFd3VEdwdXFVa2t4RDIzbDF0Mm9pdHdhZUNQaVV3cTNpRUFSQjREUGQwMVBRVG1pa3hnamd3SEYxU2JxUE9FOERCUkN6SEk0M0pLNTYtS3Y1VDM2bm1HUmhDMlB4TUdoRV94VS16ZDNQYXVjcnYtZjVzZU5hZ3lOeDhJNTQ1empUMDRrYmU0?oc=5"
+          "name": "g1.globo.com",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQXzdqU1pUVTNycGI2NGlXYmdRTUk1SHhmSlA0ZGVCS2Q5eWdyanh4NUFhTGY1SEhJdTA4YW04UTZIdHZuQnZ1dzhxRnR4QTZHNi1xY3NidU8ya1pTeklPdW9fQkM1WGpqRHhlZEhmbzlPdlRranY0dDhBQ2ZybjdURFpER0JLWmUycFBuVmZrblBXeVhWV2hnSWtXRXVUX0EwYXdxZ1h6MzRtTmtGd2dNYmVHSlZmS2FFeUpfbW80SdIBzgFBVV95cUxQQWVUd3NmTDJDR3B6V1lVVlFxVVowVE1BZVprbDBtSGJBMEg4SjVOQ21tVDAxdThoQ00zSFpZNUd1bEtsdmNiNjZaVnpKbDJ3blpLa1RWTHktUC1sRjdVdEFwZEFndG5STEJ2bVZyUWpSU24wWkNyVDJvWW9BX3pBdjlXTUgyS3J5WE5NZ0xpSW1KZVk1SEE5TWlCUGNHRjVQQVA0MU5GazFjWVY4ZkNkWEwtMjFDamtURFhNNEZqYW5CUU5ZRTlnTGNEREZJUQ?oc=5"
         }
       ]
     },
@@ -246,18 +258,6 @@
       ]
     },
     {
-      "id": "6c71becd970f",
-      "title": "Dia do Idoso: veja dicas para manter o cérebro ativo e saudável - CNN Brasil",
-      "published": "2026-10-01T07:35:42+00:00",
-      "summary": "Dia do Idoso: veja dicas para manter o cérebro ativo e saudável&nbsp;&nbsp;CNN BrasilUm estudo identificou uma chave para prevenir o Alzheimer: algo tão simples quanto fazer exercícios&nbsp;&nbsp;TerraDia da Pessoa Idosa desperta atenção sobre as mudanças de comportamento no avanço da idade&nbsp;&nbsp;Guarulhos HojeSeu cérebro está preparado para envelhecer? | Veja e Cuide-se&nbsp;&nbsp;Veja SaúdeDia do Idoso: prevenção, diagnóstico e cuidado nas demências&nbsp;&nbsp;UFMG",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWWNRNGUwN2JZWGVZTG9aUlQ3SUtyS3RKRlNBM1pYOFZsQVJQTXZoelIyTC1URWxyY3BydlhlcTBmanJBRmlnMEJfVmY3ZWRVUnFDaXQ4WkoyMUpIQXViRkZZa1VNdWtjdFh1RjRzVFZZSnBtS3F2c0x0Tm9hdFpNdmpPc2pvU1pNVzdNZTB6aHdkdGkwRHpqOVVWLTVTNTQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b709da031032",
       "title": "Cientistas brasileiros multiplicam células de supercentenários em laboratório para decifrar o segredo da longevidade, em estudo inédito - O GLOBO",
       "published": "2026-10-01T07:30:00+00:00",
@@ -266,30 +266,6 @@
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPX3BwNjNoX043cmtpQzRxRWIyUjZsdWk5cDNBMUVXeF9TSFJZYy1FVmk2dU1HNHpERk91alpTRXlYaFNfRjZBVnkwV0tkMUg3QUota3paVjVoeWJvcGhTOGViUUpXdDdMR1JLQ25odUM2d29rYlFjUHF3SnJWNVRvWjcydXRnUkxkdEw4Z1RGaXBNdmVxMTVTdTM4dnB2eFpWU2ZxOHptZFMxRWNZMFZLWm1JeS0wNm9CODkxS2M0VlROWWdNUTdJeGVUYXF6emxCQzBldkg5YU5kdHNkajBlb2pTVWNOOHFTODdrVnZaQ1RFR3k3b183WmJoTjB4b1dCeW5ucFJHNlFsNVo4RElTVTBWZFhYRUYzQWfSAagCQVVfeXFMTkxINU0zSzgxU3ZWSFNMNkpMNHM1b29fLUpIWlh0ZnRNR2JUZHVKVWg1WWxBVHk0OVRmRHJ4MnBVWUV1RHgtYlItR1huSWdEcnU3NXZYMzQycDFsSHd2THpwVUZyU0dxWVg3b1F3bjNDNW1Xd3pwX3dzRWwyMXVKNUdZMzNuZWxMdG9fUXZsYjRFRkpQR3RBWGRITkVxd3dkb3J5TlVsTXZEVUZWa1BYdWg5aDUza3JIZm42V2F0Q3RLSi1FSDJwQWhPZ0JMa2ZXX0s1amVZc01kVHJsRU5pSi01dHJORm1HMFN4eGtMVG1Pb2hoNWZCQ1ZvZUh3MFUtR2x3dXJuYUlUdkN2RDdCZkpHVmRoejYwZWt6R3hhVXdFOTdQTUFtYWg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ed64ce7a82b8",
-      "title": "Previsão de Riscos Geo-Hidrológicos para os dias 01/10, 02/10, 03/10 e 04/10/2026 - www.gov.br",
-      "published": "2026-10-01T07:09:00+00:00",
-      "summary": "Previsão de Riscos Geo-Hidrológicos para os dias 01/10, 02/10, 03/10 e 04/10/2026&nbsp;&nbsp;www.gov.br",
-      "sources": [
-        {
-          "name": "www.gov.br",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNV3RJaXVhVjVNY2tfZmVBd0k4RVJ3UlpGRWowMmdhaUhDREd5Q1pWcWJUTm1rU3RpNTY0a3A1VjhtVGJ0c2k0RmRiWlpiZXdXaHFYNTNmUG0zN0VULVJCbVF6UURLMk9VS05mN0RIdzFZMi14RmxKVHp5UDludEVMa1dteVlZT1VxejI1dk9mdFJ0WlAyMUJuWFJieHQ5dFgwME85VG1RdmJqb0dMeTJxMzJYQU42SEpBTmFIYTg0ZDkwZVVUTU9uV2VwOW9JS3ZzNV9lcVl2bVdMTldjV3VtTA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "19934e8758d2",
-      "title": "Dor menstrual: saiba quando a cólica forte exige investigação - G1",
-      "published": "2026-10-01T06:00:00+00:00",
-      "summary": "Dor menstrual: saiba quando a cólica forte exige investigação&nbsp;&nbsp;G1Cólica menstrual: quando a dor pode ser sinal de doença?&nbsp;&nbsp;O POVO",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQkViODJUMS1DYkxwUEVIUm9MNzdJT3dNT0VKTjNWQy1ZZFE1czMtQUFWVE5oV1FLcHo0TlFsd29JRW5VWFowN2QyT3VacU9qVkhoeXBweDRKMk9nS0xVeWNuWGFQWlpxUUFqaGhNQW1ZM0p1eHEtNDBya09iczVQRUthQXRYUGxQMzBJSVM5RDdlekZlcXpjaG90V2gwc3RTaV8xbkJsN1BwV1BncllrYk95YzcwRWJVWng1SUR2V3NDUEZaN01HRDMyTmZPdjlNNk9F?oc=5"
         }
       ]
     },
@@ -306,122 +282,26 @@
       ]
     },
     {
-      "id": "35502ed5c63a",
-      "title": "Anvisa aprova exame de sangue que auxilia na detecção de Alzheimer - O POVO",
-      "published": "2026-09-30T21:46:00+00:00",
-      "summary": "Anvisa aprova exame de sangue que auxilia na detecção de Alzheimer&nbsp;&nbsp;O POVOVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "O POVO",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMFpzcjB2cC14emRxaE1iSHlNY1hBTXBBWGVaOElBYTdGV3hLMlJmcmE1QTlPZHhFRkMtaFNpQXA3VHUtdjZoam1yLWNmZFkxczdub1JWQUtCSGZmdzh5Wl9JZFhDa0xoOXhFaVU0TmMxVjNhNU5qNWQ4eFUweENtcnB6TURLQkFtR09nSUZnbl8xd2NZMmlKMEVRXzUwS2pabERES0EzempxZE5CNk9qeGRBcVgwaW5oNnppSWJ3bzU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "969dbc6770f6",
-      "title": "O segredo das borboletas para escapar de predadores durante o voo, segundo novo estudo - VEJA",
-      "published": "2026-09-30T21:13:57+00:00",
-      "summary": "O segredo das borboletas para escapar de predadores durante o voo, segundo novo estudo&nbsp;&nbsp;VEJA",
-      "sources": [
-        {
-          "name": "VEJA",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPU1pCS2NZZWNfamY5QnZRVTdfRXpGaXQ2QThEV0plS2JLcHpfZ2UzVWNrOHJLTWFuakx3cEtsSk15VFljdUZKUDNGMU4zN2V6bW4ta0d2ZTBocWJLU1pmSXg5azFvcEFrQzNyT1hDMEpiVzI1TE5FcjVicDlmalp6bWVNdU81c3pnOHFLT1lBaW9nM3lsUWRfMGJuVDlWdVZ6ckEwczVlQzBrUTQ2REllZWdSbDZiaGJkZl8xLQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1b545f593021",
-      "title": "Mulheres humanas costumavam acasalar com homens neandertais, revela estudo - uol educacao",
-      "published": "2026-09-30T19:00:01+00:00",
-      "summary": "Mulheres humanas costumavam acasalar com homens neandertais, revela estudo&nbsp;&nbsp;uol educacao",
-      "sources": [
-        {
-          "name": "uol educacao",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQajN1SzNQREFsM3RtNEtxemFtTjVDVm5Rbmc4TnV5bDA2THZkaEFhZjg4LVpuZGx2QkQ4UUN1Vm9qWnZqNm15QWJENGt5RmkzZjR3NVJPbEljdmJ6cGN6Uno0Tko5eGhqOHpKMGE1VERyVFFlem5wQUhPdWM4czlmc250b3FMM0NZaUVaWHJ2ZVI4QWJ6OWlDc29uZkhhcnZzbkd6LWNQZzV1dXhUSkZwZUl3dmI2RHUxNGhiaUdmbTJCSGt1?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d7131f725e22",
-      "title": "CNPq divulga resultado final da Chamada Pesquisa, Extensão e Formação em Epidemiologia e Vigilância em Saúde - www.gov.br",
-      "published": "2026-09-30T18:50:32+00:00",
-      "summary": "CNPq divulga resultado final da Chamada Pesquisa, Extensão e Formação em Epidemiologia e Vigilância em Saúde&nbsp;&nbsp;www.gov.br",
-      "sources": [
-        {
-          "name": "www.gov.br",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOc2taU0x2bFZQb2tMLU1BUkk4aVVhOXM2U0doQVJHNEtPMlZGTUIyWG13RW45Zlltd2RLWG1pNXlHTkRUQ0NJM0RFd1RMVEdwR09UZl9mZHdmVTctYmViYWxuREUzWWUwcnRHMDBZMFVNSE5nU3JJM0g3WGY0TDNrbVVVSFZBc1VGRkMyVHZLbDdNbXFhMnFtV2JFaGZVdTdvR3VkZ1ZTYVAwbERXVk9oZ1F4d0lDSVU3Z3FtOFJEZ2hleHBKTDBVLURaY3VRajJOQ0FGZ28xWjFhZGRZeHJqODl4LVg3dzhSemNQV3RYdThzdkxqOUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cea591c1040f",
-      "title": "60% dos brasileiros não bate meta de atividade física semanal da OMS, diz estudo - Globo",
-      "published": "2026-09-30T15:19:10+00:00",
-      "summary": "60% dos brasileiros não bate meta de atividade física semanal da OMS, diz estudo&nbsp;&nbsp;Globo",
-      "sources": [
-        {
-          "name": "Globo",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeEFqSDk0eEtlUGZmS1FpSThKSGVSVFpHT2tadnJlVnhRdmN4M3FQWkd6YmpQUVNtOXQtQXIxdjB1bl9wMUxLcFJWTW5reElySzR0S29LNkpjamFyb0R4RW1zYWpaNE1jOFFpWUh2amkwVzJvRG5iQlJXS2IzSzBlTS1hUDhjLWVsTWpiU1dLemVoTzJvb0RENkNyYmdUSTE3NGNBTkdhQXBnZ2QwOTA4X1hpN1V4SXk2YnRSSkktcjlXR0w1cFl1WUg1dVNmTDFuSER6anVnZVNSTGc4Z2ZN0gHuAUFVX3lxTE1HcmotSE1xMnllUkVrVlBDLU53cm5mX2hmaXRwZUdWTXFlWTdWQjI2VUxWZV80VDlGcUktMDVDcGxEMjNqOTFHQlRHWDI3LTBBbl9TZ01VdGxQY2dIMV9qU1prbWxKZjYyRzlEWVBwbEdrS2VKVG1xejdDTjh2a1BrYVZpOUdrWjVTaWsyNmdOZHo0VEQ2bkwtUTl3VVd5TUJCQlZ6VTdTWmxyNWhiaEUwU1V2bVBnTnBxTkgxOTNmQmFQa0tGQm5SWHlXQWZvUjdwdVR5YzFFc2VFR2ZnU1pZcy1Qcmt2cFlDMnF2T2c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "582980b911d9",
-      "title": "Cientistas encontram gene humano em vírus de molusco contagioso que infecta a pele; ‘roubo’ ocorreu há 100 mil anos - G1",
-      "published": "2026-09-30T15:16:04+00:00",
-      "summary": "Cientistas encontram gene humano em vírus de molusco contagioso que infecta a pele; ‘roubo’ ocorreu há 100 mil anos&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSVBCYl9udzM3OGJLWGVuV205d0xQeWxjVzNRdnY1b2Y4TXI2NTg1M0FveTNDbUdHY1dOcHoyYVYyNWxRM1Q5WVJaelVhNlZsNXB1c09Qd2xKbC1QMGNvUV91elAzQ19NMXJCRTVEcWVhMHhKV2UyLVZIbmxaZHVMdXBsTkR6Wi1fMktRNHNDRC1lNjZNdThpOVRSNzhXSlE4VlZibXlkeVQ3TWpYcmRkUzFKNHAzeTl1UEdReE56M1o4MnhwN2FfTnROUUFTVDFPbjhZb29HSG04cmJhQWNfYkJ4T3Z1MmZDejlidnB5MnA2WDZXdmw2REtn0gGIAkFVX3lxTE9xX251a3ZDaHZEdFVqSHFrWjlhRE9tMWZ1My1RdGw3M0pIU1FTN3gyQnhjNzBYc20zLXVqek80clRlV3Q5aHhNcnJ2MjA2WWlPcy0xUXZqdGFsakpEbTlVOGo4blhfVy1KRXRaN1F5ZS1HTHB4Um1BMzlXbXo1clFDRmZldXJwWklTcXZkclNEdUdZNTQzRHc0U3lUSUxFay1Rc2pvQldpa3plcXoyclZ2aUpnQWxlMWFnd1RVc3BHNXhHSTJOb3VnQXJUSHNPS0tuaUdaVEVKUVoxOFZRcmpHX20ycXpjSjRxWDkxZVE2UTdrc01Hcjl6OE0zT0YxclVqRE1ycmFIYg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "30fa40bb5a8c",
-      "title": "“Godzilla” das canetas emagrecedoras? Novo remédio da Lilly reduz até 23,4% do peso - InfoMoney",
-      "published": "2026-09-30T14:54:27+00:00",
-      "summary": "“Godzilla” das canetas emagrecedoras? Novo remédio da Lilly reduz até 23,4% do peso&nbsp;&nbsp;InfoMoneyNovo Mounjaro? Avanço em estudo de medicamento emagracedor experimental anima Wall Street&nbsp;&nbsp;NeoFeedRetatrutida gera perda de peso média de 22,5 quilos em novo estudo, afirma fabricante&nbsp;&nbsp;EstadãoSucessor do Mounjaro faz pessoas com diabetes perderem até 23,4% do peso&nbsp;&nbsp;O GLOBOMais forte que o Mounjaro? O desempenho da retatrutida em pessoas com diabetes&nbsp;&nbsp;VEJ",
-      "sources": [
-        {
-          "name": "InfoMoney",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DWWx6bGRBQ1d0OGt0cVJJc0lrZVVCb0c2dFBvUUNIelpEZi1xVHFHQnlXbXRXdVB6Uy1DeTFhUzhXREJOQUxDcFR2YTNlSjZzckhMMTROeFphdmJtTjJTN0YwbWlwRHFoUGJvYzhmQV9iNDhBOUNz0gF8QVVfeXFMTXNZS3RvNkpLZ3lUSXplZVhLUVp5bHdnY050UHFmeFBPWWdsRFY2MERnZEFEWE4zSEpSbWxtY0stRnl6aWxpNkpqSms5a0VfYVE0aHhpTlZnVGpPekdkMzV2ZVdFS1E3RmxWZm9WVFI1S1ptZjltbmhuUWhCOA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2ea6725e28c6",
-      "title": "Canetas emagrecedoras: oftalmologistas orientam pacientes após Anvisa investigar perda de visão - ICL Notícias",
-      "published": "2026-09-30T14:04:29+00:00",
-      "summary": "Canetas emagrecedoras: oftalmologistas orientam pacientes após Anvisa investigar perda de visão&nbsp;&nbsp;ICL NotíciasCanetas emagrecedoras: Conselho de Oftalmologia orienta pacientes após análise da Anvisa de casos de doença ocular&nbsp;&nbsp;O GLOBOAnvisa investiga 13 casos de doença ocular após uso de caneta emagrecedora&nbsp;&nbsp;CNN BrasilCanetas emagrecedoras podem causar cegueira súbita? Entenda&nbsp;&nbsp;Folha PEAnvisa apura relação entre canetas emagrecedoras e 13 casos de cegueira&n",
-      "sources": [
-        {
-          "name": "ICL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hRE5CSzYxdTRLZy1NXy1tMmYyVGZDWGtDVEU1WE4yRWNlc0FoZjlmVXNYRTFrRm00THRMai02SnhaMzJhRjRnN0tPUTRKN2tMcVJPRVY4NVFxTXR4QUx0WjlkVmJhOGY1UlVLOUdRenpCU01CZ2lxVEkxTC1JWWs?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1badbe439502",
-      "title": "Em um hotel de beira de estrada, uma descoberta pode lançar luz sobre as origens da vida - Folha de S.Paulo",
-      "published": "2026-09-30T14:00:00+00:00",
-      "summary": "Em um hotel de beira de estrada, uma descoberta pode lançar luz sobre as origens da vida&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQmdIdUY4dHFHRnFBY2FrSU9VczNQdTFDSDltUmpzMWI1VnFIbWtEZTM3UlV0eUpFOXlSMHFHLVJDODdqLUNtWlVzYXllcFZob3hEMzRuUTRQVUdjcmxZb01tX3BHV1RjbGY3Mnh3Zjl4ODB4SzBkNEp3TW52cXdGNTBYTkhaQUx2ZzlSa1lxMkh6R21CMFpocW01Si11eUNVYXdJVTRFMXprQ182QTROUjNoeEdLYnQ0Znd3cnpPNXhDbTEtUG1GZFBqNm5TTnBPemFGQTBR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9da97b63c793",
-      "title": "Pele, ossos, unhas, memória, foco e mais: 7 mudanças comuns na menopausa - UOL",
-      "published": "2026-09-30T12:31:00+00:00",
-      "summary": "Pele, ossos, unhas, memória, foco e mais: 7 mudanças comuns na menopausa&nbsp;&nbsp;UOLMenopausa e emagrecimento: por que o corpo muda após os 50?&nbsp;&nbsp;TerraMenopausa pode afetar a memória? Saiba o que é o 'brain fog'&nbsp;&nbsp;O GLOBOEstudo revela idade em que mulheres na pós-menopausa recebem primeiro diagnóstico de depressão&nbsp;&nbsp;Jornal Correio20th World Congress on Menopause: As barreiras que dificultam o cuidado na menopausa&nbsp;&nbsp;endocrino.org.br",
+      "id": "96be581e83f2",
+      "title": "Sucessor do Mounjaro faz pessoas com diabetes perderem até 25% do peso - UOL",
+      "published": "2026-09-30T11:42:46+00:00",
+      "summary": "Sucessor do Mounjaro faz pessoas com diabetes perderem até 25% do peso&nbsp;&nbsp;UOLMounjaro turbinado: a nova dupla que fez pessoas perderem quase um quarto do peso&nbsp;&nbsp;VEJANovo Mounjaro? Avanço em estudo de medicamento emagracedor experimental anima Wall Street&nbsp;&nbsp;NeoFeedSucessor do Mounjaro faz pessoas com diabetes perderem até 23,4% do peso&nbsp;&nbsp;O GLOBORetatrutida gera perda de peso média de 22,5 quilos em novo estudo, afirma fabricante&nbsp;&nbsp;Estadão",
       "sources": [
         {
           "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNelBGQlJqNDZmaE9BbEFkZEtOVWNOU0dkV1FvUkxQem5TMXlXdVB1Q3R5bHRnNGxnTWVFNFlzRk1uaGtUcGlka0djZk1TMENtRE1UT005MVR3Y2p0V2hSOEpTdTlHU0ZmYW04c2F2OEN1NDBmQ2JYNlljS0xqUnRibWJDZ0lTT3ZaaDZNNmVzUDk5MURWc3ZTR2QybklSNFJ2SzZVVmtQaVRKR21GQko1RzA4TlcxT1V2dlNHZw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUjJkenRNaHhtbXp1NS1SMU9zeFI3TG94WVBMeDJ5Tk1qQndHZFNQQ2N3ZTd3cGQxZ1VGVkJ3U0l5UHRhTk05eGdsZlhSVXR3bVBUenRUYl9sc1FBbXFFRWFISlpobWpuNkVHMTBSTnJoR0VyTVZONUlORDkxUFd0Mkt1OFFFRnpzVnRuZ2hXdFN4WjV5eTBCcDlGSmczeGxxaF9lQ0l3SVJ3MDZMOTJ2T3lYWmhhOEliWHd6c2EwNV90OWQyamZoRk1tWXBHdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "32c91e070923",
+      "title": "Conselho de oftalmologia orienta usuários de canetas - 29/09/2026 - Equilíbrio e Saúde - Folha de S.Paulo",
+      "published": "2026-09-29T23:20:00+00:00",
+      "summary": "Conselho de oftalmologia orienta usuários de canetas - 29/09/2026 - Equilíbrio e Saúde&nbsp;&nbsp;Folha de S.PauloAnvisa investiga 13 notificações de doença que causa perda de visão associadas a canetas emagrecedoras&nbsp;&nbsp;g1.globo.comRisco raro de perda da visão acende alerta para usuários de canetas emagrecedoras&nbsp;&nbsp;R7Anvisa investiga 13 casos de cegueira ligados ao uso de canetas emagrecedoras&nbsp;&nbsp;ICL NotíciasCanetas emagrecedoras: Conselho de Oftalmologia orienta paciente",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPNEZVeUQwYjJndjF2M0pWXzZMSF8yMjJhVXlmWEJFWktTazNYaEpWai1xV19SNVpqQlZvZnpYaXhwTzR6SndvbHE2bmR6dFdNVXF2VHhFaklhblM5MEpJb0JiUjJoMExrRmJISnpfX1NsTF9vVGV0Umd0THBMU2R4UmlCOHlYUmtFVXdYaHozVWRac0NXT042eUZycUQ1V3VwYUdKLWUyVTJTaDMyV3Z5b0RTMm1IbHdnWk4xYkVsMzM3Zng2YjRoeGpmZTdzRWFjWEJjVjZyTGN2NXlvVnBhXzlFS0ZLcTlqdkc1Mmo1VFZtWG9jX1ptaUViSl9DVnVlV0FVU3BxTVBiT2gxb0RsTTZXSW0?oc=5"
         }
       ]
     },
@@ -453,7 +333,7 @@
       "id": "1f7bcc6d5488",
       "title": "Ultraprocessados: é possível comê-los e se manter saudável? O que nutricionista diz sobre meu carrinho de compras - BBC",
       "published": "2026-09-27T18:41:04+00:00",
-      "summary": "Ultraprocessados: é possível comê-los e se manter saudável? O que nutricionista diz sobre meu carrinho de compras&nbsp;&nbsp;BBCQuanto ultraprocessado é demais? Estudo associa consumo a maior risco de doenças&nbsp;&nbsp;Tribuna HojeAlimentos industrializados podem fazer parte do plano alimentar? Nutricionista explica como fazer escolhas mais práticas no dia a dia&nbsp;&nbsp;issoebrasil.com.brAlimentação rica em ultraprocessados na infância impacta o metabolismo e deixa consequências na fase adul",
+      "summary": "Ultraprocessados: é possível comê-los e se manter saudável? O que nutricionista diz sobre meu carrinho de compras&nbsp;&nbsp;BBCQuanto ultraprocessado é demais? Estudo associa consumo a maior risco de doenças&nbsp;&nbsp;Tribuna HojeAlimentação rica em ultraprocessados na infância impacta o metabolismo e deixa consequências na fase adulta&nbsp;&nbsp;tuasaude.comAlimentos industrializados podem fazer parte do plano alimentar? Nutricionista explica como fazer escolhas mais práticas no dia a dia&nbs",
       "sources": [
         {
           "name": "BBC",
@@ -462,14 +342,14 @@
       ]
     },
     {
-      "id": "e65a1a458118",
-      "title": "Especialistas em longevidade avaliam: \"As pessoas que vivem mais tempo nunca fazem academia, elas simplesmente caminham\" - Terra",
-      "published": "2026-09-26T14:02:00+00:00",
-      "summary": "Especialistas em longevidade avaliam: \"As pessoas que vivem mais tempo nunca fazem academia, elas simplesmente caminham\"&nbsp;&nbsp;TerraComo caminhar 30 minutos por dia melhora a saúde cardiovascular após os 60 anos&nbsp;&nbsp;Rádio ItatiaiaTreino de força: estudo aponta benefícios com até duas horas de musculação por semana&nbsp;&nbsp;Revista Let's Go BahiaMovimento ajuda idosos a preservar autonomia e qualidade de vida&nbsp;&nbsp;jcorreiodopovo.com.brExercícios de equilíbrio ganham importânci",
+      "id": "84074f21f8fd",
+      "title": "'Nasci enquanto minha mãe era mantida viva em um pulmão de aço' - BBC",
+      "published": "2026-09-27T10:45:57+00:00",
+      "summary": "'Nasci enquanto minha mãe era mantida viva em um pulmão de aço'&nbsp;&nbsp;BBCGrávida de 5 meses, ela contraiu poliomielite e passou 3 anos em um pulmão de aço antes de voltar para casa&nbsp;&nbsp;NSC TotalGrávida de cinco meses, ela passou três anos em um pulmão de aço&nbsp;&nbsp;primeirapaginasc.com'Nasci enquanto minha mãe era mantida vida em um pulmão de aço'&nbsp;&nbsp;em.com.br",
       "sources": [
         {
-          "name": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOZ0VZMTBfdF9rczNkUGdLSFVOUEIxWVVJUUl1Vm94NEM4T1dzZXEyOERKaDYxV3EyNTlpc0RlQUNfbXBjVUU3UFhyck1sMXBNSUZNUnYwS1l5ZlFqai1FZElTci1kdkctOVJOR1h3WW1GNEFBYjkwRC1kNnJtMnNMcXA1bXVpZ3hLZ1o0TWxYdVJsV0hvWEVQdURSTzRSbFNDd1Jib1pfcmxMLTVmbFdsRm9nRlVjSzNna1RjV0xiTTBHWGFPbXF1UXd1WlhfcmFhbnI4ZXMzQ0UtOXlmMnZxRjh2R25zVFB2bEtjcEd1ak0wR1FNQlRYYnVuN21ITDVCUnZZZkh1bjNjNWdFSHJLby1mSUFiWlhQdEZzS0ZlSm5Ea0J1YmlnRg?oc=5"
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE44VUFLTjFIU1lwYmRiLWlkb2MyRjN5T09LNTRGMWNOVE0tT3YzTlBTZWtSM29ocnhaQkJwNk9IQnFTWnQxZFNTRExGREUxTUxJMWdBckVkVzVDT1RZNm04OVdUUdIBaEFVX3lxTE0zRjVNU3VlMVJLbzJ4cUVuaFB4UTZZcUxzZ19ISU5YRXNqMk15aXJxQS1SazlMeTVkVnF6LWZubG5EMFQ1SFNfdzRwNGl0WW84V1luYVlUS2tQb0tYcS1ha182WmpqVjlj?oc=5"
         }
       ]
     }
