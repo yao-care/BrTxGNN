@@ -14,7 +14,7 @@ permalink: /news/oseltamivir/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Oseltamivir?">
-<strong>Oseltamivir</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Oseltamivir</strong> tem atualmente <strong>1 notícias</strong> e 10 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,7 @@ Esta página combina as indicações previstas por IA para Oseltamivir com as no
 <li>tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria (95.1%)</li>
 <li>staphylococcus aureus infection (95.0%)</li>
 <li>cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency (93.9%)</li>
-<li>pneumonia (92.1%)</li>
+<li class="indication-matched">pneumonia (92.1%)<span class="indication-tag">📰 pneumonia</span></li>
 <li>streptococcal pneumonia (90.5%)</li>
 <li>susceptibility to HIV infection (89.8%)</li>
 </ul></li>
@@ -40,9 +40,15 @@ Esta página combina as indicações previstas por IA para Oseltamivir com as no
 <p><a href="{{ '/drugs/oseltamivir/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (0)
+## Notícias relacionadas (1)
 
-*Ainda não há notícias relacionadas. Quando uma notícia mencionar este medicamento, ela será recolhida e exibida aqui automaticamente.*
+### [JCNET: Bauru amplia Pneumo 20 para pessoas com 85 anos ou mais](https://news.google.com/rss/articles/CBMivwFBVV95cUxQWTVJQ1VXTk54ZkZsTzNqM19ycl92YUtrT0gxcXUzZEZ3TlFCNm1PNmUzYkgteEFIcEdKazRqVHEtM0oxOFRmbVF5VHhOSS1MeUpNNVVJMjN1Ym14cFhlZlVnQ3FrbXZNQm1TUWtSWVJlRVBxdERZV0hFY2VLMVZfd2dYVDVCeVF1NXNhSmRUcl95SmFWeFNGRmFkODhBbHBZQ0NCeGVOZWhnY3NndzA4YkRvYXBSUS1seFR5LWF2VQ?oc=5)
+
+2026-10-02 <span class="news-indication-tag">pneumonia</span> <span class="news-indication-tag">pneumonia</span>
+
+Fonte: [sampi.net.br](https://news.google.com/rss/articles/CBMivwFBVV95cUxQWTVJQ1VXTk54ZkZsTzNqM19ycl92YUtrT0gxcXUzZEZ3TlFCNm1PNmUzYkgteEFIcEdKazRqVHEtM0oxOFRmbVF5VHhOSS1MeUpNNVVJMjN1Ym14cFhlZlVnQ3FrbXZNQm1TUWtSWVJlRVBxdERZV0hFY2VLMVZfd2dYVDVCeVF1NXNhSmRUcl95SmFWeFNGRmFkODhBbHBZQ0NCeGVOZWhnY3NndzA4YkRvYXBSUS1seFR5LWF2VQ?oc=5)
+
+---
 
 
 <div class="disclaimer">
