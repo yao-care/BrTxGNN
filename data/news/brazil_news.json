@@ -1,10 +1,34 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-10-03T04:18:53.762488+00:00",
-  "total_fetched": 89,
-  "unique_count": 88,
-  "health_related_count": 29,
+  "fetched_at": "2026-10-03T11:15:32.929143+00:00",
+  "total_fetched": 85,
+  "unique_count": 85,
+  "health_related_count": 25,
   "news": [
+    {
+      "id": "681274cde43b",
+      "title": "Dente cresce acima do olho em primeiro caso registrado pela ciência - R7",
+      "published": "2026-10-03T05:00:01+00:00",
+      "summary": "Dente cresce acima do olho em primeiro caso registrado pela ciência&nbsp;&nbsp;R7",
+      "sources": [
+        {
+          "name": "R7",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdlFWVXRENWVLSFNybVZaTzNHZlVJQUJXaFBxbnJwamFiN2Z0WUtYOW9QbWVudFNWYzVpS2EwRjlxc2tRMGVkcnZXVDZwYUFLeUg1YnA0TDllUVpFbk9SSWNsWXFRSS1QTWxCZC1zWndzb1VDYTBIY3dUdUt3NlhiUURiaXlzckhiWlpiMXVrQmRMVkxVdnRZdTV5M2hYWWFVdHQyb0c3QkQxSTdRcWI4MkVNT0FWZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a68687b2280f",
+      "title": "Animais podem ter surgido 200 milhões de anos antes do que se pensava, aponta estudo - Correio Braziliense",
+      "published": "2026-10-02T21:57:00+00:00",
+      "summary": "Animais podem ter surgido 200 milhões de anos antes do que se pensava, aponta estudo&nbsp;&nbsp;Correio Braziliense",
+      "sources": [
+        {
+          "name": "Correio Braziliense",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPX0F1UF9XZ21Tb3RlaExwQ2JjazgwV0pSZjNMN3RqVEU0b1NyTndDdFdnNkNENjgzRF9jMW1NczUtSllvUjBib2Y5ZXQxdDhiazdpWTRTR3VuZVk0WkpBTVk5OWx2ZnJuWEpRX0FmdFo1MklISDJpbEdPOHp4NzBHQ0FFQlVORmNoRldjYlVwWTgwRGdpUWVSWGJtRmpXc1JKWjhIRnh5OUtWbEhVTzI3U2E4OGhDQWRvYU0tT05feGtfeWY3WTZjazh2V3NrZmNRVW5JRWQ4SXlCcmgzQTNyYjhsLUd3YnJhdUs5SWZoONIB9AFBVV95cUxNNzlGLUlTSFNpdllKeU1qNV85T2FKTjZiTXFzSGpZUDV3ZG5ZNGliYjFRQjZUQktLWWJRMnpJQ1ZWTXJjWWlEMVdJNzJJRGdlRmFyQUhaSU01ZzJSUzEzYWdfdFV5Z0dnUjNlMmd2WlROSlRLWU9IWTN0LURoaktmM0l6dlB5cUphVEpJVTNUT0pzV01zcTNTcHJpUjhfOEtWLWtET3AzdHF1X0J0Z2g3TmM0RFNmN0xDQVFHVFk2ZjlLMHNlYWNrZnpnOF9Rd3pmeFhyelNMcVlhVG8zWHU2TDk5OFpUZHR6X3c5eGtoNkJycWVR?oc=5"
+        }
+      ]
+    },
     {
       "id": "881bb952178c",
       "title": "Estudo da USP aponta: dormir mal não é apenas questão de rotina, mas também pode estar ligado a traços de personalidade - Super Rádio Tupi",
@@ -57,7 +81,7 @@
       "id": "f66293b4469c",
       "title": "Testosterona baixa: quando é sinal de problema de saúde? - Portal Drauzio Varella",
       "published": "2026-10-02T18:06:09+00:00",
-      "summary": "Testosterona baixa: quando é sinal de problema de saúde?&nbsp;&nbsp;Portal Drauzio VarellaSaúde emocional pode afetar a vida sexual e urinária dos homens, alerta urologista&nbsp;&nbsp;Jornal da FrancaTestosterona normal não significa que está tudo bem: entenda quando os sintomas podem exigir investigação&nbsp;&nbsp;correio24horas.com.brAndropausa: Saúde masculina além da testosterona -&nbsp;&nbsp;Folha de Campo Grande -Andrologia atua no cuidado da saúde masculina&nbsp;&nbsp;Terra",
+      "summary": "Testosterona baixa: quando é sinal de problema de saúde?&nbsp;&nbsp;Portal Drauzio VarellaSaúde emocional pode afetar a vida sexual e urinária dos homens, alerta urologista&nbsp;&nbsp;jornaldafranca.com.brTestosterona normal não significa que está tudo bem: entenda quando os sintomas podem exigir investigação&nbsp;&nbsp;Jornal CorreioAndropausa: Saúde masculina além da testosterona -&nbsp;&nbsp;Folha de Campo Grande -Andrologia atua no cuidado da saúde masculina&nbsp;&nbsp;Terra",
       "sources": [
         {
           "name": "Portal Drauzio Varella",
@@ -78,13 +102,13 @@
       ]
     },
     {
-      "id": "bb11c03e52f3",
-      "title": "Homem sofre infarto aos 46 anos e alerta para sintomas incomuns - Metrópoles",
+      "id": "0ee271b487ba",
+      "title": "Homem sofre infarto aos 46 anos e alerta para sintomas incomuns - metropoles.com",
       "published": "2026-10-02T14:26:00+00:00",
-      "summary": "Homem sofre infarto aos 46 anos e alerta para sintomas incomuns&nbsp;&nbsp;Metrópoles",
+      "summary": "Homem sofre infarto aos 46 anos e alerta para sintomas incomuns&nbsp;&nbsp;metropoles.com",
       "sources": [
         {
-          "name": "Metrópoles",
+          "name": "metropoles.com",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ2N3aTMzSVFGZmN1WkNXY1l1T05hdkFUal9xZUdSdFVpN1hkNll2cWhjMHVJZGhhQlQzcFNnSVRhTEFBRXhIcXZwcXo0dTBCaW0xbE1JS3BHVFlzdHMzbVQyRGtKRUszVk01QWF5TVJFVTh6eERUNFZpRnNURHgwcEdncmFoVDNRUzFyb3dWTFEyNFNlalY0WGJfXzU?oc=5"
         }
       ]
@@ -114,13 +138,13 @@
       ]
     },
     {
-      "id": "37d992bff0d6",
-      "title": "AVC: Bahia registra mais de 74 mil internações em cinco anos; veja os sinais de alerta - correio24horas.com.br",
+      "id": "ad991ac9292b",
+      "title": "AVC: Bahia registra mais de 74 mil internações em cinco anos; veja os sinais de alerta - Jornal Correio",
       "published": "2026-10-02T13:00:29+00:00",
-      "summary": "AVC: Bahia registra mais de 74 mil internações em cinco anos; veja os sinais de alerta&nbsp;&nbsp;correio24horas.com.brAVC em jovens: neurologista alerta para fatores de risco e sinais que não devem ser ignorados&nbsp;&nbsp;Jornal OpçãoAVC em jovens: entenda por que casos podem acontecer mesmo antes dos 45 anos&nbsp;&nbsp;O PopularPropõe-se que pessoas com mais de 40 anos sejam submetidas a exames de rastreio de risco de AVC.&nbsp;&nbsp;Vietnam.vnViva com saúde: prevenção ao AVC ganha destaque e",
+      "summary": "AVC: Bahia registra mais de 74 mil internações em cinco anos; veja os sinais de alerta&nbsp;&nbsp;Jornal CorreioAVC em jovens: neurologista alerta para fatores de risco e sinais que não devem ser ignorados&nbsp;&nbsp;Jornal OpçãoSinais de AVC: como reconhecer em poucos segundos usando o teste SAMU&nbsp;&nbsp;Brasil 247AVC em jovens: entenda por que casos podem acontecer mesmo antes dos 45 anos&nbsp;&nbsp;O PopularPropõe-se que pessoas com mais de 40 anos sejam submetidas a exames de rastreio de ",
       "sources": [
         {
-          "name": "correio24horas.com.br",
+          "name": "Jornal Correio",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNzlpdFdPQjdNUnNLTmVERmZpRG8wR25Ka2FiYVNJY0ZBQ3ZuSVY3V1JESmpwa2pHOUwta0pNRmJ5Wjh1MkFzTWVlZUdwbW1lQmZ0UmpUSlVNSDZwNy0yQ0ZQM2FtMmJxNldxeEY2UW5mNGNHVndmYUZqS09ZaERZUXJwWThQUWozXzhYamJsdVFPYUxkYlliREx0am5tYWdaVkRFTUNXNFNlYUFlQnc5eUt3N1AyaUJpLWl2bUU4LUlUQVZyRkJZWXdDTnRsNnFqOXdrM1hn?oc=5"
         }
       ]
@@ -174,14 +198,14 @@
       ]
     },
     {
-      "id": "b0747e5c1a21",
-      "title": "Lito Sousa morre aos 59 anos, vítima de doença neurológica rara - ICL Notícias",
-      "published": "2026-10-01T23:39:51+00:00",
-      "summary": "Lito Sousa morre aos 59 anos, vítima de doença neurológica rara&nbsp;&nbsp;ICL Notícias",
+      "id": "da83a0a1e05e",
+      "title": "Entenda o que é a doença de Creutzfeldt-Jakob, que matou Lito Sousa - Jovem Pan",
+      "published": "2026-10-01T21:44:01+00:00",
+      "summary": "Entenda o que é a doença de Creutzfeldt-Jakob, que matou Lito Sousa&nbsp;&nbsp;Jovem Pan",
       "sources": [
         {
-          "name": "ICL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFaWRFVmFyZWRDV25STEV6N1BVSDhkTFNMb0p6aWpBSjVuYjZHU2VycUZVOVZKSFcyQ1JuX3huQkxOVENhX2FjWWc4U0JyZVJMLTVadXpFU19rcHdTcDh3bm1uNEw1NlFpZXdPdUZmX2R4Zw?oc=5"
+          "name": "Jovem Pan",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMl82UTBjcE9zeTZ1SEFyUklFRzRjc1pNWkVEdDc2Z2hCMVNJeC1LZjVNWFMtc1F5LWZzSUFlS0dhY3BIc0ZBU01nT1diSVdXck5pQkhWSkNjUEVzQW0zT0hfVXhKUjhqMlFPTVBvUXRCY0syaEtqUi04cV9UN281Z2JXaEhzd3dZOXUtVzBXV2MtcmVxcFVWcEZSVjJ6U3M?oc=5"
         }
       ]
     },
@@ -189,7 +213,7 @@
       "id": "5d35333bb0bd",
       "title": "Sociedades médicas pedem à Anvisa proibição total de implantes hormonais manipulados no Brasil - G1",
       "published": "2026-10-01T18:24:14+00:00",
-      "summary": "Sociedades médicas pedem à Anvisa proibição total de implantes hormonais manipulados no Brasil&nbsp;&nbsp;G1Sociedades médicas alertam para riscos de implantes hormonais manipulados&nbsp;&nbsp;jc.uol.com.br‘Chip da beleza’: entidades médicas pedem proibição de implantes hormonais manipulados no Brasil&nbsp;&nbsp;estadao.com.brEntidades médicas pedem à Anvisa proibição de chips da beleza&nbsp;&nbsp;Jornal do Comércio12 entidades médicas nacionais e internacionais cobram proibição de implantes hor",
+      "summary": "Sociedades médicas pedem à Anvisa proibição total de implantes hormonais manipulados no Brasil&nbsp;&nbsp;G1Entidades médicas pedem à Anvisa proibição de chips da beleza&nbsp;&nbsp;Folha de S.PauloConfira os destaques do Jornal A Tribuna deste sábado&nbsp;&nbsp;Tribuna Online‘Chip da beleza’: entidades médicas pedem proibição de implantes hormonais manipulados no Brasil&nbsp;&nbsp;Estadão12 entidades médicas nacionais e internacionais cobram proibição de implantes hormonais manipulados no Brasil",
       "sources": [
         {
           "name": "G1",
@@ -210,62 +234,14 @@
       ]
     },
     {
-      "id": "3550b2562fb8",
-      "title": "Neurologista mineira lança livro sobre Alzheimer e alcança topo de vendas na Amazon - O TEMPO",
-      "published": "2026-10-01T16:20:05+00:00",
-      "summary": "Neurologista mineira lança livro sobre Alzheimer e alcança topo de vendas na Amazon&nbsp;&nbsp;O TEMPO",
-      "sources": [
-        {
-          "name": "O TEMPO",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObFExemg4a09UOVU3Y0ZVOWI0SVRnTlM5c2plN081dVkxM2xTTEFQN3lCWFdEQVBsTXZpeHV0dzlJZU90eGZnMHJ4QktZNFkzYzI3UXY4QkY4UUhRMzNUZ0FGcWJwZ0R1RUFPYjdWY2FDRWd3UHpXVlBfOC12WER0RVdMNlRWOXJTRFplck1tWVFZbkNOVzBmY0R4bUFwQUhmZGhOYTZVV3dEZU0zMy15Wm1PTHJXNWRqRzZfOGpueWNsU2Y1M0ppdWtvTTRWQk5sTnZN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1c0fdf53f3cf",
-      "title": "Boca seca, mau hálito e desgaste dos dentes: efeitos das canetas para obesidade na saúde bucal - estadao.com.br",
+      "id": "5b9ddfb0276a",
+      "title": "Boca seca, mau hálito e desgaste dos dentes: efeitos das canetas para obesidade na saúde bucal - Estadão",
       "published": "2026-10-01T08:30:00+00:00",
-      "summary": "Boca seca, mau hálito e desgaste dos dentes: efeitos das canetas para obesidade na saúde bucal&nbsp;&nbsp;estadao.com.brVenda online de canetas emagrecedoras explode e representa 70% das compras&nbsp;&nbsp;CNN BrasilQueda de cabelo após emagrecer? Saiba o motivo&nbsp;&nbsp;TerraUso de canetas emagrecedoras por jovens gera alerta de pediatras&nbsp;&nbsp;Veja SaúdeGrupo Boticário anuncia primeira pesquisa brasileira sobre impacto das canetas emagrecedoras na pele e nos cabelos&nbsp;&nbsp;Globo",
+      "summary": "Boca seca, mau hálito e desgaste dos dentes: efeitos das canetas para obesidade na saúde bucal&nbsp;&nbsp;EstadãoVenda online de canetas emagrecedoras explode e representa 70% das compras&nbsp;&nbsp;CNN BrasilQueda de cabelo após emagrecer? Saiba o motivo&nbsp;&nbsp;TerraUso de canetas emagrecedoras por jovens gera alerta de pediatras&nbsp;&nbsp;Veja SaúdeGrupo Boticário anuncia primeira pesquisa brasileira sobre impacto das canetas emagrecedoras na pele e nos cabelos&nbsp;&nbsp;Globo",
       "sources": [
         {
-          "name": "estadao.com.br",
+          "name": "Estadão",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRDJYcXYzcVRyUHJpb2NkTy1nay1HbW9zRi1udExUTWRoeWc5d3VBbk5xWGtNanFMbDNudFpQYm1rZTJMVFdfRHJUV1dtWS16UWVxZ3BueVliajJDRXMxQ2pfQXNjR1FtX0ZpZlB2SHZ3ZjdmZVhHd1QzbG1OX3FDbkI3QnNUZGg1c2M3QjlpeVJveFEzRk1mMElkYzRudXVBU0pSa01IdjJrVVpuYTUzYW1fRWE3ek1HUUdQXzdBSG1UYUtzQ2U4Wjc0WDh0RmdWT1ZyV0NaT2UxbWFXS3c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "128ab6798bcd",
-      "title": "EUA aprovam remédio para Parkinson que age de jeito inédito no cérebro - G1",
-      "published": "2026-10-01T08:00:00+00:00",
-      "summary": "EUA aprovam remédio para Parkinson que age de jeito inédito no cérebro&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQXzdqU1pUVTNycGI2NGlXYmdRTUk1SHhmSlA0ZGVCS2Q5eWdyanh4NUFhTGY1SEhJdTA4YW04UTZIdHZuQnZ1dzhxRnR4QTZHNi1xY3NidU8ya1pTeklPdW9fQkM1WGpqRHhlZEhmbzlPdlRranY0dDhBQ2ZybjdURFpER0JLWmUycFBuVmZrblBXeVhWV2hnSWtXRXVUX0EwYXdxZ1h6MzRtTmtGd2dNYmVHSlZmS2FFeUpfbW80SdIBzgFBVV95cUxQQWVUd3NmTDJDR3B6V1lVVlFxVVowVE1BZVprbDBtSGJBMEg4SjVOQ21tVDAxdThoQ00zSFpZNUd1bEtsdmNiNjZaVnpKbDJ3blpLa1RWTHktUC1sRjdVdEFwZEFndG5STEJ2bVZyUWpSU24wWkNyVDJvWW9BX3pBdjlXTUgyS3J5WE5NZ0xpSW1KZVk1SEE5TWlCUGNHRjVQQVA0MU5GazFjWVY4ZkNkWEwtMjFDamtURFhNNEZqYW5CUU5ZRTlnTGNEREZJUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "136e0ccfa7c1",
-      "title": "Carioca que vendia brigadeiros hoje pesquisa supernovas nos EUA - O GLOBO",
-      "published": "2026-10-01T08:00:00+00:00",
-      "summary": "Carioca que vendia brigadeiros hoje pesquisa supernovas nos EUA&nbsp;&nbsp;O GLOBO",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNGloSWw5SnpleWlxZDhRSmhiYjJGX3VxdWVCQ2M1MlFRYXpjbFFyQk95MmJwSHIwendSRGw2azhXeGh0cGVFbkJaQk00VDJoc3FrbWRoR0R1ZGhIUTJkMTd4dnJ0QVItd1duU0I1aWRveTNYbE9EQk1DMGtfQjk4SHVlNFJHdFhsaWszZ0xDUUVwOE4yNTRzZEFIX0RJVVZRblVfOGhfdERSVDdDLVFfUllhZW1LS1V5RWNweWhZV2oyVWNDM2JXVWZqT1BfekhpLTROUnFZY05EeFNIaVHSAewBQVVfeXFMTkNvZGdXblZESThUVmlKN1dfN2hCbVNpWVR3TVdWQzR6QnlaNFhLdnk2ZTdlTFhSNmNDemxjRmZ0TkdmOFlrdWxEeU5VcVpGaEo4bDI4U1RJekxMYWk0V2ZjVFhUTVpCRDdYNWR0d2pGMWJ3QkNCZkQ3T2R1MGlyemhBWGdMaEVodGl0Z0U1ZFdsNkd2d2ZXdVlVMXg5bFRCY29nMmx4WFMzTElpZE5HUWVoOFBDSTRfb3hiNFJRbkRmWkV1TkFGSTNoT0thMXhweVp4M3dmdU9odFRVMW5QUDZHSG5sVTFtNkw3Q1I?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b709da031032",
-      "title": "Cientistas brasileiros multiplicam células de supercentenários em laboratório para decifrar o segredo da longevidade, em estudo inédito - O GLOBO",
-      "published": "2026-10-01T07:30:00+00:00",
-      "summary": "Cientistas brasileiros multiplicam células de supercentenários em laboratório para decifrar o segredo da longevidade, em estudo inédito&nbsp;&nbsp;O GLOBO",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPX3BwNjNoX043cmtpQzRxRWIyUjZsdWk5cDNBMUVXeF9TSFJZYy1FVmk2dU1HNHpERk91alpTRXlYaFNfRjZBVnkwV0tkMUg3QUota3paVjVoeWJvcGhTOGViUUpXdDdMR1JLQ25odUM2d29rYlFjUHF3SnJWNVRvWjcydXRnUkxkdEw4Z1RGaXBNdmVxMTVTdTM4dnB2eFpWU2ZxOHptZFMxRWNZMFZLWm1JeS0wNm9CODkxS2M0VlROWWdNUTdJeGVUYXF6emxCQzBldkg5YU5kdHNkajBlb2pTVWNOOHFTODdrVnZaQ1RFR3k3b183WmJoTjB4b1dCeW5ucFJHNlFsNVo4RElTVTBWZFhYRUYzQWfSAagCQVVfeXFMTkxINU0zSzgxU3ZWSFNMNkpMNHM1b29fLUpIWlh0ZnRNR2JUZHVKVWg1WWxBVHk0OVRmRHJ4MnBVWUV1RHgtYlItR1huSWdEcnU3NXZYMzQycDFsSHd2THpwVUZyU0dxWVg3b1F3bjNDNW1Xd3pwX3dzRWwyMXVKNUdZMzNuZWxMdG9fUXZsYjRFRkpQR3RBWGRITkVxd3dkb3J5TlVsTXZEVUZWa1BYdWg5aDUza3JIZm42V2F0Q3RLSi1FSDJwQWhPZ0JMa2ZXX0s1amVZc01kVHJsRU5pSi01dHJORm1HMFN4eGtMVG1Pb2hoNWZCQ1ZvZUh3MFUtR2x3dXJuYUlUdkN2RDdCZkpHVmRoejYwZWt6R3hhVXdFOTdQTUFtYWg?oc=5"
         }
       ]
     },
@@ -282,22 +258,10 @@
       ]
     },
     {
-      "id": "96be581e83f2",
-      "title": "Sucessor do Mounjaro faz pessoas com diabetes perderem até 25% do peso - UOL",
-      "published": "2026-09-30T11:42:46+00:00",
-      "summary": "Sucessor do Mounjaro faz pessoas com diabetes perderem até 25% do peso&nbsp;&nbsp;UOLMounjaro turbinado: a nova dupla que fez pessoas perderem quase um quarto do peso&nbsp;&nbsp;VEJANovo Mounjaro? Avanço em estudo de medicamento emagracedor experimental anima Wall Street&nbsp;&nbsp;NeoFeedSucessor do Mounjaro faz pessoas com diabetes perderem até 23,4% do peso&nbsp;&nbsp;O GLOBORetatrutida gera perda de peso média de 22,5 quilos em novo estudo, afirma fabricante&nbsp;&nbsp;estadao.com.br",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUjJkenRNaHhtbXp1NS1SMU9zeFI3TG94WVBMeDJ5Tk1qQndHZFNQQ2N3ZTd3cGQxZ1VGVkJ3U0l5UHRhTk05eGdsZlhSVXR3bVBUenRUYl9sc1FBbXFFRWFISlpobWpuNkVHMTBSTnJoR0VyTVZONUlORDkxUFd0Mkt1OFFFRnpzVnRuZ2hXdFN4WjV5eTBCcDlGSmczeGxxaF9lQ0l3SVJ3MDZMOTJ2T3lYWmhhOEliWHd6c2EwNV90OWQyamZoRk1tWXBHdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "73dac97c0c62",
       "title": "1 em cada 8 casos de câncer no mundo está associado a 5 infecções, mostra estudo; veja quais - O GLOBO",
       "published": "2026-09-29T13:56:14+00:00",
-      "summary": "1 em cada 8 casos de câncer no mundo está associado a 5 infecções, mostra estudo; veja quais&nbsp;&nbsp;O GLOBO1 em cada 8 casos de câncer está ligado a infecções por vírus ou bactérias, aponta estudo&nbsp;&nbsp;Folha de S.PauloOs vírus e as bactérias capazes de aumentar o risco de um câncer&nbsp;&nbsp;estadao.com.brEstes 5 tipos de infecções causam 2 milhões de casos de câncer no mundo&nbsp;&nbsp;Globo2,3 milhões de pessoas desenvolvem câncer devido a infecções evitáveis.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "1 em cada 8 casos de câncer no mundo está associado a 5 infecções, mostra estudo; veja quais&nbsp;&nbsp;O GLOBO1 em cada 8 casos de câncer está ligado a infecções por vírus ou bactérias, aponta estudo&nbsp;&nbsp;Folha de S.PauloOs vírus e as bactérias capazes de aumentar o risco de um câncer&nbsp;&nbsp;EstadãoEstes 5 tipos de infecções causam 2 milhões de casos de câncer no mundo&nbsp;&nbsp;Globo2,3 milhões de pessoas desenvolvem câncer devido a infecções evitáveis.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "O GLOBO",
@@ -321,7 +285,7 @@
       "id": "1f7bcc6d5488",
       "title": "Ultraprocessados: é possível comê-los e se manter saudável? O que nutricionista diz sobre meu carrinho de compras - BBC",
       "published": "2026-09-27T18:41:04+00:00",
-      "summary": "Ultraprocessados: é possível comê-los e se manter saudável? O que nutricionista diz sobre meu carrinho de compras&nbsp;&nbsp;BBCQuanto ultraprocessado é demais? Estudo associa consumo a maior risco de doenças&nbsp;&nbsp;Tribuna HojeAlimentação rica em ultraprocessados na infância impacta o metabolismo e deixa consequências na fase adulta&nbsp;&nbsp;Tua SaúdeAlimentos industrializados podem fazer parte do plano alimentar? Nutricionista explica como fazer escolhas mais práticas no dia a dia&nbsp;&",
+      "summary": "Ultraprocessados: é possível comê-los e se manter saudável? O que nutricionista diz sobre meu carrinho de compras&nbsp;&nbsp;BBCQuanto ultraprocessado é demais? Estudo associa consumo a maior risco de doenças&nbsp;&nbsp;Tribuna HojeAlimentos industrializados podem fazer parte do plano alimentar? Nutricionista explica como fazer escolhas mais práticas no dia a dia&nbsp;&nbsp;issoebrasil.com.brAlimentação rica em ultraprocessados na infância impacta o metabolismo e deixa consequências na fase adul",
       "sources": [
         {
           "name": "BBC",
@@ -338,18 +302,6 @@
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQU5feVFRQU40dlRlQ3VQTDJvb0pFeVBla1gtQzNtYkN4VFRVR25LSm5SSFBPQ0NZVUExeUZXcjh5TlNFd3YxNjBzMlBqLXczY1JLVW5iTGpwVHBXZms4OE0yalBjS0hfQy10bk5ES0lieTBiRF9XNjBWTjVyNlg0LUc2cXZwU1o1bHpyNDZ2enh3OTlreVVSNlZvZXpYZkZ2ZkVsZ3lRZDhmWDQ1bk8ybWpUVU5ISVpJRXRZU19iQ0tac0o4c0cwVVpSZ0FGUi1MZVhMVWt2Qkw2ZlNTSi1sdks0ZWQxQdIB9AFBVV95cUxNckpkenV6VDBldGtwdFljYlJ6M2VLdlRjTW8xTjd4THU3X2x2X0FzMmJudmRpdHQ2bEppVV94UEZBMjJFZDVpR3hKSXZUNERnZXUxV0x6Z19sUHU0dkRtUjFUWlA1dzdRTkZxN2Zfc2F4YU5ONktHU2VfMVpDc2daTXktSlBDREVaQXRSMkl2RF9NbDlMTnFKdEk0TmVITE1TU3Q1TnkySGpNR3B4WnRmcHVSekMzZTFMZVlCeVlWcktvT3Y0WGt3WjZiczhBNE1rSzJNaHVEYWc5Z3NUdXI1STF4WGdIX2E3VUNKWXpSOXRQNF8y?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8211c36fab8e",
-      "title": "Como a hermética comunidade amish combate o surto de sarampo mais mortal da história recente dos EUA - BBC",
-      "published": "2026-09-26T13:25:41+00:00",
-      "summary": "Como a hermética comunidade amish combate o surto de sarampo mais mortal da história recente dos EUA&nbsp;&nbsp;BBCEUA confirmam 5ª morte por sarampo este ano; entenda o que leva país ao pior surto desde os anos 2000&nbsp;&nbsp;G1Pensilvânia confirma quinta morte por sarampo em pior surto dos EUA&nbsp;&nbsp;Folha de S.PauloEUA confirmam 5ª morte por sarampo; vítima não tinha recebido vacina&nbsp;&nbsp;VEJAEUA confirmam 5ª morte por sarampo em 2026; queda na vacinação levou país ao pior surto em ",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qYWZvcks0eTgtN0lKTWdTMmRNb0ZMSjRDOGRSaVNQNXVFdlJBQnNGaDEzYnlTZER1S201ZE5UcnNkR3dMUThfMWVNQVNvZGNkcWRrOVBhNGRybTU1ZkgzbXNRZ9IBaEFVX3lxTE44OE9zOGRzOGdjN0hJTVBEZ1dfcTMxVmdHOGxWVlVRYTg4b0NUR0o5bjVoZ1ZvU0tEV1RiUDlFcG1iZnZzZm9VZElrOWlYeEIxNEctaFVVekQ1cmNmS0hEYnR0QUVSZV9k?oc=5"
         }
       ]
     }
