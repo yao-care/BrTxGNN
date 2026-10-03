@@ -1,10 +1,34 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-10-03T11:15:32.929143+00:00",
-  "total_fetched": 85,
-  "unique_count": 85,
-  "health_related_count": 25,
+  "fetched_at": "2026-10-03T15:53:22.422859+00:00",
+  "total_fetched": 90,
+  "unique_count": 90,
+  "health_related_count": 32,
   "news": [
+    {
+      "id": "f604a0ac9d44",
+      "title": "Coração de doador mais velho parece rejuvenescer ao ser transplantado em paciente mais jovem - Folha de S.Paulo",
+      "published": "2026-10-03T09:00:00+00:00",
+      "summary": "Coração de doador mais velho parece rejuvenescer ao ser transplantado em paciente mais jovem&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPR3VwMHdOWE9qajFOdVhmSmJBUjBFRnRBcWtOODVMaHhxdXhlbnZ4YmRLUFBIUlZ4VWRSNGdFanMydXFpSXROLWtMeTVwQmtzOVFfdFpWWG1sbVBNYXlzVC16MmppWThTbWEwU3h2OUV5NDNqS0FrT28wNE1QTkk0bjhNdWtLdmF5bC1JUzZ2MVhoaWdONDd2bVpKYTg1cHNLakFabWdqQklzMW9JTmpLcW5nVDJHNWlhczlqRzFJclpSUHFldGZNTWRKUUtKUkxtTm1QZXhaLTB3dWpr?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9508b40f5d00",
+      "title": "Tratamento da apneia melhora a qualidade do sono dos parceiros - CNN Brasil",
+      "published": "2026-10-03T06:00:59+00:00",
+      "summary": "Tratamento da apneia melhora a qualidade do sono dos parceiros&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOFN3WGhNNFlPR3E4d0lDVG9GajU2d25pWVI5X05yRG15MFhPUUo3UHdaZ0dxaXZnNFhiX0E2aU1PeGhRNl9QMGpxTGFhaE1XRm5DM3JtQnFXOWNaaGJ6czJYWlY3TXJIT1FsZkFZQmhpRGZ5ZWx4emNySmpZdjFPQTZNZk9uOE5WLTJyWUx3dTE4X2I4M1ByaTkzVEdISWM?oc=5"
+        }
+      ]
+    },
     {
       "id": "681274cde43b",
       "title": "Dente cresce acima do olho em primeiro caso registrado pela ciência - R7",
@@ -18,13 +42,13 @@
       ]
     },
     {
-      "id": "a68687b2280f",
-      "title": "Animais podem ter surgido 200 milhões de anos antes do que se pensava, aponta estudo - Correio Braziliense",
+      "id": "ee9a2a417095",
+      "title": "Animais podem ter surgido 200 milhões de anos antes do que se pensava, aponta estudo - correiobraziliense.com.br",
       "published": "2026-10-02T21:57:00+00:00",
-      "summary": "Animais podem ter surgido 200 milhões de anos antes do que se pensava, aponta estudo&nbsp;&nbsp;Correio Braziliense",
+      "summary": "Animais podem ter surgido 200 milhões de anos antes do que se pensava, aponta estudo&nbsp;&nbsp;correiobraziliense.com.br",
       "sources": [
         {
-          "name": "Correio Braziliense",
+          "name": "correiobraziliense.com.br",
           "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPX0F1UF9XZ21Tb3RlaExwQ2JjazgwV0pSZjNMN3RqVEU0b1NyTndDdFdnNkNENjgzRF9jMW1NczUtSllvUjBib2Y5ZXQxdDhiazdpWTRTR3VuZVk0WkpBTVk5OWx2ZnJuWEpRX0FmdFo1MklISDJpbEdPOHp4NzBHQ0FFQlVORmNoRldjYlVwWTgwRGdpUWVSWGJtRmpXc1JKWjhIRnh5OUtWbEhVTzI3U2E4OGhDQWRvYU0tT05feGtfeWY3WTZjazh2V3NrZmNRVW5JRWQ4SXlCcmgzQTNyYjhsLUd3YnJhdUs5SWZoONIB9AFBVV95cUxNNzlGLUlTSFNpdllKeU1qNV85T2FKTjZiTXFzSGpZUDV3ZG5ZNGliYjFRQjZUQktLWWJRMnpJQ1ZWTXJjWWlEMVdJNzJJRGdlRmFyQUhaSU01ZzJSUzEzYWdfdFV5Z0dnUjNlMmd2WlROSlRLWU9IWTN0LURoaktmM0l6dlB5cUphVEpJVTNUT0pzV01zcTNTcHJpUjhfOEtWLWtET3AzdHF1X0J0Z2g3TmM0RFNmN0xDQVFHVFk2ZjlLMHNlYWNrZnpnOF9Rd3pmeFhyelNMcVlhVG8zWHU2TDk5OFpUZHR6X3c5eGtoNkJycWVR?oc=5"
         }
       ]
@@ -78,14 +102,26 @@
       ]
     },
     {
-      "id": "f66293b4469c",
-      "title": "Testosterona baixa: quando é sinal de problema de saúde? - Portal Drauzio Varella",
+      "id": "27751dc2d130",
+      "title": "Testosterona baixa: quando é sinal de problema de saúde? - drauziovarella.uol.com.br",
       "published": "2026-10-02T18:06:09+00:00",
-      "summary": "Testosterona baixa: quando é sinal de problema de saúde?&nbsp;&nbsp;Portal Drauzio VarellaSaúde emocional pode afetar a vida sexual e urinária dos homens, alerta urologista&nbsp;&nbsp;jornaldafranca.com.brTestosterona normal não significa que está tudo bem: entenda quando os sintomas podem exigir investigação&nbsp;&nbsp;Jornal CorreioAndropausa: Saúde masculina além da testosterona -&nbsp;&nbsp;Folha de Campo Grande -Andrologia atua no cuidado da saúde masculina&nbsp;&nbsp;Terra",
+      "summary": "Testosterona baixa: quando é sinal de problema de saúde?&nbsp;&nbsp;drauziovarella.uol.com.brSaúde emocional pode afetar a vida sexual e urinária dos homens, alerta urologista&nbsp;&nbsp;Jornal da FrancaTestosterona normal não significa que está tudo bem: entenda quando os sintomas podem exigir investigação&nbsp;&nbsp;Jornal CorreioAndropausa: Saúde masculina além da testosterona -&nbsp;&nbsp;Folha de Campo Grande -Andrologia atua no cuidado da saúde masculina&nbsp;&nbsp;Terra",
       "sources": [
         {
-          "name": "Portal Drauzio Varella",
+          "name": "drauziovarella.uol.com.br",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZk1lWWp4Y3k4OVFtTTVLVzVTVGVJTDAxN09JRTFmY0FWdy1aRkhpTkc2OE5qVUJiM2JRT25EcDJQa25mUWNxYXRrcEg2RWpSdmZGVy0zOTF6QnpHZDdIUi1UZVdUSFZxS2dfVV8wUDktbWVnakFSN014OFlTZll2QkJUZnBKTEE0M0RpZFNJRXhuRHpGMVZWYXgyeDQ4MDFHeVpDMEZKVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8094fc931214",
+      "title": "Doença rara: conheça a capixaba com a mesma condição de Lito Sousa - A Gazeta",
+      "published": "2026-10-02T17:46:00+00:00",
+      "summary": "Doença rara: conheça a capixaba com a mesma condição de Lito Sousa&nbsp;&nbsp;A Gazeta",
+      "sources": [
+        {
+          "name": "A Gazeta",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT3NHZGllQkhxZnhzaVg1UlE5S0pUeWFpUnlPSUFrWUxfblZBdHlSdlFGMVdJMmhQVmJxakx5dXhYeUtKWmxiS0VkZjFEeW9INGx3UTdRZWFoTlpGNlByRGNyWXc2NkFhTm5yVVlPb0ZJR016a3RNdVJVQmZ4amNSTG93V21EMG1YaWptZ1FPUjJ1bkZUck1DZ3BQTGhpVVNKaG9uN0VZaUVDdw?oc=5"
         }
       ]
     },
@@ -102,13 +138,13 @@
       ]
     },
     {
-      "id": "0ee271b487ba",
-      "title": "Homem sofre infarto aos 46 anos e alerta para sintomas incomuns - metropoles.com",
+      "id": "bb11c03e52f3",
+      "title": "Homem sofre infarto aos 46 anos e alerta para sintomas incomuns - Metrópoles",
       "published": "2026-10-02T14:26:00+00:00",
-      "summary": "Homem sofre infarto aos 46 anos e alerta para sintomas incomuns&nbsp;&nbsp;metropoles.com",
+      "summary": "Homem sofre infarto aos 46 anos e alerta para sintomas incomuns&nbsp;&nbsp;Metrópoles",
       "sources": [
         {
-          "name": "metropoles.com",
+          "name": "Metrópoles",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ2N3aTMzSVFGZmN1WkNXY1l1T05hdkFUal9xZUdSdFVpN1hkNll2cWhjMHVJZGhhQlQzcFNnSVRhTEFBRXhIcXZwcXo0dTBCaW0xbE1JS3BHVFlzdHMzbVQyRGtKRUszVk01QWF5TVJFVTh6eERUNFZpRnNURHgwcEdncmFoVDNRUzFyb3dWTFEyNFNlalY0WGJfXzU?oc=5"
         }
       ]
@@ -117,7 +153,7 @@
       "id": "73307ee2d4e2",
       "title": "JCNET: Bauru amplia Pneumo 20 para pessoas com 85 anos ou mais - sampi.net.br",
       "published": "2026-10-02T14:03:23+00:00",
-      "summary": "JCNET: Bauru amplia Pneumo 20 para pessoas com 85 anos ou mais&nbsp;&nbsp;sampi.net.brMacaé convoca idosos com 85 anos ou mais para vacinação contra pneumonia&nbsp;&nbsp;G1Tem 85 anos ou mais? Saiba onde se vacinar com a Pneumo-20&nbsp;&nbsp;Prefeitura de CuritibaPneumo 20 no SUS: quem pode tomar a vacina e como conseguir&nbsp;&nbsp;TerraSalvador inicia vacinação contra pneumococo para pessoas com 85 anos ou mais&nbsp;&nbsp;Bahia Notícias",
+      "summary": "JCNET: Bauru amplia Pneumo 20 para pessoas com 85 anos ou mais&nbsp;&nbsp;sampi.net.brMacaé convoca idosos com 85 anos ou mais para vacinação contra pneumonia&nbsp;&nbsp;G1Pneumo 20 no SUS: quem pode tomar a vacina e como conseguir&nbsp;&nbsp;TerraTem 85 anos ou mais? Saiba onde se vacinar com a Pneumo-20&nbsp;&nbsp;Prefeitura de CuritibaPneumo 20: vacinação é ampliada em Santos, Praia Grande e no resto da Baixada Santista; veja locais no litoral de SP&nbsp;&nbsp;A Tribuna",
       "sources": [
         {
           "name": "sampi.net.br",
@@ -174,6 +210,18 @@
       ]
     },
     {
+      "id": "dac6aa402d0e",
+      "title": "Previsão de Riscos Geo-Hidrológicos para os dias 02/10, 03/10 e 04/10/2026 - www.gov.br",
+      "published": "2026-10-02T07:18:23+00:00",
+      "summary": "Previsão de Riscos Geo-Hidrológicos para os dias 02/10, 03/10 e 04/10/2026&nbsp;&nbsp;www.gov.br",
+      "sources": [
+        {
+          "name": "www.gov.br",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOGhSdDhwMENOV1RoTHAzREVkdjl6WUg2dWFaMzk0TXNGX2lIV0I1Z3dnbFA0YXJrYnlOcFBQZjczOTNnTmpuQVF4Y2djNW5wQnRpX2dpRzlmLUh4aDRSdG1sdnZ2dHpZdDVWYXpkVDFYSGZ0WVRVVzJTQkUwTWFHNzVLUVlnbDhJX0RCdlRReE12WmFwMHdZSENac1RaU1FGV3dkdXNBSWxPWk5weWVXTDdXTk5YaFBYSzg3c2pkUk93bmhVTlNQU3dkSDgzbE1lcWdSSFFaNWY?oc=5"
+        }
+      ]
+    },
+    {
       "id": "064c603ebbaf",
       "title": "Expedição aos cânions submarinos de mar argentino confirma descoberta de 57 novas espécies - O GLOBO",
       "published": "2026-10-02T07:00:02+00:00",
@@ -213,7 +261,7 @@
       "id": "5d35333bb0bd",
       "title": "Sociedades médicas pedem à Anvisa proibição total de implantes hormonais manipulados no Brasil - G1",
       "published": "2026-10-01T18:24:14+00:00",
-      "summary": "Sociedades médicas pedem à Anvisa proibição total de implantes hormonais manipulados no Brasil&nbsp;&nbsp;G1Entidades médicas pedem à Anvisa proibição de chips da beleza&nbsp;&nbsp;Folha de S.PauloConfira os destaques do Jornal A Tribuna deste sábado&nbsp;&nbsp;Tribuna Online‘Chip da beleza’: entidades médicas pedem proibição de implantes hormonais manipulados no Brasil&nbsp;&nbsp;Estadão12 entidades médicas nacionais e internacionais cobram proibição de implantes hormonais manipulados no Brasil",
+      "summary": "Sociedades médicas pedem à Anvisa proibição total de implantes hormonais manipulados no Brasil&nbsp;&nbsp;G1Entidades médicas pedem à Anvisa proibição de chips da beleza&nbsp;&nbsp;Folha de S.PauloConfira os destaques do Jornal A Tribuna deste sábado&nbsp;&nbsp;tribunaonline.com.br‘Chip da beleza’: entidades médicas pedem proibição de implantes hormonais manipulados no Brasil&nbsp;&nbsp;Estadão12 entidades médicas nacionais e internacionais cobram proibição de implantes hormonais manipulados no ",
       "sources": [
         {
           "name": "G1",
@@ -234,10 +282,22 @@
       ]
     },
     {
+      "id": "d952e44c03b0",
+      "title": "Gordura no fígado não vem apenas da gordura que você come - Jornal da USP",
+      "published": "2026-10-01T12:11:30+00:00",
+      "summary": "Gordura no fígado não vem apenas da gordura que você come&nbsp;&nbsp;Jornal da USPGordura no fígado: entenda a relação com diabetes, colesterol e saúde cardiovascular&nbsp;&nbsp;R7Excesso de açúcar favorece gordura no fígado, aponta especialista da USP&nbsp;&nbsp;RevideAlimentos prejudiciais para a saúde do fígado: 5 que devem ser evitados&nbsp;&nbsp;Notícias ao MinutoNutriconistas listam 5 piores alimentos para saúde do fígado&nbsp;&nbsp;TV Guararapes",
+      "sources": [
+        {
+          "name": "Jornal da USP",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUlNhelVHQWk4T0RnUGMxMGhhVndjWnlTanhFUVJJeGxGdjNoaWRQTnpiS1lYUDhRSnFfal96YkZ1d3ZOT3M4QTBGY3laUzZQRVFIZkFJNnUzMTFKY2VleFJma1ZVQVdwbHBlcTZnOW03VWxzUUZtcnlsZThxRG5rY0llTTVyUnY0TUpQTWJaeDAtS1NEUXYw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "5b9ddfb0276a",
       "title": "Boca seca, mau hálito e desgaste dos dentes: efeitos das canetas para obesidade na saúde bucal - Estadão",
       "published": "2026-10-01T08:30:00+00:00",
-      "summary": "Boca seca, mau hálito e desgaste dos dentes: efeitos das canetas para obesidade na saúde bucal&nbsp;&nbsp;EstadãoVenda online de canetas emagrecedoras explode e representa 70% das compras&nbsp;&nbsp;CNN BrasilQueda de cabelo após emagrecer? Saiba o motivo&nbsp;&nbsp;TerraUso de canetas emagrecedoras por jovens gera alerta de pediatras&nbsp;&nbsp;Veja SaúdeGrupo Boticário anuncia primeira pesquisa brasileira sobre impacto das canetas emagrecedoras na pele e nos cabelos&nbsp;&nbsp;Globo",
+      "summary": "Boca seca, mau hálito e desgaste dos dentes: efeitos das canetas para obesidade na saúde bucal&nbsp;&nbsp;EstadãoQueda de cabelo após emagrecer? Saiba o motivo&nbsp;&nbsp;TerraVenda online de canetas emagrecedoras explode e representa 70% das compras&nbsp;&nbsp;CNN BrasilUso de canetas emagrecedoras por jovens gera alerta de pediatras&nbsp;&nbsp;saude.abril.com.brO que acontece quando você para de usar a caneta emagrecedora?&nbsp;&nbsp;Guia da Farmácia",
       "sources": [
         {
           "name": "Estadão",
@@ -249,11 +309,35 @@
       "id": "5e0de0c877fb",
       "title": "Controle a glicemia antes do café da manhã: 3 hábitos simples para inserir na rotina - GZH",
       "published": "2026-09-30T20:01:31+00:00",
-      "summary": "Controle a glicemia antes do café da manhã: 3 hábitos simples para inserir na rotina&nbsp;&nbsp;GZHComo caminhar pode ajudar a reduzir o risco de diabetes?&nbsp;&nbsp;Vietnam.vnControle da glicemia: Alimento comum ajuda a evitar picos de glicose e aumenta a energia&nbsp;&nbsp;gmconline.com.brDois hábitos que podem reduzir o risco de diabetes 2 em 70%, segundo estudo&nbsp;&nbsp;VEJAAntes do café da manhã, 3 hábitos simples podem ajudar no controle da glicose ao longo do dia&nbsp;&nbsp;Tribuna de ",
+      "summary": "Controle a glicemia antes do café da manhã: 3 hábitos simples para inserir na rotina&nbsp;&nbsp;GZHExercício e dieta equilibrada ajudam a controlar glicemia&nbsp;&nbsp;G1Antes do café da manhã, 3 hábitos simples podem ajudar no controle da glicose ao longo do dia&nbsp;&nbsp;Tribuna de JundiaíControle da glicemia: Alimento comum ajuda a evitar picos de glicose e aumenta a energia&nbsp;&nbsp;gmconline.com.brDiabetes tipo 2: 3 hábitos simples que ajudam no controle da glicemia ao longo do dia&nbsp;",
       "sources": [
         {
           "name": "GZH",
           "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxObEhTbTZVTkJZMld3aVRmcWwtRUZwR1RRTmM2eGNodE9xT2ZfeF91NzhrdmM5NjVhS0YwaDRMY01SaXlWd1BMSmo5WXFzUlJoNTRJcjdSSjd5T2VfYzBwNlgyel91U1NUMDJlTDVFbkJtalNvUDI4Qkg2VmhEcU1Tbk96X3FyOXV3RzZzUWx5VmhocmZRbkJfOEFLTG5ReWlJV0FhdFJlejdNZmZlbkRmVW42czRiazNCVHFBR2NTeWNFTE1HYzc2R3ExbGgzWVY1NXJOWXlaMnlfRWhPZGlibThwalVhUGhkWjdJVUpyVVlIbUc4aEJNUGg5eVg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6252a9fbea99",
+      "title": "Infarto silencioso: veja quais são os sinais, riscos e como identificar - drauziovarella.uol.com.br",
+      "published": "2026-09-30T19:00:10+00:00",
+      "summary": "Infarto silencioso: veja quais são os sinais, riscos e como identificar&nbsp;&nbsp;drauziovarella.uol.com.brEnfarte do miocárdio afeta cada vez mais jovens: “Nós estamos melhores a tratar, mas não estamos assim tão melhores a prevenir”&nbsp;&nbsp;24 NotíciasSobreviver a um enfarte é o início de um compromisso com o coração&nbsp;&nbsp;Jornal O DespertarTive um enfarte agudo do miocárdio. E agora? Não é o fim, mas o princípio&nbsp;&nbsp;Notícias ao MinutoEnfarte e AVC: “Se é súbito, novo e intenso",
+      "sources": [
+        {
+          "name": "drauziovarella.uol.com.br",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaTZEaFpiUGJHellwSlhaYWdIOUJHeUQwdFRIcjlxY0FndHN0RmZmUzVaTVhQMlQzU01PX0htTlB1djdrb25jaGw4bnJZY2tQdFNOUGpuWnJrY0lCeF80TXg3cDZtM3pMSnVtNlNEamZRb0NXdWtLaGVaNW9FZU5LTFZvSWdXWlVhT2ZycjJKb3JkT2l2djdiWjlGaDJvdXlWeFdZVUpNY3dpanF6Z0dMTlNJSURoLUpfR1I0czg3eXpoZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d5dac1d91691",
+      "title": "Bem-Estar #370 - Memória: o que é normal esquecer e o que pode ser considerado doença? - G1",
+      "published": "2026-09-30T15:06:52+00:00",
+      "summary": "Bem-Estar #370 - Memória: o que é normal esquecer e o que pode ser considerado doença?&nbsp;&nbsp;G1Sinais de alerta da doença de Alzheimer e importância da fisioterapia para idosos&nbsp;&nbsp;ParaibaOnline“Nem toda perda de memória é sinal de Alzheimer ou demência”, alerta especialista&nbsp;&nbsp;futurehealth.ccEsquecimento frequente pode ser alerta para doenças neurológicas&nbsp;&nbsp;Tribuna do NorteEsquecimento ou sinal de alerta? Saiba o que muda na memória com a idade&nbsp;&nbsp;Leouve",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQ0xPQi1WaHpXRlotRU9HZ1locWZ6M0UycXpCZTh3UzVXYlJWaVBycGN3cFNHbkdwYXhvelFoUHdNbkxvV3BJWFBwejAwX29jRWQ0M2U4eWZTOG1mRTBPbWxtY3NXaDNvRFlxT1dRY3N0QS1WUWVBSjRsRW1WcmU1R3NRbVpuZlp6ZFBkcm5OaFZ0dm8yWTZLMTI1NUlHVFZ2UGNtSjNwSnJfeVJHQmZXa2w0eEo2YXhDZFpERVZicTQ1TlpFa3U4WkZHQkh6c0xFd1Q1ZnFDdUZFOTR10gHrAUFVX3lxTE1tdmNSUTAxa1c2ajZqWmlfQ1VycjM4eHVMUjUtSVpKR0RoRHNNV21CRHJfWWxVZkVnTmdyNVNRWWpIOENJQXBGVkdmN1h1Q2V6OThjSzRvc1VKUVptRHBZU1pYSGxhUWE1cEJyS2Q0aTBQUnhiNHpJTmNnbl9SWGNHU1UxeEVCS0dIZzZoTW9Lbk1LdnlfVG9kMkVtSUVGYzFnYnlBaV91QllxUWExanQxcHg0TEdkUXpTS3M1ZGVzY25SM1JIYTZFU0ZhVDg0U3RKa0E2Vk5nT2JnM2hQejNQaW1HSnM5SGEyY2M?oc=5"
         }
       ]
     },
@@ -297,7 +381,7 @@
       "id": "2432084c8e6c",
       "title": "Anvisa investiga 13 notificações de doença que causa perda de visão associadas a canetas emagrecedoras - G1",
       "published": "2026-09-27T06:00:00+00:00",
-      "summary": "Anvisa investiga 13 notificações de doença que causa perda de visão associadas a canetas emagrecedoras&nbsp;&nbsp;G1Risco raro de perda da visão acende alerta para usuários de canetas emagrecedoras&nbsp;&nbsp;R7Anvisa investiga 13 casos de cegueira ligados ao uso de canetas emagrecedoras&nbsp;&nbsp;ICL NotíciasConselho de oftalmologia orienta usuários de canetas - 29/09/2026 - Equilíbrio e Saúde&nbsp;&nbsp;Folha de S.PauloCanetas emagrecedoras: Conselho de Oftalmologia orienta pacientes após aná",
+      "summary": "Anvisa investiga 13 notificações de doença que causa perda de visão associadas a canetas emagrecedoras&nbsp;&nbsp;G1Anvisa investiga 13 casos de doença ocular após uso de caneta emagrecedora&nbsp;&nbsp;CNN BrasilRisco raro de perda da visão acende alerta para usuários de canetas emagrecedoras&nbsp;&nbsp;R7Conselho de oftalmologia orienta usuários de canetas - 29/09/2026 - Equilíbrio e Saúde&nbsp;&nbsp;Folha de S.PauloCanetas emagrecedoras podem causar cegueira súbita? Entenda&nbsp;&nbsp;Folha PE",
       "sources": [
         {
           "name": "G1",
