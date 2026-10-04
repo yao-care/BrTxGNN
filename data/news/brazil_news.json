@@ -1,10 +1,46 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-10-03T20:43:29.786801+00:00",
-  "total_fetched": 90,
-  "unique_count": 90,
-  "health_related_count": 33,
+  "fetched_at": "2026-10-04T04:50:23.729903+00:00",
+  "total_fetched": 95,
+  "unique_count": 94,
+  "health_related_count": 30,
   "news": [
+    {
+      "id": "3d2023631895",
+      "title": "Renato Albani revela diagnóstico de paralisia de Bell; Veja vídeo - Folha Vitória",
+      "published": "2026-10-03T20:35:05+00:00",
+      "summary": "Renato Albani revela diagnóstico de paralisia de Bell; Veja vídeo&nbsp;&nbsp;Folha Vitória",
+      "sources": [
+        {
+          "name": "Folha Vitória",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeDNGam9EUnFEU1NLSmNEc2F6QkdJSmtnS1JpWi1VSGwxeDJUaEhzcnlsdVRSbE5Yd1BKZEdCck9wWVBESUxXblNDbTI2UHdXT2lTVzJFU3VNUkJmQUJYcHdiQzd5d2hKbU5UWWZmSzNNZXJvdXRXaGJwamEzRjJDV2lCR1ZOVDJKcV9LNXgxcHZ5bFBrUmdURjRWdkxLVXN4dUhBUXR0cFZpUFR2ZDhFdlBSTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "60fca42d0df3",
+      "title": "Maceió amplia vacinação contra a doença pneumocócica; veja quem pode tomar - TNH1",
+      "published": "2026-10-03T17:02:04+00:00",
+      "summary": "Maceió amplia vacinação contra a doença pneumocócica; veja quem pode tomar&nbsp;&nbsp;TNH1Macaé convoca idosos com 85 anos ou mais para vacinação contra pneumonia&nbsp;&nbsp;G1Pneumo 20 no SUS: quem pode tomar a vacina e como conseguir&nbsp;&nbsp;TerraTem 85 anos ou mais? Saiba onde se vacinar com a Pneumo-20&nbsp;&nbsp;Prefeitura de CuritibaPneumo 20: vacinação é ampliada em Santos, Praia Grande e no resto da Baixada Santista; veja locais no litoral de SP&nbsp;&nbsp;A Tribuna",
+      "sources": [
+        {
+          "name": "TNH1",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPc1hHS0RwbVozSWxqY2NlamxjbUZGQnlLaE1jSWFmWmFrNjhyYWpPUkgwMW5VeE1XLS1IUENUVUV3WlR3LUdhS0E0VkFWcDdGeUdqbTlKLUJfVmRkU0xFcTl1cnJFUnhiNVZfbE9WdjlJNU9XcTJac1hDOGg4ZlBPZERwR082OXUtMkE3blZmTUVZTkRPWE9lYVRHS3BQQzhEdXg4ZllTZXFqR1R1d2hR0gGqAUFVX3lxTE5aNVNBdWtjZWszZTNlekprdDFhUmx1N21zS1BweXAwZlJIVEozbVZtS3dGcFgwR0VnTVNVd0NWZHVGR3pkT29ycm4yelJqS1FyRlZMUjNYWUF0RDlVR2xBY0N4VXRDaHhXeDR6RDR2NTk1YmJBR3ZLLXg1ZWpJVzVMNVZ6TUxXTU1XWkE5VzlQR0FxeUVTbTdjdmNBSUR1TmNPMFJmMnV1aVJB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "44256038007d",
+      "title": "Pesquisa sobre câncer premiada com Nobel de Medicina há cem anos acabou refutada - Folha de S.Paulo",
+      "published": "2026-10-03T14:00:00+00:00",
+      "summary": "Pesquisa sobre câncer premiada com Nobel de Medicina há cem anos acabou refutada&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWllMNUc4TTZsOHRCV2ZURjlGVGlRWnFXUTltbG5JSUJyY2JaNDNZVWFFQzltMHZBUjJNWFdYUjNMbHUxRzhzZXlEN3JiWFJEbGNvRkNFUnhFQ3BRY29zdzcwTUtkUDctMC1iTTI5LUZ6MGNPYjFGRGpCSTVpRWdyZEN6TlhwZGw1Zkl1TWtSaEdQQVNZLXlSN2JLNDVFX3phaldsdlNtaHo4LWFsVHpfY29jV3Q3dXU5UlJfVnFKZ2tvMDRQR1RhWGNmTWw?oc=5"
+        }
+      ]
+    },
     {
       "id": "b6b1a6258d1c",
       "title": "Mudanças climáticas preocupam mais que perda de emprego, diz estudo - Agência Brasil",
@@ -30,14 +66,14 @@
       ]
     },
     {
-      "id": "f604a0ac9d44",
-      "title": "Coração de doador mais velho parece rejuvenescer ao ser transplantado em paciente mais jovem - Folha de S.Paulo",
-      "published": "2026-10-03T09:00:00+00:00",
-      "summary": "Coração de doador mais velho parece rejuvenescer ao ser transplantado em paciente mais jovem&nbsp;&nbsp;Folha de S.Paulo",
+      "id": "8d4079aaef78",
+      "title": "Entidades médicas pedem à Anvisa proibição de chips da beleza - ICL Notícias",
+      "published": "2026-10-03T08:00:39+00:00",
+      "summary": "Entidades médicas pedem à Anvisa proibição de chips da beleza&nbsp;&nbsp;ICL NotíciasVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPR3VwMHdOWE9qajFOdVhmSmJBUjBFRnRBcWtOODVMaHhxdXhlbnZ4YmRLUFBIUlZ4VWRSNGdFanMydXFpSXROLWtMeTVwQmtzOVFfdFpWWG1sbVBNYXlzVC16MmppWThTbWEwU3h2OUV5NDNqS0FrT28wNE1QTkk0bjhNdWtLdmF5bC1JUzZ2MVhoaWdONDd2bVpKYTg1cHNLakFabWdqQklzMW9JTmpLcW5nVDJHNWlhczlqRzFJclpSUHFldGZNTWRKUUtKUkxtTm1QZXhaLTB3dWpr?oc=5"
+          "name": "ICL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5BSEMyeWpsUnhVX2xQQXFqTlVmSHBpbEZKRkhfRzlySW5GNEpLMUlveHNzWFh0SThPaTB2Yy1FSXRFSk45TXU2dVg5RlJ0ZHhsZnI1RG15SDJFU2Z6a19FRVBzYnZnYkh5TThWdzhOZHN4U29lLWRv?oc=5"
         }
       ]
     },
@@ -45,7 +81,7 @@
       "id": "5ee0d5b44b21",
       "title": "‘A vida fica mais leve’: os benefícios da arte e cultura aos 60+ - Extra online",
       "published": "2026-10-03T07:00:00+00:00",
-      "summary": "‘A vida fica mais leve’: os benefícios da arte e cultura aos 60+&nbsp;&nbsp;Extra onlineDia do Idoso: veja dicas para manter o cérebro ativo e saudável&nbsp;&nbsp;CNN BrasilDia da Pessoa Idosa desperta atenção sobre as mudanças de comportamento no avanço da idade&nbsp;&nbsp;Guarulhos HojeSeu cérebro está preparado para envelhecer? | Veja e Cuide-se&nbsp;&nbsp;Veja SaúdeEspecialistas reforçam cuidados com o cérebro ao longo da vida&nbsp;&nbsp;Sim Notícias",
+      "summary": "‘A vida fica mais leve’: os benefícios da arte e cultura aos 60+&nbsp;&nbsp;Extra onlineDia do Idoso: veja dicas para manter o cérebro ativo e saudável&nbsp;&nbsp;CNN BrasilAtividades culturais podem retardar o envelhecimento, aponta estudo&nbsp;&nbsp;R7Pressão alta, diabetes e tabagismo na meia-idade aparecem ligados a menos anos sem demência, e cientistas explicam o que está por trás disso&nbsp;&nbsp;correiobraziliense.com.brArte e cultura ajudam idosos a manter mente ativa e ampliar vínculos&",
       "sources": [
         {
           "name": "Extra online",
@@ -90,13 +126,13 @@
       ]
     },
     {
-      "id": "a68687b2280f",
-      "title": "Animais podem ter surgido 200 milhões de anos antes do que se pensava, aponta estudo - Correio Braziliense",
+      "id": "ee9a2a417095",
+      "title": "Animais podem ter surgido 200 milhões de anos antes do que se pensava, aponta estudo - correiobraziliense.com.br",
       "published": "2026-10-02T21:57:00+00:00",
-      "summary": "Animais podem ter surgido 200 milhões de anos antes do que se pensava, aponta estudo&nbsp;&nbsp;Correio Braziliense",
+      "summary": "Animais podem ter surgido 200 milhões de anos antes do que se pensava, aponta estudo&nbsp;&nbsp;correiobraziliense.com.br",
       "sources": [
         {
-          "name": "Correio Braziliense",
+          "name": "correiobraziliense.com.br",
           "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPX0F1UF9XZ21Tb3RlaExwQ2JjazgwV0pSZjNMN3RqVEU0b1NyTndDdFdnNkNENjgzRF9jMW1NczUtSllvUjBib2Y5ZXQxdDhiazdpWTRTR3VuZVk0WkpBTVk5OWx2ZnJuWEpRX0FmdFo1MklISDJpbEdPOHp4NzBHQ0FFQlVORmNoRldjYlVwWTgwRGdpUWVSWGJtRmpXc1JKWjhIRnh5OUtWbEhVTzI3U2E4OGhDQWRvYU0tT05feGtfeWY3WTZjazh2V3NrZmNRVW5JRWQ4SXlCcmgzQTNyYjhsLUd3YnJhdUs5SWZoONIB9AFBVV95cUxNNzlGLUlTSFNpdllKeU1qNV85T2FKTjZiTXFzSGpZUDV3ZG5ZNGliYjFRQjZUQktLWWJRMnpJQ1ZWTXJjWWlEMVdJNzJJRGdlRmFyQUhaSU01ZzJSUzEzYWdfdFV5Z0dnUjNlMmd2WlROSlRLWU9IWTN0LURoaktmM0l6dlB5cUphVEpJVTNUT0pzV01zcTNTcHJpUjhfOEtWLWtET3AzdHF1X0J0Z2g3TmM0RFNmN0xDQVFHVFk2ZjlLMHNlYWNrZnpnOF9Rd3pmeFhyelNMcVlhVG8zWHU2TDk5OFpUZHR6X3c5eGtoNkJycWVR?oc=5"
         }
       ]
@@ -138,18 +174,6 @@
       ]
     },
     {
-      "id": "0371f1d21860",
-      "title": "Cientistas encontram 150 mil toneladas de resíduos químicos escondidas no fundo do oceano e descoberta revela um problema ambiental gigantesco - Super Rádio Tupi",
-      "published": "2026-10-02T19:51:01+00:00",
-      "summary": "Cientistas encontram 150 mil toneladas de resíduos químicos escondidas no fundo do oceano e descoberta revela um problema ambiental gigantesco&nbsp;&nbsp;Super Rádio Tupi",
-      "sources": [
-        {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNalhRSklud3ZuQTItZ0N3Y2lVVC0tZ2RwTjgzbmR0SW1fYWN4eXVKSnRYZzh5cTNoYlV1dnNJRVVhZkRVQjlGX2FYS2RGSFNNSFJFNFBRYzNReFRRRFp2Y3ktUXBGcGZQUmV6Q0lZZTh1bEM1TWdWUVphakxiSEJ4MWt2NmxKZm9Zd0cxTmd2UFUxTEZnWnVmS3dCaGhHOEgzTEIwNmxvOVlVMndJQldLMUY1bmdNVzhuT1E5S2tvQXNZTnp0M0laVHlmMGRBOTJYYTNtZUo1Z0sxRVFNck5EOHhZdG5NUXhjd1dPdDVETGZSOC14VzhvNHNUZVhvZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f66293b4469c",
       "title": "Testosterona baixa: quando é sinal de problema de saúde? - Portal Drauzio Varella",
       "published": "2026-10-02T18:06:09+00:00",
@@ -162,13 +186,13 @@
       ]
     },
     {
-      "id": "08694a7ea7eb",
-      "title": "Doença rara: conheça a capixaba com a mesma condição de Lito Sousa - agazeta.com.br",
+      "id": "8094fc931214",
+      "title": "Doença rara: conheça a capixaba com a mesma condição de Lito Sousa - A Gazeta",
       "published": "2026-10-02T17:46:00+00:00",
-      "summary": "Doença rara: conheça a capixaba com a mesma condição de Lito Sousa&nbsp;&nbsp;agazeta.com.brVeja mais manchetes e perspectivas no Google Notícias",
+      "summary": "Doença rara: conheça a capixaba com a mesma condição de Lito Sousa&nbsp;&nbsp;A GazetaVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
-          "name": "agazeta.com.br",
+          "name": "A Gazeta",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT3NHZGllQkhxZnhzaVg1UlE5S0pUeWFpUnlPSUFrWUxfblZBdHlSdlFGMVdJMmhQVmJxakx5dXhYeUtKWmxiS0VkZjFEeW9INGx3UTdRZWFoTlpGNlByRGNyWXc2NkFhTm5yVVlPb0ZJR016a3RNdVJVQmZ4amNSTG93V21EMG1YaWptZ1FPUjJ1bkZUck1DZ3BQTGhpVVNKaG9uN0VZaUVDdw?oc=5"
         }
       ]
@@ -186,46 +210,10 @@
       ]
     },
     {
-      "id": "bb11c03e52f3",
-      "title": "Homem sofre infarto aos 46 anos e alerta para sintomas incomuns - Metrópoles",
-      "published": "2026-10-02T14:26:00+00:00",
-      "summary": "Homem sofre infarto aos 46 anos e alerta para sintomas incomuns&nbsp;&nbsp;Metrópoles",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ2N3aTMzSVFGZmN1WkNXY1l1T05hdkFUal9xZUdSdFVpN1hkNll2cWhjMHVJZGhhQlQzcFNnSVRhTEFBRXhIcXZwcXo0dTBCaW0xbE1JS3BHVFlzdHMzbVQyRGtKRUszVk01QWF5TVJFVTh6eERUNFZpRnNURHgwcEdncmFoVDNRUzFyb3dWTFEyNFNlalY0WGJfXzU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "73307ee2d4e2",
-      "title": "JCNET: Bauru amplia Pneumo 20 para pessoas com 85 anos ou mais - sampi.net.br",
-      "published": "2026-10-02T14:03:23+00:00",
-      "summary": "JCNET: Bauru amplia Pneumo 20 para pessoas com 85 anos ou mais&nbsp;&nbsp;sampi.net.brMacaé convoca idosos com 85 anos ou mais para vacinação contra pneumonia&nbsp;&nbsp;G1Pneumo 20 no SUS: quem pode tomar a vacina e como conseguir&nbsp;&nbsp;TerraTem 85 anos ou mais? Saiba onde se vacinar com a Pneumo-20&nbsp;&nbsp;curitiba.pr.gov.brPneumo 20: vacinação é ampliada em Santos, Praia Grande e no resto da Baixada Santista; veja locais no litoral de SP&nbsp;&nbsp;A Tribuna",
-      "sources": [
-        {
-          "name": "sampi.net.br",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWTVJQ1VXTk54ZkZsTzNqM19ycl92YUtrT0gxcXUzZEZ3TlFCNm1PNmUzYkgteEFIcEdKazRqVHEtM0oxOFRmbVF5VHhOSS1MeUpNNVVJMjN1Ym14cFhlZlVnQ3FrbXZNQm1TUWtSWVJlRVBxdERZV0hFY2VLMVZfd2dYVDVCeVF1NXNhSmRUcl95SmFWeFNGRmFkODhBbHBZQ0NCeGVOZWhnY3NndzA4YkRvYXBSUS1seFR5LWF2VQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "21c6498128a3",
-      "title": "Equipes assistenciais da Santa Casa de Assis participam de treinamento sobre oxigenoterapia - Assiscity",
-      "published": "2026-10-02T14:02:54+00:00",
-      "summary": "Equipes assistenciais da Santa Casa de Assis participam de treinamento sobre oxigenoterapia&nbsp;&nbsp;Assiscity",
-      "sources": [
-        {
-          "name": "Assiscity",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNWlKMF9LSk1DMGdIbS0zSFF1UlpwSlhnZVBCTkd1N0ZFN2pIZXBKVlRKSzZQd1UyMmpNWTNJNDAxNEY2OGpSVjl2Y0d6MC1tVTlDLUJDY3ptalF0Yk9sZ3dkMU1pXzV5VlpOLWdXWmJSTGVvTzRXUDZvemRFVVcyUTZ3TkJISHJFeTRjREVoazdBMlpRSHN2TVgwSHRmbFhMQjZDNUFjUTFtVzI0VjFlcTlXRzZaZlVQZ1E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ad991ac9292b",
       "title": "AVC: Bahia registra mais de 74 mil internações em cinco anos; veja os sinais de alerta - Jornal Correio",
       "published": "2026-10-02T13:00:29+00:00",
-      "summary": "AVC: Bahia registra mais de 74 mil internações em cinco anos; veja os sinais de alerta&nbsp;&nbsp;Jornal CorreioAVC em jovens: neurologista alerta para fatores de risco e sinais que não devem ser ignorados&nbsp;&nbsp;jornalopcao.com.brSinais de AVC: como reconhecer em poucos segundos usando o teste SAMU&nbsp;&nbsp;Brasil 247AVC em jovens: entenda por que casos podem acontecer mesmo antes dos 45 anos&nbsp;&nbsp;O PopularPropõe-se que pessoas com mais de 40 anos sejam submetidas a exames de rastre",
+      "summary": "AVC: Bahia registra mais de 74 mil internações em cinco anos; veja os sinais de alerta&nbsp;&nbsp;Jornal CorreioAVC em jovens: neurologista alerta para fatores de risco e sinais que não devem ser ignorados&nbsp;&nbsp;Jornal OpçãoSinais de AVC: como reconhecer em poucos segundos usando o teste SAMU&nbsp;&nbsp;Brasil 247AVC em jovens: entenda por que casos podem acontecer mesmo antes dos 45 anos&nbsp;&nbsp;O PopularPropõe-se que pessoas com mais de 40 anos sejam submetidas a exames de rastreio de ",
       "sources": [
         {
           "name": "Jornal Correio",
@@ -270,14 +258,14 @@
       ]
     },
     {
-      "id": "da83a0a1e05e",
-      "title": "Entenda o que é a doença de Creutzfeldt-Jakob, que matou Lito Sousa - Jovem Pan",
-      "published": "2026-10-01T21:44:01+00:00",
-      "summary": "Entenda o que é a doença de Creutzfeldt-Jakob, que matou Lito Sousa&nbsp;&nbsp;Jovem Pan",
+      "id": "cc12a6e68af7",
+      "title": "Morte de Lito Sousa: o que se sabe sobre a doença rara - Metrópoles",
+      "published": "2026-10-01T23:10:00+00:00",
+      "summary": "Morte de Lito Sousa: o que se sabe sobre a doença rara&nbsp;&nbsp;Metrópoles",
       "sources": [
         {
-          "name": "Jovem Pan",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMl82UTBjcE9zeTZ1SEFyUklFRzRjc1pNWkVEdDc2Z2hCMVNJeC1LZjVNWFMtc1F5LWZzSUFlS0dhY3BIc0ZBU01nT1diSVdXck5pQkhWSkNjUEVzQW0zT0hfVXhKUjhqMlFPTVBvUXRCY0syaEtqUi04cV9UN281Z2JXaEhzd3dZOXUtVzBXV2MtcmVxcFVWcEZSVjJ6U3M?oc=5"
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdXRiSTBOYTZKcmt4aXVGUkhwTmxKZGhBcVF5RGRtODlsSEZqcjhpTHRuOGZiY1VTcVNWZVZYY2kwOFltV1hyTmdSMjVjTjlmNFNoaUN3T0x1dm52dmY4MDJqS19zZmExQ1RkSmVpTmJIRm44YU1qdUl2RlNnV29XelE1aFVSeGJYQXJrZHY2bzRWLTYtUWtGSEQwZ2pmVE41NU9INVRB?oc=5"
         }
       ]
     },
@@ -297,35 +285,11 @@
       "id": "5b9ddfb0276a",
       "title": "Boca seca, mau hálito e desgaste dos dentes: efeitos das canetas para obesidade na saúde bucal - Estadão",
       "published": "2026-10-01T08:30:00+00:00",
-      "summary": "Boca seca, mau hálito e desgaste dos dentes: efeitos das canetas para obesidade na saúde bucal&nbsp;&nbsp;EstadãoQueda de cabelo após emagrecer? Saiba o motivo&nbsp;&nbsp;TerraVenda online de canetas emagrecedoras explode e representa 70% das compras&nbsp;&nbsp;CNN BrasilUso de canetas emagrecedoras por jovens gera alerta de pediatras&nbsp;&nbsp;Veja SaúdeO que acontece quando você para de usar a caneta emagrecedora?&nbsp;&nbsp;Guia da Farmácia",
+      "summary": "Boca seca, mau hálito e desgaste dos dentes: efeitos das canetas para obesidade na saúde bucal&nbsp;&nbsp;EstadãoCabelo Ozempic: novo estudo sugere ligação entre canetas emagrecedoras e queda de cabelo em homens&nbsp;&nbsp;Época NegóciosQueda de cabelo após emagrecer? Saiba o motivo&nbsp;&nbsp;TerraVenda online de canetas emagrecedoras explode e representa 70% das compras&nbsp;&nbsp;CNN BrasilUso de canetas emagrecedoras por jovens gera alerta de pediatras&nbsp;&nbsp;Veja Saúde",
       "sources": [
         {
           "name": "Estadão",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRDJYcXYzcVRyUHJpb2NkTy1nay1HbW9zRi1udExUTWRoeWc5d3VBbk5xWGtNanFMbDNudFpQYm1rZTJMVFdfRHJUV1dtWS16UWVxZ3BueVliajJDRXMxQ2pfQXNjR1FtX0ZpZlB2SHZ3ZjdmZVhHd1QzbG1OX3FDbkI3QnNUZGg1c2M3QjlpeVJveFEzRk1mMElkYzRudXVBU0pSa01IdjJrVVpuYTUzYW1fRWE3ek1HUUdQXzdBSG1UYUtzQ2U4Wjc0WDh0RmdWT1ZyV0NaT2UxbWFXS3c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "128ab6798bcd",
-      "title": "EUA aprovam remédio para Parkinson que age de jeito inédito no cérebro - G1",
-      "published": "2026-10-01T08:00:00+00:00",
-      "summary": "EUA aprovam remédio para Parkinson que age de jeito inédito no cérebro&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQXzdqU1pUVTNycGI2NGlXYmdRTUk1SHhmSlA0ZGVCS2Q5eWdyanh4NUFhTGY1SEhJdTA4YW04UTZIdHZuQnZ1dzhxRnR4QTZHNi1xY3NidU8ya1pTeklPdW9fQkM1WGpqRHhlZEhmbzlPdlRranY0dDhBQ2ZybjdURFpER0JLWmUycFBuVmZrblBXeVhWV2hnSWtXRXVUX0EwYXdxZ1h6MzRtTmtGd2dNYmVHSlZmS2FFeUpfbW80SdIBzgFBVV95cUxQQWVUd3NmTDJDR3B6V1lVVlFxVVowVE1BZVprbDBtSGJBMEg4SjVOQ21tVDAxdThoQ00zSFpZNUd1bEtsdmNiNjZaVnpKbDJ3blpLa1RWTHktUC1sRjdVdEFwZEFndG5STEJ2bVZyUWpSU24wWkNyVDJvWW9BX3pBdjlXTUgyS3J5WE5NZ0xpSW1KZVk1SEE5TWlCUGNHRjVQQVA0MU5GazFjWVY4ZkNkWEwtMjFDamtURFhNNEZqYW5CUU5ZRTlnTGNEREZJUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5e0de0c877fb",
-      "title": "Controle a glicemia antes do café da manhã: 3 hábitos simples para inserir na rotina - GZH",
-      "published": "2026-09-30T20:01:31+00:00",
-      "summary": "Controle a glicemia antes do café da manhã: 3 hábitos simples para inserir na rotina&nbsp;&nbsp;GZHExercício e dieta equilibrada ajudam a controlar glicemia&nbsp;&nbsp;G1Antes do café da manhã, 3 hábitos simples podem ajudar no controle da glicose ao longo do dia&nbsp;&nbsp;Tribuna de JundiaíControle da glicemia: Alimento comum ajuda a evitar picos de glicose e aumenta a energia&nbsp;&nbsp;gmconline.com.brDiabetes tipo 2: 3 hábitos simples que ajudam no controle da glicemia ao longo do dia&nbsp;",
-      "sources": [
-        {
-          "name": "GZH",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxObEhTbTZVTkJZMld3aVRmcWwtRUZwR1RRTmM2eGNodE9xT2ZfeF91NzhrdmM5NjVhS0YwaDRMY01SaXlWd1BMSmo5WXFzUlJoNTRJcjdSSjd5T2VfYzBwNlgyel91U1NUMDJlTDVFbkJtalNvUDI4Qkg2VmhEcU1Tbk96X3FyOXV3RzZzUWx5VmhocmZRbkJfOEFLTG5ReWlJV0FhdFJlejdNZmZlbkRmVW42czRiazNCVHFBR2NTeWNFTE1HYzc2R3ExbGgzWVY1NXJOWXlaMnlfRWhPZGlibThwalVhUGhkWjdJVUpyVVlIbUc4aEJNUGg5eVg?oc=5"
         }
       ]
     },
@@ -342,14 +306,14 @@
       ]
     },
     {
-      "id": "d9ef3f2b67b0",
-      "title": "Arca de Noé tinha 3 andares? Estrutura de 157 metros na Turquia intriga cientistas e pode virar a descoberta do século - CPG Click Petróleo e Gás",
-      "published": "2026-09-30T00:45:34+00:00",
-      "summary": "Arca de Noé tinha 3 andares? Estrutura de 157 metros na Turquia intriga cientistas e pode virar a descoberta do século&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "id": "d5dac1d91691",
+      "title": "Bem-Estar #370 - Memória: o que é normal esquecer e o que pode ser considerado doença? - G1",
+      "published": "2026-09-30T15:06:52+00:00",
+      "summary": "Bem-Estar #370 - Memória: o que é normal esquecer e o que pode ser considerado doença?&nbsp;&nbsp;G1Psiquiatra explica quando se preocupar com lapsos de memória&nbsp;&nbsp;G1Sinais de alerta da doença de Alzheimer e importância da fisioterapia para idosos&nbsp;&nbsp;paraibaonline.com.br“Nem toda perda de memória é sinal de Alzheimer ou demência”, alerta especialista&nbsp;&nbsp;futurehealth.ccEsquecimento ou sinal de alerta? Saiba o que muda na memória com a idade&nbsp;&nbsp;Leouve",
       "sources": [
         {
-          "name": "CPG Click Petróleo e Gás",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNYWZ2eXlac3A3eVV4UW5xSEdIX050em80bkFXWVVPdEM1YnlnOUZydUpTUEVvVGtPdnN1b0wwSlVCVnJJMWpObHhKYTJJTENkU0NOWm5Yb19NaWJkUG9senFuVGE0eXhtd3lEdnFrQ01WcEZTWDdDZnJtUThfNVAyQU5XVHF2czhBQVR5RVlzRkNpMllYYWprVzFJSHBSOXhwVHlOVjM1WUVuZmt3anVVVkNfMTNCUjk1NkcyR05oQzd2X2hFdnd0eHJESWFJRXp2TUprQkFLSkRtOFN5ZUE4X0pFeUVBejRvQWpuT3dB?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQ0xPQi1WaHpXRlotRU9HZ1locWZ6M0UycXpCZTh3UzVXYlJWaVBycGN3cFNHbkdwYXhvelFoUHdNbkxvV3BJWFBwejAwX29jRWQ0M2U4eWZTOG1mRTBPbWxtY3NXaDNvRFlxT1dRY3N0QS1WUWVBSjRsRW1WcmU1R3NRbVpuZlp6ZFBkcm5OaFZ0dm8yWTZLMTI1NUlHVFZ2UGNtSjNwSnJfeVJHQmZXa2w0eEo2YXhDZFpERVZicTQ1TlpFa3U4WkZHQkh6c0xFd1Q1ZnFDdUZFOTR10gHrAUFVX3lxTE1tdmNSUTAxa1c2ajZqWmlfQ1VycjM4eHVMUjUtSVpKR0RoRHNNV21CRHJfWWxVZkVnTmdyNVNRWWpIOENJQXBGVkdmN1h1Q2V6OThjSzRvc1VKUVptRHBZU1pYSGxhUWE1cEJyS2Q0aTBQUnhiNHpJTmNnbl9SWGNHU1UxeEVCS0dIZzZoTW9Lbk1LdnlfVG9kMkVtSUVGYzFnYnlBaV91QllxUWExanQxcHg0TEdkUXpTS3M1ZGVzY25SM1JIYTZFU0ZhVDg0U3RKa0E2Vk5nT2JnM2hQejNQaW1HSnM5SGEyY2M?oc=5"
         }
       ]
     },
@@ -369,7 +333,7 @@
       "id": "6ff345276eaa",
       "title": "Consumir duas fatias de frios embutidos por dia está associado a um risco 44% maior de demência - O GLOBO",
       "published": "2026-09-28T17:04:16+00:00",
-      "summary": "Consumir duas fatias de frios embutidos por dia está associado a um risco 44% maior de demência&nbsp;&nbsp;O GLOBODuas fatias de frios por dia podem elevar em 52% o risco de demência, aponta estudo&nbsp;&nbsp;jornalopcao.com.brConsumo diário de cerca de duas fatias de frios está associado a risco 44% maior de demência, aponta estudo&nbsp;&nbsp;Lavras24Horas",
+      "summary": "Consumir duas fatias de frios embutidos por dia está associado a um risco 44% maior de demência&nbsp;&nbsp;O GLOBODuas fatias de frios por dia podem elevar em 52% o risco de demência, aponta estudo&nbsp;&nbsp;Jornal OpçãoConsumo diário de cerca de duas fatias de frios está associado a risco 44% maior de demência, aponta estudo&nbsp;&nbsp;Lavras24Horas",
       "sources": [
         {
           "name": "O GLOBO",
