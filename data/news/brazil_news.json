@@ -1,10 +1,22 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-10-04T16:37:06.981135+00:00",
-  "total_fetched": 92,
-  "unique_count": 91,
+  "fetched_at": "2026-10-04T20:58:58.043970+00:00",
+  "total_fetched": 90,
+  "unique_count": 89,
   "health_related_count": 31,
   "news": [
+    {
+      "id": "9dda1dbac091",
+      "title": "Pesquisadora morre após suspeita de infecção por peste em laboratório russo - UOL Notícias",
+      "published": "2026-10-04T16:50:39+00:00",
+      "summary": "Pesquisadora morre após suspeita de infecção por peste em laboratório russo&nbsp;&nbsp;UOL NotíciasRegião da Rússia adota quarentena do tempo da Covid-19 após mulher morrer de peste bubônica&nbsp;&nbsp;Extra onlinePesquisadora morre após possível vazamento em laboratório russo&nbsp;&nbsp;CNN BrasilPeste volta à Sibéria? Rússia em pânico após morte de técnica de instituto antipeste&nbsp;&nbsp;Euronews.comSuspeita de peste negra coloca quase duzentas pessoas sob quarentena na Rússia&nbsp;&nbsp;R7",
+      "sources": [
+        {
+          "name": "UOL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWjJFZEE0YXFDWGRkNmtPZ2hIcHRMUVRqWEhUdWVBNU03di1fSVVkbC0xaDkyM1VVdHladGdjdEQzTURfRWhMeklfQXRFc2pSYXFWaDk4Wk1QNEkxMFJCMlplMktfTnp2MjY1ODBZZG9NczVIajBZYkJUaDYtV3l2MFN3WEpPZ21ZLXdVd1RMYnVNeGRacVpuY0Vwdmo5cVZ3MElsbUpNV1d2cS1YYzNuSnh1ZURXNmx6ZUFpUU5BSWJjVG5yblhINEpESWZMbDJzWGF6NXg4SQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "3cc0d6e0458e",
       "title": "Novo estudo reaviva uma hipótese fascinante sobre complexo funerário de Tutancâmon - VEJA",
@@ -81,7 +93,7 @@
       "id": "60fca42d0df3",
       "title": "Maceió amplia vacinação contra a doença pneumocócica; veja quem pode tomar - TNH1",
       "published": "2026-10-03T17:02:04+00:00",
-      "summary": "Maceió amplia vacinação contra a doença pneumocócica; veja quem pode tomar&nbsp;&nbsp;TNH1Macaé convoca idosos com 85 anos ou mais para vacinação contra pneumonia&nbsp;&nbsp;G1Pneumo 20: vacinação é ampliada em Santos, Praia Grande e no resto da Baixada Santista; veja locais no litoral de SP&nbsp;&nbsp;A TribunaPneumo 20 no SUS: quem pode tomar a vacina e como conseguir&nbsp;&nbsp;TerraCM disponibiliza vacina Pneumo 20 para pessoas com 85 anos ou mais&nbsp;&nbsp;Tásabendo",
+      "summary": "Maceió amplia vacinação contra a doença pneumocócica; veja quem pode tomar&nbsp;&nbsp;TNH1CM disponibiliza vacina Pneumo 20 para pessoas com 85 anos ou mais&nbsp;&nbsp;TásabendoMacaé convoca idosos com 85 anos ou mais para vacinação contra pneumonia&nbsp;&nbsp;G1Pneumo 20: vacinação é ampliada em Santos, Praia Grande e no resto da Baixada Santista; veja locais no litoral de SP&nbsp;&nbsp;A TribunaPneumo 20 no SUS: quem pode tomar a vacina e como conseguir&nbsp;&nbsp;Terra",
       "sources": [
         {
           "name": "TNH1",
@@ -102,18 +114,6 @@
       ]
     },
     {
-      "id": "2c0cd1c57b66",
-      "title": "'Chorei querendo comer': o efeito silencioso das canetas emagrecedoras - UOL",
-      "published": "2026-10-03T12:30:00+00:00",
-      "summary": "'Chorei querendo comer': o efeito silencioso das canetas emagrecedoras&nbsp;&nbsp;UOLBoca seca, mau hálito e desgaste dos dentes: efeitos das canetas para obesidade na saúde bucal&nbsp;&nbsp;EstadãoCabelo Ozempic: novo estudo sugere ligação entre canetas emagrecedoras e queda de cabelo em homens&nbsp;&nbsp;Época NegóciosVenda online de canetas emagrecedoras explode e representa 70% das compras&nbsp;&nbsp;CNN BrasilQueda de cabelo após emagrecer? Saiba o motivo&nbsp;&nbsp;Terra",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdTNlTFVyQjc1UW5tYm9VV05QMzAycUZ2UWZQcVNFM1MxUE1IdnJmaTd0blROSHA5NVpad2NTTHAzRjZUZDVGNTRKT2JyNi10dmEtdmlUMHFPRTlzLVJtOG43SlA4ZnBqbzZwdE1QNFppZ2Nhd1Bqc3J3ZDA2Y1lnb0E2aXF4aXN6bnpBXzlYblctaTFnbHM4WGVFVWRscEtnanprVFlIM1U4MGhkdGR4LTdlRFBqRzhXVzY1aFBpR1BJdlpyNVE2MjBNQWhFQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b6b1a6258d1c",
       "title": "Mudanças climáticas preocupam mais que perda de emprego, diz estudo - Agência Brasil",
       "published": "2026-10-03T11:19:00+00:00",
@@ -126,26 +126,26 @@
       ]
     },
     {
-      "id": "de5cefd6afa2",
-      "title": "Menos de 2 horas de musculação por semana podem fazer diferença na longevidade; entenda - Jornal Correio",
-      "published": "2026-10-03T10:05:00+00:00",
-      "summary": "Menos de 2 horas de musculação por semana podem fazer diferença na longevidade; entenda&nbsp;&nbsp;Jornal CorreioEnvelhecimento saudável: musculação ajuda a evitar perda de massa muscular&nbsp;&nbsp;G1Treino de força uma vez por semana já traz ganhos na terceira idade&nbsp;&nbsp;CartaCapital5 hábitos para preservar músculos e manter a autonomia ao envelhecer&nbsp;&nbsp;Folha VitóriaEstudo aponta perda de 15% da força muscular como sinal de alerta para declínio da mobilidade na velhice&nbsp;&nbsp",
-      "sources": [
-        {
-          "name": "Jornal Correio",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQnRrRXJ5V3JyMmpRYVN5VnY2LVlZdmhfMDR0aG9IcG1nYXpNZ01rUW5ZU0tFejZpc2x5U3ozUVJwSDFqMUdSOUp6eVFzT2llS0JPcHJnQjNMVmhhVmR3ZklMTlhDNjNDRW9MQ3A0OU1Rak55LVozM1l5VzluR2tMN25rU3M1ME5VeE9pN29KUndkWFVlcUlzX0xRVmo1SWNhVTF4UmdSUGNHU0VTOHdBSHI3T1hnSHl1aGk2a2hieTFPSDQtaEd5cV9GMA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f604a0ac9d44",
       "title": "Coração de doador mais velho parece rejuvenescer ao ser transplantado em paciente mais jovem - Folha de S.Paulo",
       "published": "2026-10-03T09:00:00+00:00",
-      "summary": "Coração de doador mais velho parece rejuvenescer ao ser transplantado em paciente mais jovem&nbsp;&nbsp;Folha de S.PauloVeja mais manchetes e perspectivas no Google Notícias",
+      "summary": "Coração de doador mais velho parece rejuvenescer ao ser transplantado em paciente mais jovem&nbsp;&nbsp;Folha de S.Paulo",
       "sources": [
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPR3VwMHdOWE9qajFOdVhmSmJBUjBFRnRBcWtOODVMaHhxdXhlbnZ4YmRLUFBIUlZ4VWRSNGdFanMydXFpSXROLWtMeTVwQmtzOVFfdFpWWG1sbVBNYXlzVC16MmppWThTbWEwU3h2OUV5NDNqS0FrT28wNE1QTkk0bjhNdWtLdmF5bC1JUzZ2MVhoaWdONDd2bVpKYTg1cHNLakFabWdqQklzMW9JTmpLcW5nVDJHNWlhczlqRzFJclpSUHFldGZNTWRKUUtKUkxtTm1QZXhaLTB3dWpr?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "875918214459",
+      "title": "Pesquisas da Universidade de Washington indicam que as fezes das baleias contêm quantidades significativas de ferro, que podem ter ajudado a fertilizar os oceanos na antiguidade - Revista Oeste",
+      "published": "2026-10-03T08:05:00+00:00",
+      "summary": "Pesquisas da Universidade de Washington indicam que as fezes das baleias contêm quantidades significativas de ferro, que podem ter ajudado a fertilizar os oceanos na antiguidade&nbsp;&nbsp;Revista Oeste",
+      "sources": [
+        {
+          "name": "Revista Oeste",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQS09aa0JjWWN4Nl9YRWVITUcyM01YRGVHM0pSOGtjMkJnYzBha0RUMHV6UG5sN01IbENJbkFXM094VVY3ZEFFS1o4akotLXZidVo0NTE3Q3FNZlhyYlRlNXlMQk03TTNiMHl5Z3pUU1JaNlZxWTNyX2lKSWttMGtUY3dsaDZSbjh1UHBaSFpqbHRoV3ZRMUUtbFRPbEMyakMwclZxSjJONHNiMkxreVdqYVE5TDJ2aGg3UUc5ancwSWtBSk1xMTN5enFRVm1GUEJFUjhURVBtWXpvbjNwN3NhbTlnT0d5bzJUekxiRnI2dnhPQl9KbmY5VFhJTUpLb0dLWm1FNlZuTHNzZC16bmVwcm5NaW1BUmtZUUN1Szh6TkJVVUtpODRpVW1iRkMyTVJudV82TzNtMEJQdTVpX001TnU2UHV2TVE?oc=5"
         }
       ]
     },
@@ -165,7 +165,7 @@
       "id": "5ee0d5b44b21",
       "title": "‘A vida fica mais leve’: os benefícios da arte e cultura aos 60+ - Extra online",
       "published": "2026-10-03T07:00:00+00:00",
-      "summary": "‘A vida fica mais leve’: os benefícios da arte e cultura aos 60+&nbsp;&nbsp;Extra onlineAtividades culturais podem retardar o envelhecimento, aponta estudo&nbsp;&nbsp;record.r7.comDia do Idoso: veja dicas para manter o cérebro ativo e saudável&nbsp;&nbsp;CNN BrasilEnvelhecimento pode melhorar algumas habilidades da memória, dizem especialistas&nbsp;&nbsp;A TribunaArte e cultura ajudam idosos a manter mente ativa e ampliar vínculos&nbsp;&nbsp;Diário do Centro do Mundo",
+      "summary": "‘A vida fica mais leve’: os benefícios da arte e cultura aos 60+&nbsp;&nbsp;Extra onlineAtividades culturais podem retardar o envelhecimento, aponta estudo&nbsp;&nbsp;R7Dia do Idoso: veja dicas para manter o cérebro ativo e saudável&nbsp;&nbsp;CNN BrasilEnvelhecimento pode melhorar algumas habilidades da memória, dizem especialistas&nbsp;&nbsp;A TribunaArte e cultura ajudam idosos a manter mente ativa e ampliar vínculos&nbsp;&nbsp;diariodocentrodomundo.com.br",
       "sources": [
         {
           "name": "Extra online",
@@ -210,18 +210,6 @@
       ]
     },
     {
-      "id": "27549d7be34c",
-      "title": "Esquecimento e queda de moto levaram paciente do ES a descobrir mesma doença rara de Lito Sousa - G1",
-      "published": "2026-10-02T21:10:46+00:00",
-      "summary": "Esquecimento e queda de moto levaram paciente do ES a descobrir mesma doença rara de Lito Sousa&nbsp;&nbsp;G1Veja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQREhnRk1kYzhrT2w1dnpxRkVrMUw2OGdQU1Y3akpURF9DTE11dFZJUVZhb2MyTVZwcURBMGluWFdZSVZuRDdIenE4SGltQjU1M04tR2Z0eFNKd00wQjAxRTZzZjZtYWpUbDkzcVc5YWEtUld1STV5UjF6VVRnbWR0ZnlyZTA1Tjl5TC0xNTBjZ3dHZGdtczlUc1pjMTMycEtEdTRLY1o4YVVxQVJQTzlYSTZCcndWVVRWaG4tQ0E1ME4wTy1LUUtnY0wwUlYxYnltLWEwOFgyVkV3TldZRGFyT1ZjLWRwUzRxOXFRd204YnTSAf8BQVVfeXFMT0p4eUdKbHJ6dUM1OWlxa29SbnJuSzZuR3JIY282b055bTFKamIzakpyV3ZmNXNob3JwMms3UFZpd3Rxd0ZydERKbkk2WklUOC1fWEpTZUlQT2ZfQ0RQTUh0ZHVVb0k5aWtpejNvM0JkWG1EOVAwYm5TMDQtaWdlcGZmNG9ZdG1NZGdIUDJ4NnhySThoQ1l0MDJWRVM3RF9acl9jSFlPQWtQQTFkRUhSd09OTEVzaUZPVjlNVU9OU21wWkdCSzFvODhUN3FfbkstZHlCWUE3NkZiLTRCS0w5Qzh0X2NSa1NocV9YQkQtRVgxQW5OR3BDX1Z6WE1hVGVz?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7963e579b9c0",
       "title": "Mortes: Dedicou mais de 30 anos às pesquisas de genética na USP - Folha de S.Paulo",
       "published": "2026-10-02T20:21:00+00:00",
@@ -246,18 +234,6 @@
       ]
     },
     {
-      "id": "11b303ffc484",
-      "title": "Previsão de Riscos Geo-Hidrológicos para os dias 03/10 e 04/10/2026 - www.gov.br",
-      "published": "2026-10-02T20:01:16+00:00",
-      "summary": "Previsão de Riscos Geo-Hidrológicos para os dias 03/10 e 04/10/2026&nbsp;&nbsp;www.gov.br",
-      "sources": [
-        {
-          "name": "www.gov.br",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMnFGLWlSRVAyTF93V085UjViT3A3N0kzeXRsUF9DaHM0T2gyLWJCcE0wZUlMaUE0ZzQ3Q3J0Mm5WNmVUVnZsdkc5VWNuLWQ1V1Y3X0JaR0s0c1JIS3EwTmNqdXRKaVRNMXh3UWdybDhvT19KY21tczN6X1g3bEJmUmxSUW84emt5QlhOdm9VN3hUMUlIdkl4WlFfVXpCbVZfRXczLUJXVTQwb3Q4TXVWcE1iVEYxT0Y0dmRUSE9hNEZsYk5sclphY3hYYktPZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f66293b4469c",
       "title": "Testosterona baixa: quando é sinal de problema de saúde? - Portal Drauzio Varella",
       "published": "2026-10-02T18:06:09+00:00",
@@ -266,6 +242,30 @@
         {
           "name": "Portal Drauzio Varella",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZk1lWWp4Y3k4OVFtTTVLVzVTVGVJTDAxN09JRTFmY0FWdy1aRkhpTkc2OE5qVUJiM2JRT25EcDJQa25mUWNxYXRrcEg2RWpSdmZGVy0zOTF6QnpHZDdIUi1UZVdUSFZxS2dfVV8wUDktbWVnakFSN014OFlTZll2QkJUZnBKTEE0M0RpZFNJRXhuRHpGMVZWYXgyeDQ4MDFHeVpDMEZKVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8094fc931214",
+      "title": "Doença rara: conheça a capixaba com a mesma condição de Lito Sousa - A Gazeta",
+      "published": "2026-10-02T17:46:00+00:00",
+      "summary": "Doença rara: conheça a capixaba com a mesma condição de Lito Sousa&nbsp;&nbsp;A GazetaVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "A Gazeta",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT3NHZGllQkhxZnhzaVg1UlE5S0pUeWFpUnlPSUFrWUxfblZBdHlSdlFGMVdJMmhQVmJxakx5dXhYeUtKWmxiS0VkZjFEeW9INGx3UTdRZWFoTlpGNlByRGNyWXc2NkFhTm5yVVlPb0ZJR016a3RNdVJVQmZ4amNSTG93V21EMG1YaWptZ1FPUjJ1bkZUck1DZ3BQTGhpVVNKaG9uN0VZaUVDdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "df67bca12dd1",
+      "title": "Em vírus, cientistas descobrem o que pode vir a ser uma nova ferramenta de edição genética - Folha de S.Paulo",
+      "published": "2026-10-02T16:00:00+00:00",
+      "summary": "Em vírus, cientistas descobrem o que pode vir a ser uma nova ferramenta de edição genética&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYUUtTGlZQ0NFanJFeGpJQkwteE9RSHhZQUI1aWJ6elB0Vm5XbC01cG1HT29pSk5RTFJlSktraW52SzRYakRfbjV5eXF2YkplWGE5eldaN1BRdlJ2cEFwc056UFJZNDR6QjRTZTR3V2tRTm93Z0hRaG8tdTRocmczR2dsRWFLWTgzelpLOGxlWVJrZ1FlUkRRejdQbDdpbDdYY2pmakh2bVBVM1hhaUxzZWlRUzVucWtfU251YzQ4eF9Bb2liQzRZd19TOTQzQjNkc3doeDhnSGE?oc=5"
         }
       ]
     },
@@ -306,26 +306,26 @@
       ]
     },
     {
-      "id": "5a1feccc9684",
-      "title": "Gordura no fígado não vem apenas da gordura que você come - jornal.usp.br",
+      "id": "d952e44c03b0",
+      "title": "Gordura no fígado não vem apenas da gordura que você come - Jornal da USP",
       "published": "2026-10-01T12:11:30+00:00",
-      "summary": "Gordura no fígado não vem apenas da gordura que você come&nbsp;&nbsp;jornal.usp.brExcesso de açúcar favorece gordura no fígado, aponta especialista da USP&nbsp;&nbsp;RevideUm tipo de bebida que \"destrói o fígado\" mais rápido do que comer carne gordurosa: \"Amada por milhares\", muitos se surpreendem porque... estão tão familiarizados com ela.&nbsp;&nbsp;Vietnam.vnNutriconistas listam 5 piores alimentos para saúde do fígado&nbsp;&nbsp;TV GuararapesPouca gente sabe, mas o álcool não é o único vilão:",
+      "summary": "Gordura no fígado não vem apenas da gordura que você come&nbsp;&nbsp;Jornal da USPExcesso de açúcar favorece gordura no fígado, aponta especialista da USP&nbsp;&nbsp;revide.com.brUm tipo de bebida que \"destrói o fígado\" mais rápido do que comer carne gordurosa: \"Amada por milhares\", muitos se surpreendem porque... estão tão familiarizados com ela.&nbsp;&nbsp;Vietnam.vnNutriconistas listam 5 piores alimentos para saúde do fígado&nbsp;&nbsp;TV GuararapesPouca gente sabe, mas o álcool não é o único",
       "sources": [
         {
-          "name": "jornal.usp.br",
+          "name": "Jornal da USP",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUlNhelVHQWk4T0RnUGMxMGhhVndjWnlTanhFUVJJeGxGdjNoaWRQTnpiS1lYUDhRSnFfal96YkZ1d3ZOT3M4QTBGY3laUzZQRVFIZkFJNnUzMTFKY2VleFJma1ZVQVdwbHBlcTZnOW03VWxzUUZtcnlsZThxRG5rY0llTTVyUnY0TUpQTWJaeDAtS1NEUXYw?oc=5"
         }
       ]
     },
     {
-      "id": "128ab6798bcd",
-      "title": "EUA aprovam remédio para Parkinson que age de jeito inédito no cérebro - G1",
-      "published": "2026-10-01T08:00:00+00:00",
-      "summary": "EUA aprovam remédio para Parkinson que age de jeito inédito no cérebro&nbsp;&nbsp;G1",
+      "id": "5b9ddfb0276a",
+      "title": "Boca seca, mau hálito e desgaste dos dentes: efeitos das canetas para obesidade na saúde bucal - Estadão",
+      "published": "2026-10-01T08:30:00+00:00",
+      "summary": "Boca seca, mau hálito e desgaste dos dentes: efeitos das canetas para obesidade na saúde bucal&nbsp;&nbsp;Estadão'Chorei querendo comer': o efeito silencioso das canetas emagrecedoras&nbsp;&nbsp;uol.com.brCabelo Ozempic: novo estudo sugere ligação entre canetas emagrecedoras e queda de cabelo em homens&nbsp;&nbsp;Época NegóciosVenda online de canetas emagrecedoras explode e representa 70% das compras&nbsp;&nbsp;CNN BrasilQueda de cabelo após emagrecer? Saiba o motivo&nbsp;&nbsp;Terra",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQXzdqU1pUVTNycGI2NGlXYmdRTUk1SHhmSlA0ZGVCS2Q5eWdyanh4NUFhTGY1SEhJdTA4YW04UTZIdHZuQnZ1dzhxRnR4QTZHNi1xY3NidU8ya1pTeklPdW9fQkM1WGpqRHhlZEhmbzlPdlRranY0dDhBQ2ZybjdURFpER0JLWmUycFBuVmZrblBXeVhWV2hnSWtXRXVUX0EwYXdxZ1h6MzRtTmtGd2dNYmVHSlZmS2FFeUpfbW80SdIBzgFBVV95cUxQQWVUd3NmTDJDR3B6V1lVVlFxVVowVE1BZVprbDBtSGJBMEg4SjVOQ21tVDAxdThoQ00zSFpZNUd1bEtsdmNiNjZaVnpKbDJ3blpLa1RWTHktUC1sRjdVdEFwZEFndG5STEJ2bVZyUWpSU24wWkNyVDJvWW9BX3pBdjlXTUgyS3J5WE5NZ0xpSW1KZVk1SEE5TWlCUGNHRjVQQVA0MU5GazFjWVY4ZkNkWEwtMjFDamtURFhNNEZqYW5CUU5ZRTlnTGNEREZJUQ?oc=5"
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRDJYcXYzcVRyUHJpb2NkTy1nay1HbW9zRi1udExUTWRoeWc5d3VBbk5xWGtNanFMbDNudFpQYm1rZTJMVFdfRHJUV1dtWS16UWVxZ3BueVliajJDRXMxQ2pfQXNjR1FtX0ZpZlB2SHZ3ZjdmZVhHd1QzbG1OX3FDbkI3QnNUZGg1c2M3QjlpeVJveFEzRk1mMElkYzRudXVBU0pSa01IdjJrVVpuYTUzYW1fRWE3ek1HUUdQXzdBSG1UYUtzQ2U4Wjc0WDh0RmdWT1ZyV0NaT2UxbWFXS3c?oc=5"
         }
       ]
     },
@@ -333,11 +333,23 @@
       "id": "c0fc34120b0d",
       "title": "Infarto silencioso: veja quais são os sinais, riscos e como identificar - Portal Drauzio Varella",
       "published": "2026-09-30T19:00:10+00:00",
-      "summary": "Infarto silencioso: veja quais são os sinais, riscos e como identificar&nbsp;&nbsp;Portal Drauzio VarellaSuor frio, enjoo e falta de ar podem acompanhar um infarto mesmo sem dor forte no peito&nbsp;&nbsp;tuasaude.comEnfarte do miocárdio afeta cada vez mais jovens: “Nós estamos melhores a tratar, mas não estamos assim tão melhores a prevenir”&nbsp;&nbsp;24 NotíciasTive um enfarte agudo do miocárdio. E agora? Não é o fim, mas o princípio&nbsp;&nbsp;Notícias ao MinutoEnfarte e AVC: “Se é súbito, no",
+      "summary": "Infarto silencioso: veja quais são os sinais, riscos e como identificar&nbsp;&nbsp;Portal Drauzio VarellaControlar o colesterol mau e adotar ou manter hábitos saudáveis&nbsp;&nbsp;Correio da ManhãSobreviver a um enfarte é o início de um compromisso com o coração&nbsp;&nbsp;Jornal O DespertarSuor frio, enjoo e falta de ar podem acompanhar um infarto mesmo sem dor forte no peito&nbsp;&nbsp;Tua SaúdeEnfarte do miocárdio afeta cada vez mais jovens: “Nós estamos melhores a tratar, mas não estamos ass",
       "sources": [
         {
           "name": "Portal Drauzio Varella",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaTZEaFpiUGJHellwSlhaYWdIOUJHeUQwdFRIcjlxY0FndHN0RmZmUzVaTVhQMlQzU01PX0htTlB1djdrb25jaGw4bnJZY2tQdFNOUGpuWnJrY0lCeF80TXg3cDZtM3pMSnVtNlNEamZRb0NXdWtLaGVaNW9FZU5LTFZvSWdXWlVhT2ZycjJKb3JkT2l2djdiWjlGaDJvdXlWeFdZVUpNY3dpanF6Z0dMTlNJSURoLUpfR1I0czg3eXpoZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1b545f593021",
+      "title": "Mulheres humanas costumavam acasalar com homens neandertais, revela estudo - uol educacao",
+      "published": "2026-09-30T19:00:01+00:00",
+      "summary": "Mulheres humanas costumavam acasalar com homens neandertais, revela estudo&nbsp;&nbsp;uol educacao",
+      "sources": [
+        {
+          "name": "uol educacao",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQajN1SzNQREFsM3RtNEtxemFtTjVDVm5Rbmc4TnV5bDA2THZkaEFhZjg4LVpuZGx2QkQ4UUN1Vm9qWnZqNm15QWJENGt5RmkzZjR3NVJPbEljdmJ6cGN6Uno0Tko5eGhqOHpKMGE1VERyVFFlem5wQUhPdWM4czlmc250b3FMM0NZaUVaWHJ2ZVI4QWJ6OWlDc29uZkhhcnZzbkd6LWNQZzV1dXhUSkZwZUl3dmI2RHUxNGhiaUdmbTJCSGt1?oc=5"
         }
       ]
     },
@@ -362,18 +374,6 @@
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQUkFGb05feDJOMDlVenFzakROeDJqRkJBNy1ZOUVfVk44Vm9MWWRmc3czLWIyWjNxcGVzaFVWMnlGcXZaUGo4U3dxMEtzZjlhMnRlMnh1bU9EWkJBRTFzT1NfamN0OHRwMmtTNThnZnZYMWdOeU12Z1JqWUZFQk1yS21iLWJEYlJpVUt5TXlPWl9aSUFpOVJUYTNKS01JYmVkVXF4dEhEeVhOOVI0M0lzMXBLWDl5bGhTZktES09HN1lVcnhybElyT0NRb0hpRWJmNGZna2RXYlkyWC1ldW5HZDRFWC1GUDFlUE9PcWlOazBvTzQ1bVJFUHl30gGIAkFVX3lxTE11SThCbXNQM05aQTN4bE1vakVuc1VJSEczZkdvb1pJMG93M3BfWXA4bWd5bDZwRE9aUW9tdkt5LTkwZFd2WEZIaFo5OFdUT1JWb3NLM0RGUGdzalZBT25rT1NiTnJEWEZyVEkxR2ppcmdPd09QRHZha2NLVEtzWWp6QTdlN0R0Tms3ay1pZDB2ZHkwOHBFUHF2TDFSaExvbDZHQXprd2FybnF6UENpVXkzemVVTFgtV2tnZDh1T0x5TzZXVXlabFBoTmYwSDhCcU9iNFpRbmVEaldtMFByTnBieW9ieUJ2U1RDcmNHSHlLT2FjU0ZfemJiRTRsTlFGVW83QTdIR0FoSw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1f7bcc6d5488",
-      "title": "Ultraprocessados: é possível comê-los e se manter saudável? O que nutricionista diz sobre meu carrinho de compras - BBC",
-      "published": "2026-09-27T18:41:04+00:00",
-      "summary": "Ultraprocessados: é possível comê-los e se manter saudável? O que nutricionista diz sobre meu carrinho de compras&nbsp;&nbsp;BBCQuanto ultraprocessado é demais? Estudo associa consumo a maior risco de doenças&nbsp;&nbsp;Tribuna HojeAlimentos industrializados podem fazer parte do plano alimentar? Nutricionista explica como fazer escolhas mais práticas no dia a dia&nbsp;&nbsp;issoebrasil.com.brNutricionista explica como consumir ultraprocessados sem abrir mão da saúde&nbsp;&nbsp;Diário do Centro d",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5oR3kxaFh6RlRqUXNiSXJkbFVOekppUU1pcHctd3NXMmlrRWZlTldlRkxaU2dMVjkyNDlCZGY1MFJjMXF6aVE5WHZ4ZjRydVNYRjhJSnBINWc0WEpxNTI3eXZiONIBaEFVX3lxTE1hVTNGWHNHOTVhTXo3OHNkWVpfUVNTVE53VEZjak1uMHdiSVRsX2FleTByWEpfc3pCaHJhcFQtSTlPMURVc1BldThQemF6ZFJRcnVGTnd2bkQ5RlVfRHVKVmJuWGF2bFB6?oc=5"
         }
       ]
     }
