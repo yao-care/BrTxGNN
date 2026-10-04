@@ -1,18 +1,18 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-10-04T04:50:23.729903+00:00",
-  "total_fetched": 95,
-  "unique_count": 94,
-  "health_related_count": 30,
+  "fetched_at": "2026-10-04T11:55:22.267448+00:00",
+  "total_fetched": 92,
+  "unique_count": 91,
+  "health_related_count": 28,
   "news": [
     {
-      "id": "3d2023631895",
-      "title": "Renato Albani revela diagnóstico de paralisia de Bell; Veja vídeo - Folha Vitória",
+      "id": "a74058c43a6b",
+      "title": "Renato Albani revela diagnóstico de paralisia de Bell; Veja vídeo - folhavitoria.com.br",
       "published": "2026-10-03T20:35:05+00:00",
-      "summary": "Renato Albani revela diagnóstico de paralisia de Bell; Veja vídeo&nbsp;&nbsp;Folha Vitória",
+      "summary": "Renato Albani revela diagnóstico de paralisia de Bell; Veja vídeo&nbsp;&nbsp;folhavitoria.com.br",
       "sources": [
         {
-          "name": "Folha Vitória",
+          "name": "folhavitoria.com.br",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeDNGam9EUnFEU1NLSmNEc2F6QkdJSmtnS1JpWi1VSGwxeDJUaEhzcnlsdVRSbE5Yd1BKZEdCck9wWVBESUxXblNDbTI2UHdXT2lTVzJFU3VNUkJmQUJYcHdiQzd5d2hKbU5UWWZmSzNNZXJvdXRXaGJwamEzRjJDV2lCR1ZOVDJKcV9LNXgxcHZ5bFBrUmdURjRWdkxLVXN4dUhBUXR0cFZpUFR2ZDhFdlBSTQ?oc=5"
         }
       ]
@@ -21,7 +21,7 @@
       "id": "60fca42d0df3",
       "title": "Maceió amplia vacinação contra a doença pneumocócica; veja quem pode tomar - TNH1",
       "published": "2026-10-03T17:02:04+00:00",
-      "summary": "Maceió amplia vacinação contra a doença pneumocócica; veja quem pode tomar&nbsp;&nbsp;TNH1Macaé convoca idosos com 85 anos ou mais para vacinação contra pneumonia&nbsp;&nbsp;G1Pneumo 20 no SUS: quem pode tomar a vacina e como conseguir&nbsp;&nbsp;TerraTem 85 anos ou mais? Saiba onde se vacinar com a Pneumo-20&nbsp;&nbsp;Prefeitura de CuritibaPneumo 20: vacinação é ampliada em Santos, Praia Grande e no resto da Baixada Santista; veja locais no litoral de SP&nbsp;&nbsp;A Tribuna",
+      "summary": "Maceió amplia vacinação contra a doença pneumocócica; veja quem pode tomar&nbsp;&nbsp;TNH1Macaé convoca idosos com 85 anos ou mais para vacinação contra pneumonia&nbsp;&nbsp;G1Pneumo 20 no SUS: quem pode tomar a vacina e como conseguir&nbsp;&nbsp;TerraTem 85 anos ou mais? Saiba onde se vacinar com a Pneumo-20&nbsp;&nbsp;Prefeitura de CuritibaPneumo 20: vacinação é ampliada em Santos, Praia Grande e no resto da Baixada Santista; veja locais no litoral de SP&nbsp;&nbsp;atribuna.com.br",
       "sources": [
         {
           "name": "TNH1",
@@ -42,6 +42,18 @@
       ]
     },
     {
+      "id": "2c0cd1c57b66",
+      "title": "'Chorei querendo comer': o efeito silencioso das canetas emagrecedoras - UOL",
+      "published": "2026-10-03T12:30:00+00:00",
+      "summary": "'Chorei querendo comer': o efeito silencioso das canetas emagrecedoras&nbsp;&nbsp;UOLBoca seca, mau hálito e desgaste dos dentes: efeitos das canetas para obesidade na saúde bucal&nbsp;&nbsp;EstadãoCabelo Ozempic: novo estudo sugere ligação entre canetas emagrecedoras e queda de cabelo em homens&nbsp;&nbsp;Época NegóciosVenda online de canetas emagrecedoras explode e representa 70% das compras&nbsp;&nbsp;CNN BrasilQueda de cabelo após emagrecer? Saiba o motivo&nbsp;&nbsp;Terra",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdTNlTFVyQjc1UW5tYm9VV05QMzAycUZ2UWZQcVNFM1MxUE1IdnJmaTd0blROSHA5NVpad2NTTHAzRjZUZDVGNTRKT2JyNi10dmEtdmlUMHFPRTlzLVJtOG43SlA4ZnBqbzZwdE1QNFppZ2Nhd1Bqc3J3ZDA2Y1lnb0E2aXF4aXN6bnpBXzlYblctaTFnbHM4WGVFVWRscEtnanprVFlIM1U4MGhkdGR4LTdlRFBqRzhXVzY1aFBpR1BJdlpyNVE2MjBNQWhFQQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b6b1a6258d1c",
       "title": "Mudanças climáticas preocupam mais que perda de emprego, diz estudo - Agência Brasil",
       "published": "2026-10-03T11:19:00+00:00",
@@ -54,14 +66,26 @@
       ]
     },
     {
-      "id": "de5cefd6afa2",
-      "title": "Menos de 2 horas de musculação por semana podem fazer diferença na longevidade; entenda - Jornal Correio",
+      "id": "2872db7f2195",
+      "title": "Menos de 2 horas de musculação por semana podem fazer diferença na longevidade; entenda - correio24horas.com.br",
       "published": "2026-10-03T10:05:00+00:00",
-      "summary": "Menos de 2 horas de musculação por semana podem fazer diferença na longevidade; entenda&nbsp;&nbsp;Jornal CorreioEnvelhecimento saudável: musculação ajuda a evitar perda de massa muscular&nbsp;&nbsp;G1Treino de força uma vez por semana já traz ganhos na terceira idade&nbsp;&nbsp;CartaCapital5 hábitos para preservar músculos e manter a autonomia ao envelhecer&nbsp;&nbsp;Folha VitóriaEstudo aponta perda de 15% da força muscular como sinal de alerta para declínio da mobilidade na velhice&nbsp;&nbsp",
+      "summary": "Menos de 2 horas de musculação por semana podem fazer diferença na longevidade; entenda&nbsp;&nbsp;correio24horas.com.brEnvelhecimento saudável: musculação ajuda a evitar perda de massa muscular&nbsp;&nbsp;G1Treino de força uma vez por semana já traz ganhos na terceira idade&nbsp;&nbsp;CartaCapital5 hábitos para preservar músculos e manter a autonomia ao envelhecer&nbsp;&nbsp;folhavitoria.com.brEstudo aponta perda de 15% da força muscular como sinal de alerta para declínio da mobilidade na velhi",
       "sources": [
         {
-          "name": "Jornal Correio",
+          "name": "correio24horas.com.br",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQnRrRXJ5V3JyMmpRYVN5VnY2LVlZdmhfMDR0aG9IcG1nYXpNZ01rUW5ZU0tFejZpc2x5U3ozUVJwSDFqMUdSOUp6eVFzT2llS0JPcHJnQjNMVmhhVmR3ZklMTlhDNjNDRW9MQ3A0OU1Rak55LVozM1l5VzluR2tMN25rU3M1ME5VeE9pN29KUndkWFVlcUlzX0xRVmo1SWNhVTF4UmdSUGNHU0VTOHdBSHI3T1hnSHl1aGk2a2hieTFPSDQtaEd5cV9GMA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f604a0ac9d44",
+      "title": "Coração de doador mais velho parece rejuvenescer ao ser transplantado em paciente mais jovem - Folha de S.Paulo",
+      "published": "2026-10-03T09:00:00+00:00",
+      "summary": "Coração de doador mais velho parece rejuvenescer ao ser transplantado em paciente mais jovem&nbsp;&nbsp;Folha de S.PauloVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPR3VwMHdOWE9qajFOdVhmSmJBUjBFRnRBcWtOODVMaHhxdXhlbnZ4YmRLUFBIUlZ4VWRSNGdFanMydXFpSXROLWtMeTVwQmtzOVFfdFpWWG1sbVBNYXlzVC16MmppWThTbWEwU3h2OUV5NDNqS0FrT28wNE1QTkk0bjhNdWtLdmF5bC1JUzZ2MVhoaWdONDd2bVpKYTg1cHNLakFabWdqQklzMW9JTmpLcW5nVDJHNWlhczlqRzFJclpSUHFldGZNTWRKUUtKUkxtTm1QZXhaLTB3dWpr?oc=5"
         }
       ]
     },
@@ -69,7 +93,7 @@
       "id": "8d4079aaef78",
       "title": "Entidades médicas pedem à Anvisa proibição de chips da beleza - ICL Notícias",
       "published": "2026-10-03T08:00:39+00:00",
-      "summary": "Entidades médicas pedem à Anvisa proibição de chips da beleza&nbsp;&nbsp;ICL NotíciasVeja mais manchetes e perspectivas no Google Notícias",
+      "summary": "Entidades médicas pedem à Anvisa proibição de chips da beleza&nbsp;&nbsp;ICL NotíciasSociedades médicas pedem à Anvisa proibição total de implantes hormonais manipulados no Brasil&nbsp;&nbsp;G1Confira os destaques do Jornal A Tribuna deste sábado&nbsp;&nbsp;Tribuna OnlineSociedades médicas alertam para riscos de implantes hormonais manipulados&nbsp;&nbsp;JC‘Chip da beleza’: entidades médicas pedem proibição de implantes hormonais manipulados no Brasil&nbsp;&nbsp;Estadão",
       "sources": [
         {
           "name": "ICL Notícias",
@@ -81,7 +105,7 @@
       "id": "5ee0d5b44b21",
       "title": "‘A vida fica mais leve’: os benefícios da arte e cultura aos 60+ - Extra online",
       "published": "2026-10-03T07:00:00+00:00",
-      "summary": "‘A vida fica mais leve’: os benefícios da arte e cultura aos 60+&nbsp;&nbsp;Extra onlineDia do Idoso: veja dicas para manter o cérebro ativo e saudável&nbsp;&nbsp;CNN BrasilAtividades culturais podem retardar o envelhecimento, aponta estudo&nbsp;&nbsp;R7Pressão alta, diabetes e tabagismo na meia-idade aparecem ligados a menos anos sem demência, e cientistas explicam o que está por trás disso&nbsp;&nbsp;correiobraziliense.com.brArte e cultura ajudam idosos a manter mente ativa e ampliar vínculos&",
+      "summary": "‘A vida fica mais leve’: os benefícios da arte e cultura aos 60+&nbsp;&nbsp;Extra onlineAtividades culturais podem retardar o envelhecimento, aponta estudo&nbsp;&nbsp;R7Dia do Idoso: veja dicas para manter o cérebro ativo e saudável&nbsp;&nbsp;CNN BrasilEnvelhecimento pode melhorar algumas habilidades da memória, dizem especialistas&nbsp;&nbsp;atribuna.com.brArte e cultura ajudam idosos a manter mente ativa e ampliar vínculos&nbsp;&nbsp;diariodocentrodomundo.com.br",
       "sources": [
         {
           "name": "Extra online",
@@ -117,7 +141,7 @@
       "id": "831431c7ce1a",
       "title": "Surto atual de dengue na Flórida é o maior em décadas nos EUA continental - UOL Notícias",
       "published": "2026-10-03T00:34:26+00:00",
-      "summary": "Surto atual de dengue na Flórida é o maior em décadas nos EUA continental&nbsp;&nbsp;UOL NotíciasSurto de dengue na Flórida é o maior registrado nos Estados Unidos continentais nas últimas décadas&nbsp;&nbsp;EstadãoSurto de dengue na Flórida é agora o maior nos EUA continentais em décadas&nbsp;&nbsp;Saúde Mais TVDengue avança na Flórida e especialistas alertam para possível subnotificação&nbsp;&nbsp;Gazeta Brazilian NewsDengue: condados da Flórida declaram emergência após surto; 1 pessoa morreu&",
+      "summary": "Surto atual de dengue na Flórida é o maior em décadas nos EUA continental&nbsp;&nbsp;UOL NotíciasSurto de dengue na Flórida é o maior registrado nos Estados Unidos continentais nas últimas décadas&nbsp;&nbsp;EstadãoSurto de dengue na Flórida é agora o maior nos EUA continentais em décadas&nbsp;&nbsp;Saúde Mais TVDengue na Flórida: o maior surto em décadas&nbsp;&nbsp;healthnews.ptDengue avança na Flórida e especialistas alertam para possível subnotificação&nbsp;&nbsp;Gazeta Brazilian News",
       "sources": [
         {
           "name": "UOL Notícias",
@@ -126,13 +150,13 @@
       ]
     },
     {
-      "id": "ee9a2a417095",
-      "title": "Animais podem ter surgido 200 milhões de anos antes do que se pensava, aponta estudo - correiobraziliense.com.br",
+      "id": "a68687b2280f",
+      "title": "Animais podem ter surgido 200 milhões de anos antes do que se pensava, aponta estudo - Correio Braziliense",
       "published": "2026-10-02T21:57:00+00:00",
-      "summary": "Animais podem ter surgido 200 milhões de anos antes do que se pensava, aponta estudo&nbsp;&nbsp;correiobraziliense.com.br",
+      "summary": "Animais podem ter surgido 200 milhões de anos antes do que se pensava, aponta estudo&nbsp;&nbsp;Correio Braziliense",
       "sources": [
         {
-          "name": "correiobraziliense.com.br",
+          "name": "Correio Braziliense",
           "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPX0F1UF9XZ21Tb3RlaExwQ2JjazgwV0pSZjNMN3RqVEU0b1NyTndDdFdnNkNENjgzRF9jMW1NczUtSllvUjBib2Y5ZXQxdDhiazdpWTRTR3VuZVk0WkpBTVk5OWx2ZnJuWEpRX0FmdFo1MklISDJpbEdPOHp4NzBHQ0FFQlVORmNoRldjYlVwWTgwRGdpUWVSWGJtRmpXc1JKWjhIRnh5OUtWbEhVTzI3U2E4OGhDQWRvYU0tT05feGtfeWY3WTZjazh2V3NrZmNRVW5JRWQ4SXlCcmgzQTNyYjhsLUd3YnJhdUs5SWZoONIB9AFBVV95cUxNNzlGLUlTSFNpdllKeU1qNV85T2FKTjZiTXFzSGpZUDV3ZG5ZNGliYjFRQjZUQktLWWJRMnpJQ1ZWTXJjWWlEMVdJNzJJRGdlRmFyQUhaSU01ZzJSUzEzYWdfdFV5Z0dnUjNlMmd2WlROSlRLWU9IWTN0LURoaktmM0l6dlB5cUphVEpJVTNUT0pzV01zcTNTcHJpUjhfOEtWLWtET3AzdHF1X0J0Z2g3TmM0RFNmN0xDQVFHVFk2ZjlLMHNlYWNrZnpnOF9Rd3pmeFhyelNMcVlhVG8zWHU2TDk5OFpUZHR6X3c5eGtoNkJycWVR?oc=5"
         }
       ]
@@ -177,7 +201,7 @@
       "id": "f66293b4469c",
       "title": "Testosterona baixa: quando é sinal de problema de saúde? - Portal Drauzio Varella",
       "published": "2026-10-02T18:06:09+00:00",
-      "summary": "Testosterona baixa: quando é sinal de problema de saúde?&nbsp;&nbsp;Portal Drauzio VarellaSaúde emocional pode afetar a vida sexual e urinária dos homens, alerta urologista&nbsp;&nbsp;Jornal da FrancaTestosterona normal não significa que está tudo bem: entenda quando os sintomas podem exigir investigação&nbsp;&nbsp;Jornal CorreioAndropausa: Saúde masculina além da testosterona -&nbsp;&nbsp;Folha de Campo Grande -Andrologia atua no cuidado da saúde masculina&nbsp;&nbsp;Terra",
+      "summary": "Testosterona baixa: quando é sinal de problema de saúde?&nbsp;&nbsp;Portal Drauzio VarellaSaúde emocional pode afetar a vida sexual e urinária dos homens, alerta urologista&nbsp;&nbsp;Jornal da FrancaTestosterona normal não significa que está tudo bem: entenda quando os sintomas podem exigir investigação&nbsp;&nbsp;correio24horas.com.brAndropausa: Saúde masculina além da testosterona -&nbsp;&nbsp;Folha de Campo Grande -Andrologia atua no cuidado da saúde masculina&nbsp;&nbsp;Terra",
       "sources": [
         {
           "name": "Portal Drauzio Varella",
@@ -210,38 +234,14 @@
       ]
     },
     {
-      "id": "ad991ac9292b",
-      "title": "AVC: Bahia registra mais de 74 mil internações em cinco anos; veja os sinais de alerta - Jornal Correio",
+      "id": "37d992bff0d6",
+      "title": "AVC: Bahia registra mais de 74 mil internações em cinco anos; veja os sinais de alerta - correio24horas.com.br",
       "published": "2026-10-02T13:00:29+00:00",
-      "summary": "AVC: Bahia registra mais de 74 mil internações em cinco anos; veja os sinais de alerta&nbsp;&nbsp;Jornal CorreioAVC em jovens: neurologista alerta para fatores de risco e sinais que não devem ser ignorados&nbsp;&nbsp;Jornal OpçãoSinais de AVC: como reconhecer em poucos segundos usando o teste SAMU&nbsp;&nbsp;Brasil 247AVC em jovens: entenda por que casos podem acontecer mesmo antes dos 45 anos&nbsp;&nbsp;O PopularPropõe-se que pessoas com mais de 40 anos sejam submetidas a exames de rastreio de ",
+      "summary": "AVC: Bahia registra mais de 74 mil internações em cinco anos; veja os sinais de alerta&nbsp;&nbsp;correio24horas.com.brAVC em jovens: neurologista alerta para fatores de risco e sinais que não devem ser ignorados&nbsp;&nbsp;Jornal OpçãoSinais de AVC: como reconhecer em poucos segundos usando o teste SAMU&nbsp;&nbsp;Brasil 247AVC em jovens: entenda por que casos podem acontecer mesmo antes dos 45 anos&nbsp;&nbsp;O PopularPropõe-se que pessoas com mais de 40 anos sejam submetidas a exames de rastr",
       "sources": [
         {
-          "name": "Jornal Correio",
+          "name": "correio24horas.com.br",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNzlpdFdPQjdNUnNLTmVERmZpRG8wR25Ka2FiYVNJY0ZBQ3ZuSVY3V1JESmpwa2pHOUwta0pNRmJ5Wjh1MkFzTWVlZUdwbW1lQmZ0UmpUSlVNSDZwNy0yQ0ZQM2FtMmJxNldxeEY2UW5mNGNHVndmYUZqS09ZaERZUXJwWThQUWozXzhYamJsdVFPYUxkYlliREx0am5tYWdaVkRFTUNXNFNlYUFlQnc5eUt3N1AyaUJpLWl2bUU4LUlUQVZyRkJZWXdDTnRsNnFqOXdrM1hn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "47c5b8eeffb2",
-      "title": "Cientista diz que usava Claude para investigar tema de descoberta atribuída pela Anthropic à IA - Folha de S.Paulo",
-      "published": "2026-10-02T09:00:00+00:00",
-      "summary": "Cientista diz que usava Claude para investigar tema de descoberta atribuída pela Anthropic à IA&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSGVOSy1SbmE5YldscGdYLWo3TFU3aTZaN1J4dlRuMnJEVzkxU2x5ZmZ1SWNFM05jbWxxRGJ5V2ZaQ0FadWRWNGt6b0NKXzRqQ2FvU1NHTDRId21fbmRwMkNhTW1Za0lJM2FZeDRvV0RWOVU2Unk3RzBoYkYxcHJiT2NqNmtMLXdSMjZZZWdTbXpDbXBBWVhZOE1fdV9HMDUzTUpzY2JxclNjZU5YY19kSHhzRVdRU2JOUEJmaHl5cUFYS09jNmVWQ1cwcVFQM3h6NExSbnA5MXVpZzF3Y0dVSA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dac6aa402d0e",
-      "title": "Previsão de Riscos Geo-Hidrológicos para os dias 02/10, 03/10 e 04/10/2026 - www.gov.br",
-      "published": "2026-10-02T07:18:23+00:00",
-      "summary": "Previsão de Riscos Geo-Hidrológicos para os dias 02/10, 03/10 e 04/10/2026&nbsp;&nbsp;www.gov.br",
-      "sources": [
-        {
-          "name": "www.gov.br",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOGhSdDhwMENOV1RoTHAzREVkdjl6WUg2dWFaMzk0TXNGX2lIV0I1Z3dnbFA0YXJrYnlOcFBQZjczOTNnTmpuQVF4Y2djNW5wQnRpX2dpRzlmLUh4aDRSdG1sdnZ2dHpZdDVWYXpkVDFYSGZ0WVRVVzJTQkUwTWFHNzVLUVlnbDhJX0RCdlRReE12WmFwMHdZSENac1RaU1FGV3dkdXNBSWxPWk5weWVXTDdXTk5YaFBYSzg3c2pkUk93bmhVTlNQU3dkSDgzbE1lcWdSSFFaNWY?oc=5"
         }
       ]
     },
@@ -258,14 +258,14 @@
       ]
     },
     {
-      "id": "cc12a6e68af7",
-      "title": "Morte de Lito Sousa: o que se sabe sobre a doença rara - Metrópoles",
-      "published": "2026-10-01T23:10:00+00:00",
-      "summary": "Morte de Lito Sousa: o que se sabe sobre a doença rara&nbsp;&nbsp;Metrópoles",
+      "id": "da83a0a1e05e",
+      "title": "Entenda o que é a doença de Creutzfeldt-Jakob, que matou Lito Sousa - Jovem Pan",
+      "published": "2026-10-01T21:44:01+00:00",
+      "summary": "Entenda o que é a doença de Creutzfeldt-Jakob, que matou Lito Sousa&nbsp;&nbsp;Jovem Pan",
       "sources": [
         {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdXRiSTBOYTZKcmt4aXVGUkhwTmxKZGhBcVF5RGRtODlsSEZqcjhpTHRuOGZiY1VTcVNWZVZYY2kwOFltV1hyTmdSMjVjTjlmNFNoaUN3T0x1dm52dmY4MDJqS19zZmExQ1RkSmVpTmJIRm44YU1qdUl2RlNnV29XelE1aFVSeGJYQXJrZHY2bzRWLTYtUWtGSEQwZ2pmVE41NU9INVRB?oc=5"
+          "name": "Jovem Pan",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMl82UTBjcE9zeTZ1SEFyUklFRzRjc1pNWkVEdDc2Z2hCMVNJeC1LZjVNWFMtc1F5LWZzSUFlS0dhY3BIc0ZBU01nT1diSVdXck5pQkhWSkNjUEVzQW0zT0hfVXhKUjhqMlFPTVBvUXRCY0syaEtqUi04cV9UN281Z2JXaEhzd3dZOXUtVzBXV2MtcmVxcFVWcEZSVjJ6U3M?oc=5"
         }
       ]
     },
@@ -273,7 +273,7 @@
       "id": "d952e44c03b0",
       "title": "Gordura no fígado não vem apenas da gordura que você come - Jornal da USP",
       "published": "2026-10-01T12:11:30+00:00",
-      "summary": "Gordura no fígado não vem apenas da gordura que você come&nbsp;&nbsp;Jornal da USPGordura no fígado: entenda a relação com diabetes, colesterol e saúde cardiovascular&nbsp;&nbsp;R7Excesso de açúcar favorece gordura no fígado, aponta especialista da USP&nbsp;&nbsp;RevideAlimentos prejudiciais para a saúde do fígado: 5 que devem ser evitados&nbsp;&nbsp;Notícias ao MinutoNutriconistas listam 5 piores alimentos para saúde do fígado&nbsp;&nbsp;TV Guararapes",
+      "summary": "Gordura no fígado não vem apenas da gordura que você come&nbsp;&nbsp;Jornal da USPGordura no fígado: entenda a relação com diabetes, colesterol e saúde cardiovascular&nbsp;&nbsp;R7Excesso de açúcar favorece gordura no fígado, aponta especialista da USP&nbsp;&nbsp;RevideAlimentos prejudiciais para a saúde do fígado: 5 que devem ser evitados&nbsp;&nbsp;noticiasaominuto.comNutriconistas listam 5 piores alimentos para saúde do fígado&nbsp;&nbsp;TV Guararapes",
       "sources": [
         {
           "name": "Jornal da USP",
@@ -282,22 +282,10 @@
       ]
     },
     {
-      "id": "5b9ddfb0276a",
-      "title": "Boca seca, mau hálito e desgaste dos dentes: efeitos das canetas para obesidade na saúde bucal - Estadão",
-      "published": "2026-10-01T08:30:00+00:00",
-      "summary": "Boca seca, mau hálito e desgaste dos dentes: efeitos das canetas para obesidade na saúde bucal&nbsp;&nbsp;EstadãoCabelo Ozempic: novo estudo sugere ligação entre canetas emagrecedoras e queda de cabelo em homens&nbsp;&nbsp;Época NegóciosQueda de cabelo após emagrecer? Saiba o motivo&nbsp;&nbsp;TerraVenda online de canetas emagrecedoras explode e representa 70% das compras&nbsp;&nbsp;CNN BrasilUso de canetas emagrecedoras por jovens gera alerta de pediatras&nbsp;&nbsp;Veja Saúde",
-      "sources": [
-        {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRDJYcXYzcVRyUHJpb2NkTy1nay1HbW9zRi1udExUTWRoeWc5d3VBbk5xWGtNanFMbDNudFpQYm1rZTJMVFdfRHJUV1dtWS16UWVxZ3BueVliajJDRXMxQ2pfQXNjR1FtX0ZpZlB2SHZ3ZjdmZVhHd1QzbG1OX3FDbkI3QnNUZGg1c2M3QjlpeVJveFEzRk1mMElkYzRudXVBU0pSa01IdjJrVVpuYTUzYW1fRWE3ek1HUUdQXzdBSG1UYUtzQ2U4Wjc0WDh0RmdWT1ZyV0NaT2UxbWFXS3c?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c0fc34120b0d",
       "title": "Infarto silencioso: veja quais são os sinais, riscos e como identificar - Portal Drauzio Varella",
       "published": "2026-09-30T19:00:10+00:00",
-      "summary": "Infarto silencioso: veja quais são os sinais, riscos e como identificar&nbsp;&nbsp;Portal Drauzio VarellaEnfarte do miocárdio afeta cada vez mais jovens: “Nós estamos melhores a tratar, mas não estamos assim tão melhores a prevenir”&nbsp;&nbsp;24 NotíciasSobreviver a um enfarte é o início de um compromisso com o coração&nbsp;&nbsp;Jornal O DespertarTive um enfarte agudo do miocárdio. E agora? Não é o fim, mas o princípio&nbsp;&nbsp;Notícias ao MinutoEnfarte e AVC: “Se é súbito, novo e intenso, n",
+      "summary": "Infarto silencioso: veja quais são os sinais, riscos e como identificar&nbsp;&nbsp;Portal Drauzio VarellaEnfarte do miocárdio afeta cada vez mais jovens: “Nós estamos melhores a tratar, mas não estamos assim tão melhores a prevenir”&nbsp;&nbsp;24 NotíciasSobreviver a um enfarte é o início de um compromisso com o coração&nbsp;&nbsp;Jornal O DespertarTive um enfarte agudo do miocárdio. E agora? Não é o fim, mas o princípio&nbsp;&nbsp;noticiasaominuto.comEnfarte e AVC: “Se é súbito, novo e intenso,",
       "sources": [
         {
           "name": "Portal Drauzio Varella",
@@ -306,14 +294,14 @@
       ]
     },
     {
-      "id": "d5dac1d91691",
-      "title": "Bem-Estar #370 - Memória: o que é normal esquecer e o que pode ser considerado doença? - G1",
-      "published": "2026-09-30T15:06:52+00:00",
-      "summary": "Bem-Estar #370 - Memória: o que é normal esquecer e o que pode ser considerado doença?&nbsp;&nbsp;G1Psiquiatra explica quando se preocupar com lapsos de memória&nbsp;&nbsp;G1Sinais de alerta da doença de Alzheimer e importância da fisioterapia para idosos&nbsp;&nbsp;paraibaonline.com.br“Nem toda perda de memória é sinal de Alzheimer ou demência”, alerta especialista&nbsp;&nbsp;futurehealth.ccEsquecimento ou sinal de alerta? Saiba o que muda na memória com a idade&nbsp;&nbsp;Leouve",
+      "id": "d9ef3f2b67b0",
+      "title": "Arca de Noé tinha 3 andares? Estrutura de 157 metros na Turquia intriga cientistas e pode virar a descoberta do século - CPG Click Petróleo e Gás",
+      "published": "2026-09-30T00:45:34+00:00",
+      "summary": "Arca de Noé tinha 3 andares? Estrutura de 157 metros na Turquia intriga cientistas e pode virar a descoberta do século&nbsp;&nbsp;CPG Click Petróleo e Gás",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQ0xPQi1WaHpXRlotRU9HZ1locWZ6M0UycXpCZTh3UzVXYlJWaVBycGN3cFNHbkdwYXhvelFoUHdNbkxvV3BJWFBwejAwX29jRWQ0M2U4eWZTOG1mRTBPbWxtY3NXaDNvRFlxT1dRY3N0QS1WUWVBSjRsRW1WcmU1R3NRbVpuZlp6ZFBkcm5OaFZ0dm8yWTZLMTI1NUlHVFZ2UGNtSjNwSnJfeVJHQmZXa2w0eEo2YXhDZFpERVZicTQ1TlpFa3U4WkZHQkh6c0xFd1Q1ZnFDdUZFOTR10gHrAUFVX3lxTE1tdmNSUTAxa1c2ajZqWmlfQ1VycjM4eHVMUjUtSVpKR0RoRHNNV21CRHJfWWxVZkVnTmdyNVNRWWpIOENJQXBGVkdmN1h1Q2V6OThjSzRvc1VKUVptRHBZU1pYSGxhUWE1cEJyS2Q0aTBQUnhiNHpJTmNnbl9SWGNHU1UxeEVCS0dIZzZoTW9Lbk1LdnlfVG9kMkVtSUVGYzFnYnlBaV91QllxUWExanQxcHg0TEdkUXpTS3M1ZGVzY25SM1JIYTZFU0ZhVDg0U3RKa0E2Vk5nT2JnM2hQejNQaW1HSnM5SGEyY2M?oc=5"
+          "name": "CPG Click Petróleo e Gás",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNYWZ2eXlac3A3eVV4UW5xSEdIX050em80bkFXWVVPdEM1YnlnOUZydUpTUEVvVGtPdnN1b0wwSlVCVnJJMWpObHhKYTJJTENkU0NOWm5Yb19NaWJkUG9senFuVGE0eXhtd3lEdnFrQ01WcEZTWDdDZnJtUThfNVAyQU5XVHF2czhBQVR5RVlzRkNpMllYYWprVzFJSHBSOXhwVHlOVjM1WUVuZmt3anVVVkNfMTNCUjk1NkcyR05oQzd2X2hFdnd0eHJESWFJRXp2TUprQkFLSkRtOFN5ZUE4X0pFeUVBejRvQWpuT3dB?oc=5"
         }
       ]
     },
@@ -342,26 +330,14 @@
       ]
     },
     {
-      "id": "1f7bcc6d5488",
-      "title": "Ultraprocessados: é possível comê-los e se manter saudável? O que nutricionista diz sobre meu carrinho de compras - BBC",
+      "id": "a093281cc7cc",
+      "title": "Ultraprocessados: é possível comê-los e se manter saudável? O que nutricionista diz sobre meu carrinho de compras - bbc.com",
       "published": "2026-09-27T18:41:04+00:00",
-      "summary": "Ultraprocessados: é possível comê-los e se manter saudável? O que nutricionista diz sobre meu carrinho de compras&nbsp;&nbsp;BBCQuanto ultraprocessado é demais? Estudo associa consumo a maior risco de doenças&nbsp;&nbsp;Tribuna HojeAlimentos industrializados podem fazer parte do plano alimentar? Nutricionista explica como fazer escolhas mais práticas no dia a dia&nbsp;&nbsp;issoebrasil.com.brAlimentação rica em ultraprocessados na infância impacta o metabolismo e deixa consequências na fase adul",
+      "summary": "Ultraprocessados: é possível comê-los e se manter saudável? O que nutricionista diz sobre meu carrinho de compras&nbsp;&nbsp;bbc.comQuanto ultraprocessado é demais? Estudo associa consumo a maior risco de doenças&nbsp;&nbsp;Tribuna HojeAlimentos industrializados podem fazer parte do plano alimentar? Nutricionista explica como fazer escolhas mais práticas no dia a dia&nbsp;&nbsp;issoebrasil.com.brAlimentação rica em ultraprocessados na infância impacta o metabolismo e deixa consequências na fase ",
       "sources": [
         {
-          "name": "BBC",
+          "name": "bbc.com",
           "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5oR3kxaFh6RlRqUXNiSXJkbFVOekppUU1pcHctd3NXMmlrRWZlTldlRkxaU2dMVjkyNDlCZGY1MFJjMXF6aVE5WHZ4ZjRydVNYRjhJSnBINWc0WEpxNTI3eXZiONIBaEFVX3lxTE1hVTNGWHNHOTVhTXo3OHNkWVpfUVNTVE53VEZjak1uMHdiSVRsX2FleTByWEpfc3pCaHJhcFQtSTlPMURVc1BldThQemF6ZFJRcnVGTnd2bkQ5RlVfRHVKVmJuWGF2bFB6?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2432084c8e6c",
-      "title": "Anvisa investiga 13 notificações de doença que causa perda de visão associadas a canetas emagrecedoras - G1",
-      "published": "2026-09-27T06:00:00+00:00",
-      "summary": "Anvisa investiga 13 notificações de doença que causa perda de visão associadas a canetas emagrecedoras&nbsp;&nbsp;G1Anvisa investiga 13 casos de doença ocular após uso de caneta emagrecedora&nbsp;&nbsp;CNN BrasilRisco raro de perda da visão acende alerta para usuários de canetas emagrecedoras&nbsp;&nbsp;R7Conselho de oftalmologia orienta usuários de canetas - 29/09/2026 - Equilíbrio e Saúde&nbsp;&nbsp;Folha de S.PauloCanetas emagrecedoras podem causar cegueira súbita? Entenda&nbsp;&nbsp;Folha PE",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQU5feVFRQU40dlRlQ3VQTDJvb0pFeVBla1gtQzNtYkN4VFRVR25LSm5SSFBPQ0NZVUExeUZXcjh5TlNFd3YxNjBzMlBqLXczY1JLVW5iTGpwVHBXZms4OE0yalBjS0hfQy10bk5ES0lieTBiRF9XNjBWTjVyNlg0LUc2cXZwU1o1bHpyNDZ2enh3OTlreVVSNlZvZXpYZkZ2ZkVsZ3lRZDhmWDQ1bk8ybWpUVU5ISVpJRXRZU19iQ0tac0o4c0cwVVpSZ0FGUi1MZVhMVWt2Qkw2ZlNTSi1sdks0ZWQxQdIB9AFBVV95cUxNckpkenV6VDBldGtwdFljYlJ6M2VLdlRjTW8xTjd4THU3X2x2X0FzMmJudmRpdHQ2bEppVV94UEZBMjJFZDVpR3hKSXZUNERnZXUxV0x6Z19sUHU0dkRtUjFUWlA1dzdRTkZxN2Zfc2F4YU5ONktHU2VfMVpDc2daTXktSlBDREVaQXRSMkl2RF9NbDlMTnFKdEk0TmVITE1TU3Q1TnkySGpNR3B4WnRmcHVSekMzZTFMZVlCeVlWcktvT3Y0WGt3WjZiczhBNE1rSzJNaHVEYWc5Z3NUdXI1STF4WGdIX2E3VUNKWXpSOXRQNF8y?oc=5"
         }
       ]
     }
