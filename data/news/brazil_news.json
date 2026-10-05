@@ -1,14 +1,50 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-10-05T04:38:06.485946+00:00",
-  "total_fetched": 87,
-  "unique_count": 87,
-  "health_related_count": 30,
+  "fetched_at": "2026-10-05T13:54:40.445380+00:00",
+  "total_fetched": 86,
+  "unique_count": 86,
+  "health_related_count": 34,
   "news": [
+    {
+      "id": "783acd9a9b03",
+      "title": "Cérebro humano é formado por dois órgãos, revela pesquisa - iG Último Segundo",
+      "published": "2026-10-05T11:00:00+00:00",
+      "summary": "Cérebro humano é formado por dois órgãos, revela pesquisa&nbsp;&nbsp;iG Último Segundo",
+      "sources": [
+        {
+          "name": "iG Último Segundo",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYWwwN1cwblhGUlhwSkg1N29oNE9IeDhodV9zTXZSN2tkRmRYTHJlNXl0SF90WDZZVDhGTnpDZkhwVzgwUEdyejRnenpSQ056VElPMVNUcjdOSGxuN2Rib2xzZ0FFQ3dhYnY0dklVTUdJWmp0bjVYWXRZcUI5cXpUZXE1RkowNmtnWFJNY215Sks5dHAwSjBHYmtIYUYyNjR1VENVQlFQR0t6UlR2bG5VY3NB0gG3AUFVX3lxTE9IWHcyUFE5dUlKMGE1dF9mYkRBYllNWWZLX0hHN05ldW96ZW11VzlmOGd3d3VOaDBoNzdYNlBfNGFIaWlZUUZ1SDNuR2xWU2JfQnZ2eXEtVUg5NVlKS0x6T254em9KWWhqMG1oeXk4c2RxYlJTUkNFZjBrWWZfVFhwblFBUklLbUpxSmdFNGZkWEhYSVJqcEVMXzU2UGtIZVhDRTdvckdKRGFQcVVGWl9NeDZlcVZ5OA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "db07a9cb8439",
+      "title": "Especialistas em psicologia apontam: pessoas acima dos 50 que criam muitas plantas em casa não buscam só decoração, mas uma fonte diária de propósito e companhia - Super Rádio Tupi",
+      "published": "2026-10-05T10:12:46+00:00",
+      "summary": "Especialistas em psicologia apontam: pessoas acima dos 50 que criam muitas plantas em casa não buscam só decoração, mas uma fonte diária de propósito e companhia&nbsp;&nbsp;Super Rádio Tupi",
+      "sources": [
+        {
+          "name": "Super Rádio Tupi",
+          "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQckpLbkg2N3FHTHVlVDJDc2llYU9sbVQwZEZ5aXkycnpoOEIwQ0VIdV85VjdlZmFIOEJXRGFZdy03Zmg3SXd2V0pYWF9DWGNVQ0lpaVJDamxKdUExT29CeDZFdTRtWmlkV2lKYW8zX3EtcmsyUURucnBXczc2ZVVtT1FjNnJaNlR4WWN1TklyZ0Z2d1ZKZU1GVXpMZDdiVHFjY3FnWWotckhSRUdfTERYb05tRVpvTkUzeUJKLV9xSF9mUWxDUExBSzhnNndqdk84Zmd1NTh4cTFLOHFKTVlZcFJ3eUhmaXNhN0VpTkVzRXVYT0RFZGxqTmdVMEQtTjJkdExESUp1QXc0SGN6Q1hWbkVNNDVSOW4tcVBsNGg1dG0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "74de298f12c3",
+      "title": "Nobel de Medicina 2026 é concedido a três pesquisadores por descobertas sobre optogenética - oglobo.globo.com",
+      "published": "2026-10-05T09:32:44+00:00",
+      "summary": "Nobel de Medicina 2026 é concedido a três pesquisadores por descobertas sobre optogenética&nbsp;&nbsp;oglobo.globo.com",
+      "sources": [
+        {
+          "name": "oglobo.globo.com",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQVFYcjY2RWJPQjlUVjZlMFhQbkZCeDBobzRCRENEZnpUd2xoWW9jOFVSb2NTMEd3Y29XVHl0cTFqN1lPZHZybWNmcEZ1T3ZqSlN6OTh2ZzdjcVVFZWRGZXU4TUo2dThYUFF5NEFQSVZ5bXBJMVFPaXlHM0kycTM4N1FrWm9JZDBMRHZ6WVVOeC3SAZ8BQVVfeXFMT29JVjlWSEJjdU91eTlScDZuX0IyNExiVlRxU1dLV1lERkJmX3pKdXJjT05LOUlITXVtOWtrOGgwaHRVbmRmMlZucjVua0tPNUVRcEMySmdidlhRVHdZVVRFbjJkRmZzYjE4dG9xNzJpZlpabVJtTFl2c3VRTDlsQkVGeWFpN1Y3MTRUOERUVjVkVWxYVzRtS0Rqb0VLUFZZ?oc=5"
+        }
+      ]
+    },
     {
       "id": "71d8edfc7e9e",
       "title": "Morador cavava o quintal para instalar uma piscina quando encontrou um conjunto de artefatos egípcios preservados sob a terra e revelou uma descoberta arqueológica extraordinária - Super Rádio Tupi",
-      "published": "2026-10-04T21:35:45+00:00",
+      "published": "2026-10-05T04:26:32+00:00",
       "summary": "Morador cavava o quintal para instalar uma piscina quando encontrou um conjunto de artefatos egípcios preservados sob a terra e revelou uma descoberta arqueológica extraordinária&nbsp;&nbsp;Super Rádio Tupi",
       "sources": [
         {
@@ -18,62 +54,74 @@
       ]
     },
     {
-      "id": "1a0505b26ae1",
-      "title": "Pesquisadora morre após possível vazamento em laboratório russo - CNN Brasil",
-      "published": "2026-10-04T16:40:15+00:00",
-      "summary": "Pesquisadora morre após possível vazamento em laboratório russo&nbsp;&nbsp;CNN BrasilPesquisadora morre após suspeita de infecção por peste em laboratório russo&nbsp;&nbsp;UOL NotíciasRegião da Rússia adota quarentena do tempo da Covid-19 após mulher morrer de peste bubônica&nbsp;&nbsp;Extra onlinePeste volta à Sibéria? Rússia em pânico após morte de técnica de instituto antipeste&nbsp;&nbsp;Euronews.comSuspeita de peste negra coloca quase duzentas pessoas sob quarentena na Rússia&nbsp;&nbsp;R7",
+      "id": "a5f557855d69",
+      "title": "Pesquisador em laboratório russo de pragas morre de infecção \"desconhecida\" - CNN Brasil",
+      "published": "2026-10-04T20:35:44+00:00",
+      "summary": "Pesquisador em laboratório russo de pragas morre de infecção \"desconhecida\"&nbsp;&nbsp;CNN BrasilPesquisadora morre após suspeita de infecção por peste em laboratório russo&nbsp;&nbsp;UOL Notícias'Quarentena por peste bubônica parece o caso de Wuhan', afirma canal, comparando crise na Sibéria com início da pandemia de Covid-19 na China&nbsp;&nbsp;Extra onlinePesquisadora morre após possível vazamento em laboratório russo&nbsp;&nbsp;CNN BrasilQuase 200 pessoas são hospitalizadas na Rússia, com su",
       "sources": [
         {
           "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdWI2SG5iR2ZQOGpJc1ZlSElsTnp0TEE5WW02T3hMdW8zYVRSV0g1aW5LeGhhMEtpZnljdS1ZRDAtVVRQZzFnNVg3QVZ3T0NGN21keEdydXlGZHNRdURhS1FsYzZOUGtpZzNiQ3k2c1RRV1J3YWtpdy1RNGV5R3EzaGlPb1M5VlZKbm1oclpHalM0cHZMR0NIOTYtRDhWaXdqQ0lCVExweU1Gdw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVzFTeFoxc24wd0FNZG1Sa193WXNNNUo2UUMzVmVsWEptM1VtOUtNc3NRdUZNTVRXYk9WU20zcDI4NFM1UTBMTVNHNDEwZ0ZjaUpjcUgzaWpLRGNyZWhQeVBaT3lzMzlhWFBhTVluTXRiT0wtUlBRb1lPN2FhbEtmTDdmcEFyOXhSb2lfY1JVSlM4QWdlRWZMV2Qyd2x5TnhHN3ZHWGJESVRRMlJETDZDUXFsS0Q2b0l1?oc=5"
         }
       ]
     },
     {
-      "id": "f00f6a9345da",
-      "title": "Parar de fumar pode proteger o cérebro contra a demência, conclui estudo - folha.uol.com.br",
+      "id": "b499e1c43341",
+      "title": "Parar de fumar pode proteger o cérebro contra a demência, conclui estudo - Folha de S.Paulo",
       "published": "2026-10-04T13:13:00+00:00",
-      "summary": "Parar de fumar pode proteger o cérebro contra a demência, conclui estudo&nbsp;&nbsp;folha.uol.com.br",
+      "summary": "Parar de fumar pode proteger o cérebro contra a demência, conclui estudo&nbsp;&nbsp;Folha de S.Paulo",
       "sources": [
         {
-          "name": "folha.uol.com.br",
+          "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcU1TQnpIY21ZTDF5ZlB1UFRLc2tEUUUwT2pKOThjRVE1NDdrRm5HSFQ3QlNBZVNjTzlMdUhNZllXZWg3bDc5STdReE1IZDVTWnBxcGVvV2lmLWN0dEdCeHkxZGFBYjdKUnYyekl0QzNJZzZMSFk5aURXRjFQUEdPQ1hDTnN2a1V5XzFGN1VsWFNvMkEtVndNT3dLQWlSZjV1S2ZPYTVLcWUybXZUNmZKZVVqc2tkTDJxdjVCekRyalNveFVn?oc=5"
         }
       ]
     },
     {
-      "id": "67d03824fa4e",
-      "title": "Nova espécie de lagarto é descoberta nos Andes peruanos - 04/10/2026 - Ciência - folha.uol.com.br",
+      "id": "de84c816d213",
+      "title": "Nova espécie de lagarto é descoberta nos Andes peruanos - 04/10/2026 - Ciência - Folha de S.Paulo",
       "published": "2026-10-04T08:30:00+00:00",
-      "summary": "Nova espécie de lagarto é descoberta nos Andes peruanos - 04/10/2026 - Ciência&nbsp;&nbsp;folha.uol.com.br",
+      "summary": "Nova espécie de lagarto é descoberta nos Andes peruanos - 04/10/2026 - Ciência&nbsp;&nbsp;Folha de S.Paulo",
       "sources": [
         {
-          "name": "folha.uol.com.br",
+          "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdjh1ZDJ6UG5PZ1hDTzBFUWlIYk9jZ1lEbTlHYWdZVDNtdTEtNzBhajN4RjdMY0dRc2xNUkY4cWZHRFBMOHRWSHVZUlpycmVFbVltVmFWTGFmYzdSUXBuYzloOVFQSGJWZVdIZ3RSelVWQ1ZzZ3VPaFZRVk1aaHBHUEZvRkt1Y2lyeWJpS0I1ZkRpOUg5TXo1MnBJclU4ckI3X1dROU5qTU1FUFE?oc=5"
         }
       ]
     },
     {
-      "id": "363b47c196ee",
-      "title": "Como o consumo de álcool aumenta o risco de desenvolver demência - folha.uol.com.br",
+      "id": "1555f150b748",
+      "title": "Como o consumo de álcool aumenta o risco de desenvolver demência - Folha de S.Paulo",
       "published": "2026-10-04T07:00:00+00:00",
-      "summary": "Como o consumo de álcool aumenta o risco de desenvolver demência&nbsp;&nbsp;folha.uol.com.brVeja mais manchetes e perspectivas no Google Notícias",
+      "summary": "Como o consumo de álcool aumenta o risco de desenvolver demência&nbsp;&nbsp;Folha de S.PauloVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
-          "name": "folha.uol.com.br",
+          "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVXNmcWhUQm5US2JmXzdFYVFDdHY5d3VLVmNES0Qxb0dCdFI5X1BBaDhfaXFWM2M4dGVpM240N28wV3cxUnRURG9KV3ZpY1pERGxLY1FpdGRJRVBpZllXMVc3Y2EzOHFENXBlaWw4OGZrQ1BBVjRsS2JvMkVpQ0ZMRS05NEdsOUp5Y0Q3aFNKV3N0emJaM1JFU1FTN1dkU0hYSkdtSTk0MmR6TWZ6VWdveVBqb2xVSHZzTi1v?oc=5"
         }
       ]
     },
     {
-      "id": "b5fe9698ec0a",
-      "title": "Carcaça de baleia na praia é perigosa e oferece risco mecânico e biológico - Metrópoles",
+      "id": "eee6744ddade",
+      "title": "Carcaça de baleia na praia é perigosa e oferece risco mecânico e biológico - metropoles.com",
       "published": "2026-10-04T05:00:00+00:00",
-      "summary": "Carcaça de baleia na praia é perigosa e oferece risco mecânico e biológico&nbsp;&nbsp;Metrópoles",
+      "summary": "Carcaça de baleia na praia é perigosa e oferece risco mecânico e biológico&nbsp;&nbsp;metropoles.com",
       "sources": [
         {
-          "name": "Metrópoles",
+          "name": "metropoles.com",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOT2MwNUJ4ZlNoTHdfcG5ndEwzSjJpR0U0RHczSHZYQloycC0yUkZSOVBDcW9vbGppSF9HY0lJdUEyQjhKdjNWZThkazJVdU5XUWtidXBBcVVfeEhiMGV1RXYyQ1JERFl4WDEyLTQ4NWhzUlNEbW1xWVlYbmtjUV9EUC1yaDVEQ0hBeTlycjdmZUF2Zm5CYnlPLXk1V2szMFVmTVpENFBidkhhU0JoTFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e3a221211837",
+      "title": "Foi ativada pela primeira vez a nave de defesa planetária Ramses - O Antagonista",
+      "published": "2026-10-04T04:33:00+00:00",
+      "summary": "Foi ativada pela primeira vez a nave de defesa planetária Ramses&nbsp;&nbsp;O Antagonista",
+      "sources": [
+        {
+          "name": "O Antagonista",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQi1vUl9obGpvQWRiY0FYRkkySFA5WGxROUc4aDlQRlVHSmVleFdLS3NwTG5vM19XaEZ4bTNHMlhJelhvdUdnVk4tLTF1dldHUGUwdF9KY2JXQ0t0eUoydE1LZE8zLTlQNURINGd5WkZQTVdiV1dwLWRHVXZ6TzlFaEUwZklfdjE5TndJVzNwTC1uNnZpZ3NPY0o0Q3NtMVQtTHhzNFkySkNIZ0NnTGwtY2o5Sl9wdw?oc=5"
         }
       ]
     },
@@ -90,50 +138,26 @@
       ]
     },
     {
-      "id": "3d2023631895",
-      "title": "Renato Albani revela diagnóstico de paralisia de Bell; Veja vídeo - Folha Vitória",
+      "id": "a74058c43a6b",
+      "title": "Renato Albani revela diagnóstico de paralisia de Bell; Veja vídeo - folhavitoria.com.br",
       "published": "2026-10-03T20:35:05+00:00",
-      "summary": "Renato Albani revela diagnóstico de paralisia de Bell; Veja vídeo&nbsp;&nbsp;Folha Vitória",
+      "summary": "Renato Albani revela diagnóstico de paralisia de Bell; Veja vídeo&nbsp;&nbsp;folhavitoria.com.br",
       "sources": [
         {
-          "name": "Folha Vitória",
+          "name": "folhavitoria.com.br",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeDNGam9EUnFEU1NLSmNEc2F6QkdJSmtnS1JpWi1VSGwxeDJUaEhzcnlsdVRSbE5Yd1BKZEdCck9wWVBESUxXblNDbTI2UHdXT2lTVzJFU3VNUkJmQUJYcHdiQzd5d2hKbU5UWWZmSzNNZXJvdXRXaGJwamEzRjJDV2lCR1ZOVDJKcV9LNXgxcHZ5bFBrUmdURjRWdkxLVXN4dUhBUXR0cFZpUFR2ZDhFdlBSTQ?oc=5"
         }
       ]
     },
     {
-      "id": "60fca42d0df3",
-      "title": "Maceió amplia vacinação contra a doença pneumocócica; veja quem pode tomar - TNH1",
-      "published": "2026-10-03T17:02:04+00:00",
-      "summary": "Maceió amplia vacinação contra a doença pneumocócica; veja quem pode tomar&nbsp;&nbsp;TNH1CM disponibiliza vacina Pneumo 20 para pessoas com 85 anos ou mais&nbsp;&nbsp;TásabendoMacaé convoca idosos com 85 anos ou mais para vacinação contra pneumonia&nbsp;&nbsp;G1Prefeitura passa a oferecer vacina Pneumo-20 para pessoas com 85 anos ou mais a partir desta quinta&nbsp;&nbsp;Prefeitura de CuritibaPneumo 20: vacinação é ampliada em Santos, Praia Grande e no resto da Baixada Santista; veja locais no l",
-      "sources": [
-        {
-          "name": "TNH1",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPc1hHS0RwbVozSWxqY2NlamxjbUZGQnlLaE1jSWFmWmFrNjhyYWpPUkgwMW5VeE1XLS1IUENUVUV3WlR3LUdhS0E0VkFWcDdGeUdqbTlKLUJfVmRkU0xFcTl1cnJFUnhiNVZfbE9WdjlJNU9XcTJac1hDOGg4ZlBPZERwR082OXUtMkE3blZmTUVZTkRPWE9lYVRHS3BQQzhEdXg4ZllTZXFqR1R1d2hR0gGqAUFVX3lxTE5aNVNBdWtjZWszZTNlekprdDFhUmx1N21zS1BweXAwZlJIVEozbVZtS3dGcFgwR0VnTVNVd0NWZHVGR3pkT29ycm4yelJqS1FyRlZMUjNYWUF0RDlVR2xBY0N4VXRDaHhXeDR6RDR2NTk1YmJBR3ZLLXg1ZWpJVzVMNVZ6TUxXTU1XWkE5VzlQR0FxeUVTbTdjdmNBSUR1TmNPMFJmMnV1aVJB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7f14b38ea45c",
-      "title": "Pesquisa sobre câncer premiada com Nobel de Medicina há cem anos acabou refutada - folha.uol.com.br",
+      "id": "44256038007d",
+      "title": "Pesquisa sobre câncer premiada com Nobel de Medicina há cem anos acabou refutada - Folha de S.Paulo",
       "published": "2026-10-03T14:00:00+00:00",
-      "summary": "Pesquisa sobre câncer premiada com Nobel de Medicina há cem anos acabou refutada&nbsp;&nbsp;folha.uol.com.br",
+      "summary": "Pesquisa sobre câncer premiada com Nobel de Medicina há cem anos acabou refutada&nbsp;&nbsp;Folha de S.Paulo",
       "sources": [
         {
-          "name": "folha.uol.com.br",
+          "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWllMNUc4TTZsOHRCV2ZURjlGVGlRWnFXUTltbG5JSUJyY2JaNDNZVWFFQzltMHZBUjJNWFdYUjNMbHUxRzhzZXlEN3JiWFJEbGNvRkNFUnhFQ3BRY29zdzcwTUtkUDctMC1iTTI5LUZ6MGNPYjFGRGpCSTVpRWdyZEN6TlhwZGw1Zkl1TWtSaEdQQVNZLXlSN2JLNDVFX3phaldsdlNtaHo4LWFsVHpfY29jV3Q3dXU5UlJfVnFKZ2tvMDRQR1RhWGNmTWw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "698d22d09592",
-      "title": "'Chorei querendo comer': o efeito silencioso das canetas emagrecedoras - uol.com.br",
-      "published": "2026-10-03T12:30:00+00:00",
-      "summary": "'Chorei querendo comer': o efeito silencioso das canetas emagrecedoras&nbsp;&nbsp;uol.com.brBoca seca, mau hálito e desgaste dos dentes: efeitos das canetas para obesidade na saúde bucal&nbsp;&nbsp;estadao.com.brCabelo Ozempic: novo estudo sugere ligação entre canetas emagrecedoras e queda de cabelo em homens&nbsp;&nbsp;epocanegocios.globo.comVenda online de canetas emagrecedoras explode e representa 70% das compras&nbsp;&nbsp;CNN BrasilQueda de cabelo após emagrecer? Saiba o motivo&nbsp;&nbsp;T",
-      "sources": [
-        {
-          "name": "uol.com.br",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdTNlTFVyQjc1UW5tYm9VV05QMzAycUZ2UWZQcVNFM1MxUE1IdnJmaTd0blROSHA5NVpad2NTTHAzRjZUZDVGNTRKT2JyNi10dmEtdmlUMHFPRTlzLVJtOG43SlA4ZnBqbzZwdE1QNFppZ2Nhd1Bqc3J3ZDA2Y1lnb0E2aXF4aXN6bnpBXzlYblctaTFnbHM4WGVFVWRscEtnanprVFlIM1U4MGhkdGR4LTdlRFBqRzhXVzY1aFBpR1BJdlpyNVE2MjBNQWhFQQ?oc=5"
         }
       ]
     },
@@ -150,50 +174,14 @@
       ]
     },
     {
-      "id": "b9d688d83974",
-      "title": "“Pas-se-ar”: Cães reconhecem padrões de consoantes na fala de humanos, mostra estudo - Superinteressante",
-      "published": "2026-10-03T11:01:00+00:00",
-      "summary": "“Pas-se-ar”: Cães reconhecem padrões de consoantes na fala de humanos, mostra estudo&nbsp;&nbsp;Superinteressante",
-      "sources": [
-        {
-          "name": "Superinteressante",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUVB5dGVKWS1jY3hiRkhoNFFvbmUySm5XZXRsYmkwSDVqay15dEd1SjB5VHk1MmttUWc1di14cmpYZDNqNm1oak9lekpSbUZ2dEd5bWJoZnN0MFF3b0plVXU0S19kUzFaeklGQkh0bmdFanY4bnhjMU9VRnBMUjU2dnRzUGhIaTJvbFNaNFB4WTcxRV9pWGJueWtOX3VsOE1NU2t1aTcyaXgxTGhUeVBPTWdvS3BKQTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0195df3306df",
-      "title": "Coração de doador mais velho parece rejuvenescer ao ser transplantado em paciente mais jovem - folha.uol.com.br",
+      "id": "f604a0ac9d44",
+      "title": "Coração de doador mais velho parece rejuvenescer ao ser transplantado em paciente mais jovem - Folha de S.Paulo",
       "published": "2026-10-03T09:00:00+00:00",
-      "summary": "Coração de doador mais velho parece rejuvenescer ao ser transplantado em paciente mais jovem&nbsp;&nbsp;folha.uol.com.br",
+      "summary": "Coração de doador mais velho parece rejuvenescer ao ser transplantado em paciente mais jovem&nbsp;&nbsp;Folha de S.Paulo",
       "sources": [
         {
-          "name": "folha.uol.com.br",
+          "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPR3VwMHdOWE9qajFOdVhmSmJBUjBFRnRBcWtOODVMaHhxdXhlbnZ4YmRLUFBIUlZ4VWRSNGdFanMydXFpSXROLWtMeTVwQmtzOVFfdFpWWG1sbVBNYXlzVC16MmppWThTbWEwU3h2OUV5NDNqS0FrT28wNE1QTkk0bjhNdWtLdmF5bC1JUzZ2MVhoaWdONDd2bVpKYTg1cHNLakFabWdqQklzMW9JTmpLcW5nVDJHNWlhczlqRzFJclpSUHFldGZNTWRKUUtKUkxtTm1QZXhaLTB3dWpr?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2e0ea16f71f4",
-      "title": "Pesquisas da Universidade de Washington indicam que as fezes das baleias contêm quantidades significativas de ferro, que podem ter ajudado a fertilizar os oceanos na antiguidade - revistaoeste.com",
-      "published": "2026-10-03T08:05:00+00:00",
-      "summary": "Pesquisas da Universidade de Washington indicam que as fezes das baleias contêm quantidades significativas de ferro, que podem ter ajudado a fertilizar os oceanos na antiguidade&nbsp;&nbsp;revistaoeste.com",
-      "sources": [
-        {
-          "name": "revistaoeste.com",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQS09aa0JjWWN4Nl9YRWVITUcyM01YRGVHM0pSOGtjMkJnYzBha0RUMHV6UG5sN01IbENJbkFXM094VVY3ZEFFS1o4akotLXZidVo0NTE3Q3FNZlhyYlRlNXlMQk03TTNiMHl5Z3pUU1JaNlZxWTNyX2lKSWttMGtUY3dsaDZSbjh1UHBaSFpqbHRoV3ZRMUUtbFRPbEMyakMwclZxSjJONHNiMkxreVdqYVE5TDJ2aGg3UUc5ancwSWtBSk1xMTN5enFRVm1GUEJFUjhURVBtWXpvbjNwN3NhbTlnT0d5bzJUekxiRnI2dnhPQl9KbmY5VFhJTUpLb0dLWm1FNlZuTHNzZC16bmVwcm5NaW1BUmtZUUN1Szh6TkJVVUtpODRpVW1iRkMyTVJudV82TzNtMEJQdTVpX001TnU2UHV2TVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8d4079aaef78",
-      "title": "Entidades médicas pedem à Anvisa proibição de chips da beleza - ICL Notícias",
-      "published": "2026-10-03T08:00:39+00:00",
-      "summary": "Entidades médicas pedem à Anvisa proibição de chips da beleza&nbsp;&nbsp;ICL NotíciasSociedades médicas pedem à Anvisa proibição total de implantes hormonais manipulados no Brasil&nbsp;&nbsp;G1Confira os destaques do Jornal A Tribuna deste sábado&nbsp;&nbsp;Tribuna OnlineSociedades médicas alertam para riscos de implantes hormonais manipulados&nbsp;&nbsp;JC‘Chip da beleza’: entidades médicas pedem proibição de implantes hormonais manipulados no Brasil&nbsp;&nbsp;estadao.com.br",
-      "sources": [
-        {
-          "name": "ICL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5BSEMyeWpsUnhVX2xQQXFqTlVmSHBpbEZKRkhfRzlySW5GNEpLMUlveHNzWFh0SThPaTB2Yy1FSXRFSk45TXU2dVg5RlJ0ZHhsZnI1RG15SDJFU2Z6a19FRVBzYnZnYkh5TThWdzhOZHN4U29lLWRv?oc=5"
         }
       ]
     },
@@ -222,25 +210,25 @@
       ]
     },
     {
-      "id": "831431c7ce1a",
-      "title": "Surto atual de dengue na Flórida é o maior em décadas nos EUA continental - UOL Notícias",
-      "published": "2026-10-03T00:34:26+00:00",
-      "summary": "Surto atual de dengue na Flórida é o maior em décadas nos EUA continental&nbsp;&nbsp;UOL NotíciasSurto de dengue na Flórida é o maior registrado nos Estados Unidos continentais nas últimas décadas&nbsp;&nbsp;estadao.com.brSurto de dengue na Flórida é agora o maior nos EUA continentais em décadas&nbsp;&nbsp;Saúde Mais TVDengue na Flórida: o maior surto em décadas&nbsp;&nbsp;HealthNewsDengue avança na Flórida e especialistas alertam para possível subnotificação&nbsp;&nbsp;gazetanews.com",
+      "id": "a68687b2280f",
+      "title": "Animais podem ter surgido 200 milhões de anos antes do que se pensava, aponta estudo - Correio Braziliense",
+      "published": "2026-10-02T21:57:00+00:00",
+      "summary": "Animais podem ter surgido 200 milhões de anos antes do que se pensava, aponta estudo&nbsp;&nbsp;Correio Braziliense",
       "sources": [
         {
-          "name": "UOL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRjFxaDlmS2twQUxqY3BnbkNweWlQMVJ4aWlMc05MZXFscXN6cjlkZEtYYk83ZHBSMHpKZzZmZE55eVp1VjdoYVlvY0VXWndkMmJadE5LUWNnR0l5Rll0Q3l4U1FvSmhNdldKSVJNY0Nja3NPdnVTS1c1dGpVUlNLczIyS2lmeThhcWxCUjV3emhBZVhSY2JXazl5N3RwR0l5ci1xdHBLYktBajQtLWE2SzRsTHRnbEVXbDM0R3lSVGFISUgtWXNfb3E1dDZITXlEa25YbGUzdnpMUWs?oc=5"
+          "name": "Correio Braziliense",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPX0F1UF9XZ21Tb3RlaExwQ2JjazgwV0pSZjNMN3RqVEU0b1NyTndDdFdnNkNENjgzRF9jMW1NczUtSllvUjBib2Y5ZXQxdDhiazdpWTRTR3VuZVk0WkpBTVk5OWx2ZnJuWEpRX0FmdFo1MklISDJpbEdPOHp4NzBHQ0FFQlVORmNoRldjYlVwWTgwRGdpUWVSWGJtRmpXc1JKWjhIRnh5OUtWbEhVTzI3U2E4OGhDQWRvYU0tT05feGtfeWY3WTZjazh2V3NrZmNRVW5JRWQ4SXlCcmgzQTNyYjhsLUd3YnJhdUs5SWZoONIB9AFBVV95cUxNNzlGLUlTSFNpdllKeU1qNV85T2FKTjZiTXFzSGpZUDV3ZG5ZNGliYjFRQjZUQktLWWJRMnpJQ1ZWTXJjWWlEMVdJNzJJRGdlRmFyQUhaSU01ZzJSUzEzYWdfdFV5Z0dnUjNlMmd2WlROSlRLWU9IWTN0LURoaktmM0l6dlB5cUphVEpJVTNUT0pzV01zcTNTcHJpUjhfOEtWLWtET3AzdHF1X0J0Z2g3TmM0RFNmN0xDQVFHVFk2ZjlLMHNlYWNrZnpnOF9Rd3pmeFhyelNMcVlhVG8zWHU2TDk5OFpUZHR6X3c5eGtoNkJycWVR?oc=5"
         }
       ]
     },
     {
-      "id": "7a41790961f1",
-      "title": "Mortes: Dedicou mais de 30 anos às pesquisas de genética na USP - folha.uol.com.br",
+      "id": "7963e579b9c0",
+      "title": "Mortes: Dedicou mais de 30 anos às pesquisas de genética na USP - Folha de S.Paulo",
       "published": "2026-10-02T20:21:00+00:00",
-      "summary": "Mortes: Dedicou mais de 30 anos às pesquisas de genética na USP&nbsp;&nbsp;folha.uol.com.br",
+      "summary": "Mortes: Dedicou mais de 30 anos às pesquisas de genética na USP&nbsp;&nbsp;Folha de S.Paulo",
       "sources": [
         {
-          "name": "folha.uol.com.br",
+          "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGN0Um5ScUZjclIzOVV6VGpFeUFKbnppNDRabGZ5UVFEVFFDajJwWnBXSmNGSVBJRTVOaE9zYlgtaUpMX1AwNS1Pa3FnMjFDVmtFYW5DWnJaUm5nQzAzVzA2T1pTUjhhRzM2TmJ5aDcyRUtxWDhVdHRRR2tBWXo0Z1NILWJRcE94Q19Fc213d21KUEI1UnZBSzBkSHIyNFZoVGtqM2dpaHBFU0NPbjF5QTVhYlotRW8?oc=5"
         }
       ]
@@ -270,13 +258,13 @@
       ]
     },
     {
-      "id": "0fb200f3938b",
-      "title": "Em vírus, cientistas descobrem o que pode vir a ser uma nova ferramenta de edição genética - folha.uol.com.br",
+      "id": "df67bca12dd1",
+      "title": "Em vírus, cientistas descobrem o que pode vir a ser uma nova ferramenta de edição genética - Folha de S.Paulo",
       "published": "2026-10-02T16:00:00+00:00",
-      "summary": "Em vírus, cientistas descobrem o que pode vir a ser uma nova ferramenta de edição genética&nbsp;&nbsp;folha.uol.com.br",
+      "summary": "Em vírus, cientistas descobrem o que pode vir a ser uma nova ferramenta de edição genética&nbsp;&nbsp;Folha de S.Paulo",
       "sources": [
         {
-          "name": "folha.uol.com.br",
+          "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYUUtTGlZQ0NFanJFeGpJQkwteE9RSHhZQUI1aWJ6elB0Vm5XbC01cG1HT29pSk5RTFJlSktraW52SzRYakRfbjV5eXF2YkplWGE5eldaN1BRdlJ2cEFwc056UFJZNDR6QjRTZTR3V2tRTm93Z0hRaG8tdTRocmczR2dsRWFLWTgzelpLOGxlWVJrZ1FlUkRRejdQbDdpbDdYY2pmakh2bVBVM1hhaUxzZWlRUzVucWtfU251YzQ4eF9Bb2liQzRZd19TOTQzQjNkc3doeDhnSGE?oc=5"
         }
       ]
@@ -285,7 +273,7 @@
       "id": "ad991ac9292b",
       "title": "AVC: Bahia registra mais de 74 mil internações em cinco anos; veja os sinais de alerta - Jornal Correio",
       "published": "2026-10-02T13:00:29+00:00",
-      "summary": "AVC: Bahia registra mais de 74 mil internações em cinco anos; veja os sinais de alerta&nbsp;&nbsp;Jornal CorreioAVC em jovens: neurologista alerta para fatores de risco e sinais que não devem ser ignorados&nbsp;&nbsp;Jornal OpçãoAVC está se tornando mais comum entre jovens adultos; o que os especialistas querem que eles saibam&nbsp;&nbsp;R7Sinais de AVC: como reconhecer em poucos segundos usando o teste SAMU&nbsp;&nbsp;Brasil 247O médico ficou com o coração partido ao ouvir a pergunta: \"Ele tem ",
+      "summary": "AVC: Bahia registra mais de 74 mil internações em cinco anos; veja os sinais de alerta&nbsp;&nbsp;Jornal CorreioAVC em jovens: neurologista alerta para fatores de risco e sinais que não devem ser ignorados&nbsp;&nbsp;Jornal OpçãoSinais de AVC: como reconhecer em poucos segundos usando o teste SAMU&nbsp;&nbsp;brasil247.comO médico ficou com o coração partido ao ouvir a pergunta: \"Ele tem pouco mais de 30 anos, como pôde ter um AVC?\"&nbsp;&nbsp;Vietnam.vnViva com saúde: prevenção ao AVC ganha dest",
       "sources": [
         {
           "name": "Jornal Correio",
@@ -297,7 +285,7 @@
       "id": "ab3910dd8edd",
       "title": "SUS passa a oferecer três novos medicamentos de alta tecnologia para o tratamento de câncer pulmonar - Jornal da USP",
       "published": "2026-10-02T12:30:00+00:00",
-      "summary": "SUS passa a oferecer três novos medicamentos de alta tecnologia para o tratamento de câncer pulmonar&nbsp;&nbsp;Jornal da USPDia do Idoso: como prevenir, tratar e identificar tipo de câncer que mais mata homens no mundo&nbsp;&nbsp;Extra onlineAvanço do câncer de pulmão exige atenção ao diagnóstico precoce e novos tratamentos&nbsp;&nbsp;TerraPacientes do SUS pode ter cirurgia de câncer do pulmão assistida por vídeo&nbsp;&nbsp;OExtra.netJornal da USP no Ar Regional #470: SUS amplia acesso a novos ",
+      "summary": "SUS passa a oferecer três novos medicamentos de alta tecnologia para o tratamento de câncer pulmonar&nbsp;&nbsp;Jornal da USPVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
           "name": "Jornal da USP",
@@ -318,10 +306,58 @@
       ]
     },
     {
+      "id": "d952e44c03b0",
+      "title": "Gordura no fígado não vem apenas da gordura que você come - Jornal da USP",
+      "published": "2026-10-01T12:11:30+00:00",
+      "summary": "Gordura no fígado não vem apenas da gordura que você come&nbsp;&nbsp;Jornal da USPExcesso de açúcar favorece gordura no fígado, aponta especialista da USP&nbsp;&nbsp;RevideUm tipo de bebida que \"destrói o fígado\" mais rápido do que comer carne gordurosa: \"Amada por milhares\", muitos se surpreendem porque... estão tão familiarizados com ela.&nbsp;&nbsp;Vietnam.vnNutriconistas listam 5 piores alimentos para saúde do fígado&nbsp;&nbsp;TV GuararapesPouca gente sabe, mas o álcool não é o único vilão:",
+      "sources": [
+        {
+          "name": "Jornal da USP",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUlNhelVHQWk4T0RnUGMxMGhhVndjWnlTanhFUVJJeGxGdjNoaWRQTnpiS1lYUDhRSnFfal96YkZ1d3ZOT3M4QTBGY3laUzZQRVFIZkFJNnUzMTFKY2VleFJma1ZVQVdwbHBlcTZnOW03VWxzUUZtcnlsZThxRG5rY0llTTVyUnY0TUpQTWJaeDAtS1NEUXYw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5b9ddfb0276a",
+      "title": "Boca seca, mau hálito e desgaste dos dentes: efeitos das canetas para obesidade na saúde bucal - Estadão",
+      "published": "2026-10-01T08:30:00+00:00",
+      "summary": "Boca seca, mau hálito e desgaste dos dentes: efeitos das canetas para obesidade na saúde bucal&nbsp;&nbsp;EstadãoCaneta emagrecedora: quando perder o apetite deixa de ser uma vantagem?&nbsp;&nbsp;oglobo.globo.com'Chorei querendo comer': o efeito silencioso das canetas emagrecedoras&nbsp;&nbsp;UOLNutri alerta sobre riscos de usar canetas emagrecedoras sem acompanhamento&nbsp;&nbsp;metropoles.comGLP-1 muda cesta de beleza nas farmácias&nbsp;&nbsp;Panorama Farmacêutico",
+      "sources": [
+        {
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRDJYcXYzcVRyUHJpb2NkTy1nay1HbW9zRi1udExUTWRoeWc5d3VBbk5xWGtNanFMbDNudFpQYm1rZTJMVFdfRHJUV1dtWS16UWVxZ3BueVliajJDRXMxQ2pfQXNjR1FtX0ZpZlB2SHZ3ZjdmZVhHd1QzbG1OX3FDbkI3QnNUZGg1c2M3QjlpeVJveFEzRk1mMElkYzRudXVBU0pSa01IdjJrVVpuYTUzYW1fRWE3ek1HUUdQXzdBSG1UYUtzQ2U4Wjc0WDh0RmdWT1ZyV0NaT2UxbWFXS3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "19934e8758d2",
+      "title": "Dor menstrual: saiba quando a cólica forte exige investigação - G1",
+      "published": "2026-10-01T06:00:00+00:00",
+      "summary": "Dor menstrual: saiba quando a cólica forte exige investigação&nbsp;&nbsp;G1Endometriose: cada vez mais precisamos chamar atenção&nbsp;&nbsp;Diário do NordesteGinecologista explica sinais de alerta da endometriose&nbsp;&nbsp;iG SaúdeEndometriose afeta até 15% das mulheres no Brasil, mas diagnóstico pode levar sete anos&nbsp;&nbsp;Contexto NotíciasCólica menstrual: quando a dor pode ser sinal de doença?&nbsp;&nbsp;O POVO",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQkViODJUMS1DYkxwUEVIUm9MNzdJT3dNT0VKTjNWQy1ZZFE1czMtQUFWVE5oV1FLcHo0TlFsd29JRW5VWFowN2QyT3VacU9qVkhoeXBweDRKMk9nS0xVeWNuWGFQWlpxUUFqaGhNQW1ZM0p1eHEtNDBya09iczVQRUthQXRYUGxQMzBJSVM5RDdlekZlcXpjaG90V2gwc3RTaV8xbkJsN1BwV1BncllrYk95YzcwRWJVWng1SUR2V3NDUEZaN01HRDMyTmZPdjlNNk9F?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "08a98b2fda19",
+      "title": "Professora é a primeira brasileira a se tornar diretora da Unesco - CNN Brasil",
+      "published": "2026-09-30T21:49:26+00:00",
+      "summary": "Professora é a primeira brasileira a se tornar diretora da Unesco&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeVFhNE14cnJwQ0xPTVJ3MlNpd2pjcGR0V1ZMdjQwSmFfOGQ5b052SkVVU016ZHlxc1dhdklkbzNNaWpwdEZfVnllSElSNHVHQ1FxOURfWGdHN3dpN01sTHU1WFUxM3BKUnF3dGhJcjFmRW9MRmhib3R0YUdlODJlclNNZzAtYkxRc1EtbWVxZnkxUGNrMDdHTXV2WFJNU2pXVkt2bE5FTQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c0fc34120b0d",
       "title": "Infarto silencioso: veja quais são os sinais, riscos e como identificar - Portal Drauzio Varella",
       "published": "2026-09-30T19:00:10+00:00",
-      "summary": "Infarto silencioso: veja quais são os sinais, riscos e como identificar&nbsp;&nbsp;Portal Drauzio VarellaControlar o colesterol mau e adotar ou manter hábitos saudáveis&nbsp;&nbsp;cmjornal.ptSobreviver a um enfarte é o início de um compromisso com o coração&nbsp;&nbsp;Jornal O DespertarSuor frio, enjoo e falta de ar podem acompanhar um infarto mesmo sem dor forte no peito&nbsp;&nbsp;Tua SaúdeEnfarte do miocárdio afeta cada vez mais jovens: “Nós estamos melhores a tratar, mas não estamos assim tã",
+      "summary": "Infarto silencioso: veja quais são os sinais, riscos e como identificar&nbsp;&nbsp;Portal Drauzio VarellaControlar o colesterol mau e adotar ou manter hábitos saudáveis&nbsp;&nbsp;Correio da ManhãSobreviver a um enfarte é o início de um compromisso com o coração&nbsp;&nbsp;Jornal O DespertarSuor frio, enjoo e falta de ar podem acompanhar um infarto mesmo sem dor forte no peito&nbsp;&nbsp;Tua SaúdeEnfarte do miocárdio afeta cada vez mais jovens: “Nós estamos melhores a tratar, mas não estamos ass",
       "sources": [
         {
           "name": "Portal Drauzio Varella",
@@ -342,25 +378,37 @@
       ]
     },
     {
-      "id": "73dac97c0c62",
-      "title": "1 em cada 8 casos de câncer no mundo está associado a 5 infecções, mostra estudo; veja quais - O GLOBO",
+      "id": "a6cbb8500c1c",
+      "title": "1 em cada 8 casos de câncer no mundo está associado a 5 infecções, mostra estudo; veja quais - oglobo.globo.com",
       "published": "2026-09-29T13:56:14+00:00",
-      "summary": "1 em cada 8 casos de câncer no mundo está associado a 5 infecções, mostra estudo; veja quais&nbsp;&nbsp;O GLOBO1 em cada 8 casos de câncer está ligado a infecções por vírus ou bactérias, aponta estudo&nbsp;&nbsp;folha.uol.com.brOs vírus e as bactérias capazes de aumentar o risco de um câncer&nbsp;&nbsp;estadao.com.br2,3 milhões de pessoas desenvolvem câncer devido a infecções evitáveis.&nbsp;&nbsp;vietnam.vnEstes 5 tipos de infecções causam 2 milhões de casos de câncer no mundo&nbsp;&nbsp;Globo",
+      "summary": "1 em cada 8 casos de câncer no mundo está associado a 5 infecções, mostra estudo; veja quais&nbsp;&nbsp;oglobo.globo.com1 em cada 8 casos de câncer está ligado a infecções por vírus ou bactérias, aponta estudo&nbsp;&nbsp;Folha de S.PauloOs vírus e as bactérias capazes de aumentar o risco de um câncer&nbsp;&nbsp;Estadão2,3 milhões de pessoas desenvolvem câncer devido a infecções evitáveis.&nbsp;&nbsp;Vietnam.vnEstes 5 tipos de infecções causam 2 milhões de casos de câncer no mundo&nbsp;&nbsp;Glob",
       "sources": [
         {
-          "name": "O GLOBO",
+          "name": "oglobo.globo.com",
           "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQ0tfZWhXcTgtNzNmcTRvTUI5dXVKOUlFdlB4QVpvd21YNlhma0VuQVpfMmFqaXRlcE1aRnNLVElFSGkyTEZNc0VtcjJDVmMxQUpyMktUdFE4WEpXMkRpUkxBLTJKTERUdU1oS09iRk14aXQ4Wk1JZEhvVm84Yjc4OVgxb0g1Yzl1X3FrSUxWUFlocmw3Z0NRTVBwNVhWbTdXVVpfUk1CWEFXU2k5NHNkODRxNldCbHFqTmJDNmk1ZTV2bHZ0S2tTWjFiMjIxcW9obGRvMDhtRldLNmhJemFR0gHuAUFVX3lxTE1vWmd4OGlDZU1JalQyTmstYzlrTTVaQjNuSk5kSjVhOTFGNnpUdmQtMDZhNjg4QkNMUlQ2cnVYRi1YOVBobzFNdkVkMC1ZaXQxMDJaY2ZwbFhLSWRqeUJEY1IyeWxkZm9vRmZodWdLWEJfaHZCWUpOeTVTM1p4dDZWVWFPb1otM24wLTNWUVdTVmg3MFBZRWdqRlJEd2o5cEFCR2NvUU0tNkQ2RUU3V0lyMHNoR2dXT2Z3VmZOQmFVQ1RUblFCbWlaRHdDdDJtaEZIMjhtbkl4S01lakNzNlVxc2FLbzV4U1NweGt5VXc?oc=5"
         }
       ]
     },
     {
-      "id": "6ff345276eaa",
-      "title": "Consumir duas fatias de frios embutidos por dia está associado a um risco 44% maior de demência - O GLOBO",
-      "published": "2026-09-28T17:04:16+00:00",
-      "summary": "Consumir duas fatias de frios embutidos por dia está associado a um risco 44% maior de demência&nbsp;&nbsp;O GLOBODuas fatias de frios por dia podem elevar em 52% o risco de demência, aponta estudo&nbsp;&nbsp;Jornal OpçãoConsumo diário de cerca de duas fatias de frios está associado a risco 44% maior de demência, aponta estudo&nbsp;&nbsp;Lavras24Horas",
+      "id": "7d98854dd15e",
+      "title": "Vida na Terra teve início há 4,33 bilhões de anos, afirma estudo - Folha de S.Paulo",
+      "published": "2026-09-29T09:00:00+00:00",
+      "summary": "Vida na Terra teve início há 4,33 bilhões de anos, afirma estudo&nbsp;&nbsp;Folha de S.Paulo",
       "sources": [
         {
-          "name": "O GLOBO",
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX3oxbmZ3Q1oyX3lTOU04OXpoNnJlX09iaHQzckVwS2Q0Q01UZ19LX3VTOWNycnFsdG8yVXM2OGpGMXZsdC00Z2FpTzhSZlFsNU53amVVRG42SFJwYjNuMTVWSFJ3STd2WlBuRDlvUWw2VEZpLVN0azFJeGxJMjlIMXlLSkZIaUlnSExNczZ2TWJqWGYxWDg2WGNwWGdGVEF5ZW9kRXlrT2FBVGpqTzlBMVRrTnA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6761f96c024a",
+      "title": "Consumir duas fatias de frios embutidos por dia está associado a um risco 44% maior de demência - oglobo.globo.com",
+      "published": "2026-09-28T17:04:16+00:00",
+      "summary": "Consumir duas fatias de frios embutidos por dia está associado a um risco 44% maior de demência&nbsp;&nbsp;oglobo.globo.comDuas fatias de frios por dia podem elevar em 52% o risco de demência, aponta estudo&nbsp;&nbsp;Jornal OpçãoConsumo diário de cerca de duas fatias de frios está associado a risco 44% maior de demência, aponta estudo&nbsp;&nbsp;Lavras24Horas",
+      "sources": [
+        {
+          "name": "oglobo.globo.com",
           "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQUkFGb05feDJOMDlVenFzakROeDJqRkJBNy1ZOUVfVk44Vm9MWWRmc3czLWIyWjNxcGVzaFVWMnlGcXZaUGo4U3dxMEtzZjlhMnRlMnh1bU9EWkJBRTFzT1NfamN0OHRwMmtTNThnZnZYMWdOeU12Z1JqWUZFQk1yS21iLWJEYlJpVUt5TXlPWl9aSUFpOVJUYTNKS01JYmVkVXF4dEhEeVhOOVI0M0lzMXBLWDl5bGhTZktES09HN1lVcnhybElyT0NRb0hpRWJmNGZna2RXYlkyWC1ldW5HZDRFWC1GUDFlUE9PcWlOazBvTzQ1bVJFUHl30gGIAkFVX3lxTE11SThCbXNQM05aQTN4bE1vakVuc1VJSEczZkdvb1pJMG93M3BfWXA4bWd5bDZwRE9aUW9tdkt5LTkwZFd2WEZIaFo5OFdUT1JWb3NLM0RGUGdzalZBT25rT1NiTnJEWEZyVEkxR2ppcmdPd09QRHZha2NLVEtzWWp6QTdlN0R0Tms3ay1pZDB2ZHkwOHBFUHF2TDFSaExvbDZHQXprd2FybnF6UENpVXkzemVVTFgtV2tnZDh1T0x5TzZXVXlabFBoTmYwSDhCcU9iNFpRbmVEaldtMFByTnBieW9ieUJ2U1RDcmNHSHlLT2FjU0ZfemJiRTRsTlFGVW83QTdIR0FoSw?oc=5"
         }
       ]
