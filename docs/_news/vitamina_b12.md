@@ -14,7 +14,7 @@ permalink: /news/vitamina_b12/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre VITAMINA B12?">
-<strong>VITAMINA B12</strong> tem atualmente <strong>0 notícias</strong> e 0 indicações previstas.
+<strong>VITAMINA B12</strong> tem atualmente <strong>1 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -28,9 +28,15 @@ Esta página combina as indicações previstas por IA para VITAMINA B12 com as n
 <p><a href="{{ '/drugs/vitamina_b12/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (0)
+## Notícias relacionadas (1)
 
-*Ainda não há notícias relacionadas. Quando uma notícia mencionar este medicamento, ela será recolhida e exibida aqui automaticamente.*
+### [B12: nova diretriz atualiza critérios para diagnosticar e repor vitamina](https://news.google.com/rss/articles/CBMipwFBVV95cUxOcVJWZXpRQTI4Zi1iWDN3b24zX2dMWmk1TzJzMVQzRExSeFhuX082WktLREtPS3c2Z0k1R1dxOWQ5VlNhbXRIUHpldlBGcnpVeFN4dTlwb0dPRjBDWmVHUG5KQmVsRllnV29FVFNJUE1XdjVGMTVJTm80NGIyemVrR0NrR3NGRVJqQ3BqLUV3S05rUlNQM3pFUWxhREtKYkwzNGlxdzJ6aw?oc=5)
+
+2026-10-06 <span class="news-drug-tag">VITAMINA B1</span> <span class="news-drug-tag">VITAMINA B12</span>
+
+Fonte: [Metrópoles](https://news.google.com/rss/articles/CBMipwFBVV95cUxOcVJWZXpRQTI4Zi1iWDN3b24zX2dMWmk1TzJzMVQzRExSeFhuX082WktLREtPS3c2Z0k1R1dxOWQ5VlNhbXRIUHpldlBGcnpVeFN4dTlwb0dPRjBDWmVHUG5KQmVsRllnV29FVFNJUE1XdjVGMTVJTm80NGIyemVrR0NrR3NGRVJqQ3BqLUV3S05rUlNQM3pFUWxhREtKYkwzNGlxdzJ6aw?oc=5)
+
+---
 
 
 <div class="disclaimer">
