@@ -1,19 +1,79 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-10-06T05:24:23.333570+00:00",
-  "total_fetched": 77,
-  "unique_count": 75,
+  "fetched_at": "2026-10-06T12:57:04.291364+00:00",
+  "total_fetched": 60,
+  "unique_count": 60,
   "health_related_count": 27,
   "news": [
     {
-      "id": "422b20e38201",
-      "title": "Em 1984, a NASA enviou cerca de 3.400 abelhas ao espaço para descobrir se elas conseguiriam construir favos sem gravidade, e o resultado surpreendeu os pesquisadores - Super Rádio Tupi",
-      "published": "2026-10-06T00:06:22+00:00",
-      "summary": "Em 1984, a NASA enviou cerca de 3.400 abelhas ao espaço para descobrir se elas conseguiriam construir favos sem gravidade, e o resultado surpreendeu os pesquisadores&nbsp;&nbsp;Super Rádio Tupi",
+      "id": "af9662aa62c8",
+      "title": "Material radioativo roubado de van é localizado em terreno baldio em SP; produto seria usado para tratar paciente com câncer - G1",
+      "published": "2026-10-06T11:09:24+00:00",
+      "summary": "Material radioativo roubado de van é localizado em terreno baldio em SP; produto seria usado para tratar paciente com câncer&nbsp;&nbsp;G1",
       "sources": [
         {
-          "name": "Super Rádio Tupi",
-          "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNUEFQRXl1XzFiYUVyVXFycnBMMGF3ZFB4bFp0OHZIdWtDNnN5N3lINks5SmhGZHhBajJhd3Z2a0VQS2xaU0d1YjFQTWhEMjNqcFFoNmwwSWpHdkplU3lLNUhfRzRvZy16cGQ1UTRsSDFrV1J0ejR1N0dxWkxjY3ZnanFUb0JrV01VeWJqRkwzSDlJRkVBMWlmZnVqTmdoWEZyUDFDVXo3dnMwdkpkZ0MxZTduLTJzc1lxUHhzZC1yNzVrMEYtbklTR3NBOXRfb0RjaU1JNmZqcHl2V2lQdWlYcmcwMVR2VDVJaHBaRkM0WmFMY2JfZlo1aHVDZGpvR1NoZVNDR3IzNlp6TEJXRmlMUm5oUFdWeXRsd2c?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOcWQtNTdpTzNOc3dUNll5Qy1HYnh3a2hDWGUxemJYMG9pMElfckNoMFk5bHAzU1JjUTVnalVQeENjdXpMU214OEplQW5icWxvdGV1a0pYZnZoR0V3LUhzU0d5cjg2SjIxTkJqS2g2LXNmQkNSQXFCNTJmVnZhc0JxRDJJWnNFbXJGRnhnTGV5azdxTkdlN1B4TlM3VVRzRmptZVp6Vmd4QmFSa2lOLWd1S1Y0Y3I2LTUybnlJeWZIZ25wMUxMUmI4cFMzVWpSWkR2ck9QM2RuUmdENlR5QzZXbXhUUkl0NnlWRW1wUUd3Z3RMWTJldXczWGxWa1QxTkxvTUtOZFpaZzNCZVYzYVFV0gGeAkFVX3lxTE9NaHY4SU5GdFVyaEwza2dKZ1hreXhsblhFcThyQ2M1SUlEZHpXWlVNQ3RlS3FlM0t0T1BuOF83NlRPNVpsZDFxSnl5Q3JldlpFWVBOQ1V4Y0QzQ3Q5QTduaDE4OGFYdGUzVGJoekxDR191cmp5cG16UHl1TWFNUjNSVGlUa3g4ZlNJRWpxd0VHRk94bzJtSHdHRGFGamJmb1VEZEpQZ2NqdHJiVWVKZTg4cDJtX0ZaeGVYYXhPU2tLZnlzbDJUNVFHYVQ0V1hBbW5taDdFS2xBZHc3b1NqdXJMR2hrbXNKakJFSDZrYVFua21BclhsQWVfTEM0WTZEZjE3T25YQ0s1YmQ2cDJuOGNMa1QyMW02SVItWWtpYnc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "88db713cf12b",
+      "title": "Câncer cresce mais rápido entre jovens, aponta pesquisa internacional - UOL Notícias",
+      "published": "2026-10-06T07:51:32+00:00",
+      "summary": "Câncer cresce mais rápido entre jovens, aponta pesquisa internacional&nbsp;&nbsp;UOL NotíciasPesquisa mundial revela que até sete tipos de câncer tem aumentado entre jovens&nbsp;&nbsp;CBNCâncer cresce mais rápido entre pessoas com menos de 50 anos, aponta pesquisa internacional&nbsp;&nbsp;ncnews.com.br",
+      "sources": [
+        {
+          "name": "UOL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZ25Fc0Z1Zl94X3hrbHB0OWlQYmZDcGI4Ul82S3NmM28wMENKbkptTGg2NHQ3YWlualgybnZCSS1ua294NlJET0E2cEVVQ3hoRmRGWXVlVFNQdHV3bmZKdUhFWnlobFlWbmZPQkJhZ0c0b2JCQ052NG9mNEViYVdHS1pJTUF3ZUFsS1RNNEZ2SDdvLWEtelJFc1FJRlVwLTFtaXNqbm1MMllUdExYUzJKN3dVS3h3QUR0U2xneEEtN1dTcF9lNVFSek1iQnVFMjRzLVRGcDBoUnE4WTA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1c3720a19468",
+      "title": "Nova York declara emergência após 108 casos de sarampo - UOL Notícias",
+      "published": "2026-10-06T07:10:21+00:00",
+      "summary": "Nova York declara emergência após 108 casos de sarampo&nbsp;&nbsp;UOL NotíciasNY declara emergência de saúde pública por causa de sarampo&nbsp;&nbsp;G1Nova York declara emergência por surto de sarampo&nbsp;&nbsp;Agência BrasilNova York declara emergência por sarampo após registrar mais de 100 casos&nbsp;&nbsp;EstadãoPensilvânia, nos EUA, ultrapassa mil casos de sarampo e soma cinco mortes&nbsp;&nbsp;UOL Notícias",
+      "sources": [
+        {
+          "name": "UOL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOHl5REpyVmc1OGgyY2c5Tk5nWDYzWDh4QmZ3bTZvRXNrcC1GVGsyWXduSXB4UEw1THA0bkRCaGJrUlpBcFdxQkFlZzE0WnFuUUgyRWNxQXBIdm5EX2pId21VbWgtblJpZnJIRXVDeFR4am9meWV4dVJYaEdDNVgyeUlKT1IzUlZtaDR6dUhERG1YeUxrTGZNTEd4T01IOHM1eUFYLU52MF9KdDNPUFFlMmxTXzBlY2d3Ums1bEVpa0Jvcm1yYXNiZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "484ce5178168",
+      "title": "Perda de gelo na Antártica já é inevitável, aponta estudo - noticias.r7.com",
+      "published": "2026-10-06T05:00:01+00:00",
+      "summary": "Perda de gelo na Antártica já é inevitável, aponta estudo&nbsp;&nbsp;noticias.r7.com",
+      "sources": [
+        {
+          "name": "noticias.r7.com",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQkJyM2lHWUF3bVNlTGp3MEdTMU80Q2o1WF9kbVlLVlp3LVVGZFFYZkN3b2Jfam9tX1lMZjVDaGpUSlBlZllpUXN6NHB6cEFMNVpNTFRhOUhRcHA1RWhXcGJSbVlFZzVlSW4yS3FoMk1XM2pfRlZxaWZaZldzXzBsTlBRZkFVYU92SmIyLWRCbHl0NGtyc2s1Y0FGYnB5U2F4NXNOVFBMaTFWNDNqSUVtQ2cyS0Q?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "af2968b194f6",
+      "title": "Por que ter um corpo forte ganhou espaço na conversa sobre beleza - O GLOBO",
+      "published": "2026-10-06T05:00:00+00:00",
+      "summary": "Por que ter um corpo forte ganhou espaço na conversa sobre beleza&nbsp;&nbsp;O GLOBOPor que, com o passar dos anos, devemos pensar em ganhar músculos?&nbsp;&nbsp;TerraEnvelhecer com saúde: massa muscular é essencial para preservar a autonomia&nbsp;&nbsp;noticias.r7.comEstudo aponta falha na comunicação entre nervos e músculos ligada à perda de força em idosos&nbsp;&nbsp;Fala Você NotíciasPreservação muscular, óssea e metabólica após os 40&nbsp;&nbsp;guairanews.com",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZUV3VGZlLXJMc3BtdW1PZTFFNWJhSnFHRnI3RGVvbG83cXJCLTB4OUFTMzZHdEVMM09YSmJIN1dDcG0wZUk3SmJZcUJfNFpLSTlHV3BoN083WVhmTHJmRHVDbzdJUy1zX3BoTldPVzRnVXl4dlNKTk1taWkzRkZmLVFxeTZDblNRZllRaktyMVRPMXhwNGxNX2RMd3FWeElkQnVocGQxbG4zWFRhMVVZcG5nRkpmX19zSkpZ0gHKAUFVX3lxTE5EZ1pYbFVRZm53VXB4em51UnJmU2N6Yk1xcUk0ZEI0MWFnaXFKbmR6WGN4dm9mT0RoQmZFSElwYXR6eS02X1hLWnRKWC1xVHZiU05JNFpwRjhCbkEwbHdSb3VDZ3hfbVNTMVhfRnE5ZjZHb01RVFNBTDc0a2VucXJ1akJpeGMzaU5hSW5fd3RrSHUwMjlSTkEtUWdGdGpTT0t1VmZaSDBIVHN5WENJNEp5SVpyMTk3N2VHRktRc2wzSFhUdkdaSDdodGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6482a9c4ff14",
+      "title": "5 sintomas gastrointestinais que você nunca deve ignorar - 05/10/2026 - Equilíbrio e Saúde - Folha de S.Paulo",
+      "published": "2026-10-05T22:00:00+00:00",
+      "summary": "5 sintomas gastrointestinais que você nunca deve ignorar - 05/10/2026 - Equilíbrio e Saúde&nbsp;&nbsp;Folha de S.PauloSPG lança alerta: seja pontual com a sua saúde digestiva&nbsp;&nbsp;HealthNews5 sinais de um intestino pouco saudável, que podem até ser um sinal de alerta para o câncer.&nbsp;&nbsp;Vietnam.vnDiagnóstico precoce pode elevar chances de cura em casos de câncer do aparelho digestivo&nbsp;&nbsp;arenadenoticias.com.brFarmaPodcast 115 – Setembro Verde | Prevenção e conscientização sobr",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaEdRTk9laFpIaXJLcTBRUHI2T3dOOWVXYkNpQm8ydXNDamc0V2dMTVlOc0Y4X1U5RnNJNXl3VjlUREJuRkxDLW9IV0xDaVdlR1doSWF6Ui1sdDlGb0FGUlZnd1VyczRaYV9TRDFaTU5TMFlWXzVHZGVpTUJyYVJ5WEYwUmxiY01ZOXNpemU4V2hKOVl6ZTJKVkhWTWRWeEFrODhfcEdNM29aN1VaTVY3UHdRcGd0UXlw?oc=5"
         }
       ]
     },
@@ -30,9 +90,33 @@
       ]
     },
     {
+      "id": "d2f0dc4ee115",
+      "title": "Por que seu corpo acumula 'células zumbi' com a idade, segundo este estudo - revistagalileu.globo.com",
+      "published": "2026-10-05T21:28:03+00:00",
+      "summary": "Por que seu corpo acumula 'células zumbi' com a idade, segundo este estudo&nbsp;&nbsp;revistagalileu.globo.com",
+      "sources": [
+        {
+          "name": "revistagalileu.globo.com",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWXlYTENHYTh4N3JYT3F1WVU5eGxudEJ0a3FfcjJhSjlZOTBWYkpNOEp0QnJiMnZpQ2lKNzdSa3lmZDBCSlZ5Qkd3NXktRmRQbXJ3S3BnQnR2dmJHZ29HSU90eTFEUmRVZmNfdEV1ajkzeGo4VVktdGN2aHRVbzdybTdBYmFJM19feVppTUlHN0MzczdNNGllaTNTclBHRFlWUDNHb3dDblFUVVd0aWdpcHVtenhyVXRJUDZIaF9Td2JLUFVGamxaZ1NUUDTSAdsBQVVfeXFMT0k4TEpncTZ4UkljYXppNE54dy1ZYmRNbTNHeGdSZVVOLXY5OElYU2VOUVgtVXpsc0ZNMkE1RHVBZXVsOHR1eXRFQng5NThIQkdHVGpDYnNOQ2tmXzVZU3ZhLVd0NEFvOExvMTF6MTZaUDBGZmVtd1RjYTloX094RHpkamZXUWlCdmQ0anRjdWNGN2g0enljVkl4cVh4M01UUmVMa0lwQUo0TFJUT0d2MVpyQkdja05QUFVaeE9xQ3B1ZC1aREtndjFJTjYzMHpuMFd2amNXaFEwSjdF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "26f7c10ff88d",
+      "title": "Humorista Renato Albani revela diagnóstico de paralisia de Bell; entenda a condição - R7 Entretenimento",
+      "published": "2026-10-05T20:59:33+00:00",
+      "summary": "Humorista Renato Albani revela diagnóstico de paralisia de Bell; entenda a condição&nbsp;&nbsp;R7 EntretenimentoHumorista Renato Albani revela diagnóstico de paralisia de Bell: 'parece que tomei anestesia de dentista'; VÍDEO&nbsp;&nbsp;G1Humorista Renato Albani revela diagnóstico de paralisia de Bell: 'Cara estranha'&nbsp;&nbsp;UOLRenato Albani revela diagnóstico de paralisia de Bell; entenda o que é&nbsp;&nbsp;A GazetaRenato Albani revela diagnóstico de paralisia de Bell: ‘parece que tomei anes",
+      "sources": [
+        {
+          "name": "R7 Entretenimento",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTUpmUFpjaUJ4MENCa2JKV2lXUk90VVFoWklqeEVuS2lfMDM4VW1JLTFGX3BMN3k5eFh3US0wRHFCM05YM1NmVVpRMDNubFpvOTZCaW1zWjFmWUVJUnNQRnZ5N0liakY0a2pLa0pBYW5HQXB4OUt0cWdSS3FNU3RXS3l1RExWRndNU2JqOGd1bk1QZ2ZxT2xid0h4UGZKUV8ydG1CMHZUZmZsMy0zTVhldUpueWVUbGNrOV9Mci10bU5IalNLekwzRE1vVm9Nb0x2?oc=5"
+        }
+      ]
+    },
+    {
       "id": "0df663f2a0cc",
       "title": "MCR Amidos abre processo seletivo para vaga de Auxiliar de Laboratório em Mercedes - Aqui Agora",
-      "published": "2026-10-05T21:33:59+00:00",
+      "published": "2026-10-05T20:44:15+00:00",
       "summary": "MCR Amidos abre processo seletivo para vaga de Auxiliar de Laboratório em Mercedes&nbsp;&nbsp;Aqui Agora",
       "sources": [
         {
@@ -42,21 +126,21 @@
       ]
     },
     {
-      "id": "3a3820636b29",
-      "title": "Por que seu corpo acumula 'células zumbi' com a idade, segundo este estudo - Globo",
-      "published": "2026-10-05T21:28:03+00:00",
-      "summary": "Por que seu corpo acumula 'células zumbi' com a idade, segundo este estudo&nbsp;&nbsp;Globo",
+      "id": "872f0013c14a",
+      "title": "Em 1984, a NASA enviou cerca de 3.400 abelhas ao espaço para descobrir se elas conseguiriam construir favos sem gravidade, e o resultado surpreendeu os pesquisadores - tupi.fm",
+      "published": "2026-10-05T20:38:02+00:00",
+      "summary": "Em 1984, a NASA enviou cerca de 3.400 abelhas ao espaço para descobrir se elas conseguiriam construir favos sem gravidade, e o resultado surpreendeu os pesquisadores&nbsp;&nbsp;tupi.fm",
       "sources": [
         {
-          "name": "Globo",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWXlYTENHYTh4N3JYT3F1WVU5eGxudEJ0a3FfcjJhSjlZOTBWYkpNOEp0QnJiMnZpQ2lKNzdSa3lmZDBCSlZ5Qkd3NXktRmRQbXJ3S3BnQnR2dmJHZ29HSU90eTFEUmRVZmNfdEV1ajkzeGo4VVktdGN2aHRVbzdybTdBYmFJM19feVppTUlHN0MzczdNNGllaTNTclBHRFlWUDNHb3dDblFUVVd0aWdpcHVtenhyVXRJUDZIaF9Td2JLUFVGamxaZ1NUUDTSAdsBQVVfeXFMT0k4TEpncTZ4UkljYXppNE54dy1ZYmRNbTNHeGdSZVVOLXY5OElYU2VOUVgtVXpsc0ZNMkE1RHVBZXVsOHR1eXRFQng5NThIQkdHVGpDYnNOQ2tmXzVZU3ZhLVd0NEFvOExvMTF6MTZaUDBGZmVtd1RjYTloX094RHpkamZXUWlCdmQ0anRjdWNGN2g0enljVkl4cVh4M01UUmVMa0lwQUo0TFJUT0d2MVpyQkdja05QUFVaeE9xQ3B1ZC1aREtndjFJTjYzMHpuMFd2amNXaFEwSjdF?oc=5"
+          "name": "tupi.fm",
+          "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNUEFQRXl1XzFiYUVyVXFycnBMMGF3ZFB4bFp0OHZIdWtDNnN5N3lINks5SmhGZHhBajJhd3Z2a0VQS2xaU0d1YjFQTWhEMjNqcFFoNmwwSWpHdkplU3lLNUhfRzRvZy16cGQ1UTRsSDFrV1J0ejR1N0dxWkxjY3ZnanFUb0JrV01VeWJqRkwzSDlJRkVBMWlmZnVqTmdoWEZyUDFDVXo3dnMwdkpkZ0MxZTduLTJzc1lxUHhzZC1yNzVrMEYtbklTR3NBOXRfb0RjaU1JNmZqcHl2V2lQdWlYcmcwMVR2VDVJaHBaRkM0WmFMY2JfZlo1aHVDZGpvR1NoZVNDR3IzNlp6TEJXRmlMUm5oUFdWeXRsd2c?oc=5"
         }
       ]
     },
     {
       "id": "d4c8d22be8e1",
       "title": "Conheça os sinais silenciosos de que o seu fígado pode não estar bem - Estadão",
-      "published": "2026-10-05T19:06:43+00:00",
+      "published": "2026-10-05T19:06:00+00:00",
       "summary": "Conheça os sinais silenciosos de que o seu fígado pode não estar bem&nbsp;&nbsp;EstadãoVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
@@ -66,14 +150,26 @@
       ]
     },
     {
-      "id": "2ddef15d4466",
-      "title": "Treinar muito é vício? Estudos podem superestimar a dependência - Globo",
+      "id": "8022728f0fba",
+      "title": "Treinar muito é vício? Estudos podem superestimar a dependência - revistagalileu.globo.com",
       "published": "2026-10-05T18:59:49+00:00",
-      "summary": "Treinar muito é vício? Estudos podem superestimar a dependência&nbsp;&nbsp;Globo",
+      "summary": "Treinar muito é vício? Estudos podem superestimar a dependência&nbsp;&nbsp;revistagalileu.globo.com",
       "sources": [
         {
-          "name": "Globo",
+          "name": "revistagalileu.globo.com",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQY0I3TDNJMUJRazRGMUVDQmFfblVVZllpZEFNV0p3N09yaGRqMzRVQ0hKSm03d2lMdG1zTF9keEc2LTNFd1RCMzZaX0s5WUhheEotdmpwV19ZUWdndWdFaEtUSjV2ckFkUG11cGhzRVFEVHZGdXAwUDRwcDdjT0J2RFo1bDRsc3lrQk9ZMHdTNjZqV2poR1Vxc0VtUGhtWjZPLU9xVFk3Q2JNdDNtc2pmVDhTZ3Fzd05GRmVjdlR2X07SAc8BQVVfeXFMTUlCeDBTY0FBR1JSS1dWSWprRVNic2R2aG9rN1VUR21NNW05SzBhYmNIaG9maTJGS1RNUnBEdDFJNFJwdDBKM2hmZGNBM2ZSOWNfbzZ1TmxjWFBsczJxaWk1REk2ZzBKNXFPd1UweTl0Q19mTDlMczd4b3E4T0czRzhHS2YzbGwxbWZrSGZDWGVEUnNMMmRTZlZ6NWFiNG91dmZoTjBVVEktenBlaUZzMlVxbWVBN1BoM2piNWllUnFITUZnZlh6bDVIdzdfTWFF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a966f2c86dc1",
+      "title": "Risco de rebaixamento do Ceará reduz para 1%; veja projeção dos estatísticos na Série B - diariodonordeste.verdesmares.com.br",
+      "published": "2026-10-05T18:30:00+00:00",
+      "summary": "Risco de rebaixamento do Ceará reduz para 1%; veja projeção dos estatísticos na Série B&nbsp;&nbsp;diariodonordeste.verdesmares.com.br",
+      "sources": [
+        {
+          "name": "diariodonordeste.verdesmares.com.br",
+          "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPVWI4VG1KYkdlcnFCUnJlc1hoVDYwOHdSYlRDR3pGLUtIRGFTMnhrWjQ2cWkyR0lfeTNMVGNETlBLa3c0VWFQR0xTNTQ1TS1GbC1mVnVKUk1ZQzBabXBfSlFNWU05VlNEVnNNc2VEQVAxNWlBaHZnbjl0ZFN1dEFXOXJFMzgyRWJoVzZwUS0yVFFBYWxuNFl1MVhFVl91M3RYYWZFaUlKcUZNTWhJZ01YY1hXb0F4em4za0dNUkNfOHVfNktieGpXNXhrbmhKZERnMlJ2TVBWNTV0SWZEUnZKV19jMzVKX0Y3dVFaTTRvY0F0b0RfbEdrN25WYXRCaERBTkVtTmtmaldLdXZTYTlzS2hPNUtPU1NBTVFvSXNsSnJydFNz?oc=5"
         }
       ]
     },
@@ -93,7 +189,7 @@
       "id": "13fb92562bb0",
       "title": "Cerca de 1 em cada 8 casos de câncer no mundo estão ligados a infecções - CNN Brasil",
       "published": "2026-10-05T15:07:54+00:00",
-      "summary": "Cerca de 1 em cada 8 casos de câncer no mundo estão ligados a infecções&nbsp;&nbsp;CNN BrasilOs vírus e as bactérias capazes de aumentar o risco de um câncer&nbsp;&nbsp;EstadãoUm em cada 8 casos de câncer pode ter como causa vírus ou bactérias&nbsp;&nbsp;UOLEstudo internacional aponta que milhões de casos de câncer poderiam ser prevenidos&nbsp;&nbsp;AcreNewsEstes 5 tipos de infecções causam 2 milhões de casos de câncer no mundo&nbsp;&nbsp;Globo",
+      "summary": "Cerca de 1 em cada 8 casos de câncer no mundo estão ligados a infecções&nbsp;&nbsp;CNN BrasilUm em cada 8 casos de câncer pode ter como causa vírus ou bactérias&nbsp;&nbsp;UOLEstudo internacional aponta que milhões de casos de câncer poderiam ser prevenidos&nbsp;&nbsp;AcreNewsEstes 5 tipos de infecções causam 2 milhões de casos de câncer no mundo&nbsp;&nbsp;revistagalileu.globo.comEstudo estima 2,3 milhões de casos de câncer atribuídos a infecções no mundo&nbsp;&nbsp;Afya | Home",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -102,98 +198,38 @@
       ]
     },
     {
-      "id": "2074536c492f",
-      "title": "Renato Albani revela diagnóstico de paralisia de Bell; entenda o que é - A Gazeta",
-      "published": "2026-10-05T14:16:00+00:00",
-      "summary": "Renato Albani revela diagnóstico de paralisia de Bell; entenda o que é&nbsp;&nbsp;A GazetaHumorista Renato Albani revela diagnóstico de paralisia de Bell: 'parece que tomei anestesia de dentista'; VÍDEO&nbsp;&nbsp;G1Humorista Renato Albani revela diagnóstico de paralisia de Bell: 'Cara estranha'&nbsp;&nbsp;UOLHumorista Renato Albani revela diagnóstico de paralisia de Bell; entenda a condição&nbsp;&nbsp;R7 EntretenimentoAcordar com a boca torta – será que é por causa de um resfriado? O médico exp",
-      "sources": [
-        {
-          "name": "A Gazeta",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQalRnSG83VU54d0hqNmNWdGdOV0lyQVFfZzJhUzZCYTN4cTZFaEoxVlNRSElScE5ya0hmbzJHSW1fc1h0dk11WFhnbG1sS3pCa0tNOWI2eEpiUkNiSnh4RE9teDl0TWQyLTJPNXBGdURDTE5zX1otcXFKTnZHRm13dE1Jd2RBOExXTk5nWFNUUkNXUy0tYzdMX01iel9rQTNzUkVFNjU3dUUzYWxNUmNr?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2d21176c2659",
-      "title": "Cérebro humano é formado por dois órgãos, revela pesquisa - ultimosegundo.ig.com.br",
-      "published": "2026-10-05T11:00:00+00:00",
-      "summary": "Cérebro humano é formado por dois órgãos, revela pesquisa&nbsp;&nbsp;ultimosegundo.ig.com.br",
-      "sources": [
-        {
-          "name": "ultimosegundo.ig.com.br",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYWwwN1cwblhGUlhwSkg1N29oNE9IeDhodV9zTXZSN2tkRmRYTHJlNXl0SF90WDZZVDhGTnpDZkhwVzgwUEdyejRnenpSQ056VElPMVNUcjdOSGxuN2Rib2xzZ0FFQ3dhYnY0dklVTUdJWmp0bjVYWXRZcUI5cXpUZXE1RkowNmtnWFJNY215Sks5dHAwSjBHYmtIYUYyNjR1VENVQlFQR0t6UlR2bG5VY3NB0gG3AUFVX3lxTE9IWHcyUFE5dUlKMGE1dF9mYkRBYllNWWZLX0hHN05ldW96ZW11VzlmOGd3d3VOaDBoNzdYNlBfNGFIaWlZUUZ1SDNuR2xWU2JfQnZ2eXEtVUg5NVlKS0x6T254em9KWWhqMG1oeXk4c2RxYlJTUkNFZjBrWWZfVFhwblFBUklLbUpxSmdFNGZkWEhYSVJqcEVMXzU2UGtIZVhDRTdvckdKRGFQcVVGWl9NeDZlcVZ5OA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "74de298f12c3",
-      "title": "Nobel de Medicina 2026 é concedido a três pesquisadores por descobertas sobre optogenética - oglobo.globo.com",
+      "id": "f846ef5d8c45",
+      "title": "Nobel de Medicina 2026 é concedido a três pesquisadores por descobertas sobre optogenética - O GLOBO",
       "published": "2026-10-05T09:32:44+00:00",
-      "summary": "Nobel de Medicina 2026 é concedido a três pesquisadores por descobertas sobre optogenética&nbsp;&nbsp;oglobo.globo.com",
+      "summary": "Nobel de Medicina 2026 é concedido a três pesquisadores por descobertas sobre optogenética&nbsp;&nbsp;O GLOBO",
       "sources": [
         {
-          "name": "oglobo.globo.com",
+          "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQVFYcjY2RWJPQjlUVjZlMFhQbkZCeDBobzRCRENEZnpUd2xoWW9jOFVSb2NTMEd3Y29XVHl0cTFqN1lPZHZybWNmcEZ1T3ZqSlN6OTh2ZzdjcVVFZWRGZXU4TUo2dThYUFF5NEFQSVZ5bXBJMVFPaXlHM0kycTM4N1FrWm9JZDBMRHZ6WVVOeC3SAZ8BQVVfeXFMT29JVjlWSEJjdU91eTlScDZuX0IyNExiVlRxU1dLV1lERkJmX3pKdXJjT05LOUlITXVtOWtrOGgwaHRVbmRmMlZucjVua0tPNUVRcEMySmdidlhRVHdZVVRFbjJkRmZzYjE4dG9xNzJpZlpabVJtTFl2c3VRTDlsQkVGeWFpN1Y3MTRUOERUVjVkVWxYVzRtS0Rqb0VLUFZZ?oc=5"
         }
       ]
     },
     {
-      "id": "8c67b70edda6",
-      "title": "Mosquitos da dengue avançam pelo planeta e aumentam casos da doença - oglobo.globo.com",
+      "id": "422fb31a05c7",
+      "title": "Mosquitos da dengue avançam pelo planeta e aumentam casos da doença - O GLOBO",
       "published": "2026-10-05T07:30:00+00:00",
-      "summary": "Mosquitos da dengue avançam pelo planeta e aumentam casos da doença&nbsp;&nbsp;oglobo.globo.comSurto atual de dengue na Flórida é o maior em décadas nos EUA continental&nbsp;&nbsp;UOL NotíciasSurto de dengue na Flórida é o maior registrado nos Estados Unidos continentais nas últimas décadas&nbsp;&nbsp;EstadãoSurto de dengue na Flórida ultrapassa 250 casos locais e provoca uma morte&nbsp;&nbsp;HealthNews",
+      "summary": "Mosquitos da dengue avançam pelo planeta e aumentam casos da doença&nbsp;&nbsp;O GLOBOCom Super El Niño, casos de dengue no Brasil poderão variar de 1 milhão a 5,6 milhões em 2027&nbsp;&nbsp;VEJAEl Niño: previsão de mais chuva e calor pode favorecer a proliferação do aedes aegypti&nbsp;&nbsp;radiosanca.com.brEl Niño pode favorecer aumento de casos de dengue e exige atenção&nbsp;&nbsp;Diário do NoroesteSecretaria de Saúde intensifica ações de combate ao Aedes aegypti em João Pessoa&nbsp;&nbsp;Por",
       "sources": [
         {
-          "name": "oglobo.globo.com",
+          "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZXNGeTZRZnJQQ1E5OXo5RTgtdm1CY2xiNjF3Sm9pMzQxOHI3Z2FyOW5sSktLblpCU2x2aEZZUS00RGNaNkVvQkpRbGFCSElOSmdtR0FuajdncEk2ckNDX1R4WFh1N0ZmS3BZT29LR2YzV3BIelB5MFZhZkpBWDJ5MjhJRkdxMkdBaEVtWXV2aEpRWU9Qb3BEYjAtY2xrZ0haNmxqZHJQTlF3UnhkMWJsVVNhMVhXRG9xNTRsc2ZFUXjSAc8BQVVfeXFMUExoQ2VybmsxT01jSXJhajQ4amhfQjdsbWdDSFJVVHN6RGxpRWtMN2U0Q0RpaXBSSjB1YlhRWjlBWndmNjdXaXFUMVdKNzdKcUdEMjRPU2xEN1o5bUZPYlVpQ000dmNxOWE2SW5Td05GdjFqbmkwV2xfbm9XbHV3eS02QlM4MnZCM29PUVhTclNDQ0NocnpQWlJEajl4QzIwdWpaUDZuVGpMY3hfWmRWNUZtOEh2YWk3XzZWNlktLWtIYWhhU1VsalB0ckk2S1pZ?oc=5"
         }
       ]
     },
     {
-      "id": "db07a9cb8439",
-      "title": "Especialistas em psicologia apontam: pessoas acima dos 50 que criam muitas plantas em casa não buscam só decoração, mas uma fonte diária de propósito e companhia - Super Rádio Tupi",
-      "published": "2026-10-05T04:40:36+00:00",
-      "summary": "Especialistas em psicologia apontam: pessoas acima dos 50 que criam muitas plantas em casa não buscam só decoração, mas uma fonte diária de propósito e companhia&nbsp;&nbsp;Super Rádio Tupi",
+      "id": "f9df19ceb817",
+      "title": "Especialistas em psicologia apontam: pessoas acima dos 50 que criam muitas plantas em casa não buscam só decoração, mas uma fonte diária de propósito e companhia - tupi.fm",
+      "published": "2026-10-05T02:15:52+00:00",
+      "summary": "Especialistas em psicologia apontam: pessoas acima dos 50 que criam muitas plantas em casa não buscam só decoração, mas uma fonte diária de propósito e companhia&nbsp;&nbsp;tupi.fm",
       "sources": [
         {
-          "name": "Super Rádio Tupi",
+          "name": "tupi.fm",
           "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQckpLbkg2N3FHTHVlVDJDc2llYU9sbVQwZEZ5aXkycnpoOEIwQ0VIdV85VjdlZmFIOEJXRGFZdy03Zmg3SXd2V0pYWF9DWGNVQ0lpaVJDamxKdUExT29CeDZFdTRtWmlkV2lKYW8zX3EtcmsyUURucnBXczc2ZVVtT1FjNnJaNlR4WWN1TklyZ0Z2d1ZKZU1GVXpMZDdiVHFjY3FnWWotckhSRUdfTERYb05tRVpvTkUzeUJKLV9xSF9mUWxDUExBSzhnNndqdk84Zmd1NTh4cTFLOHFKTVlZcFJ3eUhmaXNhN0VpTkVzRXVYT0RFZGxqTmdVMEQtTjJkdExESUp1QXc0SGN6Q1hWbkVNNDVSOW4tcVBsNGg1dG0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e40c9c3416d5",
-      "title": "No rastro dos átomos: o desenvolvimento e a aplicação de técnicas analíticas em um instituto especializado da USP - Jornal da USP",
-      "published": "2026-10-04T19:05:33+00:00",
-      "summary": "No rastro dos átomos: o desenvolvimento e a aplicação de técnicas analíticas em um instituto especializado da USP&nbsp;&nbsp;Jornal da USP",
-      "sources": [
-        {
-          "name": "Jornal da USP",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPX3pRa1BJcHpJOGx0S1g0d3ExLVZnUjUwcUtxYy01RVh1VDl3SVg0Q3BDYXpZSV9XYjh1ZVNxNVB4bXZwT19vbDJ6NEpVSmtlM2RMZU5WOTYwUDR5TnRxT3NxSzAzTFNPZENJaG8ySkhYUHZENnFhR1dKWjMwclNFa0hkblRyd1RrX0lhYkxXV2JuZ1F1TnBxWWhvRVFiSVpTVlNHV25DdVhnWkV2VGlrclhhM1VEQjEwRjI5dUtnb2ltOXFrNURObnkzQk9vTVd4UXR6VDdVcTlYSTBfS3hxcHNn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "40f687f58a24",
-      "title": "Mistura com 5 sementes pode reforçar a alimentação e ajudar na saúde dos cabelos - Rádio Itatiaia",
-      "published": "2026-10-04T15:13:12+00:00",
-      "summary": "Mistura com 5 sementes pode reforçar a alimentação e ajudar na saúde dos cabelos&nbsp;&nbsp;Rádio Itatiaia",
-      "sources": [
-        {
-          "name": "Rádio Itatiaia",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORWVLYWdkdzlVSmhzcXB2MTVRYlBDalI2VG1zQmFmcUgzWkQ4Mk5XR21wY3ZPMU1WMG5UODdIWkNEenJFN0FhRVB2NVdBYWFxSUExeTkwcldPOUxuMzQyM3d6WEZUTkpDbF9ZT2pRLWlZajFHbkV0ZllWSVhBUTdLWGdiaFA0cFNPNWl1U2xDdklyOUhvX0lkeS1WSDM5MkJGZVFZN3dmOTY2dmkxd2RJMnBhNTZrNlE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b499e1c43341",
-      "title": "Parar de fumar pode proteger o cérebro contra a demência, conclui estudo - Folha de S.Paulo",
-      "published": "2026-10-04T13:13:00+00:00",
-      "summary": "Parar de fumar pode proteger o cérebro contra a demência, conclui estudo&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcU1TQnpIY21ZTDF5ZlB1UFRLc2tEUUUwT2pKOThjRVE1NDdrRm5HSFQ3QlNBZVNjTzlMdUhNZllXZWg3bDc5STdReE1IZDVTWnBxcGVvV2lmLWN0dEdCeHkxZGFBYjdKUnYyekl0QzNJZzZMSFk5aURXRjFQUEdPQ1hDTnN2a1V5XzFGN1VsWFNvMkEtVndNT3dLQWlSZjV1S2ZPYTVLcWUybXZUNmZKZVVqc2tkTDJxdjVCekRyalNveFVn?oc=5"
         }
       ]
     },
@@ -206,30 +242,6 @@
         {
           "name": "Jornal da USP",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNY2NVb0Mtd1dsNk5fT0RzM2dUOFZJd0pQZmsta2ZPN0RialZicDFGQU9CbXdOQ05HWWp2bWV3NzFSOHBQT2R2dWxpT252TmlYSElVVTljbkhKUTMwblJ4X0FYcDFnVTEwWlBhVElEV3FhamFhMGdkQWVkRExlbFhoT2czMjl6LU1Cbnh3TVFqaGFEQXpWVW5vS19ueHZGekVteEdGVEhUckZtMzV3VkdockptQmdpUXBUbHplaDA4S1NGaDN1UzJ1bkFnREZZbkJB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1555f150b748",
-      "title": "Como o consumo de álcool aumenta o risco de desenvolver demência - Folha de S.Paulo",
-      "published": "2026-10-04T07:00:00+00:00",
-      "summary": "Como o consumo de álcool aumenta o risco de desenvolver demência&nbsp;&nbsp;Folha de S.PauloVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVXNmcWhUQm5US2JmXzdFYVFDdHY5d3VLVmNES0Qxb0dCdFI5X1BBaDhfaXFWM2M4dGVpM240N28wV3cxUnRURG9KV3ZpY1pERGxLY1FpdGRJRVBpZllXMVc3Y2EzOHFENXBlaWw4OGZrQ1BBVjRsS2JvMkVpQ0ZMRS05NEdsOUp5Y0Q3aFNKV3N0emJaM1JFU1FTN1dkU0hYSkdtSTk0MmR6TWZ6VWdveVBqb2xVSHZzTi1v?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e3a221211837",
-      "title": "Foi ativada pela primeira vez a nave de defesa planetária Ramses - O Antagonista",
-      "published": "2026-10-04T04:33:00+00:00",
-      "summary": "Foi ativada pela primeira vez a nave de defesa planetária Ramses&nbsp;&nbsp;O Antagonista",
-      "sources": [
-        {
-          "name": "O Antagonista",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQi1vUl9obGpvQWRiY0FYRkkySFA5WGxROUc4aDlQRlVHSmVleFdLS3NwTG5vM19XaEZ4bTNHMlhJelhvdUdnVk4tLTF1dldHUGUwdF9KY2JXQ0t0eUoydE1LZE8zLTlQNURINGd5WkZQTVdiV1dwLWRHVXZ6TzlFaEUwZklfdjE5TndJVzNwTC1uNnZpZ3NPY0o0Q3NtMVQtTHhzNFkySkNIZ0NnTGwtY2o5Sl9wdw?oc=5"
         }
       ]
     },
@@ -270,22 +282,10 @@
       ]
     },
     {
-      "id": "53dec0e1d68d",
-      "title": "Voz mais grave deixa o homem mais forte e atraente? Estudo investigou - UOL Notícias",
-      "published": "2026-10-02T20:05:31+00:00",
-      "summary": "Voz mais grave deixa o homem mais forte e atraente? Estudo investigou&nbsp;&nbsp;UOL Notícias",
-      "sources": [
-        {
-          "name": "UOL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNam40NkQxR0VIV01sNVJ1SmZyVXpIMmFNN05UYUcxRExmWUYySFJhRlFvSWxLbnFrSGZPQW5oaWxjcE9YaFJnamZuTmxEOGd1SFo1OTNha3hYN05kazRHd1JoVmxMMEdRS0xPa1lrSkhZZGhBenNDTS1FS1Q4ZU1uUUVONjJ3RDdUVGhoNWkyTmV2RlJDWTh1QUwyRTFqQS1CQW50cnZoUDlZaXhsbTQ2VE9rYzBrakJ0eTZRSjRjdkh3SU9CcU9HWHl2UmJ1T0NESXJaR2lTa1RSWVE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ad991ac9292b",
       "title": "AVC: Bahia registra mais de 74 mil internações em cinco anos; veja os sinais de alerta - Jornal Correio",
       "published": "2026-10-02T13:00:29+00:00",
-      "summary": "AVC: Bahia registra mais de 74 mil internações em cinco anos; veja os sinais de alerta&nbsp;&nbsp;Jornal CorreioO médico ficou com o coração partido ao ouvir a pergunta: \"Ele tem pouco mais de 30 anos, como pôde ter um AVC?\"&nbsp;&nbsp;Vietnam.vnAVC em jovens: neurologista alerta para fatores de risco e sinais que não devem ser ignorados&nbsp;&nbsp;Jornal OpçãoSinais de AVC: como reconhecer em poucos segundos usando o teste SAMU&nbsp;&nbsp;Brasil 247AVC em jovens: o risco também se constrói nos ",
+      "summary": "AVC: Bahia registra mais de 74 mil internações em cinco anos; veja os sinais de alerta&nbsp;&nbsp;Jornal CorreioFiz um check-up de rotina, ainda preciso fazer um exame de rastreio de AVC?&nbsp;&nbsp;Vietnam.vnAVC em jovens: neurologista alerta para fatores de risco e sinais que não devem ser ignorados&nbsp;&nbsp;Jornal OpçãoSinais de AVC: como reconhecer em poucos segundos usando o teste SAMU&nbsp;&nbsp;Brasil 247AVC em jovens: o risco também se constrói nos hábitos do dia a dia&nbsp;&nbsp;areda",
       "sources": [
         {
           "name": "Jornal Correio",
@@ -309,7 +309,7 @@
       "id": "5b9ddfb0276a",
       "title": "Boca seca, mau hálito e desgaste dos dentes: efeitos das canetas para obesidade na saúde bucal - Estadão",
       "published": "2026-10-01T08:30:00+00:00",
-      "summary": "Boca seca, mau hálito e desgaste dos dentes: efeitos das canetas para obesidade na saúde bucal&nbsp;&nbsp;Estadão'Chorei querendo comer': o efeito silencioso das canetas emagrecedoras&nbsp;&nbsp;UOLCaneta emagrecedora: quando perder o apetite deixa de ser uma vantagem?&nbsp;&nbsp;oglobo.globo.comVida em Equilíbrio debate canetas emagrecedoras, testosterona e peptídeos com Dr. Ian Branco&nbsp;&nbsp;Bahia NotíciasNutri alerta sobre riscos de usar canetas emagrecedoras sem acompanhamento&nbsp;&nbsp",
+      "summary": "Boca seca, mau hálito e desgaste dos dentes: efeitos das canetas para obesidade na saúde bucal&nbsp;&nbsp;Estadão'Chorei querendo comer': o efeito silencioso das canetas emagrecedoras&nbsp;&nbsp;UOLDe lagarto a medicamento: a ciência por trás das canetas emagrecedoras e como o tema pode cair no vestibular&nbsp;&nbsp;G1Vida em Equilíbrio debate canetas emagrecedoras, testosterona e peptídeos com Dr. Ian Branco&nbsp;&nbsp;Bahia NotíciasUso racional de canetas emagrecedoras e desafios para a atuaçã",
       "sources": [
         {
           "name": "Estadão",
