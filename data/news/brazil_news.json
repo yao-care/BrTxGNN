@@ -1,10 +1,58 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-10-07T12:50:55.131672+00:00",
-  "total_fetched": 60,
-  "unique_count": 60,
-  "health_related_count": 28,
+  "fetched_at": "2026-10-07T22:51:22.037614+00:00",
+  "total_fetched": 62,
+  "unique_count": 61,
+  "health_related_count": 25,
   "news": [
+    {
+      "id": "67ae8d8ba778",
+      "title": "Lúcia Helena: Mais que um calorão: os fogachos da menopausa colocam o coração em risco - UOL",
+      "published": "2026-10-07T22:31:36+00:00",
+      "summary": "Lúcia Helena: Mais que um calorão: os fogachos da menopausa colocam o coração em risco&nbsp;&nbsp;UOLCalorões da menopausa estão ligados a maior risco cardiovascular&nbsp;&nbsp;CLAUDIA - o sentido femininoSinais nas pernas ignorados: risco de infarto cresce seis vezes em mulheres&nbsp;&nbsp;Правда.РуInfarto em mulheres: por que os sinais passam despercebidos e o risco é maior?&nbsp;&nbsp;Jovem Pan",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObHRkeXpITGp6cHVDcTdVVXBVa083eXNmbXdJM0pjbEhMdzRXYVRfYUpBNDFpRVlEQVdMSGVlaUcyOUd4YnZrWVEwR0RhVFZhVkxqcmV5bkVGa1NOMkZtNmdjQ0kyR1lrckdHeEtGOXZVUllJY2haZ1dZX2M2RXh1cEREd1JOWExxYWtQU1hzcE5wbWY3S0lfeGhFZkZ3T0FxZnZGNGtQRmRoSzJGa0REeUJMOUdlYnB2OEd2RkF2N1VhTEI4NWZkNGl0R3lfUWtCUEZabA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2a0f7902c193",
+      "title": "OMS lança guia para enfrentar obesidade em crianças e adolescentes - Agência Brasil",
+      "published": "2026-10-07T12:11:00+00:00",
+      "summary": "OMS lança guia para enfrentar obesidade em crianças e adolescentes&nbsp;&nbsp;Agência BrasilOMS recomenda dieta e exercícios em vez de canetas para crianças com obesidade&nbsp;&nbsp;Folha de S.PauloOMS alerta contra uso de remédios para emagrecer e bariátrica em menores de 10 anos&nbsp;&nbsp;G1OMS lança diretrizes para o tratamento da obesidade em crianças e adolescentes&nbsp;&nbsp;EstadãoOMS lança pela 1ª vez diretriz global sobre obesidade em crianças e adolescentes&nbsp;&nbsp;VEJA",
+      "sources": [
+        {
+          "name": "Agência Brasil",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLVUzX2hMc29jZEJqdlllRmlXLTJ3N2xBZ2pzT2xqMm9GQUdTUnZlRE1lYmFiYk1STUdES0NRVlRFMks2al9acXBPd1JtRUdzZW96NmlWRnhDVENIUm53ckNRck9UY3FHaUJGVWItQUVjeWtNV1hZMUV5NVFZWGg4dEduSUNvMmdaNURwaE1OMVJFSG9WSG1SYTRLSjFjZ3FkU2hvdGJVV0wtb3dzQlpuQTBxd29TMW90NGdSY2Zn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b6711f578b22",
+      "title": "Antena de plasma inovadora transmite e recebe ondas de rádio - Site Inovação Tecnológica",
+      "published": "2026-10-07T11:02:46+00:00",
+      "summary": "Antena de plasma inovadora transmite e recebe ondas de rádio&nbsp;&nbsp;Site Inovação Tecnológica",
+      "sources": [
+        {
+          "name": "Site Inovação Tecnológica",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcHVHWGViTE5xTHFuUGRQbEozYWhadi1GNjVpczdDdFZpWnhNQTh4WVNYTENXQ1BKd3I2YTZ3Qjd0ajhkcERrSlNzdGc4QW1ERTVpQ0d3LWdBQzA5TjJwUk5USmZGQ2FLdm1aLVhBLWllWGlLUEEyaGc0V1g4UnVpMzNCd3JodTVZMHBMalBjTGxjY1Z5UzE0a3ZPdTA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2612919fe1d7",
+      "title": "\"Toda mulher é uma joia rara\": pacientes com câncer de mama aprendem a produzir joias no ES - Folha Vitória",
+      "published": "2026-10-07T11:00:00+00:00",
+      "summary": "\"Toda mulher é uma joia rara\": pacientes com câncer de mama aprendem a produzir joias no ES&nbsp;&nbsp;Folha Vitória",
+      "sources": [
+        {
+          "name": "Folha Vitória",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSUdTN01GaUZjWGlBZGROWTdZdFFIZ0c3bGpfeDRXZVQ4OWVNaGU4bmdNTzl3VTdzNjIxMmp6V3lTcFM5ZE1zNGNUMGRXRURTaGdwZEI1WG9vZGZYNXZxYWlZWnFyMnZCRExna1JXWl9WRXdoNzgzTkRPNGVIaGZvY1ZyVU1WcjdqOEtmcnI5RWdDMEVJSlEzZEFNV1g5ZjN1dXVoUFZzN1BZM1hQa0FPUkJ6Z2NlS25HbzNBeDRLTWRxbVVGTGo0ejVVOEZ3ajNOTjdmem8xbGY?oc=5"
+        }
+      ]
+    },
     {
       "id": "1aa77ad16599",
       "title": "Nobel de Química 2026: entenda pesquisa que revelou o mistério das moléculas espelho - G1",
@@ -18,22 +66,10 @@
       ]
     },
     {
-      "id": "7811e073e95b",
-      "title": "'Depressão que ninguém via': o luto que marcou o 'Hermes & Renato' - UOL",
-      "published": "2026-10-07T09:37:53+00:00",
-      "summary": "'Depressão que ninguém via': o luto que marcou o 'Hermes & Renato'&nbsp;&nbsp;UOL",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObnJxZVZ1eTZuUjR0TDhMMjlPcUFiTURZR2pEUkhldlEyTkg1LWJWaS11YlRhWUg4LTJ0VE1KTGEyLXdPbkJ6bVhqNW9vZUszbkNJYkFVa2dLR21ueXFfQnNRVEtuaFFSSE9uOXBOaVVvNWFrck1WWFRjeWNOa2pHYjlzZXl1RzAwWlFjNW5LakV0Rkd5Y0cyektoNDlxbnB4cGxMODd3NExFeFNtaUp0UmNfdzB4cHBRVEJLS2NWa2E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f638dea6ccab",
       "title": "Por que é mais difícil emagrecer ou manter o peso controlado na menopausa? - UOL",
       "published": "2026-10-07T08:31:00+00:00",
-      "summary": "Por que é mais difícil emagrecer ou manter o peso controlado na menopausa?&nbsp;&nbsp;UOLTransição para a menopausa: o que acontece com o corpo durante essa fase?&nbsp;&nbsp;GZHSaiba como identificar os sintomas da perimenopausa&nbsp;&nbsp;O GLOBOEsquecimentos na menopausa? Veja 6 hábitos para manter o cérebro ativo&nbsp;&nbsp;TerraEntenda a relação entre menopausa e resistência à insulina&nbsp;&nbsp;GPS Brasília",
+      "summary": "Por que é mais difícil emagrecer ou manter o peso controlado na menopausa?&nbsp;&nbsp;UOLSaiba como identificar os sintomas da perimenopausa&nbsp;&nbsp;O GLOBOEsquecimentos na menopausa? Veja 6 hábitos para manter o cérebro ativo&nbsp;&nbsp;TerraTransição para a menopausa: o que acontece com o corpo durante essa fase?&nbsp;&nbsp;GZHDia Mundial da Menopausa reforça a importância do acompanhamento profissional e cuidados individualizados para a mulher&nbsp;&nbsp;istoae.com.br",
       "sources": [
         {
           "name": "UOL",
@@ -42,14 +78,26 @@
       ]
     },
     {
-      "id": "279b705734a6",
+      "id": "146cc669a246",
+      "title": "Estudo identifica “aumento significativo” de casos de cancro precoce - Público",
+      "published": "2026-10-07T08:30:00+00:00",
+      "summary": "Estudo identifica “aumento significativo” de casos de cancro precoce&nbsp;&nbsp;PúblicoCâncer de próstata: número de casos em homens mais jovens triplicou nos últimos 22 anos; entenda&nbsp;&nbsp;O GLOBOCasos de câncer cresce mais rápido entre jovens, diz pesquisa internacional&nbsp;&nbsp;UOL NotíciasCasos de câncer de início precoce crescem entre pessoas mais jovens&nbsp;&nbsp;Afya | HomeCâncer cresce mais rápido entre pessoas com menos de 50 anos, aponta pesquisa internacional&nbsp;&nbsp;ncnews",
+      "sources": [
+        {
+          "name": "Público",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONWlVS2tJdjExelBaQy1ITUpxSlpTSjFPX0h4Y3lxRFBFWUNIQXBFZ2R6T3Y5SWdadFVGQ0x5Nm93VUwtbnVCanFIR3VNUU1DX3BvNmhmTHB4UzZCdVh1cEJBRXFfdUFNZlIwMS1vQlBwMTlocURPT0M4UjNNdWc3d0NPRThjZ0psRGJjbDdWNmNBal90VUxIUHlaUHgwX05BOVEwWWUzUEc1TDNTUVVxemRnVm04NUIzbkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "288e8fa621c5",
       "title": "Esteatose hepática: nova diretriz não olha só para gordura no fígado para definir riscos do quadro - Estadão",
       "published": "2026-10-07T08:30:00+00:00",
-      "summary": "Esteatose hepática: nova diretriz não olha só para gordura no fígado para definir riscos do quadro&nbsp;&nbsp;EstadãoGordura no fígado não vem apenas da gordura que você come&nbsp;&nbsp;Jornal da USPGordura no fígado atinge 30% da população mundial; saiba como evitar&nbsp;&nbsp;Costa NorteUm tipo de bebida que \"destrói o fígado\" mais rápido do que comer carne gordurosa: \"Amada por milhares\", muitos se surpreendem porque... estão tão familiarizados com ela.&nbsp;&nbsp;Vietnam.vn5 piores alimentos",
+      "summary": "Esteatose hepática: nova diretriz não olha só para gordura no fígado para definir riscos do quadro&nbsp;&nbsp;EstadãoGordura no fígado não vem apenas da gordura que você come&nbsp;&nbsp;Jornal da USPGordura no fígado: o alerta silencioso que pode levar ao transplante&nbsp;&nbsp;Estado de MinasUm tipo de bebida que \"destrói o fígado\" mais rápido do que comer carne gordurosa: \"Amada por milhares\", muitos se surpreendem porque... estão tão familiarizados com ela.&nbsp;&nbsp;Vietnam.vnDiretriz atual",
       "sources": [
         {
           "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPY3V2ZUtqY2hVS1BBN3J5RFVTVURrMWZkLTh3S0xJMXdiX05UaGt5MmEtNkNkREhJRVoyem1TSGRrdXJJaHl2VnFtOGVTYUY0V1U3cFNRRENXbVB3aUdMbjM4X3F3TkwwQkZoN0ZIYnNSUmJBNXlOZTZwTzZsY3BkY1ZweHNIS3ptZEkzMzN4U285VUo0Y2lhRjZaaE5YbEpqSk16Nnpfdk9BMTJ4a2Y1NjRBb1hxYzhjOU1SWGFiREs0WkpJeC1sTlZBTXdrYjZJeFZVcnhjZ2E1MW9vZXhiNVhYNVTSAeoBQVVfeXFMTWFBeGQ1bHhiQkVUNHpuT01MMVU4NFZiSnNEWGthNU5nSWFjRk9PbWZrVFIyMUd3OUFiV0VBcWc5UXl1eHpDVU52SnhNdE1zWUFnWE8wclJYOFNZV29hdXJRVWhZakVvb3lfXzRCMjZrR3RMWkRaNW5lQjQ2ZXdUM0hVdDVpVnhEZWs2Q1doRjRvNW1EbldmR3ZTaUlNTTF6NHAxR3lNQjZVT0UtSUFYUlFuamxNWGFmc0gwSlBLY0lKRmpjMThNbzY3V1Vma1cwb2ZRcl9xdVFzYUo0VmNxMEg5UTNGcE1CNHln?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPY3V2ZUtqY2hVS1BBN3J5RFVTVURrMWZkLTh3S0xJMXdiX05UaGt5MmEtNkNkREhJRVoyem1TSGRrdXJJaHl2VnFtOGVTYUY0V1U3cFNRRENXbVB3aUdMbjM4X3F3TkwwQkZoN0ZIYnNSUmJBNXlOZTZwTzZsY3BkY1ZweHNIS3ptZEkzMzN4U285VUo0Y2lhRjZaaE5YbEpqSk16Nnpfdk9BMTJ4a2Y1NjRBb1hxYzhjOU1SWGFiREs0WkpJeC1sTlZBTXdrYjZJeFZVcnhjZ2E1MW9vZXhiNVhYNVQ?oc=5"
         }
       ]
     },
@@ -66,14 +114,38 @@
       ]
     },
     {
-      "id": "07ff72528993",
-      "title": "Nos EUA, surto de sarampo em comunidades amish faz famílias repensarem vacinação - Folha de S.Paulo",
-      "published": "2026-10-06T23:00:00+00:00",
-      "summary": "Nos EUA, surto de sarampo em comunidades amish faz famílias repensarem vacinação&nbsp;&nbsp;Folha de S.PauloQueda na vacinação faz Nova York declarar emergência por aumento nos casos de sarampo&nbsp;&nbsp;G1Nova York declara estado de emergência devido a surto de sarampo&nbsp;&nbsp;CNN BrasilEstado norte-americano enfrenta o maior surto de sarampo das últimas décadas, com mais de 1 mil casos&nbsp;&nbsp;Correio do PovoNova York declara emergência por sarampo após registrar mais de 100 casos&nbsp;",
+      "id": "a4df5cf36ef5",
+      "title": "Precisa mesmo tomar whey? Veja quando o suplemento faz sentido — e quando é desnecessário - G1",
+      "published": "2026-10-07T06:00:00+00:00",
+      "summary": "Precisa mesmo tomar whey? Veja quando o suplemento faz sentido — e quando é desnecessário&nbsp;&nbsp;G1As pessoas estão obcecadas com proteína?&nbsp;&nbsp;Portal Drauzio VarellaProteína É a Estrela do Mercado Fitness, mas Excesso Não Garante Desempenho nem Saúde&nbsp;&nbsp;Forbes BrasilVeja como organizar o consumo de proteína para ganhar mais massa muscular&nbsp;&nbsp;Bem ParanáComo distribuir proteínas ao longo do dia sem gastar mais&nbsp;&nbsp;Diário do Centro do Mundo",
       "sources": [
         {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbGFxUDFGWUZuTmdXcUVvZ3hhbjNfYWVRcWtuNmhjS1M4TmtoVE1LSGpWVnVscS1BbHNJVnBfNDNsci1oU01CQUpfUVBrTnBIVXBNTktGZEJIMGJVMjllaTNZNVgtM3Eyc01QeGxOUnUyNjNnZ2tkRTZjcWEyd21kbkNPUGVvdmVXZFI5NmZua3lPdmh6M29uV2ZDTUM2OHFMTjZmdUJvZVIxUWswekp3WE04TDl5S2IyY3hoYV9SS1pzTmJNWldfMVd1MXBUQUxKN0hLdTlMaw?oc=5"
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWVFQaWR1eVlTNTBlUUpqSVUxZUFtYW03aVZ3N2xJUnFxR0Fqbl9tWmhMRF9tRFhZWWxHTG9jUGtpeVhJTTRYSXFtQzdCTWdWVVRHSkg2SmdSaWVwXzlXTGM5dkF6Q2ZQNUsxWExzWVlvOW9GejlmNjRTNkwzY2NFRXBOQUhiaUpWTkh1VlZ2Tmp1VV90a3F4VWVVRkVMMi1tRnNpNi1iTklidE82UEhYMENBZklVVkxnNzE5WnhIWkdFdzVPdnZfZDhWVjAxTnE3VFFTZW5sNGhSX2pHR1BLaNIB7wFBVV95cUxNcnRHRndXNUljeHR5Snp4UlhvcW40WUFUVTVGTW5oNURFeC1GVl8zeWN5Xy1pamgzODlscDQ1Vk9sakhYUkZ3TllnUmFqVXJwMVdkNVkwZlhxVV9FZzNTaENsZDJzeWhTSmZvUWhOdVdaOGN4WUxhWTlWSE5HVGF2b3lYdEt2RlloZVR4b0JWUmRjb0pQZ1pHUTlPbGY3STRuaTRWMXhOT1BxVWtlVmlINmFxTXhxUTFlY25MeFFoVDQ4X3owZld4cGF6U01jaEJ5SFc4WFdQZ042XzF1WEoxYWZlc0NTWDYzYUpGQVV6MA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a3b93025e41d",
+      "title": "Animal minúsculo da Antártica mora e se alimenta em 'pequenos vulcões' a quase 1 km de profundidade; descoberta revela cem anos de mistério - CNN Brasil",
+      "published": "2026-10-07T03:37:50+00:00",
+      "summary": "Animal minúsculo da Antártica mora e se alimenta em 'pequenos vulcões' a quase 1 km de profundidade; descoberta revela cem anos de mistério&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPbnBYbm9lbHdPSXJSZ3REbWU2RmVyOExPTFJzU1NFa2dEaGc3TVVPdHV1aUU1UlJmak5fc0tmbnhxaDludDV4THhHdjEwT1MwSU5YbG9MY2tuYUZXRGZUVDJvQTE2dHpTcmlQM29hNTdsVUxsLVJqb0JMZmN2QWlubGJ1a25hcEROUFItM1dxSlpad3pTTU8tbUVUbVF2UmRxQzVFOUtIVHZjRFF5Z2l6T1R5cmZiNWs2c2xNYUtxcUlOQ1BJcnVMMzhOUUowdWx6S3VsLXRVSVA4YnhoR3lhb3dHckg2eHc5NTdqeTFFRGl2dkstT3psNFczX0F0cHRuaThySg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2e4de9e6deee",
+      "title": "Estudo mostra que exercícios físicos, como caminhadas, ajudam a controlar crises de asma - G1",
+      "published": "2026-10-07T00:53:58+00:00",
+      "summary": "Estudo mostra que exercícios físicos, como caminhadas, ajudam a controlar crises de asma&nbsp;&nbsp;G1Caminhada frequente ajuda a controlar crises de asma, aponta estudo da USP&nbsp;&nbsp;Diário do Centro do MundoAumentar os passos diários é tão eficaz quanto treino aeróbico no controle da asma&nbsp;&nbsp;Batatais 24hCaminhadas podem ajudar no controle da asma, aponta estudo da USP&nbsp;&nbsp;Jornal da FronteiraEstudo mostra como exercícios físicos ajudam a controlar crises de asma&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNXRBZXN1M0RlMFR0eHN1aWhnMUloTGF3enowZmRJbEtOZzhqcFhyVm5hNGd0XzMwbHhPbkdvYzQzMWVGeGlQam9fVEplNWg4aVJvcGZMRFhwYU96U01HVVhiMnVaTDduckVhVFY0SzJ4WnlYZkk5T2RfdjVUaFJnX0g1MVNzWWpVaWFIdE0tc1RtdTAwaWRjdURhNG9JbzNuUF9GOUdjcWc5OXhnXzdnNzltVTZ2eENkalpVTFZQVDhGcllMOGdBNE5XZ0JsMFF1dDlsc2JDVmRjT2tYdXo5N1VB0gHwAUFVX3lxTFBJdlJ3TTdKRHFyY3BZMmxFUURjZDNHRHlwaTJVVkR2ZVN1MGw1RjUyZVlWV3Z1UEdwTExFLW9iZVdSY0ZjQk9TaVcwX1BUMkc1VjN6dkVaYmEzV2tFY2d4TGhkYjJ1WEw2VkVWbVUtdzBGazI4WllMQTBTSC1kbW15QUF2MkJjd3RuUC1lcUowUXM5V3BuUFlJUjBlUUUzVXdtM1VTZXhNTUE3NzBBZ242eV9QTnNzT0d4bC1wVE1TS0VVRUpCWUl6Y0duUV9OTlB1S0luMHV5TnN4REJHZ1ZSd3hqLWVqTjdNWGFFRE8tRQ?oc=5"
         }
       ]
     },
@@ -105,7 +177,7 @@
       "id": "26fbcc78e90d",
       "title": "Exame de sangue que detecta mais de 50 tipos de câncer chega ao Brasil - CNN Brasil",
       "published": "2026-10-06T19:34:53+00:00",
-      "summary": "Exame de sangue que detecta mais de 50 tipos de câncer chega ao Brasil&nbsp;&nbsp;CNN BrasilGenesis traz ao Brasil teste que detecta 50 tipos de câncer | Empresas&nbsp;&nbsp;Valor EconômicoFleury e Einstein trazem ao Brasil teste que detecta mais de 50 tipos de câncer&nbsp;&nbsp;ExameExame de sangue que busca detectar mais de 50 tipos de câncer chega ao Brasil; entenda&nbsp;&nbsp;Folha de S.PauloEinstein é o primeiro hospital brasileiro a adotar biópsia líquida para detecção precoce multicâncer&",
+      "summary": "Exame de sangue que detecta mais de 50 tipos de câncer chega ao Brasil&nbsp;&nbsp;CNN BrasilCâncer: exame de sangue que detecta mais de 50 tipos da doença chega ao país&nbsp;&nbsp;O GLOBOEinstein passa a ter teste que detecta mais de 50 tipos de câncer&nbsp;&nbsp;Poder360Exame de sangue que promete detectar 50 tipos de câncer chega ao Brasil, mas tem limitações; entenda&nbsp;&nbsp;EstadãoExame de sangue que busca detectar mais de 50 tipos de câncer chega ao Brasil; entenda&nbsp;&nbsp;Folha de S.",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -129,7 +201,7 @@
       "id": "699f71ff5e80",
       "title": "Cicatrizes do diabetes: tratamento do ES é referência na prevenção de amputações - A Gazeta",
       "published": "2026-10-06T19:08:00+00:00",
-      "summary": "Cicatrizes do diabetes: tratamento do ES é referência na prevenção de amputações&nbsp;&nbsp;A GazetaCicatrização de feridas no diabetes é desafio para o paciente e para a ciência&nbsp;&nbsp;Folha de S.PauloOpinião | Pé diabético: quando uma pequena ferida pode se transformar em um grande problema&nbsp;&nbsp;EstadãoPrefeitura promove I Capacitação em Avaliação do Pé Diabético para enfermeiros da rede mu&nbsp;&nbsp;Prefeitura de Porto VelhoAtenção nas UBS previne complicações do pé diabético e gar",
+      "summary": "Cicatrizes do diabetes: tratamento do ES é referência na prevenção de amputações&nbsp;&nbsp;A GazetaVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
           "name": "A Gazeta",
@@ -150,14 +222,38 @@
       ]
     },
     {
-      "id": "6ab3c4e72157",
-      "title": "De lagarto a medicamento: a ciência por trás das canetas emagrecedoras e como o tema pode cair no vestibular - G1",
-      "published": "2026-10-06T10:10:02+00:00",
-      "summary": "De lagarto a medicamento: a ciência por trás das canetas emagrecedoras e como o tema pode cair no vestibular&nbsp;&nbsp;G1",
+      "id": "fab356db2b40",
+      "title": "Não é preguiça: entenda por que a depressão dificulta tarefas básicas - Portal Drauzio Varella",
+      "published": "2026-10-06T18:01:50+00:00",
+      "summary": "Não é preguiça: entenda por que a depressão dificulta tarefas básicas&nbsp;&nbsp;Portal Drauzio Varella",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPMmR2VkZCNUVGdmYwNEM0UUkzb1pTM0dqeFl2WFVrc2NWYTE2Y0ZydkhDblNNUVRTX2dyTFYxX2l4dzhYOHFBODVzUERxb1JZbml5S09hRDRiMzVnU3dsRmtzZk1MNGV1UFpWUGEybVpzdV92YnI2OEZHRHdUNmlBOGY4SXdpZEp0cVFDTWQwMTZNcHZLZGtQZ0RKYWwtWVg2TVZlUWdnZWJyejNtZ2xpSTJXQjF4dmZtN3VoeTFZSEZYTWVpYlhJdlFFSnZrQlZmZk0ySEJGSEpVYnFoN0s3OG02SnZXN2dJTm45amlSVklrb00zMmpsbVp0ejc0cC1Ld1JBejFaQ0h3Z3lVdVHSAZwCQVVfeXFMTWJkTzVnU0tBOGNXaFZya2ZURVdacU83Z0hqNXBDMC1iUlVoNG9nNVc1REQ3LUFQMGpEYU5EcjByZWZPTThrUjlTbl9iVHF0SUdpY1ZKZlQxUkNGRDVxdm11RE90SjFRMGZEYm9TNlozb2ZjNGp1OE9BTkNNRVpKR3d5dnJzZlAxbmRGN2F2eTJqX25yc3NOX04zdzlfaGg5czd4TkZWeGJ1UFlSRng5VzljQUY5aVlXSWlIdTRuZ1kxYzBkLVFjT2hxTVc5ejRuMXZnY2xrRUtlNXBTSUNFbTgtclRmWHBEN1hFY0x6aXNzUmh0R2NLTm85eEdXRVNVVlVOamJHUk9PWVl1N1VrMFR5RnBhcnlScGFqX2g?oc=5"
+          "name": "Portal Drauzio Varella",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSzg0TkZsaHViQXAxUjJsTVgyOUVOeUdXNURFZzZsbmlZbW93Q3J1S18yQU0zSHVsQWM0dEJVZzk1alR4TlpzOE52VDVXS0dCRlM2LVZpclRYb2ZUczJmUTBKRjJtQzZrcGo2RzUxb0V5TENzRFFPWm5SMWRMek9ZUDlCTDJZaGxyeC1yRVc5bWlicXU5ZkU5alliaEYwYXZ6VGtKaFF4Y1ZTS1JJMi05SnlndXdFdm8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "033fb51007f7",
+      "title": "Nobel de Medicina de 2026 diz que espera lançar luz sobre o cérebro - Folha de S.Paulo",
+      "published": "2026-10-06T13:40:00+00:00",
+      "summary": "Nobel de Medicina de 2026 diz que espera lançar luz sobre o cérebro&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTkVuT2thS09WcmgtclZadlJxa1lFLXdwVENBYmUwZnpXa0VVTE5IdGRObDZCTGVlTDhXY0RaR3g0eGU4enVWV0FuRFRUWjdvMzlqM1UyVThkalZMdXhkUkc0MzVrTU0zUXJ2NHFsNFRWcHo3ZzJDV3dacl9LMUcwdVJvUjZ0UnRUcUtGeHNUN1BSLW9WT3pOUGNQbi1WQUdWaEFUNDVFSFZ3cVFOanZhaQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c229033abf5f",
+      "title": "O que são as 'partículas fantasma' que deram Nobel de Física a professor da Bélgica - BBC",
+      "published": "2026-10-06T13:16:46+00:00",
+      "summary": "O que são as 'partículas fantasma' que deram Nobel de Física a professor da Bélgica&nbsp;&nbsp;BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMTjFtTmZnUXNSeS1SREJ1Q2o0RXltaWNnVU9OWkJOQTJSNURyNkt1X01qM1lvWDRpWFlBSjNtMjluTHVOZU5hZGhLZG1QOVhtR2g4N1p2eG1yMFhWMlJZVEFmY9IBaEFVX3lxTE8xUVVxdjZmakYzWmUwTU9UU0dDNUxEdm1na1I0eGxvRURmLXBsQ2dveGs0RmEtYmFFRkhYVzN1Y1ZFakVEdWNYQUNzRy1RX181NUlTVXFCOWpQcDJ1ZnBsbnVKb0RNVnpT?oc=5"
         }
       ]
     },
@@ -174,66 +270,6 @@
       ]
     },
     {
-      "id": "8d258916e1b3",
-      "title": "Matemática na primeira infância traz ganho econômico de longo prazo, diz especialista - Valor Econômico",
-      "published": "2026-10-06T08:00:00+00:00",
-      "summary": "Matemática na primeira infância traz ganho econômico de longo prazo, diz especialista&nbsp;&nbsp;Valor Econômico",
-      "sources": [
-        {
-          "name": "Valor Econômico",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNN2gzSXFWU0dlb3N2VWUzYklKSUJiZnFNZ0NaNmdyS2kyZjJMS2ZZT1BZdDhLLS1MUHZQUWNRMW9UT2dCX0k1a19WUlI2alpyMlR0VVhIYjkzZDRmTER0dVlyUWRmSk0zQnQ0dS1DaEl1d1A4OWxVODJvNmxiWk9wQWVRQjZrT242bU5GWDVPT290a2pkdnF6aVJKTnlyTG5DclZRdTVTdmo5Z1lPV0ZRWHBUV1hJeHBlblk4eW1Oc1ROSmdxRENzcGZnWE5wa01FT2JXWWVlRdIB5gFBVV95cUxNVXNieXZFWGhIcHBUWHdhWU5RQnpyNWQwQ19BV2FXbDVQeWpaMTM0WmNVakpkaHJGWHNKVWlibG1MbDRLT05IV3o0YjZwcFlEdDBlX2dKRFZwNi1IWE1jaUFMeFZaUUx2T1R1alYyVE1RQXNFMWZUY2VnUWVFWUk2U0NlOWVKMENzRE9ic1l0d0pESl8xUHUwRFFvM1BUTURKLU83TFdpdkt1OUhzM1h2X09HVFluazRnUkNmUkFob2xrNlJZbW9PRFAwVUJVcVJDSlV0TTVmbE12RDdVc2RsTXR6M29iUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e35cf0e42c5d",
-      "title": "‘O risco é que aumente número de negacionistas sobre mudanças climáticas’ - Valor Econômico",
-      "published": "2026-10-06T08:00:00+00:00",
-      "summary": "‘O risco é que aumente número de negacionistas sobre mudanças climáticas’&nbsp;&nbsp;Valor Econômico",
-      "sources": [
-        {
-          "name": "Valor Econômico",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONkNabURYcmcwUlg3cXFFSkNxQ1kzY21uMEJsSVh4SERiUVpGYnFndkN2ZUxnd1JkcnEtOWFHMkV0YURNYjFicFk3dWlDdDFhQzJSb09IRl9YbnhjWjF0Vi10dnp3Ni1wSEdyUEoyUXVBdVJGNXdxY2hqUXlvRHZXTXdQZEh4Y3NtSXhqRDA0WkhHeGhYUFFXNjJvMEp5Y0xneUpLNzRnWWs2STV2OHlJcTV4VFUta0plbU1HdHVvUERxWHJQcXNpSnR6NVVlZk90X2g3Nkgtb2tuSDTSAeoBQVVfeXFMTmJxZFRHRTJIVnMxZjU4V0Q3V0J3QTcxLWt4UHJPdU1nZnJDQnhPSm5DbE1tZXNGR0NPT0JYX2FTdGxEdGhhZ2tFeE0tb1Y2TXVXaHJoYW56RFFfMlRLWktLMy11dDVKQ2VaY2tXVzRBc3Vvbno1SlptcmZ0M3NxOWdGMnNzNVhSbnJDY3dzR3Y5dDJhMnZaaXY0WTlLUE1La002eTlMb0tya1RzbEJzOHY4RGVwWE5HU0hEd0hfMG9vQWx4aWZ1NGxzeml0QnNqYllGSHFxLTY0QnpyaFRVREJraTNMTFJpY3pR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d8443f54f1e0",
-      "title": "Casos de câncer cresce mais rápido entre jovens, diz pesquisa internacional - UOL Notícias",
-      "published": "2026-10-06T07:51:32+00:00",
-      "summary": "Casos de câncer cresce mais rápido entre jovens, diz pesquisa internacional&nbsp;&nbsp;UOL NotíciasPesquisa mundial revela que até sete tipos de câncer tem aumentado entre jovens&nbsp;&nbsp;CBNEstudo identifica “aumento significativo” de casos de cancro precoce&nbsp;&nbsp;PúblicoO câncer colorretal está aparecendo mais cedo: o que explica o aumento dos casos em adultos jovens?&nbsp;&nbsp;Rede D'OrCasos de câncer de início precoce crescem entre pessoas mais jovens&nbsp;&nbsp;Afya | Home",
-      "sources": [
-        {
-          "name": "UOL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZ25Fc0Z1Zl94X3hrbHB0OWlQYmZDcGI4Ul82S3NmM28wMENKbkptTGg2NHQ3YWlualgybnZCSS1ua294NlJET0E2cEVVQ3hoRmRGWXVlVFNQdHV3bmZKdUhFWnlobFlWbmZPQkJhZ0c0b2JCQ052NG9mNEViYVdHS1pJTUF3ZUFsS1RNNEZ2SDdvLWEtelJFc1FJRlVwLTFtaXNqbm1MMllUdExYUzJKN3dVS3h3QUR0U2xneEEtN1dTcF9lNVFSek1iQnVFMjRzLVRGcDBoUnE4WTA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "af2968b194f6",
-      "title": "Por que ter um corpo forte ganhou espaço na conversa sobre beleza - O GLOBO",
-      "published": "2026-10-06T05:00:00+00:00",
-      "summary": "Por que ter um corpo forte ganhou espaço na conversa sobre beleza&nbsp;&nbsp;O GLOBOEnvelheça com mais saúde: veja atividades físicas para preservar força, mobilidade e autonomia&nbsp;&nbsp;CartaCapitalPor que, com o passar dos anos, devemos pensar em ganhar músculos?&nbsp;&nbsp;TerraEnvelhecer com saúde: massa muscular é essencial para preservar a autonomia&nbsp;&nbsp;R7Estudo identifica mecanismo ligado à perda de força muscular em idosos, e cientistas testam estratégia que aumenta força em at",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZUV3VGZlLXJMc3BtdW1PZTFFNWJhSnFHRnI3RGVvbG83cXJCLTB4OUFTMzZHdEVMM09YSmJIN1dDcG0wZUk3SmJZcUJfNFpLSTlHV3BoN083WVhmTHJmRHVDbzdJUy1zX3BoTldPVzRnVXl4dlNKTk1taWkzRkZmLVFxeTZDblNRZllRaktyMVRPMXhwNGxNX2RMd3FWeElkQnVocGQxbG4zWFRhMVVZcG5nRkpmX19zSkpZ0gHKAUFVX3lxTE5EZ1pYbFVRZm53VXB4em51UnJmU2N6Yk1xcUk0ZEI0MWFnaXFKbmR6WGN4dm9mT0RoQmZFSElwYXR6eS02X1hLWnRKWC1xVHZiU05JNFpwRjhCbkEwbHdSb3VDZ3hfbVNTMVhfRnE5ZjZHb01RVFNBTDc0a2VucXJ1akJpeGMzaU5hSW5fd3RrSHUwMjlSTkEtUWdGdGpTT0t1VmZaSDBIVHN5WENJNEp5SVpyMTk3N2VHRktRc2wzSFhUdkdaSDdodGc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "78188954ad60",
-      "title": "Proteína pouco conhecida é potencial alvo contra a doença de Chagas - Agência FAPESP",
-      "published": "2026-10-06T03:04:15+00:00",
-      "summary": "Proteína pouco conhecida é potencial alvo contra a doença de Chagas&nbsp;&nbsp;Agência FAPESPVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "Agência FAPESP",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZFRXNENqRXdMd2JaRVZmSnRIMk5fNGp2eHNWNkdZLWdBeEtZMTBEM0IwNlJrOGhLNFRlajV2NmpVUlA2a2NpdXpUc2VyNXRBWGZMS3VBakpIV0tKbHJkQzNNdzg2WGtvM29IVFJyd1VMQXI2c3ZaV2NFVENxMWoxdThMeEI5d0VxRncwa2pHbEhYX1Rwdk1vOE5KVGlPcHdE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c8ee485ea3e1",
       "title": "Médico de SP morre após sair de motel e correr por rua de Salvador - Folha de S.Paulo",
       "published": "2026-10-06T00:40:00+00:00",
@@ -246,86 +282,14 @@
       ]
     },
     {
-      "id": "6482a9c4ff14",
-      "title": "5 sintomas gastrointestinais que você nunca deve ignorar - 05/10/2026 - Equilíbrio e Saúde - Folha de S.Paulo",
-      "published": "2026-10-05T22:00:00+00:00",
-      "summary": "5 sintomas gastrointestinais que você nunca deve ignorar - 05/10/2026 - Equilíbrio e Saúde&nbsp;&nbsp;Folha de S.PauloSPG lança alerta: seja pontual com a sua saúde digestiva&nbsp;&nbsp;HealthNews5 sinais de um intestino pouco saudável, que podem até ser um sinal de alerta para o câncer.&nbsp;&nbsp;Vietnam.vnDiagnóstico precoce pode elevar chances de cura em casos de câncer do aparelho digestivo&nbsp;&nbsp;Arena de Notícias",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaEdRTk9laFpIaXJLcTBRUHI2T3dOOWVXYkNpQm8ydXNDamc0V2dMTVlOc0Y4X1U5RnNJNXl3VjlUREJuRkxDLW9IV0xDaVdlR1doSWF6Ui1sdDlGb0FGUlZnd1VyczRaYV9TRDFaTU5TMFlWXzVHZGVpTUJyYVJ5WEYwUmxiY01ZOXNpemU4V2hKOVl6ZTJKVkhWTWRWeEFrODhfcEdNM29aN1VaTVY3UHdRcGd0UXlw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fdd8dfb22461",
-      "title": "Pesquisadora morre após possível vazamento de peste em laboratório russo - Superinteressante",
-      "published": "2026-10-05T22:00:00+00:00",
-      "summary": "Pesquisadora morre após possível vazamento de peste em laboratório russo&nbsp;&nbsp;Superinteressante",
-      "sources": [
-        {
-          "name": "Superinteressante",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUVlrYzh2NWc2eFJDa2hkaDZQYWxYeWZwc0QwM2RaYno1Ykl6eWZYYXpXYXduZkJYeXdfMUN4bFc0QUhWTmxrckJ2RFZQMm9mQ1BUSW1pa2RKNjhObnplSFhBRXlobHBSMmg2TXR6T0tkUGcxWUJDelRoMXVCVnVCUDJqSXFfRU81My1xeXZnQzZsMFc0dXM1azhoOGQzV0QxSjAwMWR6TDJOVXNS?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d4c8d22be8e1",
-      "title": "Conheça os sinais silenciosos de que o seu fígado pode não estar bem - Estadão",
-      "published": "2026-10-05T19:06:00+00:00",
-      "summary": "Conheça os sinais silenciosos de que o seu fígado pode não estar bem&nbsp;&nbsp;EstadãoVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU3E5QXlVTGVmbG5YVUhZcU1jM3gwa2E0NUx6MDh0UmpnVkRzRUFrWmx2V2U1WlNSRkZxYlhLUnhWV0NmTzlNMHItbXVoUWlad1M2eWR3bmVKaWdNd0JtQmlfTTZsSDNSVmE3ZDZLUXV3U29BSzhja05ucGhJMy1sS0RmbmxqUk84UV96cVdtbjhWSEpkckpGU0lMdlh6ZTA0SmtPOVdTcVFqMldCWm5BS19tZ3h2Q2Z0RUw2bFJR0gHDAUFVX3lxTFB6OWNpZ1lJd01aem1MTXRzMlQyaHpKN3E3V2ltZ0o1Z0JlLUhhcUNYQkgzLUlxWDBrcGtCaDdBUHZfNjVsb1VBZXZiLVlDRjFIelNWNE94R3ZsWXZ2S0xjMC1CdGFvd0lMWXBvZ2RSQ01YTEpXbG9UTTVzT0NXUzZ5bUFNS25mNHJnaXNscm5mVVVrVS1MZUpqZDZ1TEZDN0NWRl96VEtObDV6X0dJUFp1MElnU3NMMDdibFZ2NmFuMlp2Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c34b02118a76",
-      "title": "Estrelas acesas no cérebro e a alga que deu origem ao Nobel de Medicina - The Conversation",
-      "published": "2026-10-05T19:02:25+00:00",
-      "summary": "Estrelas acesas no cérebro e a alga que deu origem ao Nobel de Medicina&nbsp;&nbsp;The Conversation",
-      "sources": [
-        {
-          "name": "The Conversation",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeDl1cU5DLWY5Sy1GWEhFLTJMOHkwSzNzQTBKa2RZWnlJUmQ1dkIyeEY2alpmNUtoc0xCczdqMEp2NzBralhCVHBSSFY1RFNqYVNkbExKRzVSaXpuaXd6ODl2RjZiSHMzMHJWeUpNbzZ2LXVGOXVJeFRubFJWVjZvc2N4OG5BRUVGOEdlcU9FREpkRFNZTTg1M1BmQnRKbHRwLW44RGpMb2FUQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "eb0f02dfca0f",
-      "title": "Risco de rebaixamento do Ceará reduz para 1%; veja projeção dos estatísticos na Série B - Diário do Nordeste",
-      "published": "2026-10-05T18:30:00+00:00",
-      "summary": "Risco de rebaixamento do Ceará reduz para 1%; veja projeção dos estatísticos na Série B&nbsp;&nbsp;Diário do Nordeste",
-      "sources": [
-        {
-          "name": "Diário do Nordeste",
-          "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPVWI4VG1KYkdlcnFCUnJlc1hoVDYwOHdSYlRDR3pGLUtIRGFTMnhrWjQ2cWkyR0lfeTNMVGNETlBLa3c0VWFQR0xTNTQ1TS1GbC1mVnVKUk1ZQzBabXBfSlFNWU05VlNEVnNNc2VEQVAxNWlBaHZnbjl0ZFN1dEFXOXJFMzgyRWJoVzZwUS0yVFFBYWxuNFl1MVhFVl91M3RYYWZFaUlKcUZNTWhJZ01YY1hXb0F4em4za0dNUkNfOHVfNktieGpXNXhrbmhKZERnMlJ2TVBWNTV0SWZEUnZKV19jMzVKX0Y3dVFaTTRvY0F0b0RfbEdrN25WYXRCaERBTkVtTmtmaldLdXZTYTlzS2hPNUtPU1NBTVFvSXNsSnJydFNz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a01840cee5b3",
-      "title": "Ave “perdida” por 13 anos é filmada pela primeira vez na história - Gazeta do Povo",
-      "published": "2026-10-05T18:30:00+00:00",
-      "summary": "Ave “perdida” por 13 anos é filmada pela primeira vez na história&nbsp;&nbsp;Gazeta do Povo",
-      "sources": [
-        {
-          "name": "Gazeta do Povo",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOamhkdUo2WUtoVmx5Z2h4elpUSkQ4YTExQ0RKREh5OWN5Q1hpTU9oOE95TFg2amJTOGZuVW10REJZTG5Jak10SUdSWi1LY3Z6S0VVajJid0pvdUZ4WEtLRmE3LWJjQVhlZEtzYlBwVWxDREdhbDBOalc2ODB5OGZrUVVZUnhXR0Y1NXRXdQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a3895dedac66",
+      "id": "ab3910dd8edd",
       "title": "SUS passa a oferecer três novos medicamentos de alta tecnologia para o tratamento de câncer pulmonar - Jornal da USP",
-      "published": "2026-10-04T12:31:43+00:00",
-      "summary": "SUS passa a oferecer três novos medicamentos de alta tecnologia para o tratamento de câncer pulmonar&nbsp;&nbsp;Jornal da USPComo novos tratamentos para câncer de pulmão podem chegar ao SUS?&nbsp;&nbsp;Portal Drauzio VarellaSUS passa a oferecer três remédios para tratamento de câncer pulmonar; veja quais e como solicitar&nbsp;&nbsp;Banda BDia do Idoso: como prevenir, tratar e identificar tipo de câncer que mais mata homens no mundo&nbsp;&nbsp;Extra onlineNovo protocolo de tratamento do câncer de",
+      "published": "2026-10-02T12:30:00+00:00",
+      "summary": "SUS passa a oferecer três novos medicamentos de alta tecnologia para o tratamento de câncer pulmonar&nbsp;&nbsp;Jornal da USPVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
           "name": "Jornal da USP",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNY2NVb0Mtd1dsNk5fT0RzM2dUOFZJd0pQZmsta2ZPN0RialZicDFGQU9CbXdOQ05HWWp2bWV3NzFSOHBQT2R2dWxpT252TmlYSElVVTljbkhKUTMwblJ4X0FYcDFnVTEwWlBhVElEV3FhamFhMGdkQWVkRExlbFhoT2czMjl6LU1Cbnh3TVFqaGFEQXpWVW5vS19ueHZGekVteEdGVEhUckZtMzV3VkdockptQmdpUXBUbHplaDA4S1NGaDN1UzJ1bkFnREZZbkJB?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOREJCcS14VkJfa1ZLdFY5RkhKX2VlV3RicFEwLVFWZkttWVg5R3N2STljYzloWlNxSTZjX0pfc1haSzJaYmcwZGdQZEVLMlJ4LTkyVS1tMFlqM2t4cXFTWkZkVWpaZkhlbXBGOXc4OEVzb08xWHg1eTlQLXRSYzNMX2hiQzcyWi1NSFRwcGZ0NHhUczQ3Y3VSMThlWUg4R0RsckZhZzdqaVpfZ25fZWFNNngtMXNYX2paSVQyUlpQU21aT1VRZkxPQ1J4YnQ1WjVQa1pJU3BMbkgzUEdWUlE?oc=5"
         }
       ]
     },
@@ -333,7 +297,7 @@
       "id": "5b9ddfb0276a",
       "title": "Boca seca, mau hálito e desgaste dos dentes: efeitos das canetas para obesidade na saúde bucal - Estadão",
       "published": "2026-10-01T08:30:00+00:00",
-      "summary": "Boca seca, mau hálito e desgaste dos dentes: efeitos das canetas para obesidade na saúde bucal&nbsp;&nbsp;EstadãoCanetas emagrecedoras: médico alerta para riscos de usar produtos com base em indicação de influencers digitais&nbsp;&nbsp;G1Caneta emagrecedora: quando devo parar de usar?&nbsp;&nbsp;Assine Abril“Canetas emagrecedoras”: para que servem, quais são os efeitos colaterais e mais | Comentando Comentários&nbsp;&nbsp;Portal Drauzio VarellaCanetas para obesidade ajudam a proteger os rins e o",
+      "summary": "Boca seca, mau hálito e desgaste dos dentes: efeitos das canetas para obesidade na saúde bucal&nbsp;&nbsp;EstadãoCanetas emagrecedoras: médico alerta para riscos de usar produtos com base em indicação de influencers digitais&nbsp;&nbsp;G1“Canetas emagrecedoras”: para que servem, quais são os efeitos colaterais e mais | Comentando Comentários&nbsp;&nbsp;Portal Drauzio VarellaAs canetas emagrecedoras e o risco para a visão&nbsp;&nbsp;VEJAAnvisa alerta sobre canetas emagrecedoras e saúde dos olhos;",
       "sources": [
         {
           "name": "Estadão",
