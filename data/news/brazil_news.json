@@ -1,15 +1,87 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-10-08T05:03:34.337387+00:00",
-  "total_fetched": 69,
-  "unique_count": 69,
-  "health_related_count": 26,
+  "fetched_at": "2026-10-08T12:59:34.150541+00:00",
+  "total_fetched": 67,
+  "unique_count": 66,
+  "health_related_count": 23,
   "news": [
+    {
+      "id": "a3bb6fa9362e",
+      "title": "Brasil: 30 milhões de crianças estão expostas aos riscos climáticos - Agência Brasil",
+      "published": "2026-10-08T10:03:00+00:00",
+      "summary": "Brasil: 30 milhões de crianças estão expostas aos riscos climáticos&nbsp;&nbsp;Agência Brasil",
+      "sources": [
+        {
+          "name": "Agência Brasil",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSFd0ZUZSUFpYZEtmWFdyYzM2ZnJXQUNvUTFvWFlDZXh5SEFPVlRrSnNoS0Q4NmJRN296ZF9zSlJKRFdUSGlIYURrSEVxOHZOaEJHVGtNeUktZnBaajRtVGZOVXZxNGJHZDlHMFJseHVQSmVfMWFqWGxiTS0wdkFGbEpVd0szMnZlRVNXdWpLVFhsdURkM0lHb2FhcHd3dlRRbGJwTlJCV1YzVTE3MzBpcTZSS3l1NE5iZTV6S0szZzVsS0xLalRtQVdYVUk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9358ac1d6e1f",
+      "title": "Ele mudou o mundo dos transplantes de órgãos — e precisou entrar na fila à espera de um coração - Estadão",
+      "published": "2026-10-08T08:30:00+00:00",
+      "summary": "Ele mudou o mundo dos transplantes de órgãos — e precisou entrar na fila à espera de um coração&nbsp;&nbsp;Estadão",
+      "sources": [
+        {
+          "name": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQekZTaFdOMzVfb25CWXk5d2Q3S0tWVFJNdTlyRDE3bkktdkh2UlY0VW9pVFJUVElFcXN0LXRWTzVfcndJbkdZVUw2X2RId21OY3NWTThvREFHd0U4S1dNc3N3VmxzbDVmY1JoWklkNm1kNGV6eU9wc2w2RC1oSTIteExnT05vV29fZmV5aGpXMDF4NTlWd3J5M3dJTS13VndUMWZfajcybkJFbEhlRDZQbG9fUkRNRHRvQjhwbEJocjlCVG9oa3RGNHVHSFJEaTkyb0pZNWItUl9CUzJnd1Nr0gHkAUFVX3lxTE5WRnctSHI5Y0J4ZnQ0aldQT1pEV0FDQlIwMzVxeGNFLWdzU19HZi1DalRGOTNkVEFkYWRQRkQyd052RUFPdmFHNjliTFBMZXhXOEpQeWlHb1Q1dkJBYzVaSzR4OUZNRnRRRU9VVmlKaWItOHUyUEVSUGx2MElzcUE5WXIyNWpHX3RlWnZpTnZHZXh6SUVuNFVJb24xQ2ZFOEd4d1l2Q1doNG1NajdvN3VlT0tFcEVRUUtLcDhkU3ExbXg3M0g4Y24zME85OE1xazNOX3BsWkNjWFJaUU9MTzdVVHFGUw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "308bdeaf7136",
+      "title": "Meningocócica ACWY: Rio aplica vacina contra contra meningite em pessoas de até 24 anos - G1",
+      "published": "2026-10-08T08:00:00+00:00",
+      "summary": "Meningocócica ACWY: Rio aplica vacina contra contra meningite em pessoas de até 24 anos&nbsp;&nbsp;G1Rio amplia vacinação contra meningite para pessoas de até 24 anos; veja onde se imunizar&nbsp;&nbsp;Diário do RioVacina meningocócica ACWY poderá substituir temporariamente a meningocócica C em Goiás&nbsp;&nbsp;Portal iGGoiás orienta uso temporário da vacina ACWY no lugar da meningocócica C em crianças&nbsp;&nbsp;Jornal OpçãoRio amplia vacinação contra meningite para pessoas de até 24 anos&nbsp;&",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNW9YQXcyTVBsMGc1NWx3RVZnV2hQbGViSU5ES1g2QkhSUnpmRXA4amF2b3FOLURyLXk3bWFNcWVhbm1kRU5Qb0NkT3ZEdThGejdWYktxVFAxRUVRbG5NZVNpanhkRFF6MUFHMmVxRVZwMlBrOUp6d1hRbFpNd0lwVjZ3aW9TUm1IOFEyd1BLWVo3SFY5eFJMazRmOVFLOGhDNUNJR0hZMUzSAbcBQVVfeXFMUDZERGhjYTJwR1pCT0Z2Y2s1R25HeW1FYjRib29UOHVnX1FSQTRNQy1ac3JmR2dqS3hsU2UtN1JLOF90U1ZMT2tIZXpFcHNqZUJNUFRhZ05KbmdacVdfWE01eEx0LWdtOGVGMmNER1c3emdrQzVWaVFlVzBUblJsbklVRElSZTgwbmhaOE1pSk5SOWh0NFVHQ3VwM3ZSaW1vM1M1NmZJR2lZWU50V0h0c29meERDRlpv?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9e1268299074",
+      "title": "Canetas emagrecedoras podem mudar nosso jeito de agir? Entenda - O GLOBO",
+      "published": "2026-10-08T07:00:00+00:00",
+      "summary": "Canetas emagrecedoras podem mudar nosso jeito de agir? Entenda&nbsp;&nbsp;O GLOBOComeçou a perder peso com a caneta emagrecedora e percebeu mais cabelo caindo? Entenda o que pode estar acontecendo&nbsp;&nbsp;Terra“Canetas emagrecedoras”: para que servem, quais são os efeitos colaterais e mais | Comentando Comentários&nbsp;&nbsp;Portal Drauzio VarellaAs canetas emagrecedoras e o risco para a visão&nbsp;&nbsp;VEJACanetas emagrecedoras: veja efeito no coração, rins e fígado&nbsp;&nbsp;SBT News",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQX3YydjJGaWdXLVZ0N2t2RXAxdF9vZkp4MnhkUzNockJoaUFNd0JtU3VqSHdVOVZwQzd1ejZwODNhTC1TMGx3b2tUN25PWF83TGhGYnQ1WEVsb1BhT2szOVpPYUY4TElnbVEzUmZUNXQ3ejRocmYtdkxRcWlaN2Y0QkRjWUJaSi1PWl8wcWRUSEo2ZXN5SUtRUGc1SWhtTldUNmdkRWlsMWhDbVhEWlBCSW5IRklMZ9IBxAFBVV95cUxNTUtMUWU3ZXd4c0VfZHRMZGVtV3RpMExLeHU4WGd5OUNPRDlmLVBqZ05fZ1RJZVR4Z2tXZ2x0OWlncFloZV9vRzlIaW5HMzhIUkJHZV9yV3dmenZiLUdkNGk4c3FUcGlDMWdGWk9SUEZOdnViSDNrNXMwUVNJSnc0OWlIbEhHcWNibDc0czViek1lcUFmQnFxeVRVNngxcFJhdFZrYmVjQWJ2cmoyQXN1SWNPcU83MGlnbUNFdUhDWldlQnBf?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2b09867b793a",
+      "title": "Nem whey, nem barra proteica: especialistas explicam o que realmente faz diferença para ganhar músculos - G1",
+      "published": "2026-10-08T05:00:00+00:00",
+      "summary": "Nem whey, nem barra proteica: especialistas explicam o que realmente faz diferença para ganhar músculos&nbsp;&nbsp;G1As pessoas estão obcecadas com proteína?&nbsp;&nbsp;Portal Drauzio VarellaProteína É a Estrela do Mercado Fitness, mas Excesso Não Garante Desempenho nem Saúde&nbsp;&nbsp;Forbes BrasilVeja como organizar o consumo de proteína para ganhar mais massa muscular&nbsp;&nbsp;Bem ParanáComo distribuir proteínas ao longo do dia sem gastar mais&nbsp;&nbsp;Diário do Centro do Mundo",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdGpWNVh5MmhGeXJZeUt5cDdURnp1SmFqWjF6VjBiaF9xNTBTVzJqYVBrVmxjOUVUZHpnYVRhUE1YVjU2SmdvWkZMMWVuMFBKSnR0d1p6cEF3RjdsclpDbEd6ZEZpTUE3WnVzcFJhdEhDYy1Ha3ZwZUtDaXZvOG1zSndBMEFCS3c0eGM3aVlnbkI0TjNnN3IyN2Q2cVhLdE9WQXdIbjBjelNZa2J2dUlFQ3ZlblNySVpSa1BVcGFibElRU2VpUXM4Q2pLamN3cHBieWxqMjcxNDYwTXV0YmxOc1dTdnh3bVFIdTNOc2ExWXdmVG5J0gGDAkFVX3lxTE1IRE81X1VERWdhc0lfRGU5MVRhSkY5TmRGblhjb3NzY3BPRjVMaGZwTkhnWXJJeUkybUIzMzRMeTg0Rk90N3NCZ0tuSnlmMWprUmF1alpYRHpCdHNlZEZpZ3p1X1V2UHBLZE54OXVEWjFGd2NqX21HN2RqWl9ZR0tlTExSLTRVU21MYVNtS3RQT21RMHFKcElPMWpiLXpfQVA5Rlc4TDRvVGRQbFowOWU5akVHaTRXaHJyRWVLLXNpN2l5UUU2YklRNGR6TnlqbjVqNkFxZWg2b1ZkOV9TV0otMGVfMUFGYS1zblgzUUlhUllocTJLR1dtbVUxa1ZqVjUzQTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fb43d02aba18",
+      "title": "Cientistas em Viena e Pequim criam primeiros relógios nucleares do mundo - G1",
+      "published": "2026-10-08T05:00:00+00:00",
+      "summary": "Cientistas em Viena e Pequim criam primeiros relógios nucleares do mundo&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVjhaS092Zkx1VXpXZGtheHpaN2J2LWRfTGVHNzI2eXFTTU5jd2JDdzdIRFpteVNJV3F3aEwxRU1ZdzNjeXY3MWxZRlRCYTBfNHJEWmlYUFMwZHh1WlpmVExtS0dteFd0X01rZlh4ZnNLcUJ0dFpYZjRxVllaaWx1NVdqdlF4ZnNMNmh3dFNjZzRNVnBWU3JGNHdBYXVBMmM1QmhfeDFSV0g4Sk9qcUZwU25ycnhrN3k2a2dudDdINVFvMno40gHTAUFVX3lxTE44SWIxcllXX3BCeXdSMDkzU2h0d2xnbzUtNWM4eUQ3bnNzTEUzS2pQTk0ybm5aeG1lYnV0MjU0M2JXWjl0emNnSjNhNEFrMENIRHYtRVlDNjl4cVd0U09LdGd2VHVFaWh6cVZZbXF1N3ZoYmc0WkdUdVhDeFRoR0N4cURuLVBodU1EQnY3RTlWcU1KWXFfRDlHS1lvaldWM1NmV3V2VWRXUkI1aDcyRDdsZjE5WGhFRFFaa3dmRGdYczdVb0tPdGswWWh6dkhha1BRQmc?oc=5"
+        }
+      ]
+    },
     {
       "id": "67ae8d8ba778",
       "title": "Lúcia Helena: Mais que um calorão: os fogachos da menopausa colocam o coração em risco - UOL",
       "published": "2026-10-07T23:09:30+00:00",
-      "summary": "Lúcia Helena: Mais que um calorão: os fogachos da menopausa colocam o coração em risco&nbsp;&nbsp;UOLCalorões da menopausa estão ligados a maior risco cardiovascular&nbsp;&nbsp;CLAUDIA - o sentido femininoSinais nas pernas ignorados: risco de infarto cresce seis vezes em mulheres&nbsp;&nbsp;Правда.РуInfarto em mulheres: por que os sinais passam despercebidos e o risco é maior?&nbsp;&nbsp;Jovem Pan",
+      "summary": "Lúcia Helena: Mais que um calorão: os fogachos da menopausa colocam o coração em risco&nbsp;&nbsp;UOLEsquecimentos na menopausa: por que uma palavra pode simplesmente desaparecer no meio da conversa&nbsp;&nbsp;O GLOBOTransição para a menopausa: o que acontece com o corpo durante essa fase?&nbsp;&nbsp;GZHEstudo aponta benefícios da musculação intensa para menopausa&nbsp;&nbsp;www.guairanews.comDia Mundial da Menopausa reforça a importância do acompanhamento profissional e cuidados individualizado",
       "sources": [
         {
           "name": "UOL",
@@ -18,38 +90,26 @@
       ]
     },
     {
-      "id": "55e4adade2e1",
-      "title": "Rio amplia vacinação contra meningite para pessoas de até 24 anos - O Dia",
-      "published": "2026-10-07T21:30:00+00:00",
-      "summary": "Rio amplia vacinação contra meningite para pessoas de até 24 anos&nbsp;&nbsp;O DiaVeja mais manchetes e perspectivas no Google Notícias",
+      "id": "6b82c78d0c20",
+      "title": "Como Jonathan, tartaruga mais velha do mundo, chegou aos 194 anos? Estudo descobriu - Globo",
+      "published": "2026-10-07T22:30:56+00:00",
+      "summary": "Como Jonathan, tartaruga mais velha do mundo, chegou aos 194 anos? Estudo descobriu&nbsp;&nbsp;Globo",
       "sources": [
         {
-          "name": "O Dia",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYmhVOTRjQ3o2Wk5BUThVeUZzUnUxRDc2b0ZRTW1kNk5zTEFzMFE2T0JaVFd0U25BbFA1U3VoWkJ4Z1IyTVZVNHNFcTE3azJlX0x4eWxNN0FVYjZGUzEtb1l6MFFlMV9iU2xRRjRZcjF4RHdXV0xGaF9LazYxQ0tTa29xWlZna3Q4UWxBX0lHSWdBeWdVeFdjT0NzTkhBN3RQSlVvTVZucGMzcEpYcVRQMEV0X0o0czQ5NEt3a3A2Z0NDQdIBxwFBVV95cUxNbEFqU3BXTTNTQUdkNkM0WGxsclVfX1drYlpmTlJsMkpOdnVMZkZTcnloNnM0Z2ppVUg2Y2NiQUIzT1RRLWtfem1HSG95bEtaUG9DcTVJXzI3bTNmbExSRUhHVXRrZFFfaHRrZjIxZzU2ZDJGQ0RPcXB0a0hEUEVWRnNqYXBZVXRXcnhidW5aT0o2YkxueXluQWMtMkx0VlJfMFkwM3RLTEc4cTRFUVFhU2NCRi1RY2hER0VpeGJCTllBOXZTTUIw?oc=5"
+          "name": "Globo",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSXowcjVTLUlsWUdXRWxycDRtUlR3QklLOFBvWXpXMF9TdnhLN0F5VGdkTDFrNHcwaGxuZzZlXzhwYzg2c1BtNndlMDhuc01ZaG51cm5CUUV2X0ktNndWcXdhSnc4NVhadkhGaktqcVBkMG1VZTBCeGNRd1h3WmhJemxGd0lweHhvMENTN3FMZWdDMmozV3EtOUw0WjA2ZzNZWlRSNGdfY016Z3hEZ2Jvcm1TbXI5VU9JUnZoek5kY2pvdG5ZMDlPMGl4dE04b1I0UHNjTk1kUS02aTjSAeoBQVVfeXFMUHVaN3JsRTNfTTZiaENYZGQtVzdtWEduLVpqc0NvOUhTSDRDSndYNmJoNlRfdEVzYmhrN2o5Nko3Tl8yeUNwb0thVWk4X2FaVUFxWlp3dE93NF9pa0dJZ01GckM0M0NsNnFoN195UWtBeGRuZmlKb0FHc2RXM0FZdU9jTWZvR1Z2OC1SYnotelJwcFBLSWlRTS0wYksyRW5XN0JMUkN4aVVZZEZqRnE1TnhCamlXUHloRWQ0OEoyNkhfMnFwUFVIWG9KX1JJRnEzc0tuSXc2Vl80YWNHZjJnazVFRmVDNks3cll3?oc=5"
         }
       ]
     },
     {
-      "id": "c49161da7052",
-      "title": "OMS recomenda alimentação e exercícios em vez de canetas para crianças com obesidade - DW.com",
-      "published": "2026-10-07T15:53:21+00:00",
-      "summary": "OMS recomenda alimentação e exercícios em vez de canetas para crianças com obesidade&nbsp;&nbsp;DW.comOMS recomenda dieta e exercícios em vez de canetas para crianças com obesidade&nbsp;&nbsp;Folha de S.PauloPela primeira vez, OMS divulga orientações globais para o tratamento da obesidade em crianças e adolescentes&nbsp;&nbsp;G1OMS veta caneta emagrecedora e bariátrica para crianças em 1ª diretriz sobre obesidade&nbsp;&nbsp;Correio do PovoObesidade entre crianças e adolescentes avança e OMS divu",
+      "id": "2a0f7902c193",
+      "title": "OMS lança guia para enfrentar obesidade em crianças e adolescentes - Agência Brasil",
+      "published": "2026-10-07T12:11:00+00:00",
+      "summary": "OMS lança guia para enfrentar obesidade em crianças e adolescentes&nbsp;&nbsp;Agência BrasilOMS recomenda dieta e exercícios em vez de canetas para crianças com obesidade&nbsp;&nbsp;Folha de S.PauloOMS lança protocolo contra obesidade para jovens de 4 a 19 anos&nbsp;&nbsp;G1OMS veta caneta emagrecedora e cirurgia bariátrica para crianças&nbsp;&nbsp;Poder360OMS lança pela 1ª vez diretriz global sobre obesidade em crianças e adolescentes&nbsp;&nbsp;VEJA",
       "sources": [
         {
-          "name": "DW.com",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeHk4dnk0eW11VUZCUWNvQzY1d0NIWGFyZnF1TFhZY204NThTaW1PQmtrNVNJLTl3dXFVSXZGbkdZOVgwYlRNbDlIOXQ5ODgwd05FMlBLV3Jkc19QcmhMN1dSU2tDU3ZyNlk0RHhaWjg5bllETlVtY3JuZHlwRm5KMTV1QWlJTkVBRTdZZlVQMlFwam5PakJQRDNxRE04VXJxWDIxWklfanVGUEtEbkdidDc2dlBQRW5MSU9pdVFha2paSG1GM1BBN1lVMHMyd1M1UTJCWjRHNNIB1wFBVV95cUxPQUtmZm1qU0pQWGUtYTRBcjN4ZEh1UFJZSmhNc2RQdXBRbUJjVkN3Vm5Lc3JuT3BkRWNzMjRMSHNEX2ZLMDYtamlFNXRFdHhjcXNtNkR5dGh0LV9lcEFteHJ4MXNWVVJsMlRkVkdSeGRfdnJMLTN1WmtsWkJOSTVjZjhrbkRjQURxUFVLN0FZUHhiS2dyUWEzVXB5Y0hDcExLVkpDckx3MGdsckdxUkV6VldUaFlFLTU3N1JrNFlBRzlKa3lRdkIxR0J1aVVORDAzX3lTYVUyVQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5754117bee7e",
-      "title": "Pela 101º vez, Nobel premia só homens em Medicina, Física e Química - Folha de S.Paulo",
-      "published": "2026-10-07T12:57:00+00:00",
-      "summary": "Pela 101º vez, Nobel premia só homens em Medicina, Física e Química&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVkpqNnlyN05tbVFaM3I2LW9QaXpVa3I5MHFtMFdiMThzZ3luak1iTXdod2NoS2J2OWlVdHBack5CaUQzQmh4RzVFWGZ5Um1ZRzR2OHVXdVoyNXdMSjhMdkpBTUhyZGcxVTl2YmZCbnkwN3pxejlfaDgyNTNtbXhHR1MyM010MmlWX04tamtHTEVzYUE3RWcwckd6UUpQMGwzRHdVZzJaR0ZoZkdlQkRza2c2a3h6WmU5?oc=5"
+          "name": "Agência Brasil",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLVUzX2hMc29jZEJqdlllRmlXLTJ3N2xBZ2pzT2xqMm9GQUdTUnZlRE1lYmFiYk1STUdES0NRVlRFMks2al9acXBPd1JtRUdzZW96NmlWRnhDVENIUm53ckNRck9UY3FHaUJGVWItQUVjeWtNV1hZMUV5NVFZWGg4dEduSUNvMmdaNURwaE1OMVJFSG9WSG1SYTRLSjFjZ3FkU2hvdGJVV0wtb3dzQlpuQTBxd29TMW90NGdSY2Zn?oc=5"
         }
       ]
     },
@@ -78,26 +138,14 @@
       ]
     },
     {
-      "id": "1aa77ad16599",
-      "title": "Nobel de Química 2026: entenda pesquisa que revelou o mistério das moléculas espelho - G1",
-      "published": "2026-10-07T09:46:02+00:00",
-      "summary": "Nobel de Química 2026: entenda pesquisa que revelou o mistério das moléculas espelho&nbsp;&nbsp;G1",
+      "id": "87a4231e04e4",
+      "title": "Nobel de Química 2026 vai para Henri Kagan e Kenso Soai pela descoberta sobre como moléculas 'escolhem' um lado - G1",
+      "published": "2026-10-07T09:45:09+00:00",
+      "summary": "Nobel de Química 2026 vai para Henri Kagan e Kenso Soai pela descoberta sobre como moléculas 'escolhem' um lado&nbsp;&nbsp;G1",
       "sources": [
         {
           "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaXdld2ZyS3JNblY5WXhsTDFNbVJJZTAtWTVhbFFxNmxOMzhVbWI4VEg0MV9DbnpzMjMxbmI5SkdDdmk2MkFlcWhPd0xpblFBUDJqcjlRbG1Gc2RoektOYmxvemFhRDE5RUY0NG9tSG9ZdFlXQUlNLWtSUFRkaUxPRGFJNVVrOGlpMHJPamo4Ul92bU81cmJlS1V6UEM2cjJSZnU0RHJOa3NpOHVKOXc3UDJ30gHAAUFVX3lxTE9rLVVIWTFmRVVzWkc5Mk4zWXhCS2RCSXotcHNrZmJPb3M5VWZvRzk0Y0FRd1prTkdWYlVqeDAtU0NjTEUzRDI3dUpROVg0aVdxVHVZMGhZdGZrUnpNU0c3RWw5T3h2eXRhLW82TzFESjluWjc1NU1YOUZCWlVqZ1RrcVRmQTR6MElVMXR4ZHpUWTFoWHkxVS13RjJ6T0Q4QmMzUWI3NzcxaWI0MkkySVlyQzdjZ1NlaWRRMGdsaUpKcA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f638dea6ccab",
-      "title": "Por que é mais difícil emagrecer ou manter o peso controlado na menopausa? - UOL",
-      "published": "2026-10-07T08:31:00+00:00",
-      "summary": "Por que é mais difícil emagrecer ou manter o peso controlado na menopausa?&nbsp;&nbsp;UOLSaiba como identificar os sintomas da perimenopausa&nbsp;&nbsp;O GLOBOEsquecimentos na menopausa? Veja 6 hábitos para manter o cérebro ativo&nbsp;&nbsp;TerraTransição para a menopausa: o que acontece com o corpo durante essa fase?&nbsp;&nbsp;GZHEstudo aponta benefícios da musculação intensa para menopausa&nbsp;&nbsp;www.guairanews.com",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWkZBSWpScEc4SVZoUDEwajVmdWFIdFJ0VmpRYVlEdlpZUXRIeVlxT0wwenBaR0dONzVacTRZbEswS0Jva05scENZNUVXb0hIWEV6Qi1IaDB5S2J6S2FTRWFCTTNHU1EtYnU5UUNMQ0NfWjYzbnZ6V093clRNY0JndHhBY0h4UXpuRWYwbnN0UlplZVh2VjhDaWNQUTh3R2tYU1pabnEwX2s0Ukd4UWlDSGxGLU04Nk92alNtV3dfMFFEVUo4XzJiTTMtdWIzel8td0c4?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUkVPUHh5TnhxbElWOTdZNnNlNW4wMXRYUm9vZzdaRHNKYUhzNUIwbk5BLWFmdEVxMm9iRkNzRWJQM0lvZksxT3lScVFCLVlsY1NUQnZrb3dJVzZ1UEx5TnVDeHdhbFZGQ2pVRTBlVE1paDBKWHM0b3p5bHpTRl85Y9IBjwFBVV95cUxObXhabnZGbG9TN3p0a0xSZ21nWmgxckNkcHRuUXcwT3E1REZOTG0tNElPbmM0NDVkem5UMDY3amtkNTdKN2xKM2pVSlg5TFV2enlmYlRVNVpTbmpBay1ieFV1WVlYUDA1U05jd3ZSVG91dHkxSHRTV3FjQzZxQ01sZ0hocEljelRkYmpfMVNJSQ?oc=5"
         }
       ]
     },
@@ -138,21 +186,9 @@
       ]
     },
     {
-      "id": "a4df5cf36ef5",
-      "title": "Precisa mesmo tomar whey? Veja quando o suplemento faz sentido — e quando é desnecessário - G1",
-      "published": "2026-10-07T06:00:00+00:00",
-      "summary": "Precisa mesmo tomar whey? Veja quando o suplemento faz sentido — e quando é desnecessário&nbsp;&nbsp;G1As pessoas estão obcecadas com proteína?&nbsp;&nbsp;Portal Drauzio VarellaProteína É a Estrela do Mercado Fitness, mas Excesso Não Garante Desempenho nem Saúde&nbsp;&nbsp;Forbes BrasilVeja como organizar o consumo de proteína para ganhar mais massa muscular&nbsp;&nbsp;Bem ParanáComo distribuir proteínas ao longo do dia sem gastar mais&nbsp;&nbsp;Diário do Centro do Mundo",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWVFQaWR1eVlTNTBlUUpqSVUxZUFtYW03aVZ3N2xJUnFxR0Fqbl9tWmhMRF9tRFhZWWxHTG9jUGtpeVhJTTRYSXFtQzdCTWdWVVRHSkg2SmdSaWVwXzlXTGM5dkF6Q2ZQNUsxWExzWVlvOW9GejlmNjRTNkwzY2NFRXBOQUhiaUpWTkh1VlZ2Tmp1VV90a3F4VWVVRkVMMi1tRnNpNi1iTklidE82UEhYMENBZklVVkxnNzE5WnhIWkdFdzVPdnZfZDhWVjAxTnE3VFFTZW5sNGhSX2pHR1BLaNIB7wFBVV95cUxNcnRHRndXNUljeHR5Snp4UlhvcW40WUFUVTVGTW5oNURFeC1GVl8zeWN5Xy1pamgzODlscDQ1Vk9sakhYUkZ3TllnUmFqVXJwMVdkNVkwZlhxVV9FZzNTaENsZDJzeWhTSmZvUWhOdVdaOGN4WUxhWTlWSE5HVGF2b3lYdEt2RlloZVR4b0JWUmRjb0pQZ1pHUTlPbGY3STRuaTRWMXhOT1BxVWtlVmlINmFxTXhxUTFlY25MeFFoVDQ4X3owZld4cGF6U01jaEJ5SFc4WFdQZ042XzF1WEoxYWZlc0NTWDYzYUpGQVV6MA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a3b93025e41d",
       "title": "Animal minúsculo da Antártica mora e se alimenta em 'pequenos vulcões' a quase 1 km de profundidade; descoberta revela cem anos de mistério - CNN Brasil",
-      "published": "2026-10-07T03:37:50+00:00",
+      "published": "2026-10-07T06:37:50+00:00",
       "summary": "Animal minúsculo da Antártica mora e se alimenta em 'pequenos vulcões' a quase 1 km de profundidade; descoberta revela cem anos de mistério&nbsp;&nbsp;CNN Brasil",
       "sources": [
         {
@@ -186,50 +222,14 @@
       ]
     },
     {
-      "id": "86a1378bc38c",
-      "title": "Caso Lito Sousa: o que faz a proteína prion ficar infecciosa? Novo estudo mostra que depende de onde ela está - Extra online",
-      "published": "2026-10-06T20:17:15+00:00",
-      "summary": "Caso Lito Sousa: o que faz a proteína prion ficar infecciosa? Novo estudo mostra que depende de onde ela está&nbsp;&nbsp;Extra onlineVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "Extra online",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNaG1WSDJzS3htSDVWNnpiUVhTTkdqUWc5ZFZBaDktNHhnVC1SR2puQmViX0JDZ3NfUjBYMjZZUUktOHlmVUVmaVE2aE9iZGlWMTFMY0ZhbDI2NW93ZEtfYTFndXZ0bm5EbGYwcjVwVXBrNTNmdEFqYjc3cGVoWTVINlRsRndLQ2NGVWpWM1NrdmlobDdtaVhtbzctdGJYWERYTEN6M0dxSDB6aHFLZVplaVFLZm5aVGdPYmN0dVNGUjRVWWs3MWw2NWczb0k3YjY0ZHhLUWEyLXFYNDJlc2JzZ085bkw3dUlZNWFPUUYxVljSAf8BQVVfeXFMT0xmcVN3ZmJlbVlHQnBUZHM1bXh5WVBjTFFpYldVRldNaVhWZ1lpa3pydHg2cnQzd1YxYVY3Y3pmMVdwN25JRnRSbW1zYWpfb0duZU1CN1RrLWg3LUd4SU80TkdoUWMwREVMSEpVcnRaOHY4RUJCV3JINllXalBvWFdqdDR2RTFpbkVVUUVaV0NYNHY2MHFCRHNkWXVpc29ablo2ZHc0Y0VSYnhLSEZUeElKMS1QTTZ4UU9lR2NHTVlmRFdSbUZ4d1RjZ05PVUgyampKUFVtRVppTU5PVWJkLU5iSmZpM1RoWDlfY0EwWk9Ub2FkS2tHaDRldHdYdng0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9917eefc5a96",
-      "title": "Descubra os 3 riscos invisíveis que ameaçam anos extras sem demência - Futura, le média qui explore le monde",
-      "published": "2026-10-06T19:43:45+00:00",
-      "summary": "Descubra os 3 riscos invisíveis que ameaçam anos extras sem demência&nbsp;&nbsp;Futura, le média qui explore le mondeOs conselhos de um médico português para tentar evitar a demência&nbsp;&nbsp;New in ÉvoraPressão alta, diabetes e tabagismo na meia-idade aparecem ligados a menos anos sem demência, e cientistas explicam o que está por trás disso&nbsp;&nbsp;Correio BraziliensePressão alta: entenda a relação com demência e Alzheimer&nbsp;&nbsp;Diário do Pará",
-      "sources": [
-        {
-          "name": "Futura, le média qui explore le monde",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeS13dy10MktLdTJXN1JGaWZmNW1lckdaQVAtbERBc1ZhakNOeUhlZWxHeWhHWWUwSUgzcmtlZ2ZaY2l4TGtfWkg0dXQ5ZmJnSkUzTWhhSlF1VEZBc2lNMXJYLWJtc3V4R2NybjdYUVphbGc4VUtMZ3BrbWRIcnpsWjZPX2c5engzcnVQdkljQWxJanUwMWlHTGhEVktiUXUxTGtlOVpQeTZHWHNua2xvVHdVVUJlTEU?oc=5"
-        }
-      ]
-    },
-    {
       "id": "26fbcc78e90d",
       "title": "Exame de sangue que detecta mais de 50 tipos de câncer chega ao Brasil - CNN Brasil",
       "published": "2026-10-06T19:34:53+00:00",
-      "summary": "Exame de sangue que detecta mais de 50 tipos de câncer chega ao Brasil&nbsp;&nbsp;CNN BrasilExame de sangue que busca detectar mais de 50 tipos de câncer chega ao Brasil; entenda&nbsp;&nbsp;Folha de S.PauloEinstein passa a ter teste que detecta mais de 50 tipos de câncer&nbsp;&nbsp;Poder360Exame de sangue que promete detectar 50 tipos de câncer chega ao Brasil, mas tem limitações; entenda&nbsp;&nbsp;EstadãoCâncer: exame de sangue que detecta mais de 50 tipos da doença chega ao país&nbsp;&nbsp;O ",
+      "summary": "Exame de sangue que detecta mais de 50 tipos de câncer chega ao Brasil&nbsp;&nbsp;CNN BrasilExame de sangue que promete detectar 50 tipos de câncer chega ao Brasil, mas tem limitações; entenda&nbsp;&nbsp;EstadãoEinstein passa a ter teste que detecta mais de 50 tipos de câncer&nbsp;&nbsp;Poder360Exame de sangue que busca detectar mais de 50 tipos de câncer chega ao Brasil; entenda&nbsp;&nbsp;Folha de S.PauloCâncer: exame de sangue que detecta mais de 50 tipos da doença chega ao país&nbsp;&nbsp;O ",
       "sources": [
         {
           "name": "CNN Brasil",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQzAxNXEwdEQxNm9TWXE3Z0wtbEt4VlRFWkF0Z3Q3Skt3NXExUXM2SUtfeDVxN0pJV0tqU1c1Q0lXbHR6WnMxTHdOR0xwbkx1Y01tTmtYR1R5alZvSXhFeFctUkN1RkNTQXFreGczaF9INngtX2htUGZRRS1keGVwTjZfVTB0VmdVLXhRNHN2ZnBQQVQ0Z1ctS1Z1cDRqRWt2WHV6MVFya1Vudw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "699f71ff5e80",
-      "title": "Cicatrizes do diabetes: tratamento do ES é referência na prevenção de amputações - A Gazeta",
-      "published": "2026-10-06T19:08:00+00:00",
-      "summary": "Cicatrizes do diabetes: tratamento do ES é referência na prevenção de amputações&nbsp;&nbsp;A GazetaVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "A Gazeta",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLW5xSms5eFdmLWVyRkF1MFYxbEduNUZMc2hhc2hWblVGZmMxWklJNFFmTTQtME5mSDhaenNiZUFzSnlPeWk1cm5VczQ3cmo2TFNtNUR0NDVzWWdhVGtjQkN1WDJRb19hTXlTSTAzR1FRWGs3X2FjclV0NExMeWRDQmpmMm5IQVdDTkJDQWFlYXhQdE8yN0VEZEVCWmM0c0RuNHF4Z1JhVTd4ZXFkMXhhcWlGTUF1aGI5R2duMw?oc=5"
         }
       ]
     },
@@ -278,42 +278,6 @@
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOdmViQzg1SWdzalczakJLRWVJV3FOX0JBWE1qaG9UcGZTUHV4c2w0UUFjNWYxdGZNTzJpTVh5TnkwSW8xWlVMWHNRd1Zjc0s1cnh3YkhFWFIwV04zS3o1THIxU0lIUWFEeVYwbFpSelFYRTZ5MmU2WjlnN3ZuVDdQOXdUTzBrMVVOT2hHVmp1ZG1iX2g1T2tiWGZUeFRKYjl2Y1hCbDZaSnNoRExwSklrRFhubWxoY2cybE5EZkQ2M0swV0xUYmpOQnJENEVCNmhTeDh6Q2QyYzk0aGVnY2owRmNDYnNCZEZUU3YwR2tiT1F3WjdMaGQtRGxWUzg3MTFmVUx4cEZNNNIBlgJBVV95cUxPOFBUUFF6dDkxaXZoVV9iMy1BbWNFNXhpOW1WdHYxUGZ1YUphMDIxTUxIRFJ5Sl9MeC1iMHNFeXdSMFFTVTg4LWVHekRWQ1hFNS1fZGx3ZjB6cFBjVG1zQXdGY0dBR3RTd2haZklJRG93VjZ3aWxQaHo2T09KNHlqMW5KNGZ6UDAxdUhBWF9hcXEtVEhTUWJPQkVtdGh1QmVxZGk2bk12c2VqcXhsakYzUGkybkFpeDRoVjNyS1YzYkhFRmFhaS1GOUxDRDRINllmVjVZZ2p4VHdLRml0Q1lXN2V3aHZZSW5xY0xsM3Eycmt0ZUpNQTNMbHBCWjZadUgwbjdaZllOZF9UUkN5WllXZEc2NUQtUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cbacbac2e8d5",
-      "title": "Aveia ou pão integral no café da manhã: qual vale mais para a saciedade, o intestino e a glicose - Tua Saúde",
-      "published": "2026-10-06T05:56:17+00:00",
-      "summary": "Aveia ou pão integral no café da manhã: qual vale mais para a saciedade, o intestino e a glicose&nbsp;&nbsp;Tua Saúde",
-      "sources": [
-        {
-          "name": "Tua Saúde",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVHExZWlWaDVIUmVaS21wUGpHc1pDa2llS3d3emVLQ1dsdEJTX25mdmpWN0pZSTRkX3BDcjZacWhwUnQyWU8zZ2xhRU44MGY2SUNxWTVwWjF3TDJ5VEJiempoX2RjdEpzUnpJQ1gzNlcwbFp0bWV6SVpwUVdWR0RjZndHNEloSnJpbmlWdFBoN3lFWlRqOHY4M1N5VjFGc0VhMlpCUkFqdXFSbDBiV2MyOXp3dEJ6ckpsSWExTFVsVFJna0tHWTBKZ2pYTkpzYy1qMGc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2c0cd1c57b66",
-      "title": "'Chorei querendo comer': o efeito silencioso das canetas emagrecedoras - UOL",
-      "published": "2026-10-03T12:30:00+00:00",
-      "summary": "'Chorei querendo comer': o efeito silencioso das canetas emagrecedoras&nbsp;&nbsp;UOLParou o GLP-1? Estudo testa estratégias para reduzir o reganho de peso&nbsp;&nbsp;G1“Canetas emagrecedoras”: para que servem, quais são os efeitos colaterais e mais | Comentando Comentários&nbsp;&nbsp;Portal Drauzio VarellaAnvisa alerta sobre canetas emagrecedoras e saúde dos olhos; saiba mais&nbsp;&nbsp;Portal A12As canetas emagrecedoras e o risco para a visão&nbsp;&nbsp;VEJA",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdTNlTFVyQjc1UW5tYm9VV05QMzAycUZ2UWZQcVNFM1MxUE1IdnJmaTd0blROSHA5NVpad2NTTHAzRjZUZDVGNTRKT2JyNi10dmEtdmlUMHFPRTlzLVJtOG43SlA4ZnBqbzZwdE1QNFppZ2Nhd1Bqc3J3ZDA2Y1lnb0E2aXF4aXN6bnpBXzlYblctaTFnbHM4WGVFVWRscEtnanprVFlIM1U4MGhkdGR4LTdlRFBqRzhXVzY1aFBpR1BJdlpyNVE2MjBNQWhFQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ab3910dd8edd",
-      "title": "SUS passa a oferecer três novos medicamentos de alta tecnologia para o tratamento de câncer pulmonar - Jornal da USP",
-      "published": "2026-10-02T12:30:00+00:00",
-      "summary": "SUS passa a oferecer três novos medicamentos de alta tecnologia para o tratamento de câncer pulmonar&nbsp;&nbsp;Jornal da USPVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "Jornal da USP",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOREJCcS14VkJfa1ZLdFY5RkhKX2VlV3RicFEwLVFWZkttWVg5R3N2STljYzloWlNxSTZjX0pfc1haSzJaYmcwZGdQZEVLMlJ4LTkyVS1tMFlqM2t4cXFTWkZkVWpaZkhlbXBGOXc4OEVzb08xWHg1eTlQLXRSYzNMX2hiQzcyWi1NSFRwcGZ0NHhUczQ3Y3VSMThlWUg4R0RsckZhZzdqaVpfZ25fZWFNNngtMXNYX2paSVQyUlpQU21aT1VRZkxPQ1J4YnQ1WjVQa1pJU3BMbkgzUEdWUlE?oc=5"
         }
       ]
     }
