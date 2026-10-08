@@ -14,7 +14,7 @@ permalink: /news/talidomida/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre TALIDOMIDA?">
-<strong>TALIDOMIDA</strong> tem atualmente <strong>0 notícias</strong> e 0 indicações previstas.
+<strong>TALIDOMIDA</strong> tem atualmente <strong>1 notícias</strong> e 0 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -28,9 +28,15 @@ Esta página combina as indicações previstas por IA para TALIDOMIDA com as not
 <p><a href="{{ '/drugs/talidomida/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (0)
+## Notícias relacionadas (1)
 
-*Ainda não há notícias relacionadas. Quando uma notícia mencionar este medicamento, ela será recolhida e exibida aqui automaticamente.*
+### [Vinho em cuba, talidomida e nanomateriais mostram importância do Nobel de Química de 2026 - Folha de S.Paulo](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQXZzZlpsUjh0Q1FZTTdEbGhwbk9wOWU0X2ZxRFZGV3paUFpVZURQZnNfYmhnb3diWmVFWDliLUJlRmplRGdESlg4aC11TElwLURXMnpBZnliU1RCZVcydFVFMEVFMWcweFRWR0FVRk9kTmlNZmFLb1ZQRDNOMnJPQThwNGg0WVM5V3RFM3RGaW5Nd3FKYnlhX1N5UjFpT1FBNklWaC0yd1RIYUMxUVhRcW5heUExLUlyMG9FbmpmM0hWU0htaHlOY1N3cjNxNUY4bkdRRlBtUQ?oc=5)
+
+2026-10-07 <span class="news-drug-tag">TALIDOMIDA</span>
+
+Fonte: [Folha de S.Paulo](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQXZzZlpsUjh0Q1FZTTdEbGhwbk9wOWU0X2ZxRFZGV3paUFpVZURQZnNfYmhnb3diWmVFWDliLUJlRmplRGdESlg4aC11TElwLURXMnpBZnliU1RCZVcydFVFMEVFMWcweFRWR0FVRk9kTmlNZmFLb1ZQRDNOMnJPQThwNGg0WVM5V3RFM3RGaW5Nd3FKYnlhX1N5UjFpT1FBNklWaC0yd1RIYUMxUVhRcW5heUExLUlyMG9FbmpmM0hWU0htaHlOY1N3cjNxNUY4bkdRRlBtUQ?oc=5)
+
+---
 
 
 <div class="disclaimer">
