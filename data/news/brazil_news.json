@@ -1,15 +1,63 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-10-09T05:06:26.945059+00:00",
+  "fetched_at": "2026-10-09T12:46:01.575554+00:00",
   "total_fetched": 78,
   "unique_count": 76,
   "health_related_count": 30,
   "news": [
     {
+      "id": "02af54087a01",
+      "title": "'Mais livre e leve': mulheres contam por que estão felizes na menopausa - UOL",
+      "published": "2026-10-09T12:30:00+00:00",
+      "summary": "'Mais livre e leve': mulheres contam por que estão felizes na menopausa&nbsp;&nbsp;UOLEsquecimentos na menopausa: por que uma palavra pode simplesmente desaparecer no meio da conversa&nbsp;&nbsp;O GLOBONévoa mental na menopausa: Saiba como lidar&nbsp;&nbsp;Imagem da IlhaCalorões da menopausa estão ligados a maior risco cardiovascular&nbsp;&nbsp;CLAUDIA - o sentido femininoAlimentação e menopausa: a importância da dieta personalizada para a saúde feminina&nbsp;&nbsp;Tarobá",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSm5jRVh0cHNYN1N0QTU3TzVqejNRYXdMZEI3dV9IX1ZaX3FOeVdSVC03dE5rN0h4UTlPMVNnNWUxRmdEY1pIU0cwdE1zM0NTVnRjWmhRbl9IYzF1MmlhVDFoaEx4Y05iZGNMYkpaNkxBT1phY1c4aGVkdDZneVBwTm5ZTkFnbUROVW5JdFY0YlpwQWlKNnNQckgtVzJSNEdKOHBHRW9lSzFwSHhvWkM4NnFnNnh1MmhCSVNmckJUaXJJNzhWZm9teEtKOW4yZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "48f385f829d8",
+      "title": "O que diz o maior estudo já realizado sobre a influência da genética na personalidade - VEJA",
+      "published": "2026-10-09T03:50:49+00:00",
+      "summary": "O que diz o maior estudo já realizado sobre a influência da genética na personalidade&nbsp;&nbsp;VEJA",
+      "sources": [
+        {
+          "name": "VEJA",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMFlnNTZwaVV0dGxwMGlGaTBZWW55djFTaUk0RHVxU2RGa0N3bnFPMnJMTm5kT0Q3QjFkWkJmWEJaNlZRQ2lKVkpFMnhlOHlRWEtzeGhxQWVmakJhd0o3c3haVDlIRkNyS3lGRXI2ZG12My1yWmtwT2NyeEJqYThlakhFN0RZMjk0Nld3dkM3OXptclBNU2ZaVmg1RkIzVmIzYlBpQWRNSzFCcDVrbVpUVElGZ3pKNEJaSVFDeQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4121bc2993df",
+      "title": "Anúncio da Anthropic sobre uma descoberta \"liderada por Claude\" está gerando controvérsia - CNN Brasil",
+      "published": "2026-10-09T03:37:49+00:00",
+      "summary": "Anúncio da Anthropic sobre uma descoberta \"liderada por Claude\" está gerando controvérsia&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTzlwVmZCXzZNNWlwZ3dHWmJyX01Zc0h2dTI5Nk9mN3RnemVCTjVxRkk5Q3pUYWFBNlRaWlhyeWo4a3puSmVxWUUxZXJkajhmS2QtX2pGMTNZaUNWenhjZ1pFZ3EwdGdwS1ZKbDBETWs2cFE1MF83QTZIbkYzY1ltRllUYi00aS04TU94czJUMElMNHIxU0pKNWVONjNCVEI4QlNRZWNFWURLTG9nNFZJeE8teDBZSEdmbEM5TW5ZbEM5bTg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "102f43cc85b6",
+      "title": "Doenças cardiovasculares matam uma pessoa a cada 72 segundos no Brasil; mortes podem subir 10,8% até 2030 - G1",
+      "published": "2026-10-09T03:00:00+00:00",
+      "summary": "Doenças cardiovasculares matam uma pessoa a cada 72 segundos no Brasil; mortes podem subir 10,8% até 2030&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUkxOVmg2TWkwdGpFeWZhOW9TdlNwVnoxRGtTLTRsdnp4V1JTR292bnFpc3FtcHpRTVJFVVBydTZQRUVMQVZoNkR2TlNEcXY1TFlqaUhoMks3cDBBTFNTMXJ5ejF4QnhPQXBVZC1pVWQ4WC05YVRmUHNfTjhxeVNXYnpiZE41dVFNMHhseTFjU3RucXk4dWZ2NEdFb2VNaTMyU2c2LUxwZWQwV2o0V25KcXpEOVBQenExbDNXZEEwNzJ6VHlad29sVGNfeW53LTN5VkdqZmdWUUJDNDhCMi1iX0VRT1N4YXp4YWRVR01aTEJTNkXSAYICQVVfeXFMTzRaUVI1YU1aR2cxMkhGc1loSjdldE9nQWtrYXNGQy1OX3BHcl9wMnZxVERabFFtQmswYVB2QkVjTWphWEFUYlo1cF94dGdCb2xVNThQT01MWEo4eXdJZWNMV2hZNlZkbkIzVHFUWXRjcWtmZnhPMzNqeEx5UEVLTUJGSlA4VGNTZjVRU3dUQmtaaTRVOXVGWVZLZS1GR0R5N2pzSklFUzF1NTJSM3NoQUQ5RTNXT3VWcnpoZERPODY3QXp1MFdMRExoMkRQUUV6RnoyV3czd3ZsS2N2UXhUWE5GTVJsaU9qSXllWEZFRU91akZGeHNuVVlfOFRMTXVOM053?oc=5"
+        }
+      ]
+    },
+    {
       "id": "223bac5b3eda",
       "title": "Anvisa autoriza testes em humanos de vacina brasileira contra tipo mais comum de malária - UOL Notícias",
       "published": "2026-10-08T21:57:00+00:00",
-      "summary": "Anvisa autoriza testes em humanos de vacina brasileira contra tipo mais comum de malária&nbsp;&nbsp;UOL NotíciasVacina brasileira contra a malária recebe autorização da Anvisa para iniciar testes em humanos&nbsp;&nbsp;G1‘Marco histórico’: pesquisadora da UFMG celebra avanço de vacina brasileira contra malária&nbsp;&nbsp;Rádio ItatiaiaVacina contra malária da UFMG recebe aval da Anvisa para testes em humanos&nbsp;&nbsp;BHAZAnvisa aprova testes em humanos de vacina contra a malária desenvolvida pe",
+      "summary": "Anvisa autoriza testes em humanos de vacina brasileira contra tipo mais comum de malária&nbsp;&nbsp;UOL NotíciasTestes de vacina brasileira contra a malária serão realizados no Hospital das Clínicas da UFMG; entenda&nbsp;&nbsp;G1‘Marco histórico’: pesquisadora da UFMG celebra avanço de vacina brasileira contra malária&nbsp;&nbsp;Rádio ItatiaiaVacina contra malária da UFMG recebe aval da Anvisa para testes em humanos&nbsp;&nbsp;BHAZVacina contra a malária será testada em humanos em Belo Horizonte",
       "sources": [
         {
           "name": "UOL Notícias",
@@ -18,26 +66,14 @@
       ]
     },
     {
-      "id": "b9dfabdf4cc3",
-      "title": "Vírus respiratórios ainda estão em alta no país, alerta Fiocruz - O Dia",
-      "published": "2026-10-08T21:18:59+00:00",
-      "summary": "Vírus respiratórios ainda estão em alta no país, alerta Fiocruz&nbsp;&nbsp;O DiaVeja mais manchetes e perspectivas no Google Notícias",
+      "id": "7c6ad6c46892",
+      "title": "Vírus respiratórios ainda estão em alta no país, alerta Fiocruz - Agência Brasil",
+      "published": "2026-10-08T20:43:00+00:00",
+      "summary": "Vírus respiratórios ainda estão em alta no país, alerta Fiocruz&nbsp;&nbsp;Agência BrasilCurtas | Brasil&nbsp;&nbsp;Valor EconômicoMato Grosso do Sul está em alerta para casos de SRAG, aponta Fiocruz&nbsp;&nbsp;MidiamaxFiocruz reforça cuidados após aumento de vírus respiratórios; Roraima está em nível de alerta&nbsp;&nbsp;Folha BVFiocruz alerta para aumento de três vírus respiratórios no Brasil&nbsp;&nbsp;ISTOÉ Independente",
       "sources": [
         {
-          "name": "O Dia",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPa0JpSU4yd1R6RWlaWk5hZ3ozYUJad0ZiYUNyTFd3YlFTekN6cmhsbjF5ZEdHZjB1OU1sUTlITFNlVThxcTl5dkpsMzZQZS1OWlQtNm9vYzlRT0FMSktMTXhFQWdTODQtb3h5VXNLcEk0aWZHZ045QXBwVVhqd0pMMURoVmRpVHJmbFZwTXRfWTVXUGRPOG1zZHh2RHNHRzJUQzQzWW5saU1YNVZ6T0picmVYWdIBuAFBVV95cUxOWXRNbDRUT1p3cWtIdXR1OVpmN0xKRE9sUTVvblZVeU90ZWcxUjl6dVhxZm1rZDBwUlFFQTN6MW8xSUh5Mk9VbTNTdTVVbW5ocEktZ29iWUZ5SC1PTUJXY1c4eWFHZkFHaXVnNVJzT05sQVhJZzJKSGw3UWhOZk9hMkxZZzlOejk1LWlFazE3NE92bktBSF9NWkY5NkI5MHkwSE1sTUI1NnFUeF8xR3VQb0RSclFLbjNL?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fe90f9db5cac",
-      "title": "'Perda de duas décadas', diz pesquisador que teve amostras de sangue incendiadas na UFPE - ICL Notícias",
-      "published": "2026-10-08T20:55:01+00:00",
-      "summary": "'Perda de duas décadas', diz pesquisador que teve amostras de sangue incendiadas na UFPE&nbsp;&nbsp;ICL Notícias",
-      "sources": [
-        {
-          "name": "ICL Notícias",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTDJsWDBxSEdudDYwYXBDTWxfNVd1NlhsN0tKSmNPeTBrczlXcnBLWXhPcDlmY3VTOW5qeEp4UWFDTzZNX1Z2ZS1pYk8tUnNoVS05eTFvUmlwSTlORjdkVjZqOVY2T0kwb2VJMVhmd3VPTXAxMmttdzhXRDdqMmxmRg?oc=5"
+          "name": "Agência Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMk9SN3RhY2gtV3FPVktjem96Mm9BbFJfV3lmQmQtUFdzNFRqV0lTT2ptdGdsakduTnRleGVvd29pRWI0T0RFYWtTZG5jM3VDREUtakhXS2RWeERLNkZvYVcyNTl2ckU0OW1ZTUV3UHc3YlBtZDBEcUhXS1NMdGswcWtEcFNJOFBuSGNWWDZnOS13R3c0TTllUFc2NkJBaG5Heko3V2d2UmJMTFc4ZDNrLXFLOHVmSlVl?oc=5"
         }
       ]
     },
@@ -45,7 +81,7 @@
       "id": "35fb91ca620b",
       "title": "INSS reforça apoio às mulheres com câncer no Outubro Rosa — Instituto Nacional do Seguro Social - INSS - Governo Federal",
       "published": "2026-10-08T20:19:09+00:00",
-      "summary": "INSS reforça apoio às mulheres com câncer no Outubro Rosa — Instituto Nacional do Seguro Social - INSS&nbsp;&nbsp;Governo FederalOutubro Rosa: tratamento termina, mas medo do câncer pode permanecer&nbsp;&nbsp;Agência BrasilVeja quais os direitos do trabalhador com câncer&nbsp;&nbsp;G1Câncer de mama: conheça os direitos das pacientes&nbsp;&nbsp;Correio BrazilienseOutubro Rosa no trabalho: o que a lei garante à trabalhadora&nbsp;&nbsp;Folha PE",
+      "summary": "INSS reforça apoio às mulheres com câncer no Outubro Rosa — Instituto Nacional do Seguro Social - INSS&nbsp;&nbsp;Governo FederalOutubro Rosa: tratamento termina, mas medo do câncer pode permanecer&nbsp;&nbsp;Agência BrasilVeja quais os direitos do trabalhador com câncer&nbsp;&nbsp;G1Câncer de mama: conheça os direitos das pacientes&nbsp;&nbsp;Correio BrazilienseDiagnóstico de câncer pode impedir demissão? Advogada explica os direitos da trabalhadora durante o tratamento&nbsp;&nbsp;Jornal Correi",
       "sources": [
         {
           "name": "Governo Federal",
@@ -66,10 +102,22 @@
       ]
     },
     {
+      "id": "1e53023f3730",
+      "title": "'Perda de duas décadas de trabalho', diz pesquisador que teve amostras de sangue incendiadas na UFPE - Folha de S.Paulo",
+      "published": "2026-10-08T18:04:00+00:00",
+      "summary": "'Perda de duas décadas de trabalho', diz pesquisador que teve amostras de sangue incendiadas na UFPE&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQM05NQUlCMUJnZWtKTk1pUTQ0dEMySWl0bDVLamZBREtNMkRpZ1FVT0haeXNmbC1KbFhxZUdPOEp0dkR4TGE5VDV2RXh6cEdXeUdYSnlUeWx5MXU5MEoxS2kteXgzM3p1aGZMaDZyem1sM3FVRms1bWlXeFhoMDItTnVkUDE4NTYyYlUxYVVXeGpyR2hwUHRQSHR6TjFEanNXTHQ2Z3hoWDlmcHVTZU1ELUlyZWxXYktfdnlxWmVTNEp1SUlGemhybDdxZkVDWFc5Z3kwdVo2a0JxZXpJT3VMeVNZRWcwdw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "fd15b345a44b",
       "title": "Aedes aegypti: quase metade dos municípios está em alerta ou risco - Agência Brasil",
       "published": "2026-10-08T16:07:00+00:00",
-      "summary": "Aedes aegypti: quase metade dos municípios está em alerta ou risco&nbsp;&nbsp;Agência BrasilAedes aegypti: 49% dos municípios avaliados estão em situação de alerta ou risco — Ministério da Saúde&nbsp;&nbsp;Governo FederalLiraa aponta 2,5% de infestação do Aedes aegypti em Divinópolis&nbsp;&nbsp;G1Levantamento de infestação do Aedes aegypti atenderá 4,2 mil imóveis em Prudente&nbsp;&nbsp;www.imparcial.com.brQuase metade dos municípios está em alerta para Aedes aegypti&nbsp;&nbsp;Correio Brazilien",
+      "summary": "Aedes aegypti: quase metade dos municípios está em alerta ou risco&nbsp;&nbsp;Agência BrasilAedes aegypti: 49% dos municípios avaliados estão em situação de alerta ou risco — Ministério da Saúde&nbsp;&nbsp;Governo FederalDivinópolis tem região com alto risco de infestação pelo mosquito da dengue&nbsp;&nbsp;G1Levantamento aponta risco de infestação pelo Aedes aegypti em quase 2 mil cidades brasileiras&nbsp;&nbsp;GAZVigilância Epidemiológica inicia levantamento de infestação de dengue&nbsp;&nbsp;P",
       "sources": [
         {
           "name": "Agência Brasil",
@@ -86,18 +134,6 @@
         {
           "name": "Super Rádio Tupi",
           "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQSEpTUVhhaEI3aEtreGZEbHl6Y25IYU0xOWU3WnVsdWZVejBxSTUxNjQ0MzlKOUE4ZnZUUXpEYjM2M0hMcVdhcEZVVk52cGVVNnltYTRQUHJIWEZSZHhMTnl6UFNIMlNYU19Fd2xPTlVnTUo1dDg0R210RkotYUowMUZiT0dPdVp6azZEVW1QeUk3ejR0ZVl2XzhyeXV1ZkJIOFR1VlF2QzBXaUJvRDVJdGM5bHJpTzhaZ3l0MXJJdmxwdWVldF8yOWFCeEpOVV8xWG5DY2k1S3I5ejN4U0pVUXVuVHJxZ0JxNWlqdThveWpoSzI4Tjl5a1ZfTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ad683ddb8cd6",
-      "title": "Ibuprofeno ou naproxeno: qual pesa mais para quem tem problema no rim - Tua Saúde",
-      "published": "2026-10-08T15:53:57+00:00",
-      "summary": "Ibuprofeno ou naproxeno: qual pesa mais para quem tem problema no rim&nbsp;&nbsp;Tua Saúde",
-      "sources": [
-        {
-          "name": "Tua Saúde",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaGF1NGhIRWRnOEF4SzYtQlJMUmdxMDBhT2RKc1NXU3pBU2YxZmhYTzBGeFA4Q2tpTEQ5X2JZRmllVWNTelpIcE1GZWVvWjBneHFKNUFfMHFFTWtMRTJBd0ZLSXItTkc2QjJPREhLQnYyS3pnRW05R1VMbWJ1aHJ2TE1MZXZsY0hRaU9hTWdNWmdNMlh3cE5GUlk5bDhpU3RTY0lWczMxRWU4OWpzRUJZ?oc=5"
         }
       ]
     },
@@ -138,6 +174,18 @@
       ]
     },
     {
+      "id": "35ae2f685042",
+      "title": "Dra. Mariana Vilela e a Casa Santé: saúde se constrói - Campo Grande News",
+      "published": "2026-10-08T11:45:00+00:00",
+      "summary": "Dra. Mariana Vilela e a Casa Santé: saúde se constrói&nbsp;&nbsp;Campo Grande News",
+      "sources": [
+        {
+          "name": "Campo Grande News",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaHBLaUJwNlNKVHh1Rm5ad291d2lHNkY3MTFBdWgxcDJ6QzBtSFpEaGZ6N0QtamtzbUNqOU1MZGVDZExsSWxOZE4tOG5OcmhwcWZOQlVjcVNKdGZOSkNzamIxU3QxbWhpQzFaTGZ3a3dveXlLUnR2cXQ5TU5lN29tUlcxQ3MzWjRobUE5S2J3ZXJmMmEwSXNWZXNENk1mX01IZ29NeWhCWmpVRXhmdk9XN3BYQlo5MEU4czNtX3hZakJDZFc30gHEAUFVX3lxTE51QkhqVm5tbnJUZGh2dTZSQnp6N1Njd252VlJXUXVvS1ItcFhad0RfUVNYOWY1S0pfd0ZLbXZnTDdFVDBtaXZta3Y0ZEJIWDcyNEVDbGlodG9lUFIxdWZxbldubGpKZzJBOTN6dTNsNFZHQWRRSm9RSktxUmdjeXZIQzhBZXZNTmZPOWt6MGhsUkNoenhGenlnclVDeENMOUR6bjNOZ1ZpVWhpY0plSWwtVGJTTDdSOUMwZ2lBbUhkVnZLMzM?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a3bb6fa9362e",
       "title": "Brasil: 30 milhões de crianças estão expostas aos riscos climáticos - Agência Brasil",
       "published": "2026-10-08T10:03:00+00:00",
@@ -153,7 +201,7 @@
       "id": "e4dab7b1dde5",
       "title": "Em 1ª diretriz para obesidade, OMS veta caneta e bariátrica para crianças - UOL Notícias",
       "published": "2026-10-08T10:01:00+00:00",
-      "summary": "Em 1ª diretriz para obesidade, OMS veta caneta e bariátrica para crianças&nbsp;&nbsp;UOL NotíciasOMS divulga orientações globais para tratar obesidade infantil&nbsp;&nbsp;G1Obesidade infantil: OMS recomenda mudança de hábitos e Senado discute alimentação nas escolas&nbsp;&nbsp;Senado FederalOMS lança pela 1ª vez diretriz global sobre obesidade em crianças e adolescentes&nbsp;&nbsp;VEJAOMS veta caneta emagrecedora e cirurgia bariátrica para crianças&nbsp;&nbsp;Poder360",
+      "summary": "Em 1ª diretriz para obesidade, OMS veta caneta e bariátrica para crianças&nbsp;&nbsp;UOL NotíciasOMS divulga orientações globais para tratar obesidade infantil&nbsp;&nbsp;G1OMS veta caneta emagrecedora e cirurgia bariátrica para crianças&nbsp;&nbsp;Poder360Obesidade infantil: OMS recomenda mudança de hábitos e Senado discute alimentação nas escolas&nbsp;&nbsp;Senado FederalOMS lança pela 1ª vez diretriz global sobre obesidade em crianças e adolescentes&nbsp;&nbsp;VEJA",
       "sources": [
         {
           "name": "UOL Notícias",
@@ -177,7 +225,7 @@
       "id": "308bdeaf7136",
       "title": "Meningocócica ACWY: Rio aplica vacina contra contra meningite em pessoas de até 24 anos - G1",
       "published": "2026-10-08T08:00:00+00:00",
-      "summary": "Meningocócica ACWY: Rio aplica vacina contra contra meningite em pessoas de até 24 anos&nbsp;&nbsp;G1Quem pode tomar a vacina contra a meningite no Rio&nbsp;&nbsp;VEJA RIONova Iguaçu amplia vacina contra meningite para jovens de 15 a 24 anos&nbsp;&nbsp;Jornal O FluminenseVacina meningocócica ACWY poderá substituir temporariamente a meningocócica C em Goiás&nbsp;&nbsp;Portal iGSecretaria Estadual de Saúde promove vacinação de resgate contra meningite no Rio, em Belford Roxo, Duque de Caxias e Nov",
+      "summary": "Meningocócica ACWY: Rio aplica vacina contra contra meningite em pessoas de até 24 anos&nbsp;&nbsp;G1Secretaria de Saúde orienta uso antecipado da vacina Meningocócica ACWY&nbsp;&nbsp;G1Meningite: quatro cidades do Rio ofertam vacina a pessoas até 24 anos&nbsp;&nbsp;Agência BrasilPopulação até 24 anos pode se vacinar com a Meningocócica ACWY&nbsp;&nbsp;Diário do RioQuem pode tomar a vacina contra a meningite no Rio&nbsp;&nbsp;VEJA RIO",
       "sources": [
         {
           "name": "G1",
@@ -189,7 +237,7 @@
       "id": "9e1268299074",
       "title": "Canetas emagrecedoras podem mudar nosso jeito de agir? Entenda - O GLOBO",
       "published": "2026-10-08T07:00:00+00:00",
-      "summary": "Canetas emagrecedoras podem mudar nosso jeito de agir? Entenda&nbsp;&nbsp;O GLOBOUma nova revolução: os comprimidos com princípio ativo das canetas emagrecedoras&nbsp;&nbsp;VEJAOftalmologista comenta sinal de alerta sobre canetas emagrecedoras e a visão&nbsp;&nbsp;Correio Braziliense“Canetas emagrecedoras”: para que servem, quais são os efeitos colaterais e mais | Comentando Comentários&nbsp;&nbsp;Portal Drauzio VarellaCanetas emagrecedoras: veja efeito no coração, rins e fígado&nbsp;&nbsp;SBT N",
+      "summary": "Canetas emagrecedoras podem mudar nosso jeito de agir? Entenda&nbsp;&nbsp;O GLOBOCB.Saúde debate riscos das canetas emagrecedoras e cuidados com os olhos&nbsp;&nbsp;Correio BrazilienseUma nova revolução: os comprimidos com princípio ativo das canetas emagrecedoras&nbsp;&nbsp;VEJA“Canetas emagrecedoras”: para que servem, quais são os efeitos colaterais e mais | Comentando Comentários&nbsp;&nbsp;Portal Drauzio VarellaCanetas emagrecedoras: veja efeito no coração, rins e fígado&nbsp;&nbsp;SBT News",
       "sources": [
         {
           "name": "O GLOBO",
@@ -198,26 +246,14 @@
       ]
     },
     {
-      "id": "fb43d02aba18",
-      "title": "Cientistas em Viena e Pequim criam primeiros relógios nucleares do mundo - G1",
-      "published": "2026-10-08T05:00:00+00:00",
-      "summary": "Cientistas em Viena e Pequim criam primeiros relógios nucleares do mundo&nbsp;&nbsp;G1",
+      "id": "663903d03774",
+      "title": "Cientistas em Viena e Pequim criam os primeiros relógios nucleares do mundo - Folha de S.Paulo",
+      "published": "2026-10-08T07:00:00+00:00",
+      "summary": "Cientistas em Viena e Pequim criam os primeiros relógios nucleares do mundo&nbsp;&nbsp;Folha de S.Paulo",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVjhaS092Zkx1VXpXZGtheHpaN2J2LWRfTGVHNzI2eXFTTU5jd2JDdzdIRFpteVNJV3F3aEwxRU1ZdzNjeXY3MWxZRlRCYTBfNHJEWmlYUFMwZHh1WlpmVExtS0dteFd0X01rZlh4ZnNLcUJ0dFpYZjRxVllaaWx1NVdqdlF4ZnNMNmh3dFNjZzRNVnBWU3JGNHdBYXVBMmM1QmhfeDFSV0g4Sk9qcUZwU25ycnhrN3k2a2dudDdINVFvMno40gHTAUFVX3lxTE44SWIxcllXX3BCeXdSMDkzU2h0d2xnbzUtNWM4eUQ3bnNzTEUzS2pQTk0ybm5aeG1lYnV0MjU0M2JXWjl0emNnSjNhNEFrMENIRHYtRVlDNjl4cVd0U09LdGd2VHVFaWh6cVZZbXF1N3ZoYmc0WkdUdVhDeFRoR0N4cURuLVBodU1EQnY3RTlWcU1KWXFfRDlHS1lvaldWM1NmV3V2VWRXUkI1aDcyRDdsZjE5WGhFRFFaa3dmRGdYczdVb0tPdGswWWh6dkhha1BRQmc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "abd45e190a3d",
-      "title": "Colesterol alto: como a ingestão de ovos influencia os níveis no sangue - Tua Saúde",
-      "published": "2026-10-08T03:27:54+00:00",
-      "summary": "Colesterol alto: como a ingestão de ovos influencia os níveis no sangue&nbsp;&nbsp;Tua SaúdeOvo faz bem à saúde? Veja quanto consumir e as melhores formas de preparo&nbsp;&nbsp;CartaCapitalEmpresa amplia automação para acompanhar crescimento do consumo de ovos&nbsp;&nbsp;Correio do PovoSemana Mundial do Ovo: consumo da proteína mais que dobra em 20 anos no Brasil&nbsp;&nbsp;Notícias AgrícolasQuase seis ovos por semana: consumo do gaúcho deve bater recorde em 2026&nbsp;&nbsp;GZH",
-      "sources": [
-        {
-          "name": "Tua Saúde",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSjJYaTFaWkFjREluTmNCLS1EY3ZySGVJWi1pbUp1WFM4TFMzU2xMQlJxYVRvRFp5cFppV3VKdHFENTVsTnlvSm1aUjdSM0VsZFo0cjhyRGJ5UEZ5WldVZXdUX2lxNHRyV0N1am1OTnA1bFlWQThQUzNINk1wR1BtelVNNFhpMjFkSUpaaFQzSXkxMGh5U2VvSms4SHV2eTNQS0tqUVRwNzBnX0VyUTRHZWNB?oc=5"
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORmVCS1o4Wk1xZjhua1dIX2dNSDZ1T25USGVsbm80ZlJjQUNMbEhkNUpldEVneFRrSXFSZjZ0aHBDc2tPZVJBOFpsckljQnJnbmFHOXhXaXJYV0c2T3dYVEhzLVNOVzdzZGxtQzhKNGpiaWdfbzhYRkxxaVRZQmQ1WnA0QUxXM2hHNnlPZkJWdUY1MFZvNVhMYU1mb0RkQkxISVUxMGlZc3JrQXZ0QVNfOFpvUGMtRHpublBmeWY1YXZiV3ItLUE?oc=5"
         }
       ]
     },
@@ -230,30 +266,6 @@
         {
           "name": "Xataka Brasil",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWjlfX1ZuVXVraWR4Yi1VMmN3QUxYYnJOZ2JDSHpqU1JVUk1fMHFVNFRfZk1zYjRvQ0dnOUNqREZqU2x4eTNLdHZEeWk0UE9jZ1R0UmNPSHRZTzdWRnpwSUhaamdtd2RxVGtBNGt5LXo1czVLaGNHamFyZXV6TDRuZHF5MDRocTdVZW9Dall4X21uc01TVjJSN1ZnM0pTY3ZXemo4cWljajJQelpxTTROOEZ1MFFtQUpWbmpmcHZ2ZFAxSkFFMm5TMkg1VDFreWI3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b6711f578b22",
-      "title": "Antena de plasma inovadora transmite e recebe ondas de rádio - Site Inovação Tecnológica",
-      "published": "2026-10-07T11:02:46+00:00",
-      "summary": "Antena de plasma inovadora transmite e recebe ondas de rádio&nbsp;&nbsp;Site Inovação Tecnológica",
-      "sources": [
-        {
-          "name": "Site Inovação Tecnológica",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcHVHWGViTE5xTHFuUGRQbEozYWhadi1GNjVpczdDdFZpWnhNQTh4WVNYTENXQ1BKd3I2YTZ3Qjd0ajhkcERrSlNzdGc4QW1ERTVpQ0d3LWdBQzA5TjJwUk5USmZGQ2FLdm1aLVhBLWllWGlLUEEyaGc0V1g4UnVpMzNCd3JodTVZMHBMalBjTGxjY1Z5UzE0a3ZPdTA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f638dea6ccab",
-      "title": "Por que é mais difícil emagrecer ou manter o peso controlado na menopausa? - UOL",
-      "published": "2026-10-07T08:31:00+00:00",
-      "summary": "Por que é mais difícil emagrecer ou manter o peso controlado na menopausa?&nbsp;&nbsp;UOLEsquecimentos na menopausa: por que uma palavra pode simplesmente desaparecer no meio da conversa&nbsp;&nbsp;O GLOBOCalorões da menopausa estão ligados a maior risco cardiovascular&nbsp;&nbsp;CLAUDIA - o sentido femininoTransição para a menopausa: o que acontece com o corpo durante essa fase?&nbsp;&nbsp;A GazetaMusculação mais intensa pode ajudar mulheres na menopausa, aponta estudo&nbsp;&nbsp;Jornal ES HOJE",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWkZBSWpScEc4SVZoUDEwajVmdWFIdFJ0VmpRYVlEdlpZUXRIeVlxT0wwenBaR0dONzVacTRZbEswS0Jva05scENZNUVXb0hIWEV6Qi1IaDB5S2J6S2FTRWFCTTNHU1EtYnU5UUNMQ0NfWjYzbnZ6V093clRNY0JndHhBY0h4UXpuRWYwbnN0UlplZVh2VjhDaWNQUTh3R2tYU1pabnEwX2s0Ukd4UWlDSGxGLU04Nk92alNtV3dfMFFEVUo4XzJiTTMtdWIzel8td0c4?oc=5"
         }
       ]
     },
@@ -273,23 +285,11 @@
       "id": "288e8fa621c5",
       "title": "Esteatose hepática: nova diretriz não olha só para gordura no fígado para definir riscos do quadro - Estadão",
       "published": "2026-10-07T08:30:00+00:00",
-      "summary": "Esteatose hepática: nova diretriz não olha só para gordura no fígado para definir riscos do quadro&nbsp;&nbsp;EstadãoGordura no fígado não vem apenas da gordura que você come&nbsp;&nbsp;Jornal da USPGordura no fígado: o alerta silencioso que pode levar ao transplante&nbsp;&nbsp;Estado de MinasUm tipo de bebida que \"destrói o fígado\" mais rápido do que comer carne gordurosa: \"Amada por milhares\", muitos se surpreendem porque... estão tão familiarizados com ela.&nbsp;&nbsp;Vietnam.vnDoença hepátic",
+      "summary": "Esteatose hepática: nova diretriz não olha só para gordura no fígado para definir riscos do quadro&nbsp;&nbsp;EstadãoGordura no fígado: o alerta silencioso que pode levar ao transplante&nbsp;&nbsp;Estado de MinasUm tipo de bebida que \"destrói o fígado\" mais rápido do que comer carne gordurosa: \"Amada por milhares\", muitos se surpreendem porque... estão tão familiarizados com ela.&nbsp;&nbsp;Vietnam.vnDoença hepática: cinco formas distintas impactam 30% da população global&nbsp;&nbsp;Правда.РуGor",
       "sources": [
         {
           "name": "Estadão",
           "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPY3V2ZUtqY2hVS1BBN3J5RFVTVURrMWZkLTh3S0xJMXdiX05UaGt5MmEtNkNkREhJRVoyem1TSGRrdXJJaHl2VnFtOGVTYUY0V1U3cFNRRENXbVB3aUdMbjM4X3F3TkwwQkZoN0ZIYnNSUmJBNXlOZTZwTzZsY3BkY1ZweHNIS3ptZEkzMzN4U285VUo0Y2lhRjZaaE5YbEpqSk16Nnpfdk9BMTJ4a2Y1NjRBb1hxYzhjOU1SWGFiREs0WkpJeC1sTlZBTXdrYjZJeFZVcnhjZ2E1MW9vZXhiNVhYNVQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f4e867b502f7",
-      "title": "Quais iniciativas podem tirar o Brasil do 'buraco' na matemática? Estudo lista o que deu certo em escolas públicas - G1",
-      "published": "2026-10-07T08:00:00+00:00",
-      "summary": "Quais iniciativas podem tirar o Brasil do 'buraco' na matemática? Estudo lista o que deu certo em escolas públicas&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNVkJ5cm5oR3dzNS1SNEEwTld1M29VRzIyT09BVlF5OTRRaHQ3U0Y4aFZiUGFVWTVOcjV3WjFXdmYyZnpSRXB4SFI0TUw1ZFB2RDVFU3ZtSTZjMWxHS2JING1NMlNEb05zSWs0bHhnRENkZmpWSGdMdGZzVkw0T24ta256c3lwYkUxUnFzWFJiekJob0pEdmprZlktWGgzaXYtQ2JGMEU4VWlqMFVscWJSN2VvUWUwbHJESGk5Um9MUHJRUktmVDZibDRWMzJBbDktcU56dVlIb3hrbmxTaE5tS2VhQ0lvekNyT3lwc1hCUWhJNnJkMzBic1pB0gGIAkFVX3lxTFBDWjZuYXpmQV9lWU9LekhYVmJhRUcySzZyRFg3eldZcVRETGY2ZzBlRHhqdDExUVNILUY1MUxIaTJPeUZOU3A0bjQ3UENhSUR5S3QxYTVqNUozRFBOelJfVUd6SW9pcG9ZbGVOeS0wbHU3bWE3U1pGLWhBSmFva1JkTm5YaGFvV2hYX1BMejVwTjlia0xlSE5aRVRuRmpyUUwwbmptR2pycVM3OGx0TnpQclExVUxFWGFsRm9zT2gwZ29UNzBTWWpDenRvWWl4VHotbHo4NmlZT1dnVS12MVY5SmNmaEVHWnNMNTM1b0dQNnJzbXRiTkZPdnpJd3NNVDlNNk9XWjUwOA?oc=5"
         }
       ]
     },
@@ -306,22 +306,10 @@
       ]
     },
     {
-      "id": "9917eefc5a96",
-      "title": "Descubra os 3 riscos invisíveis que ameaçam anos extras sem demência - Futura, le média qui explore le monde",
-      "published": "2026-10-06T19:43:45+00:00",
-      "summary": "Descubra os 3 riscos invisíveis que ameaçam anos extras sem demência&nbsp;&nbsp;Futura, le média qui explore le monde",
-      "sources": [
-        {
-          "name": "Futura, le média qui explore le monde",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeS13dy10MktLdTJXN1JGaWZmNW1lckdaQVAtbERBc1ZhakNOeUhlZWxHeWhHWWUwSUgzcmtlZ2ZaY2l4TGtfWkg0dXQ5ZmJnSkUzTWhhSlF1VEZBc2lNMXJYLWJtc3V4R2NybjdYUVphbGc4VUtMZ3BrbWRIcnpsWjZPX2c5engzcnVQdkljQWxJanUwMWlHTGhEVktiUXUxTGtlOVpQeTZHWHNua2xvVHdVVUJlTEU?oc=5"
-        }
-      ]
-    },
-    {
       "id": "26fbcc78e90d",
       "title": "Exame de sangue que detecta mais de 50 tipos de câncer chega ao Brasil - CNN Brasil",
       "published": "2026-10-06T19:34:53+00:00",
-      "summary": "Exame de sangue que detecta mais de 50 tipos de câncer chega ao Brasil&nbsp;&nbsp;CNN BrasilExame de sangue que busca detectar mais de 50 tipos de câncer chega ao Brasil; entenda&nbsp;&nbsp;Folha de S.PauloExame de sangue que promete detectar 50 tipos de câncer chega ao Brasil, mas tem limitações; entenda&nbsp;&nbsp;EstadãoEinstein passa a ter teste que detecta mais de 50 tipos de câncer&nbsp;&nbsp;Poder360Câncer: exame de sangue que detecta mais de 50 tipos da doença chega ao país&nbsp;&nbsp;O ",
+      "summary": "Exame de sangue que detecta mais de 50 tipos de câncer chega ao Brasil&nbsp;&nbsp;CNN BrasilTeste de sangue que detecta sinal associado a mais de 50 tipos de câncer chega ao Brasil&nbsp;&nbsp;VEJAExame de sangue que busca detectar mais de 50 tipos de câncer chega ao Brasil; entenda&nbsp;&nbsp;Folha de S.PauloExame de sangue que promete detectar 50 tipos de câncer chega ao Brasil, mas tem limitações; entenda&nbsp;&nbsp;EstadãoFleury e Einstein trazem ao Brasil teste que detecta mais de 50 tipos d",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -362,6 +350,18 @@
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOdmViQzg1SWdzalczakJLRWVJV3FOX0JBWE1qaG9UcGZTUHV4c2w0UUFjNWYxdGZNTzJpTVh5TnkwSW8xWlVMWHNRd1Zjc0s1cnh3YkhFWFIwV04zS3o1THIxU0lIUWFEeVYwbFpSelFYRTZ5MmU2WjlnN3ZuVDdQOXdUTzBrMVVOT2hHVmp1ZG1iX2g1T2tiWGZUeFRKYjl2Y1hCbDZaSnNoRExwSklrRFhubWxoY2cybE5EZkQ2M0swV0xUYmpOQnJENEVCNmhTeDh6Q2QyYzk0aGVnY2owRmNDYnNCZEZUU3YwR2tiT1F3WjdMaGQtRGxWUzg3MTFmVUx4cEZNNNIBlgJBVV95cUxPOFBUUFF6dDkxaXZoVV9iMy1BbWNFNXhpOW1WdHYxUGZ1YUphMDIxTUxIRFJ5Sl9MeC1iMHNFeXdSMFFTVTg4LWVHekRWQ1hFNS1fZGx3ZjB6cFBjVG1zQXdGY0dBR3RTd2haZklJRG93VjZ3aWxQaHo2T09KNHlqMW5KNGZ6UDAxdUhBWF9hcXEtVEhTUWJPQkVtdGh1QmVxZGk2bk12c2VqcXhsakYzUGkybkFpeDRoVjNyS1YzYkhFRmFhaS1GOUxDRDRINllmVjVZZ2p4VHdLRml0Q1lXN2V3aHZZSW5xY0xsM3Eycmt0ZUpNQTNMbHBCWjZadUgwbjdaZllOZF9UUkN5WllXZEc2NUQtUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e5750c6980f5",
+      "title": "Nova York declara estado de emergência por surto de sarampo - Correio Braziliense",
+      "published": "2026-10-06T03:56:00+00:00",
+      "summary": "Nova York declara estado de emergência por surto de sarampo&nbsp;&nbsp;Correio BrazilienseBrasil registra 52 casos importados de sarampo: 10 deles registrados no AM&nbsp;&nbsp;G1Na conta do negacionismo&nbsp;&nbsp;Correio BrazilienseMinistério da Saúde alerta para risco de retorno do sarampo ao Brasil&nbsp;&nbsp;Agência BrasilAmazonas tem 10 casos confirmados de sarampo desde setembro; 9 pacientes não eram vacinados&nbsp;&nbsp;R7",
+      "sources": [
+        {
+          "name": "Correio Braziliense",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORjJhWk5qUmZuN0pQUVdpNm9vRkNaRmh6SzEyUV9oWUllUldXX0hNMjJlOGdPNElQTWEybHUwb3EwaW5HRkUzbkwxc3dxeGFDUXByRUxnWnF6azV2UmYwYUQ3bkFPNTljUVdUcjlqTGRWX1RXbE9ueVZrd2x0d1cxXzgwTzVHVU5hVmlwZlYtYXY1T1p0UjBjTWJXM1VJQjZmbkU1ZkFVejN2cmxXOEd5ZGVEVlFyYkFnMXdaZ3QtdXlDd9IBxwFBVV95cUxQSy01TVJwR3FTcFVfcFZpN3doMFI0QzNhdl9SYnlUSktrYmJleUFRemNXZ0hnNWNBMWZhQ1k2X3ZFQk80bnFGYU1SWEhWUE10ZWYxMk96emFkM1AwYlg4OEJuSEV3ak9pNllNQ2c4WHludzhrX09KbWtZZlFUOEttblpTSDh1dVY2T3UwenB6WTNUSzZSLVA4TkZmMmFhRTZIMmctMm9aV0JqSlAtUGVRZzdJeDhXLWdyQWRlTWxqcDNaSms1c3lz?oc=5"
         }
       ]
     }
