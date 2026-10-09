@@ -1,24 +1,31 @@
 {
-  "generated": "2026-10-08T23:02:50.654072+00:00",
+  "generated": "2026-10-09T05:06:27.990000+00:00",
   "count": 1,
   "news": [
     {
-      "id": "2f8c93725b57",
-      "title": "Vinho em cuba, talidomida e nanomateriais mostram importância do Nobel de Química de 2026 - Folha de S.Paulo",
-      "published": "2026-10-07T21:30:00+00:00",
+      "id": "ad683ddb8cd6",
+      "title": "Ibuprofeno ou naproxeno: qual pesa mais para quem tem problema no rim - Tua Saúde",
+      "published": "2026-10-08T15:53:57+00:00",
       "sources": [
         {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQXZzZlpsUjh0Q1FZTTdEbGhwbk9wOWU0X2ZxRFZGV3paUFpVZURQZnNfYmhnb3diWmVFWDliLUJlRmplRGdESlg4aC11TElwLURXMnpBZnliU1RCZVcydFVFMEVFMWcweFRWR0FVRk9kTmlNZmFLb1ZQRDNOMnJPQThwNGg0WVM5V3RFM3RGaW5Nd3FKYnlhX1N5UjFpT1FBNklWaC0yd1RIYUMxUVhRcW5heUExLUlyMG9FbmpmM0hWU0htaHlOY1N3cjNxNUY4bkdRRlBtUQ?oc=5"
+          "name": "Tua Saúde",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaGF1NGhIRWRnOEF4SzYtQlJMUmdxMDBhT2RKc1NXU3pBU2YxZmhYTzBGeFA4Q2tpTEQ5X2JZRmllVWNTelpIcE1GZWVvWjBneHFKNUFfMHFFTWtMRTJBd0ZLSXItTkc2QjJPREhLQnYyS3pnRW05R1VMbWJ1aHJ2TE1MZXZsY0hRaU9hTWdNWmdNMlh3cE5GUlk5bDhpU3RTY0lWczMxRWU4OWpzRUJZ?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "drug",
-          "slug": "talidomida",
-          "keyword": "talidomida",
-          "name": "TALIDOMIDA",
-          "url": "/drugs/talidomida/"
+          "slug": "naproxen",
+          "keyword": "naproxen",
+          "name": "NAPROXEN",
+          "url": "/drugs/naproxen/"
+        },
+        {
+          "type": "drug",
+          "slug": "ibuprofen",
+          "keyword": "ibuprofen",
+          "name": "Ibuprofen",
+          "url": "/drugs/ibuprofen/"
         }
       ]
     }

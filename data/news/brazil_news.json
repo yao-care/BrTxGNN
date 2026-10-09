@@ -1,10 +1,46 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-10-08T23:02:49.713304+00:00",
-  "total_fetched": 69,
-  "unique_count": 69,
-  "health_related_count": 26,
+  "fetched_at": "2026-10-09T05:06:26.945059+00:00",
+  "total_fetched": 78,
+  "unique_count": 76,
+  "health_related_count": 30,
   "news": [
+    {
+      "id": "223bac5b3eda",
+      "title": "Anvisa autoriza testes em humanos de vacina brasileira contra tipo mais comum de malária - UOL Notícias",
+      "published": "2026-10-08T21:57:00+00:00",
+      "summary": "Anvisa autoriza testes em humanos de vacina brasileira contra tipo mais comum de malária&nbsp;&nbsp;UOL NotíciasVacina brasileira contra a malária recebe autorização da Anvisa para iniciar testes em humanos&nbsp;&nbsp;G1‘Marco histórico’: pesquisadora da UFMG celebra avanço de vacina brasileira contra malária&nbsp;&nbsp;Rádio ItatiaiaVacina contra malária da UFMG recebe aval da Anvisa para testes em humanos&nbsp;&nbsp;BHAZAnvisa aprova testes em humanos de vacina contra a malária desenvolvida pe",
+      "sources": [
+        {
+          "name": "UOL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNaFZQeG1QRldFOW1NMXdHN2ktZ3NKR0o5MTE3cGl5V0FRRUp1RmFoNkpiRkJLc0FsZ1RscWU3d0E4bmx5NmM0RjFfYmhHaHIxbkMyeWQwN3o5LS1LbHBKYl81TW1qWDRRX2Y0cEU3OGRBR2hZTm4xcGhZb3ItczBka1ljZmV3TzNHNE1LN21sVUNwU21qb0Z0VUdnN0w1ZEVpUEhJdXdnNm4yU01FaFpQc2dYcnNEN2hudE44c1drU255TXlVNDFWWjY0VnRUYVBzRlhHOE91ODlXVzRVT3QtakNxYm8yakJCeHBFdF91UDgtUjd4YkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b9dfabdf4cc3",
+      "title": "Vírus respiratórios ainda estão em alta no país, alerta Fiocruz - O Dia",
+      "published": "2026-10-08T21:18:59+00:00",
+      "summary": "Vírus respiratórios ainda estão em alta no país, alerta Fiocruz&nbsp;&nbsp;O DiaVeja mais manchetes e perspectivas no Google Notícias",
+      "sources": [
+        {
+          "name": "O Dia",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPa0JpSU4yd1R6RWlaWk5hZ3ozYUJad0ZiYUNyTFd3YlFTekN6cmhsbjF5ZEdHZjB1OU1sUTlITFNlVThxcTl5dkpsMzZQZS1OWlQtNm9vYzlRT0FMSktMTXhFQWdTODQtb3h5VXNLcEk0aWZHZ045QXBwVVhqd0pMMURoVmRpVHJmbFZwTXRfWTVXUGRPOG1zZHh2RHNHRzJUQzQzWW5saU1YNVZ6T0picmVYWdIBuAFBVV95cUxOWXRNbDRUT1p3cWtIdXR1OVpmN0xKRE9sUTVvblZVeU90ZWcxUjl6dVhxZm1rZDBwUlFFQTN6MW8xSUh5Mk9VbTNTdTVVbW5ocEktZ29iWUZ5SC1PTUJXY1c4eWFHZkFHaXVnNVJzT05sQVhJZzJKSGw3UWhOZk9hMkxZZzlOejk1LWlFazE3NE92bktBSF9NWkY5NkI5MHkwSE1sTUI1NnFUeF8xR3VQb0RSclFLbjNL?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fe90f9db5cac",
+      "title": "'Perda de duas décadas', diz pesquisador que teve amostras de sangue incendiadas na UFPE - ICL Notícias",
+      "published": "2026-10-08T20:55:01+00:00",
+      "summary": "'Perda de duas décadas', diz pesquisador que teve amostras de sangue incendiadas na UFPE&nbsp;&nbsp;ICL Notícias",
+      "sources": [
+        {
+          "name": "ICL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTDJsWDBxSEdudDYwYXBDTWxfNVd1NlhsN0tKSmNPeTBrczlXcnBLWXhPcDlmY3VTOW5qeEp4UWFDTzZNX1Z2ZS1pYk8tUnNoVS05eTFvUmlwSTlORjdkVjZqOVY2T0kwb2VJMVhmd3VPTXAxMmttdzhXRDdqMmxmRg?oc=5"
+        }
+      ]
+    },
     {
       "id": "35fb91ca620b",
       "title": "INSS reforça apoio às mulheres com câncer no Outubro Rosa — Instituto Nacional do Seguro Social - INSS - Governo Federal",
@@ -30,34 +66,10 @@
       ]
     },
     {
-      "id": "1e53023f3730",
-      "title": "'Perda de duas décadas de trabalho', diz pesquisador que teve amostras de sangue incendiadas na UFPE - Folha de S.Paulo",
-      "published": "2026-10-08T18:04:00+00:00",
-      "summary": "'Perda de duas décadas de trabalho', diz pesquisador que teve amostras de sangue incendiadas na UFPE&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQM05NQUlCMUJnZWtKTk1pUTQ0dEMySWl0bDVLamZBREtNMkRpZ1FVT0haeXNmbC1KbFhxZUdPOEp0dkR4TGE5VDV2RXh6cEdXeUdYSnlUeWx5MXU5MEoxS2kteXgzM3p1aGZMaDZyem1sM3FVRms1bWlXeFhoMDItTnVkUDE4NTYyYlUxYVVXeGpyR2hwUHRQSHR6TjFEanNXTHQ2Z3hoWDlmcHVTZU1ELUlyZWxXYktfdnlxWmVTNEp1SUlGemhybDdxZkVDWFc5Z3kwdVo2a0JxZXpJT3VMeVNZRWcwdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "95455f097baf",
-      "title": "Vacina brasileira contra a malária recebe autorização da Anvisa para iniciar testes em humanos - G1",
-      "published": "2026-10-08T16:51:47+00:00",
-      "summary": "Vacina brasileira contra a malária recebe autorização da Anvisa para iniciar testes em humanos&nbsp;&nbsp;G1UFMG desenvolve vacina inédita contra a malária&nbsp;&nbsp;G1Anvisa autoriza testes em humanos de vacina brasileira contra tipo mais comum de malária&nbsp;&nbsp;EstadãoAnvisa aprova testes em humanos de vacina brasileira contra malária&nbsp;&nbsp;Metrópoles‘Marco histórico’: pesquisadora da UFMG celebra avanço de vacina brasileira contra malária&nbsp;&nbsp;Rádio Itatiaia",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdFR0R0l3MjIwazRPdWozbmp2Y0NJTGMtckphQVNEXzBxVXdCS0ZrekVZM3p2b1N6ejJ5dWx5aGd6Y0w5Ny1hU0FQSWtxWGtCRGo3OTlpRHVmS0hCMEd3dTB5V0NOUVV2amtvLTZLcUUxel9KSVhZX3A4VVlUWERqZ0dXZUNwazNTUDA2QkU1ejdhUXZPVEZfdkdDemxuUTBiTFBKMnNmRnFFWFI3eU9uTTgwZmFyWmZPOE94OFg3WlpnRnpmLTVqRkFxTlJMMV9JMHNtYndnaDg5TTRMLWM40gHuAUFVX3lxTE45UXhaNkltWnkzMGYxSzh1N3FxeXNLMVM4c1dqVWhBa2VsYnh2V2JTc00ydUxHbWZGRDJJcmpOVTYya1YwRUVHNVZBakhtZkNkMkhXeWczRkZyODB3WXZpcll2NFdGbmQzaEYzOVdCNjdLRE1TVUF0SWd0ZG54QUJ0S2M5OHpRMXJRUTRwNjN0Ti05VG9BdHByZDZ5SXR0VjVvVmkzYUlVSmo3cjZRbHE1Q0NudWVad2VWX0JxYUZxM1hBT1F2bVNyUzhZS3R5eWFNa3lMYm9mYml0MlV3VjJScVRSMGdJUDI1c3lxaHc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "fd15b345a44b",
       "title": "Aedes aegypti: quase metade dos municípios está em alerta ou risco - Agência Brasil",
       "published": "2026-10-08T16:07:00+00:00",
-      "summary": "Aedes aegypti: quase metade dos municípios está em alerta ou risco&nbsp;&nbsp;Agência BrasilAedes aegypti: 49% dos municípios avaliados estão em situação de alerta ou risco — Ministério da Saúde&nbsp;&nbsp;Governo FederalLiraa aponta 2,5% de infestação do Aedes aegypti em Divinópolis&nbsp;&nbsp;G1Quase metade dos municípios está em alerta para Aedes aegypti&nbsp;&nbsp;Correio BrazilienseAedes aegypti: 49% dos municípios avaliados estão em situação de alerta ou risco para mosquito&nbsp;&nbsp;Folh",
+      "summary": "Aedes aegypti: quase metade dos municípios está em alerta ou risco&nbsp;&nbsp;Agência BrasilAedes aegypti: 49% dos municípios avaliados estão em situação de alerta ou risco — Ministério da Saúde&nbsp;&nbsp;Governo FederalLiraa aponta 2,5% de infestação do Aedes aegypti em Divinópolis&nbsp;&nbsp;G1Levantamento de infestação do Aedes aegypti atenderá 4,2 mil imóveis em Prudente&nbsp;&nbsp;www.imparcial.com.brQuase metade dos municípios está em alerta para Aedes aegypti&nbsp;&nbsp;Correio Brazilien",
       "sources": [
         {
           "name": "Agência Brasil",
@@ -78,6 +90,54 @@
       ]
     },
     {
+      "id": "ad683ddb8cd6",
+      "title": "Ibuprofeno ou naproxeno: qual pesa mais para quem tem problema no rim - Tua Saúde",
+      "published": "2026-10-08T15:53:57+00:00",
+      "summary": "Ibuprofeno ou naproxeno: qual pesa mais para quem tem problema no rim&nbsp;&nbsp;Tua Saúde",
+      "sources": [
+        {
+          "name": "Tua Saúde",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaGF1NGhIRWRnOEF4SzYtQlJMUmdxMDBhT2RKc1NXU3pBU2YxZmhYTzBGeFA4Q2tpTEQ5X2JZRmllVWNTelpIcE1GZWVvWjBneHFKNUFfMHFFTWtMRTJBd0ZLSXItTkc2QjJPREhLQnYyS3pnRW05R1VMbWJ1aHJ2TE1MZXZsY0hRaU9hTWdNWmdNMlh3cE5GUlk5bDhpU3RTY0lWczMxRWU4OWpzRUJZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "be12173f8b57",
+      "title": "Ao inserir o gene de um tardígrado japonês em células humanas, os pesquisadores deram ao nosso DNA uma proteção que a evolução nunca nos concede - Minha Vida Saúde",
+      "published": "2026-10-08T15:16:37+00:00",
+      "summary": "Ao inserir o gene de um tardígrado japonês em células humanas, os pesquisadores deram ao nosso DNA uma proteção que a evolução nunca nos concede&nbsp;&nbsp;Minha Vida Saúde",
+      "sources": [
+        {
+          "name": "Minha Vida Saúde",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04cVJIT1VoREhrd2U4Q0ZETGRNWnJtSDBIV0ZKS1JlbTJoNWVEWEZsbng3SXl2aUNkdF9UbUlmYnlTTHRFakhpXzU3UkpkdjY3RU9ybU1KWnBfRnpJYk4tONIBZkFVX3lxTE5nZ0g0RkFmU3BQWW0wZE1Zd19RaHZYT2s5b0Y2T204elNwNFZKWnVnNGI5cWFJYjVmVVBSWEpwRjdCNnRRU1hKUVJMekU3aDc2cFVLQjlMenNOSzJuRDhCYW8wN1dJdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b235cc01bfef",
+      "title": "Após sofrimento mental na família, psicóloga cria IA de apoio emocional - UOL",
+      "published": "2026-10-08T13:00:00+00:00",
+      "summary": "Após sofrimento mental na família, psicóloga cria IA de apoio emocional&nbsp;&nbsp;UOL",
+      "sources": [
+        {
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYjQ1Y2RjSzFVN3RsbTQtV2l3NlZHWnpRdFFnTHU0YkdMaTdQVV9WdzhUT3lsSGRTR0ZyS3lpWkRzNUlxVklaanoxb3NFcE41UG9TMUs1SzJtNVJYaFZFdU5kU3RvdS10X2kzUWZlODNYcVlqeFZYSEtZWEZ3eXNISERNNlJnVnp3RGdlcXdrcVUyLXFZODdwdFNkRGlZZkZnQUFEbjRFY2JHQmlRdjF6Nks2eThpdmxMaFZSSEgxdHhmREY1OHhRTnQtdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "858282a44648",
+      "title": "O tratamento da artrite psoriásica ganha novos protagonistas - Medscape",
+      "published": "2026-10-08T11:53:05+00:00",
+      "summary": "O tratamento da artrite psoriásica ganha novos protagonistas&nbsp;&nbsp;Medscape",
+      "sources": [
+        {
+          "name": "Medscape",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNjRSejQwUDJVQk1qMThXYUQ3Yk5ZYVZUNEs1SnBiX3VjUkhObzljbHZLS3JHTG5wZWRwMjh5aEE5ODZiNWJzakJxakd6aXpYT25vaWs2RTZ6aUJsd0M0M3F5WmVCLXdVVlh0V05uMldyM1NFQVhlVnYybE5hMmx4TDFFanM1OWZFQlpkQWdOUG9BUzRxZkJzN2VxdHBXMDAyTHp5UHpuNFlnZVFEenRacDJTaHFnU3M?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a3bb6fa9362e",
       "title": "Brasil: 30 milhões de crianças estão expostas aos riscos climáticos - Agência Brasil",
       "published": "2026-10-08T10:03:00+00:00",
@@ -93,7 +153,7 @@
       "id": "e4dab7b1dde5",
       "title": "Em 1ª diretriz para obesidade, OMS veta caneta e bariátrica para crianças - UOL Notícias",
       "published": "2026-10-08T10:01:00+00:00",
-      "summary": "Em 1ª diretriz para obesidade, OMS veta caneta e bariátrica para crianças&nbsp;&nbsp;UOL NotíciasOMS divulga orientações globais para o tratamento da obesidade infantil; cardiologista fala sobre cuidados&nbsp;&nbsp;G1Obesidade infantil: OMS recomenda mudança de hábitos e Senado discute alimentação nas escolas&nbsp;&nbsp;Senado FederalOMS lança pela 1ª vez diretriz global sobre obesidade em crianças e adolescentes&nbsp;&nbsp;VEJAOMS veta caneta emagrecedora e cirurgia bariátrica para crianças&nbs",
+      "summary": "Em 1ª diretriz para obesidade, OMS veta caneta e bariátrica para crianças&nbsp;&nbsp;UOL NotíciasOMS divulga orientações globais para tratar obesidade infantil&nbsp;&nbsp;G1Obesidade infantil: OMS recomenda mudança de hábitos e Senado discute alimentação nas escolas&nbsp;&nbsp;Senado FederalOMS lança pela 1ª vez diretriz global sobre obesidade em crianças e adolescentes&nbsp;&nbsp;VEJAOMS veta caneta emagrecedora e cirurgia bariátrica para crianças&nbsp;&nbsp;Poder360",
       "sources": [
         {
           "name": "UOL Notícias",
@@ -117,11 +177,23 @@
       "id": "308bdeaf7136",
       "title": "Meningocócica ACWY: Rio aplica vacina contra contra meningite em pessoas de até 24 anos - G1",
       "published": "2026-10-08T08:00:00+00:00",
-      "summary": "Meningocócica ACWY: Rio aplica vacina contra contra meningite em pessoas de até 24 anos&nbsp;&nbsp;G1Secretaria de Saúde orienta uso antecipado da vacina Meningocócica ACWY&nbsp;&nbsp;G1Quem pode tomar a vacina contra a meningite no Rio&nbsp;&nbsp;VEJA RIONova Iguaçu amplia vacinação contra meningite para jovens até 24 anos&nbsp;&nbsp;Diário do RioVacina meningocócica ACWY poderá substituir temporariamente a meningocócica C em Goiás&nbsp;&nbsp;Portal iG",
+      "summary": "Meningocócica ACWY: Rio aplica vacina contra contra meningite em pessoas de até 24 anos&nbsp;&nbsp;G1Quem pode tomar a vacina contra a meningite no Rio&nbsp;&nbsp;VEJA RIONova Iguaçu amplia vacina contra meningite para jovens de 15 a 24 anos&nbsp;&nbsp;Jornal O FluminenseVacina meningocócica ACWY poderá substituir temporariamente a meningocócica C em Goiás&nbsp;&nbsp;Portal iGSecretaria Estadual de Saúde promove vacinação de resgate contra meningite no Rio, em Belford Roxo, Duque de Caxias e Nov",
       "sources": [
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNW9YQXcyTVBsMGc1NWx3RVZnV2hQbGViSU5ES1g2QkhSUnpmRXA4amF2b3FOLURyLXk3bWFNcWVhbm1kRU5Qb0NkT3ZEdThGejdWYktxVFAxRUVRbG5NZVNpanhkRFF6MUFHMmVxRVZwMlBrOUp6d1hRbFpNd0lwVjZ3aW9TUm1IOFEyd1BLWVo3SFY5eFJMazRmOVFLOGhDNUNJR0hZMUzSAbcBQVVfeXFMUDZERGhjYTJwR1pCT0Z2Y2s1R25HeW1FYjRib29UOHVnX1FSQTRNQy1ac3JmR2dqS3hsU2UtN1JLOF90U1ZMT2tIZXpFcHNqZUJNUFRhZ05KbmdacVdfWE01eEx0LWdtOGVGMmNER1c3emdrQzVWaVFlVzBUblJsbklVRElSZTgwbmhaOE1pSk5SOWh0NFVHQ3VwM3ZSaW1vM1M1NmZJR2lZWU50V0h0c29meERDRlpv?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9e1268299074",
+      "title": "Canetas emagrecedoras podem mudar nosso jeito de agir? Entenda - O GLOBO",
+      "published": "2026-10-08T07:00:00+00:00",
+      "summary": "Canetas emagrecedoras podem mudar nosso jeito de agir? Entenda&nbsp;&nbsp;O GLOBOUma nova revolução: os comprimidos com princípio ativo das canetas emagrecedoras&nbsp;&nbsp;VEJAOftalmologista comenta sinal de alerta sobre canetas emagrecedoras e a visão&nbsp;&nbsp;Correio Braziliense“Canetas emagrecedoras”: para que servem, quais são os efeitos colaterais e mais | Comentando Comentários&nbsp;&nbsp;Portal Drauzio VarellaCanetas emagrecedoras: veja efeito no coração, rins e fígado&nbsp;&nbsp;SBT N",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQX3YydjJGaWdXLVZ0N2t2RXAxdF9vZkp4MnhkUzNockJoaUFNd0JtU3VqSHdVOVZwQzd1ejZwODNhTC1TMGx3b2tUN25PWF83TGhGYnQ1WEVsb1BhT2szOVpPYUY4TElnbVEzUmZUNXQ3ejRocmYtdkxRcWlaN2Y0QkRjWUJaSi1PWl8wcWRUSEo2ZXN5SUtRUGc1SWhtTldUNmdkRWlsMWhDbVhEWlBCSW5IRklMZ9IBxAFBVV95cUxNTUtMUWU3ZXd4c0VfZHRMZGVtV3RpMExLeHU4WGd5OUNPRDlmLVBqZ05fZ1RJZVR4Z2tXZ2x0OWlncFloZV9vRzlIaW5HMzhIUkJHZV9yV3dmenZiLUdkNGk4c3FUcGlDMWdGWk9SUEZOdnViSDNrNXMwUVNJSnc0OWlIbEhHcWNibDc0czViek1lcUFmQnFxeVRVNngxcFJhdFZrYmVjQWJ2cmoyQXN1SWNPcU83MGlnbUNFdUhDWldlQnBf?oc=5"
         }
       ]
     },
@@ -138,26 +210,14 @@
       ]
     },
     {
-      "id": "c7ca23517772",
-      "title": "Parou o GLP-1? Estudo testa estratégias para reduzir o reganho de peso - G1",
-      "published": "2026-10-08T03:00:00+00:00",
-      "summary": "Parou o GLP-1? Estudo testa estratégias para reduzir o reganho de peso&nbsp;&nbsp;G1Canetas emagrecedoras podem mudar nosso jeito de agir? Entenda&nbsp;&nbsp;O GLOBOComeçou a perder peso com a caneta emagrecedora e percebeu mais cabelo caindo? Entenda o que pode estar acontecendo&nbsp;&nbsp;Terra“Canetas emagrecedoras”: para que servem, quais são os efeitos colaterais e mais | Comentando Comentários&nbsp;&nbsp;Portal Drauzio VarellaCanetas emagrecedoras: veja efeito no coração, rins e fígado&nbs",
+      "id": "abd45e190a3d",
+      "title": "Colesterol alto: como a ingestão de ovos influencia os níveis no sangue - Tua Saúde",
+      "published": "2026-10-08T03:27:54+00:00",
+      "summary": "Colesterol alto: como a ingestão de ovos influencia os níveis no sangue&nbsp;&nbsp;Tua SaúdeOvo faz bem à saúde? Veja quanto consumir e as melhores formas de preparo&nbsp;&nbsp;CartaCapitalEmpresa amplia automação para acompanhar crescimento do consumo de ovos&nbsp;&nbsp;Correio do PovoSemana Mundial do Ovo: consumo da proteína mais que dobra em 20 anos no Brasil&nbsp;&nbsp;Notícias AgrícolasQuase seis ovos por semana: consumo do gaúcho deve bater recorde em 2026&nbsp;&nbsp;GZH",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORThuZ3plcWl2LU9CLVFZbkczVkFjTjd5Zkg0ZW9yd04zMHRrYXMxMUZhV25Yem05QnAzbFdFRldfdGVWRkJNUGdVWWlkZ3R2czNOZkdBdy1ibzRzdy1LLTFqUmpvWVExbWpvb2wyYVhsUGlRNWRJbWJwZHY5R2Z6ZFJscnp4OG8yRHZuWHc5bmJLY3h6YnhETDNmcGhvbDRhNzcwTkw0QnRPVy1TRmNjMFZZdTlCYmRaUmVleHdn0gHMAUFVX3lxTE8tRUZLT3dTY1REMEVkYnM3RENUclB4ejY1bkZuelRUYzNYN0hJTGZaaFBzNnc3YVVqRkVGeHQ0NklfVVFnNzc1NWMtZXE5Q09qR3l6YzJQTExGNG9zZkFPb0hYb0lNUzNkbXFfWmhDa240b1I4cEN6UHpkNldVOG1KckhoT0VqLXA1bmhhdFBfbC0waWh3ZGRYMGx5SWoyTG9vS2F4cVEtTnZsbGljazZsSS0tMTBaR0hsbF9vNExRb2Mzd2tGbU1KNXJLbg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ef51efe2aba2",
-      "title": "Meningite viral em crianças leva cidade de MT a suspender aulas nas escolas - G1",
-      "published": "2026-10-07T23:32:43+00:00",
-      "summary": "Meningite viral em crianças leva cidade de MT a suspender aulas nas escolas&nbsp;&nbsp;G1Casos de meningite viral são confirmados em alunos de duas escolas de Araputanga&nbsp;&nbsp;Popular OnlineApós três casos de meningite viral em crianças, Araputanga suspende aulas na rede municipal&nbsp;&nbsp;Expressão NotíciasMeningite viral em crianças suspende aulas e festa do Dia das Crianças em MT&nbsp;&nbsp;Primeira PáginaApós confirmação de casos de meningite, prefeitura suspende aulas e comemoração d",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOX2x5QWVKOFozZzZpOWNqX3NKWjItQ3k2Wk92dVdpRjduaENKbTZqZjB0NXR4WWhVb1BaWUlWUGczeFhIU19Ta00yWWJUb2h1eXJPTFRUc2s1WC1DNkdfY2QwUkdobld6b0NLS2Q0ajY0Z2JNYnc3VU9hc2Q5ODVZNmhBanAzdkUzbUo2V2RITHo1U1JycnBVelo0R3lDM3QyR01xY1U2Rmo5U09GUVN5SnV4UFV3bFhsdml5Mkd1dlZxSjdqOVBLQ01pM20ta1ZUb0HSAeABQVVfeXFMTzFSNzRiZHdraWdkMDJtSENCclltNzBjcmlkanQ0WmktV0Rkb0NwdnVLV0JMNEdxS2dWU3pWY0lBbFgwQXdSaFNxOUlrV0JRN0pTMUt6M1JaM0VTVS1BcmVTckMwc2hkdWtUTE95UHpaVlYyVEoxODdEbFcwcHFjai1vbmJsa0tITTBiRFhEZ2ZlbVN0dE9PUFcyRUwzWV81QjZxa2dyeXBrV2xUZ01yOXh0TjFuOG9GWlAyNzQzZ2J5NWhydTc4MXN0bS1kbm9OQndOZkJjWTdkZ0hQM2hnTlE?oc=5"
+          "name": "Tua Saúde",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSjJYaTFaWkFjREluTmNCLS1EY3ZySGVJWi1pbUp1WFM4TFMzU2xMQlJxYVRvRFp5cFppV3VKdHFENTVsTnlvSm1aUjdSM0VsZFo0cjhyRGJ5UEZ5WldVZXdUX2lxNHRyV0N1am1OTnA1bFlWQThQUzNINk1wR1BtelVNNFhpMjFkSUpaaFQzSXkxMGh5U2VvSms4SHV2eTNQS0tqUVRwNzBnX0VyUTRHZWNB?oc=5"
         }
       ]
     },
@@ -186,22 +246,10 @@
       ]
     },
     {
-      "id": "2612919fe1d7",
-      "title": "\"Toda mulher é uma joia rara\": pacientes com câncer de mama aprendem a produzir joias no ES - Folha Vitória",
-      "published": "2026-10-07T11:00:00+00:00",
-      "summary": "\"Toda mulher é uma joia rara\": pacientes com câncer de mama aprendem a produzir joias no ES&nbsp;&nbsp;Folha Vitória",
-      "sources": [
-        {
-          "name": "Folha Vitória",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSUdTN01GaUZjWGlBZGROWTdZdFFIZ0c3bGpfeDRXZVQ4OWVNaGU4bmdNTzl3VTdzNjIxMmp6V3lTcFM5ZE1zNGNUMGRXRURTaGdwZEI1WG9vZGZYNXZxYWlZWnFyMnZCRExna1JXWl9WRXdoNzgzTkRPNGVIaGZvY1ZyVU1WcjdqOEtmcnI5RWdDMEVJSlEzZEFNV1g5ZjN1dXVoUFZzN1BZM1hQa0FPUkJ6Z2NlS25HbzNBeDRLTWRxbVVGTGo0ejVVOEZ3ajNOTjdmem8xbGY?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f638dea6ccab",
       "title": "Por que é mais difícil emagrecer ou manter o peso controlado na menopausa? - UOL",
       "published": "2026-10-07T08:31:00+00:00",
-      "summary": "Por que é mais difícil emagrecer ou manter o peso controlado na menopausa?&nbsp;&nbsp;UOLEsquecimentos na menopausa: por que uma palavra pode simplesmente desaparecer no meio da conversa&nbsp;&nbsp;O GLOBOCalorões da menopausa estão ligados a maior risco cardiovascular&nbsp;&nbsp;CLAUDIA - o sentido femininoTransição para a menopausa: o que acontece com o corpo durante essa fase?&nbsp;&nbsp;A GazetaEstudo aponta benefícios da musculação intensa para menopausa&nbsp;&nbsp;www.guairanews.com",
+      "summary": "Por que é mais difícil emagrecer ou manter o peso controlado na menopausa?&nbsp;&nbsp;UOLEsquecimentos na menopausa: por que uma palavra pode simplesmente desaparecer no meio da conversa&nbsp;&nbsp;O GLOBOCalorões da menopausa estão ligados a maior risco cardiovascular&nbsp;&nbsp;CLAUDIA - o sentido femininoTransição para a menopausa: o que acontece com o corpo durante essa fase?&nbsp;&nbsp;A GazetaMusculação mais intensa pode ajudar mulheres na menopausa, aponta estudo&nbsp;&nbsp;Jornal ES HOJE",
       "sources": [
         {
           "name": "UOL",
@@ -213,7 +261,7 @@
       "id": "146cc669a246",
       "title": "Estudo identifica “aumento significativo” de casos de cancro precoce - Público",
       "published": "2026-10-07T08:30:00+00:00",
-      "summary": "Estudo identifica “aumento significativo” de casos de cancro precoce&nbsp;&nbsp;PúblicoCâncer de próstata: número de casos em homens mais jovens triplicou nos últimos 22 anos; entenda&nbsp;&nbsp;O GLOBOCâncer cresce mais rápido entre pessoas com menos de 50 anos, aponta pesquisa internacional&nbsp;&nbsp;ncnews.com.br7 tipos de câncer crescem mais rápido entre jovens, aponta pesquisa; veja quais&nbsp;&nbsp;ExameCâncer em adultos jovens: casos aumentam no Reino Unido&nbsp;&nbsp;Gazeta do Povo",
+      "summary": "Estudo identifica “aumento significativo” de casos de cancro precoce&nbsp;&nbsp;PúblicoCâncer de próstata: número de casos em homens mais jovens triplicou nos últimos 22 anos; entenda&nbsp;&nbsp;O GLOBOCâncer cresce mais rápido entre pessoas com menos de 50 anos, aponta pesquisa internacional&nbsp;&nbsp;ncnews.com.brCâncer em adultos jovens: casos aumentam no Reino Unido&nbsp;&nbsp;Gazeta do Povo7 tipos de câncer crescem mais rápido entre jovens, aponta pesquisa; veja quais&nbsp;&nbsp;Exame",
       "sources": [
         {
           "name": "Público",
@@ -258,14 +306,14 @@
       ]
     },
     {
-      "id": "f28db0d5f053",
-      "title": "Brasil intensifica ações contra o sarampo diante de surto nos EUA e avanço da doença nas Américas - Governo Federal",
-      "published": "2026-10-06T21:56:00+00:00",
-      "summary": "Brasil intensifica ações contra o sarampo diante de surto nos EUA e avanço da doença nas Américas&nbsp;&nbsp;Governo FederalVeja mais manchetes e perspectivas no Google Notícias",
+      "id": "9917eefc5a96",
+      "title": "Descubra os 3 riscos invisíveis que ameaçam anos extras sem demência - Futura, le média qui explore le monde",
+      "published": "2026-10-06T19:43:45+00:00",
+      "summary": "Descubra os 3 riscos invisíveis que ameaçam anos extras sem demência&nbsp;&nbsp;Futura, le média qui explore le monde",
       "sources": [
         {
-          "name": "Governo Federal",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPcEduMElvYzN3TXEwSWNxTDkwX3hxSWF5RUZQTlpiRUY5QUpRelRyU0RnOVNZRjJyVDFGQXNOZVhqelg2OHdqR1dXaE1JamhHOXVRWjY1Y3paUnpITHFZOEdENlJ2VGdRUlBYT2FLQUxWY1JrSndjLWNFZFh4Yy04MnlCT2VXWll0UUg3b0c3Uk5hejRBU0NTWjdxRko2UzlnZllQMHlULU90dTNaQnBmQUdEQ0pKLTBUaldGVC16ZFN6T1Q0TWswSnptODlFV3lROWwyQ1dvOWVpRVJ3NnRsQl9WT1Y5N3A2dVhXSWZoVmVudmJv?oc=5"
+          "name": "Futura, le média qui explore le monde",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeS13dy10MktLdTJXN1JGaWZmNW1lckdaQVAtbERBc1ZhakNOeUhlZWxHeWhHWWUwSUgzcmtlZ2ZaY2l4TGtfWkg0dXQ5ZmJnSkUzTWhhSlF1VEZBc2lNMXJYLWJtc3V4R2NybjdYUVphbGc4VUtMZ3BrbWRIcnpsWjZPX2c5engzcnVQdkljQWxJanUwMWlHTGhEVktiUXUxTGtlOVpQeTZHWHNua2xvVHdVVUJlTEU?oc=5"
         }
       ]
     },
@@ -273,7 +321,7 @@
       "id": "26fbcc78e90d",
       "title": "Exame de sangue que detecta mais de 50 tipos de câncer chega ao Brasil - CNN Brasil",
       "published": "2026-10-06T19:34:53+00:00",
-      "summary": "Exame de sangue que detecta mais de 50 tipos de câncer chega ao Brasil&nbsp;&nbsp;CNN BrasilExame de sangue que promete detectar 50 tipos de câncer chega ao Brasil, mas tem limitações; entenda&nbsp;&nbsp;EstadãoEinstein passa a ter teste que detecta mais de 50 tipos de câncer&nbsp;&nbsp;Poder360Fleury e Einstein trazem ao Brasil teste que detecta mais de 50 tipos de câncer&nbsp;&nbsp;ExameCâncer: exame de sangue que detecta mais de 50 tipos da doença chega ao país&nbsp;&nbsp;O GLOBO",
+      "summary": "Exame de sangue que detecta mais de 50 tipos de câncer chega ao Brasil&nbsp;&nbsp;CNN BrasilExame de sangue que busca detectar mais de 50 tipos de câncer chega ao Brasil; entenda&nbsp;&nbsp;Folha de S.PauloExame de sangue que promete detectar 50 tipos de câncer chega ao Brasil, mas tem limitações; entenda&nbsp;&nbsp;EstadãoEinstein passa a ter teste que detecta mais de 50 tipos de câncer&nbsp;&nbsp;Poder360Câncer: exame de sangue que detecta mais de 50 tipos da doença chega ao país&nbsp;&nbsp;O ",
       "sources": [
         {
           "name": "CNN Brasil",

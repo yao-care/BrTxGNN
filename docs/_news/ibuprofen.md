@@ -14,7 +14,7 @@ permalink: /news/ibuprofen/
 ---
 
 <p class="key-answer" data-question="Que notícias há sobre Ibuprofen?">
-<strong>Ibuprofen</strong> tem atualmente <strong>0 notícias</strong> e 10 indicações previstas.
+<strong>Ibuprofen</strong> tem atualmente <strong>1 notícias</strong> e 10 indicações previstas.
 </p>
 
 <div class="key-takeaway">
@@ -40,9 +40,15 @@ Esta página combina as indicações previstas por IA para Ibuprofen com as not�
 <p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">Ver o relatório completo do medicamento →</a></p>
 </div>
 
-## Notícias relacionadas (0)
+## Notícias relacionadas (1)
 
-*Ainda não há notícias relacionadas. Quando uma notícia mencionar este medicamento, ela será recolhida e exibida aqui automaticamente.*
+### [Ibuprofeno ou naproxeno: qual pesa mais para quem tem problema no rim - Tua Saúde](https://news.google.com/rss/articles/CBMirwFBVV95cUxNaGF1NGhIRWRnOEF4SzYtQlJMUmdxMDBhT2RKc1NXU3pBU2YxZmhYTzBGeFA4Q2tpTEQ5X2JZRmllVWNTelpIcE1GZWVvWjBneHFKNUFfMHFFTWtMRTJBd0ZLSXItTkc2QjJPREhLQnYyS3pnRW05R1VMbWJ1aHJ2TE1MZXZsY0hRaU9hTWdNWmdNMlh3cE5GUlk5bDhpU3RTY0lWczMxRWU4OWpzRUJZ?oc=5)
+
+2026-10-08 <span class="news-drug-tag">NAPROXEN</span> <span class="news-drug-tag">Ibuprofen</span>
+
+Fonte: [Tua Saúde](https://news.google.com/rss/articles/CBMirwFBVV95cUxNaGF1NGhIRWRnOEF4SzYtQlJMUmdxMDBhT2RKc1NXU3pBU2YxZmhYTzBGeFA4Q2tpTEQ5X2JZRmllVWNTelpIcE1GZWVvWjBneHFKNUFfMHFFTWtMRTJBd0ZLSXItTkc2QjJPREhLQnYyS3pnRW05R1VMbWJ1aHJ2TE1MZXZsY0hRaU9hTWdNWmdNMlh3cE5GUlk5bDhpU3RTY0lWczMxRWU4OWpzRUJZ?oc=5)
+
+---
 
 
 <div class="disclaimer">
