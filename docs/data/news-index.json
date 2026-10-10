@@ -1,5 +1,65 @@
 {
-  "generated": "2026-10-10T04:52:20.451886+00:00",
-  "count": 0,
-  "news": []
+  "generated": "2026-10-10T12:04:30.744891+00:00",
+  "count": 1,
+  "news": [
+    {
+      "id": "3ef58a77f39b",
+      "title": "Idosos a partir de 85 anos podem receber vacina Pneumo 20 em Pernambuco: veja como se imunizar",
+      "published": "2026-10-09T15:04:04+00:00",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYklwQWVfQnM3Y3ZVbEN1cXo0M01BdFIxbnRYemVocUQzUjBVWS1WM0FUQkgwbTk2ZWV3SkhMdUhaeUtCT3NQNnZpTmUzczlleGdOZEtlVkVNSzVXcGlhS0tHRWtrUm9wcTJTdnoxT2djdnFHT2hGWDlqeE1Jb1I0MmwtNXFCX2tsT1diaUtWUGwzUFdjWkcweFNQbmluRXBPMzBIZU1LYXlaQlp0TEVFR2pBUXR1eGdHOU1WbHNSdzdaR0VOak5WRGh5T01lX18zcjBCcXlnYXItWmYxekZEMWh3LWFWX1820gH3AUFVX3lxTE9iM0x3c1A1OHRsa09WR1d1T1NPLVltNVc5bFZRbUw5NzZsTktOei10c0c1NHZCazVmWmRYYUJXWFdqMlpfeHFZaTBoYWQyYkxZVHkzanRlc3N0eU1GcXBnMERaVmdrT2JJVG5rbzdEUGxVUkVTSEg0dWZrTjVTTzlia1RuVE5PMTlQa2pNYnkyMnlMbVRJcWtQOEx4Y1pneDBEY085andhdG9ubklPS3dOdGxVOElaeFpkMGNyRkpwQ2lXMEVkWGlkaGhMNEViLTV1N3lhSGhMSmhkVFZqNUZodld4ZlM0RUNLbTRnWlJOMldTYjNBTjA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "pneumonia",
+          "keyword": "pneumonia",
+          "related_drugs": [
+            {
+              "slug": "ganciclovir",
+              "name": "Ganciclovir"
+            },
+            {
+              "slug": "clobutinol",
+              "name": "Clobutinol"
+            },
+            {
+              "slug": "tazobactam",
+              "name": "Tazobactam"
+            },
+            {
+              "slug": "oseltamivir",
+              "name": "Oseltamivir"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "infecção pulmonar",
+          "keyword": "pneumonia",
+          "related_drugs": [
+            {
+              "slug": "ganciclovir",
+              "name": "Ganciclovir"
+            },
+            {
+              "slug": "clobutinol",
+              "name": "Clobutinol"
+            },
+            {
+              "slug": "tazobactam",
+              "name": "Tazobactam"
+            },
+            {
+              "slug": "oseltamivir",
+              "name": "Oseltamivir"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
