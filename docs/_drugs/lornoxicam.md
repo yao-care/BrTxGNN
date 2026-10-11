@@ -29,10 +29,6 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-Using `txgnn-pipeline` as context. The skill covers pipeline management but the report generation is fully specified in the system prompt. Proceeding directly with the report.
-
----
-
 # Lornoxicam: Da Dor Musculoesquelética à Artrite Reumatoide
 
 ## Resumo em Uma Frase

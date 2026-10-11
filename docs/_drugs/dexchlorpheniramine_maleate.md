@@ -29,10 +29,6 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-Usando o skill `txgnn-pipeline` para orientação de contexto. Agora vou analisar o Evidence Pack e gerar o relatório completo.
-
----
-
 # Dexchlorpheniramine Maleate: Do Tratamento de Alergias à Porfiria Intermitente Aguda
 
 ## Resumo em Uma Frase

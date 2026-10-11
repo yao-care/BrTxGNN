@@ -29,10 +29,6 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-Usando o skill `txgnn-pipeline` para contexto do projeto, e seguindo o template do sistema para relatórios de reposicionamento de fármacos.
-
----
-
 # Clioquinol: Do antisséptico tópico à candidíase cutânea
 
 ## Resumo em Uma Frase

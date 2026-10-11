@@ -29,10 +29,6 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-Usando o skill `txgnn-pipeline` para contexto de reposicionamento. Vou agora gerar o relatório completo com base no Evidence Pack fornecido.
-
----
-
 # Diclofenac: Da inflamação à hipotricose simples do couro cabeludo
 
 ## Resumo em Uma Frase

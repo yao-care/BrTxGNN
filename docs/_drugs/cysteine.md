@@ -29,10 +29,6 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 </div>
 
-Usando `txgnn-pipeline` para verificar diretrizes de relatório de reposicionamento. Agora gerando o relatório completo com base no Evidence Pack fornecido.
-
----
-
 # Cysteine: Do aminoácido essencial à síndrome do olho seco
 
 ## Resumo em Uma Frase

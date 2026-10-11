@@ -29,10 +29,6 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-Usando a skill **txgnn-pipeline** para orientar a geração deste relatório de reposicionamento.
-
----
-
 # Ibuprofen: Do tratamento da dor e inflamação à Displasia Acromesomélica tipo Hunter-Thompson
 
 ## Resumo em Uma Frase

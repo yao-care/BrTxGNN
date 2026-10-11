@@ -29,8 +29,6 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-Using `txgnn-pipeline` para orientar a geração do relatório de reposicionamento farmacêutico.
-
 Analisando o Evidence Pack de Promethazine (DB01069) e gerando o relatório conforme o formato v5:
 
 ---

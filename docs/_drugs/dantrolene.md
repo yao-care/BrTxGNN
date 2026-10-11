@@ -29,10 +29,6 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 </div>
 
-Usando o `txgnn-pipeline` para contextualizar o fluxo de relatório. Gerando o relatório de avaliação de reposicionamento para Dantrolene com base no Evidence Pack fornecido.
-
----
-
 # Dantrolene: Do relaxante muscular ao manejo da hipertermia maligna
 
 ## Resumo em Uma Frase

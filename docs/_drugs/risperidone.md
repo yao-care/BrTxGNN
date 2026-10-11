@@ -29,10 +29,6 @@ Nível de evidência: **L1** | Indicações previstas: **6**
 
 </div>
 
-Com base no Evidence Pack fornecido, utilizando as diretrizes do `txgnn-pipeline` e o formato de relatório de reposicionamento especificado, aqui está o relatório completo:
-
----
-
 # Risperidona: Do Transtorno Psicótico ao Transtorno Afetivo Maior
 
 ## Resumo em Uma Frase

@@ -29,10 +29,6 @@ Nível de evidência: **L4** | Indicações previstas: **2**
 
 </div>
 
-Usando o skill `txgnn-pipeline` para orientação e agora gerando o relatório com base no Evidence Pack fornecido.
-
----
-
 # Misoprostol: Das Indicações Obstétricas ao Tratamento da Amenorreia
 
 ## Resumo em Uma Frase

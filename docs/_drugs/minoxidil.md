@@ -29,10 +29,6 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-O skill txgnn-pipeline orienta o fluxo técnico do pipeline, mas não sobrepõe o formato de relatório definido no prompt principal. Prosseguindo com a geração do relatório conforme o Evidence Pack fornecido.
-
----
-
 # Minoxidil: Da alopecia androgenética à hipotricose simples do couro cabeludo
 
 ## Resumo em Uma Frase

@@ -29,10 +29,6 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-Usando o skill `txgnn-pipeline` como referência de contexto do projeto, vou agora gerar o relatório com base no Evidence Pack fornecido.
-
----
-
 # Imiglucerase: Da doença de Gaucher à síndrome de Hurler
 
 ## Resumo em Uma Frase

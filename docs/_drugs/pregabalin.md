@@ -29,10 +29,6 @@ Nível de evidência: **L4** | Indicações previstas: **6**
 
 </div>
 
-Using the `txgnn-pipeline` skill as context, agora vou gerar o relatório a partir do Evidence Pack fornecido.
-
----
-
 # Pregabalin: Da Dor Neuropática à Tendinite
 
 ## Resumo em Uma Frase

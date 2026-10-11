@@ -29,10 +29,6 @@ Nível de evidência: **L5** | Indicações previstas: **8**
 
 </div>
 
-Usando o skill `txgnn-pipeline` para contextualização do pipeline TxGNN. Agora vou gerar o relatório completo com base no Evidence Pack fornecido.
-
----
-
 # Donepezil: Da Doença de Alzheimer aos Transtornos Psicogênicos do Movimento
 
 ## Resumo

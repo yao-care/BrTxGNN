@@ -29,10 +29,6 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-Usando o skill `txgnn-pipeline` como referência de contexto. Agora vou gerar o relatório completo com base no Evidence Pack fornecido.
-
----
-
 # Carbonato de Magnésio: Do antiácido clássico à Úlcera Péptica Ativa
 
 ## Resumo em Uma Frase

@@ -29,10 +29,6 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-O skill `txgnn-pipeline` confirma que estou no contexto correto do projeto BrTxGNN. Procedendo com a geração do relatório com base no Evidence Pack fornecido.
-
----
-
 # Tyrosine: De Suplemento Nutricional para Síndrome da Cauda Equina
 
 ## Resumo em Uma Frase

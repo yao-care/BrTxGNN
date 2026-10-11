@@ -29,10 +29,6 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-Using **txgnn-pipeline** para garantir conformidade com o fluxo de relatórios TxGNN. Agora gerando o relatório completo a partir do Evidence Pack.
-
----
-
 # Romiplostim: Da Trombocitopenia Imune ao Distúrbio Primário de Liberação Plaquetária
 
 ## Resumo em Uma Frase

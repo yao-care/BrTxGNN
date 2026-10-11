@@ -29,10 +29,6 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-Using `txgnn-pipeline` to confirm report generation context. Now proceeding to produce the report from the Evidence Pack.
-
----
-
 # Meloxicam: Da artrite à displasia acromesomélica de Hunter-Thompson
 
 ## Resumo em Uma Frase

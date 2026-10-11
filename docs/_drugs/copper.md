@@ -29,8 +29,6 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-Usando o skill `txgnn-pipeline` para orientar a produção do relatório de reposicionamento. Agora vou analisar o Evidence Pack e gerar o relatório completo.
-
 **Análise rápida do Evidence Pack:**
 - **Fármaco:** Cobre (DB09130) — oligoelemento essencial, sem indicação aprovada no Brasil (0 registros ANVISA)
 - **Indicação #1 (foco do relatório):** Esotropia — score TxGNN 96,25%, mas **sem nenhuma evidência** (0 ensaios clínicos, 0 literatura) → Nível L5

@@ -29,10 +29,6 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-Usando o skill `txgnn-pipeline` para contextualizar o relatório BrTxGNN. Gerando o relatório agora com base no Evidence Pack fornecido.
-
----
-
 # Clindamycin: De infecções bacterianas à ceratoconjuntivite epitelial punctata
 
 ## Resumo em Uma Frase

@@ -29,10 +29,6 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-O skill `txgnn-pipeline` confirma o contexto do projecto. A tarefa aqui é gerar um relatório de avaliação de reposicionamento seguindo o formato do Prompt v5. Vou proceder directamente com a geração do relatório a partir do Evidence Pack.
-
----
-
 # Metotrexato: De Neoplasias e Doenças Autoimunes ao Blastoma Pulmonar
 
 ## Resumo em Uma Frase

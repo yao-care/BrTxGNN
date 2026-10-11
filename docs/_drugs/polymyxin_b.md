@@ -29,10 +29,6 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-O skill txgnn-pipeline não tem instruções específicas para geração de relatórios — o prompt de sistema já define o formato completo. Vou gerar o relatório agora com base no Evidence Pack fornecido.
-
----
-
 # Polymyxin B: De infecções por Gram-negativos multirresistentes à bronquite
 
 ## Resumo em Uma Frase

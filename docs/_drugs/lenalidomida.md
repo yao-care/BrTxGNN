@@ -29,10 +29,6 @@ Nível de evidência: **L5** | Indicações previstas: **0**
 
 </div>
 
-O skill `txgnn-pipeline` não fornece orientação específica para geração de relatórios a partir de Evidence Pack — esse fluxo está definido no próprio sistema. Vou prosseguir diretamente com a produção do relatório.
-
----
-
 Analisando o Evidence Pack:
 
 - **`predicted_indications`**: array vazio → nenhuma previsão TxGNN disponível

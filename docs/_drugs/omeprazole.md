@@ -29,10 +29,6 @@ Nível de evidência: **L4** | Indicações previstas: **2**
 
 </div>
 
-Usando o skill `txgnn-pipeline` como contexto. Agora vou gerar o relatório completo com base no Evidence Pack fornecido.
-
----
-
 # Omeprazole: De inibidor da bomba de prótons ao refluxo duodenogástrico
 
 ## Resumo em Uma Frase

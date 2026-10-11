@@ -29,10 +29,6 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-A skill `txgnn-pipeline` foi carregada. Agora vou gerar o relatório de avaliação completo com base no Evidence Pack fornecido.
-
----
-
 # Acetato de Ciproterona: Do Hiperandrogenismo à Enxaqueca
 
 ## Resumo em Uma Frase

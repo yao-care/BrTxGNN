@@ -29,10 +29,6 @@ Nível de evidência: **L5** | Indicações previstas: **3**
 
 </div>
 
-O skill `txgnn-pipeline` é sobre gestão de pipeline/infraestrutura e não se sobrepõe ao formato de relatório já definido no sistema. Procedendo diretamente à geração do relatório com base no Evidence Pack fornecido.
-
----
-
 # Olanzapine: Da Esquizofrenia à Torticolose Paroxística Benigna da Infância
 
 ## Resumo em Uma Frase

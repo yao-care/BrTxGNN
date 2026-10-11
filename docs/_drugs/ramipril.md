@@ -29,10 +29,6 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-Usando o skill `txgnn-pipeline` como contexto. Agora vou gerar o relatório completo com base no Evidence Pack fornecido para o Ramipril.
-
----
-
 # Ramipril: Da hipertensão arterial à hipertensão pulmonar por doença pulmonar e/ou hipóxia
 
 ## Resumo em Uma Frase

@@ -29,10 +29,6 @@ Nível de evidência: **L2** | Indicações previstas: **1**
 
 </div>
 
-A skill `txgnn-pipeline` fornece contexto de gestão de pipeline. O formato do relatório já está definido no system prompt (v5). Vou agora gerar o relatório completo com base no Evidence Pack.
-
----
-
 # Midazolam: Da Sedação Procedural à Insônia
 
 ## Resumo em Uma Frase

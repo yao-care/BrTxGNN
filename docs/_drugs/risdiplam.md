@@ -29,10 +29,6 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-Using `txgnn-pipeline` to confirm report generation context — confirmed, this is the BrTxGNN pipeline. Proceeding to generate the pharmacist evaluation report based on the Evidence Pack.
-
----
-
 # Risdiplam: Da Atrofia Muscular Espinhal à Acne
 
 ## Resumo em Uma Frase

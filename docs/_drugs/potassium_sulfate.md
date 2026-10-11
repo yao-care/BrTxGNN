@@ -29,10 +29,6 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-Usando o skill `txgnn-pipeline` para verificar contexto do projeto — o skill confirma que este é trabalho de relatório para BrTxGNN. Vou agora gerar o relatório completo com base no Evidence Pack.
-
----
-
 # Sulfato de Potássio: De composto mineral eletrolítico para Distúrbio Hipertensivo
 
 ## Resumo em Uma Frase

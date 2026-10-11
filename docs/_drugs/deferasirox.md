@@ -29,10 +29,6 @@ Nível de evidência: **L4** | Indicações previstas: **5**
 
 </div>
 
-Using the `txgnn-pipeline` skill for context. Now proceeding to generate the report from the Evidence Pack.
-
----
-
 # Deferasirox: Da quelação crônica de ferro à infecção por HIV
 
 ## Resumo em Uma Frase

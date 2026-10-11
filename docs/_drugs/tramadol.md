@@ -29,10 +29,6 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-A skill `txgnn-pipeline` foi verificada — não impõe restrições adicionais ao formato do relatório. Prosseguindo com a geração do relatório com base no Evidence Pack fornecido.
-
----
-
 # Tramadol: Da analgesia à displasia acromesomélica tipo Hunter-Thompson
 
 ## Resumo em Uma Frase

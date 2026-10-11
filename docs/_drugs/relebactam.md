@@ -29,10 +29,6 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-Usando `txgnn-pipeline` para orientar o formato do relatório. Procedendo agora com a análise do Evidence Pack e geração do relatório.
-
----
-
 # Relebactam: De infecções bacterianas gram-negativas à síndrome de hiperviscosidade policlonal
 
 ## Resumo em Uma Frase

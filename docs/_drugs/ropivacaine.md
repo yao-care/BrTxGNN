@@ -29,10 +29,6 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 </div>
 
-Using the `txgnn-pipeline` skill for context. Now I'll generate the full Drug Repurposing Evaluation Report in Portuguese based on the provided Evidence Pack.
-
----
-
 # Ropivacaine: Da anestesia regional à enxaqueca
 
 ## Resumo em Uma Frase

@@ -29,10 +29,6 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 </div>
 
-O skill `txgnn-pipeline` é focado em operações de pipeline e deploy multi-país — não altera o fluxo de escrita de relatório. Prossigo diretamente com a geração do relatório conforme as instruções do sistema.
-
----
-
 # Megestrol Acetate: Da Caquexia Oncológica ao Carcinoma Endometrial do Corpo Uterino
 
 ## Resumo em Uma Frase

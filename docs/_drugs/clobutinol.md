@@ -29,10 +29,6 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-Usando o skill `txgnn-pipeline` para orientação sobre relatórios TxGNN. Agora vou gerar o relatório com base no Evidence Pack.
-
----
-
 # Clobutinol: De antitussivo à febre tifoide
 
 ## Resumo em Uma Frase

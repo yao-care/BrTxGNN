@@ -29,10 +29,6 @@ Nível de evidência: **L5** | Indicações previstas: **1**
 
 </div>
 
-O skill `txgnn-pipeline` é focado em operações de pipeline técnico (treino, deploy, debugging) e não se aplica à escrita de relatórios de avaliação. Prossigo diretamente com a geração do relatório.
-
----
-
 # Itraconazol: De infecções fúngicas à pneumocistose
 
 ## Resumo em Uma Frase

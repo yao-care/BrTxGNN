@@ -29,10 +29,6 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-Usando o skill `txgnn-pipeline` para contextualizar o pipeline TxGNN. Agora vou analisar o Evidence Pack e gerar o relatório completo para Rivaroxaban conforme o formato especificado.
-
----
-
 # Rivaroxaban: Da anticoagulação à artrite reumatoide
 
 ## Resumo em Uma Frase

@@ -29,10 +29,6 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-Using **txgnn-pipeline** como contexto de projeto. Gerando relatório conforme o formato especificado.
-
----
-
 # Iodeto de Potássio: Do tratamento de micoses à doença da cavidade nasal
 
 ## Resumo em Uma Frase

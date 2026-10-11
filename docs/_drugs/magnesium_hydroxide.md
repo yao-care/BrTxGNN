@@ -29,10 +29,6 @@ Nível de evidência: **L2** | Indicações previstas: **6**
 
 </div>
 
-O skill `txgnn-pipeline` cobre operações de pipeline (treino, validação, deployment) — as instruções de formatação do relatório já estão definidas no sistema. Vou gerar o relatório completo agora.
-
----
-
 # Hidróxido de Magnésio: Do Antiácido Clássico à Úlcera Péptica Ativa
 
 ## Resumo em Uma Frase

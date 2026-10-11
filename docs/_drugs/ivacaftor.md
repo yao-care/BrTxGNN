@@ -29,10 +29,6 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-O skill `txgnn-pipeline` está ativo. Vou proceder agora à geração do relatório de avaliação de reposicionamento com base no Evidence Pack fornecido.
-
----
-
 # Ivacaftor: Da Fibrose Cística à Artrite Reumatoide
 
 ## Resumo em Uma Frase

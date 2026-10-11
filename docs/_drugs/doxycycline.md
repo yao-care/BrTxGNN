@@ -29,10 +29,6 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-Usando o skill `txgnn-pipeline` para contexto do pipeline TxGNN. Agora vou gerar o relatório com base no Evidence Pack fornecido.
-
----
-
 # Doxycycline: De infecções bacterianas para ceratoconjuntivite epitelial punctata
 
 ## Resumo em Uma Frase

@@ -29,10 +29,6 @@ Nível de evidência: **L5** | Indicações previstas: **6**
 
 </div>
 
-Using `txgnn-pipeline` to orient context, then generating the repurposing report per the v5 prompt spec.
-
----
-
 # Digoxin: Da insuficiência cardíaca à angina de Prinzmetal
 
 ## Resumo

@@ -29,10 +29,6 @@ Nível de evidência: **L5** | Indicações previstas: **2**
 
 </div>
 
-Usando o skill `txgnn-pipeline` para contexto do projeto, e agora gerando o relatório conforme o Evidence Pack fornecido.
-
----
-
 # Fenilalanina: De aminoácido essencial à colangite esclerosante
 
 ## Resumo em Uma Frase

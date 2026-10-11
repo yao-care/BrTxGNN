@@ -29,10 +29,6 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 </div>
 
-Using `txgnn-pipeline` for context on TxGNN evidence pack report generation. Proceeding to produce the pharmacist repurposing report now.
-
----
-
 # Tizanidine: Da espasticidade muscular à enxaqueca
 
 ## Resumo em Uma Frase

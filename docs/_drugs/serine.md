@@ -29,10 +29,6 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-O skill `txgnn-pipeline` é sobre gestão de pipeline — as instruções de formato do relatório já estão no prompt do sistema. Vou agora gerar o relatório.
-
----
-
 # Serina: De aminoácido à miopatia visceral familiar
 
 ## Resumo em Uma Frase

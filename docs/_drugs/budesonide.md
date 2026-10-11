@@ -29,10 +29,6 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-O skill `txgnn-pipeline` cobre gestão de modelos e pipelines — não se aplica diretamente à geração de relatórios de avaliação. Prossigo com o relatório seguindo o Prompt v5 especificado no sistema.
-
----
-
 # Budesonide: Das Doenças Inflamatórias das Vias Aéreas ao Eczema Atópico
 
 ## Resumo em Uma Frase

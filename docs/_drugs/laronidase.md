@@ -29,10 +29,6 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 </div>
 
-Usando o skill `txgnn-pipeline` para confirmar o contexto do projeto. Agora vou gerar o relatório com base no Evidence Pack fornecido.
-
----
-
 # Laronidase: Da Mucopolissacaridose Tipo I à Doença Lisossômica com Envolvimento Esquelético
 
 ## Resumo em Uma Frase

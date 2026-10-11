@@ -29,10 +29,6 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 </div>
 
-O skill `txgnn-pipeline` é para gestão de infraestrutura do pipeline, não para geração de relatórios — as instruções do sistema prompt são suficientes. Vou agora gerar o relatório completo com base no Evidence Pack fornecido.
-
----
-
 # Diazepam: Da ansiedade e convulsões à insônia
 
 ## Resumo em Uma Frase

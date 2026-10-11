@@ -29,8 +29,6 @@ Nível de evidência: **L4** | Indicações previstas: **1**
 
 </div>
 
-Usando o skill `txgnn-pipeline` para orientar a produção do relatório de reposicionamento.
-
 Agora vou analisar o Evidence Pack e gerar o relatório completo:
 
 ---

@@ -29,10 +29,6 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-O skill `txgnn-pipeline` não tem instruções específicas para geração de relatórios — as instruções já estão completas no system prompt. Prossigo diretamente com o relatório.
-
----
-
 # Cefalexina: Das infecções bacterianas à otite média crônica
 
 ## Resumo em Uma Frase

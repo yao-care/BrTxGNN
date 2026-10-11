@@ -29,10 +29,6 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-Usando o skill `txgnn-pipeline` para contextualizar e gerando o relatório de avaliação de reposicionamento conforme o formato prescrito:
-
----
-
 # Clortalidona: Da Hipertensão ao Cor Pulmonale Crônico
 
 ## Resumo em Uma Frase

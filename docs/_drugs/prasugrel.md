@@ -29,10 +29,6 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-Usando o skill `txgnn-pipeline` para confirmar o contexto do projeto BrTxGNN antes de gerar o relatório.
-
----
-
 # Prasugrel: Do Síndrome Coronário Agudo à Hipertensão Pulmonar
 
 ## Resumo em Uma Frase

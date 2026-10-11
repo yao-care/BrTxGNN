@@ -29,10 +29,6 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-Usando o skill `txgnn-pipeline` como referência de contexto. Agora vou gerar o relatório com base no Evidence Pack fornecido.
-
----
-
 # Tafamidis: Da Amiloidose por Transtirretina ao Transtorno Primário de Liberação de Plaquetas
 
 ## Resumo em Uma Frase

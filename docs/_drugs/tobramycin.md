@@ -29,10 +29,6 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-Using the `txgnn-pipeline` skill to guide report generation. Now producing the full Markdown report based on the Evidence Pack.
-
----
-
 # Tobramycin: De infecções bacterianas por Gram-negativos à ceratite de exposição
 
 ## Resumo em Uma Frase

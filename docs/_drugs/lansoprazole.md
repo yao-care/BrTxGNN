@@ -29,10 +29,6 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-Usando o skill **txgnn-pipeline** para enquadrar o contexto do relatório TxGNN. Vou agora gerar o relatório completo com base no Evidence Pack fornecido.
-
----
-
 # Lansoprazole: De úlcera péptica ao refluxo duodenogástrico
 
 ## Resumo em Uma Frase

@@ -29,10 +29,6 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-Using **txgnn-pipeline** to guide report generation for this BrTxGNN evidence pack.
-
----
-
 # Pegfilgrastim: De neutropenia febril à retinopatia diabética grave não proliferativa
 
 ## Resumo em Uma Frase

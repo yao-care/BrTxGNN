@@ -29,10 +29,6 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-Usando o skill **txgnn-pipeline** para orientação de contexto, e seguindo o formato do sistema de avaliação de reposicionamento de fármacos. Prossigo com a geração do relatório.
-
----
-
 # Praziquantel: Das helmintíases ao leiomiosarcoma epitelioide uterino
 
 ## Resumo em Uma Frase

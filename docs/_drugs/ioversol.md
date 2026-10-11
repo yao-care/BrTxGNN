@@ -29,10 +29,6 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-Usando o skill `txgnn-pipeline` para orientação sobre o pipeline TxGNN, e o prompt do sistema para o formato de relatório de reposicionamento.
-
----
-
 # Ioversol: De Agente de Contraste Iodado para Suscetibilidade à Osteoartrite
 
 ## Resumo em Uma Frase

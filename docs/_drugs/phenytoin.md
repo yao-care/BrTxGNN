@@ -29,8 +29,6 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-Usando o skill `txgnn-pipeline` como referência e seguindo o formato do prompt v5, vou gerar o relatório baseado no Evidence Pack fornecido.
-
 **Nota editorial:** A indicação de rank 1 (neoplasia do nervo trigêmeo) foi identificada pelo próprio `repurposing_rationale` como artefato do modelo. O relatório foca na indicação de maior suporte clínico (**rank 9 — nevralgia do trigêmeo, L3, Proceed with Guardrails**), com transparência completa sobre o ranking bruto do TxGNN.
 
 ---

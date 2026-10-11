@@ -29,10 +29,6 @@ Nível de evidência: **L5** | Indicações previstas: **3**
 
 </div>
 
-Usando o skill `txgnn-pipeline` como referência e aplicando o prompt de relatório v5. Gerando agora o relatório com base no Evidence Pack fornecido.
-
----
-
 # Cloreto de Zinco: De antisséptico mineral para retinopatia diabética grave não proliferativa
 
 ## Resumo em Uma Frase

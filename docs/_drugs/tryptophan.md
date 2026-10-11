@@ -29,10 +29,6 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-O skill txgnn-pipeline cobre operações técnicas de pipeline, não a geração de relatório. As instruções do sistema prompt (v5) são a especificação completa para este agente. Prosseguindo com a geração do relatório.
-
----
-
 # Triptofano: De suplemento nutricional à Síndrome das Pernas Inquietas
 
 ## Resumo em Uma Frase

@@ -29,10 +29,6 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-Usando `txgnn-pipeline` para verificar contexto do projeto. Agora vou gerar o relatório completo com base no Evidence Pack fornecido.
-
----
-
 # Procaína: De Anestesia Local a Metemoglobinemia
 
 ## Resumo em Uma Frase

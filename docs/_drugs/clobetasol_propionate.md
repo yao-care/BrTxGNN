@@ -29,10 +29,6 @@ Nível de evidência: **L1** | Indicações previstas: **7**
 
 </div>
 
-Using `txgnn-pipeline` skill for context. This is a BrTxGNN drug repurposing report generation task. The evidence pack focuses on Clobetasol Propionate with 7 predicted indications. The most evidence-rich indication is **exantema (disease)** at index 2 (rank 3 in TxGNN), which has L1 evidence and 21 clinical trials — I'll focus the report on this indication as it represents the most clinically actionable finding.
-
----
-
 # Clobetasol Propionato: Das Dermatoses Inflamatórias ao Exantema
 
 ## Resumo em Uma Frase

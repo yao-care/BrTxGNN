@@ -29,10 +29,6 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-O skill `txgnn-pipeline` confirma o contexto do projeto. Agora vou gerar o relatório completo com base no Evidence Pack fornecido.
-
----
-
 # Norfloxacin: De Infecções Bacterianas à Hiperamilasemia
 
 ## Resumo em Uma Frase

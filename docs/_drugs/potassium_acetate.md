@@ -29,10 +29,6 @@ Nível de evidência: **L4** | Indicações previstas: **1**
 
 </div>
 
-Usando `txgnn-pipeline` para contextualizar o projeto, e aplicando o template de relatório definido no prompt do sistema. Vou agora analisar o Evidence Pack e gerar o relatório completo.
-
----
-
 # Acetato de Potássio: Do suplemento eletrolítico à acidose tubular renal
 
 ## Resumo em Uma Frase

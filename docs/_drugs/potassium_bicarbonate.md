@@ -29,10 +29,6 @@ Nível de evidência: **L5** | Indicações previstas: **1**
 
 </div>
 
-Using `txgnn-pipeline` skill noted. Now generating the report from the Evidence Pack.
-
----
-
 # Bicarbonato de Potássio: De Suplemento Eletrolítico para Gastroduodenite
 
 ## Resumo em Uma Frase

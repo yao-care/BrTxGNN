@@ -29,10 +29,6 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-Usando `txgnn-pipeline` para contexto do projeto. Agora vou gerar o relatório com base no Evidence Pack.
-
----
-
 # Tinidazole: De antiprotozoário a vaginite atrófica pós-menopausa
 
 ## Resumo em Uma Frase

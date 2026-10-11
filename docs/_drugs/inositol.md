@@ -29,10 +29,6 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-Usando o skill `txgnn-pipeline` para orientar a estrutura do relatório de reposicionamento. Agora vou gerar o relatório completo com base no Evidence Pack fornecido.
-
----
-
 # Inositol: De Suplemento Nutricional à Trombose Primitiva da Veia Porta
 
 ## Resumo em Uma Frase

@@ -29,10 +29,6 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-Usando `txgnn-pipeline` para contextualizar o relatório dentro do ecossistema BrTxGNN, e `Relatório de Avaliação de Reposicionamento de Fármacos v5` como guia de formato.
-
----
-
 # Pyridoxine: De Deficiência de Vitamina B6 para Uretrite por Ureaplasma
 
 ## Resumo em Uma Frase

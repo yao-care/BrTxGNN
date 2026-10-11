@@ -29,10 +29,6 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 </div>
 
-Usando `txgnn-pipeline` para produzir o relatório de avaliação de reposicionamento de Desogestrel.
-
----
-
 # Desogestrel: Da contracepção à amenorreia
 
 ## Resumo em Uma Frase

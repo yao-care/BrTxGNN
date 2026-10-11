@@ -29,10 +29,6 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-Usando o skill `txgnn-pipeline` para contexto de projeto. Agora vou gerar o relatório com base no Evidence Pack fornecido.
-
----
-
 # Iodixanol: De meio de contraste radiológico à suscetibilidade à osteoartrite
 
 ## Resumo em Uma Frase

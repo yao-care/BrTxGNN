@@ -29,10 +29,6 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-Usando o skill `txgnn-pipeline` para orientar a geração deste relatório de reposicionamento. A seguir, o relatório completo baseado no Evidence Pack fornecido:
-
----
-
 # Penciclovir: Do herpes labial à fasciolíase
 
 ## Resumo em Uma Frase

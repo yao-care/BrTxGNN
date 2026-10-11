@@ -29,10 +29,6 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 </div>
 
-Usando o skill `txgnn-pipeline` para verificar diretrizes do projeto — confirmado. Agora gero o relatório seguindo o formato v5.
-
----
-
 # Propofol: Da Anestesia Geral à Enxaqueca (Migraine Disorder)
 
 ## Resumo em Uma Frase

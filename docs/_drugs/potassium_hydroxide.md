@@ -29,10 +29,6 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-Usando o skill `txgnn-pipeline` como contexto para geração de relatório de reposicionamento. Vou agora gerar o relatório completo seguindo o formato especificado.
-
----
-
 # Hidróxido de Potássio (KOH): De Reagente Diagnóstico para Hiperplasia Prostática Benigna
 
 ## Resumo em Uma Frase

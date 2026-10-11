@@ -29,10 +29,6 @@ Nível de evidência: **L2** | Indicações previstas: **1**
 
 </div>
 
-Using `txgnn-pipeline` to confirm context — this is a BrTxGNN report generation task. The skill confirms the standard pipeline; the detailed report format is defined in the system prompt. Proceeding directly to the report.
-
----
-
 # Norethisterone: Da contracepção hormonal à amenorreia
 
 ## Resumo em Uma Frase

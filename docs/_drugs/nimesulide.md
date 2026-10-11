@@ -29,10 +29,6 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-Usando o skill `txgnn-pipeline` para orientar o formato de relatório, e seguindo as instruções detalhadas do sistema prompt. O skill não adiciona etapas específicas para geração de relatório a partir de Evidence Pack — prossigo diretamente com a produção do documento.
-
----
-
 # Nimesulide: Da Dor e Inflamação à Artrite Gotosa
 
 ## Resumo em Uma Frase

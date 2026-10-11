@@ -29,10 +29,6 @@ Nível de evidência: **L1** | Indicações previstas: **3**
 
 </div>
 
-Usando o skill `txgnn-pipeline` como contexto operacional. A geração de relatório de avaliação segue o prompt da função (v5). Vou agora compor o relatório completo a partir do Evidence Pack fornecido.
-
----
-
 # Pseudoephedrine: Do Descongestionante Sistêmico à Doença da Cavidade Nasal
 
 ## Resumo em Uma Frase

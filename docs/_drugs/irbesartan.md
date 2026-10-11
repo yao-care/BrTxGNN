@@ -29,10 +29,6 @@ Nível de evidência: **L4** | Indicações previstas: **4**
 
 </div>
 
-Using the `txgnn-pipeline` skill to orient the work, and now generating the report based on the Evidence Pack. The top predicted indication (`predicted_indications[0]`) is **malignant renovascular hypertension** — I'll focus the report on this indication, noting the absence of clinical trials and literature, and applying the mechanistic rationale from the JSON.
-
----
-
 # Irbesartan: Da Hipertensão Arterial à Hipertensão Renovascular Maligna
 
 ## Resumo em Uma Frase

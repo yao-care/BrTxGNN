@@ -29,10 +29,6 @@ Nível de evidência: **L4** | Indicações previstas: **2**
 
 </div>
 
-Usando o skill `txgnn-pipeline` para orientar a geração do relatório de reposicionamento. Agora, gerando o relatório a partir do Evidence Pack fornecido.
-
----
-
 # Dimenhydrinate: Da cinetose à urticária alérgica
 
 ## Resumo em Uma Frase

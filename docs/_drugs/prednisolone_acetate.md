@@ -29,10 +29,6 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-Using `txgnn-pipeline` to understand project conventions — confirmed this is a multi-indication evidence pack for BrTxGNN. Now generating the report from the provided Evidence Pack.
-
----
-
 # Prednisolone Acetate: Da Inflamação Ocular à Conjuntivite Parasitária
 
 ## Resumo em Uma Frase

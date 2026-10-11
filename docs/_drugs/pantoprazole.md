@@ -29,10 +29,6 @@ Nível de evidência: **L1** | Indicações previstas: **6**
 
 </div>
 
-Usando o skill `txgnn-pipeline` para guiar a geração do relatório de reposicionamento de fármacos para o mercado brasileiro.
-
----
-
 # Pantoprazol: Da doença do refluxo gastroesofágico à úlcera péptica ativa
 
 ## Resumo em Uma Frase

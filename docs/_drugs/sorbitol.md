@@ -29,10 +29,6 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-O skill `txgnn-pipeline` confirma que este é um projeto TxGNN standard. Agora vou gerar o relatório completo seguindo o prompt v5.
-
----
-
 # Sorbitol: De laxativo osmótico à hipertermia maligna induzida por exercício
 
 ## Resumo em Uma Frase

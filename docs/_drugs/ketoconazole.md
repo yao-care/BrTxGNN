@@ -29,10 +29,6 @@ Nível de evidência: **L3** | Indicações previstas: **1**
 
 </div>
 
-A skill txgnn-pipeline não tem orientações específicas para geração de relatórios — prossigo diretamente com base nas instruções do sistema.
-
----
-
 # Cetoconazol: Do tratamento antifúngico à acne
 
 ## Resumo em Uma Frase

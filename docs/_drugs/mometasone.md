@@ -29,10 +29,6 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-Usando o skill `txgnn-pipeline` para contextualizar a geração de relatório de reposicionamento. Agora gero o relatório com base no Evidence Pack fornecido.
-
----
-
 # Mometasone: De Corticosteroide Tópico a Linfoma Cutâneo Primário de Células T
 
 ## Resumo em Uma Frase

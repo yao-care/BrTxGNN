@@ -29,10 +29,6 @@ Nível de evidência: **L5** | Indicações previstas: **2**
 
 </div>
 
-Usando a skill `txgnn-pipeline` como referência para o contexto do pipeline — e seguindo o prompt de avaliação v5, vou agora produzir o relatório com base no Evidence Pack fornecido.
-
----
-
 # Spironolactone: Do Tratamento da Hipertensão e Edema à Hipotricose Simples do Couro Cabeludo
 
 ## Resumo em Uma Frase

@@ -29,10 +29,6 @@ Nível de evidência: **L2** | Indicações previstas: **5**
 
 </div>
 
-Usando o skill `txgnn-pipeline` para orientação de contexto TxGNN. Agora vou gerar o relatório completo com base no Evidence Pack fornecido.
-
----
-
 # Citalopram: Do Transtorno Depressivo Maior ao Transtorno Obsessivo-Compulsivo
 
 ## Resumo em Uma Frase

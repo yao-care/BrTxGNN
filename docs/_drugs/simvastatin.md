@@ -29,10 +29,6 @@ Nível de evidência: **L1** | Indicações previstas: **8**
 
 </div>
 
-O skill `txgnn-pipeline` confirma o contexto do projeto. Agora gero o relatório com base no Evidence Pack fornecido:
-
----
-
 # Sinvastatina: Da Dislipidemia à Hipercolesterolemia Familiar
 
 ## Resumo em Uma Frase

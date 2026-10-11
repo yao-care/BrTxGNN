@@ -29,10 +29,6 @@ Nível de evidência: **L1** | Indicações previstas: **3**
 
 </div>
 
-Using `txgnn-pipeline` to confirm context. Now generating the report from the Evidence Pack.
-
----
-
 # Nitrazepam: De hipnótico benzodiazepínico ao distúrbio de início e manutenção do sono
 
 ## Resumo em Uma Frase

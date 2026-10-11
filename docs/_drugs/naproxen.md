@@ -29,10 +29,6 @@ Nível de evidência: **L5** | Indicações previstas: **4**
 
 </div>
 
-Verificando o skill relevante — `txgnn-pipeline` carregado. Procedo agora com a geração do relatório de avaliação com base no Evidence Pack fornecido.
-
----
-
 # Naproxen: De Anti-inflamatório e Analgésico para Síndrome de Braquidactilia-Sindactilia
 
 ## Resumo em Uma Frase

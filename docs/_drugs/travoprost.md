@@ -29,10 +29,6 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-Usando o skill `txgnn-pipeline` para orientar a geração do relatório de reposicionamento, e analisando o Evidence Pack JSON fornecido — Travoprost (DB00287), indicação prevista rank 1: visceral calciphylaxis — segue o relatório:
-
----
-
 # Travoprost: Do Glaucoma à Calcifiláxia Visceral
 
 ## Resumo em Uma Frase

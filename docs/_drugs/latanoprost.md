@@ -29,10 +29,6 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 </div>
 
-A skill `txgnn-pipeline` foi invocada. Com base no Evidence Pack fornecido, segue o relatório completo de avaliação de reposicionamento para Latanoprost:
-
----
-
 # Latanoprost: Do glaucoma de ângulo aberto ao glaucoma hereditário primário
 
 ## Resumo em Uma Frase

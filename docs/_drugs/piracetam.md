@@ -29,10 +29,6 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-Com base no `txgnn-pipeline` skill (que se aplica ao contexto BrTxGNN / geração de relatórios de reposicionamento), vou agora gerar o relatório conforme o Evidence Pack fornecido.
-
----
-
 # Piracetam: Do Comprometimento Cognitivo à Osteoartrite
 
 ## Resumo em Uma Frase

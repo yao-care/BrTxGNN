@@ -29,10 +29,6 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-Usando o skill `txgnn-pipeline` para orientação e aplicando o template de relatório v5 ao Evidence Pack do Velpatasvir.
-
----
-
 # Velpatasvir: Da Hepatite C à Infecção por Vírus da Hepatite B
 
 ## Resumo em Uma Frase

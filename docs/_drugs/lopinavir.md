@@ -29,10 +29,6 @@ Nível de evidência: **L5** | Indicações previstas: **3**
 
 </div>
 
-O skill `txgnn-pipeline` confirma o contexto do projeto. Agora vou gerar o relatório completo com base no Evidence Pack fornecido.
-
----
-
 # Lopinavir: De HIV/AIDS para Síndrome de Imunodeficiência Adquirida Felina
 
 ## Resumo em Uma Frase

@@ -29,10 +29,6 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-Usando o skill `txgnn-pipeline` como guia contextual. Agora vou analisar o Evidence Pack e gerar o relatório completo.
-
----
-
 # Methionine: Do aminoácido essencial à acne
 
 ## Resumo em Uma Frase

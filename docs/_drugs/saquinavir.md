@@ -29,10 +29,6 @@ Nível de evidência: **L3** | Indicações previstas: **6**
 
 </div>
 
-Usando o skill `txgnn-pipeline` para orientar o formato e contexto do relatório. Vou agora gerar o relatório completo com base no Evidence Pack fornecido.
-
----
-
 # Saquinavir: Do HIV/AIDS à infecção por vírus da imunodeficiência símia (SIV)
 
 ## Resumo em Uma Frase

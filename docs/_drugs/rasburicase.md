@@ -29,10 +29,6 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-Usando o skill **txgnn-pipeline** para verificar o contexto do projeto, e agora gerando o relatório a partir do Evidence Pack fornecido.
-
----
-
 # Rasburicase: Da Hiperuricemia à Hipouricemia Renal
 
 ## Resumo em Uma Frase

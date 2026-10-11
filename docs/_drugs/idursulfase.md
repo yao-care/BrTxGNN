@@ -29,10 +29,6 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-Usando `txgnn-pipeline` para contextualizar o relatório. Analisando o Evidence Pack agora.
-
----
-
 **Observações-chave antes de escrever:**
 
 - **Idursulfase** = ERT (terapia de reposição enzimática) para MPS II (Hunter syndrome); substitui a enzima iduronate-2-sulfatase

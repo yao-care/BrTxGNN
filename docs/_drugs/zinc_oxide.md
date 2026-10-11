@@ -29,10 +29,6 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-Using `txgnn-pipeline` skill loaded. Generating the Brazilian drug repurposing evaluation report now.
-
----
-
 # Zinc Oxide: Da proteção cutânea ao tratamento da Acne Vulgaris
 
 ## Resumo em Uma Frase

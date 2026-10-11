@@ -29,10 +29,6 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 </div>
 
-Usando o skill `txgnn-pipeline` para orientação de relatório de reposicionamento de fármacos.
-
----
-
 # Cyclobenzaprine: Do espasmo muscular agudo à Síndrome de Dor Miofascial
 
 ## Resumo em Uma Frase

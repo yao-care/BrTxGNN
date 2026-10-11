@@ -29,10 +29,6 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 </div>
 
-Usando o skill `txgnn-pipeline` para orientação sobre o pipeline de relatórios. Procedendo agora com a geração do relatório a partir do Evidence Pack.
-
----
-
 # Hidrocortisona: De condições inflamatórias à alopecia areata
 
 ## Resumo em Uma Frase

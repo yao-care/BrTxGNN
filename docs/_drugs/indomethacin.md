@@ -29,10 +29,6 @@ Nível de evidência: **L2** | Indicações previstas: **10**
 
 </div>
 
-Usando o skill `txgnn-pipeline` como contexto de pipeline. Gerando o relatório de avaliação de reposicionamento agora.
-
----
-
 # Indomethacin: De Artrite Reumatoide para Artrite Idiopática Juvenil
 
 ## Resumo em Uma Frase

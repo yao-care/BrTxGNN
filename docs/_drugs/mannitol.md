@@ -29,10 +29,6 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-Usando `txgnn-pipeline` para orientar o formato e rigor da análise de reposicionamento.
-
----
-
 # Mannitol: De Diurético Osmótico à Síndrome Nefrogênica de Antidiurese Inapropriada
 
 ## Resumo em Uma Frase

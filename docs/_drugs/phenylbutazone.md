@@ -29,10 +29,6 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-Using `txgnn-pipeline` como contexto para geração de relatório de reposicionamento.
-
----
-
 # Fenilbutazona: De anti-inflamatório clássico à artrite reumatoide
 
 ## Resumo em Uma Frase

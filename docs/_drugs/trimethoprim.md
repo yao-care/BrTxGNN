@@ -29,10 +29,6 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 </div>
 
-O skill `txgnn-pipeline` confirma que o fluxo de escrita de relatórios TxGNN está no escopo. Procedendo agora com a geração do relatório.
-
----
-
 > **Nota metodológica:** A previsão de maior pontuação TxGNN corresponde à *ceratoconjuntivite epitelial punctata* (rank 1, 99.57%), porém sem qualquer evidência clínica de suporte (L5 — Hold). A **conjuntivite bacteriana** (rank 2, 99.17%) apresenta o maior nível de evidência (L1) com ensaios clínicos diretos e é o foco deste relatório.
 
 ---

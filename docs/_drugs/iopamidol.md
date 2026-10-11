@@ -29,10 +29,6 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-O skill `txgnn-pipeline` cobre gestão do pipeline de ML — não se aplica diretamente à tarefa de escrita de relatório. Prossigo com a análise do Evidence Pack e geração do relatório conforme o formato especificado.
-
----
-
 # Iopamidol: Do meio de contraste iodado para a angina de Prinzmetal
 
 ## Resumo em Uma Frase

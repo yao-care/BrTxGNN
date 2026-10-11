@@ -29,10 +29,6 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-Using `txgnn-pipeline` skill para orientar a geração do relatório de reposicionamento de fármacos TxGNN. Procedendo à análise do Evidence Pack e à geração do relatório.
-
----
-
 # Tenecteplase: Do Infarto Agudo do Miocárdio ao Infarto Posteroinferior
 
 ## Resumo em Uma Frase

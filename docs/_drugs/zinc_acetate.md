@@ -29,10 +29,6 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-Using the `txgnn-pipeline` skill as reference context — now generating the report based on the Evidence Pack.
-
----
-
 # Acetato de Zinco: Do suplemento mineral à retinopatia diabética grave não proliferativa
 
 ## Resumo em Uma Frase

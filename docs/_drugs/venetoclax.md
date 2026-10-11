@@ -29,10 +29,6 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-Usando o **txgnn-pipeline** para orientar a produção do relatório de avaliação de repositionamento.
-
----
-
 # Venetoclax: Da leucemia linfocítica crônica ao subtipo CLL/SLL com hipermutação IGHV
 
 ## Resumo em Uma Frase

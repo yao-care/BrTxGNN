@@ -29,10 +29,6 @@ Nível de evidência: **L3** | Indicações previstas: **3**
 
 </div>
 
-Using `txgnn-pipeline` para produção do relatório de reposicionamento (BrTxGNN — Brasil).
-
----
-
 # Clonazepam: Da Epilepsia à Síndrome das Pernas Inquietas
 
 ## Resumo em Uma Frase

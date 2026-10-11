@@ -29,10 +29,6 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-Using `txgnn-pipeline` to orient context, and now proceeding to generate the drug repurposing evaluation report per the v5 prompt format.
-
----
-
 # Pegvaliase: Da Fenilcetonúria à Retinopatia Diabética
 
 ## Resumo em Uma Frase

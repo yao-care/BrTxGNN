@@ -29,10 +29,6 @@ Nível de evidência: **L4** | Indicações previstas: **10**
 
 </div>
 
-O skill txgnn-pipeline cobre gestão de dados e pipeline — não sobrepõe o formato de relatório definido no system prompt. Vou gerar o relatório diretamente a partir do Evidence Pack fornecido.
-
----
-
 # Selênio: Da Suplementação Nutricional à Colangite Esclerosante
 
 ## Resumo em Uma Frase

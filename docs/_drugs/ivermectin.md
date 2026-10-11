@@ -29,10 +29,6 @@ Nível de evidência: **L5** | Indicações previstas: **10**
 
 </div>
 
-Usando o skill `txgnn-pipeline` para orientar a geração do relatório de reposicionamento. Agora vou analisar o Evidence Pack e produzir o relatório.
-
----
-
 # Ivermectin: De antiparasitário à Candidíase Vulvovaginal
 
 ## Resumo em Uma Frase

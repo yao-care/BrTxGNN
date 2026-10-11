@@ -29,10 +29,6 @@ Nível de evidência: **L3** | Indicações previstas: **1**
 
 </div>
 
-Using `txgnn-pipeline` para gerar o relatório de reposicionamento. Analisando o Evidence Pack para POTASSIUM CHLORIDE → Renal Tubular Acidosis.
-
----
-
 # Cloreto de Potássio: Do Suplemento Eletrolítico à Acidose Tubular Renal
 
 ## Resumo em Uma Frase

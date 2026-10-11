@@ -29,10 +29,6 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 </div>
 
-Usando o skill `txgnn-pipeline` para verificar contexto do projeto — confirmado que se trata de um relatório para o pipeline BrTxGNN. Prossigo com a geração do relatório.
-
----
-
 # Tenoxicam: De Analgésico Anti-inflamatório ao Tratamento da Artrite Reumatoide
 
 ## Resumo em Uma Frase

@@ -29,8 +29,6 @@ Nível de evidência: **L2** | Indicações previstas: **9**
 
 </div>
 
-Usando o skill `txgnn-pipeline` para referência de contexto do projeto. O skill confirma que este é um relatório de avaliação clínica — procedendo à geração do relatório com base no Evidence Pack fornecido.
-
 **Nota editorial**: O `predicted_indications[0]` (trigeminal nerve neoplasm, rank 1) foi explicitamente identificado no campo `repurposing_rationale` como confusão de modelo (nós vizinhos no grafo de conhecimento). Este relatório foca em `predicted_indications[1]` — **neuralgia do trigêmeo** (rank 2, L2, Proceed with Guardrails) — que apresenta evidência clínica real e justificativa mecanística fundamentada.
 
 ---

@@ -29,10 +29,6 @@ Nível de evidência: **L5** | Indicações previstas: **5**
 
 </div>
 
-Usando o skill `txgnn-pipeline` como referência de contexto do projeto. Agora gero o relatório com base no Evidence Pack fornecido.
-
----
-
 # Lipegfilgrastim: Da neutropenia por quimioterapia ao distúrbio primário de liberação plaquetária
 
 ## Resumo em Uma Frase

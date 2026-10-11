@@ -29,10 +29,6 @@ Nível de evidência: **L3** | Indicações previstas: **10**
 
 </div>
 
-Usando o `txgnn-pipeline` para estruturar o relatório de reposicionamento. As instruções de formato já estão no system prompt (v5). Gerando o relatório agora:
-
----
-
 # Perampanel: Da epilepsia focal à epilepsia visual
 
 ## Resumo em Uma Frase

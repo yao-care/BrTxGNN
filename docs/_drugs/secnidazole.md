@@ -29,8 +29,6 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 </div>
 
-O skill txgnn-pipeline não adiciona instruções específicas para geração de relatórios — o formato completo já está definido no system prompt. Vou proceder diretamente com a geração.
-
 > **Nota de análise pré-relatório**: `predicted_indications[0]` é "postmenopausal atrophic vaginitis" (Hold, L5, sem evidências — mecanisticamente incompatível com um antibiótico anaeróbio). O relatório mais informativo é para a indicação com maior sustentação clínica: **vaginal discharge** (rank 3, 99.41%, 5 ensaios Phase 2–4 concluídos, 16 publicações). É essa indicação que será utilizada como foco do relatório.
 
 ---

@@ -29,10 +29,6 @@ Nível de evidência: **L1** | Indicações previstas: **10**
 
 </div>
 
-O skill `txgnn-pipeline` cobre infraestrutura e deployment, não a geração de relatórios — as instruções do relatório já estão no system prompt. Prossigo diretamente com a geração do relatório.
-
----
-
 # Magnésio: De suplemento mineral à enxaqueca
 
 ## Resumo em Uma Frase
