@@ -233,12 +233,12 @@
         <div class="drug-result-card">
           <div class="drug-header">
             <h3>
-              <a href="${CONFIG.drugsBaseUrl}${drug.slug}/" target="_blank">
+              <a href="${drug.url || CONFIG.drugsBaseUrl + drug.slug + '/'}" target="_blank">
                 ${escapeHtml(drug.name)}
               </a>
               <span class="level-badge level-${drug.level}">${drug.level}</span>
             </h3>
-            <a href="${CONFIG.drugsBaseUrl}${drug.slug}/" target="_blank" class="view-full">
+            <a href="${drug.url || CONFIG.drugsBaseUrl + drug.slug + '/'}" target="_blank" class="view-full">
               Ver Detalhes &rarr;
             </a>
           </div>
@@ -275,7 +275,7 @@
           html += `
             <div class="more-indications">
               ...e mais ${indications.length - 10} indicacoes previstas
-              <a href="${CONFIG.drugsBaseUrl}${drug.slug}/" target="_blank">Ver todas</a>
+              <a href="${drug.url || CONFIG.drugsBaseUrl + drug.slug + '/'}" target="_blank">Ver todas</a>
             </div>
           `;
         }
