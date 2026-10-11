@@ -1,10 +1,34 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-10-10T21:17:23.086376+00:00",
-  "total_fetched": 91,
-  "unique_count": 91,
-  "health_related_count": 36,
+  "fetched_at": "2026-10-11T04:38:51.083066+00:00",
+  "total_fetched": 89,
+  "unique_count": 89,
+  "health_related_count": 35,
   "news": [
+    {
+      "id": "6ae3ee6707db",
+      "title": "Anvisa libera testes em humanos de vacina brasileira contra malária - Folha de S.Paulo",
+      "published": "2026-10-10T21:01:00+00:00",
+      "summary": "Anvisa libera testes em humanos de vacina brasileira contra malária&nbsp;&nbsp;Folha de S.PauloBrasil avança no desenvolvimento da primeira vacina do mundo contra malária vivax — Ministério da Saúde&nbsp;&nbsp;Governo FederalMalária: Anvisa autoriza teste em humanos de vacina 100% brasileira&nbsp;&nbsp;Agência BrasilUFMG desenvolve vacina inédita contra malária&nbsp;&nbsp;G1Vacina brasileira contra malária avança, e ministro defende ciência na UFMG&nbsp;&nbsp;Estado de Minas",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTkRRNWNmZHNCTHFNcTZCZEtFRXlwR3owODA0QjRCZjljYTVtQmhtak1Ic0NETGtEQUJuUW9Tb0RoNmQzdGFSOENIbjhtR29fUm9QNGVQWXVZQ01HNlp5MTJQX1NDbDgyMW5sUlg1ajA3THE1MXJ5RG1iQnhKUHpXVjBYbVRubTMyRHctUUJpX0Rkcm91ZHVtQWQycmNhWU45UEJkVEYzMkk2cElnMjV1Wlc2UUk4RjFKZXdlUV9ObWdGb041WkNF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b48d347e031e",
+      "title": "Pesquisa sugere que traços de psicopatia podem aparecer na escrita - Metrópoles",
+      "published": "2026-10-10T20:37:00+00:00",
+      "summary": "Pesquisa sugere que traços de psicopatia podem aparecer na escrita&nbsp;&nbsp;Metrópoles",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNkUtRUMzY1RBeGJVNjUxUk9ZbmdycWZVdHB5MmR5X0NpN3lXM1Z3UUJBY0ZrRlpZZFozdG9hbW1yc3VRTDNLRlh1TTFpUVRXN3F2Z2FPdHEzNkxubUJLWW5RNkZsTjdnaEtBRHFBVGpCS0lhel9lVkVJcGtWOE9pbVU1cVhNRzdoclpHbjdtT2ZWaU1mbTZ0aENzNmRVTm01?oc=5"
+        }
+      ]
+    },
     {
       "id": "aac6d46c6c6c",
       "title": "Conversar com a inteligência artificial sobre problemas pessoais pode estar ligado a uma maior sensação de solidão, aponta estudo - Rádio Itatiaia",
@@ -18,14 +42,38 @@
       ]
     },
     {
-      "id": "17d11f8be76a",
-      "title": "Duas pesquisadoras da Unimar estão entre as mais influentes do mundo - Giro Marília Notícias",
-      "published": "2026-10-10T15:16:03+00:00",
-      "summary": "Duas pesquisadoras da Unimar estão entre as mais influentes do mundo&nbsp;&nbsp;Giro Marília Notícias",
+      "id": "f93644ac4c6f",
+      "title": "Estudo revela por que cães grandes envelhecem mais rápido e vivem menos que os pequenos - Rádio Itatiaia",
+      "published": "2026-10-10T15:05:16+00:00",
+      "summary": "Estudo revela por que cães grandes envelhecem mais rápido e vivem menos que os pequenos&nbsp;&nbsp;Rádio Itatiaia",
       "sources": [
         {
-          "name": "Giro Marília Notícias",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT0NBaXZBWGtOcWxhRlNXaThSOUlkY3pYdWM2WnFnZm1xaV9KYW9BS0Jzd3daOFUyNEpHdDQ2QjByN1pMYU45QzVjdnRhMUtjZjZwR1IyNnlzUnJXc3hjTVIwaE9Qc21aLUl3U3dWTFV4V05ybDloMWFVZDRtNjJVQ253SF8yQUZIbEZfLUhQQ1ZuN0s1WG00NzJ6TzZVLUZzcm1ETWc3SFZnWDcxNDVmc2hoMkw?oc=5"
+          "name": "Rádio Itatiaia",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ0tjWnNHeFZGLUtwaTMzbC1teXJsZ1ZmUk9hNmgyZVRPM2RzSFZ2SkI2cHEyQ2xkQU5laHYxNzBKa01WemQ1MjBlZ0tuRllValA4S0NMWmwyWHZDbVdYeFVwc01JTFRmWWZxTXdOZTl4ZzZXT20yYmZabVFCTXpvQXh0RjBVSGN2a01tdWZBQlBGeTcwWGUtSkx0bFo1emdzYkNVb0NpVy1UQy15NTNCdXJ1WGRMZzFxRnY0WjFfNzhiN1dfMnljdzZLMA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "393da07d1ee1",
+      "title": "Fim da hemodiálise? Cientistas descobrem como regenerar rins danificados e dão novo passo rumo a tratamento - Jornal Correio",
+      "published": "2026-10-10T11:33:09+00:00",
+      "summary": "Fim da hemodiálise? Cientistas descobrem como regenerar rins danificados e dão novo passo rumo a tratamento&nbsp;&nbsp;Jornal Correio",
+      "sources": [
+        {
+          "name": "Jornal Correio",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOM3FuVWF4b0Y3amg3cVBBZWtYRTZZbWh3UDYtWjBGS21tN2NjaXJWSEVUWUdSSG0tVTJnR0Q2REcxeGxxeWVBTFpudDhNMU9fM0w1X0Z1Rkw3ZThrRno2VnlhRUxrbEFCb1JaX0V6LTZEaWZwYjBtVTZmanQzbTdJRHRWa1JzVVRjMWZOdXpWdzVYTklkczluN3FUdTdkamlPaFhMb1h5VW5rbkFDYTlKNTVINks3ejl5TEdReGlva2NFY0dDeVFMd2ZNbVJ3TnR3d3FUM3dVVXJ0Ni1wT0hTaC1uMW0zZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "de75e7f62d7f",
+      "title": "Paraíba registra mais de 16 mil casos de atendimentos antirrábicos em 2026, aponta Secretaria de Saúde - G1",
+      "published": "2026-10-10T09:38:12+00:00",
+      "summary": "Paraíba registra mais de 16 mil casos de atendimentos antirrábicos em 2026, aponta Secretaria de Saúde&nbsp;&nbsp;G1",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPc3ZWWjZxZkk4TzhmMkN3anVnVGVEUGVwenRoV2tKdXlrUWd3dHpvX3VJZmlkcDhRUVd5a04wM1dtOHowSFZDdzR4VEs4RVUzTGVFRUNVeW9uUXhsNWwxQlNFTjdHYk5FaGtaakZfdEN1bG50SVB1M0oxTDQ3LWNhcEFyZjREcHJlOGRFTk9IaVlfMkJzX0hrazlzal9qSU90X0RXTGtSc0ZoQlBxbFA3dW5tSHRGcXpjMXFjNThRekpUT0QwWmoyY25HX05LMzAtUmFnV3B4bHdxbUJfRFVVQ211S1JaWGNELTlKbnllWdIB_gFBVV95cUxPd3BHVk5XMVNfUk9XR0VYUmEyaDhDMEthYzFuRERrV3MzUEpfdVl2UzF0Yzk3VEE4cjVnTnJNdE94ZC1qRHZNTGNMRnRvSERVTHgwbDVYaFZ0ZnlaTnFQU2taUldpR2xEUFBDLUJNanRvWGlTTXhkN3gxYmRveWNHY2hmbGxYSlhaZFdYY09iTWd1VHpQNy1LLUNaWDFIa1pjdnJfenJaV0Q4T3F2a0pwNlktRFdHZ05UR2pQQ1FwV3R1MEtuZzY4MmNYclI2aHZIZmRtZWNiaFNBMi0wMTFCR0libk5OeDBpOUMwb1RqcU1Kb2FzNmt6NGJFRDZsUQ?oc=5"
         }
       ]
     },
@@ -33,7 +81,7 @@
       "id": "768ebcdb1a02",
       "title": "Intestino irritável: Dr. Kalil e especialistas detalham sinais de alerta - CNN Brasil",
       "published": "2026-10-10T09:00:23+00:00",
-      "summary": "Intestino irritável: Dr. Kalil e especialistas detalham sinais de alerta&nbsp;&nbsp;CNN BrasilDor com \"vida própria\" pode ser um sinal de SII, diz médico a Kalil&nbsp;&nbsp;CNN Brasil",
+      "summary": "Intestino irritável: Dr. Kalil e especialistas detalham sinais de alerta&nbsp;&nbsp;CNN BrasilDor é o maior sintoma do intestino irritável, dizem Kalil e especialistas&nbsp;&nbsp;CNN BrasilDor com \"vida própria\" pode ser um sinal de SII, diz médico a Kalil&nbsp;&nbsp;CNN Brasil",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -78,18 +126,6 @@
       ]
     },
     {
-      "id": "ccb086b94257",
-      "title": "Anvisa autoriza início dos testes em humanos de vacina 100% brasileira contra malária - G1",
-      "published": "2026-10-10T01:36:10+00:00",
-      "summary": "Anvisa autoriza início dos testes em humanos de vacina 100% brasileira contra malária&nbsp;&nbsp;G1Anvisa libera testes em humanos de vacina brasileira contra malária&nbsp;&nbsp;Folha de S.PauloMalária: Anvisa autoriza teste em humanos de vacina 100% brasileira&nbsp;&nbsp;Sul 21Brasil avança no desenvolvimento da primeira vacina do mundo contra malária vivax — Ministério da Saúde&nbsp;&nbsp;Governo FederalUFMG desenvolve vacina inédita contra malária&nbsp;&nbsp;G1",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQalJzUmVDNDBHY0c5blh4dWc1WThBNHRYTmpYRnFIY3lFODVWVkhIUHFDSXNUbEc0UVBqUnRuXzlJa1BWT3h0UjJTVHkyY1lSX2pGVkhyUmlybm9hcFhnTmZGWFJram5EV3FzUDFLdE9JdFBQTXRXeUtBSlVreEo0WTdhMVFteFNQeWpxaFFNeVlwV3BoOGtxbE9zS0lqTUJsdWs1TEVzRTd3WkVOM2JhLTFIVXBGejZNdlRleFRpZUF1UDdlemZIRDNEcVo1aFJwYWR1cld4N2FSX1ZMWTRuR2w5LWNnNDJB0gH3AUFVX3lxTE1LejdjRkY4a3lCaTR6NDA1QWVjS1JQcW04NnFORG5IMUZwZnB6Y0I0ejBvRU5HNnVCRVNXekprVEJxVWZYQlBnZ2dHUV9NTUFHVF9tbFd3QmhTUTlSUE5YMVdWS3VMSXA0VEJFLWcwZ3dha3NtNk1ONU83anI1VS1uc19HRmdySTFPVDZjc1l6WHNvc3hKVmM5d0lMWTltOVFKMFBVcU1JNWtRYl9Na1Z1OGdDSVE4elF4dnVWMXd4UUpoR2lBTGluTGNwVW1xYW5qRml2WGpiTDNTcjJwZHgtZFF4Z0VmMzBDUjlQN2g5Y0p0R2tzWnM?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6a91269f0ce0",
       "title": "Menino conclui a escola aos 8 anos e termina o doutorado em física quântica aos 15: aos 16, 'Pequeno Einstein' já mira revolucionar a medicina e aumentar tempo de vida humana - Jornal Correio",
       "published": "2026-10-10T01:22:00+00:00",
@@ -98,18 +134,6 @@
         {
           "name": "Jornal Correio",
           "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPLXhLamx4MzFtbV9WaG12THc3T3pBYVo0T19RT0RjY0xrZF8yODNYV21CQ29fdjJWQWMxbU1zb3lPaW8zZ1JMTzNNdGpPTWRyamlRQWVMWFRwZ2lCNktkSjlpaXUxMzRRYlNxVVdwZ0hldDY4VzRkQTM2TnUxTmlVZ3JZMGxFTnU2anFhZW1XT1dDRFdrYmk3S0F3S3YwY09MbWFwS0RVT1NPTFBzc3FjdjVnLTdrUG81TFZUMlFYVUNueVpvNjhYZWJTdmhsUWh0a1k3Znpfb0pDNFpRTmxiLThZbXQ2ejY0WlhnbnBxMnVKVVlucVZZaHV0NG5HWkx3R01Qa1JLLUdZUk9jY3p5WWhhUk1iWUdQdV9SMGdNT1NlZlFCN3BXcVZaOWNRbHREQkhVeFlNd0R0T2FoWEE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5ffdd8ec7fc7",
-      "title": "Tríplice Viral — Ministério da Saúde - www.gov.br",
-      "published": "2026-10-10T00:51:59+00:00",
-      "summary": "Tríplice Viral — Ministério da Saúde&nbsp;&nbsp;www.gov.brSaiba o que explica o surto de sarampo em SP e quais são os riscos para o RS&nbsp;&nbsp;Correio do PovoComo ocorre a transmissão do sarampo e como prevenir o contágio&nbsp;&nbsp;G1Na conta do negacionismo&nbsp;&nbsp;Correio BrazilienseMinistério da Saúde alerta para risco de retorno do sarampo ao Brasil&nbsp;&nbsp;Agência Brasil",
-      "sources": [
-        {
-          "name": "www.gov.br",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5HSWhiM25aelE0bloyZXA4cmJTQUljOHVhaVJkTDQwMHZHRG1Zd2lwU05qZld4R1FmQy1wcEUwS1lsUmlMdV9pZk1XLU1JTjZ0SzdDUnFlZ2xRa1ZxU21HU3VfTVFuUlVvaW1EcjRzdGgwQm9KVTJWdQ?oc=5"
         }
       ]
     },
@@ -126,22 +150,10 @@
       ]
     },
     {
-      "id": "36fcf5e351a4",
-      "title": "Alagoas tem a maior taxa de mortalidade por doenças cardiovasculares do Brasil, aponta estudo - TNH1",
-      "published": "2026-10-09T21:32:00+00:00",
-      "summary": "Alagoas tem a maior taxa de mortalidade por doenças cardiovasculares do Brasil, aponta estudo&nbsp;&nbsp;TNH1Doenças cardiovasculares matam uma pessoa a cada 72 segundos no Brasil; mortes podem subir 10,8% até 2030&nbsp;&nbsp;G1Alagoas lidera mortes por doenças cardiovasculares no Brasil; veja o que explica&nbsp;&nbsp;Alagoas 24 HorasDoenças cardiovasculares matam uma pessoa a cada 72 segundos no Brasil&nbsp;&nbsp;R7SBC reúne estatísticas cardiovasculares do país em nova plataforma de dados&nbsp",
-      "sources": [
-        {
-          "name": "TNH1",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMnB2Q1NGNVJhczdfQUtHZXlHMFhUS0NXdDNqNlg1XzlQWWh2UVFERUk0SVp6YWM0dEZGOGNLbTF5cnRpRF90Z1F5bkE5MkE5SmZXa1NRVk1IeXF6eDBtekRQZ3NDMkdnSG1jM0RZRjVhMlJkNnNad2xyeENnYjdrY1FzcHRNUEdqeWhfb0d2Z1A5NnNrbHJqMEdiR2FnMHhuNnhnS2UyV3IyTFN1MnZOUG1HRUxSYzNxZ191TDcxOEhlZG54NkpFUNIBwwFBVV95cUxNZlhPeUtHSmktQVdjYWczYXZJS3hPUVpWdHZXZ0tRM2dZWjF6THJ5RTVyZDZTYTNnYTZtYWtpMHFIdEt5azFrSVpBNHJ6Q0lIcUJsdGRkbzRUWGJnLV9jOTVlZDZKOHNnamhxX0ZoRnU2TXl4ejV4MzJ1NERtOHlZQjJoM2paQkhOMW1JaWlNRDkydkdhM2xFZDhPVXlyR2hJR0t0ZG5nRHZnemRHV2hMbEJ6dHNGTXR1S0FCQl9fWFc0b2M?oc=5"
-        }
-      ]
-    },
-    {
       "id": "66e21478e09b",
       "title": "Sem sintomas, gordura no fígado com inflamação aumenta risco de problemas cardiovasculares e pode evoluir para cirrose - Portal Drauzio Varella",
       "published": "2026-10-09T19:06:38+00:00",
-      "summary": "Sem sintomas, gordura no fígado com inflamação aumenta risco de problemas cardiovasculares e pode evoluir para cirrose&nbsp;&nbsp;Portal Drauzio VarellaEsteatose hepática: nova diretriz não olha só para gordura no fígado para definir riscos do quadro&nbsp;&nbsp;EstadãoGordura no fígado: o alerta silencioso que pode levar ao transplante&nbsp;&nbsp;Estado de MinasDiretriz atualiza o tratamento da MASH com novas terapias&nbsp;&nbsp;Afya | HomeDoença hepática: cinco formas distintas impactam 30% da ",
+      "summary": "Sem sintomas, gordura no fígado com inflamação aumenta risco de problemas cardiovasculares e pode evoluir para cirrose&nbsp;&nbsp;Portal Drauzio VarellaEsteatose hepática: nova diretriz não olha só para gordura no fígado para definir riscos do quadro&nbsp;&nbsp;EstadãoGordura no fígado: o alerta silencioso que pode levar ao transplante&nbsp;&nbsp;Estado de MinasDiretriz atualiza o tratamento da MASH com novas terapias&nbsp;&nbsp;Afya | HomeGordura no fígado atinge 30% da população mundial; saiba",
       "sources": [
         {
           "name": "Portal Drauzio Varella",
@@ -198,14 +210,14 @@
       ]
     },
     {
-      "id": "bf3fb8b8a1ab",
-      "title": "Outubro Rosa: Pele dos seios muda antes e depois do diagnóstico de câncer de mama; Entenda - O GLOBO",
-      "published": "2026-10-09T15:38:32+00:00",
-      "summary": "Outubro Rosa: Pele dos seios muda antes e depois do diagnóstico de câncer de mama; Entenda&nbsp;&nbsp;O GLOBOCosméticos no tratamento do câncer: o que observar antes de usar&nbsp;&nbsp;al1.com.brCuidado com 'naturais': especialistas alertam para riscos de cosméticos durante o tratamento contra o câncer de mama&nbsp;&nbsp;bra1.com.brPós-quimioterapia: quais cuidados ajudam a fortalecer cabelo e unhas?&nbsp;&nbsp;BoqnewsCâncer de mama: tratamento também afeta a pele; veja cuidados e soluções&nbsp;",
+      "id": "9c90cf7bcb47",
+      "title": "Estudo encontra 19 substâncias químicas nos dentes de crianças com autismo - Metrópoles",
+      "published": "2026-10-09T15:49:00+00:00",
+      "summary": "Estudo encontra 19 substâncias químicas nos dentes de crianças com autismo&nbsp;&nbsp;Metrópoles",
       "sources": [
         {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQXlMLWFNamhPUnZTRlFkc2J1N1JhYnByQ1RuSVU2UjRFOHZnSS0xTndQQmo3SDNUUU91ejJjeGc4Y2dta3BFd3RDMUU4Qm5nRWtSaEhfN0ItNXR3U09GRWh6STNfcTlzRWxkekg4RGJWSFNNZ1M1Vy1rU05PS0ZueXpJVlhYV3lFdW9aVnNRd3Y4UUZ2ZFc2N2xfeHhONmpTRlVub0dMOWRlREZnY2JSTHdJb1hZVFF1OTl0dDVWaW9LSWJIaXZTVjZHS3YxMU5HZEdJQkxnLXpLUmNKVjI1OFJn0gHwAUFVX3lxTE15SW9SQzVoa2QwSW12MTZWWld1a1RBVDNINFVuNndoMnBYRXpEMU1vaTlnQVE3R3hsMDh4Y3BBR3habV9fNWl0clJEM25FVFZWaGNBejdROEhQc1FhWGRiTXY4Mk1vbHJLeEdmU25iX25yNUdrSnpNOWlwbmlHeG9wTUh2XzMtTWRKSExYQzRyRUxVQ0VHNEY3SFNodUtPbFJVRzJIVnoyZkxCdkY3YXNWdjBncUptUTViWlN3NlktdF9rQVNKMWs0b1hsQlpzU0pZelY4SUREVG9XNWdDMkc5ZFVDQWVWa1h1Q3R6S2xyMQ?oc=5"
+          "name": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObFMyU0tMRDdLM3VhX1lOUUo5RTFCT1ZSa2Zoc1QxaTZxOFd3ZFFsRzlxaWdwbUdVcGo5djUxX19XNEZIY19LQi0zTllUdmpRT2htVUpBSzFibGlNb2ZwZE5jUUxaVWJLcXhNMkxPZkRCUUNEYmNKMkxRVDZrNjVLd0tGLUFod1VJSjhhZE1fdkJVMHJaZDlIeFduTlpBSGNydnlRVmZxdVJORHM?oc=5"
         }
       ]
     },
@@ -222,30 +234,6 @@
       ]
     },
     {
-      "id": "ac12937d300e",
-      "title": "Anvisa alerta: suplementos não tratam resistência à insulina - UOL",
-      "published": "2026-10-09T15:08:53+00:00",
-      "summary": "Anvisa alerta: suplementos não tratam resistência à insulina&nbsp;&nbsp;UOL'Suplementos não tratam resistência à insulina e podem atrasar diagnóstico e tratamento', alerta Anvisa&nbsp;&nbsp;G1Anvisa alerta para vídeos de profissionais que incentivam uso de suplementos para resistência à insulina&nbsp;&nbsp;VEJASuplementos não são remédios para resistência à insulina, diz Anvisa&nbsp;&nbsp;MetrópolesAnvisa alerta sobre suplementos e resistência à insulina&nbsp;&nbsp;40graus.com.br",
-      "sources": [
-        {
-          "name": "UOL",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWnNRYllmenNreU1STkI0TVJneG44Q1lTWVR2Tk9aekN0ZHFIdi15UW8wdGJMVENEcUE2MlkyaFFvV05wSFVYdVBMeElUeWFLZWVpSUdHVXFodTZrRVhuX3dRN0V1eGNkWExVOTFvZFFpTTJYMzVwaFNJY1hHODNUTEFmTmtVaXc5UTFvTWoxbldDaFhMcmVvUk5jd3hxZ2J4MzJEYVBmY0xzTGIxQXI5TnRVSnE0SGp5NUQyX1NiTlA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3ef58a77f39b",
-      "title": "Idosos a partir de 85 anos podem receber vacina Pneumo 20 em Pernambuco: veja como se imunizar - G1",
-      "published": "2026-10-09T15:04:04+00:00",
-      "summary": "Idosos a partir de 85 anos podem receber vacina Pneumo 20 em Pernambuco: veja como se imunizar&nbsp;&nbsp;G1PPMM amplia oferta da vacinação contra pneumonia para idosos&nbsp;&nbsp;Prefeitura de ManausPernambucanos de 85 anos ou mais já podem se vacinar com a pneumo 20&nbsp;&nbsp;Diario de PernambucoPrefeitura inicia vacinação contra pneumonia para pessoas com 85 anos ou mais na terça-feira (13)&nbsp;&nbsp;Portal da Prefeitura de UberlândiaCubatão recebe 600 novas doses da vacina Pneumo 20&nbsp;&",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYklwQWVfQnM3Y3ZVbEN1cXo0M01BdFIxbnRYemVocUQzUjBVWS1WM0FUQkgwbTk2ZWV3SkhMdUhaeUtCT3NQNnZpTmUzczlleGdOZEtlVkVNSzVXcGlhS0tHRWtrUm9wcTJTdnoxT2djdnFHT2hGWDlqeE1Jb1I0MmwtNXFCX2tsT1diaUtWUGwzUFdjWkcweFNQbmluRXBPMzBIZU1LYXlaQlp0TEVFR2pBUXR1eGdHOU1WbHNSdzdaR0VOak5WRGh5T01lX18zcjBCcXlnYXItWmYxekZEMWh3LWFWX1820gH3AUFVX3lxTE9iM0x3c1A1OHRsa09WR1d1T1NPLVltNVc5bFZRbUw5NzZsTktOei10c0c1NHZCazVmWmRYYUJXWFdqMlpfeHFZaTBoYWQyYkxZVHkzanRlc3N0eU1GcXBnMERaVmdrT2JJVG5rbzdEUGxVUkVTSEg0dWZrTjVTTzlia1RuVE5PMTlQa2pNYnkyMnlMbVRJcWtQOEx4Y1pneDBEY085andhdG9ubklPS3dOdGxVOElaeFpkMGNyRkpwQ2lXMEVkWGlkaGhMNEViLTV1N3lhSGhMSmhkVFZqNUZodld4ZlM0RUNLbTRnWlJOMldTYjNBTjA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "306fec85817e",
       "title": "Laboratório de Anatomia Humana realiza cerimônia inédita em homenagem a cadáver desconhecido ou corpo doador - UEPB",
       "published": "2026-10-09T14:52:24+00:00",
@@ -254,6 +242,18 @@
         {
           "name": "UEPB",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObkR6N3RsYVZfbWVERzVPMmxSM2I2SDY4dEZQUld6ZG5rQW5SRUtfblRkMmFWZGctR3Ztb1dQY1lNZ1JHNFJhVlB6eVVRNHJKNndLMTVCWTFrci1aMHJ6V0N1UFYzU09BOXBoeDRLb09URk5CWW1oRHBHTWs2WmMzam9TdkktSjNmR2VDemdreXAtU050MUJwaWQ0ZkhCX012QkhLUUxuZE5idUpxaWYwbGFCUENOdGxaT0VfcWd0eEVNR0RHS0lYTg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0230eceb140a",
+      "title": "Inseto mais pesado do mundo foi salvo da extinção por cientistas após uma descoberta excepcional - Acorda Cidade",
+      "published": "2026-10-09T14:34:00+00:00",
+      "summary": "Inseto mais pesado do mundo foi salvo da extinção por cientistas após uma descoberta excepcional&nbsp;&nbsp;Acorda Cidade",
+      "sources": [
+        {
+          "name": "Acorda Cidade",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMXkxOEk4TmRPNTBWUG5kTktUYVg3SnM5NDVSVkNzWVJFa19YWFl6U1l0MEZHX0NVb0VESE9rMFVnSGxqRzQtdkdITTJEcW5xNi1jWEVIZnI3OUVkVkRmeFJBeEpvNDMyeHFGWlg3aGduZ2IwaHAxNVNTb3RXSXhyZkstZ3hSWUlvYURYdV9RMmFybk02cnphOThFQ0lsSW9CbmppRmlEVHJwb2gtUG5WeENvLVpGOEw0Rmh4NDdiR1lsUVZqeTRhdEhvS0hONHNObVRTckxn?oc=5"
         }
       ]
     },
@@ -294,14 +294,14 @@
       ]
     },
     {
-      "id": "95dd74885263",
-      "title": "Mutirão oferece 100 atendimentos gratuitos com mastologistas no próximo sábado (17), em Fortaleza - G1",
-      "published": "2026-10-09T12:36:22+00:00",
-      "summary": "Mutirão oferece 100 atendimentos gratuitos com mastologistas no próximo sábado (17), em Fortaleza&nbsp;&nbsp;G1Outubro Rosa: Ceará deve registrar 3.250 novos casos de câncer de mama por ano até 2028&nbsp;&nbsp;istoae.com.brNovos mamógrafos na rede pública de Fortaleza realizam exames com menos dor&nbsp;&nbsp;Diário do NordesteOutubro Rosa: Rede ICC Saúde conecta a genética à prevenção do câncer e ao cuidado integrado à saúde da mulher&nbsp;&nbsp;Repórter CearáParaná deve ter 4,3 mil casos de cân",
+      "id": "02af54087a01",
+      "title": "'Mais livre e leve': mulheres contam por que estão felizes na menopausa - UOL",
+      "published": "2026-10-09T12:30:00+00:00",
+      "summary": "'Mais livre e leve': mulheres contam por que estão felizes na menopausa&nbsp;&nbsp;UOLGinecologista fala sobre menopausa&nbsp;&nbsp;G1Menopausa além dos hormônios: ginecologista defende cuidado integral para garantir envelhecimento saudável&nbsp;&nbsp;deolhonacidade.netClimatério pode começar anos antes da menopausa e acompanhamento está disponível no SUS&nbsp;&nbsp;Âncora 1Alimentação e menopausa: a importância da dieta personalizada para a saúde feminina&nbsp;&nbsp;Tarobá",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQ1MxYVN4MXFTTU95N0VTVzVjT2pxWGszRVlPUjJFN3dsdkJhQXUtcTIwelRyWmVHS1dod3VsWFBXUjBSQi1SQmJuenctYWU5dTNLY2ZiU3pJcS13S3RjMWFBa3FDa2JQdFhqQVhyc1Ztc2tmUGhuaHJlQmdLaER0RXZQM3dLMTc3ZjZ1eW9ta3NMcUt3dm51Nkd3SzhHSDQ4ajhoUzlnbDNjeGJBN2lfZ0toS3N1a2FXVF9TMFRqazRyMGtNZXhCcXpGLTFDWVF5VUh3SHdyQWZ1TFJYSWYwcUtjTdIB8gFBVV95cUxOdFNOZGl6X0ZnYnBSQm9fbmlkbFV2WHFSUzJKYkVsRm14YW9pek8zUnM1LTZWVkFTVFFTUEU1bUNsdUpnTEUxR2ZTaU5PanJqRFVidGc1SVJMVVFubVU3ZEpsUzBWd0RlaXdnWjFWNHNMLVEtMDhmVzR2d3A5NUlfeE15Sm05MkpmcWtaSmRzV2lMZmpQaXIyTzhTTENJTXBFcExKeXF0SDN3UVplVTZqdHJDU0wwb1doSjJQa3NROXRMM19ZY2Ixb0k0a0tDQTdvREtkSzhtbUtoV09qN2dDT1J4bDBhR1FjNnhPV1A3ajNsQQ?oc=5"
+          "name": "UOL",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSm5jRVh0cHNYN1N0QTU3TzVqejNRYXdMZEI3dV9IX1ZaX3FOeVdSVC03dE5rN0h4UTlPMVNnNWUxRmdEY1pIU0cwdE1zM0NTVnRjWmhRbl9IYzF1MmlhVDFoaEx4Y05iZGNMYkpaNkxBT1phY1c4aGVkdDZneVBwTm5ZTkFnbUROVW5JdFY0YlpwQWlKNnNQckgtVzJSNEdKOHBHRW9lSzFwSHhvWkM4NnFnNnh1MmhCSVNmckJUaXJJNzhWZm9teEtKOW4yZw?oc=5"
         }
       ]
     },
@@ -354,30 +354,6 @@
       ]
     },
     {
-      "id": "56ecc034530b",
-      "title": "Universidades e centros de pesquisa têm histórico de incêndios e desastres no Brasil; relembre os casos - Folha de S.Paulo",
-      "published": "2026-10-09T00:32:00+00:00",
-      "summary": "Universidades e centros de pesquisa têm histórico de incêndios e desastres no Brasil; relembre os casos&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQakpLRXBwV2w3SVVucnBfWDU4OG5JWjEyU3dfcmpLWWJ1NFVUeXpLaUN5eDZHYzlEQ0Q4bFJjTklhRk1pdHZyNDlsdEcxUFhFcWxWYVZXYjRiUFFKU010V3h0TlNaNVBwdmhpbi1OSDhoYkNwSS03SDRhUFdZbTIwc1AzdGFiRzRkV2wwZU1YMDh4R2RWNWRWXzJNTWlBNzdaenVEeGtEYjdNeWxicnFXcGxMNjJfeVkyS0dfdDdtaGFrRFVyM0F4MEJlNG5yOHh5YTJGT0ZDRlR6anRwNC01UHh6NndaYTVTMlJmUg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "35fb91ca620b",
-      "title": "INSS reforça apoio às mulheres com câncer no Outubro Rosa — Instituto Nacional do Seguro Social - INSS - Governo Federal",
-      "published": "2026-10-08T20:19:09+00:00",
-      "summary": "INSS reforça apoio às mulheres com câncer no Outubro Rosa — Instituto Nacional do Seguro Social - INSS&nbsp;&nbsp;Governo FederalCasa Clã Mama 2026: evento debate autoestima durante e depois do tratamento do câncer de mama&nbsp;&nbsp;CLAUDIA - o sentido femininoCâncer de mama e direito à saúde: do rastreamento à integralidade do cuidado&nbsp;&nbsp;Folha PEVídeo: Pacientes com câncer podem ter direitos além do tratamento | Vídeos Meio-Dia Paraná - Noroeste&nbsp;&nbsp;G1Outubro Rosa: tratamento te",
-      "sources": [
-        {
-          "name": "Governo Federal",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQmpJRUl3Ny1FcG14NWxwRmZuaW9PS1dTZzlEazFaZGFZTmhvWnZKczVKT3RjWC1pazNJUUxRYl9BbVFnWnpXVnhtU04zVEFPLUltWFB1RUFibEgyMkNYd2ZIbDBwSE8yRjdub0U0TTJRQW1yUEVTOFJkcHZ5ZXZMY2VtMXhvVkFkTVJLLWk1dXVlUksySHVJNW9sbW5UaVYwRVBOS0p2YmE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e7be3f2ffe33",
       "title": "Homem que encontrou cratera de 390 milhões de anos pelo Google Maps tem descoberta confirmada - Globo",
       "published": "2026-10-08T15:08:07+00:00",
@@ -390,22 +366,10 @@
       ]
     },
     {
-      "id": "21d7b64fe9ea",
-      "title": "Caso Clínico: Miectomia septal e ressecção de mixoma atrial no mesmo coração - Medscape",
-      "published": "2026-10-08T11:53:05+00:00",
-      "summary": "Caso Clínico: Miectomia septal e ressecção de mixoma atrial no mesmo coração&nbsp;&nbsp;Medscape",
-      "sources": [
-        {
-          "name": "Medscape",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRGR0YWltSk1yTl93MWdRRHpfV2RCVmhKX1IwTWZBcHpVZU5RNEtPRzV6T2VtMVAyRGNQVTlOQUZQRlFqNGgteUpudVcyLVlFNTJTWUFxemVLdHFWXzdZZXp3VmROYk43cFpSS0tGeUdwUk5VbmtxQjMyeFBWYmtPcm9EYTJ0ZjlwcnJOMC1wVGdJUnlzNENjblRmR2V2bmVGM0lLUXRzdXZ3bXJzSW1KUDJB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f26ae7230018",
       "title": "Casos de doença inflamatória intestinal aumentam quase 60% em cinco anos no Brasil - Portal Drauzio Varella",
       "published": "2026-10-06T19:03:08+00:00",
-      "summary": "Casos de doença inflamatória intestinal aumentam quase 60% em cinco anos no Brasil&nbsp;&nbsp;Portal Drauzio VarellaDiarreia, dor ou algo mais sério? O que a inflamação no intestino pode indicar&nbsp;&nbsp;Tua SaúdeCasos de doença inflamatória intestinal aumentam no Brasil&nbsp;&nbsp;G1Casos de doenças inflamatórias intestinais crescem quase 60% em cinco anos no Brasil&nbsp;&nbsp;Jornal Bom DiaCasos de doença inflamatória intestinal disparam quase 60% no Brasil&nbsp;&nbsp;Folha do ES",
+      "summary": "Casos de doença inflamatória intestinal aumentam quase 60% em cinco anos no Brasil&nbsp;&nbsp;Portal Drauzio VarellaVeja mais manchetes e perspectivas no Google Notícias",
       "sources": [
         {
           "name": "Portal Drauzio Varella",
@@ -434,6 +398,30 @@
         {
           "name": "G1",
           "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOdmViQzg1SWdzalczakJLRWVJV3FOX0JBWE1qaG9UcGZTUHV4c2w0UUFjNWYxdGZNTzJpTVh5TnkwSW8xWlVMWHNRd1Zjc0s1cnh3YkhFWFIwV04zS3o1THIxU0lIUWFEeVYwbFpSelFYRTZ5MmU2WjlnN3ZuVDdQOXdUTzBrMVVOT2hHVmp1ZG1iX2g1T2tiWGZUeFRKYjl2Y1hCbDZaSnNoRExwSklrRFhubWxoY2cybE5EZkQ2M0swV0xUYmpOQnJENEVCNmhTeDh6Q2QyYzk0aGVnY2owRmNDYnNCZEZUU3YwR2tiT1F3WjdMaGQtRGxWUzg3MTFmVUx4cEZNNNIBlgJBVV95cUxPOFBUUFF6dDkxaXZoVV9iMy1BbWNFNXhpOW1WdHYxUGZ1YUphMDIxTUxIRFJ5Sl9MeC1iMHNFeXdSMFFTVTg4LWVHekRWQ1hFNS1fZGx3ZjB6cFBjVG1zQXdGY0dBR3RTd2haZklJRG93VjZ3aWxQaHo2T09KNHlqMW5KNGZ6UDAxdUhBWF9hcXEtVEhTUWJPQkVtdGh1QmVxZGk2bk12c2VqcXhsakYzUGkybkFpeDRoVjNyS1YzYkhFRmFhaS1GOUxDRDRINllmVjVZZ2p4VHdLRml0Q1lXN2V3aHZZSW5xY0xsM3Eycmt0ZUpNQTNMbHBCWjZadUgwbjdaZllOZF9UUkN5WllXZEc2NUQtUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e5750c6980f5",
+      "title": "Nova York declara estado de emergência por surto de sarampo - Correio Braziliense",
+      "published": "2026-10-06T03:56:00+00:00",
+      "summary": "Nova York declara estado de emergência por surto de sarampo&nbsp;&nbsp;Correio BrazilienseSaiba o que explica o surto de sarampo em SP e quais são os riscos para o RS&nbsp;&nbsp;Correio do PovoComo ocorre a transmissão do sarampo e como prevenir o contágio&nbsp;&nbsp;G1Na conta do negacionismo&nbsp;&nbsp;Correio BrazilienseMinistério da Saúde alerta para risco de retorno do sarampo ao Brasil&nbsp;&nbsp;Agência Brasil",
+      "sources": [
+        {
+          "name": "Correio Braziliense",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORjJhWk5qUmZuN0pQUVdpNm9vRkNaRmh6SzEyUV9oWUllUldXX0hNMjJlOGdPNElQTWEybHUwb3EwaW5HRkUzbkwxc3dxeGFDUXByRUxnWnF6azV2UmYwYUQ3bkFPNTljUVdUcjlqTGRWX1RXbE9ueVZrd2x0d1cxXzgwTzVHVU5hVmlwZlYtYXY1T1p0UjBjTWJXM1VJQjZmbkU1ZkFVejN2cmxXOEd5ZGVEVlFyYkFnMXdaZ3QtdXlDd9IBxwFBVV95cUxQSy01TVJwR3FTcFVfcFZpN3doMFI0QzNhdl9SYnlUSktrYmJleUFRemNXZ0hnNWNBMWZhQ1k2X3ZFQk80bnFGYU1SWEhWUE10ZWYxMk96emFkM1AwYlg4OEJuSEV3ak9pNllNQ2c4WHludzhrX09KbWtZZlFUOEttblpTSDh1dVY2T3UwenB6WTNUSzZSLVA4TkZmMmFhRTZIMmctMm9aV0JqSlAtUGVRZzdJeDhXLWdyQWRlTWxqcDNaSms1c3lz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c8ee485ea3e1",
+      "title": "Médico de SP morre após sair de motel e correr por rua de Salvador - Folha de S.Paulo",
+      "published": "2026-10-06T00:40:00+00:00",
+      "summary": "Médico de SP morre após sair de motel e correr por rua de Salvador&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNc1R2MThROE5yS21RV0Y5cXRsSzRWaW1xRlhXOEF6WDc0b2JkVkZmQ2tTUWl5SU5paE9VeU5lZVlZZmdfb01aMTBiWTV0RUNFNGExRGJxeWdrS1dOcWFEdnBDSWNMaGIxODNERHZIa3I2RGx2RjR1MHRVdFRVT1pYMThlMFJxb19iRTZvZHI2RVZ1aFVWQW5rdVVOOEc5LS16Yy11cHFLdUlFOURRMVVkNVFjT1BFTWtTSFYyOA?oc=5"
         }
       ]
     }
