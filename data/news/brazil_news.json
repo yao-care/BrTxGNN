@@ -1,15 +1,39 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-10-11T04:38:51.083066+00:00",
+  "fetched_at": "2026-10-11T12:17:45.846210+00:00",
   "total_fetched": 89,
   "unique_count": 89,
-  "health_related_count": 35,
+  "health_related_count": 26,
   "news": [
+    {
+      "id": "82c4417e0e12",
+      "title": "Diagnóstico tardio e dificuldade para erradicar bactéria H. pylori elevam mortes por câncer de estômago - Folha de S.Paulo",
+      "published": "2026-10-11T07:00:00+00:00",
+      "summary": "Diagnóstico tardio e dificuldade para erradicar bactéria H. pylori elevam mortes por câncer de estômago&nbsp;&nbsp;Folha de S.PauloAção educativa no HC aborda a prevenção e diagnóstico precoce do câncer gástrico&nbsp;&nbsp;www.gov.brCâncer de estômago: azia persistente pode ser sinal de alerta; veja fatores de risco&nbsp;&nbsp;O TEMPO",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQNU5WYVgwbUZ4NEsxTG03ZVoyRWgyQnBIaVhmYWRmOFNsMXB6SlN6VUkxYVZCc0Y0cHM0b09tZEtTODBWTlJ0LUJkRksxbGdSMUtlTDRlcU5fU0h1S0EtVW9SajdOMTRudEtpSlZYUFZ4X0hsQTFIcGszT3N4Yk1yXzNIdUduY3JQcktKM043aDV1Q0VWM3B0NUJPRXNhcFFXTzNkdl9mTWhybWl0U1RGX0ZpVGw3Rzh1bU9NQlZITWE1V2c4REdpVmljc3hnR055dnBUX0V6RW9zbE40eW0tWHJqVEVRR1c3QWxyc3JRME5NZzdOc1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4e3aacf99a18",
+      "title": "Mulheres sentem dor com maior frequência do que homens, aponta estudo - G1",
+      "published": "2026-10-11T07:00:00+00:00",
+      "summary": "Mulheres sentem dor com maior frequência do que homens, aponta estudo&nbsp;&nbsp;G1Em quais idades o corpo sente mais dor? A ciência pode ter encontrado a resposta&nbsp;&nbsp;O GLOBOMulheres sentem dor com maior frequência do que homens, aponta estudo - 09/10/2026 - Equilíbrio e Saúde&nbsp;&nbsp;Folha de S.PauloEstudo global com 6 milhões de pessoas aponta que mulheres sentem mais dores do que homens&nbsp;&nbsp;SuperinteressanteEsta é a idade em que as dores de cabeça atingem o pico, depois dimi",
+      "sources": [
+        {
+          "name": "G1",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTmNFbGU2M010WTRLXzAwUTlPby1CZkd0dmRQSHVmUHNCOEQ5VmNsQVVUdTVtd1dlSlVmcUFvampLTXljNUt6VGNPMzNnS05Pb1lGSGVyaGFXUTFIM3c1THVWbExyYjVnN3o3WnY5UDVHOVcxTmpWbEtpVTNkcHpPbENtdXZ2VmhSQzF6aHlYZmIyQi00MEJfNDJaU19KU1c4d2ZYRWJZdG91SjUybHhMNWx2SVZwYURxLURubNIBywFBVV95cUxOQ2w2eGZWRjZQanJ1UU9mcmU3UFdYTmZTem52dS1rc0RLekt2R0tVd2pzMlBuVElfQmNuNnNsbF9zekxQR29CWk1UMU4zS19jU0hZN29aSV85YXF3WkVMa0NMY0tWbnM3bXpZV3ZJRC1PVHQtWEkwd1otTVF5RWtvV0NyT0Vacy1lQkxveWZpRW9Va2VoQlV0NWZ4dHF4bG9vc3NOZFZmNjJkY203b242VC1HYzgzalc2WGZSZ21OOEJRU1ozNGNJNFdJWQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "6ae3ee6707db",
       "title": "Anvisa libera testes em humanos de vacina brasileira contra malária - Folha de S.Paulo",
       "published": "2026-10-10T21:01:00+00:00",
-      "summary": "Anvisa libera testes em humanos de vacina brasileira contra malária&nbsp;&nbsp;Folha de S.PauloBrasil avança no desenvolvimento da primeira vacina do mundo contra malária vivax — Ministério da Saúde&nbsp;&nbsp;Governo FederalMalária: Anvisa autoriza teste em humanos de vacina 100% brasileira&nbsp;&nbsp;Agência BrasilUFMG desenvolve vacina inédita contra malária&nbsp;&nbsp;G1Vacina brasileira contra malária avança, e ministro defende ciência na UFMG&nbsp;&nbsp;Estado de Minas",
+      "summary": "Anvisa libera testes em humanos de vacina brasileira contra malária&nbsp;&nbsp;Folha de S.PauloMalária: Anvisa autoriza teste em humanos de vacina 100% brasileira&nbsp;&nbsp;Agência BrasilBrasil avança no desenvolvimento da primeira vacina do mundo contra malária vivax — Ministério da Saúde&nbsp;&nbsp;Governo FederalUFMG desenvolve vacina inédita contra malária&nbsp;&nbsp;G1Vacina brasileira contra malária avança, e ministro defende ciência na UFMG&nbsp;&nbsp;Estado de Minas",
       "sources": [
         {
           "name": "Folha de S.Paulo",
@@ -26,6 +50,18 @@
         {
           "name": "Metrópoles",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNkUtRUMzY1RBeGJVNjUxUk9ZbmdycWZVdHB5MmR5X0NpN3lXM1Z3UUJBY0ZrRlpZZFozdG9hbW1yc3VRTDNLRlh1TTFpUVRXN3F2Z2FPdHEzNkxubUJLWW5RNkZsTjdnaEtBRHFBVGpCS0lhel9lVkVJcGtWOE9pbVU1cVhNRzdoclpHbjdtT2ZWaU1mbTZ0aENzNmRVTm01?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "26d9ccf57b86",
+      "title": "Exercício físico pode prolongar sobrevida de pacientes com câncer - Folha de S.Paulo",
+      "published": "2026-10-10T17:55:00+00:00",
+      "summary": "Exercício físico pode prolongar sobrevida de pacientes com câncer&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZlFaSXBOZTNxSGRRMlpPelo3Z0E5UG1MME5TUjNheFMyYWQtaE9wUkxwS3JWS19Eak5UcTdWaWtSQXFXQmZNeDYzZTRnQW9ZekRjSTZuUks3eXpiT2tZbGFkeUx1N1BRWDh5WHNDSU1BeW41eVhHSmRSM3VXVm5PY2dZOWlpLVRfM3pMcGQ0MFYyT0pIZ0FFdWJyMTk0ZnZTU3Z2OVJCZmlqQ0xBS0lFQWJXNFB4bmtqRHNKSW1oTjBGaXpE?oc=5"
         }
       ]
     },
@@ -66,6 +102,18 @@
       ]
     },
     {
+      "id": "e13c7ff7885b",
+      "title": "Guillain-Barré: doença rara faz cearenses perderem movimentos após sinais no cotidiano - Diário do Nordeste",
+      "published": "2026-10-10T11:00:00+00:00",
+      "summary": "Guillain-Barré: doença rara faz cearenses perderem movimentos após sinais no cotidiano&nbsp;&nbsp;Diário do Nordeste",
+      "sources": [
+        {
+          "name": "Diário do Nordeste",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaE1mdWJPVWNqT2tFSldvdkg5X3gzaHdMcUNqaDVRVEliVHB3N0hZSDBab0FPWE5RUmVQMTFSeTdYVWlLWTRJV2dYTXNHTXlfbE9GVGd2bHJCa1B5VnNOVVUxa09FYU5nTUxfNkJ2ajlyOFdVYjVlRE00R2JKay11SDlzR1ViUkg5QWFTLW9ONVA5X3VWN2VNX0Z6TFhPVGNFQWY5dHdTTC0tMUF2ZHRQTVY1OVQ4YjVNY3JzMEdXc09SSnVIbzRBaEdoZGttbHZyejI3aDRlN1cySTFqWFE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "de75e7f62d7f",
       "title": "Paraíba registra mais de 16 mil casos de atendimentos antirrábicos em 2026, aponta Secretaria de Saúde - G1",
       "published": "2026-10-10T09:38:12+00:00",
@@ -81,23 +129,11 @@
       "id": "768ebcdb1a02",
       "title": "Intestino irritável: Dr. Kalil e especialistas detalham sinais de alerta - CNN Brasil",
       "published": "2026-10-10T09:00:23+00:00",
-      "summary": "Intestino irritável: Dr. Kalil e especialistas detalham sinais de alerta&nbsp;&nbsp;CNN BrasilDor é o maior sintoma do intestino irritável, dizem Kalil e especialistas&nbsp;&nbsp;CNN BrasilDor com \"vida própria\" pode ser um sinal de SII, diz médico a Kalil&nbsp;&nbsp;CNN Brasil",
+      "summary": "Intestino irritável: Dr. Kalil e especialistas detalham sinais de alerta&nbsp;&nbsp;CNN BrasilDor é o maior sintoma do intestino irritável, dizem Kalil e especialistas&nbsp;&nbsp;CNN BrasilPor que a dor do intestino irritável não aparece em exame&nbsp;&nbsp;TV Sim BrasilIntestino Irritável: médicos explicam ao Dr. Kalil o papel da saúde mental&nbsp;&nbsp;CNN BrasilDor com \"vida própria\" pode ser um sinal de SII, diz médico a Kalil&nbsp;&nbsp;CNN Brasil",
       "sources": [
         {
           "name": "CNN Brasil",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU3NYY0hwXzNfd0Z0dFZaeTJSR0hacE9JZGhGTGhLYnl1dmVkbDA4bHhBZ0tJY1NJc1U1V3B6d0lmeHlrZkF5UjhteUhvdjV0N3pwN3ljRjk0aDgwN1R6dFVhVTJPaGt2MWl2X28ya2dMVEFaMV9raEdkSk54Z2c3ZXZpQU1CZGNZLU1USGlhQkRJd3dmRUYwajJ3akNEOVp5MUJ5SW92Z04yQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b7ea08d64232",
-      "title": "Como evitar a colostomia no câncer de reto? Médico americano pioneiro em cirurgia transanal explica - Estadão",
-      "published": "2026-10-10T08:30:00+00:00",
-      "summary": "Como evitar a colostomia no câncer de reto? Médico americano pioneiro em cirurgia transanal explica&nbsp;&nbsp;Estadão",
-      "sources": [
-        {
-          "name": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcGloN1JOZkw4RXp2enNoc3l3S0k2VVBBUHU1SG8xQ1VYLUhkR2ZiLUEwbUF2RFA1SHZDWm4tZUxINUhhWklqcTd2UV9jLVJPbmdOVDF3QnNFV1hBLW5BUWVpeFREUmNZWVl2RHVyWm5xcndFd0FHTnBDWldFM0RyZW9NQzdSczBtS0liQ3AxeXdBd18xa0FWanhqSmhUeXhoaFFIMWc4aGxOaG5OazhYS1BYZ1cxQ09XVmFjTkN2ck9wVFk2VnFBTUhBcVl3VjhRVDd6a1hjUnByRHBIZzQ4VmxQejnSAeoBQVVfeXFMTkJYb01ZSXc0TE10QUd0MTdROEk0cEYyUVpucGlpMU42UW5tb0I0VFlhNUxyZHB3cTZRSm1wMkRLMVFDMEZiRW9kUmNfXzFQVlRNUENmTWptTmhKMlJUcGh1OW1Mam5mRFJtSUhFcUtzSVQ5QUZ1RDlFYXNCaThNWXZvR0lvTkRFMkhWaG5GVkpsd242dmxJNWVKNF9Vdy1YUDBWUUJtdDBYd1pxa1IzTWoxdFF1bkZ4eGhtMUN2R1FxSG93bVNXSlR6VXhpXzEtVk5ZVUxhM09zM195NWNXU2JMVHR5RDZ5M2R3?oc=5"
         }
       ]
     },
@@ -153,23 +189,11 @@
       "id": "66e21478e09b",
       "title": "Sem sintomas, gordura no fígado com inflamação aumenta risco de problemas cardiovasculares e pode evoluir para cirrose - Portal Drauzio Varella",
       "published": "2026-10-09T19:06:38+00:00",
-      "summary": "Sem sintomas, gordura no fígado com inflamação aumenta risco de problemas cardiovasculares e pode evoluir para cirrose&nbsp;&nbsp;Portal Drauzio VarellaEsteatose hepática: nova diretriz não olha só para gordura no fígado para definir riscos do quadro&nbsp;&nbsp;EstadãoGordura no fígado: o alerta silencioso que pode levar ao transplante&nbsp;&nbsp;Estado de MinasDiretriz atualiza o tratamento da MASH com novas terapias&nbsp;&nbsp;Afya | HomeGordura no fígado atinge 30% da população mundial; saiba",
+      "summary": "Sem sintomas, gordura no fígado com inflamação aumenta risco de problemas cardiovasculares e pode evoluir para cirrose&nbsp;&nbsp;Portal Drauzio VarellaEsteatose hepática: nova diretriz não olha só para gordura no fígado para definir riscos do quadro&nbsp;&nbsp;EstadãoDiretriz atualiza o tratamento da MASH com novas terapias&nbsp;&nbsp;Afya | HomeGordura no fígado atinge 30% da população mundial; saiba como evitar&nbsp;&nbsp;Costa NorteGordura no fígado: o alerta silencioso que pode levar ao tra",
       "sources": [
         {
           "name": "Portal Drauzio Varella",
           "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNQkRvWk1RaVFGc3RVcW1uR2NhYzFOQVRSNDVjdnlnOFVHRUtlLUY4SkpJUWU1a0FBRFdVeVR3RGh6R1JYbHl3UmlCbVZpTUpoMHAxd2h6cGR5a3FqeVJiYVAtV3daUzduLWhQZFdncG95elhaNnVxQkZqRHZ5VWxTZW85cklJQ2hXaWQ3Z0VCQlJEdmlhcTJPaEhyOGtDVDZvUlR0anAxbmNPRjR3bVJYci1BMUhJNXJ6UUp2dlNpbTdVRlpGSGhJU1RBeExNdmJlekJvUTN6VVBMWDNKQlZ2bUV6djhhLV9QMTV6NzJEam1iSFZNR3hV?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9969b8207a1a",
-      "title": "Marte está mais perto? Novas descobertas colocam futuro das viagens ao planeta em perspectiva - Mercado e Eventos",
-      "published": "2026-10-09T18:52:04+00:00",
-      "summary": "Marte está mais perto? Novas descobertas colocam futuro das viagens ao planeta em perspectiva&nbsp;&nbsp;Mercado e Eventos",
-      "sources": [
-        {
-          "name": "Mercado e Eventos",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYklQNDRZTUVXQzlaZnhZbFFvOUN6akxQN0p5bUxqVFplSUVSVnF3M21IVEZWTnhTejh1Mnd5bGNFNFlJWF9GZTk5ZnQ4V2NvSHJPN3dqRldFdlhmSEZhSkdTMWtENjZ3R3p6d19MUFZSSlZFUU40ZzRrZUlGbjdEMTlLbHZma0llOEVLTmZrTThqbTY2RGJESUtfZkRsdUxSdVVTM1pGWnpKV1VuT1VKa0VZU3lvcEI1d3NRR290NFh2NXpuSWUxX1FSekNuZERqR2lXY3kzSmU5Tm1VYnVuOUlZcVQ?oc=5"
         }
       ]
     },
@@ -198,18 +222,6 @@
       ]
     },
     {
-      "id": "2004442275a8",
-      "title": "Cirurgia inédita no HC de Curitiba devolve qualidade de vida a pacientes com Parkinson pelo SUS - Tribuna do Paraná",
-      "published": "2026-10-09T16:57:00+00:00",
-      "summary": "Cirurgia inédita no HC de Curitiba devolve qualidade de vida a pacientes com Parkinson pelo SUS&nbsp;&nbsp;Tribuna do ParanáTecnologia não invasiva alivia sintomas de tremor essencial e de Parkinson&nbsp;&nbsp;Folha de S.PauloCirurgia de estimulação cerebral profunda auxilia no tratamento de Parkinson&nbsp;&nbsp;Folha de LondrinaPulseira criada por alunos do MIT reduz tremores e é liberada pela FDA para uso médico&nbsp;&nbsp;Época NegóciosUltrassom focalizado para tremor refratário e planos de s",
-      "sources": [
-        {
-          "name": "Tribuna do Paraná",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUzZUbFg4R1NueE9NazFJMExVV1d2WDVzVFlMVUhvRExTa0kzcXFvOHF4cVhsVVBtNW16c21KZGMyekktamYybDlyTC1IVGRhTzNwWVpzaExsTm1Xem5uTFdLcXJnN1l1Y2ljNDRNaEdQbUh6Q2U0cldKY0wtRjI3Y25jaDJYMnQxVXVGam9wQmlzTkxpMGZpVlkyWnhNVlpyN0VkV3ZyVkd6eDFjM0wtbXNDTG9DQXg1V3I0ZGlpMzlOOVpRVnlDLWVsWUM1eTVVSjU5VnpDS03SAd4BQVVfeXFMUFkyVUZ4MkxLRWtHMjhNejRfcG1OX1E0WXBvQThSUFVuM3R0NThSZFY4dnhVNzBrWUw2emQwZ1BtcHBQQjZYMGdLWVQyQTh4OTBTZTlfT0lvdVg2VnZ1V2pLbGswWlZyTDFVMTVONDNGbkpxeFVtVmdwanljVkxpTkNyRjlJb05QTWl2TFF1UzRkNVFUQU1kdTNsemQ0YUJhOFNIUldINWRYVHhOVE03RWxGSFZVZFFjZ1JUTTRjZUZuRDZVSmpGbTNPVWhaNUVsaExlUDRWbU13NGVzbzBB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9c90cf7bcb47",
       "title": "Estudo encontra 19 substâncias químicas nos dentes de crianças com autismo - Metrópoles",
       "published": "2026-10-09T15:49:00+00:00",
@@ -230,18 +242,6 @@
         {
           "name": "Simepar",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YY1hQUXBLOE9XSF82ZXpCcU9VaGRwTzUwS1ZmY2RYLWg1WjJGcUlIS1RFUEVab1JEQ09EWWxhczJYaTJJNnNHXzluMGpWcDhzUGc0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "306fec85817e",
-      "title": "Laboratório de Anatomia Humana realiza cerimônia inédita em homenagem a cadáver desconhecido ou corpo doador - UEPB",
-      "published": "2026-10-09T14:52:24+00:00",
-      "summary": "Laboratório de Anatomia Humana realiza cerimônia inédita em homenagem a cadáver desconhecido ou corpo doador&nbsp;&nbsp;UEPB",
-      "sources": [
-        {
-          "name": "UEPB",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObkR6N3RsYVZfbWVERzVPMmxSM2I2SDY4dEZQUld6ZG5rQW5SRUtfblRkMmFWZGctR3Ztb1dQY1lNZ1JHNFJhVlB6eVVRNHJKNndLMTVCWTFrci1aMHJ6V0N1UFYzU09BOXBoeDRLb09URk5CWW1oRHBHTWs2WmMzam9TdkktSjNmR2VDemdreXAtU050MUJwaWQ0ZkhCX012QkhLUUxuZE5idUpxaWYwbGFCUENOdGxaT0VfcWd0eEVNR0RHS0lYTg?oc=5"
         }
       ]
     },
@@ -270,110 +270,14 @@
       ]
     },
     {
-      "id": "cd8843b1e5df",
-      "title": "Além da rentabilidade: a lógica sustentável na gestão patrimonial - CNN Brasil",
-      "published": "2026-10-09T13:28:44+00:00",
-      "summary": "Além da rentabilidade: a lógica sustentável na gestão patrimonial&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOHQyaHJOcXZ6WklITWFrTWtLTUoxOW5mODdmbWJvNDZvUUpEQXFKRlNaVzdqb0RuenNPY3NISTJWZzNwZFJnN0xNMW52d3Z5VTRBWVNOdG1oNi1zaDkzSTJ5WUo4VHZvZXNSaVVucXUyRWtuTUE5YTNOS3dZMVdPWkdpMVdvb1VobmhjUmpfMWVJVF82eXpwRWZtaHdEb3AwU1Nua09UQVRpUXg3WTRkQi1TOS1GSklPUzZOQ1BsVDM4U2c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c8800ae86470",
-      "title": "Inusitado: paciente toca violão durante cirurgia de tumor cerebral em Marília - Giro Marília Notícias",
-      "published": "2026-10-09T12:56:42+00:00",
-      "summary": "Inusitado: paciente toca violão durante cirurgia de tumor cerebral em Marília&nbsp;&nbsp;Giro Marília Notícias",
-      "sources": [
-        {
-          "name": "Giro Marília Notícias",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNelNVS29VbFkzc2Z4bjhLclBQU1FvQmtVWTkzVTdpTm01Y1RjSDVNZERaQnNVd0FZc2podzlPZG50Z1dtb1ZBeUhqVHQyOEt1RW94RkhyX1gzN0szMHE5THJWbUFWTlZXbThQcWtldFBHazFWckhsN0g0aFVIVjhpbVpRNjRPZHlTY054ME9ZeXNaeEtIVFVaVmJvWmpURW14S1YyaEkyOV84Zngyb3gzWFdSSHVqbVJZZ0ZuaVdja3ZVdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "02af54087a01",
       "title": "'Mais livre e leve': mulheres contam por que estão felizes na menopausa - UOL",
-      "published": "2026-10-09T12:30:00+00:00",
-      "summary": "'Mais livre e leve': mulheres contam por que estão felizes na menopausa&nbsp;&nbsp;UOLGinecologista fala sobre menopausa&nbsp;&nbsp;G1Menopausa além dos hormônios: ginecologista defende cuidado integral para garantir envelhecimento saudável&nbsp;&nbsp;deolhonacidade.netClimatério pode começar anos antes da menopausa e acompanhamento está disponível no SUS&nbsp;&nbsp;Âncora 1Alimentação e menopausa: a importância da dieta personalizada para a saúde feminina&nbsp;&nbsp;Tarobá",
+      "published": "2026-10-09T08:30:00+00:00",
+      "summary": "'Mais livre e leve': mulheres contam por que estão felizes na menopausa&nbsp;&nbsp;UOLDra. Márcia Suely será palestrante do Congresso Harmonia 2026, no Rio de Janeiro&nbsp;&nbsp;deolhonacidade.netGinecologista fala sobre menopausa&nbsp;&nbsp;G1Calorões da menopausa estão ligados a maior risco cardiovascular&nbsp;&nbsp;CLAUDIA - o sentido femininoClimatério pode começar anos antes da menopausa e acompanhamento está disponível no SUS&nbsp;&nbsp;Âncora 1",
       "sources": [
         {
           "name": "UOL",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSm5jRVh0cHNYN1N0QTU3TzVqejNRYXdMZEI3dV9IX1ZaX3FOeVdSVC03dE5rN0h4UTlPMVNnNWUxRmdEY1pIU0cwdE1zM0NTVnRjWmhRbl9IYzF1MmlhVDFoaEx4Y05iZGNMYkpaNkxBT1phY1c4aGVkdDZneVBwTm5ZTkFnbUROVW5JdFY0YlpwQWlKNnNQckgtVzJSNEdKOHBHRW9lSzFwSHhvWkM4NnFnNnh1MmhCSVNmckJUaXJJNzhWZm9teEtKOW4yZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "613ad6407e10",
-      "title": "O milagre da multiplicação de referências bibliográficas (fantasmas) - FAPESP",
-      "published": "2026-10-09T11:57:00+00:00",
-      "summary": "O milagre da multiplicação de referências bibliográficas (fantasmas)&nbsp;&nbsp;FAPESP",
-      "sources": [
-        {
-          "name": "FAPESP",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb0NpbU14ekdXekFCNGdrVEljZC12cmwwTUJKaUVqLXY0Nm1CS1M4NHA2SXlpSWxpTU9fU2VjaEFldFp4ckdMUzhKeWMtNGVKTy1FeWNTcFk4RWIyVVNUbnFvQ3k5WFU4R2lGRVAteGl4WFFERzBiX2hYRUFwUWRCY2pGT3hheko1N3hXOWRKNi1zS0YzSW5HaEFfckhPc2MzdS1n?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6ae21d80067c",
-      "title": "Nobel de Medicina: A reação da família ao saber que professor ganhou o prêmio - BBC",
-      "published": "2026-10-09T07:39:09+00:00",
-      "summary": "Nobel de Medicina: A reação da família ao saber que professor ganhou o prêmio&nbsp;&nbsp;BBC",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zbkhkb1NDVlEwNi15a3FzTjdCRUdRUGliWXprQzRzSjM0RlNkb2M0b3JiR0NGVEpieFAwN2U1UHlYTDVhUmJyV2FZTWYxSHhnTnZHeFF6U2ZXTGh1Q0dZYUlLb9IBaEFVX3lxTE9iS00yYktHVlZuaDFILVF0RmhmcmlXS1I1bFZaWVhELU9wbUNmaW5MM09xcHBpS0R6SmNCV3ZQUzItdzlBU1JGWVNRM29mLVVnSWstc2t1aVQ1dWpjQW9RT2p1RXhWMF9r?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4121bc2993df",
-      "title": "Anúncio da Anthropic sobre uma descoberta \"liderada por Claude\" está gerando controvérsia - CNN Brasil",
-      "published": "2026-10-09T06:37:49+00:00",
-      "summary": "Anúncio da Anthropic sobre uma descoberta \"liderada por Claude\" está gerando controvérsia&nbsp;&nbsp;CNN Brasil",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTzlwVmZCXzZNNWlwZ3dHWmJyX01Zc0h2dTI5Nk9mN3RnemVCTjVxRkk5Q3pUYWFBNlRaWlhyeWo4a3puSmVxWUUxZXJkajhmS2QtX2pGMTNZaUNWenhjZ1pFZ3EwdGdwS1ZKbDBETWs2cFE1MF83QTZIbkYzY1ltRllUYi00aS04TU94czJUMElMNHIxU0pKNWVONjNCVEI4QlNRZWNFWURLTG9nNFZJeE8teDBZSEdmbEM5TW5ZbEM5bTg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "48f385f829d8",
-      "title": "O que diz o maior estudo já realizado sobre a influência da genética na personalidade - VEJA",
-      "published": "2026-10-09T03:50:49+00:00",
-      "summary": "O que diz o maior estudo já realizado sobre a influência da genética na personalidade&nbsp;&nbsp;VEJA",
-      "sources": [
-        {
-          "name": "VEJA",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMFlnNTZwaVV0dGxwMGlGaTBZWW55djFTaUk0RHVxU2RGa0N3bnFPMnJMTm5kT0Q3QjFkWkJmWEJaNlZRQ2lKVkpFMnhlOHlRWEtzeGhxQWVmakJhd0o3c3haVDlIRkNyS3lGRXI2ZG12My1yWmtwT2NyeEJqYThlakhFN0RZMjk0Nld3dkM3OXptclBNU2ZaVmg1RkIzVmIzYlBpQWRNSzFCcDVrbVpUVElGZ3pKNEJaSVFDeQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e7be3f2ffe33",
-      "title": "Homem que encontrou cratera de 390 milhões de anos pelo Google Maps tem descoberta confirmada - Globo",
-      "published": "2026-10-08T15:08:07+00:00",
-      "summary": "Homem que encontrou cratera de 390 milhões de anos pelo Google Maps tem descoberta confirmada&nbsp;&nbsp;Globo",
-      "sources": [
-        {
-          "name": "Globo",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbTNSQVdUSjNyd1l1NlMtUlJyN3VTaGt3SjU3Yl8xWF9QcjZWcVF2bWd4UzZjcGpIbDlNM1VtNF9zR0hsZGgtSXlfaGhZcFdCZTA5MnN5MDNhNVJaall4VnE0STZaM1lhaG9DaXpnNU13d2RIYXAxUUY4Y0pqVjUyQVRkQVFvQ2xzb2dzaUlhWkVSaGRyVDd3V19NOFdEYlRqTktTeG90ZjdLUDBUSllPUVJfbzdyMDJVakNaLUgyam0yYXYtSkVteGlOSkFwdWM5ZGFvc2VUREVSYkpMNmc2eDZMQVNrN09XdUtzatIB-wFBVV95cUxOZUhlS2dUdC1mY0ZfOVdBTWlzV056bTVCYjBqcDh0cTZhNmhpbTlyUE4yVTNvU1F4Nm1oOVR2TzBEaTZzb3F4bVJaV1p2UE1pbXV6NVQ1Tnp0cldlT0U1NnVBUldtM3lGUWhZTHpRbEpkNFVWZDFvaUpLX2h3RS1jZWZjZ2FTZEstV2o0ejBDUktnQ0UwQnNFaGpjTllWYVVlM1RWVXdEZHg4Zm94OXlVTks3OXRKRUtQeXBvZUtERWFQaGJudTQ0WUw5R0RmOVk5cHF4UVVzQTM1RnZsbWVIVlRJQXRaUVhiZl9uTmh4d1RIalk5RzlnU2tFUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f26ae7230018",
-      "title": "Casos de doença inflamatória intestinal aumentam quase 60% em cinco anos no Brasil - Portal Drauzio Varella",
-      "published": "2026-10-06T19:03:08+00:00",
-      "summary": "Casos de doença inflamatória intestinal aumentam quase 60% em cinco anos no Brasil&nbsp;&nbsp;Portal Drauzio VarellaVeja mais manchetes e perspectivas no Google Notícias",
-      "sources": [
-        {
-          "name": "Portal Drauzio Varella",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbk5qanAzX0tzc2NnRzRXQXZrekpDZEFUeVF3MHhGd2dqRFhfYjN3c1FNdEVBb2RUd1ZHOUk5SjBySXZRTUY0Z2l4TUNiUFFfXzAtRXJMRDRIWEExUHZuREhaR0hrTVRHal9MQWpKOTVRcThpRHBzSVZUdEhIRm0tbUFNZnhrTWxuZ2hCTVpYaGpvR2xSWHBGZEUwbXozakRWamxzMFltM2JneWhNT1hFcU9ZN2ZTQng1UlFFbG1iLXZpWjJ5MHRCR1hyTnZaRUE?oc=5"
         }
       ]
     },
@@ -405,23 +309,11 @@
       "id": "e5750c6980f5",
       "title": "Nova York declara estado de emergência por surto de sarampo - Correio Braziliense",
       "published": "2026-10-06T03:56:00+00:00",
-      "summary": "Nova York declara estado de emergência por surto de sarampo&nbsp;&nbsp;Correio BrazilienseSaiba o que explica o surto de sarampo em SP e quais são os riscos para o RS&nbsp;&nbsp;Correio do PovoComo ocorre a transmissão do sarampo e como prevenir o contágio&nbsp;&nbsp;G1Na conta do negacionismo&nbsp;&nbsp;Correio BrazilienseMinistério da Saúde alerta para risco de retorno do sarampo ao Brasil&nbsp;&nbsp;Agência Brasil",
+      "summary": "Nova York declara estado de emergência por surto de sarampo&nbsp;&nbsp;Correio BrazilienseSaiba o que explica o surto de sarampo em SP e quais são os riscos para o RS&nbsp;&nbsp;Correio do PovoComo ocorre a transmissão do sarampo e como prevenir o contágio&nbsp;&nbsp;G1FMS reforça vacinação contra o sarampo após registro de casos no Brasil em 2026&nbsp;&nbsp;CidadeVerde.comSarampo: Brasil intensifica ações face a avanço nos EUA e nas Américas&nbsp;&nbsp;Agência Brasil",
       "sources": [
         {
           "name": "Correio Braziliense",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORjJhWk5qUmZuN0pQUVdpNm9vRkNaRmh6SzEyUV9oWUllUldXX0hNMjJlOGdPNElQTWEybHUwb3EwaW5HRkUzbkwxc3dxeGFDUXByRUxnWnF6azV2UmYwYUQ3bkFPNTljUVdUcjlqTGRWX1RXbE9ueVZrd2x0d1cxXzgwTzVHVU5hVmlwZlYtYXY1T1p0UjBjTWJXM1VJQjZmbkU1ZkFVejN2cmxXOEd5ZGVEVlFyYkFnMXdaZ3QtdXlDd9IBxwFBVV95cUxQSy01TVJwR3FTcFVfcFZpN3doMFI0QzNhdl9SYnlUSktrYmJleUFRemNXZ0hnNWNBMWZhQ1k2X3ZFQk80bnFGYU1SWEhWUE10ZWYxMk96emFkM1AwYlg4OEJuSEV3ak9pNllNQ2c4WHludzhrX09KbWtZZlFUOEttblpTSDh1dVY2T3UwenB6WTNUSzZSLVA4TkZmMmFhRTZIMmctMm9aV0JqSlAtUGVRZzdJeDhXLWdyQWRlTWxqcDNaSms1c3lz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c8ee485ea3e1",
-      "title": "Médico de SP morre após sair de motel e correr por rua de Salvador - Folha de S.Paulo",
-      "published": "2026-10-06T00:40:00+00:00",
-      "summary": "Médico de SP morre após sair de motel e correr por rua de Salvador&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNc1R2MThROE5yS21RV0Y5cXRsSzRWaW1xRlhXOEF6WDc0b2JkVkZmQ2tTUWl5SU5paE9VeU5lZVlZZmdfb01aMTBiWTV0RUNFNGExRGJxeWdrS1dOcWFEdnBDSWNMaGIxODNERHZIa3I2RGx2RjR1MHRVdFRVT1pYMThlMFJxb19iRTZvZHI2RVZ1aFVWQW5rdVVOOEc5LS16Yy11cHFLdUlFOURRMVVkNVFjT1BFTWtTSFYyOA?oc=5"
         }
       ]
     }
