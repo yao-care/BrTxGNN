@@ -1,19 +1,55 @@
 {
   "source": "brazil_news",
-  "fetched_at": "2026-10-13T00:16:36.452194+00:00",
-  "total_fetched": 90,
-  "unique_count": 90,
-  "health_related_count": 26,
+  "fetched_at": "2026-10-13T13:45:57.646970+00:00",
+  "total_fetched": 88,
+  "unique_count": 88,
+  "health_related_count": 29,
   "news": [
     {
-      "id": "7f1f2e559844",
-      "title": "Navio antes usado para explorar petróleo agora faz pesquisa científica e já descobriu mais de cem espécies no oceano profundo - CNN Brasil",
-      "published": "2026-10-12T17:04:08+00:00",
-      "summary": "Navio antes usado para explorar petróleo agora faz pesquisa científica e já descobriu mais de cem espécies no oceano profundo&nbsp;&nbsp;CNN Brasil",
+      "id": "be968c50caf6",
+      "title": "Opinião - Denise Mota: Equidade é fator essencial para sobreviver à próxima pandemia, indicam pesquisadores - Folha de S.Paulo",
+      "published": "2026-10-13T11:00:00+00:00",
+      "summary": "Opinião - Denise Mota: Equidade é fator essencial para sobreviver à próxima pandemia, indicam pesquisadores&nbsp;&nbsp;Folha de S.Paulo",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOLXVpNGktQ0xIZk5JdFVUWGhUODN5M0ZvdElPc0stREREd25YcDhCLUhpdDZaYTBqd2stYTlsMXhNZ19wZkFVUklna0ViaVNFVTRWVzY1cGJrVmJMdU5HMndCSFVfV0VLbVJwRVJKTlh2S1NwaTRRUk05QWRHTlZnaGh6cmthZm5xd0hyelc1V2xkTTVudXExT2JqVTBxaGZ6d094bmJ0dW9lSUFJYi16TXExU3ptcVFGdUJfeDNkLTd1cmgwcktWNkhJbngzMzhWdHZMaUN2anpaaFBjTzR4eHR2aUxwTlRJLUtlX3BLMzhNQU9aLXc?oc=5"
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOX3d6OElZTHlOTlJjdDFFeW94dWIzMjNTdGJpZW5qVmZSaGlVenRwaEJyakFqT3haS084ZTMzN0hIOFNzUjVDa2dNQmgxbmZsRmxyV3B4VjJLNkZKMEVfTWdOOVVQT203NGo4Rk9WQmZ3TnRPUDlaQUxaMEM5VG5wUDNodmlxZ0JQZjNfcVMyNnd4WGxTa0x3REVabEN6aDVNTXBGTjhSTjRLTlY1WERpNjh3LXFTRExibExiX09YWTN6c3o2VzNYaFhTZTNLUW5zY1NDOGlRUzJOakZOYXBqVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ff5539fd7a5b",
+      "title": "Vírus roubou gene humano cerca de 100 mil anos atrás, mostra estudo - Folha de S.Paulo",
+      "published": "2026-10-13T09:00:00+00:00",
+      "summary": "Vírus roubou gene humano cerca de 100 mil anos atrás, mostra estudo&nbsp;&nbsp;Folha de S.Paulo",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYVpmbEZZRWpGdGQ4VW54NzNOLUpibVlZZFpuQzh6MHFkeHE0Xy16N2RGeFhkQ3VDcDNwZzJ3YnA1UUJlTXZ6UnYzZVdzaXk2alBYbUpibkRIcHR5VnB0cks3Y1o2TDI3Sm1CVkNMZTY5ZnlpakRXeUhGelZWNE8ydjdSYlhPWV9IdXA2THFEWmFjVnVpd0pEUTlxZlh1Si04cUZWWFY1SDV3SVN4cExlLXpNMVVhNTFHWkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d34646fbe2ab",
+      "title": "Morte do Sol pode desestabilizar Sistema Solar muito antes do previsto, diz estudo - R7",
+      "published": "2026-10-13T05:00:00+00:00",
+      "summary": "Morte do Sol pode desestabilizar Sistema Solar muito antes do previsto, diz estudo&nbsp;&nbsp;R7",
+      "sources": [
+        {
+          "name": "R7",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZnNVblE4OVFfc1V1cGNzTjcxVE1lalZOazNXZjJQRzlTWGtPdDRCeGQ0eHJLTnBrd24xQUdRU0g0YUhXWkxCeVM2NUgyZ3o1T2ttRGVtdGlNTy1FX20yLTV6UW9oZ2lTcy01OTE0VG1YWDhYZDJFN2dUVEx2TkxqVnFIWmpTaHdYVF80ZllheDBqaXBPY0R3bUtiYTY1d0htT2p6YVVjWk9XWXl2Ymk4VDBNTW81RHdzZDJ1cUZUdFJaQUdIY2hXNQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bb7efa2a9f4b",
+      "title": "A banana é levemente radioativa por causa do potássio que contém, e cientistas explicam por que isso não representa nenhum risco para quem come - Super Rádio Tupi",
+      "published": "2026-10-13T01:20:28+00:00",
+      "summary": "A banana é levemente radioativa por causa do potássio que contém, e cientistas explicam por que isso não representa nenhum risco para quem come&nbsp;&nbsp;Super Rádio Tupi",
+      "sources": [
+        {
+          "name": "Super Rádio Tupi",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQM0pkZEQ2eDJtM09lTFN5SlR0UW80STdFRUFpd1ZoV2s2Sk9nV3gzNENyQ3BGdnl0aDZXMkNGNnI5ZWtHWk5KTm1yQ2VISEwybGhkb1hoNFh2Sno0aWdpenVRdjRJcjJXT2p1RzFyNFBrMUhLOUkzdGRXc2o5NlpxUkhwNk1LcVFEMDZoT1NRRzhhSlRNTjI0ZHJTYUk0WU42QjNuUmxCR2FiRGlpZ2tobnR6NHFINHlXZU5oZVVsUkxQeS1LZE52SmVTWWpkbVNrRUI5eWw0LUhrSU1RMjNnUVJSSGUwcE1xZGFJYXBuanAxSER5ZFRkWW5US0ZBQQ?oc=5"
         }
       ]
     },
@@ -21,7 +57,7 @@
       "id": "4f15aa3654f7",
       "title": "Mulheres sentem dores mais fortes e frequentes que os homens, aponta estudo - CNN Brasil",
       "published": "2026-10-12T17:02:24+00:00",
-      "summary": "Mulheres sentem dores mais fortes e frequentes que os homens, aponta estudo&nbsp;&nbsp;CNN BrasilEm quais idades o corpo sente mais dor? A ciência pode ter encontrado a resposta&nbsp;&nbsp;O GLOBOMulheres sentem mais dor do que homens? Estudo descobriu&nbsp;&nbsp;SuperDor acumula-se mais cedo do que se pensava e afeta mais os idosos dos países menos desenvolvidos&nbsp;&nbsp;Notícias U.PortoMulheres sentem dor com maior frequência do que homens, aponta estudo - 09/10/2026 - Equilíbrio e Saúde&nbs",
+      "summary": "Mulheres sentem dores mais fortes e frequentes que os homens, aponta estudo&nbsp;&nbsp;CNN BrasilEm quais idades o corpo sente mais dor? A ciência pode ter encontrado a resposta&nbsp;&nbsp;O GLOBODor acumula-se mais cedo do que se pensava e afeta mais os idosos dos países menos desenvolvidos&nbsp;&nbsp;Notícias U.PortoMulheres sentem mais dor do que homens? Estudo descobriu&nbsp;&nbsp;SuperIdosos de países com baixo IDH têm maior prevalência de dor, aponta estudo global&nbsp;&nbsp;Medscape",
       "sources": [
         {
           "name": "CNN Brasil",
@@ -42,14 +78,50 @@
       ]
     },
     {
+      "id": "7f1f2e559844",
+      "title": "Navio antes usado para explorar petróleo agora faz pesquisa científica e já descobriu mais de cem espécies no oceano profundo - CNN Brasil",
+      "published": "2026-10-12T14:04:08+00:00",
+      "summary": "Navio antes usado para explorar petróleo agora faz pesquisa científica e já descobriu mais de cem espécies no oceano profundo&nbsp;&nbsp;CNN Brasil",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOLXVpNGktQ0xIZk5JdFVUWGhUODN5M0ZvdElPc0stREREd25YcDhCLUhpdDZaYTBqd2stYTlsMXhNZ19wZkFVUklna0ViaVNFVTRWVzY1cGJrVmJMdU5HMndCSFVfV0VLbVJwRVJKTlh2S1NwaTRRUk05QWRHTlZnaGh6cmthZm5xd0hyelc1V2xkTTVudXExT2JqVTBxaGZ6d094bmJ0dW9lSUFJYi16TXExU3ptcVFGdUJfeDNkLTd1cmgwcktWNkhJbngzMzhWdHZMaUN2anpaaFBjTzR4eHR2aUxwTlRJLUtlX3BLMzhNQU9aLXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0268a6c8e053",
+      "title": "Estudantes de Química da FEMA conhecem laboratórios e tendências da indústria química - Assiscity",
+      "published": "2026-10-12T14:01:12+00:00",
+      "summary": "Estudantes de Química da FEMA conhecem laboratórios e tendências da indústria química&nbsp;&nbsp;Assiscity",
+      "sources": [
+        {
+          "name": "Assiscity",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLUVtd1oxSWVCc1VhN05hSWtxYVl6c0YtLVNQQUw0YmtmUUdqSmkzek54VGdUdkwwZW96d2tkWXZScnBoSUwwSm9TR2ZFNVVQUzFvNTFVLVZ6WEZlaEJiRG94cTlFM3E3cTdMVXJLdXowMW9sQXVULWtycUEzbnBCaWw3aWpVVnJEWGJ1WFdHTlYyaUVNYkYyVzVQQWR6bURibHNXV0QyRm1qdDNwSlhEb2h3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "3638aaa8efd2",
       "title": "Exame de sangue que pode detectar 50 tipos de câncer chega ao Brasil; veja como funciona - Gazeta do Povo",
       "published": "2026-10-12T12:00:00+00:00",
-      "summary": "Exame de sangue que pode detectar 50 tipos de câncer chega ao Brasil; veja como funciona&nbsp;&nbsp;Gazeta do PovoGota de sangue pode ajudar a detectar câncer antes de sintomas&nbsp;&nbsp;Poder360Exame de sangue que detecta mais de 50 tipos de câncer chega ao Brasil&nbsp;&nbsp;CNN BrasilGalleri®: expandindo as possibilidades da detecção precoce de câncer&nbsp;&nbsp;Fleury Medicina e SaúdeFleury, Einstein e um novo aliado na detecção precoce do câncer&nbsp;&nbsp;Money Report",
+      "summary": "Exame de sangue que pode detectar 50 tipos de câncer chega ao Brasil; veja como funciona&nbsp;&nbsp;Gazeta do PovoGalleri no Brasil: saiba como funciona o exame que detecta 50 tipos de câncer&nbsp;&nbsp;Gazeta do PovoGota de sangue pode ajudar a detectar câncer antes de sintomas&nbsp;&nbsp;Poder360Einstein é o primeiro hospital brasileiro a adotar biópsia líquida para detecção precoce multicâncer&nbsp;&nbsp;Medicina S/AExame inovador detecta tumores; rastreamento e exames em Manaus&nbsp;&nbsp;Po",
       "sources": [
         {
           "name": "Gazeta do Povo",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU2FSMHViZ3Q4Qjhrc0FaQy1QOU00bVB5ZXdsVEhoaWlINmFMc0o3YWx3VHM0Z0RFSXNybFhPSzB3SlcwOFh3SlZ0ZHRSMGFFUFctcDZ1UjZOUWlLcnMwb0ZYWFVXSkNBdElCS1dwdjVsU3ljV0ZDUEk1cTJSZzN0NnM0SDUyWVhjMXVTZ2Y5aUVFdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "beb9c6749592",
+      "title": "O que é paralisia de Bell, doença diagnosticada no humorista Renato Albani - InfoMoney",
+      "published": "2026-10-12T11:35:26+00:00",
+      "summary": "O que é paralisia de Bell, doença diagnosticada no humorista Renato Albani&nbsp;&nbsp;InfoMoneyO que é paralisia de Bell, doença diagnosticada em humorista que também já acometeu Fernanda Gentil&nbsp;&nbsp;O GLOBORenato Albani é diagnosticado com paralisia de Bell; neurologista explica&nbsp;&nbsp;CNN BrasilO que é paralisia de Bell, doença do humorista Renato Albani&nbsp;&nbsp;Diário do NordesteParalisia de Bell tem cura? Entenda o tratamento e o tempo de recuperação&nbsp;&nbsp;Tua Saúde",
+      "sources": [
+        {
+          "name": "InfoMoney",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ0ZSTjdmWnJZdXB4ZlhPWU9EZWg1aTBtV0dmZ29IQ2FpcU91T2hQRVd4dFk3eGJpN0xlOVhUNXlMWUZlbm1icmlQY0lxVlZINHg0UkxoM2NWOVJqSGxKbmw2RU1sVGd3UGN2czFfYUZHWUxrLXVWRVlXa1JwMnY2OFRLN1VPbHV3VzJ5SlhCUW5jVmVLQzhDckZaci04OXVXc1p3RVJvcmtyaTkyeVHSAbMBQVVfeXFMTk5mNnpidjFnLVRaMXVqQXcwbFRJVXNiU0k5YlBNZXVUNWJxSWRfSXVXLVZwQkwtUnBaN0RFM1J6VENqMlZoQkVRc0thdG44MnBYZTBGOHhnZFVJSjQ3OW1GV1JBb0F6MUI4SkM1NUdmaHNHVDlNckh2WHRjOEM3RDhiMDRmVTFxb2VyX21xemlPS0RjbmNMUHNUbzhqbDZUSm5GS3VXQ0I4ZHNxOHJaME5EZFk?oc=5"
         }
       ]
     },
@@ -69,7 +141,7 @@
       "id": "88eb30b176c9",
       "title": "Vida sem álcool: o que acontece no corpo após 1 mês, 3 meses e 1 ano sem beber? - O TEMPO",
       "published": "2026-10-12T09:00:03+00:00",
-      "summary": "Vida sem álcool: o que acontece no corpo após 1 mês, 3 meses e 1 ano sem beber?&nbsp;&nbsp;O TEMPOO que acontece ao corpo quando deixa de beber álcool durante um mês&nbsp;&nbsp;Notícias ao MinutoO que acontece com seu corpo após 30 dias sem beber álcool?&nbsp;&nbsp;Notícias ao Minuto BrasilO que acontece com a pele quando você fica 30 dias sem consumir álcool&nbsp;&nbsp;MetrópolesApós Leonardo interromper a bebida por um mês, médico explica efeitos do álcool nos triglicérides&nbsp;&nbsp;Alô Alô ",
+      "summary": "Vida sem álcool: o que acontece no corpo após 1 mês, 3 meses e 1 ano sem beber?&nbsp;&nbsp;O TEMPOA recuperação milagrosa do corpo ao deixar de consumir álcool.&nbsp;&nbsp;Vietnam.vnO que acontece com seu corpo após 30 dias sem beber álcool?&nbsp;&nbsp;Notícias ao Minuto BrasilO que acontece com a pele quando você fica 30 dias sem consumir álcool&nbsp;&nbsp;MetrópolesApós Leonardo interromper a bebida por um mês, médico explica efeitos do álcool nos triglicérides&nbsp;&nbsp;Alô Alô Bahia",
       "sources": [
         {
           "name": "O TEMPO",
@@ -93,7 +165,7 @@
       "id": "f27694d77ae9",
       "title": "Doenças silenciosas podem roubar a visão de forma irreversível; saiba quais são os sinais de alerta - Jornal Correio",
       "published": "2026-10-12T08:10:00+00:00",
-      "summary": "Doenças silenciosas podem roubar a visão de forma irreversível; saiba quais são os sinais de alerta&nbsp;&nbsp;Jornal CorreioEnxergar bem é viver melhor: a importância da prevenção da saúde ocular na terceira idade&nbsp;&nbsp;AFPESPDia Mundial da Visão alerta para doenças oculares&nbsp;&nbsp;Agência BrasilOlho seco afeta um em cada quatro pessoas&nbsp;&nbsp;AJN1Doenças oculares podem avançar silenciosamente e causar perda da visão&nbsp;&nbsp;Portal Você Online",
+      "summary": "Doenças silenciosas podem roubar a visão de forma irreversível; saiba quais são os sinais de alerta&nbsp;&nbsp;Jornal CorreioPoluição em São Paulo aumenta risco da Doença do Olho Seco&nbsp;&nbsp;Valor EconômicoEnxergar bem é viver melhor: a importância da prevenção da saúde ocular na terceira idade&nbsp;&nbsp;AFPESPCNS debate caminhos do cuidado com a saúde da visão no SUS — Conselho Nacional de Saúde&nbsp;&nbsp;Ministério da SaúdeVisão comprometida aumenta risco de quedas entre idosos e exige a",
       "sources": [
         {
           "name": "Jornal Correio",
@@ -105,23 +177,11 @@
       "id": "7c2f608144be",
       "title": "Canetas emagrecedoras: médicos começam a indicar para tratar alcoolismo; estudos mostram a eficácia - O GLOBO",
       "published": "2026-10-12T07:30:00+00:00",
-      "summary": "Canetas emagrecedoras: médicos começam a indicar para tratar alcoolismo; estudos mostram a eficácia&nbsp;&nbsp;O GLOBOCanetas emagrecedoras serão estudadas por possível efeito contra apostas e compras impulsivas&nbsp;&nbsp;Diário do Centro do MundoCanetas emagrecedoras podem mudar nosso jeito de agir? Entenda&nbsp;&nbsp;www.radiocaicara.com.brCanetas emagrecedoras podem ajudar no tratamento do alcoolismo&nbsp;&nbsp;Correio do Povo PenedoEstudo sugere que canetas emagrecedoras também podem inibir",
+      "summary": "Canetas emagrecedoras: médicos começam a indicar para tratar alcoolismo; estudos mostram a eficácia&nbsp;&nbsp;O GLOBOEstudo sugere que canetas emagrecedoras também podem inibir vício em jogos e compulsão por compras&nbsp;&nbsp;O GLOBOCanetas emagrecedoras serão estudadas por possível efeito contra apostas e compras impulsivas&nbsp;&nbsp;Diário do Centro do MundoCanetas emagrecedoras no tratamento do alcoolismo: eficácia comprovada atrai indicações médicas&nbsp;&nbsp;Sou PatosMédicos receitam ca",
       "sources": [
         {
           "name": "O GLOBO",
           "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPR3BIR2g1b1dhU2p5c09FdGdZbF9zaUxqdk83RENpRGIxd2FjM2Q4b3kxdHpyQi1JN1IzWW5ac0hKRHlFLWJTS3hySzhPMnZOQnlTUEtNaGE0Rm0wY2hUbl9ZNWNvbnN3SlpuWlYtVWNQM2hmYm54Nm5WMmZ3OHR4SUlLYjJMTFMzbi1KN0JOYlN2OHhBTnFWbDFSWkoxdHpSbTJmZ0paNXFMSk5wdy1UbFNxVlp1djd2TFdKWlRTckZ2LUgzeU1xN3BILTBqbjdtYkphdlVYbFNqQ1B4cWxOd1lVRzR3SzdX0gH3AUFVX3lxTE1zX1ZTZUhwLXNkaDFTaGVZWTUxbjhXSzdMV0dLRjZJVE1OdUQtR0dJRTVWZUMtS2phOXVSWFdYUzhEaEZfMUNtZGY5S0h4NDI2Rm03RHB3VVgxR0JVTkNiYzQzaXQ2Ni1oU0FBWXFlOVJfMkU1UElhSzNVWTVBX3h6U3lUeGR6TWFOYzBZZXJEMFFrTkFDX1FrQU5kd1FMSXRyV1Zub05nbnJZRG5tbFlPLU1fbkQtZEZMZGhFWktMVXl0V3ZCTElPekdWTzNJT01NRU40ZDhZR05FRDRRNWZsRUpvcmpfYlFwVEprTjI5cFppRmpRX00?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "84aee29e71ad",
-      "title": "O que é paralisia de Bell, doença diagnosticada em humorista que também já acometeu Fernanda Gentil - O GLOBO",
-      "published": "2026-10-12T07:00:02+00:00",
-      "summary": "O que é paralisia de Bell, doença diagnosticada em humorista que também já acometeu Fernanda Gentil&nbsp;&nbsp;O GLOBORenato Albani é diagnosticado com paralisia de Bell; neurologista explica&nbsp;&nbsp;CNN BrasilO que é paralisia de Bell, doença do humorista Renato Albani&nbsp;&nbsp;Diário do NordesteParalisia de Bell tem cura? Entenda o tratamento e o tempo de recuperação&nbsp;&nbsp;Tua SaúdeParalisia de Bell: veja famosos que tiveram o quadro, além de Renato Albani&nbsp;&nbsp;Juruá 24 horas",
-      "sources": [
-        {
-          "name": "O GLOBO",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNS14bVVQbmdTcURtS0w1YlhNZFR6ZVM1MlhLM3RpSWtubFBtU0dpTVFCeF9XYUFVa21aNVF3c1BfdEJFdmVYY3BZdmJROGFXZk9LUTBrcVRzZmNXZ25kalhxdFF2anR4bkhyMGd4VlFEVTNIR2NHWXZIckhLUGVZZHpMU05jbFpJamlOXzB6d3g3V2dGcGNZeEwyQWlpdm1ud19ZUkxCc3RJaEFHZlVGLW10VUdzVFRrZ0FUU3RnMUZ2WjNvLXozZ3RWZ2hLQURDQnpkRW1SNFZCbXpNbE1IckRNMGFIcTZoZFHSAfgBQVVfeXFMTl9ISXgwX0NqTEs4YTc2TTBHTEdqZGtKYzdGYXdkUzE1b2JlaVFVanU1X0F2b1pfLWpjM01EWmhjNVFoYk1ZOGFPUHRYS2ZFemw3bmFWazlFTG5VcWtvZ1c3SzB6UkZ0Sm1uSHBRT2NvTkl6WnZwSGhzM1pmWEpuM2JFWHhWRGg3SFhZZGtKQngtUzMza0Z0OGpNbG1mU2tVVlNZTjJxUjVxbXBBTmptQVI0d0FUcFR2cWR1b0x3dExQUjEtRFdXWTJvQVp5RUwyWHpxdWMxb3ZHQ3JKVmJnMnlNelhnUXpwMjJCdGZHMERLUmNfRl9yems?oc=5"
         }
       ]
     },
@@ -146,6 +206,30 @@
         {
           "name": "Folha de S.Paulo",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc2hPLVExaTNxSUVtZjZWSHhzbTNXUFZjWVNIaDRDcU00SExkQWVsdlZMVTJVRUpRSm5wcWVWODQ3NFI4TkE0UWhwRnJIbGxaZ0ZoTEIzcm5acktXaVdlUGZZUjF4M2pDdkEzcWNwU1BFdU1COVBSZC1GT0tFazJCeHJWVFB4V3JCalREVkxLMllnYWJWcE9hTnJlMDctemtFQ254WWd5M2dpYkg5Vzllekw2Wl9nQUprYVYzaWxuWUw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "71e416e19fc7",
+      "title": "EUA, China e Rússia correm para levar reatores nucleares à Lua, mas especialistas alertam para riscos radioativos - O GLOBO",
+      "published": "2026-10-12T03:00:01+00:00",
+      "summary": "EUA, China e Rússia correm para levar reatores nucleares à Lua, mas especialistas alertam para riscos radioativos&nbsp;&nbsp;O GLOBO",
+      "sources": [
+        {
+          "name": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQd2JMQ0x6RTdkRThnblRjZFpiUUQ1bGk3YnBRX1hNWkNDSDNHcG5oMHM4bjd0VXl2aEdtTWNQYW1vV3FMLW5zNkFCWjhLYTNwOC1rT3Bkb09VV0hHWGVmYjdhODJvM3lESDVQbk12OE5DdnJLd3hqNXZFbnBjN0JCVTI3UzV6ZW54YS1uUEhlam5mcU1MdTFmeVd5LXA4MHNBaWVxY1d4d3B6dG9YSHJvRFpFWm9PX1VoQ00yOGJ3NGo4MlhISEoweDFlcE52MWVEa1BDME93TGpuR3RhaEgzZDVseDJaRGltLW8zdkdmQ3FDaHFkam92ZVEtONIBigJBVV95cUxQLVNuMTRuT3hXT2hKYk5jZXYtQWlkRFhZaUxBVlE1dkxSamJMSWZ2VnRISGpaaGhmNXRRU29ZS2NCaUpRWmRuUzFoR2Q5S25FeU5YWmJhekZtYlQ0QmNoWlRNNl9ZSi1sY0l2T3R2akVmMFB4WFY3OXVPSHVGYTZkd3ZDcXFodmh6U0VWemlwZVExYk9zVzhxMzZ2aTBFY0dWdk5ncHhyeVBrMGhjX0k4Q2tMNVp3TkhzV3g4bk9xelBoMERyRGJhQUVfMm5uazV3NHpoZjFPUTJUbnB3ZTVTREt6TWRSVXRRM2oyYlJhV19BbDFJZzhrTlgzN181SWhndG54R3dlbFotQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6272d4648bbe",
+      "title": "Dengue: prevenção para o verão deve começar agora, alerta médico - O Dia",
+      "published": "2026-10-12T03:00:00+00:00",
+      "summary": "Dengue: prevenção para o verão deve começar agora, alerta médico&nbsp;&nbsp;O DiaVigilância Ambiental de Volta Redonda reforça prevenção contra a dengue em dias quentes e chuvosos&nbsp;&nbsp;Prefeitura de Volta RedondaClima quente e chuvoso favorece a proliferaçao do mosquito da dengue&nbsp;&nbsp;G1Tempo instável reforça alerta para prevenção das arboviroses em SP&nbsp;&nbsp;agenciasp.sp.gov.brPrefeitura de Fernandópolis intensifica campanha de combate à dengue&nbsp;&nbsp;OExtra.net",
+      "sources": [
+        {
+          "name": "O Dia",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQd2FDc2o3bXYxR21faDlUYkJKRUpXdUMtS0R5RmF4cmxFeHlpSU5wSjhqc2xjUmwtLVQ1YkFiN3NDZXRyOGZPZHE2TmtWbk9jdGdJS0JHSFo5bE1WWkdlVTY0UjBrdVYwOXlmQ1hjTjJZZzBfWmk2NzFEYjVVVzdBX2hqQzdBZTdDRHZDWUVuNWgxQjZyTkNTZGJwN1hLeUgwaU5VSVpVRUMxMnFjeVVlSTdfYWkyVUhydFdxNEhB0gHDAUFVX3lxTE1BQzR1T3hKMzZSbWozQVJvUFl3TjdmR2Zybjh3WmFlN0hjS2xiZ2RLcjdYc2NOQV9rMERxOVZYM0ZHMi1zODhZWVYwYzdrd2l6ajJQc2F1c2pmLWFkenRMaTRnSlk0RVRteXJ1X2ltaktna3E2VkJfMkxXMnFmSHJDSTM3TXJDNG1ySGVNenR6dmVLUHhmV0VtbWZwdm5KQVkyMGpKX01YY05nSjJCTTJTbi1HZ0tlUEMydG1LLURPaDRwTQ?oc=5"
         }
       ]
     },
@@ -186,6 +270,18 @@
       ]
     },
     {
+      "id": "7841286fcf7e",
+      "title": "Um estudo de psicologia concluiu que pessoas nascidas entre 1945 e 1965 têm uma vantagem psicológica única - Super Rádio Tupi",
+      "published": "2026-10-11T16:51:38+00:00",
+      "summary": "Um estudo de psicologia concluiu que pessoas nascidas entre 1945 e 1965 têm uma vantagem psicológica única&nbsp;&nbsp;Super Rádio Tupi",
+      "sources": [
+        {
+          "name": "Super Rádio Tupi",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPX2ZvLWVFa0l4ZWlPN0V3MnVWVWdvVzdUc1ZIR0R0bnpFYXRFaWhpR21JbGxsREMwNW45NkV4VGZjM1cwVDlZZlBTd3ZXS1pCNC1FLS1EemV3cGF0VnZ5QTVyelREQUQwTm1fNzB5UGpmclF4M0c1SHduRXhtV2dxXzI3SFI0dUdQLVJNN1pXX2wzdXFhTnAtcHZyTWVlVWhGcEN3NF9qX2FudFVQVVNBR2s1alZEbTZuaG9uSG5KZERsSF9iTldCTlMxbW9QRzRmb1BMTi1acEg0QQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c40b1233f3b2",
       "title": "Papa Leão XIV anuncia cirurgia para remover nódulo no pulmão - O Dia",
       "published": "2026-10-11T12:26:53+00:00",
@@ -194,30 +290,6 @@
         {
           "name": "O Dia",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVDRUWmNlOVNlRXVBUTBJRlpwNnFJekkzTnp3c2RRbE1nbm4zdUEzNC1sOVRCaU9uc1VTQU0zdWN0Q1hZTHVmb3hENElRSjJSZmQxbFVFbzlMemI3dmVYUmRsS0RnMy1Gb01EYTRqdUpsdmxrN2tHNEtFcFZ5YmhtWmVNTzNmWFp4SmtfQmN5b3ZacV9TeFE2RDlHd0wxdllEem9NeG56WWdreEpwaUVBXzBKcFRldmZsODlrcA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "942a246b6d46",
-      "title": "Pesquisa identifica estratégia molecular contra leishmaniose cutânea - Poder360",
-      "published": "2026-10-11T11:04:15+00:00",
-      "summary": "Pesquisa identifica estratégia molecular contra leishmaniose cutânea&nbsp;&nbsp;Poder360",
-      "sources": [
-        {
-          "name": "Poder360",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT1I1TkZhQXB5WXlpbjZVM3o2d0VuajctNk5wYXQ1UTI3ZU56cVF1NlFBVlY4TVM1V0pTZHFrYUVFekx1c2x6UTF4a01TT2pVUTNvQ1dSUkVUYmtybHpDVGE3blB4a1QwSjBObUVhc2ljVFlIaHZIa1dFU2ZsVWIyMWVtNlo0cVJCVmxlbXMtUzREOUE0cEg0VVdLS1VTZ2Rydl9NcE1pcHZJMnFxTFE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "762ed2d56fee",
-      "title": "Cicatrização de feridas no diabetes é desafio para o paciente e a ciência - Poder360",
-      "published": "2026-10-11T09:54:15+00:00",
-      "summary": "Cicatrização de feridas no diabetes é desafio para o paciente e a ciência&nbsp;&nbsp;Poder360",
-      "sources": [
-        {
-          "name": "Poder360",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbThfVFUxTHBOSGxrQ2hiMzlDRjhZSmw3ODFFNDUzTGctWkI1WkNRN2hKWnZZSDNhYTZwcTk3bzBmM19VcWY3d0NiTldlbXkyNnplZ1lkWHNna1RtS2FPeVdGa2h4Y0Y0Mko2a0dkdnZLcTNTSXVhUld2azJOQkJVNkFuSWItS2NNX2dvSDNZLUdVZjV6NldtcUlMVlRMdVZNckQwM2xtbEFHOENFWkdlaENRT0g?oc=5"
         }
       ]
     },
@@ -234,50 +306,26 @@
       ]
     },
     {
-      "id": "3b20cc69bf9f",
-      "title": "Quais as mudanças no estilo de vida que podem melhorar o colesterol e a saúde do fígado em quem tem obesidade? - G1",
-      "published": "2026-10-11T07:00:00+00:00",
-      "summary": "Quais as mudanças no estilo de vida que podem melhorar o colesterol e a saúde do fígado em quem tem obesidade?&nbsp;&nbsp;G1Sem sintomas, gordura no fígado com inflamação aumenta risco de problemas cardiovasculares e pode evoluir para cirrose&nbsp;&nbsp;Portal Drauzio VarellaEsteatose hepática: nova diretriz não olha só para gordura no fígado para definir riscos do quadro&nbsp;&nbsp;EstadãoDiretriz atualiza o tratamento da MASH com novas terapias&nbsp;&nbsp;Afya | HomeGordura no fígado: o alerta",
-      "sources": [
-        {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRW5ZM0dBS3EtcXpYSFAwQ3ktN0lPb25vVGh2MTYyQ2dSYVBfNVpFVEg2MU45MXdUclBwcjkzRHJsM3lQbV9VTFpFNGpqbWVSQ0hidkMtTy1FeWZZdGNYbmlCWWQ5NkxsdnRQc1M1Y3FMUGhPOHkxMmpXVmR2ZXNya0dWalZiWENyVDJnRVgyckhNMFFLSWZRRUxmajdLaURhOXNLWlEwMEdKV3N1SjEwT2dSamVxMXlNb01WT2dnMndjTTZxaVdtN1IxdGpyYTJrSXdnWmdwU2hndUMybjIweUVUZm1JdTVJLUxoRTJCZC1sam_SAYICQVVfeXFMUGNoRHVLNUI5c2c5SW9HaFdKWEU5SHBPNW9pcWgyRzlMamF4TWthTmRGVkpkMFJqSTZZaEhpM3c4Tjh3YnVDRGJYTkYycnFJa1JEcGtmcHM2UEZKM2RHVkJnZWxEUnZWbFdQUndYemFyNlMxQTdMYnVYcG01c1NGTzJpcHV3V1dmWXZVSEJuVGdla1lUVmJhR2tPZGNWY0tXOEJuV0g1QTRsMGV5QXYyTXphU3NpbkJFcTB2YWNQQzRnbDE5Q2ROSHpxUGNPSkFVTDdnVXBVM2kxcmVuMHN3Q0Jqd0dpTXFpdTA3eVNwV0ZOR0N3VUxEbGYyMDJhMm9yNkZ3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "51cc8739419a",
-      "title": "Quais são as melhores e as piores gorduras para a saúde? Nutricionistas explicam - Globo",
-      "published": "2026-10-11T07:00:00+00:00",
-      "summary": "Quais são as melhores e as piores gorduras para a saúde? Nutricionistas explicam&nbsp;&nbsp;Globo'Bela e poderosa': por que todos nós precisamos da gordura corporal&nbsp;&nbsp;Folha de S.Paulo",
-      "sources": [
-        {
-          "name": "Globo",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaGh2ODl4TmgweXJMb3FBbnlOcmJBQVVvM1d2VWxDSFVrcGRaTDFKWE1hLVpUWlpKa3p3c3J6TXdlUGpDMHk2M1NnZTB0N0NpM251LUIxTzRBOUJIMFRXX05VNTlUS2xkT3VsNWlrZUZFZklaVGhLWWpMeFktb1JtbW1JTWdrNE1TZU9NQWdsdzdFYzU5VWZlVGJ1SUJsYXFhSXU2LXY2X0JfYmZyMXZkZloxb2M5NXRPNzU4VGhBVzktSFMweFZLV1lwTXFscVHSAd4BQVVfeXFMTTY3X29hY3ZjZktub0dVOFpSZWJsWGd0VkwwZ0RFRmx0STVKTXFCWGk3Mk1KR3g3WHNzYnFielh5UXVfQTI4Zjl1RkdzcUNmcW5oTFVZbTVyNDF2dGxzOXVxYjc1MW50NGdIX2xMRWZVZU5mN1plMnlxMVF6eHBPTkp4Q3c1WnNISHRYb3BRNTNWVEJ4UEVJUXc2QW16OTJoWU1iTlh2VEJiNFFmYjZLbGxMbXVMeVRUTHpXY2VXYzk5VU94SkxMeVVKcVlMU3pSbHlzelNsd1NBMkVjdHJ3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0a9e09311c2d",
-      "title": "\"Preciso viver o agora\", diz psiquiatra que descobriu câncer de mama aos 45 - Metrópoles",
-      "published": "2026-10-11T05:00:00+00:00",
-      "summary": "\"Preciso viver o agora\", diz psiquiatra que descobriu câncer de mama aos 45&nbsp;&nbsp;Metrópoles“Psiquiatra de 45 anos descobre câncer de mama e reflete sobre viver o presente”&nbsp;&nbsp;BossaNews BrasilPsiquiatra com Câncer de Mama aos 45 Anos: \"Preciso Viver o Agora\" e Aprender a Ser Paciente&nbsp;&nbsp;Povo na RuaPsiquiatra que descobriu câncer de mama aos 45 afirma: viver o agora&nbsp;&nbsp;Itamaraju Notícias",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMUJzTVZqeHFpclA2OGF5b3lsRmlKVkRtOFQzT1VVNFZaVWlsYmhCbGxIazhaV1VRYlc0RWRCZm1ZSHJmemM0bXhCb1hucU15SjdxV2tWc1hSaFlMRUt0NGE2NWd0UHEtbjFlTk82RkxDNHNILWJFa2JCZndyNkh2UjhLT2tkT3J5MkNTbEI4LUlNZTg4N2JtejVtM2VNdmhRZW9ObG9WSEo?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5c0e10b8b155",
       "title": "Brasil avança no desenvolvimento da primeira vacina do mundo contra malária vivax — Ministério da Saúde - Governo Federal",
       "published": "2026-10-10T17:48:52+00:00",
-      "summary": "Brasil avança no desenvolvimento da primeira vacina do mundo contra malária vivax — Ministério da Saúde&nbsp;&nbsp;Governo FederalAnvisa autoriza teste em humanos com vacina inédita contra a malária feita no Brasil&nbsp;&nbsp;VEJAAnvisa libera testes em humanos de vacina brasileira contra malária&nbsp;&nbsp;Folha de S.PauloUFMG desenvolve vacina inédita contra malária&nbsp;&nbsp;G1Brasil avança no desenvolvimento da primeira vacina do mundo contra malária vivax&nbsp;&nbsp;Montanhas Capixabas",
+      "summary": "Brasil avança no desenvolvimento da primeira vacina do mundo contra malária vivax — Ministério da Saúde&nbsp;&nbsp;Governo FederalAnvisa autoriza teste em humanos com vacina inédita contra a malária feita no Brasil&nbsp;&nbsp;VEJAVacina brasileira contra malária avança e inicia testes em humanos&nbsp;&nbsp;BandUFMG desenvolve vacina inédita contra malária&nbsp;&nbsp;G1UFMG inicia testes em humanos de vacina nacional contra a malária&nbsp;&nbsp;R7",
       "sources": [
         {
           "name": "Governo Federal",
           "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMHI3VEN2S3NDLTFyblA3U2IwS0FQU0h1Uk5aS3dGYjl2cFdYWWtvQzVKUmRJMllsaTRPWWN1eHpDRzBaeTBrOWJaalNhaTVLcTB5cENRdXRmUjdFZzBBQ2IyamZPRXFGdjJpMlRqbzBJRGg3c29DYkc4WGhORnVuNjZyWEtES0NURW5vdVh4QkhSc0NvMDNDVmlmTlpHLVJnbXM5WjFUcWM0a2lITzZVOFpra2dZU0psajlQVXZGQWdBdFZLV2M4dEkzaHhiWUhRM0lYZXVpZVZWMkF3bEFr?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "66e21478e09b",
+      "title": "Sem sintomas, gordura no fígado com inflamação aumenta risco de problemas cardiovasculares e pode evoluir para cirrose - Portal Drauzio Varella",
+      "published": "2026-10-09T19:06:38+00:00",
+      "summary": "Sem sintomas, gordura no fígado com inflamação aumenta risco de problemas cardiovasculares e pode evoluir para cirrose&nbsp;&nbsp;Portal Drauzio VarellaQuais as mudanças no estilo de vida que podem melhorar o colesterol e a saúde do fígado em quem tem obesidade?&nbsp;&nbsp;G1Apesar de fazer dieta e exercícios regularmente, ainda tenho fígado gorduroso. Por quê?&nbsp;&nbsp;Vietnam.vnEsteatose hepática: nova diretriz não olha só para gordura no fígado para definir riscos do quadro&nbsp;&nbsp;Estad",
+      "sources": [
+        {
+          "name": "Portal Drauzio Varella",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNQkRvWk1RaVFGc3RVcW1uR2NhYzFOQVRSNDVjdnlnOFVHRUtlLUY4SkpJUWU1a0FBRFdVeVR3RGh6R1JYbHl3UmlCbVZpTUpoMHAxd2h6cGR5a3FqeVJiYVAtV3daUzduLWhQZFdncG95elhaNnVxQkZqRHZ5VWxTZW85cklJQ2hXaWQ3Z0VCQlJEdmlhcTJPaEhyOGtDVDZvUlR0anAxbmNPRjR3bVJYci1BMUhJNXJ6UUp2dlNpbTdVRlpGSGhJU1RBeExNdmJlekJvUTN6VVBMWDNKQlZ2bUV6djhhLV9QMTV6NzJEam1iSFZNR3hV?oc=5"
         }
       ]
     },
@@ -294,26 +342,14 @@
       ]
     },
     {
-      "id": "e06f47e92876",
-      "title": "Depois do aplauso, o escape: como o câncer de pâncreas aprende a driblar remédio que fez médicos chorarem em congresso nos EUA - G1",
-      "published": "2026-10-06T08:00:01+00:00",
-      "summary": "Depois do aplauso, o escape: como o câncer de pâncreas aprende a driblar remédio que fez médicos chorarem em congresso nos EUA&nbsp;&nbsp;G1Novo medicamento amplia opções de tratamento para câncer de pâncreas metastático&nbsp;&nbsp;Jornal da USPPacientes podem desenvolver resistência a remédio revolucionário contra câncer de pâncreas&nbsp;&nbsp;Folha de S.PauloAmplificação de KRAS lidera resistência ao daraxonrasib&nbsp;&nbsp;Afya | HomeCâncer de pâncreas dribla remédio que fez médicos chorarem;",
+      "id": "88236919fb76",
+      "title": "O milagre da multiplicação de referências bibliográficas (fantasmas) - Revista Pesquisa FAPESP",
+      "published": "2026-10-09T11:57:00+00:00",
+      "summary": "O milagre da multiplicação de referências bibliográficas (fantasmas)&nbsp;&nbsp;Revista Pesquisa FAPESP",
       "sources": [
         {
-          "name": "G1",
-          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOdmViQzg1SWdzalczakJLRWVJV3FOX0JBWE1qaG9UcGZTUHV4c2w0UUFjNWYxdGZNTzJpTVh5TnkwSW8xWlVMWHNRd1Zjc0s1cnh3YkhFWFIwV04zS3o1THIxU0lIUWFEeVYwbFpSelFYRTZ5MmU2WjlnN3ZuVDdQOXdUTzBrMVVOT2hHVmp1ZG1iX2g1T2tiWGZUeFRKYjl2Y1hCbDZaSnNoRExwSklrRFhubWxoY2cybE5EZkQ2M0swV0xUYmpOQnJENEVCNmhTeDh6Q2QyYzk0aGVnY2owRmNDYnNCZEZUU3YwR2tiT1F3WjdMaGQtRGxWUzg3MTFmVUx4cEZNNNIBlgJBVV95cUxPOFBUUFF6dDkxaXZoVV9iMy1BbWNFNXhpOW1WdHYxUGZ1YUphMDIxTUxIRFJ5Sl9MeC1iMHNFeXdSMFFTVTg4LWVHekRWQ1hFNS1fZGx3ZjB6cFBjVG1zQXdGY0dBR3RTd2haZklJRG93VjZ3aWxQaHo2T09KNHlqMW5KNGZ6UDAxdUhBWF9hcXEtVEhTUWJPQkVtdGh1QmVxZGk2bk12c2VqcXhsakYzUGkybkFpeDRoVjNyS1YzYkhFRmFhaS1GOUxDRDRINllmVjVZZ2p4VHdLRml0Q1lXN2V3aHZZSW5xY0xsM3Eycmt0ZUpNQTNMbHBCWjZadUgwbjdaZllOZF9UUkN5WllXZEc2NUQtUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e5750c6980f5",
-      "title": "Nova York declara estado de emergência por surto de sarampo - Correio Braziliense",
-      "published": "2026-10-06T03:56:00+00:00",
-      "summary": "Nova York declara estado de emergência por surto de sarampo&nbsp;&nbsp;Correio BrazilienseEventos religiosos de massa colocam América do Sul em alerta para sarampo, diz Opas&nbsp;&nbsp;Folha de S.PauloBrasil reforça ações contra sarampo após avanço nas Américas&nbsp;&nbsp;Poder360Especialista explica sobre o sarampo e a cobertura vacinal na região&nbsp;&nbsp;G1Saiba o que explica o surto de sarampo em SP e quais são os riscos para o RS&nbsp;&nbsp;Correio do Povo",
-      "sources": [
-        {
-          "name": "Correio Braziliense",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORjJhWk5qUmZuN0pQUVdpNm9vRkNaRmh6SzEyUV9oWUllUldXX0hNMjJlOGdPNElQTWEybHUwb3EwaW5HRkUzbkwxc3dxeGFDUXByRUxnWnF6azV2UmYwYUQ3bkFPNTljUVdUcjlqTGRWX1RXbE9ueVZrd2x0d1cxXzgwTzVHVU5hVmlwZlYtYXY1T1p0UjBjTWJXM1VJQjZmbkU1ZkFVejN2cmxXOEd5ZGVEVlFyYkFnMXdaZ3QtdXlDd9IBxwFBVV95cUxQSy01TVJwR3FTcFVfcFZpN3doMFI0QzNhdl9SYnlUSktrYmJleUFRemNXZ0hnNWNBMWZhQ1k2X3ZFQk80bnFGYU1SWEhWUE10ZWYxMk96emFkM1AwYlg4OEJuSEV3ak9pNllNQ2c4WHludzhrX09KbWtZZlFUOEttblpTSDh1dVY2T3UwenB6WTNUSzZSLVA4TkZmMmFhRTZIMmctMm9aV0JqSlAtUGVRZzdJeDhXLWdyQWRlTWxqcDNaSms1c3lz?oc=5"
+          "name": "Revista Pesquisa FAPESP",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb0NpbU14ekdXekFCNGdrVEljZC12cmwwTUJKaUVqLXY0Nm1CS1M4NHA2SXlpSWxpTU9fU2VjaEFldFp4ckdMUzhKeWMtNGVKTy1FeWNTcFk4RWIyVVNUbnFvQ3k5WFU4R2lGRVAteGl4WFFERzBiX2hYRUFwUWRCY2pGT3hheko1N3hXOWRKNi1zS0YzSW5HaEFfckhPc2MzdS1n?oc=5"
         }
       ]
     }
